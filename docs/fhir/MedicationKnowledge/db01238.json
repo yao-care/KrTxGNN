@@ -1,0 +1,36 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "db01238",
+  "meta": {
+    "profile": [
+      "https://krtxgnn.yao.care/fhir/StructureDefinition/KrTxGNNMedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://go.drugbank.com/drugs/",
+        "code": "DB01238",
+        "display": "DB01238"
+      }
+    ]
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "KR",
+          "display": "Korea, Republic of"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

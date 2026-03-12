@@ -1,0 +1,64 @@
+# KrTxGNN - 韓國藥品老藥新用預測報告
+
+# 基本設定
+title: "KrTxGNN Drug Repurposing Reports"
+description: "韓國 MFDS 藥品老藥新用預測報告 | 한국 의약품 약물재창출 예측"
+url: "https://krtxgnn.yao.care"
+baseurl: ""
+lang: "ko"
+
+# Jekyll 主題
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+
+# 插件
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# 搜尋功能
+search_enabled: true
+search:
+  heading_level: 3
+
+# 頁尾
+footer_content: "Copyright &copy; 2026 KrTxGNN. 연구 참고용으로만 사용됩니다. 僅供研究參考。"
+
+# RSS Feed
+feed:
+  path: feed.xml
+  posts_limit: 20
+
+# Collections
+collections:
+  drugs:
+    output: true
+    permalink: /drugs/:name/
+  news:
+    output: true
+    permalink: /news/:name/
+
+# 預設值
+defaults:
+  - scope:
+      path: ""
+      type: "drugs"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: "default"
+
+# Open Graph 設定
+og_image: "/assets/images/og-default.png"
+
+# 排除檔案
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - "*.template"

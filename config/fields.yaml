@@ -1,0 +1,35 @@
+# KrTxGNN - 韓國 MFDS 藥品資料欄位映射
+
+# 基本設定
+country_code: "KR"
+language: "ko"
+regulatory_agency: "MFDS"  # 식품의약품안전처
+
+# 欄位映射
+# MFDS nedrug.mfds.go.kr 資料欄位
+field_mapping:
+  license_id: "품목기준코드"           # Product Standard Code
+  brand_name_local: "품목명"           # Product Name (Korean)
+  brand_name_en: "영문품목명"          # Product Name (English)
+  ingredients: "주성분"                # Main Ingredients
+  indication: "효능효과"               # Efficacy/Indication
+  dosage_form: "제형"                  # Dosage Form
+  manufacturer: "업체명"               # Manufacturer Name
+  approval_date: "허가일자"            # Approval Date
+  status: "취소여부"                   # Cancellation Status
+
+# 註銷/無效狀態值
+withdrawn_statuses:
+  - "취소"           # Cancelled
+  - "취하"           # Withdrawn
+  - "폐업"           # Closed
+  - "Y"              # Yes (if boolean field)
+
+# 成分分隔符
+ingredient_separator: ";"
+
+# 日期格式 (MFDS 通常使用 YYYYMMDD 或 YYYY-MM-DD)
+date_format: "%Y%m%d"
+
+# 編碼
+encoding: "utf-8"

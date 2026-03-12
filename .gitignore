@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+data/raw/*.xlsx
+data/raw/*.xls
+data/raw/E2bItemList.xlsx
+data/raw/EasyExcelList.xlsx
+data/raw/ItemPermitDetail.xlsx
+
+# Keep the JSON data
+!data/raw/kr_fda_drugs.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+
+# Secrets (if any)
+.env
+*.pem
+*.key
+
+# Ruby (Jekyll)
+docs/Gemfile.lock
+docs/_site/
+docs/.jekyll-cache/
+docs/.sass-cache/
+
+# Logs
+*.log
+
+# Large files - exclude from git
+/data/*
+!/data/cache/
+/data/cache/*
+!/data/cache/.gitkeep
+!/data/news/
+!/data/processed/
+!/data/external/
+model_ckpt/
+.venv/
+
+# Large prediction files (>100MB) - must be excluded
+data/processed/txgnn_dl_predictions.csv
+data/processed/txgnn_checkpoint.csv
+data/complex_disease_42/

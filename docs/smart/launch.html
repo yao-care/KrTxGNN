@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KrTxGNN SMART App - 연결 중...</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+        .loading {
+            text-align: center;
+        }
+        .spinner {
+            width: 50px;
+            height: 50px;
+            border: 3px solid rgba(255,255,255,0.3);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        h1 {
+            font-size: 1.5rem;
+            margin-bottom: 10px;
+        }
+        p {
+            opacity: 0.9;
+        }
+        .error {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 400px;
+        }
+        .error h2 {
+            color: #ff6b6b;
+        }
+    </style>
+</head>
+<body>
+    <div class="loading" id="loading">
+        <div class="spinner"></div>
+        <h1>KrTxGNN</h1>
+        <p>EHR에 연결 중...</p>
+        <p style="font-size: 0.8rem;">Connecting to EHR...</p>
+    </div>
+    <div class="error" id="error" style="display: none;">
+        <h2>연결 오류 / Launch Error</h2>
+        <p id="error-message"></p>
+        <p style="font-size: 0.8rem; margin-top: 15px;">
+            문제가 지속되면 관리자에게 문의하세요.<br>
+            If the problem persists, contact your administrator.
+        </p>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js"></script>
+    <script>
+        // KrTxGNN SMART App Configuration
+        const CLIENT_ID = "krtxgnn-smart-app";
+        const REDIRECT_URI = window.location.origin + "/smart/app.html";
+
+        FHIR.oauth2.authorize({
+            client_id: CLIENT_ID,
+            scope: "launch patient/MedicationRequest.read patient/MedicationStatement.read patient/Patient.read",
+            redirect_uri: REDIRECT_URI,
+            pkce: true
+        }).catch(function(error) {
+            document.getElementById("loading").style.display = "none";
+            document.getElementById("error").style.display = "block";
+            document.getElementById("error-message").textContent = error.message || "알 수 없는 오류 / Unknown error";
+            console.error("SMART Launch Error:", error);
+        });
+    </script>
+</body>
+</html>
