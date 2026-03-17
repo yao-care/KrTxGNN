@@ -1,30 +1,95 @@
 {
-  "last_updated": "2026-03-17T02:29:00.937348+00:00",
-  "total_count": 26,
+  "last_updated": "2026-03-17T07:10:09.391503+00:00",
+  "total_count": 34,
   "matched_count": 0,
   "news": [
     {
-      "id": "2ec86c023827",
-      "title": "바른세상병원, ‘목 하나로 건강이 달라집니다’ 공개 건강강좌",
-      "published": "2026-03-17T00:51:49+00:00",
-      "summary": "바른세상병원, ‘목 하나로 건강이 달라집니다’ 공개 건강강좌&nbsp;&nbsp;에너지경제신문",
+      "id": "1b0010ee07c7",
+      "title": "[곽용태 칼럼] 고엽제, 파킨슨병, 치매…그리고 CIA가 아직 나를 안 데려간 이유",
+      "published": "2026-03-17T06:06:16+00:00",
+      "summary": "[곽용태 칼럼] 고엽제, 파킨슨병, 치매…그리고 CIA가 아직 나를 안 데려간 이유&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tOEdVVkl1a1V0djFvVjBnQ29QUWE4dU9QbWwtOFFCWXRMRFgtSzYzZzk4aXJrem9nNDZrRnBDeEV6dnNiWkJrQkxOTnNhVklRRGd5NGZ2dnN0VE0?oc=5"
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oUGhQanE0bnBYeW5zeGdKcS1RaTgtcTdxN2JEUGlJVm5KcGNHSTJDSVFLNUYtOGZ1aGduNVBCU1hqWENWZ3dSaG1QMTMzSXdJS0JXUEgxbG1TdDBTSWVwYWNnRzB0cGdrcVlqTm9DUk5pUQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "292269826dab",
-      "title": "포스텍-서울아산병원, 초고속 초음파로 혈류 정체 및 뇌졸중 재발 위험도 간 연관성 규명",
-      "published": "2026-03-17T00:13:05+00:00",
-      "summary": "포스텍-서울아산병원, 초고속 초음파로 혈류 정체 및 뇌졸중 재발 위험도 간 연관성 규명&nbsp;&nbsp;전자신문",
+      "id": "d8a5701da623",
+      "title": "저산소 호흡 트레이닝 ‘하이버그’, 회복·예방 중심 웰니스 의료 활용 확대 - 조선비즈",
+      "published": "2026-03-17T05:18:00+00:00",
+      "summary": "저산소 호흡 트레이닝 ‘하이버그’, 회복·예방 중심 웰니스 의료 활용 확대 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5Nc0VIbXZZaEl0MlRES0FqcldIdjdvdVloYWdJQWE0eWt0Q29YUWY3Vko4NTVtVXRzVUhwVEE4QjVXOHpaLVhkRWttTUNwUQ?oc=5"
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSy1CRXR1NGllajdocVp0eXVhQTM1ZTQ0Rk5TblYxNWlvdW9JOFZTOVltcWNFVTYzOUJONTZJcEpaTnFaMmlZbHNKRkZUOXZQOVFLYXdOXzFpV0ZyX3FYTjNYNVB3Mm5lM2lsZDVBYl9Ka0hFWXNra3FBSnE5ZTNWV19OaUJlMW5RRm1JVNIBoAFBVV95cUxQaHBSczZOUktaRGJ5M1I1UXc4cFlSTmlNY3VCM2JQbDkyTzB2TC16cjFVWWZsSlVpSFJBVGVtcmJ5Tk9vVkVLY05WSlJuaEF4b2xtTkwzU290aHdZanJaNXhIVEdEUmFQYWRTUi1FZ2FWaVUwTmVXa0tNVTZpdm9BN3pETjBSXzcxTVR0TDdETGg2WFpEREVpYUlDZVJSOGs3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "724b0e9c7117",
+      "title": "“초미세먼지, 파킨슨병 위험 높인다”... 여성, 노약자 취약성 더 높아",
+      "published": "2026-03-17T05:00:00+00:00",
+      "summary": "“초미세먼지, 파킨슨병 위험 높인다”... 여성, 노약자 취약성 더 높아&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tc1BXS29nNzVyYk1KbERmaGVaWHN2djdMb1o0SUFYTk12empfOG9Ga2daaVlnRzI1WTNjNUp1cnozOUZtWkswQV8yWFB5aDIwUjZwcmpPMHNWcklzQ1AzbjRabkFGMmQyMVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "756316986a75",
+      "title": "염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목",
+      "published": "2026-03-17T03:21:28+00:00",
+      "summary": "염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목&nbsp;&nbsp;메디칼업저버혈압을 급격히 높이는 ‘숨겨진 3가지 원인’…수면·운동·체중 관리가 핵심&nbsp;&nbsp;굿모닝베트남미디어“고혈압? 대학생도 흔합니다”... 2030 고혈압, 노년층과 증상 달라 ①&nbsp;&nbsp;하이닥“2030 고혈압, 합병증 위험 커... 혈관 살릴 '골든타임' 놓치지 말아야” ②&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwaERmUlB6MHdTaVVldmROZVRra2FJTXZJVWllVy1qXzR1Y25OMUZ6a3VZX1lHbUJ6T29PUjJTNnVQd2kxREdaT0VoXzZoTXktcmpMeFZtOGd0VUlENUZxVExkb1JMRWo4MlRN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c69b8b682327",
+      "title": "복부 불편감·골반통증 2~3주 반복되면 ‘난소암’ 의심해야",
+      "published": "2026-03-17T03:04:57+00:00",
+      "summary": "복부 불편감·골반통증 2~3주 반복되면 ‘난소암’ 의심해야&nbsp;&nbsp;의학신문",
+      "sources": [
+        {
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wYkFvYUl0MGxfX3BPZDRXUG1raURYZk1iOGdyYjAwWkhDUjF3MUNHR3gzXzJXaldYMU1HX2lLNy1KdlRoMmttUHdCMWN2ZVpiaFBSbjk4ZDRXN3gzeFhyVGY4bUxFTTNkMkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f39cd877bbe3",
+      "title": "美 심장협회 새 지침 보니… “콜레스테롤 낮추려면 ‘이것’ 꼭 해라”",
+      "published": "2026-03-17T02:45:00+00:00",
+      "summary": "美 심장협회 새 지침 보니… “콜레스테롤 낮추려면 ‘이것’ 꼭 해라”&nbsp;&nbsp;조선일보심장마비 위험 낮추려면 '이 약' 일찍 복용해야?&nbsp;&nbsp;네이트\"나쁜 콜레스테롤, 30세부터 낮춰야\"…美 심장학계 새 지침 발표&nbsp;&nbsp;동아사이언스비만과 내분비대사질환·합병증 - 복합형 이상지질혈증&nbsp;&nbsp;mostonline.co.kr[아침마다 지혜 #290] 콜레스테롤 신화에서 벗어난 합리적 노년의 삶&nbsp;&nbsp;캐어유 뉴스",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uQzI2ejJYWEU0dW42OGFGSU0wN21jazJCOUd6QVoxRGpvclR4UFJMZzN1WUlMQ0ZEZ3ZNeVl3VEU5bW9yekQ2SzRQRWxfSjBKd1FSYmpEdFBYc3BXd0ZlQ1JXb1RYRUNtTG1JRU9QaDdmbDBVNnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "800ad6c3adbe",
+      "title": "고혈압 임신중독증 산모 출산 후 심혈관 위험 3배 높아",
+      "published": "2026-03-17T02:09:53+00:00",
+      "summary": "고혈압 임신중독증 산모 출산 후 심혈관 위험 3배 높아&nbsp;&nbsp;메디칼업저버'고혈압·임신중독' 겹친 산모…출산후 심혈관 위험 3배↑&nbsp;&nbsp;뉴시스임신 중 고혈압, 출산 후 심부전·뇌졸중 발생 위험 최대 2.9배&nbsp;&nbsp;뉴스1\"출산하면 끝인 줄 알았는데\"…10년 뒤 '심장' 노리는 임신 중 고혈압&nbsp;&nbsp;네이트서울대병원, 중첩 전자간증과 장기 심혈관 질환 상관관계 규명&nbsp;&nbsp;헬스미디어뉴스",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UZjR0b2prM3hDdXF4MHJqZjMyVS1FeVZYaWFCMlN1dm5HSE40UDc4Skp3Q0J5N09kZWwzRS1oeURIbXhhejFVcW1GNWhuTFR1VzhQS01hZFowejh0UldtOHQ4UEFpTFVxZUdZ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -56,6 +121,45 @@
       "matched_keywords": []
     },
     {
+      "id": "1a9189ed312f",
+      "title": "TSH 정상화 이후 남는 증상 갑상선기능저하증 병용요법의 가능성",
+      "published": "2026-03-16T23:50:27+00:00",
+      "summary": "TSH 정상화 이후 남는 증상 갑상선기능저하증 병용요법의 가능성&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "mostonline.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mclYxZlBCV0VQV1hjX3ZCZUc5dFlrck5yZFJiTU1MNnRUMnliLWJyTlpSRmRPYTdZOTVORTFpSTlZMTRRd05TT1hJdVF0QWNDQ0YzU2lseC1rNXhKNVh1MlNaWGNiNFNJR0pweDVLMDQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "42643fb3732e",
+      "title": "“알약수 줄이는 것도 간경변 합병증 치료목표 달성의 지름길”",
+      "published": "2026-03-16T23:44:57+00:00",
+      "summary": "“알약수 줄이는 것도 간경변 합병증 치료목표 달성의 지름길”&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "mostonline.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00dHVtYnNEWXUxYnFtZTcwNF9sYkxXaDczZURFRmdzSkd2WWpTZkdfSTJFUU5NX3IyTkh5NUY4MGgtOFQtVUxqelJ1bmItU3lfWEV6bVFjdXR6MVlQY2VtSUZKOUd2RXpoVHVEalI5cWY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a1d0e0a958c1",
+      "title": "광학 및 나노 기술로 최장 8년 일찍 암 예측",
+      "published": "2026-03-16T23:32:19+00:00",
+      "summary": "광학 및 나노 기술로 최장 8년 일찍 암 예측&nbsp;&nbsp;사이언스모니터",
+      "sources": [
+        {
+          "name": "사이언스모니터",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMGRTZm1TalRuNE5NMmFXODBlb1pCaVo5MW1oQ041T0ttNWVuN0FQNzc1Xy1LeWdWTjBPZEYtZkdNQmNMMGxXcTczMzlzYTdqWV9ZQ0d5NHE2aTdrczFRcGRHZVBLcktwWVltdjRqdUN4RmdpRVUzWGV2WklqUTYteTBoTTN0U2dmay05bTRsQURUdHl6czB5X08yQ1NpN3VYaV9UNlNCdzUweFR3U1V2ZnJQQVN6MHZrbWYzNWlqUU9SSEpiWFVTa256SEo4MUwtWkxKbWdWbzNPbFczQm1tQ2NYeUZJOTR1RTVGYWxONE10R3F6ME1LbUtBTEx3c0pxcDUzNWZmaUk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "861ae5217604",
       "title": "“효능에서 지속성으로”…nAMD 치료 패러다임 전환",
       "published": "2026-03-16T21:01:00+00:00",
@@ -69,14 +173,27 @@
       "matched_keywords": []
     },
     {
-      "id": "ce0292bd36ed",
+      "id": "d11b5d139d5f",
       "title": "얼굴에 숨은 '뇌 하수구' 찾았다…치매 막는 마사지 방법",
       "published": "2026-03-16T20:21:00+00:00",
       "summary": "얼굴에 숨은 '뇌 하수구' 찾았다…치매 막는 마사지 방법&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91dDd5LUsxaUJFdFViNDg2TjA5aUtNLWFZTnNqNFZabUwwUVEwVGRlSk5vWlhRWEhjSXRFeU5OMkFCM2R6bUNiakE4bjBmSTExeExB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54TnVOUmp0MXgzZVA4ZkRlckI1ZTQydU03N1pNTG9kbW11dDRqMGZJTk4zOU5PU05xNEd3UFVGc1RVVFR4SEUyem4wRDRPeXc1bnB5LThB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c8f599f18b38",
+      "title": "스마트워치로 당뇨 전조 잡는다…구글, '인슐린 저항성' 예측 AI 개발",
+      "published": "2026-03-16T20:01:44+00:00",
+      "summary": "스마트워치로 당뇨 전조 잡는다…구글, '인슐린 저항성' 예측 AI 개발&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52SllrbnpxcDlQZlBWX2ZNa0hIcXNyTXJVa1duZUFrNzUySFJaNGp5S3QySUhGZ2FTWHh2Ukxodk9WMm5DcFpJMU5LOGlGZmM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -95,19 +212,6 @@
       "matched_keywords": []
     },
     {
-      "id": "18f8052e3994",
-      "title": "스마트워치로 당뇨 전조 잡는다…구글, '인슐린 저항성' 예측 AI 개발",
-      "published": "2026-03-16T20:00:00+00:00",
-      "summary": "스마트워치로 당뇨 전조 잡는다…구글, '인슐린 저항성' 예측 AI 개발&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WdDY0Tzd4M2FjMFdVX2ltakVhMHVFNmZ0QlMtc0xLMGw2TmtHblJudW0wWnZvbFBzM09ldTgxWWYtNmhBTnVHU3QwT05weWRRdGJKUA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "797a3fa160f7",
       "title": "日 네이처 연구 “소행성 류구서 DNA·RNA 핵염기 5종 발견”",
       "published": "2026-03-16T16:00:00+00:00",
@@ -116,6 +220,19 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xai1MU0ktbFBlbUVXNWp4YUlYeTN2UGc1STUwWGVfTjZSSFJCR1NQTFlhTEt6cmN2ZkE5a3A2UWdXWjA3TkdvRkc2alg2LTFUT2RxdTBIUjM3M1VjQnV0aVQ5NnNoa2RRbi14MzJWS2JtdVVlZnfSAWZBVV95cUxOb0RPTm1jRkYwTEVSQUJnVlZwS3l1bDI1RTNXM2otVko0djlrRzljZmVVbmFVVEUtN3R6U2NYWWFqTzJieTlQT0JuQTVOVjVBZW1fRks2SGJrLVBYSHkzc1pjc1RXOWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e8f34b11ae52",
+      "title": "어른도 성장호르몬 부족하면 심혈관질환 위험… ‘이때’는 잠들어 있어야 분비된다",
+      "published": "2026-03-16T14:00:00+00:00",
+      "summary": "어른도 성장호르몬 부족하면 심혈관질환 위험… ‘이때’는 잠들어 있어야 분비된다&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kT0wtU0dhaUVqWVJvWDRUUzNocG9zWEhpeDNxVndKYy1KNTNWcVptZ3hTNHpFVXp3SGVVeGxXU1lUXzl2RUVxdkU1X0xMLXVJUFlVei1IdGNhWkc3QUNqR0tUd1BsTDN4LWV3dV9SRl9IMXpnSmc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -251,19 +368,6 @@
       "matched_keywords": []
     },
     {
-      "id": "372697ca0828",
-      "title": "과도한 스마트폰 사용, 섭식 장애 위험 증가",
-      "published": "2026-03-15T23:23:53+00:00",
-      "summary": "과도한 스마트폰 사용, 섭식 장애 위험 증가&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDNk9JbXZJMngtRUEtbGVSa2g2MWRXdjlsVkZrWDN5TWRDS3lGbm9acVkzcHU3RXh6YUtUenR3V2phQXBqSXNaWFpHYWpiZmFaTE5qTW5rT0pXaURiWTR5UTN30gFsQVVfeXFMT1dsNnlVRUNYX1d2TFJkMzA5SW9kMlBXa2wyaV9fU2h4Y0l6WkE3MUU4Z0NUSVFYbDdHTGlBYWprRXZFSTI2SHJ4UjV6SzlNYnFnRk9mN0YyQmU1UllwY0dVcTJxcHAxYlZaSGMw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a0eb5ca3cebb",
       "title": "“의사가 정하고 환자가 따르는 시대 끝”…‘공유의사결정’ 한국 의료과제로",
       "published": "2026-03-15T21:32:47+00:00",
@@ -277,14 +381,14 @@
       "matched_keywords": []
     },
     {
-      "id": "fa0051b48835",
-      "title": "\"편두통 환자의 10%만 트립탄 처방…일차의료기관에서도 편두통 관리에 적극 관심 가져야\" - MEDI:GATE NEWS",
-      "published": "2026-03-15T20:52:00+00:00",
-      "summary": "\"편두통 환자의 10%만 트립탄 처방…일차의료기관에서도 편두통 관리에 적극 관심 가져야\"&nbsp;&nbsp;MEDI:GATE NEWS",
+      "id": "d398e565e61f",
+      "title": "中 ‘과학 연구 역량’ 독주하는데 한국 대학들은 계속 뒷걸음질",
+      "published": "2026-03-15T21:19:07+00:00",
+      "summary": "中 ‘과학 연구 역량’ 독주하는데 한국 대학들은 계속 뒷걸음질&nbsp;&nbsp;조선일보",
       "sources": [
         {
-          "name": "MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4bHNWMUxjZVBNdWtDUDhoeFBjbDRBRjc0VnVmTE1NcUZZQ2ZRM1NKaEhSU3BYM0JtNXEySmJna05fLURFNENQaEpmd3NSV2tSSWZQYTJR?oc=5"
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUU1mSm5tLU1zLVZXNFJneE5OOC1kX2JJRjV4OHM1djJLaXQ4YllwaFEybkJZU1ZSZDF5a19nNENGTk56ZTZmWWg2T2hEWWZScG9nTDh4dFlCcnlfMGFXb3hqNmZkQ2hMUUpKMGlod3Y3d0o3RG9uSDI0LWZ1NVZUVjVyRHhuWTDSAZsBQVVfeXFMUHdPdkw2cnZiNExKX19nSmd3WVo1dzRLNkpXQ0o1Ty03eno2S0ZKVmdIbnpFalVWNUprZE9DTzZSVXlRc3dUYnBRU0thZTlhLVZ2YUJZSlNpVG9EcGFWYTRlNkozUUZLX0t2ZlBTdTdqbXBIeVA5dWFyTmt6Umw0TkFfTnF1Wl9KNTJ5am9xMl9TNWFsekNYZWRmU28?oc=5"
         }
       ],
       "matched_keywords": []
@@ -303,14 +407,14 @@
       "matched_keywords": []
     },
     {
-      "id": "885499a23bb8",
-      "title": "\"나쁜 콜레스테롤, 30세부터 낮춰야\"…美 심장학계 새 지침 발표",
-      "published": "2026-03-15T09:00:00+00:00",
-      "summary": "\"나쁜 콜레스테롤, 30세부터 낮춰야\"…美 심장학계 새 지침 발표&nbsp;&nbsp;동아사이언스",
+      "id": "3ecdcaf5f2df",
+      "title": "칼로리 섭취 줄이는 식이 제한, 암 죽이는 면역세포 강화",
+      "published": "2026-03-15T08:12:29+00:00",
+      "summary": "칼로리 섭취 줄이는 식이 제한, 암 죽이는 면역세포 강화&nbsp;&nbsp;캔서앤서",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJQ2c0VndrZ2FlSmNmN1MzblhKNnV6N0phQjRYQ1pTVVVITm1LWDRMeU84U1U5aXE2Q0FsU2E3SDlwM1BWME5DeWpIXzVzT3dIeV8xVg?oc=5"
+          "name": "캔서앤서",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1X0I4SGtmZW5CVTAxMDkwckFrU2hIcnhzNE92Q095MzBxTjYzYlVJNnhvZUt6S2MwNzZSWXJTNUxHeTRoVnQ1OTBvMFloWUdJNVo3Z2s0TkRfRzhHYmNmN2E5U29VWkJ0dWFlc2FfOVo?oc=5"
         }
       ],
       "matched_keywords": []
@@ -319,7 +423,7 @@
       "id": "ba40b4ff2dc8",
       "title": "“기침소리 심상찮더니”… 중증 독감, 코로나 ‘이 암’ 위험 커진다?",
       "published": "2026-03-15T08:04:00+00:00",
-      "summary": "“기침소리 심상찮더니”… 중증 독감, 코로나 ‘이 암’ 위험 커진다?&nbsp;&nbsp;코메디닷컴코로나19·독감 심하게 앓은 사람 폐 봤더니…무시무시한 ‘위험’ 확인됐다&nbsp;&nbsp;서울경제신문'중증' 코로나 환자, 폐 상태 확인했더니…'무서운 경고'&nbsp;&nbsp;한국경제코로나·독감 심하게 앓으면 폐암 위험 ↑… “백신이 보호 효과”[노화설계]&nbsp;&nbsp;동아일보[건강포커스] \"중증 코로나19·독감, 수개월~수년 뒤 폐암 발생 위험 높여\"&nbsp;&nbsp;연합뉴스",
+      "summary": "“기침소리 심상찮더니”… 중증 독감, 코로나 ‘이 암’ 위험 커진다?&nbsp;&nbsp;코메디닷컴'중증' 코로나 환자, 폐 상태 확인했더니…'무서운 경고'&nbsp;&nbsp;한국경제코로나·독감 심하게 앓으면 폐암 위험 ↑… “백신이 보호 효과”[노화설계]&nbsp;&nbsp;동아일보[건강포커스] \"중증 코로나19·독감, 수개월~수년 뒤 폐암 발생 위험 높여\"&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
           "name": "코메디닷컴",
