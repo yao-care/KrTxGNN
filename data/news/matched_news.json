@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-03-18T13:21:29.315500+00:00",
-  "total_count": 36,
+  "last_updated": "2026-03-18T19:06:04.013348+00:00",
+  "total_count": 34,
   "matched_count": 0,
   "news": [
+    {
+      "id": "2f50df39d302",
+      "title": "이석증 환자 50만명… 더 이상 낯선 질환 아니다",
+      "published": "2026-03-18T15:41:00+00:00",
+      "summary": "이석증 환자 50만명… 더 이상 낯선 질환 아니다&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95bExMUGdLQmpOdmpkVEFUYkxQOExvSkEtbFRHSnExSTdER2dHRlZ4b1doYXZ6bUhZWEowRy1OU0RSbEMzMnZSMl94WmRIR3Q4T2p2VzRONHBUbl8wY0Zjbk9IamkzeFZ4MlBDT1IteWlIM0EzQkszT9IBjAFBVV95cUxNODJQUWtlTU1KRGJYenV5Y0NVRGJieFByQlc0aUxxYjd4ZjFHdWxTdnNscG5MSG5scHdsaWd0V2cxOUFWWXlHcGQ1S3FTdno3c3Bia2NvV2JEc3Vkb3dZWmRWb2pfRmxxWHk4ZkQ5VDQtUzZ3Y1ZTZ0VobmpReDZ1Ukp5OTVMQmlsZ3BHbA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9d308c162a0a",
+      "title": "‘트로이 목마’처럼… 백신 먹인 모기로 박쥐 감염병 퇴치",
+      "published": "2026-03-18T15:36:00+00:00",
+      "summary": "‘트로이 목마’처럼… 백신 먹인 모기로 박쥐 감염병 퇴치&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dZTTVDRmh0cElKVTB2bm1KSUEtNjdjaWNxU1BoSlVjYUtFXzh0UDBWc2lpZmxVbkxzSEF1UmJuT0FpdmgyWnNEOUZfYW82LVFlSWo4WGhtNUZvX0ctNWwtQ05GLTNyc3dZTDQwSVBWSzhMa2hud2dDUXJmWTg2anQzY9IBlwFBVV95cUxPX0xSSks0ZVVUZldFV2VxcGM2QlNPT05mQk1tcmF1VG9GX3d3RUlabkhrYWFWUVNyYU1QYU1ZRHMyREU0alU5eE9uVWY3ZEF2d3ZkdE1La01rY3BONzF5Qm1qdTBmQWhjQWM4WU44ZUgyWnA5SS02SVFaSjNGcmlrY0VvYVc0czItdFhrSzNVQUI1aE02aDVj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "de957e0d37c3",
+      "title": "건국대병원 박경식 교수팀, 갑상선암 치료 후 비알코올성 지방간 위험 규명",
+      "published": "2026-03-18T13:42:16+00:00",
+      "summary": "건국대병원 박경식 교수팀, 갑상선암 치료 후 비알코올성 지방간 위험 규명&nbsp;&nbsp;의약뉴스갑상선암 완치되면 끝? 간에 지방 쌓이는 ‘이 질환’ 위험 2배 높아 주의&nbsp;&nbsp;v.daum.net갑상선암 환자, 5년 내 지방간 위험 2배…치료 후 대사관리 필요&nbsp;&nbsp;네이트갑상선암 완치자, 지방간 발생 위험 2배 증가..‘체중 관리’ 중요&nbsp;&nbsp;글로벌경제신문갑상선암 완치 후 '지방간' 주의…호르몬제 복용량이 관건&nbsp;&nbsp;메디팜스투데이",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wQjcxbVljSElabnVvblpPSjc1djlZUTNfRmNfdkM0Z2FvNGZKa2pfYmU4UHVvck1ELUEtMk5YV3V1c0VKdmxQOVJvS3R6RWRrUXJ6UEdpTk1teWpfa3pNUkpfQkpvbzQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c6765d5b7a7c",
       "title": "나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?",
@@ -30,6 +69,19 @@
       "matched_keywords": []
     },
     {
+      "id": "cc3e463d7989",
+      "title": "“건강위해 마시는 티백차, 뇌에 안 좋을 수 있다”… 왜?",
+      "published": "2026-03-18T06:08:00+00:00",
+      "summary": "“건강위해 마시는 티백차, 뇌에 안 좋을 수 있다”… 왜?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vczUtV2dOem1pLWs0dzJDZEF4WFZ6aVNXa2stal9mYkVWY3R1bHFXd0VrTVc2WFJlNE5iWHZNVFhCUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c6d47a974acf",
       "title": "TDP43 단백질, 신경 퇴행과 암을 잇는 연결 고리로 작동해.",
       "published": "2026-03-18T05:41:15+00:00",
@@ -38,19 +90,6 @@
         {
           "name": "바이오타임즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aX0NlSHNFTjgwOHlVSUJJVEFfYnplYXljR0xUbk1vUzNHMkk1UkwwdkFaeldmM3V6eGtqSG8wRnZYSnJKa2taNVRLLU9JbkNCRlByd2p2bV81LTFDSXdhTC1iaHNLT1FPRFptVg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "80ddfdeae57a",
-      "title": "갑상선암 완치 후 '지방간'?…발생 위험 '2배'",
-      "published": "2026-03-18T03:58:55+00:00",
-      "summary": "갑상선암 완치 후 '지방간'?…발생 위험 '2배'&nbsp;&nbsp;의협신문갑상선암 완치되면 끝? 간에 지방 쌓이는 ‘이 질환’ 위험 2배 높아 주의&nbsp;&nbsp;경향신문갑상선암 완치자, 지방간 발생 위험 2배 증가..‘체중 관리’ 중요&nbsp;&nbsp;글로벌경제신문갑상선암 환자, 5년 내 지방간 위험 2배…치료 후 대사관리 필요&nbsp;&nbsp;네이트갑상선암 완치 후 '지방간' 주의…호르몬제 복용량이 관건&nbsp;&nbsp;메디팜스투데이",
-      "sources": [
-        {
-          "name": "의협신문",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFeHVCWEJsM2tBSGhuek5EMm40cHpkSklRSUxSNEFBbnNxaFFkbW9Xd0lHaEdzaXU0Zk1LSFhtSVgwbFZCT1N1QWZsaThSTmYzUkVMaGZqaFY4M1RfUjQwQ3lpRVdUT1pqMW1EZFotaE9VQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -134,19 +173,6 @@
       "matched_keywords": []
     },
     {
-      "id": "9c466493db42",
-      "title": "체중 정상이어도 배 나오면 위험... ‘허리둘레’가 심부전 부르는 핵심 원인은 ‘염증’",
-      "published": "2026-03-18T00:29:44+00:00",
-      "summary": "체중 정상이어도 배 나오면 위험... ‘허리둘레’가 심부전 부르는 핵심 원인은 ‘염증’&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOd1J4S3FlNGhlaWtRaVN4WmlUd0E3MUItMWRralUzNXUwWG83ZlF6UWVyY3UzeHdLaEhNc1pkWW1EeDJuNldjVy1WMTNxQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f72d5fffe936",
       "title": "AI가 질적 연구를 대신할 수 있는가",
       "published": "2026-03-18T00:03:43+00:00",
@@ -173,19 +199,6 @@
       "matched_keywords": []
     },
     {
-      "id": "505be2b14850",
-      "title": "“버블 없는 혁신은 없어…AI 버블, 도약 기회로 삼아야”",
-      "published": "2026-03-17T22:14:00+00:00",
-      "summary": "“버블 없는 혁신은 없어…AI 버블, 도약 기회로 삼아야”&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JcjdIc241WlhTalQwRkJMNmR5c3M1aFhfOGluNjh3QXI0N0lnOVJVYlFFY3BZajFaSXUxLUtTZHRCdVRrcVNTbGF5SDdUX2tLUnV3QnFaY3BUcU9OSWpmUnRHNlJLSE54Ny1rbHFRTExUUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b8793833816c",
       "title": "[의학산책] 작은 혹, 큰 걱정…갑상선 결절은 언제 수술해야 할까",
       "published": "2026-03-17T21:30:00+00:00",
@@ -194,19 +207,6 @@
         {
           "name": "매일신문",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UWHhqY3k4cnlOa0FHTW1Ed0NMZlNmVG9JQnFBWUY0M2N2Rkd1NHNZUkpvdHM1dm0wZ29qTHBvYkxIODYza0lzcThqWmExTy14VThJMjFtd1JxNDdnTjR3Vmxn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c80c2390d2b6",
-      "title": "“밤마다 숨 멈춰 7번 깨어나”…178㎏男, 다리 감염돼 108kg 뺀 사연은?",
-      "published": "2026-03-17T21:09:00+00:00",
-      "summary": "“밤마다 숨 멈춰 7번 깨어나”…178㎏男, 다리 감염돼 108kg 뺀 사연은?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9aU2dISVR2dVlBMERCc3hXX1pnR0FickJVQzZablo2VzhhTlVBZEs0UGp4UkZ1UkhsSWVXeHFlRThidw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -329,14 +329,14 @@
       "matched_keywords": []
     },
     {
-      "id": "cfc383ec3bfe",
+      "id": "e05efe9b514a",
       "title": "우주 최초의 별이 남긴 흔적, 130억년 된 왜소은하에서 발견",
       "published": "2026-03-17T02:47:44+00:00",
       "summary": "우주 최초의 별이 남긴 흔적, 130억년 된 왜소은하에서 발견&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Rc2VpZEFYNC1JdURQR3dCcldTMjNCWGRfbFNlX1hxNWNTTDJEUGZrdEFIX1RhWURwLTNYcWF3bGhqSTV3aVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00aXVpVWpMNmZXcjkxODl4RjVnT21fbXpFTV9jMWJ0WDhhZUtjY1g5bHZzellPbFN5R2UzLVhZS012OGE3NEU2TDM4MS1FNXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -420,27 +420,14 @@
       "matched_keywords": []
     },
     {
-      "id": "47bcaac6d508",
+      "id": "c8f599f18b38",
       "title": "스마트워치로 당뇨 전조 잡는다…구글, '인슐린 저항성' 예측 AI 개발",
-      "published": "2026-03-16T20:00:00+00:00",
-      "summary": "스마트워치로 당뇨 전조 잡는다…구글, '인슐린 저항성' 예측 AI 개발&nbsp;&nbsp;동아사이언스",
+      "published": "2026-03-16T20:01:44+00:00",
+      "summary": "스마트워치로 당뇨 전조 잡는다…구글, '인슐린 저항성' 예측 AI 개발&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3eUpSLUpQWW9nUU1XOFJoNzdReUU3bWZwdVA1VXlMQXYyMVZJQmlhR2R6N3dCNnZWNEVISG5TQ2tLNnZoTzRINnhWZEZuVlNs?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3f1ee57ae3d4",
-      "title": "의료 비전문가가 '챗GPT'·'알파폴드'로 반려견 암 치료",
-      "published": "2026-03-16T09:00:00+00:00",
-      "summary": "의료 비전문가가 '챗GPT'·'알파폴드'로 반려견 암 치료&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jRkJMUjItcW52Q3MzZEtKSlluRU51dDhDWTFuVHpHaWNGSEFLd0ZOaHZMcHhvU0RsTmI3Q2tscUM3ZDZLbGUtQ05fU19OMFlfcFFYX2Vtamd1TG5WZndJVjlSaHR5OXVRSVE?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52SllrbnpxcDlQZlBWX2ZNa0hIcXNyTXJVa1duZUFrNzUySFJaNGp5S3QySUhGZ2FTWHh2Ukxodk9WMm5DcFpJMU5LOGlGZmM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -454,19 +441,6 @@
         {
           "name": "청년의사",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FNHNvWURGdk1wTFVpTk1lTHJZQXE2aFZnOFV4MlZXTHNYWEhDVERIYmszVkxqOV8tTEhaTW5WTk5NUGwxd2w0ZUw1MmpHclZMa0JVYWlBMGlhWDlwaWNpZWk5b0pwRVk0SXVqTE1jWdIBc0FVX3lxTE5VX29LYmtxLTExaTNoSENWZEtoOEtKMHBLazczZnpVeVpLMjI5Nzh1Zm1SY2pvUEpzLUFyODExcmY1R1pzT0tvMFhYUnd1Vl9tNnRYbkRKblNNVG0teEJiVHJLSkNTQmVvYkRrdU5pcXRPQU0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d398e565e61f",
-      "title": "中 ‘과학 연구 역량’ 독주하는데 한국 대학들은 계속 뒷걸음질",
-      "published": "2026-03-15T21:19:07+00:00",
-      "summary": "中 ‘과학 연구 역량’ 독주하는데 한국 대학들은 계속 뒷걸음질&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUU1mSm5tLU1zLVZXNFJneE5OOC1kX2JJRjV4OHM1djJLaXQ4YllwaFEybkJZU1ZSZDF5a19nNENGTk56ZTZmWWg2T2hEWWZScG9nTDh4dFlCcnlfMGFXb3hqNmZkQ2hMUUpKMGlod3Y3d0o3RG9uSDI0LWZ1NVZUVjVyRHhuWTDSAZsBQVVfeXFMUHdPdkw2cnZiNExKX19nSmd3WVo1dzRLNkpXQ0o1Ty03eno2S0ZKVmdIbnpFalVWNUprZE9DTzZSVXlRc3dUYnBRU0thZTlhLVZ2YUJZSlNpVG9EcGFWYTRlNkozUUZLX0t2ZlBTdTdqbXBIeVA5dWFyTmt6Umw0TkFfTnF1Wl9KNTJ5am9xMl9TNWFsekNYZWRmU28?oc=5"
         }
       ],
       "matched_keywords": []
