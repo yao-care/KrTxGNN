@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-03-18T07:06:12.785122+00:00",
-  "total_count": 38,
+  "last_updated": "2026-03-18T13:21:29.315500+00:00",
+  "total_count": 36,
   "matched_count": 0,
   "news": [
+    {
+      "id": "c6765d5b7a7c",
+      "title": "나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?",
+      "published": "2026-03-18T08:01:00+00:00",
+      "summary": "나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?&nbsp;&nbsp;코메디닷컴노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스기억력 저하, 뇌만의 문제 아니다…‘장-뇌 축’ 노화 기전 발견[노화설계]&nbsp;&nbsp;동아일보나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 '장' 때문?&nbsp;&nbsp;네이트고혈압이 부르는 조용한 뇌혈관 손상… \"치매 예방, 중년기 장기적 관리가 핵심\"&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwU3dLa2dFNW5OSGxjbERrZ2tnYTFmRG9KcmpaLXl0dkM0R0plVWlrNEF2OVFmZEFjdnlfd3BEN2diZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "21b8762079ba",
+      "title": "인수공통 바이러스, 사전 적응 없이도 인간 전파 가능 - UC 샌디에이고 연구진 발표",
+      "published": "2026-03-18T07:30:46+00:00",
+      "summary": "인수공통 바이러스, 사전 적응 없이도 인간 전파 가능 - UC 샌디에이고 연구진 발표&nbsp;&nbsp;한국AI부동산신문코로나19 中 실험실 유출설 논쟁 끝나나… “배양 흔적 없다”&nbsp;&nbsp;동아일보바이러스, 인간 맞춤형으로 진화하지만... 코로나19는 특별한 증거 못 찾아 - 조선비즈&nbsp;&nbsp;Chosunbiz전세계 벌벌 떨게한 코로나19 기원은...“中 실험실 유출 아냐” 美 연구결과&nbsp;&nbsp;서울경제신문\"코로나, 중국 실험실 유출 아니다\"-미 연구 결과&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoWlVSclQ2bDZZdzI5VU5kTVlCSjFkTEhFbXBEUHljLUI0Wl9KcXNNMnltZWs5aWtVV3lxaExGYTRNWDZsMlpwRkVnd3I?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c6d47a974acf",
       "title": "TDP43 단백질, 신경 퇴행과 암을 잇는 연결 고리로 작동해.",
@@ -20,7 +46,7 @@
       "id": "80ddfdeae57a",
       "title": "갑상선암 완치 후 '지방간'?…발생 위험 '2배'",
       "published": "2026-03-18T03:58:55+00:00",
-      "summary": "갑상선암 완치 후 '지방간'?…발생 위험 '2배'&nbsp;&nbsp;의협신문갑상선암 완치되면 끝? 간에 지방 쌓이는 ‘이 질환’ 위험 2배 높아 주의&nbsp;&nbsp;경향신문갑상선암 환자, 5년 내 지방간 위험 2배…치료 후 대사관리 필요&nbsp;&nbsp;네이트갑상선암 완치 후 '지방간' 주의…호르몬제 복용량이 관건&nbsp;&nbsp;메디팜스투데이지방간 환자, 갑상선암 위험 UP…갑상선암 완치 뒤 ‘지방간’ 위험도 UP!&nbsp;&nbsp;코리아헬스로그",
+      "summary": "갑상선암 완치 후 '지방간'?…발생 위험 '2배'&nbsp;&nbsp;의협신문갑상선암 완치되면 끝? 간에 지방 쌓이는 ‘이 질환’ 위험 2배 높아 주의&nbsp;&nbsp;경향신문갑상선암 완치자, 지방간 발생 위험 2배 증가..‘체중 관리’ 중요&nbsp;&nbsp;글로벌경제신문갑상선암 환자, 5년 내 지방간 위험 2배…치료 후 대사관리 필요&nbsp;&nbsp;네이트갑상선암 완치 후 '지방간' 주의…호르몬제 복용량이 관건&nbsp;&nbsp;메디팜스투데이",
       "sources": [
         {
           "name": "의협신문",
@@ -30,27 +56,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b956a190c381",
-      "title": "씨젠의료재단, 간암 조기발견 'SeeLiver' 검사 알고리즘 개발",
-      "published": "2026-03-18T03:36:34+00:00",
-      "summary": "씨젠의료재단, 간암 조기발견 'SeeLiver' 검사 알고리즘 개발&nbsp;&nbsp;서울와이어",
-      "sources": [
-        {
-          "name": "서울와이어",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQTlRMT0s0SXhDeXVIT2NzU0laN013RFJQM1BJRVNYUlBJbzNkZk9RLUVXTGt3RVpwUGJCSUZDMHJfOU5fV2dxcFFISEg0cXVJR1cyUWlhbENiZjdaWjVhT2l6Qnl4UzBNYVRv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b0601b0d41e8",
+      "id": "7a5d8972ad84",
       "title": "우주에서 달걀 썩은 냄새가?…이상한 외계행성 발견",
       "published": "2026-03-18T03:20:00+00:00",
       "summary": "우주에서 달걀 썩은 냄새가?…이상한 외계행성 발견&nbsp;&nbsp;경향신문",
       "sources": [
         {
           "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kck9oVWkxUnZ5LXN5ZVVhSkFPemV1bjBLLXRWcmFOdHRoSFk2c1luSVhEMjhCWnJ4NHl5RF9SOTQxU1Y3bzJaeXBTMm5ER2JRRUdpeno0S19Zdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kck9oVWkxUnZ5LXN5ZVVhSkFPemV1bjBLLXRWcmFOdHRoSFk2c1luSVhEMjhCWnJ4NHl5RF9SOTQxU1Y3bzJaeXBTMm5ER2JRRUdpeno0S19Zd9IBX0FVX3lxTE1odS1vMGlqV1ZkaFlETnh6dXRRVnlRUGRoeXdjLWQzQXFOaHU0bXRZeDR0UHJQQVdMcmdqYnAtMDd2ZU5HZkJsVkFScGtiTm0zQ2JkaWtaQ19DRnNhWnVn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -69,6 +82,19 @@
       "matched_keywords": []
     },
     {
+      "id": "8056e6a8308b",
+      "title": "AI, 유방암 검진 패러다임 바꾼다…“4년 내 유방암 발병 위험까지 예측”",
+      "published": "2026-03-18T02:35:52+00:00",
+      "summary": "AI, 유방암 검진 패러다임 바꾼다…“4년 내 유방암 발병 위험까지 예측”&nbsp;&nbsp;아이티데일리AI가 밝혀낸 유방촬영 1석 2조 가능성…\"심장병도 예측\"&nbsp;&nbsp;메디칼타임즈[건강] 질병 조기 발견의 혁신 건강검진에 들어온 인공지능(AI)&nbsp;&nbsp;거제저널AI가 유방암 검진 의사를 대체할 수 있을까, 5만 명 임상 연구가 답했다&nbsp;&nbsp;AI 매터스유방 X선 사진을 AI로 돌렸더니 심혈관질환 확률까지 ‘척척’&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "아이티데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RLURvcVJhazJjYWk0T3p0RE1pOTFjdjJnZDh0d3llQTVkTlZ3azRid3BYbC1rVXlSc3B4TWFOOWwtOUNack45Ujkydm9TbVdTRGk0ZWxJRGtaY0g5cEJTYzJ6MVMwUGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "465038d09a17",
       "title": "IAAE-AI경영연구소, 신뢰가능한 AI를 위한 검인증 등 사업 협력 MOU 체결",
       "published": "2026-03-18T02:35:17+00:00",
@@ -82,19 +108,6 @@
       "matched_keywords": []
     },
     {
-      "id": "dda7856c5e1e",
-      "title": "AI가 유방암 검진 의사를 대체할 수 있을까, 5만 명 임상 연구가 답했다 - AI 매터스",
-      "published": "2026-03-18T02:31:21+00:00",
-      "summary": "AI가 유방암 검진 의사를 대체할 수 있을까, 5만 명 임상 연구가 답했다&nbsp;&nbsp;AI 매터스AI가 밝혀낸 유방촬영 1석 2조 가능성…\"심장병도 예측\"&nbsp;&nbsp;메디칼타임즈[건강] 질병 조기 발견의 혁신 건강검진에 들어온 인공지능(AI)&nbsp;&nbsp;거제저널AI, 유방암 검진 패러다임 바꾼다…“4년 내 유방암 발병 위험까지 예측”&nbsp;&nbsp;아이티데일리검사복 앞에서, 다른 위험을 떠올린 날&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "AI 매터스",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRcUFkX3MtN045MHc5NXRuRHVUVjludC1lb293ZVBmSzV1SnAtZ2p1TGk3eUJyclZvampjMHpBZU1UWi1GRFhWMGlkV0hKcVFVYzFvOFJTVmk5SFRtb0xaTGxB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7a65a202c539",
       "title": "“근력 세지는 효과”… 병 뚜껑 못 여는 사람, ‘이것’ 잡아라",
       "published": "2026-03-18T02:12:00+00:00",
@@ -103,19 +116,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zd05UaTE5b1hMMDZ5QXplT1MtMk5xT0NrRFh3ZjdXRHNVM2pKRXcya3ROZDNFamlzcTJKSkViU1EzZE5waWpoQWQxRnREWGF2TXNKV21qN1p1Z2VXbjd3X09GMWNRVFpfX09mVm5vbXlzMGVwdmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "baffa2591b1e",
-      "title": "퇴행성 관절염 예방법 찾았다…유전자 치료효과 50%",
-      "published": "2026-03-18T01:03:49+00:00",
-      "summary": "퇴행성 관절염 예방법 찾았다…유전자 치료효과 50%&nbsp;&nbsp;지디넷코리아생명연, 연골 파괴 억제단백질 규명…퇴행성 관절염 치료 기대&nbsp;&nbsp;연합뉴스나이 들어 아픈 무릎 관절, 근본 치료 길 열릴까&nbsp;&nbsp;v.daum.net연골 파괴 억제하는 SHP 단백질 역할 규명… 퇴행성 관절염 치료의 새 가능성 제시&nbsp;&nbsp;BRIC지긋지긋한 관절염, '주사 한 방'에 치료할 실마리 찾았다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45VjIwZzZ1WGVlbTJXd19IWkVsMXJRVG02aHJqOXhUUHoxNTY5Y2Vha1FjbDVMc3A3SE5YREEtX0VBb1pqcjJWUGh3dGhTeGkyV1o2ZmZB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -155,6 +155,19 @@
         {
           "name": "교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Z0NxdUQwZVQzLTUyN250RGJOWUMxb2p0VlI3X2E4VWJjX3MycGRvN3RNQUo0X29PWUJrMGpmX3drUFlmMk5XcTY3OFRaUlZPTkFaZmpqMXNlMjZyOFdiT3p5SzlPQWM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "87dc5eb5dfee",
+      "title": "[굿클리닉] 뇌종양, 다학제 진료 통해 소아부터 성인까지 치료 성과 높여",
+      "published": "2026-03-17T22:51:00+00:00",
+      "summary": "[굿클리닉] 뇌종양, 다학제 진료 통해 소아부터 성인까지 치료 성과 높여&nbsp;&nbsp;네이트\"갑자기 말 못 하게 된 62세 아버지\"… 뇌에 크게 자리 잡은 덩어리, 정체는?&nbsp;&nbsp;코메디닷컴[이호빈의 건강노트] 아침 두통·구토 반복된다면…‘이것’ 신호일 수도&nbsp;&nbsp;mydaily.co.kr[안서희의 라이프 리포트] 아침마다 머리 무겁고 진통제 안 듣는다면…'뇌 속 시한폭탄' 뇌종양을 의심하라&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nZk1zbE5PZ0JBVXlKV1BIU0ZBak45MWI3NmFaVV9NbXBqSWZHVlFkVjU3aFFQRUJZal9uOVJzUVRPbUlzRmRMN2E0aFVDbV9DeEk0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -329,19 +342,6 @@
       "matched_keywords": []
     },
     {
-      "id": "18a475af3193",
-      "title": "소행성 '류구'에서 생명체 유전물질 이루는 염기 5종 모두 발견",
-      "published": "2026-03-17T01:17:00+00:00",
-      "summary": "소행성 '류구'에서 생명체 유전물질 이루는 염기 5종 모두 발견&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12VXVTUmR5ekpaZXZwc2pMZjVjeFhZZFNTMkgtYkxZVWhCTE5wWFBjMm1lX0pxRC1SS1pUMUUya3MyUUdBdTFuQzRkWjY3aklz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "cde1cfbbf1d0",
       "title": "\"릭시아나, 개인 맞춤형 항응고 치료전략 될 것\"",
       "published": "2026-03-17T00:00:00+00:00",
@@ -428,32 +428,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3eUpSLUpQWW9nUU1XOFJoNzdReUU3bWZwdVA1VXlMQXYyMVZJQmlhR2R6N3dCNnZWNEVISG5TQ2tLNnZoTzRINnhWZEZuVlNs?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e8f34b11ae52",
-      "title": "어른도 성장호르몬 부족하면 심혈관질환 위험… ‘이때’는 잠들어 있어야 분비된다",
-      "published": "2026-03-16T14:00:00+00:00",
-      "summary": "어른도 성장호르몬 부족하면 심혈관질환 위험… ‘이때’는 잠들어 있어야 분비된다&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kT0wtU0dhaUVqWVJvWDRUUzNocG9zWEhpeDNxVndKYy1KNTNWcVptZ3hTNHpFVXp3SGVVeGxXU1lUXzl2RUVxdkU1X0xMLXVJUFlVei1IdGNhWkc3QUNqR0tUd1BsTDN4LWV3dV9SRl9IMXpnSmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6abed0d102b3",
-      "title": "[기획] “반복 폐렴·암 위험까지...APDS 미진단 환자 찾아내려는 노력이 중요”",
-      "published": "2026-03-16T09:20:00+00:00",
-      "summary": "[기획] “반복 폐렴·암 위험까지...APDS 미진단 환자 찾아내려는 노력이 중요”&nbsp;&nbsp;라포르시안",
-      "sources": [
-        {
-          "name": "라포르시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aMExvRW5aRE4zYUxfOU1RYy1mU1pVMktIM1hqY1pVc3YxMXE4OUwwaFVFY0pXMmhlYjZXS04yNWF5UW5FLTRRTGhHalNpZ1V2dnpRNkhMN1g2QTBMOXlQaHpNR3RDUEpOU0d4QQ?oc=5"
         }
       ],
       "matched_keywords": []
