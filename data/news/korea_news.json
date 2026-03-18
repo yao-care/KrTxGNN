@@ -1,10 +1,130 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-17T19:07:23.712374+00:00",
-  "total_fetched": 74,
-  "unique_count": 73,
-  "health_related_count": 31,
+  "fetched_at": "2026-03-18T02:34:24.269338+00:00",
+  "total_fetched": 78,
+  "unique_count": 77,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "7a65a202c539",
+      "title": "“근력 세지는 효과”… 병 뚜껑 못 여는 사람, ‘이것’ 잡아라 - 조선일보",
+      "published": "2026-03-18T02:12:00+00:00",
+      "summary": "“근력 세지는 효과”… 병 뚜껑 못 여는 사람, ‘이것’ 잡아라&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zd05UaTE5b1hMMDZ5QXplT1MtMk5xT0NrRFh3ZjdXRHNVM2pKRXcya3ROZDNFamlzcTJKSkViU1EzZE5waWpoQWQxRnREWGF2TXNKV21qN1p1Z2VXbjd3X09GMWNRVFpfX09mVm5vbXlzMGVwdmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2af56b252d60",
+      "title": "갑상선암 완치 후 ‘지방간’ 주의보… 정상인보다 발생 위험 2배 높아 - 재활뉴스",
+      "published": "2026-03-18T01:21:30+00:00",
+      "summary": "갑상선암 완치 후 ‘지방간’ 주의보… 정상인보다 발생 위험 2배 높아&nbsp;&nbsp;재활뉴스",
+      "sources": [
+        {
+          "name": "재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tVEtBSU1sR1Q2c190Tk9VTzE1UmZmMnRINzNxV3VTQ0xjQkV1Smk3V1RCLThPakxRaU90ekZHN0VkX3lkVEVmSGNENENNOG1rUXdyLThDa3RJbjFzRG5Dbk53aXp4ellRRTJv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50df7a49ba67",
+      "title": "낙상 후 팔 통증 있다면 ‘상완골 골절’ 의심...“혼자 사는 노인일수록 더 위험” - 하이닥",
+      "published": "2026-03-18T01:00:00+00:00",
+      "summary": "낙상 후 팔 통증 있다면 ‘상완골 골절’ 의심...“혼자 사는 노인일수록 더 위험”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEa0RKb3liNmR6ZUVRQlVGdGFtVG1yT1ZkVVo5N2xuQ1VlcVVvWkhiMzN5azYzYUhPeU5uVlhZZG5pSU02NTNBZjA1YUotX0lfd3JJMV9iMTFwb2FhWXhXVDBGenpWd1JMMVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c466493db42",
+      "title": "체중 정상이어도 배 나오면 위험... ‘허리둘레’가 심부전 부르는 핵심 원인은 ‘염증’ - 매일경제",
+      "published": "2026-03-18T00:29:44+00:00",
+      "summary": "체중 정상이어도 배 나오면 위험... ‘허리둘레’가 심부전 부르는 핵심 원인은 ‘염증’&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOd1J4S3FlNGhlaWtRaVN4WmlUd0E3MUItMWRralUzNXUwWG83ZlF6UWVyY3UzeHdLaEhNc1pkWW1EeDJuNldjVy1WMTNxQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3b621ee61cc",
+      "title": "삼성서울병원 연구팀, 식도암 수술 환자 사망 원인 규명 - 메디포뉴스",
+      "published": "2026-03-17T23:53:26+00:00",
+      "summary": "삼성서울병원 연구팀, 식도암 수술 환자 사망 원인 규명&nbsp;&nbsp;메디포뉴스\"식도암 수술후 시간 지날수록 2차암·호흡기질환 사망↑\"&nbsp;&nbsp;v.daum.net식도암 수술 후 5년… “2차 암·호흡기질환 사망 위험 증가”&nbsp;&nbsp;조선일보삼성서울병원 연구진 \"식도암 치료 후 다른 원인 사망 늘어\"&nbsp;&nbsp;네이트삼성서울병원 \"식도암 수술 후 2차 암·호흡기질환 사망 위험↑\"&nbsp;&nbsp;데일리안",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DMG1QRGk0ZTRlLUtNS3hfeC1GTlFsdnBOVFhQMFNKdGVPMS16dDRiX0tRTHBVNzFwZm9GZzktTnR5dzc2eklfTHpLaV9odERrdlQxaHJFdnVuUlJVX1lsSkxfaFI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "505be2b14850",
+      "title": "“버블 없는 혁신은 없어…AI 버블, 도약 기회로 삼아야” - 한겨레",
+      "published": "2026-03-17T22:14:00+00:00",
+      "summary": "“버블 없는 혁신은 없어…AI 버블, 도약 기회로 삼아야”&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JcjdIc241WlhTalQwRkJMNmR5c3M1aFhfOGluNjh3QXI0N0lnOVJVYlFFY3BZajFaSXUxLUtTZHRCdVRrcVNTbGF5SDdUX2tLUnV3QnFaY3BUcU9OSWpmUnRHNlJLSE54Ny1rbHFRTExUUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8793833816c",
+      "title": "[의학산책] 작은 혹, 큰 걱정…갑상선 결절은 언제 수술해야 할까 - 매일신문",
+      "published": "2026-03-17T21:30:00+00:00",
+      "summary": "[의학산책] 작은 혹, 큰 걱정…갑상선 결절은 언제 수술해야 할까&nbsp;&nbsp;매일신문",
+      "sources": [
+        {
+          "name": "매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UWHhqY3k4cnlOa0FHTW1Ed0NMZlNmVG9JQnFBWUY0M2N2Rkd1NHNZUkpvdHM1dm0wZ29qTHBvYkxIODYza0lzcThqWmExTy14VThJMjFtd1JxNDdnTjR3Vmxn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c80c2390d2b6",
+      "title": "“밤마다 숨 멈춰 7번 깨어나”…178㎏男, 다리 감염돼 108kg 뺀 사연은? - 코메디닷컴",
+      "published": "2026-03-17T21:09:00+00:00",
+      "summary": "“밤마다 숨 멈춰 7번 깨어나”…178㎏男, 다리 감염돼 108kg 뺀 사연은?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9aU2dISVR2dVlBMERCc3hXX1pnR0FickJVQzZablo2VzhhTlVBZEs0UGp4UkZ1UkhsSWVXeHFlRThidw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "913eb641a43e",
+      "title": "암 걸리면 무조건 채식? No! - 마음건강 길",
+      "published": "2026-03-17T21:00:00+00:00",
+      "summary": "암 걸리면 무조건 채식? No!&nbsp;&nbsp;마음건강 길Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "마음건강 길",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFVWVzZFVTVUJzMGtYd1ZvSjQ2YnZocGc5NjZNRk5iY2tjVmVXZV9mbFB5NFdrUjBxYU1oUTl3VFlXU0VkN0cteTNRMjBpM05YZFp3UlBJbERlUGh3TWJzdkctUkNJU3BTbWfSAW5BVV95cUxNajVkX0FUS21xX0Rma042ZmFKLWRyRHZMMVlVNDF4Z3BKdFdrU19TNmlsekdTUkNqRlZVYUx6ZmljQkRrZk50cUxmTHVJaDdUMGgwMkEyM3VwUG1vbkZuT1d0YU9RcTN0ajNvaU9lQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "747a2b72c4c8",
+      "title": "[언박싱 연구실] 자석에 붙는 '철' 넣었더니… 자석 밀어내는 '괴력' 초전도체 됐다 - v.daum.net",
+      "published": "2026-03-17T20:58:03+00:00",
+      "summary": "[언박싱 연구실] 자석에 붙는 '철' 넣었더니… 자석 밀어내는 '괴력' 초전도체 됐다&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZzBzSHRjN2FEOWpyVDVINGxrV2RwZ3VJRTVucHp4Mng3aTdETDlGbzd4SXlEMmhpUE1FY0dyUkhYaF9BbVplRTNUX2ZnUW8?oc=5"
+        }
+      ]
+    },
     {
       "id": "4f16b179e134",
       "title": "[의학바이오게시판] 기존 고혈압에 임신중독증 겹친 산모 출산 후 심혈관 위험 약 3배 높아 - 동아사이언스",
@@ -138,18 +258,6 @@
       ]
     },
     {
-      "id": "3914c2e540c1",
-      "title": "50세 이상 여성 4명 중 1명 골다공증…“저체중·칼슘 섭취 등 영향” - KBS 뉴스",
-      "published": "2026-03-16T23:39:00+00:00",
-      "summary": "50세 이상 여성 4명 중 1명 골다공증…“저체중·칼슘 섭취 등 영향”&nbsp;&nbsp;KBS 뉴스[이슈픽] “50세 이상 여성 4명 중 1명”…목숨까지 위협하는 골다공증, 예방법은?&nbsp;&nbsp;v.daum.net50세이상 여성 ¼ 골다공증…\"엉덩이뼈 골절시 최대 30% 사망\"&nbsp;&nbsp;연합뉴스50세 이상 여성 ¼ 골다공증…\"엉덩이뼈 골절 시 최대 30% 사망\"&nbsp;&nbsp;SBS 뉴스여성 4명 중 1명 골다공증…고령층 뼈 건강 ‘경고등’&nbsp;&nbsp;충청게릴라뉴스",
-      "sources": [
-        {
-          "name": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRUF90QlNteG5CRzZYSHdES1hOV25MYm5vR0JJZkFzRzZKTmJrVHU0cTdVQ2MyU0liODBGMF83TkJvTUVrbUo3VVkxMXpNd1VnNlJfNXBtdy1iRlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a1d0e0a958c1",
       "title": "광학 및 나노 기술로 최장 8년 일찍 암 예측 - 사이언스모니터",
       "published": "2026-03-16T23:32:19+00:00",
@@ -210,18 +318,6 @@
       ]
     },
     {
-      "id": "ef9e8673b918",
-      "title": "“몸에 좋은 줄 알았는데 각설탕 8개”…장 건강 흔드는 요거트 함정 - segye.com",
-      "published": "2026-03-16T20:00:00+00:00",
-      "summary": "“몸에 좋은 줄 알았는데 각설탕 8개”…장 건강 흔드는 요거트 함정&nbsp;&nbsp;segye.com‘젊은 대장암’ 계속 느는 중… ‘이 음료’부터 끊어라&nbsp;&nbsp;조선일보\"매일 아침 식탁에 꼭 올리세요\"... 주 2회만 먹어도 대장암 위험 낮춰주는 '이 음식'&nbsp;&nbsp;아던트뉴스국내 젊은 대장암 환자 증가…한 해 2030 대장암 환자만 2,000명 육박&nbsp;&nbsp;코리아헬스로그\"아침에 '요커트 한 컵' 대장암 발병 위험 낮춘다\" 英 연구&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "segye.com",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96U0t1V2pyRktOeG9nSVZGVGtJSEVoaDN0SEFlVzJlMDY4YndTdHVaeUNOSW9sQndvcjc4ZzBpVThRTkpEMmFDWnhxRWRnNmhxN2duYWo5NUPSAVRBVV95cUxNdjU5Y1NXaGlPMnlVUFFmM2pZODVkTlJYblQ4R3huQzZwY0t2QkVsb0NYMC1lb0xTQmpjeUFLWHdYNWpWQnlmR1l4TFd5bFhteDVYdEQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e8f34b11ae52",
       "title": "어른도 성장호르몬 부족하면 심혈관질환 위험… ‘이때’는 잠들어 있어야 분비된다 - 조선일보",
       "published": "2026-03-16T14:00:00+00:00",
@@ -258,6 +354,18 @@
       ]
     },
     {
+      "id": "4a66c642d6bf",
+      "title": "호흡기 질환과 폐렴구균 질환, 치료보다 예방이 중요한 이유 - 바이오타임즈",
+      "published": "2026-03-16T06:57:08+00:00",
+      "summary": "호흡기 질환과 폐렴구균 질환, 치료보다 예방이 중요한 이유&nbsp;&nbsp;바이오타임즈",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sQlRZLTlia3JBR2VzZkpZcnA3OGQ5WVp0azRtendrM1AxeHZlVURjVWNReXU2a3BBVXJjdjVhWHBjbThXRFJvR0o2ZjlFZHZEaFA1UUZaelVZVUJhdWtlYnh2RDl4U1R6UTFFZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "db9a88afd0a3",
       "title": "‘운동하는 아나운서’ 박지혜, 러닝크루와 함께 정신건강재단에 1천만 원 기부 - 후생신보",
       "published": "2026-03-16T04:02:00+00:00",
@@ -270,62 +378,14 @@
       ]
     },
     {
-      "id": "c83e8fa6a885",
-      "title": "노인변비 약물치료에 순응도·유효성·안전성·비용까지 고려 - mostonline.co.kr",
-      "published": "2026-03-16T02:05:54+00:00",
-      "summary": "노인변비 약물치료에 순응도·유효성·안전성·비용까지 고려&nbsp;&nbsp;mostonline.co.kr",
+      "id": "1fa1c3899b1c",
+      "title": "석유시설 공습 뒤 ‘검은 비’…독성 화학물질 섞여 건강 위협 - 동아일보",
+      "published": "2026-03-16T03:19:00+00:00",
+      "summary": "석유시설 공습 뒤 ‘검은 비’…독성 화학물질 섞여 건강 위협&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6endEREtXMGVSaElhdXFYVnBscUFzQUpLcllJRUhJdGFUemRMZ3BRZXBudzAzcW1TMU1hOGMzNVg3bFNoQ2pON1hvcG5hLWxURnhFd2MyOVMxZi1oYTV6UjFUZ1hGYVp5QlpKQUtlVzg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c652b95e5c5b",
-      "title": "코로나19 '中실험실 유출설'…\"매우 불운한 우연 가능성\" 美 연구 결과 - 아시아경제",
-      "published": "2026-03-16T01:14:23+00:00",
-      "summary": "코로나19 '中실험실 유출설'…\"매우 불운한 우연 가능성\" 美 연구 결과&nbsp;&nbsp;아시아경제코로나19 中 실험실 유출설 논쟁 끝나나… “배양 흔적 없다”&nbsp;&nbsp;동아일보전세계 벌벌 떨게한 코로나19 기원은...“中 실험실 유출 아냐” 美 연구결과&nbsp;&nbsp;서울경제신문바이러스, 인간 맞춤형으로 진화하지만... 코로나19는 특별한 증거 못 찾아 - 조선비즈&nbsp;&nbsp;Chosunbiz\"코로나, 중국 실험실 유출 아니다\"-미 연구 결과&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80MzFzOG85UVNsbWFSN3F5WnBCaW1zREZLZzAxUXp5dV9XeExaUUlFOXV3R2tfYVlCSGtTTGdXYXkwd2JlUm1jQS1UTGpVaGozR2tUelRpd2hjaklweFRXaQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47e331d51c35",
-      "title": "“체중감량·건강 비결은 아침 식단” - realfoods.co.kr",
-      "published": "2026-03-16T00:51:22+00:00",
-      "summary": "“체중감량·건강 비결은 아침 식단”&nbsp;&nbsp;realfoods.co.kr",
-      "sources": [
-        {
-          "name": "realfoods.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BRGxEc0EtS3VhOGNKaUpsQ1NyZ28yWEdHcjJiOFU0Qmp5VnZXMWJTemR1SVlIeUl2dDQwbTY2QW8tRDlaT0lNZkxaX1lScGxYTW9UWGFqdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2179d23cdb1f",
-      "title": "오류없는 양자컴퓨터 나오나…초전도 120% 증폭 현상 세계 첫 발견 - 지디넷코리아",
-      "published": "2026-03-16T00:47:57+00:00",
-      "summary": "오류없는 양자컴퓨터 나오나…초전도 120% 증폭 현상 세계 첫 발견&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwclgxVVBZa0ZCZnFWSzZNUG1nSFVtTjlaM3FoRWpSN1ozaUVYbUhfVWt5dHhWLXVsZWhSTzU1MXhkOWptZXNsUlczajhQcGFUVzFzMWFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e9b23050deac",
-      "title": "새로운 당뇨병 및 비만 치료제 가능성 발견 - 시사저널",
-      "published": "2026-03-16T00:17:30+00:00",
-      "summary": "새로운 당뇨병 및 비만 치료제 가능성 발견&nbsp;&nbsp;시사저널Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "시사저널",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vZ1ZtTnVlZmV6cl90dG1DWjBVQ2E2YnFEZzZWeExMOXRVellScU5QQzJtNl9yRy1fcTBJNWw4VVVoTllpcm5XRzhUdFFjRkpBZW1Fd1VnQWpJYmlVYW5ubTJ6bWFOSW94UGdvRElyNNIBc0FVX3lxTE1GRFRmRjNZcXVjRmptZUMta1A0VTFuZllrUTg2bEZfZ3FwVjk0SDZ5UDFtNkpoa2l5c2MwQ19EcXo2ZnQ0NlFvVS1zdmVRZERjWkRYZnFhaG84R3llanhkQzJuRjRPRWtqOUJWZnd6WXJ0VkU?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85R25kS2V2Qkcxa2N0bVR1SFBEMVhscVQzLV92elBYV1MtNzlNX1d5NHpCVmNiOEY2LWl5a0ZKRUlsTGlreWg4UXQ4cElab2lMQ2dzX04xRjNTN3BMSkJBN096eEhTakx0STBZSjUtTdIBZkFVX3lxTE8zUUVKTXd5SHJqci1uVVl5b0YtSDF6OXkwM0dqQzA0dkRHWjRTUC12c1A4VzhNd2Itc2NESzBTZmdqaTFWdTk3YXRyTjhHanVERVIzQm51cllQZ3liMThxUGtmZ1BNZw?oc=5"
         }
       ]
     },
@@ -350,18 +410,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUU1mSm5tLU1zLVZXNFJneE5OOC1kX2JJRjV4OHM1djJLaXQ4YllwaFEybkJZU1ZSZDF5a19nNENGTk56ZTZmWWg2T2hEWWZScG9nTDh4dFlCcnlfMGFXb3hqNmZkQ2hMUUpKMGlod3Y3d0o3RG9uSDI0LWZ1NVZUVjVyRHhuWTDSAZsBQVVfeXFMUHdPdkw2cnZiNExKX19nSmd3WVo1dzRLNkpXQ0o1Ty03eno2S0ZKVmdIbnpFalVWNUprZE9DTzZSVXlRc3dUYnBRU0thZTlhLVZ2YUJZSlNpVG9EcGFWYTRlNkozUUZLX0t2ZlBTdTdqbXBIeVA5dWFyTmt6Umw0TkFfTnF1Wl9KNTJ5am9xMl9TNWFsekNYZWRmU28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed19db8536a8",
-      "title": "흔한 수면제·항히스타민제 성분…항콜린제, 심장질환 위험 높일 수 있다 - 약사공론",
-      "published": "2026-03-15T20:50:00+00:00",
-      "summary": "흔한 수면제·항히스타민제 성분…항콜린제, 심장질환 위험 높일 수 있다&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45a1VZcnRSRl9HVXhkaXZoQmlhc2Q5SUh4OEdtQWRRRGQ3WWo4QzVhOHZpUnZkTTdXLVcxdFdVT3dUX2NFVHpwdW1VQ09ZWVhKbDBCUlVORTV1TjVuekYzV2JtZDUyczBlVWl5Rg?oc=5"
         }
       ]
     },
