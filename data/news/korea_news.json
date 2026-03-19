@@ -1,10 +1,118 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-19T07:03:15.917578+00:00",
-  "total_fetched": 77,
-  "unique_count": 76,
-  "health_related_count": 39,
+  "fetched_at": "2026-03-19T13:13:36.076283+00:00",
+  "total_fetched": 82,
+  "unique_count": 81,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "a54c78ffe2e4",
+      "title": "의사가 ‘심혈관 건강’ 위해 저녁에 절대 안 하는 행동 7가지 - 조선일보",
+      "published": "2026-03-19T11:20:00+00:00",
+      "summary": "의사가 ‘심혈관 건강’ 위해 저녁에 절대 안 하는 행동 7가지&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRkc2UUNsQ0tKRXVEQ2NQajQ0RUs1ZnRta1dqbTNNTDNSS3JPcl9GUldhMlpFZzQ1QTNud3JJNTFQeDBiVEF2aWlraldxT0otaHRaRGVLbk9aWDN4SUNKTUdwdXYzUUNDLXphdlNEOWJUcDhKLWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "492136238baf",
+      "title": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다 - 하이닥",
+      "published": "2026-03-19T10:00:00+00:00",
+      "summary": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다&nbsp;&nbsp;하이닥새로운 건강 소식과 함께하는 하루: 체중과 혈압에 조용히 영향을 미치는 습관들.&nbsp;&nbsp;Vietnam.vn염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목&nbsp;&nbsp;메디칼업저버혈압을 급격히 높이는 ‘숨겨진 3가지 원인’…수면·운동·체중 관리가 핵심&nbsp;&nbsp;굿모닝베트남미디어“고혈압? 대학생도 흔합니다”... 2030 고혈압, 노년층과 증상 달라 ①&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGQ2lYS2p5MklHMElKbUE4RXFEdnFtcUdhY2hwSjhoVVlSTUpXMnBVN05fOUpCVVZ5eXVRTUlILVNzYWtoSkRxdmdIU1pROTJ3dlRvTnZ0dFJJdUEweWZkN1dNWl96S2dLNWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1743f4dae031",
+      "title": "“제1형 당뇨, 치매 위험 최대 3배”…노년 질환 인식 흔든 연구 - 디멘시아뉴스",
+      "published": "2026-03-19T08:20:59+00:00",
+      "summary": "“제1형 당뇨, 치매 위험 최대 3배”…노년 질환 인식 흔든 연구&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15V1pyMG8zd1JHT2Vhcm05b3BWZ2hwWnRkWGNOVmNhbDl6T3JjbGl5dXNxZjdFTzRtdmtTZWZOZkY5WFBvRURGT2xoT1NkeVFSMllQRzFnQ3h0RV9QVU9hRmZUOUxxajczbjAyVWhnWkxuZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ccee55f86910",
+      "title": "수술 받은 노인 5명 중 1명, 6개월 지나도 “식사 등 일상생활 버거워” - 코메디닷컴",
+      "published": "2026-03-19T08:20:00+00:00",
+      "summary": "수술 받은 노인 5명 중 1명, 6개월 지나도 “식사 등 일상생활 버거워”&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9JcXZENG5jZ1RvZ1BEMVo2TDhJYXpncG03NU40QUtRMk5wdmhkRFpwUW5Kc014YUx2b2pTbUpXRlpIZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "04cb1be053bb",
+      "title": "\"소액암서 전이된 암도 일반암으로 물어줘라\"…보험사 수천억 청구서 - 네이트",
+      "published": "2026-03-19T07:56:00+00:00",
+      "summary": "\"소액암서 전이된 암도 일반암으로 물어줘라\"…보험사 수천억 청구서&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1neUNrNENyc24xekpXWUpZc0hkVi15ZHgxS29wMXFES3FIWU5rNUtaVDJEd3huRjBwbFZpRVRaVXhTaUk1bWtrY3hOMGZTcjdSTWgzeklrYVFnN3dUekJDbg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea0cbf758352",
+      "title": "장윤정, 아이들 약한 피부 위해 ‘이것’ 사용해 씻긴다는데? - 조선일보",
+      "published": "2026-03-19T07:50:00+00:00",
+      "summary": "장윤정, 아이들 약한 피부 위해 ‘이것’ 사용해 씻긴다는데?&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50WDhFQ0xDZGttOXVDczU3bW1rOEl5NVZoXzBNdS04dHR1MVZtM0I0dldJVkNWYUlNZk1DM0tFZ2J3bnZoU05XaHVJUXRCaWF4Q2xvVHNjQm9UQ084SU9IWmtOV3hnVFk3Sk1UOXFGd3VjTk5CTVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c6d8b7c8978",
+      "title": "패스트푸드인 줄 알았던 ‘이 음식’, 알고 보니 건강식 - 조선일보",
+      "published": "2026-03-19T07:21:00+00:00",
+      "summary": "패스트푸드인 줄 알았던 ‘이 음식’, 알고 보니 건강식&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UQVlDWUM5d1NRNE1FR1FSWk16Tmh3b1VIODN1R0k3YVpjaXZlNDJzZUg0RFJjNFNGVGNxczhhUXItWEU5dTlSTFY1ODNjYUpiYXlvNjJ3QXZ5a3VfdktvSGZPdlJWM19ZM3pYZ05qM0VtRmxoRHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "720fe14765ab",
+      "title": "57세에 치매 환자 된 내과 의사 \"답은 '조기 진단' 강화\"[노화설계] - 네이트",
+      "published": "2026-03-19T07:08:00+00:00",
+      "summary": "57세에 치매 환자 된 내과 의사 \"답은 '조기 진단' 강화\"[노화설계]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKV0NBTUNyeUIwRUgzaTFEa0hNd0dLY3lpM19HbGRvZGY2SFBYVDZCNC02TUZ0MGs1R015OFk2TGxFaFg1a0dKeGxoNlNDQkF5OENj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df0dd846d9f2",
+      "title": "전국 각 성, HPV백신 무료접종 이미 륙속 전개--국내뉴스 - 인민넷",
+      "published": "2026-03-19T06:52:00+00:00",
+      "summary": "전국 각 성, HPV백신 무료접종 이미 륙속 전개--국내뉴스&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYdFJZUHBtTGZrRjVYNXVFal93WWM2eDg4Yk1GMEFYdlVUTGZaRHNyLTRwei1HcWxCVHAyRGl2VkRaWjd6OHBlUWhpVWpKbHhfTHBHZzdWRE1kc3ZsMUd0RjBiVy12YXM0T09jcmVB?oc=5"
+        }
+      ]
+    },
     {
       "id": "4b22e7388ce9",
       "title": "야근 잦을수록 심장 위험↑…식이섬유가 해결책 될까? - 디지털투데이",
@@ -90,18 +198,6 @@
       ]
     },
     {
-      "id": "bf085bd7563d",
-      "title": "英서 뇌수막염 집단 발병…9명 확진에 2명 사망 - 문화일보",
-      "published": "2026-03-19T01:13:36+00:00",
-      "summary": "英서 뇌수막염 집단 발병…9명 확진에 2명 사망&nbsp;&nbsp;문화일보단 며칠 만에 청년 2명 사망… 영국 대학교 덮친 ‘치명적 세균’의 정체 [현장영상]&nbsp;&nbsp;KBS 뉴스주말 새 학생 2명 사망… 英 덮친 '뇌수막염' 공포&nbsp;&nbsp;전자신문영국서 뇌수막염 집단 발병…2명 사망, 확진·의심 20건&nbsp;&nbsp;연합뉴스나이트클럽서 집단 확진… 英 뇌수막염 청년 2명 사망&nbsp;&nbsp;국민일보",
-      "sources": [
-        {
-          "name": "문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hMm5COERfeVpjUEJ5eDR3WVYwNFd0YUZqb3hnT3JscDF4TEFMSFI5VWNadXRkQ2pxbkQ2WVd2YXF0V0xmRUdiSlRmekJraDY0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e59b0b971c5d",
       "title": "인간에게 좋은 비타민 B2, 암세포 생존에도 보약 - 헬스코리아뉴스",
       "published": "2026-03-19T00:58:47+00:00",
@@ -114,14 +210,14 @@
       ]
     },
     {
-      "id": "6394cff247ce",
-      "title": "부작용 없는 탈모 치료제 나온다 [지금은 과학] - v.daum.net",
-      "published": "2026-03-19T00:42:03+00:00",
-      "summary": "부작용 없는 탈모 치료제 나온다 [지금은 과학]&nbsp;&nbsp;v.daum.net",
+      "id": "f0892f23085d",
+      "title": "IAAE-AI경영연구소, 신뢰 가능 AI 위한 검인증·심사원 양성 협력 - 뉴스웍스",
+      "published": "2026-03-19T00:14:06+00:00",
+      "summary": "IAAE-AI경영연구소, 신뢰 가능 AI 위한 검인증·심사원 양성 협력&nbsp;&nbsp;뉴스웍스",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Tblk5RDUxX0xjMlBfNUNBbWhpeGdqMUNCa0hTTWR3X211WlMxN3dOR0VtMFh4bkJYNWQ1RjIxNjlwcUZVSTZMZFBFM0FmT0E?oc=5"
+          "name": "뉴스웍스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4T2xJN3l6QzN5bDVBczQtaHRmazFWRUxLWkxfYUpodWJUdVVvSVFWOUNkcTVkT1NiVnNOVWJnVzhVRTd5WXNUNnNjS3A5S2NZVzNfbWRvMFJzSFBjdk5ldTJIcWYtOUZQaGpnUUpIONIBc0FVX3lxTE9sS3hjdkRCT2ptaEhPNGhNVXJOamFqVUZuSDVvdGxsVURRWEREVE9qOE1nRmtwYmQwcWIwSXpnSjF0VWMwOTFiYUd3TW5ROFpGOS1FamhQaUZqUldEdzNnUTUtTjRmRkFhR2VEQkREaDI3TG8?oc=5"
         }
       ]
     },
@@ -212,7 +308,7 @@
     {
       "id": "9d308c162a0a",
       "title": "‘트로이 목마’처럼… 백신 먹인 모기로 박쥐 감염병 퇴치 - 조선일보",
-      "published": "2026-03-18T15:36:00+00:00",
+      "published": "2026-03-18T15:40:47+00:00",
       "summary": "‘트로이 목마’처럼… 백신 먹인 모기로 박쥐 감염병 퇴치&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -230,6 +326,18 @@
         {
           "name": "의약뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wQjcxbVljSElabnVvblpPSjc1djlZUTNfRmNfdkM0Z2FvNGZKa2pfYmU4UHVvck1ELUEtMk5YV3V1c0VKdmxQOVJvS3R6RWRrUXJ6UEdpTk1teWpfa3pNUkpfQkpvbzQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17aa3b4fa125",
+      "title": "고혈압 환자, 생활 습관 개선했더니…깜짝 결과 나왔다 - 한국경제",
+      "published": "2026-03-18T13:16:30+00:00",
+      "summary": "고혈압 환자, 생활 습관 개선했더니…깜짝 결과 나왔다&nbsp;&nbsp;한국경제Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pd3oxaVRlVkhqZnpsTVh0THBWbXhnLU5MRGNkRVI3ZFhBS3plT0ZkYXhQWWczYkw4bGdENC0ycnYtYm9EUTVKeEk4OGpvYmdoMkgzTDVMZ2w4UdIBVEFVX3lxTE1OS3l6UWJUNmpZblg5SXVUcm9WWjVxbVp6MEROY05BdlFrVjBwVGx1UGxOQjFtSmU1NkttM0RzXzh6V3ZFTVVvUFZiZzVUd3N1a1dycg?oc=5"
         }
       ]
     },
@@ -318,18 +426,6 @@
       ]
     },
     {
-      "id": "465038d09a17",
-      "title": "IAAE-AI경영연구소, 신뢰가능한 AI를 위한 검인증 등 사업 협력 MOU 체결 - 투데이신문",
-      "published": "2026-03-18T02:35:17+00:00",
-      "summary": "IAAE-AI경영연구소, 신뢰가능한 AI를 위한 검인증 등 사업 협력 MOU 체결&nbsp;&nbsp;투데이신문",
-      "sources": [
-        {
-          "name": "투데이신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ua2FlVHJ2cWc5Y19ISUp3RGZlbzh3b2dBVDNFdm5MX19ZbXhaUHpzZ2U1eHFlRmloNnlmLVJHTkZaS19mcmFrenFvOUNoUWZUMnVwZlZTM1VkazAtemlhcGdjQ0hlSVhZRVFJ0gFvQVVfeXFMTy1jLXlNb29wZWQ1b0J3dkpibGpralloNVBQdUl4RHFiX0E0aXUyX1VlX1czaHh1bk5DU3FjNkVwQU50ZXYxbUNPaVJsTzFwWWYxa1RycEY4YUpYU1BrRDNBc3cwRlBZYzNmQTJja0U0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7a65a202c539",
       "title": "“근력 세지는 효과”… 병 뚜껑 못 여는 사람, ‘이것’ 잡아라 - 조선일보",
       "published": "2026-03-18T02:12:00+00:00",
@@ -350,18 +446,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEa0RKb3liNmR6ZUVRQlVGdGFtVG1yT1ZkVVo5N2xuQ1VlcVVvWkhiMzN5azYzYUhPeU5uVlhZZG5pSU02NTNBZjA1YUotX0lfd3JJMV9iMTFwb2FhWXhXVDBGenpWd1JMMVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "87dc5eb5dfee",
-      "title": "[굿클리닉] 뇌종양, 다학제 진료 통해 소아부터 성인까지 치료 성과 높여 - 네이트",
-      "published": "2026-03-17T22:51:00+00:00",
-      "summary": "[굿클리닉] 뇌종양, 다학제 진료 통해 소아부터 성인까지 치료 성과 높여&nbsp;&nbsp;네이트\"갑자기 말 못 하게 된 62세 아버지\"… 뇌에 크게 자리 잡은 덩어리, 정체는?&nbsp;&nbsp;코메디닷컴[이호빈의 건강노트] 아침 두통·구토 반복된다면…‘이것’ 신호일 수도&nbsp;&nbsp;mydaily.co.kr[안서희의 라이프 리포트] 아침마다 머리 무겁고 진통제 안 듣는다면…'뇌 속 시한폭탄' 뇌종양을 의심하라&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nZk1zbE5PZ0JBVXlKV1BIU0ZBak45MWI3NmFaVV9NbXBqSWZHVlFkVjU3aFFQRUJZal9uOVJzUVRPbUlzRmRMN2E0aFVDbV9DeEk0?oc=5"
         }
       ]
     },
@@ -402,74 +486,26 @@
       ]
     },
     {
-      "id": "1e377326e66b",
-      "title": "심장 보는 의사가 절대 안 먹는다는 ‘이 음식’… 대체 뭐야? - 조선일보",
-      "published": "2026-03-17T12:40:00+00:00",
-      "summary": "심장 보는 의사가 절대 안 먹는다는 ‘이 음식’… 대체 뭐야?&nbsp;&nbsp;조선일보",
+      "id": "18a475af3193",
+      "title": "소행성 '류구'에서 생명체 유전물질 이루는 염기 5종 모두 발견 - 동아사이언스",
+      "published": "2026-03-17T01:17:00+00:00",
+      "summary": "소행성 '류구'에서 생명체 유전물질 이루는 염기 5종 모두 발견&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jY1Vzd1Q5N0kwYmxyRTNVbGNTTU9saEhjNzY5N29rUm1HZ3U0S051blk3cTRMbVlrbURtYUVJSXdRaGs2THlJSGp5bV9kLVl6R2ZSUXRkajBNN1ZtUk13eWkxNTR6ZXNDZ1h3OVY2ZnZVcXNhemc?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12VXVTUmR5ekpaZXZwc2pMZjVjeFhZZFNTMkgtYkxZVWhCTE5wWFBjMm1lX0pxRC1SS1pUMUUya3MyUUdBdTFuQzRkWjY3aklz?oc=5"
         }
       ]
     },
     {
-      "id": "54fa9f258c27",
-      "title": "“콜레스테롤 낮추려면 끊어라”… 매일 먹는 ‘이 음식’, 뭐길래? - 조선일보",
-      "published": "2026-03-17T11:20:00+00:00",
-      "summary": "“콜레스테롤 낮추려면 끊어라”… 매일 먹는 ‘이 음식’, 뭐길래?&nbsp;&nbsp;조선일보“간단해서 매일 먹었는데”…알고보니 콜레스테롤 폭탄, 좋은 식품은? [헬시타임]&nbsp;&nbsp;서울경제신문심장마비 위험 낮추려면 '이 약' 일찍 복용해야?&nbsp;&nbsp;네이트비만과 내분비대사질환·합병증 - 복합형 이상지질혈증&nbsp;&nbsp;mostonline.co.kr美 심장협회 새 지침 보니… “콜레스테롤 낮추려면 ‘이것’ 꼭 해라”&nbsp;&nbsp;조선일보",
+      "id": "6d8d76ee11c8",
+      "title": "\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡] - 파이낸셜뉴스",
+      "published": "2026-03-16T20:20:00+00:00",
+      "summary": "\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스[칼럼] 기온 오르는 봄철 여성 질염 증가…조기 진단과 생활 관리 중요&nbsp;&nbsp;위즈뉴스“생식기 또 가려워” 女 흔한 ‘이 질염’…반복 잦은 이유, 男이 전파해서?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aM2pmeXA4UDJ4VkgtTjBSTGxPQ1VtUUZvaUZvZ2g0aEVnYU5EaEo2eHRYUEotcHc1dHdEMTdSSE84dlp6OHE3TDBsc3FEVTFMLU9wNWQ3VG82UERvRE5Kc09WbElJMXBlQ0E4SmRKSlltX3dKOGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bbcd66487d44",
-      "title": "복부 팽만·소화 불량 반복되면 '난소암' 의심해야 - 보건신문",
-      "published": "2026-03-17T08:56:20+00:00",
-      "summary": "복부 팽만·소화 불량 반복되면 '난소암' 의심해야&nbsp;&nbsp;보건신문",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91aGhtdnhhamNlVlhXT1hSaWc4WldiaHphWFUtX3hiN2hRQ3BRSmg5LXBDMTZqMEUzWVVTdGtYSmVMckhkWGVOTC1SM1pYNlRiQ1FiT3dwdWhJX2w5WW5xV0Q2UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b0010ee07c7",
-      "title": "[곽용태 칼럼] 고엽제, 파킨슨병, 치매…그리고 CIA가 아직 나를 안 데려간 이유 - 디멘시아뉴스",
-      "published": "2026-03-17T06:06:16+00:00",
-      "summary": "[곽용태 칼럼] 고엽제, 파킨슨병, 치매…그리고 CIA가 아직 나를 안 데려간 이유&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oUGhQanE0bnBYeW5zeGdKcS1RaTgtcTdxN2JEUGlJVm5KcGNHSTJDSVFLNUYtOGZ1aGduNVBCU1hqWENWZ3dSaG1QMTMzSXdJS0JXUEgxbG1TdDBTSWVwYWNnRzB0cGdrcVlqTm9DUk5pUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e05efe9b514a",
-      "title": "우주 최초의 별이 남긴 흔적, 130억년 된 왜소은하에서 발견 - v.daum.net",
-      "published": "2026-03-17T02:47:44+00:00",
-      "summary": "우주 최초의 별이 남긴 흔적, 130억년 된 왜소은하에서 발견&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00aXVpVWpMNmZXcjkxODl4RjVnT21fbXpFTV9jMWJ0WDhhZUtjY1g5bHZzellPbFN5R2UzLVhZS012OGE3NEU2TDM4MS1FNXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f1ee57ae3d4",
-      "title": "의료 비전문가가 '챗GPT'·'알파폴드'로 반려견 암 치료 - AI타임스",
-      "published": "2026-03-16T09:00:00+00:00",
-      "summary": "의료 비전문가가 '챗GPT'·'알파폴드'로 반려견 암 치료&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jRkJMUjItcW52Q3MzZEtKSlluRU51dDhDWTFuVHpHaWNGSEFLd0ZOaHZMcHhvU0RsTmI3Q2tscUM3ZDZLbGUtQ05fU19OMFlfcFFYX2Vtamd1TG5WZndJVjlSaHR5OXVRSVE?oc=5"
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ScG1YMlI5WWwwYTQ1MlFsbEVWZ2lhc2E3NTdJSWttazI0UFd3ZjJ4Q3gtREI0NHU3YW00dHNMRWFuVk4yS0tNQkctVGJzcGVUTlRkeUdFemxid9IBXkFVX3lxTE5qOWFtTXczem1ia2ZuWUpuUW5JWWNaV0FSblF0Tk9PeUhzLVU4a3MyOHhSZDBuc2FUWEJjVWhqanBLbHJERno3UTBCU3lERG5LUzExeUtRRnFyd3o5cEE?oc=5"
         }
       ]
     }
