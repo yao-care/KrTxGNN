@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-19T13:13:36.076283+00:00",
-  "total_fetched": 82,
-  "unique_count": 81,
-  "health_related_count": 42,
+  "fetched_at": "2026-03-19T19:03:53.783510+00:00",
+  "total_fetched": 84,
+  "unique_count": 83,
+  "health_related_count": 47,
   "news": [
+    {
+      "id": "64f9f646bffc",
+      "title": "‘항산화 성분’ 글루타치온의 배신… 암세포 먹이로 쓰인다 - 조선일보",
+      "published": "2026-03-19T14:00:00+00:00",
+      "summary": "‘항산화 성분’ 글루타치온의 배신… 암세포 먹이로 쓰인다&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fLXYwSUxBdXNSUndtbEZEb3ZWY3hFQm9CT1BYWUl6d2VmWUZoRVZDeVJsbk5YZEZUUzVUakZYNW4xSWIzVzE4eUlZNE5RUkZaOTUzTG1WSWUtLXFnSEx3cVdqeDJRRVQxdEdCV0RuUXdqY2ctdnc?oc=5"
+        }
+      ]
+    },
     {
       "id": "a54c78ffe2e4",
       "title": "의사가 ‘심혈관 건강’ 위해 저녁에 절대 안 하는 행동 7가지 - 조선일보",
@@ -78,6 +90,18 @@
       ]
     },
     {
+      "id": "d0e121b655a4",
+      "title": "[이건몰랐지] 반복 질염…남성이 원인? - 충청신문",
+      "published": "2026-03-19T07:35:48+00:00",
+      "summary": "[이건몰랐지] 반복 질염…남성이 원인?&nbsp;&nbsp;충청신문\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스[칼럼] 기온 오르는 봄철 여성 질염 증가…조기 진단과 생활 관리 중요&nbsp;&nbsp;위즈뉴스“생식기 또 가려워” 女 흔한 ‘이 질염’…반복 잦은 이유, 男이 전파해서?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "충청신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uQUhGUHpEbEdHdGNqd1hQOFlJSnA0ZzktSzFZcDJ3bVJmUVlGdWUwcllac3Q1ZGwyZFY4MlhQU1FYOGJOc202aXk3Vl9oRVhNSHl4WEpRS056UHZuQVUzTE5fOGFpOWFkZEHSAW5BVV95cUxNUjNKeWFRWUxTMFVnNVhVbHJXbllkMmF1aGsydkd3VlJRWGMxeWZ0Znh4aFZVUlRuNzJ4MHlEdXFJbWFCMjA2WVNaaVJFdzV0N3ZSUFRtc1FpOE52VWF3REZPMm56WXk0eVY1blZGdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1c6d8b7c8978",
       "title": "패스트푸드인 줄 알았던 ‘이 음식’, 알고 보니 건강식 - 조선일보",
       "published": "2026-03-19T07:21:00+00:00",
@@ -114,14 +138,26 @@
       ]
     },
     {
-      "id": "4b22e7388ce9",
-      "title": "야근 잦을수록 심장 위험↑…식이섬유가 해결책 될까? - 디지털투데이",
-      "published": "2026-03-19T05:26:57+00:00",
-      "summary": "야근 잦을수록 심장 위험↑…식이섬유가 해결책 될까?&nbsp;&nbsp;디지털투데이",
+      "id": "c29f5938ca3c",
+      "title": "암이 좋아하는 '뱃살', 복부 지방 관리 중요성 커진다 - 의학신문",
+      "published": "2026-03-19T05:47:53+00:00",
+      "summary": "암이 좋아하는 '뱃살', 복부 지방 관리 중요성 커진다&nbsp;&nbsp;의학신문암 키우는 지방, 치료에도 쓴다?…줄기세포 연구 주목&nbsp;&nbsp;v.daum.net체중 정상이어도 복부 비만 있으면 심부전 위험 커져&nbsp;&nbsp;네이트뱃살 복부 지방, 암 발병 핵심 요인에 주목&nbsp;&nbsp;글로벌경제신문뱃살 나오면 심장 건강 위험...복부 지방 빼는 데 좋은 방법은?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04QmRWZTBjZ2hpM1p1VEtPN1VWb2l0ZmdZWlNIZC1veDF1YXZQcEwxSkFRSmZSSDlBblhQQkNWM2lYNDQyMHU5ZWRHeGtjaGUwcFFsNm4wd0ZZYzgyaExUY0pMVE1YLXhtUDU5Sk00Y1AyaDg?oc=5"
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mX2hsdUlVTWVUMEFQWmJTV0Izejk5bkNnbWx0S0tOTVMyMzdVcDlleWtfTmVGQzZOdHV4c0FXeFRYLUM2d2xhb0kwUzVhWGg2WDVmeGswdElHakYwbXZPdWNkNzQ0Mmw4VkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4e18219179a",
+      "title": "야근 잦을수록 심장 위험↑…식이섬유가 해결책 될까? - 네이트",
+      "published": "2026-03-19T05:27:00+00:00",
+      "summary": "야근 잦을수록 심장 위험↑…식이섬유가 해결책 될까?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yNnhTOV96OGc4TnF1SWF6VmtZd0FkMlRHekdJTFpzaF85SVFuaENDNFlSZEZDY1FzeElQQ0tmdW9MOVZ3dGNQcWJyR1lWUkt4Q0FBNEJn?oc=5"
         }
       ]
     },
@@ -162,6 +198,18 @@
       ]
     },
     {
+      "id": "5b74ddfd2d72",
+      "title": "“고혈압 환자 생활습관 개선 심혈관·당뇨 위험 감소 효과” - 미주한국일보",
+      "published": "2026-03-19T03:00:00+00:00",
+      "summary": "“고혈압 환자 생활습관 개선 심혈관·당뇨 위험 감소 효과”&nbsp;&nbsp;미주한국일보고혈압 환자, 생활 습관 개선했더니…깜짝 결과 나왔다&nbsp;&nbsp;v.daum.net[건강포커스] \"고혈압 환자 생활습관 개선→심혈관·당뇨 위험 감소 효과\"&nbsp;&nbsp;연합뉴스[헬스 플러스+] “심뇌혈관질환 5대 요인이 좌우… 생활습관 관리가 답”&nbsp;&nbsp;강원도민일보고혈압약 먹어도 안심 못 한다···\"심혈관질환·당뇨 좌우하는 건 생활습관\"&nbsp;&nbsp;더메디컬",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsVDNmcGF0dGVkMTE3ejJCR05Tc19Yal9La0tUaExpcFlDd2sxeWw4QmNHZFZsN2x5ZGVJb3F4WWFMSWZFY1V6ZFktTUtOcnNHZUxQVnd5bW9kU21XNTdV?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cef67e41c6c9",
       "title": "혈당 조절 왜 안 되나 봤더니… 의외의 ‘이 질환’이 원인, 수치 40%까지 차이 나 - 하이닥",
       "published": "2026-03-19T03:00:00+00:00",
@@ -198,6 +246,18 @@
       ]
     },
     {
+      "id": "bf085bd7563d",
+      "title": "英서 뇌수막염 집단 발병…9명 확진에 2명 사망 - 문화일보",
+      "published": "2026-03-19T01:13:36+00:00",
+      "summary": "英서 뇌수막염 집단 발병…9명 확진에 2명 사망&nbsp;&nbsp;문화일보단 며칠 만에 청년 2명 사망…영국 대학교 덮친 ‘치명적 세균’의 정체 [현장영상]&nbsp;&nbsp;v.daum.net영국 켄트 수막구균 B형 확산 비상…2명 사망·9명 확진&nbsp;&nbsp;네이트주말 새 학생 2명 사망… 英 덮친 '뇌수막염' 공포&nbsp;&nbsp;전자신문영국에서 두 명이 사망하고 뇌수막염 사례 증가&nbsp;&nbsp;VOI.id",
+      "sources": [
+        {
+          "name": "문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hMm5COERfeVpjUEJ5eDR3WVYwNFd0YUZqb3hnT3JscDF4TEFMSFI5VWNadXRkQ2pxbkQ2WVd2YXF0V0xmRUdiSlRmekJraDY0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e59b0b971c5d",
       "title": "인간에게 좋은 비타민 B2, 암세포 생존에도 보약 - 헬스코리아뉴스",
       "published": "2026-03-19T00:58:47+00:00",
@@ -206,6 +266,18 @@
         {
           "name": "헬스코리아뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05c3VDM0xFQlNjVHlQTWxKdmQ2VFlmTU5xc2s1MTRNeFBId3E1TVNiejJVZzhma0VmMkZhUUlibG9wSE5vcUtOYjhpOWJLTFU1ZUtNN1RLVXp5V2o3akY3WlpCWnRNVTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6394cff247ce",
+      "title": "부작용 없는 탈모 치료제 나온다 [지금은 과학] - v.daum.net",
+      "published": "2026-03-19T00:42:03+00:00",
+      "summary": "부작용 없는 탈모 치료제 나온다 [지금은 과학]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Tblk5RDUxX0xjMlBfNUNBbWhpeGdqMUNCa0hTTWR3X211WlMxN3dOR0VtMFh4bkJYNWQ1RjIxNjlwcUZVSTZMZFBFM0FmT0E?oc=5"
         }
       ]
     },
@@ -306,6 +378,18 @@
       ]
     },
     {
+      "id": "b0eee54fe62c",
+      "title": "임신중 고혈압을 겪었다면… - 마음건강 길",
+      "published": "2026-03-18T20:50:00+00:00",
+      "summary": "임신중 고혈압을 겪었다면…&nbsp;&nbsp;마음건강 길'고혈압·임신중독' 겹친 산모…출산후 심혈관 위험 3배↑&nbsp;&nbsp;뉴시스임신 중 고혈압, 출산 후 심부전·뇌졸중 발생 위험 최대 2.9배&nbsp;&nbsp;뉴스1“출산하면 끝인 줄 알았는데”… 10년 뒤 ‘심장’ 노리는 임신 중 고혈압&nbsp;&nbsp;segye.com기존 고혈압에 임신중독증 겹친 ‘중첩 전자간증’은 출산 후 심혈관 위험 2.93배&nbsp;&nbsp;헬스오",
+      "sources": [
+        {
+          "name": "마음건강 길",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RclZrd0RWWEE1WU05MnFMc0xad2dtc0NHOU9LNG1qc05vY2tOSjJ0WVpvMmo5ZEVMNmlwTVM5MkNWOGR6eGVSd0twT09TZVF4QU1jLVNhTWdHQktSQllrTkJhc1pkU1U1R2fSAW5BVV95cUxQWGxvYmg2MThlQWExb3IxUUU2WHdfM2F2VFJkQ2tjYVpQMW1EMmM3WWktWlFQa3RTODZsWXJSRmdTNWh5MkdwN0dRVjJpZm8wTE90M2NodkVZZGNJLTg4aFU1SEJsblJDdUw3c2ZWQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9d308c162a0a",
       "title": "‘트로이 목마’처럼… 백신 먹인 모기로 박쥐 감염병 퇴치 - 조선일보",
       "published": "2026-03-18T15:40:47+00:00",
@@ -326,18 +410,6 @@
         {
           "name": "의약뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wQjcxbVljSElabnVvblpPSjc1djlZUTNfRmNfdkM0Z2FvNGZKa2pfYmU4UHVvck1ELUEtMk5YV3V1c0VKdmxQOVJvS3R6RWRrUXJ6UEdpTk1teWpfa3pNUkpfQkpvbzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "17aa3b4fa125",
-      "title": "고혈압 환자, 생활 습관 개선했더니…깜짝 결과 나왔다 - 한국경제",
-      "published": "2026-03-18T13:16:30+00:00",
-      "summary": "고혈압 환자, 생활 습관 개선했더니…깜짝 결과 나왔다&nbsp;&nbsp;한국경제Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pd3oxaVRlVkhqZnpsTVh0THBWbXhnLU5MRGNkRVI3ZFhBS3plT0ZkYXhQWWczYkw4bGdENC0ycnYtYm9EUTVKeEk4OGpvYmdoMkgzTDVMZ2w4UdIBVEFVX3lxTE1OS3l6UWJUNmpZblg5SXVUcm9WWjVxbVp6MEROY05BdlFrVjBwVGx1UGxOQjFtSmU1NkttM0RzXzh6V3ZFTVVvUFZiZzVUd3N1a1dycg?oc=5"
         }
       ]
     },
@@ -450,6 +522,18 @@
       ]
     },
     {
+      "id": "bb7790a4e72c",
+      "title": "[굿클리닉] 뇌종양, 다학제 진료 통해 소아부터 성인까지 치료 성과 높여 - edaily.co.kr",
+      "published": "2026-03-17T22:49:34+00:00",
+      "summary": "[굿클리닉] 뇌종양, 다학제 진료 통해 소아부터 성인까지 치료 성과 높여&nbsp;&nbsp;edaily.co.kr\"갑자기 말 못 하게 된 62세 아버지\"… 뇌에 크게 자리 잡은 덩어리, 정체는?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT1FjdTdqVVZ4RzhzdVFJU0RXZ2ljVjNURW9WeXRKRDlSNVNJTDA4LWlGOW00ZVp5NHYtTTFqMnBsVHVXM25FSlB1dU9aYTFmYzl3V2NSQnRxb3FWMzJSaFUtMWFsQ3FtREppY3lCQm9pTWRUYUVLRzdVekpxam1VNg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b8793833816c",
       "title": "[의학산책] 작은 혹, 큰 걱정…갑상선 결절은 언제 수술해야 할까 - 매일신문",
       "published": "2026-03-17T21:30:00+00:00",
@@ -474,18 +558,6 @@
       ]
     },
     {
-      "id": "55da5ecd5538",
-      "title": "임신 중 고혈압, 출산 후 심혈관질환 위험 최대 3배↑ - 헬스포커스뉴스",
-      "published": "2026-03-17T15:10:00+00:00",
-      "summary": "임신 중 고혈압, 출산 후 심혈관질환 위험 최대 3배↑&nbsp;&nbsp;헬스포커스뉴스'고혈압·임신중독' 겹친 산모…출산후 심혈관 위험 3배↑&nbsp;&nbsp;뉴시스임신 중 고혈압, 출산 후 심부전·뇌졸중 발생 위험 최대 2.9배&nbsp;&nbsp;뉴스1“출산하면 끝인 줄 알았는데”… 10년 뒤 ‘심장’ 노리는 임신 중 고혈압&nbsp;&nbsp;segye.com기존 고혈압에 임신중독증 겹친 ‘중첩 전자간증’은 출산 후 심혈관 위험 2.93배&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "헬스포커스뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZZDNxVkNZZU5INGhfRmh0UldjcWQyWXRLZGZhT0hPTlpQN1JsOVdLOXRvMWw4Sm85Um9RMVVmaDBZNHBHLVhiUWtPMHdveTBLbGpBSWxKMnFSZU5nWjJkeGxqczIxWF8tQ3dCUGpfblFEUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "18a475af3193",
       "title": "소행성 '류구'에서 생명체 유전물질 이루는 염기 5종 모두 발견 - 동아사이언스",
       "published": "2026-03-17T01:17:00+00:00",
@@ -494,18 +566,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12VXVTUmR5ekpaZXZwc2pMZjVjeFhZZFNTMkgtYkxZVWhCTE5wWFBjMm1lX0pxRC1SS1pUMUUya3MyUUdBdTFuQzRkWjY3aklz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d8d76ee11c8",
-      "title": "\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡] - 파이낸셜뉴스",
-      "published": "2026-03-16T20:20:00+00:00",
-      "summary": "\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스[칼럼] 기온 오르는 봄철 여성 질염 증가…조기 진단과 생활 관리 중요&nbsp;&nbsp;위즈뉴스“생식기 또 가려워” 女 흔한 ‘이 질염’…반복 잦은 이유, 男이 전파해서?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ScG1YMlI5WWwwYTQ1MlFsbEVWZ2lhc2E3NTdJSWttazI0UFd3ZjJ4Q3gtREI0NHU3YW00dHNMRWFuVk4yS0tNQkctVGJzcGVUTlRkeUdFemxid9IBXkFVX3lxTE5qOWFtTXczem1ia2ZuWUpuUW5JWWNaV0FSblF0Tk9PeUhzLVU4a3MyOHhSZDBuc2FUWEJjVWhqanBLbHJERno3UTBCU3lERG5LUzExeUtRRnFyd3o5cEE?oc=5"
         }
       ]
     }
