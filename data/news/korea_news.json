@@ -1,10 +1,94 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-18T19:06:03.902094+00:00",
-  "total_fetched": 77,
-  "unique_count": 77,
-  "health_related_count": 34,
+  "fetched_at": "2026-03-19T02:35:19.775610+00:00",
+  "total_fetched": 70,
+  "unique_count": 70,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "a72c3b751cbf",
+      "title": "골다공증 걱정될 때… 의외의 해법은 ‘점프’ - 조선일보",
+      "published": "2026-03-19T01:40:00+00:00",
+      "summary": "골다공증 걱정될 때… 의외의 해법은 ‘점프’&nbsp;&nbsp;조선일보[이슈픽] “50세 이상 여성 4명 중 1명”…목숨까지 위협하는 골다공증, 예방법은?&nbsp;&nbsp;KBS 뉴스50세 이상 여성 ¼ 골다공증…\"엉덩이뼈 골절 시 최대 30% 사망\"&nbsp;&nbsp;SBS 뉴스여성 4명 중 1명 골다공증…고령층 뼈 건강 ‘경고등’&nbsp;&nbsp;충청게릴라뉴스50세 이상 여성 4명 중 1명 골다공증 앓는다&nbsp;&nbsp;뉴스21일간",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LcVFYNUxKSmpFc3dNU2swbEdHMzM2UkxEMkt2azN1eVd5TzVjenZ4WF9LckkzbjdvekF0dzhsMlN3UHFZalA1X3M3THpsM29lbWY1V0hpX3k4NldoQmVNbUVYUWtVd0dVLUIxdU8yY3lvZXdaSmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e59b0b971c5d",
+      "title": "인간에게 좋은 비타민 B2, 암세포 생존에도 보약 - 헬스코리아뉴스",
+      "published": "2026-03-19T00:58:47+00:00",
+      "summary": "인간에게 좋은 비타민 B2, 암세포 생존에도 보약&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05c3VDM0xFQlNjVHlQTWxKdmQ2VFlmTU5xc2s1MTRNeFBId3E1TVNiejJVZzhma0VmMkZhUUlibG9wSE5vcUtOYjhpOWJLTFU1ZUtNN1RLVXp5V2o3akY3WlpCWnRNVTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e3bcd983985",
+      "title": "“13세에 벌써 지방간”… 아이들 肝이 위험하다 - 조선일보",
+      "published": "2026-03-19T00:10:00+00:00",
+      "summary": "“13세에 벌써 지방간”… 아이들 肝이 위험하다&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKNHlJYjJOM0wyMk5YdkxZUnVFdWc4UTJSTDdxazVlRHZkYlNHSGVVYU05b3NVUF9PNjNjZ1BZZ255NUZGZ0U1bTJTNENrUWF5eWRBZzNsaHJURGY5ekNXcGlyWFEtZlVlWW9HYmZXVFNQdG5Bd0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8715c9f9817",
+      "title": "구글, AI 유방암 검사 혁신…17.7분 만에 판독 완료 - 디지털투데이",
+      "published": "2026-03-18T23:55:38+00:00",
+      "summary": "구글, AI 유방암 검사 혁신…17.7분 만에 판독 완료&nbsp;&nbsp;디지털투데이[건강] 질병 조기 발견의 혁신 건강검진에 들어온 인공지능(AI)&nbsp;&nbsp;거제저널\"축구장만한 암 조직 판독\"…AI, '디지털 병리' 판 바꾼다[빠정예진]&nbsp;&nbsp;뉴시스AI, 유방암 검진 패러다임 바꾼다…“4년 내 유방암 발병 위험까지 예측”&nbsp;&nbsp;아이티데일리\"디지털 병리+동반진단 AI 선도하는 멀티오믹스 기업 도약\"&nbsp;&nbsp;메디칼타임즈",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQZFhBcnJlcGFZMHg1c2xtMEhSX3NiZ01fbnAyTmxoMkx2Vm1UejFYNTdhWUlQVFVHSmpfaUJ2R2JzNGpsRGZfdERYWmZyMlpieC03eExUaXRVbVluaDdNWWpsTWZ6MlpiUzNGV0pfLVVvcms?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ecf6324f432f",
+      "title": "네오페노정, 고중성지방 관리를 위한 효과적인 전략 - 메디칼업저버",
+      "published": "2026-03-18T23:26:54+00:00",
+      "summary": "네오페노정, 고중성지방 관리를 위한 효과적인 전략&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82UGFoTFl0bjhHZ2NQZ1JKam1UR3lteklzeGJuNTM2MjM5aHJ4dlMxNEQ1X0ticGxrVzlobi1HcUpZdGItcXpkVzIxVlBnck1Idzd1T0dRX0M1aTVSZGFObzVFTHlqUXlvZXVV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "351e129229f7",
+      "title": "간이식 후 침습성 아스페르길루스증 발생 위험요인 규명 - 메디칼업저버",
+      "published": "2026-03-18T21:05:40+00:00",
+      "summary": "간이식 후 침습성 아스페르길루스증 발생 위험요인 규명&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zaWZoTFBCZ0NoUUIyTUFDdkMyRTR4eFhNTnBtelZQTFJDODMtWUFEUnlaX0ExM3pVYWNGeUJESXlfRmZhdTdRQVJMRnVkT0hRbE1NbWlTLXk2bTZITjJiV1JBUS1PSENEVjhj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a90b71c610e",
+      "title": "성인 폐렴구균 예방,\"PCV20 등 단백접합백신 전략 전환 시급\" - 메디칼업저버",
+      "published": "2026-03-18T20:56:41+00:00",
+      "summary": "성인 폐렴구균 예방,\"PCV20 등 단백접합백신 전략 전환 시급\"&nbsp;&nbsp;메디칼업저버호흡기 질환과 폐렴구균 질환, 치료보다 예방이 중요한 이유&nbsp;&nbsp;바이오타임즈폐렴 환자 4년새 3배↑…성인 폐렴구균 예방 '캡박시브' 주목[약전약후]&nbsp;&nbsp;뉴스1",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iQVRyYnRFNHNJNFc5eGFMWXdkLW5ObW5zeVVzV3FEUHFLTGg4M2tjbjdYYW42ZExRLXVRbk4zV1RCQXRBUGpadExhSGlidmV6VklWM0ZzV1pSTklIdmRxeGlQZTZrMy1oNk5R?oc=5"
+        }
+      ]
+    },
     {
       "id": "2f50df39d302",
       "title": "이석증 환자 50만명… 더 이상 낯선 질환 아니다 - 조선일보",
@@ -20,7 +104,7 @@
     {
       "id": "9d308c162a0a",
       "title": "‘트로이 목마’처럼… 백신 먹인 모기로 박쥐 감염병 퇴치 - 조선일보",
-      "published": "2026-03-18T15:36:00+00:00",
+      "published": "2026-03-18T15:40:47+00:00",
       "summary": "‘트로이 목마’처럼… 백신 먹인 모기로 박쥐 감염병 퇴치&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -33,7 +117,7 @@
       "id": "de957e0d37c3",
       "title": "건국대병원 박경식 교수팀, 갑상선암 치료 후 비알코올성 지방간 위험 규명 - 의약뉴스",
       "published": "2026-03-18T13:42:16+00:00",
-      "summary": "건국대병원 박경식 교수팀, 갑상선암 치료 후 비알코올성 지방간 위험 규명&nbsp;&nbsp;의약뉴스갑상선암 완치되면 끝? 간에 지방 쌓이는 ‘이 질환’ 위험 2배 높아 주의&nbsp;&nbsp;v.daum.net갑상선암 환자, 5년 내 지방간 위험 2배…치료 후 대사관리 필요&nbsp;&nbsp;네이트갑상선암 완치자, 지방간 발생 위험 2배 증가..‘체중 관리’ 중요&nbsp;&nbsp;글로벌경제신문갑상선암 완치 후 '지방간' 주의…호르몬제 복용량이 관건&nbsp;&nbsp;메디팜스투데이",
+      "summary": "건국대병원 박경식 교수팀, 갑상선암 치료 후 비알코올성 지방간 위험 규명&nbsp;&nbsp;의약뉴스Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "의약뉴스",
@@ -45,7 +129,7 @@
       "id": "c6765d5b7a7c",
       "title": "나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문? - 코메디닷컴",
       "published": "2026-03-18T08:01:00+00:00",
-      "summary": "나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?&nbsp;&nbsp;코메디닷컴노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스기억력 저하, 뇌만의 문제 아니다…‘장-뇌 축’ 노화 기전 발견[노화설계]&nbsp;&nbsp;동아일보나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 '장' 때문?&nbsp;&nbsp;네이트고혈압이 부르는 조용한 뇌혈관 손상… \"치매 예방, 중년기 장기적 관리가 핵심\"&nbsp;&nbsp;하이닥",
+      "summary": "나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?&nbsp;&nbsp;코메디닷컴노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 '장' 때문?&nbsp;&nbsp;네이트기억력 저하, 뇌만의 문제 아니다…‘장-뇌 축’ 노화 기전 발견[노화설계]&nbsp;&nbsp;동아일보고혈압이 부르는 조용한 뇌혈관 손상… \"치매 예방, 중년기 장기적 관리가 핵심\"&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -114,18 +198,6 @@
       ]
     },
     {
-      "id": "8056e6a8308b",
-      "title": "AI, 유방암 검진 패러다임 바꾼다…“4년 내 유방암 발병 위험까지 예측” - 아이티데일리",
-      "published": "2026-03-18T02:35:52+00:00",
-      "summary": "AI, 유방암 검진 패러다임 바꾼다…“4년 내 유방암 발병 위험까지 예측”&nbsp;&nbsp;아이티데일리AI가 밝혀낸 유방촬영 1석 2조 가능성…\"심장병도 예측\"&nbsp;&nbsp;메디칼타임즈[건강] 질병 조기 발견의 혁신 건강검진에 들어온 인공지능(AI)&nbsp;&nbsp;거제저널AI가 유방암 검진 의사를 대체할 수 있을까, 5만 명 임상 연구가 답했다&nbsp;&nbsp;AI 매터스유방 X선 사진을 AI로 돌렸더니 심혈관질환 확률까지 ‘척척’&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "아이티데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RLURvcVJhazJjYWk0T3p0RE1pOTFjdjJnZDh0d3llQTVkTlZ3azRid3BYbC1rVXlSc3B4TWFOOWwtOUNack45Ujkydm9TbVdTRGk0ZWxJRGtaY0g5cEJTYzJ6MVMwUGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "465038d09a17",
       "title": "IAAE-AI경영연구소, 신뢰가능한 AI를 위한 검인증 등 사업 협력 MOU 체결 - 투데이신문",
       "published": "2026-03-18T02:35:17+00:00",
@@ -162,18 +234,6 @@
       ]
     },
     {
-      "id": "f72d5fffe936",
-      "title": "AI가 질적 연구를 대신할 수 있는가 - 교수신문",
-      "published": "2026-03-18T00:03:43+00:00",
-      "summary": "AI가 질적 연구를 대신할 수 있는가&nbsp;&nbsp;교수신문",
-      "sources": [
-        {
-          "name": "교수신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Z0NxdUQwZVQzLTUyN250RGJOWUMxb2p0VlI3X2E4VWJjX3MycGRvN3RNQUo0X29PWUJrMGpmX3drUFlmMk5XcTY3OFRaUlZPTkFaZmpqMXNlMjZyOFdiT3p5SzlPQWM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "87dc5eb5dfee",
       "title": "[굿클리닉] 뇌종양, 다학제 진료 통해 소아부터 성인까지 치료 성과 높여 - 네이트",
       "published": "2026-03-17T22:51:00+00:00",
@@ -201,7 +261,7 @@
       "id": "913eb641a43e",
       "title": "암 걸리면 무조건 채식? No! - 마음건강 길",
       "published": "2026-03-17T21:00:00+00:00",
-      "summary": "암 걸리면 무조건 채식? No!&nbsp;&nbsp;마음건강 길Google 뉴스에서 전체 콘텐츠 보기",
+      "summary": "암 걸리면 무조건 채식? No!&nbsp;&nbsp;마음건강 길건강에 좋다는 채식, 일부 암 위험 낮추지만 식도암·대장암 위험 높일 수도&nbsp;&nbsp;하이닥고기 코너 앞에서 멈춘 날&nbsp;&nbsp;브런치“채식하면 암 걱정 끝?”…‘이 암’은 달랐다[나우,어스] |&nbsp;&nbsp;HeraldK.com“채식하면 암 걱정 끝?”…‘이 암’은 달랐다[나우,어스]&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
           "name": "마음건강 길",
@@ -210,14 +270,14 @@
       ]
     },
     {
-      "id": "747a2b72c4c8",
-      "title": "[언박싱 연구실] 자석에 붙는 '철' 넣었더니… 자석 밀어내는 '괴력' 초전도체 됐다 - v.daum.net",
-      "published": "2026-03-17T20:58:03+00:00",
-      "summary": "[언박싱 연구실] 자석에 붙는 '철' 넣었더니… 자석 밀어내는 '괴력' 초전도체 됐다&nbsp;&nbsp;v.daum.net",
+      "id": "55da5ecd5538",
+      "title": "임신 중 고혈압, 출산 후 심혈관질환 위험 최대 3배↑ - 헬스포커스뉴스",
+      "published": "2026-03-17T15:10:00+00:00",
+      "summary": "임신 중 고혈압, 출산 후 심혈관질환 위험 최대 3배↑&nbsp;&nbsp;헬스포커스뉴스\"임신중 고혈압, 출산후 심혈관질환 위험 높여…최대 2.9배\"&nbsp;&nbsp;v.daum.net'고혈압·임신중독' 겹친 산모…출산후 심혈관 위험 3배↑&nbsp;&nbsp;뉴시스임신 중 고혈압, 출산 후 심부전·뇌졸중 발생 위험 최대 2.9배&nbsp;&nbsp;뉴스1“출산하면 끝인 줄 알았는데”… 10년 뒤 ‘심장’ 노리는 임신 중 고혈압&nbsp;&nbsp;segye.com",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZzBzSHRjN2FEOWpyVDVINGxrV2RwZ3VJRTVucHp4Mng3aTdETDlGbzd4SXlEMmhpUE1FY0dyUkhYaF9BbVplRTNUX2ZnUW8?oc=5"
+          "name": "헬스포커스뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZZDNxVkNZZU5INGhfRmh0UldjcWQyWXRLZGZhT0hPTlpQN1JsOVdLOXRvMWw4Sm85Um9RMVVmaDBZNHBHLVhiUWtPMHdveTBLbGpBSWxKMnFSZU5nWjJkeGxqczIxWF8tQ3dCUGpfblFEUQ?oc=5"
         }
       ]
     },
@@ -230,18 +290,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jY1Vzd1Q5N0kwYmxyRTNVbGNTTU9saEhjNzY5N29rUm1HZ3U0S051blk3cTRMbVlrbURtYUVJSXdRaGs2THlJSGp5bV9kLVl6R2ZSUXRkajBNN1ZtUk13eWkxNTR6ZXNDZ1h3OVY2ZnZVcXNhemc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f16b179e134",
-      "title": "[의학바이오게시판] 기존 고혈압에 임신중독증 겹친 산모 출산 후 심혈관 위험 약 3배 높아 - 동아사이언스",
-      "published": "2026-03-17T09:08:00+00:00",
-      "summary": "[의학바이오게시판] 기존 고혈압에 임신중독증 겹친 산모 출산 후 심혈관 위험 약 3배 높아&nbsp;&nbsp;동아사이언스'고혈압·임신중독' 겹친 산모…출산후 심혈관 위험 3배↑&nbsp;&nbsp;뉴시스“출산하면 끝인 줄 알았는데”… 10년 뒤 ‘심장’ 노리는 임신 중 고혈압&nbsp;&nbsp;segye.com\"임신중 고혈압, 출산후 심혈관질환 위험 높여…최대 2.9배\"&nbsp;&nbsp;v.daum.net서울대병원 \"고혈압·임신중독증 겹친 산모, 심혈관 위험 3배↑\"&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tUUtiRE9JbExYYi1jNVNmT0gxcURTSU1XQWhYcUFDTE1VTG5jSHpTQlMwMVUzRlhKQ05acTZRbmtIdjJEWkpKeUdoaTF6V1lL?oc=5"
         }
       ]
     },
@@ -282,22 +330,10 @@
       ]
     },
     {
-      "id": "724b0e9c7117",
-      "title": "“초미세먼지, 파킨슨병 위험 높인다”... 여성, 노약자 취약성 더 높아 - 하이닥",
-      "published": "2026-03-17T05:00:00+00:00",
-      "summary": "“초미세먼지, 파킨슨병 위험 높인다”... 여성, 노약자 취약성 더 높아&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tc1BXS29nNzVyYk1KbERmaGVaWHN2djdMb1o0SUFYTk12empfOG9Ga2daaVlnRzI1WTNjNUp1cnozOUZtWkswQV8yWFB5aDIwUjZwcmpPMHNWcklzQ1AzbjRabkFGMmQyMVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "756316986a75",
       "title": "염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목 - 메디칼업저버",
       "published": "2026-03-17T03:21:28+00:00",
-      "summary": "염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목&nbsp;&nbsp;메디칼업저버새로운 건강 소식과 함께하는 하루: 체중과 혈압에 조용히 영향을 미치는 습관들.&nbsp;&nbsp;Vietnam.vn혈압을 급격히 높이는 ‘숨겨진 3가지 원인’…수면·운동·체중 관리가 핵심&nbsp;&nbsp;굿모닝베트남미디어“고혈압? 대학생도 흔합니다”... 2030 고혈압, 노년층과 증상 달라 ①&nbsp;&nbsp;하이닥“2030 고혈압, 합병증 위험 커... 혈관 살릴 '골든타임' 놓치지 말아야” ②&nbsp;&nbsp;하이닥",
+      "summary": "염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목&nbsp;&nbsp;메디칼업저버“의사는 절대 안 먹는다”… 아침 공복 ‘최악의 음식’ 3가지&nbsp;&nbsp;조선일보새로운 건강 소식과 함께하는 하루: 체중과 혈압에 조용히 영향을 미치는 습관들.&nbsp;&nbsp;Vietnam.vn“빵 한 조각 먹었을 뿐인데...” 혈당 올리는 사소한 아침 습관 5&nbsp;&nbsp;하이닥혈압을 급격히 높이는 ‘숨겨진 3가지 원인’…수면·운동·체중 관리가 핵심&nbsp;&nbsp;굿모닝베트남미디어",
       "sources": [
         {
           "name": "메디칼업저버",
@@ -318,66 +354,6 @@
       ]
     },
     {
-      "id": "cde1cfbbf1d0",
-      "title": "\"릭시아나, 개인 맞춤형 항응고 치료전략 될 것\" - 메디칼업저버",
-      "published": "2026-03-17T00:00:00+00:00",
-      "summary": "\"릭시아나, 개인 맞춤형 항응고 치료전략 될 것\"&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xdVBnaDhVRmFsSlg1QldXY0VjY3BaQ2FpekJSWGpETnNtWmFvUW1DdUtfd3pvcnZUaWwwWlBiMy16WE1ybWRzTkh5TUpMTGl1TXl2WjQ4U2JMRUt3YjlOTUZZNVE1aFdCRU5Z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a9189ed312f",
-      "title": "TSH 정상화 이후 남는 증상 갑상선기능저하증 병용요법의 가능성 - mostonline.co.kr",
-      "published": "2026-03-16T23:50:27+00:00",
-      "summary": "TSH 정상화 이후 남는 증상 갑상선기능저하증 병용요법의 가능성&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mclYxZlBCV0VQV1hjX3ZCZUc5dFlrck5yZFJiTU1MNnRUMnliLWJyTlpSRmRPYTdZOTVORTFpSTlZMTRRd05TT1hJdVF0QWNDQ0YzU2lseC1rNXhKNVh1MlNaWGNiNFNJR0pweDVLMDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "42643fb3732e",
-      "title": "“알약수 줄이는 것도 간경변 합병증 치료목표 달성의 지름길” - mostonline.co.kr",
-      "published": "2026-03-16T23:44:57+00:00",
-      "summary": "“알약수 줄이는 것도 간경변 합병증 치료목표 달성의 지름길”&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00dHVtYnNEWXUxYnFtZTcwNF9sYkxXaDczZURFRmdzSkd2WWpTZkdfSTJFUU5NX3IyTkh5NUY4MGgtOFQtVUxqelJ1bmItU3lfWEV6bVFjdXR6MVlQY2VtSUZKOUd2RXpoVHVEalI5cWY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a1d0e0a958c1",
-      "title": "광학 및 나노 기술로 최장 8년 일찍 암 예측 - 사이언스모니터",
-      "published": "2026-03-16T23:32:19+00:00",
-      "summary": "광학 및 나노 기술로 최장 8년 일찍 암 예측&nbsp;&nbsp;사이언스모니터",
-      "sources": [
-        {
-          "name": "사이언스모니터",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMGRTZm1TalRuNE5NMmFXODBlb1pCaVo5MW1oQ041T0ttNWVuN0FQNzc1Xy1LeWdWTjBPZEYtZkdNQmNMMGxXcTczMzlzYTdqWV9ZQ0d5NHE2aTdrczFRcGRHZVBLcktwWVltdjRqdUN4RmdpRVUzWGV2WklqUTYteTBoTTN0U2dmay05bTRsQURUdHl6czB5X08yQ1NpN3VYaV9UNlNCdzUweFR3U1V2ZnJQQVN6MHZrbWYzNWlqUU9SSEpiWFVTa256SEo4MUwtWkxKbWdWbzNPbFczQm1tQ2NYeUZJOTR1RTVGYWxONE10R3F6ME1LbUtBTEx3c0pxcDUzNWZmaUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d11b5d139d5f",
-      "title": "얼굴에 숨은 '뇌 하수구' 찾았다…치매 막는 마사지 방법 - 네이트",
-      "published": "2026-03-16T20:21:00+00:00",
-      "summary": "얼굴에 숨은 '뇌 하수구' 찾았다…치매 막는 마사지 방법&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54TnVOUmp0MXgzZVA4ZkRlckI1ZTQydU03N1pNTG9kbW11dDRqMGZJTk4zOU5PU05xNEd3UFVGc1RVVFR4SEUyem4wRDRPeXc1bnB5LThB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d8d76ee11c8",
       "title": "\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡] - 파이낸셜뉴스",
       "published": "2026-03-16T20:20:00+00:00",
@@ -390,26 +366,14 @@
       ]
     },
     {
-      "id": "c8f599f18b38",
-      "title": "스마트워치로 당뇨 전조 잡는다…구글, '인슐린 저항성' 예측 AI 개발 - v.daum.net",
-      "published": "2026-03-16T20:01:44+00:00",
-      "summary": "스마트워치로 당뇨 전조 잡는다…구글, '인슐린 저항성' 예측 AI 개발&nbsp;&nbsp;v.daum.net",
+      "id": "91c46c7b0a3b",
+      "title": "韓 연구팀, 물리교과서 뒤집는 '증폭 초전도현상' 발견 - v.daum.net",
+      "published": "2026-03-16T03:01:44+00:00",
+      "summary": "韓 연구팀, 물리교과서 뒤집는 '증폭 초전도현상' 발견&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52SllrbnpxcDlQZlBWX2ZNa0hIcXNyTXJVa1duZUFrNzUySFJaNGp5S3QySUhGZ2FTWHh2Ukxodk9WMm5DcFpJMU5LOGlGZmM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0eb5ca3cebb",
-      "title": "“의사가 정하고 환자가 따르는 시대 끝”…‘공유의사결정’ 한국 의료과제로 - 청년의사",
-      "published": "2026-03-15T21:32:47+00:00",
-      "summary": "“의사가 정하고 환자가 따르는 시대 끝”…‘공유의사결정’ 한국 의료과제로&nbsp;&nbsp;청년의사",
-      "sources": [
-        {
-          "name": "청년의사",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FNHNvWURGdk1wTFVpTk1lTHJZQXE2aFZnOFV4MlZXTHNYWEhDVERIYmszVkxqOV8tTEhaTW5WTk5NUGwxd2w0ZUw1MmpHclZMa0JVYWlBMGlhWDlwaWNpZWk5b0pwRVk0SXVqTE1jWdIBc0FVX3lxTE5VX29LYmtxLTExaTNoSENWZEtoOEtKMHBLazczZnpVeVpLMjI5Nzh1Zm1SY2pvUEpzLUFyODExcmY1R1pzT0tvMFhYUnd1Vl9tNnRYbkRKblNNVG0teEJiVHJLSkNTQmVvYkRrdU5pcXRPQU0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CR0QwWG80UmIzYmxrVXF4dGE0eDk1WkVpdUtNU294ZDA3RG8wamQ2bnUwRnFSX0o5cTI0U0NMXzd4TEg2TE5rTHFTUjRzLTQ?oc=5"
         }
       ]
     }
