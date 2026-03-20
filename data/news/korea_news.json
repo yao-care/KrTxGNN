@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-20T07:01:17.875061+00:00",
-  "total_fetched": 95,
-  "unique_count": 94,
-  "health_related_count": 51,
+  "fetched_at": "2026-03-20T13:07:30.683161+00:00",
+  "total_fetched": 96,
+  "unique_count": 95,
+  "health_related_count": 55,
   "news": [
+    {
+      "id": "e3ffa5235dd4",
+      "title": "낮에 외출하기, 건강하게 장수하는 가장 간단한 방법 - Vogue korea",
+      "published": "2026-03-20T10:00:16+00:00",
+      "summary": "낮에 외출하기, 건강하게 장수하는 가장 간단한 방법&nbsp;&nbsp;Vogue korea",
+      "sources": [
+        {
+          "name": "Vogue korea",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNY04yV3QtempyRjRSYzVGV0x4SUE4eEd0VUFTMU1jSjAxS2xkNy1DZm1IM2VjaTExR1F0MnZBVWoxWUFZYUJteWhSRTVVaWQ2c2Z0MzRTRGhHWFNzU0F0bTVFX0piYUkyeGREZU9laWdJNlNNcm45QUNwOVpRZll4RkdQOGwybUVpekpGUTRHYXVQeG5HaHVXNkRPVmVLQno1RkxaWGVtWGdCX2pVOGdzU3I3cWVOU1lOWXphZTBDMHg3WXIwSG5lVXF2RHI0OUFQM1N0VGxxNXVQNldRNXFYVkpDb05PTFRpVW5HYVhoWE5DQk9pVU04dTAtcEYtdlcwZXAyZFRySXRpTGRfSndQMXNaeldKZXVqVmlQZUVkOEQ1TnpGSW1WN1MtQkNiM0dKRGRkdUgya0ZGdVl3ejdDNTl1ay13X1lURG1RRkV2RzM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "623227b9015b",
+      "title": "전문가: 지방간은 대수롭지 않은 ‘작은 문제’가 아니다--건강 - 인민넷",
+      "published": "2026-03-20T07:54:00+00:00",
+      "summary": "전문가: 지방간은 대수롭지 않은 ‘작은 문제’가 아니다--건강&nbsp;&nbsp;인민넷“13세에 벌써 지방간”… 아이들 肝이 위험하다&nbsp;&nbsp;조선일보운동·건강기능식품으로도 풀리지 않는 ‘만성 피로’… ‘간’이 보내는 경고일 수도&nbsp;&nbsp;하이닥\"소아청소년 지방간, 단순히 살이 쪄서 생긴 문제 아냐\"&nbsp;&nbsp;데일리메디팜비만과 내분비대사질환·합병증 - 대사이상지방간질환(MASLD)&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpbXVzbGdoZEdMeVBLOGxUa3VhQ3RBVWFIanV0NHdKal9oV25TVmNOckZ6Vl94ZHp6aUFjRGl2VVRSY0Ywb09wd3FiSzZPalVybDhlRTNFbFNsV1l0MUlQMTBEQUJGbWE1RFN1TmJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a7b39a429e3",
+      "title": "\"모르고 마시면 더 망가진다\"⋯당뇨·비만·고혈압 잡는 '물 마시는 법'은? - 아이뉴스24",
+      "published": "2026-03-20T07:48:53+00:00",
+      "summary": "\"모르고 마시면 더 망가진다\"⋯당뇨·비만·고혈압 잡는 '물 마시는 법'은?&nbsp;&nbsp;아이뉴스24",
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qTUNhbVJpYkh4a0VQcW0xeVZUU0kwdW56Zi1CaUZLamFvak1Ecjk1NmJlc0lIU2pwazJkUGJGNzNaanBkU0h5Z0J0cE4?oc=5"
+        }
+      ]
+    },
     {
       "id": "8389549f3302",
       "title": "조용히 진행되는 난소암, 복부 불편감 반복된다면 의심해야 - edaily.co.kr",
@@ -21,11 +57,23 @@
       "id": "23ab6929dac5",
       "title": "'고지용♥' 허양임, 치매 위험 신호 주목 \"뇌세포 손상 경고\" (세 개의 시선) - 조선일보",
       "published": "2026-03-20T05:33:00+00:00",
-      "summary": "'고지용♥' 허양임, 치매 위험 신호 주목 \"뇌세포 손상 경고\" (세 개의 시선)&nbsp;&nbsp;조선일보노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?&nbsp;&nbsp;코메디닷컴허양임 \"주차 위치 깜빡, 검색하려다 멈칫?…뇌세포 손상 신호\" [세 개의 시선]&nbsp;&nbsp;v.daum.net스마트폰 시대, '디지털 치매'와의 산소 전쟁… 뇌 건강 지키는 법은?&nbsp;&nbsp;한국사회복지저널",
+      "summary": "'고지용♥' 허양임, 치매 위험 신호 주목 \"뇌세포 손상 경고\" (세 개의 시선)&nbsp;&nbsp;조선일보노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?&nbsp;&nbsp;코메디닷컴김석훈도 멈칫, 주차 위치 깜빡…치매 경고인가?&nbsp;&nbsp;네이트허양임 \"주차 위치 깜빡, 검색하려다 멈칫?…뇌세포 손상 신호\" [세 개의 시선]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUtESDZManhnbzVLMnEzMjlBX2RQRl82d2p5c0ZaT0QyR29YLS1vNXcwUG1ic1VlR3J3QjRnaWdOUkJuamxSUVgzX1FnNXhPVTdqRjE3LVlQc1ZvenlSNlVVWnNaWGtpRDNOSWhxRkpWY3F0b0ltYWRFNVFxYTMzZUpDVmNlSTRic2xMZzFfMNIBowFBVV95cUxQYV9jXzFaNVRBcFJOaDRPME1qREZLUFVhbzlLQzFjVk82cXAzQWstSmlmcHd1Y29DUEpER2VKRl9qMUxmLWRiR3Y4RDFnOTZwaWNXbEgxTmstWGcwV1R6RWZBUHpwSDhDWnNuWlJkQy0xUV9mNlhSNGFzNUlSbkpkZG1BQWlDUW1oUE52bkhwVVpiMGw4dVFVQ0hwYUVDcHI3ZnRF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f80122f75d37",
+      "title": "[시론] 소액암 전이 모른 척하더니…보험사 불완전판매가 부른 ′당연한 청구서′ - 알파경제",
+      "published": "2026-03-20T05:30:42+00:00",
+      "summary": "[시론] 소액암 전이 모른 척하더니…보험사 불완전판매가 부른 ′당연한 청구서′&nbsp;&nbsp;알파경제금감원, 소액암 보험 분쟁에 '종지부'…\"보험사 불완전 판매\" 판단&nbsp;&nbsp;v.daum.net\"소액암서 전이된 암도 일반암으로 물어줘라\"…보험사 수천억 청구서&nbsp;&nbsp;mt.co.kr[시론] 소액암 전이 모른 척하더니…보험사 불완전판매가 부른 '당연한 청구서'&nbsp;&nbsp;네이트전이부위 기준 암 보험금 지급… 보험사 수백억 부담 전망&nbsp;&nbsp;스포탈코리아",
+      "sources": [
+        {
+          "name": "알파경제",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yU1VQOFFtbExBNlVycGhzWm1fLV9jaWJqUGd0cXBQdWVucm5ORmoteDNnLTRtSHdVQjkyR2tiT3N1bW1tMHN5VEhDSXFtSURHUmpBUGh1OHdpRmFWc3fSAW5BVV95cUxNeGgxeVpjMmdTOTdTbi0zeUREenNJc0pGdlhteDNOazdvT2wzTmhHV1NpU0JuV2JIY0lSM3VOanQ0azI2QUgxT1pUQW5tUzA1alpQN28zQzRXb3hjWVl2dnU3MUxzRUt4ZUZXanRHUQ?oc=5"
         }
       ]
     },
@@ -44,12 +92,72 @@
     {
       "id": "45e40dc7321d",
       "title": "[100세 과학] 비단뱀에서 비만 치료제 후보 찾았다 - 조선비즈 - Chosunbiz",
-      "published": "2026-03-20T03:43:00+00:00",
+      "published": "2026-03-20T03:50:00+00:00",
       "summary": "[100세 과학] 비단뱀에서 비만 치료제 후보 찾았다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2FJSWRHNWFOY3FjbDVmaXBUQTB6dEIyV2dnR3F3cDBmTGp3X0dpc29TZGtmZVB2cnJpeHlHTW4zTzhTaG1iWGlsQlFmY3RJel9PdDNTYTBfSnJsMlBrQk10eXRPS2ZiUG5qUjJCc0xYYW1OeG5uN19icGdpd245ZmFnbk5OS0pTRGlGQ0dnVFNEX0JILXdr0gGrAUFVX3lxTE5QeEtaQXZiVWd5OUxOS1lpMHdNZlBEWFlYdWExM0dqTnlJYkhvakItNW1vb2lEWjJpTUpaa0IxdXpjQkZnWHl1WE40UFZjMDYxbnF6enZuZTJtUDVaemd0RHp6djBJTDV0QWY5QlM4QUFlSjVmZDY3WktRZXBzcE1Mc3JGQy1OeVctMXBRNC1NdzBFS25VUnFXRVlzS3N2dHU3dG1iS1JwUGF6aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d064086d7bf",
+      "title": "美FDA, 동물실험 대체 지침 초안 공개…'인간중심' 과학 - 뉴시스",
+      "published": "2026-03-20T02:01:22+00:00",
+      "summary": "美FDA, 동물실험 대체 지침 초안 공개…'인간중심' 과학&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45b1ZLdWkxYXI5bkF1Zzlrb1ZIU0dGNGFiYXh6VWZISk9PZy1SLUxiaDBkNDVQMkN3Mm5wejh6NnlhSlZFa3RaU0xXU3RpNWRONjZnN2tsYjJEWlkxQU5PWHl2RE7SAXhBVV95cUxObi1WS0ZrSjEwUVRpUm5aRWk0VXBlM2lRTE1DTmE4ZHozLU9lMDRSbE9PNFROM2JkcWRvb0g2WWQtdEZyZDF1VGNycWxGaUFrZm5VVEZ2X1MyZ1NuNE5LajhFQlFoVllNdTJQNkI0Q2pBS2JoajdXM0Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6a3f69d07fe",
+      "title": "1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아 - 메디컬투데이",
+      "published": "2026-03-20T00:17:10+00:00",
+      "summary": "1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Gb003cnhXaXZ3a19oUEhrUmlLUF9oMHNHNWIzNVhLRTFweW5OVEdnQWQzR0FtNHNoV0wyR2l6NDQ0cXVnUmhXUlQ3UHVmV3hla1hSUGlYd24zcHp5dVlYRXd30gFsQVVfeXFMTzNhVlNGV1dJRHFqTVVCOU9fdDlPNHpSdmpjSWVKanJWcGxFd04yQnIzMXNFTHItemwxTjFiQmgzOEVlaHNUaE5QdmdEdGM4Q1FzQ0FKRHgtS0QxYXlqS2pwZW1odjB1LUdINjNZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10cf13df1aec",
+      "title": "비만이 췌장암으로 이어지는 과정, 췌장 호르몬 ′콜레시스토키닌′이 핵심 역할 - 메디컬투데이",
+      "published": "2026-03-20T00:09:37+00:00",
+      "summary": "비만이 췌장암으로 이어지는 과정, 췌장 호르몬 ′콜레시스토키닌′이 핵심 역할&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uSDJ4NGgxaWlfMldvd0ZJbXhGRUEzQUxBZGR2NzFMYmFORDBSSkVMU0pzMGJ3bGMwWThwYl9RWjI0VlZSZnNDXzg1REVpYTc2ejF4QmxZYWRhWUFDNDFPaE5R0gFsQVVfeXFMUHR1ODFwSnFwbFNxTUplcmRNSEtwTnJCdm5ETnQ4Rzl0UnBtbExRaUpTdGJMMloxVTZGRkJmR2ZwMkNpYll2RG9jQjR2eklJVzBFWXpvQW85MDZiUzJLbmdUY3JUVmY1cXV1WFU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ef26ca1d12b0",
+      "title": "40세 이전 조기 폐경 여성, 심장병 걸릴 위험 높다 - 메디컬투데이",
+      "published": "2026-03-20T00:07:33+00:00",
+      "summary": "40세 이전 조기 폐경 여성, 심장병 걸릴 위험 높다&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CTzZ6QlVFeVBFU1N4OGJNbW92MTR4X1I5cjBqUHlWM00yd18tZjVsUUJQNVhiQVo3MTVOcmdRSktFcWdrd2JXYVFMdTQzRVMyb1pTQ1diTmozU3RZMGZST0l30gFsQVVfeXFMUEVLa2tadU41dUhrcXhkU3FiY2dhU0FjUElFZGowdExpODRBSEpqVk9OZUtTOEIyR2g5eTJZV3pXV3NwaXJheGVrZWFLcmZ1Y3dRYmtNa1k4RmtReElIZV9DRkJueGtLQmhFMlpk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "82d3a4a77e31",
+      "title": "흔히 쓰이는 ′비스포스포네이트′ 계열 골다공증 약, 치매 위험 낮춰 - 메디컬투데이",
+      "published": "2026-03-19T23:59:25+00:00",
+      "summary": "흔히 쓰이는 ′비스포스포네이트′ 계열 골다공증 약, 치매 위험 낮춰&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xTm9oMldrRDZaTmpvUzFhNC1QdUtRS0tPeDd5S1ZVTmhLZWVjcnhVQjlyclZ3WGZmWE5qTVFUcUNXS0tMeVRGcVZyQ1hLNWFUYTZpTzNHaGJ2ZDRfV1hTYktR0gFsQVVfeXFMT2h1YkExcmdwMERYeG9UdzZzZFlBMjlpQk1uWC05d1lIMTl5UkFBSlpjU1JJeVhaNndNcTlDZ3NNRDNCQ0habUQ2amdOVGRybVdpdzNjYWxTc0hYcjNfNVlncllKek9rRllhM1VQ?oc=5"
         }
       ]
     },
@@ -138,21 +246,9 @@
       ]
     },
     {
-      "id": "6803e89b16b1",
-      "title": "전이부위 기준 암 보험금 지급…보험사 수백억 부담 전망 - 네이트",
-      "published": "2026-03-19T19:01:00+00:00",
-      "summary": "전이부위 기준 암 보험금 지급…보험사 수백억 부담 전망&nbsp;&nbsp;네이트금감원, 소액암 보험 분쟁에 '종지부'…\"보험사 불완전 판매\" 판단&nbsp;&nbsp;v.daum.net\"소액암서 전이된 암도 일반암으로 물어줘라\"…보험사 수천억 청구서&nbsp;&nbsp;mt.co.kr[시론] 소액암 전이 모른 척하더니…보험사 불완전판매가 부른 당연한 청구서&nbsp;&nbsp;뉴스통[단독]\"소액암에서 전이된 암도 일반암\"…금감원, 보험금 소급 지급 요구&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0weEVzcHlIZVV0Y3M0cUpQdWZtM1VYYXpQQUVHNDR3UFgzZDVBUEhrNkxDSFJGOHVGeTNYX2ViODE1a1M1anpqZGgxTmhLenhlQ2FJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "900f42179a19",
       "title": "자외선 LED 난제 풀 실마리… 국내 연구진, 초고효율 심자외선 소재 구현 - 조선비즈 - Chosunbiz",
-      "published": "2026-03-19T18:00:00+00:00",
+      "published": "2026-03-19T18:03:19+00:00",
       "summary": "자외선 LED 난제 풀 실마리… 국내 연구진, 초고효율 심자외선 소재 구현 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
@@ -390,18 +486,6 @@
       ]
     },
     {
-      "id": "6394cff247ce",
-      "title": "부작용 없는 탈모 치료제 나온다 [지금은 과학] - v.daum.net",
-      "published": "2026-03-19T00:42:03+00:00",
-      "summary": "부작용 없는 탈모 치료제 나온다 [지금은 과학]&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Tblk5RDUxX0xjMlBfNUNBbWhpeGdqMUNCa0hTTWR3X211WlMxN3dOR0VtMFh4bkJYNWQ1RjIxNjlwcUZVSTZMZFBFM0FmT0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e85cf4724ada",
       "title": "[건강신호등] “계속되는 기침”…단순 감기 아닌 폐질환일 수 있다 - 전국뉴스",
       "published": "2026-03-19T00:20:00+00:00",
@@ -422,18 +506,6 @@
         {
           "name": "뉴스웍스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4T2xJN3l6QzN5bDVBczQtaHRmazFWRUxLWkxfYUpodWJUdVVvSVFWOUNkcTVkT1NiVnNOVWJnVzhVRTd5WXNUNnNjS3A5S2NZVzNfbWRvMFJzSFBjdk5ldTJIcWYtOUZQaGpnUUpIONIBc0FVX3lxTE9sS3hjdkRCT2ptaEhPNGhNVXJOamFqVUZuSDVvdGxsVURRWEREVE9qOE1nRmtwYmQwcWIwSXpnSjF0VWMwOTFiYUd3TW5ROFpGOS1FamhQaUZqUldEdzNnUTUtTjRmRkFhR2VEQkREaDI3TG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e3bcd983985",
-      "title": "“13세에 벌써 지방간”… 아이들 肝이 위험하다 - 조선일보",
-      "published": "2026-03-19T00:10:00+00:00",
-      "summary": "“13세에 벌써 지방간”… 아이들 肝이 위험하다&nbsp;&nbsp;조선일보\"소아청소년 지방간, 단순히 살이 쪄서 생긴 문제 아냐\"&nbsp;&nbsp;데일리메디팜비만과 내분비대사질환·합병증 - 대사이상지방간질환(MASLD)&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKNHlJYjJOM0wyMk5YdkxZUnVFdWc4UTJSTDdxazVlRHZkYlNHSGVVYU05b3NVUF9PNjNjZ1BZZ255NUZGZ0U1bTJTNENrUWF5eWRBZzNsaHJURGY5ekNXcGlyWFEtZlVlWW9HYmZXVFNQdG5Bd0E?oc=5"
         }
       ]
     },
@@ -522,38 +594,14 @@
       ]
     },
     {
-      "id": "312cf4e26158",
-      "title": "“AI가 초급 개발자 대체 비상상황” 일자리 직격탄 맞은 청년들 - 동아일보",
-      "published": "2026-03-18T19:30:00+00:00",
-      "summary": "“AI가 초급 개발자 대체 비상상황” 일자리 직격탄 맞은 청년들&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14cXc4NmtOanotdGpvUG84anFjSTBXeFFwQ3hDekFaSEFteHZyektLSExDRHFfOG0xRWtCaVhwZVdYbkxwZHQybjRid3VxNEF6dnM4cE0wbGY3cnVRMmFYZng5NkJHOVBGOE9yNFVUcWszZG54OHfSAWZBVV95cUxOUkNLQXJ1bkJIMUpIdUhENElNRlpmNlNhU1owUmpyeU9qdkN2N1ZmMG96dnF1M3R2c0c3VkhWSTB2TlFEU281dTMydDJuOE1WTXg4TWUyYmVIZzZ3aC1RcDE1bG45ZkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94f8005546e3",
+      "id": "9e6ae3f50587",
       "title": "'트로이 목마'처럼…백신 먹인 모기로 박쥐 감염병 퇴치 - 네이트",
       "published": "2026-03-18T15:37:00+00:00",
       "summary": "'트로이 목마'처럼…백신 먹인 모기로 박쥐 감염병 퇴치&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMTXpEd09CS0UwRS1UaFFFNzVtQXlrb0FsUVdCNGtMQ2xydGFWc2NwbDU0YW00NlpxX1dBbEVTMDNXSEYwMkVlNFlscnVXanhpWENB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "21b8762079ba",
-      "title": "인수공통 바이러스, 사전 적응 없이도 인간 전파 가능 - UC 샌디에이고 연구진 발표 - 한국AI부동산신문",
-      "published": "2026-03-18T07:30:46+00:00",
-      "summary": "인수공통 바이러스, 사전 적응 없이도 인간 전파 가능 - UC 샌디에이고 연구진 발표&nbsp;&nbsp;한국AI부동산신문코로나19 中 실험실 유출설 논쟁 끝나나… “배양 흔적 없다”&nbsp;&nbsp;동아일보바이러스, 인간 맞춤형으로 진화하지만... 코로나19는 특별한 증거 못 찾아 - 조선비즈&nbsp;&nbsp;Chosunbiz전세계 벌벌 떨게한 코로나19 기원은...“中 실험실 유출 아냐” 美 연구결과&nbsp;&nbsp;서울경제신문\"코로나, 중국 실험실 유출 아니다\"-미 연구 결과&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoWlVSclQ2bDZZdzI5VU5kTVlCSjFkTEhFbXBEUHljLUI0Wl9KcXNNMnltZWs5aWtVV3lxaExGYTRNWDZsMlpwRkVnd3I?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRb2RXR3ZkNDBFbG5WTHBBQkFQWGs0OUhLTGJQQUEtSDN6X3diQlEzSUpSckVxTzIyMnNaNUR0bXBJenBPZFJSTXN2LThoTjFMdkpuZGprTmFnZEtkcUt3RA?oc=5"
         }
       ]
     },
@@ -594,6 +642,18 @@
       ]
     },
     {
+      "id": "f72d5fffe936",
+      "title": "AI가 질적 연구를 대신할 수 있는가 - 교수신문",
+      "published": "2026-03-18T00:03:43+00:00",
+      "summary": "AI가 질적 연구를 대신할 수 있는가&nbsp;&nbsp;교수신문",
+      "sources": [
+        {
+          "name": "교수신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Z0NxdUQwZVQzLTUyN250RGJOWUMxb2p0VlI3X2E4VWJjX3MycGRvN3RNQUo0X29PWUJrMGpmX3drUFlmMk5XcTY3OFRaUlZPTkFaZmpqMXNlMjZyOFdiT3p5SzlPQWM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "505be2b14850",
       "title": "“버블 없는 혁신은 없어…AI 버블, 도약 기회로 삼아야” - 한겨레",
       "published": "2026-03-17T22:14:00+00:00",
@@ -602,18 +662,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JcjdIc241WlhTalQwRkJMNmR5c3M1aFhfOGluNjh3QXI0N0lnOVJVYlFFY3BZajFaSXUxLUtTZHRCdVRrcVNTbGF5SDdUX2tLUnV3QnFaY3BUcU9OSWpmUnRHNlJLSE54Ny1rbHFRTExUUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "747a2b72c4c8",
-      "title": "[언박싱 연구실] 자석에 붙는 '철' 넣었더니… 자석 밀어내는 '괴력' 초전도체 됐다 - v.daum.net",
-      "published": "2026-03-17T20:58:03+00:00",
-      "summary": "[언박싱 연구실] 자석에 붙는 '철' 넣었더니… 자석 밀어내는 '괴력' 초전도체 됐다&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZzBzSHRjN2FEOWpyVDVINGxrV2RwZ3VJRTVucHp4Mng3aTdETDlGbzd4SXlEMmhpUE1FY0dyUkhYaF9BbVplRTNUX2ZnUW8?oc=5"
         }
       ]
     }
