@@ -1,8 +1,8 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-20T13:07:30.683161+00:00",
+  "fetched_at": "2026-03-20T18:55:50.655416+00:00",
   "total_fetched": 96,
-  "unique_count": 95,
+  "unique_count": 96,
   "health_related_count": 55,
   "news": [
     {
@@ -18,6 +18,18 @@
       ]
     },
     {
+      "id": "c94daa25b474",
+      "title": "유산소 운동 부족해도... '악력' 센 노년 여성, 사망 위험 더 낮았다 - 하이닥",
+      "published": "2026-03-20T09:00:00+00:00",
+      "summary": "유산소 운동 부족해도... '악력' 센 노년 여성, 사망 위험 더 낮았다&nbsp;&nbsp;하이닥집에서 해도 된다…근력운동 새 지침, 핵심은 ‘꾸준함’ [노화설계]&nbsp;&nbsp;동아일보[임영빈 박사] \"노년 건강, 근육과 단백질이 좌우한다\"&nbsp;&nbsp;미주중앙일보공복에 보충제? 달걀, 고등어 자주 먹고…'이 운동' 병행했더니, 근육에 큰 변화가?&nbsp;&nbsp;네이트굵고 짧게? 가늘고 길게?&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9acTdUclE3NDdnOUhkMm5WYnZZSHhTaDFDUjNyTU1LRzhvWTlTTDRBN3ZGYi1KYjVIRW1WdDJWVVR5T2EzaGwxdVdkM2NjM2tiVVVCdkFsRGxwajdieWNyWm1UeXVOTG9hS0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "623227b9015b",
       "title": "전문가: 지방간은 대수롭지 않은 ‘작은 문제’가 아니다--건강 - 인민넷",
       "published": "2026-03-20T07:54:00+00:00",
@@ -26,18 +38,6 @@
         {
           "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpbXVzbGdoZEdMeVBLOGxUa3VhQ3RBVWFIanV0NHdKal9oV25TVmNOckZ6Vl94ZHp6aUFjRGl2VVRSY0Ywb09wd3FiSzZPalVybDhlRTNFbFNsV1l0MUlQMTBEQUJGbWE1RFN1TmJB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a7b39a429e3",
-      "title": "\"모르고 마시면 더 망가진다\"⋯당뇨·비만·고혈압 잡는 '물 마시는 법'은? - 아이뉴스24",
-      "published": "2026-03-20T07:48:53+00:00",
-      "summary": "\"모르고 마시면 더 망가진다\"⋯당뇨·비만·고혈압 잡는 '물 마시는 법'은?&nbsp;&nbsp;아이뉴스24",
-      "sources": [
-        {
-          "name": "아이뉴스24",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qTUNhbVJpYkh4a0VQcW0xeVZUU0kwdW56Zi1CaUZLamFvak1Ecjk1NmJlc0lIU2pwazJkUGJGNzNaanBkU0h5Z0J0cE4?oc=5"
         }
       ]
     },
@@ -57,7 +57,7 @@
       "id": "23ab6929dac5",
       "title": "'고지용♥' 허양임, 치매 위험 신호 주목 \"뇌세포 손상 경고\" (세 개의 시선) - 조선일보",
       "published": "2026-03-20T05:33:00+00:00",
-      "summary": "'고지용♥' 허양임, 치매 위험 신호 주목 \"뇌세포 손상 경고\" (세 개의 시선)&nbsp;&nbsp;조선일보노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?&nbsp;&nbsp;코메디닷컴김석훈도 멈칫, 주차 위치 깜빡…치매 경고인가?&nbsp;&nbsp;네이트허양임 \"주차 위치 깜빡, 검색하려다 멈칫?…뇌세포 손상 신호\" [세 개의 시선]&nbsp;&nbsp;v.daum.net",
+      "summary": "'고지용♥' 허양임, 치매 위험 신호 주목 \"뇌세포 손상 경고\" (세 개의 시선)&nbsp;&nbsp;조선일보검색하려던 단어 안 떠오른다? \"뇌세포 손상 경고\"&nbsp;&nbsp;뉴시스노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?&nbsp;&nbsp;코메디닷컴허양임 \"주차 위치 깜빡, 검색하려다 멈칫?…뇌세포 손상 신호\" [세 개의 시선]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "조선일보",
@@ -186,6 +186,18 @@
       ]
     },
     {
+      "id": "3595e062aa28",
+      "title": "[리서치] “AI가 유방암 더 잘 찾는다”...NHS 연구서 판독 효율·정확도 입증 - 테크데일리",
+      "published": "2026-03-19T23:05:03+00:00",
+      "summary": "[리서치] “AI가 유방암 더 잘 찾는다”...NHS 연구서 판독 효율·정확도 입증&nbsp;&nbsp;테크데일리구글, AI 유방암 검사 혁신…17.7분 만에 판독 완료&nbsp;&nbsp;네이트AI, 유방암 검진 패러다임 바꾼다…“4년 내 유방암 발병 위험까지 예측”&nbsp;&nbsp;아이티데일리AI가 유방암 검진 의사를 대체할 수 있을까, 5만 명 임상 연구가 답했다&nbsp;&nbsp;AI 매터스검사복 앞에서, 다른 위험을 떠올린 날&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "테크데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13dS16WVk0cm0yWmI1TUdQclVMRTN4NDBDTnJ3Uk8zcmRoZ0FzcXgyMWhtMXZ2UGlCc2M0SkZzQlhSdlpobDhzbHZxeERYYmdWUTNpZHVCY0E3ZFMwbzF5VTRKVFlON19WejA1bEd30gFyQVVfeXFMTzNUZ29PTUEyYW5JRnpXQkc1T3hvSDByYXd2UUlfT2ZfOEYzWEFTcENCUGdDNFl5eHJWOUxCaFhPRXUxR0wweUpoZVVmM0xQSEx0X3IySzJkNUVvbExfUkFMNFduSzhOLTBjM3dyYnc1RUNR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e679ca1db6da",
       "title": "이지혜, 남편 문재완 위고비 3주 차 근황...\"입맛 줄어, 입안에 누가 화학약품 넣는 줄\" ('관종언니') - v.daum.net",
       "published": "2026-03-19T21:00:04+00:00",
@@ -206,6 +218,18 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XTUJzUFJZb1ZlVndBU1pEZlRncVhxcVZaYmVXSEtlLUtiQm1JZjNRY2RZdkVfVnUzOXV5RzlEYkZ2M1luWklQa25lR0ZyYnFlX2JudmllM1lhbm04WDNPNFEzMjB4aUF0NWJF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2228364e9ece",
+      "title": "“9세부터 LDL 검사를… 낮추기 위한 오메가3 권고 안 해” - 조선일보",
+      "published": "2026-03-19T20:51:58+00:00",
+      "summary": "“9세부터 LDL 검사를… 낮추기 위한 오메가3 권고 안 해”&nbsp;&nbsp;조선일보“간단해서 매일 먹었는데”…알고보니 콜레스테롤 폭탄, 좋은 식품은? [헬시타임]&nbsp;&nbsp;서울경제신문심장마비 위험 낮추려면 ‘이 약’ 일찍 복용해야?&nbsp;&nbsp;코메디닷컴美 심장협회 새 지침 보니… “콜레스테롤 낮추려면 ‘이것’ 꼭 해라”&nbsp;&nbsp;조선일보“콜레스테롤 낮추려면 끊어라”… 매일 먹는 ‘이 음식’, 뭐길래?&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHZrQThldGRsdWpUa1EwbmdxWTVkY2FzbVF4dVlGRHpMcDJ3eUhJdnhvR182S1FKejQwMDZtUWNfOXI4cnlGNkVzZUJib2dCT1EwQnI4Z0tJSXh0QmtqdGNCY3dtUEVtdkxQTnJ0UXQ3c2xmXzR2YzlqLTR2dDB1QkVGSdIBlwFBVV95cUxPOElKeFJEeHBmX0Y5NXhNc1FYTG9oaktjdnpzSGRyRVlTZXZXWGtiYUFOOVJqd1Jkdy04YjU2SGtSR0xaQ0dHWHU0dWdEVWFpdENldnVUY3J1czlRVGpGSE9Qem1oUXF4TzZEUC1vLUFoR1ZsbkkxNnNVT1pmanNENHNISWZ1SFp0Nkx0Y1RIb2pDUXZKTWl3?oc=5"
         }
       ]
     },
@@ -285,7 +309,7 @@
       "id": "492136238baf",
       "title": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다 - 하이닥",
       "published": "2026-03-19T10:00:00+00:00",
-      "summary": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다&nbsp;&nbsp;하이닥새로운 건강 소식과 함께하는 하루: 체중과 혈압에 조용히 영향을 미치는 습관들.&nbsp;&nbsp;Vietnam.vn염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목&nbsp;&nbsp;메디칼업저버혈압을 급격히 높이는 ‘숨겨진 3가지 원인’…수면·운동·체중 관리가 핵심&nbsp;&nbsp;굿모닝베트남미디어“고혈압? 대학생도 흔합니다”... 2030 고혈압, 노년층과 증상 달라 ①&nbsp;&nbsp;하이닥",
+      "summary": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다&nbsp;&nbsp;하이닥새로운 건강 소식과 함께하는 하루: 체중과 혈압에 조용히 영향을 미치는 습관들.&nbsp;&nbsp;Vietnam.vn염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목&nbsp;&nbsp;메디칼업저버혈압을 급격히 높이는 ‘숨겨진 3가지 원인’…수면·운동·체중 관리가 핵심&nbsp;&nbsp;굿모닝베트남미디어“2030 고혈압, 합병증 위험 커... 혈관 살릴 '골든타임' 놓치지 말아야” ②&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "하이닥",
@@ -314,18 +338,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50WDhFQ0xDZGttOXVDczU3bW1rOEl5NVZoXzBNdS04dHR1MVZtM0I0dldJVkNWYUlNZk1DM0tFZ2J3bnZoU05XaHVJUXRCaWF4Q2xvVHNjQm9UQ084SU9IWmtOV3hnVFk3Sk1UOXFGd3VjTk5CTVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d0e121b655a4",
-      "title": "[이건몰랐지] 반복 질염…남성이 원인? - 충청신문",
-      "published": "2026-03-19T07:35:48+00:00",
-      "summary": "[이건몰랐지] 반복 질염…남성이 원인?&nbsp;&nbsp;충청신문\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스[칼럼] 기온 오르는 봄철 여성 질염 증가…조기 진단과 생활 관리 중요&nbsp;&nbsp;위즈뉴스“생식기 또 가려워” 女 흔한 ‘이 질염’…반복 잦은 이유, 男이 전파해서?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "충청신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uQUhGUHpEbEdHdGNqd1hQOFlJSnA0ZzktSzFZcDJ3bVJmUVlGdWUwcllac3Q1ZGwyZFY4MlhQU1FYOGJOc202aXk3Vl9oRVhNSHl4WEpRS056UHZuQVUzTE5fOGFpOWFkZEHSAW5BVV95cUxNUjNKeWFRWUxTMFVnNVhVbHJXbllkMmF1aGsydkd3VlJRWGMxeWZ0Znh4aFZVUlRuNzJ4MHlEdXFJbWFCMjA2WVNaaVJFdzV0N3ZSUFRtc1FpOE52VWF3REZPMm56WXk0eVY1blZGdw?oc=5"
         }
       ]
     },
@@ -465,7 +477,7 @@
       "id": "a72c3b751cbf",
       "title": "골다공증 걱정될 때… 의외의 해법은 ‘점프’ - 조선일보",
       "published": "2026-03-19T01:40:00+00:00",
-      "summary": "골다공증 걱정될 때… 의외의 해법은 ‘점프’&nbsp;&nbsp;조선일보50세이상 여성 ¼ 골다공증…\"엉덩이뼈 골절시 최대 30% 사망\"&nbsp;&nbsp;v.daum.net[이슈픽] “50세 이상 여성 4명 중 1명”…목숨까지 위협하는 골다공증, 예방법은?&nbsp;&nbsp;KBS 뉴스50세 이상 여성 ¼ 골다공증…\"엉덩이뼈 골절 시 최대 30% 사망\"&nbsp;&nbsp;SBS 뉴스여성 4명 중 1명 골다공증…고령층 뼈 건강 ‘경고등’&nbsp;&nbsp;충청게릴라뉴스",
+      "summary": "골다공증 걱정될 때… 의외의 해법은 ‘점프’&nbsp;&nbsp;조선일보[이슈픽] “50세 이상 여성 4명 중 1명”…목숨까지 위협하는 골다공증, 예방법은?&nbsp;&nbsp;KBS 뉴스50세 이상 여성 ¼ 골다공증…\"엉덩이뼈 골절 시 최대 30% 사망\"&nbsp;&nbsp;SBS 뉴스여성 4명 중 1명 골다공증…고령층 뼈 건강 ‘경고등’&nbsp;&nbsp;충청게릴라뉴스뼈에 구멍 ‘숭숭’…50대 이상 여성 4명중 1명 ‘골다공증’, 위험요인은?&nbsp;&nbsp;농민신문",
       "sources": [
         {
           "name": "조선일보",
@@ -489,7 +501,7 @@
       "id": "e85cf4724ada",
       "title": "[건강신호등] “계속되는 기침”…단순 감기 아닌 폐질환일 수 있다 - 전국뉴스",
       "published": "2026-03-19T00:20:00+00:00",
-      "summary": "[건강신호등] “계속되는 기침”…단순 감기 아닌 폐질환일 수 있다&nbsp;&nbsp;전국뉴스비염 고민, ‘삼백초 추출물’이 답!? 건강 정보 프로그램서 집중 조명&nbsp;&nbsp;글로벌경제신문3주 이상 기침, 감기 아닌 '천식'?.. \"운동 후∙야간에 증상 심해지면 진료 필요\"&nbsp;&nbsp;하이닥일교차와 미세먼지 습격, 호흡기 건강 비상… ‘삼백초추출물’ 주목&nbsp;&nbsp;퍼블릭뉴스통신봄에서 여름으로 날씨가 바뀔 때 흔히 발생하는 질병 몇 가지.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[건강신호등] “계속되는 기침”…단순 감기 아닌 폐질환일 수 있다&nbsp;&nbsp;전국뉴스비염 고민, ‘삼백초 추출물’이 답!? 건강 정보 프로그램서 집중 조명&nbsp;&nbsp;글로벌경제신문3주 이상 기침, 감기 아닌 '천식'?.. \"운동 후∙야간에 증상 심해지면 진료 필요\"&nbsp;&nbsp;하이닥'콜록콜록' 2주 이상 지속 기침…감기 아닌 '이 질환'?[몸의경고]&nbsp;&nbsp;스포탈코리아봄에서 여름으로 날씨가 바뀔 때 흔히 발생하는 질병 몇 가지.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "전국뉴스",
@@ -518,18 +530,6 @@
         {
           "name": "메디칼트리뷴",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lVy1jTFRJYlZPRnItemZHc2FYbVpGaDI5UzZmUmZ4aXNDMWhibnVtdEV1OXZ1X1BpRTBjbkowcGFPTGtfREVoY083b0NPNV9qdDJhbVV3Q3lSbDU1VE5SZVdrS0JUc0RwWWFrdVVKNmYyaFNVOEdV0gF6QVVfeXFMUE5XT1pIOF8wNVZ5Z3J4Z3pLRG44aGNnNlRGT0hHU2k0NF94UDJKY3B5NW1GUnRabldHNUdrVHZPZDdpV21Sb0M1ZE13WXpLMFhkNTBBNkQwUUQxeVZCaXVkbFZ6ZDZ4WnFMdWZRZEVPaTh1TTdMMjZZRkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8715c9f9817",
-      "title": "구글, AI 유방암 검사 혁신…17.7분 만에 판독 완료 - 디지털투데이",
-      "published": "2026-03-18T23:55:38+00:00",
-      "summary": "구글, AI 유방암 검사 혁신…17.7분 만에 판독 완료&nbsp;&nbsp;디지털투데이Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQZFhBcnJlcGFZMHg1c2xtMEhSX3NiZ01fbnAyTmxoMkx2Vm1UejFYNTdhWUlQVFVHSmpfaUJ2R2JzNGpsRGZfdERYWmZyMlpieC03eExUaXRVbVluaDdNWWpsTWZ6MlpiUzNGV0pfLVVvcms?oc=5"
         }
       ]
     },
@@ -594,26 +594,26 @@
       ]
     },
     {
-      "id": "9e6ae3f50587",
-      "title": "'트로이 목마'처럼…백신 먹인 모기로 박쥐 감염병 퇴치 - 네이트",
-      "published": "2026-03-18T15:37:00+00:00",
-      "summary": "'트로이 목마'처럼…백신 먹인 모기로 박쥐 감염병 퇴치&nbsp;&nbsp;네이트",
+      "id": "312cf4e26158",
+      "title": "“AI가 초급 개발자 대체 비상상황” 일자리 직격탄 맞은 청년들 - 동아일보",
+      "published": "2026-03-18T19:30:00+00:00",
+      "summary": "“AI가 초급 개발자 대체 비상상황” 일자리 직격탄 맞은 청년들&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRb2RXR3ZkNDBFbG5WTHBBQkFQWGs0OUhLTGJQQUEtSDN6X3diQlEzSUpSckVxTzIyMnNaNUR0bXBJenBPZFJSTXN2LThoTjFMdkpuZGprTmFnZEtkcUt3RA?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14cXc4NmtOanotdGpvUG84anFjSTBXeFFwQ3hDekFaSEFteHZyektLSExDRHFfOG0xRWtCaVhwZVdYbkxwZHQybjRid3VxNEF6dnM4cE0wbGY3cnVRMmFYZng5NkJHOVBGOE9yNFVUcWszZG54OHfSAWZBVV95cUxOUkNLQXJ1bkJIMUpIdUhENElNRlpmNlNhU1owUmpyeU9qdkN2N1ZmMG96dnF1M3R2c0c3VkhWSTB2TlFEU281dTMydDJuOE1WTXg4TWUyYmVIZzZ3aC1RcDE1bG45ZkE?oc=5"
         }
       ]
     },
     {
-      "id": "78c908488982",
+      "id": "4c625390353a",
       "title": "[단독] 우주시대 연다더니…1년새 국가 우주연구원 15명 '줄사표' - v.daum.net",
       "published": "2026-03-18T06:37:00+00:00",
       "summary": "[단독] 우주시대 연다더니…1년새 국가 우주연구원 15명 '줄사표'&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2ZkoxVjNVU3l6UHEzX0JiVTVCdS0tT2hBbFlPN3Rzd0g2eTE4bnJDZkQtVWhVTlRfM2Y0bzZUZzFfZWFmMkVKX2cxNHQ4dWs?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tMHNwOGRxOV9iaEJDTTJaM2ZsUG9XdFI4Z20tTUZhUS1zRUYwaDRQTlRKZkhNZmZKWE4wMDUxUVFnc1pnUGc?oc=5"
         }
       ]
     },
