@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-20T18:55:50.655416+00:00",
-  "total_fetched": 96,
-  "unique_count": 96,
-  "health_related_count": 55,
+  "fetched_at": "2026-03-21T02:22:10.146207+00:00",
+  "total_fetched": 82,
+  "unique_count": 82,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "638d43150944",
+      "title": "중증 코로나19 앓았다면 폐암 위험 1.24배↑… 백신이 방어막 - 하이닥",
+      "published": "2026-03-21T02:00:00+00:00",
+      "summary": "중증 코로나19 앓았다면 폐암 위험 1.24배↑… 백신이 방어막&nbsp;&nbsp;하이닥[건강포커스] \"중증 코로나19·독감, 수개월~수년 뒤 폐암 발생 위험 높여\"&nbsp;&nbsp;연합뉴스코로나·독감 심하게 앓으면 폐암 위험 ↑… “백신이 보호 효과”[노화설계]&nbsp;&nbsp;동아일보“기침소리 심상찮더니”… 중증 독감, 코로나 ‘이 암’ 위험 커진다?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtZVlEQ2Y2Sk1oZ0Q0c013dnp2enJRMjJsbFkyRS1MYm4tUDNwRHVERkplVnhNR0p3X3NITERqVXBHN3piSlR5WThNMzVjbHlaYk9qbjdOQ09nT3VJazhwTkVib3FFb0o5S3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fb8db2a0145",
+      "title": "'이지혜♥' 문재완, 위고비로 3주만에 폭풍 감량…\"화학 약품 넣는 느낌\" [RE:뷰] - 네이트",
+      "published": "2026-03-20T22:51:00+00:00",
+      "summary": "'이지혜♥' 문재완, 위고비로 3주만에 폭풍 감량…\"화학 약품 넣는 느낌\" [RE:뷰]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3otSXl2ZTdsSHR0MjlibFRyanhOYWNQTWRsb09SRXZTLXZvN1lOdlB1Slc3RUFOTkxnRjRZNVdKMHRhN0Y0Z19WMXFIX1NROXVQZkVYSHZBNm1sRW9qN0NNNzNob0oyT1FHSzFrbXVzWHJ0Um50b2hNVlk2d1RXQnB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d359a2ca2ed",
+      "title": "‘뜨개질’의 정신적 효과 - 마음건강 길",
+      "published": "2026-03-20T21:00:00+00:00",
+      "summary": "‘뜨개질’의 정신적 효과&nbsp;&nbsp;마음건강 길",
+      "sources": [
+        {
+          "name": "마음건강 길",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZWRyRXgtNlV3TGQ1enhYcDlmS2xYbER4ZlNoblRnMzdjc0cwdGdPV0Y2Mm05UGhmbjBDOTNkZnh5SGVBbWk4a3BrM0VWMUFlTG1fVzdfSThDb0JXZTcxR3RkakhKaFU5WXfSAW5BVV95cUxPcTJEOEU0c19CWndiMjQ5eWhKNm5yeDdlQWFKVFlueVN5SC1lQkdFREVtdXpzeEhQdVlaYkN2RmN3c01pRVZsT2tURS1heVY3WFNHWVhwRXc4U3E3dkI3eTczNXZzVUIwZHVzaWxvUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "e3ffa5235dd4",
       "title": "낮에 외출하기, 건강하게 장수하는 가장 간단한 방법 - Vogue korea",
@@ -14,18 +50,6 @@
         {
           "name": "Vogue korea",
           "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNY04yV3QtempyRjRSYzVGV0x4SUE4eEd0VUFTMU1jSjAxS2xkNy1DZm1IM2VjaTExR1F0MnZBVWoxWUFZYUJteWhSRTVVaWQ2c2Z0MzRTRGhHWFNzU0F0bTVFX0piYUkyeGREZU9laWdJNlNNcm45QUNwOVpRZll4RkdQOGwybUVpekpGUTRHYXVQeG5HaHVXNkRPVmVLQno1RkxaWGVtWGdCX2pVOGdzU3I3cWVOU1lOWXphZTBDMHg3WXIwSG5lVXF2RHI0OUFQM1N0VGxxNXVQNldRNXFYVkpDb05PTFRpVW5HYVhoWE5DQk9pVU04dTAtcEYtdlcwZXAyZFRySXRpTGRfSndQMXNaeldKZXVqVmlQZUVkOEQ1TnpGSW1WN1MtQkNiM0dKRGRkdUgya0ZGdVl3ejdDNTl1ay13X1lURG1RRkV2RzM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c94daa25b474",
-      "title": "유산소 운동 부족해도... '악력' 센 노년 여성, 사망 위험 더 낮았다 - 하이닥",
-      "published": "2026-03-20T09:00:00+00:00",
-      "summary": "유산소 운동 부족해도... '악력' 센 노년 여성, 사망 위험 더 낮았다&nbsp;&nbsp;하이닥집에서 해도 된다…근력운동 새 지침, 핵심은 ‘꾸준함’ [노화설계]&nbsp;&nbsp;동아일보[임영빈 박사] \"노년 건강, 근육과 단백질이 좌우한다\"&nbsp;&nbsp;미주중앙일보공복에 보충제? 달걀, 고등어 자주 먹고…'이 운동' 병행했더니, 근육에 큰 변화가?&nbsp;&nbsp;네이트굵고 짧게? 가늘고 길게?&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9acTdUclE3NDdnOUhkMm5WYnZZSHhTaDFDUjNyTU1LRzhvWTlTTDRBN3ZGYi1KYjVIRW1WdDJWVVR5T2EzaGwxdVdkM2NjM2tiVVVCdkFsRGxwajdieWNyWm1UeXVOTG9hS0E?oc=5"
         }
       ]
     },
@@ -198,18 +222,6 @@
       ]
     },
     {
-      "id": "e679ca1db6da",
-      "title": "이지혜, 남편 문재완 위고비 3주 차 근황...\"입맛 줄어, 입안에 누가 화학약품 넣는 줄\" ('관종언니') - v.daum.net",
-      "published": "2026-03-19T21:00:04+00:00",
-      "summary": "이지혜, 남편 문재완 위고비 3주 차 근황...\"입맛 줄어, 입안에 누가 화학약품 넣는 줄\" ('관종언니')&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMQWQxN0pUb3gzNU1Dc3pHako3aEstOTN0My1CTzNUVDhlc2tRWGhfWlpCYmY5RWJ2eXNyZ2xzQm9QQmNHV2N2X2JGbENVY1U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "87a1186da4d5",
       "title": "잔여 심혈관질환 위험 관리에 Lp(a) 역할 중요 - 메디칼업저버",
       "published": "2026-03-19T20:57:27+00:00",
@@ -282,6 +294,18 @@
       ]
     },
     {
+      "id": "421b79ee1fc2",
+      "title": "[헬스 플러스+] “심뇌혈관질환 5대 요인이 좌우… 생활습관 관리가 답” - v.daum.net",
+      "published": "2026-03-19T15:07:08+00:00",
+      "summary": "[헬스 플러스+] “심뇌혈관질환 5대 요인이 좌우… 생활습관 관리가 답”&nbsp;&nbsp;v.daum.net\"낮을수록 이득\" 엄격한 혈압관리 심혈관 보호효과 재확인&nbsp;&nbsp;메디칼트리뷴고혈압약 먹어도 안심 못 한다···\"심혈관질환·당뇨 좌우하는 건 생활습관\"&nbsp;&nbsp;더메디컬고혈압 진단 후 습관 바꾸면 당뇨 위험 79% 뚝&nbsp;&nbsp;데일리굿뉴스고혈압 환자, 생활 습관 개선했더니…깜짝 결과 나왔다&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vNmVUdlAzdEpRbGRXVFFtUmNtMXN0ckFNajd3TmR4cGJhN1MzaHMxUFZOZnN3YWFPY0swM2plX3V6aXZjTm1sS2txSDJyZ1k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "64f9f646bffc",
       "title": "‘항산화 성분’ 글루타치온의 배신… 암세포 먹이로 쓰인다 - 조선일보",
       "published": "2026-03-19T14:00:00+00:00",
@@ -309,7 +333,7 @@
       "id": "492136238baf",
       "title": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다 - 하이닥",
       "published": "2026-03-19T10:00:00+00:00",
-      "summary": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다&nbsp;&nbsp;하이닥새로운 건강 소식과 함께하는 하루: 체중과 혈압에 조용히 영향을 미치는 습관들.&nbsp;&nbsp;Vietnam.vn염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목&nbsp;&nbsp;메디칼업저버혈압을 급격히 높이는 ‘숨겨진 3가지 원인’…수면·운동·체중 관리가 핵심&nbsp;&nbsp;굿모닝베트남미디어“2030 고혈압, 합병증 위험 커... 혈관 살릴 '골든타임' 놓치지 말아야” ②&nbsp;&nbsp;하이닥",
+      "summary": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다&nbsp;&nbsp;하이닥새로운 건강 소식과 함께하는 하루: 체중과 혈압에 조용히 영향을 미치는 습관들.&nbsp;&nbsp;Vietnam.vn염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목&nbsp;&nbsp;메디칼업저버혈압을 급격히 높이는 ‘숨겨진 3가지 원인’…수면·운동·체중 관리가 핵심&nbsp;&nbsp;굿모닝베트남미디어고혈압이 부르는 조용한 뇌혈관 손상… \"치매 예방, 중년기 장기적 관리가 핵심\"&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "하이닥",
@@ -450,18 +474,6 @@
       ]
     },
     {
-      "id": "5b74ddfd2d72",
-      "title": "“고혈압 환자 생활습관 개선 심혈관·당뇨 위험 감소 효과” - 미주한국일보",
-      "published": "2026-03-19T03:00:00+00:00",
-      "summary": "“고혈압 환자 생활습관 개선 심혈관·당뇨 위험 감소 효과”&nbsp;&nbsp;미주한국일보Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsVDNmcGF0dGVkMTE3ejJCR05Tc19Yal9La0tUaExpcFlDd2sxeWw4QmNHZFZsN2x5ZGVJb3F4WWFMSWZFY1V6ZFktTUtOcnNHZUxQVnd5bW9kU21XNTdV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "003af29d2a27",
       "title": "어린이집 보내고 잦아진 감기, 아이의 ‘면역 거름’ 된다 - 조선일보",
       "published": "2026-03-19T02:33:00+00:00",
@@ -470,78 +482,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56VGVTcVhxWVFfa1NmWWVoLVRCU0l1UVVHd202R1NOdFhRNU1YMGI0NTdIeDBCelE3YTg4WlZzbzRkc1FoR1ZhWXNjYnExbFlvVmVZQ0NDM3BNMDJLZlVJVkM5OEdieFpXaWRIT25wWS04N0pma3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a72c3b751cbf",
-      "title": "골다공증 걱정될 때… 의외의 해법은 ‘점프’ - 조선일보",
-      "published": "2026-03-19T01:40:00+00:00",
-      "summary": "골다공증 걱정될 때… 의외의 해법은 ‘점프’&nbsp;&nbsp;조선일보[이슈픽] “50세 이상 여성 4명 중 1명”…목숨까지 위협하는 골다공증, 예방법은?&nbsp;&nbsp;KBS 뉴스50세 이상 여성 ¼ 골다공증…\"엉덩이뼈 골절 시 최대 30% 사망\"&nbsp;&nbsp;SBS 뉴스여성 4명 중 1명 골다공증…고령층 뼈 건강 ‘경고등’&nbsp;&nbsp;충청게릴라뉴스뼈에 구멍 ‘숭숭’…50대 이상 여성 4명중 1명 ‘골다공증’, 위험요인은?&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LcVFYNUxKSmpFc3dNU2swbEdHMzM2UkxEMkt2azN1eVd5TzVjenZ4WF9LckkzbjdvekF0dzhsMlN3UHFZalA1X3M3THpsM29lbWY1V0hpX3k4NldoQmVNbUVYUWtVd0dVLUIxdU8yY3lvZXdaSmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e59b0b971c5d",
-      "title": "인간에게 좋은 비타민 B2, 암세포 생존에도 보약 - 헬스코리아뉴스",
-      "published": "2026-03-19T00:58:47+00:00",
-      "summary": "인간에게 좋은 비타민 B2, 암세포 생존에도 보약&nbsp;&nbsp;헬스코리아뉴스",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05c3VDM0xFQlNjVHlQTWxKdmQ2VFlmTU5xc2s1MTRNeFBId3E1TVNiejJVZzhma0VmMkZhUUlibG9wSE5vcUtOYjhpOWJLTFU1ZUtNN1RLVXp5V2o3akY3WlpCWnRNVTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e85cf4724ada",
-      "title": "[건강신호등] “계속되는 기침”…단순 감기 아닌 폐질환일 수 있다 - 전국뉴스",
-      "published": "2026-03-19T00:20:00+00:00",
-      "summary": "[건강신호등] “계속되는 기침”…단순 감기 아닌 폐질환일 수 있다&nbsp;&nbsp;전국뉴스비염 고민, ‘삼백초 추출물’이 답!? 건강 정보 프로그램서 집중 조명&nbsp;&nbsp;글로벌경제신문3주 이상 기침, 감기 아닌 '천식'?.. \"운동 후∙야간에 증상 심해지면 진료 필요\"&nbsp;&nbsp;하이닥'콜록콜록' 2주 이상 지속 기침…감기 아닌 '이 질환'?[몸의경고]&nbsp;&nbsp;스포탈코리아봄에서 여름으로 날씨가 바뀔 때 흔히 발생하는 질병 몇 가지.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "전국뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xYVA5RllhWEJ0cElYcHZmT2FSRXA2WGpEOGxmRW9YaWFJTjM1ekRxdy0wcXJxS3d6cmp1X0VJeFlwdTZXRllkdzZCRnVPVkZCNWRONkpqYXUwV0hGZ1pWWmlINHhUdFJwbV85VDdHVHY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0892f23085d",
-      "title": "IAAE-AI경영연구소, 신뢰 가능 AI 위한 검인증·심사원 양성 협력 - 뉴스웍스",
-      "published": "2026-03-19T00:14:06+00:00",
-      "summary": "IAAE-AI경영연구소, 신뢰 가능 AI 위한 검인증·심사원 양성 협력&nbsp;&nbsp;뉴스웍스",
-      "sources": [
-        {
-          "name": "뉴스웍스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4T2xJN3l6QzN5bDVBczQtaHRmazFWRUxLWkxfYUpodWJUdVVvSVFWOUNkcTVkT1NiVnNOVWJnVzhVRTd5WXNUNnNjS3A5S2NZVzNfbWRvMFJzSFBjdk5ldTJIcWYtOUZQaGpnUUpIONIBc0FVX3lxTE9sS3hjdkRCT2ptaEhPNGhNVXJOamFqVUZuSDVvdGxsVURRWEREVE9qOE1nRmtwYmQwcWIwSXpnSjF0VWMwOTFiYUd3TW5ROFpGOS1FamhQaUZqUldEdzNnUTUtTjRmRkFhR2VEQkREaDI3TG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a94b2a2914f",
-      "title": "외상환자 생존율 개선...전혈수혈, 성분수혈보다 효과 - 메디칼트리뷴",
-      "published": "2026-03-18T23:57:47+00:00",
-      "summary": "외상환자 생존율 개선...전혈수혈, 성분수혈보다 효과&nbsp;&nbsp;메디칼트리뷴",
-      "sources": [
-        {
-          "name": "메디칼트리뷴",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lVy1jTFRJYlZPRnItemZHc2FYbVpGaDI5UzZmUmZ4aXNDMWhibnVtdEV1OXZ1X1BpRTBjbkowcGFPTGtfREVoY083b0NPNV9qdDJhbVV3Q3lSbDU1VE5SZVdrS0JUc0RwWWFrdVVKNmYyaFNVOEdV0gF6QVVfeXFMUE5XT1pIOF8wNVZ5Z3J4Z3pLRG44aGNnNlRGT0hHU2k0NF94UDJKY3B5NW1GUnRabldHNUdrVHZPZDdpV21Sb0M1ZE13WXpLMFhkNTBBNkQwUUQxeVZCaXVkbFZ6ZDZ4WnFMdWZRZEVPaTh1TTdMMjZZRkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ecf6324f432f",
-      "title": "네오페노정, 고중성지방 관리를 위한 효과적인 전략 - 메디칼업저버",
-      "published": "2026-03-18T23:26:54+00:00",
-      "summary": "네오페노정, 고중성지방 관리를 위한 효과적인 전략&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82UGFoTFl0bjhHZ2NQZ1JKam1UR3lteklzeGJuNTM2MjM5aHJ4dlMxNEQ1X0ticGxrVzlobi1HcUpZdGItcXpkVzIxVlBnck1Idzd1T0dRX0M1aTVSZGFObzVFTHlqUXlvZXVV?oc=5"
         }
       ]
     },
@@ -558,42 +498,6 @@
       ]
     },
     {
-      "id": "351e129229f7",
-      "title": "간이식 후 침습성 아스페르길루스증 발생 위험요인 규명 - 메디칼업저버",
-      "published": "2026-03-18T21:05:40+00:00",
-      "summary": "간이식 후 침습성 아스페르길루스증 발생 위험요인 규명&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zaWZoTFBCZ0NoUUIyTUFDdkMyRTR4eFhNTnBtelZQTFJDODMtWUFEUnlaX0ExM3pVYWNGeUJESXlfRmZhdTdRQVJMRnVkT0hRbE1NbWlTLXk2bTZITjJiV1JBUS1PSENEVjhj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a90b71c610e",
-      "title": "성인 폐렴구균 예방,\"PCV20 등 단백접합백신 전략 전환 시급\" - 메디칼업저버",
-      "published": "2026-03-18T20:56:41+00:00",
-      "summary": "성인 폐렴구균 예방,\"PCV20 등 단백접합백신 전략 전환 시급\"&nbsp;&nbsp;메디칼업저버호흡기 질환과 폐렴구균 질환, 치료보다 예방이 중요한 이유&nbsp;&nbsp;바이오타임즈폐렴 환자 4년새 3배↑…성인 폐렴구균 예방 '캡박시브' 주목[약전약후]&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iQVRyYnRFNHNJNFc5eGFMWXdkLW5ObW5zeVVzV3FEUHFLTGg4M2tjbjdYYW42ZExRLXVRbk4zV1RCQXRBUGpadExhSGlidmV6VklWM0ZzV1pSTklIdmRxeGlQZTZrMy1oNk5R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0eee54fe62c",
-      "title": "임신중 고혈압을 겪었다면… - 마음건강 길",
-      "published": "2026-03-18T20:50:00+00:00",
-      "summary": "임신중 고혈압을 겪었다면…&nbsp;&nbsp;마음건강 길'고혈압·임신중독' 겹친 산모…출산후 심혈관 위험 3배↑&nbsp;&nbsp;뉴시스임신 중 고혈압, 출산 후 심부전·뇌졸중 발생 위험 최대 2.9배&nbsp;&nbsp;뉴스1“출산하면 끝인 줄 알았는데”… 10년 뒤 ‘심장’ 노리는 임신 중 고혈압&nbsp;&nbsp;segye.com기존 고혈압에 임신중독증 겹친 ‘중첩 전자간증’은 출산 후 심혈관 위험 2.93배&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RclZrd0RWWEE1WU05MnFMc0xad2dtc0NHOU9LNG1qc05vY2tOSjJ0WVpvMmo5ZEVMNmlwTVM5MkNWOGR6eGVSd0twT09TZVF4QU1jLVNhTWdHQktSQllrTkJhc1pkU1U1R2fSAW5BVV95cUxQWGxvYmg2MThlQWExb3IxUUU2WHdfM2F2VFJkQ2tjYVpQMW1EMmM3WWktWlFQa3RTODZsWXJSRmdTNWh5MkdwN0dRVjJpZm8wTE90M2NodkVZZGNJLTg4aFU1SEJsblJDdUw3c2ZWQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "312cf4e26158",
       "title": "“AI가 초급 개발자 대체 비상상황” 일자리 직격탄 맞은 청년들 - 동아일보",
       "published": "2026-03-18T19:30:00+00:00",
@@ -606,14 +510,14 @@
       ]
     },
     {
-      "id": "4c625390353a",
+      "id": "78c908488982",
       "title": "[단독] 우주시대 연다더니…1년새 국가 우주연구원 15명 '줄사표' - v.daum.net",
       "published": "2026-03-18T06:37:00+00:00",
       "summary": "[단독] 우주시대 연다더니…1년새 국가 우주연구원 15명 '줄사표'&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8tMHNwOGRxOV9iaEJDTTJaM2ZsUG9XdFI4Z20tTUZhUS1zRUYwaDRQTlRKZkhNZmZKWE4wMDUxUVFnc1pnUGc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2ZkoxVjNVU3l6UHEzX0JiVTVCdS0tT2hBbFlPN3Rzd0g2eTE4bnJDZkQtVWhVTlRfM2Y0bzZUZzFfZWFmMkVKX2cxNHQ4dWs?oc=5"
         }
       ]
     },
@@ -626,42 +530,6 @@
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kck9oVWkxUnZ5LXN5ZVVhSkFPemV1bjBLLXRWcmFOdHRoSFk2c1luSVhEMjhCWnJ4NHl5RF9SOTQxU1Y3bzJaeXBTMm5ER2JRRUdpeno0S19Zd9IBX0FVX3lxTE1odS1vMGlqV1ZkaFlETnh6dXRRVnlRUGRoeXdjLWQzQXFOaHU0bXRZeDR0UHJQQVdMcmdqYnAtMDd2ZU5HZkJsVkFScGtiTm0zQ2JkaWtaQ19DRnNhWnVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c303b9aa28c5",
-      "title": "화성 암벽에 남은 거미줄 흔적…지하수 흔적 가능성 [여기는 화성] - 지디넷코리아",
-      "published": "2026-03-18T02:06:46+00:00",
-      "summary": "화성 암벽에 남은 거미줄 흔적…지하수 흔적 가능성 [여기는 화성]&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyaWxyWXZEd1BXZmVJNXBsc2VOX2Y3N3RQM3FmY2NFSEJSalQ3dkZsTXFlM2lzUGw2UnAxS3ZRYS1IZXc5YUp0MVhCbkJ2NHl5SUFNWjBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f72d5fffe936",
-      "title": "AI가 질적 연구를 대신할 수 있는가 - 교수신문",
-      "published": "2026-03-18T00:03:43+00:00",
-      "summary": "AI가 질적 연구를 대신할 수 있는가&nbsp;&nbsp;교수신문",
-      "sources": [
-        {
-          "name": "교수신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Z0NxdUQwZVQzLTUyN250RGJOWUMxb2p0VlI3X2E4VWJjX3MycGRvN3RNQUo0X29PWUJrMGpmX3drUFlmMk5XcTY3OFRaUlZPTkFaZmpqMXNlMjZyOFdiT3p5SzlPQWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "505be2b14850",
-      "title": "“버블 없는 혁신은 없어…AI 버블, 도약 기회로 삼아야” - 한겨레",
-      "published": "2026-03-17T22:14:00+00:00",
-      "summary": "“버블 없는 혁신은 없어…AI 버블, 도약 기회로 삼아야”&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JcjdIc241WlhTalQwRkJMNmR5c3M1aFhfOGluNjh3QXI0N0lnOVJVYlFFY3BZajFaSXUxLUtTZHRCdVRrcVNTbGF5SDdUX2tLUnV3QnFaY3BUcU9OSWpmUnRHNlJLSE54Ny1rbHFRTExUUQ?oc=5"
         }
       ]
     }
