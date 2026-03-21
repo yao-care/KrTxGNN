@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-21T12:57:20.410287+00:00",
-  "total_fetched": 54,
-  "unique_count": 54,
-  "health_related_count": 30,
+  "fetched_at": "2026-03-21T18:40:59.362883+00:00",
+  "total_fetched": 53,
+  "unique_count": 53,
+  "health_related_count": 29,
   "news": [
+    {
+      "id": "cbc099093485",
+      "title": "‘세 개의 시선’ ‘53세’ 김석훈 충격! 허양임 “주차 위치 깜빡, 검색하려다 멈칫? 뇌세포 손상 신호” - 스포츠경향",
+      "published": "2026-03-21T12:53:00+00:00",
+      "summary": "‘세 개의 시선’ ‘53세’ 김석훈 충격! 허양임 “주차 위치 깜빡, 검색하려다 멈칫? 뇌세포 손상 신호”&nbsp;&nbsp;스포츠경향검색하려던 단어 안 떠오른다? \"뇌세포 손상 경고\"&nbsp;&nbsp;뉴시스노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스김석훈도 멈칫, 주차 위치 깜빡…치매 경고인가?&nbsp;&nbsp;네이트[정준성 여민동락(340)] '기억력'&nbsp;&nbsp;수원일보",
+      "sources": [
+        {
+          "name": "스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56QUJDdTlnVU12eG5uVWtMLWJfZnlLRTlhaHZsbWFlbDlMbXVVWGRlYW83U25TNGY3Ymk0bFB2TkRFdlRkZ2QxNW1yVDBia1JUcjRMNEExc1JMazJyZVHSAWNBVV95cUxNTFl1b0toeHRFMGVDMEhyN1h2MmNpQ210OUpvcFhBd3NVeGJpWTluVnp6bzJCcUNNRzFXOE5odGVPSDFzeE1Ja2U0aDJmbzZGcmd5bUlCRE0ybzdvT3daTXg0SVU?oc=5"
+        }
+      ]
+    },
     {
       "id": "857a53ca60e0",
       "title": "다발성골수종 ‘CD38 항체’ B형간염 재활성화 고위험군 규명 - 데일리메디",
@@ -18,22 +30,10 @@
       ]
     },
     {
-      "id": "b56b09f6c725",
-      "title": "'53세' 김석훈, 치매 환자 100만 시대에 긴장…\"기억 공백은 뇌세포 손상 경고\" (세개의시선) - 조선비즈 - Chosunbiz",
-      "published": "2026-03-21T09:11:00+00:00",
-      "summary": "'53세' 김석훈, 치매 환자 100만 시대에 긴장…\"기억 공백은 뇌세포 손상 경고\" (세개의시선) - 조선비즈&nbsp;&nbsp;Chosunbiz검색하려던 단어 안 떠오른다? \"뇌세포 손상 경고\"&nbsp;&nbsp;뉴시스노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스김석훈도 멈칫, 주차 위치 깜빡…치매 경고인가?&nbsp;&nbsp;네이트허양임 \"주차 위치 깜빡, 검색하려다 멈칫?…뇌세포 손상 신호\" [세 개의 시선]&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORklpLTNWVE9ETVBpSm5kQ3o2d1BUV0l2Z3QzdnREblJKdG5zd0llZGRXaFE0RGlQdmJKMEI4NVBsQ1E0QjVtd1pXWWZMTldBZHBVY0RKal9EeDRaQlVHblcxUFlBMGFEUEJRQ0txNE00ZE1kc2xaZkhqNUhqUVhWakxmMkHSAZgBQVVfeXFMTWR4NUpZSjA3OURBSHBFdGgtZkkxN00wZTB2NW56ZlF0elRnNGlFcDczNXBXV2RZY3BQeXdZLXl0a2xEY1l4czF4MU5PaTdSWW12dm5fRWhnRmZ6TFVJSEVnclhXeVI5XzZEV0x2ejhkSzIwQ05SRnp6NXVwbWtCaDNSdTdaeFppNGRVVTlzdVFUbGdXUklybVU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "375567d254e7",
       "title": "임신 중 고혈압, 출산 후 심혈관 위험 높여…최대 3배까지 - 네이트",
       "published": "2026-03-21T08:00:00+00:00",
-      "summary": "임신 중 고혈압, 출산 후 심혈관 위험 높여…최대 3배까지&nbsp;&nbsp;네이트\"임신중 고혈압, 출산후 심혈관질환 위험 높여…최대 2.9배\"&nbsp;&nbsp;v.daum.net[의학바이오게시판] 기존 고혈압에 임신중독증 겹친 산모 출산 후 심혈관 위험 약 3배 높아&nbsp;&nbsp;동아사이언스고혈압에 임신중독증 겹친 산모… 출산 후 심혈관질환 위험 3배&nbsp;&nbsp;조선일보“출산하면 끝인 줄 알았는데”… 10년 뒤 ‘심장’ 노리는 임신 중 고혈압&nbsp;&nbsp;segye.com",
+      "summary": "임신 중 고혈압, 출산 후 심혈관 위험 높여…최대 3배까지&nbsp;&nbsp;네이트\"임신중 고혈압, 출산후 심혈관질환 위험 높여…최대 2.9배\"&nbsp;&nbsp;v.daum.net[의학바이오게시판] 기존 고혈압에 임신중독증 겹친 산모 출산 후 심혈관 위험 약 3배 높아&nbsp;&nbsp;동아사이언스임신 중 고혈압, 출산 후 심부전·뇌졸중 발생 위험 최대 2.9배&nbsp;&nbsp;스포탈코리아고혈압에 임신중독증 겹친 산모… 출산 후 심혈관질환 위험 3배&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "네이트",
@@ -174,6 +174,18 @@
       ]
     },
     {
+      "id": "0b6bad9ed2a8",
+      "title": "\"낮을수록 이득\" 엄격한 혈압관리 심혈관 보호효과 재확인 - 메디칼트리뷴",
+      "published": "2026-03-20T00:46:46+00:00",
+      "summary": "\"낮을수록 이득\" 엄격한 혈압관리 심혈관 보호효과 재확인&nbsp;&nbsp;메디칼트리뷴Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "메디칼트리뷴",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuYnp0TXlVWENxakpvRUwxU2VPUWNPMW1GTWlwRVhwbGNoTFRlNHVXWEY4Tl9lTGNFSktLalhVYWowLUY1WmFvb2RxM0oxT0I3NkRlSXVjYUFSTGd2TWtra2QwYUhUY3hrY2VNY2YyNGViRVJtbEE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e6a3f69d07fe",
       "title": "1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아 - 메디컬투데이",
       "published": "2026-03-20T00:17:10+00:00",
@@ -210,14 +222,14 @@
       ]
     },
     {
-      "id": "82d3a4a77e31",
-      "title": "흔히 쓰이는 ′비스포스포네이트′ 계열 골다공증 약, 치매 위험 낮춰 - 메디컬투데이",
-      "published": "2026-03-19T23:59:25+00:00",
-      "summary": "흔히 쓰이는 ′비스포스포네이트′ 계열 골다공증 약, 치매 위험 낮춰&nbsp;&nbsp;메디컬투데이",
+      "id": "aea81efc3abe",
+      "title": "우울, 불안증에는 운동이 천연 치료제...몸을 움직이면 왜 정신이 건강해질까? - 코메디닷컴",
+      "published": "2026-03-20T00:07:00+00:00",
+      "summary": "우울, 불안증에는 운동이 천연 치료제...몸을 움직이면 왜 정신이 건강해질까?&nbsp;&nbsp;코메디닷컴[열린마당] 꽃샘추위 속 마음에도 봄을&nbsp;&nbsp;한라일보우울, 불안증에는 운동이 천연 치료제…몸을 움직이면 왜 정신이 건강해질까?&nbsp;&nbsp;네이트“치매·우울증 막는다” 신경과 의사가 추천하는 ‘즉시 머리 맑아지는 운동’&nbsp;&nbsp;조선일보화사한 봄에 오히려 우울증 증가…걷기 운동하면 누그러뜨리는 데 도움&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xTm9oMldrRDZaTmpvUzFhNC1QdUtRS0tPeDd5S1ZVTmhLZWVjcnhVQjlyclZ3WGZmWE5qTVFUcUNXS0tMeVRGcVZyQ1hLNWFUYTZpTzNHaGJ2ZDRfV1hTYktR0gFsQVVfeXFMT2h1YkExcmdwMERYeG9UdzZzZFlBMjlpQk1uWC05d1lIMTl5UkFBSlpjU1JJeVhaNndNcTlDZ3NNRDNCQ0habUQ2amdOVGRybVdpdzNjYWxTc0hYcjNfNVlncllKek9rRllhM1VQ?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Ec0NENDctWkttZVN1YWFDRXA1UnlDVnV3eVRUeVF1ZjRTSEg1T3NoR01NWkUwN2pkTG1ZYzZPU1BXZw?oc=5"
         }
       ]
     },
@@ -237,7 +249,7 @@
       "id": "3595e062aa28",
       "title": "[리서치] “AI가 유방암 더 잘 찾는다”...NHS 연구서 판독 효율·정확도 입증 - 테크데일리",
       "published": "2026-03-19T23:05:03+00:00",
-      "summary": "[리서치] “AI가 유방암 더 잘 찾는다”...NHS 연구서 판독 효율·정확도 입증&nbsp;&nbsp;테크데일리구글, AI 유방암 검사 혁신…17.7분 만에 판독 완료&nbsp;&nbsp;네이트AI가 유방암 검진 의사를 대체할 수 있을까, 5만 명 임상 연구가 답했다&nbsp;&nbsp;AI 매터스검사복 앞에서, 다른 위험을 떠올린 날&nbsp;&nbsp;브런치유방 X선 사진을 AI로 돌렸더니 심혈관질환 확률까지 ‘척척’&nbsp;&nbsp;코메디닷컴",
+      "summary": "[리서치] “AI가 유방암 더 잘 찾는다”...NHS 연구서 판독 효율·정확도 입증&nbsp;&nbsp;테크데일리AI가 유방암 검진 의사를 대체할 수 있을까, 5만 명 임상 연구가 답했다&nbsp;&nbsp;AI 매터스검사복 앞에서, 다른 위험을 떠올린 날&nbsp;&nbsp;브런치유방 X선 사진을 AI로 돌렸더니 심혈관질환 확률까지 ‘척척’&nbsp;&nbsp;코메디닷컴유방암 검사로 심장병 위험까지 잡는다…AI가 찾은 '숨은 신호'&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "테크데일리",
@@ -314,30 +326,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQm1hVDZPdDhGTC1hUlBpZ25JZlV4aldvQUhnQTlUckJYbG1YNG9UM0J4MksxbnFoM2lxa2JPNW9FNjFZRTdMRV9ZSHhtS1JJZE9jWmNIQTdjMXFETGg1Njl4NzhleHpMZHF1ZXkxQUx5cnF4dEhVbkpXVUxGR0VkVF9Yd2RnMnJCdzdSONIBoAFBVV95cUxOMmllNDZjUTVyNlFFZnF6czNybmZ0a3luVnlza3VwaU1hQXZLUWxjZ0d2VDcyV2t5LWE3UGg3VXdFRHNxd1lXVGEtV05GYjZWaHU0dDBTOVU1cnR2ZDFCeDBqMHh5cmgyS3pFdDdiMmh4T0E3Tm9mU0dwOUdOTTRza3ZKbTdyckszLU1fVUNaQTA2b3Nyc0NQZTZLeExrbUJh?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d304210b1f7",
-      "title": "[헬스 플러스+] “심뇌혈관질환 5대 요인이 좌우… 생활습관 관리가 답” - v.daum.net",
-      "published": "2026-03-19T15:07:08+00:00",
-      "summary": "[헬스 플러스+] “심뇌혈관질환 5대 요인이 좌우… 생활습관 관리가 답”&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TS29leTBYT3hFMVBtNndOYVpfbzVpZ1pzVWNtZTBxaU9oMjBZRHdjSFBMM0ZjX0dGbGcyc1pLS054TThfYnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64f9f646bffc",
-      "title": "‘항산화 성분’ 글루타치온의 배신… 암세포 먹이로 쓰인다 - 조선일보",
-      "published": "2026-03-19T14:00:00+00:00",
-      "summary": "‘항산화 성분’ 글루타치온의 배신… 암세포 먹이로 쓰인다&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fLXYwSUxBdXNSUndtbEZEb3ZWY3hFQm9CT1BYWUl6d2VmWUZoRVZDeVJsbk5YZEZUUzVUakZYNW4xSWIzVzE4eUlZNE5RUkZaOTUzTG1WSWUtLXFnSEx3cVdqeDJRRVQxdEdCV0RuUXdqY2ctdnc?oc=5"
         }
       ]
     },
