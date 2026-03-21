@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-21T06:51:18.070840+00:00",
-  "total_fetched": 63,
-  "unique_count": 63,
-  "health_related_count": 37,
+  "fetched_at": "2026-03-21T12:57:20.410287+00:00",
+  "total_fetched": 54,
+  "unique_count": 54,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "857a53ca60e0",
+      "title": "다발성골수종 ‘CD38 항체’ B형간염 재활성화 고위험군 규명 - 데일리메디",
+      "published": "2026-03-21T11:30:00+00:00",
+      "summary": "다발성골수종 ‘CD38 항체’ B형간염 재활성화 고위험군 규명&nbsp;&nbsp;데일리메디",
+      "sources": [
+        {
+          "name": "데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aZGk3UFNVS04wb1R2QVFIa2lxUG1UTkhkOGM1c2wwMnV1T1NfLXduTWFDaTFkV1pLQXdMdVdWMnVyZDZVV012cVdselZiU2dwN0t3M3JtenliSWloLVZmRjlObXVlaE92VDh0THlRYXV6bW92?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b56b09f6c725",
+      "title": "'53세' 김석훈, 치매 환자 100만 시대에 긴장…\"기억 공백은 뇌세포 손상 경고\" (세개의시선) - 조선비즈 - Chosunbiz",
+      "published": "2026-03-21T09:11:00+00:00",
+      "summary": "'53세' 김석훈, 치매 환자 100만 시대에 긴장…\"기억 공백은 뇌세포 손상 경고\" (세개의시선) - 조선비즈&nbsp;&nbsp;Chosunbiz검색하려던 단어 안 떠오른다? \"뇌세포 손상 경고\"&nbsp;&nbsp;뉴시스노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스김석훈도 멈칫, 주차 위치 깜빡…치매 경고인가?&nbsp;&nbsp;네이트허양임 \"주차 위치 깜빡, 검색하려다 멈칫?…뇌세포 손상 신호\" [세 개의 시선]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORklpLTNWVE9ETVBpSm5kQ3o2d1BUV0l2Z3QzdnREblJKdG5zd0llZGRXaFE0RGlQdmJKMEI4NVBsQ1E0QjVtd1pXWWZMTldBZHBVY0RKal9EeDRaQlVHblcxUFlBMGFEUEJRQ0txNE00ZE1kc2xaZkhqNUhqUVhWakxmMkHSAZgBQVVfeXFMTWR4NUpZSjA3OURBSHBFdGgtZkkxN00wZTB2NW56ZlF0elRnNGlFcDczNXBXV2RZY3BQeXdZLXl0a2xEY1l4czF4MU5PaTdSWW12dm5fRWhnRmZ6TFVJSEVnclhXeVI5XzZEV0x2ejhkSzIwQ05SRnp6NXVwbWtCaDNSdTdaeFppNGRVVTlzdVFUbGdXUklybVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "375567d254e7",
+      "title": "임신 중 고혈압, 출산 후 심혈관 위험 높여…최대 3배까지 - 네이트",
+      "published": "2026-03-21T08:00:00+00:00",
+      "summary": "임신 중 고혈압, 출산 후 심혈관 위험 높여…최대 3배까지&nbsp;&nbsp;네이트\"임신중 고혈압, 출산후 심혈관질환 위험 높여…최대 2.9배\"&nbsp;&nbsp;v.daum.net[의학바이오게시판] 기존 고혈압에 임신중독증 겹친 산모 출산 후 심혈관 위험 약 3배 높아&nbsp;&nbsp;동아사이언스고혈압에 임신중독증 겹친 산모… 출산 후 심혈관질환 위험 3배&nbsp;&nbsp;조선일보“출산하면 끝인 줄 알았는데”… 10년 뒤 ‘심장’ 노리는 임신 중 고혈압&nbsp;&nbsp;segye.com",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84UVhXU1Eta1dlQjlOcHA3bXh3eVM2N0szeGZ1MTIyQ3ViZlNZX3lLeUNSSE0yZmtMd0czcDVKbjUwRUdsVEdkOTN2LVYzVEhuYzZZ?oc=5"
+        }
+      ]
+    },
     {
       "id": "331269268aa7",
       "title": "“같은 전단계도 위험 다르다”… 가장 좋은 ‘당뇨’ 관리 전략 보니 - 코메디닷컴",
@@ -66,18 +102,6 @@
       ]
     },
     {
-      "id": "6b2f8740cc7a",
-      "title": "급증하는 젊은 당뇨…관리·예방 돕는 혁신 의료기기 '주목' - 매일경제TV",
-      "published": "2026-03-20T06:35:00+00:00",
-      "summary": "급증하는 젊은 당뇨…관리·예방 돕는 혁신 의료기기 '주목'&nbsp;&nbsp;매일경제TV",
-      "sources": [
-        {
-          "name": "매일경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSHRwU09RakM4VVd4QUhNTUh1dnVqSzZYUlM3NEN6SWkzd3lDU09PcTN6WVV2U0p2Vy1DNkhJYnpzR0Rua0F4WUxiTlFRSk9ES2wxRklkdXd5WGs4Z1FHV193RTBCaDVt?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8389549f3302",
       "title": "조용히 진행되는 난소암, 복부 불편감 반복된다면 의심해야 - edaily.co.kr",
       "published": "2026-03-20T06:03:02+00:00",
@@ -86,18 +110,6 @@
         {
           "name": "edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVzZTZGtqejd6MkFFYm5fWWRvcG5jNEVzMFpxT21PV1dSMTVYb3pTUGtSSU5JMmZZeUZOdTIzZUdOU0JwVzZ0Mk5HcVZjcXdhMDMxd3EwdlZLb0pJclNudDhsRDFIS3YwWnBxQkJaTXkwRHRybjNKdW1vRHJ3cVhJSg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23ab6929dac5",
-      "title": "'고지용♥' 허양임, 치매 위험 신호 주목 \"뇌세포 손상 경고\" (세 개의 시선) - 조선일보",
-      "published": "2026-03-20T05:33:00+00:00",
-      "summary": "'고지용♥' 허양임, 치매 위험 신호 주목 \"뇌세포 손상 경고\" (세 개의 시선)&nbsp;&nbsp;조선일보검색하려던 단어 안 떠오른다? \"뇌세포 손상 경고\"&nbsp;&nbsp;뉴시스노화로 인한 기억력 감퇴, 장 속 세균에 답 있다&nbsp;&nbsp;동아사이언스나이 들수록 기억력 떨어지는 이유, 뇌가 아닌 ‘장’ 때문?&nbsp;&nbsp;코메디닷컴허양임 \"주차 위치 깜빡, 검색하려다 멈칫?…뇌세포 손상 신호\" [세 개의 시선]&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLUtESDZManhnbzVLMnEzMjlBX2RQRl82d2p5c0ZaT0QyR29YLS1vNXcwUG1ic1VlR3J3QjRnaWdOUkJuamxSUVgzX1FnNXhPVTdqRjE3LVlQc1ZvenlSNlVVWnNaWGtpRDNOSWhxRkpWY3F0b0ltYWRFNVFxYTMzZUpDVmNlSTRic2xMZzFfMNIBowFBVV95cUxQYV9jXzFaNVRBcFJOaDRPME1qREZLUFVhbzlLQzFjVk82cXAzQWstSmlmcHd1Y29DUEpER2VKRl9qMUxmLWRiR3Y4RDFnOTZwaWNXbEgxTmstWGcwV1R6RWZBUHpwSDhDWnNuWlJkQy0xUV9mNlhSNGFzNUlSbkpkZG1BQWlDUW1oUE52bkhwVVpiMGw4dVFVQ0hwYUVDcHI3ZnRF?oc=5"
         }
       ]
     },
@@ -210,18 +222,6 @@
       ]
     },
     {
-      "id": "f9439fa144b1",
-      "title": "[기업공시] 진원생명과학, D현대중공업, 삼천당제약, 두산퓨얼셀, 삼성화재, 한국항공우주 외진원생명과학, D현대중공업, 삼천당제약, 두산퓨얼셀, 삼성화재, 한국항공우주 외 - 데일리경제",
-      "published": "2026-03-19T23:55:50+00:00",
-      "summary": "[기업공시] 진원생명과학, D현대중공업, 삼천당제약, 두산퓨얼셀, 삼성화재, 한국항공우주 외진원생명과학, D현대중공업, 삼천당제약, 두산퓨얼셀, 삼성화재, 한국항공우주 외&nbsp;&nbsp;데일리경제",
-      "sources": [
-        {
-          "name": "데일리경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6VHZEai1wTVZFRWl2cnNVOXBWN2I0Z2dFRk5tZ3ZGT3p3NkEwajh4OU5pcEpmWHdYVzJGQjBsa0RxVHdaSlZSYWtYS0o2NzZoVjA1ZUR0MjZUc0hFUEZxbGgyMXJPa2h6SmNVdQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "32dd518d10cf",
       "title": "갑상선암 치료 후 지방간 위험 2배 급증 - 시사저널",
       "published": "2026-03-19T23:43:40+00:00",
@@ -237,7 +237,7 @@
       "id": "3595e062aa28",
       "title": "[리서치] “AI가 유방암 더 잘 찾는다”...NHS 연구서 판독 효율·정확도 입증 - 테크데일리",
       "published": "2026-03-19T23:05:03+00:00",
-      "summary": "[리서치] “AI가 유방암 더 잘 찾는다”...NHS 연구서 판독 효율·정확도 입증&nbsp;&nbsp;테크데일리구글, AI 유방암 검사 혁신…17.7분 만에 판독 완료&nbsp;&nbsp;네이트AI, 유방암 검진 패러다임 바꾼다…“4년 내 유방암 발병 위험까지 예측”&nbsp;&nbsp;아이티데일리AI가 유방암 검진 의사를 대체할 수 있을까, 5만 명 임상 연구가 답했다&nbsp;&nbsp;AI 매터스검사복 앞에서, 다른 위험을 떠올린 날&nbsp;&nbsp;브런치",
+      "summary": "[리서치] “AI가 유방암 더 잘 찾는다”...NHS 연구서 판독 효율·정확도 입증&nbsp;&nbsp;테크데일리구글, AI 유방암 검사 혁신…17.7분 만에 판독 완료&nbsp;&nbsp;네이트AI가 유방암 검진 의사를 대체할 수 있을까, 5만 명 임상 연구가 답했다&nbsp;&nbsp;AI 매터스검사복 앞에서, 다른 위험을 떠올린 날&nbsp;&nbsp;브런치유방 X선 사진을 AI로 돌렸더니 심혈관질환 확률까지 ‘척척’&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "테크데일리",
@@ -338,90 +338,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fLXYwSUxBdXNSUndtbEZEb3ZWY3hFQm9CT1BYWUl6d2VmWUZoRVZDeVJsbk5YZEZUUzVUakZYNW4xSWIzVzE4eUlZNE5RUkZaOTUzTG1WSWUtLXFnSEx3cVdqeDJRRVQxdEdCV0RuUXdqY2ctdnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a54c78ffe2e4",
-      "title": "의사가 ‘심혈관 건강’ 위해 저녁에 절대 안 하는 행동 7가지 - 조선일보",
-      "published": "2026-03-19T11:20:00+00:00",
-      "summary": "의사가 ‘심혈관 건강’ 위해 저녁에 절대 안 하는 행동 7가지&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIRkc2UUNsQ0tKRXVEQ2NQajQ0RUs1ZnRta1dqbTNNTDNSS3JPcl9GUldhMlpFZzQ1QTNud3JJNTFQeDBiVEF2aWlraldxT0otaHRaRGVLbk9aWDN4SUNKTUdwdXYzUUNDLXphdlNEOWJUcDhKLWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "492136238baf",
-      "title": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다 - 하이닥",
-      "published": "2026-03-19T10:00:00+00:00",
-      "summary": "혈관부터 눈, 생식기까지.. '고혈압'은 우리 몸을 이렇게 망가뜨린다&nbsp;&nbsp;하이닥새로운 건강 소식과 함께하는 하루: 체중과 혈압에 조용히 영향을 미치는 습관들.&nbsp;&nbsp;Vietnam.vn염증 유발 식습관, 고혈압 위험 높이는 원인으로 지목&nbsp;&nbsp;메디칼업저버혈압을 급격히 높이는 ‘숨겨진 3가지 원인’…수면·운동·체중 관리가 핵심&nbsp;&nbsp;굿모닝베트남미디어고혈압이 부르는 조용한 뇌혈관 손상… \"치매 예방, 중년기 장기적 관리가 핵심\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGQ2lYS2p5MklHMElKbUE4RXFEdnFtcUdhY2hwSjhoVVlSTUpXMnBVN05fOUpCVVZ5eXVRTUlILVNzYWtoSkRxdmdIU1pROTJ3dlRvTnZ0dFJJdUEweWZkN1dNWl96S2dLNWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ccee55f86910",
-      "title": "수술 받은 노인 5명 중 1명, 6개월 지나도 “식사 등 일상생활 버거워” - 코메디닷컴",
-      "published": "2026-03-19T08:20:00+00:00",
-      "summary": "수술 받은 노인 5명 중 1명, 6개월 지나도 “식사 등 일상생활 버거워”&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9JcXZENG5jZ1RvZ1BEMVo2TDhJYXpncG03NU40QUtRMk5wdmhkRFpwUW5Kc014YUx2b2pTbUpXRlpIZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea0cbf758352",
-      "title": "장윤정, 아이들 약한 피부 위해 ‘이것’ 사용해 씻긴다는데? - 조선일보",
-      "published": "2026-03-19T07:50:00+00:00",
-      "summary": "장윤정, 아이들 약한 피부 위해 ‘이것’ 사용해 씻긴다는데?&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50WDhFQ0xDZGttOXVDczU3bW1rOEl5NVZoXzBNdS04dHR1MVZtM0I0dldJVkNWYUlNZk1DM0tFZ2J3bnZoU05XaHVJUXRCaWF4Q2xvVHNjQm9UQ084SU9IWmtOV3hnVFk3Sk1UOXFGd3VjTk5CTVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1c6d8b7c8978",
-      "title": "패스트푸드인 줄 알았던 ‘이 음식’, 알고 보니 건강식 - 조선일보",
-      "published": "2026-03-19T07:21:00+00:00",
-      "summary": "패스트푸드인 줄 알았던 ‘이 음식’, 알고 보니 건강식&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UQVlDWUM5d1NRNE1FR1FSWk16Tmh3b1VIODN1R0k3YVpjaXZlNDJzZUg0RFJjNFNGVGNxczhhUXItWEU5dTlSTFY1ODNjYUpiYXlvNjJ3QXZ5a3VfdktvSGZPdlJWM19ZM3pYZ05qM0VtRmxoRHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "716ca59e153a",
-      "title": "57세에 치매 환자 된 내과 의사 “답은 ‘조기 진단’ 강화”[노화설계] - 동아일보",
-      "published": "2026-03-19T07:06:58+00:00",
-      "summary": "57세에 치매 환자 된 내과 의사 “답은 ‘조기 진단’ 강화”[노화설계]&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hdmc0a2tmZ29MM3UtSGpIM0JJSTJCZDNnQ2tWbXotUWpISXNIZGdaX0Q0dW5WaUN0NEpGV1RyWlpLcE01ckNfZ21KVkhRN3F0MmptdFdFMzUxZ0JyWUxkbGJwRENQc19UVzV5R1o5VdIBZkFVX3lxTFBzQXNPZllORDB3Q1JmUkxFWHNOOW9oc2hrRUotbmdLWHBVY3d4Z1gydENnX0c2WG9wY1FqbmIwaHJsSDJIR0VTeXNueXU3Q1JnMkdDWEhQZUZVRVVxdl8teFVOelM4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df0dd846d9f2",
-      "title": "전국 각 성, HPV백신 무료접종 이미 륙속 전개--국내뉴스 - 인민넷",
-      "published": "2026-03-19T06:52:00+00:00",
-      "summary": "전국 각 성, HPV백신 무료접종 이미 륙속 전개--국내뉴스&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYdFJZUHBtTGZrRjVYNXVFal93WWM2eDg4Yk1GMEFYdlVUTGZaRHNyLTRwei1HcWxCVHAyRGl2VkRaWjd6OHBlUWhpVWpKbHhfTHBHZzdWRE1kc3ZsMUd0RjBiVy12YXM0T09jcmVB?oc=5"
         }
       ]
     },
