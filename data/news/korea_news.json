@@ -1,10 +1,166 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-22T18:42:13.762331+00:00",
-  "total_fetched": 35,
-  "unique_count": 35,
-  "health_related_count": 17,
+  "fetched_at": "2026-03-23T02:36:58.400390+00:00",
+  "total_fetched": 45,
+  "unique_count": 45,
+  "health_related_count": 25,
   "news": [
+    {
+      "id": "cb2dcf473b4d",
+      "title": "파킨슨병 진행 핵심열쇠 뇌 속 지방 성분 '세라마이드' - 동아사이언스",
+      "published": "2026-03-23T02:19:00+00:00",
+      "summary": "파킨슨병 진행 핵심열쇠 뇌 속 지방 성분 '세라마이드'&nbsp;&nbsp;동아사이언스파킨슨병 ‘핵심 병리 경로’ 차단 전략 제시&nbsp;&nbsp;BRIC뇌 속 '지방 대사' 조절 파킨슨병 완화…GIST, 치료 전략 제시&nbsp;&nbsp;뉴시스마이리오신 투여→세라마이드 생성 억제→파킨슨병 진행 늦춰&nbsp;&nbsp;지디넷코리아단백질 엉킴 부르는 '지방' 잡았다…GIST, 파킨슨병 진행 억제 단서[과학을읽다]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0RnFtYlBKWi1TOVQ5VGpqWjV2UkZEOWFZM3p4TVRoOHZKZzN2ZW5QMGZoTng2dmxmN2lhV2VLLWFsVGdWNEw1MEVLZ3ZPb0JRZFcteQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "87f1a47e4f56",
+      "title": "하정우 \"남들 다 먹는 '이 음식' 못 먹어\"… 알레르기 때문, 대체 뭐길래? - 코메디닷컴",
+      "published": "2026-03-23T02:05:00+00:00",
+      "summary": "하정우 \"남들 다 먹는 '이 음식' 못 먹어\"… 알레르기 때문, 대체 뭐길래?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5iX2xGNDgwMzNMY1ozX3QtTGZZVkRGcmQ5bW1VRS1lUXhRMVJ6ZTdJbXphUUQxYVl5S2oyZHJJdmxUZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a948077d8b8e",
+      "title": "[100세 시대 생애건강설계] 햇빛을 잃어버린 아이들, 한국 청소년은 ‘약한 구루병 상태’ - 매일경제",
+      "published": "2026-03-23T00:43:46+00:00",
+      "summary": "[100세 시대 생애건강설계] 햇빛을 잃어버린 아이들, 한국 청소년은 ‘약한 구루병 상태’&nbsp;&nbsp;매일경제Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NMGQwUTcyRHFGMWZ6UGpKTXhSajBYYjVCVW9pc2cwaXkzNnVkMU1DOTJtbWREWGNZNkp3MlNtYzgzdnBBcDZjblZManBuUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "915f2aa8c78f",
+      "title": "한국화이자제약, ‘우리는 하나, 프리베나20’ 사내 캠페인 성료 - 메드월드뉴스",
+      "published": "2026-03-23T00:39:56+00:00",
+      "summary": "한국화이자제약, ‘우리는 하나, 프리베나20’ 사내 캠페인 성료&nbsp;&nbsp;메드월드뉴스\"3대 함께 모여 폐렴 예방…'우리는 하나 프리베나20'\"&nbsp;&nbsp;뉴스1한국화이자제약, 우리는 하나, 프리베나20 사내 캠페인 성료&nbsp;&nbsp;의학신문영유아 소아·청소년에 ‘폐렴구균 백신’ 무료 접종&nbsp;&nbsp;위키리크스한국호흡기 질환과 폐렴구균 질환, 치료보다 예방이 중요한 이유&nbsp;&nbsp;바이오타임즈",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZTWJ0T2YzZm5Kc2JPZ0ZWRmMwUjNMSGdZSzdXb3UxVFBSamZtRmJwdHZXaHROMkw4S0dNY1BDcmkzNlpuRGkwQ3dWNU9XclhpUDlxcEtsVjV4dUFWZGpwZy12a05WWm1Wd2REeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a43fa5b4cf37",
+      "title": "간암 수술의 진화…\"로봇, 손떨림 같은 인간한계 극복\"[인터뷰] - the-real.kr",
+      "published": "2026-03-23T00:05:14+00:00",
+      "summary": "간암 수술의 진화…\"로봇, 손떨림 같은 인간한계 극복\"[인터뷰]&nbsp;&nbsp;the-real.kr",
+      "sources": [
+        {
+          "name": "the-real.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xaFIwU1lrLVd1QTRnaDNpWVZhSGk2U0FzQ3hKeHBsMnBrVzQ0RnFGR242emNqMzBqc3ZGN2I2VjhmXzFTeEVTcWxSdFYyaElYWmVHaDFVV21CUDBQNGdoaV94bW1XV2VjbFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02ed7af57490",
+      "title": "“장내 유익균 부족하면 질염 위험”… 여성 ‘질 건강’ 개선 음식 9 - 하이닥",
+      "published": "2026-03-23T00:00:00+00:00",
+      "summary": "“장내 유익균 부족하면 질염 위험”… 여성 ‘질 건강’ 개선 음식 9&nbsp;&nbsp;하이닥“생식기 또 가려워” 女 흔한 ‘이 질염’…반복 잦은 이유, 男이 전파해서?&nbsp;&nbsp;코메디닷컴[이건몰랐지] 반복 질염…남성이 원인?&nbsp;&nbsp;충청신문\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNFpqcFVidVkwS1BuV3QwNVlCX0NmLTBiazllNXpocUhUTnY1OW0tcWUteXRBRURla1hNc3I0clE3cTR5MkpnZk1tMTZib2ZmT0RWNHEzOWZCbExTMmlTT04yTFdsUjltTXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3ee83011c3c",
+      "title": "감염병 기승 3월…1세 미만 영아 가정은 ‘수막구균 예방접종’ 챙기세요 - 헬스경향",
+      "published": "2026-03-22T23:01:23+00:00",
+      "summary": "감염병 기승 3월…1세 미만 영아 가정은 ‘수막구균 예방접종’ 챙기세요&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VajlMMUVRVlVDcldlSFFfQjNpN0hjclZ6aC1wWkotSGhad2lSUHlGblgwcDN0OUZJQXFGMXVXSE9TZ0dwcWdwS1luMjdaVk4xMmlySWI3aWlrQUhsbDdhZ3dWRFo1Skl6UFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f57e25199809",
+      "title": "[명약 인사이드][이베니티]①골다공증 첫 골절 후 재골절 41%…조기 치료가 핵심 - 메디코파마",
+      "published": "2026-03-22T22:30:00+00:00",
+      "summary": "[명약 인사이드][이베니티]①골다공증 첫 골절 후 재골절 41%…조기 치료가 핵심&nbsp;&nbsp;메디코파마\"나이 드니 뼈가 잘 안 붙어요\"… 나이가 아니라 호르몬 때문이다&nbsp;&nbsp;조선일보안동시, 골다공증 예방 위한 골밀도 검사 지원&nbsp;&nbsp;andonginews.com[이슈픽] “50세 이상 여성 4명 중 1명”…목숨까지 위협하는 골다공증, 예방법은?&nbsp;&nbsp;v.daum.net노년층의 골다공증 위험을 줄이는 데 도움이 되는 4가지 팁.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "메디코파마",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pZWUxVjZINHBTWTFhUGhwd2JWR2pCVzE2VC0tUjF1aTI4VFBhdktQeTFRSl9vbmhqckdFM0J1TzJwLWJvZk9rX0VBdEl4anZiMVdZdTdUenFNSHZEcXQyV2FxUDc1NEdsMldqUmltdUhwUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f74e5a4add9d",
+      "title": "\"육류 섭취가 치매 위험 낮출 수도…유전자 따라 효과 달라\" - 사이언스타임즈",
+      "published": "2026-03-22T22:04:33+00:00",
+      "summary": "\"육류 섭취가 치매 위험 낮출 수도…유전자 따라 효과 달라\"&nbsp;&nbsp;사이언스타임즈치매 걱정되면, 고기를 먹어라&nbsp;&nbsp;조선일보알츠하이머 유전 위험 있어도…육류 섭취 많으면 치매 위험 증가 억제&nbsp;&nbsp;네이트‘이것’ 먹었더니 치매 위험 55%↓…인지기능 저하 완화&nbsp;&nbsp;v.daum.net치매 위험 유전자 보유자, 고기 먹으면 덜 위험?&nbsp;&nbsp;여성경제신문",
+      "sources": [
+        {
+          "name": "사이언스타임즈",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlhtbS1aOGR2cWJwdE1rUGQ4S296elA5Yll1eG1tQ09mR3BHTnpMbnVEb2V3RzBpY01NMVRFSXZEd3lsbnJ4NXlhNDB1X0R4SUxCTUhqX3JuWE04eDZWNWJWRmpGTzZ5OGtMT2ZKWkF5TDJ2Z1F1b3ZPdTE5Um81ckpKZ0d5UjBnQWZ0cVE3SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8841f7e36d51",
+      "title": "\"반려동물 암, 생각보다 흔하다\"…수의사가 말한 림포마 조기 신호 - 네이트",
+      "published": "2026-03-22T22:01:00+00:00",
+      "summary": "\"반려동물 암, 생각보다 흔하다\"…수의사가 말한 림포마 조기 신호&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84UWdrVHBiTFc3U0xtcnpOTnpSZFJQMjRxd3BCeHE1a2NwNXV2bmhhWjNyd0FJckpUYlVGS0t1VWlQbm5QZFEySDdlM1VMMnNnLXZj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f04e47ffd70",
+      "title": "위암, 위 점막 미생물군 변화 관점서 재정의돼야 - 메디칼업저버",
+      "published": "2026-03-22T21:01:31+00:00",
+      "summary": "위암, 위 점막 미생물군 변화 관점서 재정의돼야&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5QmhSalRCYmRNQkVZZzQwRTZSUk1PMlV2Mk5yT1AxS3VkOE5tb2hOcllRNnZxVGFPMkJ6ekd5eTdIZl90d0RsdDdoLVBCS3hpTnRja2JaOFJ3d0VfVVFLcTVtTTdHblZNcFRj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a01d34ddc50",
+      "title": "소액암 전이, 약관 설명 없었다면 '일반암'...\"차액 지급해야\" - 팜뉴스",
+      "published": "2026-03-22T20:55:00+00:00",
+      "summary": "소액암 전이, 약관 설명 없었다면 '일반암'...\"차액 지급해야\"&nbsp;&nbsp;팜뉴스[시론] 소액암 전이 모른 척하더니…보험사 불완전판매가 부른 '당연한 청구서'&nbsp;&nbsp;네이트금감원, 소액암 보험 분쟁에 '종지부'…\"보험사 불완전 판매\" 판단&nbsp;&nbsp;뉴스1\"소액암서 전이된 암도 일반암으로 물어줘라\"…보험사 수천억 청구서&nbsp;&nbsp;mt.co.kr[단독]\"소액암에서 전이된 암도 일반암\"…금감원, 보험금 소급 지급 요구&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2OFBmd3pJUWl3MmhVUmhmSDBmMUx6ckQ3ZjQ5Z1hyU3Nkbk1KM3otd3JwWm03RHFrVXJYNEFfdHY3X3NBNVJDRjR2VG15dllBUlQ4QS1xVzVKX1hxU2NBeTZER1FkcEZ3MGpRcA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36e0b5115b8b",
+      "title": "소아청소년 의료 정책의 민낯 - 메디칼타임즈",
+      "published": "2026-03-22T20:00:00+00:00",
+      "summary": "소아청소년 의료 정책의 민낯&nbsp;&nbsp;메디칼타임즈“우리 애가 왜 이렇게 살이 찌지”…의사가 꼽은 ‘의외의 범인’은 바로 [헬시타임]&nbsp;&nbsp;서울경제신문“엄마가 분식집에 30만원 선결제해두죠” 학원가 新문화, 비만 지름길?&nbsp;&nbsp;문화일보“13세에 벌써 지방간”… 아이들 肝이 위험하다&nbsp;&nbsp;조선일보비만과 내분비대사질환·합병증 - 대사이상지방간질환(MASLD)&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "메디칼타임즈",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMnVyRjFiazA3N0lpNlQ5YVVtSk5rVTQzVjBON0lJUnBaSHJWVmZrTm9aMmhhano0S3BVdGxNaHlSSmhqWlZHUDI3cllHNWgzM3NqZV9nMzZpSlNUeGtqRTE1QndiSjY2YmExVWpzemI?oc=5"
+        }
+      ]
+    },
     {
       "id": "1d7468124b09",
       "title": "치매 발병에, ‘실제 나이’와 ‘뇌 나이’ 차이가 영향 - 조선일보",
@@ -30,18 +186,6 @@
       ]
     },
     {
-      "id": "aed58087f351",
-      "title": "비타민D 권장량 확인하셨나요…과다 복용하면 신장 망가진다 - 매일경제",
-      "published": "2026-03-22T06:13:35+00:00",
-      "summary": "비타민D 권장량 확인하셨나요…과다 복용하면 신장 망가진다&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlU1R1OFFBYkNaekJVbDQ4Z1d1ZEY5ZWhBLXF3a3dtdkU5aEpuZDZxaXpWRnpnSU5iVFRjZ2M0dVhlZlRvUHlSd1YyOTZNQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1837445e391e",
       "title": "암 환자 운동이 항암치료 효과 높이는 이유 - 캔서앤서",
       "published": "2026-03-22T05:16:25+00:00",
@@ -50,18 +194,6 @@
         {
           "name": "캔서앤서",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UThXNktDTmVzaWpudHI1SC1zZ2wzVmYtVGI0T29BNEJHb1NtYUx5MWh2ZHVZa1lFY2xzamFqVUFVYk5rdHBnX0t0QVJKaFJIWm13RFlBVzFlTzcyV3UyMnpIVE1mN01DMmhDZXZacjU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8dfacf8bad23",
-      "title": "꾸준히 ‘이 시간’에 운동했더니… 고혈압·당뇨 위험 확 줄어​ - 조선일보",
-      "published": "2026-03-22T05:07:00+00:00",
-      "summary": "꾸준히 ‘이 시간’에 운동했더니… 고혈압·당뇨 위험 확 줄어​&nbsp;&nbsp;조선일보고혈압인데 건강 생활습관 유지 안 하면…당뇨 위험 75%↑&nbsp;&nbsp;뉴시스[헬스 플러스+] “심뇌혈관질환 5대 요인이 좌우… 생활습관 관리가 답”&nbsp;&nbsp;v.daum.net\"낮을수록 이득\" 엄격한 혈압관리 심혈관 보호효과 재확인&nbsp;&nbsp;메디칼트리뷴혈압과 혈당을 안정시키는 데 도움이 되는 '황금기' 운동 시간.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94eVphVHJodkZYS2pscGpfTllWYmtUSURaOGJzYi11MHhiR3JqaHlBOWVjR0o4MUVkcWRZUmkweGhnaDdUcG9hTjk2THB6WEpTZnlSbS1BNWdybV9FeDl2dHYzNEEyWW4wcTc5OE5menJ5M2FITnc?oc=5"
         }
       ]
     },
@@ -90,14 +222,14 @@
       ]
     },
     {
-      "id": "d3ebb9a30062",
-      "title": "치매 걱정되면, 고기를 먹어라 - 조선일보",
-      "published": "2026-03-22T03:02:00+00:00",
-      "summary": "치매 걱정되면, 고기를 먹어라&nbsp;&nbsp;조선일보‘이것’ 먹었더니 치매 위험 55%↓…인지기능 저하 완화&nbsp;&nbsp;v.daum.net[건강포커스] \"육류 섭취가 치매 위험 낮출 수도…유전자 따라 효과 달라\"&nbsp;&nbsp;연합뉴스요즘 다시 주목받는 ‘이 음식’…치매 위험 낮춘다&nbsp;&nbsp;뉴스와치매 위험 유전자 가진 4명 중 1명, 식단에 답 있었다&nbsp;&nbsp;조세일보",
+      "id": "2984ad0fe2e1",
+      "title": "비행 중 열 받는 ‘우주 범선’ 고질병 해결…행성 간 여행시대 ‘성큼’ - 경향신문",
+      "published": "2026-03-22T00:00:00+00:00",
+      "summary": "비행 중 열 받는 ‘우주 범선’ 고질병 해결…행성 간 여행시대 ‘성큼’&nbsp;&nbsp;경향신문",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95NlktUVRsSWkyNkxGaGVLVlQyaGtNc2ZsblFZZ284SFpmaXdxdm5YeHNtbWNwT3ZqemQtckRRQWk2UUM2RVotWDUzOExpMzNJa25nbkN3WVVORG8xaXpGbG82TDNVNHY4TTdmSElSeXFudXFHbUE?oc=5"
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSmkzQzAtMWJvMXlibVRrUjNHNzF5S0RjcEFBWjYyaDJMRkR4anpNVHdQa1RhbUdoaXBHUElVUXVuVHNHUlZ2d25kMEpPQXNETWVqa2VZQU9BZ9IBX0FVX3lxTE5wdW00VEppTElILS1CenR3M3hxR2lybC1fSWdJejNEUmhCOHR6ZHFsU01hcHZicnRIOFN4a3JzdF9vUmYwRjM5MkVNbUp2VmVsYjFNVnZSUC1iOWN1Qmdr?oc=5"
         }
       ]
     },
@@ -114,14 +246,14 @@
       ]
     },
     {
-      "id": "4f960243e598",
-      "title": "'칼날' 가슴에 박혀 있었는데, 무증상… \"다행히 '이곳' 빗겨갔다\" 무슨 일? - 코메디닷컴",
-      "published": "2026-03-21T21:09:00+00:00",
-      "summary": "'칼날' 가슴에 박혀 있었는데, 무증상… \"다행히 '이곳' 빗겨갔다\" 무슨 일?&nbsp;&nbsp;코메디닷컴",
+      "id": "01e4a14fd761",
+      "title": "'칼날' 가슴에 박혀 있었는데, 무증상…\"다행히 '이곳' 빗겨갔다\" 무슨 일? - 네이트",
+      "published": "2026-03-21T22:09:00+00:00",
+      "summary": "'칼날' 가슴에 박혀 있었는데, 무증상…\"다행히 '이곳' 빗겨갔다\" 무슨 일?&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9aOXBxdFZIWkE3YXZJakdmT0hDRXBoU2FIcjNWN0h4MnVnN1BadGZ5RDU1QmtqOXItZXhZcVF0RzNfdw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZaWZXZ2d6SzhEUi1WU0lTZEhJMFJGVDRSTzE0SGg1M0tGcVJYdWhyZDd3UXNHVjdZV21idU1VUGdmZ2txLWxLYnppaVQ4THAwbnN2c0haUTZ6dlZ0XzBnNQ?oc=5"
         }
       ]
     },
@@ -129,7 +261,7 @@
       "id": "375567d254e7",
       "title": "임신 중 고혈압, 출산 후 심혈관 위험 높여…최대 3배까지 - 네이트",
       "published": "2026-03-21T08:00:00+00:00",
-      "summary": "임신 중 고혈압, 출산 후 심혈관 위험 높여…최대 3배까지&nbsp;&nbsp;네이트\"임신중 고혈압, 출산후 심혈관질환 위험 높여…최대 2.9배\"&nbsp;&nbsp;v.daum.net[의학바이오게시판] 기존 고혈압에 임신중독증 겹친 산모 출산 후 심혈관 위험 약 3배 높아&nbsp;&nbsp;동아사이언스고혈압에 임신중독증 겹친 산모… 출산 후 심혈관질환 위험 3배&nbsp;&nbsp;조선일보“출산하면 끝인 줄 알았는데”… 10년 뒤 ‘심장’ 노리는 임신 중 고혈압&nbsp;&nbsp;segye.com",
+      "summary": "임신 중 고혈압, 출산 후 심혈관 위험 높여…최대 3배까지&nbsp;&nbsp;네이트“출산하면 끝인 줄 알았는데”… 10년 뒤 ‘심장’ 노리는 임신 중 고혈압&nbsp;&nbsp;segye.com임신 중 고혈압, 출산 후 심혈관질환 위험 최대 3배↑&nbsp;&nbsp;헬스포커스뉴스고혈압에 임신중독증 겹친 산모… 출산 후 심혈관질환 위험 3배&nbsp;&nbsp;조선일보[의학바이오게시판] 기존 고혈압에 임신중독증 겹친 산모 출산 후 심혈관 위험 약 3배 높아&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "네이트",
@@ -162,18 +294,6 @@
       ]
     },
     {
-      "id": "1d359a2ca2ed",
-      "title": "‘뜨개질’의 정신적 효과 - 마음건강 길",
-      "published": "2026-03-20T21:00:00+00:00",
-      "summary": "‘뜨개질’의 정신적 효과&nbsp;&nbsp;마음건강 길",
-      "sources": [
-        {
-          "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZWRyRXgtNlV3TGQ1enhYcDlmS2xYbER4ZlNoblRnMzdjc0cwdGdPV0Y2Mm05UGhmbjBDOTNkZnh5SGVBbWk4a3BrM0VWMUFlTG1fVzdfSThDb0JXZTcxR3RkakhKaFU5WXfSAW5BVV95cUxPcTJEOEU0c19CWndiMjQ5eWhKNm5yeDdlQWFKVFlueVN5SC1lQkdFREVtdXpzeEhQdVlaYkN2RmN3c01pRVZsT2tURS1heVY3WFNHWVhwRXc4U3E3dkI3eTczNXZzVUIwZHVzaWxvUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "45e40dc7321d",
       "title": "[100세 과학] 비단뱀에서 비만 치료제 후보 찾았다 - 조선비즈 - Chosunbiz",
       "published": "2026-03-20T03:50:00+00:00",
@@ -182,30 +302,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2FJSWRHNWFOY3FjbDVmaXBUQTB6dEIyV2dnR3F3cDBmTGp3X0dpc29TZGtmZVB2cnJpeHlHTW4zTzhTaG1iWGlsQlFmY3RJel9PdDNTYTBfSnJsMlBrQk10eXRPS2ZiUG5qUjJCc0xYYW1OeG5uN19icGdpd245ZmFnbk5OS0pTRGlGQ0dnVFNEX0JILXdr0gGrAUFVX3lxTE5QeEtaQXZiVWd5OUxOS1lpMHdNZlBEWFlYdWExM0dqTnlJYkhvakItNW1vb2lEWjJpTUpaa0IxdXpjQkZnWHl1WE40UFZjMDYxbnF6enZuZTJtUDVaemd0RHp6djBJTDV0QWY5QlM4QUFlSjVmZDY3WktRZXBzcE1Mc3JGQy1OeVctMXBRNC1NdzBFS25VUnFXRVlzS3N2dHU3dG1iS1JwUGF6aw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d064086d7bf",
-      "title": "美FDA, 동물실험 대체 지침 초안 공개…'인간중심' 과학 - 뉴시스",
-      "published": "2026-03-20T02:01:22+00:00",
-      "summary": "美FDA, 동물실험 대체 지침 초안 공개…'인간중심' 과학&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45b1ZLdWkxYXI5bkF1Zzlrb1ZIU0dGNGFiYXh6VWZISk9PZy1SLUxiaDBkNDVQMkN3Mm5wejh6NnlhSlZFa3RaU0xXU3RpNWRONjZnN2tsYjJEWlkxQU5PWHl2RE7SAXhBVV95cUxObi1WS0ZrSjEwUVRpUm5aRWk0VXBlM2lRTE1DTmE4ZHozLU9lMDRSbE9PNFROM2JkcWRvb0g2WWQtdEZyZDF1VGNycWxGaUFrZm5VVEZ2X1MyZ1NuNE5LajhFQlFoVllNdTJQNkI0Q2pBS2JoajdXM0Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4bbcdbbada7f",
-      "title": "우주 ‘방사선 폭격’ 견디는 AI 반도체 국내서 개발 - 동아일보",
-      "published": "2026-03-19T19:30:00+00:00",
-      "summary": "우주 ‘방사선 폭격’ 견디는 AI 반도체 국내서 개발&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFZzN1WHludjFndG50Ump6V0RtdHBIRk5vazlWZHRGY2J1VXQ3TzBWZWQ2dkZVLV9wbWI4aC1VdzZNeHFYWUZobE5TTVA1cm9TT3ozWnlyX0FiN0J3alBOTzczSTBzUlpib2lWWWV5RdIBZkFVX3lxTE5MbFN0a1ozakZQRnVKcF9xZTNkaHZqWnE5VjVEcnIxQURWWVRuVlNhbTlRT0l2cjdHWUpKczdOWnFiakJ4TUNCdENwY25xTXBLU0FKVERoU2xWeWhTX3QxcUY0VEVVQQ?oc=5"
         }
       ]
     }
