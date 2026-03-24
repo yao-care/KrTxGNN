@@ -1,19 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-24T07:09:20.320294+00:00",
-  "total_fetched": 75,
-  "unique_count": 75,
+  "fetched_at": "2026-03-24T13:20:17.118270+00:00",
+  "total_fetched": 76,
+  "unique_count": 76,
   "health_related_count": 45,
   "news": [
     {
-      "id": "c0105b26f7d7",
-      "title": "영업이익 85억 삼천당제약, 1년 새 주가 300% 급등한 이유는 - 조선일보",
-      "published": "2026-03-24T06:19:59+00:00",
-      "summary": "영업이익 85억 삼천당제약, 1년 새 주가 300% 급등한 이유는&nbsp;&nbsp;조선일보",
+      "id": "66eae4cd42c1",
+      "title": "“아침에 눈 뜨니 앞이 잘 안 보여”… 공포 속 받은 진단명은? - 조선일보",
+      "published": "2026-03-24T11:00:00+00:00",
+      "summary": "“아침에 눈 뜨니 앞이 잘 안 보여”… 공포 속 받은 진단명은?&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZTg4ME9uSGNRMjlCVkVkTUp3bkE2djBPRUsxR1FiaWpyOHloc3ZIMlpKUVFUZ2dmb1g4NEgyNGc4aVEzaC01TXJBaXZaZm9zVmpMYlgyTElwem13X25TbUVacEhNYVVkMGdId1BEVkpQVzdmdjJwN01CZG1tTGFVamFPc9IBlwFBVV95cUxQUFpWdEVUazYxSGQxQ0lEUk1rd3dUSnh2TWEybVJoWDg1VHQtcW1GZWhYZXZKaEpwV1dyLVdYSFZwcjJ0QXZmcmt4azJfekFDS2RQT2puVnRLU1FrUGNJUXkyMTduU1k2LWZaVldZS0dHZ0t0cVhCM09EYUFTQXkxUHY3UEhzV1lBUllrU2N0YUxxX0E5UDZr?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nbXFxUDlYTjJhVWdIRFVnWG9GVlBZYm81dlNyLVBRdldXQ0N4N1IyMERfeVpwelJHZ1d4VFlrN0hlOG5wclo4Rjg4a3gtWmRHN2RiR3h2RnZKYnlwSzc3VzlMNFhlRy1RdjVYQm1QYjQ4M0wteXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a97e53f5324",
+      "title": "주사피부염, 우울증 위험과 연관성 있나? - 보도자료 - 뉴스 - 서울대 소식 - 서울대학교",
+      "published": "2026-03-24T09:31:42+00:00",
+      "summary": "주사피부염, 우울증 위험과 연관성 있나? - 보도자료 - 뉴스 - 서울대 소식&nbsp;&nbsp;서울대학교",
+      "sources": [
+        {
+          "name": "서울대학교",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PY0xza29FWkFHODJpcks2Y0ppcEdzbE5veHBhX0k5WFpTdGVMdUxBMXlyX1g5UlNYc2RTTE1XdUkxeFlxTlBFR25xTmcwcU9wejJNLU56T3MydUg4UjZiVFYwdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "93282799de5e",
+      "title": "“장난으로 맞은 팔이 계속 떨린다” 40대 새신랑, 반전 진단명 - 조선일보",
+      "published": "2026-03-24T09:10:00+00:00",
+      "summary": "“장난으로 맞은 팔이 계속 떨린다” 40대 새신랑, 반전 진단명&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ea3BkRWNxbVR1REJBRklWU3drSFU5eGNPSGZCTGl6aXVOb29zRkNKUzNTZ05lWHBObnZJMXA3THhFa2hQdUQzMVRGZlBMTlFSWGRWVGYxSmsxellKZlJJZlpNdGp5UktBS3d4akRWa1lUUXl4clE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8072dcd9aa4b",
+      "title": "낮은 테스토스테론, 전립선암을 더 공격적으로 만든다 - 캐어유 뉴스",
+      "published": "2026-03-24T09:00:00+00:00",
+      "summary": "낮은 테스토스테론, 전립선암을 더 공격적으로 만든다&nbsp;&nbsp;캐어유 뉴스",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kejNBemg2Z3R6TThfRGl5d25XZnlhVDhlOUJTZE1MQURrQTFPanNXZlBMWWliWXdWLXhtMWlndkNKLWstcUpPeTBvUnFLY1ZXSjlQNHhqanRBZXhGcjJmVmgxTVZRVmNSOFVQVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f366091e2dfa",
+      "title": "미가공 육류 섭취, 치매 위험 55% 감소 확인…유전적 취약점 보완 가능성 - 하이닥",
+      "published": "2026-03-24T09:00:00+00:00",
+      "summary": "미가공 육류 섭취, 치매 위험 55% 감소 확인…유전적 취약점 보완 가능성&nbsp;&nbsp;하이닥“치즈가 치매 위험 낮춘다?”…‘의외의 연구 결과’ 제대로 읽는 법&nbsp;&nbsp;레이디경향알츠하이머 유전 위험 있어도…육류 섭취 많으면 치매 위험 증가 억제&nbsp;&nbsp;네이트치매 걱정되면, 고기를 먹어라&nbsp;&nbsp;조선일보‘이것’ 먹었더니 치매 위험 55%↓…인지기능 저하 완화&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54cEZ4WllLNDZ3T2tmZ1RHdTdLSVp4U05LUm9CLVVYV3hUdnM5WXdlVXFtem14cGJUalpsMTUyVXotbVVSSlIwY0Q5RWw4Ymc4NXgyMlRhTE85ekxuZnphVHFKQWhIN1RZUGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ae869d982fa",
+      "title": "키 크면 ‘이 병’ 위험 커진다 - 조선일보",
+      "published": "2026-03-24T08:30:00+00:00",
+      "summary": "키 크면 ‘이 병’ 위험 커진다&nbsp;&nbsp;조선일보키 큰 사람 ‘이 질환’ 위험 크다…동아시아인 유전자 분석 결과&nbsp;&nbsp;동아일보\"키 클수록 병 부른다?\"⋯키 크면 '이 질환' 위험↑, 작으면 낮아&nbsp;&nbsp;v.daum.net“키 크면 무조건 좋은 거 아니었어?”…‘이 병’ 위험 높인다는 연구결과 나왔다 [헬시타임]&nbsp;&nbsp;서울경제신문\"키 크면 좋은 줄 알았는데…\" 뜻밖의 연구 결과&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yQzQ2ZERBNjdabjAxemZIcGZtUzAwWVpxblc1czF3THR2WkQzSzZfT2hSWFBOMzgybVlwODRCbE5iV2xkcUdVVFJHUHRlVFQ2UFV2RGphcHNHekZoa1pCQUdUR01EM1d5S1c0cW9QZlJmbVdqOWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "335e36a06b21",
+      "title": "피 한 방울로 치매 구별 가능성…단백질 ‘양’ 아닌 ‘접힌 상태’가 갈랐다 - 코메디닷컴",
+      "published": "2026-03-24T07:05:00+00:00",
+      "summary": "피 한 방울로 치매 구별 가능성…단백질 ‘양’ 아닌 ‘접힌 상태’가 갈랐다&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55RGczLWwxLUlWQTBlNkh4RDZSc2lYUDJKa19WRWhiajYwWGR3YjhPWUhmeG5aRzBlNDAyaGRmc3U5dw?oc=5"
         }
       ]
     },
@@ -30,14 +102,14 @@
       ]
     },
     {
-      "id": "1dd2b365f484",
-      "title": "당뇨병이 치매 위험 높인다… “인슐린 치료 땐 이미 고위험군” - 조선일보",
+      "id": "f1f6e4e7059e",
+      "title": "당뇨병이 치매 위험 높인다… \"인슐린 치료 땐 이미 고위험군\" - 조선일보",
       "published": "2026-03-24T05:58:00+00:00",
-      "summary": "당뇨병이 치매 위험 높인다… “인슐린 치료 땐 이미 고위험군”&nbsp;&nbsp;조선일보[김길원의 헬스노트] 당뇨병 땐 치매 위험 최대 2.4배↑…\"혈당 변동성 잡아야\"&nbsp;&nbsp;연합뉴스당뇨병, 치매 위험 최대 2.4배…혈당 관리가 '뇌 건강' 열쇠&nbsp;&nbsp;데일리굿뉴스1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아&nbsp;&nbsp;메디컬투데이당뇨병, 치료단계 따라 치매 위험 최대 2.4배↑…\"혈당 안정성 중요\"&nbsp;&nbsp;TJB",
+      "summary": "당뇨병이 치매 위험 높인다… \"인슐린 치료 땐 이미 고위험군\"&nbsp;&nbsp;조선일보당뇨병, '뇌 건강'까지 위협한다…\"치매 위험 최대 2.4배 높아\"&nbsp;&nbsp;네이트당뇨도 서러운데…치매 위험도 최대 2.4배 높아&nbsp;&nbsp;농민신문1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아&nbsp;&nbsp;메디컬투데이당뇨병, 치료단계 따라 치매 위험 최대 2.4배↑…\"혈당 안정성 중요\"&nbsp;&nbsp;TJB",
       "sources": [
         {
           "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mX2pMZWk2S1BoY3gzUU5URlRzUFlwdEpSTHlOdzgyU3k1empwYW9tTUlDVTZ3ZFpxOUgydzhwVS1JbFJweWxUSWNuRGM1RzhGYkQtbFpkX3ZYTUdsMEdSM3F1RVl1d0s1YzJIZFI3Z0dYSS1CY0hlZdIBjAFBVV95cUxPVDJxcFJja2xNNEdKYXRiUkJoUlh0MDM4U0tXUTdhOHJER0Y4dWhES2phNFkwVEcwNC1pelN4UzB2SHZiWUtQa0R6X0JMSGowWDVsWWNqaXdGUHJER0g3TnBTeUJ5eGdBU1dIWURxODQzV00wX0s3MlowaXU1Sm5fZ2Jndi12Q2ZWSnlMZA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mX2pMZWk2S1BoY3gzUU5URlRzUFlwdEpSTHlOdzgyU3k1empwYW9tTUlDVTZ3ZFpxOUgydzhwVS1JbFJweWxUSWNuRGM1RzhGYkQtbFpkX3ZYTUdsMEdSM3F1RVl1d0s1YzJIZFI3Z0dYSS1CY0hlZQ?oc=5"
         }
       ]
     },
@@ -66,26 +138,38 @@
       ]
     },
     {
-      "id": "50e977ad56b5",
-      "title": "“TV·쇼츠, 1시간씩만 덜 봐도...”우울증 위험 최대 43% 낮아진다 - 매일경제",
-      "published": "2026-03-24T04:44:41+00:00",
-      "summary": "“TV·쇼츠, 1시간씩만 덜 봐도...”우울증 위험 최대 43% 낮아진다&nbsp;&nbsp;매일경제",
+      "id": "c47872465a2f",
+      "title": "코스닥 정상 오른 삼천당제약… ‘먹는 플랫폼’으로 바이오 판 흔들까 - IT조선",
+      "published": "2026-03-24T04:58:32+00:00",
+      "summary": "코스닥 정상 오른 삼천당제약… ‘먹는 플랫폼’으로 바이오 판 흔들까&nbsp;&nbsp;IT조선",
       "sources": [
         {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LbW5VeVFKMmNDcU05NjMwU1VDOFFEdjA1RUdtNzgyNFZ2REtsbGE5MVo4Y1IwazBBeWRvdnhsUFQ1N200UTFGN3V3eW9lUQ?oc=5"
+          "name": "IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTmJfT2I1bS1XSDdQUUJ0bjNhUGVMR0EyWk5sY09ZUFgzZVlEajZMdW5MUGFxY05LRDEwRDFYLTg4UTB1cG94SXliRUV3VFdyREdRUFVybjF4dnFuWURRWXpfNlJNTzlCa1FIWmdtRkrSAXRBVV95cUxPQVZ6M2NqcUhWaTBrZl8tN0lFdmlsOXlFM05Wc1FXaDdMYTNoU0cyRFJyWmhJdWR5MzRELU1kUE9OVl9YT2ppV3I0TzJRaExMci1XM2hEc0IzRkw2ekU0TDRhck1TVk1oRjNkWGVfamNDQ21NTw?oc=5"
         }
       ]
     },
     {
       "id": "f7dba86cb7c8",
       "title": "생리혈: '자궁내막증, 자궁경부암, 당뇨병까지...' 월경혈에 숨겨진 건강 상태 단서 - BBC",
-      "published": "2026-03-24T03:19:29+00:00",
+      "published": "2026-03-24T04:08:58+00:00",
       "summary": "생리혈: '자궁내막증, 자궁경부암, 당뇨병까지...' 월경혈에 숨겨진 건강 상태 단서&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOc1gwVTJlSDc3eEI4TTVxLThpclNEaGpmQ2kxYkV0ZzJwX3d6Rm5hQS1oRjFyQkx1ellSMnhGbFdPN0gwZFFMZDc0bjFkOURMUjZNQ2V4eVpNY2Y20gFiQVVfeXFMT1EzWDIwMndZU3lqYXdvNTJvcE44cTd0V0xjb2YyeW9LQlM0X0lVTV9ubVZITnYtbU41WjZ0WGFQRU8zWk5hbnhkZTA0MFBTN0VmMXVOalVoeUFYWWZYNXRqNHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9734cd576b5f",
+      "title": "부산대병원, 내시경 귀수술 2,000례 달성 - 네이트",
+      "published": "2026-03-24T03:45:00+00:00",
+      "summary": "부산대병원, 내시경 귀수술 2,000례 달성&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5amNOZ1VodnpJd2lNQXVWLWhRTjExQThZd2JXbjk4bUVrNUFpZmQ4VG5IYVlaLXVCZ1AwVU9vMncxWk5xZXNBMVdEcFJZMnd1bUM5dGh3?oc=5"
         }
       ]
     },
@@ -126,14 +210,14 @@
       ]
     },
     {
-      "id": "3abe9223727f",
-      "title": "'배우라' 새긴 납탄 발견…고대 로마 전장의 숨겨진 이야기 - 지디넷코리아",
-      "published": "2026-03-24T01:40:12+00:00",
-      "summary": "'배우라' 새긴 납탄 발견…고대 로마 전장의 숨겨진 이야기&nbsp;&nbsp;지디넷코리아",
+      "id": "ec8903503ce8",
+      "title": "자꾸 재발하는 세균성 질염 막는 데 ‘이 방법’ 효과 - 조선일보",
+      "published": "2026-03-24T01:40:00+00:00",
+      "summary": "자꾸 재발하는 세균성 질염 막는 데 ‘이 방법’ 효과&nbsp;&nbsp;조선일보“장내 유익균 부족하면 질염 위험”… 여성 ‘질 건강’ 개선 음식 9&nbsp;&nbsp;하이닥“생식기 또 가려워” 女 흔한 ‘이 질염’…반복 잦은 이유, 男이 전파해서?&nbsp;&nbsp;코메디닷컴[이건몰랐지] 반복 질염…남성이 원인?&nbsp;&nbsp;충청신문\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
       "sources": [
         {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WSUFXdkJKZlpIMmRadDBXNUNPQUNVb1E0NUZlZXhNTDQwUTRIZDV1Z3lCZklhQW85cG5UR3hHUGF4VHAzZGlBWUZUXzRnVS05U3FRVF9R?oc=5"
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nV01VYnFjcGpvQlpoYTFmVkZqbks2NmZYQ0NfdVhkUmd0NEhzd1J3dVp6TXpSeHRkRFduUXhQVG5PbzhWQkJOaU0wT2UyX3NBRnBxZnNSbFctMkZjM0w3WHJ1U3hJTGJNX2dBMkpnUDNVQTJmWmc?oc=5"
         }
       ]
     },
@@ -150,38 +234,14 @@
       ]
     },
     {
-      "id": "e9f298e7d6e0",
-      "title": "새 학기 영유아 노리는 ‘수족구병’… “구토·설사 증상 유의해야\" - 하이닥",
-      "published": "2026-03-24T01:00:00+00:00",
-      "summary": "새 학기 영유아 노리는 ‘수족구병’… “구토·설사 증상 유의해야\"&nbsp;&nbsp;하이닥",
+      "id": "8e0331c3226f",
+      "title": "살이 면역을 한다?…내장지방, 복막염 막는 '면역 스위치' - 디지털투데이",
+      "published": "2026-03-24T01:21:00+00:00",
+      "summary": "살이 면역을 한다?…내장지방, 복막염 막는 '면역 스위치'&nbsp;&nbsp;디지털투데이",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GbmFuWExPbHVIWFo4MHRrdUJLVDdDSXJzTzVBQU9pY2RQZVhxcC1SV0NOaExGcF9rRENWcDU2Tk5OYnNyWjNXQ2xWSmsxcnBxMExGbWVCWWRRcHVFVkdhWVctY2ZVbmVGUkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8da158a7967d",
-      "title": "부산대병원 이비인후과, 내시경 귀수술 2,000례 달성 - 헬스미디어뉴스",
-      "published": "2026-03-24T00:33:58+00:00",
-      "summary": "부산대병원 이비인후과, 내시경 귀수술 2,000례 달성&nbsp;&nbsp;헬스미디어뉴스[부산소식]부산대병원, 내시경 귀수술 2000례 달성 등&nbsp;&nbsp;뉴시스부산대병원 내시경 귀수술 2000례 달성&nbsp;&nbsp;mt.co.kr부산대병원, 내시경 귀수술 2,000례 달성&nbsp;&nbsp;edaily.co.kr부산대병원, 내시경 귀수술 2,000례… 국내 최고 수준 성과&nbsp;&nbsp;메드월드뉴스",
-      "sources": [
-        {
-          "name": "헬스미디어뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZbVQ0dXFfSlctVW00eXdVM2RydzVOYUVYMnZlY085WFlfenh6WGM3X08xd1M5Y19odE9QSFlmVVNBM2Z0dUdZb1RKWTd4RHVDLS1HQXhyUFUwVVVDNnpjc0tNTGdZejlxRWRrZmJtRXpFQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c683c50a9c9",
-      "title": "광주과기원 연구팀, 파킨슨병 늦추는 새 치료 전략 개발 - 사이언스타임즈",
-      "published": "2026-03-23T22:04:50+00:00",
-      "summary": "광주과기원 연구팀, 파킨슨병 늦추는 새 치료 전략 개발&nbsp;&nbsp;사이언스타임즈광주과학기술원, 파킨슨병 진행 늦추는 치료 전략 개발&nbsp;&nbsp;v.daum.net뇌 속 '지방 대사' 조절 파킨슨병 완화…GIST, 치료 전략 제시&nbsp;&nbsp;뉴시스마이리오신 투여→세라마이드 생성 억제→파킨슨병 진행 늦춰&nbsp;&nbsp;지디넷코리아단백질 엉킴 부르는 '지방' 잡았다…GIST, 파킨슨병 진행 억제 단서[과학을읽다]&nbsp;&nbsp;아시아경제",
-      "sources": [
-        {
-          "name": "사이언스타임즈",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREhDeklnMGtpWG9IQzVuUDJpT2xaeDU3ZTg5M1hDLThCVG1jUTJvek9CNFpqTTR3VXFKZFRRc2Iwc0NOOTZFZThVcVFkM1lWQllNMUtWRThXQXhpb3ZQTjFUTkltWmZ4MXRva0JwYi13aXI5VUNCX1BGV1ZocFdtUnhVR2JVZ1VWdnUtaFhUcw?oc=5"
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93MkZlVGx3Ul92V25ZdG9lWW05SDRMT2FQX19UR2tQeS1YaTNIZkRhSGFSbW5aalBnT0tVdndMU0JGZ2dQNUxVZTJnZlNTdGJhV2FzTU1UT2ZXeXJuaVJONjhuc2FJRFlCSE5pQVA0alBuNG8?oc=5"
         }
       ]
     },
@@ -249,7 +309,7 @@
       "id": "0e0d476a0a49",
       "title": "씨젠, '유로진 2026'서 자궁경부암 선별 위한 심포지엄 진행 - 뉴스포스트",
       "published": "2026-03-23T08:13:08+00:00",
-      "summary": "씨젠, '유로진 2026'서 자궁경부암 선별 위한 심포지엄 진행&nbsp;&nbsp;뉴스포스트\"자궁경부암 선별↑\"…씨젠, 'HPV 분석 전략' 학회 공개&nbsp;&nbsp;뉴시스씨젠, 유로진 2026서 ‘HPV 개별 유전형 분석’ 전략 공개&nbsp;&nbsp;헤럴드경제씨젠, '유로진 2026' 참가…\"HPV 개별유전형 기반 진단솔루션 마케팅\"&nbsp;&nbsp;mt.co.kr씨젠, 유럽학회서 자궁경부암 선별 위한 HPV 개별 유전형 분석 전략 공개&nbsp;&nbsp;전자신문",
+      "summary": "씨젠, '유로진 2026'서 자궁경부암 선별 위한 심포지엄 진행&nbsp;&nbsp;뉴스포스트[제약바이오 소식] 씨젠, HPV 개별 유전형 분석해 자궁경부암 선별&nbsp;&nbsp;한겨레씨젠, 유로진 2026서 ‘HPV 개별 유전형 분석’ 전략 공개&nbsp;&nbsp;헤럴드경제씨젠, '유로진 2026' 참가…\"HPV 개별유전형 기반 진단솔루션 마케팅\"&nbsp;&nbsp;mt.co.kr[위클리오늘] 산업일반_소식_씨젠, 이랜드(3.23)&nbsp;&nbsp;위클리오늘",
       "sources": [
         {
           "name": "뉴스포스트",
@@ -318,18 +378,6 @@
       ]
     },
     {
-      "id": "439723b377ff",
-      "title": "키 큰 사람 '이 질환' 위험 크다…동아시아인 유전자 분석 결과 - 네이트",
-      "published": "2026-03-23T03:23:00+00:00",
-      "summary": "키 큰 사람 '이 질환' 위험 크다…동아시아인 유전자 분석 결과&nbsp;&nbsp;네이트\"키 클수록 병 부른다?\"⋯키 크면 '이 질환' 위험↑, 작으면 낮아&nbsp;&nbsp;v.daum.net키 큰 사람 ‘이 질환’ 위험 크다…동아시아인 유전자 분석 결과&nbsp;&nbsp;동아일보\"키 크면 좋은 줄 알았는데…\" 뜻밖의 연구 결과&nbsp;&nbsp;아시아경제키 작다고 서러워 말아요… ‘이곳’은 오히려 더 건강할 수도&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WUUk5ZnR5d2hKemZsdkxUSTM1bUsyWmo4c0YwaVRKWXlnb09BbEM1SXJIZVRHVXVpNTIxRGtKSHFiX0ZZdFBDXzlFRFltTUZxUVRZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d42c46956fba",
       "title": "어린이 알레르기, ‘크면 자연치유’ 될가?--건강 - 인민넷",
       "published": "2026-03-23T03:13:00+00:00",
@@ -366,6 +414,18 @@
       ]
     },
     {
+      "id": "7f8400dd50fd",
+      "title": "파킨슨병 진행 핵심열쇠 뇌 속 지방 성분 '세라마이드' - 동아사이언스",
+      "published": "2026-03-23T02:19:00+00:00",
+      "summary": "파킨슨병 진행 핵심열쇠 뇌 속 지방 성분 '세라마이드'&nbsp;&nbsp;동아사이언스광주과학기술원, 파킨슨병 진행 늦추는 치료 전략 개발&nbsp;&nbsp;v.daum.net뇌 속 '지방 대사' 조절 파킨슨병 완화…GIST, 치료 전략 제시&nbsp;&nbsp;뉴시스단백질 엉킴 부르는 '지방' 잡았다…GIST, 파킨슨병 진행 억제 단서[과학을읽다]&nbsp;&nbsp;아시아경제뇌 속 ‘지방 대사’ 조절해 파킨슨병 완화…새 치료 전략 나왔다&nbsp;&nbsp;서울경제신문",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CLTBTVlhXNEpoQkRUREk4enhHS3c3amZWSDRuOENoQnYwaFBUMlR2NWpHdDk0NnRmUGhFMUpXRlM0eUJmNEdZUlJ6TGJlUzNi?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e4afbc30eb71",
       "title": "중국, ‘뇌 임플란트’ 세계 최초 시판 승인…척수 손상 사지마비 환자 대상 - 한겨레",
       "published": "2026-03-23T02:06:00+00:00",
@@ -374,18 +434,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxZ2t0TGZFbmdTcFBUY1ZiU3dGVkVSWG5QTFoxc0ppd0xwbjZhQTh6ZWtqaV92VnI2LUI2M0pVaU1pR05SUHRBMXdrdnF6SjBfU0RPYTJJRUJ4bWtHalpJU3gzWHpMNWpvTW4w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "868a5d3efeb4",
-      "title": "알츠하이머 유전 위험 있어도... 육류 섭취 많으면 치매 위험 증가 억제 - 메디컬투데이",
-      "published": "2026-03-23T00:49:52+00:00",
-      "summary": "알츠하이머 유전 위험 있어도... 육류 섭취 많으면 치매 위험 증가 억제&nbsp;&nbsp;메디컬투데이‘이것’ 먹었더니 치매 위험 55%↓…인지기능 저하 완화&nbsp;&nbsp;v.daum.net“치즈가 치매 위험 낮춘다?”…‘의외의 연구 결과’ 제대로 읽는 법&nbsp;&nbsp;레이디경향알츠하이머 유전 위험 있어도…육류 섭취 많으면 치매 위험 증가 억제&nbsp;&nbsp;네이트치매 걱정되면, 고기를 먹어라&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50eVZYNnBWM3hjZEtIeXVxaGMyM2M2MFk1Und2b1dDdk1nWEhfOGlucDg5R29iMGs2Uy1jWnVJSVo0U1pJMUU1S0lGVVdiV3JjQ2lvT000NUpoRlJ5UTExTmt30gFsQVVfeXFMTXFGTkUxU015QkI3MTNja1BQNXlINExSTGcxZ0JmSWhmWTlCWUx0NWoxc1hOdU14Y2pZQjVCMm81OG5ENVpEaVVCMHNoaDRnclQwWWh1WmlZTi0wUXdaTkl3UVNlclNNQ3hIWXRi?oc=5"
         }
       ]
     },
@@ -402,18 +450,6 @@
       ]
     },
     {
-      "id": "b0cac04764d1",
-      "title": "한국화이자제약, ‘우리는 하나, 프리베나20’ 사내 캠페인 성료 - 메드월드뉴스",
-      "published": "2026-03-23T00:39:56+00:00",
-      "summary": "한국화이자제약, ‘우리는 하나, 프리베나20’ 사내 캠페인 성료&nbsp;&nbsp;메드월드뉴스한국화이자, 폐렴구균 폐렴예방 '프리베나' 캠페인 진행&nbsp;&nbsp;뉴시스\"3대 함께 모여 폐렴 예방…'우리는 하나 프리베나20'\"&nbsp;&nbsp;뉴스1영유아 소아·청소년에 ‘폐렴구균 백신’ 무료 접종&nbsp;&nbsp;위키리크스한국\"고령층 폐렴, 치명적 예후 부각…예방 전략 재설계 필요\"&nbsp;&nbsp;데일리팜",
-      "sources": [
-        {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TeGk3b3pyTERKUE0xZGVhQ3lyRmJ1cTRkWUFBS0QtWVJwQmlOVE83ZllFaHZBS1ZOSUY4ZE9RcndOd3BucVZoa01DeFg3MkxSbjBObkk0RHVKd3V1RENQX01hSUwzSnRHUE5vRGF3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1e8da199e0db",
       "title": "견과류, 이렇게 먹어야 좋다 - 원주투데이",
       "published": "2026-03-23T00:33:32+00:00",
@@ -422,6 +458,18 @@
         {
           "name": "원주투데이",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03cjdhRWd1SVBmUk1aaHpUOEQwUWZySEdEQ1c2VmFQaGhHMUlPVWxaSXBXQUp1dG5Kbmw2anBIYmx2SEhacHVPUXNoQ2pxVjlCMEYtRHNRXzc5RjhGall4aDFJX2l6NG1XeGtxQUZNeGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a56c9a7f91a",
+      "title": "화이자, '폐렴구균 폐렴 우리는 하나, 프리베나20' 사내 캠페인 성료 - 약업신문",
+      "published": "2026-03-23T00:31:25+00:00",
+      "summary": "화이자, '폐렴구균 폐렴 우리는 하나, 프리베나20' 사내 캠페인 성료&nbsp;&nbsp;약업신문한국화이자, 폐렴구균 폐렴예방 '프리베나' 캠페인 진행&nbsp;&nbsp;뉴시스\"3대 함께 모여 폐렴 예방…'우리는 하나 프리베나20'\"&nbsp;&nbsp;뉴스1영유아 소아·청소년에 ‘폐렴구균 백신’ 무료 접종&nbsp;&nbsp;위키리크스한국\"고령층 폐렴, 치명적 예후 부각…예방 전략 재설계 필요\"&nbsp;&nbsp;데일리팜",
+      "sources": [
+        {
+          "name": "약업신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lUFdhVDUtMDdWQVlfdk1DcXpPYTRmeTZPdlFfN2RkWnQ3ekZoSFotUHBIbmkyTlRxX3UxcWV4NXVaZzdnSV94NlZLQUlncnpyQk9hb25fSEFZZlhjb0NKS245TzItQlJNV1VrcXB5TDAwZw?oc=5"
         }
       ]
     },
@@ -438,26 +486,14 @@
       ]
     },
     {
-      "id": "02ed7af57490",
-      "title": "“장내 유익균 부족하면 질염 위험”… 여성 ‘질 건강’ 개선 음식 9 - 하이닥",
-      "published": "2026-03-23T00:00:00+00:00",
-      "summary": "“장내 유익균 부족하면 질염 위험”… 여성 ‘질 건강’ 개선 음식 9&nbsp;&nbsp;하이닥자꾸 재발하는 세균성 질염 막는 데 ‘이 방법’ 효과&nbsp;&nbsp;조선일보“생식기 또 가려워” 女 흔한 ‘이 질염’…반복 잦은 이유, 男이 전파해서?&nbsp;&nbsp;코메디닷컴[이건몰랐지] 반복 질염…남성이 원인?&nbsp;&nbsp;충청신문\"생식기 가려워\" 女 흔한 '질염'…男이 전파했나 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
+      "id": "e3ee83011c3c",
+      "title": "감염병 기승 3월…1세 미만 영아 가정은 ‘수막구균 예방접종’ 챙기세요 - 헬스경향",
+      "published": "2026-03-22T23:01:23+00:00",
+      "summary": "감염병 기승 3월…1세 미만 영아 가정은 ‘수막구균 예방접종’ 챙기세요&nbsp;&nbsp;헬스경향Doctor 24/7: 예방접종 기록을 분실하면 수막구균성 뇌수막염 백신을 다시 맞을 때 문제가 생길까요?&nbsp;&nbsp;Vietnam.vn\"혹시 뇌수막구균일까\" 푸꾸옥 학부모들 불안... 접종센터 과밀&nbsp;&nbsp;아세안데일리 뉴스람동성 보건당국은 뇌수막염 예방에 대한 지침을 제공합니다.&nbsp;&nbsp;Vietnam.vn호치민시: 푸꾸옥에서 발생한 집단 감염과 관련된 수막구균 감염 사례가 기록되었습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNFpqcFVidVkwS1BuV3QwNVlCX0NmLTBiazllNXpocUhUTnY1OW0tcWUteXRBRURla1hNc3I0clE3cTR5MkpnZk1tMTZib2ZmT0RWNHEzOWZCbExTMmlTT04yTFdsUjltTXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cfb5b66eede2",
-      "title": "소화기 넘어 척수손상까지 … ‘케이캡’, P-CAB 한계 넘는 ‘약물 재창출’ 잠재력 - 헬스코리아뉴스",
-      "published": "2026-03-22T22:20:51+00:00",
-      "summary": "소화기 넘어 척수손상까지 … ‘케이캡’, P-CAB 한계 넘는 ‘약물 재창출’ 잠재력&nbsp;&nbsp;헬스코리아뉴스",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pbzRSYVFXelE3Y296U0drWG1vWVpYREgzcHp3dmU1anVXd0NyYnp5RkxqUXc3bHlUbF8wWm1tY2VWZHVMeEZPczdWRWQwcC0zUEE4ZjJoYUY4ZlcyM0ZHQmxYeFFDc1U?oc=5"
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VajlMMUVRVlVDcldlSFFfQjNpN0hjclZ6aC1wWkotSGhad2lSUHlGblgwcDN0OUZJQXFGMXVXSE9TZ0dwcWdwS1luMjdaVk4xMmlySWI3aWlrQUhsbDdhZ3dWRFo1Skl6UFE?oc=5"
         }
       ]
     },
@@ -489,47 +525,11 @@
       "id": "3a01d34ddc50",
       "title": "소액암 전이, 약관 설명 없었다면 '일반암'...\"차액 지급해야\" - 팜뉴스",
       "published": "2026-03-22T20:55:00+00:00",
-      "summary": "소액암 전이, 약관 설명 없었다면 '일반암'...\"차액 지급해야\"&nbsp;&nbsp;팜뉴스암보험 '설명의무' 후폭풍…전이암 분쟁 번진다&nbsp;&nbsp;v.daum.net금감원, 소액암 보험 분쟁에 '종지부'…\"보험사 불완전 판매\" 판단&nbsp;&nbsp;뉴스1[시론] 소액암 전이 모른 척하더니…보험사 불완전판매가 부른 당연한 청구서&nbsp;&nbsp;뉴스통전이부위 기준 암 보험금 지급…보험사 수백억 부담 전망&nbsp;&nbsp;네이트",
+      "summary": "소액암 전이, 약관 설명 없었다면 '일반암'...\"차액 지급해야\"&nbsp;&nbsp;팜뉴스암보험 '설명의무' 후폭풍…전이암 분쟁 번진다&nbsp;&nbsp;v.daum.net금감원, 소액암 보험 분쟁에 '종지부'…\"보험사 불완전 판매\" 판단&nbsp;&nbsp;뉴스1전이부위 기준 암 보험금 지급…보험사 수백억 부담 전망&nbsp;&nbsp;네이트\"소액암서 전이된 암도 일반암으로 물어줘라\"…보험사 수천억 청구서&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "팜뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2OFBmd3pJUWl3MmhVUmhmSDBmMUx6ckQ3ZjQ5Z1hyU3Nkbk1KM3otd3JwWm03RHFrVXJYNEFfdHY3X3NBNVJDRjR2VG15dllBUlQ4QS1xVzVKX1hxU2NBeTZER1FkcEZ3MGpRcA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b41197c33073",
-      "title": "[칼럼]면역항암제 시대의 역설…희귀질환 '뇌하수체염'이 늘고 있다 - 코리아헬스로그",
-      "published": "2026-03-22T11:21:00+00:00",
-      "summary": "[칼럼]면역항암제 시대의 역설…희귀질환 '뇌하수체염'이 늘고 있다&nbsp;&nbsp;코리아헬스로그",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JWWdGNklFT3BiX2RZWUV2SW1mZmJrYmt5RmxnUU1BTFhuTlkxWlEzQmpIMFJISzBTblIzbDhfUUpETkxrTUR4b2Q3VHJpSEo0Q0w5MHRyWkVhUlZyaTMxa1VIanRycVVCWl9YWEZpMnI3Z9IBdkFVX3lxTFBzLWMySndWZTVtRzNnaHdsd0ZoWXZheWpDMVREUldHOWw4bHo3Sm9PajZKYjBfMkdGZ0E0XzVqOENwaWMtVlhxQUg0M2M2ZWdQZC1LUzIwcU91czdLTEw0RmotX04yTXk3LTZaSWxmc3R0a3M5eVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab1123b005ab",
-      "title": "코로나 뒤 \"백신 못 믿어\"…美·英·호주, 접종률 급락 - 한국경제",
-      "published": "2026-03-22T08:32:11+00:00",
-      "summary": "코로나 뒤 \"백신 못 믿어\"…美·英·호주, 접종률 급락&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wSDZKZHNMLVBKV2dhdS04amVPaVdLTWhVNVBmZjlEbzkxTHMzZXBNZUlwNW51N3lQODZ5SHJxOXZFQ3JuNXRjaWtva1BOcDVNQUVkV3IxV0xMQdIBVEFVX3lxTE9MTzZJUjI0UFBDY19fMXZPWEFUY3Vwb1FxUzloU2NheTRiNDRUVTVfaFE2eVZaOGMzMzhzUkFUZXpUUjRNb3p4ZzVvb3dCWlExUVpzVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90fe7b282d96",
-      "title": "삼성D, 8.6세대 OLED 개발 순항…예상 수율 70% 넘어서 - 전자신문",
-      "published": "2026-03-22T07:00:00+00:00",
-      "summary": "삼성D, 8.6세대 OLED 개발 순항…예상 수율 70% 넘어서&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PenRRTXVPbVI3SWRzQTFZdGg4azUyYWMtQ3p3Y01FcDlHT2hjSHNONkVtM2tDLWtrQkdLOFdWTGFRM1gxTGg4M2doY2ZGQQ?oc=5"
         }
       ]
     },
