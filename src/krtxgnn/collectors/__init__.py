@@ -1,22 +1,28 @@
-"""Data collectors for evidence gathering.
-
-KrTxGNN - 韓國版本
-"""
+"""Data collectors for evidence gathering."""
 
 from .base import BaseCollector, CollectorResult
+from .bundle import BundleAggregator, CandidateInfo, EvidenceBundle
 from .clinicaltrials import ClinicalTrialsCollector
+from .drug_bundle import (
+    CollectionStatus,
+    DrugBundle,
+    DrugBundleAggregator,
+)
 from .drugbank import DrugBankCollector
 from .ictrp import ICTRPCollector
 from .pubmed import PubMedCollector
-from .krfda import KrFDACollector, CRISCollector
 
 __all__ = [
     "BaseCollector",
-    "ClinicalTrialsCollector",
     "CollectorResult",
-    "CRISCollector",
+    "BundleAggregator",
+    "CandidateInfo",
+    "EvidenceBundle",
+    "ClinicalTrialsCollector",
+    "CollectionStatus",
+    "DrugBundle",
+    "DrugBundleAggregator",
     "DrugBankCollector",
     "ICTRPCollector",
-    "KrFDACollector",
     "PubMedCollector",
 ]

@@ -175,7 +175,7 @@ def generate_keywords():
     print(f"同義詞關鍵字數: {len(keywords)}")
 
     # 從預測結果補充關鍵字
-    predictions_path = DATA_DIR / "processed" / "repurposing_candidates.csv"
+    predictions_path = DATA_DIR / "processed" / "repurposing_candidates.csv.gz"
     if predictions_path.exists():
         pred_keywords = build_keywords_from_predictions(predictions_path)
         for key, value in pred_keywords.items():

@@ -222,7 +222,7 @@ def load_predictions_for_drug(
     from .known_relations import KnownRelationsChecker
 
     if predictions_path is None:
-        predictions_path = get_data_dir() / "processed" / "txgnn_dl_predictions.csv"
+        predictions_path = get_data_dir() / "processed" / "txgnn_dl_predictions.csv.gz"
 
     predictions_path = Path(predictions_path)
     if not predictions_path.exists():
@@ -306,7 +306,16 @@ class DrugBundleAggregator:
         )
 
     def _get_collector(self, name: str):
-        """Lazy-load collectors as needed."""
+        """Lazy-load collectors as needed. Returns None if module not available."""
+        if name not in self._collectors:
+            try:
+                self._load_collector(name)
+            except (ImportError, ModuleNotFoundError):
+                return None
+        return self._collectors.get(name)
+
+    def _load_collector(self, name: str):
+        """Actually load a collector by name."""
         if name not in self._collectors:
             if name == "tfda":
                 from .tfda import TFDACollector

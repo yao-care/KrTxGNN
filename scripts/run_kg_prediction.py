@@ -116,7 +116,7 @@ def main():
     output_dir.mkdir(parents=True, exist_ok=True)
 
     # 儲存候選結果
-    candidates_path = output_dir / "repurposing_candidates.csv"
+    candidates_path = output_dir / "repurposing_candidates.csv.gz"
     candidates.to_csv(candidates_path, index=False)
     print(f"   已儲存至: {candidates_path}")
 
