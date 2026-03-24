@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-24T13:20:17.118270+00:00",
-  "total_fetched": 76,
-  "unique_count": 76,
-  "health_related_count": 45,
+  "fetched_at": "2026-03-24T19:08:24.244803+00:00",
+  "total_fetched": 73,
+  "unique_count": 73,
+  "health_related_count": 47,
   "news": [
+    {
+      "id": "f91a690dc542",
+      "title": "美, 단 한 번 투여로 각막 상처 지속 치료… ‘살아있는 안약’ 개발 - 조선일보",
+      "published": "2026-03-24T15:36:00+00:00",
+      "summary": "美, 단 한 번 투여로 각막 상처 지속 치료… ‘살아있는 안약’ 개발&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelN0Sk9hNkliekxaTzM5b2lFZFFDS083NEVSZmZfVTJIZ1BENnZXQTc1bDZFS3VhUTJaTWZvZzZ2dkYyTURmcmJQV202OTUzaURlNkFTSFJuN1kwcW0weVJVVmwwQUJOUTRLSko0RmFMSUlDdEdHc21mV2lkZFAza1FKZ9IBlwFBVV95cUxNWU9tS2hENjNfVFpfdkZaQ0lNVUpFbGVlOEV6T09BdVpKNS1pdTF4NllIX3R5RmwyS1Fybkh1eFlxRE1HdDJmY3dyNGE0YllJNWtsU2twSGpuazdMbThONnVQeUY3ZFczZGoyTkVsd1FfRmhmZnNPc2JOM1pvbXNibTZPSTJiNHlDSk96ZUZMU0prMjZVWUlF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3bf7e3966628",
+      "title": "물로 씻어 먹는데…잔류 농약 많은 12가지 농산물은? - 네이트",
+      "published": "2026-03-24T13:26:00+00:00",
+      "summary": "물로 씻어 먹는데…잔류 농약 많은 12가지 농산물은?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LRFFIY3dyOHYySGNZY3ZMaWdFcUF5d3E0emJYTllFOHV3TE1pUm54a3JDampUVm80T1Q4dW00REs2WGtLMXNpZDZqeWozVEVUTVpJ?oc=5"
+        }
+      ]
+    },
     {
       "id": "66eae4cd42c1",
       "title": "“아침에 눈 뜨니 앞이 잘 안 보여”… 공포 속 받은 진단명은? - 조선일보",
@@ -20,7 +44,7 @@
     {
       "id": "7a97e53f5324",
       "title": "주사피부염, 우울증 위험과 연관성 있나? - 보도자료 - 뉴스 - 서울대 소식 - 서울대학교",
-      "published": "2026-03-24T09:31:42+00:00",
+      "published": "2026-03-24T09:36:35+00:00",
       "summary": "주사피부염, 우울증 위험과 연관성 있나? - 보도자료 - 뉴스 - 서울대 소식&nbsp;&nbsp;서울대학교",
       "sources": [
         {
@@ -42,18 +66,6 @@
       ]
     },
     {
-      "id": "8072dcd9aa4b",
-      "title": "낮은 테스토스테론, 전립선암을 더 공격적으로 만든다 - 캐어유 뉴스",
-      "published": "2026-03-24T09:00:00+00:00",
-      "summary": "낮은 테스토스테론, 전립선암을 더 공격적으로 만든다&nbsp;&nbsp;캐어유 뉴스",
-      "sources": [
-        {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kejNBemg2Z3R6TThfRGl5d25XZnlhVDhlOUJTZE1MQURrQTFPanNXZlBMWWliWXdWLXhtMWlndkNKLWstcUpPeTBvUnFLY1ZXSjlQNHhqanRBZXhGcjJmVmgxTVZRVmNSOFVQVA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f366091e2dfa",
       "title": "미가공 육류 섭취, 치매 위험 55% 감소 확인…유전적 취약점 보완 가능성 - 하이닥",
       "published": "2026-03-24T09:00:00+00:00",
@@ -62,6 +74,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54cEZ4WllLNDZ3T2tmZ1RHdTdLSVp4U05LUm9CLVVYV3hUdnM5WXdlVXFtem14cGJUalpsMTUyVXotbVVSSlIwY0Q5RWw4Ymc4NXgyMlRhTE85ekxuZnphVHFKQWhIN1RZUGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8072dcd9aa4b",
+      "title": "낮은 테스토스테론, 전립선암을 더 공격적으로 만든다 - 캐어유 뉴스",
+      "published": "2026-03-24T09:00:00+00:00",
+      "summary": "낮은 테스토스테론, 전립선암을 더 공격적으로 만든다&nbsp;&nbsp;캐어유 뉴스",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kejNBemg2Z3R6TThfRGl5d25XZnlhVDhlOUJTZE1MQURrQTFPanNXZlBMWWliWXdWLXhtMWlndkNKLWstcUpPeTBvUnFLY1ZXSjlQNHhqanRBZXhGcjJmVmgxTVZRVmNSOFVQVA?oc=5"
         }
       ]
     },
@@ -78,6 +102,18 @@
       ]
     },
     {
+      "id": "3faaad6df6c1",
+      "title": "\"성관계 중 극심한 통증\"…30대 女 몸속에서 '이것' 나왔다 [핫이슈] - 네이트",
+      "published": "2026-03-24T07:05:00+00:00",
+      "summary": "\"성관계 중 극심한 통증\"…30대 女 몸속에서 '이것' 나왔다 [핫이슈]&nbsp;&nbsp;네이트통증·냄새 탓 병원 가니, 질에서 4주간 방치된 ‘이것’ 나왔다&nbsp;&nbsp;조선일보\"금속 냄새 난 이유 있었다\"…英 여성 몸속 검게 변한 '탐폰' 충격&nbsp;&nbsp;뉴시스\"이상한 냄새, 그냥 넘겼는데\"…몸속에서 검게 변한 '이것' 뭘까?&nbsp;&nbsp;네이트몸 속 검게 변한 'OO'이...30대女 \"쇼크올 뻔\"&nbsp;&nbsp;데일리안",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOczVndm5HaFhjSXZ6Nm9YempDSkZrZTBabjNHWnhzMUpXLUs1eEh1bEZfQTFSejdZWmswaVRKSFJaOTJhVTNZWmttVDVEX0Zhb05La1VjUllsRzNWVHZoZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "335e36a06b21",
       "title": "피 한 방울로 치매 구별 가능성…단백질 ‘양’ 아닌 ‘접힌 상태’가 갈랐다 - 코메디닷컴",
       "published": "2026-03-24T07:05:00+00:00",
@@ -86,6 +122,18 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55RGczLWwxLUlWQTBlNkh4RDZSc2lYUDJKa19WRWhiajYwWGR3YjhPWUhmeG5aRzBlNDAyaGRmc3U5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1dd2b365f484",
+      "title": "당뇨병이 치매 위험 높인다… “인슐린 치료 땐 이미 고위험군” - 조선일보",
+      "published": "2026-03-24T06:06:34+00:00",
+      "summary": "당뇨병이 치매 위험 높인다… “인슐린 치료 땐 이미 고위험군”&nbsp;&nbsp;조선일보당뇨병, '뇌 건강'까지 위협한다…\"치매 위험 최대 2.4배 높아\"&nbsp;&nbsp;네이트당뇨도 서러운데…치매 위험도 최대 2.4배 높아&nbsp;&nbsp;농민신문1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아&nbsp;&nbsp;메디컬투데이당뇨병, 치료단계 따라 치매 위험 최대 2.4배↑…\"혈당 안정성 중요\"&nbsp;&nbsp;TJB",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mX2pMZWk2S1BoY3gzUU5URlRzUFlwdEpSTHlOdzgyU3k1empwYW9tTUlDVTZ3ZFpxOUgydzhwVS1JbFJweWxUSWNuRGM1RzhGYkQtbFpkX3ZYTUdsMEdSM3F1RVl1d0s1YzJIZFI3Z0dYSS1CY0hlZdIBjAFBVV95cUxPVDJxcFJja2xNNEdKYXRiUkJoUlh0MDM4U0tXUTdhOHJER0Y4dWhES2phNFkwVEcwNC1pelN4UzB2SHZiWUtQa0R6X0JMSGowWDVsWWNqaXdGUHJER0g3TnBTeUJ5eGdBU1dIWURxODQzV00wX0s3MlowaXU1Sm5fZ2Jndi12Q2ZWSnlMZA?oc=5"
         }
       ]
     },
@@ -102,26 +150,14 @@
       ]
     },
     {
-      "id": "f1f6e4e7059e",
-      "title": "당뇨병이 치매 위험 높인다… \"인슐린 치료 땐 이미 고위험군\" - 조선일보",
-      "published": "2026-03-24T05:58:00+00:00",
-      "summary": "당뇨병이 치매 위험 높인다… \"인슐린 치료 땐 이미 고위험군\"&nbsp;&nbsp;조선일보당뇨병, '뇌 건강'까지 위협한다…\"치매 위험 최대 2.4배 높아\"&nbsp;&nbsp;네이트당뇨도 서러운데…치매 위험도 최대 2.4배 높아&nbsp;&nbsp;농민신문1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아&nbsp;&nbsp;메디컬투데이당뇨병, 치료단계 따라 치매 위험 최대 2.4배↑…\"혈당 안정성 중요\"&nbsp;&nbsp;TJB",
+      "id": "2cce8afbfefc",
+      "title": "\"투명의자 자세가 런닝보다 혈압 낮추는 효과 더 커\" - v.daum.net",
+      "published": "2026-03-24T05:53:54+00:00",
+      "summary": "\"투명의자 자세가 런닝보다 혈압 낮추는 효과 더 커\"&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mX2pMZWk2S1BoY3gzUU5URlRzUFlwdEpSTHlOdzgyU3k1empwYW9tTUlDVTZ3ZFpxOUgydzhwVS1JbFJweWxUSWNuRGM1RzhGYkQtbFpkX3ZYTUdsMEdSM3F1RVl1d0s1YzJIZFI3Z0dYSS1CY0hlZQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4aa483a0a0b1",
-      "title": "\"투명의자 자세가 런닝보다 혈압 낮추는 효과 더 커\" - 동아사이언스",
-      "published": "2026-03-24T05:51:00+00:00",
-      "summary": "\"투명의자 자세가 런닝보다 혈압 낮추는 효과 더 커\"&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mV2x6dTdNajVJRjhreTRmSExZOHRndmR1Y0ZyT1VpakEyZ2lMQ0dTOWJYWWVBenZORVZwM216N1JiUjMyMWlaUXprd3hRNGVrNHcyVg?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iQXFIeGU4a2UwUEFiUWFKbUx1T3lSZ0tnTDNJS0pFTEV5Mk9Ta2NtMzJZclpYajFhOGZhVVBlVU9PVTB0eXh5RUFwU1JhYTA?oc=5"
         }
       ]
     },
@@ -134,18 +170,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11YmU0WXZrWEZhNGpqRWM5MF9lVENNMWF1TnRVMEdoSzE3bHN2bTZyMUZleklIRzh5OVh2cFlWWWJraWdmRkVpZkg4THJ0VXRoTXFfUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c47872465a2f",
-      "title": "코스닥 정상 오른 삼천당제약… ‘먹는 플랫폼’으로 바이오 판 흔들까 - IT조선",
-      "published": "2026-03-24T04:58:32+00:00",
-      "summary": "코스닥 정상 오른 삼천당제약… ‘먹는 플랫폼’으로 바이오 판 흔들까&nbsp;&nbsp;IT조선",
-      "sources": [
-        {
-          "name": "IT조선",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hTmJfT2I1bS1XSDdQUUJ0bjNhUGVMR0EyWk5sY09ZUFgzZVlEajZMdW5MUGFxY05LRDEwRDFYLTg4UTB1cG94SXliRUV3VFdyREdRUFVybjF4dnFuWURRWXpfNlJNTzlCa1FIWmdtRkrSAXRBVV95cUxPQVZ6M2NqcUhWaTBrZl8tN0lFdmlsOXlFM05Wc1FXaDdMYTNoU0cyRFJyWmhJdWR5MzRELU1kUE9OVl9YT2ppV3I0TzJRaExMci1XM2hEc0IzRkw2ekU0TDRhck1TVk1oRjNkWGVfamNDQ21NTw?oc=5"
         }
       ]
     },
@@ -189,7 +213,7 @@
       "id": "3088806a7267",
       "title": "고혈압인데 건강 생활습관 유지 안 하면, 당뇨 위험 75%↑ - 여수교차로",
       "published": "2026-03-24T02:07:16+00:00",
-      "summary": "고혈압인데 건강 생활습관 유지 안 하면, 당뇨 위험 75%↑&nbsp;&nbsp;여수교차로“아침 7~8시 운동이 최고”… ‘이 질환’ 위험 쑥 내려갔다&nbsp;&nbsp;코메디닷컴고혈압인데 건강 생활습관 유지 안 하면…당뇨 위험 75%↑&nbsp;&nbsp;뉴시스아침 운동이 답이었다…심혈관·대사질환 위험 최대 35% 감소&nbsp;&nbsp;네이트꾸준히 ‘이 시간’에 운동했더니… 고혈압·당뇨 위험 확 줄어​&nbsp;&nbsp;조선일보",
+      "summary": "고혈압인데 건강 생활습관 유지 안 하면, 당뇨 위험 75%↑&nbsp;&nbsp;여수교차로11분 더 자고, 4.5분 운동, 채소 반의 반 컵 더 먹을 때 생기는 놀라운 변화&nbsp;&nbsp;조선일보“아침 7~8시 운동이 최고”… ‘이 질환’ 위험 쑥 내려갔다&nbsp;&nbsp;코메디닷컴고혈압인데 건강 생활습관 유지 안 하면…당뇨 위험 75%↑&nbsp;&nbsp;뉴시스아침 운동이 답이었다…심혈관·대사질환 위험 최대 35% 감소&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "여수교차로",
@@ -354,6 +378,18 @@
       ]
     },
     {
+      "id": "bc353c59e256",
+      "title": "[건강한 삶] 신장의 멈춘 기능을 대신하는 '투석', 건강한 삶을 위한 준비 - 인천일보",
+      "published": "2026-03-23T06:27:00+00:00",
+      "summary": "[건강한 삶] 신장의 멈춘 기능을 대신하는 '투석', 건강한 삶을 위한 준비&nbsp;&nbsp;인천일보가정 복막 투석: 신장 질환 환자들이 더욱 능동적인 삶을 살 수 있도록 돕는 진전.&nbsp;&nbsp;Vietnam.vn투석 환자 10만 명 시대…“치료 미루면 치명적 합병증 부른다”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "인천일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYzFyR1RjR3BSenhCTC1wTm92RE1OZFZPUU5OYjViWUp4LW1RRDRPRFE1a0prakhNWHgtTVZoZDlLLUd4cWd2dDJNdk5wWV9VbjRkNG9SdnRFV1g4SzdQT3dtUlA2bjRrVzZPOWtkdFQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5fc79698e620",
       "title": "사우나 건강효과 이 정도였다니…치매·심혈관·호흡기 질환에 우울증까지 막아 - 코메디닷컴",
       "published": "2026-03-23T05:17:00+00:00",
@@ -450,6 +486,18 @@
       ]
     },
     {
+      "id": "915f2aa8c78f",
+      "title": "한국화이자제약, ‘우리는 하나, 프리베나20’ 사내 캠페인 성료 - 메드월드뉴스",
+      "published": "2026-03-23T00:39:56+00:00",
+      "summary": "한국화이자제약, ‘우리는 하나, 프리베나20’ 사내 캠페인 성료&nbsp;&nbsp;메드월드뉴스한국화이자, 폐렴구균 폐렴예방 '프리베나' 캠페인 진행&nbsp;&nbsp;뉴시스\"고령층 폐렴, 치명적 예후 부각…예방 전략 재설계 필요\"&nbsp;&nbsp;데일리팜\"3대 함께 모여 폐렴 예방…'우리는 하나 프리베나20'\"&nbsp;&nbsp;뉴스1영유아 소아·청소년에 ‘폐렴구균 백신’ 무료 접종&nbsp;&nbsp;위키리크스한국",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZTWJ0T2YzZm5Kc2JPZ0ZWRmMwUjNMSGdZSzdXb3UxVFBSamZtRmJwdHZXaHROMkw4S0dNY1BDcmkzNlpuRGkwQ3dWNU9XclhpUDlxcEtsVjV4dUFWZGpwZy12a05WWm1Wd2REeA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1e8da199e0db",
       "title": "견과류, 이렇게 먹어야 좋다 - 원주투데이",
       "published": "2026-03-23T00:33:32+00:00",
@@ -458,30 +506,6 @@
         {
           "name": "원주투데이",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03cjdhRWd1SVBmUk1aaHpUOEQwUWZySEdEQ1c2VmFQaGhHMUlPVWxaSXBXQUp1dG5Kbmw2anBIYmx2SEhacHVPUXNoQ2pxVjlCMEYtRHNRXzc5RjhGall4aDFJX2l6NG1XeGtxQUZNeGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a56c9a7f91a",
-      "title": "화이자, '폐렴구균 폐렴 우리는 하나, 프리베나20' 사내 캠페인 성료 - 약업신문",
-      "published": "2026-03-23T00:31:25+00:00",
-      "summary": "화이자, '폐렴구균 폐렴 우리는 하나, 프리베나20' 사내 캠페인 성료&nbsp;&nbsp;약업신문한국화이자, 폐렴구균 폐렴예방 '프리베나' 캠페인 진행&nbsp;&nbsp;뉴시스\"3대 함께 모여 폐렴 예방…'우리는 하나 프리베나20'\"&nbsp;&nbsp;뉴스1영유아 소아·청소년에 ‘폐렴구균 백신’ 무료 접종&nbsp;&nbsp;위키리크스한국\"고령층 폐렴, 치명적 예후 부각…예방 전략 재설계 필요\"&nbsp;&nbsp;데일리팜",
-      "sources": [
-        {
-          "name": "약업신문",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lUFdhVDUtMDdWQVlfdk1DcXpPYTRmeTZPdlFfN2RkWnQ3ekZoSFotUHBIbmkyTlRxX3UxcWV4NXVaZzdnSV94NlZLQUlncnpyQk9hb25fSEFZZlhjb0NKS245TzItQlJNV1VrcXB5TDAwZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a43fa5b4cf37",
-      "title": "간암 수술의 진화…\"로봇, 손떨림 같은 인간한계 극복\"[인터뷰] - the-real.kr",
-      "published": "2026-03-23T00:05:14+00:00",
-      "summary": "간암 수술의 진화…\"로봇, 손떨림 같은 인간한계 극복\"[인터뷰]&nbsp;&nbsp;the-real.kr",
-      "sources": [
-        {
-          "name": "the-real.kr",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xaFIwU1lrLVd1QTRnaDNpWVZhSGk2U0FzQ3hKeHBsMnBrVzQ0RnFGR242emNqMzBqc3ZGN2I2VjhmXzFTeEVTcWxSdFYyaElYWmVHaDFVV21CUDBQNGdoaV94bW1XV2VjbFE?oc=5"
         }
       ]
     },
@@ -525,7 +549,7 @@
       "id": "3a01d34ddc50",
       "title": "소액암 전이, 약관 설명 없었다면 '일반암'...\"차액 지급해야\" - 팜뉴스",
       "published": "2026-03-22T20:55:00+00:00",
-      "summary": "소액암 전이, 약관 설명 없었다면 '일반암'...\"차액 지급해야\"&nbsp;&nbsp;팜뉴스암보험 '설명의무' 후폭풍…전이암 분쟁 번진다&nbsp;&nbsp;v.daum.net금감원, 소액암 보험 분쟁에 '종지부'…\"보험사 불완전 판매\" 판단&nbsp;&nbsp;뉴스1전이부위 기준 암 보험금 지급…보험사 수백억 부담 전망&nbsp;&nbsp;네이트\"소액암서 전이된 암도 일반암으로 물어줘라\"…보험사 수천억 청구서&nbsp;&nbsp;네이트",
+      "summary": "소액암 전이, 약관 설명 없었다면 '일반암'...\"차액 지급해야\"&nbsp;&nbsp;팜뉴스암보험 '설명의무' 후폭풍…전이암 분쟁 번진다&nbsp;&nbsp;v.daum.net금감원, 소액암 보험 분쟁에 '종지부'…\"보험사 불완전 판매\" 판단&nbsp;&nbsp;뉴스1\"소액암서 전이된 암도 일반암으로 물어줘라\"…보험사 수천억 청구서&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "팜뉴스",
