@@ -1,19 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-25T02:33:28.064758+00:00",
-  "total_fetched": 74,
-  "unique_count": 74,
-  "health_related_count": 44,
+  "fetched_at": "2026-03-25T07:07:23.421335+00:00",
+  "total_fetched": 75,
+  "unique_count": 75,
+  "health_related_count": 43,
   "news": [
+    {
+      "id": "4f7b2e072273",
+      "title": "11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다 - 조선일보",
+      "published": "2026-03-25T06:51:00+00:00",
+      "summary": "11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다&nbsp;&nbsp;조선일보하루 11분 더 자고, 4분 더 걸었더니…심장병 위험 '뚝'&nbsp;&nbsp;뉴시스20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;네이트“아침 7~8시 운동이 최고”… ‘이 질환’ 위험 쑥 내려갔다&nbsp;&nbsp;코메디닷컴[건강칼럼]“혈압약 평생 먹어야 하나?” 고혈압 치료에 대한 오해 바로잡기&nbsp;&nbsp;호남매일뉴스",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmh1dzJfLVoxczBjV2ZaVnl0cFNkXzFrNnJjVzNRMVBhN0JNNGU5MzlsX2NIT1czaGhIaEVMTkNDSElZSHBBOVNyNERveGlhUkZYcEtNc3pkbEJoZFhnNDFHM25KSmotbWwxNEtxN3NUM3MyOS1URVg1aGtYUmpXdFl2TdIBlwFBVV95cUxPT2UyV3B1M1htS1k2MXdTcTFpOVhVcDF5OWVmUkdOaDBlWlVyb3BjS0ZsU1d4bUpaNHA3bFFCRkVNRlAtR0VVTGwtR1k4ZEN5RTAxcUY4YUI4NWFnTjg2REVhZGZZWEJ4REk5eE4zeHc5b2wxeGltSURVcEwwanhfTlE2Z3dIeGNXdjBzWVVWeERiTWhLdWtz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ab8f2c654b4",
+      "title": "암 환자 스트레스, 치료 변수 될 수도 - 조선일보",
+      "published": "2026-03-25T05:00:00+00:00",
+      "summary": "암 환자 스트레스, 치료 변수 될 수도&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TYy0wTVFsc3VISmowSG9PWWRlSUswX0RYQ1BuMUhoWVFyUXFKcGtadWt3c2x2QlRaM2NJblhlbkxxY0pIQmw0eUx0RkZ1dUkxdXZCTTVHajB1MlpRVmFVZEdnWTRDLUZFcV95Y1Z4OHZNY3NJYUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d16d191067a3",
+      "title": "대한감염학회 “고령층·고위험군, RSV 백신 접종 고려해야” - 코메디닷컴",
+      "published": "2026-03-25T03:39:00+00:00",
+      "summary": "대한감염학회 “고령층·고위험군, RSV 백신 접종 고려해야”&nbsp;&nbsp;코메디닷컴50대 이상 고위험군과 75세 이상 모든 성인··· ‘RSV’ 예방접종 받으세요&nbsp;&nbsp;경향신문“감기인 줄 알았는데 사망률이 독감 3배”…대한감염학회, 50세 이상 RSV 백신 권고&nbsp;&nbsp;v.daum.net대한감염학회, RSV 백신 접종 권고… 성인예방접종 가이드라인 개정&nbsp;&nbsp;조선일보대한감염학회 \"고령층·고위험군, RSV 백신 접종 고려해야\"&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfTjlleDRsQllEYWZGcDRiNGs4cGU3cTRHeWZyM0VGa0NOaWZGZ0JZdW9pVzBrOUNDU1dIaGlaQ2t5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c48d4fd167d4",
+      "title": "장수 전문가가 뽑은 ‘저속노화’ 식품 1위는… - 레이디경향",
+      "published": "2026-03-25T03:33:00+00:00",
+      "summary": "장수 전문가가 뽑은 ‘저속노화’ 식품 1위는…&nbsp;&nbsp;레이디경향‘영국식 아침식사’가 노화 막는다던데… 뭐야?&nbsp;&nbsp;조선일보조기 노화를 늦추는 데 도움이되는 건강한 영양 섭취의 비밀&nbsp;&nbsp;VOI.id",
+      "sources": [
+        {
+          "name": "레이디경향",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByQzlSdkpTVFN4V0dMWm1aWUJSbFllZU51T2drZ1pGMmtNOTVidjNGNzFTUDB1OWstbVVaYWo4dkd0RUJ5cERjRzBtWGpoVVhvNE5XbVhWVDlja1VvZXdiNVZ2TWE?oc=5"
+        }
+      ]
+    },
     {
       "id": "6f5482ca4563",
       "title": "스마트폰으로 안면마비 진단·재활…AI 플랫폼 개발 착수 - 쿠키메디",
       "published": "2026-03-25T02:21:27+00:00",
-      "summary": "스마트폰으로 안면마비 진단·재활…AI 플랫폼 개발 착수&nbsp;&nbsp;쿠키메디",
+      "summary": "스마트폰으로 안면마비 진단·재활…AI 플랫폼 개발 착수&nbsp;&nbsp;쿠키메디Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "쿠키메디",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WUUlSbHVaX25NWUdrYzZnMFZyTXNPVmZlc2lTaVB3d0l3dFBrRzR4S01OcWpRVGh4cEJuQTJvSGNhYzEzb2p3VGdBWThwcm55dEVyMEtMcTVqcGhuTzY0SzR5WXA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57fa495d6ce6",
+      "title": "주1회 ‘이 행동’, 치매 위험 낮춘다 - 조선일보",
+      "published": "2026-03-25T01:39:00+00:00",
+      "summary": "주1회 ‘이 행동’, 치매 위험 낮춘다&nbsp;&nbsp;조선일보[건강포커스] \"노년층 주 1회만 집에서 직접 요리해도 치매 위험 30% 감소\"&nbsp;&nbsp;v.daum.net서툴러도 ‘직접’ 요리하는 노인 살펴보니…‘이병’ 위험 현저히 낮았다&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSRkI2QVFwV2E1c3FwQ096U2xNMW5kWjhsMGhXaWtOSGtsaFh2czM4Yk5iUnM3NlZ6NFNwVjFmWlhPdktfT1pqRlNNV2VRY3hrQU8tSjFIWkZEYzdiWDJrX3ByMll3N09hbTh3ZkRXX2RuNDUyVVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9341b932ba9c",
+      "title": "비만치료제 효과 높여주는...'호르몬 치료' - 후생신보",
+      "published": "2026-03-25T01:29:00+00:00",
+      "summary": "비만치료제 효과 높여주는...'호르몬 치료'&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9NQUNFaU1UNEx6cUt1czU3Tmc1R2VjMUk2QmFLd1RpbXBsektvRzNudS1sSktYNWNDZGtHMUU5Vk83M3FX?oc=5"
         }
       ]
     },
@@ -90,6 +162,30 @@
       ]
     },
     {
+      "id": "e95fb0d6d1a7",
+      "title": "“신약 개발 과정서 동물 실험 축소”… 美 FDA 가이드라인 초안 마련 - 조선일보",
+      "published": "2026-03-24T15:36:00+00:00",
+      "summary": "“신약 개발 과정서 동물 실험 축소”… 美 FDA 가이드라인 초안 마련&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1pVcmZhTUt2eHNMd2FHMlNCOWw5b29nUlFIbDk4cnBHMW5obUpHemQyMjhsZlhQRWZ0N3N3NDRwYi1BYXFkbFZIZmowem5JRVk0SFBWY0pxbWpxLXMyYTVBbTBBRHFIbUstSDJISFRsVFIzaDlZd29SVnNTZFdRRFZPONIBlwFBVV95cUxNcXk2b0ZKY2JPQ3VsbTN4QXNYcE9oVTV4bGRXaDFXR25NVUs3VnhHTXZwOGRUb1VMYVlOZXFNSHhtSmZESzVOUHBNbkpQRTEwNV84WFBMZWw5ZGtOdHFGdlBhY1RoTzBxUk9JVkk2Q1dKSU1KZHBtZWFpMjRITmdaa1c5SnpueXBoWEdWLU10M21rcmtyVXM4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7b5ce608428d",
+      "title": "통증·냄새 탓 병원 가니, 질에서 4주간 방치된 ‘이것’ 나왔다 - 조선일보",
+      "published": "2026-03-24T14:00:00+00:00",
+      "summary": "통증·냄새 탓 병원 가니, 질에서 4주간 방치된 ‘이것’ 나왔다&nbsp;&nbsp;조선일보\"금속 냄새 난 이유 있었다\"…英 여성 몸속 검게 변한 '탐폰' 충격&nbsp;&nbsp;뉴시스\"이상한 냄새, 그냥 넘겼는데\"…몸속에서 검게 변한 '이것' 뭘까?&nbsp;&nbsp;네이트몸 속 검게 변한 'OO'이...30대女 \"쇼크올 뻔\"&nbsp;&nbsp;데일리안",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01SnhXUmtDNWJNZTN0Skt0MTRnOGJ2N0M1TTRiZlBsY09mNW9jQko4Y1dvUlJZRm1XMW1pcXRvMlR5dkQzUEZRclFnQmdLdUtlMVhNal9EaWJ6OXk1U2ZzUjYtQWVNMUVaY2pidEVyQTNBN3VyMGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "66eae4cd42c1",
       "title": "“아침에 눈 뜨니 앞이 잘 안 보여”… 공포 속 받은 진단명은? - 조선일보",
       "published": "2026-03-24T11:00:00+00:00",
@@ -146,18 +242,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54cEZ4WllLNDZ3T2tmZ1RHdTdLSVp4U05LUm9CLVVYV3hUdnM5WXdlVXFtem14cGJUalpsMTUyVXotbVVSSlIwY0Q5RWw4Ymc4NXgyMlRhTE85ekxuZnphVHFKQWhIN1RZUGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3faaad6df6c1",
-      "title": "\"성관계 중 극심한 통증\"…30대 女 몸속에서 '이것' 나왔다 [핫이슈] - 네이트",
-      "published": "2026-03-24T07:05:00+00:00",
-      "summary": "\"성관계 중 극심한 통증\"…30대 女 몸속에서 '이것' 나왔다 [핫이슈]&nbsp;&nbsp;네이트통증·냄새 탓 병원 가니, 질에서 4주간 방치된 ‘이것’ 나왔다&nbsp;&nbsp;조선일보\"금속 냄새 난 이유 있었다\"…英 여성 몸속 검게 변한 '탐폰' 충격&nbsp;&nbsp;뉴시스\"이상한 냄새, 그냥 넘겼는데\"…몸속에서 검게 변한 '이것' 뭘까?&nbsp;&nbsp;네이트몸 속 검게 변한 'OO'이...30대女 \"쇼크올 뻔\"&nbsp;&nbsp;데일리안",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOczVndm5HaFhjSXZ6Nm9YempDSkZrZTBabjNHWnhzMUpXLUs1eEh1bEZfQTFSejdZWmswaVRKSFJaOTJhVTNZWmttVDVEX0Zhb05La1VjUllsRzNWVHZoZw?oc=5"
         }
       ]
     },
@@ -258,18 +342,6 @@
       ]
     },
     {
-      "id": "3088806a7267",
-      "title": "고혈압인데 건강 생활습관 유지 안 하면, 당뇨 위험 75%↑ - 여수교차로",
-      "published": "2026-03-24T02:07:16+00:00",
-      "summary": "고혈압인데 건강 생활습관 유지 안 하면, 당뇨 위험 75%↑&nbsp;&nbsp;여수교차로하루 11분 더 자고, 4분 더 걸었더니…심장병 위험 '뚝'&nbsp;&nbsp;뉴시스“아침에 꼭 해라” 백지연, 중년 이후 삶 달라진다며 추천… 뭐지?&nbsp;&nbsp;조선일보20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;네이트“아침 7~8시 운동이 최고”… ‘이 질환’ 위험 쑥 내려갔다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "여수교차로",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4U3pIcUdqeTFWeDhJY2xhRXA2ckZNc2hQaWZmZXhaR08tVnREM2R5ekd0bnM1WEdtS2o1c2cxOExkWUxRQmxxZm1OZTZvZm1pZGU5aE5EUnM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a4dfcc0f490b",
       "title": "체중 감량 없는 전당뇨 치료, 핵심은 ‘지방 재배치’와 ‘인슐린 감수성’ - 바이오타임즈",
       "published": "2026-03-24T02:06:03+00:00",
@@ -278,6 +350,18 @@
         {
           "name": "바이오타임즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iWWtPNHJUWDctSlRpMy1aVUlyVTBjRFBYNnFDdm5TcGJjZDBlS1NZbFN2d3J1R1J1R0pOMVFrT210Y0Y0SFpCa0RmZllaMUgtOUlfRWFPdkotRUhVRXhuVDNUWWJOcnJ1Qkp0cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "09b1c5bc8891",
+      "title": "‘찬란한 봄햇살’ 눈 건강엔 치명적…“선글라스 챙기세요” - 동아일보",
+      "published": "2026-03-24T01:47:29+00:00",
+      "summary": "‘찬란한 봄햇살’ 눈 건강엔 치명적…“선글라스 챙기세요”&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RQk9GWjVDQWpBTWliZVplYU1ibFRxZ0tORGdyWnJTdlhkM2FRUjVRMndyX0otTzRMU1FoU29iYzA3Q0tFY2hVSHIwZzZuel95WFU0d0xyeWRmYkM4dDZGemRHVjV3clgxdW9Rc1lmTEFZSFdCSlHSAWZBVV95cUxOcG9SY2M2Y3FfNUlvYW8tNlB0akZUNUVXeHMyeklBZEN3eU1sa09ISUI4WmdHRExvREJfT2VxQnVmclpOelczSjNCYnppQVlacDBlWHIwRUxvUmNqX25YRTh1bHhnemc?oc=5"
         }
       ]
     },
@@ -318,18 +402,6 @@
       ]
     },
     {
-      "id": "8c2c9c641e67",
-      "title": "[뉴테크] 흙에서 태어나 물로 돌아간다, 英 '물 화장' 첫 승인 - 네이트",
-      "published": "2026-03-23T21:02:00+00:00",
-      "summary": "[뉴테크] 흙에서 태어나 물로 돌아간다, 英 '물 화장' 첫 승인&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LbXd6WUItZEExa0tydEQyYlFXT0tzSDBEcXIxTjJLd1lrWlJ6Sy1mWnZiRC10dWhMTXpmUE9aem5JMHYtcDNUQVZfc19Fbkl1N1o1X0ZuQTVmSk9TVWJSVg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b7cbd9552087",
       "title": "뇌 노화 ‘2년 반’ 늦추는 마인드 식단, 뭐야? - 조선일보",
       "published": "2026-03-23T13:40:00+00:00",
@@ -366,14 +438,14 @@
       ]
     },
     {
-      "id": "d3659ef813d4",
-      "title": "[단독]국내 연구진, 유기농 생리대 실험…“14개 중 12개 ‘자궁 내막 세포 변형’” - 채널A",
-      "published": "2026-03-23T09:32:00+00:00",
-      "summary": "[단독]국내 연구진, 유기농 생리대 실험…“14개 중 12개 ‘자궁 내막 세포 변형’”&nbsp;&nbsp;채널A",
+      "id": "ee7c4f9066a7",
+      "title": "\"키 크면 좋은 줄 알았는데…\" 뜻밖의 연구 결과 - v.daum.net",
+      "published": "2026-03-23T10:19:25+00:00",
+      "summary": "\"키 크면 좋은 줄 알았는데…\" 뜻밖의 연구 결과&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "채널A",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sMzJ5ajZvZUktUERKaWlSSWRWWFdfemFsTmpCSUNURmZyUC04YXR0ZEswejNHY0NDOUt6azhfX09tYS1tSk1mVzhWdHgwOXdGcDFIMEk3WV9tLTFJWVHSAWNBVV95cUxQRUhEbDBjckpuRzU1dllMTkxEN2g1ZDdFTU41VDIzcXpZSC1ITEJLNnNfRFNMb3ltbWVMdVExdWVCQmNNdW5pcklXZnVYdjYyeXdVcjZYS01VMHZ6T1pLUF9MUFk?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLdlpnS29BLU00elBMOGwtSWU5WjI2TDdVWVlUVFhZZmVMaTE4WkR0RnNnajY2dmFEUHBfeUhvQkRFVlZDOFJVS1lkYXVJbEE?oc=5"
         }
       ]
     },
@@ -414,30 +486,6 @@
       ]
     },
     {
-      "id": "e67fb4646c2f",
-      "title": "여성 다빈도 질환 ‘방광염’, 방치하면 신우신염 위험… 초기 정확한 진단이 핵심 [선인영 원장 칼럼] - 하이뉴스",
-      "published": "2026-03-23T06:35:31+00:00",
-      "summary": "여성 다빈도 질환 ‘방광염’, 방치하면 신우신염 위험… 초기 정확한 진단이 핵심 [선인영 원장 칼럼]&nbsp;&nbsp;하이뉴스",
-      "sources": [
-        {
-          "name": "하이뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtWWoyUVVGdnpzektnRzN2eVZfWXg0Z2hmUEIxNGhmdDlkaXJDSFg4bURvaUlBcjktSDV6bjNpUGhkeE9ya0RGX1JLVGZfY0I5RGsxbVJ2ZE9ubzlVOWxJbEF2bkdKenFid3NyRGw2cUJER255Y044?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc353c59e256",
-      "title": "[건강한 삶] 신장의 멈춘 기능을 대신하는 '투석', 건강한 삶을 위한 준비 - 인천일보",
-      "published": "2026-03-23T06:27:00+00:00",
-      "summary": "[건강한 삶] 신장의 멈춘 기능을 대신하는 '투석', 건강한 삶을 위한 준비&nbsp;&nbsp;인천일보가정 복막 투석: 신장 질환 환자들이 더욱 능동적인 삶을 살 수 있도록 돕는 진전.&nbsp;&nbsp;Vietnam.vn투석 환자 10만 명 시대…“치료 미루면 치명적 합병증 부른다”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "인천일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SYzFyR1RjR3BSenhCTC1wTm92RE1OZFZPUU5OYjViWUp4LW1RRDRPRFE1a0prakhNWHgtTVZoZDlLLUd4cWd2dDJNdk5wWV9VbjRkNG9SdnRFV1g4SzdQT3dtUlA2bjRrVzZPOWtkdFQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5fc79698e620",
       "title": "사우나 건강효과 이 정도였다니…치매·심혈관·호흡기 질환에 우울증까지 막아 - 코메디닷컴",
       "published": "2026-03-23T05:17:00+00:00",
@@ -450,30 +498,6 @@
       ]
     },
     {
-      "id": "5865a52302ba",
-      "title": "인슐린 치료, 주사 대신 ‘먹는 약’으로 가능해질 전망 - 조선일보",
-      "published": "2026-03-23T04:52:00+00:00",
-      "summary": "인슐린 치료, 주사 대신 ‘먹는 약’으로 가능해질 전망&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PUzczSlpDVVUyUzZTTW9VTl9qVkx2cHlWLUhaamt5VF9GcTA3MUtndENzamFNWkF4REJRQ2dreGhFckJBaGpvbmNaeWJzRXFPSElBS2NQN2UwMWdRYk4xZVlXTUJSdEQyYXI4Z0lRSnlBMGVyTFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d42c46956fba",
-      "title": "어린이 알레르기, ‘크면 자연치유’ 될가?--건강 - 인민넷",
-      "published": "2026-03-23T03:13:00+00:00",
-      "summary": "어린이 알레르기, ‘크면 자연치유’ 될가?--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFMTdfS2ZQNU1CVkZlRHZ4Y1lJdEFDdTZxbkwtRU5RbkQyYUN6RjdSTTNIUlBYQlNFOFliYXVrMTJwZGR6NVBrNHpIUGxRaDRieEpMZjItVHFGZWxXY0tRVWR1ZTBXbGlhcnA5MHNn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "310115d72464",
       "title": "4대 과기원-지역 기업과 AI혁신 동맹…산학 AX 공동연구소 설립 - 뉴시스",
       "published": "2026-03-23T03:00:00+00:00",
@@ -482,42 +506,6 @@
         {
           "name": "뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9semRVRjdIZ2NBemtFWjhJX05IVU00ZlVqLUQ5T1FXMjhWOE1TUDNtZ3BjcGdWNHJhcnozRVQzYVh2bnhKY3lhT0MwVk56MnBmTTMycHVqRTJ6dFItaDN0TGJCNGTSAXhBVV95cUxPeVN3bHBSRVdIanB1RzVrSGpqQWU1enFEYXJ0eGJSa0JSRHF1RWV3R3R1cy1aQWZhSUlPUWRLUGlIRl9sa3dROEpMOE5ORlZUM3dEaEdzc0hQNnFlR0ZhejkyM2xiSGlYRE9yZWt6cWVPMGhTZzNjdXA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "551d19ead058",
-      "title": "음성 AI, 고칼로리 음식 선택 유도한다…연구 - 디지털투데이",
-      "published": "2026-03-23T02:37:00+00:00",
-      "summary": "음성 AI, 고칼로리 음식 선택 유도한다…연구&nbsp;&nbsp;디지털투데이Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mRXF0VGM2R1NqX2EtaTVOSlFBNkp6VXZDX0haRVU4ajl0Z1BwOWJ0VDNYeFJSb2JqRFowbFdWbWpKWE5RR0lkNWdKOVQwaFlqc2U5ckN2dUhzV1pPNXFhei1sZnN3UGk5MXpLR21VbEg0QUk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "741aa3f50554",
-      "title": "와이디생명과학-사피엔스바이오 “난치성 폐섬유증 원인 규명...신약후보 타당성 입증” - 매일경제",
-      "published": "2026-03-23T02:34:51+00:00",
-      "summary": "와이디생명과학-사피엔스바이오 “난치성 폐섬유증 원인 규명...신약후보 타당성 입증”&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMbnRQcUdHeS1zWTNqelRNRW1FTnBPdWlkVnB5WmNpSXJSWmRuWmJwUDJMak1iOFVKd0Zpcm5VYjlrdHJsZzE3eGQtQUEzUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f8400dd50fd",
-      "title": "파킨슨병 진행 핵심열쇠 뇌 속 지방 성분 '세라마이드' - 동아사이언스",
-      "published": "2026-03-23T02:19:00+00:00",
-      "summary": "파킨슨병 진행 핵심열쇠 뇌 속 지방 성분 '세라마이드'&nbsp;&nbsp;동아사이언스광주과학기술원, 파킨슨병 진행 늦추는 치료 전략 개발&nbsp;&nbsp;v.daum.net뇌 속 '지방 대사' 조절 파킨슨병 완화…GIST, 치료 전략 제시&nbsp;&nbsp;뉴시스단백질 엉킴 부르는 '지방' 잡았다…GIST, 파킨슨병 진행 억제 단서[과학을읽다]&nbsp;&nbsp;아시아경제뇌 속 ‘지방 대사’ 조절해 파킨슨병 완화…새 치료 전략 나왔다&nbsp;&nbsp;서울경제신문",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CLTBTVlhXNEpoQkRUREk4enhHS3c3amZWSDRuOENoQnYwaFBUMlR2NWpHdDk0NnRmUGhFMUpXRlM0eUJmNEdZUlJ6TGJlUzNi?oc=5"
         }
       ]
     },
