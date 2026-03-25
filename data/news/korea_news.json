@@ -1,19 +1,67 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-25T07:07:23.421335+00:00",
-  "total_fetched": 75,
-  "unique_count": 75,
-  "health_related_count": 43,
+  "fetched_at": "2026-03-25T13:19:24.330987+00:00",
+  "total_fetched": 79,
+  "unique_count": 79,
+  "health_related_count": 40,
   "news": [
     {
-      "id": "4f7b2e072273",
-      "title": "11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다 - 조선일보",
-      "published": "2026-03-25T06:51:00+00:00",
-      "summary": "11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다&nbsp;&nbsp;조선일보하루 11분 더 자고, 4분 더 걸었더니…심장병 위험 '뚝'&nbsp;&nbsp;뉴시스20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;네이트“아침 7~8시 운동이 최고”… ‘이 질환’ 위험 쑥 내려갔다&nbsp;&nbsp;코메디닷컴[건강칼럼]“혈압약 평생 먹어야 하나?” 고혈압 치료에 대한 오해 바로잡기&nbsp;&nbsp;호남매일뉴스",
+      "id": "adef2c3caeb6",
+      "title": "운동·혈압·콜레스테롤 관리했지만...치매 고위험군 인지 개선 “글세” - 디멘시아뉴스",
+      "published": "2026-03-25T10:45:30+00:00",
+      "summary": "운동·혈압·콜레스테롤 관리했지만...치매 고위험군 인지 개선 “글세”&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44bFNWSnhuMWhlSGVPNGZfUHRYSHhSRVBPVXU3bjlfVzNISk1lRUtMOW96ODk3MVhkdWd0anpjRzBxSVZ4UzY3YVVwZGVqUzlpWUZJZWZRcWhCUy11YTlyRTRaM19qT0NncjR0anNoLUtBZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "253b8121f172",
+      "title": "‘이 소금’ 쓰면 심혈관질환 위험↓ - 조선일보",
+      "published": "2026-03-25T10:40:00+00:00",
+      "summary": "‘이 소금’ 쓰면 심혈관질환 위험↓&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmh1dzJfLVoxczBjV2ZaVnl0cFNkXzFrNnJjVzNRMVBhN0JNNGU5MzlsX2NIT1czaGhIaEVMTkNDSElZSHBBOVNyNERveGlhUkZYcEtNc3pkbEJoZFhnNDFHM25KSmotbWwxNEtxN3NUM3MyOS1URVg1aGtYUmpXdFl2TdIBlwFBVV95cUxPT2UyV3B1M1htS1k2MXdTcTFpOVhVcDF5OWVmUkdOaDBlWlVyb3BjS0ZsU1d4bUpaNHA3bFFCRkVNRlAtR0VVTGwtR1k4ZEN5RTAxcUY4YUI4NWFnTjg2REVhZGZZWEJ4REk5eE4zeHc5b2wxeGltSURVcEwwanhfTlE2Z3dIeGNXdjBzWVVWeERiTWhLdWtz?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qZmsteWhkWURUNTlKblRlQmpyMTJheGlNSlduSFVleEJTS0JHX01uRFZrQm1sSW5aNXVBVV84WklGbFlZemx6ZXYzaG14UWlsbUNwbkNYNjRlel9CZnhRSFhreWI0Q3QzOXhCM203blE3Sld1Vnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06fa24ba1b74",
+      "title": "[건강정보] 봄나들이 앞둔 중장년층, 무릎 건강 점검 필요 - 병원신문",
+      "published": "2026-03-25T10:24:31+00:00",
+      "summary": "[건강정보] 봄나들이 앞둔 중장년층, 무릎 건강 점검 필요&nbsp;&nbsp;병원신문봄외출 앞둔 중장년층…'이것' 관리 놓치면 문 밖이 공포&nbsp;&nbsp;뉴시스무릎 통증 호소하는 중·장년층…“운동 치료·체중 관리 필요”&nbsp;&nbsp;v.daum.net무릎 골관절염을 조기에 발견하는 것은 건강한 삶을 영위하는 데 매우 중요합니다.&nbsp;&nbsp;Vietnam.vn무릎 아픈 건 연골 닳아서? '산화 스트레스' 때문일 수도&nbsp;&nbsp;서울경제TV",
+      "sources": [
+        {
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16TFVIb1ZGTkVhZEIxWE5ZdWFUd1ZMcWx1T0hOTVgyMTZicXRSZUpoRDBETmNZS2tKRm5vMTllZU9sZGtQSVVISG45c0k1aFZTWU10ZlJaWjNRN3dVa0h1VUdyYkt0Ry1WdkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "035eb173442d",
+      "title": "50대 이상 고위험군과 75세 이상 모든 성인··· ‘RSV’ 예방접종 받으세요 - 경향신문",
+      "published": "2026-03-25T05:48:00+00:00",
+      "summary": "50대 이상 고위험군과 75세 이상 모든 성인··· ‘RSV’ 예방접종 받으세요&nbsp;&nbsp;경향신문“감기인 줄 알았는데 사망률이 독감 3배”…대한감염학회, 50세 이상 RSV 백신 권고&nbsp;&nbsp;v.daum.net대한감염학회, RSV 백신 접종 권고… 성인예방접종 가이드라인 개정&nbsp;&nbsp;조선일보대한감염학회 \"고령층·고위험군, RSV 백신 접종 고려해야\"&nbsp;&nbsp;네이트\"50세 이상 고위험군, RSV 백신을…성인 예방접종 권고\"&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15WTVJNEFCdk0xV2Y3X2FVY0xsSGVkczUzUlR4eDdJTktqM1U3Mm9lSlF2aEt2QUNYcFNtSFp4R09BV2FQeHFWYnZIUjlCNzRzaVNVRlN0S2RqQdIBX0FVX3lxTE5sV1FTcFFzcTI5V2lzTmhXM0xJVi1PRHQ2djZRWDZxUy13QTBZdTR2RXZmNVgwMkowUFlRaW0zY04tVENqZjBJYUNyY3Fra1FtNmZ6dmRJM1V3VnNFeXJV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9dee4ae36d94",
+      "title": "김경수 열린사랑의원 원장, 구조·기능·의식의 균형으로 자율신경실조증 치료의 새로운 길을 제시하다 - 위클리피플 인물지식가이드저널",
+      "published": "2026-03-25T05:22:17+00:00",
+      "summary": "김경수 열린사랑의원 원장, 구조·기능·의식의 균형으로 자율신경실조증 치료의 새로운 길을 제시하다&nbsp;&nbsp;위클리피플 인물지식가이드저널",
+      "sources": [
+        {
+          "name": "위클리피플 인물지식가이드저널",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XckhwN21HdHEtMDB4WXJhak9GanpJamtpZnRaRUhVVnVTSE1UWVROQnNFX0p3aXpUeUFPcGxhVlFVTy1HRnM2RGhtQjNtTDE3NE5oVUFTNVhwZw?oc=5"
         }
       ]
     },
@@ -30,50 +78,26 @@
       ]
     },
     {
-      "id": "d16d191067a3",
-      "title": "대한감염학회 “고령층·고위험군, RSV 백신 접종 고려해야” - 코메디닷컴",
-      "published": "2026-03-25T03:39:00+00:00",
-      "summary": "대한감염학회 “고령층·고위험군, RSV 백신 접종 고려해야”&nbsp;&nbsp;코메디닷컴50대 이상 고위험군과 75세 이상 모든 성인··· ‘RSV’ 예방접종 받으세요&nbsp;&nbsp;경향신문“감기인 줄 알았는데 사망률이 독감 3배”…대한감염학회, 50세 이상 RSV 백신 권고&nbsp;&nbsp;v.daum.net대한감염학회, RSV 백신 접종 권고… 성인예방접종 가이드라인 개정&nbsp;&nbsp;조선일보대한감염학회 \"고령층·고위험군, RSV 백신 접종 고려해야\"&nbsp;&nbsp;네이트",
+      "id": "4d23eaa0ce64",
+      "title": "“11분 더 자고, 채소 한 줌 더”…작은 변화 3가지, 심장병 위험 낮춘다 - 코메디닷컴",
+      "published": "2026-03-25T02:28:00+00:00",
+      "summary": "“11분 더 자고, 채소 한 줌 더”…작은 변화 3가지, 심장병 위험 낮춘다&nbsp;&nbsp;코메디닷컴11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다&nbsp;&nbsp;조선일보하루 11분 더 자고, 4분 더 걸었더니…심장병 위험 '뚝'&nbsp;&nbsp;뉴시스20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;네이트“아침 7~8시 운동이 최고”… ‘이 질환’ 위험 쑥 내려갔다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfTjlleDRsQllEYWZGcDRiNGs4cGU3cTRHeWZyM0VGa0NOaWZGZ0JZdW9pVzBrOUNDU1dIaGlaQ2t5QQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0RkdrcFBMZ3FyVGJ0ZXNrbmxJcnRubmdyNUJ4a0xJRGswOXdaSDlFd3ZhNTd3Tzk0WEpnYU1FWDVNdw?oc=5"
         }
       ]
     },
     {
-      "id": "c48d4fd167d4",
-      "title": "장수 전문가가 뽑은 ‘저속노화’ 식품 1위는… - 레이디경향",
-      "published": "2026-03-25T03:33:00+00:00",
-      "summary": "장수 전문가가 뽑은 ‘저속노화’ 식품 1위는…&nbsp;&nbsp;레이디경향‘영국식 아침식사’가 노화 막는다던데… 뭐야?&nbsp;&nbsp;조선일보조기 노화를 늦추는 데 도움이되는 건강한 영양 섭취의 비밀&nbsp;&nbsp;VOI.id",
+      "id": "fff7a751c477",
+      "title": "IBS, 뇌가 세상을 효율적으로 이해하는 원리 규명 - 충청뉴스",
+      "published": "2026-03-25T02:04:11+00:00",
+      "summary": "IBS, 뇌가 세상을 효율적으로 이해하는 원리 규명&nbsp;&nbsp;충청뉴스IBS '복잡한 시각정보 한눈에 정리하는 뇌의 전략' 규명&nbsp;&nbsp;뉴시스수천개 나뭇잎 흔들릴 때, 뇌 정보 요약→\"저쪽으로 부는구나\" [지금은 과학]&nbsp;&nbsp;v.daum.net[쿠키과학] '수백 개 나뭇잎 움직임 한 번에 파악하는 비밀'…IBS, 뇌 '압축 전략' 규명&nbsp;&nbsp;네이트복잡한 장면도 한눈에 파악…‘뇌 구동전략’ 원리 밝혔다&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
-          "name": "레이디경향",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByQzlSdkpTVFN4V0dMWm1aWUJSbFllZU51T2drZ1pGMmtNOTVidjNGNzFTUDB1OWstbVVaYWo4dkd0RUJ5cERjRzBtWGpoVVhvNE5XbVhWVDlja1VvZXdiNVZ2TWE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f5482ca4563",
-      "title": "스마트폰으로 안면마비 진단·재활…AI 플랫폼 개발 착수 - 쿠키메디",
-      "published": "2026-03-25T02:21:27+00:00",
-      "summary": "스마트폰으로 안면마비 진단·재활…AI 플랫폼 개발 착수&nbsp;&nbsp;쿠키메디Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "쿠키메디",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WUUlSbHVaX25NWUdrYzZnMFZyTXNPVmZlc2lTaVB3d0l3dFBrRzR4S01OcWpRVGh4cEJuQTJvSGNhYzEzb2p3VGdBWThwcm55dEVyMEtMcTVqcGhuTzY0SzR5WXA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57fa495d6ce6",
-      "title": "주1회 ‘이 행동’, 치매 위험 낮춘다 - 조선일보",
-      "published": "2026-03-25T01:39:00+00:00",
-      "summary": "주1회 ‘이 행동’, 치매 위험 낮춘다&nbsp;&nbsp;조선일보[건강포커스] \"노년층 주 1회만 집에서 직접 요리해도 치매 위험 30% 감소\"&nbsp;&nbsp;v.daum.net서툴러도 ‘직접’ 요리하는 노인 살펴보니…‘이병’ 위험 현저히 낮았다&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSRkI2QVFwV2E1c3FwQ096U2xNMW5kWjhsMGhXaWtOSGtsaFh2czM4Yk5iUnM3NlZ6NFNwVjFmWlhPdktfT1pqRlNNV2VRY3hrQU8tSjFIWkZEYzdiWDJrX3ByMll3N09hbTh3ZkRXX2RuNDUyVVE?oc=5"
+          "name": "충청뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yS1kwWlNYZ3MyU3IzYzZ0cF9IS1lhOV9EdDR6Ni16dEUxUXJVQVF1WUtMRU8yOWMzc0UyOXNqa0ZPTF9rNFN2ZnI4dTBuVnFlbFpfQmRjYlRUelN6RDZiRUQ1LTIwUVJoLUR1WA?oc=5"
         }
       ]
     },
@@ -102,10 +126,10 @@
       ]
     },
     {
-      "id": "104bc84e4ca4",
-      "title": "[창강 72주년] 40Hz 진동이 만든 뇌 속 소용돌이…아리바이오,치매 치료 새 길 연다 - 약업신문",
-      "published": "2026-03-24T21:03:00+00:00",
-      "summary": "[창강 72주년] 40Hz 진동이 만든 뇌 속 소용돌이…아리바이오,치매 치료 새 길 연다&nbsp;&nbsp;약업신문",
+      "id": "39d4cfc24082",
+      "title": "[창간 72주년] 40Hz 진동이 만든 뇌 속 소용돌이…아리바이오,치매 치료 새 길 연다 - 약업신문",
+      "published": "2026-03-24T21:04:56+00:00",
+      "summary": "[창간 72주년] 40Hz 진동이 만든 뇌 속 소용돌이…아리바이오,치매 치료 새 길 연다&nbsp;&nbsp;약업신문",
       "sources": [
         {
           "name": "약업신문",
@@ -141,11 +165,23 @@
       "id": "a18993899cfa",
       "title": "‘인지력 기억력 포스파티딜세린 징코’ 70% 할인 - 동아일보",
       "published": "2026-03-24T19:30:00+00:00",
-      "summary": "‘인지력 기억력 포스파티딜세린 징코’ 70% 할인&nbsp;&nbsp;동아일보뇌 인지 기능 저하는 ‘관리’가 중요… 포스파티딜세린 주목&nbsp;&nbsp;v.daum.net사라지는 내 기억력 … 자식은 간병·우울증·경제 부담 삼중고 [Health&]&nbsp;&nbsp;미주중앙일보위바이옴, 두뇌·혈당 복합 기능성 ‘두뇌엔 닥터PS 70 혈당케어’ 선보여&nbsp;&nbsp;글로벌에픽국내 생산 최대 순도 포스파티딜세린과 은행잎 추출물로 기억력·인지력 보호&nbsp;&nbsp;조선일보",
+      "summary": "‘인지력 기억력 포스파티딜세린 징코’ 70% 할인&nbsp;&nbsp;동아일보뇌 인지 기능 저하는 ‘관리’가 중요… 포스파티딜세린 주목&nbsp;&nbsp;v.daum.net웰리카, 순도 80% ‘두뇌업PS’ 출시, 프리미엄 뇌영양제 시장 공략&nbsp;&nbsp;위즈뉴스사라지는 내 기억력 … 자식은 간병·우울증·경제 부담 삼중고 [Health&]&nbsp;&nbsp;미주중앙일보위바이옴, 두뇌·혈당 복합 기능성 ‘두뇌엔 닥터PS 70 혈당케어’ 선보여&nbsp;&nbsp;글로벌에픽",
       "sources": [
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mc2tISDV1VERNUWI5R1lMMFVGeENUMXUzRWthZ3pkdGkxNm9ndjdGdkN6RjhNdUdGUmFxclREdXgyc3RDM3ZUd2gxbjhkWnNHbC1WRW10NGRBTmhnSGJ6YVk0aUN0TWhxaTdJU1NUc9IBZkFVX3lxTE9wcFI1c08yaTdtNEN6c1d6SHZxWXJieXhkQ1BIRXphYlJydDk5MWhCVjdhYUhUcGRBOThndHY3alFyZzVYTVBMd0p6TEtITm56cnRkNHV2ZUx5MFIxU1RtcF9NYm1pQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e95fb0d6d1a7",
+      "title": "“신약 개발 과정서 동물 실험 축소”… 美 FDA 가이드라인 초안 마련 - 조선일보",
+      "published": "2026-03-24T15:39:28+00:00",
+      "summary": "“신약 개발 과정서 동물 실험 축소”… 美 FDA 가이드라인 초안 마련&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1pVcmZhTUt2eHNMd2FHMlNCOWw5b29nUlFIbDk4cnBHMW5obUpHemQyMjhsZlhQRWZ0N3N3NDRwYi1BYXFkbFZIZmowem5JRVk0SFBWY0pxbWpxLXMyYTVBbTBBRHFIbUstSDJISFRsVFIzaDlZd29SVnNTZFdRRFZPONIBlwFBVV95cUxNcXk2b0ZKY2JPQ3VsbTN4QXNYcE9oVTV4bGRXaDFXR25NVUs3VnhHTXZwOGRUb1VMYVlOZXFNSHhtSmZESzVOUHBNbkpQRTEwNV84WFBMZWw5ZGtOdHFGdlBhY1RoTzBxUk9JVkk2Q1dKSU1KZHBtZWFpMjRITmdaa1c5SnpueXBoWEdWLU10M21rcmtyVXM4?oc=5"
         }
       ]
     },
@@ -158,18 +194,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelN0Sk9hNkliekxaTzM5b2lFZFFDS083NEVSZmZfVTJIZ1BENnZXQTc1bDZFS3VhUTJaTWZvZzZ2dkYyTURmcmJQV202OTUzaURlNkFTSFJuN1kwcW0weVJVVmwwQUJOUTRLSko0RmFMSUlDdEdHc21mV2lkZFAza1FKZ9IBlwFBVV95cUxNWU9tS2hENjNfVFpfdkZaQ0lNVUpFbGVlOEV6T09BdVpKNS1pdTF4NllIX3R5RmwyS1Fybkh1eFlxRE1HdDJmY3dyNGE0YllJNWtsU2twSGpuazdMbThONnVQeUY3ZFczZGoyTkVsd1FfRmhmZnNPc2JOM1pvbXNibTZPSTJiNHlDSk96ZUZMU0prMjZVWUlF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e95fb0d6d1a7",
-      "title": "“신약 개발 과정서 동물 실험 축소”… 美 FDA 가이드라인 초안 마련 - 조선일보",
-      "published": "2026-03-24T15:36:00+00:00",
-      "summary": "“신약 개발 과정서 동물 실험 축소”… 美 FDA 가이드라인 초안 마련&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1pVcmZhTUt2eHNMd2FHMlNCOWw5b29nUlFIbDk4cnBHMW5obUpHemQyMjhsZlhQRWZ0N3N3NDRwYi1BYXFkbFZIZmowem5JRVk0SFBWY0pxbWpxLXMyYTVBbTBBRHFIbUstSDJISFRsVFIzaDlZd29SVnNTZFdRRFZPONIBlwFBVV95cUxNcXk2b0ZKY2JPQ3VsbTN4QXNYcE9oVTV4bGRXaDFXR25NVUs3VnhHTXZwOGRUb1VMYVlOZXFNSHhtSmZESzVOUHBNbkpQRTEwNV84WFBMZWw5ZGtOdHFGdlBhY1RoTzBxUk9JVkk2Q1dKSU1KZHBtZWFpMjRITmdaa1c5SnpueXBoWEdWLU10M21rcmtyVXM4?oc=5"
         }
       ]
     },
@@ -246,6 +270,18 @@
       ]
     },
     {
+      "id": "b3356f417e56",
+      "title": "IBM 연구진, 양자컴퓨터로 복잡한 분자 속 전자 해독 - 주간동아",
+      "published": "2026-03-24T08:00:02+00:00",
+      "summary": "IBM 연구진, 양자컴퓨터로 복잡한 분자 속 전자 해독&nbsp;&nbsp;주간동아",
+      "sources": [
+        {
+          "name": "주간동아",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5eUxGZFdnRC05VEdvVnk5NVQ1cUhqOW5QVVJlcEtOeVJEbUJFYmUyeS1pUWFYamNLLU05azhzVF9wSDk5d1FVYTFVR3JLOTJyRVhuYTBvVG14eGp4S2R2eDZYWkZfektu?oc=5"
+        }
+      ]
+    },
+    {
       "id": "335e36a06b21",
       "title": "피 한 방울로 치매 구별 가능성…단백질 ‘양’ 아닌 ‘접힌 상태’가 갈랐다 - 코메디닷컴",
       "published": "2026-03-24T07:05:00+00:00",
@@ -270,14 +306,14 @@
       ]
     },
     {
-      "id": "2cce8afbfefc",
-      "title": "\"투명의자 자세가 런닝보다 혈압 낮추는 효과 더 커\" - v.daum.net",
-      "published": "2026-03-24T05:53:54+00:00",
-      "summary": "\"투명의자 자세가 런닝보다 혈압 낮추는 효과 더 커\"&nbsp;&nbsp;v.daum.net",
+      "id": "28d377e8acee",
+      "title": "\"투명의자 자세가 런닝보다 혈압 낮추는 효과 더 커\" - 동아사이언스",
+      "published": "2026-03-24T05:51:00+00:00",
+      "summary": "\"투명의자 자세가 런닝보다 혈압 낮추는 효과 더 커\"&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iQXFIeGU4a2UwUEFiUWFKbUx1T3lSZ0tnTDNJS0pFTEV5Mk9Ta2NtMzJZclpYajFhOGZhVVBlVU9PVTB0eXh5RUFwU1JhYTA?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4eWhjNTgtaERfQWRyNEZjTXN4NmZ0R3ZzR0FIYXY3LUJoRlZCNzZYWTM1UzR0Y0xsdUFfTFlvd3ZtYmNaTm9uMG1nU2FZc2JE?oc=5"
         }
       ]
     },
@@ -354,18 +390,6 @@
       ]
     },
     {
-      "id": "09b1c5bc8891",
-      "title": "‘찬란한 봄햇살’ 눈 건강엔 치명적…“선글라스 챙기세요” - 동아일보",
-      "published": "2026-03-24T01:47:29+00:00",
-      "summary": "‘찬란한 봄햇살’ 눈 건강엔 치명적…“선글라스 챙기세요”&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RQk9GWjVDQWpBTWliZVplYU1ibFRxZ0tORGdyWnJTdlhkM2FRUjVRMndyX0otTzRMU1FoU29iYzA3Q0tFY2hVSHIwZzZuel95WFU0d0xyeWRmYkM4dDZGemRHVjV3clgxdW9Rc1lmTEFZSFdCSlHSAWZBVV95cUxOcG9SY2M2Y3FfNUlvYW8tNlB0akZUNUVXeHMyeklBZEN3eU1sa09ISUI4WmdHRExvREJfT2VxQnVmclpOelczSjNCYnppQVlacDBlWHIwRUxvUmNqX25YRTh1bHhnemc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ec8903503ce8",
       "title": "자꾸 재발하는 세균성 질염 막는 데 ‘이 방법’ 효과 - 조선일보",
       "published": "2026-03-24T01:40:00+00:00",
@@ -402,26 +426,14 @@
       ]
     },
     {
-      "id": "b7cbd9552087",
-      "title": "뇌 노화 ‘2년 반’ 늦추는 마인드 식단, 뭐야? - 조선일보",
-      "published": "2026-03-23T13:40:00+00:00",
-      "summary": "뇌 노화 ‘2년 반’ 늦추는 마인드 식단, 뭐야?&nbsp;&nbsp;조선일보DASH 식단, 인지건강 효과 두드러져…치매 위험 낮출 가능성 주목&nbsp;&nbsp;thepowernews.co.kr“식단에 3가지 늘리고 3가지 줄여라”…10년 간 뇌 노화 늦춘다, 뭐길래?&nbsp;&nbsp;코메디닷컴지치지 않고 성장하는 뇌 만드는 결정적 습관 뭘까?&nbsp;&nbsp;휴먼에이드포스트22화 나이가 들수록 능동적인 활동이 필요한 이유는?&nbsp;&nbsp;브런치",
+      "id": "bd44fc576a4f",
+      "title": "“고혈압, 혈관 아닌 뇌가 원인일 수도”… 뇌간 특정 부위와 연관성 발견 - KJB광주방송",
+      "published": "2026-03-23T13:32:00+00:00",
+      "summary": "“고혈압, 혈관 아닌 뇌가 원인일 수도”… 뇌간 특정 부위와 연관성 발견&nbsp;&nbsp;KJB광주방송",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iMTdmRHVESmtGVHkxODNLYUxCMHJEek1OMHF2c25PSmFKWGZkdnEtMDk3N2xscGs3c2huMjZxQUcyRHlReTVNaXlCaGhxbnpsVnR4OGk3LVpqelJHTWZlY1lfWUxaenl1NW9kTXBPb1hDUXJWeVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e814e0d455e7",
-      "title": "“고혈압 원인, 신장 아닌 뇌?”…뉴질랜드 연구진, 뇌간 특정 부위 지목 - 글로벌이코노믹",
-      "published": "2026-03-23T12:42:50+00:00",
-      "summary": "“고혈압 원인, 신장 아닌 뇌?”…뉴질랜드 연구진, 뇌간 특정 부위 지목&nbsp;&nbsp;글로벌이코노믹",
-      "sources": [
-        {
-          "name": "글로벌이코노믹",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGEya0dMTTc1b0d1anNVWnR1OGFJV3M4T3NPdXVMMnNvUWcyNmNENE82ajJybVlYTDVpc0VVOVVTaklFWG9Zak1xUlFsSlh3UHdIQTFESndiaEo5V3g3czlpTXNicmdWalVzb3FpT1U1Y1BzbVYxZFh0UXBGN1ZlUWNIclNaTEdE?oc=5"
+          "name": "KJB광주방송",
+          "link": "https://news.google.com/rss/articles/CBMiNEFVX3lxTE5TUlpld041REpKOFd5N2ZKNmNFMS13NzdRRVhvdDhJMDNtaEhiT0lzU1FsTHA?oc=5"
         }
       ]
     },
@@ -446,54 +458,6 @@
         {
           "name": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLdlpnS29BLU00elBMOGwtSWU5WjI2TDdVWVlUVFhZZmVMaTE4WkR0RnNnajY2dmFEUHBfeUhvQkRFVlZDOFJVS1lkYXVJbEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e0d476a0a49",
-      "title": "씨젠, '유로진 2026'서 자궁경부암 선별 위한 심포지엄 진행 - 뉴스포스트",
-      "published": "2026-03-23T08:13:08+00:00",
-      "summary": "씨젠, '유로진 2026'서 자궁경부암 선별 위한 심포지엄 진행&nbsp;&nbsp;뉴스포스트[제약바이오 소식] 씨젠, HPV 개별 유전형 분석해 자궁경부암 선별&nbsp;&nbsp;한겨레씨젠, 유로진 2026서 ‘HPV 개별 유전형 분석’ 전략 공개&nbsp;&nbsp;헤럴드경제씨젠, '유로진 2026' 참가…\"HPV 개별유전형 기반 진단솔루션 마케팅\"&nbsp;&nbsp;mt.co.kr[위클리오늘] 산업일반_소식_씨젠, 이랜드(3.23)&nbsp;&nbsp;위클리오늘",
-      "sources": [
-        {
-          "name": "뉴스포스트",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fWlNTZHdSVURNdldUbndoSERCNElWQnpJNVRhdTNacDJMeDlqckVSQnpCaUxMYlhTZUg5UzFONTQwZ0toVkZ3a1ByM1FZUVdRdFBWdFlVSGtpODNRRGRnSHdyanRfNFVf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25af7c5af758",
-      "title": "감염병 앓은 지 60일 내 소아, 뇌졸중 위험 2.5배 높아 - 하이닥",
-      "published": "2026-03-23T08:00:00+00:00",
-      "summary": "감염병 앓은 지 60일 내 소아, 뇌졸중 위험 2.5배 높아&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nOHN0cUpkV3l1anE0WlkxRFB3bGs2Z0dxUGFKUjN6ZjNxaWdPdFZOVmpwaXVSa0Q1WGZNUy1yVnNial9weTRLeUpvUnVCQnlGZzlXdHAxOUx3bllhaGF1VXEzSEoyaHVGbXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f9a8b4069a0",
-      "title": "음료 나눠 마셨다가 날벼락, 英 대학가 수막구균 B형 공포에 1만 명 항생제 처방 - 24news.kr",
-      "published": "2026-03-23T07:50:28+00:00",
-      "summary": "음료 나눠 마셨다가 날벼락, 英 대학가 수막구균 B형 공포에 1만 명 항생제 처방&nbsp;&nbsp;24news.kr영국서 청년층 뇌수막염 집단 발생…2명 사망&nbsp;&nbsp;v.daum.net기사 - 영국 브리핑 59 : 영국발 뇌수막염 공포의 이면&nbsp;&nbsp;ddanzi.com영국 수막염 확산, 면역 공백의 역설&nbsp;&nbsp;환경감시일보영국에서 두 명이 사망하고 뇌수막염 사례 증가&nbsp;&nbsp;VOI.id",
-      "sources": [
-        {
-          "name": "24news.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wNVhzMC1LTWRtN1M1RUNiNWEzUkwtbk1Yb2ZnMDliejBhSFJFVDlPLV9POUlla0hmNFE1cHlOd1lxUV9pSUhHZ2VhMzc5WUx4aEVRUG42NzFYYVJGUTQ2aVcwMFlnNnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fc79698e620",
-      "title": "사우나 건강효과 이 정도였다니…치매·심혈관·호흡기 질환에 우울증까지 막아 - 코메디닷컴",
-      "published": "2026-03-23T05:17:00+00:00",
-      "summary": "사우나 건강효과 이 정도였다니…치매·심혈관·호흡기 질환에 우울증까지 막아&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KX09mODNEN0llZkJHS2dnZVNiWmdGVXAxckl4RDJRZDhlY3Zab084V09rb3o5cURnek5oMmctMXFkZw?oc=5"
         }
       ]
     },
