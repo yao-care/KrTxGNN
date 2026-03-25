@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-25T13:19:24.330987+00:00",
-  "total_fetched": 79,
-  "unique_count": 79,
-  "health_related_count": 40,
+  "fetched_at": "2026-03-25T19:00:27.555740+00:00",
+  "total_fetched": 76,
+  "unique_count": 76,
+  "health_related_count": 41,
   "news": [
+    {
+      "id": "ffc3f75e9d4e",
+      "title": "박테리아의 유전자와 대사체의 융합 분석 기반 항암제 내성 췌장암 극복 신약 선도물질 발굴 - 보도자료 - 뉴스 - 서울대 소식 - 서울대학교",
+      "published": "2026-03-25T16:04:12+00:00",
+      "summary": "박테리아의 유전자와 대사체의 융합 분석 기반 항암제 내성 췌장암 극복 신약 선도물질 발굴 - 보도자료 - 뉴스 - 서울대 소식&nbsp;&nbsp;서울대학교",
+      "sources": [
+        {
+          "name": "서울대학교",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0tdl9qZEwxVnc1eTlIVVBKXzFwdHJVOE1CUmhjMU1aNk1KWXIzMDEtMHdmZzBDU0d1QmRnMjRjTVN6X0J6ckJNdEJSaHBOYTNWRUdvdS04TmRqWmI2NGhva1RNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6f5f0dfedd7",
+      "title": "동맥경화 관련 질병, 심장서 뇌로 옮겨간다 - 조선일보",
+      "published": "2026-03-25T15:42:00+00:00",
+      "summary": "동맥경화 관련 질병, 심장서 뇌로 옮겨간다&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhTGllcVotVGlFa3FYMFhTQ1pucklGZmJWSmRVQ196RlE4YldSNTFnZU40enUxTkhNeE81S3lnZE9BRG9CSUpFeGE4dWxHYUlnYjBRVzhGYkJaTVRoNVp6ampkUGI4a1NBTUo1dkNwS1pGWEZBcmFFZNIBjAFBVV95cUxNeU1reXk4Y3dJd2VZaDh2ZjhwVVhpb1NtSDc2ZkVVTVVUcklQS2M2djYxN01sSmc1X0I4d2tkQkgwYno5WjktekFHVER6TDRnLXBZYndHOUt2QTZWQmpNamRqNlp5NGpqbDFQS01FNUJzWTlSby01enQ3VnJQbzBwSmlyNmx4dkFaTTdmag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9df081b076a",
+      "title": "대한감염학회, 성인 RSV 백신 접종 가이드라인 개정안 발표 - 메드월드뉴스",
+      "published": "2026-03-25T13:33:50+00:00",
+      "summary": "대한감염학회, 성인 RSV 백신 접종 가이드라인 개정안 발표&nbsp;&nbsp;메드월드뉴스50대 이상 고위험군과 75세 이상 모든 성인··· ‘RSV’ 예방접종 받으세요&nbsp;&nbsp;경향신문“감기인 줄 알았는데 사망률이 독감 3배”…대한감염학회, 50세 이상 RSV 백신 권고&nbsp;&nbsp;v.daum.net\"50세 이상 고위험군, RSV 백신을…성인 예방접종 권고\"&nbsp;&nbsp;뉴시스대한감염학회, RSV 백신 접종 권고… 성인예방접종 가이드라인 개정&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GbWRuOTE2c1V4MlBhWmV5XzNJLWZEWXBGcUlQZFNPQ2psMkx3eklQV2VwdHNyTmN5clY1d3BQN2JieW9XRkFlQkFaRjc3Mk1yTW5VNkRGTFJJM202cnpzWmxQTFRFUEk?oc=5"
+        }
+      ]
+    },
     {
       "id": "adef2c3caeb6",
       "title": "운동·혈압·콜레스테롤 관리했지만...치매 고위험군 인지 개선 “글세” - 디멘시아뉴스",
@@ -42,18 +78,6 @@
       ]
     },
     {
-      "id": "035eb173442d",
-      "title": "50대 이상 고위험군과 75세 이상 모든 성인··· ‘RSV’ 예방접종 받으세요 - 경향신문",
-      "published": "2026-03-25T05:48:00+00:00",
-      "summary": "50대 이상 고위험군과 75세 이상 모든 성인··· ‘RSV’ 예방접종 받으세요&nbsp;&nbsp;경향신문“감기인 줄 알았는데 사망률이 독감 3배”…대한감염학회, 50세 이상 RSV 백신 권고&nbsp;&nbsp;v.daum.net대한감염학회, RSV 백신 접종 권고… 성인예방접종 가이드라인 개정&nbsp;&nbsp;조선일보대한감염학회 \"고령층·고위험군, RSV 백신 접종 고려해야\"&nbsp;&nbsp;네이트\"50세 이상 고위험군, RSV 백신을…성인 예방접종 권고\"&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15WTVJNEFCdk0xV2Y3X2FVY0xsSGVkczUzUlR4eDdJTktqM1U3Mm9lSlF2aEt2QUNYcFNtSFp4R09BV2FQeHFWYnZIUjlCNzRzaVNVRlN0S2RqQdIBX0FVX3lxTE5sV1FTcFFzcTI5V2lzTmhXM0xJVi1PRHQ2djZRWDZxUy13QTBZdTR2RXZmNVgwMkowUFlRaW0zY04tVENqZjBJYUNyY3Fra1FtNmZ6dmRJM1V3VnNFeXJV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9dee4ae36d94",
       "title": "김경수 열린사랑의원 원장, 구조·기능·의식의 균형으로 자율신경실조증 치료의 새로운 길을 제시하다 - 위클리피플 인물지식가이드저널",
       "published": "2026-03-25T05:22:17+00:00",
@@ -81,7 +105,7 @@
       "id": "4d23eaa0ce64",
       "title": "“11분 더 자고, 채소 한 줌 더”…작은 변화 3가지, 심장병 위험 낮춘다 - 코메디닷컴",
       "published": "2026-03-25T02:28:00+00:00",
-      "summary": "“11분 더 자고, 채소 한 줌 더”…작은 변화 3가지, 심장병 위험 낮춘다&nbsp;&nbsp;코메디닷컴11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다&nbsp;&nbsp;조선일보하루 11분 더 자고, 4분 더 걸었더니…심장병 위험 '뚝'&nbsp;&nbsp;뉴시스20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;네이트“아침 7~8시 운동이 최고”… ‘이 질환’ 위험 쑥 내려갔다&nbsp;&nbsp;코메디닷컴",
+      "summary": "“11분 더 자고, 채소 한 줌 더”…작은 변화 3가지, 심장병 위험 낮춘다&nbsp;&nbsp;코메디닷컴11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다&nbsp;&nbsp;조선일보\"사람은 끝까지 성장한다\"…백지연의 '중년을 위한 아침 루틴'&nbsp;&nbsp;뉴시스매일 11분 더 잤더니 일어난 놀라운 변화…\"심장병 위험 10% 감소\"&nbsp;&nbsp;아시아경제20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -90,14 +114,14 @@
       ]
     },
     {
-      "id": "fff7a751c477",
-      "title": "IBS, 뇌가 세상을 효율적으로 이해하는 원리 규명 - 충청뉴스",
-      "published": "2026-03-25T02:04:11+00:00",
-      "summary": "IBS, 뇌가 세상을 효율적으로 이해하는 원리 규명&nbsp;&nbsp;충청뉴스IBS '복잡한 시각정보 한눈에 정리하는 뇌의 전략' 규명&nbsp;&nbsp;뉴시스수천개 나뭇잎 흔들릴 때, 뇌 정보 요약→\"저쪽으로 부는구나\" [지금은 과학]&nbsp;&nbsp;v.daum.net[쿠키과학] '수백 개 나뭇잎 움직임 한 번에 파악하는 비밀'…IBS, 뇌 '압축 전략' 규명&nbsp;&nbsp;네이트복잡한 장면도 한눈에 파악…‘뇌 구동전략’ 원리 밝혔다&nbsp;&nbsp;헤럴드경제",
+      "id": "3c35c5fafd0b",
+      "title": "흔들리는 나뭇잎 보며 바람 방향 알아채는 뇌의 전략 찾았다 - 동아사이언스",
+      "published": "2026-03-25T02:06:00+00:00",
+      "summary": "흔들리는 나뭇잎 보며 바람 방향 알아채는 뇌의 전략 찾았다&nbsp;&nbsp;동아사이언스IBS '복잡한 시각정보 한눈에 정리하는 뇌의 전략' 규명&nbsp;&nbsp;뉴시스수천개 나뭇잎 흔들릴 때, 뇌 정보 요약→\"저쪽으로 부는구나\" [지금은 과학]&nbsp;&nbsp;v.daum.net복잡한 장면도 한눈에 파악…‘뇌 구동전략’ 원리 밝혔다&nbsp;&nbsp;헤럴드경제복잡한 장면도 한번에 ‘읽어내는’ 뇌의 전략 밝혀졌다&nbsp;&nbsp;매일경제",
       "sources": [
         {
-          "name": "충청뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yS1kwWlNYZ3MyU3IzYzZ0cF9IS1lhOV9EdDR6Ni16dEUxUXJVQVF1WUtMRU8yOWMzc0UyOXNqa0ZPTF9rNFN2ZnI4dTBuVnFlbFpfQmRjYlRUelN6RDZiRUQ1LTIwUVJoLUR1WA?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTOVFVNEhSb3ZERXdVVGlVZTdEVmVKcFNYUWU4WWs3anlDbmtYNjhUeE1VMWZrN0N6U2hBalA1dHVXSE1RajI2RHlZekFSYWc?oc=5"
         }
       ]
     },
@@ -174,6 +198,18 @@
       ]
     },
     {
+      "id": "f91a690dc542",
+      "title": "美, 단 한 번 투여로 각막 상처 지속 치료… ‘살아있는 안약’ 개발 - 조선일보",
+      "published": "2026-03-24T15:39:28+00:00",
+      "summary": "美, 단 한 번 투여로 각막 상처 지속 치료… ‘살아있는 안약’ 개발&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelN0Sk9hNkliekxaTzM5b2lFZFFDS083NEVSZmZfVTJIZ1BENnZXQTc1bDZFS3VhUTJaTWZvZzZ2dkYyTURmcmJQV202OTUzaURlNkFTSFJuN1kwcW0weVJVVmwwQUJOUTRLSko0RmFMSUlDdEdHc21mV2lkZFAza1FKZ9IBlwFBVV95cUxNWU9tS2hENjNfVFpfdkZaQ0lNVUpFbGVlOEV6T09BdVpKNS1pdTF4NllIX3R5RmwyS1Fybkh1eFlxRE1HdDJmY3dyNGE0YllJNWtsU2twSGpuazdMbThONnVQeUY3ZFczZGoyTkVsd1FfRmhmZnNPc2JOM1pvbXNibTZPSTJiNHlDSk96ZUZMU0prMjZVWUlF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e95fb0d6d1a7",
       "title": "“신약 개발 과정서 동물 실험 축소”… 美 FDA 가이드라인 초안 마련 - 조선일보",
       "published": "2026-03-24T15:39:28+00:00",
@@ -186,22 +222,10 @@
       ]
     },
     {
-      "id": "f91a690dc542",
-      "title": "美, 단 한 번 투여로 각막 상처 지속 치료… ‘살아있는 안약’ 개발 - 조선일보",
-      "published": "2026-03-24T15:36:00+00:00",
-      "summary": "美, 단 한 번 투여로 각막 상처 지속 치료… ‘살아있는 안약’ 개발&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelN0Sk9hNkliekxaTzM5b2lFZFFDS083NEVSZmZfVTJIZ1BENnZXQTc1bDZFS3VhUTJaTWZvZzZ2dkYyTURmcmJQV202OTUzaURlNkFTSFJuN1kwcW0weVJVVmwwQUJOUTRLSko0RmFMSUlDdEdHc21mV2lkZFAza1FKZ9IBlwFBVV95cUxNWU9tS2hENjNfVFpfdkZaQ0lNVUpFbGVlOEV6T09BdVpKNS1pdTF4NllIX3R5RmwyS1Fybkh1eFlxRE1HdDJmY3dyNGE0YllJNWtsU2twSGpuazdMbThONnVQeUY3ZFczZGoyTkVsd1FfRmhmZnNPc2JOM1pvbXNibTZPSTJiNHlDSk96ZUZMU0prMjZVWUlF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7b5ce608428d",
       "title": "통증·냄새 탓 병원 가니, 질에서 4주간 방치된 ‘이것’ 나왔다 - 조선일보",
       "published": "2026-03-24T14:00:00+00:00",
-      "summary": "통증·냄새 탓 병원 가니, 질에서 4주간 방치된 ‘이것’ 나왔다&nbsp;&nbsp;조선일보\"금속 냄새 난 이유 있었다\"…英 여성 몸속 검게 변한 '탐폰' 충격&nbsp;&nbsp;뉴시스\"이상한 냄새, 그냥 넘겼는데\"…몸속에서 검게 변한 '이것' 뭘까?&nbsp;&nbsp;네이트몸 속 검게 변한 'OO'이...30대女 \"쇼크올 뻔\"&nbsp;&nbsp;데일리안",
+      "summary": "통증·냄새 탓 병원 가니, 질에서 4주간 방치된 ‘이것’ 나왔다&nbsp;&nbsp;조선일보\"금속 냄새 난 이유 있었다\"…英 여성 몸속 검게 변한 '탐폰' 충격&nbsp;&nbsp;뉴시스몸 속 검게 변한 'OO'이…30대女 \"쇼크올 뻔\"&nbsp;&nbsp;네이트“이상한 냄새, 그냥 넘겼는데”...몸속에서 검게 변한 ‘이것’ 뭘까?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "조선일보",
@@ -290,6 +314,18 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55RGczLWwxLUlWQTBlNkh4RDZSc2lYUDJKa19WRWhiajYwWGR3YjhPWUhmeG5aRzBlNDAyaGRmc3U5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6174b7d26521",
+      "title": "[단독] HK이노엔 ‘케이캡’, 中 위식도역류질환 ‘온디맨드’ 시장 굳기히 돌입 - 헬스코리아뉴스",
+      "published": "2026-03-24T06:26:50+00:00",
+      "summary": "[단독] HK이노엔 ‘케이캡’, 中 위식도역류질환 ‘온디맨드’ 시장 굳기히 돌입&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oTFh4YXZBaEhfNWZfNHNKbVZpTEs2YnBoUGd4azMwQ20zc1J0LTVORXVtbUhpcFBjb2xPQVBabHZZQmw1V2EtMnF1ZjJhWEUtYXZiQlN4dDM5eXk2M3J5U2FCcEliRjg?oc=5"
         }
       ]
     },
@@ -422,30 +458,6 @@
         {
           "name": "디지털투데이",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93MkZlVGx3Ul92V25ZdG9lWW05SDRMT2FQX19UR2tQeS1YaTNIZkRhSGFSbW5aalBnT0tVdndMU0JGZ2dQNUxVZTJnZlNTdGJhV2FzTU1UT2ZXeXJuaVJONjhuc2FJRFlCSE5pQVA0alBuNG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd44fc576a4f",
-      "title": "“고혈압, 혈관 아닌 뇌가 원인일 수도”… 뇌간 특정 부위와 연관성 발견 - KJB광주방송",
-      "published": "2026-03-23T13:32:00+00:00",
-      "summary": "“고혈압, 혈관 아닌 뇌가 원인일 수도”… 뇌간 특정 부위와 연관성 발견&nbsp;&nbsp;KJB광주방송",
-      "sources": [
-        {
-          "name": "KJB광주방송",
-          "link": "https://news.google.com/rss/articles/CBMiNEFVX3lxTE5TUlpld041REpKOFd5N2ZKNmNFMS13NzdRRVhvdDhJMDNtaEhiT0lzU1FsTHA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2c8e4fee7ed3",
-      "title": "갑작스런 무리한 운동이 촉발한 ‘경동맥 협착’…뇌경색 진행 위험 - 코리아헬스로그",
-      "published": "2026-03-23T11:39:24+00:00",
-      "summary": "갑작스런 무리한 운동이 촉발한 ‘경동맥 협착’…뇌경색 진행 위험&nbsp;&nbsp;코리아헬스로그",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SQmRHMFJEdkpELWRCdmx2dmM4TW9YNGd2QmJKT3BwMFVZRV9wZTBBMXhCZEhkLVN5VTRYZzl6N1RhY0FVQmYwZ0xldHBXVF9mWUtlSnQtWWs2anRFaUN0bk43MG5wVU1URDJSNDl5b2ZMZ9IBdkFVX3lxTE9UdGNTV0I2ZXBCN1E3Qm52c2ptR1FGeHdLaTh4a2RmLVB4b3ZjcXpHdFllYlNEM3gzQm1FRXZCQTc4UGYwZW93amlJUVFsQkR1aXNUZEFZNDBDcFByREVjSjV4Mm9lazRiVGxkTzJ3a3NRT3BDZlE?oc=5"
         }
       ]
     },
