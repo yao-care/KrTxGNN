@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-03-26T13:25:11.277539+00:00",
-  "total_count": 41,
+  "last_updated": "2026-03-26T19:12:57.166101+00:00",
+  "total_count": 46,
   "matched_count": 0,
   "news": [
+    {
+      "id": "10116a8fdefb",
+      "title": "[이종원의 커뮤니티 광장] 백신을 둘러싼 법정 싸움과 전염병 확산 우려 - 애틀랜타 중앙일보",
+      "published": "2026-03-26T18:11:32+00:00",
+      "summary": "[이종원의 커뮤니티 광장] 백신을 둘러싼 법정 싸움과 전염병 확산 우려&nbsp;&nbsp;애틀랜타 중앙일보",
+      "sources": [
+        {
+          "name": "애틀랜타 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iZ3dEVTFjemhIdUZNaG5BUGVCdlYtdDlld25MNk1sWklZU1kzdVk4aEVfSjVkdl9LMExEQXFXS1VaT3FzU0d3d2ZVSnF6TnM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "267ca8b53743",
+      "title": "알츠하이머 진단, ‘코’를 잘 보라고?!",
+      "published": "2026-03-26T17:00:00+00:00",
+      "summary": "알츠하이머 진단, ‘코’를 잘 보라고?!&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zb1RFR1pvRklSYTdDWVd6MFhEWjV1REVxMUtEbk1LX0NsdXlaOUpXYVpRYUtSaE5ObjFBRVBGbXlFYVdPaVREb09DOTRhLURTTWYxSDB5V0ZGWnlPbFpKTzZIWnNHSFZGTWM0YnF1NDk5ZWZwZlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1bcef0081b0f",
+      "title": "여성 알츠하이머, ‘폐경’이 결정타… 호르몬 치료가 예방의 열쇠",
+      "published": "2026-03-26T13:20:00+00:00",
+      "summary": "여성 알츠하이머, ‘폐경’이 결정타… 호르몬 치료가 예방의 열쇠&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LallQM1JxVEpnekZaWE5xVnkxT2J3ZUNpZTFldnZldUNBNHNheVk5TzE2RVAwVWd4ZU16WDdOaDY3WG5wMmtKbllyQzNYQlhhWG9nakxWNEZIR01TeHpZWDhscC1wQ2F6bHpRZFVDODhmaFRoZVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "65641a5d06e7",
+      "title": "항암력 높이는 저속노화 레시피 2탄 ‘독일식 김치, 사우어크라우트’",
+      "published": "2026-03-26T12:10:12+00:00",
+      "summary": "항암력 높이는 저속노화 레시피 2탄 ‘독일식 김치, 사우어크라우트’&nbsp;&nbsp;K스피릿",
+      "sources": [
+        {
+          "name": "K스피릿",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzaVdBWDJYc0tZb19mQnd1T1kzZWdQV0Foc0ZCZjJRUlFFeDhJLXZzZXpZX1YtU2RMWDVzSHhYUmFMWUhVWTdnZkZHLUpGd2k1b0hwOFM5ekhZR0ZGcTZpMlI3c1ZqZ09kTzJjbjZ4c2XSAXNBVV95cUxNWFBUZzEybzk5ejg2aXhFdGVfV2t0clhKZ0Y5dWN2ZGlXUTJrUUVvajh4em1rZEk0WWs2LTZTQkp6X2pIRDhsTUtqRGs1WlRLRGpYT1RHSHdWQjh0cGZXdVFRcnd0LVlzaXd5dzc0VGhJSWRv?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e6d1c99d7b98",
       "title": "식사 때 ‘이것’만 덜 먹어도… 심장 노화 막는다",
@@ -20,7 +72,7 @@
       "id": "ed9d93745ff7",
       "title": "[먹을까? 말까?(133)] 지중해 식단, 만병통치약은 아니다⋯학계, 뇌 노화 늦춰도 판단 유보",
       "published": "2026-03-26T10:16:08+00:00",
-      "summary": "[먹을까? 말까?(133)] 지중해 식단, 만병통치약은 아니다⋯학계, 뇌 노화 늦춰도 판단 유보&nbsp;&nbsp;포커스온경제[Dr.이은봉의 의학 연구 다이제스트] 고혈압 예방 식단 따랐더니 인지기능도 잘 유지&nbsp;&nbsp;조선일보[신간] 건강하게 나이 드는 법…'뇌는 어떻게 노화를 늦추는가'&nbsp;&nbsp;연합뉴스지중해식 식단 왜 좋나 했더니…세포 속 단백질이 달랐다&nbsp;&nbsp;네이트혈압, 혈당 낮추려고 ‘이 음식’ 자주 먹었더니…체중도 줄어든 이유가?&nbsp;&nbsp;코메디닷컴",
+      "summary": "[먹을까? 말까?(133)] 지중해 식단, 만병통치약은 아니다⋯학계, 뇌 노화 늦춰도 판단 유보&nbsp;&nbsp;포커스온경제[Dr.이은봉의 의학 연구 다이제스트] 고혈압 예방 식단 따랐더니 인지기능도 잘 유지&nbsp;&nbsp;조선일보[신간] 건강하게 나이 드는 법…'뇌는 어떻게 노화를 늦추는가'&nbsp;&nbsp;연합뉴스혈압, 혈당 낮추려고 ‘이 음식’ 자주 먹었더니…체중도 줄어든 이유가?&nbsp;&nbsp;코메디닷컴노화-치매 막는 ‘기적의 K-방울’…바로 나[이설의 한입 스토리]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "포커스온경제",
@@ -43,10 +95,23 @@
       "matched_keywords": []
     },
     {
+      "id": "37b72cb209c1",
+      "title": "\"혈액 속 세포 분석으로 전립선암 전이 가능성 찾는다\"",
+      "published": "2026-03-26T09:22:19+00:00",
+      "summary": "\"혈액 속 세포 분석으로 전립선암 전이 가능성 찾는다\"&nbsp;&nbsp;청년의사전립선암 전이 단서 찾았다… 혈액 속 ‘하이브리드 세포’ 주목&nbsp;&nbsp;BRIC남성암 1위 전립선암, 전이 단서 찾았다… “혈액 속 ‘세포’ 주목”&nbsp;&nbsp;조선일보혈액검사만으로 전립선암 전이 예측…‘하이브리드 순환세포’ 분석&nbsp;&nbsp;v.daum.net남성암 1위 전립선암, '전이 단서' 찾았다…혈액 속 '이 세포' 주목&nbsp;&nbsp;mt.co.kr",
+      "sources": [
+        {
+          "name": "청년의사",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkZDNHTDV0akIteWlSd2N4V2pHWW1HaExvUEgwaTduLTltcUFheDY0aXIyaGkxRkcybVRnbUY0OTZVWEpYZ0ZnWkx2cU84RXN1cDhjM1VtYXZHZ0tPT3RiVmdqQm13cVVVal9JZUstNm3SAXNBVV95cUxOU1MycmhFMWhYXzhaclFRcXRQXzFJV21DaGVfelJHVERQOGFzbzRkWU03Z1NvQTdjVlpwU1pSZFlSR3h4cFQ0cFk5QUFQSG9fOFFLYjlWdnVGa2ttY3BKVUY3b01QOXN1UEZFVFd0WmFISlBn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f735266bc1f8",
       "title": "골절은 골다공증 때문? “호르몬·칼슘 대사 이상 살펴야…”",
       "published": "2026-03-26T09:12:00+00:00",
-      "summary": "골절은 골다공증 때문? “호르몬·칼슘 대사 이상 살펴야…”&nbsp;&nbsp;조선일보마라톤 뛰는 할머니, 뼛속 들여다본 의사도 충격…'이 병' 얼마나 치명적?&nbsp;&nbsp;mt.co.kr\"부러진 데 또 부러진다\"…골다공증 앓는 고령층 여성 '초비상'&nbsp;&nbsp;v.daum.net뼈 건강의 핵심은 ‘균형’…“골대사질환, 조기 관리가 답”&nbsp;&nbsp;라포르시안[박성률의 스포츠&의학 칼럼] 뼈는 움직일수록 강해진다&nbsp;&nbsp;경북일보",
+      "summary": "골절은 골다공증 때문? “호르몬·칼슘 대사 이상 살펴야…”&nbsp;&nbsp;조선일보마라톤 뛰는 할머니, 뼛속 들여다본 의사도 충격…'이 병' 얼마나 치명적?&nbsp;&nbsp;네이트\"부러진 데 또 부러진다\"…골다공증 앓는 고령층 여성 '초비상'&nbsp;&nbsp;v.daum.net[박성률의 스포츠&의학 칼럼] 뼈는 움직일수록 강해진다&nbsp;&nbsp;경북일보노년층의 골다공증 위험을 줄이는 데 도움이 되는 4가지 팁.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "조선일보",
@@ -147,6 +212,19 @@
       "matched_keywords": []
     },
     {
+      "id": "1e9fcb543339",
+      "title": "\"정부출연연구기관, 전체 R&D 20~30%는 개인별 하고픈 연구했으면…\"",
+      "published": "2026-03-26T05:59:40+00:00",
+      "summary": "\"정부출연연구기관, 전체 R&amp;D 20~30%는 개인별 하고픈 연구했으면…\"&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtQVo4UUo2XzJmX0NOZHlIUUYwSmF6a1NTMmVXbWhONkpoQjlkTmFHczA0Ynh3T1c5MlUzZGFZY3JlT1F0ZHRUTXRlZk96aVpNR2VKZG9R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "2fa1d91e5796",
       "title": "성균관대 원홍희 교수 연구팀, 단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시",
       "published": "2026-03-26T04:27:50+00:00",
@@ -199,19 +277,6 @@
       "matched_keywords": []
     },
     {
-      "id": "94988f47520d",
-      "title": "국립암센터 정재영 비뇨기암센터장 연구팀, 전립선암 전이 단서 찾아",
-      "published": "2026-03-26T00:05:14+00:00",
-      "summary": "국립암센터 정재영 비뇨기암센터장 연구팀, 전립선암 전이 단서 찾아&nbsp;&nbsp;메디포뉴스전립선암 전이 단서 찾았다… 혈액 속 ‘하이브리드 세포’ 주목&nbsp;&nbsp;BRIC남성암 1위 전립선암, 전이 단서 찾았다… “혈액 속 ‘세포’ 주목”&nbsp;&nbsp;조선일보혈액검사만으로 전립선암 전이 예측…‘하이브리드 순환세포’ 분석&nbsp;&nbsp;v.daum.net남성암 1위 전립선암, '전이 단서' 찾았다…혈액 속 '이 세포' 주목&nbsp;&nbsp;mt.co.kr",
-      "sources": [
-        {
-          "name": "메디포뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55RWJpOFRZX015RG1tMnBjQlFjNUIyRm5IamtOVXRtNTdtamt6dk9YcGpuNTlWTDVNTUFFQ002bUZnbkVpdGFVQkVoaXh2U0dDVER5bUYyV3ZBLWhHRTB6WDBuY1g?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ce5b208b5e02",
       "title": "‘안’ 먹는 게 아니라 ‘더’ 먹는다 - 마음건강 길",
       "published": "2026-03-25T21:00:00+00:00",
@@ -228,7 +293,7 @@
       "id": "8ad41790aec8",
       "title": "“하루 10분 더 자면 질병 위험 10%↓”… 심장·뇌 질환 막는 '의외의 습관'",
       "published": "2026-03-25T21:00:00+00:00",
-      "summary": "“하루 10분 더 자면 질병 위험 10%↓”… 심장·뇌 질환 막는 '의외의 습관'&nbsp;&nbsp;전자신문11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다&nbsp;&nbsp;조선일보\"사람은 끝까지 성장한다\"…백지연의 '중년을 위한 아침 루틴'&nbsp;&nbsp;뉴시스매일 11분 더 잤더니 일어난 놀라운 변화…\"심장병 위험 10% 감소\"&nbsp;&nbsp;아시아경제20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;네이트",
+      "summary": "“하루 10분 더 자면 질병 위험 10%↓”… 심장·뇌 질환 막는 '의외의 습관'&nbsp;&nbsp;전자신문11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다&nbsp;&nbsp;조선일보\"사람은 끝까지 성장한다\"…백지연의 '중년을 위한 아침 루틴'&nbsp;&nbsp;뉴시스20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;네이트[헬스 플러스+] “심뇌혈관질환 5대 요인이 좌우… 생활습관 관리가 답”&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "전자신문",
@@ -266,7 +331,7 @@
     {
       "id": "e6f5f0dfedd7",
       "title": "동맥경화 관련 질병, 심장서 뇌로 옮겨간다",
-      "published": "2026-03-25T15:42:00+00:00",
+      "published": "2026-03-25T15:47:32+00:00",
       "summary": "동맥경화 관련 질병, 심장서 뇌로 옮겨간다&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -368,6 +433,32 @@
       "matched_keywords": []
     },
     {
+      "id": "60aea0e49285",
+      "title": "산·학·연에 GPU 2000장 배분···과기정통부, AI 연구 역량 확대",
+      "published": "2026-03-25T08:50:00+00:00",
+      "summary": "산·학·연에 GPU 2000장 배분···과기정통부, AI 연구 역량 확대&nbsp;&nbsp;헬로디디",
+      "sources": [
+        {
+          "name": "헬로디디",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWk5UbVhMdkQ1UzlqcExLOEFVRnhLRHBzeEpsRFpaN2FqWlNFQ2l1dFE0UmRFSURQdTIxNFBxZnduNWNaWFVsaXB5d0NkdVEzT0VjQWF4cmRsMDNfSlFTdDNfTDU5X1VBdkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bf5815cfb801",
+      "title": "수출 통제하는 전략물자 '양자컴 신호증폭기' 국내 독자 개발 쾌거",
+      "published": "2026-03-25T06:56:02+00:00",
+      "summary": "수출 통제하는 전략물자 '양자컴 신호증폭기' 국내 독자 개발 쾌거&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lZ3VLaTh2U2EzbVpYQlVOMDVEZEhBYndmLVNXRWpvVnlqWkJDZUdqYzJBZGFlRklhLWVpMDdIZk40c01xR1Nqb2I0WWpXdGM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9dee4ae36d94",
       "title": "김경수 열린사랑의원 원장, 구조·기능·의식의 균형으로 자율신경실조증 치료의 새로운 길을 제시하다 - 위클리피플 인물지식가이드저널",
       "published": "2026-03-25T05:22:17+00:00",
@@ -415,19 +506,6 @@
         {
           "name": "바이오스펙테이터",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKMEVyYWdYLUFCMDMtU2hrc3RPMzd3QTk1RkNoNEZCWW9nZWdOc3BFcTdFeS02OTBSVmVWVkdETFVsUVItd09EeEZXYkJpS3N0Y3hMNlBXUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5fb840317439",
-      "title": "국가AI전략위, 몸집 키운다…'AI 3대 강국' 도약 박차",
-      "published": "2026-03-25T01:31:05+00:00",
-      "summary": "국가AI전략위, 몸집 키운다…'AI 3대 강국' 도약 박차&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Jd3BRTXEyN0VzeUpvRzU5eTgzMUwtNDhQeDk1UkVQTVVJTDVUWDJVQm93T3hPSVQzODY3eTJrbW1oOE9WTkUzMTA5em83VWxDdTUxX0hB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -506,19 +584,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd1pVcmZhTUt2eHNMd2FHMlNCOWw5b29nUlFIbDk4cnBHMW5obUpHemQyMjhsZlhQRWZ0N3N3NDRwYi1BYXFkbFZIZmowem5JRVk0SFBWY0pxbWpxLXMyYTVBbTBBRHFIbUstSDJISFRsVFIzaDlZd29SVnNTZFdRRFZPONIBlwFBVV95cUxNcXk2b0ZKY2JPQ3VsbTN4QXNYcE9oVTV4bGRXaDFXR25NVUs3VnhHTXZwOGRUb1VMYVlOZXFNSHhtSmZESzVOUHBNbkpQRTEwNV84WFBMZWw5ZGtOdHFGdlBhY1RoTzBxUk9JVkk2Q1dKSU1KZHBtZWFpMjRITmdaa1c5SnpueXBoWEdWLU10M21rcmtyVXM4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0d4d24433105",
-      "title": "美, 단 한 번 투여로 각막 상처 지속 치료…'살아있는 안약' 개발",
-      "published": "2026-03-24T15:37:00+00:00",
-      "summary": "美, 단 한 번 투여로 각막 상처 지속 치료…'살아있는 안약' 개발&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZQldsY0pNWkFRMXVkdHJKS2dUUkJOczZGQ1ZiTmlnWmdwTXpBdTdsa2JEWGlLeWZDWUU3b0RwRTVIYjk1TV81VVNFdmFob21HVFpoeldGOHd0S1dMOF95Sw?oc=5"
         }
       ],
       "matched_keywords": []
