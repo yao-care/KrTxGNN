@@ -1,18 +1,30 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-27T19:00:18.671484+00:00",
-  "total_fetched": 83,
-  "unique_count": 83,
-  "health_related_count": 41,
+  "fetched_at": "2026-03-28T02:32:27.439493+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
+  "health_related_count": 43,
   "news": [
     {
-      "id": "94287dc747c1",
-      "title": "\"계단 오르면 오래 산다\"…사망 위험 24% 줄어 - 네이트",
-      "published": "2026-03-27T15:00:00+00:00",
-      "summary": "\"계단 오르면 오래 산다\"…사망 위험 24% 줄어&nbsp;&nbsp;네이트",
+      "id": "96ffcbf34b4b",
+      "title": "[사이언스영상] 챗GPT로 반려견 암 치료했다 - 동아사이언스",
+      "published": "2026-03-27T23:00:00+00:00",
+      "summary": "[사이언스영상] 챗GPT로 반려견 암 치료했다&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "네이트",
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGV1gwcDZJbm93d3lQMGQxVV9xVEVzclMzTEtsQUlpVkRCVlRMcHZTZnJXazB3T1p1d0ZHa2plRjByVnFtVm4xQ2ZoUWpVYTcx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1123959ea20",
+      "title": "\"계단 오르면 오래 산다\"…사망 위험 24% 줄어 - news.nate.com",
+      "published": "2026-03-27T15:00:00+00:00",
+      "summary": "\"계단 오르면 오래 산다\"…사망 위험 24% 줄어&nbsp;&nbsp;news.nate.com",
+      "sources": [
+        {
+          "name": "news.nate.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jdnpUb0pKekVROHJRa1FKZlk5RGhIZGtBTTJnSzh5ajBaS0RSSlJncGJCbE82eDJ5OXQ2QjNQZU5ISE1Oa0pCaHV0Q3lXdnF5QTROYmVXY1FaU2dMR2k1dg?oc=5"
         }
       ]
@@ -42,13 +54,13 @@
       ]
     },
     {
-      "id": "a62849c8e48e",
-      "title": "“앉아지낸다고, 모두 같은 ‘좌식 행동’ 아냐”…‘이런 행동’은 치매에 좋다 - kormedi.com",
+      "id": "45b00cc98779",
+      "title": "“앉아지낸다고, 모두 같은 ‘좌식 행동’ 아냐”…‘이런 행동’은 치매에 좋다 - 코메디닷컴",
       "published": "2026-03-27T09:01:00+00:00",
-      "summary": "“앉아지낸다고, 모두 같은 ‘좌식 행동’ 아냐”…‘이런 행동’은 치매에 좋다&nbsp;&nbsp;kormedi.com“치매가 너무 빨리 왔습니다”...성인 2만여명 추적했더니 문제는 ‘이 행동’&nbsp;&nbsp;v.daum.netTV 많이 보면 정말 치매 위험 높아질까?[노화설계]&nbsp;&nbsp;동아일보\"앉아지낸다고, 모두 같은 '좌식 행동' 아냐\"…'이런 행동'은 치매에 좋다&nbsp;&nbsp;네이트“TV·쇼츠, 1시간씩만 덜 봐도...”우울증 위험 최대 43% 낮아진다&nbsp;&nbsp;매일경제",
+      "summary": "“앉아지낸다고, 모두 같은 ‘좌식 행동’ 아냐”…‘이런 행동’은 치매에 좋다&nbsp;&nbsp;코메디닷컴“치매가 너무 빨리 왔습니다”...성인 2만여명 추적했더니 문제는 ‘이 행동’&nbsp;&nbsp;v.daum.netTV 많이 보면 정말 치매 위험 높아질까?[노화설계]&nbsp;&nbsp;동아일보\"앉아지낸다고, 모두 같은 '좌식 행동' 아냐\"…'이런 행동'은 치매에 좋다&nbsp;&nbsp;news.nate.com“TV·쇼츠, 1시간씩만 덜 봐도...”우울증 위험 최대 43% 낮아진다&nbsp;&nbsp;매일경제",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tNjZOTjlZbksxdTE5bHU4SjBPNDlWZWczdlRhUnlzS2lGazQ2RmZaaE9oWjhBTnZQV1l1TWt6THl2UQ?oc=5"
         }
       ]
@@ -69,7 +81,7 @@
       "id": "c19901016ae9",
       "title": "美 연구팀 장기 분석… “소아 비만, 단순 건강 넘어 성인기 소득과 연관” - 하이닥",
       "published": "2026-03-27T08:30:00+00:00",
-      "summary": "美 연구팀 장기 분석… “소아 비만, 단순 건강 넘어 성인기 소득과 연관”&nbsp;&nbsp;하이닥어린 시절 체중이 미래를 바꾼다… 비만 아동, 부모보다 돈 못 벌어&nbsp;&nbsp;조선일보소아·청소년 비만, 가볍게 볼 문제 아닙니다&nbsp;&nbsp;브런치소아청소년 의료 정책의 민낯&nbsp;&nbsp;메디칼타임즈[명의칼럼] 소아비만 관리 위해선 체질 맞춤형 치료 필수&nbsp;&nbsp;브릿지경제",
+      "summary": "美 연구팀 장기 분석… “소아 비만, 단순 건강 넘어 성인기 소득과 연관”&nbsp;&nbsp;하이닥어린 시절 체중이 미래를 바꾼다… 비만 아동, 부모보다 돈 못 벌어&nbsp;&nbsp;조선일보소아·청소년 비만, 가볍게 볼 문제 아닙니다&nbsp;&nbsp;브런치소아청소년 의료 정책의 민낯&nbsp;&nbsp;메디칼타임즈[명의칼럼] 소아비만 관리 위해선 체질 맞춤형 치료 필수&nbsp;&nbsp;viva100.com",
       "sources": [
         {
           "name": "하이닥",
@@ -78,26 +90,38 @@
       ]
     },
     {
-      "id": "6d319716775f",
-      "title": "밤에 자주 깨고 화장실 간다면…치매 위험 높이는 ‘이 원인’ - kormedi.com",
+      "id": "6780efda13d8",
+      "title": "밤에 자주 깨고 화장실 간다면…치매 위험 높이는 ‘이 원인’ - 코메디닷컴",
       "published": "2026-03-27T08:06:00+00:00",
-      "summary": "밤에 자주 깨고 화장실 간다면…치매 위험 높이는 ‘이 원인’&nbsp;&nbsp;kormedi.com밤에 자주 깨고 화장실 간다면…치매 위험 높이는 '이 원인'&nbsp;&nbsp;네이트당뇨·고혈압 없어도...‘이 병’ 앓고 6년 반 뒤 치매 왔다&nbsp;&nbsp;디멘시아뉴스\"요로감염 등 세균성 감염, 치매 위험 19% 높여\"&nbsp;&nbsp;sportschosun.com중증 감염, 치매 위험 높인다&nbsp;&nbsp;네이트",
+      "summary": "밤에 자주 깨고 화장실 간다면…치매 위험 높이는 ‘이 원인’&nbsp;&nbsp;코메디닷컴밤에 자주 깨고 화장실 간다면…치매 위험 높이는 '이 원인'&nbsp;&nbsp;news.nate.com당뇨·고혈압 없어도...‘이 병’ 앓고 6년 반 뒤 치매 왔다&nbsp;&nbsp;디멘시아뉴스\"요로감염 등 세균성 감염, 치매 위험 19% 높여\"&nbsp;&nbsp;sportschosun.com중증 감염, 치매 위험 높인다&nbsp;&nbsp;news.nate.com",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBIMTR1Q2h6eWt1Mmp2Mm5UVFdKdEhCbE5QbXlqNGJTSTQzVXFNRV9VNW1ZQkVLcWhINTVGdUVjcUdHQQ?oc=5"
         }
       ]
     },
     {
-      "id": "e7db28e724e4",
-      "title": "선크림을 바르면 피부가 약해지고 피부 노화가 빨라진다는 말이 있다 - gqkorea.co.kr",
+      "id": "57ef14bbde43",
+      "title": "선크림을 바르면 피부가 약해지고 피부 노화가 빨라진다는 말이 있다 - GQ korea",
       "published": "2026-03-27T08:05:22+00:00",
-      "summary": "선크림을 바르면 피부가 약해지고 피부 노화가 빨라진다는 말이 있다&nbsp;&nbsp;gqkorea.co.kr",
+      "summary": "선크림을 바르면 피부가 약해지고 피부 노화가 빨라진다는 말이 있다&nbsp;&nbsp;GQ korea",
       "sources": [
         {
-          "name": "gqkorea.co.kr",
+          "name": "GQ korea",
           "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQNjFxXzVZRHBwQk9Lc0dJMEp5cVdWREZUQTFsT2JMbUl5LVJjbmh4QWJrbERBaXh6VFZXNTcwTmUteUVINlJabzZMLUNSWFRaS1V4NEI5QXF0M2hFR1cwUWFNR3NUTGY3SFdpdTZOV1ZoN3E2V3c0X29lelNud1ZOTEFueFRsdzVQdlZDYjNmZWZPMjMxeEVZQW1mMV8zNGVFeExEakVvRUNkYUwyY2tnc2RqUUotVlNPQ1NLb1h1QWpiTTFPU0otU25EdTBwMEpTam10SFZoSW4wMVNBQXpIMVZMaTFzYlg4cTdvRlNNR19LRWdiUW8xdUpUSkhtUUFWYUF2d3hvLXdFRmczdnNrbDVRTUhzZmV4OWxJNUZudG1qT1JSbWVKYVhxVGk5R2wweTJHNWRiMkgwcTBuTTByNzVKSUszQzFSOEprRmV3aTd3bE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "09476a6409c8",
+      "title": "구글 ‘터보퀀트’ 개발 참여한 한인수 카이스트 교수 “대규모 AI 효율 높일 핵심 기술” - 조선비즈 - Chosunbiz",
+      "published": "2026-03-27T07:58:00+00:00",
+      "summary": "구글 ‘터보퀀트’ 개발 참여한 한인수 카이스트 교수 “대규모 AI 효율 높일 핵심 기술” - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXpvVkhxTl9zR0RtVWRfS2tNYVNucE9EWEdzVlcycHFIZWlrTU1TQUdHT3pOTHlRRlBDLU9SM3c4ek1OQ1JqTEM0QWpxendUSHVIWWc0d1VIY0U1ZDBvUlI1aTd3TUNCQnRSbTJmWllsWUZqV1Z3dm93Q0ZlWFJjLWdzcTJnN3F5Uno0N9IBoAFBVV95cUxOYmd2YmR5cXNMOF82TVlwdDJXVTNmV3I0MU9nTmJUeE05MUFlcDZvR0FOTmUybHlXY29ZcVJfQjZOdDZNTlpNT0dXOEY1Nk1yNmlFa0Q5ZWh6YzR3cGpNSktFb19PMzAzSjlKbnkzZEZyc1ZKNjN4R1Boak9MT2oxb3JtZU1tNF9vMjhTaTVTUG90S3IwUTFaNTZkZXNsc1Bk?oc=5"
         }
       ]
     },
@@ -114,38 +138,50 @@
       ]
     },
     {
-      "id": "51620651582d",
-      "title": "세계적으로 MZ세대 남자들이 집착하는 웰니스, 난임에 효과 있을까? - gqkorea.co.kr",
+      "id": "ad445add858d",
+      "title": "세계적으로 MZ세대 남자들이 집착하는 웰니스, 난임에 효과 있을까? - GQ korea",
       "published": "2026-03-27T07:50:17+00:00",
-      "summary": "세계적으로 MZ세대 남자들이 집착하는 웰니스, 난임에 효과 있을까?&nbsp;&nbsp;gqkorea.co.kr",
+      "summary": "세계적으로 MZ세대 남자들이 집착하는 웰니스, 난임에 효과 있을까?&nbsp;&nbsp;GQ korea",
       "sources": [
         {
-          "name": "gqkorea.co.kr",
+          "name": "GQ korea",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdjd1cjlxZHVRS1VzUmUwY3gyNVdjaGU2WWRjNFV3WlNZd2ZjQXplQmVUUzNwRV8zY2Z6ajRfUXpLd1lCVjRoOEcwZ3ZQejRBWkItU2g2SUM1YUYxQzg2YXdzQnBSYXlXX0hPR04wOUVZQzFUN3BrbUdnc25UVlNwZDByZWM1c3dZeHgtcDZsYU9YVDhKSTNEZC1BWjQ4dVdMRG42WUNtU0RmR1RZNnE2TXJ3TGl2eU0zT1A2VmNvbzJqTDA4U29feE5MYnVSb25Od0duTmpuTkJjMll2MmxKUnhPdjdpb1RNd181QnhzalpVNFlvcy1VcXFTYkZKMTNOX2hMR3dHQ052TkxiZmtHX0pONkFYUENWXzRnTnpZSEN4ZXU2aUp5OGhpTmlnZlE0R0xYRHZBU1dPbTlWMnpES2paMS1VamhaMTQxSUVpUEJoNUpu?oc=5"
         }
       ]
     },
     {
-      "id": "1fb3c0f72099",
-      "title": "국립암센터·대한암예방학회, 공동 심포지엄 개최 - 메드월드뉴스",
-      "published": "2026-03-27T07:32:24+00:00",
-      "summary": "국립암센터·대한암예방학회, 공동 심포지엄 개최&nbsp;&nbsp;메드월드뉴스“30대가 60대보다 대장암 위험 높아”… 국립암센터, ‘암 예방의 날 심포지엄’ 개최&nbsp;&nbsp;조선일보국립암센터, '2026년 암 예방의 날 기념 공동 심포지엄' 개최&nbsp;&nbsp;서울와이어올해 암 환자 약 '31만명' 발생 예상 전망치 나와&nbsp;&nbsp;메디칼업저버[3월 27일 병원계 이모저모④]국립암센터, 건국대, 노원을지대, 서울대병원 등 소식&nbsp;&nbsp;medicalworldnews.co.kr",
+      "id": "80c3244e0ed9",
+      "title": "코점막 세포변화ㆍ면역반응 평가에 코브러싱 유용 - 메드월드뉴스",
+      "published": "2026-03-27T07:24:02+00:00",
+      "summary": "코점막 세포변화ㆍ면역반응 평가에 코브러싱 유용&nbsp;&nbsp;메드월드뉴스세브란스, 덜 아픈 '코 브러싱' 검체 채취 면역 연구와 검사 활용&nbsp;&nbsp;v.daum.net[Medical Briefs] 진화하는 스마트 의료기법 ... ‘코점막 면역’ 규명부터 ‘노인암’ 특화 서비스까지 外&nbsp;&nbsp;헬스코리아뉴스코점막 검사에서 코브러싱 검체는 조직검사 검체 대비 상피세포, 면역세포 비중 높아&nbsp;&nbsp;헬스오코점막 세포 채취 검체의 세포 구성 및 면역 특징 규명&nbsp;&nbsp;후생신보",
       "sources": [
         {
           "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93RnZjWnZRNVJ3cVhMWnNpSFAzOEl2NmZ6aXdJWUdHSjQxQ1JrNVZsUHE4ajJHdW12cTVTV2ZqbjFkbTAtMWdSRElsVGhjYlo3LUgtMkNkNFZXLTRPelpjRTdYemdFZVpVOVVyVA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yNlpNeWNLSUVuMWZfR2ktaFd5MHdJSkVFSWViSEJrSV9TWVZFbHhZYzhpOVdsQkd0UV9aelNySEg1V05pWGxZcU9mSWlxWjJlbUczRGozcE9oV3ZNa3VPaGFneHotMGM?oc=5"
         }
       ]
     },
     {
-      "id": "517619b14422",
-      "title": "2026년 최신 ‘장수공식’ 발표: 이 3가지 잘하면OK!--건강 - korean.people.com.cn",
+      "id": "4dc830779c17",
+      "title": "2026년 최신 ‘장수공식’ 발표: 이 3가지 잘하면OK!--건강 - 인민넷",
       "published": "2026-03-27T07:03:00+00:00",
-      "summary": "2026년 최신 ‘장수공식’ 발표: 이 3가지 잘하면OK!--건강&nbsp;&nbsp;korean.people.com.cn11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다&nbsp;&nbsp;조선일보\"사람은 끝까지 성장한다\"…백지연의 '중년을 위한 아침 루틴'&nbsp;&nbsp;뉴시스“하루 10분 더 자면 질병 위험 10%↓”… 심장·뇌 질환 막는 '의외의 습관'&nbsp;&nbsp;전자신문20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;네이트",
+      "summary": "2026년 최신 ‘장수공식’ 발표: 이 3가지 잘하면OK!--건강&nbsp;&nbsp;인민넷11분 더 자고, 4분 더 걷기…작은 습관 변화로 심장질환 위험 크게 낮춘다&nbsp;&nbsp;조선일보\"사람은 끝까지 성장한다\"…백지연의 '중년을 위한 아침 루틴'&nbsp;&nbsp;뉴시스“하루 10분 더 자면 질병 위험 10%↓”… 심장·뇌 질환 막는 '의외의 습관'&nbsp;&nbsp;전자신문20~30대 젊은층 고혈압 환자 증가세…정기검진으로 조기 관리해야&nbsp;&nbsp;news.nate.com",
       "sources": [
         {
-          "name": "korean.people.com.cn",
+          "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FOGYtdV91ZEZiOUxDRHdvbG1Sa053VzJGSndGNTlHS1VJaUFTZFE0RXl5NDVUSkUxY01Od3RUYlk4bGJRcVFTd0xjeFduOG9VOWljcjRxenJ2WGFvdFc1bktjOTNoaVY5bFAtUkpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32e9b31cf056",
+      "title": "[오늘의 병원가] 3월 27일 국립암센터·한림대성심병원 外 - 메디칼업저버",
+      "published": "2026-03-27T06:45:11+00:00",
+      "summary": "[오늘의 병원가] 3월 27일 국립암센터·한림대성심병원 外&nbsp;&nbsp;메디칼업저버[위클리 건강] 14∼49세 '젊은 암' 폭증 왜?…청소년기가 예방 골든타임&nbsp;&nbsp;v.daum.net“30대가 60대보다 대장암 위험 높아”… 국립암센터, ‘암 예방의 날 심포지엄’ 개최&nbsp;&nbsp;조선일보국립암센터, '2026년 암 예방의 날 기념 공동 심포지엄' 개최&nbsp;&nbsp;서울와이어올해 암 환자 약 '31만명' 발생 예상 전망치 나와&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52ajhJWkR3ZlFOczBjWWNkOHQ5RHBSRzBMZ01rMjBRY1JZNDZwQ3I0QVVvNkJYRGstSzZaNHVBR1l2c25WTzA1dUxENUo1elJIYVdsbHFPaXlXQllhdEpIYkt4c0dCQXBrS24w?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "6b90599d3040",
       "title": "파킨슨병 환자 '이 기능' 빨리 떨어지면 치매 위험 커 - 조선일보",
       "published": "2026-03-27T05:19:00+00:00",
-      "summary": "파킨슨병 환자 '이 기능' 빨리 떨어지면 치매 위험 커&nbsp;&nbsp;조선일보“기억력보다 시공간 능력 먼저 떨어지면 파킨슨 위험 7.3배↑”&nbsp;&nbsp;이투데이시각·공간 인지 저하 파킨슨병 환자...\"치매 위험 7배↑\"&nbsp;&nbsp;v.daum.net질병청, 파킨슨병 치매 '전조' 찾았다…시공간 인지능력 저하 시 위험 7.3배↑&nbsp;&nbsp;네이트파킨슨병, 공간 인지능력 빨리 떨어질 수록 치매 전환 위험↑&nbsp;&nbsp;뉴스1",
+      "summary": "파킨슨병 환자 '이 기능' 빨리 떨어지면 치매 위험 커&nbsp;&nbsp;조선일보“기억력보다 시공간 능력 먼저 떨어지면 파킨슨 위험 7.3배↑”&nbsp;&nbsp;이투데이질병청, 파킨슨병 치매 '전조' 찾았다…시공간 인지능력 저하 시 위험 7.3배↑&nbsp;&nbsp;news.nate.com시각·공간 인지 저하 파킨슨병 환자...\"치매 위험 7배↑\"&nbsp;&nbsp;v.daum.net파킨슨병→치매, 기억력 주는 것보다 '이것' 떨어질 때 더 위험&nbsp;&nbsp;mt.co.kr",
       "sources": [
         {
           "name": "조선일보",
@@ -177,7 +213,7 @@
       "id": "3686db6422fc",
       "title": "해운대백병원 연구팀, 췌장암 방사선 치료 효과 높이는 원리 규명 - 의사신문",
       "published": "2026-03-27T04:45:27+00:00",
-      "summary": "해운대백병원 연구팀, 췌장암 방사선 치료 효과 높이는 원리 규명&nbsp;&nbsp;의사신문‘고주파 온열치료’에 첨단 전기자극치료 더하면 ‘암 치료 시너지’ 기대감&nbsp;&nbsp;스포츠경향부천 솔안아트홀서 암 치료 사례 콘퍼런스…온열치료 전문가 한자리&nbsp;&nbsp;네이트아디포랩스, ‘암 치료 희망 나눔 컨퍼런스’ 성료&nbsp;&nbsp;의학신문암 환우·가족에 영적 위로 및 최신치료 정보 제공&nbsp;&nbsp;후생신보",
+      "summary": "해운대백병원 연구팀, 췌장암 방사선 치료 효과 높이는 원리 규명&nbsp;&nbsp;의사신문'고주파 온열치료'에 첨단 전기자극치료 더하면 '암 치료 시너지' 기대감&nbsp;&nbsp;news.nate.com암 환우·가족에 영적 위로 및 최신치료 정보 제공&nbsp;&nbsp;후생신보아디포랩스, ‘암 치료 희망 나눔 컨퍼런스’ 성료&nbsp;&nbsp;의학신문해운대백병원, 췌장암 방사선치료 효과 높이는 기전 규명&nbsp;&nbsp;헬스포커스뉴스",
       "sources": [
         {
           "name": "의사신문",
@@ -222,14 +258,26 @@
       ]
     },
     {
-      "id": "2ae0ecff6684",
-      "title": "비만인데 담배까지?… 젊어도 시야 흐려지는 ‘이 질환’ 위험, 뭘까 - kormedi.com",
+      "id": "796e77a59bb9",
+      "title": "비만인데 담배까지?… 젊어도 시야 흐려지는 ‘이 질환’ 위험, 뭘까 - 코메디닷컴",
       "published": "2026-03-27T02:14:00+00:00",
-      "summary": "비만인데 담배까지?… 젊어도 시야 흐려지는 ‘이 질환’ 위험, 뭘까&nbsp;&nbsp;kormedi.com",
+      "summary": "비만인데 담배까지?… 젊어도 시야 흐려지는 ‘이 질환’ 위험, 뭘까&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5leXdIaVV5Y3JEMHVGQTFPVk5NUW1nTWh3QnZ4bkF3T1pNS2ZGLU5qaG84REtkUnUxU2xaOUQxaVFqQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ace01003a2ad",
+      "title": "[김연수의 식탁이야기(83)] 봄볕에 무너지는 피부 건강, ‘자외선 사각지대’ 경고 - 뉴스투데이",
+      "published": "2026-03-27T02:03:00+00:00",
+      "summary": "[김연수의 식탁이야기(83)] 봄볕에 무너지는 피부 건강, ‘자외선 사각지대’ 경고&nbsp;&nbsp;뉴스투데이'찬란한 봄햇살' 눈 건강엔 치명적…\"선글라스 챙기세요\"&nbsp;&nbsp;뉴시스눈도 자외선에 탄다…안과 전문의들이 알려주는 눈 건강 4가지 핵심 수칙&nbsp;&nbsp;시애틀코리안데일리봄의 자외선을 과소평가하지 말자&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wclcza3p3Njl1UlRkS3RmMlNzdTZHa3pSb25OZnJja3MzT3pNMEpDNzZjZjkxdmQxcDlzbFRpc2stQzFZZzA5MkpPNUw0UzFSemRFRXhGcTlxZ2RxWXc?oc=5"
         }
       ]
     },
@@ -246,18 +294,6 @@
       ]
     },
     {
-      "id": "1c3b89d95660",
-      "title": "“코브러싱, 코점막 세포·면역 특성 분석에 유용”…한계도 확인 - 청년의사",
-      "published": "2026-03-27T01:45:17+00:00",
-      "summary": "“코브러싱, 코점막 세포·면역 특성 분석에 유용”…한계도 확인&nbsp;&nbsp;청년의사세브란스, 덜 아픈 '코 브러싱' 검체 채취 면역 연구와 검사 활용&nbsp;&nbsp;v.daum.net코점막 세포 채취 검체 세포의 구성과 면역 특징 규명&nbsp;&nbsp;메디칼업저버[Medical Briefs] 진화하는 스마트 의료기법 ... ‘코점막 면역’ 규명부터 ‘노인암’ 특화 서비스까지 外&nbsp;&nbsp;헬스코리아뉴스코점막 검사에서 코브러싱 검체는 조직검사 검체 대비 상피세포, 면역세포 비중 높아&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "청년의사",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6YjJwZ25adi04VmM1dktWcmlFaUdQQ28xWVJyRnpPTWNuU1F3UnhLaDUzUElMYlFWZkE3SVpZcTdDV3hNTnlPNUNKYnZDLS1oWkw2SFJQTlJUTDl1OXhCX0UzTVFoZWt5b2lJMF9iQzDSAXNBVV95cUxOWWs2eERvYkxmb21mY2U0ak5TMmdpSmZabjhmOFZ5NzFhLVhSTWFpNTRHdExfMDBMQUdJRE8zaWJmSklDTG9IbXVmWVVpVkhwMU00OGZxY1Jubm5iVWF0OFdHS2xtQk5MaXpwNXlROGZKZkpv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "67f31545216f",
       "title": "아열대 작물 성공 농사는 바이러스병 예방부터 - 농업인신문",
       "published": "2026-03-27T00:32:47+00:00",
@@ -270,10 +306,22 @@
       ]
     },
     {
+      "id": "1a29d629cd57",
+      "title": "당뇨병 진단 초기 '미래 합병증' 예측 AI 플랫폼 등장 - 메디칼트리뷴",
+      "published": "2026-03-26T23:42:39+00:00",
+      "summary": "당뇨병 진단 초기 '미래 합병증' 예측 AI 플랫폼 등장&nbsp;&nbsp;메디칼트리뷴당뇨병, 숫자가 아니라 패턴을 본다 - 양태영 태영내과21 원장&nbsp;&nbsp;v.daum.net체중 감량 없는 전당뇨 치료, 핵심은 ‘지방 재배치’와 ‘인슐린 감수성’&nbsp;&nbsp;바이오타임즈“같은 전단계도 위험 다르다”… 가장 좋은 ‘당뇨’ 관리 전략 보니&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "메디칼트리뷴",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53Y2J4WUVhbHZGekd2TUdHWWpVaUlVVzB0YXlaVUt4ZTM3OTFTaTZrLUo1WDFYZDVXWW5ta2duWHJqNXo3dm9nQmxKT2xRT2V5YmVVbDdPcnhPWjEyNVRvNm5JTVlPU1ZqaTNwbHBSQVFLM0FRYVHSAXpBVV95cUxPcjI4S01Gc3N4ZDh3SXRreG1YODNpODd6ck1STFdWRi1Ua04wd1R1cG1FZFhvMGc5dW9hYm5FSHdGZlpkNE9QWTNicDhRRTFDVDJ1RjRXcVZTd29ENDBEcVV0dGtFd2pBYklZaS1DbXA3bG5PQzBJRENzUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "58b59e5874a9",
       "title": "성균관대 원홍희 교수팀 \"같은 유전 변이라도 세포 종류 따라 발현 딴판\" … 뇌 질환 원인 세포 단위에서 규명 - 뉴데일리 경제",
       "published": "2026-03-26T21:00:00+00:00",
-      "summary": "성균관대 원홍희 교수팀 \"같은 유전 변이라도 세포 종류 따라 발현 딴판\" … 뇌 질환 원인 세포 단위에서 규명&nbsp;&nbsp;뉴데일리 경제단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시&nbsp;&nbsp;ibric.org성균관대 연구진 \"세포마다 유전 변이 역할 달라\"…뇌 질환 메커니즘 규명&nbsp;&nbsp;뉴시스단일세포 수준서 뇌질환 유전위치 작동원리 규명…성균관대·삼성서울병원팀, 네이처 제네틱스 게재&nbsp;&nbsp;뉴스티앤티성균관대 연구팀, 단일세포 분석으로 뇌 질환 원인 규명… 정밀의료 새 전기&nbsp;&nbsp;핀포인트뉴스",
+      "summary": "성균관대 원홍희 교수팀 \"같은 유전 변이라도 세포 종류 따라 발현 딴판\" … 뇌 질환 원인 세포 단위에서 규명&nbsp;&nbsp;뉴데일리 경제단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시&nbsp;&nbsp;BRIC성균관대 연구진 \"세포마다 유전 변이 역할 달라\"…뇌 질환 메커니즘 규명&nbsp;&nbsp;뉴시스단일세포 수준서 뇌질환 유전위치 작동원리 규명…성균관대·삼성서울병원팀, 네이처 제네틱스 게재&nbsp;&nbsp;뉴스티앤티성균관대 연구팀, 단일세포 분석으로 뇌 질환 원인 규명… 정밀의료 새 전기&nbsp;&nbsp;핀포인트뉴스",
       "sources": [
         {
           "name": "뉴데일리 경제",
@@ -294,6 +342,18 @@
       ]
     },
     {
+      "id": "e04b8925adc2",
+      "title": "영하 60도에서 드러난 물의 비밀…韓 연구진, 세계 최초 규명 - 뉴스1",
+      "published": "2026-03-26T18:00:00+00:00",
+      "summary": "영하 60도에서 드러난 물의 비밀…韓 연구진, 세계 최초 규명&nbsp;&nbsp;뉴스1",
+      "sources": [
+        {
+          "name": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wajBZeWhQZm1NQVNBUXNXUC1BUkFmVFZWVUtfbzROV0NtdEwzMDJsdlIzb2liWGRVZUE0bEl0Zmd0Z0MxRE1IbUtRUHVMQlVIQVdpY3ZvNnpqVzZDNUttbDVvVUhpUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1bcef0081b0f",
       "title": "여성 알츠하이머, ‘폐경’이 결정타… 호르몬 치료가 예방의 열쇠 - 조선일보",
       "published": "2026-03-26T13:20:00+00:00",
@@ -306,13 +366,13 @@
       ]
     },
     {
-      "id": "f88752152aa0",
-      "title": "항암력 높이는 저속노화 레시피 2탄 ‘독일식 김치, 사우어크라우트’ - ikoreanspirit.com",
+      "id": "0d0cd8e862f1",
+      "title": "항암력 높이는 저속노화 레시피 2탄 ‘독일식 김치, 사우어크라우트’ - K스피릿",
       "published": "2026-03-26T12:10:12+00:00",
-      "summary": "항암력 높이는 저속노화 레시피 2탄 ‘독일식 김치, 사우어크라우트’&nbsp;&nbsp;ikoreanspirit.com",
+      "summary": "항암력 높이는 저속노화 레시피 2탄 ‘독일식 김치, 사우어크라우트’&nbsp;&nbsp;K스피릿",
       "sources": [
         {
-          "name": "ikoreanspirit.com",
+          "name": "K스피릿",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xRWZGMk42cUlRaFk4V1hXZlBHenVFRXhUMTlIMFlFT2ZsUy1XSm1icUhfdE81dXM0QXpiX3JaMjkyX01COC02VjVNUW9STDBLVWhOYlVORVdFRjlBRmRYUTRuc1BWelFVM1lWRzlYNNIBc0FVX3lxTE1YUFRnMTJvOTl6ODZpeEV0ZV9Xa3RyWEpnRjl1Y3ZkaVdRMmtRRW9qOHh6bWtkSTRZazYtNlNCSnpfakhEOGxNS2pEazVaVEtEalhPVEdId1ZCOHRwZld1UVFyd3QtWXNpd3l3NzRUaElJZG8?oc=5"
         }
       ]
@@ -330,14 +390,14 @@
       ]
     },
     {
-      "id": "ba0d12a2a32d",
-      "title": "[먹을까? 말까?(133)] 지중해 식단, 뇌 노화 늦춰도 학계 판단 유보 - 포커스온경제",
+      "id": "ed9d93745ff7",
+      "title": "[먹을까? 말까?(133)] 지중해 식단, 만병통치약은 아니다⋯학계, 뇌 노화 늦춰도 판단 유보 - 포커스온경제",
       "published": "2026-03-26T10:16:08+00:00",
-      "summary": "[먹을까? 말까?(133)] 지중해 식단, 뇌 노화 늦춰도 학계 판단 유보&nbsp;&nbsp;포커스온경제[Dr.이은봉의 의학 연구 다이제스트] 고혈압 예방 식단 따랐더니 인지기능도 잘 유지&nbsp;&nbsp;조선일보[신간] 건강하게 나이 드는 법…'뇌는 어떻게 노화를 늦추는가'&nbsp;&nbsp;연합뉴스지중해식 식단 왜 좋나 했더니…세포 속 단백질이 달랐다&nbsp;&nbsp;네이트혈압, 혈당 낮추려고 ‘이 음식’ 자주 먹었더니…체중도 줄어든 이유가?&nbsp;&nbsp;kormedi.com",
+      "summary": "[먹을까? 말까?(133)] 지중해 식단, 만병통치약은 아니다⋯학계, 뇌 노화 늦춰도 판단 유보&nbsp;&nbsp;포커스온경제[Dr.이은봉의 의학 연구 다이제스트] 고혈압 예방 식단 따랐더니 인지기능도 잘 유지&nbsp;&nbsp;조선일보[신간] 건강하게 나이 드는 법…'뇌는 어떻게 노화를 늦추는가'&nbsp;&nbsp;연합뉴스혈압, 혈당 낮추려고 ‘이 음식’ 자주 먹었더니…체중도 줄어든 이유가?&nbsp;&nbsp;코메디닷컴지중해식 식단 왜 좋나 했더니…세포 속 단백질이 달랐다&nbsp;&nbsp;news.nate.com",
       "sources": [
         {
           "name": "포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsanZSbHBmNWZiaE41d0JGQVE0RHJGUm5rYkFiNmhVQUxCTmlvMS1BNXdmOXVFRXNRRGh5VzZEOUVCSml2NkNWbGxNcW13ODM5NFZoRVFpcEIwX1Rqc28wYQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ULXZiaTZzdkhyMWtNMDFWRnNhWi1QbjJ3Q0ZwXzRKRUhzcmwzOFdaTDUtdDV0bGhscmNDZ0wyeWZBbmJnbEh4alVDZ3pfMGkyNkJVMnFPMGJCOGo4U3c?oc=5"
         }
       ]
     },
@@ -357,7 +417,7 @@
       "id": "37b72cb209c1",
       "title": "\"혈액 속 세포 분석으로 전립선암 전이 가능성 찾는다\" - 청년의사",
       "published": "2026-03-26T09:22:19+00:00",
-      "summary": "\"혈액 속 세포 분석으로 전립선암 전이 가능성 찾는다\"&nbsp;&nbsp;청년의사전립선암 전이 단서 찾았다··· 혈액 속 ‘이 세포’ 통해 위험 조기 예측&nbsp;&nbsp;v.daum.net\"전립선암 전이 단서 찾았다\"…국립암센터, 종양-면역 상호작용 규명&nbsp;&nbsp;뉴스1남성암 1위 전립선암, 전이 단서 찾았다… “혈액 속 ‘세포’ 주목”&nbsp;&nbsp;조선일보전이성 전립선암 치료전략 변화 조짐… 유전자기반 치료법 '초기적용' 가능성&nbsp;&nbsp;매경헬스",
+      "summary": "\"혈액 속 세포 분석으로 전립선암 전이 가능성 찾는다\"&nbsp;&nbsp;청년의사전립선암 전이 단서 찾았다··· 혈액 속 ‘이 세포’ 통해 위험 조기 예측&nbsp;&nbsp;v.daum.net\"전립선암 전이 단서 찾았다\"…국립암센터, 종양-면역 상호작용 규명&nbsp;&nbsp;뉴스1남성암 1위 전립선암, 전이 단서 찾았다… “혈액 속 ‘세포’ 주목”&nbsp;&nbsp;조선일보CD45 양성, KRT18 양성의 혈액 내 하이브리드 순환세포가 전립선암 전이 단서&nbsp;&nbsp;헬스오",
       "sources": [
         {
           "name": "청년의사",
@@ -366,38 +426,14 @@
       ]
     },
     {
-      "id": "a7b95979437d",
-      "title": "뜨거운 물이 더 빨리 얼어붙는 '음펨바 효과'…\"이제 응용할 단계\" - 동아사이언스",
-      "published": "2026-03-26T07:11:00+00:00",
-      "summary": "뜨거운 물이 더 빨리 얼어붙는 '음펨바 효과'…\"이제 응용할 단계\"&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oVHNVbjhPZUs0V1YzNkljbXFmTjFaZG03d1JKaWhMZVo4ajRHYllOemlqOElDdGY0djFSaDdPeHFpMDBFaDJ5X0x6N0loNlQ2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "029467e9b37b",
-      "title": "식약처, 비타민D 함량 부족…미국산 오메가3 건강기능식품 판매중단·회수 조치 - 중앙신문",
+      "id": "4d9f1cfd2e2c",
+      "title": "식약처, 비타민D 함량 부족…미국산 오메가3 건강기능식품 판매중단·회수 조치 - joongang.tv",
       "published": "2026-03-26T06:55:48+00:00",
-      "summary": "식약처, 비타민D 함량 부족…미국산 오메가3 건강기능식품 판매중단·회수 조치&nbsp;&nbsp;중앙신문",
+      "summary": "식약처, 비타민D 함량 부족…미국산 오메가3 건강기능식품 판매중단·회수 조치&nbsp;&nbsp;joongang.tv",
       "sources": [
         {
-          "name": "중앙신문",
+          "name": "joongang.tv",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83a3AxVVJrS25qSV9BTFNETHFJaE1mbkRwMWhZdjAwczhEUHBrcDFwV0tOTG9vc3hUREg5U0Q0clBYQVVSaFJuUFVLcl9KMzRLVFBqVEZVenBkUXlTQ3h2XzJYZnFBanRy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6be58bae6b2b",
-      "title": "눈도 자외선에 탄다…안과 전문의들이 알려주는 눈 건강 4가지 핵심 수칙 - 시애틀코리안데일리",
-      "published": "2026-03-26T06:05:02+00:00",
-      "summary": "눈도 자외선에 탄다…안과 전문의들이 알려주는 눈 건강 4가지 핵심 수칙&nbsp;&nbsp;시애틀코리안데일리'찬란한 봄햇살' 눈 건강엔 치명적…\"선글라스 챙기세요\"&nbsp;&nbsp;뉴시스봄의 자외선을 과소평가하지 말자&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Kc3RmR1BCbjRRZkFOVGt0OW9ycHFhbTVRVGpzSFB3cDA0MV94YXVGWld3MlhrSnZWN2ZRQVNJdWhjcF9WRnI5YnFoaEh3OUxvY2ZwVVc0YmVuWGxHZ2ZSUm1NXzBaNzh2OUQzUjl4MNIBc0FVX3lxTE5ydXR4REM0LTh1enpPc293SDZmSE05NjAxNmU1ZHhsbGU5OFpDSE1XR29UYWlEWG1JdExJQUJmbnppaEZrU2RMQkliNTFWd20tNkZlWXRPNm5oUkdCVDF2ajdxNkFHVUlGbkw5YmVndTIwc1E?oc=5"
         }
       ]
     },
@@ -422,6 +458,18 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtQVo4UUo2XzJmX0NOZHlIUUYwSmF6a1NTMmVXbWhONkpoQjlkTmFHczA0Ynh3T1c5MlUzZGFZY3JlT1F0ZHRUTXRlZk96aVpNR2VKZG9R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ebad5e80345d",
+      "title": "“암세포 미친 듯 증가”… 종양내과 의사가 꼽은 ‘의외의 음식’ - 조선일보",
+      "published": "2026-03-26T01:38:00+00:00",
+      "summary": "“암세포 미친 듯 증가”… 종양내과 의사가 꼽은 ‘의외의 음식’&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VWGVhczBGOTBtZGthTkZmeF9KZC12RFlndkVORllicnNCb2JrMmllSEpxUHdvcFdxNXBEWWlvYm1raHM2bkgyZTliTUh1T2VwRXFvLWRjak85MlJrZ202YWFWYmlqWkFMa2dLaWg3cEZXYl9YYnc?oc=5"
         }
       ]
     },
@@ -470,30 +518,6 @@
         {
           "name": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBtRTlpNE5rNk5sdTd0emlfM0pQWi1LYnByRW9Jc1FYQzN5cHlhQjBXYkVZbGVzT3JvX3NjbDVDTGhwM3NNZEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f64673cd4f51",
-      "title": "中디잘, 'EGFR TKI' 엑손20변이 폐암 1차 3상 “PFS 개선” - 바이오스펙테이터",
-      "published": "2026-03-25T01:46:00+00:00",
-      "summary": "中디잘, 'EGFR TKI' 엑손20변이 폐암 1차 3상 “PFS 개선”&nbsp;&nbsp;바이오스펙테이터",
-      "sources": [
-        {
-          "name": "바이오스펙테이터",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKMEVyYWdYLUFCMDMtU2hrc3RPMzd3QTk1RkNoNEZCWW9nZWdOc3BFcTdFeS02OTBSVmVWVkdETFVsUVItd09EeEZXYkJpS3N0Y3hMNlBXUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fb840317439",
-      "title": "국가AI전략위, 몸집 키운다…'AI 3대 강국' 도약 박차 - 지디넷코리아",
-      "published": "2026-03-25T01:31:05+00:00",
-      "summary": "국가AI전략위, 몸집 키운다…'AI 3대 강국' 도약 박차&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Jd3BRTXEyN0VzeUpvRzU5eTgzMUwtNDhQeDk1UkVQTVVJTDVUWDJVQm93T3hPSVQzODY3eTJrbW1oOE9WTkUzMTA5em83VWxDdTUxX0hB?oc=5"
         }
       ]
     }
