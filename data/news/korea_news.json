@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-28T18:47:12.872185+00:00",
+  "fetched_at": "2026-03-29T02:46:52.523943+00:00",
   "total_fetched": 66,
   "unique_count": 66,
   "health_related_count": 37,
   "news": [
+    {
+      "id": "ed61c1089d19",
+      "title": "스트레스 받으면 ‘아토피’ 심해지는 이유 발견… \"특정 교감신경이 염증 세포 자극\" - 하이닥",
+      "published": "2026-03-29T02:00:00+00:00",
+      "summary": "스트레스 받으면 ‘아토피’ 심해지는 이유 발견… \"특정 교감신경이 염증 세포 자극\"&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wbVQyZWZOYno4RkdDT3ZPNm9vWTI4OTJIeEtfcnRBSTdOUFpiMnNFcDJ3Vl9JT29pYllDSlJCZ1ZYb09nMkNjaVRVT1AwdzdIM0ZWZFhBOEFmVWZJUzdqMGplMnNFLUtzN3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7da8dade386",
+      "title": "혹시 암은 아닐까? 갑자기 튀어나온 혹을 발견한다면 - 네이트",
+      "published": "2026-03-28T22:27:00+00:00",
+      "summary": "혹시 암은 아닐까? 갑자기 튀어나온 혹을 발견한다면&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBROE9JM1Z2eEQ3dmVYYlVOTENuVkF3QXgtTUFHeGstcENienhZdjloNnBDb0ZhMFh6NWpEcHdhWktuRGFBWllpbGkzT1dTTmJsdFhr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71620dfc7022",
+      "title": "5개월간 코피, 코막힘 반복… 코안의 '까만 덩어리' 발견됐는데, 정체는? - 코메디닷컴",
+      "published": "2026-03-28T21:13:00+00:00",
+      "summary": "5개월간 코피, 코막힘 반복… 코안의 '까만 덩어리' 발견됐는데, 정체는?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XTEZLbGM0ekxzS2xiSjRnWC1YNEJYYjBxUmY2dHJIS1duWGxVby1NVENWS05yRmthUDBoT2NQVTJPUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "a44d34cc20c3",
       "title": "동물 모델 연구, 뼈 건강에서 장기 재생까지 의학의 새 지평 열다 - 한국AI부동산신문",
@@ -44,12 +80,24 @@
     {
       "id": "8fe857b3863f",
       "title": "치매로 이어지는 ‘파킨슨병’…‘이 기능’ 먼저 떨어지면 더 위험 - 농민신문",
-      "published": "2026-03-28T10:04:34+00:00",
+      "published": "2026-03-28T10:04:41+00:00",
       "summary": "치매로 이어지는 ‘파킨슨병’…‘이 기능’ 먼저 떨어지면 더 위험&nbsp;&nbsp;농민신문“기억력보다 시공간 능력 먼저 떨어지면 파킨슨 위험 7.3배↑”&nbsp;&nbsp;이투데이시각·공간 인지 저하 파킨슨병 환자...\"치매 위험 7배↑\"&nbsp;&nbsp;v.daum.net질병청, 파킨슨병 치매 '전조' 찾았다…시공간 인지능력 저하 시 위험 7.3배↑&nbsp;&nbsp;네이트파킨슨병 환자 '이 기능' 빨리 떨어지면 치매 위험 커&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "농민신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44STdGMHN6Y29rSFNMclUxdThoOVllQWgxZ01vZEc0eEx6S19CdEFNMFFVYUNJdElXMTkzWHJZd2Izc3RqdVVpaDhzM1c2X0tBOTduYkhDTmRIZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "efd46f77df03",
+      "title": "장염·식중독 자주 앓는 사람…20년 ‘이 병’에 신경써야 한다, 왜? - 코메디닷컴",
+      "published": "2026-03-28T09:01:00+00:00",
+      "summary": "장염·식중독 자주 앓는 사람…20년 ‘이 병’에 신경써야 한다, 왜?&nbsp;&nbsp;코메디닷컴“대장암 위험 확 올려”… 한국인 즐겨 먹는 ‘이 음식’ 뭐길래?&nbsp;&nbsp;조선일보임성훈의 대단한 도전 - 대장암 가족력이 없어도 안심하면 안되는 이유&nbsp;&nbsp;mbn.co.kr10년 만에 대장암 검진 지침 개정···시작 나이 45세로 낮춰&nbsp;&nbsp;메디칼업저버[헬스로그 명의] 4기 대장암도 완전 절제 가능할 땐 \"적극적 수술 원칙\"&nbsp;&nbsp;코리아헬스로그",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE80MGp2V1FKLTRJenVtWlpHbXB3akdtM2tmSjRCVVVrQklTWE1qckViVlVzekRqemctZVlXVF9KcWs2QQ?oc=5"
         }
       ]
     },
@@ -90,18 +138,6 @@
       ]
     },
     {
-      "id": "09caaf92d5bc",
-      "title": "“하루 30분 걷기만 했는데”…유방암 위험 낮춘다 - 전자신문",
-      "published": "2026-03-28T01:55:00+00:00",
-      "summary": "“하루 30분 걷기만 했는데”…유방암 위험 낮춘다&nbsp;&nbsp;전자신문이러한 운동 방식은 혈액 순환을 개선하여 암과 당뇨병의 위험을 줄이는 데 도움이 됩니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA3bUZDSnF6d2NLZzk1Y1ZlVGlBQnkzUFRYWUVFaEpKTGRod0dNemQtejJEQ25KWjRVcnRnZzlDUUhDc0VCMXQ3OU9JX3J2Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cb40936c16cb",
       "title": "[스타★건강] 보디빌딩 챔피언도 무너뜨린 '돌연사'…구조 신호는? - 매경헬스",
       "published": "2026-03-28T01:00:00+00:00",
@@ -110,6 +146,18 @@
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xcEpyZFNFQVp5Ry1XLXA2eHJ4aVdnbkU4akdZNFZuZnYyV0xwSUJUcURtSzBrZUUtY2lLenZURHE5WWpGVzZxTnAxcFRTWDlSQUtHR1o5eDdLZFFia1dBbENnSm5aY1pIOW5heQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d4bf7b41485",
+      "title": "“채식주의자에겐 필수”…‘단백질’ 풍부한 채소 5가지 - 코메디닷컴",
+      "published": "2026-03-28T00:03:00+00:00",
+      "summary": "“채식주의자에겐 필수”…‘단백질’ 풍부한 채소 5가지&nbsp;&nbsp;코메디닷컴\"채식주의자에겐 필수\"…'단백질' 풍부한 채소 5가지&nbsp;&nbsp;네이트“냉장고에 늘 채워두세요” 질 좋은 고단백 식품 7가지&nbsp;&nbsp;조선일보[강민성의 헬스토리] 한식, 건강식이지만 단백질 부족… “보충제는 식사가 부실할 때만”&nbsp;&nbsp;v.daum.net\"식탁에 꼭 챙겨두세요\"…질 좋은 고단백 식품 8가지&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1mLW9Cak8xMGlZWGp0SFBlTTVNdDdNbmtxMDNYN0tYWmczUm9SNDU1M3hzWUt4SXJDUG1WYzhCQUVyQQ?oc=5"
         }
       ]
     },
@@ -126,13 +174,25 @@
       ]
     },
     {
-      "id": "7ab8915f060b",
-      "title": "[사이언스영상] 챗GPT로 반려견 암 치료했다 - dongascience.com",
-      "published": "2026-03-27T23:00:00+00:00",
-      "summary": "[사이언스영상] 챗GPT로 반려견 암 치료했다&nbsp;&nbsp;dongascience.com",
+      "id": "358b512a2221",
+      "title": "식물원인 줄 알았는데 병원, 건축이 기후위기에 맞서는 법 - v.daum.net",
+      "published": "2026-03-27T23:02:05+00:00",
+      "summary": "식물원인 줄 알았는데 병원, 건축이 기후위기에 맞서는 법&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "dongascience.com",
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBicTFaRlR0ZXQwNndjdWk1X0xJcjNkNmFvbXFnOHlnQzBjSnZBeDRYdGQtZndFUjZaYXRxcDlUTzN1cVQ3NlhiOHljUnEwMjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96ffcbf34b4b",
+      "title": "[사이언스영상] 챗GPT로 반려견 암 치료했다 - 동아사이언스",
+      "published": "2026-03-27T23:00:00+00:00",
+      "summary": "[사이언스영상] 챗GPT로 반려견 암 치료했다&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGV1gwcDZJbm93d3lQMGQxVV9xVEVzclMzTEtsQUlpVkRCVlRMcHZTZnJXazB3T1p1d0ZHa2plRjByVnFtVm4xQ2ZoUWpVYTcx?oc=5"
         }
       ]
@@ -189,7 +249,7 @@
       "id": "c19901016ae9",
       "title": "美 연구팀 장기 분석… “소아 비만, 단순 건강 넘어 성인기 소득과 연관” - 하이닥",
       "published": "2026-03-27T08:30:00+00:00",
-      "summary": "美 연구팀 장기 분석… “소아 비만, 단순 건강 넘어 성인기 소득과 연관”&nbsp;&nbsp;하이닥어린 시절 체중이 미래를 바꾼다… 비만 아동, 부모보다 돈 못 벌어&nbsp;&nbsp;조선일보소아·청소년 비만, 가볍게 볼 문제 아닙니다&nbsp;&nbsp;brunch.co.kr소아청소년 의료 정책의 민낯&nbsp;&nbsp;메디칼타임즈[명의칼럼] 소아비만 관리 위해선 체질 맞춤형 치료 필수&nbsp;&nbsp;브릿지경제",
+      "summary": "美 연구팀 장기 분석… “소아 비만, 단순 건강 넘어 성인기 소득과 연관”&nbsp;&nbsp;하이닥어린 시절 체중이 미래를 바꾼다… 비만 아동, 부모보다 돈 못 벌어&nbsp;&nbsp;조선일보소아·청소년 비만, 가볍게 볼 문제 아닙니다&nbsp;&nbsp;브런치소아청소년 의료 정책의 민낯&nbsp;&nbsp;메디칼타임즈[명의칼럼] 소아비만 관리 위해선 체질 맞춤형 치료 필수&nbsp;&nbsp;브릿지경제",
       "sources": [
         {
           "name": "하이닥",
@@ -237,7 +297,7 @@
       "id": "2c538f1b70e5",
       "title": "국립암센터·대한암예방학회, 공동 심포지엄 개최 - 메드월드뉴스",
       "published": "2026-03-27T07:32:24+00:00",
-      "summary": "국립암센터·대한암예방학회, 공동 심포지엄 개최&nbsp;&nbsp;메드월드뉴스[위클리 건강] 14∼49세 '젊은 암' 폭증 왜?…청소년기가 예방 골든타임&nbsp;&nbsp;v.daum.net“30대가 60대보다 대장암 위험 높아”… 국립암센터, ‘암 예방의 날 심포지엄’ 개최&nbsp;&nbsp;조선일보올해 암 환자 약 '31만명' 발생 예상 전망치 나와&nbsp;&nbsp;monews.co.kr국립암센터, '2026년 암 예방의 날 기념 공동 심포지엄' 개최&nbsp;&nbsp;seoulwire.com",
+      "summary": "국립암센터·대한암예방학회, 공동 심포지엄 개최&nbsp;&nbsp;메드월드뉴스[위클리 건강] 14∼49세 '젊은 암' 폭증 왜?…청소년기가 예방 골든타임&nbsp;&nbsp;v.daum.net“30대가 60대보다 대장암 위험 높아”… 국립암센터, ‘암 예방의 날 심포지엄’ 개최&nbsp;&nbsp;조선일보올해 암 환자 약 '31만명' 발생 예상 전망치 나와&nbsp;&nbsp;메디칼업저버국립암센터, '2026년 암 예방의 날 기념 공동 심포지엄' 개최&nbsp;&nbsp;서울와이어",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -273,7 +333,7 @@
       "id": "96b7e6957df3",
       "title": "인슐린 투여 당뇨 환자, 치매 위험 2.3배 ↑… “선제적 인지 기능 검사 필수” - 하이닥",
       "published": "2026-03-27T05:30:00+00:00",
-      "summary": "인슐린 투여 당뇨 환자, 치매 위험 2.3배 ↑… “선제적 인지 기능 검사 필수”&nbsp;&nbsp;하이닥당뇨병이 치매 위험 높인다… “인슐린 치료 땐 이미 고위험군”&nbsp;&nbsp;조선일보혈당 말고, 기억이 걱정되기 시작했다&nbsp;&nbsp;brunch.co.kr1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아&nbsp;&nbsp;메디컬투데이당뇨도 서러운데…치매 위험도 최대 2.4배 높아&nbsp;&nbsp;농민신문",
+      "summary": "인슐린 투여 당뇨 환자, 치매 위험 2.3배 ↑… “선제적 인지 기능 검사 필수”&nbsp;&nbsp;하이닥당뇨병이 치매 위험 높인다… “인슐린 치료 땐 이미 고위험군”&nbsp;&nbsp;조선일보혈당 말고, 기억이 걱정되기 시작했다&nbsp;&nbsp;브런치1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아&nbsp;&nbsp;메디컬투데이당뇨도 서러운데…치매 위험도 최대 2.4배 높아&nbsp;&nbsp;농민신문",
       "sources": [
         {
           "name": "하이닥",
@@ -282,13 +342,13 @@
       ]
     },
     {
-      "id": "3686db6422fc",
-      "title": "해운대백병원 연구팀, 췌장암 방사선 치료 효과 높이는 원리 규명 - 의사신문",
+      "id": "17f8c061105f",
+      "title": "해운대백병원 연구팀, 췌장암 방사선 치료 효과 높이는 원리 규명 - doctorstimes.com",
       "published": "2026-03-27T04:45:27+00:00",
-      "summary": "해운대백병원 연구팀, 췌장암 방사선 치료 효과 높이는 원리 규명&nbsp;&nbsp;의사신문'고주파 온열치료'에 첨단 전기자극치료 더하면 '암 치료 시너지' 기대감&nbsp;&nbsp;네이트아디포랩스, ‘암 치료 희망 나눔 컨퍼런스’ 성료&nbsp;&nbsp;의학신문해운대백병원, 췌장암 방사선치료 효과 높이는 기전 규명&nbsp;&nbsp;헬스포커스뉴스췌장암 방사선치료에 온열치료 병용하면 AQP5 감소해 치료효과 상승&nbsp;&nbsp;healtho.co.kr",
+      "summary": "해운대백병원 연구팀, 췌장암 방사선 치료 효과 높이는 원리 규명&nbsp;&nbsp;doctorstimes.com'고주파 온열치료'에 첨단 전기자극치료 더하면 '암 치료 시너지' 기대감&nbsp;&nbsp;네이트아디포랩스, ‘암 치료 희망 나눔 컨퍼런스’ 성료&nbsp;&nbsp;의학신문해운대백병원, 췌장암 방사선치료 효과 높이는 기전 규명&nbsp;&nbsp;healthfocus.co.kr췌장암 방사선치료에 온열치료 병용하면 AQP5 감소해 치료효과 상승&nbsp;&nbsp;헬스오",
       "sources": [
         {
-          "name": "의사신문",
+          "name": "doctorstimes.com",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95MTV0TTFZazJFU2MzV2ZhSjdmYkQtLUZBSnl6RjAwTW1RdUZZSjNGMllERXlfNjJoLURUS01mMlJ4LVFfV1VSUk10VTZ0b0hqd0pJbEtyMVg2TnFiWnA0ei1PZjgwUDEzS3hhTE1kMA?oc=5"
         }
       ]
@@ -314,18 +374,6 @@
         {
           "name": "헬스경향",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6Q1hBUEFad3pITDQzTnRvbHU2b1pjc0xLaXh2V0I0TjhTY2pFYW9Bb3hJQzFzbnVsY0hWdmFRT3AzOWN3UWVIWHNfNXZObl9NcWxpNE5fSzZ0UjlWOWJHdWtmWFh4TEVSSkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c79f25642c7e",
-      "title": "‘이것’ 먹으면 힘 없던 정자도 기운 세진다 - 조선일보",
-      "published": "2026-03-27T04:00:00+00:00",
-      "summary": "‘이것’ 먹으면 힘 없던 정자도 기운 세진다&nbsp;&nbsp;조선일보저속 노화에 주목받는 '호두'...\"두뇌건강에 도움\"&nbsp;&nbsp;센머니",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nRmpHTlNhTEdwQlh3QWduZGNjQ1RKU0JXWmN4aDQxaktSeG1MQjB1TW5UanI3SDFPbzZaa3R1Z0Viby1JTmc0QzZRbXZxUEZHZ3J2MUxPcEJDdUdsVW5oTHdJcF9OVFE0NkpoV1BUbmc4TmZMeUE?oc=5"
         }
       ]
     },
@@ -357,7 +405,7 @@
       "id": "ace01003a2ad",
       "title": "[김연수의 식탁이야기(83)] 봄볕에 무너지는 피부 건강, ‘자외선 사각지대’ 경고 - 뉴스투데이",
       "published": "2026-03-27T02:03:00+00:00",
-      "summary": "[김연수의 식탁이야기(83)] 봄볕에 무너지는 피부 건강, ‘자외선 사각지대’ 경고&nbsp;&nbsp;뉴스투데이'찬란한 봄햇살' 눈 건강엔 치명적…\"선글라스 챙기세요\"&nbsp;&nbsp;뉴시스“운동을 열심히 할수록 피부는 더 늙는다? 그 이유는…”&nbsp;&nbsp;세계비즈눈도 자외선에 탄다…안과 전문의들이 알려주는 눈 건강 4가지 핵심 수칙&nbsp;&nbsp;시애틀코리안데일리여름철 피부가 급격히 늙는 이유... '열노화' 때문&nbsp;&nbsp;공감신문",
+      "summary": "[김연수의 식탁이야기(83)] 봄볕에 무너지는 피부 건강, ‘자외선 사각지대’ 경고&nbsp;&nbsp;뉴스투데이'찬란한 봄햇살' 눈 건강엔 치명적…\"선글라스 챙기세요\"&nbsp;&nbsp;뉴시스“운동을 열심히 할수록 피부는 더 늙는다? 그 이유는…”&nbsp;&nbsp;세계비즈눈도 자외선에 탄다…안과 전문의들이 알려주는 눈 건강 4가지 핵심 수칙&nbsp;&nbsp;seattlekdaily.com여름철 피부가 급격히 늙는 이유... '열노화' 때문&nbsp;&nbsp;공감신문",
       "sources": [
         {
           "name": "뉴스투데이",
@@ -374,54 +422,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qVW9tLU9KNncyRnFORUZiQzJYSE5YRDlkdzBveU4tNjdadUtTcFVJamM3UnYwNTk2UTN2ZWI4SDlpU2NKTFlpaDRiU1VSa0M3Wno1WGVMVmxpWWVUVF9XSWxMbFN5enV2WGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "67f31545216f",
-      "title": "아열대 작물 성공 농사는 바이러스병 예방부터 - 농업인신문",
-      "published": "2026-03-27T00:32:47+00:00",
-      "summary": "아열대 작물 성공 농사는 바이러스병 예방부터&nbsp;&nbsp;농업인신문",
-      "sources": [
-        {
-          "name": "농업인신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SZFhBN1hjQnphQlpoX3ZmQi1BQzZFaUxsbENsSWxRZGlzR3pPd1RMY2tvc3FLY2w3Q1FGaFFIMV9RbFJuV2F1QXBQZ2R4R3ZUeEhWMEVRemRTVmI3YUdQSVNiM0Npak9CV0pCZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a29d629cd57",
-      "title": "당뇨병 진단 초기 '미래 합병증' 예측 AI 플랫폼 등장 - 메디칼트리뷴",
-      "published": "2026-03-26T23:42:39+00:00",
-      "summary": "당뇨병 진단 초기 '미래 합병증' 예측 AI 플랫폼 등장&nbsp;&nbsp;메디칼트리뷴당뇨병, 숫자가 아니라 패턴을 본다 - 양태영 태영내과21 원장&nbsp;&nbsp;v.daum.net체중 감량 없는 전당뇨 치료, 핵심은 ‘지방 재배치’와 ‘인슐린 감수성’&nbsp;&nbsp;바이오타임즈“같은 전단계도 위험 다르다”… 가장 좋은 ‘당뇨’ 관리 전략 보니&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "메디칼트리뷴",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53Y2J4WUVhbHZGekd2TUdHWWpVaUlVVzB0YXlaVUt4ZTM3OTFTaTZrLUo1WDFYZDVXWW5ta2duWHJqNXo3dm9nQmxKT2xRT2V5YmVVbDdPcnhPWjEyNVRvNm5JTVlPU1ZqaTNwbHBSQVFLM0FRYVHSAXpBVV95cUxPcjI4S01Gc3N4ZDh3SXRreG1YODNpODd6ck1STFdWRi1Ua04wd1R1cG1FZFhvMGc5dW9hYm5FSHdGZlpkNE9QWTNicDhRRTFDVDJ1RjRXcVZTd29ENDBEcVV0dGtFd2pBYklZaS1DbXA3bG5PQzBJRENzUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cee61573794b",
-      "title": "트럼프, CDC 수장 인선 착수… 홍역 확산 속 ‘백신 리더십’ 시험대 - IT조선",
-      "published": "2026-03-26T23:06:36+00:00",
-      "summary": "트럼프, CDC 수장 인선 착수… 홍역 확산 속 ‘백신 리더십’ 시험대&nbsp;&nbsp;IT조선코로나 뒤 \"백신 못 믿어\"…美·英·호주, 접종률 급락&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "IT조선",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QeGtPR0gxT2JuMHVuMGU1VGU4Nmp5UWdhbE9saWpoWDdxRmd0NkZUaDRTbEhsOWh4YlhNcFZxS2JFS2Iwc0ZHdXhTQi1PWnR5cHBZSG1KNXllSHhfMjNQTTRLZ3JKdmVQb2RPQVJHaE3SAXRBVV95cUxPX0k0NEpTMF83TDBMbXhWdzNVNTF0Q2REQlZ0QlRXRTg2RnpfRkRDcUFpTXh6ZW9HWTBTSmtZOG83NXVqem1WMUZZX0dQZkFHMV9oX1FXQWpMZG9mN1BFUVBZclFiY0lHUkp6SUZSblNXU0p4Rw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "58b59e5874a9",
-      "title": "성균관대 원홍희 교수팀 \"같은 유전 변이라도 세포 종류 따라 발현 딴판\" … 뇌 질환 원인 세포 단위에서 규명 - 뉴데일리 경제",
-      "published": "2026-03-26T21:00:00+00:00",
-      "summary": "성균관대 원홍희 교수팀 \"같은 유전 변이라도 세포 종류 따라 발현 딴판\" … 뇌 질환 원인 세포 단위에서 규명&nbsp;&nbsp;뉴데일리 경제Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "뉴데일리 경제",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9UM0VSSVN4VGk1LTRvVmVFNy1wWjZ1SWYwa0lEWGI3R1JUdkF1SW9TQkp1SDZfOFdHbDRDXzV2RVBSLWdQaE9pakxIYjJFZFpMMWRmVzlzWjBSVlJuMThfcWd2TVhySE4xYWYzbDd1NndRNHN4cjh4YUg3QQ?oc=5"
         }
       ]
     },
