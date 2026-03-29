@@ -1,10 +1,94 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-03-29T02:46:52.523943+00:00",
-  "total_fetched": 66,
-  "unique_count": 66,
+  "fetched_at": "2026-03-29T07:09:28.858952+00:00",
+  "total_fetched": 67,
+  "unique_count": 67,
   "health_related_count": 37,
   "news": [
+    {
+      "id": "680a66d9a0c3",
+      "title": "뇌과학자 문제일 교수 “특정 냄새만 못 맡으면 치매 전조 증상” - 동아일보",
+      "published": "2026-03-29T05:19:00+00:00",
+      "summary": "뇌과학자 문제일 교수 “특정 냄새만 못 맡으면 치매 전조 증상”&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OU0lfMVMxUEZyX0xiTFgtRFg2ZEJ4QkNrajBEczYtc0pEQ2YxbTZ2VW1HSWY0azExM2tUdy04Qi1DMnRWMGswR2JiX3pDQ3NEV3NWWThzZTlEX0Nja29teEFHako0aU1iS3pkc21wTdIBZkFVX3lxTFBEaHRsSnFaUTQ3VnFYWDdfMkRwTFlVajk0N1NMXzdLeXlmd29pX0xUeUwxQUo4eFdlSTFIRkU2Qkoybk14OE0tZWJrcE52akVpN21DcExoLWhlNENSYTh2WDVNTTRDUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6667f14fb138",
+      "title": "잇몸 염증, 알츠하이머와 연관... 구강 건강이 뇌 건강 좌우 - 메디컬투데이",
+      "published": "2026-03-29T04:47:19+00:00",
+      "summary": "잇몸 염증, 알츠하이머와 연관... 구강 건강이 뇌 건강 좌우&nbsp;&nbsp;메디컬투데이잇몸 염증, 알츠하이머와 연관…구강 건강이 뇌 건강 좌우&nbsp;&nbsp;네이트“살아 움직이는 세균 덩어리” 치석, 주기적으로 없애라&nbsp;&nbsp;조선일보입속 염증이 몸을 망친다? 치주염이 전신에 미치는 과학적 영향&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QcU1xR0RRVFJNc3VidGlKOU04WWFYd0F1bW9qZDBOVlR1TFBUQUwwNlo0aXdlaEU4SEQ3ZU85WFpQcGNfcjBCanhDMjRvZDNKWjFOa2p5WUJwRnhmTWR3N2xB0gFsQVVfeXFMTlRtSkg3Q09UMFRfTFhSTHhlRmhNNzFhMXRQVGpHSjVZUHN2Wmw3bFVsdVk4VHd4ZzNSa080UFZKcmlDZnEycV9uV2JnM3QtMDh2eE01THpFQUsxcU9melhZclktVVI4NTFHQzlu?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0520e0baec6a",
+      "title": "혼밥할 때 리모컨 못 참는 당신…입으로 직행한 ‘세균’ - segye.com",
+      "published": "2026-03-29T04:19:27+00:00",
+      "summary": "혼밥할 때 리모컨 못 참는 당신…입으로 직행한 ‘세균’&nbsp;&nbsp;segye.comGoogle 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "segye.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LRDNkNTY0ejlaYmtXSkVuWVYzTDdUa3hsNUJxTFFwMk94cS01ZmNUWjF2dnJqMDFqc2duTHROYkN3UktocXAzRkpDQk9POWhKUzZLVjZxdDLSAVRBVV95cUxNNG1OZ1ZOTGRMcThndEdhRktNSHNPYS1NNGg5UnA0YXVvLUFlUi1Va1JpMzlwUDFMYkl4OVpUWjVsWEc0ams3WC1sUVBDSVBzUlJ6S0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e9d2edec91b8",
+      "title": "탱고 한번 출까? 멈췄다 섰다 하니, 파킨슨병·치매 개선에 도움 - 코메디닷컴",
+      "published": "2026-03-29T03:06:00+00:00",
+      "summary": "탱고 한번 출까? 멈췄다 섰다 하니, 파킨슨병·치매 개선에 도움&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SaGJhMG9PTE1aY3F2NWpUMXE0MW02NHFjMWpBTjAycGM0dkduOS1VLTY3ekNvZFQzdVUyV3JsdHdzdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4daa31c22e98",
+      "title": "당근 하나로 달라지는 건강: 몰랐던 영양과 효능 완전 정리 - 한국AI부동산신문",
+      "published": "2026-03-29T03:05:45+00:00",
+      "summary": "당근 하나로 달라지는 건강: 몰랐던 영양과 효능 완전 정리&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ta1FJT29xMnNMVnpYVU5neVFWMGhpb09CT0ZkbDdMSzc1c1NIS1drZjc0WG1la0JZQnlZVUxQNDA1bEwtS0QyNGxSelY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d2385f9df9e",
+      "title": "숨 쉬기 편해지는 식탁: 폐 건강을 지키는 슈퍼푸드 총정리 - 한국AI부동산신문",
+      "published": "2026-03-29T02:58:16+00:00",
+      "summary": "숨 쉬기 편해지는 식탁: 폐 건강을 지키는 슈퍼푸드 총정리&nbsp;&nbsp;한국AI부동산신문Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OUXhfVnVxekdPamd3X1M0dmdMRF9SMU14dzkyOUhxay12azFiZXRIcG9EMW9VOVltdFZIb0tQbUk2ai1VRjU0Sm1jV0o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "416e8dacbf40",
+      "title": "돼지 정액으로 만든 안약, 난치성 망막암 치료에 효과 - 동아사이언스",
+      "published": "2026-03-29T02:35:00+00:00",
+      "summary": "돼지 정액으로 만든 안약, 난치성 망막암 치료에 효과&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzTVpKTVNZbmVfREtpU2RCWE9DZmZSaGhGRGJsTExzY3IzWjY2SklsWS11RnhyRVFCNk42NjhwOW1jVFlSMGxOQW56YmR2MFlJd3EyaQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "ed61c1089d19",
       "title": "스트레스 받으면 ‘아토피’ 심해지는 이유 발견… \"특정 교감신경이 염증 세포 자극\" - 하이닥",
@@ -14,6 +98,30 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wbVQyZWZOYno4RkdDT3ZPNm9vWTI4OTJIeEtfcnRBSTdOUFpiMnNFcDJ3Vl9JT29pYllDSlJCZ1ZYb09nMkNjaVRVT1AwdzdIM0ZWZFhBOEFmVWZJUzdqMGplMnNFLUtzN3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "82c251348ec9",
+      "title": "앤트로픽, 생물학 연구용 에이전트 '오페론' 개발 중...'AI 과학자' 발동 - aitimes.com",
+      "published": "2026-03-29T01:49:06+00:00",
+      "summary": "앤트로픽, 생물학 연구용 에이전트 '오페론' 개발 중...'AI 과학자' 발동&nbsp;&nbsp;aitimes.com",
+      "sources": [
+        {
+          "name": "aitimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WRzVCSGhCWXhIVWpZXy1zWjRnRDJfQTdIWlA0MXhrQjBNZnhoVlRlTjU3SVg3OUhPQkpSVG9HSHl5Q0wwcjFHc0dlU21pZUNOTHc0RUJlc2RPeWJTVEw2X1h3RzM1QXV6SXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d766912babf",
+      "title": "'면역 최전방' 코 점막 검사…환자고통 낮추는 '이 방법' - 미디어데일",
+      "published": "2026-03-28T23:59:06+00:00",
+      "summary": "'면역 최전방' 코 점막 검사…환자고통 낮추는 '이 방법'&nbsp;&nbsp;미디어데일Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "미디어데일",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pTnV5bzh2OEliWGRLckhIaUZERkVqNjB0UzNLRnRxMUxBZER5Qlc5Q1dMRm1YWWM1M0FXSjhBV3Y5RUY3Y091S1pMNW9SajllLWdOVmJ2LTl6SFF3MXBUaEpfMUJJRDlmQ21r?oc=5"
         }
       ]
     },
@@ -57,7 +165,7 @@
       "id": "079fa6b11ea0",
       "title": "“간단히 먹으려 했는데”… 치매 부르는 ‘아침식사’ 습관은? - 조선일보",
       "published": "2026-03-28T17:02:00+00:00",
-      "summary": "“간단히 먹으려 했는데”… 치매 부르는 ‘아침식사’ 습관은?&nbsp;&nbsp;조선일보“치매 유전자 있다면 고기 더 드세요”…발병 위험 45% 뚝 떨어졌다&nbsp;&nbsp;v.daum.net치매 유전자 있어도…중년에 '이것' 먹으면 발병 위험 45% 뚝&nbsp;&nbsp;네이트치즈를 먹으면 치매 위험을 낮출 수 있다?&nbsp;&nbsp;뉴스통고기 많이 먹으면 치매 덜 걸린다?”…‘이 유전자’ 가진 사람만 달랐다&nbsp;&nbsp;디멘시아뉴스",
+      "summary": "“간단히 먹으려 했는데”… 치매 부르는 ‘아침식사’ 습관은?&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "조선일보",
@@ -102,14 +210,14 @@
       ]
     },
     {
-      "id": "c8a685b955c3",
-      "title": "코점막 세포 채취 검체의 세포 구성 및 면역 특징 규명 - 보건신문",
-      "published": "2026-03-28T08:23:33+00:00",
-      "summary": "코점막 세포 채취 검체의 세포 구성 및 면역 특징 규명&nbsp;&nbsp;보건신문Google 뉴스에서 전체 콘텐츠 보기",
+      "id": "15aafff78b17",
+      "title": "나도 치매 위험 있을까?… 수면 중 ‘이것’ 보면 안다, 뭐길래 - 코메디닷컴",
+      "published": "2026-03-28T07:05:00+00:00",
+      "summary": "나도 치매 위험 있을까?… 수면 중 ‘이것’ 보면 안다, 뭐길래&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLOGFBQjBLa3dwa2tJYVhtMEgxRncyLXIxbHJfMnJUTDN2VVhNR2Vxa043LV9VVDFuMTdNWTF1N3hMOVZfVXI0eEVvTlJTLUZIeENfZlNDX2FWcXNxcUF1bGZDaw?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBhR0w1LWpkd3F2bHVkeEhtRjVxcDBRaGhwb1pmUFFFeTZhaWozd0JJU2VJR0FOSm1VRElRTE9mZUJOUQ?oc=5"
         }
       ]
     },
@@ -129,7 +237,7 @@
       "id": "985cd6b1bba0",
       "title": "똑같이 앉아 있어도 치매 걸리는 이유…'이 행동'에 달렸다 - 조세일보",
       "published": "2026-03-28T02:51:24+00:00",
-      "summary": "똑같이 앉아 있어도 치매 걸리는 이유…'이 행동'에 달렸다&nbsp;&nbsp;조세일보“치매가 너무 빨리 왔습니다”...성인 2만여명 추적했더니 문제는 ‘이 행동’&nbsp;&nbsp;v.daum.net\"앉아지낸다고, 모두 같은 '좌식 행동' 아냐\"…'이런 행동'은 치매에 좋다&nbsp;&nbsp;네이트TV 많이 보면 정말 치매 위험 높아질까?[노화설계]&nbsp;&nbsp;동아일보“TV·쇼츠, 1시간씩만 덜 봐도...”우울증 위험 최대 43% 낮아진다&nbsp;&nbsp;매일경제",
+      "summary": "똑같이 앉아 있어도 치매 걸리는 이유…'이 행동'에 달렸다&nbsp;&nbsp;조세일보“치매가 너무 빨리 왔습니다”...성인 2만여명 추적했더니 문제는 ‘이 행동’&nbsp;&nbsp;v.daum.net같은 앉은 자세라도 멍때리면 '치매' 책 읽으면 '예방'…핵심은 뇌 활동&nbsp;&nbsp;네이트“앉아지낸다고, 모두 같은 ‘좌식 행동’ 아냐”…‘이런 행동’은 치매에 좋다&nbsp;&nbsp;코메디닷컴TV 많이 보면 정말 치매 위험 높아질까?[노화설계]&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "조세일보",
@@ -294,14 +402,14 @@
       ]
     },
     {
-      "id": "2c538f1b70e5",
+      "id": "1fb3c0f72099",
       "title": "국립암센터·대한암예방학회, 공동 심포지엄 개최 - 메드월드뉴스",
       "published": "2026-03-27T07:32:24+00:00",
-      "summary": "국립암센터·대한암예방학회, 공동 심포지엄 개최&nbsp;&nbsp;메드월드뉴스[위클리 건강] 14∼49세 '젊은 암' 폭증 왜?…청소년기가 예방 골든타임&nbsp;&nbsp;v.daum.net“30대가 60대보다 대장암 위험 높아”… 국립암센터, ‘암 예방의 날 심포지엄’ 개최&nbsp;&nbsp;조선일보올해 암 환자 약 '31만명' 발생 예상 전망치 나와&nbsp;&nbsp;메디칼업저버국립암센터, '2026년 암 예방의 날 기념 공동 심포지엄' 개최&nbsp;&nbsp;서울와이어",
+      "summary": "국립암센터·대한암예방학회, 공동 심포지엄 개최&nbsp;&nbsp;메드월드뉴스“30대가 60대보다 대장암 위험 높아”… 국립암센터, ‘암 예방의 날 심포지엄’ 개최&nbsp;&nbsp;조선일보올해 암 환자 약 '31만명' 발생 예상 전망치 나와&nbsp;&nbsp;메디칼업저버국립암센터, '2026년 암 예방의 날 기념 공동 심포지엄' 개최&nbsp;&nbsp;서울와이어[3월 27일 병원계 이모저모④]국립암센터, 건국대, 노원을지대, 서울대병원 등 소식&nbsp;&nbsp;medicalworldnews.co.kr",
       "sources": [
         {
           "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XREdhNjhuM1hiOWtmbWhORjEzcTB0MjFHcDZXZmtnamEwYUg3dXBibWlvaHF5MFZ3b1RuY3FKN19pLWR2UUtDNVdqd1VXZ3c4NzRTRjF3VllCOEQ1WEZ6cURMMXZXcDMweW5jQVFn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93RnZjWnZRNVJ3cVhMWnNpSFAzOEl2NmZ6aXdJWUdHSjQxQ1JrNVZsUHE4ajJHdW12cTVTV2ZqbjFkbTAtMWdSRElsVGhjYlo3LUgtMkNkNFZXLTRPelpjRTdYemdFZVpVOVVyVA?oc=5"
         }
       ]
     },
@@ -330,102 +438,6 @@
       ]
     },
     {
-      "id": "96b7e6957df3",
-      "title": "인슐린 투여 당뇨 환자, 치매 위험 2.3배 ↑… “선제적 인지 기능 검사 필수” - 하이닥",
-      "published": "2026-03-27T05:30:00+00:00",
-      "summary": "인슐린 투여 당뇨 환자, 치매 위험 2.3배 ↑… “선제적 인지 기능 검사 필수”&nbsp;&nbsp;하이닥당뇨병이 치매 위험 높인다… “인슐린 치료 땐 이미 고위험군”&nbsp;&nbsp;조선일보혈당 말고, 기억이 걱정되기 시작했다&nbsp;&nbsp;브런치1형 당뇨 환자, 일반인에 비해 치매 위험 3배 높아&nbsp;&nbsp;메디컬투데이당뇨도 서러운데…치매 위험도 최대 2.4배 높아&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyeklhaTFnTjhZVVg5bENFTWh2MHI2ZXlKNXl3aktsSlFlRFV3MTBxaUF2R1JKb2Njb1NjY0NsT1ZvakI0Z3pHSko2STVNUmVWc3dLcFBLbS1NZnJtdGJKaXZuclhrUDV0T2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "17f8c061105f",
-      "title": "해운대백병원 연구팀, 췌장암 방사선 치료 효과 높이는 원리 규명 - doctorstimes.com",
-      "published": "2026-03-27T04:45:27+00:00",
-      "summary": "해운대백병원 연구팀, 췌장암 방사선 치료 효과 높이는 원리 규명&nbsp;&nbsp;doctorstimes.com'고주파 온열치료'에 첨단 전기자극치료 더하면 '암 치료 시너지' 기대감&nbsp;&nbsp;네이트아디포랩스, ‘암 치료 희망 나눔 컨퍼런스’ 성료&nbsp;&nbsp;의학신문해운대백병원, 췌장암 방사선치료 효과 높이는 기전 규명&nbsp;&nbsp;healthfocus.co.kr췌장암 방사선치료에 온열치료 병용하면 AQP5 감소해 치료효과 상승&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "doctorstimes.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95MTV0TTFZazJFU2MzV2ZhSjdmYkQtLUZBSnl6RjAwTW1RdUZZSjNGMllERXlfNjJoLURUS01mMlJ4LVFfV1VSUk10VTZ0b0hqd0pJbEtyMVg2TnFiWnA0ei1PZjgwUDEzS3hhTE1kMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc1475f4ff71",
-      "title": "[김우재의 플라이룸] (74) 뇌와 면역계의 은밀한 대화 - 주간경향",
-      "published": "2026-03-27T04:38:00+00:00",
-      "summary": "[김우재의 플라이룸] (74) 뇌와 면역계의 은밀한 대화&nbsp;&nbsp;주간경향",
-      "sources": [
-        {
-          "name": "주간경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2R2h4X2ZESjB3R3BDT3A5QWlkS3BPTVRYaUxEakdfSkFGWGxHR0o4VGdTTjhCSnBYSGE3RzNFaWF0OUJDRTROSUNTOTg0TVE2UVVWRzZTMnNHN05ia2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8941ede76071",
-      "title": "‘단백뇨’ 진단됐다면 신장기능 이상일 수도 - 헬스경향",
-      "published": "2026-03-27T04:10:03+00:00",
-      "summary": "‘단백뇨’ 진단됐다면 신장기능 이상일 수도&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6Q1hBUEFad3pITDQzTnRvbHU2b1pjc0xLaXh2V0I0TjhTY2pFYW9Bb3hJQzFzbnVsY0hWdmFRT3AzOWN3UWVIWHNfNXZObl9NcWxpNE5fSzZ0UjlWOWJHdWtmWFh4TEVSSkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d794f566b39",
-      "title": "짜게 먹는 식단, 심부전 위험 높인다... “혈압 정상이어도 위험” - 하이닥",
-      "published": "2026-03-27T03:30:00+00:00",
-      "summary": "짜게 먹는 식단, 심부전 위험 높인다... “혈압 정상이어도 위험”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vcHJWX01RdFRDanJlejJySFZTcF94LTJzTG00eXg2M3ZISk9uRHMxb0xqU3YyOWg3MVBybXFQLS1od0tBUTZaajdyR0JXM3d5eHRQUHROT1JBb1V5Yzl0Qk5NbElYeVdMaFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "796e77a59bb9",
-      "title": "비만인데 담배까지?… 젊어도 시야 흐려지는 ‘이 질환’ 위험, 뭘까 - 코메디닷컴",
-      "published": "2026-03-27T02:14:00+00:00",
-      "summary": "비만인데 담배까지?… 젊어도 시야 흐려지는 ‘이 질환’ 위험, 뭘까&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5leXdIaVV5Y3JEMHVGQTFPVk5NUW1nTWh3QnZ4bkF3T1pNS2ZGLU5qaG84REtkUnUxU2xaOUQxaVFqQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ace01003a2ad",
-      "title": "[김연수의 식탁이야기(83)] 봄볕에 무너지는 피부 건강, ‘자외선 사각지대’ 경고 - 뉴스투데이",
-      "published": "2026-03-27T02:03:00+00:00",
-      "summary": "[김연수의 식탁이야기(83)] 봄볕에 무너지는 피부 건강, ‘자외선 사각지대’ 경고&nbsp;&nbsp;뉴스투데이'찬란한 봄햇살' 눈 건강엔 치명적…\"선글라스 챙기세요\"&nbsp;&nbsp;뉴시스“운동을 열심히 할수록 피부는 더 늙는다? 그 이유는…”&nbsp;&nbsp;세계비즈눈도 자외선에 탄다…안과 전문의들이 알려주는 눈 건강 4가지 핵심 수칙&nbsp;&nbsp;seattlekdaily.com여름철 피부가 급격히 늙는 이유... '열노화' 때문&nbsp;&nbsp;공감신문",
-      "sources": [
-        {
-          "name": "뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wclcza3p3Njl1UlRkS3RmMlNzdTZHa3pSb25OZnJja3MzT3pNMEpDNzZjZjkxdmQxcDlzbFRpc2stQzFZZzA5MkpPNUw0UzFSemRFRXhGcTlxZ2RxWXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b317077e3c58",
-      "title": "“대사증후군, 약에 의존하다 만성질환 키운다… 생활습관 ‘이렇게’ 바꿔야” - 하이닥",
-      "published": "2026-03-27T02:00:00+00:00",
-      "summary": "“대사증후군, 약에 의존하다 만성질환 키운다… 생활습관 ‘이렇게’ 바꿔야”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qVW9tLU9KNncyRnFORUZiQzJYSE5YRDlkdzBveU4tNjdadUtTcFVJamM3UnYwNTk2UTN2ZWI4SDlpU2NKTFlpaDRiU1VSa0M3Wno1WGVMVmxpWWVUVF9XSWxMbFN5enV2WGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "08d55a59beb0",
       "title": "中 더우산 유적지서 ‘석방륜’ 작업터 발견, 6천년前 최초 ‘제조업’ - 인민망",
       "published": "2026-03-26T07:21:00+00:00",
@@ -434,18 +446,6 @@
         {
           "name": "인민망",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HWTNzNzQ5aUhMcWxzZF9HYUp2NTRxQm1rOFZwNFJPRnVtRFVCc3FwRkp3WjFsQ0ZtZ3paX3dTVmJwSGZtdEhrZ2xPSzlHMUhGY0I0YlJVZnlaOWtweTlTenFvVm9TRVhiYnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e9fcb543339",
-      "title": "\"정부출연연구기관, 전체 R&D 20~30%는 개인별 하고픈 연구했으면…\" - 지디넷코리아",
-      "published": "2026-03-26T05:59:40+00:00",
-      "summary": "\"정부출연연구기관, 전체 R&amp;D 20~30%는 개인별 하고픈 연구했으면…\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtQVo4UUo2XzJmX0NOZHlIUUYwSmF6a1NTMmVXbWhONkpoQjlkTmFHczA0Ynh3T1c5MlUzZGFZY3JlT1F0ZHRUTXRlZk96aVpNR2VKZG9R?oc=5"
         }
       ]
     }
