@@ -1,15 +1,99 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-03T07:14:54.438316+00:00",
-  "total_fetched": 82,
-  "unique_count": 81,
-  "health_related_count": 39,
+  "fetched_at": "2026-04-03T13:11:37.727784+00:00",
+  "total_fetched": 83,
+  "unique_count": 82,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "9fac83e139a4",
+      "title": "예뻐지려 받은 지방이식술… 30대 여성, 뇌경색·두개골 결손 - 헬스조선",
+      "published": "2026-04-03T11:30:00+00:00",
+      "summary": "예뻐지려 받은 지방이식술… 30대 여성, 뇌경색·두개골 결손&nbsp;&nbsp;헬스조선\"'이곳' 성형하다가 뇌경색…\" 30대 女, 두상 과하게 부푼 이유는?&nbsp;&nbsp;코메디닷컴미용수술 후 뇌졸중&nbsp;&nbsp;vietnam.vn여성 환자가 자가지방이식 후 뇌졸중을 겪어 두개골 재건이 필요합니다.&nbsp;&nbsp;vietnam.vn33세 여성이 관자놀이 부위에 지방 주입 시술을 받은 후 뇌졸중을 겪었습니다.&nbsp;&nbsp;vietnam.vn",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uUVpWSU1yTTRQSmdEN2EtVzRpR002RE9qWmFyLVVTT2lRVkI0NGpiMnk3R2owNmVwckUweHVDNTd4YlFZZTJVZTEzN3NPUWZ6S3FnVXB1dHBVaEN5cDBXbS16YnpobDlLT1k3cjlXR01zdkRvLWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4323b2d23ef5",
+      "title": "[오민지 원장의 한의학 이야기] 노화와 질병이 보내는 경고장 ‘다리 쥐’ - ilyoseoul.co.kr",
+      "published": "2026-04-03T09:52:46+00:00",
+      "summary": "[오민지 원장의 한의학 이야기] 노화와 질병이 보내는 경고장 ‘다리 쥐’&nbsp;&nbsp;ilyoseoul.co.kr",
+      "sources": [
+        {
+          "name": "ilyoseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWYmw0a1BRYVU1V0JPUXNHeFp0QU1nckdmTC01OEVobFdnblh5aGtiamxPLVBvSGpDV3k0Y28xY3FlNjM5MjhjcjJJQXZVNElhMTFKbUVkWGxkVjZ3RXJ5bFZId2FXTnZTMDhSeG5n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c12efbf34132",
+      "title": "중년에 우울증·당뇨 앓으면...‘영츠하이머’ 위험 2배 이상 높아 - dementianews.co.kr",
+      "published": "2026-04-03T09:41:13+00:00",
+      "summary": "중년에 우울증·당뇨 앓으면...‘영츠하이머’ 위험 2배 이상 높아&nbsp;&nbsp;dementianews.co.kr",
+      "sources": [
+        {
+          "name": "dementianews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42anptMVFLQktseVkzY0tmTDFBeDhkRkRQSkcyNldxOWdCazdPUGJ1Y3JJT3pld2ZUQmsxV0xlRURFRVhaQnYxaE9QSGUxRHZDdE5sTHliYWtJWnNGX0k5Y0R6MW9HTElmNkVNM0tNbVR1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "605a515de57a",
+      "title": "'UDCA' 급격한 체중감량으로 인한 담석 발생 위험 예방 - 현대건강신문",
+      "published": "2026-04-03T08:43:00+00:00",
+      "summary": "'UDCA' 급격한 체중감량으로 인한 담석 발생 위험 예방&nbsp;&nbsp;현대건강신문",
+      "sources": [
+        {
+          "name": "현대건강신문",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xNWwySHNhVzdFZ1RnNmRab25ibnJuaWxLaVR6WkRXWUFROV9tN3MybFAtc2NIbFFkMUtyZ2Q1dW43NmJTeWF5bGgwVnphV3VXRmdsVTNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6a1da69b247",
+      "title": "남·동남아시아 여행 계획 중이신가요? 여행 전 니파바이러스 감염증 예방수칙 확인하세요! - 모빅경제",
+      "published": "2026-04-03T07:46:29+00:00",
+      "summary": "남·동남아시아 여행 계획 중이신가요? 여행 전 니파바이러스 감염증 예방수칙 확인하세요!&nbsp;&nbsp;모빅경제",
+      "sources": [
+        {
+          "name": "모빅경제",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90UGxHWkk5NTBHVVFDMHN0VjFmNDMxS3pEQTV5dllyQzYySnh3Y20yRVEtTDR1NGVWczZHU2VBSFRJRlFJTzRSdW40WjBqcmszdzlTLWc0YmJCblcyT2JVeFpObUxJaVN4alZsZ1dlSjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d7db9b19f11",
+      "title": "“여성 건강? 호르몬이 핵심”… ‘이 식사법’ 불균형 바로잡는다고? - 코메디닷컴",
+      "published": "2026-04-03T07:05:00+00:00",
+      "summary": "“여성 건강? 호르몬이 핵심”… ‘이 식사법’ 불균형 바로잡는다고?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA1WjZnUXBsMWk3XzBBUUxoSzFqeWcxd0VPajV1TmJVaDhZcTVVTUVyWXJGb2w5cnlKTUF3X0JoQjl0dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c80c091269d3",
+      "title": "국립어린이청소년도서관, \"이 열매를 집으로 할까?\" \"AI에게 건강을 맡겨도 될까요?\" 등 사서추천도서 8권 선정 - K스피릿",
+      "published": "2026-04-03T06:32:18+00:00",
+      "summary": "국립어린이청소년도서관, \"이 열매를 집으로 할까?\" \"AI에게 건강을 맡겨도 될까요?\" 등 사서추천도서 8권 선정&nbsp;&nbsp;K스피릿",
+      "sources": [
+        {
+          "name": "K스피릿",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcEMzRzdKOUtSZDV5NXI1NmtJb2ZqS3M5MzJPWDVrajFPNmxIRFdLbzdqUDJIcEZCVTU4NTRrVEUwZ3ZVSHBfU1NJWldmTjFVRnhZX2JYY1NnUW5jNF8wMk9TY1cyM2h0c2Q0RzBsYw?oc=5"
+        }
+      ]
+    },
     {
       "id": "fecb34fe5b1f",
       "title": "코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\" - 하이닥",
       "published": "2026-04-03T06:00:00+00:00",
-      "summary": "코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;연합뉴스코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;조선일보",
+      "summary": "코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;연합뉴스코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "하이닥",
@@ -78,10 +162,22 @@
       ]
     },
     {
+      "id": "d7ea3f1752c8",
+      "title": "\"잠들기 전 '이 행동', 심장엔 독\", 수면 방해하는 나쁜 습관들 - 여수교차로",
+      "published": "2026-04-03T00:44:24+00:00",
+      "summary": "\"잠들기 전 '이 행동', 심장엔 독\", 수면 방해하는 나쁜 습관들&nbsp;&nbsp;여수교차로“이것 피하세요” 심장에 ‘독’ 쌓이는 4가지 수면 습관&nbsp;&nbsp;조선일보\"잠들기 전 이 행동, 심장 망친다\"…전문가가 경고한 4가지 습관&nbsp;&nbsp;v.daum.net“5분 더 자고 2분 더 걷기”… 수명 늘리는 습관의 마법 [노화설계]&nbsp;&nbsp;동아일보\"나도 이렇게 잤는데…\" 심장에 '독' 쌓이는 4가지 수면 습관은?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "여수교차로",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44VGRGWXpXekt6bFF4c0pVXzBOdUlMYnFxS0hpTGJLR3RCT0dDOEtFMzBpdjdhTlJhNTVzUnViZFB4ekFTSFpkYWRNU3JNc2xnbXlxY3piclo?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d9ebe8bf60e3",
       "title": "“전자담배도 방심 금물”… 흡연, 중장년층에게 ‘퇴행성 허리디스크’ 야기한다[기고] - 문화일보",
       "published": "2026-04-02T23:58:53+00:00",
-      "summary": "“전자담배도 방심 금물”… 흡연, 중장년층에게 ‘퇴행성 허리디스크’ 야기한다[기고]&nbsp;&nbsp;문화일보[전문의 칼럼]전자담배, 판매 규제 안 하면 청소년 ‘흡연입문’ 수단으로 전락&nbsp;&nbsp;v.daum.net\"폐암 위험 4배 커진다\"…'이런 흡연 습관' 최악, 뭐길래?&nbsp;&nbsp;네이트전자 담배와 일반 담배 함께 피우면, 폐암 위험 얼마나 오를까?&nbsp;&nbsp;조선일보새로운 담배 중독 확산을 막기 위해 법을 개정해야 합니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "“전자담배도 방심 금물”… 흡연, 중장년층에게 ‘퇴행성 허리디스크’ 야기한다[기고]&nbsp;&nbsp;문화일보[전문의 칼럼]전자담배, 판매 규제 안 하면 청소년 ‘흡연입문’ 수단으로 전락&nbsp;&nbsp;v.daum.net\"폐암 위험 4배 커진다\"…'이런 흡연 습관' 최악, 뭐길래?&nbsp;&nbsp;네이트전자 담배와 일반 담배 함께 피우면, 폐암 위험 얼마나 오를까?&nbsp;&nbsp;헬스조선새로운 담배 중독 확산을 막기 위해 법을 개정해야 합니다.&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "문화일보",
@@ -90,37 +186,49 @@
       ]
     },
     {
-      "id": "24f03a274c6f",
-      "title": "“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야? - 조선일보",
-      "published": "2026-04-02T20:40:00+00:00",
-      "summary": "“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야?&nbsp;&nbsp;조선일보",
+      "id": "bd09649c8f27",
+      "title": "\"양자컴퓨터, 이르면 2027년에 기존 암호 체계 무력화 가능\" - 지디넷코리아",
+      "published": "2026-04-02T23:56:40+00:00",
+      "summary": "\"양자컴퓨터, 이르면 2027년에 기존 암호 체계 무력화 가능\"&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
-          "name": "조선일보",
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0cjctaWs3U3UxRVpxRnl5RlFrR2ZtOFlfQ2FBZmJ0UlE3Z19SbThodUZtS05TS3M5d2o5Y1FtUGVlV3VoOUE4dFVsVnlOSUVqTlBDRXJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53e5cc710457",
+      "title": "교감신경, \"췌장암 성장 촉진\" - 후생신보",
+      "published": "2026-04-02T21:57:00+00:00",
+      "summary": "교감신경, \"췌장암 성장 촉진\"&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsX3V3al92VnRldjRSSFRHTklsakgxUi1HQTFiNVQ2anpVU1E4YmlJRF9Cakp2S2VvQm40QWN0dm1zTElD?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24c40f53b869",
+      "title": "“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야? - 헬스조선",
+      "published": "2026-04-02T20:40:00+00:00",
+      "summary": "“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40TXdOenpJVmd3dkdXb25BdE0tQmppdW8yWWdqWXBIVE1qX2lkTTJKTzlrQzBiZVk1X1ZZUVhCZWQ3WWR3RmFsSTQteTI1dGtOVlpLMjZrSmxhaGtDdF81bVR0WVRuSWJtcTNuWGFweG84Y2xjM0E?oc=5"
         }
       ]
     },
     {
-      "id": "569c874e6032",
-      "title": "“이것 피하세요” 심장에 ‘독’ 쌓이는 4가지 수면 습관 - 조선일보",
-      "published": "2026-04-02T13:51:00+00:00",
-      "summary": "“이것 피하세요” 심장에 ‘독’ 쌓이는 4가지 수면 습관&nbsp;&nbsp;조선일보“자기 전에 매일 이러는데”…심장까지 망친다는 수면 습관 4가지 뭐길래&nbsp;&nbsp;v.daum.net\"잠들기 전 '이 행동', 심장엔 독\"…수면 방해하는 나쁜 습관들&nbsp;&nbsp;뉴시스\"잠들기 전 이 행동, 심장 망친다\"…전문가가 경고한 4가지 습관&nbsp;&nbsp;아시아경제“맨날 잠들기 전에 이러는데”…심장에 ‘독’ 된다는 나쁜 수면 습관 4가지 [헬시타임]&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMUV2d292S1VlazVSZTN4RDNvN21xV3RYUldNbmNyMzg5d0RWMmxVUm9BUVZxeGpUTDR2NEh1dDQ2YjIySVM1MmVMNXF1Z3JQTlBlT3NiRnd2TFRhdDRsYUdrN1prUmMzSmdYcTF0dU1FbXZwRzlueTJOMFZIUk5rOXVFZ3JTa1J5NTRFY1lSMlVxYTRt0gGoAUFVX3lxTE1oVldyTTYycUN6UDljNVVWOC02dE9vWU1KWDB4cnZwQ1dMeVJ2QjYzQldOS2xlLXFLM1AzSDBYU3p6QXdoMlRYdy10VC1QUVRONi1WT1dZRmhaQUN2NExjNDFoZ3E1ZFVBMUdnWlZoUDlMT3RsN3FIQmhrRmlyZnhZck1zSnRPQXlFaWFTTVBaMlRuVS1wTko1NEw5VVFQeW9ncEdtUVc3eQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c155389274a7",
-      "title": "아이에게 갑자기 생긴 땅콩 알레르기, 원인은 할머니의 ‘이것’ - 조선일보",
+      "id": "53418ac56be9",
+      "title": "아이에게 갑자기 생긴 땅콩 알레르기, 원인은 할머니의 ‘이것’ - 헬스조선",
       "published": "2026-04-02T13:20:00+00:00",
-      "summary": "아이에게 갑자기 생긴 땅콩 알레르기, 원인은 할머니의 ‘이것’&nbsp;&nbsp;조선일보",
+      "summary": "아이에게 갑자기 생긴 땅콩 알레르기, 원인은 할머니의 ‘이것’&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "조선일보",
+          "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtMDVudThleENtbDY1Q29CZkoyUExKd0ZtWnFiUzJoOFJxbzUwR25VeXpHVVhYenNFWVB0SEZpLUsxTWJzclhEbjlFVElLeVJJYXMzeFdxWWFGWFhmTWNrcWZZc1hGRzBiZWlYc191b0RIWTFqR3c?oc=5"
         }
       ]
@@ -129,7 +237,7 @@
       "id": "956a1baa5719",
       "title": "뇌 노화 늦추는 ‘마인드 식단’…“뇌 위축 지연 효과 확인” - 하이닥",
       "published": "2026-04-02T11:00:00+00:00",
-      "summary": "뇌 노화 늦추는 ‘마인드 식단’…“뇌 위축 지연 효과 확인”&nbsp;&nbsp;하이닥잎채소 많이 먹는 사람...나이 들면서도 머리 “생생”&nbsp;&nbsp;코메디닷컴“지중해식 식단 뭐가 좋길래?”... 심장∙뇌에 좋은 단백질 수치 높여&nbsp;&nbsp;하이닥지중해식 식단의 핵심 올리브유…심장·뇌·혈당 모두 챙기는 '슈퍼 식품'&nbsp;&nbsp;seattlekdaily.com[식이요법] \"자주 '깜빡'한다면 지중해식 식단으로 바꿔보세요 \"&nbsp;&nbsp;yakup.com",
+      "summary": "뇌 노화 늦추는 ‘마인드 식단’…“뇌 위축 지연 효과 확인”&nbsp;&nbsp;하이닥잎채소 많이 먹는 사람...나이 들면서도 머리 “생생”&nbsp;&nbsp;코메디닷컴“지중해식 식단 뭐가 좋길래?”... 심장∙뇌에 좋은 단백질 수치 높여&nbsp;&nbsp;하이닥[식이요법] \"자주 '깜빡'한다면 지중해식 식단으로 바꿔보세요 \"&nbsp;&nbsp;약업신문지중해식 식단의 핵심 올리브유…심장·뇌·혈당 모두 챙기는 '슈퍼 식품'&nbsp;&nbsp;시애틀코리안데일리",
       "sources": [
         {
           "name": "하이닥",
@@ -150,10 +258,22 @@
       ]
     },
     {
+      "id": "8b8fbdad24c7",
+      "title": "젊은 시절 비타민 D 부족하면...실제로 16년 뒤 ‘치매 단백질’ 쌓인다? - 코메디닷컴",
+      "published": "2026-04-02T09:01:00+00:00",
+      "summary": "젊은 시절 비타민 D 부족하면...실제로 16년 뒤 ‘치매 단백질’ 쌓인다?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94aktEQ2h4OU9ZdnpfLUhOQmt5aGVVOWRKdXhzNmV1bFZZN3FtancyX2hzQnBwdUVNM0RWUWV1dEVwUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9b165e2a8ad5",
       "title": "“코로나19 ‘매미 변이’ BA.3.2” 기존 변이와 차이점은? - 동포저널",
       "published": "2026-04-02T07:50:58+00:00",
-      "summary": "“코로나19 ‘매미 변이’ BA.3.2” 기존 변이와 차이점은?&nbsp;&nbsp;동포저널끝나지 않은 코로나 변이 공포 … \"매미처럼 숨어있다가 나타났다\"&nbsp;&nbsp;조선일보“코로나 백신도 소용없다고?”…돌연변이 무장 ‘시카다’ 습격, 세계 20개국 ‘비상’&nbsp;&nbsp;서울신문하노이, 올해 29명 코비드-19 확진…WHO 모니터링 중인 BA.3.2 변이 주의&nbsp;&nbsp;굿모닝베트남미디어보건부는 '매미' 변종 바이러스에 대한 공식 정보를 발표했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "“코로나19 ‘매미 변이’ BA.3.2” 기존 변이와 차이점은?&nbsp;&nbsp;동포저널끝나지 않은 코로나 변이 공포 … \"매미처럼 숨어있다가 나타났다\"&nbsp;&nbsp;헬스조선“코로나 백신도 소용없다고?”…돌연변이 무장 ‘시카다’ 습격, 세계 20개국 ‘비상’&nbsp;&nbsp;서울신문하노이, 올해 29명 코비드-19 확진…WHO 모니터링 중인 BA.3.2 변이 주의&nbsp;&nbsp;굿모닝베트남미디어보건부는 '매미' 변종 바이러스에 대한 공식 정보를 발표했습니다.&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "동포저널",
@@ -165,7 +285,7 @@
       "id": "5455e78d8a5c",
       "title": "美심장협회, 보건부와 서로 다른 영양 지침 발표 왜? - 코메디닷컴",
       "published": "2026-04-02T06:34:00+00:00",
-      "summary": "美심장협회, 보건부와 서로 다른 영양 지침 발표 왜?&nbsp;&nbsp;코메디닷컴쌀밥에 콩만 섞어도 충분…심혈관 건강 지키는 식사 루틴 [FOOD+]&nbsp;&nbsp;v.daum.net“심장병 부르는 식사”… ‘이것’ 안 먹으면 위험하다는데?&nbsp;&nbsp;조선일보\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스美 정부는 OK, 심장협회는 '줄여라'…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;네이트",
+      "summary": "美심장협회, 보건부와 서로 다른 영양 지침 발표 왜?&nbsp;&nbsp;코메디닷컴쌀밥에 콩만 섞어도 충분…심혈관 건강 지키는 식사 루틴 [FOOD+]&nbsp;&nbsp;v.daum.net“심장병 부르는 식사”… ‘이것’ 안 먹으면 위험하다는데?&nbsp;&nbsp;헬스조선\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스美 정부는 OK, 심장협회는 '줄여라'…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -186,14 +306,14 @@
       ]
     },
     {
-      "id": "1a972b7694ac",
+      "id": "7fd58d6d7b2f",
       "title": "한림대성심병원, 위암 성장 촉진 단백질 ‘UCHL1’ 작용기전 규명 - CNB뉴스",
       "published": "2026-04-02T04:14:54+00:00",
-      "summary": "한림대성심병원, 위암 성장 촉진 단백질 ‘UCHL1’ 작용기전 규명&nbsp;&nbsp;CNB뉴스위암 키우는 ‘이 단백질’ 억제했더니 암세포 증식 멈추는 효과 나타나&nbsp;&nbsp;v.daum.net위암 키우는 단백질? 억제하니 위암 세포 성장 ‘뚝’&nbsp;&nbsp;조선일보한림대성심병원, 위암 관련 단백질 UCHL1 작용기전 규명…억제 시 암세포 증식 감소 확인&nbsp;&nbsp;로이슈\"같은 위암인데, 진행 속도 제각각\"…원인은 '이 단백질'&nbsp;&nbsp;뉴시스",
+      "summary": "한림대성심병원, 위암 성장 촉진 단백질 ‘UCHL1’ 작용기전 규명&nbsp;&nbsp;CNB뉴스위암 키우는 ‘이 단백질’ 억제했더니 암세포 증식 멈추는 효과 나타나&nbsp;&nbsp;v.daum.net위암 키우는 단백질? 억제하니 위암 세포 성장 ‘뚝’&nbsp;&nbsp;헬스조선한림대성심병원, 위암 관련 단백질 UCHL1 작용기전 규명…억제 시 암세포 증식 감소 확인&nbsp;&nbsp;로이슈\"같은 위암인데, 진행 속도 제각각\"…원인은 '이 단백질'&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "CNB뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LbkVISUNvY2lpYjQ0Qmk2UjZMWTJjeVpNTjJDY0pJT0Y3Sm0tcFFNYkZiaUJtOE1ybFpadmNfaDdXWEZtOHB0bC1NTHFvTGpBXzBEVFdLLTROWFlaN25ZV1E5SQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14MVZmZlBZS3p2dGU0Zy1DclZRY0FNd1U2dFZ0U2dXZGJ6aVVKRGVEcTBIRE9LTV9nZDRvRDRZUTlEaFVxSjd5VFNEMl83cXZJUFVBOUZHRTZ0ZmJSQzUtck50VFc?oc=5"
         }
       ]
     },
@@ -273,7 +393,7 @@
       "id": "b0c49e41c84e",
       "title": "영유아에서 성인까지…RSV 예방 항체주사·백신 시장 쑥쑥 - 네이트",
       "published": "2026-04-02T02:00:00+00:00",
-      "summary": "영유아에서 성인까지…RSV 예방 항체주사·백신 시장 쑥쑥&nbsp;&nbsp;네이트50대 이상 고위험군과 75세 이상 모든 성인··· ‘RSV’ 예방접종 받으세요&nbsp;&nbsp;경향신문대한감염학회, 50세 이상 고위험군 RSV 백신 접종 권고&nbsp;&nbsp;medicalworldnews.co.kr“50~74세 감염 고위험군·75세 이상 성인, RSV 백신 접종 필요”&nbsp;&nbsp;쿠키뉴스",
+      "summary": "영유아에서 성인까지…RSV 예방 항체주사·백신 시장 쑥쑥&nbsp;&nbsp;네이트50대 이상 고위험군과 75세 이상 모든 성인··· ‘RSV’ 예방접종 받으세요&nbsp;&nbsp;경향신문“50~74세 감염 고위험군·75세 이상 성인, RSV 백신 접종 필요”&nbsp;&nbsp;쿠키뉴스",
       "sources": [
         {
           "name": "네이트",
@@ -282,13 +402,13 @@
       ]
     },
     {
-      "id": "27eba84c8b61",
-      "title": "욕실서 샤워하다 발견한 ‘이것’… 치사율 무려 35% - 조선일보",
+      "id": "5ed063af9e7b",
+      "title": "욕실서 샤워하다 발견한 ‘이것’… 치사율 무려 35% - 헬스조선",
       "published": "2026-04-02T01:41:00+00:00",
-      "summary": "욕실서 샤워하다 발견한 ‘이것’… 치사율 무려 35%&nbsp;&nbsp;조선일보",
+      "summary": "욕실서 샤워하다 발견한 ‘이것’… 치사율 무려 35%&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "조선일보",
+          "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3MFg0bjEya0NKbWNndU85Y0F6a3RtLTJXc2NYV08ybTNBVDVzRFctVXhKd2hUUmtjU205cmRnR1FxRHJMZzNJSm10cTRWSFhhNXluWmVnNXBpbnpIdmN5V0w0bUxmNHd4bFhOeGFodW5ob2N4T3c?oc=5"
         }
       ]
@@ -321,7 +441,7 @@
       "id": "732fc12e9889",
       "title": "무심코 넘긴 변비·잠꼬대, ‘파킨슨병 초기 경고’일 수도 [건강한겨레] - 한겨레",
       "published": "2026-04-01T23:40:00+00:00",
-      "summary": "무심코 넘긴 변비·잠꼬대, ‘파킨슨병 초기 경고’일 수도 [건강한겨레]&nbsp;&nbsp;한겨레초기 파킨슨병 환자, ‘시·공간 인지’ 기능 떨어지면 치매 위험 7.3배 ↑&nbsp;&nbsp;하이닥[굿클리닉] 파킨슨 환자, 뇌에 자극 주니…약물 복용량 66% 뚝&nbsp;&nbsp;이데일리기억력 감퇴는 마지막 신호…치매, 더 이른 단계서 포착한다&nbsp;&nbsp;yakup.com[KMDS와 함께 하는 파킨슨병 바로 알기] 파킨슨병이 치매보다 소외되는 이유&nbsp;&nbsp;헬스경향",
+      "summary": "무심코 넘긴 변비·잠꼬대, ‘파킨슨병 초기 경고’일 수도 [건강한겨레]&nbsp;&nbsp;한겨레초기 파킨슨병 환자, ‘시·공간 인지’ 기능 떨어지면 치매 위험 7.3배 ↑&nbsp;&nbsp;하이닥[굿클리닉] 파킨슨 환자, 뇌에 자극 주니…약물 복용량 66% 뚝&nbsp;&nbsp;이데일리기억력 감퇴는 마지막 신호…치매, 더 이른 단계서 포착한다&nbsp;&nbsp;약업신문[KMDS와 함께 하는 파킨슨병 바로 알기] 파킨슨병이 치매보다 소외되는 이유&nbsp;&nbsp;헬스경향",
       "sources": [
         {
           "name": "한겨레",
@@ -330,62 +450,14 @@
       ]
     },
     {
-      "id": "0ae45b5c2d54",
-      "title": "심장 '디지털 트윈' 활용 부정맥 수술 100% 성공 - 동아사이언스",
-      "published": "2026-04-01T21:00:00+00:00",
-      "summary": "심장 '디지털 트윈' 활용 부정맥 수술 100% 성공&nbsp;&nbsp;동아사이언스",
+      "id": "e73cc7fdd433",
+      "title": "심장 '디지털 트윈' 활용 부정맥 수술 100% 성공 - v.daum.net",
+      "published": "2026-04-01T21:02:02+00:00",
+      "summary": "심장 '디지털 트윈' 활용 부정맥 수술 100% 성공&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01dm53QWdsaFNaVHIyOFJvaXJPbkMxcVJjZlR5WmpGX0VKUkhxQkpXVDM3WWM4T0lXRGM2S3FTT2N4bXoxUG5fU1lTMVVkTEdDbzBrRA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce0591e0b690",
-      "title": "2030세대 덮친 대장암 경고…“가벼운 복통이 신호일 수 있다” - 굿모닝베트남미디어",
-      "published": "2026-04-01T12:23:07+00:00",
-      "summary": "2030세대 덮친 대장암 경고…“가벼운 복통이 신호일 수 있다”&nbsp;&nbsp;굿모닝베트남미디어“아직 10대인데 혈압이 220”… 의사도 경악한 아이들 건강 실태&nbsp;&nbsp;조선일보[특별기고] 이제 막연한 공포가 아닌 ‘암’… 생활습관 개선에 좌우된다&nbsp;&nbsp;v.daum.net대장암 이렇게 많아 “또, 3만 2610명”… 항문 절제 위험 있는 직장암은?&nbsp;&nbsp;코메디닷컴[이정범의 응급의학 가이드] 배변 습관 변화, 직장암은 ‘신호’를 보낸다&nbsp;&nbsp;한국보험신문",
-      "sources": [
-        {
-          "name": "굿모닝베트남미디어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82ZFdhTnRxZEtuVnRmRjFRMWoyUkp1bkxfemZlMFFVajBQUnZQNEQ2TjREek9WbDVIZC1RcFhCWUExVFpEdkVBai13Ylg1YkJIVkhGNXJJbFdTRXNSZkI3MEp6emhtYjlPR1RyeVo3c2I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25ef1c90915c",
-      "title": "한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최 - 병원신문",
-      "published": "2026-04-01T11:08:14+00:00",
-      "summary": "한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최&nbsp;&nbsp;병원신문개정판 '2026 이상지질혈증 진료지침' 공개한다&nbsp;&nbsp;의협신문“From Lipids to Life, From Evidence to Action”&nbsp;&nbsp;병원신문한국지질·동맥경화학회, 3-4일 춘계학술대회 SoLA 2026 개최&nbsp;&nbsp;재활뉴스SoLA 2026서 이상지질혈증 진료지침 개정 방향 공개&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnQ0g3QldzYVc3U1RjeWRPRUdYRWRBX0ItenFVM2JGU2Rwa3lReHdpVDlzN2x4cHNtT0VKM2RIcWRndm9ZTTBxTVl1UWJSZm05SXVEYkNFNGZxVjNOZ04ybnlnUXRYZW8tVlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2df5904b666a",
-      "title": "\"폐경도 서러운데, 넘어졌다하면 골절이네요\"…뼈도둑 골다공증, 최악음식 '이것' [이거 무슨 병] - 네이트",
-      "published": "2026-04-01T10:01:00+00:00",
-      "summary": "\"폐경도 서러운데, 넘어졌다하면 골절이네요\"…뼈도둑 골다공증, 최악음식 '이것' [이거 무슨 병]&nbsp;&nbsp;네이트\"폐경도 서러운데, 넘어졌다하면 골절이네요\"...뼈도둑 골다공증, 최악음식 '이것' [이거 무슨 병]&nbsp;&nbsp;v.daum.net주사 맞아도 골절… 골다공증 치료, 왜 안심 못하나&nbsp;&nbsp;조선일보에이스병원 정재훈 원장, TV조선 ‘질병의 법칙’ 출연… “봄철 골절 증가, 골다공증 관리 중요”&nbsp;&nbsp;프레스뉴스[건강상식] 골대사질환, 단순 노화 아닌 '평생 관리' 필요해…조기 치료 중요&nbsp;&nbsp;경기신문",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mRFNSZWlVdnliMWhGV2UzUDZCd19TUmQwNEhUX1FGSVdXdjhSSXNIRmRYVnhMTjNERjB3N2NWRlZCRElLWmtkZFdRVlRUUU1Iei1R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3dc2927d6dd2",
-      "title": "항암 음식 궁합 ③ 브로콜리 먹을 땐 겨자나 와사비 곁들이면 최고 - 캔서앤서",
-      "published": "2026-04-01T07:32:32+00:00",
-      "summary": "항암 음식 궁합 ③ 브로콜리 먹을 땐 겨자나 와사비 곁들이면 최고&nbsp;&nbsp;캔서앤서브로콜리 ‘이렇게’ 익혀야 항암 성분 많아진다&nbsp;&nbsp;조선일보숨 쉬기 편해지는 식탁: 폐 건강을 지키는 슈퍼푸드 총정리&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "캔서앤서",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPWGRHc0pmZmJ2Z2F6Q3d1aGtFaFlsOEs0QkhreUZDSVN2ZzViNGtaX2Qxc2dkOG41OTV2ODhlb1RDT2oxeXhndExVVHVCdzUtN2c1eEVQQmlsUkwwd3A1aGhiZExidXBtU0NBdU5MQ2M?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtaks3dUJDS2FCRVcyamYzOFFwem1fcXE1Y04tOW1FaG1rSk12X1o2TldiWUxmb2pVUHROZHlPWHpDOC1LRkp6SmlTQm0zVVU?oc=5"
         }
       ]
     },
@@ -434,42 +506,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWs0aE85eVhNLTRKaEZEVGZtdlhfd0hDd29mdkV2Wk9VZ1B1anhLT21VT0dhV294MzlrYmR1eGs3ZFNJWGdwWjBUYm91OUFXbjJnVWItZENQakFBMTBNdzdOdzRkak9JVktDNjZRSzB5d1pCaHV0RDlmVlZvZjRRYVoxUdIBlwFBVV95cUxQUGhWMlM1UThWZGc1cXBlNjhCZW1IdzlnNUJvNHpJRXZoRGF6S1FxQjd3T0JHT0QwSE85aXFfQnI4QWxnbEcwUVRMMjBZMFNUbVFmMzZSbllzY0NpWmVyOWhESU5OaDVmNkxjazI5cFdlQ1BIWXlaeTRiVEFsbVZSdXZkU3A2NEhDcmxaRXJVODd5SnZmMGVz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6e91c1c2e70d",
-      "title": "1900도넘는 마그마로 가득 찬 행성 발견했어요 - 조선일보",
-      "published": "2026-03-31T08:41:00+00:00",
-      "summary": "1900도넘는 마그마로 가득 찬 행성 발견했어요&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX002M0t4bEtKbTdickdxa25YNjVPZWFQSlJtM0ZfMXgySkl5R052R1o1dklJU3o3a2M0aWQ1Z091TldhaE9sdzN4TTI5bnNvVGlVWmtkT29nbUN6bDFWWEdJY0ZxN2cyaHp3MzBQeXJXOFVSZm9RaVBsWHN4RHR4WUxzeWVSQ213WE9CaFY5cVo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "03746d87b1ac",
-      "title": "트럼프 금기어 ‘기후변화’, 미 정부 연구비 지원 논문서 확 줄었다 - 한겨레",
-      "published": "2026-03-31T07:45:00+00:00",
-      "summary": "트럼프 금기어 ‘기후변화’, 미 정부 연구비 지원 논문서 확 줄었다&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05U3VBajdqa1BrQ2JmYV9zekJveTFuMElxdTVfd0duXzlyOVVwZGlvQk1ZT3BjcnpRVGRpdko2VEotemhQWG5veG1HdXZOQWVVTWtFdEVPUTRUM1pEcndTZ21GRjk2a1Itd3kzd01lN1UtUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "792bffddb979",
-      "title": "김빛내리 \"바이오와 AI가 만나면…'RNA 치료제 자판기' 상상\" - 동아사이언스",
-      "published": "2026-03-31T07:32:00+00:00",
-      "summary": "김빛내리 \"바이오와 AI가 만나면…'RNA 치료제 자판기' 상상\"&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10anRTV2FMeVVEcjhCb0ozclhsOFh4REdNWkVZSFVfSl9BckREb0JHSlRBdGJnbG5hRnYzZ1k4UzZwZnRPLXR0NGQ2ai1IX0trN1ItMg?oc=5"
         }
       ]
     }
