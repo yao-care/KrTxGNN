@@ -1,19 +1,31 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-04T13:03:19.839295+00:00",
-  "total_fetched": 63,
-  "unique_count": 63,
+  "fetched_at": "2026-04-04T18:49:17.175659+00:00",
+  "total_fetched": 59,
+  "unique_count": 59,
   "health_related_count": 34,
   "news": [
     {
-      "id": "d7a396c7c3ed",
+      "id": "d4cb0b3581df",
+      "title": "의학강국 선도 성균관대 원홍희 교수 연구팀, 단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시 - 국민뉴스",
+      "published": "2026-04-04T15:02:00+00:00",
+      "summary": "의학강국 선도 성균관대 원홍희 교수 연구팀, 단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시&nbsp;&nbsp;국민뉴스성균관대 원홍희 교수 연구팀, 단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시&nbsp;&nbsp;교수신문성균관대 연구진 \"세포마다 유전 변이 역할 달라\"…뇌 질환 메커니즘 규명&nbsp;&nbsp;뉴시스성균관대 연구팀, 단일세포 분석으로 뇌 질환 원인 규명… 정밀의료 새 전기&nbsp;&nbsp;핀포인트뉴스성균관대 원홍희 교수팀 \"같은 유전 변이라도 세포 종류 따라 발현 딴판\" … 뇌 질환 원인 세포 단위에서 규명&nbsp;&nbsp;뉴데일리 경제",
+      "sources": [
+        {
+          "name": "국민뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XNFN4RHBlT0tPWk9kU3JKNGd4aEUxS1hTbWViN2g3VkVoQnpmNlpFdEVWNTJVaTVOdzVHTFBuNWswVUlBeXgzeVFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d725c86f3e10",
       "title": "\"간식 먹듯이 틈틈이 운동해요\"…하루 10분 '운동 스낵', 치매 위험 63% 낮춘다 - 미디어데일",
       "published": "2026-04-04T11:01:48+00:00",
       "summary": "\"간식 먹듯이 틈틈이 운동해요\"…하루 10분 '운동 스낵', 치매 위험 63% 낮춘다&nbsp;&nbsp;미디어데일Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "미디어데일",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IZzBOYkh2TUE4ZXp1TzRQY2t2STd1czNXa0wxOXZCVVlYcEg4Nk12ZXY2aVprZ0ZTNk5tbS03c1JyU1NKZWtBVWVCYlFHNUVhSkgxNzBlVDZ2ZHZ4YjJKdVVLUGlyZGdmdmlZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKMXhYd1F0bzEyZXdNeDVYbkwyVHJ2TGs1V2xSU21SQzZfa3FwWk55Z0FKd2pwaWgzQlplQW1KYmxYS2docDg4T3ZSazVMakVfaGxwM0NjWGZ3VlJYd0ZFQXRVd0lYS3FlVjNfMQ?oc=5"
         }
       ]
     },
@@ -32,8 +44,8 @@
     {
       "id": "0a4d9dd6f232",
       "title": "코로나19 신종 '시카다' 변이 전 세계 확산 - 위클리코리아",
-      "published": "2026-04-04T08:49:49+00:00",
-      "summary": "코로나19 신종 '시카다' 변이 전 세계 확산&nbsp;&nbsp;위클리코리아코로나19의 새로운 '매미' 변종은 어린이에게 위험한가요?&nbsp;&nbsp;Vietnam.vn하노이, 올해 29명 코비드-19 확진…WHO 모니터링 중인 BA.3.2 변이 주의&nbsp;&nbsp;굿모닝베트남미디어CDC, 新코로나19 변이 확인… 백신 무용지물 되나&nbsp;&nbsp;IT조선“코로나 백신도 소용없다고?”…돌연변이 무장 ‘시카다’ 습격, 세계 20개국 ‘비상’&nbsp;&nbsp;서울신문",
+      "published": "2026-04-04T08:54:52+00:00",
+      "summary": "코로나19 신종 '시카다' 변이 전 세계 확산&nbsp;&nbsp;위클리코리아코로나19의 새로운 '매미' 변종은 어린이에게 위험한가요?&nbsp;&nbsp;Vietnam.vn하노이, 올해 29명 코비드-19 확진…WHO 모니터링 중인 BA.3.2 변이 주의&nbsp;&nbsp;굿모닝베트남미디어CDC, 新코로나19 변이 확인… 백신 무용지물 되나&nbsp;&nbsp;it.chosun.com“코로나 백신도 소용없다고?”…돌연변이 무장 ‘시카다’ 습격, 세계 20개국 ‘비상’&nbsp;&nbsp;서울신문",
       "sources": [
         {
           "name": "위클리코리아",
@@ -45,7 +57,7 @@
       "id": "67af025195e4",
       "title": "\"매일 아침 '이 음식' 드셔보세요\"... 건강과 영양까지 한 번에 챙길 수 있습니다 - 아던트뉴스",
       "published": "2026-04-04T08:00:00+00:00",
-      "summary": "\"매일 아침 '이 음식' 드셔보세요\"... 건강과 영양까지 한 번에 챙길 수 있습니다&nbsp;&nbsp;아던트뉴스“달걀, 이렇게 먹어야 ‘비타민D’ 제대로 흡수”&nbsp;&nbsp;v.daum.net“하루 한 개 먹으면 콜레스테롤 개선”… 집에 흔한 ‘이 음식’, 뭐야?&nbsp;&nbsp;헬스조선요거트에 '계란'을 톡 넣어 보세요...5성급 호텔 셰프도 따라 합니다&nbsp;&nbsp;위키트리생달걀 vs 익힌 달걀... 영양 99% 챙기는 조리법은&nbsp;&nbsp;조세일보",
+      "summary": "\"매일 아침 '이 음식' 드셔보세요\"... 건강과 영양까지 한 번에 챙길 수 있습니다&nbsp;&nbsp;아던트뉴스“달걀, 이렇게 먹어야 ‘비타민D’ 제대로 흡수”&nbsp;&nbsp;v.daum.net“하루 한 개 먹으면 콜레스테롤 개선”… 집에 흔한 ‘이 음식’, 뭐야?&nbsp;&nbsp;health.chosun.com요거트에 '계란'을 톡 넣어 보세요...5성급 호텔 셰프도 따라 합니다&nbsp;&nbsp;위키트리생달걀 vs 익힌 달걀... 영양 99% 챙기는 조리법은&nbsp;&nbsp;조세일보",
       "sources": [
         {
           "name": "아던트뉴스",
@@ -66,13 +78,13 @@
       ]
     },
     {
-      "id": "f33b357167ac",
-      "title": "하루 30분만 걸읍시다… ‘이 암’ 위험 확 낮아진대요 - 헬스조선",
+      "id": "8746ee45a3ff",
+      "title": "하루 30분만 걸읍시다… ‘이 암’ 위험 확 낮아진대요 - health.chosun.com",
       "published": "2026-04-04T05:02:00+00:00",
-      "summary": "하루 30분만 걸읍시다… ‘이 암’ 위험 확 낮아진대요&nbsp;&nbsp;헬스조선[허문영 교수 칼럼] 걷기만으로는 부족하다, 심장과 혈관을 지키는 진짜 운동은 '근력강화'&nbsp;&nbsp;한국뉴스통신하루 30분만 걸어도 유방암 예방 효과... 혈액 속 ‘항암 스위치’ 켜진다&nbsp;&nbsp;캔서앤서이러한 운동 방식은 혈액 순환을 개선하여 암과 당뇨병의 위험을 줄이는 데 도움이 됩니다.&nbsp;&nbsp;Vietnam.vn\"무작정 걷기, 오히려 효과 없다\"⋯딱 '이 만큼' 걸어야 암 위험 낮춘다&nbsp;&nbsp;v.daum.net",
+      "summary": "하루 30분만 걸읍시다… ‘이 암’ 위험 확 낮아진대요&nbsp;&nbsp;health.chosun.com[허문영 교수 칼럼] 걷기만으로는 부족하다, 심장과 혈관을 지키는 진짜 운동은 '근력강화'&nbsp;&nbsp;한국뉴스통신하루 30분만 걸어도 유방암 예방 효과... 혈액 속 ‘항암 스위치’ 켜진다&nbsp;&nbsp;캔서앤서이러한 운동 방식은 혈액 순환을 개선하여 암과 당뇨병의 위험을 줄이는 데 도움이 됩니다.&nbsp;&nbsp;Vietnam.vn\"무작정 걷기, 오히려 효과 없다\"⋯딱 '이 만큼' 걸어야 암 위험 낮춘다&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "헬스조선",
+          "name": "health.chosun.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uOXZiR191Wk0tZmI1MEtvT2lXRGV6d1pXWXZQWWl1ckhOckp2NkxEb29VWnl3d19ZdWtTUHVjTTJ2NFlxcVJmNXQxWEtHdTdnVElDdU9Ja1ZXbjdEQVhTcWhDb1FuX01CZnM4Vkowd281ekNWc3c?oc=5"
         }
       ]
@@ -93,7 +105,7 @@
       "id": "6b0c6ca0ffc0",
       "title": "“맛있는데 심장에도 좋다고?”...매일 먹으면 좋은 ‘이 조합’…심장 지킨다 - 뉴스와",
       "published": "2026-04-04T01:08:49+00:00",
-      "summary": "“맛있는데 심장에도 좋다고?”...매일 먹으면 좋은 ‘이 조합’…심장 지킨다&nbsp;&nbsp;뉴스와美 정부는 OK, 심장협회는 ‘줄여라’…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;v.daum.net“심장병 부르는 식사”… ‘이것’ 안 먹으면 위험하다는데?&nbsp;&nbsp;헬스조선\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스쌀밥에 콩만 섞어도 충분…심혈관 건강 지키는 식사 루틴 [FOOD+]&nbsp;&nbsp;세계일보",
+      "summary": "“맛있는데 심장에도 좋다고?”...매일 먹으면 좋은 ‘이 조합’…심장 지킨다&nbsp;&nbsp;뉴스와美 정부는 OK, 심장협회는 ‘줄여라’…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;v.daum.net“심장병 부르는 식사”… ‘이것’ 안 먹으면 위험하다는데?&nbsp;&nbsp;health.chosun.com\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스쌀밥에 콩만 섞어도 충분…심혈관 건강 지키는 식사 루틴 [FOOD+]&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "뉴스와",
@@ -102,13 +114,13 @@
       ]
     },
     {
-      "id": "07f67dbb73a5",
-      "title": "‘앉아 있는 방법’만 바꿔도 치매 위험 7% 뚝 - 헬스조선",
+      "id": "5b50048f4f21",
+      "title": "‘앉아 있는 방법’만 바꿔도 치매 위험 7% 뚝 - health.chosun.com",
       "published": "2026-04-04T01:02:00+00:00",
-      "summary": "‘앉아 있는 방법’만 바꿔도 치매 위험 7% 뚝&nbsp;&nbsp;헬스조선“치매가 너무 빨리 왔습니다”...성인 2만여명 추적했더니 문제는 ‘이 행동’&nbsp;&nbsp;v.daum.net“앉아지낸다고, 모두 같은 ‘좌식 행동’ 아냐”…‘이런 행동’은 치매에 좋다&nbsp;&nbsp;코메디닷컴같은 앉은 자세라도 멍때리면 '치매' 책 읽으면 '예방'…핵심은 뇌 활동&nbsp;&nbsp;네이트TV 많이 보면 정말 치매 위험 높아질까?[노화설계]&nbsp;&nbsp;동아일보",
+      "summary": "‘앉아 있는 방법’만 바꿔도 치매 위험 7% 뚝&nbsp;&nbsp;health.chosun.com“치매가 너무 빨리 왔습니다”...성인 2만여명 추적했더니 문제는 ‘이 행동’&nbsp;&nbsp;v.daum.net“앉아지낸다고, 모두 같은 ‘좌식 행동’ 아냐”…‘이런 행동’은 치매에 좋다&nbsp;&nbsp;코메디닷컴같은 앉은 자세라도 멍때리면 '치매' 책 읽으면 '예방'…핵심은 뇌 활동&nbsp;&nbsp;네이트TV 많이 보면 정말 치매 위험 높아질까?[노화설계]&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "헬스조선",
+          "name": "health.chosun.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zd2g3bXlLY3lYdi1pcDJXMUpfdEQyWFZSYUgyYWE4dnRQUlhGVHBYZlhISVF1X2RYVjZOUUlFUEEwNjhKWkZPWFU2NXVPbzhSeXpDVW45ZE5WemJXclhXc2dlMVFCek1ZV0RxWk00OV9Kd1pHbXc?oc=5"
         }
       ]
@@ -150,25 +162,25 @@
       ]
     },
     {
-      "id": "6ba881c1f8c9",
-      "title": "정밀 의학, 한국 의료의 미래는? - 브랜드경제신문",
+      "id": "77dde9f85bdf",
+      "title": "정밀 의학, 한국 의료의 미래는? - benews.co.kr",
       "published": "2026-04-03T16:31:59+00:00",
-      "summary": "정밀 의학, 한국 의료의 미래는?&nbsp;&nbsp;브랜드경제신문",
+      "summary": "정밀 의학, 한국 의료의 미래는?&nbsp;&nbsp;benews.co.kr",
       "sources": [
         {
-          "name": "브랜드경제신문",
+          "name": "benews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RVE51Q2VVSm4xRWozYlVCNnhRSWZhQl85VXloR0tYUVJfSVcxZ2FsaWxxVV9tbl9CRjMzYnpZRjU5aUgwUFFydTBycHA?oc=5"
         }
       ]
     },
     {
-      "id": "e6a4a5afb3ee",
-      "title": "\"뇌 망가뜨리는 중\"… 오늘도 먹은 '이 음식', 뭐지? - 헬스조선",
+      "id": "3b96e0e865b6",
+      "title": "\"뇌 망가뜨리는 중\"… 오늘도 먹은 '이 음식', 뭐지? - health.chosun.com",
       "published": "2026-04-03T15:01:00+00:00",
-      "summary": "\"뇌 망가뜨리는 중\"… 오늘도 먹은 '이 음식', 뭐지?&nbsp;&nbsp;헬스조선잎채소 많이 먹는 사람...나이 들면서도 머리 “생생”&nbsp;&nbsp;코메디닷컴“지중해식 식단 뭐가 좋길래?”... 심장∙뇌에 좋은 단백질 수치 높여&nbsp;&nbsp;하이닥지중해식 식단이 건강에 좋은 이유&nbsp;&nbsp;브런치뇌 노화 늦추는 ‘마인드 식단’…“뇌 위축 지연 효과 확인”&nbsp;&nbsp;하이닥",
+      "summary": "\"뇌 망가뜨리는 중\"… 오늘도 먹은 '이 음식', 뭐지?&nbsp;&nbsp;health.chosun.com잎채소 많이 먹는 사람...나이 들면서도 머리 “생생”&nbsp;&nbsp;코메디닷컴“지중해식 식단 뭐가 좋길래?”... 심장∙뇌에 좋은 단백질 수치 높여&nbsp;&nbsp;하이닥지중해식 식단이 건강에 좋은 이유&nbsp;&nbsp;브런치뇌 노화 늦추는 ‘마인드 식단’…“뇌 위축 지연 효과 확인”&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "헬스조선",
+          "name": "health.chosun.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5OXpjQlRJWlo3UmZtRHpHWURoNnljeFRuTHhnaDhzTTJiV2tGMDlGdzlDeTdjSU82OUtoRXoxclZuSGVVZTFfeXFpdm5Ra3NHM3RqQ1BFbkIza1ZKLTlnNU9jOFBoTVo0cjZwVzBrdlE2bldVYWc?oc=5"
         }
       ]
@@ -186,6 +198,18 @@
       ]
     },
     {
+      "id": "daffd2aeae16",
+      "title": "'채혈 한 번'으로 치매 진단하는 AI 모델 개발... \"맞춤형 진단 개선 기대\" - 하이닥",
+      "published": "2026-04-03T12:00:00+00:00",
+      "summary": "'채혈 한 번'으로 치매 진단하는 AI 모델 개발... \"맞춤형 진단 개선 기대\"&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HOGNTTW12QVFZTWd1X1VMYjZUMVFSY3drTV9NWDBCU1I0T2tDT3U4V3ltaW5pMEI1OGMzcU5pRE5JNVo0N0diZTdKWEFwR0RZOUZvdE5sR01ZQmFUT3A1U2ZsR1c2cllfNmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f39106cf7c1a",
       "title": "중년에 우울증·당뇨 앓으면...‘영츠하이머’ 위험 2배 이상 높아 - 디멘시아뉴스",
       "published": "2026-04-03T09:41:13+00:00",
@@ -198,13 +222,13 @@
       ]
     },
     {
-      "id": "6fe6ba45c01d",
-      "title": "‘UDCA’ 급격한 체중감량으로 인한 담석 발생 위험 예방 - 현대건강신문",
+      "id": "c2b62e11ed07",
+      "title": "‘UDCA’ 급격한 체중감량으로 인한 담석 발생 위험 예방 - hnews.kr",
       "published": "2026-04-03T08:43:00+00:00",
-      "summary": "‘UDCA’ 급격한 체중감량으로 인한 담석 발생 위험 예방&nbsp;&nbsp;현대건강신문",
+      "summary": "‘UDCA’ 급격한 체중감량으로 인한 담석 발생 위험 예방&nbsp;&nbsp;hnews.kr",
       "sources": [
         {
-          "name": "현대건강신문",
+          "name": "hnews.kr",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11NFM0UWE5bDlTU0ZTSllkNDFfMzB0VGI3NDhzUnlEbmt0Ylg5bXk3aHBIMklMVEZpM3loOThxZXRqcF9PQjVxN1JvVGdXSUg1?oc=5"
         }
       ]
@@ -249,7 +273,7 @@
       "id": "fecb34fe5b1f",
       "title": "코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\" - 하이닥",
       "published": "2026-04-03T06:00:00+00:00",
-      "summary": "코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;연합뉴스코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;헬스조선코로나19 장기 후유증, 심혈관 위험 높인다…여성은 최대 2배↑&nbsp;&nbsp;tjb.co.kr",
+      "summary": "코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;연합뉴스코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;health.chosun.com코로나19 장기 후유증, 심혈관 위험 높인다…여성은 최대 2배↑&nbsp;&nbsp;tjb.co.kr",
       "sources": [
         {
           "name": "하이닥",
@@ -258,13 +282,13 @@
       ]
     },
     {
-      "id": "786a4ba3caec",
-      "title": "중증 조현병 치매, 알츠하이머와 달랐다···질환 자체 경과 주목 - monews.co.kr",
+      "id": "07649a2cc33d",
+      "title": "중증 조현병 치매, 알츠하이머와 달랐다···질환 자체 경과 주목 - 메디칼업저버",
       "published": "2026-04-03T03:39:58+00:00",
-      "summary": "중증 조현병 치매, 알츠하이머와 달랐다···질환 자체 경과 주목&nbsp;&nbsp;monews.co.kr",
+      "summary": "중증 조현병 치매, 알츠하이머와 달랐다···질환 자체 경과 주목&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
-          "name": "monews.co.kr",
+          "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92aUZlRjFJTkRoc2Y1d2hvblg1R2t0MGxCY0RkZlczcHBFaDNFQ29ENXVhLW4ya0tWQkxhcmctNE1VclotQ2JyOWk0Z201eHBwVURWVUs0a3FxdVV0T3VpbEFCZ0JPSHRjSXhj?oc=5"
         }
       ]
@@ -297,7 +321,7 @@
       "id": "9ff728de2fb5",
       "title": "고지혈증주사제 '에볼로쿠맙' 당뇨환자 1차 심혈관사고 예방 입증 - 메디칼트리뷴",
       "published": "2026-04-03T00:57:11+00:00",
-      "summary": "고지혈증주사제 '에볼로쿠맙' 당뇨환자 1차 심혈관사고 예방 입증&nbsp;&nbsp;메디칼트리뷴심뇌혈관 질환자, 나쁜 콜레스테롤 목표치 ‘55 미만’ 으로 낮춰야...재발률 30%↓&nbsp;&nbsp;하이닥심장질환의 천적 ‘콜레스테롤’, 날씬하다고 안심 못 해&nbsp;&nbsp;헬스조선콜레스테롤 관리 공식 대전환&nbsp;&nbsp;코메디닷컴당뇨 고위험군, 강력한 콜레스테롤 약 쓰면 첫 심장마비·뇌졸중 31% 줄어&nbsp;&nbsp;동아사이언스",
+      "summary": "고지혈증주사제 '에볼로쿠맙' 당뇨환자 1차 심혈관사고 예방 입증&nbsp;&nbsp;메디칼트리뷴LDL 콜레스테롤 55mg/dL 미만, 70mg/dL 미만보다 주요 심혈관 사건 감소 확인&nbsp;&nbsp;medicalworldnews.co.kr심뇌혈관 질환자, 나쁜 콜레스테롤 목표치 ‘55 미만’ 으로 낮춰야...재발률 30%↓&nbsp;&nbsp;하이닥심장질환의 천적 ‘콜레스테롤’, 날씬하다고 안심 못 해&nbsp;&nbsp;health.chosun.com콜레스테롤 관리 공식 대전환&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "메디칼트리뷴",
@@ -309,7 +333,7 @@
       "id": "31e84580a2c4",
       "title": "무너진 일상에도 갈 곳 없다···희귀질환 '비정형 파킨슨' 돌봄 공백 - 여성경제신문",
       "published": "2026-04-03T00:56:15+00:00",
-      "summary": "무너진 일상에도 갈 곳 없다···희귀질환 '비정형 파킨슨' 돌봄 공백&nbsp;&nbsp;여성경제신문",
+      "summary": "무너진 일상에도 갈 곳 없다···희귀질환 '비정형 파킨슨' 돌봄 공백&nbsp;&nbsp;여성경제신문무심코 넘긴 변비·잠꼬대, ‘파킨슨병 초기 경고’일 수도 [건강한겨레]&nbsp;&nbsp;한겨레",
       "sources": [
         {
           "name": "여성경제신문",
@@ -321,7 +345,7 @@
       "id": "6659f7dac2b0",
       "title": "\"잠들기 전 '이 행동', 심장엔 독\", 수면 방해하는 나쁜 습관들 - mnews.yeosuro.com",
       "published": "2026-04-03T00:44:24+00:00",
-      "summary": "\"잠들기 전 '이 행동', 심장엔 독\", 수면 방해하는 나쁜 습관들&nbsp;&nbsp;mnews.yeosuro.com“이것 피하세요” 심장에 ‘독’ 쌓이는 4가지 수면 습관&nbsp;&nbsp;조선일보“5분 더 자고 2분 더 걷기”… 수명 늘리는 습관의 마법 [노화설계]&nbsp;&nbsp;동아일보“맨날 잠들기 전에 이러는데”…심장에 ‘독’ 된다는 나쁜 수면 습관 4가지 [헬시타임]&nbsp;&nbsp;서울경제매일 하던 이 습관… 심장 망가뜨린다&nbsp;&nbsp;치의신보",
+      "summary": "\"잠들기 전 '이 행동', 심장엔 독\", 수면 방해하는 나쁜 습관들&nbsp;&nbsp;mnews.yeosuro.com“이것 피하세요” 심장에 ‘독’ 쌓이는 4가지 수면 습관&nbsp;&nbsp;조선일보“5분 더 자고 2분 더 걷기”… 수명 늘리는 습관의 마법 [노화설계]&nbsp;&nbsp;동아일보“맨날 잠들기 전에 이러는데”…심장에 ‘독’ 된다는 나쁜 수면 습관 4가지 [헬시타임]&nbsp;&nbsp;서울경제매일 하던 이 습관… 심장 망가뜨린다&nbsp;&nbsp;dailydental.co.kr",
       "sources": [
         {
           "name": "mnews.yeosuro.com",
@@ -333,7 +357,7 @@
       "id": "d9ebe8bf60e3",
       "title": "“전자담배도 방심 금물”… 흡연, 중장년층에게 ‘퇴행성 허리디스크’ 야기한다[기고] - 문화일보",
       "published": "2026-04-02T23:58:53+00:00",
-      "summary": "“전자담배도 방심 금물”… 흡연, 중장년층에게 ‘퇴행성 허리디스크’ 야기한다[기고]&nbsp;&nbsp;문화일보[전문의 칼럼]전자담배, 판매 규제 안 하면 청소년 ‘흡연입문’ 수단으로 전락&nbsp;&nbsp;v.daum.net\"니코틴 전자담배, 금연 효과 높지만...해롭기는 일반 담배 못지않아\"&nbsp;&nbsp;자유일보새로운 담배 중독 확산을 막기 위해 법을 개정해야 합니다.&nbsp;&nbsp;Vietnam.vn“연초 안 피워도 위험”… 전자담배 에어로졸, 폐암·구강암 유발 가능성&nbsp;&nbsp;하이닥",
+      "summary": "“전자담배도 방심 금물”… 흡연, 중장년층에게 ‘퇴행성 허리디스크’ 야기한다[기고]&nbsp;&nbsp;문화일보[전문의 칼럼]전자담배, 판매 규제 안 하면 청소년 ‘흡연입문’ 수단으로 전락&nbsp;&nbsp;v.daum.net새로운 담배 중독 확산을 막기 위해 법을 개정해야 합니다.&nbsp;&nbsp;Vietnam.vn“연초 안 피워도 위험”… 전자담배 에어로졸, 폐암·구강암 유발 가능성&nbsp;&nbsp;하이닥연구는 vaping이 폐암과 구강암을 유발할 가능성을 밝힙니다.&nbsp;&nbsp;VOI.id",
       "sources": [
         {
           "name": "문화일보",
@@ -366,49 +390,25 @@
       ]
     },
     {
-      "id": "24c40f53b869",
-      "title": "“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야? - 헬스조선",
+      "id": "d689c45520f2",
+      "title": "“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야? - health.chosun.com",
       "published": "2026-04-02T20:40:00+00:00",
-      "summary": "“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야?&nbsp;&nbsp;헬스조선",
+      "summary": "“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야?&nbsp;&nbsp;health.chosun.com",
       "sources": [
         {
-          "name": "헬스조선",
+          "name": "health.chosun.com",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40TXdOenpJVmd3dkdXb25BdE0tQmppdW8yWWdqWXBIVE1qX2lkTTJKTzlrQzBiZVk1X1ZZUVhCZWQ3WWR3RmFsSTQteTI1dGtOVlpLMjZrSmxhaGtDdF81bVR0WVRuSWJtcTNuWGFweG84Y2xjM0E?oc=5"
         }
       ]
     },
     {
-      "id": "53418ac56be9",
-      "title": "아이에게 갑자기 생긴 땅콩 알레르기, 원인은 할머니의 ‘이것’ - 헬스조선",
-      "published": "2026-04-02T13:20:00+00:00",
-      "summary": "아이에게 갑자기 생긴 땅콩 알레르기, 원인은 할머니의 ‘이것’&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtMDVudThleENtbDY1Q29CZkoyUExKd0ZtWnFiUzJoOFJxbzUwR25VeXpHVVhYenNFWVB0SEZpLUsxTWJzclhEbjlFVElLeVJJYXMzeFdxWWFGWFhmTWNrcWZZc1hGRzBiZWlYc191b0RIWTFqR3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44487cf1702b",
-      "title": "수면 망치는 영양제? 비타민D, ‘이 시간’은 피해야 - 헬스조선",
-      "published": "2026-04-02T12:00:00+00:00",
-      "summary": "수면 망치는 영양제? 비타민D, ‘이 시간’은 피해야&nbsp;&nbsp;헬스조선햇볕 쬘 시간이 없다고?…비타민D 풍부한 슈퍼푸드 7가지&nbsp;&nbsp;네이트젊은 시절 비타민 D 부족하면...실제로 16년 뒤 ‘치매 단백질’ 쌓인다?&nbsp;&nbsp;코메디닷컴엄마가 챙긴 비타민D, 우리 아이 '평생 건강' 결정&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PbUc1OHFkWmpoUFdPckU4OGxYRWdNdVdvU3kyUjRpVmNISm9sSm4wdnBIUkNBazFzZ2c0a3R3c1M4R3RnTThOLS1KN3Jia1VIQXZWMHBJcjZCOE15TVRHS0FZN2hJZ1hPZFEzQnl5RmtkQUZoQWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e7c805042fb",
-      "title": "황제주서 ‘신뢰 붕괴’로 와르르… 삼천당제약 급락, 예견된 일이었나 - IT조선",
+      "id": "76371258aa88",
+      "title": "황제주서 ‘신뢰 붕괴’로 와르르… 삼천당제약 급락, 예견된 일이었나 - it.chosun.com",
       "published": "2026-04-02T05:25:21+00:00",
-      "summary": "황제주서 ‘신뢰 붕괴’로 와르르… 삼천당제약 급락, 예견된 일이었나&nbsp;&nbsp;IT조선",
+      "summary": "황제주서 ‘신뢰 붕괴’로 와르르… 삼천당제약 급락, 예견된 일이었나&nbsp;&nbsp;it.chosun.com",
       "sources": [
         {
-          "name": "IT조선",
+          "name": "it.chosun.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LYmRlX1FnTzJWZUJOXzY3TGo3NnVDY29CLTZRdVpLdzhpa09FZzRHRlRvNnNCSkxSZV9HQ09sUjRYb2ZPSjJwOHRZbGp5bE5LYm9paWN4WFA5bE4yUTMydkRSMjhZWURiQXVZUWlQeEHSAXRBVV95cUxQS2JTbWI5LUhUNFFnWnFQMDktTFYxeFBjbElXYjk2RXd6TnJ3b29Oei11U0ZtQk1SRkpLWHpaWFpscXVnNEx3a19NT3RzalppWFYzbEtkUHJEWUxkU0lYVko4Tk1RQndUU0ZqamNkNzk2ZTBHaQ?oc=5"
         }
       ]
