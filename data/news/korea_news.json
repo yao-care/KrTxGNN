@@ -1,15 +1,39 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-05T07:12:19.055582+00:00",
-  "total_fetched": 56,
-  "unique_count": 56,
-  "health_related_count": 34,
+  "fetched_at": "2026-04-05T13:05:26.095095+00:00",
+  "total_fetched": 52,
+  "unique_count": 52,
+  "health_related_count": 27,
   "news": [
+    {
+      "id": "edb048f7b864",
+      "title": "발기부전 치료제, 잘못 복용하면 ‘사망’에 이를수도 - 뉴스탭",
+      "published": "2026-04-05T08:36:38+00:00",
+      "summary": "발기부전 치료제, 잘못 복용하면 ‘사망’에 이를수도&nbsp;&nbsp;뉴스탭",
+      "sources": [
+        {
+          "name": "뉴스탭",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOR25JSm5QSnMtenFFdXhMUXZOaElCY0dReHgtR2lESzNpLVJ5ODVNVFp0TjZSUW1pczBub203RENNX2ZMVk1hODFqMFdKNVRBUURZUHFJTklHS0k3UWdFZTBDOEpWMklRRHY2bA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49fffc55b391",
+      "title": "피검사로 치매·파킨슨 구별…뇌질환 6종 동시 분석 AI 등장 - 코메디닷컴",
+      "published": "2026-04-05T07:03:00+00:00",
+      "summary": "피검사로 치매·파킨슨 구별…뇌질환 6종 동시 분석 AI 등장&nbsp;&nbsp;코메디닷컴수십만원이면 알츠하이머 혈액 검사…과잉 검사 우려도 커져&nbsp;&nbsp;동아사이언스'채혈 한 번'으로 치매 진단하는 AI 모델 개발... \"맞춤형 진단 개선 기대\"&nbsp;&nbsp;하이닥치매는 한 가지가 아니었다&nbsp;&nbsp;브런치“간편한 혈액검사로 알츠하이머병 위험도 조기 체크”&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5rZm56eDE3ZGdhakVKbkk5a3ZNR2RmaXk1NTNwWDhrUkUtLVhOV2xWaEJkQlNmMzh3em9UYzAxT1NNUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "d3dc8ed41c1b",
       "title": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다 - 매경헬스",
       "published": "2026-04-05T07:00:00+00:00",
-      "summary": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다&nbsp;&nbsp;매경헬스초기 파킨슨병 환자, ‘시·공간 인지’ 기능 떨어지면 치매 위험 7.3배 ↑&nbsp;&nbsp;하이닥[KMDS와 함께 하는 파킨슨병 바로 알기] 파킨슨병이 치매보다 소외되는 이유&nbsp;&nbsp;k-health.com기억력 감퇴는 마지막 신호…치매, 더 이른 단계서 포착한다&nbsp;&nbsp;약업신문무심코 넘긴 변비·잠꼬대, ‘파킨슨병 초기 경고’일 수도 [건강한겨레]&nbsp;&nbsp;한겨레",
+      "summary": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다&nbsp;&nbsp;매경헬스초기 파킨슨병 환자, ‘시·공간 인지’ 기능 떨어지면 치매 위험 7.3배 ↑&nbsp;&nbsp;하이닥[KMDS와 함께 하는 파킨슨병 바로 알기] 파킨슨병이 치매보다 소외되는 이유&nbsp;&nbsp;헬스경향기억력 감퇴는 마지막 신호…치매, 더 이른 단계서 포착한다&nbsp;&nbsp;약업신문무심코 넘긴 변비·잠꼬대, ‘파킨슨병 초기 경고’일 수도 [건강한겨레]&nbsp;&nbsp;한겨레",
       "sources": [
         {
           "name": "매경헬스",
@@ -18,22 +42,10 @@
       ]
     },
     {
-      "id": "a2ab4285a1c6",
-      "title": "“다이어트에 좋다더니”… 되레 살찌우는 의외의 ‘이 습관’ - 헬스조선",
-      "published": "2026-04-05T06:30:00+00:00",
-      "summary": "“다이어트에 좋다더니”… 되레 살찌우는 의외의 ‘이 습관’&nbsp;&nbsp;헬스조선\"헬스장 매일 가도 체중은 그대로\"…'이것' 놓치면 헬스도 소용없어&nbsp;&nbsp;네이트먹는 건 그대로 인데...운동만 열심히 한다고 살 잘 안 빠지는 이유&nbsp;&nbsp;코메디닷컴운동해도 살 안 빠지는 당신, '잠'이 범인이었다&nbsp;&nbsp;라이프인많이 먹는 것 VS 적게 움직이는 것, 무엇이 더 살찌게 할가?--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9INklMM1JGbXNpRW5QTGlfV2JObnlOb3hBNGRFSTJ0Q3RMemNMWHlMZERtSnJ3ZUZBaXJUNWR5UGl3cG9kRUZ3OTVBekQxOVM0clFzLW5UTlVjUno0QlcycnpFOFFHMlFkZi1HaTZaRkpTc2pQeHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4771649ac324",
       "title": "“임신 중 비타민D 부족시 아이 면역력 저하” - 데일리메디",
       "published": "2026-04-05T06:03:00+00:00",
-      "summary": "“임신 중 비타민D 부족시 아이 면역력 저하”&nbsp;&nbsp;데일리메디\"임신 중 비타민D 부족…아이 면역·알레르기 위험 ↑\"&nbsp;&nbsp;v.daum.net\"비타민D 부족하게 태어난 아이 면역력 약하다\"&nbsp;&nbsp;news1.kr성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레\"임신중 비타민D 부족하면 출생 후에도 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스",
+      "summary": "“임신 중 비타민D 부족시 아이 면역력 저하”&nbsp;&nbsp;데일리메디뱃속에서 결정된다…임신 중 비타민D, 아이 알레르기 면역 건강 좌우&nbsp;&nbsp;v.daum.net\"임신 중 비타민D 부족하면 아이 면역력 약해져요\"&nbsp;&nbsp;뉴시스성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레\"임신중 비타민D 부족하면 출생 후에도 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
           "name": "데일리메디",
@@ -66,10 +78,22 @@
       ]
     },
     {
+      "id": "89d634648363",
+      "title": "7년전 개발된 '완벽진공' 시스템…\"외산장악 반도체 공정 효자될까\" - 지디넷코리아",
+      "published": "2026-04-05T01:09:49+00:00",
+      "summary": "7년전 개발된 '완벽진공' 시스템…\"외산장악 반도체 공정 효자될까\"&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qY0FMQXVBdU0xNklQOUFnNXhKN2dmMmFJNzBOTndTZ1BqYXlrTzd4U2ExS0JDaGFwdmF6eXJLdlVWWENnMXZicEJtNThNS2hVYWZxRXZB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "aeb7b2d8c4c4",
       "title": "무리한 운동이 ‘경동맥 협착’을 드러낼 수 있다 - 스포츠경향",
       "published": "2026-04-05T00:51:00+00:00",
-      "summary": "무리한 운동이 ‘경동맥 협착’을 드러낼 수 있다&nbsp;&nbsp;스포츠경향의사: 아침 일찍 운동할 때는 뇌졸중을 예방하기 위해 이 점을 명심하세요.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "무리한 운동이 ‘경동맥 협착’을 드러낼 수 있다&nbsp;&nbsp;스포츠경향의사: 아침 일찍 운동할 때는 뇌졸중을 예방하기 위해 이 점을 명심하세요.&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "스포츠경향",
@@ -90,25 +114,13 @@
       ]
     },
     {
-      "id": "c73e1564f150",
-      "title": "아침식사 때 ‘이 습관’, 심장병 사망 위험 높인다 - 헬스조선",
-      "published": "2026-04-04T22:01:00+00:00",
-      "summary": "아침식사 때 ‘이 습관’, 심장병 사망 위험 높인다&nbsp;&nbsp;헬스조선쌀밥에 콩만 섞어도 충분…심혈관 건강 지키는 식사 루틴 [FOOD+]&nbsp;&nbsp;v.daum.net美 정부는 OK, 심장협회는 '줄여라'…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;네이트\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스“맛있는데 심장에도 좋다고?”...매일 먹으면 좋은 ‘이 조합’…심장 지킨다&nbsp;&nbsp;뉴스와",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92aFM3WVNRZThyRjhUV0pKU0FUd01oeEJWVlRiLWRqTHpfc3c1RmtYQlZGcjlUOVJ3OVpXSmdKZjcyeC1ZZDhRRVhTdThua1hXRXFTLTAxY2pRSDU1bDVGTEpyQjBrRk1ZSVFjQzdSNHV5RGxKT0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c09e206b69fa",
-      "title": "\"술 한잔도 예전 같지 않다\"…65세 이후 음주, 같은 양도 더 위험한 이유 - seattlekdaily.com",
+      "id": "36c8e1d0371a",
+      "title": "\"술 한잔도 예전 같지 않다\"…65세 이후 음주, 같은 양도 더 위험한 이유 - 시애틀코리안데일리",
       "published": "2026-04-04T21:30:48+00:00",
-      "summary": "\"술 한잔도 예전 같지 않다\"…65세 이후 음주, 같은 양도 더 위험한 이유&nbsp;&nbsp;seattlekdaily.com",
+      "summary": "\"술 한잔도 예전 같지 않다\"…65세 이후 음주, 같은 양도 더 위험한 이유&nbsp;&nbsp;시애틀코리안데일리",
       "sources": [
         {
-          "name": "seattlekdaily.com",
+          "name": "시애틀코리안데일리",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40OUNXUEtlRFpzYUhreHhiQ3ljV21nRW5oOE1NUEh1UDNXdzl0YzMxMl9wMWZlSDUydU9PQXFhdlZ1SzdhRHdkZnQ4RmtnSmFaNnlueUFxWjNZZlVwLXNJQW5pcVdIRWtocHJOSGJDdw?oc=5"
         }
       ]
@@ -138,13 +150,13 @@
       ]
     },
     {
-      "id": "5f8e264d2885",
-      "title": "술 끊기엔 늦었다고요?…망가진 간도 돌아올 수 있다는 연구가 나왔다:장애인인식개선신문 - dpi1004.com",
+      "id": "51696ffbe584",
+      "title": "술 끊기엔 늦었다고요?…망가진 간도 돌아올 수 있다는 연구가 나왔다:장애인인식개선신문 - 장애인인식개선신문",
       "published": "2026-04-04T14:52:26+00:00",
-      "summary": "술 끊기엔 늦었다고요?…망가진 간도 돌아올 수 있다는 연구가 나왔다:장애인인식개선신문&nbsp;&nbsp;dpi1004.com",
+      "summary": "술 끊기엔 늦었다고요?…망가진 간도 돌아올 수 있다는 연구가 나왔다:장애인인식개선신문&nbsp;&nbsp;장애인인식개선신문",
       "sources": [
         {
-          "name": "dpi1004.com",
+          "name": "장애인인식개선신문",
           "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE81S2xtbGRJZXFZWVJYa0VPS2VOVDlyRVotV0lyaUd4a3dKcEkzWnB2Y29XYjNFTnVJVW5aMzA4SkpZWjTSAV9BVV95cUxNRnRIY3Blbi05YzV0a1RkZVZMeVVlOHJlQXRhczlBT295NEdPeThFWlJCUmxZN3ZyRGJ4Y09Vc29PdjB3VEotdzdxVExPY0dWbW5QNUt4QjFrRlJiTmdGcw?oc=5"
         }
       ]
@@ -153,7 +165,7 @@
       "id": "2139d8ee4185",
       "title": "헬스장 안 가도 5분이면 충분…일상 속 운동, 당뇨·치매 위험 낮춘다 - 네이트",
       "published": "2026-04-04T13:02:00+00:00",
-      "summary": "헬스장 안 가도 5분이면 충분…일상 속 운동, 당뇨·치매 위험 낮춘다&nbsp;&nbsp;네이트\"간식 먹듯이 틈틈이 운동해요\"…하루 10분 '운동 스낵', 치매 위험 63% 낮춘다&nbsp;&nbsp;뉴시스\"자고 일어나도 피곤하세요?\"…당신이 운동화를 신어야 하는 이유&nbsp;&nbsp;네이트숨 찰듯 말듯 40분 걷는 ‘존2 운동’… 당뇨·고혈압 잡는다&nbsp;&nbsp;조선일보“짧고 굵게” 단 몇분만 ‘격렬’하면 충분해요…치매, 당뇨병 잡는 ‘이것’&nbsp;&nbsp;seoul.co.kr",
+      "summary": "헬스장 안 가도 5분이면 충분…일상 속 운동, 당뇨·치매 위험 낮춘다&nbsp;&nbsp;네이트\"간식 먹듯이 틈틈이 운동해요\"…하루 10분 '운동 스낵', 치매 위험 63% 낮춘다&nbsp;&nbsp;뉴시스\"자고 일어나도 피곤하세요?\"…당신이 운동화를 신어야 하는 이유&nbsp;&nbsp;네이트숨 찰듯 말듯 40분 걷는 ‘존2 운동’… 당뇨·고혈압 잡는다&nbsp;&nbsp;조선일보“짧고 굵게” 단 몇분만 ‘격렬’하면 충분해요…치매, 당뇨병 잡는 ‘이것’&nbsp;&nbsp;서울신문",
       "sources": [
         {
           "name": "네이트",
@@ -162,14 +174,14 @@
       ]
     },
     {
-      "id": "8aaf483ba492",
-      "title": "'고단백·저당·장 건강'… 건강 이미지 입힌 가공식품, 오히려 독 된다 - canceranswer.co.kr",
-      "published": "2026-04-04T09:17:36+00:00",
-      "summary": "'고단백·저당·장 건강'… 건강 이미지 입힌 가공식품, 오히려 독 된다&nbsp;&nbsp;canceranswer.co.kr천기누설 - 가공식품, 건강하게 고르는 방법은?&nbsp;&nbsp;mbn.co.kr차정원이 “단백질 챙기려 먹는다”는 ‘이것’… 오히려 살찌울 수도&nbsp;&nbsp;헬스조선냉동피자를 데우던 밤, 몰랐던 것&nbsp;&nbsp;브런치심근경색·뇌졸중 사망 67% 높이는 '이것'…오늘 몇 번 먹었을까?&nbsp;&nbsp;전자신문",
+      "id": "41b45e645ef8",
+      "title": "유럽서 온 의료AI…\"점안액 없이 당뇨안질환 3분 선별\" - 미디어데일",
+      "published": "2026-04-04T11:23:29+00:00",
+      "summary": "유럽서 온 의료AI…\"점안액 없이 당뇨안질환 3분 선별\"&nbsp;&nbsp;미디어데일",
       "sources": [
         {
-          "name": "canceranswer.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yS3UzdjBQSzE5VmM4MUI0Mk1hbjdVcHhDSUJuLUxnVVZWemZhYlF0dVNCV2hpUVNZcXNVOWtfN1lhd3c5aUN3YnRsWnRvRmxoZ0h2WWc0cmZpZE41QV9QT1lneFBOMHRpSmt0SVZXbS0?oc=5"
+          "name": "미디어데일",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uVHh3b0JIQ282SkxOaklOejhxSHpqeXp6c1dyM1Q1T0RxQVJ4MlJNN0JhQjBpajMtaVZiWnMwV2JKbU5nMlAtNzV6NXMtcW1IYzZreGcxNjUzcEYzR1o3V1JaaTBZQ3ZDN2FV?oc=5"
         }
       ]
     },
@@ -177,7 +189,7 @@
       "id": "0a4d9dd6f232",
       "title": "코로나19 신종 '시카다' 변이 전 세계 확산 - 위클리코리아",
       "published": "2026-04-04T08:54:52+00:00",
-      "summary": "코로나19 신종 '시카다' 변이 전 세계 확산&nbsp;&nbsp;위클리코리아코로나19의 새로운 '매미' 변종은 어린이에게 위험한가요?&nbsp;&nbsp;Vietnam.vn하노이, 올해 29명 코비드-19 확진…WHO 모니터링 중인 BA.3.2 변이 주의&nbsp;&nbsp;굿모닝베트남미디어CDC, 新코로나19 변이 확인… 백신 무용지물 되나&nbsp;&nbsp;IT조선“코로나 백신도 소용없다고?”…돌연변이 무장 ‘시카다’ 습격, 세계 20개국 ‘비상’&nbsp;&nbsp;seoul.co.kr",
+      "summary": "코로나19 신종 '시카다' 변이 전 세계 확산&nbsp;&nbsp;위클리코리아코로나19의 새로운 '매미' 변종은 어린이에게 위험한가요?&nbsp;&nbsp;vietnam.vn하노이, 올해 29명 코비드-19 확진…WHO 모니터링 중인 BA.3.2 변이 주의&nbsp;&nbsp;굿모닝베트남미디어CDC, 新코로나19 변이 확인… 백신 무용지물 되나&nbsp;&nbsp;IT조선“코로나 백신도 소용없다고?”…돌연변이 무장 ‘시카다’ 습격, 세계 20개국 ‘비상’&nbsp;&nbsp;서울신문",
       "sources": [
         {
           "name": "위클리코리아",
@@ -198,13 +210,13 @@
       ]
     },
     {
-      "id": "9acdb5214787",
-      "title": "인공 감미료와 뇌 건강: 상충되는 연구 결과 속 과학이 말하는 것 - 브랜드경제신문",
+      "id": "a02c5a97437d",
+      "title": "인공 감미료와 뇌 건강: 상충되는 연구 결과 속 과학이 말하는 것 - benews.co.kr",
       "published": "2026-04-04T07:59:28+00:00",
-      "summary": "인공 감미료와 뇌 건강: 상충되는 연구 결과 속 과학이 말하는 것&nbsp;&nbsp;브랜드경제신문",
+      "summary": "인공 감미료와 뇌 건강: 상충되는 연구 결과 속 과학이 말하는 것&nbsp;&nbsp;benews.co.kr",
       "sources": [
         {
-          "name": "브랜드경제신문",
+          "name": "benews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hRTNtRFVOYlJMSTMtdnpmcUxvN1l0bkFBU3NIM0RDSFBRakFIWEFHcWp6MHlPU3BlazU3VnZERlQ4TkVqNkd6U3NwTW8?oc=5"
         }
       ]
@@ -213,7 +225,7 @@
       "id": "f33b357167ac",
       "title": "하루 30분만 걸읍시다… ‘이 암’ 위험 확 낮아진대요 - 헬스조선",
       "published": "2026-04-04T05:02:00+00:00",
-      "summary": "하루 30분만 걸읍시다… ‘이 암’ 위험 확 낮아진대요&nbsp;&nbsp;헬스조선[허문영 교수 칼럼] 걷기만으로는 부족하다, 심장과 혈관을 지키는 진짜 운동은 '근력강화'&nbsp;&nbsp;newssun.kr하루 30분만 걸어도 유방암 예방 효과... 혈액 속 ‘항암 스위치’ 켜진다&nbsp;&nbsp;canceranswer.co.kr이러한 운동 방식은 혈액 순환을 개선하여 암과 당뇨병의 위험을 줄이는 데 도움이 됩니다.&nbsp;&nbsp;Vietnam.vn\"무작정 걷기, 오히려 효과 없다\"⋯딱 '이 만큼' 걸어야 암 위험 낮춘다&nbsp;&nbsp;v.daum.net",
+      "summary": "하루 30분만 걸읍시다… ‘이 암’ 위험 확 낮아진대요&nbsp;&nbsp;헬스조선[허문영 교수 칼럼] 걷기만으로는 부족하다, 심장과 혈관을 지키는 진짜 운동은 '근력강화'&nbsp;&nbsp;한국뉴스통신하루 30분만 걸어도 유방암 예방 효과... 혈액 속 ‘항암 스위치’ 켜진다&nbsp;&nbsp;캔서앤서이러한 운동 방식은 혈액 순환을 개선하여 암과 당뇨병의 위험을 줄이는 데 도움이 됩니다.&nbsp;&nbsp;vietnam.vn\"무작정 걷기, 오히려 효과 없다\"⋯딱 '이 만큼' 걸어야 암 위험 낮춘다&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "헬스조선",
@@ -246,14 +258,14 @@
       ]
     },
     {
-      "id": "41b2ad097076",
+      "id": "89a7838f8f4c",
       "title": "\"몇 분 지나면 괜찮다?\"…미니 뇌졸중, 90일 안에 터진다 [바디플랜] - 네이트",
       "published": "2026-04-04T00:01:00+00:00",
       "summary": "\"몇 분 지나면 괜찮다?\"…미니 뇌졸중, 90일 안에 터진다 [바디플랜]&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBud190bkRPTzJlRFZlcHhhYTRSVjlyYlBnVmJjOE9pM3RpXzQtZHBUQ0NCTmRZQ1JGQzlFVHZXdWhPY0RkTjFtOExacDBwTVphVnVsN05R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91TDdXSWUwckZRaGNvbjRBRHc2SjhRWXlZbG1ILVEyQ19VMnNxcld1bFJzTGpoSlpxb2hRMTV1VnJldVlRQmFPRmpKYUh1aEdsdEpXODJ6R3NGdWdMZE9qdw?oc=5"
         }
       ]
     },
@@ -270,14 +282,14 @@
       ]
     },
     {
-      "id": "b309bc698d80",
-      "title": "정밀 의학, 한국 의료의 미래는? - youthassembly.kr",
+      "id": "77dde9f85bdf",
+      "title": "정밀 의학, 한국 의료의 미래는? - benews.co.kr",
       "published": "2026-04-03T16:31:59+00:00",
-      "summary": "정밀 의학, 한국 의료의 미래는?&nbsp;&nbsp;youthassembly.kr",
+      "summary": "정밀 의학, 한국 의료의 미래는?&nbsp;&nbsp;benews.co.kr",
       "sources": [
         {
-          "name": "youthassembly.kr",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHc0RialRaQmJ5STVzUjRMUWlUdkx5eTFyVVlhQ1pGQkEzZzdYLU1UNXJyd0Vkak9Jd2hOeXVBY0kyX0ZJMGVIYUJicWZUWFZCSGc?oc=5"
+          "name": "benews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RVE51Q2VVSm4xRWozYlVCNnhRSWZhQl85VXloR0tYUVJfSVcxZ2FsaWxxVV9tbl9CRjMzYnpZRjU5aUgwUFFydTBycHA?oc=5"
         }
       ]
     },
@@ -306,30 +318,6 @@
       ]
     },
     {
-      "id": "daffd2aeae16",
-      "title": "'채혈 한 번'으로 치매 진단하는 AI 모델 개발... \"맞춤형 진단 개선 기대\" - 하이닥",
-      "published": "2026-04-03T12:00:00+00:00",
-      "summary": "'채혈 한 번'으로 치매 진단하는 AI 모델 개발... \"맞춤형 진단 개선 기대\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HOGNTTW12QVFZTWd1X1VMYjZUMVFSY3drTV9NWDBCU1I0T2tDT3U4V3ltaW5pMEI1OGMzcU5pRE5JNVo0N0diZTdKWEFwR0RZOUZvdE5sR01ZQmFUT3A1U2ZsR1c2cllfNmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f39106cf7c1a",
-      "title": "중년에 우울증·당뇨 앓으면...‘영츠하이머’ 위험 2배 이상 높아 - 디멘시아뉴스",
-      "published": "2026-04-03T09:41:13+00:00",
-      "summary": "중년에 우울증·당뇨 앓으면...‘영츠하이머’ 위험 2배 이상 높아&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42anptMVFLQktseVkzY0tmTDFBeDhkRkRQSkcyNldxOWdCazdPUGJ1Y3JJT3pld2ZUQmsxV0xlRURFRVhaQnYxaE9QSGUxRHZDdE5sTHliYWtJWnNGX0k5Y0R6MW9HTElmNkVNM0tNbVR1UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "81077264384c",
       "title": "어릴 땐 네 발, 크면 두 발로 걷는 공룡화석이 발견됐어요 - 조선일보",
       "published": "2026-04-03T08:56:00+00:00",
@@ -338,78 +326,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkduZlN2QnlBM05VRFQ1UjBzanMxT2x0TjY3MHNIUkhuQjl1N29JenkzWnRveGN6NFBzTk01RGotbGdqQVlZcWRIVEU3SG96WF9HMFpRNVF2TzgweXBhYXVYc0hSSHRvaVZPb1lIZDJOREhna0gtQWlTVDdZRHZxZndPcFB1SEFldERhb0ZDZmxsdm8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6fe6ba45c01d",
-      "title": "‘UDCA’ 급격한 체중감량으로 인한 담석 발생 위험 예방 - 현대건강신문",
-      "published": "2026-04-03T08:43:00+00:00",
-      "summary": "‘UDCA’ 급격한 체중감량으로 인한 담석 발생 위험 예방&nbsp;&nbsp;현대건강신문",
-      "sources": [
-        {
-          "name": "현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11NFM0UWE5bDlTU0ZTSllkNDFfMzB0VGI3NDhzUnlEbmt0Ylg5bXk3aHBIMklMVEZpM3loOThxZXRqcF9PQjVxN1JvVGdXSUg1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6a1da69b247",
-      "title": "남·동남아시아 여행 계획 중이신가요? 여행 전 니파바이러스 감염증 예방수칙 확인하세요! - 모빅경제",
-      "published": "2026-04-03T07:46:29+00:00",
-      "summary": "남·동남아시아 여행 계획 중이신가요? 여행 전 니파바이러스 감염증 예방수칙 확인하세요!&nbsp;&nbsp;모빅경제",
-      "sources": [
-        {
-          "name": "모빅경제",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90UGxHWkk5NTBHVVFDMHN0VjFmNDMxS3pEQTV5dllyQzYySnh3Y20yRVEtTDR1NGVWczZHU2VBSFRJRlFJTzRSdW40WjBqcmszdzlTLWc0YmJCblcyT2JVeFpObUxJaVN4alZsZ1dlSjA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1d7db9b19f11",
-      "title": "“여성 건강? 호르몬이 핵심”… ‘이 식사법’ 불균형 바로잡는다고? - 코메디닷컴",
-      "published": "2026-04-03T07:05:00+00:00",
-      "summary": "“여성 건강? 호르몬이 핵심”… ‘이 식사법’ 불균형 바로잡는다고?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA1WjZnUXBsMWk3XzBBUUxoSzFqeWcxd0VPajV1TmJVaDhZcTVVTUVyWXJGb2w5cnlKTUF3X0JoQjl0dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c80c091269d3",
-      "title": "국립어린이청소년도서관, \"이 열매를 집으로 할까?\" \"AI에게 건강을 맡겨도 될까요?\" 등 사서추천도서 8권 선정 - K스피릿",
-      "published": "2026-04-03T06:32:18+00:00",
-      "summary": "국립어린이청소년도서관, \"이 열매를 집으로 할까?\" \"AI에게 건강을 맡겨도 될까요?\" 등 사서추천도서 8권 선정&nbsp;&nbsp;K스피릿",
-      "sources": [
-        {
-          "name": "K스피릿",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wcEMzRzdKOUtSZDV5NXI1NmtJb2ZqS3M5MzJPWDVrajFPNmxIRFdLbzdqUDJIcEZCVTU4NTRrVEUwZ3ZVSHBfU1NJWldmTjFVRnhZX2JYY1NnUW5jNF8wMk9TY1cyM2h0c2Q0RzBsYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fecb34fe5b1f",
-      "title": "코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\" - 하이닥",
-      "published": "2026-04-03T06:00:00+00:00",
-      "summary": "코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;연합뉴스코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;헬스조선코로나19 장기 후유증, 심혈관 위험 높인다…여성은 최대 2배↑&nbsp;&nbsp;tjb.co.kr",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZLU04UEZtTkRGdGZYc0l0VTVxTWE0Mk1DMFd5OTNoYnMzeXBKakVHQ3FrQ1YtN3dXaGNkb1lsaVAzYUZDT2Qtb052azNUUGk5U2J6bzZMVHBxNjY0LVd0SHJ1MGt2UWwyQVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd09649c8f27",
-      "title": "\"양자컴퓨터, 이르면 2027년에 기존 암호 체계 무력화 가능\" - 지디넷코리아",
-      "published": "2026-04-02T23:56:40+00:00",
-      "summary": "\"양자컴퓨터, 이르면 2027년에 기존 암호 체계 무력화 가능\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0cjctaWs3U3UxRVpxRnl5RlFrR2ZtOFlfQ2FBZmJ0UlE3Z19SbThodUZtS05TS3M5d2o5Y1FtUGVlV3VoOUE4dFVsVnlOSUVqTlBDRXJ3?oc=5"
         }
       ]
     }
