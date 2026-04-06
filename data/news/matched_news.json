@@ -1,30 +1,225 @@
 {
-  "last_updated": "2026-04-06T02:50:21.719331+00:00",
-  "total_count": 31,
+  "last_updated": "2026-04-06T07:49:30.331154+00:00",
+  "total_count": 40,
   "matched_count": 0,
   "news": [
     {
-      "id": "5489356e3b94",
+      "id": "a0f7a0b9c7de",
+      "title": "유성선병원, AI 치매 진단 솔루션 도입",
+      "published": "2026-04-06T07:08:00+00:00",
+      "summary": "유성선병원, AI 치매 진단 솔루션 도입&nbsp;&nbsp;충청뉴스치매라더니 오진?…'이 검사'로 헷갈리는 병 구분할 수 있다&nbsp;&nbsp;네이트유성선병원, AI 기반 정밀 분석 도입으로 치매 진단 '수치화' - 보도자료 | 기사&nbsp;&nbsp;더팩트뉴로엑스티, '서울혁신챌린지' R&amp;D 성과로 알츠하이머 고위험군 선별 인공지능 고도화… 공공보건 확장 기대 [서울형 R&amp;D:혁신의 심장]&nbsp;&nbsp;v.daum.net손아름 (울산대학교 의과학대학원) | 한빛사 인터뷰 > 한빛사&nbsp;&nbsp;BRIC",
+      "sources": [
+        {
+          "name": "충청뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kMWtNWk9HdU5samdLQkNaalZTS2FyRzRlbWdJS2dQYnhOWnFwOEYtLVlHbnVxVDhKQkg2QUVuZG5BNE9kdDJIcE95MFJzVTl1NU5lbTkyc2ItaV93d2xQMmF5Q21oWTlGa1hzQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "db04eaf61ad0",
+      "title": "유한양행 ‘로수바미브’, 이상지질혈증 환자 LDL-C 치료 타겟 연구",
+      "published": "2026-04-06T06:48:46+00:00",
+      "summary": "유한양행 ‘로수바미브’, 이상지질혈증 환자 LDL-C 치료 타겟 연구&nbsp;&nbsp;의사신문“로수바미브 병용요법으로 LDL-C 55 미만 관리, 임상적 혜택 명확”&nbsp;&nbsp;라포르시안콜레스테롤 관리, \"더 일찍·더 낮게\"… ACC·AHA, 이상지질혈증 가이드라인 개정&nbsp;&nbsp;바이오타임즈고지혈증 주사제 틈새 파고든 '스타틴+에제티미브'의 반격&nbsp;&nbsp;히트뉴스유럽·미국 고지혈증 치료 변화…LDL-C ‘더 낮게·더 일찍’&nbsp;&nbsp;메디포뉴스",
+      "sources": [
+        {
+          "name": "의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FV0FaSmhtYzlkY1RnU1c5WmFWa0lvNVhyNmRIc1BtcGduY0t0WjdXOXQtM1l2bHRKcFp5MTJVWnZzR2FaaFFkeko2V1JQLUc2ZF9YQ1FOVV9vVm5QSVFoanpjSEg5UU9YeFdzenRfTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a1b3ee632663",
+      "title": "“대장암 위험 높인다?” 10명 중 4명 몰랐다",
+      "published": "2026-04-06T06:30:00+00:00",
+      "summary": "“대장암 위험 높인다?” 10명 중 4명 몰랐다&nbsp;&nbsp;레이디경향【건강백세】 고염식 식습관, 몸 구석구석 적신호&nbsp;&nbsp;시사뉴스“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야?&nbsp;&nbsp;헬스조선한국인 나트륨 섭취량, WHO 권고치 1.6배 넘어&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "레이디경향",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uZjI0enRydkhXMW1VZFEwc1hKd0RGNy1IZ0NRNmx2MGNiaGNaeGpHM3A5SjRtYkdXX2VuWnZOajVHU0FLNmd3WU1RZ2k2QXdIdVdfblRIS1M5ZF9mbzhXLU5lQnFoUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e534ed4bc4f2",
+      "title": "中 수산물서 바이러스 감염 확인…\"실명 환자까지 발생\"",
+      "published": "2026-04-06T06:18:32+00:00",
+      "summary": "中 수산물서 바이러스 감염 확인…\"실명 환자까지 발생\"&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11RDdWUTI5cEFxQWRfd0MyaEJyc2thZ3ZvZkxrUE83Qmp0djdmdWd6dWhvZ0VMTGJTOXh0WGZQSzJhcWM5azNKVmJ3MzRuOGVHTmUzRndMWHFKMTZDTnAzUA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "54db939fe9da",
+      "title": "하루 30분 걷기, 항암 단백질 깨워 유방암 세포 성장 늦춘다",
+      "published": "2026-04-06T06:00:00+00:00",
+      "summary": "하루 30분 걷기, 항암 단백질 깨워 유방암 세포 성장 늦춘다&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmSnN1SjhkODVpbUNveXVvMUpjNlVrNS1GV2M1ckZ1LWZmWXlURXNLbzB6UmJqdWZBN2g2ZXd0UnNubVZvX05udmFwX0NzdlRGTVhqR015a2JPRGIxQVU0cVhyeUp6bnFFU1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4900b0823364",
+      "title": "2형 당뇨병 여성, 가임 기간 길면 치매 위험 27% 낮아진다",
+      "published": "2026-04-06T05:30:00+00:00",
+      "summary": "2형 당뇨병 여성, 가임 기간 길면 치매 위험 27% 낮아진다&nbsp;&nbsp;하이닥당뇨 깊어질수록 치매 위험 최대 2.3배…여성은 ‘가임 기간’이 보호막 [건강+]&nbsp;&nbsp;v.daum.net폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42TW52RFBDaFlkaS10ZmpzaC1qbGpKUkpqbVFneDg1M0VXSlNyUF9JUFJ0bjZWbzRITHhRaVg0WHBraHZkZ253X2NzZXJXTmI0eG9PVWo4Q3pXVGEtRVZyUjkxUFNlZjlBWlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a01ee6029627",
+      "title": "[단독] 피지컬 AI 월드모델, LG·마음AI 컨소가 개발한다",
+      "published": "2026-04-06T05:15:35+00:00",
+      "summary": "[단독] 피지컬 AI 월드모델, LG·마음AI 컨소가 개발한다&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LVG5DVXluQk4wWUF5RnJjQ2xGcllSMi1uZmlyT1lua0RFQ3NsVGdEUW5NN285OG5TTEltTVQ2c1h5eW1tbWhrcUJtQmQ0UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ab1fac4835ed",
+      "title": "예산군, 2026년 ‘지역거점 뎅기열 예방관리’ 국고보조사업 선정",
+      "published": "2026-04-06T05:15:16+00:00",
+      "summary": "예산군, 2026년 ‘지역거점 뎅기열 예방관리’ 국고보조사업 선정&nbsp;&nbsp;뉴스밴드예산군, 온마을 통합돌봄 식사지원 서비스 시행&nbsp;&nbsp;전국매일신문‘감염병 대응·통합돌봄 강화’ …건강 안전망 ‘촘촘히 구축’&nbsp;&nbsp;공뉴스뎅기열 유행 시기를 앞두고 응에안성에서 뎅기열 감시를 강화합니다.&nbsp;&nbsp;Vietnam.vn대구 북구보건소, 대구가톨릭대학교 칠곡가톨릭병원 ‘지역거점 뎅기열 협력 의료기관’ 지정&nbsp;&nbsp;kspnews.com",
+      "sources": [
+        {
+          "name": "뉴스밴드",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQak1PQ3lnTEpuaXV5LXB3aURzQUh6MmxsXzZRNFNhMG56V2d4R04zMFZZQzgwcjdmVVJ2elpmWm1ySTNkWUdONlh4ZUlvZ1IzSGZEY3k5SEJ3SlRrWWpfdzlFbzdncW5p?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6efdbb17ae09",
+      "title": "﻿세포 생체시계 불안정하면 ‘뇌 노화·치매’ 밀접",
+      "published": "2026-04-06T05:13:00+00:00",
+      "summary": "﻿세포 생체시계 불안정하면 ‘뇌 노화·치매’ 밀접&nbsp;&nbsp;데일리메디세포 속 ‘생체시계’ 뇌 노화·알츠하이머병 연관 변화 뚜렷&nbsp;&nbsp;의학신문'비정상 생체주기' 뇌 노화 · 알츠하이머 요인&nbsp;&nbsp;메디칼트리뷴",
+      "sources": [
+        {
+          "name": "데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UkRJemwwRFFrY2thN1lpTlJuQ2w1NHlubFBrQlB6dlFnR3U5ZlcxY0c2WG1sZXByZjBoT0RqOVUwZUJabnNfQ2ZKVHZGQjNzU21kVHd1VTlLUzJwSEsycnJVVlV6UE50?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "642d96bc4b7f",
+      "title": "임신 '비타민D 부족' 아이 알레르기·면역 영향",
+      "published": "2026-04-06T04:56:38+00:00",
+      "summary": "임신 '비타민D 부족' 아이 알레르기·면역 영향&nbsp;&nbsp;세이프타임즈아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;kyeonggi.com성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레\"임신부 비타민D 부족, 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스TV\"임신중 비타민D 부족하면 출생 후에도 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "세이프타임즈",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWUNvOUoxTVhRWWEzVVVhUFE4ZGJ1RWxVdzZ2ZmtXeE40Zi00ZlItVW5yWktpRFZRcGttNFlPeDYzRjhKQnFfRVhsS3Y2ZUdILVd2THVfbkdwSkFqZWw5cF82WlEtNzE4QXM4ZEg3UdIBc0FVX3lxTFBYOXZmOHNGUFRGbTNoM2xMeWVEc1Z0Q3JFMGE1ekpVb3o2M1R1dDFhN08xQm0yNlNjLTJwMGM0R1UwclNkdHFDamdFX1pLVHYwanE3X2tvbVpFcmpIdFNTTEJJejdOc2VBRmVFZFNEMmJYbWs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "72153b93266c",
+      "title": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도",
+      "published": "2026-04-06T04:42:47+00:00",
+      "summary": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도&nbsp;&nbsp;메디칼업저버이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고&nbsp;&nbsp;메디포뉴스한국지질·동맥경화학회, 3-4일 춘계학술대회 SoLA 2026 개최&nbsp;&nbsp;rehabnews.net한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최&nbsp;&nbsp;병원신문한국지질·동맥경화학회, 춘계학술대회 SoLA 2026 개최 (4/3~4)&nbsp;&nbsp;메디포뉴스",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aNW02LTdCN2pnWnBhOEdUZUhTc2cwaGU2emFldnpYN3U1TG9WZjlxZUpRUFJjWU5LWnZxU0p6VEZmRlNSOVVsREd6ZDhyU3ZESlpiNGhTcXBOb1RxVkVMVUJlZTc4TmZ2TzhJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "50d7e8820fd1",
+      "title": "“평소엔 적게 마시는데?”… 한 달에 한 번 폭음, 간 섬유화 위험 3배 ↑",
+      "published": "2026-04-06T04:30:00+00:00",
+      "summary": "“평소엔 적게 마시는데?”… 한 달에 한 번 폭음, 간 섬유화 위험 3배 ↑&nbsp;&nbsp;하이닥“술, ‘이렇게’ 마시면 치명적”… 간 딱딱하게 굳어요&nbsp;&nbsp;코메디닷컴‘어쩌다 한 번 많이 마신’ 술이 간에 흉터 남긴다&nbsp;&nbsp;헬스조선가끔 몰아서 마셔도 위험…폭음, 지방간 환자 간섬유화 3배 증가&nbsp;&nbsp;네이트며칠 쉬었으니 오늘 한 잔?…‘간헐적 과음’, 지방간 키운다 [수민이가 궁금해요]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14a09FazgwRHVKUG9hUlc5b3M5LWNTNkN1WEdFbmoteXVwOE54TDJSZHdFb0Q1Z1dULTdWZHE1bmV2a0R5ZnM2S0hvT3dkblRSVGY1ZVJtaXRaQXFKNFNjbVA0REM5S1ZVMkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0c58cbc01b81",
+      "title": "[박효순의 아는 게 약] 눈 비비면 후회",
+      "published": "2026-04-06T03:39:00+00:00",
+      "summary": "[박효순의 아는 게 약] 눈 비비면 후회&nbsp;&nbsp;자유일보",
+      "sources": [
+        {
+          "name": "자유일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tTnh5VThsSW5ZeGZGdU50SVVzUE5TQXpkbHNjT2Rva0psZ3RtVUgxekdjczZfZ2YwVEhJQXZyR0dSOXpjaHNkZ19qMVpIWFhtd0tSZmhEdlVHRzZRbVcwRlJpUmhCT2h4NXNj0gFvQVVfeXFMT2dPNHhRcDB5ZTduN2VBOTByel9Ca0FIUG9ScmttdW9qbDc2ODEtaVJfZWpybWN4Q05BcTdjbG1IejEzMllGVjBKVmY4SlRJVmJyZXQwQk9ad2F0eGRndzRoVFJEaURyWlFHeExiZHpV?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "99514d74f46d",
+      "title": "건강은 선택에서 갈린다…같은 병인데 결과가 달라지는 이유",
+      "published": "2026-04-06T03:05:00+00:00",
+      "summary": "건강은 선택에서 갈린다…같은 병인데 결과가 달라지는 이유&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZbTVTZmNSZ0hYeTR1NmdYbHpWRVBZYXRiM3ctTE9NemZpbkZZVW9WTUZOcG1YX1Bxa09Ld3VZRmNMZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fdb92699c3bc",
+      "title": "[전문의 칼럼] 크론병, 음식이 원인이고 음식이 치료다",
+      "published": "2026-04-06T02:53:07+00:00",
+      "summary": "[전문의 칼럼] 크론병, 음식이 원인이고 음식이 치료다&nbsp;&nbsp;에너지경제신문",
+      "sources": [
+        {
+          "name": "에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BU0RlcFVsQ0RNMEg2SFpUYzk4Z1c2OUhrbWJVaXNTdEl3NE1PQ2ptSk43eDRSOHFtWVlLdWd3MjJnTXpBSUFQYkF1QTQzU3VyR3JzazhKU2hNbExYcmNISjhVMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ea9f171af639",
       "title": "콜린알포세레이트 복용시 치매로 전환 감소…효과 재확인",
       "published": "2026-04-06T02:26:05+00:00",
       "summary": "콜린알포세레이트 복용시 치매로 전환 감소…효과 재확인&nbsp;&nbsp;메디칼타임즈",
       "sources": [
         {
           "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lRGZFYjJWM1BVUDg0ZU9IbHlBSzZvUlh0LUhEZFdibmtsN0ZFUTVUZTIwSWpxYi10NmxvN0dWbTRkQkxGdFo1RC0xYkxGYndsa1ZKOHRqZi0wLTRaaWZVenpFdjNzV21NdHMtTFFueWI?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VcU40Y0ZZMHBEbVJEdEdCV0J0TExsVWdjVGhYMVhiX25RUENIMmdpb1FKaVBURjgzUXdoQjNrbWRBRUQ0RjV3RXQtRzAzak5tTVZoZWZ5aC1HNkk1TjBkLXFZRVROTjhjQzJKbTRfWG5GS28?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "04e0887ac353",
-      "title": "이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고",
-      "published": "2026-04-06T01:21:01+00:00",
-      "summary": "이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고&nbsp;&nbsp;메디포뉴스한국지질·동맥경화학회, 3-4일 춘계학술대회 SoLA 2026 개최&nbsp;&nbsp;재활뉴스SoLA 2026서 이상지질혈증 진료지침 개정 방향 공개&nbsp;&nbsp;의학신문한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최&nbsp;&nbsp;병원신문한국지질·동맥경화학회, 춘계학술대회 SoLA 2026 개최 (4/3~4)&nbsp;&nbsp;메디포뉴스",
+      "id": "95e1c3c72ca8",
+      "title": "\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요",
+      "published": "2026-04-06T01:39:25+00:00",
+      "summary": "\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;보건신문무리한 운동이 ‘경동맥 협착’을 드러낼 수 있다&nbsp;&nbsp;스포츠경향",
       "sources": [
         {
-          "name": "메디포뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xaDNJbE51Z2JRc1FsbElqTjNBN1NXRm14RV94dVR2d3ZDR0J3amEzU29fOGtVR1FtdU5aY2hVYkxsSGdfNDlMWmZnUmJUX0dGa0dEYnpUTGF5SF9TcmRNb1lOU1E?oc=5"
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FZUpzMXMzU2J4VE1pOGFUeVdldE5XODg4QnFocUo0emplY0VydE9UZi1JUHA1RWZ4U2ktaTMwY0FQQk1vWWZyWWpsRTFiRHFndnJoSGx1M2N1dXBkeS1RSEVZSQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -43,40 +238,14 @@
       "matched_keywords": []
     },
     {
-      "id": "687b46a6c450",
-      "title": "서울성모병원 이승환 교수 연구팀, 당뇨환자 여성력-치매위험 상관관계 확인",
-      "published": "2026-04-06T01:01:06+00:00",
-      "summary": "서울성모병원 이승환 교수 연구팀, 당뇨환자 여성력-치매위험 상관관계 확인&nbsp;&nbsp;메디포뉴스\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;health.chosun.com2형당뇨병 여성 초경에서 폐경까지 가임기간 길수록 치매 위험↓&nbsp;&nbsp;뉴스1서울성모병원, “당뇨환자 여성, 가임기간 길수록 치매 위험 낮아”&nbsp;&nbsp;헤럴드경제",
+      "id": "9eb2b6be3bad",
+      "title": "봄 환절기 면역력 떨어질 때, 찾아오는 ‘여성 곤지름’",
+      "published": "2026-04-06T01:03:58+00:00",
+      "summary": "봄 환절기 면역력 떨어질 때, 찾아오는 ‘여성 곤지름’&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
-          "name": "메디포뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RS0JQdTBsNmNGWFgyNWgzVlJCYU9oNV8zWkI5US1fWGtUYzhiazNJYTJjYTJmU3NQalNjdWxfYkx3LWtoMmFUZGRrdi1ZMjVhVU5zRVBUdHVPU3JJZWQ0OURwTHc5V2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "349231dc4954",
-      "title": "콜레스테롤 관리, \"더 일찍·더 낮게\"… ACC·AHA, 이상지질혈증 가이드라인 개정",
-      "published": "2026-04-06T00:58:35+00:00",
-      "summary": "콜레스테롤 관리, \"더 일찍·더 낮게\"… ACC·AHA, 이상지질혈증 가이드라인 개정&nbsp;&nbsp;바이오타임즈고지혈증주사제 '에볼로쿠맙' 당뇨환자 1차 심혈관사고 예방 입증&nbsp;&nbsp;메디칼트리뷴조용히 쌓이다 막힌다…2030 혈관 노리는 '콜레스테롤'&nbsp;&nbsp;네이트LDL 콜레스테롤 55mg/dL 미만, 70mg/dL 미만보다 주요 심혈관 사건 감소 확인&nbsp;&nbsp;medicalworldnews.co.kr당뇨 고위험군, 강력한 콜레스테롤 약 쓰면 첫 심장마비·뇌졸중 31% 줄어&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55cVFjeF91OGF2YmV1cWNab3Utel9fZHJXcldaejNMYndnMDlZMlRTSGFVZmJUVGFNSTE3Und1NmtCM2RSU1lnampDSVIzTmdpNUFxX0dYSHB1VnVhRllqWWl6VEVRYncxTjllRw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "46d15099851e",
-      "title": "\"임신 중 비타민D 부족하면 아이 면역력 약해져요\"",
-      "published": "2026-04-06T00:42:13+00:00",
-      "summary": "\"임신 중 비타민D 부족하면 아이 면역력 약해져요\"&nbsp;&nbsp;복지타임즈아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;경기일보뱃속에서 결정된다…임신 중 비타민D, 아이 알레르기 면역 건강 좌우&nbsp;&nbsp;v.daum.net성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레\"임신중 비타민D 부족하면 출생 후에도 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스",
-      "sources": [
-        {
-          "name": "복지타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvTTY1bUJTRWM5Tml2SXhjU1FsNzRscU1aUHBFRUhyX3lyTGt5QTVBdFJHZldpTUd1bGRoNE95ZGxOVnhJVzAwbHlJb0xRT2VCcldXREFqN2k0TlRmUl9xWHRncjdZa1QyRXBpdg?oc=5"
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iUFN2OVJ2akNXNmlrSFFJd04tdDZPOFB5TF9xS2ZUUDVyUldycXlMNjk5RnJwWUZMaG9lRF8wc0xwQ25paXNfTG1OTEN3X1I4cUpsZktmUEk5SVM0Y0dzTWFn0gFsQVVfeXFMUFprOE84RWx6dkJGQkZ0M2I5V3VUeHZJaFo0LWdXMy1BeGI5bnBVeGdfMzRiUDNQc2ZiZ2M3VWJnWW1UazdRQjBCcHV2Rl91UEpWdGFUWUNOUUdmbXlYd0pjbllzLXVlTjNuNHla?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,39 +290,39 @@
       "matched_keywords": []
     },
     {
-      "id": "48bc00e1784e",
+      "id": "3901781d9834",
       "title": "“다이어트에 좋다더니?” 칼로리 폭탄 ‘이 음식’의 반전",
       "published": "2026-04-05T18:01:00+00:00",
-      "summary": "“다이어트에 좋다더니?” 칼로리 폭탄 ‘이 음식’의 반전&nbsp;&nbsp;health.chosun.com“몸에 좋다는 거야? 나쁘다는 거야?”…빵에 발라먹는 ‘이것’, 전문가 의견은 [헬시타임]&nbsp;&nbsp;서울경제“100% 땅콩 아니어도 돼” 고칼로리 땅콩버터의 반전…“혈당·체중 관리에 도움”&nbsp;&nbsp;전자신문살 찔까 봐 피했는데 오히려⋯혈당 낮추고 지방 태우는 '이 음식'&nbsp;&nbsp;v.daum.net땅콩버터, 건강식일까 고칼로리 식품일까…핵심은 '이것'&nbsp;&nbsp;뉴시스",
+      "summary": "“다이어트에 좋다더니?” 칼로리 폭탄 ‘이 음식’의 반전&nbsp;&nbsp;헬스조선“몸에 좋다는 거야? 나쁘다는 거야?”…빵에 발라먹는 ‘이것’, 전문가 의견은 [헬시타임]&nbsp;&nbsp;서울경제“100% 땅콩 아니어도 돼” 고칼로리 땅콩버터의 반전…“혈당·체중 관리에 도움”&nbsp;&nbsp;전자신문살 찔까 봐 피했는데 오히려⋯혈당 낮추고 지방 태우는 '이 음식'&nbsp;&nbsp;v.daum.net땅콩버터, 건강식일까 고칼로리 식품일까…핵심은 '이것'&nbsp;&nbsp;뉴시스",
       "sources": [
         {
-          "name": "health.chosun.com",
+          "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ha242RjhDc3YxX0NfWkJQR1FmRFdnZzltMkhReGIzY3d4cTdXVVlfdkppSkFyMHJpcUdlT01Hc1NqZ2NnOTJXZjFEYlEwSGFhYlByMGs5a25TRjFBTzU4V0hXTVlFaXJmUHNOZTBJRkdsMjBBcnc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "053ef6f2cb18",
-      "title": "'완전식품' 달걀의 힘…2주 섭취로 골다공증 예방 효과 확인",
-      "published": "2026-04-05T15:17:00+00:00",
-      "summary": "'완전식품' 달걀의 힘…2주 섭취로 골다공증 예방 효과 확인&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "id": "857f5f4e5841",
+      "title": "재발·전이 늘어나는 암, ‘재진단암 특약’ 꼼꼼히 따져야",
+      "published": "2026-04-05T15:00:00+00:00",
+      "summary": "재발·전이 늘어나는 암, ‘재진단암 특약’ 꼼꼼히 따져야&nbsp;&nbsp;한국보험신문",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mMjlORXVyUkxJYkQzN0lHd0ZsNGtUVGJVaTlUTHhqNkJDSWNSWEJUNG5YRXJkdDlQU0ZILTR1R2xsY0V5RFdBOUoyamF2bkZIOEQw?oc=5"
+          "name": "한국보험신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43azQ4Y1JSeEVGenpBclRrVHB2VlNHV2tRMUg2YUZpUG82VFBJSW9YelFnLVFMOG9oangwSnlhZmFKZXBmdFJaSkhhc3pfVmJ2ZFVXQ0R2RXdNNkF4WnhLSkFTUTQ5UDBxNEtv0gFvQVVfeXFMUGVoM3hVR2FoQ2FvTVZTUTAxODlIdHg0Mlh2YU1yallMTFRURXQ0ZTZTdG0zRThqWXJyVV9VaEZxNW5TX0stZ3B5NWRHQVBxOUFfbXByR3NNVUJtLUkwcm5ObjBxQWxfY2pJNWxnT29J?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "751757cf5d54",
+      "id": "d4f95f74a85e",
       "title": "고혈압이 부부관계에 미칠 영향",
       "published": "2026-04-05T14:01:00+00:00",
-      "summary": "고혈압이 부부관계에 미칠 영향&nbsp;&nbsp;health.chosun.com예지원 “하스카프베리, 혈관 노폐물 청소해준다” (이토록 위대한 몸)&nbsp;&nbsp;bntnews.co.kr혈압약 평생 먹어도 끊지 못하는 진짜 이유&nbsp;&nbsp;브런치“혈압 정상이라 안심했는데”… 수치보다 중요한 건 ‘혈관 손상’ 여부&nbsp;&nbsp;하이닥따뜻해지는 봄철, 고혈압 환자는 어떤 점 주의해야 할까&nbsp;&nbsp;이뉴스코리아",
+      "summary": "고혈압이 부부관계에 미칠 영향&nbsp;&nbsp;헬스조선예지원 “하스카프베리, 혈관 노폐물 청소해준다” (이토록 위대한 몸)&nbsp;&nbsp;bntnews.co.kr혈압약 평생 먹어도 끊지 못하는 진짜 이유&nbsp;&nbsp;브런치“혈압 정상이라 안심했는데”… 수치보다 중요한 건 ‘혈관 손상’ 여부&nbsp;&nbsp;하이닥따뜻해지는 봄철, 고혈압 환자는 어떤 점 주의해야 할까&nbsp;&nbsp;이뉴스코리아",
       "sources": [
         {
-          "name": "health.chosun.com",
+          "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XU25kbmxIQU5sa0dDQzN4eUR6ejVmbXdEaWNnVnA3SzAtbWVVajNjSG1oeWtfWHFsdWRUN1VBTDVicllQbVVjZXhDWVZEaEg5MmxkSzhKcnJrX3c2cmNQYlVVejJVSnZ2R0k3b0ljRldySXAzR3c?oc=5"
         }
       ],
@@ -186,53 +355,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b8063d9df290",
-      "title": "치매라더니 오진?…'이 검사'로 헷갈리는 병 구분할 수 있다",
-      "published": "2026-04-05T07:04:00+00:00",
-      "summary": "치매라더니 오진?…'이 검사'로 헷갈리는 병 구분할 수 있다&nbsp;&nbsp;네이트'채혈 한 번'으로 치매 진단하는 AI 모델 개발... \"맞춤형 진단 개선 기대\"&nbsp;&nbsp;하이닥치매는 한 가지가 아니었다&nbsp;&nbsp;브런치수십만원이면 알츠하이머 혈액 검사…과잉 검사 우려도 커져&nbsp;&nbsp;동아사이언스“간편한 혈액검사로 알츠하이머병 위험도 조기 체크”&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwdlVZYk14clVTTkR5dC0tRTloWVRNaENBRG9yU1A0ZjhxOGhGX09tSWpKWXF3c1VZYkxsZmtTZzVuS3d4TDlEWTh4SU56TjZRMkZZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d3dc8ed41c1b",
       "title": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다",
       "published": "2026-04-05T07:00:00+00:00",
-      "summary": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다&nbsp;&nbsp;매경헬스초기 파킨슨병 환자, ‘시·공간 인지’ 기능 떨어지면 치매 위험 7.3배 ↑&nbsp;&nbsp;하이닥[KMDS와 함께 하는 파킨슨병 바로 알기] 파킨슨병이 치매보다 소외되는 이유&nbsp;&nbsp;헬스경향무심코 넘긴 변비·잠꼬대, ‘파킨슨병 초기 경고’일 수도 [건강한겨레]&nbsp;&nbsp;한겨레무너진 일상에도 갈 곳 없다···희귀질환 '비정형 파킨슨' 돌봄 공백&nbsp;&nbsp;여성경제신문",
+      "summary": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다&nbsp;&nbsp;매경헬스시각·공간 인지능력 저하, 치매 전환 위험 가장 높아&nbsp;&nbsp;데이터솜[KMDS와 함께 하는 파킨슨병 바로 알기] 파킨슨병이 치매보다 소외되는 이유&nbsp;&nbsp;헬스경향[굿클리닉] 파킨슨 환자, 뇌에 자극 주니…약물 복용량 66% 뚝&nbsp;&nbsp;edaily.co.kr파킨슨병, 미국서 가장 빠르게 증가하는 신경퇴행성 질환…6분마다 1명 진단&nbsp;&nbsp;seattlekdaily.com",
       "sources": [
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94b21ZYTYyYmdtR3JiODBvNDhFNmNZN2I0VnhEamJ0eVRheXZHVFNoS3I5RzdtSTc1WG9zMXRleEhOTXR1ZXR4b3pVQ2g3azg4Mm9XSDY2YklqU3c0QkpWZUF1bERpV3Jqd1c0VQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5b1ea9010813",
-      "title": "“회 먹다가 ‘실명’까지?”…中 수산물에서 바이러스 옮겨, 눈 질환 확산",
-      "published": "2026-04-05T04:05:00+00:00",
-      "summary": "“회 먹다가 ‘실명’까지?”…中 수산물에서 바이러스 옮겨, 눈 질환 확산&nbsp;&nbsp;kormedi.com",
-      "sources": [
-        {
-          "name": "kormedi.com",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzTFQ2STg0bUZKSnJmZ0RQS19XSlpubWc5QThsV3lsMXRsdnNxRngxY2lGM3dkR0gwTnZJTzZIWWNlQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c8af2fba5e82",
-      "title": "가끔 몰아서 마셔도 위험... 폭음, 지방간 환자 간섬유화 3배 증가",
-      "published": "2026-04-05T03:48:15+00:00",
-      "summary": "가끔 몰아서 마셔도 위험... 폭음, 지방간 환자 간섬유화 3배 증가&nbsp;&nbsp;메디컬투데이“술, ‘이렇게’ 마시면 치명적”… 간 딱딱하게 굳어요&nbsp;&nbsp;kormedi.com‘어쩌다 한 번 많이 마신’ 술이 간에 흉터 남긴다&nbsp;&nbsp;health.chosun.com며칠 쉬었으니 오늘 한 잔?…‘간헐적 과음’, 지방간 키운다 [수민이가 궁금해요]&nbsp;&nbsp;v.daum.net가끔 몰아서 마셔도 위험…폭음, 지방간 환자 간섬유화 3배 증가&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wYm1nSVlibHQzTFVFX1FlbWVEYzFUcTZtZnJtZUJ3QTFEc1lLOVVTWEpTQjBMQXhmZzRGVVpYMXFwXzMzU3NkeFRSZU5LbjhYR3NvNG84aTg4NFQz0gFsQVVfeXFMT0twNzMtSl8zVWxrT0pNdHZ3YjNtZFU2aGRpa0JjRE9icDlHYUNKZldLc0hLdGtSakg0cXE2WEIzNXBhY2puUmNLcWgwUFBESG1RV2gtYTBFQ0VxNkFUbzZmSE5VVTBTdWpUWFZr?oc=5"
         }
       ],
       "matched_keywords": []
@@ -264,13 +394,13 @@
       "matched_keywords": []
     },
     {
-      "id": "3e5a1325fc40",
+      "id": "c73e1564f150",
       "title": "아침식사 때 ‘이 습관’, 심장병 사망 위험 높인다",
       "published": "2026-04-04T22:01:00+00:00",
-      "summary": "아침식사 때 ‘이 습관’, 심장병 사망 위험 높인다&nbsp;&nbsp;health.chosun.com“평생 심장 건강 좌우”… 밥 ‘이렇게’ 먹어라&nbsp;&nbsp;health.chosun.com심장 건강, 채소에게 맡겨봐…전문가가 꼽은 ‘심장에 좋은 채소 5가지’&nbsp;&nbsp;레이디경향한해 400만명 사망 '허혈성 심장질환', 식단에 원인 있었다&nbsp;&nbsp;v.daum.net美 정부는 OK, 심장협회는 '줄여라'…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;네이트",
+      "summary": "아침식사 때 ‘이 습관’, 심장병 사망 위험 높인다&nbsp;&nbsp;헬스조선“평생 심장 건강 좌우”… 밥 ‘이렇게’ 먹어라&nbsp;&nbsp;헬스조선심장 건강, 채소에게 맡겨봐…전문가가 꼽은 ‘심장에 좋은 채소 5가지’&nbsp;&nbsp;레이디경향美 정부는 OK, 심장협회는 '줄여라'…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;네이트06화 2025-2030 미국 행정부 식단 권고&nbsp;&nbsp;브런치",
       "sources": [
         {
-          "name": "health.chosun.com",
+          "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92aFM3WVNRZThyRjhUV0pKU0FUd01oeEJWVlRiLWRqTHpfc3c1RmtYQlZGcjlUOVJ3OVpXSmdKZjcyeC1ZZDhRRVhTdThua1hXRXFTLTAxY2pRSDU1bDVGTEpyQjBrRk1ZSVFjQzdSNHV5RGxKT0E?oc=5"
         }
       ],
@@ -303,13 +433,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d4cb0b3581df",
+      "id": "d0fb91881181",
       "title": "의학강국 선도 성균관대 원홍희 교수 연구팀, 단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시",
       "published": "2026-04-04T15:02:00+00:00",
-      "summary": "의학강국 선도 성균관대 원홍희 교수 연구팀, 단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시&nbsp;&nbsp;국민뉴스성균관대 연구진 \"세포마다 유전 변이 역할 달라\"…뇌 질환 메커니즘 규명&nbsp;&nbsp;뉴시스성균관대 연구팀, 단일세포 분석으로 뇌 질환 원인 규명… 정밀의료 새 전기&nbsp;&nbsp;핀포인트뉴스성균관대 원홍희 교수팀 \"같은 유전 변이라도 세포 종류 따라 발현 딴판\" … 뇌 질환 원인 세포 단위에서 규명&nbsp;&nbsp;biz.newdaily.co.kr성균관대학교 원홍희 교수팀, 단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시&nbsp;&nbsp;한국강사신문",
+      "summary": "의학강국 선도 성균관대 원홍희 교수 연구팀, 단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시&nbsp;&nbsp;kookminnews.com성균관대 연구진 \"세포마다 유전 변이 역할 달라\"…뇌 질환 메커니즘 규명&nbsp;&nbsp;뉴시스성균관대 연구팀, 단일세포 분석으로 뇌 질환 원인 규명… 정밀의료 새 전기&nbsp;&nbsp;핀포인트뉴스성균관대 원홍희 교수팀 \"같은 유전 변이라도 세포 종류 따라 발현 딴판\" … 뇌 질환 원인 세포 단위에서 규명&nbsp;&nbsp;biz.newdaily.co.kr성균관대학교 원홍희 교수팀, 단일 세포 단위 분석으로 밝혀낸 뇌 질환 정복의 새로운 이정표 제시&nbsp;&nbsp;한국강사신문",
       "sources": [
         {
-          "name": "국민뉴스",
+          "name": "kookminnews.com",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XNFN4RHBlT0tPWk9kU3JKNGd4aEUxS1hTbWViN2g3VkVoQnpmNlpFdEVWNTJVaTVOdzVHTFBuNWswVUlBeXgzeVFn?oc=5"
         }
       ],
@@ -363,19 +493,6 @@
         {
           "name": "위클리코리아",
           "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOFpxT3RiT2hXUmVrdFM3MjZ6QnVaWDFTRGZITU85MFdvWHNxUDJYaDl2UFlHUlRZSGhJUVZySkJYclB0U3R4RFQ2NzVoOGJVYWZOR2tWSXJvVzEwRUF4NTU2VWFIS1U3UUJxbGctWTlLd1VvcnlMZElyX3pIRWlCV2h4aDl0ZEtkQXR6bnhyV2JHbVdzaE5oSFh2eXpCci1TMEdqQmhWQ2ttbi1rZFFqLUhVaFItcjdtWnFGVm9BZ0NOakNxU1BJNENCSjJvQl94UVhjY0wzWTluS2Z4TVg0MUlfMmtwZTBocUo4LS1obTUyVDQ2M3Q4YVNvVE9iRWV3R3dZUFJxTnRwUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8746ee45a3ff",
-      "title": "하루 30분만 걸읍시다… ‘이 암’ 위험 확 낮아진대요",
-      "published": "2026-04-04T05:02:00+00:00",
-      "summary": "하루 30분만 걸읍시다… ‘이 암’ 위험 확 낮아진대요&nbsp;&nbsp;health.chosun.com",
-      "sources": [
-        {
-          "name": "health.chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uOXZiR191Wk0tZmI1MEtvT2lXRGV6d1pXWXZQWWl1ckhOckp2NkxEb29VWnl3d19ZdWtTUHVjTTJ2NFlxcVJmNXQxWEtHdTdnVElDdU9Ja1ZXbjdEQVhTcWhDb1FuX01CZnM4Vkowd281ekNWc3c?oc=5"
         }
       ],
       "matched_keywords": []
