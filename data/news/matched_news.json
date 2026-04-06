@@ -1,43 +1,69 @@
 {
-  "last_updated": "2026-04-06T07:49:30.331154+00:00",
+  "last_updated": "2026-04-06T13:18:37.798813+00:00",
   "total_count": 40,
   "matched_count": 0,
   "news": [
     {
-      "id": "a0f7a0b9c7de",
-      "title": "유성선병원, AI 치매 진단 솔루션 도입",
-      "published": "2026-04-06T07:08:00+00:00",
-      "summary": "유성선병원, AI 치매 진단 솔루션 도입&nbsp;&nbsp;충청뉴스치매라더니 오진?…'이 검사'로 헷갈리는 병 구분할 수 있다&nbsp;&nbsp;네이트유성선병원, AI 기반 정밀 분석 도입으로 치매 진단 '수치화' - 보도자료 | 기사&nbsp;&nbsp;더팩트뉴로엑스티, '서울혁신챌린지' R&amp;D 성과로 알츠하이머 고위험군 선별 인공지능 고도화… 공공보건 확장 기대 [서울형 R&amp;D:혁신의 심장]&nbsp;&nbsp;v.daum.net손아름 (울산대학교 의과학대학원) | 한빛사 인터뷰 > 한빛사&nbsp;&nbsp;BRIC",
+      "id": "fa07975d7984",
+      "title": "임신 중 비타민D 부족하면…\"출생 후 아이 면역 저하·알레르기 취약\"",
+      "published": "2026-04-06T10:56:54+00:00",
+      "summary": "임신 중 비타민D 부족하면…\"출생 후 아이 면역 저하·알레르기 취약\"&nbsp;&nbsp;한국경제Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "충청뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kMWtNWk9HdU5samdLQkNaalZTS2FyRzRlbWdJS2dQYnhOWnFwOEYtLVlHbnVxVDhKQkg2QUVuZG5BNE9kdDJIcE95MFJzVTl1NU5lbTkyc2ItaV93d2xQMmF5Q21oWTlGa1hzQQ?oc=5"
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fZ0RxalMteHZ2aXhTLWh3Y0FfemtLMi0tVjBNUHpYMUVUa3dXQnJYWDRSOUFzRUdjNktzYXBPSGJiQ19zVkFsVnNtQk16Nmpqc1VrX3lpTHcxZ9IBVEFVX3lxTFB0Y0diT1JyTVNrQ1FjNF91N3g3Q3lTYS1oQ1BiNUNONVRxOWktRmdlTGdVZG9hQWNyNXBvc1h4S0pldnJjMVVVbjIzNXNSOXlYYWRZZw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "db04eaf61ad0",
-      "title": "유한양행 ‘로수바미브’, 이상지질혈증 환자 LDL-C 치료 타겟 연구",
-      "published": "2026-04-06T06:48:46+00:00",
-      "summary": "유한양행 ‘로수바미브’, 이상지질혈증 환자 LDL-C 치료 타겟 연구&nbsp;&nbsp;의사신문“로수바미브 병용요법으로 LDL-C 55 미만 관리, 임상적 혜택 명확”&nbsp;&nbsp;라포르시안콜레스테롤 관리, \"더 일찍·더 낮게\"… ACC·AHA, 이상지질혈증 가이드라인 개정&nbsp;&nbsp;바이오타임즈고지혈증 주사제 틈새 파고든 '스타틴+에제티미브'의 반격&nbsp;&nbsp;히트뉴스유럽·미국 고지혈증 치료 변화…LDL-C ‘더 낮게·더 일찍’&nbsp;&nbsp;메디포뉴스",
+      "id": "fa68d8e5b920",
+      "title": "생체시계, 뇌 노화 및 알츠하이머병과 연관",
+      "published": "2026-04-06T09:42:50+00:00",
+      "summary": "생체시계, 뇌 노화 및 알츠하이머병과 연관&nbsp;&nbsp;병원신문세포 속 ‘생체시계’ 뇌 노화·알츠하이머병 연관 변화 뚜렷&nbsp;&nbsp;의학신문피부 세포 시계로 알츠하이머병 예측… 생체 리듬·뇌 노화 연관성 규명&nbsp;&nbsp;하이닥﻿세포 생체시계 불안정하면 ‘뇌 노화·치매’ 밀접&nbsp;&nbsp;dailymedi.com'비정상 생체주기' 뇌 노화 · 알츠하이머 요인&nbsp;&nbsp;메디칼트리뷴",
       "sources": [
         {
-          "name": "의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FV0FaSmhtYzlkY1RnU1c5WmFWa0lvNVhyNmRIc1BtcGduY0t0WjdXOXQtM1l2bHRKcFp5MTJVWnZzR2FaaFFkeko2V1JQLUc2ZF9YQ1FOVV9vVm5QSVFoanpjSEg5UU9YeFdzenRfTQ?oc=5"
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iV3NBdFkxMk5WRnBNbjU3UF9BYUpDTVM5RXktWmh3MWlkdmdPUWR0cm1jY00yc3lHYm9vaXAwVUZUSExOUWpzdzQ3VFNwZUFzNnZ2Y3RRZlBnZW9weG9waXNOdF9qWVBQRGc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "a1b3ee632663",
-      "title": "“대장암 위험 높인다?” 10명 중 4명 몰랐다",
-      "published": "2026-04-06T06:30:00+00:00",
-      "summary": "“대장암 위험 높인다?” 10명 중 4명 몰랐다&nbsp;&nbsp;레이디경향【건강백세】 고염식 식습관, 몸 구석구석 적신호&nbsp;&nbsp;시사뉴스“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야?&nbsp;&nbsp;헬스조선한국인 나트륨 섭취량, WHO 권고치 1.6배 넘어&nbsp;&nbsp;브런치",
+      "id": "12a4d255ecfc",
+      "title": "수억 건 의료 기록 기계학습…알츠하이머병 발병 10년 전부터 전조 증상 포착",
+      "published": "2026-04-06T08:01:58+00:00",
+      "summary": "수억 건 의료 기록 기계학습…알츠하이머병 발병 10년 전부터 전조 증상 포착&nbsp;&nbsp;아이티데일리",
       "sources": [
         {
-          "name": "레이디경향",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uZjI0enRydkhXMW1VZFEwc1hKd0RGNy1IZ0NRNmx2MGNiaGNaeGpHM3A5SjRtYkdXX2VuWnZOajVHU0FLNmd3WU1RZ2k2QXdIdVdfblRIS1M5ZF9mbzhXLU5lQnFoUQ?oc=5"
+          "name": "아이티데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41S1RnS05NN013bXJ6RkNmbkNMeXhrUktnYlAyYlJNZFNzY09OSFJQdWNra2l2cHRXaXBGbkdwcFV5ZE14S3VLNHZfSkduM3I2ZFhEazJZNGZFcUpENFI5WGQ5ZG9LMGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f50b0c1a3654",
+      "title": "“아이들도 좋아하는데”… 의사가 경고한 ‘발암 음식’",
+      "published": "2026-04-06T08:00:00+00:00",
+      "summary": "“아이들도 좋아하는데”… 의사가 경고한 ‘발암 음식’&nbsp;&nbsp;헬스조선“대장암 위험 높인다?” 10명 중 4명 몰랐다&nbsp;&nbsp;레이디경향【건강백세】 고염식 식습관, 몸 구석구석 적신호&nbsp;&nbsp;시사뉴스한국인 나트륨 섭취량, WHO 권고치 1.6배 넘어&nbsp;&nbsp;브런치“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tYmotMk8zbDlQZU5yM1IwVnlfSzRRdlluREVCV2hGQWtjdjlXV1A1MG5FbWVPbjB3alp2ZW1icVI0RmxoeEZ4TlRPYjJRaUNYMW44Z01MYzhTMUxoTms1RjlOSm40ZENrem1yblZaalFzTGFVbHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "aac5a9b74f6e",
+      "title": "2형 당뇨 여성, 초경~폐경기간 길수록 치매 위험 감소",
+      "published": "2026-04-06T07:31:56+00:00",
+      "summary": "2형 당뇨 여성, 초경~폐경기간 길수록 치매 위험 감소&nbsp;&nbsp;dailymedi.com\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선한달에 한번 찾아오는 불청객? 알고보니 치매 방패[헬시타임]&nbsp;&nbsp;서울경제",
+      "sources": [
+        {
+          "name": "dailymedi.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCX3cxZ05uVlJLaS1LbHlMOHRkbC13RElOSzRfb1ByMW5DLVVEcVpXYjZhNG9WS01qZXV5RW93Ti1wbEt4T3lyUmpLWjhoeDN0NWRVRDA5SXpxYnd2U3JTcjg1bFRkRElf?oc=5"
         }
       ],
       "matched_keywords": []
@@ -69,23 +95,23 @@
       "matched_keywords": []
     },
     {
-      "id": "4900b0823364",
-      "title": "2형 당뇨병 여성, 가임 기간 길면 치매 위험 27% 낮아진다",
-      "published": "2026-04-06T05:30:00+00:00",
-      "summary": "2형 당뇨병 여성, 가임 기간 길면 치매 위험 27% 낮아진다&nbsp;&nbsp;하이닥당뇨 깊어질수록 치매 위험 최대 2.3배…여성은 ‘가임 기간’이 보호막 [건강+]&nbsp;&nbsp;v.daum.net폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스",
+      "id": "63fd403052d8",
+      "title": "유성선병원, 치매 진단 ‘수치화’… AI 기반 정밀 분석 도입",
+      "published": "2026-04-06T05:29:51+00:00",
+      "summary": "유성선병원, 치매 진단 ‘수치화’… AI 기반 정밀 분석 도입&nbsp;&nbsp;충청탑뉴스치매라더니 오진?…'이 검사'로 헷갈리는 병 구분할 수 있다&nbsp;&nbsp;네이트유성선병원, AI 기반 정밀 분석 도입으로 치매 진단 '수치화' - 보도자료 | 기사&nbsp;&nbsp;더팩트뉴로엑스티, '서울혁신챌린지' R&amp;D 성과로 알츠하이머 고위험군 선별 인공지능 고도화… 공공보건 확장 기대 [서울형 R&amp;D:혁신의 심장]&nbsp;&nbsp;v.daum.net손아름 (울산대학교 의과학대학원) | 한빛사 인터뷰 > 한빛사&nbsp;&nbsp;BRIC",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42TW52RFBDaFlkaS10ZmpzaC1qbGpKUkpqbVFneDg1M0VXSlNyUF9JUFJ0bjZWbzRITHhRaVg0WHBraHZkZ253X2NzZXJXTmI0eG9PVWo4Q3pXVGEtRVZyUjkxUFNlZjlBWlE?oc=5"
+          "name": "충청탑뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIMENGM3lFWFhEU29TNmF3ckQxSDE1Z3JuRmIzQVdkQjQtU3d1ejN5akRPTWdDcUxjOHN1LXhVRmxnLXNKdlhLaGN3WjdsZEtVQ3YzWVRHejFqNGZaVkl0UWFpTE0?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "a01ee6029627",
-      "title": "[단독] 피지컬 AI 월드모델, LG·마음AI 컨소가 개발한다",
+      "id": "4a0bc406b291",
+      "title": "[단독] 피지컬 AI 월드모델, LG·마음AI 컨소 개발 유력",
       "published": "2026-04-06T05:15:35+00:00",
-      "summary": "[단독] 피지컬 AI 월드모델, LG·마음AI 컨소가 개발한다&nbsp;&nbsp;전자신문",
+      "summary": "[단독] 피지컬 AI 월드모델, LG·마음AI 컨소 개발 유력&nbsp;&nbsp;전자신문",
       "sources": [
         {
           "name": "전자신문",
@@ -98,7 +124,7 @@
       "id": "ab1fac4835ed",
       "title": "예산군, 2026년 ‘지역거점 뎅기열 예방관리’ 국고보조사업 선정",
       "published": "2026-04-06T05:15:16+00:00",
-      "summary": "예산군, 2026년 ‘지역거점 뎅기열 예방관리’ 국고보조사업 선정&nbsp;&nbsp;뉴스밴드예산군, 온마을 통합돌봄 식사지원 서비스 시행&nbsp;&nbsp;전국매일신문‘감염병 대응·통합돌봄 강화’ …건강 안전망 ‘촘촘히 구축’&nbsp;&nbsp;공뉴스뎅기열 유행 시기를 앞두고 응에안성에서 뎅기열 감시를 강화합니다.&nbsp;&nbsp;Vietnam.vn대구 북구보건소, 대구가톨릭대학교 칠곡가톨릭병원 ‘지역거점 뎅기열 협력 의료기관’ 지정&nbsp;&nbsp;kspnews.com",
+      "summary": "예산군, 2026년 ‘지역거점 뎅기열 예방관리’ 국고보조사업 선정&nbsp;&nbsp;뉴스밴드예산군, 질병청 ‘뎅기열 예방관리’ 거점 선정&nbsp;&nbsp;뉴스티앤티‘감염병 대응·통합돌봄 강화’ …건강 안전망 ‘촘촘히 구축’&nbsp;&nbsp;공뉴스대구 북구보건소, 대구가톨릭대학교 칠곡가톨릭병원 ‘지역거점 뎅기열 협력 의료기관’ 지정&nbsp;&nbsp;케이에스피뉴스뎅기열 유행 시기를 앞두고 응에안성에서 뎅기열 감시를 강화합니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "뉴스밴드",
@@ -108,36 +134,10 @@
       "matched_keywords": []
     },
     {
-      "id": "6efdbb17ae09",
-      "title": "﻿세포 생체시계 불안정하면 ‘뇌 노화·치매’ 밀접",
-      "published": "2026-04-06T05:13:00+00:00",
-      "summary": "﻿세포 생체시계 불안정하면 ‘뇌 노화·치매’ 밀접&nbsp;&nbsp;데일리메디세포 속 ‘생체시계’ 뇌 노화·알츠하이머병 연관 변화 뚜렷&nbsp;&nbsp;의학신문'비정상 생체주기' 뇌 노화 · 알츠하이머 요인&nbsp;&nbsp;메디칼트리뷴",
-      "sources": [
-        {
-          "name": "데일리메디",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84UkRJemwwRFFrY2thN1lpTlJuQ2w1NHlubFBrQlB6dlFnR3U5ZlcxY0c2WG1sZXByZjBoT0RqOVUwZUJabnNfQ2ZKVHZGQjNzU21kVHd1VTlLUzJwSEsycnJVVlV6UE50?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "642d96bc4b7f",
-      "title": "임신 '비타민D 부족' 아이 알레르기·면역 영향",
-      "published": "2026-04-06T04:56:38+00:00",
-      "summary": "임신 '비타민D 부족' 아이 알레르기·면역 영향&nbsp;&nbsp;세이프타임즈아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;kyeonggi.com성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레\"임신부 비타민D 부족, 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스TV\"임신중 비타민D 부족하면 출생 후에도 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스",
-      "sources": [
-        {
-          "name": "세이프타임즈",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWUNvOUoxTVhRWWEzVVVhUFE4ZGJ1RWxVdzZ2ZmtXeE40Zi00ZlItVW5yWktpRFZRcGttNFlPeDYzRjhKQnFfRVhsS3Y2ZUdILVd2THVfbkdwSkFqZWw5cF82WlEtNzE4QXM4ZEg3UdIBc0FVX3lxTFBYOXZmOHNGUFRGbTNoM2xMeWVEc1Z0Q3JFMGE1ekpVb3o2M1R1dDFhN08xQm0yNlNjLTJwMGM0R1UwclNkdHFDamdFX1pLVHYwanE3X2tvbVpFcmpIdFNTTEJJejdOc2VBRmVFZFNEMmJYbWs?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "72153b93266c",
       "title": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도",
       "published": "2026-04-06T04:42:47+00:00",
-      "summary": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도&nbsp;&nbsp;메디칼업저버이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고&nbsp;&nbsp;메디포뉴스한국지질·동맥경화학회, 3-4일 춘계학술대회 SoLA 2026 개최&nbsp;&nbsp;rehabnews.net한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최&nbsp;&nbsp;병원신문한국지질·동맥경화학회, 춘계학술대회 SoLA 2026 개최 (4/3~4)&nbsp;&nbsp;메디포뉴스",
+      "summary": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도&nbsp;&nbsp;메디칼업저버이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고&nbsp;&nbsp;메디포뉴스한국지질·동맥경화학회, 3-4일 춘계학술대회 SoLA 2026 개최&nbsp;&nbsp;재활뉴스한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최&nbsp;&nbsp;병원신문한국지질·동맥경화학회, 춘계학술대회 SoLA 2026 개최 (4/3~4)&nbsp;&nbsp;메디포뉴스",
       "sources": [
         {
           "name": "메디칼업저버",
@@ -155,6 +155,32 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14a09FazgwRHVKUG9hUlc5b3M5LWNTNkN1WEdFbmoteXVwOE54TDJSZHdFb0Q1Z1dULTdWZHE1bmV2a0R5ZnM2S0hvT3dkblRSVGY1ZVJtaXRaQXFKNFNjbVA0REM5S1ZVMkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "83c97a248ae3",
+      "title": "'진짜 수명'은 이미 정해져 있다? 100년만에 뒤집힌 연구[이런일이]",
+      "published": "2026-04-06T04:23:00+00:00",
+      "summary": "'진짜 수명'은 이미 정해져 있다? 100년만에 뒤집힌 연구[이런일이]&nbsp;&nbsp;nocutnews.co.kr",
+      "sources": [
+        {
+          "name": "nocutnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3YmZEZEVoSEozbzBRbDRoWlJmZURKMW90bzhxZ2cyTHlYOHBQTHVhNHcxRy1uN05RajFSRldzYTU3MDJUUk5Hd1IwNmJ2NmdabHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "43dcc3c720a0",
+      "title": "갑자기 ‘이 증상’ 나타났다면, 대장암 의심",
+      "published": "2026-04-06T04:10:00+00:00",
+      "summary": "갑자기 ‘이 증상’ 나타났다면, 대장암 의심&nbsp;&nbsp;헬스조선[이정범의 응급의학 가이드] 배변 습관 변화, 직장암은 ‘신호’를 보낸다&nbsp;&nbsp;한국보험신문“인스턴트 먹다 19살에 고혈압” 의사 놀란 요즘 젊은층 건강 상태&nbsp;&nbsp;biz.heraldcorp.com[칼럼] 대장암은 나이 들면 생기는 병? 젊은 대장암 증가세 심상치 않다&nbsp;&nbsp;코리아헬스로그[특별기고] 이제 막연한 공포가 아닌 ‘암’… 생활습관 개선에 좌우된다&nbsp;&nbsp;국민일보",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtYjE0cF9QWE9yNWZkNjhKVUNkTU1zaWppZTZhdnRKaTdfMXVKYzRONi1NMk9oRkIyOEhObFNFaExLZXpodjlpV2htWndYMEIwVEwyNnhOV2JvM1Y3eUZkR0pjWG1jdldnZXVzallyYVpKd0ZqMmc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -215,7 +241,7 @@
       "id": "95e1c3c72ca8",
       "title": "\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요",
       "published": "2026-04-06T01:39:25+00:00",
-      "summary": "\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;보건신문무리한 운동이 ‘경동맥 협착’을 드러낼 수 있다&nbsp;&nbsp;스포츠경향",
+      "summary": "\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;보건신문",
       "sources": [
         {
           "name": "보건신문",
@@ -251,6 +277,19 @@
       "matched_keywords": []
     },
     {
+      "id": "fdeb048e3a1a",
+      "title": "소시지·햄 등 초가공식품, 전립선 비대증 위험 높여",
+      "published": "2026-04-05T23:51:00+00:00",
+      "summary": "소시지·햄 등 초가공식품, 전립선 비대증 위험 높여&nbsp;&nbsp;메디컬투데이[메디컬투데이 - 쇼츠뉴스] 초가공식품 섭취와 전립선 비대증 발생 위험의 상관관계 연구&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44V1RJdGNDWjZud2pKaVo4X2xmQ0NWZDdPUzU2RkpybnhzcVAzR3dMc0MxRVhWQWdyU043WjR1VGU3LTZJWlJJc1FuZVhBOE5CWkxKUXRmWmNTaEpl0gFsQVVfeXFMTkVOY2hJVVFNWmhFaTFKSThoOWx6Y0cwTDBrY0tRQ2RZY1B3Z0JYTFdUeUIySUFhc0Y4S2ZBLW15VjUtZXNKdUlqVWVKcXZ6S20wa1c2Rk1VZ0NxajNPa2RxZHFIcXBXbklYZlVT?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "57e26b21eba8",
       "title": "\"국립군사박물관 없는 대한민국…국방연구단지도 조성하자\"",
       "published": "2026-04-05T23:00:04+00:00",
@@ -264,27 +303,27 @@
       "matched_keywords": []
     },
     {
-      "id": "609ef6336d85",
-      "title": "포도당, ‘STAT3’ 활성화 통해 \"대장암 성장 촉진\"",
-      "published": "2026-04-05T21:57:00+00:00",
-      "summary": "포도당, ‘STAT3’ 활성화 통해 \"대장암 성장 촉진\"&nbsp;&nbsp;후생신보",
+      "id": "be93efd0fa24",
+      "title": "수소·실리카 생산 신공정 개발…\"기존 대비 수천배 저렴\"",
+      "published": "2026-04-05T23:00:03+00:00",
+      "summary": "수소·실리카 생산 신공정 개발…\"기존 대비 수천배 저렴\"&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE15Tm4tMTdDWkxMamE2Mi1VcVVuYW5wYmFtYkN2RlpnU25KUXVXaDE5R2hvX0I5Q0ZUQXY0djVEVW9pRTl2?oc=5"
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lcEFBbHdzbzNXMmRSTnRsbTJjUlNBSk1UZE95WjJ6S3JmcGpMY2dKTV9ONE0xOXJQVF9OZXhUVnJlRWIxYk5LQnlfRzNGa1drRS0zdzJ3?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "0fa2ba76a946",
-      "title": "[굿모닝 멤버십] 고단백·저탄수·무지방 식단의 불편한 진실",
-      "published": "2026-04-05T21:18:00+00:00",
-      "summary": "[굿모닝 멤버십] 고단백·저탄수·무지방 식단의 불편한 진실&nbsp;&nbsp;조선일보인공 감미료와 뇌 건강: 상충되는 연구 결과 속 과학이 말하는 것&nbsp;&nbsp;브랜드경제신문'고단백·저당·장 건강'… 건강 이미지 입힌 가공식품, 오히려 독 된다&nbsp;&nbsp;캔서앤서",
+      "id": "6bd837d90b75",
+      "title": "포도당, ‘STAT3’ 활성화 통해 \"대장암 성장 촉진\"",
+      "published": "2026-04-05T21:57:00+00:00",
+      "summary": "포도당, ‘STAT3’ 활성화 통해 \"대장암 성장 촉진\"&nbsp;&nbsp;whosaeng.com",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DbEc3RFJwaUd2bS1RUWZFSUNUY2liWC05QXlHOGNOcndCNkJxQ3Z2dUstenZKUkxJNThTYVdhMXJXVF9zNVU4TGotRVJtZThGVlJRazdseVF0WWktUnJ1c19BT0gxbHA1UU9xTzRQcTRlbjNXWmFjUER3?oc=5"
+          "name": "whosaeng.com",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE15Tm4tMTdDWkxMamE2Mi1VcVVuYW5wYmFtYkN2RlpnU25KUXVXaDE5R2hvX0I5Q0ZUQXY0djVEVW9pRTl2?oc=5"
         }
       ],
       "matched_keywords": []
@@ -355,13 +394,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d3dc8ed41c1b",
+      "id": "5abda18b3879",
       "title": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다",
       "published": "2026-04-05T07:00:00+00:00",
-      "summary": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다&nbsp;&nbsp;매경헬스시각·공간 인지능력 저하, 치매 전환 위험 가장 높아&nbsp;&nbsp;데이터솜[KMDS와 함께 하는 파킨슨병 바로 알기] 파킨슨병이 치매보다 소외되는 이유&nbsp;&nbsp;헬스경향[굿클리닉] 파킨슨 환자, 뇌에 자극 주니…약물 복용량 66% 뚝&nbsp;&nbsp;edaily.co.kr파킨슨병, 미국서 가장 빠르게 증가하는 신경퇴행성 질환…6분마다 1명 진단&nbsp;&nbsp;seattlekdaily.com",
+      "summary": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다&nbsp;&nbsp;mkhealth.co.kr[KMDS와 함께 하는 파킨슨병 바로 알기] 파킨슨병이 치매보다 소외되는 이유&nbsp;&nbsp;헬스경향[굿클리닉] 파킨슨 환자, 뇌에 자극 주니…약물 복용량 66% 뚝&nbsp;&nbsp;이데일리파킨슨병, 미국서 가장 빠르게 증가하는 신경퇴행성 질환…6분마다 1명 진단&nbsp;&nbsp;시애틀코리안데일리무심코 넘긴 변비·잠꼬대, ‘파킨슨병 초기 경고’일 수도 [건강한겨레]&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "매경헬스",
+          "name": "mkhealth.co.kr",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94b21ZYTYyYmdtR3JiODBvNDhFNmNZN2I0VnhEamJ0eVRheXZHVFNoS3I5RzdtSTc1WG9zMXRleEhOTXR1ZXR4b3pVQ2g3azg4Mm9XSDY2YklqU3c0QkpWZUF1bERpV3Jqd1c0VQ?oc=5"
         }
       ],
@@ -407,13 +446,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c09e206b69fa",
+      "id": "36c8e1d0371a",
       "title": "\"술 한잔도 예전 같지 않다\"…65세 이후 음주, 같은 양도 더 위험한 이유",
       "published": "2026-04-04T21:30:48+00:00",
-      "summary": "\"술 한잔도 예전 같지 않다\"…65세 이후 음주, 같은 양도 더 위험한 이유&nbsp;&nbsp;seattlekdaily.com",
+      "summary": "\"술 한잔도 예전 같지 않다\"…65세 이후 음주, 같은 양도 더 위험한 이유&nbsp;&nbsp;시애틀코리안데일리",
       "sources": [
         {
-          "name": "seattlekdaily.com",
+          "name": "시애틀코리안데일리",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40OUNXUEtlRFpzYUhreHhiQ3ljV21nRW5oOE1NUEh1UDNXdzl0YzMxMl9wMWZlSDUydU9PQXFhdlZ1SzdhRHdkZnQ4RmtnSmFaNnlueUFxWjNZZlVwLXNJQW5pcVdIRWtocHJOSGJDdw?oc=5"
         }
       ],
@@ -472,32 +511,6 @@
       "matched_keywords": []
     },
     {
-      "id": "41b45e645ef8",
-      "title": "유럽서 온 의료AI…\"점안액 없이 당뇨안질환 3분 선별\"",
-      "published": "2026-04-04T11:23:29+00:00",
-      "summary": "유럽서 온 의료AI…\"점안액 없이 당뇨안질환 3분 선별\"&nbsp;&nbsp;미디어데일",
-      "sources": [
-        {
-          "name": "미디어데일",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uVHh3b0JIQ282SkxOaklOejhxSHpqeXp6c1dyM1Q1T0RxQVJ4MlJNN0JhQjBpajMtaVZiWnMwV2JKbU5nMlAtNzV6NXMtcW1IYzZreGcxNjUzcEYzR1o3V1JaaTBZQ3ZDN2FV?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0a4d9dd6f232",
-      "title": "코로나19 신종 '시카다' 변이 전 세계 확산",
-      "published": "2026-04-04T08:54:52+00:00",
-      "summary": "코로나19 신종 '시카다' 변이 전 세계 확산&nbsp;&nbsp;위클리코리아코로나19의 새로운 '매미' 변종은 어린이에게 위험한가요?&nbsp;&nbsp;Vietnam.vn하노이, 올해 29명 코비드-19 확진…WHO 모니터링 중인 BA.3.2 변이 주의&nbsp;&nbsp;굿모닝베트남미디어CDC, 新코로나19 변이 확인… 백신 무용지물 되나&nbsp;&nbsp;IT조선“코로나 백신도 소용없다고?”…돌연변이 무장 ‘시카다’ 습격, 세계 20개국 ‘비상’&nbsp;&nbsp;서울신문",
-      "sources": [
-        {
-          "name": "위클리코리아",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPOFpxT3RiT2hXUmVrdFM3MjZ6QnVaWDFTRGZITU85MFdvWHNxUDJYaDl2UFlHUlRZSGhJUVZySkJYclB0U3R4RFQ2NzVoOGJVYWZOR2tWSXJvVzEwRUF4NTU2VWFIS1U3UUJxbGctWTlLd1VvcnlMZElyX3pIRWlCV2h4aDl0ZEtkQXR6bnhyV2JHbVdzaE5oSFh2eXpCci1TMEdqQmhWQ2ttbi1rZFFqLUhVaFItcjdtWnFGVm9BZ0NOakNxU1BJNENCSjJvQl94UVhjY0wzWTluS2Z4TVg0MUlfMmtwZTBocUo4LS1obTUyVDQ2M3Q4YVNvVE9iRWV3R3dZUFJxTnRwUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "130232b213ff",
       "title": "\"충전 없이 50년\"…꿈의 배터리 개발, 어디까지 왔나",
       "published": "2026-04-04T01:41:55+00:00",
@@ -506,19 +519,6 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VSE80RGlWc0NkZ1M4cGhIUEVidDNNNkpBU1h5aUZzSjNqcTY4dEttaWhCR0ZaUGtSNXFGSS1ZTzJobEE4Sk5feF9VUjBEa2xET1VXSGx3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "81077264384c",
-      "title": "어릴 땐 네 발, 크면 두 발로 걷는 공룡화석이 발견됐어요",
-      "published": "2026-04-03T08:56:00+00:00",
-      "summary": "어릴 땐 네 발, 크면 두 발로 걷는 공룡화석이 발견됐어요&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkduZlN2QnlBM05VRFQ1UjBzanMxT2x0TjY3MHNIUkhuQjl1N29JenkzWnRveGN6NFBzTk01RGotbGdqQVlZcWRIVEU3SG96WF9HMFpRNVF2TzgweXBhYXVYc0hSSHRvaVZPb1lIZDJOREhna0gtQWlTVDdZRHZxZndPcFB1SEFldERhb0ZDZmxsdm8?oc=5"
         }
       ],
       "matched_keywords": []
