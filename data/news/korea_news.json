@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-07T13:25:39.584945+00:00",
-  "total_fetched": 67,
-  "unique_count": 67,
-  "health_related_count": 34,
+  "fetched_at": "2026-04-07T19:09:52.401457+00:00",
+  "total_fetched": 69,
+  "unique_count": 69,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "53ae878c5944",
+      "title": "“암세포 키우는 김치” 의사 경고 나왔다… ‘이런 김치’는 버리라던데? - 헬스조선",
+      "published": "2026-04-07T18:00:00+00:00",
+      "summary": "“암세포 키우는 김치” 의사 경고 나왔다… ‘이런 김치’는 버리라던데?&nbsp;&nbsp;헬스조선“대장암 위험 높인다?” 10명 중 4명 몰랐다&nbsp;&nbsp;레이디경향국물만 안 마시면 될까…혈압 올리는 숨은 음식들&nbsp;&nbsp;한국투데이【건강백세】 고염식 식습관, 몸 구석구석 적신호&nbsp;&nbsp;시사뉴스“아이들도 좋아하는데”… 의사가 경고한 ‘발암 음식’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNVdiZWV5M1JlMTNhekpQU3lQUHZWUDZqdWNXR05lZVFVa3ZRdVV0OVZVNHlQajdxR1B3VFAxWkdnRUFDQnJaUm5KQVFwVXhHYzdqdThOMnRFX2ZwMFdmX0JUd2pRbDRDcF9YMTM5NHlsX0hfMmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eeb382358a84",
+      "title": "수근관 증후군, 밤되면 ‘시큰시큰’...손목 건강 적신호 - 울산일보",
+      "published": "2026-04-07T15:01:37+00:00",
+      "summary": "수근관 증후군, 밤되면 ‘시큰시큰’...손목 건강 적신호&nbsp;&nbsp;울산일보",
+      "sources": [
+        {
+          "name": "울산일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DWjVjVWRNXzZ5UEFDb2xGOVFRNElIQXdxU3lmenlqU2xDYzZMam50bHdhTWtfenhzM2ltQWVCTUV0MHZCblZ0OEU4QkRmZ3ZURnN6NkNsUjRUQzVmdEZBT25vOEJMeDYtVHZtTXlB?oc=5"
+        }
+      ]
+    },
     {
       "id": "4b5aac0aa5fc",
       "title": "“고환 아팠는데 단순 감염이라 해”…22세男 오진 후 고환암으로 사망, 무슨 일? - 코메디닷컴",
@@ -90,6 +114,42 @@
       ]
     },
     {
+      "id": "32f75ce8196c",
+      "title": "보건부, 홍역 환자 93% 감소 발표… 의료진 보호 강화 및 지속적 경계 촉구 - 한인포스트",
+      "published": "2026-04-07T02:45:35+00:00",
+      "summary": "보건부, 홍역 환자 93% 감소 발표… 의료진 보호 강화 및 지속적 경계 촉구&nbsp;&nbsp;한인포스트",
+      "sources": [
+        {
+          "name": "한인포스트",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FV3psUkRscFB0ZFJHajVGUUE5Z2RCbUQ4OHpZU2ZxYjRYNEZrQlRSNFBiLTIxOTVBV2sxR3F1NnlxblpvUHkza2Q4c25HQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ecaebedab3b2",
+      "title": "“약처럼 콜레스테롤 낮춘다”…심장 전문의들이 꼽은 대표 식품은? - 코메디닷컴",
+      "published": "2026-04-07T01:15:00+00:00",
+      "summary": "“약처럼 콜레스테롤 낮춘다”…심장 전문의들이 꼽은 대표 식품은?&nbsp;&nbsp;코메디닷컴콜레스테롤 수치 높은 사람, 매일 ‘이 과일’ 먹어라&nbsp;&nbsp;헬스조선\"약처럼 콜레스테롤 낮춘다\"…심장 전문의들이 꼽은 대표 식품은?&nbsp;&nbsp;네이트“콜레스테롤 걱정이라면 ‘이 과일’ 먹어라”…놀라운 연구결과 보니 [헬시타임]&nbsp;&nbsp;서울경제",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwVmJfZ2FWTmpHN0hpbDJweTYycXdFUFdIeHlTUWVGVXpYLWc4TTh2QkQ5M2ZNWXVpeVphVmZwQl9Fdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5bfadf4665c7",
+      "title": "경계 수준 콜레스테롤도 위험… 고지혈증, 방심했다간 동맥경화 부른다 - 하이닥",
+      "published": "2026-04-07T01:00:00+00:00",
+      "summary": "경계 수준 콜레스테롤도 위험… 고지혈증, 방심했다간 동맥경화 부른다&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdF9hRTNGZ0VwdVQ3dHpYT0lCbUNrWGxRSVdfaUJ6d0tPNUZjdzhQWEI3SjkxTXRsSjllcEFHT1lCWDZkdnJ3a2Q5Nkx0cjgzb3FuLVBWZmZmTWV4Nk1fei1rV29CUVR1OEE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0849b2606bad",
       "title": "만성림프구성백혈병 환자 피부암 위험 일반인 2배 - 메디칼트리뷴",
       "published": "2026-04-06T23:38:15+00:00",
@@ -126,18 +186,6 @@
       ]
     },
     {
-      "id": "eb5e46a9c237",
-      "title": "“아침 행동이 하루 혈압 좌우”… 일어나서 ‘이것’ 먹는 게 도움 - health.chosun.com",
-      "published": "2026-04-06T20:40:00+00:00",
-      "summary": "“아침 행동이 하루 혈압 좌우”… 일어나서 ‘이것’ 먹는 게 도움&nbsp;&nbsp;health.chosun.com“한국인 소울푸드가 암 위험 높인다”… 전문가가 꼽은 음식은?&nbsp;&nbsp;health.chosun.com국물만 안 마시면 될까…혈압 올리는 숨은 음식들&nbsp;&nbsp;한국투데이【건강백세】 고염식 식습관, 몸 구석구석 적신호&nbsp;&nbsp;시사뉴스“아이들도 좋아하는데”… 의사가 경고한 ‘발암 음식’&nbsp;&nbsp;health.chosun.com",
-      "sources": [
-        {
-          "name": "health.chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91d1NJaE5WcmJJemZmQWJuYzNaY0R2eGxKWnBEOExYX3owSXhCT0RIMU9FbDh3ZjdmVVY0NTZBQXQ5eUpfY1hseW1vZFg5VEg1cXVLTUI2NnhDZ3B5MklKemZMR0ZDeGhjclRXU0tRN1VZTUdxQnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d2944962d80b",
       "title": "자폐와 알츠하이머, 같은 유전자 148개 공유…\"두 질환은 연결돼 있다\" - 시애틀코리안데일리",
       "published": "2026-04-06T19:27:38+00:00",
@@ -162,26 +210,38 @@
       ]
     },
     {
-      "id": "c57069aa6236",
-      "title": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까? - health.chosun.com",
+      "id": "ceb36b996aad",
+      "title": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까? - 헬스조선",
       "published": "2026-04-06T16:00:00+00:00",
-      "summary": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까?&nbsp;&nbsp;health.chosun.com심장 건강, 채소에게 맡겨봐…전문가가 꼽은 ‘심장에 좋은 채소 5가지’&nbsp;&nbsp;레이디경향\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스美 정부는 OK, 심장협회는 '줄여라'…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;네이트쌀밥에 콩만 섞어도 충분…심혈관 건강 지키는 식사 루틴 [FOOD+]&nbsp;&nbsp;v.daum.net",
+      "summary": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까?&nbsp;&nbsp;헬스조선심장 건강, 채소에게 맡겨봐…전문가가 꼽은 ‘심장에 좋은 채소 5가지’&nbsp;&nbsp;레이디경향\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스美 정부는 OK, 심장협회는 '줄여라'…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;네이트쌀밥에 콩만 섞어도 충분…심혈관 건강 지키는 식사 루틴 [FOOD+]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "health.chosun.com",
+          "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwa1NsQ1JkWlBvd1B5OGI4NHBlSFdxVGZxTFZnX0c2b0VNNlZvRzEycURGVFBabjlieUlTQ0t6NGNFQmVrS0dRR1Q1bm9UVm5PM1JfMmlwVEVGdmxucVdRdEI3cUhLSDNabjZUcFRURGEtTll3RFE?oc=5"
         }
       ]
     },
     {
-      "id": "1e9ad6c07a29",
-      "title": "“전립선 크기 키우는 식품”… 흔히 먹는 ‘이 음식’ 주의 - health.chosun.com",
+      "id": "5f06691d2033",
+      "title": "“전립선 크기 키우는 식품”… 흔히 먹는 ‘이 음식’ 주의 - 헬스조선",
       "published": "2026-04-06T14:40:00+00:00",
-      "summary": "“전립선 크기 키우는 식품”… 흔히 먹는 ‘이 음식’ 주의&nbsp;&nbsp;health.chosun.com[메디컬투데이 - 쇼츠뉴스] 초가공식품 섭취와 전립선 비대증 발생 위험의 상관관계 연구&nbsp;&nbsp;네이트초가공식품, 많이 먹을수록 몸은 왜 더 피곤해질까&nbsp;&nbsp;한국투데이초가공식품, 남성 정자 건강에 치명적 영향&nbsp;&nbsp;브런치소시지·햄 등 초가공식품, 전립선 비대증 위험 높여&nbsp;&nbsp;메디컬투데이",
+      "summary": "“전립선 크기 키우는 식품”… 흔히 먹는 ‘이 음식’ 주의&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 초가공식품 섭취와 전립선 비대증 발생 위험의 상관관계 연구&nbsp;&nbsp;네이트초가공식품, 많이 먹을수록 몸은 왜 더 피곤해질까&nbsp;&nbsp;한국투데이초가공식품, 남성 정자 건강에 치명적 영향&nbsp;&nbsp;브런치소시지·햄 등 초가공식품, 전립선 비대증 위험 높여&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
-          "name": "health.chosun.com",
+          "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVkkxZEZDakdHV3N3aWViV003MDEtdkxzQ2llODRpWWc2VkdZR2s3OTRJMHZEVTRkMHZtTENiUC1lT2J5VTFWbjlxMGVzaEozMzZhemJiYnhzR0xtT0pIc25ibHBxRjc1SWptWm9TTEZNelJhZlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e360f8a674f1",
+      "title": "임신 중 비타민D 부족, 자녀 다중 알레르기 부른다 - 팜뉴스",
+      "published": "2026-04-06T08:45:33+00:00",
+      "summary": "임신 중 비타민D 부족, 자녀 다중 알레르기 부른다&nbsp;&nbsp;팜뉴스뱃속에서 결정된다…임신 중 비타민D, 아이 알레르기 면역 건강 좌우&nbsp;&nbsp;동아사이언스아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;경기일보임신 중 비타민D 부족하면…\"출생 후 아이 면역 저하·알레르기 취약\"&nbsp;&nbsp;v.daum.net성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CX1VhNkZESlJfUEtRQ3c1WU1SZ0tIcGpxaFRWUUdOUk90LXJtQ3RHN0kwd2E1OEJvSEN3a1ZRdzdLSlFRaVRWNjZhaGlFbzVfYjVoUlEtdmhHZ0N4dU50cWJIYVBFdFdfZHRMNw?oc=5"
         }
       ]
     },
@@ -210,14 +270,14 @@
       ]
     },
     {
-      "id": "642d96bc4b7f",
-      "title": "임신 '비타민D 부족' 아이 알레르기·면역 영향 - 세이프타임즈",
-      "published": "2026-04-06T04:56:38+00:00",
-      "summary": "임신 '비타민D 부족' 아이 알레르기·면역 영향&nbsp;&nbsp;세이프타임즈뱃속에서 결정된다…임신 중 비타민D, 아이 알레르기 면역 건강 좌우&nbsp;&nbsp;동아사이언스아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;경기일보임신 중 비타민D 부족하면…\"출생 후 아이 면역 저하·알레르기 취약\"&nbsp;&nbsp;v.daum.net성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레",
+      "id": "72153b93266c",
+      "title": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도 - 메디칼업저버",
+      "published": "2026-04-06T04:42:47+00:00",
+      "summary": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도&nbsp;&nbsp;메디칼업저버이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고&nbsp;&nbsp;메디포뉴스한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최&nbsp;&nbsp;병원신문한국지질·동맥경화학회, 춘계학술대회 SoLA 2026 개최 (4/3~4)&nbsp;&nbsp;메디포뉴스",
       "sources": [
         {
-          "name": "세이프타임즈",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWUNvOUoxTVhRWWEzVVVhUFE4ZGJ1RWxVdzZ2ZmtXeE40Zi00ZlItVW5yWktpRFZRcGttNFlPeDYzRjhKQnFfRVhsS3Y2ZUdILVd2THVfbkdwSkFqZWw5cF82WlEtNzE4QXM4ZEg3UdIBc0FVX3lxTFBYOXZmOHNGUFRGbTNoM2xMeWVEc1Z0Q3JFMGE1ekpVb3o2M1R1dDFhN08xQm0yNlNjLTJwMGM0R1UwclNkdHFDamdFX1pLVHYwanE3X2tvbVpFcmpIdFNTTEJJejdOc2VBRmVFZFNEMmJYbWs?oc=5"
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aNW02LTdCN2pnWnBhOEdUZUhTc2cwaGU2emFldnpYN3U1TG9WZjlxZUpRUFJjWU5LWnZxU0p6VEZmRlNSOVVsREd6ZDhyU3ZESlpiNGhTcXBOb1RxVkVMVUJlZTc4TmZ2TzhJ?oc=5"
         }
       ]
     },
@@ -246,18 +306,6 @@
       ]
     },
     {
-      "id": "32f75ce8196c",
-      "title": "보건부, 홍역 환자 93% 감소 발표… 의료진 보호 강화 및 지속적 경계 촉구 - 한인포스트",
-      "published": "2026-04-06T02:45:35+00:00",
-      "summary": "보건부, 홍역 환자 93% 감소 발표… 의료진 보호 강화 및 지속적 경계 촉구&nbsp;&nbsp;한인포스트",
-      "sources": [
-        {
-          "name": "한인포스트",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FV3psUkRscFB0ZFJHajVGUUE5Z2RCbUQ4OHpZU2ZxYjRYNEZrQlRSNFBiLTIxOTVBV2sxR3F1NnlxblpvUHkza2Q4c25HQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "95e1c3c72ca8",
       "title": "\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요 - 보건신문",
       "published": "2026-04-06T01:39:25+00:00",
@@ -266,18 +314,6 @@
         {
           "name": "보건신문",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FZUpzMXMzU2J4VE1pOGFUeVdldE5XODg4QnFocUo0emplY0VydE9UZi1JUHA1RWZ4U2ktaTMwY0FQQk1vWWZyWWpsRTFiRHFndnJoSGx1M2N1dXBkeS1RSEVZSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04e0887ac353",
-      "title": "이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고 - 메디포뉴스",
-      "published": "2026-04-06T01:21:01+00:00",
-      "summary": "이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고&nbsp;&nbsp;메디포뉴스인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도&nbsp;&nbsp;메디칼업저버한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최&nbsp;&nbsp;병원신문한국지질·동맥경화학회, 춘계학술대회 SoLA 2026 개최 (4/3~4)&nbsp;&nbsp;메디포뉴스",
-      "sources": [
-        {
-          "name": "메디포뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xaDNJbE51Z2JRc1FsbElqTjNBN1NXRm14RV94dVR2d3ZDR0J3amEzU29fOGtVR1FtdU5aY2hVYkxsSGdfNDlMWmZnUmJUX0dGa0dEYnpUTGF5SF9TcmRNb1lOU1E?oc=5"
         }
       ]
     },
@@ -306,13 +342,13 @@
       ]
     },
     {
-      "id": "1c0a72e7c3ce",
-      "title": "매일 달걀 1.5개 먹었더니…체중 감량부터 골밀도 증가까지 [FOOD+] - 세계일보",
+      "id": "7444d4cfbc4b",
+      "title": "매일 달걀 1.5개 먹었더니…체중 감량부터 골밀도 증가까지 [FOOD+] - segye.com",
       "published": "2026-04-05T23:52:47+00:00",
-      "summary": "매일 달걀 1.5개 먹었더니…체중 감량부터 골밀도 증가까지 [FOOD+]&nbsp;&nbsp;세계일보'완전식품' 달걀의 힘…2주 섭취로 골다공증 예방 효과 확인&nbsp;&nbsp;뉴시스“한 가지 꼽으라면 단연 ‘이것’”… 심장 보는 의사, 매일 아침 먹는 음식은?&nbsp;&nbsp;health.chosun.com\"매일 아침 '이 음식' 드셔보세요\"... 건강과 영양까지 한 번에 챙길 수 있습니다&nbsp;&nbsp;아던트뉴스“달걀, 이렇게 먹어야 ‘비타민D’ 제대로 흡수”&nbsp;&nbsp;biz.heraldcorp.com",
+      "summary": "매일 달걀 1.5개 먹었더니…체중 감량부터 골밀도 증가까지 [FOOD+]&nbsp;&nbsp;segye.com'완전식품' 달걀의 힘…2주 섭취로 골다공증 예방 효과 확인&nbsp;&nbsp;newsis.com“한 가지 꼽으라면 단연 ‘이것’”… 심장 보는 의사, 매일 아침 먹는 음식은?&nbsp;&nbsp;헬스조선\"매일 아침 '이 음식' 드셔보세요\"... 건강과 영양까지 한 번에 챙길 수 있습니다&nbsp;&nbsp;아던트뉴스“달걀, 이렇게 먹어야 ‘비타민D’ 제대로 흡수”&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
-          "name": "세계일보",
+          "name": "segye.com",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dFBOVlctUHAta0pkS2NqWEZLRkpJZklLUGpJbkhmOENEY0FCYnNJbkdwUXlvWkFwY1hwSHNBNjJkNC1FSG9BUVpkZ05pQ0xwUDdzUXBfZWjSAVRBVV95cUxNQ2VOYUxfbEZoeDFGXzdMWnNDWnBBMFBxSlhTNjNFZDlpdlFYalVwTzJlcWZwM2pqMXN1aVd2ejNQWFFuM0hTcFFrUW1UTk9yRFdyM0s?oc=5"
         }
       ]
@@ -321,7 +357,7 @@
       "id": "9a8fd461850f",
       "title": "[캘리] 여기가 어디?...공간 인지 능력 떨어지면 치매 위험 - 현대건강신문",
       "published": "2026-04-05T23:41:00+00:00",
-      "summary": "[캘리] 여기가 어디?...공간 인지 능력 떨어지면 치매 위험&nbsp;&nbsp;현대건강신문좋은병원들, ‘세계 파킨슨병의 날’ 맞아 건강 캠페인&nbsp;&nbsp;v.daum.net[기고] 재활도 돌봄도 없는 15만 파킨슨병 환자들… 국가 차원의 통합 지원체계 구축해야&nbsp;&nbsp;조선일보무심코 넘긴 변비·심한 잠버릇… 질병 시작 신호일 수도&nbsp;&nbsp;busan.com[김태열의 생생건강S펜] “수면중 거친행동·후각저하·변비가 갑자기 심해진다면?”&nbsp;&nbsp;biz.heraldcorp.com",
+      "summary": "[캘리] 여기가 어디?...공간 인지 능력 떨어지면 치매 위험&nbsp;&nbsp;현대건강신문후각 저하·변비 왔을 때 빨리 병원 찾아라… 파킨슨병 신호&nbsp;&nbsp;헬스조선좋은병원들, ‘세계 파킨슨병의 날’ 맞아 건강 캠페인&nbsp;&nbsp;v.daum.net무심코 넘긴 변비·심한 잠버릇… 질병 시작 신호일 수도&nbsp;&nbsp;부산일보충남대병원, 2026 파킨슨병의 날 심포지엄 열어&nbsp;&nbsp;newsis.com",
       "sources": [
         {
           "name": "현대건강신문",
@@ -362,30 +398,6 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE15Tm4tMTdDWkxMamE2Mi1VcVVuYW5wYmFtYkN2RlpnU25KUXVXaDE5R2hvX0I5Q0ZUQXY0djVEVW9pRTl2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "857f5f4e5841",
-      "title": "재발·전이 늘어나는 암, ‘재진단암 특약’ 꼼꼼히 따져야 - 한국보험신문",
-      "published": "2026-04-05T15:00:00+00:00",
-      "summary": "재발·전이 늘어나는 암, ‘재진단암 특약’ 꼼꼼히 따져야&nbsp;&nbsp;한국보험신문",
-      "sources": [
-        {
-          "name": "한국보험신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43azQ4Y1JSeEVGenpBclRrVHB2VlNHV2tRMUg2YUZpUG82VFBJSW9YelFnLVFMOG9oangwSnlhZmFKZXBmdFJaSkhhc3pfVmJ2ZFVXQ0R2RXdNNkF4WnhLSkFTUTQ5UDBxNEtv0gFvQVVfeXFMUGVoM3hVR2FoQ2FvTVZTUTAxODlIdHg0Mlh2YU1yallMTFRURXQ0ZTZTdG0zRThqWXJyVV9VaEZxNW5TX0stZ3B5NWRHQVBxOUFfbXByR3NNVUJtLUkwcm5ObjBxQWxfY2pJNWxnT29J?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "751757cf5d54",
-      "title": "고혈압이 부부관계에 미칠 영향 - health.chosun.com",
-      "published": "2026-04-05T14:01:00+00:00",
-      "summary": "고혈압이 부부관계에 미칠 영향&nbsp;&nbsp;health.chosun.com",
-      "sources": [
-        {
-          "name": "health.chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XU25kbmxIQU5sa0dDQzN4eUR6ejVmbXdEaWNnVnA3SzAtbWVVajNjSG1oeWtfWHFsdWRUN1VBTDVicllQbVVjZXhDWVZEaEg5MmxkSzhKcnJrX3c2cmNQYlVVejJVSnZ2R0k3b0ljRldySXAzR3c?oc=5"
         }
       ]
     },
