@@ -1,15 +1,87 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-06T19:06:38.827294+00:00",
-  "total_fetched": 66,
-  "unique_count": 66,
-  "health_related_count": 39,
+  "fetched_at": "2026-04-07T02:43:50.041915+00:00",
+  "total_fetched": 63,
+  "unique_count": 63,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "f9846ad87b11",
+      "title": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\" - 보건신문",
+      "published": "2026-04-07T01:59:45+00:00",
+      "summary": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\"&nbsp;&nbsp;보건신문\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선한달에 한번 찾아오는 불청객? 알고보니 치매 방패[헬시타임]&nbsp;&nbsp;서울경제",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1SllXV1BSc20tenJReEpjQVdPNlBBenVYanpwN0N6bWhiMFNhSVhEM2xjUlpMcFRESWVWVUV1TEV4WHFFRTcwUDZ6Q1BMZkU2dDM4Smk0RndrVEgzeU5ULWtRQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17de50a47c70",
+      "title": "[임채경의 약식동원]#27 \"신이 내린 황금빛 슈퍼푸드, 강황!\" - 이로운뉴스",
+      "published": "2026-04-06T23:25:02+00:00",
+      "summary": "[임채경의 약식동원]#27 \"신이 내린 황금빛 슈퍼푸드, 강황!\"&nbsp;&nbsp;이로운뉴스카레 먹으면 공포 기억이 약해진다고? [식탐]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "이로운뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYZUFEWnhuRUtFNk1ndHphTlppajJoSVVZLW1PeDdLMUppZzRLcUNfRnhlUXgtVzUyNFUtUkFSbDdDWkVHX3NXcVZTZlNGcG8xSk9tT1VLRUJfdU4zNXBXZlhGT3QtRzQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb9515865c92",
+      "title": "무심코 넘긴 변비·심한 잠버릇… 질병 시작 신호일 수도 - v.daum.net",
+      "published": "2026-04-06T22:00:10+00:00",
+      "summary": "무심코 넘긴 변비·심한 잠버릇… 질병 시작 신호일 수도&nbsp;&nbsp;v.daum.net[기고] 재활도 돌봄도 없는 15만 파킨슨병 환자들… 국가 차원의 통합 지원체계 구축해야&nbsp;&nbsp;조선일보[김태열의 생생건강S펜] “수면중 거친행동·후각저하·변비가 갑자기 심해진다면?”&nbsp;&nbsp;헤럴드경제[캘리] 여기가 어디?...공간 인지 능력 떨어지면 치매 위험&nbsp;&nbsp;현대건강신문[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTmRxYlMxVGtXaFAyRmgwd1dIal9Ub2VPcWZ0MWNTVTNzYkpBQ2xRV2FrU3pna1hjYlFUYWNscWd3WGtzSUx6T0Z1NTlTc1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5929e60c2655",
+      "title": "“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다 - 전자신문",
+      "published": "2026-04-06T21:00:00+00:00",
+      "summary": "“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zVXdQUkswY1NHcmplTkJhMGUwZGQyU05nT2ktMXE4eGlwNHZLOVdpb0NTdWw4QWdrdldhVVhXZGJlUUVrOFNycmtFWHZTdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99e67f71acf1",
+      "title": "“아침 행동이 하루 혈압 좌우”… 일어나서 ‘이것’ 먹는 게 도움 - 헬스조선",
+      "published": "2026-04-06T20:40:00+00:00",
+      "summary": "“아침 행동이 하루 혈압 좌우”… 일어나서 ‘이것’ 먹는 게 도움&nbsp;&nbsp;헬스조선“한국인 소울푸드가 암 위험 높인다”… 전문가가 꼽은 음식은?&nbsp;&nbsp;헬스조선국물만 안 마시면 될까…혈압 올리는 숨은 음식들&nbsp;&nbsp;한국투데이【건강백세】 고염식 식습관, 몸 구석구석 적신호&nbsp;&nbsp;시사뉴스“아이들도 좋아하는데”… 의사가 경고한 ‘발암 음식’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91d1NJaE5WcmJJemZmQWJuYzNaY0R2eGxKWnBEOExYX3owSXhCT0RIMU9FbDh3ZjdmVVY0NTZBQXQ5eUpfY1hseW1vZFg5VEg1cXVLTUI2NnhDZ3B5MklKemZMR0ZDeGhjclRXU0tRN1VZTUdxQnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2944962d80b",
+      "title": "자폐와 알츠하이머, 같은 유전자 148개 공유…\"두 질환은 연결돼 있다\" - 시애틀코리안데일리",
+      "published": "2026-04-06T19:27:38+00:00",
+      "summary": "자폐와 알츠하이머, 같은 유전자 148개 공유…\"두 질환은 연결돼 있다\"&nbsp;&nbsp;시애틀코리안데일리",
+      "sources": [
+        {
+          "name": "시애틀코리안데일리",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCa2p4ckhMMFRJUHV5U3U3enhHVVlia21UejE0Rzh2N3hxeGdKRFpYYmdrcTJTSDhDN2k2SXNvY25YMEdRdlJqYjN5QUNuMi14cmhpRTdsNWowN0pxZVIydFZZbk5TNjJkVExiZTBQc3I?oc=5"
+        }
+      ]
+    },
     {
       "id": "ceb36b996aad",
       "title": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까? - 헬스조선",
       "published": "2026-04-06T16:00:00+00:00",
-      "summary": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까?&nbsp;&nbsp;헬스조선심장 건강, 채소에게 맡겨봐…전문가가 꼽은 ‘심장에 좋은 채소 5가지’&nbsp;&nbsp;레이디경향\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스美 정부는 OK, 심장협회는 '줄여라'…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;네이트“맛있는데 심장에도 좋다고?”...매일 먹으면 좋은 ‘이 조합’…심장 지킨다&nbsp;&nbsp;뉴스와",
+      "summary": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까?&nbsp;&nbsp;헬스조선심장 건강, 채소에게 맡겨봐…전문가가 꼽은 ‘심장에 좋은 채소 5가지’&nbsp;&nbsp;레이디경향\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스美 정부는 OK, 심장협회는 '줄여라'…붉은 고기 논쟁[건강팩트체크]&nbsp;&nbsp;네이트쌀밥에 콩만 섞어도 충분…심혈관 건강 지키는 식사 루틴 [FOOD+]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "헬스조선",
@@ -30,25 +102,13 @@
       ]
     },
     {
-      "id": "fa68d8e5b920",
-      "title": "생체시계, 뇌 노화 및 알츠하이머병과 연관 - 병원신문",
-      "published": "2026-04-06T09:42:50+00:00",
-      "summary": "생체시계, 뇌 노화 및 알츠하이머병과 연관&nbsp;&nbsp;병원신문세포 속 ‘생체시계’ 뇌 노화·알츠하이머병 연관 변화 뚜렷&nbsp;&nbsp;의학신문아주대병원 연구팀, 피부세포 생체시계와 뇌 노화·알츠하이머 연관성 분석&nbsp;&nbsp;로이슈피부 세포 시계로 알츠하이머병 예측… 생체 리듬·뇌 노화 연관성 규명&nbsp;&nbsp;하이닥﻿세포 생체시계 불안정하면 ‘뇌 노화·치매’ 밀접&nbsp;&nbsp;데일리메디",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iV3NBdFkxMk5WRnBNbjU3UF9BYUpDTVM5RXktWmh3MWlkdmdPUWR0cm1jY00yc3lHYm9vaXAwVUZUSExOUWpzdzQ3VFNwZUFzNnZ2Y3RRZlBnZW9weG9waXNOdF9qWVBQRGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "141c4806c41c",
-      "title": "임신 중 비타민D 부족, 자녀 다중 알레르기 부른다 - pharmnews.com",
+      "id": "e360f8a674f1",
+      "title": "임신 중 비타민D 부족, 자녀 다중 알레르기 부른다 - 팜뉴스",
       "published": "2026-04-06T08:45:33+00:00",
-      "summary": "임신 중 비타민D 부족, 자녀 다중 알레르기 부른다&nbsp;&nbsp;pharmnews.com아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;경기일보임신 중 비타민D 부족하면…\"출생 후 아이 면역 저하·알레르기 취약\"&nbsp;&nbsp;v.daum.net\"임신부 비타민D 부족, 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스TV성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레",
+      "summary": "임신 중 비타민D 부족, 자녀 다중 알레르기 부른다&nbsp;&nbsp;팜뉴스아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;경기일보임신 중 비타민D 부족하면…\"출생 후 아이 면역 저하·알레르기 취약\"&nbsp;&nbsp;v.daum.net\"임신부 비타민D 부족, 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스TV성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;hani.co.kr",
       "sources": [
         {
-          "name": "pharmnews.com",
+          "name": "팜뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CX1VhNkZESlJfUEtRQ3c1WU1SZ0tIcGpxaFRWUUdOUk90LXJtQ3RHN0kwd2E1OEJvSEN3a1ZRdzdLSlFRaVRWNjZhaGlFbzVfYjVoUlEtdmhHZ0N4dU50cWJIYVBFdFdfZHRMNw?oc=5"
         }
       ]
@@ -62,18 +122,6 @@
         {
           "name": "아이티데일리",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41S1RnS05NN013bXJ6RkNmbkNMeXhrUktnYlAyYlJNZFNzY09OSFJQdWNra2l2cHRXaXBGbkdwcFV5ZE14S3VLNHZfSkduM3I2ZFhEazJZNGZFcUpENFI5WGQ5ZG9LMGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "72c07667be6b",
-      "title": "2형 당뇨 여성, 초경~폐경기간 길수록 치매 위험 감소 - 데일리메디",
-      "published": "2026-04-06T07:31:56+00:00",
-      "summary": "2형 당뇨 여성, 초경~폐경기간 길수록 치매 위험 감소&nbsp;&nbsp;데일리메디\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선한달에 한번 찾아오는 불청객? 알고보니 치매 방패[헬시타임]&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "데일리메디",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCX3cxZ05uVlJLaS1LbHlMOHRkbC13RElOSzRfb1ByMW5DLVVEcVpXYjZhNG9WS01qZXV5RW93Ti1wbEt4T3lyUmpLWjhoeDN0NWRVRDA5SXpxYnd2U3JTcjg1bFRkRElf?oc=5"
         }
       ]
     },
@@ -105,7 +153,7 @@
       "id": "63fd403052d8",
       "title": "유성선병원, 치매 진단 ‘수치화’… AI 기반 정밀 분석 도입 - 충청탑뉴스",
       "published": "2026-04-06T05:29:51+00:00",
-      "summary": "유성선병원, 치매 진단 ‘수치화’… AI 기반 정밀 분석 도입&nbsp;&nbsp;충청탑뉴스치매라더니 오진?…'이 검사'로 헷갈리는 병 구분할 수 있다&nbsp;&nbsp;네이트손아름 (울산대학교 의과학대학원) | 한빛사 인터뷰 > 한빛사&nbsp;&nbsp;BRIC유성선병원, AI 기반 정밀 분석 도입으로 치매 진단 '수치화' - 보도자료 | 기사&nbsp;&nbsp;news.tf.co.kr뉴로엑스티, '서울혁신챌린지' R&amp;D 성과로 알츠하이머 고위험군 선별 인공지능 고도화… 공공보건 확장 기대 [서울형 R&amp;D:혁신의 심장]&nbsp;&nbsp;v.daum.net",
+      "summary": "유성선병원, 치매 진단 ‘수치화’… AI 기반 정밀 분석 도입&nbsp;&nbsp;충청탑뉴스유성선병원, AI 기반 치매 진단 솔루션 도입&nbsp;&nbsp;v.daum.net치매라더니 오진?…'이 검사'로 헷갈리는 병 구분할 수 있다&nbsp;&nbsp;네이트수십만원이면 알츠하이머 혈액 검사…과잉 검사 우려도 커져&nbsp;&nbsp;동아사이언스“간편한 혈액검사로 알츠하이머병 위험도 조기 체크”&nbsp;&nbsp;헬스경향",
       "sources": [
         {
           "name": "충청탑뉴스",
@@ -129,7 +177,7 @@
       "id": "ab1fac4835ed",
       "title": "예산군, 2026년 ‘지역거점 뎅기열 예방관리’ 국고보조사업 선정 - 뉴스밴드",
       "published": "2026-04-06T05:15:16+00:00",
-      "summary": "예산군, 2026년 ‘지역거점 뎅기열 예방관리’ 국고보조사업 선정&nbsp;&nbsp;뉴스밴드예산군, 질병청 ‘뎅기열 예방관리’ 거점 선정&nbsp;&nbsp;뉴스티앤티‘감염병 대응·통합돌봄 강화’ …건강 안전망 ‘촘촘히 구축’&nbsp;&nbsp;공뉴스뎅기열 유행 시기를 앞두고 응에안성에서 뎅기열 감시를 강화합니다.&nbsp;&nbsp;Vietnam.vn예산군, 온마을 통합돌봄 식사지원 서비스 시행&nbsp;&nbsp;전국매일신문",
+      "summary": "예산군, 2026년 ‘지역거점 뎅기열 예방관리’ 국고보조사업 선정&nbsp;&nbsp;뉴스밴드뎅기열 유행 시기를 앞두고 응에안성에서 뎅기열 감시를 강화합니다.&nbsp;&nbsp;Vietnam.vn‘감염병 대응·통합돌봄 강화’ …건강 안전망 ‘촘촘히 구축’&nbsp;&nbsp;공뉴스예산군보건소, 뎅기열 무료 확진 검사 실시&nbsp;&nbsp;대전일보대구 북구보건소, 대구가톨릭대학교 칠곡가톨릭병원 ‘지역거점 뎅기열 협력 의료기관’ 지정&nbsp;&nbsp;시사일보",
       "sources": [
         {
           "name": "뉴스밴드",
@@ -138,10 +186,22 @@
       ]
     },
     {
+      "id": "9541fbf88b9b",
+      "title": "'24시간 생체시계' 흔들리면 뇌도 늙는다 - 의협신문",
+      "published": "2026-04-06T05:06:18+00:00",
+      "summary": "'24시간 생체시계' 흔들리면 뇌도 늙는다&nbsp;&nbsp;의협신문세포 속 ‘생체시계’ 뇌 노화·알츠하이머병 연관 변화 뚜렷&nbsp;&nbsp;의학신문아주대병원 연구팀, 피부세포 생체시계와 뇌 노화·알츠하이머 연관성 분석&nbsp;&nbsp;로이슈피부 세포 시계로 알츠하이머병 예측… 생체 리듬·뇌 노화 연관성 규명&nbsp;&nbsp;하이닥﻿세포 생체시계 불안정하면 ‘뇌 노화·치매’ 밀접&nbsp;&nbsp;데일리메디",
+      "sources": [
+        {
+          "name": "의협신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FNU9TUmpWb09VUmF0bWJjQVd3LURKMXFBSldUX0Q5eHZMREw3bkJxSXcwYjhYb0VldFJTZ1g4T21YdExQTTNhMHBYa3RfTC1GOGRDWk9BdkRER0xINzdGV21idk1QbUlIZlFPRnhjdTFDUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "72153b93266c",
       "title": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도 - 메디칼업저버",
       "published": "2026-04-06T04:42:47+00:00",
-      "summary": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도&nbsp;&nbsp;메디칼업저버이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고&nbsp;&nbsp;메디포뉴스한국지질·동맥경화학회, 3-4일 춘계학술대회 SoLA 2026 개최&nbsp;&nbsp;재활뉴스한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최&nbsp;&nbsp;병원신문한국지질·동맥경화학회, 춘계학술대회 SoLA 2026 개최 (4/3~4)&nbsp;&nbsp;메디포뉴스",
+      "summary": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도&nbsp;&nbsp;메디칼업저버이상지질혈증 치료전략 전환된다…비스타틴 중심 확장 예고&nbsp;&nbsp;메디포뉴스한국지질·동맥경화학회, 춘계학술대회 ‘SoLA 2026’ 개최&nbsp;&nbsp;병원신문한국지질·동맥경화학회, 춘계학술대회 SoLA 2026 개최 (4/3~4)&nbsp;&nbsp;메디포뉴스",
       "sources": [
         {
           "name": "메디칼업저버",
@@ -162,18 +222,6 @@
       ]
     },
     {
-      "id": "83c97a248ae3",
-      "title": "'진짜 수명'은 이미 정해져 있다? 100년만에 뒤집힌 연구[이런일이] - nocutnews.co.kr",
-      "published": "2026-04-06T04:23:00+00:00",
-      "summary": "'진짜 수명'은 이미 정해져 있다? 100년만에 뒤집힌 연구[이런일이]&nbsp;&nbsp;nocutnews.co.kr",
-      "sources": [
-        {
-          "name": "nocutnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3YmZEZEVoSEozbzBRbDRoWlJmZURKMW90bzhxZ2cyTHlYOHBQTHVhNHcxRy1uN05RajFSRldzYTU3MDJUUk5Hd1IwNmJ2NmdabHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "99514d74f46d",
       "title": "건강은 선택에서 갈린다…같은 병인데 결과가 달라지는 이유 - 코메디닷컴",
       "published": "2026-04-06T03:05:00+00:00",
@@ -182,30 +230,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZbTVTZmNSZ0hYeTR1NmdYbHpWRVBZYXRiM3ctTE9NemZpbkZZVW9WTUZOcG1YX1Bxa09Ld3VZRmNMZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fdb92699c3bc",
-      "title": "[전문의 칼럼] 크론병, 음식이 원인이고 음식이 치료다 - 에너지경제신문",
-      "published": "2026-04-06T02:53:07+00:00",
-      "summary": "[전문의 칼럼] 크론병, 음식이 원인이고 음식이 치료다&nbsp;&nbsp;에너지경제신문",
-      "sources": [
-        {
-          "name": "에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BU0RlcFVsQ0RNMEg2SFpUYzk4Z1c2OUhrbWJVaXNTdEl3NE1PQ2ptSk43eDRSOHFtWVlLdWd3MjJnTXpBSUFQYkF1QTQzU3VyR3JzazhKU2hNbExYcmNISjhVMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b05e0cf6077c",
-      "title": "【건강백세】 고염식 식습관, 몸 구석구석 적신호 - 시사뉴스",
-      "published": "2026-04-06T02:46:32+00:00",
-      "summary": "【건강백세】 고염식 식습관, 몸 구석구석 적신호&nbsp;&nbsp;시사뉴스“아이들도 좋아하는데”… 의사가 경고한 ‘발암 음식’&nbsp;&nbsp;헬스조선“대장암 위험 높인다?” 10명 중 4명 몰랐다&nbsp;&nbsp;레이디경향한국인 나트륨 섭취량, WHO 권고치 1.6배 넘어&nbsp;&nbsp;브런치“밥상에 올린 ‘이 음식’, 암세포 유발”… 의사 경고, 대체 뭐야?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "시사뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QSkhhYUc4QTFSYmhYWmN5dVhOdEpJS0lyMHdWTXRfS25PMDhTdThUeFc4bWltdi1XdjdIY1RwLUJ3U2tsSU4wQUgybTd2TmV3RjR0N2YxTlUwSWdZeEFPWEMybw?oc=5"
         }
       ]
     },
@@ -225,7 +249,7 @@
       "id": "95e1c3c72ca8",
       "title": "\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요 - 보건신문",
       "published": "2026-04-06T01:39:25+00:00",
-      "summary": "\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;보건신문",
+      "summary": "\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;보건신문\"통증 사라져도 위험은 그대로\"…'이 증상' 있으면 곧장 병원으로&nbsp;&nbsp;아시아경제‘이·웃·손·발·시선’ 뇌졸중 신호 기억하자 [김태정의 진료실은 오늘도 맑음]&nbsp;&nbsp;v.daum.net뇌졸중이 상당히 진행된 후에 병원에 입원하는 환자들의 생명을 구하는 것.&nbsp;&nbsp;Vietnam.vn눈에 불빛 번쩍, 이상한 냄새… 노인 뇌전증 신호 그냥 넘기지 마세요[이진형의 뇌, 우리 속의 우주]&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "보건신문",
@@ -258,14 +282,14 @@
       ]
     },
     {
-      "id": "248d81445905",
-      "title": "[칼럼] 대장암은 나이 들면 생기는 병? 젊은 대장암 증가세 심상치 않다 - 코리아헬스로그",
-      "published": "2026-04-05T23:41:58+00:00",
-      "summary": "[칼럼] 대장암은 나이 들면 생기는 병? 젊은 대장암 증가세 심상치 않다&nbsp;&nbsp;코리아헬스로그갑자기 ‘이 증상’ 나타났다면, 대장암 의심&nbsp;&nbsp;헬스조선[이정범의 응급의학 가이드] 배변 습관 변화, 직장암은 ‘신호’를 보낸다&nbsp;&nbsp;한국보험신문“인스턴트 먹다 19살에 고혈압” 의사 놀란 요즘 젊은층 건강 상태&nbsp;&nbsp;헤럴드경제매일 햄 한 장이 문제였다…대장암 위험 18% 높인 ‘식단 구조’&nbsp;&nbsp;세계일보",
+      "id": "1c0a72e7c3ce",
+      "title": "매일 달걀 1.5개 먹었더니…체중 감량부터 골밀도 증가까지 [FOOD+] - 세계일보",
+      "published": "2026-04-05T23:52:47+00:00",
+      "summary": "매일 달걀 1.5개 먹었더니…체중 감량부터 골밀도 증가까지 [FOOD+]&nbsp;&nbsp;세계일보'완전식품' 달걀의 힘…2주 섭취로 골다공증 예방 효과 확인&nbsp;&nbsp;뉴시스“한 가지 꼽으라면 단연 ‘이것’”… 심장 보는 의사, 매일 아침 먹는 음식은?&nbsp;&nbsp;헬스조선\"매일 아침 '이 음식' 드셔보세요\"... 건강과 영양까지 한 번에 챙길 수 있습니다&nbsp;&nbsp;아던트뉴스“달걀, 이렇게 먹어야 ‘비타민D’ 제대로 흡수”&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11MWU0LUZTcGdDeXR5TURRV2I0Q1N4d0xZRUNTbEgwZC12enhOYVdULXhGcVJ2Vlc5TXE3dmlhcV9fR28yb0FKNUxudjJzR3lkNWd1VVJQcEk5YU5hWGxWWVYwRmY2cXRmeTdSQnlyNlRLd9IBdkFVX3lxTE51ZXJ6UTRHMUZack9ZTzhOaGNBaXUwbnRuWnp4THV0RFBJMGJXMTNYaVI0cjFsWmxPSG9aVk9BeHZuU095UlNQZFh5Smh1d2Q4NVQxbXMzVm5SbWduRG9qTlNIRld3Ymw2dTFGMkhNQmJCR2lCVXc?oc=5"
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03dFBOVlctUHAta0pkS2NqWEZLRkpJZklLUGpJbkhmOENEY0FCYnNJbkdwUXlvWkFwY1hwSHNBNjJkNC1FSG9BUVpkZ05pQ0xwUDdzUXBfZWjSAVRBVV95cUxNQ2VOYUxfbEZoeDFGXzdMWnNDWnBBMFBxSlhTNjNFZDlpdlFYalVwTzJlcWZwM2pqMXN1aVd2ejNQWFFuM0hTcFFrUW1UTk9yRFdyM0s?oc=5"
         }
       ]
     },
@@ -278,18 +302,6 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ja3JNclJYaDNDQzRUZk1FSlk2aWZDRGRMMnNUaFFYaV9fNVpaUG1IVXg4YUNYaXFrSzk4aFhtRUhlSUlUSWh3SkJ2YUhGbHpHQ1BLX09n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be93efd0fa24",
-      "title": "수소·실리카 생산 신공정 개발…\"기존 대비 수천배 저렴\" - 지디넷코리아",
-      "published": "2026-04-05T23:00:03+00:00",
-      "summary": "수소·실리카 생산 신공정 개발…\"기존 대비 수천배 저렴\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lcEFBbHdzbzNXMmRSTnRsbTJjUlNBSk1UZE95WjJ6S3JmcGpMY2dKTV9ONE0xOXJQVF9OZXhUVnJlRWIxYk5LQnlfRzNGa1drRS0zdzJ3?oc=5"
         }
       ]
     },
@@ -318,18 +330,6 @@
       ]
     },
     {
-      "id": "053ef6f2cb18",
-      "title": "'완전식품' 달걀의 힘…2주 섭취로 골다공증 예방 효과 확인 - 네이트",
-      "published": "2026-04-05T15:17:00+00:00",
-      "summary": "'완전식품' 달걀의 힘…2주 섭취로 골다공증 예방 효과 확인&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mMjlORXVyUkxJYkQzN0lHd0ZsNGtUVGJVaTlUTHhqNkJDSWNSWEJUNG5YRXJkdDlQU0ZILTR1R2xsY0V5RFdBOUoyamF2bkZIOEQw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "857f5f4e5841",
       "title": "재발·전이 늘어나는 암, ‘재진단암 특약’ 꼼꼼히 따져야 - 한국보험신문",
       "published": "2026-04-05T15:00:00+00:00",
@@ -345,7 +345,7 @@
       "id": "d4f95f74a85e",
       "title": "고혈압이 부부관계에 미칠 영향 - 헬스조선",
       "published": "2026-04-05T14:01:00+00:00",
-      "summary": "고혈압이 부부관계에 미칠 영향&nbsp;&nbsp;헬스조선예지원 “하스카프베리, 혈관 노폐물 청소해준다” (이토록 위대한 몸)&nbsp;&nbsp;bntnews.co.kr혈압약 평생 먹어도 끊지 못하는 진짜 이유&nbsp;&nbsp;브런치“혈압 정상이라 안심했는데”… 수치보다 중요한 건 ‘혈관 손상’ 여부&nbsp;&nbsp;하이닥따뜻해지는 봄철, 고혈압 환자는 어떤 점 주의해야 할까&nbsp;&nbsp;이뉴스코리아",
+      "summary": "고혈압이 부부관계에 미칠 영향&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -378,30 +378,6 @@
       ]
     },
     {
-      "id": "d3dc8ed41c1b",
-      "title": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다 - 매경헬스",
-      "published": "2026-04-05T07:00:00+00:00",
-      "summary": "[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다&nbsp;&nbsp;매경헬스[기고] 재활도 돌봄도 없는 15만 파킨슨병 환자들… 국가 차원의 통합 지원체계 구축해야&nbsp;&nbsp;조선일보[KMDS와 함께 하는 파킨슨병 바로 알기] 파킨슨병이 치매보다 소외되는 이유&nbsp;&nbsp;헬스경향무심코 넘긴 변비·잠꼬대, ‘파킨슨병 초기 경고’일 수도 [건강한겨레]&nbsp;&nbsp;한겨레파킨슨병, 미국서 가장 빠르게 증가하는 신경퇴행성 질환…6분마다 1명 진단&nbsp;&nbsp;seattlekdaily.com",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94b21ZYTYyYmdtR3JiODBvNDhFNmNZN2I0VnhEamJ0eVRheXZHVFNoS3I5RzdtSTc1WG9zMXRleEhOTXR1ZXR4b3pVQ2g3azg4Mm9XSDY2YklqU3c0QkpWZUF1bERpV3Jqd1c0VQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "398c796b72d7",
-      "title": "\"편두통인가?\" 넘기면 뇌졸중 온다…'이 증상' 있으면 곧장 병원으로 - 아시아경제",
-      "published": "2026-04-05T04:20:25+00:00",
-      "summary": "\"편두통인가?\" 넘기면 뇌졸중 온다…'이 증상' 있으면 곧장 병원으로&nbsp;&nbsp;아시아경제‘이·웃·손·발·시선’ 뇌졸중 신호 기억하자 [김태정의 진료실은 오늘도 맑음]&nbsp;&nbsp;v.daum.net\"통증 사라져도 위험은 그대로\"…'이 증상' 있으면 곧장 병원으로&nbsp;&nbsp;아시아경제“몇 분 지나면 괜찮다?”…미니 뇌졸중, 90일 안에 터진다 [바디플랜]&nbsp;&nbsp;동아일보뇌졸중이 상당히 진행된 후에 병원에 입원하는 환자들의 생명을 구하는 것.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uQ2lyUGl2VUNzUmZEak5wNVVDUnNmY1dRYW1lSWtxWnI1dFgwcndqdGNXdmstbndWSl9ZM0NoRVpsY1NlRktra1dGeExTR3A5YzVxdFZTSkV6UHVjQnBaWA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "83efdd56a5e0",
       "title": "치과 비용 부담으로 치료 미루면 심혈관질환·치매 위험 높인다 - 메디컬투데이",
       "published": "2026-04-05T03:42:17+00:00",
@@ -426,50 +402,26 @@
       ]
     },
     {
-      "id": "027712607b2c",
-      "title": "화성에 생명체 존재 흔적?…암석서 역대급 함량 니켈 발견 - v.daum.net",
-      "published": "2026-04-04T23:01:44+00:00",
-      "summary": "화성에 생명체 존재 흔적?…암석서 역대급 함량 니켈 발견&nbsp;&nbsp;v.daum.net",
+      "id": "500cf77e08d2",
+      "title": "화성에 생명체 존재 흔적?…암석서 역대급 함량 니켈 발견 - 동아사이언스",
+      "published": "2026-04-04T23:00:00+00:00",
+      "summary": "화성에 생명체 존재 흔적?…암석서 역대급 함량 니켈 발견&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NSG92QWpXM0hULWdTMjNSdDlFeEV1Z0ktVU82UUJBMmg0akxfaDQ5N1JjNXJWY3Uzb0hiX18yckdxLTE0eGN4Zzd3TTJrcEdPZVBBRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8439b0bc44d",
+      "title": "잠들기 전 스마트폰 1시간 더…심뇌혈관 사망 5만~6만명, ‘교감신경’이 문제였다 - v.daum.net",
+      "published": "2026-04-04T22:05:28+00:00",
+      "summary": "잠들기 전 스마트폰 1시간 더…심뇌혈관 사망 5만~6만명, ‘교감신경’이 문제였다&nbsp;&nbsp;v.daum.net\"심근경색, 뇌졸중 위험하다\"…방치하는 '이 습관' 당장 고쳐야&nbsp;&nbsp;네이트\"잠들기 전 이 행동, 심장 망친다\"…전문가가 경고한 4가지 습관&nbsp;&nbsp;아시아경제너무 자주 쉬는 습관이 심장 질환을 유발할 수 있습니다.&nbsp;&nbsp;VOI.id매일 하던 이 습관… 심장 망가뜨린다&nbsp;&nbsp;치의신보",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzOGR1anRnTjVQN1R2dTdybGt3dEMwRWZaX09YZ0NzUWNTUlpOd0VEZlJTRFJTdGptT0oyYjlIU3JncXlWekJJdWhzR014bjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c09e206b69fa",
-      "title": "\"술 한잔도 예전 같지 않다\"…65세 이후 음주, 같은 양도 더 위험한 이유 - seattlekdaily.com",
-      "published": "2026-04-04T21:30:48+00:00",
-      "summary": "\"술 한잔도 예전 같지 않다\"…65세 이후 음주, 같은 양도 더 위험한 이유&nbsp;&nbsp;seattlekdaily.com",
-      "sources": [
-        {
-          "name": "seattlekdaily.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40OUNXUEtlRFpzYUhreHhiQ3ljV21nRW5oOE1NUEh1UDNXdzl0YzMxMl9wMWZlSDUydU9PQXFhdlZ1SzdhRHdkZnQ4RmtnSmFaNnlueUFxWjNZZlVwLXNJQW5pcVdIRWtocHJOSGJDdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59e016ecaa7f",
-      "title": "[심부전과 살아가기] 심근경색, 세 번의 심장 수술, 그리고 기적처럼 찾아온 두 번째 삶 - 네이트",
-      "published": "2026-04-04T21:09:00+00:00",
-      "summary": "[심부전과 살아가기] 심근경색, 세 번의 심장 수술, 그리고 기적처럼 찾아온 두 번째 삶&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNzVLMXJDWVh2T2dIcmpDYXJjTUFnMC1yejJ2UG9zc1JIN0VTOWxTLVFwQWpMOF9IUVBpcDZraHBCWHcyWUVaTWVQd01JTVAxa0tJQVdySmFIb3F6MkJ3Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "130232b213ff",
-      "title": "\"충전 없이 50년\"…꿈의 배터리 개발, 어디까지 왔나 - 지디넷코리아",
-      "published": "2026-04-04T01:41:55+00:00",
-      "summary": "\"충전 없이 50년\"…꿈의 배터리 개발, 어디까지 왔나&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VSE80RGlWc0NkZ1M4cGhIUEVidDNNNkpBU1h5aUZzSjNqcTY4dEttaWhCR0ZaUGtSNXFGSS1ZTzJobEE4Sk5feF9VUjBEa2xET1VXSGx3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hdDV6N242Uk9HaEpudXduV1ZwczVueHBVczNlNmtGU0pseTYybTZTdWlOcG8tVXRubkM2ZDZTLWlnZ21jUkFxeGc5b0hWMTh0bUwxVg?oc=5"
         }
       ]
     }
