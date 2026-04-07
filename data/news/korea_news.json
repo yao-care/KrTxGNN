@@ -1,31 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-07T02:43:50.041915+00:00",
-  "total_fetched": 63,
-  "unique_count": 63,
-  "health_related_count": 35,
+  "fetched_at": "2026-04-07T07:23:36.872098+00:00",
+  "total_fetched": 68,
+  "unique_count": 68,
+  "health_related_count": 36,
   "news": [
     {
-      "id": "f9846ad87b11",
-      "title": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\" - 보건신문",
-      "published": "2026-04-07T01:59:45+00:00",
-      "summary": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\"&nbsp;&nbsp;보건신문\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선한달에 한번 찾아오는 불청객? 알고보니 치매 방패[헬시타임]&nbsp;&nbsp;서울경제",
+      "id": "e2f8a89b8761",
+      "title": "지중해식 식단, 천식 발병 위험 42% 낮춰… 대규모 연구 결과 - 하이닥",
+      "published": "2026-04-07T05:30:00+00:00",
+      "summary": "지중해식 식단, 천식 발병 위험 42% 낮춰… 대규모 연구 결과&nbsp;&nbsp;하이닥“지중해식 식단 뭐가 좋길래?”... 심장∙뇌에 좋은 단백질 수치 높여&nbsp;&nbsp;하이닥지중해식 식단이 건강에 좋은 이유&nbsp;&nbsp;브런치",
       "sources": [
         {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1SllXV1BSc20tenJReEpjQVdPNlBBenVYanpwN0N6bWhiMFNhSVhEM2xjUlpMcFRESWVWVUV1TEV4WHFFRTcwUDZ6Q1BMZkU2dDM4Smk0RndrVEgzeU5ULWtRQQ?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBObW0zUXY0NGV1N1I3VkRjbzZTck5oX005Z3Q4SDZaTG94ZmFMOWpmOWtWTTN2Y0RpTUUwb2s5dEdqNHh0M0ZtSnl4cjR2QXZZeXlBV1RDYWN4Z2ktTUlCUkFfRjY5dXA1dXc?oc=5"
         }
       ]
     },
     {
-      "id": "17de50a47c70",
-      "title": "[임채경의 약식동원]#27 \"신이 내린 황금빛 슈퍼푸드, 강황!\" - 이로운뉴스",
-      "published": "2026-04-06T23:25:02+00:00",
-      "summary": "[임채경의 약식동원]#27 \"신이 내린 황금빛 슈퍼푸드, 강황!\"&nbsp;&nbsp;이로운뉴스카레 먹으면 공포 기억이 약해진다고? [식탐]&nbsp;&nbsp;v.daum.net",
+      "id": "6cf9636d96bc",
+      "title": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과 - 하이닥",
+      "published": "2026-04-07T03:30:00+00:00",
+      "summary": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "이로운뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYZUFEWnhuRUtFNk1ndHphTlppajJoSVVZLW1PeDdLMUppZzRLcUNfRnhlUXgtVzUyNFUtUkFSbDdDWkVHX3NXcVZTZlNGcG8xSk9tT1VLRUJfdU4zNXBXZlhGT3QtRzQ?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qeGtuQU1WNDZqMmdsRVF4TVh5c29EaEIxeEdhUFFhaldhZWU4bUZhZFBpQ2pWYkVEUnR0dUZlaGZyaEkweWYzaXhBS2tTRFhhZlNwWkFTaE5ESnJSU0Q1X2I5dzMtU3Q2bkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "629b602abcf1",
+      "title": "[단독] 면역항암제 ‘난공불락’ 암종 뚫었다 … 이중 HIF 억제제의 기적 - 헬스코리아뉴스",
+      "published": "2026-04-07T03:00:03+00:00",
+      "summary": "[단독] 면역항암제 ‘난공불락’ 암종 뚫었다 … 이중 HIF 억제제의 기적&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIb3VZQ0dMV21pZHJIRThUak9Ea1ptVU1hdE44Vl9vTkxJY2IyM1RLVmprb2g4UEJIczJEa085SGRPbnEwYXlYblc1dFpYMkFUVTF2TnlrX0I4NE82TWNOUTc5N2FvWGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1b54ab60ae9",
+      "title": "보건부, 홍역 환자 93% 감소 발표… 의료진 보호 강화 및 지속적 경계 촉구 - haninpost.com",
+      "published": "2026-04-07T02:49:00+00:00",
+      "summary": "보건부, 홍역 환자 93% 감소 발표… 의료진 보호 강화 및 지속적 경계 촉구&nbsp;&nbsp;haninpost.com",
+      "sources": [
+        {
+          "name": "haninpost.com",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FV3psUkRscFB0ZFJHajVGUUE5Z2RCbUQ4OHpZU2ZxYjRYNEZrQlRSNFBiLTIxOTVBV2sxR3F1NnlxblpvUHkza2Q4c25HQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60091fdc83b3",
+      "title": "밤 10시에 ‘배달 앱’ 켰나요?…당뇨 위험 커집니다 - 매일경제",
+      "published": "2026-04-07T02:09:10+00:00",
+      "summary": "밤 10시에 ‘배달 앱’ 켰나요?…당뇨 위험 커집니다&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1NY2w0Tm9iVVFsdXp0dGNpZ0sxQkVwWUVJSXp4RWpqNXo2ZG4tam05ZW5YanplODNhMDVSbGxOQjRyZ1c3LS1OMUREMDA1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "addbe4e877e2",
+      "title": "주말 되면 치솟는 혈당, 이 습관이 문제입니다 - realfoods.co.kr",
+      "published": "2026-04-07T00:32:18+00:00",
+      "summary": "주말 되면 치솟는 혈당, 이 습관이 문제입니다&nbsp;&nbsp;realfoods.co.kr꾸준히 먹었더니 혈당 반으로 줄어⋯당뇨 환자 췌장에 좋은 '이 음식'&nbsp;&nbsp;v.daum.net컵라면에 김밥, 콜라까지?…무심코 먹은 '이 조합', 당뇨 40% 더 가까워졌다&nbsp;&nbsp;네이트“혈당만 믿다가 뒤통수”… 당장 멈춰야 할 ‘췌장 망가뜨리는 행동’&nbsp;&nbsp;헬스조선\"알고보니 설탕 덩어리\"…의사가 경고한 음식 3가지 [건강!톡]&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "realfoods.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wM24zN0EwRDRQMnNlMW1WSjlkZVJ6cElOaGJWUGJtYlZCZVZfckdEMXl5VTM2QkVDRmp3Y3o3MzBtYlI1Mm5nSHBuYmp3MnA1X3k4c0k5Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f70b3841e4f9",
+      "title": "\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\" - 사이언스타임즈",
+      "published": "2026-04-06T22:00:25+00:00",
+      "summary": "\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;사이언스타임즈Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "사이언스타임즈",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTEhkaEpWN29nWnRPV21YZE9uNC1EeGlrTnMzVW94Vks0dU1GY3FtaWRnRTgzSGhwQU1uOW95bEpuWGZFN0E0bjFKNkNDNW9uTWlIdjlia1JaaDgxZE5pdk5uTm1fOE1rdlN1bFBRS210dlVweFEtaHpNSkV5VlFtdklIV3FoNXI5T20wOUJzZw?oc=5"
         }
       ]
     },
@@ -33,23 +93,11 @@
       "id": "fb9515865c92",
       "title": "무심코 넘긴 변비·심한 잠버릇… 질병 시작 신호일 수도 - v.daum.net",
       "published": "2026-04-06T22:00:10+00:00",
-      "summary": "무심코 넘긴 변비·심한 잠버릇… 질병 시작 신호일 수도&nbsp;&nbsp;v.daum.net[기고] 재활도 돌봄도 없는 15만 파킨슨병 환자들… 국가 차원의 통합 지원체계 구축해야&nbsp;&nbsp;조선일보[김태열의 생생건강S펜] “수면중 거친행동·후각저하·변비가 갑자기 심해진다면?”&nbsp;&nbsp;헤럴드경제[캘리] 여기가 어디?...공간 인지 능력 떨어지면 치매 위험&nbsp;&nbsp;현대건강신문[스타★건강] 이소나 母 투병 중인 '파킨슨병' …조기 발견 가능성 커진다&nbsp;&nbsp;매경헬스",
+      "summary": "무심코 넘긴 변비·심한 잠버릇… 질병 시작 신호일 수도&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJTmRxYlMxVGtXaFAyRmgwd1dIal9Ub2VPcWZ0MWNTVTNzYkpBQ2xRV2FrU3pna1hjYlFUYWNscWd3WGtzSUx6T0Z1NTlTc1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5929e60c2655",
-      "title": "“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다 - 전자신문",
-      "published": "2026-04-06T21:00:00+00:00",
-      "summary": "“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zVXdQUkswY1NHcmplTkJhMGUwZGQyU05nT2ktMXE4eGlwNHZLOVdpb0NTdWw4QWdrdldhVVhXZGJlUUVrOFNycmtFWHZTdw?oc=5"
         }
       ]
     },
@@ -78,6 +126,18 @@
       ]
     },
     {
+      "id": "17de50a47c70",
+      "title": "[임채경의 약식동원]#27 \"신이 내린 황금빛 슈퍼푸드, 강황!\" - 이로운뉴스",
+      "published": "2026-04-06T19:25:55+00:00",
+      "summary": "[임채경의 약식동원]#27 \"신이 내린 황금빛 슈퍼푸드, 강황!\"&nbsp;&nbsp;이로운뉴스카레 먹으면 공포 기억이 약해진다고? [식탐]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "이로운뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYZUFEWnhuRUtFNk1ndHphTlppajJoSVVZLW1PeDdLMUppZzRLcUNfRnhlUXgtVzUyNFUtUkFSbDdDWkVHX3NXcVZTZlNGcG8xSk9tT1VLRUJfdU4zNXBXZlhGT3QtRzQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ceb36b996aad",
       "title": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까? - 헬스조선",
       "published": "2026-04-06T16:00:00+00:00",
@@ -102,38 +162,14 @@
       ]
     },
     {
-      "id": "e360f8a674f1",
-      "title": "임신 중 비타민D 부족, 자녀 다중 알레르기 부른다 - 팜뉴스",
-      "published": "2026-04-06T08:45:33+00:00",
-      "summary": "임신 중 비타민D 부족, 자녀 다중 알레르기 부른다&nbsp;&nbsp;팜뉴스아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;경기일보임신 중 비타민D 부족하면…\"출생 후 아이 면역 저하·알레르기 취약\"&nbsp;&nbsp;v.daum.net\"임신부 비타민D 부족, 아이 면역 저하 가능성\"&nbsp;&nbsp;연합뉴스TV성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;hani.co.kr",
-      "sources": [
-        {
-          "name": "팜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CX1VhNkZESlJfUEtRQ3c1WU1SZ0tIcGpxaFRWUUdOUk90LXJtQ3RHN0kwd2E1OEJvSEN3a1ZRdzdLSlFRaVRWNjZhaGlFbzVfYjVoUlEtdmhHZ0N4dU50cWJIYVBFdFdfZHRMNw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12a4d255ecfc",
-      "title": "수억 건 의료 기록 기계학습…알츠하이머병 발병 10년 전부터 전조 증상 포착 - 아이티데일리",
+      "id": "ecb884952338",
+      "title": "수억 건 의료 기록 기계학습…알츠하이머병 발병 10년 전부터 전조 증상 포착 - itdaily.kr",
       "published": "2026-04-06T08:01:58+00:00",
-      "summary": "수억 건 의료 기록 기계학습…알츠하이머병 발병 10년 전부터 전조 증상 포착&nbsp;&nbsp;아이티데일리",
+      "summary": "수억 건 의료 기록 기계학습…알츠하이머병 발병 10년 전부터 전조 증상 포착&nbsp;&nbsp;itdaily.kr",
       "sources": [
         {
-          "name": "아이티데일리",
+          "name": "itdaily.kr",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41S1RnS05NN013bXJ6RkNmbkNMeXhrUktnYlAyYlJNZFNzY09OSFJQdWNra2l2cHRXaXBGbkdwcFV5ZE14S3VLNHZfSkduM3I2ZFhEazJZNGZFcUpENFI5WGQ5ZG9LMGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e534ed4bc4f2",
-      "title": "中 수산물서 바이러스 감염 확인…\"실명 환자까지 발생\" - 아시아경제",
-      "published": "2026-04-06T06:18:32+00:00",
-      "summary": "中 수산물서 바이러스 감염 확인…\"실명 환자까지 발생\"&nbsp;&nbsp;아시아경제",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11RDdWUTI5cEFxQWRfd0MyaEJyc2thZ3ZvZkxrUE83Qmp0djdmdWd6dWhvZ0VMTGJTOXh0WGZQSzJhcWM5azNKVmJ3MzRuOGVHTmUzRndMWHFKMTZDTnAzUA?oc=5"
         }
       ]
     },
@@ -153,7 +189,7 @@
       "id": "63fd403052d8",
       "title": "유성선병원, 치매 진단 ‘수치화’… AI 기반 정밀 분석 도입 - 충청탑뉴스",
       "published": "2026-04-06T05:29:51+00:00",
-      "summary": "유성선병원, 치매 진단 ‘수치화’… AI 기반 정밀 분석 도입&nbsp;&nbsp;충청탑뉴스유성선병원, AI 기반 치매 진단 솔루션 도입&nbsp;&nbsp;v.daum.net치매라더니 오진?…'이 검사'로 헷갈리는 병 구분할 수 있다&nbsp;&nbsp;네이트수십만원이면 알츠하이머 혈액 검사…과잉 검사 우려도 커져&nbsp;&nbsp;동아사이언스“간편한 혈액검사로 알츠하이머병 위험도 조기 체크”&nbsp;&nbsp;헬스경향",
+      "summary": "유성선병원, 치매 진단 ‘수치화’… AI 기반 정밀 분석 도입&nbsp;&nbsp;충청탑뉴스유성선병원, AI 기반 치매 진단 솔루션 도입&nbsp;&nbsp;v.daum.net치매라더니 오진?…'이 검사'로 헷갈리는 병 구분할 수 있다&nbsp;&nbsp;네이트수십만원이면 알츠하이머 혈액 검사…과잉 검사 우려도 커져&nbsp;&nbsp;동아사이언스“간편한 혈액검사로 알츠하이머병 위험도 조기 체크”&nbsp;&nbsp;k-health.com",
       "sources": [
         {
           "name": "충청탑뉴스",
@@ -198,6 +234,18 @@
       ]
     },
     {
+      "id": "642d96bc4b7f",
+      "title": "임신 '비타민D 부족' 아이 알레르기·면역 영향 - 세이프타임즈",
+      "published": "2026-04-06T04:56:38+00:00",
+      "summary": "임신 '비타민D 부족' 아이 알레르기·면역 영향&nbsp;&nbsp;세이프타임즈뱃속에서 결정된다…임신 중 비타민D, 아이 알레르기 면역 건강 좌우&nbsp;&nbsp;동아사이언스아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;경기일보임신 중 비타민D 부족하면…\"출생 후 아이 면역 저하·알레르기 취약\"&nbsp;&nbsp;v.daum.net성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "세이프타임즈",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWUNvOUoxTVhRWWEzVVVhUFE4ZGJ1RWxVdzZ2ZmtXeE40Zi00ZlItVW5yWktpRFZRcGttNFlPeDYzRjhKQnFfRVhsS3Y2ZUdILVd2THVfbkdwSkFqZWw5cF82WlEtNzE4QXM4ZEg3UdIBc0FVX3lxTFBYOXZmOHNGUFRGbTNoM2xMeWVEc1Z0Q3JFMGE1ekpVb3o2M1R1dDFhN08xQm0yNlNjLTJwMGM0R1UwclNkdHFDamdFX1pLVHYwanE3X2tvbVpFcmpIdFNTTEJJejdOc2VBRmVFZFNEMmJYbWs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "72153b93266c",
       "title": "인종간 Lp(a) 특성 달라···동양인은 다른 접근 필요할 수도 - 메디칼업저버",
       "published": "2026-04-06T04:42:47+00:00",
@@ -230,18 +278,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZbTVTZmNSZ0hYeTR1NmdYbHpWRVBZYXRiM3ctTE9NemZpbkZZVW9WTUZOcG1YX1Bxa09Ld3VZRmNMZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea9f171af639",
-      "title": "콜린알포세레이트 복용시 치매로 전환 감소…효과 재확인 - 메디칼타임즈",
-      "published": "2026-04-06T02:26:05+00:00",
-      "summary": "콜린알포세레이트 복용시 치매로 전환 감소…효과 재확인&nbsp;&nbsp;메디칼타임즈",
-      "sources": [
-        {
-          "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VcU40Y0ZZMHBEbVJEdEdCV0J0TExsVWdjVGhYMVhiX25RUENIMmdpb1FKaVBURjgzUXdoQjNrbWRBRUQ0RjV3RXQtRzAzak5tTVZoZWZ5aC1HNkk1TjBkLXFZRVROTjhjQzJKbTRfWG5GS28?oc=5"
         }
       ]
     },
@@ -378,18 +414,6 @@
       ]
     },
     {
-      "id": "83efdd56a5e0",
-      "title": "치과 비용 부담으로 치료 미루면 심혈관질환·치매 위험 높인다 - 메디컬투데이",
-      "published": "2026-04-05T03:42:17+00:00",
-      "summary": "치과 비용 부담으로 치료 미루면 심혈관질환·치매 위험 높인다&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TNmEzWXZGTkxmdkJWTm1qcWNUREhOX2VicUZYUEhDSThkdlIwdHM2UHhxWjJtZkcxbjZlMUR1dkpkeUozZ1hERjU4WkE5eF9LTTZPdUFaN1ZZZ1VVS2VCX0dn0gFsQVVfeXFMTlBYVkxLR091WmFNc0xnQUh4aUp6Q0FfMGQ3SThOT3d0dEJ2YjljSk0tbXhTRTRMTDhGNnNMc2YzNUxrTmNkTmRYUjNmdjQ5MmMtQTRFQWxVbjhLRnZhZWQ5RDc4RXlZLUdFaGx3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "89d634648363",
       "title": "7년전 개발된 '완벽진공' 시스템…\"외산장악 반도체 공정 효자될까\" - 지디넷코리아",
       "published": "2026-04-05T01:09:49+00:00",
@@ -410,18 +434,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NSG92QWpXM0hULWdTMjNSdDlFeEV1Z0ktVU82UUJBMmg0akxfaDQ5N1JjNXJWY3Uzb0hiX18yckdxLTE0eGN4Zzd3TTJrcEdPZVBBRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8439b0bc44d",
-      "title": "잠들기 전 스마트폰 1시간 더…심뇌혈관 사망 5만~6만명, ‘교감신경’이 문제였다 - v.daum.net",
-      "published": "2026-04-04T22:05:28+00:00",
-      "summary": "잠들기 전 스마트폰 1시간 더…심뇌혈관 사망 5만~6만명, ‘교감신경’이 문제였다&nbsp;&nbsp;v.daum.net\"심근경색, 뇌졸중 위험하다\"…방치하는 '이 습관' 당장 고쳐야&nbsp;&nbsp;네이트\"잠들기 전 이 행동, 심장 망친다\"…전문가가 경고한 4가지 습관&nbsp;&nbsp;아시아경제너무 자주 쉬는 습관이 심장 질환을 유발할 수 있습니다.&nbsp;&nbsp;VOI.id매일 하던 이 습관… 심장 망가뜨린다&nbsp;&nbsp;치의신보",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hdDV6N242Uk9HaEpudXduV1ZwczVueHBVczNlNmtGU0pseTYybTZTdWlOcG8tVXRubkM2ZDZTLWlnZ21jUkFxeGc5b0hWMTh0bUwxVg?oc=5"
         }
       ]
     }
