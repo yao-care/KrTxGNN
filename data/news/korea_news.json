@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-08T13:26:53.267039+00:00",
-  "total_fetched": 81,
-  "unique_count": 81,
-  "health_related_count": 49,
+  "fetched_at": "2026-04-08T19:22:15.530452+00:00",
+  "total_fetched": 84,
+  "unique_count": 84,
+  "health_related_count": 51,
   "news": [
+    {
+      "id": "5540367bd33c",
+      "title": "“암·당뇨 다 잡는다”… 호불호 갈리는 ‘이 음식’ 뭐길래? - 헬스조선",
+      "published": "2026-04-08T18:40:00+00:00",
+      "summary": "“암·당뇨 다 잡는다”… 호불호 갈리는 ‘이 음식’ 뭐길래?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45ZmZvTXNXMktIdExpZm4ta2NDMS1IN18tM01MTEZnQS1BWENzT0x6NTlTeGlWRHJycEdVOXNBc2xEV0NZSXF4a2xoOWVtNnpMNmpZdEV6cnRvUldQYmZTMHR5bENxd0JkRXlnTVlyZS1NNUVScEE?oc=5"
+        }
+      ]
+    },
     {
       "id": "6e8cd9b9b7d6",
       "title": "'지중해식 식단의 힘' 천식도 막는다 - 헬스조선",
@@ -50,6 +62,30 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WVElLMkNrNTl1dFowcTdVVHBONDYwc3VBbkVlSG9VU3RnbnNjQ0w3d2ZWNXZLalhuX2pLeWloM2ljNC0tejFJbkExSGt5T21xcmVHNmVQZmVnYkFfbkR3cUMtdFBSdHFLZkFxY1YtNm53Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "740c2c70741f",
+      "title": "“술만 문제 아니다?”... 간 망치는 음식 주범 - 조세일보",
+      "published": "2026-04-08T09:00:19+00:00",
+      "summary": "“술만 문제 아니다?”... 간 망치는 음식 주범&nbsp;&nbsp;조세일보“간 혹사한다”… 당장 끊으라는 ‘이 음식’, 대체 뭐야?&nbsp;&nbsp;헬스조선술보다 무서운 '초가공식품'…간 건강 지키는 생활 습관은&nbsp;&nbsp;뉴시스“술, ‘이렇게’ 마시면 치명적”… 간 딱딱하게 굳어요&nbsp;&nbsp;코메디닷컴\"술만 문제 아니다?\"…간 망치는 음식 주범&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAycVpITGZHaTItNmw5clRTNlNTbUFJV0ZfTmJYQTlzaUhOTllXUDJYRTYzYkIwb3hUZnhoOUozRG1XZDg2d2xxcEx3NmNkRzYyekdubFRKSHRrMkJad0dr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d9f21839ab1",
+      "title": "증상이 아닌 ‘몸의 균형’을 보다, 작전한의원의 근본 중심 한의 진료 - 한국AI부동산신문",
+      "published": "2026-04-08T08:03:57+00:00",
+      "summary": "증상이 아닌 ‘몸의 균형’을 보다, 작전한의원의 근본 중심 한의 진료&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KVVRiU0RNMklNb2U4c1FSdXVkTkZGbTJuY0tHZTB2SWtWRUJMTEk5RlgzeERIcXdZNGxLT2plREl0QWp1LTByVmF4TGM?oc=5"
         }
       ]
     },
@@ -105,7 +141,7 @@
       "id": "fbcc1b9e26a2",
       "title": "\"암 치료에 노화 세포 활용한다\"... 잘못 활용하면 암 진행 촉진할 수도 - 하이닥",
       "published": "2026-04-08T04:30:00+00:00",
-      "summary": "\"암 치료에 노화 세포 활용한다\"... 잘못 활용하면 암 진행 촉진할 수도&nbsp;&nbsp;하이닥암 잡는 병사인가, 키우는 좀비인가…노화 세포의 '두 얼굴'&nbsp;&nbsp;뉴시스죽을 시점 지난 '좀비 세포'가 암 억제·촉진 동시에…\"차세대 암치료 표적\"&nbsp;&nbsp;v.daum.net노화 관리, 혈액 환경 개선이 중요한 이유&nbsp;&nbsp;네이트항노화의 핵심은 시르투인과 NAD+&nbsp;&nbsp;브런치",
+      "summary": "\"암 치료에 노화 세포 활용한다\"... 잘못 활용하면 암 진행 촉진할 수도&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "하이닥",
@@ -138,14 +174,14 @@
       ]
     },
     {
-      "id": "48d1a9334148",
+      "id": "06bbb32affeb",
       "title": "“롱코비드, 심혈관 질환 위험도 높여” - 미주한국일보",
       "published": "2026-04-08T03:00:00+00:00",
       "summary": "“롱코비드, 심혈관 질환 위험도 높여”&nbsp;&nbsp;미주한국일보코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;헬스조선코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
           "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xZlJuUUt4WV9XTWNzOE83aDQxRWxJOUhJaFJSclgyTkVNLXY5RWVZdlF1UXhJUXdJZVgzWTFpZE5OMzlVcDRqY19jTmZrYmZWTF9WYThtV1Qtd3pjbjlV?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsUEF1cU44LXJtcUxnQnQtTklJZGx0VHlxNzlGTUgybXZnVy16ejQ4Y1Zqa3g1UWl6OHl5SUZ0TlVLMnFYTDBqU3kxNkV3VGxQTFRr?oc=5"
         }
       ]
     },
@@ -182,18 +218,6 @@
         {
           "name": "mostonline.co.kr",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iTjFMXzVnSGVqbkZqaUxsdTdZRXNlQkFQZkg0a3VmUnYyTkg1N2hrX3RCakotUjdnQ0VyOW5HZXZoY3NHV055X1gyZ2ZHa2tzVWU1RnpzMHlUUEdnRXpKdmVNVXBMRl9qWjM5dVpuTXY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7fd38d20ded5",
-      "title": "[의과학 특집] 한국인의 ‘술’ 유전자는 다르다… 알코올 분해 효소의 정밀 해부 - 브랜드경제신문",
-      "published": "2026-04-08T02:01:35+00:00",
-      "summary": "[의과학 특집] 한국인의 ‘술’ 유전자는 다르다… 알코올 분해 효소의 정밀 해부&nbsp;&nbsp;브랜드경제신문Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0akFFQWh4THhnSjJqcmlMQm1FdVFjVjM4YmdCVmVJS21VSi13cl9WOEI4bzJtN3dIS1NfelFUeU45bTlQdXNsZzB6a2c?oc=5"
         }
       ]
     },
@@ -285,7 +309,7 @@
       "id": "2da01ac39798",
       "title": "잘살게 됐더니 더 아프다... 베트남 덮친 '부자병' - 아세안데일리 뉴스",
       "published": "2026-04-07T23:06:17+00:00",
-      "summary": "잘살게 됐더니 더 아프다... 베트남 덮친 '부자병'&nbsp;&nbsp;아세안데일리 뉴스뇌졸중 위험을 5배나 높이는 '숨겨진 주범'.&nbsp;&nbsp;Vietnam.vn뇌졸중 및 기타 뇌혈관 질환 위험에 대한 지역 사회 차원의 검진 조치를 강화해야 합니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "잘살게 됐더니 더 아프다... 베트남 덮친 '부자병'&nbsp;&nbsp;아세안데일리 뉴스뇌졸중 위험을 5배나 높이는 '숨겨진 주범'.&nbsp;&nbsp;vietnam.vn뇌졸중 및 기타 뇌혈관 질환 위험에 대한 지역 사회 차원의 검진 조치를 강화해야 합니다.&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "아세안데일리 뉴스",
@@ -309,7 +333,7 @@
       "id": "2dc7bb5c2c8c",
       "title": "“건강 간식이라는 착각” 편의점서 ‘이 성분’ 들어간 제품 조심해라 - 헬스조선",
       "published": "2026-04-07T22:40:00+00:00",
-      "summary": "“건강 간식이라는 착각” 편의점서 ‘이 성분’ 들어간 제품 조심해라&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 초가공식품 섭취와 전립선 비대증 발생 위험의 상관관계 연구&nbsp;&nbsp;네이트초가공식품, 많이 먹을수록 몸은 왜 더 피곤해질까&nbsp;&nbsp;한국투데이초가공식품, 남성 정자 건강에 치명적 영향&nbsp;&nbsp;브런치소시지·햄 등 초가공식품, 전립선 비대증 위험 높여&nbsp;&nbsp;메디컬투데이",
+      "summary": "“건강 간식이라는 착각” 편의점서 ‘이 성분’ 들어간 제품 조심해라&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 초가공식품 섭취와 전립선 비대증 발생 위험의 상관관계 연구&nbsp;&nbsp;네이트초가공식품, 많이 먹을수록 몸은 왜 더 피곤해질까&nbsp;&nbsp;한국투데이초가공식품, 남성 정자 건강에 치명적 영향&nbsp;&nbsp;brunch.co.kr소시지·햄 등 초가공식품, 전립선 비대증 위험 높여&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "헬스조선",
@@ -342,13 +366,13 @@
       ]
     },
     {
-      "id": "dc82614985ec",
-      "title": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\" - aitimes.com",
+      "id": "5132d11e6e18",
+      "title": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\" - AI타임스",
       "published": "2026-04-07T20:52:07+00:00",
-      "summary": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\"&nbsp;&nbsp;aitimes.com",
+      "summary": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\"&nbsp;&nbsp;AI타임스",
       "sources": [
         {
-          "name": "aitimes.com",
+          "name": "AI타임스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aSmJJZFFvbGg3RWRKOFJYYXhEa3VGOU5ZMWJVUGxKQWVsa294RC1uWFZGQVJ0cEJyWl9peVJoV3VVWUJTRDN1QlBoVl9GWmk0ZE5uN1pmNGZEekZjSFljenhJRjdhcHJld1E?oc=5"
         }
       ]
@@ -357,7 +381,7 @@
       "id": "037b02680c2e",
       "title": "\"‘이 증상’ 겪었다면 곧장 병원가라\"...뇌가 보내는 '마지막 경고', 뭐길래 [헬스톡] - 파이낸셜뉴스",
       "published": "2026-04-07T19:40:00+00:00",
-      "summary": "\"‘이 증상’ 겪었다면 곧장 병원가라\"...뇌가 보내는 '마지막 경고', 뭐길래 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스\"갑자기 힘 빠지거나 말이 어눌해지면\"…'일시적 뇌졸증' 의심해야&nbsp;&nbsp;네이트“몇 분 지나면 괜찮다?”…미니 뇌졸중, 90일 안에 터진다 [바디플랜]&nbsp;&nbsp;동아일보\"통증 사라져도 위험은 그대로\"…'이 증상' 있으면 곧장 병원으로&nbsp;&nbsp;asiae.co.kr\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;보건신문",
+      "summary": "\"‘이 증상’ 겪었다면 곧장 병원가라\"...뇌가 보내는 '마지막 경고', 뭐길래 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스\"갑자기 힘 빠지거나 말이 어눌해지면\"…'일시적 뇌졸증' 의심해야&nbsp;&nbsp;뉴시스“몇 분 지나면 괜찮다?”…미니 뇌졸중, 90일 안에 터진다 [바디플랜]&nbsp;&nbsp;동아일보\"통증 사라져도 위험은 그대로\"…'이 증상' 있으면 곧장 병원으로&nbsp;&nbsp;아시아경제\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;bokuennews.com",
       "sources": [
         {
           "name": "파이낸셜뉴스",
@@ -426,6 +450,18 @@
       ]
     },
     {
+      "id": "b0b97b3d6de2",
+      "title": "죽을 시점 지난 '좀비 세포'가 암 억제·촉진 동시에…\"차세대 암치료 표적\" - v.daum.net",
+      "published": "2026-04-07T07:19:44+00:00",
+      "summary": "죽을 시점 지난 '좀비 세포'가 암 억제·촉진 동시에…\"차세대 암치료 표적\"&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1idS05Ykk0MFU3TnlQNXgtT2tIcFRkb1g5b1ZVdWhuRU5FT0NlZEhqWVh4TVQ0RTBVdTgtdzVKVW1IcllPSVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "548071f408e1",
       "title": "피 한 번으로 여러 암 동시 탐지…간암 고위험군 5명 중 4명 잡은 '이 검사' - 코메디닷컴",
       "published": "2026-04-07T07:09:00+00:00",
@@ -453,7 +489,7 @@
       "id": "6cf9636d96bc",
       "title": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과 - 하이닥",
       "published": "2026-04-07T03:30:00+00:00",
-      "summary": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과&nbsp;&nbsp;하이닥Google 뉴스에서 전체 콘텐츠 보기",
+      "summary": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과&nbsp;&nbsp;하이닥“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다&nbsp;&nbsp;전자신문“독감 주사의 반전” 고용량 백신 맞았을 뿐인데 치매 위험 절반 ‘뚝’&nbsp;&nbsp;insight.co.kr독감 예방 접종, 알츠하이머 위험 낮춘다... 고용량 백신 효과 주목&nbsp;&nbsp;careyounews.org“독감 백신 맞았을 뿐인데 치매 위험 ‘뚝’”…65세 이상, 꼭 맞으세요 [라이프]&nbsp;&nbsp;twig24.com",
       "sources": [
         {
           "name": "하이닥",
@@ -486,14 +522,14 @@
       ]
     },
     {
-      "id": "16a5d268254f",
-      "title": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\" - 보건신문",
+      "id": "627df9375ad1",
+      "title": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\" - bokuennews.com",
       "published": "2026-04-07T01:59:45+00:00",
-      "summary": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\"&nbsp;&nbsp;보건신문당뇨 깊어질수록 치매 위험 최대 2.3배…여성은 ‘가임 기간’이 보호막 [건강+]&nbsp;&nbsp;v.daum.net2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선",
+      "summary": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\"&nbsp;&nbsp;bokuennews.com당뇨 깊어질수록 치매 위험 최대 2.3배…여성은 ‘가임 기간’이 보호막 [건강+]&nbsp;&nbsp;v.daum.net2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XZ0NxZXAxV0ZpUGtZczQ3LWpSRy1zRk5XNkJQVF9wWUthYVJXNDlaVGUxdG1OQVlWTm5QRTR5ekM3cUZxN0s1VEpqM1FHSmU4aDdOQW5TYUNMcGc1?oc=5"
+          "name": "bokuennews.com",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1SllXV1BSc20tenJReEpjQVdPNlBBenVYanpwN0N6bWhiMFNhSVhEM2xjUlpMcFRESWVWVUV1TEV4WHFFRTcwUDZ6Q1BMZkU2dDM4Smk0RndrVEgzeU5ULWtRQQ?oc=5"
         }
       ]
     },
@@ -542,18 +578,6 @@
         {
           "name": "이로운뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYZUFEWnhuRUtFNk1ndHphTlppajJoSVVZLW1PeDdLMUppZzRLcUNfRnhlUXgtVzUyNFUtUkFSbDdDWkVHX3NXcVZTZlNGcG8xSk9tT1VLRUJfdU4zNXBXZlhGT3QtRzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ceb36b996aad",
-      "title": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까? - 헬스조선",
-      "published": "2026-04-06T16:00:00+00:00",
-      "summary": "살 빼려 먹은 ‘이 음식’이 심장을 해치고 있었다… 뭘까?&nbsp;&nbsp;헬스조선심장 건강, 채소에게 맡겨봐…전문가가 꼽은 ‘심장에 좋은 채소 5가지’&nbsp;&nbsp;레이디경향\"잘못된 식습관으로 인한 심장병 사망 연간 406만 명\"&nbsp;&nbsp;동아사이언스쌀밥에 콩만 섞어도 충분…심혈관 건강 지키는 식사 루틴 [FOOD+]&nbsp;&nbsp;v.daum.net미국에서 발표된 새로운 영양 가이드라인: 심혈관 건강을 보호하기 위해 섭취해야 할 음식과 피해야 할 음식.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwa1NsQ1JkWlBvd1B5OGI4NHBlSFdxVGZxTFZnX0c2b0VNNlZvRzEycURGVFBabjlieUlTQ0t6NGNFQmVrS0dRR1Q1bm9UVm5PM1JfMmlwVEVGdmxucVdRdEI3cUhLSDNabjZUcFRURGEtTll3RFE?oc=5"
         }
       ]
     },
