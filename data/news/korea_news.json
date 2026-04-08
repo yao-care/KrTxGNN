@@ -1,10 +1,94 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-08T07:26:55.614741+00:00",
-  "total_fetched": 76,
-  "unique_count": 76,
-  "health_related_count": 42,
+  "fetched_at": "2026-04-08T13:26:53.267039+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
+  "health_related_count": 49,
   "news": [
+    {
+      "id": "6e8cd9b9b7d6",
+      "title": "'지중해식 식단의 힘' 천식도 막는다 - 헬스조선",
+      "published": "2026-04-08T11:20:00+00:00",
+      "summary": "'지중해식 식단의 힘' 천식도 막는다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IMWhIOFNReTNTdHI1aEx0aE9fZjdLaWMwbXY5QXBpX0Q2VkNMeGd6N25KbGh2SGo3ODNVNHM2SVRhY1ZyMGMxWHJKYm9DbE55eEU0UVRwSjFmT3VWN1MtMW5PQjZwc0JjYVNyZ2oxMGxHX1RiSlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9bfc29c77816",
+      "title": "대변에서 ‘이 냄새’ 나면 대장암 신호일 수도… 뭐길래? - 헬스조선",
+      "published": "2026-04-08T11:00:00+00:00",
+      "summary": "대변에서 ‘이 냄새’ 나면 대장암 신호일 수도… 뭐길래?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hT0JGLXdzXy04cl9jMW9DNGdsRjUzOFd6S2QzRlEzNHRxU2ZBMWYtYWt3U1kwSzJNaDg0SW9hTjBFd1JtZlRSbGVyZjNtanZJZU5udVF4Y0hJeUREaFM2NnBGZERNeEVNbEw0X0UtLXNXYnJldGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1074e4eb0852",
+      "title": "기억력 지키기 위해 꼭 먹어야 할 생선 5가지 - 헬스조선",
+      "published": "2026-04-08T10:40:00+00:00",
+      "summary": "기억력 지키기 위해 꼭 먹어야 할 생선 5가지&nbsp;&nbsp;헬스조선잎채소 많이 먹는 사람...나이 들면서도 머리 “생생”&nbsp;&nbsp;코메디닷컴[의과학 특집] 당신이 먹는 음식이 뇌를 파괴한다… 신경 퇴행을 부르는 6가지 식단&nbsp;&nbsp;환경감시일보뇌 노화 늦추는 ‘마인드 식단’…“뇌 위축 지연 효과 확인”&nbsp;&nbsp;하이닥\"뇌 망가뜨리는 중\"… 오늘도 먹은 '이 음식', 뭐지?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13bngyWndSQnNwV0MyRkJWVGhDbGZhMHhtSmZJeTE4cWh3ekE4WlpZd3Fjd29uNGlqekRENXJwdTcwby1FcmhOZEo2RldjVVRWYWNuaHJ0U0FXYnhyd1dJSDY0cThCQ05uYU1KSXZfY29aRkVWSGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fd0d3067c9b9",
+      "title": "아침에 깨도 한참 침대에...'기상 전환' 늦은 노인, 치매 단백질 더 많았다 - 디멘시아뉴스",
+      "published": "2026-04-08T10:26:47+00:00",
+      "summary": "아침에 깨도 한참 침대에...'기상 전환' 늦은 노인, 치매 단백질 더 많았다&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WVElLMkNrNTl1dFowcTdVVHBONDYwc3VBbkVlSG9VU3RnbnNjQ0w3d2ZWNXZLalhuX2pLeWloM2ljNC0tejFJbkExSGt5T21xcmVHNmVQZmVnYkFfbkR3cUMtdFBSdHFLZkFxY1YtNm53Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "63b26873e2e4",
+      "title": "유전자 교정 밀로 만든 토스트, 발암물질 92% 줄었다 - 동아사이언스",
+      "published": "2026-04-08T08:00:00+00:00",
+      "summary": "유전자 교정 밀로 만든 토스트, 발암물질 92% 줄었다&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12VXdnLXI1NDBYaVRlaTBJQnRvUnA2V3dNRlZjMm5xbHF4QlRtMC1vczBuSGs0ckI4ZTRXQVktbXM0Qm10WEtyQXhyZGViY0NLQnFoeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "166af3219518",
+      "title": "GLP-1 다이어트 효과, 여성에서 더 컸다… 남성보다 1.6배↑ - 하이닥",
+      "published": "2026-04-08T07:30:00+00:00",
+      "summary": "GLP-1 다이어트 효과, 여성에서 더 컸다… 남성보다 1.6배↑&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YM2VHdmJxQV9WT094a0w5OFVqXzRqYU9RXy0tQVpkd1ZuVU9ZSFhCLWZfQXpxVDNPdGtrTDU0YmVBM2Z3b0l6Qjg5bVgzZlcxYW5KZ2NXNENYb2kwWXM5UDlUQk5Yem9Lb3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0858351c5c1",
+      "title": "‘투석 치료, 완결성이 중요하다’…지속 치료를 가능하게 하는 조건 - 구완서내과 구은희 원장 - 엠디저널",
+      "published": "2026-04-08T07:21:50+00:00",
+      "summary": "‘투석 치료, 완결성이 중요하다’…지속 치료를 가능하게 하는 조건 - 구완서내과 구은희 원장&nbsp;&nbsp;엠디저널",
+      "sources": [
+        {
+          "name": "엠디저널",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81ay0tWGdFM004YUVhNWpIYjNybkVCaFZIMVNoSzJoRUctUVhsTVJJVkhlRDhUTEhuczRfMFI3ejVKZWVVSFVPeE1HM0lVMHl4dzBpN1BKck8xQkhTT19CYW96SWd0TklGdmfSAW5BVV95cUxQYjhYM3pHa2Q0RWM3b2E0bGdCRG9CbjZwMmVnSjZMUFdmWU1NT3VOQ2NZZDkwUFc1ODZVNUxuX05uNHd0azg0aHU2R2tpSVBkMklYMUFoQzlIVzR4ZE82R1hHb0hrcXNCY1FVQTktQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "ecd458ca4d57",
       "title": "당뇨·비만 약 GLP-1, 우울·불안 심화 가능성 42% 낮춰 - 하이닥",
@@ -21,7 +105,7 @@
       "id": "fbcc1b9e26a2",
       "title": "\"암 치료에 노화 세포 활용한다\"... 잘못 활용하면 암 진행 촉진할 수도 - 하이닥",
       "published": "2026-04-08T04:30:00+00:00",
-      "summary": "\"암 치료에 노화 세포 활용한다\"... 잘못 활용하면 암 진행 촉진할 수도&nbsp;&nbsp;하이닥죽을 시점 지난 '좀비 세포'가 암 억제·촉진 동시에…\"차세대 암치료 표적\"&nbsp;&nbsp;v.daum.net노화 관리, 혈액 환경 개선이 중요한 이유&nbsp;&nbsp;네이트아이디병원 엑소밸런스센터, 채널A 특집 출연&nbsp;&nbsp;보건신문새론의원 주용민 원장 “재생의학 관점에서 본 항노화 패러다임 변화”&nbsp;&nbsp;디지틀조선일보",
+      "summary": "\"암 치료에 노화 세포 활용한다\"... 잘못 활용하면 암 진행 촉진할 수도&nbsp;&nbsp;하이닥암 잡는 병사인가, 키우는 좀비인가…노화 세포의 '두 얼굴'&nbsp;&nbsp;뉴시스죽을 시점 지난 '좀비 세포'가 암 억제·촉진 동시에…\"차세대 암치료 표적\"&nbsp;&nbsp;v.daum.net노화 관리, 혈액 환경 개선이 중요한 이유&nbsp;&nbsp;네이트항노화의 핵심은 시르투인과 NAD+&nbsp;&nbsp;브런치",
       "sources": [
         {
           "name": "하이닥",
@@ -42,10 +126,22 @@
       ]
     },
     {
+      "id": "633ecbd23459",
+      "title": "항생제 투약 후 장내 미생물의 변화 '4~8 년간 지속' - 후생신보",
+      "published": "2026-04-08T03:29:00+00:00",
+      "summary": "항생제 투약 후 장내 미생물의 변화 '4~8 년간 지속'&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAtMWNhTGYxcDcxWVloSk1vRHhkRmVndWVNNm1hU2tLQ1EwYndSUlgxSVlnaEc4bjBJS3NVeTlUc0U2Q0Zz?oc=5"
+        }
+      ]
+    },
+    {
       "id": "48d1a9334148",
       "title": "“롱코비드, 심혈관 질환 위험도 높여” - 미주한국일보",
       "published": "2026-04-08T03:00:00+00:00",
-      "summary": "“롱코비드, 심혈관 질환 위험도 높여”&nbsp;&nbsp;미주한국일보코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;헬스조선코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;yna.co.kr",
+      "summary": "“롱코비드, 심혈관 질환 위험도 높여”&nbsp;&nbsp;미주한국일보코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;헬스조선코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
           "name": "미주한국일보",
@@ -57,11 +153,35 @@
       "id": "e79855aa70e8",
       "title": "자생한방병원 “육공단 해마 보호하고 타우 단백질 변형 억제” - 문화일보",
       "published": "2026-04-08T02:33:02+00:00",
-      "summary": "자생한방병원 “육공단 해마 보호하고 타우 단백질 변형 억제”&nbsp;&nbsp;문화일보기억력 책임지는 해마, 한약으로 지킨다&nbsp;&nbsp;이투데이“육공단, 산화 스트레스로부터 뇌 신경세포 손상 억제”&nbsp;&nbsp;브릿지경제전통 보약 ‘육공단’ 먹었더니 해마 살아났다...SCI급 저널에 게재&nbsp;&nbsp;v.daum.net\"기억력 책임지는 해마, 한약으로 지킨다'…육공단 효과 확인&nbsp;&nbsp;뉴스1",
+      "summary": "자생한방병원 “육공단 해마 보호하고 타우 단백질 변형 억제”&nbsp;&nbsp;문화일보기억력 책임지는 해마, 한약으로 지킨다&nbsp;&nbsp;이투데이“육공단, 산화 스트레스로부터 뇌 신경세포 손상 억제”&nbsp;&nbsp;브릿지경제자생한방병원 “육공단, 해마 신경세포 보호 효과 있다”&nbsp;&nbsp;경향신문전통 보약 ‘육공단’ 먹었더니 해마 살아났다...SCI급 저널에 게재&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42NTNDUmxPMDNLdU9tREV2VExMdDJmZ1JGV0IxWkRwc0ttRC1oOVl3UTBSZ2tVTTVscEg2Yk1pcW1CampfRkNHYl9TRnRpV2Fj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01246a1f6bea",
+      "title": "MCI 단계에서 은행엽제제의 AD 예방치료 가능성 봤다 - mostonline.co.kr",
+      "published": "2026-04-08T02:26:37+00:00",
+      "summary": "MCI 단계에서 은행엽제제의 AD 예방치료 가능성 봤다&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "mostonline.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMZVlWWFZxVkdtcjV4RmdNTW5oaTBtNVpqN1hiUEdwVFR3OVZpNkNnZE1zWDh1bW5hYUVsMFhFVFhwVW9XVFFJRFJsTlFVYTJ0elo3RkRzSEk2LVNLeW5zRUhEZjd5MTZIVGJkeEliSS0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "064d37970e4c",
+      "title": "항아밀로이드항체 신약 “초기에 치료시작할수록 효과 뛰어나” - mostonline.co.kr",
+      "published": "2026-04-08T02:22:12+00:00",
+      "summary": "항아밀로이드항체 신약 “초기에 치료시작할수록 효과 뛰어나”&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "mostonline.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iTjFMXzVnSGVqbkZqaUxsdTdZRXNlQkFQZkg0a3VmUnYyTkg1N2hrX3RCakotUjdnQ0VyOW5HZXZoY3NHV055X1gyZ2ZHa2tzVWU1RnpzMHlUUEdnRXpKdmVNVXBMRl9qWjM5dVpuTXY?oc=5"
         }
       ]
     },
@@ -110,18 +230,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zeThoRTF3czVfVXdOUFp1WnZlOFFoaXRVY2ZMQjE2SmNQWS1WWWZRcjZ0YWEtaXNxVjVGUVBud1g4SjRyWGRMVUNyLWZFOE5XdjFmYkdtek1QMkMtYWRPeThWa3FmTm16T2lCcWluT09xRkJ4Q0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95348a546cbe",
-      "title": "60세 이상은 최소 20초 이상...플랭크 효과 보려면 얼마나 버텨야 할까? - 코메디닷컴",
-      "published": "2026-04-08T01:07:00+00:00",
-      "summary": "60세 이상은 최소 20초 이상...플랭크 효과 보려면 얼마나 버텨야 할까?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAtSEF0N2x2b0NmVncyUHVibTU3eUE4cXJSYWpIMW0tc3pMYTJKTExFNWJQd3NDbl9zbG1yeVZFZl9yZw?oc=5"
         }
       ]
     },
@@ -210,13 +318,13 @@
       ]
     },
     {
-      "id": "a4404b7b743b",
-      "title": "메트포르민, 운동 어려운 전립선암 환자 체중 증가 막는다 - 팜뉴스",
+      "id": "e932496cf50a",
+      "title": "메트포르민, 운동 어려운 전립선암 환자 체중 증가 막는다 - pharmnews.com",
       "published": "2026-04-07T20:58:00+00:00",
-      "summary": "메트포르민, 운동 어려운 전립선암 환자 체중 증가 막는다&nbsp;&nbsp;팜뉴스",
+      "summary": "메트포르민, 운동 어려운 전립선암 환자 체중 증가 막는다&nbsp;&nbsp;pharmnews.comGoogle 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "팜뉴스",
+          "name": "pharmnews.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xeERWQ2VxcHM0bmFPQ0V2WWdUMFpMRVJYU0RyWHo2V2hsSWJyR3QybGUyRFhfa3Y4NGdzVDZPNVBSOHB3WDk4X25XSml0ZVY4NDVBMTNrVG1tNHVFamZjN1NYY2RLVGh6cG1YRg?oc=5"
         }
       ]
@@ -234,13 +342,13 @@
       ]
     },
     {
-      "id": "5132d11e6e18",
-      "title": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\" - AI타임스",
+      "id": "dc82614985ec",
+      "title": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\" - aitimes.com",
       "published": "2026-04-07T20:52:07+00:00",
-      "summary": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\"&nbsp;&nbsp;AI타임스",
+      "summary": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\"&nbsp;&nbsp;aitimes.com",
       "sources": [
         {
-          "name": "AI타임스",
+          "name": "aitimes.com",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aSmJJZFFvbGg3RWRKOFJYYXhEa3VGOU5ZMWJVUGxKQWVsa294RC1uWFZGQVJ0cEJyWl9peVJoV3VVWUJTRDN1QlBoVl9GWmk0ZE5uN1pmNGZEekZjSFljenhJRjdhcHJld1E?oc=5"
         }
       ]
@@ -249,7 +357,7 @@
       "id": "037b02680c2e",
       "title": "\"‘이 증상’ 겪었다면 곧장 병원가라\"...뇌가 보내는 '마지막 경고', 뭐길래 [헬스톡] - 파이낸셜뉴스",
       "published": "2026-04-07T19:40:00+00:00",
-      "summary": "\"‘이 증상’ 겪었다면 곧장 병원가라\"...뇌가 보내는 '마지막 경고', 뭐길래 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스\"통증 사라져도 위험은 그대로\"…'이 증상' 있으면 곧장 병원으로&nbsp;&nbsp;아시아경제눈에 불빛 번쩍, 이상한 냄새… 노인 뇌전증 신호 그냥 넘기지 마세요[이진형의 뇌, 우리 속의 우주]&nbsp;&nbsp;동아일보\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;보건신문‘이·웃·손·발·시선’ 뇌졸중 신호 기억하자 [김태정의 진료실은 오늘도 맑음]&nbsp;&nbsp;v.daum.net",
+      "summary": "\"‘이 증상’ 겪었다면 곧장 병원가라\"...뇌가 보내는 '마지막 경고', 뭐길래 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스\"갑자기 힘 빠지거나 말이 어눌해지면\"…'일시적 뇌졸증' 의심해야&nbsp;&nbsp;네이트“몇 분 지나면 괜찮다?”…미니 뇌졸중, 90일 안에 터진다 [바디플랜]&nbsp;&nbsp;동아일보\"통증 사라져도 위험은 그대로\"…'이 증상' 있으면 곧장 병원으로&nbsp;&nbsp;asiae.co.kr\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;보건신문",
       "sources": [
         {
           "name": "파이낸셜뉴스",
@@ -294,6 +402,30 @@
       ]
     },
     {
+      "id": "6bf5cc3a680b",
+      "title": "개 인플루엔자 백신, 피하 접종한다…녹십자수의약품, 추가 허가 - 네이트",
+      "published": "2026-04-07T08:21:00+00:00",
+      "summary": "개 인플루엔자 백신, 피하 접종한다…녹십자수의약품, 추가 허가&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qdGphT2N5YTJOX0xYdlJYa0oyd1hLSWNlRWtuOWtILXJOb0ZmcU1DbFBWZG1YcmIwVDBnaHZuaGhidVllT18zeFBhSnpoSG56dEZj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7b40144109bf",
+      "title": "세계에서 제일 큰 주먹찌르개 우리나라에서 발견됐어요! - 조선일보",
+      "published": "2026-04-07T07:56:00+00:00",
+      "summary": "세계에서 제일 큰 주먹찌르개 우리나라에서 발견됐어요!&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbTYtQmFRUkgya1Z0ckFIM0VxckFlRkNoUVVHRmVnWXNOTTJHWkhNM2ExZmdMb2Y4VkxaWGJsdGNHNVBCN3lZZjNaTS12TXNDVUJJWUJ2MHliNGl6aWQwTEJqR0VaOTUyWkdocWxQMTB3VVhFb1pCWmhOMENfSHNlS3VHZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "548071f408e1",
       "title": "피 한 번으로 여러 암 동시 탐지…간암 고위험군 5명 중 4명 잡은 '이 검사' - 코메디닷컴",
       "published": "2026-04-07T07:09:00+00:00",
@@ -318,14 +450,14 @@
       ]
     },
     {
-      "id": "e2f8a89b8761",
-      "title": "지중해식 식단, 천식 발병 위험 42% 낮춰… 대규모 연구 결과 - 하이닥",
-      "published": "2026-04-07T05:30:00+00:00",
-      "summary": "지중해식 식단, 천식 발병 위험 42% 낮춰… 대규모 연구 결과&nbsp;&nbsp;하이닥",
+      "id": "6cf9636d96bc",
+      "title": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과 - 하이닥",
+      "published": "2026-04-07T03:30:00+00:00",
+      "summary": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과&nbsp;&nbsp;하이닥Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBObW0zUXY0NGV1N1I3VkRjbzZTck5oX005Z3Q4SDZaTG94ZmFMOWpmOWtWTTN2Y0RpTUUwb2s5dEdqNHh0M0ZtSnl4cjR2QXZZeXlBV1RDYWN4Z2ktTUlCUkFfRjY5dXA1dXc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qeGtuQU1WNDZqMmdsRVF4TVh5c29EaEIxeEdhUFFhaldhZWU4bUZhZFBpQ2pWYkVEUnR0dUZlaGZyaEkweWYzaXhBS2tTRFhhZlNwWkFTaE5ESnJSU0Q1X2I5dzMtU3Q2bkE?oc=5"
         }
       ]
     },
@@ -333,7 +465,7 @@
       "id": "629b602abcf1",
       "title": "[단독] 면역항암제 ‘난공불락’ 암종 뚫었다 … 이중 HIF 억제제의 기적 - 헬스코리아뉴스",
       "published": "2026-04-07T03:00:03+00:00",
-      "summary": "[단독] 면역항암제 ‘난공불락’ 암종 뚫었다 … 이중 HIF 억제제의 기적&nbsp;&nbsp;헬스코리아뉴스",
+      "summary": "[단독] 면역항암제 ‘난공불락’ 암종 뚫었다 … 이중 HIF 억제제의 기적&nbsp;&nbsp;헬스코리아뉴스[메디컬투데이 - 쇼츠뉴스] 대장암 간 전이 억제하는 핵심 단백질 상호작용 및 치료 후보물질 규명&nbsp;&nbsp;네이트\"기존 면역항암제 한계 넘나\"… 유방암·대장암 새 치료 후보물질 발견&nbsp;&nbsp;하이닥암 성장 '핵심 조절자' 동시 차단…동물실험서 유방암·대장암 등 완전 제거&nbsp;&nbsp;동아사이언스대장암의 치명적 간 전이 막을 열쇠 찾았다…핵심 단백질 표적 치료제 주목&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "헬스코리아뉴스",
@@ -357,7 +489,7 @@
       "id": "16a5d268254f",
       "title": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\" - 보건신문",
       "published": "2026-04-07T01:59:45+00:00",
-      "summary": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\"&nbsp;&nbsp;보건신문당뇨 깊어질수록 치매 위험 최대 2.3배…여성은 ‘가임 기간’이 보호막 [건강+]&nbsp;&nbsp;v.daum.net2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;yna.co.kr폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선",
+      "summary": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\"&nbsp;&nbsp;보건신문당뇨 깊어질수록 치매 위험 최대 2.3배…여성은 ‘가임 기간’이 보호막 [건강+]&nbsp;&nbsp;v.daum.net2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "보건신문",
@@ -386,18 +518,6 @@
         {
           "name": "디지털데일리",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WMWJjVkVMV3FDYWJsTDlvdU5pSVlVN09Da3ZTdVVWOGVId1BBMzlDT0h2N3FhbW5ZUExNUVFId05EVUU2WE4xdHZHWU5wbWFKLWNLTmRxRHdWZmpQeGtmQXF6QkU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5929e60c2655",
-      "title": "“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다 - 전자신문",
-      "published": "2026-04-06T21:00:00+00:00",
-      "summary": "“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다&nbsp;&nbsp;전자신문Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zVXdQUkswY1NHcmplTkJhMGUwZGQyU05nT2ktMXE4eGlwNHZLOVdpb0NTdWw4QWdrdldhVVhXZGJlUUVrOFNycmtFWHZTdw?oc=5"
         }
       ]
     },
@@ -434,42 +554,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwa1NsQ1JkWlBvd1B5OGI4NHBlSFdxVGZxTFZnX0c2b0VNNlZvRzEycURGVFBabjlieUlTQ0t6NGNFQmVrS0dRR1Q1bm9UVm5PM1JfMmlwVEVGdmxucVdRdEI3cUhLSDNabjZUcFRURGEtTll3RFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af4eb38c873c",
-      "title": "“잠재 매장량 최대 200억t”…대형 유전 또 발견된 이 나라 - 문화일보",
-      "published": "2026-04-06T12:27:13+00:00",
-      "summary": "“잠재 매장량 최대 200억t”…대형 유전 또 발견된 이 나라&nbsp;&nbsp;문화일보",
-      "sources": [
-        {
-          "name": "문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55UDlaekw5VnVVSVJEZk9QZ2xRODJFTXRqQml3aGlhNUVUblI2eHl1R1dkZTMxRDVHa0ZjNklYMk90NFE4VjVlLWt4Y0poT1BH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "268f83194f81",
-      "title": "임신 중 '이것' 놓쳤더니…\"출생 후 알레르기 취약\" 경고 - 한국경제",
-      "published": "2026-04-06T10:56:54+00:00",
-      "summary": "임신 중 '이것' 놓쳤더니…\"출생 후 알레르기 취약\" 경고&nbsp;&nbsp;한국경제뱃속에서 결정된다…임신 중 비타민D, 아이 알레르기 면역 건강 좌우&nbsp;&nbsp;동아사이언스아이 면역력, 산모 비타민D 상태에 달렸다&nbsp;&nbsp;경기일보임신 중 비타민D 부족하면…\"출생 후 아이 면역 저하·알레르기 취약\"&nbsp;&nbsp;v.daum.net성장기 아이의 알레르기·면역 건강…엄마 배 속 ‘비타민D’ 영향 받는다&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fZ0RxalMteHZ2aXhTLWh3Y0FfemtLMi0tVjBNUHpYMUVUa3dXQnJYWDRSOUFzRUdjNktzYXBPSGJiQ19zVkFsVnNtQk16Nmpqc1VrX3lpTHcxZ9IBVEFVX3lxTFB0Y0diT1JyTVNrQ1FjNF91N3g3Q3lTYS1oQ1BiNUNONVRxOWktRmdlTGdVZG9hQWNyNXBvc1h4S0pldnJjMVVVbjIzNXNSOXlYYWRZZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12a4d255ecfc",
-      "title": "수억 건 의료 기록 기계학습…알츠하이머병 발병 10년 전부터 전조 증상 포착 - 아이티데일리",
-      "published": "2026-04-06T08:01:58+00:00",
-      "summary": "수억 건 의료 기록 기계학습…알츠하이머병 발병 10년 전부터 전조 증상 포착&nbsp;&nbsp;아이티데일리",
-      "sources": [
-        {
-          "name": "아이티데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41S1RnS05NN013bXJ6RkNmbkNMeXhrUktnYlAyYlJNZFNzY09OSFJQdWNra2l2cHRXaXBGbkdwcFV5ZE14S3VLNHZfSkduM3I2ZFhEazJZNGZFcUpENFI5WGQ5ZG9LMGc?oc=5"
         }
       ]
     },
