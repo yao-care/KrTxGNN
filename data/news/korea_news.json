@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-08T19:22:15.530452+00:00",
-  "total_fetched": 84,
-  "unique_count": 84,
-  "health_related_count": 51,
+  "fetched_at": "2026-04-09T02:39:35.260077+00:00",
+  "total_fetched": 77,
+  "unique_count": 77,
+  "health_related_count": 48,
   "news": [
+    {
+      "id": "26ed78aee7d7",
+      "title": "S-암로디핀, 심혈관사건 혜택 시사돼 - mostonline.co.kr",
+      "published": "2026-04-09T01:53:49+00:00",
+      "summary": "S-암로디핀, 심혈관사건 혜택 시사돼&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "mostonline.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RLTZMd1RJbmZRVTg5RzZSTTk5MldUNlRJUkxrcFhYLWxuLXNEYjlvOEt6cWlacUtkRjVDTDNPNFZDR01RbF9pNkFaOUZOcHRnZWotVmhQNHloUjZTYmQ5NEgzZnVkcWJzajZfZ0dFUG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06ff0d0bd2f2",
+      "title": "우성양행 ‘원클린’, 국내 최초 럼피스킨 소독 효력 승인 - 축산신문",
+      "published": "2026-04-09T01:44:40+00:00",
+      "summary": "우성양행 ‘원클린’, 국내 최초 럼피스킨 소독 효력 승인&nbsp;&nbsp;축산신문",
+      "sources": [
+        {
+          "name": "축산신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpbzVldGNVdnZfTG1BM25qLXFxd01kNW9NZ0M2SjN4eUNyRnFZbFdrZzhSelMwNjYxVmd3NjBiMkxXNjF2QXktbk1hM0ZIeFR2WVl5M0t3Zks3NG56UUxqdnFQWFhmVkJy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62c9a34045ef",
+      "title": "중장년 비타민D 부족하면 치매 유발 단백질 쌓인다 - 헬스조선",
+      "published": "2026-04-08T23:20:00+00:00",
+      "summary": "중장년 비타민D 부족하면 치매 유발 단백질 쌓인다&nbsp;&nbsp;헬스조선\"뼈에만 좋은 줄 알았는데\"…꾸준한 비타민 D 섭취, '치매'도 예방&nbsp;&nbsp;뉴시스햇볕 쬘 시간이 없다고?…비타민D 풍부한 슈퍼푸드 7가지&nbsp;&nbsp;네이트젊은 시절 비타민 D 부족하면...실제로 16년 뒤 ‘치매 단백질’ 쌓인다?&nbsp;&nbsp;코메디닷컴수면 망치는 영양제? 비타민D, ‘이 시간’은 피해야&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Qb0syOFFTa3lHRm1BcUtOU3puYXBsZVVydlZvbTNiaEFCQ3hpVkxmOWMwZmlsdWZaTVo3dmExaFJ4eHJQZVV4VlVUM0lxdE5Eb1FLbmtzSC1SR3A4V05aUlVjajBIV3BlS3JkRU5CcFBDUHc5UHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d65c03098110",
+      "title": "[건강 칼럼] 한방에서의 폐 COPD 치료 방법은? - 이데일리",
+      "published": "2026-04-08T21:24:02+00:00",
+      "summary": "[건강 칼럼] 한방에서의 폐 COPD 치료 방법은?&nbsp;&nbsp;이데일리",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2xjUGVwTlpVbWNCT3ZVbmQ0RUhhZzVfckF3M2ZCMklzT05mM3gyREozVTVGOWNkMlZ3R2VEb2U3OGJMN29zOGEtWXl2R3dXcWhCVzg1VE5Fc2wtMUloOWN5Q1lTdWUxbTNzTlhBT2Y1MmJ5RWx4aEhhQkdQTUg2OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "859af7e44b14",
+      "title": "SGLT-2·GLP-1 병용, 당뇨 환자 대장암 21% 줄여 - 팜뉴스",
+      "published": "2026-04-08T20:50:00+00:00",
+      "summary": "SGLT-2·GLP-1 병용, 당뇨 환자 대장암 21% 줄여&nbsp;&nbsp;팜뉴스",
+      "sources": [
+        {
+          "name": "팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SVjRDQWFqOVZYSVpGc09Idkx4NXhLUTA1dnZGemdoc21CR0h1cnVPZmQ5bGdCZm84Q2YxRHNEYmw3NVlGZFluRXc2MlVSbFhCeGFBSzZ3dHA2X0xqV3gzUjhvNjJKdzhxbVV4Rg?oc=5"
+        }
+      ]
+    },
     {
       "id": "5540367bd33c",
       "title": "“암·당뇨 다 잡는다”… 호불호 갈리는 ‘이 음식’ 뭐길래? - 헬스조선",
@@ -42,18 +102,6 @@
       ]
     },
     {
-      "id": "1074e4eb0852",
-      "title": "기억력 지키기 위해 꼭 먹어야 할 생선 5가지 - 헬스조선",
-      "published": "2026-04-08T10:40:00+00:00",
-      "summary": "기억력 지키기 위해 꼭 먹어야 할 생선 5가지&nbsp;&nbsp;헬스조선잎채소 많이 먹는 사람...나이 들면서도 머리 “생생”&nbsp;&nbsp;코메디닷컴[의과학 특집] 당신이 먹는 음식이 뇌를 파괴한다… 신경 퇴행을 부르는 6가지 식단&nbsp;&nbsp;환경감시일보뇌 노화 늦추는 ‘마인드 식단’…“뇌 위축 지연 효과 확인”&nbsp;&nbsp;하이닥\"뇌 망가뜨리는 중\"… 오늘도 먹은 '이 음식', 뭐지?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13bngyWndSQnNwV0MyRkJWVGhDbGZhMHhtSmZJeTE4cWh3ekE4WlpZd3Fjd29uNGlqekRENXJwdTcwby1FcmhOZEo2RldjVVRWYWNuaHJ0U0FXYnhyd1dJSDY0cThCQ05uYU1KSXZfY29aRkVWSGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fd0d3067c9b9",
       "title": "아침에 깨도 한참 침대에...'기상 전환' 늦은 노인, 치매 단백질 더 많았다 - 디멘시아뉴스",
       "published": "2026-04-08T10:26:47+00:00",
@@ -62,18 +110,6 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WVElLMkNrNTl1dFowcTdVVHBONDYwc3VBbkVlSG9VU3RnbnNjQ0w3d2ZWNXZLalhuX2pLeWloM2ljNC0tejFJbkExSGt5T21xcmVHNmVQZmVnYkFfbkR3cUMtdFBSdHFLZkFxY1YtNm53Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "740c2c70741f",
-      "title": "“술만 문제 아니다?”... 간 망치는 음식 주범 - 조세일보",
-      "published": "2026-04-08T09:00:19+00:00",
-      "summary": "“술만 문제 아니다?”... 간 망치는 음식 주범&nbsp;&nbsp;조세일보“간 혹사한다”… 당장 끊으라는 ‘이 음식’, 대체 뭐야?&nbsp;&nbsp;헬스조선술보다 무서운 '초가공식품'…간 건강 지키는 생활 습관은&nbsp;&nbsp;뉴시스“술, ‘이렇게’ 마시면 치명적”… 간 딱딱하게 굳어요&nbsp;&nbsp;코메디닷컴\"술만 문제 아니다?\"…간 망치는 음식 주범&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAycVpITGZHaTItNmw5clRTNlNTbUFJV0ZfTmJYQTlzaUhOTllXUDJYRTYzYkIwb3hUZnhoOUozRG1XZDg2d2xxcEx3NmNkRzYyekdubFRKSHRrMkJad0dr?oc=5"
         }
       ]
     },
@@ -177,7 +213,7 @@
       "id": "06bbb32affeb",
       "title": "“롱코비드, 심혈관 질환 위험도 높여” - 미주한국일보",
       "published": "2026-04-08T03:00:00+00:00",
-      "summary": "“롱코비드, 심혈관 질환 위험도 높여”&nbsp;&nbsp;미주한국일보코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;헬스조선코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;연합뉴스",
+      "summary": "“롱코비드, 심혈관 질환 위험도 높여”&nbsp;&nbsp;미주한국일보[건강포커스] \"코로나19 장기 후유증, 젊은층 심혈관질환 위험도 높인다\"&nbsp;&nbsp;연합뉴스코로나가 무서운 이유… 감염 후 ‘이 병’ 위험 높아져&nbsp;&nbsp;헬스조선코로나 후유증 겪은 여성… \"심혈관 질환 위험 2배 높아\"&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "미주한국일보",
@@ -270,6 +306,18 @@
       ]
     },
     {
+      "id": "8468cb7630bd",
+      "title": "참치통조림ㆍ요거트도 ‘초가공식품’ 주의보 - 식품저널 foodnews",
+      "published": "2026-04-08T00:39:05+00:00",
+      "summary": "참치통조림ㆍ요거트도 ‘초가공식품’ 주의보&nbsp;&nbsp;식품저널 foodnews“건강 간식이라는 착각” 편의점서 ‘이 성분’ 들어간 제품 조심해라&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 초가공식품 섭취와 전립선 비대증 발생 위험의 상관관계 연구&nbsp;&nbsp;네이트건강 식품 과대 광고&nbsp;&nbsp;전라일보초가공식품, 많이 먹을수록 몸은 왜 더 피곤해질까&nbsp;&nbsp;한국투데이",
+      "sources": [
+        {
+          "name": "식품저널 foodnews",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4cWRjVjB4cW90dURCOVEyMTNiRUZ2WVJYVDRrX09oRXBBa0piWnB2TVpUYUxsRzhEam1NWUI3b292MGhfX0pqbDNqR2JUZDNQR3NJOEttWDBqT3hwOGlMNWRYRDMxNmhaOEFwUTdn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c3c834a5564c",
       "title": "[의학칼럼] 혈관 속 ‘기름’ 방치하면 안 되는 이유 - 뉴데일리 경기",
       "published": "2026-04-08T00:38:17+00:00",
@@ -309,7 +357,7 @@
       "id": "2da01ac39798",
       "title": "잘살게 됐더니 더 아프다... 베트남 덮친 '부자병' - 아세안데일리 뉴스",
       "published": "2026-04-07T23:06:17+00:00",
-      "summary": "잘살게 됐더니 더 아프다... 베트남 덮친 '부자병'&nbsp;&nbsp;아세안데일리 뉴스뇌졸중 위험을 5배나 높이는 '숨겨진 주범'.&nbsp;&nbsp;vietnam.vn뇌졸중 및 기타 뇌혈관 질환 위험에 대한 지역 사회 차원의 검진 조치를 강화해야 합니다.&nbsp;&nbsp;vietnam.vn",
+      "summary": "잘살게 됐더니 더 아프다... 베트남 덮친 '부자병'&nbsp;&nbsp;아세안데일리 뉴스뇌졸중 위험을 5배나 높이는 '숨겨진 주범'.&nbsp;&nbsp;Vietnam.vn뇌졸중 및 기타 뇌혈관 질환 위험에 대한 지역 사회 차원의 검진 조치를 강화해야 합니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "아세안데일리 뉴스",
@@ -330,25 +378,13 @@
       ]
     },
     {
-      "id": "2dc7bb5c2c8c",
-      "title": "“건강 간식이라는 착각” 편의점서 ‘이 성분’ 들어간 제품 조심해라 - 헬스조선",
-      "published": "2026-04-07T22:40:00+00:00",
-      "summary": "“건강 간식이라는 착각” 편의점서 ‘이 성분’ 들어간 제품 조심해라&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 초가공식품 섭취와 전립선 비대증 발생 위험의 상관관계 연구&nbsp;&nbsp;네이트초가공식품, 많이 먹을수록 몸은 왜 더 피곤해질까&nbsp;&nbsp;한국투데이초가공식품, 남성 정자 건강에 치명적 영향&nbsp;&nbsp;brunch.co.kr소시지·햄 등 초가공식품, 전립선 비대증 위험 높여&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3QTJKT196VmdYZkdfa19FSlFiaTVPcUJkRC10YVk0MTVsRHlWU1cyWjQzZHUzVG9aTUxCZTNSRHp1eXYtZl8xR2VZWUN6dEh0TmZ6XzlXaDFfY3FBLUlsNUZINjBWV1dPUV9KbnFaaUZKYkYyeWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e932496cf50a",
-      "title": "메트포르민, 운동 어려운 전립선암 환자 체중 증가 막는다 - pharmnews.com",
+      "id": "a4404b7b743b",
+      "title": "메트포르민, 운동 어려운 전립선암 환자 체중 증가 막는다 - 팜뉴스",
       "published": "2026-04-07T20:58:00+00:00",
-      "summary": "메트포르민, 운동 어려운 전립선암 환자 체중 증가 막는다&nbsp;&nbsp;pharmnews.comGoogle 뉴스에서 전체 콘텐츠 보기",
+      "summary": "메트포르민, 운동 어려운 전립선암 환자 체중 증가 막는다&nbsp;&nbsp;팜뉴스Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "pharmnews.com",
+          "name": "팜뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xeERWQ2VxcHM0bmFPQ0V2WWdUMFpMRVJYU0RyWHo2V2hsSWJyR3QybGUyRFhfa3Y4NGdzVDZPNVBSOHB3WDk4X25XSml0ZVY4NDVBMTNrVG1tNHVFamZjN1NYY2RLVGh6cG1YRg?oc=5"
         }
       ]
@@ -366,22 +402,10 @@
       ]
     },
     {
-      "id": "5132d11e6e18",
-      "title": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\" - AI타임스",
-      "published": "2026-04-07T20:52:07+00:00",
-      "summary": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\"&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aSmJJZFFvbGg3RWRKOFJYYXhEa3VGOU5ZMWJVUGxKQWVsa294RC1uWFZGQVJ0cEJyWl9peVJoV3VVWUJTRDN1QlBoVl9GWmk0ZE5uN1pmNGZEekZjSFljenhJRjdhcHJld1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "037b02680c2e",
       "title": "\"‘이 증상’ 겪었다면 곧장 병원가라\"...뇌가 보내는 '마지막 경고', 뭐길래 [헬스톡] - 파이낸셜뉴스",
       "published": "2026-04-07T19:40:00+00:00",
-      "summary": "\"‘이 증상’ 겪었다면 곧장 병원가라\"...뇌가 보내는 '마지막 경고', 뭐길래 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스\"갑자기 힘 빠지거나 말이 어눌해지면\"…'일시적 뇌졸증' 의심해야&nbsp;&nbsp;뉴시스“몇 분 지나면 괜찮다?”…미니 뇌졸중, 90일 안에 터진다 [바디플랜]&nbsp;&nbsp;동아일보\"통증 사라져도 위험은 그대로\"…'이 증상' 있으면 곧장 병원으로&nbsp;&nbsp;아시아경제\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;bokuennews.com",
+      "summary": "\"‘이 증상’ 겪었다면 곧장 병원가라\"...뇌가 보내는 '마지막 경고', 뭐길래 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스\"갑자기 힘 빠지거나 말이 어눌해지면\"…'일시적 뇌졸증' 의심해야&nbsp;&nbsp;뉴시스“몇 분 지나면 괜찮다?”…미니 뇌졸중, 90일 안에 터진다 [바디플랜]&nbsp;&nbsp;동아일보\"통증 사라져도 위험은 그대로\"…'이 증상' 있으면 곧장 병원으로&nbsp;&nbsp;아시아경제\"뇌졸중 전조 놓치면 치명적\"… '경동맥 협착증' 조기발견 중요&nbsp;&nbsp;보건신문",
       "sources": [
         {
           "name": "파이낸셜뉴스",
@@ -474,6 +498,18 @@
       ]
     },
     {
+      "id": "3ca940526222",
+      "title": "버들개지 날리기 시작! 과학적 대처법→--건강 - 인민넷",
+      "published": "2026-04-07T06:01:00+00:00",
+      "summary": "버들개지 날리기 시작! 과학적 대처법→--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80V0d4RU5fWHZWd1NiNWJOY3hkTEVmZEdfWkpwRmdQWE9PcWZYV1hTYzd5MDhFQk85Smo3Q0lEbC1NT3dRcTZ4UURJLUVuaFR1dWlxVDg0NFNwZDF3WTQ3dkFTTmVwWEd0Z2JqSXF3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "744ba1e88ed7",
       "title": "당뇨병 환자, 심방세동에서 안전한가? - 엠디저널",
       "published": "2026-04-07T05:41:16+00:00",
@@ -489,7 +525,7 @@
       "id": "6cf9636d96bc",
       "title": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과 - 하이닥",
       "published": "2026-04-07T03:30:00+00:00",
-      "summary": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과&nbsp;&nbsp;하이닥“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다&nbsp;&nbsp;전자신문“독감 주사의 반전” 고용량 백신 맞았을 뿐인데 치매 위험 절반 ‘뚝’&nbsp;&nbsp;insight.co.kr독감 예방 접종, 알츠하이머 위험 낮춘다... 고용량 백신 효과 주목&nbsp;&nbsp;careyounews.org“독감 백신 맞았을 뿐인데 치매 위험 ‘뚝’”…65세 이상, 꼭 맞으세요 [라이프]&nbsp;&nbsp;twig24.com",
+      "summary": "독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과&nbsp;&nbsp;하이닥“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다&nbsp;&nbsp;전자신문“독감 주사의 반전” 고용량 백신 맞았을 뿐인데 치매 위험 절반 ‘뚝’&nbsp;&nbsp;insight.co.kr독감 예방 접종, 알츠하이머 위험 낮춘다... 고용량 백신 효과 주목&nbsp;&nbsp;캐어유 뉴스“독감 백신 맞았을 뿐인데 치매 위험 ‘뚝’”…65세 이상, 꼭 맞으세요 [라이프]&nbsp;&nbsp;twig24.com",
       "sources": [
         {
           "name": "하이닥",
@@ -522,30 +558,6 @@
       ]
     },
     {
-      "id": "627df9375ad1",
-      "title": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\" - bokuennews.com",
-      "published": "2026-04-07T01:59:45+00:00",
-      "summary": "\"당뇨 여성, 가임기간 길수록 치매 위험 낮다\"&nbsp;&nbsp;bokuennews.com당뇨 깊어질수록 치매 위험 최대 2.3배…여성은 ‘가임 기간’이 보호막 [건강+]&nbsp;&nbsp;v.daum.net2형 당뇨병 여성, 가임기간 길수록 치매 위험 낮아&nbsp;&nbsp;경향신문\"2형당뇨 여성, 초경∼폐경 기간 길수록 치매 위험 ↓\"&nbsp;&nbsp;연합뉴스폐경과 치매의 상관관계… “가임기간 길면 치매 위험 낮아진다”&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "bokuennews.com",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1SllXV1BSc20tenJReEpjQVdPNlBBenVYanpwN0N6bWhiMFNhSVhEM2xjUlpMcFRESWVWVUV1TEV4WHFFRTcwUDZ6Q1BMZkU2dDM4Smk0RndrVEgzeU5ULWtRQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0849b2606bad",
-      "title": "만성림프구성백혈병 환자 피부암 위험 일반인 2배 - 메디칼트리뷴",
-      "published": "2026-04-06T23:38:15+00:00",
-      "summary": "만성림프구성백혈병 환자 피부암 위험 일반인 2배&nbsp;&nbsp;메디칼트리뷴",
-      "sources": [
-        {
-          "name": "메디칼트리뷴",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxRXhzcXBPdUFvZWhmNlJoVDZReWl5c2RpLVhsdk1DQUFoVXhOTFpWWXZEYXNfcl9IWXVOeWZnWkxDTXpzcVY2bkdwSGJhcXZ2QkNONjlyUmllVkZLc1ZjVldyMGlFRXA3TW9ZN3FPVWx5b1U2QnfSAXpBVV95cUxQN3BlZ2VUUEw2UmZVbkFwQXBCZlZld1VMbUdKV0RBdWJSSkhGU1BmcE1EcURRaFhnVGpGcXpqLXF0WWlzX0lvaThWM0lYZzRfUF9pVjREcFFWZGc4VFVQVnRBa2l3b3Q2N1RGVWdUc3otTHNwR1BvaEJnQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2945116f4ed0",
       "title": "“젬마4, 딥시크 충격 못지 않다”…다시 고개드는 ‘자체 AI 개발 무용론’ - 디지털데일리",
       "published": "2026-04-06T21:10:13+00:00",
@@ -558,30 +570,6 @@
       ]
     },
     {
-      "id": "d2944962d80b",
-      "title": "자폐와 알츠하이머, 같은 유전자 148개 공유…\"두 질환은 연결돼 있다\" - 시애틀코리안데일리",
-      "published": "2026-04-06T19:27:38+00:00",
-      "summary": "자폐와 알츠하이머, 같은 유전자 148개 공유…\"두 질환은 연결돼 있다\"&nbsp;&nbsp;시애틀코리안데일리",
-      "sources": [
-        {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCa2p4ckhMMFRJUHV5U3U3enhHVVlia21UejE0Rzh2N3hxeGdKRFpYYmdrcTJTSDhDN2k2SXNvY25YMEdRdlJqYjN5QUNuMi14cmhpRTdsNWowN0pxZVIydFZZbk5TNjJkVExiZTBQc3I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "17de50a47c70",
-      "title": "[임채경의 약식동원]#27 \"신이 내린 황금빛 슈퍼푸드, 강황!\" - 이로운뉴스",
-      "published": "2026-04-06T19:25:55+00:00",
-      "summary": "[임채경의 약식동원]#27 \"신이 내린 황금빛 슈퍼푸드, 강황!\"&nbsp;&nbsp;이로운뉴스카레 먹으면 공포 기억이 약해진다고? [식탐]&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "이로운뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYZUFEWnhuRUtFNk1ndHphTlppajJoSVVZLW1PeDdLMUppZzRLcUNfRnhlUXgtVzUyNFUtUkFSbDdDWkVHX3NXcVZTZlNGcG8xSk9tT1VLRUJfdU4zNXBXZlhGT3QtRzQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4a0bc406b291",
       "title": "[단독] 피지컬 AI 월드모델, LG·마음AI 컨소 개발 유력 - 전자신문",
       "published": "2026-04-06T05:15:35+00:00",
@@ -590,30 +578,6 @@
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LVG5DVXluQk4wWUF5RnJjQ2xGcllSMi1uZmlyT1lua0RFQ3NsVGdEUW5NN285OG5TTEltTVQ2c1h5eW1tbWhrcUJtQmQ0UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57e26b21eba8",
-      "title": "\"국립군사박물관 없는 대한민국…국방연구단지도 조성하자\" - 지디넷코리아",
-      "published": "2026-04-05T23:00:04+00:00",
-      "summary": "\"국립군사박물관 없는 대한민국…국방연구단지도 조성하자\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ja3JNclJYaDNDQzRUZk1FSlk2aWZDRGRMMnNUaFFYaV9fNVpaUG1IVXg4YUNYaXFrSzk4aFhtRUhlSUlUSWh3SkJ2YUhGbHpHQ1BLX09n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be93efd0fa24",
-      "title": "수소·실리카 생산 신공정 개발…\"기존 대비 수천배 저렴\" - 지디넷코리아",
-      "published": "2026-04-05T23:00:03+00:00",
-      "summary": "수소·실리카 생산 신공정 개발…\"기존 대비 수천배 저렴\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lcEFBbHdzbzNXMmRSTnRsbTJjUlNBSk1UZE95WjJ6S3JmcGpMY2dKTV9ONE0xOXJQVF9OZXhUVnJlRWIxYk5LQnlfRzNGa1drRS0zdzJ3?oc=5"
         }
       ]
     }
