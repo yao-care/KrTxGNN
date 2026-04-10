@@ -1,19 +1,79 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-10T02:51:21.079172+00:00",
-  "total_fetched": 93,
-  "unique_count": 93,
-  "health_related_count": 51,
+  "fetched_at": "2026-04-10T07:47:41.621167+00:00",
+  "total_fetched": 101,
+  "unique_count": 101,
+  "health_related_count": 52,
   "news": [
+    {
+      "id": "1c5f24bede66",
+      "title": "“이어폰만 있으면 심장 분석 가능”…무슨 원리길래? - 코메디닷컴",
+      "published": "2026-04-10T07:02:00+00:00",
+      "summary": "“이어폰만 있으면 심장 분석 가능”…무슨 원리길래?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zRFhyQ3hQaWZLV0twS2pyanh0cmM4a245bS12MmtFamxZTEpQajNsM1BWelRIeEtZSWF2Y2xCVTlOUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "508054ec1cde",
+      "title": "MK Pick | 애경산업, 차병원과 피부 마이크로바이옴 연구 SCI급 학술지 게재 - 매일경제",
+      "published": "2026-04-10T05:14:00+00:00",
+      "summary": "MK Pick | 애경산업, 차병원과 피부 마이크로바이옴 연구 SCI급 학술지 게재&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSY2p1RFI2VnRwRWxLbUlaWUdmV05OZVVDQzFheHRPejJmMV96NE9CMmJHMjdmVEdYNFYwWWZuRmhVRkhVZU02cWlVZzZBOTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2c46ead5340",
+      "title": "‘혹성탈출’ 같은 침팬지 내전... 30년 연구가 밝혀낸 분열 이유 - 조선일보",
+      "published": "2026-04-10T05:06:00+00:00",
+      "summary": "‘혹성탈출’ 같은 침팬지 내전... 30년 연구가 밝혀낸 분열 이유&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZVRVY2x4V2Z0MHZubzk4bjQ2WWYta2w4QWh0dkVuM1VOT0Y1bVl1TF9aejlkd3pJbTVtMTlFTl9ER2IzdUZ4b3psNXkxOF9fcW9zTzB4M2RCUHpGalVTS3VYWVFvb3lTZjJkcmRXV21oT0kwUVJxczZ3alAwVW1qLWV6c9IBlwFBVV95cUxPMWl2bVhDMV82UTJXVzhJLTlFbGhTY21nUXlHR05xd0NOSWV5U2pnSC1JZ0czaGd1YzkyU3dYeXZBUlczVXNSelBmQUxnS09wc1dNQlg5WEJSTFc4clRja3o4aDlac1FFRzY3UV92b0JpcWNPb0lPb2p4b3JIeUZQU3cxa3FVc21jQWJjYVZ3OVppb3VLTnd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d3d9dedab2a",
+      "title": "자폐·뇌전증 치료 새 길 열리나... 실험실 ‘미니 뇌’로 인간 뇌 발달 재현 - 하이닥",
+      "published": "2026-04-10T04:30:00+00:00",
+      "summary": "자폐·뇌전증 치료 새 길 열리나... 실험실 ‘미니 뇌’로 인간 뇌 발달 재현&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02cW9OVkk0WlJpU2ZUZ1NpZzMtbzBtRHlaaHplYjVmYkxxM1B5bDgzaTZHX3VITUJKc29COGxGdGRQaG8ya00tQ0IxYWlLU01aU1RkQjRWNHBCa25KeXp2bXBNN0RxT2Z1SXc?oc=5"
+        }
+      ]
+    },
     {
       "id": "30ef7bf27317",
       "title": "“운동 안 하고, 하루 8시간 앉아 있으면”… 치매 위험 27% 증가 - 하이닥",
       "published": "2026-04-10T02:30:00+00:00",
-      "summary": "“운동 안 하고, 하루 8시간 앉아 있으면”… 치매 위험 27% 증가&nbsp;&nbsp;하이닥\"마음가짐 하나로 치매 막는다\"…낙관성 높을수록 발병 위험 15%↓&nbsp;&nbsp;뉴시스“헬스장서 땀 뻘뻘 흘려봤자 소용없다”…혈당 잡으려면 ‘이렇게’ 하라는데 [헬시타임]&nbsp;&nbsp;서울경제“숨이 찰 정도로 움직여라”…8가지 만성질환 위험 낮추는 격렬한 운동은?&nbsp;&nbsp;레이디경향적절한 운동과 충분한 수면, 노년기 치매 예방에 핵심&nbsp;&nbsp;네이트",
+      "summary": "“운동 안 하고, 하루 8시간 앉아 있으면”… 치매 위험 27% 증가&nbsp;&nbsp;하이닥“2~3층까진 엘베 자제합시다”...수년간 반복하면 치매 위험 확 낮춘다&nbsp;&nbsp;v.daum.net“헬스장서 땀 뻘뻘 흘려봤자 소용없다”…혈당 잡으려면 ‘이렇게’ 하라는데 [헬시타임]&nbsp;&nbsp;서울경제“숨이 찰 정도로 움직여라”…8가지 만성질환 위험 낮추는 격렬한 운동은?&nbsp;&nbsp;레이디경향\"마음가짐 하나로 치매 막는다\"…낙관성 높을수록 발병 위험 15%↓&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CTEpfSklGeUp6VjlhNzk3UkZGTGQwRDJNR0c0Mml1elpfT0Z6ZUJPSUN5SEJDVF9MVldiTi1Pc0lVOW56ZGwyYUNPVnN1N3A0djFlYUdIdWc4aXJSdkp0VHNvdlhwODEwcVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "864dd7fc1400",
+      "title": "“임신 중 산모 비타민D 상태가 아동기 면역 좌우” > 뉴스 - 한의신문",
+      "published": "2026-04-10T02:20:00+00:00",
+      "summary": "“임신 중 산모 비타민D 상태가 아동기 면역 좌우” > 뉴스&nbsp;&nbsp;한의신문이명진 (National Institutes of Health) | 한빛사 인터뷰 > 한빛사&nbsp;&nbsp;BRIC뱃속에서 결정된다…임신 중 비타민D, 아이 알레르기 면역 건강 좌우&nbsp;&nbsp;동아사이언스임신 중 '이것' 놓쳤더니…\"출생 후 알레르기 취약\" 경고&nbsp;&nbsp;한국경제임신 중 일광욕 왜 중요할까…“아이 알레르기·면역 달라져”&nbsp;&nbsp;더스쿠프",
+      "sources": [
+        {
+          "name": "한의신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81WU5QM2FtdmczaHlianhRU3EtRGdpWmtzbE5LTEdoMUc0bVVkQzVkeVdtbExVMUczVGZLQ0JtbnBOWWtVQ1phREJHcUJDVzJLMkpZMnBmV24zY1dBT3BlSm9vOTNxdXdxNzdNV2xwRkZkdw?oc=5"
         }
       ]
     },
@@ -38,6 +98,18 @@
         {
           "name": "현대불교",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03MDV6WHJsa0VfZml5SjBZOTd4aEFnMjFacWZpNk4xZmx1T2xkVTl5YzVzcmxRZnEtTTR4WnhHTjM2LUY2dXFhNm02akdoaVhBUmRFYU0xaWhRNTJfZmZEXzB6NU5fRk9CM2Y3RWhnaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe0a689e3efd",
+      "title": "운동하는데 오히려 살이 찌면...‘이것’ 올려야 체중 감량 효과 얻는다 - 코메디닷컴",
+      "published": "2026-04-10T01:07:00+00:00",
+      "summary": "운동하는데 오히려 살이 찌면...‘이것’ 올려야 체중 감량 효과 얻는다&nbsp;&nbsp;코메디닷컴\"헬스장 매일 가도 체중은 그대로\"…'이것' 놓치면 헬스도 소용없어&nbsp;&nbsp;네이트호르몬? 환경? 내가 음식 당기는 이유 알면 살 빼는 데 도움&nbsp;&nbsp;헬스조선다이어트 필수, 칼로리 계산법이 사실 소용 없는 일이라고?&nbsp;&nbsp;cosmopolitan.co.kr다이어트 10조 시장, 성공은 20% 미만…\"몸이 아니라 삶의 방식 바꿔야\"&nbsp;&nbsp;라이프인",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBXQ25RVS1EaldtcFFVZEotVlVkN0hjb2xyZ2ZxeG54NWlVUDVZZnV5N0F4b0VRWWRtZUg1R3VUb0dQQQ?oc=5"
         }
       ]
     },
@@ -74,6 +146,18 @@
         {
           "name": "헬스코리아뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nMHJxX3Ywd09ZRkhVcWV1Z1BuemoyVUNUZlVld1BmZzkwOWc3ampJYng0T1U4YzJ3M1VPcEJOX1AtQ1JvY284eW9lZlpfamhKQXVwTEtVbE43NlJSNkRaSE1NRWZXclU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29a38214e9ab",
+      "title": "매일 ‘블루베리’ 먹으면 나타나는 놀라운 변화… 항산화, 심장 건강까지? - 하이닥",
+      "published": "2026-04-10T00:00:00+00:00",
+      "summary": "매일 ‘블루베리’ 먹으면 나타나는 놀라운 변화… 항산화, 심장 건강까지?&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xdFp5RV9qaHhzLUNQdkFYdHkzQnpqZ1Z2ZzFFR2FfclhpdGs5bTRRVnpvdnBxWjhaZFVFRzZRZnBQMVR0NDRwSmlnM2pQRlY4ZHNHVlQ5bHhPNVhQYzJWTjhjaDRlWW1ZZFE?oc=5"
         }
       ]
     },
@@ -122,6 +206,18 @@
         {
           "name": "세계일보",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jV3ZmYWVWTmVmN2lxTXZtTTFOdThWVmZCVjRsenZRSnUxTzd3d1k3anY1YVZZRHZzSUZKTFlLR056TnZ4dS1rRTVOaGFOdVotX1o4SUxvUEXSAVRBVV95cUxPNHdfUjl1bTBqb0RkSVJNSUNNY1ZtU3h6OWdJMkRXcVRycWkzY2F3S1pJSE1CckZsV2dTRXRSOFhGSjZaZjlUUG95M1RnOTNqNWotZG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cdc2132ae67b",
+      "title": "“우주 27% 차지 암흑물질, 하나 아닌 두 가지 형태로 존재” - 동아일보",
+      "published": "2026-04-09T19:30:00+00:00",
+      "summary": "“우주 27% 차지 암흑물질, 하나 아닌 두 가지 형태로 존재”&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LdWo2dUZuSUxZMzRQMjhqVlVkcXU0b3d3Vlp6ZUhISjlnWVFNR2RTeW1DQnNWODN0M1gzZTJscG5qZVFTVHFrbXg1UGJ2ejF1WjlCNXZtSlFwb05FNFpUREpRdDJobzF5VGtBUzRQONIBZkFVX3lxTFBGa0FCdjVzcFprNEVsblVsNGg3X3Qxckw4X1Z5aTlGUVoyaE1TbUVhVGoxTHhCb3BuREVweHY0MXNvbjktMzR3UHRFeERHcmZFY2E2aVdBaW82VU5qMTNOMzJlamVRUQ?oc=5"
         }
       ]
     },
@@ -198,26 +294,14 @@
       ]
     },
     {
-      "id": "0cbdd0c19a26",
-      "title": "실험실 배양 '미니 뇌'로 개발한 뇌질환 치료법 올해 첫 임상 - 동아사이언스",
-      "published": "2026-04-09T08:45:00+00:00",
-      "summary": "실험실 배양 '미니 뇌'로 개발한 뇌질환 치료법 올해 첫 임상&nbsp;&nbsp;동아사이언스",
+      "id": "73647ed4128b",
+      "title": "\"바이오 R&D AI 쏠림 우려…모든 연구에 AI 필요한 건 아냐\" - 동아사이언스",
+      "published": "2026-04-09T09:07:00+00:00",
+      "summary": "\"바이오 R&amp;D AI 쏠림 우려…모든 연구에 AI 필요한 건 아냐\"&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByN1RBUHBYcGN4dnJLcXVXVEJ1NFZUdlNDZWhSNFk5VDI4SlJLbURlQVVpeVZqSVlQeTkxb3JwNHl3ZlJ1WUhPbldoNWJLQmFRV3llUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23d0525b66e2",
-      "title": "코벳, '젠바디 G20v' 공식 출시…동물병원 진료 혁신 - 네이트",
-      "published": "2026-04-09T07:58:00+00:00",
-      "summary": "코벳, '젠바디 G20v' 공식 출시…동물병원 진료 혁신&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MWG5pbGhlekFPeWl1YnpEZlFpcXhHTS1zbG1pTHFxR29WZ3pkNW84WV9JUl9FOFByWThHUkZuRUMwTTQxVDA0RTVpaDltUTNmU3pZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vQkwxby1iZFJUeUU2cDJzaWFMN3hVZHJILTNqZjFESTJmRkNfZmJEVmpidGlBV0FGXzFwdTNUVE4xN2VVbWVKREtDNmNYaDA5a2E0dg?oc=5"
         }
       ]
     },
@@ -498,18 +582,6 @@
       ]
     },
     {
-      "id": "b8b568786332",
-      "title": "논리적 비약의 위력 [김민형의 여담] - 한겨레",
-      "published": "2026-04-08T10:28:00+00:00",
-      "summary": "논리적 비약의 위력 [김민형의 여담]&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90ZzBxYlZGUUhrTG5rSlh3QXE1djEwUGdaQWNPLWMwSmJkVTZrWms4cl9Cam9BQmtUN2dWcGlxTFF2eVFLUUJhel9wSnpYaHBoYnVXMklVVjBSbWxtQ3VFV3I4VHcyZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fd0d3067c9b9",
       "title": "아침에 깨도 한참 침대에...'기상 전환' 늦은 노인, 치매 단백질 더 많았다 - 디멘시아뉴스",
       "published": "2026-04-08T10:26:47+00:00",
@@ -546,74 +618,14 @@
       ]
     },
     {
-      "id": "9913334679ef",
-      "title": "중증 우울증 환자에 환각 물질 투여했더니...2주 만에 우울 지수 감소 - 하이닥",
-      "published": "2026-04-08T03:30:00+00:00",
-      "summary": "중증 우울증 환자에 환각 물질 투여했더니...2주 만에 우울 지수 감소&nbsp;&nbsp;하이닥",
+      "id": "fdb0af77bea2",
+      "title": "만성 스트레스, 우울증 유발 뇌 회로 발견 - 브랜드경제신문",
+      "published": "2026-04-08T07:38:18+00:00",
+      "summary": "만성 스트레스, 우울증 유발 뇌 회로 발견&nbsp;&nbsp;브랜드경제신문",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02LVpYRXY1T3VlX2NVbGpJVzdTVTJRajVrNnVpY1RsYldUa1o2VDFkY29jSW1tX2FBNjBUSWt0ejhXODBGUENhVExPUFJJMW0tdnFzc2NoT0tqUWo3NTdPU2Q0N2ktSndTemc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "633ecbd23459",
-      "title": "항생제 투약 후 장내 미생물의 변화 '4~8 년간 지속' - 후생신보",
-      "published": "2026-04-08T03:29:00+00:00",
-      "summary": "항생제 투약 후 장내 미생물의 변화 '4~8 년간 지속'&nbsp;&nbsp;후생신보",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAtMWNhTGYxcDcxWVloSk1vRHhkRmVndWVNNm1hU2tLQ1EwYndSUlgxSVlnaEc4bjBJS3NVeTlUc0U2Q0Zz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "06bbb32affeb",
-      "title": "“롱코비드, 심혈관 질환 위험도 높여” - 미주한국일보",
-      "published": "2026-04-08T03:00:00+00:00",
-      "summary": "“롱코비드, 심혈관 질환 위험도 높여”&nbsp;&nbsp;미주한국일보",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsUEF1cU44LXJtcUxnQnQtTklJZGx0VHlxNzlGTUgybXZnVy16ejQ4Y1Zqa3g1UWl6OHl5SUZ0TlVLMnFYTDBqU3kxNkV3VGxQTFRr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9855761d2e00",
-      "title": "유럽 기대수명 꺾일 때 선방한 '노르웨이'… \"국민 건강 지킨 비결은?\" - 하이닥",
-      "published": "2026-04-08T02:30:00+00:00",
-      "summary": "유럽 기대수명 꺾일 때 선방한 '노르웨이'… \"국민 건강 지킨 비결은?\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16b0s5UTV4SFl0VTlTanVRQmtwOHNnU2xwYU5hWHdsREVqWHpIbDd6ODJ1UHdZXzhzVmF5bEVSZVlXQ1JqaHE0VnQ5T05pZ25aMTFITjVmNENHeHgyQ3dYSzZkbXl5Q2RqRHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01246a1f6bea",
-      "title": "MCI 단계에서 은행엽제제의 AD 예방치료 가능성 봤다 - mostonline.co.kr",
-      "published": "2026-04-08T02:26:37+00:00",
-      "summary": "MCI 단계에서 은행엽제제의 AD 예방치료 가능성 봤다&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMZVlWWFZxVkdtcjV4RmdNTW5oaTBtNVpqN1hiUEdwVFR3OVZpNkNnZE1zWDh1bW5hYUVsMFhFVFhwVW9XVFFJRFJsTlFVYTJ0elo3RkRzSEk2LVNLeW5zRUhEZjd5MTZIVGJkeEliSS0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b40144109bf",
-      "title": "세계에서 제일 큰 주먹찌르개 우리나라에서 발견됐어요! - 조선일보",
-      "published": "2026-04-07T07:56:00+00:00",
-      "summary": "세계에서 제일 큰 주먹찌르개 우리나라에서 발견됐어요!&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbTYtQmFRUkgya1Z0ckFIM0VxckFlRkNoUVVHRmVnWXNOTTJHWkhNM2ExZmdMb2Y4VkxaWGJsdGNHNVBCN3lZZjNaTS12TXNDVUJJWUJ2MHliNGl6aWQwTEJqR0VaOTUyWkdocWxQMTB3VVhFb1pCWmhOMENfSHNlS3VHZw?oc=5"
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uUEl3M3Rjdk00VkpfRGRlczdtclBsSndFUjBaT0Nsb0RHZkxGRThSZHlZemhXeGFVM0xiTWVDSElLWU5rMHpNTXZoMTk?oc=5"
         }
       ]
     }
