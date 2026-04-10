@@ -1,10 +1,94 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-10T07:47:41.621167+00:00",
+  "fetched_at": "2026-04-10T13:19:09.293349+00:00",
   "total_fetched": 101,
   "unique_count": 101,
-  "health_related_count": 52,
+  "health_related_count": 54,
   "news": [
+    {
+      "id": "9b461c6dbdb7",
+      "title": "알코올 소독에도 버티는 ‘아데노바이러스‘ 주의…호흡기 넘어 전신 감염 - 하이닥",
+      "published": "2026-04-10T12:00:00+00:00",
+      "summary": "알코올 소독에도 버티는 ‘아데노바이러스‘ 주의…호흡기 넘어 전신 감염&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YLTJ1ZHBicjNfQzRZWkxGMlVOdlNzSnBnaHRkYWNiTmZBLUs5N3hFV01zWFNyYnNfcXltRWpDX0Jnc2pWYTZ2dmptMkxfSEZIZGktZE9xd3RFMGduWFBsb0tSOUh0QjY0UXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d9566b9c547",
+      "title": "감염병 앓은 소아, 뇌졸중 위험 2.5배↑… “호흡기 감염이 최다, 코 점막 사수해야” - 하이닥",
+      "published": "2026-04-10T11:00:00+00:00",
+      "summary": "감염병 앓은 소아, 뇌졸중 위험 2.5배↑… “호흡기 감염이 최다, 코 점막 사수해야”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SdlMxVVFKU0QtTmo2WVR1OWlseEM3Wk1laHF2SFlMc1VlRXR2cFYybUlBYXE1Mk5jdHpGejRSRjgtWVhlQWtTVXJJWjNoMUlhcHFQdHJXQW9tNWd0c05TRWtINXE5ekl5Vnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b09643df2e0",
+      "title": "\"약관은 그대로, 지침만 변경\"...KB손보, '대장점막내암 보상운영' 소비자 혼란 우려 - 중앙이코노미뉴스",
+      "published": "2026-04-10T10:35:57+00:00",
+      "summary": "\"약관은 그대로, 지침만 변경\"...KB손보, '대장점막내암 보상운영' 소비자 혼란 우려&nbsp;&nbsp;중앙이코노미뉴스",
+      "sources": [
+        {
+          "name": "중앙이코노미뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQMlFXdGtCRGhSaGllMkppVE5Gc0pTSWozYnFjSHpYS3A2TDJFUlUtY1ZkLU9vS2wyMXoxQUJFYm9BV2ZPM3lyMnlCMTZySUlxUlk0a1luTExxWmJ4eXBpb1I0dTVfVUtKRnJVdTZTeTRWQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4aeb73d41e4b",
+      "title": "‘단 한번 주사로 당뇨를?’…근육이 인슐린 생성 치료법 임상 - 문화일보",
+      "published": "2026-04-10T09:27:45+00:00",
+      "summary": "‘단 한번 주사로 당뇨를?’…근육이 인슐린 생성 치료법 임상&nbsp;&nbsp;문화일보",
+      "sources": [
+        {
+          "name": "문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CZWNIZEF2OVZMbzFwdmlVWU0wazl2ZnlLbWJ1WTBlbmpHRVo5VEhOeTE4bGZXdS1xZnl4WExOdERXRThZdWlKUk1rQi1PQjZx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e53c8fe9808a",
+      "title": "\"긍정적으로 살수록 치매 덜 걸린다\"...美 하버드대, 14년 추적 결과 - 디멘시아뉴스",
+      "published": "2026-04-10T08:44:04+00:00",
+      "summary": "\"긍정적으로 살수록 치매 덜 걸린다\"...美 하버드대, 14년 추적 결과&nbsp;&nbsp;디멘시아뉴스\"마음가짐 하나로 치매 막는다\"…낙관성 높을수록 발병 위험 15%↓&nbsp;&nbsp;뉴시스앉아있는 1시간 늘 때마다…기대 수명 22분 줄어든다?&nbsp;&nbsp;레이디경향[건강365 닥터인사이트]오래 앉아 있을수록 약해지는 코어…통증·체형 변화의 시작&nbsp;&nbsp;이데일리TV사무실에 8시간 앉아 있는 당신, 치매 위험 ‘이만큼’ 올랐다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQzc1b3l0UU9tRHg3VUwwX1gxQmh0aDdUakJlMkVsR1FNdnpYeGVwNDRLZXJpMzlGYUtTT2ZkUjJvZW5wNXVVS1dxNk9jNjBScEFmRWdVMkdNUVVPbV9JeG02NGlzR2xmc2l5ZFJROHlaUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c75613a9a7f9",
+      "title": "청소년 양극성장애 우울삽화의 공격성, 분노 조절을 위한 Lurasidone의 사용 - 메디칼업저버",
+      "published": "2026-04-10T08:32:34+00:00",
+      "summary": "청소년 양극성장애 우울삽화의 공격성, 분노 조절을 위한 Lurasidone의 사용&nbsp;&nbsp;메디칼업저버[정신과약 톺아보기] 양극성 장애 '우울 예방'의 주요 약물&nbsp;&nbsp;약사공론치료저항성부터 재발까지 조현병 치료에 부작용·순응도 고려돼야&nbsp;&nbsp;mostonline.co.kr리얼월드 데이터에서 양극성장애 2형 대상, 루라시돈의 우울증상 개선효과 시사돼&nbsp;&nbsp;mostonline.co.kr“조현병 약물치료, 장기 유지전략과 기능 회복으로 확장…루라시돈의 임상적 의미”&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VUlBfN05EOEN2VGFGZEpxaUtCZmRxd2hXcVVldVVlWVo4VWE3eDFuRmpveU83ODhOaUlXMUFKYVA1VHR3bHd5RWJwelN5b1pmRGtNcThMN0xSclU4N19Ja3VnVEJxZzdzNzdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ae839846df5",
+      "title": "이 두가지 혈액형, 심뇌혈관질환과 당뇨병 위험 더 높아--건강 - 인민넷",
+      "published": "2026-04-10T07:03:00+00:00",
+      "summary": "이 두가지 혈액형, 심뇌혈관질환과 당뇨병 위험 더 높아--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BbExhTG9ENzhiazNrc2R4Qy0yZXc2NnB5UlgyelZJNHJfQ1VfaF80b19qRkM1ZTR4TXJ5REZPZzlycjdSNThVaWZsSVlQV0pZZnBJZ1VYQ3RDcXQyYkQ4a0tLTnZZVER6LUpfVW53?oc=5"
+        }
+      ]
+    },
     {
       "id": "1c5f24bede66",
       "title": "“이어폰만 있으면 심장 분석 가능”…무슨 원리길래? - 코메디닷컴",
@@ -30,18 +114,6 @@
       ]
     },
     {
-      "id": "d2c46ead5340",
-      "title": "‘혹성탈출’ 같은 침팬지 내전... 30년 연구가 밝혀낸 분열 이유 - 조선일보",
-      "published": "2026-04-10T05:06:00+00:00",
-      "summary": "‘혹성탈출’ 같은 침팬지 내전... 30년 연구가 밝혀낸 분열 이유&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZVRVY2x4V2Z0MHZubzk4bjQ2WWYta2w4QWh0dkVuM1VOT0Y1bVl1TF9aejlkd3pJbTVtMTlFTl9ER2IzdUZ4b3psNXkxOF9fcW9zTzB4M2RCUHpGalVTS3VYWVFvb3lTZjJkcmRXV21oT0kwUVJxczZ3alAwVW1qLWV6c9IBlwFBVV95cUxPMWl2bVhDMV82UTJXVzhJLTlFbGhTY21nUXlHR05xd0NOSWV5U2pnSC1JZ0czaGd1YzkyU3dYeXZBUlczVXNSelBmQUxnS09wc1dNQlg5WEJSTFc4clRja3o4aDlac1FFRzY3UV92b0JpcWNPb0lPb2p4b3JIeUZQU3cxa3FVc21jQWJjYVZ3OVppb3VLTnd3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8d3d9dedab2a",
       "title": "자폐·뇌전증 치료 새 길 열리나... 실험실 ‘미니 뇌’로 인간 뇌 발달 재현 - 하이닥",
       "published": "2026-04-10T04:30:00+00:00",
@@ -54,26 +126,14 @@
       ]
     },
     {
-      "id": "30ef7bf27317",
-      "title": "“운동 안 하고, 하루 8시간 앉아 있으면”… 치매 위험 27% 증가 - 하이닥",
-      "published": "2026-04-10T02:30:00+00:00",
-      "summary": "“운동 안 하고, 하루 8시간 앉아 있으면”… 치매 위험 27% 증가&nbsp;&nbsp;하이닥“2~3층까진 엘베 자제합시다”...수년간 반복하면 치매 위험 확 낮춘다&nbsp;&nbsp;v.daum.net“헬스장서 땀 뻘뻘 흘려봤자 소용없다”…혈당 잡으려면 ‘이렇게’ 하라는데 [헬시타임]&nbsp;&nbsp;서울경제“숨이 찰 정도로 움직여라”…8가지 만성질환 위험 낮추는 격렬한 운동은?&nbsp;&nbsp;레이디경향\"마음가짐 하나로 치매 막는다\"…낙관성 높을수록 발병 위험 15%↓&nbsp;&nbsp;뉴시스",
+      "id": "f26ca163c557",
+      "title": "'치매 단백질 쌓였는데도 정상’ 이유는?…알츠하이머병 해석 새 관점 제시 - 디멘시아뉴스",
+      "published": "2026-04-10T02:38:53+00:00",
+      "summary": "'치매 단백질 쌓였는데도 정상’ 이유는?…알츠하이머병 해석 새 관점 제시&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CTEpfSklGeUp6VjlhNzk3UkZGTGQwRDJNR0c0Mml1elpfT0Z6ZUJPSUN5SEJDVF9MVldiTi1Pc0lVOW56ZGwyYUNPVnN1N3A0djFlYUdIdWc4aXJSdkp0VHNvdlhwODEwcVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "864dd7fc1400",
-      "title": "“임신 중 산모 비타민D 상태가 아동기 면역 좌우” > 뉴스 - 한의신문",
-      "published": "2026-04-10T02:20:00+00:00",
-      "summary": "“임신 중 산모 비타민D 상태가 아동기 면역 좌우” > 뉴스&nbsp;&nbsp;한의신문이명진 (National Institutes of Health) | 한빛사 인터뷰 > 한빛사&nbsp;&nbsp;BRIC뱃속에서 결정된다…임신 중 비타민D, 아이 알레르기 면역 건강 좌우&nbsp;&nbsp;동아사이언스임신 중 '이것' 놓쳤더니…\"출생 후 알레르기 취약\" 경고&nbsp;&nbsp;한국경제임신 중 일광욕 왜 중요할까…“아이 알레르기·면역 달라져”&nbsp;&nbsp;더스쿠프",
-      "sources": [
-        {
-          "name": "한의신문",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81WU5QM2FtdmczaHlianhRU3EtRGdpWmtzbE5LTEdoMUc0bVVkQzVkeVdtbExVMUczVGZLQ0JtbnBOWWtVQ1phREJHcUJDVzJLMkpZMnBmV24zY1dBT3BlSm9vOTNxdXdxNzdNV2xwRkZkdw?oc=5"
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvdXhZMWlfbGhzajh6dWY0X3pNZGthQTZuMm1fVlR0eEJwMHpBT2ZZbmttV1JxYXdvYkxlQ29HSnhwMVNvSm5iSS1jZFM2M09pM3lUWFFOQ29uSnVBVnRKb0lyaTBwQV9yVGNYYi1kSVhXQQ?oc=5"
         }
       ]
     },
@@ -90,38 +150,14 @@
       ]
     },
     {
-      "id": "21fa978b5b74",
-      "title": "[동네약국 사용설명서] 31. 올바른 오메가3 선택, 구조를 알자 - 현대불교",
-      "published": "2026-04-10T01:09:35+00:00",
-      "summary": "[동네약국 사용설명서] 31. 올바른 오메가3 선택, 구조를 알자&nbsp;&nbsp;현대불교",
-      "sources": [
-        {
-          "name": "현대불교",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03MDV6WHJsa0VfZml5SjBZOTd4aEFnMjFacWZpNk4xZmx1T2xkVTl5YzVzcmxRZnEtTTR4WnhHTjM2LUY2dXFhNm02akdoaVhBUmRFYU0xaWhRNTJfZmZEXzB6NU5fRk9CM2Y3RWhnaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fe0a689e3efd",
       "title": "운동하는데 오히려 살이 찌면...‘이것’ 올려야 체중 감량 효과 얻는다 - 코메디닷컴",
       "published": "2026-04-10T01:07:00+00:00",
-      "summary": "운동하는데 오히려 살이 찌면...‘이것’ 올려야 체중 감량 효과 얻는다&nbsp;&nbsp;코메디닷컴\"헬스장 매일 가도 체중은 그대로\"…'이것' 놓치면 헬스도 소용없어&nbsp;&nbsp;네이트호르몬? 환경? 내가 음식 당기는 이유 알면 살 빼는 데 도움&nbsp;&nbsp;헬스조선다이어트 필수, 칼로리 계산법이 사실 소용 없는 일이라고?&nbsp;&nbsp;cosmopolitan.co.kr다이어트 10조 시장, 성공은 20% 미만…\"몸이 아니라 삶의 방식 바꿔야\"&nbsp;&nbsp;라이프인",
+      "summary": "운동하는데 오히려 살이 찌면...‘이것’ 올려야 체중 감량 효과 얻는다&nbsp;&nbsp;코메디닷컴\"적게 먹는데 왜 찔까\"…'고칼로리 다이어트' 상식 뒤집는다&nbsp;&nbsp;네이트호르몬? 환경? 내가 음식 당기는 이유 알면 살 빼는 데 도움&nbsp;&nbsp;헬스조선늘어난 활동량에도 체중 변화 있다면...대사 지표 함께 살펴야&nbsp;&nbsp;livesnews.com다이어트 필수, 칼로리 계산법이 사실 소용 없는 일이라고?&nbsp;&nbsp;cosmopolitan.co.kr",
       "sources": [
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBXQ25RVS1EaldtcFFVZEotVlVkN0hjb2xyZ2ZxeG54NWlVUDVZZnV5N0F4b0VRWWRtZUg1R3VUb0dQQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5944522a8478",
-      "title": "비만약 써도 살 안 빠지는 나, 이유 알았다 - 헬스조선",
-      "published": "2026-04-10T00:22:00+00:00",
-      "summary": "비만약 써도 살 안 빠지는 나, 이유 알았다&nbsp;&nbsp;헬스조선위고비 맞아도 살 안빠지던데…\"문제는 유전자 변이\"&nbsp;&nbsp;v.daum.netGLP-1 부작용 ‘제각각 다양’&nbsp;&nbsp;의학신문GLP-1 다이어트 효과, 여성에서 더 컸다… 남성보다 1.6배↑&nbsp;&nbsp;하이닥GLP-1 비만약 효과·부작용 차이, 유전자가 가른다&nbsp;&nbsp;팜뉴스",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sRm5rd3JRcnlSRGlhRmltakhLUmdSREsya0pXU3EwSnZ3VUU2OWg0RlpVUkZjOHdDZDAweGJ0WmhhQVRFUFNZb1V3REI4Ti1DVTkzaTNrdUhCc3dJZFZoY0Y1YVc2SXpTT19RRkcyR1d5VE9ZTUE?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "1d85b2331894",
       "title": "현대바이오,베트남 뎅기치료제 첫환자 등록..범용 항바이러스 치료제 임상 본격화 - 약업신문",
       "published": "2026-04-09T23:46:00+00:00",
-      "summary": "현대바이오,베트남 뎅기치료제 첫환자 등록..범용 항바이러스 치료제 임상 본격화&nbsp;&nbsp;약업신문현대바이오, 베트남서 뎅기 치료제 '첫 환자 투약'… 글로벌 임상 급물살&nbsp;&nbsp;팜이데일리[바이오스냅] 현대바이오 \"베트남 뎅기 치료제 첫 환자 등록 완료\"&nbsp;&nbsp;v.daum.net\"판 깔렸다\"…현대바이오, '뎅기열 확산' 베트남서 글로벌 임상 돌입&nbsp;&nbsp;네이트현대바이오, 베트남 뎅기 치료제 첫 환자 등록 완료…임상 본격화&nbsp;&nbsp;뉴스1",
+      "summary": "현대바이오,베트남 뎅기치료제 첫환자 등록..범용 항바이러스 치료제 임상 본격화&nbsp;&nbsp;약업신문현대바이오, 베트남서 뎅기 치료제 '첫 환자 투약'… 글로벌 임상 급물살&nbsp;&nbsp;팜이데일리[바이오스냅] 현대바이오 \"베트남 뎅기 치료제 첫 환자 등록 완료\"&nbsp;&nbsp;연합뉴스\"판 깔렸다\"…현대바이오, '뎅기열 확산' 베트남서 글로벌 임상 돌입&nbsp;&nbsp;네이트현대바이오, 베트남 뎅기 치료제 첫 환자 등록 완료…임상 본격화&nbsp;&nbsp;뉴스1",
       "sources": [
         {
           "name": "약업신문",
@@ -210,6 +246,18 @@
       ]
     },
     {
+      "id": "39a511001f91",
+      "title": "‘위고비’ 맞아도 살 안 빠지는 이유, 유전자 변이에 있었다 - 동아일보",
+      "published": "2026-04-09T19:30:00+00:00",
+      "summary": "‘위고비’ 맞아도 살 안 빠지는 이유, 유전자 변이에 있었다&nbsp;&nbsp;동아일보위고비 맞아도 살 안빠지던데…\"문제는 유전자 변이\"&nbsp;&nbsp;v.daum.net비만약 써도 살 안 빠지는 나, 이유 알았다&nbsp;&nbsp;헬스조선GLP-1 부작용 ‘제각각 다양’&nbsp;&nbsp;의학신문GLP-1 다이어트 효과, 여성에서 더 컸다… 남성보다 1.6배↑&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84RXhWaVhnMzdJa053RURmN3FRU0R2NlZNWDI4NjNpd01LNnVGQ1lFWFFKdzhtOWpFenlSRUdLNmlwUldRSjZONGI1Z1lXYVI4bzR5WkVjVG9VcWNucGYtT1F5LXFxeDVMaUR0NUhyRdIBZkFVX3lxTE5sTm1KQ0ZLcmNTc2VyeHJCU2o2cTdmdG05NUFmR2FHT1NyZDA5UXQwTGcyWlpkN2taMkU4Y3VjSFdINU9hdklRZ0VVTjh0ODhHaFBwQ0J2M3VnaXFTQlBKZzJEUk5xQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cdc2132ae67b",
       "title": "“우주 27% 차지 암흑물질, 하나 아닌 두 가지 형태로 존재” - 동아일보",
       "published": "2026-04-09T19:30:00+00:00",
@@ -225,7 +273,7 @@
       "id": "08a942ac1217",
       "title": "‘이 음식’ 즐기다가 실명 위기… 대체 뭐야? - 헬스조선",
       "published": "2026-04-09T16:00:00+00:00",
-      "summary": "‘이 음식’ 즐기다가 실명 위기… 대체 뭐야?&nbsp;&nbsp;헬스조선회 먹다 눈 망가질 수도… 치명적 해양 바이러스 인간 감염 첫 확인&nbsp;&nbsp;v.daum.net“맨손으로 날생선 만졌다간 ‘실명’ 될 수도”…중국서 터진 바이러스 공포에 과학계 ‘비상’&nbsp;&nbsp;서울경제“회 먹다가 ‘실명’까지?”…中 수산물에서 바이러스 옮겨, 눈 질환 확산&nbsp;&nbsp;코메디닷컴中 수산물서 바이러스 감염 확인…\"실명 환자까지 발생\"&nbsp;&nbsp;네이트",
+      "summary": "‘이 음식’ 즐기다가 실명 위기… 대체 뭐야?&nbsp;&nbsp;헬스조선새우 폐사시킨 바이러스 사람에 전이…“불결한 해산물 눈 질환 유발”&nbsp;&nbsp;v.daum.net“맨손으로 날생선 만졌다간 ‘실명’ 될 수도”…중국서 터진 바이러스 공포에 과학계 ‘비상’&nbsp;&nbsp;서울경제中 수산물서 바이러스 감염 확인…\"실명 환자까지 발생\"&nbsp;&nbsp;네이트“회 먹다가 ‘실명’까지?”…中 수산물에서 바이러스 옮겨, 눈 질환 확산&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "헬스조선",
@@ -306,6 +354,18 @@
       ]
     },
     {
+      "id": "6b66b28514cf",
+      "title": "실험실 배양 '미니 뇌'로 개발한 뇌질환 치료법 올해 첫 임상 - v.daum.net",
+      "published": "2026-04-09T08:48:02+00:00",
+      "summary": "실험실 배양 '미니 뇌'로 개발한 뇌질환 치료법 올해 첫 임상&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBsSzc4Ml92bEFlNzcwcTF5SEpLOUJJMkJIMTRyeTFKMW12T29paUI0eTVBd1I3dktBRHEwZ19GbElOUkJjTVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5fe66323eac0",
       "title": "[The Innovator] 16 치매 너머의 희망을 보다 '큐어버스' - 헬로디디",
       "published": "2026-04-09T07:50:00+00:00",
@@ -369,7 +429,7 @@
       "id": "127eb6c482d5",
       "title": "비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구 - 하이닥",
       "published": "2026-04-09T06:00:00+00:00",
-      "summary": "비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구&nbsp;&nbsp;하이닥중장년 비타민D 부족하면 치매 유발 단백질 쌓인다&nbsp;&nbsp;헬스조선‘이 비타민’ 부족하면 치매 위험 높아진다&nbsp;&nbsp;레이디경향\"뼈에만 좋은 줄 알았는데\"…꾸준한 비타민 D 섭취, '치매'도 예방&nbsp;&nbsp;뉴시스햇볕 쬘 시간이 없다고?…비타민D 풍부한 슈퍼푸드 7가지&nbsp;&nbsp;네이트",
+      "summary": "비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구&nbsp;&nbsp;하이닥중장년 비타민D 부족하면 치매 유발 단백질 쌓인다&nbsp;&nbsp;헬스조선‘이 비타민’ 부족하면 치매 위험 높아진다&nbsp;&nbsp;레이디경향\"뼈에만 좋은 줄 알았는데\"…꾸준한 비타민 D 섭취, '치매'도 예방&nbsp;&nbsp;뉴시스젊은 시절 비타민 D 부족하면...실제로 16년 뒤 ‘치매 단백질’ 쌓인다?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "하이닥",
@@ -386,18 +446,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HWXhfSklXcHVHcTVBdkJlczFRa0JOUExzRjNsYXpGaEJXSzA1Wnl3U2pOaUZMMFVxX2c2N1BUbjBVYk5NMWxYV2VmRGEyck9rLTV4bVRJMTh4QTgxcVFpVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88b4559361d7",
-      "title": "루라시돈, 소아청소년 양극성장애 치료 패러다임 전환시켜 - mostonline.co.kr",
-      "published": "2026-04-09T04:42:05+00:00",
-      "summary": "루라시돈, 소아청소년 양극성장애 치료 패러다임 전환시켜&nbsp;&nbsp;mostonline.co.kr[정신과약 톺아보기] 양극성 장애 '우울 예방'의 주요 약물&nbsp;&nbsp;약사공론치료저항성부터 재발까지 조현병 치료에 부작용·순응도 고려돼야&nbsp;&nbsp;mostonline.co.kr조현병·양극성장애·대사이상반응 개선에 주목&nbsp;&nbsp;mostonline.co.kr“조현병 약물치료, 장기 유지전략과 기능 회복으로 확장…루라시돈의 임상적 의미”&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HYjM2LWNmUl81LWROenV6TWVBWDJTNFlYZTVYb1hPTy1GZ0JaaFk5NWE1QzJDLUFMWTdMM3hQdjlnUmlPNnF2RTFpVFU5dWZNMVVUYjVqYkNMVzhHUlRHZUlRb2Jxa1VqMmJWSE1lM2s?oc=5"
         }
       ]
     },
@@ -486,6 +534,18 @@
       ]
     },
     {
+      "id": "03c2ad74dc99",
+      "title": "채식도 하기 나름, 정제된 곡류는 치매 위험 높여... - 후생신보",
+      "published": "2026-04-09T01:27:00+00:00",
+      "summary": "채식도 하기 나름, 정제된 곡류는 치매 위험 높여...&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9JMjYzdkdUbWdkZTg2ak9PYzJ4eFhYYkx0TDYxaldUTW5fSlhTcDZQNVlRck1iNW92UVg4NGdRYUs2Ty02?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d29532906ae7",
       "title": "복지센터, 16일 무료 ‘전립선암’세미나 - 미주한국일보",
       "published": "2026-04-08T22:44:51+00:00",
@@ -570,42 +630,6 @@
       ]
     },
     {
-      "id": "6e8cd9b9b7d6",
-      "title": "'지중해식 식단의 힘' 천식도 막는다 - 헬스조선",
-      "published": "2026-04-08T11:20:00+00:00",
-      "summary": "'지중해식 식단의 힘' 천식도 막는다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IMWhIOFNReTNTdHI1aEx0aE9fZjdLaWMwbXY5QXBpX0Q2VkNMeGd6N25KbGh2SGo3ODNVNHM2SVRhY1ZyMGMxWHJKYm9DbE55eEU0UVRwSjFmT3VWN1MtMW5PQjZwc0JjYVNyZ2oxMGxHX1RiSlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd0d3067c9b9",
-      "title": "아침에 깨도 한참 침대에...'기상 전환' 늦은 노인, 치매 단백질 더 많았다 - 디멘시아뉴스",
-      "published": "2026-04-08T10:26:47+00:00",
-      "summary": "아침에 깨도 한참 침대에...'기상 전환' 늦은 노인, 치매 단백질 더 많았다&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WVElLMkNrNTl1dFowcTdVVHBONDYwc3VBbkVlSG9VU3RnbnNjQ0w3d2ZWNXZLalhuX2pLeWloM2ljNC0tejFJbkExSGt5T21xcmVHNmVQZmVnYkFfbkR3cUMtdFBSdHFLZkFxY1YtNm53Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "afa73d347540",
-      "title": "암 잡는 병사인가, 키우는 좀비인가…노화 세포의 '두 얼굴' - 뉴시스",
-      "published": "2026-04-08T09:00:00+00:00",
-      "summary": "암 잡는 병사인가, 키우는 좀비인가…노화 세포의 '두 얼굴'&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvS2FxRjZkWWh0b0ozQ29DMmczWk9uZGx6RFVuSTVYUmE0Q0RhQml5ZkRLZHZWT2lMOTRmX0g5am96OHRoZnNtNlQ2MmRwQV8xY1M3MWQ3TzNIeVdnWWRYM3JB0gFgQVVfeXFMT3ZvN2ZDY2N3c1hHNXRtaV9wM1FCa1FwLXVQVTJhV3p2bWNsOXd0ekNWMHZUQ2FadEVnaGtDZzBhemltM2NvMzBfcTQ0dHdXTHM0alplT2N3bkVWbWd0R1Vv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e9194fe557a7",
       "title": "AI 사용 폭증 … 인프라 병목·보안 위험 확산 - 매일경제",
       "published": "2026-04-08T08:19:37+00:00",
@@ -618,14 +642,14 @@
       ]
     },
     {
-      "id": "fdb0af77bea2",
-      "title": "만성 스트레스, 우울증 유발 뇌 회로 발견 - 브랜드경제신문",
-      "published": "2026-04-08T07:38:18+00:00",
-      "summary": "만성 스트레스, 우울증 유발 뇌 회로 발견&nbsp;&nbsp;브랜드경제신문",
+      "id": "e107a0b6b07d",
+      "title": "박사급 연구인력에 전략기술 공동연구 일자리 지원…올해 컨소시엄 13개 선정 - 동아사이언스",
+      "published": "2026-04-08T03:00:00+00:00",
+      "summary": "박사급 연구인력에 전략기술 공동연구 일자리 지원…올해 컨소시엄 13개 선정&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9uUEl3M3Rjdk00VkpfRGRlczdtclBsSndFUjBaT0Nsb0RHZkxGRThSZHlZemhXeGFVM0xiTWVDSElLWU5rMHpNTXZoMTk?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vYUd2Q1JLYWVOV1pyQkZPNlluZm9UMlFSOHB6OUlwWldhdHN6V0F1V2ZVMDAwMXQ1UzBTTmp2VXlQd0IyRF9KcE9VUFdQZGpyc2YtNw?oc=5"
         }
       ]
     }
