@@ -1,19 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-11T07:04:59.888252+00:00",
-  "total_fetched": 82,
-  "unique_count": 82,
-  "health_related_count": 52,
+  "fetched_at": "2026-04-11T13:06:11.879036+00:00",
+  "total_fetched": 75,
+  "unique_count": 75,
+  "health_related_count": 47,
   "news": [
     {
-      "id": "95ae3ae3a5be",
-      "title": "치매 치료 달라졌는데 제도는 그대로…“상담료·MRI 보상 필요” - 쿠키메디",
-      "published": "2026-04-11T05:51:40+00:00",
-      "summary": "치매 치료 달라졌는데 제도는 그대로…“상담료·MRI 보상 필요”&nbsp;&nbsp;쿠키메디[The Innovator] 16 치매 너머의 희망을 보다 '큐어버스'&nbsp;&nbsp;헬로디디치매 치료 달라졌는데 제도는 그대로…\"상담료·MRI 보상 필요\"&nbsp;&nbsp;네이트레카네맙 조기개입의 중요성 및 3년 장기치료 시 임상적 이점 확인&nbsp;&nbsp;mostonline.co.kr[치매와의 전쟁①] 완치까진 갈길 멀지만...레켐비·키썬라로 '진행 지연' 희망 봤다&nbsp;&nbsp;ebn.co.kr",
+      "id": "0d79b31099a8",
+      "title": "\"뇌 속에 숨겨진 하수도 찾았다…치매 정복의 새로운 열쇠\" - 네이트",
+      "published": "2026-04-11T09:28:00+00:00",
+      "summary": "\"뇌 속에 숨겨진 하수도 찾았다…치매 정복의 새로운 열쇠\"&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "쿠키메디",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xVkMtR0VsdVZJUWV3U1lZSjBSS1M0elA1Q29sR0RYeG9Bb2RYRUg1VFM0NVY4alBBdUxCQS1sTFJCVHloaExWVGRZdHNQMlJHS3lnVS1lc2gwcDM0Vnc1YW11Qkg?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veHpzdDdSZUNlLXFDV0xKUHFDNzBhSzNiZWVGY3FwZ1ZRbGNYUk9XTzZES2tsZHBtdGRwSlp6NFVXcXFNUUJPcGpQQnc2azVtTXNV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c935c977f4d5",
+      "title": "“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은? - 전자신문",
+      "published": "2026-04-11T07:40:00+00:00",
+      "summary": "“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문앉아있는 1시간 늘 때마다…기대 수명 22분 줄어든다?&nbsp;&nbsp;레이디경향\"마음가짐 하나로 치매 막는다\"…낙관성 높을수록 발병 위험 15%↓&nbsp;&nbsp;뉴시스적절한 운동과 충분한 수면, 노년기 치매 예방에 핵심&nbsp;&nbsp;네이트사무실에 8시간 앉아 있는 당신, 치매 위험 ‘이만큼’ 올랐다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jdklmbFIxaHNHZjI4Z3pkOXAwLWs2TldWdzR3ckRyZG1nZEtoc1ltSUJjdDh0ck1xZTYwUDlycW4ySDZ1TUJnbGtaT0JnZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fd5d75a79793",
+      "title": "미혼 여성, 기혼 여성 보다 암 발병률 85% 더 높아 - 세계일보",
+      "published": "2026-04-11T07:30:40+00:00",
+      "summary": "미혼 여성, 기혼 여성 보다 암 발병률 85% 더 높아&nbsp;&nbsp;세계일보Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VbEhROFY4YS1QX3lWSWhvMFBpNGh5RVpxN2VMbUF6OUdQN0pHRWc5aVZlWkw1bUN1N1h2Yjc0clZTNVkxQVQ2YmVLMTZVNTNZU05DV0dQSWvSAVRBVV95cUxNZE5ETlJwSzdpRmdHNWEtRUZaSkp2REN6M0ZIejhmQzZSdTAwVWFlUEJJbFpkOTVjekVlUjEwdk5wTGZyRVZMVFZJLWl6UXdieklzcDM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "33bca6528176",
+      "title": "치매 치료 달라졌는데 제도는 그대로…\"상담료·MRI 보상 필요\" - 네이트",
+      "published": "2026-04-11T05:52:00+00:00",
+      "summary": "치매 치료 달라졌는데 제도는 그대로…\"상담료·MRI 보상 필요\"&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xekhSakVsZzlXR0Z0TTQ0R2RfNVh1Rk5wakxudnd2TThxYUptejlBNUxmNWRhb1Y1eWp5UjlUeXUxZ2pLdXRXTXJxNHRJVEFDRHk4?oc=5"
         }
       ]
     },
@@ -21,7 +57,7 @@
       "id": "72ece87d8adb",
       "title": "건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과” - 하이닥",
       "published": "2026-04-11T04:00:00+00:00",
-      "summary": "건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과”&nbsp;&nbsp;하이닥\"무조건 채식보다는 질이 중요\"… 치매 예방의 핵심&nbsp;&nbsp;한국의약통신[의과학 특집] 당신이 먹는 음식이 뇌를 파괴한다… 신경 퇴행을 부르는 6가지 식단&nbsp;&nbsp;브랜드경제신문",
+      "summary": "건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과”&nbsp;&nbsp;하이닥\"무조건 채식보다는 질이 중요\"… 치매 예방의 핵심&nbsp;&nbsp;한국의약통신",
       "sources": [
         {
           "name": "하이닥",
@@ -42,14 +78,14 @@
       ]
     },
     {
-      "id": "938a5a4a41d7",
-      "title": "\"음식이 만든 병, 음식으로 치료한다\" - 네이트",
-      "published": "2026-04-11T00:01:00+00:00",
-      "summary": "\"음식이 만든 병, 음식으로 치료한다\"&nbsp;&nbsp;네이트",
+      "id": "9f829b8a4f99",
+      "title": "“음식이 만든 병, 음식으로 치료한다” - 경향신문",
+      "published": "2026-04-11T00:00:00+00:00",
+      "summary": "“음식이 만든 병, 음식으로 치료한다”&nbsp;&nbsp;경향신문",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96WUNRdzBRbXhpOG9sNk9HckVDVk1QMms5aXVnZEEyeU8tYUNReHdmV0kwTzNMc0dlSUdHa1o1MWJ4X0VvSkRLaEVYTU5ZZnhGc0I4?oc=5"
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRlV0YllvRG1tUDlUQU9XU1dRWTQ3ZVdmNU1DN2ZmSThGYjNFa0k5M3BKMk9fRjZOa2NIaGFDUEwyUVZscGZJdDNDdE44bXhvWm50ZUwwejloZ9IBX0FVX3lxTFA4OVRIRXVuZlJpMnFDTmFTTEdoSXltTHlPSnJYbWxtTC0xUGlBNU5OQkxPa0VCVi1MbkttSnRycVpsaVlCcWpKTzM0Zm82bUlvX1NzZXJnNFUtRGZWN284?oc=5"
         }
       ]
     },
@@ -66,26 +102,26 @@
       ]
     },
     {
-      "id": "878870a63efb",
+      "id": "a048dc27b829",
       "title": "\"불 켜고 자면 살찐다?\" 비만부터 우울증까지, 수면 등불의 치명적 유혹 - 브랜드경제신문",
       "published": "2026-04-10T22:25:44+00:00",
       "summary": "\"불 켜고 자면 살찐다?\" 비만부터 우울증까지, 수면 등불의 치명적 유혹&nbsp;&nbsp;브랜드경제신문",
       "sources": [
         {
           "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE91cFRobG9IVi1oUXBSTjhsbTJuU2JTQkhpY09GY2FnSWNuRUV0SkktazRiTmpqV2JOQ1VwdFFNQkdsZlU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LcEJMUmh6d3ZXT0YzdlRySUhUbTlncE1RalVEMmNyNmdlYUlnR2lGU2xNS0JnLWNlZ3Rpd0x0ek45RFpPT0E3d0pHTlE?oc=5"
         }
       ]
     },
     {
-      "id": "cdc899a023ca",
-      "title": "노화 44세와 60세에 가속…노화 늦추는 시대 온다 - 네이트",
-      "published": "2026-04-10T21:01:00+00:00",
-      "summary": "노화 44세와 60세에 가속…노화 늦추는 시대 온다&nbsp;&nbsp;네이트노화 44세와 60세에 가속… 노화 늦추는 시대 온다 - 조선비즈&nbsp;&nbsp;Chosunbiz주변에 ‘이런 사람’ 너무 흔한데… 더 빨리 늙는다고?&nbsp;&nbsp;코메디닷컴'저속노화' 열풍과 '노화세포설'로 보면 '채우는 치료'보다 '세포 살리는 치료'가 더 중요&nbsp;&nbsp;네이트[바른 건강] 노화의 속도를 늦추는 생활 습관&nbsp;&nbsp;미주조선일보",
+      "id": "92f7f63c8f7b",
+      "title": "노화 44세와 60세에 가속… 노화 늦추는 시대 온다 - 조선비즈 - Chosunbiz",
+      "published": "2026-04-10T21:00:00+00:00",
+      "summary": "노화 44세와 60세에 가속… 노화 늦추는 시대 온다 - 조선비즈&nbsp;&nbsp;Chosunbiz주변에 ‘이런 사람’ 너무 흔한데… 더 빨리 늙는다고?&nbsp;&nbsp;코메디닷컴'저속노화' 열풍과 '노화세포설'로 보면 '채우는 치료'보다 '세포 살리는 치료'가 더 중요&nbsp;&nbsp;네이트[바른 건강] 노화의 속도를 늦추는 생활 습관&nbsp;&nbsp;미주조선일보44세·60세, 노화 급격 가속 시기 꼭 챙기세요&nbsp;&nbsp;브런치",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92QVB3eHBTTnh6ZVIyRVVxRG5oVm1qXzJQUXBLOWpUTVM2dVVhZTVWbXVwVFhvalBHVUpPOFlwM3diU0ZkdWRQZ01QQVRLeFRvdVFN?oc=5"
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONm1rX3dlaEtXSjJiZEJmVWNlVUt2VGdseTlHYWpfMWQtb2puV3dnSzVaTUhraEREMFRaRXlSMHVKb2cwbjcySjVfZzZrX0NJVmxXcUZ0VzB2b2VublVCdE85ajFGODVLM2lLODJrVFZNM091blZUaVZjU0Ita0s2Ums0c005TkVwQTYyUjgxOXNGUFgwVVBR0gGrAUFVX3lxTE1PMlhabVM1Y3p0VjNRTi1yVlpJbVhMV19OMjhJUXJoX3ZvbEVRQjRldWxuRFE2TXQwQW5NWWF1THAzMmUwNFVmeDdld2RVZWtFVHhEblRva1VtU25WeGlVMTFvZEFsY1ZQS2xXblE1cTVidkVKVmg5MTRwZ0NBZktWTkIxRWVnemt5czQwOXNfOURnT2gtYW5GWmI3eHRoYWJOZFU4cmc5UU9MMA?oc=5"
         }
       ]
     },
@@ -198,18 +234,6 @@
       ]
     },
     {
-      "id": "e53c8fe9808a",
-      "title": "\"긍정적으로 살수록 치매 덜 걸린다\"...美 하버드대, 14년 추적 결과 - 디멘시아뉴스",
-      "published": "2026-04-10T08:44:04+00:00",
-      "summary": "\"긍정적으로 살수록 치매 덜 걸린다\"...美 하버드대, 14년 추적 결과&nbsp;&nbsp;디멘시아뉴스\"마음가짐 하나로 치매 막는다\"…낙관성 높을수록 발병 위험 15%↓&nbsp;&nbsp;뉴시스앉아있는 1시간 늘 때마다…기대 수명 22분 줄어든다?&nbsp;&nbsp;레이디경향[건강365 닥터인사이트]오래 앉아 있을수록 약해지는 코어…통증·체형 변화의 시작&nbsp;&nbsp;이데일리TV사무실에 8시간 앉아 있는 당신, 치매 위험 ‘이만큼’ 올랐다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQzc1b3l0UU9tRHg3VUwwX1gxQmh0aDdUakJlMkVsR1FNdnpYeGVwNDRLZXJpMzlGYUtTT2ZkUjJvZW5wNXVVS1dxNk9jNjBScEFmRWdVMkdNUVVPbV9JeG02NGlzR2xmc2l5ZFJROHlaUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c75613a9a7f9",
       "title": "청소년 양극성장애 우울삽화의 공격성, 분노 조절을 위한 Lurasidone의 사용 - 메디칼업저버",
       "published": "2026-04-10T08:32:34+00:00",
@@ -218,6 +242,18 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VUlBfN05EOEN2VGFGZEpxaUtCZmRxd2hXcVVldVVlWVo4VWE3eDFuRmpveU83ODhOaUlXMUFKYVA1VHR3bHd5RWJwelN5b1pmRGtNcThMN0xSclU4N19Ja3VnVEJxZzdzNzdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f06cb4eea160",
+      "title": "우리집 모기장 왜 약하지? 겉면 코팅이 성능 가른다 - 파퓰러사이언스",
+      "published": "2026-04-10T07:51:49+00:00",
+      "summary": "우리집 모기장 왜 약하지? 겉면 코팅이 성능 가른다&nbsp;&nbsp;파퓰러사이언스",
+      "sources": [
+        {
+          "name": "파퓰러사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qOWs5OGktTU5ENGVTckVCVGQ5YXN4aW0xNVlmaGlfLXJ3RjBEWXQwaHNoeDBlY1ZTbDBSZ0xiZW81c2daWHh4TkRFVDlHUHNxZllNcmxoZUhkN20ySUFCTDM2RGZjR3dhSGfSAW5BVV95cUxOMUstb2NSVGo0THF2bVpCVUpuN3F6SFpfMFpXVUpsMmYxLTJidWMzYjlQNkFuMllfZFRFcUVBRndqRXhrcWlyelhwUjlITzhzRHJkX0haUjZrc0J1NTRnTWdLczFTd1ZFNHVfbkFnZw?oc=5"
         }
       ]
     },
@@ -270,22 +306,10 @@
       ]
     },
     {
-      "id": "b274a3a3394d",
-      "title": "비혼주의면 암 위험 높아진다?…미혼 여성 85%↑·남성 70%↑ - 문화일보",
-      "published": "2026-04-10T02:48:21+00:00",
-      "summary": "비혼주의면 암 위험 높아진다?…미혼 여성 85%↑·남성 70%↑&nbsp;&nbsp;문화일보“딸, 결혼 꼭 해야 해” 괜한 잔소리 아니었다…미혼 여성, 기혼보다 암 발병률 85% 높았다&nbsp;&nbsp;서울경제\"미혼 여성, 기혼보다 암 발생 위험 최고 85% 높아\"…美 마이애미대 연구&nbsp;&nbsp;뉴시스평생의 동반자 '배우자'…알고 보니 내 건강 지키는 '수호자'&nbsp;&nbsp;네이트\"'결혼해라' 괜한 잔소리 아니었다\"⋯미혼, 암 위험 최대 85% 증가&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FZFByOC1XWVl4ejQxYjkzc1hRVXh4aEdyQjF3U2RJX2t1ejJLNjhVa1k5amxMc2FzZi1ZT3FwQ0VHdEg0X0NseTNxamlBakY1?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f26ca163c557",
       "title": "'치매 단백질 쌓였는데도 정상’ 이유는?…알츠하이머병 해석 새 관점 제시 - 디멘시아뉴스",
       "published": "2026-04-10T02:38:53+00:00",
-      "summary": "'치매 단백질 쌓였는데도 정상’ 이유는?…알츠하이머병 해석 새 관점 제시&nbsp;&nbsp;디멘시아뉴스포스텍 연구팀, 알츠하이머 원인 단백질 타우의 세포 분열 제어 기제 규명&nbsp;&nbsp;디지털포커스‘뇌 청소’ 느려 치매 유발 단백질 쌓인다… 치료 가능성 열리나&nbsp;&nbsp;하이닥‘치매 유발 단백질’ 왜 쌓이나 했더니...돌연변이로 ‘뇌 청소 시스템’ 고장&nbsp;&nbsp;디멘시아뉴스",
+      "summary": "'치매 단백질 쌓였는데도 정상’ 이유는?…알츠하이머병 해석 새 관점 제시&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
           "name": "디멘시아뉴스",
@@ -294,14 +318,14 @@
       ]
     },
     {
-      "id": "818f1388bc72",
-      "title": "회 먹다 눈 망가질 수도…치명적 해양 바이러스 인간 감염 첫 확인 - 네이트",
-      "published": "2026-04-10T02:21:00+00:00",
-      "summary": "회 먹다 눈 망가질 수도…치명적 해양 바이러스 인간 감염 첫 확인&nbsp;&nbsp;네이트새우 폐사시킨 바이러스 사람에 전이…“불결한 해산물 눈 질환 유발”&nbsp;&nbsp;v.daum.net‘이 음식’ 즐기다가 실명 위기… 대체 뭐야?&nbsp;&nbsp;헬스조선“맨손으로 날생선 만졌다간 ‘실명’ 될 수도”…중국서 터진 바이러스 공포에 과학계 ‘비상’&nbsp;&nbsp;서울경제中 수산물서 바이러스 감염 확인…\"실명 환자까지 발생\"&nbsp;&nbsp;네이트",
+      "id": "e6c55abe8f15",
+      "title": "“2~3층까진 엘베 자제합시다”...수년간 반복하면 치매 위험 확 낮춘다 - 매일경제",
+      "published": "2026-04-10T02:10:13+00:00",
+      "summary": "“2~3층까진 엘베 자제합시다”...수년간 반복하면 치매 위험 확 낮춘다&nbsp;&nbsp;매일경제Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Z3BfalBZZHBoX3dVWjRvYm5Fc3JfU1pzRUZfX1RpeHhHdHNsSXloNGtsVW5GRm1mWlNJTVBLVUd3MGg0RV91VzFZbWlmWGtsaElN?oc=5"
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93MElBLUNVOTBwalhSTk9lbzhvU0d1U184XzJSWGxQNS1SZVFKYTdERmNvXzhDbUdTRGQ4S01EZUl5eE9GSFdtcTdsdC1NZw?oc=5"
         }
       ]
     },
@@ -450,10 +474,22 @@
       ]
     },
     {
+      "id": "08a942ac1217",
+      "title": "‘이 음식’ 즐기다가 실명 위기… 대체 뭐야? - 헬스조선",
+      "published": "2026-04-09T16:00:00+00:00",
+      "summary": "‘이 음식’ 즐기다가 실명 위기… 대체 뭐야?&nbsp;&nbsp;헬스조선새우 폐사시킨 바이러스 사람에 전이…“불결한 해산물 눈 질환 유발”&nbsp;&nbsp;v.daum.net“맨손으로 날생선 만졌다간 ‘실명’ 될 수도”…중국서 터진 바이러스 공포에 과학계 ‘비상’&nbsp;&nbsp;서울경제“회 먹다가 ‘실명’까지?”…中 수산물에서 바이러스 옮겨, 눈 질환 확산&nbsp;&nbsp;코메디닷컴“날생선 먹거나 만졌다간 ‘실명’까지”…중국발 ‘눈 감염 바이러스’ 공포 확산&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9USFpoSHU4Zi15a0JzY2JuMWN4dlEtb3VvUG5URzQ4RFNiY2dlNVlWYW1sN0JyeWhfT3RWQmFTb0hGaVpneldzSU5LdnUyM1pyMUtKNUpEbWtvc242WGY5aHphNWM4akVQX21pbUd2ZVNaeGhsR1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c6e8954beaa4",
       "title": "腸 건강 망가졌다는 ‘의외의’ 신호들 - 헬스조선",
       "published": "2026-04-09T14:40:00+00:00",
-      "summary": "腸 건강 망가졌다는 ‘의외의’ 신호들&nbsp;&nbsp;헬스조선장에 좋다는 음식이 심장에는 '악영향'?…\"염분·당분 체크 필수\"&nbsp;&nbsp;뉴시스충남대 허준영 교수, 장-뇌-미토콘드리아 연결 기전 연구 발표&nbsp;&nbsp;디지틀조선일보주4회 운동, 매끼 단백질 먹는 갓생러…장은 신음 토했다 [Health&]&nbsp;&nbsp;v.daum.net",
+      "summary": "腸 건강 망가졌다는 ‘의외의’ 신호들&nbsp;&nbsp;헬스조선충남대 허준영 교수, 장-뇌-미토콘드리아 연결 기전 연구 발표&nbsp;&nbsp;디지틀조선일보주4회 운동, 매끼 단백질 먹는 갓생러…장은 신음 토했다 [Health&]&nbsp;&nbsp;v.daum.net장내 세균이 기억력을 훔친다?&nbsp;&nbsp;브랜드경제신문심장병·비만 위험까지…장내 미생물 흔드는 5가지 음식&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "헬스조선",
@@ -474,42 +510,6 @@
       ]
     },
     {
-      "id": "e3ad94832dbf",
-      "title": "1주일에 한 번만 먹어보자… 치매 위험 낮추는 ‘이것’ - 헬스조선",
-      "published": "2026-04-09T12:00:00+00:00",
-      "summary": "1주일에 한 번만 먹어보자… 치매 위험 낮추는 ‘이것’&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96UXVIOGFCcnlKb3B4b0FyaUYwT29FM2pZNWx1TWsxdFQ1U3h5UkNKR0NQWk1tUV83bXZNcm11RVRBbmFDUHV6NkV2aHF2bWdESUtfbW5qQUZ6Mjc3VGtxYTU3MDNOVk8wLS0ySDRlRGYxbnJNSVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69047950fdda",
-      "title": "[돼지와사람] [초록] Mhr과 PCV2의 순차적 복합 감염에 따른 병원성 시너지 효과 연구 - pigpeople.net",
-      "published": "2026-04-09T11:26:04+00:00",
-      "summary": "[돼지와사람] [초록] Mhr과 PCV2의 순차적 복합 감염에 따른 병원성 시너지 효과 연구&nbsp;&nbsp;pigpeople.net",
-      "sources": [
-        {
-          "name": "pigpeople.net",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xSWZGc3JwVl81RnBvWTY3eEFPa3RKN1VZa0FjUEVsX2FEb1hRaHhpVFE4T3JPbGRqQ09BZ3haQ25WSTNYUVJaMGJFRXNqR2lOc1c0Vm9xMFFhd1lGTThBYU5Mang?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "098813c7357a",
-      "title": "‘투석 치료, 완결성이 중요하다’…지속 치료를 가능하게 하는 조건 - 구완서내과 구은희 원장 - 엠디저널",
-      "published": "2026-04-09T10:06:38+00:00",
-      "summary": "‘투석 치료, 완결성이 중요하다’…지속 치료를 가능하게 하는 조건 - 구완서내과 구은희 원장&nbsp;&nbsp;엠디저널",
-      "sources": [
-        {
-          "name": "엠디저널",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wQTVvM3lISXpqWHBEd3F2dEtGc2FJTVMzZ0lGVFVQZUJfeUYtbFhXWk1EUTFyZVhWbkJfVWpBTDdPUnhyMnNGSjJhb1pUajVrVmhpWlA0S3pmb28wckFJT1ZTZlBPN2tEWFHSAW5BVV95cUxONXFvQWtXNXF5cTJ2SXJoTE9yODN3dTE4ME5ZZ3FRUlFVZThUVnBFN19ObGkyazQxcF9PN3FNcVF2OThLUWNTWFRYRmJZMmJFSzVXMzluVzRZem40M1AyWU1zV1Z3MEV6T3JBSmJ3QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "73647ed4128b",
       "title": "\"바이오 R&D AI 쏠림 우려…모든 연구에 AI 필요한 건 아냐\" - 동아사이언스",
       "published": "2026-04-09T09:07:00+00:00",
@@ -522,78 +522,6 @@
       ]
     },
     {
-      "id": "6b66b28514cf",
-      "title": "실험실 배양 '미니 뇌'로 개발한 뇌질환 치료법 올해 첫 임상 - v.daum.net",
-      "published": "2026-04-09T08:48:02+00:00",
-      "summary": "실험실 배양 '미니 뇌'로 개발한 뇌질환 치료법 올해 첫 임상&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBsSzc4Ml92bEFlNzcwcTF5SEpLOUJJMkJIMTRyeTFKMW12T29paUI0eTVBd1I3dktBRHEwZ19GbElOUkJjTVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f85ba89ec875",
-      "title": "곽민진 국민대 임산생명공학과 교수, ‘장-간 축’ 조절 통한 지방간염(MASH) 진단·치료기전 규명 연구 SCIE 국제학술지 게재 - 스마트경제",
-      "published": "2026-04-09T08:24:28+00:00",
-      "summary": "곽민진 국민대 임산생명공학과 교수, ‘장-간 축’ 조절 통한 지방간염(MASH) 진단·치료기전 규명 연구 SCIE 국제학술지 게재&nbsp;&nbsp;스마트경제",
-      "sources": [
-        {
-          "name": "스마트경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wQWF1WXBKZUhPeGNSQUYxQ1BpVDlETnQ0a0NqSUU4aDBMcWFGNk5VZjVUYlBCYWlXVjM3QjZSNmNWSzRPajZkVHlZM3pENHhpaHFDZ3RIdzQ2dUtfYWxlWmc4akVFaHFta21pVHpQdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "481f8ad167ea",
-      "title": "오픈AI, 알츠하이머 연구 이니셔티브 가동...연구 기관에 1500억 지원 - AI타임스",
-      "published": "2026-04-09T06:45:41+00:00",
-      "summary": "오픈AI, 알츠하이머 연구 이니셔티브 가동...연구 기관에 1500억 지원&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJUzNFMDdISUhNUmxCa0ZHSFhfTUJLdzMzYUNqSU54cy1vTXdjWWhVb0JTVnVvbFVKc0FjUTJEeDRyTTdFWElyZWU2LXR6Zmw1cUpJWjNYazcyLW92UFg2Z3p1WVVMMVcyMkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6e2de6826eb9",
-      "title": "\"코로나19 다음 팬데믹, 바이러스유사입자로 4~5주면 대응\" - 동아사이언스",
-      "published": "2026-04-09T06:45:00+00:00",
-      "summary": "\"코로나19 다음 팬데믹, 바이러스유사입자로 4~5주면 대응\"&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDcEV1d0JnbWM1OXpFY0dfYkRzSkRwV0d6VF9hUjV6SzBCR2cySmRIcHZITUplWDg1UEtnNEdGME5DOEtjNDRzOV9YSU1panNIalhKaQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4990d2bd65b9",
-      "title": "암에 걸리지 않는 사람들의 비밀, 면역 연구의 새 지평을 열다 - 캐어유 뉴스",
-      "published": "2026-04-09T06:00:00+00:00",
-      "summary": "암에 걸리지 않는 사람들의 비밀, 면역 연구의 새 지평을 열다&nbsp;&nbsp;캐어유 뉴스",
-      "sources": [
-        {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10QWtHQWxLSmFNaV9wbVJkN2MtVUg0YzhBNHU4VW1FUXNvVExTT3FQdndpVkRxZHFma3F0Q1RZYURjQjdnUmNvYmVRb2s4MTVKOG14Z1dqUzJqUjY5anBsamwwTE4wRE1FOUMxag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "127eb6c482d5",
-      "title": "비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구 - 하이닥",
-      "published": "2026-04-09T06:00:00+00:00",
-      "summary": "비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구&nbsp;&nbsp;하이닥중장년 비타민D 부족하면 치매 유발 단백질 쌓인다&nbsp;&nbsp;헬스조선‘이 비타민’ 부족하면 치매 위험 높아진다&nbsp;&nbsp;레이디경향\"뼈에만 좋은 줄 알았는데\"…꾸준한 비타민 D 섭취, '치매'도 예방&nbsp;&nbsp;뉴시스젊은 시절 비타민 D 부족하면...실제로 16년 뒤 ‘치매 단백질’ 쌓인다?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZOTB2REQwa2trelhLOGktSjN4TlYtdXpNcHNOYnVYQ0xGVF9TUTBzMWlzRGZBU3pKa2tfNXVJVm5OU2tIRUJFMDljbFFNNzdoZjJTNGlDeGI5OWxTMVBkVDZhc0RkUkc5b2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a63fd47aad47",
       "title": "\"이미지·텍스트 통합 추론\"…LG AI연구원, '엑사원 4.5' 공개 - 지디넷코리아",
       "published": "2026-04-09T01:01:03+00:00",
@@ -602,6 +530,18 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fY2g5MU55Q05ESFFSeWdPV3ZURjJIWkhidjFueVItaE5yVExnTTB3OFJoUGJHb0JkMm9CLUl0WG5uYld6S1hWelZnNTZJUUtjVWQ4NlFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7129a29cdd4b",
+      "title": "젬백스, PSP 임상시험 결과 발표...안전성·유의성 P밸류 확보 - 컨슈머타임스",
+      "published": "2026-04-08T23:10:52+00:00",
+      "summary": "젬백스, PSP 임상시험 결과 발표...안전성·유의성 P밸류 확보&nbsp;&nbsp;컨슈머타임스",
+      "sources": [
+        {
+          "name": "컨슈머타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CUFRmV2djekJMcHpfcHA0NFBXZklBLUc1Z2ZYbm83dER1X0p3U1JSOEJmYmxDSG9JZTZhQVN3ei1UMGtYUUtpWDhFWG1QUWd1MzRLQ1FMRnZaN1hvVVZMYW40SmhOdG8yZ1E?oc=5"
         }
       ]
     },
