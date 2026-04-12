@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-04-12T13:08:41.338161+00:00",
-  "total_count": 32,
+  "last_updated": "2026-04-12T18:55:49.410423+00:00",
+  "total_count": 26,
   "matched_count": 0,
   "news": [
+    {
+      "id": "e706a4a2c550",
+      "title": "2026년 감염병 동시다발 확산, 아시아·태평양 지역 경보 상태",
+      "published": "2026-04-12T17:10:51+00:00",
+      "summary": "2026년 감염병 동시다발 확산, 아시아·태평양 지역 경보 상태&nbsp;&nbsp;브랜드경제신문",
+      "sources": [
+        {
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IcU9jQ2NfbnhUTGd1X3hOOFZoYU1neFVCbExoblhHYzNwSTE3ODdaLXR3di1qOGYzSkVVMEtpdmhWUGg5QUF4MVhNdlc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ed8b5a895c77",
       "title": "초고령사회 코앞인데…고령층 독감 예방은 여전히 ‘표준’에 멈췄다 |",
@@ -12,19 +25,6 @@
         {
           "name": "HeraldK.com",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOY09QNDBMR3NKX1Y0Qi1WaWNfN0RKc1FkWTZJeG04X0l2dTZOUDZ2T3BOdi1EdWNWcndyZ2FGTnpIcy1uTEpfOGQtY1RTYmpBeUhUbXV3VmZMUkVuamdYRVMtU1dCX2xuWXU1TkYyWFVEVmRSRVhCQ2pKQkdTSnJMMjBsaE16aTVvZkt1SGk0WmxkYXJzUVNNc1QzX1JSRExfTW4xTk9UMVdTazBmc2NnU1FxQnJiTll5QXlwVWlTeld2OEdnYWFZZTFlS3BKNFhRMkkxSWRSX0VmMVB0OHJtWnlBek9hT3VJQWxpTlpDeEt1X0M1ZkNuRFpwaGhyWGdRaHNuZmtDTXpJaFp5VGJNakZNRjZUQjIxNDlabjJtREJRSENIS2JLYmtOQVZUaFhWMmhIMlNJYVZZTlNWaEtyMDFjdkVtU2Fr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2c5adb2bc188",
-      "title": "“심장 망가질 수도” 의사가 오후 6시 이후에는 안 쓴다는 ‘이것’",
-      "published": "2026-04-12T09:30:00+00:00",
-      "summary": "“심장 망가질 수도” 의사가 오후 6시 이후에는 안 쓴다는 ‘이것’&nbsp;&nbsp;헬스조선매일 밤 들쭉날쭉한 ‘수면무호흡증’ 패턴… 심혈관 질환 위험 34% 높인다&nbsp;&nbsp;하이닥“이거 내 얘기네” 자기 전 무심코 한 ‘이 행동’ 4가지…심장병 위험 높여&nbsp;&nbsp;twig24.com“심근경색, 뇌졸중 위험하다”… 방치하는 ‘이 습관’ 당장 고쳐야&nbsp;&nbsp;코메디닷컴잠을 충분히 자도 피곤하다면…수면무호흡증 의심해야&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwWWRTUnhUejdEcFlpdmdRZVk0RXhYNHdmTE9iUm03dG8xMnk0SXRaRnRISjBkYnJnUy1Tdlo3Mmt2NFBqVElsblViTWZPR2pOZ29pMERncDNIZGU4dEhmbU4xenRMVklRYjlZRWxBNzBpMDF6UWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -43,14 +43,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f1327b7dc189",
-      "title": "흡연자 더 위험했다…코로나19, 폐암 촉진",
-      "published": "2026-04-12T06:56:00+00:00",
-      "summary": "흡연자 더 위험했다…코로나19, 폐암 촉진&nbsp;&nbsp;네이트",
+      "id": "2f21bf0eeb11",
+      "title": "흡연자 더 위험했다... 코로나19, 폐암 촉진",
+      "published": "2026-04-12T06:52:53+00:00",
+      "summary": "흡연자 더 위험했다... 코로나19, 폐암 촉진&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNGJobVdOcWNIVU5zSXVGUG9hOWN2UVM4VTRUZmF4QlFCTE50bS1LNDdVVGtJbVo4c0pfTzk2QUZXSHRMN28xUTRQZmV0blR4b3RF?oc=5"
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vSHpub0FVdHZQM2liLXY3UVdoSXFwbVhkVUR3YlkyaXBOdnFhSnBjendpNk9qaWpiaHVTRG9CNkZNYjZaSUpNMm5vXzBaNV9JQXQweEhDaDJmdEpm0gFsQVVfeXFMTnZjWTVvNDVrVXEtR2s2dXFfbXUxbzNrWXNvUnFDcTFPNXJCTEdSQVZBd2dlMUU4LUZPOXR1b1hDa2pGRjFmdTI2QU1IU25MWDRDRDB5ZlR2bUVWcS0xVzdkS2dVd1d2M214dEF1?oc=5"
         }
       ],
       "matched_keywords": []
@@ -85,7 +85,7 @@
       "id": "d44ab8345627",
       "title": "고려대학교 전태훈 교수팀, “면역치료 안 듣는 대장암, MAFB 단백질 제거로 돌파구 제시”",
       "published": "2026-04-12T01:22:00+00:00",
-      "summary": "고려대학교 전태훈 교수팀, “면역치료 안 듣는 대장암, MAFB 단백질 제거로 돌파구 제시”&nbsp;&nbsp;한국강사신문대장암 면역치료의 '스위치' 찾았다…잠든 면역세포 깨우는 정체는? [언박싱 연구실]&nbsp;&nbsp;파이낸셜뉴스고려대 연구진, 대장암 면역치료 반응 높일 '유전자 스위치' 찾았다&nbsp;&nbsp;뉴시스고려대, MAFB 단백질 제거로 대장암 면역치료 반응 향상 치료 전략 제시&nbsp;&nbsp;ceodaily.co.kr고려대, 대장암 면역치료 반응 높이는 치료 전략 제시&nbsp;&nbsp;CNB뉴스",
+      "summary": "고려대학교 전태훈 교수팀, “면역치료 안 듣는 대장암, MAFB 단백질 제거로 돌파구 제시”&nbsp;&nbsp;한국강사신문대장암 면역치료의 '스위치' 찾았다…잠든 면역세포 깨우는 정체는? [언박싱 연구실]&nbsp;&nbsp;파이낸셜뉴스고려대 연구진, 대장암 면역치료 반응 높일 '유전자 스위치' 찾았다&nbsp;&nbsp;뉴시스고려대, 대장암 면역치료 반응 높이는 'MAFB 단백질' 제거 치료 제시&nbsp;&nbsp;뉴스1고려대, MAFB 단백질 제거로 대장암 면역치료 반응 향상 치료 전략 제시&nbsp;&nbsp;ceodaily.co.kr",
       "sources": [
         {
           "name": "한국강사신문",
@@ -108,19 +108,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e407900ae1b6",
-      "title": "[100세건강] \"방치시 패혈증에 만성신부전까지\"…요로결석 예방하려면",
-      "published": "2026-04-12T01:00:00+00:00",
-      "summary": "[100세건강] \"방치시 패혈증에 만성신부전까지\"…요로결석 예방하려면&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vX1dfTGZYa3ZQb3h1Znd2WmRIU3puV3RpeEdQdzE5b0t1UzRpcmF0Qi1haTRDUDY2YkU3Z1VwV2Q1QXFUWTA1cThObzd4Y3hIb05r?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "83cf32389ad2",
       "title": "목소리도 '과로'한다…쉰 목소리 방치하면 수술까지 갈 수 있어",
       "published": "2026-04-12T01:00:00+00:00",
@@ -137,7 +124,7 @@
       "id": "db5405d0a359",
       "title": "“한 번 겪었다고 끝 아냐”... ‘이 병’ 위험 10년간 이어진다",
       "published": "2026-04-11T23:06:00+00:00",
-      "summary": "“한 번 겪었다고 끝 아냐”... ‘이 병’ 위험 10년간 이어진다&nbsp;&nbsp;코메디닷컴5분 괜찮았다고 넘겼다…뇌졸중, 그 뒤 ‘48시간’이 생사 갈랐다&nbsp;&nbsp;v.daum.net\"한 번 겪었다고 끝 아냐\"…'이 병' 위험 10년간 이어진다&nbsp;&nbsp;네이트욱신거리는 편두통, 단순 혈관 문제 아닌 과민해진 뇌의 비명 [김헌 원장 칼럼]&nbsp;&nbsp;미디어파인\"갑자기 힘 빠지거나 말이 어눌해지면\"…'일시적 뇌졸증' 의심해야&nbsp;&nbsp;뉴시스",
+      "summary": "“한 번 겪었다고 끝 아냐”... ‘이 병’ 위험 10년간 이어진다&nbsp;&nbsp;코메디닷컴\"한 번 겪었다고 끝 아냐\"…'이 병' 위험 10년간 이어진다&nbsp;&nbsp;네이트5분 괜찮았다고 넘겼다…뇌졸중, 그 뒤 ‘48시간’이 생사 갈랐다&nbsp;&nbsp;v.daum.net욱신거리는 편두통, 단순 혈관 문제 아닌 과민해진 뇌의 비명 [김헌 원장 칼럼]&nbsp;&nbsp;미디어파인\"갑자기 힘 빠지거나 말이 어눌해지면\"…'일시적 뇌졸증' 의심해야&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -238,23 +225,10 @@
       "matched_keywords": []
     },
     {
-      "id": "0d79b31099a8",
-      "title": "\"뇌 속에 숨겨진 하수도 찾았다…치매 정복의 새로운 열쇠\"",
-      "published": "2026-04-11T09:28:00+00:00",
-      "summary": "\"뇌 속에 숨겨진 하수도 찾았다…치매 정복의 새로운 열쇠\"&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9veHpzdDdSZUNlLXFDV0xKUHFDNzBhSzNiZWVGY3FwZ1ZRbGNYUk9XTzZES2tsZHBtdGRwSlp6NFVXcXFNUUJPcGpQQnc2azVtTXNV?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c935c977f4d5",
       "title": "“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?",
       "published": "2026-04-11T07:40:00+00:00",
-      "summary": "“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문앉아있는 1시간 늘 때마다…기대 수명 22분 줄어든다?&nbsp;&nbsp;레이디경향\"마음가짐 하나로 치매 막는다\"…낙관성 높을수록 발병 위험 15%↓&nbsp;&nbsp;뉴시스적절한 운동과 충분한 수면, 노년기 치매 예방에 핵심&nbsp;&nbsp;네이트사무실에 8시간 앉아 있는 당신, 치매 위험 ‘이만큼’ 올랐다&nbsp;&nbsp;헬스조선",
+      "summary": "“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문앉아있는 1시간 늘 때마다…기대 수명 22분 줄어든다?&nbsp;&nbsp;레이디경향사무실 의자가 '질병 제조기'?…\"하루 8시간 앉아 있으면 치매 위험 커져\"&nbsp;&nbsp;네이트적절한 운동과 충분한 수면, 노년기 치매 예방에 핵심&nbsp;&nbsp;메디컬투데이\"긍정적으로 살수록 치매 덜 걸린다\"...美 하버드대, 14년 추적 결과&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
           "name": "전자신문",
@@ -303,19 +277,6 @@
       "matched_keywords": []
     },
     {
-      "id": "8c8c89f07456",
-      "title": "뼈 건강의 핵심은 ‘균형’, 골대사질환 조기 관리가 중요한 까닭은",
-      "published": "2026-04-11T02:16:14+00:00",
-      "summary": "뼈 건강의 핵심은 ‘균형’, 골대사질환 조기 관리가 중요한 까닭은&nbsp;&nbsp;리서치페이퍼",
-      "sources": [
-        {
-          "name": "리서치페이퍼",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJWi1MRW5vaTlxT3A2YVVQdkxuYzQ3VHBRN1ZBLWNBMVctQk5QV0RUQUxtUE9xaGd2bUFveklrajhKOUNhR3BDRVNPTmNPcUZmWDY3Nmgwc2djMFRZZ1h4cWt4S0pMWFIxQVBXei1TWlZxWUppeFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9f829b8a4f99",
       "title": "“음식이 만든 병, 음식으로 치료한다”",
       "published": "2026-04-11T00:00:00+00:00",
@@ -329,14 +290,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a048dc27b829",
+      "id": "878870a63efb",
       "title": "\"불 켜고 자면 살찐다?\" 비만부터 우울증까지, 수면 등불의 치명적 유혹",
       "published": "2026-04-10T22:25:44+00:00",
       "summary": "\"불 켜고 자면 살찐다?\" 비만부터 우울증까지, 수면 등불의 치명적 유혹&nbsp;&nbsp;브랜드경제신문",
       "sources": [
         {
           "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LcEJMUmh6d3ZXT0YzdlRySUhUbTlncE1RalVEMmNyNmdlYUlnR2lGU2xNS0JnLWNlZ3Rpd0x0ek45RFpPT0E3d0pHTlE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE91cFRobG9IVi1oUXBSTjhsbTJuU2JTQkhpY09GY2FnSWNuRUV0SkktazRiTmpqV2JOQ1VwdFFNQkdsZlU?oc=5"
         }
       ],
       "matched_keywords": []
@@ -350,45 +311,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3dEs4SkFnM3BzOEZVb3lqV2ZLVmE3M0xRNTgzY1hkcjlNanBMRksxcFpnWE9oZF9aR0RXYnRNbTZXb1J5NjZSTGE0eWg0SUFWbUNtcmJSLUJsdDdibFlpcmlod2UtU1FPMGhHNTg4Q1pSTHlGS0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3a7be4de9fca",
-      "title": "“LDL 콜레스테롤 뚝”… 고소한 ‘이 음식’ 먹으라는데, 뭐지?",
-      "published": "2026-04-10T17:02:00+00:00",
-      "summary": "“LDL 콜레스테롤 뚝”… 고소한 ‘이 음식’ 먹으라는데, 뭐지?&nbsp;&nbsp;헬스조선“콜레스테롤 걱정이라면 ‘이 과일’ 먹어라”…놀라운 연구결과 보니 [헬시타임]&nbsp;&nbsp;서울경제경계 수준 콜레스테롤도 위험… 고지혈증, 방심했다간 동맥경화 부른다&nbsp;&nbsp;하이닥\"아침으로 딱 이틀 먹었다가 깜짝\"…체중·나쁜 콜레스테롤 확 낮춰준다는 '이것' [헬시타임]&nbsp;&nbsp;네이트“약처럼 콜레스테롤 낮춘다”…심장 전문의들이 꼽은 대표 식품은?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KNEtJYTJWSEZpUmpvVGhoZ1JLenlHU0JYZkJ2YzM4YXNXRGRrUHNuVmo3NEV3MEFUYW0xNHdRUV9kODBrajdpVkhBWTlxclpidzN1UG1lN3NGT3p6aE80aXZmWE9QZUpCS3lGOWc5TElRUmpxSEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "36bf8cf53c21",
-      "title": "자고 일어나서 ‘이런 말’ 하는 사람, 치매 위험",
-      "published": "2026-04-10T16:01:00+00:00",
-      "summary": "자고 일어나서 ‘이런 말’ 하는 사람, 치매 위험&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oejl1b2hPdkN2WmJESWdfVHd1bWI0SWZ0SnJyU25pRFhTNDk3WkkydE9aV2FUWXNvVjJoQVlXTUMtbDNMYjlJaWwzSzd2R2ZQMDdaWmRNVDdnZ19hNGRMdjIwM0dwT3AweTlONl9VS0NnM1BRWUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0be808cc2bb6",
-      "title": "이영자, “삼겹살에 ‘이것’ 꼭 추가해라”… 독소 배출 효과",
-      "published": "2026-04-10T15:01:00+00:00",
-      "summary": "이영자, “삼겹살에 ‘이것’ 꼭 추가해라”… 독소 배출 효과&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IbnV2RUZzVDJVOFI0V3BJOVJGbWpnXzlzXzN6VkdYaWRHRlV6Z0pENHFGM2Vjc2hBQ1ZTMFdzRVlrTVkxb2JDTFhrVHJLQ3pZRmJfQWJQRHRnbEZwNjFLNC04dHZoZklsRktyN0pmaUx1VXBwTWc?oc=5"
         }
       ],
       "matched_keywords": []
