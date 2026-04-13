@@ -1,31 +1,151 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-12T18:55:49.328992+00:00",
-  "total_fetched": 52,
-  "unique_count": 52,
-  "health_related_count": 26,
+  "fetched_at": "2026-04-13T03:19:41.365364+00:00",
+  "total_fetched": 55,
+  "unique_count": 55,
+  "health_related_count": 29,
   "news": [
     {
-      "id": "e706a4a2c550",
-      "title": "2026년 감염병 동시다발 확산, 아시아·태평양 지역 경보 상태 - 브랜드경제신문",
-      "published": "2026-04-12T17:10:51+00:00",
-      "summary": "2026년 감염병 동시다발 확산, 아시아·태평양 지역 경보 상태&nbsp;&nbsp;브랜드경제신문",
+      "id": "40d3a7eb14a9",
+      "title": "독감 백신 고용량 맞으면 알츠하이머 위험 절반 넘게 뚝…연구 - 디지털투데이",
+      "published": "2026-04-13T02:32:08+00:00",
+      "summary": "독감 백신 고용량 맞으면 알츠하이머 위험 절반 넘게 뚝…연구&nbsp;&nbsp;디지털투데이Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IcU9jQ2NfbnhUTGd1X3hOOFZoYU1neFVCbExoblhHYzNwSTE3ODdaLXR3di1qOGYzSkVVMEtpdmhWUGg5QUF4MVhNdlc?oc=5"
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UTFVhcVBTX25fS0hiRWE0dEtPRE1QUlBCVWloRm1pbjlIQWZ3S01yX2xEcVNBZnA3SWprM3VPOTZaNEZIbHZYTE9vVXRnR2l0anpyVFVYbFd3M3doSTAtX0ZGcDdLREpWZk5qWlFoaVVEVTA?oc=5"
         }
       ]
     },
     {
-      "id": "ed8b5a895c77",
-      "title": "초고령사회 코앞인데…고령층 독감 예방은 여전히 ‘표준’에 멈췄다 | - HeraldK.com",
-      "published": "2026-04-12T10:37:20+00:00",
-      "summary": "초고령사회 코앞인데…고령층 독감 예방은 여전히 ‘표준’에 멈췄다 |&nbsp;&nbsp;HeraldK.com초고령사회 코앞인데…고령층 독감 예방은 여전히 ‘표준’에 멈췄다&nbsp;&nbsp;v.daum.net\"이 백신, 감염돼도 효과 있다\"…뇌졸중 위험 절반으로 '뚝'&nbsp;&nbsp;네이트“독감 백신 맞았을 뿐인데…” 치매 위험 '절반' 뚝 떨어졌다&nbsp;&nbsp;전자신문독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과&nbsp;&nbsp;하이닥",
+      "id": "1f7f687d989e",
+      "title": "\"밤에 절대 마시면 안돼, 여자는 특히\"…불면증보다 심각한 증상 유발하는 음료[실험노트] - 아시아경제",
+      "published": "2026-04-13T01:32:00+00:00",
+      "summary": "\"밤에 절대 마시면 안돼, 여자는 특히\"…불면증보다 심각한 증상 유발하는 음료[실험노트]&nbsp;&nbsp;아시아경제",
       "sources": [
         {
-          "name": "HeraldK.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOY09QNDBMR3NKX1Y0Qi1WaWNfN0RKc1FkWTZJeG04X0l2dTZOUDZ2T3BOdi1EdWNWcndyZ2FGTnpIcy1uTEpfOGQtY1RTYmpBeUhUbXV3VmZMUkVuamdYRVMtU1dCX2xuWXU1TkYyWFVEVmRSRVhCQ2pKQkdTSnJMMjBsaE16aTVvZkt1SGk0WmxkYXJzUVNNc1QzX1JSRExfTW4xTk9UMVdTazBmc2NnU1FxQnJiTll5QXlwVWlTeld2OEdnYWFZZTFlS3BKNFhRMkkxSWRSX0VmMVB0OHJtWnlBek9hT3VJQWxpTlpDeEt1X0M1ZkNuRFpwaGhyWGdRaHNuZmtDTXpJaFp5VGJNakZNRjZUQjIxNDlabjJtREJRSENIS2JLYmtOQVZUaFhWMmhIMlNJYVZZTlNWaEtyMDFjdkVtU2Fr?oc=5"
+          "name": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xaVh5UF9UZWxCckVJcUdtVkJLZ2YzWEtuRE1wRXUxWHlINzhfV3ZtWURGZlI4S20wSmRUSHlYZ0QzTnhJZEFFTWsyMXd0dUdUSU1pbjRFLXVJMl9PajRKaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5562ceba9c43",
+      "title": "명지병원 수면센터, ‘수면장애’ 주제 심포지엄 개최 - 메드월드뉴스",
+      "published": "2026-04-13T01:01:24+00:00",
+      "summary": "명지병원 수면센터, ‘수면장애’ 주제 심포지엄 개최&nbsp;&nbsp;메드월드뉴스“고혈압·뇌졸중 핵심 요인은 수면”… 명지병원, ‘수면센터 심포지엄’ 성료&nbsp;&nbsp;헬스조선“이거 내 얘기네” 자기 전 무심코 한 ‘이 행동’ 4가지…심장병 위험 높여&nbsp;&nbsp;twig24.com너무 자주 쉬는 습관이 심장 질환을 유발할 수 있습니다.&nbsp;&nbsp;VOI.id잠들기 전 스마트폰 1시간 더…심뇌혈관 사망 5만~6만명, ‘교감신경’이 문제였다&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdEotNmsyYnlFNndtOHlEOC1EX3NhS0NBRGpiNWoxYlZYV3F2Ukh4RUhVc3JlMldlVEpLQ0FOb3JXVEFjQmltV3owMnJ1MXJJTS14Z3RWaGJnXzdRd2xEdGJOMUUtQjMxRXprNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "590f643dbf14",
+      "title": "혈당강하부터 심혈관 위험 감소효과까지 - 메디칼업저버",
+      "published": "2026-04-13T00:48:53+00:00",
+      "summary": "혈당강하부터 심혈관 위험 감소효과까지&nbsp;&nbsp;메디칼업저버[한국인의 100가지 질환-5] 당뇨 초기 증상, 놓치면 평생 관리해야 한다&nbsp;&nbsp;뉴스인[메디 인 칼럼] 당뇨병, 혈관 합병증 막는 혈당 관리가 핵심&nbsp;&nbsp;인천뉴스",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HX0J3ZDd0ZjVxR2UzMGRlaUVWMy1RRGZMZFJNdXREZG5IYkZQeWJpUHRFR3FxdjJJSGNpbVJYR3BlTmtsR2xBVVdZd1NpOXp0Q1V2RlZtVlplY05PbDdjN1dTR0dFbjZUTnlV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "546746a84d8e",
+      "title": "\"연고 바르고 반창고 대신, 스마트 패치\"… 빛이 약을 자동 조절하는 OLED 패치, 치료 속도 2배↑ - 인공지능신문",
+      "published": "2026-04-13T00:48:39+00:00",
+      "summary": "\"연고 바르고 반창고 대신, 스마트 패치\"… 빛이 약을 자동 조절하는 OLED 패치, 치료 속도 2배↑&nbsp;&nbsp;인공지능신문“피부에 착 붙이면” 상처 치료속도 2배↑…‘빛+약물’ 스마트패치 나왔다&nbsp;&nbsp;v.daum.netKAIST, 빛이 약을 자동 조절 'OLED 패치' 개발…치료 속도 2배↑&nbsp;&nbsp;연합뉴스KAIST, 자가조절형 OLED 상처 치료 패치 개발…치료 속도 2배↑&nbsp;&nbsp;뉴스1KAIST \"붙이는 'OLED 패치'로 상처 치료…치유효과 검증\"&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "인공지능신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9STFQxMFdaSElqMVhzTjVPejlWcVlTNjRXamZtY3hJVzQwVDFVdVNZdTAyU2NzWGE1YWN4a0I2RDJjaUpJODd2aDczc0doRThGNFhEX2dRQzBJelU3TEE2SkpqOUFYZFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1560c73f70a7",
+      "title": "[국립암센터] 백혈병 성장 돕는 ‘SON 단백질’ 규명 - 병원신문",
+      "published": "2026-04-13T00:13:54+00:00",
+      "summary": "[국립암센터] 백혈병 성장 돕는 ‘SON 단백질’ 규명&nbsp;&nbsp;병원신문\"백혈병세포가 지방 합성 촉진해 성장하는 원리 규명\"&nbsp;&nbsp;연합뉴스백혈병 암세포 증식 돕는 ‘SON 단백질’ 역할 규명&nbsp;&nbsp;v.daum.net\"소아에 흔한 '급성 림프구성 백혈병' 성장 비밀 규명\"&nbsp;&nbsp;뉴스1백혈병 성장 비밀 규명&nbsp;&nbsp;BRIC",
+      "sources": [
+        {
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGZEs0NzN1VmQ0WnBIdVJ1UnhudjUwZ3ExTTBCeVpPTS1FVDgwcGk3VU9zdC1EMFlRLWpCQnhab1lDc0c2ZmJROE9hWUNxRjdQVWpVZHk0OWRLUm03NktmVzRwVV9ydTVPYlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e56611bfc33c",
+      "title": "대웅바이오, 알츠하이머형 치매치료제 ‘글리빅사’ 제품 출시 - 헬스경향",
+      "published": "2026-04-13T00:07:30+00:00",
+      "summary": "대웅바이오, 알츠하이머형 치매치료제 ‘글리빅사’ 제품 출시&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NbXUxRlRmM0M0dXZLOWZLT2NtRWdrWk5ybjFfOTVGQlFHUklPNnNtVTZTd3hjVEdDNkhjYkdvc1hIWHhUakFlY1V4NFZnb2NYRmFUTW9BdDZ2WFRiQmFxeHo1YW1PS1ZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5357cf8e41e1",
+      "title": "부산대, 홍합 접착 원리로 스마트 나노입자 표적 치료 성공 - 비즈월드",
+      "published": "2026-04-12T23:30:00+00:00",
+      "summary": "부산대, 홍합 접착 원리로 스마트 나노입자 표적 치료 성공&nbsp;&nbsp;비즈월드",
+      "sources": [
+        {
+          "name": "비즈월드",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYkJzZjNsLVJCaFlHQk9GSlI3TThuemdHcXUtTEc5algtY2lFbjZsYUY1WENLZzJaOWR2UTNaa2t5YU5RM3NzYU9oZW5oRzFwbWxwaU14MWtCUE5pbURwMElWTEo5ZUlZb21J?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dba13be8b43f",
+      "title": "\"인지 기능 저하 조절 원격 조정 장치는 당신의 장 속에 있다\" - 히트뉴스",
+      "published": "2026-04-12T21:04:00+00:00",
+      "summary": "\"인지 기능 저하 조절 원격 조정 장치는 당신의 장 속에 있다\"&nbsp;&nbsp;히트뉴스腸 건강 망가졌다는 ‘의외의’ 신호들&nbsp;&nbsp;헬스조선충남대 허준영 교수, 장-뇌-미토콘드리아 연결 기전 연구 발표&nbsp;&nbsp;디지틀조선일보주4회 운동, 매끼 단백질 먹는 갓생러…장은 신음 토했다 [Health&]&nbsp;&nbsp;v.daum.net심장병·비만 위험까지... 장내 미생물 흔드는 5가지 음식&nbsp;&nbsp;조세일보",
+      "sources": [
+        {
+          "name": "히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRVWJYak1iTTJrTzV6YmRnNmhrM2E5NVJ6SFgtZ1ctd2FhOU5rMHVFTjZLaFFwcnN5MUtOVkhWN2c0bjJyQWNvWTR5dEdrdnVqU2FkaHFmNFlZcXEzLWZVd2dJdmNmN0Uxa0Vz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff4cc36b9b6e",
+      "title": "[제59회 유한의학상] 인공지능 기반 심전도 연령 예측과 심방세동 위험 연구 - 의사신문",
+      "published": "2026-04-12T21:00:00+00:00",
+      "summary": "[제59회 유한의학상] 인공지능 기반 심전도 연령 예측과 심방세동 위험 연구&nbsp;&nbsp;의사신문",
+      "sources": [
+        {
+          "name": "의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BS2F2THQwZXlOd00wS0dnekc4QzhxWlBRY0hyTDFCREZFR2J3eGpQM0haTmp2UDgtZVJaTHhUN0llcXVIR3pNam5YVWlROFJaMXgxUHJaU2xzS09xM3RIRFJQaTJNNnFKZVVFWjluTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4887e3e74796",
+      "title": "\"중증천식은 관리 사각지대···생물학적 제제 문턱 낮춰야\" - 메디칼업저버",
+      "published": "2026-04-12T20:58:20+00:00",
+      "summary": "\"중증천식은 관리 사각지대···생물학적 제제 문턱 낮춰야\"&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUWDJ3YUlvU2haRkFZSGI4Y2hhcms2aXlqczlCUVMxeHVCTGx6MTRuOXJVSURGRVl4ZWw3bjRLcnpwMjJFMHprVHZ4TkFOME05QU02RWdxUkRaQTB5NWo2eEcxdmFuREh6eHQ0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2452b740447c",
+      "title": "2026년 감염병 동시다발 확산, 아시아·태평양 지역 경보 상태 - 한국AI부동산신문",
+      "published": "2026-04-12T17:13:26+00:00",
+      "summary": "2026년 감염병 동시다발 확산, 아시아·태평양 지역 경보 상태&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4aHRpVmZBRXBTSF9COVB6ZVo3VHRONTVvQjROWUhMZlJLalJhN2VzZ0c2R0xTMEhHMFFneHBzekZLZzdoOFVNQU9SWUo?oc=5"
         }
       ]
     },
@@ -33,7 +153,7 @@
       "id": "8b8676a3dfd2",
       "title": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\" - 네이트",
       "published": "2026-04-12T08:01:00+00:00",
-      "summary": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\"&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "summary": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\"&nbsp;&nbsp;네이트“운동 따로 안 해도 되겠네?”…하루 1~2분, 치매·당뇨 갈랐다&nbsp;&nbsp;세계일보1시간 걷기 vs 3분 숨차게… 건강 효과, 뭐가 더 클까[건강팩트체크]&nbsp;&nbsp;v.daum.net“숨이 찰 정도로 움직여라”…8가지 만성질환 위험 낮추는 격렬한 운동은?&nbsp;&nbsp;레이디경향운동은 강도보다 '시간'…당뇨 환자 혈당 개선의 핵심 변수&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
@@ -114,18 +234,6 @@
       ]
     },
     {
-      "id": "db5405d0a359",
-      "title": "“한 번 겪었다고 끝 아냐”... ‘이 병’ 위험 10년간 이어진다 - 코메디닷컴",
-      "published": "2026-04-11T23:06:00+00:00",
-      "summary": "“한 번 겪었다고 끝 아냐”... ‘이 병’ 위험 10년간 이어진다&nbsp;&nbsp;코메디닷컴\"한 번 겪었다고 끝 아냐\"…'이 병' 위험 10년간 이어진다&nbsp;&nbsp;네이트5분 괜찮았다고 넘겼다…뇌졸중, 그 뒤 ‘48시간’이 생사 갈랐다&nbsp;&nbsp;v.daum.net욱신거리는 편두통, 단순 혈관 문제 아닌 과민해진 뇌의 비명 [김헌 원장 칼럼]&nbsp;&nbsp;미디어파인\"갑자기 힘 빠지거나 말이 어눌해지면\"…'일시적 뇌졸증' 의심해야&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5fc281bHZuOUN4TU44cFBOZ2RQZkZqZzNmZUltT0VhNzJRUnNxWXQtNnVJenh4RFd3TDgwSzRuQUNPdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1847cfbd371a",
       "title": "인플라메이징, 조용한 염증이 노화 질환을 유발한다 - 시사저널",
       "published": "2026-04-11T23:00:00+00:00",
@@ -134,18 +242,6 @@
         {
           "name": "시사저널",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uVmR0bEE1V1h2ZlhIaHotaTJTQ2xZZm1lZ21OMWVzUUF4ZHdfV1FubW8wbHNBVlJsR0RqQUJmVS1wOVJ5NDVVX0NKNmRJOVpVQXBWRkZMazhrRFlDRjFQRWRtejZhbDQtVmIyTC1jRdIBc0FVX3lxTE5XUWtnMnRFeVdjWlVsTFY0emZ5UWEwb3NsZk1oVUZCSnl0REVmbFpXcHRYUExSMC1vSTJpYVIzbVlvVF9LbU55LWNPVWpOWFpkcDlYWS1UOGxGc1ZPTTAwTjBsWHpCU0RFSndVZFdBUmJrT0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f7f687d989e",
-      "title": "\"밤에 절대 마시면 안돼, 여자는 특히\"…불면증보다 심각한 증상 유발하는 음료[실험노트] - 아시아경제",
-      "published": "2026-04-11T22:18:00+00:00",
-      "summary": "\"밤에 절대 마시면 안돼, 여자는 특히\"…불면증보다 심각한 증상 유발하는 음료[실험노트]&nbsp;&nbsp;아시아경제",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xaVh5UF9UZWxCckVJcUdtVkJLZ2YzWEtuRE1wRXUxWHlINzhfV3ZtWURGZlI4S20wSmRUSHlYZ0QzTnhJZEFFTWsyMXd0dUdUSU1pbjRFLXVJMl9PajRKaQ?oc=5"
         }
       ]
     },
@@ -177,7 +273,7 @@
       "id": "99bef321131f",
       "title": "자생한방병원, ‘육공단’ 해마 신경세포 보호 효과·기전 규명 - 스포츠경향",
       "published": "2026-04-11T20:43:00+00:00",
-      "summary": "자생한방병원, ‘육공단’ 해마 신경세포 보호 효과·기전 규명&nbsp;&nbsp;스포츠경향육공단, 알츠하이머 핵심 원인 ‘타우 단백질’ 억제 가능성 확인&nbsp;&nbsp;아시아투데이기억력 책임지는 해마, 한약으로 지킨다&nbsp;&nbsp;네이트한약 ‘육공단’, 기억력 책임지는 ‘해마 신경세포’ 보호 효과 확인&nbsp;&nbsp;헬스오\"기억력 책임지는 해마, 한약으로 지킨다'…육공단 효과 확인&nbsp;&nbsp;뉴스1",
+      "summary": "자생한방병원, ‘육공단’ 해마 신경세포 보호 효과·기전 규명&nbsp;&nbsp;스포츠경향Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "스포츠경향",
@@ -198,14 +294,14 @@
       ]
     },
     {
-      "id": "0d4b97968354",
-      "title": "“몸에 좋은 두부, ‘이것’과 먹으면 신장에 돌 생긴다”… 정말일까? - 코메디닷컴",
-      "published": "2026-04-11T16:51:00+00:00",
-      "summary": "“몸에 좋은 두부, ‘이것’과 먹으면 신장에 돌 생긴다”… 정말일까?&nbsp;&nbsp;코메디닷컴",
+      "id": "8f6fcbfc288a",
+      "title": "\"몸에 좋은 두부, '이것'과 먹으면 신장에 돌 생긴다\"…정말일까? - 네이트",
+      "published": "2026-04-11T16:52:00+00:00",
+      "summary": "\"몸에 좋은 두부, '이것'과 먹으면 신장에 돌 생긴다\"…정말일까?&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mcEJxTDlKd1gzOVVvQUtFRmxOQUw0UDRveXFDNVl5MWMzYUp2MDlhLWxRQ0hRcG1YSV9JYTI2Q0JnUQ?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnTGxiQlN2QVVNWUYySG4tTVI3U2pITDNTRU9vUUdqSmlnSGFNd1UyMDhhUjQ5Mm5FSHc5blZHbmJpWUpUWmhaSnB0VWVwZGtkMW9N?oc=5"
         }
       ]
     },
@@ -213,7 +309,7 @@
       "id": "c935c977f4d5",
       "title": "“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은? - 전자신문",
       "published": "2026-04-11T07:40:00+00:00",
-      "summary": "“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문앉아있는 1시간 늘 때마다…기대 수명 22분 줄어든다?&nbsp;&nbsp;레이디경향사무실 의자가 '질병 제조기'?…\"하루 8시간 앉아 있으면 치매 위험 커져\"&nbsp;&nbsp;네이트적절한 운동과 충분한 수면, 노년기 치매 예방에 핵심&nbsp;&nbsp;메디컬투데이\"긍정적으로 살수록 치매 덜 걸린다\"...美 하버드대, 14년 추적 결과&nbsp;&nbsp;디멘시아뉴스",
+      "summary": "“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;네이트앉아있는 1시간 늘 때마다…기대 수명 22분 줄어든다?&nbsp;&nbsp;레이디경향사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;twig24.com치매를 예방하는 생활 습관, 과학이 답하다&nbsp;&nbsp;캐어유 뉴스",
       "sources": [
         {
           "name": "전자신문",
@@ -225,7 +321,7 @@
       "id": "fd5d75a79793",
       "title": "미혼 여성, 기혼 여성 보다 암 발병률 85% 더 높아 - 세계일보",
       "published": "2026-04-11T07:30:40+00:00",
-      "summary": "미혼 여성, 기혼 여성 보다 암 발병률 85% 더 높아&nbsp;&nbsp;세계일보\"결혼해서 속썩고 사는게 낫다?\"...미혼녀, 암발생 위험 '유부녀의 85%'&nbsp;&nbsp;v.daum.net“딸, 결혼 꼭 해야 해” 괜한 잔소리 아니었다…미혼 여성, 기혼보다 암 발병률 85% 높았다&nbsp;&nbsp;서울경제미혼 남녀 암 발병률 더 높다…남성 항문암 위험 5배 차이나 - 머니투데이&nbsp;&nbsp;mt.co.kr결혼 안 한 사람 암 더 잘 걸린다…\"기혼자보다 70~80% 더 높은 발병\"&nbsp;&nbsp;네이트",
+      "summary": "미혼 여성, 기혼 여성 보다 암 발병률 85% 더 높아&nbsp;&nbsp;세계일보\"결혼해서 속썩고 사는게 낫다?\"...미혼녀, 암발생 위험 '유부녀의 85%'&nbsp;&nbsp;v.daum.net미혼 남녀 암 발병률 더 높다…남성 항문암 위험 5배 차이나 - 머니투데이&nbsp;&nbsp;mt.co.kr“딸, 결혼 꼭 해야 해” 괜한 잔소리 아니었다…미혼 여성, 기혼보다 암 발병률 85% 높았다&nbsp;&nbsp;서울경제결혼 안 한 사람 암 더 잘 걸린다…\"기혼자보다 70~80% 더 높은 발병\"&nbsp;&nbsp;뉴스1",
       "sources": [
         {
           "name": "세계일보",
@@ -249,71 +345,11 @@
       "id": "72ece87d8adb",
       "title": "건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과” - 하이닥",
       "published": "2026-04-11T04:00:00+00:00",
-      "summary": "건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과”&nbsp;&nbsp;하이닥\"무조건 채식보다는 질이 중요\"… 치매 예방의 핵심&nbsp;&nbsp;한국의약통신",
+      "summary": "건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과”&nbsp;&nbsp;하이닥식물성 식단도 '질'이 좌우…좋은 식단일수록 치매 위험 낮다&nbsp;&nbsp;네이트\"무조건 채식보다는 질이 중요\"… 치매 예방의 핵심&nbsp;&nbsp;한국의약통신",
       "sources": [
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfWHEzMHFkMmtfd1VqZVFRajFMcUpaTENkX2RPVkZUUzk0cHRMRmp5ci1lWklpSWNxVE9UXzZ1OGJrU1psbmhfVnZ3aXBCTHRnLXFHb1NuR256ektBT2R4SmhkRXJ3VHJYT2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f829b8a4f99",
-      "title": "“음식이 만든 병, 음식으로 치료한다” - 경향신문",
-      "published": "2026-04-11T00:00:00+00:00",
-      "summary": "“음식이 만든 병, 음식으로 치료한다”&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRlV0YllvRG1tUDlUQU9XU1dRWTQ3ZVdmNU1DN2ZmSThGYjNFa0k5M3BKMk9fRjZOa2NIaGFDUEwyUVZscGZJdDNDdE44bXhvWm50ZUwwejloZ9IBX0FVX3lxTFA4OVRIRXVuZlJpMnFDTmFTTEdoSXltTHlPSnJYbWxtTC0xUGlBNU5OQkxPa0VCVi1MbkttSnRycVpsaVlCcWpKTzM0Zm82bUlvX1NzZXJnNFUtRGZWN284?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "878870a63efb",
-      "title": "\"불 켜고 자면 살찐다?\" 비만부터 우울증까지, 수면 등불의 치명적 유혹 - 브랜드경제신문",
-      "published": "2026-04-10T22:25:44+00:00",
-      "summary": "\"불 켜고 자면 살찐다?\" 비만부터 우울증까지, 수면 등불의 치명적 유혹&nbsp;&nbsp;브랜드경제신문",
-      "sources": [
-        {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE91cFRobG9IVi1oUXBSTjhsbTJuU2JTQkhpY09GY2FnSWNuRUV0SkktazRiTmpqV2JOQ1VwdFFNQkdsZlU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "177f63dec7f8",
-      "title": "악취 나던 사마귀, 알고 보니 암… 70대 男 겪은 사연은? - 헬스조선",
-      "published": "2026-04-10T20:01:00+00:00",
-      "summary": "악취 나던 사마귀, 알고 보니 암… 70대 男 겪은 사연은?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3dEs4SkFnM3BzOEZVb3lqV2ZLVmE3M0xRNTgzY1hkcjlNanBMRksxcFpnWE9oZF9aR0RXYnRNbTZXb1J5NjZSTGE0eWg0SUFWbUNtcmJSLUJsdDdibFlpcmlod2UtU1FPMGhHNTg4Q1pSTHlGS0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b58776e9c3fc",
-      "title": "200살 '아기 별' 발견...거대 가스 링은 별의 '재채기'? - 초이스경제",
-      "published": "2026-04-09T23:35:20+00:00",
-      "summary": "200살 '아기 별' 발견...거대 가스 링은 별의 '재채기'?&nbsp;&nbsp;초이스경제",
-      "sources": [
-        {
-          "name": "초이스경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JQjUyYS1JOHE1MzhCU2tyb2wyYnc3bG1TVTkzWC1YWXJBMHlEUU13am5UOWJ4LXZibWFuU2FuczZycjRPQXJsZ0lLR0Y4b0dnYVlJYWFENGxBX0dZZmFKYTVRWHdnYnVkSmQwUU1kRdIBc0FVX3lxTE9tNV9YOW9VVzJuOUhETi1lT1J5d3pUTEk0UDNqVGhvWUVMTUlaMXFTN0YxTWVPRVlYSHVjNTd5dV9iN3B1RUhWcGl6M3JsemQwY2xLcHlVaVgtUzNwdFZPU2pfOU90QmhOY29TYTcxbUNWd00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cdc2132ae67b",
-      "title": "“우주 27% 차지 암흑물질, 하나 아닌 두 가지 형태로 존재” - 동아일보",
-      "published": "2026-04-09T19:30:00+00:00",
-      "summary": "“우주 27% 차지 암흑물질, 하나 아닌 두 가지 형태로 존재”&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LdWo2dUZuSUxZMzRQMjhqVlVkcXU0b3d3Vlp6ZUhISjlnWVFNR2RTeW1DQnNWODN0M1gzZTJscG5qZVFTVHFrbXg1UGJ2ejF1WjlCNXZtSlFwb05FNFpUREpRdDJobzF5VGtBUzRQONIBZkFVX3lxTFBGa0FCdjVzcFprNEVsblVsNGg3X3Qxckw4X1Z5aTlGUVoyaE1TbUVhVGoxTHhCb3BuREVweHY0MXNvbjktMzR3UHRFeERHcmZFY2E2aVdBaW82VU5qMTNOMzJlamVRUQ?oc=5"
         }
       ]
     }
