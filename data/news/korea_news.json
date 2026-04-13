@@ -1,10 +1,106 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-13T08:10:12.946559+00:00",
-  "total_fetched": 58,
-  "unique_count": 58,
-  "health_related_count": 31,
+  "fetched_at": "2026-04-13T13:46:32.713301+00:00",
+  "total_fetched": 70,
+  "unique_count": 70,
+  "health_related_count": 41,
   "news": [
+    {
+      "id": "47628bda09b0",
+      "title": "뇌졸중 막고 싶다면? '이 영양소'부터 챙겨라 - 헬스조선",
+      "published": "2026-04-13T12:40:00+00:00",
+      "summary": "뇌졸중 막고 싶다면? '이 영양소'부터 챙겨라&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vT2o2NUVaQ2ZJTkU0bi0xUFJYVWFWcFItSUNYTzFqak5OMF8zZThpWjFRUkpWZl9SRmgzd19rV0trREN0dGE2Q2h5ZVBjU21jaEw0d1NIb3dUenBTM0cyZkk5ZXEtRlNDSzRzb0o4WXlMWlR4MEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57af8e9fbc9a",
+      "title": "“자도자도 피로해”... 의외로 이 비타민 부족 때문? - 조세일보",
+      "published": "2026-04-13T11:00:53+00:00",
+      "summary": "“자도자도 피로해”... 의외로 이 비타민 부족 때문?&nbsp;&nbsp;조세일보하버드 의사 “75세 미만 성인, 비타민 D 보충제 불필요”[노화설계]&nbsp;&nbsp;동아일보\"자도자도 피로해\"…의외로 이 비타민 부족 때문?&nbsp;&nbsp;네이트왜 이렇게 피곤하지?...영양소 결핍되면 나타나는 징후들&nbsp;&nbsp;코메디닷컴비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10S2hWLXNrRWJUZS03c3UyTzdrNzA4WFBHRjVoM0VUN0MtN09RbmtCNHdCSWx0aVptNWhjVy1iOWYySWtCRUxEcnlEU0RBcU5DSGlHbjJEaUZmOXRLTlRpYVF2WEhVcVEyYjFBTWZ2NA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc15fb5abd88",
+      "title": "“체한 줄 알았는데, 결국 개복 수술”… 40대 男 겪은 일 보니? - 헬스조선",
+      "published": "2026-04-13T11:00:00+00:00",
+      "summary": "“체한 줄 알았는데, 결국 개복 수술”… 40대 男 겪은 일 보니?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uMW1uVWdNdFJQNThmNVlYbDZxbmdHYUlrU3VoVzBHdDE5dmpTcTJkQWxPNVZtTGc0bW00REw4Z0h6bTVudmJrX3hHMmRVQ2FnMDBFd0kzT1NubnFGRVA5T2dOcHliMlhwR1BOblRTVEtRd2xlVFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f03904f683e",
+      "title": "결혼 안 하면, 암 발생 위험 최대 83%↑… 美 424만 명 분석 결과 - 하이닥",
+      "published": "2026-04-13T10:00:00+00:00",
+      "summary": "결혼 안 하면, 암 발생 위험 최대 83%↑… 美 424만 명 분석 결과&nbsp;&nbsp;하이닥미혼 남녀 암 발병률 더 높다…남성 항문암 위험 5배 차이나 - 머니투데이&nbsp;&nbsp;mt.co.kr결혼 안 한 사람 암 더 잘 걸린다…\"기혼자보다 70~80% 더 높은 발병\"&nbsp;&nbsp;네이트결혼 한 번도 안 한 사람, 암 위험 크다&nbsp;&nbsp;헬스조선“결혼하면 암 덜 걸린다?”…미혼여성이 암 위험 83% 높아[나우,어스]&nbsp;&nbsp;헤럴드경제",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qcG9PaExvUVFGRkhsY2tzbzRoSmFIZDgwVEVQdzVwX2p6YVpEd2tFQUQ3MWZNS3lTS0JmTW4wOS1TS0xmZWEyZWxWN2dwZ0ZnOVRnckhMMG8zZnZNNTRvS1hYZC1qOGhoRlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "989b868a6911",
+      "title": "‘저탄고지’ 케톤식, 늙은 쥐에 줬더니...암컷서 수면·기억력 개선 - 디멘시아뉴스",
+      "published": "2026-04-13T09:28:35+00:00",
+      "summary": "‘저탄고지’ 케톤식, 늙은 쥐에 줬더니...암컷서 수면·기억력 개선&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3dTQzX0U1YVIzdGQyaWZLbkZQdWVfa1BnN0lqdmducDdQSFJlc2Q0VGlZdWI3NzA5NkFvaXNoY21IUWdfd2FETktSckZJLUh2amxZay1DZFo5YkVDcTNhVDNydnVvQ1ZXcDVSUFRNVkNmUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9062887a4c25",
+      "title": "생리불순 방치했다가… ‘자궁암 3기’ 英 여성의 경고 - 헬스조선",
+      "published": "2026-04-13T08:30:00+00:00",
+      "summary": "생리불순 방치했다가… ‘자궁암 3기’ 英 여성의 경고&nbsp;&nbsp;헬스조선여성들은 자궁경부암 검진 비용을 기꺼이 지불할 의향이 있을까요?&nbsp;&nbsp;Vietnam.vn“자궁경부암 조기 퇴치 위해 머리 맞댄다”… 22일 국회 정책토론회 개최&nbsp;&nbsp;한국의약통신",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZmpTMnlxQlBhUFJOeDg4VkJkTVE5azI4eXNGNmQ5eVVjTjVnWW5mWWRpU3I1T0FXcVpZVnRjcHZQOGw0akRFaldaMnMybDlSVVFTOUVDU3g3bzJHYVB3dldvNkdvczRFdFlOcUJ0THVxS2N5UEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "605f9084d390",
+      "title": "“건강에 좋다고 해서 먹었는데” 혈당 올리는 주범… 뭘까? - 헬스조선",
+      "published": "2026-04-13T07:44:00+00:00",
+      "summary": "“건강에 좋다고 해서 먹었는데” 혈당 올리는 주범… 뭘까?&nbsp;&nbsp;헬스조선1930만명 ‘혈당 경고등’…아침 주스 한 잔, 30분 만에 흔들렸다&nbsp;&nbsp;v.daum.net“식사 전 ‘이것’ 먹어라”… 다이어트 의사가 알려준 방법, 뭐야?&nbsp;&nbsp;헬스조선먼저 먹기만 해도 혈당이 달라진다…전문가가 제안한 당뇨 잡는 식전 음식은?&nbsp;&nbsp;전자신문\"혈당 스파이크 막으면서 빵 먹을 수 있다\"…전문의의 추천 방법 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reHN4U1dfeUVEVEYxZlVIMVNUdV9yYVpBMU1MUkkyTnBZa3RmeXJORUc0Nm9OeDh1SE1YV1F2dHVndUFnQ1RjalJFcTBYZFBnYmUzMkE0NHBmdnYzRDNSV0FYYVFFYU1IM3F5alFwU3FURVA3ZUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ebcb4a0b71fb",
+      "title": "독감바이러스 양성률 3주 련속 상승, 주요 류행주 변해--국내뉴스 - 인민넷",
+      "published": "2026-04-13T06:24:00+00:00",
+      "summary": "독감바이러스 양성률 3주 련속 상승, 주요 류행주 변해--국내뉴스&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwUEQ4eXpfdTl6eVZQeWE4c1lqOUNDV1lBRjAtc1VCekdNU3IzcHRMekxNN1NsS2gwYkZDRXFiRUxXOUo2dl9WUGozREFaNC16eENPOFRLSkh3Sk1TMVp5MlhZQXBfYzM3S1hqRmZn?oc=5"
+        }
+      ]
+    },
     {
       "id": "b3c86dd1717c",
       "title": "뇌 속 숨 조절 영역이 혈압 올린다…고혈압 '원인 회로' 첫 규명 가능성 - 디지털투데이",
@@ -21,7 +117,7 @@
       "id": "0839070c60f9",
       "title": "\"주사 한 번에…귀 안 들리던 아이가 대화했다\"…유전자 치료, 어디까지 왔나 - 네이트",
       "published": "2026-04-13T05:47:00+00:00",
-      "summary": "\"주사 한 번에…귀 안 들리던 아이가 대화했다\"…유전자 치료, 어디까지 왔나&nbsp;&nbsp;네이트“주사 한 번에…귀 안 들리던 아이가 대화했다”…유전자 치료, 어디까지 왔나&nbsp;&nbsp;v.daum.net치매의 주범, 인공와우수술로 청력과 뇌건강을 지킨다&nbsp;&nbsp;네이트태어날 때부터 못 들은 아이, '이 주사'로 엄마 목소리 들었다&nbsp;&nbsp;네이트",
+      "summary": "\"주사 한 번에…귀 안 들리던 아이가 대화했다\"…유전자 치료, 어디까지 왔나&nbsp;&nbsp;네이트“주사 한 번에…귀 안 들리던 아이가 대화했다”…유전자 치료, 어디까지 왔나&nbsp;&nbsp;v.daum.net태어날 때부터 못 들은 아이, '이 주사'로 엄마 목소리 들었다&nbsp;&nbsp;네이트치매의 주범, 인공와우수술로 청력과 뇌건강을 지킨다&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
@@ -45,11 +141,35 @@
       "id": "42ad66779b43",
       "title": "낙관적인 마음가짐, 치매 위험을 15% 낮춘다 - 캐어유 뉴스",
       "published": "2026-04-13T05:00:00+00:00",
-      "summary": "낙관적인 마음가짐, 치매 위험을 15% 낮춘다&nbsp;&nbsp;캐어유 뉴스“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;서울신문하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;네이트앉아있는 1시간 늘 때마다…기대 수명 22분 줄어든다?&nbsp;&nbsp;레이디경향",
+      "summary": "낙관적인 마음가짐, 치매 위험을 15% 낮춘다&nbsp;&nbsp;캐어유 뉴스사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;서울신문하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;네이트“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문수면시간 짧아도 길어도 치매 위험... 수면 8시간 초과, 치매 위험 28% 상승&nbsp;&nbsp;캔서앤서",
       "sources": [
         {
           "name": "캐어유 뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CdFozZXFJVVN4cUFVVER2YThmd1MtcWZkN0VCbFdlaV8ycElIX0M0UFZ3OEpqNUg1TUpYanhWRGJiSjVzOGlsQjhhenFVaGFmUHAyYmNuNXFWTUVmdko3Q0hCaVVrc0hOeC1Ycw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ccdd42c178fb",
+      "title": "“하루 한 잔의 차, 뼈를 지킨다”…고령 여성 골밀도 높인다는 연구 결과 발표 - 레이디경향",
+      "published": "2026-04-13T05:00:00+00:00",
+      "summary": "“하루 한 잔의 차, 뼈를 지킨다”…고령 여성 골밀도 높인다는 연구 결과 발표&nbsp;&nbsp;레이디경향",
+      "sources": [
+        {
+          "name": "레이디경향",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JQzBOaXdjMWl6RkJGaGNFQVNXWlAtN1ZvQ01zTnpJU1ZYbzVxYlVBSEsyWlBkekxBaFNGQnA1UmtCUWxnNFpNNXNhcDVjY1VlbFhyZFVUZGU1b2NBdnJzU21MLUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c94760098341",
+      "title": "[의료인 초대석] 박언휘 원장이 전하는 100세 시대의 예고된 축복, “노화는 치료 가능한 질병이다” - 한국미디어뉴스통신",
+      "published": "2026-04-13T04:23:20+00:00",
+      "summary": "[의료인 초대석] 박언휘 원장이 전하는 100세 시대의 예고된 축복, “노화는 치료 가능한 질병이다”&nbsp;&nbsp;한국미디어뉴스통신노화 44세와 60세에 가속… 노화 늦추는 시대 온다 - 조선비즈&nbsp;&nbsp;Chosunbiz주변에 ‘이런 사람’ 너무 흔한데… 더 빨리 늙는다고?&nbsp;&nbsp;코메디닷컴“노화 자체를 제어한다”…패러다임 바뀌는 ‘역노화 연구’&nbsp;&nbsp;v.daum.net‘저속노화’ 열풍과 ‘노화세포설’로 보면 ‘채우는 치료’보다 ‘세포 살리는 치료’가 더 중요&nbsp;&nbsp;스포츠경향",
+      "sources": [
+        {
+          "name": "한국미디어뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNTFTM0RjaWFGVXR1TEtYVUFMOHIzNzJnclprMkhRdlFHc2RldDZiS3hyMnF5YnFscTBwTTV3ckxBNE1tZDVxNl93MzFacjlWdnFhS0pSay0xVmNDU05KcjZGNFhXLXdJR0hBQw?oc=5"
         }
       ]
     },
@@ -129,7 +249,7 @@
       "id": "e2f91850a540",
       "title": "국립암센터, 백혈병 성장 비밀 ‘지방 대사’로 풀었다 … 암세포 증식 돕는 SON 단백질 규명 - 헬스오",
       "published": "2026-04-13T00:36:22+00:00",
-      "summary": "국립암센터, 백혈병 성장 비밀 ‘지방 대사’로 풀었다 … 암세포 증식 돕는 SON 단백질 규명&nbsp;&nbsp;헬스오백혈병 성장 비밀 규명&nbsp;&nbsp;BRIC백혈병 암세포 증식 돕는 ‘SON 단백질’ 역할 규명&nbsp;&nbsp;v.daum.net\"백혈병세포가 지방 합성 촉진해 성장하는 원리 규명\"&nbsp;&nbsp;연합뉴스\"소아에 흔한 '급성 림프구성 백혈병' 성장 비밀 규명\"&nbsp;&nbsp;뉴스1",
+      "summary": "국립암센터, 백혈병 성장 비밀 ‘지방 대사’로 풀었다 … 암세포 증식 돕는 SON 단백질 규명&nbsp;&nbsp;헬스오\"백혈병세포가 지방 합성 촉진해 성장하는 원리 규명\"&nbsp;&nbsp;연합뉴스백혈병 암세포 증식 돕는 ‘SON 단백질’ 역할 규명&nbsp;&nbsp;v.daum.net\"소아에 흔한 '급성 림프구성 백혈병' 성장 비밀 규명\"&nbsp;&nbsp;뉴스1백혈병 성장 비밀 규명&nbsp;&nbsp;BRIC",
       "sources": [
         {
           "name": "헬스오",
@@ -150,6 +270,30 @@
       ]
     },
     {
+      "id": "fb8fce757a09",
+      "title": "한미약품, '삼중작용제' 비만 美2상 \"환자모집 완료\" - 바이오스펙테이터",
+      "published": "2026-04-12T23:56:00+00:00",
+      "summary": "한미약품, '삼중작용제' 비만 美2상 \"환자모집 완료\"&nbsp;&nbsp;바이오스펙테이터",
+      "sources": [
+        {
+          "name": "바이오스펙테이터",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsSmhGd0pCUlc2NUVid0dLYXdjZHpzdTN5S29SalBvX3BLZXBmaU5JbjlXWEt0MGtYWHNoUVMyQjlERk1TT0NQSGhmcWlsWTBHeVRFckpKUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56348a746c97",
+      "title": "KAIST, 빛이 약 자동 조절 OLED 패치 개발...치료 속도 2배 향상 - 뉴스밴드",
+      "published": "2026-04-12T23:44:44+00:00",
+      "summary": "KAIST, 빛이 약 자동 조절 OLED 패치 개발...치료 속도 2배 향상&nbsp;&nbsp;뉴스밴드“피부에 착 붙이면” 상처 치료속도 2배↑…‘빛+약물’ 스마트패치 나왔다&nbsp;&nbsp;v.daum.netKAIST, 빛이 약을 자동 조절 'OLED 패치' 개발…치료 속도 2배↑&nbsp;&nbsp;연합뉴스KAIST, 자가조절형 OLED 상처 치료 패치 개발…치료 속도 2배↑&nbsp;&nbsp;뉴스1상처에 빛 쏴서 약물량 조절 ‘스마트 패치’ 나왔다&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "뉴스밴드",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id3hLSXBWaTdaWjhzTVdJRy03c0xveVMxR3l4YWhCMXpIMDBHM1o2dkU2U1YycC1rYzQ1VkZPUk9SLUo1MXVYdzZQMHh3SWN3QlpvTmY2V1pOWXFpQWNyNWJFYzRoN0ozakE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5357cf8e41e1",
       "title": "부산대, 홍합 접착 원리로 스마트 나노입자 표적 치료 성공 - 비즈월드",
       "published": "2026-04-12T23:30:00+00:00",
@@ -158,18 +302,6 @@
         {
           "name": "비즈월드",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYkJzZjNsLVJCaFlHQk9GSlI3TThuemdHcXUtTEc5algtY2lFbjZsYUY1WENLZzJaOWR2UTNaa2t5YU5RM3NzYU9oZW5oRzFwbWxwaU14MWtCUE5pbURwMElWTEo5ZUlZb21J?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e5f8b22f8c9",
-      "title": "\"피부에 착 붙이면\" 상처 치료속도 2배↑…'빛+약물' 스마트패치 나왔다 - 네이트",
-      "published": "2026-04-12T23:19:00+00:00",
-      "summary": "\"피부에 착 붙이면\" 상처 치료속도 2배↑…'빛+약물' 스마트패치 나왔다&nbsp;&nbsp;네이트“피부에 착 붙이면” 상처 치료속도 2배↑…‘빛+약물’ 스마트패치 나왔다&nbsp;&nbsp;v.daum.net상처에 빛 쏴서 약물량 조절 ‘스마트 패치’ 나왔다&nbsp;&nbsp;동아일보KAIST, 빛이 약을 자동 조절 'OLED 패치' 개발…치료 속도 2배↑&nbsp;&nbsp;연합뉴스KAIST, 자가조절형 OLED 상처 치료 패치 개발…치료 속도 2배↑&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kclo1QUx5RzlzcXhFVEREeE5mQ1pId0hzbjZyMkdYU3dMMlRhM2c1VGd6a2hnLTVSaXFYQzJ4TDNvaFliV2hfRTFpdVZKZjlrRnBV?oc=5"
         }
       ]
     },
@@ -210,14 +342,14 @@
       ]
     },
     {
-      "id": "8b8676a3dfd2",
+      "id": "68208d48823f",
       "title": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\" - 네이트",
       "published": "2026-04-12T08:01:00+00:00",
-      "summary": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\"&nbsp;&nbsp;네이트1시간 걷기 vs 3분 숨차게… 건강 효과, 뭐가 더 클까[건강팩트체크]&nbsp;&nbsp;동아일보“운동 따로 안 해도 되겠네?”…하루 1~2분, 치매·당뇨 갈랐다&nbsp;&nbsp;v.daum.net“숨이 찰 정도로 움직여라”…8가지 만성질환 위험 낮추는 격렬한 운동은?&nbsp;&nbsp;레이디경향운동은 강도보다 '시간'…당뇨 환자 혈당 개선의 핵심 변수&nbsp;&nbsp;네이트",
+      "summary": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\"&nbsp;&nbsp;네이트걷기도 뛰기도 아니었다… ‘수명 연장’ 효과 가장 큰 운동&nbsp;&nbsp;조선일보1시간 걷기 vs 3분 숨차게… 건강 효과, 뭐가 더 클까[건강팩트체크]&nbsp;&nbsp;동아일보“운동 따로 안 해도 되겠네?”…하루 1~2분, 치매·당뇨 갈랐다&nbsp;&nbsp;v.daum.net“숨이 찰 정도로 움직여라”…8가지 만성질환 위험 낮추는 격렬한 운동은?&nbsp;&nbsp;레이디경향",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2d0djQXhOSDV4SWRpR3ZtZ0ExdDBiaE9hc0pVSWt4YjFUVkxuZGh1T2VBeVc0SF9CYXh2TEEySkNNNFlxYXM2d29aUVhGeWdLaHZUZzQ3Sk5TbVJDdVByTg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUUGJxMTBwNXdtUzhNS0NSZ01mbDlIQWZhLXVQelJ1N1hVNTZZUm1Vc1pKenQtalFuVmV3SjNrM29BdzJxUDIyNjNUN2hIWk9iZEZr?oc=5"
         }
       ]
     },
@@ -270,18 +402,6 @@
       ]
     },
     {
-      "id": "46a9cbd5821c",
-      "title": "왜 이렇게 피곤하지?...영양소 결핍되면 나타나는 징후들 - 코메디닷컴",
-      "published": "2026-04-12T01:07:00+00:00",
-      "summary": "왜 이렇게 피곤하지?...영양소 결핍되면 나타나는 징후들&nbsp;&nbsp;코메디닷컴중장년 비타민D 부족하면 치매 유발 단백질 쌓인다&nbsp;&nbsp;헬스조선\"한국 성인 75%가 위험하다\" … 50대 이후 특히 위험한 이유&nbsp;&nbsp;reportera.co.kr‘이 비타민’ 부족하면 치매 위험 높아진다&nbsp;&nbsp;레이디경향비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FQkgzVWlxcnNFLS1xTWIzUjYwZXVuYU4tOU0ybzFlN2l4WWh6eF8wamtrdjRXQmFTd1hZV1Z2VlVqZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "83cf32389ad2",
       "title": "목소리도 '과로'한다…쉰 목소리 방치하면 수술까지 갈 수 있어 - 매경헬스",
       "published": "2026-04-12T01:00:00+00:00",
@@ -321,7 +441,7 @@
       "id": "1db5038c8cb2",
       "title": "'매일 한 숟갈' 혈당 급등 막고 포만감 유지…당뇨 환자가 직접 효과 본 '이 음식'은? - 전자신문",
       "published": "2026-04-11T21:00:00+00:00",
-      "summary": "'매일 한 숟갈' 혈당 급등 막고 포만감 유지…당뇨 환자가 직접 효과 본 '이 음식'은?&nbsp;&nbsp;전자신문“하루 한 스푼 먹었을 뿐인데”…땅콩버터, 급격한 혈당 상승 막는 이유&nbsp;&nbsp;동아일보“몸에 좋다는 거야? 나쁘다는 거야?”…빵에 발라먹는 ‘이것’, 전문가 의견은 [헬시타임]&nbsp;&nbsp;서울경제잼보다 낫다고 안심했다간 큰일…변비 유발할 수도 있다는 의외의 '아침 식재료'&nbsp;&nbsp;위키트리“매일 한 숟갈 먹으니 혈당 안 튀어”… 당뇨 환자 직접 먹어본 ‘이 음식’, 뭘까?&nbsp;&nbsp;헬스조선",
+      "summary": "'매일 한 숟갈' 혈당 급등 막고 포만감 유지…당뇨 환자가 직접 효과 본 '이 음식'은?&nbsp;&nbsp;전자신문“하루 한 스푼 먹었을 뿐인데”…땅콩버터, 급격한 혈당 상승 막는 이유&nbsp;&nbsp;동아일보잼보다 낫다고 안심했다간 큰일…변비 유발할 수도 있다는 의외의 '아침 식재료'&nbsp;&nbsp;위키트리“다이어트에 좋다더니?” 칼로리 폭탄 ‘이 음식’의 반전&nbsp;&nbsp;헬스조선살 찔까 봐 피했는데 오히려⋯혈당 낮추고 지방 태우는 '이 음식'&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "전자신문",
@@ -333,7 +453,7 @@
       "id": "99bef321131f",
       "title": "자생한방병원, ‘육공단’ 해마 신경세포 보호 효과·기전 규명 - 스포츠경향",
       "published": "2026-04-11T20:43:00+00:00",
-      "summary": "자생한방병원, ‘육공단’ 해마 신경세포 보호 효과·기전 규명&nbsp;&nbsp;스포츠경향Google 뉴스에서 전체 콘텐츠 보기",
+      "summary": "자생한방병원, ‘육공단’ 해마 신경세포 보호 효과·기전 규명&nbsp;&nbsp;스포츠경향자생한방병원, '육공단' 해마 신경세포 보호 효과·기전 규명&nbsp;&nbsp;네이트기억 담당 ‘해마’ 지킨다…한약 ‘육공단’ 효과 확인&nbsp;&nbsp;쿠키뉴스자생한방병원, 육공단 신경보호 기전 규명&nbsp;&nbsp;한스경제한약 ‘육공단’, 기억력 책임지는 ‘해마 신경세포’ 보호 효과 확인&nbsp;&nbsp;헬스오",
       "sources": [
         {
           "name": "스포츠경향",
@@ -366,14 +486,14 @@
       ]
     },
     {
-      "id": "7336c16ab882",
-      "title": "\"결혼하면 암 덜 걸린다?\"…미혼여성이 암 위험 83% 높아[나우,어스] - 네이트",
-      "published": "2026-04-11T09:41:00+00:00",
-      "summary": "\"결혼하면 암 덜 걸린다?\"…미혼여성이 암 위험 83% 높아[나우,어스]&nbsp;&nbsp;네이트\"결혼해서 속썩고 사는게 낫다?\"...미혼녀, 암발생 위험 '유부녀의 85%'&nbsp;&nbsp;v.daum.net미혼 남녀 암 발병률 더 높다…남성 항문암 위험 5배 차이나 - 머니투데이&nbsp;&nbsp;mt.co.kr결혼 안 한 사람 암 더 잘 걸린다…\"기혼자보다 70~80% 더 높은 발병\"&nbsp;&nbsp;뉴스1결혼 한 번도 안 한 사람, 암 위험 크다&nbsp;&nbsp;헬스조선",
+      "id": "27c5eca8efab",
+      "title": "해상전도 무인으로…“인간 승인에 20초, AI가 확전을?” [AI:너머] - KBS 뉴스",
+      "published": "2026-04-11T12:16:00+00:00",
+      "summary": "해상전도 무인으로…“인간 승인에 20초, AI가 확전을?” [AI:너머]&nbsp;&nbsp;KBS 뉴스",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iVmtNbmkxWnFPV1hxMElzQWNaeVBzcjBOaEx0dXowSVJKOFQ3LXJEbWN6Yy1CN0NpSVVZaWt0bmdUc3gwWl8wT1dUX2xLQ29VZDcw?oc=5"
+          "name": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ickpNdG5MeF9uVngwTFNuRnk2UDlNVUhtWmI0VENxYVM4QThvck9McVNzUWxZY0dkX2lpOEd4UkJSUW5OQzNlbko5M211bjBrOWE1eG1rWkZnQUU?oc=5"
         }
       ]
     }
