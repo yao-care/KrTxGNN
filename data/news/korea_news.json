@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-13T13:46:32.713301+00:00",
-  "total_fetched": 70,
-  "unique_count": 70,
-  "health_related_count": 41,
+  "fetched_at": "2026-04-13T19:18:21.998553+00:00",
+  "total_fetched": 66,
+  "unique_count": 66,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "ed87328f6e94",
+      "title": "“먼지 마셔서 목 아픈 줄 알았는데”… ‘HPV 감염’ 암이었던 男 - 헬스조선",
+      "published": "2026-04-13T15:20:00+00:00",
+      "summary": "“먼지 마셔서 목 아픈 줄 알았는데”… ‘HPV 감염’ 암이었던 男&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jUlRxTUJ2eFA4RTVZN2czZHhLSDlqUzlOQ0lNLUtHdWpUUXRZSDBiYnpRdVlHS28wbnpMd0gtbGo3SngzME9GeVBTdmEtTXhzYUxlQmt6eU9PMWgtLUZ5NlJZLW53ZmJmemJacF9ObkRiSG9XeWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a80e06eb257a",
+      "title": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목 - 조선일보",
+      "published": "2026-04-13T15:01:00+00:00",
+      "summary": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHZBQUJEeThHZzFaWEhEZG5QeHlBcGNYWU9SNmFDZnN3QjFELUY3UnJ1WDNUcVlOejlxTm93WGlSMnRHcDVUSnNGSldoTHpld2l6U3RXYWpjM0Y5VFdpT1M3STZRWExHOEpZdXk4TWxMZ3pGVTdjSFBrT0tkUEVhT0Uzd9IBlwFBVV95cUxNaDlVSkQ5eGhPeU5YbFN6TkRpbEdNM2hTYzFJeHRyTW1mTTllR05vcENnWnZueWtaR05RQzhyMmV1VFJPUjM0RXZZb2JfME4zYzRDX015dktPbFA0T19qUUtVSUJEMzBRNWN3NkJzWFVaOTlvNXR3UGpYcWlsVUNoYUo1RFpvRDFxV2tLUTBNbFZCRkNtTTJz?oc=5"
+        }
+      ]
+    },
     {
       "id": "47628bda09b0",
       "title": "뇌졸중 막고 싶다면? '이 영양소'부터 챙겨라 - 헬스조선",
@@ -18,26 +42,26 @@
       ]
     },
     {
-      "id": "57af8e9fbc9a",
+      "id": "1e17e678ca3d",
       "title": "“자도자도 피로해”... 의외로 이 비타민 부족 때문? - 조세일보",
       "published": "2026-04-13T11:00:53+00:00",
       "summary": "“자도자도 피로해”... 의외로 이 비타민 부족 때문?&nbsp;&nbsp;조세일보하버드 의사 “75세 미만 성인, 비타민 D 보충제 불필요”[노화설계]&nbsp;&nbsp;동아일보\"자도자도 피로해\"…의외로 이 비타민 부족 때문?&nbsp;&nbsp;네이트왜 이렇게 피곤하지?...영양소 결핍되면 나타나는 징후들&nbsp;&nbsp;코메디닷컴비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10S2hWLXNrRWJUZS03c3UyTzdrNzA4WFBHRjVoM0VUN0MtN09RbmtCNHdCSWx0aVptNWhjVy1iOWYySWtCRUxEcnlEU0RBcU5DSGlHbjJEaUZmOXRLTlRpYVF2WEhVcVEyYjFBTWZ2NA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTXpDdVVVOExmXy11VzJnV3FPNDZRM1RYZ1JOMXNFNzBPTnR6UGIwbVBRUkRKYWN1b0lpb0ZMWXFPNkNTM2RRb3ctLUotU0tod1Nud25qeWZ5dnItamVZ?oc=5"
         }
       ]
     },
     {
-      "id": "bc15fb5abd88",
-      "title": "“체한 줄 알았는데, 결국 개복 수술”… 40대 男 겪은 일 보니? - 헬스조선",
+      "id": "29d4d1dc2050",
+      "title": "갑자기 생긴 빈혈, 암 신호?…“진단 3개월 내 암 발견 위험 9배” - 하이닥",
       "published": "2026-04-13T11:00:00+00:00",
-      "summary": "“체한 줄 알았는데, 결국 개복 수술”… 40대 男 겪은 일 보니?&nbsp;&nbsp;헬스조선",
+      "summary": "갑자기 생긴 빈혈, 암 신호?…“진단 3개월 내 암 발견 위험 9배”&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uMW1uVWdNdFJQNThmNVlYbDZxbmdHYUlrU3VoVzBHdDE5dmpTcTJkQWxPNVZtTGc0bW00REw4Z0h6bTVudmJrX3hHMmRVQ2FnMDBFd0kzT1NubnFGRVA5T2dOcHliMlhwR1BOblRTVEtRd2xlVFE?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMc0RzTWwxOERMcVZUUjFyRnB6STVNQ0o2RFRvczY0SHFBVnIwNUViWS10MHB2Wk1Rd013S3REYlVVa0lKODM3ZjBWQTZETTJKRHF3YS1lckZ3d19zNkRmTUZHNzBmNW90Mnc?oc=5"
         }
       ]
     },
@@ -54,18 +78,6 @@
       ]
     },
     {
-      "id": "989b868a6911",
-      "title": "‘저탄고지’ 케톤식, 늙은 쥐에 줬더니...암컷서 수면·기억력 개선 - 디멘시아뉴스",
-      "published": "2026-04-13T09:28:35+00:00",
-      "summary": "‘저탄고지’ 케톤식, 늙은 쥐에 줬더니...암컷서 수면·기억력 개선&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3dTQzX0U1YVIzdGQyaWZLbkZQdWVfa1BnN0lqdmducDdQSFJlc2Q0VGlZdWI3NzA5NkFvaXNoY21IUWdfd2FETktSckZJLUh2amxZay1DZFo5YkVDcTNhVDNydnVvQ1ZXcDVSUFRNVkNmUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9062887a4c25",
       "title": "생리불순 방치했다가… ‘자궁암 3기’ 英 여성의 경고 - 헬스조선",
       "published": "2026-04-13T08:30:00+00:00",
@@ -74,18 +86,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnZmpTMnlxQlBhUFJOeDg4VkJkTVE5azI4eXNGNmQ5eVVjTjVnWW5mWWRpU3I1T0FXcVpZVnRjcHZQOGw0akRFaldaMnMybDlSVVFTOUVDU3g3bzJHYVB3dldvNkdvczRFdFlOcUJ0THVxS2N5UEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "605f9084d390",
-      "title": "“건강에 좋다고 해서 먹었는데” 혈당 올리는 주범… 뭘까? - 헬스조선",
-      "published": "2026-04-13T07:44:00+00:00",
-      "summary": "“건강에 좋다고 해서 먹었는데” 혈당 올리는 주범… 뭘까?&nbsp;&nbsp;헬스조선1930만명 ‘혈당 경고등’…아침 주스 한 잔, 30분 만에 흔들렸다&nbsp;&nbsp;v.daum.net“식사 전 ‘이것’ 먹어라”… 다이어트 의사가 알려준 방법, 뭐야?&nbsp;&nbsp;헬스조선먼저 먹기만 해도 혈당이 달라진다…전문가가 제안한 당뇨 잡는 식전 음식은?&nbsp;&nbsp;전자신문\"혈당 스파이크 막으면서 빵 먹을 수 있다\"…전문의의 추천 방법 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reHN4U1dfeUVEVEYxZlVIMVNUdV9yYVpBMU1MUkkyTnBZa3RmeXJORUc0Nm9OeDh1SE1YV1F2dHVndUFnQ1RjalJFcTBYZFBnYmUzMkE0NHBmdnYzRDNSV0FYYVFFYU1IM3F5alFwU3FURVA3ZUE?oc=5"
         }
       ]
     },
@@ -138,18 +138,6 @@
       ]
     },
     {
-      "id": "42ad66779b43",
-      "title": "낙관적인 마음가짐, 치매 위험을 15% 낮춘다 - 캐어유 뉴스",
-      "published": "2026-04-13T05:00:00+00:00",
-      "summary": "낙관적인 마음가짐, 치매 위험을 15% 낮춘다&nbsp;&nbsp;캐어유 뉴스사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;서울신문하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;네이트“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문수면시간 짧아도 길어도 치매 위험... 수면 8시간 초과, 치매 위험 28% 상승&nbsp;&nbsp;캔서앤서",
-      "sources": [
-        {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CdFozZXFJVVN4cUFVVER2YThmd1MtcWZkN0VCbFdlaV8ycElIX0M0UFZ3OEpqNUg1TUpYanhWRGJiSjVzOGlsQjhhenFVaGFmUHAyYmNuNXFWTUVmdko3Q0hCaVVrc0hOeC1Ycw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ccdd42c178fb",
       "title": "“하루 한 잔의 차, 뼈를 지킨다”…고령 여성 골밀도 높인다는 연구 결과 발표 - 레이디경향",
       "published": "2026-04-13T05:00:00+00:00",
@@ -198,18 +186,6 @@
       ]
     },
     {
-      "id": "546adc5fafb1",
-      "title": "없다 생긴 빈혈은 '빨간불'…암 2배·사망 위험 최대 8배 ↑ - 네이트",
-      "published": "2026-04-13T01:32:00+00:00",
-      "summary": "없다 생긴 빈혈은 '빨간불'…암 2배·사망 위험 최대 8배 ↑&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTDhKZkRwQTBzOThWSkZVRWc0RmdES21XQjhlVGdINW9nY09MVS0zN21tZHhIc1YzYWVQUk1aaUZzeEs0c1lYVFZXb1F2ZGlKeHpr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "71524d8e8a41",
       "title": "\"중동 가스 대체재 나왔다\"…바닷물로 가스 뽑는 연금술 개발한 서울대 - 한국경제",
       "published": "2026-04-13T01:29:10+00:00",
@@ -237,7 +213,7 @@
       "id": "590f643dbf14",
       "title": "혈당강하부터 심혈관 위험 감소효과까지 - 메디칼업저버",
       "published": "2026-04-13T00:48:53+00:00",
-      "summary": "혈당강하부터 심혈관 위험 감소효과까지&nbsp;&nbsp;메디칼업저버[한국인의 100가지 질환-5] 당뇨 초기 증상, 놓치면 평생 관리해야 한다&nbsp;&nbsp;뉴스인[메디 인 칼럼] 당뇨병, 혈관 합병증 막는 혈당 관리가 핵심&nbsp;&nbsp;인천뉴스",
+      "summary": "혈당강하부터 심혈관 위험 감소효과까지&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
           "name": "메디칼업저버",
@@ -258,6 +234,30 @@
       ]
     },
     {
+      "id": "f541f43422ff",
+      "title": "하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다 - 메디컬투데이",
+      "published": "2026-04-13T00:15:22+00:00",
+      "summary": "하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;메디컬투데이Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pV0lHOXFpLXk3akNNcUFuMDRocXlWYlM5eGRXTzBIa1Uwb2JsMGJKcEVMU1V4SnBTak5TZDdsbi1kOExyRkgzVFUxQS0wcFJxT1pjb3lhY19nUUNY0gFsQVVfeXFMTnk1RW5majV0TVVFUlUyeWhCYXF6Y05odzY4andXWVhVbGlFRF9QYWdKekRZNVd2VTE3dEZGZ1lZa2RiX3JBbktUaXZXTFIya3hWbk8wenIzUDFOZDFLSXJmNFJGS01uM1NJUG05?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b7c9e22b388",
+      "title": "빛으로 약물 자동 조절→치료 속도 높인다 - 네이트",
+      "published": "2026-04-13T00:11:00+00:00",
+      "summary": "빛으로 약물 자동 조절→치료 속도 높인다&nbsp;&nbsp;네이트“피부에 착 붙이면” 상처 치료속도 2배↑…‘빛+약물’ 스마트패치 나왔다&nbsp;&nbsp;v.daum.netKAIST, 빛이 약을 자동 조절 'OLED 패치' 개발…치료 속도 2배↑&nbsp;&nbsp;연합뉴스KAIST, 자가조절형 OLED 상처 치료 패치 개발…치료 속도 2배↑&nbsp;&nbsp;뉴스1상처에 빛 쏴서 약물량 조절 ‘스마트 패치’ 나왔다&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tbGtfYjFyLVBwQjB5UGJ2NXAwNEY0d2w1ME1XX01WMVp5QnBiX1VqbFRDcmNVU1M4R0Z3MERGc3Jlb3N0OTY3bnMzdlRVazVQY08w?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e56611bfc33c",
       "title": "대웅바이오, 알츠하이머형 치매치료제 ‘글리빅사’ 제품 출시 - 헬스경향",
       "published": "2026-04-13T00:07:30+00:00",
@@ -270,6 +270,18 @@
       ]
     },
     {
+      "id": "6f49789b2e19",
+      "title": "당뇨병 위험 증가했을 때...즉시 실천해야 할 식습관 - 코메디닷컴",
+      "published": "2026-04-13T00:07:00+00:00",
+      "summary": "당뇨병 위험 증가했을 때...즉시 실천해야 할 식습관&nbsp;&nbsp;코메디닷컴“최고의 탄수화물” 혈당 관리에 도움 되는 ‘이 식품’, 뭘까?&nbsp;&nbsp;헬스조선1930만명 ‘혈당 경고등’…아침 주스 한 잔, 30분 만에 흔들렸다&nbsp;&nbsp;v.daum.net먼저 먹기만 해도 혈당이 달라진다…전문가가 제안한 당뇨 잡는 식전 음식은?&nbsp;&nbsp;전자신문\"혈당 스파이크 막으면서 빵 먹을 수 있다\"…전문의의 추천 방법 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wM3R5RVpmbFdvQzVFWWtseWh6NTdDQVpzMW1NbWx5dkZCZXZiVVdVZWg3QTc4dHdIRHZGVFZlWWNUQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fb8fce757a09",
       "title": "한미약품, '삼중작용제' 비만 美2상 \"환자모집 완료\" - 바이오스펙테이터",
       "published": "2026-04-12T23:56:00+00:00",
@@ -278,18 +290,6 @@
         {
           "name": "바이오스펙테이터",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsSmhGd0pCUlc2NUVid0dLYXdjZHpzdTN5S29SalBvX3BLZXBmaU5JbjlXWEt0MGtYWHNoUVMyQjlERk1TT0NQSGhmcWlsWTBHeVRFckpKUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56348a746c97",
-      "title": "KAIST, 빛이 약 자동 조절 OLED 패치 개발...치료 속도 2배 향상 - 뉴스밴드",
-      "published": "2026-04-12T23:44:44+00:00",
-      "summary": "KAIST, 빛이 약 자동 조절 OLED 패치 개발...치료 속도 2배 향상&nbsp;&nbsp;뉴스밴드“피부에 착 붙이면” 상처 치료속도 2배↑…‘빛+약물’ 스마트패치 나왔다&nbsp;&nbsp;v.daum.netKAIST, 빛이 약을 자동 조절 'OLED 패치' 개발…치료 속도 2배↑&nbsp;&nbsp;연합뉴스KAIST, 자가조절형 OLED 상처 치료 패치 개발…치료 속도 2배↑&nbsp;&nbsp;뉴스1상처에 빛 쏴서 약물량 조절 ‘스마트 패치’ 나왔다&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "뉴스밴드",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9id3hLSXBWaTdaWjhzTVdJRy03c0xveVMxR3l4YWhCMXpIMDBHM1o2dkU2U1YycC1rYzQ1VkZPUk9SLUo1MXVYdzZQMHh3SWN3QlpvTmY2V1pOWXFpQWNyNWJFYzRoN0ozakE?oc=5"
         }
       ]
     },
@@ -345,7 +345,7 @@
       "id": "68208d48823f",
       "title": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\" - 네이트",
       "published": "2026-04-12T08:01:00+00:00",
-      "summary": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\"&nbsp;&nbsp;네이트걷기도 뛰기도 아니었다… ‘수명 연장’ 효과 가장 큰 운동&nbsp;&nbsp;조선일보1시간 걷기 vs 3분 숨차게… 건강 효과, 뭐가 더 클까[건강팩트체크]&nbsp;&nbsp;동아일보“운동 따로 안 해도 되겠네?”…하루 1~2분, 치매·당뇨 갈랐다&nbsp;&nbsp;v.daum.net“숨이 찰 정도로 움직여라”…8가지 만성질환 위험 낮추는 격렬한 운동은?&nbsp;&nbsp;레이디경향",
+      "summary": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\"&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
@@ -470,18 +470,6 @@
         {
           "name": "마음건강 길",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MVTlRSGtKbldYQ3RGSVRfQWc2RE9vdjY2Y3pzY0EtSkhURU1IbUhLc2NKeEpqVzZMcW5ORXVZckJNbjRyd250Vjk2SndpMDV0eFg2QXEwZ0JBUm9aLUVJYnRMOHBuUVhpclHSAW5BVV95cUxPeThJYW1NTGxzSEstbFdjZEVnME9seDMzelpKVVprWWNldVZaYnVzR0NxRk1oX01nOEJIVG1QS19BQVNFRVBPTnBoS0JJUlNlRGVZTERHN2tiSkM3RG1vRWM2cmd1X1IzX3hJS2FoZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d4b97968354",
-      "title": "“몸에 좋은 두부, ‘이것’과 먹으면 신장에 돌 생긴다”… 정말일까? - 코메디닷컴",
-      "published": "2026-04-11T16:51:00+00:00",
-      "summary": "“몸에 좋은 두부, ‘이것’과 먹으면 신장에 돌 생긴다”… 정말일까?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mcEJxTDlKd1gzOVVvQUtFRmxOQUw0UDRveXFDNVl5MWMzYUp2MDlhLWxRQ0hRcG1YSV9JYTI2Q0JnUQ?oc=5"
         }
       ]
     },
