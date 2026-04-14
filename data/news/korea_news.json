@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-14T13:52:01.708697+00:00",
-  "total_fetched": 78,
-  "unique_count": 78,
-  "health_related_count": 43,
+  "fetched_at": "2026-04-14T19:21:38.736279+00:00",
+  "total_fetched": 82,
+  "unique_count": 82,
+  "health_related_count": 45,
   "news": [
+    {
+      "id": "f4e24092f2ab",
+      "title": "새로운 도전, 퀘스트를 하나씩 깨는 마음으로 | 뉴스룸 칼럼 | 피플 - 서울아산병원 뉴스룸",
+      "published": "2026-04-14T15:02:50+00:00",
+      "summary": "새로운 도전, 퀘스트를 하나씩 깨는 마음으로 | 뉴스룸 칼럼 | 피플&nbsp;&nbsp;서울아산병원 뉴스룸",
+      "sources": [
+        {
+          "name": "서울아산병원 뉴스룸",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vTENKM3dWaU1oTVpVbXlKZ0c3UWxWZmVjRG9neVNhdC1nN2FENkUwOXVlak5VZlhITTJrWV9mWmpmRjE1VmttcDRlVl9TUjQ1RjMyVHpiSklhdzBYLVZMR1B1QWIwSmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "265fb173af1b",
+      "title": "“직업군별 ‘치매 위험’ 차이 있다”… 비교적 안전한 직종은? - 헬스조선",
+      "published": "2026-04-14T14:40:00+00:00",
+      "summary": "“직업군별 ‘치매 위험’ 차이 있다”… 비교적 안전한 직종은?&nbsp;&nbsp;헬스조선하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;네이트사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;서울신문낙관적인 마음가짐, 치매 위험을 15% 낮춘다&nbsp;&nbsp;캐어유 뉴스복잡한 일 하면 ‘치매’ 예방된다는데…단순 반복업무 한다면?&nbsp;&nbsp;nongmin.com",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WNmpiMXhHajBmNGR2bFZ4OEFaRkVTVUdLSGU2Sm1LdW1CR2J2ZWZibjdaMkxCNDJWLVJnREpuMTJhQmkxOFl2X2Nic0ZUbU9RUms1NDJvd0pseG9wTGp3Y2JXaGJIU3lxaWh5ZER0UUFUeFIwZVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "685f950bd7f0",
+      "title": "우울증 치료에 ‘이 약’ 먹었다가 전신 발진… 무슨 일? - 헬스조선",
+      "published": "2026-04-14T14:00:00+00:00",
+      "summary": "우울증 치료에 ‘이 약’ 먹었다가 전신 발진… 무슨 일?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKN2xFamZMSjdqbmdWTUVqR1pRQ3YyWDgyb0FrTGFTaHc0Q29FRXFLVE5ZMEFmMVhhMk9DUF9Dc1VoU04wUjd1YkdhWlpBc0ZjVTdHa3hBU0RLNmNkcG0xOWtxd0ZFX1BEZmpSTHFjYlFLY0RraFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2885bd8538f",
+      "title": "‘남편 불륜’ 후 암 걸린 美 여성…“백신만 맞았어도” 뼈저린 후회 - 서울신문",
+      "published": "2026-04-14T14:00:00+00:00",
+      "summary": "‘남편 불륜’ 후 암 걸린 美 여성…“백신만 맞았어도” 뼈저린 후회&nbsp;&nbsp;서울신문“먼지 마셔서 목 아픈 줄 알았는데”… ‘HPV 감염’ 암이었던 男&nbsp;&nbsp;헬스조선\"먼지 마셔 목 아픈 줄 알다 인후암 3기\"…수십 년 전 구강성교 탓?&nbsp;&nbsp;네이트\"남편 외도 후 3가지 암 걸려\"…'이것' 감염 경고&nbsp;&nbsp;sportschosun.com\"목이 자꾸 따끔거리더니…\" 수십 년 전 성관계로 암에 걸려&nbsp;&nbsp;sportschosun.com",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2ZFMweHZEVWM3NW53UTlDQ1gtdUhZSXhXY0xDOS1MWDNuOFhOTDVENEsyWERlM1JZWnNFQWw3dUI2U1JzckI0TERGb2N2eUd6WUpMV2hBaFN1VVRDc1JOWFpoWDMzRDJrakFuMkRLQm1meXRIcjFBR0tobw?oc=5"
+        }
+      ]
+    },
     {
       "id": "46bc59bd0d64",
       "title": "\"집 안 공기 점검해야\"… 라돈, 난소암 위험 높인다 - 헬스조선",
@@ -45,7 +93,7 @@
       "id": "aeb81d4108be",
       "title": "환절기 늘어나는 안면신경마비, 빠른 치료가 회복 좌우 - 후생신보",
       "published": "2026-04-14T05:11:00+00:00",
-      "summary": "환절기 늘어나는 안면신경마비, 빠른 치료가 회복 좌우&nbsp;&nbsp;후생신보\"이마 주름이 갑자기 펴졌어요\"…'안면마비' 초기 증상?&nbsp;&nbsp;뉴시스\"환절기 늘어나는 '안면신경마비', 빠른 치료가 회복 좌우\"&nbsp;&nbsp;헬스이슈앤뉴스환절기 피로 틈탄 안면마비… ‘72시간’ 놓치면 회복 더뎌진다&nbsp;&nbsp;스포츠월드봄철 일교차 안면마비 주의…“72시간 내 치료 중요”&nbsp;&nbsp;한스경제",
+      "summary": "환절기 늘어나는 안면신경마비, 빠른 치료가 회복 좌우&nbsp;&nbsp;후생신보\"이마 주름이 갑자기 펴졌어요\"…'안면마비' 초기 증상?&nbsp;&nbsp;뉴시스\"환절기 늘어나는 '안면신경마비', 빠른 치료가 회복 좌우\"&nbsp;&nbsp;헬스이슈앤뉴스환절기 갑작스런 안면마비…“치료 골든타임은 OO시간 이내”&nbsp;&nbsp;nongmin.com환절기 피로 틈탄 안면마비… ‘72시간’ 놓치면 회복 더뎌진다&nbsp;&nbsp;스포츠월드",
       "sources": [
         {
           "name": "후생신보",
@@ -74,18 +122,6 @@
         {
           "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxVmRleXFQUmpycG1PV0M3Q2NldE9mMlAwcVBPNTAyWjgtN0IzR1FXa2hPQXU0cnhUZ0d6ZWJYTWk3MFlyWVlPR2tQcDVPVDZFNzZBTFdyY05VUU5tNlJVWkkyVWRMSmxrR1ptdTBR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f801008091a0",
-      "title": "비타민 B 섭취, 뇌졸중 위험 최대 50% 낮춰… 22만 명 분석 결과 - 하이닥",
-      "published": "2026-04-14T04:00:00+00:00",
-      "summary": "비타민 B 섭취, 뇌졸중 위험 최대 50% 낮춰… 22만 명 분석 결과&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6ZFBvZlpBYkxhbzcxcmZJdmhjX0FfVUY1Q0tFczJ5dVlTWWhSdlc1MzRZNk5hdG5sdWlpYm8xYVp3NFh6Z0JHSFNHR3RqdmxQQUZ3YXVzSTU3dERIY1RrdU9QUUNnNkhGaEE?oc=5"
         }
       ]
     },
@@ -126,18 +162,6 @@
       ]
     },
     {
-      "id": "9672b84e03ce",
-      "title": "하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다 - 헬스조선",
-      "published": "2026-04-14T00:20:00+00:00",
-      "summary": "하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다&nbsp;&nbsp;헬스조선사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;서울신문하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;네이트“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문복잡한 직업이 치매를 늦춘다, 평생 쌓은 뇌의 저력&nbsp;&nbsp;캐어유 뉴스",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvR3dPUWhQdnNXemwyMldIbmRqd2FuOWdGWXk5bmdTVmc0bllTYXZyckZDVHRNa19oUVRiVmo0dDNtLVM5MjBxS3JTcmtPQ3FjNzF1djBhUlM5TWtsX0UyYU1xSUJEdDZFZkZhX0p1Ykd5cmdNNHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9494f3248d3b",
       "title": "지니너스, ‘AACR’서 종양미세환경(TME) 연구 결과 포스터 발표 - 팍스경제TV",
       "published": "2026-04-14T00:17:40+00:00",
@@ -153,7 +177,7 @@
       "id": "16a68f4c8c0e",
       "title": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인 - 팍스경제TV",
       "published": "2026-04-13T23:57:36+00:00",
-      "summary": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인&nbsp;&nbsp;팍스경제TV“주사 한 번에…귀 안 들리던 아이가 대화했다”…유전자 치료, 어디까지 왔나&nbsp;&nbsp;동아일보한쪽 귀만 잘 안들려도…\"알츠하이머 위험 1.49배 증가\"&nbsp;&nbsp;뉴시스태어날 때부터 못 들은 아이, '이 주사'로 엄마 목소리 들었다&nbsp;&nbsp;네이트“한쪽 귀 안 들리는 거 별일 아니라고요?”… 알츠하이머 위험 1.49배&nbsp;&nbsp;v.daum.net",
+      "summary": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인&nbsp;&nbsp;팍스경제TV한쪽 귀만 잘 안들려도…\"알츠하이머 위험 1.49배 증가\"&nbsp;&nbsp;뉴시스“주사 한 번에…귀 안 들리던 아이가 대화했다”…유전자 치료, 어디까지 왔나&nbsp;&nbsp;v.daum.net태어날 때부터 못 들은 아이, '이 주사'로 엄마 목소리 들었다&nbsp;&nbsp;네이트“한쪽 귀만 잘 안 들려도 위험”…알츠하이머 위험 1.49배 [건강한겨레]&nbsp;&nbsp;한겨레",
       "sources": [
         {
           "name": "팍스경제TV",
@@ -198,26 +222,26 @@
       ]
     },
     {
-      "id": "ef4bd08e60ed",
-      "title": "당뇨병 막으려면 ‘이 색깔’ 음식 많이 먹어라 - 헬스조선",
-      "published": "2026-04-13T20:00:00+00:00",
-      "summary": "당뇨병 막으려면 ‘이 색깔’ 음식 많이 먹어라&nbsp;&nbsp;헬스조선“건강에 좋다고 해서 먹었는데” 혈당 올리는 주범… 뭘까?&nbsp;&nbsp;헬스조선당뇨병 위험 증가했을 때...즉시 실천해야 할 식습관&nbsp;&nbsp;코메디닷컴1930만명 ‘혈당 경고등’…아침 주스 한 잔, 30분 만에 흔들렸다&nbsp;&nbsp;v.daum.net먼저 먹기만 해도 혈당이 달라진다…전문가가 제안한 당뇨 잡는 식전 음식은?&nbsp;&nbsp;전자신문",
+      "id": "3e1bfd75fa5f",
+      "title": "독감 백신, 고령층 건강 ‘치트키’ 부상…심혈관·치매↓ - 한스경제",
+      "published": "2026-04-13T21:00:00+00:00",
+      "summary": "독감 백신, 고령층 건강 ‘치트키’ 부상…심혈관·치매↓&nbsp;&nbsp;한스경제초고령사회 코앞인데…고령층 독감 예방은 여전히 ‘표준’에 멈췄다&nbsp;&nbsp;v.daum.net독감 백신 고용량 맞으면 알츠하이머 위험 절반 넘게 뚝…연구&nbsp;&nbsp;네이트“이 백신, 감염돼도 효과 있다”… 뇌졸중 위험 절반으로 ‘뚝’&nbsp;&nbsp;코메디닷컴독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIS2lCRlBjam40cFBoakdhM1Z3LW1oc0cxX1JBUkdNX1B4YmJYZ3g5Ym01QmNvZkF3clJic3dQR0Ezb0lBdy1MbFhscUoxUHN6M0JxLWF1QXNVRlhQRUFScVVweXZrQmRjUmNhTlNDcUpwRzhZUnc?oc=5"
+          "name": "한스경제",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsOWlJLWE3eEZ6WF9acURvSmhaS3JqQjRNMGFwdHZzN002eUFVWkhfZURvNDk0eE5jS2JzdGVZcnp6MW1yTTJKWDdjbEt0TWRvY1A3OWtnNC1pQjNHejc2OEI1TGd3Vk42Qmcw?oc=5"
         }
       ]
     },
     {
-      "id": "ed87328f6e94",
-      "title": "“먼지 마셔서 목 아픈 줄 알았는데”… ‘HPV 감염’ 암이었던 男 - 헬스조선",
-      "published": "2026-04-13T15:20:00+00:00",
-      "summary": "“먼지 마셔서 목 아픈 줄 알았는데”… ‘HPV 감염’ 암이었던 男&nbsp;&nbsp;헬스조선",
+      "id": "68df5ee87056",
+      "title": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목 - 조선일보",
+      "published": "2026-04-13T15:05:23+00:00",
+      "summary": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목&nbsp;&nbsp;조선일보",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jUlRxTUJ2eFA4RTVZN2czZHhLSDlqUzlOQ0lNLUtHdWpUUXRZSDBiYnpRdVlHS28wbnpMd0gtbGo3SngzME9GeVBTdmEtTXhzYUxlQmt6eU9PMWgtLUZ5NlJZLW53ZmJmemJacF9ObkRiSG9XeWc?oc=5"
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHZBQUJEeThHZzFaWEhEZG5QeHlBcGNYWU9SNmFDZnN3QjFELUY3UnJ1WDNUcVlOejlxTm93WGlSMnRHcDVUSnNGSldoTHpld2l6U3RXYWpjM0Y5VFdpT1M3STZRWExHOEpZdXk4TWxMZ3pGVTdjSFBrT0tkUEVhT0Uzdw?oc=5"
         }
       ]
     },
@@ -230,6 +254,18 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOODVIemZueURJNFZDUEpJT3lxLTRZY0hrRDZsU1FpQzlGQWF2WW45Tzh0ZW9ybmNOOUpBM3NxVENvOVBTOUdCSUJXd1RYZjB6OFdiSjBYNm9KdzJsWS1QVGg4bVJVU2NFT1Z5UHNEOFJrZVdJc1A0cU1Eb09KU3NfQ3dWUllNVXVvckJQU9IBoAFBVV95cUxOWEdkVkRyR0ZaQ045eldOdGxjYWVnWUpFa0JRNk1xQUkyazI2Q2NrZlI2cHZ5SGV2UERPS09mbVBRRDIxWlUwd0VDeVNfNGJqMHpNbDJwZ1pfQ3k0LVRDZGZGRVBWNVh6bmRtSU9HSnZDR1ppRVNreWVlVUQtY053ZExQaFFsVXlzNU9Ya2tJTlJzQU56T0p5Z0hqSzhIdVJ1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47628bda09b0",
+      "title": "뇌졸중 막고 싶다면? '이 영양소'부터 챙겨라 - 헬스조선",
+      "published": "2026-04-13T12:40:00+00:00",
+      "summary": "뇌졸중 막고 싶다면? '이 영양소'부터 챙겨라&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vT2o2NUVaQ2ZJTkU0bi0xUFJYVWFWcFItSUNYTzFqak5OMF8zZThpWjFRUkpWZl9SRmgzd19rV0trREN0dGE2Q2h5ZVBjU21jaEw0d1NIb3dUenBTM0cyZkk5ZXEtRlNDSzRzb0o4WXlMWlR4MEE?oc=5"
         }
       ]
     },
@@ -354,18 +390,6 @@
       ]
     },
     {
-      "id": "40d3a7eb14a9",
-      "title": "독감 백신 고용량 맞으면 알츠하이머 위험 절반 넘게 뚝…연구 - 디지털투데이",
-      "published": "2026-04-13T02:32:08+00:00",
-      "summary": "독감 백신 고용량 맞으면 알츠하이머 위험 절반 넘게 뚝…연구&nbsp;&nbsp;디지털투데이Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UTFVhcVBTX25fS0hiRWE0dEtPRE1QUlBCVWloRm1pbjlIQWZ3S01yX2xEcVNBZnA3SWprM3VPOTZaNEZIbHZYTE9vVXRnR2l0anpyVFVYbFd3M3doSTAtX0ZGcDdLREpWZk5qWlFoaVVEVTA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3d3600f983b3",
       "title": "골고루 먹는 게 오히려 독?…한 음식만 계속 먹었더니 다이어트 ‘효과’ - 매일경제",
       "published": "2026-04-13T02:02:30+00:00",
@@ -398,6 +422,18 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HX0J3ZDd0ZjVxR2UzMGRlaUVWMy1RRGZMZFJNdXREZG5IYkZQeWJpUHRFR3FxdjJJSGNpbVJYR3BlTmtsR2xBVVdZd1NpOXp0Q1V2RlZtVlplY05PbDdjN1dTR0dFbjZUTnlV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57757ba9fa94",
+      "title": "올해 캐나다 암환자 25만 명 전망 - 캐나다 한국일보",
+      "published": "2026-04-13T00:41:00+00:00",
+      "summary": "올해 캐나다 암환자 25만 명 전망&nbsp;&nbsp;캐나다 한국일보",
+      "sources": [
+        {
+          "name": "캐나다 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xbTE1a3J0WXVHSVJ1MTZJX3phc29Vemt0QmZVci1sQVVFWW5SNlBrS0JaUURaNkxnMGU2YTNrNUltVjUwd1c1WklCZHo4Ym03Ym5JTElGa2dIdmIyTmZmV1pvMVpjdw?oc=5"
         }
       ]
     },
@@ -489,23 +525,11 @@
       "id": "5eefa8c2fd47",
       "title": "출생체중, 뇌졸중 위험과 관련 - 마음건강 길",
       "published": "2026-04-12T20:50:00+00:00",
-      "summary": "출생체중, 뇌졸중 위험과 관련&nbsp;&nbsp;마음건강 길태어날 때 ‘이것’ 낮으면…조기 뇌졸중 위험 높다&nbsp;&nbsp;nongmin.com저체중 출생아, 청장년기 뇌졸중 위험 최대 27% 높다&nbsp;&nbsp;동아사이언스놀랍게도, 저체중으로 태어난 아기는 성인이 되었을 때 뇌졸중 위험이 더 높습니다.&nbsp;&nbsp;Vietnam.vn저체중 출생아, 성인 돼서 ‘뇌졸중’ 위험 크다&nbsp;&nbsp;헬스조선",
+      "summary": "출생체중, 뇌졸중 위험과 관련&nbsp;&nbsp;마음건강 길태어날 때 ‘이것’ 낮으면…조기 뇌졸중 위험 높다&nbsp;&nbsp;nongmin.com저체중 출생아, 청장년기 뇌졸중 위험 최대 27% 높다&nbsp;&nbsp;동아사이언스놀랍게도, 저체중으로 태어난 아기는 성인이 되었을 때 뇌졸중 위험이 더 높습니다.&nbsp;&nbsp;Vietnam.vn[건강포커스] \"출생 때 체중 상대적으로 낮으면 성인기 뇌졸중 위험 높아\"&nbsp;&nbsp;연합뉴스 한민족센터",
       "sources": [
         {
           "name": "마음건강 길",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtUEt6NUJ1MW54M1FuY25iLTQ5QzVPM0psU0F5NE5oT21xVWJTOUZETkZrVHhIV1NtZXNHYzZKQjd1cXQ5S1BJQVdzSWhjN3FrOUdxZUY5clhONjZpVFZtN0xseUx0X096WEHSAW5BVV95cUxONTZfb0lCWEJ0UlNieU5uM2NXb0FJaDFoZjAzZ2dOZVl1U0xHNUlXQWExazJXOWU3RzB6WTRsUzdMbDlwbFA4Rno3Y2hlanNXS3dtc1dINnRoLXU3OFhnODdtTHNsVkpOYVhUMURrQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2452b740447c",
-      "title": "2026년 감염병 동시다발 확산, 아시아·태평양 지역 경보 상태 - 한국AI부동산신문",
-      "published": "2026-04-12T17:13:26+00:00",
-      "summary": "2026년 감염병 동시다발 확산, 아시아·태평양 지역 경보 상태&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4aHRpVmZBRXBTSF9COVB6ZVo3VHRONTVvQjROWUhMZlJLalJhN2VzZ0c2R0xTMEhHMFFneHBzekZLZzdoOFVNQU9SWUo?oc=5"
         }
       ]
     },
