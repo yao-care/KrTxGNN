@@ -1,10 +1,94 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-14T02:52:26.931267+00:00",
-  "total_fetched": 73,
-  "unique_count": 73,
-  "health_related_count": 45,
+  "fetched_at": "2026-04-14T07:52:46.571477+00:00",
+  "total_fetched": 77,
+  "unique_count": 77,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "3fa3298ff9bc",
+      "title": "“샤워 중 골프공만 한 혹”…딸 유방암 진단 후 아빠는 ‘이 증상’ 암, 무슨 일? - 코메디닷컴",
+      "published": "2026-04-14T07:34:00+00:00",
+      "summary": "“샤워 중 골프공만 한 혹”…딸 유방암 진단 후 아빠는 ‘이 증상’ 암, 무슨 일?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tOXZwcDMzU013a21rTmhJODdxUHR1QmZaN202OGlZcmRwUjhsRHN5YUJ5bnZvek9yTHlVQUdxVmVRZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81318e73a803",
+      "title": "“60대부터 바꿔도 늦지 않다”…식물성 식단, 치매 위험 낮춘다 - 레이디경향",
+      "published": "2026-04-14T07:33:00+00:00",
+      "summary": "“60대부터 바꿔도 늦지 않다”…식물성 식단, 치매 위험 낮춘다&nbsp;&nbsp;레이디경향식물성 식단도 '질'이 좌우…좋은 식단일수록 치매 위험 낮다&nbsp;&nbsp;네이트\"무조건 채식보다는 질이 중요\"… 치매 예방의 핵심&nbsp;&nbsp;한국의약통신건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "레이디경향",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10N0pKZ3hqcVNuNHNTN2JwV1B5ZTRXTThCcW8xODRxS3cyNGVBT3ppOGlnUzBiUUJxNnpPTGNCYVRhT2lPOXByVVR6dExzYUVwYXU2YkdsVkp4ajczbS0wSlVRTnRmQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "48fc441b5343",
+      "title": "국립암센터, 급성 림프구성 백혈병 성장 돕는 SON 단백질 원리 규명 - 이로운넷",
+      "published": "2026-04-14T04:39:18+00:00",
+      "summary": "국립암센터, 급성 림프구성 백혈병 성장 돕는 SON 단백질 원리 규명&nbsp;&nbsp;이로운넷백혈병 성장 비밀 규명&nbsp;&nbsp;BRIC백혈병 암세포 증식 돕는 ‘SON 단백질’ 역할 규명&nbsp;&nbsp;v.daum.net\"백혈병세포가 지방 합성 촉진해 성장하는 원리 규명\"&nbsp;&nbsp;연합뉴스\"소아에 흔한 '급성 림프구성 백혈병' 성장 비밀 규명\"&nbsp;&nbsp;뉴스1",
+      "sources": [
+        {
+          "name": "이로운넷",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5YXJKN1Z0a1pINTlPT2lqMWQ0T3V5VFFCQ01seThxV3VMcEdXa2FCQy1yRUpSNDhjaW90aGxTbUc4dzFOcHJBY3ktNU1mVE9HTzdFdVB2bjU0ZDBQTGc1amxubVJNdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6f383b58aa27",
+      "title": "국가판 ‘항암설명서’ 공개! 절반 내용 먹는 것과 관련돼--건강 - 인민넷",
+      "published": "2026-04-14T04:34:00+00:00",
+      "summary": "국가판 ‘항암설명서’ 공개! 절반 내용 먹는 것과 관련돼--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxVmRleXFQUmpycG1PV0M3Q2NldE9mMlAwcVBPNTAyWjgtN0IzR1FXa2hPQXU0cnhUZ0d6ZWJYTWk3MFlyWVlPR2tQcDVPVDZFNzZBTFdyY05VUU5tNlJVWkkyVWRMSmxrR1ptdTBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f801008091a0",
+      "title": "비타민 B 섭취, 뇌졸중 위험 최대 50% 낮춰… 22만 명 분석 결과 - 하이닥",
+      "published": "2026-04-14T04:00:00+00:00",
+      "summary": "비타민 B 섭취, 뇌졸중 위험 최대 50% 낮춰… 22만 명 분석 결과&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6ZFBvZlpBYkxhbzcxcmZJdmhjX0FfVUY1Q0tFczJ5dVlTWWhSdlc1MzRZNk5hdG5sdWlpYm8xYVp3NFh6Z0JHSFNHR3RqdmxQQUZ3YXVzSTU3dERIY1RrdU9QUUNnNkhGaEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "76ee6b248c14",
+      "title": "[센트럴 의학칼럼] 러닝 열풍 속 숨은 위험, 운동 중 나타나는 ‘부정맥’ 신호 - 시흥저널",
+      "published": "2026-04-14T03:30:43+00:00",
+      "summary": "[센트럴 의학칼럼] 러닝 열풍 속 숨은 위험, 운동 중 나타나는 ‘부정맥’ 신호&nbsp;&nbsp;시흥저널",
+      "sources": [
+        {
+          "name": "시흥저널",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZaURib1o3VW9JVFRobHptRmpWVjFsTVMxSWdDOTBqTGd2dHI2Tkh6cHJVMTFQRXFkd3RpbDdBZUUtcjkwbjZZd0pSYVpnVm11WGRQa3RSNWJHRnZGSjlqZTZveFV4Nzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb0906cc142c",
+      "title": "약에 묶인 15억 고혈압 환자 ‘해방’...6개월에 한 번 주사로 잡는다 - 매일경제",
+      "published": "2026-04-14T01:54:38+00:00",
+      "summary": "약에 묶인 15억 고혈압 환자 ‘해방’...6개월에 한 번 주사로 잡는다&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSZHNORHhPOS1RTzd3eVpUWmo2RS1hc2htQkF3dkFGV2g3T0V6aENlV1gxMmgwbWxhQUVKdzFrNXlDd25rQjhnaWU5VEpHZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "6ffa119fe4d2",
       "title": "‘냉장고 소리’가 치매 늦춘다던데?! - 헬스조선",
@@ -18,22 +102,10 @@
       ]
     },
     {
-      "id": "7f4c5eaad31a",
-      "title": "국립암센터, 소아 백혈병 재발시키는 단백질 규명... \"새로운 치료 전략 제시 주목\" - 하이닥",
-      "published": "2026-04-14T01:30:00+00:00",
-      "summary": "국립암센터, 소아 백혈병 재발시키는 단백질 규명... \"새로운 치료 전략 제시 주목\"&nbsp;&nbsp;하이닥백혈병 성장 비밀 규명&nbsp;&nbsp;BRIC백혈병 암세포 증식 돕는 ‘SON 단백질’ 역할 규명&nbsp;&nbsp;v.daum.net\"백혈병세포가 지방 합성 촉진해 성장하는 원리 규명\"&nbsp;&nbsp;연합뉴스\"소아에 흔한 '급성 림프구성 백혈병' 성장 비밀 규명\"&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbEYzRXE3SlVJdTJrbmNuUGZ0c3l4N2xkRUI2bTZYaHB1UmNtQXU5RnNvOG93d0N2djZKWFJFS0V3WWZ2N1hqZUc1dHVmSG9xdFYtb003d21LUklrMG4ycWlBTzkxRUhDc1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "14b275746c8b",
       "title": "‘사과 매일 한 개’가 사람마다 효과 다른 이유 - 헬스조선",
       "published": "2026-04-14T01:19:00+00:00",
-      "summary": "‘사과 매일 한 개’가 사람마다 효과 다른 이유&nbsp;&nbsp;헬스조선[김소형의 본초 테라피] 매일 먹어도 좋은 주식 ‘귀리’&nbsp;&nbsp;메트로신문콜레스테롤 수치 높은 사람, 매일 ‘이 과일’ 먹어라&nbsp;&nbsp;헬스조선경계 수준 콜레스테롤도 위험… 고지혈증, 방심했다간 동맥경화 부른다&nbsp;&nbsp;하이닥“약처럼 콜레스테롤 낮춘다”…심장 전문의들이 꼽은 대표 식품은?&nbsp;&nbsp;코메디닷컴",
+      "summary": "‘사과 매일 한 개’가 사람마다 효과 다른 이유&nbsp;&nbsp;헬스조선[김소형의 본초 테라피] 매일 먹어도 좋은 주식 ‘귀리’&nbsp;&nbsp;메트로신문콜레스테롤 낮추는 음식, 달걀보다 먼저 점검할 식사 패턴&nbsp;&nbsp;한국투데이콜레스테롤 수치 높은 사람, 매일 ‘이 과일’ 먹어라&nbsp;&nbsp;헬스조선경계 수준 콜레스테롤도 위험… 고지혈증, 방심했다간 동맥경화 부른다&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "헬스조선",
@@ -45,7 +117,7 @@
       "id": "9672b84e03ce",
       "title": "하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다 - 헬스조선",
       "published": "2026-04-14T00:20:00+00:00",
-      "summary": "하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다&nbsp;&nbsp;헬스조선사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;서울신문하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;네이트“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문복잡한 일 하면 ‘치매’ 예방된다는데…단순 반복업무 한다면?&nbsp;&nbsp;nongmin.com",
+      "summary": "하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다&nbsp;&nbsp;헬스조선사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;서울신문하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;네이트“약보다 강력할 수도”…치매 위험 15% 낮추는 의외의 습관은?&nbsp;&nbsp;전자신문복잡한 직업이 치매를 늦춘다, 평생 쌓은 뇌의 저력&nbsp;&nbsp;캐어유 뉴스",
       "sources": [
         {
           "name": "헬스조선",
@@ -54,14 +126,26 @@
       ]
     },
     {
-      "id": "a6ecb78f516d",
-      "title": "지니너스, ‘AACR’에서 자체 플랫폼 활용한 대장암 미세환경 규명 - 한국경제",
-      "published": "2026-04-13T23:29:37+00:00",
-      "summary": "지니너스, ‘AACR’에서 자체 플랫폼 활용한 대장암 미세환경 규명&nbsp;&nbsp;한국경제지니너스, ‘AACR’에서 자사 플랫폼 활용한 대장암 미세환경 규명… 글로벌 제약사와 협력 확대&nbsp;&nbsp;팜이데일리지니너스, +13.07% VI 발동 - 조선비즈&nbsp;&nbsp;Chosunbiz암 진단부터 공간오믹스까지… 지니너스, AI 기반 정밀의료 혁신 주&nbsp;&nbsp;핀포인트뉴스지니너스, '대장암 미세환경' 연구 \"AACR 발표\"&nbsp;&nbsp;바이오스펙테이터",
+      "id": "9494f3248d3b",
+      "title": "지니너스, ‘AACR’서 종양미세환경(TME) 연구 결과 포스터 발표 - 팍스경제TV",
+      "published": "2026-04-14T00:17:40+00:00",
+      "summary": "지니너스, ‘AACR’서 종양미세환경(TME) 연구 결과 포스터 발표&nbsp;&nbsp;팍스경제TV“데이터 회사 아니다”…지니너스, 신약 타깃 팔아 1조 딜 노린다&nbsp;&nbsp;팜이데일리지니너스, ‘AACR’에서 자체 플랫폼 활용한 대장암 미세환경 규명&nbsp;&nbsp;한국경제지니너스, +13.07% VI 발동 - 조선비즈&nbsp;&nbsp;Chosunbiz[장중수급포착] 지니너스, 외국인/기관 동시 순매수… 주가 +29.86%&nbsp;&nbsp;뉴스핌",
       "sources": [
         {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vTXRTZ1o0dGRUejlvUWJvRjZ0NV8xTFF2WVhLVlo0bzRFODhaajBLaTk2bktERGM3UmdWR0hreVZJcDFOX0lzbGVsRklFRUpILXNBckVOQnpEQdIBVEFVX3lxTE9iMFhMZmdZUUJRTFFHMk1OdVc2YkJBTlNXRHgzS0N5NGdXVVY5QW9nU1J6UkZrajM5ZjU1OXJfRVZhc09KV0dpMGJwbUZNdHA3RmNuaw?oc=5"
+          "name": "팍스경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yN2VUSWVQQWdIRnV4TDE1QWNPYk5Va1A4WWREVUtGYzlybzRQOUVvMnhLQjFnUlpxMEc5TS1lUWlITExtYWxRYURtV1Vvdjl5UkttWUVWSGlJaW92VHE2U1Fhc3R1YUFW?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16a68f4c8c0e",
+      "title": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인 - 팍스경제TV",
+      "published": "2026-04-13T23:57:36+00:00",
+      "summary": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인&nbsp;&nbsp;팍스경제TV“주사 한 번에…귀 안 들리던 아이가 대화했다”…유전자 치료, 어디까지 왔나&nbsp;&nbsp;동아일보한쪽 귀만 잘 안들려도…\"알츠하이머 위험 1.49배 증가\"&nbsp;&nbsp;뉴시스“한쪽 귀만 안 들려도 위험”…편측성 난청, 알츠하이머 위험 1.49배 [건강한겨레]&nbsp;&nbsp;한겨레태어날 때부터 못 들은 아이, '이 주사'로 엄마 목소리 들었다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "팍스경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWjY1Ym9mWmtDVHJvTDBYZ1BKaF8wZzNHTTNPcnRhckJhNi1xMUdIV3c4WXg1bldORXp2Y0duaEw0djJnVnkzRldKdDRjaUFQWHljcUNGR3FUbEc3dHFGU1c3MFRYX1E?oc=5"
         }
       ]
     },
@@ -114,18 +198,6 @@
       ]
     },
     {
-      "id": "8edb2c3c0250",
-      "title": "이름만 '알부민'...효과는 달걀 흰자 정도 - YTN",
-      "published": "2026-04-13T16:54:00+00:00",
-      "summary": "이름만 '알부민'...효과는 달걀 흰자 정도&nbsp;&nbsp;YTN",
-      "sources": [
-        {
-          "name": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GZU1fbmFYOFFsdmVPTkM3TkZTMHNWV2RJeWRpYlJXU3plSjlsU2lydHI4bjkyeHB3MGVDWW1IRlhFMkVfTVUxYU9yTC1ibC1lQ3JaeElNZ1pQNW92c1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4a87ec179386",
       "title": "공복에 먹으면 살빠지고 혈당 안정?… “무작정 믿지 마라” 의사 경고, 왜? - 코메디닷컴",
       "published": "2026-04-13T15:36:00+00:00",
@@ -162,30 +234,6 @@
       ]
     },
     {
-      "id": "a80e06eb257a",
-      "title": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목 - 조선일보",
-      "published": "2026-04-13T15:01:00+00:00",
-      "summary": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHZBQUJEeThHZzFaWEhEZG5QeHlBcGNYWU9SNmFDZnN3QjFELUY3UnJ1WDNUcVlOejlxTm93WGlSMnRHcDVUSnNGSldoTHpld2l6U3RXYWpjM0Y5VFdpT1M3STZRWExHOEpZdXk4TWxMZ3pGVTdjSFBrT0tkUEVhT0Uzd9IBlwFBVV95cUxNaDlVSkQ5eGhPeU5YbFN6TkRpbEdNM2hTYzFJeHRyTW1mTTllR05vcENnWnZueWtaR05RQzhyMmV1VFJPUjM0RXZZb2JfME4zYzRDX015dktPbFA0T19qUUtVSUJEMzBRNWN3NkJzWFVaOTlvNXR3UGpYcWlsVUNoYUo1RFpvRDFxV2tLUTBNbFZCRkNtTTJz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47628bda09b0",
-      "title": "뇌졸중 막고 싶다면? '이 영양소'부터 챙겨라 - 헬스조선",
-      "published": "2026-04-13T12:40:00+00:00",
-      "summary": "뇌졸중 막고 싶다면? '이 영양소'부터 챙겨라&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vT2o2NUVaQ2ZJTkU0bi0xUFJYVWFWcFItSUNYTzFqak5OMF8zZThpWjFRUkpWZl9SRmgzd19rV0trREN0dGE2Q2h5ZVBjU21jaEw0d1NIb3dUenBTM0cyZkk5ZXEtRlNDSzRzb0o4WXlMWlR4MEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1e17e678ca3d",
       "title": "“자도자도 피로해”... 의외로 이 비타민 부족 때문? - 조세일보",
       "published": "2026-04-13T11:00:53+00:00",
@@ -194,18 +242,6 @@
         {
           "name": "조세일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwTXpDdVVVOExmXy11VzJnV3FPNDZRM1RYZ1JOMXNFNzBPTnR6UGIwbVBRUkRKYWN1b0lpb0ZMWXFPNkNTM2RRb3ctLUotU0tod1Nud25qeWZ5dnItamVZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29d4d1dc2050",
-      "title": "갑자기 생긴 빈혈, 암 신호?…“진단 3개월 내 암 발견 위험 9배” - 하이닥",
-      "published": "2026-04-13T11:00:00+00:00",
-      "summary": "갑자기 생긴 빈혈, 암 신호?…“진단 3개월 내 암 발견 위험 9배”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMc0RzTWwxOERMcVZUUjFyRnB6STVNQ0o2RFRvczY0SHFBVnIwNUViWS10MHB2Wk1Rd013S3REYlVVa0lKODM3ZjBWQTZETTJKRHF3YS1lckZ3d19zNkRmTUZHNzBmNW90Mnc?oc=5"
         }
       ]
     },
@@ -270,14 +306,14 @@
       ]
     },
     {
-      "id": "fff628f3d85a",
-      "title": "장 모사한 칩으로 염증성 장질환 합병증 물리적 메커니즘 규명 - 동아사이언스",
-      "published": "2026-04-13T05:20:00+00:00",
-      "summary": "장 모사한 칩으로 염증성 장질환 합병증 물리적 메커니즘 규명&nbsp;&nbsp;동아사이언스",
+      "id": "c94760098341",
+      "title": "[의료인 초대석] 박언휘 원장이 전하는 100세 시대의 예고된 축복, “노화는 치료 가능한 질병이다” - 한국미디어뉴스통신",
+      "published": "2026-04-13T04:23:20+00:00",
+      "summary": "[의료인 초대석] 박언휘 원장이 전하는 100세 시대의 예고된 축복, “노화는 치료 가능한 질병이다”&nbsp;&nbsp;한국미디어뉴스통신주변에 ‘이런 사람’ 너무 흔한데… 더 빨리 늙는다고?&nbsp;&nbsp;코메디닷컴“노화 자체를 제어한다”…패러다임 바뀌는 ‘역노화 연구’&nbsp;&nbsp;v.daum.net‘저속노화’ 열풍과 ‘노화세포설’로 보면 ‘채우는 치료’보다 ‘세포 살리는 치료’가 더 중요&nbsp;&nbsp;스포츠경향노화 폭탄 터지는 두번의 시기... ○○세와 63세&nbsp;&nbsp;insight.co.kr",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pbF9yU3ptZGYxUnZMT2x1aGUxVlBrbk5iYTl5VjZZRXl4dUlxSW0ya2luWk80RWc2NWU1ZUlJQ2JRQlh4M0pJbXN4WmY2bEg4aVROdA?oc=5"
+          "name": "한국미디어뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNTFTM0RjaWFGVXR1TEtYVUFMOHIzNzJnclprMkhRdlFHc2RldDZiS3hyMnF5YnFscTBwTTV3ckxBNE1tZDVxNl93MzFacjlWdnFhS0pSay0xVmNDU05KcjZGNFhXLXdJR0hBQw?oc=5"
         }
       ]
     },
@@ -302,18 +338,6 @@
         {
           "name": "디지털투데이",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UTFVhcVBTX25fS0hiRWE0dEtPRE1QUlBCVWloRm1pbjlIQWZ3S01yX2xEcVNBZnA3SWprM3VPOTZaNEZIbHZYTE9vVXRnR2l0anpyVFVYbFd3M3doSTAtX0ZGcDdLREpWZk5qWlFoaVVEVTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3095cdc17529",
-      "title": "\"노화 자체를 제어한다\"…패러다임 바뀌는 '역노화 연구' - 네이트",
-      "published": "2026-04-13T02:13:00+00:00",
-      "summary": "\"노화 자체를 제어한다\"…패러다임 바뀌는 '역노화 연구'&nbsp;&nbsp;네이트노화 44세와 60세에 가속… 노화 늦추는 시대 온다 - 조선비즈&nbsp;&nbsp;Chosunbiz주변에 ‘이런 사람’ 너무 흔한데… 더 빨리 늙는다고?&nbsp;&nbsp;코메디닷컴“노화 자체를 제어한다”…패러다임 바뀌는 ‘역노화 연구’&nbsp;&nbsp;v.daum.net[의료인 초대석] 박언휘 원장이 전하는 100세 시대의 예고된 축복, “노화는 치료 가능한 질병이다”&nbsp;&nbsp;한국미디어뉴스통신",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91S0NPWVQzU2pRZ2g3NnZiWDRtTzduN2EzYmV2NFlmdkF1T2hXRnBHUDlEM3J2d0FpNWJ1V0NkZERmVnQyNXR0UTJnNGZfSHIwa1dj?oc=5"
         }
       ]
     },
@@ -381,7 +405,7 @@
       "id": "56348a746c97",
       "title": "KAIST, 빛이 약 자동 조절 OLED 패치 개발...치료 속도 2배 향상 - 뉴스밴드",
       "published": "2026-04-12T23:44:44+00:00",
-      "summary": "KAIST, 빛이 약 자동 조절 OLED 패치 개발...치료 속도 2배 향상&nbsp;&nbsp;뉴스밴드빛이 약을 자동 조절하는 OLED 패치 개발..치료 속도 2배↑​&nbsp;&nbsp;BRIC상처에 빛 쏴서 약물량 조절 ‘스마트 패치’ 나왔다&nbsp;&nbsp;v.daum.netKAIST, 빛이 약을 자동 조절 'OLED 패치' 개발…치료 속도 2배↑&nbsp;&nbsp;연합뉴스“피부에 착 붙이면” 상처 치료속도 2배↑…‘빛+약물’ 스마트패치 나왔다&nbsp;&nbsp;헤럴드경제",
+      "summary": "KAIST, 빛이 약 자동 조절 OLED 패치 개발...치료 속도 2배 향상&nbsp;&nbsp;뉴스밴드빛으로 치료+약물 투여하는 OLED 패치…상처 회복속도 2배&nbsp;&nbsp;동아사이언스KAIST, 빛이 약을 자동 조절 'OLED 패치' 개발…치료 속도 2배↑&nbsp;&nbsp;연합뉴스KAIST, 자가조절형 OLED 상처 치료 패치 개발…치료 속도 2배↑&nbsp;&nbsp;뉴스1상처에 빛 쏴서 약물량 조절 ‘스마트 패치’ 나왔다&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "뉴스밴드",
@@ -453,7 +477,7 @@
       "id": "68208d48823f",
       "title": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\" - 네이트",
       "published": "2026-04-12T08:01:00+00:00",
-      "summary": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\"&nbsp;&nbsp;네이트",
+      "summary": "치매·심혈관 질환 걱정된다면…\"운동 강도 높여라\"&nbsp;&nbsp;네이트1시간 걷기 vs 3분 숨차게… 건강 효과, 뭐가 더 클까[건강팩트체크]&nbsp;&nbsp;동아일보“운동 따로 안 해도 되겠네?”…하루 1~2분, 치매·당뇨 갈랐다&nbsp;&nbsp;v.daum.net“숨이 찰 정도로 움직여라”…8가지 만성질환 위험 낮추는 격렬한 운동은?&nbsp;&nbsp;레이디경향운동은 강도보다 '시간'…당뇨 환자 혈당 개선의 핵심 변수&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
@@ -470,66 +494,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pSHYtTWk1ZUdEd01oeEo5U3NTSVR6Z25kaFBoZUZENEowR3duVTJDVy1mUkZDWXVyVjAwYWFCd0JIYUwtZ2xQVnNNWGZFUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f21bf0eeb11",
-      "title": "흡연자 더 위험했다... 코로나19, 폐암 촉진 - 메디컬투데이",
-      "published": "2026-04-12T06:52:53+00:00",
-      "summary": "흡연자 더 위험했다... 코로나19, 폐암 촉진&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vSHpub0FVdHZQM2liLXY3UVdoSXFwbVhkVUR3YlkyaXBOdnFhSnBjendpNk9qaWpiaHVTRG9CNkZNYjZaSUpNMm5vXzBaNV9JQXQweEhDaDJmdEpm0gFsQVVfeXFMTnZjWTVvNDVrVXEtR2s2dXFfbXUxbzNrWXNvUnFDcTFPNXJCTEdSQVZBd2dlMUU4LUZPOXR1b1hDa2pGRjFmdTI2QU1IU25MWDRDRDB5ZlR2bUVWcS0xVzdkS2dVd1d2M214dEF1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea9f9085913d",
-      "title": "충치 심했던 아이, 성인기 때 심혈관질환 위험 45% 더 높았다 - 하이닥",
-      "published": "2026-04-12T05:00:00+00:00",
-      "summary": "충치 심했던 아이, 성인기 때 심혈관질환 위험 45% 더 높았다&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iai1KNzY3LXlZQWtzQjc2MjVMZXJMZDJqS2NhWUlhMG9qVS1WYmswcGw1TEllbExFamZEelpIMl9xYkg2LTUwSjJfYUxhbkpfT24wcjUtc3FmSXZVNVFxV19ULW5UMnl5elE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ddb72b82257f",
-      "title": "손톱에 생긴 희미한 점, '심장감염' 신호일 수 있다… 자세히 보니? - 코메디닷컴",
-      "published": "2026-04-12T04:05:00+00:00",
-      "summary": "손톱에 생긴 희미한 점, '심장감염' 신호일 수 있다… 자세히 보니?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yMTAxUFNiOE9YNGdaRk9tWTc4Q0VuVjFZTWtUamphX3FMUmpWOVVCYUhFRkh4bG1wa2lnVy1DeGdCdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d44ab8345627",
-      "title": "고려대학교 전태훈 교수팀, “면역치료 안 듣는 대장암, MAFB 단백질 제거로 돌파구 제시” - 한국강사신문",
-      "published": "2026-04-12T01:22:00+00:00",
-      "summary": "고려대학교 전태훈 교수팀, “면역치료 안 듣는 대장암, MAFB 단백질 제거로 돌파구 제시”&nbsp;&nbsp;한국강사신문고려대, 면역치료 안 듣는 대장암, MAFB 단백질 제거로 돌파구 제시&nbsp;&nbsp;교수신문대장암 면역치료의 '스위치' 찾았다…잠든 면역세포 깨우는 정체는? [언박싱 연구실]&nbsp;&nbsp;v.daum.net고려대 연구진, 대장암 면역치료 반응 높일 '유전자 스위치' 찾았다&nbsp;&nbsp;뉴시스고려대, MAFB 단백질 제거로 대장암 면역치료 반응 향상 치료 전략 제시&nbsp;&nbsp;ceodaily.co.kr",
-      "sources": [
-        {
-          "name": "한국강사신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GR3YtRllPTE95NkdETkNBVnRDYWVXXzk1ODl5OWxCYUdaSFBYOXVSZTNPOHNJNEM5ejZvUDhKZG1pYzJwN3RQUlZqRVJGRVBoTjc0NWJVY2pGNWNGS3lTNHpteUw1aHNTcUxrZmRFRE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83cf32389ad2",
-      "title": "목소리도 '과로'한다…쉰 목소리 방치하면 수술까지 갈 수 있어 - 매경헬스",
-      "published": "2026-04-12T01:00:00+00:00",
-      "summary": "목소리도 '과로'한다…쉰 목소리 방치하면 수술까지 갈 수 있어&nbsp;&nbsp;매경헬스목소리 ‘이렇게’ 변했다면… 발성장애 의심해야&nbsp;&nbsp;헬스조선[칼럼] 일시적 목쉼으로 넘기기 쉬운 ‘성대폴립’, 2주 이상 지속되면 의심해야&nbsp;&nbsp;메드월드뉴스",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qOVJxMmNmcGt6WVhFZ21SN1JrTVdjQV9mSTFwN194aHlkU0JKS1VBVW05bkF6OGtKTDE2bEpCYzFEc1ZZVEZ6UlM3cEVISlJfbkhSOTNRVVpKcHh6a190RUpFeEpaMFNJQ2k5cw?oc=5"
         }
       ]
     },
