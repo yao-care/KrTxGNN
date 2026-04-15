@@ -1,19 +1,19 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-15T13:46:06.928508+00:00",
-  "total_fetched": 94,
-  "unique_count": 94,
-  "health_related_count": 48,
+  "fetched_at": "2026-04-15T19:22:48.094474+00:00",
+  "total_fetched": 92,
+  "unique_count": 92,
+  "health_related_count": 45,
   "news": [
     {
-      "id": "5577f83951a4",
-      "title": "폐경 후 유방암 예방…혈압·혈당까지 관리하세요 - 헬스경향",
-      "published": "2026-04-15T11:01:00+00:00",
-      "summary": "폐경 후 유방암 예방…혈압·혈당까지 관리하세요&nbsp;&nbsp;헬스경향\"폐경 후 비만, 유방암 위험 20%↑…대사이상 동반시 40%↑\"&nbsp;&nbsp;연합뉴스[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;헤럴드경제폐경 후 비만, 유방암 위험 20%↑…대사증후군 겪으면 40%↑&nbsp;&nbsp;뉴스1\"폐경도 서러운데 유방암이라니\"…체중관리는 기본, 혈압·혈당도 잡아야&nbsp;&nbsp;데일리안",
+      "id": "3e5bded23587",
+      "title": "폐경 후 살찌면 유방암 위험 오른다 - 헬스조선",
+      "published": "2026-04-15T17:20:00+00:00",
+      "summary": "폐경 후 살찌면 유방암 위험 오른다&nbsp;&nbsp;헬스조선\"폐경 후 비만, 유방암 위험 20%↑…대사이상 동반시 40%↑\"&nbsp;&nbsp;연합뉴스\"폐경도 서러운데 유방암이라니\"…체중관리는 기본, 혈압·혈당도 잡아야&nbsp;&nbsp;데일리안[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;헤럴드경제폐경후 비만에 '이것' 동반…\"유방암 위험 40% 커진다\"&nbsp;&nbsp;뉴시스",
       "sources": [
         {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qejBsajhYSE1GQ1JVMjlhRFdBMnhkTWpvcEJlbFdzN2ZzY1E5MXY1NGJkRWJmU0FzM0tTNXRQNks3cDRJZnZCOXVXS3FGeUlYMExwWHpySV9FSVZiNWN2ZE1qYTk1NkY3cGc?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GNXJHS2Itbnk2dEhqYV96WEM3N2FpazlCS3A5RkdNNDI1Y0RramFtZ0Rsd0NVdzlRU21DV2dmVGZ0MW82NDJ5MXNPUXVwNWtwSjRBdnlPNUlyUGVxd0tCTW8yX2MzZ1JIc2JFYl80cUpoRmYzaUE?oc=5"
         }
       ]
     },
@@ -30,18 +30,6 @@
       ]
     },
     {
-      "id": "5bb70cacfa39",
-      "title": "[쿠키과학] '시냅스 줄였더니 학습력 ↑'… IBS-뇌연구원, 뇌 회로 재편 '신트로고' 개발 - 쿠키뉴스",
-      "published": "2026-04-15T09:00:04+00:00",
-      "summary": "[쿠키과학] '시냅스 줄였더니 학습력 ↑'… IBS-뇌연구원, 뇌 회로 재편 '신트로고' 개발&nbsp;&nbsp;쿠키뉴스“뇌 회로도 ‘가지치기’ 하면 기억력 쑥쑥”… 국내 연구진, 뇌 회로 편집 기술 개발&nbsp;&nbsp;조선일보IBS, '별세포'로 뇌 회로 편집하는 기술 개발...자폐·조현병 등 뇌 질환 치료 기대&nbsp;&nbsp;전자신문시냅스 '가지치기'하자 기억력 좋아졌다…뇌 회로 편집 첫 개발&nbsp;&nbsp;v.daum.net뇌 회로 편집해 기억력 높인다…IBS, '신트로고' 기술 개발&nbsp;&nbsp;연합뉴스",
-      "sources": [
-        {
-          "name": "쿠키뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wVWxuMkdTVmtSaDIzaVk3MXBzV0VCQkIwMUxtM2FqWkJyZUR4d212TjM0cWdlUXRYcTkyZG5NWG9NMDMyS2dzZ1pIVWFlUEZuUmw0c25sMGlnclhHYjZYYmtIUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "73b5d8c9b26c",
       "title": "거울 속 얼굴이 어색하다면…놓치기 쉬운 안면신경마비 신호 - 매경헬스",
       "published": "2026-04-15T09:00:00+00:00",
@@ -50,6 +38,18 @@
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfMG11YWVuVHluWExlVF90aTZOSVoydHhVNVk0ZWt3ZGFHZTVfSnBGZ1JIeTlNOHlBalVtaV9SdXgxVjJKeGtNZ3lhYkRqZ3ZRVlVkV3hGRmEyMVlfMFJ6UlljWnRwS29UTVU5eQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c39a43b10ea2",
+      "title": "\"스마트폰 사용 정보만으로 우울·불안 고위험군 찾는다\" - 한국부동산뉴스",
+      "published": "2026-04-15T08:47:40+00:00",
+      "summary": "\"스마트폰 사용 정보만으로 우울·불안 고위험군 찾는다\"&nbsp;&nbsp;한국부동산뉴스Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "한국부동산뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00RzJWWUstckk2SS1GT2JqSmhadzJqd2FjSFNIdTVkV2JvV0RsSGRRZHQ5WlNVRGZfOWg0TkF0dDZDa2FGRjJrU2Zzck1wNk9WM19vbnJQRGR3cmhveS1MdHI2clROZlQySEpV?oc=5"
         }
       ]
     },
@@ -210,18 +210,6 @@
       ]
     },
     {
-      "id": "6b7f659cdd6b",
-      "title": "고대 안암병원 조철현 교수 연구팀,ETRI와 공동연구 통해 디지털 피노타이핑 기반 정신건강 판별 모델 구축 - 메디포뉴스",
-      "published": "2026-04-15T01:00:43+00:00",
-      "summary": "고대 안암병원 조철현 교수 연구팀,ETRI와 공동연구 통해 디지털 피노타이핑 기반 정신건강 판별 모델 구축&nbsp;&nbsp;메디포뉴스\"당신은 지금 우울하시군요\"…스마트폰으로 알아낸다&nbsp;&nbsp;뉴시스우울증 고위험군, 이동 반경 좁고 집에 머무는 시간은 더 길다&nbsp;&nbsp;경향신문\"스마트폰 수집 정보로 우울·불안 고위험군 찾는다\"&nbsp;&nbsp;연합뉴스스마트폰만으로 '우울증 고위험군' 골라낸다…조기 판별모델 구축 - 머니투데이&nbsp;&nbsp;mt.co.kr",
-      "sources": [
-        {
-          "name": "메디포뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IVnY0b0tuSXZpcDlKSHhRMHJIRXRnT1F0VkNqemNJNDYxTlZmSlNHc2Jyd3NiUnV3dGVFeUNrRHhaU3ZUU3k3SlVCVVhCZ1d1Z2MyajJKZlktRVBLRVBUTGd4NTc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f73c99bd4e04",
       "title": "'치명적 바이러스' 도난 충격 - 뉴스토마토",
       "published": "2026-04-15T00:10:01+00:00",
@@ -234,18 +222,6 @@
       ]
     },
     {
-      "id": "43790a0e7ec1",
-      "title": "위암, 흔한 병인데 왜 치료법은 제한적일까? - 헬스코리아뉴스",
-      "published": "2026-04-14T23:25:23+00:00",
-      "summary": "위암, 흔한 병인데 왜 치료법은 제한적일까?&nbsp;&nbsp;헬스코리아뉴스",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KOFJtLW8tVUNCeHBkMk55OUYwbWFTR2Fqc1FROFZKanZIYkZUNXJXUmNTMkZaZ25sZ3V2WWEyb21NUV9ucEhLc1RYUzg4VUt0Zl81WXBwRWg5STNoWjFseWdGZGt1d1k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c3dedb13bb7e",
       "title": "[특별기고] 치매는 갑자기 오지 않는다…놓치지 말아야 할 ‘경도인지장애’ - 헬스경향",
       "published": "2026-04-14T22:59:02+00:00",
@@ -254,18 +230,6 @@
         {
           "name": "헬스경향",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVdzJDZkVyNzE5R1p2d1RGdFRBWlBCTXJmNFNEelhFc0Rta3V2YnJNS0NWSzVRTW9ydWFzeThXVmZVdXpmTkxKbEgtSEFlaGtlZW1OUk0wOXJvUzJGNGpJR1c1amdJV1NhUXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "67d86f2f7832",
-      "title": "“운동해도 늙는 이유 따로 있어”… ‘이 습관’ 노화 속도 갈랐다 - 코메디닷컴",
-      "published": "2026-04-14T22:06:00+00:00",
-      "summary": "“운동해도 늙는 이유 따로 있어”… ‘이 습관’ 노화 속도 갈랐다&nbsp;&nbsp;코메디닷컴\"하루 1700~5500보만 더 걸으면…성인병 위험 '뚝'\"&nbsp;&nbsp;뉴시스\"운동해도 늙는 이유 따로 있어\"…'이 습관' 노화 속도 갈랐다&nbsp;&nbsp;네이트하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다&nbsp;&nbsp;헬스조선앉아있는 1시간 늘 때마다…기대 수명 22분 줄어든다?&nbsp;&nbsp;레이디경향",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5iZ19mOXgwZGRwSjQxT3lrcGxnUlVvVlVMcWJCOUY2eFJna2RwNTNwX0lwRmczek1qeEdWdUtFeGo3UQ?oc=5"
         }
       ]
     },
@@ -294,6 +258,18 @@
       ]
     },
     {
+      "id": "265fb173af1b",
+      "title": "“직업군별 ‘치매 위험’ 차이 있다”… 비교적 안전한 직종은? - 헬스조선",
+      "published": "2026-04-14T14:40:00+00:00",
+      "summary": "“직업군별 ‘치매 위험’ 차이 있다”… 비교적 안전한 직종은?&nbsp;&nbsp;헬스조선밤에 ‘이 모습’ 자주 보이는 사람, 치매 검사 받아라&nbsp;&nbsp;헬스조선“운동해도 늙는 이유 따로 있어”… ‘이 습관’ 노화 속도 갈랐다&nbsp;&nbsp;코메디닷컴많은 사람들이 예상하지 못했을 사실이지만, 이 익숙한 '원인'은 심장마비 위험을 두 배로 높입니다.&nbsp;&nbsp;Vietnam.vn하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WNmpiMXhHajBmNGR2bFZ4OEFaRkVTVUdLSGU2Sm1LdW1CR2J2ZWZibjdaMkxCNDJWLVJnREpuMTJhQmkxOFl2X2Nic0ZUbU9RUms1NDJvd0pseG9wTGp3Y2JXaGJIU3lxaWh5ZER0UUFUeFIwZVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "685f950bd7f0",
       "title": "우울증 치료에 ‘이 약’ 먹었다가 전신 발진… 무슨 일? - 헬스조선",
       "published": "2026-04-14T14:00:00+00:00",
@@ -309,7 +285,7 @@
       "id": "d2885bd8538f",
       "title": "‘남편 불륜’ 후 암 걸린 美 여성…“백신만 맞았어도” 뼈저린 후회 - 서울신문",
       "published": "2026-04-14T14:00:00+00:00",
-      "summary": "‘남편 불륜’ 후 암 걸린 美 여성…“백신만 맞았어도” 뼈저린 후회&nbsp;&nbsp;서울신문“먼지 마셔서 목 아픈 줄 알았는데”… ‘HPV 감염’ 암이었던 男&nbsp;&nbsp;헬스조선\"먼지 마셔 목 아픈 줄 알다 인후암 3기\"…수십 년 전 구강성교 탓?&nbsp;&nbsp;네이트\"남편 외도 후 3가지 암 걸려\"…'이것' 감염 경고&nbsp;&nbsp;sportschosun.com\"목이 자꾸 따끔거리더니…\" 수십 년 전 성관계로 암에 걸려&nbsp;&nbsp;sportschosun.com",
+      "summary": "‘남편 불륜’ 후 암 걸린 美 여성…“백신만 맞았어도” 뼈저린 후회&nbsp;&nbsp;서울신문“먼지 마셔서 목 아픈 줄 알았는데”… ‘HPV 감염’ 암이었던 男&nbsp;&nbsp;헬스조선\"먼지 마셔 목 아픈 줄 알다 인후암 3기\"…수십 년 전 구강성교 탓?&nbsp;&nbsp;네이트\"남편 외도 후 3가지 암 걸려\"…'이것' 감염 경고&nbsp;&nbsp;sportschosun.com",
       "sources": [
         {
           "name": "서울신문",
@@ -338,18 +314,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oMWFSWG9jMmxlWkZRZGtFNlZlN1RPdU1OQzVLaTJ2MWNwNkYwQ1M0VGVqX3Rpa3hvSE82VFhpYUdCM3AwOUlUazNnSE5JcVdZVkt4WENuaHRyejI3ZEpmeVpHZS1MUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d9e28744d385",
-      "title": "“100세에도 치매 없었다”...장수 노인의 뇌가 다른 3가지 이유 - 디멘시아뉴스",
-      "published": "2026-04-14T09:57:14+00:00",
-      "summary": "“100세에도 치매 없었다”...장수 노인의 뇌가 다른 3가지 이유&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92ZmtxaDNPbTMzWV9UV21IeHNOek81ZUM3R0lreDcteC03SmlYMFVRTVNKLUloN0NsZ3l6WFFNY09RZ1VwTHJoNDIxSTBWLVYwZEl1MFd2aXR6YkJ0ZmhaTEVheE1sUVNHWVhmUElUV2dxdw?oc=5"
         }
       ]
     },
@@ -402,18 +366,6 @@
       ]
     },
     {
-      "id": "8b19e1999c99",
-      "title": "복잡한 직업이 치매를 늦춘다, 평생 쌓은 뇌의 저력 - 캐어유 뉴스",
-      "published": "2026-04-14T06:00:00+00:00",
-      "summary": "복잡한 직업이 치매를 늦춘다, 평생 쌓은 뇌의 저력&nbsp;&nbsp;캐어유 뉴스Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVnZjVFY1XzBLRzZUcFp4ZWlOcU5VcUQxTTd4MndseVJXZnkzRy14QVZQNFEtaWZ3SmFoVEZXbUpoQkdidkd0cUh1YUstVmE1UkhJWm9HelJwblpValpUSlNWN2lxckZ5TDNZdA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6f383b58aa27",
       "title": "국가판 ‘항암설명서’ 공개! 절반 내용 먹는 것과 관련돼--건강 - 인민넷",
       "published": "2026-04-14T04:34:00+00:00",
@@ -450,6 +402,18 @@
       ]
     },
     {
+      "id": "9672b84e03ce",
+      "title": "하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다 - 헬스조선",
+      "published": "2026-04-14T00:20:00+00:00",
+      "summary": "하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvR3dPUWhQdnNXemwyMldIbmRqd2FuOWdGWXk5bmdTVmc0bllTYXZyckZDVHRNa19oUVRiVmo0dDNtLVM5MjBxS3JTcmtPQ3FjNzF1djBhUlM5TWtsX0UyYU1xSUJEdDZFZkZhX0p1Ykd5cmdNNHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9494f3248d3b",
       "title": "지니너스, ‘AACR’서 종양미세환경(TME) 연구 결과 포스터 발표 - 팍스경제TV",
       "published": "2026-04-14T00:17:40+00:00",
@@ -465,7 +429,7 @@
       "id": "16a68f4c8c0e",
       "title": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인 - 팍스경제TV",
       "published": "2026-04-13T23:57:36+00:00",
-      "summary": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인&nbsp;&nbsp;팍스경제TV“주사 한 번에…귀 안 들리던 아이가 대화했다”…유전자 치료, 어디까지 왔나&nbsp;&nbsp;v.daum.net한쪽 귀만 잘 안들려도…\"알츠하이머 위험 1.49배 증가\"&nbsp;&nbsp;뉴시스“한쪽 귀만 잘 안 들려도 위험”…알츠하이머 위험 1.49배 [건강한겨레]&nbsp;&nbsp;한겨레은평성모병원 “한쪽 귀만 안 들려도 알츠하이머 위험 증가”&nbsp;&nbsp;에너지경제신문",
+      "summary": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인&nbsp;&nbsp;팍스경제TV한쪽 귀 청력 떨어져도 치매 위험 50% 높아져&nbsp;&nbsp;v.daum.net“주사 한 번에…귀 안 들리던 아이가 대화했다”…유전자 치료, 어디까지 왔나&nbsp;&nbsp;동아일보한쪽 귀만 잘 안들려도…\"알츠하이머 위험 1.49배 증가\"&nbsp;&nbsp;뉴시스“한쪽 귀만 잘 안 들려도 위험”…알츠하이머 위험 1.49배 [건강한겨레]&nbsp;&nbsp;한겨레",
       "sources": [
         {
           "name": "팍스경제TV",
@@ -522,6 +486,18 @@
       ]
     },
     {
+      "id": "8f45e0b87fcf",
+      "title": "“혈당 조절해준다”는 땅콩버터, 이미 당뇨병 생긴 이들에게도 좋을까? - 헬스조선",
+      "published": "2026-04-13T20:40:00+00:00",
+      "summary": "“혈당 조절해준다”는 땅콩버터, 이미 당뇨병 생긴 이들에게도 좋을까?&nbsp;&nbsp;헬스조선“지방 50% 넘는데 살이 안 찐다고?”…땅콩버터, 혈당 속도부터 달라졌다&nbsp;&nbsp;v.daum.net'매일 한 숟갈' 혈당 급등 막고 포만감 유지…당뇨 환자가 직접 효과 본 '이 음식'은?&nbsp;&nbsp;전자신문\"하루에 한 스푼 먹었을 뿐인데\"…땅콩버터, 급격한 혈당 상승 막아줘&nbsp;&nbsp;뉴시스“하루 한 스푼 먹었을 뿐인데”…땅콩버터, 급격한 혈당 상승 막는 이유&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lMTJyMHczWGx3cTcxRTBhSk1mQkJNcTIzN0tyVWRBdHg2MF9tdER6NmNrNkxsZDVnbldQc2ItUTY2eE1mQkkzanN0blFFaXdaaFdfQ2R0SDVTekVtSUFNNGRhY0FJMVA4czZtclBDUi1BeTdPaGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8edb2c3c0250",
       "title": "이름만 '알부민'...효과는 달걀 흰자 정도 - YTN",
       "published": "2026-04-13T16:54:00+00:00",
@@ -542,18 +518,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHZBQUJEeThHZzFaWEhEZG5QeHlBcGNYWU9SNmFDZnN3QjFELUY3UnJ1WDNUcVlOejlxTm93WGlSMnRHcDVUSnNGSldoTHpld2l6U3RXYWpjM0Y5VFdpT1M3STZRWExHOEpZdXk4TWxMZ3pGVTdjSFBrT0tkUEVhT0Uzdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d51acfa830c8",
-      "title": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목 - 조선비즈 - Chosunbiz",
-      "published": "2026-04-13T15:01:00+00:00",
-      "summary": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목 - 조선비즈&nbsp;&nbsp;Chosunbiz",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOODVIemZueURJNFZDUEpJT3lxLTRZY0hrRDZsU1FpQzlGQWF2WW45Tzh0ZW9ybmNOOUpBM3NxVENvOVBTOUdCSUJXd1RYZjB6OFdiSjBYNm9KdzJsWS1QVGg4bVJVU2NFT1Z5UHNEOFJrZVdJc1A0cU1Eb09KU3NfQ3dWUllNVXVvckJQU9IBoAFBVV95cUxOWEdkVkRyR0ZaQ045eldOdGxjYWVnWUpFa0JRNk1xQUkyazI2Q2NrZlI2cHZ5SGV2UERPS09mbVBRRDIxWlUwd0VDeVNfNGJqMHpNbDJwZ1pfQ3k0LVRDZGZGRVBWNVh6bmRtSU9HSnZDR1ppRVNreWVlVUQtY053ZExQaFFsVXlzNU9Ya2tJTlJzQU56T0p5Z0hqSzhIdVJ1?oc=5"
         }
       ]
     },
