@@ -1,12 +1,51 @@
 {
-  "last_updated": "2026-04-16T13:55:15.168366+00:00",
-  "total_count": 43,
+  "last_updated": "2026-04-16T19:21:36.098164+00:00",
+  "total_count": 37,
   "matched_count": 0,
   "news": [
     {
+      "id": "026f7fd0ee04",
+      "title": "한국MSD, 손현주와 함께 '깜박'하기 쉬운 성인 폐렴 위험 알린다 - MEDI:GATE NEWS",
+      "published": "2026-04-16T18:19:00+00:00",
+      "summary": "한국MSD, 손현주와 함께 '깜박'하기 쉬운 성인 폐렴 위험 알린다&nbsp;&nbsp;MEDI:GATE NEWS한국 MSD, 배우 손현주와 성인 폐렴구균 예방 캠페인 전개&nbsp;&nbsp;헬스조선[이엠디] 한국화이자제약, ‘뉴 에라(Pneu Era) 프리베나®20 심포지엄’에서 프리베나 패밀리의 임상 경험을 바탕으로 성인 폐렴구균 예방 전략 공유&nbsp;&nbsp;eMD Medical News한국MSD, 배우 손현주와 성인 폐렴 위험 알린다&nbsp;&nbsp;뉴스1\"혈청형보다 중요한 건 현장 데이터\"…성인 폐렴구균 예방 RWD 부각&nbsp;&nbsp;팜뉴스",
+      "sources": [
+        {
+          "name": "MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41TjdtTG1pYjFvbFc4TnYtTWs4NE9ia2lkV2Z4RjZTWnI3a05kWGxXeUJvR2dMY0NhaUlfODlhdG1zZW1oV09GTXJpREJ4Q0xzbENVY0R3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c6d70b0aba5c",
+      "title": "“AI 만난 센서의 진화… 응용연구 강국 한국, 지금이 황금기”",
+      "published": "2026-04-16T15:30:00+00:00",
+      "summary": "“AI 만난 센서의 진화… 응용연구 강국 한국, 지금이 황금기”&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2X1FKMVN6UFZsZkVUT2MzMUhVZjBVVGFqUi1nWFRCQVVzcm4wWkk1QXd5ZEc4MHRTMnItSmhBa0ZMcWpSM0ttOU9BY056NDJrVC1wLTlKM0hjeHMxMGpJbGwyekZHN1FvNlVkLUk0ZkR4Z1JGQmfSAWZBVV95cUxOZXoxa0R5M2hUdFl3VjMzR0RVblBDaHVTeGVOYml6Z0JtU2FUMllnT3pMbkotbUxHM19qbDBQM05tam92Z3Rfdm8zd0dXUmhtZVl2SjY1MXR5NlZrbEQtcXNlN251anc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a151f453405d",
+      "title": "03화 건강한 도파민 보상",
+      "published": "2026-04-16T14:46:22+00:00",
+      "summary": "03화 건강한 도파민 보상&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "브런치",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBycndnOWZ1U2lqc2Ztb1ZLd19uM2pGV3FfOWIzbHU1aUY0QjF0ZVFkM05Gb0I4UmhRS29ha0N6MWRhbnJxcTRmZkFIQnIxejQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5dda70ab1945",
       "title": "[브레인 리포트] 외로움은 뇌의 염증이다",
-      "published": "2026-04-16T10:41:00+00:00",
+      "published": "2026-04-16T10:40:00+00:00",
       "summary": "[브레인 리포트] 외로움은 뇌의 염증이다&nbsp;&nbsp;브레인미디어“외로우면 상처도 안 낫는다”…염증 유전자 깨우는 ‘마음의 병’&nbsp;&nbsp;동아일보‘외로움’ 많이 느끼면 상처도 잘 안 아문다…유전자가 ‘염증 스위치’ 켜&nbsp;&nbsp;매일경제",
       "sources": [
         {
@@ -25,19 +64,6 @@
         {
           "name": "메드월드뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qdlhYeGUxXzg4YVJoZW9MN253Q0t4bkxGcHNYcWk5N3E1OW5DaEs2YnZxT3dLUF8zZWY2VVJLSVlSUHJfZV8zM2lJczlqb2VPQk9fc3JkemJMOFpzRzA5UlVSWlk3cms4dUJxeVpB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "02a4b9498230",
-      "title": "‘유전체 양자컴 탑재’ 첫 성공…감염병 추적, 희귀 질환 규명 빨라지나",
-      "published": "2026-04-16T08:21:12+00:00",
-      "summary": "‘유전체 양자컴 탑재’ 첫 성공…감염병 추적, 희귀 질환 규명 빨라지나&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa3V2QU5ldVM3VWFDRmVDY1FuWXpNdWJqNUs3V084Yi16V29yV0RJTjkxd0NUS0luLXNoVjB2QVRycENXMFRmQUEtbHk1NU9hZ3htX1JyU3p4cE1CbC1LQ1VUTkdCaUdoLXNBT0JGUGZwNng0X1EzbHh1NVFOdVBCT3A5OA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -82,32 +108,6 @@
       "matched_keywords": []
     },
     {
-      "id": "54cd4f0954a4",
-      "title": "한국 MSD, 배우 손현주와 성인 폐렴구균 예방 캠페인 전개",
-      "published": "2026-04-16T07:42:00+00:00",
-      "summary": "한국 MSD, 배우 손현주와 성인 폐렴구균 예방 캠페인 전개&nbsp;&nbsp;헬스조선[이엠디] 한국화이자제약, ‘뉴 에라(Pneu Era) 프리베나®20 심포지엄’에서 프리베나 패밀리의 임상 경험을 바탕으로 성인 폐렴구균 예방 전략 공유&nbsp;&nbsp;eMD Medical News한국MSD, 배우 손현주와 성인 폐렴 위험 알린다&nbsp;&nbsp;뉴스1\"혈청형보다 중요한 건 현장 데이터\"…성인 폐렴구균 예방 RWD 부각&nbsp;&nbsp;팜뉴스성인 폐렴구균 인식 공백 겨냥…한국MSD, 손현주와 캠페인 진행&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KLTE3X3FtVllxY2xOY2V0bG5DMzlpRkFtZFhIWFZMbVp5ZGNEdm9WTFNZZVVCdVBSZGVVaDNUMUxzbGNRVlUxQnpkQ2Jja0ZmUXMwSFRGVTNHejJQdDcxYkE4MGYyZ292Z05ORFJyU2pyUldhQ2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b0541660638d",
-      "title": "5월부터 12세 남아도 HPV 백신 무료 접종…국가예방접종 지원 확대 - MEDI:GATE NEWS",
-      "published": "2026-04-16T07:17:00+00:00",
-      "summary": "5월부터 12세 남아도 HPV 백신 무료 접종…국가예방접종 지원 확대&nbsp;&nbsp;MEDI:GATE NEWS\"12살 남학생도 무료로\"...청소년, HPV 무료접종&nbsp;&nbsp;YTN 사이언스자궁경부암 백신 무료 접종 男청소년까지 확대, 왜?&nbsp;&nbsp;조선일보12세 남학생, HPV 무료 접종…\"5월부터 신규 시행\"&nbsp;&nbsp;데일리팜‘여성용 백신’ 꼬리표 뗐다…HPV ‘9가’ 전환은 언제?&nbsp;&nbsp;KBS 뉴스",
-      "sources": [
-        {
-          "name": "MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93NHVIVWozR0d6alpPUkJKamxKQXFYV0tOb1hvaF82TG9pakRSWm9oZlJ4akluemNLZ2w5VmVoV1JrZ0tkYW1JUUFSZEIzalhyY2xVZDFjcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "20048294a04f",
       "title": "수면 중 뇌파 패턴으로 추정한 뇌 나이에 따라 치매 발병률 높아져...",
       "published": "2026-04-16T07:08:00+00:00",
@@ -116,6 +116,19 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9zakh3ZVROYmREQ1pIMS1hMWs4SGdUUGFNOTFRRlNyV3FVaHYzUjBiYnlySTZKaFA2ZVMzNnMyWFJRX2JR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "14867ca85bbc",
+      "title": "\"폐경 후 유방암 예방, 체중만큼 혈압·혈당도 잡아야\"",
+      "published": "2026-04-16T07:06:19+00:00",
+      "summary": "\"폐경 후 유방암 예방, 체중만큼 혈압·혈당도 잡아야\"&nbsp;&nbsp;의협신문\"폐경 후 비만, 유방암 위험 20%↑…대사이상 동반시 40%↑\"&nbsp;&nbsp;연합뉴스[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;v.daum.net'유방암 걱정' 중년女, 체중만 관리하면 큰일나는 이유는?&nbsp;&nbsp;네이트폐경후 비만에 '이것' 동반…\"유방암 위험 40% 커진다\"&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "의협신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zLTNMdGRuOHpUdVFUdTVULWtZVWlId3V3Wmo0eXNFREhyeVZ2LU84MlF2ejhkbTBINW1JeXVBVHhZZVhzUnlJd0VGZjNmc1NuMkhCc3NMWGZaZHVPY29MYnpGekNrN1RzOGhpeQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -142,6 +155,32 @@
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTjhXWnBDZlVvaWQxV2xyNzBvVmZxNVlTbWJfcC1ZZ2ZhYlllVU9kaFp6cVRQUDJzUUU1SnRDTkExQlJtb0h5dGZESmxISUZ1S0E2YXFseTRJNW90dERxODZMQk9OS1BZM1hrcQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "26de11c08ea2",
+      "title": "5월부터 12세 남성 청소년 대상 사람유두종바이러스 백신 무료접종 시작",
+      "published": "2026-04-16T06:51:56+00:00",
+      "summary": "5월부터 12세 남성 청소년 대상 사람유두종바이러스 백신 무료접종 시작&nbsp;&nbsp;의사신문\"12살 남학생도 무료로\"...청소년, HPV 무료접종&nbsp;&nbsp;YTN 사이언스자궁경부암 백신 무료 접종 男청소년까지 확대, 왜?&nbsp;&nbsp;조선일보12세 남학생, HPV 무료 접종…\"5월부터 신규 시행\"&nbsp;&nbsp;데일리팜‘여성용 백신’ 꼬리표 뗐다…HPV ‘9가’ 전환은 언제?&nbsp;&nbsp;KBS 뉴스",
+      "sources": [
+        {
+          "name": "의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uVjQwc2lxNXQ1UE5mR3RTdnNIczM3TWhKNW9PaV9LOFNybDBJLV81UVU5bDZjWm4wTGN4TmxROWZrSXF6WnotOFNpNlZtTVlobnA1akV6bVg1Ql91MldtbWVLS05FY3hJbG9jWm5VOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "78d7e9bc80eb",
+      "title": "오래 앉아있다면 꼭 해야 하는 운동: 발뒤꿈치 들기--건강",
+      "published": "2026-04-16T06:49:00+00:00",
+      "summary": "오래 앉아있다면 꼭 해야 하는 운동: 발뒤꿈치 들기--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KNnNSRFlTWV9SdDcwdnp5SGhPQVctcWlfMlBlWEptS2NsRDhWSWszZmhSNjV0UGZLbTFCeG4zR2JGX3VJZVFhZTFfeHVZMGJPckUxQUN4LUhsUzBsVGRtbV9Xa0ttUTR3TTBTTGNR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -186,6 +225,19 @@
       "matched_keywords": []
     },
     {
+      "id": "dffb222fae3f",
+      "title": "양자컴에 처음 업로드된 D형 간염바이러스 유전정보…맞춤 의료 열릴까",
+      "published": "2026-04-16T05:01:00+00:00",
+      "summary": "양자컴에 처음 업로드된 D형 간염바이러스 유전정보…맞춤 의료 열릴까&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfN1VXVVluZnFqamdwMFRkcGczTDZkbTY2OHV2S2diYzlkanNGOGVPeHlERC1PUjI4V3dVRWNJV2dsbDJUdElPMjNFWjRqX3V4U0NCVA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "77e65d63dd21",
       "title": "단식 모방 식단, 크론병에 효과 나타내",
       "published": "2026-04-16T04:00:00+00:00",
@@ -212,40 +264,27 @@
       "matched_keywords": []
     },
     {
-      "id": "8af45a43d629",
-      "title": "폐경 후 비만·대사증후군, 유방암 발병 위험 최대 40% 높인다",
-      "published": "2026-04-16T02:30:00+00:00",
-      "summary": "폐경 후 비만·대사증후군, 유방암 발병 위험 최대 40% 높인다&nbsp;&nbsp;하이닥\"폐경 후 비만, 유방암 위험 20%↑…대사이상 동반시 40%↑\"&nbsp;&nbsp;연합뉴스[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;v.daum.net'유방암 걱정' 중년女, 체중만 관리하면 큰일나는 이유는?&nbsp;&nbsp;네이트폐경후 비만에 '이것' 동반…\"유방암 위험 40% 커진다\"&nbsp;&nbsp;뉴시스",
+      "id": "f03d95814762",
+      "title": "주가 반토막 났는데…삼천당제약 또 무슨 일?",
+      "published": "2026-04-16T02:42:08+00:00",
+      "summary": "주가 반토막 났는데…삼천당제약 또 무슨 일?&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYWHJWbll5TzEtd2IzSkZaS1gweXVBUXRtc3djTnBCLTh5ZXZSVnZ5ODlndmNuSVRTNzJWMEc1QmpLV2l6NmdnU25hZW1wVlIycGNwZ3NwWjZzNGkwMUJqQ25rUjF4MXdIb1E?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYZEZWZXV5d25PSUVuNlFsdjVrcVA2VFBsWi1HS005LWRJdWVqZmRlZmNDcXgxVnJTN0x2alNHVlp5SF90aTFLWll6TFhob3c?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "8f7cedd63715",
-      "title": "산부인과학회 “HPV 검사, 국가검진 포함”",
-      "published": "2026-04-16T00:50:00+00:00",
-      "summary": "산부인과학회 “HPV 검사, 국가검진 포함”&nbsp;&nbsp;데일리메디질 분비물 양과 냄새 달라졌다면, 자궁경부 질환 검진이 필요한 시점&nbsp;&nbsp;네이트생리불순 방치했다가… ‘자궁암 3기’ 英 여성의 경고&nbsp;&nbsp;헬스조선[행사] 산부인과학회, 국가암검진 HPV 검사 전환 공론화 나서&nbsp;&nbsp;메디칼업저버[김정호의 생명과 환경](11) 생리혈로 HPV를 검출한다&nbsp;&nbsp;주간경향",
-      "sources": [
-        {
-          "name": "데일리메디",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hZnNmUGxnYm9pcUdTLVVUS0I0SkZlZFJYU3dpQWxoU3ZnUGNCTy11YjlsR0pRM2NNSGpKUk11STNxMk9nbWhDeVFJTk1JbVJkbnduTUFGQUNwUTZib1FYQmhJMEpSTkpZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d95d8ba35e06",
-      "title": "스마트폰만 있으면 우울·불안 고위험군 조기 선별 가능해져",
-      "published": "2026-04-16T00:38:06+00:00",
-      "summary": "스마트폰만 있으면 우울·불안 고위험군 조기 선별 가능해져&nbsp;&nbsp;메디칼업저버\"당신은 지금 우울하시군요\"…스마트폰으로 알아낸다&nbsp;&nbsp;뉴시스우울증 고위험군, 이동 반경 좁고 집에 머무는 시간은 더 길다&nbsp;&nbsp;경향신문\"스마트폰 수집 정보로 우울·불안 고위험군 찾는다\"&nbsp;&nbsp;연합뉴스정신과 안 가고 우울증 판별 가능해지나… “스마트폰으로 조기 선별”&nbsp;&nbsp;헬스조선",
+      "id": "f3b9e42dc708",
+      "title": "[행사] 산부인과학회, 국가암검진 HPV 검사 전환 공론화 나서",
+      "published": "2026-04-16T02:19:36+00:00",
+      "summary": "[행사] 산부인과학회, 국가암검진 HPV 검사 전환 공론화 나서&nbsp;&nbsp;메디칼업저버질 분비물 양과 냄새 달라졌다면, 자궁경부 질환 검진이 필요한 시점&nbsp;&nbsp;네이트산부인과학회 “HPV 검사, 국가검진 포함”&nbsp;&nbsp;데일리메디생리불순 방치했다가… ‘자궁암 3기’ 英 여성의 경고&nbsp;&nbsp;헬스조선[김정호의 생명과 환경](11) 생리혈로 HPV를 검출한다&nbsp;&nbsp;주간경향",
       "sources": [
         {
           "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCTXZFRy0yb1VobkNsaGp4WV82aUc3UHA4N3o0eXFFSmxBRDJfdWJ0N0JRWExtYjlWOGV2SkdGYW80N1hiT3ZvZVNwN2cwLWZNSHM4cnIya0lvRGU1Z1RuSjY4ZzV0VnZNZ21N?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GODdwWVRyOU9ZTkJvYXltZTJvQUZZa0FuemI5OWVTdkZUN1FIWGE0THpIOGxuT0t2a1J3anN1N3NJM0kyUnNzVE11UEp3TEQyUllVUXgzM3hsd3JwYThUdy1QcXY3NEpSSXhN?oc=5"
         }
       ],
       "matched_keywords": []
@@ -264,19 +303,6 @@
       "matched_keywords": []
     },
     {
-      "id": "659988ffd0af",
-      "title": "\"건강 아무리 챙겨도 팔자 못 이기나요?\"…수명, 절반은 유전자가 결정",
-      "published": "2026-04-16T00:20:00+00:00",
-      "summary": "\"건강 아무리 챙겨도 팔자 못 이기나요?\"…수명, 절반은 유전자가 결정&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tMW4wdnJCZkFpZDdFX2I1X1Vpb3pnWnlTc2x6enZ3WWRmOV83Mm03cGdvNkFVZnJQdjV2RVJsTkhsVlVfaHlSSkZOVk9sZVU4aHRF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e35244a0dcb3",
       "title": "[100세 과학] ‘캡틴 백혈병’의 방패 찾았다…암 치료에 새 길 - 조선비즈",
       "published": "2026-04-15T22:59:00+00:00",
@@ -290,40 +316,14 @@
       "matched_keywords": []
     },
     {
-      "id": "386374bb0d1d",
-      "title": "“고혈압 약 매일 먹는 대신 6개월에 1번 주사”…치료 판도 바뀌나",
-      "published": "2026-04-15T22:52:09+00:00",
-      "summary": "“고혈압 약 매일 먹는 대신 6개월에 1번 주사”…치료 판도 바뀌나&nbsp;&nbsp;v.daum.net",
+      "id": "a02d0f4e67fe",
+      "title": "\"고혈압 약 매일 먹는 대신 6개월에 1번 주사\"…치료 판도 바뀌나",
+      "published": "2026-04-15T22:51:00+00:00",
+      "summary": "\"고혈압 약 매일 먹는 대신 6개월에 1번 주사\"…치료 판도 바뀌나&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5weWVDWWRxS29RQ0dhNUFHQVZrS3hyYW03RUdrd2RYTDFuY0dGaVUyRXh6X0JzeHV3NFlwUGF4WFBNVTZWWXNjMXMwXzNobDA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3b2edb7fa20f",
-      "title": "‘황제주’에서 급전직하 삼천당제약… 천당과 지옥 오간 개미들",
-      "published": "2026-04-15T22:00:01+00:00",
-      "summary": "‘황제주’에서 급전직하 삼천당제약… 천당과 지옥 오간 개미들&nbsp;&nbsp;주간동아",
-      "sources": [
-        {
-          "name": "주간동아",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NWFpmRzdJRFJWMTBvTlNRd1pnVUVkYndfM3R0R1FzZFNyZVhVdE5SLWRSNXAzdnJBNGh4VzBERjBMRnI5WG1QNnhqTmFjZGJaR19BZWtGZVA3ZzdzTU5NbmlabEN5V080?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "80ef3879d8d2",
-      "title": "대변 샘플 하나로 대장암 90% 검출――대장내시경이 필요 없어질 수도 있다 - Martin Cid Magazine",
-      "published": "2026-04-15T09:56:10+00:00",
-      "summary": "대변 샘플 하나로 대장암 90% 검출――대장내시경이 필요 없어질 수도 있다&nbsp;&nbsp;Martin Cid Magazine",
-      "sources": [
-        {
-          "name": "Martin Cid Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQYVl6VXFaTmFqVXctWmNqZFZrZE5VTGprN1VuWkNFU29mU09mVVRtbmUtRUZFelF3UlJIYTYtbFdkbnlKMzhzSF9RZGFCc3hPX01Wa2wzdUREaVVFcm41LWk2SlFad1EzMFdxMUdLUWx0TlJ2TDRIcHp1QlhranRyV2Nzdll0NWs2ampfUmhjRlh4OHp3blpQdF9menpzbzEyT2luM3AxanJvV2RBTWFaUVVEdG5wRkFtUVVuX2J2MG5Fb3pzUi13RWZibG0zNHR2TlcwUUhFR2xFbWo4c2FpVTJVX2dmakc5WXJ0MDlsSjl4U3ZpWFRGYXZRUWtFbHJYTTA4NXZ5cUIxZWJEZjVDX0g4bUdSemNHcDM4Y2xweVlDbFdYME95eHZDSVVYU1JDSFY1cU1ycW50Y2lHY1N6QW9Pb2xTaE1kTnRmZWRCcWVPdnBx?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03d216dFdJZ2pMWHJtS19jWENJUEp4Z2p1TUd3SE4tdk8wbmtVcGp6cUg0ZUo3UEJ4dTlST0JkZUxUNFdZSjJXRVptVjAwcF9oUVI4?oc=5"
         }
       ],
       "matched_keywords": []
@@ -355,14 +355,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d605fcb358a3",
-      "title": "치료용 대마 괜찮을까…\"뇌 영향 연구 부족해 단정 어렵다\"",
-      "published": "2026-04-15T08:45:00+00:00",
-      "summary": "치료용 대마 괜찮을까…\"뇌 영향 연구 부족해 단정 어렵다\"&nbsp;&nbsp;동아사이언스",
+      "id": "2255002d5166",
+      "title": "\"스마트폰이 우울증 위험 신호 잡는다\"…고려대·ETRI 기술 개발",
+      "published": "2026-04-15T08:17:55+00:00",
+      "summary": "\"스마트폰이 우울증 위험 신호 잡는다\"…고려대·ETRI 기술 개발&nbsp;&nbsp;서울경제TV\"당신은 지금 우울하시군요\"…스마트폰으로 알아낸다&nbsp;&nbsp;뉴시스우울증 고위험군, 이동 반경 좁고 집에 머무는 시간은 더 길다&nbsp;&nbsp;경향신문\"스마트폰 수집 정보로 우울·불안 고위험군 찾는다\"&nbsp;&nbsp;연합뉴스정신과 안 가고 우울증 판별 가능해지나… “스마트폰으로 조기 선별”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTUZoREdGbHJ4a0NVdVltd3BuRWpGQ29XaUtuZHQ1MW1tNlEzMF9ub3ZUSFVTLUNZQURUNVRQd2FMeHppbm4zRDZPaVBQVnhmZXMzUg?oc=5"
+          "name": "서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbWowQmc2R0pIaU9mb2tBZzVUZDF6VWtlaktMNlJPR0dQdUM4TldyM1ZMcUN4MTlSTURXdGk3cF9VV0pYeGU3bnUzY293RGY0dGQ5dFhsb3F0UlZaT0RBSDAwS1k?oc=5"
         }
       ],
       "matched_keywords": []
@@ -376,32 +376,6 @@
         {
           "name": "복지TV부울경방송",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aX3ZXajRyUE02bHdvdUJvTDU1RlRfQW54eVJEVWVzS3NOY2lnMXJ5TDFzeEpQZlhVRHgtZVY4Ym1NRG5LMG1hd1liOWtyTlVwdlp3anJWcERLdEdMdDFnc2I5RUF2TjI4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5c06d2de68da",
-      "title": "비싸도 건강 위해 ‘이런 곡물’ 샀는데… “중요한 것 놓쳤다” 뭘까?",
-      "published": "2026-04-15T07:09:00+00:00",
-      "summary": "비싸도 건강 위해 ‘이런 곡물’ 샀는데… “중요한 것 놓쳤다” 뭘까?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9PM3ZxYjVNczNuSmpSNVQ5UUpiTHZHTXNweHdGVGpOam93Vk5NYmJjM3J4R2U2SGNNcWRXMEpnWWxxdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3a2ba5aade7f",
-      "title": "디지털 광학 패권 전쟁과 의료 주권 확보를 위한 국가적 로드맵",
-      "published": "2026-04-15T05:45:00+00:00",
-      "summary": "디지털 광학 패권 전쟁과 의료 주권 확보를 위한 국가적 로드맵&nbsp;&nbsp;브레이크뉴스40·50대 암사망률 1위 간암, ‘간염-간경화-간암’ 고리 끊어야&nbsp;&nbsp;에너지경제신문간 수치가 정상이면 괜찮을까? 간암은 이 검사로 찾아야 합니다 - [나는의사다 시즌5 47회]&nbsp;&nbsp;청년의사",
-      "sources": [
-        {
-          "name": "브레이크뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WeG56WURBQkZzT2Utbzg0WXVIdkVHc0syck93dlRkMEJtRm9rV3dsM3dxQjNza216a1lZS0lVTm9Fako3WWhGSQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -498,32 +472,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7f397723d168",
-      "title": "국립암센터, 백혈병 성장 비밀 규명",
-      "published": "2026-04-14T15:04:00+00:00",
-      "summary": "국립암센터, 백혈병 성장 비밀 규명&nbsp;&nbsp;헬스포커스뉴스백혈병 성장 비밀 규명&nbsp;&nbsp;BRIC백혈병 암세포 증식 돕는 ‘SON 단백질’ 역할 규명&nbsp;&nbsp;v.daum.net\"백혈병세포가 지방 합성 촉진해 성장하는 원리 규명\"&nbsp;&nbsp;연합뉴스\"소아에 흔한 '급성 림프구성 백혈병' 성장 비밀 규명\"&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "헬스포커스뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3NzBVQ3EyME41RG1iY2s4clRUcEJEcExiUkJmSnRiX29EdURoTmJ6d1FhQ1FvMGJMR3RMUnBaRUU5N2R3YzR4T3Q0Vl8zdnBJb05BcVk2NTJGaU9ZYWhnUUdPQldaTGl5Z3M1eHdzdFFPQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f4e24092f2ab",
-      "title": "새로운 도전, 퀘스트를 하나씩 깨는 마음으로 | 뉴스룸 칼럼 | 피플 - 서울아산병원 뉴스룸",
-      "published": "2026-04-14T15:02:50+00:00",
-      "summary": "새로운 도전, 퀘스트를 하나씩 깨는 마음으로 | 뉴스룸 칼럼 | 피플&nbsp;&nbsp;서울아산병원 뉴스룸",
-      "sources": [
-        {
-          "name": "서울아산병원 뉴스룸",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vTENKM3dWaU1oTVpVbXlKZ0c3UWxWZmVjRG9neVNhdC1nN2FENkUwOXVlak5VZlhITTJrWV9mWmpmRjE1VmttcDRlVl9TUjQ1RjMyVHpiSklhdzBYLVZMR1B1QWIwSmM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "90ccbe64b92a",
       "title": "‘그린 암모니아’의 귀환 [강석기의 과학풍경]",
       "published": "2026-04-14T10:13:00+00:00",
@@ -532,32 +480,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oMWFSWG9jMmxlWkZRZGtFNlZlN1RPdU1OQzVLaTJ2MWNwNkYwQ1M0VGVqX3Rpa3hvSE82VFhpYUdCM3AwOUlUazNnSE5JcVdZVkt4WENuaHRyejI3ZEpmeVpHZS1MUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8edb2c3c0250",
-      "title": "이름만 '알부민'...효과는 달걀 흰자 정도",
-      "published": "2026-04-13T16:54:00+00:00",
-      "summary": "이름만 '알부민'...효과는 달걀 흰자 정도&nbsp;&nbsp;YTN",
-      "sources": [
-        {
-          "name": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GZU1fbmFYOFFsdmVPTkM3TkZTMHNWV2RJeWRpYlJXU3plSjlsU2lydHI4bjkyeHB3MGVDWW1IRlhFMkVfTVUxYU9yTC1ibC1lQ3JaeElNZ1pQNW92c1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "68df5ee87056",
-      "title": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목",
-      "published": "2026-04-13T15:05:23+00:00",
-      "summary": "형제 줄기세포 이식 후 5년째 HIV 무검출…‘완치 가능성’ 주목&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHZBQUJEeThHZzFaWEhEZG5QeHlBcGNYWU9SNmFDZnN3QjFELUY3UnJ1WDNUcVlOejlxTm93WGlSMnRHcDVUSnNGSldoTHpld2l6U3RXYWpjM0Y5VFdpT1M3STZRWExHOEpZdXk4TWxMZ3pGVTdjSFBrT0tkUEVhT0Uzdw?oc=5"
         }
       ],
       "matched_keywords": []
