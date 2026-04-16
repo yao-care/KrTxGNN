@@ -1,19 +1,163 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-15T19:22:48.094474+00:00",
+  "fetched_at": "2026-04-16T02:56:46.407058+00:00",
   "total_fetched": 92,
-  "unique_count": 92,
-  "health_related_count": 45,
+  "unique_count": 91,
+  "health_related_count": 43,
   "news": [
     {
-      "id": "3e5bded23587",
-      "title": "폐경 후 살찌면 유방암 위험 오른다 - 헬스조선",
-      "published": "2026-04-15T17:20:00+00:00",
-      "summary": "폐경 후 살찌면 유방암 위험 오른다&nbsp;&nbsp;헬스조선\"폐경 후 비만, 유방암 위험 20%↑…대사이상 동반시 40%↑\"&nbsp;&nbsp;연합뉴스\"폐경도 서러운데 유방암이라니\"…체중관리는 기본, 혈압·혈당도 잡아야&nbsp;&nbsp;데일리안[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;헤럴드경제폐경후 비만에 '이것' 동반…\"유방암 위험 40% 커진다\"&nbsp;&nbsp;뉴시스",
+      "id": "8af45a43d629",
+      "title": "폐경 후 비만·대사증후군, 유방암 발병 위험 최대 40% 높인다 - 하이닥",
+      "published": "2026-04-16T02:30:00+00:00",
+      "summary": "폐경 후 비만·대사증후군, 유방암 발병 위험 최대 40% 높인다&nbsp;&nbsp;하이닥\"폐경 후 비만, 유방암 위험 20%↑…대사이상 동반시 40%↑\"&nbsp;&nbsp;연합뉴스폐경 후 살찌면 유방암 위험 오른다&nbsp;&nbsp;헬스조선'유방암 걱정' 중년女, 체중만 관리하면 큰일나는 이유는?&nbsp;&nbsp;네이트[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GNXJHS2Itbnk2dEhqYV96WEM3N2FpazlCS3A5RkdNNDI1Y0RramFtZ0Rsd0NVdzlRU21DV2dmVGZ0MW82NDJ5MXNPUXVwNWtwSjRBdnlPNUlyUGVxd0tCTW8yX2MzZ1JIc2JFYl80cUpoRmYzaUE?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYWHJWbll5TzEtd2IzSkZaS1gweXVBUXRtc3djTnBCLTh5ZXZSVnZ5ODlndmNuSVRTNzJWMEc1QmpLV2l6NmdnU25hZW1wVlIycGNwZ3NwWjZzNGkwMUJqQ25rUjF4MXdIb1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9acbdbf2e7b1",
+      "title": "5월부터 12세 남자 청소년도 HPV 백신 무료접종 시작 - 메디포뉴스",
+      "published": "2026-04-16T02:23:14+00:00",
+      "summary": "5월부터 12세 남자 청소년도 HPV 백신 무료접종 시작&nbsp;&nbsp;메디포뉴스\"이제 남학생도 무료\" 5월부터 12세 남성 청소년 HPV 백신 국가접종&nbsp;&nbsp;v.daum.net5월부터 남성 청소년도 HPV백신 무료접종…2014년생부터 적용&nbsp;&nbsp;한겨레12세 男청소년도 ‘가다실’ 무료로 맞는다…정부, 국가예방접종 확대 - 조선비즈&nbsp;&nbsp;Chosunbiz여전히 비싼데 예산 삭감…역주행하는 부산시 HPV 지원책&nbsp;&nbsp;노컷뉴스",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdFBuRThQdkZ0TzlwOXMySlU3RTVRSkxxWXFRMzhCZ2l0SU9RN1FFUG9TaGFobDBzNHZKd3BqM2xZXzhNemdWRGxEWndybWtPandKU2Z4WWpvUU9KT3NvREVaV1g?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3b9e42dc708",
+      "title": "[행사] 산부인과학회, 국가암검진 HPV 검사 전환 공론화 나서 - 메디칼업저버",
+      "published": "2026-04-16T02:19:36+00:00",
+      "summary": "[행사] 산부인과학회, 국가암검진 HPV 검사 전환 공론화 나서&nbsp;&nbsp;메디칼업저버질 분비물 양과 냄새 달라졌다면, 자궁경부 질환 검진이 필요한 시점&nbsp;&nbsp;네이트산부인과학회 “HPV 검사, 국가검진 포함”&nbsp;&nbsp;데일리메디생리불순 방치했다가… ‘자궁암 3기’ 英 여성의 경고&nbsp;&nbsp;헬스조선[김정호의 생명과 환경](11) 생리혈로 HPV를 검출한다&nbsp;&nbsp;주간경향",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GODdwWVRyOU9ZTkJvYXltZTJvQUZZa0FuemI5OWVTdkZUN1FIWGE0THpIOGxuT0t2a1J3anN1N3NJM0kyUnNzVE11UEp3TEQyUllVUXgzM3hsd3JwYThUdy1QcXY3NEpSSXhN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0643c9ea720f",
+      "title": "알츠하이머병 표지자, 전신 아밀로이드증과도 관련... - 후생신보",
+      "published": "2026-04-16T01:36:00+00:00",
+      "summary": "알츠하이머병 표지자, 전신 아밀로이드증과도 관련...&nbsp;&nbsp;후생신보\"혈액 한 방울로 알츠하이머 진단\" 초고감도 센서 개발&nbsp;&nbsp;뉴시스뇌 스캔보다 빠르다…피 한 방울로 알츠하이머 발병 수년 전 예측&nbsp;&nbsp;v.daum.net‘알츠하이머 조기 진단 가능해졌다’…경기대 하영근 교수팀, 초고감도 바이오센터 개발&nbsp;&nbsp;중부일보“당신 20년 뒤 치매 덮친다” 정확도 91% ‘피 한방울 검사’&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5MaDFBOEpjdTEwclNhc3Btb2ZWZ3ktOEJ3WmpSb0NXWVNETE5ackVjRmpYUEVrNmc1OW9KNVAwdUhES0kz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf850d800b87",
+      "title": "아침형·저녁형, 운동도 타이밍이다…“생체리듬만 맞춰도 효과가 달라” - 전자신문",
+      "published": "2026-04-16T01:22:19+00:00",
+      "summary": "아침형·저녁형, 운동도 타이밍이다…“생체리듬만 맞춰도 효과가 달라”&nbsp;&nbsp;전자신문Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mYmJ2REtnVHJGTWFGVnVZaGtPVmlyTGdudVJVRUIwY1pKN2c4Z1FsdGlDSlNxelo5VXJBZTVnS0hzel9OWkg4azRScw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "683f21616f28",
+      "title": "약물 없이 소리·빛 등으로 알츠하이머병 ‘치료 길’ 열어 - 백세시대",
+      "published": "2026-04-16T00:55:07+00:00",
+      "summary": "약물 없이 소리·빛 등으로 알츠하이머병 ‘치료 길’ 열어&nbsp;&nbsp;백세시대\"약없이 소리·빛으로 뇌기능 개선\"…치매치료제 나오나&nbsp;&nbsp;뉴시스소리·빛으로 알츠하이머 치료?…\"기억력 향상 확인\"&nbsp;&nbsp;v.daum.net하루 1시간 ‘소리’ 들었더니 치매 단백질 200% 배출…5주 효과 지속&nbsp;&nbsp;하이닥‘냉장고 소리’가 치매 늦춘다던데?!&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "백세시대",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96aXpqOFh1R3F3VkdzdFRuenUyMGt2MGxLQTVhSWNsTEJYOVZuVUZxRXRDd2IyREFSUkt5UDVOcUhVNXl3M1JsXzFXM0JEa2tOM3VNSDR6Y1RHUmR6cjNUanlYZzE5N3JYbU9R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d95d8ba35e06",
+      "title": "스마트폰만 있으면 우울·불안 고위험군 조기 선별 가능해져 - 메디칼업저버",
+      "published": "2026-04-16T00:38:06+00:00",
+      "summary": "스마트폰만 있으면 우울·불안 고위험군 조기 선별 가능해져&nbsp;&nbsp;메디칼업저버\"당신은 지금 우울하시군요\"…스마트폰으로 알아낸다&nbsp;&nbsp;뉴시스우울증 고위험군, 이동 반경 좁고 집에 머무는 시간은 더 길다&nbsp;&nbsp;경향신문\"스마트폰 수집 정보로 우울·불안 고위험군 찾는다\"&nbsp;&nbsp;연합뉴스정신과 안 가고 우울증 판별 가능해지나… “스마트폰으로 조기 선별”&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCTXZFRy0yb1VobkNsaGp4WV82aUc3UHA4N3o0eXFFSmxBRDJfdWJ0N0JRWExtYjlWOGV2SkdGYW80N1hiT3ZvZVNwN2cwLWZNSHM4cnIya0lvRGU1Z1RuSjY4ZzV0VnZNZ21N?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d61e43b1385",
+      "title": "뇌 기능 깨운다…치매 걱정된다면 ‘이 영양소’ - realfoods.co.kr",
+      "published": "2026-04-16T00:35:18+00:00",
+      "summary": "뇌 기능 깨운다…치매 걱정된다면 ‘이 영양소’&nbsp;&nbsp;realfoods.co.kr비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구&nbsp;&nbsp;하이닥'이 영양제' 먹어야 할 사람은…많이 먹으면 심장, 폐에 문제 생기는 경우는?&nbsp;&nbsp;네이트하버드 의사 “75세 미만 성인, 비타민 D 보충제 불필요”[노화설계]&nbsp;&nbsp;동아일보‘이 비타민’ 3개월 섭취하면…장내 환경 ‘리셋’된다?&nbsp;&nbsp;레이디경향",
+      "sources": [
+        {
+          "name": "realfoods.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wSFRYSUJCcm5yUnZfZTVOcUxTTGp2RThMb0RTVDcwYnA4WWNBdWJwTkc1bkFRclMxRG9GVlNzbG5mWG1kMEMzZ0x3RGRWdHJjMHhPcC1jRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "15fcba641ffa",
+      "title": "인간 수명, 유전자가 절반 결정한다… 기존 정설 뒤집은 연구 나와 - 매일경제",
+      "published": "2026-04-16T00:19:18+00:00",
+      "summary": "인간 수명, 유전자가 절반 결정한다… 기존 정설 뒤집은 연구 나와&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBETVpyMmpXbTZ6ZnNodDJvcmpoYnlOeFRSNC1Ob1U4MGdmYmEycURYdDJYM3FrREFfdTl5QlRfbERpZjl6eTZMMGt6c0NMUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94491142c7e4",
+      "title": "[건강체크] “갑자기 목소리가 변했다”…단순 감기 아닌 ‘후두 질환’ 신호일 수도 - 전국뉴스",
+      "published": "2026-04-15T23:50:00+00:00",
+      "summary": "[건강체크] “갑자기 목소리가 변했다”…단순 감기 아닌 ‘후두 질환’ 신호일 수도&nbsp;&nbsp;전국뉴스목소리도 '과로'한다…쉰 목소리 방치하면 수술까지 갈 수 있어&nbsp;&nbsp;매경헬스[칼럼] 일시적 목쉼으로 넘기기 쉬운 ‘성대폴립’, 2주 이상 지속되면 의심해야&nbsp;&nbsp;메드월드뉴스목소리 ‘이렇게’ 변했다면… 발성장애 의심해야&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "전국뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dHZWdzdlMW45RFF0ZnQzZVFHRXZvMGpsSk1TODFDNlBHRWxVelJqMmJPYnJQWExTR0l4QV9MMDlUYnd2a1hwVV9NZE4wZ1A5R0NvWEFqeUJlMEJDcVp4bWZVakRtb3lzbjFqT3NneEc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "386374bb0d1d",
+      "title": "“고혈압 약 매일 먹는 대신 6개월에 1번 주사”…치료 판도 바뀌나 - v.daum.net",
+      "published": "2026-04-15T22:52:09+00:00",
+      "summary": "“고혈압 약 매일 먹는 대신 6개월에 1번 주사”…치료 판도 바뀌나&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5weWVDWWRxS29RQ0dhNUFHQVZrS3hyYW03RUdrd2RYTDFuY0dGaVUyRXh6X0JzeHV3NFlwUGF4WFBNVTZWWXNjMXMwXzNobDA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "01aeee13ff16",
+      "title": "김수용, '급성 심근경색' 결정적 원인 이거였나…\"담배 없이 못 살아→치료 후 바로 끊어\" - v.daum.net",
+      "published": "2026-04-15T22:46:34+00:00",
+      "summary": "김수용, '급성 심근경색' 결정적 원인 이거였나…\"담배 없이 못 살아→치료 후 바로 끊어\"&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tZnZhdjAwczh0cGs0bFBaQjl1V3hCVlNfOHRoMHZoYkdHdURnV0VNb1lQM1FRXzM4MDh6SjRRNkxDX0NHbko0d3dBOUlMMzQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d62a65adace",
+      "title": "[100세 과학] ‘캡틴 백혈병’의 방패 찾았다…암 치료에 새 길 열려 - 조선비즈 - Chosunbiz",
+      "published": "2026-04-15T21:06:45+00:00",
+      "summary": "[100세 과학] ‘캡틴 백혈병’의 방패 찾았다…암 치료에 새 길 열려 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekxOU0VEUVJKZXl2dTlFTVMyWG43M0xGZmlJbm41d09nRkJHZm94QmpXS2RPeWlqX3haR3RVdENZZ2dJSVc2OHUtNnB4Z2lNaFVDbUZvSGxodDdKZXRpRmt1TDh5ZTA3WEFFU05WVUdJVGJyVkNoWTdEOE9RZVJqaU9QSUEwUVluLUgwalhaZWRpQS1XRXpZ0gGrAUFVX3lxTE1lS2NUUllIQ3hWRmNfX2trQ0tQRGN0RmlWcUJheFAzUkFlT29MeVRwaW40cTlHYy1RU3FMMHpCZllGNTFYcE45bU0yMmV0LTFQUzR6Qks5SDZRckcyWmxGQXFzTjliZkJlTk9BRVNrTXVoYTBUM0R3dmlEM3dzNjVEa0JBTUF5cFhGRTRFWmxLdUwxNlJtMWlwbUtaay12S2puaDhkTGk0ZzFWcw?oc=5"
         }
       ]
     },
@@ -42,26 +186,14 @@
       ]
     },
     {
-      "id": "c39a43b10ea2",
-      "title": "\"스마트폰 사용 정보만으로 우울·불안 고위험군 찾는다\" - 한국부동산뉴스",
-      "published": "2026-04-15T08:47:40+00:00",
-      "summary": "\"스마트폰 사용 정보만으로 우울·불안 고위험군 찾는다\"&nbsp;&nbsp;한국부동산뉴스Google 뉴스에서 전체 콘텐츠 보기",
+      "id": "d605fcb358a3",
+      "title": "치료용 대마 괜찮을까…\"뇌 영향 연구 부족해 단정 어렵다\" - 동아사이언스",
+      "published": "2026-04-15T08:45:00+00:00",
+      "summary": "치료용 대마 괜찮을까…\"뇌 영향 연구 부족해 단정 어렵다\"&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "한국부동산뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00RzJWWUstckk2SS1GT2JqSmhadzJqd2FjSFNIdTVkV2JvV0RsSGRRZHQ5WlNVRGZfOWg0TkF0dDZDa2FGRjJrU2Zzck1wNk9WM19vbnJQRGR3cmhveS1MdHI2clROZlQySEpV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c89424a8889",
-      "title": "“자궁경부암 퇴치 10년 앞당기자···국가암검진, HPV 검사 전환 필요” - 의사신문",
-      "published": "2026-04-15T07:38:24+00:00",
-      "summary": "“자궁경부암 퇴치 10년 앞당기자···국가암검진, HPV 검사 전환 필요”&nbsp;&nbsp;의사신문생리불순 방치했다가… ‘자궁암 3기’ 英 여성의 경고&nbsp;&nbsp;헬스조선질 분비물 양과 냄새 달라졌다면, 자궁경부 질환 검진이 필요한 시점&nbsp;&nbsp;네이트여성들은 자궁경부암 검진 비용을 기꺼이 지불할 의향이 있을까요?&nbsp;&nbsp;Vietnam.vn“자궁경부암 조기 퇴치 위해 머리 맞댄다”… 22일 국회 정책토론회 개최&nbsp;&nbsp;한국의약통신",
-      "sources": [
-        {
-          "name": "의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HZ0pzZlhqOXBkTFktcWdCQVkyMnp5cmFYSFpmY21UekxHZ0pwbFI4N2ozNkZ0SnNXZG9mZk1HWlJsOWNFSjNueEpnVjk2RjRqWG1fR0w2NjhRUnFkMl9uQ0xmVXMwc2IwcEd3MGFaNA?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTUZoREdGbHJ4a0NVdVltd3BuRWpGQ29XaUtuZHQ1MW1tNlEzMF9ub3ZUSFVTLUNZQURUNVRQd2FMeHppbm4zRDZPaVBQVnhmZXMzUg?oc=5"
         }
       ]
     },
@@ -69,7 +201,7 @@
       "id": "53b9656f0aaf",
       "title": "100세 시대 치매관리 - 복지TV부울경방송",
       "published": "2026-04-15T07:23:59+00:00",
-      "summary": "100세 시대 치매관리&nbsp;&nbsp;복지TV부울경방송“60대부터 바꿔도 늦지 않다”…식물성 식단, 치매 위험 낮춘다&nbsp;&nbsp;레이디경향식물성 식단도 '질'이 좌우…좋은 식단일수록 치매 위험 낮다&nbsp;&nbsp;네이트\"무조건 채식보다는 질이 중요\"… 치매 예방의 핵심&nbsp;&nbsp;한국의약통신건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과”&nbsp;&nbsp;하이닥",
+      "summary": "100세 시대 치매관리&nbsp;&nbsp;복지TV부울경방송“60대부터 바꿔도 늦지 않다”…식물성 식단, 치매 위험 낮춘다&nbsp;&nbsp;레이디경향\"무조건 채식보다는 질이 중요\"… 치매 예방의 핵심&nbsp;&nbsp;한국의약통신식물성 식단도 '질'이 좌우…좋은 식단일수록 치매 위험 낮다&nbsp;&nbsp;네이트건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과”&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "복지TV부울경방송",
@@ -90,6 +222,18 @@
       ]
     },
     {
+      "id": "19147983af36",
+      "title": "\"안마의자, 높은 베개는 피해야\"... 이석증 치료 후 올바른 관리법은? - 하이닥",
+      "published": "2026-04-15T07:00:00+00:00",
+      "summary": "\"안마의자, 높은 베개는 피해야\"... 이석증 치료 후 올바른 관리법은?&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8teFFpTWcyVjU3eGJnLU9JaGhxTENNamZGSGpYcUJILWl6MmJnMDU5VzhmWXl5dDFiYUxQRGpiTDFCRXFGaEFXZlhRY1RERGREYzV6S2FEWE1JNzV6MHFmOG9KVUQ2b1JxREE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3a2ba5aade7f",
       "title": "디지털 광학 패권 전쟁과 의료 주권 확보를 위한 국가적 로드맵 - 브레이크뉴스",
       "published": "2026-04-15T05:45:00+00:00",
@@ -98,30 +242,6 @@
         {
           "name": "브레이크뉴스",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WeG56WURBQkZzT2Utbzg0WXVIdkVHc0syck93dlRkMEJtRm9rV3dsM3dxQjNza216a1lZS0lVTm9Fako3WWhGSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16480a636fcb",
-      "title": "운동은 언제든 좋다?…아니, '시간' 맞춰야 효과 난다[건강팩트체크] - 네이트",
-      "published": "2026-04-15T05:37:00+00:00",
-      "summary": "운동은 언제든 좋다?…아니, '시간' 맞춰야 효과 난다[건강팩트체크]&nbsp;&nbsp;네이트운동은 언제든 좋다?… 아니, ‘시간’ 맞춰야 효과 난다[건강팩트체크]&nbsp;&nbsp;v.daum.net1시간 걷기 vs 3분 숨차게… 건강 효과, 뭐가 더 클까[건강팩트체크]&nbsp;&nbsp;동아일보이제 진짜 운동 시작한다, 몸은 언제부터 좋아질까?&nbsp;&nbsp;GQ Korea‘아침형·저녁형 인간’ 운동도 ‘생체 리듬’에 맞춰야 효과적…그 이유는&nbsp;&nbsp;dt.co.kr",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBScXI5Z1hiTmNEREhwRUx6NzBpeWhHSnJFN3hPcnpXRVFUa01WWWhHa3lWZlEtSUdIc2FHbTExMDB4WTZXeXVfUlNleHBxSlg0Undr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f38b25b31050",
-      "title": "알츠하이머, 발병 수년 전 ‘혈액 검사’로 예측… “뇌 검사보다 빨라” - 하이닥",
-      "published": "2026-04-15T05:30:00+00:00",
-      "summary": "알츠하이머, 발병 수년 전 ‘혈액 검사’로 예측… “뇌 검사보다 빨라”&nbsp;&nbsp;하이닥\"혈액 한 방울로 알츠하이머 진단\" 초고감도 센서 개발&nbsp;&nbsp;뉴시스뇌 스캔보다 빠르다…피 한 방울로 알츠하이머 발병 수년 전 예측&nbsp;&nbsp;v.daum.net‘알츠하이머 조기 진단 가능해졌다’…경기대 하영근 교수팀, 초고감도 바이오센터 개발&nbsp;&nbsp;중부일보“당신 20년 뒤 치매 덮친다” 정확도 91% ‘피 한방울 검사’&nbsp;&nbsp;미주중앙일보",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GMDNIT1hFSEFKRmFDS0I3b1NTbEkzM0tVOGdPRXd1anNyc1lMT0NPZ1lsZ3I5Sy1qYUtZekhzLXBIWDRYN0NSMkI4djQtVjluRGktMlo2ZThKUm15UWpNMzFvSVMweUhFR0E?oc=5"
         }
       ]
     },
@@ -138,18 +258,6 @@
       ]
     },
     {
-      "id": "74510eece3f2",
-      "title": "‘이 영양제’ 먹어야 할 사람은…많이 먹으면 심장, 폐에 문제 생기는 경우는? - 코메디닷컴",
-      "published": "2026-04-15T05:01:00+00:00",
-      "summary": "‘이 영양제’ 먹어야 할 사람은…많이 먹으면 심장, 폐에 문제 생기는 경우는?&nbsp;&nbsp;코메디닷컴비타민 D 높은 30대, 치매 유발 단백질 덜 쌓여…16년 추적 연구&nbsp;&nbsp;하이닥‘이 비타민’ 3개월 섭취하면…장내 환경 ‘리셋’된다?&nbsp;&nbsp;레이디경향하버드 의사 “75세 미만 성인, 비타민 D 보충제 불필요”[노화설계]&nbsp;&nbsp;동아일보'이 영양제' 먹어야 할 사람은…많이 먹으면 심장, 폐에 문제 생기는 경우는?&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwQUxmU3R4R0xoZWFsZk50TGtBZ2xwSXZvVWc1Z3ZqWDBHY2FXU2g2NERMcHZXX2MzeGZCalJhcjAxdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "768dbf8ed9f7",
       "title": "코끼리가 암에 걸리지 않는 이유 - 독서신문",
       "published": "2026-04-15T05:00:00+00:00",
@@ -158,6 +266,18 @@
         {
           "name": "독서신문",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nRnNMMV9VSnB3Ulp6ZElScU56ZUstNl9LalZydEZGZzNKZWhpdUlabTE4YUljSWVEcno5T09DVWc5X1oweGQycWZIMTJsbW5FaTNGOHRHVGlQWmYyYi1Lc0hKMVFGb2ZWa29Fb1VwSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b219275d607",
+      "title": "매일 먹기 좋은 ‘가성비’ 건강 식품 7가지… 뭘까? - 헬스조선",
+      "published": "2026-04-15T02:50:00+00:00",
+      "summary": "매일 먹기 좋은 ‘가성비’ 건강 식품 7가지… 뭘까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NYWlUYmxzZURrUk15SVh2WWpkZHYzX25hT3dMU2JlN2hCZjdqaUktcTJSaHExLWNtR0tMQzZwMWp3elBfOE5xU1ZEZFJ0ZlBoUW1YaVFyTzM3YzdqU1MzMk4xbUQ2YU9HVnNCOXNOMzAtTXNlbkE?oc=5"
         }
       ]
     },
@@ -174,18 +294,6 @@
       ]
     },
     {
-      "id": "be068a900ef1",
-      "title": "하루 1시간 ‘소리’ 들었더니 치매 단백질 200% 배출…5주 효과 지속 - 하이닥",
-      "published": "2026-04-15T02:30:00+00:00",
-      "summary": "하루 1시간 ‘소리’ 들었더니 치매 단백질 200% 배출…5주 효과 지속&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IU1RQRVROTHZTMWtLd3ZuMlNNMlR5MlB3Rk40LXYxQmttalJBckJ4c1ZMczh3NmVjWFp4OGR5TDhpeFp2U0tLSXZwSE1aa3djMXpJQXc5N1R5NVZGT1lXcTdjOUlkWHp1d1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ce85098e70e1",
       "title": "IQ 올리는 방법, 딱 '하나' 있다…예상 뒤집은 연구 결과[건강팩트체크] - 네이트",
       "published": "2026-04-15T02:27:00+00:00",
@@ -194,6 +302,18 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Zl8yQTMwa2ppb3ZYeWdSdlA5QUZ0cWZxZF9ReDJ1YzRVd2h5a2tuWkYwUjRtalNldUhvbm9NeHYtSnl5QThaX2pSWWxYMFAyWjJj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad86f2d8a520",
+      "title": "강남세브란스병원 송경철 교수, '소아청소년 비만 가족 혁명' 출간 - 헬스이슈앤뉴스",
+      "published": "2026-04-15T02:23:43+00:00",
+      "summary": "강남세브란스병원 송경철 교수, '소아청소년 비만 가족 혁명' 출간&nbsp;&nbsp;헬스이슈앤뉴스“성장기 살이 키로 간다는 오해, 아이 미래 망칠 수 있어”&nbsp;&nbsp;헬스조선청소년 비만, 성인병 된다…\"위고비로 조기치료 해볼까\"&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "헬스이슈앤뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vS1AzZ2xOYU4tT0UxZy14cjN4YVZfbWNpbC1XdEYxaXdmSmZSamwwMTdUUnpKMXNXYl9TWEpDcFNiNUJaZnBvUjNqVUh5S0hib2I0ZktZRWZPaHFFN2U0dTkxb0N2UkJ4?oc=5"
         }
       ]
     },
@@ -366,18 +486,6 @@
       ]
     },
     {
-      "id": "6f383b58aa27",
-      "title": "국가판 ‘항암설명서’ 공개! 절반 내용 먹는 것과 관련돼--건강 - 인민넷",
-      "published": "2026-04-14T04:34:00+00:00",
-      "summary": "국가판 ‘항암설명서’ 공개! 절반 내용 먹는 것과 관련돼--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxVmRleXFQUmpycG1PV0M3Q2NldE9mMlAwcVBPNTAyWjgtN0IzR1FXa2hPQXU0cnhUZ0d6ZWJYTWk3MFlyWVlPR2tQcDVPVDZFNzZBTFdyY05VUU5tNlJVWkkyVWRMSmxrR1ptdTBR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f801008091a0",
       "title": "비타민 B 섭취, 뇌졸중 위험 최대 50% 낮춰… 22만 명 분석 결과 - 하이닥",
       "published": "2026-04-14T04:00:00+00:00",
@@ -386,114 +494,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6ZFBvZlpBYkxhbzcxcmZJdmhjX0FfVUY1Q0tFczJ5dVlTWWhSdlc1MzRZNk5hdG5sdWlpYm8xYVp3NFh6Z0JHSFNHR3RqdmxQQUZ3YXVzSTU3dERIY1RrdU9QUUNnNkhGaEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "14b275746c8b",
-      "title": "‘사과 매일 한 개’가 사람마다 효과 다른 이유 - 헬스조선",
-      "published": "2026-04-14T01:19:00+00:00",
-      "summary": "‘사과 매일 한 개’가 사람마다 효과 다른 이유&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oT3doQ2hkcVA4MkQycnZiSThDczVla3BLb2RrQW5semZuMVR5T3haaTlWaWhFMHA0ZjE0SUNtMjZVRnBXWi00ejNjU3czS0NEU1FoLTdVNmx5LUxUR2g3R3AwTk9FN2liMEh1Z2MxcGJnQTVFdUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9672b84e03ce",
-      "title": "하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다 - 헬스조선",
-      "published": "2026-04-14T00:20:00+00:00",
-      "summary": "하루에 ‘이만큼’ 더 걸으면, 비만·당뇨병·고혈압 막는다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvR3dPUWhQdnNXemwyMldIbmRqd2FuOWdGWXk5bmdTVmc0bllTYXZyckZDVHRNa19oUVRiVmo0dDNtLVM5MjBxS3JTcmtPQ3FjNzF1djBhUlM5TWtsX0UyYU1xSUJEdDZFZkZhX0p1Ykd5cmdNNHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9494f3248d3b",
-      "title": "지니너스, ‘AACR’서 종양미세환경(TME) 연구 결과 포스터 발표 - 팍스경제TV",
-      "published": "2026-04-14T00:17:40+00:00",
-      "summary": "지니너스, ‘AACR’서 종양미세환경(TME) 연구 결과 포스터 발표&nbsp;&nbsp;팍스경제TV“데이터 회사 아니다”…지니너스, 신약 타깃 팔아 1조 딜 노린다&nbsp;&nbsp;팜이데일리지니너스, +13.07% VI 발동 - 조선비즈&nbsp;&nbsp;Chosunbiz지니너스, 'AACR'에서 대장암 미세환경 규명… 글로벌 제약사와 협력 확대 - 머니투데이&nbsp;&nbsp;mt.co.kr[장중수급포착] 지니너스, 외국인/기관 동시 순매수… 주가 +29.86%&nbsp;&nbsp;뉴스핌",
-      "sources": [
-        {
-          "name": "팍스경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yN2VUSWVQQWdIRnV4TDE1QWNPYk5Va1A4WWREVUtGYzlybzRQOUVvMnhLQjFnUlpxMEc5TS1lUWlITExtYWxRYURtV1Vvdjl5UkttWUVWSGlJaW92VHE2U1Fhc3R1YUFW?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16a68f4c8c0e",
-      "title": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인 - 팍스경제TV",
-      "published": "2026-04-13T23:57:36+00:00",
-      "summary": "가톨릭대학교 은평성모병원, 편측 난청도 알츠하이머병 위험률 1.48배 증가 확인&nbsp;&nbsp;팍스경제TV한쪽 귀 청력 떨어져도 치매 위험 50% 높아져&nbsp;&nbsp;v.daum.net“주사 한 번에…귀 안 들리던 아이가 대화했다”…유전자 치료, 어디까지 왔나&nbsp;&nbsp;동아일보한쪽 귀만 잘 안들려도…\"알츠하이머 위험 1.49배 증가\"&nbsp;&nbsp;뉴시스“한쪽 귀만 잘 안 들려도 위험”…알츠하이머 위험 1.49배 [건강한겨레]&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "팍스경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oWjY1Ym9mWmtDVHJvTDBYZ1BKaF8wZzNHTTNPcnRhckJhNi1xMUdIV3c4WXg1bldORXp2Y0duaEw0djJnVnkzRldKdDRjaUFQWHljcUNGR3FUbEc3dHFGU1c3MFRYX1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "80b4781311a6",
-      "title": "비만이면 백신 반응 '뚝'…폐 면역세포가 빈자리 채운다 - 동아사이언스",
-      "published": "2026-04-13T23:24:00+00:00",
-      "summary": "비만이면 백신 반응 '뚝'…폐 면역세포가 빈자리 채운다&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sR01HU1U2ZEpqOWV1Z0IyQm0zLUwyY3c5bEFDNjNZSVFnR0dwNTZWMWdXd01xMFYyaExfdGFCTzVQa3dOazU0bG5XTDlfXzB0R19JVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d2c3eccb451",
-      "title": "TSH 정상화 이후 남는 증상, 갑상선기능저하증 병용요법의 가능성 - 메디칼업저버",
-      "published": "2026-04-13T23:17:40+00:00",
-      "summary": "TSH 정상화 이후 남는 증상, 갑상선기능저하증 병용요법의 가능성&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6WUdKRjhCaVFmb2NfYnFGRnRvcFFtdzM1ck4zemVpbGZNblhSNlVGV0JWOVpsUkFPS1UzZEVxaFI0aDN3WjA2UXJNUEF6cFdVcS1YWkFUNEhtaVdfRFZsVUdiQU02UHc2SzVz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "469deb00017a",
-      "title": "벨기에 원전 복귀, 혁신 핵의학 치료제 개발…한국 의료안보 현실은? - 에너지안전신문",
-      "published": "2026-04-13T22:52:22+00:00",
-      "summary": "벨기에 원전 복귀, 혁신 핵의학 치료제 개발…한국 의료안보 현실은?&nbsp;&nbsp;에너지안전신문",
-      "sources": [
-        {
-          "name": "에너지안전신문",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CS2tBWWhmSERQcm8xTjhGeHhrak5vakRDTkhfUjltSjFPWjJPdlFFS0Z3Tmt0T05GUXNzUmtVbTR2bktuR2k4LV9Nd0k2QmFwSkJMSlRlSjVzLVBQRlVhU280YjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7066a4cbeb56",
-      "title": "독감 백신, 고령층 건강 ‘치트키’ 부상…심혈관·치매↓ - 한스경제",
-      "published": "2026-04-13T21:00:00+00:00",
-      "summary": "독감 백신, 고령층 건강 ‘치트키’ 부상…심혈관·치매↓&nbsp;&nbsp;한스경제초고령사회 코앞인데…고령층 독감 예방은 여전히 ‘표준’에 멈췄다&nbsp;&nbsp;v.daum.net독감 백신 고용량 맞으면 알츠하이머 위험 절반 넘게 뚝…연구&nbsp;&nbsp;네이트“이 백신, 감염돼도 효과 있다”… 뇌졸중 위험 절반으로 ‘뚝’&nbsp;&nbsp;코메디닷컴독감 예방접종, 치매 위험 최대 40%↓… 호흡기 넘어 뇌 보호 효과&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "한스경제",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsOWlJLWE3eEZ6WF9acURvSmhaS3JqQjRNMGFwdHZzN002eUFVWkhfZURvNDk0eE5jS2JzdGVZcnp6MW1yTTJKWDdjbEt0TWRvY1A3OWtnNC1pQjNHejc2OEI1TGd3Vk42Qmcw0gFvQVVfeXFMUG95T3JLTU9kSWZTb0NoQWljYkw4NE0tUzMwTTl0WXU1MU4tNnNfRUFUdlZ6UXEzQ29BajUxRFVBUHNLTUN2eXZRSEFmNGZkXzFoSmdOMWZVbkl3ZHU3RzNXSVJGcTc5NThQY2ppMHZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f45e0b87fcf",
-      "title": "“혈당 조절해준다”는 땅콩버터, 이미 당뇨병 생긴 이들에게도 좋을까? - 헬스조선",
-      "published": "2026-04-13T20:40:00+00:00",
-      "summary": "“혈당 조절해준다”는 땅콩버터, 이미 당뇨병 생긴 이들에게도 좋을까?&nbsp;&nbsp;헬스조선“지방 50% 넘는데 살이 안 찐다고?”…땅콩버터, 혈당 속도부터 달라졌다&nbsp;&nbsp;v.daum.net'매일 한 숟갈' 혈당 급등 막고 포만감 유지…당뇨 환자가 직접 효과 본 '이 음식'은?&nbsp;&nbsp;전자신문\"하루에 한 스푼 먹었을 뿐인데\"…땅콩버터, 급격한 혈당 상승 막아줘&nbsp;&nbsp;뉴시스“하루 한 스푼 먹었을 뿐인데”…땅콩버터, 급격한 혈당 상승 막는 이유&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lMTJyMHczWGx3cTcxRTBhSk1mQkJNcTIzN0tyVWRBdHg2MF9tdER6NmNrNkxsZDVnbldQc2ItUTY2eE1mQkkzanN0blFFaXdaaFdfQ2R0SDVTekVtSUFNNGRhY0FJMVA4czZtclBDUi1BeTdPaGc?oc=5"
         }
       ]
     },
@@ -518,30 +518,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVHZBQUJEeThHZzFaWEhEZG5QeHlBcGNYWU9SNmFDZnN3QjFELUY3UnJ1WDNUcVlOejlxTm93WGlSMnRHcDVUSnNGSldoTHpld2l6U3RXYWpjM0Y5VFdpT1M3STZRWExHOEpZdXk4TWxMZ3pGVTdjSFBrT0tkUEVhT0Uzdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "71524d8e8a41",
-      "title": "\"중동 가스 대체재 나왔다\"…바닷물로 가스 뽑는 연금술 개발한 서울대 - 한국경제",
-      "published": "2026-04-13T01:29:10+00:00",
-      "summary": "\"중동 가스 대체재 나왔다\"…바닷물로 가스 뽑는 연금술 개발한 서울대&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KYXdrUzJFbm5yaW9jM2otbENOSXpfX1dQLXJ1TmZOX3VjZjdtaDNwUkR2Tjh5OU5kODNUVXZPSnNFUzgtS1VHT2w2dFVYZ2NiVnZyTXE3V21ZQdIBVEFVX3lxTFA5QnhNTTJBZHczbFg3ZHhGdWkxbmpTSTQ0VnZHRWVLYTVmV2p6TUsxOWd4ZGRqSFRfMk5ldkcxSjRXT2ZPSWpPZ1RuZHRQUi1URVZSMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb8fce757a09",
-      "title": "한미약품, '삼중작용제' 비만 美2상 \"환자모집 완료\" - 바이오스펙테이터",
-      "published": "2026-04-12T23:56:00+00:00",
-      "summary": "한미약품, '삼중작용제' 비만 美2상 \"환자모집 완료\"&nbsp;&nbsp;바이오스펙테이터",
-      "sources": [
-        {
-          "name": "바이오스펙테이터",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBsSmhGd0pCUlc2NUVid0dLYXdjZHpzdTN5S29SalBvX3BLZXBmaU5JbjlXWEt0MGtYWHNoUVMyQjlERk1TT0NQSGhmcWlsWTBHeVRFckpKUQ?oc=5"
         }
       ]
     }
