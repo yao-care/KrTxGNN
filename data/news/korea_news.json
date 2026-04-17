@@ -1,10 +1,130 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-16T19:21:35.985741+00:00",
-  "total_fetched": 71,
-  "unique_count": 70,
-  "health_related_count": 37,
+  "fetched_at": "2026-04-17T02:52:40.338958+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "a1e2190a9833",
+      "title": "자궁경부암 'DNA 검사'로 전환될까…국회서 도입 방안 모색 - 청년의사",
+      "published": "2026-04-17T01:40:52+00:00",
+      "summary": "자궁경부암 'DNA 검사'로 전환될까…국회서 도입 방안 모색&nbsp;&nbsp;청년의사“자궁경부암 퇴치 10년 앞당기자···국가암검진, HPV 검사 전환 필요”&nbsp;&nbsp;의사신문질 분비물 양과 냄새 달라졌다면, 자궁경부 질환 검진이 필요한 시점&nbsp;&nbsp;메디컬투데이생리불순 방치했다가… ‘자궁암 3기’ 英 여성의 경고&nbsp;&nbsp;헬스조선여성들은 자궁경부암 검진 비용을 기꺼이 지불할 의향이 있을까요?&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "청년의사",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWWdtS3dvazF4c1Vrd2VnM24yS2otaklYVnBsenI2WVRHY1ZNR3ZmYkJKSEFrclJ0MzF0Wk4zU2lVaWRTekpxLWo2eDMtbldLaks0Qk9lV2trX0VtQXVFNks1dnhEMHNtbkR2c0JHSTjSAXNBVV95cUxPTFdsQUVZUzh6bloyX1l1bXJHTjNvWTZ6TjhjZUItdmgzcDE2MVVGUHRaVFl2bVhMMEg5Y3RvaWhZWlFjZlVoNkYwSHhWUXI0NmJubVhtNGs3MzdZdHFrN0IzQ20zR0Y1elY1V2Y0cEFuQzZj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40d3938da850",
+      "title": "통영시, 남학생도 사람유두종바이러스(HPV) 백신 무료 접종 하세요 - 한산신문",
+      "published": "2026-04-17T01:30:45+00:00",
+      "summary": "통영시, 남학생도 사람유두종바이러스(HPV) 백신 무료 접종 하세요&nbsp;&nbsp;한산신문\"12살 남학생도 무료로\"...청소년, HPV 무료접종&nbsp;&nbsp;YTN 사이언스12세 남학생도 HPV 백신 무료 접종… 국가예방접종 확대&nbsp;&nbsp;헬스조선통영시 \"12세 남성 청소년, HPV 백신 무료접종 하세요\"&nbsp;&nbsp;뉴시스‘여성용 백신’ 꼬리표 뗐다…HPV ‘9가’ 전환은 언제?&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "한산신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TY1B5SmF5WVJneTBLcjFWZ0dWRGplTnJHQ3A4cm5sY2c0NHZkb3oxUHlEcWR6cVhZa1p4ZEk3cDQwRlBvZVp1S1l1bC1QMl9EYzFTV2R0MFY4OGJoWk5Nck00bEtXNEZiVnBpVlVR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d73f55a4d784",
+      "title": "운동시간 바꿨더니 혈압 뚝 떨어져…“운동효과 없으면 시간 바꿔라” [달콤한 사이언스] - 서울신문",
+      "published": "2026-04-17T01:30:00+00:00",
+      "summary": "운동시간 바꿨더니 혈압 뚝 떨어져…“운동효과 없으면 시간 바꿔라” [달콤한 사이언스]&nbsp;&nbsp;서울신문1주일에 딱 30분만 ‘이것’ 하면, 조기 사망 위험 절반 뚝&nbsp;&nbsp;헬스조선아침형·저녁형, 운동도 타이밍이다…“생체리듬만 맞춰도 효과가 달라”&nbsp;&nbsp;전자신문운동은 언제든 좋다?… 아니, ‘시간’ 맞춰야 효과 난다[건강팩트체크]&nbsp;&nbsp;v.daum.net운동시간 바꿨더니 혈압 뚝 떨어져…\"운동효과 없으면 시간 바꿔라\" [달콤한 사이언스]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FOFhDdG0td0wwLXlHeE5YelRnTEhlTy1YendWTXpna1ptcWVtXzczMmxLLWFvcEk0dXBQa19vQW0yWjNFbkVlMU1xM0NBZGV3SC1kckZLa1FOeDBCbEN5Z05aOExvSVBiMUpvSEg1ZVhVZ0pkT2NsNW5aWVR6dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40f972a900cd",
+      "title": "‘마른 당뇨’ 유난히 많은 한국… 이유는?[밀당365] - 조선일보",
+      "published": "2026-04-17T00:55:39+00:00",
+      "summary": "‘마른 당뇨’ 유난히 많은 한국… 이유는?[밀당365]&nbsp;&nbsp;조선일보[건강체크] “자꾸 갈증이 난다”…단순 수분 부족 아닌 ‘당뇨 전 단계’ 신호일 수도&nbsp;&nbsp;전국뉴스한국인 마른 당뇨 원인은? “근육량 부족”…비만 아니지만 대사 지표 ‘빨간불’&nbsp;&nbsp;하이닥[의료칼럼] ‘마른 당뇨’ 유난히 많은 한국&nbsp;&nbsp;미주조선일보당뇨병 걸리면 살 빠진다는데… 왜 나는 '비만 당뇨'지?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDdoYzZHQklZNi14a053eHdxN3NEZzRVRHJKRmU4WE1PNDRnTU56UGxnejNJR0ZKVWd3NTdmQXNwbjFCZmY5TF84QzNLajRPTXo0VVdGOXZCSlJqOS1nR3NRLWZmbk5NR25fNWJOVlUzNTI1LTFyVmpURzd1ME9yRndrQzgzMjlkUWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7db605cac81d",
+      "title": "봄철 안면마비 예방하려면, 면역 관리가 중요 - 이데일리",
+      "published": "2026-04-16T23:06:02+00:00",
+      "summary": "봄철 안면마비 예방하려면, 면역 관리가 중요&nbsp;&nbsp;이데일리\"이마 주름이 갑자기 펴졌어요\"…'안면마비' 초기 증상?&nbsp;&nbsp;뉴시스\"웃기는데 표정 뾰루퉁\" 얼굴의 불청객 벨마비, 봄철 노린다?&nbsp;&nbsp;네이트\"매일 눈에 테이프 붙이고 잡니다\"… 이런 사람 10만명이나 된다는데&nbsp;&nbsp;v.daum.net\"환절기 늘어나는 '안면신경마비', 빠른 치료가 회복 좌우\"&nbsp;&nbsp;헬스이슈앤뉴스",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1FURnBsSnlUR1RwTG03aWpnbEZRZGRvd1pkd1NHNEZDRWZQYTFQQ0REbXpVczB4WG90X0FrWVhMM0NLTkMzOEtZZy1JcWZndUZWdzZROENNbzVSOUdSdG9hLXZlWjQ3Nkkwd3Vua1J1QXVnV243dXJpckhkX0tEZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e241d14d2ce0",
+      "title": "뇌 회로 편집해 기억력 높인다…IBS, '신트로고' 기술 개발 - 사이언스타임즈",
+      "published": "2026-04-16T22:01:08+00:00",
+      "summary": "뇌 회로 편집해 기억력 높인다…IBS, '신트로고' 기술 개발&nbsp;&nbsp;사이언스타임즈Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "사이언스타임즈",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdms1bFUwUkVUcFJ1SEhSbXJkcF9DWm10YTQtSE5qUWVKRS1WYUxBdmNWc29fQ3oxOTBBVWhKNHM0QWY2RHZ3cXhvdHZjaEhlTkxxUFF6eHI0WW54RkFqUFJKb3gxM3ZkMUlZX3BraS1qNXAxcm90WWRuVGZDdGNNczc4dlpkUWtUSmhubVhYRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f7ce7a5d728",
+      "title": "혈액으로 알츠하이머 치매 단계도 예측…환자 85% \"검사 받겠다\" - 동아사이언스",
+      "published": "2026-04-16T22:00:00+00:00",
+      "summary": "혈액으로 알츠하이머 치매 단계도 예측…환자 85% \"검사 받겠다\"&nbsp;&nbsp;동아사이언스Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NYnozZVBrNG5KT1JBb21TeV9tQmJEbzlBQ3R0cGlqR2pvYlhKTnA5eVNObUF6VnFhUGpGUDFIeDBQLURWc1lOTHloVTZnZHItcjBjTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd67cd08b6f7",
+      "title": "“치매 위험 높일라”… 섣불리 따라 하면 안 되는 ‘이 식단’, 뭘까? - 헬스조선",
+      "published": "2026-04-16T21:22:00+00:00",
+      "summary": "“치매 위험 높일라”… 섣불리 따라 하면 안 되는 ‘이 식단’, 뭘까?&nbsp;&nbsp;헬스조선건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과”&nbsp;&nbsp;하이닥100세 시대 치매관리&nbsp;&nbsp;복지TV부울경방송\"무조건 채식보다는 질이 중요\"… 치매 예방의 핵심&nbsp;&nbsp;한국의약통신“60대부터 바꿔도 늦지 않다”…식물성 식단, 치매 위험 낮춘다&nbsp;&nbsp;레이디경향",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KYTlCVGNIdEozdFZJQmUtOEdNcHZ3WVNUZ2tSaDI3WW5raXdKSldkMFJKT1VteW5MT19HYk1IWHVyRE9yUnl0ZDVNZXc4MzhOUTl5aGVuTTh3dlBSUlN6cjlpZExUTjdYeHh2VWx6WHkyQWhuT2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "857a26fad048",
+      "title": "약물 없이 소리·빛 감각 자극으로 알츠하이머병 ‘개선’ - 재활뉴스",
+      "published": "2026-04-16T20:30:00+00:00",
+      "summary": "약물 없이 소리·빛 감각 자극으로 알츠하이머병 ‘개선’&nbsp;&nbsp;재활뉴스하루 1시간 ‘소리’ 들었더니 치매 단백질 200% 배출…5주 효과 지속&nbsp;&nbsp;하이닥\"약없이 소리·빛으로 뇌기능 개선\"…치매치료제 나오나&nbsp;&nbsp;뉴시스소리·빛으로 알츠하이머 치료?…\"기억력 향상 확인\"&nbsp;&nbsp;v.daum.net\"치매약 부작용 걱정 없어\" '소리+빛'으로 뇌 고친다?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54VkVTX0VxazczQlo2R1p5NWhCRGNkSlRrTHRpNHZzRzhrZzF6Rmg1ZWl4WU9fVDZPVUJkSi00TUhHSGFlRkZSOTZhZW05QVZNVlVnMmpkNW4tU1hyWjBINWpBdlBQS3pyeEZJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "658a50e2a5af",
+      "title": "“염증 덩어리 쌓인다”… 내과 의사 경고한 ‘이것’, 뭐지? - 헬스조선",
+      "published": "2026-04-16T19:20:00+00:00",
+      "summary": "“염증 덩어리 쌓인다”… 내과 의사 경고한 ‘이것’, 뭐지?&nbsp;&nbsp;헬스조선염증성 노화에서 섬유아세포의 역할 중요해&nbsp;&nbsp;바이오타임즈인플라메이징, 조용한 염증이 노화 질환을 유발한다&nbsp;&nbsp;시사저널“온몸에 염증 퍼진다”… 의사 경고 ‘이 음식’, 뭐야?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IdzA2ajFKQWhjZkxCOTNRZFZ5SUM1bHhzYTdiSzM4bzVlTk9MSjM0aVpqb2FyWk5wMXBTR1FGcnliZV84NE9uTlhoRzhVMld4WV93MjJZcE9pN2ttVU5YZXRwWHBwSHQ1MkswSU5UcHRGb2tORHc?oc=5"
+        }
+      ]
+    },
     {
       "id": "026f7fd0ee04",
       "title": "한국MSD, 손현주와 함께 '깜박'하기 쉬운 성인 폐렴 위험 알린다 - MEDI:GATE NEWS",
@@ -30,9 +150,21 @@
       ]
     },
     {
+      "id": "4b1069ef1b04",
+      "title": "도쿄 홍역 확산에 여행객 ‘주의보’…황금연휴 앞두고 방역 변수 부상 - 여행신문",
+      "published": "2026-04-16T15:10:00+00:00",
+      "summary": "도쿄 홍역 확산에 여행객 ‘주의보’…황금연휴 앞두고 방역 변수 부상&nbsp;&nbsp;여행신문\"2020년 이후 증가세 가장 빨라\"…日 홍역 환자 236명, 한국은? - 머니투데이&nbsp;&nbsp;mt.co.kr작년보다 4배 가까이 증가했다…日서 유행 중인 '이 감염병', 원인과 예방법은 [데일리 헬스]&nbsp;&nbsp;네이트홍역 감염자 200명 넘어&nbsp;&nbsp;nhk.or.jp日 ‘홍역’ 성인 환자 3배 급증…‘백신 공백’ 우리는 어떨까?&nbsp;&nbsp;레이디경향",
+      "sources": [
+        {
+          "name": "여행신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LWko1b1dyWEl0YkxsdXhVR25wWkNnUHdWc3NwXzNOdG9LOUttRzJWSnlsNHpPUEpGVUpjZEVCVGN3akRFcWVaalNCSnB3NU00UkNWUnVrQlk5RWxGQXBvNzdUY0VOSV96SnRvdi1EX1BlZ9IBdkFVX3lxTFBKR1g0YW9yNHAwLTdiVmo3SnVJTnBBQ1VVLS0xMEhOMWVlMXRnTjZ2azNidTdjaEpYOTFwNkJXR0NnaHhqNko5QzFGYlMwVkp6OFFZVElLcmFTM3ZHNFVTVEN2UUNhQm5NYjJabE5NSVJzbGs5UlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a151f453405d",
       "title": "03화 건강한 도파민 보상 - 브런치",
-      "published": "2026-04-16T14:46:22+00:00",
+      "published": "2026-04-16T14:11:48+00:00",
       "summary": "03화 건강한 도파민 보상&nbsp;&nbsp;브런치",
       "sources": [
         {
@@ -54,6 +186,18 @@
       ]
     },
     {
+      "id": "161bb4794d1d",
+      "title": "日서 감염 확인, 규모도 몰라…잠복 뒤 재확산 코로나 변이 '시카다' 확산 조짐 - 아시아경제",
+      "published": "2026-04-16T09:52:07+00:00",
+      "summary": "日서 감염 확인, 규모도 몰라…잠복 뒤 재확산 코로나 변이 '시카다' 확산 조짐&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CYVdSbTZRd1VibUY0RS1DNjJSUkxhRXYyZVgwUnhqU0tOcnZJeDFGb0ItZzgzQlZwUUltOGJDVkttUUhCc3dvM1JLcmJNbjlxQldnb3VEcHh5eGpQR0VDQw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "371ee6e6033e",
       "title": "선천성 심장병은 수술이 끝이 아니라 평생 관리 필요한 질환 - 메드월드뉴스",
       "published": "2026-04-16T09:52:02+00:00",
@@ -62,18 +206,6 @@
         {
           "name": "메드월드뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qdlhYeGUxXzg4YVJoZW9MN253Q0t4bkxGcHNYcWk5N3E1OW5DaEs2YnZxT3dLUF8zZWY2VVJLSVlSUHJfZV8zM2lJczlqb2VPQk9fc3JkemJMOFpzRzA5UlVSWlk3cms4dUJxeVpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf6170ee59b0",
-      "title": "혈액 한 방울로 알츠하이머 진단…경기대 하영근 교수팀, '초고감도 바이오센서' 개발 - 경기일보",
-      "published": "2026-04-16T08:15:00+00:00",
-      "summary": "혈액 한 방울로 알츠하이머 진단…경기대 하영근 교수팀, '초고감도 바이오센서' 개발&nbsp;&nbsp;경기일보“당신 20년 뒤 치매 덮친다” 정확도 91% ‘피 한방울 검사’&nbsp;&nbsp;중앙일보뇌 스캔보다 빠르다…피 한 방울로 알츠하이머 발병 수년 전 예측&nbsp;&nbsp;v.daum.net\"혈액 한 방울로 알츠하이머 진단\" 초고감도 센서 개발&nbsp;&nbsp;뉴시스‘알츠하이머 조기 진단 가능해졌다’…경기대 하영근 교수팀, 초고감도 바이오센터 개발&nbsp;&nbsp;중부일보",
-      "sources": [
-        {
-          "name": "경기일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3TVBHTGJaMDJfYWNST0NMX0xkZkx5aEpOTGZDLTJMNVZlYS1Sa1NIRGJxd0xrNVEwZThEei1iR3RyRWFucFZBX3FsejV1WC05Sm5uMHdEMmRsN1E?oc=5"
         }
       ]
     },
@@ -105,23 +237,11 @@
       "id": "20048294a04f",
       "title": "수면 중 뇌파 패턴으로 추정한 뇌 나이에 따라 치매 발병률 높아져... - 후생신보",
       "published": "2026-04-16T07:08:00+00:00",
-      "summary": "수면 중 뇌파 패턴으로 추정한 뇌 나이에 따라 치매 발병률 높아져...&nbsp;&nbsp;후생신보\"복잡한 업무 등 직업적 자극이 치매 예방의 열쇠\" 英 연구&nbsp;&nbsp;뉴시스밤에 ‘이 모습’ 자주 보이는 사람, 치매 검사 받아라&nbsp;&nbsp;헬스조선하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;메디컬투데이\"긍정적으로 살수록 치매 덜 걸린다\"...美 하버드대, 14년 추적 결과&nbsp;&nbsp;디멘시아뉴스",
+      "summary": "수면 중 뇌파 패턴으로 추정한 뇌 나이에 따라 치매 발병률 높아져...&nbsp;&nbsp;후생신보\"복잡한 업무 등 직업적 자극이 치매 예방의 열쇠\" 英 연구&nbsp;&nbsp;뉴시스밤에 ‘이 모습’ 자주 보이는 사람, 치매 검사 받아라&nbsp;&nbsp;헬스조선하루 1700보만 더 걸어도…좌식 생활 만성질환 위험 낮춘다&nbsp;&nbsp;메디컬투데이적절한 운동과 충분한 수면, 노년기 치매 예방에 핵심&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9zakh3ZVROYmREQ1pIMS1hMWs4SGdUUGFNOTFRRlNyV3FVaHYzUjBiYnlySTZKaFA2ZVMzNnMyWFJRX2JR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "14867ca85bbc",
-      "title": "\"폐경 후 유방암 예방, 체중만큼 혈압·혈당도 잡아야\" - 의협신문",
-      "published": "2026-04-16T07:06:19+00:00",
-      "summary": "\"폐경 후 유방암 예방, 체중만큼 혈압·혈당도 잡아야\"&nbsp;&nbsp;의협신문\"폐경 후 비만, 유방암 위험 20%↑…대사이상 동반시 40%↑\"&nbsp;&nbsp;연합뉴스[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;v.daum.net'유방암 걱정' 중년女, 체중만 관리하면 큰일나는 이유는?&nbsp;&nbsp;네이트폐경후 비만에 '이것' 동반…\"유방암 위험 40% 커진다\"&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "의협신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zLTNMdGRuOHpUdVFUdTVULWtZVWlId3V3Wmo0eXNFREhyeVZ2LU84MlF2ejhkbTBINW1JeXVBVHhZZVhzUnlJd0VGZjNmc1NuMkhCc3NMWGZaZHVPY29MYnpGekNrN1RzOGhpeQ?oc=5"
         }
       ]
     },
@@ -150,18 +270,6 @@
       ]
     },
     {
-      "id": "26de11c08ea2",
-      "title": "5월부터 12세 남성 청소년 대상 사람유두종바이러스 백신 무료접종 시작 - 의사신문",
-      "published": "2026-04-16T06:51:56+00:00",
-      "summary": "5월부터 12세 남성 청소년 대상 사람유두종바이러스 백신 무료접종 시작&nbsp;&nbsp;의사신문\"12살 남학생도 무료로\"...청소년, HPV 무료접종&nbsp;&nbsp;YTN 사이언스자궁경부암 백신 무료 접종 男청소년까지 확대, 왜?&nbsp;&nbsp;조선일보12세 남학생, HPV 무료 접종…\"5월부터 신규 시행\"&nbsp;&nbsp;데일리팜‘여성용 백신’ 꼬리표 뗐다…HPV ‘9가’ 전환은 언제?&nbsp;&nbsp;KBS 뉴스",
-      "sources": [
-        {
-          "name": "의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uVjQwc2lxNXQ1UE5mR3RTdnNIczM3TWhKNW9PaV9LOFNybDBJLV81UVU5bDZjWm4wTGN4TmxROWZrSXF6WnotOFNpNlZtTVlobnA1akV6bVg1Ql91MldtbWVLS05FY3hJbG9jWm5VOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "78d7e9bc80eb",
       "title": "오래 앉아있다면 꼭 해야 하는 운동: 발뒤꿈치 들기--건강 - 인민넷",
       "published": "2026-04-16T06:49:00+00:00",
@@ -186,26 +294,14 @@
       ]
     },
     {
-      "id": "c35cfdcba94a",
-      "title": "운동 시간대 잘 조절하면, 혈압 최대 2배↓… “혈당∙수면의 질도 개선” - 하이닥",
-      "published": "2026-04-16T06:00:00+00:00",
-      "summary": "운동 시간대 잘 조절하면, 혈압 최대 2배↓… “혈당∙수면의 질도 개선”&nbsp;&nbsp;하이닥1주일에 딱 30분만 ‘이것’ 하면, 조기 사망 위험 절반 뚝&nbsp;&nbsp;헬스조선운동은 언제든 좋다?… 아니, ‘시간’ 맞춰야 효과 난다[건강팩트체크]&nbsp;&nbsp;v.daum.net아침형·저녁형, 운동도 타이밍이다…“생체리듬만 맞춰도 효과가 달라”&nbsp;&nbsp;전자신문1시간 걷기 vs 3분 숨차게… 건강 효과, 뭐가 더 클까[건강팩트체크]&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Kc1FweS03cG42R1dwWTFlMmhVeDlaVjNXR3pTTVBHMUNybl9UWTk5VTQ2UVM1d0VwcFdMYzNzOUZuVGtLQlNSWmdxQ2ViNFlRbWVWTjFGcGVtM3dDWXJQendBZHVxaE9PdFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "802320c64378",
+      "id": "98de6171ddce",
       "title": "콧물·기침 동반하는 RSV 바이러스 진단, '10분 내외' 신속 검사로 확인 가능 - K스피릿",
       "published": "2026-04-16T05:26:47+00:00",
       "summary": "콧물·기침 동반하는 RSV 바이러스 진단, '10분 내외' 신속 검사로 확인 가능&nbsp;&nbsp;K스피릿RSV: 노인과 기저질환이 있는 사람들에게 '조용한 위협'입니다.&nbsp;&nbsp;Vietnam.vn노인 및 기저질환자의 감염성 질환 예방을 위한 적극적인 조치.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "K스피릿",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CbHpsMjZmYlJ3S2dFbGhYdUF6T1haZlVLS2daTEVVZm1JZG5WdHJuWlRNN1gxM1U3dUN3WW5mQWIzQ0QzLUJpb1lPeWtFRnpHTFFoR2huUlByUy15SUlPN1VIOWM5RUtTR2d1M3pMV1rSAXNBVV95cUxQSzdoZUhsSFFxU2MzUnd0djl1TWQ4aUFvcHhWMzQxMHY3Y0JaaUFxdzlkdjVnekJZX29YUXA4ZUFrSlNqOGxPdEg1Skx6c1BuQWpaYXZiOW5YSWRjV2VRSFhpT05SbldxTTdYcnRJTDQyQXVZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DNlpKdXJrZUlocndmam4zMXRub3pacXBJX2g2dVFwbHFHZDA4cENGZXV3QjIybWRBQnl2cFI4ZXJVdGZzMHFuMFlsYWk2RXFONC1NV3c5Ykw5QTVYZDZvTGpLbXdaai1leDVGY2htVdIBc0FVX3lxTFBLN2hlSGxIUXFTYzNSd3R2OXVNZDhpQW9weFYzNDEwdjdjQlppQXF3OWR2NWd6Qllfb1hRcDhlQWtKU2o4bE90SDVKTHpzUG5BalphdmI5blhJZGNXZVFIWGlPTlJuV3FNN1hydElMNDJBdVk?oc=5"
         }
       ]
     },
@@ -234,14 +330,14 @@
       ]
     },
     {
-      "id": "c93fb5c2e91a",
-      "title": "춘천성심병원 손종희 교수팀, 40Hz 감마 자극 기반 알츠하이머 치료 기술 특허 등록 - 메디포뉴스",
-      "published": "2026-04-16T03:00:16+00:00",
-      "summary": "춘천성심병원 손종희 교수팀, 40Hz 감마 자극 기반 알츠하이머 치료 기술 특허 등록&nbsp;&nbsp;메디포뉴스하루 1시간 ‘소리’ 들었더니 치매 단백질 200% 배출…5주 효과 지속&nbsp;&nbsp;하이닥약물 없이 소리·빛으로 알츠하이머병 잡는다…기술 특허 등록&nbsp;&nbsp;연합뉴스\"약없이 소리·빛으로 뇌기능 개선\"…치매치료제 나오나&nbsp;&nbsp;뉴시스소리·빛으로 알츠하이머 치료?…\"기억력 향상 확인\"&nbsp;&nbsp;v.daum.net",
+      "id": "20cc9f46708f",
+      "title": "고속 충전 가능한 ‘꿈의 배터리’ 전고체 배터리 소재 개발 - v.daum.net",
+      "published": "2026-04-16T02:59:40+00:00",
+      "summary": "고속 충전 가능한 ‘꿈의 배터리’ 전고체 배터리 소재 개발&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "메디포뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xWVNDb3g3eDh3SEQ3UWptbDM3RGtZVV9zcm9XcVZpQmUtR3NfcVRlcGpSWmlraVIxdUdTUkVhM1FCanRISVZ4YW9JVDlFTWRoZ3VhaXpjUm9WXy1iYzkwXzBTNEY?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jSEs5eHZMLW96Y09DZjllTGVVaHExbFVzdlBxZHpYX0FmTUJhV0tlVkQzdEpwNHFNRDg1SkFhdFZaeW56b28zdHlwYi1jclk?oc=5"
         }
       ]
     },
@@ -258,14 +354,38 @@
       ]
     },
     {
-      "id": "f3b9e42dc708",
-      "title": "[행사] 산부인과학회, 국가암검진 HPV 검사 전환 공론화 나서 - 메디칼업저버",
-      "published": "2026-04-16T02:19:36+00:00",
-      "summary": "[행사] 산부인과학회, 국가암검진 HPV 검사 전환 공론화 나서&nbsp;&nbsp;메디칼업저버질 분비물 양과 냄새 달라졌다면, 자궁경부 질환 검진이 필요한 시점&nbsp;&nbsp;네이트산부인과학회 “HPV 검사, 국가검진 포함”&nbsp;&nbsp;데일리메디생리불순 방치했다가… ‘자궁암 3기’ 英 여성의 경고&nbsp;&nbsp;헬스조선[김정호의 생명과 환경](11) 생리혈로 HPV를 검출한다&nbsp;&nbsp;주간경향",
+      "id": "8af45a43d629",
+      "title": "폐경 후 비만·대사증후군, 유방암 발병 위험 최대 40% 높인다 - 하이닥",
+      "published": "2026-04-16T02:30:00+00:00",
+      "summary": "폐경 후 비만·대사증후군, 유방암 발병 위험 최대 40% 높인다&nbsp;&nbsp;하이닥\"폐경 후 비만, 유방암 위험 20%↑…대사이상 동반시 40%↑\"&nbsp;&nbsp;연합뉴스[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;v.daum.net'유방암 걱정' 중년女, 체중만 관리하면 큰일나는 이유는?&nbsp;&nbsp;네이트폐경후 비만에 '이것' 동반…\"유방암 위험 40% 커진다\"&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYWHJWbll5TzEtd2IzSkZaS1gweXVBUXRtc3djTnBCLTh5ZXZSVnZ5ODlndmNuSVRTNzJWMEc1QmpLV2l6NmdnU25hZW1wVlIycGNwZ3NwWjZzNGkwMUJqQ25rUjF4MXdIb1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7bac07a59410",
+      "title": "[신간] 소아청소년 비만 가족 혁명 - 청년의사",
+      "published": "2026-04-16T02:27:53+00:00",
+      "summary": "[신간] 소아청소년 비만 가족 혁명&nbsp;&nbsp;청년의사“성장기 살이 키로 간다는 오해, 아이 미래 망칠 수 있어”&nbsp;&nbsp;헬스조선청소년 비만, 성인병 된다…\"위고비로 조기치료 해볼까\"&nbsp;&nbsp;파이낸셜뉴스어린 시절 비만, 평생 소득에 큰 영향!&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "청년의사",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zQVpST291T29qR1h6VjZQQml0elh5b09RNXRxekM1WE1wTDQ5Z09fS201dWdoRC1yTWxlNmR6UXBxeng5OVA0WjFKcGs1MVRFQzFHUWFLTEVpckZHWVRHUVk1MU9VUkpZVzRVa1EzWdIBc0FVX3lxTE5jQjhndUlJX0JkUjdOTGFIWG91Qm5ZQTZLdldGSlBqUUpsM0VfNE5lVnlmcnc3Vjcyc0tFeXd1MENzY3k1X1EyX2o5TXprMmQ5QzN1VVVSSFFXWVEwcGdFNmZiR2dRdDR4Nk1JUGlKdlhoakU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d95d8ba35e06",
+      "title": "스마트폰만 있으면 우울·불안 고위험군 조기 선별 가능해져 - 메디칼업저버",
+      "published": "2026-04-16T00:38:06+00:00",
+      "summary": "스마트폰만 있으면 우울·불안 고위험군 조기 선별 가능해져&nbsp;&nbsp;메디칼업저버\"당신은 지금 우울하시군요\"…스마트폰으로 알아낸다&nbsp;&nbsp;뉴시스우울증 고위험군, 이동 반경 좁고 집에 머무는 시간은 더 길다&nbsp;&nbsp;경향신문\"스마트폰 수집 정보로 우울·불안 고위험군 찾는다\"&nbsp;&nbsp;연합뉴스정신과 안 가고 우울증 판별 가능해지나… “스마트폰으로 조기 선별”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GODdwWVRyOU9ZTkJvYXltZTJvQUZZa0FuemI5OWVTdkZUN1FIWGE0THpIOGxuT0t2a1J3anN1N3NJM0kyUnNzVE11UEp3TEQyUllVUXgzM3hsd3JwYThUdy1QcXY3NEpSSXhN?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCTXZFRy0yb1VobkNsaGp4WV82aUc3UHA4N3o0eXFFSmxBRDJfdWJ0N0JRWExtYjlWOGV2SkdGYW80N1hiT3ZvZVNwN2cwLWZNSHM4cnIya0lvRGU1Z1RuSjY4ZzV0VnZNZ21N?oc=5"
         }
       ]
     },
@@ -278,6 +398,18 @@
         {
           "name": "realfoods.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wSFRYSUJCcm5yUnZfZTVOcUxTTGp2RThMb0RTVDcwYnA4WWNBdWJwTkc1bkFRclMxRG9GVlNzbG5mWG1kMEMzZ0x3RGRWdHJjMHhPcC1jRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26f5afd2cb96",
+      "title": "항정신병제-SSRI 병용 시 심실성 부정맥 위험 최대 3배↑ - 메디칼트리뷴",
+      "published": "2026-04-15T23:53:54+00:00",
+      "summary": "항정신병제-SSRI 병용 시 심실성 부정맥 위험 최대 3배↑&nbsp;&nbsp;메디칼트리뷴",
+      "sources": [
+        {
+          "name": "메디칼트리뷴",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XMTdjRFM2YmY5RHIzSUJKQVJrVUZwTENCSEYtY3RlWkF6c0VXYXpVaElNVExNY3I5VTVpUDhUS3RIVmZkS0M4ZzJicnRqaEhGUEp6ekNBOU81eU93djdKcDI1OGEzay1DMjBNelMtS1d0QmtaT3fSAXpBVV95cUxNc0EyaWFGMmRudnpYbjZza1NQWmR0Rk5IZC1uOE80RUFfQ3FtYUU4X1RKZkpyZEJkUkJfTnJ2RFRXaWkxVkJCd2NnajBpbGxyM0tFLUNKYi1YNnpjSnlFUTB0OWV4WDR1YWtncnd1U2hhM0czU2ZhUTZGdw?oc=5"
         }
       ]
     },
@@ -306,6 +438,18 @@
       ]
     },
     {
+      "id": "8694ee18857a",
+      "title": "[100세 과학] '캡틴 백혈병'의 방패 찾았다…암 치료에 새 길 - 네이트",
+      "published": "2026-04-15T21:02:00+00:00",
+      "summary": "[100세 과학] '캡틴 백혈병'의 방패 찾았다…암 치료에 새 길&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FMEpWNmtGSndpdUI4Ym9KSFlqMFpnR08ySEFHNjQwdUVRbF9mbEY2ekFlSXo2Wm5FeEFmaFVRWTJpRDhpNms3OEs3T0RYaklyd3Z3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1e6b69181c8c",
       "title": "“뇌 회로도 ‘가지치기’ 하면 기억력 쑥쑥”… 국내 연구진, 뇌 회로 편집 기술 개발 - 조선일보",
       "published": "2026-04-15T09:04:29+00:00",
@@ -318,38 +462,14 @@
       ]
     },
     {
-      "id": "73b5d8c9b26c",
-      "title": "거울 속 얼굴이 어색하다면…놓치기 쉬운 안면신경마비 신호 - 매경헬스",
-      "published": "2026-04-15T09:00:00+00:00",
-      "summary": "거울 속 얼굴이 어색하다면…놓치기 쉬운 안면신경마비 신호&nbsp;&nbsp;매경헬스\"이마 주름이 갑자기 펴졌어요\"…'안면마비' 초기 증상?&nbsp;&nbsp;뉴시스\"웃기는데 표정 뾰루퉁\" 얼굴의 불청객 벨마비, 봄철 노린다?&nbsp;&nbsp;네이트\"매일 눈에 테이프 붙이고 잡니다\"… 이런 사람 10만명이나 된다는데&nbsp;&nbsp;v.daum.net\"환절기 늘어나는 '안면신경마비', 빠른 치료가 회복 좌우\"&nbsp;&nbsp;헬스이슈앤뉴스",
+      "id": "0b8ffbc27963",
+      "title": "[기고] 해빙(解氷) - 경상투데이",
+      "published": "2026-04-15T05:42:00+00:00",
+      "summary": "[기고] 해빙(解氷)&nbsp;&nbsp;경상투데이뇌 스캔보다 빠르다…피 한 방울로 알츠하이머 발병 수년 전 예측&nbsp;&nbsp;네이트[김민석의 건강과 음악] 당신의 뇌를 지키는 14가지 방어막:생애 주기별 뇌 관리법&nbsp;&nbsp;경북신문“자꾸 깜빡하는 나, 괜찮은 걸까?” 건망증과 치매의 경계선 분석&nbsp;&nbsp;환경감시일보[특별기고] 치매는 갑자기 오지 않는다…놓치지 말아야 할 ‘경도인지장애’&nbsp;&nbsp;헬스경향",
       "sources": [
         {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfMG11YWVuVHluWExlVF90aTZOSVoydHhVNVk0ZWt3ZGFHZTVfSnBGZ1JIeTlNOHlBalVtaV9SdXgxVjJKeGtNZ3lhYkRqZ3ZRVlVkV3hGRmEyMVlfMFJ6UlljWnRwS29UTVU5eQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2255002d5166",
-      "title": "\"스마트폰이 우울증 위험 신호 잡는다\"…고려대·ETRI 기술 개발 - 서울경제TV",
-      "published": "2026-04-15T08:17:55+00:00",
-      "summary": "\"스마트폰이 우울증 위험 신호 잡는다\"…고려대·ETRI 기술 개발&nbsp;&nbsp;서울경제TV\"당신은 지금 우울하시군요\"…스마트폰으로 알아낸다&nbsp;&nbsp;뉴시스우울증 고위험군, 이동 반경 좁고 집에 머무는 시간은 더 길다&nbsp;&nbsp;경향신문\"스마트폰 수집 정보로 우울·불안 고위험군 찾는다\"&nbsp;&nbsp;연합뉴스정신과 안 가고 우울증 판별 가능해지나… “스마트폰으로 조기 선별”&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HbWowQmc2R0pIaU9mb2tBZzVUZDF6VWtlaktMNlJPR0dQdUM4TldyM1ZMcUN4MTlSTURXdGk3cF9VV0pYeGU3bnUzY293RGY0dGQ5dFhsb3F0UlZaT0RBSDAwS1k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53b9656f0aaf",
-      "title": "100세 시대 치매관리 - 복지TV부울경방송",
-      "published": "2026-04-15T07:23:59+00:00",
-      "summary": "100세 시대 치매관리&nbsp;&nbsp;복지TV부울경방송“60대부터 바꿔도 늦지 않다”…식물성 식단, 치매 위험 낮춘다&nbsp;&nbsp;레이디경향\"무조건 채식보다는 질이 중요\"… 치매 예방의 핵심&nbsp;&nbsp;한국의약통신식물성 식단도 '질'이 좌우…좋은 식단일수록 치매 위험 낮다&nbsp;&nbsp;네이트건강한 식물성 식단 섭취, 치매 위험 낮춰...“늦게 시작해도 효과”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "복지TV부울경방송",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aX3ZXajRyUE02bHdvdUJvTDU1RlRfQW54eVJEVWVzS3NOY2lnMXJ5TDFzeEpQZlhVRHgtZVY4Ym1NRG5LMG1hd1liOWtyTlVwdlp3anJWcERLdEdMdDFnc2I5RUF2TjI4?oc=5"
+          "name": "경상투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YcHViWXZqVmxGMk9Dd3I4UXJmcWxwZGpqUjFoRWdveEZhYUZwdlc1UnNkWndvM1BSQThFNU9NaVNqOGdobGRzTTBSdXhTN2M1OGZ0eWh6OXhTbjl4MFFhcFEtdXVOQkk?oc=5"
         }
       ]
     },
@@ -378,18 +498,6 @@
       ]
     },
     {
-      "id": "243e7b57a33b",
-      "title": "[신간] 송경철 교수, '소아청소년 비만 가족 혁명' 출간 - 메디칼업저버",
-      "published": "2026-04-15T02:50:54+00:00",
-      "summary": "[신간] 송경철 교수, '소아청소년 비만 가족 혁명' 출간&nbsp;&nbsp;메디칼업저버“성장기 살이 키로 간다는 오해, 아이 미래 망칠 수 있어”&nbsp;&nbsp;헬스조선[신간] 소아청소년 비만 가족 혁명&nbsp;&nbsp;청년의사청소년 비만, 성인병 된다…\"위고비로 조기치료 해볼까\"&nbsp;&nbsp;파이낸셜뉴스",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ReDlEczNpREw0aVViWmdQQ05qZVFob2hqbjQzUWxXRUliWnMtSTQ3OFRjbmVfSEdFOUhlR3RONDJST0hMYTBveFRQdzV2MTVYcVBRYWloLVR1OFo0Wl9XLVRyeGo1WEJVUTM0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6b219275d607",
       "title": "매일 먹기 좋은 ‘가성비’ 건강 식품 7가지… 뭘까? - 헬스조선",
       "published": "2026-04-15T02:50:00+00:00",
@@ -410,30 +518,6 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5EQTZreG9TSGJ5LWRabThfdGhHdzZXYkdHWFVhQi1EM0JlY1VkaW9kVXk4SEVuQi1uSV82WTVndGY2Z0Nq?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3dedb13bb7e",
-      "title": "[특별기고] 치매는 갑자기 오지 않는다…놓치지 말아야 할 ‘경도인지장애’ - 헬스경향",
-      "published": "2026-04-14T22:59:02+00:00",
-      "summary": "[특별기고] 치매는 갑자기 오지 않는다…놓치지 말아야 할 ‘경도인지장애’&nbsp;&nbsp;헬스경향Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVdzJDZkVyNzE5R1p2d1RGdFRBWlBCTXJmNFNEelhFc0Rta3V2YnJNS0NWSzVRTW9ydWFzeThXVmZVdXpmTkxKbEgtSEFlaGtlZW1OUk0wOXJvUzJGNGpJR1c1amdJV1NhUXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a51649c2eb6a",
-      "title": "“수면의 질 확 바꿔” 꿀잠 자고플 때 먹어야 할 음식 8가지 - 헬스조선",
-      "published": "2026-04-14T21:20:00+00:00",
-      "summary": "“수면의 질 확 바꿔” 꿀잠 자고플 때 먹어야 할 음식 8가지&nbsp;&nbsp;헬스조선[최윤용의 100세 칼럼] 잠 못 드는 밤의 이유: 장(腸)과 뇌(腦)를 잇는 불면의 과학&nbsp;&nbsp;교육연합신문\"주말에 몰아 자도 소용없다\"…2시간 넘으면 '생체시계 혼란', 당뇨 위험 높아진다&nbsp;&nbsp;reportera.co.kr숙면 갈증 시대, 한의학과 명상이 답이다&nbsp;&nbsp;환경감시일보\"'이 시간' 미만, 치매 3배↑\" 비만·뇌졸중까지...수면 전문의가 경고한 '이것'은?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdzFLYjM1SG8yQzl4N0RSdTdabzF5ZjQ1UXBVWEpFalR1LUY0YlFSRENYNXVvVVAtZHJITTlLUHJmNVhlM1dmS1kza2M5TkJSOUhsLXNIUjdQRE5jYU5rT05DUVU2bngtQmltUGpoS2NoQnBSbGc?oc=5"
         }
       ]
     },
