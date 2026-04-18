@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-18T13:09:39.126063+00:00",
-  "total_fetched": 66,
-  "unique_count": 65,
-  "health_related_count": 40,
+  "fetched_at": "2026-04-18T18:57:12.405190+00:00",
+  "total_fetched": 56,
+  "unique_count": 56,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "688652333936",
+      "title": "\"소아청소년 5명 중 1명 비만\"…생활습관 관리가 해법 - 라이프인",
+      "published": "2026-04-18T16:45:29+00:00",
+      "summary": "\"소아청소년 5명 중 1명 비만\"…생활습관 관리가 해법&nbsp;&nbsp;라이프인살만 찐 줄 알았던 아이, 호르몬·면역계가 무너지고 있다&nbsp;&nbsp;v.daum.net어렸을때 살은 전부 키로 간다고?…\"아주 위험한 발상\"&nbsp;&nbsp;뉴시스어릴 때 살, 정말 키로 갈지도… “지방 아닌 근육 성장 과정”&nbsp;&nbsp;헬스조선청소년 비만, 성인병 된다…\"위고비로 조기치료 해볼까\"&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "라이프인",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nbG5SY1lIN0tTbVZJcGlZcWg4ZHNSQ0R1OHBicUdiQXpPZnk0aU5YZW95aWVtY21ZbmcyWEVsRGk2SS1KaFZuYmhBTmVOc05fQWZxaDExWUNUblk0VmRXNnh0a2lrdnB1?oc=5"
+        }
+      ]
+    },
     {
       "id": "1f7a3aa98344",
       "title": "“염증 생기고 심장에 부담”… 당장 멈춰야 할 ‘이 행동’, 뭐야? - 헬스조선",
@@ -20,7 +32,7 @@
     {
       "id": "9661081940c4",
       "title": "붙이는 치료제로 전립선암 치료 - 위클리코리아",
-      "published": "2026-04-18T09:36:08+00:00",
+      "published": "2026-04-18T09:40:11+00:00",
       "summary": "붙이는 치료제로 전립선암 치료&nbsp;&nbsp;위클리코리아",
       "sources": [
         {
@@ -66,26 +78,26 @@
       ]
     },
     {
-      "id": "027b59510bca",
-      "title": "치료제 없는데…질병청 \"영유아 수족구병 증가세\" - 네이트",
-      "published": "2026-04-18T05:52:00+00:00",
-      "summary": "치료제 없는데…질병청 \"영유아 수족구병 증가세\"&nbsp;&nbsp;네이트치료제 없는데...질병청 “영유아 수족구병 증가세”&nbsp;&nbsp;v.daum.net각 가정은 전염병에 맞서는 '요새'와 같습니다.&nbsp;&nbsp;Vietnam.vn호치민시, 한 주 만에 수족구병 1,347명 발생… 경고 기준 크게 초과&nbsp;&nbsp;굿모닝베트남미디어2026년 초부터 31,900건 이상의 뎅기열 사례가 보고되었으며, 유행병은 증가 추세를 보이고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "fdc5e8cd6695",
+      "title": "치료제 없는데...질병청 “영유아 수족구병 증가세” - 세계일보",
+      "published": "2026-04-18T05:51:24+00:00",
+      "summary": "치료제 없는데...질병청 “영유아 수족구병 증가세”&nbsp;&nbsp;세계일보Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nTFZpc296NDFsXy0zcUhhVWlfelo2QTdkTThKN2FOdzNLNTVLUFROcFVYVEdrek5BWl9JcXU1S2YyU3lKX3dDQkQ1VUZKc0kyNnIw?oc=5"
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ieEU5TUpnMVhJT1Qyc2xic1k3S2FJb3JCYV9GQ3U3T1lRQU9qU1lKT0owNUh0Ry1kZ3VoOHVMMXBSMm1FdmxQeFNvbUp5TlF4NURwcEgtU2bSAVRBVV95cUxQMXdhTHJ6R00xVFBKeVQ2UHN2aVhMUHhucmFSc0tXVkNmcnQxUGlGQUtFTTJaYWd1enhTRUdpYTUtTEdxRkRQUlVvUURYUUxXLXAwbWw?oc=5"
         }
       ]
     },
     {
-      "id": "46f389beb796",
-      "title": "어릴 때 살, 정말 키로 갈지도… “지방 아닌 근육 성장 과정” - 헬스조선",
-      "published": "2026-04-18T05:02:00+00:00",
-      "summary": "어릴 때 살, 정말 키로 갈지도… “지방 아닌 근육 성장 과정”&nbsp;&nbsp;헬스조선살만 찐 줄 알았던 아이, 호르몬·면역계가 무너지고 있다&nbsp;&nbsp;경향신문[신간] 소아청소년 비만 가족 혁명&nbsp;&nbsp;청년의사청소년 비만, 성인병 된다…\"위고비로 조기치료 해볼까\"&nbsp;&nbsp;파이낸셜뉴스어린 시절 비만, 평생 소득에 큰 영향!&nbsp;&nbsp;브런치",
+      "id": "f996fcd5a1c2",
+      "title": "폐렴구균 77%는 '50대 이상'…\"성인 전용 백신 맞아야\" - 네이트",
+      "published": "2026-04-18T05:01:00+00:00",
+      "summary": "폐렴구균 77%는 '50대 이상'…\"성인 전용 백신 맞아야\"&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPeENmRE95Y1FUX3pYdExqb0ZmbUFQNXJOWTlQNDNWczV2ZDZ6ZUVBdHE3T203ekozbHdyYlNWT2RDOFhITExrbGI4bWFfOFJ4RkU0VGQ3enp1NWtoRHBCRW41a2NnbS13TDVTWEtrY3pKWnRpUmc?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUaS1aNF8yQlBLeGNGVDMxTnBsTzZBX1lQN1RMdHRLQTcwaUp1U0V6V1lyQkx3aWphZi02WTdGaDM1aVNYS0p4STQ3QktUNEI4WDJF?oc=5"
         }
       ]
     },
@@ -150,14 +162,14 @@
       ]
     },
     {
-      "id": "98fa5ecab810",
-      "title": "\"이 음식들 적당히 먹어야\" 전문의가 지목한 '금기 식품' 4가지 [건강잇슈] - 네이트",
-      "published": "2026-04-17T22:01:00+00:00",
-      "summary": "\"이 음식들 적당히 먹어야\" 전문의가 지목한 '금기 식품' 4가지 [건강잇슈]&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "id": "65ab3f627225",
+      "title": "\"이 음식들 적당히 먹어야\" 전문의가 지목한 '금기 식품' 4가지 [건강잇슈] - 파이낸셜뉴스",
+      "published": "2026-04-17T22:00:00+00:00",
+      "summary": "\"이 음식들 적당히 먹어야\" 전문의가 지목한 '금기 식품' 4가지 [건강잇슈]&nbsp;&nbsp;파이낸셜뉴스Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0VDBvY3hNNS1oQjJBXzNJODRXLU5JSTQ4bVJyOExxTjRScXBXMmhSUDY4d3VaSmxTSnVxN2dLNUczSHdqU053Z0xKZjRhV2FUMUhz?oc=5"
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TX1B4SmppT01GOTJXSVdfd2wwT3ZkODluOEs1dXpIMWxlcUlPT0V6U1VSYzVuOW1wMHBtTWo0dGlvby1fb00weUxMUlNWWWNHNTdOYS1ycUlOUdIBXkFVX3lxTE16Vzh4UEtjQXZFT2luX0JZbVJGSExJYlJfMWNUYl9GeW0xWlBQa2IwTTNMY3U4QVRfOVg5SlZPT2lJYkJwOHJ4US1RV1lSd29nN3VaT3JMLU1XdE5na0E?oc=5"
         }
       ]
     },
@@ -206,6 +218,18 @@
         {
           "name": "메드월드뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZODVlbE9qMFF2Y1FFcE5tLU1GUzQ4TEx2VnVjaTQ3a3RlYUlxOHVuMDlCSDc5WXRYNWdyWjVVb1ZWLU9XUUtTME56RHNwbXBBZzRCYjhDbkZ4NnFVLXdibVhOd2JCeHZQcUpiZ0Zn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "154f4af28ddc",
+      "title": "“피 한 방울로 충분”… 증상 나타나기 전에 ‘알츠하이머’ 잡아낸다 - 코메디닷컴",
+      "published": "2026-04-17T08:06:00+00:00",
+      "summary": "“피 한 방울로 충분”… 증상 나타나기 전에 ‘알츠하이머’ 잡아낸다&nbsp;&nbsp;코메디닷컴‘피 한 방울’로 알츠하이머 예측, 치매 단계도 분석&nbsp;&nbsp;v.daum.net혈액 한 방울로 알츠하이머 진단…경기대 하영근 교수팀, '초고감도 바이오센서' 개발&nbsp;&nbsp;경기일보“당신 20년 뒤 치매 덮친다” 정확도 91% ‘피 한방울 검사’&nbsp;&nbsp;중앙일보뇌 스캔보다 빠르다…피 한 방울로 알츠하이머 발병 수년 전 예측&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rV1VnZlUyb0Noejk2dDBFT0lGdkVCLVJIeFRGRG5FNzhhX2F1LXQ3ekdVT2U1aF9Bc3hCT0w3V2xkQQ?oc=5"
         }
       ]
     },
@@ -342,14 +366,14 @@
       ]
     },
     {
-      "id": "ca160301747e",
-      "title": "혈액으로 알츠하이머 치매 단계도 예측…환자 85% \"검사 받겠다\" - v.daum.net",
-      "published": "2026-04-17T00:59:32+00:00",
-      "summary": "혈액으로 알츠하이머 치매 단계도 예측…환자 85% \"검사 받겠다\"&nbsp;&nbsp;v.daum.net‘피 한 방울’로 알츠하이머 예측, 치매 단계도 분석&nbsp;&nbsp;v.daum.net혈액 한 방울로 알츠하이머 진단…경기대 하영근 교수팀, '초고감도 바이오센서' 개발&nbsp;&nbsp;경기일보“당신 20년 뒤 치매 덮친다” 정확도 91% ‘피 한방울 검사’&nbsp;&nbsp;중앙일보뇌 스캔보다 빠르다…피 한 방울로 알츠하이머 발병 수년 전 예측&nbsp;&nbsp;매일경제",
+      "id": "b5a2024f76a1",
+      "title": "해외여행·집단생활 일상화…수막구균 예방 중요 - mbn.co.kr",
+      "published": "2026-04-17T01:25:01+00:00",
+      "summary": "해외여행·집단생활 일상화…수막구균 예방 중요&nbsp;&nbsp;mbn.co.kr초기증상 감기와 비슷해! 뇌수막염 다발기 진입!--건강&nbsp;&nbsp;인민넷베트남에서는 수막구균 A, C, Y, W 백신의 임상 시험이 진행되었습니다.&nbsp;&nbsp;Vietnam.vn[밴쿠버 조선일보]침습성 수막구균 질환, 10년 만에 최고치 기록 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보수막구균 감염 사례의 46%는 15세 미만 어린이에게서 발생하며, 의사들은 심각한 질병 징후가 나타날 수 있다고 경고합니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jWDZaNllFYTVzUmhyRWZxVEx6ekNRYW5fUHR5bDFxX3hZVUhtcEs2MExXRFBlekxJY2ZJMlNvcjJ6Y3M5VHc?oc=5"
+          "name": "mbn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jODJ4bVJjTG85b3hYVzloSS1GMWF6LWlON19SYU9QV3N4SE9XVFp2ZDVGdXRNZC1QZ2Y5b1FQSEstNVNTUEtiYjRSN096QzAxdVJZdNIBTEFVX3lxTFBfYklxMnNMdUtFOWVPbjZtZGRYWWxtYzFUZG4xZlNnTWUzNDA3cm96cXRoNkNmdnhjUW9PbUhkaEtzTEZwdFVzVmswRVM?oc=5"
         }
       ]
     },
@@ -402,30 +426,6 @@
       ]
     },
     {
-      "id": "7648aa58117a",
-      "title": "한국MSD, 손현주와 함께 '깜박'하기 쉬운 성인 폐렴 위험 알린다 - MEDI:GATE NEWS",
-      "published": "2026-04-16T18:19:00+00:00",
-      "summary": "한국MSD, 손현주와 함께 '깜박'하기 쉬운 성인 폐렴 위험 알린다&nbsp;&nbsp;MEDI:GATE NEWS폐렴구균 77%는 '50대 이상'…\"성인 전용 백신 맞아야\"&nbsp;&nbsp;뉴시스한국 MSD, 배우 손현주와 성인 폐렴구균 예방 캠페인 전개&nbsp;&nbsp;헬스조선[이엠디] 한국화이자제약, ‘뉴 에라(Pneu Era) 프리베나®20 심포지엄’에서 프리베나 패밀리의 임상 경험을 바탕으로 성인 폐렴구균 예방 전략 공유&nbsp;&nbsp;eMD Medical News한국MSD, 배우 손현주와 성인 폐렴 위험 알린다&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EdjRISTN0ZzJCZzVDWnAtbTZCU3hkcXk3VmhTOVhxNkM4c2hZamNzNXpURVZPNlM3cGF4VTFCcndsX2dBZ1RFamIweXpxTjhYbVg1Y3k1QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a151f453405d",
-      "title": "03화 건강한 도파민 보상 - 브런치",
-      "published": "2026-04-16T16:12:05+00:00",
-      "summary": "03화 건강한 도파민 보상&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "브런치",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBycndnOWZ1U2lqc2Ztb1ZLd19uM2pGV3FfOWIzbHU1aUY0QjF0ZVFkM05Gb0I4UmhRS29ha0N6MWRhbnJxcTRmZkFIQnIxejQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c6d70b0aba5c",
       "title": "“AI 만난 센서의 진화… 응용연구 강국 한국, 지금이 황금기” - 동아일보",
       "published": "2026-04-16T15:30:00+00:00",
@@ -434,42 +434,6 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2X1FKMVN6UFZsZkVUT2MzMUhVZjBVVGFqUi1nWFRCQVVzcm4wWkk1QXd5ZEc4MHRTMnItSmhBa0ZMcWpSM0ttOU9BY056NDJrVC1wLTlKM0hjeHMxMGpJbGwyekZHN1FvNlVkLUk0ZkR4Z1JGQmfSAWZBVV95cUxOZXoxa0R5M2hUdFl3VjMzR0RVblBDaHVTeGVOYml6Z0JtU2FUMllnT3pMbkotbUxHM19qbDBQM05tam92Z3Rfdm8zd0dXUmhtZVl2SjY1MXR5NlZrbEQtcXNlN251anc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "09f4792a49ef",
-      "title": "AI로 백혈병 치료 표적 정밀 예측…양자기술 접목도 추진 - 동아사이언스",
-      "published": "2026-04-16T15:00:00+00:00",
-      "summary": "AI로 백혈병 치료 표적 정밀 예측…양자기술 접목도 추진&nbsp;&nbsp;동아사이언스Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oTmtJSG13dVkzWW5obU1lUnFzUHBqUXVyemZBVmU2cHoxbGJKNkw0UXZ3S0ZselpfOWV6c1JvSVp3bU5jMGpLR0xmRFJ1TlVoenowMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53d39c383199",
-      "title": "[닥터 G의 내몸상식] 충혈·가려움에 강한 안약? 스테로이드 점안 부작용 주의 - 뉴스클레임",
-      "published": "2026-04-16T15:00:00+00:00",
-      "summary": "[닥터 G의 내몸상식] 충혈·가려움에 강한 안약? 스테로이드 점안 부작용 주의&nbsp;&nbsp;뉴스클레임",
-      "sources": [
-        {
-          "name": "뉴스클레임",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5WmZvMnBzLTNaQks4MDdCRU1SY2kxNjgwdDFjVl9aMlVVWDZzWGxoa0ozQWQtTWJFYVJNdlk2ZnB1WVhRXzQ0RFhfU0s1cjY4RzY1UERVdnVsZjVoTUZ4dTZhUTcxR2FfS3hyNFFxTTDSAXRBVV95cUxNQmx1Z2czaUtEdUlmamdqMzlrM05obEx0aHBHc1FrRnJGT2RmdjZ4cFlSZEtuWFZsMVhHdDdWU2ppUHNncmVoRmhkQloxWXI1Y2NVSTdjcVBOYi02MFhhazdUQzVwMUtpa2VzSDdoSkJVeW1xbg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20cc9f46708f",
-      "title": "고속 충전 가능한 ‘꿈의 배터리’ 전고체 배터리 소재 개발 - v.daum.net",
-      "published": "2026-04-16T02:59:40+00:00",
-      "summary": "고속 충전 가능한 ‘꿈의 배터리’ 전고체 배터리 소재 개발&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jSEs5eHZMLW96Y09DZjllTGVVaHExbFVzdlBxZHpYX0FmTUJhV0tlVkQzdEpwNHFNRDg1SkFhdFZaeW56b28zdHlwYi1jclk?oc=5"
         }
       ]
     },
