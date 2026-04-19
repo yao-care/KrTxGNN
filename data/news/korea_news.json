@@ -1,19 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-19T07:25:05.759144+00:00",
+  "fetched_at": "2026-04-19T13:09:06.793697+00:00",
   "total_fetched": 54,
   "unique_count": 54,
-  "health_related_count": 34,
+  "health_related_count": 36,
   "news": [
     {
-      "id": "f587a64e091f",
-      "title": "생체적합 나노 입자, 새로운 바이러스 치료의 돌파구 - 유스연합",
-      "published": "2026-04-19T05:44:33+00:00",
-      "summary": "생체적합 나노 입자, 새로운 바이러스 치료의 돌파구&nbsp;&nbsp;유스연합",
+      "id": "1daec64ccd42",
+      "title": "'면역 훈련'으로 부작용 많은 면역억제제 없이 간 이식 성공 - 동아사이언스",
+      "published": "2026-04-19T09:00:00+00:00",
+      "summary": "'면역 훈련'으로 부작용 많은 면역억제제 없이 간 이식 성공&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QYm9Jck90Tmh4dTA2MnNqT0VHaElxUVhMQ24yMFNoNVBETVRKVlRNclU5ajBMZmgxZE5zd01xYVhfbE5OZ2k5NGFvN2l6ZnZNeXc?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmZy1tQm53Q3c0ZS00WElaVUpUZk5WZ3U3cUJNVlc4T1hsanZaUG8xOVJTcXYzRW5jZVJSelVieFltdnVVSEV6eGhHdXdYMWVmNGxMeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "93a8b5cc8f4f",
+      "title": "유전자 치료제 개발한 연구자들, ‘과학 오스카상’ 수상 - 조선일보",
+      "published": "2026-04-19T06:50:39+00:00",
+      "summary": "유전자 치료제 개발한 연구자들, ‘과학 오스카상’ 수상&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSkROTm5mX1NjZ3U3VG9WVXpTdmJuSXlGdWItem9yaWQybDNEV3Y4OVRjQ0EzdElPN2Fla010TktQOTgtWDZ0VXVlVHRDeGRuRGtNVTducHNJRmpRM0NkeXJtMnNsa1c2ZDVDemtGY003SVdocm9Ud21zcmlnaHlod2ZXWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6dd1c31eb276",
+      "title": "생체적합 나노 입자, 새로운 바이러스 치료의 돌파구 - 한국AI부동산신문",
+      "published": "2026-04-19T05:45:39+00:00",
+      "summary": "생체적합 나노 입자, 새로운 바이러스 치료의 돌파구&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2bml2Y3Uzd3E1UnIyeE5qTDdodUtjMWg0Y0ljNHJZUzdMd0dZV1hDQ3FNbk5zVjEzajRfT0NtelhTaV9PX2lacXdoTnE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eccb69c257b1",
+      "title": "올리브유 지방, 일반 지방과 달리 당뇨병 예방 효과 - 메디컬투데이",
+      "published": "2026-04-19T05:21:52+00:00",
+      "summary": "올리브유 지방, 일반 지방과 달리 당뇨병 예방 효과&nbsp;&nbsp;메디컬투데이Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDbkQwV2lNVGF2MWpMemcwR0VCSm9UQ1g3bDd5Z0RibWJBM1FFM2lKU2ROXzU0MDl0azQ2bDZFOVo3UHdPeG5RLWhDTmNvOXRYYWtoQl91aVdHbERB0gFsQVVfeXFMTl85N2pVMWtEeE52NERXSGk5azdHNkluOEZBX0hUMXlyQmR3TUdTVGxKVldqekxSRDRXcS1Tc0RKZktwWXpPN0pMM014cldvVXlzRGEybHNFZ3h0NU9RQXdCbDFHTURkU2VBeHpy?oc=5"
         }
       ]
     },
@@ -44,7 +80,7 @@
     {
       "id": "21b43e3fa636",
       "title": "[노동훈 원장의 사례로 본 재택의료] 사회적 의사 출동…이제 삐삐 대신 스마트폰 들고 달린다 - 헬스경향",
-      "published": "2026-04-19T02:17:37+00:00",
+      "published": "2026-04-19T02:17:00+00:00",
       "summary": "[노동훈 원장의 사례로 본 재택의료] 사회적 의사 출동…이제 삐삐 대신 스마트폰 들고 달린다&nbsp;&nbsp;헬스경향",
       "sources": [
         {
@@ -54,14 +90,26 @@
       ]
     },
     {
-      "id": "39382cbcfe84",
-      "title": "미래 팬데믹 막을 백신 혁명…HIV부터 암, 독감까지 인류의 다음 방어선 - 유스연합",
-      "published": "2026-04-19T01:40:13+00:00",
-      "summary": "미래 팬데믹 막을 백신 혁명…HIV부터 암, 독감까지 인류의 다음 방어선&nbsp;&nbsp;유스연합",
+      "id": "7952dc66fd4b",
+      "title": "미래 팬데믹 막을 백신 혁명…HIV부터 암, 독감까지 인류의 다음 방어선 - 한국AI부동산신문",
+      "published": "2026-04-19T01:41:17+00:00",
+      "summary": "미래 팬데믹 막을 백신 혁명…HIV부터 암, 독감까지 인류의 다음 방어선&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RSHpJMnk5SGU5YjRCYTZrQkViMUgyNF9kYTBsYW5JOGlPWDRTT0YtbVM4cmFhNV9QYVYxUHJHTjFzRmtwZTNJRXcxUzhtUlJpUnc?oc=5"
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DVVB4YV9kOXZIWEtwbGFUTm1iS2RkcnBmZmRDa2t5c3NCemxhby1ISmpxaXlqWUFNQWdXb3ZqOXhTU1VmVFlMSjBMd2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "86a33066f1f6",
+      "title": "‘이 나이’ 체중 증가, 조기 사망 위험 높인다…대규모 연구 결과 - 레이디경향",
+      "published": "2026-04-19T01:00:00+00:00",
+      "summary": "‘이 나이’ 체중 증가, 조기 사망 위험 높인다…대규모 연구 결과&nbsp;&nbsp;레이디경향\"살, 일찍 찔수록 더 위험\"… 20대 비만이 수명 바꿨다&nbsp;&nbsp;조선일보20대도 만성질환…건강은 ‘일상’에서 갈린다&nbsp;&nbsp;디지틀조선일보체중보다 ‘기간’이 더 중요…장기 과체중, 심혈관질환 위험 높인다&nbsp;&nbsp;메디컬투데이10대 후반~20대에 ‘확찐자’, 조기 사망 위험 70%↑[노화설계]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "레이디경향",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZGRMeGxhQXhFUE5mTnFNWFRlcThJdlVPU05wQUxXMHRqeHZjWjdLYUtISTI2M0RLazZrTVVxYnh0bE1EWklMTUdjUElwNmlIbXNSYzZZN3VSTXZ0WkxJM1RFYjU?oc=5"
         }
       ]
     },
@@ -78,18 +126,6 @@
       ]
     },
     {
-      "id": "2cfa90787e20",
-      "title": "‘이 나이’ 되기 전에 살찐 사람들, 일찍 사망할 위험 크다고? - 코메디닷컴",
-      "published": "2026-04-18T23:05:00+00:00",
-      "summary": "‘이 나이’ 되기 전에 살찐 사람들, 일찍 사망할 위험 크다고?&nbsp;&nbsp;코메디닷컴‘이 나이’ 체중 증가, 조기 사망 위험 높인다…대규모 연구 결과&nbsp;&nbsp;레이디경향\"살, 일찍 찔수록 더 위험\"… 20대 비만이 수명 바꿨다&nbsp;&nbsp;조선일보20대도 만성질환…건강은 ‘일상’에서 갈린다&nbsp;&nbsp;디지틀조선일보체중보다 ‘기간’이 더 중요…장기 과체중, 심혈관질환 위험 높인다&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ZYm9lSXBiaDRMem9qLWJhZXhBVnB6Tml4X1l4YThRX2tJSGZJMl9hMkotYkRRTGMzTUpXcUVXNHpfdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4c013f11ed95",
       "title": "\"2형 당뇨 환자, 오전보다 오후 운동이 혈당 조절에 더 효과적\" - 동아사이언스",
       "published": "2026-04-18T23:00:00+00:00",
@@ -98,6 +134,18 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GNGtKaHBLUlE5VFNraTFXRG9ELTg0b1NYNnBic1FNZzZrR2lhS3lRSHo2ZTgza3NGOVBrejRYUzBLT3NyejhaSVdLS2lQNkx0V3lVRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e18482aedfd",
+      "title": "폐 병변 놓친 병원…결국 폐암 4기 - 컨슈머치",
+      "published": "2026-04-18T22:51:00+00:00",
+      "summary": "폐 병변 놓친 병원…결국 폐암 4기&nbsp;&nbsp;컨슈머치",
+      "sources": [
+        {
+          "name": "컨슈머치",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ObHA2bzRtZ09ENHl6aWNuMXdwOE1pMEZsVGw1NmhvRVA0M0Yxcmp4U2pWU1RpUHBTSm82LVdyX2x2WWF1alJTMERDbDl2Y3lBTFZjWGdJb293dTBJWDR3NzREbFFxYzVRT2pn?oc=5"
         }
       ]
     },
@@ -174,26 +222,14 @@
       ]
     },
     {
-      "id": "91658cf123bd",
-      "title": "치매 걱정 줄이는 비밀? ‘여기’에 있었다 - 코메디닷컴",
-      "published": "2026-04-18T08:07:00+00:00",
-      "summary": "치매 걱정 줄이는 비밀? ‘여기’에 있었다&nbsp;&nbsp;코메디닷컴밤에 ‘이 모습’ 자주 보이는 사람, 치매 검사 받아라&nbsp;&nbsp;헬스조선오래 앉아있는 습관이 심장 건강을 위협하는데, 해결책은 무엇입니까?&nbsp;&nbsp;VOI.id사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;twig24.com치매 걱정 줄이는 비밀? '여기'에 있었다&nbsp;&nbsp;네이트",
+      "id": "d531f5f2373e",
+      "title": "환절기 증가하는 안면신경마비, 빠른 치료가 회복의 열쇠 - 이데일리",
+      "published": "2026-04-18T06:01:02+00:00",
+      "summary": "환절기 증가하는 안면신경마비, 빠른 치료가 회복의 열쇠&nbsp;&nbsp;이데일리“안면마비·관절질환, 한방에서의 권장되는 치료법은?”&nbsp;&nbsp;v.daum.net\"매일 눈에 테이프 붙이고 잡니다\"… 이런 사람 10만명이나 된다는데&nbsp;&nbsp;매일경제봄철 안면마비, 피로 쌓일수록 위험 커진다&nbsp;&nbsp;더파워거울 속 얼굴이 어색하다면…놓치기 쉬운 안면신경마비 신호&nbsp;&nbsp;매경헬스",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tZjN4N2dLUzlUY0l2Qzl1T1I5X0xzVzFqYkExd05OekFKUTd2WlkwUXVaa3pCNmU0RXd2bW5pUUFhQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89414c4e7948",
-      "title": "환절기 증가하는 안면신경마비, 빠른 치료가 회복의 열쇠 - 네이트",
-      "published": "2026-04-18T06:02:00+00:00",
-      "summary": "환절기 증가하는 안면신경마비, 빠른 치료가 회복의 열쇠&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zcFJHYmxvRjhmWXJueGc5dHotek0zVWtTemo5NWFJemJWbXR1TVBGeHBrbkxxdlQ5OGdYeVIxNldtS3ZsSGlBSDFZVW9wczlWMVpz?oc=5"
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOamVkX2JBVWt3UjBoandqWU9LZ2s4YS1ZWlNBblVYTzFpdi10WmpOc2pTdVNHZGN6RUpfY2ctZ3AxcmRjTm56WV9tLVFiRDdmQWpLaEQyVmY0b1REVjlHcVJISGxpYzZ1d0dWNFdiSDVrQnJFQ2xaMzhaRFhOT2NnYw?oc=5"
         }
       ]
     },
@@ -222,14 +258,14 @@
       ]
     },
     {
-      "id": "ba2d1a1bcdae",
-      "title": "폐렴구균 77%는 '50대 이상'…\"성인 전용 백신 맞아야\" - 네이트",
-      "published": "2026-04-18T05:01:00+00:00",
-      "summary": "폐렴구균 77%는 '50대 이상'…\"성인 전용 백신 맞아야\"&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "id": "b051206cc02c",
+      "title": "폐렴구균 77%는 ‘50대 이상’…“성인 전용 백신 맞아야” - 동아일보",
+      "published": "2026-04-18T05:22:48+00:00",
+      "summary": "폐렴구균 77%는 ‘50대 이상’…“성인 전용 백신 맞아야”&nbsp;&nbsp;동아일보폐렴구균 77%는 '50대 이상'…\"성인 전용 백신 맞아야\"&nbsp;&nbsp;뉴시스한국MSD, 배우 손현주와 '캡박시브 광고 캠페인' 진행&nbsp;&nbsp;서울파이낸스[이엠디] 한국화이자제약, ‘뉴 에라(Pneu Era) 프리베나®20 심포지엄’에서 프리베나 패밀리의 임상 경험을 바탕으로 성인 폐렴구균 예방 전략 공유&nbsp;&nbsp;eMD Medical NewsMSD, 성인 폐렴구균 예방 인식 개선 캠페인 전개&nbsp;&nbsp;약업신문",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUaS1aNF8yQlBLeGNGVDMxTnBsTzZBX1lQN1RMdHRLQTcwaUp1U0V6V1lyQkx3aWphZi02WTdGaDM1aVNYS0p4STQ3QktUNEI4WDJF?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rUTRINjl3QzZidHN2WVM0S3h1ZGxYejdVU2l1d1lWYV9lZFJIZEEyMGU1cnFGUUU3MjRZeXFBMTNaNFVHVjB6TkNrWlZnNVFDQ1FqX1Y5RlBhdXNieURBM3R1Ym81OFRFOHdrYXoxSWlRaW12UUHSAWZBVV95cUxNcXNCSXJVSzlUOW9NZktHX1lCUGRUTUJxeF9RNlJJcmJ6SFRVeXNPMVRGd3JVZ2VaQm90ZndFN2ZaVlRNaHI1aUFYNEs3TTh1ZGQ4VkE0Nm5pVzdxOVJOZV9BMFYwSlE?oc=5"
         }
       ]
     },
@@ -266,6 +302,18 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13TXB5bGhTZ2hCQlRiNFpqbkZnOXZoWWJWU19lVVdIbV9hWFM5b2RYTmVkc0J6dFZtdVNQVE13ZUJmRFQwbVFYTHo3bUEzVmRITzY4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df83dac2fa24",
+      "title": "간단한 생활 습관만 바꿔도 치매 위험 ‘25%↓’[노화설계] - 동아일보",
+      "published": "2026-04-18T01:00:00+00:00",
+      "summary": "간단한 생활 습관만 바꿔도 치매 위험 ‘25%↓’[노화설계]&nbsp;&nbsp;동아일보밤에 ‘이 모습’ 자주 보이는 사람, 치매 검사 받아라&nbsp;&nbsp;헬스조선오래 앉아있는 습관이 심장 건강을 위협하는데, 해결책은 무엇입니까?&nbsp;&nbsp;VOI.id사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;twig24.com치매 걱정 줄이는 비밀? '여기'에 있었다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpRGo5MUZEY0dQMGFpN2JraW5UQWFKaVRVX2h2R0d1X3o2UFVoS0dPOGpRSjhFMG1UZjNGMVRiNmlZdFdZZjdvUE9jZGl0Y21Rbktrby1XZWREQ2EycXRQUlZpeGs4cW1MSnFLeG0ya9IBZkFVX3lxTE01NHZIbVljeWN0TW9kUTBVUW1BeXM4ckFXNlh5M29mc1J0elhKWVdqS05HQVpwSFp1djV2bl9DYnp3TzlUckZuR1k0cEhiVlB0TllsNlI4aHVJYnNHSUt1ZUJUQlpVdw?oc=5"
         }
       ]
     },
@@ -318,14 +366,14 @@
       ]
     },
     {
-      "id": "67ada142cdd3",
-      "title": "ESCMID 글로벌: 영국 보건안전청 대규모 연구, 산모 RSV 백신 접종이 영아 입원 위험을 80% 이상 감소시킨다는 결과 발표 - 美通社",
-      "published": "2026-04-17T21:01:00+00:00",
-      "summary": "ESCMID 글로벌: 영국 보건안전청 대규모 연구, 산모 RSV 백신 접종이 영아 입원 위험을 80% 이상 감소시킨다는 결과 발표&nbsp;&nbsp;美通社",
+      "id": "e08450bc474b",
+      "title": "ESCMID 글로벌: 영국 보건안전청 대규모 연구, 산모 RSV 백신 접종이 영아 입원 위험을 80% 이상 감소시킨다는 결과 발표 - 코리아이글뉴스",
+      "published": "2026-04-17T22:01:00+00:00",
+      "summary": "ESCMID 글로벌: 영국 보건안전청 대규모 연구, 산모 RSV 백신 접종이 영아 입원 위험을 80% 이상 감소시킨다는 결과 발표&nbsp;&nbsp;코리아이글뉴스",
       "sources": [
         {
-          "name": "美通社",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LQWhXVWMyUUpyQURpTjJtR1haV1BPWUY0bm5qMTFFN09DdndPWnhvaHFKc2RqbEoxUXRQbmpZUGRzSXpqRGRyaHA0TzloajQtSW5vYTU0R3JyZw?oc=5"
+          "name": "코리아이글뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zQVdQTlJsQUpKM0VFR25Ia3BybUE4TE9pTGtHRS1HMDVNVWx1OERaMDdHQTA5SEs4MnZpbWtoQ3VMTl9EZTd0X0RFNFpxM0UtLU5ma0RORlhLTl9TdE1DZG1yZGtfOEJ1N09ObjBVa3VjZw?oc=5"
         }
       ]
     },
@@ -354,42 +402,6 @@
       ]
     },
     {
-      "id": "1364129c5fda",
-      "title": "비만일 때 백신 효과 떨어져…‘폐 면역 세포’가 감염 방어 돕는다 - 하이닥",
-      "published": "2026-04-17T10:00:00+00:00",
-      "summary": "비만일 때 백신 효과 떨어져…‘폐 면역 세포’가 감염 방어 돕는다&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rbzV0Mmlya1A3aFVkc3ZCb3BCZm91Y2hEOHlkdkNNR1M1aFRPcVRjSUp5QVRBT3o3YUthS1F0UDhQU0djWWdCcVBJaGpQdjFRSzU0cmlyZTFBYVVyYzhHRE16RHpKZ3YyVUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10c3bd1f96e9",
-      "title": "“피 한 방울로 충분”… 증상 나타나기 전에 ‘알츠하이머’ 잡아낸다 - 코메디닷컴",
-      "published": "2026-04-17T08:06:00+00:00",
-      "summary": "“피 한 방울로 충분”… 증상 나타나기 전에 ‘알츠하이머’ 잡아낸다&nbsp;&nbsp;코메디닷컴‘피 한 방울’로 알츠하이머 예측, 치매 단계도 분석&nbsp;&nbsp;v.daum.net혈액 한 방울로 알츠하이머 진단…경기대 하영근 교수팀, '초고감도 바이오센서' 개발&nbsp;&nbsp;경기일보“당신 20년 뒤 치매 덮친다” 정확도 91% ‘피 한방울 검사’&nbsp;&nbsp;중앙일보뇌 스캔보다 빠르다…피 한 방울로 알츠하이머 발병 수년 전 예측&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rV1VnZlUyb0Noejk2dDBFT0lGdkVCLVJIeFRGRG5FNzhhX2F1LXQ3ekdVT2U1aF9Bc3hCT0w3V2xkQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a590e0cc3670",
-      "title": "스마트폰만으로 우울·불안 고위험군 조기 선별 가능성 확인 - 병원신문",
-      "published": "2026-04-17T07:08:55+00:00",
-      "summary": "스마트폰만으로 우울·불안 고위험군 조기 선별 가능성 확인&nbsp;&nbsp;병원신문우울증 고위험군, 생활 반경 좁고 더 늦게 잠든다&nbsp;&nbsp;네이트고려대 안암병원, 스마트폰 기반 ‘디지털 피노타이핑’ 기술 개발&nbsp;&nbsp;한국아이닷컴정신과 안 가고 우울증 판별 가능해지나… “스마트폰으로 조기 선별”&nbsp;&nbsp;헬스조선스마트폰만으로 '우울증 고위험군' 골라낸다…조기 판별모델 구축 - 머니투데이&nbsp;&nbsp;mt.co.kr",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TNV81eWxSTU4wNmhWNkVual9OY2pZYUJ1bGZFNzFZc1dFTTNtMzhuUE5UcVNBUnRWT3NkZWpIUm44b0J6YVV2czVZQUZzLWtwczZyU0dpVUZYdnlvdUd1SXpLcnlsUUdSSXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0fb7192ef317",
       "title": "세균에서 발견된 효소, 수십 년 DNA 합성 원리 뒤흔든다…생물학 교과서 다시 쓰나 - 동아사이언스",
       "published": "2026-04-17T06:45:00+00:00",
@@ -410,6 +422,18 @@
         {
           "name": "AI타임스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVUFTQkhEOXZrcS01SjIzXzlVNlNKTVc5RFJ5X1JFZUlXZlVnbUJaQk1UeU5aVkRtRUFIM09XN1AtbXRhb3M0QnZTOUJOaGRwOUg0SFlPSVZkNE1LXzJpZzVYU0E2SWc1X3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb8f15c2634c",
+      "title": "암수로 나뉘지 않는 ‘퀴어한 자연’ [.txt] - 한겨레",
+      "published": "2026-04-16T22:46:00+00:00",
+      "summary": "암수로 나뉘지 않는 ‘퀴어한 자연’ [.txt]&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Idy13eTBhaEhsZTZDTmllQkdzSjhZT0N1dzNiNFkyeXpzWjQ0VTUwcWlUQ3M1RF81ejhrSFhFajJETmNNallhZTMtZndZTDNWTzd2ZjRGcFdaTFROSG5pUWtaTQ?oc=5"
         }
       ]
     }
