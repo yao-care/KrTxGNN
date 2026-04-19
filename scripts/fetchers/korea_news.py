@@ -45,7 +45,7 @@ REQUEST_DELAY = 1.0  # 초
 def generate_id(title: str, link: str) -> str:
     """뉴스 ID 생성 (제목과 링크의 해시 기반)"""
     content = f"{title}:{link}"
-    return hashlib.md5(content.encode()).hexdigest()[:12]
+    return hashlib.sha256(content.encode()).hexdigest()[:12]
 
 
 def parse_source(entry, default_source: str = "Unknown") -> dict:

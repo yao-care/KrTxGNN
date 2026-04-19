@@ -6,7 +6,7 @@
 ## 입력
 Evidence Pack JSON을 받게 됩니다. 내용:
 - `drug`: 약물 기본 정보 (inn, drugbank_id, original_moa)
-- `korea_regulatory`: 한국 허가증 및 시판 현황
+- `taiwan_regulatory`: 한국 허가증 및 시판 현황
 - `predicted_indications`: TxGNN이 예측한 새로운 적응증 (임상시험 및 문헌 포함)
 - `safety`: 안전성 정보 (DDI, 경고, 금기)
 
@@ -36,12 +36,12 @@ Evidence Pack JSON을 받게 됩니다. 내용:
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [korea_regulatory.licenses에서 추출, 첫 번째 비어 있지 않은 approved_indication_text 사용] |
+| 기존 적응증 | [taiwan_regulatory.licenses에서 추출, 첫 번째 비어 있지 않은 approved_indication_text 사용] |
 | 예측 신규 적응증 | [predicted_indications[0].disease_name에서 추출] |
 | TxGNN 예측 점수 | [predicted_indications[0].txgnn.score에서 추출, 백분율로 변환] |
 | 근거 수준 | [임상시험 및 문헌 수에 따라 L1-L5 판정] |
-| 한국 시판 현황 | [korea_regulatory.market_status에서 추출] |
-| 허가증 수 | [korea_regulatory.total_licenses에서 추출] |
+| 한국 시판 현황 | [taiwan_regulatory.market_status에서 추출] |
+| 허가증 수 | [taiwan_regulatory.total_licenses에서 추출] |
 | 권장 결정 | [Go / Hold / Proceed with Guardrails] |
 
 ---
@@ -92,7 +92,7 @@ MOA 데이터가 없는 경우 명확히 기재:
 
 ### 한국 시판 정보
 
-`korea_regulatory.licenses`에서 추출하여 표 작성:
+`taiwan_regulatory.licenses`에서 추출하여 표 작성:
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
