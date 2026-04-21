@@ -1,15 +1,111 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-20T19:11:38.880750+00:00",
-  "total_fetched": 36,
-  "unique_count": 35,
-  "health_related_count": 21,
+  "fetched_at": "2026-04-21T02:53:36.873208+00:00",
+  "total_fetched": 47,
+  "unique_count": 46,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "4c17a04fb00a",
+      "title": "하루 8시간 넘게 앉는 직장인…“30분만 줄여도 사망 위험 낮아진다” - 매일경제",
+      "published": "2026-04-21T01:52:19+00:00",
+      "summary": "하루 8시간 넘게 앉는 직장인…“30분만 줄여도 사망 위험 낮아진다”&nbsp;&nbsp;매일경제“염증 생기고 심장에 부담”… 당장 멈춰야 할 ‘이 행동’, 뭐야?&nbsp;&nbsp;헬스조선“운동해도 늙는 이유 따로 있어”… ‘이 습관’ 노화 속도 갈랐다&nbsp;&nbsp;코메디닷컴‘이 습관’ 노화 속도 갈랐다&nbsp;&nbsp;원주투데이많은 사람들이 예상하지 못했을 사실이지만, 이 익숙한 '원인'은 심장마비 위험을 두 배로 높입니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Na1BRRzhuVTN4b3F0MVVOS2FpR3JOaXlPYVBtSzQ1aWpPNlZyMkRaaDhOenFTTTdDMDVFNWNheTVPd2JydzJuWWRHblZxUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3cca9ed6041f",
+      "title": "인지 강화 활동이 알츠하이머 발병 5년 지연시켜 - 바이오타임즈",
+      "published": "2026-04-21T01:34:11+00:00",
+      "summary": "인지 강화 활동이 알츠하이머 발병 5년 지연시켜&nbsp;&nbsp;바이오타임즈치매 걱정 줄이는 비밀? ‘여기’에 있었다&nbsp;&nbsp;코메디닷컴간단한 생활 습관만 바꿔도 치매 위험 ‘25%↓’[노화설계]&nbsp;&nbsp;동아일보밤에 ‘이 모습’ 자주 보이는 사람, 치매 검사 받아라&nbsp;&nbsp;헬스조선오래 앉아있는 습관이 심장 건강을 위협하는데, 해결책은 무엇입니까?&nbsp;&nbsp;VOI.id",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKa2dIdy1LS0QzaENWNEJCa1J6UDVGZDhJbHUwTHllWTN6eEUzek1UejVGaTNVQzBvN0lNRExBR1dMVm9fc0c3eU12T3B0dzhKZ3NJak8wTTFrV19wYmJlU0M1blhGUDFDX0Q2Rw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6c4fa562e1d",
+      "title": "사라져가는 4가 독감백신, '3가 체제' 전환 시장 영향은? - PRESS9",
+      "published": "2026-04-21T01:18:24+00:00",
+      "summary": "사라져가는 4가 독감백신, '3가 체제' 전환 시장 영향은?&nbsp;&nbsp;PRESS9",
+      "sources": [
+        {
+          "name": "PRESS9",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RUGQ5a1hZdW16bGx4aUtwSnFPN2lmaDNWUDh5NWo4S0h4ZE51M1JnRzFVUXFzaER4UUU4WkRadkEwTXd6b1N1MnVGV25oc2c1b3gxLWdXNDI5aXlib2RZY2JfX0U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2325755621ef",
+      "title": "“스파이 암살?” 美 핵·우주 과학자 10명 연쇄 사망·실종…트럼프도 나섰다 - 매일경제",
+      "published": "2026-04-21T00:47:47+00:00",
+      "summary": "“스파이 암살?” 美 핵·우주 과학자 10명 연쇄 사망·실종…트럼프도 나섰다&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pUElGYmhjSUY5RC1aVGZFaXhPcWREclF0SUtOWEMwSkg5V2hBYzVfbzlSU0NpWC1KV200dzJSN3RGaU1QQ3FHTmI4Qnd0Z2xac1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "724aa70a95d8",
+      "title": "몸속 혈액 성분 바꾸는 온실가스… “50년 뒤 건강 상한선 도달” - 한겨레",
+      "published": "2026-04-21T00:36:00+00:00",
+      "summary": "몸속 혈액 성분 바꾸는 온실가스… “50년 뒤 건강 상한선 도달”&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KcWNHeFNKMWxOS2FnVmtSYWZNUmNVWmVOcG9LVTdDZ21iRzJBU3h5eThEQm5iYTNlbk5haEtuNEVmeXh5cWE1Vnc3UWljTDU5R2Y0SUpoS0V3TDVzdFBRNmNyVG1kLU8zLVl2aDY4M3R0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb48ec369633",
+      "title": "“비만은 질환, 노력으로 안돼”…건보에 치료제 넣자는 마운자로 부사장 - 매일경제",
+      "published": "2026-04-20T21:04:30+00:00",
+      "summary": "“비만은 질환, 노력으로 안돼”…건보에 치료제 넣자는 마운자로 부사장&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yS2JyeUpaRkM4SXgxb081OGJHQjBxdDNwTlV4bGpkWFdEYnVLSmRkMmRYcDJyTlhCZHZ5YkE0MnZKTzU1WUVTbEZZRkFTUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "afb9984636e8",
+      "title": "\"'졸린 비염약'은 옛말…운전도 공부도 지키는 3세대 항히스타민 알레그라의 진화\" - 약사공론",
+      "published": "2026-04-20T20:51:00+00:00",
+      "summary": "\"'졸린 비염약'은 옛말…운전도 공부도 지키는 3세대 항히스타민 알레그라의 진화\"&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pNXo4ZUtsVFBBc3cwRlBQYU10LWpOM1otV3ZKODNTNXlGRGNOeUlkQnhtMU03eHh2MEJuVGhJaDlEU20zR21FOERieDRlXy1ha2xHbHNqOUJRX2Q0cnBRWEtlb2NpcTY5WlBNUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e9b16562a67c",
+      "title": "목에서 ‘갈색 덩어리’ 나오더니… 폐암 시한부 선고 받은 女, 무슨 일? - 헬스조선",
+      "published": "2026-04-20T18:40:00+00:00",
+      "summary": "목에서 ‘갈색 덩어리’ 나오더니… 폐암 시한부 선고 받은 女, 무슨 일?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wWjNKNm9samJ1ZENQaDZYdXVveDNHN2RoV25KcVJMWENzSHpmVVptZjVPVFBSSkVvUGFoWlNQZlhoNEpvSkZCekpOMTh0aDhuSW1rTW9aMktpcHp2VndiRDBvektSeGh3eHo3bnZMcTgxVm1BRHc?oc=5"
+        }
+      ]
+    },
     {
       "id": "256587ebaa26",
       "title": "고려대 공동 연구팀, ‘뇌 오가노이드’ 활용 알츠하이머 실시간 진단 플랫폼 개발 - 인더스트리뉴스",
       "published": "2026-04-20T09:30:31+00:00",
-      "summary": "고려대 공동 연구팀, ‘뇌 오가노이드’ 활용 알츠하이머 실시간 진단 플랫폼 개발&nbsp;&nbsp;인더스트리뉴스\"줄기세포로 알츠하이머 조기 진단\"…비침습 플랫폼 개발&nbsp;&nbsp;newsis.com“당신 20년 뒤 치매 덮친다” 정확도 91% ‘피 한방울 검사’&nbsp;&nbsp;중앙일보미니 뇌 만들어 알츠하이머병 진행 실시간 추적&nbsp;&nbsp;v.daum.net혈액으로 알츠하이머 치매 단계도 예측…환자 85% \"검사 받겠다\"&nbsp;&nbsp;동아사이언스",
+      "summary": "고려대 공동 연구팀, ‘뇌 오가노이드’ 활용 알츠하이머 실시간 진단 플랫폼 개발&nbsp;&nbsp;인더스트리뉴스\"줄기세포로 알츠하이머 조기 진단\"…비침습 플랫폼 개발&nbsp;&nbsp;newsis.com단지 부모 치매여서? 받지마라…정확도 91% 혈액검사 부작용&nbsp;&nbsp;v.daum.net치매 조기 진단 길 열었다…알츠하이머 환자 ‘미니 뇌’ 모델 구현해 실시간 분석&nbsp;&nbsp;BRIC“당신 20년 뒤 치매 덮친다” 정확도 91% ‘피 한방울 검사’&nbsp;&nbsp;중앙일보",
       "sources": [
         {
           "name": "인더스트리뉴스",
@@ -18,10 +114,22 @@
       ]
     },
     {
+      "id": "8f465298790a",
+      "title": "우리나라에서 처음으로 ‘공룡 새알 화석’ 발견됐어요! - 조선일보",
+      "published": "2026-04-20T08:59:00+00:00",
+      "summary": "우리나라에서 처음으로 ‘공룡 새알 화석’ 발견됐어요!&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFJ4WTFKaDBlc1VFcTBIX1loN0dBMHBzNWYwenhVZERNSGg2NW9IcW84Q1d3U3lnMWp1UVYyWm44bTRDdGFGOXc5ZU1GRF9nV2hTb3QzdmRrMzFTai1ZX2lCSFNFWk14N0VFYVF5OTBYWTJ3ZVRGR2Q2QTZsSEZITl9QR3FyRTJRLUh6M3A0QW5kbEF4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f6dbf89c7d44",
       "title": "6세 아이 살 쪘다고 밥 줄였다간…“근육 성장 방해할 수도” - 하이닥",
       "published": "2026-04-20T08:30:00+00:00",
-      "summary": "6세 아이 살 쪘다고 밥 줄였다간…“근육 성장 방해할 수도”&nbsp;&nbsp;하이닥어렸을때 살은 전부 키로 간다고?…\"아주 위험한 발상\"&nbsp;&nbsp;newsis.com살만 찐 줄 알았던 아이, 호르몬·면역계가 무너지고 있다&nbsp;&nbsp;경향신문어릴 때 살, 정말 키로 갈지도… “지방 아닌 근육 성장 과정”&nbsp;&nbsp;헬스조선\"소아청소년 5명 중 1명 비만\"…생활습관 관리가 해법&nbsp;&nbsp;라이프인",
+      "summary": "6세 아이 살 쪘다고 밥 줄였다간…“근육 성장 방해할 수도”&nbsp;&nbsp;하이닥어렸을때 살은 전부 키로 간다고?…\"아주 위험한 발상\"&nbsp;&nbsp;newsis.com살만 찐 줄 알았던 아이, 호르몬·면역계가 무너지고 있다&nbsp;&nbsp;경향신문\"소아청소년 5명 중 1명 비만\"…생활습관 관리가 해법&nbsp;&nbsp;라이프인어릴 때 살, 정말 키로 갈지도… “지방 아닌 근육 성장 과정”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "하이닥",
@@ -78,14 +186,26 @@
       ]
     },
     {
-      "id": "12e7a384701c",
-      "title": "긍정적 사고가 뇌 노화 늦춘다… 인종·기저질환 상관없이 치매 위험 15%↓ - 하이닥",
-      "published": "2026-04-20T04:00:00+00:00",
-      "summary": "긍정적 사고가 뇌 노화 늦춘다… 인종·기저질환 상관없이 치매 위험 15%↓&nbsp;&nbsp;하이닥간단한 생활 습관만 바꿔도 치매 위험 ‘25%↓’[노화설계]&nbsp;&nbsp;v.daum.net밤에 ‘이 모습’ 자주 보이는 사람, 치매 검사 받아라&nbsp;&nbsp;헬스조선오래 앉아있는 습관이 심장 건강을 위협하는데, 해결책은 무엇입니까?&nbsp;&nbsp;VOI.id사무실 의자가 ‘질병 제조기’?…“하루 8시간 앉아 있으면 치매 위험 커져”&nbsp;&nbsp;twig24.com",
+      "id": "821a7d4ab369",
+      "title": "넘어졌을 뿐인데 걷지 못한다? “노년 낙상, 골다공증 골절이 더 무섭다” - 스포츠월드",
+      "published": "2026-04-20T00:47:35+00:00",
+      "summary": "넘어졌을 뿐인데 걷지 못한다? “노년 낙상, 골다공증 골절이 더 무섭다”&nbsp;&nbsp;스포츠월드“4m 걷는데 5초이상 걸린다고?” 어버이날 용돈보다 먼저 챙겨야 할것[생활속 건강TALK]&nbsp;&nbsp;v.daum.net낙상은 사고가 아니라 ‘시그널’… 낙상 후 눕는 사람과 뛰는 사람 차이&nbsp;&nbsp;조선일보넘어졌을 뿐인데 걷지 못한다? \"노년 낙상, 골다공증 골절이 더 무섭다\"&nbsp;&nbsp;네이트가장 확실한 노후자산, 금보다 ‘근’…60살 이전 근육이 운명 가른다 [건강한겨레]&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vdlVDeFNnQmpjNUVCc2dvc3Z3Y0h1OGY3aG9pMnlwWEd5MjlaNWFHTkVURl9RcmNBbE9PbXgxc0h1YlN0TzRPQVJFN0hUQURfMV9RdTVxeVR3U0JrZmxreHoxdEF6V1F6a2c?oc=5"
+          "name": "스포츠월드",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LRXBtc2xHd25BQlZHWVRkZFpzYU94LTZvVFlZb2R1Y0pwYUdFTld2STlxenJWMkVFOHdCT1JaTWlzUFh3Z2hIQUdUbzVTVGUtZkVOWE9IV3ZjTGlIbVl0TWtn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45ba5b0e2186",
+      "title": "인지력 감퇴 막으려면...딸기, 고추 자주 먹어야 하는 이유 - 코메디닷컴",
+      "published": "2026-04-20T00:07:00+00:00",
+      "summary": "인지력 감퇴 막으려면...딸기, 고추 자주 먹어야 하는 이유&nbsp;&nbsp;코메디닷컴식습관을 바꾸고 싶다면 ‘지금’…봄에 건강식이 쉬워지는 이유&nbsp;&nbsp;레이디경향인지력 감퇴 막으려면…딸기, 고추 자주 먹어야 하는 이유&nbsp;&nbsp;네이트봄철 면역력에 좋은 논산 딸기&nbsp;&nbsp;매경헬스딸기·블루베리 꾸준히 먹으면 행복·낙관 유지 최대 16%↑&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA0SXdMcVc4ckRxWGRaTU13VVFlS21yUERIeW5OUjNySWc0X1JIUTEyUEx5OW5ReDgtVlhxRmdHSXZ0QQ?oc=5"
         }
       ]
     },
@@ -126,18 +246,6 @@
       ]
     },
     {
-      "id": "29e8f8b34099",
-      "title": "“치매 진행 늦추는 약 있지만… 비용 부담 탓 포기하는 환자 많아” - 헬스조선",
-      "published": "2026-04-19T23:00:00+00:00",
-      "summary": "“치매 진행 늦추는 약 있지만… 비용 부담 탓 포기하는 환자 많아”&nbsp;&nbsp;헬스조선[기고] 해빙(解氷)&nbsp;&nbsp;경상투데이뇌 스캔보다 빠르다…피 한 방울로 알츠하이머 발병 수년 전 예측&nbsp;&nbsp;네이트[기고] 치매 100만 시대 대응 방식은 치료가 아닌 ‘지연’이다&nbsp;&nbsp;교육플러스예지원 “뇌가 쪼그라들면 치매 온다?” (이토록 위대한 몸)&nbsp;&nbsp;bntnews.co.kr",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wU1dqSENGSFo0TEFXdEFYTmNFb0wtMVh4Tmp4dnpTRW51d2JaNDFubjJDcVdGY01IV3E3bG5vd1BUQU42ZGtUXzFLN19xcTh5TURSb1M5T2ptZ3dwNjBmQzg4R2VsYUE4SFBlMl9KclNxc2g4X1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "09afda4145ea",
       "title": "“과제명에 ‘AI’ 빠지면 떨어진다...AI 비중 낮은 연구도 지원 필요해” - 조선일보",
       "published": "2026-04-19T22:02:03+00:00",
@@ -150,14 +258,26 @@
       ]
     },
     {
-      "id": "2296b140f47b",
+      "id": "8ebe2ebab802",
+      "title": "[기고] 치매 100만 시대 대응 방식은 치료가 아닌 ‘지연’이다 - 교육플러스",
+      "published": "2026-04-19T14:47:07+00:00",
+      "summary": "[기고] 치매 100만 시대 대응 방식은 치료가 아닌 ‘지연’이다&nbsp;&nbsp;교육플러스“치매 진행 늦추는 약 있지만… 비용 부담 탓 포기하는 환자 많아”&nbsp;&nbsp;헬스조선[기고] 해빙(解氷)&nbsp;&nbsp;경상투데이뇌 스캔보다 빠르다…피 한 방울로 알츠하이머 발병 수년 전 예측&nbsp;&nbsp;네이트[김민석의 건강과 음악] 당신의 뇌를 지키는 14가지 방어막:생애 주기별 뇌 관리법&nbsp;&nbsp;경북신문",
+      "sources": [
+        {
+          "name": "교육플러스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16bVZNOUM5MkJHdE5nNDNBVUwxN3didmV2VndoTHRPcWhMTVA0UlJucE9Ub2tqdHRXUVptSmFFWHdTREJvS2hlYzQ3czE0SmZEeXhkQUExc0hlXzNFQ2FlMlNLV2N1Wkk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68fd6f304bf8",
       "title": "\"자전거, 관절엔 약이지만 독 될 수도\"… 올바른 자세·운동량이 안전 좌우 - 보건신문",
       "published": "2026-04-19T04:53:35+00:00",
-      "summary": "\"자전거, 관절엔 약이지만 독 될 수도\"… 올바른 자세·운동량이 안전 좌우&nbsp;&nbsp;보건신문[헬스경향TV] 봄날 자전거…관절염엔 OK, 디스크환자는 실내 자전거부터!&nbsp;&nbsp;헬스경향[스타★건강] 권화운 자전거 배달, 따라해도 될까?…'이런 사람'에겐 독&nbsp;&nbsp;매경헬스자전거 무턱대고 타면 무릎 망친다 관절 건강 지키는 올바른 자세 : 라이프&nbsp;&nbsp;재경일보“자전거, 관절에 좋지만 주의 필요”&nbsp;&nbsp;재활뉴스",
+      "summary": "\"자전거, 관절엔 약이지만 독 될 수도\"… 올바른 자세·운동량이 안전 좌우&nbsp;&nbsp;보건신문자전거 오래 타면 독 될 수도…허리·회음부 통증 주의&nbsp;&nbsp;v.daum.net[비바100] “관절엔 좋지만 주의 필요”…대표 유산소 자전거, 이렇게 타면 ‘안전’&nbsp;&nbsp;브릿지경제자전거 무턱대고 타면 무릎 망친다 관절 건강 지키는 올바른 자세 : 라이프&nbsp;&nbsp;재경일보[스타★건강] 권화운 자전거 배달, 따라해도 될까?…'이런 사람'에겐 독&nbsp;&nbsp;매경헬스",
       "sources": [
         {
           "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YZkJmQUxXcXdXb3lyRVdHaUNseVl2S3lrUG9ZTEtLS2hnY2cteHlxeDFXdjZhdWxnT3ZSMmtTYm9YRFU1Znp2czVxVmE0V2tfWmRlbFQwZXNJNzFOVHBkVDVB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CU1JLMllZWFJQR0Zyd2k0WHA3TC1nZTRVbnZxQ2Nab1FWUHdIZEhVMUZiWElWZEU0N2tkbHA3OTlvTFhGcW81Wm9LUVF2WFRUVGYxUWxVSVJUYloxRjVz?oc=5"
         }
       ]
     },
@@ -170,18 +290,6 @@
         {
           "name": "헬스경향",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2Uy1wOWpnNXJIWTVHQjFTVXMxc2tYSTBwSXZfdHVVUkVrUm5wZHVpQ1RGNlpobXIwd3l3Q1lzd0VvbjVzc09BeDVuV2F1dkpLLTFKLXdLRHZ1M2lqWVJ5VmdSYThNUVNZRFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f21dfd9d766",
-      "title": "유방암 재발 환자, 호르몬 연장 치료는 꼭 필요할까 - 히트뉴스",
-      "published": "2026-04-18T21:06:00+00:00",
-      "summary": "유방암 재발 환자, 호르몬 연장 치료는 꼭 필요할까&nbsp;&nbsp;히트뉴스",
-      "sources": [
-        {
-          "name": "히트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0MVQwcEY0bTF5aDFEWTJ1UHVsX3FpcXNTTFd6cFZDZUdESUhBYjVWT3VQSDhkS2gxSzBDeWphc0FnejNxTmlNMDdvdXZRT3BhNzJrY3FfUjZpdDNWUTIxM3pGaWx6TzRseS1V?oc=5"
         }
       ]
     },
@@ -213,7 +321,7 @@
       "id": "8f7351d089b5",
       "title": "성인 폐렴구균 인식 공백 겨냥…한국MSD, 손현주와 캠페인 진행 - 약사공론",
       "published": "2026-04-16T02:35:04+00:00",
-      "summary": "성인 폐렴구균 인식 공백 겨냥…한국MSD, 손현주와 캠페인 진행&nbsp;&nbsp;약사공론폐렴구균 77%는 '50대 이상'…\"성인 전용 백신 맞아야\"&nbsp;&nbsp;newsis.com한국MSD, 배우 손현주와 '캡박시브 광고 캠페인' 진행&nbsp;&nbsp;서울파이낸스[이엠디] 한국화이자제약, ‘뉴 에라(Pneu Era) 프리베나®20 심포지엄’에서 프리베나 패밀리의 임상 경험을 바탕으로 성인 폐렴구균 예방 전략 공유&nbsp;&nbsp;eMD Medical News한국MSD, 배우 손현주와 성인 폐렴구균 예방 캠페인 진행&nbsp;&nbsp;medicalworldnews.co.kr",
+      "summary": "성인 폐렴구균 인식 공백 겨냥…한국MSD, 손현주와 캠페인 진행&nbsp;&nbsp;약사공론폐렴구균 77%는 '50대 이상'…\"성인 전용 백신 맞아야\"&nbsp;&nbsp;newsis.com한국MSD, 배우 손현주와 '캡박시브 광고 캠페인' 진행&nbsp;&nbsp;서울파이낸스한국MSD, 배우 손현주와 성인 폐렴구균 예방 캠페인 진행&nbsp;&nbsp;medicalworldnews.co.kr한국 MSD, 배우 손현주와 성인 폐렴구균 예방 캠페인 전개&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "약사공론",
