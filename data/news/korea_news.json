@@ -1,10 +1,130 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-22T13:50:04.323886+00:00",
-  "total_fetched": 48,
-  "unique_count": 48,
-  "health_related_count": 26,
+  "fetched_at": "2026-04-22T19:19:16.930232+00:00",
+  "total_fetched": 107,
+  "unique_count": 107,
+  "health_related_count": 56,
   "news": [
+    {
+      "id": "0a012aaff819",
+      "title": "“혈당 조절 효과” 30kg 감량 미자, 아침마다 ‘이것’ 마시는 게 비결 - 헬스조선",
+      "published": "2026-04-22T17:20:00+00:00",
+      "summary": "“혈당 조절 효과” 30kg 감량 미자, 아침마다 ‘이것’ 마시는 게 비결&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tWkdvZDBwZ2lIeHNpRTBaUHRDRS1ObThPUXRhYTFsM1hNM3JvQ2hDU1c1anRUWFdOekVyNEl1RkYtdmxnN2MycklqXzFEb0FMaUY1YjEtN2RzNVJmaXZGTHhzWkE2b0V4Vl81cTgyQVVCOE5GUmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d482dd7e5630",
+      "title": "감기 바이러스, 암 치료의 비밀 열다 - 유스연합",
+      "published": "2026-04-22T16:51:15+00:00",
+      "summary": "감기 바이러스, 암 치료의 비밀 열다&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5QVB3Ml9haEZPRnkzX1BkdlYyNW9GR3ZiVlU2UW85dmVkLUc4azRPcDJtczZKZTRFVEdNdV9tY1NKLUpLY2p0SlAwS290bEZseHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "464c1e87d5f6",
+      "title": "[지금 일본에선(897)] 일본 내 홍역 확산에 외국인여행객들 주의보 - 뉴스투데이",
+      "published": "2026-04-22T16:33:00+00:00",
+      "summary": "[지금 일본에선(897)] 일본 내 홍역 확산에 외국인여행객들 주의보&nbsp;&nbsp;뉴스투데이일본백신학회, 홍역 감염자 증가에 따라 “어린이 정기 접종 확실히” 당부&nbsp;&nbsp;nhk.or.jp도쿄 홍역 확산에 여행객 ‘주의보’…황금연휴 앞두고 방역 변수 부상&nbsp;&nbsp;여행신문올해 벌써 236명, 작년의 3.6배…日 ‘후진국 감염병’ 비상 “40대 이상 주의해야”&nbsp;&nbsp;서울신문\"2020년 이후 증가세 가장 빨라\"…日 홍역 환자 236명, 한국은? - 머니투데이&nbsp;&nbsp;머니투데이",
+      "sources": [
+        {
+          "name": "뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQejBCa0ppSTFQbkcyN3pWSDN4TmlxT2xhMkV1bU51UlM1TEZ5SjdtV3FPNTVBSFU3ZDl3TlFRdEc2SGx5UlRfZ2ZjSlp1WXhNcWlueWRvZnQ0SWlYaFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "221e53b09ad5",
+      "title": "[Dr.이은봉의 의학 연구 다이제스트] 70세 넘어서는 대장내시경 검진 의미 없어 - 네이트",
+      "published": "2026-04-22T15:42:00+00:00",
+      "summary": "[Dr.이은봉의 의학 연구 다이제스트] 70세 넘어서는 대장내시경 검진 의미 없어&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81Z0pGZjNlOEhmN2dPVmIzbk5VVldIUHlpQjA5dGg4OWdwU2FLeXlmMm81bkVNa0Z4WFRwTWtHeDRUYTZmWGxpUGR6R1NmSnNSV3Rv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "15f249676967",
+      "title": "‘안경 없는 3D’ 현실로…국내 연구진 ‘2D·3D 전환 메타렌즈’ 개발 - 한겨레",
+      "published": "2026-04-22T15:20:00+00:00",
+      "summary": "‘안경 없는 3D’ 현실로…국내 연구진 ‘2D·3D 전환 메타렌즈’ 개발&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZWFhORWlTZjlEME5ZemNFdklMdG9XNFd6QzNwNGdnNHhEVGx3Wjh3SzBkYXZDX1h2T085eUw4NUl4ellrdUZvSldzUzNLZ1QxeTZPNDNHY1RNamdQbnFPMHRSSzI4QXhMdFV4YnhCTE10UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d76729f3adfb",
+      "title": "\"박쥐 코로나, 인간 침투 '새 통로' 발견\"…알파코로나 위험성 첫 규명[과학을읽다] - 아시아경제",
+      "published": "2026-04-22T15:00:00+00:00",
+      "summary": "\"박쥐 코로나, 인간 침투 '새 통로' 발견\"…알파코로나 위험성 첫 규명[과학을읽다]&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zVUx3dGlmUVF1ajZscUswZzA5dTljb0VqVlJILWpiYmFVdW53WUozVk5EMkJMSUh4c05TbEtucGpVV01VbWdxdmdhTDltTjl4MUZTbkcxaVRPemMtdmhuMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "825566e33412",
+      "title": "내가 당뇨라고? 2030세대가 가장 많이 놓치는 위험 신호 - civicnews.com",
+      "published": "2026-04-22T13:32:47+00:00",
+      "summary": "내가 당뇨라고? 2030세대가 가장 많이 놓치는 위험 신호&nbsp;&nbsp;civicnews.com‘마른 당뇨’ 유난히 많은 한국… 이유는?[밀당365]&nbsp;&nbsp;조선일보배달 앱에 월 60만원 쓰는데 ‘영양실조’?…20대들, '80대'로 가속 노화 [라이프+]&nbsp;&nbsp;v.daum.net마른당뇨 관리, ‘췌장 보호’가 핵심… 혈당스파이크 줄이는 방법은?&nbsp;&nbsp;위즈뉴스한국인 마른 당뇨 원인은? “근육량 부족”…비만 아니지만 대사 지표 ‘빨간불’&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "civicnews.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0ZHc0VTcwM3BHSV96Q1NSeEhVUGV6TFY5SGwybWJNT0lFQ3NDQ3AyLXNfVHpCZDhmdUFqTWhDOFBKb1FUNXBZdGg3TW1JdlZEQTVHOElYZklod040RzNkZUZwb2JlZkxiamRJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8934fb46f3e",
+      "title": "“잠 못 자면 백신 소용없다”… 수면무호흡증 환자, 독감 위험 1.7배↑ - 하이닥",
+      "published": "2026-04-22T13:00:00+00:00",
+      "summary": "“잠 못 자면 백신 소용없다”… 수면무호흡증 환자, 독감 위험 1.7배↑&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtNkd6a2Zfd3lFS2doWGJJMzVfS1EtbGJvVGxfdWFpZFp2SzQwdWhzQnhXS1hSRFhueVZyU3FUZUZocXdyd2RPRHZQZ3JrYWxpME5NbndfbGZtWUZZZF9SY1VFQUxqUmpTT3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34cdaf0b35c8",
+      "title": "뇌 전체 혈류량 조절하는 상반된 ‘신경 세포군’ 발견…뇌 질환 연구, 새로운 길 열리나 - 하이닥",
+      "published": "2026-04-22T12:00:00+00:00",
+      "summary": "뇌 전체 혈류량 조절하는 상반된 ‘신경 세포군’ 발견…뇌 질환 연구, 새로운 길 열리나&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WVThaLUI3VlhwbVhfc2k5WDdYZ3VvbXFSNGZRVGZSVnFqbWpGa1Q2QVVYMl9kUlYzb0dqYURBbm8xcklPWERaNHNFdEtTMVU1SnJYcUVxNGxkS3FsWU1KUEt6LTl4eDNDQ2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c349102fae9f",
+      "title": "노인 비만약 정책, 보험사와의 갈등 - 브랜드경제신문",
+      "published": "2026-04-22T11:04:53+00:00",
+      "summary": "노인 비만약 정책, 보험사와의 갈등&nbsp;&nbsp;브랜드경제신문",
+      "sources": [
+        {
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wNGJHbXAxMmtZR2ZMRzJNVEgyelBXalpTQUMyUmdsbG1pbWdpazR6bTgtMEc5clRkVTctYUVubzBDdVMxUUlnOUNobnk?oc=5"
+        }
+      ]
+    },
     {
       "id": "d8505e4aa6dc",
       "title": "다이어터들 즐기는 ‘저탄고지’ 식단…제2형 당뇨병 환자 ‘이 기능’ 회복 돕는다 - 농민신문",
@@ -33,7 +153,7 @@
       "id": "93ed9409ab72",
       "title": "‘초가공식품’, 심혈관 질환 위험 높인다… “하루 1번 먹을 때마다 5% 증가” - 하이닥",
       "published": "2026-04-22T09:30:00+00:00",
-      "summary": "‘초가공식품’, 심혈관 질환 위험 높인다… “하루 1번 먹을 때마다 5% 증가”&nbsp;&nbsp;하이닥“매일 먹었는데”… 무릎 쑤시면 ‘끊어야 할 음식’ 있다&nbsp;&nbsp;헬스조선냉장고 속 ‘이것’ 먹었더니 멀쩡하던 무릎 ‘삐걱’…허벅지 근육 망가뜨린 주범은&nbsp;&nbsp;twig24.com달고 짠 가공식품 즐기는 10대, 과체중·비만 확률 '쑥'&nbsp;&nbsp;네이트“초가공식품 많이 먹을수록 비만 위험 63%↑”&nbsp;&nbsp;현대건강신문",
+      "summary": "‘초가공식품’, 심혈관 질환 위험 높인다… “하루 1번 먹을 때마다 5% 증가”&nbsp;&nbsp;하이닥한 번만 먹어도 ‘심장마비’ 위험 오르는 음식… 대체 뭐야?&nbsp;&nbsp;헬스조선일일 1회 섭취 시 심혈관 질환 5% 증가 : 패션 & 뷰티&nbsp;&nbsp;kstars.kr“초가공식품 많이 먹을수록 비만 위험 63%↑”&nbsp;&nbsp;현대건강신문냉장고 속 ‘이것’ 먹었더니 멀쩡하던 무릎 ‘삐걱’…허벅지 근육 망가뜨린 주범은&nbsp;&nbsp;twig24.com",
       "sources": [
         {
           "name": "하이닥",
@@ -42,10 +162,46 @@
       ]
     },
     {
+      "id": "037975aec3bb",
+      "title": "[단독] 신한라이프, 5월 '뇌·심장' 납입면제 깐깐해진다 - 뉴스저널리즘",
+      "published": "2026-04-22T09:03:39+00:00",
+      "summary": "[단독] 신한라이프, 5월 '뇌·심장' 납입면제 깐깐해진다&nbsp;&nbsp;뉴스저널리즘",
+      "sources": [
+        {
+          "name": "뉴스저널리즘",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BMmo3cFF1RWZZUDY1d1lBOENNTFNMQWlSZGV5a2RqUHZPajNwenNaODUtY3NsYV8yQm5HczlpV0k4ek9fSjF5SEdVMEt1Tl96MndXcGw0SlM3dFlpaWxnMzBMX25YLVlIY3dn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ba9c5aea8a2",
+      "title": "치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려 - 조세일보",
+      "published": "2026-04-22T09:00:50+00:00",
+      "summary": "치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보",
+      "sources": [
+        {
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeWZWWWdnS0ZOcG1SaHlxNnhGdDB6UURBak9YUXM1bDhRaXFDcXZ5VFdwTUhGRV9mZGpSUzlzbnd5cTRXMndnaGJIMTh4d05HTnZlcm1LWDdZNFJiMjcwQmJPb1YyZ09VSThyR2dGbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71a3d311aefc",
+      "title": "5.1련휴 인원류동 밀집! 주목해야 할 전염병→--건강 - 인민넷",
+      "published": "2026-04-22T08:27:00+00:00",
+      "summary": "5.1련휴 인원류동 밀집! 주목해야 할 전염병→--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80RDlHeEpzSE9GQ0ZNTk9qWEhOX25XcGMzcGpaUU1ZeFFWYVF0WGE1RnllYWhyVFBocmo1QUNRLTJMMV9MOFpWRDBlOUFHVDl1N2lYUWNhYVRPTS11YmZaemJVbXVHOVFjVWFlLUpB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "68cad9793081",
       "title": "유전자보다 강했다… ‘이 습관’으로 치매 예방 - 헬스조선",
       "published": "2026-04-22T08:00:00+00:00",
-      "summary": "유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선엄지의 제왕 - 엄마의 치매 진단... 엄마의 기억을 지키는 딸의 뇌 건강법은?&nbsp;&nbsp;mbn.co.kr치매 걱정 줄이는 비밀? ‘여기’에 있었다&nbsp;&nbsp;코메디닷컴인지 강화 활동이 알츠하이머 발병 5년 지연시켜&nbsp;&nbsp;바이오타임즈[신간] 『뇌는 어떻게 노화를 늦추는가』&nbsp;&nbsp;readersnews.com",
+      "summary": "유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "헬스조선",
@@ -66,6 +222,54 @@
       ]
     },
     {
+      "id": "442df0a2d502",
+      "title": "“살만 빠지는 게 아니야”… 운동이 진짜 중요한 이유 - 코메디닷컴",
+      "published": "2026-04-22T07:05:00+00:00",
+      "summary": "“살만 빠지는 게 아니야”… 운동이 진짜 중요한 이유&nbsp;&nbsp;코메디닷컴운동 시작해야 할 또 하나의 ‘강력한’ 이유&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 심폐 지구력 향상, 치매 및 우울증 예방의 핵심 지표로 입증&nbsp;&nbsp;네이트심폐 지구력, 우울증·치매 예방에 핵심&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ESm1OcTVEWnRQT3FDUDZFY3M0S2tVQ1lYRTRoUTQweGZ6LXp2NjFKUWRUQ3Z4bU1HQUhtZ282RWJQdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "59d9f43e258c",
+      "title": "연구 발견: 매끼 두숟가락만 적게 먹어도 전신 염증 감소!--건강 - 인민넷",
+      "published": "2026-04-22T06:01:00+00:00",
+      "summary": "연구 발견: 매끼 두숟가락만 적게 먹어도 전신 염증 감소!--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45V05NcWNqRlBMVDFpX3RpN09Ob2RYcHpmRm5maEFhS1ptSVBUdWViOVVTa3phX0JOOHJWLTlKRzhPR1J5MlBhWmNkTmhhRzVfa0N0RHNYYk9ROWR6QzFKRGJrT2lkbUFPaVRaNkxn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d70dcf6f419f",
+      "title": "마약 때문에 죽다 살아난 에미넴… 18년 단약한 비결은? - 헬스조선",
+      "published": "2026-04-22T05:22:00+00:00",
+      "summary": "마약 때문에 죽다 살아난 에미넴… 18년 단약한 비결은?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4dGs4cTE2MW9meW9nU2VZUFAwVmlhb1B0NXI0VTJ1enpRNnNMUTMtZzJYalZVQkY5Q3NNQnhaNDJwSUxWYVozTC1KQ0dDV21IZXJKZk8ycmZ4VEduUUpiSXFrR2dibFNTcG9SVldmMmMtaFd5OEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e1211b2c726",
+      "title": "세포막 역할의 재발견: 생명과학의 패러다임 전환 - 한국AI부동산신문",
+      "published": "2026-04-22T04:06:54+00:00",
+      "summary": "세포막 역할의 재발견: 생명과학의 패러다임 전환&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oOHRFejNoNm80amtPRFdLcG9DTThrYjhuOU5GYVVWUElyVWFXV3BWT2YxWjIwVEZlN1g4VFVsaGVXbnZYaGItUDdhdms?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c6378e38ee9e",
       "title": "“자궁경부암 퇴치 10년 당긴다” 국가암검진 ‘HPV DNA 검사’ 1차 도입 여론 봇물 - 의약뉴스",
       "published": "2026-04-22T02:38:15+00:00",
@@ -74,6 +278,18 @@
         {
           "name": "의약뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvUnJSamhuNWZLdmc0N0psN0RIWHJBOVNRU2lScEdfQzJicUM1dVBzem9ITWg1NFAtN2c5eDZ4LXdOV3lJTmthV09zTXY1NUVZN0swaVJTUndiU2xoLXY5QXI4ZFAtNmxU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4de482c4ded3",
+      "title": "오젬픽ㆍ위고비, 당뇨병 동반 비만 환자 골다골증성 골절 위험 감소 - 의약뉴스",
+      "published": "2026-04-22T02:38:00+00:00",
+      "summary": "오젬픽ㆍ위고비, 당뇨병 동반 비만 환자 골다골증성 골절 위험 감소&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mZjU0Rl82NDVpWkRja3I1S2pGWC0zMUdHaWtFTXg0WmU5NFB6UDNoWkJJbC14QkRsaTRnNVpqRUk4eHV5aVJ2bXRpX0l1QTFsWnhuLUhFbDVqbWQtVGNGck1wa0ZGOEU?oc=5"
         }
       ]
     },
@@ -90,14 +306,50 @@
       ]
     },
     {
+      "id": "89dda0b9b638",
+      "title": "비알코올성 지방간, 20~30대 신장암 발생 위험 높여 - 후생신보",
+      "published": "2026-04-22T02:18:00+00:00",
+      "summary": "비알코올성 지방간, 20~30대 신장암 발생 위험 높여&nbsp;&nbsp;후생신보살찌고 지방간 있는 2030, 신장암 위험 2배 이상 높다&nbsp;&nbsp;v.daum.net간암만 위험한 것 아냐… 지방간, ‘신장암’ 증가시켰다&nbsp;&nbsp;헬스조선비알코올성 지방간, 신장암 위험 1.5배↑…비만 동반시 2.1배&nbsp;&nbsp;연합뉴스지방간 방치했더니…신장암 위험 최대 2.12배까지 뛰었다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OVVdqaWMyUHJvc0hUdlFDbVJ4RFJIclJEOWtlYkVFUzROU0ZDTzFKSDhucFdjUmhzX0Y5VTg2UGxWQjN1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5d56ef77f5f",
+      "title": "'인지력 기억력 포스파티딜세린 징코' 70% 할인 - 헬스조선",
+      "published": "2026-04-22T00:37:00+00:00",
+      "summary": "'인지력 기억력 포스파티딜세린 징코' 70% 할인&nbsp;&nbsp;헬스조선콘타드, 18차 완판·누적 판매 2,000만 정 돌파&nbsp;&nbsp;환경감시일보시니어 두뇌 건강을 위해… 인지력-기억력 동시 케어&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sd3FWNVd6V3VrMEs1ZlE2Q0tnbWlsTXMyU3lLaVQ0TmVqVTlkQkZYWUhZQ3FTNENmMUhzR3N3VmdLY0lKaV8wejREZTNZYjFTVkVNSjZDa3YxOXQ2dktaVHhmTDV4ekd6VVBFM0h6bzFUbDdzVkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "209f7add3f3d",
       "title": "치매 예방 '골든타임' 지키려면? - 헬스조선",
       "published": "2026-04-22T00:35:00+00:00",
-      "summary": "치매 예방 '골든타임' 지키려면?&nbsp;&nbsp;헬스조선치매 예방 ‘골든타임’ 지키려면?&nbsp;&nbsp;조선일보엄지의 제왕 - ※치매 골든타임※ 주관적인지저하 자가 진단법은?&nbsp;&nbsp;mbn.co.kr“치매 상담료도 없이 1시간 설명”…대한치매학회, 수가·제도 전면 개편 촉구&nbsp;&nbsp;medicalworldnews.co.kr[기고] 건망증보다 심한데, 아직 치매는 아닌 단계…경도인지장애&nbsp;&nbsp;supple.kr",
+      "summary": "치매 예방 '골든타임' 지키려면?&nbsp;&nbsp;헬스조선[동행&]“긴 병에 장사 없다?” 가족 일상 흔드는 치매 간병… 이제는 ‘생존 보장’ 챙길 때&nbsp;&nbsp;동아일보엄지의 제왕 - ※치매 골든타임※ 주관적인지저하 자가 진단법은?&nbsp;&nbsp;mbn.co.kr치매 예방 ‘골든타임’ 지키려면?&nbsp;&nbsp;조선일보“치매 상담료도 없이 1시간 설명”…대한치매학회, 수가·제도 전면 개편 촉구&nbsp;&nbsp;메디컬월드뉴스",
       "sources": [
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2RHZucFJiMURiTEI1Y25VQ3dkZ0NGZXRUN25TX0M2VkJvQjA1RzZEY3ppdFpmN080MnYxYWtKWVB3MnNPX3NmQ1k0MHRVWkhna1Y3UlE5ZzFjWlFUQzAxR0szb1VfYmhVcGxSOXBYNHNVOVVORWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3657b5342d6",
+      "title": "메트로포민, 성인 1형 당뇨병 환자의 인슐린 저항성에는 효과 없어 - 바이오타임즈",
+      "published": "2026-04-22T00:18:59+00:00",
+      "summary": "메트로포민, 성인 1형 당뇨병 환자의 인슐린 저항성에는 효과 없어&nbsp;&nbsp;바이오타임즈",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtd1dWR2pLZ3ZKMkZiNGt2b2ZLZTkxTEpmeHVmMExLUmpCbXZtS1dGUkxMV0JlWmNsU1F1WTZlNjR1Z0NrZThBd1dnWnRvSVo1VmhKTmxZU1lTS3ZtQ2lkdmNXZ1F0SFBzZzlDcQ?oc=5"
         }
       ]
     },
@@ -150,14 +402,14 @@
       ]
     },
     {
-      "id": "f3e04526be36",
-      "title": "밥 대신 간식 먹던 12살 소년, 병원 갔더니 대장암[아하중국] - 문화일보",
-      "published": "2026-04-21T16:14:27+00:00",
-      "summary": "밥 대신 간식 먹던 12살 소년, 병원 갔더니 대장암[아하중국]&nbsp;&nbsp;문화일보12살 소년이 대장암 말기…“밥 대신 ‘이것’만 먹었다”&nbsp;&nbsp;v.daum.net\"끼니 대신 간식만 먹었다\"…中 12세 말기 대장암 '충격'&nbsp;&nbsp;뉴시스12살 소년이 대장암 말기, 원인은…\"물 대신 밀크티\" 잘못된 식습관 - 머니투데이&nbsp;&nbsp;머니투데이12세 中 소년, 말기 대장암 진단… '이 식단' 때문이라는데, 실제 가능한 일?&nbsp;&nbsp;코메디닷컴",
+      "id": "f991a4faf1a0",
+      "title": "[헬스캡슐] “전자약 병행한 치매 환자 3년 후에도 진행 억제” 外 - 동아일보",
+      "published": "2026-04-21T19:30:00+00:00",
+      "summary": "[헬스캡슐] “전자약 병행한 치매 환자 3년 후에도 진행 억제” 外&nbsp;&nbsp;동아일보Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmZTFzcWdkZWduUmFUa0loQU5HQ0wzX0ZTdDlOaW05ZkNhTGk2NUQ4VUFXLXJuTHRteUR0ZVltd3p2blZKaDY3UGFZNEVRdWNS?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKTnhBVndTQWFSZFRGa0xkbnhUaWYxVzJrN05zMWVNa2hzNDExczF6R2J6WWJkVGx3bXRianVxZmdRYi1mRG1STnBUSlM2ZUZaMHZOazhFdFJudFhPMzkzVVlpb2NGOXNsZjBOLTBvc9IBZkFVX3lxTE1kNmNLZnpsV245U0EzelU1ODZFU0pjNUJxaEZvMld4dU8td3BTdFlTRkpmengzSFpNb2FQZHIwWG9BRlh2RDJ3VWI4ZkhuM2hxdkRtbDJ1c0E2MkMyeWV4clRQeWFtZw?oc=5"
         }
       ]
     },
@@ -174,6 +426,30 @@
       ]
     },
     {
+      "id": "ca41395b0e99",
+      "title": "두통과 생리통에 같은 진통제?... “통증 원인별 효과적인 성분 달라” - 하이닥",
+      "published": "2026-04-21T09:00:00+00:00",
+      "summary": "두통과 생리통에 같은 진통제?... “통증 원인별 효과적인 성분 달라”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBablBPNTVIVHlrWVN6em5VSWprbnJSLVFxRklaSlhNRkY3TlBBbF9uR1JqdUtaV2ZMaTg3SHZRYnA2aEVPTG1KS2IwLWV2MHJSemU1cU10eUxERTRXRUdYa0I3eWxMZHFkaHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "129795fed365",
+      "title": "잠들기 전 '이 냄새' 맡았더니…노인 기억력 226% 좋아졌다 - 네이트",
+      "published": "2026-04-21T08:49:00+00:00",
+      "summary": "잠들기 전 '이 냄새' 맡았더니…노인 기억력 226% 좋아졌다&nbsp;&nbsp;네이트간단한 생활 습관만 바꿔도 치매 위험 ‘25%↓’[노화설계]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aNnJCTEQ1X2FfeUxaRVRpdTB1Z2xzQ29ac2FiZVhabnlINVJCX3kxcng5cDZvT0ZUYTBfT0lvS2k1dS1vY2RwYmtycFNMUTZkV0s0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "11fbbe7aff11",
       "title": "염증성 장질환, 면역관용 회복시키는 비타민 D로 치료한다 - 후생신보",
       "published": "2026-04-21T08:16:00+00:00",
@@ -186,14 +462,26 @@
       ]
     },
     {
-      "id": "17581d13e7e7",
-      "title": "[사이언스샷] 실명 환자에게 빛을 준 유전자 치료제, 실리콘밸리 노벨상 수상 - 조선비즈 - Chosunbiz",
-      "published": "2026-04-21T05:31:00+00:00",
-      "summary": "[사이언스샷] 실명 환자에게 빛을 준 유전자 치료제, 실리콘밸리 노벨상 수상 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "id": "599a575e27e7",
+      "title": "바이러스가 자신의 유전체를 복사하는 법…'왕관' 단백질 복합체의 정교한 분업 구조 밝혀 - 동아사이언스",
+      "published": "2026-04-21T06:20:00+00:00",
+      "summary": "바이러스가 자신의 유전체를 복사하는 법…'왕관' 단백질 복합체의 정교한 분업 구조 밝혀&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1NIMnBNTjhNaFEzZEZzanBYS0cyNkRYT0RhajlrUGJpVFM2WFF5dFJPOGpfd01WNWxmMWV4QVlHUzlYclVYb05HRjYxRkNzWk0wMDBEQkUzU1ZCSy00akIyUkNTRzlhNmtrN2F4dnNDY2JReVVkbkJiSlRMOWF5dnY5LXZjZkd1UlhaR9IBoAFBVV95cUxQUEMwSWtQcE1TWW9qMGFxTzdERWlQekVzY3ZBRHJINXRrRVUwUXd6T1ozTGtFYXhTenUzRVh3UU9XWVdGLVhMV216SmhQdlZqQmM4V2R5OGVxMWtQTEFZYi1KZXVQTU1MbjJJbDZhNVpjSnQ1U0lna2g0cktvaV9SRnZJRU5PRFU5NVdacWdBZmFqVW9tTl9hTXd2LW5MTmR0?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91RktqTzhpODlTeG1zOVNuT013TGdBV244bEhWSkZHZUZ6YUFPUXZ4ZkJad0ljdzFrS0lEM2REZjhUR1FmcGFPeExDMWpHRzdJdWZsOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae06cdeaf6df",
+      "title": "99세 노인, 치매 단백질 있어도 멀쩡...비밀은 '인지 회복력' - 디멘시아뉴스",
+      "published": "2026-04-21T05:30:30+00:00",
+      "summary": "99세 노인, 치매 단백질 있어도 멀쩡...비밀은 '인지 회복력'&nbsp;&nbsp;디멘시아뉴스알츠하이머 걸려도 멀쩡한 이유 찾았다…뇌의 보호 유전자 패턴 규명&nbsp;&nbsp;네이트[신간] 『뇌는 어떻게 노화를 늦추는가』&nbsp;&nbsp;readersnews.com뇌 노화 늦추는 취미 따로 있다&nbsp;&nbsp;브런치“100세에도 치매 없었다”...장수 노인의 뇌가 다른 3가지 이유&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wOEFOYzNrdmltekxTcDZyYmdMZmZ0WklrSnQtTW1iSzJQNHlzd2xLVzc3R1Y1YktJQ3dKT3p5RF9RNHlhaVVfc3pUaTdOYkp2RGVrQ2V6Z2JMWVpIeTgxbEVPOG9KRVB0UWxZTDNRcWpoUQ?oc=5"
         }
       ]
     },
@@ -225,11 +513,23 @@
       "id": "28eff2407e4b",
       "title": "뇌 오가노이드 이용한 비침습적 알츠하이머병 진단 플랫폼 개발 - 코리아헬스로그",
       "published": "2026-04-21T01:57:49+00:00",
-      "summary": "뇌 오가노이드 이용한 비침습적 알츠하이머병 진단 플랫폼 개발&nbsp;&nbsp;코리아헬스로그단지 부모 치매여서? 받지마라…정확도 91% 혈액검사 부작용&nbsp;&nbsp;v.daum.net\"줄기세포로 알츠하이머 조기 진단\"…비침습 플랫폼 개발&nbsp;&nbsp;뉴시스치매 조기 진단 길 열었다…알츠하이머 환자 ‘미니 뇌’ 모델 구현해 실시간 분석&nbsp;&nbsp;BRIC고려대 박희호 교수팀, 형광·방사성 물질 주입 없이 알츠하이머병 실시간 진단 기술 개발 … 치매 조기 진단 용이&nbsp;&nbsp;뉴데일리 경제",
+      "summary": "뇌 오가노이드 이용한 비침습적 알츠하이머병 진단 플랫폼 개발&nbsp;&nbsp;코리아헬스로그단지 부모 치매여서? 받지마라…정확도 91% 혈액검사 부작용&nbsp;&nbsp;v.daum.net\"줄기세포로 알츠하이머 조기 진단\"…비침습 플랫폼 개발&nbsp;&nbsp;뉴시스치매 조기 진단 길 열었다…알츠하이머 환자 ‘미니 뇌’ 모델 구현해 실시간 분석&nbsp;&nbsp;BRIC“당신 20년 뒤 치매 덮친다” 정확도 91% ‘피 한방울 검사’&nbsp;&nbsp;중앙일보",
       "sources": [
         {
           "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JZUhZU3BUY1pYUFV2cEJoVnVJOGlOUXRmNGdTNDV1M3ZZM3IyWWtQdTRBYk9saWdPc0UtQkFsV01Obnl4WlFzSmZqdXNjMUUzY2hoR3FNbWpWMi0zOERwWURydE42T2FvUW1XaWg1dXhRUdIBdkFVX3lxTE80S2xLN3N6cDlLdFN2VEdJdWJna3NKaExCUlE2NWJmdV9RbkRUY0R1RVU2VlpIQy1fRjV3SGpqSFA2VnpTdnBYTDZXNWh3eUxvb25ibW1laER3OF92YmZwRl9TaXk5Q2ZNQUduTzNNNFNiOHFqVVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "767e5ef9fcfa",
+      "title": "\"우리 아이도 즐겨 먹는데\"…12세 소년에 '말기 대장암' 부른 음식 - 아시아경제",
+      "published": "2026-04-21T01:38:18+00:00",
+      "summary": "\"우리 아이도 즐겨 먹는데\"…12세 소년에 '말기 대장암' 부른 음식&nbsp;&nbsp;아시아경제12살 소년이 대장암 말기…“밥 대신 ‘이것’만 먹었다”&nbsp;&nbsp;v.daum.net\"끼니 대신 간식만 먹었다\"…中 12세 말기 대장암 '충격'&nbsp;&nbsp;뉴시스12살 소년이 대장암 말기, 원인은…\"물 대신 밀크티\" 잘못된 식습관 - 머니투데이&nbsp;&nbsp;머니투데이12세 中 소년, 말기 대장암 진단… '이 식단' 때문이라는데, 실제 가능한 일?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CTTdjaF9QQ2xiNGJvSzYxb0lzNVZ5alNyODh2R2o3M3dXOUwtV3J0NzBiakNPMnpaX0RPcGdhRkRCRTNNQkI5WkgxcjRWYkJqUU1PdHhtTC14UloySHVJeA?oc=5"
         }
       ]
     },
@@ -246,14 +546,50 @@
       ]
     },
     {
-      "id": "fb48ec369633",
-      "title": "“비만은 질환, 노력으로 안돼”…건보에 치료제 넣자는 마운자로 부사장 - 매일경제",
-      "published": "2026-04-20T21:04:30+00:00",
-      "summary": "“비만은 질환, 노력으로 안돼”…건보에 치료제 넣자는 마운자로 부사장&nbsp;&nbsp;매일경제",
+      "id": "0845168fcf6d",
+      "title": "청소년 정신장애 원인은 불면⦁가정불화 - 호주 톱뉴스",
+      "published": "2026-04-20T23:50:00+00:00",
+      "summary": "청소년 정신장애 원인은 불면⦁가정불화&nbsp;&nbsp;호주 톱뉴스",
       "sources": [
         {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yS2JyeUpaRkM4SXgxb081OGJHQjBxdDNwTlV4bGpkWFdEYnVLSmRkMmRYcDJyTlhCZHZ5YkE0MnZKTzU1WUVTbEZZRkFTUQ?oc=5"
+          "name": "호주 톱뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iR3hxMGxXaG5yUE5zc281aFgyQVI0MmxJZVpVTGM0dmtWaW1JbHBqdFpYWGw0Tlk0VldSa1JRaXVZTEMzRThuMzFBLVhULXZ2bkR5dmhWWWZzcWF5eFFBNGpYd1gyNDNydGdMNXhUdkQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2e4c5a87588",
+      "title": "빈혈·신경손상 동반 시 치매 위험 최대 3.6배 - 메디칼트리뷴",
+      "published": "2026-04-20T23:43:47+00:00",
+      "summary": "빈혈·신경손상 동반 시 치매 위험 최대 3.6배&nbsp;&nbsp;메디칼트리뷴",
+      "sources": [
+        {
+          "name": "메디칼트리뷴",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EeC1XaElsVFRNR0lkSV9BNWdlR0ktTWNybHRFdzNldDczRnBxMWxjakNNdmt4dFB6NHN0UUhEeXF3RDJTYjNoSjJfNDBNZ2NmRXlPeFY5S2dtZXAwS25VY1lDbWZiU2t2c1U2Yk5nZmxDX2h6dUHSAXpBVV95cUxNZnB3aHFsajg0Tjc3cWctUGxwd2lZUmM3WnJqQ2YtT2xxZHZZbTlPUVRyUnRnRERlVnNIVVp4RTBpX0QxbzdoSlBEdWp4dW5wMEg3THFLdTdrd0lJRm9PdHY5VVE4dVg3RmZ5UjhCeGdTRlJYX1JyTFBXQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9bedc49d8291",
+      "title": "\"비만은 질환, 노력으로 안돼\"…건보에 치료제 넣자는 마운자로 부사장 - 네이트",
+      "published": "2026-04-20T21:05:00+00:00",
+      "summary": "\"비만은 질환, 노력으로 안돼\"…건보에 치료제 넣자는 마운자로 부사장&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGcTAwYUdaQkFRYWRlNmVZbkxfT2h6Njgtbm1lejdPaXJVM1NvcXBoY3BvLWhoNkVMVld6Y3hUbnhLeUVVM3VWdG5SYjNabUZUZ29B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "788737146f17",
+      "title": "지방간 경미한 당뇨병 환자서 간암·사망 위험 증가 - 메디칼업저버",
+      "published": "2026-04-20T20:54:35+00:00",
+      "summary": "지방간 경미한 당뇨병 환자서 간암·사망 위험 증가&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJVWRtZEp2dUdYei1ZSzZDOVZWSlJnQ21VQUhCR2RRVXA2TnRnM0dqM01pQXlBNkFiYk51dW1nbmFuNUpnWnd3NFpncWlieHFmM0x4bEJTSnpNeDN4TlhHazgxcVZzSktwRUpR?oc=5"
         }
       ]
     },
@@ -270,30 +606,6 @@
       ]
     },
     {
-      "id": "a5761ab5395a",
-      "title": "연세암병원, 치료 까다로운 ‘삼중음성유방암’ 항암치료 예측효과 모델 개발 - 헬스경향",
-      "published": "2026-04-20T04:30:02+00:00",
-      "summary": "연세암병원, 치료 까다로운 ‘삼중음성유방암’ 항암치료 예측효과 모델 개발&nbsp;&nbsp;헬스경향'삼중음성 유방암' 항암 효과…'이것' 함께 분석해 예측&nbsp;&nbsp;뉴시스\"삼중음성 유방암 항암반응, 단백·유전자 함께 보면 예측가능\"&nbsp;&nbsp;연합뉴스치료 까다로운 '삼중음성 유방암', 항암치료 효과 예측법 나왔다 - 머니투데이&nbsp;&nbsp;머니투데이연세암병원 “삼중음성 유방암 항암 반응 예측, ‘이것’ 관건”&nbsp;&nbsp;이투데이",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6eUJoVGxEYWxSTlJ5c3dKcmtIQkZBbkFGbElDR0xGdk1hYW0yTk9ZYTAwSHQ4Sm5oQzVIdmFqVV9oSXlMRlN2R3lRTEY5aE4yTkRMaHUwSklaRTIxVzd6NVZ1ZWJLWmVtWkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56da7e279963",
-      "title": "비알코올성 지방간, 신장암 위험 1.5배↑…비만 동반시 2.1배 - 연합뉴스",
-      "published": "2026-04-20T02:28:40+00:00",
-      "summary": "비알코올성 지방간, 신장암 위험 1.5배↑…비만 동반시 2.1배&nbsp;&nbsp;연합뉴스살찌고 지방간 있는 2030, 신장암 위험 2배 이상 높다&nbsp;&nbsp;v.daum.net간암만 위험한 것 아냐… 지방간, ‘신장암’ 증가시켰다&nbsp;&nbsp;헬스조선술 안 마셔도 지방간 있는 2030세대, 신장암 위험 약 1.5배 더 높다&nbsp;&nbsp;경향신문지방간 방치했더니…신장암 위험 최대 2.12배까지 뛰었다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1MzZpM0VVakROUWdzN1FfcFJyNGNVc0JYM0JKRnQxUGd4MkJHeWNxOTN5bFFQWWtuYjA1SmpQZk10MzRsN3FfSWl1SllXRkxSZTdlUnhwbkhFVUXSAWBBVV95cUxOZ2FPcVJrRUdvUVk1R1ZkSEdVd0hiSHFXMTNBRURNa2lrMUtyeEZTNFpnYmRaOEJISUIwV3hoVVZ2MWs1ZGRPSEkxcm1KcEVEXzk0eWZmNVA2RHJCTFBkdDM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "09afda4145ea",
       "title": "“과제명에 ‘AI’ 빠지면 떨어진다...AI 비중 낮은 연구도 지원 필요해” - 조선일보",
       "published": "2026-04-19T22:02:03+00:00",
@@ -306,14 +618,62 @@
       ]
     },
     {
-      "id": "2296b140f47b",
-      "title": "\"자전거, 관절엔 약이지만 독 될 수도\"… 올바른 자세·운동량이 안전 좌우 - 보건신문",
-      "published": "2026-04-19T04:53:35+00:00",
-      "summary": "\"자전거, 관절엔 약이지만 독 될 수도\"… 올바른 자세·운동량이 안전 좌우&nbsp;&nbsp;보건신문자전거 안전하게 타려면…&nbsp;&nbsp;기호일보자전거 오래 타면 독 될 수도…허리·회음부 통증 주의&nbsp;&nbsp;v.daum.net[비바100] “관절엔 좋지만 주의 필요”…대표 유산소 자전거, 이렇게 타면 ‘안전’&nbsp;&nbsp;브릿지경제자전거&nbsp;&nbsp;브런치",
+      "id": "196ffad8b3bd",
+      "title": "'실리콘밸리 노벨상' 브레이크스루상에 기본입자 뮤온 탐구한 국제연구팀 - 동아사이언스",
+      "published": "2026-04-19T03:47:00+00:00",
+      "summary": "'실리콘밸리 노벨상' 브레이크스루상에 기본입자 뮤온 탐구한 국제연구팀&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YZkJmQUxXcXdXb3lyRVdHaUNseVl2S3lrUG9ZTEtLS2hnY2cteHlxeDFXdjZhdWxnT3ZSMmtTYm9YRFU1Znp2czVxVmE0V2tfWmRlbFQwZXNJNzFOVHBkVDVB?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14eUtxLU5pS0daUktFRU4yblBQamZ0T0tWc1dNdHlCRmMwd1lqZ3pCbnpVazBvWk9vUEg1UDhlcjBqTlRIdDc1UTNvcVUyLVllRGwwQg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89170aa369d2",
+      "title": "친구가 연인이 될 수 없는 이유, 이런 심리학 연구 때문 - GQ Korea",
+      "published": "2026-04-17T15:11:22+00:00",
+      "summary": "친구가 연인이 될 수 없는 이유, 이런 심리학 연구 때문&nbsp;&nbsp;GQ Korea",
+      "sources": [
+        {
+          "name": "GQ Korea",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQckJXX2NOUlVaQ0JCLWQ3b2ZUWi1GcVAxZnQyQ3h4RWZlRGh0SnN0WHdiYkJ1RFJhZnJLR1l4VTlxQXdRNUY4TVlNMXNfQ3JtNXhpYlR5ZUdncnlHcV9LUmZLWmp2VDR3YV9ZcVVCRWtzMlIycjZocktYdlJPc1VRbk9TYkRUMmc2YjVhOWJUVGNnb1BkRXhXYlhiTzRiS0JERlllYmlkUGRGNHozdW9KMnE3RU85QkpVb1NWQmIwQUdjNVlSUlJYbUphanh0TXpjNE50dEpEUUtxM3I4MVFTNWVMSEtIUjJ3eV9DSkVnMTI4Y293YnU3ck9NZGtiamlGaWRndVEwb21OSXZvVzdDUFpaSkdIZmFIaHVrNWtXbnc5dkdqZjhNYWgxRnpSOGViZ0VqdlZ4MWE4Q05oY3NNQzAxTzhLVUlGc3gzTWtYN2F0VFVyQ0xN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f09aabec2705",
+      "title": "오픈AI, 생명과학 연구를 위한 AI 모델 ‘GPT-로절린드’ 출시 - AI타임스",
+      "published": "2026-04-17T03:50:01+00:00",
+      "summary": "오픈AI, 생명과학 연구를 위한 AI 모델 ‘GPT-로절린드’ 출시&nbsp;&nbsp;AI타임스",
+      "sources": [
+        {
+          "name": "AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVUFTQkhEOXZrcS01SjIzXzlVNlNKTVc5RFJ5X1JFZUlXZlVnbUJaQk1UeU5aVkRtRUFIM09XN1AtbXRhb3M0QnZTOUJOaGRwOUg0SFlPSVZkNE1LXzJpZzVYU0E2SWc1X3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb8f15c2634c",
+      "title": "암수로 나뉘지 않는 ‘퀴어한 자연’ [.txt] - 한겨레",
+      "published": "2026-04-16T22:46:00+00:00",
+      "summary": "암수로 나뉘지 않는 ‘퀴어한 자연’ [.txt]&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Idy13eTBhaEhsZTZDTmllQkdzSjhZT0N1dzNiNFkyeXpzWjQ0VTUwcWlUQ3M1RF81ejhrSFhFajJETmNNallhZTMtZndZTDNWTzd2ZjRGcFdaTFROSG5pUWtaTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90c212118053",
+      "title": "[100세 과학] ‘캡틴 백혈병’의 방패 찾았다…암 치료에 새 길 - 조선비즈 - Chosunbiz",
+      "published": "2026-04-15T22:59:00+00:00",
+      "summary": "[100세 과학] ‘캡틴 백혈병’의 방패 찾았다…암 치료에 새 길 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekxOU0VEUVJKZXl2dTlFTVMyWG43M0xGZmlJbm41d09nRkJHZm94QmpXS2RPeWlqX3haR3RVdENZZ2dJSVc2OHUtNnB4Z2lNaFVDbUZvSGxodDdKZXRpRmt1TDh5ZTA3WEFFU05WVUdJVGJyVkNoWTdEOE9RZVJqaU9QSUEwUVluLUgwalhaZWRpQS1XRXpZ0gGrAUFVX3lxTE1lS2NUUllIQ3hWRmNfX2trQ0tQRGN0RmlWcUJheFAzUkFlT29MeVRwaW40cTlHYy1RU3FMMHpCZllGNTFYcE45bU0yMmV0LTFQUzR6Qks5SDZRckcyWmxGQXFzTjliZkJlTk9BRVNrTXVoYTBUM0R3dmlEM3dzNjVEa0JBTUF5cFhGRTRFWmxLdUwxNlJtMWlwbUtaay12S2puaDhkTGk0ZzFWcw?oc=5"
         }
       ]
     }
