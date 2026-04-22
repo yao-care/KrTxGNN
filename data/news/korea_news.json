@@ -1,10 +1,94 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-22T02:52:32.346548+00:00",
-  "total_fetched": 81,
-  "unique_count": 80,
-  "health_related_count": 40,
+  "fetched_at": "2026-04-22T07:55:11.860975+00:00",
+  "total_fetched": 84,
+  "unique_count": 84,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "442df0a2d502",
+      "title": "“살만 빠지는 게 아니야”… 운동이 진짜 중요한 이유 - 코메디닷컴",
+      "published": "2026-04-22T07:05:00+00:00",
+      "summary": "“살만 빠지는 게 아니야”… 운동이 진짜 중요한 이유&nbsp;&nbsp;코메디닷컴운동 시작해야 할 또 하나의 ‘강력한’ 이유&nbsp;&nbsp;헬스조선심폐 지구력, 우울증·치매 예방에 핵심&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ESm1OcTVEWnRQT3FDUDZFY3M0S2tVQ1lYRTRoUTQweGZ6LXp2NjFKUWRUQ3Z4bU1HQUhtZ282RWJQdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "59d9f43e258c",
+      "title": "연구 발견: 매끼 두숟가락만 적게 먹어도 전신 염증 감소!--건강 - 인민넷",
+      "published": "2026-04-22T06:01:00+00:00",
+      "summary": "연구 발견: 매끼 두숟가락만 적게 먹어도 전신 염증 감소!--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45V05NcWNqRlBMVDFpX3RpN09Ob2RYcHpmRm5maEFhS1ptSVBUdWViOVVTa3phX0JOOHJWLTlKRzhPR1J5MlBhWmNkTmhhRzVfa0N0RHNYYk9ROWR6QzFKRGJrT2lkbUFPaVRaNkxn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d70dcf6f419f",
+      "title": "마약 때문에 죽다 살아난 에미넴… 18년 단약한 비결은? - 헬스조선",
+      "published": "2026-04-22T05:22:00+00:00",
+      "summary": "마약 때문에 죽다 살아난 에미넴… 18년 단약한 비결은?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4dGs4cTE2MW9meW9nU2VZUFAwVmlhb1B0NXI0VTJ1enpRNnNMUTMtZzJYalZVQkY5Q3NNQnhaNDJwSUxWYVozTC1KQ0dDV21IZXJKZk8ycmZ4VEduUUpiSXFrR2dibFNTcG9SVldmMmMtaFd5OEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f73bc176156a",
+      "title": "자가검사시약 늘린다?…대개협 “위음성에 치료 지연까지 위험” 경고 - MEDI:GATE NEWS",
+      "published": "2026-04-22T05:09:00+00:00",
+      "summary": "자가검사시약 늘린다?…대개협 “위음성에 치료 지연까지 위험” 경고&nbsp;&nbsp;MEDI:GATE NEWS﻿“빗장 풀린 자가검사 키트, 부작용 우려”&nbsp;&nbsp;데일리메디개원의들, 자가검사 확대 품목 신설 재검토 촉구&nbsp;&nbsp;의학신문성병·마약까지 자가검사?…대개협, “공중보건 붕괴 초래”&nbsp;&nbsp;병원신문“자가검사시약 신설 우려, 정확성·치료 연계 미확보 시 건강권 침해”&nbsp;&nbsp;라포르시안",
+      "sources": [
+        {
+          "name": "MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2U2ZKTkpJek43SG50NlVZajFxMXhCcjVnRHgwVmRRVU4zUjRWM0pHeVhDcG50T3hiSnRKOVN5dk9mLVBic2lzakRKalE4bVNQLWgtb2JEaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e1211b2c726",
+      "title": "세포막 역할의 재발견: 생명과학의 패러다임 전환 - 한국AI부동산신문",
+      "published": "2026-04-22T04:06:54+00:00",
+      "summary": "세포막 역할의 재발견: 생명과학의 패러다임 전환&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oOHRFejNoNm80amtPRFdLcG9DTThrYjhuOU5GYVVWUElyVWFXV3BWT2YxWjIwVEZlN1g4VFVsaGVXbnZYaGItUDdhdms?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a754a05fd20",
+      "title": "만 12세 남학생도 'HPV 백신' 맞는다…질병관리청, 5월부터 접종 확대 - 하이닥",
+      "published": "2026-04-22T03:00:00+00:00",
+      "summary": "만 12세 남학생도 'HPV 백신' 맞는다…질병관리청, 5월부터 접종 확대&nbsp;&nbsp;하이닥12세 남아도 HPV 백신 무료… 충북도 다음 달부터 접종 확대&nbsp;&nbsp;뉴데일리 충청세종12세 남자 청소년도 HPV 무료 접종…충북도 대상 확대&nbsp;&nbsp;뉴스1충북도, '12세 남성 청소년' 사람유두종바이러스(HPV) 무료 예방접종 시행&nbsp;&nbsp;gukjenews.com자궁경부암 백신 무료 접종 男청소년까지 확대, 왜?&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXQ2lvVi1LLXJieGxPQ3JiVENDT2FMdWZGY2FuNHZwWS1HbTZJQ2ZyRldaclJKb3hCejlwZGNOb1dvNXlmbTFCdVJwa1FvNHJHc1JmZzRfQzhIRkNGOHRkTDJzQzhscEZ0ckE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6378e38ee9e",
+      "title": "“자궁경부암 퇴치 10년 당긴다” 국가암검진 ‘HPV DNA 검사’ 1차 도입 여론 봇물 - 의약뉴스",
+      "published": "2026-04-22T02:38:15+00:00",
+      "summary": "“자궁경부암 퇴치 10년 당긴다” 국가암검진 ‘HPV DNA 검사’ 1차 도입 여론 봇물&nbsp;&nbsp;의약뉴스\"자궁경부암 퇴치 10년 앞당긴다…HPV DNA 검사 국가검진 도입해야\"&nbsp;&nbsp;네이트자궁경부암 국가암검진, 27년만에 개선되나…HPV 검사 도입 추진&nbsp;&nbsp;코리아헬스로그자궁경부 세포 문제 일으키는 HPV&nbsp;&nbsp;캐나다 한국일보국가검진 믿었다 낭패? \"자궁경부암 검진, HPV 검사 도입 필요\"&nbsp;&nbsp;MEDI:GATE NEWS",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvUnJSamhuNWZLdmc0N0psN0RIWHJBOVNRU2lScEdfQzJicUM1dVBzem9ITWg1NFAtN2c5eDZ4LXdOV3lJTmthV09zTXY1NUVZN0swaVJTUndiU2xoLXY5QXI4ZFAtNmxU?oc=5"
+        }
+      ]
+    },
     {
       "id": "4de482c4ded3",
       "title": "오젬픽ㆍ위고비, 당뇨병 동반 비만 환자 골다골증성 골절 위험 감소 - 의약뉴스",
@@ -18,26 +102,26 @@
       ]
     },
     {
-      "id": "f24e8e8a5ced",
-      "title": "“자궁경부암 퇴치 10년 당긴다” 국가암검진 ‘HPV DNA 검사’ 1차 도입 여론 봇물 - 의약뉴스",
-      "published": "2026-04-22T02:38:00+00:00",
-      "summary": "“자궁경부암 퇴치 10년 당긴다” 국가암검진 ‘HPV DNA 검사’ 1차 도입 여론 봇물&nbsp;&nbsp;의약뉴스자궁경부암 'DNA 검사'로 전환될까…국회서 도입 방안 모색&nbsp;&nbsp;청년의사자궁경부 세포 문제 일으키는 HPV&nbsp;&nbsp;캐나다 한국일보자궁경부암 국가암검진, 27년만에 개선되나…HPV 검사 도입 추진&nbsp;&nbsp;코리아헬스로그[행사] 산부인과학회, 국가암검진 HPV 검사 전환 공론화 나서&nbsp;&nbsp;메디칼업저버",
+      "id": "5a805a751c00",
+      "title": "고지방 저탄수화물 ‘케토 식단’, 제2형 당뇨병 췌장 기능 살린다 - 매일경제",
+      "published": "2026-04-22T02:24:54+00:00",
+      "summary": "고지방 저탄수화물 ‘케토 식단’, 제2형 당뇨병 췌장 기능 살린다&nbsp;&nbsp;매일경제",
       "sources": [
         {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GNVdjMnV6TGdpUXJHRnNPNVJWNjR3REJReTVKRlpWdGpQVkphWFZMM2ZTYXpVVHpRQXUyc3kwMERLekhtajNBZTVra3ZFVzVBUEpTMUE0LWxzdl9WZmg5R05DeUF0M2c?oc=5"
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UT3FaTWJDNEpiNXpWUXpLU3BpVjVFMXU1ekkyandodFQ4bW1jWC1UU3ZBVXRZZUluWEN6Q3JfMDM3c09idnNxa0NZQkN6dw?oc=5"
         }
       ]
     },
     {
-      "id": "11af4604749f",
-      "title": "개원의들, 자가검사 확대 품목 신설 재검토 촉구 - 의학신문",
-      "published": "2026-04-22T01:12:43+00:00",
-      "summary": "개원의들, 자가검사 확대 품목 신설 재검토 촉구&nbsp;&nbsp;의학신문성병·마약까지 자가검사?…대개협, “공중보건 붕괴 초래”&nbsp;&nbsp;병원신문“자가검사시약 신설 우려, 정확성·치료 연계 미확보 시 건강권 침해”&nbsp;&nbsp;라포르시안자가검사시약 확대 논란…대개협 \"감염병 관리체계 약화 우려\"&nbsp;&nbsp;메디파나뉴스",
+      "id": "0f055acdf449",
+      "title": "국립암센터·가톨릭의대, 유전성 유방암의 ‘4가지 유형’ 세계 최초 규명 - 라포르시안",
+      "published": "2026-04-22T01:25:00+00:00",
+      "summary": "국립암센터·가톨릭의대, 유전성 유방암의 ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;라포르시안'브라카'도 아닌데 유전성 유방암…세계 첫 원인 규명&nbsp;&nbsp;newsis.com국립암센터·가톨릭의대, 원인 불명 유전성 유방암의 ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;동아일보BRCA 유전자 정상인데 유방암… ‘4가지 유형’ 밝혀졌다&nbsp;&nbsp;헬스조선유전성 유방암 ‘4가지 유형’ 세계 최초 규명···각기 다른 치료제 써야 더 효과적&nbsp;&nbsp;경향신문",
       "sources": [
         {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3UEFfdnVqUTNmUW9rZktQWklFcXRKbkhKV3pIVTBQS04zMkdTRTNQNTVmUThsSkh4WFNDamZFNm9qV3dibUdkTmRIYjdoeWNKRzROS05US2s0Rkt3a0ZjRDFHX2lGYVlLOVE?oc=5"
+          "name": "라포르시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNlJvVkNSQTU3N2xmQnA5MWhWdVM0WFJRcGFaSVBiMXpQNXR3V19zQ1FGVm5RUDRvQlU5QlBVa2JVY0dMRGlsZGctcDdkSUVONnBhX2JHMUViYm50STQ1ZU9aeXUta2xfZ3RlWA?oc=5"
         }
       ]
     },
@@ -45,7 +129,7 @@
       "id": "59a13787014c",
       "title": "초가공 식품, ASCVD 발병률 높여... - 후생신보",
       "published": "2026-04-22T01:09:00+00:00",
-      "summary": "초가공 식품, ASCVD 발병률 높여...&nbsp;&nbsp;후생신보한 번만 먹어도 ‘심장마비’ 위험 오르는 음식… 대체 뭐야?&nbsp;&nbsp;헬스조선냉장고 속 ‘이것’ 먹었더니 멀쩡하던 무릎 ‘삐걱’…허벅지 근육 망가뜨린 주범은&nbsp;&nbsp;서울신문“초가공식품 많이 먹을수록 비만 위험 63%↑”&nbsp;&nbsp;현대건강신문무릎 쑤시면 ‘이 음식’부터 끊어라…관절 망치는 뜻밖의 식단&nbsp;&nbsp;뉴스와",
+      "summary": "초가공 식품, ASCVD 발병률 높여...&nbsp;&nbsp;후생신보한 번만 먹어도 ‘심장마비’ 위험 오르는 음식… 대체 뭐야?&nbsp;&nbsp;헬스조선“초가공식품 많이 먹을수록 비만 위험 63%↑”&nbsp;&nbsp;현대건강신문무릎 쑤시면 ‘이 음식’부터 끊어라…관절 망치는 뜻밖의 식단&nbsp;&nbsp;뉴스와초가공식품 많이 먹었더니…허벅지 근육에 ‘마블링’ 형성[바디플랜]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "후생신보",
@@ -62,18 +146,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2RHZucFJiMURiTEI1Y25VQ3dkZ0NGZXRUN25TX0M2VkJvQjA1RzZEY3ppdFpmN080MnYxYWtKWVB3MnNPX3NmQ1k0MHRVWkhna1Y3UlE5ZzFjWlFUQzAxR0szb1VfYmhVcGxSOXBYNHNVOVVORWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3c3daee3834",
-      "title": "운동 시작해야 할 또 하나의 ‘강력한’ 이유 - 헬스조선",
-      "published": "2026-04-22T00:20:00+00:00",
-      "summary": "운동 시작해야 할 또 하나의 ‘강력한’ 이유&nbsp;&nbsp;헬스조선심폐 지구력, 우울증·치매 예방에 핵심&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hRWpFZ1RTTzY5cDJtZnJOX1Z6TzgxQllWdlBwUjUxNm9tcVhTYzQwaXdocTZCSFUzbjRnZFE1dVYzOWRhNzlhMndBZnBqRGp4cjloWTdZd0h6cktVVVo3cGV2SWZUaWVPZWh5T1hLeVc1ek5SSUE?oc=5"
         }
       ]
     },
@@ -102,30 +174,6 @@
       ]
     },
     {
-      "id": "349389490717",
-      "title": "“술 안 마셔도 간암?”…지방간염, 간이 보내는 마지막 경고 - 현대건강신문",
-      "published": "2026-04-21T23:04:00+00:00",
-      "summary": "“술 안 마셔도 간암?”…지방간염, 간이 보내는 마지막 경고&nbsp;&nbsp;현대건강신문살찌고 지방간 있는 2030, 신장암 위험 2배 이상 높다&nbsp;&nbsp;v.daum.net간암만 위험한 것 아냐… 지방간, ‘신장암’ 증가시켰다&nbsp;&nbsp;헬스조선비알코올성 지방간, 신장암 위험 1.5배↑…비만 동반시 2.1배&nbsp;&nbsp;연합뉴스술 안 마셔도 지방간 있는 2030세대, 신장암 위험 약 1.5배 더 높다&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6VnFOX0x5OHJaRXZLcmxKY0xiSF9mMEpYZE80MkxaQTZuUkY2VUxzeWVGeGRGNUU0ZFJYNnpWMFRONGpGNTg5TUZSUXp4SzdJdTlYTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ada0ec9a2cf0",
-      "title": "충북도, 5월부터 ‘12세 남성 청소년’ 대상 사람유두종바이러스(HPV) 무료 예방접종 시행! - 케이에스피뉴스",
-      "published": "2026-04-21T22:40:00+00:00",
-      "summary": "충북도, 5월부터 ‘12세 남성 청소년’ 대상 사람유두종바이러스(HPV) 무료 예방접종 시행!&nbsp;&nbsp;케이에스피뉴스12세 남자 청소년도 HPV 무료 접종…충북도 대상 확대&nbsp;&nbsp;뉴스1자궁경부암 백신 무료 접종 男청소년까지 확대, 왜?&nbsp;&nbsp;조선일보미추홀구, 12세 남성 청소년 사람유두종바이러스(HPV) 무료 예방접종 확대 시행&nbsp;&nbsp;일간투데이달구벌로타리클럽, 저소득층 및 의료사각지대 HPV 예방접종 글로벌 보조금 지원 나서&nbsp;&nbsp;매일신문",
-      "sources": [
-        {
-          "name": "케이에스피뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1JS00tYUN2blhBYmlCOHVfYW1zbmstWk40eXdadEhpcXEtZDdKSnEyXzgyMmJSWFlRbGhaNTdEQ0M3WUJBTkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3f3804a1af24",
       "title": "근태 담당자가 자기 지각 기록 49번 ‘셀프 수정’···정부 출연 연구기관 직원 해임 - 경향신문",
       "published": "2026-04-21T22:17:00+00:00",
@@ -150,18 +198,6 @@
       ]
     },
     {
-      "id": "547dcd4ce4b6",
-      "title": "\"당뇨 환자, 아침 고강도 운동 피해라\"...아침엔 인슐린 민감도 낮아져 - 하이닥",
-      "published": "2026-04-21T22:00:00+00:00",
-      "summary": "\"당뇨 환자, 아침 고강도 운동 피해라\"...아침엔 인슐린 민감도 낮아져&nbsp;&nbsp;하이닥\"2형 당뇨 환자, 오전보다 오후 운동이 혈당 조절에 더 효과적\"&nbsp;&nbsp;v.daum.net‘매일 3분’ 계단 빠르게 오르면… 만성질환과 작별&nbsp;&nbsp;헬스조선운동할 기분이 아니라면 … 어쩌면 내게 맞는 시간이 아닐지도 모른다?&nbsp;&nbsp;BBC\"피곤해도 10분은 움직이세요\"…전문가가 말하는 운동 전략&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LN1NzMXdielltdWZqZXcyVmlPcUtUTXY3NUtVbXhXR2RGZmZJOHdtUkxtLVlxemN6Ry1HZDdrSjNLaVlEODU3RE9iZWhPMXVIdWpCcUF4bWx2Z1lORXUzY1VmQnk2WFRxUGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ce56dde90de5",
       "title": "[최기자의 약업위키] 성인 전용 21가 폐렴구균 예방 백신 ‘캡박시브’ - 약업신문",
       "published": "2026-04-21T21:01:00+00:00",
@@ -174,10 +210,22 @@
       ]
     },
     {
+      "id": "02b0561ef862",
+      "title": "살찌고 지방간 있는 2030, 신장암 위험 2배 이상 높다 - 동아일보",
+      "published": "2026-04-21T19:30:00+00:00",
+      "summary": "살찌고 지방간 있는 2030, 신장암 위험 2배 이상 높다&nbsp;&nbsp;동아일보Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINEVxQ0NxVjhneUpjX0FqWEFNNDk4bmJ2am9PeElhLVV5bUpWMFlYbGdtM2ZRYUdIOGVCZzRnbWZFYl9LVUtFNUt6aWV3bktHSUQ5Z3RFc1FITTM2eUN2VzlUYWZSMS04aFBJ0gFmQVVfeXFMTXMwQ2I0cGNtOGloZUZGYnJGemIzTUJJMmdueGktS3pFbENEZW1PZk5ZQnNVSEZNRWhVTXFTSW1wYm00bjdyZU5IT3gxaTBzU19TVXA3OGh2SF9GczlYSE10VDQ5RUd3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f991a4faf1a0",
       "title": "[헬스캡슐] “전자약 병행한 치매 환자 3년 후에도 진행 억제” 外 - 동아일보",
       "published": "2026-04-21T19:30:00+00:00",
-      "summary": "[헬스캡슐] “전자약 병행한 치매 환자 3년 후에도 진행 억제” 外&nbsp;&nbsp;동아일보잠들기 전 ‘이 냄새’ 맡았더니…노인 기억력 226% 좋아졌다&nbsp;&nbsp;v.daum.net하루 1시간 ‘소리’ 들었더니 치매 단백질 200% 배출…5주 효과 지속&nbsp;&nbsp;하이닥춘천성심병원 손종희 교수팀, 40Hz 감마 자극 기반 알츠하이머 치료 기술 특허 등록&nbsp;&nbsp;메디포뉴스동국대 ‘의·한 협진’ 통해 치매 치료 새 가능성 제시&nbsp;&nbsp;불교신문",
+      "summary": "[헬스캡슐] “전자약 병행한 치매 환자 3년 후에도 진행 억제” 外&nbsp;&nbsp;동아일보Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "동아일보",
@@ -206,6 +254,18 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFnMEZrdnRmWmFSQVFUT1U0OTNWNnFQNGZQdTVEQUFJY3lKYnRfOWFkZ19wVTNSQzNqZHh5cWRrMVFMd3NLaUhRbXNvc0ZhTmg0eF9UX2szY0RrZXRjeG5qM2dseVMtel9HUkFuU1pkN1prWkFDeWo2dzVSeWZmajRTNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a294452bf60",
+      "title": "“아침 공복에 꼭 먹는다”… 비만전문의가 극찬한 다이어트 음식 2가지 - 코메디닷컴",
+      "published": "2026-04-21T14:32:00+00:00",
+      "summary": "“아침 공복에 꼭 먹는다”… 비만전문의가 극찬한 다이어트 음식 2가지&nbsp;&nbsp;코메디닷컴\"당뇨 걱정된다면 꼭 봐야\"⋯의사가 꼽은 혈당에 '안전한 과일·위험한 과일'&nbsp;&nbsp;v.daum.net“아침에 꼭 먹어라”… 혈당 덜 올리고 포만감 주는 ‘이 과일’&nbsp;&nbsp;헬스조선“아침부터 독을?”…전문가가 경고한 피해야 할 아침 식단&nbsp;&nbsp;위클리코리아\"요거트만큼 좋다\"…장 건강에 좋은 아침 음식 5가지&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5FRlNZeVF1RXJ5UTdqT1EtSUlMSFRmR3hUUl9wV0lScGx5VUg3dThlQzJYM1dDVjZ6U3E5RUZmODE0Zw?oc=5"
         }
       ]
     },
@@ -278,6 +338,18 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91RktqTzhpODlTeG1zOVNuT013TGdBV244bEhWSkZHZUZ6YUFPUXZ4ZkJad0ljdzFrS0lEM2REZjhUR1FmcGFPeExDMWpHRzdJdWZsOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17581d13e7e7",
+      "title": "[사이언스샷] 실명 환자에게 빛을 준 유전자 치료제, 실리콘밸리 노벨상 수상 - 조선비즈 - Chosunbiz",
+      "published": "2026-04-21T05:31:00+00:00",
+      "summary": "[사이언스샷] 실명 환자에게 빛을 준 유전자 치료제, 실리콘밸리 노벨상 수상 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1NIMnBNTjhNaFEzZEZzanBYS0cyNkRYT0RhajlrUGJpVFM2WFF5dFJPOGpfd01WNWxmMWV4QVlHUzlYclVYb05HRjYxRkNzWk0wMDBEQkUzU1ZCSy00akIyUkNTRzlhNmtrN2F4dnNDY2JReVVkbkJiSlRMOWF5dnY5LXZjZkd1UlhaR9IBoAFBVV95cUxQUEMwSWtQcE1TWW9qMGFxTzdERWlQekVzY3ZBRHJINXRrRVUwUXd6T1ozTGtFYXhTenUzRVh3UU9XWVdGLVhMV216SmhQdlZqQmM4V2R5OGVxMWtQTEFZYi1KZXVQTU1MbjJJbDZhNVpjSnQ1U0lna2g0cktvaV9SRnZJRU5PRFU5NVdacWdBZmFqVW9tTl9hTXd2LW5MTmR0?oc=5"
         }
       ]
     },
@@ -402,6 +474,18 @@
       ]
     },
     {
+      "id": "d29a74e77084",
+      "title": "단지 부모 치매여서? 받지마라…정확도 91% 혈액검사 부작용 - 네이트",
+      "published": "2026-04-20T19:01:00+00:00",
+      "summary": "단지 부모 치매여서? 받지마라…정확도 91% 혈액검사 부작용&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJNV9hb3Y0V1VhaE1UQ011RDRUZjN4RFFqeUlrS3ByQ2NEam13ZTgyVkVZQUh3VVFES2txaVlsV05CY0NlYkg3amdBNEoxVTJMV1VN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e9b16562a67c",
       "title": "목에서 ‘갈색 덩어리’ 나오더니… 폐암 시한부 선고 받은 女, 무슨 일? - 헬스조선",
       "published": "2026-04-20T18:40:00+00:00",
@@ -426,18 +510,6 @@
       ]
     },
     {
-      "id": "256587ebaa26",
-      "title": "고려대 공동 연구팀, ‘뇌 오가노이드’ 활용 알츠하이머 실시간 진단 플랫폼 개발 - 인더스트리뉴스",
-      "published": "2026-04-20T09:30:31+00:00",
-      "summary": "고려대 공동 연구팀, ‘뇌 오가노이드’ 활용 알츠하이머 실시간 진단 플랫폼 개발&nbsp;&nbsp;인더스트리뉴스단지 부모 치매여서? 받지마라…정확도 91% 혈액검사 부작용&nbsp;&nbsp;v.daum.net\"줄기세포로 알츠하이머 조기 진단\"…비침습 플랫폼 개발&nbsp;&nbsp;newsis.com치매 조기 진단 길 열었다…알츠하이머 환자 ‘미니 뇌’ 모델 구현해 실시간 분석&nbsp;&nbsp;BRIC고려대 박희호 교수팀, 형광·방사성 물질 주입 없이 알츠하이머병 실시간 진단 기술 개발 … 치매 조기 진단 용이&nbsp;&nbsp;뉴데일리 경제",
-      "sources": [
-        {
-          "name": "인더스트리뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45SFhnMjRodGM1YXplYlN1dE9ZRkhydnF4dlZONlIzS3l0dHR1eGNtdDljX05MMUxTcXcxb09FeGw1TFh3S0tJLWVSZWhRS1lNSEtWTE1SdEd3em1RQVozV09XQTZYRlhrbVB4VUJNc1Awdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f6dbf89c7d44",
       "title": "6세 아이 살 쪘다고 밥 줄였다간…“근육 성장 방해할 수도” - 하이닥",
       "published": "2026-04-20T08:30:00+00:00",
@@ -450,18 +522,6 @@
       ]
     },
     {
-      "id": "a5761ab5395a",
-      "title": "연세암병원, 치료 까다로운 ‘삼중음성유방암’ 항암치료 예측효과 모델 개발 - 헬스경향",
-      "published": "2026-04-20T04:30:02+00:00",
-      "summary": "연세암병원, 치료 까다로운 ‘삼중음성유방암’ 항암치료 예측효과 모델 개발&nbsp;&nbsp;헬스경향'삼중음성 유방암' 항암 효과…'이것' 함께 분석해 예측&nbsp;&nbsp;newsis.com\"삼중음성 유방암 항암반응, 단백·유전자 함께 보면 예측가능\"&nbsp;&nbsp;연합뉴스치료 까다로운 '삼중음성 유방암', 항암치료 효과 예측법 나왔다 - 머니투데이&nbsp;&nbsp;머니투데이연세암병원 “삼중음성 유방암 항암 반응 예측, ‘이것’ 관건”&nbsp;&nbsp;이투데이",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6eUJoVGxEYWxSTlJ5c3dKcmtIQkZBbkFGbElDR0xGdk1hYW0yTk9ZYTAwSHQ4Sm5oQzVIdmFqVV9oSXlMRlN2R3lRTEY5aE4yTkRMaHUwSklaRTIxVzd6NVZ1ZWJLWmVtWkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "09afda4145ea",
       "title": "“과제명에 ‘AI’ 빠지면 떨어진다...AI 비중 낮은 연구도 지원 필요해” - 조선일보",
       "published": "2026-04-19T22:02:03+00:00",
@@ -470,18 +530,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU0laemJjdGRJaXJPZzlyVHpIaDZJNnNxVlV6Y3pVcUFWUk9rczk3T3h0T0t6ZlJvRV8tYzQwODVCWnV1V09qeUo3TEhVR1dJVDdKMlczMHJEVnJpZ1ZWUklfZXN2TnptUGhDenFmenBVaEgwalVsdk9JRGNmTFd3Mm9uUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "196ffad8b3bd",
-      "title": "'실리콘밸리 노벨상' 브레이크스루상에 기본입자 뮤온 탐구한 국제연구팀 - 동아사이언스",
-      "published": "2026-04-19T03:47:00+00:00",
-      "summary": "'실리콘밸리 노벨상' 브레이크스루상에 기본입자 뮤온 탐구한 국제연구팀&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14eUtxLU5pS0daUktFRU4yblBQamZ0T0tWc1dNdHlCRmMwd1lqZ3pCbnpVazBvWk9vUEg1UDhlcjBqTlRIdDc1UTNvcVUyLVllRGwwQg?oc=5"
         }
       ]
     }
