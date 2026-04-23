@@ -1,10 +1,82 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-23T08:01:12.391705+00:00",
-  "total_fetched": 117,
-  "unique_count": 117,
-  "health_related_count": 59,
+  "fetched_at": "2026-04-23T13:52:37.707833+00:00",
+  "total_fetched": 93,
+  "unique_count": 93,
+  "health_related_count": 53,
   "news": [
+    {
+      "id": "07a2dadbcd5e",
+      "title": "또 마스크 대란 올라…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려 - 전자신문",
+      "published": "2026-04-23T11:55:47+00:00",
+      "summary": "또 마스크 대란 올라…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문다음 팬데믹 될까… 박쥐 코로나바이러스, 새 경로로 인간 세포에 침투 - 조선비즈&nbsp;&nbsp;Chosunbiz“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제[사이테크+] \"박쥐 코로나바이러스, 인간 세포 침투하는 '새 경로' 확인\"&nbsp;&nbsp;연합뉴스코로나 끝난 줄 알았는데…\"변이 없이 인간에게 침투\" 박쥐 바이러스 경고 나왔다[과학을읽다]&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xZ09mM2VmS3JIVFRxR0loZkp5UjNZbngteU1KakVNcGlaZ2dWS3pYamZtRC1sSmJONGtOVWRiMzdKRmEzMzlnRXFMYlFXUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3265c0e3778",
+      "title": "“밤마다 미친 듯이 가려워”…11개월 간 가려움 ‘건조 피부’랬는데, 암이라고? - 코메디닷컴",
+      "published": "2026-04-23T11:05:00+00:00",
+      "summary": "“밤마다 미친 듯이 가려워”…11개월 간 가려움 ‘건조 피부’랬는데, 암이라고?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3LTNERXktTjJZZ0JMRUZDOGw3UmRXSFRnWlVxU3d2OVZTVGRLUFltN3AwXzVtWkxwZ2NGamFiajdhUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e731b4e7aa11",
+      "title": "백신 맞았는데 독감 걸린 이유… ‘잠’ 때문일까 - 헬스조선",
+      "published": "2026-04-23T10:40:00+00:00",
+      "summary": "백신 맞았는데 독감 걸린 이유… ‘잠’ 때문일까&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLdUh5cFBkdDhJM1N0MWhBTnMxREtES0NjaTh0RXBmUGRUU3hrZWpXVjFQcWplZl9JMXlDckxZUDNuTVRaLTcydUs4YTR4aG05WnpxUUJPOU1TQk9GdkF4Tm9KU2Mwa2hFQ0ZSZVRkSUh5QlMya3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4cbbc9dcea9",
+      "title": "폐경 후 유방암 예방하려면…체중관리는 기본, 혈압·혈당도 잡아야 - 네이트",
+      "published": "2026-04-23T09:26:00+00:00",
+      "summary": "폐경 후 유방암 예방하려면…체중관리는 기본, 혈압·혈당도 잡아야&nbsp;&nbsp;네이트폐경 후 유방암 예방하려면… 체중관리는 기본, 혈압·혈당도 잡아야&nbsp;&nbsp;v.daum.net[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;헤럴드경제폐경 후 비만·대사증후군, 유방암 발병 위험 최대 40% 높인다&nbsp;&nbsp;하이닥‘유방암 걱정’ 중년女, 체중만 관리하면 큰일나는 이유는?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wNVcxbEg4Y2p5Tk9qNm5aYjNPbXE2ZW9OMzNVQllIZENFeDRqVGJXZUMtd09PU1otSzFXd3ZlZDN2eWJxN3VMSVFDT2hNWkVKdF9v?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d525a88be1e0",
+      "title": "‘뇌의 창문’ 망막...루이소체치매, 혈관 밀도로 이상 신호 읽는다 - 디멘시아뉴스",
+      "published": "2026-04-23T09:24:51+00:00",
+      "summary": "‘뇌의 창문’ 망막...루이소체치매, 혈관 밀도로 이상 신호 읽는다&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MSmMycm1sNGxHNDZqanFiTXdzODVtN2owazAxU09sVV9ab290UmhZX0RYZHRpWU9HQlpqT1MwSTJzazV5MjBva1kyYUZ6SXBKWXhsVHgwa0JKRlZmeFV2MTZya24xb0wzeUtMWXJIeHBndw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47cd8e241104",
+      "title": "경동맥 협착증, 혈관 절반 막혀도 무증상… “조기 검진이 뇌졸중 예방의 열쇠” - 하이닥",
+      "published": "2026-04-23T09:00:00+00:00",
+      "summary": "경동맥 협착증, 혈관 절반 막혀도 무증상… “조기 검진이 뇌졸중 예방의 열쇠”&nbsp;&nbsp;하이닥내 머릿속 시한폭탄! ‘이 증상’ 놓치면 뇌졸중?! / 이승훈 서울대학교병원 신경과 교수&nbsp;&nbsp;YTN 사이언스‘뇌’가 만약 괴로울 때면 내가 위로해줄게&nbsp;&nbsp;경인일보\"봄철 어지럼·두근거림, 단순 증상 아냐\"…고령층 뇌졸중 '숨은 원인'&nbsp;&nbsp;보건신문의사들이 뇌졸중과 심장마비의 근본 원인을 예방하는 데 도움이 되는 3가지 '황금' 키워드를 공개했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01MFFJZmI2Y3doYWh4OXVNdEdzZWpqX2Q0d2d2LTl0SmN1M2x1aGNTaUJIY0oybm1nTmZGcW5DN2UyMkJYSVM2MW1NUHczRGxHS1FQa0M5VnBuUDZFUG5JcDlZXzhQZUNzcWc?oc=5"
+        }
+      ]
+    },
     {
       "id": "fa8958a56f16",
       "title": "‘17~29세’…이 때 살찌면, 조기 사망 위험 70% 높아진다? - 문화일보",
@@ -14,6 +86,18 @@
         {
           "name": "문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xNHZkazBnaktNRTJsaDQ4RUhFRlIwOTRvVlE5SjVqdXJXcVBONW9DcjRTMmdqbkRTRE1WNW00cHNpaDFnVjRPdlFTbFMyX2RH?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c74f287f254",
+      "title": "치매 위험 낮출 방법...매년 독감 예방 접종 - 공정뉴스",
+      "published": "2026-04-23T06:33:10+00:00",
+      "summary": "치매 위험 낮출 방법...매년 독감 예방 접종&nbsp;&nbsp;공정뉴스'아침마당' 문지연 교수 \"대상포진=출산의 고통…50대부터 예방접종 추천\"&nbsp;&nbsp;네이트[매일건강] 환절기 발병 주의보…72시간 치료 ‘골든타임’&nbsp;&nbsp;울산매일대상포진 백신 ‘통증 예방’ 넘어 ‘치매 지연’ 카드 될까&nbsp;&nbsp;Korean Journal Houston흉부 대상포진으로 ‘가슴’ 치료 65세男...엉뚱하게 ‘다리’ 마비, 왜?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "공정뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RRUQ5bUp5TW9qamdCaENHQjBrQ0Z4YVF3TmVxa0p4WmNSTEVnSEg1LWdZdWN1eHBjS2hoc0h2TElpOVg1MGxPU2dZOVByd0Y1MjlZU2RhVDVwSk9NaTVjOEZveU5BSXlC?oc=5"
         }
       ]
     },
@@ -30,14 +114,14 @@
       ]
     },
     {
-      "id": "d707dab4a579",
-      "title": "김형준 원장 IJMS 게재… 턱관절 질환 ‘면역–기계 통합 모델’ 제시 - 유스연합",
+      "id": "a9ad945142d9",
+      "title": "김형준 원장 IJMS 게재… 턱관절 질환 ‘면역–기계 통합 모델’ 제시 - 한국AI부동산신문",
       "published": "2026-04-23T05:20:27+00:00",
-      "summary": "김형준 원장 IJMS 게재… 턱관절 질환 ‘면역–기계 통합 모델’ 제시&nbsp;&nbsp;유스연합",
+      "summary": "김형준 원장 IJMS 게재… 턱관절 질환 ‘면역–기계 통합 모델’ 제시&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YaXN5Wk4zWkhNX0dFY3U5NGV0ZkZTaW5pSHc5SU1tMDlnSjNGT2pDTnYyUExaZUwtQ0VZUlV0NTdJUjVnQk5yc0duaWZxalMwWmc?oc=5"
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zVTZUZkJYLW5vWmFIemtvRWJzV2k1eVhyM3gzemFYa0NwYWpqUWUwempUOUp3ekNiQVJYdE8xTHRJM3Z3eFp2OEtwbHo?oc=5"
         }
       ]
     },
@@ -45,7 +129,7 @@
       "id": "1f55f6b45abb",
       "title": "불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아 - 경향신문",
       "published": "2026-04-23T05:17:00+00:00",
-      "summary": "불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제\"몽유병 등 수면장애 시 치매·파킨슨병 위험 32% 높아\"&nbsp;&nbsp;연합뉴스잠들기 전 ‘이 냄새’ 맡았더니…노인 기억력 226% 좋아졌다&nbsp;&nbsp;미주중앙일보\"수면장애, 치매·파킨슨병 위험 32% 높인다…몽유병이 특히 취약\"&nbsp;&nbsp;v.daum.net",
+      "summary": "불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스잠들기 전 ‘이 냄새’ 맡았더니…노인 기억력 226% 좋아졌다&nbsp;&nbsp;미주중앙일보\"수면장애, 치매·파킨슨병 위험 32% 높인다…몽유병이 특히 취약\"&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "경향신문",
@@ -66,14 +150,14 @@
       ]
     },
     {
-      "id": "401feb2f95ba",
-      "title": "비씨월드제약, 틈새 시장 공략…만성질환 구강붕해정 지속 - 메디칼타임즈",
-      "published": "2026-04-23T02:50:26+00:00",
-      "summary": "비씨월드제약, 틈새 시장 공략…만성질환 구강붕해정 지속&nbsp;&nbsp;메디칼타임즈",
+      "id": "62cf53311dc2",
+      "title": "일산백병원, 5월 9일 ‘신경외과 연수강좌’ 개최 … 뇌혈관·두개저·척추 질환 최신 치료지견 공유 14개 강연 - 헬스오",
+      "published": "2026-04-23T04:06:57+00:00",
+      "summary": "일산백병원, 5월 9일 ‘신경외과 연수강좌’ 개최 … 뇌혈관·두개저·척추 질환 최신 치료지견 공유 14개 강연&nbsp;&nbsp;헬스오",
       "sources": [
         {
-          "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EVVVyODdUaTI1bURQN29WNGVVc2lDRDJCdnJYaGhUaHRjUkt1TDE4LWFKTzYteUh5YnN3TnQ0NXUtT3dvaWJkQWUyeVJUa0I4eXZZeFh2V0Jnc1pMZGpaNFlPRnBUTFhVQVhUVlNlZFY?oc=5"
+          "name": "헬스오",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DZ05CVEd5bEZteTk0WFh0eEFFNHk5YkJTZmpUc3JLZVJuNUliVWF3TWNlbGRQc0FtTno3U3dqVUxoaG44Mjg0WndaYWhHUzNwYTBmZnpEbGg?oc=5"
         }
       ]
     },
@@ -90,26 +174,14 @@
       ]
     },
     {
-      "id": "969d0e12ba29",
-      "title": "다음 팬데믹 될까… 박쥐 코로나바이러스, 새 경로로 인간 세포에 침투 - 조선비즈 - Chosunbiz",
-      "published": "2026-04-23T02:06:00+00:00",
-      "summary": "다음 팬데믹 될까… 박쥐 코로나바이러스, 새 경로로 인간 세포에 침투 - 조선비즈&nbsp;&nbsp;Chosunbiz[사이테크+] \"박쥐 코로나바이러스, 인간 세포 침투하는 '새 경로' 확인\"&nbsp;&nbsp;연합뉴스“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제코로나 끝난 줄 알았는데…\"변이 없이 인간에게 침투\" 박쥐 바이러스 경고 나왔다[과학을읽다]&nbsp;&nbsp;아시아경제",
+      "id": "07c58ce575fe",
+      "title": "빈혈, 단순 피로 아니다…＂치매 위험 최대 66% 높여\"[노화설계] - 네이트",
+      "published": "2026-04-23T01:46:00+00:00",
+      "summary": "빈혈, 단순 피로 아니다…＂치매 위험 최대 66% 높여\"[노화설계]&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmlKQ0tzekJ4clp5a1lXWnFYTWEtY2Z3blNTbmQydi15c3NfM1pnVlVPWDZtTy0wX1I5VWdWOGhxbktXalRpUS1PTFNIY0FxakJTd0M3UUtUVGJUaWY4Zmp2VUM3X2VqVjY0dDBBLVE1ZEhmYzVzbkFUY0RZZ05jdDBVdGFvSjZpVzlwUNIBoAFBVV95cUxPRmRqRDBSZjZpZU01OXo3VVQ1TlFsLTBicjFaZmJxWjdSeWxhSjBpdzFQVVNscjRTemdjZUxZLWxjbDBCcWp3RXQ5QjRDYkkyRmJTbWJJTUYtRzRxb09MWHN3cE5UX2VpSGVyblJWV3lRTlRCdm03V1hLbkhxSF9sWUpGZGZoVGpmdUM1aUJDSl9RbXlNUWQ3Mm1rOW5WS3Bf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6a9f8789df3",
-      "title": "빈혈, 단순 피로 아니다…＂치매 위험 최대 66% 높여”[노화설계] - 동아일보",
-      "published": "2026-04-23T01:45:00+00:00",
-      "summary": "빈혈, 단순 피로 아니다…＂치매 위험 최대 66% 높여”[노화설계]&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qc1phc2ZyMWwycFdPLUZTRXNoSGU3eDVpamlwTEU5TEJ5Yy1ORmNLTlA3NlJVcHF3SWhKRWduYzFlcEVwQXpZWUplU2pYemgyQ0FvZFFodEE2VEg5M3VLdlpGdUVtNl85eVY1OHVLc9IBZkFVX3lxTE5vSlplT0M1d1FmMUY3cHJDOElaQkFQN0JDSDdVbmJRZVZiWlE3Z014aFhBZkJZa1RFdlVaT09lYVQ0alBKMFNfcm9KbkdXcGZzcVZpMXdNZjFtNGE0VmVMeHZpSEtuZw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XN2Z2VlR5b0JxaGVFU2VIZmNKRlZvR0RWeWpOS0ZTMkxCXzQ5Vm1la2g5MFU0ZWJBUnY3ajZQXzZyVXlwOHl6Y29mbk9BaDktVi1F?oc=5"
         }
       ]
     },
@@ -122,30 +194,6 @@
         {
           "name": "헬스코리아뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNSy1UeldjR3hLRXVDY3VSM2psYmxLYmlrU1QzV1R3MHpzMXBNczhBQV93eVY4YnhaMlQtRkRTNWpvOHh6OF82ZFFlSDFHQ0xXcDVwejYtb2p0RG1odUtETlhUWF9tQVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e549846c3817",
-      "title": "일산백병원, 내달 9일 ‘신경외과 연수강좌’ 개최 - 청년의사",
-      "published": "2026-04-23T01:27:47+00:00",
-      "summary": "일산백병원, 내달 9일 ‘신경외과 연수강좌’ 개최&nbsp;&nbsp;청년의사",
-      "sources": [
-        {
-          "name": "청년의사",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WNGhmaUhudnpBQU9PanQ5S1g5R2psSjMxcjVOYUVUUFhFMENCUjlKS1B0dEp2cUxXb2tZWUJyV1QwMUlBV19jZ09BN2ItNzRsLWRUQlRfQVRZRUZIczEyRjRncTJiam5vWTNKUGFUNNIBc0FVX3lxTE5pT1F5S3JvMWpPSnp4WmZSMTNhUjJ1RkR6VVVMTFFmeTFvRkt1bkdRSGM2b2Y2X1BxWlVfaTFqYWR0dVkycnRrQ2Y1YmxubGdDSExvTHBTeFVlVE9JV2NaSTUyeWVOSkltcGVsUUlMMXNZQms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7432bf2b92ab",
-      "title": "뇌졸중, 골든타임 4.5시간 넘기면 후유증 급상승 - 뉴스토마토",
-      "published": "2026-04-23T00:35:18+00:00",
-      "summary": "뇌졸중, 골든타임 4.5시간 넘기면 후유증 급상승&nbsp;&nbsp;뉴스토마토내 머릿속 시한폭탄! ‘이 증상’ 놓치면 뇌졸중?! / 이승훈 서울대학교병원 신경과 교수&nbsp;&nbsp;YTN 사이언스‘뇌’가 만약 괴로울 때면 내가 위로해줄게&nbsp;&nbsp;경인일보증상 지나갔다고 안심? 3개월 내 18% 재발…뇌졸중 경고 신호&nbsp;&nbsp;네이트\"봄철 어지럼·두근거림, 단순 증상 아냐\"…고령층 뇌졸중 '숨은 원인'&nbsp;&nbsp;보건신문",
-      "sources": [
-        {
-          "name": "뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mc3N3TklteGg3ZlowQTNzUk9EWnBmd2lCZ2RoZG94WHV5ZEE0Z3JlT1IxaTh2UlFmeUcyQ1ZYRnladnpEejJyQnlicjJaVk9CM1YyNUl4Vno0d0dXZ216Sg?oc=5"
         }
       ]
     },
@@ -210,38 +258,26 @@
       ]
     },
     {
-      "id": "2456c7c6bbc1",
-      "title": "“백신공백 노린 수막구균 B”…접종 사각지대 ‘경고’ - 동아일보",
-      "published": "2026-04-22T21:47:48+00:00",
-      "summary": "“백신공백 노린 수막구균 B”…접종 사각지대 ‘경고’&nbsp;&nbsp;동아일보",
+      "id": "41d7047973a8",
+      "title": "\"백신공백 노린 수막구균 B\"…접종 사각지대 '경고' - 네이트",
+      "published": "2026-04-22T21:40:00+00:00",
+      "summary": "\"백신공백 노린 수막구균 B\"…접종 사각지대 '경고'&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KXzJ6QUY1Y2xLVW1MTzNONWVKT2hwenp2eXlncWdHUGV3WUJaajhrVWFkd3JkbzJJQ0c2QWdPazVsVVEyQ3VINDVSUXFNN3NqZEloMi1nOFhmMWM4bGtWV1FKZzU5N2h3VzZVZEc2TEZoUE0tWkHSAWZBVV95cUxPQ1FsWERxa0ZtMjR1VmJ5OUxzQ3dtNnk4ajBuZXdxVVY4YkMyU1FLMERlRFd5VHRuT2sxZnZ3a2M3NmpIQUNVaXgyZXcwWDFxNEIxOGRtUEM4SzhKSUJweEhZRW1zYVE?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MaUIwMjdlR2h4X1JUck5lbVVMR0NCUEE1c0phUXhfSEloSW5pdDlYNUt6LTI5Z04tNkdhd3dvOFlKUmY4Szhmc1A5ZmZ6TUpOWGJj?oc=5"
         }
       ]
     },
     {
-      "id": "0b6f81862fc4",
-      "title": "뇌 속 '식욕 스위치' 발견, 비만 치료 혁신 열리나 - 유스연합",
+      "id": "82689a2806e7",
+      "title": "뇌 속 '식욕 스위치' 발견, 비만 치료 혁신 열리나 - 브랜드경제신문",
       "published": "2026-04-22T20:37:00+00:00",
-      "summary": "뇌 속 '식욕 스위치' 발견, 비만 치료 혁신 열리나&nbsp;&nbsp;유스연합",
+      "summary": "뇌 속 '식욕 스위치' 발견, 비만 치료 혁신 열리나&nbsp;&nbsp;브랜드경제신문",
       "sources": [
         {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vcWljWllUd2pyMVg1QTJQcVlpVFI2djFqcTJYMVpiSDE2Rmt6aW51N0dsVTRlQzVlVmhaXzNSX05NZ1FYZXA1MnpvWXROS2pldXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eff545ca5d5a",
-      "title": "지방간 환자, 매일 ‘이것’ 먹었더니 혈관 깨끗해졌다 - 헬스조선",
-      "published": "2026-04-22T18:00:00+00:00",
-      "summary": "지방간 환자, 매일 ‘이것’ 먹었더니 혈관 깨끗해졌다&nbsp;&nbsp;헬스조선동그란 '이 과일' 4주 먹었더니⋯지방간에 당뇨·내장지방까지 싹 '개선'&nbsp;&nbsp;v.daum.net매일 ‘오렌지’ 먹으면 나타나는 변화… “항산화, 심혈관 건강까지”&nbsp;&nbsp;하이닥4주만 먹어도 뱃살 쏙? 지방간과 내장지방을 싹 개선하는 마법의 과일 : 패션 & 뷰티&nbsp;&nbsp;kstars.kr",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QMS01NDlFMndfZjQyZ2RVOUVwczFWZEFjZ2pXbVNWR041MkY2UG9XSC1BWjNsSDdWbnVUSTVTcmF4d0l0X0dYRmE5RnlDOVJhVmVqOHJpZE02RXpld2k2b1JwV0pSZXRtTGotRkxlYmw4WlR4eUE?oc=5"
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9CNU54QVFzLTRlV1RONkRWdlNfSWttN3VBQnRnT09ob0JId3JiWmlhSW9fUHpEN0dWajMtRFU2OUpEdXJCbVBzY0hrOHI?oc=5"
         }
       ]
     },
@@ -306,18 +342,6 @@
       ]
     },
     {
-      "id": "b8934fb46f3e",
-      "title": "“잠 못 자면 백신 소용없다”… 수면무호흡증 환자, 독감 위험 1.7배↑ - 하이닥",
-      "published": "2026-04-22T13:00:00+00:00",
-      "summary": "“잠 못 자면 백신 소용없다”… 수면무호흡증 환자, 독감 위험 1.7배↑&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtNkd6a2Zfd3lFS2doWGJJMzVfS1EtbGJvVGxfdWFpZFp2SzQwdWhzQnhXS1hSRFhueVZyU3FUZUZocXdyd2RPRHZQZ3JrYWxpME5NbndfbGZtWUZZZF9SY1VFQUxqUmpTT3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "34cdaf0b35c8",
       "title": "뇌 전체 혈류량 조절하는 상반된 ‘신경 세포군’ 발견…뇌 질환 연구, 새로운 길 열리나 - 하이닥",
       "published": "2026-04-22T12:00:00+00:00",
@@ -330,14 +354,14 @@
       ]
     },
     {
-      "id": "c349102fae9f",
-      "title": "노인 비만약 정책, 보험사와의 갈등 - 브랜드경제신문",
+      "id": "8f5b3e8aa779",
+      "title": "노인 비만약 정책, 보험사와의 갈등 - 유스연합",
       "published": "2026-04-22T11:04:53+00:00",
-      "summary": "노인 비만약 정책, 보험사와의 갈등&nbsp;&nbsp;브랜드경제신문",
+      "summary": "노인 비만약 정책, 보험사와의 갈등&nbsp;&nbsp;유스연합",
       "sources": [
         {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wNGJHbXAxMmtZR2ZMRzJNVEgyelBXalpTQUMyUmdsbG1pbWdpazR6bTgtMEc5clRkVTctYUVubzBDdVMxUUlnOUNobnk?oc=5"
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50Vlg0QjJUOFp2MW1aNkNzc0VFUndEOVNUNHdGMHRtbU9ZTW5fR1AzVHZzbDFzRG5neVhGazBfcXN3Y2pQU0cwWGxQTzhYZFFXelE?oc=5"
         }
       ]
     },
@@ -369,7 +393,7 @@
       "id": "dcd1a007461a",
       "title": "치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려 - 조세일보",
       "published": "2026-04-22T09:00:50+00:00",
-      "summary": "치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선알츠하이머 걸려도 멀쩡한 이유 찾았다…뇌의 보호 유전자 패턴 규명&nbsp;&nbsp;네이트인지 강화 활동이 알츠하이머 발병 5년 지연시켜&nbsp;&nbsp;바이오타임즈99세 노인, 치매 단백질 있어도 멀쩡...비밀은 '인지 회복력'&nbsp;&nbsp;디멘시아뉴스",
+      "summary": "치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보인지력 감퇴 막으려면...딸기, 고추 자주 먹어야 하는 이유&nbsp;&nbsp;코메디닷컴봄철 면역력에 좋은 논산 딸기&nbsp;&nbsp;매경헬스딸기·블루베리 꾸준히 먹었더니…'가장 중요한 것' 달라졌다, 어떻게?&nbsp;&nbsp;네이트이 빨간색 과일…만능건강식품이네!&nbsp;&nbsp;마음건강 길",
       "sources": [
         {
           "name": "조세일보",
@@ -402,10 +426,22 @@
       ]
     },
     {
+      "id": "68cad9793081",
+      "title": "유전자보다 강했다… ‘이 습관’으로 치매 예방 - 헬스조선",
+      "published": "2026-04-22T08:00:00+00:00",
+      "summary": "유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DVDdQQnJVcTY5MTFLMHZsU1Q1UUJacW5Xd0ZwcTJXWUp0bUY2TU9JaThMZXU0M0lhRTJSb0hkVVNZWHJ3N05iMDdNcU0tZHFlTDVGNEd1ZWVJNzl3clZtdU10aFdjUUxsZ0trZUhhXzR6UzNyNFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "09b1b13d96b4",
       "title": "국립암센터·가톨릭의대, 원인 불명 유전성 유방암 '4가지 유형' 세계 최초 규명 - 이로운넷",
       "published": "2026-04-22T07:18:36+00:00",
-      "summary": "국립암센터·가톨릭의대, 원인 불명 유전성 유방암 '4가지 유형' 세계 최초 규명&nbsp;&nbsp;이로운넷'브라카'도 아닌데 유전성 유방암…세계 첫 원인 규명&nbsp;&nbsp;뉴시스국립암센터·가톨릭의대, 원인 불명 유전성 유방암의 ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;동아일보유전성 유방암 4가지 유형 규명…각기 다른 치료제 써야 효과적&nbsp;&nbsp;v.daum.net유전성 유방암 85% ‘미지 영역’ 풀렸다…4가지 유형 첫 규명&nbsp;&nbsp;헬스이슈앤뉴스",
+      "summary": "국립암센터·가톨릭의대, 원인 불명 유전성 유방암 '4가지 유형' 세계 최초 규명&nbsp;&nbsp;이로운넷'브라카'도 아닌데 유전성 유방암…세계 첫 원인 규명&nbsp;&nbsp;뉴시스BRCA 유전자 정상인데 유방암… ‘4가지 유형’ 밝혀졌다&nbsp;&nbsp;헬스조선국립암센터·가톨릭의대, 원인 불명 유전성 유방암의 ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;동아일보유전성 유방암 ‘4가지 유형’ 세계 최초 규명···각기 다른 치료제 써야 더 효과적&nbsp;&nbsp;경향신문",
       "sources": [
         {
           "name": "이로운넷",
@@ -477,7 +513,7 @@
       "id": "44adaf4d159b",
       "title": "갱년기 건강관리, 건강기능식품 의존보다 산부인과 전문의 처방이 우선 - 바이오타임즈",
       "published": "2026-04-22T02:20:52+00:00",
-      "summary": "갱년기 건강관리, 건강기능식품 의존보다 산부인과 전문의 처방이 우선&nbsp;&nbsp;바이오타임즈'여성 갱년기' 골다공증·심혈관질환·암 발생도 증가하는 시기…정기적 검진 필요&nbsp;&nbsp;v.daum.net폐경 호르몬 치료, 유방암 발생 높일까? [건강한겨레]&nbsp;&nbsp;한겨레남녀 모두가 겪는 갱년기 증상…이런 '다크 푸드' 먹으면 완화에 도움&nbsp;&nbsp;네이트\"그냥 피곤해서?\" 방심했다간 놓치는 '중년 여성' 질환 4가지는?&nbsp;&nbsp;약사공론",
+      "summary": "갱년기 건강관리, 건강기능식품 의존보다 산부인과 전문의 처방이 우선&nbsp;&nbsp;바이오타임즈'여성 갱년기' 골다공증·심혈관질환·암 발생도 증가하는 시기…정기적 검진 필요&nbsp;&nbsp;v.daum.net폐경 호르몬 치료, 유방암 발생 높일까? [건강한겨레]&nbsp;&nbsp;한겨레\"그냥 피곤해서?\" 방심했다간 놓치는 '중년 여성' 질환 4가지는?&nbsp;&nbsp;약사공론남녀 모두가 겪는 갱년기 증상...이런 ‘다크 푸드’ 먹으면 완화에 도움&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "바이오타임즈",
@@ -494,18 +530,6 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pOURfUUFfbTVjNk4zWjhvVjhfOHl0eVhHR2k0VmdyR1MzV2JiVTlkSHRFelQtZTRMcXVZVmJiTmFwY0N2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5d56ef77f5f",
-      "title": "'인지력 기억력 포스파티딜세린 징코' 70% 할인 - 헬스조선",
-      "published": "2026-04-22T00:37:00+00:00",
-      "summary": "'인지력 기억력 포스파티딜세린 징코' 70% 할인&nbsp;&nbsp;헬스조선내츄럴플러스, '두뇌 인지력 포스파티딜세린PS 분말' GS샵 단독 출시&nbsp;&nbsp;네이트콘타드, 18차 완판·누적 판매 2,000만 정 돌파&nbsp;&nbsp;환경감시일보시니어 두뇌 건강을 위해… 인지력-기억력 동시 케어&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sd3FWNVd6V3VrMEs1ZlE2Q0tnbWlsTXMyU3lLaVQ0TmVqVTlkQkZYWUhZQ3FTNENmMUhzR3N3VmdLY0lKaV8wejREZTNZYjFTVkVNSjZDa3YxOXQ2dktaVHhmTDV4ekd6VVBFM0h6bzFUbDdzVkE?oc=5"
         }
       ]
     },
@@ -558,6 +582,18 @@
       ]
     },
     {
+      "id": "c43da1167aae",
+      "title": "“뇌 영양제 맹신 안돼… 보충제는 보조일 뿐 치료제 아냐” - 동아일보",
+      "published": "2026-04-21T19:30:00+00:00",
+      "summary": "“뇌 영양제 맹신 안돼… 보충제는 보조일 뿐 치료제 아냐”&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDRHpnWUNVcjJ1QU43U3hndVNfTzc5RXBBUVhxQnZ4T2d4THBGMEQtX1kyWFdqeVZYclZBX0dQeldYNFhzMXJHcmdNWkFrWGpMOWZGb0pyZjFvYUhyTElpb254cmZMOFVnZ21HRzdWZ9IBZkFVX3lxTE1TZWRhRGt3Q0JWekVnZ3YwX1ozQy1NcmtTRXdldWlTNzZ6dEw3eVF5SUpoOXp1UDJhb3BBTnh0aThDanlSNXY2UUViZ3BiZlJyNzNRbUVPQmJLX3QyeVAyOElHUERGQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "167f5bd1f386",
       "title": "주변 냉소에도 16년 뚝심 연구… 73년 묵은 이론 풀어 - 조선일보",
       "published": "2026-04-21T15:49:41+00:00",
@@ -566,30 +602,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSkFnMEZrdnRmWmFSQVFUT1U0OTNWNnFQNGZQdTVEQUFJY3lKYnRfOWFkZ19wVTNSQzNqZHh5cWRrMVFMd3NLaUhRbXNvc0ZhTmg0eF9UX2szY0RrZXRjeG5qM2dseVMtel9HUkFuU1pkN1prWkFDeWo2dzVSeWZmajRTNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca41395b0e99",
-      "title": "두통과 생리통에 같은 진통제?... “통증 원인별 효과적인 성분 달라” - 하이닥",
-      "published": "2026-04-21T09:00:00+00:00",
-      "summary": "두통과 생리통에 같은 진통제?... “통증 원인별 효과적인 성분 달라”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBablBPNTVIVHlrWVN6em5VSWprbnJSLVFxRklaSlhNRkY3TlBBbF9uR1JqdUtaV2ZMaTg3SHZRYnA2aEVPTG1KS2IwLWV2MHJSemU1cU10eUxERTRXRUdYa0I3eWxMZHFkaHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88a4127ca70a",
-      "title": "신진우·장영재 등 'AI 연구자' 대거 포진···올해 '과학의 날' 포상 - 헬로디디",
-      "published": "2026-04-21T08:50:00+00:00",
-      "summary": "신진우·장영재 등 'AI 연구자' 대거 포진···올해 '과학의 날' 포상&nbsp;&nbsp;헬로디디",
-      "sources": [
-        {
-          "name": "헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vT1dtQlVwOS1IdXk0bkZqTm5sS1R2ZFM3R0xocjRWSlZfQzBHWkphVGZDZVhhYnFNcF9TazZDYng2UUZrcHpOREltSDgzQXJpU3d4U01hWE1jdTBqOWNRRWVmMlJHSGRZZVE?oc=5"
         }
       ]
     },
@@ -626,90 +638,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hOVQyV3BNUzhybW1aSEl0ZXFJRlBNNEdpMW1yVWRTMEFMNzhNUGhlVGxzcHhUOGtsblYya2RSN2I5bksxcnMtdGRuRjVZaFlybzFOS0VTQ0kxWGlBVHE5VW5DT3p1dExESEVVZGxmNDFlaTRXeGg1dG56ZjhCVUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f465298790a",
-      "title": "우리나라에서 처음으로 ‘공룡 새알 화석’ 발견됐어요! - 조선일보",
-      "published": "2026-04-20T08:59:00+00:00",
-      "summary": "우리나라에서 처음으로 ‘공룡 새알 화석’ 발견됐어요!&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFJ4WTFKaDBlc1VFcTBIX1loN0dBMHBzNWYwenhVZERNSGg2NW9IcW84Q1d3U3lnMWp1UVYyWm44bTRDdGFGOXc5ZU1GRF9nV2hTb3QzdmRrMzFTai1ZX2lCSFNFWk14N0VFYVF5OTBYWTJ3ZVRGR2Q2QTZsSEZITl9QR3FyRTJRLUh6M3A0QW5kbEF4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "09afda4145ea",
-      "title": "“과제명에 ‘AI’ 빠지면 떨어진다...AI 비중 낮은 연구도 지원 필요해” - 조선일보",
-      "published": "2026-04-19T22:02:03+00:00",
-      "summary": "“과제명에 ‘AI’ 빠지면 떨어진다...AI 비중 낮은 연구도 지원 필요해”&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU0laemJjdGRJaXJPZzlyVHpIaDZJNnNxVlV6Y3pVcUFWUk9rczk3T3h0T0t6ZlJvRV8tYzQwODVCWnV1V09qeUo3TEhVR1dJVDdKMlczMHJEVnJpZ1ZWUklfZXN2TnptUGhDenFmenBVaEgwalVsdk9JRGNmTFd3Mm9uUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "196ffad8b3bd",
-      "title": "'실리콘밸리 노벨상' 브레이크스루상에 기본입자 뮤온 탐구한 국제연구팀 - 동아사이언스",
-      "published": "2026-04-19T03:47:00+00:00",
-      "summary": "'실리콘밸리 노벨상' 브레이크스루상에 기본입자 뮤온 탐구한 국제연구팀&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14eUtxLU5pS0daUktFRU4yblBQamZ0T0tWc1dNdHlCRmMwd1lqZ3pCbnpVazBvWk9vUEg1UDhlcjBqTlRIdDc1UTNvcVUyLVllRGwwQg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89170aa369d2",
-      "title": "친구가 연인이 될 수 없는 이유, 이런 심리학 연구 때문 - GQ Korea",
-      "published": "2026-04-17T15:11:22+00:00",
-      "summary": "친구가 연인이 될 수 없는 이유, 이런 심리학 연구 때문&nbsp;&nbsp;GQ Korea",
-      "sources": [
-        {
-          "name": "GQ Korea",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQckJXX2NOUlVaQ0JCLWQ3b2ZUWi1GcVAxZnQyQ3h4RWZlRGh0SnN0WHdiYkJ1RFJhZnJLR1l4VTlxQXdRNUY4TVlNMXNfQ3JtNXhpYlR5ZUdncnlHcV9LUmZLWmp2VDR3YV9ZcVVCRWtzMlIycjZocktYdlJPc1VRbk9TYkRUMmc2YjVhOWJUVGNnb1BkRXhXYlhiTzRiS0JERlllYmlkUGRGNHozdW9KMnE3RU85QkpVb1NWQmIwQUdjNVlSUlJYbUphanh0TXpjNE50dEpEUUtxM3I4MVFTNWVMSEtIUjJ3eV9DSkVnMTI4Y293YnU3ck9NZGtiamlGaWRndVEwb21OSXZvVzdDUFpaSkdIZmFIaHVrNWtXbnc5dkdqZjhNYWgxRnpSOGViZ0VqdlZ4MWE4Q05oY3NNQzAxTzhLVUlGc3gzTWtYN2F0VFVyQ0xN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5eb4a8c79b0",
-      "title": "코로나19 변이형 ‘매미’ 확산…23개 이상 국가서 발견 - 한겨레",
-      "published": "2026-04-17T04:31:00+00:00",
-      "summary": "코로나19 변이형 ‘매미’ 확산…23개 이상 국가서 발견&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTXRZNC1wQy1TYjZKc3RVem1iLWtsb3BEVlZQZ3R6SEVvc2N6RFZ0NXBqSzRoMDRnU005bWxfbms2R2dqMURpR3JHMFFFejEwZTJobzhtUHJFUTVLaDNkdk5oczFHYzFpUEZaMU1ZTXFvM1I3ODJ5YWJ1NnJ1dnhZbEV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f09aabec2705",
-      "title": "오픈AI, 생명과학 연구를 위한 AI 모델 ‘GPT-로절린드’ 출시 - AI타임스",
-      "published": "2026-04-17T03:50:01+00:00",
-      "summary": "오픈AI, 생명과학 연구를 위한 AI 모델 ‘GPT-로절린드’ 출시&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OVUFTQkhEOXZrcS01SjIzXzlVNlNKTVc5RFJ5X1JFZUlXZlVnbUJaQk1UeU5aVkRtRUFIM09XN1AtbXRhb3M0QnZTOUJOaGRwOUg0SFlPSVZkNE1LXzJpZzVYU0E2SWc1X3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb8f15c2634c",
-      "title": "암수로 나뉘지 않는 ‘퀴어한 자연’ [.txt] - 한겨레",
-      "published": "2026-04-16T22:46:00+00:00",
-      "summary": "암수로 나뉘지 않는 ‘퀴어한 자연’ [.txt]&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Idy13eTBhaEhsZTZDTmllQkdzSjhZT0N1dzNiNFkyeXpzWjQ0VTUwcWlUQ3M1RF81ejhrSFhFajJETmNNallhZTMtZndZTDNWTzd2ZjRGcFdaTFROSG5pUWtaTQ?oc=5"
         }
       ]
     }
