@@ -1,15 +1,27 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-23T13:52:37.707833+00:00",
-  "total_fetched": 93,
-  "unique_count": 93,
-  "health_related_count": 53,
+  "fetched_at": "2026-04-23T19:16:16.909333+00:00",
+  "total_fetched": 96,
+  "unique_count": 96,
+  "health_related_count": 58,
   "news": [
     {
-      "id": "07a2dadbcd5e",
-      "title": "또 마스크 대란 올라…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려 - 전자신문",
+      "id": "fc6888d8fe24",
+      "title": "“매일 먹었는데 간 망치고 있었네”… 의사가 경고한 ‘이것’, 뭐야? - 헬스조선",
+      "published": "2026-04-23T17:20:00+00:00",
+      "summary": "“매일 먹었는데 간 망치고 있었네”… 의사가 경고한 ‘이것’, 뭐야?&nbsp;&nbsp;헬스조선열량만 높은 줄 알았는데… “지방 쌓이고 병 생긴다”, 뭐길래?&nbsp;&nbsp;코메디닷컴[이지 사이언스] 달콤한 과당에 숨겨진 치명적 위험…\"대사질환 유발 요인\"&nbsp;&nbsp;연합뉴스과일, 이렇게 먹으면 간에 '직격타'…\"밀가루보다 해로워\" 경고 [건강!톡]&nbsp;&nbsp;네이트설탕보다 더 문제는 과당?...지방 축적·인슐린 저항성 키우는 독자적 경로 밝혀져&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcXFXbzBQQm1reGpNOVpLSmNDNGxSWFgyaWtVT0pVQ1R6dFpRTEQ4YW5TU2o1bFRIWEJkVElLdEtqRnh1QlpEb0VERW9naU5kSDlwd3VIUEJTdHFXUmZOcTdOY2NmVjFmOHNKNkdpOGVkOVJreXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab0c014a5db7",
+      "title": "마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려 - 전자신문",
       "published": "2026-04-23T11:55:47+00:00",
-      "summary": "또 마스크 대란 올라…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문다음 팬데믹 될까… 박쥐 코로나바이러스, 새 경로로 인간 세포에 침투 - 조선비즈&nbsp;&nbsp;Chosunbiz“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제[사이테크+] \"박쥐 코로나바이러스, 인간 세포 침투하는 '새 경로' 확인\"&nbsp;&nbsp;연합뉴스코로나 끝난 줄 알았는데…\"변이 없이 인간에게 침투\" 박쥐 바이러스 경고 나왔다[과학을읽다]&nbsp;&nbsp;아시아경제",
+      "summary": "마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문다음 팬데믹 될까… 박쥐 코로나바이러스, 새 경로로 인간 세포에 침투 - 조선비즈&nbsp;&nbsp;Chosunbiz“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제[사이테크+] \"박쥐 코로나바이러스, 인간 세포 침투하는 '새 경로' 확인\"&nbsp;&nbsp;연합뉴스코로나 끝난 줄 알았는데…\"변이 없이 인간에게 침투\" 박쥐 바이러스 경고 나왔다[과학을읽다]&nbsp;&nbsp;아시아경제",
       "sources": [
         {
           "name": "전자신문",
@@ -78,10 +90,34 @@
       ]
     },
     {
+      "id": "8dffa8317ce4",
+      "title": "수면장애, 치매·파킨슨병 위험 높인다 - 데일리메디팜",
+      "published": "2026-04-23T08:26:18+00:00",
+      "summary": "수면장애, 치매·파킨슨병 위험 높인다&nbsp;&nbsp;데일리메디팜'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스잠들기 전 ‘이 냄새’ 맡았더니…노인 기억력 226% 좋아졌다&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "데일리메디팜",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tSHN5U3RBa2xGbFpEQWJHQkxqZzNXakdodTAtUERqb3A0SmVwdi1Qb0R0SU1ka2h2cE9TZjgyS25nR2kyWU9PUHUzQmtkVk1IRUYyTEQtOXRVSE9TX0RxOHkzSUZSQmJ5M2lWV2dRS3Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d38d545c63fb",
+      "title": "암 환자의 체중 감소와 식욕 저하, ‘암 악액질’ 조기 관리 중요 - 메디컬투데이",
+      "published": "2026-04-23T08:12:01+00:00",
+      "summary": "암 환자의 체중 감소와 식욕 저하, ‘암 악액질’ 조기 관리 중요&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhc0l5NkpFYm12clRKZDNvR2E2MUlFTmpyQUNBNURCMF9OWGVFRmppWS0tN0RtNkIzZUxkMWlDZzBZazdPRzFDanUzc1U0NE96dmRQMjZBbFhyZXpT0gFsQVVfeXFMUFl3VTFlUlkzWTNiQ2tHZHZGc1QyalAwcWVkVnJiTXFCdGNHR3JxMEExUGlzMUFoSFBpcEZGREtSeXZGMGF1MjZpOTdGOVIxdGdieEhDU1dOcW51VTZrdGI2blFHNDRQOFplWHM2?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fa8958a56f16",
       "title": "‘17~29세’…이 때 살찌면, 조기 사망 위험 70% 높아진다? - 문화일보",
       "published": "2026-04-23T06:56:48+00:00",
-      "summary": "‘17~29세’…이 때 살찌면, 조기 사망 위험 70% 높아진다?&nbsp;&nbsp;문화일보\"언제 살찌느냐가 관건\"…30세 전 비만, 조기 사망 위험 70% 높인다&nbsp;&nbsp;뉴시스‘이 나이’ 체중 증가, 조기 사망 위험 높인다…대규모 연구 결과&nbsp;&nbsp;레이디경향30세 이전 비만, 심혈관질환·당뇨 사망 위험 2배 높인다&nbsp;&nbsp;하이닥성인기 초기 발생한 비만, 노년기 조기 사망 위험 높여&nbsp;&nbsp;메디컬투데이",
+      "summary": "‘17~29세’…이 때 살찌면, 조기 사망 위험 70% 높아진다?&nbsp;&nbsp;문화일보\"언제 살찌느냐가 관건\"…30세 전 비만, 조기 사망 위험 70% 높인다&nbsp;&nbsp;뉴시스20대도 만성질환…건강은 ‘일상’에서 갈린다&nbsp;&nbsp;디지틀조선일보‘이 나이’ 체중 증가, 조기 사망 위험 높인다…대규모 연구 결과&nbsp;&nbsp;레이디경향30세 이전 비만, 심혈관질환·당뇨 사망 위험 2배 높인다&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "문화일보",
@@ -126,18 +162,6 @@
       ]
     },
     {
-      "id": "1f55f6b45abb",
-      "title": "불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아 - 경향신문",
-      "published": "2026-04-23T05:17:00+00:00",
-      "summary": "불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스잠들기 전 ‘이 냄새’ 맡았더니…노인 기억력 226% 좋아졌다&nbsp;&nbsp;미주중앙일보\"수면장애, 치매·파킨슨병 위험 32% 높인다…몽유병이 특히 취약\"&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pcFhROWowSGZmRllCLVFqREJBY3dLTklaVkkyN3RjUkNqRlpmU05oaGloMlg5ZWt0cHQtUDBVZ1pNYXRNakN5NVMtb1l1ZE12LWd1bk1sM1d4UdIBX0FVX3lxTE0tcE1zb0hnbGFhUWZpUVBhNmtkMjcycW9ZR0R5SWdFY0habVdRTTV3Z2IzbklhTXlCdXVCWEw5ZFNWUmFMZm11Nm54VVo1S3c0SlNnakpJUmJNOFFOcFJR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d954040cfd55",
       "title": "비알코올성 지방간, 신장암 위험 높여…2030 젊은층, 안심은 금물 - 위즈뉴스",
       "published": "2026-04-23T05:10:57+00:00",
@@ -146,6 +170,18 @@
         {
           "name": "위즈뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qNzZMY19JRVRXOXQySlN2cklTeHg5ZllTV2hOX1M1bmxGSGlrVjVtNFdMUWlQY0M5dHpYanRUZzFvTjgyUW5mSmk0ZURrWVBkdG5OXzN4bW9TNV9VbnpITzJqTmNkdGYweEdN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3bf8224ee84",
+      "title": "이비인후과 전문의가 전하는 ‘환절기 알레르기비염, 감기 차이’는? - 위즈뉴스",
+      "published": "2026-04-23T05:10:02+00:00",
+      "summary": "이비인후과 전문의가 전하는 ‘환절기 알레르기비염, 감기 차이’는?&nbsp;&nbsp;위즈뉴스",
+      "sources": [
+        {
+          "name": "위즈뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85WUpjaWo0ellRYjB6YjlLd2xpUWU0ck01TEUtMjJKYUswQy1mUFh5dmdEOU1tWWtXT1BWUlZRc1QtM0JOYmxNTkxLamRkc1lqX3NkT29xQzlRbzNlcEl3TXpJWEtSdw?oc=5"
         }
       ]
     },
@@ -170,6 +206,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxQVR1SXZDblZqRHBwMjMyQ0VENmRTdzltSXU2U3lVMU4xMDRiNXRpb3B2YjI5YjZrOEpmanRCSVVrNG9MeGpxSGxYbU1CVGlwWU5OYkhzdVA2NFdnWklhaDBtaGtJWDJPWmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa808a9e13b3",
+      "title": "커피보다 물이 먼저? 기상 직후 물 먹어야 하는 이유 - 네이트",
+      "published": "2026-04-23T01:52:00+00:00",
+      "summary": "커피보다 물이 먼저? 기상 직후 물 먹어야 하는 이유&nbsp;&nbsp;네이트생수보다 수돗물이 깨끗하다? 우리 집까지 오는 과정 쫓아보니&nbsp;&nbsp;네이트[팩트체크] 건강 위해 하루에 물 5리터 마신다?&nbsp;&nbsp;뉴스톱\"기상 직후 물 두 잔, 심뇌혈관 질환 막는 보약\"&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ZlkxUHNOREdOZWM2dGxETk9LRUQ4MHQ4MXRwbFlUMWQxc1Uxek53dW5TSWFld1VkNld4X0FXb0ZoOW9IeVF6NEgxdlNDU0tKVUhJ?oc=5"
         }
       ]
     },
@@ -282,6 +330,18 @@
       ]
     },
     {
+      "id": "eff545ca5d5a",
+      "title": "지방간 환자, 매일 ‘이것’ 먹었더니 혈관 깨끗해졌다 - 헬스조선",
+      "published": "2026-04-22T18:00:00+00:00",
+      "summary": "지방간 환자, 매일 ‘이것’ 먹었더니 혈관 깨끗해졌다&nbsp;&nbsp;헬스조선동그란 '이 과일' 4주 먹었더니⋯지방간에 당뇨·내장지방까지 싹 '개선'&nbsp;&nbsp;v.daum.net매일 ‘오렌지’ 먹으면 나타나는 변화… “항산화, 심혈관 건강까지”&nbsp;&nbsp;하이닥4주만 먹어도 뱃살 쏙? 지방간과 내장지방을 싹 개선하는 마법의 과일 : 패션 & 뷰티&nbsp;&nbsp;kstars.kr",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QMS01NDlFMndfZjQyZ2RVOUVwczFWZEFjZ2pXbVNWR041MkY2UG9XSC1BWjNsSDdWbnVUSTVTcmF4d0l0X0dYRmE5RnlDOVJhVmVqOHJpZE02RXpld2k2b1JwV0pSZXRtTGotRkxlYmw4WlR4eUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0a012aaff819",
       "title": "“혈당 조절 효과” 30kg 감량 미자, 아침마다 ‘이것’ 마시는 게 비결 - 헬스조선",
       "published": "2026-04-22T17:20:00+00:00",
@@ -378,6 +438,18 @@
       ]
     },
     {
+      "id": "e018ad1c1c58",
+      "title": "“550만 당뇨병 시대, 가장 큰 보건학적 난제”… 우리가 바꿔야 할 것들 ① [당뇨 체크아웃] - 하이닥",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "“550만 당뇨병 시대, 가장 큰 보건학적 난제”… 우리가 바꿔야 할 것들 ① [당뇨 체크아웃]&nbsp;&nbsp;하이닥내가 당뇨라고? 2030세대가 가장 많이 놓치는 위험 신호&nbsp;&nbsp;civicnews.com당뇨병 환자 매일 실천해야 할 ‘생활 관리 십계명’&nbsp;&nbsp;헬스조선“다시 도전”…두 번째 ‘당뇨 관해’ 꿈꾸는 인생 2막 [당 편한 세상]&nbsp;&nbsp;쿠키뉴스",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aTWhQQmtJSW9TVWZNVlEzUWJKaTJRcXlQWUhlY3hRTXFUNU85XzJHSkh5WW84UGZLOXdCM1BsY0ctdlAwQmhSb1Q4VndON1ZnRUlwRG9xZ3d2WHR1OU1SczY5enRJLVVHTHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "037975aec3bb",
       "title": "[단독] 신한라이프, 5월 '뇌·심장' 납입면제 깐깐해진다 - 뉴스저널리즘",
       "published": "2026-04-22T09:03:39+00:00",
@@ -402,18 +474,6 @@
       ]
     },
     {
-      "id": "497997c02d43",
-      "title": "헬리코박터균, 위암 위험까지...봄철 식습관 관리 중요 - 메디칼트리뷴",
-      "published": "2026-04-22T08:38:00+00:00",
-      "summary": "헬리코박터균, 위암 위험까지...봄철 식습관 관리 중요&nbsp;&nbsp;메디칼트리뷴",
-      "sources": [
-        {
-          "name": "메디칼트리뷴",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xZnJhZzRMV0k4ckJaT3pfRWtzWjZUTlB5REpMZEF6U3ktTVZJTFdtbWNKNDJwMGdnUDlheTZFcnpXc29QTGRPS19CaVI0N0hpY0xxbzkyRTFPLVpyU0Zoa2Z1RFVJUUYybVJxcmlmRklRaDZldWfSAXpBVV95cUxOTmYydVlTT2NRUkRuMGUzVDlTT19ubkVCVGFmNVNUS2lkTE5Zdkpub1JVYnpKampzd05ZRnNSRm9jM2FjSmFHNUVReklCVDYzXzZTV210c0lKcFNFeGxvS1ZHcnluSUJoNVRBMXVyTE5KbnE0Z2lNMG9sQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "71a3d311aefc",
       "title": "5.1련휴 인원류동 밀집! 주목해야 할 전염병→--건강 - 인민넷",
       "published": "2026-04-22T08:27:00+00:00",
@@ -429,7 +489,7 @@
       "id": "68cad9793081",
       "title": "유전자보다 강했다… ‘이 습관’으로 치매 예방 - 헬스조선",
       "published": "2026-04-22T08:00:00+00:00",
-      "summary": "유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선",
+      "summary": "유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선인지 강화 활동이 알츠하이머 발병 5년 지연시켜&nbsp;&nbsp;바이오타임즈",
       "sources": [
         {
           "name": "헬스조선",
@@ -441,7 +501,7 @@
       "id": "09b1b13d96b4",
       "title": "국립암센터·가톨릭의대, 원인 불명 유전성 유방암 '4가지 유형' 세계 최초 규명 - 이로운넷",
       "published": "2026-04-22T07:18:36+00:00",
-      "summary": "국립암센터·가톨릭의대, 원인 불명 유전성 유방암 '4가지 유형' 세계 최초 규명&nbsp;&nbsp;이로운넷'브라카'도 아닌데 유전성 유방암…세계 첫 원인 규명&nbsp;&nbsp;뉴시스BRCA 유전자 정상인데 유방암… ‘4가지 유형’ 밝혀졌다&nbsp;&nbsp;헬스조선국립암센터·가톨릭의대, 원인 불명 유전성 유방암의 ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;동아일보유전성 유방암 ‘4가지 유형’ 세계 최초 규명···각기 다른 치료제 써야 더 효과적&nbsp;&nbsp;경향신문",
+      "summary": "국립암센터·가톨릭의대, 원인 불명 유전성 유방암 '4가지 유형' 세계 최초 규명&nbsp;&nbsp;이로운넷국립암센터·가톨릭의대, 원인 불명 유전성 유방암의 ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;동아비즈니스리뷰 | DBRBRCA 유전자 정상인데 유방암… ‘4가지 유형’ 밝혀졌다&nbsp;&nbsp;헬스조선'브라카'도 아닌데 유전성 유방암…세계 첫 원인 규명&nbsp;&nbsp;뉴시스유전성 유방암 ‘4가지 유형’ 세계 최초 규명···각기 다른 치료제 써야 더 효과적&nbsp;&nbsp;경향신문",
       "sources": [
         {
           "name": "이로운넷",
@@ -606,6 +666,18 @@
       ]
     },
     {
+      "id": "88a4127ca70a",
+      "title": "신진우·장영재 등 'AI 연구자' 대거 포진···올해 '과학의 날' 포상 - 헬로디디",
+      "published": "2026-04-21T08:50:00+00:00",
+      "summary": "신진우·장영재 등 'AI 연구자' 대거 포진···올해 '과학의 날' 포상&nbsp;&nbsp;헬로디디",
+      "sources": [
+        {
+          "name": "헬로디디",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vT1dtQlVwOS1IdXk0bkZqTm5sS1R2ZFM3R0xocjRWSlZfQzBHWkphVGZDZVhhYnFNcF9TazZDYng2UUZrcHpOREltSDgzQXJpU3d4U01hWE1jdTBqOWNRRWVmMlJHSGRZZVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "065749aed112",
       "title": "마약 성분에 노출된 연어가 한 것은 ‘과로’였다···대조군보다 1.9배 더 헤엄쳐 - 경향신문",
       "published": "2026-04-21T04:21:00+00:00",
@@ -626,18 +698,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KcWNHeFNKMWxOS2FnVmtSYWZNUmNVWmVOcG9LVTdDZ21iRzJBU3h5eThEQm5iYTNlbk5haEtuNEVmeXh5cWE1Vnc3UWljTDU5R2Y0SUpoS0V3TDVzdFBRNmNyVG1kLU8zLVl2aDY4M3R0Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "003d19c48fe7",
-      "title": "[신문은 선생님] [재미있는 과학] 전남서 발견된 아기 공룡 화석… ‘둘리’라는 이름 붙었죠 - 조선일보",
-      "published": "2026-04-20T15:47:40+00:00",
-      "summary": "[신문은 선생님] [재미있는 과학] 전남서 발견된 아기 공룡 화석… ‘둘리’라는 이름 붙었죠&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hOVQyV3BNUzhybW1aSEl0ZXFJRlBNNEdpMW1yVWRTMEFMNzhNUGhlVGxzcHhUOGtsblYya2RSN2I5bksxcnMtdGRuRjVZaFlybzFOS0VTQ0kxWGlBVHE5VW5DT3p1dExESEVVZGxmNDFlaTRXeGg1dG56ZjhCVUE?oc=5"
         }
       ]
     }
