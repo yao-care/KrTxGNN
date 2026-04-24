@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-24T02:56:10.455215+00:00",
-  "total_fetched": 98,
-  "unique_count": 97,
+  "fetched_at": "2026-04-24T08:09:57.235088+00:00",
+  "total_fetched": 87,
+  "unique_count": 86,
   "health_related_count": 52,
   "news": [
+    {
+      "id": "0d070c182887",
+      "title": "국가위생건강위원회: 40% 암, 예방할 수 있어--건강 - 인민넷",
+      "published": "2026-04-24T06:12:00+00:00",
+      "summary": "국가위생건강위원회: 40% 암, 예방할 수 있어--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zY3pXZmwyeVpwRzNEX3VwdmxLbVhCenZvcm40X1hJMUkzcXZWYlhHamVhQXh0MGlJdjVGTWVzZXk3VGpNUlpjMXlMWG5tNG9sTHRmcDlnUHNZTVpIZ210QjdtS2FLdzdwNWxSUGxR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94b59f447ff6",
+      "title": "“평소 오래 앉아 있나요?”…O시간 넘으면 ‘우울증’ 위험 급상승 - 농민신문",
+      "published": "2026-04-24T06:00:00+00:00",
+      "summary": "“평소 오래 앉아 있나요?”…O시간 넘으면 ‘우울증’ 위험 급상승&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ZUVqNkhqazZ0Tk1NNnZOU2ZaWUdXeXlwVmluUXJnWlNxVjhnUjZTb0IwRGNLdktkVG5rTVFOWlIyUUJfWU03MEltblNURWlnZ0FlX1o3WHBVdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a23071f1293d",
+      "title": "메드팩토, MP2021 건선 치료 가능성 담은 논문 국제 학술지 게재 - 팜이데일리",
+      "published": "2026-04-24T05:44:38+00:00",
+      "summary": "메드팩토, MP2021 건선 치료 가능성 담은 논문 국제 학술지 게재&nbsp;&nbsp;팜이데일리메드팩토 \"특정 단백질 억제하면 '건선치료' 가능\"&nbsp;&nbsp;뉴시스메드팩토, ‘MP2021’ 건선 치료 연구결과 논문 발표&nbsp;&nbsp;서울경제[카드] 메드팩토, 'MP2021' 건선 치료 가능성 논문 발표&nbsp;&nbsp;네이트메드팩토 \"MP2021, 건선 치료 전임상 결과 국제 학술지 게재\"&nbsp;&nbsp;뉴스핌",
+      "sources": [
+        {
+          "name": "팜이데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6RzAzM0FXbjA3bW1SazVGS3YwLVBlaFNYSkxUNmNlU3BHa295Vy1mQWdjSlBnMmNtTWVvUWJaQTNNZVFGaWdhSmFPZWJPVXd5aUE4bHFxa2FHUk44M3VoeGdBSUpTODNndEV2UHpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "adc041b32a54",
+      "title": "“부끄럽다고 버티다 병 키운다”…항문질환 명의가 짚은 치루의 신호 - 코메디닷컴",
+      "published": "2026-04-24T05:05:00+00:00",
+      "summary": "“부끄럽다고 버티다 병 키운다”…항문질환 명의가 짚은 치루의 신호&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDTEhjbTFHTk1pM0hqelp4UkJLeG5sNUd5OUNlVkRmMVBLM1Jxbng1NG5TbGlkcGo4NjVwYW5yRXpXQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "927b2861e851",
       "title": "충남대병원, 중간간정맥 재건 'ADM' 도입…유효성 입증 - 네이트",
@@ -14,18 +62,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84c09nYVdwRXZ4UjBjOWNlRUxIREViQ1hydlcwTHJzNXpmRGtiNG5pV3k1aUEzbEVaXy1sNXp4OXRyQ3JrRk85bU1wQ2l0X0JOS21z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3537eb0d2e2",
-      "title": "메드팩토, 핵심 파이프라인 MP2021 건선 치료 가능성 제시 - 메디칼업저버",
-      "published": "2026-04-24T01:54:26+00:00",
-      "summary": "메드팩토, 핵심 파이프라인 MP2021 건선 치료 가능성 제시&nbsp;&nbsp;메디칼업저버메드팩토 \"특정 단백질 억제하면 '건선치료' 가능\"&nbsp;&nbsp;뉴시스[카드] 메드팩토, 'MP2021' 건선 치료 가능성 논문 발표&nbsp;&nbsp;프라임경제메드팩토, 'MP2021' 건선 치료 가능성 논문 발표&nbsp;&nbsp;PRESS9",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwSkt4RzNTMlU5N0Q2YUtIc20xdF83cmRRVTJXaTRlblVTUlNPSXNkdFpJQkdEX0VqNGdrdkdQdjRCQzJlT1Zsek1Na3VWYkM1Yk9qb3RlMmhaell2bG94cy11RjZJYlh0aGRr?oc=5"
         }
       ]
     },
@@ -45,7 +81,7 @@
       "id": "ebf263e4c7a4",
       "title": "“수면장애 있으면 치매·파킨슨병 발병 위험 높다” - 데일리메디",
       "published": "2026-04-24T00:35:00+00:00",
-      "summary": "“수면장애 있으면 치매·파킨슨병 발병 위험 높다”&nbsp;&nbsp;데일리메디불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스\"수면장애, 치매·파킨슨병 위험 32% 높인다…몽유병이 특히 취약\"&nbsp;&nbsp;v.daum.net",
+      "summary": "“수면장애 있으면 치매·파킨슨병 발병 위험 높다”&nbsp;&nbsp;데일리메디불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제\"수면장애, 치매·파킨슨병 위험 32% 높인다…몽유병이 특히 취약\"&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "데일리메디",
@@ -93,7 +129,7 @@
       "id": "cc792d9aa713",
       "title": "중년 체력, 건강수명 좌우한다…심폐체력 높을수록 질병 늦고 오래 건강 - 메디컬투데이",
       "published": "2026-04-23T23:47:33+00:00",
-      "summary": "중년 체력, 건강수명 좌우한다…심폐체력 높을수록 질병 늦고 오래 건강&nbsp;&nbsp;메디컬투데이Google 뉴스에서 전체 콘텐츠 보기",
+      "summary": "중년 체력, 건강수명 좌우한다…심폐체력 높을수록 질병 늦고 오래 건강&nbsp;&nbsp;메디컬투데이[기고] 양태길 이학박사…'운동과 뇌'의 상관관계&nbsp;&nbsp;네이트운동 시작해야 할 또 하나의 ‘강력한’ 이유&nbsp;&nbsp;헬스조선심폐 체력이 뇌 건강 지킨다...치매·우울증 위험 40% 가까이 감소&nbsp;&nbsp;하이닥“살만 빠지는 게 아니야”… 운동이 진짜 중요한 이유&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "메디컬투데이",
@@ -141,7 +177,7 @@
       "id": "fc6888d8fe24",
       "title": "“매일 먹었는데 간 망치고 있었네”… 의사가 경고한 ‘이것’, 뭐야? - 헬스조선",
       "published": "2026-04-23T17:20:00+00:00",
-      "summary": "“매일 먹었는데 간 망치고 있었네”… 의사가 경고한 ‘이것’, 뭐야?&nbsp;&nbsp;헬스조선열량만 높은 줄 알았는데… “지방 쌓이고 병 생긴다”, 뭐길래?&nbsp;&nbsp;코메디닷컴[이지 사이언스] 달콤한 과당에 숨겨진 치명적 위험…\"대사질환 유발 요인\"&nbsp;&nbsp;연합뉴스과일, 이렇게 먹으면 간에 '직격타'…\"밀가루보다 해로워\" 경고 [건강!톡]&nbsp;&nbsp;네이트설탕보다 더 문제는 과당?...지방 축적·인슐린 저항성 키우는 독자적 경로 밝혀져&nbsp;&nbsp;메디컬투데이",
+      "summary": "“매일 먹었는데 간 망치고 있었네”… 의사가 경고한 ‘이것’, 뭐야?&nbsp;&nbsp;헬스조선열량만 높은 줄 알았는데… “지방 쌓이고 병 생긴다”, 뭐길래?&nbsp;&nbsp;코메디닷컴[이지 사이언스] 달콤한 과당에 숨겨진 치명적 위험…\"대사질환 유발 요인\"&nbsp;&nbsp;연합뉴스설탕보다 더 문제는 과당?...지방 축적·인슐린 저항성 키우는 독자적 경로 밝혀져&nbsp;&nbsp;메디컬투데이과일, 이렇게 먹으면 간에 '직격타'…\"밀가루보다 해로워\" 경고 [건강!톡]&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "헬스조선",
@@ -186,6 +222,18 @@
       ]
     },
     {
+      "id": "e731b4e7aa11",
+      "title": "백신 맞았는데 독감 걸린 이유… ‘잠’ 때문일까 - 헬스조선",
+      "published": "2026-04-23T10:40:00+00:00",
+      "summary": "백신 맞았는데 독감 걸린 이유… ‘잠’ 때문일까&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLdUh5cFBkdDhJM1N0MWhBTnMxREtES0NjaTh0RXBmUGRUU3hrZWpXVjFQcWplZl9JMXlDckxZUDNuTVRaLTcydUs4YTR4aG05WnpxUUJPOU1TQk9GdkF4Tm9KU2Mwa2hFQ0ZSZVRkSUh5QlMya3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e4cbbc9dcea9",
       "title": "폐경 후 유방암 예방하려면…체중관리는 기본, 혈압·혈당도 잡아야 - 네이트",
       "published": "2026-04-23T09:26:00+00:00",
@@ -213,7 +261,7 @@
       "id": "47cd8e241104",
       "title": "경동맥 협착증, 혈관 절반 막혀도 무증상… “조기 검진이 뇌졸중 예방의 열쇠” - 하이닥",
       "published": "2026-04-23T09:00:00+00:00",
-      "summary": "경동맥 협착증, 혈관 절반 막혀도 무증상… “조기 검진이 뇌졸중 예방의 열쇠”&nbsp;&nbsp;하이닥내 머릿속 시한폭탄! ‘이 증상’ 놓치면 뇌졸중?! / 이승훈 서울대학교병원 신경과 교수&nbsp;&nbsp;YTN 사이언스‘뇌’가 만약 괴로울 때면 내가 위로해줄게&nbsp;&nbsp;경인일보뇌졸중 응급환자 중증도, 구급차와 응급실이 서로 다른 이유는? [건강한겨레]&nbsp;&nbsp;한겨레뇌졸중 골든 타임이 4.5시간인 이유는?&nbsp;&nbsp;네이트",
+      "summary": "경동맥 협착증, 혈관 절반 막혀도 무증상… “조기 검진이 뇌졸중 예방의 열쇠”&nbsp;&nbsp;하이닥내 머릿속 시한폭탄! ‘이 증상’ 놓치면 뇌졸중?! / 이승훈 서울대학교병원 신경과 교수&nbsp;&nbsp;YTN 사이언스‘뇌’가 만약 괴로울 때면 내가 위로해줄게&nbsp;&nbsp;경인일보\"봄철 어지럼·두근거림, 단순 증상 아냐\"…고령층 뇌졸중 '숨은 원인'&nbsp;&nbsp;보건신문증상 지나갔다고 안심? 3개월 내 18% 재발…뇌졸중 경고 신호&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "하이닥",
@@ -237,7 +285,7 @@
       "id": "fa8958a56f16",
       "title": "‘17~29세’…이 때 살찌면, 조기 사망 위험 70% 높아진다? - 문화일보",
       "published": "2026-04-23T06:56:48+00:00",
-      "summary": "‘17~29세’…이 때 살찌면, 조기 사망 위험 70% 높아진다?&nbsp;&nbsp;문화일보\"언제 살찌느냐가 관건\"…30세 전 비만, 조기 사망 위험 70% 높인다&nbsp;&nbsp;뉴시스20대도 만성질환…건강은 ‘일상’에서 갈린다&nbsp;&nbsp;디지틀조선일보‘이 나이’ 체중 증가, 조기 사망 위험 높인다…대규모 연구 결과&nbsp;&nbsp;레이디경향30세 이전 비만, 심혈관질환·당뇨 사망 위험 2배 높인다&nbsp;&nbsp;하이닥",
+      "summary": "‘17~29세’…이 때 살찌면, 조기 사망 위험 70% 높아진다?&nbsp;&nbsp;문화일보\"언제 살찌느냐가 관건\"…30세 전 비만, 조기 사망 위험 70% 높인다&nbsp;&nbsp;뉴시스‘이 나이’ 체중 증가, 조기 사망 위험 높인다…대규모 연구 결과&nbsp;&nbsp;레이디경향30세 이전 비만, 심혈관질환·당뇨 사망 위험 2배 높인다&nbsp;&nbsp;하이닥성인기 초기 발생한 비만, 노년기 조기 사망 위험 높여&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "문화일보",
@@ -270,14 +318,26 @@
       ]
     },
     {
-      "id": "62cf53311dc2",
+      "id": "f2648101651f",
       "title": "일산백병원, 5월 9일 ‘신경외과 연수강좌’ 개최 … 뇌혈관·두개저·척추 질환 최신 치료지견 공유 14개 강연 - 헬스오",
       "published": "2026-04-23T04:06:57+00:00",
       "summary": "일산백병원, 5월 9일 ‘신경외과 연수강좌’ 개최 … 뇌혈관·두개저·척추 질환 최신 치료지견 공유 14개 강연&nbsp;&nbsp;헬스오",
       "sources": [
         {
           "name": "헬스오",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DZ05CVEd5bEZteTk0WFh0eEFFNHk5YkJTZmpUc3JLZVJuNUliVWF3TWNlbGRQc0FtTno3U3dqVUxoaG44Mjg0WndaYWhHUzNwYTBmZnpEbGg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oNHN1a1NmN3g4VWZiLTZEOGQ5TmJmN3RsRzRoYnN1UDd1OHJwN2R0THdYY0hTMWF2d1ZLVjY4TC01LWZEOWR3RTZUZXR1M2hPUlZ6LVJrcmhKZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "761422254a81",
+      "title": "어느날 갑자기?…습관이 병 만든다! - 헬스경향",
+      "published": "2026-04-23T03:05:00+00:00",
+      "summary": "어느날 갑자기?…습관이 병 만든다!&nbsp;&nbsp;헬스경향“한 달 안에 염증 폭발”… ‘이 행동’ 조심하라는데?&nbsp;&nbsp;헬스조선‘이 습관’ 노화 속도 갈랐다&nbsp;&nbsp;원주투데이35세 넘었으면 당장 ‘이것’ 시작해라… 노화 속도 늦춘다&nbsp;&nbsp;헬스조선“신장 기능 떨어진다” 지금부터 고쳐야 할 ‘이 습관’… 뭐야?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jVGxURG9YdlJnRXZiYkthUndZaTZFaEFfWV9tNEJtLTBYTTd1WG0zTExtMTBna3V4dGlmT3B6OWVoZGtOR2RQZ3NMWTlKYS1RSFFrMERweHM1Wjh6X01JQUdNcEhBZ0FXUHc?oc=5"
         }
       ]
     },
@@ -354,6 +414,18 @@
       ]
     },
     {
+      "id": "eff545ca5d5a",
+      "title": "지방간 환자, 매일 ‘이것’ 먹었더니 혈관 깨끗해졌다 - 헬스조선",
+      "published": "2026-04-22T18:00:00+00:00",
+      "summary": "지방간 환자, 매일 ‘이것’ 먹었더니 혈관 깨끗해졌다&nbsp;&nbsp;헬스조선동그란 '이 과일' 4주 먹었더니⋯지방간에 당뇨·내장지방까지 싹 '개선'&nbsp;&nbsp;v.daum.net매일 ‘오렌지’ 먹으면 나타나는 변화… “항산화, 심혈관 건강까지”&nbsp;&nbsp;하이닥4주만 먹어도 뱃살 쏙? 지방간과 내장지방을 싹 개선하는 마법의 과일 : 패션 & 뷰티&nbsp;&nbsp;kstars.kr",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QMS01NDlFMndfZjQyZ2RVOUVwczFWZEFjZ2pXbVNWR041MkY2UG9XSC1BWjNsSDdWbnVUSTVTcmF4d0l0X0dYRmE5RnlDOVJhVmVqOHJpZE02RXpld2k2b1JwV0pSZXRtTGotRkxlYmw4WlR4eUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0a012aaff819",
       "title": "“혈당 조절 효과” 30kg 감량 미자, 아침마다 ‘이것’ 마시는 게 비결 - 헬스조선",
       "published": "2026-04-22T17:20:00+00:00",
@@ -426,14 +498,14 @@
       ]
     },
     {
-      "id": "b8934fb46f3e",
-      "title": "“잠 못 자면 백신 소용없다”… 수면무호흡증 환자, 독감 위험 1.7배↑ - 하이닥",
-      "published": "2026-04-22T13:00:00+00:00",
-      "summary": "“잠 못 자면 백신 소용없다”… 수면무호흡증 환자, 독감 위험 1.7배↑&nbsp;&nbsp;하이닥",
+      "id": "031bdbb876eb",
+      "title": "“살 빼려다 건강 잃는다”… 다이어트 의사가 경고한 ‘이 방법’, 뭐야? - 헬스조선",
+      "published": "2026-04-22T13:20:00+00:00",
+      "summary": "“살 빼려다 건강 잃는다”… 다이어트 의사가 경고한 ‘이 방법’, 뭐야?&nbsp;&nbsp;헬스조선\"탄수화물 50g 미만은 위험\"…박용우 교수가 경고하는 '저탄고지'의 역효과&nbsp;&nbsp;뉴시스“고기 먹을 때 ‘이것’ 절대 안 먹어”…30kg 넘게 살 뺀 의사의 식단은 [헬시타임]&nbsp;&nbsp;서울경제고지방 저탄수화물 ‘케토 식단’, 제2형 당뇨병 췌장 기능 살린다&nbsp;&nbsp;v.daum.net저지방보다 케톤식이 더 효과적?…제2형 당뇨병 가역 가능성 제시&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtNkd6a2Zfd3lFS2doWGJJMzVfS1EtbGJvVGxfdWFpZFp2SzQwdWhzQnhXS1hSRFhueVZyU3FUZUZocXdyd2RPRHZQZ3JrYWxpME5NbndfbGZtWUZZZF9SY1VFQUxqUmpTT3c?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZYVBVLXlZc3lYZEYwQl9CT2pQUWltcTE5QUxVX09La1gwUElkeUxMMVpZSFg3SDRaUS1JdEpMbnBfSUs3TWVBM2Nhak9YRnctNExuOWVuOWVkcllGcGJkaTRIZldZUndDRS02enZUZk5MaUxaT1E?oc=5"
         }
       ]
     },
@@ -458,18 +530,6 @@
         {
           "name": "브랜드경제신문",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0wNGJHbXAxMmtZR2ZMRzJNVEgyelBXalpTQUMyUmdsbG1pbWdpazR6bTgtMEc5clRkVTctYUVubzBDdVMxUUlnOUNobnk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8505e4aa6dc",
-      "title": "다이어터들 즐기는 ‘저탄고지’ 식단…제2형 당뇨병 환자 ‘이 기능’ 회복 돕는다 - 농민신문",
-      "published": "2026-04-22T11:00:00+00:00",
-      "summary": "다이어터들 즐기는 ‘저탄고지’ 식단…제2형 당뇨병 환자 ‘이 기능’ 회복 돕는다&nbsp;&nbsp;농민신문\"탄수화물 50g 미만은 위험\"…박용우 교수가 경고하는 '저탄고지'의 역효과&nbsp;&nbsp;뉴시스“고기 먹을 때 ‘이것’ 절대 안 먹어”…30kg 넘게 살 뺀 의사의 식단은 [헬시타임]&nbsp;&nbsp;서울경제“살 빼려다 건강 잃는다”… 다이어트 의사가 경고한 ‘이 방법’, 뭐야?&nbsp;&nbsp;헬스조선고지방 저탄수화물 ‘케토 식단’, 제2형 당뇨병 췌장 기능 살린다&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55Z2kwX2JVa0txcGVZQnBkSVhReS1DdWc1c2hqS0dkUFQ1aXVFSGE4RHo4V3BfVHhubFEzbVJRdjFqWmdDZVFtWG12Z2FXTEZPME9VbGZva3hOdw?oc=5"
         }
       ]
     },
@@ -518,66 +578,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DVDdQQnJVcTY5MTFLMHZsU1Q1UUJacW5Xd0ZwcTJXWUp0bUY2TU9JaThMZXU0M0lhRTJSb0hkVVNZWHJ3N05iMDdNcU0tZHFlTDVGNEd1ZWVJNzl3clZtdU10aFdjUUxsZ0trZUhhXzR6UzNyNFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59d9f43e258c",
-      "title": "연구 발견: 매끼 두숟가락만 적게 먹어도 전신 염증 감소!--건강 - 인민넷",
-      "published": "2026-04-22T06:01:00+00:00",
-      "summary": "연구 발견: 매끼 두숟가락만 적게 먹어도 전신 염증 감소!--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45V05NcWNqRlBMVDFpX3RpN09Ob2RYcHpmRm5maEFhS1ptSVBUdWViOVVTa3phX0JOOHJWLTlKRzhPR1J5MlBhWmNkTmhhRzVfa0N0RHNYYk9ROWR6QzFKRGJrT2lkbUFPaVRaNkxn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d70dcf6f419f",
-      "title": "마약 때문에 죽다 살아난 에미넴… 18년 단약한 비결은? - 헬스조선",
-      "published": "2026-04-22T05:22:00+00:00",
-      "summary": "마약 때문에 죽다 살아난 에미넴… 18년 단약한 비결은?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4dGs4cTE2MW9meW9nU2VZUFAwVmlhb1B0NXI0VTJ1enpRNnNMUTMtZzJYalZVQkY5Q3NNQnhaNDJwSUxWYVozTC1KQ0dDV21IZXJKZk8ycmZ4VEduUUpiSXFrR2dibFNTcG9SVldmMmMtaFd5OEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e1211b2c726",
-      "title": "세포막 역할의 재발견: 생명과학의 패러다임 전환 - 한국AI부동산신문",
-      "published": "2026-04-22T04:06:54+00:00",
-      "summary": "세포막 역할의 재발견: 생명과학의 패러다임 전환&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oOHRFejNoNm80amtPRFdLcG9DTThrYjhuOU5GYVVWUElyVWFXV3BWT2YxWjIwVEZlN1g4VFVsaGVXbnZYaGItUDdhdms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c6378e38ee9e",
-      "title": "“자궁경부암 퇴치 10년 당긴다” 국가암검진 ‘HPV DNA 검사’ 1차 도입 여론 봇물 - 의약뉴스",
-      "published": "2026-04-22T02:38:15+00:00",
-      "summary": "“자궁경부암 퇴치 10년 당긴다” 국가암검진 ‘HPV DNA 검사’ 1차 도입 여론 봇물&nbsp;&nbsp;의약뉴스\"자궁경부암 퇴치 10년 앞당긴다…HPV DNA 검사 국가검진 도입해야\"&nbsp;&nbsp;네이트자궁경부 세포 문제 일으키는 HPV&nbsp;&nbsp;캐나다 한국일보“10년 검진했는데 3기 암이라니”…자궁경부암 검진 체계 개선 필요&nbsp;&nbsp;코리아헬스로그HPV DNA 검사 국가검진, 산부인과-정부 입장차&nbsp;&nbsp;데일리메디",
-      "sources": [
-        {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvUnJSamhuNWZLdmc0N0psN0RIWHJBOVNRU2lScEdfQzJicUM1dVBzem9ITWg1NFAtN2c5eDZ4LXdOV3lJTmthV09zTXY1NUVZN0swaVJTUndiU2xoLXY5QXI4ZFAtNmxU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44adaf4d159b",
-      "title": "갱년기 건강관리, 건강기능식품 의존보다 산부인과 전문의 처방이 우선 - 바이오타임즈",
-      "published": "2026-04-22T02:20:52+00:00",
-      "summary": "갱년기 건강관리, 건강기능식품 의존보다 산부인과 전문의 처방이 우선&nbsp;&nbsp;바이오타임즈'여성 갱년기' 골다공증·심혈관질환·암 발생도 증가하는 시기…정기적 검진 필요&nbsp;&nbsp;v.daum.net폐경 호르몬 치료, 유방암 발생 높일까? [건강한겨레]&nbsp;&nbsp;한겨레\"그냥 피곤해서?\" 방심했다간 놓치는 '중년 여성' 질환 4가지는?&nbsp;&nbsp;약사공론남녀 모두가 겪는 갱년기 증상...이런 ‘다크 푸드’ 먹으면 완화에 도움&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DV3JuRXBMWW1mcWxacTJBbUhWMlY4eFZ1NEVuZnUyLXRjQ0RpUkkxLUZCdUxLS3FaU3N0LUQ4ejNJUGZqWnNhSFd1ckdvWnV1R2FnNG1BLURGdm1ZblNieXFhaEs0a09LUWRWVg?oc=5"
         }
       ]
     },
