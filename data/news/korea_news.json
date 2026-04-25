@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-25T13:12:14.336087+00:00",
-  "total_fetched": 68,
-  "unique_count": 68,
-  "health_related_count": 33,
+  "fetched_at": "2026-04-25T18:58:29.943446+00:00",
+  "total_fetched": 64,
+  "unique_count": 64,
+  "health_related_count": 32,
   "news": [
     {
       "id": "49820f82f5df",
@@ -30,6 +30,18 @@
       ]
     },
     {
+      "id": "e65f34256c5c",
+      "title": "양배추의 재발견 - 캐나다 한국일보",
+      "published": "2026-04-25T04:48:00+00:00",
+      "summary": "양배추의 재발견&nbsp;&nbsp;캐나다 한국일보생양배추는 안전하고 유익한 채소이다&nbsp;&nbsp;브런치위장에 특효약인 양배추, ‘이것’ 섞은 ‘보약 쌈장’ 찍어 드세요 (영상)&nbsp;&nbsp;insight.co.kr",
+      "sources": [
+        {
+          "name": "캐나다 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rd0tLaGdHNHB4NVhPdUJHcUx1SGdwM2FRU2JNUEZTbXJxSVlhcTUydVM1QWhpRGkzS2dwam1fS0FXZEJOaEZjY0pHR0w4SWNSRTMxOUZjcVRnNno0LWk1Y1NDYldGUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "838797469853",
       "title": "항암 음식 궁합 ⑤ 시금치에 레몬 한 조각… 항암 중 빈혈 완화ㆍ예방에 도움 - 캔서앤서",
       "published": "2026-04-25T02:39:36+00:00",
@@ -45,7 +57,7 @@
       "id": "6602cceceb83",
       "title": "짠맛의 배신, 당신의 혈관이 비명을 지른다... 당장 저염식을 시작해야 하는 이유 - 한국AI부동산신문",
       "published": "2026-04-25T01:30:34+00:00",
-      "summary": "짠맛의 배신, 당신의 혈관이 비명을 지른다... 당장 저염식을 시작해야 하는 이유&nbsp;&nbsp;한국AI부동산신문혈압 관리 돕는 저염식의 첫걸음, “국물 줄이고 소금 2g 덜어내세요”&nbsp;&nbsp;하이닥혈압 관리에 도움주는 건기식은?&nbsp;&nbsp;약사공론서울시민 고혈압 진료비 급증…부먹 말고 찍먹해야 건강&nbsp;&nbsp;뉴시스고혈압 공식 바뀌나…“나트륨보다 칼륨이 더 중요”&nbsp;&nbsp;레이디경향",
+      "summary": "짠맛의 배신, 당신의 혈관이 비명을 지른다... 당장 저염식을 시작해야 하는 이유&nbsp;&nbsp;한국AI부동산신문혈압 관리 돕는 저염식의 첫걸음, “국물 줄이고 소금 2g 덜어내세요”&nbsp;&nbsp;하이닥서울시민 고혈압 진료비 급증…부먹 말고 찍먹해야 건강&nbsp;&nbsp;뉴시스고혈압 공식 바뀌나…“나트륨보다 칼륨이 더 중요”&nbsp;&nbsp;레이디경향",
       "sources": [
         {
           "name": "한국AI부동산신문",
@@ -165,23 +177,11 @@
       "id": "5eaa67e5eda3",
       "title": "낮에 조는 습관 방치했다간…30년 뒤 ‘치매·파킨슨’ 부른다 - v.daum.net",
       "published": "2026-04-24T21:02:40+00:00",
-      "summary": "낮에 조는 습관 방치했다간…30년 뒤 ‘치매·파킨슨’ 부른다&nbsp;&nbsp;v.daum.net수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제“밥만 먹으면 꾸벅꾸벅, 식곤증 때문 아니라고?”… ‘치매 위험 신호’ 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제‘뇌의 야간 정비’ 가볍게 보다가 치매 위험 1.3배 높아진다 [건강+]&nbsp;&nbsp;세계일보",
+      "summary": "낮에 조는 습관 방치했다간…30년 뒤 ‘치매·파킨슨’ 부른다&nbsp;&nbsp;v.daum.net\"낮에 자주 졸리는 것 무시 말아야\"…치매·파킨슨 위험 높다&nbsp;&nbsp;v.daum.net수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제“밥만 먹으면 꾸벅꾸벅, 식곤증 때문 아니라고?”… ‘치매 위험 신호’ 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제",
       "sources": [
         {
           "name": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81N28yc19yTDg1czdEaWMtLUhFaEJ4V0dhcTJUNkJaSmJIVjFSN01YdHdQa0QxSFUyXy03Z3V6Uk1PS240blgyRVJROTNGc0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "858e28b72125",
-      "title": "\"좋아지겠지\" 기다리면 뇌졸중 치료 기회 놓친다…\"빨리 응급실\" - 네이트",
-      "published": "2026-04-24T21:00:00+00:00",
-      "summary": "\"좋아지겠지\" 기다리면 뇌졸중 치료 기회 놓친다…\"빨리 응급실\"&nbsp;&nbsp;네이트내 머릿속 시한폭탄! ‘이 증상’ 놓치면 뇌졸중?! / 이승훈 서울대학교병원 신경과 교수&nbsp;&nbsp;YTN 사이언스‘뇌’가 만약 괴로울 때면 내가 위로해줄게&nbsp;&nbsp;경인일보경동맥 협착증, 혈관 절반 막혀도 무증상… “조기 검진이 뇌졸중 예방의 열쇠”&nbsp;&nbsp;하이닥뇌졸중 골든 타임이 4.5시간인 이유는?&nbsp;&nbsp;이데일리",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGTjVzbFlDQ002bjNadUVIZ0ljbGxzRDlBV3ZGckNySWNod3VUWmNodTNkRnFZTVVkbnNZYWwxR0JJMmp3Y1dENWVBR3Z1NHZSeGpZ?oc=5"
         }
       ]
     },
@@ -213,7 +213,7 @@
       "id": "28c794b65e68",
       "title": "박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장 - IT조선",
       "published": "2026-04-24T11:40:00+00:00",
-      "summary": "박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장&nbsp;&nbsp;IT조선\"인간 세포에 침투한다\"…박쥐 코로나바이러스 발견&nbsp;&nbsp;이데일리TV마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문다음 팬데믹 될까… 박쥐 코로나바이러스, 새 경로로 인간 세포에 침투 - 조선비즈&nbsp;&nbsp;Chosunbiz“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제",
+      "summary": "박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장&nbsp;&nbsp;IT조선\"인간 세포에 침투한다\"…박쥐 코로나바이러스 발견&nbsp;&nbsp;이데일리TV“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문[테마시황] 박쥐 코로나 ‘인체 침투’ 새 경로 발견! 코로나 테마 강세 By 인포스탁데일리&nbsp;&nbsp;Investing.com 한국어",
       "sources": [
         {
           "name": "IT조선",
@@ -342,18 +342,6 @@
       ]
     },
     {
-      "id": "11257f8bf78d",
-      "title": "살찌면 심장 근육 약해져…체중 감량 시 회복 - 동아사이언스",
-      "published": "2026-04-23T23:50:00+00:00",
-      "summary": "살찌면 심장 근육 약해져…체중 감량 시 회복&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xdlBZOGlWQkxnbnY2bjlUQWhqakQxY3ZuOGpCNHRqR3dzOXZTQU5TU0VmLWFhVV9oSjVIOWJDeHp4SWtuUXM3U0wzYXdVbnZTS251bQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "657106c81da6",
       "title": "성인도 예방접종이력 체크…50세 넘으면 ‘대상포진 백신’ 챙기기 - 헬스경향",
       "published": "2026-04-23T23:27:00+00:00",
@@ -366,38 +354,38 @@
       ]
     },
     {
-      "id": "6629888da016",
-      "title": "밤만 되면 극심했던 가려움증… 알고 보니 암이었다 - 헬스조선",
-      "published": "2026-04-23T13:20:00+00:00",
-      "summary": "밤만 되면 극심했던 가려움증… 알고 보니 암이었다&nbsp;&nbsp;헬스조선",
+      "id": "efaff5a1a8b9",
+      "title": "뇌졸중 골든 타임이 4.5시간인 이유는? - 네이트",
+      "published": "2026-04-23T22:10:00+00:00",
+      "summary": "뇌졸중 골든 타임이 4.5시간인 이유는?&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaSkJNVUM4SUdVb1JDZm52SV9VR1lHQ2JMeEFybGVOM0g3WlBfWXk0VG9JeVFjc2JuVmw1MkhWdzZqSHVtclFESmhlMTU0c29Kbm1tX3k1dGNNQWRoUmxIMEdzWFRzV2pmWE9mUnMtd2xMajdnWWc?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzTkNIWDNETDEwOVA2VERLZEw5UE5NZ0RlTy1qWjU5TDF0T2Jvb0ZKTktaMll1dFhhR25QeXhueGIxTDc2WnBrNS1IeVBmeEN5Z2Mw?oc=5"
         }
       ]
     },
     {
-      "id": "e2c353259077",
-      "title": "간장·된장·장아찌, ‘이 그릇’에 담지 마세요…치매 위험 높아진다고? - 코메디닷컴",
-      "published": "2026-04-23T13:05:00+00:00",
-      "summary": "간장·된장·장아찌, ‘이 그릇’에 담지 마세요…치매 위험 높아진다고?&nbsp;&nbsp;코메디닷컴",
+      "id": "b1b05ee30843",
+      "title": "\"해리포터 투명망토 만들어보자\"…네이처에 2연속 1저자 메타표면 연구자 김주훈 - 동아사이언스",
+      "published": "2026-04-23T22:00:00+00:00",
+      "summary": "\"해리포터 투명망토 만들어보자\"…네이처에 2연속 1저자 메타표면 연구자 김주훈&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UWGxfZTB2UHNwYlhreXFwWU56VWdZUWd2ZXVCa2pGZ1J0MVp4SjZCZTZyV0dqeXZvVUlvVUhRQ1JWQQ?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LbzNDTkdYRGhHY21nQVliVHBXRGxBajdYVnJTMUJCVndMZXdJRS0zSksxZ05RR2N2Wm5sRU1ob0RVdlJjdVBOZ0ZiZF83NE1RYl90Yw?oc=5"
         }
       ]
     },
     {
-      "id": "15f249676967",
-      "title": "‘안경 없는 3D’ 현실로…국내 연구진 ‘2D·3D 전환 메타렌즈’ 개발 - 한겨레",
-      "published": "2026-04-22T15:20:00+00:00",
-      "summary": "‘안경 없는 3D’ 현실로…국내 연구진 ‘2D·3D 전환 메타렌즈’ 개발&nbsp;&nbsp;한겨레",
+      "id": "f5256bab3331",
+      "title": "세계 메모리 다 합쳐도 부족한 계산, 양자컴 104큐비트로 해냈다 [언박싱 연구실] - 파이낸셜뉴스",
+      "published": "2026-04-23T20:56:00+00:00",
+      "summary": "세계 메모리 다 합쳐도 부족한 계산, 양자컴 104큐비트로 해냈다 [언박싱 연구실]&nbsp;&nbsp;파이낸셜뉴스",
       "sources": [
         {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZWFhORWlTZjlEME5ZemNFdklMdG9XNFd6QzNwNGdnNHhEVGx3Wjh3SzBkYXZDX1h2T085eUw4NUl4ellrdUZvSldzUzNLZ1QxeTZPNDNHY1RNamdQbnFPMHRSSzI4QXhMdFV4YnhCTE10UQ?oc=5"
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVE9pNzlIdE5Eelh1MnZSZXpYOU13TTIzVHN5dzRoUHRLbDJFdWlUdjZXT0EwdEhzQWkzUUpNeVFIWWRoOUtPSDRmeFdad2NZdWFTN0c2U2ZOZ9IBXkFVX3lxTE9DYVdaYThmQzJKbUwxeTdoeDhFNFRrUEdIM2FnbURraDVZaXBGRUNNazRrdWczNGR2Z050T1NFR2pPdFBkT2RpdzNnUVRjS2M0VWhPRXRQbG5kWHIzZVE?oc=5"
         }
       ]
     }
