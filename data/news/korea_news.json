@@ -1,22 +1,10 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-25T07:23:11.965951+00:00",
-  "total_fetched": 74,
-  "unique_count": 74,
-  "health_related_count": 40,
+  "fetched_at": "2026-04-25T13:12:14.336087+00:00",
+  "total_fetched": 68,
+  "unique_count": 68,
+  "health_related_count": 33,
   "news": [
-    {
-      "id": "1f36a6e98f87",
-      "title": "\"낮에 자주 졸리는 것 무시 말아야\"…치매·파킨슨 위험 높다 - 아시아경제",
-      "published": "2026-04-25T06:32:49+00:00",
-      "summary": "\"낮에 자주 졸리는 것 무시 말아야\"…치매·파킨슨 위험 높다&nbsp;&nbsp;아시아경제낮에 조는 습관 방치했다간…30년 뒤 ‘치매·파킨슨’ 부른다&nbsp;&nbsp;v.daum.net'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문“밥만 먹으면 꾸벅꾸벅, 식곤증 때문 아니라고?”… ‘치매 위험 신호’ 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PdE51c0UyNHRCRzduV1pNbkZWd3JwdFNMRzJkOVpvMlkxLW9EaFdPZ181dlJfSDNWZzVka3F2Z2FBSlBWNHpBdXgxRE9zRlhyNmRXS0ZqMFJyOTMzZGdjdQ?oc=5"
-        }
-      ]
-    },
     {
       "id": "49820f82f5df",
       "title": "당 과다 섭취, 정신 건강에도 치명타… ‘이 감정’ 유발한다 - 헬스조선",
@@ -57,7 +45,7 @@
       "id": "6602cceceb83",
       "title": "짠맛의 배신, 당신의 혈관이 비명을 지른다... 당장 저염식을 시작해야 하는 이유 - 한국AI부동산신문",
       "published": "2026-04-25T01:30:34+00:00",
-      "summary": "짠맛의 배신, 당신의 혈관이 비명을 지른다... 당장 저염식을 시작해야 하는 이유&nbsp;&nbsp;한국AI부동산신문혈압 관리 돕는 저염식의 첫걸음, “국물 줄이고 소금 2g 덜어내세요”&nbsp;&nbsp;하이닥혈압 관리에 도움주는 건기식은?&nbsp;&nbsp;약사공론고혈압 공식 바뀌나…“나트륨보다 칼륨이 더 중요”&nbsp;&nbsp;레이디경향",
+      "summary": "짠맛의 배신, 당신의 혈관이 비명을 지른다... 당장 저염식을 시작해야 하는 이유&nbsp;&nbsp;한국AI부동산신문혈압 관리 돕는 저염식의 첫걸음, “국물 줄이고 소금 2g 덜어내세요”&nbsp;&nbsp;하이닥혈압 관리에 도움주는 건기식은?&nbsp;&nbsp;약사공론서울시민 고혈압 진료비 급증…부먹 말고 찍먹해야 건강&nbsp;&nbsp;뉴시스고혈압 공식 바뀌나…“나트륨보다 칼륨이 더 중요”&nbsp;&nbsp;레이디경향",
       "sources": [
         {
           "name": "한국AI부동산신문",
@@ -86,6 +74,30 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSl9LUWNPdXFocXRqSUxyWDZ5WnpjenRxZVpOTlg4Z2xVUm5MamNmMVJiVGZSQmpsR0F4MFE4RTQ4Z1ZMVTdSYlpuM1U1RExWNEJ2RTE2VXB1RWNXXzY4d0VyVUtzWlVjQXpfa3M3R1VQUy1OQWFkbjluWmFhN0pBc19fd0tseFdBYUxkcdIBoAFBVV95cUxPRUFqMzRNVzRrR2V4QUJEc0E3UXZsWkNkWXpqNTAtcnQtTjJvdGhLeVo5ZGtWX3VFUEV5b1RJU0Zsdk9aMjBqcHRzTjg0M0hhdnNCWWg5UXpUMkJmWEt4c1VrWVpLZDJhTXZrSVZjQ3ZwN3VOWEszY2pfeHZjT1praVp0NUlKckR3Q3N5ZGN3MGtGUXVITjh0SkdDV0hCTTFy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08205967622b",
+      "title": "80대에도 50대 기억력…'슈퍼 에이저'의 뇌 조건 [노화설계] - 네이트",
+      "published": "2026-04-25T01:01:00+00:00",
+      "summary": "80대에도 50대 기억력…'슈퍼 에이저'의 뇌 조건 [노화설계]&nbsp;&nbsp;네이트80대에도 50대 기억력…‘슈퍼 에이저’의 뇌 조건 [노화설계]&nbsp;&nbsp;v.daum.net인지 강화 활동이 알츠하이머 발병 5년 지연시켜&nbsp;&nbsp;바이오타임즈알츠하이머 걸려도 멀쩡한 이유 찾았다…뇌의 보호 유전자 패턴 규명&nbsp;&nbsp;네이트99세 노인, 치매 단백질 있어도 멀쩡...비밀은 '인지 회복력'&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ocjhfcVRQTWV2cGRmNVhuRDU3dUI3M3RwZVdDUzNUTUEya1lCUk5Ec01kRkZ3VjN4UWZTeEFqdlk4TWNpMU9Qa243dmVHcGxScms2RDllZ3dwMzBfOTFlZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19b9d5e9f016",
+      "title": "“기술주의 본질은”…우주 암흑물질 찾던 물리학박사, 이젠 ‘시장의 알파’ 좇는다 [여의도란도란] - 매일경제",
+      "published": "2026-04-25T00:18:37+00:00",
+      "summary": "“기술주의 본질은”…우주 암흑물질 찾던 물리학박사, 이젠 ‘시장의 알파’ 좇는다 [여의도란도란]&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SVFdycEpnVjAwa2Y0emVrT09sdXM5ajlITkhKck5uVG1WOXJYLWxNVVpVcVBHMlFjMzc5ZWV0LWdnd0V3dVFaUnZLd1hpdzFhQ3c?oc=5"
         }
       ]
     },
@@ -138,6 +150,30 @@
       ]
     },
     {
+      "id": "9deaac055067",
+      "title": "[김연수의 식탁이야기(86)] 지방간 방치하면 심근경색 위험 최대 40% 높아진다 - 뉴스투데이",
+      "published": "2026-04-24T21:50:12+00:00",
+      "summary": "[김연수의 식탁이야기(86)] 지방간 방치하면 심근경색 위험 최대 40% 높아진다&nbsp;&nbsp;뉴스투데이20~30대에 지방간 있으면 신장암 위험 1.5배&nbsp;&nbsp;조선일보'명의' 김지훈 교수 \"지방간염, 간암 전 마지막 신호\"&nbsp;&nbsp;네이트“술 한 방울도 안 마시는데 암이라고요?”…2030 젊은층 특히 주의해야 [헬시타임]&nbsp;&nbsp;서울경제비알코올성 지방간…비만 동반 시 신장암 위험 2.12배 높여&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90ZVNUNUVtSjdPSWVmdWFBX3RfUXVHckVaVG1iblJZYlp5clFycEhpNkMtLTNIWlNHSVFBNl9Vb01GUDdYMUNuZGNKVDJ0OGhFdk9ycmR1N01OYk84Z3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5eaa67e5eda3",
+      "title": "낮에 조는 습관 방치했다간…30년 뒤 ‘치매·파킨슨’ 부른다 - v.daum.net",
+      "published": "2026-04-24T21:02:40+00:00",
+      "summary": "낮에 조는 습관 방치했다간…30년 뒤 ‘치매·파킨슨’ 부른다&nbsp;&nbsp;v.daum.net수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제“밥만 먹으면 꾸벅꾸벅, 식곤증 때문 아니라고?”… ‘치매 위험 신호’ 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제‘뇌의 야간 정비’ 가볍게 보다가 치매 위험 1.3배 높아진다 [건강+]&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81N28yc19yTDg1czdEaWMtLUhFaEJ4V0dhcTJUNkJaSmJIVjFSN01YdHdQa0QxSFUyXy03Z3V6Uk1PS240blgyRVJROTNGc0k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "858e28b72125",
       "title": "\"좋아지겠지\" 기다리면 뇌졸중 치료 기회 놓친다…\"빨리 응급실\" - 네이트",
       "published": "2026-04-24T21:00:00+00:00",
@@ -174,22 +210,10 @@
       ]
     },
     {
-      "id": "4abc8c94c0f8",
-      "title": "2050년, 세계 인구 5명 중 1명 ‘지방간질환’ 앓는다 - 하이닥",
-      "published": "2026-04-24T13:00:00+00:00",
-      "summary": "2050년, 세계 인구 5명 중 1명 ‘지방간질환’ 앓는다&nbsp;&nbsp;하이닥20~30대에 지방간 있으면 신장암 위험 1.5배&nbsp;&nbsp;조선일보'명의' 김지훈 교수 \"지방간염, 간암 전 마지막 신호\"&nbsp;&nbsp;네이트“술 한 방울도 안 마시는데 암이라고요?”…2030 젊은층 특히 주의해야 [헬시타임]&nbsp;&nbsp;서울경제비알코올성 지방간…비만 동반 시 신장암 위험 2.12배 높여&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pSjNxbmtXT2R0LW9QTTQxalpjNmtGelUtVzJuRnlkazAxa1NTX3RTNTR2ckJ5cGF0cFVNMTZ0ZTBiUTJTQ3d2X1ctZEZIclN6LXpjR2lCSEVfZ2xSd2k3TGxiSkxhYmU2c1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "28c794b65e68",
       "title": "박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장 - IT조선",
       "published": "2026-04-24T11:40:00+00:00",
-      "summary": "박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장&nbsp;&nbsp;IT조선다음 팬데믹 될까… 박쥐 코로나바이러스, 새 경로로 인간 세포에 침투 - 조선비즈&nbsp;&nbsp;Chosunbiz마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문\"인간 세포에 침투한다\"…박쥐 코로나바이러스 발견&nbsp;&nbsp;이데일리TV“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제",
+      "summary": "박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장&nbsp;&nbsp;IT조선\"인간 세포에 침투한다\"…박쥐 코로나바이러스 발견&nbsp;&nbsp;이데일리TV마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문다음 팬데믹 될까… 박쥐 코로나바이러스, 새 경로로 인간 세포에 침투 - 조선비즈&nbsp;&nbsp;Chosunbiz“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제",
       "sources": [
         {
           "name": "IT조선",
@@ -234,6 +258,18 @@
       ]
     },
     {
+      "id": "037f0bdf368b",
+      "title": "60대 이상 노년층 ‘빈혈’ 있으면… 치매 발병 위험 66% 증가 - 하이닥",
+      "published": "2026-04-24T09:30:00+00:00",
+      "summary": "60대 이상 노년층 ‘빈혈’ 있으면… 치매 발병 위험 66% 증가&nbsp;&nbsp;하이닥빈혈, 단순 피로 아니다…“치매 위험 최대 66% 높여”[노화설계]&nbsp;&nbsp;동아일보노인 빈혈, 치매 위험 최대 66% 높여&nbsp;&nbsp;네이트“단순 피로인 줄 알았는데”…여성들이 놓치는 ‘적색 신호’ [Health&]&nbsp;&nbsp;v.daum.net철분 결핍되면 치매 위험 증가...‘이런 음식’ 먹으면 보충할 수 있어&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BcEVoV1BXUlJPdWhNNUZIdHZPa2Y2cG9MOEw2djFZLVZvNnRvYzUzNzl4SzNxeFhiS042WkVJTFplUk5VeGFUWnIwS01ydVgwRXpkbzV1QkdLZjB0alpmV1dsdG1xY0RnWkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "71b20cbdb6bf",
       "title": "샤워했는데 몸에 '세균' 문지른 꼴…피부과 의사의 충격 경고 - 한국경제",
       "published": "2026-04-24T07:49:32+00:00",
@@ -258,6 +294,18 @@
       ]
     },
     {
+      "id": "a29d9894a665",
+      "title": "메드팩토, ‘MP2021’ 건선 전임상 결과 학술지 게재 - 팜뉴스",
+      "published": "2026-04-24T06:10:39+00:00",
+      "summary": "메드팩토, ‘MP2021’ 건선 전임상 결과 학술지 게재&nbsp;&nbsp;팜뉴스메드팩토 \"특정 단백질 억제하면 '건선치료' 가능\"&nbsp;&nbsp;뉴시스메드팩토, ‘MP2021’ 건선 치료 연구결과 논문 발표&nbsp;&nbsp;서울경제[카드] 메드팩토, 'MP2021' 건선 치료 가능성 논문 발표&nbsp;&nbsp;네이트메드팩토 \"MP2021, 건선 치료 전임상 결과 국제 학술지 게재\"&nbsp;&nbsp;뉴스핌",
+      "sources": [
+        {
+          "name": "팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkOHRpMVotN1ptTHl0NXFpLXduSzdyQzc3dlFCNWxsQk1wQmJ3MHNOdF9MdXhXNXhvcU1wOUljRm9iQl9yeWl4YTZrazFlcy12RjRTUmpiVVlNZHhBblJGZWpFbWpnTU9GQ2NCMA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "94b59f447ff6",
       "title": "“평소 오래 앉아 있나요?”…O시간 넘으면 ‘우울증’ 위험 급상승 - 농민신문",
       "published": "2026-04-24T06:07:03+00:00",
@@ -266,30 +314,6 @@
         {
           "name": "농민신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ZUVqNkhqazZ0Tk1NNnZOU2ZaWUdXeXlwVmluUXJnWlNxVjhnUjZTb0IwRGNLdktkVG5rTVFOWlIyUUJfWU03MEltblNURWlnZ0FlX1o3WHBVdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a23071f1293d",
-      "title": "메드팩토, MP2021 건선 치료 가능성 담은 논문 국제 학술지 게재 - 팜이데일리",
-      "published": "2026-04-24T05:44:38+00:00",
-      "summary": "메드팩토, MP2021 건선 치료 가능성 담은 논문 국제 학술지 게재&nbsp;&nbsp;팜이데일리메드팩토 \"특정 단백질 억제하면 '건선치료' 가능\"&nbsp;&nbsp;뉴시스메드팩토, ‘MP2021’ 건선 치료 연구결과 논문 발표&nbsp;&nbsp;서울경제[카드] 메드팩토, 'MP2021' 건선 치료 가능성 논문 발표&nbsp;&nbsp;네이트메드팩토 \"MP2021, 건선 치료 전임상 결과 국제 학술지 게재\"&nbsp;&nbsp;뉴스핌",
-      "sources": [
-        {
-          "name": "팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6RzAzM0FXbjA3bW1SazVGS3YwLVBlaFNYSkxUNmNlU3BHa295Vy1mQWdjSlBnMmNtTWVvUWJaQTNNZVFGaWdhSmFPZWJPVXd5aUE4bHFxa2FHUk44M3VoeGdBSUpTODNndEV2UHpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "752592d4a681",
-      "title": "건강 걷기 속도 따로 있다…‘시속 몇 km’가 기준일까?[건강팩트체크] - 동아일보",
-      "published": "2026-04-24T02:57:07+00:00",
-      "summary": "건강 걷기 속도 따로 있다…‘시속 몇 km’가 기준일까?[건강팩트체크]&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaMHZ3TWRUcURWZHQwZDc2SHl1UmR1eVZWYy1QTkdUZElPTWhoVV9SdEJmVm5rcURzLVVFbG5LWG10UW43c1J2WlJHbTN0NklTdDJGWGNRclV6TnE5WmtPZV9LX0xKeEg2TUcxNmZiWdIBZkFVX3lxTFAxMFgyZ3NGZHVEXzZ0RkR0QVVCWDlULWtkcnRmLVliYVFRLXVOeXNxNHBoSDF2YnBDTGxodExWLW5wVHMyeFZUZDVFdEdaRGZGc3NMZWNsNXo3bkVfcE1LQXdCbVVSUQ?oc=5"
         }
       ]
     },
@@ -330,50 +354,14 @@
       ]
     },
     {
-      "id": "bfc75ccf8677",
-      "title": "노인 빈혈, 치매 위험 최대 66% 높여 - 메디컬투데이",
-      "published": "2026-04-23T23:49:57+00:00",
-      "summary": "노인 빈혈, 치매 위험 최대 66% 높여&nbsp;&nbsp;메디컬투데이Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NR2Y5Y1BEc1FHRExFSHFRY0FSWWVLM0MzYndWeDRuQnh6WWxRbnhwR2RTSFROX3d1U05MYkQ3Sk1LZUhSamxXVlBsOUhLbUUxUzhfRFFFeHd5VzJXRWtoSnVn0gFsQVVfeXFMUFdoVTFVWVBrZ295Zkp5M2NaWmF6ZFZZTzFqUnlHOEpfYjU5RGlJbkNKWEFlYnIyalZWVC04WXJkS3hHd3BGZ3BtbEFjR1pxUmJsWTBiVkxPdkNsTURTY2Y1MHNlbWFTWjh5a0xn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "657106c81da6",
       "title": "성인도 예방접종이력 체크…50세 넘으면 ‘대상포진 백신’ 챙기기 - 헬스경향",
       "published": "2026-04-23T23:27:00+00:00",
-      "summary": "성인도 예방접종이력 체크…50세 넘으면 ‘대상포진 백신’ 챙기기&nbsp;&nbsp;헬스경향'아침마당' 문지연 교수 \"대상포진=출산의 고통…50대부터 예방접종 추천\"&nbsp;&nbsp;네이트[100세 건강] ‘대상포진 백신’의 뜻밖의 효과…‘치매 시계’ 늦추는 카드 될까&nbsp;&nbsp;뉴스퀘스트4월 17일 의료 뉴스 업데이트: 대상포진 합병증에 대한 경고.&nbsp;&nbsp;Vietnam.vn치매 위험 낮출 방법...매년 독감 예방 접종&nbsp;&nbsp;공정뉴스",
+      "summary": "성인도 예방접종이력 체크…50세 넘으면 ‘대상포진 백신’ 챙기기&nbsp;&nbsp;헬스경향'아침마당' 문지연 교수 \"대상포진=출산의 고통…50대부터 예방접종 추천\"&nbsp;&nbsp;네이트[100세 건강] ‘대상포진 백신’의 뜻밖의 효과…‘치매 시계’ 늦추는 카드 될까&nbsp;&nbsp;뉴스퀘스트4월 17일 의료 뉴스 업데이트: 대상포진 합병증에 대한 경고.&nbsp;&nbsp;Vietnam.vn\"모르고 먹다 극심한 통증\"⋯한국인 자주 먹는 '이것', 대상포진 키운다&nbsp;&nbsp;아이뉴스24",
       "sources": [
         {
           "name": "헬스경향",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NYXZ4Z3AwdkJDQWpacjdVaWJZc3pUOW9abms3cDBiV3ZHaFhvNDJReEFlbWxDbFp6dHBhQW82NTBfMUh5MFJna2FqZE9rZmVORGdYYU90ZWR6RWtKZWNaREg5YVg4cjZ6RXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1b05ee30843",
-      "title": "\"해리포터 투명망토 만들어보자\"…네이처에 2연속 1저자 메타표면 연구자 김주훈 - 동아사이언스",
-      "published": "2026-04-23T22:00:00+00:00",
-      "summary": "\"해리포터 투명망토 만들어보자\"…네이처에 2연속 1저자 메타표면 연구자 김주훈&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LbzNDTkdYRGhHY21nQVliVHBXRGxBajdYVnJTMUJCVndMZXdJRS0zSksxZ05RR2N2Wm5sRU1ob0RVdlJjdVBOZ0ZiZF83NE1RYl90Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc6888d8fe24",
-      "title": "“매일 먹었는데 간 망치고 있었네”… 의사가 경고한 ‘이것’, 뭐야? - 헬스조선",
-      "published": "2026-04-23T17:20:00+00:00",
-      "summary": "“매일 먹었는데 간 망치고 있었네”… 의사가 경고한 ‘이것’, 뭐야?&nbsp;&nbsp;헬스조선열량만 높은 줄 알았는데… “지방 쌓이고 병 생긴다”, 뭐길래?&nbsp;&nbsp;코메디닷컴[이지 사이언스] 달콤한 과당에 숨겨진 치명적 위험…\"대사질환 유발 요인\"&nbsp;&nbsp;연합뉴스설탕보다 더 문제는 과당?...지방 축적·인슐린 저항성 키우는 독자적 경로 밝혀져&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcXFXbzBQQm1reGpNOVpLSmNDNGxSWFgyaWtVT0pVQ1R6dFpRTEQ4YW5TU2o1bFRIWEJkVElLdEtqRnh1QlpEb0VERW9naU5kSDlwd3VIUEJTdHFXUmZOcTdOY2NmVjFmOHNKNkdpOGVkOVJreXc?oc=5"
         }
       ]
     },
@@ -398,78 +386,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UWGxfZTB2UHNwYlhreXFwWU56VWdZUWd2ZXVCa2pGZ1J0MVp4SjZCZTZyV0dqeXZvVUlvVUhRQ1JWQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b26ef50809a9",
-      "title": "발병 원인 몰랐던 ‘유전성 유방암’ 4가지 변이 유형 발견 - 우먼타임스",
-      "published": "2026-04-23T12:46:01+00:00",
-      "summary": "발병 원인 몰랐던 ‘유전성 유방암’ 4가지 변이 유형 발견&nbsp;&nbsp;우먼타임스유전성 유방암 4가지 유형 규명…각기 다른 치료제 써야 효과적&nbsp;&nbsp;v.daum.net국립암센터·가톨릭의대, 원인 불명 유전성 유방암의 ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;동아일보BRCA 유전자 변이, 유방암 말고도 네 가지 암과 연관&nbsp;&nbsp;헬스조선BRCA 음성 유전성 유방암 4개 유형 분류&nbsp;&nbsp;메디칼트리뷴",
-      "sources": [
-        {
-          "name": "우먼타임스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5WWVsWWdaVk9UaDI5M20wclZlVnJ0QVdvQnZwdFZEYXZRRFQ1VGJkWFVmc3JwNnFNRS1peTRlc0ZUTHAwUmRPMkVJSE9maXdBX05ZNlhkSmo1QXZoRkhuZmFMaW5OREwxX1U0Nzl5VWLSAXRBVV95cUxOT192WmNXWS1NR0U2b1YwNDZRaUtVVm1jYUhzX1hhRFp2SElnYVhPRTl4UVRURWNoTjk2Q0RtRklpcVVKNHdGYTFWdjhydUd1ZkZIcG1DNmlVOUs3REtYNWZHX1FHYkVXNnBDS1JHZUtwQk5VTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e731b4e7aa11",
-      "title": "백신 맞았는데 독감 걸린 이유… ‘잠’ 때문일까 - 헬스조선",
-      "published": "2026-04-23T10:40:00+00:00",
-      "summary": "백신 맞았는데 독감 걸린 이유… ‘잠’ 때문일까&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLdUh5cFBkdDhJM1N0MWhBTnMxREtES0NjaTh0RXBmUGRUU3hrZWpXVjFQcWplZl9JMXlDckxZUDNuTVRaLTcydUs4YTR4aG05WnpxUUJPOU1TQk9GdkF4Tm9KU2Mwa2hFQ0ZSZVRkSUh5QlMya3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4cbbc9dcea9",
-      "title": "폐경 후 유방암 예방하려면…체중관리는 기본, 혈압·혈당도 잡아야 - 네이트",
-      "published": "2026-04-23T09:26:00+00:00",
-      "summary": "폐경 후 유방암 예방하려면…체중관리는 기본, 혈압·혈당도 잡아야&nbsp;&nbsp;네이트폐경 후 유방암 예방하려면… 체중관리는 기본, 혈압·혈당도 잡아야&nbsp;&nbsp;v.daum.net[김태열의 생생건강S펜] “폐경 후 비만에 대사이상 동반하면 유방암 40%까지 증가”&nbsp;&nbsp;헤럴드경제‘유방암 걱정’ 중년女, 체중만 관리하면 큰일나는 이유는?&nbsp;&nbsp;코메디닷컴폐경 후 비만·대사증후군, 유방암 발병 위험 최대 40% 높인다&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wNVcxbEg4Y2p5Tk9qNm5aYjNPbXE2ZW9OMzNVQllIZENFeDRqVGJXZUMtd09PU1otSzFXd3ZlZDN2eWJxN3VMSVFDT2hNWkVKdF9v?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d525a88be1e0",
-      "title": "‘뇌의 창문’ 망막...루이소체치매, 혈관 밀도로 이상 신호 읽는다 - 디멘시아뉴스",
-      "published": "2026-04-23T09:24:51+00:00",
-      "summary": "‘뇌의 창문’ 망막...루이소체치매, 혈관 밀도로 이상 신호 읽는다&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MSmMycm1sNGxHNDZqanFiTXdzODVtN2owazAxU09sVV9ab290UmhZX0RYZHRpWU9HQlpqT1MwSTJzazV5MjBva1kyYUZ6SXBKWXhsVHgwa0JKRlZmeFV2MTZya24xb0wzeUtMWXJIeHBndw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d38d545c63fb",
-      "title": "암 환자의 체중 감소와 식욕 저하, ‘암 악액질’ 조기 관리 중요 - 메디컬투데이",
-      "published": "2026-04-23T08:12:01+00:00",
-      "summary": "암 환자의 체중 감소와 식욕 저하, ‘암 악액질’ 조기 관리 중요&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhc0l5NkpFYm12clRKZDNvR2E2MUlFTmpyQUNBNURCMF9OWGVFRmppWS0tN0RtNkIzZUxkMWlDZzBZazdPRzFDanUzc1U0NE96dmRQMjZBbFhyZXpT0gFsQVVfeXFMUFl3VTFlUlkzWTNiQ2tHZHZGc1QyalAwcWVkVnJiTXFCdGNHR3JxMEExUGlzMUFoSFBpcEZGREtSeXZGMGF1MjZpOTdGOVIxdGdieEhDU1dOcW51VTZrdGI2blFHNDRQOFplWHM2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fa8958a56f16",
-      "title": "‘17~29세’…이 때 살찌면, 조기 사망 위험 70% 높아진다? - 문화일보",
-      "published": "2026-04-23T06:56:48+00:00",
-      "summary": "‘17~29세’…이 때 살찌면, 조기 사망 위험 70% 높아진다?&nbsp;&nbsp;문화일보30세 이전 비만, 심혈관질환·당뇨 사망 위험 2배 높인다&nbsp;&nbsp;하이닥‘이 나이’ 체중 증가, 조기 사망 위험 높인다…대규모 연구 결과&nbsp;&nbsp;레이디경향10대 후반~20대에 ‘확찐자’, 조기 사망 위험 70%↑[노화설계]&nbsp;&nbsp;동아일보‘이 나이’ 되기 전에 살찐 사람들, 일찍 사망할 위험 크다고?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "문화일보",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xNHZkazBnaktNRTJsaDQ4RUhFRlIwOTRvVlE5SjVqdXJXcVBONW9DcjRTMmdqbkRTRE1WNW00cHNpaDFnVjRPdlFTbFMyX2RH?oc=5"
         }
       ]
     },
