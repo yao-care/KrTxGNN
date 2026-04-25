@@ -1,8 +1,86 @@
 {
-  "last_updated": "2026-04-25T02:45:21.760027+00:00",
-  "total_count": 39,
+  "last_updated": "2026-04-25T07:23:12.070621+00:00",
+  "total_count": 40,
   "matched_count": 0,
   "news": [
+    {
+      "id": "1f36a6e98f87",
+      "title": "\"낮에 자주 졸리는 것 무시 말아야\"…치매·파킨슨 위험 높다",
+      "published": "2026-04-25T06:32:49+00:00",
+      "summary": "\"낮에 자주 졸리는 것 무시 말아야\"…치매·파킨슨 위험 높다&nbsp;&nbsp;아시아경제낮에 조는 습관 방치했다간…30년 뒤 ‘치매·파킨슨’ 부른다&nbsp;&nbsp;v.daum.net'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문“밥만 먹으면 꾸벅꾸벅, 식곤증 때문 아니라고?”… ‘치매 위험 신호’ 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제",
+      "sources": [
+        {
+          "name": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PdE51c0UyNHRCRzduV1pNbkZWd3JwdFNMRzJkOVpvMlkxLW9EaFdPZ181dlJfSDNWZzVka3F2Z2FBSlBWNHpBdXgxRE9zRlhyNmRXS0ZqMFJyOTMzZGdjdQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "49820f82f5df",
+      "title": "당 과다 섭취, 정신 건강에도 치명타… ‘이 감정’ 유발한다",
+      "published": "2026-04-25T06:02:00+00:00",
+      "summary": "당 과다 섭취, 정신 건강에도 치명타… ‘이 감정’ 유발한다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DUDZzNDEwZ005X0tlSlhEaTllUzFjdnVSenlQR3dqbURJYmE1YUR0a0t4akFueXhUN0hrTDBha2JRNVRmTkdWNnVoYWYzZk15MzBtb2hjTlJOWEtQdW5OUG9YdkVfV1lxRy1ZY0QtM2JtbGt6dlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "28216d20a93d",
+      "title": "“껌만 씹어도 구강암 예방?”… ‘콩 단백질 껌’으로 원인균 99% 죽여",
+      "published": "2026-04-25T06:01:00+00:00",
+      "summary": "“껌만 씹어도 구강암 예방?”… ‘콩 단백질 껌’으로 원인균 99% 죽여&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPdGlQZ2NINC12aENvMmRCYTZHeDFqWjFFQ0xWODFNbHEtemdxcFFrMVBYTnlBMWQxSVZDWHlsem9Udw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "838797469853",
+      "title": "항암 음식 궁합 ⑤ 시금치에 레몬 한 조각… 항암 중 빈혈 완화ㆍ예방에 도움",
+      "published": "2026-04-25T02:39:36+00:00",
+      "summary": "항암 음식 궁합 ⑤ 시금치에 레몬 한 조각… 항암 중 빈혈 완화ㆍ예방에 도움&nbsp;&nbsp;캔서앤서",
+      "sources": [
+        {
+          "name": "캔서앤서",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDdDRkYVdFR1VVTXg2RGt0aHVTeUdZLWZ1VlIxM0lMcVpHcm44RUJuZlZERjNoUXNBUlVMSkxtR0pEV05yZl9sZzJMVnJBTEFNMzlaZTMxb0dRSVgzZml2V3d1ZEg5NjdjNXI3S3BlR1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6602cceceb83",
+      "title": "짠맛의 배신, 당신의 혈관이 비명을 지른다... 당장 저염식을 시작해야 하는 이유",
+      "published": "2026-04-25T01:30:34+00:00",
+      "summary": "짠맛의 배신, 당신의 혈관이 비명을 지른다... 당장 저염식을 시작해야 하는 이유&nbsp;&nbsp;한국AI부동산신문혈압 관리 돕는 저염식의 첫걸음, “국물 줄이고 소금 2g 덜어내세요”&nbsp;&nbsp;하이닥혈압 관리에 도움주는 건기식은?&nbsp;&nbsp;약사공론고혈압 공식 바뀌나…“나트륨보다 칼륨이 더 중요”&nbsp;&nbsp;레이디경향",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CVjBORUxTaTVjTHluQUd4WGFtaUMxRWJFcm16T0xtbmw0aTlQSHRNSDl6dTFzVDhYRTE4elNSZENRU20yMnJzQkd1Sng?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b90fe71c1a41",
+      "title": "아스피린의 암 발병 위험 감소 효과",
+      "published": "2026-04-25T01:29:31+00:00",
+      "summary": "아스피린의 암 발병 위험 감소 효과&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95VVB3STAxVmgxWlJlS3ljb290eEpYd2dvSjVoSGcxaTR5WmdrczJncmlXWktNRFZycFNINjV3TEVHTlZXNnd0MldBdW9mc3hGbW9UUzJJUjJXemp00gFiQVVfeXFMTjEyY3ZCSGhJRkZhcXpwQWwwVmRQQUxRMW85MlVQVi1mUjNSVFl1ckg3QzhfZldkN0FjQmNUb21XN1pDNld3S2NPSllMSGxCV2V0Yk9FZGFSOFpwR2VpNWR5UkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "86b5a673d352",
       "title": "래피젠, 말라리아 신속진단키트 3종 WHO 사전적격성인증 PQ 등재 - 조선비즈",
@@ -12,19 +90,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSl9LUWNPdXFocXRqSUxyWDZ5WnpjenRxZVpOTlg4Z2xVUm5MamNmMVJiVGZSQmpsR0F4MFE4RTQ4Z1ZMVTdSYlpuM1U1RExWNEJ2RTE2VXB1RWNXXzY4d0VyVUtzWlVjQXpfa3M3R1VQUy1OQWFkbjluWmFhN0pBc19fd0tseFdBYUxkcdIBoAFBVV95cUxPRUFqMzRNVzRrR2V4QUJEc0E3UXZsWkNkWXpqNTAtcnQtTjJvdGhLeVo5ZGtWX3VFUEV5b1RJU0Zsdk9aMjBqcHRzTjg0M0hhdnNCWWg5UXpUMkJmWEt4c1VrWVpLZDJhTXZrSVZjQ3ZwN3VOWEszY2pfeHZjT1praVp0NUlKckR3Q3N5ZGN3MGtGUXVITjh0SkdDV0hCTTFy?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "633dbcdbb4f2",
-      "title": "80대에도 50대 기억력…'슈퍼 에이저'의 뇌 조건 [노화설계]",
-      "published": "2026-04-25T01:01:00+00:00",
-      "summary": "80대에도 50대 기억력…'슈퍼 에이저'의 뇌 조건 [노화설계]&nbsp;&nbsp;네이트80대에도 50대 기억력…‘슈퍼 에이저’의 뇌 조건 [노화설계]&nbsp;&nbsp;v.daum.net인지 강화 활동이 알츠하이머 발병 5년 지연시켜&nbsp;&nbsp;바이오타임즈알츠하이머 걸려도 멀쩡한 이유 찾았다…뇌의 보호 유전자 패턴 규명&nbsp;&nbsp;네이트99세 노인, 치매 단백질 있어도 멀쩡...비밀은 '인지 회복력'&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43MHpVeklCMGdfT3FXU1o2cGRldkMwU0lEZ0tqYXI2X0xRcG1LTUk0b0hma0QxMTdPRmxfU3YxUUhvd3VYRHF5aFFFcjk3cnlRQXlj?oc=5"
         }
       ],
       "matched_keywords": []
@@ -82,32 +147,6 @@
       "matched_keywords": []
     },
     {
-      "id": "9deaac055067",
-      "title": "[김연수의 식탁이야기(86)] 지방간 방치하면 심근경색 위험 최대 40% 높아진다",
-      "published": "2026-04-24T21:50:12+00:00",
-      "summary": "[김연수의 식탁이야기(86)] 지방간 방치하면 심근경색 위험 최대 40% 높아진다&nbsp;&nbsp;뉴스투데이20~30대에 지방간 있으면 신장암 위험 1.5배&nbsp;&nbsp;조선일보'명의' 김지훈 교수 \"지방간염, 간암 전 마지막 신호\"&nbsp;&nbsp;네이트“술 한 방울도 안 마시는데 암이라고요?”…2030 젊은층 특히 주의해야 [헬시타임]&nbsp;&nbsp;서울경제비알코올성 지방간…비만 동반 시 신장암 위험 2.12배 높여&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90ZVNUNUVtSjdPSWVmdWFBX3RfUXVHckVaVG1iblJZYlp5clFycEhpNkMtLTNIWlNHSVFBNl9Vb01GUDdYMUNuZGNKVDJ0OGhFdk9ycmR1N01OYk84Z3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5eaa67e5eda3",
-      "title": "낮에 조는 습관 방치했다간…30년 뒤 ‘치매·파킨슨’ 부른다",
-      "published": "2026-04-24T21:02:40+00:00",
-      "summary": "낮에 조는 습관 방치했다간…30년 뒤 ‘치매·파킨슨’ 부른다&nbsp;&nbsp;v.daum.net'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문“밥만 먹으면 꾸벅꾸벅, 식곤증 때문 아니라고?”… ‘치매 위험 신호’ 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81N28yc19yTDg1czdEaWMtLUhFaEJ4V0dhcTJUNkJaSmJIVjFSN01YdHdQa0QxSFUyXy03Z3V6Uk1PS240blgyRVJROTNGc0k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "858e28b72125",
       "title": "\"좋아지겠지\" 기다리면 뇌졸중 치료 기회 놓친다…\"빨리 응급실\"",
       "published": "2026-04-24T21:00:00+00:00",
@@ -121,6 +160,19 @@
       "matched_keywords": []
     },
     {
+      "id": "25dd05a81709",
+      "title": "안정형 관상동맥질환 동반 심방세동 환자, 릭시아나 하나로 충분",
+      "published": "2026-04-24T20:59:00+00:00",
+      "summary": "안정형 관상동맥질환 동반 심방세동 환자, 릭시아나 하나로 충분&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05ampDeVdFUVRoOXdNUFdEMnhzLUcydjFuZjc1aFlxVXhtNE5TaTYtdVpHY21uZWE3T21MWVFXZG9FWDB4TV8zRkN4b2stTmtEbWFrYWwxMXY1YlRUZDQtVnVTNDZoZk0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "470cafa70b87",
       "title": "스트레스에 취약하다면…퇴근 후 ‘이 습관’ 멀리해야, 왜?",
       "published": "2026-04-24T13:02:00+00:00",
@@ -129,6 +181,19 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE44cGJ0bS1OOEZ0S3BJYi00bGFoTWxPd1B3SDhXV2ZnSm9DaHRjNG1id0J1dUlSUVRQWmJWWEphcWFCZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4abc8c94c0f8",
+      "title": "2050년, 세계 인구 5명 중 1명 ‘지방간질환’ 앓는다",
+      "published": "2026-04-24T13:00:00+00:00",
+      "summary": "2050년, 세계 인구 5명 중 1명 ‘지방간질환’ 앓는다&nbsp;&nbsp;하이닥20~30대에 지방간 있으면 신장암 위험 1.5배&nbsp;&nbsp;조선일보'명의' 김지훈 교수 \"지방간염, 간암 전 마지막 신호\"&nbsp;&nbsp;네이트“술 한 방울도 안 마시는데 암이라고요?”…2030 젊은층 특히 주의해야 [헬시타임]&nbsp;&nbsp;서울경제비알코올성 지방간…비만 동반 시 신장암 위험 2.12배 높여&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pSjNxbmtXT2R0LW9QTTQxalpjNmtGelUtVzJuRnlkazAxa1NTX3RTNTR2ckJ5cGF0cFVNMTZ0ZTBiUTJTQ3d2X1ctZEZIclN6LXpjR2lCSEVfZ2xSd2k3TGxiSkxhYmU2c1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -186,19 +251,6 @@
       "matched_keywords": []
     },
     {
-      "id": "037f0bdf368b",
-      "title": "60대 이상 노년층 ‘빈혈’ 있으면… 치매 발병 위험 66% 증가",
-      "published": "2026-04-24T09:30:00+00:00",
-      "summary": "60대 이상 노년층 ‘빈혈’ 있으면… 치매 발병 위험 66% 증가&nbsp;&nbsp;하이닥빈혈, 단순 피로 아니다…“치매 위험 최대 66% 높여”[노화설계]&nbsp;&nbsp;동아일보노인 빈혈, 치매 위험 최대 66% 높여&nbsp;&nbsp;네이트“단순 피로인 줄 알았는데”…여성들이 놓치는 ‘적색 신호’ [Health&]&nbsp;&nbsp;v.daum.net철분 결핍되면 치매 위험 증가...‘이런 음식’ 먹으면 보충할 수 있어&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BcEVoV1BXUlJPdWhNNUZIdHZPa2Y2cG9MOEw2djFZLVZvNnRvYzUzNzl4SzNxeFhiS042WkVJTFplUk5VeGFUWnIwS01ydVgwRXpkbzV1QkdLZjB0alpmV1dsdG1xY0RnWkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "71b20cbdb6bf",
       "title": "샤워했는데 몸에 '세균' 문지른 꼴…피부과 의사의 충격 경고",
       "published": "2026-04-24T07:49:32+00:00",
@@ -251,27 +303,14 @@
       "matched_keywords": []
     },
     {
-      "id": "adc041b32a54",
-      "title": "“부끄럽다고 버티다 병 키운다”…항문질환 명의가 짚은 치루의 신호",
-      "published": "2026-04-24T05:05:00+00:00",
-      "summary": "“부끄럽다고 버티다 병 키운다”…항문질환 명의가 짚은 치루의 신호&nbsp;&nbsp;코메디닷컴",
+      "id": "752592d4a681",
+      "title": "건강 걷기 속도 따로 있다…‘시속 몇 km’가 기준일까?[건강팩트체크]",
+      "published": "2026-04-24T02:57:07+00:00",
+      "summary": "건강 걷기 속도 따로 있다…‘시속 몇 km’가 기준일까?[건강팩트체크]&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDTEhjbTFHTk1pM0hqelp4UkJLeG5sNUd5OUNlVkRmMVBLM1Jxbng1NG5TbGlkcGo4NjVwYW5yRXpXQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7165ca9a174d",
-      "title": "건강 걷기 속도 따로 있다…'시속 몇 km'가 기준일까?[건강팩트체크]",
-      "published": "2026-04-24T02:58:00+00:00",
-      "summary": "건강 걷기 속도 따로 있다…'시속 몇 km'가 기준일까?[건강팩트체크]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43VUtjQU0yVzBsQ1VBMEVUeURRUlRLMy1mM2R2RURNT1pGZEM2YUVCanViM3BLYWl2VXZRSUJMdXVtbDZmZ2NKTVF2cWNJY2FnMDJV?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaMHZ3TWRUcURWZHQwZDc2SHl1UmR1eVZWYy1QTkdUZElPTWhoVV9SdEJmVm5rcURzLVVFbG5LWG10UW43c1J2WlJHbTN0NklTdDJGWGNRclV6TnE5WmtPZV9LX0xKeEg2TUcxNmZiWdIBZkFVX3lxTFAxMFgyZ3NGZHVEXzZ0RkR0QVVCWDlULWtkcnRmLVliYVFRLXVOeXNxNHBoSDF2YnBDTGxodExWLW5wVHMyeFZUZDVFdEdaRGZGc3NMZWNsNXo3bkVfcE1LQXdCbVVSUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -316,6 +355,19 @@
       "matched_keywords": []
     },
     {
+      "id": "bfc75ccf8677",
+      "title": "노인 빈혈, 치매 위험 최대 66% 높여",
+      "published": "2026-04-23T23:49:57+00:00",
+      "summary": "노인 빈혈, 치매 위험 최대 66% 높여&nbsp;&nbsp;메디컬투데이Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NR2Y5Y1BEc1FHRExFSHFRY0FSWWVLM0MzYndWeDRuQnh6WWxRbnhwR2RTSFROX3d1U05MYkQ3Sk1LZUhSamxXVlBsOUhLbUUxUzhfRFFFeHd5VzJXRWtoSnVn0gFsQVVfeXFMUFdoVTFVWVBrZ295Zkp5M2NaWmF6ZFZZTzFqUnlHOEpfYjU5RGlJbkNKWEFlYnIyalZWVC04WXJkS3hHd3BGZ3BtbEFjR1pxUmJsWTBiVkxPdkNsTURTY2Y1MHNlbWFTWjh5a0xn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "657106c81da6",
       "title": "성인도 예방접종이력 체크…50세 넘으면 ‘대상포진 백신’ 챙기기",
       "published": "2026-04-23T23:27:00+00:00",
@@ -324,6 +376,19 @@
         {
           "name": "헬스경향",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NYXZ4Z3AwdkJDQWpacjdVaWJZc3pUOW9abms3cDBiV3ZHaFhvNDJReEFlbWxDbFp6dHBhQW82NTBfMUh5MFJna2FqZE9rZmVORGdYYU90ZWR6RWtKZWNaREg5YVg4cjZ6RXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b1b05ee30843",
+      "title": "\"해리포터 투명망토 만들어보자\"…네이처에 2연속 1저자 메타표면 연구자 김주훈",
+      "published": "2026-04-23T22:00:00+00:00",
+      "summary": "\"해리포터 투명망토 만들어보자\"…네이처에 2연속 1저자 메타표면 연구자 김주훈&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LbzNDTkdYRGhHY21nQVliVHBXRGxBajdYVnJTMUJCVndMZXdJRS0zSksxZ05RR2N2Wm5sRU1ob0RVdlJjdVBOZ0ZiZF83NE1RYl90Yw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -371,7 +436,7 @@
       "id": "b26ef50809a9",
       "title": "발병 원인 몰랐던 ‘유전성 유방암’ 4가지 변이 유형 발견",
       "published": "2026-04-23T12:46:01+00:00",
-      "summary": "발병 원인 몰랐던 ‘유전성 유방암’ 4가지 변이 유형 발견&nbsp;&nbsp;우먼타임스BRCA 유전자 정상인데 유방암… ‘4가지 유형’ 밝혀졌다&nbsp;&nbsp;헬스조선유전성 유방암 4가지 유형 규명…각기 다른 치료제 써야 효과적&nbsp;&nbsp;v.daum.net'브라카'도 아닌데 유전성 유방암…세계 첫 원인 규명&nbsp;&nbsp;뉴시스유전성 유방암 ‘4가지 유형’ 세계 최초 규명···각기 다른 치료제 써야 더 효과적&nbsp;&nbsp;경향신문",
+      "summary": "발병 원인 몰랐던 ‘유전성 유방암’ 4가지 변이 유형 발견&nbsp;&nbsp;우먼타임스유전성 유방암 4가지 유형 규명…각기 다른 치료제 써야 효과적&nbsp;&nbsp;v.daum.net국립암센터·가톨릭의대, 원인 불명 유전성 유방암의 ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;동아일보BRCA 유전자 변이, 유방암 말고도 네 가지 암과 연관&nbsp;&nbsp;헬스조선BRCA 음성 유전성 유방암 4개 유형 분류&nbsp;&nbsp;메디칼트리뷴",
       "sources": [
         {
           "name": "우먼타임스",
@@ -441,58 +506,6 @@
         {
           "name": "문화일보",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xNHZkazBnaktNRTJsaDQ4RUhFRlIwOTRvVlE5SjVqdXJXcVBONW9DcjRTMmdqbkRTRE1WNW00cHNpaDFnVjRPdlFTbFMyX2RH?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5328f619dd05",
-      "title": "봄철 우리 식탁 우의 ‘천연페니실린’→--건강",
-      "published": "2026-04-23T05:37:00+00:00",
-      "summary": "봄철 우리 식탁 우의 ‘천연페니실린’→--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10X3NNR0g2S2t0dGR0NnNMMnE2c1JoQjQtUkQzS3Z4Y3gteDdrWGc0OFFFNDYyRjRTc3VtY0hhTDh2S2dRcERrMmlBa0tpVW9vSl93ZGdyd3Q3WE5takhJRWtFRUh2U1c0WmhscWVn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a9ad945142d9",
-      "title": "김형준 원장 IJMS 게재… 턱관절 질환 ‘면역–기계 통합 모델’ 제시",
-      "published": "2026-04-23T05:20:27+00:00",
-      "summary": "김형준 원장 IJMS 게재… 턱관절 질환 ‘면역–기계 통합 모델’ 제시&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zVTZUZkJYLW5vWmFIemtvRWJzV2k1eVhyM3gzemFYa0NwYWpqUWUwempUOUp3ekNiQVJYdE8xTHRJM3Z3eFp2OEtwbHo?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f2648101651f",
-      "title": "일산백병원, 5월 9일 ‘신경외과 연수강좌’ 개최 … 뇌혈관·두개저·척추 질환 최신 치료지견 공유 14개 강연",
-      "published": "2026-04-23T04:06:57+00:00",
-      "summary": "일산백병원, 5월 9일 ‘신경외과 연수강좌’ 개최 … 뇌혈관·두개저·척추 질환 최신 치료지견 공유 14개 강연&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "헬스오",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oNHN1a1NmN3g4VWZiLTZEOGQ5TmJmN3RsRzRoYnN1UDd1OHJwN2R0THdYY0hTMWF2d1ZLVjY4TC01LWZEOWR3RTZUZXR1M2hPUlZ6LVJrcmhKZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "097c7da4f5a0",
-      "title": "심폐 체력이 뇌 건강 지킨다...치매·우울증 위험 40% 가까이 감소",
-      "published": "2026-04-23T02:30:00+00:00",
-      "summary": "심폐 체력이 뇌 건강 지킨다...치매·우울증 위험 40% 가까이 감소&nbsp;&nbsp;하이닥[기고] 양태길 이학박사…'운동과 뇌'의 상관관계&nbsp;&nbsp;네이트중년 체력, 건강수명 좌우한다…심폐체력 높을수록 질병 늦고 오래 건강&nbsp;&nbsp;메디컬투데이“살만 빠지는 게 아니야”… 운동이 진짜 중요한 이유&nbsp;&nbsp;코메디닷컴운동 시작해야 할 또 하나의 ‘강력한’ 이유&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxQVR1SXZDblZqRHBwMjMyQ0VENmRTdzltSXU2U3lVMU4xMDRiNXRpb3B2YjI5YjZrOEpmanRCSVVrNG9MeGpxSGxYbU1CVGlwWU5OYkhzdVA2NFdnWklhaDBtaGtJWDJPWmc?oc=5"
         }
       ],
       "matched_keywords": []
