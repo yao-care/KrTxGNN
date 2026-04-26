@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-26T03:22:42.879294+00:00",
-  "total_fetched": 61,
-  "unique_count": 61,
-  "health_related_count": 32,
+  "fetched_at": "2026-04-26T07:44:47.461072+00:00",
+  "total_fetched": 59,
+  "unique_count": 59,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "ddca1d60aff7",
+      "title": "우리 몸에 숨은 복병 '대상 포진'…\"뇌졸중의 씨앗 된다\"(대단한 도전) - 네이트",
+      "published": "2026-04-26T05:25:00+00:00",
+      "summary": "우리 몸에 숨은 복병 '대상 포진'…\"뇌졸중의 씨앗 된다\"(대단한 도전)&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41NDBvRzBMdGotMVFaS2ZLMmVMT29xdUVaVkdkNVFfcFdneEQ0UmRjTzUxV3ROUC1mVzhmcFA5UGZhSHljei1YdHAweVJNSlVjbTdSR29B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12e3e39eb3be",
+      "title": "“제2의 팬데믹 막아라”…베일에 싸인 코로나바이러스 새 통로 발견 [달콤한 사이언스] - 서울신문",
+      "published": "2026-04-26T05:00:00+00:00",
+      "summary": "“제2의 팬데믹 막아라”…베일에 싸인 코로나바이러스 새 통로 발견 [달콤한 사이언스]&nbsp;&nbsp;서울신문마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문\"인간 세포에 침투한다\"…박쥐 코로나바이러스 발견&nbsp;&nbsp;이데일리TV\"박쥐 코로나, 인간 침투 '새 통로' 발견\"…알파코로나 위험성 첫 규명[과학을읽다]&nbsp;&nbsp;아시아경제박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장&nbsp;&nbsp;IT조선",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YSS1FRS0yMGs1Q1lzZ2VEZXJEZVdDR183cEl3MUpBcmVrdjcwc1RFaVBPSmE2dGZYR3RYa2NrU000OU94UFctdzE1NjJFWmY3aER5UmlLT0VJZlJtUE5zMHdiSnZZRUppRGR6cjNoOGN2RXk3RFAzUWMwSHpVZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4346e605848c",
+      "title": "손발 냉증의 경고 신호… 단순 체질이 아닌 위험 징후일 수도 있다 - 브랜드경제신문",
+      "published": "2026-04-26T04:57:23+00:00",
+      "summary": "손발 냉증의 경고 신호… 단순 체질이 아닌 위험 징후일 수도 있다&nbsp;&nbsp;브랜드경제신문",
+      "sources": [
+        {
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OT3NZZTRURVloMGlkR2F3WkZCbVVSQVVUdC1GeHl5TnNNc2czV3pQZ3ZaeG9BRXZzM2g1NlhNVWY1Ynh2cUZyUVl6MDM?oc=5"
+        }
+      ]
+    },
     {
       "id": "176d37b0e2eb",
       "title": "[건강올레길] 자궁경부암 전 단계 '이형성증', 레이저·PDT 치료로 암 진행 막는다 - 네이트",
@@ -18,18 +54,6 @@
       ]
     },
     {
-      "id": "388d586e21d2",
-      "title": "“대상포진, 뇌졸중 씨앗 될 수도… 눈 주변 발생 시 발병률 4배↑” (‘대단한 도전’) - TV리포트",
-      "published": "2026-04-26T01:58:34+00:00",
-      "summary": "“대상포진, 뇌졸중 씨앗 될 수도… 눈 주변 발생 시 발병률 4배↑” (‘대단한 도전’)&nbsp;&nbsp;TV리포트\"대상포진, 뇌졸중 씨앗 될 수도…눈 주변 발생 시 발병률 4배↑\" ('대단한 도전')&nbsp;&nbsp;네이트치매 위험 낮출 방법...매년 독감 예방 접종&nbsp;&nbsp;공정뉴스근육통인 줄 알았는데…'72시간' 놓치면 평생 남을 수도&nbsp;&nbsp;매경헬스대상포진이 부르는 뇌경색 위험 경고… “면역 공백기 주의해야” ('대단한도전')&nbsp;&nbsp;mhnse.com",
-      "sources": [
-        {
-          "name": "TV리포트",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtejE0amR6ZU1qRnM5Y3Vqb1JQWERwa3RnaWk2QjVrTjI5VGZjcXd2MFBQamZ5aFVoTGZkZnVJTm9VRm9qaC1sM05nZkh5LVZIZmxvNXdqZTZNYTBCVnfSAWNBVV95cUxOYXJ4eEMzMUdHQ3R3VnhVV1RGcXBkZ3hRYktVeHR6VVZGWGhOTll2OGdRcHFYWTJTNEFYX09oM2E1ZkJ3b1Vua1p4WUNNa3JiODAzT21rZFVqQi1ZRWJFdEhSbEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "46848e7b1404",
       "title": "쇠약해지는 ‘지천명’ 보이저 1호…관측장비 또 하나 꺼졌다 - 경향신문",
       "published": "2026-04-25T23:00:00+00:00",
@@ -38,6 +62,18 @@
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95WFR4OW1TNlhFT1JXaEJzd0tITVhiRkJGYzhQVHhkaFRTZVRUYXBoS09KTUN1VEdTTlcxa1c4aHkyNHh2ZFBvM1d1bndKRXNoMjc1VkpFdFEtZ9IBX0FVX3lxTE54MUdpakRkcjJjclpsLUx1ajhVZ0lWWnVYM2JfTUg1UDViTzJ0N3ZMeW1FeUlOMG1DS3p3UGt5ZXJHZUVFdlJOWGJvZUQtZlBxZ2g2T2V0VXJKeGwwSU1n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d63b19fd338",
+      "title": "늦었다고요? 60세 이후 '이것'만 바꿔도 치매 예방[일터 일침] - 네이트",
+      "published": "2026-04-25T22:01:00+00:00",
+      "summary": "늦었다고요? 60세 이후 '이것'만 바꿔도 치매 예방[일터 일침]&nbsp;&nbsp;네이트유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선인지력 감퇴 막으려면...딸기, 고추 자주 먹어야 하는 이유&nbsp;&nbsp;코메디닷컴치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보\"어차피 유전인데\"라던 40~50대…꾸준히 '이것' 한 사람, 뇌가 달랐다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHMndhZGx3X0E3S19BQ1JMUnc0VDZDanpOSW1XSlUzekhWUXk0bzAtWnlsemhmUHJMa2tnYWNHWE1oSFJQWFN4SHVtV01GN1U1VE1n?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "08205967622b",
       "title": "80대에도 50대 기억력…'슈퍼 에이저'의 뇌 조건 [노화설계] - 네이트",
       "published": "2026-04-25T01:01:00+00:00",
-      "summary": "80대에도 50대 기억력…'슈퍼 에이저'의 뇌 조건 [노화설계]&nbsp;&nbsp;네이트80대에도 50대 기억력…‘슈퍼 에이저’의 뇌 조건 [노화설계]&nbsp;&nbsp;v.daum.net인지 강화 활동이 알츠하이머 발병 5년 지연시켜&nbsp;&nbsp;바이오타임즈알츠하이머 걸려도 멀쩡한 이유 찾았다…뇌의 보호 유전자 패턴 규명&nbsp;&nbsp;네이트99세 노인, 치매 단백질 있어도 멀쩡...비밀은 '인지 회복력'&nbsp;&nbsp;디멘시아뉴스",
+      "summary": "80대에도 50대 기억력…'슈퍼 에이저'의 뇌 조건 [노화설계]&nbsp;&nbsp;네이트80대에도 50대 기억력…‘슈퍼 에이저’의 뇌 조건 [노화설계]&nbsp;&nbsp;v.daum.net99세 노인, 치매 단백질 있어도 멀쩡...비밀은 '인지 회복력'&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
           "name": "네이트",
@@ -270,18 +306,6 @@
       ]
     },
     {
-      "id": "28c794b65e68",
-      "title": "박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장 - IT조선",
-      "published": "2026-04-24T11:40:00+00:00",
-      "summary": "박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장&nbsp;&nbsp;IT조선\"인간 세포에 침투한다\"…박쥐 코로나바이러스 발견&nbsp;&nbsp;이데일리TV“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문[테마시황] 박쥐 코로나 ‘인체 침투’ 새 경로 발견! 코로나 테마 강세 By 인포스탁데일리&nbsp;&nbsp;Investing.com 한국어",
-      "sources": [
-        {
-          "name": "IT조선",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Y01Fbl8tMTA5SmZmZDVMZk1vS0phTVQyVDd3RjQ4SDN2NVlqR2dWQkV0MzFrcmxKcE5FRFBPWDJoMWZteGZ4T3FJOFJFVjdFNXViZklndjhWMXFReEpfbi1wc3plMmdwcFkzNFFZM0jSAXRBVV95cUxPd3FvNkY3WUh5TTZqdTdRcU9JbGdadVFjWWxqbjdudU85SWtrdlhGbzlKSzA0ajNVR0JJTVd1WUgyMWd5cllNa0dGZW5NazJmZHdLZTVjb0lZVXJzbmNnZk9TZ3lFMHBoZ3lYcmFXTzRxb1pqeg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "24b8352af948",
       "title": "“매일 오렌지 섭취 시, 지질 대사 개선”… 伊 지방간 환자 대상 연구 - 하이닥",
       "published": "2026-04-24T11:00:00+00:00",
@@ -333,7 +357,7 @@
       "id": "037f0bdf368b",
       "title": "60대 이상 노년층 ‘빈혈’ 있으면… 치매 발병 위험 66% 증가 - 하이닥",
       "published": "2026-04-24T09:30:00+00:00",
-      "summary": "60대 이상 노년층 ‘빈혈’ 있으면… 치매 발병 위험 66% 증가&nbsp;&nbsp;하이닥빈혈, 단순 피로 아니다…“치매 위험 최대 66% 높여”[노화설계]&nbsp;&nbsp;동아일보노인 빈혈, 치매 위험 최대 66% 높여&nbsp;&nbsp;네이트“단순 피로인 줄 알았는데”…여성들이 놓치는 ‘적색 신호’ [Health&]&nbsp;&nbsp;v.daum.net철분 결핍되면 치매 위험 증가...‘이런 음식’ 먹으면 보충할 수 있어&nbsp;&nbsp;코메디닷컴",
+      "summary": "60대 이상 노년층 ‘빈혈’ 있으면… 치매 발병 위험 66% 증가&nbsp;&nbsp;하이닥빈혈, 단순 피로 아니다…“치매 위험 최대 66% 높여”[노화설계]&nbsp;&nbsp;donga.com노인 빈혈, 치매 위험 최대 66% 높여&nbsp;&nbsp;네이트“단순 피로인 줄 알았는데”…여성들이 놓치는 ‘적색 신호’ [Health&]&nbsp;&nbsp;v.daum.net철분 결핍되면 치매 위험 증가...‘이런 음식’ 먹으면 보충할 수 있어&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "하이닥",
@@ -342,49 +366,13 @@
       ]
     },
     {
-      "id": "0d070c182887",
-      "title": "국가위생건강위원회: 40% 암, 예방할 수 있어--건강 - 인민넷",
-      "published": "2026-04-24T06:12:00+00:00",
-      "summary": "국가위생건강위원회: 40% 암, 예방할 수 있어--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zY3pXZmwyeVpwRzNEX3VwdmxLbVhCenZvcm40X1hJMUkzcXZWYlhHamVhQXh0MGlJdjVGTWVzZXk3VGpNUlpjMXlMWG5tNG9sTHRmcDlnUHNZTVpIZ210QjdtS2FLdzdwNWxSUGxR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a29d9894a665",
-      "title": "메드팩토, ‘MP2021’ 건선 전임상 결과 학술지 게재 - 팜뉴스",
-      "published": "2026-04-24T06:10:39+00:00",
-      "summary": "메드팩토, ‘MP2021’ 건선 전임상 결과 학술지 게재&nbsp;&nbsp;팜뉴스메드팩토 \"특정 단백질 억제하면 '건선치료' 가능\"&nbsp;&nbsp;뉴시스메드팩토, ‘MP2021’ 건선 치료 연구결과 논문 발표&nbsp;&nbsp;서울경제[카드] 메드팩토, 'MP2021' 건선 치료 가능성 논문 발표&nbsp;&nbsp;네이트메드팩토 \"MP2021, 건선 치료 전임상 결과 국제 학술지 게재\"&nbsp;&nbsp;뉴스핌",
-      "sources": [
-        {
-          "name": "팜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkOHRpMVotN1ptTHl0NXFpLXduSzdyQzc3dlFCNWxsQk1wQmJ3MHNOdF9MdXhXNXhvcU1wOUljRm9iQl9yeWl4YTZrazFlcy12RjRTUmpiVVlNZHhBblJGZWpFbWpnTU9GQ2NCMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94b59f447ff6",
-      "title": "“평소 오래 앉아 있나요?”…O시간 넘으면 ‘우울증’ 위험 급상승 - 농민신문",
-      "published": "2026-04-24T06:07:03+00:00",
-      "summary": "“평소 오래 앉아 있나요?”…O시간 넘으면 ‘우울증’ 위험 급상승&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ZUVqNkhqazZ0Tk1NNnZOU2ZaWUdXeXlwVmluUXJnWlNxVjhnUjZTb0IwRGNLdktkVG5rTVFOWlIyUUJfWU03MEltblNURWlnZ0FlX1o3WHBVdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5256bab3331",
-      "title": "세계 메모리 다 합쳐도 부족한 계산, 양자컴 104큐비트로 해냈다 [언박싱 연구실] - 파이낸셜뉴스",
+      "id": "41d9944c0cf5",
+      "title": "세계 메모리 다 합쳐도 부족한 계산, 양자컴 104큐비트로 해냈다 [언박싱 연구실] - fnnews.com",
       "published": "2026-04-23T20:56:00+00:00",
-      "summary": "세계 메모리 다 합쳐도 부족한 계산, 양자컴 104큐비트로 해냈다 [언박싱 연구실]&nbsp;&nbsp;파이낸셜뉴스",
+      "summary": "세계 메모리 다 합쳐도 부족한 계산, 양자컴 104큐비트로 해냈다 [언박싱 연구실]&nbsp;&nbsp;fnnews.com",
       "sources": [
         {
-          "name": "파이낸셜뉴스",
+          "name": "fnnews.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nVE9pNzlIdE5Eelh1MnZSZXpYOU13TTIzVHN5dzRoUHRLbDJFdWlUdjZXT0EwdEhzQWkzUUpNeVFIWWRoOUtPSDRmeFdad2NZdWFTN0c2U2ZOZ9IBXkFVX3lxTE9DYVdaYThmQzJKbUwxeTdoeDhFNFRrUEdIM2FnbURraDVZaXBGRUNNazRrdWczNGR2Z050T1NFR2pPdFBkT2RpdzNnUVRjS2M0VWhPRXRQbG5kWHIzZVE?oc=5"
         }
       ]
