@@ -1,19 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-27T08:31:31.433932+00:00",
-  "total_fetched": 56,
-  "unique_count": 56,
-  "health_related_count": 30,
+  "fetched_at": "2026-04-27T14:02:21.539707+00:00",
+  "total_fetched": 63,
+  "unique_count": 63,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "66d44ea4a46b",
-      "title": "“도무지 집중이 안되네”… ‘이 음식’ 많이 먹은 탓? - 코메디닷컴",
-      "published": "2026-04-27T06:15:00+00:00",
-      "summary": "“도무지 집중이 안되네”… ‘이 음식’ 많이 먹은 탓?&nbsp;&nbsp;코메디닷컴평소에 아무리 잘 먹어도… ‘이것’ 섭취 한 번에 뇌 망가진다&nbsp;&nbsp;헬스조선\"도무지 집중이 안되네\"…'이 음식' 많이 먹은 탓?&nbsp;&nbsp;네이트‘초가공식품’, 심혈관 질환 위험 높인다… “하루 1번 먹을 때마다 5% 증가”&nbsp;&nbsp;하이닥냉장고 속 ‘이것’ 먹었더니 멀쩡하던 무릎 ‘삐걱’…허벅지 근육 망가뜨린 주범은&nbsp;&nbsp;twig24.com",
+      "id": "9d4642a17cd0",
+      "title": "“심장 충전 안되면 위험”…20대男, 매일 7kg 배터리 메고 살아야 하는 이유는? - 코메디닷컴",
+      "published": "2026-04-27T11:05:00+00:00",
+      "summary": "“심장 충전 안되면 위험”…20대男, 매일 7kg 배터리 메고 살아야 하는 이유는?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12dkZKUDgwam55TnRwd19NbVNZZ0llWTBNOTJ4RkZJZ1k4SkhqWTFTcGJxNjBIc2xYMGQ4cXJwTHJxZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6MXRyamxYejAza2FNVzFhQWkyRzhiVHYxaVd0N29VVWRzdGNuVDRISU5KaWY0ckN4Q0tJdjBnQXdDUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0eeba412b02",
+      "title": "英 연구팀, 중년기 적극적인 ‘취미 활동’과 ‘우울증 치료’, 치매 발병 45% 낮춰 - 하이닥",
+      "published": "2026-04-27T11:00:00+00:00",
+      "summary": "英 연구팀, 중년기 적극적인 ‘취미 활동’과 ‘우울증 치료’, 치매 발병 45% 낮춰&nbsp;&nbsp;하이닥치매 막으려면 평생 배워라&nbsp;&nbsp;헬스조선늦었다고요? 60세 이후 ‘이것’만 바꿔도 치매 예방[일터 일침]&nbsp;&nbsp;서울경제\"뇌 건강이 몸보다 더 걱정\"…미국인 99% 불안 속 ‘예방법’은 모른다&nbsp;&nbsp;약사공론치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LYUh6MF9yeFRDYjR4Ni1OaUJtQ2MyZkdXYWtiTkhUTXVPS2ZjTGtoQVhjSXpIS25VRWVEX3RZNDFKdnJiTkplNU5sd25paXZCMWMwUGRMYjVpamNRX3lqYWVod3ByMnN0R2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8931e8d442a9",
+      "title": "[건강이야기] 침묵하는 심장의 경고, 심부전증 - 제민일보",
+      "published": "2026-04-27T10:04:27+00:00",
+      "summary": "[건강이야기] 침묵하는 심장의 경고, 심부전증&nbsp;&nbsp;제민일보",
+      "sources": [
+        {
+          "name": "제민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1laW1LbUdUbWMxdFhSajJ0ZDBNaEt1anZKdmRCblR5TFhWVjFmM1F2TmItZ2hia25TRWFLeWlrc09EbW4yd1owX3dlNEVRSnpsQnZwek5QUF8yaEktOGZaQWZYRTZNMDA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "23fb72a84678",
+      "title": "체중 줄여도 당뇨·암 위험 여전…면역세포에 '비만 기억' 남아 - 동아사이언스",
+      "published": "2026-04-27T09:00:00+00:00",
+      "summary": "체중 줄여도 당뇨·암 위험 여전…면역세포에 '비만 기억' 남아&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0LWpsVFNJWXkzc3JsdmlsS05KX0lpS1VQUjJJTGhHM084bU83Q0MyMVR5eTA5dVJNYzJiemNMV0ZxNG1RMVo4WVJIbW44VVBXdHRfNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a0f3468197e",
+      "title": "\"좋아지겠지\" 기다리면 뇌졸중 치료 기회 놓친다…\"빨리 응급실\" - 한국부동산뉴스",
+      "published": "2026-04-27T08:33:40+00:00",
+      "summary": "\"좋아지겠지\" 기다리면 뇌졸중 치료 기회 놓친다…\"빨리 응급실\"&nbsp;&nbsp;한국부동산뉴스경동맥 협착증, 혈관 절반 막혀도 무증상… “조기 검진이 뇌졸중 예방의 열쇠”&nbsp;&nbsp;하이닥뇌졸중 응급환자 중증도, 구급차와 응급실이 서로 다른 이유는? [건강한겨레]&nbsp;&nbsp;한겨레내 머릿속 시한폭탄! ‘이 증상’ 놓치면 뇌졸중?! / 이승훈 서울대학교병원 신경과 교수&nbsp;&nbsp;YTN 사이언스[건강정보] 뇌졸중 골든타임이 4.5시간인 이유는?&nbsp;&nbsp;병원신문",
+      "sources": [
+        {
+          "name": "한국부동산뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PdUlESWVOUWtpLXhkYWxvNFp5RmRMRDlmZlJobUJIbGFiNXNZQ0tWcUtIYWlSVFBCM3I0WEpKRTJqRF9iMzdOX0Q0dWlSUEROdzJVQl9GOXRnRmZlVXBBWXVsbDV6Q0dCRGlN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bdb2f3251225",
+      "title": "평소에 아무리 잘 먹어도… ‘이것’ 섭취 한 번에 뇌 망가진다 - 헬스조선",
+      "published": "2026-04-27T07:40:00+00:00",
+      "summary": "평소에 아무리 잘 먹어도… ‘이것’ 섭취 한 번에 뇌 망가진다&nbsp;&nbsp;헬스조선TV보며 밥먹기, 머리 나빠진다고? [식탐]&nbsp;&nbsp;v.daum.net\"도무지 집중이 안되네\"…'이 음식' 많이 먹은 탓?&nbsp;&nbsp;네이트‘초가공식품’, 심혈관 질환 위험 높인다… “하루 1번 먹을 때마다 5% 증가”&nbsp;&nbsp;하이닥설탕 다음 ‘건강세’는?…초가공식품에 쏠리는 시선&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zeWZ2VFBBMjdfeWd5TGdJd0YzVkJFRUR2VUMxYWtYaDYtSG12b01tYVltOWJxQUtqSERPdlpCMVBDNXhKb0RPdTFiWGhpbXQxZm9XNnBOU3g1NDBOUFZkRTlhMnczenJ5TFhIWTBuc3Y5NFZTbkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8cfe5d771596",
+      "title": "[현장]“운동도 하고, 기분도 좋아지고” 관악구, 놀면서 예방하는 치매 ‘인기’ - 경향신문",
+      "published": "2026-04-27T06:11:00+00:00",
+      "summary": "[현장]“운동도 하고, 기분도 좋아지고” 관악구, 놀면서 예방하는 치매 ‘인기’&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yWjlFcjdZNF9mSWZpSVBJMFVkQXZRUVFabUxiSnprMndkYzhOTWxJejQyWkZMX1NyNjV1aUk4NXZFX0cxTWVVS3hRVlNfOHE2MDltNm9DMEh6d9IBX0FVX3lxTE9mX2NvbVpvUFNRekZKU20xek5UOHY4V0VZU2dCY3lyOXk2a1FpV2NEQkJ2Rm03cWY3b0xZWTgySVRBUmxieUJnNDZqVWdpbUVRZVh2eVVlYkQ1TmN2Y1Yw?oc=5"
         }
       ]
     },
@@ -26,6 +98,18 @@
         {
           "name": "보험저널",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94djlqZFZRd3V4aWlmck0zc0FqTlZGSWJkbkx1c3ZhYW5vMVo1MjNTSm1jOFN6Q0lIMXl6WjBDTzYxb19TT0NUMFFwLXNQaXFJdnRWM1hYMXlxWmFkemM0MnFzU0NZRmdmVkEwMHN0RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26b4e15cebf1",
+      "title": "우리 나라 과학자, 잠재적인 알츠하이머병 ‘중재스위치’ 발견--건강 - 인민넷",
+      "published": "2026-04-27T06:00:00+00:00",
+      "summary": "우리 나라 과학자, 잠재적인 알츠하이머병 ‘중재스위치’ 발견--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54dG9BbDNNR2phaDU1bHAzcW5KUndYV19Xd1Q2U2VBVEpkMTR2dGdtWVkzT0d2a19mMnA5Nk9jZjFjeVhNWWF0VXM1elNyeG5DSTNfeU1mLUY3bThBUW13Z2F6WVVVNlZLUENfaFZB?oc=5"
         }
       ]
     },
@@ -54,6 +138,30 @@
       ]
     },
     {
+      "id": "59743cd89dde",
+      "title": "운동 안 해도 뇌 젊어지는 단백질, 국내 연구진이 찾았다 - 동아일보",
+      "published": "2026-04-27T04:42:00+00:00",
+      "summary": "운동 안 해도 뇌 젊어지는 단백질, 국내 연구진이 찾았다&nbsp;&nbsp;동아일보운동 안하고 살빼더니, 뇌도 젊어진다고?…‘똑똑해지는 알약’ 나오나&nbsp;&nbsp;v.daum.net운동 효과 내는 핵심 단백질 규명 “인지기능 향상 입증”&nbsp;&nbsp;BRIC운동 모방 치료제 기술 확보 外 [과학게시판]&nbsp;&nbsp;네이트“운동 효과 내는 ‘단백질’ 찾았다”…노년층 인지기능 개선효과 입증&nbsp;&nbsp;헤럴드경제",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fN3N2NzYzbTNkSkdMZnNuRkstSk9YSWRfT3ZqMF9PNlNPS19mMVpBamVfcFNMa1JTaVhRdk0yUWlBWDVQcllaN2tTRHkwVlVDc1BUMFhMd1hIUk83UWJjMzJEbnZ0NVR0aW5RQ0ZzONIBZkFVX3lxTE12d2xwQUN2UGVheWdJWEJaOGMtcGw2Snp5bWFITm8zTTVCbVVEZmZ6NWVNZWxhN0VVOG9mLTBrQ1ZxOXFldkNxX0p3QUJkWDd0TVRCaFVfdDdVZ3hGOVRsSVg0blVTZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e72f5470de4",
+      "title": "16화 영화와 함께하는 건강 회복의 여정: 영양 8 - 브런치",
+      "published": "2026-04-27T04:28:14+00:00",
+      "summary": "16화 영화와 함께하는 건강 회복의 여정: 영양 8&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "브런치",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80WTR2a29WVE9IbVI1OC14MEtmN1ItYU9kSVZmaDZXWC1nbTdfUW5YbVk0UEthbC1ZN3Rsc1JrOEVFMUJ2SEpndXZxd0pfSUpCcnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d5c75511b460",
       "title": "샴푸에 주로 함유된 ‘이 식물’… 미세 플라스틱 배출 효과 확인 - 헬스조선",
       "published": "2026-04-27T03:30:00+00:00",
@@ -66,14 +174,14 @@
       ]
     },
     {
-      "id": "7e72f5470de4",
-      "title": "16화 영화와 함께하는 건강 회복의 여정: 영양 8 - 브런치",
-      "published": "2026-04-27T03:28:05+00:00",
-      "summary": "16화 영화와 함께하는 건강 회복의 여정: 영양 8&nbsp;&nbsp;브런치",
+      "id": "47a7ff1aef7e",
+      "title": "소뇌실조증 악화시키는 새로운 염증 기전 규명 - 후생신보",
+      "published": "2026-04-27T03:00:00+00:00",
+      "summary": "소뇌실조증 악화시키는 새로운 염증 기전 규명&nbsp;&nbsp;후생신보소뇌실조증 악화시키는 새로운 염증 유발 기전 규명&nbsp;&nbsp;BRIC\"혈액 단백질이 뇌를 공격한다\"…소뇌실조증 악화 원인 첫 규명[과학을읽다]&nbsp;&nbsp;v.daum.net소뇌실조증 예방 치료 단서 찾았다...“혈액 단백질 유입·축적이 원인”&nbsp;&nbsp;전자신문보행·발음 장애 생기는 '소뇌실조증' 악화 단백질 찾았다&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "브런치",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80WTR2a29WVE9IbVI1OC14MEtmN1ItYU9kSVZmaDZXWC1nbTdfUW5YbVk0UEthbC1ZN3Rsc1JrOEVFMUJ2SEpndXZxd0pfSUpCcnc?oc=5"
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE92YWI0ZDRrbnNFcTE0VS14RUVacDQwclhJLXJBUWVpNENIYUd5SVFfVDQ4NmRMZzZuTlhfVWx1d2tMdVFo?oc=5"
         }
       ]
     },
@@ -102,22 +210,10 @@
       ]
     },
     {
-      "id": "1f1b3aa79e17",
-      "title": "한국뇌연구원, 운동 효과 내는 핵심 단백질 규명 인지기능 향상 입증 - 경북신문",
-      "published": "2026-04-27T01:35:03+00:00",
-      "summary": "한국뇌연구원, 운동 효과 내는 핵심 단백질 규명 인지기능 향상 입증&nbsp;&nbsp;경북신문운동 안하고 살빼더니, 뇌도 젊어진다고?…‘똑똑해지는 알약’ 나오나&nbsp;&nbsp;v.daum.net운동 효과 내는 핵심 단백질 규명 “인지기능 향상 입증”&nbsp;&nbsp;BRIC뇌연구원 \"운동 없이 뇌 젊어지게 할 단백질 규명\"&nbsp;&nbsp;아시아경제운동 모방 치료제 기술 확보 外 [과학게시판]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "경북신문",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCREdsejJzZEdJS1hLV29LVWZ1MGFrdUhkR2tGd2tkNUlfbWt1d0NDa1BnblV6TkIzMlhuUkczVnlhUWduaGZCaHVhY1dSRnd3SVNSaGhTWnE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3729a38a05c7",
       "title": "헤르페스 염증 ‘스위치’ 찾았다…반복 DNA 서열이 면역 반응 좌우 - 약사공론",
       "published": "2026-04-27T00:29:51+00:00",
-      "summary": "헤르페스 염증 ‘스위치’ 찾았다…반복 DNA 서열이 면역 반응 좌우&nbsp;&nbsp;약사공론UNIST, 헤르페스 바이러스 DNA 바코드 발견…\"신약 개발 기대\"&nbsp;&nbsp;뉴시스헤르페스 바이러스, 면역 센서 활성화의 비밀 풀렸다&nbsp;&nbsp;브릿지경제입술 염증 치료과정 들여다보니…'폴리티민'이 결정적 역할&nbsp;&nbsp;지디넷코리아헤르페스 바이러스 면역반응 유도하는 DNA '반복 서열' 발견&nbsp;&nbsp;v.daum.net",
+      "summary": "헤르페스 염증 ‘스위치’ 찾았다…반복 DNA 서열이 면역 반응 좌우&nbsp;&nbsp;약사공론UNIST, 헤르페스 바이러스 DNA 바코드 발견…\"신약 개발 기대\"&nbsp;&nbsp;뉴시스입술 염증 치료과정 들여다보니…'폴리티민'이 결정적 역할&nbsp;&nbsp;지디넷코리아\"우리 몸 면역 센서 깨우는 바이러스 DNA 서열 발견\"&nbsp;&nbsp;v.daum.net\"면역을 깨우는 '바이러스 DNA 바코드' 찾았다\"…헤르페스 감염 반응의 비밀 규명[과학을읽다]&nbsp;&nbsp;아시아경제",
       "sources": [
         {
           "name": "약사공론",
@@ -126,14 +222,14 @@
       ]
     },
     {
-      "id": "7a944b6203ee",
-      "title": "[건강정보] 뇌졸중 골든타임이 4.5시간인 이유는? - 병원신문",
-      "published": "2026-04-26T23:59:18+00:00",
-      "summary": "[건강정보] 뇌졸중 골든타임이 4.5시간인 이유는?&nbsp;&nbsp;병원신문경동맥 협착증, 혈관 절반 막혀도 무증상… “조기 검진이 뇌졸중 예방의 열쇠”&nbsp;&nbsp;하이닥뇌졸중 응급환자 중증도, 구급차와 응급실이 서로 다른 이유는? [건강한겨레]&nbsp;&nbsp;한겨레\"봄철 어지럼·두근거림, 단순 증상 아냐\"…고령층 뇌졸중 '숨은 원인'&nbsp;&nbsp;보건신문내 머릿속 시한폭탄! ‘이 증상’ 놓치면 뇌졸중?! / 이승훈 서울대학교병원 신경과 교수&nbsp;&nbsp;YTN 사이언스",
+      "id": "274ff7e87cfa",
+      "title": "'플래그십' 세리프, 5000만弗 출범..\"변형DNA 치료제\" - 바이오스펙테이터",
+      "published": "2026-04-26T23:58:00+00:00",
+      "summary": "'플래그십' 세리프, 5000만弗 출범..\"변형DNA 치료제\"&nbsp;&nbsp;바이오스펙테이터",
       "sources": [
         {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92dmVSeG1zT3lEMHZjRnN4T0VURDV1VmYtSTF3NjdnemhjWm5fVjc3aUZiNnVGdGt0akRLOWlHOFdlQWZfUTNHejRHeG1ScGNBUGJaUEtRT1FPRndhM0h0a3JsZFNyUDVRTEE?oc=5"
+          "name": "바이오스펙테이터",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUYTBsNEVhcERzUkRsWDFNdG9TN253OHhYczBYTFpZYUZCdlNXMjVRUlpRV2tQSGNnc3ZnSW83ajVjSEtWZ0VVdVhSMlBraUxTWHlWY3NPRQ?oc=5"
         }
       ]
     },
@@ -194,6 +290,18 @@
         {
           "name": "재활뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4bkItTTRLelBWOEdpcWdzS0JRX0ZuVmVDenFTd04xa2g4c1lBR0htZmJfNW9ZTDFLRjQycFVtZjYya1ZhbjM3U1RBSVhubWZNYzk2dHFLRXQwTGRHZ1ZmUUNKell1ek1mTnJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6eabd7b802e",
+      "title": "[건강리포트]'핑크 덤벨'의 역설 여성도 무거운 중량 들어야 하는 과학적 이유 - 와이드스포츠",
+      "published": "2026-04-26T17:36:23+00:00",
+      "summary": "[건강리포트]'핑크 덤벨'의 역설 여성도 무거운 중량 들어야 하는 과학적 이유&nbsp;&nbsp;와이드스포츠",
+      "sources": [
+        {
+          "name": "와이드스포츠",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51TXBkY1hDZ2loNWxEQ3Q2eEZuRU14dW1XUW9Ma1JrdGR3aEx2SDBCY0F4S3BuR09hRzVZSzRwbVlGR1hZUndYbGxoeVhraHpDTXM2THZyVzVyLV9HQ0dBZVoyanhFcXoxSkpKM0xB?oc=5"
         }
       ]
     },
@@ -314,18 +422,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUHAxZ2VRVk12TlJkT2Uwb28weUo0UDF5c2VhMHBZMk5rd0RHYk5kWGthN0xkdFdzVng0ZFdZX2tobjNkYWx3Unp5WThhZ0x4N0pxSGctNEE1cW1QRTRsOC1jVWRTcFdWampKa0pBbFNhVHNCcnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d63b19fd338",
-      "title": "늦었다고요? 60세 이후 '이것'만 바꿔도 치매 예방[일터 일침] - 네이트",
-      "published": "2026-04-25T22:01:00+00:00",
-      "summary": "늦었다고요? 60세 이후 '이것'만 바꿔도 치매 예방[일터 일침]&nbsp;&nbsp;네이트늦었다고요? 60세 이후 ‘이것’만 바꿔도 치매 예방[일터 일침]&nbsp;&nbsp;서울경제유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선인지력 감퇴 막으려면...딸기, 고추 자주 먹어야 하는 이유&nbsp;&nbsp;코메디닷컴치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHMndhZGx3X0E3S19BQ1JMUnc0VDZDanpOSW1XSlUzekhWUXk0bzAtWnlsemhmUHJMa2tnYWNHWE1oSFJQWFN4SHVtV01GN1U1VE1n?oc=5"
         }
       ]
     },
