@@ -1,19 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-27T03:27:33.370250+00:00",
-  "total_fetched": 52,
-  "unique_count": 52,
-  "health_related_count": 28,
+  "fetched_at": "2026-04-27T08:31:31.433932+00:00",
+  "total_fetched": 56,
+  "unique_count": 56,
+  "health_related_count": 30,
   "news": [
     {
-      "id": "4e6c6e035bd9",
-      "title": "운동 없이 '운동 효과'…근육 분비 천연단백질 규명 - 동아사이언스",
-      "published": "2026-04-27T02:13:00+00:00",
-      "summary": "운동 없이 '운동 효과'…근육 분비 천연단백질 규명&nbsp;&nbsp;동아사이언스Google 뉴스에서 전체 콘텐츠 보기",
+      "id": "66d44ea4a46b",
+      "title": "“도무지 집중이 안되네”… ‘이 음식’ 많이 먹은 탓? - 코메디닷컴",
+      "published": "2026-04-27T06:15:00+00:00",
+      "summary": "“도무지 집중이 안되네”… ‘이 음식’ 많이 먹은 탓?&nbsp;&nbsp;코메디닷컴평소에 아무리 잘 먹어도… ‘이것’ 섭취 한 번에 뇌 망가진다&nbsp;&nbsp;헬스조선\"도무지 집중이 안되네\"…'이 음식' 많이 먹은 탓?&nbsp;&nbsp;네이트‘초가공식품’, 심혈관 질환 위험 높인다… “하루 1번 먹을 때마다 5% 증가”&nbsp;&nbsp;하이닥냉장고 속 ‘이것’ 먹었더니 멀쩡하던 무릎 ‘삐걱’…허벅지 근육 망가뜨린 주범은&nbsp;&nbsp;twig24.com",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZd0YzcHZKeTRpX3F1OEY1NmtyNHlHSHAxYzZvQWdaZFZMVEgzV0tpLXkwWjZ6a1ZZNm0wVVNmYkdoRkFxMDFCNWo0TVRLb0Y4dDBpTg?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12dkZKUDgwam55TnRwd19NbVNZZ0llWTBNOTJ4RkZJZ1k4SkhqWTFTcGJxNjBIc2xYMGQ4cXJwTHJxZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3eb0a52f4021",
+      "title": "라이나생명, '순환계 치료비' 3000만원 확대·'리간드 암치료' 강화…'진단·치료·간병 보장' 고도화 - 보험저널",
+      "published": "2026-04-27T06:05:23+00:00",
+      "summary": "라이나생명, '순환계 치료비' 3000만원 확대·'리간드 암치료' 강화…'진단·치료·간병 보장' 고도화&nbsp;&nbsp;보험저널",
+      "sources": [
+        {
+          "name": "보험저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94djlqZFZRd3V4aWlmck0zc0FqTlZGSWJkbkx1c3ZhYW5vMVo1MjNTSm1jOFN6Q0lIMXl6WjBDTzYxb19TT0NUMFFwLXNQaXFJdnRWM1hYMXlxWmFkemM0MnFzU0NZRmdmVkEwMHN0RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2567f1902008",
+      "title": "달걀 하루 몇 개까지 괜찮을까?…핵심은 '이것'[건강팩트체크] - 네이트",
+      "published": "2026-04-27T05:25:00+00:00",
+      "summary": "달걀 하루 몇 개까지 괜찮을까?…핵심은 '이것'[건강팩트체크]&nbsp;&nbsp;네이트달걀 하루 몇 개까지 괜찮을까?…핵심은 ‘이것’[건강팩트체크]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SUm1rLWt3aGFHQnB4cnR0Q3dSU2wzV3dPZHp2MVluMUdSLUgzNnJIZlNUOXpXOXZ4TC1MMGhEekxsb09Pa3RsWFQ2WTNzSlJkVGNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6420ce6d12ca",
+      "title": "스쿼트와 팔굽혀펴기로 노년을 지킨다 — 독일 전 장관과 88세 가수가 전하는 건강 장수의 비결 - 캐어유 뉴스",
+      "published": "2026-04-27T05:00:00+00:00",
+      "summary": "스쿼트와 팔굽혀펴기로 노년을 지킨다 — 독일 전 장관과 88세 가수가 전하는 건강 장수의 비결&nbsp;&nbsp;캐어유 뉴스",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jV3BYTVRFREJ1b3RLY3Vkclp0eS1CYVo1ek5FMDhFZDFFV3E2NTJtcDE0aS04dG5GMnE0akhHeXdZOUlmVno0c3NBMFIySlI1NkVvX2NMaUg2SnBTTTN4OWx3bE5YQ0RCNW5qcA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d5c75511b460",
+      "title": "샴푸에 주로 함유된 ‘이 식물’… 미세 플라스틱 배출 효과 확인 - 헬스조선",
+      "published": "2026-04-27T03:30:00+00:00",
+      "summary": "샴푸에 주로 함유된 ‘이 식물’… 미세 플라스틱 배출 효과 확인&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tbUtJV05rUDFJOTJuLTZQcmRmR2xGTEhzelNvay1aem9xMW9hel93eUJjdjFRSEZISVl6SThBM1FheldDN2FWUXFiT0NvWk9PQUs0cXVNOGxwVE9UTGtIUDBNREg2aFBwQzJzWjBzZVp6dnBVWUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7e72f5470de4",
+      "title": "16화 영화와 함께하는 건강 회복의 여정: 영양 8 - 브런치",
+      "published": "2026-04-27T03:28:05+00:00",
+      "summary": "16화 영화와 함께하는 건강 회복의 여정: 영양 8&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "브런치",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80WTR2a29WVE9IbVI1OC14MEtmN1ItYU9kSVZmaDZXWC1nbTdfUW5YbVk0UEthbC1ZN3Rsc1JrOEVFMUJ2SEpndXZxd0pfSUpCcnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ef9d51b35ce7",
+      "title": "하루 맥주 1잔 괜찮다고?… 가벼운 음주도 쌓이면 뇌 혈류 줄인다 - 미주한국일보",
+      "published": "2026-04-27T03:00:00+00:00",
+      "summary": "하루 맥주 1잔 괜찮다고?… 가벼운 음주도 쌓이면 뇌 혈류 줄인다&nbsp;&nbsp;미주한국일보[강민성의 헬스토리] 긴장 풀려고 술 마시고 사우나 하다가 ‘뇌빈혈’…음주 후 수면도 피해야&nbsp;&nbsp;dt.co.kr\"딱 한 잔은 약주라고요? 절대 아냐\"…나이 들수록 뇌 '이곳' 얇아진다 [헬시타임]&nbsp;&nbsp;네이트가벼운 음주도 뇌 혈류 줄인다…나이 들수록 영향 뚜렷&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPMnFBYkZkX2xQNVRDbTI1NkFUbTRTV2dhSldNWXNZMW1tVkNjcHlFeWlKQzFDazJhNW1hcnpKcTVROVJQa3JsRkRpT3pkTTNaREhVZ1dqOVhoekVMWnJN?oc=5"
         }
       ]
     },
@@ -21,7 +93,7 @@
       "id": "9ce433ee52fa",
       "title": "수면장애 환자, 치매·파킨슨병 등 신경퇴행 질환 위험 32% 높다 - 하이닥",
       "published": "2026-04-27T02:00:00+00:00",
-      "summary": "수면장애 환자, 치매·파킨슨병 등 신경퇴행 질환 위험 32% 높다&nbsp;&nbsp;하이닥밤새 뒤척이고 낮에 꾸벅꾸벅 졸았다간…30년 뒤 '이 병' 걸릴 확률 '쑥'&nbsp;&nbsp;v.daum.net'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제“밥만 먹으면 꾸벅꾸벅, 식곤증 때문 아니라고?”… ‘치매 위험 신호’ 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제잠 부족하면 치매 위험 최대 5배…'이런 사람'이 더 위험하다&nbsp;&nbsp;네이트",
+      "summary": "수면장애 환자, 치매·파킨슨병 등 신경퇴행 질환 위험 32% 높다&nbsp;&nbsp;하이닥밤새 뒤척이고 낮에 꾸벅꾸벅 졸았다간…30년 뒤 '이 병' 걸릴 확률 '쑥'&nbsp;&nbsp;v.daum.net수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제“밥만 먹으면 꾸벅꾸벅, 식곤증 때문 아니라고?”… ‘치매 위험 신호’ 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제",
       "sources": [
         {
           "name": "하이닥",
@@ -30,14 +102,26 @@
       ]
     },
     {
-      "id": "03e765f2540e",
-      "title": "\"면역이 읽는 바이러스 ‘바코드’ 찾았다\"... 헤르페스 DNA, 염증·세포사멸 스위치 규명 - 특허뉴스",
-      "published": "2026-04-27T01:15:00+00:00",
-      "summary": "\"면역이 읽는 바이러스 ‘바코드’ 찾았다\"... 헤르페스 DNA, 염증·세포사멸 스위치 규명&nbsp;&nbsp;특허뉴스UNIST, 헤르페스 바이러스 DNA 바코드 발견…\"신약 개발 기대\"&nbsp;&nbsp;뉴시스\"우리 몸 면역 센서 깨우는 바이러스 DNA 서열 발견\"&nbsp;&nbsp;v.daum.net입술 염증 치료과정 들여다보니…'폴리티민'이 결정적 역할&nbsp;&nbsp;지디넷코리아\"면역을 깨우는 '바이러스 DNA 바코드' 찾았다\"…헤르페스 감염 반응의 비밀 규명[과학을읽다]&nbsp;&nbsp;아시아경제",
+      "id": "1f1b3aa79e17",
+      "title": "한국뇌연구원, 운동 효과 내는 핵심 단백질 규명 인지기능 향상 입증 - 경북신문",
+      "published": "2026-04-27T01:35:03+00:00",
+      "summary": "한국뇌연구원, 운동 효과 내는 핵심 단백질 규명 인지기능 향상 입증&nbsp;&nbsp;경북신문운동 안하고 살빼더니, 뇌도 젊어진다고?…‘똑똑해지는 알약’ 나오나&nbsp;&nbsp;v.daum.net운동 효과 내는 핵심 단백질 규명 “인지기능 향상 입증”&nbsp;&nbsp;BRIC뇌연구원 \"운동 없이 뇌 젊어지게 할 단백질 규명\"&nbsp;&nbsp;아시아경제운동 모방 치료제 기술 확보 外 [과학게시판]&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "특허뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ERnk1cXQwWlcyR2hqSEpGRjd3clZDMHZ3cUQ2QnpTTC12WTBhdzhLelhILTRMcG4xY0RUUlJqaVY4Q0lmWDFEeg?oc=5"
+          "name": "경북신문",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCREdsejJzZEdJS1hLV29LVWZ1MGFrdUhkR2tGd2tkNUlfbWt1d0NDa1BnblV6TkIzMlhuUkczVnlhUWduaGZCaHVhY1dSRnd3SVNSaGhTWnE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3729a38a05c7",
+      "title": "헤르페스 염증 ‘스위치’ 찾았다…반복 DNA 서열이 면역 반응 좌우 - 약사공론",
+      "published": "2026-04-27T00:29:51+00:00",
+      "summary": "헤르페스 염증 ‘스위치’ 찾았다…반복 DNA 서열이 면역 반응 좌우&nbsp;&nbsp;약사공론UNIST, 헤르페스 바이러스 DNA 바코드 발견…\"신약 개발 기대\"&nbsp;&nbsp;뉴시스헤르페스 바이러스, 면역 센서 활성화의 비밀 풀렸다&nbsp;&nbsp;브릿지경제입술 염증 치료과정 들여다보니…'폴리티민'이 결정적 역할&nbsp;&nbsp;지디넷코리아헤르페스 바이러스 면역반응 유도하는 DNA '반복 서열' 발견&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3UHVkdi1DZGlPak4tb3FGM09QbEo1WFBXX0hiWXQ0Q3Bia1BITlR4M1lWY3ptNE1MQTBDYjlVT0IzNnlzMVY0bVZzZkJzYlAyZTA3c3UyRzNlcDNWZFF0Q2xJOXg5bGUtZDJOUw?oc=5"
         }
       ]
     },
@@ -90,6 +174,18 @@
       ]
     },
     {
+      "id": "835192b41f3a",
+      "title": "점심에 밥 대신 운동 - 마음건강 길",
+      "published": "2026-04-26T20:40:00+00:00",
+      "summary": "점심에 밥 대신 운동&nbsp;&nbsp;마음건강 길",
+      "sources": [
+        {
+          "name": "마음건강 길",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lTzBSWVB2ZlBud3dBMHppdWxfcklaT3hrM2ljLVRrcUhKc3FIWk4ybVJTc3dJdlRxVFJHalJDUXg2NzJtY3VFNlFlTGo2YUNWUHVjMzRDX1hlR3NxNGE5ZlBmamtJRzNWQkHSAW5BVV95cUxNd0o2NHVYbzh0M0pxWUJwdFFpZ1R5U1JiQW9XR3ZZY0l0SS1pLXJ6SGpDR1V6eG5TZWlGTTB6YV9ibFRnLU92Ym02QklTbjc1cUdyQk1lOGduS0dDYmpDemtKaXI1cnduWTFISUZIZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "52c4cd7453eb",
       "title": "일산백병원, 5월 9일 ‘신경외과 연수강좌’ 개최 - 재활뉴스",
       "published": "2026-04-26T20:30:00+00:00",
@@ -138,18 +234,6 @@
       ]
     },
     {
-      "id": "003e759bb1fc",
-      "title": "가벼운 음주도 뇌 혈류 줄인다…나이 들수록 영향 뚜렷 - 네이트",
-      "published": "2026-04-26T08:00:00+00:00",
-      "summary": "가벼운 음주도 뇌 혈류 줄인다…나이 들수록 영향 뚜렷&nbsp;&nbsp;네이트[강민성의 헬스토리] 긴장 풀려고 술 마시고 사우나 하다가 ‘뇌빈혈’…음주 후 수면도 피해야&nbsp;&nbsp;dt.co.kr\"딱 한 잔은 약주라고요? 절대 아냐\"…나이 들수록 뇌 '이곳' 얇아진다 [헬시타임]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nNkFSZFpaSVdqUFFtdzh0RDFWRUFmU2xjUHFZNWxRRHRLTlFha0NhNlpsUklJbkx6VXJkM0Jzd0VXUUlBam1udXpQeW1NcUhhRHVJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "16c3f273e082",
       "title": "\"당뇨병 환자, 오전보다 오후 운동이 혈당 조절에 효과\" - 네이트",
       "published": "2026-04-26T08:00:00+00:00",
@@ -174,14 +258,14 @@
       ]
     },
     {
-      "id": "165765c8368f",
-      "title": "우리 몸에 숨은 복병 ‘대상 포진’…“뇌졸중의 씨앗 된다”(대단한 도전) - newsen.com",
-      "published": "2026-04-26T05:24:12+00:00",
-      "summary": "우리 몸에 숨은 복병 ‘대상 포진’…“뇌졸중의 씨앗 된다”(대단한 도전)&nbsp;&nbsp;newsen.com\"대상포진, 뇌졸중 씨앗 될 수도… 눈 주변 발생 시 발병률 4배↑\" ('대단한 도전')&nbsp;&nbsp;v.daum.net우리 몸에 숨은 복병 '대상 포진'…\"뇌졸중의 씨앗 된다\"(대단한 도전)&nbsp;&nbsp;네이트치매 위험 낮출 방법...매년 독감 예방 접종&nbsp;&nbsp;공정뉴스근육통인 줄 알았는데…'72시간' 놓치면 평생 남을 수도&nbsp;&nbsp;매경헬스",
+      "id": "ddca1d60aff7",
+      "title": "우리 몸에 숨은 복병 '대상 포진'…\"뇌졸중의 씨앗 된다\"(대단한 도전) - 네이트",
+      "published": "2026-04-26T05:25:00+00:00",
+      "summary": "우리 몸에 숨은 복병 '대상 포진'…\"뇌졸중의 씨앗 된다\"(대단한 도전)&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "newsen.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZLVRMTy1mREFzbzJTXzhlQ19LdHlGZERYWTNzOG1VMmhSWHNHRldYZkE3T0VtVGppOGJsaDRQdkVDc3k1LXNaNy1qM0lpNXNPd1VUSVpBUEc4Q3J2TmdTTUNvMTN6NEVv?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41NDBvRzBMdGotMVFaS2ZLMmVMT29xdUVaVkdkNVFfcFdneEQ0UmRjTzUxV3ROUC1mVzhmcFA5UGZhSHljei1YdHAweVJNSlVjbTdSR29B?oc=5"
         }
       ]
     },
@@ -189,7 +273,7 @@
       "id": "12e3e39eb3be",
       "title": "“제2의 팬데믹 막아라”…베일에 싸인 코로나바이러스 새 통로 발견 [달콤한 사이언스] - 서울신문",
       "published": "2026-04-26T05:00:00+00:00",
-      "summary": "“제2의 팬데믹 막아라”…베일에 싸인 코로나바이러스 새 통로 발견 [달콤한 사이언스]&nbsp;&nbsp;서울신문\"인간 세포에 침투한다\"…박쥐 코로나바이러스 발견&nbsp;&nbsp;이데일리TV마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문[테마시황] 박쥐 코로나 ‘인체 침투’ 새 경로 발견! 코로나 테마 강세 By 인포스탁데일리&nbsp;&nbsp;Investing.com 한국어박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장&nbsp;&nbsp;IT조선",
+      "summary": "“제2의 팬데믹 막아라”…베일에 싸인 코로나바이러스 새 통로 발견 [달콤한 사이언스]&nbsp;&nbsp;서울신문박쥐서 나온 신종 코로나… 인간 세포 침투 확인에 긴장&nbsp;&nbsp;IT조선마스크 다시 써야 되나…변이 없이 인간 세포 뚫는 '이것' 등장에 팬데믹 우려&nbsp;&nbsp;전자신문[테마시황] 박쥐 코로나 ‘인체 침투’ 새 경로 발견! 코로나 테마 강세 By 인포스탁데일리&nbsp;&nbsp;Investing.com 한국어“당장 마스크 써야 하나”…인간 세포까지 뚫는다는 ‘이것’ 등장에 과학계 ‘초긴장’&nbsp;&nbsp;서울경제",
       "sources": [
         {
           "name": "서울신문",
@@ -222,18 +306,6 @@
       ]
     },
     {
-      "id": "4116baccb1ce",
-      "title": "[건강올레길] 자궁경부암 전 단계 ‘이형성증’, 레이저·PDT 치료로 암 진행 막는다 - 스포츠동아",
-      "published": "2026-04-26T02:22:35+00:00",
-      "summary": "[건강올레길] 자궁경부암 전 단계 ‘이형성증’, 레이저·PDT 치료로 암 진행 막는다&nbsp;&nbsp;스포츠동아",
-      "sources": [
-        {
-          "name": "스포츠동아",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zWGM1QzJNamFkVUU3NDhVdHkxV25BWkNOZlZ3VWZLZWFNZGNaZVVvcW9GQllLOXNTSHZzbVFHRk84b1hFa1N5X2hRdl9jUnh6MkpzRkd0cEFYWUtpUG1wX0tlVXp0UE9XbFdnVnVsbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8b4bd17360d2",
       "title": "중장년층 ‘이 습관’ 하나로… 질병 없는 삶 1.5년 증가 - 헬스조선",
       "published": "2026-04-26T02:01:00+00:00",
@@ -246,22 +318,10 @@
       ]
     },
     {
-      "id": "46848e7b1404",
-      "title": "쇠약해지는 ‘지천명’ 보이저 1호…관측장비 또 하나 꺼졌다 - 경향신문",
-      "published": "2026-04-25T23:00:00+00:00",
-      "summary": "쇠약해지는 ‘지천명’ 보이저 1호…관측장비 또 하나 꺼졌다&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95WFR4OW1TNlhFT1JXaEJzd0tITVhiRkJGYzhQVHhkaFRTZVRUYXBoS09KTUN1VEdTTlcxa1c4aHkyNHh2ZFBvM1d1bndKRXNoMjc1VkpFdFEtZ9IBX0FVX3lxTE54MUdpakRkcjJjclpsLUx1ajhVZ0lWWnVYM2JfTUg1UDViTzJ0N3ZMeW1FeUlOMG1DS3p3UGt5ZXJHZUVFdlJOWGJvZUQtZlBxZ2g2T2V0VXJKeGwwSU1n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5d63b19fd338",
       "title": "늦었다고요? 60세 이후 '이것'만 바꿔도 치매 예방[일터 일침] - 네이트",
       "published": "2026-04-25T22:01:00+00:00",
-      "summary": "늦었다고요? 60세 이후 '이것'만 바꿔도 치매 예방[일터 일침]&nbsp;&nbsp;네이트유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선인지력 감퇴 막으려면...딸기, 고추 자주 먹어야 하는 이유&nbsp;&nbsp;코메디닷컴치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보\"어차피 유전인데\"라던 40~50대…꾸준히 '이것' 한 사람, 뇌가 달랐다&nbsp;&nbsp;네이트",
+      "summary": "늦었다고요? 60세 이후 '이것'만 바꿔도 치매 예방[일터 일침]&nbsp;&nbsp;네이트늦었다고요? 60세 이후 ‘이것’만 바꿔도 치매 예방[일터 일침]&nbsp;&nbsp;서울경제유전자보다 강했다… ‘이 습관’으로 치매 예방&nbsp;&nbsp;헬스조선인지력 감퇴 막으려면...딸기, 고추 자주 먹어야 하는 이유&nbsp;&nbsp;코메디닷컴치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보",
       "sources": [
         {
           "name": "네이트",
@@ -290,42 +350,6 @@
         {
           "name": "세상을 바꾸는 시민언론 민들레",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91bWw1aDBCM1l5eXk3QXh3ekJ2bXdqNjdkOVFMU0JQNURzQzVXWS1vMXdhNHRldGxpTVJaN3dfQnd4Ym1DdHhGS1FUZkFNMVBLZjQxeUZkNG5jMngydjMtVmlTcnp2S0xqc3dadw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49820f82f5df",
-      "title": "당 과다 섭취, 정신 건강에도 치명타… ‘이 감정’ 유발한다 - 헬스조선",
-      "published": "2026-04-25T06:02:00+00:00",
-      "summary": "당 과다 섭취, 정신 건강에도 치명타… ‘이 감정’ 유발한다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DUDZzNDEwZ005X0tlSlhEaTllUzFjdnVSenlQR3dqbURJYmE1YUR0a0t4akFueXhUN0hrTDBha2JRNVRmTkdWNnVoYWYzZk15MzBtb2hjTlJOWEtQdW5OUG9YdkVfV1lxRy1ZY0QtM2JtbGt6dlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28216d20a93d",
-      "title": "“껌만 씹어도 구강암 예방?”… ‘콩 단백질 껌’으로 원인균 99% 죽여 - 코메디닷컴",
-      "published": "2026-04-25T06:01:00+00:00",
-      "summary": "“껌만 씹어도 구강암 예방?”… ‘콩 단백질 껌’으로 원인균 99% 죽여&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPdGlQZ2NINC12aENvMmRCYTZHeDFqWjFFQ0xWODFNbHEtemdxcFFrMVBYTnlBMWQxSVZDWHlsem9Udw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e65f34256c5c",
-      "title": "양배추의 재발견 - 캐나다 한국일보",
-      "published": "2026-04-25T04:48:00+00:00",
-      "summary": "양배추의 재발견&nbsp;&nbsp;캐나다 한국일보생양배추는 안전하고 유익한 채소이다&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "캐나다 한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rd0tLaGdHNHB4NVhPdUJHcUx1SGdwM2FRU2JNUEZTbXJxSVlhcTUydVM1QWhpRGkzS2dwam1fS0FXZEJOaEZjY0pHR0w4SWNSRTMxOUZjcVRnNno0LWk1Y1NDYldGUQ?oc=5"
         }
       ]
     },
