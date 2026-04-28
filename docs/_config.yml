@@ -8,7 +8,7 @@ baseurl: ""
 lang: "ko"
 
 # Jekyll 主題
-remote_theme: just-the-docs/just-the-docs@v0.10.1
+remote_theme: just-the-docs/just-the-docs
 
 # 插件
 plugins:
