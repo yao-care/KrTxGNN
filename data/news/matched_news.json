@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-04-28T14:20:15.830866+00:00",
-  "total_count": 42,
+  "last_updated": "2026-04-28T19:45:40.996625+00:00",
+  "total_count": 44,
   "matched_count": 0,
   "news": [
+    {
+      "id": "c4573450d968",
+      "title": "30대 대장암, 내시경으로 ‘수술 없이 완치’ … 조기 발견 시 치료 패러다임 변화",
+      "published": "2026-04-28T14:36:33+00:00",
+      "summary": "30대 대장암, 내시경으로 ‘수술 없이 완치’ … 조기 발견 시 치료 패러다임 변화&nbsp;&nbsp;헬스오30대 여성에게 발생한 대장암… “외과적 수술 없이 내시경 치료”&nbsp;&nbsp;헬스조선[Issue Pick] 2030세대, '대장내시경 검사'는 선택 아닌 필수?&nbsp;&nbsp;네이트[헬스톡톡] 3040 건강주의보…젊은 세대 암 발병률 증가, 생활습관이 핵심&nbsp;&nbsp;시사캐스트[청년발언대] 청년 노리는 대장암...원인과 해결책은?&nbsp;&nbsp;청년일보",
+      "sources": [
+        {
+          "name": "헬스오",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hNk92WDZkOUI2SndXTERYYllPSHowQ1Z5NlNycUJjVDlyZ1dFdzFwdFR6VnVvZHA3dGo1aEVNM1Rsdi1mRXplSjJmVXg3N3pmYWZQZ3JsaE5LUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "58a6bb428895",
+      "title": "“치매 예방 효과” 매주 두 번 ‘이것’ 먹어라… 뭘까?",
+      "published": "2026-04-28T14:00:00+00:00",
+      "summary": "“치매 예방 효과” 매주 두 번 ‘이것’ 먹어라… 뭘까?&nbsp;&nbsp;헬스조선\"어차피 유전인데\"라던 40~50대…꾸준히 '이것' 한 사람, 뇌가 달랐다&nbsp;&nbsp;네이트인지건강 운영체계&nbsp;&nbsp;브런치치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보늘 집에서 료리하는 사람이 더 장수한다!--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pWGFHUUhCTDRUMkItSGpzTVQ3b3JKUnZHYndISmFpMVBtak1YUXhiYlZnVDlVVE1fTWlQanp4eHlXb0ZXNkxNU1JtWXRLdzJCLXcwS2ViVUlFckFBdXdoWjdUME1RWWM2dmU4cGVSdF9zSHVYV2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "91429be0e2e4",
+      "title": "치매 유발하는 '스위치' 찾았다…\"녹슨 자물쇠처럼 굳어버려\"",
+      "published": "2026-04-28T12:11:00+00:00",
+      "summary": "치매 유발하는 '스위치' 찾았다…\"녹슨 자물쇠처럼 굳어버려\"&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xMWJxYVRZTTB6OVczUWtlMUhTb29sR3lSeXZJSHZQdFhkOTluZE9lc0psTFVyRXNxaDk0V1JTcVVyNXhwN25HRXBZQVRFY3VqVmxF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a445d54dbd8a",
       "title": "35만 뇌세포 분석… 기억력 담당하는 ‘해마’ 신경 생성이 치매 좌우한다",
@@ -12,19 +51,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fTm9ya0lCWFB1STdGcmJha05WMXdLNjItZEdEQzVHZ1MzdDB0NmhDWjNFTkVMZ1VfeXAzTzJLSTZGa3RqakJYSUtGeVM3X2J4enp6OEpCc1pKUDROWGtCMmw4M2tHZmlSVGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "62042d5eadfd",
-      "title": "조기 발견 대장암, 수술 없이 내시경으로 완치",
-      "published": "2026-04-28T11:07:59+00:00",
-      "summary": "조기 발견 대장암, 수술 없이 내시경으로 완치&nbsp;&nbsp;메드월드뉴스30대 여성에게 발생한 대장암… “외과적 수술 없이 내시경 치료”&nbsp;&nbsp;헬스조선[Issue Pick] 2030세대, '대장내시경 검사'는 선택 아닌 필수?&nbsp;&nbsp;네이트[헬스톡톡] 3040 건강주의보…젊은 세대 암 발병률 증가, 생활습관이 핵심&nbsp;&nbsp;시사캐스트[청년발언대] 청년 노리는 대장암...원인과 해결책은?&nbsp;&nbsp;청년일보",
-      "sources": [
-        {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaOEp0aFpaNUhtd1hHY0dYSlpxWndsZlJKVXRmdEFURmxGdjRKOGdpV0c3bnl3a3hYX1FoUU1fR01VSkxhMm5FQlkxZWlyYXh3cWZmdGFGTTZsLTgwb3lHbWNEeHYtOXNGcUl5bA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -43,27 +69,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2ff2cfbedf95",
-      "title": "“살 빼도 몸속 ‘비만 기억’ 남는다”…당뇨병·암 위험 상당기간 지속상당 기간",
-      "published": "2026-04-28T09:54:00+00:00",
-      "summary": "“살 빼도 몸속 ‘비만 기억’ 남는다”…당뇨병·암 위험 상당기간 지속상당 기간&nbsp;&nbsp;조선일보살 빠진다고 끝 아니다…면역세포에 남는 '비만 기억'이 문제?&nbsp;&nbsp;네이트체중 줄여도 당뇨·암 위험 여전…면역세포에 '비만 기억' 남아&nbsp;&nbsp;동아사이언스“혈당 안 잡으면 몸이 비만을 기억한다”… 요요가 빨리 오는 이유?&nbsp;&nbsp;코메디닷컴비만 기억, 면역세포에 5~10년 잔존 : 패션 & 뷰티&nbsp;&nbsp;kstars.kr",
+      "id": "5c18d75b02de",
+      "title": "“그대로 마셨다가 ‘낭패’” 차 안에 놔둔 생수병, 알고 보니…미세플라스틱이 ‘수두룩’ [지구, 뭐래?]",
+      "published": "2026-04-28T09:42:21+00:00",
+      "summary": "“그대로 마셨다가 ‘낭패’” 차 안에 놔둔 생수병, 알고 보니…미세플라스틱이 ‘수두룩’ [지구, 뭐래?]&nbsp;&nbsp;v.daum.net건강하려 마신 ‘이것’ 때문에, 암 위험 높아질 수도… 대체 뭐지?&nbsp;&nbsp;헬스조선‘아아’에 얼음 둥둥…차가운 음료도 ‘미세플라스틱’ 안심 못한다&nbsp;&nbsp;농민신문티백으로 우린 차 한 잔에 미세플라스틱 147억 개...암 유발 위험&nbsp;&nbsp;센머니뜨거운 커피만 문제인 줄 알았는데… 미세플라스틱 검출된 뜻밖의 ‘음료’&nbsp;&nbsp;위키트리",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWW95MmlYYnhNcUsyRkFvc1NIdzBHMTVwc1JzZU1VMkJFbWZvMW9acHViWmlBd2ZCRy1VUGV6cU01SXNlZzFkOUQ0T1VGcTE4aG5CNWFFdTR3ejJmdWVfS18yaXFlOHIyNnNhb0pwX0hvTXBoQUc2UVMwVjFIa2QtX2xTTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "94b6d771f6ea",
-      "title": "\"그대로 마셨다가 '낭패'\" 차 안에 놔둔 생수병, 알고 보니…미세플라스틱이 '수두룩' [지구, 뭐래?]",
-      "published": "2026-04-28T09:41:00+00:00",
-      "summary": "\"그대로 마셨다가 '낭패'\" 차 안에 놔둔 생수병, 알고 보니…미세플라스틱이 '수두룩' [지구, 뭐래?]&nbsp;&nbsp;네이트“그대로 마셨다가 ‘낭패’” 차 안에 놔둔 생수병, 알고 보니…미세플라스틱이 ‘수두룩’ [지구, 뭐래?]&nbsp;&nbsp;v.daum.net건강하려 마신 ‘이것’ 때문에, 암 위험 높아질 수도… 대체 뭐지?&nbsp;&nbsp;헬스조선‘아아’에 얼음 둥둥…차가운 음료도 ‘미세플라스틱’ 안심 못한다&nbsp;&nbsp;농민신문티백으로 우린 차 한 잔에 미세플라스틱 147억 개...암 유발 위험&nbsp;&nbsp;센머니",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45d0RFWGd3ZHFIUXlGbDBGUXFiZDhRc2puMVlzY2hVMzB6Y2VzU2RDWUc0T2E0WE5WWkJXeF8zN2dKbF90bzA0cVliZmhKNEhQbTA0?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QNFJFMUFnZzRoYVVlTDdRb1dZZ3lKTkp0UE5KZnRWM3lNaVVzNVE1TDQ1Ykdjei04SXA1b1JWTGNHTzlUUjNZbFpWaWF0cUU?oc=5"
         }
       ],
       "matched_keywords": []
@@ -95,14 +108,14 @@
       "matched_keywords": []
     },
     {
-      "id": "26fce1301f3f",
+      "id": "37e27650a376",
       "title": "\"매일 먹는데 왜 이렇게 힘이 없지?\" 노인 허약 부르는 식품 정체",
-      "published": "2026-04-28T09:02:00+00:00",
-      "summary": "\"매일 먹는데 왜 이렇게 힘이 없지?\" 노인 허약 부르는 식품 정체&nbsp;&nbsp;네이트초가공식품 많이 든 ‘저가 음식’ 괜찮을까…“건강에 나쁜 영향 우려”&nbsp;&nbsp;v.daum.net평소에 아무리 잘 먹어도… ‘이것’ 섭취 한 번에 뇌 망가진다&nbsp;&nbsp;헬스조선TV보며 밥먹기, 머리 나빠진다고? [식탐]&nbsp;&nbsp;헤럴드경제[사설] 초가공식품에 소아청소년 건강 잠식&nbsp;&nbsp;현대건강신문",
+      "published": "2026-04-28T09:00:57+00:00",
+      "summary": "\"매일 먹는데 왜 이렇게 힘이 없지?\" 노인 허약 부르는 식품 정체&nbsp;&nbsp;조세일보Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14ekFwcjZlWHQwOXNZWi14SzZRbTNQdjhCLUdlOXN0LXVFYXpKWFBPX21paE5PYkFvcnRmQ29YbDNYTW16djRFUnBidjc0NG1Xemgw?oc=5"
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tN0owVElPWlUzMzZTRUxXc0RieVJ5YU1vWV9WMG1UbEd4YVJuY0NFaTVBWUZFVU9mUlYyV1dsUEZEd0o5a05RQjRqd3d3ZzN3aURPRnhOcGdJRTNtYW9F?oc=5"
         }
       ],
       "matched_keywords": []
@@ -116,6 +129,32 @@
         {
           "name": "美通社",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FX3YtVW9ZMVhkWFFhMExERVNEdEM4SXRNakc5X1J4ZzhFdFNPdGlSZXdCclNZZGhfQmJIQ0NMX3hkeFZRXzFZMnVleDZoUDQxRDZlSDBibENjUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "517dc4fe331b",
+      "title": "살 빠진다고 끝 아니다… 면역세포에 남는 ‘비만 기억’이 문제?",
+      "published": "2026-04-28T08:32:00+00:00",
+      "summary": "살 빠진다고 끝 아니다… 면역세포에 남는 ‘비만 기억’이 문제?&nbsp;&nbsp;코메디닷컴“살 빼도 몸속 ‘비만 기억’ 남는다”…당뇨병·암 위험 상당기간 지속상당 기간&nbsp;&nbsp;조선일보살 빠진다고 끝 아니다…면역세포에 남는 '비만 기억'이 문제?&nbsp;&nbsp;네이트체중 줄여도 당뇨·암 위험 여전…면역세포에 '비만 기억' 남아&nbsp;&nbsp;동아사이언스“혈당 안 잡으면 몸이 비만을 기억한다”… 요요가 빨리 오는 이유?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1KVzhiSGtYME1zS085QzBtTkg4N0RibVhubXJ2cEtBdGtYcXpIUTJhOTdrZ0xsYWUzNW1fQm05NU83Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c739c272386c",
+      "title": "가피바이오, 개별인정형 원료 2종 동시 확보…“점막 건강 플랫폼으로 시장 공략”",
+      "published": "2026-04-28T08:31:35+00:00",
+      "summary": "가피바이오, 개별인정형 원료 2종 동시 확보…“점막 건강 플랫폼으로 시장 공략”&nbsp;&nbsp;푸드아이콘",
+      "sources": [
+        {
+          "name": "푸드아이콘",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kOWJyVzQ2MThqWUhQMFZndWRHaFduMDQ3QnVKUDh2cUZrQks3aW4tMXl1bFVGWVE4MG1vcnN0UG51eXNHajVSTVNRVzZiVm5qZ3h3N0dadl81WEFWWHhWcjVCc2ZQX0daQkJBcw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -160,23 +199,10 @@
       "matched_keywords": []
     },
     {
-      "id": "ac3ab60e353e",
-      "title": "늘 집에서 료리하는 사람이 더 장수한다!--건강",
-      "published": "2026-04-28T06:44:00+00:00",
-      "summary": "늘 집에서 료리하는 사람이 더 장수한다!--건강&nbsp;&nbsp;인민넷“치매 예방 효과” 매주 두 번 ‘이것’ 먹어라… 뭘까?&nbsp;&nbsp;헬스조선\"어차피 유전인데\"라던 40~50대…꾸준히 '이것' 한 사람, 뇌가 달랐다&nbsp;&nbsp;네이트인지건강 운영체계&nbsp;&nbsp;브런치치매를 집 안 습관으로 막을 수 있다?... 주 1회만 해도 무려&nbsp;&nbsp;조세일보",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16OXhwbnY2VExSbGZ2UlM5cURlLVY1cmZBZHNGdFVXN21jR0g1cTlKbzdtS2hlLV94ZllQNHNUUTFhTF9aM1NyOFZ2ZGcyRTJPeWFEVDQ5VkFEODE4bnNMZW1wYmN2dHFKMjBMNHV3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "777229d3b15f",
       "title": "고려대학교 박희호 교수팀, 치매 조기 진단의 새 지평 열다…알츠하이머 ‘미니 뇌’로 실시간 추적 시대 개막",
       "published": "2026-04-28T06:41:06+00:00",
-      "summary": "고려대학교 박희호 교수팀, 치매 조기 진단의 새 지평 열다…알츠하이머 ‘미니 뇌’로 실시간 추적 시대 개막&nbsp;&nbsp;한국강사신문고려대, 뇌 오가노이드로 알츠하이머 실시간 진단 플랫폼 개발&nbsp;&nbsp;주간한국알츠하이머, 발병 수년 전 ‘혈액 검사’로 예측… “뇌 검사보다 빨라”&nbsp;&nbsp;하이닥치매 조기 진단 길 열었다…알츠하이머 환자 ‘미니 뇌’ 모델 구현해 실시간 분석&nbsp;&nbsp;BRIC‘피 한 방울’로 알츠하이머 예측, 치매 단계도 분석&nbsp;&nbsp;v.daum.net",
+      "summary": "고려대학교 박희호 교수팀, 치매 조기 진단의 새 지평 열다…알츠하이머 ‘미니 뇌’로 실시간 추적 시대 개막&nbsp;&nbsp;한국강사신문고려대, 뇌 오가노이드로 알츠하이머 실시간 진단 플랫폼 개발&nbsp;&nbsp;주간한국알츠하이머, 발병 수년 전 ‘혈액 검사’로 예측… “뇌 검사보다 빨라”&nbsp;&nbsp;하이닥‘피 한 방울’로 알츠하이머 예측, 치매 단계도 분석&nbsp;&nbsp;v.daum.net미니 뇌 만들어 알츠하이머병 진행 실시간 추적&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "한국강사신문",
@@ -202,7 +228,7 @@
       "id": "98dc20e94b2d",
       "title": "“매일 조금씩도 치명적”… 장기간 술 마신 사람 추적했더니",
       "published": "2026-04-28T03:09:00+00:00",
-      "summary": "“매일 조금씩도 치명적”… 장기간 술 마신 사람 추적했더니&nbsp;&nbsp;코메디닷컴소주 2잔·맥주 1캔은 안전?…뇌 혈류 줄고 피질 얇아져[노화설계]&nbsp;&nbsp;동아일보\"매일 조금씩도 치명적\"…장기간 술 마신 사람 추적했더니&nbsp;&nbsp;네이트[강민성의 헬스토리] 긴장 풀려고 술 마시고 사우나 하다가 ‘뇌빈혈’…음주 후 수면도 피해야&nbsp;&nbsp;dt.co.kr\"딱 한 잔은 약주라고요? 절대 아냐\"…나이 들수록 뇌 '이곳' 얇아진다 [헬시타임]&nbsp;&nbsp;네이트",
+      "summary": "“매일 조금씩도 치명적”… 장기간 술 마신 사람 추적했더니&nbsp;&nbsp;코메디닷컴\"매일 조금씩도 치명적\"…장기간 술 마신 사람 추적했더니&nbsp;&nbsp;네이트[강민성의 헬스토리] 긴장 풀려고 술 마시고 사우나 하다가 ‘뇌빈혈’…음주 후 수면도 피해야&nbsp;&nbsp;dt.co.kr\"딱 한 잔은 약주라고요? 절대 아냐\"…나이 들수록 뇌 '이곳' 얇아진다 [헬시타임]&nbsp;&nbsp;네이트가벼운 음주도 뇌 혈류 줄인다…나이 들수록 영향 뚜렷&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -215,7 +241,7 @@
       "id": "31e47593a70d",
       "title": "불면의 밤, 그리고 ‘쉬운 해결’의 대가",
       "published": "2026-04-28T03:00:00+00:00",
-      "summary": "불면의 밤, 그리고 ‘쉬운 해결’의 대가&nbsp;&nbsp;미주한국일보밤새 뒤척이고 낮에 꾸벅꾸벅 졸았다간…30년 뒤 '이 병' 걸릴 확률 '쑥'&nbsp;&nbsp;v.daum.net수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제",
+      "summary": "불면의 밤, 그리고 ‘쉬운 해결’의 대가&nbsp;&nbsp;미주한국일보수면장애, 치매·파킨슨 위험 높여…낮잠·주간 졸림이 더 큰 영향 미쳐&nbsp;&nbsp;동아사이언스불면증에 밤잠 설치고 낮잠으로 보충?···알츠하이머·파킨슨병 위험 3배 가까이 높아&nbsp;&nbsp;경향신문'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;한국경제[100세 건강] 잠 못 드는 노인들…문제는 ‘나이’가 아니라 ‘수면장애 질환’&nbsp;&nbsp;뉴스퀘스트",
       "sources": [
         {
           "name": "미주한국일보",
@@ -238,6 +264,19 @@
       "matched_keywords": []
     },
     {
+      "id": "9c50aec4d1f8",
+      "title": "춘천성심병원 이상수 교수팀, 아시아인 유전체 분석 통해 근감소증 핵심 유전자 4종 규명",
+      "published": "2026-04-28T02:25:07+00:00",
+      "summary": "춘천성심병원 이상수 교수팀, 아시아인 유전체 분석 통해 근감소증 핵심 유전자 4종 규명&nbsp;&nbsp;메디포뉴스한림대춘천성심병원, 아시아인 근감소증 핵심 유전자 4종 규명&nbsp;&nbsp;v.daum.net근육 줄어드는 이유 유전자에 있었나… “근감소증 유전자 4종 규명”&nbsp;&nbsp;헬스조선\"다리 힘 빠진다\" 무심코 넘겼다간…'치명적 결과' 부른다 [건강!톡]&nbsp;&nbsp;한국경제[데스크 칼럼] 아시아인 특화 유전자 규명, ‘보건의료 데이터 주권’ 확보의 기회다&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aejRJWUdlVzgtODJCY01IYTJfQ1VMN3M5V1JGeTg1ejRkcTNCUm5pZW9lRXlvMFBfR2NVanpMYTkyNHBkc1VidW1mTzFJNW9LMWxLcEhmSjhkWXo2NWRCeUw1NU8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "3953f95af2db",
       "title": "“양치질 더 잘 해야 겠네”...입 안 세균이 장으로 이동해 위암 유발할 수 있어",
       "published": "2026-04-28T00:07:00+00:00",
@@ -254,7 +293,7 @@
       "id": "e5bec6708025",
       "title": "매일 '이 과일' 먹었더니 체내 염증 쑥 ↓…얼려 먹으면 효과 높아진다 [데일리 헬스]",
       "published": "2026-04-27T23:45:00+00:00",
-      "summary": "매일 '이 과일' 먹었더니 체내 염증 쑥 ↓…얼려 먹으면 효과 높아진다 [데일리 헬스]&nbsp;&nbsp;데일리안",
+      "summary": "매일 '이 과일' 먹었더니 체내 염증 쑥 ↓…얼려 먹으면 효과 높아진다 [데일리 헬스]&nbsp;&nbsp;데일리안Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "데일리안",
@@ -381,6 +420,19 @@
       "matched_keywords": []
     },
     {
+      "id": "00df4e93980c",
+      "title": "당뇨병 원인 베타세포 스트레스, ‘키토 식단’이 잡았다… 체중 감량 없어도 효과 있어",
+      "published": "2026-04-27T09:00:00+00:00",
+      "summary": "당뇨병 원인 베타세포 스트레스, ‘키토 식단’이 잡았다… 체중 감량 없어도 효과 있어&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hQVE4SElhaTRDMXdVQ2F3M3ZxYTBlam9wdFd4T0xiOWF4c3hMRF9UT1cxQzVmWHFtZ0tlczZZdHVyRjVubGgyT2pWWlVoT2psSVUwV1dLRkY4N3N0TllTMC1MdWtGMDZ0UlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "46fb69c2c34c",
       "title": "“혈액 단백질이 뇌로 스며든다”…소뇌실조증 악화 기전 새로 밝혔다",
       "published": "2026-04-27T08:35:12+00:00",
@@ -415,19 +467,6 @@
         {
           "name": "보험저널",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94djlqZFZRd3V4aWlmck0zc0FqTlZGSWJkbkx1c3ZhYW5vMVo1MjNTSm1jOFN6Q0lIMXl6WjBDTzYxb19TT0NUMFFwLXNQaXFJdnRWM1hYMXlxWmFkemM0MnFzU0NZRmdmVkEwMHN0RQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "26b4e15cebf1",
-      "title": "우리 나라 과학자, 잠재적인 알츠하이머병 ‘중재스위치’ 발견--건강",
-      "published": "2026-04-27T06:00:00+00:00",
-      "summary": "우리 나라 과학자, 잠재적인 알츠하이머병 ‘중재스위치’ 발견--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54dG9BbDNNR2phaDU1bHAzcW5KUndYV19Xd1Q2U2VBVEpkMTR2dGdtWVkzT0d2a19mMnA5Nk9jZjFjeVhNWWF0VXM1elNyeG5DSTNfeU1mLUY3bThBUW13Z2F6WVVVNlZLUENfaFZB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -532,19 +571,6 @@
         {
           "name": "재활뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4bkItTTRLelBWOEdpcWdzS0JRX0ZuVmVDenFTd04xa2g4c1lBR0htZmJfNW9ZTDFLRjQycFVtZjYya1ZhbjM3U1RBSVhubWZNYzk2dHFLRXQwTGRHZ1ZmUUNKell1ek1mTnJn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c6eabd7b802e",
-      "title": "[건강리포트]'핑크 덤벨'의 역설 여성도 무거운 중량 들어야 하는 과학적 이유",
-      "published": "2026-04-26T17:36:23+00:00",
-      "summary": "[건강리포트]'핑크 덤벨'의 역설 여성도 무거운 중량 들어야 하는 과학적 이유&nbsp;&nbsp;와이드스포츠",
-      "sources": [
-        {
-          "name": "와이드스포츠",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51TXBkY1hDZ2loNWxEQ3Q2eEZuRU14dW1XUW9Ma1JrdGR3aEx2SDBCY0F4S3BuR09hRzVZSzRwbVlGR1hZUndYbGxoeVhraHpDTXM2THZyVzVyLV9HQ0dBZVoyanhFcXoxSkpKM0xB?oc=5"
         }
       ],
       "matched_keywords": []
