@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-30T14:04:43.181970+00:00",
-  "total_fetched": 97,
-  "unique_count": 97,
-  "health_related_count": 55,
+  "fetched_at": "2026-04-30T19:27:36.085558+00:00",
+  "total_fetched": 99,
+  "unique_count": 99,
+  "health_related_count": 59,
   "news": [
     {
       "id": "4dc379ff018a",
@@ -14,6 +14,30 @@
         {
           "name": "GQ Korea",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNakFkNHFTQTc5S1V5bGIwY3ExSURrd1hVMjlXYXZzSUlKZHN6bE9tVURSN2FsWE5pa1VrRGQwZzBlUFN0blZ6ZXlOMlFjekVON1FHSEZ5RzFtVkE1enRhU2pvejc3a1NyUk50STI0S1BfTEE3bUg4blNTbk1RdnJPNk01aEdEZUhFMDNfZS1FMzY0cW1pYlhXYjVLYjNOLS1ONjByR0hVZjNfdXdHQ2tlRFpCM2lVZm1iME9QanRXQ1VYNU4wcWpFOWFURXkyZFJOZ3lSTHJ6U1ZPRWhoVzlmaThXeFVMZ09KY3BRTXAzanRDdzM4am83UHJHZGdrRkc5aXlLMURLbmZmZFFJNFZtMUxZTkNKSE9NVWVVcDlnc2p0V050NjNGSmVYV2xvZWs2Rk5MMWRzb1l4SUp0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71bdc73cd853",
+      "title": "[건강365] 61. 몸이 보내는 적신호 ‘빈혈’ - 현대불교",
+      "published": "2026-04-30T11:32:50+00:00",
+      "summary": "[건강365] 61. 몸이 보내는 적신호 ‘빈혈’&nbsp;&nbsp;현대불교",
+      "sources": [
+        {
+          "name": "현대불교",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nZ2dHWHlNYS1Nc1cxN256MThIOFY1WDhpRkJUZ1NVUG1pN3daTzBNZTVrYmVBTVZwYkdwdzlzY0NJQVBRQVp4cm85QXFadnYzRllhX05FeVh0UmZ2VDJrVXBSWWVzMmNqUTkyY2VlSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3fd245242bf9",
+      "title": "부산대 ‘국가연구소’ 공모 1차 관문 통과…내달 결정 - 국제신문",
+      "published": "2026-04-30T10:47:00+00:00",
+      "summary": "부산대 ‘국가연구소’ 공모 1차 관문 통과…내달 결정&nbsp;&nbsp;국제신문",
+      "sources": [
+        {
+          "name": "국제신문",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlRT080M0U1R1RoakxDc2hXMy1zbHJ6WjN3UkVLcm1OQ085aG1MRmRUY3JvMVJLX2I3WVF5OF9ONlBNYWd2aEpjeGVpMUUxUTE4SFllWkZJVTdGLWZpQjJXMWY3MjNlanlneENKbU80b3VNaF9hdzNnVzdFUTRIeWxQUHFaLVdoRjZsQ3l3?oc=5"
         }
       ]
     },
@@ -45,11 +69,23 @@
       "id": "41efac98fccf",
       "title": "노년층 잠꼬대, 단순 습관 아닌 치매 전조 신호? - 헬스미디어뉴스",
       "published": "2026-04-30T08:07:19+00:00",
-      "summary": "노년층 잠꼬대, 단순 습관 아닌 치매 전조 신호?&nbsp;&nbsp;헬스미디어뉴스밤잠 못자서 낮잠?… 치매·파킨슨병 위험 2.85배!&nbsp;&nbsp;문화일보수면 문제(2)&nbsp;&nbsp;브런치잠 부족하면 치매 위험 최대 5배…'이런 사람'이 더 위험하다&nbsp;&nbsp;네이트32. 약 없이 잠들지 못하는 사람들&nbsp;&nbsp;불교IN",
+      "summary": "노년층 잠꼬대, 단순 습관 아닌 치매 전조 신호?&nbsp;&nbsp;헬스미디어뉴스늦은 밤 삼겹살에 소주 한 잔…자다 2~3번 깨는 중년, ‘아침 혈당’도 흔들린다&nbsp;&nbsp;v.daum.net밤잠 못자서 낮잠?… 치매·파킨슨병 위험 2.85배!&nbsp;&nbsp;문화일보수면 문제(2)&nbsp;&nbsp;브런치잠 부족하면 치매 위험 최대 5배…'이런 사람'이 더 위험하다&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "헬스미디어뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yWTF4R09nb2VzTVlPSkhnYVdtdkRacDNGQ2Y0eGZVUFZhd1IwbC1vWUpQdnRYdnBqMkFKX01BcHBsRWRuZ1JkclZNMjhiRmZqT1IxQm9oOFpXSEtmNzJfdDhSZ0tFNUV5UlBacVp5QlVOQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a4dbb140f3f",
+      "title": "아플 때 먹어야 하는 이유?…'면역세포 활성 급증' 확인 [건강팩트체크] - 네이트",
+      "published": "2026-04-30T07:59:00+00:00",
+      "summary": "아플 때 먹어야 하는 이유?…'면역세포 활성 급증' 확인 [건강팩트체크]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ad0h3TUxSdFdXd0dYcTlPZURnZGZZaUJ5UW0yNjBpdUJDcVZlaS1DamhhQS1BWGxhX3RGeWVRUzF4c2dXZHdYYmNvd25QMW1xckNV?oc=5"
         }
       ]
     },
@@ -78,10 +114,10 @@
       ]
     },
     {
-      "id": "7285a0fc35c4",
-      "title": "식후 과일 혈당 치솟아! 의사: 적합한 시간에 먹어야!--건강 - 인민넷",
+      "id": "cf7b9e6ccbb0",
+      "title": "식후 과일섭취 혈당 치솟게 해! 의사: 적합한 시간대에 먹어야!--건강 - 인민넷",
       "published": "2026-04-30T06:20:00+00:00",
-      "summary": "식후 과일 혈당 치솟아! 의사: 적합한 시간에 먹어야!--건강&nbsp;&nbsp;인민넷밥 먹었는데 뭔가 허전할 때… ‘이 간식’은 혈당 덜 올린다&nbsp;&nbsp;헬스조선'말린 오징어' 씹었더니 혈당이?…혈당 스파이크 막는 '완충제' 간식&nbsp;&nbsp;뉴시스혈당 관리 위해 '두릅' 먹었더니…오히려 혈당 스파이크, 무슨 문제가?&nbsp;&nbsp;네이트건강식인 줄 알았는데…김밥, 혈당 흔들고 췌장 부담 키운다&nbsp;&nbsp;v.daum.net",
+      "summary": "식후 과일섭취 혈당 치솟게 해! 의사: 적합한 시간대에 먹어야!--건강&nbsp;&nbsp;인민넷밥 먹었는데 뭔가 허전할 때… ‘이 간식’은 혈당 덜 올린다&nbsp;&nbsp;헬스조선'말린 오징어' 씹었더니 혈당이?…혈당 스파이크 막는 '완충제' 간식&nbsp;&nbsp;뉴시스혈당 관리 위해 '두릅' 먹었더니…오히려 혈당 스파이크, 무슨 문제가?&nbsp;&nbsp;네이트건강식인 줄 알았는데…김밥, 혈당 흔들고 췌장 부담 키운다&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "인민넷",
@@ -162,14 +198,14 @@
       ]
     },
     {
-      "id": "87f116b42992",
-      "title": "“당신이 잘 먹어야 나도 강해져”…식사 전후 ‘면역세포’ 비교해보니 - 농민신문",
-      "published": "2026-04-30T03:00:00+00:00",
-      "summary": "“당신이 잘 먹어야 나도 강해져”…식사 전후 ‘면역세포’ 비교해보니&nbsp;&nbsp;농민신문",
+      "id": "098a00fa3e2c",
+      "title": "혈압·면역까지 챙긴다… 오이, ‘이렇게’ 먹으면 효과 쑥 - 헬스조선",
+      "published": "2026-04-30T03:20:00+00:00",
+      "summary": "혈압·면역까지 챙긴다… 오이, ‘이렇게’ 먹으면 효과 쑥&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JMGFneC1QZWhGM21zVzJqMlhOSVhQei1Ja1BqeWFPWW94cHBKaHlzdnVuTS1tRGxNMFVJNVpPUHdVS0VxMlV5QUE3XzR4QkJHMnB2RDRRcTNQQQ?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sdHk2LW54bkk5SVI5NzZCVUdGbHMxbWpQRDlDQ2VwWjh0MjJZdXUwT3hEZERlMVVPNFZXRTBZbTVYTHFkUWZKcUlqaGREWDhubHV6Q3VPNGd6VmVHY2pCd3AtSGtWLUFRVmxsdkVOdmgyMmYzWVE?oc=5"
         }
       ]
     },
@@ -189,7 +225,7 @@
       "id": "1d95bca13606",
       "title": "살 뺀 후 요요 오는 이유?...면역세포 속 ‘비만 기억’ 탓이었다 - 하이닥",
       "published": "2026-04-30T02:30:00+00:00",
-      "summary": "살 뺀 후 요요 오는 이유?...면역세포 속 ‘비만 기억’ 탓이었다&nbsp;&nbsp;하이닥“살 빼도 몸속 ‘비만 기억’ 남는다”…당뇨병·암 위험 상당기간 지속상당 기간&nbsp;&nbsp;조선일보‘비만 기억’ 5~10년 간다… 감량해도 당뇨·암 위험 그대로?[바디플랜]&nbsp;&nbsp;v.daum.net살 빠진다고 끝 아니다…면역세포에 남는 '비만 기억'이 문제?&nbsp;&nbsp;네이트체중 줄여도 당뇨·암 위험 여전…면역세포에 '비만 기억' 남아&nbsp;&nbsp;동아사이언스",
+      "summary": "살 뺀 후 요요 오는 이유?...면역세포 속 ‘비만 기억’ 탓이었다&nbsp;&nbsp;하이닥‘비만 기억’ 5~10년 간다… 감량해도 당뇨·암 위험 그대로?[바디플랜]&nbsp;&nbsp;v.daum.net살 빠진다고 끝 아니다…면역세포에 남는 '비만 기억'이 문제?&nbsp;&nbsp;네이트체중 줄여도 당뇨·암 위험 여전…면역세포에 '비만 기억' 남아&nbsp;&nbsp;동아사이언스“혈당 안 잡으면 몸이 비만을 기억한다”… 요요가 빨리 오는 이유?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "하이닥",
@@ -206,18 +242,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15RUdzbW1ZSzFtd1FpMjB3dGg5VkxkN1g5UF85TkRRT3B0Ynp0czNBcGw2eHhsUllUdGRsQ05wcU93ckVlNEs3WXBlUEtUSHlxZjdKWVN5ZkVVVG1DQXZXay1qYU56TmhtdFFaaVc0WTRvZmhnLWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c7acefe8e81",
-      "title": "“폐경, 방치 아닌 관리의 대상”···여성호르몬 치료로 삶의 질 향상 - 의사신문",
-      "published": "2026-04-30T01:39:59+00:00",
-      "summary": "“폐경, 방치 아닌 관리의 대상”···여성호르몬 치료로 삶의 질 향상&nbsp;&nbsp;의사신문",
-      "sources": [
-        {
-          "name": "의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sb3pRNE0tVmVHSjNqcWlzUGZyU2JsOWU2SGRPV3RJUlBobzk4eEt0MzJ3bjB0c2p3ZkZfTUFOcUdEYzdMazhZVUdjbDNUVlFKczBZWlp6eExsbFgtZFlEMGNvaFF4YWdydWRNa2ttNA?oc=5"
         }
       ]
     },
@@ -249,7 +273,7 @@
       "id": "6f2852394242",
       "title": "순식간에 치솟는 ‘혈당 스파이크’ 막는 생활 습관 - 현대건강신문",
       "published": "2026-04-30T00:33:00+00:00",
-      "summary": "순식간에 치솟는 ‘혈당 스파이크’ 막는 생활 습관&nbsp;&nbsp;현대건강신문“혈당 스파이크 막는다”… 약사가 매일 아침 공복에 먹는 ‘3가지 조합’&nbsp;&nbsp;코메디닷컴\"당뇨인데 초콜릿 먹어도 된다?\"⋯혈당 낮추는 '의외의 간식' 정체는?&nbsp;&nbsp;네이트평소 ‘이 습관’ 들여 놓으면, 살 잘 빠진다… 뭐지?&nbsp;&nbsp;헬스조선아침 거르는 간헐적 단식 '글쎄'…\"근손실에 점심 땐 혈당 스파이크\"&nbsp;&nbsp;뉴시스",
+      "summary": "순식간에 치솟는 ‘혈당 스파이크’ 막는 생활 습관&nbsp;&nbsp;현대건강신문Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "현대건강신문",
@@ -330,6 +354,18 @@
       ]
     },
     {
+      "id": "0ab807c5f53b",
+      "title": "“비혼 여성 암 발병률, 결혼한 여성 보다 83%나 높아” - v.daum.net",
+      "published": "2026-04-29T20:49:33+00:00",
+      "summary": "“비혼 여성 암 발병률, 결혼한 여성 보다 83%나 높아”&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11UjlzZzBBUnVWWllqWnUtY3JHR2d3WjlORHFRN0hxYk84c1NtcGpWS05QWmJzc0taTzFjeVI4S3dZSEYyQUEydXBaSGpfWGs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "224eae5407f6",
       "title": "“매일 먹는 ‘이 음식’, 암 부른다”… 의사 경고, 대체 뭐지? - 헬스조선",
       "published": "2026-04-29T19:20:00+00:00",
@@ -386,18 +422,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVljUWtfdllVSndEakdVTWcyekxaU2NwSDZRVGxFSUg2Z3ljLXZVUXduOUVlMS01c3ZhejhTVndUZEJFeDVoMzV1ZGRqWExmMkxINERjcG8zMmxWb3NmSDJlb2JMSlZKalM1bmpucjMwVl9TQzYwRjBNM1VQN1M0bk8zNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a6f0885d5f0",
-      "title": "결혼한 성인이 비혼자보다 암에 훨씬 덜 걸려…'미세한 간섭' 효과 - 네이트",
-      "published": "2026-04-29T13:52:00+00:00",
-      "summary": "결혼한 성인이 비혼자보다 암에 훨씬 덜 걸려…'미세한 간섭' 효과&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yYjFrZnRWeVl5TGtOWS1iNXVQOW1hNXlKbzktZkJMTmFha1M3bDUyUjR2R1VPYlh0WkdUajVqNzBKS2xoN0pycVZSRE9qR1NiMXZF?oc=5"
         }
       ]
     },
@@ -486,6 +510,18 @@
       ]
     },
     {
+      "id": "72d4b87bbff7",
+      "title": "뇌졸중 신경손상 어떻게 생기나 - 한인포스트",
+      "published": "2026-04-29T07:15:21+00:00",
+      "summary": "뇌졸중 신경손상 어떻게 생기나&nbsp;&nbsp;한인포스트뇌졸중 치료제 나올까… 원숭이 마비된 손 1주일만에 회복 - 조선비즈&nbsp;&nbsp;Chosunbiz\"골든타임 4분의 사투\"..온병원 뇌혈관센터, 24시간 응급시술시스템 가동&nbsp;&nbsp;v.daum.net뇌졸중 원리 규명…IBS, 치료 가능성 제시&nbsp;&nbsp;연합뉴스TV[그래픽] 뇌졸중 신경손상 어떻게 생기나&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "한인포스트",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJakZjSDBrWG1KTHNqQXFGT0xrZDNJS2tNZ1VfVzliOW5lMzltT0FWUzl5MmxQN2N2UDRJcWQxc0EzeWpKVjlXMFM3MUtvQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1483055de712",
       "title": "목이 자주 잠긴다? 당신이 놓치고 있는 건강 신호 7가지 - 한국AI부동산신문",
       "published": "2026-04-29T06:33:35+00:00",
@@ -522,14 +558,26 @@
       ]
     },
     {
-      "id": "e573441c43d6",
-      "title": "노인의 빈혈, ‘이것’ 위험까지 높인다…뇌로 가는 산소 줄어 - 농민신문",
-      "published": "2026-04-29T03:00:00+00:00",
-      "summary": "노인의 빈혈, ‘이것’ 위험까지 높인다…뇌로 가는 산소 줄어&nbsp;&nbsp;농민신문",
+      "id": "4f8938d8e170",
+      "title": "블루베리, 다시 보는 이유…“많이 먹는 게 아니라 제대로 먹는 게 핵심” - kmjournal.net",
+      "published": "2026-04-29T03:00:23+00:00",
+      "summary": "블루베리, 다시 보는 이유…“많이 먹는 게 아니라 제대로 먹는 게 핵심”&nbsp;&nbsp;kmjournal.net그냥 먹으면 손해…얼려 먹어야 영양가 폭발한다는 '의외의 과일'&nbsp;&nbsp;위키트리매일 '이 과일' 먹었더니 체내 염증 쑥 ↓…얼려 먹으면 효과 높아진다 [데일리 헬스]&nbsp;&nbsp;데일리안",
       "sources": [
         {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90dUV3MUlMX2dwMW5xbGd4T1FjSG5OaUR0Nm0zcTg0TlNoNlBBbENLN2o4OEhGMHRRcXd6QlVoaUVsWkIxLWZRSU95VTgtTWIydnI0UktacjlpUQ?oc=5"
+          "name": "kmjournal.net",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WaFA1UVhMNWFXU0xKWnBXdFcxNUItWTVZLUVrM2FqckMtT2J1ektLX0VIS0NmWHcwZi00WUZFVDF4TmJjeVA4WE92NmprRk9fd0MxNE43M1VzdkZGd0ZSd0JsVkRmZGtJakZr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf94b32796ec",
+      "title": "알츠하이머 ‘기억 상실 스위치’ 단백질 발견 - 미주한국일보",
+      "published": "2026-04-29T03:00:00+00:00",
+      "summary": "알츠하이머 ‘기억 상실 스위치’ 단백질 발견&nbsp;&nbsp;미주한국일보",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sVDVrVEYya1F6ZjVERlp4amhJdzAwRHU5OTE4bVFsNGRXM0g0cWZSemhYLV83TFNJWU1od0VrcVNEVUc4UFdqSC03T2hrUWpJODFF?oc=5"
         }
       ]
     },
@@ -558,18 +606,6 @@
       ]
     },
     {
-      "id": "126ced8e9554",
-      "title": "부산 온병원, 뇌졸중 지주막하출혈(SAH) 시술 119건 - 코메디닷컴",
-      "published": "2026-04-29T01:35:00+00:00",
-      "summary": "부산 온병원, 뇌졸중 지주막하출혈(SAH) 시술 119건&nbsp;&nbsp;코메디닷컴뇌졸중 치료제 나올까… 원숭이 마비된 손 1주일만에 회복 - 조선비즈&nbsp;&nbsp;Chosunbiz\"골든타임 4분의 사투\"..온병원 뇌혈관센터, 24시간 응급시술시스템 가동&nbsp;&nbsp;v.daum.net뇌졸중 원리 규명…IBS, 치료 가능성 제시&nbsp;&nbsp;연합뉴스TV[그래픽] 뇌졸중 신경손상 어떻게 생기나&nbsp;&nbsp;연합뉴스",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZRjRvQ2dET1ZzSkRIS1g1VGNreHgxMVdScDlUcnV5d2VuOUt5d1ZDN1BnSFhWV3VBR1ROcVoyOEVRQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7053a99764d0",
       "title": "[건강체크] “숨 쉴 때 가슴이 아프다”…단순 근육통 아닌 ‘폐 질환’ 신호일 수도 - 전국뉴스",
       "published": "2026-04-29T01:35:00+00:00",
@@ -594,6 +630,18 @@
       ]
     },
     {
+      "id": "424e6ee70c6a",
+      "title": "피플바이오, 혈액검사 ‘알츠온’ 수술 후 섬망 예측 검사로 임상적 유용성 검증 - 더바이오",
+      "published": "2026-04-28T23:57:37+00:00",
+      "summary": "피플바이오, 혈액검사 ‘알츠온’ 수술 후 섬망 예측 검사로 임상적 유용성 검증&nbsp;&nbsp;더바이오",
+      "sources": [
+        {
+          "name": "더바이오",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdWdDRmEtZmZLNHVNUFVYTXlUYnNLYW9OMTRUbGV0dUJ4eHVkamJKWDhsbXdiMDU5RmdoZlV4Q1MtLTd2N21iUmhHYjNxeUFraHJkZThXbnlTVDdPWFlTdE9xVHZWWnVES0hpZ9IBcEFVX3lxTFA1LXQxZkdReVhiY2N4UEZQSXpwQWgyMmJ0cDgyOEFvU3RYaUQ2MVZFT2JHZjB3MFdTRkpKOWxuWjA4a3A2TGItekNrRnJrZ0NDcFZuc1dVUzloU2NLMFV3SThlT0FRclZ3dzVQVjhyd1k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b1daeb18d283",
       "title": "첫 경련 후 1년내 암 위험 최대 76배↑ - 메디칼트리뷴",
       "published": "2026-04-28T23:54:10+00:00",
@@ -602,18 +650,6 @@
         {
           "name": "메디칼트리뷴",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKM1pzVWF2WWhpYzRha1ZyUjhuSWx2MzNSdTFocG5RZzJxM1VrMmFaOEFSTnZmYzNKNU9UdDNFUENla05sRHlIWDQ0VWo3bFNYaHd2cWZyeG9hS0JobTQ3MVVISnczWVg2U2wzTDFxT3B5ZHVpdFHSAXpBVV95cUxQQmMzcTlHaFFfOUYwbG9TczRvUXZqOTZHT3BqVXpucnZNTUM2QjJqS01yTEE2bGV1ejh0N0FlRnZJQ3ByOUs0bXFmaGdpV053MDVpVm1rU0dyTmp4NjlkdXBGd1VIUHB3THU3Zl9kVWFsYTlpUUt2MDRiQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "855854111e61",
-      "title": "피플바이오 ‘알츠온’, 수술 후 섬망 예측 검사로 임상적 유용성 검증 - 팜이데일리",
-      "published": "2026-04-28T22:55:42+00:00",
-      "summary": "피플바이오 ‘알츠온’, 수술 후 섬망 예측 검사로 임상적 유용성 검증&nbsp;&nbsp;팜이데일리",
-      "sources": [
-        {
-          "name": "팜이데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hTW5xMWVhRGE2dFVYSWNoTGliSGxURXk2NlpuRmJOVE9LN0NhS3hVR2J5MWJXM0NtS1BRWkpSem56SUpINW83UV9uZVEtUE5OWDlaUUk2UzRKd2JoTWpuTVVnN0NfZGFoVHBzdktB?oc=5"
         }
       ]
     },
@@ -662,6 +698,18 @@
         {
           "name": "아이뉴스24",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJS01PSEFMNlBCWEdnNnBybUV1VmJrYTBmc0tDRjU5WWVMdlVRT1NwbU5jTEtwNXZyR3VvMFlaaU1PczdaRlN5amRlVFA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8116667419cd",
+      "title": "바이러스 바로 죽이는 나노 코팅 신소재 나왔다 - 지디넷코리아",
+      "published": "2026-04-28T07:14:59+00:00",
+      "summary": "바이러스 바로 죽이는 나노 코팅 신소재 나왔다&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VemtzWGRiMmxLNFRVRVlaZzEwckswbWpnSk5rbE16SUUxZHBKemtxcFhZY0hxeFBIcGtJQ25lcl83SzUzcWJjd2JuNmJBbWlKTm5HUHZR?oc=5"
         }
       ]
     }
