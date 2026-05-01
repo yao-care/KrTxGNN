@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-04-30T19:27:36.085558+00:00",
-  "total_fetched": 99,
-  "unique_count": 99,
-  "health_related_count": 59,
+  "fetched_at": "2026-05-01T03:42:12.019352+00:00",
+  "total_fetched": 96,
+  "unique_count": 95,
+  "health_related_count": 55,
   "news": [
+    {
+      "id": "73333d63fd2c",
+      "title": "나이가 들면 경험이 쌓이는 것이지, 기억력을 잃는 것이 아닙니다 - 캐어유 뉴스",
+      "published": "2026-05-01T03:00:00+00:00",
+      "summary": "나이가 들면 경험이 쌓이는 것이지, 기억력을 잃는 것이 아닙니다&nbsp;&nbsp;캐어유 뉴스치매 10명 중 6~7명은 ‘이 병’이 원인...알츠하이머 막는 데 좋은 습관은?&nbsp;&nbsp;코메디닷컴알츠하이머, 50대 후반부터 진행… ‘이때’ 가속화한다&nbsp;&nbsp;헬스조선치매, 50대 후반부터 변화 시작…68~72세 ‘최대 전환시기’ [노화설계]&nbsp;&nbsp;동아일보치매 예방에 좋은 ‘운동’…“아버님, ‘이만큼’ 하는게 좋대요”&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43N2JkNHhCeEp5d1I1WE5rM05lejROUEtPUzlQZHhNUUtQYldMVnVRY2ExOHE1RGNzSGJLel80Vl8yc0tIeVFoWWxCdkx5enp6T1h5M0w2RjBLZFM1RVJSVWFTSE1HYktFdGhncg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e45cfa1384fa",
+      "title": "“먹고 마시는 음식이 중요해”...‘신체 도로망’ 혈관을 깨끗하고 튼튼하게 유지하는 법 - 코메디닷컴",
+      "published": "2026-05-01T01:07:00+00:00",
+      "summary": "“먹고 마시는 음식이 중요해”...‘신체 도로망’ 혈관을 깨끗하고 튼튼하게 유지하는 법&nbsp;&nbsp;코메디닷컴혈당·혈압·체중 중 하나라도 이상 있으면, 암 지름길&nbsp;&nbsp;헬스조선\"독성 물질 빠진다\"…응급의학과 의사가 7kg 감량하고 건강 되찾은 방법&nbsp;&nbsp;네이트“혈액에 기름 둥둥”… 응급의학과 교수 경고한 ‘이 음식’, 뭐지?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84bE5qQnEyQzZXd2NsbEticWNBZ1pLSlltS2YycUphUTJIVHVCcUY5S0NNM29wc2tnMl9OMkxZSXF1Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ccf95ddcd594",
+      "title": "비타민D 보충제, 유방암 항암 치료 효과 높인다 - 헬스조선",
+      "published": "2026-04-30T23:00:00+00:00",
+      "summary": "비타민D 보충제, 유방암 항암 치료 효과 높인다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91cnNTd2tYOTBPY3EzaXBwZmFENDFiSGNtNElqdmJva2NwLXEyZlVyell2MUFfZWs2MUUxNm5ySjBPOUdzNlVoSW1GUVJLZGNYd0NxRFpFWXRMbnQyS3MyQVdZb3AxTGpxV194UUZ3dHJxZVV1WWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1e5dc135c526",
+      "title": "늦은 밤 삼겹살에 소주 한 잔…자다 2~3번 깨는 중년, ‘아침 혈당’도 흔들린다 - v.daum.net",
+      "published": "2026-04-30T19:13:00+00:00",
+      "summary": "늦은 밤 삼겹살에 소주 한 잔…자다 2~3번 깨는 중년, ‘아침 혈당’도 흔들린다&nbsp;&nbsp;v.daum.net밤잠 못자서 낮잠?… 치매·파킨슨병 위험 2.85배!&nbsp;&nbsp;문화일보잠 부족하면 치매 위험 최대 5배…'이런 사람'이 더 위험하다&nbsp;&nbsp;네이트[바른 건강] 수면과 장수의 관계&nbsp;&nbsp;미주조선일보노년층 잠꼬대, 단순 습관 아닌 치매 전조 신호?&nbsp;&nbsp;헬스미디어뉴스",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hTWRtT0lkRTdJNVBTUmNWVE9jc01ielJCbFRXek1hcTY3RjY2QVFVd2JGNDgyV05RT2ZTRVNUdHVDbHlaSXlRYWE0V3FLN1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "4dc379ff018a",
       "title": "매일하면 오히려 손해! 근력운동 갓성비는 ‘주 2회’다, 전문가 의견 - GQ Korea",
@@ -14,6 +62,18 @@
         {
           "name": "GQ Korea",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNakFkNHFTQTc5S1V5bGIwY3ExSURrd1hVMjlXYXZzSUlKZHN6bE9tVURSN2FsWE5pa1VrRGQwZzBlUFN0blZ6ZXlOMlFjekVON1FHSEZ5RzFtVkE1enRhU2pvejc3a1NyUk50STI0S1BfTEE3bUg4blNTbk1RdnJPNk01aEdEZUhFMDNfZS1FMzY0cW1pYlhXYjVLYjNOLS1ONjByR0hVZjNfdXdHQ2tlRFpCM2lVZm1iME9QanRXQ1VYNU4wcWpFOWFURXkyZFJOZ3lSTHJ6U1ZPRWhoVzlmaThXeFVMZ09KY3BRTXAzanRDdzM4am83UHJHZGdrRkc5aXlLMURLbmZmZFFJNFZtMUxZTkNKSE9NVWVVcDlnc2p0V050NjNGSmVYV2xvZWs2Rk5MMWRzb1l4SUp0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d0b99249fc8",
+      "title": "“비혼 여성 암 발병률, 기혼 여성보다 83%나 높아” - 우먼타임스",
+      "published": "2026-04-30T12:07:01+00:00",
+      "summary": "“비혼 여성 암 발병률, 기혼 여성보다 83%나 높아”&nbsp;&nbsp;우먼타임스",
+      "sources": [
+        {
+          "name": "우먼타임스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DcExQWDNLQWNuNFlKaU9XeldpMmJsZVd2Qk1fN2xqeTNzay1fTmFtRnd0VkRQZGxWdGZVSFRsc2JTQWYxTG42RVV4QmF6VmFVZEM1U2ZvN25LQUJNU05nVHZ3NWg5QTRTNWM0RjJycnDSAXRBVV95cUxPUnJDaGtxRHowamR6dnEwRlJ2clpSMXBjUElnZHNHSW0zOEtneEpLMWNxaHZjLWRhOVFQMUVTcXo4YUNZdVpMVnY1WndNSF9jRkplQjhRdDFlSWZMTWUwaUQwWUNNaVR4YXNQb0pvR3dDSG9JTw?oc=5"
         }
       ]
     },
@@ -54,30 +114,6 @@
       ]
     },
     {
-      "id": "b96c6f6be505",
-      "title": "스트레스 속에서도 증식하는 줄기세포 비밀 규명 - 후생신보",
-      "published": "2026-04-30T08:22:00+00:00",
-      "summary": "스트레스 속에서도 증식하는 줄기세포 비밀 규명&nbsp;&nbsp;후생신보",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8tSmF6Q0YyZ21NaWNzc0xzdVhCaks5ZDE4OWhIZjFZdmlrSFdab0w1UzJja1h3S1FMX2NsWHhlUmNKZTht?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41efac98fccf",
-      "title": "노년층 잠꼬대, 단순 습관 아닌 치매 전조 신호? - 헬스미디어뉴스",
-      "published": "2026-04-30T08:07:19+00:00",
-      "summary": "노년층 잠꼬대, 단순 습관 아닌 치매 전조 신호?&nbsp;&nbsp;헬스미디어뉴스늦은 밤 삼겹살에 소주 한 잔…자다 2~3번 깨는 중년, ‘아침 혈당’도 흔들린다&nbsp;&nbsp;v.daum.net밤잠 못자서 낮잠?… 치매·파킨슨병 위험 2.85배!&nbsp;&nbsp;문화일보수면 문제(2)&nbsp;&nbsp;브런치잠 부족하면 치매 위험 최대 5배…'이런 사람'이 더 위험하다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "헬스미디어뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yWTF4R09nb2VzTVlPSkhnYVdtdkRacDNGQ2Y0eGZVUFZhd1IwbC1vWUpQdnRYdnBqMkFKX01BcHBsRWRuZ1JkclZNMjhiRmZqT1IxQm9oOFpXSEtmNzJfdDhSZ0tFNUV5UlBacVp5QlVOQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9a4dbb140f3f",
       "title": "아플 때 먹어야 하는 이유?…'면역세포 활성 급증' 확인 [건강팩트체크] - 네이트",
       "published": "2026-04-30T07:59:00+00:00",
@@ -98,6 +134,30 @@
         {
           "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CTDBnYWllYk9FR0F4SW11MTBTUndFS1lLLXlJMDRQWUpjNnZJTGFUVXpUSG5Sc19oWkl4N1dYU1NxVlB0eFNkc1A3bmsyUWVqdzg2d0tzTk5pcTF5cnJjRHNnd3ZqWUdXazIxcXk2NGlOUdIBdkFVX3lxTE5HMmxfZXBfNzBxaDJvRUo1cjlIQTc5eDVSX3Vsb1I1b2t4Ql95UV9YNWJidjAzMmhMUTRKeThJMi1lZXY1ZElRSGIwdktGcUNVOC1RSFN4WjItU3Q5clp5T3RXUzVoc0VrT2NzWkFoNFE0ODhnbUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69d2e9584944",
+      "title": "검역본부, 돼지 소모성 질병 대응 협의체 가동…PRRS·PED 방역 해법 모색 - 한국식품의약신문",
+      "published": "2026-04-30T07:20:40+00:00",
+      "summary": "검역본부, 돼지 소모성 질병 대응 협의체 가동…PRRS·PED 방역 해법 모색&nbsp;&nbsp;한국식품의약신문",
+      "sources": [
+        {
+          "name": "한국식품의약신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGZ2NCb3dYYUlIRXJaUkl0YjV0NExKRWRKZ2g4Q2VMeVM3dWdCT1UtTk8wSmJKeVFwWm5CM1V1YmdxRjNpQ3RuV3UyeVRqbkNUM0V6QUNRUW5PU3BZSGRidGlnRkUwSU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d710739de3cb",
+      "title": "서울대병원, ‘2026 아시아 뇌·신경과학 혁신 포럼’ 개최 - 재활뉴스",
+      "published": "2026-04-30T06:52:55+00:00",
+      "summary": "서울대병원, ‘2026 아시아 뇌·신경과학 혁신 포럼’ 개최&nbsp;&nbsp;재활뉴스",
+      "sources": [
+        {
+          "name": "재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vcnZ6amNlVndvU1lILVpoT2dGcFdnWmw2cEpMOFkzLW1IYWJuVnV3N3lSUnVnTllXT3laOHdUSDA5SEd0c09MUTZkTDlqT0pDTHU0YU1tM2NSRU1XQlN6ekJiWGxCNk9qRHl3?oc=5"
         }
       ]
     },
@@ -162,18 +222,6 @@
       ]
     },
     {
-      "id": "8da343377536",
-      "title": "서울대병원, 아시아 뇌 연구 협력 포럼 성료 - 한국의약통신",
-      "published": "2026-04-30T05:18:52+00:00",
-      "summary": "서울대병원, 아시아 뇌 연구 협력 포럼 성료&nbsp;&nbsp;한국의약통신",
-      "sources": [
-        {
-          "name": "한국의약통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRTVRpY0FjSnBVMWt1dWl6aFp3bWs4dktianIxcnd1MVl2TmtoaDVOMmFnT1ZiV1VOZi1BRS1XdDNZc1R6SVNVLW9PSkpxdEk2c0dVWUVDY245LW9jRWQwZUZERWs1QWNaTlpF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "83e7fb2ed484",
       "title": "열대 여행 후 뎅기열 감염 급증... 귀국 후 14일간 모기 차단이 핵심 - 캐어유 뉴스",
       "published": "2026-04-30T05:00:00+00:00",
@@ -222,10 +270,22 @@
       ]
     },
     {
+      "id": "43376cb4cb74",
+      "title": "[건강신호등] “이유 없이 열이 계속 난다”…단순 감기 아닌 ‘면역 질환’ 신호일 수도 - 전국뉴스",
+      "published": "2026-04-30T02:40:00+00:00",
+      "summary": "[건강신호등] “이유 없이 열이 계속 난다”…단순 감기 아닌 ‘면역 질환’ 신호일 수도&nbsp;&nbsp;전국뉴스",
+      "sources": [
+        {
+          "name": "전국뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKNnFNSWpTY0YwTGVEU1l0VVhCLTNReEMxT2tjUVoxZnRlU3lSdlA0R3llVkdPZUFFbUw3ZUMwdnVIVFNxeWhlX0lKci0wSzR0R0dNS1RXME5iNUNNWUowejVPbFktYkEwUXVhbFBMQlA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1d95bca13606",
       "title": "살 뺀 후 요요 오는 이유?...면역세포 속 ‘비만 기억’ 탓이었다 - 하이닥",
       "published": "2026-04-30T02:30:00+00:00",
-      "summary": "살 뺀 후 요요 오는 이유?...면역세포 속 ‘비만 기억’ 탓이었다&nbsp;&nbsp;하이닥‘비만 기억’ 5~10년 간다… 감량해도 당뇨·암 위험 그대로?[바디플랜]&nbsp;&nbsp;v.daum.net살 빠진다고 끝 아니다…면역세포에 남는 '비만 기억'이 문제?&nbsp;&nbsp;네이트체중 줄여도 당뇨·암 위험 여전…면역세포에 '비만 기억' 남아&nbsp;&nbsp;동아사이언스“혈당 안 잡으면 몸이 비만을 기억한다”… 요요가 빨리 오는 이유?&nbsp;&nbsp;코메디닷컴",
+      "summary": "살 뺀 후 요요 오는 이유?...면역세포 속 ‘비만 기억’ 탓이었다&nbsp;&nbsp;하이닥“살 빼도 몸속 ‘비만 기억’ 남는다”…당뇨병·암 위험 상당기간 지속상당 기간&nbsp;&nbsp;조선일보‘비만 기억’ 5~10년 간다… 감량해도 당뇨·암 위험 그대로?[바디플랜]&nbsp;&nbsp;v.daum.net살 빠진다고 끝 아니다…면역세포에 남는 '비만 기억'이 문제?&nbsp;&nbsp;네이트체중 줄여도 당뇨·암 위험 여전…면역세포에 '비만 기억' 남아&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "하이닥",
@@ -242,6 +302,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15RUdzbW1ZSzFtd1FpMjB3dGg5VkxkN1g5UF85TkRRT3B0Ynp0czNBcGw2eHhsUllUdGRsQ05wcU93ckVlNEs3WXBlUEtUSHlxZjdKWVN5ZkVVVG1DQXZXay1qYU56TmhtdFFaaVc0WTRvZmhnLWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7c7acefe8e81",
+      "title": "“폐경, 방치 아닌 관리의 대상”···여성호르몬 치료로 삶의 질 향상 - 의사신문",
+      "published": "2026-04-30T01:39:59+00:00",
+      "summary": "“폐경, 방치 아닌 관리의 대상”···여성호르몬 치료로 삶의 질 향상&nbsp;&nbsp;의사신문\"폐경, 견디지 말고 싸워라\"…여성호르몬 치료, 유방암 위험 크지 않아&nbsp;&nbsp;데일리안",
+      "sources": [
+        {
+          "name": "의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sb3pRNE0tVmVHSjNqcWlzUGZyU2JsOWU2SGRPV3RJUlBobzk4eEt0MzJ3bjB0c2p3ZkZfTUFOcUdEYzdMazhZVUdjbDNUVlFKczBZWlp6eExsbFgtZFlEMGNvaFF4YWdydWRNa2ttNA?oc=5"
         }
       ]
     },
@@ -273,7 +345,7 @@
       "id": "6f2852394242",
       "title": "순식간에 치솟는 ‘혈당 스파이크’ 막는 생활 습관 - 현대건강신문",
       "published": "2026-04-30T00:33:00+00:00",
-      "summary": "순식간에 치솟는 ‘혈당 스파이크’ 막는 생활 습관&nbsp;&nbsp;현대건강신문Google 뉴스에서 전체 콘텐츠 보기",
+      "summary": "순식간에 치솟는 ‘혈당 스파이크’ 막는 생활 습관&nbsp;&nbsp;현대건강신문\"당뇨, 굶지 말고 '이렇게' 먹어야\"⋯마트서 쉽게 구하는 '혈당 관리 음식'은?&nbsp;&nbsp;v.daum.net“혈당 스파이크 막는다”… 약사가 매일 아침 공복에 먹는 ‘3가지 조합’&nbsp;&nbsp;코메디닷컴평소 ‘이 습관’ 들여 놓으면, 살 잘 빠진다… 뭐지?&nbsp;&nbsp;헬스조선\"당뇨인데 초콜릿 먹어도 된다?\"⋯혈당 낮추는 '의외의 간식' 정체는?&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "현대건강신문",
@@ -318,30 +390,6 @@
       ]
     },
     {
-      "id": "8a0f6070620b",
-      "title": "비타민 '이것' 먹었더니 달랐다…유방암 치료 반응 1.8배 차이 - 네이트",
-      "published": "2026-04-29T22:31:00+00:00",
-      "summary": "비타민 '이것' 먹었더니 달랐다…유방암 치료 반응 1.8배 차이&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qaDRRNlNaVy1BMGNkQ0JpbldwRk1Qd2x4THpQOEc4T3FHbU1ReS1SOUNKdGpaMkVobE1sZm1JZUFoYV85YWY0WHZ5d19MY04ybTJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4ec735d3f488",
-      "title": "혈당·혈압·체중 중 하나라도 이상 있으면, 암 지름길 - 헬스조선",
-      "published": "2026-04-29T21:20:00+00:00",
-      "summary": "혈당·혈압·체중 중 하나라도 이상 있으면, 암 지름길&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwX3RvN1luQ19OYjIyVVFoSzA4ZnQzNG1obDAwUm4wdVhvb25INWR4MHc1aW1paFQ0aDN1NVhSZ2dQY21pTzZJZzlGOVNlb2wxazFydWZWekVXM0V6bGpleV81eG5oQWFLU3ZOZFdZSHRNN2tuVVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "da0d734a4a91",
       "title": "아제투칼너, 난치성 뇌전증 치료 호성적···엑스코프리 대항마로 주목 - 메디칼업저버",
       "published": "2026-04-29T20:58:55+00:00",
@@ -350,18 +398,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ReTNoRzdnMW5DWmFrVXM3WVp3YXVaQUw3cy00OUVuTk4zRzlTT2lwRUVuVVlNZk5OSnVIUU82b05LcUZDTERUek04XzNOT0pmcC10YjdDc2ZnLU9sdm40MThSa2luTW9hczJv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ab807c5f53b",
-      "title": "“비혼 여성 암 발병률, 결혼한 여성 보다 83%나 높아” - v.daum.net",
-      "published": "2026-04-29T20:49:33+00:00",
-      "summary": "“비혼 여성 암 발병률, 결혼한 여성 보다 83%나 높아”&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11UjlzZzBBUnVWWllqWnUtY3JHR2d3WjlORHFRN0hxYk84c1NtcGpWS05QWmJzc0taTzFjeVI4S3dZSEYyQUEydXBaSGpfWGs?oc=5"
         }
       ]
     },
@@ -378,14 +414,26 @@
       ]
     },
     {
-      "id": "8e8c23955639",
-      "title": "마이클 잭슨도 앓았던 자가면역질환 - 조선일보",
-      "published": "2026-04-29T15:41:00+00:00",
-      "summary": "마이클 잭슨도 앓았던 자가면역질환&nbsp;&nbsp;조선일보Google 뉴스에서 전체 콘텐츠 보기",
+      "id": "7e72f5470de4",
+      "title": "16화 영화와 함께하는 건강 회복의 여정: 영양 8 - 브런치",
+      "published": "2026-04-29T17:21:54+00:00",
+      "summary": "16화 영화와 함께하는 건강 회복의 여정: 영양 8&nbsp;&nbsp;브런치",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0dzJyZGZTTVpjT3g3bklEZHhXWXRkN2xKVmljU3ZEbmp6NTRUaDhsWmM0M2FwNmVnT0EwbzJqTWRnQVB0U0JjOHFKaVJkZnRjSlF0Wl9Ec0hEZ3B1eXNJajUwaVJ1UnI3WU9tck1wU0VSRGtlcHpmMg?oc=5"
+          "name": "브런치",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80WTR2a29WVE9IbVI1OC14MEtmN1ItYU9kSVZmaDZXWC1nbTdfUW5YbVk0UEthbC1ZN3Rsc1JrOEVFMUJ2SEpndXZxd0pfSUpCcnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c259edc5c42",
+      "title": "마이클 잭슨도 앓았던 자가면역질환 - 네이트",
+      "published": "2026-04-29T15:42:00+00:00",
+      "summary": "마이클 잭슨도 앓았던 자가면역질환&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhQVlITnhDLXhkSGlodVlhZXdZNnZnaUhHLW9IME95YmFwbm1aMXdxNWlBWmRUWjJkVnJJTVF2ZzhKWTlBQ3EyRHdERTdSR1BXTDZB?oc=5"
         }
       ]
     },
@@ -414,6 +462,18 @@
       ]
     },
     {
+      "id": "1ee0935f1a17",
+      "title": "뇌졸중 치료제 나올까… 원숭이 마비된 손 1주일만에 회복 - 조선일보",
+      "published": "2026-04-29T15:37:00+00:00",
+      "summary": "뇌졸중 치료제 나올까… 원숭이 마비된 손 1주일만에 회복&nbsp;&nbsp;조선일보뇌졸중 치료제 나올까… 원숭이 마비된 손 1주일만에 회복 - 조선비즈&nbsp;&nbsp;Chosunbiz\"골든타임 4분의 사투\"..온병원 뇌혈관센터, 24시간 응급시술시스템 가동&nbsp;&nbsp;v.daum.net[그래픽] 뇌졸중 신경손상 어떻게 생기나&nbsp;&nbsp;연합뉴스뇌졸중 콜라겐 장벽이 원인이었다…IBS, 치료법까지 제시&nbsp;&nbsp;아주경제",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN3BscEpwX1hCQjV4T0tfWUJSOVVNdHpjd0Y1dlk2UDV1WG5aZGZuMVoxT3dhbGZLUlBDSzBDSHhia3JJcXdnN0ZjMlRUM2pqNkpmWjdVWG5ab05zZFRnclpGeGJiQTE0enl5MzhvNGpuX2tMSnBlVGcyTi02X2p0R2prRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "60a26d0a9fb3",
       "title": "화성의 생명체 흔적?… 35억년 된 암석에서 유기 분자 새로 발견 - 조선일보",
       "published": "2026-04-29T15:37:00+00:00",
@@ -429,7 +489,7 @@
       "id": "65db94e00593",
       "title": "혈관 염증 높은 관상동맥우회술 환자 치료 전략 변화 기대 - 병원신문",
       "published": "2026-04-29T12:22:27+00:00",
-      "summary": "혈관 염증 높은 관상동맥우회술 환자 치료 전략 변화 기대&nbsp;&nbsp;병원신문\"관상동맥우회술 환자, '이것' 장기병용시 사망위험↓\"&nbsp;&nbsp;뉴시스장우진 중앙대병원 교수, 일본순환기학회 ‘우수논문상’ … 관상동맥우회술 환자, 이중 항혈소판제 장기병용 사망·재발 감소&nbsp;&nbsp;헬스오혈관 염증 높은 관상동맥우회술 환자, 장기 이중항혈소판요법 혜택 기대&nbsp;&nbsp;메디칼업저버혈관 염증 고위험 CABG환자에는 항혈소판제 병용&nbsp;&nbsp;메디칼트리뷴",
+      "summary": "혈관 염증 높은 관상동맥우회술 환자 치료 전략 변화 기대&nbsp;&nbsp;병원신문Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
           "name": "병원신문",
@@ -441,7 +501,7 @@
       "id": "85260feec1a6",
       "title": "젊은 남성, 심혈관질환 예방하려면 금연·혈압 관리하세요 - 헬스경향",
       "published": "2026-04-29T11:17:00+00:00",
-      "summary": "젊은 남성, 심혈관질환 예방하려면 금연·혈압 관리하세요&nbsp;&nbsp;헬스경향[김태열의 생생건강S펜] “한국인 심혈관질환 원인 TOP5 중 ‘혈압’이 가장 큰 요인”&nbsp;&nbsp;v.daum.net“30대부터 혈관 관리 시작하라”…미국심장협회 새 콜레스테롤 가이드라인 핵심은?&nbsp;&nbsp;레이디경향[김길원의 헬스노트] 한국인 심혈관질환 절반은 관리 소홀이 부른 '인재'&nbsp;&nbsp;연합뉴스'건강 히어로' 콜레스테롤 관리 방법 공개&nbsp;&nbsp;gukjenews.com",
+      "summary": "젊은 남성, 심혈관질환 예방하려면 금연·혈압 관리하세요&nbsp;&nbsp;헬스경향40·50대 男 ‘급사’ 주요 원인은 관상동맥질환… ‘이렇게’ 막을 수 있다&nbsp;&nbsp;헬스조선[김태열의 생생건강S펜] “한국인 심혈관질환 원인 TOP5 중 ‘혈압’이 가장 큰 요인”&nbsp;&nbsp;v.daum.net[세종의학칼럼] 부천세종병원 장덕현 과장(심장내과)&nbsp;&nbsp;경기매일2030 콜레스테롤 이상 주의보… 과도한 '단당류' 피해야&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "헬스경향",
@@ -510,26 +570,14 @@
       ]
     },
     {
-      "id": "72d4b87bbff7",
-      "title": "뇌졸중 신경손상 어떻게 생기나 - 한인포스트",
-      "published": "2026-04-29T07:15:21+00:00",
-      "summary": "뇌졸중 신경손상 어떻게 생기나&nbsp;&nbsp;한인포스트뇌졸중 치료제 나올까… 원숭이 마비된 손 1주일만에 회복 - 조선비즈&nbsp;&nbsp;Chosunbiz\"골든타임 4분의 사투\"..온병원 뇌혈관센터, 24시간 응급시술시스템 가동&nbsp;&nbsp;v.daum.net뇌졸중 원리 규명…IBS, 치료 가능성 제시&nbsp;&nbsp;연합뉴스TV[그래픽] 뇌졸중 신경손상 어떻게 생기나&nbsp;&nbsp;연합뉴스",
+      "id": "ff6c13c729ea",
+      "title": "목이 자주 잠긴다? 당신이 놓치고 있는 건강 신호 7가지 - benews.co.kr",
+      "published": "2026-04-29T06:33:25+00:00",
+      "summary": "목이 자주 잠긴다? 당신이 놓치고 있는 건강 신호 7가지&nbsp;&nbsp;benews.co.kr",
       "sources": [
         {
-          "name": "한인포스트",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJakZjSDBrWG1KTHNqQXFGT0xrZDNJS2tNZ1VfVzliOW5lMzltT0FWUzl5MmxQN2N2UDRJcWQxc0EzeWpKVjlXMFM3MUtvQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1483055de712",
-      "title": "목이 자주 잠긴다? 당신이 놓치고 있는 건강 신호 7가지 - 한국AI부동산신문",
-      "published": "2026-04-29T06:33:35+00:00",
-      "summary": "목이 자주 잠긴다? 당신이 놓치고 있는 건강 신호 7가지&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DRGhPLVh1b2UtQURUN0MxNS1NazhTNjV3c0k0dm5kb1Q3aV9udkxMbW1RaEhBNlpFcjRGNkNuOUxaUENlekxkbDZTNEs?oc=5"
+          "name": "benews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3WGpGeVdMUS1MaTlGNEFqd0s0cDJxQjNuUzhZMDRVUTRWcEJoeVpsRnlBaDhuaXk4YjI2QW9lSUQteHUxOVJXWHZ3Qmc?oc=5"
         }
       ]
     },
@@ -549,7 +597,7 @@
       "id": "97a5516df4fc",
       "title": "대장암, 수술 없이 내시경으로 완치 - 헬스포커스뉴스",
       "published": "2026-04-29T05:06:00+00:00",
-      "summary": "대장암, 수술 없이 내시경으로 완치&nbsp;&nbsp;헬스포커스뉴스30대 여성에게 발생한 대장암… “외과적 수술 없이 내시경 치료”&nbsp;&nbsp;헬스조선젊은층에서 11가지 암 증가 이유 알아봤더니…과학자들이 발견한 첫 번째 단서는 '이것'&nbsp;&nbsp;네이트[Issue Pick] 2030세대, ‘대장내시경 검사’는 선택 아닌 필수?&nbsp;&nbsp;mbn.co.kr[헬스톡톡] 3040 건강주의보…젊은 세대 암 발병률 증가, 생활습관이 핵심&nbsp;&nbsp;시사캐스트",
+      "summary": "대장암, 수술 없이 내시경으로 완치&nbsp;&nbsp;헬스포커스뉴스30대 여성에게 발생한 대장암… “외과적 수술 없이 내시경 치료”&nbsp;&nbsp;헬스조선젊은층에서 11가지 암 증가 이유 알아봤더니…과학자들이 발견한 첫 번째 단서는 '이것'&nbsp;&nbsp;네이트[Issue Pick] 2030세대, ‘대장내시경 검사’는 선택 아닌 필수?&nbsp;&nbsp;mbn.co.kr70세 넘어서는... 대장내시경 검진 의미 없어&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "헬스포커스뉴스",
@@ -582,18 +630,6 @@
       ]
     },
     {
-      "id": "ece79cc1c66d",
-      "title": "손종원, 운동 중요성 강조… “건강한 신체가 건강한 정신 만들어” - 헬스조선",
-      "published": "2026-04-29T02:50:00+00:00",
-      "summary": "손종원, 운동 중요성 강조… “건강한 신체가 건강한 정신 만들어”&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MaVJPRDlWR19VeEV2VnZ3Rl9TdDlfdXpZMXpzSkZqQjljaV9KY2NaU1czT2h3NHkzd3hGQWFaVTYybGYzUnRGUmlrR0xubFJmR0pEN0NLQjdrVWtHZ21LQXNqMnk4YWc4YUYyMWhodkY3Y2FxakE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9db57d4c118a",
       "title": "韓 연구진 7명, HFSP 지원받아...생명연 “우리 연구진 도전 장려” - 전자신문",
       "published": "2026-04-29T02:00:00+00:00",
@@ -602,90 +638,6 @@
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZF9LX2kxQXRsS3cyU2cyQmZyUVB3bFhkWXNKRzdXV1RUVWRubHpSMngtZmVDbFBSSjdELU5tUTlzTUQ4U0N3NnFIMGdQRlpXZENOX0pCR2NtWkZKRGNjMHdudEtfWGtYNWw1NlRpQUNDYi1JNkpVTVhLaTJzOXN5MWhSM3NCRTF2N2gzczVwbUJ6Y0E2VGdIeTVyeGN2dGpSY21jSnA1NmFvbF9HSzlaaVRaNnV1QjhmcWNTYVNmMHN1MVp1R21BWXBOUGxDTnFOX1RGLVVJOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7053a99764d0",
-      "title": "[건강체크] “숨 쉴 때 가슴이 아프다”…단순 근육통 아닌 ‘폐 질환’ 신호일 수도 - 전국뉴스",
-      "published": "2026-04-29T01:35:00+00:00",
-      "summary": "[건강체크] “숨 쉴 때 가슴이 아프다”…단순 근육통 아닌 ‘폐 질환’ 신호일 수도&nbsp;&nbsp;전국뉴스",
-      "sources": [
-        {
-          "name": "전국뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96bFg5dzdlOTdCU2JnWllmZkpmc0RHUXRvTXVlVlIzNW1TOGNGRThfUDRMY3lZa25nMDNFT2R3NlZkOWs2UjBFVHVoTklXTmQ1dW1VNnk5c3dZWjIxLWQweVRGQ2RpcTEtZ3J3Qk1qUmg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d9b1f424415",
-      "title": "치매 10명 중 6~7명은 ‘이 병’이 원인...알츠하이머 막는 데 좋은 습관은? - 코메디닷컴",
-      "published": "2026-04-29T00:07:00+00:00",
-      "summary": "치매 10명 중 6~7명은 ‘이 병’이 원인...알츠하이머 막는 데 좋은 습관은?&nbsp;&nbsp;코메디닷컴치매 10명 중 6~7명은 '이 병'이 원인…알츠하이머 막는 데 좋은 습관은?&nbsp;&nbsp;네이트치매 예방에 좋은 ‘운동’…“아버님, ‘이만큼’ 하는게 좋대요”&nbsp;&nbsp;농민신문치매 막으려면 평생 배워라&nbsp;&nbsp;헬스조선英 연구팀, 중년기 적극적인 ‘취미 활동’과 ‘우울증 치료’, 치매 발병 45% 낮춰&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XREVJWmZPV2tVM29FOU14TXRSaHZXcGVwcWQzQ0hpY1lFWGFwOEYyNnRXSGU2MEMwR0FvNERGYnJ3dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "424e6ee70c6a",
-      "title": "피플바이오, 혈액검사 ‘알츠온’ 수술 후 섬망 예측 검사로 임상적 유용성 검증 - 더바이오",
-      "published": "2026-04-28T23:57:37+00:00",
-      "summary": "피플바이오, 혈액검사 ‘알츠온’ 수술 후 섬망 예측 검사로 임상적 유용성 검증&nbsp;&nbsp;더바이오",
-      "sources": [
-        {
-          "name": "더바이오",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdWdDRmEtZmZLNHVNUFVYTXlUYnNLYW9OMTRUbGV0dUJ4eHVkamJKWDhsbXdiMDU5RmdoZlV4Q1MtLTd2N21iUmhHYjNxeUFraHJkZThXbnlTVDdPWFlTdE9xVHZWWnVES0hpZ9IBcEFVX3lxTFA1LXQxZkdReVhiY2N4UEZQSXpwQWgyMmJ0cDgyOEFvU3RYaUQ2MVZFT2JHZjB3MFdTRkpKOWxuWjA4a3A2TGItekNrRnJrZ0NDcFZuc1dVUzloU2NLMFV3SThlT0FRclZ3dzVQVjhyd1k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1daeb18d283",
-      "title": "첫 경련 후 1년내 암 위험 최대 76배↑ - 메디칼트리뷴",
-      "published": "2026-04-28T23:54:10+00:00",
-      "summary": "첫 경련 후 1년내 암 위험 최대 76배↑&nbsp;&nbsp;메디칼트리뷴",
-      "sources": [
-        {
-          "name": "메디칼트리뷴",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKM1pzVWF2WWhpYzRha1ZyUjhuSWx2MzNSdTFocG5RZzJxM1VrMmFaOEFSTnZmYzNKNU9UdDNFUENla05sRHlIWDQ0VWo3bFNYaHd2cWZyeG9hS0JobTQ3MVVISnczWVg2U2wzTDFxT3B5ZHVpdFHSAXpBVV95cUxQQmMzcTlHaFFfOUYwbG9TczRvUXZqOTZHT3BqVXpucnZNTUM2QjJqS01yTEE2bGV1ejh0N0FlRnZJQ3ByOUs0bXFmaGdpV053MDVpVm1rU0dyTmp4NjlkdXBGd1VIUHB3THU3Zl9kVWFsYTlpUUt2MDRiQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "93a469ce76ae",
-      "title": "\"우리 몸 면역 센서 깨우는 바이러스 DNA 서열 발견\" - 사이언스타임즈",
-      "published": "2026-04-28T22:00:51+00:00",
-      "summary": "\"우리 몸 면역 센서 깨우는 바이러스 DNA 서열 발견\"&nbsp;&nbsp;사이언스타임즈[사이다] ② 면역체계가 헤르페스 바이러스 감지하는 경료 규명&nbsp;&nbsp;YTN 사이언스울산과학기술원(UNIST) 韓 연구진, 헤르페스 바이러스 면역 인식 메커니즘 규명&nbsp;&nbsp;메트로신문제주대 김의태 교수팀, 세계적 학술지 ‘네이처 커뮤니케이션즈‘ 논문 게재&nbsp;&nbsp;뉴스N제주입술 염증 치료과정 들여다보니…'폴리티민'이 결정적 역할&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "사이언스타임즈",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUd0cWVBMVhWWE1KMmVtY0FXbWZmSHJkeENLcE1ISmpjYUZEVFljejRuUkRpd2poeVk3VDk4SjhDU1hoWmFyRjMxY0I2ZUg3d3FGd3UtZGh4a1RXcmxwM1QyeWZaYTRjU2k0Zm9UMHN1M05Bb21aSVBZSXZjdkpxX0ozN2FqaEFzRFdRTnRFcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "198e4ee75b3c",
-      "title": "'치과 치료비 부담'...심혈관질환 발병 위험 높여... - 후생신보",
-      "published": "2026-04-28T21:59:00+00:00",
-      "summary": "'치과 치료비 부담'...심혈관질환 발병 위험 높여...&nbsp;&nbsp;후생신보",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ReEMtZDhfb0Z0T1RoeldVVjgwN0VqRE9ISXJwd29hSUt6SWs5MUpYcTNiZnk3Tnc2R3EtNGp2bHhuTkNN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5b88b72f1b1",
-      "title": "[issue&] 잠도 못 자는 기침, 도라지 먹었더니 74% 줄어 - 네이트",
-      "published": "2026-04-28T20:33:00+00:00",
-      "summary": "[issue&] 잠도 못 자는 기침, 도라지 먹었더니 74% 줄어&nbsp;&nbsp;네이트알레르기로 치부한 봄철 잔기침 계속된다면 ‘기관지 천식’ 의심을&nbsp;&nbsp;충청투데이환절기 심해지는 마른기침… 도라지 섭취 12일 만에 73% 줄어&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTmN2NV9HQzM2Unh1aG5peHB2MkgxR1NZQWc0NEl2SFFSWWdJWWs1dzNJMlRVaTQ1MGNlZkVlcEx2aEE3QlFidU95ZUlzcnZkVE9N?oc=5"
         }
       ]
     },
