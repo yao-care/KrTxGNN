@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-02T13:19:31.240851+00:00",
-  "total_fetched": 54,
-  "unique_count": 53,
-  "health_related_count": 22,
+  "fetched_at": "2026-05-02T19:04:50.835083+00:00",
+  "total_fetched": 56,
+  "unique_count": 55,
+  "health_related_count": 24,
   "news": [
+    {
+      "id": "595a5cae839f",
+      "title": "\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은? - 네이트",
+      "published": "2026-05-02T18:31:00+00:00",
+      "summary": "\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은?&nbsp;&nbsp;네이트Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iRW4tSFVuUlA4MWpYc3lvNlh2UVBZQW95VTJkQlVIWFZlOTduU3RWTmdmdWVDM0xKU3RQSk9EMnRIYi1ZNExJNEVzV0xhUHB4N0pz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2448b1988bde",
+      "title": "안경 맞추려던 중 ‘뇌종양’ 발견한 다섯 살 아이… 어떻게? - 헬스조선",
+      "published": "2026-05-02T17:01:32+00:00",
+      "summary": "안경 맞추려던 중 ‘뇌종양’ 발견한 다섯 살 아이… 어떻게?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CdnJ3Um5rSUxTQ0xtbURRaU4zS3RLNjdHTTRLQ0MtQnlMSDR1RG8xUjB2b1VYSlM3STlJZmNiYjRZUkU4dFdhM2ZNVll0VWptOVo4aTdIVnRlT2llQTFQN3VvczF4Q0RXU3JPYTFxRFRjcEY3RkE?oc=5"
+        }
+      ]
+    },
     {
       "id": "daf28148f346",
       "title": "“콜레스테롤·염증 줄이는 효과”… 붉은 색 ‘이 과일’, 뭐지? - 헬스조선",
@@ -14,18 +38,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11M2REUVNLTkhtUEFqSGZRRl82SnJEdXhhcE5fcWxDM0h4S1JsaDNfN3FTeW95M1VUekxvc2plb2xiNTFIdXRudXNLZTJ5a3ZmaVhUSFJaTC12Sk1PU2J4cnRwWW1wT2w0cUNIWm44TkZYZ1VzTEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2448b1988bde",
-      "title": "안경 맞추려던 중 ‘뇌종양’ 발견한 다섯 살 아이… 어떻게? - 헬스조선",
-      "published": "2026-05-02T12:31:32+00:00",
-      "summary": "안경 맞추려던 중 ‘뇌종양’ 발견한 다섯 살 아이… 어떻게?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CdnJ3Um5rSUxTQ0xtbURRaU4zS3RLNjdHTTRLQ0MtQnlMSDR1RG8xUjB2b1VYSlM3STlJZmNiYjRZUkU4dFdhM2ZNVll0VWptOVo4aTdIVnRlT2llQTFQN3VvczF4Q0RXU3JPYTFxRFRjcEY3RkE?oc=5"
         }
       ]
     },
@@ -78,6 +90,18 @@
       ]
     },
     {
+      "id": "9702fc9e5d3d",
+      "title": "불면의 밤, 그리고 ‘쉬운 해결’의 대가 - 캐나다 한국일보",
+      "published": "2026-05-02T04:17:00+00:00",
+      "summary": "불면의 밤, 그리고 ‘쉬운 해결’의 대가&nbsp;&nbsp;캐나다 한국일보늦은 밤 삼겹살에 소주 한 잔…자다 2~3번 깨는 중년, ‘아침 혈당’도 흔들린다&nbsp;&nbsp;세계일보밤잠 못자서 낮잠?… 치매·파킨슨병 위험 2.85배!&nbsp;&nbsp;문화일보'낮에 꾸벅 꾸벅' 춘곤증인 줄 알았는데…충격 결과 나왔다&nbsp;&nbsp;v.daum.net잠 부족하면 치매 위험 최대 5배…'이런 사람'이 더 위험하다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "캐나다 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jVFVDY1BNUk1ZaTgyZU14RVNyZjVXSW56NTAxRDc4V1h6VGh1eVJndmdqdm1CZHZCbVVRSVlZU3hwSV9NNkFvOWlGLUw5LTBmamR6anVLOWhjanpuN0FSVHRBRGhpZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ecf5c8beecff",
       "title": "몸에 좋다던 식이섬유가 지방간 키운다?...호주 연구진, 이눌린 주의 경고 - 메디컬투데이",
       "published": "2026-05-02T04:08:50+00:00",
@@ -90,14 +114,14 @@
       ]
     },
     {
-      "id": "d48edfc8b6f4",
-      "title": "2년 전 징후도 잡아냈다…AI, 췌장암 진단 정확도 '전문의 3배' - 네이트",
-      "published": "2026-05-02T01:31:00+00:00",
-      "summary": "2년 전 징후도 잡아냈다…AI, 췌장암 진단 정확도 '전문의 3배'&nbsp;&nbsp;네이트",
+      "id": "9ee40316c3ae",
+      "title": "2년 전 징후도 잡아냈다…AI, 췌장암 진단 정확도 ‘전문의 3배’ - 동아일보",
+      "published": "2026-05-02T01:30:00+00:00",
+      "summary": "2년 전 징후도 잡아냈다…AI, 췌장암 진단 정확도 ‘전문의 3배’&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJVWFpX19MWjlmSy15VHZzelc1VExYQTlveHQ5azhtbTJEdWhCZVlrZXJrMW5QMFhNSFh1djV0UDJnajlYbHBkZVQzR0szYV90Skcw?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oM3JYaHIyY2xBdjBDNVR4WlA4ZXo5TEVfZ19jNklrSEx4TE9zZFBuUERKMnJuMEF1bXVHQUFLWmQ1aXhrQ0R4TFZhTEU2MnJ1eWh2VG9uc2lWeHBlS1RkWG92QVNMYkFRNEF0N1J5WdIBZkFVX3lxTE5OSHRHQmpZb3lCWHZjaUFRNVA0TGlqOEo4NFBGOXlac0N1VHhCQWVPeWdhbjFBaDRrNTNCTFQxbjdJTGNpNmZObjM1MWZMTGN3dTE1SlJsRTZnekswelZadHZ3cHYwdw?oc=5"
         }
       ]
     },
@@ -150,14 +174,14 @@
       ]
     },
     {
-      "id": "f1e9e388df72",
-      "title": "\"암발병 매년 급증하는데, 수술없이 완치\"…2040 위협하는 대장암, 이제 잡히나 - 네이트",
-      "published": "2026-05-01T13:37:00+00:00",
-      "summary": "\"암발병 매년 급증하는데, 수술없이 완치\"…2040 위협하는 대장암, 이제 잡히나&nbsp;&nbsp;네이트30대 위협하는 대장암…\"수술 없이도 완치 가능해요\"&nbsp;&nbsp;뉴시스“암발병 매년 급증하는데, 수술없이 완치”…2040 위협하는 대장암, 이제 잡히나&nbsp;&nbsp;매일경제젊은층에서 11가지 암 증가 이유 알아봤더니...과학자들이 발견한 첫 번째 단서는 ‘이것’&nbsp;&nbsp;코메디닷컴",
+      "id": "63ecce1e1a5e",
+      "title": "“암발병 매년 급증하는데, 수술없이 완치”…2040 위협하는 대장암, 이제 잡히나 - 매일경제",
+      "published": "2026-05-01T13:36:16+00:00",
+      "summary": "“암발병 매년 급증하는데, 수술없이 완치”…2040 위협하는 대장암, 이제 잡히나&nbsp;&nbsp;매일경제30대 위협하는 대장암…\"수술 없이도 완치 가능해요\"&nbsp;&nbsp;뉴시스젊은층에서 11가지 암 증가 이유 알아봤더니...과학자들이 발견한 첫 번째 단서는 ‘이것’&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wRlFNdm5IeFlkbkhLMG9jWmt2WkQ1Q3U2T1ROMkVUOGJ6R0ZlWUFnd05USFVjYWhhckhuZmNEbEEzYlZWN3g1ZU5ORWdSZ1NtaThJ?oc=5"
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ySzJaUnpjOWY4TlZ5eHhRdFJwN1JPdm5rTDNzVEw2MU1XZUd0VEZkT1MzcklxbU9XVElyYjBZNS12RFpEUVFwZmNWclRTc0w4NUY4bw?oc=5"
         }
       ]
     },
@@ -186,13 +210,13 @@
       ]
     },
     {
-      "id": "771cc416bd2d",
-      "title": "여성 ADHD, 남성보다 평균 5년 늦은 진단… 숨겨진 증상과 사회적 편견이 원인 - 브랜드경제신문",
+      "id": "e3624ecd193c",
+      "title": "여성 ADHD, 남성보다 평균 5년 늦은 진단… 숨겨진 증상과 사회적 편견이 원인 - benews.co.kr",
       "published": "2026-05-01T10:53:56+00:00",
-      "summary": "여성 ADHD, 남성보다 평균 5년 늦은 진단… 숨겨진 증상과 사회적 편견이 원인&nbsp;&nbsp;브랜드경제신문",
+      "summary": "여성 ADHD, 남성보다 평균 5년 늦은 진단… 숨겨진 증상과 사회적 편견이 원인&nbsp;&nbsp;benews.co.kr",
       "sources": [
         {
-          "name": "브랜드경제신문",
+          "name": "benews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE13bWZjcDJWSXNtZG5CMFMtSkRwcUJyckZHbnhCa1ZRd3NHMUpPT2J3RlBuSXl0QnhxRXA2ZXdIRVZZMFVjN09JMGhWNm0?oc=5"
         }
       ]
@@ -246,6 +270,18 @@
       ]
     },
     {
+      "id": "c53762d51d74",
+      "title": "뱃살 막고, 줄이는 효과 있어...복부 지방 없애는 데 좋은 뜻밖의 식품 - 코메디닷컴",
+      "published": "2026-05-01T02:07:00+00:00",
+      "summary": "뱃살 막고, 줄이는 효과 있어...복부 지방 없애는 데 좋은 뜻밖의 식품&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9ZM0lBa2NnUENabmQ0TmpFc0lNSU5JUFRidmNFLWRweG9GTnoxS3NpX0Z2TEVPTzB1VnZEc1N3ZWtlQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3fd245242bf9",
       "title": "부산대 ‘국가연구소’ 공모 1차 관문 통과…내달 결정 - 국제신문",
       "published": "2026-04-30T10:47:00+00:00",
@@ -254,18 +290,6 @@
         {
           "name": "국제신문",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlRT080M0U1R1RoakxDc2hXMy1zbHJ6WjN3UkVLcm1OQ085aG1MRmRUY3JvMVJLX2I3WVF5OF9ONlBNYWd2aEpjeGVpMUUxUTE4SFllWkZJVTdGLWZpQjJXMWY3MjNlanlneENKbU80b3VNaF9hdzNnVzdFUTRIeWxQUHFaLVdoRjZsQ3l3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60a26d0a9fb3",
-      "title": "화성의 생명체 흔적?… 35억년 된 암석에서 유기 분자 새로 발견 - 조선일보",
-      "published": "2026-04-29T15:37:00+00:00",
-      "summary": "화성의 생명체 흔적?… 35억년 된 암석에서 유기 분자 새로 발견&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVljUWtfdllVSndEakdVTWcyekxaU2NwSDZRVGxFSUg2Z3ljLXZVUXduOUVlMS01c3ZhejhTVndUZEJFeDVoMzV1ZGRqWExmMkxINERjcG8zMmxWb3NmSDJlb2JMSlZKalM1bmpucjMwVl9TQzYwRjBNM1VQN1M0bk8zNA?oc=5"
         }
       ]
     }
