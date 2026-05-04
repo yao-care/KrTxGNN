@@ -1,14 +1,146 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-03T19:04:45.052766+00:00",
-  "total_fetched": 51,
-  "unique_count": 50,
-  "health_related_count": 22,
+  "fetched_at": "2026-05-04T03:33:19.706451+00:00",
+  "total_fetched": 68,
+  "unique_count": 66,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "c42d3d413513",
+      "title": "기억력 저하 신호, 50대 후반부터 급증... “알츠하이머 검진 앞당겨야” - 하이닥",
+      "published": "2026-05-04T02:00:00+00:00",
+      "summary": "기억력 저하 신호, 50대 후반부터 급증... “알츠하이머 검진 앞당겨야”&nbsp;&nbsp;하이닥치매 10명 중 6~7명은 ‘이 병’이 원인...알츠하이머 막는 데 좋은 습관은?&nbsp;&nbsp;코메디닷컴치매 예방에 좋은 ‘운동’…“아버님, ‘이만큼’ 하는게 좋대요”&nbsp;&nbsp;농민신문나이가 들면 경험이 쌓이는 것이지, 기억력을 잃는 것이 아닙니다&nbsp;&nbsp;캐어유 뉴스치매 막으려면 평생 배워라&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rdjdtd0dfOGgxcmwzTzVtWV9yNzRhRHVtLW43TWNnM2wtVzMwbFRNbUZzblJTeWVDOHpXTnc2Qktta1pTNGg2TnJGNUNBYlIyZmM2ODJzU2NMeDhyR2ZtcXNWR0dNckttZ1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2c4d284a032",
+      "title": "중입자 암치료의 정점, 왜 일본이 전 세계의 메카인가 - 바이오타임즈",
+      "published": "2026-05-04T01:44:41+00:00",
+      "summary": "중입자 암치료의 정점, 왜 일본이 전 세계의 메카인가&nbsp;&nbsp;바이오타임즈",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OQXF5YzZ3QmFCUFRubTBTMkxrTUI3WWUxeFg0VlljclB6Q2RpaE94cm9Gd2lCS2h5M2F2TFhoa0R5d0pKYV9sNVhQZ0JBT1Q4RjQwdzQ5c0YtbEpEX2k0elZVZHlaTEE4M1NTZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3933f5d64dc1",
+      "title": "원인 불명 유전성 유방암, ‘4가지 유형’ 세계 최초 규명 - 시사저널",
+      "published": "2026-05-04T01:34:34+00:00",
+      "summary": "원인 불명 유전성 유방암, ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;시사저널",
+      "sources": [
+        {
+          "name": "시사저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ReEdTZGFHMC1Ga24tYlZybHdxSGdndko1bjNSTnJtQjJGYUliQnBGLW5MQlhFZWFyUDNnZ0xQU0JId1VnTkNYQ09GWDJpOFFLYWg4UlBFN3Y5NlRTcHdwTmo4NWNZam5lcWNfV1hqMNIBc0FVX3lxTE5aMVNkQ1h4Uy1laVJpZzhETkNOY2hUVl9BMnQ5d2VWdENmb0ctdjdEV0c4di1NNEVFWHlPNmtsb2l3MENaajJUSlZQWmdJbkk2VXRQcXJvVUVSNTM3NzlHSHotV2FYVWs2czZMMVRrQ1EtcW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64c746acb4c8",
+      "title": "“혈관 막히고 우울해져” 심장 보는 의사, ‘이 음식’ 절대 안 먹는다 - 헬스조선",
+      "published": "2026-05-04T01:28:00+00:00",
+      "summary": "“혈관 막히고 우울해져” 심장 보는 의사, ‘이 음식’ 절대 안 먹는다&nbsp;&nbsp;헬스조선“먹고 마시는 음식이 중요해”...‘신체 도로망’ 혈관을 깨끗하고 튼튼하게 유지하는 법&nbsp;&nbsp;코메디닷컴“혈액에 기름 둥둥”… 응급의학과 교수 경고한 ‘이 음식’, 뭐지?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNVG85Zk5jQndOaDMzQnFOQ1BKVlI1OHhBNG1WM1dtR2pCTnFCSnBmOUpnS29DLVlXdXhQT0t5a3ZTMjA0dGQzbGYwa2NBTDE0ZW1CVGVNZXFGaGtYWXJzUzFuYm0yYWhFcUhMY3phdFRtTmVkQkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "addd563855d1",
+      "title": "임상시험 중인 C형 간염 치료제, \"E형 간염에도 효과\" - 후생신보",
+      "published": "2026-05-04T00:54:00+00:00",
+      "summary": "임상시험 중인 C형 간염 치료제, \"E형 간염에도 효과\"&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9MNUk5S29XWmpkalJxQ2xCUzNjV2YycmJhcy1YY1dseUd5U3FZSFVEOWJQWThvMjUtUHkwTy1EbkF6bVJr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d1a207d6d17",
+      "title": "암과 식인 건강 연구한 의사가 꼽은 암 예방 식품 5가지 - 원주투데이",
+      "published": "2026-05-04T00:00:16+00:00",
+      "summary": "암과 식인 건강 연구한 의사가 꼽은 암 예방 식품 5가지&nbsp;&nbsp;원주투데이\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은?&nbsp;&nbsp;뉴시스“암세포 씨 말린다” 15년차 의사가 매일 먹으라는 음식 5가지&nbsp;&nbsp;헬스조선“몸의 방어력 키워 암 위험 낮춘다”…의사가 꼽은 암 예방 식품 5가지&nbsp;&nbsp;코메디닷컴항암 음식 궁합 ⑥ 커피에 계피 한 꼬집… 염증·혈당 동시에 잡는 생활 속 항암 식습관&nbsp;&nbsp;캔서앤서",
+      "sources": [
+        {
+          "name": "원주투데이",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fc0ZVWjRsLTU4b0t4S1RmcTZEdkhFdS1tVjN5VHVaNVBleXo3R1ZqOFh2OGdvLXJmemFPaE91SUpCRnlzcFVhbWtjVHVnMjVjTnhERDJUdW02VTRneWVVVGNXcGpsUllrUjhhVVFRbXg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a97db75daaf",
+      "title": "큐리언트 CDK7 저해제 '모카시클립' 소아뇌종양학회 구두발표 채택 - 한국경제",
+      "published": "2026-05-03T23:56:35+00:00",
+      "summary": "큐리언트 CDK7 저해제 '모카시클립' 소아뇌종양학회 구두발표 채택&nbsp;&nbsp;한국경제큐리언트 항암제 '모카시클립', 소아뇌종양학회서 구두 발표 채택&nbsp;&nbsp;뉴스1큐리언트 ‘모카시클립’, 소아 뇌종양 치료 기전 세계 학회서 발표&nbsp;&nbsp;하이뉴스큐리언트, 'CDK7 저해제' 뇌종양 기전연구 \"구두발표\"&nbsp;&nbsp;바이오스펙테이터큐리언트 '모카시클립' 연구, 소아뇌종양학회 구두 발표 채택&nbsp;&nbsp;라포르시안",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HMi1XejJXOUZJY3pIb2xMamg3eHg3V0lKQldoRHdXUTVyTlVfUnFSZWJnRUtRYnREVUZRbmd2WnRIT3FwZGFXdVVTcVgyU3lCYldSdmdQTlJQUdIBVEFVX3lxTE1zNkpTc1JtamNweFd3MFJDSklFU2lOc0R4WmgzRHhYTnc4NXczYW1OMjBJakxfVEJEai0yYkF6T2FMMmNmejZrdjF3RUxJQWVPVE1FQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02e0bc5ab550",
+      "title": "‘단순 점인 줄 알았는데 암?’… 레이저 전 ‘손·발톱’ 꼭 확인하세요 [건강+] - 세계일보",
+      "published": "2026-05-03T21:00:00+00:00",
+      "summary": "‘단순 점인 줄 알았는데 암?’… 레이저 전 ‘손·발톱’ 꼭 확인하세요 [건강+]&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hYWh6NzBVUVZEcXZuSXdsRE5NLWUyYmRZOXIwR0xuZTVmY21uYXlZUnNuODhyMjFsb0RTdWJKOXM0dndpYzBJN1ZvMG9xdHJhNXI1ZFVEOGHSAVRBVV95cUxNOW9rMDhEbmxXMFJqaVZHaDE4TmpwSFhMMFdxejBpRDZ5ZGl2eU9rMzRyT2ZJSXNmOVYwRXJGSVpmTFN0ekhlTFRlLWJNZkRlNFdBa3o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7dac3e4b13d2",
+      "title": "[전문의약품(ETC)] 조현병·양극성장애 약물요법과 복약상담 전략 - 약사공론",
+      "published": "2026-05-03T20:49:00+00:00",
+      "summary": "[전문의약품(ETC)] 조현병·양극성장애 약물요법과 복약상담 전략&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WTEVLUmlmVTc0cGN3RHoyLUlobTlMUUpkbnFrblBUWGU5MjN2TW5xYjFUdVA3ajNYWGZrRFRnN0FxeENNdUxwcVJjMlNmZ0NhREl4NDJzTm1RZmY4LUVGQl9yMVJmY2R5RGRocA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ff0077dd959",
+      "title": "체중 증가 부작용을 경험한 초발 조현병 환자에서 고용량 Lurasidone 교체 처방 사례 - 메디칼업저버",
+      "published": "2026-05-03T20:39:18+00:00",
+      "summary": "체중 증가 부작용을 경험한 초발 조현병 환자에서 고용량 Lurasidone 교체 처방 사례&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rR2NjeExZcXZOR3FkREN1TGJYSm8wRUlUTkQ5bDI1eHU4US1UbDF0MTZJWFhicnppTEFkcFEteldSaWxScFplTFN2blJydzhKYkZSWUZnZ1hHdTJCejVxUC1TRDRLQTZ5WVI0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f7a6215f96e",
+      "title": "‘레퀴엠’ 속 네 인물이 보여주는 마약류 중독의 결말 - 성대신문",
+      "published": "2026-05-03T10:09:34+00:00",
+      "summary": "‘레퀴엠’ 속 네 인물이 보여주는 마약류 중독의 결말&nbsp;&nbsp;성대신문",
+      "sources": [
+        {
+          "name": "성대신문",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jS0RRbXNmSDdaLW1PR3FGSF9NeFJUUW5HWXcwWGRCb3IyZG5Bd1UyUi1tN29VV3ZSbkR5NktDMW1wUHNvbTNBTmk0NmVnVkR3VU12SjM0ekJKWFA1dEhnSnhRcWjSAWhBVV95cUxNSmI1cFNRY0MwZzQ2aWJEWF9faEl2THItSnkwMGM3eExJcFRKSlB3N0tHbHg4SDZtTXpwOXQwNTJjRnROSmctMHNVVmhnZ2F4QWVQelYyVXpOTzBqZTZDU0tGLUR3dElzNg?oc=5"
+        }
+      ]
+    },
     {
       "id": "3357806c6f36",
       "title": "비아그라가 희귀병 치료제로…네이처가 꼽은 올해 ‘과학의 희망’ 5가지 - 조선일보",
-      "published": "2026-05-03T09:01:54+00:00",
+      "published": "2026-05-03T09:00:00+00:00",
       "summary": "비아그라가 희귀병 치료제로…네이처가 꼽은 올해 ‘과학의 희망’ 5가지&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -30,14 +162,14 @@
       ]
     },
     {
-      "id": "f06e4cee190f",
-      "title": "‘진단이 사형선고’라는 췌장암, AI가 의사보다 3년 빨리 찾아낸다…메이요 클리닉 연구 - AI포스트",
-      "published": "2026-05-03T05:24:38+00:00",
-      "summary": "‘진단이 사형선고’라는 췌장암, AI가 의사보다 3년 빨리 찾아낸다…메이요 클리닉 연구&nbsp;&nbsp;AI포스트",
+      "id": "5462fa25321e",
+      "title": "본선도 못 갔다… 경북대, 1천억원대 국가연구소 사업 예선 탈락 - 매일신문",
+      "published": "2026-05-03T05:46:45+00:00",
+      "summary": "본선도 못 갔다… 경북대, 1천억원대 국가연구소 사업 예선 탈락&nbsp;&nbsp;매일신문",
       "sources": [
         {
-          "name": "AI포스트",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lRmN5X2FKVFBQbDRudFVQd25VOEhOMUY0YWNxS1F3bFdSYjlhR1drMVF2VVoyQ2FsaTA1Xzc4UTkydEdYdnZKRjN1c2l1dW9JZEsyZE1NTlNTNk1ldGJDMWNHajZFVENuR0lHMFB30gFyQVVfeXFMUHdYRXNlVE83RVNfeHlGMjNjN2RwRGlkY3FfemlvdkxkaHNfMGFtdU9ZZGhRd1Bwd0I4bHlHaW5WOEVlSW8wdGFjckg5WHgzWDVEUGNfY0lzZlg1dUxNNThsREFiVDd4T1BVM05YRXNVb3Z3?oc=5"
+          "name": "매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpNDBtUTBCNnBIc0VubTlTaFNLYmNiTW5HSTFveXB2MVpzQy1MTmZrMS1IdE8tbnUyeDZwX2FQWWtScWg2TmpHWVhieGlRckNxbm1FaU5LMm9jQ19neFhtbmtB?oc=5"
         }
       ]
     },
@@ -50,6 +182,18 @@
         {
           "name": "아시아경제",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11UUczOHFUTmxwNC1iLUlvcUpoMTNVaFppQ2swOUFIeDZkd0NocEVyeFE0R0FDZVI2dTM4eDdYSnlIRUdCWGZHWTdZbmVhQjdRdHdqOG9BS2hvMEE4OUphTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d5bc5296b04",
+      "title": "“숨이 깊게 안 쉬어진다” 현대인이 겪는 호흡 이상의 진짜 원인 - 한국AI부동산신문",
+      "published": "2026-05-03T04:00:00+00:00",
+      "summary": "“숨이 깊게 안 쉬어진다” 현대인이 겪는 호흡 이상의 진짜 원인&nbsp;&nbsp;한국AI부동산신문[건강 클리닉] 숨을 잘 쉬면 건강해진다&nbsp;&nbsp;베리타스알파",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84UGpINXZlTUdXM0tQVmdXMmFsS3pjVXFLYnpqRURSV05vZWh2Qy1RcWdRU1l5eTV5RkpxQTlFczNhVnZtSXotMy1xcEM?oc=5"
         }
       ]
     },
@@ -78,14 +222,26 @@
       ]
     },
     {
-      "id": "169d1e049317",
-      "title": "80세에 50대 기억력 가진 이들, ‘이것’이 달랐다 - 헬스조선",
-      "published": "2026-05-02T23:00:00+00:00",
-      "summary": "80세에 50대 기억력 가진 이들, ‘이것’이 달랐다&nbsp;&nbsp;헬스조선99세 노인, 치매 단백질 있어도 멀쩡...비밀은 '인지 회복력'&nbsp;&nbsp;디멘시아뉴스80대에도 50대 기억력…‘슈퍼 에이저’의 뇌 조건 [노화설계]&nbsp;&nbsp;동아일보80대에 40대 뇌 가진 사람들…간단한 습관 세 가지의 기적&nbsp;&nbsp;미주중앙일보기억력이 80대에도 안 떨어지는 사람들&nbsp;&nbsp;브런치",
+      "id": "7de0ca326d81",
+      "title": "\"너는 OO 전문가야\"...AI 페르소나 프롬프팅, 효과 있을까? - 지디넷코리아",
+      "published": "2026-05-03T00:58:38+00:00",
+      "summary": "\"너는 OO 전문가야\"...AI 페르소나 프롬프팅, 효과 있을까?&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14ZzJOOHE4dzlROGZDSC1rYTRGMC1LNHpXZnB0MDVGVWZDNExGZnozSnFjaVJXcmsyeUhjTTIzZGFUMDIzSnpNZ0hYZl9LVmpCZG9USUxHREM2QmpHVFlhLV9Pcy1pVzh0N0dlaEJROWw2OERxQ1E?oc=5"
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpRkpJVWxZZnd5WXNUYXFZLUdIYkVnenVFbEVZQzdkWjdaOEphODdnU2hOU1B4M2dlLWk3dnhwQ1hwdlpEOWpBQll1dm9qMHhGTlBNU0J3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89d2fd7b78bb",
+      "title": "지능 높은 사람, 타인 지능도 정확히 판단한다…연구 - 네이트",
+      "published": "2026-05-02T22:55:00+00:00",
+      "summary": "지능 높은 사람, 타인 지능도 정확히 판단한다…연구&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tWjRRZTl5clR5Y3Q3SEJJdU9od1hZeW1DWTdsbGU0X3FSWjJyX3BVNExkUEtDZ2FhYTlzUjFlVmExeXo4QVRORHg2NklpV0Nrc3lV?oc=5"
         }
       ]
     },
@@ -110,30 +266,6 @@
         {
           "name": "자유일보",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84SXQtaVUtNGdHTUNnM2FOQU9MQ21tZktwck80aGlMY0Z4ZVhicVNhMlhYQ2xtZEZROUZyaXU2UWpMbVJjS2R5M1E4OVdhWXJyUUoxMjlYdFR3TUJDeHF6SE5CeXo2OFFiMDFV0gFvQVVfeXFMTjNwbUJvd0JTZDRqUE9VSUN5V081QkdzZEdyQzJ3anBvbmpDYUo2Nk1TZktYMjk2SVRIb0tkdm45X09UZzNqaGpLT3ZKVnRHQjRUckdRRHlCY21LZVhyVng5a2hLYm0yUVFRZXFoaVJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4861851deae0",
-      "title": "\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은? - 파이낸셜뉴스",
-      "published": "2026-05-02T18:30:43+00:00",
-      "summary": "\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은?&nbsp;&nbsp;파이낸셜뉴스Google 뉴스에서 전체 콘텐츠 보기",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTnlLR1FMX0xsZXRsR0VxR3NHTk9DUlpfaExGTjNNMWkwbTkwY3pYRHh6MEFUZXFMNG9mdk9Xd0x3LW5pVU9Va0VCMEJrNzluS2t4Z0ZoTlktd9IBXkFVX3lxTE1YeTJ5MHE3aklraTNTeTBkTlVhaEwyUzB4b2o3SWVhZm9tQ3B3S0tKOVpWZ3RCcHZZZ0laVkFLRDQ1NEFkdXo0YjJkZ0hkZXREaG9jQk1DNlMwYjdScmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2448b1988bde",
-      "title": "안경 맞추려던 중 ‘뇌종양’ 발견한 다섯 살 아이… 어떻게? - 헬스조선",
-      "published": "2026-05-02T17:01:32+00:00",
-      "summary": "안경 맞추려던 중 ‘뇌종양’ 발견한 다섯 살 아이… 어떻게?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CdnJ3Um5rSUxTQ0xtbURRaU4zS3RLNjdHTTRLQ0MtQnlMSDR1RG8xUjB2b1VYSlM3STlJZmNiYjRZUkU4dFdhM2ZNVll0VWptOVo4aTdIVnRlT2llQTFQN3VvczF4Q0RXU3JPYTFxRFRjcEY3RkE?oc=5"
         }
       ]
     },
@@ -186,6 +318,18 @@
       ]
     },
     {
+      "id": "2448b1988bde",
+      "title": "안경 맞추려던 중 ‘뇌종양’ 발견한 다섯 살 아이… 어떻게? - 헬스조선",
+      "published": "2026-05-02T07:00:00+00:00",
+      "summary": "안경 맞추려던 중 ‘뇌종양’ 발견한 다섯 살 아이… 어떻게?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CdnJ3Um5rSUxTQ0xtbURRaU4zS3RLNjdHTTRLQ0MtQnlMSDR1RG8xUjB2b1VYSlM3STlJZmNiYjRZUkU4dFdhM2ZNVll0VWptOVo4aTdIVnRlT2llQTFQN3VvczF4Q0RXU3JPYTFxRFRjcEY3RkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "068092ba8e6e",
       "title": "\"생으로 먹어야 영양 많은 줄 알았는데\"... 냉동할수록 흡수율 올라간다는 '이 과일' - 아던트뉴스",
       "published": "2026-05-02T06:00:00+00:00",
@@ -218,54 +362,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JZC1aeTdleWZsc0VVRnE5UjktcTVpTFF4TXJ2cVY0b3hTUEJNNzlTYy1ySE1QYVR5VUdYVkZNWEF4Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ecf5c8beecff",
-      "title": "몸에 좋다던 식이섬유가 지방간 키운다?...호주 연구진, 이눌린 주의 경고 - 메디컬투데이",
-      "published": "2026-05-02T04:08:50+00:00",
-      "summary": "몸에 좋다던 식이섬유가 지방간 키운다?...호주 연구진, 이눌린 주의 경고&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KNEpUaVBpZ2hVVmxkUGh1OFhRb1RPZno0cEhrNWpBUGxZbWVJN1NZdEYyRUR2bFlPLU94MkI1UEZiSnhXYWFhUzhJc1Y0bHFlcmt4R2QzenpwNlFz0gFsQVVfeXFMTlVjNURiaElpVEFQOVFyLUFEcFltQU50czdDVk5vZW5sa2hwNElkRnB3LUNNeFVXWVZHUHIyc2pUUDU3c3M1SElRM1UwaGJRa3RLVG1FclVoU0o1SUNGcjVhWloxS1hXaTNUaGRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a7db24c63b50",
-      "title": "\"폐경, 방치 아닌 관리 대상\"…여성호르몬 치료로 삶의 질 향상에 도움 - 네이트",
-      "published": "2026-05-02T01:04:00+00:00",
-      "summary": "\"폐경, 방치 아닌 관리 대상\"…여성호르몬 치료로 삶의 질 향상에 도움&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83UGE5MTd0M3lHUTBGdEdBMXBFbEpKdHFwcjBROFAzUkJKMWZLSm5lenUwX0U0X3pqSHRrWWFQQmpEOV9pX1pWTFFOZnlESXZJOHRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d908e62c78d8",
-      "title": "KB손보, ‘5대기관 주요치료비’ 완성…간병 365일·폐렴사망까지 보장 강화 - 보험저널",
-      "published": "2026-05-02T00:09:34+00:00",
-      "summary": "KB손보, ‘5대기관 주요치료비’ 완성…간병 365일·폐렴사망까지 보장 강화&nbsp;&nbsp;보험저널",
-      "sources": [
-        {
-          "name": "보험저널",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52b3JoTkJ1WEx1N3FNWGZxR0ZIZWFXRm82TGtnWnVvVzNMOUc2dmFaVWFnZDRxMDVYTkZ2VUdLanRPcEVtRXFIZ2RjZUVFY3dSM1d1ZktnUmZQN2FHeXdVN0VoZGstTEVZNW8xZlBObw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd15d8df1d08",
-      "title": "‘안전한 살충제’여도… 섞이면 위험 - 헬스조선",
-      "published": "2026-05-01T23:00:00+00:00",
-      "summary": "‘안전한 살충제’여도… 섞이면 위험&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lVW9iRGJQRkdsbXc5STh1T2dQeVo2c0xsSjhDTEZrRGtLZHZodlRPSks1ZFl2cXdsWGUyQ19JQUgxcmRKY1RNalZVWEo2WVFpaGVUN0NkY1J6QkdXY0V0N1ppRUg0aWs2ekRackt1ZVY5eGRKQ1E?oc=5"
         }
       ]
     }
