@@ -1,15 +1,27 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-05T08:15:39.237486+00:00",
-  "total_fetched": 78,
-  "unique_count": 77,
-  "health_related_count": 39,
+  "fetched_at": "2026-05-05T19:25:51.852242+00:00",
+  "total_fetched": 74,
+  "unique_count": 73,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "de796813198a",
+      "title": "치료저항성 조현병 약 ‘클로자핀’, 뇌 미세구조 바꾼다 - 스포츠경향",
+      "published": "2026-05-05T13:43:00+00:00",
+      "summary": "치료저항성 조현병 약 ‘클로자핀’, 뇌 미세구조 바꾼다&nbsp;&nbsp;스포츠경향조현병 치료 어려운 ‘저항성’ 환자··· 뇌 미세구조 차이가 마지막 치료제 반응 갈랐다&nbsp;&nbsp;v.daum.net분당서울대병원 연구진, 치료저항성 조현병 치료제 뇌작용 기전 규명&nbsp;&nbsp;전국매일신문조현병 치료제 '클로자핀', 뇌 미세구조 변화 포착&nbsp;&nbsp;헬스미디어뉴스조현병 치료제 ‘클로자핀’, 뇌 미세구조 변화시킨다&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DOUU2a2dZRU55cXlpQ19hbXN2R01IZXVUZk5mam5vQmlYRERQem9tdkYtV09MbGdhUVI5OERLSll4LVhudUk4MmlMZjVRc044Ti0wM0ZxVS1zZkgtVXfSAWNBVV95cUxPYXdWOXhDTTZDZ3BtaXdwZ0VjM0hubWJzTGhWelU0RF9iOHZkcDNSeFE4UVY4NG43ME4zNVcyYkQ5RDVwWkx2QkNHbWM1NGFTbkhzMDdmNjFubHFOR2diZno2UTg?oc=5"
+        }
+      ]
+    },
     {
       "id": "7af45cfa21e8",
       "title": "나이들면 꼭 필요한 단백질, 속 안 좋아 고기 못 먹는 엄마 위해 기자가 고른 것 - 조선일보",
       "published": "2026-05-05T07:37:00+00:00",
-      "summary": "나이들면 꼭 필요한 단백질, 속 안 좋아 고기 못 먹는 엄마 위해 기자가 고른 것&nbsp;&nbsp;조선일보계란 부럽지 않은, 단백질 함량이 높은 ‘의외의 식품’은?&nbsp;&nbsp;레이디경향60세 넘어서도 근육 붙는 사람들…식단에 ‘이것’ 있었다&nbsp;&nbsp;조선일보‘이 탄수화물 식품’ 많이 먹은 女, 건강하게 늙었다… 뭐지?&nbsp;&nbsp;헬스조선‘단백질’ 많을 줄 알았는데… 의외로 적은 식품 네 가지&nbsp;&nbsp;헬스조선",
+      "summary": "나이들면 꼭 필요한 단백질, 속 안 좋아 고기 못 먹는 엄마 위해 기자가 고른 것&nbsp;&nbsp;조선일보고함량보다 ‘균형 있는 단백질’로 노년기 근육 꽉 잡으세요&nbsp;&nbsp;조선일보계란 부럽지 않은, 단백질 함량이 높은 ‘의외의 식품’은?&nbsp;&nbsp;레이디경향\"근육은 지키고 체지방만 감량\"… 건강 다이어트 솔루션 제시&nbsp;&nbsp;보건신문비만주사 맞으며 근육 지키려면…\"단백질 권장량보다 더 섭취해야\"&nbsp;&nbsp;한국경제",
       "sources": [
         {
           "name": "조선일보",
@@ -18,14 +30,14 @@
       ]
     },
     {
-      "id": "fa4072a598ed",
-      "title": "'두경부암, 흡연 넘어 HPV 감염이 새로운 주범으로 부상' - 네이트",
-      "published": "2026-05-05T05:07:00+00:00",
-      "summary": "'두경부암, 흡연 넘어 HPV 감염이 새로운 주범으로 부상'&nbsp;&nbsp;네이트",
+      "id": "2df15c3c8f5e",
+      "title": "'두경부암, 흡연 넘어 HPV 감염이 새로운 주범으로 부상' - 이데일리",
+      "published": "2026-05-05T05:06:02+00:00",
+      "summary": "'두경부암, 흡연 넘어 HPV 감염이 새로운 주범으로 부상'&nbsp;&nbsp;이데일리",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82MElYWTZRdXhmTms4UU82b19YZnpXTG0wdjhtajlWa0k2U0wtdWFoUEZYNWd2TG9LN01McnZyTDVjZ2pieVY5cG1XdnpOTzJwMTRDTEVuVDBDSGwyTXRxaQ?oc=5"
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0JGZm1ZVVBuS3hUUnhnOVhqR1VSWkNRWVpuN3BlX0lreGZOeTdTT1JHT0JrcFNfYzlnRlo5RE1nNVprSFZ5OWdqTGVOckdKcjJldzRuRjAzd1B1TmhBTjdscV9tajctWVhJbjNYUG1nWVRMUzJmUXAxTy1wN0x4aQ?oc=5"
         }
       ]
     },
@@ -38,6 +50,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52OVJOOXBQUFkyODIxM3dSZW50Ry04SWczMEhiX0R5WXozd092anZTMDY1Nl9lYUJRNV9uSHRaOUtmODhKSWFBT2pUVHJEYVVDX19CX2NYVUZ0UDVyNlN4dEJxcHgwdkdQNDlIWjhka081MTE4cEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "368ec5715e79",
+      "title": "日 연구팀, 태양과 57억㎞ 떨어진 천체서 대기 확인 - 매일경제",
+      "published": "2026-05-05T02:41:18+00:00",
+      "summary": "日 연구팀, 태양과 57억㎞ 떨어진 천체서 대기 확인&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iS0JBWF9jcGtod2d5ZkI0QTRTd3JvS0pkN3pCUHZzUGhYbV9QWFREVGVINTlhSG9YWFJRY2g3NlNKQzlxNzNnRHN1NEI2aDFIa3c?oc=5"
         }
       ]
     },
@@ -177,7 +201,7 @@
       "id": "753f4c9d858f",
       "title": "제주대학교 김의태 교수팀, ‘네이처 커뮤니케이션즈’ 논문 게재…헤르페스바이러스 면역 반응 원리 규명 - 한국강사신문",
       "published": "2026-05-04T09:34:58+00:00",
-      "summary": "제주대학교 김의태 교수팀, ‘네이처 커뮤니케이션즈’ 논문 게재…헤르페스바이러스 면역 반응 원리 규명&nbsp;&nbsp;한국강사신문입술 염증 치료과정 들여다보니…'폴리티민'이 결정적 역할&nbsp;&nbsp;v.daum.net\"우리 몸 면역 센서 깨우는 바이러스 DNA 서열 발견\"&nbsp;&nbsp;사이언스타임즈[사이다] ② 면역체계가 헤르페스 바이러스 감지하는 경료 규명&nbsp;&nbsp;YTN 사이언스\"면역이 읽는 바이러스 ‘바코드’ 찾았다\"... 헤르페스 DNA, 염증·세포사멸 스위치 규명&nbsp;&nbsp;특허뉴스",
+      "summary": "제주대학교 김의태 교수팀, ‘네이처 커뮤니케이션즈’ 논문 게재…헤르페스바이러스 면역 반응 원리 규명&nbsp;&nbsp;한국강사신문\"우리 몸 면역 센서 깨우는 바이러스 DNA 서열 발견\"&nbsp;&nbsp;사이언스타임즈\"면역이 읽는 바이러스 ‘바코드’ 찾았다\"... 헤르페스 DNA, 염증·세포사멸 스위치 규명&nbsp;&nbsp;특허뉴스헤르페스 바이러스 대응 인체 면역 활성화 규명&nbsp;&nbsp;전자신문UNIST, 헤르페스 바이러스 DNA 바코드 발견…\"신약 개발 기대\"&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "한국강사신문",
@@ -206,18 +230,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Tm1ocDluem9wdWt0Z0syVmlxbDdzTU5pd3VfdlVMamtCQm5WYTdpRFJyRmRXdjQ1T01mZUM5VE85aDRJeFVibFdLbVdwN2lyaEE4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "42f719025765",
-      "title": "대장 내시경, 피부 병변 제거, 갑상선 약... 고령자에겐 득보다 실? - 조선일보",
-      "published": "2026-05-04T07:24:08+00:00",
-      "summary": "대장 내시경, 피부 병변 제거, 갑상선 약... 고령자에겐 득보다 실?&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcGVieGFQTTl6WW9Sa2RmOWFCdGRUa1YxbkpYWUtCOGhiVlpyZ29PalFWVGs1NGNQcUlfVGEzS1Fqam1LWVN5N1NvbWRMTktJLTVqUHNIOUx1MHNMaVdoOWl2V0Y5TEJrYXpFQURCNzNnVTdWenFWZmpyX2FiX1lXdlZNUQ?oc=5"
         }
       ]
     },
@@ -285,7 +297,7 @@
       "id": "c42d3d413513",
       "title": "기억력 저하 신호, 50대 후반부터 급증... “알츠하이머 검진 앞당겨야” - 하이닥",
       "published": "2026-05-04T02:00:00+00:00",
-      "summary": "기억력 저하 신호, 50대 후반부터 급증... “알츠하이머 검진 앞당겨야”&nbsp;&nbsp;하이닥치매 10명 중 6~7명은 ‘이 병’이 원인...알츠하이머 막는 데 좋은 습관은?&nbsp;&nbsp;코메디닷컴치매 예방에 좋은 ‘운동’…“아버님, ‘이만큼’ 하는게 좋대요”&nbsp;&nbsp;농민신문나이가 들면 경험이 쌓이는 것이지, 기억력을 잃는 것이 아닙니다&nbsp;&nbsp;캐어유 뉴스치매 막으려면 평생 배워라&nbsp;&nbsp;헬스조선",
+      "summary": "기억력 저하 신호, 50대 후반부터 급증... “알츠하이머 검진 앞당겨야”&nbsp;&nbsp;하이닥치매 10명 중 6~7명은 ‘이 병’이 원인...알츠하이머 막는 데 좋은 습관은?&nbsp;&nbsp;코메디닷컴나이가 들면 경험이 쌓이는 것이지, 기억력을 잃는 것이 아닙니다&nbsp;&nbsp;캐어유 뉴스\"7시간 수면, 30분 걷기 실천하세요!\"&nbsp;&nbsp;radiok1230.com\"뇌 건강이 몸보다 더 걱정\"…미국인 99% 불안 속 ‘예방법’은 모른다&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "하이닥",
@@ -318,18 +330,6 @@
       ]
     },
     {
-      "id": "64c746acb4c8",
-      "title": "“혈관 막히고 우울해져” 심장 보는 의사, ‘이 음식’ 절대 안 먹는다 - 헬스조선",
-      "published": "2026-05-04T01:28:00+00:00",
-      "summary": "“혈관 막히고 우울해져” 심장 보는 의사, ‘이 음식’ 절대 안 먹는다&nbsp;&nbsp;헬스조선“혈관 막히고 우울증까지 생기다고?”…생선·닭고기, ‘이렇게’ 먹으면 독 된다 [헬시타임]&nbsp;&nbsp;서울경제“먹고 마시는 음식이 중요해”...‘신체 도로망’ 혈관을 깨끗하고 튼튼하게 유지하는 법&nbsp;&nbsp;코메디닷컴“혈액에 기름 둥둥”… 응급의학과 교수 경고한 ‘이 음식’, 뭐지?&nbsp;&nbsp;헬스조선\"혈관 막히고 우울증까지 생기다고?\"…생선·닭고기, '이렇게' 먹으면 독 된다 [헬시타임]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNVG85Zk5jQndOaDMzQnFOQ1BKVlI1OHhBNG1WM1dtR2pCTnFCSnBmOUpnS29DLVlXdXhQT0t5a3ZTMjA0dGQzbGYwa2NBTDE0ZW1CVGVNZXFGaGtYWXJzUzFuYm0yYWhFcUhMY3phdFRtTmVkQkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "69ac319b2d73",
       "title": "임상시험 중인 C형 간염 치료제, \"E형 간염에도 효과\" - 후생신보",
       "published": "2026-05-04T00:54:00+00:00",
@@ -354,22 +354,10 @@
       ]
     },
     {
-      "id": "9e8f8623124a",
-      "title": "[건강 클리닉] 숨을 잘 쉬면 건강해진다 - 베리타스알파",
-      "published": "2026-05-04T00:00:00+00:00",
-      "summary": "[건강 클리닉] 숨을 잘 쉬면 건강해진다&nbsp;&nbsp;베리타스알파",
-      "sources": [
-        {
-          "name": "베리타스알파",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZEFIMzJZdE9manptaThiUXFWWFExdUR5WGlKOWNzQUw0b3FhakJlOHBMLXN4c1hBbFVqR2RIay1ZZVFWdTBMYWJ3dlg4OEliMXpJQU1uODIyNTd2OHlDN01MZlZSdm0zVVp5Ug?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d13509d24356",
       "title": "큐리언트, ISPNO 2026서 ‘모카시클립’ 전임상 결과 구두 발표 채택 - 더바이오",
       "published": "2026-05-03T23:16:24+00:00",
-      "summary": "큐리언트, ISPNO 2026서 ‘모카시클립’ 전임상 결과 구두 발표 채택&nbsp;&nbsp;더바이오큐리언트 항암제 '모카시클립', 소아뇌종양학회서 구두 발표 채택&nbsp;&nbsp;뉴스1큐리언트 CDK7 저해제 '모카시클립' 소아뇌종양학회 구두발표 채택&nbsp;&nbsp;한국경제큐리언트, ISPNO 2026서 '모카시클' 연구 발표&nbsp;&nbsp;청년의사큐리언트 ‘모카시클립’, 소아 뇌종양 치료 기전 세계 학회서 발표&nbsp;&nbsp;하이뉴스",
+      "summary": "큐리언트, ISPNO 2026서 ‘모카시클립’ 전임상 결과 구두 발표 채택&nbsp;&nbsp;더바이오큐리언트 항암제 '모카시클립', 소아뇌종양학회서 구두 발표 채택&nbsp;&nbsp;뉴스1큐리언트 CDK7 저해제 '모카시클립' 소아뇌종양학회 구두발표 채택&nbsp;&nbsp;한국경제큐리언트, ISPNO 2026서 '모카시클' 연구 발표&nbsp;&nbsp;청년의사큐리언트, 'CDK7 저해제' 뇌종양 기전연구 \"구두발표\"&nbsp;&nbsp;바이오스펙테이터",
       "sources": [
         {
           "name": "더바이오",
@@ -410,18 +398,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rR2NjeExZcXZOR3FkREN1TGJYSm8wRUlUTkQ5bDI1eHU4US1UbDF0MTZJWFhicnppTEFkcFEteldSaWxScFplTFN2blJydzhKYkZSWUZnZ1hHdTJCejVxUC1TRDRLQTZ5WVI0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f7a6215f96e",
-      "title": "‘레퀴엠’ 속 네 인물이 보여주는 마약류 중독의 결말 - 성대신문",
-      "published": "2026-05-03T10:09:34+00:00",
-      "summary": "‘레퀴엠’ 속 네 인물이 보여주는 마약류 중독의 결말&nbsp;&nbsp;성대신문",
-      "sources": [
-        {
-          "name": "성대신문",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jS0RRbXNmSDdaLW1PR3FGSF9NeFJUUW5HWXcwWGRCb3IyZG5Bd1UyUi1tN29VV3ZSbkR5NktDMW1wUHNvbTNBTmk0NmVnVkR3VU12SjM0ekJKWFA1dEhnSnhRcWjSAWhBVV95cUxNSmI1cFNRY0MwZzQ2aWJEWF9faEl2THItSnkwMGM3eExJcFRKSlB3N0tHbHg4SDZtTXpwOXQwNTJjRnROSmctMHNVVmhnZ2F4QWVQelYyVXpOTzBqZTZDU0tGLUR3dElzNg?oc=5"
         }
       ]
     },
