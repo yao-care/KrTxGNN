@@ -1,10 +1,94 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-05T19:25:51.852242+00:00",
-  "total_fetched": 74,
-  "unique_count": 73,
-  "health_related_count": 37,
+  "fetched_at": "2026-05-06T03:30:37.015977+00:00",
+  "total_fetched": 67,
+  "unique_count": 66,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "ddf2ad6e92ec",
+      "title": "스마트폰 음성 분석으로 우울증 예측…옥스포드대 AI 도구, 정확도 85% 달성 - 유스연합",
+      "published": "2026-05-06T03:15:36+00:00",
+      "summary": "스마트폰 음성 분석으로 우울증 예측…옥스포드대 AI 도구, 정확도 85% 달성&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEZW1Ua0hmaF9MdVk2LUhGZjR6S3ZwdlZkT3RZWnpNV0wybWlLQWU4YlR5aVM0YVFMUXV4VGFucmRSRnY4Q1loS2lQQVhvRldvZEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3644cf08c1ae",
+      "title": "손끝 핏방울로 알츠하이머 찾는다… 집에서 하는 치매 조기검사 현실화되나 - 캔서앤서",
+      "published": "2026-05-06T02:57:50+00:00",
+      "summary": "손끝 핏방울로 알츠하이머 찾는다… 집에서 하는 치매 조기검사 현실화되나&nbsp;&nbsp;캔서앤서혈액으로 만든 '미니 뇌'로 알츠하이머 조기 진단&nbsp;&nbsp;YTN 사이언스",
+      "sources": [
+        {
+          "name": "캔서앤서",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FdWFISGctWldXWXUxZ2RVbWo2aTJ0OHVjeEZfVHR6QnplZ09hOTN1WGR5Tm9UWE5jMUk0ajc5QjJHcUlaR3VCVF90TEhFVHZ5WjNDbTFDNV80OXhHXzFMVnFIM3VVWWJGMUVwcTFVQnU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6db4338f338",
+      "title": "하루 한알 달걀, 알츠하이머병 발병률 27% ↓ - 후생신보",
+      "published": "2026-05-06T00:55:00+00:00",
+      "summary": "하루 한알 달걀, 알츠하이머병 발병률 27% ↓&nbsp;&nbsp;후생신보“일주일 두 번이면 충분?”… 치매 위험 뚝 떨어뜨린 '이 음식' 정체는?&nbsp;&nbsp;전자신문계란 하루 한 개, 알츠하이머 위험 27% 낮춘다&nbsp;&nbsp;자유일보한 달에 두 번만 먹어도 '효과'…중년 남성들 먹은 '이것' 치매 위험 갈랐다&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFByNGlMemtmeGZRLUJkeDI5QVBnOGRpLXp3VWk0X0phV09pTUZHUjE4VXVVVlJndEl2ekQ5M2JITUkzNE9a?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a1023aa7927",
+      "title": "‘근육을 만드는 연금술’ 근감소증 치료제, 단일 타깃을 넘어 복합 기전의 시대로 - 한국경제",
+      "published": "2026-05-06T00:49:19+00:00",
+      "summary": "‘근육을 만드는 연금술’ 근감소증 치료제, 단일 타깃을 넘어 복합 기전의 시대로&nbsp;&nbsp;한국경제‘골근감소증’ 꾸준한 치료와 단백질 섭취·근력운동 병행을&nbsp;&nbsp;국제신문늙으면 근육 줄어드는 이유 찾았다…‘이 유전자’ 때문&nbsp;&nbsp;동아일보\"다리 힘 빠진다\" 무심코 넘겼다간…'치명적 결과' 부른다 [건강!톡]&nbsp;&nbsp;v.daum.net초고령화·비만약이 낳은 블루오션… ‘근감소증’ 신약 노리는 K-바이오&nbsp;&nbsp;약업신문",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ieDVVZ25nRHVJMml6Ni1xelRmaFJudGs5eWt2WnlNZlFQNFM2c1hwOW9oQk45NWhCSjM1bVJoVE5SYlBqWW52Mm5xY216M3ZjckFhQXBYeGwwZ9IBVEFVX3lxTFBHTjMyLUUtTHVXNU1iWlpfLWhldGJxZmN6clpEcTdPa2NKcHBESlZ1Wk9Ob2JNSkJYdWFLV2dRWFJUUkNGenA1QnlaT0s2UERmbXFERw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fffd2f2c0165",
+      "title": "MCI 단계에서 은행엽제제의 AD 예방치료 가능성 봤다 - 메디칼업저버",
+      "published": "2026-05-05T23:40:52+00:00",
+      "summary": "MCI 단계에서 은행엽제제의 AD 예방치료 가능성 봤다&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nZk5xQk5LRnhDR2hGWm9rMUZWVTNlQk1tR0JLSU5VcWoyNUp0dWNtX282MEFSdTY0RU5VMmYzMy1INnpwRlhTdTRCU3N0ZktUNXdmVlE5cEd2d2l3Y0I2ZHRUX3Nqd3pxVGNJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "027650e2b44b",
+      "title": "ADHD 치료제, 정신병 위험 증가 없다···아동기선 오히려 감소 가능성 - 메디칼업저버",
+      "published": "2026-05-05T21:03:46+00:00",
+      "summary": "ADHD 치료제, 정신병 위험 증가 없다···아동기선 오히려 감소 가능성&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KbDRhR24zRnhtUWdCbktIRHpMbE14UTM0VW9oeFFPYmtsSEVhWVJ4SV9PQk54Z3pwRk9yU0htT0pnc2lCRk9TejlRZGliSnhoRkN1V3JXdzBGR0J2M1ZoQWRGazhadWNVUXQ4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba377cdd7647",
+      "title": "“암세포 폭증한다”… 약사가 꼽은 ‘최악의 음식’, 뭐지? - 헬스조선",
+      "published": "2026-05-05T19:30:00+00:00",
+      "summary": "“암세포 폭증한다”… 약사가 꼽은 ‘최악의 음식’, 뭐지?&nbsp;&nbsp;헬스조선\"한국인이 즐겨 먹는데\"…의사들이 꼽은 '암 부르는 한식'은?&nbsp;&nbsp;파이낸셜뉴스항암 음식 궁합 ⑥ 커피에 계피 한 꼬집… 염증·혈당 동시에 잡는 생활 속 항암 식습관&nbsp;&nbsp;캔서앤서암과 식이 건강 연구한 의사가 꼽은 암 예방 식품 5가지&nbsp;&nbsp;원주투데이“암세포 성장을 막아라”…15년차 한국 유방암 전문의가 매일 먹으라는 항암 음식 5가지&nbsp;&nbsp;굿모닝베트남미디어",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TMnVJWFM1RWc0TnkzcVQ0d0hCZnhJRVJtZXRpbXV1c3Q3VFFVVFFtTUMtTmRGYmhzNmZhb2NOQTRfZWlWMkNvNUNnOGo3NkU4eVlSLThWRTJrbDFoamR6R3czaGVHTXdQa2ZWVng3NGxFd1Mza1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "de796813198a",
       "title": "치료저항성 조현병 약 ‘클로자핀’, 뇌 미세구조 바꾼다 - 스포츠경향",
@@ -18,26 +102,14 @@
       ]
     },
     {
-      "id": "7af45cfa21e8",
-      "title": "나이들면 꼭 필요한 단백질, 속 안 좋아 고기 못 먹는 엄마 위해 기자가 고른 것 - 조선일보",
-      "published": "2026-05-05T07:37:00+00:00",
-      "summary": "나이들면 꼭 필요한 단백질, 속 안 좋아 고기 못 먹는 엄마 위해 기자가 고른 것&nbsp;&nbsp;조선일보고함량보다 ‘균형 있는 단백질’로 노년기 근육 꽉 잡으세요&nbsp;&nbsp;조선일보계란 부럽지 않은, 단백질 함량이 높은 ‘의외의 식품’은?&nbsp;&nbsp;레이디경향\"근육은 지키고 체지방만 감량\"… 건강 다이어트 솔루션 제시&nbsp;&nbsp;보건신문비만주사 맞으며 근육 지키려면…\"단백질 권장량보다 더 섭취해야\"&nbsp;&nbsp;한국경제",
+      "id": "3c9cf90449a7",
+      "title": "젊은층서 두경부암 급증…원인 보니 뜻밖의 '이것' - 뉴시스",
+      "published": "2026-05-05T11:01:00+00:00",
+      "summary": "젊은층서 두경부암 급증…원인 보니 뜻밖의 '이것'&nbsp;&nbsp;뉴시스Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkZfdkVuTmprTmlCTmRJd2dNR1RjVElNNXN1YVk5MFFrdFJjYUJmaHVmdDdBNUhKVWxNclZNSGlOdkxxZkZhQ2pYLWNlSjNxV00yU2NFaG90alNGbE9scU5YTERueUlENHJQVXZNb1FnanVGMU9rRUNCMmtscEdyQ291WTNCR19Zek1J?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2df15c3c8f5e",
-      "title": "'두경부암, 흡연 넘어 HPV 감염이 새로운 주범으로 부상' - 이데일리",
-      "published": "2026-05-05T05:06:02+00:00",
-      "summary": "'두경부암, 흡연 넘어 HPV 감염이 새로운 주범으로 부상'&nbsp;&nbsp;이데일리",
-      "sources": [
-        {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0JGZm1ZVVBuS3hUUnhnOVhqR1VSWkNRWVpuN3BlX0lreGZOeTdTT1JHT0JrcFNfYzlnRlo5RE1nNVprSFZ5OWdqTGVOckdKcjJldzRuRjAzd1B1TmhBTjdscV9tajctWVhJbjNYUG1nWVRMUzJmUXAxTy1wN0x4aQ?oc=5"
+          "name": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQNTFhb3NvTnV3OWNsVTJMVlZiSVJjYW4wOXZzSXd0RnJHTDVRS3dwWTVMSjNabUlYRHNYYTFhOEQ2S1JnWkdoMm0wWnk4WHJBVktWdTZNdm5pa0xaUTVjRjB3?oc=5"
         }
       ]
     },
@@ -50,6 +122,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52OVJOOXBQUFkyODIxM3dSZW50Ry04SWczMEhiX0R5WXozd092anZTMDY1Nl9lYUJRNV9uSHRaOUtmODhKSWFBT2pUVHJEYVVDX19CX2NYVUZ0UDVyNlN4dEJxcHgwdkdQNDlIWjhka081MTE4cEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "326dfcd714ed",
+      "title": "고령 당뇨 환자, 약 선택이 ‘건강 수명’ 좌우한다 [밀당365] - 헬스조선",
+      "published": "2026-05-05T04:13:19+00:00",
+      "summary": "고령 당뇨 환자, 약 선택이 ‘건강 수명’ 좌우한다 [밀당365]&nbsp;&nbsp;헬스조선Google 뉴스에서 전체 콘텐츠 보기",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pYmk4YkV4UGM4WkVVNUxMMTFNVWREcjQyeTlIUy1uNFlYV0pBOFpiX1Nsc1pYNEZlTmgxZ2p4ampIWFdUbXBYYnNPUE5HcW9XMGRmUmNJUnpxSFVOUVBydDBYVWJqSVJIMnZ5LWdjcmRaMmk4dVE?oc=5"
         }
       ]
     },
@@ -81,7 +165,7 @@
       "id": "4f6130fee91a",
       "title": "한국인 심혈관 질환 절반, 예방 가능 - 병원신문",
       "published": "2026-05-05T02:01:48+00:00",
-      "summary": "한국인 심혈관 질환 절반, 예방 가능&nbsp;&nbsp;병원신문한국인 심혈관질환의 절반 ‘5가지 위험인자’가 가른다&nbsp;&nbsp;v.daum.net20‧30대 고지혈증 ‘빨간불’…“약 부작용 우려 말고 지속 관리해야”&nbsp;&nbsp;쿠키메디40·50대 男 ‘급사’ 주요 원인은 관상동맥질환… ‘이렇게’ 막을 수 있다&nbsp;&nbsp;헬스조선[김길원의 헬스노트] 한국인 심혈관질환 절반은 관리 소홀이 부른 '인재'&nbsp;&nbsp;연합뉴스",
+      "summary": "한국인 심혈관 질환 절반, 예방 가능&nbsp;&nbsp;병원신문한국인 심혈관질환의 절반 ‘5가지 위험인자’가 가른다&nbsp;&nbsp;v.daum.net20‧30대 고지혈증 ‘빨간불’…“약 부작용 우려 말고 지속 관리해야”&nbsp;&nbsp;쿠키메디[세종의학칼럼] 부천세종병원 장덕현 과장(심장내과)&nbsp;&nbsp;경기매일40·50대 男 ‘급사’ 주요 원인은 관상동맥질환… ‘이렇게’ 막을 수 있다&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "병원신문",
@@ -114,14 +198,38 @@
       ]
     },
     {
+      "id": "997dcd9d6ee8",
+      "title": "살쪄서 배 나온 줄 알았는데… ‘이 병’ 진단받은 30대 女 - 헬스조선",
+      "published": "2026-05-04T22:33:00+00:00",
+      "summary": "살쪄서 배 나온 줄 알았는데… ‘이 병’ 진단받은 30대 女&nbsp;&nbsp;헬스조선[의학상식] 조용히 진행되는 난소암, 복부 불편감 반복된다면 의심해야&nbsp;&nbsp;복지투데이“늘 배고프고 임신한 듯 배 불러와 ”…22살에 난소암, 아침 ‘이 증상’이 단서?&nbsp;&nbsp;코메디닷컴\"임신인 줄 알았는데 암이었다\"…소화불량·복부팽만의 신호&nbsp;&nbsp;sportschosun.com“치질인 줄로만”… ‘이 증상’ 방치했다가 대장암 4기 진단&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zWl9WSXVvNDFqbHZuRVNTUG5uSXB1RmlDU19JOFlCWGRMNF81X3pHbmdkY0pfNk5keWdzWVZsNFZOalp6d0FVRnVqZ3lLVkRtZm9zSjhiTjJ4Y0pPNTdtZEtKbk9EWEVuQUxlU0JWVVE0alpGR0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b42ed30fad89",
       "title": "산후 2주, 주요 우울증 유병률 최고 - 헬스조선",
       "published": "2026-05-04T20:31:00+00:00",
-      "summary": "산후 2주, 주요 우울증 유병률 최고&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 산후 2주 시점 주요 우울증 유병률 최고치 기록…체계적 정신건강 관리 필요&nbsp;&nbsp;네이트산후 2주, 주요 우울증 유병률 최고…임신·출산 전후 관리 필요&nbsp;&nbsp;네이트",
+      "summary": "산후 2주, 주요 우울증 유병률 최고&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 산후 2주 시점 주요 우울증 유병률 최고치 기록…체계적 정신건강 관리 필요&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qbFZtNlNERlc5eTZ0TXBwbWhmMFlseF9SaG45WFc0SWFlRE9BcE84cTlRQVJYeUJFUkRpNlY3MGo5Rl8xTTdyVFIxYXJXYUtHcnNXSHUtYjNSbnkybE11cVVXSDI2Y3dlZ05JajZLVmZuTzdsZ3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce7fdd1cad22",
+      "title": "잠자다 이불 킥하던 '변비男'…20년 뒤 '파킨슨병' 징후였다 - 네이트",
+      "published": "2026-05-04T19:01:00+00:00",
+      "summary": "잠자다 이불 킥하던 '변비男'…20년 뒤 '파킨슨병' 징후였다&nbsp;&nbsp;네이트잠자다 이불 킥하던 ‘변비男’…20년 뒤 ‘파킨슨병’ 징후였다&nbsp;&nbsp;v.daum.net파킨슨병 치료, 약물만큼 운동도 중요하다…적정 강도 유지가 핵심&nbsp;&nbsp;네이트파킨슨병 시니어에게 피클볼이 최적의 운동으로 떠오르는 이유&nbsp;&nbsp;캐어유 뉴스[9988 프로젝트] 파킨슨병, 손 떨림·느린 걸음 방치 말아야&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSVkZyTEs0YVNQR0pnZzdocjdxTlVVZ09RX1NFcGM5dGljTTUyTkRIaUp5bnhJT3pBX29QNU44ZG9JREdlbWV4Y3pPbGNxTmZnMDk0?oc=5"
         }
       ]
     },
@@ -138,18 +246,6 @@
       ]
     },
     {
-      "id": "83a4ef4e16f2",
-      "title": "빛 비추니 비밀 메시지가… 신개념 홀로그램 개발 - 조선일보",
-      "published": "2026-05-04T15:42:00+00:00",
-      "summary": "빛 비추니 비밀 메시지가… 신개념 홀로그램 개발&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWWEtNEtIcC1YWTI2cFRDYmNXX3pJUUJsdC1FcGtKODBjRjg5aVlqTDVpa0ppU1pKVFM5YU8xV0Y3eXQtWWN2ck9lWDNDdU1IZW44LS1RM0x3VVFDc2RMV2NYbUtXWm1UemxTSEQ3NXZadkVLczhHSU1OX0M2aHBBU3J5QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "75e80d37637b",
       "title": "40년 전 상상이 현실이 되다...세균 세포 속으로 걸어 들어가는 꿈 - 강찬수의 에코파일",
       "published": "2026-05-04T14:39:07+00:00",
@@ -158,6 +254,18 @@
         {
           "name": "강찬수의 에코파일",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xQ2dFbVlDSU0wNDZVWllUM0ZRU0RGbnpuZkw5cDZuMXRvOGFLRmgtcUdpWGdDWVlSZmVCd2YySWY0b2FTRGlyTUdwM0NZX1lCckxQZnZHbEhNU00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eaa84714efd3",
+      "title": "혈액으로 대장암 찾아내는 지표 발견... “암 진단 정확도 90%” - 하이닥",
+      "published": "2026-05-04T11:00:00+00:00",
+      "summary": "혈액으로 대장암 찾아내는 지표 발견... “암 진단 정확도 90%”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVa1MyODhnSjEtZGtIY2pWQkpHUEczM0owSnFabi1DcjBmUEJoTGJ0TG11ZzNfU3ZNRzQ0UnZyUzZrSEV2S1ZRbmhscWR3QW9zT015S3RwN3Q2amxQZ3pfWDhhSHVPem5pWWc?oc=5"
         }
       ]
     },
@@ -186,22 +294,10 @@
       ]
     },
     {
-      "id": "a8467f647f08",
-      "title": "‘골근감소증’ 꾸준한 치료와 단백질 섭취·근력운동 병행을 - 국제신문",
-      "published": "2026-05-04T09:51:00+00:00",
-      "summary": "‘골근감소증’ 꾸준한 치료와 단백질 섭취·근력운동 병행을&nbsp;&nbsp;국제신문",
-      "sources": [
-        {
-          "name": "국제신문",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODNRcXdXNm5kQVdxNl9oYnR2cTBXclZiSHNDTHBBanVjSndIQkpWVFEzQVVWWkxoUWs0bW81SGctajFkV3dkakF0SDFlRmtYcEhHTUVPcE5MQlR2aHMtRlF3cTNzS3hxX1c3RktmT3ZvYjR1TXliQ1piUW5iLVBFdnJPMUU2NEVCTW44TkNB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "753f4c9d858f",
       "title": "제주대학교 김의태 교수팀, ‘네이처 커뮤니케이션즈’ 논문 게재…헤르페스바이러스 면역 반응 원리 규명 - 한국강사신문",
       "published": "2026-05-04T09:34:58+00:00",
-      "summary": "제주대학교 김의태 교수팀, ‘네이처 커뮤니케이션즈’ 논문 게재…헤르페스바이러스 면역 반응 원리 규명&nbsp;&nbsp;한국강사신문\"우리 몸 면역 센서 깨우는 바이러스 DNA 서열 발견\"&nbsp;&nbsp;사이언스타임즈\"면역이 읽는 바이러스 ‘바코드’ 찾았다\"... 헤르페스 DNA, 염증·세포사멸 스위치 규명&nbsp;&nbsp;특허뉴스헤르페스 바이러스 대응 인체 면역 활성화 규명&nbsp;&nbsp;전자신문UNIST, 헤르페스 바이러스 DNA 바코드 발견…\"신약 개발 기대\"&nbsp;&nbsp;뉴시스",
+      "summary": "제주대학교 김의태 교수팀, ‘네이처 커뮤니케이션즈’ 논문 게재…헤르페스바이러스 면역 반응 원리 규명&nbsp;&nbsp;한국강사신문입술 염증 치료과정 들여다보니…'폴리티민'이 결정적 역할&nbsp;&nbsp;지디넷코리아\"우리 몸 면역 센서 깨우는 바이러스 DNA 서열 발견\"&nbsp;&nbsp;사이언스타임즈UNIST, 헤르페스 바이러스 DNA 바코드 발견…\"신약 개발 기대\"&nbsp;&nbsp;뉴시스[사이다] ② 면역체계가 헤르페스 바이러스 감지하는 경료 규명&nbsp;&nbsp;YTN 사이언스",
       "sources": [
         {
           "name": "한국강사신문",
@@ -225,23 +321,11 @@
       "id": "999a253a2cab",
       "title": "\"약보다 햇빛\"…아이들 건강 살릴 해법은 - 네이트",
       "published": "2026-05-04T07:27:00+00:00",
-      "summary": "\"약보다 햇빛\"…아이들 건강 살릴 해법은&nbsp;&nbsp;네이트이주영 의원, '햇빛권 패키지 3법' 토론회 성료…\"아이들 햇빛권 보장\"&nbsp;&nbsp;네이트슬로베니아, 학교 체육 2시간 추가 의무화…\"한국도 고민할 때\"&nbsp;&nbsp;데일리팜한국 아이들, 신체활동 부족 심각…“야외활동 보장 위한 국가 대책 시급”&nbsp;&nbsp;헬스경향이주영 의원 '아동·청소년 햇빛권' 제안 \"피지 못한 꽃들에 햇빛을\"&nbsp;&nbsp;의협신문",
+      "summary": "\"약보다 햇빛\"…아이들 건강 살릴 해법은&nbsp;&nbsp;네이트이주영 의원, '햇빛권 패키지 3법' 토론회 성료...\"아이들 햇빛권 보장\"&nbsp;&nbsp;뉴스핌슬로베니아, 학교 체육 2시간 추가 의무화…\"한국도 고민할 때\"&nbsp;&nbsp;데일리팜한국 아이들, 신체활동 부족 심각…“야외활동 보장 위한 국가 대책 시급”&nbsp;&nbsp;헬스경향[포토] 개회사하는 이주영 개혁신당 의원&nbsp;&nbsp;시사포커스",
       "sources": [
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14Tm1ocDluem9wdWt0Z0syVmlxbDdzTU5pd3VfdlVMamtCQm5WYTdpRFJyRmRXdjQ1T01mZUM5VE85aDRJeFVibFdLbVdwN2lyaEE4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac103217ac14",
-      "title": "“암세포 성장을 막아라”…15년차 한국 유방암 전문의가 매일 먹으라는 항암 음식 5가지 - 굿모닝베트남미디어",
-      "published": "2026-05-04T07:22:39+00:00",
-      "summary": "“암세포 성장을 막아라”…15년차 한국 유방암 전문의가 매일 먹으라는 항암 음식 5가지&nbsp;&nbsp;굿모닝베트남미디어“대장암 부른다”… 약사가 경고한 ‘편의점 음식’, 뭐야?&nbsp;&nbsp;헬스조선항암 음식 궁합 ⑥ 커피에 계피 한 꼬집… 염증·혈당 동시에 잡는 생활 속 항암 식습관&nbsp;&nbsp;캔서앤서암과 식이 건강 연구한 의사가 꼽은 암 예방 식품 5가지&nbsp;&nbsp;원주투데이“한국인들 자주 먹는데 어쩌나”…암 전문의가 콕 집은 ‘최악의 한식’ [헬시타임]&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "굿모닝베트남미디어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tdk1sN3BBNFlIYWFkRHprbzJXLWJuWVNHMTJNMTF1aWtZS2I0SkxBTTZsUGZjOTRLWi1iMjUxcUNoM1R4OW9ZVlpDS01DVkZKTE9HajVjUmpaeWpNTEJra2NldWFvcV96TnA1M2R6ZzA?oc=5"
         }
       ]
     },
@@ -270,14 +354,14 @@
       ]
     },
     {
-      "id": "c06317ad1dc0",
-      "title": "[의학상식] 조용히 진행되는 난소암, 복부 불편감 반복된다면 의심해야 - 복지투데이",
-      "published": "2026-05-04T06:51:15+00:00",
-      "summary": "[의학상식] 조용히 진행되는 난소암, 복부 불편감 반복된다면 의심해야&nbsp;&nbsp;복지투데이살쪄서 배 나온 줄 알았는데… ‘이 병’ 진단받은 30대 女&nbsp;&nbsp;헬스조선“늘 배고프고 임신한 듯 배 불러와 ”…22살에 난소암, 아침 ‘이 증상’이 단서?&nbsp;&nbsp;코메디닷컴\"산후 치질로 오진\"…20대 엄마 '대장암' 진단 충격&nbsp;&nbsp;sportschosun.com“치질인 줄로만”… ‘이 증상’ 방치했다가 대장암 4기 진단&nbsp;&nbsp;헬스조선",
+      "id": "6c804579d178",
+      "title": "흡연·음주 감소에도 젊은 층 ‘암’ 급증…원인은 ‘비만’? - 농민신문",
+      "published": "2026-05-04T07:00:00+00:00",
+      "summary": "흡연·음주 감소에도 젊은 층 ‘암’ 급증…원인은 ‘비만’?&nbsp;&nbsp;농민신문Google 뉴스에서 전체 콘텐츠 보기",
       "sources": [
         {
-          "name": "복지투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jSjQtem9qY05zUVQyZllqOHlkeHptN1NVQmNYZEdBNUJFTFBoeDBQd3l1R05hbFJHdXk4MjVXTjQ1eVZ0cjlERTBNUkE0MEp4WVEtZjVpSEtZUllCaFc1c25rOTN3Z19fV3ZPUg?oc=5"
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QV2ZnR3I3aU9GbVI4UkNMR3NTekpzMDNtTC0xOTZYRnpabUtGVnFvakd2dURORndBMGtiR2hfTzc5Ui1WSERxVjJKOVR6THdpQmlqMy0ySm5XZw?oc=5"
         }
       ]
     },
@@ -294,110 +378,14 @@
       ]
     },
     {
-      "id": "c42d3d413513",
-      "title": "기억력 저하 신호, 50대 후반부터 급증... “알츠하이머 검진 앞당겨야” - 하이닥",
-      "published": "2026-05-04T02:00:00+00:00",
-      "summary": "기억력 저하 신호, 50대 후반부터 급증... “알츠하이머 검진 앞당겨야”&nbsp;&nbsp;하이닥치매 10명 중 6~7명은 ‘이 병’이 원인...알츠하이머 막는 데 좋은 습관은?&nbsp;&nbsp;코메디닷컴나이가 들면 경험이 쌓이는 것이지, 기억력을 잃는 것이 아닙니다&nbsp;&nbsp;캐어유 뉴스\"7시간 수면, 30분 걷기 실천하세요!\"&nbsp;&nbsp;radiok1230.com\"뇌 건강이 몸보다 더 걱정\"…미국인 99% 불안 속 ‘예방법’은 모른다&nbsp;&nbsp;약사공론",
+      "id": "d6fce074b2f1",
+      "title": "빛 '자전+공전' 동시 제어하는 홀로그래피 기술 세계 첫 개발 - 지디넷코리아",
+      "published": "2026-05-04T01:04:35+00:00",
+      "summary": "빛 '자전+공전' 동시 제어하는 홀로그래피 기술 세계 첫 개발&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rdjdtd0dfOGgxcmwzTzVtWV9yNzRhRHVtLW43TWNnM2wtVzMwbFRNbUZzblJTeWVDOHpXTnc2Qktta1pTNGg2TnJGNUNBYlIyZmM2ODJzU2NMeDhyR2ZtcXNWR0dNckttZ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2c4d284a032",
-      "title": "중입자 암치료의 정점, 왜 일본이 전 세계의 메카인가 - 바이오타임즈",
-      "published": "2026-05-04T01:44:41+00:00",
-      "summary": "중입자 암치료의 정점, 왜 일본이 전 세계의 메카인가&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OQXF5YzZ3QmFCUFRubTBTMkxrTUI3WWUxeFg0VlljclB6Q2RpaE94cm9Gd2lCS2h5M2F2TFhoa0R5d0pKYV9sNVhQZ0JBT1Q4RjQwdzQ5c0YtbEpEX2k0elZVZHlaTEE4M1NTZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3933f5d64dc1",
-      "title": "원인 불명 유전성 유방암, ‘4가지 유형’ 세계 최초 규명 - 시사저널",
-      "published": "2026-05-04T01:34:34+00:00",
-      "summary": "원인 불명 유전성 유방암, ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;시사저널",
-      "sources": [
-        {
-          "name": "시사저널",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ReEdTZGFHMC1Ga24tYlZybHdxSGdndko1bjNSTnJtQjJGYUliQnBGLW5MQlhFZWFyUDNnZ0xQU0JId1VnTkNYQ09GWDJpOFFLYWg4UlBFN3Y5NlRTcHdwTmo4NWNZam5lcWNfV1hqMNIBc0FVX3lxTE5aMVNkQ1h4Uy1laVJpZzhETkNOY2hUVl9BMnQ5d2VWdENmb0ctdjdEV0c4di1NNEVFWHlPNmtsb2l3MENaajJUSlZQWmdJbkk2VXRQcXJvVUVSNTM3NzlHSHotV2FYVWs2czZMMVRrQ1EtcW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "69ac319b2d73",
-      "title": "임상시험 중인 C형 간염 치료제, \"E형 간염에도 효과\" - 후생신보",
-      "published": "2026-05-04T00:54:00+00:00",
-      "summary": "임상시험 중인 C형 간염 치료제, \"E형 간염에도 효과\"&nbsp;&nbsp;후생신보",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qb3ROcGNrVWFzYmhPQ1pOaTJUaHdBQmR1TTZ5dk1Yc0JMLWVsY3U3alpxMFZFY0VadkRld01DU0tpWGQzN2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6e112500169",
-      "title": "고령 당뇨 환자, 약 선택이 ‘건강 수명’ 좌우한다 [밀당365] - 조선일보",
-      "published": "2026-05-04T00:01:00+00:00",
-      "summary": "고령 당뇨 환자, 약 선택이 ‘건강 수명’ 좌우한다 [밀당365]&nbsp;&nbsp;조선일보혈당 관리로 78세에 되찾은 일상…“내 자신에 믿음 생겨” [당 편한 세상]&nbsp;&nbsp;쿠키뉴스",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeUc5Tld0S2EteHZyQVpNVGNuMVhzUFhMR0FpWDdLNUtsSDROZDQxaksxMTdldUpnYkdMTC0xQ0pzTXV3QkhDdTRsOGNlaWtnOTJTZFRfbnhnMkthT05jX2lfMlVLZnUzSXVabm9hMlc0eXZqNjFKS2tPc1B4UkVkWmMtYTJjRzlkUFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d13509d24356",
-      "title": "큐리언트, ISPNO 2026서 ‘모카시클립’ 전임상 결과 구두 발표 채택 - 더바이오",
-      "published": "2026-05-03T23:16:24+00:00",
-      "summary": "큐리언트, ISPNO 2026서 ‘모카시클립’ 전임상 결과 구두 발표 채택&nbsp;&nbsp;더바이오큐리언트 항암제 '모카시클립', 소아뇌종양학회서 구두 발표 채택&nbsp;&nbsp;뉴스1큐리언트 CDK7 저해제 '모카시클립' 소아뇌종양학회 구두발표 채택&nbsp;&nbsp;한국경제큐리언트, ISPNO 2026서 '모카시클' 연구 발표&nbsp;&nbsp;청년의사큐리언트, 'CDK7 저해제' 뇌종양 기전연구 \"구두발표\"&nbsp;&nbsp;바이오스펙테이터",
-      "sources": [
-        {
-          "name": "더바이오",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05TWtxQm5HZXBGVUpOMjlRRkNmN09kU2NveHhaZzYtN0Q1aXhzMXBWanR2VGJfS2ZOQVgwNXFGR2k4REVsaENnbGJzRDZZZjBpMkw5N04zYWtIUE05M29zaEYwdGFLX1hzS3k0VNIBcEFVX3lxTE0zbDFWZ0lKZjlWQWhFSXE3Wm5IbWVvcS1JcXRYeFFfZVBGeWJ0VXJ5OWFNMHFIc0N2ZVJkM2s4c0hSQTdQMlNoSFVjNWVZMnRvREFRZkpOUlBGeTBSN1NyMjBZNVd6cWd5bUYxWDlQS1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02e0bc5ab550",
-      "title": "‘단순 점인 줄 알았는데 암?’… 레이저 전 ‘손·발톱’ 꼭 확인하세요 [건강+] - 세계일보",
-      "published": "2026-05-03T21:00:00+00:00",
-      "summary": "‘단순 점인 줄 알았는데 암?’… 레이저 전 ‘손·발톱’ 꼭 확인하세요 [건강+]&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hYWh6NzBVUVZEcXZuSXdsRE5NLWUyYmRZOXIwR0xuZTVmY21uYXlZUnNuODhyMjFsb0RTdWJKOXM0dndpYzBJN1ZvMG9xdHJhNXI1ZFVEOGHSAVRBVV95cUxNOW9rMDhEbmxXMFJqaVZHaDE4TmpwSFhMMFdxejBpRDZ5ZGl2eU9rMzRyT2ZJSXNmOVYwRXJGSVpmTFN0ekhlTFRlLWJNZkRlNFdBa3o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7dac3e4b13d2",
-      "title": "[전문의약품(ETC)] 조현병·양극성장애 약물요법과 복약상담 전략 - 약사공론",
-      "published": "2026-05-03T20:49:00+00:00",
-      "summary": "[전문의약품(ETC)] 조현병·양극성장애 약물요법과 복약상담 전략&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WTEVLUmlmVTc0cGN3RHoyLUlobTlMUUpkbnFrblBUWGU5MjN2TW5xYjFUdVA3ajNYWGZrRFRnN0FxeENNdUxwcVJjMlNmZ0NhREl4NDJzTm1RZmY4LUVGQl9yMVJmY2R5RGRocA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ff0077dd959",
-      "title": "체중 증가 부작용을 경험한 초발 조현병 환자에서 고용량 Lurasidone 교체 처방 사례 - 메디칼업저버",
-      "published": "2026-05-03T20:39:18+00:00",
-      "summary": "체중 증가 부작용을 경험한 초발 조현병 환자에서 고용량 Lurasidone 교체 처방 사례&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rR2NjeExZcXZOR3FkREN1TGJYSm8wRUlUTkQ5bDI1eHU4US1UbDF0MTZJWFhicnppTEFkcFEteldSaWxScFplTFN2blJydzhKYkZSWUZnZ1hHdTJCejVxUC1TRDRLQTZ5WVI0?oc=5"
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DSGc4ZHcxbThqeU1HUTNEQUpnZkFEWVg3M3hPY0NFdm41bDdEeDFka1VjNEd5UUhuV2xkcGtCY244RlRtSHdSek9TZEpLaDY2OUJyTXJB?oc=5"
         }
       ]
     },
@@ -422,30 +410,6 @@
         {
           "name": "매일신문",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpNDBtUTBCNnBIc0VubTlTaFNLYmNiTW5HSTFveXB2MVpzQy1MTmZrMS1IdE8tbnUyeDZwX2FQWWtScWg2TmpHWVhieGlRckNxbm1FaU5LMm9jQ19neFhtbmtB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7de0ca326d81",
-      "title": "\"너는 OO 전문가야\"...AI 페르소나 프롬프팅, 효과 있을까? - 지디넷코리아",
-      "published": "2026-05-03T00:58:38+00:00",
-      "summary": "\"너는 OO 전문가야\"...AI 페르소나 프롬프팅, 효과 있을까?&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpRkpJVWxZZnd5WXNUYXFZLUdIYkVnenVFbEVZQzdkWjdaOEphODdnU2hOU1B4M2dlLWk3dnhwQ1hwdlpEOWpBQll1dm9qMHhGTlBNU0J3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89d2fd7b78bb",
-      "title": "지능 높은 사람, 타인 지능도 정확히 판단한다…연구 - 네이트",
-      "published": "2026-05-02T22:55:00+00:00",
-      "summary": "지능 높은 사람, 타인 지능도 정확히 판단한다…연구&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tWjRRZTl5clR5Y3Q3SEJJdU9od1hZeW1DWTdsbGU0X3FSWjJyX3BVNExkUEtDZ2FhYTlzUjFlVmExeXo4QVRORHg2NklpV0Nrc3lV?oc=5"
         }
       ]
     }
