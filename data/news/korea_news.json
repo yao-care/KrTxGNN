@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-08T13:57:28.192516+00:00",
-  "total_fetched": 83,
-  "unique_count": 82,
-  "health_related_count": 44,
+  "fetched_at": "2026-05-08T19:23:30.013393+00:00",
+  "total_fetched": 82,
+  "unique_count": 81,
+  "health_related_count": 43,
   "news": [
+    {
+      "id": "dce076a335f8",
+      "title": "간헐적 단식, 고령층 건강에 도움될까? - 한국AI부동산신문",
+      "published": "2026-05-08T18:35:01+00:00",
+      "summary": "간헐적 단식, 고령층 건강에 도움될까?&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qdTdDQ1NnQm1vazZ6dmZINGk1RmxWdFdxSENkN0NhMkhOQUNNN3d0WlhuQXRGVVBBQVJjd1RSTFJPM0c1enlBZjhCT0I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6bc199ea2044",
+      "title": "“뇌졸중 온다”… 신경과 의사가 절대 안 하는 행동, 뭐야? - 헬스조선",
+      "published": "2026-05-08T15:01:00+00:00",
+      "summary": "“뇌졸중 온다”… 신경과 의사가 절대 안 하는 행동, 뭐야?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EUVV0RGRjY05MUWRoV28tMUpVR0lZZ182NkJnUXBTTGxGblJueW5NcmVVM0ZfMUd4V0MybVF1c2lhM0Jwc1QxblhaSHRDcnhueDNNU2tzSlpSNlJySG81MVgyV0hkM2pPbVBQc29Na1V5OGdEdlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae67261d7c8d",
+      "title": "혈당에 좋은 줄 알았는데… “염증 폭탄” 약사가 경고한 ‘이 음식’ - 코메디닷컴",
+      "published": "2026-05-08T14:38:00+00:00",
+      "summary": "혈당에 좋은 줄 알았는데… “염증 폭탄” 약사가 경고한 ‘이 음식’&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB3d0l0TnNwM3kyMlpySWVyZDJPcUo0TDFCQjBxOTNqRXl3OW5GeUk2VktKZkFUcXpwRlhhLW5qelpwUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "5f4da910d679",
       "title": "복부비만 여성, 폐경 증상 더 심하다… “건망증·신경질에 취약” - 하이닥",
@@ -38,18 +74,6 @@
         {
           "name": "조세일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBSTRYNktOQWJiWHhuQ3BfTTVZZ2VRcXhMSUJ4S25NV3dTSnhRYVdrYmI3Zl9FcjR0ellQUDJPTmZSVFA0endNZTJMNGM5SFRaaGllTUJ3MWJKc3JnNklJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53c2e119a712",
-      "title": "잠결에 주먹질...‘렘수면행동장애’ 13년 뒤 10명 중 8명 ‘치매·파킨슨병’ - 디멘시아뉴스",
-      "published": "2026-05-08T09:44:50+00:00",
-      "summary": "잠결에 주먹질...‘렘수면행동장애’ 13년 뒤 10명 중 8명 ‘치매·파킨슨병’&nbsp;&nbsp;디멘시아뉴스'욕하고 소리 지르고' 잠꼬대 웃으면서 넘겼는데…'충격'&nbsp;&nbsp;v.daum.net파킨슨병 치료, 약물만큼 운동도 중요하다…적정 강도 유지가 핵심&nbsp;&nbsp;네이트초고령사회 대한민국, 알츠하이머·파킨슨병 예방법은?&nbsp;&nbsp;이데일리잠자다 이불 킥하던 ‘변비男’…20년 뒤 ‘파킨슨병’ 징후였다&nbsp;&nbsp;미주중앙일보",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81V21JSm9KVjg1c2JBVTFybTlBd1hEeGhmVHVPcmwtQTQwb1JXMThhdEc2bi0zU3dwczRId2RKcFhqMFZUeUVYV01Jam0zTnpSOXNXWXZqemR1c0dFaGhNakQtRkM5aW5vTFkxbjhNa29kdw?oc=5"
         }
       ]
     },
@@ -114,18 +138,6 @@
       ]
     },
     {
-      "id": "1aa28d8d86d7",
-      "title": "[전문의 칼럼] 고령화 시대, 치매 관리 어떻게 해야 할까? 전문가가 전하는 조언 - 이데일리",
-      "published": "2026-05-08T05:18:08+00:00",
-      "summary": "[전문의 칼럼] 고령화 시대, 치매 관리 어떻게 해야 할까? 전문가가 전하는 조언&nbsp;&nbsp;이데일리나이 젊어도 치매 걸린다 “이 비타민 꼭 챙겨 먹어라”&nbsp;&nbsp;중앙일보“우리 부모님, 단순 노화일까 치매일까”… ‘효도 관찰’ 포인트&nbsp;&nbsp;v.daum.net치매 환자 100만 시대… 중년부터 꾸준히 관리해야&nbsp;&nbsp;조선일보부모님 약속 자꾸 잊는다면…건망증 넘어 치매 위험?&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUZ3SzQ0VlA4dVZRejJZYmJ6YWljUHluM2JJYkcyT1JQZHVJRGpJV1VpbTBCeXZFY0RMTURsYjByaV9HNUNrQUJ2N2J2LWlIODdZUmNFaUg5T2FYMXpKT2EzZTFWbXVnOGJjX2dzU3d4VFh5SUpVVTlsWjdlbGVSMg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f0c72011776e",
       "title": "GPX4, 암을 유발하는 ‘좀비 세포(노화 세포)’의 선택적 제거에 역할 - 바이오타임즈",
       "published": "2026-05-08T03:55:46+00:00",
@@ -174,14 +186,26 @@
       ]
     },
     {
-      "id": "acbd2771cf0b",
+      "id": "227b764ea3c5",
       "title": "저렴하고 안전한 아미노산 '아르기닌', 알츠하이머 치료 새로운 희망 - 뉴스토마토",
       "published": "2026-05-08T00:46:09+00:00",
       "summary": "저렴하고 안전한 아미노산 '아르기닌', 알츠하이머 치료 새로운 희망&nbsp;&nbsp;뉴스토마토",
       "sources": [
         {
           "name": "뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVNkhma1I2UFN4SVRoX3h1eWxydGptX0ZWZzVMZGZwd05zNk9VdGFFNlIzaGdrUDZLUzQxaHlScmVhWTFuY282RVBwd1Y5dlZjUWE4aTUyUlhfLWUwLTh3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IeW5LNWtHVDMxdW51bGRBYUZiUEVVM2VYUURsc1pZMlRqUHU4NFZic0hsU1pCWkhLNHZVQVA4cVNlTlJpTkk2TEJTbFdHdDVWcWVPNmVQRzVLZmRwZ1pDTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d6581e6e29d",
+      "title": "부모님 약속 자꾸 잊는다면… 건망증 넘어 치매 위험? - 스포츠월드",
+      "published": "2026-05-08T00:08:42+00:00",
+      "summary": "부모님 약속 자꾸 잊는다면… 건망증 넘어 치매 위험?&nbsp;&nbsp;스포츠월드나이 젊어도 치매 걸린다 “이 비타민 꼭 챙겨 먹어라”&nbsp;&nbsp;중앙일보“우리 부모님, 단순 노화일까 치매일까”… ‘효도 관찰’ 포인트&nbsp;&nbsp;v.daum.net치매 환자 100만 시대… 중년부터 꾸준히 관리해야&nbsp;&nbsp;조선일보부모님 약속 자꾸 잊는다면…건망증 넘어 치매 위험?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "스포츠월드",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrdWppZ3JXRldBS1pVUTktU1k4T2ZuS0p1RTE3NDlmZDhVbXdoazNDZkVUM1ItZDVvSDZmaHlJWjdtMXlGREczQUhyMml3aXRVRzZYNHZDTEotWl9uSDJQdGtR?oc=5"
         }
       ]
     },
@@ -258,14 +282,14 @@
       ]
     },
     {
-      "id": "edd52333a108",
-      "title": "[100세 건강] 간헐적 단식, 노화 늦춘다더니...오히려 빨리 늙을 수도 - 뉴스퀘스트",
-      "published": "2026-05-07T21:30:00+00:00",
-      "summary": "[100세 건강] 간헐적 단식, 노화 늦춘다더니...오히려 빨리 늙을 수도&nbsp;&nbsp;뉴스퀘스트",
+      "id": "2e4f26dcf18c",
+      "title": "초고령사회 대한민국, 알츠하이머·파킨슨병 예방법은? - 이데일리",
+      "published": "2026-05-07T22:18:02+00:00",
+      "summary": "초고령사회 대한민국, 알츠하이머·파킨슨병 예방법은?&nbsp;&nbsp;이데일리'욕하고 소리 지르고' 잠꼬대 웃으면서 넘겼는데…'충격'&nbsp;&nbsp;v.daum.net파킨슨병 치료, 약물만큼 운동도 중요하다…적정 강도 유지가 핵심&nbsp;&nbsp;네이트잠자다 이불 킥하던 ‘변비男’…20년 뒤 ‘파킨슨병’ 징후였다&nbsp;&nbsp;미주중앙일보잠결에 주먹질...‘렘수면행동장애’ 13년 뒤 10명 중 8명 ‘치매·파킨슨병’&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "뉴스퀘스트",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NQ1M4SWlUbW1RZ1FsUS1sYmR6aGdMZm5lZGxSVW04YzQ3R1Y3N3hraE1Bc0JLUmNCaFFrbnhIRDVGSEcxVlVKZXJIXzRiR0tWaEZlNVhTWHVaOWZiZERFVmZnNGx2NlBJaVNGcmhWa9IBc0FVX3lxTE53YTUySnNvSXNUNkh3a0hNWHY5ZW5HQmFhbmlRQk1QU2gyRmVydVFNTHBBeTE3VXZQNVFJMjFrbk5WcTlPZjhGRk9vQzJQZDJvOGozVkxvQ2M5a2FIdmZITGRVdW1MV2hXNnVvWUdOMDJtQzA?oc=5"
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGJRN1dSQzZ6UVo3Y0RLNlRIYmdiUmF3RW9xV1Mxa0RNWl9QdVVwcE8xNWJiSmNfUlpCbzdUVFJKd2FyLUcyZVo2OW1uQnRicmpKZW5LOGhZNWRKam1zQ3A0MmV5SGxKeGQ0RXZQVGlNaVFob2MyZ1NIa2dUNUppeg?oc=5"
         }
       ]
     },
@@ -282,26 +306,14 @@
       ]
     },
     {
-      "id": "5c28094ccb58",
-      "title": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진 - 뉴시스",
-      "published": "2026-05-07T10:05:00+00:00",
-      "summary": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진&nbsp;&nbsp;뉴시스",
+      "id": "6b3585ce42db",
+      "title": "120년 치매 연구, 아직도 제자리 - 마음건강 길",
+      "published": "2026-05-07T19:10:00+00:00",
+      "summary": "120년 치매 연구, 아직도 제자리&nbsp;&nbsp;마음건강 길",
       "sources": [
         {
-          "name": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PVGZyMjdnVHhLeXdpWm9sZmFOQ1F5VThHc3VLQ1VGRkd0MUtHWDhaNWlIN2s3aWF2NWVPNEllVy1kUVFuYXFTekhSbkJQbGVJbjhJZ2x0ZHlJRExZdE1ETmpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad41eff53e6a",
-      "title": "“하루 3회 이상 양치하면 치매 위험 20% 줄어든다” - 국민일보",
-      "published": "2026-05-07T09:14:00+00:00",
-      "summary": "“하루 3회 이상 양치하면 치매 위험 20% 줄어든다”&nbsp;&nbsp;국민일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkLXVnQzB0Q29zMVlqS2dGaDhfVldITjVUYzRzWUJONHJJVE41eW1ieG1VSUt1aE5XZ1I4YVRLSzV4dkJPa1VlMk5md2hvYUZfWm1MdlhJa3BqM2NsRkpsY2FnTGt4SGvSAWxBVV95cUxPWGZ5Nmctd1l6OHFfWHZNbHhlMkpZZmh5T3l6RUxvUGE5WjhsZ3UzTXUzT0laV0w1VkJ3dlhuZ2FKdU5BaWdwSWloZ2pmbFcyTGNkUWJWMW5SMXlZSmhlUjlkR3kzbHV6TUJCQno?oc=5"
+          "name": "마음건강 길",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtN1ZZV0ZzRkN2cjFfV0drMGpjeU8wMWdwVXhXV2NZOFBialFrMU5UYklndGxnV2F2S1FYRERjWTk0VjhsWjV0OUJYSm1hWmMxMWpnTEpURnpRUWh6cExvMzlOWUFYLXlvbFHSAW5BVV95cUxNUVBSbktpTjJyUlZUSG9Bd05CdEZtQmJpLUtCcGFCUTY4SGtRSWNHQmFFaWpxV0xhU0pwZXFTSmpvRDZIZ01CeXN4U05hLVZTb3FpM3pHdllhMC0tQ0ZySkZ0ZmhQY1VOVjJxSE5KZw?oc=5"
         }
       ]
     },
@@ -342,14 +354,14 @@
       ]
     },
     {
-      "id": "db18f7ed9179",
-      "title": "수술 전 9주 면역치료 했더니…대장암 환자 32명, 33개월째 재발 없었다 - 코메디닷컴",
-      "published": "2026-05-07T06:37:00+00:00",
-      "summary": "수술 전 9주 면역치료 했더니…대장암 환자 32명, 33개월째 재발 없었다&nbsp;&nbsp;코메디닷컴",
+      "id": "00aa8696bafc",
+      "title": "“가슴 쥐어짜는 통증, 단순 소화불량 아닐 수도”…심근경색 ‘골든타임’ 사수 중요 - 후생신보",
+      "published": "2026-05-07T06:33:00+00:00",
+      "summary": "“가슴 쥐어짜는 통증, 단순 소화불량 아닐 수도”…심근경색 ‘골든타임’ 사수 중요&nbsp;&nbsp;후생신보[건강칼럼] 심근경색, 갑작스러운 가슴 통증의 진짜 원인&nbsp;&nbsp;타임뉴스",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWOHhERWctc3lCTXdWeXVWdEFwZXFGamtkY0xQQlNyMFVGSzJCRW9Lb3RiVmNGTE0yd0hYbHgyeTVpZw?oc=5"
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwOUkxSG4yS3Q3MU02RWd0ejBIUTlWVXZNTXN6bHBQS245T1lUQk9pQ1Q1LWR0UVkxcFFXVnVoeFVPT0JJZ0E?oc=5"
         }
       ]
     },
@@ -462,18 +474,6 @@
       ]
     },
     {
-      "id": "5d7b20fda97a",
-      "title": "“‘이 암’ 진단 하루 만에 사망”…놀다가도 쉽게 지쳤던 9세 소녀에게 무슨 일? - 코메디닷컴",
-      "published": "2026-05-06T21:09:00+00:00",
-      "summary": "“‘이 암’ 진단 하루 만에 사망”…놀다가도 쉽게 지쳤던 9세 소녀에게 무슨 일?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9HTkNfdWFEeFh5bHNYdm5KTkJFNEZmZHVYNEZoYjFCMzIxRlI3UWlmX2NicVNJUlFZUF80RV83RzNTQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d76317c221a6",
       "title": "“혹시 나도 치매?”…피 한 방울로 검사, 스프레이·빛으로 치료하는 시대 - 매일경제",
       "published": "2026-05-06T19:00:00+00:00",
@@ -482,18 +482,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9salgyN0Z4VGEtc2xRd1hKZEZMVXljMjRBblZtbFJzeHBNbDRvVWV0U0hYWVpub0lHMmxhcEVlOHM4dUFxbVplNFlnRGlZQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d8d0483beaa0",
-      "title": "건강노화를 무너뜨리는 가장 큰 적, 스트레스와 뇌 피로의 경고 - 한국공공정책신문",
-      "published": "2026-05-06T13:31:46+00:00",
-      "summary": "건강노화를 무너뜨리는 가장 큰 적, 스트레스와 뇌 피로의 경고&nbsp;&nbsp;한국공공정책신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "한국공공정책신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBsR0NhQ1lVN21DOGpJelo4WWRGTjI0M1IyMUNBU19JNXBQdHBtemV0ZEQ5eXpuY3gwR00wbVVaZTBTRTQ?oc=5"
         }
       ]
     },
