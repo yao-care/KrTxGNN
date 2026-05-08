@@ -1,10 +1,178 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-07T19:46:10.074977+00:00",
-  "total_fetched": 85,
-  "unique_count": 84,
-  "health_related_count": 53,
+  "fetched_at": "2026-05-08T03:26:58.134286+00:00",
+  "total_fetched": 95,
+  "unique_count": 94,
+  "health_related_count": 56,
   "news": [
+    {
+      "id": "d7618ef9d635",
+      "title": "생명과 무생물의 경계에 선 존재, 바이러스 - 이코노미사이언스",
+      "published": "2026-05-08T02:03:13+00:00",
+      "summary": "생명과 무생물의 경계에 선 존재, 바이러스&nbsp;&nbsp;이코노미사이언스",
+      "sources": [
+        {
+          "name": "이코노미사이언스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNMmYxQk1uR0NrcjJibk4wbjI3anIzMGdrdU1UTVBhU1pWTEhoZVBRTmVVZTJHRy1ZWHV4SGhDQ2dLbVQyNGxTbm5QMk5wUWkydk5aQUNtLUxpU0tMRmdyTkVvNFBybXB3LXdqUGQzUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dce161b5f2e6",
+      "title": "당뇨발 전세계 평생유병률 6.3% … 전기자극치료로 상처치유 위한 미세환경 회복 - 스포츠경향",
+      "published": "2026-05-08T01:24:00+00:00",
+      "summary": "당뇨발 전세계 평생유병률 6.3% … 전기자극치료로 상처치유 위한 미세환경 회복&nbsp;&nbsp;스포츠경향",
+      "sources": [
+        {
+          "name": "스포츠경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XSC16bTFGYkdIbHJoMmpEVFQtak56TEtEZFlELW1NMVEzd3hRdXVJUno1VllVMUYwdENqWHBzblZ2QzZLbnNIbDAzWHBNM1pTU3lVWi1US051c1BhbWfSAWNBVV95cUxNYzI3cXhMdEVIWVlfTEJGT1NIYXhraWxySERIampEMjFnZXlKdi1CR3BBTEJiUGtSY2NYN2pLR1h4bF8zc0U3aDgxQjFKVjZhdGg3VlJScGVaR1RqRzI0WDRGNkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "516f92e2e06a",
+      "title": "우리 부모님의 ‘근력’을 돌아볼 때 - 법보신문",
+      "published": "2026-05-08T01:19:45+00:00",
+      "summary": "우리 부모님의 ‘근력’을 돌아볼 때&nbsp;&nbsp;법보신문\"부모님 근육 안녕하신가요\"…어버이날, '근감소증' 점검하세요&nbsp;&nbsp;v.daum.net“살은 빼도 근육은 지켜라”…초고령사회, 근감소 치료 경쟁 시작&nbsp;&nbsp;약업신문줄어든 것은 지방일까, 근육일까? 바이오마커와 데이터가 바꾸는 근감소증 진단 시장&nbsp;&nbsp;한국경제초고령사회 속 노인 근감소증, ‘효도재활주간보호센터’ 슬링 재활 시스템 도입&nbsp;&nbsp;브랜드경제신문",
+      "sources": [
+        {
+          "name": "법보신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmMzN2Mkd6c3lOSVVGRHRsVXJLVTAycmpKMm1rc3QyRVlHTnBPX25YVEdvSWE3alVEWXMwRFZvcS1QLTBLVTFKRmZLd2hnNTFXQ3JPU1BYZV9pcHpJM0dFRUNiN1NOWE1Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16f6e0458da3",
+      "title": "저렴하고 안전한 아미노산 '아르기닌', 알츠하이머 치료 새로운 희망 - 뉴스토마토",
+      "published": "2026-05-08T00:46:09+00:00",
+      "summary": "저렴하고 안전한 아미노산 '아르기닌', 알츠하이머 치료 새로운 희망&nbsp;&nbsp;뉴스토마토",
+      "sources": [
+        {
+          "name": "뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwWWRwV2Frb1lieVJPU2hYNGdpZnR4Q0gzWDF5Zl9HSXBkc1JUWVdVUlpXLVZMRllubTBGc2Z3Q3ZqOVMwYVdwNDFGcElxV1ZJd2VqMW1WSEJIY2l0S29OUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "625ab9b68965",
+      "title": "[건강포커스] \"콩류·대두 식품 많이 먹을수록 고혈압 발생 위험 줄어든다\" - 연합뉴스 한민족센터",
+      "published": "2026-05-08T00:01:59+00:00",
+      "summary": "[건강포커스] \"콩류·대두 식품 많이 먹을수록 고혈압 발생 위험 줄어든다\"&nbsp;&nbsp;연합뉴스 한민족센터",
+      "sources": [
+        {
+          "name": "연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82eTFuSFZTM203Y3p2VllVZUdKWGRPMTdwVC1rSWRKbkc0OXVxanNjXzh5c00wZHJHOGJadDNycm5mOXhtbGdtVERfRXRpTTQwQ3NpU243RTNYV3R6SXRLYVJTRnlZV3Nnb1AxZ0FWYUhKbi1O?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03f19c06e68f",
+      "title": "\"테스토스테론, 뇌암도 막는다\"… 뇌종양 사망률 38% 낮춰 - 헬스조선",
+      "published": "2026-05-07T23:20:00+00:00",
+      "summary": "\"테스토스테론, 뇌암도 막는다\"… 뇌종양 사망률 38% 낮춰&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kem9GZThUMXVwdzc4VTRDRzY3MlU0NDhwWGREc0NRcXNGaEZxZ3phd05JOE02R05FOVdicW51ckM4V0xPUjBHZUxlaXRNQU0tRG1PNnlwem9YUEd5YktXM0RoZVZoTlplSWdFVDRiY19MT180X1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "00cab29f24ed",
+      "title": "췌장암 세포 '염증 경로' 차단하면 암세포 사멸 - 네이트",
+      "published": "2026-05-07T23:11:00+00:00",
+      "summary": "췌장암 세포 '염증 경로' 차단하면 암세포 사멸&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yaFlEb0ZEVVJwdk1sSkNfeXNKTC1XRjdDQ2NSQ1hzdHlWMkdKb0ZOc3pPZ1Y4SFY0Q0FiVkVSZlpxM0VrOU1LR3JuVmttNFpxMlQ4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f746e3936676",
+      "title": "“칼로리 없어 좋아했는데”… 제로 음료, 건강 위협하는 요인 4가지 - 하이닥",
+      "published": "2026-05-07T23:00:00+00:00",
+      "summary": "“칼로리 없어 좋아했는데”… 제로 음료, 건강 위협하는 요인 4가지&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rMVUxbVZPeGFhUXo1RkFJNVZaMjh2eWlVZFlhc2cwYmFIWUpRaC12VXdnQlRadXdkRTI2NE96Vjc5Z3JmQzZpdHNWN29GT3hoSE9XQkxmMm90dEpXcDliU2pnVEtWc1JabEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b5879bac9ef",
+      "title": "연세치대 김기우 교수팀... \"장내 미생물이 만든 '부티르산', 살 빼고 혈당 떨어뜨려\" - 덴탈아카이브",
+      "published": "2026-05-07T22:48:00+00:00",
+      "summary": "연세치대 김기우 교수팀... \"장내 미생물이 만든 '부티르산', 살 빼고 혈당 떨어뜨려\"&nbsp;&nbsp;덴탈아카이브장내 미생물이 만든 ‘이 물질’…살 빼고 혈당 낮췄다&nbsp;&nbsp;농민신문장내 미생물이 만든 ‘이 물질’…뇌 거쳐 살 빼고 혈당 떨어뜨려&nbsp;&nbsp;동아일보\"살 빼는 스위치, 뇌에 있었다\"... 장내 미생물이 시상하부 '안테나' 깨워&nbsp;&nbsp;하이뉴스장내 미생물이 만든 ‘부티르산’, 뇌 통해 체중·혈당 조절까지 한다&nbsp;&nbsp;e-의료정보",
+      "sources": [
+        {
+          "name": "덴탈아카이브",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4X3Z3MjdhZEllUHFaRVktRVFWWWtrQm5zd1JVVTBHazdYNTk0VkZXR21yVGQ4ay03dFhPRHgweGtnUzFTOXhqNnNSN2p3UERnUHd1M09GSHE0Y0V2UVpLLU85d0xUNzdxOXNxUmh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "98c2814fa415",
+      "title": "mRNA 기술로 결핵 백신 연구 가속…위트워터스랜드대, 쥐 실험서 T세포 보호 효과 확인 - 유스연합",
+      "published": "2026-05-07T22:37:03+00:00",
+      "summary": "mRNA 기술로 결핵 백신 연구 가속…위트워터스랜드대, 쥐 실험서 T세포 보호 효과 확인&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2RG1wT0l6aXlZM1VUajlKT0xGWTBvWUhVYkdWdDhRc3JESElWdEttOHZKYVdaSWdNaUVMOUlYeHVObTIxV2wtZmtmU3pMRWhBdVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "edd52333a108",
+      "title": "[100세 건강] 간헐적 단식, 노화 늦춘다더니...오히려 빨리 늙을 수도 - 뉴스퀘스트",
+      "published": "2026-05-07T21:30:00+00:00",
+      "summary": "[100세 건강] 간헐적 단식, 노화 늦춘다더니...오히려 빨리 늙을 수도&nbsp;&nbsp;뉴스퀘스트",
+      "sources": [
+        {
+          "name": "뉴스퀘스트",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NQ1M4SWlUbW1RZ1FsUS1sYmR6aGdMZm5lZGxSVW04YzQ3R1Y3N3hraE1Bc0JLUmNCaFFrbnhIRDVGSEcxVlVKZXJIXzRiR0tWaEZlNVhTWHVaOWZiZERFVmZnNGx2NlBJaVNGcmhWa9IBc0FVX3lxTE53YTUySnNvSXNUNkh3a0hNWHY5ZW5HQmFhbmlRQk1QU2gyRmVydVFNTHBBeTE3VXZQNVFJMjFrbk5WcTlPZjhGRk9vQzJQZDJvOGozVkxvQ2M5a2FIdmZITGRVdW1MV2hXNnVvWUdOMDJtQzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5bc3081f54f0",
+      "title": "파킨슨병 낙상 위험 ‘AI’로 예측 - 재활뉴스",
+      "published": "2026-05-07T20:30:00+00:00",
+      "summary": "파킨슨병 낙상 위험 ‘AI’로 예측&nbsp;&nbsp;재활뉴스한 번의 낙상도 위험한 파킨슨병…\"AI가 미리 감지\"&nbsp;&nbsp;newsis.com[의학바이오게시판] 파킨슨병 환자 '낙상 위험' AI로 예측 外&nbsp;&nbsp;v.daum.net삼성서울병원 연구팀, AI 기반 파킨슨병 낙상 위험 예측 모델 개발&nbsp;&nbsp;로이슈파킨슨병 '낙상 위험' AI로 잡는다…삼성서울병원, 조기예측 모델 개발 - 머니투데이&nbsp;&nbsp;머니투데이",
+      "sources": [
+        {
+          "name": "재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9md3p2ZjZFdWh0aWY4cDFaaWVIUHYzaVBtSElJQVJuVlhrTFQ4c2ZCdWZMU1lpYVMybHFyUS1FUVh6a1dSb1dWcHhtejJVSkdtcWNqbkJWbWFtSmt5N0Jfc3l3dmo5WXRSb0lR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57b06b6ac0a0",
+      "title": "“치매 막는 데 도움”… 매일 한 줌 ‘이 견과류’ 먹으라는데? - 헬스조선",
+      "published": "2026-05-07T20:00:00+00:00",
+      "summary": "“치매 막는 데 도움”… 매일 한 줌 ‘이 견과류’ 먹으라는데?&nbsp;&nbsp;헬스조선“단백질 풍부, 혈당 낮춘다”… 요즘 뜨는 ‘이 견과류’, 뭐지?&nbsp;&nbsp;헬스조선\"견과류 많이 먹으면 좋은 줄 알았는데\"... 알고보니 하루 '이 양' 넘기면 오히려 독 된다&nbsp;&nbsp;아던트뉴스\"아몬드, 단순한 간식 아닌 영양의 보고\"…알고 먹으면 더 좋은 이유&nbsp;&nbsp;newsis.com견과류 중 최고는? 영양사들 꼽은 1순위는 ‘이것’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iQWZ5ck5kTEctOUlybjBxeGU5dDdOY3hWSkdKWGNUNmpDUmkxdnNIaFJnMUhjcWVuWjV4VHRlMjRLNXp6MTVxWkNIR3hSLWxfc3BHVlNFT3l2ZDRScEtaQ2NWU2FWSGg1TjNJZl9wVVVvX21fd0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5a08a9b11f9",
+      "title": "\"당뇨약보다 낫네\"… 맨발로 두 달 걸었더니 혈당 500 → 정상 [Weekend 헬스] - 파이낸셜뉴스",
+      "published": "2026-05-07T19:30:00+00:00",
+      "summary": "\"당뇨약보다 낫네\"… 맨발로 두 달 걸었더니 혈당 500 → 정상 [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wcmpsSHdYWUkxbTJNS3VONFhVSEpIbnlOcDg2MTB3Wjg3OEF1b3BzTTNwU2llQ0tVRzFDaWJESm01bzlQc0w0R3hEbFVqbXF6dGNLc2ZsWElXUdIBXkFVX3lxTE1fX1RBRnpsWHVULTNXMUZ3clhaQTFpM0wxS2s0TkhNZjZFWTNwcTEtczI0bVZFYnFhUl9ickdWZ2ROblIzYlhUOTFVS1IyOE9WaTlHUklVc0VMZi1rZ3c?oc=5"
+        }
+      ]
+    },
     {
       "id": "0fd2e1473114",
       "title": "폐경 후 ‘뱃살’이 위험한 이유… 건망증·불면 악화 - 헬스조선",
@@ -18,50 +186,38 @@
       ]
     },
     {
-      "id": "a04aa86c0c5b",
-      "title": "15화 이토록 위대한 장 : 상세 리뷰 ⓶ - 브런치",
-      "published": "2026-05-07T16:22:45+00:00",
-      "summary": "15화 이토록 위대한 장 : 상세 리뷰 ⓶&nbsp;&nbsp;브런치건강한 장내미생물 구성이 파킨슨병 예방한다&nbsp;&nbsp;동아일보“나이에 따라 장 건강 관리법 다르다”… 장 건강 프로바이오틱스 어떻게 선택할까?&nbsp;&nbsp;하이닥[이상엽의 과학기술 NOW] 제2의 뇌 '장내 미생물'&nbsp;&nbsp;v.daum.net\"얼마나 빨리 배변하느냐가 전신 건강 좌우한다\"…장 통과 시간, 미생물 구성 바꾼다&nbsp;&nbsp;reportera.co.kr",
+      "id": "19f402a54ebc",
+      "title": "[건강칼럼] 심근경색, 갑작스러운 가슴 통증의 진짜 원인 - 타임뉴스",
+      "published": "2026-05-07T11:25:28+00:00",
+      "summary": "[건강칼럼] 심근경색, 갑작스러운 가슴 통증의 진짜 원인&nbsp;&nbsp;타임뉴스",
       "sources": [
         {
-          "name": "브런치",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qSTZyRGtGbE5IQm9TUWt5cm1ZR2lzcGJBRll6MmpreEFlTFluVnBCaDdVSXM4c2pZRURGVVVBUU1odkd0cXphbUVR?oc=5"
+          "name": "타임뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BdE9YRXF1alRsNWQ1Q196Z2JtNE94NVJwWjhHSzRqSFhsaDlFS0JCNkItY0VhTVZlclRaTWZIR2dNRFRTNVp6dlgwRWtRSmFjY2JWdQ?oc=5"
         }
       ]
     },
     {
-      "id": "16caccac732a",
-      "title": "파킨슨병환자 낙상위험…AI로 예측하는 시대 ‘눈앞’ - 헬스경향",
-      "published": "2026-05-07T12:06:00+00:00",
-      "summary": "파킨슨병환자 낙상위험…AI로 예측하는 시대 ‘눈앞’&nbsp;&nbsp;헬스경향한 번의 낙상도 위험한 파킨슨병…\"AI가 미리 감지\"&nbsp;&nbsp;뉴시스[의학바이오게시판] 파킨슨병 환자 '낙상 위험' AI로 예측 外&nbsp;&nbsp;v.daum.net삼성서울병원 연구팀, AI 기반 파킨슨병 낙상 위험 예측 모델 개발&nbsp;&nbsp;로이슈파킨슨병 '낙상 위험' AI로 잡는다…삼성서울병원, 조기예측 모델 개발 - 머니투데이&nbsp;&nbsp;머니투데이",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QbnlZTTliUV80ajlDcWhER1pBSGl4cGlLMFoxT0t6b1pLQUNBRl9BZWZ5MkJWalhoRVNuQ0NQWmJ2RlpkMGJnYU9fdzJYTEpad3JzRmhQOWlGWEYwZl92OEZTQXYxRXcz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "43dd2c35c438",
-      "title": "8시간 미만 수면·불규칙한 취침… 심혈관 질환 위험 2배↑ - 하이닥",
-      "published": "2026-05-07T12:00:00+00:00",
-      "summary": "8시간 미만 수면·불규칙한 취침… 심혈관 질환 위험 2배↑&nbsp;&nbsp;하이닥\"불규칙한 취침 시간…심혈관 질환 위험 증가\"&nbsp;&nbsp;YTN 사이언스박용환 원장 “오전 낮잠 습관 주의”…건강 정보 전해&nbsp;&nbsp;v.daum.net침대에 8시간 미만 머물면 심근경색-뇌경색 위험 2배&nbsp;&nbsp;동아일보주말 오전에 즐기는 ‘꿀잠’...자칫 생명 단축의 지름길 된다는데&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxY3RvcXNjUUJIaDQ2X2Q0UzYxRVdVOTlmbmI5eWVzODJ4cGVEejQ0RDk2Q2tPWHdVdlpPdHJLaUY5dEI0aklULURFSHlEa0lRMmFHYk9kNjBWakdoMnAyc29fSDRRdk9mZGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c28094ccb58",
-      "title": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진 - 뉴시스",
+      "id": "d6ce62d00e66",
+      "title": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진 - nwww.newsis.com",
       "published": "2026-05-07T10:05:00+00:00",
-      "summary": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진&nbsp;&nbsp;뉴시스",
+      "summary": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진&nbsp;&nbsp;nwww.newsis.com",
       "sources": [
         {
-          "name": "뉴시스",
+          "name": "nwww.newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PVGZyMjdnVHhLeXdpWm9sZmFOQ1F5VThHc3VLQ1VGRkd0MUtHWDhaNWlIN2s3aWF2NWVPNEllVy1kUVFuYXFTekhSbkJQbGVJbjhJZ2x0ZHlJRExZdE1ETmpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad41eff53e6a",
+      "title": "“하루 3회 이상 양치하면 치매 위험 20% 줄어든다” - 국민일보",
+      "published": "2026-05-07T09:14:00+00:00",
+      "summary": "“하루 3회 이상 양치하면 치매 위험 20% 줄어든다”&nbsp;&nbsp;국민일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkLXVnQzB0Q29zMVlqS2dGaDhfVldITjVUYzRzWUJONHJJVE41eW1ieG1VSUt1aE5XZ1I4YVRLSzV4dkJPa1VlMk5md2hvYUZfWm1MdlhJa3BqM2NsRkpsY2FnTGt4SGvSAWxBVV95cUxPWGZ5Nmctd1l6OHFfWHZNbHhlMkpZZmh5T3l6RUxvUGE5WjhsZ3UzTXUzT0laV0w1VkJ3dlhuZ2FKdU5BaWdwSWloZ2pmbFcyTGNkUWJWMW5SMXlZSmhlUjlkR3kzbHV6TUJCQno?oc=5"
         }
       ]
     },
@@ -69,7 +225,7 @@
       "id": "3309c09f12b6",
       "title": "BRCA 유방암, 반대쪽까지 미리 절제 안해도 된다 - 보건신문",
       "published": "2026-05-07T09:05:06+00:00",
-      "summary": "BRCA 유방암, 반대쪽까지 미리 절제 안해도 된다&nbsp;&nbsp;보건신문안젤리나 졸리가 알린 브라카…\"선절제 안해도 돼\"&nbsp;&nbsp;뉴시스“BRCA 유방암, 반대쪽까지 미리 절제할 필요 없어”&nbsp;&nbsp;헬스조선원인 불명 유전성 유방암, ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;시사저널유방암이라서 반대쪽도 절제? \"미리 안 해도 된다\"&nbsp;&nbsp;네이트",
+      "summary": "BRCA 유방암, 반대쪽까지 미리 절제 안해도 된다&nbsp;&nbsp;보건신문안젤리나 졸리가 알린 브라카…\"선절제 안해도 돼\"&nbsp;&nbsp;newsis.com“BRCA 유방암, 반대쪽까지 미리 절제할 필요 없어”&nbsp;&nbsp;헬스조선원인 불명 유전성 유방암, ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;시사저널유방암이라서 반대쪽도 절제? \"미리 안 해도 된다\"&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "보건신문",
@@ -81,7 +237,7 @@
       "id": "fd43ec69e200",
       "title": "뇌 건강에 좋다더니...오메가-3 섭취하는 노인, 인지 저하 더 빨랐다고? - 코메디닷컴",
       "published": "2026-05-07T08:06:00+00:00",
-      "summary": "뇌 건강에 좋다더니...오메가-3 섭취하는 노인, 인지 저하 더 빨랐다고?&nbsp;&nbsp;코메디닷컴치매예방을 넘어 20대 기억력 저하까지...전 생애주기로 번진 뇌건강, 뉴로웰니스&nbsp;&nbsp;kmjournal.net뇌 건강에 좋은 음식 따로 있다…기억력 높이는 식품 7&nbsp;&nbsp;네이트",
+      "summary": "뇌 건강에 좋다더니...오메가-3 섭취하는 노인, 인지 저하 더 빨랐다고?&nbsp;&nbsp;코메디닷컴치매예방을 넘어 20대 기억력 저하까지...전 생애주기로 번진 뇌건강, 뉴로웰니스&nbsp;&nbsp;kmjournal.net혈행·중성지질, 기억력 개선, 눈 건강…오메가3 함량은?&nbsp;&nbsp;데일리팜치매 막아준다던 '오메가-3', 오히려 인지 기능 저하 가속화?&nbsp;&nbsp;네이트오메가-3 보충제가 많은 사람들이 생각하는 것보다 뇌에 더 해로울 수 있을까요?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -114,6 +270,18 @@
       ]
     },
     {
+      "id": "02f8fe282fb4",
+      "title": "지방간질환, 소장 염증·장내미생물 불균형과 연관 - 후생신보",
+      "published": "2026-05-07T06:43:00+00:00",
+      "summary": "지방간질환, 소장 염증·장내미생물 불균형과 연관&nbsp;&nbsp;후생신보똑같이 먹었는데 나만 지방간…\"이유는 '이것' 때문\"&nbsp;&nbsp;newsis.com분당서울대병원 “지방간질환, 소장 염증·장내미생물 불균형과 연관”&nbsp;&nbsp;로이슈똑같이 먹어도 나이 들면 간에 지방 더 쌓인다&nbsp;&nbsp;네이트지방간질환, 소장 염증ㆍ장내미생물 불균형과 연관&nbsp;&nbsp;메드월드뉴스",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBtSVNYYlhhQjJ0M2lOOUtYQVhiSWxlcElnNnVMRUVnelJWQWlsc0RKNE9zeWs1Ukc2YTFCeXo4bE1tSkpl?oc=5"
+        }
+      ]
+    },
+    {
       "id": "db18f7ed9179",
       "title": "수술 전 9주 면역치료 했더니…대장암 환자 32명, 33개월째 재발 없었다 - 코메디닷컴",
       "published": "2026-05-07T06:37:00+00:00",
@@ -122,30 +290,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWOHhERWctc3lCTXdWeXVWdEFwZXFGamtkY0xQQlNyMFVGSzJCRW9Lb3RiVmNGTE0yd0hYbHgyeTVpZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07b1b069103e",
-      "title": "“가슴 쥐어짜는 통증, 단순 소화불량 아닐 수도”…심근경색 ‘골든타임’ 사수 중요 - 후생신보",
-      "published": "2026-05-07T06:33:00+00:00",
-      "summary": "“가슴 쥐어짜는 통증, 단순 소화불량 아닐 수도”…심근경색 ‘골든타임’ 사수 중요&nbsp;&nbsp;후생신보[건강칼럼] 심근경색, 갑작스러운 가슴 통증의 진짜 원인&nbsp;&nbsp;타임뉴스",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1hNkdCTnpFU0E3ajIxV3RLUVlJNHdlamV2QnVoSWhDMmg1M1M1ZEtuMUlLMmdHbGc0RFUzUU94Z2ktQlk3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5295a1c30690",
-      "title": "분당 서울대병원 김나영 교수 연구팀, 지방간질환과 소장 염증 연관성 규명 - 전국매일신문",
-      "published": "2026-05-07T06:25:22+00:00",
-      "summary": "분당 서울대병원 김나영 교수 연구팀, 지방간질환과 소장 염증 연관성 규명&nbsp;&nbsp;전국매일신문똑같이 먹었는데 나만 지방간…\"이유는 '이것' 때문\"&nbsp;&nbsp;뉴시스분당서울대병원 “지방간질환, 소장 염증·장내미생물 불균형과 연관”&nbsp;&nbsp;로이슈똑같이 먹어도 나이 들면 간에 지방 더 쌓인다&nbsp;&nbsp;네이트술 안 마시는 사람 ‘지방간’엔...포도·석류·호두·베리류가 ‘직방’?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "전국매일신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52bW5RNVpNZnNsbEUybHJ2TTA5ZXBma3JzX3FPdlhHSmhobDd0dlhfWWhuRkpLLVRtankxZ093VlluRWJHaFlHbEI4SjBHMDlUUHQ3OUE0MHcySlJMZER2Q3Zua2t5aWdyTmFXT0dn?oc=5"
         }
       ]
     },
@@ -177,7 +321,7 @@
       "id": "0ff906c0e233",
       "title": "침으로 HIV 진단?…나노기술·인공지능 결합한 HIV 진단 플랫폼 개발 - 코리아헬스로그",
       "published": "2026-05-07T04:13:27+00:00",
-      "summary": "침으로 HIV 진단?…나노기술·인공지능 결합한 HIV 진단 플랫폼 개발&nbsp;&nbsp;코리아헬스로그고려대 \"채혈 없이 침 한 방울로 HIV 초기 감염 포착한다\"&nbsp;&nbsp;뉴시스‘침 한 방울’로 HIV 최대 8일 빨리 진단한다&nbsp;&nbsp;BRIC\"침 한 방울로 HIV 조기 포착\"…고려대, AI 기반 초고감도 진단기술 개발[과학을읽다]&nbsp;&nbsp;v.daum.net고려대, '침 한 방울'로 HIV 감염 진단 기술 개발&nbsp;&nbsp;네이트",
+      "summary": "침으로 HIV 진단?…나노기술·인공지능 결합한 HIV 진단 플랫폼 개발&nbsp;&nbsp;코리아헬스로그고려대 \"채혈 없이 침 한 방울로 HIV 초기 감염 포착한다\"&nbsp;&nbsp;newsis.com‘침 한 방울’로 HIV 최대 8일 빨리 진단한다&nbsp;&nbsp;BRIC\"침 한 방울로 HIV 조기 포착\"…고려대, AI 기반 초고감도 진단기술 개발[과학을읽다]&nbsp;&nbsp;v.daum.net고려대, '침 한 방울'로 HIV 감염 진단 기술 개발&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -234,30 +378,6 @@
       ]
     },
     {
-      "id": "bc8d9047c2a3",
-      "title": "알츠하이머병 초기 기억력 저하, '해마'보다 '내후각 피질'이 중요 역할 - 바이오타임즈",
-      "published": "2026-05-07T00:59:47+00:00",
-      "summary": "알츠하이머병 초기 기억력 저하, '해마'보다 '내후각 피질'이 중요 역할&nbsp;&nbsp;바이오타임즈'욕하고 소리 지르고' 잠꼬대 웃으면서 넘겼는데…'충격'&nbsp;&nbsp;v.daum.net파킨슨병 치료, 약물만큼 운동도 중요하다…적정 강도 유지가 핵심&nbsp;&nbsp;네이트‘오래’보다 ‘어떻게’… 알츠하이머·파킨슨병 관리가 핵심&nbsp;&nbsp;한국의약통신잠자다 이불 킥하던 ‘변비男’…20년 뒤 ‘파킨슨병’ 징후였다&nbsp;&nbsp;미주중앙일보",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80QjllTjdmcnU0TUo2YXpNdVgwU1dEZU5IWlhiYkI1SWVWd3VzYWRFcUNVZ2Y3SUFzNTdFNW84Qi1LZEIzZl8zQ25sa19fZ20zQ1VyZEtUY090N3EtTFJ4S3BRYVduWFlzcnVUMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16048bc706a0",
-      "title": "세브란스병원, 장내 미생물 '부티르산' 체중 및 혈당조절 사실 규명 - 팍스경제TV",
-      "published": "2026-05-07T00:52:39+00:00",
-      "summary": "세브란스병원, 장내 미생물 '부티르산' 체중 및 혈당조절 사실 규명&nbsp;&nbsp;팍스경제TVGoogle 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "팍스경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jdkJMOUZNY25ZMW9fT2JSb2lXZzNSV1M0ZFVpbG0wb3BRR0RuUU1tMXUyRDBoNEx2SDhQWG11Z0dfSkpyZ2JtTl9QajJEQ3g0RGkwZTEzZW9OajFlLXU0U015ZEhha3NF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1f045a456f5b",
       "title": "후생유전적 변화로 췌장암 전이시키는 'KLF5' - 후생신보",
       "published": "2026-05-07T00:09:00+00:00",
@@ -278,18 +398,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyeXl3QUZwdUZHN0NrYmpTM3Y0Q3hjelRTTEhIdEN3ZldYVTloRlRpZGJNeDZIU3NWektTUnBzZWtrTUJ2V2JrZVItazNUakhraUdr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "045065fd0b70",
-      "title": "[동정]연세대 용인세브란스병원 정승호 교수, 제2회 이명식 교수상 수상 - 데일리메디팜",
-      "published": "2026-05-06T23:43:09+00:00",
-      "summary": "[동정]연세대 용인세브란스병원 정승호 교수, 제2회 이명식 교수상 수상&nbsp;&nbsp;데일리메디팜[오늘의 인사 및 동정] 5월 7일&nbsp;&nbsp;의사신문용인세브란스병원 정승호 교수, 이명식 교수상 수상&nbsp;&nbsp;헬스이슈앤뉴스",
-      "sources": [
-        {
-          "name": "데일리메디팜",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0weTlVMGgzMTRMaVhjdFFxM1ZWUGNybFQ4TE9JeTlJTFRyZWVUbHNHcUpEX3djcm1pOTRJUXBrYS1BZVdCSGhTU08zQ2Z3b0p3eFFJTHM3aXljbklRVnQyXzVTQ0pMZTRyUXpMOHZB?oc=5"
         }
       ]
     },
@@ -453,7 +561,7 @@
       "id": "4fe594568d11",
       "title": "옵티팜, 19.5억 원 규모 수족구병 백신 국책과제 수주 - 충청타임즈",
       "published": "2026-05-06T06:49:00+00:00",
-      "summary": "옵티팜, 19.5억 원 규모 수족구병 백신 국책과제 수주&nbsp;&nbsp;충청타임즈\"수족구병 백신 나올까\"…옵티팜, 국책과제 수주&nbsp;&nbsp;뉴시스옵티팜, 19.5억 수족구병 2가 백신 국책과제 수주&nbsp;&nbsp;데일리한국옵티팜, 수족구병 백신 국책과제 선정…인체용 백신 사업 '본격화'&nbsp;&nbsp;네이트옵티팜, 19.5억 규모 수족구병 백신 국책과제 수주…VLP 기반 2가 백신 개발 착수&nbsp;&nbsp;바이오타임즈",
+      "summary": "옵티팜, 19.5억 원 규모 수족구병 백신 국책과제 수주&nbsp;&nbsp;충청타임즈\"수족구병 백신 나올까\"…옵티팜, 국책과제 수주&nbsp;&nbsp;newsis.com옵티팜, 19.5억 수족구병 2가 백신 국책과제 수주&nbsp;&nbsp;데일리한국옵티팜, 수족구병 백신 국책과제 선정…인체용 백신 사업 '본격화'&nbsp;&nbsp;네이트옵티팜, 19.5억 규모 수족구병 백신 국책과제 수주…VLP 기반 2가 백신 개발 착수&nbsp;&nbsp;바이오타임즈",
       "sources": [
         {
           "name": "충청타임즈",
@@ -465,7 +573,7 @@
       "id": "531c990ed371",
       "title": "\"성 접촉이 원인\" 젊은 층서 급증하는 '이 암'…생존율 50% 치명적 [건강잇슈] - 네이트",
       "published": "2026-05-06T05:55:00+00:00",
-      "summary": "\"성 접촉이 원인\" 젊은 층서 급증하는 '이 암'…생존율 50% 치명적 [건강잇슈]&nbsp;&nbsp;네이트젊은층서 두경부암 급증…원인 보니 뜻밖의 '이것'&nbsp;&nbsp;뉴시스[특별기고] 흡연·음주가 원인이라던 두경부암, ‘HPV’ 차단도 중요&nbsp;&nbsp;국민일보",
+      "summary": "\"성 접촉이 원인\" 젊은 층서 급증하는 '이 암'…생존율 50% 치명적 [건강잇슈]&nbsp;&nbsp;네이트젊은층서 두경부암 급증…원인 보니 뜻밖의 '이것'&nbsp;&nbsp;newsis.com[특별기고] 흡연·음주가 원인이라던 두경부암, ‘HPV’ 차단도 중요&nbsp;&nbsp;국민일보",
       "sources": [
         {
           "name": "네이트",
@@ -558,54 +666,6 @@
       ]
     },
     {
-      "id": "be6d8773f282",
-      "title": "[건강포커스] “비만수술, GLP-1 약물보다 심혈관질환·사망 예방 효과 커” - 미주한국일보",
-      "published": "2026-05-06T01:45:22+00:00",
-      "summary": "[건강포커스] “비만수술, GLP-1 약물보다 심혈관질환·사망 예방 효과 커”&nbsp;&nbsp;미주한국일보",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOTVh6bWFGLWhmbU1HRzBzVHpQRW85eHpNck9yMzlqWjhINE53T0lBVHk2aFNXcU92ZUwxUUdNbG5Ub2Q3Uy11Q2pwcUVpbUJ5dFlkSXN6QWVSenhYb2Iw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fffd2f2c0165",
-      "title": "MCI 단계에서 은행엽제제의 AD 예방치료 가능성 봤다 - 메디칼업저버",
-      "published": "2026-05-05T23:40:52+00:00",
-      "summary": "MCI 단계에서 은행엽제제의 AD 예방치료 가능성 봤다&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nZk5xQk5LRnhDR2hGWm9rMUZWVTNlQk1tR0JLSU5VcWoyNUp0dWNtX282MEFSdTY0RU5VMmYzMy1INnpwRlhTdTRCU3N0ZktUNXdmVlE5cEd2d2l3Y0I2ZHRUX3Nqd3pxVGNJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "027650e2b44b",
-      "title": "ADHD 치료제, 정신병 위험 증가 없다···아동기선 오히려 감소 가능성 - 메디칼업저버",
-      "published": "2026-05-05T21:03:46+00:00",
-      "summary": "ADHD 치료제, 정신병 위험 증가 없다···아동기선 오히려 감소 가능성&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KbDRhR24zRnhtUWdCbktIRHpMbE14UTM0VW9oeFFPYmtsSEVhWVJ4SV9PQk54Z3pwRk9yU0htT0pnc2lCRk9TejlRZGliSnhoRkN1V3JXdzBGR0J2M1ZoQWRGazhadWNVUXQ4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f6f78ed9148",
-      "title": "한국인 심혈관질환, 관리 소홀 탓 크다 - 마음건강 길",
-      "published": "2026-05-05T19:40:00+00:00",
-      "summary": "한국인 심혈관질환, 관리 소홀 탓 크다&nbsp;&nbsp;마음건강 길한국인 심혈관질환의 절반 ‘5가지 위험인자’가 가른다&nbsp;&nbsp;v.daum.net20‧30대 고지혈증 ‘빨간불’…“약 부작용 우려 말고 지속 관리해야”&nbsp;&nbsp;쿠키메디40·50대 男 ‘급사’ 주요 원인은 관상동맥질환… ‘이렇게’ 막을 수 있다&nbsp;&nbsp;헬스조선\"혈압ㆍ흡연ㆍ콜레스테롤ㆍ당뇨병ㆍ체질량지수가 심혈관질환 절반\"&nbsp;&nbsp;메디소비자뉴스",
-      "sources": [
-        {
-          "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IS1h5cENEbDBEUkNxQ2xHc3c2NkJSTUVlQXplNU5lOE9DemNlLTFlNmlVZWlkYndjUThieEMzWG9DOE1ZbnNwTVZpcjBiMExsZ0VvYXJSNDgtVzRzX2FjbjZqOTJDakxfVlHSAW5BVV95cUxPZ2JxaVVFbnFOeUFyTzRwTU5MS3hQR0RWZWNRNE12MHJTb3poRjVYMldIRGRjbmJJVXliRWF5V2lNX21Hay0tUUdBektab1dWd0RtSXgxdEFNYTFOdmVNVW9xeDEyV3loeE9Ha1E1QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "30da0176d086",
       "title": "NASA, ‘달 토양서 자원추출 기술’ 본격 개발…민간기업에 100억원 투자 - 경향신문",
       "published": "2026-05-05T04:04:00+00:00",
@@ -614,30 +674,6 @@
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1NU94N3RnVEhhUjJVOGhEckVMVDQtdy1NdWx2TEhPdjVFLWNSV3hoVGc4di1YaWYzUUVES1hkWXJxbHNvV3V0ZFhGam9xdmNhejdfZ2VsZU44Z9IBX0FVX3lxTE0wTFBzLTF5ZjJrN2szOTdWUEw2OEVmdERKOFBpenNyV3RmY045WG44bFZvTlU4U2U1ajhfRkVOYkVBY0xUajMtT0FDNnlLUUVZb3YyNk96alVXS0VlaGhj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "368ec5715e79",
-      "title": "日 연구팀, 태양과 57억㎞ 떨어진 천체서 대기 확인 - 매일경제",
-      "published": "2026-05-05T02:41:18+00:00",
-      "summary": "日 연구팀, 태양과 57억㎞ 떨어진 천체서 대기 확인&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iS0JBWF9jcGtod2d5ZkI0QTRTd3JvS0pkN3pCUHZzUGhYbV9QWFREVGVINTlhSG9YWFJRY2g3NlNKQzlxNzNnRHN1NEI2aDFIa3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "163c27af8788",
-      "title": "복잡한 반도체 자동 설계 AI 모델 개발…\"시간 최대 76%↓\" - 지디넷코리아",
-      "published": "2026-05-05T00:00:01+00:00",
-      "summary": "복잡한 반도체 자동 설계 AI 모델 개발…\"시간 최대 76%↓\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01WDZiTGFkaFd4VjUwSUNMcTZSN2c1bVdBUkhVX2E4Wm4taXNNRVFnWTN5X0JtUGkxZS1HTGZhX0UteEFjN0JZQ2I1VjdWYWxuWlJlVklB?oc=5"
         }
       ]
     }
