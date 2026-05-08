@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-08T07:46:12.960933+00:00",
-  "total_fetched": 94,
-  "unique_count": 93,
-  "health_related_count": 52,
+  "fetched_at": "2026-05-08T13:57:28.192516+00:00",
+  "total_fetched": 83,
+  "unique_count": 82,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "5f4da910d679",
+      "title": "복부비만 여성, 폐경 증상 더 심하다… “건망증·신경질에 취약” - 하이닥",
+      "published": "2026-05-08T12:00:00+00:00",
+      "summary": "복부비만 여성, 폐경 증상 더 심하다… “건망증·신경질에 취약”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzc2hFYTVRNkFXY0xRYVRIWFpzODhkZWpyemk0TEZWcmdBaWg0NHdXc3pjVmZ2ZlJmcmo4VWxaLVBqVWc1cER5dnR3Z0xmUEtFZnBzM251aFQwNmJzWGdQMWNyVTdRWF8tSGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e83e8973e14",
+      "title": "나이 들어 자꾸 빠지는 근육… 원인은 입속 '이것' 때문일 수도 - 하이닥",
+      "published": "2026-05-08T11:00:00+00:00",
+      "summary": "나이 들어 자꾸 빠지는 근육… 원인은 입속 '이것' 때문일 수도&nbsp;&nbsp;하이닥“살은 빼도 근육은 지켜라”…초고령사회, 근감소 치료 경쟁 시작&nbsp;&nbsp;약업신문\"부모님 근육 안녕하신가요\"…어버이날, '근감소증' 점검하세요&nbsp;&nbsp;v.daum.net늙으면 근육 줄어드는 이유 찾았다…‘이 유전자’ 때문&nbsp;&nbsp;동아일보‘골근감소증’ 꾸준한 치료와 단백질 섭취·근력운동 병행을&nbsp;&nbsp;국제신문",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wV21fRlpIZlZiY21zODBRY3hlOFUzNkxMODdFUWZBekNwNWpwT2RJZWdxbWlkeUotWDRTNVpubkVuUldBUUN1SXJvMjNXU0NoLW9uWWh2Y0VKYVVqb0tPajZsOUdheVNUZmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8a4cf6b76fa3",
+      "title": "\"60세 이후 인지저하 막아\" 여성 건강에 특히 좋은 식품 - 조세일보",
+      "published": "2026-05-08T10:00:00+00:00",
+      "summary": "\"60세 이후 인지저하 막아\" 여성 건강에 특히 좋은 식품&nbsp;&nbsp;조세일보뇌 건강에 좋다더니...오메가-3 섭취하는 노인, 인지 저하 더 빨랐다고?&nbsp;&nbsp;코메디닷컴치매예방을 넘어 20대 기억력 저하까지...전 생애주기로 번진 뇌건강, 뉴로웰니스&nbsp;&nbsp;kmjournal.net혈행·중성지질, 기억력 개선, 눈 건강…오메가3 함량은?&nbsp;&nbsp;데일리팜치매 막아준다던 '오메가-3', 오히려 인지 기능 저하 가속화?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBSTRYNktOQWJiWHhuQ3BfTTVZZ2VRcXhMSUJ4S25NV3dTSnhRYVdrYmI3Zl9FcjR0ellQUDJPTmZSVFA0endNZTJMNGM5SFRaaGllTUJ3MWJKc3JnNklJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53c2e119a712",
+      "title": "잠결에 주먹질...‘렘수면행동장애’ 13년 뒤 10명 중 8명 ‘치매·파킨슨병’ - 디멘시아뉴스",
+      "published": "2026-05-08T09:44:50+00:00",
+      "summary": "잠결에 주먹질...‘렘수면행동장애’ 13년 뒤 10명 중 8명 ‘치매·파킨슨병’&nbsp;&nbsp;디멘시아뉴스'욕하고 소리 지르고' 잠꼬대 웃으면서 넘겼는데…'충격'&nbsp;&nbsp;v.daum.net파킨슨병 치료, 약물만큼 운동도 중요하다…적정 강도 유지가 핵심&nbsp;&nbsp;네이트초고령사회 대한민국, 알츠하이머·파킨슨병 예방법은?&nbsp;&nbsp;이데일리잠자다 이불 킥하던 ‘변비男’…20년 뒤 ‘파킨슨병’ 징후였다&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81V21JSm9KVjg1c2JBVTFybTlBd1hEeGhmVHVPcmwtQTQwb1JXMThhdEc2bi0zU3dwczRId2RKcFhqMFZUeUVYV01Jam0zTnpSOXNXWXZqemR1c0dFaGhNakQtRkM5aW5vTFkxbjhNa29kdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "131fc0c22538",
       "title": "이 6가지 견과류를 매일 아침 먹기 시작한 후 몸에 온 변화 - 조선일보",
@@ -18,10 +66,22 @@
       ]
     },
     {
+      "id": "a3fb80bc1cc3",
+      "title": "의대생들 수면 건강 ‘적신호’ - 헬스조선",
+      "published": "2026-05-08T07:10:00+00:00",
+      "summary": "의대생들 수면 건강 ‘적신호’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56YllONktSR0tPcDhHQndmenR2eTZuaFlFaUhmOTN0bHZOWDNtMnN1b2E4U0J1dzkydTdKYkFfNGZ6eDZuY0QyLUpOeDU5bHV2TUczMVBVTk9DOTU1NGt5ZFFSdE9TdXhnY0hTOGtDSXJNa0JESVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3f4c838025c8",
       "title": "\"폐경\" 늦을수록 인지 저하율 낮아진다 - 후생신보",
       "published": "2026-05-08T06:58:00+00:00",
-      "summary": "\"폐경\" 늦을수록 인지 저하율 낮아진다&nbsp;&nbsp;후생신보[건강정보] “폐경, 방치 아닌 관리의 대상”&nbsp;&nbsp;병원신문소리 없이 무너지는 여성의 뼈, 폐경 전후 3년 ‘골밀도 골든타임’을 사수하라&nbsp;&nbsp;환경감시일보우리 부모님도 ‘갱년기’?…일상 영향 크면 호르몬 치료해야&nbsp;&nbsp;헬스경향폐경&nbsp;&nbsp;브런치",
+      "summary": "\"폐경\" 늦을수록 인지 저하율 낮아진다&nbsp;&nbsp;후생신보소리 없이 무너지는 여성의 뼈, 폐경 전후 3년 ‘골밀도 골든타임’을 사수하라&nbsp;&nbsp;환경감시일보우리 부모님도 ‘갱년기’?…일상 영향 크면 호르몬 치료해야&nbsp;&nbsp;헬스경향폐경&nbsp;&nbsp;브런치폐경 전후 3년 ‘골다공증’ 검진 골든타임&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "후생신보",
@@ -54,6 +114,18 @@
       ]
     },
     {
+      "id": "1aa28d8d86d7",
+      "title": "[전문의 칼럼] 고령화 시대, 치매 관리 어떻게 해야 할까? 전문가가 전하는 조언 - 이데일리",
+      "published": "2026-05-08T05:18:08+00:00",
+      "summary": "[전문의 칼럼] 고령화 시대, 치매 관리 어떻게 해야 할까? 전문가가 전하는 조언&nbsp;&nbsp;이데일리나이 젊어도 치매 걸린다 “이 비타민 꼭 챙겨 먹어라”&nbsp;&nbsp;중앙일보“우리 부모님, 단순 노화일까 치매일까”… ‘효도 관찰’ 포인트&nbsp;&nbsp;v.daum.net치매 환자 100만 시대… 중년부터 꾸준히 관리해야&nbsp;&nbsp;조선일보부모님 약속 자꾸 잊는다면…건망증 넘어 치매 위험?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYUZ3SzQ0VlA4dVZRejJZYmJ6YWljUHluM2JJYkcyT1JQZHVJRGpJV1VpbTBCeXZFY0RMTURsYjByaV9HNUNrQUJ2N2J2LWlIODdZUmNFaUg5T2FYMXpKT2EzZTFWbXVnOGJjX2dzU3d4VFh5SUpVVTlsWjdlbGVSMg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f0c72011776e",
       "title": "GPX4, 암을 유발하는 ‘좀비 세포(노화 세포)’의 선택적 제거에 역할 - 바이오타임즈",
       "published": "2026-05-08T03:55:46+00:00",
@@ -62,18 +134,6 @@
         {
           "name": "바이오타임즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DQVVQVVFxRTBpd08zSlhhQTR3MGdTQ3BLQ1ZkRWxiR0s5aGxMdXRnTzRRZFhfUV9OTjdkR1pUaUwyRVBLNy1Md0x2cGZvT3lveVAzNS1YdjU0VTBXSjJCVVRYZXRnQ21XREt4bQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "389059bd9f26",
-      "title": "\"항생제도 안 듣던 요로감염균 사라져\"⋯'이 주스' 마시자 내성균 발생 '뚝' - 아이뉴스24",
-      "published": "2026-05-08T02:50:02+00:00",
-      "summary": "\"항생제도 안 듣던 요로감염균 사라져\"⋯'이 주스' 마시자 내성균 발생 '뚝'&nbsp;&nbsp;아이뉴스24",
-      "sources": [
-        {
-          "name": "아이뉴스24",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zcm53YUhxRXdwYlcweFdUbXhidzZZVENwRG8wMDBRYm12R3JIYU5Fcnk2c0lsX1kweHJkc1VoS19JT3hyM3QyYXZXU2Y?oc=5"
         }
       ]
     },
@@ -102,18 +162,6 @@
       ]
     },
     {
-      "id": "516f92e2e06a",
-      "title": "우리 부모님의 ‘근력’을 돌아볼 때 - 법보신문",
-      "published": "2026-05-08T01:19:45+00:00",
-      "summary": "우리 부모님의 ‘근력’을 돌아볼 때&nbsp;&nbsp;법보신문“살은 빼도 근육은 지켜라”…초고령사회, 근감소 치료 경쟁 시작&nbsp;&nbsp;약업신문\"부모님 근육 안녕하신가요\"…어버이날, '근감소증' 점검하세요&nbsp;&nbsp;v.daum.net줄어든 것은 지방일까, 근육일까? 바이오마커와 데이터가 바꾸는 근감소증 진단 시장&nbsp;&nbsp;한국경제초고령사회 속 노인 근감소증, ‘효도재활주간보호센터’ 슬링 재활 시스템 도입&nbsp;&nbsp;브랜드경제신문",
-      "sources": [
-        {
-          "name": "법보신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmMzN2Mkd6c3lOSVVGRHRsVXJLVTAycmpKMm1rc3QyRVlHTnBPX25YVEdvSWE3alVEWXMwRFZvcS1QLTBLVTFKRmZLd2hnNTFXQ3JPU1BYZV9pcHpJM0dFRUNiN1NOWE1Q?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b24392b13114",
       "title": "소화기내과 김나영 교수 연구팀, 지방간질환, 간만의 문제 아니다 - 시사일보",
       "published": "2026-05-08T00:54:00+00:00",
@@ -134,6 +182,18 @@
         {
           "name": "뉴스토마토",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVNkhma1I2UFN4SVRoX3h1eWxydGptX0ZWZzVMZGZwd05zNk9VdGFFNlIzaGdrUDZLUzQxaHlScmVhWTFuY282RVBwd1Y5dlZjUWE4aTUyUlhfLWUwLTh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "625ab9b68965",
+      "title": "[건강포커스] \"콩류·대두 식품 많이 먹을수록 고혈압 발생 위험 줄어든다\" - 연합뉴스 한민족센터",
+      "published": "2026-05-08T00:01:59+00:00",
+      "summary": "[건강포커스] \"콩류·대두 식품 많이 먹을수록 고혈압 발생 위험 줄어든다\"&nbsp;&nbsp;연합뉴스 한민족센터",
+      "sources": [
+        {
+          "name": "연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82eTFuSFZTM203Y3p2VllVZUdKWGRPMTdwVC1rSWRKbkc0OXVxanNjXzh5c00wZHJHOGJadDNycm5mOXhtbGdtVERfRXRpTTQwQ3NpU243RTNYV3R6SXRLYVJTRnlZV3Nnb1AxZ0FWYUhKbi1O?oc=5"
         }
       ]
     },
@@ -162,6 +222,18 @@
       ]
     },
     {
+      "id": "f9b4c9c8200f",
+      "title": "[김공필 칼럼] 감염병 예방 방해하는 ‘백신 공포’ - 여성경제신문",
+      "published": "2026-05-07T23:00:27+00:00",
+      "summary": "[김공필 칼럼] 감염병 예방 방해하는 ‘백신 공포’&nbsp;&nbsp;여성경제신문",
+      "sources": [
+        {
+          "name": "여성경제신문",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41VzdRVC0tQ0YzM1poVXNOTnpONnZrZXBEVkdnbVVua1BQUC1VYnJ0V0xFMlpLbWpqV0V5dlBORXQyY2JybTZGOUdtTndkdkN1RTNGQkZXT3ZXNHJTSGVud2lNZ29FQ3hOVDRtbkl3QVRKcDTSAXdBVV95cUxNeDNZa0g1REY0cmo4bnEtWTdVODJzMlMxYThFWFN0N1JJR2Y0UVhYNWVPR1N6YTFFNjd6ZmpLTG9YTmsyNXBKZUNXWUU4WE84bFM1elRhTWZ5LUp6WnBMMW1KalJXS0czOXJiWHRJbVJLd3JXbWhLRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f746e3936676",
       "title": "“칼로리 없어 좋아했는데”… 제로 음료, 건강 위협하는 요인 4가지 - 하이닥",
       "published": "2026-05-07T23:00:00+00:00",
@@ -174,14 +246,14 @@
       ]
     },
     {
-      "id": "61a5097a0baf",
-      "title": "mRNA 기술로 결핵 백신 연구 가속…위트워터스랜드대, 쥐 실험서 T세포 보호 효과 확인 - 브랜드경제신문",
+      "id": "98c2814fa415",
+      "title": "mRNA 기술로 결핵 백신 연구 가속…위트워터스랜드대, 쥐 실험서 T세포 보호 효과 확인 - 유스연합",
       "published": "2026-05-07T22:37:03+00:00",
-      "summary": "mRNA 기술로 결핵 백신 연구 가속…위트워터스랜드대, 쥐 실험서 T세포 보호 효과 확인&nbsp;&nbsp;브랜드경제신문",
+      "summary": "mRNA 기술로 결핵 백신 연구 가속…위트워터스랜드대, 쥐 실험서 T세포 보호 효과 확인&nbsp;&nbsp;유스연합",
       "sources": [
         {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wUnNDaUxpS2ZScnFVa2ZsMmVkemtpNXBFNE1pNWFrSmlTcmFKaFJoMEF0cGpkc25oNUgxbFF1RkZXX01GcEJGUkFuaEI?oc=5"
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2RG1wT0l6aXlZM1VUajlKT0xGWTBvWUhVYkdWdDhRc3JESElWdEttOHZKYVdaSWdNaUVMOUlYeHVObTIxV2wtZmtmU3pMRWhBdVE?oc=5"
         }
       ]
     },
@@ -210,38 +282,26 @@
       ]
     },
     {
-      "id": "c5a08a9b11f9",
-      "title": "\"당뇨약보다 낫네\"… 맨발로 두 달 걸었더니 혈당 500 → 정상 [Weekend 헬스] - 파이낸셜뉴스",
-      "published": "2026-05-07T19:30:00+00:00",
-      "summary": "\"당뇨약보다 낫네\"… 맨발로 두 달 걸었더니 혈당 500 → 정상 [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wcmpsSHdYWUkxbTJNS3VONFhVSEpIbnlOcDg2MTB3Wjg3OEF1b3BzTTNwU2llQ0tVRzFDaWJESm01bzlQc0w0R3hEbFVqbXF6dGNLc2ZsWElXUdIBXkFVX3lxTE1fX1RBRnpsWHVULTNXMUZ3clhaQTFpM0wxS2s0TkhNZjZFWTNwcTEtczI0bVZFYnFhUl9ickdWZ2ROblIzYlhUOTFVS1IyOE9WaTlHUklVc0VMZi1rZ3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0fd2e1473114",
-      "title": "폐경 후 ‘뱃살’이 위험한 이유… 건망증·불면 악화 - 헬스조선",
-      "published": "2026-05-07T16:40:00+00:00",
-      "summary": "폐경 후 ‘뱃살’이 위험한 이유… 건망증·불면 악화&nbsp;&nbsp;헬스조선뱃살 막고, 줄이는 효과 있어...복부 지방 없애는 데 좋은 뜻밖의 식품&nbsp;&nbsp;코메디닷컴당신의 체중계가 말해주지 않는 '침묵의 살인자' 내장지방&nbsp;&nbsp;브랜드경제신문[오늘의 채널A]내장지방 태우기, 식후 3시간이 ‘골든타임’&nbsp;&nbsp;동아일보[헬스&라이프] 뱃살 방치하면 ‘대사증후군’…미용·건강 모두 잡는 ‘한접시 식단’&nbsp;&nbsp;디지털데일리",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KaUtpdWdTcldUZGptT1BsZ3RidGxwV2JGY0duUTBnMGVJRmxvTk51QWlNNjBmNFlpdHhwMVladW9ESERFNXdSbnpwWkRfWHFKb1U4YlNxcXJja1ZUZDVUWWxGRnBnU0VWRzFRQUFNVGJnWWtCTXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6ce62d00e66",
-      "title": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진 - nwww.newsis.com",
+      "id": "5c28094ccb58",
+      "title": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진 - 뉴시스",
       "published": "2026-05-07T10:05:00+00:00",
-      "summary": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진&nbsp;&nbsp;nwww.newsis.com",
+      "summary": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진&nbsp;&nbsp;뉴시스",
       "sources": [
         {
-          "name": "nwww.newsis.com",
+          "name": "뉴시스",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PVGZyMjdnVHhLeXdpWm9sZmFOQ1F5VThHc3VLQ1VGRkd0MUtHWDhaNWlIN2s3aWF2NWVPNEllVy1kUVFuYXFTekhSbkJQbGVJbjhJZ2x0ZHlJRExZdE1ETmpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad41eff53e6a",
+      "title": "“하루 3회 이상 양치하면 치매 위험 20% 줄어든다” - 국민일보",
+      "published": "2026-05-07T09:14:00+00:00",
+      "summary": "“하루 3회 이상 양치하면 치매 위험 20% 줄어든다”&nbsp;&nbsp;국민일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkLXVnQzB0Q29zMVlqS2dGaDhfVldITjVUYzRzWUJONHJJVE41eW1ieG1VSUt1aE5XZ1I4YVRLSzV4dkJPa1VlMk5md2hvYUZfWm1MdlhJa3BqM2NsRkpsY2FnTGt4SGvSAWxBVV95cUxPWGZ5Nmctd1l6OHFfWHZNbHhlMkpZZmh5T3l6RUxvUGE5WjhsZ3UzTXUzT0laV0w1VkJ3dlhuZ2FKdU5BaWdwSWloZ2pmbFcyTGNkUWJWMW5SMXlZSmhlUjlkR3kzbHV6TUJCQno?oc=5"
         }
       ]
     },
@@ -254,18 +314,6 @@
         {
           "name": "보건신문",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PWEg2czU1NGRkX2dXR0FEM2lrSW5GUGxTeTd6NFVzY2Q3dW9mdzVDTkVHcUlBcFprbXhUMDN0cFZMelRwdUJxZVFWOU5kcTBRTFFYenJfQTBEWDZPSm1SZGhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd43ec69e200",
-      "title": "뇌 건강에 좋다더니...오메가-3 섭취하는 노인, 인지 저하 더 빨랐다고? - 코메디닷컴",
-      "published": "2026-05-07T08:06:00+00:00",
-      "summary": "뇌 건강에 좋다더니...오메가-3 섭취하는 노인, 인지 저하 더 빨랐다고?&nbsp;&nbsp;코메디닷컴치매예방을 넘어 20대 기억력 저하까지...전 생애주기로 번진 뇌건강, 뉴로웰니스&nbsp;&nbsp;kmjournal.net혈행·중성지질, 기억력 개선, 눈 건강…오메가3 함량은?&nbsp;&nbsp;데일리팜치매 막아준다던 '오메가-3', 오히려 인지 기능 저하 가속화?&nbsp;&nbsp;네이트오메가-3 보충제가 많은 사람들이 생각하는 것보다 뇌에 더 해로울 수 있을까요?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5YRkVrakpHSmpxelM0RHNLZGx2NFF1MlJxQkVrTUd6b2UwdTM1bmtLZFctNGQyU3I2eGlRRHQzRmhRUQ?oc=5"
         }
       ]
     },
@@ -290,18 +338,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QRUN1UGFQTmV5d2EwSEVIaVJXLWFRNmRfdHl3RGpGdFlXTDF1Y0I4TzFLWU1TaDFkMTc0NEluRVYyQXpsWWxHbTM0eUhxYzJJdTM5LQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0b5519e950a",
-      "title": "하루 3회 양치질, 치매 위험 줄인다 - 동아사이언스",
-      "published": "2026-05-07T06:44:00+00:00",
-      "summary": "하루 3회 양치질, 치매 위험 줄인다&nbsp;&nbsp;동아사이언스“하루 3회 이상 양치하면 치매 위험 20% 줄어든다”&nbsp;&nbsp;v.daum.net양치 습관 변화, 치매 위험 바꾼다… ‘하루 3회 이상’ 늘리면 위험 감소&nbsp;&nbsp;BRIC“양치 횟수 감소가 신호였다”…서울대 연구팀, 치매 연관성 장기 분석&nbsp;&nbsp;디멘시아뉴스서울대, 양치 습관 변화-치매 위험 바꾼다… ‘하루 3회 이상’ 늘리면 위험 감소&nbsp;&nbsp;에듀진 인터넷 교육신문",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0Y3BDRkVZT05vaC1sMEIwbk9ldlRTcnpEcEpSczZId3luUmlBN3FHTEJ2VUVjZnlKWGR1ZnhwTGVnUDRYbnVBd1hiaEY5d2I2WlpOWQ?oc=5"
         }
       ]
     },
@@ -402,30 +438,6 @@
       ]
     },
     {
-      "id": "c4c09eddc194",
-      "title": "치매 환자 100만 시대… 중년부터 꾸준히 관리해야 - 헬스조선",
-      "published": "2026-05-07T00:37:00+00:00",
-      "summary": "치매 환자 100만 시대… 중년부터 꾸준히 관리해야&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DLUtWd3R6WkNNdlZZbW1WaU9PaGlBVHJCOGJRYTdpN1prM1lBTjhtMmhpOGRuMzdBOV9sX0lNQ1NWV002X0dvbFk1a1puVkxjZ051QmJ6eUJTZV8zeC1JVGU3OEFpYnR6RnFyTkU5WUJWVlBzd0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df59c00c4382",
-      "title": "먹는 비만약, 배고픔만 줄이는 게 아니었다… ‘식탐 도파민’도 낮췄다 - 조선일보",
-      "published": "2026-05-07T00:36:00+00:00",
-      "summary": "먹는 비만약, 배고픔만 줄이는 게 아니었다… ‘식탐 도파민’도 낮췄다&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdl9NSW1hb2xHWDRDbzRNV2luNDFxMlBnMDNnaGFPOXhoVlQ2NmFhNXBhR3FaYldBY29BRTBPQXBtSXlpSVNMUVJGRmRRUUszTzlkZ2F5Z0V2MFlneUFISDVRNjJCNGlJWUpuRUlWdzlacHN3RG1zcGlQVzhrd0JuTTc3cw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1f045a456f5b",
       "title": "후생유전적 변화로 췌장암 전이시키는 'KLF5' - 후생신보",
       "published": "2026-05-07T00:09:00+00:00",
@@ -434,30 +446,6 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlWVBGNGlsbHM2V2FrZk1jVDFHNm1JdnlJSC1mUjFGSkNLNlVGTHY1NHBKYTYzN2FxSVVXeWgxYjZXNWdT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1de579305d70",
-      "title": "여성 류마티스 관절염, 출산 횟수와 비만·흡연이 위험 좌우한다 - 네이트",
-      "published": "2026-05-06T23:56:00+00:00",
-      "summary": "여성 류마티스 관절염, 출산 횟수와 비만·흡연이 위험 좌우한다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyeXl3QUZwdUZHN0NrYmpTM3Y0Q3hjelRTTEhIdEN3ZldYVTloRlRpZGJNeDZIU3NWektTUnBzZWtrTUJ2V2JrZVItazNUakhraUdr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54cc119bf5ca",
-      "title": "소아 음식 알레르기, 프로바이오틱스 보완 요법으로 희망 찾다 - 한국AI부동산신문",
-      "published": "2026-05-06T22:21:22+00:00",
-      "summary": "소아 음식 알레르기, 프로바이오틱스 보완 요법으로 희망 찾다&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2anRGZ2lIR3JlY3ZpejktaTBUelpnSUhTQUlCZGphNHkxaERvVGRTTnRMNEk0eUxiVVBsMzNYb2tSY2h4TldDaDUxNEY?oc=5"
         }
       ]
     },
@@ -510,42 +498,6 @@
       ]
     },
     {
-      "id": "025bd3fc500e",
-      "title": "“에이즈 치료 후, 최대 60%는 뇌 손상 겪는다”... 뇌 속 숨은 바이러스 때문 - 하이닥",
-      "published": "2026-05-06T12:00:00+00:00",
-      "summary": "“에이즈 치료 후, 최대 60%는 뇌 손상 겪는다”... 뇌 속 숨은 바이러스 때문&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJU21uMjJ3bFhxbGYzdWlSTW9vbWQ0dk5qbS1HWEJXckZJMldjVW4yRXJmVENTQU5LdGVFWGZXeVN4MlJxZ1NPd2lydHIxcTJDSW92RXFvaE9mdlhicF95WmVUU21OMGphSUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "db5160f1a6bb",
-      "title": "당뇨병 환자에게 ‘저녁 운동’이 더 이로운 이유 - 헬스조선",
-      "published": "2026-05-06T12:00:00+00:00",
-      "summary": "당뇨병 환자에게 ‘저녁 운동’이 더 이로운 이유&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBic1BnVi14cFh4ZjRhTnU5RWJ5cFpNbU1aakVocWM1eEVHVTdWNXZaTzRIUTVLajNESF9mWHJWcTlOY0xTTFVWVFFNSWxjekJ2aDBVTThndDBHNFhuWDFHUjFHamlubEZZaU5NOHNseUVla3ctRWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6824e04b1db3",
-      "title": "서울대, 인슐린 저항성 직접 겨냥한 당뇨병 치료 후보물질 동물실험서 효과 확인 - 브랜드경제신문",
-      "published": "2026-05-06T08:50:16+00:00",
-      "summary": "서울대, 인슐린 저항성 직접 겨냥한 당뇨병 치료 후보물질 동물실험서 효과 확인&nbsp;&nbsp;브랜드경제신문",
-      "sources": [
-        {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zeXJMTnFvVWgwRkZSdWkza1lSRmNhYVhBVkN1WXU4Y1pXOC1STlJNUXFJSVRsTUQ0V3BpUHo2aFVUOHdNWXlUV2gwMG0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ac52ee3c7ab7",
       "title": "손상된 뼈 회복 촉진…미토콘드리아 활용 재생치료 길 열었다 - 서울경제",
       "published": "2026-05-06T08:42:42+00:00",
@@ -554,42 +506,6 @@
         {
           "name": "서울경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fb1lNNHM3MUoyemhXR2s2RjJ6YTVnNHB0U193R05BQUktdlZNXzlfTVp1c0VoTzlxNUQ0UUhBc29UVDFral9MOFVKbWh0YVdyRmfSAVNBVV95cUxNMWFmNDVRRGY3RWNQbkNZMEV2TGxuSGtnUE53TDdPUXlsQ09nc0hLVTJITUZoWUVBV2hNQjgyOGtVT0lIeXJuYmRYMlBUNXJtMmp5SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7516090aee2",
-      "title": "[건강정보]알츠하이머·파킨슨병, 관리가 핵심 - 병원신문",
-      "published": "2026-05-06T08:25:44+00:00",
-      "summary": "[건강정보]알츠하이머·파킨슨병, 관리가 핵심&nbsp;&nbsp;병원신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zRWNLTVFVZ1B3VUJvWGZvU1A1UGE4N1ZfYVh1SWNndzB6Y0RYek1TZFcxT25qd0hEVVpFdTlSSXNjRmxwQlh3M0Z5YWpIR0xpT0c3VUg3LXhrUVNuMXFwUDRPY0g?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "063eef9fb237",
-      "title": "'나의 접종이 가족의 방패'…'코쿠닝 효과'란? - 보건신문",
-      "published": "2026-05-06T07:28:48+00:00",
-      "summary": "'나의 접종이 가족의 방패'…'코쿠닝 효과'란?&nbsp;&nbsp;보건신문",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RQjZIS21PUXpzOElFMjZZS0RnVzQ1d195OExhTFUxUVUtT2REb3oyMElUZ2FDZmExdlF4cWtTZHhXTW11UXJHczRVRElEdTNOMHJ5di1sN3hoaGQtcGZGaEVTZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fba5f75f4d9a",
-      "title": "옵티팜, 수족구병 백신 국책과제 수주… “VLP 기반 2가 백신 개발\" - 스마트경제",
-      "published": "2026-05-06T07:25:00+00:00",
-      "summary": "옵티팜, 수족구병 백신 국책과제 수주… “VLP 기반 2가 백신 개발\"&nbsp;&nbsp;스마트경제Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "스마트경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzWDRDZzVkbDA5OFZ1MmNtbUpIVG5RSkNDRTI2NGplSm5WYndCVzlGMnFMTWFpU2VuX2tsUFdEbGU5anNsb3k4ZWdiVU5mWklMZEw1U2ZTOHlJY2thbXdFems5SG5uWk90b0JMV1ZUbw?oc=5"
         }
       ]
     },
@@ -614,18 +530,6 @@
         {
           "name": "IT조선",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xN3MxNmFrc2k2dFlXOUhDZExzMmxyaU5iSnNtbEktM1ZfZlU3dWpGdUpnUXBJSGkzT2gwbmFpM1dIVFJkVUJvVWJ5UnphYkVmc2pwaXdJYVJBZVBjZDVqcC03WXBBYUVZZHh3TUhxVlbSAXRBVV95cUxQbDZGWjVxenlSYTZERWV5cEZ5M3YzMXh3MmJNbFVsV3JCeHBWcXJPQWt1b1ZlbUtNYmVuZmRCTnU2SGRwdm5iQ3NXM0FYR0RtVXAtZDI1TmFhMUZFYklkdjQwZF9RUzFQYzVrM1F6TU5FczZFcQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "92f66c8cf351",
-      "title": "수천 년 걸리던 난제, 반도체로 푼다...KAIST '아이징 머신' 개발 - 동아사이언스",
-      "published": "2026-05-06T02:04:00+00:00",
-      "summary": "수천 년 걸리던 난제, 반도체로 푼다...KAIST '아이징 머신' 개발&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XZFNsaFd1U2dFLTBEcUpqYXBKanN2X0VyRVVlQXNIMWY4Z29VT3JIYTgxc1RRVG1aTXV6TEZBdm9wd2M1QVZmWXphT2ZzTWtpOFAxcA?oc=5"
         }
       ]
     }
