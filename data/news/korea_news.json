@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-09T08:00:31.527325+00:00",
-  "total_fetched": 70,
-  "unique_count": 69,
-  "health_related_count": 42,
+  "fetched_at": "2026-05-09T13:24:12.582444+00:00",
+  "total_fetched": 67,
+  "unique_count": 66,
+  "health_related_count": 41,
   "news": [
+    {
+      "id": "b2f30a534aed",
+      "title": "“대장암 위험 확 오른다”… 주방에서 하는 ‘이 행동’ 주의 - 헬스조선",
+      "published": "2026-05-09T10:23:35+00:00",
+      "summary": "“대장암 위험 확 오른다”… 주방에서 하는 ‘이 행동’ 주의&nbsp;&nbsp;헬스조선내과 전문의 추천, 대장암 예방에 도움되는 과일 5가지&nbsp;&nbsp;하이닥“대장암 예방 효과” 장 건강에 좋은 과일 5가지… 뭘까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reUxWRHNRSGtSOXRIZ3Z4OElsM092ZFpfa2h0UE5wU3ZIWkVFY0NlbXRLUEFlRGs2Uk9nUVpvUThDcmdtaS1BcGhRZVYwZHdTZFNlSV94b0RaVlhQeWJfRmhWbVFCMVZSM1ZTTmFUS3ZTcVpiR1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6256d488ba78",
+      "title": "나이 들어 허약해진 사람, 흔한 ‘이 음식’ 꼭 먹어라 - 헬스조선",
+      "published": "2026-05-09T10:02:00+00:00",
+      "summary": "나이 들어 허약해진 사람, 흔한 ‘이 음식’ 꼭 먹어라&nbsp;&nbsp;헬스조선[오상우의 내 몸 사용 교과서] 열심히 운동해도 근육이 안 붙는 이유&nbsp;&nbsp;v.daum.net\"나이 들수록 꼭 챙겨야\"⋯적게 먹어도 근육 늘게 하는 노란 '이 음식'&nbsp;&nbsp;네이트계란 부럽지 않은, 단백질 함량이 높은 ‘의외의 식품’은?&nbsp;&nbsp;레이디경향[내 몸을 바꾸는 영양소 ①] “단백질 많이 먹을수록 좋다?”…고단백 열풍의 진실&nbsp;&nbsp;푸드투데이",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWdE90UTM5WWxRb3NaR1NFN01vRTd6OTRsaGp6SGFFVkNxYS1nNFFaRDM3cHREc3FNek1lazktWW9yWUtWWDVLREQ5akNsaDNJQThqVmdGZk4zaUNGTElsZmpkSDU3a29zc08tb1ZKM1dud1JuY1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae5252e392f6",
+      "title": "근력 vs 손아귀 힘 vs 걷는 속도…뇌졸중에 가장 큰 영향 미치는 것은? - 코메디닷컴",
+      "published": "2026-05-09T09:01:00+00:00",
+      "summary": "근력 vs 손아귀 힘 vs 걷는 속도…뇌졸중에 가장 큰 영향 미치는 것은?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1OY3QwdzFzazdJSVcxMHEwd0FPNlNRTHV6YXhDV1hxSklyejRJalVuV1pUWm1Zal9CSUJZNFg1a2VPdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "577ebbbab168",
+      "title": "'지방간질환과 소장 염증의 숨겨진 연결고리 밝혀졌다' - 이데일리",
+      "published": "2026-05-09T05:08:02+00:00",
+      "summary": "'지방간질환과 소장 염증의 숨겨진 연결고리 밝혀졌다'&nbsp;&nbsp;이데일리분당서울대병원 “지방간질환, 소장 염증·장내미생물 불균형과 연관”&nbsp;&nbsp;로이슈술 안 마시는 사람 ‘지방간’엔...포도·석류·호두·베리류가 ‘직방’?&nbsp;&nbsp;코메디닷컴비알코올성 지방간 있으면 신장암 위험 1.5배 높아&nbsp;&nbsp;hidomin.com똑같이 먹었는데 나만 지방간…\"이유는 '이것' 때문\"&nbsp;&nbsp;newsis.com",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdktQeFVQMHBGVmQwSGVfSDR0WmxzZUI1a3Byc1NxRW9ySDc0MWxRN1B0SEFMaGtPVjl4M0NrcE9xZTlqQUFHS1JvLUhvUDBHM2RXOTc5cU5tSjduYmdPRGZGd0tBZlh5VVZtV1RLS1VyMmJCV1dRQTdITVI2SUNqaw?oc=5"
+        }
+      ]
+    },
     {
       "id": "3e06e31392f0",
       "title": "\"전이된 암, 항암 안 하는데 10년째 그대로\"… 속도 억누르는 요인, 뭘까? - 코메디닷컴",
@@ -42,6 +90,18 @@
       ]
     },
     {
+      "id": "2f72e82e2552",
+      "title": "\"뚱보 쥐, 장 튼튼해지자 날씬이로 변신\"…건강하게 살 빼는 법[한 장으로 보는 건강] - 네이트",
+      "published": "2026-05-09T02:00:00+00:00",
+      "summary": "\"뚱보 쥐, 장 튼튼해지자 날씬이로 변신\"…건강하게 살 빼는 법[한 장으로 보는 건강]&nbsp;&nbsp;네이트\"물만 먹어도 살쪄요\"…혹시 장속 '이 물질' 때문?&nbsp;&nbsp;newsis.com“장내 미생물 유래 물질, 뇌 통해 체중·혈당 조절한다”&nbsp;&nbsp;v.daum.net\"뚱보 쥐, 장 튼튼해지자 날씬이로 변신\"…건강하게 살 빼는 법[한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이건강한 장내미생물 구성이 파킨슨병 예방한다&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYmhtbEJxZ1ZOLWtpajJMUWdURUtRbnVhU1JENEVfYmpHYW1BOFVrTEVhX240MFB5dGFvZ1FtY3dRRXVWRU85dVdmejdTcDUzYUE0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e8d52bbd23ab",
       "title": "한세기 동안 지구를 대신해 말해온 ‘발견과 상실’의 목소리 - 한겨레",
       "published": "2026-05-09T01:10:00+00:00",
@@ -62,6 +122,18 @@
         {
           "name": "의학신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1V0MtazBNdjlsVnJQaVFhREdMcTdreFo4Q21ydmxYcE05U1BPRzVldG5EcC1ibFNldGd0WW9NcUFTMWtnVVA0RHlVcWIxQVRuNEdkdVFWOGl3R05iN2hTT2FCd0dBQjdrVmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8b2c5296113",
+      "title": "인공 감미료의 숨겨진 위험: '제로 슈거' 열풍 속 뇌 노화 가속 가능성 - 유스연합",
+      "published": "2026-05-08T21:54:28+00:00",
+      "summary": "인공 감미료의 숨겨진 위험: '제로 슈거' 열풍 속 뇌 노화 가속 가능성&nbsp;&nbsp;유스연합Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCZFptZVJuNUFwSllWczJqQm82QmtIcmtlWVFHN3JkQUZfNHNjNjlYSmhCNGE0WDRyeExQajJadS0zdUZBVERiQ1ZHektwTmhMR1E?oc=5"
         }
       ]
     },
@@ -126,18 +198,6 @@
       ]
     },
     {
-      "id": "8a4cf6b76fa3",
-      "title": "\"60세 이후 인지저하 막아\" 여성 건강에 특히 좋은 식품 - 조세일보",
-      "published": "2026-05-08T10:00:00+00:00",
-      "summary": "\"60세 이후 인지저하 막아\" 여성 건강에 특히 좋은 식품&nbsp;&nbsp;조세일보뇌 건강에 좋다더니...오메가-3 섭취하는 노인, 인지 저하 더 빨랐다고?&nbsp;&nbsp;코메디닷컴디지털 과부하 시대의 뇌 건강: 장-뇌 연결과 신경 조절 환경이 답이다&nbsp;&nbsp;브랜드경제신문치매예방을 넘어 20대 기억력 저하까지...전 생애주기로 번진 뇌건강, 뉴로웰니스&nbsp;&nbsp;kmjournal.net혈행·중성지질, 기억력 개선, 눈 건강…오메가3 함량은?&nbsp;&nbsp;데일리팜",
-      "sources": [
-        {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBSTRYNktOQWJiWHhuQ3BfTTVZZ2VRcXhMSUJ4S25NV3dTSnhRYVdrYmI3Zl9FcjR0ellQUDJPTmZSVFA0endNZTJMNGM5SFRaaGllTUJ3MWJKc3JnNklJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "131fc0c22538",
       "title": "이 6가지 견과류를 매일 아침 먹기 시작한 후 몸에 온 변화 - 조선일보",
       "published": "2026-05-08T07:22:00+00:00",
@@ -165,7 +225,7 @@
       "id": "c06b37942dfc",
       "title": "한 번의 낙상도 위험한 파킨슨병, \"AI가 미리 감지\" - 여수교차로",
       "published": "2026-05-08T07:03:58+00:00",
-      "summary": "한 번의 낙상도 위험한 파킨슨병, \"AI가 미리 감지\"&nbsp;&nbsp;여수교차로한 번의 낙상도 위험한 파킨슨병…\"AI가 미리 감지\"&nbsp;&nbsp;newsis.com[의학바이오게시판] 파킨슨병 환자 '낙상 위험' AI로 예측 外&nbsp;&nbsp;v.daum.net삼성서울병원 연구팀, AI 기반 파킨슨병 낙상 위험 예측 모델 개발&nbsp;&nbsp;로이슈파킨슨병 '낙상 위험' AI로 잡는다…삼성서울병원, 조기예측 모델 개발 - 머니투데이&nbsp;&nbsp;머니투데이",
+      "summary": "한 번의 낙상도 위험한 파킨슨병, \"AI가 미리 감지\"&nbsp;&nbsp;여수교차로한 번의 낙상도 위험한 파킨슨병…\"AI가 미리 감지\"&nbsp;&nbsp;newsis.com[의학바이오게시판] 파킨슨병 환자 '낙상 위험' AI로 예측 外&nbsp;&nbsp;v.daum.net파킨슨병 '낙상 위험' AI로 잡는다…삼성서울병원, 조기예측 모델 개발 - 머니투데이&nbsp;&nbsp;머니투데이파킨슨병환자 낙상위험…AI로 예측하는 시대 ‘눈앞’&nbsp;&nbsp;헬스경향",
       "sources": [
         {
           "name": "여수교차로",
@@ -177,11 +237,35 @@
       "id": "3f4c838025c8",
       "title": "\"폐경\" 늦을수록 인지 저하율 낮아진다 - 후생신보",
       "published": "2026-05-08T06:58:00+00:00",
-      "summary": "\"폐경\" 늦을수록 인지 저하율 낮아진다&nbsp;&nbsp;후생신보소리 없이 무너지는 여성의 뼈, 폐경 전후 3년 ‘골밀도 골든타임’을 사수하라&nbsp;&nbsp;환경감시일보우리 부모님도 ‘갱년기’?…일상 영향 크면 호르몬 치료해야&nbsp;&nbsp;헬스경향폐경&nbsp;&nbsp;브런치폐경 전후 3년 ‘골다공증’ 검진 골든타임&nbsp;&nbsp;세계일보",
+      "summary": "\"폐경\" 늦을수록 인지 저하율 낮아진다&nbsp;&nbsp;후생신보우리 부모님도 ‘갱년기’?…일상 영향 크면 호르몬 치료해야&nbsp;&nbsp;헬스경향폐경&nbsp;&nbsp;브런치폐경 전후 3년 ‘골다공증’ 검진 골든타임&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA5WEhsOTM1N25kN3VTZGR4a21mMDdKQVRKMmktaXJkdU5XQnpNSk54eGRTdXhnSDM5UmxvX3NKRUE0eFpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eeb8449703b7",
+      "title": "S25 사전예약 수천 건 일방 취소한 KT에 과징금 6억4000만 원 - 미디어오늘",
+      "published": "2026-05-08T06:42:39+00:00",
+      "summary": "S25 사전예약 수천 건 일방 취소한 KT에 과징금 6억4000만 원&nbsp;&nbsp;미디어오늘",
+      "sources": [
+        {
+          "name": "미디어오늘",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51OF85MDFYQzlXSzBlN29peFhVYTJjTnp4OUVtc3ozME5WbFdNSFF3YjdkMTlrcnVKNzNxcGRCUW43UWNYTVFUN2FzX29ncVg2ek14N2JDUU5mdUtBejhKeFdwbHU5RERaZmgwNGhxWXE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d38c015d495c",
+      "title": "여름 시작! 실내서 모기에게 물리지 않는 3단계 꿀팁→--건강 - 인민넷",
+      "published": "2026-05-08T06:36:00+00:00",
+      "summary": "여름 시작! 실내서 모기에게 물리지 않는 3단계 꿀팁→--건강&nbsp;&nbsp;인민넷정약용부터 이수지까지…인류 숙적 모기의 '진짜 정보' 파헤치기&nbsp;&nbsp;네이트“왜 나만?” 모기에 유독 잘 물리는 사람…‘이 액체’ 하나면 고민 해결?&nbsp;&nbsp;코메디닷컴정약용부터 이수지까지…인류 숙적 모기의 ‘진짜 정보’ 파헤치기&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PeDNudkNDN1BybEhWdGdSMkhZbFJzdnVzU3ZaR3VDc1hYaFI1R0pmYThEUmNSamdaeHdxcUhWVmV0eVJXZmtxeEd5Zld0WXBKbWxkLV95bklyMTlBaHpjSkYzeHRyLXpNZ0MxMUJB?oc=5"
         }
       ]
     },
@@ -270,18 +354,6 @@
       ]
     },
     {
-      "id": "b24392b13114",
-      "title": "소화기내과 김나영 교수 연구팀, 지방간질환, 간만의 문제 아니다 - 시사일보",
-      "published": "2026-05-08T00:54:00+00:00",
-      "summary": "소화기내과 김나영 교수 연구팀, 지방간질환, 간만의 문제 아니다&nbsp;&nbsp;시사일보3명 중 1명이 앓는 ‘지방간’···간 때문만은 아니었다?&nbsp;&nbsp;v.daum.net분당서울대병원 “지방간질환, 소장 염증·장내미생물 불균형과 연관”&nbsp;&nbsp;로이슈술 안 마시는 사람 ‘지방간’엔...포도·석류·호두·베리류가 ‘직방’?&nbsp;&nbsp;코메디닷컴똑같이 먹었는데 나만 지방간…\"이유는 '이것' 때문\"&nbsp;&nbsp;newsis.com",
-      "sources": [
-        {
-          "name": "시사일보",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wMWNWN2tNY09rc2RELXJ5eUFmTzVkRUJacW80VXNUNHRrWWlXeFJYY0d2cmtDOWo1NW80Mjh5aUVtMXVNZ183NzU0U3U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "227b764ea3c5",
       "title": "저렴하고 안전한 아미노산 '아르기닌', 알츠하이머 치료 새로운 희망 - 뉴스토마토",
       "published": "2026-05-08T00:46:09+00:00",
@@ -290,18 +362,6 @@
         {
           "name": "뉴스토마토",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IeW5LNWtHVDMxdW51bGRBYUZiUEVVM2VYUURsc1pZMlRqUHU4NFZic0hsU1pCWkhLNHZVQVA4cVNlTlJpTkk2TEJTbFdHdDVWcWVPNmVQRzVLZmRwZ1pDTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "625ab9b68965",
-      "title": "[건강포커스] \"콩류·대두 식품 많이 먹을수록 고혈압 발생 위험 줄어든다\" - 연합뉴스 한민족센터",
-      "published": "2026-05-08T00:01:59+00:00",
-      "summary": "[건강포커스] \"콩류·대두 식품 많이 먹을수록 고혈압 발생 위험 줄어든다\"&nbsp;&nbsp;연합뉴스 한민족센터콩·두부 많이 먹은 사람들… 고혈압 위험 ‘뚝’[노화설계]&nbsp;&nbsp;v.daum.net“고혈압 막아준다”… 흔한 ‘이것’ 많이 먹으라던데?&nbsp;&nbsp;헬스조선고혈압 막는 식탁 위 마법?…매일 대두 60~80g·콩류 170g 섭취가 최적&nbsp;&nbsp;네이트“쉽게 구할 수 있는데”…‘이것’ 자주 먹었더니 고혈압 위험 뚝&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "연합뉴스 한민족센터",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82eTFuSFZTM203Y3p2VllVZUdKWGRPMTdwVC1rSWRKbkc0OXVxanNjXzh5c00wZHJHOGJadDNycm5mOXhtbGdtVERfRXRpTTQwQ3NpU243RTNYV3R6SXRLYVJTRnlZV3Nnb1AxZ0FWYUhKbi1O?oc=5"
         }
       ]
     },
@@ -342,18 +402,6 @@
       ]
     },
     {
-      "id": "8b5879bac9ef",
-      "title": "연세치대 김기우 교수팀... \"장내 미생물이 만든 '부티르산', 살 빼고 혈당 떨어뜨려\" - 덴탈아카이브",
-      "published": "2026-05-07T22:48:00+00:00",
-      "summary": "연세치대 김기우 교수팀... \"장내 미생물이 만든 '부티르산', 살 빼고 혈당 떨어뜨려\"&nbsp;&nbsp;덴탈아카이브“장내 미생물 유래 물질, 뇌 통해 체중·혈당 조절한다”&nbsp;&nbsp;v.daum.net\"뚱보 쥐, 장 튼튼해지자 날씬이로 변신\"…건강하게 살 빼는 법[한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이건강한 장내미생물 구성이 파킨슨병 예방한다&nbsp;&nbsp;동아일보살 빠지는 스위치 찾았다…장내 미생물→뇌 연결고리 규명&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "덴탈아카이브",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4X3Z3MjdhZEllUHFaRVktRVFWWWtrQm5zd1JVVTBHazdYNTk0VkZXR21yVGQ4ay03dFhPRHgweGtnUzFTOXhqNnNSN2p3UERnUHd1M09GSHE0Y0V2UVpLLU85d0xUNzdxOXNxUmh3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "98c2814fa415",
       "title": "mRNA 기술로 결핵 백신 연구 가속…위트워터스랜드대, 쥐 실험서 T세포 보호 효과 확인 - 유스연합",
       "published": "2026-05-07T22:37:03+00:00",
@@ -362,18 +410,6 @@
         {
           "name": "유스연합",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2RG1wT0l6aXlZM1VUajlKT0xGWTBvWUhVYkdWdDhRc3JESElWdEttOHZKYVdaSWdNaUVMOUlYeHVObTIxV2wtZmtmU3pMRWhBdVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2e4f26dcf18c",
-      "title": "초고령사회 대한민국, 알츠하이머·파킨슨병 예방법은? - 이데일리",
-      "published": "2026-05-07T22:18:02+00:00",
-      "summary": "초고령사회 대한민국, 알츠하이머·파킨슨병 예방법은?&nbsp;&nbsp;이데일리'욕하고 소리 지르고' 잠꼬대 웃으면서 넘겼는데…'충격'&nbsp;&nbsp;v.daum.net알츠하이머병 초기 기억력 저하, '해마'보다 '내후각 피질'이 중요 역할&nbsp;&nbsp;바이오타임즈파킨슨병 치료, 약물만큼 운동도 중요하다…적정 강도 유지가 핵심&nbsp;&nbsp;네이트기억력 저하 신호, 50대 후반부터 급증... “알츠하이머 검진 앞당겨야”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONGJRN1dSQzZ6UVo3Y0RLNlRIYmdiUmF3RW9xV1Mxa0RNWl9QdVVwcE8xNWJiSmNfUlpCbzdUVFJKd2FyLUcyZVo2OW1uQnRicmpKZW5LOGhZNWRKam1zQ3A0MmV5SGxKeGQ0RXZQVGlNaVFob2MyZ1NIa2dUNUppeg?oc=5"
         }
       ]
     },
@@ -402,38 +438,14 @@
       ]
     },
     {
-      "id": "3ac8e16d22a3",
-      "title": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진 - 네이트",
-      "published": "2026-05-07T10:05:00+00:00",
-      "summary": "\"태국 박쥐서 코로나19 유사 바이러스 발견\" 日연구진&nbsp;&nbsp;네이트",
+      "id": "9a3513a21b2d",
+      "title": "\"인간한테도 옮긴다\"…태국 박쥐서 '코로나19 사촌' 발견, 독성 정도는? - 네이트",
+      "published": "2026-05-07T12:33:00+00:00",
+      "summary": "\"인간한테도 옮긴다\"…태국 박쥐서 '코로나19 사촌' 발견, 독성 정도는?&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BNzRUNlY1RzFvR1FMUDdhb0U5RjUzNzZJZjk4ZTVWR19kSXVtaUJPN2RSZS1EN1k4Wi1ZQ3NzUERyVm1NbWl1aVluQl9Bc1V2QWNz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3309c09f12b6",
-      "title": "BRCA 유방암, 반대쪽까지 미리 절제 안해도 된다 - 보건신문",
-      "published": "2026-05-07T09:05:06+00:00",
-      "summary": "BRCA 유방암, 반대쪽까지 미리 절제 안해도 된다&nbsp;&nbsp;보건신문“BRCA 유방암, 반대쪽까지 미리 절제할 필요 없어”&nbsp;&nbsp;헬스조선원인 불명 유전성 유방암, ‘4가지 유형’ 세계 최초 규명&nbsp;&nbsp;시사저널유방암이라서 반대쪽도 절제? \"미리 안 해도 된다\"&nbsp;&nbsp;네이트BRCA 환자 다 똑같지 않다…반대측 유방암 위험, '종양 특성'에 달려&nbsp;&nbsp;코리아헬스로그",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PWEg2czU1NGRkX2dXR0FEM2lrSW5GUGxTeTd6NFVzY2Q3dW9mdzVDTkVHcUlBcFprbXhUMDN0cFZMelRwdUJxZVFWOU5kcTBRTFFYenJfQTBEWDZPSm1SZGhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9687d7f98f20",
-      "title": "심근경색, 갑작스러운 가슴 통증의 진짜 원인 - 뉴스티앤티",
-      "published": "2026-05-07T08:19:29+00:00",
-      "summary": "심근경색, 갑작스러운 가슴 통증의 진짜 원인&nbsp;&nbsp;뉴스티앤티[건강칼럼] 심근경색, 갑작스러운 가슴 통증의 진짜 원인&nbsp;&nbsp;타임뉴스",
-      "sources": [
-        {
-          "name": "뉴스티앤티",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIQTV3bXFwTm1ZdFNqQkxSS0xjdjdubGQzQVlKVmdISHV3N0xSaTA0OU9zR2thZ1gzRi0ydDJiaS1aczFScXRreEJuMUV2NmxpQlU2SkZhcHoxUjlfSHVGMVFGT094RlFXTFE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pck44RDVxVDBSeFdQQ210UEY2TWNld3NRRDJjQllxNkV5M2Z6cGltQzNFSHJvY3I3eUVWR29LeTYxR24wT0podXpXUWl2dEl0N1dr?oc=5"
         }
       ]
     },
@@ -446,18 +458,6 @@
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iWlRTYUpCYmlCNkVTMEdTQm53TG9EbGlWdjgySE1JaXNfVDNjNGMtNWtyUHRKSVdpWHI5V1BLbklGdmgyWXV4cHU2bTBIdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c627f0258eaa",
-      "title": "생존율 40년 정체된 '골육종' 환자별 치료 기준 분류 첫 국제합의 - 동아사이언스",
-      "published": "2026-05-07T07:59:00+00:00",
-      "summary": "생존율 40년 정체된 '골육종' 환자별 치료 기준 분류 첫 국제합의&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QRUN1UGFQTmV5d2EwSEVIaVJXLWFRNmRfdHl3RGpGdFlXTDF1Y0I4TzFLWU1TaDFkMTc0NEluRVYyQXpsWWxHbTM0eUhxYzJJdTM5LQ?oc=5"
         }
       ]
     },
@@ -494,18 +494,6 @@
         {
           "name": "국민일보",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XeTdOeVdpbDJQNDV0dzlXVnd1TkRmbGNsbGd3dHRIbmh0TkFGM2VMYXRNU2NkTWZOblRsWHA2NVF6b2xncFdTRnhXSUpkNmZnaXJtUUE3dHg3MzFOVklRMlItNGNGdknSAWxBVV95cUxNWFJxQTBCUXJxdWpIeDBQNmdpUHZSUVVRbDVfS3RvTVNmdzFvMnpHTHp2U1d6ZG5iempMQ2lpSnNBVmY1R3VLalNfS2pDNnFKQWY0dVNZZ3BjRW1vR0RyUzJuc0F4X0N2SzZaVVc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac52ee3c7ab7",
-      "title": "손상된 뼈 회복 촉진…미토콘드리아 활용 재생치료 길 열었다 - 서울경제",
-      "published": "2026-05-06T08:42:42+00:00",
-      "summary": "손상된 뼈 회복 촉진…미토콘드리아 활용 재생치료 길 열었다&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fb1lNNHM3MUoyemhXR2s2RjJ6YTVnNHB0U193R05BQUktdlZNXzlfTVp1c0VoTzlxNUQ0UUhBc29UVDFral9MOFVKbWh0YVdyRmfSAVNBVV95cUxNMWFmNDVRRGY3RWNQbkNZMEV2TGxuSGtnUE53TDdPUXlsQ09nc0hLVTJITUZoWUVBV2hNQjgyOGtVT0lIeXJuYmRYMlBUNXJtMmp5SQ?oc=5"
         }
       ]
     }
