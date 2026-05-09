@@ -1,14 +1,38 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-09T13:24:12.582444+00:00",
-  "total_fetched": 67,
-  "unique_count": 66,
-  "health_related_count": 41,
+  "fetched_at": "2026-05-09T19:07:22.167201+00:00",
+  "total_fetched": 68,
+  "unique_count": 67,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "f110aa55df34",
+      "title": "장이 뇌를 움직인다: 세로토닌부터 혈당까지, 프로바이오틱스 연구의 새 지평 - 브랜드경제신문",
+      "published": "2026-05-09T19:00:17+00:00",
+      "summary": "장이 뇌를 움직인다: 세로토닌부터 혈당까지, 프로바이오틱스 연구의 새 지평&nbsp;&nbsp;브랜드경제신문\"물만 먹어도 살쪄요\"…혹시 장속 '이 물질' 때문?&nbsp;&nbsp;newsis.com\"뚱보 쥐, 장 튼튼해지자 날씬이로 변신\"…건강하게 살 빼는 법[한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이“장내 미생물 유래 물질, 뇌 통해 체중·혈당 조절한다”&nbsp;&nbsp;v.daum.net터치유를 읽어주셔서 감사합니다!&nbsp;&nbsp;한국일보",
+      "sources": [
+        {
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0ejVvbUljU0ZqZ0hoZW90Tk0zQmZCOERyc3ZKTG8zYzRJTmlqa2M0cHRveGFVOHBHSjhxWExCXzY0WjFLWGE2MTQwTEs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "48b0b6ef699a",
+      "title": "봄철 환절기로 인한 감기와 비염… 학업에 미치는 영향은? - 헬스경향",
+      "published": "2026-05-09T16:26:33+00:00",
+      "summary": "봄철 환절기로 인한 감기와 비염… 학업에 미치는 영향은?&nbsp;&nbsp;헬스경향호흡기 치료보다 면역력 관리가 중요한 이유&nbsp;&nbsp;이투데이\"눈 가려워 못 버틴다\" 알레르기 결막염 급증에 점안제 수급난&nbsp;&nbsp;약사공론[하루건강] 알레르기의 가장 큰 원인은 꽃가루 아닌 '이것'?&nbsp;&nbsp;네이트[119기고] 꽃 피는 계절, 호흡기 위험은 더 가까워진다&nbsp;&nbsp;소방방재신문",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UX1RCNmZvYmJHTXZ3OUd0VTFkUHJFa1ItdUZkaHNpdW0xbHdlQU45TmM2LWVkQzBrMGx4VWNST1BYS0MyVW9IeXBuRkV0bzlZc2xUQ01OZmdUMUp6Wk56YW5lbzFlanZYanc?oc=5"
+        }
+      ]
+    },
     {
       "id": "b2f30a534aed",
       "title": "“대장암 위험 확 오른다”… 주방에서 하는 ‘이 행동’ 주의 - 헬스조선",
-      "published": "2026-05-09T10:23:35+00:00",
+      "published": "2026-05-09T16:25:05+00:00",
       "summary": "“대장암 위험 확 오른다”… 주방에서 하는 ‘이 행동’ 주의&nbsp;&nbsp;헬스조선내과 전문의 추천, 대장암 예방에 도움되는 과일 5가지&nbsp;&nbsp;하이닥“대장암 예방 효과” 장 건강에 좋은 과일 5가지… 뭘까?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
@@ -26,6 +50,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWdE90UTM5WWxRb3NaR1NFN01vRTd6OTRsaGp6SGFFVkNxYS1nNFFaRDM3cHREc3FNek1lazktWW9yWUtWWDVLREQ5akNsaDNJQThqVmdGZk4zaUNGTElsZmpkSDU3a29zc08tb1ZKM1dud1JuY1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ddf9a9f1a48",
+      "title": "\"종이컵에 설탕이랑 '이 액체' 넣어보세요\"... 집안의 모기가 감쪽같이 사라집니다 - 아던트뉴스",
+      "published": "2026-05-09T10:00:00+00:00",
+      "summary": "\"종이컵에 설탕이랑 '이 액체' 넣어보세요\"... 집안의 모기가 감쪽같이 사라집니다&nbsp;&nbsp;아던트뉴스정약용부터 이수지까지…인류 숙적 모기의 '진짜 정보' 파헤치기&nbsp;&nbsp;네이트여름 시작! 실내서 모기에게 물리지 않는 3단계 꿀팁→--건강&nbsp;&nbsp;인민넷“왜 나만?” 모기에 유독 잘 물리는 사람…‘이 액체’ 하나면 고민 해결?&nbsp;&nbsp;코메디닷컴정약용부터 이수지까지…인류 숙적 모기의 ‘진짜 정보’ 파헤치기&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "아던트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zVjQ4YUVkVU5KVFZPRHdXclQ0SlIyRmE1QmtDeVA4TmVMOGM4YU1Fc1dhQWEycUxuVjM3bTJ5aVNKVEdGWTVqVGh3YkpUN2tiT2hIWnRvdXR6SkJpSkxfQVNMdmMwR01lUWJTVllxVdIBc0FVX3lxTFBHTHBMbkdUYU82X1h1WVdCaVBqOElEOXBwX1lTNkhabi1WY0RENVV2QlFNX0lDTEp5Z0wyM1lLX3RqbC1TQmpQXzhMWGtKUzZrcHdSdGxpdXhSMzNMLVlLcGJNRWxqLWdtbktiT21lbXdGLTQ?oc=5"
         }
       ]
     },
@@ -69,7 +105,7 @@
       "id": "6b1e7dae9072",
       "title": "고려대학교 이정훈 교수팀, 침 한 방울로 HIV 조기 진단…“최대 8일 더 빠르게 포착” - 한국강사신문",
       "published": "2026-05-09T03:11:00+00:00",
-      "summary": "고려대학교 이정훈 교수팀, 침 한 방울로 HIV 조기 진단…“최대 8일 더 빠르게 포착”&nbsp;&nbsp;한국강사신문고려대 \"채혈 없이 침 한 방울로 HIV 초기 감염 포착한다\"&nbsp;&nbsp;newsis.com‘침 한 방울’로 HIV 최대 8일 빨리 진단한다&nbsp;&nbsp;BRIC\"침 한 방울로 HIV 조기 포착\"…고려대, AI 기반 초고감도 진단기술 개발[과학을읽다]&nbsp;&nbsp;v.daum.net‘침 한 방울’로 HIV 즉시 진단한다&nbsp;&nbsp;고대신문",
+      "summary": "고려대학교 이정훈 교수팀, 침 한 방울로 HIV 조기 진단…“최대 8일 더 빠르게 포착”&nbsp;&nbsp;한국강사신문고려대 \"채혈 없이 침 한 방울로 HIV 초기 감염 포착한다\"&nbsp;&nbsp;newsis.com‘침 한 방울’로 HIV 즉시 진단한다&nbsp;&nbsp;고대신문\"침 한 방울로 HIV 조기 포착\"…고려대, AI 기반 초고감도 진단기술 개발[과학을읽다]&nbsp;&nbsp;v.daum.net고려대, 초고감도 HIV 진단 플랫폼 ‘BE-SMART-HIV’ 개발&nbsp;&nbsp;이뉴스투데이",
       "sources": [
         {
           "name": "한국강사신문",
@@ -86,18 +122,6 @@
         {
           "name": "캐어유 뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HSlBHbjlhRU9RdHBCT1JmWE82MGVjSmlKN2VwYWEtWEp6M0dnZHFuNXRjcjNzVzVrUnBWYW5GenFmekJtaXlCVFE5MkdfUWozd2tDVlB0RVQxaEhCNFhwSjI3ejFucXNGcmZSTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f72e82e2552",
-      "title": "\"뚱보 쥐, 장 튼튼해지자 날씬이로 변신\"…건강하게 살 빼는 법[한 장으로 보는 건강] - 네이트",
-      "published": "2026-05-09T02:00:00+00:00",
-      "summary": "\"뚱보 쥐, 장 튼튼해지자 날씬이로 변신\"…건강하게 살 빼는 법[한 장으로 보는 건강]&nbsp;&nbsp;네이트\"물만 먹어도 살쪄요\"…혹시 장속 '이 물질' 때문?&nbsp;&nbsp;newsis.com“장내 미생물 유래 물질, 뇌 통해 체중·혈당 조절한다”&nbsp;&nbsp;v.daum.net\"뚱보 쥐, 장 튼튼해지자 날씬이로 변신\"…건강하게 살 빼는 법[한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이건강한 장내미생물 구성이 파킨슨병 예방한다&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYmhtbEJxZ1ZOLWtpajJMUWdURUtRbnVhU1JENEVfYmpHYW1BOFVrTEVhX240MFB5dGFvZ1FtY3dRRXVWRU85dVdmejdTcDUzYUE0?oc=5"
         }
       ]
     },
@@ -122,6 +146,18 @@
         {
           "name": "의학신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1V0MtazBNdjlsVnJQaVFhREdMcTdreFo4Q21ydmxYcE05U1BPRzVldG5EcC1ibFNldGd0WW9NcUFTMWtnVVA0RHlVcWIxQVRuNEdkdVFWOGl3R05iN2hTT2FCd0dBQjdrVmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "93c0e9a09d89",
+      "title": "디지털 과부하 시대의 뇌 건강: 장-뇌 연결과 신경 조절 환경이 답이다 - 브랜드경제신문",
+      "published": "2026-05-08T23:11:44+00:00",
+      "summary": "디지털 과부하 시대의 뇌 건강: 장-뇌 연결과 신경 조절 환경이 답이다&nbsp;&nbsp;브랜드경제신문뇌 건강에 좋다더니...오메가-3 섭취하는 노인, 인지 저하 더 빨랐다고?&nbsp;&nbsp;코메디닷컴\"60세 이후 인지저하 막아\" 여성 건강에 특히 좋은 식품&nbsp;&nbsp;조세일보치매예방을 넘어 20대 기억력 저하까지...전 생애주기로 번진 뇌건강, 뉴로웰니스&nbsp;&nbsp;kmjournal.net혈행·중성지질, 기억력 개선, 눈 건강…오메가3 함량은?&nbsp;&nbsp;데일리팜",
+      "sources": [
+        {
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBPYVNJdHFneXBIY1pISlhYdzVkNm1Ga2tLRVlXS3p3alhWeGY1UG9MWEtRUHRnUExLbXhOamRzMUYxRm15bmIxd0tiYnY?oc=5"
         }
       ]
     },
@@ -189,7 +225,7 @@
       "id": "0e83e8973e14",
       "title": "나이 들어 자꾸 빠지는 근육… 원인은 입속 '이것' 때문일 수도 - 하이닥",
       "published": "2026-05-08T11:00:00+00:00",
-      "summary": "나이 들어 자꾸 빠지는 근육… 원인은 입속 '이것' 때문일 수도&nbsp;&nbsp;하이닥“살은 빼도 근육은 지켜라”…초고령사회, 근감소 치료 경쟁 시작&nbsp;&nbsp;약업신문\"부모님 근육 안녕하신가요\"…어버이날, '근감소증' 점검하세요&nbsp;&nbsp;v.daum.net늙으면 근육 줄어드는 이유 찾았다…‘이 유전자’ 때문&nbsp;&nbsp;동아일보‘골근감소증’ 꾸준한 치료와 단백질 섭취·근력운동 병행을&nbsp;&nbsp;국제신문",
+      "summary": "나이 들어 자꾸 빠지는 근육… 원인은 입속 '이것' 때문일 수도&nbsp;&nbsp;하이닥\"부모님 근육 안녕하신가요\"…어버이날, '근감소증' 점검하세요&nbsp;&nbsp;v.daum.net줄어든 것은 지방일까, 근육일까? 바이오마커와 데이터가 바꾸는 근감소증 진단 시장&nbsp;&nbsp;한국경제“살은 빼도 근육은 지켜라”…초고령사회, 근감소 치료 경쟁 시작&nbsp;&nbsp;약업신문‘골근감소증’ 꾸준한 치료와 단백질 섭취·근력운동 병행을&nbsp;&nbsp;국제신문",
       "sources": [
         {
           "name": "하이닥",
@@ -225,7 +261,7 @@
       "id": "c06b37942dfc",
       "title": "한 번의 낙상도 위험한 파킨슨병, \"AI가 미리 감지\" - 여수교차로",
       "published": "2026-05-08T07:03:58+00:00",
-      "summary": "한 번의 낙상도 위험한 파킨슨병, \"AI가 미리 감지\"&nbsp;&nbsp;여수교차로한 번의 낙상도 위험한 파킨슨병…\"AI가 미리 감지\"&nbsp;&nbsp;newsis.com[의학바이오게시판] 파킨슨병 환자 '낙상 위험' AI로 예측 外&nbsp;&nbsp;v.daum.net파킨슨병 '낙상 위험' AI로 잡는다…삼성서울병원, 조기예측 모델 개발 - 머니투데이&nbsp;&nbsp;머니투데이파킨슨병환자 낙상위험…AI로 예측하는 시대 ‘눈앞’&nbsp;&nbsp;헬스경향",
+      "summary": "한 번의 낙상도 위험한 파킨슨병, \"AI가 미리 감지\"&nbsp;&nbsp;여수교차로한 번의 낙상도 위험한 파킨슨병…\"AI가 미리 감지\"&nbsp;&nbsp;newsis.com[의학바이오게시판] 파킨슨병 환자 '낙상 위험' AI로 예측 外&nbsp;&nbsp;v.daum.netAI가 파킨슨병 낙상 위험군 선별…보행·임상 정보 통합 분석&nbsp;&nbsp;디지틀조선일보파킨슨병 '낙상 위험' AI로 잡는다…삼성서울병원, 조기예측 모델 개발 - 머니투데이&nbsp;&nbsp;머니투데이",
       "sources": [
         {
           "name": "여수교차로",
@@ -246,6 +282,18 @@
       ]
     },
     {
+      "id": "e760d7ca3180",
+      "title": "전기 없이 25분 빛난다…美 살아있는 ‘조류 조명’ 개발 나서 - 파퓰러사이언스",
+      "published": "2026-05-08T06:57:30+00:00",
+      "summary": "전기 없이 25분 빛난다…美 살아있는 ‘조류 조명’ 개발 나서&nbsp;&nbsp;파퓰러사이언스",
+      "sources": [
+        {
+          "name": "파퓰러사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03d1M0elhKX0dJbk9FWmQ4X005SWRreWZsQm40NTMteHREOUt1TVE3YnhNUWFFWDNTNXRGczBuM3ZUbUZMaUh6a2I0ZWotRU9YMlRJZjRJQ3hvR2xkN0VxOGREY05nT291elHSAW5BVV95cUxQMkhyaHhFRG05RHh1Zk9XQnRFX1RoS3dsd3ZmcGd3S3hRVXlmdjNNZjZkQXpQQjhCRXpSeVdwYkVFeS1xa2ZSc0lNMUY2SzlSbXFTcDdIMmNpMGs3cnM2RlZtVzNqMS15cTgyNmNHQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "eeb8449703b7",
       "title": "S25 사전예약 수천 건 일방 취소한 KT에 과징금 6억4000만 원 - 미디어오늘",
       "published": "2026-05-08T06:42:39+00:00",
@@ -254,18 +302,6 @@
         {
           "name": "미디어오늘",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51OF85MDFYQzlXSzBlN29peFhVYTJjTnp4OUVtc3ozME5WbFdNSFF3YjdkMTlrcnVKNzNxcGRCUW43UWNYTVFUN2FzX29ncVg2ek14N2JDUU5mdUtBejhKeFdwbHU5RERaZmgwNGhxWXE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d38c015d495c",
-      "title": "여름 시작! 실내서 모기에게 물리지 않는 3단계 꿀팁→--건강 - 인민넷",
-      "published": "2026-05-08T06:36:00+00:00",
-      "summary": "여름 시작! 실내서 모기에게 물리지 않는 3단계 꿀팁→--건강&nbsp;&nbsp;인민넷정약용부터 이수지까지…인류 숙적 모기의 '진짜 정보' 파헤치기&nbsp;&nbsp;네이트“왜 나만?” 모기에 유독 잘 물리는 사람…‘이 액체’ 하나면 고민 해결?&nbsp;&nbsp;코메디닷컴정약용부터 이수지까지…인류 숙적 모기의 ‘진짜 정보’ 파헤치기&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PeDNudkNDN1BybEhWdGdSMkhZbFJzdnVzU3ZaR3VDc1hYaFI1R0pmYThEUmNSamdaeHdxcUhWVmV0eVJXZmtxeEd5Zld0WXBKbWxkLV95bklyMTlBaHpjSkYzeHRyLXpNZ0MxMUJB?oc=5"
         }
       ]
     },
@@ -402,18 +438,6 @@
       ]
     },
     {
-      "id": "98c2814fa415",
-      "title": "mRNA 기술로 결핵 백신 연구 가속…위트워터스랜드대, 쥐 실험서 T세포 보호 효과 확인 - 유스연합",
-      "published": "2026-05-07T22:37:03+00:00",
-      "summary": "mRNA 기술로 결핵 백신 연구 가속…위트워터스랜드대, 쥐 실험서 T세포 보호 효과 확인&nbsp;&nbsp;유스연합",
-      "sources": [
-        {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2RG1wT0l6aXlZM1VUajlKT0xGWTBvWUhVYkdWdDhRc3JESElWdEttOHZKYVdaSWdNaUVMOUlYeHVObTIxV2wtZmtmU3pMRWhBdVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c5a08a9b11f9",
       "title": "\"당뇨약보다 낫네\"… 맨발로 두 달 걸었더니 혈당 500 → 정상 [Weekend 헬스] - 파이낸셜뉴스",
       "published": "2026-05-07T19:30:00+00:00",
@@ -438,18 +462,6 @@
       ]
     },
     {
-      "id": "9a3513a21b2d",
-      "title": "\"인간한테도 옮긴다\"…태국 박쥐서 '코로나19 사촌' 발견, 독성 정도는? - 네이트",
-      "published": "2026-05-07T12:33:00+00:00",
-      "summary": "\"인간한테도 옮긴다\"…태국 박쥐서 '코로나19 사촌' 발견, 독성 정도는?&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pck44RDVxVDBSeFdQQ210UEY2TWNld3NRRDJjQllxNkV5M2Z6cGltQzNFSHJvY3I3eUVWR29LeTYxR24wT0podXpXUWl2dEl0N1dr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e3499c545b59",
       "title": "'꿈의배터리' 전고체 개발 앞당긴다...전고체 소재 전문기업 나온다 - 전자신문",
       "published": "2026-05-07T08:00:00+00:00",
@@ -470,30 +482,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KT2duNHFFcGRmNkg4R2ZLNjlMa0x4WEltVGg5d0RjZDZCMlpCWVFmTnRCTFM5SWtDbmhhZFdkYkhIRTZoVndkN3VwUklFM2xmSVUzU0VFNS1LYmV1ejNzMWhzNXhORTIxNGNrRThjN1plUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df59c00c4382",
-      "title": "먹는 비만약, 배고픔만 줄이는 게 아니었다… ‘식탐 도파민’도 낮췄다 - 조선일보",
-      "published": "2026-05-07T00:36:00+00:00",
-      "summary": "먹는 비만약, 배고픔만 줄이는 게 아니었다… ‘식탐 도파민’도 낮췄다&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdl9NSW1hb2xHWDRDbzRNV2luNDFxMlBnMDNnaGFPOXhoVlQ2NmFhNXBhR3FaYldBY29BRTBPQXBtSXlpSVNMUVJGRmRRUUszTzlkZ2F5Z0V2MFlneUFISDVRNjJCNGlJWUpuRUlWdzlacHN3RG1zcGlQVzhrd0JuTTc3cw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e468e72f810",
-      "title": "양자컴도 못 푸는 ‘양자 내성 암호’, 국가 핵심 인프라에 적용 - 국민일보",
-      "published": "2026-05-06T15:20:00+00:00",
-      "summary": "양자컴도 못 푸는 ‘양자 내성 암호’, 국가 핵심 인프라에 적용&nbsp;&nbsp;국민일보",
-      "sources": [
-        {
-          "name": "국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XeTdOeVdpbDJQNDV0dzlXVnd1TkRmbGNsbGd3dHRIbmh0TkFGM2VMYXRNU2NkTWZOblRsWHA2NVF6b2xncFdTRnhXSUpkNmZnaXJtUUE3dHg3MzFOVklRMlItNGNGdknSAWxBVV95cUxNWFJxQTBCUXJxdWpIeDBQNmdpUHZSUVVRbDVfS3RvTVNmdzFvMnpHTHp2U1d6ZG5iempMQ2lpSnNBVmY1R3VLalNfS2pDNnFKQWY0dVNZZ3BjRW1vR0RyUzJuc0F4X0N2SzZaVVc?oc=5"
         }
       ]
     }
