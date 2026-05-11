@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-11T09:46:40.827501+00:00",
-  "total_fetched": 59,
-  "unique_count": 59,
+  "fetched_at": "2026-05-11T15:18:00.473084+00:00",
+  "total_fetched": 64,
+  "unique_count": 64,
   "health_related_count": 35,
   "news": [
+    {
+      "id": "193dbcd55c0c",
+      "title": "“안전하다”던 전자담배, ‘발암 특성’ 모두 갖췄다 - 헬스조선",
+      "published": "2026-05-11T12:00:00+00:00",
+      "summary": "“안전하다”던 전자담배, ‘발암 특성’ 모두 갖췄다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90MW9OTDJvNDhjZDZHTUkwdllqR0NKTEgwVjVWT2Y1UTZ2a0Fubm85dHBnckhSbTUxSlRxQmFSRGo0RjVJbUNvOThVUWxYUl9aaFdwSWU2a1Y0dUVSN2VBdm9vOENYUTV3dzZ1V0hvSFpHdzdST3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "498b6b30a0ae",
+      "title": "“키스 한 번 잘못 했다가” 5일간 입원 치료 받기도… 무슨 일? - 헬스조선",
+      "published": "2026-05-11T11:20:00+00:00",
+      "summary": "“키스 한 번 잘못 했다가” 5일간 입원 치료 받기도… 무슨 일?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WckRnYzhZTy1MbTVlUG9fdDQ3RGVKTExoN3M2ZDYtMUhPQ1hGcS1ybklPR05MbzV5eG5JaWRFVmhhTldnUXBsVFUxRmZvdExscTN1VXptWWt6ZDB3cXBSTlBBX1hId1h6b1ZkYWkzX0VBSEhnWHc?oc=5"
+        }
+      ]
+    },
     {
       "id": "b55b79fd07a6",
       "title": "“아침에 유독 멍하다면?”... 아침 두뇌 깨우는 음식 5가지 - 하이닥",
@@ -33,7 +57,7 @@
       "id": "92edc5a93dad",
       "title": "불면증에 시달리는 사람들, 이런 영양소 부족할 수도!--건강 - 인민넷",
       "published": "2026-05-11T07:31:00+00:00",
-      "summary": "불면증에 시달리는 사람들, 이런 영양소 부족할 수도!--건강&nbsp;&nbsp;인민넷[먹을까? 말까?(138)] 마그네슘의 역설⋯\"비만 막는 스위치\" 찾았다&nbsp;&nbsp;포커스온경제\"번아웃 사회, 뇌와 부신을 동시에 보호하라\"… L-테아닌·홍경천·마그네슘의 항스트레스 시너지&nbsp;&nbsp;한국AI부동산신문마그네슘도 먹고, 수면보조제도 먹었을 때… 벌어질 일은?&nbsp;&nbsp;헬스조선마그네슘, 혈압·혈당 조절부터 숙면까지 ‘필수 미네랄’&nbsp;&nbsp;캐나다 한국일보",
+      "summary": "불면증에 시달리는 사람들, 이런 영양소 부족할 수도!--건강&nbsp;&nbsp;인민넷\"번아웃 사회, 뇌와 부신을 동시에 보호하라\"… L-테아닌·홍경천·마그네슘의 항스트레스 시너지&nbsp;&nbsp;한국AI부동산신문[먹을까? 말까?(138)] 마그네슘의 역설⋯\"비만 막는 스위치\" 찾았다&nbsp;&nbsp;포커스온경제마그네슘도 먹고, 수면보조제도 먹었을 때… 벌어질 일은?&nbsp;&nbsp;헬스조선마그네슘, 혈압·혈당 조절부터 숙면까지 ‘필수 미네랄’&nbsp;&nbsp;캐나다 한국일보",
       "sources": [
         {
           "name": "인민넷",
@@ -90,50 +114,26 @@
       ]
     },
     {
-      "id": "bd2a39a0f66d",
-      "title": "오노약품 \"SK바이오팜 세노바메이트 하반기 출시\", 매출 가이드라인 포함 - PRESS9",
-      "published": "2026-05-11T05:22:38+00:00",
-      "summary": "오노약품 \"SK바이오팜 세노바메이트 하반기 출시\", 매출 가이드라인 포함&nbsp;&nbsp;PRESS9",
-      "sources": [
-        {
-          "name": "PRESS9",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcU5HeFdBeldzZFVyZlNycjJKOTJXVWI1clhjSlpIQ29zNGZHeF9POHZFMXdsWEI4UGt3YzNELTJoTDVBUXp1alVTYzhlRUoxMUlFbTFHd2hoN2ZyMTFkWjJ2Qms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "505978e254f7",
+      "id": "85da025c9882",
       "title": "간 건강, '장내 세균에 달렸다' - 후생신보",
       "published": "2026-05-11T05:17:00+00:00",
       "summary": "간 건강, '장내 세균에 달렸다'&nbsp;&nbsp;후생신보3명 중 1명이 앓는 ‘지방간’···간 때문만은 아니었다?&nbsp;&nbsp;경향신문술 안 마신다고 비만·당뇨 방치?…간이, 부었군요&nbsp;&nbsp;서울신문똑같이 먹어도 나이 들면 간에 지방 더 쌓인다&nbsp;&nbsp;네이트지방간질환, 간 아닌 소장·장내미생물 문제였다…전신 질환 통합 관리 중요성 부각 : 패션 & 뷰티&nbsp;&nbsp;kstars.kr",
       "sources": [
         {
           "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBLYkVvSFdzeG45NUYtNHdzVVNDUDhTY3BPV3FKdjJlY25fRnNwN0Yxdl9zT014eDI0SzhyVDlaZUNReWFX?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BajVxdXFTVk9iZW9wNmtDc2lBU3c3aWZiQ1R5bFJyNmhkc1l3UndJUTJhaDVQRHNaMGo4RGNjcjJGVWsyTVE?oc=5"
         }
       ]
     },
     {
-      "id": "56e33e7da1a1",
-      "title": "4050 건강 적신호…대사증후군 증가세 속 중년 건강관리 중요 - 선데이뉴스신문",
-      "published": "2026-05-11T04:00:00+00:00",
-      "summary": "4050 건강 적신호…대사증후군 증가세 속 중년 건강관리 중요&nbsp;&nbsp;선데이뉴스신문4050 세대 대사증후군 유병률 4년 새 뚜렷한 증가…“검진은 늘었는데 건강은 제자리”&nbsp;&nbsp;국제신문4050 세대 대사증후군 유병률 증가···\"생활습관 개선이 최우선\"&nbsp;&nbsp;LG헬로비전40~50대 중년층 건강 관리 안 한다…대사증후군 유병률 증가 뚜렷&nbsp;&nbsp;코리아헬스로그“검진만으로 부족”... 4050 대사증후군 증가에 생활습관 개선 중요?&nbsp;&nbsp;더퍼스트미디어",
+      "id": "616093f03809",
+      "title": "[앉아서 망가진다-1] 왜 현대인의 몸은 점점 약해질까…움직이지 않는 생활의 대가 - 전국뉴스",
+      "published": "2026-05-11T04:35:00+00:00",
+      "summary": "[앉아서 망가진다-1] 왜 현대인의 몸은 점점 약해질까…움직이지 않는 생활의 대가&nbsp;&nbsp;전국뉴스하루 10시간 앉아있으면 생기는 일…“심장·뇌 다 망가진다” [나우, 어스]&nbsp;&nbsp;v.daum.net하루 종일 앉아 있는 것이 왜 건강에 나쁜가?&nbsp;&nbsp;미주한국일보봄철 유행하는 '러닝 크루'…하지정맥류 환자는 조심&nbsp;&nbsp;네이트오래 앉아 있는 생활, 운동만으로는 부족하다…직장인의 심장 건강 경고등&nbsp;&nbsp;미디어원",
       "sources": [
         {
-          "name": "선데이뉴스신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HNUtaTXZvS0FtR3JqbV9jcy0wUFJjd1RZczRKLW1zZmpjY3ZqSXlvZ0RVUC0yV3ZVcGdzOGIxanNzeHg5WV9xVmg0TjB5eUlRakM5NTNXSGI2Sms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "563221c374e0",
-      "title": "하루 종일 앉아 있는 것이 왜 건강에 나쁜가? - 미주한국일보",
-      "published": "2026-05-11T03:00:00+00:00",
-      "summary": "하루 종일 앉아 있는 것이 왜 건강에 나쁜가?&nbsp;&nbsp;미주한국일보하루 10시간 앉아있으면 생기는 일…“심장·뇌 다 망가진다” [나우, 어스]&nbsp;&nbsp;v.daum.net[앉아서 망가진다-1] 왜 현대인의 몸은 점점 약해질까…움직이지 않는 생활의 대가&nbsp;&nbsp;전국뉴스봄철 유행하는 '러닝 크루'…하지정맥류 환자는 조심&nbsp;&nbsp;네이트오래 앉아 있는 생활, 운동만으로는 부족하다…직장인의 심장 건강 경고등&nbsp;&nbsp;미디어원",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40TUl0d0hNblRpNFlKRjQyRThveFY1UkZtQUFGblJjQ0xTcDUxSmtwcXVUanhaU1REOFF6Yko5bnRqbXJVRWZ6OWh3R1pMX1FGWXhvbjYzNEFjYjk4RVpF?oc=5"
+          "name": "전국뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MSTAtaUdlYndseE50VWlRZ2p4cnF4RjZ3S2pGRndLbDlTUDZ4YnRZN2E4MnhqazU0em1yNGFVSWxaTVFhSWVpdGNWRHRJay1tYkxjMzc4S0NQeVA5VVpwMS1TalBGamxscUNoVXZIZno?oc=5"
         }
       ]
     },
@@ -162,10 +162,10 @@
       ]
     },
     {
-      "id": "0e05be445ae7",
-      "title": "“밤마다 무의미한 스크롤, 타자 속도 15% 저하”…스마트폰이 보낸 우울증 경고 - 매일경제",
+      "id": "a962ec42ad61",
+      "title": "“타자 속도 왜 이리 답답해?” 농담마세요 …‘우울증’ 깊어지는 신호입니다 - 매일경제",
       "published": "2026-05-11T02:17:00+00:00",
-      "summary": "“밤마다 무의미한 스크롤, 타자 속도 15% 저하”…스마트폰이 보낸 우울증 경고&nbsp;&nbsp;매일경제",
+      "summary": "“타자 속도 왜 이리 답답해?” 농담마세요 …‘우울증’ 깊어지는 신호입니다&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "매일경제",
@@ -201,7 +201,7 @@
       "id": "0de6e9d5e55d",
       "title": "렘수면행동장애, 몸속 수분 비율이 파킨슨병 경고 - 보건신문",
       "published": "2026-05-11T00:29:42+00:00",
-      "summary": "렘수면행동장애, 몸속 수분 비율이 파킨슨병 경고&nbsp;&nbsp;보건신문수면장애 앓으면 ‘인바디’하세요...파킨슨병 위험 알려준다&nbsp;&nbsp;v.daum.net[김태열의 생생건강S펜]“치매·파킨슨병 부르는 렘수면행동장애, 간단한 인바디 검사로 예측”&nbsp;&nbsp;v.daum.net“세포 외 수분비 높으면 신경퇴행성 질환 위험 6.56배 증가”&nbsp;&nbsp;dt.co.kr\"잠꼬대 심했는데\"…파킨슨병 위험, 인바디로 예측한다&nbsp;&nbsp;데일리안",
+      "summary": "렘수면행동장애, 몸속 수분 비율이 파킨슨병 경고&nbsp;&nbsp;보건신문\"렘수면 장애, '이것' 높으면 파킨스병 발병위험↑\"&nbsp;&nbsp;newsis.com인바디로 파킨슨병 예측? “세포 외 수분비 높으면 위험”&nbsp;&nbsp;헬스조선[김태열의 생생건강S펜]“치매·파킨슨병 부르는 렘수면행동장애, 간단한 인바디 검사로 예측”&nbsp;&nbsp;v.daum.net수면장애 앓으면 ‘인바디’하세요...파킨슨병 위험 알려준다&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "보건신문",
@@ -354,6 +354,18 @@
       ]
     },
     {
+      "id": "b708f352a788",
+      "title": "전립선암 치료의 진화…‘꿈의 암 치료’ 중입자 시대 열렸다 - 시사저널",
+      "published": "2026-05-09T23:00:00+00:00",
+      "summary": "전립선암 치료의 진화…‘꿈의 암 치료’ 중입자 시대 열렸다&nbsp;&nbsp;시사저널전립선암 능동적 감시 중단 예측 'PSAD' 가장 강력&nbsp;&nbsp;메디칼업저버전립선암 치료제 내성 극복 길 찾았다&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "시사저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HcHAxeFNMWkp6QkhfRFdoRVhFckx4dnkzcTlMcmpPT2I4UE9qeVJfZkxRZzNFMWFVemJYWk1WT3BoSFgzcy16WWRZc1NqN2pzeXY5UlN0amlXU1hDMUxWTGdiZkR4NDF5X2E0WThFY9IBc0FVX3lxTE5BWnBkZEJkWGswazBiRjFIYUlpN2FXTGdFVEZabi1mcTlvbjFTMDQxNWxHR2luYW5xbW50SUhCNnBUTGI3ZVhqaE45bnBmOUlxemU3WGJRMlgteFBEYWRhRGlncHZ6cmczeGhhamk0eEo1bDQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bc1ab9ef57d4",
       "title": "호주인 72%, 장 건강 위해 식단 바꿨다…한국 웰빙 시장에도 시사점 - 브랜드경제신문",
       "published": "2026-05-09T21:15:18+00:00",
@@ -386,18 +398,6 @@
         {
           "name": "브랜드경제신문",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0ejVvbUljU0ZqZ0hoZW90Tk0zQmZCOERyc3ZKTG8zYzRJTmlqa2M0cHRveGFVOHBHSjhxWExCXzY0WjFLWGE2MTQwTEs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48b0b6ef699a",
-      "title": "봄철 환절기로 인한 감기와 비염… 학업에 미치는 영향은? - 헬스경향",
-      "published": "2026-05-09T16:26:33+00:00",
-      "summary": "봄철 환절기로 인한 감기와 비염… 학업에 미치는 영향은?&nbsp;&nbsp;헬스경향\"눈 가려워 못 버틴다\" 알레르기 결막염 급증에 점안제 수급난&nbsp;&nbsp;약사공론호흡기 치료보다 면역력 관리가 중요한 이유&nbsp;&nbsp;이투데이“기후위기에 꽃가루 더 많이, 더 오래 날린다”&nbsp;&nbsp;뉴스펭귄비염, 약으로 버틸 수 있을까…반복될수록 치료 전환 고민해야&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UX1RCNmZvYmJHTXZ3OUd0VTFkUHJFa1ItdUZkaHNpdW0xbHdlQU45TmM2LWVkQzBrMGx4VWNST1BYS0MyVW9IeXBuRkV0bzlZc2xUQ01OZmdUMUp6Wk56YW5lbzFlanZYanc?oc=5"
         }
       ]
     },
