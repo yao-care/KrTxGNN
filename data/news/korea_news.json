@@ -1,19 +1,31 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-12T14:32:28.629050+00:00",
-  "total_fetched": 87,
-  "unique_count": 87,
+  "fetched_at": "2026-05-12T19:57:32.608491+00:00",
+  "total_fetched": 85,
+  "unique_count": 85,
   "health_related_count": 42,
   "news": [
     {
-      "id": "3effc2530f0f",
+      "id": "86bcbcb9c24a",
+      "title": "국내 HIV 신규 감염, 뚜렷한 감소세 없어…\"낙인 줄이고 위험 행동 알려야\" - MEDI:GATE NEWS",
+      "published": "2026-05-12T17:45:00+00:00",
+      "summary": "국내 HIV 신규 감염, 뚜렷한 감소세 없어…\"낙인 줄이고 위험 행동 알려야\"&nbsp;&nbsp;MEDI:GATE NEWS“한 번 맞으면 HIV 2년 가까이 억제”… ‘죽음의 병’ 에이즈 새 치료법 나오나&nbsp;&nbsp;조선일보HIV 치료제 시장, 노출 전 예방요법 확대&nbsp;&nbsp;의약뉴스[인터뷰]HIV, 생존 넘어 ‘관리’로… 2제 요법·장기지속주사제가 치료환경 재편&nbsp;&nbsp;메디코파마치료 발전에도 HIV/AIDS 여전히 높은 사망률… 완치 불가 감염질환 재확인&nbsp;&nbsp;경기메디뉴스",
+      "sources": [
+        {
+          "name": "MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zNmpXVE5Hckc2V0FsYnI0VHQ4VFZ4X1U1UjlvbE1RWURHOGg5ZjdPUmQ3aTZ6LUU2SkpURGJpd0xmU3dpY1JJbWVVdXZxVDJ3RExwV1VZRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a28be64956b1",
       "title": "난소암 항암 부작용 ‘2등급 이상 운동기능장애’ 줄이는 법 찾았다 - 헬스경향",
       "published": "2026-05-12T11:46:00+00:00",
       "summary": "난소암 항암 부작용 ‘2등급 이상 운동기능장애’ 줄이는 법 찾았다&nbsp;&nbsp;헬스경향\"고용량 셀레늄, 난소암 항암 중 보행장애 등 부작용 완화\"&nbsp;&nbsp;v.daum.net\"난소암 치료이후 근력 약화\"…'이 주사'로 막는다&nbsp;&nbsp;newsis.com고용량 셀레늄, 난소암 항암 부작용 줄였다…운동 기능 장애 억제&nbsp;&nbsp;뉴스1고용량 셀레늄, 재발성 난소암 항암 부작용 억제 가능성 … 서울대병원 3상 파일럿 임상 발표&nbsp;&nbsp;헬스오",
       "sources": [
         {
           "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qazh2TlcybmtSZ1lQQXBTN3g1em5hNUdLNHVFSDJ4RTBaSFMwVDFKZmpqZnNhYm1ZWjR1VFNwNUNNa1phNmx6V2RKNE1IRUhBSHNXTkdyV0FBeEN2ZHlkY3RQWUUtODBz?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsT1lqNjJ2SVBrVlZDckhmZ2U1eWpmdm9xMF9VLVUyT2d5RlZmRC1QRjlSemJKOXF2XzlDNjZjQnFBeEFtN3c1UFZYVGNkVlFYc2lYY0ZFNGQ5QW5NeDc5b2txWGpDRFNwUmc?oc=5"
         }
       ]
     },
@@ -186,6 +198,18 @@
       ]
     },
     {
+      "id": "e6efd331fde1",
+      "title": "기억력 저하와 보행장애 함께 나타난다면…‘가역성 치매’ 확인해야 - 스포츠한국",
+      "published": "2026-05-12T04:14:27+00:00",
+      "summary": "기억력 저하와 보행장애 함께 나타난다면…‘가역성 치매’ 확인해야&nbsp;&nbsp;스포츠한국“단순 건망증과 다르다”…전문가들이 설명한 치매의 초기 경고 신호들&nbsp;&nbsp;레이디경향나이 젊어도 치매 걸린다 “이 비타민 꼭 챙겨 먹어라”&nbsp;&nbsp;중앙일보[장석영의 '실버 산업' 현황과 전망] 기억을 잃어가는 부모를 지켜보는 시간, 치매 가족이 겪는 돌봄의 현실&nbsp;&nbsp;청년일보\"악취도 모르고 지낸다?\"…전문가가 꼽은 치매 초기 신호 10&nbsp;&nbsp;조세일보",
+      "sources": [
+        {
+          "name": "스포츠한국",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yc2V0cEVqSmtaSFZoblRtMXMzbkR2dUtCZU90R1lPQ2hPYXlvdmhQUFBVU3RUWXpvUTlsSTdaY2I3SjF1YTN3Mk1uemtPNThocF9DeUxIdm50YUgzUHNYbTFnUkRxU2VQV2xuN2tkSnbSAXRBVV95cUxPMlZsQnR1NE9kdTJhVXVlTXpwZl84R1pEbGtBV0pkTGxySkpLY1I0YmZKZG9Fc3FVNmtfTEVGdE1RMGpFWFRUb3N0ajZxLUNUZTZESnNMUUpIeHpTVXF1WkRkYnFINGtLcnVKUVE3YlJkWVM2aQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "811ca2e79a9c",
       "title": "\"'이것' 빈도 늘리기, 대장암 안 걸리는 최고의 방법\"… 서울대 교수 강조, 뭘까? - 코메디닷컴",
       "published": "2026-05-12T04:09:00+00:00",
@@ -266,6 +290,30 @@
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tbzJQVkJhZ1FiMGdqYnl3ZUFsX09MeFMwOHFOTExtRlZQQ3lra0xQTUVTMk8weHZjQ3JIc0c0QlpzV1JDVXYyT3ZxRzd3LTQ0TXluUVhwamxVT255WkQxQzk1aTZCVmo4SVRueg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fb8fb20e860",
+      "title": "보령, 만성질환 3총사 나란히 성장...유지 비결은 '다양성' - 메디칼타임즈",
+      "published": "2026-05-11T20:20:00+00:00",
+      "summary": "보령, 만성질환 3총사 나란히 성장...유지 비결은 '다양성'&nbsp;&nbsp;메디칼타임즈",
+      "sources": [
+        {
+          "name": "메디칼타임즈",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xX3c3MHVodFh0aTRHTXVORk96SDdfNC15MWtaUDZXaGE5OHJWWkhLWjFlVzM4Ykd2MU5hTlBhYzRhbTgtcHRFdmFOb2tUWGppRUFaS09EUFVUSmdZbFNjMlE2NmtMUzFuOFJqV01mTVc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b55b79fd07a6",
+      "title": "“아침에 유독 멍하다면?”... 아침 두뇌 깨우는 음식 5가지 - 하이닥",
+      "published": "2026-05-11T09:30:00+00:00",
+      "summary": "“아침에 유독 멍하다면?”... 아침 두뇌 깨우는 음식 5가지&nbsp;&nbsp;하이닥카페인 대신 채우는 뇌세포의 생기 한 잔&nbsp;&nbsp;브런치\"60세 이후 인지저하 막아\" 여성 건강에 특히 좋은 식품&nbsp;&nbsp;조세일보",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qSmRmRFdqamhURE84TVhBdTdBbHlIY1pvUnhLR2xsU3pVZUtZb3dFUmlnb1F1dUVoSUxIVFBQRWlqNUZ6UVctVEE3ZEZISWNUVVl0SDRFQjBlU0c4aTk5NUJnZTFjYndzaHc?oc=5"
         }
       ]
     },
@@ -357,7 +405,7 @@
       "id": "39f8b30bdf9f",
       "title": "식스팩 위해 복근운동?…배에 힘 주면 ‘O건강’에도 도움 - 농민신문",
       "published": "2026-05-11T05:00:00+00:00",
-      "summary": "식스팩 위해 복근운동?…배에 힘 주면 ‘O건강’에도 도움&nbsp;&nbsp;농민신문\"식스팩 만들면 뇌가 맑아진다\"…복근 운동, 수면만큼 '뇌 청소' 효과&nbsp;&nbsp;newsis.com[홍정기의 중년 여성 운동 레시피 4] 근육이 뇌를 깨끗하게 한다구요?&nbsp;&nbsp;여성조선뇌 노폐물 청소에 복근이 관여한다니&nbsp;&nbsp;sputnik.kr‘흡’ 하고 배에 힘주면 뇌가 청소된다…치매 막는 ‘3초 복근 펌프’ 움직임 [헬시타임]&nbsp;&nbsp;서울경제",
+      "summary": "식스팩 위해 복근운동?…배에 힘 주면 ‘O건강’에도 도움&nbsp;&nbsp;농민신문\"식스팩 만들면 뇌가 맑아진다\"…복근 운동, 수면만큼 '뇌 청소' 효과&nbsp;&nbsp;newsis.com[홍정기의 중년 여성 운동 레시피 4] 근육이 뇌를 깨끗하게 한다구요?&nbsp;&nbsp;여성조선뇌 속 노폐물 씻어내는 '복근의 힘'… 치매 예방의 새 지평&nbsp;&nbsp;글로벌이코노믹‘흡’ 하고 배에 힘주면 뇌가 청소된다…치매 막는 ‘3초 복근 펌프’ 움직임 [헬시타임]&nbsp;&nbsp;서울경제",
       "sources": [
         {
           "name": "농민신문",
@@ -374,18 +422,6 @@
         {
           "name": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hRUpZS0lRa3ZHRWU1eHhrS093VFN3aUh3WnV0d2FSVk9lTjI4eENlODNzLUxERG5zU055QlA2SzFlZE9EMUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c9366cf6f25",
-      "title": "‘윙윙’ 곧 다가올 모기 시즌… 피부 노출 최소로도 예방 - 미주한국일보",
-      "published": "2026-05-11T03:00:00+00:00",
-      "summary": "‘윙윙’ 곧 다가올 모기 시즌… 피부 노출 최소로도 예방&nbsp;&nbsp;미주한국일보정약용부터 이수지까지…인류 숙적 모기의 '진짜 정보' 파헤치기&nbsp;&nbsp;네이트[장기초] 여름의 불청객, 모기의 모든 것&nbsp;&nbsp;우리학교신문\"종이컵에 설탕이랑 '이 액체' 넣어보세요\"... 집안의 모기가 감쪽같이 사라집니다&nbsp;&nbsp;아던트뉴스“왜 나만?” 모기에 유독 잘 물리는 사람…‘이 액체’ 하나면 고민 해결?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15Q0hIdGtYWjFiVFdZclJNRmg3cE50VGpCRHh1VVdNREhiU1lpdTZOWTBNcW43bmhSYmZ1SlVESktaOFBpaFhvQjJSdVZpb1hmMllnN09tSy1JQ24yREk0?oc=5"
         }
       ]
     },
@@ -410,30 +446,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIYVd1Vms1bHFxUlpxVnE3UjRocURqQTBQVlo3SG44c1F2MWFGcFdNYWE3SjFKdFk1V3lRT282MjNJT0tHbTBJcFdUN2JWZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b167208fe18",
-      "title": "\"악취도 모르고 지낸다?\"…전문가가 꼽은 치매 초기 신호 10 - 조세일보",
-      "published": "2026-05-11T02:00:20+00:00",
-      "summary": "\"악취도 모르고 지낸다?\"…전문가가 꼽은 치매 초기 신호 10&nbsp;&nbsp;조세일보“단순 건망증과 다르다”…전문가들이 설명한 치매의 초기 경고 신호들&nbsp;&nbsp;레이디경향나이 젊어도 치매 걸린다 “이 비타민 꼭 챙겨 먹어라”&nbsp;&nbsp;중앙일보[장석영의 '실버 산업' 현황과 전망] 기억을 잃어가는 부모를 지켜보는 시간, 치매 가족이 겪는 돌봄의 현실&nbsp;&nbsp;청년일보치매 걱정 덜고 '뇌 청춘' 유지하는 10가지 생활 습관…AHA, 뇌 건강 회복력 높이는 핵심 요인 발표&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02TV9JVG5DeXRIQ1pLZ25EQnQ2TF91S1NfUXJtbGdFZG1ndExmVU1kR2MzbFhUaVN4NV80M0xSUHpaSEo1NURVeUVSaXRnNG1zVFBpVGNHOTJma3k4Nm80?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb349ac6d869",
-      "title": "아르헨티나 당국 \"기후 상승이 한타바이러스 발생 지역 확산 가능성 높였을 것\" - 비즈니스포스트",
-      "published": "2026-05-11T01:27:10+00:00",
-      "summary": "아르헨티나 당국 \"기후 상승이 한타바이러스 발생 지역 확산 가능성 높였을 것\"&nbsp;&nbsp;비즈니스포스트",
-      "sources": [
-        {
-          "name": "비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95V295czdUOGZJbi1jV2xnVjNGMEhVUVUtNzluZ0VObXZMNDhjVnVRLWtOY2VNOGxPcXBmTjUwXzZvUjJJbVk4ZHZXa2FsUkoxeDFSWVNOdkE2NVRBUVM5b1ZzZF8zVHRjV0NieDBzcDJNN2c?oc=5"
         }
       ]
     },
@@ -470,18 +482,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6cG9rQ2w1cGNWeHcwX24xRFRSX1dDNjBjNW9jbDBmX0k2ZXlfOElZYlJWNmRCTVZkODBRUTRac2hjMFNEa0lyVXlkc1c5UVFZNHJTNXZtWTNhLUFicHVFS29WZzJvM1ctdk9B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a8922bb37b42",
-      "title": "혈우병 첫 'GIFT신약'…환자들에 '무출혈' 선물될까 - 네이트",
-      "published": "2026-05-10T21:01:00+00:00",
-      "summary": "혈우병 첫 'GIFT신약'…환자들에 '무출혈' 선물될까&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uZEZYTVZ1LWg5QUR5SENqWE9YWXpLaE1mT1ZpVVBFcy1FdllyeldhcER3NWItNTZIVGFfT281dlVLZkl4ZDZkRFhXZ19DdzZIUUVJ?oc=5"
         }
       ]
     },
