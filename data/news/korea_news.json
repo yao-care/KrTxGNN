@@ -1,19 +1,115 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-12T03:35:08.463638+00:00",
-  "total_fetched": 74,
-  "unique_count": 74,
-  "health_related_count": 35,
+  "fetched_at": "2026-05-12T08:44:40.563759+00:00",
+  "total_fetched": 84,
+  "unique_count": 84,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "6fdd4c939046",
-      "title": "서울대병원 김희승 교수팀, 고용량 셀레늄, 난소암 항암 부작용 ‘2등급 이상 운동장애’ 줄인다 - 메디포뉴스",
-      "published": "2026-05-12T03:15:16+00:00",
-      "summary": "서울대병원 김희승 교수팀, 고용량 셀레늄, 난소암 항암 부작용 ‘2등급 이상 운동장애’ 줄인다&nbsp;&nbsp;메디포뉴스\"난소암 치료이후 근력 약화\"…'이 주사'로 막는다&nbsp;&nbsp;newsis.com\"고용량 셀레늄, 난소암 항암 중 보행장애 등 부작용 완화\"&nbsp;&nbsp;연합뉴스고용량 셀레늄, 난소암 항암 부작용 ‘2등급 이상 운동장애’ 개선&nbsp;&nbsp;헬스미디어뉴스",
+      "id": "e4a7799555a0",
+      "title": "‘암흑 단백질’ 펩타이딘…정체 모를 존재의 작명법 [강석기의 과학풍경] - 한겨레",
+      "published": "2026-05-12T07:21:00+00:00",
+      "summary": "‘암흑 단백질’ 펩타이딘…정체 모를 존재의 작명법 [강석기의 과학풍경]&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "메디포뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtc3djeG5Wcmo5RVYtbFUzUjR0c2ZSUURURHpOaHJZMGNrc1A3VV9TY0xGdzh2YWgxNXRfRkhpa1o0R3ZzM1JQWnBXTkxJX2FleGVPMlh1ZzNMTnVrMXcta25KQzI?oc=5"
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsY3VLYmlKQlZYVHZfdWR5SV94TjhLS3NiR3Y2czlFUDJrUWtraW84UDl1S2E4YTRDN0d4Wi00OEFxbXZWaU40c21ob0VvdldmeFhWUW5OOEtBdkRwWGt3eXBZclBPdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ba218b03c30",
+      "title": "일본 중입자 암 치료 중 30년 간 성적이 좋은 주요 암종은? - 바이오타임즈",
+      "published": "2026-05-12T06:43:23+00:00",
+      "summary": "일본 중입자 암 치료 중 30년 간 성적이 좋은 주요 암종은?&nbsp;&nbsp;바이오타임즈전립선암 치료의 진화…‘꿈의 암 치료’ 중입자 시대 열렸다&nbsp;&nbsp;시사저널전립선암 능동적 감시 중단 예측 'PSAD' 가장 강력&nbsp;&nbsp;메디칼업저버전립선암 치료제 내성 극복 길 찾았다&nbsp;&nbsp;헬스코리아뉴스반복적인 PSA 검사, 전립선암 치료 흐름 바꿨다&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pUER4YTZfa3JMdTlVcFNLZDlUYmJ2TDUtdjZET0hrSVhnNER3ZElvR2kyeXJha0dkNXJldU83X2VCVWFpQWZVSWoyS2ZoZC13N0pBeGRqTmRScG9GQ1JCdTQzdmM0UnloQU1rSA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5789aa274f6f",
+      "title": "초음파 쏘자 코로나19 바이러스 붕괴…새 감염 차단 가능성 - 디지털투데이",
+      "published": "2026-05-12T06:42:51+00:00",
+      "summary": "초음파 쏘자 코로나19 바이러스 붕괴…새 감염 차단 가능성&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PdU5JblRBZFFlRmZCSUdQTWZjZGw4VzJnTjdlbkxmdGJ5T2pfMmxvUW84VGUwbXh4RkpFQW5SYUs3UTgwbXJINUZjMktvdGtEOFBXUVJUcVE3V3YyNGlYTTRtTjRTTTlxbmtWYUhjZ25iUmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9860e37c167",
+      "title": "치매 막으려 매일 먹은 오메가-3…오히려 인지 기능 저하?[노화설계] - 네이트",
+      "published": "2026-05-12T06:07:00+00:00",
+      "summary": "치매 막으려 매일 먹은 오메가-3…오히려 인지 기능 저하?[노화설계]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xdUk3ZW5ob3lGejhqQmgwRUtqSEhlLTB1UUxIMVJUZC1fWDJvaVJ3UzBNcHlpR1VrQ1dodHBHdEM2NW9IUnRTdGJlSGJaS0hOVE1v?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "357ebce7c979",
+      "title": "[서울신문] 전대원 교수, 비알코올성 지방간 관리에 관해 코멘트 - 뉴스H",
+      "published": "2026-05-12T05:49:31+00:00",
+      "summary": "[서울신문] 전대원 교수, 비알코올성 지방간 관리에 관해 코멘트&nbsp;&nbsp;뉴스H술 안 마신다고 비만·당뇨 방치?…간이, 부었군요&nbsp;&nbsp;서울신문3명 중 1명이 앓는 ‘지방간’···간 때문만은 아니었다?&nbsp;&nbsp;경향신문똑같이 먹어도 나이 들면 간에 지방 더 쌓인다&nbsp;&nbsp;네이트지방간질환, 간 아닌 소장·장내미생물 문제였다…전신 질환 통합 관리 중요성 부각 : 패션 & 뷰티&nbsp;&nbsp;kstars.kr",
+      "sources": [
+        {
+          "name": "뉴스H",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wRnVHZTgzSGtod1BOLW1ZYWM1LTdod21Mb2hBc3ZjSENMWjUtdGxIVTI3VFN0bXFIQ2NXVFo5TjB6ZllSTnBSalphUWNhNTFrR29tbHNoTS1lYUdKSDlRYUdYWHJCVmNDcnY0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab352f7e244a",
+      "title": "수술이 잘됐다는데 왜 아직도 못 걸을까?…골절보다 무서운 '불유합' - 매경헬스",
+      "published": "2026-05-12T04:46:49+00:00",
+      "summary": "수술이 잘됐다는데 왜 아직도 못 걸을까?…골절보다 무서운 '불유합'&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EcHo5MXoxa2s4eDg4YkNxbFZQa1JKcmNTRWNUUm9hUlJ2cGZMRmplN3hwcHNSanBGY1V6Qk9fQ2stOGROaEd5Wl9XQWNNMjdVeW1Va29rLVQwa2tNa2FyQm5pampjNmZabXJfeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "541105567dbb",
+      "title": "고용량 셀레늄, 난소암 항암 부작용 ‘2등급 이상 운동장애’ 축소 - 후생신보",
+      "published": "2026-05-12T04:43:00+00:00",
+      "summary": "고용량 셀레늄, 난소암 항암 부작용 ‘2등급 이상 운동장애’ 축소&nbsp;&nbsp;후생신보\"난소암 치료이후 근력 약화\"…'이 주사'로 막는다&nbsp;&nbsp;newsis.com\"고용량 셀레늄, 난소암 항암 중 보행장애 등 부작용 완화\"&nbsp;&nbsp;연합뉴스고용량 셀레늄, 난소암 항암 부작용 줄였다…운동 기능 장애 억제&nbsp;&nbsp;뉴스1고용량 셀레늄, 재발성 난소암 항암 부작용 억제 가능성 … 서울대병원 3상 파일럿 임상 발표&nbsp;&nbsp;헬스오",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5XMGd5SUEzUUFhTlpDQjctZWh3aWd0blhmSWR5czV5R3hZaDVxVU1la0JfWWhOOUFGdFlfb0k0Uy1mNXYt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "811ca2e79a9c",
+      "title": "\"'이것' 빈도 늘리기, 대장암 안 걸리는 최고의 방법\"… 서울대 교수 강조, 뭘까? - 코메디닷컴",
+      "published": "2026-05-12T04:09:00+00:00",
+      "summary": "\"'이것' 빈도 늘리기, 대장암 안 걸리는 최고의 방법\"… 서울대 교수 강조, 뭘까?&nbsp;&nbsp;코메디닷컴“비만·암 부른다”… 내과 의사가 꼽은 ‘최악의 음식’, 뭐지?&nbsp;&nbsp;헬스조선소시지·햄 ‘1군 발암’ 분류…대장암 사망 9683명이 말하는 ‘반복된 선택’&nbsp;&nbsp;v.daum.net속 더부룩할 때 먹은 ‘이것’, 암 유발할 수도… 뭐야?&nbsp;&nbsp;헬스조선“대장암 예방 효과” 장 건강에 좋은 과일 5가지… 뭘까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE91dTl0RGpYT1NHZzZGTU1RdkV4RzBVUjdIbXhtSFFtQVJnUHp4RDV2dHhVeTVHV01USmtybmJvNnRhdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53f8a8479f4d",
+      "title": "버터떡, 크기 작아도 ‘한입 300kcal’… “지속 섭취 시 비만·만성질환 위험 높아” - 하이닥",
+      "published": "2026-05-12T03:30:00+00:00",
+      "summary": "버터떡, 크기 작아도 ‘한입 300kcal’… “지속 섭취 시 비만·만성질환 위험 높아”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WeWpHbFNfX05GM3JsQWxqbFBGWDdfUlg4Zm5WUExZbnd2ZTY0ZWFNbkFhdFdST25uM3pzN2Ita2l5MlhGVGJkZTVmcVVEbTN0WWE3V3MwMS1lVVUxMG5rVVBmblB2WkpkVUE?oc=5"
         }
       ]
     },
@@ -33,7 +129,7 @@
       "id": "8adc1fab2b3f",
       "title": "인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화 - 인니투데이",
       "published": "2026-05-12T02:13:10+00:00",
-      "summary": "인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이하노이, 한타바이러스 예방 위해 입국객 건강 상태 밀착 감시&nbsp;&nbsp;Thông tấn xã Việt Nam (TTXVN)한타바이러스 발생을 막기 위해 입항 선박에 대한 엄격한 통제가 시행되고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이",
       "sources": [
         {
           "name": "인니투데이",
@@ -45,23 +141,11 @@
       "id": "60b7b48e6e8c",
       "title": "[건강정보] 기억력 저하, 단순 건망증 아닐 수도···알츠하이머병, 초기 진단 시 치료 선택지 넓어져 - 의사신문",
       "published": "2026-05-12T01:37:43+00:00",
-      "summary": "[건강정보] 기억력 저하, 단순 건망증 아닐 수도···알츠하이머병, 초기 진단 시 치료 선택지 넓어져&nbsp;&nbsp;의사신문[의료칼럼] 기억력 저하, 단순 건망증 아닐 수도... 알츠하이머병, 초기 진단 시 치료 선택지 넓어져&nbsp;&nbsp;내외뉴스통신떨림보다 먼저 오는 변화 잡는다…귀 속 마이크로 신경퇴행성 질환 조기 발견&nbsp;&nbsp;네이트\"나이 탓인 줄 알았는데 이럴수가!\"…알츠하이머·파킨슨병 신호는? [김효경의 데일리 헬스]&nbsp;&nbsp;데일리안금연+혈관건강 관리, 알츠하이머 예방 지름길&nbsp;&nbsp;스포츠경향",
+      "summary": "[건강정보] 기억력 저하, 단순 건망증 아닐 수도···알츠하이머병, 초기 진단 시 치료 선택지 넓어져&nbsp;&nbsp;의사신문[의료칼럼] 기억력 저하, 단순 건망증 아닐 수도... 알츠하이머병, 초기 진단 시 치료 선택지 넓어져&nbsp;&nbsp;내외뉴스통신떨림보다 먼저 오는 변화 잡는다…귀 속 마이크로 신경퇴행성 질환 조기 발견&nbsp;&nbsp;네이트\"나이 탓인 줄 알았는데 이럴수가!\"…알츠하이머·파킨슨병 신호는? [김효경의 데일리 헬스]&nbsp;&nbsp;데일리안Chapter 2. 파킨슨병 역학과 통계: 왜 급증하는가?&nbsp;&nbsp;강찬수의 에코파일",
       "sources": [
         {
           "name": "의사신문",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lUlZaVEphNUpMc2hJMHg4Wk00UWFLZTVoRVc5d0RIQV9qekNtWU8teDRsS0ZZN21KQkxQNEJlUjJuVXBGaG02RHM5dUpjNzVrb3Q4MjRqaVMyOWhWUUI4bVRXZFo5V0xtTmI0WTBPSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dff982ddbc92",
-      "title": "치료 발전에도 HIV/AIDS 여전히 높은 사망률… 완치 불가 감염질환 재확인 - 경기메디뉴스",
-      "published": "2026-05-12T00:32:00+00:00",
-      "summary": "치료 발전에도 HIV/AIDS 여전히 높은 사망률… 완치 불가 감염질환 재확인&nbsp;&nbsp;경기메디뉴스",
-      "sources": [
-        {
-          "name": "경기메디뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3RGZVcTF5QXljcEQtR1lLOU1iQ2FuTUlMa1M2dVVyakc0bjFCTWFYSzY5UHNyQlFYQnlrQWQtV0JBenBVT1JZa19mQlJRUWlPX05PVGJIUVZvQ2NWU0ZrbzZQQUJyM1NpOVE?oc=5"
         }
       ]
     },
@@ -90,50 +174,14 @@
       ]
     },
     {
-      "id": "21034fda8efc",
+      "id": "e02ea9a21d81",
       "title": "GLP-1 RA, 유방암 환자 재발ㆍ사망 위험 감소 - 의약뉴스",
       "published": "2026-05-11T20:59:00+00:00",
       "summary": "GLP-1 RA, 유방암 환자 재발ㆍ사망 위험 감소&nbsp;&nbsp;의약뉴스",
       "sources": [
         {
           "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45XzhsRVZ3Zk02TEw5VXFsTUV6UUVIcGt3VDk2V1RZZkc0RlZvb0syN2cxcnpnc2Y2RWhTaUJUbWJHbXNQbDN4cEFKWk4zSHVZbnh3NTdOSWhVRU9nSEdzOWxlRUJObUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c4d015742706",
-      "title": "“비만·암 부른다”… 내과 의사가 꼽은 ‘최악의 음식’, 뭐지? - 헬스조선",
-      "published": "2026-05-11T17:20:00+00:00",
-      "summary": "“비만·암 부른다”… 내과 의사가 꼽은 ‘최악의 음식’, 뭐지?&nbsp;&nbsp;헬스조선소시지·햄 ‘1군 발암’ 분류…대장암 사망 9683명이 말하는 ‘반복된 선택’&nbsp;&nbsp;v.daum.net속 더부룩할 때 먹은 ‘이것’, 암 유발할 수도… 뭐야?&nbsp;&nbsp;헬스조선“대장암 위험 확 오른다”… 주방에서 하는 ‘이 행동’ 주의&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OVXlfVkdRNUd3dVpyQTgxZ2lBakhrcGlzZGRhTi0tdnFhWjlGNzFVQmxnN2ZtTlp0OXItclNMZXNKN1RGTkFNbEgtMGZSMG00eGdzNjBHbXYwWVpZYWw4azQ3dlNZN2FhZ2hOTXhWelRCRFlyc3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e91184c5af7e",
-      "title": "70대도 안 늦어...생활습관 3가지만 지켜도 건강수명 10%↑ - 디멘시아뉴스",
-      "published": "2026-05-11T10:14:21+00:00",
-      "summary": "70대도 안 늦어...생활습관 3가지만 지켜도 건강수명 10%↑&nbsp;&nbsp;디멘시아뉴스“주말도 일찍 일어나야 월요병 퇴치”…수면 과학자가 지목한 의외의 숙면 습관&nbsp;&nbsp;경향신문‘이것’만 바꿔도 늙는 속도 달라진다…진짜 장수 습관 10가지&nbsp;&nbsp;조선일보침대에 8시간 미만 머물면 심근경색-뇌경색 위험 2배&nbsp;&nbsp;동아일보건강하게 오래 살기 위한 꿀팁, 아직 한국에 안 나온 ‘이 책’에 다 담겼다&nbsp;&nbsp;GQ Korea",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rQ2xYMlA5OUlIODV3QkJtandwdVZzV1BQZkZPbXhpNGdzNU11aU9fWWhkdE1rQ3JBZjkwQV9WR1Vmb0FsZXM1STdHTFF6MVhuYkR3Z01wOUgzTUJiRGVQWDlWc1R5Yk5fNzJ6TTZEVFR6dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b55b79fd07a6",
-      "title": "“아침에 유독 멍하다면?”... 아침 두뇌 깨우는 음식 5가지 - 하이닥",
-      "published": "2026-05-11T09:30:00+00:00",
-      "summary": "“아침에 유독 멍하다면?”... 아침 두뇌 깨우는 음식 5가지&nbsp;&nbsp;하이닥인지력 개선 ‘포스파티딜세린’, 1만500원 조선몰 단독 특가&nbsp;&nbsp;조선일보카페인 대신 채우는 뇌세포의 생기 한 잔&nbsp;&nbsp;브런치디지털 과부하 시대의 뇌 건강: 장-뇌 연결과 신경 조절 환경이 답이다&nbsp;&nbsp;브랜드경제신문\"60세 이후 인지저하 막아\" 여성 건강에 특히 좋은 식품&nbsp;&nbsp;조세일보",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qSmRmRFdqamhURE84TVhBdTdBbHlIY1pvUnhLR2xsU3pVZUtZb3dFUmlnb1F1dUVoSUxIVFBQRWlqNUZ6UVctVEE3ZEZISWNUVVl0SDRFQjBlU0c4aTk5NUJnZTFjYndzaHc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGNFLXBHdlFUNFNmQTcyMHZ5el96VHM5MEg5c19RYkQ5Ri1ZbkQxVWxYejQ0bjA5SGQyV3VMTFROanJQVUVGdGJNckFDVEZUUHgtaHd4dDlwVXctNy0wQmFHX1BYSW02?oc=5"
         }
       ]
     },
@@ -246,14 +294,14 @@
       ]
     },
     {
-      "id": "85da025c9882",
-      "title": "간 건강, '장내 세균에 달렸다' - 후생신보",
-      "published": "2026-05-11T05:17:00+00:00",
-      "summary": "간 건강, '장내 세균에 달렸다'&nbsp;&nbsp;후생신보3명 중 1명이 앓는 ‘지방간’···간 때문만은 아니었다?&nbsp;&nbsp;경향신문술 안 마신다고 비만·당뇨 방치?…간이, 부었군요&nbsp;&nbsp;서울신문똑같이 먹어도 나이 들면 간에 지방 더 쌓인다&nbsp;&nbsp;네이트지방간질환, 간 아닌 소장·장내미생물 문제였다…전신 질환 통합 관리 중요성 부각 : 패션 & 뷰티&nbsp;&nbsp;kstars.kr",
+      "id": "1132ca5764d2",
+      "title": "전고체전지 보호막 기술 개발…1000회 충방전에도 효율 99.9% - v.daum.net",
+      "published": "2026-05-11T04:53:53+00:00",
+      "summary": "전고체전지 보호막 기술 개발…1000회 충방전에도 효율 99.9%&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BajVxdXFTVk9iZW9wNmtDc2lBU3c3aWZiQ1R5bFJyNmhkc1l3UndJUTJhaDVQRHNaMGo4RGNjcjJGVWsyTVE?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vMGZxbFJKRlo0NEtvY3BpbnB5Y0cwLTZ0UHE1QzFCUFMyVkdfTW5LOVp5ODBxbmhxRXNIcWNJZ1Y0WTdUQmZKVnlkbUpJeHc?oc=5"
         }
       ]
     },
@@ -261,7 +309,7 @@
       "id": "8c9366cf6f25",
       "title": "‘윙윙’ 곧 다가올 모기 시즌… 피부 노출 최소로도 예방 - 미주한국일보",
       "published": "2026-05-11T03:00:00+00:00",
-      "summary": "‘윙윙’ 곧 다가올 모기 시즌… 피부 노출 최소로도 예방&nbsp;&nbsp;미주한국일보정약용부터 이수지까지…인류 숙적 모기의 '진짜 정보' 파헤치기&nbsp;&nbsp;네이트[장기초] 여름의 불청객, 모기의 모든 것&nbsp;&nbsp;우리학교신문\"종이컵에 설탕이랑 '이 액체' 넣어보세요\"... 집안의 모기가 감쪽같이 사라집니다&nbsp;&nbsp;아던트뉴스“왜 나만?” 모기에 유독 잘 물리는 사람…‘이 액체’ 하나면 고민 해결?&nbsp;&nbsp;코메디닷컴",
+      "summary": "‘윙윙’ 곧 다가올 모기 시즌… 피부 노출 최소로도 예방&nbsp;&nbsp;미주한국일보[장기초] 여름의 불청객, 모기의 모든 것&nbsp;&nbsp;우리학교신문\"종이컵에 설탕이랑 '이 액체' 넣어보세요\"... 집안의 모기가 감쪽같이 사라집니다&nbsp;&nbsp;아던트뉴스“왜 나만?” 모기에 유독 잘 물리는 사람…‘이 액체’ 하나면 고민 해결?&nbsp;&nbsp;코메디닷컴정약용부터 이수지까지…인류 숙적 모기의 ‘진짜 정보’ 파헤치기&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "미주한국일보",
@@ -297,7 +345,7 @@
       "id": "6b167208fe18",
       "title": "\"악취도 모르고 지낸다?\"…전문가가 꼽은 치매 초기 신호 10 - 조세일보",
       "published": "2026-05-11T02:00:20+00:00",
-      "summary": "\"악취도 모르고 지낸다?\"…전문가가 꼽은 치매 초기 신호 10&nbsp;&nbsp;조세일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "\"악취도 모르고 지낸다?\"…전문가가 꼽은 치매 초기 신호 10&nbsp;&nbsp;조세일보“단순 건망증과 다르다”…전문가들이 설명한 치매의 초기 경고 신호들&nbsp;&nbsp;레이디경향나이 젊어도 치매 걸린다 “이 비타민 꼭 챙겨 먹어라”&nbsp;&nbsp;중앙일보[장석영의 '실버 산업' 현황과 전망] 기억을 잃어가는 부모를 지켜보는 시간, 치매 가족이 겪는 돌봄의 현실&nbsp;&nbsp;청년일보치매 걱정 덜고 '뇌 청춘' 유지하는 10가지 생활 습관…AHA, 뇌 건강 회복력 높이는 핵심 요인 발표&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
           "name": "조세일보",
@@ -386,18 +434,6 @@
         {
           "name": "녹색경제신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzaWlybnNUZzZmd1d1OVdoVXN5bS1sSWZsOThhNzBmWERLNmNUMWx1dzZMUkdyR0cxYkFMc1J5cGJONUt1ODVmMmxJczRXeHNqRDhKRl83TTFkd1hMY2ZFbTZMeWxaZEVZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b1e7dae9072",
-      "title": "고려대학교 이정훈 교수팀, 침 한 방울로 HIV 조기 진단…“최대 8일 더 빠르게 포착” - 한국강사신문",
-      "published": "2026-05-10T10:23:00+00:00",
-      "summary": "고려대학교 이정훈 교수팀, 침 한 방울로 HIV 조기 진단…“최대 8일 더 빠르게 포착”&nbsp;&nbsp;한국강사신문고려대 \"채혈 없이 침 한 방울로 HIV 초기 감염 포착한다\"&nbsp;&nbsp;newsis.com‘침 한 방울’로 HIV 즉시 진단한다&nbsp;&nbsp;고대신문“침 한 방울로 에이즈 조기 발견” 고려대, AI·나노 결합 ‘초고감도 진단’ 개발&nbsp;&nbsp;스마트경제\"침 한 방울로 HIV 조기 포착\"…고려대, AI 기반 초고감도 진단기술 개발[과학을읽다]&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "한국강사신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JYjdkd3lTR3ZhUGx2b1BwSjlvVHNmY1VEOXEyZTZqVXpJQi1CcVEwVnc5Y216U0xOeWdYeTB3RFc0WlFMeUVqaFBPNnJKUVk2dHNIUldnVXBoSm9QZkdZTnJhbEZVaXZ3TUdOZTlxNzg?oc=5"
         }
       ]
     },
