@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-13T08:48:50.137667+00:00",
-  "total_fetched": 76,
-  "unique_count": 75,
-  "health_related_count": 31,
+  "fetched_at": "2026-05-13T14:41:59.361265+00:00",
+  "total_fetched": 79,
+  "unique_count": 78,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "1fea82c4663d",
+      "title": "턱관절 질환, 면역 관점 재해석 ‘주목’ - 치의신보",
+      "published": "2026-05-13T12:03:45+00:00",
+      "summary": "턱관절 질환, 면역 관점 재해석 ‘주목’&nbsp;&nbsp;치의신보",
+      "sources": [
+        {
+          "name": "치의신보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ga1ZkLVBONi0xeWh4RUhyNjdudEJxZnVkNkFZVGpDTmEzVGUtRUJ2Z3Y5XzV5V0hZOUp3Yk1LSThZd1dTNFFVRXNFZXdNeTRKWUpBcV9hTHF1TFJ6cVlNR1VTZG5TaEpx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f10329810b7",
+      "title": "운동 보충제 ‘이것’ 놀라운 효과?…‘치매’ 쥐에 먹였더니 - 농민신문",
+      "published": "2026-05-13T10:30:00+00:00",
+      "summary": "운동 보충제 ‘이것’ 놀라운 효과?…‘치매’ 쥐에 먹였더니&nbsp;&nbsp;농민신문‘아르기닌’ 먹었더니, 치매 생쥐 인지 기능 다시 살아났다&nbsp;&nbsp;헬스조선아르기닌, 치매 원인 물질 80% 억제...동물 실험서 효과&nbsp;&nbsp;하이닥저렴하고 안전한 아미노산 '아르기닌', 알츠하이머 치료 새로운 희망&nbsp;&nbsp;뉴스토마토",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUcy0xaFRoalQ3WHJyWmpaU0VEYjAyVDN4OWZfYXNhemZoX2hwaFU1LWxBZjVkcGR3blpkNXhhRnJNTGZWeW9tOU5NMHhEUGVxNngwZHo4SnNEQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "4af90dcaaf0c",
       "title": "드문 발명이지만 걸리면 치명적인 수막구균, 국내외 대응은 어떻게? - 문화일보",
@@ -18,14 +42,14 @@
       ]
     },
     {
-      "id": "ac28cc6e2d3a",
+      "id": "af004aaad759",
       "title": "고용량 셀레늄, 난소암 항암 부작용 '운동장애' 감소 효과 - 보건신문",
       "published": "2026-05-13T07:53:45+00:00",
       "summary": "고용량 셀레늄, 난소암 항암 부작용 '운동장애' 감소 효과&nbsp;&nbsp;보건신문난소암 항암치료 후 손발 저림·근력 약화··· ‘이 성분’ 투여하니 부작용 감소&nbsp;&nbsp;v.daum.net\"고용량 셀레늄, 난소암 항암 중 보행장애 등 부작용 완화\"&nbsp;&nbsp;연합뉴스\"난소암 치료이후 근력 약화\"…'이 주사'로 막는다&nbsp;&nbsp;newsis.com고용량 셀레늄, 난소암 항암 부작용 줄였다…운동 기능 장애 억제&nbsp;&nbsp;뉴스1",
       "sources": [
         {
           "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81eVRIbjIxNGs1VnFSMXIwWDFleDFWTzdiNmZRRE1QQzdhdmhwYlJSLTZyakFXMjdGVUpoempyWWNCX2xHMERPVlQ0cFlFN3Vxemd5cV85QjMtNFZEVnUtZVhR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OMHBjTEUzZVhPaHJBNDZLcmkyVDREb2Q1aGVpS203UEFPUEx1Z0pfcGhQTTEzdWRSSzd5LTdUaVVUR0d2YzhmTWJmMUM1TEVHTUxDcEVBbEVCVWZiRXJFbzFTUQ?oc=5"
         }
       ]
     },
@@ -66,6 +90,18 @@
       ]
     },
     {
+      "id": "1b6ca1ac87a3",
+      "title": "\"몸에 좋은 줄 알고 먹었는데\"⋯당뇨 위험 높이는 채소 종류는? - 아이뉴스24",
+      "published": "2026-05-13T05:25:59+00:00",
+      "summary": "\"몸에 좋은 줄 알고 먹었는데\"⋯당뇨 위험 높이는 채소 종류는?&nbsp;&nbsp;아이뉴스24Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFByMXNLam5MVGtubGRVSnF3Y2luWmFRWXJYRGdNZkd6NkxqZTB0X1YtYWw2Sy03cEZhYUVlczNOR2NqVWphR1FlZGpsZjg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3b3bdff3e2d4",
       "title": "에이즈치료제 시장 빅타비 아성에 장기 지속형 주사제 약진 - 의학신문",
       "published": "2026-05-13T03:00:00+00:00",
@@ -78,26 +114,38 @@
       ]
     },
     {
-      "id": "f879acf2d051",
-      "title": "명지병원, 당뇨발 ‘비절단 미세재건’ 본격화 - 데일리메디",
-      "published": "2026-05-13T02:18:00+00:00",
-      "summary": "명지병원, 당뇨발 ‘비절단 미세재건’ 본격화&nbsp;&nbsp;데일리메디Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "85bed888c943",
+      "title": "배에 힘주면 뇌가 청소된다 치매 막는 ‘3초 복근 펌프’ 움직임 - 미주한국일보",
+      "published": "2026-05-13T03:00:00+00:00",
+      "summary": "배에 힘주면 뇌가 청소된다 치매 막는 ‘3초 복근 펌프’ 움직임&nbsp;&nbsp;미주한국일보\"식스팩 만들면 뇌가 맑아진다\"…복근 운동, 수면만큼 '뇌 청소' 효과&nbsp;&nbsp;newsis.com[홍정기의 중년 여성 운동 레시피 4] 근육이 뇌를 깨끗하게 한다구요?&nbsp;&nbsp;여성조선뇌 속 노폐물 씻어내는 '복근의 힘'… 치매 예방의 새 지평&nbsp;&nbsp;글로벌이코노믹‘흡’ 하고 배에 힘주면 뇌가 청소된다…치매 막는 ‘3초 복근 펌프’ 움직임 [헬시타임]&nbsp;&nbsp;서울경제",
       "sources": [
         {
-          "name": "데일리메디",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaREhneG9XN3BremVQMWF0N1M4TTQwTTBQQ1dtNWtIOFpBV1dOQzlnVEp6QWJmUUNyLU9KUVluVkprd3AyYTh4Q1QtVlN0Q3BXcVNJOHpqQ09MTkVVM0RreFpNSThOMnZCQ2k4VFRVVno4b240?oc=5"
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZZTVNLXRaaTZrMHQ3bDlGbVVVTXFsOUdGcTB4dG5tUDVPN1dwemsyZlFaSUtnZGhaR3pvbThLY3BhR3BQb2JrT2hMbmtZNTJDanlRT1M1cmh4a28tUHdv?oc=5"
         }
       ]
     },
     {
-      "id": "c1d4c8beabb8",
-      "title": "리메드 “Cell 연구, TMS 우울증 회로 회복 기전 규명” - 라포르시안",
-      "published": "2026-05-13T02:11:00+00:00",
-      "summary": "리메드 “Cell 연구, TMS 우울증 회로 회복 기전 규명”&nbsp;&nbsp;라포르시안",
+      "id": "e1bc3e7fe214",
+      "title": "‘절단’ 대신 ‘재건’… 명지병원, 당뇨발 ‘비절단 미세재건’ 치료 강화 - 후생신보",
+      "published": "2026-05-13T02:46:00+00:00",
+      "summary": "‘절단’ 대신 ‘재건’… 명지병원, 당뇨발 ‘비절단 미세재건’ 치료 강화&nbsp;&nbsp;후생신보명지병원, 당뇨발 비절단 미세재건 치료 본격화&nbsp;&nbsp;의약뉴스명지병원 당뇨발 클리닉, ‘비절단 미세재건 치료’ 본격화&nbsp;&nbsp;이뉴스투데이당뇨발, 절단 대신 ‘재건’… 명지병원, ‘비절단 미세재건’ 치료체계 가동&nbsp;&nbsp;코리아헬스로그명지병원, 당뇨발 '비절단 미세재건' 본격화&nbsp;&nbsp;헬스미디어뉴스",
       "sources": [
         {
-          "name": "라포르시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIMEoyTG5WNmxSTVQwUlBzbEZIN2stNVZTejM5NmNyNl9RWjVucm80Y0FfcTY3NjBkQmhiTlhmb1VpdWdtMi1HLXBUS2VSY3IyOXhycndYWmo5dkFVSXd2N2lUQnpXSEswdWVYcQ?oc=5"
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBsWHhNQ0t5RVRtRk84eGgyczdnNXpFdU9DcF9KMFFtaldNZmVKZXhBcmxURllzNXlZX3hhTnRUcGtWVnha?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d1fed1ebda1",
+      "title": "리메드, \"Cell 연구, TMS의 우울증 회로 회복 기전 제시\"…뇌자극 플랫폼 본격 고도화 - 프라임경제",
+      "published": "2026-05-13T02:05:11+00:00",
+      "summary": "리메드, \"Cell 연구, TMS의 우울증 회로 회복 기전 제시\"…뇌자극 플랫폼 본격 고도화&nbsp;&nbsp;프라임경제",
+      "sources": [
+        {
+          "name": "프라임경제",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBySWZra0RWR3V0UnBRbFhnMnFDWFZsOHlubE8tWUdjbmt3QTJxNUEzd3JoejlkTF9QY0xRb3NRSmhHelhNSVozNWNMazE3V1U0amhMVDF4aWZhdzVjbFhsS0Z2Z1ZfaEI5YWdZZnhsdFUyUQ?oc=5"
         }
       ]
     },
@@ -110,6 +158,18 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sSFgydlNEUFh2SWF1MVFUVkVhMEZaNlJNUlBXVEFncmpvSzZlWXQ5UW1paW1DRW5sNG03U0g5ak1rdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af8a3f682c5f",
+      "title": "상추 때문에 노로바이러스에 걸릴 수 있다고? 아무도 몰랐던 식중독의 원인 - 여행픽",
+      "published": "2026-05-13T01:00:00+00:00",
+      "summary": "상추 때문에 노로바이러스에 걸릴 수 있다고? 아무도 몰랐던 식중독의 원인&nbsp;&nbsp;여행픽",
+      "sources": [
+        {
+          "name": "여행픽",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1enNpLXNWVE5vTU8yd05PTjZwMnhpS0dtVVlkWUJsMDNScjRrdi1GdjFBS1E2c1VQbWc5czJyRVBjR3hTQ1FnTHNUeFNPTFJhWTRaaGx1VlNXSXVmUVFjaHBTSEdhSUpPY1VzMQ?oc=5"
         }
       ]
     },
@@ -150,18 +210,6 @@
       ]
     },
     {
-      "id": "495fe8a850ed",
-      "title": "하루 한 포로 인지력-기억력-혈행 케어 - 동아일보",
-      "published": "2026-05-12T19:30:00+00:00",
-      "summary": "하루 한 포로 인지력-기억력-혈행 케어&nbsp;&nbsp;동아일보노화로 저하된 인지력·기억력 동시에 개선&nbsp;&nbsp;조선일보‘인지 건강 관리’ 의약품 시장 빠른 성장세…건기식에서 일반의약품으로&nbsp;&nbsp;글로벌이코노믹디지털 과부하 시대의 뇌 건강: 장-뇌 연결과 신경 조절 환경이 답이다&nbsp;&nbsp;브랜드경제신문치매예방을 넘어 20대 기억력 저하까지...전 생애주기로 번진 뇌건강, 뉴로웰니스&nbsp;&nbsp;kmjournal.net",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwUnBmalpZTXpJMXR4YTJWZmF0eDF5V2RNMldtNEVRODZob09HU1N4TktiRWlRMFYtV0tlcUk0MHJhLVpSZFl5YU9jN0JjUnN6Mk5fdDBJam5pVlVpbUNlZEJ1RU5lWHFoa1V3bHhOUdIBZkFVX3lxTE5mbVM3LTBWMkJnMlAwZE1aQk1KSkdqVC1VTzRuLXROMXlwX1VGVDlGVUk0bkJhWFpGTTV6YUJXMDdCMjkwbjRFc1JUNzBiY09wZGNkNVNPdFR5WFRaV2Mta2ZPaTVzUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "59f91fae450d",
       "title": "“육즙 좋아” 덜 익힌 고기 즐겼는데...60대 치매 환자서 ‘E형 간염 항체’ 증가 - 디멘시아뉴스",
       "published": "2026-05-12T11:01:41+00:00",
@@ -198,6 +246,18 @@
       ]
     },
     {
+      "id": "cab7e3a8783c",
+      "title": "“파도 타고 온 열매”…제주서 베트남 사는 아열대 식물 첫 발견 - 한겨레",
+      "published": "2026-05-12T09:56:00+00:00",
+      "summary": "“파도 타고 온 열매”…제주서 베트남 사는 아열대 식물 첫 발견&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VSVdMWnBHUVdiYVo3WXJaZmI1dWZxZEZ4LUVOMzFwaGdwM25LRm9zOF9mQndyMGhZclBiY1NiSDJGR1lxZERHY2pUdDc4YkRlRXR5Y1lMcU5MdnJFcUl3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e95d10a86f38",
       "title": "(단독)비만약 1위 마운자로, 당뇨병치료제 보험급여 좌절 - 뉴스토마토",
       "published": "2026-05-12T09:22:54+00:00",
@@ -225,7 +285,7 @@
       "id": "8adc1fab2b3f",
       "title": "인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화 - 인니투데이",
       "published": "2026-05-12T07:20:39+00:00",
-      "summary": "인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이인도네시아에서 23 건의 한타 바이러스 사례가 발표되었으며 치명적인 변형이 아니라는 것이 확인되었습니다.&nbsp;&nbsp;VOI.IDDKI 정부는 2026 년에 자카르타에서 4 건의 한타 바이러스 사례를 발견했으며 한 환자는 여전히 의심스럽습니다.&nbsp;&nbsp;VOI.ID한타 바이러스에 대해 경계하고, 술탄 하산 국제공항의 감시 강화&nbsp;&nbsp;VOI.ID인도네시아의 한타 바이러스는 얼마나 위험합니까?&nbsp;&nbsp;VOI.ID",
+      "summary": "인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이인도네시아에서 23 건의 한타 바이러스 사례가 발표되었으며 치명적인 변형이 아니라는 것이 확인되었습니다.&nbsp;&nbsp;VOI.idDKI 정부는 2026 년에 자카르타에서 4 건의 한타 바이러스 사례를 발견했으며 한 환자는 여전히 의심스럽습니다.&nbsp;&nbsp;VOI.id한타 바이러스에 대해 경계하고, 술탄 하산 국제공항의 감시 강화&nbsp;&nbsp;VOI.id인도네시아의 한타 바이러스는 얼마나 위험합니까?&nbsp;&nbsp;VOI.id",
       "sources": [
         {
           "name": "인니투데이",
@@ -285,23 +345,11 @@
       "id": "2b62be0358d7",
       "title": "[임영빈 박사 건강 칼럼] 근력을 원한다면, 근육을 먹어라! - 미주한국일보",
       "published": "2026-05-12T03:00:00+00:00",
-      "summary": "[임영빈 박사 건강 칼럼] 근력을 원한다면, 근육을 먹어라!&nbsp;&nbsp;미주한국일보나이들면 꼭 필요한 단백질, 속 안 좋아 고기 못 먹는 엄마 위해 기자가 고른 것&nbsp;&nbsp;조선일보노년층 근육 감소, 치주염 및 특정 유전자와 밀접한 연관성 확인 : 패션 & 뷰티&nbsp;&nbsp;kstars.kr‘금방 먹고 또 배고프다’는 부모님…치매 아닌 OOO 부족 신호&nbsp;&nbsp;농민신문[오상우의 내 몸 사용 교과서] 열심히 운동해도 근육이 안 붙는 이유&nbsp;&nbsp;v.daum.net",
+      "summary": "[임영빈 박사 건강 칼럼] 근력을 원한다면, 근육을 먹어라!&nbsp;&nbsp;미주한국일보Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "미주한국일보",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1d3lpV1Zjb08wWGVkcE9JV1NNeXNhRnNFbmZGS25pRmhIU19yZ3VpcHJRS3NsVjk4aTVoekYzUldLeVMwY1NkTnBFRmZOUHRxaHNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "03b8fd19b6ab",
-      "title": "아르기닌, 치매 원인 물질 80% 억제...동물 실험서 효과 - 하이닥",
-      "published": "2026-05-12T02:30:00+00:00",
-      "summary": "아르기닌, 치매 원인 물질 80% 억제...동물 실험서 효과&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03WmRDOUNhaGpIXzZ1eGpXUWdOQTItR0tzQVlNX21lWkRXcG50T0pOaUt3ZC1MN0E1Sm5yWk9EOUdqeTRkZXJtN1NpZzd2SWctaEJXa3ZZNmpKbk1BaGhlX3RBSjlIY2Ytb2c?oc=5"
         }
       ]
     },
@@ -318,6 +366,18 @@
       ]
     },
     {
+      "id": "0afeeead37d0",
+      "title": "[한국인의 100가지 질환-23] 폐렴, 감기와 구별 못하면 위험하다 - 뉴스인",
+      "published": "2026-05-11T22:08:20+00:00",
+      "summary": "[한국인의 100가지 질환-23] 폐렴, 감기와 구별 못하면 위험하다&nbsp;&nbsp;뉴스인",
+      "sources": [
+        {
+          "name": "뉴스인",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WVlhkak1RajQwUnh0dEk3WUtXeVZ3V1Nac0cwOVViUEdMdHJid3o1NTZQYkRXUmk2M284SWRZb3FfMkptbVB1MlJjVzRFSDFJMFlNMDFWdV9YUkhFU3pubU9LZmpJQTYydjhN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e02ea9a21d81",
       "title": "GLP-1 RA, 유방암 환자 재발ㆍ사망 위험 감소 - 의약뉴스",
       "published": "2026-05-11T20:59:00+00:00",
@@ -326,18 +386,6 @@
         {
           "name": "의약뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zVGNFLXBHdlFUNFNmQTcyMHZ5el96VHM5MEg5c19RYkQ5Ri1ZbkQxVWxYejQ0bjA5SGQyV3VMTFROanJQVUVGdGJNckFDVEZUUHgtaHd4dDlwVXctNy0wQmFHX1BYSW02?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01b083a16e58",
-      "title": "\"혈압약에 당뇨약까지?\" 심부전 환자들이 헷갈리는 이유 - 약사공론",
-      "published": "2026-05-11T20:50:00+00:00",
-      "summary": "\"혈압약에 당뇨약까지?\" 심부전 환자들이 헷갈리는 이유&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tbzJQVkJhZ1FiMGdqYnl3ZUFsX09MeFMwOHFOTExtRlZQQ3lra0xQTUVTMk8weHZjQ3JIc0c0QlpzV1JDVXYyT3ZxRzd3LTQ0TXluUVhwamxVT255WkQxQzk1aTZCVmo4SVRueg?oc=5"
         }
       ]
     },
@@ -354,26 +402,14 @@
       ]
     },
     {
-      "id": "91f90f770376",
-      "title": "한탄강서 이름 유래한 한타바이러스, 유전체 완전 해독…집단 감염 4일 만 - 한겨레",
-      "published": "2026-05-11T05:24:00+00:00",
-      "summary": "한탄강서 이름 유래한 한타바이러스, 유전체 완전 해독…집단 감염 4일 만&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oTnc3TDdpcnZla1B1d3o4RmZGMmtXbVVfMzVpNjFfVDBNWkNVUWxMTFNoT215QmdaSVhPS0plSEFjY1JFUk5PbThwNjYxeHN0ZkRLZ3V3SDV2djNMNm9BOERjUjJZNTRXMTJBMVYtTllmdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94f34159a701",
+      "id": "1132ca5764d2",
       "title": "전고체전지 보호막 기술 개발…1000회 충방전에도 효율 99.9% - v.daum.net",
       "published": "2026-05-11T04:53:53+00:00",
       "summary": "전고체전지 보호막 기술 개발…1000회 충방전에도 효율 99.9%&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9hRUpZS0lRa3ZHRWU1eHhrS093VFN3aUh3WnV0d2FSVk9lTjI4eENlODNzLUxERG5zU055QlA2SzFlZE9EMUE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vMGZxbFJKRlo0NEtvY3BpbnB5Y0cwLTZ0UHE1QzFCUFMyVkdfTW5LOVp5ODBxbmhxRXNIcWNJZ1Y0WTdUQmZKVnlkbUpJeHc?oc=5"
         }
       ]
     }
