@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-16T13:38:45.960595+00:00",
-  "total_fetched": 72,
-  "unique_count": 72,
+  "fetched_at": "2026-05-16T19:09:35.725714+00:00",
+  "total_fetched": 73,
+  "unique_count": 73,
   "health_related_count": 38,
   "news": [
+    {
+      "id": "dead9bffb85c",
+      "title": "마음챙김 요가, PTSD 치료의 새 길 - 유스연합",
+      "published": "2026-05-16T17:04:45+00:00",
+      "summary": "마음챙김 요가, PTSD 치료의 새 길&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vQmdBSDlEbDRQOWdxcGdZbVFTTW40MnlaZ1FHYURHejN6SlE1V2NNQVhweXl1a1UxTDhNVGt1ZlpqeEZFX3RpZE5OaUQtWk1hMGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a9990e32e96",
+      "title": "새벽에 깨서 답답한 가슴, 알고 보니 심장마비… 다른 증상은? - 헬스조선",
+      "published": "2026-05-16T14:01:00+00:00",
+      "summary": "새벽에 깨서 답답한 가슴, 알고 보니 심장마비… 다른 증상은?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iX1dsQVdQanlSa1dFcUdGeWVIaGFfeTNwYmM3REV0c0RCX29fbkM0RUJtdm9LNnF6RkxpZm5hY2dMMU83TVJsMV93ZGlEM1VMRXFhUEJDMDRHQ0tzMXl1VW56WENoUThWZi1SdlJlWERVWjR3a1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "bd8eae0ea18e",
       "title": "택시 운전사들은 치매 사망률 낮다… 왜? - 헬스조선",
@@ -30,6 +54,30 @@
       ]
     },
     {
+      "id": "4a1e49fce5cc",
+      "title": "중·저소득 국가에서 비만 증가 빨라…\"개인 의지 문제 아니다\" - 네이트",
+      "published": "2026-05-16T05:30:00+00:00",
+      "summary": "중·저소득 국가에서 비만 증가 빨라…\"개인 의지 문제 아니다\"&nbsp;&nbsp;네이트비만의 양극화…저소득 국가서 비만율 급증&nbsp;&nbsp;v.daum.net한국은 고소득 국가로 가고 있어…전세계 2억3000만명 ‘비만율’ 분석해 보니&nbsp;&nbsp;서울경제뚱뚱한 미국?…살 떨리는 반전&nbsp;&nbsp;아시아경제[건강포커스] \"비만 증가세, 고소득 국가는 둔화·감소…저소득 국가는 급증\"&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wa1pURUFVcGdlTGZyMUpoc2hHa2hqNHRiWUJWREtUR0FaMWtZMVk5cjNxNk1mWWJJRzJFRnJTV1o0WHVzM2xHLVJnRlVjYVIyS1Vz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ff117a41e25",
+      "title": "한타바이러스: 또 다른 팬데믹의 위험이 있는가? - Investing.com 한국어",
+      "published": "2026-05-16T03:55:00+00:00",
+      "summary": "한타바이러스: 또 다른 팬데믹의 위험이 있는가?&nbsp;&nbsp;Investing.com 한국어‘세상의 끝’ 아르헨티나 우수아이아, 한타바이러스 발원지 의혹 부인&nbsp;&nbsp;KBS 뉴스\"인사만 하고 지나쳤는데 감염?\"…한타바이러스, 밀접접촉 설명 흔들렸다&nbsp;&nbsp;뉴시스'한타바이러스' 크루즈선, 18일 네덜란드 도착…승무원 대부분 6주 격리&nbsp;&nbsp;v.daum.net모더나 떼고 '독자 행보' 고대 백신센터 … 'mRNA 한타백신' 주도권 쥐나&nbsp;&nbsp;뉴데일리 경제",
+      "sources": [
+        {
+          "name": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VQTZXWlY3bjZkY3BqVlFxdFRnUW5RZ1ZnRklLWDdNWUI1cnNGaUJQX3VrSFRIcWhPZDBXeERlWmdqajhMTHotWF9Ma1NjWWlCS0FXZEtJcnBwYTYzLW9RWE41VHZZcVRrZXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a934291f8743",
       "title": "피 한 방울로 알츠하이머 발병 예측, 뇌 스캔보다 빨라 - 동포저널",
       "published": "2026-05-16T02:26:13+00:00",
@@ -38,6 +86,18 @@
         {
           "name": "동포저널",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IYzdNemVlWHl6bWVBdWoxc1lNM1Nxd09MdjV5ZFkwOVV1M2ZORE16Y3ZTQXVqeWN5UkozbEc0ajBLYjI4bnhVQjlvbHFERnlfYkFxS2g4MTlHQnhEVC12LWRNZGR3TmtZTERpVEhBWDQ2djQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "269d0c1a53a0",
+      "title": "\"젊다고 절대 방심하지 마라\"…'이 나이'부터 근력 확 빠진다는데 [헬시타임] - 네이트",
+      "published": "2026-05-16T01:25:00+00:00",
+      "summary": "\"젊다고 절대 방심하지 마라\"…'이 나이'부터 근력 확 빠진다는데 [헬시타임]&nbsp;&nbsp;네이트확 늙는 나이 따로 있었다…\"어쩐지 체력·근력 쭉쭉 빠지더라니\" 몇 살부터?&nbsp;&nbsp;v.daum.net신체능력 감소 연구하니... ’35세' 무렵에 확 꺾이더라&nbsp;&nbsp;조선일보“젊다고 절대 방심하지 마라”…‘이 나이’부터 근력 확 빠진다는데 [헬시타임]&nbsp;&nbsp;서울경제근육 손실은 노인성 질환을 키운다&nbsp;&nbsp;엠디저널",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iRU4yRGZCUXFIWi03Ulg4YS03eGJaMWJEWVFJOG5UT1dDUDIxeEhocTBrSDlQMDhWd3hraEhralEzY0F2YjZuSHlZX3lxNzhKT0NJ?oc=5"
         }
       ]
     },
@@ -54,14 +114,14 @@
       ]
     },
     {
-      "id": "e7d3b1d92016",
-      "title": "잠 못 자고 자주 쥐 난다면?… 약사가 알려주는 올바른 마그네슘 복용법 - 하이닥",
-      "published": "2026-05-15T22:00:00+00:00",
-      "summary": "잠 못 자고 자주 쥐 난다면?… 약사가 알려주는 올바른 마그네슘 복용법&nbsp;&nbsp;하이닥피곤한데 잠이 안 온다?…‘두 가지 성분’ 함께 먹으면 꿀잠&nbsp;&nbsp;동아일보“피곤한데 잠은 안 오고 뒤척뒤척”…마그네슘·멜라토닌 ‘꿀잠 시너지’&nbsp;&nbsp;v.daum.net불면증에 시달리는 사람들, 이런 영양소 부족할 수도!--건강&nbsp;&nbsp;인민넷“밤새 ‘통잠’ 자고 싶은데”…‘숙면’ 도움·방해 식습관&nbsp;&nbsp;농민신문",
+      "id": "91f6e8b19c7b",
+      "title": "[건강 100세를 위하여] 뇌혈관 손상 후 멍하고 느려졌다면, 의심해야 할 \"혈관성 치매\" - 경기메디뉴스",
+      "published": "2026-05-15T23:48:07+00:00",
+      "summary": "[건강 100세를 위하여] 뇌혈관 손상 후 멍하고 느려졌다면, 의심해야 할 \"혈관성 치매\"&nbsp;&nbsp;경기메디뉴스\"알츠하이머 45%는 예방 가능\"…지금 당장 바꿀 수 있는 14가지 습관&nbsp;&nbsp;네이트평소 '이 말' 사용 부쩍 늘었다면… 치매 시작 신호일 수도&nbsp;&nbsp;코메디닷컴[사공정규 특별기고] 기억을 지키는 가장 좋은 시간은 바로 지금이다&nbsp;&nbsp;경북신문[뇌건강, 이젠 산업이다] 치매 100만 명 시대, 숫자로 보는 충격-환자 수부터 국가 부담까지&nbsp;&nbsp;바이오타임즈",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92UGh0akdROGRHemF2RWxoamJxNGRtUUhoVW1qclRlU2pNY3hrMVhBODRNSVA0alFIbzkxeXNDY1I2YVVxRmRSMDYyNVVVZEU3YThmdEJjQjhLWFBUQkw2ZlFTSkNOU2JKZmc?oc=5"
+          "name": "경기메디뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oc1pJNDVNNmxiSF9lMloyWC1GMkJfUWVHTDBrbmZZbzhSQk5peWNweTlZSWVSOGNwdWdneTlyX0UzdlFieWlqQ0xiS0Rhc2Y3SWxkblV6dHFsS1BFMElOaWtHVmF3RVljbURB?oc=5"
         }
       ]
     },
@@ -86,18 +146,6 @@
         {
           "name": "한국AI부동산신문",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oMmd1SG5fVVd1dTJBR2VTT3VFRldaeVF4QlZOQUhyakY3enJ6T0xBNDk3R0N4NEI3R1VaSkFmY1NDblktX2xvMDNMakw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f998fb031844",
-      "title": "신체능력 감소 연구하니... ’35세' 무렵에 확 꺾이더라 - 조선일보",
-      "published": "2026-05-15T15:06:41+00:00",
-      "summary": "신체능력 감소 연구하니... ’35세' 무렵에 확 꺾이더라&nbsp;&nbsp;조선일보확 늙는 나이 따로 있었다…\"어쩐지 체력·근력 쭉쭉 빠지더라니\" 몇 살부터?&nbsp;&nbsp;v.daum.net“젊다고 절대 방심하지 마라”…‘이 나이’부터 근력 확 빠진다는데 [헬시타임]&nbsp;&nbsp;서울경제근육 손실은 노인성 질환을 키운다&nbsp;&nbsp;엠디저널“노년기, 근력 운동이 답이다”… 걷기 힘들다면 ‘근감소증’ 신호일 수도&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoUXFKS2J1VzlFQ1Z4enc0bWlmOVdGZWZVOUFIMTh2VnAzMDVBWHFXMzZ3cDdkd2JfMF9lbjJPaTlaY1ZrT0NiVkdwVUNhSzdrM1ZLSlJsZEJ0NEFiTnp2bjB3MmxhLWU3RjB1ejg3RjNwZEtWVGxpQg?oc=5"
         }
       ]
     },
@@ -134,6 +182,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NUTRBa2FEQkw4WUVkSlVmYXVERmdVdTFCaGFxakZoRFJYRV9CUFN6ZWZmX0FJREc1RzVHTFBKcEVXX19kWG1wcG8zeWlJcmFuajEzcVRGeGtXX0YyTnJXcm8xTldrWk1KQnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "70b722d48c27",
+      "title": "정수리·이마 ‘전침 치료’, PTSD로 인한 우울·불안 증상 완화에 도움 - 하이닥",
+      "published": "2026-05-15T11:30:00+00:00",
+      "summary": "정수리·이마 ‘전침 치료’, PTSD로 인한 우울·불안 증상 완화에 도움&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKSlh0eTRkRWxzVjFWME1PQ0xwMFVqNWNZekJfQ25RUHRyQTZpQTJPMUJubnBSdmduMkx4a09HWTRBRlBSS2Z5WTBjdGVidVZrSmNrbGRQdzRkWjVXcTVlSl94WHd0QTdGc2c?oc=5"
         }
       ]
     },
@@ -186,6 +246,18 @@
       ]
     },
     {
+      "id": "db1df8db5bbd",
+      "title": "[취미는 과학] 내 면역계가 나를 공격한다?! 나를 적으로 착각하는 상태, ‘자가 면역’ - Queen 이코노미퀸",
+      "published": "2026-05-15T09:00:00+00:00",
+      "summary": "[취미는 과학] 내 면역계가 나를 공격한다?! 나를 적으로 착각하는 상태, ‘자가 면역’&nbsp;&nbsp;Queen 이코노미퀸\"남녀 면역 차이 유전자에 있다\"… 여성은 자가면역, 남성은 감염에 취약&nbsp;&nbsp;하이닥자가면역질환 왜 여성에 많을까…면역세포 유전자 스위치 1000개 차이 확인&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "Queen 이코노미퀸",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uWGhwdGZOckNXVTJ2VXdBNWlxV0xaU0FZb2hOTTBQWnhxbFFYOERNMW94MURtbGVneG93ejNONVhlWW9XZDVLVnRZN2FBWENwc1otOURwRVVDT3VlS3lMUEJ3UEl4OGZI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8c104d663ded",
       "title": "비아그라, 발기부전 치료 외에 ‘이런’ 효과도 있다고? - 코메디닷컴",
       "published": "2026-05-15T08:29:00+00:00",
@@ -225,7 +297,7 @@
       "id": "9eab22e80097",
       "title": "단 6주의 꾸준한 운동, 시니어의 뇌를 깨운다 - 캐어유 뉴스",
       "published": "2026-05-15T06:00:00+00:00",
-      "summary": "단 6주의 꾸준한 운동, 시니어의 뇌를 깨운다&nbsp;&nbsp;캐어유 뉴스\"가벼운 움직임도 효과\"…뇌 노폐물 제거 돕는 새 기전 발견 [저널톡]&nbsp;&nbsp;v.daum.net\"식스팩 만들면 뇌가 맑아진다\"…복근 운동, 수면만큼 '뇌 청소' 효과&nbsp;&nbsp;파이낸셜뉴스[홍정기의 중년 여성 운동 레시피 4] 근육이 뇌를 깨끗하게 한다구요?&nbsp;&nbsp;여성조선‘흡’ 하고 배에 힘주면 뇌가 청소된다…치매 막는 ‘3초 복근 펌프’ 움직임 [헬시타임]&nbsp;&nbsp;서울경제",
+      "summary": "단 6주의 꾸준한 운동, 시니어의 뇌를 깨운다&nbsp;&nbsp;캐어유 뉴스\"가벼운 움직임도 효과\"…뇌 노폐물 제거 돕는 새 기전 발견 [저널톡]&nbsp;&nbsp;v.daum.net‘흡’ 하고 배에 힘주면 뇌가 청소된다…치매 막는 ‘3초 복근 펌프’ 움직임 [헬시타임]&nbsp;&nbsp;서울경제식스팩 위해 복근운동?…배에 힘 주면 ‘O건강’에도 도움&nbsp;&nbsp;농민신문뇌 속 노폐물 씻어내는 '복근의 힘'… 치매 예방의 새 지평&nbsp;&nbsp;글로벌이코노믹",
       "sources": [
         {
           "name": "캐어유 뉴스",
@@ -254,18 +326,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vREgwSFJOODdLQ3NnZmEtcDNmY3hEXzktRHh6YjFEVi12WFFYTHN2MGVwV284Z3F5V3YzeTdMMEVoZGpJYU5QSXJwZnd2RUpMb3NDRXhRU2hEOFNjN1IzQkxEaFdocGRJcC00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5118f63d9df",
-      "title": "‘코로나 악몽 끝났는데 또…’ 남극 크루즈 덮친 한타바이러스 공포 - 일요신문",
-      "published": "2026-05-15T05:12:07+00:00",
-      "summary": "‘코로나 악몽 끝났는데 또…’ 남극 크루즈 덮친 한타바이러스 공포&nbsp;&nbsp;일요신문\"인사만 하고 지나쳤는데 감염?\"…한타바이러스, 밀접접촉 설명 흔들렸다&nbsp;&nbsp;뉴시스‘세상의 끝’ 아르헨티나 우수아이아, 한타바이러스 발원지 의혹 부인&nbsp;&nbsp;v.daum.net'한타바이러스' 크루즈선, 18일 네덜란드 도착…승무원 대부분 6주 격리&nbsp;&nbsp;뉴스1한타바이러스 감염자 실은 크루즈선, 3주 넘게 바다 떠돌았대요&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "일요신문",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLSUo5WFBmR1pXQXV3eHA1T20tMUtKeHVocUY4WVFHN3FkTkIzYU96SXY3VEUwcEloR2hkbHljaDhSZVE2QVRzMU0tcVJNRE5sNjNMVnphSFlNVGkxUnZ0Tl92b0NUZw?oc=5"
         }
       ]
     },
@@ -306,18 +366,6 @@
       ]
     },
     {
-      "id": "c437e6c22049",
-      "title": "뇌경색·뇌출혈 후 인지기능 갑자기 떨어지면 혈관성 치매 - 하이뉴스",
-      "published": "2026-05-15T02:20:06+00:00",
-      "summary": "뇌경색·뇌출혈 후 인지기능 갑자기 떨어지면 혈관성 치매&nbsp;&nbsp;하이뉴스\"알츠하이머 45%는 예방 가능\"…지금 당장 바꿀 수 있는 14가지 습관&nbsp;&nbsp;네이트평소 '이 말' 사용 부쩍 늘었다면… 치매 시작 신호일 수도&nbsp;&nbsp;코메디닷컴[건강 100세를 위하여] 뇌혈관 손상 후 멍하고 느려졌다면, 의심해야 할 \"혈관성 치매\"&nbsp;&nbsp;경기메디뉴스[사공정규 특별기고] 기억을 지키는 가장 좋은 시간은 바로 지금이다&nbsp;&nbsp;경북신문",
-      "sources": [
-        {
-          "name": "하이뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UNWpleGltSmRGcll2a0VFajBFU2VkNTJCandlZ3E3bklSWnRhcHFkWXB0aFBqVFVUWGlGRHBNMDlHOHd1SDRKRk9ITHlaNUZxclpUWjltR2w0eEtPVEgxU0l5TVBhSlVoOVRhSXVpTS1FMkNYN3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e317537232d",
       "title": "눈은 ‘마음의 창’이 맞았다…우울증 낫게하는 콘택트렌즈 등장 - 매일경제",
       "published": "2026-05-15T01:47:11+00:00",
@@ -342,18 +390,6 @@
       ]
     },
     {
-      "id": "6db64db4968b",
-      "title": "비만의 양극화…저소득 국가서 비만율 급증 - v.daum.net",
-      "published": "2026-05-15T01:09:53+00:00",
-      "summary": "비만의 양극화…저소득 국가서 비만율 급증&nbsp;&nbsp;v.daum.net한국은 고소득 국가로 가고 있어…전세계 2억3000만명 ‘비만율’ 분석해 보니&nbsp;&nbsp;서울경제뚱뚱한 미국?…살 떨리는 반전&nbsp;&nbsp;아시아경제[건강포커스] \"비만 증가세, 고소득 국가는 둔화·감소…저소득 국가는 급증\"&nbsp;&nbsp;연합뉴스중·저소득 국가에서 비만 증가 빨라…\"개인 의지 문제 아니다\"&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VRzdkZmFBSXBQWHotdUxqbjRsREIwQjk5YjR4ekRKNXU1QXI1RzVFY2tNTXJjdnpYaGdPQ3dsc0JpNXd2X1V3TDRhNk1tekk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0358cd5fbae8",
       "title": "전대원 한양대병원 소화기내과 교수 “지방간 치료, 약보다 먼저 ‘구조’가 바뀌어야 한다” - 한국경제",
       "published": "2026-05-14T23:46:17+00:00",
@@ -362,18 +398,6 @@
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaW9TcGZjTHJnaDhCRjkwai1CdFpsYnIwSWszc1pMSXNaTjZHRmFZLUFJUmVXN0p4U05VOTBiUDVYcUZ5NGNkTnA0QjE1RDQxMF9CWU41bTZ1QdIBVEFVX3lxTFBMazhqS2NYQnJydzdLdXQ5aF9RbGxUNzlpQTJlUXd1N3F5aWdlakxiMW40YTBfcEp2NksxQmhmWEpVbWZ0N0hDdUxMbC15N2c3ZDVKRA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a2810383408b",
-      "title": "[EBS 취미는 과학] 류마티스 관절염, 원형 탈모, 루푸스…자가면역 질환의 비밀 조명…신의철 교수 출연 - 한국강사신문",
-      "published": "2026-05-14T21:00:00+00:00",
-      "summary": "[EBS 취미는 과학] 류마티스 관절염, 원형 탈모, 루푸스…자가면역 질환의 비밀 조명…신의철 교수 출연&nbsp;&nbsp;한국강사신문\"남녀 면역 차이 유전자에 있다\"… 여성은 자가면역, 남성은 감염에 취약&nbsp;&nbsp;하이닥자가면역질환 왜 여성에 많을까…면역세포 유전자 스위치 1000개 차이 확인&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "한국강사신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aNHdpRXJ6MGVVN1otTlI2Q2RnZ2dHQl9OTUhXSjRqWXRXLWhsTkRYdlA3RkNYbzVkSHpBYm1UcHFDemRtX01wNGNJRWZRR252bHdqNTFEbkZNM1JOVzJwVzd6aWZTVTNoUmNjc0Jpems?oc=5"
         }
       ]
     },
@@ -398,30 +422,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ObWRobVJyTG5jV3pudTM5RmxaVU8yRFhjMDNwRUM5cC1rZDR2VFBCdnl0OXUzdGFDUGZacHFZUlhqQ0xKYkRsRGdacmw4ZkJ6SUpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2cbafc272d1",
-      "title": "“열사병 경험자, 백내장 위험 2배”…日 연구팀 “폭염·고령화로 환자 증가 우려\" [KDF World] - 한국면세뉴스",
-      "published": "2026-05-14T15:35:00+00:00",
-      "summary": "“열사병 경험자, 백내장 위험 2배”…日 연구팀 “폭염·고령화로 환자 증가 우려\" [KDF World]&nbsp;&nbsp;한국면세뉴스",
-      "sources": [
-        {
-          "name": "한국면세뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50WE00ckJYZUlXSXl2RHBsVFZrdVl2eFVQTlo4UjRuMHhpdkJJb2pnZ0t5V1ZIWWNfQ3FnZ052cmRWQVU0ZkZlQWkyRWFCaXJfUDVRaUl1RFhfbHpUSHRiaG1OSUdOaDF1Zmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c6c942db643",
-      "title": "이웃과 마주친 적 없는데… 대문 꽁꽁 닫아도, 감염병 ‘여기’로 퍼진다 - 헬스조선",
-      "published": "2026-05-14T14:40:00+00:00",
-      "summary": "이웃과 마주친 적 없는데… 대문 꽁꽁 닫아도, 감염병 ‘여기’로 퍼진다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrYmZ0dmh3OS1IbEdCYkoxN21OdkU0ZWJLQXZ2Z09qQ01odFpvR3E4OTR2SEIxRkVBczFRSHVZUXhoS1h5S2RFV0lIWHRsWWFWOXR1MUVmS2xONVNVZTRzWE9qdl9nQ0JKMS1VUklEM0ZNWUVWOXc?oc=5"
         }
       ]
     },
