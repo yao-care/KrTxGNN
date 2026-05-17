@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-17T03:46:36.697572+00:00",
-  "total_fetched": 63,
-  "unique_count": 63,
-  "health_related_count": 32,
+  "fetched_at": "2026-05-17T08:25:04.787565+00:00",
+  "total_fetched": 57,
+  "unique_count": 57,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "3f974c849710",
+      "title": "심근경색 겪은 사람, 인지기능 빨리 떨어진다 - 헬스조선",
+      "published": "2026-05-17T07:02:00+00:00",
+      "summary": "심근경색 겪은 사람, 인지기능 빨리 떨어진다&nbsp;&nbsp;헬스조선증상 없이 ‘이 질환’ 겪은 사람, 뇌 건강까지 위험하다고?&nbsp;&nbsp;코메디닷컴\"심장 병력, 뇌 건강에도 치명적\"…심근경색 후 인지장애 위험 커져&nbsp;&nbsp;데일리굿뉴스심근경색 경험자, 기억력 · 인지기능 더 빨리 감소&nbsp;&nbsp;메디칼트리뷴",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VMTJjNkZ1dk1PMzBJNXU0cHJBSzFPcUNpaVE4TkU2NW92NW9PSWh1MVJCZjFIVHprVDhybXZ2cEFhdFRrSjZ6NXBlVDE2NDdmcGdHbk5Gb0xvdllhbkUzWlIzNFhWajc3Mi1kRGl3NXRKZGNHanc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d29fa09175c4",
+      "title": "머릿속 안개 같은 멍함, 알고 보니 장 건강이 보내는 신호일 수 있습니다 - 캐어유 뉴스",
+      "published": "2026-05-17T07:00:00+00:00",
+      "summary": "머릿속 안개 같은 멍함, 알고 보니 장 건강이 보내는 신호일 수 있습니다&nbsp;&nbsp;캐어유 뉴스",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fZEtPRlVKRjlVV1RsMXNucTNOQzZFbUxQR1VYWWFtOVk1N1FodGhEUm5jOHZBeWhiZWMyMzY0M01oR0duQnNyNE9uRXEzdUlVRlZVb3VHV2ZOdENUajBHcERQb0ZaWmg0R2w3cA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab29275a4289",
+      "title": "나이 들어 당뇨병 안 걸리려면… ‘이 영양소’ 잘 먹어라 - 헬스조선",
+      "published": "2026-05-17T04:01:00+00:00",
+      "summary": "나이 들어 당뇨병 안 걸리려면… ‘이 영양소’ 잘 먹어라&nbsp;&nbsp;헬스조선햇빛만으론 부족하다… 비타민 D 채우는 식탁의 힘&nbsp;&nbsp;미주한국일보“햇볕만으론 부족” 비타민D, 하루에 ‘이만큼’ 먹어라&nbsp;&nbsp;헬스조선“나도 나이 드는구나” 싶을 때… ‘이 영양소’ 잘 먹고 있나 점검&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91TFR6QnhGVW9Hd3RCZUR4amZNWExyX21JVkdqNHlKaE1MaUt0ZnQtVTh0dnJaeFB5TlIxM3lPTnljemFBa3p5bWlVVFpEeGZCV0RYaFg4N3lxYWI4N2h1ejhWejd4SzIwNmRvTzN0VzNKQUtyYXc?oc=5"
+        }
+      ]
+    },
     {
       "id": "2f14ed8a4bc6",
       "title": "우울증 치료하는 ‘자기자극 원리’ 규명에 눈길이 쏠리는 이유 - 경향신문",
@@ -21,7 +57,7 @@
       "id": "d6ceb988bf8c",
       "title": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정 - YTN",
       "published": "2026-05-16T21:46:00+00:00",
-      "summary": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정&nbsp;&nbsp;YTN'한타바이러스' 집단감염 크루즈선 탑승 캐나다인 1명, 잠정 양성 판정&nbsp;&nbsp;뉴시스크루즈선 캐나다인, 한타바이러스 잠정 양성&nbsp;&nbsp;KBS 뉴스'한타바이러스' 크루즈선, 18일 네덜란드 도착…승무원 대부분 6주 격리&nbsp;&nbsp;v.daum.net크루즈발 안데스형 '한타바이러스' 확산 우려…사람 간 전파 가능성 조사 중&nbsp;&nbsp;글로벌이코노믹",
+      "summary": "크루즈선 탔던 캐나다인, 한타바이러스 잠정 양성 판정&nbsp;&nbsp;YTN크루즈선 한타바이러스 집단감염 확산…캐나다인 1명 추가 양성&nbsp;&nbsp;v.daum.net‘세상의 끝’ 아르헨티나 우수아이아, 한타바이러스 발원지 의혹 부인&nbsp;&nbsp;KBS 뉴스크루즈발 안데스형 '한타바이러스' 확산 우려…사람 간 전파 가능성 조사 중&nbsp;&nbsp;글로벌이코노믹'한타바이러스' 크루즈선, 18일 네덜란드 도착…승무원 대부분 6주 격리&nbsp;&nbsp;뉴스1",
       "sources": [
         {
           "name": "YTN",
@@ -45,7 +81,7 @@
       "id": "94c2eb3cfd68",
       "title": "뇌혈관 손상 후 멍하고 느려졌다면 ‘혈관성 치매’ 의심 - v.daum.net",
       "published": "2026-05-16T21:17:54+00:00",
-      "summary": "뇌혈관 손상 후 멍하고 느려졌다면 ‘혈관성 치매’ 의심&nbsp;&nbsp;v.daum.net평소 '이 말' 사용 부쩍 늘었다면… 치매 시작 신호일 수도&nbsp;&nbsp;코메디닷컴\"알츠하이머 45%는 예방 가능\"…지금 당장 바꿀 수 있는 14가지 습관&nbsp;&nbsp;조세일보[건강정보] 기억력 저하, 단순 건망증 아닐 수도&nbsp;&nbsp;병원신문돈 관리 어려워지는 것도 치매? “일상 변하면 의심을…”&nbsp;&nbsp;헬스조선",
+      "summary": "뇌혈관 손상 후 멍하고 느려졌다면 ‘혈관성 치매’ 의심&nbsp;&nbsp;v.daum.net“어… 음…” 잦아진 대화 습관…그냥 건망증 아닐 수도 [노화설계]&nbsp;&nbsp;v.daum.net치매와 알츠하이머, 무엇이 같고 어떤 게 다를까&nbsp;&nbsp;스포츠경향'오래'보다 '어떻게'…파킨슨병 관리가 핵심&nbsp;&nbsp;네이트뇌경색·뇌출혈 후 인지기능 갑자기 떨어지면 혈관성 치매&nbsp;&nbsp;하이뉴스",
       "sources": [
         {
           "name": "v.daum.net",
@@ -93,7 +129,7 @@
       "id": "bd8eae0ea18e",
       "title": "택시 운전사들은 치매 사망률 낮다… 왜? - 헬스조선",
       "published": "2026-05-16T11:02:00+00:00",
-      "summary": "택시 운전사들은 치매 사망률 낮다… 왜?&nbsp;&nbsp;헬스조선드럼 치고 춤추고… 손·발·머리 모두 써야 뇌 일깨운다&nbsp;&nbsp;v.daum.net“뇌 기능도 근육처럼 키운다”… 하루 10분 훈련에 사고력 11.6%↑&nbsp;&nbsp;하이닥“늙으면 뇌 기능 떨어진다” 뒤집은 연구…70대도 좋아졌다 [노화설계]&nbsp;&nbsp;동아일보길 찾아 헤맬수록 뇌는 젊어진다?…노화 늦추는 뜻밖의 습관&nbsp;&nbsp;농민신문",
+      "summary": "택시 운전사들은 치매 사망률 낮다… 왜?&nbsp;&nbsp;헬스조선“뇌 기능도 근육처럼 키운다”… 하루 10분 훈련에 사고력 11.6%↑&nbsp;&nbsp;하이닥“늙으면 뇌 기능 떨어진다” 뒤집은 연구…70대도 좋아졌다 [노화설계]&nbsp;&nbsp;동아일보“나이 들면 머리 굳는다?”…'이것' 하면 인지 기능 높아진다&nbsp;&nbsp;코메디닷컴길 찾아 헤맬수록 뇌는 젊어진다?…노화 늦추는 뜻밖의 습관&nbsp;&nbsp;농민신문",
       "sources": [
         {
           "name": "헬스조선",
@@ -129,7 +165,7 @@
       "id": "a934291f8743",
       "title": "피 한 방울로 알츠하이머 발병 예측, 뇌 스캔보다 빨라 - 동포저널",
       "published": "2026-05-16T02:26:13+00:00",
-      "summary": "피 한 방울로 알츠하이머 발병 예측, 뇌 스캔보다 빨라&nbsp;&nbsp;동포저널치매 치료의 패러다임이 바뀐다…“환자 맞춤형 정밀 의학으로 전환될 것” [치매를 말하다 ⑧]&nbsp;&nbsp;하이닥[자막뉴스] 치매 '조기 진단' 시대 열렸다…환자 혈액으로 만든 기술&nbsp;&nbsp;네이트알츠하이머 신약 개발, 2026년 중대한 분수령 맞는다&nbsp;&nbsp;한국공공정책신문치매 신약은 돌봄을 바꿀까&nbsp;&nbsp;요양뉴스",
+      "summary": "피 한 방울로 알츠하이머 발병 예측, 뇌 스캔보다 빨라&nbsp;&nbsp;동포저널치매 치료의 패러다임이 바뀐다…“환자 맞춤형 정밀 의학으로 전환될 것” [치매를 말하다 ⑧]&nbsp;&nbsp;하이닥치매 신약은 돌봄을 바꿀까&nbsp;&nbsp;요양뉴스새로운 혈액 검사로 알츠하이머병을 조기에 발견할 수 있습니다.&nbsp;&nbsp;Vietnam.vn혈액으로 만든 '미니 뇌'로 알츠하이머 조기 진단&nbsp;&nbsp;YTN",
       "sources": [
         {
           "name": "동포저널",
@@ -201,7 +237,7 @@
       "id": "747b64c975b8",
       "title": "“뼈 약해지면 수명 줄어든다”… 폐경 후 골다공증, 사망률 47% 높여 - 하이닥",
       "published": "2026-05-15T12:00:00+00:00",
-      "summary": "“뼈 약해지면 수명 줄어든다”… 폐경 후 골다공증, 사망률 47% 높여&nbsp;&nbsp;하이닥폐경 여성 골다공증, 방치하면 사망 위험 높아진다&nbsp;&nbsp;헬스조선\"50대부터 뼈가 달라진다\"...골다공증 조기 발견과 골절 예방 가이드 [안해모수 원장 칼럼]&nbsp;&nbsp;하이뉴스폐경 후 ‘이 부분’ 관리 놓치면… “조기 사망 위험 47% 높다”&nbsp;&nbsp;코메디닷컴",
+      "summary": "“뼈 약해지면 수명 줄어든다”… 폐경 후 골다공증, 사망률 47% 높여&nbsp;&nbsp;하이닥폐경 여성 골다공증, 방치하면 사망 위험 높아진다&nbsp;&nbsp;헬스조선폐경 후 ‘이 부분’ 관리 놓치면… “조기 사망 위험 47% 높다”&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "하이닥",
@@ -318,74 +354,14 @@
       ]
     },
     {
-      "id": "5eea7c2fa471",
-      "title": "짧고 강한 운동, 1만 보를 넘어서는 시니어 건강의 새 열쇠 - 캐어유 뉴스",
-      "published": "2026-05-15T08:00:00+00:00",
-      "summary": "짧고 강한 운동, 1만 보를 넘어서는 시니어 건강의 새 열쇠&nbsp;&nbsp;캐어유 뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "1e59b094651e",
+      "title": "\"ITER 삼중수소 심장부, 한국이 만든다\" 핵융합연, 씨이에스와 계약 체결 - 헬로디디",
+      "published": "2026-05-14T10:36:28+00:00",
+      "summary": "\"ITER 삼중수소 심장부, 한국이 만든다\" 핵융합연, 씨이에스와 계약 체결&nbsp;&nbsp;헬로디디",
       "sources": [
         {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpWDR5dkt1SVozUHhPVG5zS3JyTnVsV18wWENzbS1KSEdTVEo4UkdEb0xZTkZhUjhvQlcyT3ZYdjlwYXBVTUlrRm5aQW1sbFlmMk5fWEdibFg3d05GakU1bi1wVm80Q2xxT2ZiTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b42fd4086e11",
-      "title": "MIT, 면역세포 증폭 mRNA 기술 개발...“암 백신 효과 크게 높였다” - 테크데일리",
-      "published": "2026-05-15T05:55:02+00:00",
-      "summary": "MIT, 면역세포 증폭 mRNA 기술 개발...“암 백신 효과 크게 높였다”&nbsp;&nbsp;테크데일리",
-      "sources": [
-        {
-          "name": "테크데일리",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Xd0xpT01aM1NhLVpWV21vVTZiaVVSMmppSzk5ZUpCZWFMcGRWUllicDJIV2tVYnhYeGQzVmhENkZyN1RVeVlPaU1IZFBhVjJraFVpY2FoWGRrMmNDQVlPeVcwalR0cGhYN2lfaWFB0gFyQVVfeXFMUFJBZjVYMG5GbkpTMXg3bGwtRVdBWUFLa2R1cXhWaWhIc0p1TjR3ZGJPbjZXOUJMWVpSdmRhRmJSaHVSNGxheS1aei1uWVBkYm9ON2paZDFBNkY4VGVpdVNEejUtTjNVd1ZOWXhPal9pMXRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b26c1bfcbec",
-      "title": "“감기인 줄 알았는데”…뇌수막염, 24시간 내 사망할 수도 [건강한겨레] - 한겨레",
-      "published": "2026-05-15T05:29:00+00:00",
-      "summary": "“감기인 줄 알았는데”…뇌수막염, 24시간 내 사망할 수도 [건강한겨레]&nbsp;&nbsp;한겨레전염병이 증가함에 따라 산간 지역 주민들이 선제적으로 예방 접종을 받고 있다.&nbsp;&nbsp;Vietnam.vn드문 발명이지만 걸리면 치명적인 수막구균, 국내외 대응은 어떻게?&nbsp;&nbsp;문화일보수막구균성 뇌수막염으로 인한 사망자 발생 이후 백신 수요가 증가했습니다.&nbsp;&nbsp;Vietnam.vn건강한 사람의 약 5~25%는 자신도 모르게 수막구균을 보유하고 있을 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vREgwSFJOODdLQ3NnZmEtcDNmY3hEXzktRHh6YjFEVi12WFFYTHN2MGVwV284Z3F5V3YzeTdMMEVoZGpJYU5QSXJwZnd2RUpMb3NDRXhRU2hEOFNjN1IzQkxEaFdocGRJcC00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d1e18b6cb75",
-      "title": "평생 주사 한 방이면 끝… 새 비만약 시대 열리나 - 조선일보",
-      "published": "2026-05-14T15:34:00+00:00",
-      "summary": "평생 주사 한 방이면 끝… 새 비만약 시대 열리나&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcUI2Vkw5WHN5U2dnVWxNXzJEaUwtQUNNZ3dTREt0a2JmWW52RkQ3ck1iOUh0YmdvQWx6U29TWGYxRVpOZWV1WUtaYlptWEtGTWRBWDdyMTlnTlhrcXphM19uVGR3NHFCRTNaQ1JDS3lIVW55N2dwa2NMS2VkUGtkc3cwSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "993b892fd83b",
-      "title": "국내 실리콘 화학 분야 개척한 정일남 박사, 신진 연구자 위해 1억원 기부 - 조선일보",
-      "published": "2026-05-14T06:55:07+00:00",
-      "summary": "국내 실리콘 화학 분야 개척한 정일남 박사, 신진 연구자 위해 1억원 기부&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVHpoa3MtQ19IQUJiUXBxREhIQXl2QW02VlJFeFVxUDFvV3VUQ2tweDZBRXQzZ01hUE1BVUtiRndKcjhmXzZJYTc1a0t6clp3QjNLRXVfSjlMalh5SGZfWXhKc1pFZWhvQzBlSkRSZVlMODdrdUR5d21ETWNtdHhCYklPYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb2c90dabd05",
-      "title": "연구비 등 9천여만원 유흥비로 탕진, 화학연 책임연구원 덜미 - 대전일보",
-      "published": "2026-05-14T06:21:00+00:00",
-      "summary": "연구비 등 9천여만원 유흥비로 탕진, 화학연 책임연구원 덜미&nbsp;&nbsp;대전일보",
-      "sources": [
-        {
-          "name": "대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zNzB5NF94djNGcjR2ZF9WVWNyT3F6d1FZZWdoLWF6dXhFZzIyTkFDcnAxd3hJYzY0eGlWR3I3Q1g1QVo2S2c1d2ZLcnVraE41ckdfVG9rcWZwNkVuSmFWTElDNEtuYUp1LW1uRkJpa9IBc0FVX3lxTFBvaW5NajVzWnAwTU5DVEhMMXlUQWN4djRzMk1FV1dHa01OR1MzNXg5QTdnTmFoWjB0b0pSOGxJVEJqVXl3QWJfQktPZWFDZFVVYlJ1QTdrbmVGNGNXS1hXLVFsdU5oS051aUpqd0ZFZWJmMTQ?oc=5"
+          "name": "헬로디디",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoczZGS2YtOFFWR09WdEVGZmt0U3pTaVQ1Y2Y3QkJCbXZ6bDZBOGF6S3hPMVBJRGlzWF9EM01ObFJ4ZUZZV1hOdkJzQmhSZHFJWnIyNVJuY1gzUUNBZElpc01DWXI3OEZvUGc?oc=5"
         }
       ]
     }
