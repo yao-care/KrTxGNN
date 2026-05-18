@@ -1,19 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-18T10:11:34.161869+00:00",
-  "total_fetched": 66,
-  "unique_count": 66,
-  "health_related_count": 41,
+  "fetched_at": "2026-05-18T15:39:33.154431+00:00",
+  "total_fetched": 67,
+  "unique_count": 67,
+  "health_related_count": 39,
   "news": [
     {
-      "id": "3034aa062a36",
-      "title": "\"회·육회도 안 되나요?\"…항암 중 피해야 할 5가지 [건강!톡] - 한국경제",
-      "published": "2026-05-18T09:34:01+00:00",
-      "summary": "\"회·육회도 안 되나요?\"…항암 중 피해야 할 5가지 [건강!톡]&nbsp;&nbsp;한국경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "0348903d0357",
+      "title": "\"주먹만 한 혈전 쏟아져\"… 20대 여성, 병원 갔더니 무슨 병? - 헬스조선",
+      "published": "2026-05-18T14:40:00+00:00",
+      "summary": "\"주먹만 한 혈전 쏟아져\"… 20대 여성, 병원 갔더니 무슨 병?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mSGgyOFJLcUFWQjBHMHE0QUU4cXpmM2dfcS00eks2XzBvektjSUIwYld3anpCWDhnTGZscnFDSHRoRjNseUdRbDdUZkd0UVNaZFpXcDNLUTZYQdIBVEFVX3lxTE13SDNwZzRkUWVkWmlJRnRGUUJDLVJ2SjNxUk9VVm9YaFVTVmp5amVQcXZfallWX2x1RGxvYTJFS1NDclNyVEdxdXlia190MVZmSDdHVg?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4M1JVYWc4V2ZBUE5YZ2RJUVBmSURtM3V2eklOYnN6VGtjUlBrdEtqR285d1F2b3lHRXNWc2QySkJCMWpaZlRwYktBaWRXZnctTjloUVBEcFd1bHN2NlVhaldyNy1YOF81WE9pNWtkQkptTl93Unc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e88ddaa1a8e1",
+      "title": "'은행잎 추출물' 베타아밀로이드 억제...\"뇌 영상으로 최초 확인\" - 매경헬스",
+      "published": "2026-05-18T12:13:29+00:00",
+      "summary": "'은행잎 추출물' 베타아밀로이드 억제...\"뇌 영상으로 최초 확인\"&nbsp;&nbsp;매경헬스알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;v.daum.net은행잎 추출물, 알츠하이머 유발하는 ‘베타아밀로이드 응집’ 억제한다&nbsp;&nbsp;헬스조선[현장]\"치매 늦출 수 있다?\"…'은행잎 추출물'서 찾은 치료 가능성&nbsp;&nbsp;데일리안은행잎 추출물, 알츠하이머 예방 치료 가능성 PET로 첫 입증&nbsp;&nbsp;국민일보",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ySEpJa2ZVcTZRVGNaaTVQZk5ISWhiZFVNTmxEZ0h1UFNuYUd1N1RZR3JpaUVmR0Z3Um5uYlc2YzJ0TV9ST2lGTU5yNkpsb1l1a19VVTVVQU5lZzkyQllEUkJMN1RHYVpXdkl4Mg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d4500d37b0b",
+      "title": "한타바이러스 크루즈 네덜란드 복귀…선원·의료진 격리(종합) - 연합뉴스",
+      "published": "2026-05-18T11:03:01+00:00",
+      "summary": "한타바이러스 크루즈 네덜란드 복귀…선원·의료진 격리(종합)&nbsp;&nbsp;연합뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04UUIySTBHd3d3TVNHVUVwd05nMkV2cmJaMUNkM09tOXNlYUYtY2lDcnNfVnBwYjN0YnBUTEJuQ0d2VDU4ZGlXMVFEV1VtMHZKc3p4ZHd0Wkp3X2fSAWBBVV95cUxQczVPNi1wdnhTMEZuSFdwR1h5OVNYWmFnZHRWVzhWSWthZGYzYkpWeUR5MXVmZHA4QnRVMWo3QlQ5U1J6WjFNa2JLeW0wRnJKdVpwNTE3WFRNM013N3VTdlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8bccaac78255",
+      "title": "연세대, 우울증 치료하는 ‘콘택트렌즈’ 개발… “항우울제 수준 효과 입증” - 하이닥",
+      "published": "2026-05-18T10:30:00+00:00",
+      "summary": "연세대, 우울증 치료하는 ‘콘택트렌즈’ 개발… “항우울제 수준 효과 입증”&nbsp;&nbsp;하이닥특수 콘택트렌즈로 우울증 고친다…연세대 연구진 쥐 실험서 '효과'&nbsp;&nbsp;뉴시스콘택트렌즈로 우울증 치료한다&nbsp;&nbsp;동아사이언스눈으로 우울증 치료… ‘뇌 자극 콘택트렌즈’ 생쥐 실험서 효과 - 조선비즈&nbsp;&nbsp;Chosunbiz눈은 ‘마음의 창’이 맞았다…우울증 낫게하는 콘택트렌즈 등장&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nSEtxM3plZTBfVE1lT0lMWHdOSXJ3Y2NVZlBIWTJ2VFhZTWNjTGtiZkN0OWNMSHgtZTNtd1VQN1JmSlBEZ0hPMFZlSHYyRUJyQjc2M1g0SUlpQklURGdqTHpSWkZvb3BrOWc?oc=5"
         }
       ]
     },
@@ -54,30 +90,6 @@
       ]
     },
     {
-      "id": "ef4629574a40",
-      "title": "한타바이러스 크루즈선, 네덜란드 복귀...선원 등 격리 - YTN",
-      "published": "2026-05-18T07:43:00+00:00",
-      "summary": "한타바이러스 크루즈선, 네덜란드 복귀...선원 등 격리&nbsp;&nbsp;YTN치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상&nbsp;&nbsp;동아사이언스네덜란드 복귀하는 '한타바이러스' 혼디우스 유람선&nbsp;&nbsp;뉴시스한타바이러스 크루즈선 네덜란드 복귀…선원·의료진 격리 남아&nbsp;&nbsp;연합뉴스NETHERLANDS CRUIS SHIP HANTAVIRUS&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tZ0dmTy1LZHUycTB1RkNvNUtnc3pxMFNaZi1JaDlONU5yQWdyUWhZYkM0M0xmSkRiMy16Ul9sa2JtV2l2S3BOd2ZUYy1NeTJfVFMtaGZiVFZQR1JGS3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ddc22d3f48ab",
-      "title": "인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어” - 한인포스트",
-      "published": "2026-05-18T07:38:29+00:00",
-      "summary": "인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어”&nbsp;&nbsp;한인포스트레스타리 모에르디자트: 칸타바이러스 확산 예방에 대한 집단 인식을 깨우다q&nbsp;&nbsp;VOI.id인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이DKI 정부는 2026 년에 자카르타에서 4 건의 한타 바이러스 사례를 발견했으며 한 환자는 여전히 의심스럽습니다.&nbsp;&nbsp;VOI.id인도네시아의 한타 바이러스는 얼마나 위험합니까?&nbsp;&nbsp;VOI.id",
-      "sources": [
-        {
-          "name": "한인포스트",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MHlodG5BcTJOangxNldhNXlBOTBBdHpydlp6RHItVnpmczYtTklOWmVOSlpkWGpCZ0I2ZndqSGR5M2U2T2ZZU3l6OGUtdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f287bd07419f",
       "title": "약해진 손아귀, 단순 노화 아냐… ‘이 정신질환’ 신호일 수도 - 헬스조선",
       "published": "2026-05-18T07:10:00+00:00",
@@ -90,14 +102,14 @@
       ]
     },
     {
-      "id": "1a076309dea3",
-      "title": "알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래 - 경향신문",
-      "published": "2026-05-18T06:21:00+00:00",
-      "summary": "알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;경향신문알츠하이머 치매 부르는 ‘베타아밀로이드 응집’··· 은행잎 추출물로 억제 가능성&nbsp;&nbsp;v.daum.net은행잎추출물, 치매 원인물질 억제…뇌 영상으로 첫 입증&nbsp;&nbsp;아시아경제뇌기능개선제 시장 재편…은행잎 추출물, 베타아밀로이드 축적 억제 주목&nbsp;&nbsp;네이트은행잎 추출물, 알츠하이머 유발하는 ‘베타아밀로이드 응집’ 억제한다&nbsp;&nbsp;헬스조선",
+      "id": "b428aa69b988",
+      "title": "민관 협력 ‘K-휴머노이드’ 개발 착수…美中 양강에 도전장 - 동아일보",
+      "published": "2026-05-18T06:24:00+00:00",
+      "summary": "민관 협력 ‘K-휴머노이드’ 개발 착수…美中 양강에 도전장&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RSVdkZnMzVm1QSzB3anBJM3ExWF9iOGZfYkRQTUduX0FMRVBmWXlpS3Y0emVWTTZSQ0ZGTkNoWUU2RGpya0lFYUV2NjBLWFdmQmZmSGVRd3I0Z9IBX0FVX3lxTFBlNXBQNlR1ckxiWEJRSFpwaWtrRXp1cXY3cVU3N09zeXlFZmFETVo1MVBsOTBuem5VeVBaNE52TDZ6Z3RlQlVQb1VaXzNkb3ZaejhRMHZUd0dFaTBrekJj?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WSlFJSmZ6Z1EwRGZRZ3BfX2lpck9XOV9LWHhPZ01xX21FVzh5ZUM0Njc0dnRrS2pmb3huOHNuQllnZkFQQXRGT0ZGZkRINXJCbUtoQWhtMlFkQW15RS1OVVNYTXg0T0FpNnVGYUE1c9IBZkFVX3lxTE5wNjNHeUpYWjE1RXN1aUlvdHAyUTVQcUY5TnFnc2FKVXhjT3IwYTk5aUh1V1UyZ04wMTFTTHB3U3dBLXN0S2UwX1Q1MWxOekpCdFZaOUI0aFVUUy12cVVUYWE5R0xUUQ?oc=5"
         }
       ]
     },
@@ -105,11 +117,23 @@
       "id": "c4acd4e751dc",
       "title": "급성췌장염 한번 앓고 재발하면 만성 전환 위험 '70배' 급증 - 의협신문",
       "published": "2026-05-18T06:05:52+00:00",
-      "summary": "급성췌장염 한번 앓고 재발하면 만성 전환 위험 '70배' 급증&nbsp;&nbsp;의협신문[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스급성췌장염 재발하면 만성화 위험 70배&nbsp;&nbsp;메디칼트리뷴재발성 급성췌장염, 만성췌장염 위험 최대 70배 증가&nbsp;&nbsp;메디칼업저버",
+      "summary": "급성췌장염 한번 앓고 재발하면 만성 전환 위험 '70배' 급증&nbsp;&nbsp;의협신문[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스상계백병원 박지영 교수팀, 급성췌장염 재발하면 만성 진행 위험 70배↑...“금주·금연 중요”&nbsp;&nbsp;더퍼스트미디어급성췌장염, 재발 막아야 만성 진행 막는다&nbsp;&nbsp;메드월드뉴스급성췌장염 재발하면 만성화 위험 70배&nbsp;&nbsp;메디칼트리뷴",
       "sources": [
         {
           "name": "의협신문",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PV2V4MnNKb19vWUg3Ui14RzlGZEdJYXhFRkdwcTBwQm1GSVhOY3E5M0ZNZEpFYmFRaTVNWFhFUEtjQkk5N09YeGZWOVBMUjMyd0UwNlFQQ0o1UjJjQURLOTRkb2M4SzJJOC1reWpOSEx6QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d5fc72389f6",
+      "title": "건행의 시니어세대 새로운 생활방식 - 충청일보",
+      "published": "2026-05-18T05:55:17+00:00",
+      "summary": "건행의 시니어세대 새로운 생활방식&nbsp;&nbsp;충청일보“헬스장 안 다녀도 된다”…단 ‘11분’만 더 자면 심장 건강 지킬 수 있다는데 [헬시타임]&nbsp;&nbsp;서울경제“우아하게 늙자” 50대 의사 실천한다는 습관, 뭘까?&nbsp;&nbsp;헬스조선“건강하게 오래살자”... 건강 수명 늘리는 장수 식품 3가지&nbsp;&nbsp;하이닥[허영주 칼럼] 전세계 메가 웰니스 트렌드, 롱제비티(Longevity)&nbsp;&nbsp;여성경제신문",
+      "sources": [
+        {
+          "name": "충청일보",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOYmRRdEFNSUZGckRnZjZqV09peEIyTVhXa1pKa2RLREV3WS1DTnFSNXFpdk5QS0tSbHUya211d3JKR0oybGZmZFRvOE9ibTRfVDExMWZudWItTkFSUVUyVDNjUXd4SGZOUmY0NDVjVkw?oc=5"
         }
       ]
     },
@@ -129,7 +153,7 @@
       "id": "848213ea6744",
       "title": "변비에 좋은 ‘이 과일’, 매일 먹었더니 피부 밀도 달라졌다고? - 코메디닷컴",
       "published": "2026-05-18T05:41:00+00:00",
-      "summary": "변비에 좋은 ‘이 과일’, 매일 먹었더니 피부 밀도 달라졌다고?&nbsp;&nbsp;코메디닷컴제스프리 썬골드키위, 매일 섭취 시 피부 건강 개선 효과 확인… 국제 피부과학 학술지 게재&nbsp;&nbsp;헬스조선“매일 키위 섭취 시 피부 개선”…제스프리, 국제학술지 논문 소개&nbsp;&nbsp;realfoods.co.kr“비타민C, 화장품보다 식단이 중요”…제스프리 썬골드키위, 피부 건강 개선 효과 주목&nbsp;&nbsp;나눔경제뉴스비타민 C 풍부한 썬골드키위, 피부 밀도 개선 효과 확인&nbsp;&nbsp;뉴스탭",
+      "summary": "변비에 좋은 ‘이 과일’, 매일 먹었더니 피부 밀도 달라졌다고?&nbsp;&nbsp;코메디닷컴제스프리 썬골드키위, 매일 섭취 시 피부 건강 개선 효과 확인… 국제 피부과학 학술지 게재&nbsp;&nbsp;헬스조선변비에 좋은 '이 과일', 매일 먹었더니 피부 밀도 달라졌다고?&nbsp;&nbsp;네이트제스프리 썬골드키위 연구 결과 발표…“비타민C 섭취 후 피부 밀도 개선 확인”&nbsp;&nbsp;로이슈“매일 키위 한 알, 피부 밀도·재생 개선에 탁월”&nbsp;&nbsp;농축유통신문",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -146,6 +170,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xV3RpelQxY2VaX1Zhd0V0OXlFeW1Lem1la3JTYzJQSzItdjRVOGdpcW1peXViUVYwN2JvLWw3RXZsRnBpVldUeFA5NURqSWxfdjQwT0xIN2poZmp4X3R3dExJajIwTjBha0JLd2ppZzdSMGFKeEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b680a49eb11e",
+      "title": "자기경련치료, 우울증서 ECT 대비 비열등성 확인···인지 부작용은 ↓ - 메디칼업저버",
+      "published": "2026-05-18T03:09:52+00:00",
+      "summary": "자기경련치료, 우울증서 ECT 대비 비열등성 확인···인지 부작용은 ↓&nbsp;&nbsp;메디칼업저버[신경과학 저널클럽]우울증 치료 열쇠 될 ‘자기자극 원리’&nbsp;&nbsp;경향신문우울증, 뇌 특정 세포에서 실마리를 찾다&nbsp;&nbsp;브랜드경제신문우울증 치료 열쇠 될 '자기자극 원리'[신경과학 저널클럽]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43Z2pTSHAxaDFBb24zcHRMQWZubmh4akVEanl2TDdETm52YzVmcmJtWGUyM2laWHB6MDNWeW9RWWNWUHlDMkhrMGttd2Yxck9NS0RGX3NlNktZQWRYekxMVkc0b01QSzAxWG9j?oc=5"
         }
       ]
     },
@@ -186,18 +222,6 @@
       ]
     },
     {
-      "id": "03b84efe13c3",
-      "title": "감염병·흡연·마약 예방…“건강은 스스로 지켜요” - 뉴스N제주",
-      "published": "2026-05-18T01:30:31+00:00",
-      "summary": "감염병·흡연·마약 예방…“건강은 스스로 지켜요”&nbsp;&nbsp;뉴스N제주",
-      "sources": [
-        {
-          "name": "뉴스N제주",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zUGE0OGxrdlpkSDFJajVsYjJzQlZ2TC1LTWxqbUZHamRzZ1BvdzVVa2JDSWRYR2dROXNRaC1CdHZRSXJFVktpam9BazdfUl9GWF9yZDMwQVJzR0hKWENqa1RjZlE1NzRwWHBYZA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "754524afcd32",
       "title": "지독한 기침 계속?…천식 여부, '호기산화질소 검사'로 확인 도움 - 보건신문",
       "published": "2026-05-18T01:25:25+00:00",
@@ -225,7 +249,7 @@
       "id": "9c4ac7d9b1df",
       "title": "불면증, 수면장애로 고생한다면, '타트체리'를 주목 - kmjournal.net",
       "published": "2026-05-18T01:10:02+00:00",
-      "summary": "불면증, 수면장애로 고생한다면, '타트체리'를 주목&nbsp;&nbsp;kmjournal.net피곤한데 잠이 안 온다?…‘두 가지 성분’ 함께 먹으면 꿀잠&nbsp;&nbsp;동아일보“밤새 ‘통잠’ 자고 싶은데”…‘숙면’ 도움·방해 식습관&nbsp;&nbsp;농민신문“피곤한데 잠은 안 오고 뒤척뒤척”…마그네슘·멜라토닌 ‘꿀잠 시너지’&nbsp;&nbsp;v.daum.net",
+      "summary": "불면증, 수면장애로 고생한다면, '타트체리'를 주목&nbsp;&nbsp;kmjournal.net잠 못 자고 자주 쥐 난다면?… 약사가 알려주는 올바른 마그네슘 복용법&nbsp;&nbsp;하이닥피곤한데 잠이 안 온다?…‘두 가지 성분’ 함께 먹으면 꿀잠&nbsp;&nbsp;동아일보“밤새 ‘통잠’ 자고 싶은데”…‘숙면’ 도움·방해 식습관&nbsp;&nbsp;농민신문“피곤한데 잠은 안 오고 뒤척뒤척”…마그네슘·멜라토닌 ‘꿀잠 시너지’&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "kmjournal.net",
@@ -254,18 +278,6 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5UVE1HT3h0Z3U4M2FpU18tZHNfSnl5R3FKRmN5cDB5RUxYdEtUN3NoN2JHLWlaZXVFZjRHeWx0aHhnVkhM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb176971110e",
-      "title": "한국뇌연구원, 알츠하이머 초기 진행에 따른 뇌 부위별 분자 신호 회로도 규명 - 전자신문",
-      "published": "2026-05-18T00:36:05+00:00",
-      "summary": "한국뇌연구원, 알츠하이머 초기 진행에 따른 뇌 부위별 분자 신호 회로도 규명&nbsp;&nbsp;전자신문알츠하이머 '퍼지는 경로' 찾았다…뇌 부위별 분자 회로도 첫 규명[과학을읽다]&nbsp;&nbsp;v.daum.net'알츠하이머' 이렇게 퍼진다…뇌 속 분자 회로도 첫 규명&nbsp;&nbsp;뉴시스알츠하이머병 뇌 부위별‘분자 신호 회로도’규명&nbsp;&nbsp;BRIC뇌연구원, 알츠하이머 진행 ‘신호 모듈’ 발견…조기진단·치료표적 개발 속도&nbsp;&nbsp;헤럴드경제",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82SzRvTzhBYVM1dkVzRnZTNGdwZzRuTDhELWp0SzNsdGg1ZEptVklrak93V0RfRVZHTXoxMld0S0loSk5Ub0laMF94WGl3QQ?oc=5"
         }
       ]
     },
@@ -318,18 +330,6 @@
       ]
     },
     {
-      "id": "c075f45c60b8",
-      "title": "콘택트렌즈로 우울증 치료한다 - 동아사이언스",
-      "published": "2026-05-17T22:00:00+00:00",
-      "summary": "콘택트렌즈로 우울증 치료한다&nbsp;&nbsp;동아사이언스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrQmZEV0lDZVBYVExPcldnM096TlpBczZ5Y0x5N2RkZ1RRQjlvdnZlbmJRTEttVjNPa0dtc2xvVXptdXlYRDNvYm9LWENGMUp6OV9VaA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "131de73ca40b",
       "title": "“고령층만? 젊은 이식환자도 고면역원성 독감백신 맞아야 합니다” - 헬스경향",
       "published": "2026-05-17T21:33:00+00:00",
@@ -350,18 +350,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GWjJKWFlwYzJoRGFNdlFrYnhybFR6bzdxSFF4UnRkRFc5Sm1oUVI4SmdGWlVzZEE2T28xaVFWM3ZEX1FUcS0xblVMQ19hSkdUMktj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1af6537ebcce",
-      "title": "제로·저당 열풍 속 커지는 '당 공포'…당, 정말 끊어야 할까 - 매경헬스",
-      "published": "2026-05-17T21:20:00+00:00",
-      "summary": "제로·저당 열풍 속 커지는 '당 공포'…당, 정말 끊어야 할까&nbsp;&nbsp;매경헬스“의외로 당 많이 들었다” 매일 먹는 ‘이 음식’ 주의&nbsp;&nbsp;헬스조선케첩·요거트·단백질바…‘의외로’ 당분 많은 음식들&nbsp;&nbsp;레이디경향살 안찌는 줄 알았는데… “혈당 폭발” 약사가 꼽은 ‘의외의 음식’&nbsp;&nbsp;코메디닷컴건강하려고 먹었는데 설탕 덩어리?…조심해야 할 과일 섭취법 4&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeHJlWmQtb0ZZUHlKVmt6enUzV2xsNXR2NVR5cklxdE1sSTR1UVJUZUtsU2UwcU13dU8wakJFcnJJZXljY0xENDY2YUFnUlhzY2pvbEdhOUd1elZMa2oxRWJWdTRKaHNaSGk0WQ?oc=5"
         }
       ]
     },
@@ -402,14 +390,26 @@
       ]
     },
     {
-      "id": "86d9f58a8fa9",
-      "title": "[신경과학 저널클럽]우울증 치료 열쇠 될 ‘자기자극 원리’ - 경향신문",
-      "published": "2026-05-17T11:30:00+00:00",
-      "summary": "[신경과학 저널클럽]우울증 치료 열쇠 될 ‘자기자극 원리’&nbsp;&nbsp;경향신문자기경련치료, 우울증서 ECT 대비 비열등성 확인···인지 부작용은 ↓&nbsp;&nbsp;메디칼업저버우울증, 뇌 특정 세포에서 실마리를 찾다&nbsp;&nbsp;브랜드경제신문우울증 치료 열쇠 될 '자기자극 원리'[신경과학 저널클럽]&nbsp;&nbsp;네이트",
+      "id": "dc89d337ed07",
+      "title": "저지방 식물성 식단, 4주 만에 생물학적 노화 속도 늦춘다 - 한국공공정책신문",
+      "published": "2026-05-17T07:49:30+00:00",
+      "summary": "저지방 식물성 식단, 4주 만에 생물학적 노화 속도 늦춘다&nbsp;&nbsp;한국공공정책신문\"고단백보다 탄수화물?\"…채식·고탄수 식단 생물학적 나이 낮춰&nbsp;&nbsp;v.daum.net“4주 만에 생체 나이 바꿨다”…몸속 염증 잡는 ‘식단’의 힘 [노화설계]&nbsp;&nbsp;동아일보65세 넘었다면 ‘이것’ 덜 먹어야 천천히 늙는다&nbsp;&nbsp;헬스조선\"4주 식단만 바꿔도 생체나이 어려진다\"... 호주 시드니대 연구 결과&nbsp;&nbsp;시애틀코리안데일리",
       "sources": [
         {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qLTJxZE95YjNxZUlLdUFLdjhiWkNPZXRJNGUyM01SN2tzVWNBd2d1Y2NEcGlDUnZkUFRTMDFFYkZ3QU9DcUx5cmphc095c3h3S1ZZYkVMdHBPUdIBX0FVX3lxTE4yM2dsNTdUa29rc1hvbFBpenZSeGtCRl9kbXlYdnN0a1NYenJVRkpGaktkakpfN3pqWGx2eXRpd3dRUjRlTGtKemxVVU9kVnpBWE1GOW5LZ0VFblkwcUNr?oc=5"
+          "name": "한국공공정책신문",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBMQkZCUlN0WUNyb3pnbVdEWTJSUU9DRTM1Q3RfUW54R2RHN0VJbUFDZmwwaWs0bk1BWVZvWlpveTZRRGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddc22d3f48ab",
+      "title": "인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어” - 한인포스트",
+      "published": "2026-05-17T07:36:57+00:00",
+      "summary": "인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어”&nbsp;&nbsp;한인포스트레스타리 모에르디자트: 칸타바이러스 확산 예방에 대한 집단 인식을 깨우다q&nbsp;&nbsp;VOI.id인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이DKI 정부는 2026 년에 자카르타에서 4 건의 한타 바이러스 사례를 발견했으며 한 환자는 여전히 의심스럽습니다.&nbsp;&nbsp;VOI.id인도네시아의 한타 바이러스는 얼마나 위험합니까?&nbsp;&nbsp;VOI.id",
+      "sources": [
+        {
+          "name": "한인포스트",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MHlodG5BcTJOangxNldhNXlBOTBBdHpydlp6RHItVnpmczYtTklOWmVOSlpkWGpCZ0I2ZndqSGR5M2U2T2ZZU3l6OGUtdw?oc=5"
         }
       ]
     },
@@ -438,22 +438,10 @@
       ]
     },
     {
-      "id": "08e4400e03c8",
-      "title": "\"37년 간 속았다\"...NASA發 관엽식물 공기정화 효과 - 지디넷코리아",
-      "published": "2026-05-17T00:44:35+00:00",
-      "summary": "\"37년 간 속았다\"...NASA發 관엽식물 공기정화 효과&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GQks0SFpFWTlrampIeFNnMEZTdDQ3X0xKQl9KVl9YSFJkZnMxekNZangzUnRtYWdxRWJpVUVSTkZUQWNqX05EY3JQQ2V6cHc1MzlKcVZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5301df05e312",
       "title": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다 - 하이닥",
       "published": "2026-05-16T21:30:00+00:00",
-      "summary": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다&nbsp;&nbsp;하이닥세계 연구진 14년 노력… 이름 바뀐 다낭성난소증후군&nbsp;&nbsp;천지일보",
+      "summary": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다&nbsp;&nbsp;하이닥세계 연구진 14년 노력… 이름 바뀐 다낭성난소증후군&nbsp;&nbsp;천지일보전세계 여성 8명 중 1명 앓는 ‘이 질환’ 명칭 바뀐다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "하이닥",
@@ -470,18 +458,6 @@
         {
           "name": "한국AI부동산신문",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKR2FpYU1WNGpaWFBTZUxhYWwxcnlmOWZMM1Mzc3pHcVRyeDhhM2Jpb1JrWVRuZ1lFYWdxNEZocEx3T0dESzZiUmkxYlc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a9990e32e96",
-      "title": "새벽에 깨서 답답한 가슴, 알고 보니 심장마비… 다른 증상은? - 헬스조선",
-      "published": "2026-05-16T14:01:00+00:00",
-      "summary": "새벽에 깨서 답답한 가슴, 알고 보니 심장마비… 다른 증상은?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iX1dsQVdQanlSa1dFcUdGeWVIaGFfeTNwYmM3REV0c0RCX29fbkM0RUJtdm9LNnF6RkxpZm5hY2dMMU83TVJsMV93ZGlEM1VMRXFhUEJDMDRHQ0tzMXl1VW56WENoUThWZi1SdlJlWERVWjR3a1E?oc=5"
         }
       ]
     },
