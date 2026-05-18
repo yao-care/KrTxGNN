@@ -1,12 +1,77 @@
 {
-  "last_updated": "2026-05-17T19:13:50.084725+00:00",
-  "total_count": 20,
+  "last_updated": "2026-05-18T03:59:44.482309+00:00",
+  "total_count": 35,
   "matched_count": 0,
   "news": [
     {
+      "id": "19d9876e752b",
+      "title": "[반려동물 건강이야기] 반려동물의 호흡이 수상하다...어떤 문제가 숨어있을까?",
+      "published": "2026-05-18T03:29:42+00:00",
+      "summary": "[반려동물 건강이야기] 반려동물의 호흡이 수상하다...어떤 문제가 숨어있을까?&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10WS1iRWJkX2pkM21FMmw2WU9fUlhFaWtpM2M1REdLMzhhNDRZOVBtdmRNZ3NaMFI0ejN3YmtRTmY5elk2YzVXR2o1ZWRwamNYNnNna0xtYjlYX1hXRTR0dzlxRmZEdkdrdXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2347901f18fc",
+      "title": "[메디컬 인사이트 16부] 면역 항암제의 진화와 암 정복을 위한 차세대 병용 요법의 실효성",
+      "published": "2026-05-18T03:07:38+00:00",
+      "summary": "[메디컬 인사이트 16부] 면역 항암제의 진화와 암 정복을 위한 차세대 병용 요법의 실효성&nbsp;&nbsp;한국공공정책신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "한국공공정책신문",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8zR2JWYTctNmw1U2F2N3EwRUZSSXlyRmdwYm9LdUo4X2tNMlhiM3MzQTdYeUtxOVNrU0FNaXJhTkJubzQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0027b38da202",
+      "title": "재발성 급성췌장염, 만성췌장염 위험 최대 70배 증가",
+      "published": "2026-05-18T03:07:34+00:00",
+      "summary": "재발성 급성췌장염, 만성췌장염 위험 최대 70배 증가&nbsp;&nbsp;메디칼업저버급성췌장염, 재발 막아야 만성 진행 막는다&nbsp;&nbsp;메드월드뉴스급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vQU44TTdPTWNHSzlXdHI1ZWhMLTdtRm53eUdHVlJELS15alBnYWlGVGFic1BKUzh5TVJYeGMzX0c3YmRtT0RoSzNOZkdhS3JrTEpmYmJsaE9oY29EYjc5RWQzdkpTQ1pQV0hJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "867dbd55e169",
+      "title": "‘갱년기 이후 뼈가 위험하다’, 골다공증 조기에 검진해야",
+      "published": "2026-05-18T03:02:20+00:00",
+      "summary": "‘갱년기 이후 뼈가 위험하다’, 골다공증 조기에 검진해야&nbsp;&nbsp;용인시민신문“뼈 약해지면 수명 줄어든다”… 폐경 후 골다공증, 사망률 47% 높여&nbsp;&nbsp;하이닥“먹지 않고 살 빼다간 뼈 망가집니다”[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보폐경 후 ‘이 부분’ 관리 놓치면… “조기 사망 위험 47% 높다”&nbsp;&nbsp;코메디닷컴\"50대부터 뼈가 달라진다\"...골다공증 조기 발견과 골절 예방 가이드 [안해모수 원장 칼럼]&nbsp;&nbsp;하이뉴스",
+      "sources": [
+        {
+          "name": "용인시민신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CUU9lZEpBSFhSdzFIXzZQTWdsZUZITG9XVnRXb2xieDRwcmQ2dXBfNEZ0dmEyazkwVDJLU20zWWZrcXpFVHZ0TXVIa3VCRncxcWVRYUNkcGJXZGZmZUJ3VEFyTUV0WnJfVHJaQw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f0ad2676dd64",
+      "title": "기억력 저하는 단순 건망증 아닐 수도",
+      "published": "2026-05-18T02:59:00+00:00",
+      "summary": "기억력 저하는 단순 건망증 아닐 수도&nbsp;&nbsp;기호일보“어… 음…” 잦아진 대화 습관…그냥 건망증 아닐 수도 [노화설계]&nbsp;&nbsp;v.daum.net치매와 알츠하이머, 무엇이 같고 어떤 게 다를까&nbsp;&nbsp;스포츠경향\"늙어서 그런 줄 알았는데 아니네요\" 이 신호 파악해야 [김효경의 데일리 헬스]&nbsp;&nbsp;데일리안[이윤희 박사의 건강칼럼] 알츠하이머 치매! 기억장애 원인의 새로운 발견? 그리고 대안은&nbsp;&nbsp;아웃소싱타임스",
+      "sources": [
+        {
+          "name": "기호일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JQmQ2MUtzVUlBdXhieU8wSGpZYnVDY0lNa1V3a0JTOE5UY1pCeTJJckN4QmdqcThDcHhGWW9UamFpLTNYWjc4eDkwM2tLa3Fvdk1JeHpDblF3SGMya3k3TzFxY2hqOF9oczN0cGZCTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9f994d45238b",
       "title": "피부보존 유방전절제술 및 겨드랑이 감시림프절 절제술 환자에서 네오베일 적용의 합병증 예방 효과",
-      "published": "2026-05-17T17:11:47+00:00",
+      "published": "2026-05-18T02:37:02+00:00",
       "summary": "피부보존 유방전절제술 및 겨드랑이 감시림프절 절제술 환자에서 네오베일 적용의 합병증 예방 효과&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
@@ -17,53 +82,209 @@
       "matched_keywords": []
     },
     {
-      "id": "34ca9adf76e8",
-      "title": "치명률 50% ‘한타바이러스’, 백신-치료제는 아직 연구중",
-      "published": "2026-05-17T15:30:00+00:00",
-      "summary": "치명률 50% ‘한타바이러스’, 백신-치료제는 아직 연구중&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "ed3b6d5ea518",
+      "title": "양방향 내시경 조기 재수술 위험인자 ‘당뇨’",
+      "published": "2026-05-18T02:18:18+00:00",
+      "summary": "양방향 내시경 조기 재수술 위험인자 ‘당뇨’&nbsp;&nbsp;병원신문",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YLTN2aERMSTh3bDNHZUUzN2JnSF9fVUdGUVA3ckU3ZkU4T2h2ODhXdnlOeHdSdHR1UnRicmFEbmZyUGlpT1VzTC0zRGVmc2hjWG5XbzJxOWFEcXdJRl81WDYxcV9YYmU5dUNTM0dQSdIBZkFVX3lxTE9DR3pRa3ItQXZ0dV9MRk9vZHBmbkFYS2VCeWUzaUZBRDhJMEtjVEhqaGNQcVpMVDNCZ2N6NG9LSHJGNVp6cXZNSjhERUNKaXJnZm9xREpXZkF6QmtlV3p6WC1yTTBQQQ?oc=5"
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vQUFEWVBJTGNZVTdUNmNWZ0xvMms3MGFzaHg5Ykw1TXBOdm5rVTlBWnNyRzQ4SUFfMllHVkpKQnNfWkJiTUlmbnUwYjdSOWl5VnJxTGtzOUMzc3ZoRGtqMUhWb2toQmFHSlE?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "5a1e8e79dfa9",
-      "title": "우울증 치료 렌즈 개발… 눈 통해 ‘마음의 병’ 고친다",
-      "published": "2026-05-17T15:30:00+00:00",
-      "summary": "우울증 치료 렌즈 개발… 눈 통해 ‘마음의 병’ 고친다&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "754524afcd32",
+      "title": "지독한 기침 계속?…천식 여부, '호기산화질소 검사'로 확인 도움",
+      "published": "2026-05-18T01:25:25+00:00",
+      "summary": "지독한 기침 계속?…천식 여부, '호기산화질소 검사'로 확인 도움&nbsp;&nbsp;보건신문감기인 줄 알았는데… 기침 지속되면 ‘천식’ 의심&nbsp;&nbsp;전국도민일보봄철 불청객 '꽃가루와 황사'의 습격, 기침·가래 방치하지 말고 호흡기 건강 지켜야&nbsp;&nbsp;바이오타임즈[ k-한식 디렉터 장윤정 ] 천식 환자의 식탁, 숨 쉬는 삶을 바꿀 수 있을까&nbsp;&nbsp;한국AI부동산신문'아침마당' 천식 의외의 예방법 \"독감 백신 꼭 맞아야\"&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14Y041TlFFa24xMDVaOVd2N2lSOWdEa0Z2Y2MySWlTMW1YSW9HcU5za25jTTVCQzhUYnQwNjd2QU04aENFT1htb2d6X3NvN3ZRZ1RxUGZPdFJibkxXWmVaYXM3c3hBZ1hzNklNZ2ZmTdIBZkFVX3lxTE5WOWdORnNpazZTWE9sTU1FbzVLZXZKVGFNQVdyTHhFeEhMblIydlFhLTRoajdVNXlaOEwxTm55N3dmUnpuTXI3ZW56N2hVQmhRTkNVNWhLQzZ1RHY2cFZtcGIyaEJWdw?oc=5"
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84Mk9GTS0yWWhpcEVzYUQ0eldiQzExUnkzRm1VRkNLb3B5QkJsYU4xaG5Da3VMN0VZc29XUHNadloxM3BxbFVheFZQbE9rZGprRlZPcEVEaTc2WjQ5VE1DbWR2WQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "ee4ef97377da",
+      "id": "4651a5793776",
+      "title": "20대 남성들이 조심해야하는 '암 질병', 두경부암",
+      "published": "2026-05-18T01:10:28+00:00",
+      "summary": "20대 남성들이 조심해야하는 '암 질병', 두경부암&nbsp;&nbsp;civicnews.com",
+      "sources": [
+        {
+          "name": "civicnews.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sVl9ycmVobFJ3aFJwUHp5MVMxUHVuLXpMaGx6aFJaN1doMnJyc3VvajZNRG92dkI1c29CWWFGaWt0dUxrUERxX1JHdVNfVS1RNHBIT1g0TG8yS1h1MHY4VlJLdklxUldRaDRJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9c4ac7d9b1df",
+      "title": "불면증, 수면장애로 고생한다면, '타트체리'를 주목",
+      "published": "2026-05-18T01:10:02+00:00",
+      "summary": "불면증, 수면장애로 고생한다면, '타트체리'를 주목&nbsp;&nbsp;kmjournal.net잠 못 자고 자주 쥐 난다면?… 약사가 알려주는 올바른 마그네슘 복용법&nbsp;&nbsp;하이닥피곤한데 잠이 안 온다?…‘두 가지 성분’ 함께 먹으면 꿀잠&nbsp;&nbsp;동아일보“밤새 ‘통잠’ 자고 싶은데”…‘숙면’ 도움·방해 식습관&nbsp;&nbsp;농민신문“피곤한데 잠은 안 오고 뒤척뒤척”…마그네슘·멜라토닌 ‘꿀잠 시너지’&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "kmjournal.net",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zWXJ6UHJFZ2ltN2lqc0pXTkhYTmg2aUhKVlJJdllTRjAtNGQ0Q3FkZENGblVIc19xT2NCcWgyOG9CZ1FNd3F0VF9nMzBWR3pvWnZmQTFTd1k5eUt0M1FQZndJZXJoVU5STWV3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3d8a1c29e757",
+      "title": "설탕 든 음료 대신 물만 마셔도...조금씩 건강하게 체중 줄이는 요령",
+      "published": "2026-05-18T01:07:00+00:00",
+      "summary": "설탕 든 음료 대신 물만 마셔도...조금씩 건강하게 체중 줄이는 요령&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4tRi15MzJFenhFSmlfYTI2dncwb1UtQXhfU2FBUXpmSlVlVHFkTUtGQWZrcE5BYXFVcjFocHRWODFqUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fd8d37e4e62f",
+      "title": "독감, 코 안에 상주하는 면역세포로 예방될까?",
+      "published": "2026-05-18T00:44:00+00:00",
+      "summary": "독감, 코 안에 상주하는 면역세포로 예방될까?&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5UVE1HT3h0Z3U4M2FpU18tZHNfSnl5R3FKRmN5cDB5RUxYdEtUN3NoN2JHLWlaZXVFZjRHeWx0aHhnVkhM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bb176971110e",
+      "title": "한국뇌연구원, 알츠하이머 초기 진행에 따른 뇌 부위별 분자 신호 회로도 규명",
+      "published": "2026-05-18T00:36:05+00:00",
+      "summary": "한국뇌연구원, 알츠하이머 초기 진행에 따른 뇌 부위별 분자 신호 회로도 규명&nbsp;&nbsp;전자신문알츠하이머 '퍼지는 경로' 찾았다…뇌 부위별 분자 회로도 첫 규명[과학을읽다]&nbsp;&nbsp;v.daum.net알츠하이머병 뇌 부위별‘분자 신호 회로도’규명&nbsp;&nbsp;BRIC치매 치료의 패러다임이 바뀐다…“환자 맞춤형 정밀 의학으로 전환될 것” [치매를 말하다 ⑧]&nbsp;&nbsp;하이닥뇌연구원, 알츠하이머 진행 ‘신호 모듈’ 발견…조기진단·치료표적 개발 속도&nbsp;&nbsp;헤럴드경제",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82SzRvTzhBYVM1dkVzRnZTNGdwZzRuTDhELWp0SzNsdGg1ZEptVklrak93V0RfRVZHTXoxMld0S0loSk5Ub0laMF94WGl3QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c275aaf5b799",
+      "title": "출혈 관리부터 혈압 조절까지…심혈관 약물치료 전략의 핵심은?",
+      "published": "2026-05-17T23:44:09+00:00",
+      "summary": "출혈 관리부터 혈압 조절까지…심혈관 약물치료 전략의 핵심은?&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80cF8zMGpkVTBRNnR4NVI3Y0ZVNjcwODJmN3NFZlg3MUtmVjJZQTcwUmlnUUdjQnpnVEVZX0ZBSG95MXdTdzh5Zi1LaWFFZlVqc0FUYnNlSTVmWDZHYmJ2UDZsZEZtbXQxU3JN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e1e06086011e",
+      "title": "피부관리 신제품 잇단 호평 '동국제약' 4월 온라인 관심도 1위…종근당 뒤이어",
+      "published": "2026-05-17T23:20:57+00:00",
+      "summary": "피부관리 신제품 잇단 호평 '동국제약' 4월 온라인 관심도 1위…종근당 뒤이어&nbsp;&nbsp;빅데이터뉴스",
+      "sources": [
+        {
+          "name": "빅데이터뉴스",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4ybFlmV3B5YXZYdkVlNUdXcXVUREhiR19RYTA0ZEhyLXNZR01wWktWb2kwaG9MT1QwcWVhUkxaNHltcjNGaDRfTlJnMGhEaHpFckR3a2xnMlBrSkVlZm1Wdm1tb2V0SVRCU0RRa3hBakptWFBRdnRYNl9ObHQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4d0d53682c07",
+      "title": "치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상",
+      "published": "2026-05-17T22:00:00+00:00",
+      "summary": "치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상&nbsp;&nbsp;동아사이언스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42QTVENkw5N2xFbkF5T01qSXZOVW9rRjVkbTdvLW5SWTZ1d2ZvNllBYW1aQ2dNbnBWaXFUcUV4UnVSd2VYVEdHcklxaVhCQkZPajJBag?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c075f45c60b8",
+      "title": "콘택트렌즈로 우울증 치료한다",
+      "published": "2026-05-17T22:00:00+00:00",
+      "summary": "콘택트렌즈로 우울증 치료한다&nbsp;&nbsp;동아사이언스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrQmZEV0lDZVBYVExPcldnM096TlpBczZ5Y0x5N2RkZ1RRQjlvdnZlbmJRTEttVjNPa0dtc2xvVXptdXlYRDNvYm9LWENGMUp6OV9VaA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "131de73ca40b",
+      "title": "“고령층만? 젊은 이식환자도 고면역원성 독감백신 맞아야 합니다”",
+      "published": "2026-05-17T21:33:00+00:00",
+      "summary": "“고령층만? 젊은 이식환자도 고면역원성 독감백신 맞아야 합니다”&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53WHU1OUMyNXNLSm5ROG93STZTeWxfWHU0X3hHMjJOLXM3UjF2czdIYmh5R01FNXdmMVdvdXhfdmVmU28tTks4YjRXYnU0aV9ZWjl4LXAtUXlxVDZIbEhKbXlpZ3lsbkZMbGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1af6537ebcce",
+      "title": "제로·저당 열풍 속 커지는 '당 공포'…당, 정말 끊어야 할까",
+      "published": "2026-05-17T21:20:00+00:00",
+      "summary": "제로·저당 열풍 속 커지는 '당 공포'…당, 정말 끊어야 할까&nbsp;&nbsp;매경헬스“의외로 당 많이 들었다” 매일 먹는 ‘이 음식’ 주의&nbsp;&nbsp;헬스조선케첩·요거트·단백질바…‘의외로’ 당분 많은 음식들&nbsp;&nbsp;레이디경향살 안찌는 줄 알았는데… “혈당 폭발” 약사가 꼽은 ‘의외의 음식’&nbsp;&nbsp;코메디닷컴건강하려고 먹었는데 설탕 덩어리?…조심해야 할 과일 섭취법 4&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeHJlWmQtb0ZZUHlKVmt6enUzV2xsNXR2NVR5cklxdE1sSTR1UVJUZUtsU2UwcU13dU8wakJFcnJJZXljY0xENDY2YUFnUlhzY2pvbEdhOUd1elZMa2oxRWJWdTRKaHNaSGk0WQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7497970bfed6",
+      "title": "[영양과 도핑] 단기 회복에 ‘적절’ 훈련 시즌에는 ‘짧게’ 섭취",
+      "published": "2026-05-17T20:43:00+00:00",
+      "summary": "[영양과 도핑] 단기 회복에 ‘적절’ 훈련 시즌에는 ‘짧게’ 섭취&nbsp;&nbsp;약사공론운동 전에 과일을 먹어야 하는 5 가지 이유, 몸을 더 강하게 만든다.&nbsp;&nbsp;VOI.id“뛰고 나면 더 지친다?” 오래가는 러닝 피로, ‘이 영양소’ 부족하단 신호&nbsp;&nbsp;하이닥[건강 일문일답] 근육통 있을 때 운동…득(得)? 독(毒)?&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xbHZnbEhzSktSRmZta1lXMkJienVycDhDNUdfT3dxQWxYQVFIUThqRUFUejk1cHVwVkd2YUk4dUxval9ucG1EWUEzRHFtWmh0WGItN05LSEVIMXRFcW8xd0hqbmRwaHlxM19KRg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e16020f23c78",
+      "title": "\"노로바이러스, 굴 때문인 줄만 알았는데\"... 매일 즐겨 먹는 '이 채소'의 충격 반전",
+      "published": "2026-05-17T18:00:00+00:00",
+      "summary": "\"노로바이러스, 굴 때문인 줄만 알았는데\"... 매일 즐겨 먹는 '이 채소'의 충격 반전&nbsp;&nbsp;아던트뉴스“상추먹고 장염”…노로바이러스 ‘굴’만 범인이 아니었다&nbsp;&nbsp;레이디경향삼겹살에 필수인데…뜻밖에 '이 채소' 먹다 노로바이러스 걸렸다는 사람&nbsp;&nbsp;위키트리",
+      "sources": [
+        {
+          "name": "아던트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZWlRPU1dFZXNGX05fRmZPWlczQ1BheS01SWZzTlV0MHZzbE85b3Bfd2lfeTVUdmw2NTBtSHo4ZExsSlR1ZlRheF9IZTJ6Mk43dXVBOFJmcHBqN256Ynl6S2RFQ0VMSzNObG9JYWdrUdIBc0FVX3lxTFBEa3ZWV3liWldKR0pud1BkMUd5UW5GbjVTV2RBNlRBZ3JxY2lwTmExaTJ1aDRCeXZWVlVDT0tRaFpTajJwRFlGUlVLZWpycWtyZHVKTFRnaEFaZTRKOGRfakg2dTRUZGlsZ1BTOU5LT3FUWlk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8f7e4830e209",
       "title": "한미 ‘로수젯·아모프렐’, 심혈관 질환 조기 치료 최적 선택 부각",
       "published": "2026-05-17T13:32:55+00:00",
-      "summary": "한미 ‘로수젯·아모프렐’, 심혈관 질환 조기 치료 최적 선택 부각&nbsp;&nbsp;메드월드뉴스텔미사르탄/S-암로디핀 저용량 병용 3상 임상연구에서 단독요법 대비 우월성 입증&nbsp;&nbsp;메디칼업저버고혈압 ‘저용량 복합제’ 봇물…제약사 선점 경쟁 격화&nbsp;&nbsp;서울경제초기요법부터 병용요법까지 고혈압 치료의 통합적 고찰&nbsp;&nbsp;mostonline.co.kr한미약품, TCTAP 2026서 ‘로수젯·아모프렐’ 임상 전략 공개 … 심혈관질환 조기 개입 중요성 부각&nbsp;&nbsp;헬스오",
+      "summary": "한미 ‘로수젯·아모프렐’, 심혈관 질환 조기 치료 최적 선택 부각&nbsp;&nbsp;메드월드뉴스한미약품 “로수젯·아모프렐, 심혈관 질환 조기 치료 최적 선택 부각”&nbsp;&nbsp;라포르시안텔미사르탄/S-암로디핀 저용량 병용 3상 임상연구에서 단독요법 대비 우월성 입증&nbsp;&nbsp;메디칼업저버고혈압 ‘저용량 복합제’ 봇물…제약사 선점 경쟁 격화&nbsp;&nbsp;서울경제초기요법부터 병용요법까지 고혈압 치료의 통합적 고찰&nbsp;&nbsp;mostonline.co.kr",
       "sources": [
         {
           "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81aFVrWVZfb280TVpQOXZyM051eklUZ0VuVWkwcGtPUzdOV19LZ2FpV2hOd2MzQWsyZllxY1VScjJMOFRQcHJtLWZ6SGs4dXJ2VHNnMHhvSi1zaUJDLUV6bXZnMWpPRmFka0hOeg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0541df56e2dc",
-      "title": "점차 삭제되는 기억…비슷하지만 서로 다른 알츠하이머-혈관성 치매",
-      "published": "2026-05-17T13:23:26+00:00",
-      "summary": "점차 삭제되는 기억…비슷하지만 서로 다른 알츠하이머-혈관성 치매&nbsp;&nbsp;코리아헬스로그“어… 음…” 잦아진 대화 습관…그냥 건망증 아닐 수도 [노화설계]&nbsp;&nbsp;v.daum.net치매와 알츠하이머, 무엇이 같고 어떤 게 다를까&nbsp;&nbsp;스포츠경향[건강정보] 뇌졸중 후 멍하고 느려진 걸음…혈관성 치매?&nbsp;&nbsp;병원신문\"악취도 모르고 지낸다?\"…전문가가 꼽은 치매 초기 신호 10&nbsp;&nbsp;조세일보",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Uc3VUUHgyU0k3bVVHb2VsMGw2UUQ4Wk9IdjExUk1CVjlJVEI0U3V3QWVXZzU5Q2ZSTmtBY1A3ejJBMDUtZTZTWTVtdUFENWI2d0VSZzlzSEc4cUZCTC1YenNkRnRIWk9BdW1ZSFZSMlJKQdIBdkFVX3lxTE5lcFhJajI3WHpXNkdoVGxSMWUxb3pIOGlHRjI3dzFRbGRtV1YyblpMYnBHaTZwQWZkdWdpVHZXQVdrUGdQNnM0UmNYbkhoRi13Zm1xTDVYX0lFOHJyTmJfU1doVmlrbTRiOFRONGVlRUszbVV5dEE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuWVNad3NDWjJfVjlBd2RtcVAtNEZtaDMxTXh3bGpuT1M0N0VxYUxVSlZGMEZZeWdsTkdxaUc2Z2Z6S19vOTdWTnZ6NTZtWFZYVlVsaFZNZmZXaTI0VU5PMFkwUUFNbVJ4UTJPMVpn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -72,7 +293,7 @@
       "id": "86d9f58a8fa9",
       "title": "[신경과학 저널클럽]우울증 치료 열쇠 될 ‘자기자극 원리’",
       "published": "2026-05-17T11:30:00+00:00",
-      "summary": "[신경과학 저널클럽]우울증 치료 열쇠 될 ‘자기자극 원리’&nbsp;&nbsp;경향신문장내 미생물과 우울증, 5년·1만 명 연구가 밝힌 새 치료 가능성&nbsp;&nbsp;브랜드경제신문반려견용 프로바이오틱스, 어떻게 고르지?&nbsp;&nbsp;헬스조선리메드, \"Cell 연구, TMS의 우울증 회로 회복 기전 제시\"…뇌자극 플랫폼 본격 고도화&nbsp;&nbsp;프라임경제우울증, 뇌 특정 세포에서 실마리를 찾다&nbsp;&nbsp;브랜드경제신문",
+      "summary": "[신경과학 저널클럽]우울증 치료 열쇠 될 ‘자기자극 원리’&nbsp;&nbsp;경향신문자기경련치료, 우울증서 ECT 대비 비열등성 확인···인지 부작용은 ↓&nbsp;&nbsp;메디칼업저버우울증, 뇌 특정 세포에서 실마리를 찾다&nbsp;&nbsp;브랜드경제신문우울증 치료 열쇠 될 '자기자극 원리'[신경과학 저널클럽]&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "경향신문",
@@ -82,10 +303,23 @@
       "matched_keywords": []
     },
     {
+      "id": "dec340e5387d",
+      "title": "급하게 뺀 살, 정말로 금세 다시 찔까?",
+      "published": "2026-05-17T09:01:00+00:00",
+      "summary": "급하게 뺀 살, 정말로 금세 다시 찔까?&nbsp;&nbsp;헬스조선급하게 빼면 ‘요요’ 온다?… 임상시험 결과는 정반대[바디플랜]&nbsp;&nbsp;v.daum.net‘요요 ≠ 의지 부족’…“살찐 몸으로 돌아가려는 신호 때문”[바디플랜]&nbsp;&nbsp;동아일보요요는 몸 망가뜨린다? “근거 없어… 진짜 위험한 건 감량 포기”&nbsp;&nbsp;국민일보요요 현상, 감량 후 ‘비정상적 허기’ 때문… 비만 생쥐 실험서 확인&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ud2V2WnlBRFZRQ2trZjBNT1M3SnNoeVRXS0k4dXFxU25kUVhid09NSmF0LUI3bnlBSzNLSkpwamZ4R3R3Y0o4UThHcm1mWmh1ZGxUX1pwWlZaOEhlY1F2RjVvbFpLYzQ2MnpvQnJhOUpoV0RxLUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "3f974c849710",
       "title": "심근경색 겪은 사람, 인지기능 빨리 떨어진다",
       "published": "2026-05-17T07:02:00+00:00",
-      "summary": "심근경색 겪은 사람, 인지기능 빨리 떨어진다&nbsp;&nbsp;헬스조선증상 없이 ‘이 질환’ 겪은 사람, 뇌 건강까지 위험하다고?&nbsp;&nbsp;코메디닷컴\"심장 병력, 뇌 건강에도 치명적\"…심근경색 후 인지장애 위험 커져&nbsp;&nbsp;데일리굿뉴스심근경색 경험자, 기억력 · 인지기능 더 빨리 감소&nbsp;&nbsp;메디칼트리뷴",
+      "summary": "심근경색 겪은 사람, 인지기능 빨리 떨어진다&nbsp;&nbsp;헬스조선\"심근경색 겪었다면 뇌 건강도 위험\"… 발병 후 인지장애 위험 매년 5% 증가&nbsp;&nbsp;하이닥증상 없이 '이 질환' 겪은 사람, 뇌 건강까지 위험하다고?&nbsp;&nbsp;네이트\"심장 병력, 뇌 건강에도 치명적\"…심근경색 후 인지장애 위험 커져&nbsp;&nbsp;데일리굿뉴스심근경색 경험자, 기억력 · 인지기능 더 빨리 감소&nbsp;&nbsp;메디칼트리뷴",
       "sources": [
         {
           "name": "헬스조선",
@@ -147,19 +381,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1fc1a70c3b74",
-      "title": "“아침 안 먹었을 뿐인데…” 1400만명 ‘당뇨병전단계’가 놓치는 첫 끼 경고",
-      "published": "2026-05-16T20:00:00+00:00",
-      "summary": "“아침 안 먹었을 뿐인데…” 1400만명 ‘당뇨병전단계’가 놓치는 첫 끼 경고&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tZmR1VGZUU0dDSGhBdFlzWTN6cUM2Qkdtc3Z0cFJrcXpNeU1zSHNfd2N5a3JtcTJzbEFLVkx4LWY1MEJvdXZITlpBcDZGdFE0VlVXVjZ2bHlTTlVIWHdHcWxaeVZEb21DTkg00gFUQVVfeXFMTjN4eExRang4T0EwLTVjMWI2YkN3VnFTcW11VGhXaUtyeHVJb1hzeDFxTG83VjlEUnN0X0tGalRJLVdseEpTSGdnR0w5WDIyOXBXUzky?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5687dd372caf",
       "title": "마음챙김 요가, PTSD 치료의 새 길",
       "published": "2026-05-16T17:07:07+00:00",
@@ -199,14 +420,14 @@
       "matched_keywords": []
     },
     {
-      "id": "580cda73a171",
+      "id": "e2a99eada7e6",
       "title": "2026년 홀리스틱 건강 트렌드: 카르마 커뮤니티가 제시한 7가지 과학 기반 실천법",
-      "published": "2026-05-16T05:53:31+00:00",
-      "summary": "2026년 홀리스틱 건강 트렌드: 카르마 커뮤니티가 제시한 7가지 과학 기반 실천법&nbsp;&nbsp;브랜드경제신문",
+      "published": "2026-05-16T05:55:32+00:00",
+      "summary": "2026년 홀리스틱 건강 트렌드: 카르마 커뮤니티가 제시한 7가지 과학 기반 실천법&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1veDlpNW84WXhLTndROWNhY3hqVlM4Y3pVSkptNWo3YmZESkRlQjluMUtrMFFiaHBkNjRVUFlXbW5Wd3h6dFVicVdVMlk?oc=5"
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jcDhicWJ1ZV8zY3lIVTZjODVHSGFGUHBXV1lnN0xhMHJpT01CdHBqWkhMcm1uZ2Y5eDZYR3R2RnFwS0RvUE1oOVNiQW8?oc=5"
         }
       ],
       "matched_keywords": []
@@ -215,24 +436,11 @@
       "id": "4a1e49fce5cc",
       "title": "중·저소득 국가에서 비만 증가 빨라…\"개인 의지 문제 아니다\"",
       "published": "2026-05-16T05:30:00+00:00",
-      "summary": "중·저소득 국가에서 비만 증가 빨라…\"개인 의지 문제 아니다\"&nbsp;&nbsp;네이트비만의 양극화…저소득 국가서 비만율 급증&nbsp;&nbsp;v.daum.net한국은 고소득 국가로 가고 있어…전세계 2억3000만명 ‘비만율’ 분석해 보니&nbsp;&nbsp;서울경제뚱뚱한 미국?…살 떨리는 반전&nbsp;&nbsp;아시아경제[건강포커스] \"비만 증가세, 고소득 국가는 둔화·감소…저소득 국가는 급증\"&nbsp;&nbsp;연합뉴스",
+      "summary": "중·저소득 국가에서 비만 증가 빨라…\"개인 의지 문제 아니다\"&nbsp;&nbsp;네이트한국은 고소득 국가로 가고 있어…전세계 2억3000만명 ‘비만율’ 분석해 보니&nbsp;&nbsp;서울경제전 세계적 비만현상&nbsp;&nbsp;브런치뚱뚱한 미국?…살 떨리는 반전&nbsp;&nbsp;아시아경제[건강포커스] \"비만 증가세, 고소득 국가는 둔화·감소…저소득 국가는 급증\"&nbsp;&nbsp;연합뉴스 한민족센터",
       "sources": [
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wa1pURUFVcGdlTGZyMUpoc2hHa2hqNHRiWUJWREtUR0FaMWtZMVk5cjNxNk1mWWJJRzJFRnJTV1o0WHVzM2xHLVJnRlVjYVIyS1Vz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "269d0c1a53a0",
-      "title": "\"젊다고 절대 방심하지 마라\"…'이 나이'부터 근력 확 빠진다는데 [헬시타임]",
-      "published": "2026-05-16T01:25:00+00:00",
-      "summary": "\"젊다고 절대 방심하지 마라\"…'이 나이'부터 근력 확 빠진다는데 [헬시타임]&nbsp;&nbsp;네이트신체능력 감소 연구하니... ’35세' 무렵에 확 꺾이더라&nbsp;&nbsp;조선일보\"어쩐지 예전 같지 않더라\"…몸이 확 늙는 나이 밝혀졌다 [건강!톡]&nbsp;&nbsp;v.daum.net“젊다고 절대 방심하지 마라”…‘이 나이’부터 근력 확 빠진다는데 [헬시타임]&nbsp;&nbsp;서울경제근육 손실은 노인성 질환을 키운다&nbsp;&nbsp;엠디저널",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iRU4yRGZCUXFIWi03Ulg4YS03eGJaMWJEWVFJOG5UT1dDUDIxeEhocTBrSDlQMDhWd3hraEhralEzY0F2YjZuSHlZX3lxNzhKT0NJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -246,19 +454,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZE9uTnJGLVFySWlSbjlFSFJTRG1kNnh3OGdxaFBCMHE4NThOcUJZcXl4aEM1WHJFVllKa0kwRkNMN3Mta2lKdW8ySGNQQVN0ZWsyTVlpcnEyQ29pdUFFMzAxdC1ocHUzbHdna29ELVMwVXQxbkxINVMyX0p6M2txN3ZnaEFrQWVRX0FoNDdMOTNiOW5YUUhz0gGrAUFVX3lxTFBZYmltX3F2SXNhdlU2b18wUnRQb3F4aW5xdDRaVEd2MlFUX3VJdnprQ3BpdVlzcFRNWVpVbGNSdnpCWURrU1RrdGdwRVhpV3A3RVF6Z3N4YnA2U3FCWXJ5bDl0VDF4Z2ZoVHdlV2VjdUQ3ODYwck1QZzMyTTJvNi16OFJhS1U3VVRsU2hoVDlPenhfVE85bkpxZHlWVm9MblNPZDJ4NldVSzNWbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c05690ebf0e9",
-      "title": "신속 검사, 만성 질환 관리에서 환자 자기 역량 강화의 핵심 도구로 부상",
-      "published": "2026-05-15T18:33:38+00:00",
-      "summary": "신속 검사, 만성 질환 관리에서 환자 자기 역량 강화의 핵심 도구로 부상&nbsp;&nbsp;유스연합",
-      "sources": [
-        {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RSkhEaWUtRHNLbm5iUGFFUFZ2OXJObjkwcVY3aXhVeXFIWWlMNktBYkZ2VnVLZUJhTlBqUkdXTXE2QUNaNlBXRWFUcmVpZ0owM0E?oc=5"
         }
       ],
       "matched_keywords": []
