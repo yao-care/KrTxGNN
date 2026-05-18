@@ -1,43 +1,163 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-18T03:59:44.338086+00:00",
-  "total_fetched": 55,
-  "unique_count": 55,
-  "health_related_count": 35,
+  "fetched_at": "2026-05-18T10:11:34.161869+00:00",
+  "total_fetched": 66,
+  "unique_count": 66,
+  "health_related_count": 41,
   "news": [
     {
-      "id": "19d9876e752b",
-      "title": "[반려동물 건강이야기] 반려동물의 호흡이 수상하다...어떤 문제가 숨어있을까? - 헬스경향",
-      "published": "2026-05-18T03:29:42+00:00",
-      "summary": "[반려동물 건강이야기] 반려동물의 호흡이 수상하다...어떤 문제가 숨어있을까?&nbsp;&nbsp;헬스경향",
+      "id": "3034aa062a36",
+      "title": "\"회·육회도 안 되나요?\"…항암 중 피해야 할 5가지 [건강!톡] - 한국경제",
+      "published": "2026-05-18T09:34:01+00:00",
+      "summary": "\"회·육회도 안 되나요?\"…항암 중 피해야 할 5가지 [건강!톡]&nbsp;&nbsp;한국경제Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10WS1iRWJkX2pkM21FMmw2WU9fUlhFaWtpM2M1REdLMzhhNDRZOVBtdmRNZ3NaMFI0ejN3YmtRTmY5elk2YzVXR2o1ZWRwamNYNnNna0xtYjlYX1hXRTR0dzlxRmZEdkdrdXc?oc=5"
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mSGgyOFJLcUFWQjBHMHE0QUU4cXpmM2dfcS00eks2XzBvektjSUIwYld3anpCWDhnTGZscnFDSHRoRjNseUdRbDdUZkd0UVNaZFpXcDNLUTZYQdIBVEFVX3lxTE13SDNwZzRkUWVkWmlJRnRGUUJDLVJ2SjNxUk9VVm9YaFVTVmp5amVQcXZfallWX2x1RGxvYTJFS1NDclNyVEdxdXlia190MVZmSDdHVg?oc=5"
         }
       ]
     },
     {
-      "id": "2347901f18fc",
-      "title": "[메디컬 인사이트 16부] 면역 항암제의 진화와 암 정복을 위한 차세대 병용 요법의 실효성 - 한국공공정책신문",
+      "id": "febc89582b1c",
+      "title": "과민성 대장 증후군 환자 10명 중 4명 ‘불면증’ 동반… “증상 악화·삶의 질 저하 이어져” - 하이닥",
+      "published": "2026-05-18T08:30:00+00:00",
+      "summary": "과민성 대장 증후군 환자 10명 중 4명 ‘불면증’ 동반… “증상 악화·삶의 질 저하 이어져”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40SGdITmRsWXJPUGtJQVFDYk9LX3U2a0VRMzNJWmRpbFZ2WXNsRDhKZnZtODV6RGxQNEYxVm9BdmE0aFhEbU80N0txejRCY3ljaVEwWFhZY1Z3eEJCY0tPdlZlMV9pRmVGV1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f10655f0c84e",
+      "title": "비타민 D 당뇨병 예방효과...유전자형에 따라 달라 - 후생신보",
+      "published": "2026-05-18T08:12:00+00:00",
+      "summary": "비타민 D 당뇨병 예방효과...유전자형에 따라 달라&nbsp;&nbsp;후생신보“햇볕만으론 부족” 비타민D, 하루에 ‘이만큼’ 먹어라&nbsp;&nbsp;헬스조선햇빛만으론 부족하다… 비타민 D 채우는 식탁의 힘&nbsp;&nbsp;미주한국일보“나도 나이 드는구나” 싶을 때… ‘이 영양소’ 잘 먹고 있나 점검&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1TQWlRenhUcGI3WmVJWnlsU0xGWGlLVUo5MGt1YzhpOGlkakVlVkVFdGRNZXpsN1lRWGEzckEzVXRCcEh4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "136874bac89e",
+      "title": "“머릿속 난리 난다” 뇌과학자 추천 ‘가성비 좋은’ 치매 예방법 - 헬스조선",
+      "published": "2026-05-18T07:50:00+00:00",
+      "summary": "“머릿속 난리 난다” 뇌과학자 추천 ‘가성비 좋은’ 치매 예방법&nbsp;&nbsp;헬스조선“어… 음…” 잦아진 대화 습관…그냥 건망증 아닐 수도 [노화설계]&nbsp;&nbsp;v.daum.net기억력 저하는 단순 건망증 아닐 수도&nbsp;&nbsp;기호일보치매와 알츠하이머, 무엇이 같고 어떤 게 다를까&nbsp;&nbsp;스포츠경향[이윤희 박사의 건강칼럼] 알츠하이머 치매! 기억장애 원인의 새로운 발견? 그리고 대안은&nbsp;&nbsp;아웃소싱타임스",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUGs0WFpMamxIcHk0eGppM3d5QzkzRERDOXVncUlUU1RwTDlMZ29vUF9ULUd0eUJUclRjY2REbmxnVFdMUjQ2dHJ6WFM3ck1mU1RBeUNkYVFsOTh2b3BhUTlidklzanFGRmVyaG4xY2lhX2ltRlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ef4629574a40",
+      "title": "한타바이러스 크루즈선, 네덜란드 복귀...선원 등 격리 - YTN",
+      "published": "2026-05-18T07:43:00+00:00",
+      "summary": "한타바이러스 크루즈선, 네덜란드 복귀...선원 등 격리&nbsp;&nbsp;YTN치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상&nbsp;&nbsp;동아사이언스네덜란드 복귀하는 '한타바이러스' 혼디우스 유람선&nbsp;&nbsp;뉴시스한타바이러스 크루즈선 네덜란드 복귀…선원·의료진 격리 남아&nbsp;&nbsp;연합뉴스NETHERLANDS CRUIS SHIP HANTAVIRUS&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tZ0dmTy1LZHUycTB1RkNvNUtnc3pxMFNaZi1JaDlONU5yQWdyUWhZYkM0M0xmSkRiMy16Ul9sa2JtV2l2S3BOd2ZUYy1NeTJfVFMtaGZiVFZQR1JGS3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddc22d3f48ab",
+      "title": "인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어” - 한인포스트",
+      "published": "2026-05-18T07:38:29+00:00",
+      "summary": "인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어”&nbsp;&nbsp;한인포스트레스타리 모에르디자트: 칸타바이러스 확산 예방에 대한 집단 인식을 깨우다q&nbsp;&nbsp;VOI.id인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이DKI 정부는 2026 년에 자카르타에서 4 건의 한타 바이러스 사례를 발견했으며 한 환자는 여전히 의심스럽습니다.&nbsp;&nbsp;VOI.id인도네시아의 한타 바이러스는 얼마나 위험합니까?&nbsp;&nbsp;VOI.id",
+      "sources": [
+        {
+          "name": "한인포스트",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MHlodG5BcTJOangxNldhNXlBOTBBdHpydlp6RHItVnpmczYtTklOWmVOSlpkWGpCZ0I2ZndqSGR5M2U2T2ZZU3l6OGUtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f287bd07419f",
+      "title": "약해진 손아귀, 단순 노화 아냐… ‘이 정신질환’ 신호일 수도 - 헬스조선",
+      "published": "2026-05-18T07:10:00+00:00",
+      "summary": "약해진 손아귀, 단순 노화 아냐… ‘이 정신질환’ 신호일 수도&nbsp;&nbsp;헬스조선철봉 꽉 잡고 매달리기 했더니...악력 세면 건강이 좋은 이유&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5weTFLZjJSM20tUUw5TzVhcnR3cWNuNHhWTjhaYkNacFVfbGpYSkhGUlVSRnlUZDVSblgwN3FLMUxLSGt4NjMyZnBRTnM3SXF2MFZWZm90bXhvc25OM3RlMUphb1JCME1iOTB6TkZZUTNsaTVPVUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a076309dea3",
+      "title": "알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래 - 경향신문",
+      "published": "2026-05-18T06:21:00+00:00",
+      "summary": "알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;경향신문알츠하이머 치매 부르는 ‘베타아밀로이드 응집’··· 은행잎 추출물로 억제 가능성&nbsp;&nbsp;v.daum.net은행잎추출물, 치매 원인물질 억제…뇌 영상으로 첫 입증&nbsp;&nbsp;아시아경제뇌기능개선제 시장 재편…은행잎 추출물, 베타아밀로이드 축적 억제 주목&nbsp;&nbsp;네이트은행잎 추출물, 알츠하이머 유발하는 ‘베타아밀로이드 응집’ 억제한다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RSVdkZnMzVm1QSzB3anBJM3ExWF9iOGZfYkRQTUduX0FMRVBmWXlpS3Y0emVWTTZSQ0ZGTkNoWUU2RGpya0lFYUV2NjBLWFdmQmZmSGVRd3I0Z9IBX0FVX3lxTFBlNXBQNlR1ckxiWEJRSFpwaWtrRXp1cXY3cVU3N09zeXlFZmFETVo1MVBsOTBuem5VeVBaNE52TDZ6Z3RlQlVQb1VaXzNkb3ZaejhRMHZUd0dFaTBrekJj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4acd4e751dc",
+      "title": "급성췌장염 한번 앓고 재발하면 만성 전환 위험 '70배' 급증 - 의협신문",
+      "published": "2026-05-18T06:05:52+00:00",
+      "summary": "급성췌장염 한번 앓고 재발하면 만성 전환 위험 '70배' 급증&nbsp;&nbsp;의협신문[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스급성췌장염 재발하면 만성화 위험 70배&nbsp;&nbsp;메디칼트리뷴재발성 급성췌장염, 만성췌장염 위험 최대 70배 증가&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "의협신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PV2V4MnNKb19vWUg3Ui14RzlGZEdJYXhFRkdwcTBwQm1GSVhOY3E5M0ZNZEpFYmFRaTVNWFhFUEtjQkk5N09YeGZWOVBMUjMyd0UwNlFQQ0o1UjJjQURLOTRkb2M4SzJJOC1reWpOSEx6QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "63f6da469eb8",
+      "title": "“요요 무서워서 살 안 뺀다”는 사람, 꼭 보세요 - 헬스조선",
+      "published": "2026-05-18T05:50:00+00:00",
+      "summary": "“요요 무서워서 살 안 뺀다”는 사람, 꼭 보세요&nbsp;&nbsp;헬스조선급하게 빼면 ‘요요’ 온다?… 임상시험 결과는 정반대[바디플랜]&nbsp;&nbsp;v.daum.net‘요요 ≠ 의지 부족’…“살찐 몸으로 돌아가려는 신호 때문”[바디플랜]&nbsp;&nbsp;동아일보요요는 몸 망가뜨린다? “근거 없어… 진짜 위험한 건 감량 포기”&nbsp;&nbsp;국민일보요요 현상, 감량 후 ‘비정상적 허기’ 때문… 비만 생쥐 실험서 확인&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5ajlKcjZwSkZyRURRSFVwOVZHS1lsdENiQ19hSy04QklBaFZRU19PMzBWYXdtZWhWOERNb1NOcjkwZzFRTlI3SndVTXpsLWwtNkszOUJTdTY4Z09GQWUzcHdRNWtWQkwyNkI1Um1OeWRhU0RCTXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "848213ea6744",
+      "title": "변비에 좋은 ‘이 과일’, 매일 먹었더니 피부 밀도 달라졌다고? - 코메디닷컴",
+      "published": "2026-05-18T05:41:00+00:00",
+      "summary": "변비에 좋은 ‘이 과일’, 매일 먹었더니 피부 밀도 달라졌다고?&nbsp;&nbsp;코메디닷컴제스프리 썬골드키위, 매일 섭취 시 피부 건강 개선 효과 확인… 국제 피부과학 학술지 게재&nbsp;&nbsp;헬스조선“매일 키위 섭취 시 피부 개선”…제스프리, 국제학술지 논문 소개&nbsp;&nbsp;realfoods.co.kr“비타민C, 화장품보다 식단이 중요”…제스프리 썬골드키위, 피부 건강 개선 효과 주목&nbsp;&nbsp;나눔경제뉴스비타민 C 풍부한 썬골드키위, 피부 밀도 개선 효과 확인&nbsp;&nbsp;뉴스탭",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yOE9QbXh5bjIwVjJpZGdhbUhzbXZKZ0NudEp2YjBWS2dzdS1HLXhMQUVnel84dWtlamN4ZGhCUWo2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f36afe822ee",
+      "title": "선크림 말고도… 피부암 막으려면 ‘이것’ 먹어라 - 헬스조선",
+      "published": "2026-05-18T03:50:00+00:00",
+      "summary": "선크림 말고도… 피부암 막으려면 ‘이것’ 먹어라&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xV3RpelQxY2VaX1Zhd0V0OXlFeW1Lem1la3JTYzJQSzItdjRVOGdpcW1peXViUVYwN2JvLWw3RXZsRnBpVldUeFA5NURqSWxfdjQwT0xIN2poZmp4X3R3dExJajIwTjBha0JLd2ppZzdSMGFKeEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19fa526b1cc1",
+      "title": "[메디컬 인사이트 16부] 면역 항암제의 진화와 암 정복을 위한 차세대 병용 요법의 실효성 - 브랜드경제신문",
       "published": "2026-05-18T03:07:38+00:00",
-      "summary": "[메디컬 인사이트 16부] 면역 항암제의 진화와 암 정복을 위한 차세대 병용 요법의 실효성&nbsp;&nbsp;한국공공정책신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "[메디컬 인사이트 16부] 면역 항암제의 진화와 암 정복을 위한 차세대 병용 요법의 실효성&nbsp;&nbsp;브랜드경제신문한 물질로 암세포만 쫓는 차세대 항암 전략&nbsp;&nbsp;v.daum.net정상 세포는 두고 암세포만 '정밀 타격'…간암 치료의 새 길 열다 [언박싱 연구실]&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "한국공공정책신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8zR2JWYTctNmw1U2F2N3EwRUZSSXlyRmdwYm9LdUo4X2tNMlhiM3MzQTdYeUtxOVNrU0FNaXJhTkJubzQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0027b38da202",
-      "title": "재발성 급성췌장염, 만성췌장염 위험 최대 70배 증가 - 메디칼업저버",
-      "published": "2026-05-18T03:07:34+00:00",
-      "summary": "재발성 급성췌장염, 만성췌장염 위험 최대 70배 증가&nbsp;&nbsp;메디칼업저버급성췌장염, 재발 막아야 만성 진행 막는다&nbsp;&nbsp;메드월드뉴스급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vQU44TTdPTWNHSzlXdHI1ZWhMLTdtRm53eUdHVlJELS15alBnYWlGVGFic1BKUzh5TVJYeGMzX0c3YmRtT0RoSzNOZkdhS3JrTEpmYmJsaE9oY29EYjc5RWQzdkpTQ1pQV0hJ?oc=5"
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwNjNEQl8xX3dBNVJYLWVSeVJDYXhsME8tZTVMYkV1YkpkRzZueGU3QWZ4a0x3M1FOOXdzTzJPYURpaGJIaXQtS19nWVA?oc=5"
         }
       ]
     },
@@ -54,18 +174,6 @@
       ]
     },
     {
-      "id": "f0ad2676dd64",
-      "title": "기억력 저하는 단순 건망증 아닐 수도 - 기호일보",
-      "published": "2026-05-18T02:59:00+00:00",
-      "summary": "기억력 저하는 단순 건망증 아닐 수도&nbsp;&nbsp;기호일보“어… 음…” 잦아진 대화 습관…그냥 건망증 아닐 수도 [노화설계]&nbsp;&nbsp;v.daum.net치매와 알츠하이머, 무엇이 같고 어떤 게 다를까&nbsp;&nbsp;스포츠경향\"늙어서 그런 줄 알았는데 아니네요\" 이 신호 파악해야 [김효경의 데일리 헬스]&nbsp;&nbsp;데일리안[이윤희 박사의 건강칼럼] 알츠하이머 치매! 기억장애 원인의 새로운 발견? 그리고 대안은&nbsp;&nbsp;아웃소싱타임스",
-      "sources": [
-        {
-          "name": "기호일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JQmQ2MUtzVUlBdXhieU8wSGpZYnVDY0lNa1V3a0JTOE5UY1pCeTJJckN4QmdqcThDcHhGWW9UamFpLTNYWjc4eDkwM2tLa3Fvdk1JeHpDblF3SGMya3k3TzFxY2hqOF9oczN0cGZCTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9f994d45238b",
       "title": "피부보존 유방전절제술 및 겨드랑이 감시림프절 절제술 환자에서 네오베일 적용의 합병증 예방 효과 - 메디칼업저버",
       "published": "2026-05-18T02:37:02+00:00",
@@ -78,14 +186,14 @@
       ]
     },
     {
-      "id": "ed3b6d5ea518",
-      "title": "양방향 내시경 조기 재수술 위험인자 ‘당뇨’ - 병원신문",
-      "published": "2026-05-18T02:18:18+00:00",
-      "summary": "양방향 내시경 조기 재수술 위험인자 ‘당뇨’&nbsp;&nbsp;병원신문",
+      "id": "03b84efe13c3",
+      "title": "감염병·흡연·마약 예방…“건강은 스스로 지켜요” - 뉴스N제주",
+      "published": "2026-05-18T01:30:31+00:00",
+      "summary": "감염병·흡연·마약 예방…“건강은 스스로 지켜요”&nbsp;&nbsp;뉴스N제주",
       "sources": [
         {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vQUFEWVBJTGNZVTdUNmNWZ0xvMms3MGFzaHg5Ykw1TXBOdm5rVTlBWnNyRzQ4SUFfMllHVkpKQnNfWkJiTUlmbnUwYjdSOWl5VnJxTGtzOUMzc3ZoRGtqMUhWb2toQmFHSlE?oc=5"
+          "name": "뉴스N제주",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zUGE0OGxrdlpkSDFJajVsYjJzQlZ2TC1LTWxqbUZHamRzZ1BvdzVVa2JDSWRYR2dROXNRaC1CdHZRSXJFVktpam9BazdfUl9GWF9yZDMwQVJzR0hKWENqa1RjZlE1NzRwWHBYZA?oc=5"
         }
       ]
     },
@@ -93,7 +201,7 @@
       "id": "754524afcd32",
       "title": "지독한 기침 계속?…천식 여부, '호기산화질소 검사'로 확인 도움 - 보건신문",
       "published": "2026-05-18T01:25:25+00:00",
-      "summary": "지독한 기침 계속?…천식 여부, '호기산화질소 검사'로 확인 도움&nbsp;&nbsp;보건신문감기인 줄 알았는데… 기침 지속되면 ‘천식’ 의심&nbsp;&nbsp;전국도민일보봄철 불청객 '꽃가루와 황사'의 습격, 기침·가래 방치하지 말고 호흡기 건강 지켜야&nbsp;&nbsp;바이오타임즈[ k-한식 디렉터 장윤정 ] 천식 환자의 식탁, 숨 쉬는 삶을 바꿀 수 있을까&nbsp;&nbsp;한국AI부동산신문'아침마당' 천식 의외의 예방법 \"독감 백신 꼭 맞아야\"&nbsp;&nbsp;네이트",
+      "summary": "지독한 기침 계속?…천식 여부, '호기산화질소 검사'로 확인 도움&nbsp;&nbsp;보건신문Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "보건신문",
@@ -117,7 +225,7 @@
       "id": "9c4ac7d9b1df",
       "title": "불면증, 수면장애로 고생한다면, '타트체리'를 주목 - kmjournal.net",
       "published": "2026-05-18T01:10:02+00:00",
-      "summary": "불면증, 수면장애로 고생한다면, '타트체리'를 주목&nbsp;&nbsp;kmjournal.net잠 못 자고 자주 쥐 난다면?… 약사가 알려주는 올바른 마그네슘 복용법&nbsp;&nbsp;하이닥피곤한데 잠이 안 온다?…‘두 가지 성분’ 함께 먹으면 꿀잠&nbsp;&nbsp;동아일보“밤새 ‘통잠’ 자고 싶은데”…‘숙면’ 도움·방해 식습관&nbsp;&nbsp;농민신문“피곤한데 잠은 안 오고 뒤척뒤척”…마그네슘·멜라토닌 ‘꿀잠 시너지’&nbsp;&nbsp;v.daum.net",
+      "summary": "불면증, 수면장애로 고생한다면, '타트체리'를 주목&nbsp;&nbsp;kmjournal.net피곤한데 잠이 안 온다?…‘두 가지 성분’ 함께 먹으면 꿀잠&nbsp;&nbsp;동아일보“밤새 ‘통잠’ 자고 싶은데”…‘숙면’ 도움·방해 식습관&nbsp;&nbsp;농민신문“피곤한데 잠은 안 오고 뒤척뒤척”…마그네슘·멜라토닌 ‘꿀잠 시너지’&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "kmjournal.net",
@@ -126,10 +234,10 @@
       ]
     },
     {
-      "id": "3d8a1c29e757",
-      "title": "설탕 든 음료 대신 물만 마셔도...조금씩 건강하게 체중 줄이는 요령 - 코메디닷컴",
+      "id": "a6148d84cd93",
+      "title": "설탕 든 음료 대신 물만 마셔도…조금씩 건강하게 체중 줄이는 요령 - 코메디닷컴",
       "published": "2026-05-18T01:07:00+00:00",
-      "summary": "설탕 든 음료 대신 물만 마셔도...조금씩 건강하게 체중 줄이는 요령&nbsp;&nbsp;코메디닷컴",
+      "summary": "설탕 든 음료 대신 물만 마셔도…조금씩 건강하게 체중 줄이는 요령&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -153,11 +261,35 @@
       "id": "bb176971110e",
       "title": "한국뇌연구원, 알츠하이머 초기 진행에 따른 뇌 부위별 분자 신호 회로도 규명 - 전자신문",
       "published": "2026-05-18T00:36:05+00:00",
-      "summary": "한국뇌연구원, 알츠하이머 초기 진행에 따른 뇌 부위별 분자 신호 회로도 규명&nbsp;&nbsp;전자신문알츠하이머 '퍼지는 경로' 찾았다…뇌 부위별 분자 회로도 첫 규명[과학을읽다]&nbsp;&nbsp;v.daum.net알츠하이머병 뇌 부위별‘분자 신호 회로도’규명&nbsp;&nbsp;BRIC치매 치료의 패러다임이 바뀐다…“환자 맞춤형 정밀 의학으로 전환될 것” [치매를 말하다 ⑧]&nbsp;&nbsp;하이닥뇌연구원, 알츠하이머 진행 ‘신호 모듈’ 발견…조기진단·치료표적 개발 속도&nbsp;&nbsp;헤럴드경제",
+      "summary": "한국뇌연구원, 알츠하이머 초기 진행에 따른 뇌 부위별 분자 신호 회로도 규명&nbsp;&nbsp;전자신문알츠하이머 '퍼지는 경로' 찾았다…뇌 부위별 분자 회로도 첫 규명[과학을읽다]&nbsp;&nbsp;v.daum.net'알츠하이머' 이렇게 퍼진다…뇌 속 분자 회로도 첫 규명&nbsp;&nbsp;뉴시스알츠하이머병 뇌 부위별‘분자 신호 회로도’규명&nbsp;&nbsp;BRIC뇌연구원, 알츠하이머 진행 ‘신호 모듈’ 발견…조기진단·치료표적 개발 속도&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE82SzRvTzhBYVM1dkVzRnZTNGdwZzRuTDhELWp0SzNsdGg1ZEptVklrak93V0RfRVZHTXoxMld0S0loSk5Ub0laMF94WGl3QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c16b4d8d929b",
+      "title": "“매일의 감사 일기가 명약”…긍정 심리 훈련, 8주 만에 혈압·염증 ‘뚝’ - 매일경제",
+      "published": "2026-05-18T00:31:41+00:00",
+      "summary": "“매일의 감사 일기가 명약”…긍정 심리 훈련, 8주 만에 혈압·염증 ‘뚝’&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKcDBJZHNwUmNaYVV6bTNQY0RyUnA5elBxVHg4Q2hYZFhzdU9vWmdKVWUxaldxdzN4M05tTFJUX2REWFMxbjZYdV9SSE9RUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acfcdcf08280",
+      "title": "면역저하자에서 생기는 희귀암 ′카포시 육종′, 정상인에서 발생 원인 밝혀져 - 메디컬투데이",
+      "published": "2026-05-18T00:02:37+00:00",
+      "summary": "면역저하자에서 생기는 희귀암 ′카포시 육종′, 정상인에서 발생 원인 밝혀져&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QRk9QaG9PN2tpRXVwdTlFYV9rYkl5cUFwN2JWaXZndlJQTG56UktSbGRONlRDbTJXZVpoMmctRmpQOEdOVlk0d0Q0QTlDbTdmQ1FjdFd6MjJwZDdi0gFsQVVfeXFMTTM0WThXUkVxNEhHaDV1Rmg3V3o2UlZvWUdBd2FudUhWX18xNmlKaVFidGQyUWJNOXI4NWlqOGRSdDJHVG1kY1RLVUJIWjZwdy1jWk9Dd0JXSzY0NWQ0QlpvaV9lSWRDMTR5ZUJP?oc=5"
         }
       ]
     },
@@ -186,18 +318,6 @@
       ]
     },
     {
-      "id": "4d0d53682c07",
-      "title": "치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상 - 동아사이언스",
-      "published": "2026-05-17T22:00:00+00:00",
-      "summary": "치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상&nbsp;&nbsp;동아사이언스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42QTVENkw5N2xFbkF5T01qSXZOVW9rRjVkbTdvLW5SWTZ1d2ZvNllBYW1aQ2dNbnBWaXFUcUV4UnVSd2VYVEdHcklxaVhCQkZPajJBag?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c075f45c60b8",
       "title": "콘택트렌즈로 우울증 치료한다 - 동아사이언스",
       "published": "2026-05-17T22:00:00+00:00",
@@ -218,6 +338,18 @@
         {
           "name": "헬스경향",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53WHU1OUMyNXNLSm5ROG93STZTeWxfWHU0X3hHMjJOLXM3UjF2czdIYmh5R01FNXdmMVdvdXhfdmVmU28tTks4YjRXYnU0aV9ZWjl4LXAtUXlxVDZIbEhKbXlpZ3lsbkZMbGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6edcb742b6de",
+      "title": "뇌 영양제 믿다 치매 골든타임 놓친다…\"조기진단과 근거 기반 치료 필요\" - 네이트",
+      "published": "2026-05-17T21:20:00+00:00",
+      "summary": "뇌 영양제 믿다 치매 골든타임 놓친다…\"조기진단과 근거 기반 치료 필요\"&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GWjJKWFlwYzJoRGFNdlFrYnhybFR6bzdxSFF4UnRkRFc5Sm1oUVI4SmdGWlVzZEE2T28xaVFWM3ZEX1FUcS0xblVMQ19hSkdUMktj?oc=5"
         }
       ]
     },
@@ -261,7 +393,7 @@
       "id": "8f7e4830e209",
       "title": "한미 ‘로수젯·아모프렐’, 심혈관 질환 조기 치료 최적 선택 부각 - 메드월드뉴스",
       "published": "2026-05-17T13:32:55+00:00",
-      "summary": "한미 ‘로수젯·아모프렐’, 심혈관 질환 조기 치료 최적 선택 부각&nbsp;&nbsp;메드월드뉴스한미약품 “로수젯·아모프렐, 심혈관 질환 조기 치료 최적 선택 부각”&nbsp;&nbsp;라포르시안텔미사르탄/S-암로디핀 저용량 병용 3상 임상연구에서 단독요법 대비 우월성 입증&nbsp;&nbsp;메디칼업저버고혈압 ‘저용량 복합제’ 봇물…제약사 선점 경쟁 격화&nbsp;&nbsp;서울경제초기요법부터 병용요법까지 고혈압 치료의 통합적 고찰&nbsp;&nbsp;mostonline.co.kr",
+      "summary": "한미 ‘로수젯·아모프렐’, 심혈관 질환 조기 치료 최적 선택 부각&nbsp;&nbsp;메드월드뉴스텔미사르탄/S-암로디핀 저용량 병용 3상 임상연구에서 단독요법 대비 우월성 입증&nbsp;&nbsp;메디칼업저버고혈압 ‘저용량 복합제’ 봇물…제약사 선점 경쟁 격화&nbsp;&nbsp;서울경제초기요법부터 병용요법까지 고혈압 치료의 통합적 고찰&nbsp;&nbsp;mostonline.co.kr한미약품, TCTAP 2026서 ‘로수젯·아모프렐’ 임상 전략 공개 … 심혈관질환 조기 개입 중요성 부각&nbsp;&nbsp;헬스오",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -282,30 +414,6 @@
       ]
     },
     {
-      "id": "dec340e5387d",
-      "title": "급하게 뺀 살, 정말로 금세 다시 찔까? - 헬스조선",
-      "published": "2026-05-17T09:01:00+00:00",
-      "summary": "급하게 뺀 살, 정말로 금세 다시 찔까?&nbsp;&nbsp;헬스조선급하게 빼면 ‘요요’ 온다?… 임상시험 결과는 정반대[바디플랜]&nbsp;&nbsp;v.daum.net‘요요 ≠ 의지 부족’…“살찐 몸으로 돌아가려는 신호 때문”[바디플랜]&nbsp;&nbsp;동아일보요요는 몸 망가뜨린다? “근거 없어… 진짜 위험한 건 감량 포기”&nbsp;&nbsp;국민일보요요 현상, 감량 후 ‘비정상적 허기’ 때문… 비만 생쥐 실험서 확인&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ud2V2WnlBRFZRQ2trZjBNT1M3SnNoeVRXS0k4dXFxU25kUVhid09NSmF0LUI3bnlBSzNLSkpwamZ4R3R3Y0o4UThHcm1mWmh1ZGxUX1pwWlZaOEhlY1F2RjVvbFpLYzQ2MnpvQnJhOUpoV0RxLUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f974c849710",
-      "title": "심근경색 겪은 사람, 인지기능 빨리 떨어진다 - 헬스조선",
-      "published": "2026-05-17T07:02:00+00:00",
-      "summary": "심근경색 겪은 사람, 인지기능 빨리 떨어진다&nbsp;&nbsp;헬스조선\"심근경색 겪었다면 뇌 건강도 위험\"… 발병 후 인지장애 위험 매년 5% 증가&nbsp;&nbsp;하이닥증상 없이 '이 질환' 겪은 사람, 뇌 건강까지 위험하다고?&nbsp;&nbsp;네이트\"심장 병력, 뇌 건강에도 치명적\"…심근경색 후 인지장애 위험 커져&nbsp;&nbsp;데일리굿뉴스심근경색 경험자, 기억력 · 인지기능 더 빨리 감소&nbsp;&nbsp;메디칼트리뷴",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VMTJjNkZ1dk1PMzBJNXU0cHJBSzFPcUNpaVE4TkU2NW92NW9PSWh1MVJCZjFIVHprVDhybXZ2cEFhdFRrSjZ6NXBlVDE2NDdmcGdHbk5Gb0xvdllhbkUzWlIzNFhWajc3Mi1kRGl3NXRKZGNHanc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d29fa09175c4",
       "title": "머릿속 안개 같은 멍함, 알고 보니 장 건강이 보내는 신호일 수 있습니다 - 캐어유 뉴스",
       "published": "2026-05-17T07:00:00+00:00",
@@ -314,18 +422,6 @@
         {
           "name": "캐어유 뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fZEtPRlVKRjlVV1RsMXNucTNOQzZFbUxQR1VYWWFtOVk1N1FodGhEUm5jOHZBeWhiZWMyMzY0M01oR0duQnNyNE9uRXEzdUlVRlZVb3VHV2ZOdENUajBHcERQb0ZaWmg0R2w3cA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab29275a4289",
-      "title": "나이 들어 당뇨병 안 걸리려면… ‘이 영양소’ 잘 먹어라 - 헬스조선",
-      "published": "2026-05-17T04:01:00+00:00",
-      "summary": "나이 들어 당뇨병 안 걸리려면… ‘이 영양소’ 잘 먹어라&nbsp;&nbsp;헬스조선햇빛만으론 부족하다… 비타민 D 채우는 식탁의 힘&nbsp;&nbsp;미주한국일보“햇볕만으론 부족” 비타민D, 하루에 ‘이만큼’ 먹어라&nbsp;&nbsp;헬스조선“나도 나이 드는구나” 싶을 때… ‘이 영양소’ 잘 먹고 있나 점검&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91TFR6QnhGVW9Hd3RCZUR4amZNWExyX21JVkdqNHlKaE1MaUt0ZnQtVTh0dnJaeFB5TlIxM3lPTnljemFBa3p5bWlVVFpEeGZCV0RYaFg4N3lxYWI4N2h1ejhWejd4SzIwNmRvTzN0VzNKQUtyYXc?oc=5"
         }
       ]
     },
@@ -342,10 +438,22 @@
       ]
     },
     {
+      "id": "08e4400e03c8",
+      "title": "\"37년 간 속았다\"...NASA發 관엽식물 공기정화 효과 - 지디넷코리아",
+      "published": "2026-05-17T00:44:35+00:00",
+      "summary": "\"37년 간 속았다\"...NASA發 관엽식물 공기정화 효과&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GQks0SFpFWTlrampIeFNnMEZTdDQ3X0xKQl9KVl9YSFJkZnMxekNZangzUnRtYWdxRWJpVUVSTkZUQWNqX05EY3JQQ2V6cHc1MzlKcVZn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5301df05e312",
       "title": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다 - 하이닥",
       "published": "2026-05-16T21:30:00+00:00",
-      "summary": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다&nbsp;&nbsp;하이닥세계 연구진 14년 노력… 이름 바뀐 다낭성난소증후군&nbsp;&nbsp;천지일보전세계 여성 8명 중 1명 앓는 '이 질환' 명칭 바뀐다&nbsp;&nbsp;네이트",
+      "summary": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다&nbsp;&nbsp;하이닥세계 연구진 14년 노력… 이름 바뀐 다낭성난소증후군&nbsp;&nbsp;천지일보",
       "sources": [
         {
           "name": "하이닥",
@@ -374,42 +482,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iX1dsQVdQanlSa1dFcUdGeWVIaGFfeTNwYmM3REV0c0RCX29fbkM0RUJtdm9LNnF6RkxpZm5hY2dMMU83TVJsMV93ZGlEM1VMRXFhUEJDMDRHQ0tzMXl1VW56WENoUThWZi1SdlJlWERVWjR3a1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd8eae0ea18e",
-      "title": "택시 운전사들은 치매 사망률 낮다… 왜? - 헬스조선",
-      "published": "2026-05-16T11:02:00+00:00",
-      "summary": "택시 운전사들은 치매 사망률 낮다… 왜?&nbsp;&nbsp;헬스조선“뇌 기능도 근육처럼 키운다”… 하루 10분 훈련에 사고력 11.6%↑&nbsp;&nbsp;하이닥“늙으면 뇌 기능 떨어진다” 뒤집은 연구…70대도 좋아졌다 [노화설계]&nbsp;&nbsp;동아일보“나이 들면 머리 굳는다?”…'이것' 하면 인지 기능 높아진다&nbsp;&nbsp;코메디닷컴길 찾아 헤맬수록 뇌는 젊어진다?…노화 늦추는 뜻밖의 습관&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnLTFXbUYtMlE4OE1LUS1GU2NSTmpMS3NtdzcxLUZxVlc4MlE3U01zazg2VXVwcFNmc1FqdzdRSUttUE1HNC1rQVBSVWNiUFUzZnFIU3ZPaG1GTXRveVNyTTRzZ1JPdzd0TFBqZXU0dlpBZ0k3cVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2a99eada7e6",
-      "title": "2026년 홀리스틱 건강 트렌드: 카르마 커뮤니티가 제시한 7가지 과학 기반 실천법 - 한국AI부동산신문",
-      "published": "2026-05-16T05:55:32+00:00",
-      "summary": "2026년 홀리스틱 건강 트렌드: 카르마 커뮤니티가 제시한 7가지 과학 기반 실천법&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jcDhicWJ1ZV8zY3lIVTZjODVHSGFGUHBXV1lnN0xhMHJpT01CdHBqWkhMcm1uZ2Y5eDZYR3R2RnFwS0RvUE1oOVNiQW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a1e49fce5cc",
-      "title": "중·저소득 국가에서 비만 증가 빨라…\"개인 의지 문제 아니다\" - 네이트",
-      "published": "2026-05-16T05:30:00+00:00",
-      "summary": "중·저소득 국가에서 비만 증가 빨라…\"개인 의지 문제 아니다\"&nbsp;&nbsp;네이트한국은 고소득 국가로 가고 있어…전세계 2억3000만명 ‘비만율’ 분석해 보니&nbsp;&nbsp;서울경제전 세계적 비만현상&nbsp;&nbsp;브런치뚱뚱한 미국?…살 떨리는 반전&nbsp;&nbsp;아시아경제[건강포커스] \"비만 증가세, 고소득 국가는 둔화·감소…저소득 국가는 급증\"&nbsp;&nbsp;연합뉴스 한민족센터",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wa1pURUFVcGdlTGZyMUpoc2hHa2hqNHRiWUJWREtUR0FaMWtZMVk5cjNxNk1mWWJJRzJFRnJTV1o0WHVzM2xHLVJnRlVjYVIyS1Vz?oc=5"
         }
       ]
     },
