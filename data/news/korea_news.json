@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-18T15:39:33.154431+00:00",
-  "total_fetched": 67,
-  "unique_count": 67,
-  "health_related_count": 39,
+  "fetched_at": "2026-05-18T19:47:45.700678+00:00",
+  "total_fetched": 64,
+  "unique_count": 64,
+  "health_related_count": 38,
   "news": [
     {
       "id": "0348903d0357",
@@ -18,10 +18,22 @@
       ]
     },
     {
+      "id": "a101ed535927",
+      "title": "카이저 병원서 레지오넬라균 감염 19건 확인 - 라디오코리아 모바일",
+      "published": "2026-05-18T14:20:00+00:00",
+      "summary": "카이저 병원서 레지오넬라균 감염 19건 확인&nbsp;&nbsp;라디오코리아 모바일",
+      "sources": [
+        {
+          "name": "라디오코리아 모바일",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MSUZZYjdCeWFXX0p3cS00OHhZdi1INkFhV290RlYwaDRqc2lIdWw2STUwZmlVaW9YVEFTNkx5NHVTUENsRkJwZkRCTGtDVG4tT0Foa3E3Q0NubHNheUVUXzZoSVI?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e88ddaa1a8e1",
       "title": "'은행잎 추출물' 베타아밀로이드 억제...\"뇌 영상으로 최초 확인\" - 매경헬스",
       "published": "2026-05-18T12:13:29+00:00",
-      "summary": "'은행잎 추출물' 베타아밀로이드 억제...\"뇌 영상으로 최초 확인\"&nbsp;&nbsp;매경헬스알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;v.daum.net은행잎 추출물, 알츠하이머 유발하는 ‘베타아밀로이드 응집’ 억제한다&nbsp;&nbsp;헬스조선[현장]\"치매 늦출 수 있다?\"…'은행잎 추출물'서 찾은 치료 가능성&nbsp;&nbsp;데일리안은행잎 추출물, 알츠하이머 예방 치료 가능성 PET로 첫 입증&nbsp;&nbsp;국민일보",
+      "summary": "'은행잎 추출물' 베타아밀로이드 억제...\"뇌 영상으로 최초 확인\"&nbsp;&nbsp;매경헬스알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;v.daum.net은행잎 추출물, 알츠하이머 유발하는 ‘베타아밀로이드 응집’ 억제한다&nbsp;&nbsp;헬스조선은행잎 추출물, 알츠하이머 예방 치료 가능성 PET로 첫 입증&nbsp;&nbsp;국민일보뇌기능개선제 시장 재편…은행잎 추출물, 베타아밀로이드 축적 억제 주목&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "매경헬스",
@@ -33,7 +45,7 @@
       "id": "0d4500d37b0b",
       "title": "한타바이러스 크루즈 네덜란드 복귀…선원·의료진 격리(종합) - 연합뉴스",
       "published": "2026-05-18T11:03:01+00:00",
-      "summary": "한타바이러스 크루즈 네덜란드 복귀…선원·의료진 격리(종합)&nbsp;&nbsp;연합뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "한타바이러스 크루즈 네덜란드 복귀…선원·의료진 격리(종합)&nbsp;&nbsp;연합뉴스네덜란드 복귀하는 '한타바이러스' 혼디우스 유람선&nbsp;&nbsp;뉴시스치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상&nbsp;&nbsp;동아사이언스NETHERLANDS CRUIS SHIP HANTAVIRUS&nbsp;&nbsp;네이트크루즈선 캐나다인, 한타바이러스 잠정 양성&nbsp;&nbsp;KBS 뉴스",
       "sources": [
         {
           "name": "연합뉴스",
@@ -45,7 +57,7 @@
       "id": "8bccaac78255",
       "title": "연세대, 우울증 치료하는 ‘콘택트렌즈’ 개발… “항우울제 수준 효과 입증” - 하이닥",
       "published": "2026-05-18T10:30:00+00:00",
-      "summary": "연세대, 우울증 치료하는 ‘콘택트렌즈’ 개발… “항우울제 수준 효과 입증”&nbsp;&nbsp;하이닥특수 콘택트렌즈로 우울증 고친다…연세대 연구진 쥐 실험서 '효과'&nbsp;&nbsp;뉴시스콘택트렌즈로 우울증 치료한다&nbsp;&nbsp;동아사이언스눈으로 우울증 치료… ‘뇌 자극 콘택트렌즈’ 생쥐 실험서 효과 - 조선비즈&nbsp;&nbsp;Chosunbiz눈은 ‘마음의 창’이 맞았다…우울증 낫게하는 콘택트렌즈 등장&nbsp;&nbsp;v.daum.net",
+      "summary": "연세대, 우울증 치료하는 ‘콘택트렌즈’ 개발… “항우울제 수준 효과 입증”&nbsp;&nbsp;하이닥콘택트렌즈로 우울증 치료한다&nbsp;&nbsp;동아사이언스특수 콘택트렌즈로 우울증 고친다…연세대 연구진 쥐 실험서 '효과'&nbsp;&nbsp;뉴시스눈으로 우울증 치료… ‘뇌 자극 콘택트렌즈’ 생쥐 실험서 효과 - 조선비즈&nbsp;&nbsp;Chosunbiz눈은 ‘마음의 창’이 맞았다…우울증 낫게하는 콘택트렌즈 등장&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "하이닥",
@@ -74,18 +86,6 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1TQWlRenhUcGI3WmVJWnlsU0xGWGlLVUo5MGt1YzhpOGlkakVlVkVFdGRNZXpsN1lRWGEzckEzVXRCcEh4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "136874bac89e",
-      "title": "“머릿속 난리 난다” 뇌과학자 추천 ‘가성비 좋은’ 치매 예방법 - 헬스조선",
-      "published": "2026-05-18T07:50:00+00:00",
-      "summary": "“머릿속 난리 난다” 뇌과학자 추천 ‘가성비 좋은’ 치매 예방법&nbsp;&nbsp;헬스조선“어… 음…” 잦아진 대화 습관…그냥 건망증 아닐 수도 [노화설계]&nbsp;&nbsp;v.daum.net기억력 저하는 단순 건망증 아닐 수도&nbsp;&nbsp;기호일보치매와 알츠하이머, 무엇이 같고 어떤 게 다를까&nbsp;&nbsp;스포츠경향[이윤희 박사의 건강칼럼] 알츠하이머 치매! 기억장애 원인의 새로운 발견? 그리고 대안은&nbsp;&nbsp;아웃소싱타임스",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NUGs0WFpMamxIcHk0eGppM3d5QzkzRERDOXVncUlUU1RwTDlMZ29vUF9ULUd0eUJUclRjY2REbmxnVFdMUjQ2dHJ6WFM3ck1mU1RBeUNkYVFsOTh2b3BhUTlidklzanFGRmVyaG4xY2lhX2ltRlE?oc=5"
         }
       ]
     },
@@ -150,18 +150,6 @@
       ]
     },
     {
-      "id": "848213ea6744",
-      "title": "변비에 좋은 ‘이 과일’, 매일 먹었더니 피부 밀도 달라졌다고? - 코메디닷컴",
-      "published": "2026-05-18T05:41:00+00:00",
-      "summary": "변비에 좋은 ‘이 과일’, 매일 먹었더니 피부 밀도 달라졌다고?&nbsp;&nbsp;코메디닷컴제스프리 썬골드키위, 매일 섭취 시 피부 건강 개선 효과 확인… 국제 피부과학 학술지 게재&nbsp;&nbsp;헬스조선변비에 좋은 '이 과일', 매일 먹었더니 피부 밀도 달라졌다고?&nbsp;&nbsp;네이트제스프리 썬골드키위 연구 결과 발표…“비타민C 섭취 후 피부 밀도 개선 확인”&nbsp;&nbsp;로이슈“매일 키위 한 알, 피부 밀도·재생 개선에 탁월”&nbsp;&nbsp;농축유통신문",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yOE9QbXh5bjIwVjJpZGdhbUhzbXZKZ0NudEp2YjBWS2dzdS1HLXhMQUVnel84dWtlamN4ZGhCUWo2dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1f36afe822ee",
       "title": "선크림 말고도… 피부암 막으려면 ‘이것’ 먹어라 - 헬스조선",
       "published": "2026-05-18T03:50:00+00:00",
@@ -206,6 +194,18 @@
         {
           "name": "용인시민신문",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CUU9lZEpBSFhSdzFIXzZQTWdsZUZITG9XVnRXb2xieDRwcmQ2dXBfNEZ0dmEyazkwVDJLU20zWWZrcXpFVHZ0TXVIa3VCRncxcWVRYUNkcGJXZGZmZUJ3VEFyTUV0WnJfVHJaQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0ad2676dd64",
+      "title": "기억력 저하는 단순 건망증 아닐 수도 - 기호일보",
+      "published": "2026-05-18T02:59:00+00:00",
+      "summary": "기억력 저하는 단순 건망증 아닐 수도&nbsp;&nbsp;기호일보“어… 음…” 잦아진 대화 습관…그냥 건망증 아닐 수도 [노화설계]&nbsp;&nbsp;v.daum.net“머릿속 난리 난다” 뇌과학자 추천 ‘가성비 좋은’ 치매 예방법&nbsp;&nbsp;헬스조선치매와 알츠하이머, 무엇이 같고 어떤 게 다를까&nbsp;&nbsp;스포츠경향[이윤희 박사의 건강칼럼] 알츠하이머 치매! 기억장애 원인의 새로운 발견? 그리고 대안은&nbsp;&nbsp;아웃소싱타임스",
+      "sources": [
+        {
+          "name": "기호일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JQmQ2MUtzVUlBdXhieU8wSGpZYnVDY0lNa1V3a0JTOE5UY1pCeTJJckN4QmdqcThDcHhGWW9UamFpLTNYWjc4eDkwM2tLa3Fvdk1JeHpDblF3SGMya3k3TzFxY2hqOF9oczN0cGZCTQ?oc=5"
         }
       ]
     },
@@ -438,26 +438,14 @@
       ]
     },
     {
-      "id": "5301df05e312",
-      "title": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다 - 하이닥",
-      "published": "2026-05-16T21:30:00+00:00",
-      "summary": "여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다&nbsp;&nbsp;하이닥세계 연구진 14년 노력… 이름 바뀐 다낭성난소증후군&nbsp;&nbsp;천지일보전세계 여성 8명 중 1명 앓는 ‘이 질환’ 명칭 바뀐다&nbsp;&nbsp;코메디닷컴",
+      "id": "0bb63528e0d7",
+      "title": "세계 연구진 14년 노력… 이름 바뀐 다낭성난소증후군 - 천지일보",
+      "published": "2026-05-17T00:23:28+00:00",
+      "summary": "세계 연구진 14년 노력… 이름 바뀐 다낭성난소증후군&nbsp;&nbsp;천지일보여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다&nbsp;&nbsp;하이닥전세계 여성 8명 중 1명 앓는 ‘이 질환’ 명칭 바뀐다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kR25Wd2NRUGFyZzZ0RFJNNER6eHJ5M3VQem04SFYyTVlENWxsbGZ3Q0hpNV9DblJVME1Kd0h4SENRQ0NfLXFnczI0b3U5YjRxNVZld0s1WDlMLXNsak1UVWNxSG1nNmtLSmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5687dd372caf",
-      "title": "마음챙김 요가, PTSD 치료의 새 길 - 한국AI부동산신문",
-      "published": "2026-05-16T17:07:07+00:00",
-      "summary": "마음챙김 요가, PTSD 치료의 새 길&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKR2FpYU1WNGpaWFBTZUxhYWwxcnlmOWZMM1Mzc3pHcVRyeDhhM2Jpb1JrWVRuZ1lFYWdxNEZocEx3T0dESzZiUmkxYlc?oc=5"
+          "name": "천지일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kd2dUbnF0bklMZG5SU182ZzBnSjVIdTdPeFBsbWJISkdOck5IT3NTeXV4eDBYWk80cGhtSmlJNEpCY0M4UjdiZWR0Z3FxdVZLU01kMDdUMlJqUHZTOU9zTlZraGQxbE15ZVE?oc=5"
         }
       ]
     },
