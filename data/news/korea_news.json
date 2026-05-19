@@ -1,31 +1,43 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-19T09:52:13.122034+00:00",
-  "total_fetched": 74,
-  "unique_count": 74,
-  "health_related_count": 48,
+  "fetched_at": "2026-05-19T15:31:38.027203+00:00",
+  "total_fetched": 71,
+  "unique_count": 71,
+  "health_related_count": 42,
   "news": [
     {
-      "id": "3a8d9203abf4",
-      "title": "“우리 부모님은 괜찮나”…‘치매’ 위험 높이는 두가지 패턴 - 농민신문",
-      "published": "2026-05-19T06:40:00+00:00",
-      "summary": "“우리 부모님은 괜찮나”…‘치매’ 위험 높이는 두가지 패턴&nbsp;&nbsp;농민신문[건강포커스] \"낮 시간 활동 감소·수면 불규칙할수록 치매 위험 증가\"&nbsp;&nbsp;v.daum.net자다가 팔다리 허우적 파킨슨병 징후 환자들, 체수분 비율이 달랐다&nbsp;&nbsp;경향신문낮 활동 줄고 수면 불규칙한 노인, 치매 위험 높아&nbsp;&nbsp;경기신문수면장애, 치매·파킨슨병 위험 높인다&nbsp;&nbsp;시사저널",
+      "id": "d74dd2db6b61",
+      "title": "임신 중 독감 감염… 자녀 '궤양성 대장염' 위험 33% 높인다 - 하이닥",
+      "published": "2026-05-19T13:00:00+00:00",
+      "summary": "임신 중 독감 감염… 자녀 '궤양성 대장염' 위험 33% 높인다&nbsp;&nbsp;하이닥임신 중 독감, 아이 ‘궤양성 대장염’ 위험 높여&nbsp;&nbsp;v.daum.net임신중 인플루엔자 감염 \"소아 염증성 장질환 위험 증가\"&nbsp;&nbsp;약사공론산모 독감이 자녀 '장 건강' 위협한다… 빅데이터가 찾아낸 뜻밖의 연결고리 [언박싱 연구실]&nbsp;&nbsp;파이낸셜뉴스경희대 의대 연동건 교수 연구팀, 임신중 독감-소아 장질환 연관성 규명&nbsp;&nbsp;미주중앙일보",
       "sources": [
         {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsaXNTRkpiX1VqMFluUTBvTDJLSTZuZE52R2E1NVZ3dGlHQ0w3WFZuSHo2QjZwOU5QNC1TUE5DZ2JfQTNXN0pta29Sazg4bGdNMkhNcEV6a1VrQQ?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FN3V6UWJkX09TWTI5cjRPYTl4dlE3dXF5VFl6VHZiVWw2dWZPUWd4MlhQbnJfNDZXWnd2T1JCckp4MFNVemJQQzVxb05lM2I4R3UwbmpzSzZ2X24yaDhmWks3dTFMY2pFUEE?oc=5"
         }
       ]
     },
     {
-      "id": "f826b4cd40bf",
-      "title": "에볼라·한타바이러스 동시 확산 위기…범용 치료제 대안 부상 - BBS불교방송",
-      "published": "2026-05-19T06:30:00+00:00",
-      "summary": "에볼라·한타바이러스 동시 확산 위기…범용 치료제 대안 부상&nbsp;&nbsp;BBS불교방송현대바이오 \"에볼라·한타 확산시 항바이러스제 공급 가능\"&nbsp;&nbsp;연합뉴스현대바이오 “WHO 요청 시 즉시 공급”…항바이러스제 제프티, 에볼라 대응 카드 부상&nbsp;&nbsp;한국경제현대바이오, 에볼라·한타바이러스 동시 확산에 \"제프티 임상약 즉시 공급\"&nbsp;&nbsp;네이트\"노로·한타 이어 '디지즈 X'까지\"…범용 항바이러스 플랫폼 주목&nbsp;&nbsp;매경헬스",
+      "id": "d56d92f5b21a",
+      "title": "“피부만 스쳐도 고통, 하혈도”… 한타바이러스 생존자의 증언 - 헬스조선",
+      "published": "2026-05-19T07:20:00+00:00",
+      "summary": "“피부만 스쳐도 고통, 하혈도”… 한타바이러스 생존자의 증언&nbsp;&nbsp;헬스조선미국 콜로라도에서 한타 바이러스 확진자 숨져...크루즈 선 감염과 무관&nbsp;&nbsp;YTN 사이언스치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상&nbsp;&nbsp;동아사이언스네덜란드 복귀하는 '한타바이러스' 혼디우스 유람선&nbsp;&nbsp;뉴시스한타바이러스 크루즈선 네덜란드 복귀…선원·의료진 격리(종합)&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
-          "name": "BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85WTlmNEpEb1NHckFCU3BYRVkxaTFheEZlMjNiQmcxc1diNnJMeXdHTmEycHY0emdlUmkwWndWV1otM1ZBcmFmbHNWMUZWT1FkTEZiNDZmeUFCeFkxWUJackE2WmJTTHNWWWVv?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52YUNFcFNzZFpYOTA2cHlFaHlZY3RxYURTeVg5bU5OVHhJZnl2cjRXWHBHQ0VoaUpsbl9GZHEyWFNPenNwZXR6VzFUUmRyNURqcHRNNm0zaWJ3YVh5RlExZDVyNmozbjhQY1lZUzNaRlAyTElia3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a8d9203abf4",
+      "title": "“우리 부모님은 괜찮나”…‘치매’ 위험 높이는 두가지 패턴 - 농민신문",
+      "published": "2026-05-19T06:40:00+00:00",
+      "summary": "“우리 부모님은 괜찮나”…‘치매’ 위험 높이는 두가지 패턴&nbsp;&nbsp;농민신문[건강포커스] \"낮 시간 활동 감소·수면 불규칙할수록 치매 위험 증가\"&nbsp;&nbsp;v.daum.net몽유병 등 수면장애, 치매·파킨슨병 위험 32% 높아&nbsp;&nbsp;문화투데이“수면·활동 리듬 무너지면 치매 위험 증가”…웨어러블 데이터로 조기 예측 가능성 확인&nbsp;&nbsp;진주인터넷뉴스자다가 팔다리 허우적 파킨슨병 징후 환자들, 체수분 비율이 달랐다&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsaXNTRkpiX1VqMFluUTBvTDJLSTZuZE52R2E1NVZ3dGlHQ0w3WFZuSHo2QjZwOU5QNC1TUE5DZ2JfQTNXN0pta29Sazg4bGdNMkhNcEV6a1VrQQ?oc=5"
         }
       ]
     },
@@ -38,6 +50,18 @@
         {
           "name": "뉴스H",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02YUxQd296SDNQbDE3OGJJcXpDVGpkRl9PbUlaelNBYUdwdHpiN0xiVnM1dFVlSTlfRk5jUHc5QnlTYU93bEY3bERPZ2w4UGpUdjl4OHZhMHdHNXhyYUFKS0ZtTlJodTBYLUZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9e888e3b9e9",
+      "title": "고려대, ‘한타바이러스 국산 mRNA 백신’ 개발 총괄 - 간호사신문",
+      "published": "2026-05-19T05:43:04+00:00",
+      "summary": "고려대, ‘한타바이러스 국산 mRNA 백신’ 개발 총괄&nbsp;&nbsp;간호사신문타이완까지 번진 한타바이러스…아이진, 정부 mRNA 백신 단독 개발 파트너 낙점&nbsp;&nbsp;리드경제고려대의대 백신혁신센터, 차세대 한타바이러스 백신 개발 도전&nbsp;&nbsp;v.daum.net독보적 mRNA 저력 빛났다…아이진, 차세대 백신 기술로 바이오 주권 강화&nbsp;&nbsp;핀포인트뉴스팬데믹 200일 대응 목표…고려대 백신혁신센터, '한타바이러스' 백신 개발 착수&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "간호사신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90cHpOdHNBMERHcVBiTTBVWm1STFAwUks0dXJwYnF6alVHRnBraExjekhwcElCU1dTTll4eUdLSV8xdl9XVzJ1NjBncGtFTnBaWlpITThHMHhJWThPcUQwUjEtZEdIYWxQZmk1SDlR?oc=5"
         }
       ]
     },
@@ -69,7 +93,7 @@
       "id": "4807f7c12917",
       "title": "인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가 - 인니투데이",
       "published": "2026-05-19T04:59:04+00:00",
-      "summary": "인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가&nbsp;&nbsp;인니투데이인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어”&nbsp;&nbsp;한인포스트한타 바이러스에 대해 경계하고, 술탄 하산 국제공항의 감시 강화&nbsp;&nbsp;VOI.id레스타리 모에르디자트: 칸타바이러스 확산 예방에 대한 집단 인식을 깨우다q&nbsp;&nbsp;VOI.id인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이",
+      "summary": "인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가&nbsp;&nbsp;인니투데이인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어”&nbsp;&nbsp;한인포스트레스타리 모에르디자트: 칸타바이러스 확산 예방에 대한 집단 인식을 깨우다q&nbsp;&nbsp;VOI.id인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이",
       "sources": [
         {
           "name": "인니투데이",
@@ -98,18 +122,6 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxaUpZSFg1WkVkdHFmZmNGeF82dzdyVzQ2R2dCRUVGd1hUaW1zV1kxMEhocEphcTVINUE1eTVWWjZhSWpvYnE0LWJsa0hjUkgxZEd6MmpEREhSc09Hc3RGN1dGLUh1c0IyVEJRaGdEdXNYZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b42cce0a8712",
-      "title": "고대의대 백신혁신센터, 질병청 '한타바이러스 백신 개발 과제' 선정 - 헬스미디어뉴스",
-      "published": "2026-05-19T02:29:07+00:00",
-      "summary": "고대의대 백신혁신센터, 질병청 '한타바이러스 백신 개발 과제' 선정&nbsp;&nbsp;헬스미디어뉴스고려대의대 백신혁신센터, 차세대 한타바이러스 백신 개발 도전&nbsp;&nbsp;v.daum.net고려대 의대 백신혁신센터, ‘한타바이러스 백신 개발’ 주관기관 선정&nbsp;&nbsp;헬스조선팬데믹 200일 대응 목표…고려대 백신혁신센터, '한타바이러스' 백신 개발 착수&nbsp;&nbsp;네이트독보적 mRNA 저력 빛났다…아이진, 차세대 백신 기술로 바이오 주권 강화&nbsp;&nbsp;핀포인트뉴스",
-      "sources": [
-        {
-          "name": "헬스미디어뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaR0tRaEs4aHBqWUJMdFdMaVIySDJrTWprRjA2Y1NXRVFTNlg0WWZIald5TkJXUU1pRi1EeVh0aWF2bkxZdzhDSVJMTTdhaTlKMDM5WnczWXRmbWVudUtNZmdmRW52eUtEZTBTS2FYM2Z0UQ?oc=5"
         }
       ]
     },
@@ -153,7 +165,7 @@
       "id": "d1e7946c3e20",
       "title": "순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인 - 팜뉴스",
       "published": "2026-05-19T01:05:08+00:00",
-      "summary": "순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인&nbsp;&nbsp;팜뉴스\"은행잎 추출물서 알츠하이머 치매 예방 효과 확인\"&nbsp;&nbsp;v.daum.net알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;경향신문뇌기능개선제 시장 재편…은행잎 추출물, 베타아밀로이드 축적 억제 주목&nbsp;&nbsp;네이트은행잎 추출물, 알츠하이머 유발하는 ‘베타아밀로이드 응집’ 억제한다&nbsp;&nbsp;헬스조선",
+      "summary": "순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인&nbsp;&nbsp;팜뉴스알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;v.daum.net“은행잎 추출물이 알츠하이머 원인물질 응집 억제”&nbsp;&nbsp;서울경제은행잎 추출물, 알츠하이머 치매물질 억제 확인&nbsp;&nbsp;헤럴드경제은행잎 추출물, 알츠하이머 예방 치료 가능성 PET로 첫 입증&nbsp;&nbsp;국민일보",
       "sources": [
         {
           "name": "팜뉴스",
@@ -186,18 +198,6 @@
       ]
     },
     {
-      "id": "5e1fb5d7e8a1",
-      "title": "“심장질환 막는 효과” 여름에 흔한 ‘이 과일’, 꼭 먹어야겠네 - 헬스조선",
-      "published": "2026-05-18T21:20:00+00:00",
-      "summary": "“심장질환 막는 효과” 여름에 흔한 ‘이 과일’, 꼭 먹어야겠네&nbsp;&nbsp;헬스조선달고 맛있는 줄로만 알았는데…\"수박, 심장·혈관 건강에도 도움\"&nbsp;&nbsp;네이트“콜레스테롤 뚝 떨어뜨린다”… 흔히 먹는 ‘이 과일’, 뭐지?&nbsp;&nbsp;헬스조선탄수화물은 나쁘다? ‘이 식품’은 콜레스테롤 낮춰준다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmZ0Y0SEp3Tml5cjIzdDZmRzVUc2FJUDUtamJjYml0U0J0UmQ4aGFoMmRpSnEzT0hXQUtUNXEwY3U2eGxZc2Jqa3RYUzNlM3JqUkYzamFhSi1Ua1JPSWpkZkhqSS1VU2VwZWNZLUllQk9SbXU2Mnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d95e95286b45",
       "title": "“NMN 암세포 키운다?” 로킷헬스케어 “실험서 확인 안 돼…추측보다 데이터 봐야” - 약업신문",
       "published": "2026-05-18T21:01:00+00:00",
@@ -225,7 +225,7 @@
       "id": "1e1f0ee4719c",
       "title": "“암 막는 아침식사”… 계란·두부에 ‘이것’ 넣으면 완벽 - 헬스조선",
       "published": "2026-05-18T20:40:00+00:00",
-      "summary": "“암 막는 아침식사”… 계란·두부에 ‘이것’ 넣으면 완벽&nbsp;&nbsp;헬스조선암세포 억제하는 '상추'의 힘…\"청상추보다 적상추가 더 강력\"&nbsp;&nbsp;뉴시스흔히 먹는 ‘이 채소’가 몸속 암 증식 억제… 뭘까?&nbsp;&nbsp;헬스조선암 예방에 정말 좋은 식품은?...‘이 성분’ 많아야 몸에서 항암 효과 일어나&nbsp;&nbsp;코메디닷컴",
+      "summary": "“암 막는 아침식사”… 계란·두부에 ‘이것’ 넣으면 완벽&nbsp;&nbsp;헬스조선암 예방에 정말 좋은 식품은? / ‘46세’ 바다, 팔뚝살 쏙 빠진 비결? / 다이어트 주사때문에 발기부전?&nbsp;&nbsp;코메디닷컴암세포 억제하는 '상추'의 힘…\"청상추보다 적상추가 더 강력\"&nbsp;&nbsp;뉴시스흔히 먹는 ‘이 채소’가 몸속 암 증식 억제… 뭘까?&nbsp;&nbsp;헬스조선암 예방에 정말 좋은 식품은?...‘이 성분’ 많아야 몸에서 항암 효과 일어나&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "헬스조선",
@@ -237,35 +237,11 @@
       "id": "3d9c31bc87c1",
       "title": "커피랑 함께 먹으면 안 되는 영양제 있다… 뭘까? - 헬스조선",
       "published": "2026-05-18T19:20:00+00:00",
-      "summary": "커피랑 함께 먹으면 안 되는 영양제 있다… 뭘까?&nbsp;&nbsp;헬스조선\"모닝커피와 이 영양제, 절대 같이 먹지 마세요\"…효과 '0' 되는 상극 조합&nbsp;&nbsp;뉴시스“고기 먹은 뒤 바로 마시지 말라고?”...커피랑 같이 먹으면 안 좋은 음식&nbsp;&nbsp;코메디닷컴커피와 영양제 함께 먹어도 괜찮을까?&nbsp;&nbsp;시사저널",
+      "summary": "커피랑 함께 먹으면 안 되는 영양제 있다… 뭘까?&nbsp;&nbsp;헬스조선\"모닝커피와 이 영양제, 절대 같이 먹지 마세요\"…효과 '0' 되는 상극 조합&nbsp;&nbsp;뉴시스영양제 먹을 때 '커피' 마셔도 될까?...\"이 영양제는 피하세요\"&nbsp;&nbsp;센머니“고기 먹은 뒤 바로 마시지 말라고?”...커피랑 같이 먹으면 안 좋은 음식&nbsp;&nbsp;코메디닷컴커피와 영양제 함께 먹어도 괜찮을까?&nbsp;&nbsp;시사저널",
       "sources": [
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EMHRMQS1pRGYxMjJMZk5rVkFaUy0wVHFpaGVfMEFQcW8wT3cxTDJDdEhJS3BKYW5KemVfSHhSNFhON2tMY04wa1lIeFlnclcwNG1ORVNGRWdLeGh3SGNmZWFrOXlhNUsxcVZJYXdtZVlSZnV1bmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c3201078ad6a",
-      "title": "AI가 찾아낸 비만 치료 펩타이드 BRP, 동물 실험서 식욕 50% 억제…부작용 최소화 기대 - 한국AI부동산신문",
-      "published": "2026-05-18T18:42:12+00:00",
-      "summary": "AI가 찾아낸 비만 치료 펩타이드 BRP, 동물 실험서 식욕 50% 억제…부작용 최소화 기대&nbsp;&nbsp;한국AI부동산신문비만 치료제보다 더 중요했다…각국 비만 갈린 핵심 변수&nbsp;&nbsp;네이트과학정책&nbsp;&nbsp;사이언스타임즈한국은 고소득 국가로 가고 있어…전세계 2억3000만명 ‘비만율’ 분석해 보니&nbsp;&nbsp;서울경제[T나는 과학]\"비만은 왜 가난한 곳에서 늘어날까\"...2억명 연구의 답&nbsp;&nbsp;티제이비",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vUEN0TjNNb1E1aG9mYVlpWURxUmQxVDRjNUJJX3k3cWhWSWc4V1dISDYwRExJMlFGcWpTcWF2bEdRLVRSb2lsZWlLdjM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c008be5f4b9",
-      "title": "임신 중 독감, 아이 ‘궤양성 대장염’ 위험 높여 - 국민일보",
-      "published": "2026-05-18T15:03:00+00:00",
-      "summary": "임신 중 독감, 아이 ‘궤양성 대장염’ 위험 높여&nbsp;&nbsp;국민일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rQ1ZWZXNPb1A1NlNEZDJvTkpNc2hpY0x4MW8yMWxGVG9LUURxcVMzWDh4c05SOXl4R01rYlo0UmRicG1lZEtMb1FaZDBiWnVDWEFPak8yQmQwOWM1SjNhdEM4ekdELVXSAWxBVV95cUxQWjVGN0V6NFF3WDFNQW4yVzJTMEVwb2k1bHJTS3IzTGdQTE1CdE12TkZCZkZkVHJBcVRPN05vVDVRMkF6YUpEMWp6UjRiYTBtTUJSazJsVmNwTVVjMThMQ1l0OXJROGdaVEM5VEM?oc=5"
         }
       ]
     },
@@ -306,6 +282,18 @@
       ]
     },
     {
+      "id": "1f5e0a6088a0",
+      "title": "국립연구기관 연구원 숨진 채 발견… “손찌검 등 직장 내 괴롭힘” 유족 고소 - 서울신문",
+      "published": "2026-05-18T09:31:47+00:00",
+      "summary": "국립연구기관 연구원 숨진 채 발견… “손찌검 등 직장 내 괴롭힘” 유족 고소&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Oc2RDNG9DMEhEOEl0NmxER0VtYjRMd3V4cXhHYWdncDFvQTZUallQeVduUzlrWGN4WU5UTW1WWk1SanZFenZiTHBqaTE3T2tFdTRMVjU4X0NOT1dmcXVGZjFpUm01V0huMFpn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "febc89582b1c",
       "title": "과민성 대장 증후군 환자 10명 중 4명 ‘불면증’ 동반… “증상 악화·삶의 질 저하 이어져” - 하이닥",
       "published": "2026-05-18T08:30:00+00:00",
@@ -326,18 +314,6 @@
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMOHVnaXhwdXpfZ2l0R3YwQzM3N3ZjMnNXN2EtMXBGLWVETzVZZ2tyZ25NMEtNYmROTkZxaVFxczhPbEhYRzR4ZFBPdFNoN2I1RER2OG9DbEpTd9IBVEFVX3lxTE15SWtfMkJfcndGSVlhNEpOanpZU05kaW00NjBXb0Z1YkFTOU5QMEh4dkdrSENOUUxYUllNUlhMOG9abXNqbTJrdzE0SjJMNFByVDJlUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ef4629574a40",
-      "title": "한타바이러스 크루즈선, 네덜란드 복귀...선원 등 격리 - YTN",
-      "published": "2026-05-18T07:43:00+00:00",
-      "summary": "한타바이러스 크루즈선, 네덜란드 복귀...선원 등 격리&nbsp;&nbsp;YTN미국 콜로라도에서 한타 바이러스 확진자 숨져...크루즈 선 감염과 무관&nbsp;&nbsp;YTN 사이언스[밀물썰물] 한타바이러스&nbsp;&nbsp;부산일보치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상&nbsp;&nbsp;동아사이언스네덜란드 복귀하는 '한타바이러스' 혼디우스 유람선&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tZ0dmTy1LZHUycTB1RkNvNUtnc3pxMFNaZi1JaDlONU5yQWdyUWhZYkM0M0xmSkRiMy16Ul9sa2JtV2l2S3BOd2ZUYy1NeTJfVFMtaGZiVFZQR1JGS3c?oc=5"
         }
       ]
     },
@@ -405,7 +381,7 @@
       "id": "f0ad2676dd64",
       "title": "기억력 저하는 단순 건망증 아닐 수도 - 기호일보",
       "published": "2026-05-18T02:59:00+00:00",
-      "summary": "기억력 저하는 단순 건망증 아닐 수도&nbsp;&nbsp;기호일보“머릿속 난리 난다” 뇌과학자 추천 ‘가성비 좋은’ 치매 예방법&nbsp;&nbsp;헬스조선“어… 음…” 잦아진 대화 습관…그냥 건망증 아닐 수도 [노화설계]&nbsp;&nbsp;v.daum.net치매와 알츠하이머, 무엇이 같고 어떤 게 다를까&nbsp;&nbsp;스포츠경향[이윤희 박사의 건강칼럼] 알츠하이머 치매! 기억장애 원인의 새로운 발견? 그리고 대안은&nbsp;&nbsp;아웃소싱타임스",
+      "summary": "기억력 저하는 단순 건망증 아닐 수도&nbsp;&nbsp;기호일보“머릿속 난리 난다” 뇌과학자 추천 ‘가성비 좋은’ 치매 예방법&nbsp;&nbsp;헬스조선“어… 음…” 잦아진 말버릇, 인지기능 저하 초기일수도[노화설계]&nbsp;&nbsp;동아일보치매라고 포기하기 이르다…수술로 좋아질 수 있는 대표 질환 2가지&nbsp;&nbsp;네이트뇌혈관 손상 후 멍하고 느려졌다면 ‘혈관성 치매’ 의심&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "기호일보",
@@ -438,30 +414,6 @@
       ]
     },
     {
-      "id": "4651a5793776",
-      "title": "20대 남성들이 조심해야하는 '암 질병', 두경부암 - civicnews.com",
-      "published": "2026-05-18T01:10:28+00:00",
-      "summary": "20대 남성들이 조심해야하는 '암 질병', 두경부암&nbsp;&nbsp;civicnews.com",
-      "sources": [
-        {
-          "name": "civicnews.com",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sVl9ycmVobFJ3aFJwUHp5MVMxUHVuLXpMaGx6aFJaN1doMnJyc3VvajZNRG92dkI1c29CWWFGaWt0dUxrUERxX1JHdVNfVS1RNHBIT1g0TG8yS1h1MHY4VlJLdklxUldRaDRJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c4ac7d9b1df",
-      "title": "불면증, 수면장애로 고생한다면, '타트체리'를 주목 - kmjournal.net",
-      "published": "2026-05-18T01:10:02+00:00",
-      "summary": "불면증, 수면장애로 고생한다면, '타트체리'를 주목&nbsp;&nbsp;kmjournal.net잠 못 자고 자주 쥐 난다면?… 약사가 알려주는 올바른 마그네슘 복용법&nbsp;&nbsp;하이닥피곤한데 잠이 안 온다?…‘두 가지 성분’ 함께 먹으면 꿀잠&nbsp;&nbsp;동아일보“밤새 ‘통잠’ 자고 싶은데”…‘숙면’ 도움·방해 식습관&nbsp;&nbsp;농민신문“피곤한데 잠은 안 오고 뒤척뒤척”…마그네슘·멜라토닌 ‘꿀잠 시너지’&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "kmjournal.net",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zWXJ6UHJFZ2ltN2lqc0pXTkhYTmg2aUhKVlJJdllTRjAtNGQ0Q3FkZENGblVIc19xT2NCcWgyOG9CZ1FNd3F0VF9nMzBWR3pvWnZmQTFTd1k5eUt0M1FQZndJZXJoVU5STWV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a6148d84cd93",
       "title": "설탕 든 음료 대신 물만 마셔도…조금씩 건강하게 체중 줄이는 요령 - 코메디닷컴",
       "published": "2026-05-18T01:07:00+00:00",
@@ -482,18 +434,6 @@
         {
           "name": "메디컬투데이",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QRk9QaG9PN2tpRXVwdTlFYV9rYkl5cUFwN2JWaXZndlJQTG56UktSbGRONlRDbTJXZVpoMmctRmpQOEdOVlk0d0Q0QTlDbTdmQ1FjdFd6MjJwZDdi0gFsQVVfeXFMTTM0WThXUkVxNEhHaDV1Rmg3V3o2UlZvWUdBd2FudUhWX18xNmlKaVFidGQyUWJNOXI4NWlqOGRSdDJHVG1kY1RLVUJIWjZwdy1jWk9Dd0JXSzY0NWQ0QlpvaV9lSWRDMTR5ZUJP?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bcedff1eeeff",
-      "title": "\"너무 많이 자도 안 좋아\"…최적의 수면 시간은? - YTN 사이언스",
-      "published": "2026-05-18T00:00:00+00:00",
-      "summary": "\"너무 많이 자도 안 좋아\"…최적의 수면 시간은?&nbsp;&nbsp;YTN 사이언스적게 자도, 많이 자도 빨리 늙는다… ‘최적 수면’은 하루 6.4~7.8시간[노화설계]&nbsp;&nbsp;동아일보매년 30억원 쓰고 깨달았다…회춘 억만장자가 밝힌 '역노화 41계명'&nbsp;&nbsp;네이트나이 들면 잠 줄어드는 게 당연? 햇볕 쬐면 잘 잔다&nbsp;&nbsp;헬스조선[민병두의 나이이즘 (80)] 잠이 보약이다&nbsp;&nbsp;뉴스투데이",
-      "sources": [
-        {
-          "name": "YTN 사이언스",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTXJZck43UGtVRzNDMTBZYTlLM0JmRXROQTljc2ZvcWJQenhLU1ZHVVE3dko3OUxBT21xMDhoN0NweUtscTFtc2RkcXZwMXdJWjhhdDhVVi0tTnU1SjFuSE8xMlhhMVFxMjdnYWh0TzBQLVZWVWFoOXVwM1ZaOVhua2pTZE8tMDRQWnVIYQ?oc=5"
         }
       ]
     },
@@ -554,18 +494,6 @@
         {
           "name": "아던트뉴스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZWlRPU1dFZXNGX05fRmZPWlczQ1BheS01SWZzTlV0MHZzbE85b3Bfd2lfeTVUdmw2NTBtSHo4ZExsSlR1ZlRheF9IZTJ6Mk43dXVBOFJmcHBqN256Ynl6S2RFQ0VMSzNObG9JYWdrUdIBc0FVX3lxTFBEa3ZWV3liWldKR0pud1BkMUd5UW5GbjVTV2RBNlRBZ3JxY2lwTmExaTJ1aDRCeXZWVlVDT0tRaFpTajJwRFlGUlVLZWpycWtyZHVKTFRnaEFaZTRKOGRfakg2dTRUZGlsZ1BTOU5LT3FUWlk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f7e4830e209",
-      "title": "한미 ‘로수젯·아모프렐’, 심혈관 질환 조기 치료 최적 선택 부각 - 메드월드뉴스",
-      "published": "2026-05-17T13:32:55+00:00",
-      "summary": "한미 ‘로수젯·아모프렐’, 심혈관 질환 조기 치료 최적 선택 부각&nbsp;&nbsp;메드월드뉴스고혈압 ‘저용량 복합제’ 봇물…제약사 선점 경쟁 격화&nbsp;&nbsp;서울경제초기요법부터 병용요법까지 고혈압 치료의 통합적 고찰&nbsp;&nbsp;mostonline.co.kr한미약품, TCTAP 2026서 ‘로수젯·아모프렐’ 임상 전략 공개 … 심혈관질환 조기 개입 중요성 부각&nbsp;&nbsp;헬스오한미약품, 국제학술회의서 '로수젯' 및 '아모프렐' 임상 결과 발표&nbsp;&nbsp;팜뉴스",
-      "sources": [
-        {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuWVNad3NDWjJfVjlBd2RtcVAtNEZtaDMxTXh3bGpuT1M0N0VxYUxVSlZGMEZZeWdsTkdxaUc2Z2Z6S19vOTdWTnZ6NTZtWFZYVlVsaFZNZmZXaTI0VU5PMFkwUUFNbVJ4UTJPMVpn?oc=5"
         }
       ]
     },
