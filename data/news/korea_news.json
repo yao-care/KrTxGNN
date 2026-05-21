@@ -1,15 +1,99 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-21T04:03:11.623647+00:00",
-  "total_fetched": 78,
-  "unique_count": 78,
-  "health_related_count": 47,
+  "fetched_at": "2026-05-21T09:48:31.487110+00:00",
+  "total_fetched": 83,
+  "unique_count": 83,
+  "health_related_count": 51,
   "news": [
+    {
+      "id": "004539b863c8",
+      "title": "항염증제 면역요법으로 중증 우울증 치료 가능성 확인 - 동아사이언스",
+      "published": "2026-05-21T08:45:00+00:00",
+      "summary": "항염증제 면역요법으로 중증 우울증 치료 가능성 확인&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ScnJXOVdfZTVTTXJhb0pZM2p4c29WUms3SFliUzdLLUZLSzJJWlFvYzgtSE5zcEFWalF3OV81WVRacXJQTEROdnNmV3A1NjAzMGRreQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ffdf3cc2842",
+      "title": "DXVX, 보건복지부 국책과제 협약…범용 항바이러스 치료제 개발 착수 - 네이트",
+      "published": "2026-05-21T08:24:00+00:00",
+      "summary": "DXVX, 보건복지부 국책과제 협약…범용 항바이러스 치료제 개발 착수&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zZmp3MTdGZFRycWZ0dmxadzVYMEFoYXFqMnFMZ3Z5am9rU1Y0VEFmcmJVdmVqMW5RWHJJQjYyMVV3Uk9wYkRPeFZMTzNUbTFYYVZr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92c7cacc1154",
+      "title": "임신 중 먹은 ‘이 영양제’, 아이 기억력 높였다고? - 코메디닷컴",
+      "published": "2026-05-21T08:05:00+00:00",
+      "summary": "임신 중 먹은 ‘이 영양제’, 아이 기억력 높였다고?&nbsp;&nbsp;코메디닷컴\"임신 중 한 스푼 먹었더니 똘똘한 아기가?\"⋯태아 뇌 발달 돕는 '이 씨앗'&nbsp;&nbsp;v.daum.net\"임신 중 고용량 비타민D, 아이 기억력 향상과 연관 가능성\"&nbsp;&nbsp;뉴시스임신 중 먹은 '이 영양제', 아이 기억력 높였다고?&nbsp;&nbsp;네이트“임신 중 먹은 비타민D, 아이 기억력 좌우?”... 최근 연구들 살펴보니&nbsp;&nbsp;베이비뉴스",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5TLWp1U1NsWENvaE4wN2d5WXp4d0gwUkxyQVBUOGlZVWt5dVljQXBmb0dsQ19UVllkMlowQmVmSmFmZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "627d08daa6a4",
+      "title": "40·50대 소득 불안정, 조기치매 위험과 연관 - 이투데이",
+      "published": "2026-05-21T07:51:00+00:00",
+      "summary": "40·50대 소득 불안정, 조기치매 위험과 연관&nbsp;&nbsp;이투데이",
+      "sources": [
+        {
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sUmpaaXpoUzh6STlOZW9hUHlHVHA2dVc1WDZqZFBQc3pweGxjZ2J1S1BqNjVaNmljZWVZX251NmM0Y3NWMzdpTnVRU3FCWjRkdGRVRkxpN2V0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6fdd35f4cef1",
+      "title": "사망자 뇌 기능 되살려 신약 실험하는 美 스타트업 - 동아사이언스",
+      "published": "2026-05-21T06:45:00+00:00",
+      "summary": "사망자 뇌 기능 되살려 신약 실험하는 美 스타트업&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TSFkyWXhadnVhc1pKdGE1WjN2cEZTUjRGcWQ4RzZkbnhvdzJndU1Qd2JVZzFLbGQ4N1hjbzZ6YTZWck9sSzRtY21nYW5EMHFRU1k4eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b65dcba3dd9",
+      "title": "같은 당뇨·고혈압이라도, 여성이 치매 더 위험 - 헬스조선",
+      "published": "2026-05-21T05:10:00+00:00",
+      "summary": "같은 당뇨·고혈압이라도, 여성이 치매 더 위험&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WbVRSYlVvWWFnUU5BMjZzRnYwb2JCYWxhTHo4ajJJT0YtdVlWS2prRmVRdXU4ZHVzdnZYanp0NV9EZ0cwLW8wcEZBc3FpSG1iaFFGNS1GYUk4RllVY185SS1LU2NNTWIzVkVZWktMX1lYSGhTeVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8066a367426c",
+      "title": "자카르타 보건국, 한타바이러스 확진 3명·의심 6명 발생… 방역 ‘비상’ - Haninpost",
+      "published": "2026-05-21T05:09:48+00:00",
+      "summary": "자카르타 보건국, 한타바이러스 확진 3명·의심 6명 발생… 방역 ‘비상’&nbsp;&nbsp;Haninpost마스달리나 판 교수 : 한타 바이러스의 위험은 낮은 대유행이지만 여전히주의해야합니다.&nbsp;&nbsp;VOI.id인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어”&nbsp;&nbsp;Haninpost인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가&nbsp;&nbsp;인니투데이",
+      "sources": [
+        {
+          "name": "Haninpost",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJaVVUWDFRNU5UY0h1TWppby1OMWZxN1c1bzVXMzRJNHFXd1NLam5GOFM2b2xDV3VRbTYyNTN4ZTl2N3c2OFQ5bkcybkt4UQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "57e9692ddab5",
       "title": "잠 설친 다음 날 ‘수면 보충’ 안 하면...사망 위험 최대 42% 증가 - 하이닥",
       "published": "2026-05-21T03:30:00+00:00",
-      "summary": "잠 설친 다음 날 ‘수면 보충’ 안 하면...사망 위험 최대 42% 증가&nbsp;&nbsp;하이닥수면부족 다음날엔 1시간 더 자야…아니면 사망률 15%↑&nbsp;&nbsp;동아일보부족한 잠, 다음 날 더 자면 괜찮을까…8만5000명 추적 연구 결과 보니&nbsp;&nbsp;v.daum.net[60+ 궁금증] 왜 자꾸 새벽에 깰까?&nbsp;&nbsp;이투데이“잘못하면 사망으로 이어진다”…수면 부족한 다음날엔 ‘이렇게’ 해야된다는데 [헬시타임]&nbsp;&nbsp;서울경제",
+      "summary": "잠 설친 다음 날 ‘수면 보충’ 안 하면...사망 위험 최대 42% 증가&nbsp;&nbsp;하이닥부족한 잠, 다음 날 더 자면 괜찮을까…8만5000명 추적 연구 결과 보니&nbsp;&nbsp;v.daum.net[60+ 궁금증] 왜 자꾸 새벽에 깰까?&nbsp;&nbsp;이투데이“잘못하면 사망으로 이어진다”…수면 부족한 다음날엔 ‘이렇게’ 해야된다는데 [헬시타임]&nbsp;&nbsp;서울경제사망률 15% 높이는 수면부족, 이튿날 한시간 더 자면 된다&nbsp;&nbsp;한국경제",
       "sources": [
         {
           "name": "하이닥",
@@ -18,14 +102,50 @@
       ]
     },
     {
+      "id": "68b27264a579",
+      "title": "한타바이러스 감염병 '경고등'... 국산 백신·치료제 개발 속도 - 히트뉴스",
+      "published": "2026-05-21T03:02:00+00:00",
+      "summary": "한타바이러스 감염병 '경고등'... 국산 백신·치료제 개발 속도&nbsp;&nbsp;히트뉴스'빅파마도 초기 연구만'…한타바이러스 범용 백신, K바이오가 해낼까&nbsp;&nbsp;팜이데일리미국 콜로라도에서 한타 바이러스 확진자 숨져...크루즈 선 감염과 무관&nbsp;&nbsp;YTN 사이언스치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상&nbsp;&nbsp;동아사이언스“피부만 스쳐도 고통, 하혈도”… 한타바이러스 생존자의 증언&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSUEtuS1JqYkhSWFMxa1dyVkcwVnJsWGFGZVpFczFpVUhvM0xhN0FSVmJ5bW1yQlR4LUoyeFl1TkxQTEdTVmgtNmJGX2FLbnplV0ZmOHpsN09fVkduOV9KWWw4Z0VpM2pyZXJj?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2c9503e4864e",
       "title": "한국MSD, ‘남자 청소년 HPV 예방’ 의의 조명 - 메드월드뉴스",
       "published": "2026-05-21T02:58:56+00:00",
-      "summary": "한국MSD, ‘남자 청소년 HPV 예방’ 의의 조명&nbsp;&nbsp;메드월드뉴스12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑HPV 검사 받은 남성 59%에서 감염…백신으로 ‘암’ 예방은 의미 있어&nbsp;&nbsp;지디넷코리아서구보건소, HPV 국가예방접종 12세 남아 확대 홍보&nbsp;&nbsp;국제신문마침표, 자립준비청년에 가다실9 접종 지원…민간 협력 구축&nbsp;&nbsp;네이트",
+      "summary": "한국MSD, ‘남자 청소년 HPV 예방’ 의의 조명&nbsp;&nbsp;메드월드뉴스12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑HPV 검사 받은 남성 59%에서 감염…백신으로 ‘암’ 예방은 의미 있어&nbsp;&nbsp;v.daum.net서구보건소, HPV 국가예방접종 12세 남아 확대 홍보&nbsp;&nbsp;국제신문\"남성 청소년도 HPV 백신 접종해야\"&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
           "name": "메드월드뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11SUdOQk91ZUdFQzJGM0tEd1REVjdrVk9VS1c4cElVdHZKdnhIQmowSFR1QVZ6aldBWUpadXdMSFhlaGNSUXhQTi1FaWh4UEcxbGtWdVcwLVZHNnFCczRqcV96bzA0T2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f3882e495c8",
+      "title": "강남 자산가들 사이 새로운 건강 트렌드 ‘혈관 자산관리’ …유튜버 터보832 조명 - 메디컬투데이",
+      "published": "2026-05-21T02:53:51+00:00",
+      "summary": "강남 자산가들 사이 새로운 건강 트렌드 ‘혈관 자산관리’ …유튜버 터보832 조명&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjSDRzelFJNFhTTTlOa3hlaGUyXzN4VXU5eFZxUXRDTTlWNS0tQTM0QmR1ZmtyaTJCR2JTaGNjWnlvejVIMmdJUFRScVNBWUFUZXBFbkRobzBJWFUyNllNVDF30gFsQVVfeXFMTWFuS0JvZWR1cGlNUTRic2VabUFxY1o1eFVrS3NGRENiMHgyeEZqNXFGU3lPRzAyMFc5WGpfeDR0eHU3Q1RqTnBpR2dGM0VhVXUzVlJIejg2eVc5ZUNrRWR3NVVqeXNFT256d01Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5e37246efa8",
+      "title": "[쿠키과학] \"종양 성장 7배 억제\"…한의학연, 다발성경화증 치료제서 항암 효과 확인 - 네이트",
+      "published": "2026-05-21T01:53:00+00:00",
+      "summary": "[쿠키과학] \"종양 성장 7배 억제\"…한의학연, 다발성경화증 치료제서 항암 효과 확인&nbsp;&nbsp;네이트\"테리플루노마이드, 대장암 면역세포 활성 확인\"&nbsp;&nbsp;YTN 사이언스다발성경화증 치료제가 대장암 항암 기능 강화한다&nbsp;&nbsp;연합뉴스한의학연, 기존 다발성경화증 치료제에서 항암 증진 가능성 확인&nbsp;&nbsp;v.daum.net“대장암 종양 성장” 7배 억제…한의학硏, 다발성경화증 치료제 면역효과 재발견&nbsp;&nbsp;헤럴드경제",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55TU9vUnpaZHE4LTdiS0JhS1hEU1hPMkNWaENGdTYybnBaYXRQNWxnZ2tJOWNJTHB5WVRoeExEZDlZb25nVFJqQlNoTnExbzVVVmlv?oc=5"
         }
       ]
     },
@@ -57,23 +177,11 @@
       "id": "28b22f6dbb2e",
       "title": "뼈 건강 필수라던 칼슘·비타민D, 고령자 골절 예방 효과 미미[노화설계] - 네이트",
       "published": "2026-05-21T01:06:00+00:00",
-      "summary": "뼈 건강 필수라던 칼슘·비타민D, 고령자 골절 예방 효과 미미[노화설계]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "뼈 건강 필수라던 칼슘·비타민D, 고령자 골절 예방 효과 미미[노화설계]&nbsp;&nbsp;네이트뼈에 좋은 ‘이 비타민’…크론병·궤양성 대장염에도 효과?&nbsp;&nbsp;농민신문“햇볕만으론 부족” 비타민D, 하루에 ‘이만큼’ 먹어라&nbsp;&nbsp;헬스조선햇빛만으론 부족하다… 비타민 D 채우는 식탁의 힘&nbsp;&nbsp;미주한국일보\"비타민D·칼슘 영양제, 골절·낙상 예방 효과 낮다\"&nbsp;&nbsp;sportschosun.com",
       "sources": [
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5UlNiVXBHZkdoZ2h4UjVNd3laaEd6RUFLWnAyWjBCdzQ2cGo0MlFhWWdzckpnbHRUTGQ3YTc3MHVkN2g1Zi1PdkRfRTBFcVhfdEZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4e5c13b1cb9d",
-      "title": "센트룸, 리포좀 비타민C 담은 '이뮨 부스트 데일리 프로텍션 C' 출시 - 팜뉴스",
-      "published": "2026-05-21T00:45:55+00:00",
-      "summary": "센트룸, 리포좀 비타민C 담은 '이뮨 부스트 데일리 프로텍션 C' 출시&nbsp;&nbsp;팜뉴스[바이오스냅] 센트룸, 파우더 제형 멀티비타민 신제품 출시&nbsp;&nbsp;연합뉴스센트룸, ‘센트룸 이뮨 부스트 데일리 프로텍션 C’ 신제품 출시&nbsp;&nbsp;브릿지경제센트룸, ‘이뮨 부스트 데일리 프로텍션 C’ 출시…면역 건강 라인업 강화&nbsp;&nbsp;헤럴드경제헤일리온 '센트룸', 파우더 제형 멀티비타민 출시&nbsp;&nbsp;데일리한국",
-      "sources": [
-        {
-          "name": "팜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FemNkRXVUdVFjdGtBM3F5RTZWeEljcGw4ZF9oV0FhdnVDNHJIOVc1Yi1hbXV5TjQ5MlZOd2M2aV9EV1QzX3dqTTdFNVRzSnItdlBOSGNQdmU3NS14Mlo4NXEtTjJJRjFQcm9ybg?oc=5"
         }
       ]
     },
@@ -90,18 +198,6 @@
       ]
     },
     {
-      "id": "5fac0dea33d5",
-      "title": "사이언스타임즈/사용자메뉴/과학기술/생명과학·의학 - 사이언스타임즈",
-      "published": "2026-05-21T00:03:37+00:00",
-      "summary": "사이언스타임즈/사용자메뉴/과학기술/생명과학·의학&nbsp;&nbsp;사이언스타임즈'빅파마도 초기 연구만'…한타바이러스 범용 백신, K바이오가 해낼까&nbsp;&nbsp;팜이데일리미국 콜로라도에서 한타 바이러스 확진자 숨져...크루즈 선 감염과 무관&nbsp;&nbsp;YTN 사이언스치명률 최대 50% 한타바이러스…국내선 범용 mRNA 백신 개발, 美선 안데스 임상 1상&nbsp;&nbsp;동아사이언스“피부만 스쳐도 고통, 하혈도”… 한타바이러스 생존자의 증언&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "사이언스타임즈",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXEyTV91S280TDlsWjlxdmVmc0ZDR2l5THpFR0xheUo1YkxXd0pzT3kwc1NiaXdqVkxoTEM3Z2UwZjNxVTFtY052bFMxcGJGbW85SEJqaVAyLUdOTU9jOHVXeW15cGRScHVrNGZ3alUxTG9LdkxaUGNBYThGM3NodWx6bXNwbFVZd3lkNk5XWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a4b32ae0a3d9",
       "title": "HIV 감염, 불치병 아닌 ‘만성 질환’… 약으로 관리하면 전파 안 돼 - 헬스조선",
       "published": "2026-05-20T23:22:00+00:00",
@@ -110,6 +206,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWno1NThFZVBHT0JkR2RvQTg1QUlJRkN0R3lobW5PUU50X055VlJfd2JhZEh3ald6d3V2aEtmcHVsX05DMWE3dDhjYllaN1hFbVdEalVsa1pORG85bXEyZEF1YXNDdTNvNTFPUnlwQW13bGhmUGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49a66523a71b",
+      "title": "AI는 이런 사람들이 써야합니다…암세포 자폭부대 만든 이 남자 - 매일경제",
+      "published": "2026-05-20T21:57:51+00:00",
+      "summary": "AI는 이런 사람들이 써야합니다…암세포 자폭부대 만든 이 남자&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tRmZuQ0xIX0MwclRtcDc3TGNVVHVIQUthcklBRlBCR2dqcTRhb2F1b3pNWF80VVhPc1ozVWJqQU5fUHJIck5QaVgxUDNyZw?oc=5"
         }
       ]
     },
@@ -126,14 +234,26 @@
       ]
     },
     {
-      "id": "aec9f28a6476",
-      "title": "mRNA 암 백신, 나노입자로 면역 반응 극대화한다—GM3-LNP 플랫폼 Seed Grant 선정 - 한국AI부동산신문",
-      "published": "2026-05-20T21:11:52+00:00",
-      "summary": "mRNA 암 백신, 나노입자로 면역 반응 극대화한다—GM3-LNP 플랫폼 Seed Grant 선정&nbsp;&nbsp;한국AI부동산신문MIT 연구진, 암세포 완벽 제거하는 백신 기술 개발&nbsp;&nbsp;뉴스토마토mRNA 백신, 예방을 넘어 HIV·헤르페스 치료 영역으로 확장&nbsp;&nbsp;환경감시일보mRNA 기술의 역설 ... 치명적 약점이 항암 치료에선 ‘신의 한 수’&nbsp;&nbsp;헬스코리아뉴스",
+      "id": "f3059c68f0d7",
+      "title": "mRNA 암 백신, 나노입자로 면역 반응 극대화한다—GM3-LNP 플랫폼 Seed Grant 선정 - 브랜드경제신문",
+      "published": "2026-05-20T21:10:40+00:00",
+      "summary": "mRNA 암 백신, 나노입자로 면역 반응 극대화한다—GM3-LNP 플랫폼 Seed Grant 선정&nbsp;&nbsp;브랜드경제신문Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14V1FqYXU0SjVZTk1HSUw3RjZ5NzFiMjJGeWY2X2E5dXhMTEh3c0hvQ24tNGhBVm5pSFRJaEwzUXdycE9xang0N3gxVjU?oc=5"
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hVnBaa3FyZmVSeXMwUTN1WlgtTUhDdlllRldHbUpmc0hRSUFMUmRuWS1mdlozZlFVMkN1N1YyTFVod2o2Y0V2SHA5dWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0144e20656e",
+      "title": "“살부터 빼라는 말만 반복”…다낭성난소증후군 이름 바뀌었다지만, 여성들 불신 이유는? - 코메디닷컴",
+      "published": "2026-05-20T21:09:00+00:00",
+      "summary": "“살부터 빼라는 말만 반복”…다낭성난소증후군 이름 바뀌었다지만, 여성들 불신 이유는?&nbsp;&nbsp;코메디닷컴\"살부터 빼라는 말만 반복\"…다낭성난소증후군 이름 바뀌었다지만, 여성들 불신 이유는?&nbsp;&nbsp;네이트PCOS, 14년 만에 ‘PMOS’로 명칭 변경…“대사·내분비 질환 본질 반영”&nbsp;&nbsp;약사공론여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다&nbsp;&nbsp;하이닥세계 연구진 14년 노력… 이름 바뀐 다낭성난소증후군&nbsp;&nbsp;천지일보",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9FRUlDd2dRajNPWjNCZmo0LVhmVk5nYVRQeVdWZUxlaEh6QTZSRlNtMDdoaGllYjYzQk1mOHkzVjduZw?oc=5"
         }
       ]
     },
@@ -141,7 +261,7 @@
       "id": "281002e34940",
       "title": "강남세브란스병원-美하버드대, ‘안구세포 회춘’ 모색 - 데일리메디",
       "published": "2026-05-20T20:34:00+00:00",
-      "summary": "강남세브란스병원-美하버드대, ‘안구세포 회춘’ 모색&nbsp;&nbsp;데일리메디\"눈 나이, 젊게 되돌린다\"…녹내장 새 치료법 제시&nbsp;&nbsp;뉴시스강남세브란스병원·하버드 연구진, 안구 노화 역전 치료 로드맵 제시&nbsp;&nbsp;v.daum.net\"늙은 눈을 다시 젊게\"…녹내장·황반변성 치료 새 가능성&nbsp;&nbsp;뉴스1눈 건강도 되돌릴 수 있다?…'망막 회춘' 실마리 찾아&nbsp;&nbsp;네이트",
+      "summary": "강남세브란스병원-美하버드대, ‘안구세포 회춘’ 모색&nbsp;&nbsp;데일리메디늙은 눈 세포, 젊게 되돌린다…녹내장·황반변성 치료 새 길 열리나&nbsp;&nbsp;v.daum.net\"눈 나이, 젊게 되돌린다\"…녹내장 새 치료법 제시&nbsp;&nbsp;뉴시스강남세브란스병원·하버드 연구진, 안구 노화 역전 치료 로드맵 제시&nbsp;&nbsp;아시아경제\"늙은 눈을 다시 젊게\"…녹내장·황반변성 치료 새 가능성&nbsp;&nbsp;뉴스1",
       "sources": [
         {
           "name": "데일리메디",
@@ -174,14 +294,14 @@
       ]
     },
     {
-      "id": "9894a614277c",
-      "title": "위로가 독이 될 때-우울증 자녀에게 절대 해선 안 되는 말 7가지 - 유스연합",
-      "published": "2026-05-20T15:08:32+00:00",
-      "summary": "위로가 독이 될 때-우울증 자녀에게 절대 해선 안 되는 말 7가지&nbsp;&nbsp;유스연합",
+      "id": "e4b8d246661e",
+      "title": "위로가 독이 될 때-우울증 자녀에게 절대 해선 안 되는 말 7가지 - 한국AI부동산신문",
+      "published": "2026-05-20T15:09:26+00:00",
+      "summary": "위로가 독이 될 때-우울증 자녀에게 절대 해선 안 되는 말 7가지&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83b1ZOYVFhRW9La2N4NVFDRG42aVZVbkdJMzkxMkFnaFcwdXI3T2VwcFhnT0dkMm9BMzF6dm55aFotYUZ0TlphTlZiY3o5SXI2eFE?oc=5"
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sdjhpbFYxMnBqZ09SRDNQb0VienlMMktYVFdqWHdtcm44cDZoVENMSGNjNWtlRFM5aEdSeHhiQjlCVUdrTjh3RFNuT2w?oc=5"
         }
       ]
     },
@@ -261,11 +381,23 @@
       "id": "92d802f2953a",
       "title": "아이진, 한타·SFTS mRNA 백신 동시 개발 착수 - 보건신문",
       "published": "2026-05-20T05:25:55+00:00",
-      "summary": "아이진, 한타·SFTS mRNA 백신 동시 개발 착수&nbsp;&nbsp;보건신문아이진, 'mRNA기반' 한타바이러스 백신 개발추진&nbsp;&nbsp;뉴시스고려대 백신혁신센터, 차세대 한타백신 개발한다&nbsp;&nbsp;팜이데일리아이진, 한타바이러스 백신 개발 정부과제 선정 소식에 '급등'&nbsp;&nbsp;v.daum.net아이진, 한타바이러스 mRNA 백신 개발 기대감에 ‘급등’ [Why 바이오]&nbsp;&nbsp;서울경제",
+      "summary": "아이진, 한타·SFTS mRNA 백신 동시 개발 착수&nbsp;&nbsp;보건신문아이진, 한타바이러스 백신 과제 선정에 '上'…녹십자MS·리브스메드 '들썩'[바이...&nbsp;&nbsp;팜이데일리아이진, 'mRNA기반' 한타바이러스 백신 개발추진&nbsp;&nbsp;뉴시스아이진, 한타바이러스 백신 개발 정부과제 선정 소식에 '급등'&nbsp;&nbsp;v.daum.net고려대의대 백신혁신센터, 질병청 ‘한타바이러스 백신 개발 과제’ 주관기관 선정&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
           "name": "보건신문",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mLXhXV0JfMC1kTGpkeWVZUnZfOE1YcHBVUjE0eGlWLWZRWjNCZ0dmRkM2VkR4VURjRThLQjN5X09XUmluUmJKOUo5WGZlcWc3WDVlc0ZPM3Jka2dQT3FocElqVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a34831f6d929",
+      "title": "'하루 1만보 꼭 아니어도 된다?' 현대인을 위한 최소 운동, 걷기의 모든 것 - ppss.kr",
+      "published": "2026-05-20T05:10:00+00:00",
+      "summary": "'하루 1만보 꼭 아니어도 된다?' 현대인을 위한 최소 운동, 걷기의 모든 것&nbsp;&nbsp;ppss.kr“1만보 걷기? 운동 아니다” 서울의대 교수, 치매 막는 ‘10분’&nbsp;&nbsp;중앙일보열심히 운동해도 변화 없다면? 문제는 근육 아닌 ‘뇌’&nbsp;&nbsp;헬스조선길 찾아 헤맬수록 뇌는 젊어진다?…노화 늦추는 뜻밖의 습관&nbsp;&nbsp;농민신문“운동 후 머리가 맑아진다”…상쾌한 기분 착각 아냐, 뇌 속 변화 보니&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "ppss.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CTUU4bXcwQTZmdGpLNm0xNmV0dFVWaXFMQkZCQkRQZ2pVLVBFTHVmM0ZNQWNJMENZX1UwTU5qMkdsTWktQl9rMWJSQlI5SFV6RXFKWnFoOEtkYTR4el9jbS11ejk?oc=5"
         }
       ]
     },
@@ -285,7 +417,7 @@
       "id": "4963dde950c0",
       "title": "뎅기열 확산 비상… 호치민·하노이, 최고 수준 방역체계 가동 - 굿모닝베트남미디어",
       "published": "2026-05-20T04:46:53+00:00",
-      "summary": "뎅기열 확산 비상… 호치민·하노이, 최고 수준 방역체계 가동&nbsp;&nbsp;굿모닝베트남미디어뎅기열 치료 전략 최적화 및 사전 예방에 관한 워크숍.&nbsp;&nbsp;vietnam.vn전년 대비 700% 폭증한 베트남 뎅기열...우기 앞두고 재확산 경고&nbsp;&nbsp;아세안데일리 뉴스의사들은 여름철에 수족구병, 뎅기열, 수막구균성 뇌수막염에 대한 예방 조치를 취할 것을 권고합니다.&nbsp;&nbsp;vietnam.vn여름철에 뎅기열 발병률이 급격히 증가하는 이유는 무엇일까요?&nbsp;&nbsp;vietnam.vn",
+      "summary": "뎅기열 확산 비상… 호치민·하노이, 최고 수준 방역체계 가동&nbsp;&nbsp;굿모닝베트남미디어뎅기열 치료 전략 최적화 및 사전 예방에 관한 워크숍.&nbsp;&nbsp;Vietnam.vn전년 대비 700% 폭증한 베트남 뎅기열...우기 앞두고 재확산 경고&nbsp;&nbsp;아세안데일리 뉴스의사들은 여름철에 수족구병, 뎅기열, 수막구균성 뇌수막염에 대한 예방 조치를 취할 것을 권고합니다.&nbsp;&nbsp;Vietnam.vn여름철에 뎅기열 발병률이 급격히 증가하는 이유는 무엇일까요?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "굿모닝베트남미디어",
@@ -321,7 +453,7 @@
       "id": "11557d7865b7",
       "title": "40세 넘으면 꼭 먹어야 하는 ‘이 음식’… 뭐야? - 헬스조선",
       "published": "2026-05-20T03:20:00+00:00",
-      "summary": "40세 넘으면 꼭 먹어야 하는 ‘이 음식’… 뭐야?&nbsp;&nbsp;헬스조선“4주 만에 생체 나이 바꿨다”…몸속 염증 잡는 ‘식단’의 힘 [노화설계]&nbsp;&nbsp;v.daum.net\"고단백보다 탄수화물?\"…채식·고탄수 식단 생물학적 나이 낮춰&nbsp;&nbsp;뉴스1저지방 식물성 식단, 4주 만에 생물학적 노화 속도 늦춘다&nbsp;&nbsp;유스연합\"4주 식단만 바꿔도 생체나이 어려진다\"... 호주 시드니대 연구 결과&nbsp;&nbsp;시애틀코리안데일리",
+      "summary": "40세 넘으면 꼭 먹어야 하는 ‘이 음식’… 뭐야?&nbsp;&nbsp;헬스조선“4주 만에 생체 나이 바꿨다”…몸속 염증 잡는 ‘식단’의 힘 [노화설계]&nbsp;&nbsp;v.daum.net\"고단백보다 탄수화물?\"…채식·고탄수 식단 생물학적 나이 낮춰&nbsp;&nbsp;뉴스1\"4주 식단만 바꿔도 생체나이 어려진다\"... 호주 시드니대 연구 결과&nbsp;&nbsp;시애틀코리안데일리65세 넘었다면 ‘이것’ 덜 먹어야 천천히 늙는다&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -393,7 +525,7 @@
       "id": "fc3fe8b728d5",
       "title": "[건강체크] “갑자기 살이 찐다”…단순 과식 아닌 ‘호르몬 이상’ 신호일 수도 - 전국뉴스",
       "published": "2026-05-19T23:10:00+00:00",
-      "summary": "[건강체크] “갑자기 살이 찐다”…단순 과식 아닌 ‘호르몬 이상’ 신호일 수도&nbsp;&nbsp;전국뉴스",
+      "summary": "[건강체크] “갑자기 살이 찐다”…단순 과식 아닌 ‘호르몬 이상’ 신호일 수도&nbsp;&nbsp;전국뉴스혈당 불균형과 체중 증가 악순환…다이어트 전 혈당·대사 기능 함께 살펴야&nbsp;&nbsp;미주중앙일보예전보다 살 잘 찌고, 자꾸 추운데… 대사 느려졌다는 신호 7가지&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "전국뉴스",
@@ -414,18 +546,6 @@
       ]
     },
     {
-      "id": "d144d6b02919",
-      "title": "PCOS, 14년 만에 ‘PMOS’로 명칭 변경…“대사·내분비 질환 본질 반영” - 약사공론",
-      "published": "2026-05-19T20:49:00+00:00",
-      "summary": "PCOS, 14년 만에 ‘PMOS’로 명칭 변경…“대사·내분비 질환 본질 반영”&nbsp;&nbsp;약사공론\"살부터 빼라는 말만 반복\"…다낭성난소증후군 이름 바뀌었다지만, 여성들 불신 이유는?&nbsp;&nbsp;네이트여성 8명 중 1명 앓는다는 '다낭성난소증후군', 공식 명칭 바뀐다&nbsp;&nbsp;하이닥전세계 여성 8명 중 1명 앓는 ‘이 질환’ 명칭 바뀐다&nbsp;&nbsp;코메디닷컴세계 연구진 14년 노력… 이름 바뀐 다낭성난소증후군&nbsp;&nbsp;천지일보",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiYWt2Z0k1TEdzVHRMb0FFMHNkMTY1N0NIOFZWa1JNMWRtaVRlb0pNbHlDcVJORjQ0M1lkWmZndW5ZcUZmUGpfUE5SbUxaakVVZHBkUDNCeEhESzdUWldsZjBKVXZLNmxrdHNMaQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d74dd2db6b61",
       "title": "임신 중 독감 감염… 자녀 '궤양성 대장염' 위험 33% 높인다 - 하이닥",
       "published": "2026-05-19T13:00:00+00:00",
@@ -434,18 +554,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FN3V6UWJkX09TWTI5cjRPYTl4dlE3dXF5VFl6VHZiVWw2dWZPUWd4MlhQbnJfNDZXWnd2T1JCckp4MFNVemJQQzVxb05lM2I4R3UwbmpzSzZ2X24yaDhmWks3dTFMY2pFUEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "480671e69091",
-      "title": "KIST 1호 과학자 이유 있는 기부, 특허 강자 정일남 박사\"부는 축적아닌 사회환원, 꿈·연구 포기하지 마라\" - 헬로디디",
-      "published": "2026-05-19T10:44:38+00:00",
-      "summary": "KIST 1호 과학자 이유 있는 기부, 특허 강자 정일남 박사\"부는 축적아닌 사회환원, 꿈·연구 포기하지 마라\"&nbsp;&nbsp;헬로디디",
-      "sources": [
-        {
-          "name": "헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwM0xoLTFYMG42S2pVQ1ZMZWtwRVJQYTNpazJ6U2NVNWpPSnk4UUNfaTAwSFRnZ2Z2UXVjRFhZS0xCcEs3LVRwREhVN0djUmhIRlViMFZBQVlqUDZ4a3hCOERqRl9Id0lMTVE?oc=5"
         }
       ]
     },
@@ -474,38 +582,14 @@
       ]
     },
     {
-      "id": "f886e57422b3",
-      "title": "[포토뉴스] 한양대, 2025년 연구실적 우수교원 시상식 개최 - 뉴스H",
-      "published": "2026-05-19T05:57:49+00:00",
-      "summary": "[포토뉴스] 한양대, 2025년 연구실적 우수교원 시상식 개최&nbsp;&nbsp;뉴스H",
+      "id": "480671e69091",
+      "title": "KIST 1호 과학자 이유 있는 기부, 특허 강자 정일남 박사\"부는 축적아닌 사회환원, 꿈·연구 포기하지 마라\" - 헬로디디",
+      "published": "2026-05-19T09:00:00+00:00",
+      "summary": "KIST 1호 과학자 이유 있는 기부, 특허 강자 정일남 박사\"부는 축적아닌 사회환원, 꿈·연구 포기하지 마라\"&nbsp;&nbsp;헬로디디",
       "sources": [
         {
-          "name": "뉴스H",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02YUxQd296SDNQbDE3OGJJcXpDVGpkRl9PbUlaelNBYUdwdHpiN0xiVnM1dFVlSTlfRk5jUHc5QnlTYU93bEY3bERPZ2w4UGpUdjl4OHZhMHdHNXhyYUFKS0ZtTlJodTBYLUZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "794a34a880c4",
-      "title": "모든 혈액형에 맞는 만능 신장 개발했다 - 스타트업레시피",
-      "published": "2026-05-19T05:00:24+00:00",
-      "summary": "모든 혈액형에 맞는 만능 신장 개발했다&nbsp;&nbsp;스타트업레시피",
-      "sources": [
-        {
-          "name": "스타트업레시피",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9obWkwR3R3OG9OVW41OGgtZ04yYjFBdnp6ZUpieG8tZDRocHFOVW5XQW5SdXZhYW5RQ3R5UENINzBxVFdSNlBRNDNMQmZxWFhVNzJ4NXdkQ0MwdE9peXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4807f7c12917",
-      "title": "인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가 - 인니투데이",
-      "published": "2026-05-19T04:59:04+00:00",
-      "summary": "인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가&nbsp;&nbsp;인니투데이인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어”&nbsp;&nbsp;한인포스트레스타리 모에르디자트: 칸타바이러스 확산 예방에 대한 집단 인식을 깨우다q&nbsp;&nbsp;VOI.id인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이",
-      "sources": [
-        {
-          "name": "인니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91NFNXUXB0VEJJWmxLMzhhbGdoY2o5QlhyR1NraDRqVjAtUWx5ZExmb3VIcEprenBYRTdfZG9GNDRWa2EzY1FJZjl2RFdXMnhyV3hGRmNja01rUVBZbDNn?oc=5"
+          "name": "헬로디디",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwM0xoLTFYMG42S2pVQ1ZMZWtwRVJQYTNpazJ6U2NVNWpPSnk4UUNfaTAwSFRnZ2Z2UXVjRFhZS0xCcEs3LVRwREhVN0djUmhIRlViMFZBQVlqUDZ4a3hCOERqRl9Id0lMTVE?oc=5"
         }
       ]
     },
@@ -530,42 +614,6 @@
         {
           "name": "사이언스타임즈",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd1JDRklCVWVncFFDcWFhenZnQ1hrUTk3enUwUGJwOURhalhWUTlPblVRRDNYSGh1c24yWUpxdUN1Z0pkUVVLRkhOTW9idUZ0cC05SkthTkJlcEJ5ZTZrX3pPVGl3T25iblNJNVhOZUZfcDNzcXBiQ2gtcHBKYzVMSG1GRjROMVl5M1lMcWN1QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f5e0a6088a0",
-      "title": "국립연구기관 연구원 숨진 채 발견… “손찌검 등 직장 내 괴롭힘” 유족 고소 - 서울신문",
-      "published": "2026-05-18T09:31:47+00:00",
-      "summary": "국립연구기관 연구원 숨진 채 발견… “손찌검 등 직장 내 괴롭힘” 유족 고소&nbsp;&nbsp;서울신문",
-      "sources": [
-        {
-          "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Oc2RDNG9DMEhEOEl0NmxER0VtYjRMd3V4cXhHYWdncDFvQTZUallQeVduUzlrWGN4WU5UTW1WWk1SanZFenZiTHBqaTE3T2tFdTRMVjU4X0NOT1dmcXVGZjFpUm01V0huMFpn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0dbe62708e4d",
-      "title": "우주로 가는 AI데이터센터… 태양전지 등 핵심기술 개발 속도 - 파이낸셜뉴스",
-      "published": "2026-05-18T09:07:09+00:00",
-      "summary": "우주로 가는 AI데이터센터… 태양전지 등 핵심기술 개발 속도&nbsp;&nbsp;파이낸셜뉴스",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tUFdPcWtHcGFBcUUwMmhTeGZKM19qVDN0V200U2pNZEVGS3BMaWVrd0dhOTNFYlUxZjJmLUVIdEZselNkNGdnWGJJekpyMjVGYzY1aXpDQzlXZ9IBXkFVX3lxTE81eHRIcHNXdU1JaFBuSGhoMXlEc3hvSDRuVl9GQU1YQ3Q4V1JNdTJ2MXcwNGlfMlFWZk9FVE1weHhud0x4VmV1LVVCeHJMRkdrWXFuTU0wNWJMU3JYblE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b428aa69b988",
-      "title": "민관 협력 ‘K-휴머노이드’ 개발 착수…美中 양강에 도전장 - 동아일보",
-      "published": "2026-05-18T06:24:00+00:00",
-      "summary": "민관 협력 ‘K-휴머노이드’ 개발 착수…美中 양강에 도전장&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WSlFJSmZ6Z1EwRGZRZ3BfX2lpck9XOV9LWHhPZ01xX21FVzh5ZUM0Njc0dnRrS2pmb3huOHNuQllnZkFQQXRGT0ZGZkRINXJCbUtoQWhtMlFkQW15RS1OVVNYTXg0T0FpNnVGYUE1c9IBZkFVX3lxTE5wNjNHeUpYWjE1RXN1aUlvdHAyUTVQcUY5TnFnc2FKVXhjT3IwYTk5aUh1V1UyZ04wMTFTTHB3U3dBLXN0S2UwX1Q1MWxOekpCdFZaOUI0aFVUUy12cVVUYWE5R0xUUQ?oc=5"
         }
       ]
     }
