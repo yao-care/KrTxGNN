@@ -1,31 +1,103 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-21T09:48:31.487110+00:00",
-  "total_fetched": 83,
-  "unique_count": 83,
-  "health_related_count": 51,
+  "fetched_at": "2026-05-21T15:35:37.981403+00:00",
+  "total_fetched": 78,
+  "unique_count": 77,
+  "health_related_count": 48,
   "news": [
     {
-      "id": "004539b863c8",
-      "title": "항염증제 면역요법으로 중증 우울증 치료 가능성 확인 - 동아사이언스",
-      "published": "2026-05-21T08:45:00+00:00",
-      "summary": "항염증제 면역요법으로 중증 우울증 치료 가능성 확인&nbsp;&nbsp;동아사이언스",
+      "id": "c99772372332",
+      "title": "\"아침에 '이렇게' 먹으면 암 막을 수 있다\"…의사가 추천한 식단, 뭐길래? [헬시타임] - 네이트",
+      "published": "2026-05-21T12:57:00+00:00",
+      "summary": "\"아침에 '이렇게' 먹으면 암 막을 수 있다\"…의사가 추천한 식단, 뭐길래? [헬시타임]&nbsp;&nbsp;네이트“암 막는 아침식사”… 계란·두부에 ‘이것’ 넣으면 완벽&nbsp;&nbsp;헬스조선암세포 억제하는 '상추'의 힘…\"청상추보다 적상추가 더 강력\"&nbsp;&nbsp;뉴시스암 예방에 정말 좋은 식품은? / ‘46세’ 바다, 팔뚝살 쏙 빠진 비결? / 다이어트 주사때문에 발기부전?&nbsp;&nbsp;코메디닷컴암 예방에 정말 좋은 식품은?...‘이 성분’ 많아야 몸에서 항암 효과 일어나&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ScnJXOVdfZTVTTXJhb0pZM2p4c29WUms3SFliUzdLLUZLSzJJWlFvYzgtSE5zcEFWalF3OV81WVRacXJQTEROdnNmV3A1NjAzMGRreQ?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsQmw4ZUpyMnV1QXNIaU4zejZ4S0dkOTJaX1FiQkJPbklXclo2T1V4MlNhRmhZZklKbHBraGd4Y3VEMUFwdGRRc1NjX3BIMlFzSFpz?oc=5"
         }
       ]
     },
     {
-      "id": "5ffdf3cc2842",
-      "title": "DXVX, 보건복지부 국책과제 협약…범용 항바이러스 치료제 개발 착수 - 네이트",
-      "published": "2026-05-21T08:24:00+00:00",
-      "summary": "DXVX, 보건복지부 국책과제 협약…범용 항바이러스 치료제 개발 착수&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "f860652a6400",
+      "title": "4050 울리는 '조기치매', 소득 불안정 클수록 더 위험하다 - 한국경제",
+      "published": "2026-05-21T12:47:25+00:00",
+      "summary": "4050 울리는 '조기치매', 소득 불안정 클수록 더 위험하다&nbsp;&nbsp;한국경제Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zZmp3MTdGZFRycWZ0dmxadzVYMEFoYXFqMnFMZ3Z5am9rU1Y0VEFmcmJVdmVqMW5RWHJJQjYyMVV3Uk9wYkRPeFZMTzNUbTFYYVZr?oc=5"
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zZy10Yk1kbm0yOV8tRWM5Ym1YOE5oQnhjSm9SbExMcE5MWG1EOTRpdzY2RGZhdnJ1aFVRZFJaUzlreHByRmp1aVBzbWxMVF9NTktUN3M2SWJRZ9IBVEFVX3lxTE40TzlFS2lkbGFzRXFjSnJEQVBZQmpHbkNmZjkwejZoWGZnV2MwUE04Z2lFWmNWbktvRXdFR0R6UFZyOVFvM2ZEdko4aFdRbUNzWmprMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0edaa47b4b9f",
+      "title": "손톱 물어 뜯던 10세 소녀, 골수염 진단… 어쩌다가? - 헬스조선",
+      "published": "2026-05-21T12:40:00+00:00",
+      "summary": "손톱 물어 뜯던 10세 소녀, 골수염 진단… 어쩌다가?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdTdqWmNOSkY3Y3I2Wlo0UUxVdFVQbW9pamVseUZfbXZyamlhS1JLNlZIU0g4MHczbWowcncyb0lxd3FuTC1yQWFiam50ZFM3dU9QWHRzV3g0emlsLWtTRGhiNzR1dXMzODFvSU8tTUQzaXRWMGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a778e9f03afe",
+      "title": "유방암 환자, 비타민D 결핍 시 수술 후 통증 악화 - 헬스조선",
+      "published": "2026-05-21T12:00:00+00:00",
+      "summary": "유방암 환자, 비타민D 결핍 시 수술 후 통증 악화&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yYkRBT1ozOHFQQXhObTJxOUw2a29xN2ExeU10TS15MkFKODg5X051MGlyMjVfVXJCSnVza3FqX0tjbFoyd012bVRBdS1ORmFDZ2VrejVJaHRhaHFfRVV5X1IxQXZGTVdiYTRoUTdLUVNwNy1PRkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ef2c52dd6b8",
+      "title": "“26세에 음경 10cm 절제”…젊어서 암 아닌 귀두염이랬는데 결국 암, 무슨 일? - 코메디닷컴",
+      "published": "2026-05-21T11:06:00+00:00",
+      "summary": "“26세에 음경 10cm 절제”…젊어서 암 아닌 귀두염이랬는데 결국 암, 무슨 일?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyaFYtamJhQkZGa240UC04cUIwYTRWRTZnUDdQRlhqSGpvd0EtNkRKSjk0MmR1U0xhdUZGR0Y2STJuZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "407f50ba8860",
+      "title": "칼슘제 먹은 佛 70대 여성, 인지저하 위험 3.6배?...상반된 연구도 - 디멘시아뉴스",
+      "published": "2026-05-21T10:48:44+00:00",
+      "summary": "칼슘제 먹은 佛 70대 여성, 인지저하 위험 3.6배?...상반된 연구도&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHT0pEMW5HRUx4QXVEc0JYalFsS1lKN1BUSDJkSDhXcG95UDNyS20yRG0zb2hSdFpaRUNYd3RMcXlwX2oydktZOGpHdUY2cmZrSTg2NEUyS1lxbDRrcWJHMzU1WlZScEp6SlRnTDZLcUZyZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37376dcb6de5",
+      "title": "심장마비·뇌졸중 위험 낮추려면…여성은 ‘이 때’ 꼭 ‘이렇게’ 해야 한다? - 코메디닷컴",
+      "published": "2026-05-21T09:01:00+00:00",
+      "summary": "심장마비·뇌졸중 위험 낮추려면…여성은 ‘이 때’ 꼭 ‘이렇게’ 해야 한다?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6cVFIeGo2YVdRUFB6VXRETVJOY3E5eV9GVjhtS3E5MTlSUEExMl9Mdi1jQng3eE1IUlRwREtMdi1rQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b7a889a54a46",
+      "title": "DXVX, 보건복지부 ‘Disease X 항바이러스 치료제’ 최종 협약 체결 - 바이오타임즈",
+      "published": "2026-05-21T08:34:57+00:00",
+      "summary": "DXVX, 보건복지부 ‘Disease X 항바이러스 치료제’ 최종 협약 체결&nbsp;&nbsp;바이오타임즈디엑스앤브이엑스(Dx&amp;Vx), 보건복지부 ‘Disease X 대비 항바이러스 치료제 개발’ 최종협약 체결&nbsp;&nbsp;한국경제DXVX, 보건복지부 국책과제 협약…범용 항바이러스 치료제 개발 착수&nbsp;&nbsp;파이낸셜뉴스\"노로·한타 이어 '디지즈 X'까지\"…범용 항바이러스 플랫폼 주목&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NdW1jazU3S2MyZXZfanhtZHBnY2xtdTQzZTllX1NSYkItX2UwcTdBc1pVV20tVUY5Q0FaVzg5VUFNUGVEbmg3cmNOQjkzV1FCeHNaNmxVVHVKMUNtaV9PSTdiaEZvU3FlcElETA?oc=5"
         }
       ]
     },
@@ -42,26 +114,38 @@
       ]
     },
     {
-      "id": "627d08daa6a4",
-      "title": "40·50대 소득 불안정, 조기치매 위험과 연관 - 이투데이",
-      "published": "2026-05-21T07:51:00+00:00",
-      "summary": "40·50대 소득 불안정, 조기치매 위험과 연관&nbsp;&nbsp;이투데이",
+      "id": "4be27905dedc",
+      "title": "류통기한 지난 약, 변질되지 않았다면 복용해도 된다?--건강 - 인민넷",
+      "published": "2026-05-21T07:02:00+00:00",
+      "summary": "류통기한 지난 약, 변질되지 않았다면 복용해도 된다?--건강&nbsp;&nbsp;인민넷",
       "sources": [
         {
-          "name": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sUmpaaXpoUzh6STlOZW9hUHlHVHA2dVc1WDZqZFBQc3pweGxjZ2J1S1BqNjVaNmljZWVZX251NmM0Y3NWMzdpTnVRU3FCWjRkdGRVRkxpN2V0Zw?oc=5"
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeUZGZWlXZkR0YWdlNmJ2SXZ0a1JPWVZpMElEN0NzODMzZ2VDTEtpenVKaVlwYXBhVURLWVJfTnhkVnQwQ1RGejFfLTBmbXVTSlFkSk5JSFdrSTVndG1xUERHUFNVQWM2Y0tHRERB?oc=5"
         }
       ]
     },
     {
-      "id": "6fdd35f4cef1",
-      "title": "사망자 뇌 기능 되살려 신약 실험하는 美 스타트업 - 동아사이언스",
-      "published": "2026-05-21T06:45:00+00:00",
-      "summary": "사망자 뇌 기능 되살려 신약 실험하는 美 스타트업&nbsp;&nbsp;동아사이언스",
+      "id": "b7298431c6fc",
+      "title": "사망자 뇌 기능 되살려 신약 실험하는 美 스타트업 - v.daum.net",
+      "published": "2026-05-21T06:47:15+00:00",
+      "summary": "사망자 뇌 기능 되살려 신약 실험하는 美 스타트업&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TSFkyWXhadnVhc1pKdGE1WjN2cEZTUjRGcWQ4RzZkbnhvdzJndU1Qd2JVZzFLbGQ4N1hjbzZ6YTZWck9sSzRtY21nYW5EMHFRU1k4eA?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yRmF0YWhhVmh1ZFNyNlJpUko4MmtuRFNiSDd1elFpd2R2THdwODY4c2taTXRwVWM3ZHdiRVViUkg0YVJUbDlFVGExMm5KV1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6bbb0917e37",
+      "title": "\"먹을 수 있는 게 없다\"…'건강이상설' 이경규, 5년째 혈당 공포 [라이프+] - 네이트",
+      "published": "2026-05-21T06:19:00+00:00",
+      "summary": "\"먹을 수 있는 게 없다\"…'건강이상설' 이경규, 5년째 혈당 공포 [라이프+]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pclJsMUoyVVVlNmMwS3FOdHo1VFRFS1V0NGJMNjAzS1Jjdkl3NldSS25pWGd3WWItSUtmeTRtT0Njbld1RG5YeTZsd0g4NzhsdGdN?oc=5"
         }
       ]
     },
@@ -81,7 +165,7 @@
       "id": "8066a367426c",
       "title": "자카르타 보건국, 한타바이러스 확진 3명·의심 6명 발생… 방역 ‘비상’ - Haninpost",
       "published": "2026-05-21T05:09:48+00:00",
-      "summary": "자카르타 보건국, 한타바이러스 확진 3명·의심 6명 발생… 방역 ‘비상’&nbsp;&nbsp;Haninpost마스달리나 판 교수 : 한타 바이러스의 위험은 낮은 대유행이지만 여전히주의해야합니다.&nbsp;&nbsp;VOI.id인니 수카르노하타 공항 ‘한타바이러스’ 검역 강화&nbsp;&nbsp;인니투데이인니 보건부 “국내 한타바이러스 사람 간 전염 증거 없어”&nbsp;&nbsp;Haninpost인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가&nbsp;&nbsp;인니투데이",
+      "summary": "자카르타 보건국, 한타바이러스 확진 3명·의심 6명 발생… 방역 ‘비상’&nbsp;&nbsp;Haninpost",
       "sources": [
         {
           "name": "Haninpost",
@@ -122,30 +206,6 @@
         {
           "name": "메드월드뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11SUdOQk91ZUdFQzJGM0tEd1REVjdrVk9VS1c4cElVdHZKdnhIQmowSFR1QVZ6aldBWUpadXdMSFhlaGNSUXhQTi1FaWh4UEcxbGtWdVcwLVZHNnFCczRqcV96bzA0T2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5f3882e495c8",
-      "title": "강남 자산가들 사이 새로운 건강 트렌드 ‘혈관 자산관리’ …유튜버 터보832 조명 - 메디컬투데이",
-      "published": "2026-05-21T02:53:51+00:00",
-      "summary": "강남 자산가들 사이 새로운 건강 트렌드 ‘혈관 자산관리’ …유튜버 터보832 조명&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjSDRzelFJNFhTTTlOa3hlaGUyXzN4VXU5eFZxUXRDTTlWNS0tQTM0QmR1ZmtyaTJCR2JTaGNjWnlvejVIMmdJUFRScVNBWUFUZXBFbkRobzBJWFUyNllNVDF30gFsQVVfeXFMTWFuS0JvZWR1cGlNUTRic2VabUFxY1o1eFVrS3NGRENiMHgyeEZqNXFGU3lPRzAyMFc5WGpfeDR0eHU3Q1RqTnBpR2dGM0VhVXUzVlJIejg2eVc5ZUNrRWR3NVVqeXNFT256d01Z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a5e37246efa8",
-      "title": "[쿠키과학] \"종양 성장 7배 억제\"…한의학연, 다발성경화증 치료제서 항암 효과 확인 - 네이트",
-      "published": "2026-05-21T01:53:00+00:00",
-      "summary": "[쿠키과학] \"종양 성장 7배 억제\"…한의학연, 다발성경화증 치료제서 항암 효과 확인&nbsp;&nbsp;네이트\"테리플루노마이드, 대장암 면역세포 활성 확인\"&nbsp;&nbsp;YTN 사이언스다발성경화증 치료제가 대장암 항암 기능 강화한다&nbsp;&nbsp;연합뉴스한의학연, 기존 다발성경화증 치료제에서 항암 증진 가능성 확인&nbsp;&nbsp;v.daum.net“대장암 종양 성장” 7배 억제…한의학硏, 다발성경화증 치료제 면역효과 재발견&nbsp;&nbsp;헤럴드경제",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55TU9vUnpaZHE4LTdiS0JhS1hEU1hPMkNWaENGdTYybnBaYXRQNWxnZ2tJOWNJTHB5WVRoeExEZDlZb25nVFJqQlNoTnExbzVVVmlv?oc=5"
         }
       ]
     },
@@ -273,11 +333,23 @@
       "id": "2aafb9da02ae",
       "title": "혈액순환개선제 복용 흐름 분석 - 한국AI부동산신문",
       "published": "2026-05-20T19:28:34+00:00",
-      "summary": "혈액순환개선제 복용 흐름 분석&nbsp;&nbsp;한국AI부동산신문“은행잎 추출물이 알츠하이머 원인물질 응집 억제”&nbsp;&nbsp;서울경제알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;v.daum.net은행잎 추출물, 알츠하이머 치매물질 억제 확인&nbsp;&nbsp;헤럴드경제뇌기능개선제 시장 재편…은행잎 추출물, 베타아밀로이드 축적 억제 주목&nbsp;&nbsp;네이트",
+      "summary": "혈액순환개선제 복용 흐름 분석&nbsp;&nbsp;한국AI부동산신문“은행잎 추출물이 알츠하이머 원인물질 응집 억제”&nbsp;&nbsp;서울경제은행잎 추출물, 알츠하이머 치매물질 억제 확인&nbsp;&nbsp;헤럴드경제혈행 관리 영양제 시장, ‘은행잎·나토키나제·병풀잎추출물’ 배합 진센큐 주목&nbsp;&nbsp;한국AI부동산신문\"은행잎 추출물, '베타 아밀로이드' 개선과 인지 기능 유지 효과\"&nbsp;&nbsp;히트뉴스",
       "sources": [
         {
           "name": "한국AI부동산신문",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmTDNlTjZQb0gxbVVLRnZnRmNYaHJPMHpNQ0ZLZV9EMTZHa2lZT0pVNl9sWGJQX2l6UmtDNUpJQ0dZMnVTVFk4RUx1MVc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "beb0b5a48408",
+      "title": "“버스 잡으려 뛰었을 뿐인데” … 과학이 증명한 ‘가성비 운동법’ - 매일경제",
+      "published": "2026-05-20T19:00:00+00:00",
+      "summary": "“버스 잡으려 뛰었을 뿐인데” … 과학이 증명한 ‘가성비 운동법’&nbsp;&nbsp;매일경제\"청소·계단 오르기도 운동\"…하루 5분만해도 조기 사망 위험 감소&nbsp;&nbsp;뉴시스\"헬스장 안 가도 된다\"…일상 속 청소·경보, 사망 위험 낮춘다 - 머니투데이&nbsp;&nbsp;머니투데이‘20분’ 투자하면 건강 달라진다… 초 간단 운동법&nbsp;&nbsp;헬스조선5분 운동이 수천만 명의 수명 늘려...꾸준히 운동하는 사람들의 특징은?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80bUh0TGk4SjZ1OE90a1VXMmlwUTNqMkZKX19BYmx2cEc0b0dnV25vMnFISl9mV3FvQUs3dVpFQ2FRbFFTR2xxWjhBdmNtUQ?oc=5"
         }
       ]
     },
@@ -290,18 +362,6 @@
         {
           "name": "한국AI부동산신문",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SdzJkbmNFWjdjVjBFZWpLUl9BRlF3UElTamRHT3MyR0psaVgyN2ZGYTFnNS16Z0FCOWl6N1ZGNzh0ZEZ1WVFRQ3Ytc3o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4b8d246661e",
-      "title": "위로가 독이 될 때-우울증 자녀에게 절대 해선 안 되는 말 7가지 - 한국AI부동산신문",
-      "published": "2026-05-20T15:09:26+00:00",
-      "summary": "위로가 독이 될 때-우울증 자녀에게 절대 해선 안 되는 말 7가지&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sdjhpbFYxMnBqZ09SRDNQb0VienlMMktYVFdqWHdtcm44cDZoVENMSGNjNWtlRFM5aEdSeHhiQjlCVUdrTjh3RFNuT2w?oc=5"
         }
       ]
     },
@@ -402,30 +462,6 @@
       ]
     },
     {
-      "id": "36e182e22fdd",
-      "title": "한타바이러스 vs 코로나 차이/캘리포니아 관광 산업 '사상 최대' - 라디오코리아 모바일",
-      "published": "2026-05-20T05:01:48+00:00",
-      "summary": "한타바이러스 vs 코로나 차이/캘리포니아 관광 산업 '사상 최대'&nbsp;&nbsp;라디오코리아 모바일",
-      "sources": [
-        {
-          "name": "라디오코리아 모바일",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jQzJjc3ZqbDFueFhIU0ZwTXVLMEFvamJaZGFVblgxRkVZVmlhV2xpbUFIVHFoOXNROEppRFRkMHdVSDhtOUZ5alI1QWJPdU84ZU5uVkNXUTB2UGpJM1NQSlhkVVM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4963dde950c0",
-      "title": "뎅기열 확산 비상… 호치민·하노이, 최고 수준 방역체계 가동 - 굿모닝베트남미디어",
-      "published": "2026-05-20T04:46:53+00:00",
-      "summary": "뎅기열 확산 비상… 호치민·하노이, 최고 수준 방역체계 가동&nbsp;&nbsp;굿모닝베트남미디어뎅기열 치료 전략 최적화 및 사전 예방에 관한 워크숍.&nbsp;&nbsp;Vietnam.vn전년 대비 700% 폭증한 베트남 뎅기열...우기 앞두고 재확산 경고&nbsp;&nbsp;아세안데일리 뉴스의사들은 여름철에 수족구병, 뎅기열, 수막구균성 뇌수막염에 대한 예방 조치를 취할 것을 권고합니다.&nbsp;&nbsp;Vietnam.vn여름철에 뎅기열 발병률이 급격히 증가하는 이유는 무엇일까요?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "굿모닝베트남미디어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZkJBZ1p3UkdnSkhLZmdlV1oyLVRRNmRwc1ZSQWhFc00wN0VISGt0NWNjckI0UnNJN2Y2TTVBcXMzV01vb1h6bVZpanpkSDlDMGlzV3RrSUhLUHZsMlBXTTFxWGJGbHlxWGl4b2tzc1I?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f8af643ac382",
       "title": "영화 미스트가 현실로?…안개 속에서 '증식하는 박테리아' 발견 - 디지털투데이",
       "published": "2026-05-20T04:36:00+00:00",
@@ -462,30 +498,6 @@
       ]
     },
     {
-      "id": "6bf56b299d51",
-      "title": "우울증...기분의 변화가 아닌 \"뇌세포의 문제\" - 후생신보",
-      "published": "2026-05-20T02:02:00+00:00",
-      "summary": "우울증...기분의 변화가 아닌 \"뇌세포의 문제\"&nbsp;&nbsp;후생신보[신경과학 저널클럽]우울증 치료 열쇠 될 ‘자기자극 원리’&nbsp;&nbsp;경향신문자기경련치료, 우울증서 ECT 대비 비열등성 확인···인지 부작용은 ↓&nbsp;&nbsp;메디칼업저버우울증 치료 열쇠 될 '자기자극 원리'[신경과학 저널클럽]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE95U3hlZDFqbGF4dUcySkJNdG1BTm5LRmE5VC1EOEhyU094a1dhbHBZTTRfa2Y1amJlNXY2NVJET3ZnczRv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ef445ce1a2ac",
-      "title": "필수 유전자도 원하는 순간에 껐다 켠다…제브라피시·인간 줄기세포 적용 성공 - 동아사이언스",
-      "published": "2026-05-20T01:32:00+00:00",
-      "summary": "필수 유전자도 원하는 순간에 껐다 켠다…제브라피시·인간 줄기세포 적용 성공&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tVXg3Ny1GOEEwajUtME8ycExqUzFYenBQakhWckZGQ0JacWJqQWdibnpYUmM4dVg2QnRsRXA4aUZCakFwWlVxX0s4WTlRVlZOYVNWMw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f7d3dc46d727",
       "title": "자전거 타면 치매 위험 낮아지는 이유…\"심장과 뇌 함께 단련\"[노화설계] - 네이트",
       "published": "2026-05-20T01:15:00+00:00",
@@ -501,7 +513,7 @@
       "id": "1b1b552aefd5",
       "title": "10년 젊어지는 시니어 건강 습관 - 교수신문",
       "published": "2026-05-20T00:34:19+00:00",
-      "summary": "10년 젊어지는 시니어 건강 습관&nbsp;&nbsp;교수신문꽉 쥐는 힘에 숨겨진 뇌 건강의 비밀…저렴하고 빠른 우울증 경고등&nbsp;&nbsp;네이트약해진 손아귀, 단순 노화 아냐… ‘이 정신질환’ 신호일 수도&nbsp;&nbsp;헬스조선철봉 꽉 잡고 매달리기 했더니...악력 세면 건강이 좋은 이유&nbsp;&nbsp;코메디닷컴",
+      "summary": "10년 젊어지는 시니어 건강 습관&nbsp;&nbsp;교수신문",
       "sources": [
         {
           "name": "교수신문",
@@ -513,7 +525,7 @@
       "id": "ec7cc60f5521",
       "title": "[칼럼] 근감소증, 나이 들수록 줄어드는 근육… 방치하면 일상 무너진다 - 메드월드뉴스",
       "published": "2026-05-19T23:38:57+00:00",
-      "summary": "[칼럼] 근감소증, 나이 들수록 줄어드는 근육… 방치하면 일상 무너진다&nbsp;&nbsp;메드월드뉴스“35세부터 꺾인다” 근거 있었다…늦게 움직여도 달라진 ‘체력 10%’&nbsp;&nbsp;v.daum.net오래 살수록 ‘근육량’보다 중요한 건 근력이다 [박민선의 건강톡톡]&nbsp;&nbsp;시사저널골절에 우울증까지 부르는 근감소증… 1초에 ‘이만큼’ 못 걸으면 의심&nbsp;&nbsp;헬스조선40대 넘어서 처음 운동 시작한 남자들이 후회하는 것 6&nbsp;&nbsp;GQ Korea",
+      "summary": "[칼럼] 근감소증, 나이 들수록 줄어드는 근육… 방치하면 일상 무너진다&nbsp;&nbsp;메드월드뉴스“35세부터 꺾인다” 근거 있었다…늦게 움직여도 달라진 ‘체력 10%’&nbsp;&nbsp;v.daum.net40대 넘어서 처음 운동 시작한 남자들이 후회하는 것 6&nbsp;&nbsp;GQ Korea오래 살수록 ‘근육량’보다 중요한 건 근력이다 [박민선의 건강톡톡]&nbsp;&nbsp;시사저널골절에 우울증까지 부르는 근감소증… 1초에 ‘이만큼’ 못 걸으면 의심&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -530,54 +542,6 @@
         {
           "name": "전국뉴스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHU1dabFBkU3FuTVd5MVJmTVVJSTlIQ29TZDd5aVNfUG9OOWZSUWx0dFgwOGZ3QUhncEl1YmhQempJM1M5M2Vza2o0aUd0blhISjFZb2VfREVHZ1ZQa0RNSU1td0tndHN4Rk8wbXVYaHo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6037f6c97981",
-      "title": "\"낮 시간 활동 감소·수면 불규칙할수록 치매 위험 증가\" - 사이언스타임즈",
-      "published": "2026-05-19T22:01:09+00:00",
-      "summary": "\"낮 시간 활동 감소·수면 불규칙할수록 치매 위험 증가\"&nbsp;&nbsp;사이언스타임즈[건강포커스] \"낮 시간 활동 감소·수면 불규칙할수록 치매 위험 증가\"&nbsp;&nbsp;v.daum.net몽유병 등 수면장애, 치매·파킨슨병 위험 32% 높아&nbsp;&nbsp;문화투데이“우리 부모님은 괜찮나”…‘치매’ 위험 높이는 두가지 패턴&nbsp;&nbsp;농민신문자다가 팔다리 허우적 파킨슨병 징후 환자들, 체수분 비율이 달랐다&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "사이언스타임즈",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnR5N3Q1Z0twWVhlTVYyQkpGNTVZRWI1Z1V2dmlKbGdXMHJ0MlZYdk45bXBmWU84dFZmVFkxR2JKQmlvQzVaMllNaktQd1RjOWs5QUpaWnBIbTlBZXdxdmZ6SU82dnhBZDFUMjVKVWs5eGxBdkdrN0lfTlNXcUEtbWI3ZlJrS3RyRjB5MkQzSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d74dd2db6b61",
-      "title": "임신 중 독감 감염… 자녀 '궤양성 대장염' 위험 33% 높인다 - 하이닥",
-      "published": "2026-05-19T13:00:00+00:00",
-      "summary": "임신 중 독감 감염… 자녀 '궤양성 대장염' 위험 33% 높인다&nbsp;&nbsp;하이닥임신 중 독감, 아이 ‘궤양성 대장염’ 위험 높여&nbsp;&nbsp;v.daum.net임신중 인플루엔자 감염 \"소아 염증성 장질환 위험 증가\"&nbsp;&nbsp;약사공론산모 독감이 자녀 '장 건강' 위협한다… 빅데이터가 찾아낸 뜻밖의 연결고리 [언박싱 연구실]&nbsp;&nbsp;파이낸셜뉴스경희대 의대 연동건 교수 연구팀, 임신중 독감-소아 장질환 연관성 규명&nbsp;&nbsp;미주중앙일보",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FN3V6UWJkX09TWTI5cjRPYTl4dlE3dXF5VFl6VHZiVWw2dWZPUWd4MlhQbnJfNDZXWnd2T1JCckp4MFNVemJQQzVxb05lM2I4R3UwbmpzSzZ2X24yaDhmWks3dTFMY2pFUEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81d62d5adcf2",
-      "title": "\"이유 없이 아프고 피곤한 몸, '이것' 때문\"..한국인 당뇨가 진짜 위험한 이유 - 스브스프리미엄",
-      "published": "2026-05-19T10:02:00+00:00",
-      "summary": "\"이유 없이 아프고 피곤한 몸, '이것' 때문\"..한국인 당뇨가 진짜 위험한 이유&nbsp;&nbsp;스브스프리미엄Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "스브스프리미엄",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wcUlJY1pqdEVUQ2Q2NndBNDZfSTY0T20zQXUxekVVaDdFSlFtVk8ydVdTMmZRY09UTFdack9oYTg0Q2xIN0ZkM0k3MTZrTWRLTG54YllB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9490b7026aa1",
-      "title": "‘혈청 알부민’ 낮은 노인, 뇌·해마 더 작아...치매 조기 예측 '주목' - 디멘시아뉴스",
-      "published": "2026-05-19T09:01:04+00:00",
-      "summary": "‘혈청 알부민’ 낮은 노인, 뇌·해마 더 작아...치매 조기 예측 '주목'&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DU1V4R0IzSkxhelctV0xJQUxXYzJqeUxkV0d4c3V5M0M2X09ZbzZGZTkzT3F6VGJYZTRqeWZFdDJKamF3TUNJSzc2SVAtekdqejh1aEhwVEVlU2psWlVQZDIwTUkweWI5SjVndHJMU0hfdw?oc=5"
         }
       ]
     },
