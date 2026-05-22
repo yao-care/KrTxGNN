@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-22T09:33:00.477957+00:00",
-  "total_fetched": 84,
-  "unique_count": 84,
-  "health_related_count": 50,
+  "fetched_at": "2026-05-22T14:45:38.029940+00:00",
+  "total_fetched": 82,
+  "unique_count": 82,
+  "health_related_count": 48,
   "news": [
+    {
+      "id": "c679eaba6242",
+      "title": "“아빠 안 잔다” 이 습관, 사실은 심장 건강에 위협… 이유가? - 헬스조선",
+      "published": "2026-05-22T14:30:00+00:00",
+      "summary": "“아빠 안 잔다” 이 습관, 사실은 심장 건강에 위협… 이유가?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rbE1KUmw2SjF1UXFIdjdmU25KZnE4RVp6eVhJN20tNHVIMFNUdWRNNmM0cVhxVkVLejJEeHoybTFSMm9sLXRoc3N5QzRmTm5yX0tidnhuX29ud0RQSFd5M0VMMVdySUtCQVl3MHVzMmw4YlNVcEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "701687360a6b",
+      "title": "골절 예방에 칼슘·비타민 D 필수?…15만 명 분석하니 “효과 미미” - 하이닥",
+      "published": "2026-05-22T11:30:00+00:00",
+      "summary": "골절 예방에 칼슘·비타민 D 필수?…15만 명 분석하니 “효과 미미”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwVThGei1SNkRHQ0VqRVJaWVVNUEVZVW1jN05naW1nWjBkWnJ0X0ZPb0tINkZvWThPSUN0UjhUQnpuN2M1aVliUEsyelpvQ3VpaHpROG4zNzFwUmtvVy1FUWdOVHd3dFFta2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f773e2ee3b54",
+      "title": "[이슈&논란] '조용한 팬데믹’ 성병으로 유럽 '비상' \"임질 303%·선천성 매독 2배 급증\"…MSM과 가임기 여성 '가장 위험' - 뉴스스페이스",
+      "published": "2026-05-22T11:13:24+00:00",
+      "summary": "[이슈&논란] '조용한 팬데믹’ 성병으로 유럽 '비상' \"임질 303%·선천성 매독 2배 급증\"…MSM과 가임기 여성 '가장 위험'&nbsp;&nbsp;뉴스스페이스",
+      "sources": [
+        {
+          "name": "뉴스스페이스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IX2xMNEE3WC1GNFVYbGUzZE96R3owelhCbjR1WlNmTUU2X2lacF9JZ3BkNWFVeThIWjMtaE1xQWd1RjZUaG5zcHBTYXRVaGRtcEhJMzItZXZiM2EwU3pjQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3e1ba2a2518",
+      "title": "온몸 쑤시고 잠 못 드는 40대 후반女...‘이 병’ 진단 후 치매 위험 45%↑ - 디멘시아뉴스",
+      "published": "2026-05-22T09:55:13+00:00",
+      "summary": "온몸 쑤시고 잠 못 드는 40대 후반女...‘이 병’ 진단 후 치매 위험 45%↑&nbsp;&nbsp;디멘시아뉴스여성 수면 장애, 당연하게 두고 볼 문제 아니야&nbsp;&nbsp;네이트“우리 부모님은 괜찮나”…‘치매’ 위험 높이는 두가지 패턴&nbsp;&nbsp;농민신문자다가 팔다리 허우적 파킨슨병 징후 환자들, 체수분 비율이 달랐다&nbsp;&nbsp;경향신문몽유병 등 수면장애, 치매·파킨슨병 위험 32% 높아&nbsp;&nbsp;문화투데이",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNU1sVGstRC1seFhLX2VzZXFqNzB3em9hR2RHNHRUdnhJeXJQRWpuRFYyWk5NaU1rS0x6ZzZOYXVseXBVWnJMTkloYTUzRV8xd0dQMDNiUnYyMV9yejVZRjZzN1kydHNDMDN5MFlTTS10Zw?oc=5"
+        }
+      ]
+    },
     {
       "id": "90b2bedc6396",
       "title": "비타민D 부족하면, 유방암 수술 후 ‘중등도 통증’ 발생 위험 3배↑ - 하이닥",
@@ -14,30 +62,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0b1R5Y1hFZURTY3VwcnNjLXBWZHdxNXZoOEp6d0N2Q3B4Vl9yU1ZmSV9nSkdzMjR6dFQ2NmlTZTdvV3dvalJwQmZqa3phNXFVSkhzeVo2N3RabEJfRVlPZTI1YzBvM29WTmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54f8e073dae5",
-      "title": "보건장관 “자카르타 거주 외국인 한타바이러스 통제 중” - Haninpost",
-      "published": "2026-05-22T07:57:36+00:00",
-      "summary": "보건장관 “자카르타 거주 외국인 한타바이러스 통제 중”&nbsp;&nbsp;Haninpost자카르타 보건국, 한타바이러스 확진 3명·의심 6명 발생… 방역 ‘비상’&nbsp;&nbsp;Haninpost마스달리나 판 교수 : 한타 바이러스의 위험은 낮은 대유행이지만 여전히주의해야합니다.&nbsp;&nbsp;VOI.id인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가&nbsp;&nbsp;인니투데이",
-      "sources": [
-        {
-          "name": "Haninpost",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oUEtFakdGLW1zV0xSS0JMUDNjZXBXZm9ocEpPSXBCWVpyMHNEQzJMM2s4OTVaeFVvTm9QelotRi1PU0N4RFZuZ3RsOWpMUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d9bf814f068",
-      "title": "국내 연구진, 정상안압녹내장 유전 메커니즘 세계 최초 규명 - 헬스이슈앤뉴스",
-      "published": "2026-05-22T07:47:37+00:00",
-      "summary": "국내 연구진, 정상안압녹내장 유전 메커니즘 세계 최초 규명&nbsp;&nbsp;헬스이슈앤뉴스",
-      "sources": [
-        {
-          "name": "헬스이슈앤뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTNk5fd3h6bGxvdzZNWnZjX0prWEF3N05va0ZCNWk2TXVielJNVFd2c0FmLXduQ3I0c0JPUFAwTzBPaFdPZ1dsSFBrN3laYXc2T2ttdVdSZkhHVDExMi0xWXUtblVZaUsy?oc=5"
         }
       ]
     },
@@ -66,6 +90,18 @@
       ]
     },
     {
+      "id": "2b98b0ae5e1a",
+      "title": "당뇨병 환자를 위한 최적의 채소, 전문의가 꼽은 '브로콜리'의 효능 - 여수교차로",
+      "published": "2026-05-22T05:08:56+00:00",
+      "summary": "당뇨병 환자를 위한 최적의 채소, 전문의가 꼽은 '브로콜리'의 효능&nbsp;&nbsp;여수교차로\"몸에 좋은 줄 알고 먹었는데\"⋯당뇨 위험 높이는 채소 종류는?&nbsp;&nbsp;v.daum.net아침 공복에 블루베리+브로콜리 먹었더니…혈당, 염증에 변화가?&nbsp;&nbsp;코메디닷컴당뇨병 환자를 위한 최적의 채소…전문의가 꼽은 '브로콜리'의 효능&nbsp;&nbsp;뉴시스당뇨 환자 평생 한 가지 채소만 먹어야 한다면? ‘이것’ 추천&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "여수교차로",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TOHV2MjlnNHdqSHNoMHY3b1ZHRnZBTjVFUk5MV0dmOExWY0gzQUlGbmFDWHFPMmxBSFBZNFQyZ3JFanZZUEVjQjBXSGZ3SUR1dHo1b0NiSQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e322ecac558e",
       "title": "뇌전증으로 착각했는데, 희귀병 진단… 6개월 영아에 무슨 일이? - 헬스조선",
       "published": "2026-05-22T04:26:00+00:00",
@@ -86,30 +122,6 @@
         {
           "name": "쿠키메디",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GSllwSXVUM1l6NnlrR21IamFSY1M1R0FkUW1LWHFRaF9pODd6QjItTVVnUFFxOFVaQ0EwNmhMblJJUEJoZUVkN3plY2t6VFF2cWhvU0xmMXIzNC12T0hFMnNyMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75e5bb8f6da8",
-      "title": "유럽 성병 감염률 사상 최고치 기록…한국 보건 시스템 재점검 시급 - 브랜드경제신문",
-      "published": "2026-05-22T02:09:03+00:00",
-      "summary": "유럽 성병 감염률 사상 최고치 기록…한국 보건 시스템 재점검 시급&nbsp;&nbsp;브랜드경제신문",
-      "sources": [
-        {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WZTRYLXBUcTlCSVJEb1NwalVYeFB2QnFOc0M1Zkt1V3NrS1RHQ2o4R2VjY1JwTTF2bl9LMkdSd0dhVlU5QXdIWm1GbWw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6b0a2111932",
-      "title": "“암 유발, 혈당에도 최악”… 의사가 ‘냉장고 넣지 말라’ 경고한 음식 - 코메디닷컴",
-      "published": "2026-05-22T02:09:00+00:00",
-      "summary": "“암 유발, 혈당에도 최악”… 의사가 ‘냉장고 넣지 말라’ 경고한 음식&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nanpCTVVQV0gzRVFSRUYwZzdiWXVTRENqTW9RR0pwMlV0QzBYMXM2WGl1OWFYelRfS3JjTFFOT0hRUQ?oc=5"
         }
       ]
     },
@@ -186,10 +198,22 @@
       ]
     },
     {
+      "id": "6374cf933685",
+      "title": "자간전증, 출산 뒤 끝난 줄 알았는데…심부전 위험 4배 높았다 - 코메디닷컴",
+      "published": "2026-05-21T23:23:52+00:00",
+      "summary": "자간전증, 출산 뒤 끝난 줄 알았는데…심부전 위험 4배 높았다&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0zcTl4UjRlbGFLZU4tOFB0SHVoTUowbHFsQmZyaHhSVnV2c0xfVFRpZWVKcHAtS25ETHBQN0ZsNS00Zw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d2ee6bc052db",
       "title": "[기자수첩]가다실 NIP 숫자 효능을 넘어 '진짜 예방 효과'로\" - 의학신문",
       "published": "2026-05-21T21:00:00+00:00",
-      "summary": "[기자수첩]가다실 NIP 숫자 효능을 넘어 '진짜 예방 효과'로\"&nbsp;&nbsp;의학신문12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑\"HPV백신 남성 대상 국가접종, 구인두암·항문암 등 예방 가능해 큰 사회적 이득\"&nbsp;&nbsp;v.daum.net자궁 없는 남성도 쉽게 걸린다…무섭게 퍼지는 '이 암' [엑스레이]&nbsp;&nbsp;데일리안서구보건소, HPV 국가예방접종 12세 남아 확대 홍보&nbsp;&nbsp;국제신문",
+      "summary": "[기자수첩]가다실 NIP 숫자 효능을 넘어 '진짜 예방 효과'로\"&nbsp;&nbsp;의학신문12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑자궁 없는 남성도 쉽게 걸린다…무섭게 퍼지는 '이 암' [엑스레이]&nbsp;&nbsp;데일리안\"남성 청소년도 HPV 백신 접종해야\"&nbsp;&nbsp;연합뉴스HPV 검사 받은 남성 59%에서 감염…백신으로 ‘암’ 예방은 의미 있어&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "의학신문",
@@ -206,18 +230,6 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tZFNmeVhkb0VJbEdDdTVwX2padkdORjBQeTliU0g4S2dpaG1rQmVNaEphYUcyTXBjUkJhVzBGd3NjSjN3a1hCUlAxakNOWnBVZlRKVW9mUnZSSWE2a3lLREVIaDAxTmlTaWU0eEZUVdIBZkFVX3lxTE1OT0c4RmtBa2dhQVZVUFhfRk5uTHlrNW95MS1FLXhlV0RMbm50VjdxRlVrWWlIVHV2ZTVwaVBtYWZQUEphRUhBTFpxT0I3dTA4QkJscVBMd1R6TXl5VnJ1SUtQRkZmQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d4609826db9c",
-      "title": "'장이 뇌에 식욕 전달' 원리 밝혔다...빠른 비만치료 기대 - 파이낸셜뉴스",
-      "published": "2026-05-21T18:00:00+00:00",
-      "summary": "'장이 뇌에 식욕 전달' 원리 밝혔다...빠른 비만치료 기대&nbsp;&nbsp;파이낸셜뉴스\"갑자기 고기가 땡긴다고?\"… 알고 보면 장이 보내는 신호일수도&nbsp;&nbsp;v.daum.net삼겹살 못 참는 이유, 의지 부족 아니었다?…장이 보내는 ‘단백질 부족’ 신호&nbsp;&nbsp;v.daum.net“이 음식, 왜 하필 지금 당길까”···입맛 때문이 아니었다?&nbsp;&nbsp;경향신문무엇을 먹을지 결정...장과 뇌 조절 원리 규명&nbsp;&nbsp;YTN 사이언스",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HWWZmMlFDMnZ5Y19FcEhNQUY3Y0VkYzgyUW9iVWJXcHJWRkFBdFRkWEMybW1ISWIydFZoTFJGVnJjU0t2MXF1cFd1VjZURm1sMnBIT2c0cllfd9IBXkFVX3lxTFBVaDZ0OGd2bDBFTXFOMzE2V0djX1haVVloNFZhN3cxZk1Pb1ZXcWlldEJFOHk5M2s4UUlDM1Y0b00wWGx1X0NSSjluY2xfM3RxZUc3MlFvdGNXSnZjLWc?oc=5"
         }
       ]
     },
@@ -273,7 +285,7 @@
       "id": "b28e18f160c2",
       "title": "[헬스 플러스+] “정상체중도 방심 금물…‘마른비만’ 대사질환 위험↑” - 강원도민일보",
       "published": "2026-05-21T15:02:01+00:00",
-      "summary": "[헬스 플러스+] “정상체중도 방심 금물…‘마른비만’ 대사질환 위험↑”&nbsp;&nbsp;강원도민일보30세 전 비만되면 간암 5배· 췌장암 2배 ↑…63만명 추적 결과[노화설계]&nbsp;&nbsp;v.daum.net30세 이후 체중 증가로 인한 암 발생 위험에 대한 경고.&nbsp;&nbsp;Vietnam.vn20대에 비만이면…간암 발병 위험 5배, 췌장암·신장암 2배 [건강을 부탁해]&nbsp;&nbsp;네이트젊을 때 살찌면 더 위험… 암 발병 최대 5배 증가&nbsp;&nbsp;헬스조선",
+      "summary": "[헬스 플러스+] “정상체중도 방심 금물…‘마른비만’ 대사질환 위험↑”&nbsp;&nbsp;강원도민일보30세 전 비만되면 간암 5배· 췌장암 2배 ↑…63만명 추적 결과[노화설계]&nbsp;&nbsp;v.daum.net30세 이후 체중 증가로 인한 암 발생 위험에 대한 경고.&nbsp;&nbsp;Vietnam.vn젊을 때 살찌면 더 위험… 암 발병 최대 5배 증가&nbsp;&nbsp;헬스조선30세 전 비만이면 암 위험 ↑… 간암 5배, 자궁내막암은 4배&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "강원도민일보",
@@ -333,7 +345,7 @@
       "id": "1edd64c11d65",
       "title": "혈행 관리 영양제 시장, ‘은행잎·나토키나제·병풀잎추출물’ 배합 진센큐 주목 - 한국AI부동산신문",
       "published": "2026-05-21T09:39:14+00:00",
-      "summary": "혈행 관리 영양제 시장, ‘은행잎·나토키나제·병풀잎추출물’ 배합 진센큐 주목&nbsp;&nbsp;한국AI부동산신문“은행잎 추출물이 알츠하이머 원인물질 응집 억제”&nbsp;&nbsp;서울경제은행잎 추출물, 알츠하이머 치매물질 억제 확인&nbsp;&nbsp;헤럴드경제\"은행잎 추출물, '베타 아밀로이드' 개선과 인지 기능 유지 효과\"&nbsp;&nbsp;히트뉴스[한국일보] 김희진 교수, 알츠하이머 조기 치료 관련 코멘트&nbsp;&nbsp;뉴스H",
+      "summary": "혈행 관리 영양제 시장, ‘은행잎·나토키나제·병풀잎추출물’ 배합 진센큐 주목&nbsp;&nbsp;한국AI부동산신문“은행잎 추출물이 알츠하이머 원인물질 응집 억제”&nbsp;&nbsp;서울경제은행잎 추출물, 알츠하이머 치매물질 억제 확인&nbsp;&nbsp;헤럴드경제치매예방약 시장, '콜린' 퇴출 위기에 '은행잎 추출물' 뜨나&nbsp;&nbsp;비즈한국순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인&nbsp;&nbsp;팜뉴스",
       "sources": [
         {
           "name": "한국AI부동산신문",
@@ -366,14 +378,14 @@
       ]
     },
     {
-      "id": "97a3de527549",
-      "title": "비늘 대신 복슬복슬 털 달린 물고기가 발견됐어요! - 조선일보",
-      "published": "2026-05-21T08:39:00+00:00",
-      "summary": "비늘 대신 복슬복슬 털 달린 물고기가 발견됐어요!&nbsp;&nbsp;조선일보",
+      "id": "54f8e073dae5",
+      "title": "보건장관 “자카르타 거주 외국인 한타바이러스 통제 중” - Haninpost",
+      "published": "2026-05-21T07:56:04+00:00",
+      "summary": "보건장관 “자카르타 거주 외국인 한타바이러스 통제 중”&nbsp;&nbsp;Haninpost자카르타 보건국, 한타바이러스 확진 3명·의심 6명 발생… 방역 ‘비상’&nbsp;&nbsp;Haninpost쥐 똥을 쉽게 청소하지 말 것을 WHO는 햄타 바이러스를 유발할 수 있음을 경고합니다.&nbsp;&nbsp;VOI.id인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가&nbsp;&nbsp;인니투데이마스달리나 판 교수 : 한타 바이러스의 위험은 낮은 대유행이지만 여전히주의해야합니다.&nbsp;&nbsp;VOI.id",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEVyamJxNXN4ZXdqbkVPbE00d3NidkZTX09ESFpZZWx0cl85NVpGUUVpS0ZJQy1KUnAwVGpsUFI1MWZGZTlaZUxpT25IMXczMjBzM1l1MVlDX0ExT3YwR2pnMFRGS3JULWxIZGVjVkpadEFaYnVlTnNkYjRQSFI1VnRNWVU?oc=5"
+          "name": "Haninpost",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oUEtFakdGLW1zV0xSS0JMUDNjZXBXZm9ocEpPSXBCWVpyMHNEQzJMM2s4OTVaeFVvTm9QelotRi1PU0N4RFZuZ3RsOWpMUQ?oc=5"
         }
       ]
     },
@@ -402,6 +414,18 @@
       ]
     },
     {
+      "id": "d110ab37069e",
+      "title": "해외 석학 23명의 진단 결과는?… 생명연, 기초과학·중개연구 ‘세계적 수준’ - dt.co.kr",
+      "published": "2026-05-21T04:20:42+00:00",
+      "summary": "해외 석학 23명의 진단 결과는?… 생명연, 기초과학·중개연구 ‘세계적 수준’&nbsp;&nbsp;dt.co.kr",
+      "sources": [
+        {
+          "name": "dt.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGVzROX0lWaFZiLXJSZ0FIR2VtdlAwMEh0X0JBMHR1djM0SlZQMGlibm1FNzJyTUJocGdMdDFybjJSMG5hNUN1TU43ZDdCQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f7fdbd8367ba",
       "title": "쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다 - 헬스조선",
       "published": "2026-05-21T01:54:00+00:00",
@@ -426,22 +450,10 @@
       ]
     },
     {
-      "id": "592310e8a0cb",
-      "title": "뼈 건강 필수라던 칼슘·비타민D, 골절 예방 효과 미미[노화설계] - 네이트",
-      "published": "2026-05-21T01:06:00+00:00",
-      "summary": "뼈 건강 필수라던 칼슘·비타민D, 골절 예방 효과 미미[노화설계]&nbsp;&nbsp;네이트뼈에 좋은 ‘이 비타민’…크론병·궤양성 대장염에도 효과?&nbsp;&nbsp;농민신문“햇볕만으론 부족” 비타민D, 하루에 ‘이만큼’ 먹어라&nbsp;&nbsp;헬스조선\"비타민D·칼슘 영양제, 골절·낙상 예방 효과 낮다\"&nbsp;&nbsp;sportschosun.com",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5UlNiVXBHZkdoZ2h4UjVNd3laaEd6RUFLWnAyWjBCdzQ2cGo0MlFhWWdzckpnbHRUTGQ3YTc3MHVkN2g1Zi1PdkRfRTBFcVhfdEZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dba9e0688509",
       "title": "한양대 최제민 교수팀, 자가면역질환 치료의 한계 극복할 '병용 치료 전략' 규명 - 뉴스H",
       "published": "2026-05-21T00:32:41+00:00",
-      "summary": "한양대 최제민 교수팀, 자가면역질환 치료의 한계 극복할 '병용 치료 전략' 규명&nbsp;&nbsp;뉴스H한양대 연구팀, '다발성 경화증 억제' 면역 병용치료 원리 규명&nbsp;&nbsp;파이낸셜포스트자가면역질환 치료 새 전략…면역억제제·저용량 IL-2 병용 효과 입증&nbsp;&nbsp;교수신문",
+      "summary": "한양대 최제민 교수팀, 자가면역질환 치료의 한계 극복할 '병용 치료 전략' 규명&nbsp;&nbsp;뉴스H자가면역질환 치료 새 전략…면역억제제·저용량 IL-2 병용 효과 입증&nbsp;&nbsp;교수신문",
       "sources": [
         {
           "name": "뉴스H",
@@ -453,7 +465,7 @@
       "id": "ac67f9a59aaf",
       "title": "\"수면부족 다음날, 1시간 더 안 자면…사망률 15% 오른다\"[1분 생활백서] - 네이트",
       "published": "2026-05-21T00:05:00+00:00",
-      "summary": "\"수면부족 다음날, 1시간 더 안 자면…사망률 15% 오른다\"[1분 생활백서]&nbsp;&nbsp;네이트부족한 잠, 다음 날 더 자면 괜찮을까…8만5000명 추적 연구 결과 보니&nbsp;&nbsp;v.daum.net“잘못하면 사망으로 이어진다”…수면 부족한 다음날엔 ‘이렇게’ 해야된다는데 [헬시타임]&nbsp;&nbsp;서울경제[60+ 궁금증] 왜 자꾸 새벽에 깰까?&nbsp;&nbsp;이투데이수면부족 다음날엔 1시간 더 자야…아니면 사망률 15%↑&nbsp;&nbsp;동아일보",
+      "summary": "\"수면부족 다음날, 1시간 더 안 자면…사망률 15% 오른다\"[1분 생활백서]&nbsp;&nbsp;네이트부족한 잠, 다음 날 더 자면 괜찮을까…8만5000명 추적 연구 결과 보니&nbsp;&nbsp;v.daum.net“잘못하면 사망으로 이어진다”…수면 부족한 다음날엔 ‘이렇게’ 해야된다는데 [헬시타임]&nbsp;&nbsp;서울경제[60+ 궁금증] 왜 자꾸 새벽에 깰까?&nbsp;&nbsp;이투데이\"수면부족 다음날, 1시간 더 안 자면…사망률 15% 오른다\"[1분 생활백서] - 머니투데이&nbsp;&nbsp;머니투데이",
       "sources": [
         {
           "name": "네이트",
@@ -498,14 +510,14 @@
       ]
     },
     {
-      "id": "f3059c68f0d7",
-      "title": "mRNA 암 백신, 나노입자로 면역 반응 극대화한다—GM3-LNP 플랫폼 Seed Grant 선정 - 브랜드경제신문",
-      "published": "2026-05-20T21:10:40+00:00",
-      "summary": "mRNA 암 백신, 나노입자로 면역 반응 극대화한다—GM3-LNP 플랫폼 Seed Grant 선정&nbsp;&nbsp;브랜드경제신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "aec9f28a6476",
+      "title": "mRNA 암 백신, 나노입자로 면역 반응 극대화한다—GM3-LNP 플랫폼 Seed Grant 선정 - 한국AI부동산신문",
+      "published": "2026-05-20T21:11:52+00:00",
+      "summary": "mRNA 암 백신, 나노입자로 면역 반응 극대화한다—GM3-LNP 플랫폼 Seed Grant 선정&nbsp;&nbsp;한국AI부동산신문MIT 연구진, 암세포 완벽 제거하는 백신 기술 개발&nbsp;&nbsp;뉴스토마토mRNA 기술의 역설 ... 치명적 약점이 항암 치료에선 ‘신의 한 수’&nbsp;&nbsp;헬스코리아뉴스",
       "sources": [
         {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hVnBaa3FyZmVSeXMwUTN1WlgtTUhDdlllRldHbUpmc0hRSUFMUmRuWS1mdlozZlFVMkN1N1YyTFVod2o2Y0V2SHA5dWg?oc=5"
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14V1FqYXU0SjVZTk1HSUw3RjZ5NzFiMjJGeWY2X2E5dXhMTEh3c0hvQ24tNGhBVm5pSFRJaEwzUXdycE9xang0N3gxVjU?oc=5"
         }
       ]
     },
@@ -542,42 +554,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNck1OLVdvd2ZFMnhSSkdOUGtKbW1ENllPb0k1N2l6Z3hIY29rNlhZVGRBa2JVZjF2QjdwUW5xZzh6S0RueUIyNDRobFBMcVZPRlVZU2FTanV1QXdFVkZ6NEIwaC12Z2NMTWtMbzlmbjZjVzg1dndERFNsRlFUajk1bFZydU85VHZtdUxfYtIBoAFBVV95cUxNSXZzeXM2bWJDdEE2WW5vX2RTemh1WWlDb3ZOeUFhZTdGYmFHZko2TVRKZWdjeVlEaTNmUXMwMFQ3cFBtd0dqRW1KcXJscGgxdFlWV3NUell4R3A0LS1uSnl6T0FYd0lhUmVDVHd3eWpIbzB0eW9yV0ZFbmN0YkRZUzIwd0lxTzRvdGFuaF9sR1dQZkZTZFdpUTd3WmNxLXRl?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "764eebc92474",
-      "title": "지중해식 식단에 ‘이것’ 더했더니… 당뇨병 위험 31% 뚝 - 헬스조선",
-      "published": "2026-05-20T12:20:00+00:00",
-      "summary": "지중해식 식단에 ‘이것’ 더했더니… 당뇨병 위험 31% 뚝&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVb1hZUzBJby1OM1pLUXFtUmRuYm13VXpCRWE0VS1rSkFyOFNTRklmeW9feFR4OF92b3ZQZlVRckJrY0p4T1lraWJUNEFSdi1KbkhZYmFlTkppMk5DelJ2UHE2STVvREhVZE1Xbk01SDc0dWhKenc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f14001891d1d",
-      "title": "알츠하이머 아닌데 알츠하이머처럼 무너진다…희귀 뇌 질환 발병 원인 첫 규명 - 네이트",
-      "published": "2026-05-20T12:11:00+00:00",
-      "summary": "알츠하이머 아닌데 알츠하이머처럼 무너진다…희귀 뇌 질환 발병 원인 첫 규명&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKVnV2SVlnRjZHVy1xYllWeTdJd0YxTTQ0RE16cHNYUzF6Q0xQOVRJZ2tuTnpKWEZIdDNVQUMzSFUzZ0RDR3hZQlQ4RF9DUGt3MjlZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab1cba2c2c31",
-      "title": "\"넓어진 혈관도 뇌졸중 원인\"... 좁아진 혈관만 문제 아냐, 새로운 예방법 필요 - 하이닥",
-      "published": "2026-05-20T11:00:00+00:00",
-      "summary": "\"넓어진 혈관도 뇌졸중 원인\"... 좁아진 혈관만 문제 아냐, 새로운 예방법 필요&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TTENPZ191MHhWdExyNnpNWmpKS0FXNUFocXFMWDJnNVZibDhRbnBJaFV2SU1HU3dNZExTSXo3NXhtSlVFNVdNMFptelpiWDJvVzFZUV9QNWZsYl9yS3FJSHo3Q2lIZUpMTmc?oc=5"
         }
       ]
     },
