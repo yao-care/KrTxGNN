@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-22T14:45:38.029940+00:00",
-  "total_fetched": 82,
-  "unique_count": 82,
-  "health_related_count": 48,
+  "fetched_at": "2026-05-22T19:51:55.975103+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
+  "health_related_count": 44,
   "news": [
     {
       "id": "c679eaba6242",
@@ -30,18 +30,6 @@
       ]
     },
     {
-      "id": "f773e2ee3b54",
-      "title": "[이슈&논란] '조용한 팬데믹’ 성병으로 유럽 '비상' \"임질 303%·선천성 매독 2배 급증\"…MSM과 가임기 여성 '가장 위험' - 뉴스스페이스",
-      "published": "2026-05-22T11:13:24+00:00",
-      "summary": "[이슈&논란] '조용한 팬데믹’ 성병으로 유럽 '비상' \"임질 303%·선천성 매독 2배 급증\"…MSM과 가임기 여성 '가장 위험'&nbsp;&nbsp;뉴스스페이스",
-      "sources": [
-        {
-          "name": "뉴스스페이스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IX2xMNEE3WC1GNFVYbGUzZE96R3owelhCbjR1WlNmTUU2X2lacF9JZ3BkNWFVeThIWjMtaE1xQWd1RjZUaG5zcHBTYXRVaGRtcEhJMzItZXZiM2EwU3pjQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f3e1ba2a2518",
       "title": "온몸 쑤시고 잠 못 드는 40대 후반女...‘이 병’ 진단 후 치매 위험 45%↑ - 디멘시아뉴스",
       "published": "2026-05-22T09:55:13+00:00",
@@ -50,6 +38,18 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNU1sVGstRC1seFhLX2VzZXFqNzB3em9hR2RHNHRUdnhJeXJQRWpuRFYyWk5NaU1rS0x6ZzZOYXVseXBVWnJMTkloYTUzRV8xd0dQMDNiUnYyMV9yejVZRjZzN1kydHNDMDN5MFlTTS10Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1c97e1d02f1",
+      "title": "AI가 원자현미경 제어한다 … 사람 없이 나노 구조 스스로 분석 - 대학지성 In&Out",
+      "published": "2026-05-22T09:29:20+00:00",
+      "summary": "AI가 원자현미경 제어한다 … 사람 없이 나노 구조 스스로 분석&nbsp;&nbsp;대학지성 In&amp;Out고려대·하버드대, 스스로 나노 구조 진단하는 '자율 현미경' 분석&nbsp;&nbsp;뉴시스고려대학교 이정훈 교수팀, AI가 원자현미경 제어한다…‘자율 실험 플랫폼’ 가능성 제시&nbsp;&nbsp;한국강사신문“나노 물질 스스로 스캔하고 분석한다”…고려대, 세계 최초 ‘AI 융합 자율 현미경’ 청사진 제시&nbsp;&nbsp;스마트경제고려대 연구팀, AI 융합 원자힘현미경(AFM) 기술 집대성... 나노 과학의 새 지평 열다&nbsp;&nbsp;뉴스티앤티",
+      "sources": [
+        {
+          "name": "대학지성 In&Out",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zVGxwMkNMaElPajY3US1vSXcyc3FqQ3VlVl80VTdxdVJrMjdjQ1R1bTZmN3NCU0REc1JJTi02RmwxS3VsOXNiRXl3SXJOdG9XRF9aYzlYY215MHM5Qmt6V1ZvemNYRXdXSkhSdw?oc=5"
         }
       ]
     },
@@ -114,6 +114,18 @@
       ]
     },
     {
+      "id": "f269670053c7",
+      "title": "만성 B형 간염 완치시대 현실로...소화내내과 전문가들 기대 - 메디칼타임즈",
+      "published": "2026-05-22T03:01:42+00:00",
+      "summary": "만성 B형 간염 완치시대 현실로...소화내내과 전문가들 기대&nbsp;&nbsp;메디칼타임즈",
+      "sources": [
+        {
+          "name": "메디칼타임즈",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BSDhUYk9vTGZvd3c2eXRQN01CbGg5bHU1SE9wX1ZxSDdTNHpoR3htdEFxQjVmbzBSTHlRdWM5Zk95Qm9kNXBLWGdaXzc2cTFFRlBuRDU4RExRYnZNU0NXTzNqcDNVM2JrRHdYbUhhLVM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b4f91f374f77",
       "title": "“눈의 노화 되돌린다”…강남세브란스·하버드, 안구 세포 회춘 로드맵 제시 - 쿠키메디",
       "published": "2026-05-22T02:20:31+00:00",
@@ -134,6 +146,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pb2RqYWJQaUllZjJ1OVVySzVVVkk2a1hYUzNuTUxacUh1ajdWdkN3QlRIdEo1RlBjQVdKaHQ0MENaOWJOU09NN1lXdDIyZ3laMWNmc1E1d3RkNWt2ZGdpS2VtTE9mUlhvdXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f773e2ee3b54",
+      "title": "[이슈&논란] '조용한 팬데믹’ 성병으로 유럽 '비상' \"임질 303%·선천성 매독 2배 급증\"…MSM과 가임기 여성 '가장 위험' - 뉴스스페이스",
+      "published": "2026-05-22T01:12:25+00:00",
+      "summary": "[이슈&논란] '조용한 팬데믹’ 성병으로 유럽 '비상' \"임질 303%·선천성 매독 2배 급증\"…MSM과 가임기 여성 '가장 위험'&nbsp;&nbsp;뉴스스페이스",
+      "sources": [
+        {
+          "name": "뉴스스페이스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IX2xMNEE3WC1GNFVYbGUzZE96R3owelhCbjR1WlNmTUU2X2lacF9JZ3BkNWFVeThIWjMtaE1xQWd1RjZUaG5zcHBTYXRVaGRtcEhJMzItZXZiM2EwU3pjQQ?oc=5"
         }
       ]
     },
@@ -198,18 +222,6 @@
       ]
     },
     {
-      "id": "6374cf933685",
-      "title": "자간전증, 출산 뒤 끝난 줄 알았는데…심부전 위험 4배 높았다 - 코메디닷컴",
-      "published": "2026-05-21T23:23:52+00:00",
-      "summary": "자간전증, 출산 뒤 끝난 줄 알았는데…심부전 위험 4배 높았다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0zcTl4UjRlbGFLZU4tOFB0SHVoTUowbHFsQmZyaHhSVnV2c0xfVFRpZWVKcHAtS25ETHBQN0ZsNS00Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d2ee6bc052db",
       "title": "[기자수첩]가다실 NIP 숫자 효능을 넘어 '진짜 예방 효과'로\" - 의학신문",
       "published": "2026-05-21T21:00:00+00:00",
@@ -230,18 +242,6 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tZFNmeVhkb0VJbEdDdTVwX2padkdORjBQeTliU0g4S2dpaG1rQmVNaEphYUcyTXBjUkJhVzBGd3NjSjN3a1hCUlAxakNOWnBVZlRKVW9mUnZSSWE2a3lLREVIaDAxTmlTaWU0eEZUVdIBZkFVX3lxTE1OT0c4RmtBa2dhQVZVUFhfRk5uTHlrNW95MS1FLXhlV0RMbm50VjdxRlVrWWlIVHV2ZTVwaVBtYWZQUEphRUhBTFpxT0I3dTA4QkJscVBMd1R6TXl5VnJ1SUtQRkZmQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44b83e8ee2d4",
-      "title": "몸만 단련되는 게 아니다…규칙적 운동, 뇌 기능 향상과 연관 - 시애틀코리안데일리",
-      "published": "2026-05-21T16:51:01+00:00",
-      "summary": "몸만 단련되는 게 아니다…규칙적 운동, 뇌 기능 향상과 연관&nbsp;&nbsp;시애틀코리안데일리“1만보 걷기? 운동 아니다” 서울의대 교수, 치매 막는 ‘10분’&nbsp;&nbsp;중앙일보열심히 운동해도 변화 없다면? 문제는 근육 아닌 ‘뇌’&nbsp;&nbsp;헬스조선'하루 1만보 꼭 아니어도 된다?' 현대인을 위한 최소 운동, 걷기의 모든 것&nbsp;&nbsp;ppss.kr길 찾아 헤맬수록 뇌는 젊어진다?…노화 늦추는 뜻밖의 습관&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kdjJUN1Q3ZU5BdGxtM2xIUWNXT0Jad3RfR3AyRWdlQmRDMllkNEU2Z2NPcEd6YU5nSTRQakRxaFdtdS1oNi1CaEN1U3l0WVZidFAzQlZ5ZzVGMUxIaXhDYlV3ZmJlVFd0QmZxQ0dxOWc?oc=5"
         }
       ]
     },
@@ -330,26 +330,14 @@
       ]
     },
     {
-      "id": "407f50ba8860",
-      "title": "칼슘제 먹은 佛 70대 여성, 인지저하 위험 3.6배?...상반된 연구도 - 디멘시아뉴스",
-      "published": "2026-05-21T10:48:44+00:00",
-      "summary": "칼슘제 먹은 佛 70대 여성, 인지저하 위험 3.6배?...상반된 연구도&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHT0pEMW5HRUx4QXVEc0JYalFsS1lKN1BUSDJkSDhXcG95UDNyS20yRG0zb2hSdFpaRUNYd3RMcXlwX2oydktZOGpHdUY2cmZrSTg2NEUyS1lxbDRrcWJHMzU1WlZScEp6SlRnTDZLcUZyZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1edd64c11d65",
-      "title": "혈행 관리 영양제 시장, ‘은행잎·나토키나제·병풀잎추출물’ 배합 진센큐 주목 - 한국AI부동산신문",
+      "id": "e429dd2d0ecc",
+      "title": "혈행 관리 영양제 시장, ‘은행잎·나토키나제·병풀잎추출물’ 배합 진센큐 주목 - 유스연합",
       "published": "2026-05-21T09:39:14+00:00",
-      "summary": "혈행 관리 영양제 시장, ‘은행잎·나토키나제·병풀잎추출물’ 배합 진센큐 주목&nbsp;&nbsp;한국AI부동산신문“은행잎 추출물이 알츠하이머 원인물질 응집 억제”&nbsp;&nbsp;서울경제은행잎 추출물, 알츠하이머 치매물질 억제 확인&nbsp;&nbsp;헤럴드경제치매예방약 시장, '콜린' 퇴출 위기에 '은행잎 추출물' 뜨나&nbsp;&nbsp;비즈한국순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인&nbsp;&nbsp;팜뉴스",
+      "summary": "혈행 관리 영양제 시장, ‘은행잎·나토키나제·병풀잎추출물’ 배합 진센큐 주목&nbsp;&nbsp;유스연합“은행잎 추출물이 알츠하이머 원인물질 응집 억제”&nbsp;&nbsp;서울경제은행잎 추출물, 알츠하이머 치매물질 억제 확인&nbsp;&nbsp;헤럴드경제치매예방약 시장, '콜린' 퇴출 위기에 '은행잎 추출물' 뜨나&nbsp;&nbsp;비즈한국순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인&nbsp;&nbsp;팜뉴스",
       "sources": [
         {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hV0lLLUktRUlySUxyWXJUR1V0c2NpWnBTSVljSnFQNk5Oay1nbDlCSXRpeFRFZnFNMUJRN1pnNnROck5udi1xeW5PZjA?oc=5"
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oeHhnY3BOZXFBSF9XeGxWb2lJckZfQzFWZE1oUXVxVkxiSVE4QlMtUGR2WGZVX3o0bnQyWjBoNVN5WE1mQnRPTnRBR1ROa19HUnc?oc=5"
         }
       ]
     },
@@ -390,18 +378,6 @@
       ]
     },
     {
-      "id": "4be27905dedc",
-      "title": "류통기한 지난 약, 변질되지 않았다면 복용해도 된다?--건강 - 인민넷",
-      "published": "2026-05-21T07:02:00+00:00",
-      "summary": "류통기한 지난 약, 변질되지 않았다면 복용해도 된다?--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeUZGZWlXZkR0YWdlNmJ2SXZ0a1JPWVZpMElEN0NzODMzZ2VDTEtpenVKaVlwYXBhVURLWVJfTnhkVnQwQ1RGejFfLTBmbXVTSlFkSk5JSFdrSTVndG1xUERHUFNVQWM2Y0tHRERB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8b65dcba3dd9",
       "title": "같은 당뇨·고혈압이라도, 여성이 치매 더 위험 - 헬스조선",
       "published": "2026-05-21T05:10:00+00:00",
@@ -426,10 +402,22 @@
       ]
     },
     {
+      "id": "c38aa8d7fd8d",
+      "title": "요오드 과다 섭취, 갑상선 질환 위험 높여… “초음파 조기 진단 필수” - 하이닥",
+      "published": "2026-05-21T02:00:00+00:00",
+      "summary": "요오드 과다 섭취, 갑상선 질환 위험 높여… “초음파 조기 진단 필수”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBreVNDLUNCWHpOUDh3M0xObkxfUmRNUTBYS2w2T010NEpObFRUTUtwam9yY2hONExfYUctWmJUbkFLUjg5X0o3cDF4WGVNbEtlZXctMGtmQk1nWXZQQVllT3lBenR6b0lJQVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f7fdbd8367ba",
       "title": "쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다 - 헬스조선",
       "published": "2026-05-21T01:54:00+00:00",
-      "summary": "쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다&nbsp;&nbsp;헬스조선균형 잡힌 식사 어렵다면… 필수지방산 ‘오메가3’, 내 몸에 선물하세요&nbsp;&nbsp;동아일보심장마비·뇌졸중 위험 낮추려면…여성은 '이 때' 꼭 '이렇게' 해야 한다?&nbsp;&nbsp;네이트심장 건강에 좋은 음식 5가지…“협심증·심근경색 위험 낮춘다”&nbsp;&nbsp;하이닥식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다&nbsp;&nbsp;헬스조선심장마비·뇌졸중 위험 낮추려면…여성은 '이 때' 꼭 '이렇게' 해야 한다?&nbsp;&nbsp;네이트심장 건강에 좋은 음식 5가지…“협심증·심근경색 위험 낮춘다”&nbsp;&nbsp;하이닥식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn심장 건강, 운동·식단만으론 부족!&nbsp;&nbsp;마음건강 길",
       "sources": [
         {
           "name": "헬스조선",
@@ -486,18 +474,6 @@
       ]
     },
     {
-      "id": "49a66523a71b",
-      "title": "AI는 이런 사람들이 써야합니다…암세포 자폭부대 만든 이 남자 - 매일경제",
-      "published": "2026-05-20T21:57:51+00:00",
-      "summary": "AI는 이런 사람들이 써야합니다…암세포 자폭부대 만든 이 남자&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5tRmZuQ0xIX0MwclRtcDc3TGNVVHVIQUthcklBRlBCR2dqcTRhb2F1b3pNWF80VVhPc1ozVWJqQU5fUHJIck5QaVgxUDNyZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4c58c772e78a",
       "title": "\"커피보다 좋다\"... 매일 '히비스커스차' 마시면 건강해지는 이유 8 - 하이닥",
       "published": "2026-05-20T21:30:00+00:00",
@@ -534,18 +510,6 @@
       ]
     },
     {
-      "id": "5da1d2efd5fe",
-      "title": "이스라엘 연구진, 쥐 간 세포에서 SIRT6 단백질로 노화 관련 변화 80% 역전 확인 - 한국AI부동산신문",
-      "published": "2026-05-20T18:16:29+00:00",
-      "summary": "이스라엘 연구진, 쥐 간 세포에서 SIRT6 단백질로 노화 관련 변화 80% 역전 확인&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SdzJkbmNFWjdjVjBFZWpLUl9BRlF3UElTamRHT3MyR0psaVgyN2ZGYTFnNS16Z0FCOWl6N1ZGNzh0ZEZ1WVFRQ3Ytc3o?oc=5"
-        }
-      ]
-    },
-    {
       "id": "22171112b9bb",
       "title": "AI로 바이러스 닮은 단백질 구조체 설계… 약물 전달 새 가능성 - 조선비즈 - Chosunbiz",
       "published": "2026-05-20T15:00:00+00:00",
@@ -566,18 +530,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tVXg3Ny1GOEEwajUtME8ycExqUzFYenBQakhWckZGQ0JacWJqQWdibnpYUmM4dVg2QnRsRXA4aUZCakFwWlVxX0s4WTlRVlZOYVNWMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e166dd93bc10",
-      "title": "[I/O 2026] '제미나이 포 사이언스(Gemini for Science)': 새로운 발견의 시대를 위한 AI 실험 및 툴 - blog.google",
-      "published": "2026-05-19T19:36:23+00:00",
-      "summary": "[I/O 2026] '제미나이 포 사이언스(Gemini for Science)': 새로운 발견의 시대를 위한 AI 실험 및 툴&nbsp;&nbsp;blog.google",
-      "sources": [
-        {
-          "name": "blog.google",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOVkzdlVVWE1SeV8xTjRLM0pILU1yeXZ4SXhtYUZKdDQzNm8yVW5qLS1ZbWdCNTB5cXh0YXZMTHlCUVc2UzZVejVETjVXRmNtUG5pNkhwa3pJSlhJREZCalViTS05TlZNbGxxeURkMnY5MFkyelpRakFmUDRlSDM2d2hBbnFBUTlpUV9fVGJB?oc=5"
         }
       ]
     }
