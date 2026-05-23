@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-23T08:23:32.085801+00:00",
-  "total_fetched": 81,
-  "unique_count": 81,
-  "health_related_count": 45,
+  "fetched_at": "2026-05-23T13:42:18.535576+00:00",
+  "total_fetched": 79,
+  "unique_count": 79,
+  "health_related_count": 44,
   "news": [
     {
       "id": "239c7523e215",
@@ -18,14 +18,14 @@
       ]
     },
     {
-      "id": "519f66d664f3",
-      "title": "\"유산소 운동, 탈모 개선에 5배 효과\"…여름철 모발 관리법은 - 네이트",
-      "published": "2026-05-23T07:13:00+00:00",
-      "summary": "\"유산소 운동, 탈모 개선에 5배 효과\"…여름철 모발 관리법은&nbsp;&nbsp;네이트",
+      "id": "b7edb4698315",
+      "title": "\"유산소 운동, 탈모 개선에 5배 효과\"…여름철 모발 관리법은 - 세계일보",
+      "published": "2026-05-23T07:12:44+00:00",
+      "summary": "\"유산소 운동, 탈모 개선에 5배 효과\"…여름철 모발 관리법은&nbsp;&nbsp;세계일보",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OTUlET0xPV1hFejIzM2Fsai03ZUZZZk5zeDF3SkpsengzanZMSUhaaXQyWTZNVlk5SGllazB2dzVDc3dFNzlwRzhjUm8tUzUwbDg3eTVWc21qUmJxRWdBWg?oc=5"
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1VE1hV0VES1BCSTljSmVtX3RWMU9KZTh6MmF1TmFnVHJHM0w1TGI2WjRoeXdQN1FVQ05CM29xZkpBWlA3YTQ4eDMwNDVYS2tlRE1yWko2NnfSAVRBVV95cUxQbHFxejdQa2VybjdsS2NQbHdMb0xNZEJiV0dUc0RfLUdFWEJaOExtRXFTUnMxUHBreEtfQWtQekY4MHN3QVdwaHlCemxVVHhCdmFQNDA?oc=5"
         }
       ]
     },
@@ -38,6 +38,18 @@
         {
           "name": "캐어유 뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JYTktR0FqWUVERTh6UHFHTFFnMUhpd3d4ei1QMzhobEFRMkkyeEhyS3ZhdmFUR2ZkMTlDc1RrNUNDWTBueWhTcGVTX3VrUGJUZnM0TEdjRlRDMmpwWUVsZHlpLTdnQkpsVkJYMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ef101431c0c",
+      "title": "AI 딥러닝 'MouseMapper', 비만이 유발하는 전신 손상의 실체를 밝히다 - 유스연합",
+      "published": "2026-05-23T04:46:07+00:00",
+      "summary": "AI 딥러닝 'MouseMapper', 비만이 유발하는 전신 손상의 실체를 밝히다&nbsp;&nbsp;유스연합AI가 찾아낸 ‘부작용 없는 비만치료물질’···GLP-1 한계 넘을까&nbsp;&nbsp;더메디컬AI 모델이 비만의 알려지지 않았던 해악을 밝혀냈다.&nbsp;&nbsp;Vietnam.vnAI가 찾아낸 비만 치료 펩타이드 BRP, 동물 실험서 식욕 50% 억제…부작용 최소화 기대&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YdmpfWlhYWjR0WWFOSHFpUXpLRUZYMVFFeWJwOHdVamE4S1BDalZmSXhmQlg1cE43MmVpRVN0Q3h2VEtwalp4RkRxOENLWTlEbnc?oc=5"
         }
       ]
     },
@@ -57,7 +69,7 @@
       "id": "2cd756598ff3",
       "title": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강] - 네이트",
       "published": "2026-05-23T03:30:00+00:00",
-      "summary": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강]&nbsp;&nbsp;네이트\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니… [한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이자궁 없는 남성도 쉽게 걸린다…무섭게 퍼지는 '이 암' [엑스레이]&nbsp;&nbsp;데일리안12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑\"HPV백신 남성 대상 국가접종, 구인두암·항문암 등 예방 가능해 큰 사회적 이득\"&nbsp;&nbsp;v.daum.net",
+      "summary": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강]&nbsp;&nbsp;네이트\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니… [한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이자궁 없는 남성도 쉽게 걸린다…무섭게 퍼지는 '이 암' [엑스레이]&nbsp;&nbsp;데일리안12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑HPV 검사 받은 남성 59%에서 감염…백신으로 ‘암’ 예방은 의미 있어&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "네이트",
@@ -66,26 +78,38 @@
       ]
     },
     {
-      "id": "e046dad68b70",
-      "title": "숙주 유전적 공간 구조가 바이러스 진화 방향 결정한다—범용성 바이러스 출현 억제 메커니즘 규명 - 한국AI부동산신문",
-      "published": "2026-05-23T02:23:00+00:00",
-      "summary": "숙주 유전적 공간 구조가 바이러스 진화 방향 결정한다—범용성 바이러스 출현 억제 메커니즘 규명&nbsp;&nbsp;한국AI부동산신문",
+      "id": "5c8c35d3f008",
+      "title": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수 - 유스연합",
+      "published": "2026-05-23T02:19:20+00:00",
+      "summary": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수&nbsp;&nbsp;유스연합",
       "sources": [
         {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EZ3NhQlpaRGtXZ2FBZ1JnWWlfckJvZnA1SjZTdk5qZDBWZWMtVDF0U29ZZ0VUUURyMXdYTndRY3hfc3FjUEFnV1c1Z1c?oc=5"
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jT1NYck0xbUFCVUVoc2FNUXRGVklRa0lydk5LQkJGbkMzUVNrdHlCQjdiYU1sZ1VEdVNwVmlxRlNFQXdHdnpxN0lTRkFZczljd1E?oc=5"
         }
       ]
     },
     {
-      "id": "e27d9f4e641c",
-      "title": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수 - 한국공공정책신문",
-      "published": "2026-05-23T02:19:20+00:00",
-      "summary": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수&nbsp;&nbsp;한국공공정책신문",
+      "id": "d80f72bdd8bc",
+      "title": "숙주 유전적 공간 구조가 바이러스 진화 방향 결정한다—범용성 바이러스 출현 억제 메커니즘 규명 - 브랜드경제신문",
+      "published": "2026-05-23T02:00:51+00:00",
+      "summary": "숙주 유전적 공간 구조가 바이러스 진화 방향 결정한다—범용성 바이러스 출현 억제 메커니즘 규명&nbsp;&nbsp;브랜드경제신문",
       "sources": [
         {
-          "name": "한국공공정책신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Idk9vaDQ3S2pNeXluaE1iaUpxWmp3Y3NJZDBRc2x1bElkaFBOaF83RzJSaXh0bkFTR2xtS1U0NDZkTEk?oc=5"
+          "name": "브랜드경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1NXNPcE5fT3g2QTR0M1NqaTBGX3lJd0VyekE2SDBFaWczOVN4RjMyNXcxY0hXbG9qakhmeVQzczVUYU1mV0pEcm1mVFg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a697ecd72742",
+      "title": "중세 화장실서 800년 전 노트 발견…냄새나는 이 물건 정체는 - 지디넷코리아",
+      "published": "2026-05-23T01:01:27+00:00",
+      "summary": "중세 화장실서 800년 전 노트 발견…냄새나는 이 물건 정체는&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uSDBmeVdjYUx1TlZiNUVXdEktZ1daeURQNXlMaGt2QUhFZ0YzclQ0VXFBODlVNzg0U3FjVTdZTGxNM3J1WVYwbGMwdV9GaGdtMmxIM21n?oc=5"
         }
       ]
     },
@@ -126,6 +150,18 @@
       ]
     },
     {
+      "id": "7ef990305514",
+      "title": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈 - Chosunbiz",
+      "published": "2026-05-22T21:35:00+00:00",
+      "summary": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXdRcl9sWGZFclA0TmNEN1cyYm4xS3h1Qk1BUjFfTjlUd1RWXzRaZm8wTnFfWWM4amU2d3o2NUZiNThBY0ZINU1SN3pVTzJNWmNQQUpTZ2RNWW5nR21ISHJWOGw5SUpXeUYxMXZDYzEteG9falVRY1p5Wi0zY2JvMnd4WDcyYVczYjMybXNhMERkcWwzdlpN0gGrAUFVX3lxTFBRcFBnZGdjTHBSaVlzeXFabGFDMDRwZEFYeFlHc3pfRl9CX3lwRHFXa1J5TTlDRnRYYlpnYTRBS21VUlVSdm10TC1oWlRLWlBpU1JoeFZpWlpOel9CRGFtR016LUlFZHMxb3AxRW5xalg4OWRPSFJlcU1za3lqbWpvY2NwM0VxNEZwMlNfREEtVHJQVkY5VV9iekxJNzhMbU9LUkFEOWt5RUhLcw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "65d728a56d7f",
       "title": "\"1년 넘게 등 가렵고 발진…\" 40대 남성, 피부에서 발견된 건? - 코메디닷컴",
       "published": "2026-05-22T21:09:00+00:00",
@@ -134,18 +170,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pRXo1c3FkU1c4eE1IY0NFYjBSd3ZjY0xzX2YwS2xySDJYQW01VUQ2ZUF1d1ZjNWpTbHFsNGtTdHpSdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ef990305514",
-      "title": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈 - Chosunbiz",
-      "published": "2026-05-22T21:02:39+00:00",
-      "summary": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXdRcl9sWGZFclA0TmNEN1cyYm4xS3h1Qk1BUjFfTjlUd1RWXzRaZm8wTnFfWWM4amU2d3o2NUZiNThBY0ZINU1SN3pVTzJNWmNQQUpTZ2RNWW5nR21ISHJWOGw5SUpXeUYxMXZDYzEteG9falVRY1p5Wi0zY2JvMnd4WDcyYVczYjMybXNhMERkcWwzdlpN0gGrAUFVX3lxTFBRcFBnZGdjTHBSaVlzeXFabGFDMDRwZEFYeFlHc3pfRl9CX3lwRHFXa1J5TTlDRnRYYlpnYTRBS21VUlVSdm10TC1oWlRLWlBpU1JoeFZpWlpOel9CRGFtR016LUlFZHMxb3AxRW5xalg4OWRPSFJlcU1za3lqbWpvY2NwM0VxNEZwMlNfREEtVHJQVkY5VV9iekxJNzhMbU9LUkFEOWt5RUhLcw?oc=5"
         }
       ]
     },
@@ -165,7 +189,7 @@
       "id": "27cc99e3e5c0",
       "title": "\"노년의 생명선\"…어떤 부위 근육이 가장 중요할까 - 약사공론",
       "published": "2026-05-22T20:49:00+00:00",
-      "summary": "\"노년의 생명선\"…어떤 부위 근육이 가장 중요할까&nbsp;&nbsp;약사공론40대 넘어서 처음 운동 시작한 남자들이 후회하는 것 6&nbsp;&nbsp;GQ Korea“35세부터 꺾인다” 근거 있었다…늦게 움직여도 달라진 ‘체력 10%’&nbsp;&nbsp;v.daum.net오래 살수록 ‘근육량’보다 중요한 건 근력이다 [박민선의 건강톡톡]&nbsp;&nbsp;시사저널나이 들수록 줄어드는 근육, 방치하면 일상 붕괴&nbsp;&nbsp;보건신문",
+      "summary": "\"노년의 생명선\"…어떤 부위 근육이 가장 중요할까&nbsp;&nbsp;약사공론40대 넘어서 처음 운동 시작한 남자들이 후회하는 것 6&nbsp;&nbsp;GQ Korea“35세부터 꺾인다” 근거 있었다…늦게 움직여도 달라진 ‘체력 10%’&nbsp;&nbsp;v.daum.net오래 살수록 ‘근육량’보다 중요한 건 근력이다 [박민선의 건강톡톡]&nbsp;&nbsp;시사저널40세 이후부터는 몸에서 이 물질이 '감소'하기 시작하여 노년기에 골절이나 낙상 위험이 높아집니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "약사공론",
@@ -234,6 +258,18 @@
       ]
     },
     {
+      "id": "54f8e073dae5",
+      "title": "보건장관 “자카르타 거주 외국인 한타바이러스 통제 중” - Haninpost",
+      "published": "2026-05-22T07:56:04+00:00",
+      "summary": "보건장관 “자카르타 거주 외국인 한타바이러스 통제 중”&nbsp;&nbsp;Haninpost자카르타 보건국, 한타바이러스 확진 3명·의심 6명 발생… 방역 ‘비상’&nbsp;&nbsp;Haninpost쥐 똥을 쉽게 청소하지 말 것을 WHO는 햄타 바이러스를 유발할 수 있음을 경고합니다.&nbsp;&nbsp;VOI.id인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가&nbsp;&nbsp;인니투데이마스달리나 판 교수 : 한타 바이러스의 위험은 낮은 대유행이지만 여전히주의해야합니다.&nbsp;&nbsp;VOI.id",
+      "sources": [
+        {
+          "name": "Haninpost",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oUEtFakdGLW1zV0xSS0JMUDNjZXBXZm9ocEpPSXBCWVpyMHNEQzJMM2s4OTVaeFVvTm9QelotRi1PU0N4RFZuZ3RsOWpMUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2bce46fe8f0e",
       "title": "“두개골 열지 않고 뇌 수술”…‘눈 구멍’ 통해 뇌동맥류 치료, 英 첫 성공 - 코메디닷컴",
       "published": "2026-05-22T07:07:00+00:00",
@@ -254,6 +290,18 @@
         {
           "name": "농민신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyNkp3eUMtbkxhVUYzX0tjUURKdmF3eWNwWUtqd1pFaHdmRndHZ01NRTN4elN2Z1dtN0dHVDVrLWxsb2lkYURJV2k2cmhvNzNWancxSlFhck1yUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03dcb0232b0d",
+      "title": "암은 왜 우리 몸을 속이는가, 170만 년 전부터 이어진 질병의 진짜 얼굴 - 뉴스N연합",
+      "published": "2026-05-22T05:57:40+00:00",
+      "summary": "암은 왜 우리 몸을 속이는가, 170만 년 전부터 이어진 질병의 진짜 얼굴&nbsp;&nbsp;뉴스N연합",
+      "sources": [
+        {
+          "name": "뉴스N연합",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwa0laaXJhbXRNbFV5RThoQ0FjVC11ckxCQXA0MUJfdXJHUUNBa2FyMUo2endHTHVvSWtTUmI3VUMzZ3NEYmh2RWxR?oc=5"
         }
       ]
     },
@@ -282,14 +330,14 @@
       ]
     },
     {
-      "id": "b4f91f374f77",
+      "id": "ce61d259723b",
       "title": "“눈의 노화 되돌린다”…강남세브란스·하버드, 안구 세포 회춘 로드맵 제시 - 쿠키메디",
       "published": "2026-05-22T02:20:31+00:00",
       "summary": "“눈의 노화 되돌린다”…강남세브란스·하버드, 안구 세포 회춘 로드맵 제시&nbsp;&nbsp;쿠키메디피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈&nbsp;&nbsp;Chosunbiz늙은 눈 세포, 젊게 되돌린다…녹내장·황반변성 치료 새 길 열리나&nbsp;&nbsp;v.daum.net\"눈의 노화 되돌린다\"…강남세브란스·하버드, 안구 세포 회춘 로드맵 제시&nbsp;&nbsp;네이트\"눈 나이, 젊게 되돌린다\"…녹내장 새 치료법 제시&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "쿠키메디",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GSllwSXVUM1l6NnlrR21IamFSY1M1R0FkUW1LWHFRaF9pODd6QjItTVVnUFFxOFVaQ0EwNmhMblJJUEJoZUVkN3plY2t6VFF2cWhvU0xmMXIzNC12T0hFMnNyMA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84VWsybDZXcm52NkozSTZJOFZkbV9FR1liVWpNUUJZNWJGanp4YXByYVdGZnFjdVl4ZGtRVVZmZnNDbWRna1ZZd1VkY3Y0dDE0azFxUnA0ZkFPV0xEeU10ZVZxRQ?oc=5"
         }
       ]
     },
@@ -390,18 +438,6 @@
       ]
     },
     {
-      "id": "6374cf933685",
-      "title": "자간전증, 출산 뒤 끝난 줄 알았는데…심부전 위험 4배 높았다 - 코메디닷컴",
-      "published": "2026-05-21T23:23:52+00:00",
-      "summary": "자간전증, 출산 뒤 끝난 줄 알았는데…심부전 위험 4배 높았다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0zcTl4UjRlbGFLZU4tOFB0SHVoTUowbHFsQmZyaHhSVnV2c0xfVFRpZWVKcHAtS25ETHBQN0ZsNS00Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b9f208fb9359",
       "title": "아플 때는 늦다, ‘침묵의 암’ 간암 예방법은? - 이투데이",
       "published": "2026-05-21T21:00:00+00:00",
@@ -474,54 +510,6 @@
       ]
     },
     {
-      "id": "c99772372332",
-      "title": "\"아침에 '이렇게' 먹으면 암 막을 수 있다\"…의사가 추천한 식단, 뭐길래? [헬시타임] - 네이트",
-      "published": "2026-05-21T12:57:00+00:00",
-      "summary": "\"아침에 '이렇게' 먹으면 암 막을 수 있다\"…의사가 추천한 식단, 뭐길래? [헬시타임]&nbsp;&nbsp;네이트“암 막는 아침식사”… 계란·두부에 ‘이것’ 넣으면 완벽&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsQmw4ZUpyMnV1QXNIaU4zejZ4S0dkOTJaX1FiQkJPbklXclo2T1V4MlNhRmhZZklKbHBraGd4Y3VEMUFwdGRRc1NjX3BIMlFzSFpz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ef2c52dd6b8",
-      "title": "“26세에 음경 10cm 절제”…젊어서 암 아닌 귀두염이랬는데 결국 암, 무슨 일? - 코메디닷컴",
-      "published": "2026-05-21T11:06:00+00:00",
-      "summary": "“26세에 음경 10cm 절제”…젊어서 암 아닌 귀두염이랬는데 결국 암, 무슨 일?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyaFYtamJhQkZGa240UC04cUIwYTRWRTZnUDdQRlhqSGpvd0EtNkRKSjk0MmR1U0xhdUZGR0Y2STJuZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46362627d398",
-      "title": "\"인공 아니라 안전하다?\"…'천연 식용색소'도 질병 위험과 연관 가능성 - 네이트",
-      "published": "2026-05-21T09:30:00+00:00",
-      "summary": "\"인공 아니라 안전하다?\"…'천연 식용색소'도 질병 위험과 연관 가능성&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1TzVubnBTUDlMUFhuczNXb1hvQWx4LV8xU3pGWFRrT2FSYVJjajQ4YXVHaXNfcEZaSTlfT29pN2ducEJPcm01UVBVSE9QcnQ4M0Uw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37376dcb6de5",
-      "title": "심장마비·뇌졸중 위험 낮추려면…여성은 ‘이 때’ 꼭 ‘이렇게’ 해야 한다? - 코메디닷컴",
-      "published": "2026-05-21T09:01:00+00:00",
-      "summary": "심장마비·뇌졸중 위험 낮추려면…여성은 ‘이 때’ 꼭 ‘이렇게’ 해야 한다?&nbsp;&nbsp;코메디닷컴쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다&nbsp;&nbsp;헬스조선심장마비·뇌졸중 위험 낮추려면…여성은 '이 때' 꼭 '이렇게' 해야 한다?&nbsp;&nbsp;네이트식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn심장 건강, 운동·식단만으론 부족!&nbsp;&nbsp;마음건강 길",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6cVFIeGo2YVdRUFB6VXRETVJOY3E5eV9GVjhtS3E5MTlSUEExMl9Mdi1jQng3eE1IUlRwREtMdi1rQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "36f7c67d6b86",
       "title": "석학들, K바이오에 ‘속도’ 주문...“연구 인상적이지만 임상까지 너무 길어” - 매일경제",
       "published": "2026-05-21T06:56:42+00:00",
@@ -534,14 +522,14 @@
       ]
     },
     {
-      "id": "22171112b9bb",
-      "title": "AI로 바이러스 닮은 단백질 구조체 설계… 약물 전달 새 가능성 - 조선비즈 - Chosunbiz",
-      "published": "2026-05-20T15:00:00+00:00",
-      "summary": "AI로 바이러스 닮은 단백질 구조체 설계… 약물 전달 새 가능성 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "id": "4669312f460b",
+      "title": "인공 단백질로 ‘바이러스급 대형 구조’ 구현…국내 연구진 네이처 게재 - 한겨레",
+      "published": "2026-05-20T15:46:00+00:00",
+      "summary": "인공 단백질로 ‘바이러스급 대형 구조’ 구현…국내 연구진 네이처 게재&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNck1OLVdvd2ZFMnhSSkdOUGtKbW1ENllPb0k1N2l6Z3hIY29rNlhZVGRBa2JVZjF2QjdwUW5xZzh6S0RueUIyNDRobFBMcVZPRlVZU2FTanV1QXdFVkZ6NEIwaC12Z2NMTWtMbzlmbjZjVzg1dndERFNsRlFUajk1bFZydU85VHZtdUxfYtIBoAFBVV95cUxNSXZzeXM2bWJDdEE2WW5vX2RTemh1WWlDb3ZOeUFhZTdGYmFHZko2TVRKZWdjeVlEaTNmUXMwMFQ3cFBtd0dqRW1KcXJscGgxdFlWV3NUell4R3A0LS1uSnl6T0FYd0lhUmVDVHd3eWpIbzB0eW9yV0ZFbmN0YkRZUzIwd0lxTzRvdGFuaF9sR1dQZkZTZFdpUTd3WmNxLXRl?oc=5"
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45cGlZYk0xNlYwcm5DRGZrSHU2dExBd1dwUVJtUUs4bEZQOVJpVk5VV0Q1aDU4TGlGbnpqMWFIUVhSek1VVzB5ZFlVdzNJUXJnZXFyX1IyUWtkR2VtYUpwSlNUMmRzT3ZSSVh3czVPMHhZUQ?oc=5"
         }
       ]
     }
