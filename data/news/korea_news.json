@@ -1,31 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-23T03:35:15.283431+00:00",
-  "total_fetched": 84,
-  "unique_count": 84,
-  "health_related_count": 44,
+  "fetched_at": "2026-05-23T08:23:32.085801+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
+  "health_related_count": 45,
   "news": [
     {
-      "id": "5c8c35d3f008",
-      "title": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수 - 유스연합",
-      "published": "2026-05-23T02:19:20+00:00",
-      "summary": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수&nbsp;&nbsp;유스연합",
+      "id": "239c7523e215",
+      "title": "3년간 비건 식단만 먹었다가…“비타민 결핍” 20대 여성, 불안·망상 증상에 극단적 선택 - 전자신문",
+      "published": "2026-05-23T07:30:00+00:00",
+      "summary": "3년간 비건 식단만 먹었다가…“비타민 결핍” 20대 여성, 불안·망상 증상에 극단적 선택&nbsp;&nbsp;전자신문",
       "sources": [
         {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jT1NYck0xbUFCVUVoc2FNUXRGVklRa0lydk5LQkJGbkMzUVNrdHlCQjdiYU1sZ1VEdVNwVmlxRlNFQXdHdnpxN0lTRkFZczljd1E?oc=5"
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nSERmUjNDazVTbjZHR3pqb0swcGtVclpnTWoyRmlFeEw0azltN1plOThPZnBrU1ZSZWFHSk9qd3dIY3dUNHVuZEU3THdSdw?oc=5"
         }
       ]
     },
     {
-      "id": "b42d898f0ced",
-      "title": "숙주 유전적 공간 구조가 바이러스 진화 방향 결정한다—범용성 바이러스 출현 억제 메커니즘 규명 - 뉴스N연합",
-      "published": "2026-05-23T02:16:42+00:00",
-      "summary": "숙주 유전적 공간 구조가 바이러스 진화 방향 결정한다—범용성 바이러스 출현 억제 메커니즘 규명&nbsp;&nbsp;뉴스N연합",
+      "id": "519f66d664f3",
+      "title": "\"유산소 운동, 탈모 개선에 5배 효과\"…여름철 모발 관리법은 - 네이트",
+      "published": "2026-05-23T07:13:00+00:00",
+      "summary": "\"유산소 운동, 탈모 개선에 5배 효과\"…여름철 모발 관리법은&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9MT0NvbGNzT1NpTElJbXVLeVcwckQ2amFtNHNCSmhhdGJ3ajBKMDMtdmU3S1NFT3c2X25XcWdVYlFRei1CbWtuRWVB?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OTUlET0xPV1hFejIzM2Fsai03ZUZZZk5zeDF3SkpsengzanZMSUhaaXQyWTZNVlk5SGllazB2dzVDc3dFNzlwRzhjUm8tUzUwbDg3eTVWc21qUmJxRWdBWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "77fa7b88916c",
+      "title": "기존 항우울제 듣지 않던 우울증, 관절염 치료제가 새 길을 열다 - 캐어유 뉴스",
+      "published": "2026-05-23T05:00:00+00:00",
+      "summary": "기존 항우울제 듣지 않던 우울증, 관절염 치료제가 새 길을 열다&nbsp;&nbsp;캐어유 뉴스",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JYTktR0FqWUVERTh6UHFHTFFnMUhpd3d4ei1QMzhobEFRMkkyeEhyS3ZhdmFUR2ZkMTlDc1RrNUNDWTBueWhTcGVTX3VrUGJUZnM0TEdjRlRDMmpwWUVsZHlpLTdnQkpsVkJYMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a8f62a04cf1e",
+      "title": "혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유 - 한국AI부동산신문",
+      "published": "2026-05-23T04:02:59+00:00",
+      "summary": "혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유&nbsp;&nbsp;한국AI부동산신문뇌기능개선제 시장 재편…은행잎 추출물, 베타아밀로이드 축적 억제 주목&nbsp;&nbsp;쿠키뉴스치매예방약 시장, '콜린' 퇴출 위기에 '은행잎 추출물' 뜨나&nbsp;&nbsp;비즈한국고용량 은행잎추출물, 치매 원인물질 억제 가능&nbsp;&nbsp;헬스경향알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XTGZoaDR1eE0tanQxSFhLWFd5d1Y1RUxhcVkzMlU2TnQ3R1RXUDRLSVJkcjJCUXdjbW1KTVZoOWF6SUQ2bmVuX1BnaTU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2cd756598ff3",
+      "title": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강] - 네이트",
+      "published": "2026-05-23T03:30:00+00:00",
+      "summary": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강]&nbsp;&nbsp;네이트\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니… [한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이자궁 없는 남성도 쉽게 걸린다…무섭게 퍼지는 '이 암' [엑스레이]&nbsp;&nbsp;데일리안12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑\"HPV백신 남성 대상 국가접종, 구인두암·항문암 등 예방 가능해 큰 사회적 이득\"&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Nb0JzTTZWNTlfYlVMX3dMaURjMHR4ajE5UVB3RVVTZkFFV29oSHRxNjVuWm10WHhZd3JiZlY2MzN4WTk2cVU3ZDZCWUhqRWwxOFBLMWplclJZU2Y1eG5CQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e046dad68b70",
+      "title": "숙주 유전적 공간 구조가 바이러스 진화 방향 결정한다—범용성 바이러스 출현 억제 메커니즘 규명 - 한국AI부동산신문",
+      "published": "2026-05-23T02:23:00+00:00",
+      "summary": "숙주 유전적 공간 구조가 바이러스 진화 방향 결정한다—범용성 바이러스 출현 억제 메커니즘 규명&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EZ3NhQlpaRGtXZ2FBZ1JnWWlfckJvZnA1SjZTdk5qZDBWZWMtVDF0U29ZZ0VUUURyMXdYTndRY3hfc3FjUEFnV1c1Z1c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e27d9f4e641c",
+      "title": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수 - 한국공공정책신문",
+      "published": "2026-05-23T02:19:20+00:00",
+      "summary": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수&nbsp;&nbsp;한국공공정책신문",
+      "sources": [
+        {
+          "name": "한국공공정책신문",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Idk9vaDQ3S2pNeXluaE1iaUpxWmp3Y3NJZDBRc2x1bElkaFBOaF83RzJSaXh0bkFTR2xtS1U0NDZkTEk?oc=5"
         }
       ]
     },
@@ -42,10 +102,22 @@
       ]
     },
     {
+      "id": "f5750ada65a8",
+      "title": "[김연수의 식탁이야기(89)] 물 내려도 남는 소변 거품- ‘단백뇨’가 보내는 신장 경고 - 뉴스투데이",
+      "published": "2026-05-22T22:49:38+00:00",
+      "summary": "[김연수의 식탁이야기(89)] 물 내려도 남는 소변 거품- ‘단백뇨’가 보내는 신장 경고&nbsp;&nbsp;뉴스투데이\"위험 신호입니다\"…콩팥이 보내는 일상 속 신호들&nbsp;&nbsp;뉴시스\"아침마다 눈 붓고 계단 올라갈 때 숨차다면\"…신장이 보내는 경고 - 머니투데이&nbsp;&nbsp;머니투데이베링거인겔하임·유한양행 \"콩팥병, 조기 진단 중요해요\"&nbsp;&nbsp;파이낸셜뉴스잘못된 식습관으로 인해 많은 젊은이들이 투석 치료를 필요로 하게 되었습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fcFY3LVdDV0ZWUDVRczZpLTZRT0lRblNMbmg2TTdEQkMxN01OOW9aU3VMcV8tSFQ2OTAza1BCcDhPamNmSnNIRGQ2ZExnbkMtX2VaNmI4ZGhOUkRWWEE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "064441472080",
       "title": "“마음만 먹으면 가능” 치매 위험 낮추는 뜻밖의 습관, 뭘까? - 헬스조선",
       "published": "2026-05-22T22:00:00+00:00",
-      "summary": "“마음만 먹으면 가능” 치매 위험 낮추는 뜻밖의 습관, 뭘까?&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "“마음만 먹으면 가능” 치매 위험 낮추는 뜻밖의 습관, 뭘까?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -62,6 +134,18 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pRXo1c3FkU1c4eE1IY0NFYjBSd3ZjY0xzX2YwS2xySDJYQW01VUQ2ZUF1d1ZjNWpTbHFsNGtTdHpSdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ef990305514",
+      "title": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈 - Chosunbiz",
+      "published": "2026-05-22T21:02:39+00:00",
+      "summary": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXdRcl9sWGZFclA0TmNEN1cyYm4xS3h1Qk1BUjFfTjlUd1RWXzRaZm8wTnFfWWM4amU2d3o2NUZiNThBY0ZINU1SN3pVTzJNWmNQQUpTZ2RNWW5nR21ISHJWOGw5SUpXeUYxMXZDYzEteG9falVRY1p5Wi0zY2JvMnd4WDcyYVczYjMybXNhMERkcWwzdlpN0gGrAUFVX3lxTFBRcFBnZGdjTHBSaVlzeXFabGFDMDRwZEFYeFlHc3pfRl9CX3lwRHFXa1J5TTlDRnRYYlpnYTRBS21VUlVSdm10TC1oWlRLWlBpU1JoeFZpWlpOel9CRGFtR016LUlFZHMxb3AxRW5xalg4OWRPSFJlcU1za3lqbWpvY2NwM0VxNEZwMlNfREEtVHJQVkY5VV9iekxJNzhMbU9LUkFEOWt5RUhLcw?oc=5"
         }
       ]
     },
@@ -174,18 +258,6 @@
       ]
     },
     {
-      "id": "2b98b0ae5e1a",
-      "title": "당뇨병 환자를 위한 최적의 채소, 전문의가 꼽은 '브로콜리'의 효능 - 여수교차로",
-      "published": "2026-05-22T05:08:56+00:00",
-      "summary": "당뇨병 환자를 위한 최적의 채소, 전문의가 꼽은 '브로콜리'의 효능&nbsp;&nbsp;여수교차로\"몸에 좋은 줄 알고 먹었는데\"⋯당뇨 위험 높이는 채소 종류는?&nbsp;&nbsp;v.daum.net아침 공복에 블루베리+브로콜리 먹었더니…혈당, 염증에 변화가?&nbsp;&nbsp;코메디닷컴당뇨병 환자를 위한 최적의 채소…전문의가 꼽은 '브로콜리'의 효능&nbsp;&nbsp;뉴시스당뇨 환자 평생 한 가지 채소만 먹어야 한다면? ‘이것’ 추천&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "여수교차로",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TOHV2MjlnNHdqSHNoMHY3b1ZHRnZBTjVFUk5MV0dmOExWY0gzQUlGbmFDWHFPMmxBSFBZNFQyZ3JFanZZUEVjQjBXSGZ3SUR1dHo1b0NiSQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e322ecac558e",
       "title": "뇌전증으로 착각했는데, 희귀병 진단… 6개월 영아에 무슨 일이? - 헬스조선",
       "published": "2026-05-22T04:26:00+00:00",
@@ -261,7 +333,7 @@
       "id": "dbeeb4411bec",
       "title": "디엑스앤브이엑스, ‘Disease X 항바이러스 치료제’ 국책과제 협약 - 팜뉴스",
       "published": "2026-05-22T00:44:46+00:00",
-      "summary": "디엑스앤브이엑스, ‘Disease X 항바이러스 치료제’ 국책과제 협약&nbsp;&nbsp;팜뉴스디엑스앤브이엑스, 'Disease X' 대응 범용 항바이러스 치료제 개발 본격화&nbsp;&nbsp;v.daum.netDXVX, 보건복지부 국책과제 협약…범용 항바이러스 치료제 개발 착수&nbsp;&nbsp;파이낸셜뉴스디엑스앤브이엑스(Dx&amp;Vx), 보건복지부 ‘Disease X 대비 항바이러스 치료제 개발’ 최종협약 체결&nbsp;&nbsp;한국경제\"노로·한타 이어 '디지즈 X'까지\"…범용 항바이러스 플랫폼 주목&nbsp;&nbsp;매경헬스",
+      "summary": "디엑스앤브이엑스, ‘Disease X 항바이러스 치료제’ 국책과제 협약&nbsp;&nbsp;팜뉴스디엑스앤브이엑스, 'Disease X' 대응 범용 항바이러스 치료제 개발 본격화&nbsp;&nbsp;v.daum.netDXVX, 보건복지부 국책과제 협약…범용 항바이러스 치료제 개발 착수&nbsp;&nbsp;파이낸셜뉴스디엑스앤브이엑스(Dx&amp;Vx), 보건복지부 ‘Disease X 대비 항바이러스 치료제 개발’ 최종협약 체결&nbsp;&nbsp;한국경제DXVX, 보건복지부 ‘Disease X 항바이러스 치료제’ 최종 협약 체결&nbsp;&nbsp;바이오타임즈",
       "sources": [
         {
           "name": "팜뉴스",
@@ -330,18 +402,6 @@
       ]
     },
     {
-      "id": "d2ee6bc052db",
-      "title": "[기자수첩]가다실 NIP 숫자 효능을 넘어 '진짜 예방 효과'로\" - 의학신문",
-      "published": "2026-05-21T21:00:00+00:00",
-      "summary": "[기자수첩]가다실 NIP 숫자 효능을 넘어 '진짜 예방 효과'로\"&nbsp;&nbsp;의학신문12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑자궁 없는 남성도 쉽게 걸린다…무섭게 퍼지는 '이 암' [엑스레이]&nbsp;&nbsp;데일리안\"남성 청소년도 HPV 백신 접종해야\"&nbsp;&nbsp;연합뉴스HPV 검사 받은 남성 59%에서 감염…백신으로 ‘암’ 예방은 의미 있어&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9obFI0dTJsak9jdS1TbGNTSU4xU0hWLXI2dzNfcGlaQUlWVnN2MGg4VDdxcWY2Tmg3c3drSjFUbmR0VUZUMDlLQ215YXdVa09pMmwxNkhCY2Y2bGF2emc5aFp5TFI3RHJuYnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b9f208fb9359",
       "title": "아플 때는 늦다, ‘침묵의 암’ 간암 예방법은? - 이투데이",
       "published": "2026-05-21T21:00:00+00:00",
@@ -374,18 +434,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcDJSaE96LWMxaC1EclcwTHB1VHlTYmN5cElQNlRsUk41cE9HNU9NNkp2NGRWTTJrVWhIRHE1UDZ2dzdFd0lzR0YzRW1GX3hPRUVkblZfS0dQM1RpQmh6N1Ria2haVVVFZ3Y0eEhfRng1VnUzVGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "42078ffcd6c8",
-      "title": "“건강하려 채식했는데”… 우울·망상으로 숨진 20대, 왜? - 헬스조선",
-      "published": "2026-05-21T16:00:00+00:00",
-      "summary": "“건강하려 채식했는데”… 우울·망상으로 숨진 20대, 왜?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CVmJNYVFERGFzTkJyV1BWcUZVUVZZMUFKQUFSR2Z6b2NXV0R0SWpwSmdqSnEzcXhIcG5CeElSQ3pURW9RQWRyYngzb1d3SWk4SHZLRlZ3SlgyNDJZN1ZOcFA0b2czQVFDam5yVHNyMGFnMlQ3clE?oc=5"
         }
       ]
     },
@@ -465,35 +513,11 @@
       "id": "37376dcb6de5",
       "title": "심장마비·뇌졸중 위험 낮추려면…여성은 ‘이 때’ 꼭 ‘이렇게’ 해야 한다? - 코메디닷컴",
       "published": "2026-05-21T09:01:00+00:00",
-      "summary": "심장마비·뇌졸중 위험 낮추려면…여성은 ‘이 때’ 꼭 ‘이렇게’ 해야 한다?&nbsp;&nbsp;코메디닷컴쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다&nbsp;&nbsp;헬스조선심장마비·뇌졸중 위험 낮추려면…여성은 '이 때' 꼭 '이렇게' 해야 한다?&nbsp;&nbsp;네이트심장 건강에 좋은 음식 5가지…“협심증·심근경색 위험 낮춘다”&nbsp;&nbsp;하이닥식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "심장마비·뇌졸중 위험 낮추려면…여성은 ‘이 때’ 꼭 ‘이렇게’ 해야 한다?&nbsp;&nbsp;코메디닷컴쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다&nbsp;&nbsp;헬스조선심장마비·뇌졸중 위험 낮추려면…여성은 '이 때' 꼭 '이렇게' 해야 한다?&nbsp;&nbsp;네이트식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn심장 건강, 운동·식단만으론 부족!&nbsp;&nbsp;마음건강 길",
       "sources": [
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6cVFIeGo2YVdRUFB6VXRETVJOY3E5eV9GVjhtS3E5MTlSUEExMl9Mdi1jQng3eE1IUlRwREtMdi1rQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "004539b863c8",
-      "title": "항염증제 면역요법으로 중증 우울증 치료 가능성 확인 - 동아사이언스",
-      "published": "2026-05-21T08:45:00+00:00",
-      "summary": "항염증제 면역요법으로 중증 우울증 치료 가능성 확인&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ScnJXOVdfZTVTTXJhb0pZM2p4c29WUms3SFliUzdLLUZLSzJJWlFvYzgtSE5zcEFWalF3OV81WVRacXJQTEROdnNmV3A1NjAzMGRreQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54f8e073dae5",
-      "title": "보건장관 “자카르타 거주 외국인 한타바이러스 통제 중” - Haninpost",
-      "published": "2026-05-21T07:56:04+00:00",
-      "summary": "보건장관 “자카르타 거주 외국인 한타바이러스 통제 중”&nbsp;&nbsp;Haninpost자카르타 보건국, 한타바이러스 확진 3명·의심 6명 발생… 방역 ‘비상’&nbsp;&nbsp;Haninpost쥐 똥을 쉽게 청소하지 말 것을 WHO는 햄타 바이러스를 유발할 수 있음을 경고합니다.&nbsp;&nbsp;VOI.id인니 한타바이러스 확산 비상… 확진 3명·의심환자 6명 추가&nbsp;&nbsp;인니투데이마스달리나 판 교수 : 한타 바이러스의 위험은 낮은 대유행이지만 여전히주의해야합니다.&nbsp;&nbsp;VOI.id",
-      "sources": [
-        {
-          "name": "Haninpost",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oUEtFakdGLW1zV0xSS0JMUDNjZXBXZm9ocEpPSXBCWVpyMHNEQzJMM2s4OTVaeFVvTm9QelotRi1PU0N4RFZuZ3RsOWpMUQ?oc=5"
         }
       ]
     },
@@ -506,18 +530,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzZG42U0hyTUdTM1pzUzRaUzNLZURfV3BoWGtFRlNkc3U1eGpYLUYxTDRfaEROVmI1dWtlZXVjbjJ4N3NzbnB5cW1LSjlHdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8b65dcba3dd9",
-      "title": "같은 당뇨·고혈압이라도, 여성이 치매 더 위험 - 헬스조선",
-      "published": "2026-05-21T05:10:00+00:00",
-      "summary": "같은 당뇨·고혈압이라도, 여성이 치매 더 위험&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WbVRSYlVvWWFnUU5BMjZzRnYwb2JCYWxhTHo4ajJJT0YtdVlWS2prRmVRdXU4ZHVzdnZYanp0NV9EZ0cwLW8wcEZBc3FpSG1iaFFGNS1GYUk4RllVY185SS1LU2NNTWIzVkVZWktMX1lYSGhTeVE?oc=5"
         }
       ]
     },
