@@ -1,15 +1,63 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-23T19:15:40.505012+00:00",
-  "total_fetched": 77,
-  "unique_count": 75,
-  "health_related_count": 40,
+  "fetched_at": "2026-05-24T03:57:00.122749+00:00",
+  "total_fetched": 67,
+  "unique_count": 65,
+  "health_related_count": 33,
   "news": [
+    {
+      "id": "e09a5ae34103",
+      "title": "“‘세사미’ 캐릭터인줄”…해조류로 위장하는 신종 물고기 발견 - 동아일보",
+      "published": "2026-05-24T02:30:00+00:00",
+      "summary": "“‘세사미’ 캐릭터인줄”…해조류로 위장하는 신종 물고기 발견&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3Z5VkJpc25JdXZBWHFQS245TWl0QUlrOVVYYk5PMzF2TlBMMGRKTWMyMWp3UVAtcUpnelhJNHprLTJ6QkpRSzhVdlNhRG5YdUYxTG1FQlVqek4tVmVfWnYwc3ZnLTdkZm9RN2RmSHFESjjSAWZBVV95cUxNTjFuSFlsaXhfX3dCVmNUU1MyWW9IeUc1amc2Z29aQjY1Tnl4aFpzeGVCbmNsdTF6RDROQzFVU1Y5RGQxc1BUckFWbXBtRlV1RWhPZGpzN1hYZC1HRmxteUJLZXN5THc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18fdd8e51653",
+      "title": "“매일 피똥 쌀 만큼 뛰는데 날벼락”…베테랑 러너들, 건강 무너졌다 - 매일경제",
+      "published": "2026-05-24T00:42:25+00:00",
+      "summary": "“매일 피똥 쌀 만큼 뛰는데 날벼락”…베테랑 러너들, 건강 무너졌다&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IMVJjdHl6VGNYR0VjcTFsX0Z1WU1ZZHM5MEFyWHNUMW1RbVl3UkNsTk1haEJEQ0U3b3BHN0JJdHRoa0NoWDkxeEhmd3ZIZHRpeXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e621a894b9ca",
+      "title": "[표지로 읽는 과학] 세균이 만든 항바이러스 무기, 인간도 쓴다 - 동아사이언스",
+      "published": "2026-05-23T23:00:00+00:00",
+      "summary": "[표지로 읽는 과학] 세균이 만든 항바이러스 무기, 인간도 쓴다&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50UW5fTEpfTURpVlFqUDU1Yy15UFlFanZPZkxMYU5LQVp5ZmxJYms0UnV3NjFwSVgtdmRocThRczJPNDNtZnBKNVlMUG42enRjNzQ3aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5eb43c837df1",
+      "title": "“심장 지키려면 꼭 바꿔라” 햄 대신 ‘이것’ 먹으라는데… 뭘까? - 헬스조선",
+      "published": "2026-05-23T22:30:00+00:00",
+      "summary": "“심장 지키려면 꼭 바꿔라” 햄 대신 ‘이것’ 먹으라는데… 뭘까?&nbsp;&nbsp;헬스조선[SDG 3] 초가공식품, 심장질환과 조기 사망 위험 높인다&nbsp;&nbsp;SDG뉴스알레르기 없는 아이도… 초가공식품 많이 먹으면, 천식 위험 4배 높다&nbsp;&nbsp;하이닥의사들이 \"밥은 가급적 집에서 먹으라\"는 이유… 논문에 실렸다&nbsp;&nbsp;MSN초가공식품 많이 먹는 아이, 천식 위험하다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04VDZ0R3p4TTh3QUFIYWVVZFQzVnBUVDZHTjdiZmZPVHMtU3pfOEZqYXRtMDd6dWJZZ0hqVGRGMlZHVXFaMmJWRDFqRVpmOS1BT2Q1SHVld0w2eGFzNFFXZ09CbDI2V2pSUlJNOFhJSlhwbHJfRnc?oc=5"
+        }
+      ]
+    },
     {
       "id": "3ee978a10fbc",
       "title": "무릎 관절염 치료, 정형외과 의사들은 부모에게 어떤 걸 권할까 - 시사저널",
       "published": "2026-05-23T08:00:00+00:00",
-      "summary": "무릎 관절염 치료, 정형외과 의사들은 부모에게 어떤 걸 권할까&nbsp;&nbsp;시사저널[전문의 칼럼] \"중장년 무릎 뒤 쪽 아픈 오금 통증, 퇴행성 관절염 아냐?\"&nbsp;&nbsp;이데일리60대 이상 노년층의 무릎 통증 불청객 무릎관절염, 숙명 아닌 치료 대상&nbsp;&nbsp;바이오타임즈체중 증가로 악화하는 관절염, 체내 염증 다스리는 맞춤형 관리 중요&nbsp;&nbsp;비욘드포스트“수술은 마지막 선택… 퇴행성관절염, 보존치료 충분히 받아야”&nbsp;&nbsp;헬스조선",
+      "summary": "무릎 관절염 치료, 정형외과 의사들은 부모에게 어떤 걸 권할까&nbsp;&nbsp;시사저널\"관절염 통증, 대상포진·출산통보다 더 심해…칼로 찌르는 느낌\" ('대단한 도전')&nbsp;&nbsp;네이트많은 중년 남성들이 부적절한 운동 자세로 인해 조기 골관절염을 앓고 있습니다.&nbsp;&nbsp;Vietnam.vn무릎 통증, 참지 말고 확인해야…퇴행성관절염 조기 진단이 관절 수명 좌우&nbsp;&nbsp;비욘드포스트중년·노년층, 장거리 달리기 등 고강도 운동이 골관절염 위험 높인다&nbsp;&nbsp;굿모닝베트남미디어",
       "sources": [
         {
           "name": "시사저널",
@@ -26,18 +74,6 @@
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nSERmUjNDazVTbjZHR3pqb0swcGtVclpnTWoyRmlFeEw0azltN1plOThPZnBrU1ZSZWFHSk9qd3dIY3dUNHVuZEU3THdSdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7edb4698315",
-      "title": "\"유산소 운동, 탈모 개선에 5배 효과\"…여름철 모발 관리법은 - 세계일보",
-      "published": "2026-05-23T07:12:44+00:00",
-      "summary": "\"유산소 운동, 탈모 개선에 5배 효과\"…여름철 모발 관리법은&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1VE1hV0VES1BCSTljSmVtX3RWMU9KZTh6MmF1TmFnVHJHM0w1TGI2WjRoeXdQN1FVQ05CM29xZkpBWlA3YTQ4eDMwNDVYS2tlRE1yWko2NnfSAVRBVV95cUxQbHFxejdQa2VybjdsS2NQbHdMb0xNZEJiV0dUc0RfLUdFWEJaOExtRXFTUnMxUHBreEtfQWtQekY4MHN3QVdwaHlCemxVVHhCdmFQNDA?oc=5"
         }
       ]
     },
@@ -81,7 +117,7 @@
       "id": "a8f62a04cf1e",
       "title": "혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유 - 한국AI부동산신문",
       "published": "2026-05-23T04:02:59+00:00",
-      "summary": "혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유&nbsp;&nbsp;한국AI부동산신문뇌기능개선제 시장 재편…은행잎 추출물, 베타아밀로이드 축적 억제 주목&nbsp;&nbsp;쿠키뉴스치매예방약 시장, '콜린' 퇴출 위기에 '은행잎 추출물' 뜨나&nbsp;&nbsp;비즈한국고용량 은행잎추출물, 치매 원인물질 억제 가능&nbsp;&nbsp;헬스경향알츠하이머 예방하는 길 열리나···‘베타아밀로이드 응집 억제’ 물질 뭐길래&nbsp;&nbsp;v.daum.net",
+      "summary": "혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유&nbsp;&nbsp;한국AI부동산신문[한국일보] 김희진 교수, 알츠하이머 조기 치료 관련 코멘트&nbsp;&nbsp;뉴스H순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인&nbsp;&nbsp;팜뉴스뇌기능개선제 시장 재편…은행잎 추출물, 베타아밀로이드 축적 억제 주목&nbsp;&nbsp;네이트\"은행잎 추출물, '베타 아밀로이드' 개선과 인지 기능 유지 효과\"&nbsp;&nbsp;히트뉴스",
       "sources": [
         {
           "name": "한국AI부동산신문",
@@ -90,26 +126,38 @@
       ]
     },
     {
-      "id": "2cd756598ff3",
+      "id": "117ae1fd637a",
       "title": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강] - 네이트",
       "published": "2026-05-23T03:30:00+00:00",
-      "summary": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강]&nbsp;&nbsp;네이트\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니… [한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이자궁 없는 남성도 쉽게 걸린다…무섭게 퍼지는 '이 암' [엑스레이]&nbsp;&nbsp;데일리안12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑HPV 검사 받은 남성 59%에서 감염…백신으로 ‘암’ 예방은 의미 있어&nbsp;&nbsp;v.daum.net",
+      "summary": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강]&nbsp;&nbsp;네이트\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니… [한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이자궁 없는 남성도 쉽게 걸린다…무섭게 퍼지는 '이 암' [엑스레이]&nbsp;&nbsp;데일리안12세 남성청소년도 HPV 무료 예방접종! - 영상 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑자궁경부암 백신은 여성만?…\"남녀 모두 필요한 HPV 예방접종\"&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Nb0JzTTZWNTlfYlVMX3dMaURjMHR4ajE5UVB3RVVTZkFFV29oSHRxNjVuWm10WHhZd3JiZlY2MzN4WTk2cVU3ZDZCWUhqRWwxOFBLMWplclJZU2Y1eG5CQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzeUZZeTYwaHNpVXlLTUZEYjZFUkFRS1pORVFMRTIzOGVOaUFNRWlmbi0xci1DYUNLX1VOMzdnY3gycTJnRXlxYzVxb0FHVGttdmFV?oc=5"
         }
       ]
     },
     {
-      "id": "5c8c35d3f008",
-      "title": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수 - 유스연합",
-      "published": "2026-05-23T02:19:20+00:00",
-      "summary": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수&nbsp;&nbsp;유스연합",
+      "id": "2c0e5a39d780",
+      "title": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수 - 뉴스N연합",
+      "published": "2026-05-23T02:54:26+00:00",
+      "summary": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수&nbsp;&nbsp;뉴스N연합",
       "sources": [
         {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jT1NYck0xbUFCVUVoc2FNUXRGVklRa0lydk5LQkJGbkMzUVNrdHlCQjdiYU1sZ1VEdVNwVmlxRlNFQXdHdnpxN0lTRkFZczljd1E?oc=5"
+          "name": "뉴스N연합",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BM1ozWjRlZXZiVGE1Mk1vQ0dYYUNhbGhTS3E5el9hdXN3bW1DZ0gxbGJpYUM4VUkxNU1RY1NSNjFuRG5PSjhvUHhEeDRpY3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5219e1d3bb2f",
+      "title": "암은 왜 우리 몸을 속이는가, 170만 년 전부터 이어진 질병의 진짜 얼굴 - 한국AI부동산신문",
+      "published": "2026-05-23T02:16:59+00:00",
+      "summary": "암은 왜 우리 몸을 속이는가, 170만 년 전부터 이어진 질병의 진짜 얼굴&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XbmVScFhCbGs3NHJSQlYzaEZUa3dlZ09vX1p3WC1vcEdXWTNvMlA0dDVWY1dNU3Z5VW12QzRoUHJIeU5EcDNrMTBnd2g?oc=5"
         }
       ]
     },
@@ -141,23 +189,11 @@
       "id": "f0f2ab8f223c",
       "title": "급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수 - 이데일리",
       "published": "2026-05-22T23:04:02+00:00",
-      "summary": "급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수&nbsp;&nbsp;이데일리[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 재발하면 만성화 위험 70배&nbsp;&nbsp;메디칼트리뷴급성췌장염 한번 앓고 재발하면 만성 전환 위험 '70배' 급증&nbsp;&nbsp;의협신문급성췌장염 재발하면 만성 위험 70배…\"금연, 금주 당부\"&nbsp;&nbsp;뉴스1",
+      "summary": "급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수&nbsp;&nbsp;이데일리[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 재발하면 만성화 위험 70배&nbsp;&nbsp;메디칼트리뷴급성췌장염 재발하면 만성 위험 70배…\"금연, 금주 당부\"&nbsp;&nbsp;뉴스1급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스",
       "sources": [
         {
           "name": "이데일리",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeE5uUE42dnEydTkwZjhzYW4zOHFzRnMzY2VyXzEybjZ1VldvTVJBMGZzOWhlaFMxb2dhZXQwNkpTN0hlUUpfbV9oV0FMLXhjbmVndkc4LUpBNlo4cTU4dEZPci05aWpYYXRsYksxdUhkclJZaTBjcDBRR0xGUDlWag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5750ada65a8",
-      "title": "[김연수의 식탁이야기(89)] 물 내려도 남는 소변 거품- ‘단백뇨’가 보내는 신장 경고 - 뉴스투데이",
-      "published": "2026-05-22T22:49:38+00:00",
-      "summary": "[김연수의 식탁이야기(89)] 물 내려도 남는 소변 거품- ‘단백뇨’가 보내는 신장 경고&nbsp;&nbsp;뉴스투데이\"위험 신호입니다\"…콩팥이 보내는 일상 속 신호들&nbsp;&nbsp;뉴시스\"아침마다 눈 붓고 계단 올라갈 때 숨차다면\"…신장이 보내는 경고 - 머니투데이&nbsp;&nbsp;머니투데이베링거인겔하임·유한양행 \"콩팥병, 조기 진단 중요해요\"&nbsp;&nbsp;파이낸셜뉴스잘못된 식습관으로 인해 많은 젊은이들이 투석 치료를 필요로 하게 되었습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fcFY3LVdDV0ZWUDVRczZpLTZRT0lRblNMbmg2TTdEQkMxN01OOW9aU3VMcV8tSFQ2OTAza1BCcDhPamNmSnNIRGQ2ZExnbkMtX2VaNmI4ZGhOUkRWWEE?oc=5"
         }
       ]
     },
@@ -186,14 +222,14 @@
       ]
     },
     {
-      "id": "0227be390607",
-      "title": "\"1년 넘게 등 가렵고 발진…\" 40대 남성, 피부에서 발견된 건? - 네이트",
-      "published": "2026-05-22T21:10:00+00:00",
-      "summary": "\"1년 넘게 등 가렵고 발진…\" 40대 남성, 피부에서 발견된 건?&nbsp;&nbsp;네이트",
+      "id": "65d728a56d7f",
+      "title": "\"1년 넘게 등 가렵고 발진…\" 40대 남성, 피부에서 발견된 건? - 코메디닷컴",
+      "published": "2026-05-22T21:09:00+00:00",
+      "summary": "\"1년 넘게 등 가렵고 발진…\" 40대 남성, 피부에서 발견된 건?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Xekd6UXRocUNJNFBxMDBNbnplNjAtUGFNeXdYd09IaGh5QkNwd3dtVVVNU3gxemU4QmVTSTJ5NFl4UGlTX3hGdmg4clRKMW9PSHBV?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pRXo1c3FkU1c4eE1IY0NFYjBSd3ZjY0xzX2YwS2xySDJYQW01VUQ2ZUF1d1ZjNWpTbHFsNGtTdHpSdw?oc=5"
         }
       ]
     },
@@ -306,18 +342,6 @@
       ]
     },
     {
-      "id": "03dcb0232b0d",
-      "title": "암은 왜 우리 몸을 속이는가, 170만 년 전부터 이어진 질병의 진짜 얼굴 - 뉴스N연합",
-      "published": "2026-05-22T05:57:40+00:00",
-      "summary": "암은 왜 우리 몸을 속이는가, 170만 년 전부터 이어진 질병의 진짜 얼굴&nbsp;&nbsp;뉴스N연합",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwa0laaXJhbXRNbFV5RThoQ0FjVC11ckxCQXA0MUJfdXJHUUNBa2FyMUo2endHTHVvSWtTUmI3VUMzZ3NEYmh2RWxR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e322ecac558e",
       "title": "뇌전증으로 착각했는데, 희귀병 진단… 6개월 영아에 무슨 일이? - 헬스조선",
       "published": "2026-05-22T04:26:00+00:00",
@@ -342,78 +366,6 @@
       ]
     },
     {
-      "id": "1c5b8459291c",
-      "title": "질환 치료부터 미용 시술까지, 환자 접근성을 고려한 진료 방식 - 연세에이치의원 황종호 대표원장 - 엠디저널",
-      "published": "2026-05-22T02:24:30+00:00",
-      "summary": "질환 치료부터 미용 시술까지, 환자 접근성을 고려한 진료 방식 - 연세에이치의원 황종호 대표원장&nbsp;&nbsp;엠디저널",
-      "sources": [
-        {
-          "name": "엠디저널",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GLW0zd3dwMy0xZ2ZZSk5PMXU4bmo1VUdVT3pEXzVTLTl0MzFPUFgwekxGNl9qdGFZTDRzYUdKdWo0MC1CM1l1Zm84NEFmYVFiU242OXpfdUlqZEdQTEpWanF0VzNZRC1lY3fSAW5BVV95cUxPZXIzeUNjaENhOE8tUzZSZ3pCZ2ZENkg3UFZJWk5SYnFCbFdZZFFOcnZ0R295Vml0M1lEQzY3cTBxa2U1cXN0cXFRMWx1STVXc21tWnM1SXVPdE5uakF3Z0kwTGpsMXZoUzlfRTNqQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6b0a2111932",
-      "title": "“암 유발, 혈당에도 최악”… 의사가 ‘냉장고 넣지 말라’ 경고한 음식 - 코메디닷컴",
-      "published": "2026-05-22T02:09:00+00:00",
-      "summary": "“암 유발, 혈당에도 최악”… 의사가 ‘냉장고 넣지 말라’ 경고한 음식&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nanpCTVVQV0gzRVFSRUYwZzdiWXVTRENqTW9RR0pwMlV0QzBYMXM2WGl1OWFYelRfS3JjTFFOT0hRUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8d922d76b53",
-      "title": "소득 불안정한 4050, ‘조기 치매’ 위험↑… \"보건정책 마련 필요해\" - 하이닥",
-      "published": "2026-05-22T02:00:00+00:00",
-      "summary": "소득 불안정한 4050, ‘조기 치매’ 위험↑… \"보건정책 마련 필요해\"&nbsp;&nbsp;하이닥40·50대 소득 불안정, 조기치매 위험과 연관&nbsp;&nbsp;이투데이[김길원의 헬스노트] 벼랑끝 내모는 '조기치매'…\"소득 불안정 클수록 더 위험\"&nbsp;&nbsp;연합뉴스소득 불안정할수록 ‘이 병’ 위험… 뭐지?&nbsp;&nbsp;헬스조선4050 울리는 '조기치매', 소득 불안정 클수록 더 위험하다&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pb2RqYWJQaUllZjJ1OVVySzVVVkk2a1hYUzNuTUxacUh1ajdWdkN3QlRIdEo1RlBjQVdKaHQ0MENaOWJOU09NN1lXdDIyZ3laMWNmc1E1d3RkNWt2ZGdpS2VtTE9mUlhvdXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f773e2ee3b54",
-      "title": "[이슈&논란] '조용한 팬데믹’ 성병으로 유럽 '비상' \"임질 303%·선천성 매독 2배 급증\"…MSM과 가임기 여성 '가장 위험' - 뉴스스페이스",
-      "published": "2026-05-22T01:12:25+00:00",
-      "summary": "[이슈&논란] '조용한 팬데믹’ 성병으로 유럽 '비상' \"임질 303%·선천성 매독 2배 급증\"…MSM과 가임기 여성 '가장 위험'&nbsp;&nbsp;뉴스스페이스",
-      "sources": [
-        {
-          "name": "뉴스스페이스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IX2xMNEE3WC1GNFVYbGUzZE96R3owelhCbjR1WlNmTUU2X2lacF9JZ3BkNWFVeThIWjMtaE1xQWd1RjZUaG5zcHBTYXRVaGRtcEhJMzItZXZiM2EwU3pjQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dbeeb4411bec",
-      "title": "디엑스앤브이엑스, ‘Disease X 항바이러스 치료제’ 국책과제 협약 - 팜뉴스",
-      "published": "2026-05-22T00:44:46+00:00",
-      "summary": "디엑스앤브이엑스, ‘Disease X 항바이러스 치료제’ 국책과제 협약&nbsp;&nbsp;팜뉴스디엑스앤브이엑스, 'Disease X' 대응 범용 항바이러스 치료제 개발 본격화&nbsp;&nbsp;v.daum.netDXVX, 보건복지부 국책과제 협약…범용 항바이러스 치료제 개발 착수&nbsp;&nbsp;파이낸셜뉴스디엑스앤브이엑스(Dx&amp;Vx), 보건복지부 ‘Disease X 대비 항바이러스 치료제 개발’ 최종협약 체결&nbsp;&nbsp;한국경제DXVX, 보건복지부 ‘Disease X 항바이러스 치료제’ 최종 협약 체결&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "팜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ya2VwdWhGNHgxQzlWTy15QVZjWVVTbi02WWMtNTE4Tzl1VktPSU82SHdsb2RpWlNINnNlMHRwLTZXMGV4UFhxWjB4VDYtUnB6bTRWczgzZkFWMDdKVkJ5Tzd5dUNQRnpzM3B6NQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "033ddfdf5132",
-      "title": "제론셀베인 PDRN, 재생 치료 청사진...구강부터 전 영역 케어 나서 - 뉴스투데이",
-      "published": "2026-05-22T00:40:54+00:00",
-      "summary": "제론셀베인 PDRN, 재생 치료 청사진...구강부터 전 영역 케어 나서&nbsp;&nbsp;뉴스투데이",
-      "sources": [
-        {
-          "name": "뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBORzdLZVRmcEp4d3Fqcm1TTWZZZmp5ek1XelFmYk1DY2xoaG5qbVJiM2FHUHAzbHB6bXVEQlc1Qy11TXhEeS1peWlIS0padE54VzNmdFVYZjlKZ2pBWlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c0a879a5143f",
       "title": "현성티엔씨 美법인 SuperMatics, 5개국 글로벌 연구기관과 ‘초전도체 플랫폼’ 시범운영 개시 - NBN미디어",
       "published": "2026-05-22T00:36:16+00:00",
@@ -422,42 +374,6 @@
         {
           "name": "NBN미디어",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zeXVsTkpNSHZiUE44X05lalRxQjdwaFNWSGNPWkF1RzcyT0RjSW1Mbjg1Q2taX2lvODBrSHgxam5QeUN4SEo2TmZkNG5yYzZHU09mRC16YVhkcndocnJoWmNuZmRRZ9IBakFVX3lxTE84M3ZUUVRhUFg5ZEVRWlFsYlZadU9kS1hnY05US1BPcXVtT19wT3cwTTU4aUhROGFrZUoxVnFUNnlvUnVISEpad2ViX0JibUhvTWlQOEw1dzg1TzdjREpRdnd4a3ZYSEdZcWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b3d0bed574db",
-      "title": "침 한 방울로 HIV 조기 진단…초고감도 플랫폼 개발 - YTN 사이언스",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "침 한 방울로 HIV 조기 진단…초고감도 플랫폼 개발&nbsp;&nbsp;YTN 사이언스",
-      "sources": [
-        {
-          "name": "YTN 사이언스",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3hnMUJUZkN2QTdDSDRxNmNOaXJrOGlCUk9IS2ptVGhoLTNoTmZkS2VoZ3ljNkVIbVVTU3hLT003WjNyWWY1Z0h4SHQwdXQzSmxjLUF6YWN0WkVqWW1UVVJpTjNEdC0xOU5jQlVpeUc2bWxfdzQ5d0ZKcWhqSGhRTWdFVmxTRmhZYlhfaA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5080ed4faa00",
-      "title": "크리스비타주 급여 심의 공개…객관적 입증 여부에 승인 엇갈려 - 헬스이슈앤뉴스",
-      "published": "2026-05-22T00:00:00+00:00",
-      "summary": "크리스비타주 급여 심의 공개…객관적 입증 여부에 승인 엇갈려&nbsp;&nbsp;헬스이슈앤뉴스",
-      "sources": [
-        {
-          "name": "헬스이슈앤뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mQ0V0RXMxQUFJTmVqOG9MOVNxTmhvYlM2akVPLThacWtRTkdBWlJzN3VTWU51YzUwcV96T2JodkRLTGRsTzdkYXFZMDl2bkdlMkZYcjV6OHd2NWVrbzhTMVVsZ3RXbVQ0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9f208fb9359",
-      "title": "아플 때는 늦다, ‘침묵의 암’ 간암 예방법은? - 이투데이",
-      "published": "2026-05-21T21:00:00+00:00",
-      "summary": "아플 때는 늦다, ‘침묵의 암’ 간암 예방법은?&nbsp;&nbsp;이투데이",
-      "sources": [
-        {
-          "name": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QWnJYczFQMWRmYXBURjdJbEpSRzZ4dkk1c2FlSm5QZVRwUzRDOWhPaFJQNFh3dm53V19VZ3ZDLWJlVXNhRjZJY0dYZEFMNUxadTNZVmdLYkg5dw?oc=5"
         }
       ]
     },
