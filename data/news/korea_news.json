@@ -1,19 +1,31 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-24T13:42:02.107970+00:00",
+  "fetched_at": "2026-05-24T19:21:24.277375+00:00",
   "total_fetched": 49,
   "unique_count": 48,
-  "health_related_count": 24,
+  "health_related_count": 23,
   "news": [
     {
-      "id": "87d7c3abc415",
-      "title": "인류는 왜 그토록 오랫동안 심장을 뇌라고 믿었을까 - 캐어유 뉴스",
-      "published": "2026-05-24T09:00:00+00:00",
-      "summary": "인류는 왜 그토록 오랫동안 심장을 뇌라고 믿었을까&nbsp;&nbsp;캐어유 뉴스",
+      "id": "320bb83c16e3",
+      "title": "“냉장고 넣어도 금방 세균 득실”… 화학자가 ‘강한 독성’ 경고한 ‘이 음식’ - 코메디닷컴",
+      "published": "2026-05-24T15:38:00+00:00",
+      "summary": "“냉장고 넣어도 금방 세균 득실”… 화학자가 ‘강한 독성’ 경고한 ‘이 음식’&nbsp;&nbsp;코메디닷컴“냉장고에서 당장 꺼내라”… ‘발암물질’로 돌변하는 음식 3가지&nbsp;&nbsp;헬스조선\"냉장고 넣어도 금방 세균 득실\"…화학자가 '강한 독성' 경고한 '이 음식'&nbsp;&nbsp;네이트\"냉장고 넣었다 튀기면 발암물질?\"…의사가 꼽은 주의해야 할 식재료&nbsp;&nbsp;뉴시스“암 유발, 혈당에도 최악”… 의사가 ‘냉장고 넣지 말라’ 경고한 음식&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSSzc5eWFpVHdyUmxPOVVqWl8xeHY3dm1kU01qR2k0aTJiNlNIbjFlT3BJa2hSWWc1LXpoOUhnRFBnS1JOQXJKTkZmUzlJY1VuV25IZExRTlBOYU93cWsxT2pVN1pEMkdHeC1hXw?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sU3ZTQlk1SkNabjA1LVIza0FudEI0RXNiOXNPWFJITWhrdWh0bzl1c3phcjZHd3F6U0lhcU5JaFV0Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d418917c533",
+      "title": "편견을 깨세요…\"남성도 자궁경부암 접종 필요\" - 네이트",
+      "published": "2026-05-24T11:01:00+00:00",
+      "summary": "편견을 깨세요…\"남성도 자궁경부암 접종 필요\"&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IWl9QenFkcWZiQkE1dE01S1RvRi1PeFY2Skh5TGZfbzcwQmNKaDNzRHlvcE1TUkZTSFdpcDR0N2o1SHlKeVVtaENUU0ZnVlpYWEp3?oc=5"
         }
       ]
     },
@@ -30,18 +42,6 @@
       ]
     },
     {
-      "id": "72d36f026d11",
-      "title": "\"주변에 마음 아픈 사람 너무 많아\" 기분 탓이 아니었다? - 네이트",
-      "published": "2026-05-24T08:03:00+00:00",
-      "summary": "\"주변에 마음 아픈 사람 너무 많아\" 기분 탓이 아니었다?&nbsp;&nbsp;네이트전 세계 ‘이 병’ 환자 수 12억 명인데…“치료받는 사람 고작 9%” [헬시타임]&nbsp;&nbsp;서울경제[건강포커스] 전 세계 정신질환 12억명…1990년 이후 거의 두 배 증가&nbsp;&nbsp;연합뉴스정신질환, 암·심혈관질환 제치고 전세계 장애의 주요 원인 부상&nbsp;&nbsp;뉴시스“아프니까 청춘” 팩트였네…정신질환 12억명, 청소년이 가장 위험했다&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Wmp5NlFtaFpuZkVMRUZqQUhsX0t0cVc3ckFoOWFBaWMyNU9mZnpnVmx4Zy1DaDZMS1BLcHB3R0RqR01qRjJmSHhJc3NYTEdYZnp3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e09a5ae34103",
       "title": "“‘세사미’ 캐릭터인줄”…해조류로 위장하는 신종 물고기 발견 - 동아일보",
       "published": "2026-05-24T02:30:00+00:00",
@@ -50,6 +50,18 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3Z5VkJpc25JdXZBWHFQS245TWl0QUlrOVVYYk5PMzF2TlBMMGRKTWMyMWp3UVAtcUpnelhJNHprLTJ6QkpRSzhVdlNhRG5YdUYxTG1FQlVqek4tVmVfWnYwc3ZnLTdkZm9RN2RmSHFESjjSAWZBVV95cUxNTjFuSFlsaXhfX3dCVmNUU1MyWW9IeUc1amc2Z29aQjY1Tnl4aFpzeGVCbmNsdTF6RDROQzFVU1Y5RGQxc1BUckFWbXBtRlV1RWhPZGpzN1hYZC1HRmxteUJLZXN5THc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9610bb760541",
+      "title": "슈퍼푸드 '케일'...항산화·항염·항암에 도움 - 센머니",
+      "published": "2026-05-24T01:15:00+00:00",
+      "summary": "슈퍼푸드 '케일'...항산화·항염·항암에 도움&nbsp;&nbsp;센머니",
+      "sources": [
+        {
+          "name": "센머니",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MYjg3aXJzdDQ0N3M0LVJyNHkySjEwZ3RCT1M2d0YyYmlBMGgxUzZoTGNzNTVXLWVGRGtTd25NVEp0OVhYWkltbmtLRWs0UXJ6MFhwcUJiT0lmLU1ZMmpkek5MTWtHLW1QUDhHZA?oc=5"
         }
       ]
     },
@@ -81,7 +93,7 @@
       "id": "5eb43c837df1",
       "title": "“심장 지키려면 꼭 바꿔라” 햄 대신 ‘이것’ 먹으라는데… 뭘까? - 헬스조선",
       "published": "2026-05-23T22:30:00+00:00",
-      "summary": "“심장 지키려면 꼭 바꿔라” 햄 대신 ‘이것’ 먹으라는데… 뭘까?&nbsp;&nbsp;헬스조선[SDG 3] 초가공식품, 심장질환과 조기 사망 위험 높인다&nbsp;&nbsp;SDG뉴스알레르기 없는 아이도… 초가공식품 많이 먹으면, 천식 위험 4배 높다&nbsp;&nbsp;하이닥의사들이 \"밥은 가급적 집에서 먹으라\"는 이유… 논문에 실렸다&nbsp;&nbsp;MSN초가공식품 많이 먹는 아이, 천식 위험하다&nbsp;&nbsp;헬스조선",
+      "summary": "“심장 지키려면 꼭 바꿔라” 햄 대신 ‘이것’ 먹으라는데… 뭘까?&nbsp;&nbsp;헬스조선[SDG 3] 초가공식품, 심장질환과 조기 사망 위험 높인다&nbsp;&nbsp;SDG뉴스알레르기 없는 아이도… 초가공식품 많이 먹으면, 천식 위험 4배 높다&nbsp;&nbsp;하이닥[메디컬투데이 - 쇼츠뉴스] 초가공식품 섭취와 아동 천식 발생 위험의 상관관계 연구&nbsp;&nbsp;네이트의사들이 \"밥은 가급적 집에서 먹으라\"는 이유… 논문에 실렸다&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "헬스조선",
@@ -138,18 +150,6 @@
       ]
     },
     {
-      "id": "4ef101431c0c",
-      "title": "AI 딥러닝 'MouseMapper', 비만이 유발하는 전신 손상의 실체를 밝히다 - 유스연합",
-      "published": "2026-05-23T04:46:07+00:00",
-      "summary": "AI 딥러닝 'MouseMapper', 비만이 유발하는 전신 손상의 실체를 밝히다&nbsp;&nbsp;유스연합AI가 찾아낸 ‘부작용 없는 비만치료물질’···GLP-1 한계 넘을까&nbsp;&nbsp;더메디컬AI 모델이 비만의 알려지지 않았던 해악을 밝혀냈다.&nbsp;&nbsp;Vietnam.vnAI가 찾아낸 비만 치료 펩타이드 BRP, 동물 실험서 식욕 50% 억제…부작용 최소화 기대&nbsp;&nbsp;유스연합",
-      "sources": [
-        {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YdmpfWlhYWjR0WWFOSHFpUXpLRUZYMVFFeWJwOHdVamE4S1BDalZmSXhmQlg1cE43MmVpRVN0Q3h2VEtwalp4RkRxOENLWTlEbnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8f62a04cf1e",
       "title": "혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유 - 한국AI부동산신문",
       "published": "2026-05-23T04:02:59+00:00",
@@ -162,14 +162,14 @@
       ]
     },
     {
-      "id": "117ae1fd637a",
-      "title": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강] - 네이트",
-      "published": "2026-05-23T03:30:00+00:00",
-      "summary": "\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니…[한 장으로 보는 건강]&nbsp;&nbsp;네이트편견을 깨세요…\"남성도 자궁경부암 접종 필요\"&nbsp;&nbsp;뉴시스\"어린 애만 맞는 거 아냐?\" 중년 남녀, HPV 백신 접종 득실 따져보니… [한 장으로 보는 건강] - 머니투데이&nbsp;&nbsp;머니투데이자궁 없는 남성도 쉽게 걸린다…무섭게 퍼지는 '이 암' [엑스레이]&nbsp;&nbsp;데일리안[기자수첩]가다실 NIP 숫자 효능을 넘어 '진짜 예방 효과'로\"&nbsp;&nbsp;의학신문",
+      "id": "60abdf5b5d79",
+      "title": "고려대학교 이정훈 교수팀, AI가 원자현미경 제어한다…‘자율 실험 플랫폼’ 가능성 제시 - 한국강사신문",
+      "published": "2026-05-23T03:16:00+00:00",
+      "summary": "고려대학교 이정훈 교수팀, AI가 원자현미경 제어한다…‘자율 실험 플랫폼’ 가능성 제시&nbsp;&nbsp;한국강사신문고려대·하버드대, 스스로 나노 구조 진단하는 '자율 현미경' 분석&nbsp;&nbsp;뉴시스“나노 물질 스스로 스캔하고 분석한다”…고려대, 세계 최초 ‘AI 융합 자율 현미경’ 청사진 제시&nbsp;&nbsp;스마트경제고려대, AI가 원자현미경 제어…사람 없이 나노 구조 스스로 분석&nbsp;&nbsp;뉴스프리존고려대–MGH, AI 기반 원자힘현미경 자율 바이오분석 기술 동향 제시&nbsp;&nbsp;스포트라이트유",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzeUZZeTYwaHNpVXlLTUZEYjZFUkFRS1pORVFMRTIzOGVOaUFNRWlmbi0xci1DYUNLX1VOMzdnY3gycTJnRXlxYzVxb0FHVGttdmFV?oc=5"
+          "name": "한국강사신문",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54Zm90STZVWlVyNDczTjQwX2VKYkgzTV84bEJTVDhjOGhCTTNvcEpjRWhqSkVrdHFFZzdUMlQ4UjBXZDQ0RzEtczZuU1VkdXZLRHQyb3NJb0taNmtQdE1IR00zcTJjQkN5aFRxajlFU0Q?oc=5"
         }
       ]
     },
@@ -254,18 +254,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRDlQUWd6NHgwSzVNTWltT0d2aEZSM20yUkZXX1ZiaUloNi1qRF9yV1pYTnRlSWZKQnNtRTQtOGc4LTJRMEFabWhUU3U4SkdFMFhDVFRnNUk2RHZmbW12aWw4dXUyRUhuYVo3bmpneWxBSEpJV3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c679eaba6242",
-      "title": "“아빠 안 잔다” 이 습관, 사실은 심장 건강에 위협… 이유가? - 헬스조선",
-      "published": "2026-05-22T14:30:00+00:00",
-      "summary": "“아빠 안 잔다” 이 습관, 사실은 심장 건강에 위협… 이유가?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rbE1KUmw2SjF1UXFIdjdmU25KZnE4RVp6eVhJN20tNHVIMFNUdWRNNmM0cVhxVkVLejJEeHoybTFSMm9sLXRoc3N5QzRmTm5yX0tidnhuX29ud0RQSFd5M0VMMVdySUtCQVl3MHVzMmw4YlNVcEE?oc=5"
         }
       ]
     },
