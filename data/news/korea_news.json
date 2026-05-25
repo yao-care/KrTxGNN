@@ -1,31 +1,115 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-24T19:21:24.277375+00:00",
-  "total_fetched": 49,
-  "unique_count": 48,
-  "health_related_count": 23,
+  "fetched_at": "2026-05-25T04:08:09.580860+00:00",
+  "total_fetched": 39,
+  "unique_count": 39,
+  "health_related_count": 22,
   "news": [
     {
-      "id": "320bb83c16e3",
-      "title": "“냉장고 넣어도 금방 세균 득실”… 화학자가 ‘강한 독성’ 경고한 ‘이 음식’ - 코메디닷컴",
-      "published": "2026-05-24T15:38:00+00:00",
-      "summary": "“냉장고 넣어도 금방 세균 득실”… 화학자가 ‘강한 독성’ 경고한 ‘이 음식’&nbsp;&nbsp;코메디닷컴“냉장고에서 당장 꺼내라”… ‘발암물질’로 돌변하는 음식 3가지&nbsp;&nbsp;헬스조선\"냉장고 넣어도 금방 세균 득실\"…화학자가 '강한 독성' 경고한 '이 음식'&nbsp;&nbsp;네이트\"냉장고 넣었다 튀기면 발암물질?\"…의사가 꼽은 주의해야 할 식재료&nbsp;&nbsp;뉴시스“암 유발, 혈당에도 최악”… 의사가 ‘냉장고 넣지 말라’ 경고한 음식&nbsp;&nbsp;코메디닷컴",
+      "id": "954177682709",
+      "title": "급성췌장염, 재발 시 만성 위험 70배 증가… 음주, 담석이 주원인 - 하이닥",
+      "published": "2026-05-25T03:30:00+00:00",
+      "summary": "급성췌장염, 재발 시 만성 위험 70배 증가… 음주, 담석이 주원인&nbsp;&nbsp;하이닥급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수&nbsp;&nbsp;이데일리[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 한번 앓고 재발하면 만성 전환 위험 '70배' 급증&nbsp;&nbsp;의협신문급성췌장염 재발하면 만성 위험 70배…\"금연, 금주 당부\"&nbsp;&nbsp;뉴스1",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sU3ZTQlk1SkNabjA1LVIza0FudEI0RXNiOXNPWFJITWhrdWh0bzl1c3phcjZHd3F6U0lhcU5JaFV0Zw?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zRERkbHdMMThsM0FSSHBjX05SNHBUTzBhWUxtZHJzZzdtd3VndWptXzQ3NFlpUE55QlV1ZlhjeHR6aEJLVTFqYjdZc2JHLTROWHhGNkdrUVFuaUJwRGQ4Ump3TC1QWTY4ZGc?oc=5"
         }
       ]
     },
     {
-      "id": "3d418917c533",
-      "title": "편견을 깨세요…\"남성도 자궁경부암 접종 필요\" - 네이트",
-      "published": "2026-05-24T11:01:00+00:00",
-      "summary": "편견을 깨세요…\"남성도 자궁경부암 접종 필요\"&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "b5012b08e413",
+      "title": "“왜 갑자기 고기가 먹고 싶을까?”… 장이 뇌에 보내는 ‘단백질 부족’ 신호였다 - 하이닥",
+      "published": "2026-05-25T02:30:00+00:00",
+      "summary": "“왜 갑자기 고기가 먹고 싶을까?”… 장이 뇌에 보내는 ‘단백질 부족’ 신호였다&nbsp;&nbsp;하이닥\"밥보다 고기 당기는 이유 있었네\"… 뇌 조종하는 장의 비밀, 국내 연구진이 풀었다&nbsp;&nbsp;v.daum.net우리 몸이 무엇을 먹을지 결정하는 원리는?...장과 뇌 조절 원리 규명&nbsp;&nbsp;YTN 사이언스“이 음식, 왜 하필 지금 당길까”···입맛 때문이 아니었다?&nbsp;&nbsp;경향신문단백질 부족하면… 장이 뇌에 “아미노산 먹어” 신호&nbsp;&nbsp;동아비즈니스리뷰 | DBR",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EcVJxU1Yxc2ZpM29uZE00S0doR1NBRjVXd3FqV0Z5Y2lfLS1DY0Q0ak5yU0JNRTFyRzd5ekw3SDY3MmZIYVNWUFloNHFUZ05sSWFSbmhydGpmeFRtcU4tS3ZPS3FNM0EyVlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1877e6bba3ee",
+      "title": "같은 우울증·고혈압이어도… 여성이 치매에 더 취약한 이유 - 하이닥",
+      "published": "2026-05-25T02:00:00+00:00",
+      "summary": "같은 우울증·고혈압이어도… 여성이 치매에 더 취약한 이유&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmWEFpSUYySVVjOW1rU3hZZkdmVjh1OXFqQW80N1ZUd1c4ZXZ6NWdOS0V1SkRJbnJDMmtXX1RDbWYzc21KUGVsUVRYeWJ4OVJuQ1ZEeV9yWU5mbTRPY3dXRUVmazg4NVcwalE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ce6a70171d3",
+      "title": "\"혈관 막혀 스텐트까지\"…이경규로 본 당뇨 전 단계 위험성 - 네이트",
+      "published": "2026-05-25T01:01:00+00:00",
+      "summary": "\"혈관 막혀 스텐트까지\"…이경규로 본 당뇨 전 단계 위험성&nbsp;&nbsp;네이트“혈관 막혀 스텐트까지”…이경규로 본 당뇨 전 단계 위험성&nbsp;&nbsp;v.daum.net당뇨스쿨 이혜민 한의사, 유튜브 갓경규 출연… 당뇨 관해(Remission) 설명&nbsp;&nbsp;K스피릿“먹을 수 있는 게 없다”…‘건강이상설’ 이경규, 5년째 혈당 공포 [라이프+]&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IWl9QenFkcWZiQkE1dE01S1RvRi1PeFY2Skh5TGZfbzcwQmNKaDNzRHlvcE1TUkZTSFdpcDR0N2o1SHlKeVVtaENUU0ZnVlpYWEp3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nRHdWczllRVhZeHFacWF0TmNERXg0ZjBVMU9RR0pjaDIzWHU4MDgwM2s0d211WDNjZHJJZzBuaVhRV0VWZnNMMDFSd1NMWTQ5Z3gw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3cc5bb7e6316",
+      "title": "하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰 - 하이닥",
+      "published": "2026-05-24T23:00:00+00:00",
+      "summary": "하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥잠 5분, 운동 2분, 채소 반 접시 더하니… 놀라운 변화 생겼다&nbsp;&nbsp;헬스조선운동 많이 하면 심방세동 위험?…장기적으로는 심혈관 이득 더 크다&nbsp;&nbsp;네이트매일 몇 분씩 걷는 것이 심장마비와 뇌졸중 예방에 도움이 될 수 있는지 알아보세요.&nbsp;&nbsp;Vietnam.vn심장 보호, 주 560분 운동 필요&nbsp;&nbsp;한국의약통신",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvbWlpTVBLSjNncWNnV1c1R3Jvcl9oZWg0WXMwUTB4cWZoZGdvakVHWHNTT2Zhc3JseDdLWDhZdS1Zc2tWTVBwdFJRbzNWaTRYOGw1S2tMY2JoblZPb3d2WmdDZEhyNUhCaWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57f81d375ed4",
+      "title": "‘이때’ 운동 안 해두면, 심장 건강 급격히 악화 - 헬스조선",
+      "published": "2026-05-24T22:00:00+00:00",
+      "summary": "‘이때’ 운동 안 해두면, 심장 건강 급격히 악화&nbsp;&nbsp;헬스조선식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn심장 건강, 운동·식단만으론 부족!&nbsp;&nbsp;마음건강 길심장마비·뇌졸중 위험 낮추려면…여성은 '이 때' 꼭 '이렇게' 해야 한다?&nbsp;&nbsp;네이트쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZHZsajhtTXp0dzZmY2tZVlFvdXlwZXhNSmI3UXVTSVgza2V2Uk5WRGsxTFRrNHlQNU1QSlBNNEJpRWlwbXYzTXZua2dISlNyQTJzMVhsWlp5UXZucHFyaEp0R1ZqZDNMOE1SUVRxY0JROHBNSnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03ca72d25d2b",
+      "title": "남자도 HPV 국가접종… 사회적 감염관리 확장 [건강+] - 세계일보",
+      "published": "2026-05-24T21:00:00+00:00",
+      "summary": "남자도 HPV 국가접종… 사회적 감염관리 확장 [건강+]&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RUkYzZFgza3dqMXFDdFhBT1g2elR6TURVQl85WEsyZHhIRXRINTdVczljeHZENTFOQm5UM0N5Z0pGcTdta0JXRWhYVTU1ZTd0MEEyZmVPckHSAVRBVV95cUxQX04tRWdpMUxrOGEzaE45WVFieG1vWlF4ei1QaE5OcUt2SnV0WXhWcUp4X0ViZzlBZ2x0cXBJQ2pIM3dBa1k0WUhZSzB2WXBtVHVxV3Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b7e0f92eda08",
+      "title": "은행잎추출물 기반 혈행 건강 제품 비교 기준 - 한국AI부동산신문",
+      "published": "2026-05-24T20:52:43+00:00",
+      "summary": "은행잎추출물 기반 혈행 건강 제품 비교 기준&nbsp;&nbsp;한국AI부동산신문﻿은행잎추출물 기반 혈행 건강 제품 비교 기준&nbsp;&nbsp;한국공공정책신문혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유&nbsp;&nbsp;한국AI부동산신문[한국일보] 김희진 교수, 알츠하이머 조기 치료 관련 코멘트&nbsp;&nbsp;뉴스H순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인&nbsp;&nbsp;팜뉴스",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mRERvbHFoNTkySjd6dnY5Zm9RcWNra1ZrQ3o2N1YyZm1GMF91eTZqeEFKbC1jSkswWHI2ZlJxN1gwcGJxYTEyNHl3NTc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5fc8c422e560",
+      "title": "베리 스무디에 바나나 한 개 넣으면 건강 효능 84% 사라진다 - 시애틀코리안데일리",
+      "published": "2026-05-24T18:27:43+00:00",
+      "summary": "베리 스무디에 바나나 한 개 넣으면 건강 효능 84% 사라진다&nbsp;&nbsp;시애틀코리안데일리",
+      "sources": [
+        {
+          "name": "시애틀코리안데일리",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuSDlnNDd1a0ZzT2w3czNseDVKdVAwVHR5UmpzN0pUSVpIZGNEbjg3emV0czN6NVpFT25EdFhBTFBPZ2pUa0tlbDl1RG43Yl84aTVzb1NlVmlfUnd4SldsSjNnYko3emxjZFRQbVpEeWnSAXNBVV95cUxQSHM4UjdXT1oyQ0VJTDNSaEttam5VWDNzV016NzNsYXpsZy10V1I4N1F6LWdFUlVXbGtMMGRidUpudnBxVmV0ZngtbTAxYkJJWVQzZ0JybE9PNnVBTFZwS2RtbkxRSmo0eGxGZjZacGlWNXdv?oc=5"
         }
       ]
     },
@@ -50,18 +134,6 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3Z5VkJpc25JdXZBWHFQS245TWl0QUlrOVVYYk5PMzF2TlBMMGRKTWMyMWp3UVAtcUpnelhJNHprLTJ6QkpRSzhVdlNhRG5YdUYxTG1FQlVqek4tVmVfWnYwc3ZnLTdkZm9RN2RmSHFESjjSAWZBVV95cUxNTjFuSFlsaXhfX3dCVmNUU1MyWW9IeUc1amc2Z29aQjY1Tnl4aFpzeGVCbmNsdTF6RDROQzFVU1Y5RGQxc1BUckFWbXBtRlV1RWhPZGpzN1hYZC1HRmxteUJLZXN5THc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9610bb760541",
-      "title": "슈퍼푸드 '케일'...항산화·항염·항암에 도움 - 센머니",
-      "published": "2026-05-24T01:15:00+00:00",
-      "summary": "슈퍼푸드 '케일'...항산화·항염·항암에 도움&nbsp;&nbsp;센머니",
-      "sources": [
-        {
-          "name": "센머니",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MYjg3aXJzdDQ0N3M0LVJyNHkySjEwZ3RCT1M2d0YyYmlBMGgxUzZoTGNzNTVXLWVGRGtTd25NVEp0OVhYWkltbmtLRWs0UXJ6MFhwcUJiT0lmLU1ZMmpkek5MTWtHLW1QUDhHZA?oc=5"
         }
       ]
     },
@@ -102,10 +174,22 @@
       ]
     },
     {
+      "id": "56f445ea91c3",
+      "title": "우주선도 ‘이코노미 루트’ 탄다… 달까지 더 싸게 가는 법 발견 - 조선비즈 - Chosunbiz",
+      "published": "2026-05-23T21:00:00+00:00",
+      "summary": "우주선도 ‘이코노미 루트’ 탄다… 달까지 더 싸게 가는 법 발견 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkJHSEdpb2x2NUxkMkR3X2NuSlRGaG5NMGd0UG03LXBSREdLRnhTMGxJSTVYUlN2SGtqUFEzUlJYOF90QnZHTGR4b2hOQUc4VjBvTEVFcVZ3dnMzeUc4RDZubW1RV2NTR1RCbW1fa1Rtb011WkVRMDNZQ2l2d3hiSlRzSmN2Yks0QnJ2ZdIBoAFBVV95cUxPc3VYM19OTnJ0ejV6Q0w4N3BYdHZXdWQ5VGs2SDBKNHZnbG80MGRZUVJJb0IzdS02OTZSOVpXbnlWQ2dGcVhvampGZUhWRWhIOVJpYk1iVU5NZUFMUC1ROVR6RGliV1ZoMnFJSklwVmVGR2RCY0hwZm8zVENlR3JzMk5GYVNUZGxVUFVhS3hkQjN2X09xam4yS1M3dk1UUzZu?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3ee978a10fbc",
       "title": "무릎 관절염 치료, 정형외과 의사들은 부모에게 어떤 걸 권할까 - 시사저널",
       "published": "2026-05-23T08:00:00+00:00",
-      "summary": "무릎 관절염 치료, 정형외과 의사들은 부모에게 어떤 걸 권할까&nbsp;&nbsp;시사저널\"관절염 통증, 대상포진·출산통보다 더 심해…칼로 찌르는 느낌\" ('대단한 도전')&nbsp;&nbsp;네이트많은 중년 남성들이 부적절한 운동 자세로 인해 조기 골관절염을 앓고 있습니다.&nbsp;&nbsp;Vietnam.vn무릎 통증, 참지 말고 확인해야…퇴행성관절염 조기 진단이 관절 수명 좌우&nbsp;&nbsp;비욘드포스트중년·노년층, 장거리 달리기 등 고강도 운동이 골관절염 위험 높인다&nbsp;&nbsp;굿모닝베트남미디어",
+      "summary": "무릎 관절염 치료, 정형외과 의사들은 부모에게 어떤 걸 권할까&nbsp;&nbsp;시사저널\"관절염 통증, 대상포진·출산통보다 더 심해…칼로 찌르는 느낌\" ('대단한 도전')&nbsp;&nbsp;네이트많은 중년 남성들이 부적절한 운동 자세로 인해 조기 골관절염을 앓고 있습니다.&nbsp;&nbsp;Vietnam.vn“수술은 마지막 선택… 퇴행성관절염, 보존치료 충분히 받아야”&nbsp;&nbsp;헬스조선[전문의 칼럼] \"중장년 무릎 뒤 쪽 아픈 오금 통증, 퇴행성 관절염 아냐?\"&nbsp;&nbsp;이데일리",
       "sources": [
         {
           "name": "시사저널",
@@ -114,14 +198,14 @@
       ]
     },
     {
-      "id": "239c7523e215",
+      "id": "bfed6e8009fb",
       "title": "3년간 비건 식단만 먹었다가…“비타민 결핍” 20대 여성, 불안·망상 증상에 극단적 선택 - 전자신문",
       "published": "2026-05-23T07:30:00+00:00",
       "summary": "3년간 비건 식단만 먹었다가…“비타민 결핍” 20대 여성, 불안·망상 증상에 극단적 선택&nbsp;&nbsp;전자신문",
       "sources": [
         {
           "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nSERmUjNDazVTbjZHR3pqb0swcGtVclpnTWoyRmlFeEw0azltN1plOThPZnBrU1ZSZWFHSk9qd3dIY3dUNHVuZEU3THdSdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTUxUVdGd04xcnUzWWJyc2pRQ19WbXNMdEc4V2RPeC03RHJrSWFiQXlLUUZGNDdWVWFOWi1aM3ZINTV2dlBMd0pTSURDU1E2cmJJWkp2QWtjQnZnWGlVYS1HQlBTcldDOGg4dWFCRlhOcGUwUXZ4dmVUa2RtSVl5WHVrYzlEN0Zib3FUYS1SU3dDcG1MSm9KRU1WSl9ObnpaR1FWMjgwaWI5NURYczdPTkJVQzhKRktscEVZVGhPeUZPa3d2UFZkeGNGUGQ4VmY0aVlVcUdqWQ?oc=5"
         }
       ]
     },
@@ -138,6 +222,18 @@
       ]
     },
     {
+      "id": "d0be26c263dc",
+      "title": "AI 딥러닝 'MouseMapper', 비만이 유발하는 전신 손상의 실체를 밝히다 - 뉴스N연합",
+      "published": "2026-05-23T05:27:48+00:00",
+      "summary": "AI 딥러닝 'MouseMapper', 비만이 유발하는 전신 손상의 실체를 밝히다&nbsp;&nbsp;뉴스N연합AI가 찾아낸 ‘부작용 없는 비만치료물질’···GLP-1 한계 넘을까&nbsp;&nbsp;더메디컬AI 모델이 비만의 알려지지 않았던 해악을 밝혀냈다.&nbsp;&nbsp;Vietnam.vnAI가 찾아낸 비만 치료 펩타이드 BRP, 동물 실험서 식욕 50% 억제…부작용 최소화 기대&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "뉴스N연합",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44bnQwOWt3Ung4TGRCNTZhUFRfcDM4MVZvYmxQNFZvTzlaWTVuM0dsd19iTlhXc1dpejZFbUdiMmJjbkFfZU5uNzhn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "77fa7b88916c",
       "title": "기존 항우울제 듣지 않던 우울증, 관절염 치료제가 새 길을 열다 - 캐어유 뉴스",
       "published": "2026-05-23T05:00:00+00:00",
@@ -150,22 +246,10 @@
       ]
     },
     {
-      "id": "a8f62a04cf1e",
-      "title": "혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유 - 한국AI부동산신문",
-      "published": "2026-05-23T04:02:59+00:00",
-      "summary": "혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유&nbsp;&nbsp;한국AI부동산신문[한국일보] 김희진 교수, 알츠하이머 조기 치료 관련 코멘트&nbsp;&nbsp;뉴스H순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인&nbsp;&nbsp;팜뉴스뇌기능개선제 시장 재편…은행잎 추출물, 베타아밀로이드 축적 억제 주목&nbsp;&nbsp;네이트\"은행잎 추출물, '베타 아밀로이드' 개선과 인지 기능 유지 효과\"&nbsp;&nbsp;히트뉴스",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XTGZoaDR1eE0tanQxSFhLWFd5d1Y1RUxhcVkzMlU2TnQ3R1RXUDRLSVJkcjJCUXdjbW1KTVZoOWF6SUQ2bmVuX1BnaTU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "60abdf5b5d79",
       "title": "고려대학교 이정훈 교수팀, AI가 원자현미경 제어한다…‘자율 실험 플랫폼’ 가능성 제시 - 한국강사신문",
       "published": "2026-05-23T03:16:00+00:00",
-      "summary": "고려대학교 이정훈 교수팀, AI가 원자현미경 제어한다…‘자율 실험 플랫폼’ 가능성 제시&nbsp;&nbsp;한국강사신문고려대·하버드대, 스스로 나노 구조 진단하는 '자율 현미경' 분석&nbsp;&nbsp;뉴시스“나노 물질 스스로 스캔하고 분석한다”…고려대, 세계 최초 ‘AI 융합 자율 현미경’ 청사진 제시&nbsp;&nbsp;스마트경제고려대, AI가 원자현미경 제어…사람 없이 나노 구조 스스로 분석&nbsp;&nbsp;뉴스프리존고려대–MGH, AI 기반 원자힘현미경 자율 바이오분석 기술 동향 제시&nbsp;&nbsp;스포트라이트유",
+      "summary": "고려대학교 이정훈 교수팀, AI가 원자현미경 제어한다…‘자율 실험 플랫폼’ 가능성 제시&nbsp;&nbsp;한국강사신문고려대·하버드대, 스스로 나노 구조 진단하는 '자율 현미경' 분석&nbsp;&nbsp;뉴시스“나노 물질 스스로 스캔하고 분석한다”…고려대, 세계 최초 ‘AI 융합 자율 현미경’ 청사진 제시&nbsp;&nbsp;스마트경제고려대–MGH, AI 기반 원자힘현미경 자율 바이오분석 기술 동향 제시&nbsp;&nbsp;스포트라이트유",
       "sources": [
         {
           "name": "한국강사신문",
@@ -174,110 +258,14 @@
       ]
     },
     {
-      "id": "2c0e5a39d780",
-      "title": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수 - 뉴스N연합",
-      "published": "2026-05-23T02:54:26+00:00",
-      "summary": "냉장고 없이 백신 운송 가능해진다: 유니버시티 오브 바스, 한타 바이러스 백신 개발 착수&nbsp;&nbsp;뉴스N연합",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BM1ozWjRlZXZiVGE1Mk1vQ0dYYUNhbGhTS3E5el9hdXN3bW1DZ0gxbGJpYUM4VUkxNU1RY1NSNjFuRG5PSjhvUHhEeDRpY3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5219e1d3bb2f",
-      "title": "암은 왜 우리 몸을 속이는가, 170만 년 전부터 이어진 질병의 진짜 얼굴 - 한국AI부동산신문",
-      "published": "2026-05-23T02:16:59+00:00",
-      "summary": "암은 왜 우리 몸을 속이는가, 170만 년 전부터 이어진 질병의 진짜 얼굴&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1XbmVScFhCbGs3NHJSQlYzaEZUa3dlZ09vX1p3WC1vcEdXWTNvMlA0dDVWY1dNU3Z5VW12QzRoUHJIeU5EcDNrMTBnd2g?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0f2ab8f223c",
-      "title": "급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수 - 이데일리",
-      "published": "2026-05-22T23:04:02+00:00",
-      "summary": "급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수&nbsp;&nbsp;이데일리[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 재발하면 만성화 위험 70배&nbsp;&nbsp;메디칼트리뷴급성췌장염 재발하면 만성 위험 70배…\"금연, 금주 당부\"&nbsp;&nbsp;뉴스1급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스",
-      "sources": [
-        {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeE5uUE42dnEydTkwZjhzYW4zOHFzRnMzY2VyXzEybjZ1VldvTVJBMGZzOWhlaFMxb2dhZXQwNkpTN0hlUUpfbV9oV0FMLXhjbmVndkc4LUpBNlo4cTU4dEZPci05aWpYYXRsYksxdUhkclJZaTBjcDBRR0xGUDlWag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "064441472080",
-      "title": "“마음만 먹으면 가능” 치매 위험 낮추는 뜻밖의 습관, 뭘까? - 헬스조선",
-      "published": "2026-05-22T22:00:00+00:00",
-      "summary": "“마음만 먹으면 가능” 치매 위험 낮추는 뜻밖의 습관, 뭘까?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vU2ZWMV9SeDJRZXdGMi1WQW1PMmhnekNRSmdpMUlxeGM3U1pjczZlQ2tIU09GWExsSWw3cDIxb005Qk0wZkFDa2RnUmxkXzRLak95ZFZTUmgta19ZcVgxVW91X244eXRYNjF2OWpDT2ZGZVh4MkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7ef990305514",
       "title": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈 - Chosunbiz",
       "published": "2026-05-22T21:35:00+00:00",
-      "summary": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈&nbsp;&nbsp;Chosunbiz인류가 갈구한 블로장생의 꿈…그 결말은?&nbsp;&nbsp;네이트늙은 눈 세포, 젊게 되돌린다…녹내장·황반변성 치료 새 길 열리나&nbsp;&nbsp;v.daum.net강남세브란스병원 이준원 교수, '안구 노화 역전' 청사진 제시&nbsp;&nbsp;헬스미디어뉴스[사설] ‘안구 세포 회춘’ 첫 임상 승인, 노화 정복을 향한 위대한 첫걸음&nbsp;&nbsp;헬스코리아뉴스",
+      "summary": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXdRcl9sWGZFclA0TmNEN1cyYm4xS3h1Qk1BUjFfTjlUd1RWXzRaZm8wTnFfWWM4amU2d3o2NUZiNThBY0ZINU1SN3pVTzJNWmNQQUpTZ2RNWW5nR21ISHJWOGw5SUpXeUYxMXZDYzEteG9falVRY1p5Wi0zY2JvMnd4WDcyYVczYjMybXNhMERkcWwzdlpN0gGrAUFVX3lxTFBRcFBnZGdjTHBSaVlzeXFabGFDMDRwZEFYeFlHc3pfRl9CX3lwRHFXa1J5TTlDRnRYYlpnYTRBS21VUlVSdm10TC1oWlRLWlBpU1JoeFZpWlpOel9CRGFtR016LUlFZHMxb3AxRW5xalg4OWRPSFJlcU1za3lqbWpvY2NwM0VxNEZwMlNfREEtVHJQVkY5VV9iekxJNzhMbU9LUkFEOWt5RUhLcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "65d728a56d7f",
-      "title": "\"1년 넘게 등 가렵고 발진…\" 40대 남성, 피부에서 발견된 건? - 코메디닷컴",
-      "published": "2026-05-22T21:09:00+00:00",
-      "summary": "\"1년 넘게 등 가렵고 발진…\" 40대 남성, 피부에서 발견된 건?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pRXo1c3FkU1c4eE1IY0NFYjBSd3ZjY0xzX2YwS2xySDJYQW01VUQ2ZUF1d1ZjNWpTbHFsNGtTdHpSdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "98e4eecc35e3",
-      "title": "‘이 증상’ 있다면, 비행기 탑승은 신중하게… 뭘까? - 헬스조선",
-      "published": "2026-05-22T21:00:00+00:00",
-      "summary": "‘이 증상’ 있다면, 비행기 탑승은 신중하게… 뭘까?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kRDlQUWd6NHgwSzVNTWltT0d2aEZSM20yUkZXX1ZiaUloNi1qRF9yV1pYTnRlSWZKQnNtRTQtOGc4LTJRMEFabWhUU3U4SkdFMFhDVFRnNUk2RHZmbW12aWw4dXUyRUhuYVo3bmpneWxBSEpJV3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c0a879a5143f",
-      "title": "현성티엔씨 美법인 SuperMatics, 5개국 글로벌 연구기관과 ‘초전도체 플랫폼’ 시범운영 개시 - NBN미디어",
-      "published": "2026-05-22T00:36:16+00:00",
-      "summary": "현성티엔씨 美법인 SuperMatics, 5개국 글로벌 연구기관과 ‘초전도체 플랫폼’ 시범운영 개시&nbsp;&nbsp;NBN미디어",
-      "sources": [
-        {
-          "name": "NBN미디어",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zeXVsTkpNSHZiUE44X05lalRxQjdwaFNWSGNPWkF1RzcyT0RjSW1Mbjg1Q2taX2lvODBrSHgxam5QeUN4SEo2TmZkNG5yYzZHU09mRC16YVhkcndocnJoWmNuZmRRZ9IBakFVX3lxTE84M3ZUUVRhUFg5ZEVRWlFsYlZadU9kS1hnY05US1BPcXVtT19wT3cwTTU4aUhROGFrZUoxVnFUNnlvUnVISEpad2ViX0JibUhvTWlQOEw1dzg1TzdjREpRdnd4a3ZYSEdZcWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a5cf4d9cf8cf",
-      "title": "“어쩌다 그런 연구를”… 괴짜 노벨상 수상자, 국내서 첫 대중강연 - 동아일보",
-      "published": "2026-05-21T19:30:00+00:00",
-      "summary": "“어쩌다 그런 연구를”… 괴짜 노벨상 수상자, 국내서 첫 대중강연&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tZFNmeVhkb0VJbEdDdTVwX2padkdORjBQeTliU0g4S2dpaG1rQmVNaEphYUcyTXBjUkJhVzBGd3NjSjN3a1hCUlAxakNOWnBVZlRKVW9mUnZSSWE2a3lLREVIaDAxTmlTaWU0eEZUVdIBZkFVX3lxTE1OT0c4RmtBa2dhQVZVUFhfRk5uTHlrNW95MS1FLXhlV0RMbm50VjdxRlVrWWlIVHV2ZTVwaVBtYWZQUEphRUhBTFpxT0I3dTA4QkJscVBMd1R6TXl5VnJ1SUtQRkZmQQ?oc=5"
         }
       ]
     }
