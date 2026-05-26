@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-26T10:01:31.890438+00:00",
-  "total_fetched": 67,
-  "unique_count": 67,
-  "health_related_count": 36,
+  "fetched_at": "2026-05-26T15:42:02.523877+00:00",
+  "total_fetched": 69,
+  "unique_count": 69,
+  "health_related_count": 39,
   "news": [
+    {
+      "id": "52e9bb1e0246",
+      "title": "현미경 속 미생물에서 발견한 또 다른 우주 - 조선일보",
+      "published": "2026-05-26T13:34:44+00:00",
+      "summary": "현미경 속 미생물에서 발견한 또 다른 우주&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mbzh0XzMtTkRSR24xQkxkdnZQeTRkUmRHSW42a0RFUmdsYnRwT1hzSVlIcUx6MUl3Wnkzbm9ZTUw0YzV1d1dxSlFCbG9MaWhnbGhBdjVmcmd0dS1CbG5sT0hqOFJ4dXVoLWfSAW5BVV95cUxOQmJaRFNHSW5wME5udkZ6WXlpY1g2bHhhbnBQNkNaN18zNkJjQllKSkVkVXRNV2pBN1JkZEFORkVKblRRR1dvLXJmYUN3WWNrbkgyaGtaaWpVVTdWLU45WjAxXzJiNlZEX1Z0d0F2QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5fabbdec296c",
+      "title": "중앙대병원 손혜주 교수 ‘뉴로테리어: 늙지 않는 뇌를 위한 공간 처방’ 출간 - 의약뉴스",
+      "published": "2026-05-26T10:51:52+00:00",
+      "summary": "중앙대병원 손혜주 교수 ‘뉴로테리어: 늙지 않는 뇌를 위한 공간 처방’ 출간&nbsp;&nbsp;의약뉴스[신간] 손혜주 중앙대병원 교수, ‘뉴로테리어: 늙지 않는 뇌를 위한 공간 처방’ 출간&nbsp;&nbsp;의사신문[신간] 손혜주 교수 '뉴로테리어: 늙지 않는 뇌를 위한 공간 처방' 출간&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtai1rcHJtb3pJMHJxTm9uT25fLWZ6b2dxT0pCSm5WaVg5MFVIZHM0a0t6UXppQ0hDSVpTV01jeGUzdlBZZXBPSnUtd051VFEzT0NXTlhoTVhuM1lxOVZFcEtqNTEzTnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0025512d0681",
+      "title": "혈액검사로 뇌전증 읽는 시대 ‘성큼’…핵심은 ‘면역세포(T세포)’ 변화 - 헬스경향",
+      "published": "2026-05-26T10:14:46+00:00",
+      "summary": "혈액검사로 뇌전증 읽는 시대 ‘성큼’…핵심은 ‘면역세포(T세포)’ 변화&nbsp;&nbsp;헬스경향\"혈액 속 '면역바코드'로 뇌전증 진단 가능성 확인\"&nbsp;&nbsp;v.daum.net\"뇌파·MRI 검사 안 해도 돼\"…핏방울 속 '면역 바코드'로 뇌전증 읽는다 - 머니투데이&nbsp;&nbsp;머니투데이혈액 속 면역세포로 뇌전증 진단…\"세계 첫 발굴\"&nbsp;&nbsp;뉴시스피 한 방울로 '뇌전증' 찾는다…서울대병원 세계 첫 규명&nbsp;&nbsp;데일리안",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mZUFrZnI1YU1zSVVXc09VcHR2TE14dUtOcXJXaFdqVXpxTkdoa3Q3ZGpUczBzRFBKenhaR0g2WU15alBKV2ZOYXNhOUtGTi13VmZQS1BXakt1X004eHo5MzZ2cll4alo2WWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae1ef81cee66",
+      "title": "\"낮 시간 활동 감소·수면 불규칙할수록 치매 위험 증가\" - hidomin.com",
+      "published": "2026-05-26T10:08:44+00:00",
+      "summary": "\"낮 시간 활동 감소·수면 불규칙할수록 치매 위험 증가\"&nbsp;&nbsp;hidomin.com\"몽유병 등 수면장애 시 치매·파킨슨병 위험 32% 높아\"&nbsp;&nbsp;파이낸셜뉴스온몸 쑤시고 잠 못 드는 40대 후반女...‘이 병’ 진단 후 치매 위험 45%↑&nbsp;&nbsp;디멘시아뉴스“수면·활동 리듬 무너지면 치매 위험 증가”…웨어러블 데이터로 조기 예측 가능성 확인&nbsp;&nbsp;진주인터넷뉴스알츠하이머병 치매환자에서 수면장애에 대한 Zaleplon의 효과 및 안전성: 증례 기반 고찰&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qX3hVdldFRWhEYlRKTXNpWW9wQmFMTlB5WHlodlJqY2ctaHVybFVELVFvSl9HWlQyNmZQdVBINkJaU1huU3FFUnQtNFhiQVRqX2t2UmN5SXlIVzA4WjJiRFZNZVp5OHF1Q3c?oc=5"
+        }
+      ]
+    },
     {
       "id": "50839b5c8d5e",
       "title": "고유미 강사, 가임기 발달장애인 여성암예방교육 진행 - 한국강사신문",
@@ -21,7 +69,7 @@
       "id": "7f2ab62b6e15",
       "title": "2형 당뇨병, 췌장 질환 넘어 전신 질환으로 재조명 - 보건신문",
       "published": "2026-05-26T09:10:07+00:00",
-      "summary": "2형 당뇨병, 췌장 질환 넘어 전신 질환으로 재조명&nbsp;&nbsp;보건신문당뇨병은 췌장 문제? “13가지 전신 문제로 발생”&nbsp;&nbsp;헬스조선2형 당뇨병, 13개 복합기전 원인으로 발생&nbsp;&nbsp;메디칼업저버혈당만 잡던 당뇨 치료, 전신 13개 기전 통합 관리로 전환&nbsp;&nbsp;K뉴스통신분당서울대병원 임수 교수팀, 2형 당뇨병 최신 지견 국제학술지 발표&nbsp;&nbsp;로이슈",
+      "summary": "2형 당뇨병, 췌장 질환 넘어 전신 질환으로 재조명&nbsp;&nbsp;보건신문당뇨병은 췌장 문제? “13가지 전신 문제로 발생”&nbsp;&nbsp;헬스조선혈당만 잡던 당뇨 치료, 전신 13개 기전 통합 관리로 전환&nbsp;&nbsp;K뉴스통신2형 당뇨병, 13개 복합기전 원인으로 발생&nbsp;&nbsp;메디칼업저버분당서울대병원 임수 교수팀, 2형 당뇨병 최신 지견 국제학술지 발표&nbsp;&nbsp;로이슈",
       "sources": [
         {
           "name": "보건신문",
@@ -54,14 +102,14 @@
       ]
     },
     {
-      "id": "20746960f7d5",
+      "id": "2ba75df4fae5",
       "title": "황보라 유민상, 눈 노화 예방 스트레칭에 감탄 “시야 맑아져”(몸신의 탄생) - newsen.com",
       "published": "2026-05-26T07:33:11+00:00",
-      "summary": "황보라 유민상, 눈 노화 예방 스트레칭에 감탄 “시야 맑아져”(몸신의 탄생)&nbsp;&nbsp;newsen.com황보라 유민상, 눈 노화 예방 스트레칭에 감탄 \"시야 맑아져\"(몸신의 탄생)&nbsp;&nbsp;네이트황보라·유민상, “시야가 맑아진 것 같다”…‘몸신의 탄생’ 황반변성 집중 진단&nbsp;&nbsp;톱스타뉴스20·30대 녹내장 환자 급증, ＂젊다고 안심은 금물＂&nbsp;&nbsp;메디컬투데이“온종일 스마트폰만”…2030 시력 앗는 ‘이 질환’&nbsp;&nbsp;동아일보",
+      "summary": "황보라 유민상, 눈 노화 예방 스트레칭에 감탄 “시야 맑아져”(몸신의 탄생)&nbsp;&nbsp;newsen.com황보라 유민상, 눈 노화 예방 스트레칭에 감탄 \"시야 맑아져\"(몸신의 탄생)&nbsp;&nbsp;네이트황보라·유민상, “시야가 맑아진 것 같다”…‘몸신의 탄생’ 황반변성 집중 진단&nbsp;&nbsp;톱스타뉴스20·30대 녹내장 환자 급증, ＂젊다고 안심은 금물＂&nbsp;&nbsp;메디컬투데이[안과의 모든 것]‘녹내장’ 난치성일수록 정밀한 검진과 상담 필수&nbsp;&nbsp;medicalworldnews.co.kr",
       "sources": [
         {
           "name": "newsen.com",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kNzkwMVN5MENuXzF4cmpMX1kyM0gwR3BneWRCWUhSMjFOM0dQd2c1NFZsM0J4Wm41Y1BvTTFXcTI1YU5fYXlETEkzeUhFUldsQXVXRHlQODJNRTJrd1Z0TWtNbG5oWmZo?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fZWUxZjFXY2NJOUVTTjhySGhlZldUdzcyeTZxOERJTVA5RE5DM19Cam0xQTJOV25Hc3BhNDVHTnh6QlBoSUluQk5Ua0dVTm1kYzk5Vk9rU0J1enZnTUpnQ09OV2tUbks2ZW1JT3ZQZ1dTT2NqYWd6bUktcw?oc=5"
         }
       ]
     },
@@ -78,9 +126,21 @@
       ]
     },
     {
+      "id": "e39c67fea40d",
+      "title": "먹는 이석 접착제? \"이석증 치료 영양제는 없다\" - 매일경제",
+      "published": "2026-05-26T07:05:44+00:00",
+      "summary": "먹는 이석 접착제? \"이석증 치료 영양제는 없다\"&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCdWtHeU9yemtGbGtiTWpsdFV5QXZ4bE55V2NlZGdjM1hGbXotQVNDdUE2TjlyQ1RNLWp3dTM4WmtNNl9yeXVLVDZUU01hdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "77182b8c686b",
       "title": "복지부 장관상 수상 최종일 교수 \"AI 심전도, 의료현장 혁신 가능성 크다\" - MEDI:GATE NEWS",
-      "published": "2026-05-26T05:03:00+00:00",
+      "published": "2026-05-26T05:29:00+00:00",
       "summary": "복지부 장관상 수상 최종일 교수 \"AI 심전도, 의료현장 혁신 가능성 크다\"&nbsp;&nbsp;MEDI:GATE NEWS",
       "sources": [
         {
@@ -126,18 +186,6 @@
       ]
     },
     {
-      "id": "c55eb8bdba20",
-      "title": "MRI 검사 없이 혈액 속 바코드로 뇌전증 진단…AI 모델 관심 - 메디칼타임즈",
-      "published": "2026-05-26T03:01:16+00:00",
-      "summary": "MRI 검사 없이 혈액 속 바코드로 뇌전증 진단…AI 모델 관심&nbsp;&nbsp;메디칼타임즈\"혈액 속 '면역바코드'로 뇌전증 진단 가능성 확인\"&nbsp;&nbsp;v.daum.net혈액 속 면역세포로 뇌전증 진단…\"세계 첫 발굴\"&nbsp;&nbsp;뉴시스혈액 속 ‘면역 바코드’로 뇌전증 읽어낸다… “AI 진단 정확도 80%”&nbsp;&nbsp;헬스조선피 한 방울로 '뇌전증' 찾는다…서울대병원 세계 첫 규명&nbsp;&nbsp;데일리안",
-      "sources": [
-        {
-          "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41YmZmdUZsSFQxa1NEaUJBTHF0NzFhTVZTOG9SR2pubkpsa1FkUU1DSXFqcDd5dlExU3BPVjRWcndqYmhPM1NjNEY4aVNoN1hXLVhQVExhMVRhSGRadURoMDBVcFFfMTIzckczZmlFMXY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "868e094056f8",
       "title": "\"이중가닥 RNA 조절\" 노화 늦출 단서 찾았다 - 네이트",
       "published": "2026-05-26T03:01:00+00:00",
@@ -170,18 +218,6 @@
         {
           "name": "미디어데일",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuRGF3X2h6ZEJ6TkdpRWpDakEtSWtySGVHeUJnNVZqSlA0YTdXY3FCVF9ycVlGRGtCeDhac2xrSnZ1NnRyWFdfMG5WYnhDT09SQ282Q29TM1lfTHRvSFpHWTVUZ3VOWm9ZRXZF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "809decfb7aba",
-      "title": "베트남, 7월부터 입·출국 여행객 대상 ‘건강신고’ 의무화…질병예방법 - 인사이드비나",
-      "published": "2026-05-26T01:00:00+00:00",
-      "summary": "베트남, 7월부터 입·출국 여행객 대상 ‘건강신고’ 의무화…질병예방법&nbsp;&nbsp;인사이드비나보건부는 7월 1일부터 시행되는 감염병 분류 기준인 A, B, C군에 대한 지침을 발표했습니다.&nbsp;&nbsp;Vietnam.vn7월 1일부터: 전염병 통제 방법 변경; 예방 의학 전공 학생들에게 장학금 지급.&nbsp;&nbsp;Vietnam.vn감염병 예방 및 통제에 있어서의 감시에 관한 규정.&nbsp;&nbsp;Vietnam.vn건강 검역: 2026년 7월 1일부터 입국, 출국 또는 경유하는 사람들은 무엇을 주의해야 할까요?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "인사이드비나",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05LTZaRmFqYTZSclFGaXYzQk1mNXpabkgzaHZOU0lFTllMNDlzSmJKZzM1am9FRi12WmVYTElLbkZDbkMybVk5Qlh1VkQ4NDFZS29jV1RCb29pTUNUR1pGSEhuMk1GaEdZeDVKQw?oc=5"
         }
       ]
     },
@@ -234,18 +270,6 @@
       ]
     },
     {
-      "id": "09dbea9419f1",
-      "title": "알츠하이머병 치매환자에서 수면장애에 대한 Zaleplon의 효과 및 안전성: 증례 기반 고찰 - 메디칼업저버",
-      "published": "2026-05-25T22:50:52+00:00",
-      "summary": "알츠하이머병 치매환자에서 수면장애에 대한 Zaleplon의 효과 및 안전성: 증례 기반 고찰&nbsp;&nbsp;메디칼업저버\"몽유병 등 수면장애 시 치매·파킨슨병 위험 32% 높아\"&nbsp;&nbsp;파이낸셜뉴스온몸 쑤시고 잠 못 드는 40대 후반女...‘이 병’ 진단 후 치매 위험 45%↑&nbsp;&nbsp;디멘시아뉴스낮에 활동 적고 수면 불규칙하면&nbsp;&nbsp;마음건강 길“우리 부모님은 괜찮나”…‘치매’ 위험 높이는 두가지 패턴&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93YzNJN0VRdlVkM1piRTUzZldEMk9TYmxpU2h2NTh0SUhJZ2F3ZDlsNGdscXpWMkl4MG9YdjZPemNvbmNpU0hWc0k5WTZOSmxmWlJxWmhEZ2hwaXBqSmNrUDU0Ul80S3VMOEhV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a24251a7276a",
       "title": "[방재욱 칼럼] 100세 시대, 장수 습관 길들이기 - 논객닷컴",
       "published": "2026-05-25T22:13:24+00:00",
@@ -273,7 +297,7 @@
       "id": "e8f0c5770b1b",
       "title": "갑자기 고기 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\" - 사이언스타임즈",
       "published": "2026-05-25T22:04:03+00:00",
-      "summary": "갑자기 고기 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\"&nbsp;&nbsp;사이언스타임즈\"밥보다 고기 당기는 이유 있었네\"… 뇌 조종하는 장의 비밀, 국내 연구진이 풀었다&nbsp;&nbsp;v.daum.net고기·장어 드세요…단백질 부족하면 장이 뇌에 신호 보낸다&nbsp;&nbsp;동아사이언스“이 음식, 왜 하필 지금 당길까”···입맛 때문이 아니었다?&nbsp;&nbsp;경향신문“장이 뇌에 이중 명령”…위고비 식욕억제 비밀, 국내서 첫 규명 [팩플]&nbsp;&nbsp;중앙일보",
+      "summary": "갑자기 고기 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\"&nbsp;&nbsp;사이언스타임즈\"밥보다 고기 당기는 이유 있었네\"… 뇌 조종하는 장의 비밀, 국내 연구진이 풀었다&nbsp;&nbsp;v.daum.net세로토닌·멜라토닌 대부분 장에서 생성… ‘이것’ 잘 해야 잠 잘 잔다&nbsp;&nbsp;헬스조선고기·장어 드세요…단백질 부족하면 장이 뇌에 신호 보낸다&nbsp;&nbsp;동아사이언스“이 음식, 왜 하필 지금 당길까”···입맛 때문이 아니었다?&nbsp;&nbsp;경향신문",
       "sources": [
         {
           "name": "사이언스타임즈",
@@ -282,14 +306,14 @@
       ]
     },
     {
-      "id": "bb69d3068479",
-      "title": "급성 췌장염 재발 잦으면 만성화 위험 70배… 술·담배가 주범 - 국민일보",
-      "published": "2026-05-25T17:20:00+00:00",
-      "summary": "급성 췌장염 재발 잦으면 만성화 위험 70배… 술·담배가 주범&nbsp;&nbsp;국민일보급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수&nbsp;&nbsp;이데일리[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스급성췌장염 한번 앓고 재발하면 만성 전환 위험 '70배' 급증&nbsp;&nbsp;의협신문",
+      "id": "9538ccbbb483",
+      "title": "[신문과 놀자!/피플 in 뉴스]76년 전부터 인공지능 연구한 앨런 튜링 - 동아일보",
+      "published": "2026-05-25T14:06:00+00:00",
+      "summary": "[신문과 놀자!/피플 in 뉴스]76년 전부터 인공지능 연구한 앨런 튜링&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kY2RDRlRBMUZyaUQyWG5pci05ZG5NWEFKZ2NQNEdYNTJZMmUwemdXYzhVSURXTVNpcnV2d3E4MnpwMXJvbk1od1RaSC1qUU9yb2tUNEJxVlJkSEYxLVRsM3NJWVp2dkU?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0ZGxoYjZ5QlpqSVVndGpWUUc4dGZlMnNpTmZGSEt3eVlFS1NlTWdZbkN3ZmVuSk90ZGs3NjA4ekpadEVxRXlRbFBEWHlieXVJcjVqdEVWR0xBdjh5RXlISklVOEdiYWpPWXh3amhIMEpiTG5IeXfSAWZBVV95cUxNOTk1c0RGWEMzcmVidUxOczhLVVBOZ01EOWlIQzNoYmhyblhQUTNuRmpHeXhKUXJ4MjZORlZHYkhieHFDSW1UVDlRYkRNTnBvSTZvYjZORnU5QnFrSFhMMEJWbWF3Y0E?oc=5"
         }
       ]
     },
@@ -342,6 +366,18 @@
       ]
     },
     {
+      "id": "954177682709",
+      "title": "급성췌장염, 재발 시 만성 위험 70배 증가… 음주, 담석이 주원인 - 하이닥",
+      "published": "2026-05-25T03:30:00+00:00",
+      "summary": "급성췌장염, 재발 시 만성 위험 70배 증가… 음주, 담석이 주원인&nbsp;&nbsp;하이닥급성 췌장염 재발 잦으면 만성화 위험 70배… 술·담배가 주범&nbsp;&nbsp;국민일보급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수&nbsp;&nbsp;이데일리[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zRERkbHdMMThsM0FSSHBjX05SNHBUTzBhWUxtZHJzZzdtd3VndWptXzQ3NFlpUE55QlV1ZlhjeHR6aEJLVTFqYjdZc2JHLTROWHhGNkdrUVFuaUJwRGQ4Ump3TC1QWTY4ZGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a35597b25b26",
       "title": "새 입자 발견에 목마르다…유럽, 91km 입자가속기 건설 계획 공식 발표 - 동아사이언스",
       "published": "2026-05-25T03:23:00+00:00",
@@ -390,38 +426,38 @@
       ]
     },
     {
-      "id": "87d7c3abc415",
-      "title": "인류는 왜 그토록 오랫동안 심장을 뇌라고 믿었을까 - 캐어유 뉴스",
-      "published": "2026-05-24T09:00:00+00:00",
-      "summary": "인류는 왜 그토록 오랫동안 심장을 뇌라고 믿었을까&nbsp;&nbsp;캐어유 뉴스",
+      "id": "1748a0276d7c",
+      "title": "은행잎추출물 기반 혈행 건강 제품 비교 기준 - 유스연합",
+      "published": "2026-05-24T20:52:29+00:00",
+      "summary": "은행잎추출물 기반 혈행 건강 제품 비교 기준&nbsp;&nbsp;유스연합Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSSzc5eWFpVHdyUmxPOVVqWl8xeHY3dm1kU01qR2k0aTJiNlNIbjFlT3BJa2hSWWc1LXpoOUhnRFBnS1JOQXJKTkZmUzlJY1VuV25IZExRTlBOYU93cWsxT2pVN1pEMkdHeC1hXw?oc=5"
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBMnBFQmZWZHpZVEVUXzY4V2dxVWtucHZoUkRUNklnZmduR2ltWDVEdzMzQkluWnR1dTNDXzR4N0stYUtKN3dkUmVXWTJMMkQwUlE?oc=5"
         }
       ]
     },
     {
-      "id": "0ae66a8a1162",
-      "title": "질병 발병 1.5년 늦추고, 수명 2년 늘리는 방법 - 헬스조선",
-      "published": "2026-05-24T09:00:00+00:00",
-      "summary": "질병 발병 1.5년 늦추고, 수명 2년 늘리는 방법&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xc2hpZjNUb2p3UG1BYUl5dldBcFBCcjhzNHZibDNLbTRaOGR1ZjBnSzRkTjNzOVJvbndxU0pQV05qVU1YVmw5ajBES0Q2TkRtRlNVakFEVzYwNmp0TnlUejZ2YVp4b3dDeHZxT0IzeXRxdUpMNFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "513cdd11911f",
+      "id": "e09a5ae34103",
       "title": "“‘세사미’ 캐릭터인줄”…해조류로 위장하는 신종 물고기 발견 - 동아일보",
       "published": "2026-05-24T02:30:00+00:00",
       "summary": "“‘세사미’ 캐릭터인줄”…해조류로 위장하는 신종 물고기 발견&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3Z5VkJpc25JdXZBWHFQS245TWl0QUlrOVVYYk5PMzF2TlBMMGRKTWMyMWp3UVAtcUpnelhJNHprLTJ6QkpRSzhVdlNhRG5YdUYxTG1FQlVqek4tVmVfWnYwc3ZnLTdkZm9RN2RmSHFESjg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3Z5VkJpc25JdXZBWHFQS245TWl0QUlrOVVYYk5PMzF2TlBMMGRKTWMyMWp3UVAtcUpnelhJNHprLTJ6QkpRSzhVdlNhRG5YdUYxTG1FQlVqek4tVmVfWnYwc3ZnLTdkZm9RN2RmSHFESjjSAWZBVV95cUxNTjFuSFlsaXhfX3dCVmNUU1MyWW9IeUc1amc2Z29aQjY1Tnl4aFpzeGVCbmNsdTF6RDROQzFVU1Y5RGQxc1BUckFWbXBtRlV1RWhPZGpzN1hYZC1HRmxteUJLZXN5THc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e621a894b9ca",
+      "title": "[표지로 읽는 과학] 세균이 만든 항바이러스 무기, 인간도 쓴다 - 동아사이언스",
+      "published": "2026-05-23T23:00:00+00:00",
+      "summary": "[표지로 읽는 과학] 세균이 만든 항바이러스 무기, 인간도 쓴다&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50UW5fTEpfTURpVlFqUDU1Yy15UFlFanZPZkxMYU5LQVp5ZmxJYms0UnV3NjFwSVgtdmRocThRczJPNDNtZnBKNVlMUG42enRjNzQ3aw?oc=5"
         }
       ]
     },
