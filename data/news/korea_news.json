@@ -1,10 +1,214 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-25T19:45:13.526961+00:00",
-  "total_fetched": 43,
-  "unique_count": 43,
-  "health_related_count": 23,
+  "fetched_at": "2026-05-26T03:53:56.857736+00:00",
+  "total_fetched": 52,
+  "unique_count": 52,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "8545994997d7",
+      "title": "심근경색 발병 후 심부전 위험 줄여주는 \"베타 차단제\" - 후생신보",
+      "published": "2026-05-26T03:18:00+00:00",
+      "summary": "심근경색 발병 후 심부전 위험 줄여주는 \"베타 차단제\"&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9DSXZiX1RKSWRNbGZUaVB0Y29hZXdWcnRnRkxhc1YxUm41OUpJamxKWmpuTUZvb2tqTzktbDcybnhQcXRV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75e9e22fe9d5",
+      "title": "“주 3회 운동, 식단 관리까지 했는데...” 20대 유튜버 암 진단 - 위키트리",
+      "published": "2026-05-26T03:05:00+00:00",
+      "summary": "“주 3회 운동, 식단 관리까지 했는데...” 20대 유튜버 암 진단&nbsp;&nbsp;위키트리",
+      "sources": [
+        {
+          "name": "위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwNE5TbHB6SXFOcDl6TEVfLWVsOUw0c3ZQNjRwMTRkeHVPcXQxWkl3MEd6U1F1WGJ3blRndFU1djJHSXhFU1BPS1o3VENhWkM2NExjNm53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d69f65d2687b",
+      "title": "핌피바이러스, 유기동물 임보·입양 앱 ‘핌키’ 공식 출시 - 뉴스와이어",
+      "published": "2026-05-26T01:05:37+00:00",
+      "summary": "핌피바이러스, 유기동물 임보·입양 앱 ‘핌키’ 공식 출시&nbsp;&nbsp;뉴스와이어",
+      "sources": [
+        {
+          "name": "뉴스와이어",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yb0JqVWYxNHVEbWRKMlhxTXhZVE93VG5YLXNfalhBdW83UC1hekVZbmpoaG9nYi1WaXp5bk9sb2JzQ0ZBYmZ5LXJYWlJhTE5ycW53UHpBdDQzb01lTENV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "809decfb7aba",
+      "title": "베트남, 7월부터 입·출국 여행객 대상 ‘건강신고’ 의무화…질병예방법 - 인사이드비나",
+      "published": "2026-05-26T01:00:00+00:00",
+      "summary": "베트남, 7월부터 입·출국 여행객 대상 ‘건강신고’ 의무화…질병예방법&nbsp;&nbsp;인사이드비나건강 검역: 2026년 7월 1일부터 입국, 출국 또는 경유하는 사람들은 무엇을 주의해야 할까요?&nbsp;&nbsp;Vietnam.vn감염병 예방 및 통제에 있어서의 감시에 관한 규정.&nbsp;&nbsp;Vietnam.vn보건부는 7월 1일부터 시행되는 감염병 분류 기준인 A, B, C군에 대한 지침을 발표했습니다.&nbsp;&nbsp;Vietnam.vn보건부는 소셜 미디어 플랫폼에서의 감염병 예방 및 통제 상황을 모니터링할 것입니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "인사이드비나",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05LTZaRmFqYTZSclFGaXYzQk1mNXpabkgzaHZOU0lFTllMNDlzSmJKZzM1am9FRi12WmVYTElLbkZDbkMybVk5Qlh1VkQ4NDFZS29jV1RCb29pTUNUR1pGSEhuMk1GaEdZeDVKQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5f19ffd843b",
+      "title": "“여기서 했다간 병원 갈 수도”…의사가 말린 성관계 장소 7곳 [라이프+] - 나우뉴스",
+      "published": "2026-05-26T00:51:29+00:00",
+      "summary": "“여기서 했다간 병원 갈 수도”…의사가 말린 성관계 장소 7곳 [라이프+]&nbsp;&nbsp;나우뉴스",
+      "sources": [
+        {
+          "name": "나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84ODNRZ3dsZnBLenl0WnpXSEdHYTJHQTZiSWo1NGxwNFdOcXcwS2plb3J4SkRnZXkzM1NKM3phbjR3UFJXNS04Nno3RnhPZGNGUW94eTVTNEZTcnNuZTdQZ3RpVXpyaFNvZUFobUJSbUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f05f298366f0",
+      "title": "스페인 보건부, 격리 중인 자국민 중 한타바이러스 신규 양성 사례 발표 - 서울뉴스통신",
+      "published": "2026-05-26T00:31:38+00:00",
+      "summary": "스페인 보건부, 격리 중인 자국민 중 한타바이러스 신규 양성 사례 발표&nbsp;&nbsp;서울뉴스통신",
+      "sources": [
+        {
+          "name": "서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yMzdNWmJsNjBaUDFaMkhweEdDYzAyREV5cUluTmQtY3JBN3lfaEJkZ25JQXBJcGRsQWNsdWxNQjRXdmJCMlo2MWZxazVRYk5QeC1yTmZFLWlwaHFlZHB0UjFqMkJxUC1yYzBZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe45af992332",
+      "title": "임수 분당서울대병원 교수, “2형 당뇨병은 전신 13개 기전 얽힌 복합질환” - 헬스오",
+      "published": "2026-05-26T00:28:16+00:00",
+      "summary": "임수 분당서울대병원 교수, “2형 당뇨병은 전신 13개 기전 얽힌 복합질환”&nbsp;&nbsp;헬스오'2형 당뇨병, 전신 복합질환으로 재조명' 임수 교수 최신 연구 발표&nbsp;&nbsp;이데일리2형 당뇨병, 13개 복합기전 원인으로 발생&nbsp;&nbsp;메디칼업저버분당서울대병원 임수 교수팀, 2형 당뇨병 새 치료 방향 제시&nbsp;&nbsp;매일일보분당서울대병원 임수 교수팀, 2형 당뇨병 최신 리뷰 논문 발표&nbsp;&nbsp;디스커버리뉴스(DISCOVERYNEWS)",
+      "sources": [
+        {
+          "name": "헬스오",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RWm9mcXBTUmVYOGxLb0xXMWtheGY2U0xBWXVKcXNSeGdQWXl4UGxBWHIzMHhUYjF1NTNDRkRFYTJZS281eVhTU1pRY29QR1hDTlFqSjdjckY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa3c47c0d654",
+      "title": "뉴로핏, 스페인 발데브론 연구소와 '뉴로핏 아쿠아 MS' 공동 연구 - 뉴스핌",
+      "published": "2026-05-26T00:23:00+00:00",
+      "summary": "뉴로핏, 스페인 발데브론 연구소와 '뉴로핏 아쿠아 MS' 공동 연구&nbsp;&nbsp;뉴스핌Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHNmw0YWRhMUhpMzh4QXUxbWR2T1ViWGo5OFc2UXpzUUhuSGJTMnpqSW9JOS1BQmpXTTZLYXpBbkVkb0VuTFVmaTVLWHQ3T1h4b2o3cHJmXzlYNXIx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d086aa491ec6",
+      "title": "“지금껏 스무디 잘못 마셨다!”…바나나+‘이것’, 건강 성분 84% 줄어든다고? - 코메디닷컴",
+      "published": "2026-05-26T00:12:00+00:00",
+      "summary": "“지금껏 스무디 잘못 마셨다!”…바나나+‘이것’, 건강 성분 84% 줄어든다고?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBjOVkxZk1YNzgzVFpla09aNTVlVjd4RHhuVkt1cEtZLUp2TmtPSUozR0dRNy1ZZVhPSEkxMXJJdFNDQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8a12238f3c0b",
+      "title": "김해시, 12세 남성 청소년까지 HPV 무료 예방접종 확대 - 케이에스피뉴스",
+      "published": "2026-05-25T23:42:00+00:00",
+      "summary": "김해시, 12세 남성 청소년까지 HPV 무료 예방접종 확대&nbsp;&nbsp;케이에스피뉴스남자도 HPV 국가접종… 사회적 감염관리 확장 [건강+]&nbsp;&nbsp;v.daum.net자궁경부암 막는 HPV 백신…“남성 접종이 집단면역 완성” [헬시타임]&nbsp;&nbsp;서울경제원주시, 12세 남성 청소년 대상 'HPV 무료 접종' 시작&nbsp;&nbsp;파이낸셜뉴스[기자수첩]가다실 NIP 숫자 효능을 넘어 '진짜 예방 효과'로\"&nbsp;&nbsp;의학신문",
+      "sources": [
+        {
+          "name": "케이에스피뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5iOUQ5SnZ0cklZWkxZYmNLZmdwVjNYWnZwd2VyZTRfaG4xczlPQ25KYzc4aFR6d0pfUERMVWRNN1ZNRldx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "062152e1df23",
+      "title": "“TV 틀고 잤더니 뱃살이?”…다이어트 망치는 뜻밖의 원인, 뭐길래? - 코메디닷컴",
+      "published": "2026-05-25T23:06:00+00:00",
+      "summary": "“TV 틀고 잤더니 뱃살이?”…다이어트 망치는 뜻밖의 원인, 뭐길래?&nbsp;&nbsp;코메디닷컴“아빠 안 잔다” 이 습관, 사실은 심장 건강에 위협… 이유가?&nbsp;&nbsp;헬스조선밤에 혈당 날뛰게 하는 ‘세 가지 행동’… 뭐야?&nbsp;&nbsp;헬스조선‘이렇게’ 자면 혈당 치솟을지도… 뭐야?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1CeV9yZ1VFbTdzSXNYLVl6WjN2S2d1QTAxcU5DSHUwRWlPc0RQbWkxYTZyNGtZX0NxYmItQ2NwVnRMZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "09dbea9419f1",
+      "title": "알츠하이머병 치매환자에서 수면장애에 대한 Zaleplon의 효과 및 안전성: 증례 기반 고찰 - 메디칼업저버",
+      "published": "2026-05-25T22:50:52+00:00",
+      "summary": "알츠하이머병 치매환자에서 수면장애에 대한 Zaleplon의 효과 및 안전성: 증례 기반 고찰&nbsp;&nbsp;메디칼업저버\"몽유병 등 수면장애 시 치매·파킨슨병 위험 32% 높아\"&nbsp;&nbsp;파이낸셜뉴스온몸 쑤시고 잠 못 드는 40대 후반女...‘이 병’ 진단 후 치매 위험 45%↑&nbsp;&nbsp;디멘시아뉴스낮에 활동 적고 수면 불규칙하면&nbsp;&nbsp;마음건강 길“우리 부모님은 괜찮나”…‘치매’ 위험 높이는 두가지 패턴&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93YzNJN0VRdlVkM1piRTUzZldEMk9TYmxpU2h2NTh0SUhJZ2F3ZDlsNGdscXpWMkl4MG9YdjZPemNvbmNpU0hWc0k5WTZOSmxmWlJxWmhEZ2hwaXBqSmNrUDU0Ul80S3VMOEhV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a24251a7276a",
+      "title": "[방재욱 칼럼] 100세 시대, 장수 습관 길들이기 - 논객닷컴",
+      "published": "2026-05-25T22:13:24+00:00",
+      "summary": "[방재욱 칼럼] 100세 시대, 장수 습관 길들이기&nbsp;&nbsp;논객닷컴나이 들어 건강하려면… 돈보다 중요하다는 ‘다섯 가지’&nbsp;&nbsp;헬스조선[내궁내정] 토마스 펄스의 장수습관 키워드 11…금연·치실·비만·운동·금주·식단·구강·스트레스·사회관계·공부·은퇴&nbsp;&nbsp;뉴스스페이스10년 젊어지는 시니어 건강 습관&nbsp;&nbsp;교수신문",
+      "sources": [
+        {
+          "name": "논객닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCcDZlY2VTdHQ2UzRfMnpjc1RlMEVfbEpSR0NXcUFOYWNzaVBBakVQdGpfUTF4YzRtbHVmM3BGY0ZOb1FVVlBVWU5jM3dqcWk2YkZ3anJScnoyR1pwbnEyN0dWaDU5Nmcw0gFrQVVfeXFMTUtWdDdhQlBtcDQtMmZPakVubDdDU1Q1TVBqR3hXbzZfeExENk1BbmMweFdEZEo1N3dDb1d6RU1renlObnRDOUhDVGRPa0NyeDZTOTZoN3RpZFlWZkRRaVJRZmYycWpSSHhodUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bfbfb9ecd33d",
+      "title": "주 1회 이상 악몽 꾸는 男…파킨슨병 위험 3배 높을 수도? - 코메디닷컴",
+      "published": "2026-05-25T22:06:00+00:00",
+      "summary": "주 1회 이상 악몽 꾸는 男…파킨슨병 위험 3배 높을 수도?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1aV3lDeXRhdzVXZ0FydXViZzJRYzJVNHNsMV9CeGRYMFlDcTQwNTZfc3dUcHZtQml2TVV3SWxrS3NMUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8f0c5770b1b",
+      "title": "갑자기 고기 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\" - 사이언스타임즈",
+      "published": "2026-05-25T22:04:03+00:00",
+      "summary": "갑자기 고기 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\"&nbsp;&nbsp;사이언스타임즈\"밥보다 고기 당기는 이유 있었네\"… 뇌 조종하는 장의 비밀, 국내 연구진이 풀었다&nbsp;&nbsp;v.daum.net고기·장어 드세요…단백질 부족하면 장이 뇌에 신호 보낸다&nbsp;&nbsp;동아사이언스“이 음식, 왜 하필 지금 당길까”···입맛 때문이 아니었다?&nbsp;&nbsp;경향신문“장이 뇌에 이중 명령”…위고비 식욕억제 비밀, 국내서 첫 규명 [팩플]&nbsp;&nbsp;중앙일보",
+      "sources": [
+        {
+          "name": "사이언스타임즈",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEQ0bU5vM0o4NnUzcENnXzZMMUlnUV92MmRLb0xxNFEzZUJGWTdvZ2MxdUEtU1JtSGtDSzdNWldjT0g5NlhsemdEMEFIbkdHZFNVS0lNT2kyS0RhRzFSRFZ4QmtKbHFvMExrcnpFQ21sWUpsWTBQa1dSMGt1c3FWLVlHamFZMzVOTTlHWFRWdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e180d2a1d9ae",
+      "title": "은행잎추출물 기반 혈행 건강 제품 비교 기준 - 한국AI부동산신문",
+      "published": "2026-05-25T19:40:22+00:00",
+      "summary": "은행잎추출물 기반 혈행 건강 제품 비교 기준&nbsp;&nbsp;한국AI부동산신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ESlpxSnE3WVBoUXVGVWJEUFF6TlVyR20wT3hUTXhuUERzaWg4cEJUeGduakNBUGdRVVdXcC02TGpSanYtLTVfUXI1X3I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb69d3068479",
+      "title": "급성 췌장염 재발 잦으면 만성화 위험 70배… 술·담배가 주범 - 국민일보",
+      "published": "2026-05-25T17:20:00+00:00",
+      "summary": "급성 췌장염 재발 잦으면 만성화 위험 70배… 술·담배가 주범&nbsp;&nbsp;국민일보급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수&nbsp;&nbsp;이데일리[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스급성췌장염 한번 앓고 재발하면 만성 전환 위험 '70배' 급증&nbsp;&nbsp;의협신문",
+      "sources": [
+        {
+          "name": "국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9kY2RDRlRBMUZyaUQyWG5pci05ZG5NWEFKZ2NQNEdYNTJZMmUwemdXYzhVSURXTVNpcnV2d3E4MnpwMXJvbk1od1RaSC1qUU9yb2tUNEJxVlJkSEYxLVRsM3NJWVp2dkU?oc=5"
+        }
+      ]
+    },
     {
       "id": "1e27997bc021",
       "title": "“폐에 혈전이 가득”… 30대 생명 위협한 ‘이 약’, 뭐지? - 헬스조선",
@@ -14,18 +218,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfVlozR21CdnVBUzM1b05pTVZZbkFQeG05UXNCMFM2bWZzbDBtMWFJZ3F3Zlg4ZzZwR1lsWEtOQ2xoekdYbG9pd3ZaYUpFUnAyYUNzRVZ4ckFzQTJtX2l3dU9NR05WaGlReGlTMjZJakc1RXgzeWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2cd15521abf8",
-      "title": "부산 서구보건소, HPV 국가예방접종 12세 남아 확대 시행 적극 홍보 > 뉴스 - 더코리아",
-      "published": "2026-05-25T09:25:00+00:00",
-      "summary": "부산 서구보건소, HPV 국가예방접종 12세 남아 확대 시행 적극 홍보 > 뉴스&nbsp;&nbsp;더코리아남자도 HPV 국가접종… 사회적 감염관리 확장 [건강+]&nbsp;&nbsp;v.daum.net편견을 깨세요…\"남성도 자궁경부암 접종 필요\"&nbsp;&nbsp;뉴시스자궁경부암 막는 HPV 백신…“남성 접종이 집단면역 완성” [헬시타임]&nbsp;&nbsp;서울경제원주시, 12세 남성 청소년 대상 'HPV 무료 접종' 시작&nbsp;&nbsp;파이낸셜뉴스",
-      "sources": [
-        {
-          "name": "더코리아",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1FazlUeFpPdl9RdE01S0p0RHhmVlpZTVpMX1lwT0VNQm9ha2tRSUF1dFdMdDZYNGlWRzJjM0dXRmVnZUE?oc=5"
         }
       ]
     },
@@ -66,30 +258,6 @@
       ]
     },
     {
-      "id": "954177682709",
-      "title": "급성췌장염, 재발 시 만성 위험 70배 증가… 음주, 담석이 주원인 - 하이닥",
-      "published": "2026-05-25T03:30:00+00:00",
-      "summary": "급성췌장염, 재발 시 만성 위험 70배 증가… 음주, 담석이 주원인&nbsp;&nbsp;하이닥급성 췌장염 재발 잦으면 만성화 위험 70배… 술·담배가 주범&nbsp;&nbsp;국민일보급성췌장염 재발 시 만성췌장염 위험 70배 증가, 초기 관리 필수&nbsp;&nbsp;이데일리[사설] 병 키워 치료하는 보건 패러다임, 선제적 대응으로 전환해야&nbsp;&nbsp;헬스코리아뉴스급성췌장염 환자 3명 중 1명 재발...만성 진행 위험 최대 70배&nbsp;&nbsp;하이뉴스",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zRERkbHdMMThsM0FSSHBjX05SNHBUTzBhWUxtZHJzZzdtd3VndWptXzQ3NFlpUE55QlV1ZlhjeHR6aEJLVTFqYjdZc2JHLTROWHhGNkdrUVFuaUJwRGQ4Ump3TC1QWTY4ZGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5012b08e413",
-      "title": "“왜 갑자기 고기가 먹고 싶을까?”… 장이 뇌에 보내는 ‘단백질 부족’ 신호였다 - 하이닥",
-      "published": "2026-05-25T02:30:00+00:00",
-      "summary": "“왜 갑자기 고기가 먹고 싶을까?”… 장이 뇌에 보내는 ‘단백질 부족’ 신호였다&nbsp;&nbsp;하이닥\"밥보다 고기 당기는 이유 있었네\"… 뇌 조종하는 장의 비밀, 국내 연구진이 풀었다&nbsp;&nbsp;v.daum.net“이 음식, 왜 하필 지금 당길까”···입맛 때문이 아니었다?&nbsp;&nbsp;경향신문고기 당긴다고요? 장이 뇌에 ‘단백질 부족’ 신호 보낸 거래요&nbsp;&nbsp;헬스조선“장이 뇌에 이중 명령”…위고비 식욕억제 비밀, 국내서 첫 규명 [팩플]&nbsp;&nbsp;중앙일보",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EcVJxU1Yxc2ZpM29uZE00S0doR1NBRjVXd3FqV0Z5Y2lfLS1DY0Q0ak5yU0JNRTFyRzd5ekw3SDY3MmZIYVNWUFloNHFUZ05sSWFSbmhydGpmeFRtcU4tS3ZPS3FNM0EyVlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1877e6bba3ee",
       "title": "같은 우울증·고혈압이어도… 여성이 치매에 더 취약한 이유 - 하이닥",
       "published": "2026-05-25T02:00:00+00:00",
@@ -114,22 +282,10 @@
       ]
     },
     {
-      "id": "9ce6a70171d3",
-      "title": "\"혈관 막혀 스텐트까지\"…이경규로 본 당뇨 전 단계 위험성 - 네이트",
-      "published": "2026-05-25T01:01:00+00:00",
-      "summary": "\"혈관 막혀 스텐트까지\"…이경규로 본 당뇨 전 단계 위험성&nbsp;&nbsp;네이트“혈관 막혀 스텐트까지”…이경규 사례로 본 당뇨 전 단계 위험성&nbsp;&nbsp;v.daum.net당뇨스쿨 이혜민 한의사, 유튜브 갓경규 출연… 당뇨 관해(Remission) 설명&nbsp;&nbsp;K스피릿“먹을 수 있는 게 없다”…‘건강이상설’ 이경규, 5년째 혈당 공포 [라이프+]&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nRHdWczllRVhZeHFacWF0TmNERXg0ZjBVMU9RR0pjaDIzWHU4MDgwM2s0d211WDNjZHJJZzBuaVhRV0VWZnNMMDFSd1NMWTQ5Z3gw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3cc5bb7e6316",
       "title": "하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰 - 하이닥",
       "published": "2026-05-24T23:00:00+00:00",
-      "summary": "하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥잠 5분, 운동 2분, 채소 반 접시 더하니… 놀라운 변화 생겼다&nbsp;&nbsp;헬스조선운동 많이 하면 심방세동 위험?…장기적으로는 심혈관 이득 더 크다&nbsp;&nbsp;네이트매일 몇 분씩 걷는 것이 심장마비와 뇌졸중 예방에 도움이 될 수 있는지 알아보세요.&nbsp;&nbsp;Vietnam.vn심장 보호, 주 560분 운동 필요&nbsp;&nbsp;한국의약통신",
+      "summary": "하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥잠 5분, 운동 2분, 채소 반 접시 더하니… 놀라운 변화 생겼다&nbsp;&nbsp;헬스조선\"하루 1시간 운동은 부족하다\"…심장 건강 지키려면 '이렇게' 해야&nbsp;&nbsp;네이트하루 60분 일상 움직임이 헬스장보다 중요하다&nbsp;&nbsp;kmjournal.net운동 많이 하면 심방세동 위험?…장기적으로는 심혈관 이득 더 크다&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "하이닥",
@@ -141,7 +297,7 @@
       "id": "57f81d375ed4",
       "title": "‘이때’ 운동 안 해두면, 심장 건강 급격히 악화 - 헬스조선",
       "published": "2026-05-24T22:00:00+00:00",
-      "summary": "‘이때’ 운동 안 해두면, 심장 건강 급격히 악화&nbsp;&nbsp;헬스조선식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn심장 건강, 운동·식단만으론 부족!&nbsp;&nbsp;마음건강 길심장마비·뇌졸중 위험 낮추려면…여성은 '이 때' 꼭 '이렇게' 해야 한다?&nbsp;&nbsp;네이트쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다&nbsp;&nbsp;헬스조선",
+      "summary": "‘이때’ 운동 안 해두면, 심장 건강 급격히 악화&nbsp;&nbsp;헬스조선식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn심장 건강, 운동·식단만으론 부족!&nbsp;&nbsp;마음건강 길쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다&nbsp;&nbsp;헬스조선미국심장협회(AHA)의 최신 지침에 따른 심혈관 건강 개선을 위한 9가지 단계.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "헬스조선",
@@ -150,38 +306,26 @@
       ]
     },
     {
-      "id": "b7e0f92eda08",
-      "title": "은행잎추출물 기반 혈행 건강 제품 비교 기준 - 한국AI부동산신문",
-      "published": "2026-05-24T20:52:43+00:00",
-      "summary": "은행잎추출물 기반 혈행 건강 제품 비교 기준&nbsp;&nbsp;한국AI부동산신문혈액순환영양제 선택 기준, 원료보다 구조를 봐야 하는 이유&nbsp;&nbsp;한국AI부동산신문[한국일보] 김희진 교수, 알츠하이머 조기 치료 관련 코멘트&nbsp;&nbsp;뉴스H순천향대 양영순 교수팀, 은행잎 추출물 '치매 원인 물질 억제' 임상 지표 확인&nbsp;&nbsp;팜뉴스\"은행잎 추출물, '베타 아밀로이드' 개선과 인지 기능 유지 효과\"&nbsp;&nbsp;히트뉴스",
+      "id": "ea6b283b0a04",
+      "title": "전 세계 정신질환자 12억 명 - 한국의약통신",
+      "published": "2026-05-24T15:00:00+00:00",
+      "summary": "전 세계 정신질환자 12억 명&nbsp;&nbsp;한국의약통신전 세계 ‘이 병’ 환자 수 12억 명인데…“치료받는 사람 고작 9%” [헬시타임]&nbsp;&nbsp;서울경제\"주변에 마음 아픈 사람 너무 많아\" 기분 탓이 아니었다?&nbsp;&nbsp;네이트정신질환, 암·심혈관질환 제치고 전세계 장애의 주요 원인 부상&nbsp;&nbsp;뉴시스전 세계 12억 명 정신 건강 위기, 한국은 치료 보장률 상위 7개국 진입&nbsp;&nbsp;캐어유 뉴스",
       "sources": [
         {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mRERvbHFoNTkySjd6dnY5Zm9RcWNra1ZrQ3o2N1YyZm1GMF91eTZqeEFKbC1jSkswWHI2ZlJxN1gwcGJxYTEyNHl3NTc?oc=5"
+          "name": "한국의약통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkYm4tbi1UQmFXVFNpVW9LWHgyTzI1NTd1OGFIcm1XdTlHWjlmMWUxMExmTGtWN24xb1lTazg2SGlkbDRYeGI0Uy00VVFGRDlZOW91Y0RwYmJOQ0JWQjhhMmNHWkpqVkZiQnM4?oc=5"
         }
       ]
     },
     {
-      "id": "c0a8e25ed41d",
-      "title": "낮에 활동 적고 수면 불규칙하면 - 마음건강 길",
-      "published": "2026-05-24T20:40:00+00:00",
-      "summary": "낮에 활동 적고 수면 불규칙하면&nbsp;&nbsp;마음건강 길\"몽유병 등 수면장애 시 치매·파킨슨병 위험 32% 높아\"&nbsp;&nbsp;파이낸셜뉴스온몸 쑤시고 잠 못 드는 40대 후반女...‘이 병’ 진단 후 치매 위험 45%↑&nbsp;&nbsp;디멘시아뉴스“수면·활동 리듬 무너지면 치매 위험 증가”…웨어러블 데이터로 조기 예측 가능성 확인&nbsp;&nbsp;진주인터넷뉴스“우리 부모님은 괜찮나”…‘치매’ 위험 높이는 두가지 패턴&nbsp;&nbsp;농민신문",
+      "id": "87d7c3abc415",
+      "title": "인류는 왜 그토록 오랫동안 심장을 뇌라고 믿었을까 - 캐어유 뉴스",
+      "published": "2026-05-24T09:00:00+00:00",
+      "summary": "인류는 왜 그토록 오랫동안 심장을 뇌라고 믿었을까&nbsp;&nbsp;캐어유 뉴스",
       "sources": [
         {
-          "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lMUdLWEFGa3JIams4enU0Ulc0UXNnZ0JvUVgxZzJjZ2JmTU5Wb3BpQjRmRHB2QmlCQ2MtY3EtUlBDUWdhYjZzZURJbVpSMU41aDN5YmVkckRfTFRlcjI4UWxVSExmZHVlUkHSAW5BVV95cUxOWHJXNkVyaTZxUVRDUHhZYk0xSXVLQklDc202QVQyQllWQXdROHVzc2dRd3FUeU5GR0VoWGpNTmhpN2RLZ21fVlVHcDJVdFJUS3NiSm1HNnN3SFl1WTI2RUxfRHZVdGNIQTZEdldsQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fc8c422e560",
-      "title": "베리 스무디에 바나나 한 개 넣으면 건강 효능 84% 사라진다 - 시애틀코리안데일리",
-      "published": "2026-05-24T18:27:43+00:00",
-      "summary": "베리 스무디에 바나나 한 개 넣으면 건강 효능 84% 사라진다&nbsp;&nbsp;시애틀코리안데일리",
-      "sources": [
-        {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuSDlnNDd1a0ZzT2w3czNseDVKdVAwVHR5UmpzN0pUSVpIZGNEbjg3emV0czN6NVpFT25EdFhBTFBPZ2pUa0tlbDl1RG43Yl84aTVzb1NlVmlfUnd4SldsSjNnYko3emxjZFRQbVpEeWnSAXNBVV95cUxQSHM4UjdXT1oyQ0VJTDNSaEttam5VWDNzV016NzNsYXpsZy10V1I4N1F6LWdFUlVXbGtMMGRidUpudnBxVmV0ZngtbTAxYkJJWVQzZ0JybE9PNnVBTFZwS2RtbkxRSmo0eGxGZjZacGlWNXdv?oc=5"
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSSzc5eWFpVHdyUmxPOVVqWl8xeHY3dm1kU01qR2k0aTJiNlNIbjFlT3BJa2hSWWc1LXpoOUhnRFBnS1JOQXJKTkZmUzlJY1VuV25IZExRTlBOYU93cWsxT2pVN1pEMkdHeC1hXw?oc=5"
         }
       ]
     },
@@ -198,62 +342,26 @@
       ]
     },
     {
-      "id": "e09a5ae34103",
+      "id": "3ed7de28b611",
+      "title": "“임신 중 고용량 비타민D, 아이 인지 발달에 긍정적 영향” - 전자신문",
+      "published": "2026-05-24T07:30:00+00:00",
+      "summary": "“임신 중 고용량 비타민D, 아이 인지 발달에 긍정적 영향”&nbsp;&nbsp;전자신문\"임신 중 한 스푼 먹었더니 똘똘한 아기가?\"⋯태아 뇌 발달 돕는 '이 씨앗'&nbsp;&nbsp;v.daum.net임신 중 비타민 D 섭취, 자녀 기억력 향상에 도움된다&nbsp;&nbsp;하이닥\"임신 중 고용량 비타민D, 아이 기억력 향상과 연관 가능성\"&nbsp;&nbsp;뉴시스“임신 중 먹은 비타민D, 아이 기억력 좌우?”... 최근 연구들 살펴보니&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuZnhGVkdFaU1uOC1KR3RicWJXem5vSFNuSEtaTWVCck05RmgxZ0R0MWdtalI5bDlPUVdtVWY5VXdzNjlrV2NWX29uQ1RwQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "513cdd11911f",
       "title": "“‘세사미’ 캐릭터인줄”…해조류로 위장하는 신종 물고기 발견 - 동아일보",
       "published": "2026-05-24T02:30:00+00:00",
       "summary": "“‘세사미’ 캐릭터인줄”…해조류로 위장하는 신종 물고기 발견&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3Z5VkJpc25JdXZBWHFQS245TWl0QUlrOVVYYk5PMzF2TlBMMGRKTWMyMWp3UVAtcUpnelhJNHprLTJ6QkpRSzhVdlNhRG5YdUYxTG1FQlVqek4tVmVfWnYwc3ZnLTdkZm9RN2RmSHFESjjSAWZBVV95cUxNTjFuSFlsaXhfX3dCVmNUU1MyWW9IeUc1amc2Z29aQjY1Tnl4aFpzeGVCbmNsdTF6RDROQzFVU1Y5RGQxc1BUckFWbXBtRlV1RWhPZGpzN1hYZC1HRmxteUJLZXN5THc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b96a4daf0f6e",
-      "title": "\"관절염 통증, 대상포진·출산통보다 더 심해…칼로 찌르는 느낌\" ('대단한 도전') - 네이트",
-      "published": "2026-05-24T01:54:00+00:00",
-      "summary": "\"관절염 통증, 대상포진·출산통보다 더 심해…칼로 찌르는 느낌\" ('대단한 도전')&nbsp;&nbsp;네이트무릎 관절염 치료, 정형외과 의사들은 부모에게 어떤 걸 권할까&nbsp;&nbsp;시사저널많은 중년 남성들이 부적절한 운동 자세로 인해 조기 골관절염을 앓고 있습니다.&nbsp;&nbsp;Vietnam.vn[전문의 칼럼] \"중장년 무릎 뒤 쪽 아픈 오금 통증, 퇴행성 관절염 아냐?\"&nbsp;&nbsp;이데일리“수술은 마지막 선택… 퇴행성관절염, 보존치료 충분히 받아야”&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zel9RUGp0S0VoZ0R2c1NFU3dTQzduT3V1ZnpPLVRnQ3RkMC1KdGYzY1dicHltRGpRVVp3REQ1VmJpaU04OHlKWVdEa0xjQ2lOa3d3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18fdd8e51653",
-      "title": "“매일 피똥 쌀 만큼 뛰는데 날벼락”…베테랑 러너들, 건강 무너졌다 - 매일경제",
-      "published": "2026-05-24T00:42:25+00:00",
-      "summary": "“매일 피똥 쌀 만큼 뛰는데 날벼락”…베테랑 러너들, 건강 무너졌다&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IMVJjdHl6VGNYR0VjcTFsX0Z1WU1ZZHM5MEFyWHNUMW1RbVl3UkNsTk1haEJEQ0U3b3BHN0JJdHRoa0NoWDkxeEhmd3ZIZHRpeXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e621a894b9ca",
-      "title": "[표지로 읽는 과학] 세균이 만든 항바이러스 무기, 인간도 쓴다 - 동아사이언스",
-      "published": "2026-05-23T23:00:00+00:00",
-      "summary": "[표지로 읽는 과학] 세균이 만든 항바이러스 무기, 인간도 쓴다&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50UW5fTEpfTURpVlFqUDU1Yy15UFlFanZPZkxMYU5LQVp5ZmxJYms0UnV3NjFwSVgtdmRocThRczJPNDNtZnBKNVlMUG42enRjNzQ3aw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5eb43c837df1",
-      "title": "“심장 지키려면 꼭 바꿔라” 햄 대신 ‘이것’ 먹으라는데… 뭘까? - 헬스조선",
-      "published": "2026-05-23T22:30:00+00:00",
-      "summary": "“심장 지키려면 꼭 바꿔라” 햄 대신 ‘이것’ 먹으라는데… 뭘까?&nbsp;&nbsp;헬스조선[SDG 3] 초가공식품, 심장질환과 조기 사망 위험 높인다&nbsp;&nbsp;SDG뉴스알레르기 없는 아이도… 초가공식품 많이 먹으면, 천식 위험 4배 높다&nbsp;&nbsp;하이닥[메디컬투데이 - 쇼츠뉴스] 초가공식품 섭취와 아동 천식 발생 위험의 상관관계 연구&nbsp;&nbsp;네이트의사들이 \"밥은 가급적 집에서 먹으라\"는 이유… 논문에 실렸다&nbsp;&nbsp;MSN",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04VDZ0R3p4TTh3QUFIYWVVZFQzVnBUVDZHTjdiZmZPVHMtU3pfOEZqYXRtMDd6dWJZZ0hqVGRGMlZHVXFaMmJWRDFqRVpmOS1BT2Q1SHVld0w2eGFzNFFXZ09CbDI2V2pSUlJNOFhJSlhwbHJfRnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3Z5VkJpc25JdXZBWHFQS245TWl0QUlrOVVYYk5PMzF2TlBMMGRKTWMyMWp3UVAtcUpnelhJNHprLTJ6QkpRSzhVdlNhRG5YdUYxTG1FQlVqek4tVmVfWnYwc3ZnLTdkZm9RN2RmSHFESjg?oc=5"
         }
       ]
     },
@@ -266,18 +374,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkJHSEdpb2x2NUxkMkR3X2NuSlRGaG5NMGd0UG03LXBSREdLRnhTMGxJSTVYUlN2SGtqUFEzUlJYOF90QnZHTGR4b2hOQUc4VjBvTEVFcVZ3dnMzeUc4RDZubW1RV2NTR1RCbW1fa1Rtb011WkVRMDNZQ2l2d3hiSlRzSmN2Yks0QnJ2ZdIBoAFBVV95cUxPc3VYM19OTnJ0ejV6Q0w4N3BYdHZXdWQ5VGs2SDBKNHZnbG80MGRZUVJJb0IzdS02OTZSOVpXbnlWQ2dGcVhvampGZUhWRWhIOVJpYk1iVU5NZUFMUC1ROVR6RGliV1ZoMnFJSklwVmVGR2RCY0hwZm8zVENlR3JzMk5GYVNUZGxVUFVhS3hkQjN2X09xam4yS1M3dk1UUzZu?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ef990305514",
-      "title": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈 - Chosunbiz",
-      "published": "2026-05-22T21:35:00+00:00",
-      "summary": "피부 회춘, 근육 재생… 줄기세포의 시계는 거꾸로 흐른다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbXdRcl9sWGZFclA0TmNEN1cyYm4xS3h1Qk1BUjFfTjlUd1RWXzRaZm8wTnFfWWM4amU2d3o2NUZiNThBY0ZINU1SN3pVTzJNWmNQQUpTZ2RNWW5nR21ISHJWOGw5SUpXeUYxMXZDYzEteG9falVRY1p5Wi0zY2JvMnd4WDcyYVczYjMybXNhMERkcWwzdlpN0gGrAUFVX3lxTFBRcFBnZGdjTHBSaVlzeXFabGFDMDRwZEFYeFlHc3pfRl9CX3lwRHFXa1J5TTlDRnRYYlpnYTRBS21VUlVSdm10TC1oWlRLWlBpU1JoeFZpWlpOel9CRGFtR016LUlFZHMxb3AxRW5xalg4OWRPSFJlcU1za3lqbWpvY2NwM0VxNEZwMlNfREEtVHJQVkY5VV9iekxJNzhMbU9LUkFEOWt5RUhLcw?oc=5"
         }
       ]
     }
