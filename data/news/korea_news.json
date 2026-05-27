@@ -1,10 +1,190 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-26T20:12:34.281245+00:00",
-  "total_fetched": 71,
-  "unique_count": 71,
-  "health_related_count": 41,
+  "fetched_at": "2026-05-27T04:07:47.565100+00:00",
+  "total_fetched": 86,
+  "unique_count": 85,
+  "health_related_count": 50,
   "news": [
+    {
+      "id": "c9c4ffe66bdb",
+      "title": "“암 막는 음료 따로 있다?”…암 방어력 끌어올리려면 매일 ‘이것’ 마셔라! - 코메디닷컴",
+      "published": "2026-05-27T03:05:00+00:00",
+      "summary": "“암 막는 음료 따로 있다?”…암 방어력 끌어올리려면 매일 ‘이것’ 마셔라!&nbsp;&nbsp;코메디닷컴\"암 막는 음료 따로 있다?\"…암 방어력 끌어올리려면 매일 '이것' 마셔라!&nbsp;&nbsp;네이트“암 막는 아침식사”… 계란·두부에 ‘이것’ 넣으면 완벽&nbsp;&nbsp;헬스조선소고기보다 철분이 더 많이 함유된 이 채소는 암에 대한 \"무기\"이며, 다양한 맛있는 요리를 만드는 데 사용할 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5pWWFQZGVrZldlbGg4YkkwQklnSF8zUmFfZ3BPeHByLUcwTkVWQVdjeF9PRGFJU1B4SnBaZE1IQU00Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eca361c6e427",
+      "title": "국립암센터 공선영 교수팀, 2026년 대한진단유전학회 ‘5관왕’쾌거 - 메디포뉴스",
+      "published": "2026-05-27T02:49:14+00:00",
+      "summary": "국립암센터 공선영 교수팀, 2026년 대한진단유전학회 ‘5관왕’쾌거&nbsp;&nbsp;메디포뉴스국립암센터 공선영 교수팀, 2026년 대한진단유전학회 ‘5관왕’&nbsp;&nbsp;에너지경제신문국립암센터 연구팀, 대한진단유전학회 최우수논문상 등 5관왕&nbsp;&nbsp;메드월드뉴스'희귀 유전자' 임상 해석 공백 메워…국립암센터 공선영 교수팀, 대한진단유전학회 5관왕&nbsp;&nbsp;메디팜스투데이국립암센터 공선영 교수팀, ‘대한진단유전학회’ 5관왕&nbsp;&nbsp;간호사신문",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45Yk1IUWJ6dXNwb3JfV2hWcVA1cnlWWTFVeHdKN293c2YwTzcwaWpUbjAzNVVBbnNaNlRaanpramNadVpkV0FoMkU0VWVUSnk3RWh6dTBCZzV5MzFSTy03LUxCSTI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6899c19e0d3",
+      "title": "똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다 - 농민신문",
+      "published": "2026-05-27T02:34:45+00:00",
+      "summary": "똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EODZXUE45ZjRwVEk3QVJial9UWUw1UkhyNXB5NXFLc25aQU42WUlTaThIekw3Zkk3bWd5Zm9EYXcybFhKRFpkVmt6QVV0cFVLa0Y1d0VhRHVqZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e978c5ec3f3",
+      "title": "CSL시퀴러스, 고령자서 면역증강·고용량독감 백신 간 유사 효과 확인 - 히트뉴스",
+      "published": "2026-05-27T01:58:07+00:00",
+      "summary": "CSL시퀴러스, 고령자서 면역증강·고용량독감 백신 간 유사 효과 확인&nbsp;&nbsp;히트뉴스“고령층만? 젊은 이식환자도 고면역원성 독감백신 맞아야 합니다”&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zb2hJQnc5Ukw0eGEtNUVpa3dMT2FrbDhYXzlkaG4wUGVtamR6QmtQMkE4SGptMG5GVTZkdzI3SmdOTTdYOEhvMU5Nd1B3R1RHUHZtV2hsc3A5bVZQYzFIeUVBU0tta3N5WDhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d6194d4b2618",
+      "title": "디앤디파마텍 \"MASH 신약 임상 2상 조직생검 통계적 유의성 확보\" - 머니투데이 - 머니투데이",
+      "published": "2026-05-27T01:51:00+00:00",
+      "summary": "디앤디파마텍 \"MASH 신약 임상 2상 조직생검 통계적 유의성 확보\" - 머니투데이&nbsp;&nbsp;머니투데이",
+      "sources": [
+        {
+          "name": "머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0Ujdxc3U2Y2JMU1EtclB0SldlRXRMNlpadEdCc1RRTnp3MEk2U3Fxb3JZYk9SRnc1NXVEeUNvNUxvb0VRajhpc0FLeTRsQlJGZmNGYnpHNER3b1RUclVBV3I3V0ZxdGxNR3fSAW9BVV95cUxQZGpMNU1oOGJXdVpud3pyYmR4c1AtazVfXzl1N2Ffc1NnbXBNMlEtRzJhUUxIazAtZDVnV3M3QTY1SEpacU5OUFlqMXlvVnptZ3RsTTlXby1zVWNoU2lGbkNrX2dmbUZYT2xPaVlUSnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c006ff29ed9",
+      "title": "인간이 못 푼 희귀 유전질환, 단 며칠만에 찾아낸 ‘AI 과학자’ - 중앙일보",
+      "published": "2026-05-27T01:51:00+00:00",
+      "summary": "인간이 못 푼 희귀 유전질환, 단 며칠만에 찾아낸 ‘AI 과학자’&nbsp;&nbsp;중앙일보",
+      "sources": [
+        {
+          "name": "중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GcGdzN2FfZ0EyckwyVnpmaHhYVldaMzdLMTZZbkkyLXA0Ym1kVmVRdFBCbERERW5qZ2VMRlh0cEFIOHpadXJBQ0s5VEphNG9tLVJ3cHZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "78074fc3ab9f",
+      "title": "일산백병원, 6월 13일 ‘이비인후과 연수강좌’ 개최 - 병원신문",
+      "published": "2026-05-27T01:12:52+00:00",
+      "summary": "일산백병원, 6월 13일 ‘이비인후과 연수강좌’ 개최&nbsp;&nbsp;병원신문",
+      "sources": [
+        {
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OcTl3QjRaSjJ6d0l2VDRhSGJaOVpvLXlVWlNTSHBudy1GWFJSaU9wZHQ5R3daOEZ3cUxlUVN3MDJueHFGNmpPSjk1aUxpX0k5V0lyV2JndDJPdnhQc3JRdTdwdUhBLVRyY2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df76bf28dd61",
+      "title": "혈액 속 ‘면역 바코드’로 뇌전증 읽어낸다 - 후생신보",
+      "published": "2026-05-27T00:11:00+00:00",
+      "summary": "혈액 속 ‘면역 바코드’로 뇌전증 읽어낸다&nbsp;&nbsp;후생신보\"혈액 속 '면역바코드'로 뇌전증 진단 가능성 확인\"&nbsp;&nbsp;v.daum.net혈액 속 면역세포로 뇌전증 진단…\"세계 첫 발굴\"&nbsp;&nbsp;뉴시스혈액 속 ‘면역 바코드’로 뇌전증 읽어낸다… “AI 진단 정확도 80%”&nbsp;&nbsp;헬스조선피 한 방울로 '뇌전증' 찾는다…서울대병원 세계 첫 규명&nbsp;&nbsp;데일리안",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBNVklrejRRNXF2X0h6VE44XzBWT0JWMHNZOHB4M0hfLU9XejhCVlUyUm91RHNLSzk5c3hiM2hDdmlIRnQ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db415ee2d4fa",
+      "title": "“키스로 전염 가능”…‘성병 쓰나미’에 발칵, 매독 환자 급증한 유럽 [라이프+] - 나우뉴스",
+      "published": "2026-05-26T23:49:01+00:00",
+      "summary": "“키스로 전염 가능”…‘성병 쓰나미’에 발칵, 매독 환자 급증한 유럽 [라이프+]&nbsp;&nbsp;나우뉴스엄마가 걸리면 뱃속 아기까지 감염…유럽여행 ‘매독’ 주의보&nbsp;&nbsp;헤럴드경제\"키스로 전염 가능\"…'성병 쓰나미'에 발칵, 매독 환자 급증한 유럽 [라이프+]&nbsp;&nbsp;네이트유럽에서 임질과 매독 발병 사례가 역대 최고치를 기록했습니다.&nbsp;&nbsp;Vietnam.vn엄마가 걸리면 뱃속 아기까지 감염…유럽여행 '매독' 주의보&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUEVIRERkSTl6ZEpvaV9xaHNvMTdoVXJjQkw1ZTZ4YlpEMDVVY0JzbXQzczFWTzEwcU5xd0xGT0RvVG1vNFh1MFVxdlpSenZkWHZySTNzNFhCRTNYdE5nc3hhdTRscnFEaEZ3bVNQdGY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f924c07a9efd",
+      "title": "\"매일 이것 했다\"… 100세 장수인에게 공통으로 나타난 습관 6 - 하이닥",
+      "published": "2026-05-26T22:00:00+00:00",
+      "summary": "\"매일 이것 했다\"… 100세 장수인에게 공통으로 나타난 습관 6&nbsp;&nbsp;하이닥나이 들어 건강하려면… 돈보다 중요하다는 ‘다섯 가지’&nbsp;&nbsp;헬스조선[방재욱 칼럼] 100세 시대, 장수 습관 길들이기&nbsp;&nbsp;논객닷컴[내궁내정] 토마스 펄스의 장수습관 키워드 11…금연·치실·비만·운동·금주·식단·구강·스트레스·사회관계·공부·은퇴&nbsp;&nbsp;뉴스스페이스10년 젊어지는 시니어 건강 습관&nbsp;&nbsp;교수신문",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PU2ZvLTRUYVZCMEYyb3dRUEZCR2taRTU0TEhXQmhOMmpQRjJKSHN6M1hKY2h3Mlk0RWhRcmhBdlhZM2JsVFVJTEVyeDNPbnZxQnJtNE52bEFEekEtdGZYSGMzOXZJXzNJdmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "edaf925353bf",
+      "title": "‘여성 백신’ 인식 바뀌나…남아 HPV 국가예방접종 확대 의미는 - 디지틀조선일보",
+      "published": "2026-05-26T21:30:00+00:00",
+      "summary": "‘여성 백신’ 인식 바뀌나…남아 HPV 국가예방접종 확대 의미는&nbsp;&nbsp;디지틀조선일보남자도 HPV 국가접종… 사회적 감염관리 확장 [건강+]&nbsp;&nbsp;v.daum.net자궁경부암 막는 HPV 백신…“남성 접종이 집단면역 완성” [헬시타임]&nbsp;&nbsp;서울경제김해시, 12세 남성 청소년 HPV 무료 접종… 올해부터 대상 확대&nbsp;&nbsp;gukjenews.com원주시, 12세 남성 청소년 대상 'HPV 무료 접종' 시작&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "디지틀조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSE5ZaU51UGlGODFHcjFSZm9aOEYxNkY4YUk4ajgycW9MWmV0X0pqcWl0UC02bVdoU05VNS1wTElDOEstVkF3eDRScFpWTmt3TDJHZlhkak5LaDZ4azRQczF5UDl0WHBLTEtqczRxRFZzaTluNjRzQ0JCWEp3ZVoxMDAwdXh6SUnSAXtBVV95cUxPRVl5U0ZtS3Nub3prTDBicFVzUDFXNHV1bmdqcXUxcy1zYzVvTjNZbXh2U1RMcU1saGtvTGdYZV9VNHNBbmVpM1ZiRDZwekloTFBLUk9tZThfTjRfbEdDNHNkUm9RYUJkd0liU2FOcnhiWmJZdHVPTWU4NVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4e3d5e1ddf9",
+      "title": "“지팡이 짚기 전에 짐볼 위에 앉으세요” - 마음건강 길",
+      "published": "2026-05-26T21:00:00+00:00",
+      "summary": "“지팡이 짚기 전에 짐볼 위에 앉으세요”&nbsp;&nbsp;마음건강 길",
+      "sources": [
+        {
+          "name": "마음건강 길",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oZ08yS0FTUkUyNDg3VGJPWjhzTWlkS2tTTHp6c0RSZ216U2VrWEtxSzdaMDhKVDU3R1A2bElrQnNuYkF0WGZEOUQxRngtUGVuNGwyQjZleVdGenVvNzMyX2tVMnBDdXQ2cXfSAW5BVV95cUxPT1RzS3dEbHpSblYwZFRpODltODVkOHQ4MEd6M3Z5RVF5ZUs4dVZfUVdaaEtLc1duMW5CcWs2cnM0UjhJVUtRQWY1aGhZdGNBRkotOWR4ZmZWYWJHQlpaYTd1X0ExRDh6NXlSUUVDZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec7efac2ddd6",
+      "title": "유럽, 독감백신 조성·마약류 지정·불법의약품 단속까지 규제 강화 - 뉴스더보이스헬스케어",
+      "published": "2026-05-26T20:59:00+00:00",
+      "summary": "유럽, 독감백신 조성·마약류 지정·불법의약품 단속까지 규제 강화&nbsp;&nbsp;뉴스더보이스헬스케어",
+      "sources": [
+        {
+          "name": "뉴스더보이스헬스케어",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKLWhuNDRCb1RwbC1wMUcyT0dXLUFHaG1YeDZZSGlzbExkSkxCajVhLVBDTWpZZHlhalJ5RE4zZlRFRUtpQi1NbXBPcWxYb2RnRjViY3ZEeHlMVFlYZExnVEFHWld4LW96M0F3SkJtRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f48fe3d896af",
+      "title": "\"약물 없이 PTSD 잡는다\"…정신 질환 스며드는 의료기기 - 메디칼타임즈",
+      "published": "2026-05-26T20:30:00+00:00",
+      "summary": "\"약물 없이 PTSD 잡는다\"…정신 질환 스며드는 의료기기&nbsp;&nbsp;메디칼타임즈",
+      "sources": [
+        {
+          "name": "메디칼타임즈",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBySE02S2s4Qzc4QThPSEREcFFseHV0eDg1T1N0eGMtZkU3dVIyT2hzY2VCR203bFgzYkJuNmRJYzk1aHZJaTRXZGZDWWV3TmxKbXJkUlY4ZGhRbFNyYVh4Wl8waXlRTmxUdkR4LWdGTnlLbTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6aa614b04fd",
+      "title": "2형 당뇨병, 췌장 넘어 전신(全身) ‘13개 복합적 원인’ - 데일리메디",
+      "published": "2026-05-26T20:21:00+00:00",
+      "summary": "2형 당뇨병, 췌장 넘어 전신(全身) ‘13개 복합적 원인’&nbsp;&nbsp;데일리메디당뇨병은 췌장 문제? “13가지 전신 문제로 발생”&nbsp;&nbsp;헬스조선\"당뇨병, 혈당 조절만으론 부족…몸무게부터 정신건강까지 신경써야\"&nbsp;&nbsp;네이트2형 당뇨병, 13개 복합기전 원인으로 발생&nbsp;&nbsp;메디칼업저버혈당만 잡던 당뇨 치료, 전신 13개 기전 통합 관리로 전환&nbsp;&nbsp;K뉴스통신",
+      "sources": [
+        {
+          "name": "데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CWWdNSVRBb3dzdFhCV2dsMHBuRUFIandJc2gwR0xBOVJhUmlndkdqVW1OSjl0andHSXNtVERySVJnZ1Qyb0xFUGJ1dllUemQxWVZJNld5TDEyMkJRV0F1b3dEMW91ekxOYjltb2FPUFZwR0pD?oc=5"
+        }
+      ]
+    },
     {
       "id": "814edf3ef311",
       "title": "RSV 예방 항체 효과 입증됐는데, 백신 아니라 지원 안 된다? - 동아일보",
@@ -14,6 +194,18 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84UWpJVWlWNlNfV2t3SGFuUnljWUJNYzFMR1prRFBrcVhBNzNuQUplLV9fSHdESWZ0Y2w4ay1Wam9JWVVHSFZvZWJCdkl6dFR4U2ZjSUNPVnF3dHZIeERtWjJzUWtqRWl0UTZHOEZCWdIBZkFVX3lxTE5ybHUtNHZlSHp1RE5xeW81empfNC13Z2I5ZGN0ZDEycHVWcG83a2o1THpRbmYzclcwVTV0d1VvMWhvV1pBU1pEYTFITGE0OFFOQXNlRVRqWmxsMXVGdGk3VW1vZEpQUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50d851bc637a",
+      "title": "[헬스캡슐]은행잎 추출물, ‘베타아밀로이드 응집 억제’ 효과 확인 外 - 동아일보",
+      "published": "2026-05-26T19:30:00+00:00",
+      "summary": "[헬스캡슐]은행잎 추출물, ‘베타아밀로이드 응집 억제’ 효과 확인 外&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nc1dDalI1dDk5QnlkajFZSTVxQ3dzWXg5RkFxU1hSV19fQ0ZyazM2dEhYYmNWc3ByTm9iR1VzTEtjaG1GTzFvdUdpQ3FHcmxsV29NM0otUGFGSmx0czVBMzJwOERyZk1FQ3U0bVF4UdIBZkFVX3lxTE9iemtPMDBZOUptMW1ET2FVUXlTbXFHeWJXVW9ieHZMdU1wMXVrUlNHc08xOUFkbEZROVp3dDczRXlMb1FtLTA1YVlsZkVwMEFTRG85Rk5HdDJBZThnODI1WVBvZnYwdw?oc=5"
         }
       ]
     },
@@ -42,10 +234,22 @@
       ]
     },
     {
+      "id": "0db6a1cd3386",
+      "title": "세로토닌·멜라토닌 대부분 장에서 생성… ‘이것’ 잘 해야 잠 잘 잔다 - 헬스조선",
+      "published": "2026-05-26T13:20:00+00:00",
+      "summary": "세로토닌·멜라토닌 대부분 장에서 생성… ‘이것’ 잘 해야 잠 잘 잔다&nbsp;&nbsp;헬스조선\"밥보다 고기 당기는 이유 있었네\"… 뇌 조종하는 장의 비밀, 국내 연구진이 풀었다&nbsp;&nbsp;v.daum.net고기·장어 드세요…단백질 부족하면 장이 뇌에 신호 보낸다&nbsp;&nbsp;동아사이언스“이 음식, 왜 하필 지금 당길까”···입맛 때문이 아니었다?&nbsp;&nbsp;경향신문“오늘 어쩐지 고기 먹고 싶은데” 과학적 근거 찾았다 [달콤한 사이언스]&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NRml4SDV1Yy1odEx2bGtOLUVMMHhFWDE3Vkc3TmJLUF9mWERZNUtqeXpib0pHVi0yempaYzBsT3JBalpDYndDOUFHWTYyYjRaX0YwY2JGalVUdVRScFB6aHJOMDRRc0ZaRlNFMUJoYWozb1U1Tmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5fabbdec296c",
       "title": "중앙대병원 손혜주 교수 ‘뉴로테리어: 늙지 않는 뇌를 위한 공간 처방’ 출간 - 의약뉴스",
       "published": "2026-05-26T10:51:52+00:00",
-      "summary": "중앙대병원 손혜주 교수 ‘뉴로테리어: 늙지 않는 뇌를 위한 공간 처방’ 출간&nbsp;&nbsp;의약뉴스[신간] 손혜주 중앙대병원 교수, ‘뉴로테리어: 늙지 않는 뇌를 위한 공간 처방’ 출간&nbsp;&nbsp;의사신문[신간] 손혜주 교수 '뉴로테리어: 늙지 않는 뇌를 위한 공간 처방' 출간&nbsp;&nbsp;메디칼업저버",
+      "summary": "중앙대병원 손혜주 교수 ‘뉴로테리어: 늙지 않는 뇌를 위한 공간 처방’ 출간&nbsp;&nbsp;의약뉴스[신간] 손혜주 중앙대병원 교수, ‘뉴로테리어: 늙지 않는 뇌를 위한 공간 처방’ 출간&nbsp;&nbsp;의사신문“집이 뇌 건강 바꾼다”...중앙대병원 손혜주 교수, 《뉴로테리어》 출간&nbsp;&nbsp;더퍼스트미디어[신간] 손혜주 교수 '뉴로테리어: 늙지 않는 뇌를 위한 공간 처방' 출간&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
           "name": "의약뉴스",
@@ -62,18 +266,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14OXlnUHlTR1dwZ0U1X0U4UEJsUDNaSXBfN05mNVpQRWhmaXFwOVRhVlZYS2o2R0Z5ZjctWVFLb0UwZl9xN0I2QjRSZTNQaUQ1SVhaOFQtUWVwaUFES28yb0F4aHY5UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0025512d0681",
-      "title": "혈액검사로 뇌전증 읽는 시대 ‘성큼’…핵심은 ‘면역세포(T세포)’ 변화 - 헬스경향",
-      "published": "2026-05-26T10:14:46+00:00",
-      "summary": "혈액검사로 뇌전증 읽는 시대 ‘성큼’…핵심은 ‘면역세포(T세포)’ 변화&nbsp;&nbsp;헬스경향\"혈액 속 '면역바코드'로 뇌전증 진단 가능성 확인\"&nbsp;&nbsp;v.daum.net\"뇌파·MRI 검사 안 해도 돼\"…핏방울 속 '면역 바코드'로 뇌전증 읽는다 - 머니투데이&nbsp;&nbsp;머니투데이혈액 속 면역세포로 뇌전증 진단…\"세계 첫 발굴\"&nbsp;&nbsp;뉴시스피 한 방울로 '뇌전증' 찾는다…서울대병원 세계 첫 규명&nbsp;&nbsp;데일리안",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mZUFrZnI1YU1zSVVXc09VcHR2TE14dUtOcXJXaFdqVXpxTkdoa3Q3ZGpUczBzRFBKenhaR0g2WU15alBKV2ZOYXNhOUtGTi13VmZQS1BXakt1X004eHo5MzZ2cll4alo2WWc?oc=5"
         }
       ]
     },
@@ -102,18 +294,6 @@
       ]
     },
     {
-      "id": "7f2ab62b6e15",
-      "title": "2형 당뇨병, 췌장 질환 넘어 전신 질환으로 재조명 - 보건신문",
-      "published": "2026-05-26T09:10:07+00:00",
-      "summary": "2형 당뇨병, 췌장 질환 넘어 전신 질환으로 재조명&nbsp;&nbsp;보건신문당뇨병은 췌장 문제? “13가지 전신 문제로 발생”&nbsp;&nbsp;헬스조선혈당만 잡던 당뇨 치료, 전신 13개 기전 통합 관리로 전환&nbsp;&nbsp;K뉴스통신2형 당뇨병, 13개 복합기전 원인으로 발생&nbsp;&nbsp;메디칼업저버분당서울대병원 임수 교수팀, 2형 당뇨병 최신 지견 국제학술지 발표&nbsp;&nbsp;로이슈",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvYnhCY21HUmxqVms5STFTU3RGMzVIVEhBcFBGSDduNkNzWTVhRzQ1clBkd01qeHN6dDZKUnZmVmt2Ymx0Z3JvYXhNNWJOS1luZVRWemNWUTlPVmtmbHlNLXdVcw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ecc46538d6bf",
       "title": "비만치료제 맞고 시작된 구토와 소화불량... “계속되면 ‘위마비’ 의심” - 하이닥",
       "published": "2026-05-26T09:00:00+00:00",
@@ -134,6 +314,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlR3hnVGxDZDlQYnl2bjhpNlpoczRkRks3RFU4dHdQMlZNX3F5M3FSNC1fNnBidmFzVFIxUkxqMmpxVVQtRGc1dVZQZndsOHhlc01BZVhHUW5nN2Z5Smg5NWliSXZrek1hWHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5b643a4f3118",
+      "title": "학습 속도 높이려면 ‘통큰 보상’ 줘라?…최근 연구 “횟수보다 중요” - 한겨레",
+      "published": "2026-05-26T08:25:00+00:00",
+      "summary": "학습 속도 높이려면 ‘통큰 보상’ 줘라?…최근 연구 “횟수보다 중요”&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CclhLbGloUHIzaFI1WG5HQlhzMGVDcWN1VUNpYmw0WUMyUGtEcDJsVjEtTlBJNEk5YklGRlNDOFZKTV80WU1yX1pKYVAwNEFBSENORjZJOFhqTE9falB4d1c3UGhQa1BoS09FSGVFcnp1UQ?oc=5"
         }
       ]
     },
@@ -182,6 +374,18 @@
         {
           "name": "MEDI:GATE NEWS",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BU2U4SkMzVlh4R1RmMEZqR0EySFJyN2NTcVNudjRsaEp3M1VkYlJnc054QXY5UzJTYTNWTjMzWDduNGl2Q3Z4YVdIU1VjYzRGanJ5ZXZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b688f8b1502e",
+      "title": "잠 못 이룬 다음 날엔 곧바로 보충해야 합니다, 미루면 사망 위험 최대 42% 상승 - 캐어유 뉴스",
+      "published": "2026-05-26T05:00:00+00:00",
+      "summary": "잠 못 이룬 다음 날엔 곧바로 보충해야 합니다, 미루면 사망 위험 최대 42% 상승&nbsp;&nbsp;캐어유 뉴스\"잠 적게 잔 다음 날엔 반드시 수면 보충을\"&nbsp;&nbsp;조선일보잠 3시간 덜 잤는데 그냥 출근?…사망 위험 42% 높인 최악의 습관은 [헬시타임]&nbsp;&nbsp;서울경제잠이 보약? 많이 자도 빨리 늙는다…‘8시간 이상’ 사망 위험 40% 높아져[후암동 논문 연구소]&nbsp;&nbsp;헤럴드경제“잠 못 잔 다음날 더 잤더니”…8만5618명 추적서 달라진 ‘사망 위험’&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GR0tyY2RYQjFxaHZVeEtTUXZocGNWQ25TSEtwUkJweFc4emRNMnBaYVF3V0tJTE1DcnV1UnJ4bEtpYkswc2FZMzZlQjNpdngwS0Rvbk9UdUNBX2dEUzN5UGRaZ1d6ZzZpdm5aNQ?oc=5"
         }
       ]
     },
@@ -237,11 +441,23 @@
       "id": "07c2ba1e184d",
       "title": "전 세계 12억 명 정신 건강 위기, 한국은 치료 보장률 상위 7개국 진입 - 캐어유 뉴스",
       "published": "2026-05-26T03:00:00+00:00",
-      "summary": "전 세계 12억 명 정신 건강 위기, 한국은 치료 보장률 상위 7개국 진입&nbsp;&nbsp;캐어유 뉴스전 세계 ‘이 병’ 환자 수 12억 명인데…“치료받는 사람 고작 9%” [헬시타임]&nbsp;&nbsp;서울경제\"주변에 마음 아픈 사람 너무 많아\" 기분 탓이 아니었다?&nbsp;&nbsp;네이트전 세계 정신질환자 12억 명&nbsp;&nbsp;한국의약통신정신질환, 암·심혈관질환 제치고 전세계 장애의 주요 원인 부상&nbsp;&nbsp;뉴시스",
+      "summary": "전 세계 12억 명 정신 건강 위기, 한국은 치료 보장률 상위 7개국 진입&nbsp;&nbsp;캐어유 뉴스전 세계 ‘이 병’ 환자 수 12억 명인데…“치료받는 사람 고작 9%” [헬시타임]&nbsp;&nbsp;서울경제\"주변에 마음 아픈 사람 너무 많아\" 기분 탓이 아니었다?&nbsp;&nbsp;네이트전 세계 정신질환자 12억 명&nbsp;&nbsp;한국의약통신전 세계적으로 10억 명이 넘는 사람들이 정신 건강 문제를 겪고 있습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "캐어유 뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mRkpUR1c5S0lMWVo2RXlrSjVvcnQxMEMxbGtCZFpYYUhVZ0dGcFhGQzlYWDZDSG5TM1BsU3ZZdmxScF8wZ0R0VFdVU295ZHZFRGpwcGtucUlmNFhLOFRBeHI5R2I5NHFXMXpjbA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf46dd211f2e",
+      "title": "만성 콩팥병 환자 33.7% 급증…정기검진·생활습관 개선 중요 - 뉴스토피아",
+      "published": "2026-05-26T02:57:10+00:00",
+      "summary": "만성 콩팥병 환자 33.7% 급증…정기검진·생활습관 개선 중요&nbsp;&nbsp;뉴스토피아덥다고 물 벌컥벌컥…'이 질환' 환자엔 독 된다&nbsp;&nbsp;뉴시스\"아침마다 눈 붓고 계단 올라갈 때 숨차다면\"…신장이 보내는 경고 - 머니투데이&nbsp;&nbsp;머니투데이[김연수의 식탁이야기(89)] 물 내려도 남는 소변 거품- ‘단백뇨’가 보내는 신장 경고&nbsp;&nbsp;뉴스투데이\"물도 마음대로 못먹어요\" 만성콩팥병 투석 환자, 무엇을 어떻게 먹을까&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "뉴스토피아",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVdHVpcWRQeHlqYXNhemlBYTRWSVdPOFd1NE0wdFZja0FrN2N0M0dyRXFVbVhXUGdCZHFza1NWVjZmT0g5c0Y0R2JGT2VGTGRMZVlOSXJiRzJoMlM2RzRoMWU3bFNlQXVySkw4UA?oc=5"
         }
       ]
     },
@@ -282,26 +498,14 @@
       ]
     },
     {
-      "id": "8a12238f3c0b",
-      "title": "김해시, 12세 남성 청소년까지 HPV 무료 예방접종 확대 - 케이에스피뉴스",
-      "published": "2026-05-25T23:42:00+00:00",
-      "summary": "김해시, 12세 남성 청소년까지 HPV 무료 예방접종 확대&nbsp;&nbsp;케이에스피뉴스남자도 HPV 국가접종… 사회적 감염관리 확장 [건강+]&nbsp;&nbsp;v.daum.net자궁경부암 막는 HPV 백신…“남성 접종이 집단면역 완성” [헬시타임]&nbsp;&nbsp;서울경제원주시, 12세 남성 청소년 대상 'HPV 무료 접종' 시작&nbsp;&nbsp;파이낸셜뉴스김해시, 12세 남성 청소년 HPV 무료 접종… 올해부터 대상 확대&nbsp;&nbsp;gukjenews.com",
+      "id": "01c757174b12",
+      "title": "심방세동 가진 중장년층 신장기능 더 빨리 감소 - 메디칼트리뷴",
+      "published": "2026-05-25T23:33:39+00:00",
+      "summary": "심방세동 가진 중장년층 신장기능 더 빨리 감소&nbsp;&nbsp;메디칼트리뷴",
       "sources": [
         {
-          "name": "케이에스피뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5iOUQ5SnZ0cklZWkxZYmNLZmdwVjNYWnZwd2VyZTRfaG4xczlPQ25KYzc4aFR6d0pfUERMVWRNN1ZNRldx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "062152e1df23",
-      "title": "“TV 틀고 잤더니 뱃살이?”…다이어트 망치는 뜻밖의 원인, 뭐길래? - 코메디닷컴",
-      "published": "2026-05-25T23:06:00+00:00",
-      "summary": "“TV 틀고 잤더니 뱃살이?”…다이어트 망치는 뜻밖의 원인, 뭐길래?&nbsp;&nbsp;코메디닷컴“아빠 안 잔다” 이 습관, 사실은 심장 건강에 위협… 이유가?&nbsp;&nbsp;헬스조선밤에 혈당 날뛰게 하는 ‘세 가지 행동’… 뭐야?&nbsp;&nbsp;헬스조선‘이렇게’ 자면 혈당 치솟을지도… 뭐야?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1CeV9yZ1VFbTdzSXNYLVl6WjN2S2d1QTAxcU5DSHUwRWlPc0RQbWkxYTZyNGtZX0NxYmItQ2NwVnRMZw?oc=5"
+          "name": "메디칼트리뷴",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00dUhBTllzZHJicVZsM0ZyMmlCRExmaU53WkhoMEl0MGRuNkJqTGhqSkNodURKVW1haFhuU2U0emFSUXBndzVNam9kRGZWaUhROFhqeFpJajZzVkVDUnVONmZEYzlnaldQeW5hYUZVamhRVmx0UkHSAXpBVV95cUxNUWRlVVgySlpPSnVrcnBDOWRKNWM2Y2xhaDZ2ZEpmSlpsajBnSXpmbG1jdEYyUjM3MXk4X0tEeVFsUEhRQmNvNS1DSHcyNUE1S28xb3BwM001OHVHYkYxRGxkMDJLMW1zZTdWMVg2V0RoVThqYjVXd2tnUQ?oc=5"
         }
       ]
     },
@@ -318,18 +522,6 @@
       ]
     },
     {
-      "id": "a24251a7276a",
-      "title": "[방재욱 칼럼] 100세 시대, 장수 습관 길들이기 - 논객닷컴",
-      "published": "2026-05-25T22:13:24+00:00",
-      "summary": "[방재욱 칼럼] 100세 시대, 장수 습관 길들이기&nbsp;&nbsp;논객닷컴나이 들어 건강하려면… 돈보다 중요하다는 ‘다섯 가지’&nbsp;&nbsp;헬스조선[내궁내정] 토마스 펄스의 장수습관 키워드 11…금연·치실·비만·운동·금주·식단·구강·스트레스·사회관계·공부·은퇴&nbsp;&nbsp;뉴스스페이스10년 젊어지는 시니어 건강 습관&nbsp;&nbsp;교수신문",
-      "sources": [
-        {
-          "name": "논객닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCcDZlY2VTdHQ2UzRfMnpjc1RlMEVfbEpSR0NXcUFOYWNzaVBBakVQdGpfUTF4YzRtbHVmM3BGY0ZOb1FVVlBVWU5jM3dqcWk2YkZ3anJScnoyR1pwbnEyN0dWaDU5Nmcw0gFrQVVfeXFMTUtWdDdhQlBtcDQtMmZPakVubDdDU1Q1TVBqR3hXbzZfeExENk1BbmMweFdEZEo1N3dDb1d6RU1renlObnRDOUhDVGRPa0NyeDZTOTZoN3RpZFlWZkRRaVJRZmYycWpSSHhodUU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bfbfb9ecd33d",
       "title": "주 1회 이상 악몽 꾸는 男…파킨슨병 위험 3배 높을 수도? - 코메디닷컴",
       "published": "2026-05-25T22:06:00+00:00",
@@ -338,18 +530,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1aV3lDeXRhdzVXZ0FydXViZzJRYzJVNHNsMV9CeGRYMFlDcTQwNTZfc3dUcHZtQml2TVV3SWxrS3NMUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8f0c5770b1b",
-      "title": "갑자기 고기 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\" - 사이언스타임즈",
-      "published": "2026-05-25T22:04:03+00:00",
-      "summary": "갑자기 고기 당기는 이유…\"장이 음식 속 단백질 부족 알려줘\"&nbsp;&nbsp;사이언스타임즈\"밥보다 고기 당기는 이유 있었네\"… 뇌 조종하는 장의 비밀, 국내 연구진이 풀었다&nbsp;&nbsp;v.daum.net세로토닌·멜라토닌 대부분 장에서 생성… ‘이것’ 잘 해야 잠 잘 잔다&nbsp;&nbsp;헬스조선고기·장어 드세요…단백질 부족하면 장이 뇌에 신호 보낸다&nbsp;&nbsp;동아사이언스“이 음식, 왜 하필 지금 당길까”···입맛 때문이 아니었다?&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "사이언스타임즈",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeEQ0bU5vM0o4NnUzcENnXzZMMUlnUV92MmRLb0xxNFEzZUJGWTdvZ2MxdUEtU1JtSGtDSzdNWldjT0g5NlhsemdEMEFIbkdHZFNVS0lNT2kyS0RhRzFSRFZ4QmtKbHFvMExrcnpFQ21sWUpsWTBQa1dSMGt1c3FWLVlHamFZMzVOTTlHWFRWdw?oc=5"
         }
       ]
     },
@@ -374,18 +554,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfVlozR21CdnVBUzM1b05pTVZZbkFQeG05UXNCMFM2bWZzbDBtMWFJZ3F3Zlg4ZzZwR1lsWEtOQ2xoekdYbG9pd3ZaYUpFUnAyYUNzRVZ4ckFzQTJtX2l3dU9NR05WaGlReGlTMjZJakc1RXgzeWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fece023c32bb",
-      "title": "하루 5시간 이상 스마트폰 사용, 비만위험 높인다?--건강 - 인민넷",
-      "published": "2026-05-25T07:45:00+00:00",
-      "summary": "하루 5시간 이상 스마트폰 사용, 비만위험 높인다?--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlNjdMdnM1OGZHZXU1WXNBQ2dPcnZMYTNZbS0yZkFra0JsRXdrWEJmMGhka1pDR3hXb1NlRFZjTW90Y3lhRlJXaHdiSmVmaTNic3EzUkhYSnFZTTZUVWxyTFp0ekZzbG92ODBMcTZn?oc=5"
         }
       ]
     },
@@ -426,74 +594,14 @@
       ]
     },
     {
-      "id": "1877e6bba3ee",
-      "title": "같은 우울증·고혈압이어도… 여성이 치매에 더 취약한 이유 - 하이닥",
-      "published": "2026-05-25T02:00:00+00:00",
-      "summary": "같은 우울증·고혈압이어도… 여성이 치매에 더 취약한 이유&nbsp;&nbsp;하이닥",
+      "id": "b21edad9a0a9",
+      "title": "중국, 양자컴퓨팅 세계 신기록...'구장 4호' 개발 - 지디넷코리아",
+      "published": "2026-05-25T01:33:58+00:00",
+      "summary": "중국, 양자컴퓨팅 세계 신기록...'구장 4호' 개발&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmWEFpSUYySVVjOW1rU3hZZkdmVjh1OXFqQW80N1ZUd1c4ZXZ6NWdOS0V1SkRJbnJDMmtXX1RDbWYzc21KUGVsUVRYeWJ4OVJuQ1ZEeV9yWU5mbTRPY3dXRUVmazg4NVcwalE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e3e991112d6",
-      "title": "중국, 양자컴퓨팅 세계 신기록...'구장 4호' 개발 - v.daum.net",
-      "published": "2026-05-25T01:35:52+00:00",
-      "summary": "중국, 양자컴퓨팅 세계 신기록...'구장 4호' 개발&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05ZGpHdE9rN3d6ZV9oZ09ONy1xUXdxMWdZU3NxUGV2b1VGOGZpLUY1bWVyaG1kT2R6czV4amtNNndEc3BURWNLZ0VlX2pkVlk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "57f81d375ed4",
-      "title": "‘이때’ 운동 안 해두면, 심장 건강 급격히 악화 - 헬스조선",
-      "published": "2026-05-24T22:00:00+00:00",
-      "summary": "‘이때’ 운동 안 해두면, 심장 건강 급격히 악화&nbsp;&nbsp;헬스조선식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn심장 건강, 운동·식단만으론 부족!&nbsp;&nbsp;마음건강 길쌀과 커피에 든 ‘이 성분’, 심장 튼튼하게 해준다&nbsp;&nbsp;헬스조선미국심장협회(AHA)의 최신 지침에 따른 심혈관 건강 개선을 위한 9가지 단계.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZHZsajhtTXp0dzZmY2tZVlFvdXlwZXhNSmI3UXVTSVgza2V2Uk5WRGsxTFRrNHlQNU1QSlBNNEJpRWlwbXYzTXZua2dISlNyQTJzMVhsWlp5UXZucHFyaEp0R1ZqZDNMOE1SUVRxY0JROHBNSnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e09a5ae34103",
-      "title": "“‘세사미’ 캐릭터인줄”…해조류로 위장하는 신종 물고기 발견 - 동아일보",
-      "published": "2026-05-24T02:30:00+00:00",
-      "summary": "“‘세사미’ 캐릭터인줄”…해조류로 위장하는 신종 물고기 발견&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Kc3Z5VkJpc25JdXZBWHFQS245TWl0QUlrOVVYYk5PMzF2TlBMMGRKTWMyMWp3UVAtcUpnelhJNHprLTJ6QkpRSzhVdlNhRG5YdUYxTG1FQlVqek4tVmVfWnYwc3ZnLTdkZm9RN2RmSHFESjjSAWZBVV95cUxNTjFuSFlsaXhfX3dCVmNUU1MyWW9IeUc1amc2Z29aQjY1Tnl4aFpzeGVCbmNsdTF6RDROQzFVU1Y5RGQxc1BUckFWbXBtRlV1RWhPZGpzN1hYZC1HRmxteUJLZXN5THc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e621a894b9ca",
-      "title": "[표지로 읽는 과학] 세균이 만든 항바이러스 무기, 인간도 쓴다 - 동아사이언스",
-      "published": "2026-05-23T23:00:00+00:00",
-      "summary": "[표지로 읽는 과학] 세균이 만든 항바이러스 무기, 인간도 쓴다&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50UW5fTEpfTURpVlFqUDU1Yy15UFlFanZPZkxMYU5LQVp5ZmxJYms0UnV3NjFwSVgtdmRocThRczJPNDNtZnBKNVlMUG42enRjNzQ3aw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56f445ea91c3",
-      "title": "우주선도 ‘이코노미 루트’ 탄다… 달까지 더 싸게 가는 법 발견 - 조선비즈 - Chosunbiz",
-      "published": "2026-05-23T21:00:00+00:00",
-      "summary": "우주선도 ‘이코노미 루트’ 탄다… 달까지 더 싸게 가는 법 발견 - 조선비즈&nbsp;&nbsp;Chosunbiz",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkJHSEdpb2x2NUxkMkR3X2NuSlRGaG5NMGd0UG03LXBSREdLRnhTMGxJSTVYUlN2SGtqUFEzUlJYOF90QnZHTGR4b2hOQUc4VjBvTEVFcVZ3dnMzeUc4RDZubW1RV2NTR1RCbW1fa1Rtb011WkVRMDNZQ2l2d3hiSlRzSmN2Yks0QnJ2ZdIBoAFBVV95cUxPc3VYM19OTnJ0ejV6Q0w4N3BYdHZXdWQ5VGs2SDBKNHZnbG80MGRZUVJJb0IzdS02OTZSOVpXbnlWQ2dGcVhvampGZUhWRWhIOVJpYk1iVU5NZUFMUC1ROVR6RGliV1ZoMnFJSklwVmVGR2RCY0hwZm8zVENlR3JzMk5GYVNUZGxVUFVhS3hkQjN2X09xam4yS1M3dk1UUzZu?oc=5"
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zN202WUxaZjdZR2RZWlR5eU01eVgyTGt6NS1CbGtyLUxFSDFiMWxFVUFhUWxwU3FpUG1nNWU5UmQ1ZlAwWHYwVmt4S2NYSFM5SzdFeC1R?oc=5"
         }
       ]
     }
