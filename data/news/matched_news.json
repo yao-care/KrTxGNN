@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-05-28T16:05:55.606252+00:00",
-  "total_count": 49,
+  "last_updated": "2026-05-28T20:27:38.965835+00:00",
+  "total_count": 46,
   "matched_count": 0,
   "news": [
+    {
+      "id": "5b6203cb5351",
+      "title": "조류독감·신종플루에서 인류를 구한 ‘독감 바이러스 사냥꾼’",
+      "published": "2026-05-28T18:00:00+00:00",
+      "summary": "조류독감·신종플루에서 인류를 구한 ‘독감 바이러스 사냥꾼’&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT1Z3d0p3Y0M4ZDZZNnJlVnBmY3BfLUNOWjJ4bjk0WnA3dU0ybTdtN092OEVnVVBWZ0V1VHN6ZWRyY2c2NDNZSVpBQ2s2YUdJc0oxV2dYbjZHY3VpQmJHY3k4TnluLWRpWkFBbWdBN19VSjZZS0c3MFQ5RFJ0NE1NdE5Gbw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1caafbddb417",
+      "title": "‘재발성 부인암’ 치료, 면역항암제·표적치료제 병용으로 활로 찾아",
+      "published": "2026-05-28T14:54:52+00:00",
+      "summary": "‘재발성 부인암’ 치료, 면역항암제·표적치료제 병용으로 활로 찾아&nbsp;&nbsp;병원신문치료법 없던 재발성 부인암…'이것' 병용하니 효과&nbsp;&nbsp;뉴시스면역항암제·표적치료제 병용, 재발성 부인과 투명세포암서 반응률 40% 확인&nbsp;&nbsp;헬스오재발성 부인과 투명세포암, 면역항암제·표적치료제 병용서 치료 가능성 확인&nbsp;&nbsp;후생신보중앙대광명병원 김병기 교수, 치료 대안 없던 '재발성 부인암', 면역항암제·표적치료제 병용으로 활로 찾았다&nbsp;&nbsp;메디포뉴스",
+      "sources": [
+        {
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9URUlxR3lCVEwwVjhsRHlSMFcwbFpGNHF6MlBSWTI5R0c5M2xKdjhoR2gxcDRoZ3JnOGZ1M2w3VmhwQ0lYRExvMWgwM01aYnBCb2Z5YjJnYkhkQ3VVNGhfU2xQaXNHMXRXUWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2a6482ac4d74",
+      "title": "몸에서 떼어낸 조직이 3년간 살았다… 맛 좋은 해삼, 영원히 죽지 않을까[후암동 논문 연구소]",
+      "published": "2026-05-28T12:10:00+00:00",
+      "summary": "몸에서 떼어낸 조직이 3년간 살았다… 맛 좋은 해삼, 영원히 죽지 않을까[후암동 논문 연구소]&nbsp;&nbsp;헤럴드경제",
+      "sources": [
+        {
+          "name": "헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ncnlFa3ZZaW80Mll1aldQaXBVN1Q0WVhfVmFHS3hrNk56dHJrZVV1dDkyWTZPcDVNRkZHaEpJVElZeXpSMHdMUUtxdGtJMUhCaHdEWWN4OA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "adb0df68f3db",
       "title": "k채널/무안군, 인유두종바이러스(HPV) 예방접종 지원 확대",
@@ -30,6 +69,19 @@
       "matched_keywords": []
     },
     {
+      "id": "081e5c9ec809",
+      "title": "전고체 배터리, ‘휴머노이드’ 심장 되기 위한 숙제 3가지",
+      "published": "2026-05-28T10:05:03+00:00",
+      "summary": "전고체 배터리, ‘휴머노이드’ 심장 되기 위한 숙제 3가지&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BNFVBSVBHQmhiMjc1eEkwTjBabE80SFljd3kxLS12eGtlZkJkYXdDbDhrbEtjdmhPSXREOVVrU1VZVGFUcTg3bFZ5bGtZNkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b6cad7c24556",
       "title": "다발성경화증, 증상 없어도 뇌는 망가진다",
       "published": "2026-05-28T07:59:06+00:00",
@@ -51,19 +103,6 @@
         {
           "name": "이데일리",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnF6cVRwU094bXJqZXdsLWs3aTFyVVlJUUd5QWxZYzVnYm1aeGRiYlRjaC1jVU8teFo5OFhWcGxLS0ttZzRqNkN6cWhyTE1WNXlfdXN5ZHRkc1RLcUNFUEMzVUlycXdSMmY5Sk5IdldlU3VFZW5uS19xOXFxQkh0VQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c711ebab680c",
-      "title": "재발성 부인과 투명세포암, 면역항암제·표적치료제 병용서 치료 가능성 확인",
-      "published": "2026-05-28T07:23:00+00:00",
-      "summary": "재발성 부인과 투명세포암, 면역항암제·표적치료제 병용서 치료 가능성 확인&nbsp;&nbsp;후생신보치료법 없던 재발성 부인암…'이것' 병용하니 효과&nbsp;&nbsp;뉴시스면역항암제·표적치료제 병용, 재발성 부인과 투명세포암서 반응률 40% 확인&nbsp;&nbsp;헬스오중앙대광명병원 김병기 교수, 치료 대안 없던 '재발성 부인암', 면역항암제·표적치료제 병용으로 활로 찾았다&nbsp;&nbsp;메디포뉴스치료 대안 없던 ‘재발성 부인암’, 면역항암제·표적치료제 병용으로 활로 찾았다&nbsp;&nbsp;의사신문",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5TcW42MVJzSU5JMExrNDdUdU9PMm1MWUY4QnNFU1R6eVNxTTBPU1F0bGJwZ2FVdUxzSHFoWjJtQm9CZ3df?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,6 +160,19 @@
       "matched_keywords": []
     },
     {
+      "id": "343e62cee9ff",
+      "title": "CKM증후군 등에 대응할 안전한 통합치료 전략 요구돼",
+      "published": "2026-05-28T03:05:07+00:00",
+      "summary": "CKM증후군 등에 대응할 안전한 통합치료 전략 요구돼&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFVkcyeDZScmhoM0tWQTBlT2VvSE5BR1N3TzJvTFZIOUxQSmFmb1BEZ09nQXlBVEJOb19ybmtmdGcxUFdqTXk2bzU1eEJKSFZGSGpXWXFKMExTX0p4ZXhjNkNuaV9Gdzg1S3Fr?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5941278d47ee",
       "title": "지역거점 뎅기열 예방관리사업 추진",
       "published": "2026-05-28T02:41:41+00:00",
@@ -155,32 +207,6 @@
         {
           "name": "위클리피플 인물지식가이드저널",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIY09abFJBdEw5VEVRWC1QSnAwY3BjeUhxUE5GWGRWbFQyQVI4OUFQOGw1U1hEcUh0dHhGUGlYT01qMjdXeThleFNKUmVLbEZPRmYtRHZhT2lpQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "213404271c00",
-      "title": "CKM증후군 등에 대응할 안전한 통합치료 전략 요구돼",
-      "published": "2026-05-28T01:10:43+00:00",
-      "summary": "CKM증후군 등에 대응할 안전한 통합치료 전략 요구돼&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lTkFCYjZkVVhmRTZTcTJicVJqbWl6aHZwMXB0SVpZUWdnSVNkVUtwWVpVdlZaNTNzZkM0b3VVTVhpcU9WbjhSeDJyTmpjVmFMTlItQnlYb1hoZUUyQW0tSjNXU01KMEVHWGlGS05PaVQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "71c1330867fa",
-      "title": "‘겉으로 보이는 증상 너머를 본다’…협진으로 이어지는 진료 체계 - 엠허브미의원 이근호 대표원장",
-      "published": "2026-05-28T00:56:50+00:00",
-      "summary": "‘겉으로 보이는 증상 너머를 본다’…협진으로 이어지는 진료 체계 - 엠허브미의원 이근호 대표원장&nbsp;&nbsp;엠디저널",
-      "sources": [
-        {
-          "name": "엠디저널",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GblIzOFVCS3JBX0pYSDdGSUZoTHhuYnRLR0ZpZlprd2h6MU81U281OXY4ZWMwRG1mbG9CVGRxQlRFNE5PLTJVQTdCREg5UmZxZnhqSnVQYzdWQlBNSzlSZFNJUl9oZWRBUEHSAW5BVV95cUxQYWlwUVZtUzkwLVJUOVBfUjU0WExnd0JPLU1rX1praFVpLW93UFVCMEdZSDFPS1cyRG02akhVaHFBTzhSSUtUTmtQZ2JKem5jMEplQ1hMR0cyN2JwOG9sdllVRTR1UzFuYTlzMWZkdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -303,14 +329,14 @@
       "matched_keywords": []
     },
     {
-      "id": "117db0187a39",
-      "title": "\"100세까지 살고싶은가? 당장 참는 습관부터 버려라\"",
-      "published": "2026-05-27T11:26:49+00:00",
-      "summary": "\"100세까지 살고싶은가? 당장 참는 습관부터 버려라\"&nbsp;&nbsp;재외동포신문\"매일 이것 했다\"… 100세 장수인에게 공통으로 나타난 습관 6&nbsp;&nbsp;하이닥[방재욱 칼럼] 100세 시대, 장수 습관 길들이기&nbsp;&nbsp;논객닷컴나이 들어 건강하려면… 돈보다 중요하다는 ‘다섯 가지’&nbsp;&nbsp;헬스조선[내궁내정] 토마스 펄스의 장수습관 키워드 11…금연·치실·비만·운동·금주·식단·구강·스트레스·사회관계·공부·은퇴&nbsp;&nbsp;뉴스스페이스",
+      "id": "bcecbdd370d9",
+      "title": "유럽 여행 간다면 '매독' 주의…\"임신부 감염 시 태아까지 위험\"",
+      "published": "2026-05-27T10:11:00+00:00",
+      "summary": "유럽 여행 간다면 '매독' 주의…\"임신부 감염 시 태아까지 위험\"&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "재외동포신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ONzlKSUVpZ3oxV1Fxel93RlJ6cW1UQ3VLVGpuYVRmbHZGTFpMQUhaZnkxN3JnTFctSy1KVTdJRS1aVHltdGN4WkRManZoQklFUzJEOTdjVGdqWUh5OGNVMHBmVURXYmJpOGFGZw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kQ2tzRk1UNGg2RndFUmVMa1Zwa19MYTNrNS03VFNQcEU5SnJWTmxJYTAxY2VjX2tQVVNUODZta0xGanNiUnpNWnZfWVk1SGY1NDFv?oc=5"
         }
       ],
       "matched_keywords": []
@@ -407,19 +433,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f1d542158292",
-      "title": "\"혼자였지만 전혀 쓸쓸하지 않았다\"…외로움 줄인 의외의 방법",
-      "published": "2026-05-27T05:58:42+00:00",
-      "summary": "\"혼자였지만 전혀 쓸쓸하지 않았다\"…외로움 줄인 의외의 방법&nbsp;&nbsp;아시아경제\"너무 외로워\" 사람 만나야만 해결?…자연 속 혼자 걷기의 놀라운 효과 - 머니투데이&nbsp;&nbsp;머니투데이“혼자 있는 게 오히려 약 됐다”…외로움 달래는 뜻밖의 장소는?&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3S0JfaWo0UWpKTUZfVHJRZlM3Rl9jZlhJeDBza3VvNXNKN0JlcDJhcnhLUGhjVUZld01UdW9GLXVUX1FSejRJWTM3a19lMVJxSlNEdHkySGE0THFManZsdA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "4cecc3a925d5",
       "title": "[황병일의 수면경제] 뇌과학이 증명한 단 하나의 최상 휴식, 수면",
       "published": "2026-05-27T04:43:46+00:00",
@@ -485,19 +498,6 @@
       "matched_keywords": []
     },
     {
-      "id": "db415ee2d4fa",
-      "title": "“키스로 전염 가능”…‘성병 쓰나미’에 발칵, 매독 환자 급증한 유럽 [라이프+]",
-      "published": "2026-05-26T23:49:01+00:00",
-      "summary": "“키스로 전염 가능”…‘성병 쓰나미’에 발칵, 매독 환자 급증한 유럽 [라이프+]&nbsp;&nbsp;나우뉴스유럽 여행 간다면 '매독' 주의…\"임신부 감염 시 태아까지 위험\"&nbsp;&nbsp;뉴시스엄마가 걸리면 뱃속 아기까지 감염…유럽여행 '매독' 주의보&nbsp;&nbsp;네이트유럽에서 임질과 매독 발병 사례가 역대 최고치를 기록했습니다.&nbsp;&nbsp;Vietnam.vn유럽 성병 감염률 사상 최고치 기록…한국 보건 시스템 재점검 시급&nbsp;&nbsp;뉴스N연합",
-      "sources": [
-        {
-          "name": "나우뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jUEVIRERkSTl6ZEpvaV9xaHNvMTdoVXJjQkw1ZTZ4YlpEMDVVY0JzbXQzczFWTzEwcU5xd0xGT0RvVG1vNFh1MFVxdlpSenZkWHZySTNzNFhCRTNYdE5nc3hhdTRscnFEaEZ3bVNQdGY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "593cbdea5b88",
       "title": "[ASCO] 보로노이, EGFR TKI ‘VRN110755’ C797S 변이 폐암 ORR 85.7%",
       "published": "2026-05-26T21:10:00+00:00",
@@ -558,45 +558,6 @@
         {
           "name": "메디칼타임즈",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yR0VFbnI3bFM3Y0RzUU5YdWdqbmd6VmxhS0tFNlJYWDlIaWV4bHFQS3h1T3VnS09ack41OVhQZlZLWDVBQUhQNUlQWXZ6RkhjZ0xuRGF3RjVKck9ienhCcHp4eDQzbjd2c0IzZ2FxVnQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "814edf3ef311",
-      "title": "RSV 예방 항체 효과 입증됐는데, 백신 아니라 지원 안 된다?",
-      "published": "2026-05-26T19:30:00+00:00",
-      "summary": "RSV 예방 항체 효과 입증됐는데, 백신 아니라 지원 안 된다?&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84UWpJVWlWNlNfV2t3SGFuUnljWUJNYzFMR1prRFBrcVhBNzNuQUplLV9fSHdESWZ0Y2w4ay1Wam9JWVVHSFZvZWJCdkl6dFR4U2ZjSUNPVnF3dHZIeERtWjJzUWtqRWl0UTZHOEZCWdIBZkFVX3lxTE5ybHUtNHZlSHp1RE5xeW81empfNC13Z2I5ZGN0ZDEycHVWcG83a2o1THpRbmYzclcwVTV0d1VvMWhvV1pBU1pEYTFITGE0OFFOQXNlRVRqWmxsMXVGdGk3VW1vZEpQUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e791ad1e4e5c",
-      "title": "“트라우마 기억은 남기고 공포만 지운다”…일본 교토대학교(Kyoto University) 연구진, 뇌 감정 반응 조절 기술 가능성 제시",
-      "published": "2026-05-26T18:14:00+00:00",
-      "summary": "“트라우마 기억은 남기고 공포만 지운다”…일본 교토대학교(Kyoto University) 연구진, 뇌 감정 반응 조절 기술 가능성 제시&nbsp;&nbsp;lullu.net",
-      "sources": [
-        {
-          "name": "lullu.net",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5vaThSV1JzR1BhblpELWVET1JsaEpGR0JTTE5lZ2dERk9sQWRLTFZlS2dya2txOThNZjNKaXNtRnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "67f02408b179",
-      "title": "의사가 경고한 ‘의외의 폐암 신호’, 뭘까?",
-      "published": "2026-05-26T17:20:00+00:00",
-      "summary": "의사가 경고한 ‘의외의 폐암 신호’, 뭘까?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84bGhxZFlLUEhoeWZ6UUl5Z2xObGVjZmJJNlV2bHpFQ1NVckExanJjZXctVUpfRUdya3BnN3htVGNtSkozZUV1NmxhdlNCT0FxMTVOSnE4ak93TXZNUHVveDU4MmtsdVpMdWpLdmN5R2NyTDU2NUE?oc=5"
         }
       ],
       "matched_keywords": []
