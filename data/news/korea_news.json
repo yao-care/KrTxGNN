@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-29T15:43:37.390525+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 54,
+  "fetched_at": "2026-05-29T20:29:55.385573+00:00",
+  "total_fetched": 93,
+  "unique_count": 93,
+  "health_related_count": 56,
   "news": [
     {
       "id": "0ca9b61209f1",
@@ -14,6 +14,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qQ0ExZjlUS1RYdV83X1QtRFVNenhjOXlPRXVOVGZfemxVaVQ2UDAwYzJabGg4QU9CckpKT1hFc0dzQTcxQTF4M3lCbWhMWFJQQVhuREZWZDc2TmlYdzZpZ240Ry1wUEcwWlhTV3N3MFkxSl9pYXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d66cc5df86d",
+      "title": "\"코로나19, 혈관 노화 앞당길 수 있다\"… 감염 막으려면 '코 점막' 지켜야 - 하이닥",
+      "published": "2026-05-29T13:00:00+00:00",
+      "summary": "\"코로나19, 혈관 노화 앞당길 수 있다\"… 감염 막으려면 '코 점막' 지켜야&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yaFhKdE1HNUVTbmdoV2NOVHp0YUg2VC1PSGMyTGVlVGNpdk9xZXhrSzE3YkVoVzJwSWlfSWwyWTB2NnVHYkZsN3FIZzNyUnFfVFFldU9jZ1pVNFRsWnJ1cW1yOE9XZ3hwMGc?oc=5"
         }
       ]
     },
@@ -30,26 +42,14 @@
       ]
     },
     {
-      "id": "5beaaad1d3bb",
+      "id": "6638b69c832a",
       "title": "[오민지 원장의 한의학 이야기] 도파민 신경세포 보호하는 침·한약 치료 주목 - ilyoseoul.co.kr",
       "published": "2026-05-29T10:17:13+00:00",
-      "summary": "[오민지 원장의 한의학 이야기] 도파민 신경세포 보호하는 침·한약 치료 주목&nbsp;&nbsp;ilyoseoul.co.kr지휘봉 잡은 파킨슨 환자의 기적…'꿈의 치료' 임상 어디까지 왔나&nbsp;&nbsp;v.daum.net의료기관 임상·제조 연계 첨단재생의료 사업 확대&nbsp;&nbsp;조선일보스타틴, 파킨슨병 환자 사망 위험↓···보조 치료전략 가능성 시사&nbsp;&nbsp;메디칼업저버“굳었던 손 다시 움직였다”… 파킨슨병 줄기세포 치료, 현실이 되나&nbsp;&nbsp;hdnews.co.kr",
+      "summary": "[오민지 원장의 한의학 이야기] 도파민 신경세포 보호하는 침·한약 치료 주목&nbsp;&nbsp;ilyoseoul.co.krGoogle 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "ilyoseoul.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcVVYZ2l0WmhNSWtvSGJvY3NBSFU4Y1N3ZTlRU0xJZ2FhR20wWDIzVTFTZHdlQTVpcmg3V0dPUHVzQkZCanExR2Z0UFAtNF8tTTcxSHJmTUkyRHV0XzBiSlg4WXhsLVowa0lLVHhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e26c8fddaff7",
-      "title": "여성 치매 환자 많은 이유... 뇌 호르몬 변화에서 찾았다 - 하이닥",
-      "published": "2026-05-29T09:00:00+00:00",
-      "summary": "여성 치매 환자 많은 이유... 뇌 호르몬 변화에서 찾았다&nbsp;&nbsp;하이닥왜 여성 치매 환자가 더 많을까…뇌세포 ‘사이 공간’서 단서 발견[노화설계]&nbsp;&nbsp;동아일보같은 당뇨·고혈압이라도, 여성이 치매 더 위험&nbsp;&nbsp;헬스조선알츠하이머, 왜 女가 더 많을까?...“폐경 후 에스트로겐 줄면 해마 환경 변해”&nbsp;&nbsp;디멘시아뉴스여성 치매 위험 더 큰 이유…같은 고혈압도 인지기능 더 떨어졌다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XWWtkZXk2VXQ3UnpORW5kbERLMTNhSV90YnVNOHVrNEY4SVZUVUoyZG1iOEVvVnpfRjlwbDZlelVNeElYWk41bXlBejRIYTgzNVhhOWZWQ05BVUIwVmkwTmUtSGxVRE9nTEE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BdHRjTC1xcUFWaGcxU2VwUk5hckJXNW8wNUJsUVFYWGwwdzMtYzhrd3hIeHdOVEpCeW16SndZc0ZOeldSZzJQNnllajYxQjd4M0oxY01Gc0JlZUVvX3pYRDBVNlF1TjN2LTBwOEpNMA?oc=5"
         }
       ]
     },
@@ -57,7 +57,7 @@
       "id": "3f50739ed49a",
       "title": "면역증강 인플루엔자 백신과 고용량 백신, 유사한 효과 확인 - 메드월드뉴스",
       "published": "2026-05-29T08:19:54+00:00",
-      "summary": "면역증강 인플루엔자 백신과 고용량 백신, 유사한 효과 확인&nbsp;&nbsp;메드월드뉴스[전문의 칼럼]고령층 독감 예방, 접종률보다 고용량 백신 투자에 달렸다&nbsp;&nbsp;v.daum.net면역증강 인플루엔자 백신과 고용량 인플루엔자 백신 유사 효과 확인&nbsp;&nbsp;후생신보CSL 시퀴러스, 고령층 대상 인플루엔자 백신 RWE 결과 공개&nbsp;&nbsp;e-의료정보",
+      "summary": "면역증강 인플루엔자 백신과 고용량 백신, 유사한 효과 확인&nbsp;&nbsp;메드월드뉴스[전문의 칼럼]고령층 독감 예방, 접종률보다 고용량 백신 투자에 달렸다&nbsp;&nbsp;v.daum.net면역증강 인플루엔자 백신과 고용량 인플루엔자 백신 유사 효과 확인&nbsp;&nbsp;후생신보CSL 시퀴러스, 고령층 대상 인플루엔자 백신 RWE 결과 공개&nbsp;&nbsp;kmedinfo.co.kr",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -102,6 +102,18 @@
       ]
     },
     {
+      "id": "1f2b0308f340",
+      "title": "“혈관 막는다”… 심장 전문의 절대 안 먹는다는 ‘이 음식’ - 헬스조선",
+      "published": "2026-05-29T07:50:00+00:00",
+      "summary": "“혈관 막는다”… 심장 전문의 절대 안 먹는다는 ‘이 음식’&nbsp;&nbsp;헬스조선커피·채소·유제품 섭취, 심혈관질환 위험 낮아진다&nbsp;&nbsp;에너지경제신문식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn커피·채소·유제품 섭취, 심혈관질환 위험 낮춰…151개 연구 메타분석 결과&nbsp;&nbsp;한국식품의약신문햄 좋아하는 사람, 그나마 ‘덜 해로운’ 섭취법 알아두세요&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wSjZiWlZEZDVyVy1kbkdTelRBOV9rS2F1aW1KdkVJSDQzVlBramREbzVvcktleXI2VFBhTnZVUXVoalN5TVJjRnY2NURNY3hUc2Y0Q2tiaVc3WmdFT1J3NFNkMVBKdmlVNEpaalEyMHVyR193U0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2c87a911c7b6",
       "title": "알츠하이머 단백질 쌓였는데 치매 없었다…'버틴 뇌'의 비밀 - 코메디닷컴",
       "published": "2026-05-29T07:05:00+00:00",
@@ -114,10 +126,22 @@
       ]
     },
     {
+      "id": "6a38014f5fd9",
+      "title": "김지현 한국딥러닝 대표·김찬우 워싱턴대 연구원 등 '포브스아시아 30-30' 선정 - AI타임스",
+      "published": "2026-05-29T06:34:34+00:00",
+      "summary": "김지현 한국딥러닝 대표·김찬우 워싱턴대 연구원 등 '포브스아시아 30-30' 선정&nbsp;&nbsp;AI타임스",
+      "sources": [
+        {
+          "name": "AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xaThSV3BER1djaWJTYWZlT1pwcVI5QVhvTDBBQ3J6algtY2FXbzh2THdXX1lUUk5pSmp5MEN6YWdJRzJfcmFKT25QX1ZtSTIwU09GMHowMmR5ZjNrVlRMVnAtT25CT296MkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1b989a045fd9",
       "title": "'재발성 부인암', 면역항암제·표적치료제 병용으로 치료효과 높인다 - 헬스경향",
       "published": "2026-05-29T05:49:00+00:00",
-      "summary": "'재발성 부인암', 면역항암제·표적치료제 병용으로 치료효과 높인다&nbsp;&nbsp;헬스경향치료법 없던 재발성 부인암…'이것' 병용하니 효과&nbsp;&nbsp;뉴시스면역항암제·표적치료제 병용, 재발성 부인과 투명세포암서 반응률 40% 확인&nbsp;&nbsp;헬스오재발성 부인과 투명세포암, 면역항암제·표적치료제 병용서 치료 가능성 확인&nbsp;&nbsp;후생신보치료 대안 없던 ‘재발성 부인암’, 면역항암제·표적치료제 병용으로 활로 찾았다&nbsp;&nbsp;의사신문",
+      "summary": "'재발성 부인암', 면역항암제·표적치료제 병용으로 치료효과 높인다&nbsp;&nbsp;헬스경향치료법 없던 재발성 부인암…‘이것’ 병용하니 효과&nbsp;&nbsp;동아일보[ASCO 2026] 키트루다, dMMRㆍpMMR 환자 모두에서 지속적 이득 확인&nbsp;&nbsp;의약뉴스면역항암제·표적치료제 병용, 재발성 부인과 투명세포암서 반응률 40% 확인&nbsp;&nbsp;헬스오재발성 부인과 투명세포암, 면역항암제·표적치료제 병용서 치료 가능성 확인&nbsp;&nbsp;후생신보",
       "sources": [
         {
           "name": "헬스경향",
@@ -138,14 +162,26 @@
       ]
     },
     {
-      "id": "1b2134ce2422",
-      "title": "수백킬로 날아도 집 찾는 비둘기 비밀, 간 속 면역세포? - 동아사이언스",
-      "published": "2026-05-29T04:50:00+00:00",
-      "summary": "수백킬로 날아도 집 찾는 비둘기 비밀, 간 속 면역세포?&nbsp;&nbsp;동아사이언스",
+      "id": "3e97cf39bc21",
+      "title": "수백킬로 날아도 집 찾는 비둘기 비밀, 간 속 면역세포? - v.daum.net",
+      "published": "2026-05-29T04:53:15+00:00",
+      "summary": "수백킬로 날아도 집 찾는 비둘기 비밀, 간 속 면역세포?&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UQk9CSHFtNkJjLUw5NTRrUjdaZm5ENnpBUmw5WDFCREZsaFUweC1LLVBub3Z1V2tRemE0clh0NGh6dkRCQ18xM21xbjZ4ZzU0ajVPMg?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLWV9UNGIxSGUxcWQyM0NWbkxCMEgxSWlMNGdmRUFsOGszUVJlb3lIZmFoTWZCWXFPQjI4WFA0cHZsWGZRVHNWOWlYRmhSN2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "601b5a31cf37",
+      "title": "'하루 4분 운동', 당뇨병 환자 혈당 조절에 도움된다 - 넷제로뉴스",
+      "published": "2026-05-29T04:42:56+00:00",
+      "summary": "'하루 4분 운동', 당뇨병 환자 혈당 조절에 도움된다&nbsp;&nbsp;넷제로뉴스“하루 4분 운동으로 혈당 잡는다”…‘스낵 운동’ 주목&nbsp;&nbsp;미주한국일보심혈관 건강 지키려면 주 150분 운동은 부족…최소 '이 정도' 더해야&nbsp;&nbsp;네이트“30분 법칙 깨졌다” 하루 딱 2분 ‘운동 스낵’의 기적&nbsp;&nbsp;헬스경향하루에 1만 보를 걸으면 장시간 앉아 있는 것과 관련된 질병 및 사망 위험을 줄일 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "넷제로뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwenJCamVWOGtKajkydm0xVDVPWGphR3IzSm1GdVFTSTUwaHI3VUdwbG93b2g3ZmFyWWdpQ0dwRVY4MTN6cHE5cTVGVXg2ZDZxMDdLZU1sMFRsNWw2QllzcnJyNzl4QWJROTRJ0gFuQVVfeXFMTXE1RDBqZW1MV09lZHJDaGVmR2R5azI5S0c3ZGhvVGM2a1k5MVpoaUxKanhFU0ZtLVdQMHNhUm8zSTY0T01SLVVfUkxfYkhTUDdIR21NVjl1U2pTVGZpVEFyVkt0TnRWU1c2UlN0Vmc?oc=5"
         }
       ]
     },
@@ -186,18 +222,6 @@
       ]
     },
     {
-      "id": "c648bfef1d93",
-      "title": "“하루 4분 운동으로 혈당 잡는다”…‘스낵 운동’ 주목 - 미주한국일보",
-      "published": "2026-05-29T03:00:00+00:00",
-      "summary": "“하루 4분 운동으로 혈당 잡는다”…‘스낵 운동’ 주목&nbsp;&nbsp;미주한국일보심혈관 건강 지키려면 주 150분 운동은 부족…최소 '이 정도' 더해야&nbsp;&nbsp;네이트“30분 법칙 깨졌다” 하루 딱 2분 ‘운동 스낵’의 기적&nbsp;&nbsp;헬스경향하루에 1만 보를 걸으면 장시간 앉아 있는 것과 관련된 질병 및 사망 위험을 줄일 수 있습니다.&nbsp;&nbsp;Vietnam.vn하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83SmpQODA5eVFhRWtiRjJYdzRIb3NrSkQwUG5RMmNmM1BjWmE1RDMyaEZ2ODBFeWctbFNmenJOWU5lUVZTRVNPTFZfZkNnSWg1amhSenhsaEZuUnpmRjJN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c667b0f85bbd",
       "title": "“젊어지려다 뇌 손상?”…유행 중인 항노화 약물 조합, 뇌 망가뜨릴 수도 - 코메디닷컴",
       "published": "2026-05-29T02:10:00+00:00",
@@ -218,6 +242,18 @@
         {
           "name": "헬스경향",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yUWJaUW5fbVRoVE5hNUxKS19ZeTVLdFhFMWE5MkR4Vk5aMVJiRXJMaHhKdW1ReWt2Y2ptZVY3QWE5NnlEdjR0M0dmbjYzUHQ5RWc3RzdwcGdwMkJvcWpkNGJjSmxTQ0NZaVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54ddea8eb0fd",
+      "title": "암세포 무럭무럭 키우는 밥상의 숨은 적 - 농촌여성신문",
+      "published": "2026-05-29T01:28:36+00:00",
+      "summary": "암세포 무럭무럭 키우는 밥상의 숨은 적&nbsp;&nbsp;농촌여성신문",
+      "sources": [
+        {
+          "name": "농촌여성신문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlcWZINXlNaXFaS2N1dFdTTWpKS04yRFhobHM4WGl5T1R4TGxJUFhoel9fNThOZ3lxNFRqbXRyNHlxekstTUFvU0tGeGNhcVlxbXhpd1VaT0tGbkwtOTluSUtNa25pUdIBakFVX3lxTFA3eXlRRkRGZjdJZDlySC0zWFZOdEpmMTFjb0tRM25hWHRHRUo3NDRCT1cxalZWSWVORWRJamtxSWp1RHVPekJWMjk1VTEwMVdXRDVKRmlGdFotSFBzcThPWTI0ODRFN2tlN1E?oc=5"
         }
       ]
     },
@@ -258,6 +294,18 @@
       ]
     },
     {
+      "id": "493a4d3c0e40",
+      "title": "피플> 남영우 교수 “가장 단순한 것이 가장 강력하다”… 극초음속 스텔스 복합재 연구 - 한국항공대학교",
+      "published": "2026-05-29T00:03:10+00:00",
+      "summary": "피플> 남영우 교수 “가장 단순한 것이 가장 강력하다”… 극초음속 스텔스 복합재 연구&nbsp;&nbsp;한국항공대학교",
+      "sources": [
+        {
+          "name": "한국항공대학교",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HT0VfaGp5QkEyNWZ4N2FDbUhSN3VuWEVGTkV1OG96VlQ3N2dTZnJKdlBWSVFCRnhhMV9lbElxQ3lSdEVGZzRuWTZnaDBTVXYySFdmWENFWmliNGhyY0ozZzQ5YTdVTUNSUDJ1dktR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "721b4afb5b51",
       "title": "상계백병원 육진성 교수 연구팀, “여성호르몬 노출 기간 짧을수록 폐경 후 심부전 위험 높아져” - 메디포뉴스",
       "published": "2026-05-29T00:00:33+00:00",
@@ -266,6 +314,18 @@
         {
           "name": "메디포뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wVUtnaXdOUHdVbi1MV2oyRWlpTjBvdFdoM0xkNEh2c2FOS043ODhKME9uQUFBcG9kNVo4SmprdFQtTUZ6WEhPSXdhRTFoeW5tYy0yWHk4TzJqYzVzc2RDRTFMM1g?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c87a5bd3e78",
+      "title": "“네가 무슨 번아웃?”…10대 현실은 전쟁터다 [.txt] - 한겨레",
+      "published": "2026-05-28T22:48:00+00:00",
+      "summary": "“네가 무슨 번아웃?”…10대 현실은 전쟁터다 [.txt]&nbsp;&nbsp;한겨레당신에게 번아웃이 왔다는 증거… ‘이 증상’ 살펴라&nbsp;&nbsp;헬스조선“카페인으로 피로 회복? 오히려 수면 방해”...약사가 짚어주는 만성 피로 해법&nbsp;&nbsp;하이닥[근거기반 한약제제의 최신임상동향] 만성 피로 증후군에 대한 공진단의 최근 임상동향&nbsp;&nbsp;약사공론[건강칼럼] 쉬어도 풀리지 않는 피로, 번아웃&nbsp;&nbsp;법조신문",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ea1Nsc3BzR1FXNGZTRmwxdEEzeV9rc1pEMFdrbTR0a0JFZVk4UW5fQWN0X2ZNMkhlLUNFb2xyV0k3UU9fbUN3MDhrQXdrQUVjM0pqbWQwT1kwc2t5b1pLSzA4MA?oc=5"
         }
       ]
     },
@@ -378,6 +438,18 @@
       ]
     },
     {
+      "id": "c21da741488e",
+      "title": "왜 여성 치매 환자가 더 많을까…뇌세포 '사이 공간'서 단서 발견[노화설계] - 네이트",
+      "published": "2026-05-28T09:03:00+00:00",
+      "summary": "왜 여성 치매 환자가 더 많을까…뇌세포 '사이 공간'서 단서 발견[노화설계]&nbsp;&nbsp;네이트왜 여성 치매 환자가 더 많을까…뇌세포 ‘사이 공간’서 단서 발견[노화설계]&nbsp;&nbsp;동아일보여성 치매 환자 많은 이유... 뇌 호르몬 변화에서 찾았다&nbsp;&nbsp;하이닥같은 당뇨·고혈압이라도, 여성이 치매 더 위험&nbsp;&nbsp;헬스조선알츠하이머, 왜 女가 더 많을까?...“폐경 후 에스트로겐 줄면 해마 환경 변해”&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ldWJrSnh6c3R3T2tDQnV5cUIxQVBhSlItRlhIaFR6cjc2YTVla2pYaC1QeHlyRjlWdkxtWU05RW5zbHF2QmgwU0VUeGtVS1FPZTE4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "277cf5612788",
       "title": "[기고]동두천 연구실서 거둔 세계적 성과 ‘한타바이러스’ 그리고 이호왕 박사 - 경기신문",
       "published": "2026-05-28T08:58:37+00:00",
@@ -414,13 +486,13 @@
       ]
     },
     {
-      "id": "2eaeb6ccc339",
-      "title": "여성 나이 50세, 당황스러울 만큼 큰 변화의 시간 - ohmynews.com",
+      "id": "dbb46bb1b198",
+      "title": "여성 나이 50세, 당황스러울 만큼 큰 변화의 시간 - 오마이뉴스",
       "published": "2026-05-28T04:49:00+00:00",
-      "summary": "여성 나이 50세, 당황스러울 만큼 큰 변화의 시간&nbsp;&nbsp;ohmynews.com\"자신감 떨어지고 의욕 안 생기는데 혹시…\" 30대부터 서서히 찾아오는 '남성 갱년기'&nbsp;&nbsp;v.daum.net여성은 갱년기, 남성은 전립선...부부의 날, 중장년 부부 건강 함께 챙겨야&nbsp;&nbsp;동북일보",
+      "summary": "여성 나이 50세, 당황스러울 만큼 큰 변화의 시간&nbsp;&nbsp;오마이뉴스\"자신감 떨어지고 의욕 안 생기는데 혹시…\" 30대부터 서서히 찾아오는 '남성 갱년기'&nbsp;&nbsp;v.daum.net여성은 갱년기, 남성은 전립선...부부의 날, 중장년 부부 건강 함께 챙겨야&nbsp;&nbsp;동북일보",
       "sources": [
         {
-          "name": "ohmynews.com",
+          "name": "오마이뉴스",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1adU8teUV1bGNPMDEzb0tQczBxbzFMVDJSbjhUWGhfY0tCU1VxQU0yRHp4MFBWeGVoNTh4T1RsdWlyRW9pRDBQa2doRTRSX1JPc0g0RlphQ3hGYmNQLXgwQ0M1anZEU1dfVWxaU1hSZEFwMzdBZjZZ?oc=5"
         }
       ]
@@ -486,18 +558,6 @@
       ]
     },
     {
-      "id": "e02b6e80b363",
-      "title": "커피·채소·유제품 섭취, 심혈관질환 위험 낮춰…151개 연구 메타분석 결과 - 한국식품의약신문",
-      "published": "2026-05-28T02:34:13+00:00",
-      "summary": "커피·채소·유제품 섭취, 심혈관질환 위험 낮춰…151개 연구 메타분석 결과&nbsp;&nbsp;한국식품의약신문커피·채소·유제품 섭취, 심혈관질환 위험 낮아진다&nbsp;&nbsp;에너지경제신문“혈관 막는다”… 심장 전문의 절대 안 먹는다는 ‘이 음식’&nbsp;&nbsp;헬스조선식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn햄 좋아하는 사람, 그나마 ‘덜 해로운’ 섭취법 알아두세요&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "한국식품의약신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvczdrUWE2TVFlb05hNE8tTDIzR3lseG42Vm9kSjZOT1MycG10M0dYcnJsQTUzamUxcXU1TnJPcU9wOWg2b3UzUV9teFNGZHNHOEJfVGV2UUdHWEdxaTdWRHg3UUZUYW8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5f9095ee228a",
       "title": "용인세브란스병원, 망막 변화 통해 파킨슨병 조기 진단 단서 규명 - 위클리피플 인물지식가이드저널",
       "published": "2026-05-28T02:26:17+00:00",
@@ -525,23 +585,11 @@
       "id": "2267eb4d1005",
       "title": "[자유성] 치매와 걷기 - 영남일보",
       "published": "2026-05-27T21:23:15+00:00",
-      "summary": "[자유성] 치매와 걷기&nbsp;&nbsp;영남일보오래 앉아 있어도 '이 활동' 하면 치매 위험 낮아진다&nbsp;&nbsp;뉴시스똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다&nbsp;&nbsp;농민신문3위 손가락 운동, 2위 발가락 운동 70대 뇌세포 지키는 1위로 꼽는 운동&nbsp;&nbsp;MSN'앉아서 무엇을 하느냐'에 따라 치매 위험 달라져…TV 시청 땐 16% 증가&nbsp;&nbsp;sportschosun.com",
+      "summary": "[자유성] 치매와 걷기&nbsp;&nbsp;영남일보오래 앉아 있어도 '이 활동' 하면 치매 위험 낮아진다&nbsp;&nbsp;뉴시스치매는 피할 수 없을까?…뇌 건강 지키는 취미의 힘이 다시 주목받는다&nbsp;&nbsp;네이트똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다&nbsp;&nbsp;농민신문3위 손가락 운동, 2위 발가락 운동 70대 뇌세포 지키는 1위로 꼽는 운동&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "영남일보",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZjZnODU5TUwxTHZJTnNBWFpWNy1DZXVOUW13Ti1sZi1HQjY5TVhGNU9VZW4yaTJZci1KeTRxWENZLWd3YU5LWlRLSFdfTG14bFV3LUsxcmU4aFI0NlVvNE1CSExMRHMzR1FN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5e706a3d61b",
-      "title": "“골다공증 치료, 순차 전략이 핵심...데노수맙·로모소주맙간 전환이 성패 좌우” - 의학신문",
-      "published": "2026-05-27T21:00:00+00:00",
-      "summary": "“골다공증 치료, 순차 전략이 핵심...데노수맙·로모소주맙간 전환이 성패 좌우”&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EbW5CclBMN1E4ZnEwY2pxbDRpNXR2YVVCRVNhZ0NHWDJTeDE1NF8yU0RBVG5fRGpnRGJ6SmdwSlV0V2Q1N0xkUDlucUprNjBHRFpFd3hVZVRpdS1xSXV6VC1WbzVwVG92WVE?oc=5"
         }
       ]
     },
@@ -558,18 +606,6 @@
       ]
     },
     {
-      "id": "742dec91e7c1",
-      "title": "“고혈압 위험 30% 낮춘다” 매일 ‘이것’ 먹으라는데… 뭘까? - 헬스조선",
-      "published": "2026-05-27T16:00:00+00:00",
-      "summary": "“고혈압 위험 30% 낮춘다” 매일 ‘이것’ 먹으라는데… 뭘까?&nbsp;&nbsp;헬스조선다이어트 중 허기질 때, ‘이것’ 먹으면 해소… 뭘까?&nbsp;&nbsp;헬스조선“두부·콩 자주 먹었더니 혈압 낮았다”…국제학술지가 주목한 식단은&nbsp;&nbsp;레이디경향\"커피보다 좋다\"... 매일 '히비스커스차' 마시면 건강해지는 이유 8&nbsp;&nbsp;하이닥체중 감량에 최고로 좋은 탄수화물...다이어트 할 때 콩류가 좋은 이유&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RYmpiQVdNWUFkdnEzdEpCXzhPdjRRZERMTktsYVNxdnpJRE5BNm9OV3o1SEdnbVBZVzF6ckVDQ2M3bWYybUxyM0NuSnF3d3EyTG1nNGxtemN3TWJ1NzEzeGxjaTczUVU2ZzRDWjg4cVUzVE9UaFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0615f9ba219c",
       "title": "\"젊은 연구자들이 더 파괴적인 혁신\" - 조선일보",
       "published": "2026-05-27T15:36:00+00:00",
@@ -578,18 +614,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFZ5Z1hiUl9GQ0xoRmVhZTJpMmlMdUNmNFNCTWpzUDRabDVEbGJpSEVfWjE2eVlwZ2JFS1AzSVIxWUY5QkVZb3R1eW95OWkyVml1LWpFX25jTXBwY0E3b194WmN0cUZncWE5Y3hUWE9yaC1FSTdhdm9QS2U2MnkyZDZVRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d98f25b3ec35",
-      "title": "피 한 방울로 뇌전증 읽는다 - 헬스포커스뉴스",
-      "published": "2026-05-27T15:08:00+00:00",
-      "summary": "피 한 방울로 뇌전증 읽는다&nbsp;&nbsp;헬스포커스뉴스MRI 없이 피 한 방울로 뇌전증 진단 길 열린다&nbsp;&nbsp;서울경제발작·경련 일으키는 뇌전증···혈액 속 ‘면역 바코드’로 감별하는 방법 나왔다&nbsp;&nbsp;v.daum.net혈액 속 T세포로 뇌전증 판별… MRI 없이도 진단 가능성&nbsp;&nbsp;아주경제혈액 속 ‘면역 바코드’로 뇌전증 읽어낸다&nbsp;&nbsp;후생신보",
-      "sources": [
-        {
-          "name": "헬스포커스뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TaDlxZmVGNkFXUi1maE40Rmc2Z1M2UW5LNm1yMDVPSHJHdjE4amZlTjRPbnBUMjQ3dWNQaDl4QWNOaFpIRWF3bXpJNThCQjQtMjFBMFhiakFlX29DZ3F5elFkUkpKVkdMMExJYUJOOGRyUQ?oc=5"
         }
       ]
     },
