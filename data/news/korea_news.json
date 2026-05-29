@@ -1,15 +1,51 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-29T09:59:17.521180+00:00",
-  "total_fetched": 98,
-  "unique_count": 98,
-  "health_related_count": 60,
+  "fetched_at": "2026-05-29T15:43:37.390525+00:00",
+  "total_fetched": 90,
+  "unique_count": 90,
+  "health_related_count": 54,
   "news": [
+    {
+      "id": "0ca9b61209f1",
+      "title": "‘의외의 증상’ 겪고 담도암 진단 받은 女… 무슨 일? - 헬스조선",
+      "published": "2026-05-29T14:00:00+00:00",
+      "summary": "‘의외의 증상’ 겪고 담도암 진단 받은 女… 무슨 일?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qQ0ExZjlUS1RYdV83X1QtRFVNenhjOXlPRXVOVGZfemxVaVQ2UDAwYzJabGg4QU9CckpKT1hFc0dzQTcxQTF4M3lCbWhMWFJQQVhuREZWZDc2TmlYdzZpZ240Ry1wUEcwWlhTV3N3MFkxSl9pYXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f04c3dcee7b",
+      "title": "중장년, 아몬드 3~4알만 매일 먹어도...치매 위험 20% ‘뚝’ - 디멘시아뉴스",
+      "published": "2026-05-29T11:39:33+00:00",
+      "summary": "중장년, 아몬드 3~4알만 매일 먹어도...치매 위험 20% ‘뚝’&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMS3pOY0VTT0ZRR3ZVRnlIaU1PS1J5VEtiN2lPRXhqZnRFbzhJRjdyYmVMZ2dJZ2lEX1lGRDNfZDdpMmtZZWt2TnRJcDdCdnJGZ3k1dlFWejMwX0VDMFFfSGUtZ21QX0NNVVZaRXFFdlpPdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5beaaad1d3bb",
+      "title": "[오민지 원장의 한의학 이야기] 도파민 신경세포 보호하는 침·한약 치료 주목 - ilyoseoul.co.kr",
+      "published": "2026-05-29T10:17:13+00:00",
+      "summary": "[오민지 원장의 한의학 이야기] 도파민 신경세포 보호하는 침·한약 치료 주목&nbsp;&nbsp;ilyoseoul.co.kr지휘봉 잡은 파킨슨 환자의 기적…'꿈의 치료' 임상 어디까지 왔나&nbsp;&nbsp;v.daum.net의료기관 임상·제조 연계 첨단재생의료 사업 확대&nbsp;&nbsp;조선일보스타틴, 파킨슨병 환자 사망 위험↓···보조 치료전략 가능성 시사&nbsp;&nbsp;메디칼업저버“굳었던 손 다시 움직였다”… 파킨슨병 줄기세포 치료, 현실이 되나&nbsp;&nbsp;hdnews.co.kr",
+      "sources": [
+        {
+          "name": "ilyoseoul.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pcVVYZ2l0WmhNSWtvSGJvY3NBSFU4Y1N3ZTlRU0xJZ2FhR20wWDIzVTFTZHdlQTVpcmg3V0dPUHVzQkZCanExR2Z0UFAtNF8tTTcxSHJmTUkyRHV0XzBiSlg4WXhsLVowa0lLVHhB?oc=5"
+        }
+      ]
+    },
     {
       "id": "e26c8fddaff7",
       "title": "여성 치매 환자 많은 이유... 뇌 호르몬 변화에서 찾았다 - 하이닥",
       "published": "2026-05-29T09:00:00+00:00",
-      "summary": "여성 치매 환자 많은 이유... 뇌 호르몬 변화에서 찾았다&nbsp;&nbsp;하이닥왜 여성 치매 환자가 더 많을까…뇌세포 ‘사이 공간’서 단서 발견[노화설계]&nbsp;&nbsp;동아일보알츠하이머, 왜 女가 더 많을까?...“폐경 후 에스트로겐 줄면 해마 환경 변해”&nbsp;&nbsp;디멘시아뉴스같은 당뇨·고혈압이라도, 여성이 치매 더 위험&nbsp;&nbsp;헬스조선여성 치매 위험 더 큰 이유…같은 고혈압도 인지기능 더 떨어졌다&nbsp;&nbsp;코메디닷컴",
+      "summary": "여성 치매 환자 많은 이유... 뇌 호르몬 변화에서 찾았다&nbsp;&nbsp;하이닥왜 여성 치매 환자가 더 많을까…뇌세포 ‘사이 공간’서 단서 발견[노화설계]&nbsp;&nbsp;동아일보같은 당뇨·고혈압이라도, 여성이 치매 더 위험&nbsp;&nbsp;헬스조선알츠하이머, 왜 女가 더 많을까?...“폐경 후 에스트로겐 줄면 해마 환경 변해”&nbsp;&nbsp;디멘시아뉴스여성 치매 위험 더 큰 이유…같은 고혈압도 인지기능 더 떨어졌다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "하이닥",
@@ -66,18 +102,6 @@
       ]
     },
     {
-      "id": "1f2b0308f340",
-      "title": "“혈관 막는다”… 심장 전문의 절대 안 먹는다는 ‘이 음식’ - 헬스조선",
-      "published": "2026-05-29T07:50:00+00:00",
-      "summary": "“혈관 막는다”… 심장 전문의 절대 안 먹는다는 ‘이 음식’&nbsp;&nbsp;헬스조선커피·채소·유제품 섭취, 심혈관질환 위험 낮아진다&nbsp;&nbsp;에너지경제신문식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn커피·채소·유제품 섭취, 심혈관질환 위험 낮춰…151개 연구 메타분석 결과&nbsp;&nbsp;한국식품의약신문햄 좋아하는 사람, 그나마 ‘덜 해로운’ 섭취법 알아두세요&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wSjZiWlZEZDVyVy1kbkdTelRBOV9rS2F1aW1KdkVJSDQzVlBramREbzVvcktleXI2VFBhTnZVUXVoalN5TVJjRnY2NURNY3hUc2Y0Q2tiaVc3WmdFT1J3NFNkMVBKdmlVNEpaalEyMHVyR193U0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2c87a911c7b6",
       "title": "알츠하이머 단백질 쌓였는데 치매 없었다…'버틴 뇌'의 비밀 - 코메디닷컴",
       "published": "2026-05-29T07:05:00+00:00",
@@ -110,18 +134,6 @@
         {
           "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByZl9VaUZxZS1fakt5SktZSXhvNElhVVVzVmRIdUEybWdHOEh2S1hTQnVSUTdKalUxT3ZVa3BOUmhpdXhEdGlRSll1LTlXNVVhSXFQTzJUWkVoc2pOZU9lNURCV2hJcDBULW0za0Vn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "99688872d17d",
-      "title": "[Medical Report] “이런 여성 폐경후 심부전 위험 높아” 外 - 헬스코리아뉴스",
-      "published": "2026-05-29T05:36:26+00:00",
-      "summary": "[Medical Report] “이런 여성 폐경후 심부전 위험 높아” 外&nbsp;&nbsp;헬스코리아뉴스폐경 후 심부전 위험… ‘이것’ 노출 기간에 달렸다&nbsp;&nbsp;헬스조선\"女 사망 원인 1위 '심장 질환'…진단·치료율은 남성보다 낮아\"&nbsp;&nbsp;뉴시스여성호르몬 노출 기간 짧을수록 심부전 위험 증가 … 369만명 빅데이터 분석 결과&nbsp;&nbsp;헬스오심장마비·뇌졸중 위험 낮추려면…여성은 ‘이 때’ 꼭 ‘이렇게’ 해야 한다?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xT2dZcUVFM0otWFlraEp1aEIwZGk2ZUVnVGVoVGltOWhJT2VZYUxEbUhMTHUzZHBBNDRoemZxcUd5Y2NSS2twNjFINzkwLXlMQ1BqdW8zUXVRV3FMOElmaGxGaFpJTjg?oc=5"
         }
       ]
     },
@@ -210,18 +222,6 @@
       ]
     },
     {
-      "id": "3617b1217d14",
-      "title": "개발비 '0원' 포톤, 사명 바꾸더니…양자컴 테마로 139%↑ [핫종목] - 뉴스1",
-      "published": "2026-05-29T01:24:01+00:00",
-      "summary": "개발비 '0원' 포톤, 사명 바꾸더니…양자컴 테마로 139%↑ [핫종목]&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNejFuN1R6OEpEbmw0bEVVZzB1T0JGWUVvYXhZXzJHc2djWTBjTWtPd0YzcTZSemJSM1czZFNTTGlkQ19hVEo0SE1ZM052U2FWTmpEY1k2Nlhtb1duUXhj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7ac724eaf691",
       "title": "넘어진 아이, ‘삐었다’고 넘기면 성장판 손상 위험 - 스포츠월드",
       "published": "2026-05-29T00:41:32+00:00",
@@ -237,7 +237,7 @@
       "id": "f2ca6443beb5",
       "title": "증상 없는데 혈당은 오른다…당뇨 관리의 핵심은 - 매경헬스",
       "published": "2026-05-29T00:15:25+00:00",
-      "summary": "증상 없는데 혈당은 오른다…당뇨 관리의 핵심은&nbsp;&nbsp;매경헬스[하루건강] '젊은 당뇨병', 제대로 관리하면 완치도 가능?&nbsp;&nbsp;네이트“가장 잘못 알려진 당뇨병 상식은?”… 조영민 교수의 당뇨병 팩트체크&nbsp;&nbsp;하이닥“당화혈색소 목표 도달은 3명 중 1명”…혈당 관리 해법 찾는 당뇨 환자들 [당 편한 세상]&nbsp;&nbsp;쿠키메디",
+      "summary": "증상 없는데 혈당은 오른다…당뇨 관리의 핵심은&nbsp;&nbsp;매경헬스[하루건강] '젊은 당뇨병', 제대로 관리하면 완치도 가능?&nbsp;&nbsp;네이트“가장 잘못 알려진 당뇨병 상식은?”… 조영민 교수의 당뇨병 팩트체크&nbsp;&nbsp;하이닥‘당 떨어진다’는 달콤한 핑계&nbsp;&nbsp;v.daum.net“당화혈색소 목표 도달은 3명 중 1명”…혈당 관리 해법 찾는 당뇨 환자들 [당 편한 세상]&nbsp;&nbsp;쿠키메디",
       "sources": [
         {
           "name": "매경헬스",
@@ -258,10 +258,22 @@
       ]
     },
     {
+      "id": "721b4afb5b51",
+      "title": "상계백병원 육진성 교수 연구팀, “여성호르몬 노출 기간 짧을수록 폐경 후 심부전 위험 높아져” - 메디포뉴스",
+      "published": "2026-05-29T00:00:33+00:00",
+      "summary": "상계백병원 육진성 교수 연구팀, “여성호르몬 노출 기간 짧을수록 폐경 후 심부전 위험 높아져”&nbsp;&nbsp;메디포뉴스폐경 후 심부전 위험… ‘이것’ 노출 기간에 달렸다&nbsp;&nbsp;헬스조선\"女 사망 원인 1위 '심장 질환'…진단·치료율은 남성보다 낮아\"&nbsp;&nbsp;뉴시스여성호르몬 노출 기간 짧을수록 심부전 위험 증가 … 369만명 빅데이터 분석 결과&nbsp;&nbsp;헬스오가임 기간 30년 미만 여성, 40년 이상보다 심부전 위험 1.28배 높다&nbsp;&nbsp;하이뉴스",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wVUtnaXdOUHdVbi1MV2oyRWlpTjBvdFdoM0xkNEh2c2FOS043ODhKME9uQUFBcG9kNVo4SmprdFQtTUZ6WEhPSXdhRTFoeW5tYy0yWHk4TzJqYzVzc2RDRTFMM1g?oc=5"
+        }
+      ]
+    },
+    {
       "id": "449b5a7f3a48",
       "title": "무안군, HPV 예방접종 지원 확대…9가 백신도 지원 - 매일일보",
       "published": "2026-05-28T22:45:52+00:00",
-      "summary": "무안군, HPV 예방접종 지원 확대…9가 백신도 지원&nbsp;&nbsp;매일일보무안군, 18~26세 청년 HPV 백신 지원 강화…예방 범위 넓혔다&nbsp;&nbsp;스포츠동아[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트HPV 백신 접종으로 베트남 여성의 암 부담을 줄이세요.&nbsp;&nbsp;Vietnam.vn김해시, 12세 남성 청소년까지 HPV 무료 예방접종 확대&nbsp;&nbsp;영남매일",
+      "summary": "무안군, HPV 예방접종 지원 확대…9가 백신도 지원&nbsp;&nbsp;매일일보무안군, 18~26세 청년 HPV 백신 지원 강화…예방 범위 넓혔다&nbsp;&nbsp;스포츠동아[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트편견을 깨세요…\"남성도 자궁경부암 접종 필요\"&nbsp;&nbsp;뉴시스HPV 백신 접종으로 베트남 여성의 암 부담을 줄이세요.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "매일일보",
@@ -282,6 +294,18 @@
       ]
     },
     {
+      "id": "1ee998c37ec3",
+      "title": "어바인 리저널 파크서 광견병 감염 박쥐 발견 - 라디오코리아 모바일",
+      "published": "2026-05-28T20:57:00+00:00",
+      "summary": "어바인 리저널 파크서 광견병 감염 박쥐 발견&nbsp;&nbsp;라디오코리아 모바일",
+      "sources": [
+        {
+          "name": "라디오코리아 모바일",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44OHA0Ujl3dGg0NmMxX2Q5YTBBLWIwOEhXdUV6a3BCbFRLUFo5SVp5bDVQMVBYWUJ2TGl2NkhDSnlLOEdxRjFBVFplZ3pwU2lUd2RYRGk4enkzNmFyYm93?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1f2a86bc2f72",
       "title": "보이지 않는 신경 기능을 읽다: 전기진단검사의 의학적 가치 - 메디칼업저버",
       "published": "2026-05-28T20:55:39+00:00",
@@ -290,18 +314,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HVmxpVUxhdEc1aHFHNjlTUmtXQjNRUzktNWVmZm14MTlndjdCVlVrOWV6UWVLbkVOY0JZVmdxcjItaEppN0tqSEVyTEhaRW9Pam1mTTl6OWhTd3NYQjNrTlR3UENIV1BPenBN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6a7818939b7",
-      "title": "ADHD에 도움된다는 건기식들…어디까지 믿어야 할까? - 약사공론",
-      "published": "2026-05-28T20:50:00+00:00",
-      "summary": "ADHD에 도움된다는 건기식들…어디까지 믿어야 할까?&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQUJobkszLUR1UC1OWmpIczhlNnFYaGtfZ0gybng1MmkzLTdTTW5URkhZTjlteFc2WWFYYW9aNWxpQ0JPaXVGLWQ4QkxQWi1fVGdhRGpxdkV5cEhzU2ZvVFZCRThPZVN2bzJSRg?oc=5"
         }
       ]
     },
@@ -354,14 +366,14 @@
       ]
     },
     {
-      "id": "081e5c9ec809",
-      "title": "전고체 배터리, ‘휴머노이드’ 심장 되기 위한 숙제 3가지 - v.daum.net",
-      "published": "2026-05-28T10:05:03+00:00",
-      "summary": "전고체 배터리, ‘휴머노이드’ 심장 되기 위한 숙제 3가지&nbsp;&nbsp;v.daum.net",
+      "id": "f69a30021e70",
+      "title": "전고체 배터리, ‘휴머노이드’ 심장 되기 위한 숙제 3가지 - 지디넷코리아",
+      "published": "2026-05-28T10:03:01+00:00",
+      "summary": "전고체 배터리, ‘휴머노이드’ 심장 되기 위한 숙제 3가지&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BNFVBSVBHQmhiMjc1eEkwTjBabE80SFljd3kxLS12eGtlZkJkYXdDbDhrbEtjdmhPSXREOVVrU1VZVGFUcTg3bFZ5bGtZNkE?oc=5"
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZYmVZUlBmVlJpTUxWRlhYeDdjS0sxUUlTTF9Cb3I0Ym1ZVGR4QVBkNHZkM2F5cEhxTWc0bkQtdzdRRy1mT3Y4QkJXZC1fX1V5cTRNZFFB?oc=5"
         }
       ]
     },
@@ -369,7 +381,7 @@
       "id": "277cf5612788",
       "title": "[기고]동두천 연구실서 거둔 세계적 성과 ‘한타바이러스’ 그리고 이호왕 박사 - 경기신문",
       "published": "2026-05-28T08:58:37+00:00",
-      "summary": "[기고]동두천 연구실서 거둔 세계적 성과 ‘한타바이러스’ 그리고 이호왕 박사&nbsp;&nbsp;경기신문[이슈픽] “곧 월드컵인데 어쩌나”…‘한타바이러스’ 주의보&nbsp;&nbsp;v.daum.net호주, MV 혼디우스호 승객에 대한 격리 기간 연장.&nbsp;&nbsp;Vietnam.vn감염병에 취약한 크루즈선…\"고령이라면 여행 계획 신중하게\"&nbsp;&nbsp;네이트한타바이러스 크루즈서 스페인인 추가 확진…잠복기 정점 ‘고비’&nbsp;&nbsp;마켓인",
+      "summary": "[기고]동두천 연구실서 거둔 세계적 성과 ‘한타바이러스’ 그리고 이호왕 박사&nbsp;&nbsp;경기신문[이슈픽] “곧 월드컵인데 어쩌나”…‘한타바이러스’ 주의보&nbsp;&nbsp;v.daum.net감염병에 취약한 크루즈선…\"고령이라면 여행 계획 신중하게\"&nbsp;&nbsp;네이트한타바이러스 크루즈서 스페인인 추가 확진…잠복기 정점 ‘고비’&nbsp;&nbsp;마켓인지금 한타바이러스가 퍼지는 진짜 이유 (절대 우연이 아님)&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "경기신문",
@@ -390,18 +402,6 @@
       ]
     },
     {
-      "id": "b6cad7c24556",
-      "title": "다발성경화증, 증상 없어도 뇌는 망가진다 - 한국의약통신",
-      "published": "2026-05-28T07:59:06+00:00",
-      "summary": "다발성경화증, 증상 없어도 뇌는 망가진다&nbsp;&nbsp;한국의약통신아직 젊은데… 기억력 떨어지다가 실명, 대체 무슨 일?&nbsp;&nbsp;헬스조선젊은 나이에 실명, 인지 장애 일으키는 이 질환은?&nbsp;&nbsp;네이트[기고] 2040세대 위협하는 다발성경화증, 조기 진단과 사회적 이해 절실&nbsp;&nbsp;여성경제신문[건강톡톡] 단순 피로? ‘다발성경화증’ 초기 증상일 수도&nbsp;&nbsp;간호사신문",
-      "sources": [
-        {
-          "name": "한국의약통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JU2FQY0pOVnBuQmY2bVZvWm55X0FsSUtJYWNGaktNM21PQ05RSDBFdWFGQ3RTSjhtZTFzMGtCWHU5OC1melN6WENMS1pwUkQ5TlhNYk1ydmVCLUt6RE1vU3VhTlRIYkRPSXFn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f203aed3d370",
       "title": "목 멍울 증상, 정확한 진단과 조기 치료가 중요하다 - 이데일리",
       "published": "2026-05-28T07:33:26+00:00",
@@ -410,6 +410,18 @@
         {
           "name": "이데일리",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnF6cVRwU094bXJqZXdsLWs3aTFyVVlJUUd5QWxZYzVnYm1aeGRiYlRjaC1jVU8teFo5OFhWcGxLS0ttZzRqNkN6cWhyTE1WNXlfdXN5ZHRkc1RLcUNFUEMzVUlycXdSMmY5Sk5IdldlU3VFZW5uS19xOXFxQkh0VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2eaeb6ccc339",
+      "title": "여성 나이 50세, 당황스러울 만큼 큰 변화의 시간 - ohmynews.com",
+      "published": "2026-05-28T04:49:00+00:00",
+      "summary": "여성 나이 50세, 당황스러울 만큼 큰 변화의 시간&nbsp;&nbsp;ohmynews.com\"자신감 떨어지고 의욕 안 생기는데 혹시…\" 30대부터 서서히 찾아오는 '남성 갱년기'&nbsp;&nbsp;v.daum.net여성은 갱년기, 남성은 전립선...부부의 날, 중장년 부부 건강 함께 챙겨야&nbsp;&nbsp;동북일보",
+      "sources": [
+        {
+          "name": "ohmynews.com",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1adU8teUV1bGNPMDEzb0tQczBxbzFMVDJSbjhUWGhfY0tCU1VxQU0yRHp4MFBWeGVoNTh4T1RsdWlyRW9pRDBQa2doRTRSX1JPc0g0RlphQ3hGYmNQLXgwQ0M1anZEU1dfVWxaU1hSZEFwMzdBZjZZ?oc=5"
         }
       ]
     },
@@ -462,26 +474,26 @@
       ]
     },
     {
-      "id": "8094da37c67a",
-      "title": "창원특례시, 뎅기열 예방관리사업 추진···“해외유입 감염병 대응 강화” - 경남탑뉴스",
-      "published": "2026-05-28T03:09:34+00:00",
-      "summary": "창원특례시, 뎅기열 예방관리사업 추진···“해외유입 감염병 대응 강화”&nbsp;&nbsp;경남탑뉴스창원보건소, 해외여행 늘자 뎅기열 환자 증가…예방관리사업 추진&nbsp;&nbsp;gukjenews.com여름철 감기를 얕보지 마세요.&nbsp;&nbsp;Vietnam.vn창원특례시, 지역거점 뎅기열 예방관리사업 추진&nbsp;&nbsp;경남뉴스투데이창원∙마산∙진해보건소 ‘2분기 정례브리핑’&nbsp;&nbsp;뉴스프리존",
+      "id": "343e62cee9ff",
+      "title": "CKM증후군 등에 대응할 안전한 통합치료 전략 요구돼 - 메디칼업저버",
+      "published": "2026-05-28T03:05:07+00:00",
+      "summary": "CKM증후군 등에 대응할 안전한 통합치료 전략 요구돼&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
-          "name": "경남탑뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oMVVkQXVwZ2dKR1hWNDZNeG9lNXJpLWlOcUtRVmlHbmFMUzFEdUNZTm1NejRhOEMxNjE1blFwSDdGX1Q3b3c0THNMc1o2SU1Dc2Q5RmlxZzVBSDZpdVFJNklPT1VOd0ZXSEHSAW5BVV95cUxQVnpWaGtFdmpDYzVUOWdSZjBHRVBXeGdQTWFKblBDRTBmX3ZuM3Q0cEQ1SW41WmNiazFZTmxWNEt0UHVnazE2ZTliZTNiQ3l6STJzQW00S3R5SVNyLWxRS1dNNHJmelRKNGF3ZnloUQ?oc=5"
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFVkcyeDZScmhoM0tWQTBlT2VvSE5BR1N3TzJvTFZIOUxQSmFmb1BEZ09nQXlBVEJOb19ybmtmdGcxUFdqTXk2bzU1eEJKSFZGSGpXWXFKMExTX0p4ZXhjNkNuaV9Gdzg1S3Fr?oc=5"
         }
       ]
     },
     {
-      "id": "75db825ff6ae",
-      "title": "여성은 갱년기, 남성은 전립선...부부의 날, 중장년 부부 건강 함께 챙겨야 - 동북일보",
-      "published": "2026-05-28T02:37:32+00:00",
-      "summary": "여성은 갱년기, 남성은 전립선...부부의 날, 중장년 부부 건강 함께 챙겨야&nbsp;&nbsp;동북일보\"자신감 떨어지고 의욕 안 생기는데 혹시…\" 30대부터 서서히 찾아오는 '남성 갱년기'&nbsp;&nbsp;v.daum.net",
+      "id": "e02b6e80b363",
+      "title": "커피·채소·유제품 섭취, 심혈관질환 위험 낮춰…151개 연구 메타분석 결과 - 한국식품의약신문",
+      "published": "2026-05-28T02:34:13+00:00",
+      "summary": "커피·채소·유제품 섭취, 심혈관질환 위험 낮춰…151개 연구 메타분석 결과&nbsp;&nbsp;한국식품의약신문커피·채소·유제품 섭취, 심혈관질환 위험 낮아진다&nbsp;&nbsp;에너지경제신문“혈관 막는다”… 심장 전문의 절대 안 먹는다는 ‘이 음식’&nbsp;&nbsp;헬스조선식단은 심혈관 질환의 조용한 원인이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn햄 좋아하는 사람, 그나마 ‘덜 해로운’ 섭취법 알아두세요&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "동북일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYNWNuYXBZVlVuZ1NXUTdHRjgzRHFJb0g2Y3BBTmZsYktZR3BOM21rQ3hUX3pJa2c2d2Z0NktWODlQUVc5WmI0TlJ4M3Z1b1JRRTdKQTl2dTZNRklRaUJ0UnNmalJzV3BDb2dLaG1Hbw?oc=5"
+          "name": "한국식품의약신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvczdrUWE2TVFlb05hNE8tTDIzR3lseG42Vm9kSjZOT1MycG10M0dYcnJsQTUzamUxcXU1TnJPcU9wOWg2b3UzUV9teFNGZHNHOEJfVGV2UUdHWEdxaTdWRHg3UUZUYW8?oc=5"
         }
       ]
     },
@@ -494,30 +506,6 @@
         {
           "name": "위클리피플 인물지식가이드저널",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIY09abFJBdEw5VEVRWC1QSnAwY3BjeUhxUE5GWGRWbFQyQVI4OUFQOGw1U1hEcUh0dHhGUGlYT01qMjdXeThleFNKUmVLbEZPRmYtRHZhT2lpQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "213404271c00",
-      "title": "CKM증후군 등에 대응할 안전한 통합치료 전략 요구돼 - mostonline.co.kr",
-      "published": "2026-05-28T01:10:43+00:00",
-      "summary": "CKM증후군 등에 대응할 안전한 통합치료 전략 요구돼&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lTkFCYjZkVVhmRTZTcTJicVJqbWl6aHZwMXB0SVpZUWdnSVNkVUtwWVpVdlZaNTNzZkM0b3VVTVhpcU9WbjhSeDJyTmpjVmFMTlItQnlYb1hoZUUyQW0tSjNXU01KMEVHWGlGS05PaVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fcb0d7140bc7",
-      "title": "“굳었던 손 다시 움직였다”… 파킨슨병 줄기세포 치료, 현실이 되나 - hdnews.co.kr",
-      "published": "2026-05-28T01:07:16+00:00",
-      "summary": "“굳었던 손 다시 움직였다”… 파킨슨병 줄기세포 치료, 현실이 되나&nbsp;&nbsp;hdnews.co.kr지휘봉 잡은 파킨슨 환자의 기적…'꿈의 치료' 임상 어디까지 왔나&nbsp;&nbsp;v.daum.net의료기관 임상·제조 연계 첨단재생의료 사업 확대&nbsp;&nbsp;조선일보스타틴, 파킨슨병 환자 사망 위험↓···보조 치료전략 가능성 시사&nbsp;&nbsp;메디칼업저버줄기세포 치료 둘러싼 오해와 진실… 정확한 정보 확인 우선&nbsp;&nbsp;보건신문",
-      "sources": [
-        {
-          "name": "hdnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oQW5xeHdOU2tadGZZSDFkVEFaN1pDVUxaTkg4OURWTkp1LTVsbElsZm0yaDNNQ1NNZU83NElwRk9udXE0UGFXeG5TUlg3ZXJxUTBQclc5cVdmTVpsSnBSSVJoTmpEdkdGVE5R?oc=5"
         }
       ]
     },
@@ -537,23 +525,11 @@
       "id": "2267eb4d1005",
       "title": "[자유성] 치매와 걷기 - 영남일보",
       "published": "2026-05-27T21:23:15+00:00",
-      "summary": "[자유성] 치매와 걷기&nbsp;&nbsp;영남일보오래 앉아 있어도 '이 활동' 하면 치매 위험 낮아진다&nbsp;&nbsp;뉴시스치매는 피할 수 없을까?…뇌 건강 지키는 취미의 힘이 다시 주목받는다&nbsp;&nbsp;네이트똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다&nbsp;&nbsp;농민신문3위 손가락 운동, 2위 발가락 운동 70대 뇌세포 지키는 1위로 꼽는 운동&nbsp;&nbsp;MSN",
+      "summary": "[자유성] 치매와 걷기&nbsp;&nbsp;영남일보오래 앉아 있어도 '이 활동' 하면 치매 위험 낮아진다&nbsp;&nbsp;뉴시스똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다&nbsp;&nbsp;농민신문3위 손가락 운동, 2위 발가락 운동 70대 뇌세포 지키는 1위로 꼽는 운동&nbsp;&nbsp;MSN'앉아서 무엇을 하느냐'에 따라 치매 위험 달라져…TV 시청 땐 16% 증가&nbsp;&nbsp;sportschosun.com",
       "sources": [
         {
           "name": "영남일보",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZjZnODU5TUwxTHZJTnNBWFpWNy1DZXVOUW13Ti1sZi1HQjY5TVhGNU9VZW4yaTJZci1KeTRxWENZLWd3YU5LWlRLSFdfTG14bFV3LUsxcmU4aFI0NlVvNE1CSExMRHMzR1FN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a08d7c509fa6",
-      "title": "\"정상 수치 믿었는데\"…비타민B12 기준, 뇌 건강엔 부족 [저널톡] - 네이트",
-      "published": "2026-05-27T21:01:00+00:00",
-      "summary": "\"정상 수치 믿었는데\"…비타민B12 기준, 뇌 건강엔 부족 [저널톡]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lZzZ6UHZwVmJmRDRaWTEyYlNFNG5XaTFLZ2tUOXc1ZEZoamxjcTBfdGkxZVNOcHIyNDhuOXNZYXczUFJJbGZJeW4xbkEzTGo3S3Nj?oc=5"
         }
       ]
     },
@@ -578,18 +554,6 @@
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNN1pFRDBWMlQ5YlRTb3FLUTI0N0d0RzBMb2wteDFxQlFXVkpGa29TRVc2NkNfQlM0YTVDVHdsUHRpZVpLY0ZYQkpWNWxTMDYwYmNSbjNnZmk0dk9NNTh5Q2NvTzN6bEZSRVdheA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54c817f95e28",
-      "title": "[세계 장 건강의 날 특집] 당신의 대장항문은 안녕하십니까 - 헬스경향",
-      "published": "2026-05-27T16:27:00+00:00",
-      "summary": "[세계 장 건강의 날 특집] 당신의 대장항문은 안녕하십니까&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xcTdYemlwajJuaHBuQzdJdS16eS1VWUcwOU42SFJrYVU4N01SQ0VvV3M5dHRvZW5pcHA1V3VNdmlQYVZhZTVsa3Y2QTdzRHAyTElXUHRjZjJ1ZWRkUkYyQWhocmpGdHFfcHc?oc=5"
         }
       ]
     },
@@ -621,47 +585,11 @@
       "id": "d98f25b3ec35",
       "title": "피 한 방울로 뇌전증 읽는다 - 헬스포커스뉴스",
       "published": "2026-05-27T15:08:00+00:00",
-      "summary": "피 한 방울로 뇌전증 읽는다&nbsp;&nbsp;헬스포커스뉴스발작·경련 일으키는 뇌전증···혈액 속 ‘면역 바코드’로 감별하는 방법 나왔다&nbsp;&nbsp;v.daum.netMRI 없이 피 한 방울로 뇌전증 진단 길 열린다&nbsp;&nbsp;서울경제혈액 속 면역세포로 뇌전증 진단…\"세계 첫 발굴\"&nbsp;&nbsp;뉴시스\"혈액 속 '면역바코드'로 뇌전증 진단 가능성 확인\"&nbsp;&nbsp;연합뉴스",
+      "summary": "피 한 방울로 뇌전증 읽는다&nbsp;&nbsp;헬스포커스뉴스MRI 없이 피 한 방울로 뇌전증 진단 길 열린다&nbsp;&nbsp;서울경제발작·경련 일으키는 뇌전증···혈액 속 ‘면역 바코드’로 감별하는 방법 나왔다&nbsp;&nbsp;v.daum.net혈액 속 T세포로 뇌전증 판별… MRI 없이도 진단 가능성&nbsp;&nbsp;아주경제혈액 속 ‘면역 바코드’로 뇌전증 읽어낸다&nbsp;&nbsp;후생신보",
       "sources": [
         {
           "name": "헬스포커스뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TaDlxZmVGNkFXUi1maE40Rmc2Z1M2UW5LNm1yMDVPSHJHdjE4amZlTjRPbnBUMjQ3dWNQaDl4QWNOaFpIRWF3bXpJNThCQjQtMjFBMFhiakFlX29DZ3F5elFkUkpKVkdMMExJYUJOOGRyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "882d921d5495",
-      "title": "[우리동네 운세권] 교통약자도 부담 노(NO)…녹음 숲길 품은 강북구 ‘북서울꿈의숲’ - 헬스경향",
-      "published": "2026-05-27T09:58:00+00:00",
-      "summary": "[우리동네 운세권] 교통약자도 부담 노(NO)…녹음 숲길 품은 강북구 ‘북서울꿈의숲’&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dWRjbE9VVjJyTXEyZ2xYUmRqWmRXdkpXNzBvd3htTEt1OGpTQnlPYW5IeE12cm8wdkRMRTJvTW9ubHphcG5jUGh3a3hjc3pEaWJPbjE0MEJ2eU5BY0dmeG4xWGFqa2JiMWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "091588b5db80",
-      "title": "고려은단, 키즈 건강기능식품 구매 고객 대상 증정 행사 - 로이슈",
-      "published": "2026-05-27T09:40:16+00:00",
-      "summary": "고려은단, 키즈 건강기능식품 구매 고객 대상 증정 행사&nbsp;&nbsp;로이슈",
-      "sources": [
-        {
-          "name": "로이슈",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNVjRZYk5NYXo5Y2dKckdHOGZjQ20xX0tTQXp5QWxFMFl3UDdFVk1XZzV5YllwRnhCVmtrVWZWbnM5SGhVTUs2RVhld3ZneERNZ0MyMU5WRUxuYnJyMjRnaXhQYmE0WlNtb1ZjeGdXNU5yOU9QYTJIakZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "99febfe7ff1e",
-      "title": "\"당뇨, 단순 혈당병 아니다\"…몸 전체 망가뜨리는 '전신질환' - 매경헬스",
-      "published": "2026-05-27T09:00:00+00:00",
-      "summary": "\"당뇨, 단순 혈당병 아니다\"…몸 전체 망가뜨리는 '전신질환'&nbsp;&nbsp;매경헬스분당서울대병원, 2형 당뇨병 통합관리 필요성 제시&nbsp;&nbsp;전자신문[김태열의 생생건강S펜] 당뇨병 치료 패러다임의 전환, “혈당만의 문제가 아닌 전신질환 치료로”&nbsp;&nbsp;헤럴드경제2형 당뇨병, 13개 복합기전 원인으로 발생&nbsp;&nbsp;메디칼업저버임수 분당서울대병원 교수, “2형 당뇨병은 전신 13개 기전 얽힌 복합질환”&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hc1h0Mk11Y3dRWjFZMW9iT01Zb1dfTm5jY3BjODBGZURxX1R5d1RNR0p6Nm94eVNPX3l0OUhhazNoVjQyXzdNdkFkSVRscmE3U2ZkQnF3c0oxbzJqQlRNNFJXMkZXb1I2NFNGTQ?oc=5"
         }
       ]
     },
