@@ -1,10 +1,118 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-28T20:27:38.838982+00:00",
-  "total_fetched": 82,
-  "unique_count": 82,
-  "health_related_count": 46,
+  "fetched_at": "2026-05-29T03:57:43.587625+00:00",
+  "total_fetched": 87,
+  "unique_count": 87,
+  "health_related_count": 50,
   "news": [
+    {
+      "id": "3bd9c9d3f3d5",
+      "title": "과도한 만성 염증이 우울증 유발? … ‘염증성 우울증’ 가설에 JAK 억제제 재조명 - 헬스코리아뉴스",
+      "published": "2026-05-29T03:01:00+00:00",
+      "summary": "과도한 만성 염증이 우울증 유발? … ‘염증성 우울증’ 가설에 JAK 억제제 재조명&nbsp;&nbsp;헬스코리아뉴스류마티즘 치료제로 난치성 우울증 잡는다… IL-6 차단 항체, 뇌 아닌 면역계 표적해 관해율 54% 달성&nbsp;&nbsp;바이오타임즈기존 항우울제 듣지 않던 우울증, 관절염 치료제가 새 길을 열다&nbsp;&nbsp;캐어유 뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qc1RUTHRqN1RJQ1JQUW5BZ2w5NC1KY25DeWRmMWlkYTNtTXJnc1NkS3YzV3VGeVdKdmhRTHVqSjlCYkU0TmczRzc3OXFCTWEtcFpoOFBMWEJLVFpjU2wyemFKd2VsVk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c667b0f85bbd",
+      "title": "“젊어지려다 뇌 손상?”…유행 중인 항노화 약물 조합, 뇌 망가뜨릴 수도 - 코메디닷컴",
+      "published": "2026-05-29T02:10:00+00:00",
+      "summary": "“젊어지려다 뇌 손상?”…유행 중인 항노화 약물 조합, 뇌 망가뜨릴 수도&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBraFdSbnRpSm1aQUNGdi1hcjNsSVVfTmJBNmlhRHlndlo2YmI0WFlRb1gxWXNJMFFtRngtaVc5QkdBdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "721b4afb5b51",
+      "title": "상계백병원 육진성 교수 연구팀, “여성호르몬 노출 기간 짧을수록 폐경 후 심부전 위험 높아져” - 메디포뉴스",
+      "published": "2026-05-29T01:50:09+00:00",
+      "summary": "상계백병원 육진성 교수 연구팀, “여성호르몬 노출 기간 짧을수록 폐경 후 심부전 위험 높아져”&nbsp;&nbsp;메디포뉴스\"女 사망 원인 1위 '심장 질환'…진단·치료율은 남성보다 낮아\"&nbsp;&nbsp;뉴시스가임 기간 30년 미만 여성, 40년 이상보다 심부전 위험 1.28배 높다&nbsp;&nbsp;하이뉴스‘이때’ 운동 안 해두면, 심장 건강 급격히 악화&nbsp;&nbsp;헬스조선가임 기간 짧은 여성, 심부전 위험 최대 1.28배&nbsp;&nbsp;한스경제",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wVUtnaXdOUHdVbi1MV2oyRWlpTjBvdFdoM0xkNEh2c2FOS043ODhKME9uQUFBcG9kNVo4SmprdFQtTUZ6WEhPSXdhRTFoeW5tYy0yWHk4TzJqYzVzc2RDRTFMM1g?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "312ddc828776",
+      "title": "“RSV, 독감만큼 흔하지만 더 치명적…고령층 대상 백신 사실상 유일한 해결책” - 헬스경향",
+      "published": "2026-05-29T01:30:00+00:00",
+      "summary": "“RSV, 독감만큼 흔하지만 더 치명적…고령층 대상 백신 사실상 유일한 해결책”&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yUWJaUW5fbVRoVE5hNUxKS19ZeTVLdFhFMWE5MkR4Vk5aMVJiRXJMaHhKdW1ReWt2Y2ptZVY3QWE5NnlEdjR0M0dmbjYzUHQ5RWc3RzdwcGdwMkJvcWpkNGJjSmxTQ0NZaVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2ca6443beb5",
+      "title": "증상 없는데 혈당은 오른다…당뇨 관리의 핵심은 - 매경헬스",
+      "published": "2026-05-29T00:15:25+00:00",
+      "summary": "증상 없는데 혈당은 오른다…당뇨 관리의 핵심은&nbsp;&nbsp;매경헬스[하루건강] '젊은 당뇨병', 제대로 관리하면 완치도 가능?&nbsp;&nbsp;네이트“가장 잘못 알려진 당뇨병 상식은?”… 조영민 교수의 당뇨병 팩트체크&nbsp;&nbsp;하이닥“당화혈색소 목표 도달은 3명 중 1명”…혈당 관리 해법 찾는 당뇨 환자들 [당 편한 세상]&nbsp;&nbsp;쿠키메디‘당 떨어진다’는 달콤한 핑계&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hUUQyUUpzWWoxcVNQUWJ5Sm1hZ0RrTVhUaHBTeDk0bnJFX1dQeUpqTVdCTExMdXJvWXBnVk5qMG1KOUIyT0YzT3JoY3EwaHkwUm14Uk01M1hueHYtV1drdjkwbllxOEJkQ3hLVw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1db6ac88d28",
+      "title": "골다공증 골절 치료 패러다임 변화… \"재골절 예방이 핵심\" - 히트뉴스",
+      "published": "2026-05-28T21:02:00+00:00",
+      "summary": "골다공증 골절 치료 패러다임 변화… \"재골절 예방이 핵심\"&nbsp;&nbsp;히트뉴스",
+      "sources": [
+        {
+          "name": "히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xdkRQX0NzM2V2bzV5SGNjd2pWNnBtWnhfVWN6ZFZfZk9wQnMwcnpqQUtsR2YzVC03NEhyeHg5OFhkWWJORW1qZUQwY1JJSnhoUFZfeXF3VURKOW15TFNXaFZRVFNZZnF5c0VB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f2a86bc2f72",
+      "title": "보이지 않는 신경 기능을 읽다: 전기진단검사의 의학적 가치 - 메디칼업저버",
+      "published": "2026-05-28T20:55:39+00:00",
+      "summary": "보이지 않는 신경 기능을 읽다: 전기진단검사의 의학적 가치&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HVmxpVUxhdEc1aHFHNjlTUmtXQjNRUzktNWVmZm14MTlndjdCVlVrOWV6UWVLbkVOY0JZVmdxcjItaEppN0tqSEVyTEhaRW9Pam1mTTl6OWhTd3NYQjNrTlR3UENIV1BPenBN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6a7818939b7",
+      "title": "ADHD에 도움된다는 건기식들…어디까지 믿어야 할까? - 약사공론",
+      "published": "2026-05-28T20:50:00+00:00",
+      "summary": "ADHD에 도움된다는 건기식들…어디까지 믿어야 할까?&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQUJobkszLUR1UC1OWmpIczhlNnFYaGtfZ0gybng1MmkzLTdTTW5URkhZTjlteFc2WWFYYW9aNWxpQ0JPaXVGLWQ4QkxQWi1fVGdhRGpxdkV5cEhzU2ZvVFZCRThPZVN2bzJSRg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7094c891c3a",
+      "title": "“90세까지 살 겁니다” 포유류 수명 읽는 ‘분자시계’ 개발 - 동아일보",
+      "published": "2026-05-28T19:30:00+00:00",
+      "summary": "“90세까지 살 겁니다” 포유류 수명 읽는 ‘분자시계’ 개발&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUSWFzeW5TaUFMbkpVUjVEQ0cxTGVyd0w0Smota0tTZ3loQ01PNDRERG9xTHl5Qnp1ZW1iamtzWmk4UVRyZEFrbmtZZnZ4T2R4dU82OVpLZkJyVENuOWxWZW9UYmhCNUREbEt2LVNLUdIBZkFVX3lxTE1vTTJQUHhlT09vNkJVS3QxZjhZbTJjLVhJM2RXcmdheHEwdC1fMkFvTnZnNGZsOFVPNnBHLUhmZFV1ZTFtVlREUzFBMDEtdTNVenFpX0JQNVhBRGx0Z1VpVkk3OFBmQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "5b6203cb5351",
       "title": "조류독감·신종플루에서 인류를 구한 ‘독감 바이러스 사냥꾼’ - 조선일보",
@@ -45,7 +153,7 @@
       "id": "adb0df68f3db",
       "title": "k채널/무안군, 인유두종바이러스(HPV) 예방접종 지원 확대 - K채널",
       "published": "2026-05-28T11:16:27+00:00",
-      "summary": "k채널/무안군, 인유두종바이러스(HPV) 예방접종 지원 확대&nbsp;&nbsp;K채널무안군, 인유두종바이러스(HPV) 예방접종 지원 확대&nbsp;&nbsp;내외뉴스통신편견을 깨세요…\"남성도 자궁경부암 접종 필요\"&nbsp;&nbsp;뉴시스7월 1일부터 여학생들은 HPV 백신을 무료로 접종받을 수 있을 것으로 예상됩니다.&nbsp;&nbsp;Vietnam.vn김해시, 12세 남성 청소년까지 HPV 무료 예방접종 확대&nbsp;&nbsp;영남매일",
+      "summary": "k채널/무안군, 인유두종바이러스(HPV) 예방접종 지원 확대&nbsp;&nbsp;K채널무안군, 인유두종바이러스(HPV) 예방접종 지원 확대&nbsp;&nbsp;내외뉴스통신[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트김해시, 12세 남성 청소년까지 HPV 무료 예방접종 확대&nbsp;&nbsp;영남매일부산 서구보건소, HPV 국가예방접종 12세 남아 확대 시행 적극 홍보 > 뉴스&nbsp;&nbsp;더코리아",
       "sources": [
         {
           "name": "K채널",
@@ -74,6 +182,42 @@
         {
           "name": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BNFVBSVBHQmhiMjc1eEkwTjBabE80SFljd3kxLS12eGtlZkJkYXdDbDhrbEtjdmhPSXREOVVrU1VZVGFUcTg3bFZ5bGtZNkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c21da741488e",
+      "title": "왜 여성 치매 환자가 더 많을까…뇌세포 '사이 공간'서 단서 발견[노화설계] - 네이트",
+      "published": "2026-05-28T09:03:00+00:00",
+      "summary": "왜 여성 치매 환자가 더 많을까…뇌세포 '사이 공간'서 단서 발견[노화설계]&nbsp;&nbsp;네이트왜 여성 치매 환자가 더 많을까…뇌세포 ‘사이 공간’서 단서 발견[노화설계]&nbsp;&nbsp;v.daum.net알츠하이머, 왜 女가 더 많을까?...“폐경 후 에스트로겐 줄면 해마 환경 변해”&nbsp;&nbsp;디멘시아뉴스같은 우울증·고혈압이어도… 여성이 치매에 더 취약한 이유&nbsp;&nbsp;하이닥같은 당뇨·고혈압이라도, 여성이 치매 더 위험&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ldWJrSnh6c3R3T2tDQnV5cUIxQVBhSlItRlhIaFR6cjc2YTVla2pYaC1QeHlyRjlWdkxtWU05RW5zbHF2QmgwU0VUeGtVS1FPZTE4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "277cf5612788",
+      "title": "[기고]동두천 연구실서 거둔 세계적 성과 ‘한타바이러스’ 그리고 이호왕 박사 - 경기신문",
+      "published": "2026-05-28T08:58:37+00:00",
+      "summary": "[기고]동두천 연구실서 거둔 세계적 성과 ‘한타바이러스’ 그리고 이호왕 박사&nbsp;&nbsp;경기신문[이슈픽] “곧 월드컵인데 어쩌나”…‘한타바이러스’ 주의보&nbsp;&nbsp;v.daum.net한타바이러스 크루즈서 스페인인 추가 확진…잠복기 정점 ‘고비’&nbsp;&nbsp;마켓인감염병에 취약한 크루즈선…\"고령이라면 여행 계획 신중하게\"&nbsp;&nbsp;네이트한타바이러스: 호주, MV 혼디우스호 승객에 대한 격리 기간 연장.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "경기신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuX3R4QWw2UkpvcFRpOC00aDd6cFp4OGJUcUNISUlCejlKNGszcUlFZXktZTg3X21GN29BT1RBYklxcDNTTXRFM0VMR1JVWjlxbEJGdnVBaWIyelhGSy1UME53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4752a99d262a",
+      "title": "\"암세포를 정상세포로 만들어줘\"…'비밀 스위치' 한국이 찾았다 - 매일경제",
+      "published": "2026-05-28T08:34:23+00:00",
+      "summary": "\"암세포를 정상세포로 만들어줘\"…'비밀 스위치' 한국이 찾았다&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mNWR6SFlGUk54YkZZaHVwODA4X3RFaHJqeEhpN1ltUGw1eXJuVEJGc19MUW9sMFVZNzZPMGRLVDdqOGM5OUZOVmlYaUIzdw?oc=5"
         }
       ]
     },
@@ -141,11 +285,23 @@
       "id": "b4ab4400b905",
       "title": "폐암 유형 같아도 치료 방향 달라지는 이유··· 흡연·폐기종 여부 따라 차이 - 경향신문",
       "published": "2026-05-28T03:54:00+00:00",
-      "summary": "폐암 유형 같아도 치료 방향 달라지는 이유··· 흡연·폐기종 여부 따라 차이&nbsp;&nbsp;경향신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "폐암 유형 같아도 치료 방향 달라지는 이유··· 흡연·폐기종 여부 따라 차이&nbsp;&nbsp;경향신문같은 폐암인데…'이것' 유무에 치료 반응 달라진다&nbsp;&nbsp;뉴시스여의도성모병원팀 \"폐기종 동반 폐암, 종양 내 면역 환경에 더 '공격적'\" 밝혀내&nbsp;&nbsp;파이낸셜포스트같은 폐선암도 흡연력·폐기종 여부 따라 종양 면역환경 달라져&nbsp;&nbsp;헬스오여의도성모병원 임정욱 교수팀, 흡연·폐기종 따른 폐선암 차이 규명&nbsp;&nbsp;헬스미디어뉴스",
       "sources": [
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scGc3aTFXc0lka0puRzBYU21Qd3F0WTZaQlJpZ096blNKZTRsd2tVVnUyRHRTQm1BWWhKMWU0TUlkUXhnY0pCbHFyZGcxUU1XOURnQTJEVXJzZ9IBX0FVX3lxTE5RN1VUVTNUWTg2ZXNlNFhYcnc3N2JPWWpyeW5nWlRiMWNYLWxZaVM2MlZRX2JzNHNsMlhJMWxHdi1IWkdmRnp2ZERmYktLTzNvOFdNZzZaRnZYVUtRa01J?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8094da37c67a",
+      "title": "창원특례시, 뎅기열 예방관리사업 추진···“해외유입 감염병 대응 강화” - 경남탑뉴스",
+      "published": "2026-05-28T03:09:34+00:00",
+      "summary": "창원특례시, 뎅기열 예방관리사업 추진···“해외유입 감염병 대응 강화”&nbsp;&nbsp;경남탑뉴스창원보건소, 해외여행 늘자 뎅기열 환자 증가…예방관리사업 추진&nbsp;&nbsp;gukjenews.com여름철 감기를 얕보지 마세요.&nbsp;&nbsp;Vietnam.vn창원특례시, 지역거점 뎅기열 예방관리사업 추진&nbsp;&nbsp;경남뉴스투데이창원∙마산∙진해보건소 ‘2분기 정례브리핑’&nbsp;&nbsp;뉴스프리존",
+      "sources": [
+        {
+          "name": "경남탑뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oMVVkQXVwZ2dKR1hWNDZNeG9lNXJpLWlOcUtRVmlHbmFMUzFEdUNZTm1NejRhOEMxNjE1blFwSDdGX1Q3b3c0THNMc1o2SU1Dc2Q5RmlxZzVBSDZpdVFJNklPT1VOd0ZXSEHSAW5BVV95cUxQVnpWaGtFdmpDYzVUOWdSZjBHRVBXeGdQTWFKblBDRTBmX3ZuM3Q0cEQ1SW41WmNiazFZTmxWNEt0UHVnazE2ZTliZTNiQ3l6STJzQW00S3R5SVNyLWxRS1dNNHJmelRKNGF3ZnloUQ?oc=5"
         }
       ]
     },
@@ -162,14 +318,14 @@
       ]
     },
     {
-      "id": "5941278d47ee",
-      "title": "지역거점 뎅기열 예방관리사업 추진 - 서프라이즈뉴스",
-      "published": "2026-05-28T02:41:41+00:00",
-      "summary": "지역거점 뎅기열 예방관리사업 추진&nbsp;&nbsp;서프라이즈뉴스창원보건소, 해외여행 늘자 뎅기열 환자 증가…예방관리사업 추진&nbsp;&nbsp;gukjenews.com여름철 감기를 얕보지 마세요.&nbsp;&nbsp;Vietnam.vn창원특례시, 뎅기열 예방관리사업 추진···“해외유입 감염병 대응 강화”&nbsp;&nbsp;경남탑뉴스창원∙마산∙진해보건소 ‘2분기 정례브리핑’&nbsp;&nbsp;뉴스프리존",
+      "id": "75db825ff6ae",
+      "title": "여성은 갱년기, 남성은 전립선...부부의 날, 중장년 부부 건강 함께 챙겨야 - 동북일보",
+      "published": "2026-05-28T02:37:32+00:00",
+      "summary": "여성은 갱년기, 남성은 전립선...부부의 날, 중장년 부부 건강 함께 챙겨야&nbsp;&nbsp;동북일보\"자신감 떨어지고 의욕 안 생기는데 혹시…\" 30대부터 서서히 찾아오는 '남성 갱년기'&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "서프라이즈뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tRjBpc0lnODh2VjlLdVlZcWdyZHNzNnRGN2FsWEpnN1BwWGNnWVRiRnZEZGU5aUlVUTdCcmQ2cFRJODlhcjl1WndEdFJzekRoME83NWM5YkNXaVhmbDJyaUUwc2Z0ZWVscHFHRkJR?oc=5"
+          "name": "동북일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYNWNuYXBZVlVuZ1NXUTdHRjgzRHFJb0g2Y3BBTmZsYktZR3BOM21rQ3hUX3pJa2c2d2Z0NktWODlQUVc5WmI0TlJ4M3Z1b1JRRTdKQTl2dTZNRklRaUJ0UnNmalJzV3BDb2dLaG1Hbw?oc=5"
         }
       ]
     },
@@ -177,7 +333,7 @@
       "id": "e02b6e80b363",
       "title": "커피·채소·유제품 섭취, 심혈관질환 위험 낮춰…151개 연구 메타분석 결과 - 한국식품의약신문",
       "published": "2026-05-28T02:34:13+00:00",
-      "summary": "커피·채소·유제품 섭취, 심혈관질환 위험 낮춰…151개 연구 메타분석 결과&nbsp;&nbsp;한국식품의약신문커피·채소·유제품 섭취, 심혈관질환 위험 낮아진다&nbsp;&nbsp;에너지경제신문\"女 사망 원인 1위 '심장 질환'…진단·치료율은 남성보다 낮아\"&nbsp;&nbsp;뉴시스햄 좋아하는 사람, 그나마 ‘덜 해로운’ 섭취법 알아두세요&nbsp;&nbsp;헬스조선심장마비·뇌졸중 위험 낮추려면…여성은 ‘이 때’ 꼭 ‘이렇게’ 해야 한다?&nbsp;&nbsp;코메디닷컴",
+      "summary": "커피·채소·유제품 섭취, 심혈관질환 위험 낮춰…151개 연구 메타분석 결과&nbsp;&nbsp;한국식품의약신문Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "한국식품의약신문",
@@ -198,10 +354,22 @@
       ]
     },
     {
+      "id": "71c1330867fa",
+      "title": "‘겉으로 보이는 증상 너머를 본다’…협진으로 이어지는 진료 체계 - 엠허브미의원 이근호 대표원장 - 엠디저널",
+      "published": "2026-05-28T00:56:50+00:00",
+      "summary": "‘겉으로 보이는 증상 너머를 본다’…협진으로 이어지는 진료 체계 - 엠허브미의원 이근호 대표원장&nbsp;&nbsp;엠디저널",
+      "sources": [
+        {
+          "name": "엠디저널",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GblIzOFVCS3JBX0pYSDdGSUZoTHhuYnRLR0ZpZlprd2h6MU81U281OXY4ZWMwRG1mbG9CVGRxQlRFNE5PLTJVQTdCREg5UmZxZnhqSnVQYzdWQlBNSzlSZFNJUl9oZWRBUEHSAW5BVV95cUxQYWlwUVZtUzkwLVJUOVBfUjU0WExnd0JPLU1rX1praFVpLW93UFVCMEdZSDFPS1cyRG02akhVaHFBTzhSSUtUTmtQZ2JKem5jMEplQ1hMR0cyN2JwOG9sdllVRTR1UzFuYTlzMWZkdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2267eb4d1005",
       "title": "[자유성] 치매와 걷기 - 영남일보",
       "published": "2026-05-27T21:23:15+00:00",
-      "summary": "[자유성] 치매와 걷기&nbsp;&nbsp;영남일보오래 앉아 있어도 '이 활동' 하면 치매 위험 낮아진다&nbsp;&nbsp;뉴시스똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다&nbsp;&nbsp;농민신문'앉아서 무엇을 하느냐'에 따라 치매 위험 달라져…TV 시청 땐 16% 증가&nbsp;&nbsp;sportschosun.com3위 손가락 운동, 2위 발가락 운동 70대 뇌세포 지키는 1위로 꼽는 운동&nbsp;&nbsp;MSN",
+      "summary": "[자유성] 치매와 걷기&nbsp;&nbsp;영남일보오래 앉아 있어도 '이 활동' 하면 치매 위험 낮아진다&nbsp;&nbsp;뉴시스치매는 피할 수 없을까?…뇌 건강 지키는 취미의 힘이 다시 주목받는다&nbsp;&nbsp;네이트똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다&nbsp;&nbsp;농민신문3위 손가락 운동, 2위 발가락 운동 70대 뇌세포 지키는 1위로 꼽는 운동&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "영남일보",
@@ -270,14 +438,14 @@
       ]
     },
     {
-      "id": "a626aab1db83",
-      "title": "뼈 영양제만으론 골다공증 골절 못 막는다 - 조선일보",
-      "published": "2026-05-27T15:43:34+00:00",
-      "summary": "뼈 영양제만으론 골다공증 골절 못 막는다&nbsp;&nbsp;조선일보“칼슘·비타민D 복용, 골절 예방 효과 거의 없다”&nbsp;&nbsp;헬스조선뼈에 좋은 ‘이 비타민’…크론병·궤양성 대장염에도 효과?&nbsp;&nbsp;농민신문뼈 건강 필수라던 칼슘·비타민D, 골절 예방 효과 미미[노화설계]&nbsp;&nbsp;동아일보골절 예방에 칼슘·비타민 D 필수?…15만 명 분석하니 “효과 미미”&nbsp;&nbsp;하이닥",
+      "id": "742dec91e7c1",
+      "title": "“고혈압 위험 30% 낮춘다” 매일 ‘이것’ 먹으라는데… 뭘까? - 헬스조선",
+      "published": "2026-05-27T16:00:00+00:00",
+      "summary": "“고혈압 위험 30% 낮춘다” 매일 ‘이것’ 먹으라는데… 뭘까?&nbsp;&nbsp;헬스조선다이어트 중 허기질 때, ‘이것’ 먹으면 해소… 뭘까?&nbsp;&nbsp;헬스조선“두부·콩 자주 먹었더니 혈압 낮았다”…국제학술지가 주목한 식단은&nbsp;&nbsp;레이디경향\"커피보다 좋다\"... 매일 '히비스커스차' 마시면 건강해지는 이유 8&nbsp;&nbsp;하이닥체중 감량에 최고로 좋은 탄수화물...다이어트 할 때 콩류가 좋은 이유&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBLXdfRW1Va1M2NXZIZlUwaTRESnhuckg5d2M5VDYzQ1FTYVdnR093RjNGeUYxQTJPaGx3cFJSRVc5Z25Xa3lGcnJheDV4cnR5NHE4UG5TakhFdVFDTHdXN0FZbFZnSDBOV1lKc3Nfd1VxZ3N5azR2ag?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RYmpiQVdNWUFkdnEzdEpCXzhPdjRRZERMTktsYVNxdnpJRE5BNm9OV3o1SEdnbVBZVzF6ckVDQ2M3bWYybUxyM0NuSnF3d3EyTG1nNGxtemN3TWJ1NzEzeGxjaTczUVU2ZzRDWjg4cVUzVE9UaFE?oc=5"
         }
       ]
     },
@@ -297,23 +465,11 @@
       "id": "d98f25b3ec35",
       "title": "피 한 방울로 뇌전증 읽는다 - 헬스포커스뉴스",
       "published": "2026-05-27T15:08:00+00:00",
-      "summary": "피 한 방울로 뇌전증 읽는다&nbsp;&nbsp;헬스포커스뉴스발작·경련 일으키는 뇌전증···혈액 속 ‘면역 바코드’로 감별하는 방법 나왔다&nbsp;&nbsp;v.daum.net혈액 속 면역세포로 뇌전증 진단…\"세계 첫 발굴\"&nbsp;&nbsp;뉴시스\"혈액 속 '면역바코드'로 뇌전증 진단 가능성 확인\"&nbsp;&nbsp;연합뉴스피 한 방울로 '뇌전증' 찾는다…서울대병원 세계 첫 규명&nbsp;&nbsp;데일리안",
+      "summary": "피 한 방울로 뇌전증 읽는다&nbsp;&nbsp;헬스포커스뉴스발작·경련 일으키는 뇌전증···혈액 속 ‘면역 바코드’로 감별하는 방법 나왔다&nbsp;&nbsp;v.daum.netMRI 없이 피 한 방울로 뇌전증 진단 길 열린다&nbsp;&nbsp;서울경제혈액 속 면역세포로 뇌전증 진단…\"세계 첫 발굴\"&nbsp;&nbsp;뉴시스\"혈액 속 '면역바코드'로 뇌전증 진단 가능성 확인\"&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
           "name": "헬스포커스뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TaDlxZmVGNkFXUi1maE40Rmc2Z1M2UW5LNm1yMDVPSHJHdjE4amZlTjRPbnBUMjQ3dWNQaDl4QWNOaFpIRWF3bXpJNThCQjQtMjFBMFhiakFlX29DZ3F5elFkUkpKVkdMMExJYUJOOGRyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bcecbdd370d9",
-      "title": "유럽 여행 간다면 '매독' 주의…\"임신부 감염 시 태아까지 위험\" - 네이트",
-      "published": "2026-05-27T10:11:00+00:00",
-      "summary": "유럽 여행 간다면 '매독' 주의…\"임신부 감염 시 태아까지 위험\"&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kQ2tzRk1UNGg2RndFUmVMa1Zwa19MYTNrNS03VFNQcEU5SnJWTmxJYTAxY2VjX2tQVVNUODZta0xGanNiUnpNWnZfWVk1SGY1NDFv?oc=5"
         }
       ]
     },
@@ -326,18 +482,6 @@
         {
           "name": "헬스경향",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dWRjbE9VVjJyTXEyZ2xYUmRqWmRXdkpXNzBvd3htTEt1OGpTQnlPYW5IeE12cm8wdkRMRTJvTW9ubHphcG5jUGh3a3hjc3pEaWJPbjE0MEJ2eU5BY0dmeG4xWGFqa2JiMWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76a11573210e",
-      "title": "알츠하이머, 왜 女가 더 많을까?...“폐경 후 에스트로겐 줄면 해마 환경 변해” - 디멘시아뉴스",
-      "published": "2026-05-27T09:53:45+00:00",
-      "summary": "알츠하이머, 왜 女가 더 많을까?...“폐경 후 에스트로겐 줄면 해마 환경 변해”&nbsp;&nbsp;디멘시아뉴스왜 여성 치매 환자가 더 많을까…뇌세포 ‘사이 공간’서 단서 발견[노화설계]&nbsp;&nbsp;v.daum.net같은 우울증·고혈압이어도… 여성이 치매에 더 취약한 이유&nbsp;&nbsp;하이닥같은 당뇨·고혈압이라도, 여성이 치매 더 위험&nbsp;&nbsp;헬스조선여성 치매 위험 더 큰 이유…같은 고혈압도 인지기능 더 떨어졌다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCZXY2T0ZWbFBXZURSRzBDN2l4N05hUVhuNXVPeDhCYUFXejBMdWdNOGhRc0RBcTBwUGdYVFY2MU0tWFhYMjFLUkVhVTF1VnNmblgwTzhNZUFFSEdKbnZPUWRtNmNrMXU5MTY0Y3JhR0lDZw?oc=5"
         }
       ]
     },
@@ -362,30 +506,6 @@
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hc1h0Mk11Y3dRWjFZMW9iT01Zb1dfTm5jY3BjODBGZURxX1R5d1RNR0p6Nm94eVNPX3l0OUhhazNoVjQyXzdNdkFkSVRscmE3U2ZkQnF3c0oxbzJqQlRNNFJXMkZXb1I2NFNGTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c38af806254",
-      "title": "독감 앓던 10대 소녀, 뇌졸중까지 겪어… 대체 어쩌다가? - 헬스조선",
-      "published": "2026-05-27T08:20:00+00:00",
-      "summary": "독감 앓던 10대 소녀, 뇌졸중까지 겪어… 대체 어쩌다가?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9udzlTV3QxNVo3LVk1dDB5Smkxd2hiY3pMTUdRVTBWZzBkTnZqNmxITXltZGJVMnJlamdUQnIyUHZGdGlDQjUwZ2lFSzhSc2lWSkxUNmN5Yk5kWWtiR3J5ZjI2T09xYUM0YXlTSWV4OHQ2anZUSFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "991a399f4f55",
-      "title": "콩 하루 한줌, 수명연장에 혈압통제까지!--건강 - 인민넷",
-      "published": "2026-05-27T07:37:00+00:00",
-      "summary": "콩 하루 한줌, 수명연장에 혈압통제까지!--건강&nbsp;&nbsp;인민넷다이어트 중 허기질 때, ‘이것’ 먹으면 해소… 뭘까?&nbsp;&nbsp;헬스조선“두부·콩 자주 먹었더니 혈압 낮았다”…국제학술지가 주목한 식단은&nbsp;&nbsp;레이디경향\"커피보다 좋다\"... 매일 '히비스커스차' 마시면 건강해지는 이유 8&nbsp;&nbsp;하이닥체중 감량에 최고로 좋은 탄수화물...다이어트 할 때 콩류가 좋은 이유&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90N3MtTTJlUjdhT1RFWWFZWGk5YnBOaHh0WEEzMWN4am41Z3hjMTFZalZDYVlDQ0liWU8zZUxBcjR2R19YVy1qV1d4RjE1Qi16T1E4ai1VaE9GNUN4RHJ4QnpZNVktU0pfNzNOSUNR?oc=5"
         }
       ]
     },
@@ -450,18 +570,6 @@
       ]
     },
     {
-      "id": "78074fc3ab9f",
-      "title": "일산백병원, 6월 13일 ‘이비인후과 연수강좌’ 개최 - 병원신문",
-      "published": "2026-05-27T01:12:52+00:00",
-      "summary": "일산백병원, 6월 13일 ‘이비인후과 연수강좌’ 개최&nbsp;&nbsp;병원신문",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OcTl3QjRaSjJ6d0l2VDRhSGJaOVpvLXlVWlNTSHBudy1GWFJSaU9wZHQ5R3daOEZ3cUxlUVN3MDJueHFGNmpPSjk1aUxpX0k5V0lyV2JndDJPdnhQc3JRdTdwdUhBLVRyY2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "593cbdea5b88",
       "title": "[ASCO] 보로노이, EGFR TKI ‘VRN110755’ C797S 변이 폐암 ORR 85.7% - 더바이오",
       "published": "2026-05-26T21:10:00+00:00",
@@ -470,54 +578,6 @@
         {
           "name": "더바이오",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ELW9XbW1QajdWbHJSUldYMUdqS0cyWGd4VlIwWTJPTmJZWUNjTU5KVHhkUVJfTGlYMU4zWXlaVG4wMmowS3V6Mk5sbEFpNkdmWUp0b05jYV9mZVkzYUhLdWpHUmNyNzMyRGREeNIBcEFVX3lxTE5GajEtZWpBLVlIZ3ZHS3VPM0pqUjhTdVdPZWpJRW1tSkhpV203ZS1CVHg3QW1PM000NmpKTEgwc2daSFhEWmNVekJPNGhoUURERWRYLTZrN0FfNVNrajNiTXJCSmVFZ2FnTzB3Yy1RNDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b4e3d5e1ddf9",
-      "title": "“지팡이 짚기 전에 짐볼 위에 앉으세요” - 마음건강 길",
-      "published": "2026-05-26T21:00:00+00:00",
-      "summary": "“지팡이 짚기 전에 짐볼 위에 앉으세요”&nbsp;&nbsp;마음건강 길",
-      "sources": [
-        {
-          "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oZ08yS0FTUkUyNDg3VGJPWjhzTWlkS2tTTHp6c0RSZ216U2VrWEtxSzdaMDhKVDU3R1A2bElrQnNuYkF0WGZEOUQxRngtUGVuNGwyQjZleVdGenVvNzMyX2tVMnBDdXQ2cXfSAW5BVV95cUxPT1RzS3dEbHpSblYwZFRpODltODVkOHQ4MEd6M3Z5RVF5ZUs4dVZfUVdaaEtLc1duMW5CcWs2cnM0UjhJVUtRQWY1aGhZdGNBRkotOWR4ZmZWYWJHQlpaYTd1X0ExRDh6NXlSUUVDZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec7efac2ddd6",
-      "title": "유럽, 독감백신 조성·마약류 지정·불법의약품 단속까지 규제 강화 - 뉴스더보이스헬스케어",
-      "published": "2026-05-26T20:59:00+00:00",
-      "summary": "유럽, 독감백신 조성·마약류 지정·불법의약품 단속까지 규제 강화&nbsp;&nbsp;뉴스더보이스헬스케어",
-      "sources": [
-        {
-          "name": "뉴스더보이스헬스케어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKLWhuNDRCb1RwbC1wMUcyT0dXLUFHaG1YeDZZSGlzbExkSkxCajVhLVBDTWpZZHlhalJ5RE4zZlRFRUtpQi1NbXBPcWxYb2RnRjViY3ZEeHlMVFlYZExnVEFHWld4LW96M0F3SkJtRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8e77c0de2bf",
-      "title": "심근경색 겪으면 뇌 기능 나빠진다 - 마음건강 길",
-      "published": "2026-05-26T20:40:00+00:00",
-      "summary": "심근경색 겪으면 뇌 기능 나빠진다&nbsp;&nbsp;마음건강 길",
-      "sources": [
-        {
-          "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SdnVFWGstS2hHNWk5MFE4c1hWcEN6NS05bk9kenp1NWNqalJCTGNWclJMbnNxSkZxQVVFOTZBNk1RUk05U25yemJQNmVaTVNhOXZ2UV82em8zcWttZzExMFNaX25hM0dKN0HSAW5BVV95cUxQcjVoeEdlUkFqTHB1bDBIU2ZqSWI0ZmVZTnBzTkdUb3Q4RHlWb3pPVnNkbTRXM3h6SlljSHlTbEN5X01CbnJCVFZqak9FRjYtQ0h6eTBRandNeDFPZl9XUGpHcnNYUDdtYkFhTnZzUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ae554ecba46",
-      "title": "\"약물 없이 PTSD 잡는다\"…정신 질환 스며드는 의료기기 - 메디칼타임즈",
-      "published": "2026-05-26T20:30:00+00:00",
-      "summary": "\"약물 없이 PTSD 잡는다\"…정신 질환 스며드는 의료기기&nbsp;&nbsp;메디칼타임즈",
-      "sources": [
-        {
-          "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yR0VFbnI3bFM3Y0RzUU5YdWdqbmd6VmxhS0tFNlJYWDlIaWV4bHFQS3h1T3VnS09ack41OVhQZlZLWDVBQUhQNUlQWXZ6RkhjZ0xuRGF3RjVKck9ienhCcHp4eDQzbjd2c0IzZ2FxVnQ?oc=5"
         }
       ]
     },
@@ -542,18 +602,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CclhLbGloUHIzaFI1WG5HQlhzMGVDcWN1VUNpYmw0WUMyUGtEcDJsVjEtTlBJNEk5YklGRlNDOFZKTV80WU1yX1pKYVAwNEFBSENORjZJOFhqTE9falB4d1c3UGhQa1BoS09FSGVFcnp1UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e6b964166f8",
-      "title": "GIST-건국대-화학연, 저비용·고효율 차세대 수소 생산 전극 개발 - 지디넷코리아",
-      "published": "2026-05-25T22:53:47+00:00",
-      "summary": "GIST-건국대-화학연, 저비용·고효율 차세대 수소 생산 전극 개발&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xNmNHdnk1dDZ6WFlDd3dfaW5TNElieFNqU0dYWFdqRnZOMUt5ZnN4ejFFNjFrT3ZQZVdfOUNKa1FFbGhNN2wzMk8zY25HY1FTdjBxT2hB?oc=5"
         }
       ]
     }
