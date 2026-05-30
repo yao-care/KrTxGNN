@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-05-30T08:31:14.938682+00:00",
+  "fetched_at": "2026-05-30T13:45:53.349344+00:00",
   "total_fetched": 81,
-  "unique_count": 81,
-  "health_related_count": 44,
+  "unique_count": 80,
+  "health_related_count": 46,
   "news": [
+    {
+      "id": "f518ad8481c7",
+      "title": "머리카락 '빠지자' 시장 '커졌다'...제약사, 탈모 치료제 개발 착수 - 월요신문",
+      "published": "2026-05-30T12:33:07+00:00",
+      "summary": "머리카락 '빠지자' 시장 '커졌다'...제약사, 탈모 치료제 개발 착수&nbsp;&nbsp;월요신문",
+      "sources": [
+        {
+          "name": "월요신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xMHVLb3hxbnQwejZSUERQYll4UnpqdmVKTUdBbjk4eGtFSGFsa0lNNW4yd0pyVUU2RUhGQmVMSU11dThiVTIxSk1mSXpudWxWbVN3NmpfOUtKZDBxTTZlZGhRdDRIVGNLRFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "64d39648c852",
+      "title": "\"코 스프레이 2번 뿌렸더니 기억력 쑥\"…치매 치료 가능성 [노화설계] - 네이트",
+      "published": "2026-05-30T11:01:00+00:00",
+      "summary": "\"코 스프레이 2번 뿌렸더니 기억력 쑥\"…치매 치료 가능성 [노화설계]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRDZIZlVfM3pTX1lpWGN6ZTJQT1k3dm9MRFU0ZWpRT0ktM2tKbU5ITWl2Y2VQN2loenpOMjlMLXdRelVydFBHNHFqNmM5WkVxZzBz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e1911db91b2",
+      "title": "치실 사용과 뇌졸중 위험, 잇몸 염증 관리가 주목받는 이유 - 미디어원",
+      "published": "2026-05-30T09:25:15+00:00",
+      "summary": "치실 사용과 뇌졸중 위험, 잇몸 염증 관리가 주목받는 이유&nbsp;&nbsp;미디어원",
+      "sources": [
+        {
+          "name": "미디어원",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBldk8yQWNRTVphQlRvSHpLdGFWb29xNDV1b19fQ2dIcXpFYldTWXdzS2dWYVdGTFNVWnhhNjI4NWZuREhJbHdGUEZtamg?oc=5"
+        }
+      ]
+    },
     {
       "id": "c19eda4094db",
       "title": "“주말 몰아서 운동” 심장은 괜찮을지 몰라도… ‘이곳’은 비명 중 - 헬스조선",
@@ -14,6 +50,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWcGE1c3hmWVRvRUhJMzdLWmhXUmFvdFh3OHk5dXBrUDRFVl9BZm56N2VSN1lyQmVkQ2JyRDctTnRTVVo1c2RxUDVkU203bW1kcVU3VGI5bjZnYkdsSXhwYjhGemZUVVh1a3hUa3YwYUtGdWRzSFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45ac1859b88f",
+      "title": "[100세 과학] 돼지 간과 신장, 인간에 첫 동시 이식 - 조선비즈 - Chosunbiz",
+      "published": "2026-05-30T01:24:00+00:00",
+      "summary": "[100세 과학] 돼지 간과 신장, 인간에 첫 동시 이식 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjdNcXRlNmJNV1NnMzFiVTJDNFlmc3A4TXBrR0lKelRzbVBkejltbkd0VkFyZFYxQW5jcXF5LVhrZVNIamVmaXZjcGVZV1ZNbGFnMGVQOElvT01xT0dkUUFGY3pSWnZ3a0Vwa3JCSmdKV2Y0ZG1JWEVaekRMTmxKVkdRU3ZDcXdmbG1vQmlPemZZc2NhTXBn0gGrAUFVX3lxTE1Gakk0UFgwcHZIbzFwcHdNRjZOak95QWs3UVVhRFMyeS1ERE9IUWVoMkVLRW1waEd1WmlBR1lUei1ia01pTkpsNmFhVWtwd1FYVkRicUhoYzFZUjQ5ZjZ3NWppdE5tRWlZZURYQjQxNUJOcnVBM1d1dlhCNkRoT215dU5US2pvb24xYmxHUnE2Vk9qUDIwOUlvTnIycm9zMjZoa2hydTNTdUQ4Yw?oc=5"
         }
       ]
     },
@@ -126,6 +174,18 @@
       ]
     },
     {
+      "id": "a6903c8a2893",
+      "title": "어바인 리저널 파크서 광견병 감염 박쥐 발견 - 라디오코리아 모바일",
+      "published": "2026-05-29T12:57:00+00:00",
+      "summary": "어바인 리저널 파크서 광견병 감염 박쥐 발견&nbsp;&nbsp;라디오코리아 모바일",
+      "sources": [
+        {
+          "name": "라디오코리아 모바일",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55RnlhNnZKZHFJYVBXbUJXS3czV3BtMUxiSXBDdDUtcGM2dzhzSkdYRUhfUURPaHVJc1RoczlFWGJhTS11NnN3ZGpmRGlnMm5UQUpiLVNid3Y3TDBsc25VRDJJd0s?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4f04c3dcee7b",
       "title": "중장년, 아몬드 3~4알만 매일 먹어도...치매 위험 20% ‘뚝’ - 디멘시아뉴스",
       "published": "2026-05-29T11:39:33+00:00",
@@ -162,26 +222,26 @@
       ]
     },
     {
-      "id": "882dc8093e2b",
+      "id": "40c9699a54f4",
+      "title": "케이메디허브, 암·노화 잡을 ‘유전자 스위치’ 켠다 - 대경일보",
+      "published": "2026-05-29T08:24:31+00:00",
+      "summary": "케이메디허브, 암·노화 잡을 ‘유전자 스위치’ 켠다&nbsp;&nbsp;대경일보케이메디허브, ‘차세대 후성 유전체 조절·편집 기술 심포지엄’ 개최&nbsp;&nbsp;라포르시안",
+      "sources": [
+        {
+          "name": "대경일보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSVzN4cFhCa2FnUlRZMC1lbTdtUGVtXzAxekx6Mm9ZeFlmRFYwWHFUNjdjQ0lnN0F0VGFjQ3J4NU9qVkZEUnJIVG0tVi1aeWNhS1N2bW5FNklhYU54My1iV0ZPcml3X1It?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f75a096f4c30",
       "title": "면역증강 인플루엔자 백신과 고용량 백신, 유사한 효과 확인 - 메드월드뉴스",
       "published": "2026-05-29T08:19:54+00:00",
       "summary": "면역증강 인플루엔자 백신과 고용량 백신, 유사한 효과 확인&nbsp;&nbsp;메드월드뉴스[전문의 칼럼]고령층 독감 예방, 접종률보다 고용량 백신 투자에 달렸다&nbsp;&nbsp;v.daum.net면역증강 인플루엔자 백신과 고용량 인플루엔자 백신 유사 효과 확인&nbsp;&nbsp;후생신보",
       "sources": [
         {
           "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rUld1aE5yUHZ5cDJLUTFrOFJJMVJvd1hZNUpINkFzaHRrQXlzZUg1d1FIUWFBaDYyemczMEZYVDc5YlMyalk2SHZobHNXLXRoZnpENnFJTGI2c2NKdzhJVE15UzRIajA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2df100789659",
-      "title": "주말이면 두통, 출근하면 호전? 의사 당부→--건강 - 인민넷",
-      "published": "2026-05-29T08:18:00+00:00",
-      "summary": "주말이면 두통, 출근하면 호전? 의사 당부→--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mVnFFRzhUd2hHa2liVXMwLUMyUzdVWVNOcE9aY2E4V1YtTW9EUko1Q0ZYN1htdXJycV9aQnRCYVB2QTc3LVdzUFVsellUc016QXNoWEZzanctWVlXQmVhdWV5ZUZQcmJ6MWU3RTBB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPY1JfdlpBNXhsMmxMaVhKbGVlaTNmU01oVVloM1NHY2tIM0pFeXdCUWpqTHhhSHpRNndwSnlTeFRkNXh0QmJHVWtBazA4UWZrZmtmbDc5bmNOYWdmOGdXWkk1dUxyUkh2ZVFWMDh3?oc=5"
         }
       ]
     },
@@ -206,18 +266,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1IVFk1STJpbkd0UkNpRmRhXzRmYzRPYUE5UHA3cnQtcG92TU5lVzBwZ1h1anRYb2lObjVIM1lxaTdVdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38d0e7138fb8",
-      "title": "케이메디허브, ‘차세대 후성 유전체 조절·편집 기술 심포지엄’ 개최 - 라포르시안",
-      "published": "2026-05-29T06:58:44+00:00",
-      "summary": "케이메디허브, ‘차세대 후성 유전체 조절·편집 기술 심포지엄’ 개최&nbsp;&nbsp;라포르시안케이메디허브, 암·노화 잡을 ‘유전자 스위치’ 켠다&nbsp;&nbsp;대경일보",
-      "sources": [
-        {
-          "name": "라포르시안",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUYXVDb2ZMLURxOGtQemNaQ0c3NkI1b3ZnN1VPRmVxaHBOclU3V0lLYTJUbXZqSFFCOUpCV21wQ2lDQ2lKNHJGYjBvSXU1TzVJbjV3T19RZzlYWTNzODJ1eV9hV2IyZ3E4NUxZQnZ3?oc=5"
         }
       ]
     },
@@ -254,6 +302,18 @@
         {
           "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByZl9VaUZxZS1fakt5SktZSXhvNElhVVVzVmRIdUEybWdHOEh2S1hTQnVSUTdKalUxT3ZVa3BOUmhpdXhEdGlRSll1LTlXNVVhSXFQTzJUWkVoc2pOZU9lNURCV2hJcDBULW0za0Vn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "563178cd00ab",
+      "title": "‘젊은 당뇨병’, 제대로 관리하면 완치도 기대 - 미주한국일보",
+      "published": "2026-05-29T05:29:42+00:00",
+      "summary": "‘젊은 당뇨병’, 제대로 관리하면 완치도 기대&nbsp;&nbsp;미주한국일보[하루건강] '젊은 당뇨병', 제대로 관리하면 완치도 가능?&nbsp;&nbsp;네이트증상 없는데 혈당은 오른다…당뇨 관리의 핵심은&nbsp;&nbsp;매경헬스“가장 잘못 알려진 당뇨병 상식은?”… 조영민 교수의 당뇨병 팩트체크&nbsp;&nbsp;하이닥‘당 떨어진다’는 달콤한 핑계&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MSGJET3h5TV9DY1g0SkYya1Jjc2M4SlNodWs1YkFmSlpUUDdUanFUN0pZX1ZPbEliYTZxeW5zTTVkSTg3OWhIRmxIQWFOVFAxUnNlV0NVengxbktOVVBB?oc=5"
         }
       ]
     },
@@ -354,18 +414,6 @@
       ]
     },
     {
-      "id": "f2ca6443beb5",
-      "title": "증상 없는데 혈당은 오른다…당뇨 관리의 핵심은 - 매경헬스",
-      "published": "2026-05-29T00:15:25+00:00",
-      "summary": "증상 없는데 혈당은 오른다…당뇨 관리의 핵심은&nbsp;&nbsp;매경헬스[하루건강] '젊은 당뇨병', 제대로 관리하면 완치도 가능?&nbsp;&nbsp;네이트“가장 잘못 알려진 당뇨병 상식은?”… 조영민 교수의 당뇨병 팩트체크&nbsp;&nbsp;하이닥‘당 떨어진다’는 달콤한 핑계&nbsp;&nbsp;v.daum.net“당화혈색소 목표 도달은 3명 중 1명”…혈당 관리 해법 찾는 당뇨 환자들 [당 편한 세상]&nbsp;&nbsp;쿠키메디",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hUUQyUUpzWWoxcVNQUWJ5Sm1hZ0RrTVhUaHBTeDk0bnJFX1dQeUpqTVdCTExMdXJvWXBnVk5qMG1KOUIyT0YzT3JoY3EwaHkwUm14Uk01M1hueHYtV1drdjkwbllxOEJkQ3hLVw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d43c1f02c91b",
       "title": "류마티즘 치료제로 난치성 우울증 잡는다… IL-6 차단 항체, 뇌 아닌 면역계 표적해 관해율 54% 달성 - 바이오타임즈",
       "published": "2026-05-29T00:10:02+00:00",
@@ -410,18 +458,6 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11SVVMcnVfczBacmZpR2s5cXM4ZW9ISVlQdVBaNkpwUE45TjZVNGdVUW9QelhPNUZyeTZJY2NjbU5zd2pTeUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ee998c37ec3",
-      "title": "어바인 리저널 파크서 광견병 감염 박쥐 발견 - 라디오코리아 모바일",
-      "published": "2026-05-28T20:57:00+00:00",
-      "summary": "어바인 리저널 파크서 광견병 감염 박쥐 발견&nbsp;&nbsp;라디오코리아 모바일",
-      "sources": [
-        {
-          "name": "라디오코리아 모바일",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44OHA0Ujl3dGg0NmMxX2Q5YTBBLWIwOEhXdUV6a3BCbFRLUFo5SVp5bDVQMVBYWUJ2TGl2NkhDSnlLOEdxRjFBVFplZ3pwU2lUd2RYRGk4enkzNmFyYm93?oc=5"
         }
       ]
     },
@@ -482,18 +518,6 @@
         {
           "name": "헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ncnlFa3ZZaW80Mll1aldQaXBVN1Q0WVhfVmFHS3hrNk56dHJrZVV1dDkyWTZPcDVNRkZHaEpJVElZeXpSMHdMUUtxdGtJMUhCaHdEWWN4OA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f0ca22e1b71",
-      "title": "급성 뇌병증 앓는 치매 환자, 암까지 걸리면...“폐질환 동반 위험 7배↑” - 디멘시아뉴스",
-      "published": "2026-05-28T10:39:20+00:00",
-      "summary": "급성 뇌병증 앓는 치매 환자, 암까지 걸리면...“폐질환 동반 위험 7배↑”&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTcGRNY2Zvd1Z0QnYtdktsZUpqeHVuckVBWmdSQUo1b3JnN3FrVm1mUlFodnFpb3JkUjB0SjFDdy1XYklzSzBpOUdJQzMtTzBVV1ZOcGdLOEhyVWFnR0pMakNYbEtXWXRERWdiNm10dTdVZw?oc=5"
         }
       ]
     },
