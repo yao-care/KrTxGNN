@@ -1,34 +1,8 @@
 {
-  "last_updated": "2026-05-30T13:45:53.483405+00:00",
-  "total_count": 46,
+  "last_updated": "2026-05-30T19:21:26.008717+00:00",
+  "total_count": 43,
   "matched_count": 0,
   "news": [
-    {
-      "id": "f518ad8481c7",
-      "title": "머리카락 '빠지자' 시장 '커졌다'...제약사, 탈모 치료제 개발 착수",
-      "published": "2026-05-30T12:33:07+00:00",
-      "summary": "머리카락 '빠지자' 시장 '커졌다'...제약사, 탈모 치료제 개발 착수&nbsp;&nbsp;월요신문",
-      "sources": [
-        {
-          "name": "월요신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xMHVLb3hxbnQwejZSUERQYll4UnpqdmVKTUdBbjk4eGtFSGFsa0lNNW4yd0pyVUU2RUhGQmVMSU11dThiVTIxSk1mSXpudWxWbVN3NmpfOUtKZDBxTTZlZGhRdDRIVGNLRFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "64d39648c852",
-      "title": "\"코 스프레이 2번 뿌렸더니 기억력 쑥\"…치매 치료 가능성 [노화설계]",
-      "published": "2026-05-30T11:01:00+00:00",
-      "summary": "\"코 스프레이 2번 뿌렸더니 기억력 쑥\"…치매 치료 가능성 [노화설계]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRDZIZlVfM3pTX1lpWGN6ZTJQT1k3dm9MRFU0ZWpRT0ktM2tKbU5ITWl2Y2VQN2loenpOMjlMLXdRelVydFBHNHFqNmM5WkVxZzBz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "0e1911db91b2",
       "title": "치실 사용과 뇌졸중 위험, 잇몸 염증 관리가 주목받는 이유",
@@ -137,7 +111,7 @@
       "id": "bcffe254065f",
       "title": "\"에볼라도, 한타도 우리가 알던 바이러스와 달랐다\"…변종에 긴장하는 과학계",
       "published": "2026-05-29T22:00:00+00:00",
-      "summary": "\"에볼라도, 한타도 우리가 알던 바이러스와 달랐다\"…변종에 긴장하는 과학계&nbsp;&nbsp;Chosunbiz“에볼라도, 한타도 우리가 알던 바이러스와 달랐다”…변종에 긴장하는 과학계&nbsp;&nbsp;v.daum.net[이슈픽] “곧 월드컵인데 어쩌나”…‘한타바이러스’ 주의보&nbsp;&nbsp;KBS 뉴스감염병에 취약한 크루즈선…\"고령이라면 여행 계획 신중하게\"&nbsp;&nbsp;네이트한타바이러스 크루즈서 스페인인 추가 확진…잠복기 정점 ‘고비’&nbsp;&nbsp;마켓인",
+      "summary": "\"에볼라도, 한타도 우리가 알던 바이러스와 달랐다\"…변종에 긴장하는 과학계&nbsp;&nbsp;Chosunbiz감염병에 취약한 크루즈선…\"고령이라면 여행 계획 신중하게\"&nbsp;&nbsp;네이트한타바이러스 크루즈서 스페인인 추가 확진…잠복기 정점 ‘고비’&nbsp;&nbsp;마켓인[기고]동두천 연구실서 거둔 세계적 성과 ‘한타바이러스’ 그리고 이호왕 박사&nbsp;&nbsp;경기신문호주, MV 혼디우스호 승객에 대한 격리 기간 연장.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Chosunbiz",
@@ -155,6 +129,19 @@
         {
           "name": "데일리메디",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4ycmhoaWQxcVBPZzlDOWZERFAtMnd1Q3h6X0EwYzBaOU12MjFsMXRvVl9ZOHpNTVlhaG5RSm1uSnlCcVEtTEhkUHlxX3V4cjc4S3RTczFFSjUxQXVyOWx2Ry1qN1ZSRjhj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f518ad8481c7",
+      "title": "머리카락 '빠지자' 시장 '커졌다'...제약사, 탈모 치료제 개발 착수",
+      "published": "2026-05-29T15:00:00+00:00",
+      "summary": "머리카락 '빠지자' 시장 '커졌다'...제약사, 탈모 치료제 개발 착수&nbsp;&nbsp;월요신문",
+      "sources": [
+        {
+          "name": "월요신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xMHVLb3hxbnQwejZSUERQYll4UnpqdmVKTUdBbjk4eGtFSGFsa0lNNW4yd0pyVUU2RUhGQmVMSU11dThiVTIxSk1mSXpudWxWbVN3NmpfOUtKZDBxTTZlZGhRdDRIVGNLRFE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -207,6 +194,19 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMS3pOY0VTT0ZRR3ZVRnlIaU1PS1J5VEtiN2lPRXhqZnRFbzhJRjdyYmVMZ2dJZ2lEX1lGRDNfZDdpMmtZZWt2TnRJcDdCdnJGZ3k1dlFWejMwX0VDMFFfSGUtZ21QX0NNVVZaRXFFdlpPdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3fded1b970d7",
+      "title": "혈당·혈압·콜레스테롤, 매일 ‘이것’ 조금 덜 먹으면 개선된다",
+      "published": "2026-05-29T11:33:00+00:00",
+      "summary": "혈당·혈압·콜레스테롤, 매일 ‘이것’ 조금 덜 먹으면 개선된다&nbsp;&nbsp;헬스조선“딱 한 달 식단 바꿨더니, 신체 나이 어려졌다”…노화 늦춘 음식의 정체 [헬시타임]&nbsp;&nbsp;서울경제식단 바꾸자 4주 만에 3.5년 젊어졌다… 혈압∙혈당∙염증 낮춘 ‘이 식단’은?&nbsp;&nbsp;하이닥아주 작은 변화로 더 오래 사세요.&nbsp;&nbsp;Vietnam.vn혈당·혈압·콜레스테롤, 매일 ‘조금 덜 먹기’가 바꾼다… 하루 200kcal 줄였더니 건강 지표 개선&nbsp;&nbsp;미디어원",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GZndvZEpRc3ZPZEE4VnBWQnNOSXFFV2pfSWhvTFNDWk9YVHZYbC1mQ1packQ0ZUR5eWlYVnRrUUo3ZGFkMzliVDA3WHg3TTJZUVg4NkI4Yml3Q3dfdE5EQ2RVa081YkJ5VzVZMXFMeVliUC1tMEE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -306,7 +306,7 @@
       "id": "0d850f618c98",
       "title": "무안군, ‘HPV9가 백신’ 지원 확대...18~26세 포함",
       "published": "2026-05-29T06:10:10+00:00",
-      "summary": "무안군, ‘HPV9가 백신’ 지원 확대...18~26세 포함&nbsp;&nbsp;전남타임스무안군, 18~26세 청년 HPV 백신 지원 강화…예방 범위 넓혔다&nbsp;&nbsp;스포츠동아[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트편견을 깨세요…\"남성도 자궁경부암 접종 필요\"&nbsp;&nbsp;뉴시스HPV 백신 접종으로 베트남 여성의 암 부담을 줄이세요.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "무안군, ‘HPV9가 백신’ 지원 확대...18~26세 포함&nbsp;&nbsp;전남타임스무안군, 18~26세 청년 HPV 백신 지원 강화…예방 범위 넓혔다&nbsp;&nbsp;스포츠동아[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트편견을 깨세요…\"남성도 자궁경부암 접종 필요\"&nbsp;&nbsp;뉴시스부산 서구보건소, HPV 국가예방접종 12세 남아 확대 시행 적극 홍보 > 뉴스&nbsp;&nbsp;더코리아",
       "sources": [
         {
           "name": "전남타임스",
@@ -381,6 +381,19 @@
       "matched_keywords": []
     },
     {
+      "id": "d0619c8fa235",
+      "title": "마음의 병 ‘우울증’ ... ‘염증’ 잡는 JAK 억제제로 치료한다?",
+      "published": "2026-05-29T03:01:00+00:00",
+      "summary": "마음의 병 ‘우울증’ ... ‘염증’ 잡는 JAK 억제제로 치료한다?&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qc1RUTHRqN1RJQ1JQUW5BZ2w5NC1KY25DeWRmMWlkYTNtTXJnc1NkS3YzV3VGeVdKdmhRTHVqSjlCYkU0TmczRzc3OXFCTWEtcFpoOFBMWEJLVFpjU2wyemFKd2VsVk0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c667b0f85bbd",
       "title": "“젊어지려다 뇌 손상?”…유행 중인 항노화 약물 조합, 뇌 망가뜨릴 수도",
       "published": "2026-05-29T02:10:00+00:00",
@@ -389,19 +402,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBraFdSbnRpSm1aQUNGdi1hcjNsSVVfTmJBNmlhRHlndlo2YmI0WFlRb1gxWXNJMFFtRngtaVc5QkdBdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "312ddc828776",
-      "title": "“RSV, 독감만큼 흔하지만 더 치명적…고령층 대상 백신 사실상 유일한 해결책”",
-      "published": "2026-05-29T01:30:00+00:00",
-      "summary": "“RSV, 독감만큼 흔하지만 더 치명적…고령층 대상 백신 사실상 유일한 해결책”&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yUWJaUW5fbVRoVE5hNUxKS19ZeTVLdFhFMWE5MkR4Vk5aMVJiRXJMaHhKdW1ReWt2Y2ptZVY3QWE5NnlEdjR0M0dmbjYzUHQ5RWc3RzdwcGdwMkJvcWpkNGJjSmxTQ0NZaVE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -441,19 +441,6 @@
         {
           "name": "스포츠월드",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ma2xYbklfUV80YkJJNGhIZEpISFZmSWZDWVJRTThyN2R4QmdxM1pDNVAyZEFUQkhEYjRTWmowUF8yN19tM2c1cVVDZ3VJdEgzVEtQeDRSdFp6OWZmbjlXZk9n?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d43c1f02c91b",
-      "title": "류마티즘 치료제로 난치성 우울증 잡는다… IL-6 차단 항체, 뇌 아닌 면역계 표적해 관해율 54% 달성",
-      "published": "2026-05-29T00:10:02+00:00",
-      "summary": "류마티즘 치료제로 난치성 우울증 잡는다… IL-6 차단 항체, 뇌 아닌 면역계 표적해 관해율 54% 달성&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIUllHOHg4UThhaWdPZHVfS05DTHZ4VF83aTZmNmJpSWlmWkRURWVwc3NodTJmSldwUTVVSEZ4UndzdjYwTzl0ZHpHaXpjbE9DMWVYcUxHWVVuOHY0QTJxOUp0dVFEeFdjUC1weg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -537,19 +524,6 @@
       "matched_keywords": []
     },
     {
-      "id": "5b6203cb5351",
-      "title": "조류독감·신종플루에서 인류를 구한 ‘독감 바이러스 사냥꾼’",
-      "published": "2026-05-28T18:00:00+00:00",
-      "summary": "조류독감·신종플루에서 인류를 구한 ‘독감 바이러스 사냥꾼’&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT1Z3d0p3Y0M4ZDZZNnJlVnBmY3BfLUNOWjJ4bjk0WnA3dU0ybTdtN092OEVnVVBWZ0V1VHN6ZWRyY2c2NDNZSVpBQ2s2YUdJc0oxV2dYbjZHY3VpQmJHY3k4TnluLWRpWkFBbWdBN19VSjZZS0c3MFQ5RFJ0NE1NdE5Gbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "2a6482ac4d74",
       "title": "몸에서 떼어낸 조직이 3년간 살았다… 맛 좋은 해삼, 영원히 죽지 않을까[후암동 논문 연구소]",
       "published": "2026-05-28T12:10:00+00:00",
@@ -584,19 +558,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mNWR6SFlGUk54YkZZaHVwODA4X3RFaHJqeEhpN1ltUGw1eXJuVEJGc19MUW9sMFVZNzZPMGRLVDdqOGM5OUZOVmlYaUIzdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0615f9ba219c",
-      "title": "\"젊은 연구자들이 더 파괴적인 혁신\"",
-      "published": "2026-05-27T15:36:00+00:00",
-      "summary": "\"젊은 연구자들이 더 파괴적인 혁신\"&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFZ5Z1hiUl9GQ0xoRmVhZTJpMmlMdUNmNFNCTWpzUDRabDVEbGJpSEVfWjE2eVlwZ2JFS1AzSVIxWUY5QkVZb3R1eW95OWkyVml1LWpFX25jTXBwY0E3b194WmN0cUZncWE5Y3hUWE9yaC1FSTdhdm9QS2U2MnkyZDZVRQ?oc=5"
         }
       ],
       "matched_keywords": []
