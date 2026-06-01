@@ -1,31 +1,79 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-01T04:23:42.160738+00:00",
+  "fetched_at": "2026-06-01T11:41:19.205773+00:00",
   "total_fetched": 43,
   "unique_count": 43,
-  "health_related_count": 19,
+  "health_related_count": 22,
   "news": [
     {
-      "id": "9929f2d7a5dd",
-      "title": "구글이 모기 3200만 마리를 숲속에 푸는 이유 - 농민신문",
-      "published": "2026-06-01T02:30:00+00:00",
-      "summary": "구글이 모기 3200만 마리를 숲속에 푸는 이유&nbsp;&nbsp;농민신문구글 \"미국에 모기 3200만마리 풀겠다\"…EPA 승인 검토 중&nbsp;&nbsp;네이트구글, 플로리다에 AI 선별 모기 3200만마리 방사 추진…질병 억제 시험&nbsp;&nbsp;디지털투데이\"뎅기열 퇴치\"...구글, CA에 모기 대량 방사 추진&nbsp;&nbsp;라디오코리아 모바일가주에 수컷 모기 3200만 마리 푼다&nbsp;&nbsp;미주중앙일보",
+      "id": "238ef474a474",
+      "title": "심장 건강 지키려면… ‘저녁 7시’ 이후로 하지 말 것들 - 헬스조선",
+      "published": "2026-06-01T10:42:00+00:00",
+      "summary": "심장 건강 지키려면… ‘저녁 7시’ 이후로 하지 말 것들&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NUXptQWl6WldYYTJkaHRiOWFOcFZxazNrNjYzUmFCbHk1aW1ZT3ZTY3VrMHFVbW43aHJyRjhaSFNQZmlhMVg3ZXptdXA5SzhXeFY0LUwxZnBJQQ?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IWGIyazhDMXdHOW1Xa2ZsYlNITDJvM0V3Yno2ZjhBNUd3Zm1JQjdwTV9iN2pKWjE4VkhMaFI1SUdEZlRySUsxME00YzdQTDlkRUIzelhhRklwaFg2NFk2UUw4RmJ4YkptQ3dTT0w0U19HV2t4TUE?oc=5"
         }
       ]
     },
     {
-      "id": "11e7689d78d0",
-      "title": "\"커피·채소·유제품, 심혈관질환 위험떨어뜨려…당류는 위험 증가\" - 네이트",
-      "published": "2026-06-01T02:21:00+00:00",
-      "summary": "\"커피·채소·유제품, 심혈관질환 위험떨어뜨려…당류는 위험 증가\"&nbsp;&nbsp;네이트",
+      "id": "ec0da44349b6",
+      "title": "팔다리 가늘어졌는데 배는 그대로?...65세 미만 男, 치매 위험 3배↑ - 디멘시아뉴스",
+      "published": "2026-06-01T10:28:58+00:00",
+      "summary": "팔다리 가늘어졌는데 배는 그대로?...65세 미만 男, 치매 위험 3배↑&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93ZnBmSzd5WXlja2JvSzlOTll6TWhJYUtleFltNy1qMkpwclNpUS13WE9IVkZBTUltdWVZSS1tWmh2VjBJZ0gwUmhBM0kyZ3phVXF3?oc=5"
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wWUN2VkNoZndaNEVhQlUtSHVoaVVsWjRfd2lMZzVJb2pQOWs5WTNJUjZiN2M2OEJFZDJpY0d1OERLRjUtZHZHV2N3VTFxZUxKSW1tVF92WEVzblhxSnRzcDNaMlZSRVd4THFnZnRJMkNLUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d98f4c6f492",
+      "title": "소아암 생존자, 항암 부작용 막으려면 운동해야 - 헬스조선",
+      "published": "2026-06-01T06:20:00+00:00",
+      "summary": "소아암 생존자, 항암 부작용 막으려면 운동해야&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sMnVXLWNucVNYZzlESnZBNFNld1QzLThTUXlUdDVsRzRGbHJrNms3anJGQk9DS0NONzFMUDFLWi1KN25EQnF1Q2hfUjRTbHNWaWM1ZW9HbUFSVC1iMHBkUHNWU1ktLTRxVVNlQm9WOHkwc0hGWkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad18eea5ff0f",
+      "title": "DGIST, 스트레스서 뇌세포 살리는 ‘죽음의 유전자’ 역할 규명 - MIT 테크놀로지 리뷰",
+      "published": "2026-06-01T05:49:26+00:00",
+      "summary": "DGIST, 스트레스서 뇌세포 살리는 ‘죽음의 유전자’ 역할 규명&nbsp;&nbsp;MIT 테크놀로지 리뷰Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "MIT 테크놀로지 리뷰",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQeWpRZXdmVmQtQUtidGlTVmJIdEJyX3ZqMUZMS3hxWUQ4Y3RxejFXMW9XMmxJdDNndXpMamxBYjIwYlBxbGFpbTRyc2xrMk1hLUhQZW42WmlaQ09MY1ZIZG1wZTNGVkItWHNqVk05UDNjM01zYmtsMDBsTHhhQlBaeG9aQmxVRTl0VW95RHQ2bThKOXJYdFg5Q3YzUHhlX2dKN1ZjWHBPZW9YeU5SVGEyeUtadkp4SFBxOGhSX1FlaEl1c3g4UHFqUDkzdVZZTEt0M3dncVBoU1RTcDdHZ3A3d2FNZjZyMzd1bVIxLWN2VVdwUzFESG9fcVRMQTc3d2xrMFM3c0tUc0NEUGtBQlVrUVlFZFI1VTJQak14S0Zjd2xQX2h1dmRLb0xUaC1qRmlCbkFWWFZsc212QzE4M0h2V3RIb3NjM0YzUngyc3d6cUdDXzFK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e349391b95dd",
+      "title": "아토플렉스, Andes virus·OZ virus 검출용 분자진단키트 개발 - 메디컬투데이",
+      "published": "2026-06-01T04:44:24+00:00",
+      "summary": "아토플렉스, Andes virus·OZ virus 검출용 분자진단키트 개발&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFeW4tVm11c1RMdHJMdUVDX3lpaDlnSm9wYUhYY0p3a3ZFbkFoYVZ6X2V3d290Y1p3cmtfcWh3dEVTU1JIYlFKZEJ4bTFOVzNXSjFaQVE5SFNTWDJKLXRZVkZ30gFsQVVfeXFMT0lCeUYtaXhiZlpmX2pvZWJBTV9ORGVJekdMMllCczFsbVJMWGVLM3dKRGk1dkdiZkNUeW9oR05jLWp3RXVsdXhaRzFUazlYUWNhZHhuZW9jNTBaQTVfTnlHV1pwRU9YWkV3Ny1T?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9929f2d7a5dd",
+      "title": "구글이 모기 3200만 마리를 숲속에 푸는 이유 - 농민신문",
+      "published": "2026-06-01T02:30:00+00:00",
+      "summary": "구글이 모기 3200만 마리를 숲속에 푸는 이유&nbsp;&nbsp;농민신문구글이 미 캘리포니아와 플로리다에 모기 3200만마리 방사하는 이유는?&nbsp;&nbsp;조선일보모기를 없애려고 모기를 푼다?…구글의 ‘사회 대실험’ 우리나라도ㅠㅠ [씬속뉴스]&nbsp;&nbsp;v.daum.net구글 \"미국에 모기 3200만마리 풀겠다\"…EPA 승인 검토 중&nbsp;&nbsp;네이트가주에 수컷 모기 3200만 마리 푼다&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NUXptQWl6WldYYTJkaHRiOWFOcFZxazNrNjYzUmFCbHk1aW1ZT3ZTY3VrMHFVbW43aHJyRjhaSFNQZmlhMVg3ZXptdXA5SzhXeFY0LUwxZnBJQQ?oc=5"
         }
       ]
     },
@@ -42,34 +90,22 @@
       ]
     },
     {
-      "id": "01e83a746743",
-      "title": "봉화군, 12세 남성 청소년 대상 HPV 무료 예방접종 확대 실시 - 데일리대구경북뉴스",
-      "published": "2026-06-01T00:38:51+00:00",
-      "summary": "봉화군, 12세 남성 청소년 대상 HPV 무료 예방접종 확대 실시&nbsp;&nbsp;데일리대구경북뉴스무안군, 인유두종바이러스 예방접종 지원 강화&nbsp;&nbsp;진일보편견을 깨세요…\"남성도 자궁경부암 접종 필요\"&nbsp;&nbsp;뉴시스7월 1일부터 HPV 백신이 의무 예방접종 프로그램에 포함됩니다. 어떤 그룹이 이 사실을 알아야 할까요?&nbsp;&nbsp;Vietnam.vn자궁경부암 막는 HPV 백신…“남성 접종이 집단면역 완성” [헬시타임]&nbsp;&nbsp;서울경제",
+      "id": "11c7214faaa0",
+      "title": "“12세 아들, 올해부터 HPV 무료접종”…봉화군, 남자 청소년까지 국가지원 확대 - 경상투데이",
+      "published": "2026-06-01T00:00:26+00:00",
+      "summary": "“12세 아들, 올해부터 HPV 무료접종”…봉화군, 남자 청소년까지 국가지원 확대&nbsp;&nbsp;경상투데이봉화군, 12세 남성 청소년 대상 HPV 무료 예방접종 확대 실시&nbsp;&nbsp;gukjenews.com[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트무안군, 인유두종바이러스 예방접종 지원 강화&nbsp;&nbsp;진일보남자도 HPV 국가접종… 사회적 감염관리 확장 [건강+]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "데일리대구경북뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGeGtjU2g5QTlDd09TM1lMX2FISE4zUEhRQUlHWGVnRjBWUDVxTFhhb2hReENhODJRWkExM3Z2djZZVHZzRVZ3SFR0aE82TWpfQWoyR2NJbTBTVTdOMkFxNkdwZkZndw?oc=5"
+          "name": "경상투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqcWFXV3k5ckd1dzZwNWVmRm5WQi13MmtnYy1PTkJSWWs2T2tKcFhuMzAtdDB5b3Z3V1YwbGlnXzJ2VXlvRGhub2hBUFhraEpnTVQ2eVBRSzQ4OWc1a2JaNWNmMmFTbXc?oc=5"
         }
       ]
     },
     {
-      "id": "f028960725c2",
-      "title": "'부정맥 치료 석학' 정보영 교수 \"펄스장 절제술 급여 후 패러다임 전환…심전도 AI는 게임체인처\" - MEDI:GATE NEWS",
-      "published": "2026-06-01T00:00:00+00:00",
-      "summary": "'부정맥 치료 석학' 정보영 교수 \"펄스장 절제술 급여 후 패러다임 전환…심전도 AI는 게임체인처\"&nbsp;&nbsp;MEDI:GATE NEWS복지부 장관상 수상 최종일 교수 \"AI 심전도, 의료현장 혁신 가능성 크다\"&nbsp;&nbsp;MEDI:GATE NEWS",
-      "sources": [
-        {
-          "name": "MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JMFI5b2U1aEh0RkZ6akI4U0JaU1JDZ0VqLUZ5WXRKRUx1dVg2SUFKSlllQmdGNGo2QjN1MVZJZWxFcHNYSnV6T3F0MzY0MzVEWmYyWGdQQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae642428fa23",
-      "title": "점점 늘어나는 고령층 위장약 처방 … PPI 복용량 5년 새 53% 증가 - 헬스코리아뉴스",
+      "id": "f2a5edccfcb7",
+      "title": "점점 늘어나는 고령층 위장약 처방 … 전체 PPI 사용량 5년 새 53% 증가 - 헬스코리아뉴스",
       "published": "2026-05-31T23:28:00+00:00",
-      "summary": "점점 늘어나는 고령층 위장약 처방 … PPI 복용량 5년 새 53% 증가&nbsp;&nbsp;헬스코리아뉴스",
+      "summary": "점점 늘어나는 고령층 위장약 처방 … 전체 PPI 사용량 5년 새 53% 증가&nbsp;&nbsp;헬스코리아뉴스",
       "sources": [
         {
           "name": "헬스코리아뉴스",
@@ -114,26 +150,14 @@
       ]
     },
     {
-      "id": "45fa2592ef8c",
-      "title": "‘톱티어 비자’ 교수-연구원까지 확대…과학기술 인재 국내 유치 나선다 - 동아일보",
-      "published": "2026-05-31T10:24:00+00:00",
-      "summary": "‘톱티어 비자’ 교수-연구원까지 확대…과학기술 인재 국내 유치 나선다&nbsp;&nbsp;동아일보",
+      "id": "6b2a8954332b",
+      "title": "[사설]해외 교수·연구원도 ‘톱티어 비자’… 두뇌 유치 더 과감해야 - 동아일보",
+      "published": "2026-05-31T14:27:00+00:00",
+      "summary": "[사설]해외 교수·연구원도 ‘톱티어 비자’… 두뇌 유치 더 과감해야&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tZTgtNnZuQ3Zqa3R5Ukg0QzZ1QTVmU3VHdHA0OGF2M1BNYkx6U3NuX3lXSkJ0OVE0QnBrTjJuYzByX3k1SlpNNEs2eGlUaFpvUlQ2blVqWUFWOTNleHdEMWNTZmN4R0FqRVNfZzlXUEV3TzBKV0HSAWZBVV95cUxQWnVHRWczQlk4MEREVFNWNUZVT0QtbEV6X1diZU5kNldCYXlxMTZfcDZCMFZfZmpsWm1nV2k0SUFTUmcyUExWUGF5aHNnbTBoYUFJYjhOSHo4em1oVS1xcHUzWkhGT0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fac0868d8a28",
-      "title": "인류의 방심이 에볼라·한타바이러스 공습을 불러왔다 [김형자의 세상은 지금] - v.daum.net",
-      "published": "2026-05-31T08:01:56+00:00",
-      "summary": "인류의 방심이 에볼라·한타바이러스 공습을 불러왔다 [김형자의 세상은 지금]&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10QVkxc1FpSVpQekhsY2RpRUlITzZWVHl3U1lLblozMGVRX3dNcUM5NHd3QVhhd2kwWUR6TWdQZktFTXVTQ1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQlM1ZzRQZ1JzbS1JZTVuVUZsTHFFMGtrclZHN3laWDg0T2NZdjJJNm91R25ydmFGeGV4NEcwNEd2a3pKYlpvMm5acVU3X1NoS1hXQWo3UE1zYXRhTklUZFc5OG1jbU84ODhJZUNGN25KcUctU1HSAWZBVV95cUxNV0pRd2RKTXVYdVBybGQzWHVnbk5RSlhqTHVNaVJhSUtBUkZEUkVxbmxJaENSQUg2bG9HajBXaTlpWGJCVEU5X183RktLZDVrNHZ6VmR5MEpwT25tT2ZWYTV2OFU4MVE?oc=5"
         }
       ]
     },
@@ -150,14 +174,14 @@
       ]
     },
     {
-      "id": "968ded5261f5",
+      "id": "d25977686da0",
       "title": "집만 바꿔도 치매위험 35% 뚝…'이때' 해야 효과 - 네이트",
       "published": "2026-05-31T06:01:00+00:00",
       "summary": "집만 바꿔도 치매위험 35% 뚝…'이때' 해야 효과&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGSEVDaTU3WkhoNmc5ZHBEOWx3Mk9uSGNOdWZGZXgydEp2ZkxXTUd5c2NoT2VWdEYtZ0NpVEZhZG1OeHlzcWNCMG1DRWN5YjUyU3hqa2ozNFRCUWN5Q0xobg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tek9lN2Q1VDNSdFNpV1I0VER4QmllY0VPUnMyMWJ1cWFJbHduOFdpYWFUbjhvVW5tUmdPeXhPZkpibElJQjBoSVA2VV9Ua0V4Z0N3?oc=5"
         }
       ]
     },
@@ -174,14 +198,50 @@
       ]
     },
     {
+      "id": "9320d30ef22d",
+      "title": "밀가루 소화 못하는 셀리악병 환자들, 심장과 혈관 건강도 주의해야 - 메디컬투데이",
+      "published": "2026-05-31T03:58:31+00:00",
+      "summary": "밀가루 소화 못하는 셀리악병 환자들, 심장과 혈관 건강도 주의해야&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wa3RRSmhELUlkWDlEUm4wZmRaRE1qZVJSWGQyRFBMLTJrX1IzZlUtRy1sakxBNzRKd08zX3pSRnNjV1llZ3NURXJMYnhoQjRmVDVhemhkYkI0VV9yTXpB0gFsQVVfeXFMTmNmbndJWG4xMjJjMGhFWXp5UEpGWWRxUEIxU3FmZW1DRm1Xc1hWdWNYWFNvUmZNeURzMElXd05FSWhuWlQzSWNtVTVIOHZLSTBVc3lWZHVzSEVHX2o1aVRMSGFMcU5BaDRXYldH?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c6bcd605608",
+      "title": "박지훈, 항상 ‘이것’ 챙겨 다녀…당뇨 막고 치매까지 예방한다고? - 코메디닷컴",
+      "published": "2026-05-31T02:11:00+00:00",
+      "summary": "박지훈, 항상 ‘이것’ 챙겨 다녀…당뇨 막고 치매까지 예방한다고?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pOGgwR0w3TzN5TmUwbXkydDJucHZ5ZHoxYUlGZ3hyLXkxcktTbzFiVkxjaF9sOG9TRjlmZUM4alUtUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "422f3151a57d",
       "title": "[의료 연구 브리프] 2형 당뇨병, 13가지 기전 / 우울증 예방, 어떻게 먹느냐 / 안구 세포 회춘 청사진 - 경기메디뉴스",
       "published": "2026-05-31T01:21:20+00:00",
-      "summary": "[의료 연구 브리프] 2형 당뇨병, 13가지 기전 / 우울증 예방, 어떻게 먹느냐 / 안구 세포 회춘 청사진&nbsp;&nbsp;경기메디뉴스\"혈당만 보는 시대 끝\"…오젬픽이 바꾼 당뇨 치료 공식 [약전약후]&nbsp;&nbsp;v.daum.net[칼럼] 정작 절실한 당뇨인에게는 쓰이지 못하는 혁신 신약&nbsp;&nbsp;청년의사2형 당뇨병 췌장만의 문제 아니다&nbsp;&nbsp;헬스미디어뉴스\"당뇨, 단순 혈당병 아니다\"…몸 전체 망가뜨리는 '전신질환'&nbsp;&nbsp;매경헬스",
+      "summary": "[의료 연구 브리프] 2형 당뇨병, 13가지 기전 / 우울증 예방, 어떻게 먹느냐 / 안구 세포 회춘 청사진&nbsp;&nbsp;경기메디뉴스\"혈당만 보는 시대 끝\"…오젬픽이 바꾼 당뇨 치료 공식 [약전약후]&nbsp;&nbsp;v.daum.net[칼럼] 정작 절실한 당뇨인에게는 쓰이지 못하는 혁신 신약&nbsp;&nbsp;청년의사오젬픽 맞아도 운동 안 하면 심장 위험 차이 났다…당뇨 9만8천명 추적&nbsp;&nbsp;코메디닷컴2형 당뇨병 췌장만의 문제 아니다&nbsp;&nbsp;헬스미디어뉴스",
       "sources": [
         {
           "name": "경기메디뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TdHFwSjlmNmM3T0ZfRmxXbk1hQ3FxSk42Nk1DZjFKMmZVZGdVT0U4Z0JNdXFDVWg0RG9VcHdwZUl0aWRKY0RQQzlJeHNGT2VDcXpuR0FKLVVjZkZZbGFMdlY5QW9JLVo3dmhN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f6d5aaff4b2",
+      "title": "“과식하면 머리도 잘 안 돌아가”...‘이런 습관’ 못 버리면 뇌 손상될 수도 - 코메디닷컴",
+      "published": "2026-05-31T01:17:00+00:00",
+      "summary": "“과식하면 머리도 잘 안 돌아가”...‘이런 습관’ 못 버리면 뇌 손상될 수도&nbsp;&nbsp;코메디닷컴\"과식하면 머리도 잘 안 돌아가\"…'이런 습관' 못 버리면 뇌 손상될 수도&nbsp;&nbsp;네이트고당분 식단, 기억력 회복 막을 수 있다…연구&nbsp;&nbsp;디지털투데이[먹을까? 말까?(141)] '정크푸드에 길들여진 뇌'⋯어린 시절 식습관, 평생 식욕을 지배한다&nbsp;&nbsp;포커스온경제단 음식 좋아하면 뇌부터 망가진다…기억력 연구 결과 '충격'&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1abndWRmVrQjlNUmRYY3E0REpBZjdDaXA4SmhJU0lWeXJ0bE5fN3NDc2pEUXhUdWpxLWQ4ZEhYcDRHZw?oc=5"
         }
       ]
     },
@@ -198,18 +258,6 @@
       ]
     },
     {
-      "id": "c19eda4094db",
-      "title": "“주말 몰아서 운동” 심장은 괜찮을지 몰라도… ‘이곳’은 비명 중 - 헬스조선",
-      "published": "2026-05-30T04:30:00+00:00",
-      "summary": "“주말 몰아서 운동” 심장은 괜찮을지 몰라도… ‘이곳’은 비명 중&nbsp;&nbsp;헬스조선“하루 4분 운동으로 혈당 잡는다”…‘스낵 운동’ 주목&nbsp;&nbsp;미주한국일보심혈관 건강 지키려면 주 150분 운동은 부족…최소 '이 정도' 더해야&nbsp;&nbsp;네이트“30분 법칙 깨졌다” 하루 딱 2분 ‘운동 스낵’의 기적&nbsp;&nbsp;헬스경향하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWcGE1c3hmWVRvRUhJMzdLWmhXUmFvdFh3OHk5dXBrUDRFVl9BZm56N2VSN1lyQmVkQ2JyRDctTnRTVVo1c2RxUDVkU203bW1kcVU3VGI5bjZnYkdsSXhwYjhGemZUVVh1a3hUa3YwYUtGdWRzSFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "45ac1859b88f",
       "title": "[100세 과학] 돼지 간과 신장, 인간에 첫 동시 이식 - 조선비즈 - Chosunbiz",
       "published": "2026-05-30T01:24:00+00:00",
@@ -218,18 +266,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjdNcXRlNmJNV1NnMzFiVTJDNFlmc3A4TXBrR0lKelRzbVBkejltbkd0VkFyZFYxQW5jcXF5LVhrZVNIamVmaXZjcGVZV1ZNbGFnMGVQOElvT01xT0dkUUFGY3pSWnZ3a0Vwa3JCSmdKV2Y0ZG1JWEVaekRMTmxKVkdRU3ZDcXdmbG1vQmlPemZZc2NhTXBn0gGrAUFVX3lxTE1Gakk0UFgwcHZIbzFwcHdNRjZOak95QWs3UVVhRFMyeS1ERE9IUWVoMkVLRW1waEd1WmlBR1lUei1ia01pTkpsNmFhVWtwd1FYVkRicUhoYzFZUjQ5ZjZ3NWppdE5tRWlZZURYQjQxNUJOcnVBM1d1dlhCNkRoT215dU5US2pvb24xYmxHUnE2Vk9qUDIwOUlvTnIycm9zMjZoa2hydTNTdUQ4Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6a38014f5fd9",
-      "title": "김지현 한국딥러닝 대표·김찬우 워싱턴대 연구원 등 '포브스아시아 30-30' 선정 - AI타임스",
-      "published": "2026-05-29T06:34:34+00:00",
-      "summary": "김지현 한국딥러닝 대표·김찬우 워싱턴대 연구원 등 '포브스아시아 30-30' 선정&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xaThSV3BER1djaWJTYWZlT1pwcVI5QVhvTDBBQ3J6algtY2FXbzh2THdXX1lUUk5pSmp5MEN6YWdJRzJfcmFKT25QX1ZtSTIwU09GMHowMmR5ZjNrVlRMVnAtT25CT296MkE?oc=5"
         }
       ]
     }
