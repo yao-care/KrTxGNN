@@ -1,15 +1,99 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-01T21:36:10.632547+00:00",
-  "total_fetched": 46,
-  "unique_count": 46,
-  "health_related_count": 23,
+  "fetched_at": "2026-06-02T04:17:09.632615+00:00",
+  "total_fetched": 45,
+  "unique_count": 45,
+  "health_related_count": 24,
   "news": [
+    {
+      "id": "4d3731acc8e6",
+      "title": "CKM 증후군-감염 연결고리, 악순환 끊으려면 백신 접종 필요 - 메디칼업저버",
+      "published": "2026-06-02T03:02:40+00:00",
+      "summary": "CKM 증후군-감염 연결고리, 악순환 끊으려면 백신 접종 필요&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LaGNCb1FFZzNFZmhIREJWamZnNXBVdXRSNjZndld1Y2hqVnpsNUpST09PSUhPZGMwOUxIZ0FzZmFQYXNiV1YybjFIbFFDck5uenRWY1VtcElOSGVKY2xLOFpkdEltaUJkeVd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5ddb3ffcf59",
+      "title": "中, 돼지 간·신장 동시 이식 첫 성공...인간 체내서 5일간 기능 유지 - 하이닥",
+      "published": "2026-06-02T02:00:00+00:00",
+      "summary": "中, 돼지 간·신장 동시 이식 첫 성공...인간 체내서 5일간 기능 유지&nbsp;&nbsp;하이닥한 사람 몸에 돼지 장기 3개 세계 최초 동시 이식&nbsp;&nbsp;동아사이언스돼지 몸에서 인간 장기 키운다…중국 러브콜 뒤로 하고 한국 온 석학 - 머니투데이&nbsp;&nbsp;머니투데이[100세 과학] 돼지 간과 신장, 인간에 첫 동시 이식 - 조선비즈&nbsp;&nbsp;Chosunbiz돼지 간과 콩팥, 사람 몸에 통째로…세계 최초 이식 성공&nbsp;&nbsp;리드경제",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zOUd2ckQ3cnoyX3hvdkgtTzF2ZUY2bjdnVUdTMjNrdVNGaGtzREVIaW16Um5qMVo5TWZwanJNNnNrU3k4OWkyOEZ2eWpRLXJvM1lzRGd5OXRpU284M3lFamJLNm5ucW1rWnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ec545249b32",
+      "title": "흡연, 음주, HPV 감염까지…‘두경부암’ 위험 높인다[e건강~쏙] - 이투데이",
+      "published": "2026-06-02T01:32:00+00:00",
+      "summary": "흡연, 음주, HPV 감염까지…‘두경부암’ 위험 높인다[e건강~쏙]&nbsp;&nbsp;이투데이",
+      "sources": [
+        {
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11VENDa3RKZ1BiTnE2d2JkRGgtdzJzZ3ozWldLY05YTktRc3A2UE9Xa3E2b1BXUHFKbjFJTWpicVRyeklvRVlCRjlua2J0LWhEYXhGaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96489d0a620d",
+      "title": "문경시, HPV(사람유두종바이러스) 예방접종 대상자 확대 - 경북신문",
+      "published": "2026-06-02T00:14:00+00:00",
+      "summary": "문경시, HPV(사람유두종바이러스) 예방접종 대상자 확대&nbsp;&nbsp;경북신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "경북신문",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnlEYnB3Mkp6SFdqU3RNSVBxMExzemxMZERzNmRWbkJvRklNSWNvMm9JQ0lDTllrTFBvOHJxSFdsM1ZDZ2N1TTVLek5jQVpYVXowSW02aDgtc19SbWlycUFQeEE1VlQxaGtyN0xNMGlnSHJCakh0R3FZN19nUjRnX1JEbjVJdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae823c2d5697",
+      "title": "심장 건강엔 역시 운동...유전적 원인으로 인한 심장병 발생 확률도 낮춰 - 코메디닷컴",
+      "published": "2026-06-02T00:07:00+00:00",
+      "summary": "심장 건강엔 역시 운동...유전적 원인으로 인한 심장병 발생 확률도 낮춰&nbsp;&nbsp;코메디닷컴심장 건강엔 역시 운동…유전적 원인으로 인한 심장병 발생 확률도 낮춰&nbsp;&nbsp;네이트“주말 몰아서 운동” 심장은 괜찮을지 몰라도… ‘이곳’은 비명 중&nbsp;&nbsp;헬스조선“30분 법칙 깨졌다” 하루 딱 2분 ‘운동 스낵’의 기적&nbsp;&nbsp;헬스경향하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HNHp5WnpmTDgxWUoyUVBjblBxSVZPcFRQblhGSEdJQmNsZ0xCY01GQzlMd3BrcWJSNUhLOUtpeEJfZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1850155ccc4e",
+      "title": "[건강포커스] \"독감 백신, 어린이 100명 접종 시 독감 환자 9~14명 줄여\" - 매일경제 마켓",
+      "published": "2026-06-01T22:49:21+00:00",
+      "summary": "[건강포커스] \"독감 백신, 어린이 100명 접종 시 독감 환자 9~14명 줄여\"&nbsp;&nbsp;매일경제 마켓",
+      "sources": [
+        {
+          "name": "매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjMDd5Ynd5MzE1V3VRV21sX0V4R2x4MDJKdjlVZk5SWlhva3BxWmZubWpIOHh1dVFlNWJmeGV2dG9OdW9ZYlpSY1NCQXk0a1RlQ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "510594296588",
+      "title": "5년 생존율 17%, 신호도 없는 췌장암…“단 음료부터 줄여라” - 세계일보",
+      "published": "2026-06-01T20:00:00+00:00",
+      "summary": "5년 생존율 17%, 신호도 없는 췌장암…“단 음료부터 줄여라”&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SMnB6Y0JxS21RcjlFeWdpak92RXFFQTNkcGludkxWRmhDRDRsLUFQVDNEWWgzcUNyc3NCQnJ3V3FTdjNDYzlHUzIzaEc1dHVIZHgtc2VFckfSAVRBVV95cUxNcE1TblZLSEIyZ1ZYV3ZrZHlDOWx2bVozSEktZkc2VWlES1ZaXzlQX0h0TzJvM3ZjSThLOWEtZGFwdHMtd2ZYR2dQMGh0aHBGdWRiNE8?oc=5"
+        }
+      ]
+    },
     {
       "id": "ff2d6515ab74",
       "title": "2030 청년층 암 꾸준히 늘어 “10년된 생활습관이 보낸 청구서” - 동아일보",
       "published": "2026-06-01T19:30:00+00:00",
-      "summary": "2030 청년층 암 꾸준히 늘어 “10년된 생활습관이 보낸 청구서”&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "2030 청년층 암 꾸준히 늘어 “10년된 생활습관이 보낸 청구서”&nbsp;&nbsp;동아일보대장암 환자의 눈물…“음식, 가려서 먹어야 했는데”&nbsp;&nbsp;코메디닷컴[청년발언대] \"암, 더 이상 노년층만의 질환 아냐…모든 연령대 경각심 필요\"&nbsp;&nbsp;청년일보지금 안 바꾸면 15년 뒤 암세포 폭발&nbsp;&nbsp;브런치",
       "sources": [
         {
           "name": "동아일보",
@@ -18,38 +102,14 @@
       ]
     },
     {
-      "id": "c4901020e3e0",
-      "title": "돼지 간과 콩팥, 사람 몸에 통째로…세계 최초 이식 성공 - 리드경제",
-      "published": "2026-06-01T14:02:00+00:00",
-      "summary": "돼지 간과 콩팥, 사람 몸에 통째로…세계 최초 이식 성공&nbsp;&nbsp;리드경제한 사람 몸에 돼지 장기 3개 세계 최초 동시 이식&nbsp;&nbsp;동아사이언스돼지 몸에서 인간 장기 키운다…중국 러브콜 뒤로 하고 한국 온 석학 - 머니투데이&nbsp;&nbsp;머니투데이[100세 과학] 돼지 간과 신장, 인간에 첫 동시 이식 - 조선비즈&nbsp;&nbsp;Chosunbiz中 연구진, 돼지 간·신장 2개 동시에…인간 이식 세계 첫 성공&nbsp;&nbsp;조선일보",
+      "id": "3558317e5927",
+      "title": "여성호르몬 노출기간 짧을수록 폐경 후 심부전 위험 - 국민일보",
+      "published": "2026-06-01T15:07:00+00:00",
+      "summary": "여성호르몬 노출기간 짧을수록 폐경 후 심부전 위험&nbsp;&nbsp;국민일보Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "리드경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ic3NoQkNsaV9fU3NHNy0weFZvbnZkSnFxQ204d3g4Q3F2aEFMeU1RUEFKc0hBMm1fOHlRWEdIN3NZN24yNTNJZmRESGtnR3VSd01mXy1pMDFMR0diMlVGSHpyRUFHdVlBUnM4MUk3bw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89caa48b3795",
-      "title": "치명적 기체 불소·불화수소…얼마나 위험? - KBS 뉴스",
-      "published": "2026-06-01T12:12:00+00:00",
-      "summary": "치명적 기체 불소·불화수소…얼마나 위험?&nbsp;&nbsp;KBS 뉴스",
-      "sources": [
-        {
-          "name": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JcFJKdnB3QnRYakhadTFkYjhTZ05vdVE3dlJraDRGS1ZlYll0enZ2YmdxSVpSZ0pwclZQeGJfVW9Bc3ltc2RZb29sejJnSHM2eVFuUVRtRjdNeU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05f898f2f4c7",
-      "title": "[센트럴 의학칼럼] 우리 아이 키가 고민된다면? 성장 골든타임 - 시흥저널",
-      "published": "2026-06-01T11:57:02+00:00",
-      "summary": "[센트럴 의학칼럼] 우리 아이 키가 고민된다면? 성장 골든타임&nbsp;&nbsp;시흥저널[총 9개월분] GNM 칼슘 마그네슘 아연 후기&nbsp;&nbsp;브런치[성장일기] 성장기 아이 키와 뼈 건강, 칼슘 섭취가 결정한다&nbsp;&nbsp;네이트[3개월] 닥터린 칼마디K2 후기 관절 가격&nbsp;&nbsp;브런치[3개월분] 금쪽같은내새끼 칼마디 후기 뼈 영양제&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "시흥저널",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwcjdKNDNPTS1PdE0tdFpQaDFoV0Z3V1dXS3M2T1pOSTJpZ0hFV0JWOTloUUdmSi1KcTNwS2dlOXNZMTFBTU5jaWZwQ3d6d2dMYlRsdzlJNTJNdzZBS0hOU2ctUm5hcUU?oc=5"
+          "name": "국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vZnhNdjJPSDY5VWlCSlpYaG1Dd0thamFpamJMb3NuTjBmTExmYkpFNUhkbUZLVC1XSkhJWGZ5cEVPRFU5N3hucDBPMHFCY2pHWU05ZXo3Q2dsdlJhSVZ6NGpYejQyT3PSAWxBVV95cUxQX1c3QlR2R05xeXVWNHkya1M0Zy1uRjdOUHBtWTJaeWVNVDRMV2Z0QjNBajVoRUF2d1RuZ08xTkdhem9uMWtMREhBX3ctNnhSbHpUVG9zSlJiVzlSbUFjRmg5N2QyQTZucmd4eUc?oc=5"
         }
       ]
     },
@@ -78,14 +138,26 @@
       ]
     },
     {
-      "id": "b3161d00c90b",
-      "title": "\"충분히 자도 피곤하다면?\" 비타민 부족이 원인일 수도 - 강원지방신문",
-      "published": "2026-06-01T08:13:01+00:00",
-      "summary": "\"충분히 자도 피곤하다면?\" 비타민 부족이 원인일 수도&nbsp;&nbsp;강원지방신문충분히 자도 계속 피곤한 이유?…뜻밖의 원인 찾았다[건강팩트체크]&nbsp;&nbsp;동아일보스트레스에는 마그네슘, 무기력에는 '이것'… 내 피로에 도움 되는 영양제는?&nbsp;&nbsp;하이닥피로, 손발 저림, 집중력 저하…'이런 음식' 먹어 비타민B12 섭취 필요해&nbsp;&nbsp;네이트[근거기반 한약제제의 최신임상동향] 만성 피로 증후군에 대한 공진단의 최근 임상동향&nbsp;&nbsp;약사공론",
+      "id": "a6aa9c6567a0",
+      "title": "젊은 장내세균 돌려받은 쥐…간암이 생기지 않았다, 노화 연구의 새 단서 - 코메디닷컴",
+      "published": "2026-06-01T09:35:00+00:00",
+      "summary": "젊은 장내세균 돌려받은 쥐…간암이 생기지 않았다, 노화 연구의 새 단서&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "강원지방신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZZjZTbWNxaWFoVHBIQTlKc3lZeE13UTktZUthS0VRRGJ2cjJ4ckNyaTVKc0I2MG83TUNQbVpURnhranRhR3hmcGxqRDZQX3BOeEhVQXFfVk9JQ2xNOW1xeUhuYmVyY2d4VjdR?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54Wl9IQnpaSXVuLTNhamkza2M0anlPeXU0dXFYWDZxMTVpNlQ2YXZMQ2d1bGRNalN1bkp1RExKNUpYQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "579f903ff5e7",
+      "title": "협심증·심근경색 막으려면… 심장 건강에 좋은 생약 성분 3가지 - 하이닥",
+      "published": "2026-06-01T06:30:00+00:00",
+      "summary": "협심증·심근경색 막으려면… 심장 건강에 좋은 생약 성분 3가지&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xUEx1Sm80MFVYVXhOcm1IcEg1VEhqZUx2cXE3Sk9oZ2ZlUDliRkpFQ1Q2SkNuMGRIbWxXQ3BFT2RaYk14NV9uc0JJbHp1TjdabEdEakVMcGdJZ3UtVUcwMTVCY2F0YUN1ZUE?oc=5"
         }
       ]
     },
@@ -105,7 +177,7 @@
       "id": "28972995d0b4",
       "title": "DGIST 연구팀, 만성 스트레스 막는 뇌 줄기세포 생존 비밀 세계 최초 규명 - BBS불교방송",
       "published": "2026-06-01T05:52:54+00:00",
-      "summary": "DGIST 연구팀, 만성 스트레스 막는 뇌 줄기세포 생존 비밀 세계 최초 규명&nbsp;&nbsp;BBS불교방송Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "DGIST 연구팀, 만성 스트레스 막는 뇌 줄기세포 생존 비밀 세계 최초 규명&nbsp;&nbsp;BBS불교방송\"죽음의 유전자가 만성 스트레스 받은 뇌세포 살려\"&nbsp;&nbsp;v.daum.net스트레스 받으면 ‘자폭’하는 뇌세포 지키자…방어 메커니즘 최초 규명&nbsp;&nbsp;서울경제DGIST, 뇌세포 살리는 스트레스 방어 메커니즘 규명&nbsp;&nbsp;전자신문항암제로 ‘우울증·기억장애’ 예방 성공…신개념 뇌질환 치료제 나온다&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
           "name": "BBS불교방송",
@@ -122,30 +194,6 @@
         {
           "name": "메디컬투데이",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFeW4tVm11c1RMdHJMdUVDX3lpaDlnSm9wYUhYY0p3a3ZFbkFoYVZ6X2V3d290Y1p3cmtfcWh3dEVTU1JIYlFKZEJ4bTFOVzNXSjFaQVE5SFNTWDJKLXRZVkZ30gFsQVVfeXFMT0lCeUYtaXhiZlpmX2pvZWJBTV9ORGVJekdMMllCczFsbVJMWGVLM3dKRGk1dkdiZkNUeW9oR05jLWp3RXVsdXhaRzFUazlYUWNhZHhuZW9jNTBaQTVfTnlHV1pwRU9YWkV3Ny1T?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc93b408a06c",
-      "title": "눈 비볐다가 시력 잃을 수도…전문가가 경고한 위험성 - 디지털투데이",
-      "published": "2026-06-01T01:58:52+00:00",
-      "summary": "눈 비볐다가 시력 잃을 수도…전문가가 경고한 위험성&nbsp;&nbsp;디지털투데이",
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAySnhnY0RvaTdyanl1bmwxUkJ0STBFTXBuU0EyRTNqdUI4a0VlWU5BblJjSUlnam5xdUNhSWZZR3Rab1JtRGtaUXc1eFVYa0JfV1dtNVlvendtampFUTFjT2JuM0ktdkU3SDBHY25sNzJLYm8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29160f9747b5",
-      "title": "여성호르몬 노출 기간 짧을수록 폐경 후 심부전 위험 높아져 - 병원신문",
-      "published": "2026-06-01T00:26:25+00:00",
-      "summary": "여성호르몬 노출 기간 짧을수록 폐경 후 심부전 위험 높아져&nbsp;&nbsp;병원신문여성호르몬 노출기간 짧을수록 폐경 후 심부전 위험&nbsp;&nbsp;v.daum.net‘이때’ 운동 안 해두면, 심장 건강 급격히 악화&nbsp;&nbsp;헬스조선\"女 사망 원인 1위 '심장 질환'…진단·치료율은 남성보다 낮아\"&nbsp;&nbsp;뉴시스가임 기간 30년 미만 여성, 40년 이상보다 심부전 위험 1.28배 높다&nbsp;&nbsp;하이뉴스",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FN3NPal9SRkZkMzJCSk14QVNtRVlZOVctNUJxeWhHXzdGSlVXVFRVaDl6UGxmeHl5YmNXd1kzbmZ4QjdZSG9DMzBfNGI2LVZWTmRPOTVMSWxZNHgzYXZ5ZTVzWUtWaW8zSHc?oc=5"
         }
       ]
     },
@@ -198,6 +246,30 @@
       ]
     },
     {
+      "id": "690895684922",
+      "title": "“바나나만이 아니었다”… 혈압 낮추는 ‘칼륨 음식’ - 위클리코리아",
+      "published": "2026-05-31T08:21:24+00:00",
+      "summary": "“바나나만이 아니었다”… 혈압 낮추는 ‘칼륨 음식’&nbsp;&nbsp;위클리코리아“고혈압 위험 30% 낮춘다” 매일 ‘이것’ 먹으라는데… 뭘까?&nbsp;&nbsp;헬스조선“두부·콩 자주 먹었더니 혈압 낮았다”…국제학술지가 주목한 식단은&nbsp;&nbsp;레이디경향혈압 걱정인 사람, 상큼한 ‘이것’ 꾸준히 마셔라… 뭘까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "위클리코리아",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQbUo0d1pRUjBNaU91dmt6LUwzMzBwUTd0ajhnSkcwSUwwdlVBQUNUMTBHanBSVWxjTnlWV0RfN0xKdFphaWNVTEZadzI4QzAwaW9WX1dUWE9JTjI0c2xqVGVpamp6SmV5WlU0UG9yMUhIUVE2aG1SaGZjR19ZNDFrMHdkbEw2OUJ2ZS1QdEl2OXl2MWpYclF2TkxCRnI1WU9nYXhvY0FLWlROdTliV1ZWYXVMZHRhdWpHd1E3YjBuVnBXZlMyb3N5a2pOV05PeElhRGxrbWxVOGhMVUFTbnpXRlRnVkp3ZEpkSjhzT3VCX01hWXdIOFZPdUxYX0JDY3BRY1o5b1NwWXdwb3BZWEpHZjdFZGpNUkhaaDVfZWFfcDZVZi1wa0ptZ2Jn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7083a939747d",
+      "title": "“전립선암 뇌 전이” 70대 男, 겪은 증상 봤더니? - 헬스조선",
+      "published": "2026-05-31T07:01:00+00:00",
+      "summary": "“전립선암 뇌 전이” 70대 男, 겪은 증상 봤더니?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1menRrTWtMU0E0M3N5U1pNcE5wcy1pbVBGWUo2VzE5dkxHaU84blBzTHh4ZjZQblRpbk1xdGtveWgzaUdOdEE2MmNObjJCRU9renBiWkJoYVhheVl5VWg4SVF4MERNek5RbzNOQXpwcVpUMWp4RHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d25977686da0",
       "title": "집만 바꿔도 치매위험 35% 뚝…'이때' 해야 효과 - 네이트",
       "published": "2026-05-31T06:01:00+00:00",
@@ -210,74 +282,14 @@
       ]
     },
     {
-      "id": "9320d30ef22d",
-      "title": "밀가루 소화 못하는 셀리악병 환자들, 심장과 혈관 건강도 주의해야 - 메디컬투데이",
-      "published": "2026-05-31T03:58:31+00:00",
-      "summary": "밀가루 소화 못하는 셀리악병 환자들, 심장과 혈관 건강도 주의해야&nbsp;&nbsp;메디컬투데이",
+      "id": "a3153a0e475f",
+      "title": "고혈압학회 소금 권고량 5g으로 낮춰…국물·가공식품부터 줄여야 - 미디어원",
+      "published": "2026-05-31T04:03:21+00:00",
+      "summary": "고혈압학회 소금 권고량 5g으로 낮춰…국물·가공식품부터 줄여야&nbsp;&nbsp;미디어원\"더 줄여라\" 대한고혈압학회, 소금 섭취 권고량 낮췄다&nbsp;&nbsp;헬스조선프랑스의 새로운 연구는 식품 방부제에 따른 위험성을 경고합니다.&nbsp;&nbsp;Vietnam.vn\"짠 음식 안 먹어도 고혈압?\"…원인은 가공식품 속 '방부제'&nbsp;&nbsp;굿모닝베트남미디어“건강식인 줄 알았는데”… 의외로 '혈관 망치는 반찬' 3가지&nbsp;&nbsp;MSN",
       "sources": [
         {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wa3RRSmhELUlkWDlEUm4wZmRaRE1qZVJSWGQyRFBMLTJrX1IzZlUtRy1sakxBNzRKd08zX3pSRnNjV1llZ3NURXJMYnhoQjRmVDVhemhkYkI0VV9yTXpB0gFsQVVfeXFMTmNmbndJWG4xMjJjMGhFWXp5UEpGWWRxUEIxU3FmZW1DRm1Xc1hWdWNYWFNvUmZNeURzMElXd05FSWhuWlQzSWNtVTVIOHZLSTBVc3lWZHVzSEVHX2o1aVRMSGFMcU5BaDRXYldH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c6bcd605608",
-      "title": "박지훈, 항상 ‘이것’ 챙겨 다녀…당뇨 막고 치매까지 예방한다고? - 코메디닷컴",
-      "published": "2026-05-31T02:11:00+00:00",
-      "summary": "박지훈, 항상 ‘이것’ 챙겨 다녀…당뇨 막고 치매까지 예방한다고?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pOGgwR0w3TzN5TmUwbXkydDJucHZ5ZHoxYUlGZ3hyLXkxcktTbzFiVkxjaF9sOG9TRjlmZUM4alUtUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f6d5aaff4b2",
-      "title": "“과식하면 머리도 잘 안 돌아가”...‘이런 습관’ 못 버리면 뇌 손상될 수도 - 코메디닷컴",
-      "published": "2026-05-31T01:17:00+00:00",
-      "summary": "“과식하면 머리도 잘 안 돌아가”...‘이런 습관’ 못 버리면 뇌 손상될 수도&nbsp;&nbsp;코메디닷컴\"과식하면 머리도 잘 안 돌아가\"…'이런 습관' 못 버리면 뇌 손상될 수도&nbsp;&nbsp;네이트고당분 식단, 기억력 회복 막을 수 있다…연구&nbsp;&nbsp;디지털투데이[먹을까? 말까?(141)] '정크푸드에 길들여진 뇌'⋯어린 시절 식습관, 평생 식욕을 지배한다&nbsp;&nbsp;포커스온경제단 음식 좋아하면 뇌부터 망가진다…기억력 연구 결과 '충격'&nbsp;&nbsp;디지털투데이",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1abndWRmVrQjlNUmRYY3E0REpBZjdDaXA4SmhJU0lWeXJ0bE5fN3NDc2pEUXhUdWpxLWQ4ZEhYcDRHZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ae7e2223abe",
-      "title": "약국 상담 많은 질환 4… 탈모·여드름·이명·갱년기, 관리 핵심은? - 하이닥",
-      "published": "2026-05-31T00:00:00+00:00",
-      "summary": "약국 상담 많은 질환 4… 탈모·여드름·이명·갱년기, 관리 핵심은?&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zc0NpQ0k1YW1WOW1uN0IzY0x4RTJvNGdyeDR3YnhHUmFfeVF6V1VXWTJyTFRENWwzSi1sU1lvb2dQUUdsNFItVnZULUlCZFNNeEFtc09yVnlDZmFEdzRiYjRmdmIzSHNDLVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7cab95c9b687",
-      "title": "침묵의 암 '췌장암'…흡연과의 위험한 연결고리 - 매경헬스",
-      "published": "2026-05-30T23:00:00+00:00",
-      "summary": "침묵의 암 '췌장암'…흡연과의 위험한 연결고리&nbsp;&nbsp;매경헬스5년 생존율 17%, 신호도 없는 췌장암…\"단 음료부터 줄여라\"&nbsp;&nbsp;네이트우리나라 연간 사망자 5명 가운데 1명은 ‘이것’이 원인&nbsp;&nbsp;코리아헬스로그50세 이후 당뇨병과 체중 감소, 췌장암 신호일 수 있다&nbsp;&nbsp;이데일리",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MeHBtdG8tcnlsd3kwWi1sQmVrZjZOSkpXVDJPSVRQbVlZNzJUeE9MT3hncExZZ0w4RU02UUc4SFpyWmF2YWFOV1R4bXd5RHdkNUpBakRnQ2FncnVOTmNuQTRSb0MySDM4WXNvTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "45ac1859b88f",
-      "title": "[100세 과학] 돼지 간과 신장, 인간에 첫 동시 이식 - 조선비즈 - Chosunbiz",
-      "published": "2026-05-30T01:24:00+00:00",
-      "summary": "[100세 과학] 돼지 간과 신장, 인간에 첫 동시 이식 - 조선비즈&nbsp;&nbsp;Chosunbiz",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjdNcXRlNmJNV1NnMzFiVTJDNFlmc3A4TXBrR0lKelRzbVBkejltbkd0VkFyZFYxQW5jcXF5LVhrZVNIamVmaXZjcGVZV1ZNbGFnMGVQOElvT01xT0dkUUFGY3pSWnZ3a0Vwa3JCSmdKV2Y0ZG1JWEVaekRMTmxKVkdRU3ZDcXdmbG1vQmlPemZZc2NhTXBn0gGrAUFVX3lxTE1Gakk0UFgwcHZIbzFwcHdNRjZOak95QWs3UVVhRFMyeS1ERE9IUWVoMkVLRW1waEd1WmlBR1lUei1ia01pTkpsNmFhVWtwd1FYVkRicUhoYzFZUjQ5ZjZ3NWppdE5tRWlZZURYQjQxNUJOcnVBM1d1dlhCNkRoT215dU5US2pvb24xYmxHUnE2Vk9qUDIwOUlvTnIycm9zMjZoa2hydTNTdUQ4Yw?oc=5"
+          "name": "미디어원",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KMmlPUlhIUVFWMjJ5bzZXUG5oaVFtd3FjR3VBeERmZDlqMEsxdGNGbHVBRkd3NXliQWJkRS1IaEVCY2VtdXUwbURSZTM?oc=5"
         }
       ]
     }
