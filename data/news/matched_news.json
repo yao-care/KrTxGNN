@@ -1,13 +1,78 @@
 {
-  "last_updated": "2026-06-02T10:42:03.911483+00:00",
-  "total_count": 38,
+  "last_updated": "2026-06-02T16:38:40.114380+00:00",
+  "total_count": 39,
   "matched_count": 0,
   "news": [
+    {
+      "id": "be65494be3c5",
+      "title": "감기인줄 알았다가 몇 시간 뒤 혼수상태… 놓친 증상 뭘까?",
+      "published": "2026-06-02T14:00:00+00:00",
+      "summary": "감기인줄 알았다가 몇 시간 뒤 혼수상태… 놓친 증상 뭘까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CTU5wS2lrLVowcE1LV014cDVVV3NWV2p6VjUtbnMzSFNLbEVVR2trNFBOOHVZNmdRWlNpcFhtYkNzZHFpOGMzSE5HS3BkeUVjMVM0ek9MdmxCTGJLMzNZeTdRX0tVSmp3ZVlhVUpEV2dTQ0pESlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b32540c9ff85",
+      "title": "구강 내 세균, 위암과 연관성 입증 주목",
+      "published": "2026-06-02T11:59:35+00:00",
+      "summary": "구강 내 세균, 위암과 연관성 입증 주목&nbsp;&nbsp;치의신보",
+      "sources": [
+        {
+          "name": "치의신보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mNzMwLVZ6VncxZFBKcUVrblZUQU5MRG1kZTRDaGpxMkwzXzBrejVqbEhuaWFMUTdvYm01ay14czd0bENkakFhbWhUeF94OXFmWHdhdk5Eb2JUMHA1cVFqOGF2LVFKQjZ5?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ac250a85e19c",
+      "title": "“눈 가려울 때 ‘이것’ 했더니…‘각막 이식’ 수술까지” 美전문의 경고한 치명적 습관",
+      "published": "2026-06-02T11:08:55+00:00",
+      "summary": "“눈 가려울 때 ‘이것’ 했더니…‘각막 이식’ 수술까지” 美전문의 경고한 치명적 습관&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5USTVmTUFMeEt6c2JGT2xPYzQyanAzcG9nSHgxS2xGRHp2Vkdydy1Tc2NXNnZrdlZPbG5mT1FtNFMzTWFtZ3JvcERfb1AxVm5qOEVlTjVidnVSeERiM0ViRkFNeXVLWjgzS2syanVudGZzaXlrX2hwbG5CYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "156f68f30255",
+      "title": "\"코에 뿌렸더니 기억력 회복\"… 줄기세포 추출물, 치매 치료 가능성 확인",
+      "published": "2026-06-02T11:00:00+00:00",
+      "summary": "\"코에 뿌렸더니 기억력 회복\"… 줄기세포 추출물, 치매 치료 가능성 확인&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85YjBlUFA2bGxqRzdDQmNkcVRjc3hKcWZJRHA4N3RWNWNMZDZlZXFNTDV3bVREdlVRRVBlQ1hxNzlteTVkeXZYR2FOazIyRUx0VlprdDZVV2FIMURITWFfUk5CaHNLVWJ0LXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2ae6e88bd575",
+      "title": "오래된 적혈구가 쌓여 만든 자성…새의 뱃속에 숨은 GPS",
+      "published": "2026-06-02T10:55:20+00:00",
+      "summary": "오래된 적혈구가 쌓여 만든 자성…새의 뱃속에 숨은 GPS&nbsp;&nbsp;파퓰러사이언스[표지로 읽는 과학] 비둘기 귀소능력 비밀, 간 속에 있을까&nbsp;&nbsp;v.daum.net88올림픽 비둘기 '사고'...자기장 항법장치 탓일까&nbsp;&nbsp;강찬수의 에코파일비둘기의 놀라운 'GPS 추적'&nbsp;&nbsp;Vietnam.vn수백킬로 날아도 집 찾는 비둘기 비밀, 간 속 면역세포?&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "파퓰러사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aZ01KUVp5dkF0Y0c0TXV2elVEbjZJUlE3b2JOOHlxZnQ4c0llYmJvYVc3WVZvbTZIT0tVR2NYUEIxV2toTksxaEZIX2hIazlhUU44SVg4MW5qVHhQSVJHNW1POHJHcFNfbGfSAW5BVV95cUxPLVVsdGNiYUdaOUhMazBmbEhUcFF1N3c3WEUtcjdMdV95RndEb3QtaWdNdEozUGtVMHhZX3Y2eWNmVE0ySzZwWDlvQzFEZVFTUjYwclhtTW1pdmpZY0RSTTZ4ZTBsOVYyNEVlUmMzdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a5be7aef7ae9",
       "title": "\"만성피로는 신체의 경고 신호\"... 6개월 넘으면 '에너지 대사'부터 점검",
       "published": "2026-06-02T10:00:00+00:00",
-      "summary": "\"만성피로는 신체의 경고 신호\"... 6개월 넘으면 '에너지 대사'부터 점검&nbsp;&nbsp;하이닥[1인 가구 헬스케어] '만성 피로' 지속되면 질병 의심해야&nbsp;&nbsp;1코노미뉴스[칼럼] 아침에 눈을 떴는데 이미 지쳐 있는 날&nbsp;&nbsp;뉴스N연합[근거기반 한약제제의 최신임상동향] 만성 피로 증후군에 대한 공진단의 최근 임상동향&nbsp;&nbsp;약사공론피로, 손발 저림, 집중력 저하...‘이런 음식’ 먹어 비타민B12 섭취 필요해&nbsp;&nbsp;코메디닷컴",
+      "summary": "\"만성피로는 신체의 경고 신호\"... 6개월 넘으면 '에너지 대사'부터 점검&nbsp;&nbsp;하이닥스트레스에는 마그네슘, 무기력에는 '이것'… 내 피로에 도움 되는 영양제는?&nbsp;&nbsp;하이닥[1인 가구 헬스케어] '만성 피로' 지속되면 질병 의심해야&nbsp;&nbsp;1코노미뉴스[칼럼] 아침에 눈을 떴는데 이미 지쳐 있는 날&nbsp;&nbsp;뉴스N연합[근거기반 한약제제의 최신임상동향] 만성 피로 증후군에 대한 공진단의 최근 임상동향&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "하이닥",
@@ -30,6 +95,19 @@
       "matched_keywords": []
     },
     {
+      "id": "01d48e4fa74f",
+      "title": "젊을 땐 성장 돕고 늙으면 노화 촉진하는 '이기적 유전자'",
+      "published": "2026-06-02T09:01:53+00:00",
+      "summary": "젊을 땐 성장 돕고 늙으면 노화 촉진하는 '이기적 유전자'&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Z0NQVTRPMVY2LUo1VnZrU3gtLWYtTDczYkg2c1JSUFMzbmtla1RVNGtRVXdNbTlMOTlsQXVMNnJOWWx5YjBtSDVUVDlPYlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "90022ac79230",
       "title": "여름 앞두고 요실금 고민…감별 진단 중요",
       "published": "2026-06-02T08:58:18+00:00",
@@ -43,27 +121,27 @@
       "matched_keywords": []
     },
     {
-      "id": "ea644972c9fe",
-      "title": "HPV 백신, 이제는 커플이 함께 맞는다…\"'남녀 공동 예방 시대'",
-      "published": "2026-06-02T08:40:59+00:00",
-      "summary": "HPV 백신, 이제는 커플이 함께 맞는다…\"'남녀 공동 예방 시대'&nbsp;&nbsp;매경헬스운경시, 사람유두종바이러스(HPV) 예방접종 지원 대상, ‘18~26세 저소득층 여성에서 관내 여성 전체’로 확대&nbsp;&nbsp;프레시안봉화군, 12세 남성 청소년 대상 HPV 무료 예방접종 확대 실시&nbsp;&nbsp;gukjenews.com[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트문경시, HPV 예방접종 지원 대상 확대...18~26세 여성 전체&nbsp;&nbsp;경북신문",
+      "id": "60314d4bc366",
+      "title": "문경시, HPV 예방접종 지원 확대…18~26세 여성 전원 혜택",
+      "published": "2026-06-02T08:54:44+00:00",
+      "summary": "문경시, HPV 예방접종 지원 확대…18~26세 여성 전원 혜택&nbsp;&nbsp;kyongbuk.co.kr문경시, 사람유두종바이러스(HPV) 예방접종 지원 대상, ‘18~26세 저소득층 여성에서 관내 여성 전체’로 확대&nbsp;&nbsp;프레시안봉화군, 12세 남성 청소년 대상 HPV 무료 예방접종 확대 실시&nbsp;&nbsp;gukjenews.com[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트남자도 HPV 국가접종… 사회적 감염관리 확장 [건강+]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wdGxEYTFTMXlTbklCVGVHSm44U0dILVZNbEE1alA3aW1oTnBJWm9mNTVuTlRTZWxJX3VfcjdRN3JVWHdCQklFSERabUNJSGpNSU1hS2szVDQ2MEpYR0ZKcTB3UngzS0djMjB5Tw?oc=5"
+          "name": "kyongbuk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nb1hTcUJDNTBLQjFXaVkyX1h3N0pTbjRPN0VsRGdkUnZkangxOE13Qkxlc19ORnNEYkttbDFmd3NKdW9DYTdiZXB4cUNxbl9lR3dkX2hIWG8yT0o5U1VYQkg2NjFHNGFjeFFad2pDMA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "87c2ccd62879",
+      "id": "9dbe6a4c1bad",
       "title": "하루 한두 잔의 커피, 심장에 정말 도움이 될까",
       "published": "2026-06-02T07:57:00+00:00",
       "summary": "하루 한두 잔의 커피, 심장에 정말 도움이 될까&nbsp;&nbsp;블랙워터이슈커피·채소·유제품, 심혈관질환 위험 ↓…국내외 151개 연구논문 분석&nbsp;&nbsp;세계일보커피·채소·유제품 섭취, 심혈관질환 위험 낮아진다&nbsp;&nbsp;에너지경제신문",
       "sources": [
         {
           "name": "블랙워터이슈",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2Q3lUYVRmdld6Tk5jRUJEMmxnRVp6QTRiYnpGd19pWFpxLUFoRC1kYTBZYi15ZmlnZE1TQ09tYzJjbTRhX1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIcGZuLTJDN2xjc3laTVlxQjdJa2s4V1JKNmQtLWtCa2dpdmJxTXhNb21tYzBVN2hRZmFVS21ocUpLVlpfT1ZZ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,14 +199,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7ba88f28a29a",
+      "id": "0e07edd1f65a",
       "title": "모기 매개 감염병 억제 나선 구글…'불임 수컷모기' 3200만마리 방사 승인 요청",
-      "published": "2026-06-02T04:45:00+00:00",
-      "summary": "모기 매개 감염병 억제 나선 구글…'불임 수컷모기' 3200만마리 방사 승인 요청&nbsp;&nbsp;동아사이언스구글, 모기 3200만마리 방사 추진⋯무슨 일이길래&nbsp;&nbsp;v.daum.net구글이 미 캘리포니아와 플로리다에 모기 3200만마리 방사하는 이유는?&nbsp;&nbsp;조선일보\"우리 집 뒷마당에?\" 구글이 '고자 모기' 3200마리 방사하는 이유 - 머니투데이&nbsp;&nbsp;머니투데이\"불임 모기로 모기 박멸\"…구글의 이색 방역 실험&nbsp;&nbsp;아시아경제",
+      "published": "2026-06-02T04:47:53+00:00",
+      "summary": "모기 매개 감염병 억제 나선 구글…'불임 수컷모기' 3200만마리 방사 승인 요청&nbsp;&nbsp;v.daum.net구글, 모기 3200만마리 방사 추진⋯무슨 일이길래&nbsp;&nbsp;v.daum.net구글이 미 캘리포니아와 플로리다에 모기 3200만마리 방사하는 이유는?&nbsp;&nbsp;조선일보\"수컷 모기 3200만 마리 풀겠다\"… 빅테크 구글, 실험 나선 이유는&nbsp;&nbsp;한국일보\"우리 집 뒷마당에?\" 구글이 '고자 모기' 3200마리 방사하는 이유 - 머니투데이&nbsp;&nbsp;머니투데이",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tenVuam1RM2lOVHBPSXh2Y0xnMEdHZF9RQWxWSEdZTC1jVUpQdGxKeVBtTGlfNFRHUmhDVmtKY3lwaGotcm5NcjQyQThMOTJhN1NBcQ?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HN3FYVk5YV2tKcFJqTVhPUjRvN1ItX0xfYkNSQnpTNWFRbjM4UzZBN1dYcTZFTXIyOGp1akQ2VlljZ3oyRzE2OW1IanlYWkk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -207,19 +285,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WMFdVMzFDNTljVjUzaTJmODdfX3dYMlBKT2xzbXRNZm9CSFhDOHBwblpoMm1IZkdwbVc5T3BOV243QQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "940eccd66e59",
-      "title": "크레오에스지, 질병청 마버그열 백신 개발 과제 참여…차세대 팬데믹 대응 본격화",
-      "published": "2026-06-02T01:06:08+00:00",
-      "summary": "크레오에스지, 질병청 마버그열 백신 개발 과제 참여…차세대 팬데믹 대응 본격화&nbsp;&nbsp;아시아경제",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sdmtRZGMzLU9vTDlJT1lFNEZlU2dXdXlXSGxVNWUzazEyRXU3aHdZWnhYYm1FRW1nSjl2N01SVzB4YmNoRENoQW9jRmJrR0E3ekh2WHhOcHFCd1E5b0N5RA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -316,19 +381,6 @@
       "matched_keywords": []
     },
     {
-      "id": "238ef474a474",
-      "title": "심장 건강 지키려면… ‘저녁 7시’ 이후로 하지 말 것들",
-      "published": "2026-06-01T10:42:00+00:00",
-      "summary": "심장 건강 지키려면… ‘저녁 7시’ 이후로 하지 말 것들&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IWGIyazhDMXdHOW1Xa2ZsYlNITDJvM0V3Yno2ZjhBNUd3Zm1JQjdwTV9iN2pKWjE4VkhMaFI1SUdEZlRySUsxME00YzdQTDlkRUIzelhhRklwaFg2NFk2UUw4RmJ4YkptQ3dTT0w0U19HV2t4TUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ec0da44349b6",
       "title": "팔다리 가늘어졌는데 배는 그대로?...65세 미만 男, 치매 위험 3배↑",
       "published": "2026-06-01T10:28:58+00:00",
@@ -381,19 +433,6 @@
       "matched_keywords": []
     },
     {
-      "id": "96ec993b75cb",
-      "title": "대장암 환자의 눈물…“음식, 가려서 먹어야 했는데”",
-      "published": "2026-06-01T05:01:00+00:00",
-      "summary": "대장암 환자의 눈물…“음식, 가려서 먹어야 했는데”&nbsp;&nbsp;코메디닷컴2030 청년층 암 꾸준히 늘어 “10년된 생활습관이 보낸 청구서”&nbsp;&nbsp;동아일보[청년발언대] \"암, 더 이상 노년층만의 질환 아냐…모든 연령대 경각심 필요\"&nbsp;&nbsp;청년일보지금 안 바꾸면 15년 뒤 암세포 폭발&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xeHFBQTZDSTZIV2pqLXhpMDZmLTRLZ1NWY21wc2NnWlkyREJHRmFvN2FwQjExNFpDSmRPbFFPb0ozZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e349391b95dd",
       "title": "아토플렉스, Andes virus·OZ virus 검출용 분자진단키트 개발",
       "published": "2026-06-01T04:44:24+00:00",
@@ -402,19 +441,6 @@
         {
           "name": "메디컬투데이",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFeW4tVm11c1RMdHJMdUVDX3lpaDlnSm9wYUhYY0p3a3ZFbkFoYVZ6X2V3d290Y1p3cmtfcWh3dEVTU1JIYlFKZEJ4bTFOVzNXSjFaQVE5SFNTWDJKLXRZVkZ30gFsQVVfeXFMT0lCeUYtaXhiZlpmX2pvZWJBTV9ORGVJekdMMllCczFsbVJMWGVLM3dKRGk1dkdiZkNUeW9oR05jLWp3RXVsdXhaRzFUazlYUWNhZHhuZW9jNTBaQTVfTnlHV1pwRU9YWkV3Ny1T?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bc93b408a06c",
-      "title": "눈 비볐다가 시력 잃을 수도…전문가가 경고한 위험성",
-      "published": "2026-06-01T01:58:52+00:00",
-      "summary": "눈 비볐다가 시력 잃을 수도…전문가가 경고한 위험성&nbsp;&nbsp;디지털투데이",
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAySnhnY0RvaTdyanl1bmwxUkJ0STBFTXBuU0EyRTNqdUI4a0VlWU5BblJjSUlnam5xdUNhSWZZR3Rab1JtRGtaUXc1eFVYa0JfV1dtNVlvendtampFUTFjT2JuM0ktdkU3SDBHY25sNzJLYm8?oc=5"
         }
       ],
       "matched_keywords": []
@@ -467,19 +493,6 @@
         {
           "name": "이데일리",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa0UycEJJdjh0YnJDY2E3aldNZm91NUNGSkwxQkJ3cGtGV19iQzlZankyc0JIdFFKeXluOU9IclJEMlhDWDVKcEJxanJXQVBDNWJsUG9jd2FrN0ZXZThncVZnbHY1VjJYQXliYm15anlKX2ZfZmRGUTg0OUw3OFM1NQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c7838f402b79",
-      "title": "[이정범의 응급의학 가이드] 비소세포성 폐암, 유전자 따라 달라지는 치료",
-      "published": "2026-05-31T15:00:00+00:00",
-      "summary": "[이정범의 응급의학 가이드] 비소세포성 폐암, 유전자 따라 달라지는 치료&nbsp;&nbsp;한국보험신문폐암 유형 같아도 치료 방향 달라지는 이유··· 흡연·폐기종 여부 따라 차이&nbsp;&nbsp;경향신문'폐선암, 흡연력과 폐기종에 따라 종양미세환경 달라진다'&nbsp;&nbsp;이데일리같은 폐선암도 흡연력·폐기종 여부 따라 종양 면역환경 달라져&nbsp;&nbsp;헬스오여의도성모병원팀 \"폐기종 동반 폐암, 종양 내 면역 환경에 더 '공격적'\" 밝혀내&nbsp;&nbsp;파이낸셜포스트",
-      "sources": [
-        {
-          "name": "한국보험신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PcnVmdEhkQzlRanFyQzNERDl2Yk1MWmFQcXRsdk9OT21RcUhqNGhYRVp6NnVyajdYbVk1WnNKVTR1TWgzeUc3eU8xTTJFU0NEUXNIVVVianpySy1MR0tYSHY5Qi11c0NkYkdr0gFvQVVfeXFMTXczLVcxYnBHNXJKNnA5VkJOZ3pYdXFIZnM1WnE4YllJeDVmRWZ0MHNYeEZyX3lBWE96X3NkOHVqOVdzakZlRzczczN6U2VBYWZmSDhLTkxuNl9UY0JTSHhzdUZXdW55dmZUX3JkWFJj?oc=5"
         }
       ],
       "matched_keywords": []
