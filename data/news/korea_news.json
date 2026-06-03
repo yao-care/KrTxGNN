@@ -1,19 +1,79 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-02T20:53:05.532421+00:00",
-  "total_fetched": 69,
-  "unique_count": 69,
-  "health_related_count": 41,
+  "fetched_at": "2026-06-03T04:26:36.653474+00:00",
+  "total_fetched": 66,
+  "unique_count": 65,
+  "health_related_count": 43,
   "news": [
     {
-      "id": "54d4c3f32bfa",
-      "title": "“대변에 ‘이 증상’ 나타나더니, 암 2기였다”… 40대 女, 무슨 일? - 헬스조선",
-      "published": "2026-06-02T17:00:00+00:00",
-      "summary": "“대변에 ‘이 증상’ 나타나더니, 암 2기였다”… 40대 女, 무슨 일?&nbsp;&nbsp;헬스조선",
+      "id": "e8ac0e3faedf",
+      "title": "뉴로테리어 - 교수신문",
+      "published": "2026-06-03T01:43:55+00:00",
+      "summary": "뉴로테리어&nbsp;&nbsp;교수신문집만 바꿔도 치매위험 35% 뚝…'이때' 해야 효과&nbsp;&nbsp;뉴시스벽지·조명 바꾸면 치매 위험 낮춘다&nbsp;&nbsp;한국경제[신간] 손혜주 교수 '뉴로테리어: 늙지 않는 뇌를 위한 공간 처방' 출간&nbsp;&nbsp;메디칼업저버“집이 뇌 건강 바꾼다”...중앙대병원 손혜주 교수, 《뉴로테리어》 출간&nbsp;&nbsp;더퍼스트미디어",
+      "sources": [
+        {
+          "name": "교수신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BSW9lRmo3dXM5bTlCWHJXZF9jc1R2cFhNa2RzOFlWVVN2UmREbzRYcVU1NWhEeVZQMW10d3JLTlg2OS1uaEJzLVRSU1h0Nl81VER4N3l1aU9GTWdLWWtmd001TUNnUGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d217bb9069da",
+      "title": "돼지 신장·간 ‘53살 뇌사자’에 동시 이식하자…5일간 정상 작동했다 - 한겨레",
+      "published": "2026-06-03T00:53:00+00:00",
+      "summary": "돼지 신장·간 ‘53살 뇌사자’에 동시 이식하자…5일간 정상 작동했다&nbsp;&nbsp;한겨레한 사람 몸에 돼지 장기 3개 세계 최초 동시 이식&nbsp;&nbsp;동아사이언스돼지 몸에서 인간 장기 키운다…중국 러브콜 뒤로 하고 한국 온 석학 - 머니투데이&nbsp;&nbsp;머니투데이돼지 간과 콩팥, 사람 몸에 통째로…세계 최초 이식 성공&nbsp;&nbsp;리드경제中 연구진, 돼지 간·신장 2개 동시에…인간 이식 세계 첫 성공&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfekt0d0VVdEU1ZXgtTlBMLWpHRzR5TzVsQ2xxbXhDbWUtM2ZVVWVoMlJNZGZqejd3N05HQUFpc1lsamVYQ1QyamRBZ2NQU1BCSERvWDdQRzlOVkN0aGM4X3R6MjNJY3dST0ZNMkNyc1E5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b9ec9f72fd7",
+      "title": "올해 콜로라도 모기 일찍 나타났다… 보건 당국 ‘뇌염 바이러스’ 주의보 - 콜로라도 타임즈",
+      "published": "2026-06-03T00:46:11+00:00",
+      "summary": "올해 콜로라도 모기 일찍 나타났다… 보건 당국 ‘뇌염 바이러스’ 주의보&nbsp;&nbsp;콜로라도 타임즈",
+      "sources": [
+        {
+          "name": "콜로라도 타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOcVJaSW5fX3RiVzZYbnNBb25ISlhpaW5GTnpRcThDOE52YURKeVdqVUVPUGZuMzlUamRSdXE1N3otSVo5cTdPR05rTXRucjhtMFFULUk1S3pHNURrZ3hhcUdqWmRzMjRiLWlaVXN0STNKRjNITWhYUzhZMlRYc0Z4cmxPMzhfSlUtTzBHM3NQb3p1UmlLeDJOUkE5LTBYZnJvUGVibW9zbHZpRVM5VjdrS0dsY1JxZEtCekF1c25HV1VsMHc0ZHJmem44eVRHaFJiX3VTcmNDUDNNcEhnejlPRG5iZkQwSUdkZ19PVHVCdTY0bWFrUi0xb1NrbFBPOVJFZzdCbHBOX3FRTnFpQVlVXzdSQ19lb2lrd2k2TWVDOHppa3FDdzl1X1ROQkFOWi1naDBEM05kNXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8394d1571fe",
+      "title": "햄·소시지 즐기는 식습관, 위암·식도암 위험 키운다 - 하이닥",
+      "published": "2026-06-02T21:30:00+00:00",
+      "summary": "햄·소시지 즐기는 식습관, 위암·식도암 위험 키운다&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zRGNBellFczVtWlJoNFNVS3NiWExxT1J0V0M2bVNudWdJZ2xDVFlBaEhJdFpLQzBTeUU3amtpT2I3N25yY0lUWTdQT0FSNGt4dVF6ejlTT3JnMVpTbHkwVnl4SkMydkdKV2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e83dcafcab40",
+      "title": "허리 아프면 무조건 누워라? 척추 건강 망치는 8가지 오해 - 헬스조선",
+      "published": "2026-06-02T21:00:00+00:00",
+      "summary": "허리 아프면 무조건 누워라? 척추 건강 망치는 8가지 오해&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdnczSVRTY1Z6V19Ka1gyeElsZ21SS1VLX2h4SGRkNmw3ZGFVOGMzaFgwVVpvOGZVc0pzRGJBNEVNZkE0ck9kUDd6Xy1yNVp3czMzSWtYVU1felI3blVyeWphLUN5UUZYNFdIN3dJcF82cktDLUE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UUC16VWlPZW0zcjBwai05clZIenllSV9FNkhpdTdaVUVpY29Fb1FLSmRLYXY1M2VEaWtMZW1uV3MxbFFNam04c2xvbkRwc3VPLWxRNWZleEdMalROQzQ3NG4ycmhWV1dKQzYwQzhjaHVLcFFOVkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "516e6c142f11",
+      "title": "눈 가려울 때 절대 비비면 안 되는 이유…'이 병'까지 생긴다 [헬스톡] - 파이낸셜뉴스",
+      "published": "2026-06-02T21:00:00+00:00",
+      "summary": "눈 가려울 때 절대 비비면 안 되는 이유…'이 병'까지 생긴다 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스“눈 가려울 때 ‘이것’ 했더니…‘각막 이식’ 수술까지” 美전문의 경고한 치명적 습관&nbsp;&nbsp;서울신문“눈이 계속 빨갛고 가려운데…”&nbsp;&nbsp;브런치[헬스&라이프] 에어컨 틀자 눈 뻑뻑하고 침침…초여름 '안구건조증' 비상&nbsp;&nbsp;네이트눈 비볐다가 시력 잃을 수도…전문가가 경고한 위험성&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45aWJqUW1KUDdwMWFHRlhkNjZwLVlxMk03OXlCbXBzUEROYnFKX2FzQ0xPQkFBQmtOXzdXbThZRGJZaG12aEVRZ2xlMTM2YTlFeTV6VkpoNU5XZ9IBXkFVX3lxTFB4OFpveGhMVzlGbGxPaDdxRDhqWlRCNzVCa0xvcTV5LWlmRE1mTzZCRER4c1VsZjFQVU91QXUxTXdvYXlLYmI2MTdUVTVMQ1dLS0ZJTU1Mdko3VTE2dmc?oc=5"
         }
       ]
     },
@@ -42,6 +102,18 @@
       ]
     },
     {
+      "id": "d87af3b8cd5c",
+      "title": "주민등록상 나이 말고 ‘진짜 내 몸 나이’ 재는 시계 나왔다[후암동 논문 연구소] - 헤럴드경제",
+      "published": "2026-06-02T12:10:01+00:00",
+      "summary": "주민등록상 나이 말고 ‘진짜 내 몸 나이’ 재는 시계 나왔다[후암동 논문 연구소]&nbsp;&nbsp;헤럴드경제",
+      "sources": [
+        {
+          "name": "헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TRmc4aXNVbVlfak1CUjFBX2d6TnhJQkRGcE1yWGhrWU53LWhxVDFsMHZlenh6X2dORlZQWW1mdG1OSG14djB4bmlaT2psWlAyYzlaV0ln?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b32540c9ff85",
       "title": "구강 내 세균, 위암과 연관성 입증 주목 - 치의신보",
       "published": "2026-06-02T11:59:35+00:00",
@@ -50,18 +122,6 @@
         {
           "name": "치의신보",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mNzMwLVZ6VncxZFBKcUVrblZUQU5MRG1kZTRDaGpxMkwzXzBrejVqbEhuaWFMUTdvYm01ay14czd0bENkakFhbWhUeF94OXFmWHdhdk5Eb2JUMHA1cVFqOGF2LVFKQjZ5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac250a85e19c",
-      "title": "“눈 가려울 때 ‘이것’ 했더니…‘각막 이식’ 수술까지” 美전문의 경고한 치명적 습관 - 서울신문",
-      "published": "2026-06-02T11:08:55+00:00",
-      "summary": "“눈 가려울 때 ‘이것’ 했더니…‘각막 이식’ 수술까지” 美전문의 경고한 치명적 습관&nbsp;&nbsp;서울신문",
-      "sources": [
-        {
-          "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5USTVmTUFMeEt6c2JGT2xPYzQyanAzcG9nSHgxS2xGRHp2Vkdydy1Tc2NXNnZrdlZPbG5mT1FtNFMzTWFtZ3JvcERfb1AxVm5qOEVlTjVidnVSeERiM0ViRkFNeXVLWjgzS2syanVudGZzaXlrX2hwbG5CYw?oc=5"
         }
       ]
     },
@@ -105,7 +165,7 @@
       "id": "7e0395ef8bb1",
       "title": "“당뇨병, 꾸준한 관리가 핵심… 실천 가능한 생활습관 유지해야” - 하이닥",
       "published": "2026-06-02T09:30:00+00:00",
-      "summary": "“당뇨병, 꾸준한 관리가 핵심… 실천 가능한 생활습관 유지해야”&nbsp;&nbsp;하이닥증상 없는데 혈당은 오른다…당뇨 관리의 핵심은&nbsp;&nbsp;매경헬스‘당 떨어진다’는 달콤한 핑계&nbsp;&nbsp;v.daum.net“혈관 막혀 스텐트까지”…이경규 사례로 본 당뇨 전 단계 위험성&nbsp;&nbsp;동아일보\"당화혈색소 목표 도달은 3명 중 1명\"…혈당 관리 해법 찾는 당뇨 환자들 [당 편한 세상]&nbsp;&nbsp;네이트",
+      "summary": "“당뇨병, 꾸준한 관리가 핵심… 실천 가능한 생활습관 유지해야”&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "하이닥",
@@ -141,7 +201,7 @@
       "id": "60314d4bc366",
       "title": "문경시, HPV 예방접종 지원 확대…18~26세 여성 전원 혜택 - kyongbuk.co.kr",
       "published": "2026-06-02T08:54:44+00:00",
-      "summary": "문경시, HPV 예방접종 지원 확대…18~26세 여성 전원 혜택&nbsp;&nbsp;kyongbuk.co.kr문경시, 사람유두종바이러스(HPV) 예방접종 지원 대상, ‘18~26세 저소득층 여성에서 관내 여성 전체’로 확대&nbsp;&nbsp;프레시안봉화군, 12세 남성 청소년 대상 HPV 무료 예방접종 확대 실시&nbsp;&nbsp;gukjenews.com[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트남자도 HPV 국가접종… 사회적 감염관리 확장 [건강+]&nbsp;&nbsp;v.daum.net",
+      "summary": "문경시, HPV 예방접종 지원 확대…18~26세 여성 전원 혜택&nbsp;&nbsp;kyongbuk.co.kr문경시, 사람유두종바이러스(HPV) 예방접종 지원 대상, ‘18~26세 저소득층 여성에서 관내 여성 전체’로 확대&nbsp;&nbsp;프레시안봉화군, 12세 남성 청소년 대상 HPV 무료 예방접종 확대 실시&nbsp;&nbsp;gukjenews.com경제적으로 어려운 네 지역에 거주하는 12세 소녀들이 곧 무료 HPV 백신 접종을 받게 될 예정입니다.&nbsp;&nbsp;Vietnam.vn[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "kyongbuk.co.kr",
@@ -213,7 +273,7 @@
       "id": "0e07edd1f65a",
       "title": "모기 매개 감염병 억제 나선 구글…'불임 수컷모기' 3200만마리 방사 승인 요청 - v.daum.net",
       "published": "2026-06-02T04:47:53+00:00",
-      "summary": "모기 매개 감염병 억제 나선 구글…'불임 수컷모기' 3200만마리 방사 승인 요청&nbsp;&nbsp;v.daum.net구글, 모기 3200만마리 방사 추진⋯무슨 일이길래&nbsp;&nbsp;v.daum.net구글이 미 캘리포니아와 플로리다에 모기 3200만마리 방사하는 이유는?&nbsp;&nbsp;조선일보\"수컷 모기 3200만 마리 풀겠다\"… 빅테크 구글, 실험 나선 이유는&nbsp;&nbsp;한국일보\"우리 집 뒷마당에?\" 구글이 '고자 모기' 3200마리 방사하는 이유 - 머니투데이&nbsp;&nbsp;머니투데이",
+      "summary": "모기 매개 감염병 억제 나선 구글…'불임 수컷모기' 3200만마리 방사 승인 요청&nbsp;&nbsp;v.daum.net“모기 3200만 마리 미국에 풉니다” 밝힌 구글…그 이유는 모기 잡기 위해?&nbsp;&nbsp;서울경제구글, 모기 3200만마리 방사 추진⋯무슨 일이길래&nbsp;&nbsp;v.daum.net\"불임 모기로 모기 박멸\"…구글의 이색 방역 실험&nbsp;&nbsp;아시아경제\"수컷 모기 3200만 마리 풀겠다\"… 빅테크 구글, 실험 나선 이유는&nbsp;&nbsp;한국일보",
       "sources": [
         {
           "name": "v.daum.net",
@@ -242,18 +302,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LaGNCb1FFZzNFZmhIREJWamZnNXBVdXRSNjZndld1Y2hqVnpsNUpST09PSUhPZGMwOUxIZ0FzZmFQYXNiV1YybjFIbFFDck5uenRWY1VtcElOSGVKY2xLOFpkdEltaUJkeVd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a5ddb3ffcf59",
-      "title": "中, 돼지 간·신장 동시 이식 첫 성공...인간 체내서 5일간 기능 유지 - 하이닥",
-      "published": "2026-06-02T02:00:00+00:00",
-      "summary": "中, 돼지 간·신장 동시 이식 첫 성공...인간 체내서 5일간 기능 유지&nbsp;&nbsp;하이닥한 사람 몸에 돼지 장기 3개 세계 최초 동시 이식&nbsp;&nbsp;동아사이언스돼지 몸에서 인간 장기 키운다…중국 러브콜 뒤로 하고 한국 온 석학 - 머니투데이&nbsp;&nbsp;머니투데이[100세 과학] 돼지 간과 신장, 인간에 첫 동시 이식 - 조선비즈&nbsp;&nbsp;Chosunbiz돼지 간과 콩팥, 사람 몸에 통째로…세계 최초 이식 성공&nbsp;&nbsp;리드경제",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zOUd2ckQ3cnoyX3hvdkgtTzF2ZUY2bjdnVUdTMjNrdVNGaGtzREVIaW16Um5qMVo5TWZwanJNNnNrU3k4OWkyOEZ2eWpRLXJvM1lzRGd5OXRpU284M3lFamJLNm5ucW1rWnc?oc=5"
         }
       ]
     },
@@ -309,7 +357,7 @@
       "id": "ae823c2d5697",
       "title": "심장 건강엔 역시 운동...유전적 원인으로 인한 심장병 발생 확률도 낮춰 - 코메디닷컴",
       "published": "2026-06-02T00:07:00+00:00",
-      "summary": "심장 건강엔 역시 운동...유전적 원인으로 인한 심장병 발생 확률도 낮춰&nbsp;&nbsp;코메디닷컴살 안 빠져도 운동해야… 美심장협회 \"비만 치료의 핵심은 신체 활동\"&nbsp;&nbsp;조선일보\"운동만 하면 체중의 2~3% 빠지지만…심장·혈관엔 좋다, 왜?\"&nbsp;&nbsp;네이트심장병 예방하려면 매일 1시간 반은 뛰어야...연구&nbsp;&nbsp;디지털투데이“하루 4분 운동으로 혈당 잡는다”…‘스낵 운동’ 주목&nbsp;&nbsp;미주한국일보",
+      "summary": "심장 건강엔 역시 운동...유전적 원인으로 인한 심장병 발생 확률도 낮춰&nbsp;&nbsp;코메디닷컴살 안 빠져도 운동해야… 美심장협회 “비만 치료의 핵심은 신체 활동”&nbsp;&nbsp;v.daum.net\"운동만 하면 체중의 2~3% 빠지지만…심장·혈관엔 좋다, 왜?\"&nbsp;&nbsp;네이트하루에 1만 보를 걸으면 장시간 앉아 있는 것과 관련된 질병 및 사망 위험을 줄일 수 있습니다.&nbsp;&nbsp;Vietnam.vn하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -378,6 +426,18 @@
       ]
     },
     {
+      "id": "9859d9743f27",
+      "title": "“5년 이내 암 위험 3배 높인다”… ‘이 습관’ 고쳐라 - 헬스조선",
+      "published": "2026-06-01T14:00:00+00:00",
+      "summary": "“5년 이내 암 위험 3배 높인다”… ‘이 습관’ 고쳐라&nbsp;&nbsp;헬스조선뇌 노화 늦추는 최적 수면 시간은?… 여성 6.5~7.8시간, 남성 6.4~7.7시간&nbsp;&nbsp;v.daum.net불면증 있는 50세 미만 성인, 일부 암 위험 최대 3배[노화설계]&nbsp;&nbsp;동아일보주말 늦잠이 보약?…알고 보니 수명 깎아먹는 '최악의 습관' [건강!톡]&nbsp;&nbsp;한국경제밤마다 잠 설치는 50세 이하 여성…암 발생 위험 3배 커진다&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FN0pNTkRxZXF1a19nYTVLQ3pHQk9HVU5BYkwyamloVXlOQmtsdWNNTzctakloWjNma05yMThFdHZsaXdBYUdNOWZRazlzUUxIcVI4emRRZjZCbHB6aEFrVzNEbzloNDM1S0tlMTZiTW5teGpfQlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ec0da44349b6",
       "title": "팔다리 가늘어졌는데 배는 그대로?...65세 미만 男, 치매 위험 3배↑ - 디멘시아뉴스",
       "published": "2026-06-01T10:28:58+00:00",
@@ -402,6 +462,18 @@
       ]
     },
     {
+      "id": "f9b58bc13abb",
+      "title": "'빙수 먹자 머리 띵'…아이스크림 두통, 편두통 위험 신호일 수도 - 동아사이언스",
+      "published": "2026-06-01T06:45:00+00:00",
+      "summary": "'빙수 먹자 머리 띵'…아이스크림 두통, 편두통 위험 신호일 수도&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFZ3ZRMllfOXg3d3VSRlJ2MEY4bUJCSHpQUUNVT1otZ0dNSG5tZElPVllpbnhRVTVrWjRDS1VwZWFEc0U0VWhwNUhOb2R5b2EzZmZrNg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6d98f4c6f492",
       "title": "소아암 생존자, 항암 부작용 막으려면 운동해야 - 헬스조선",
       "published": "2026-06-01T06:20:00+00:00",
@@ -414,14 +486,14 @@
       ]
     },
     {
-      "id": "ad18eea5ff0f",
-      "title": "DGIST, 스트레스서 뇌세포 살리는 ‘죽음의 유전자’ 역할 규명 - MIT 테크놀로지 리뷰",
-      "published": "2026-06-01T05:49:26+00:00",
-      "summary": "DGIST, 스트레스서 뇌세포 살리는 ‘죽음의 유전자’ 역할 규명&nbsp;&nbsp;MIT 테크놀로지 리뷰DGIST, 만성 스트레스에서 뇌세포 보호하는 유전자 세계 최초 규명&nbsp;&nbsp;v.daum.net“죽음의 유전자 역설”, 뇌세포 살리는 스트레스 방어 메커니즘 규명&nbsp;&nbsp;BRIC항암제로 ‘우울증·기억장애’ 예방 성공…신개념 뇌질환 치료제 나온다&nbsp;&nbsp;헤럴드경제‘죽음의 유전자 역설’···뇌세포 살리는 스트레스 방어 작동원리 첫 규명&nbsp;&nbsp;경향신문",
+      "id": "28972995d0b4",
+      "title": "DGIST 연구팀, 만성 스트레스 막는 뇌 줄기세포 생존 비밀 세계 최초 규명 - BBS불교방송",
+      "published": "2026-06-01T05:52:54+00:00",
+      "summary": "DGIST 연구팀, 만성 스트레스 막는 뇌 줄기세포 생존 비밀 세계 최초 규명&nbsp;&nbsp;BBS불교방송DGIST, 만성 스트레스에서 뇌세포 보호하는 유전자 세계 최초 규명&nbsp;&nbsp;v.daum.net“죽음의 유전자 역설”, 뇌세포 살리는 스트레스 방어 메커니즘 규명&nbsp;&nbsp;BRIC항암제로 ‘우울증·기억장애’ 예방 성공…신개념 뇌질환 치료제 나온다&nbsp;&nbsp;헤럴드경제‘죽음의 유전자 역설’···뇌세포 살리는 스트레스 방어 작동원리 첫 규명&nbsp;&nbsp;경향신문",
       "sources": [
         {
-          "name": "MIT 테크놀로지 리뷰",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQeWpRZXdmVmQtQUtidGlTVmJIdEJyX3ZqMUZMS3hxWUQ4Y3RxejFXMW9XMmxJdDNndXpMamxBYjIwYlBxbGFpbTRyc2xrMk1hLUhQZW42WmlaQ09MY1ZIZG1wZTNGVkItWHNqVk05UDNjM01zYmtsMDBsTHhhQlBaeG9aQmxVRTl0VW95RHQ2bThKOXJYdFg5Q3YzUHhlX2dKN1ZjWHBPZW9YeU5SVGEyeUtadkp4SFBxOGhSX1FlaEl1c3g4UHFqUDkzdVZZTEt0M3dncVBoU1RTcDdHZ3A3d2FNZjZyMzd1bVIxLWN2VVdwUzFESG9fcVRMQTc3d2xrMFM3c0tUc0NEUGtBQlVrUVlFZFI1VTJQak14S0Zjd2xQX2h1dmRLb0xUaC1qRmlCbkFWWFZsc212QzE4M0h2V3RIb3NjM0YzUngyc3d6cUdDXzFK?oc=5"
+          "name": "BBS불교방송",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0dTE2bkFaQ1VkbjVfQWxlaWN5dWlFR0xOcUxXWGRHd1RsdlkyTjVUQ2kwbWlqeWZOck8wbnB0SWJwOXhTbVNPa0JPeExfV0czM25NZ2ZmeG1XZ3QzcW1FanBFXzNWSWs5cG9V?oc=5"
         }
       ]
     },
@@ -434,54 +506,6 @@
         {
           "name": "메디컬투데이",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFeW4tVm11c1RMdHJMdUVDX3lpaDlnSm9wYUhYY0p3a3ZFbkFoYVZ6X2V3d290Y1p3cmtfcWh3dEVTU1JIYlFKZEJ4bTFOVzNXSjFaQVE5SFNTWDJKLXRZVkZ30gFsQVVfeXFMT0lCeUYtaXhiZlpmX2pvZWJBTV9ORGVJekdMMllCczFsbVJMWGVLM3dKRGk1dkdiZkNUeW9oR05jLWp3RXVsdXhaRzFUazlYUWNhZHhuZW9jNTBaQTVfTnlHV1pwRU9YWkV3Ny1T?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e8ab06fd3136",
-      "title": "\"낮엔 덥고 실내는 춥고\"...초여름 감기 앓는 아이들, 호흡기 건강 관리 '주의보' [고혜련 원장 칼럼] - 하이뉴스",
-      "published": "2026-06-01T01:51:13+00:00",
-      "summary": "\"낮엔 덥고 실내는 춥고\"...초여름 감기 앓는 아이들, 호흡기 건강 관리 '주의보' [고혜련 원장 칼럼]&nbsp;&nbsp;하이뉴스여름철 어린이들은 하루에 물을 얼마나 마셔야 할까요?&nbsp;&nbsp;Vietnam.vn올여름 어린이들의 바이러스성 발열에 각별히 주의하세요.&nbsp;&nbsp;Vietnam.vn날씨가 가장 더울 때, 아이들은 여러 위험한 질병에 더 취약해집니다.&nbsp;&nbsp;Vietnam.vn추가 접종을 잊어버린 부모: 아이가 심각한 병에 걸리자 충격을 받은 부모들.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "하이뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4N0E3OW1SN2NmbGpzYWFFRDdRcXNJM2xmdFBTY3I4X0ZJaDNQbTR2eUVSaTZlYVNnNjJOQTZiTGdhb1VVanJDY2pnUjVmQ0xNMS1LSmhOa2NWOW03c2lHNWh0RkdUWXZvQ2YzM2dmSFJOWFA2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a1dccd911c49",
-      "title": "“비만약 3주차, 생리가 끊겼어요”…무성했던 부작용 루머, 진짜였다 - 매일경제",
-      "published": "2026-06-01T01:38:14+00:00",
-      "summary": "“비만약 3주차, 생리가 끊겼어요”…무성했던 부작용 루머, 진짜였다&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfRzNMb3RMM19wZnJsb2Z2cFpJS2NzcFlDY1BUYnJVMWRQZVZHVTY1ZUtNWmFNUWdFTWVMZkVUYmtSamY2ZlU4b2RhUHlJdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2a5edccfcb7",
-      "title": "점점 늘어나는 고령층 위장약 처방 … 전체 PPI 사용량 5년 새 53% 증가 - 헬스코리아뉴스",
-      "published": "2026-05-31T23:28:00+00:00",
-      "summary": "점점 늘어나는 고령층 위장약 처방 … 전체 PPI 사용량 5년 새 53% 증가&nbsp;&nbsp;헬스코리아뉴스",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5hS1hxZ1Znd3J3S1FGNVA4aUVXbXQ3UE5DT3ppdTVESXVaNjFmd2NITlVTcFhmV0JOb3ZyeVpTTEFoQ3NwZkJaZndVLXpnTm9XYkFUajJZWTRsZzJJQmY1VGlaWVBPQUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16a5aa6728aa",
-      "title": "SK케미칼 기넥신 매일 먹었더니…초기 알츠하이머 환자 치매 막았다 - 이데일리",
-      "published": "2026-05-31T23:21:02+00:00",
-      "summary": "SK케미칼 기넥신 매일 먹었더니…초기 알츠하이머 환자 치매 막았다&nbsp;&nbsp;이데일리",
-      "sources": [
-        {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa0UycEJJdjh0YnJDY2E3aldNZm91NUNGSkwxQkJ3cGtGV19iQzlZankyc0JIdFFKeXluOU9IclJEMlhDWDVKcEJxanJXQVBDNWJsUG9jd2FrN0ZXZThncVZnbHY1VjJYQXliYm15anlKX2ZfZmRGUTg0OUw3OFM1NQ?oc=5"
         }
       ]
     },
