@@ -1,31 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-03T04:26:36.653474+00:00",
-  "total_fetched": 66,
-  "unique_count": 65,
-  "health_related_count": 43,
+  "fetched_at": "2026-06-03T11:05:42.563913+00:00",
+  "total_fetched": 68,
+  "unique_count": 67,
+  "health_related_count": 40,
   "news": [
     {
-      "id": "e8ac0e3faedf",
-      "title": "뉴로테리어 - 교수신문",
-      "published": "2026-06-03T01:43:55+00:00",
-      "summary": "뉴로테리어&nbsp;&nbsp;교수신문집만 바꿔도 치매위험 35% 뚝…'이때' 해야 효과&nbsp;&nbsp;뉴시스벽지·조명 바꾸면 치매 위험 낮춘다&nbsp;&nbsp;한국경제[신간] 손혜주 교수 '뉴로테리어: 늙지 않는 뇌를 위한 공간 처방' 출간&nbsp;&nbsp;메디칼업저버“집이 뇌 건강 바꾼다”...중앙대병원 손혜주 교수, 《뉴로테리어》 출간&nbsp;&nbsp;더퍼스트미디어",
+      "id": "a75a83f6640a",
+      "title": "암컷만으로 10만 년 살아남은 물고기의 비밀 - 조선일보",
+      "published": "2026-06-03T08:25:00+00:00",
+      "summary": "암컷만으로 10만 년 살아남은 물고기의 비밀&nbsp;&nbsp;조선일보",
       "sources": [
         {
-          "name": "교수신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BSW9lRmo3dXM5bTlCWHJXZF9jc1R2cFhNa2RzOFlWVVN2UmREbzRYcVU1NWhEeVZQMW10d3JLTlg2OS1uaEJzLVRSU1h0Nl81VER4N3l1aU9GTWdLWWtmd001TUNnUGs?oc=5"
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbktnSWlDTHQ3dmZtTGVnRjJyZ3JXZ3I5MTNBM1JzdVJLZjNqSmlqUVBYV3JUUGZwTWZmalZkUVlqM2FnTFllRjdKQnhWNnV4VHU2WDBRTEIxVWNLdlVUZmlKUzREUHpQZHRWN0lCcUZwX21zVnc0WVdNeU5GQ3JWV1NFaTA3ZEx3Sm9MVDNxVEF1TElUZ2NIWklFWGkxQQ?oc=5"
         }
       ]
     },
     {
-      "id": "d217bb9069da",
-      "title": "돼지 신장·간 ‘53살 뇌사자’에 동시 이식하자…5일간 정상 작동했다 - 한겨레",
-      "published": "2026-06-03T00:53:00+00:00",
-      "summary": "돼지 신장·간 ‘53살 뇌사자’에 동시 이식하자…5일간 정상 작동했다&nbsp;&nbsp;한겨레한 사람 몸에 돼지 장기 3개 세계 최초 동시 이식&nbsp;&nbsp;동아사이언스돼지 몸에서 인간 장기 키운다…중국 러브콜 뒤로 하고 한국 온 석학 - 머니투데이&nbsp;&nbsp;머니투데이돼지 간과 콩팥, 사람 몸에 통째로…세계 최초 이식 성공&nbsp;&nbsp;리드경제中 연구진, 돼지 간·신장 2개 동시에…인간 이식 세계 첫 성공&nbsp;&nbsp;v.daum.net",
+      "id": "b331f0907ab2",
+      "title": "남편보다 오래 살지만… 왜 아픈 사람이 많을까? 중년 여성의 건강 장수는? - 코메디닷컴",
+      "published": "2026-06-03T08:01:00+00:00",
+      "summary": "남편보다 오래 살지만… 왜 아픈 사람이 많을까? 중년 여성의 건강 장수는?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfekt0d0VVdEU1ZXgtTlBMLWpHRzR5TzVsQ2xxbXhDbWUtM2ZVVWVoMlJNZGZqejd3N05HQUFpc1lsamVYQ1QyamRBZ2NQU1BCSERvWDdQRzlOVkN0aGM4X3R6MjNJY3dST0ZNMkNyc1E5dw?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XMHk3QXZRX3NyYUZpSjNQYWtaai1pY3RpSW9yeTVBUG53d09vLURSazJMdlB5VUtYU1JWN2ZaSVZGZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b69cc242e37f",
+      "title": "“통째로 드세요”… 유방암 위험 낮추는 과일 4가지 - 헬스조선",
+      "published": "2026-06-03T08:00:00+00:00",
+      "summary": "“통째로 드세요”… 유방암 위험 낮추는 과일 4가지&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BaUktVGFMMktHdXRXOHhhNTZLMmx5VFlkNDNPbWFCb2ZxMWRSY3EtNTZ3TWNnVGRDZWFKVTRIMG9lX3ZmbjdpLW1Ba2I2TVlnZmdIeW1iMXcwOEppYi0yS0Q0UnRUaU5jV3BEV0w4S0NpS2Z2VGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad12d7761b60",
+      "title": "구글 계열사, 미국서 모기 3,200만 마리 방사 추진…“질병 막기 위한 실험” 논란 확산 - 기후에너지경제",
+      "published": "2026-06-03T06:16:28+00:00",
+      "summary": "구글 계열사, 미국서 모기 3,200만 마리 방사 추진…“질병 막기 위한 실험” 논란 확산&nbsp;&nbsp;기후에너지경제“모기 3200만 마리 미국에 풉니다” 밝힌 구글…그 이유는 모기 잡기 위해?&nbsp;&nbsp;서울경제구글, 모기 3200만마리 방사 추진⋯무슨 일이길래&nbsp;&nbsp;v.daum.net\"불임 모기로 모기 박멸\"…구글의 이색 방역 실험&nbsp;&nbsp;아시아경제“구글이 왜 모기를?”…6400만 마리 풀겠다니, 美 발칵 뒤집힌 이유 [핫이슈]&nbsp;&nbsp;나우뉴스",
+      "sources": [
+        {
+          "name": "기후에너지경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXNi1qTWRhS055Y0k5Nmt6VlNHZGVZTFgyaVJJbnduTmlEWlh6ZnVQZW4ta0M5LTRScENSeUlGcnlpbTRUVUFnUTd2am5ENFU4V1pjcHZvaXRrNm5Id3pmek1ZRUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46d2e7f57001",
+      "title": "지끈지끈 편두통 있으면 뇌가 빨리 늙어…증상 완화에 도움 되는 방법과 식품은? - 네이트",
+      "published": "2026-06-03T06:08:06+00:00",
+      "summary": "지끈지끈 편두통 있으면 뇌가 빨리 늙어…증상 완화에 도움 되는 방법과 식품은?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CTXl3N3o4UWV1MHJ6U3pyMWpoMlhTOWRUUmlEZ2NrYk9STi1IeFpOS054elo4b0F5Nk9nSi01a3JTVVJ3SnpseEljcTFPbWNYWW5NUmZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89ddea1b5d48",
+      "title": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과 - 코메디닷컴",
+      "published": "2026-06-03T05:53:00+00:00",
+      "summary": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과&nbsp;&nbsp;코메디닷컴운동했는데 살이 안 빠졌다…체중계가 못 본 변화&nbsp;&nbsp;네이트하루에 1만 보를 걸으면 장시간 앉아 있는 것과 관련된 질병 및 사망 위험을 줄일 수 있습니다.&nbsp;&nbsp;Vietnam.vn하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥심장 건강엔 역시 운동...유전적 원인으로 인한 심장병 발생 확률도 낮춰&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBicE96RVZXWk51SW5jSDA2Mzl3MjJMdVpLNnkxSGw2UGlhRWlDVWNyMGdvano3dGlIS2d6a01pQkFwUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8ac0e3faedf",
+      "title": "뉴로테리어 - 교수신문",
+      "published": "2026-06-03T01:43:55+00:00",
+      "summary": "뉴로테리어&nbsp;&nbsp;교수신문‘집 구조만 바꿔도 치매 위험 35% 감소!’ 뇌의학자가 말하는 치매 예방 인테리어&nbsp;&nbsp;v.daum.net벽지·조명 바꾸면 치매 위험 낮춘다&nbsp;&nbsp;한국경제집만 바꿔도 치매위험 35% 뚝…'이때' 해야 효과&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "교수신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BSW9lRmo3dXM5bTlCWHJXZF9jc1R2cFhNa2RzOFlWVVN2UmREbzRYcVU1NWhEeVZQMW10d3JLTlg2OS1uaEJzLVRSU1h0Nl81VER4N3l1aU9GTWdLWWtmd001TUNnUGs?oc=5"
         }
       ]
     },
@@ -102,18 +162,6 @@
       ]
     },
     {
-      "id": "d87af3b8cd5c",
-      "title": "주민등록상 나이 말고 ‘진짜 내 몸 나이’ 재는 시계 나왔다[후암동 논문 연구소] - 헤럴드경제",
-      "published": "2026-06-02T12:10:01+00:00",
-      "summary": "주민등록상 나이 말고 ‘진짜 내 몸 나이’ 재는 시계 나왔다[후암동 논문 연구소]&nbsp;&nbsp;헤럴드경제",
-      "sources": [
-        {
-          "name": "헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TRmc4aXNVbVlfak1CUjFBX2d6TnhJQkRGcE1yWGhrWU53LWhxVDFsMHZlenh6X2dORlZQWW1mdG1OSG14djB4bmlaT2psWlAyYzlaV0ln?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b32540c9ff85",
       "title": "구강 내 세균, 위암과 연관성 입증 주목 - 치의신보",
       "published": "2026-06-02T11:59:35+00:00",
@@ -126,6 +174,18 @@
       ]
     },
     {
+      "id": "fdb6dd99415a",
+      "title": "혈액 속 ‘이 물질’ 쌓일수록 피로감 커져… 의욕도 떨어진다 - 하이닥",
+      "published": "2026-06-02T11:30:00+00:00",
+      "summary": "혈액 속 ‘이 물질’ 쌓일수록 피로감 커져… 의욕도 떨어진다&nbsp;&nbsp;하이닥스트레스에는 마그네슘, 무기력에는 '이것'… 내 피로에 도움 되는 영양제는?&nbsp;&nbsp;하이닥[헬스&라이프] \"쉬어도 방전돼\"…몸이 보내는 경고, 만성피로증후군&nbsp;&nbsp;디지털데일리\"충분히 자도 피곤하다면?\" 비타민 부족이 원인일 수도&nbsp;&nbsp;강원지방신문[1인 가구 헬스케어] '만성 피로' 지속되면 질병 의심해야&nbsp;&nbsp;1코노미뉴스",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hQWNQWTEwUWRNOGYybDJEOHRiY3dWb1ZyTTBtN1VZTFhFYWhXTWhSY1pUV2QzekxJVERSVEF0b1VOeEVlS01IUHlxOEdPdm5zeE1SWjAzUV9EOFluZmoyaE1sVlFXT0VTTUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "156f68f30255",
       "title": "\"코에 뿌렸더니 기억력 회복\"… 줄기세포 추출물, 치매 치료 가능성 확인 - 하이닥",
       "published": "2026-06-02T11:00:00+00:00",
@@ -134,30 +194,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85YjBlUFA2bGxqRzdDQmNkcVRjc3hKcWZJRHA4N3RWNWNMZDZlZXFNTDV3bVREdlVRRVBlQ1hxNzlteTVkeXZYR2FOazIyRUx0VlprdDZVV2FIMURITWFfUk5CaHNLVWJ0LXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ae6e88bd575",
-      "title": "오래된 적혈구가 쌓여 만든 자성…새의 뱃속에 숨은 GPS - 파퓰러사이언스",
-      "published": "2026-06-02T10:55:20+00:00",
-      "summary": "오래된 적혈구가 쌓여 만든 자성…새의 뱃속에 숨은 GPS&nbsp;&nbsp;파퓰러사이언스[표지로 읽는 과학] 비둘기 귀소능력 비밀, 간 속에 있을까&nbsp;&nbsp;v.daum.net88올림픽 비둘기 '사고'...자기장 항법장치 탓일까&nbsp;&nbsp;강찬수의 에코파일비둘기의 놀라운 'GPS 추적'&nbsp;&nbsp;Vietnam.vn수백킬로 날아도 집 찾는 비둘기 비밀, 간 속 면역세포?&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "파퓰러사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aZ01KUVp5dkF0Y0c0TXV2elVEbjZJUlE3b2JOOHlxZnQ4c0llYmJvYVc3WVZvbTZIT0tVR2NYUEIxV2toTksxaEZIX2hIazlhUU44SVg4MW5qVHhQSVJHNW1POHJHcFNfbGfSAW5BVV95cUxPLVVsdGNiYUdaOUhMazBmbEhUcFF1N3c3WEUtcjdMdV95RndEb3QtaWdNdEozUGtVMHhZX3Y2eWNmVE0ySzZwWDlvQzFEZVFTUjYwclhtTW1pdmpZY0RSTTZ4ZTBsOVYyNEVlUmMzdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a5be7aef7ae9",
-      "title": "\"만성피로는 신체의 경고 신호\"... 6개월 넘으면 '에너지 대사'부터 점검 - 하이닥",
-      "published": "2026-06-02T10:00:00+00:00",
-      "summary": "\"만성피로는 신체의 경고 신호\"... 6개월 넘으면 '에너지 대사'부터 점검&nbsp;&nbsp;하이닥스트레스에는 마그네슘, 무기력에는 '이것'… 내 피로에 도움 되는 영양제는?&nbsp;&nbsp;하이닥[헬스&라이프] \"쉬어도 방전돼\"…몸이 보내는 경고, 만성피로증후군&nbsp;&nbsp;디지털데일리\"충분히 자도 피곤하다면?\" 비타민 부족이 원인일 수도&nbsp;&nbsp;강원지방신문[1인 가구 헬스케어] '만성 피로' 지속되면 질병 의심해야&nbsp;&nbsp;1코노미뉴스",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zZFpHd0ZPbnVRNHNNTVZiSGlzanE1Qi02TlA3VDlBdXBCaDk2X0NadlFIT3laWEVYS1U1X1RrejF1WE1KUEdtRXFlSElFWkFteTQ5VmVRbmdhMk5yRnN2QzJZOVB1UDI2OEE?oc=5"
         }
       ]
     },
@@ -213,7 +249,7 @@
       "id": "9dbe6a4c1bad",
       "title": "하루 한두 잔의 커피, 심장에 정말 도움이 될까 - 블랙워터이슈",
       "published": "2026-06-02T07:58:52+00:00",
-      "summary": "하루 한두 잔의 커피, 심장에 정말 도움이 될까&nbsp;&nbsp;블랙워터이슈커피·채소·유제품, 심혈관질환 위험 ↓…국내외 151개 연구논문 분석&nbsp;&nbsp;세계일보커피·채소·유제품 섭취, 심혈관질환 위험 낮아진다&nbsp;&nbsp;에너지경제신문",
+      "summary": "하루 한두 잔의 커피, 심장에 정말 도움이 될까&nbsp;&nbsp;블랙워터이슈커피·채소·유제품, 심혈관질환 위험 ↓…국내외 151개 연구논문 분석&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "블랙워터이슈",
@@ -270,18 +306,6 @@
       ]
     },
     {
-      "id": "0e07edd1f65a",
-      "title": "모기 매개 감염병 억제 나선 구글…'불임 수컷모기' 3200만마리 방사 승인 요청 - v.daum.net",
-      "published": "2026-06-02T04:47:53+00:00",
-      "summary": "모기 매개 감염병 억제 나선 구글…'불임 수컷모기' 3200만마리 방사 승인 요청&nbsp;&nbsp;v.daum.net“모기 3200만 마리 미국에 풉니다” 밝힌 구글…그 이유는 모기 잡기 위해?&nbsp;&nbsp;서울경제구글, 모기 3200만마리 방사 추진⋯무슨 일이길래&nbsp;&nbsp;v.daum.net\"불임 모기로 모기 박멸\"…구글의 이색 방역 실험&nbsp;&nbsp;아시아경제\"수컷 모기 3200만 마리 풀겠다\"… 빅테크 구글, 실험 나선 이유는&nbsp;&nbsp;한국일보",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HN3FYVk5YV2tKcFJqTVhPUjRvN1ItX0xfYkNSQnpTNWFRbjM4UzZBN1dYcTZFTXIyOGp1akQ2VlljZ3oyRzE2OW1IanlYWkk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3444763fa0f6",
       "title": "알츠하이머, 약물 아닌 초음파 치료로 원인 물질 65% 제거 - 코리아헬스로그",
       "published": "2026-06-02T03:14:06+00:00",
@@ -302,6 +326,18 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LaGNCb1FFZzNFZmhIREJWamZnNXBVdXRSNjZndld1Y2hqVnpsNUpST09PSUhPZGMwOUxIZ0FzZmFQYXNiV1YybjFIbFFDck5uenRWY1VtcElOSGVKY2xLOFpkdEltaUJkeVd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5ddb3ffcf59",
+      "title": "中, 돼지 간·신장 동시 이식 첫 성공...인간 체내서 5일간 기능 유지 - 하이닥",
+      "published": "2026-06-02T02:00:00+00:00",
+      "summary": "中, 돼지 간·신장 동시 이식 첫 성공...인간 체내서 5일간 기능 유지&nbsp;&nbsp;하이닥돼지 신장·간 ‘53살 뇌사자’에 동시 이식…5일간 정상 작동했다&nbsp;&nbsp;한겨레한 사람 몸에 돼지 장기 3개 세계 최초 동시 이식&nbsp;&nbsp;동아사이언스돼지 몸에서 인간 장기 키운다…중국 러브콜 뒤로 하고 한국 온 석학 - 머니투데이&nbsp;&nbsp;머니투데이돼지 간과 콩팥, 사람 몸에 통째로…세계 최초 이식 성공&nbsp;&nbsp;리드경제",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zOUd2ckQ3cnoyX3hvdkgtTzF2ZUY2bjdnVUdTMjNrdVNGaGtzREVIaW16Um5qMVo5TWZwanJNNnNrU3k4OWkyOEZ2eWpRLXJvM1lzRGd5OXRpU284M3lFamJLNm5ucW1rWnc?oc=5"
         }
       ]
     },
@@ -350,18 +386,6 @@
         {
           "name": "데일리굿뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hWHAtejllWmlrTlFtc1dBekM0MjUwMkgyU2FBZ3Y0YlFudGRMdnAyRTBFN2NoTUhkTzdmS1lUQTRaQjJUWVhtelQ1NDBEQ2hQMUlrMVplaTRwSDlIclVvbFJOMHpSU3IyYlhaSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae823c2d5697",
-      "title": "심장 건강엔 역시 운동...유전적 원인으로 인한 심장병 발생 확률도 낮춰 - 코메디닷컴",
-      "published": "2026-06-02T00:07:00+00:00",
-      "summary": "심장 건강엔 역시 운동...유전적 원인으로 인한 심장병 발생 확률도 낮춰&nbsp;&nbsp;코메디닷컴살 안 빠져도 운동해야… 美심장협회 “비만 치료의 핵심은 신체 활동”&nbsp;&nbsp;v.daum.net\"운동만 하면 체중의 2~3% 빠지지만…심장·혈관엔 좋다, 왜?\"&nbsp;&nbsp;네이트하루에 1만 보를 걸으면 장시간 앉아 있는 것과 관련된 질병 및 사망 위험을 줄일 수 있습니다.&nbsp;&nbsp;Vietnam.vn하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HNHp5WnpmTDgxWUoyUVBjblBxSVZPcFRQblhGSEdJQmNsZ0xCY01GQzlMd3BrcWJSNUhLOUtpeEJfZw?oc=5"
         }
       ]
     },
@@ -446,66 +470,6 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wWUN2VkNoZndaNEVhQlUtSHVoaVVsWjRfd2lMZzVJb2pQOWs5WTNJUjZiN2M2OEJFZDJpY0d1OERLRjUtZHZHV2N3VTFxZUxKSW1tVF92WEVzblhxSnRzcDNaMlZSRVd4THFnZnRJMkNLUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a6aa9c6567a0",
-      "title": "젊은 장내세균 돌려받은 쥐…간암이 생기지 않았다, 노화 연구의 새 단서 - 코메디닷컴",
-      "published": "2026-06-01T09:35:00+00:00",
-      "summary": "젊은 장내세균 돌려받은 쥐…간암이 생기지 않았다, 노화 연구의 새 단서&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54Wl9IQnpaSXVuLTNhamkza2M0anlPeXU0dXFYWDZxMTVpNlQ2YXZMQ2d1bGRNalN1bkp1RExKNUpYQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f9b58bc13abb",
-      "title": "'빙수 먹자 머리 띵'…아이스크림 두통, 편두통 위험 신호일 수도 - 동아사이언스",
-      "published": "2026-06-01T06:45:00+00:00",
-      "summary": "'빙수 먹자 머리 띵'…아이스크림 두통, 편두통 위험 신호일 수도&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFZ3ZRMllfOXg3d3VSRlJ2MEY4bUJCSHpQUUNVT1otZ0dNSG5tZElPVllpbnhRVTVrWjRDS1VwZWFEc0U0VWhwNUhOb2R5b2EzZmZrNg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d98f4c6f492",
-      "title": "소아암 생존자, 항암 부작용 막으려면 운동해야 - 헬스조선",
-      "published": "2026-06-01T06:20:00+00:00",
-      "summary": "소아암 생존자, 항암 부작용 막으려면 운동해야&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sMnVXLWNucVNYZzlESnZBNFNld1QzLThTUXlUdDVsRzRGbHJrNms3anJGQk9DS0NONzFMUDFLWi1KN25EQnF1Q2hfUjRTbHNWaWM1ZW9HbUFSVC1iMHBkUHNWU1ktLTRxVVNlQm9WOHkwc0hGWkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28972995d0b4",
-      "title": "DGIST 연구팀, 만성 스트레스 막는 뇌 줄기세포 생존 비밀 세계 최초 규명 - BBS불교방송",
-      "published": "2026-06-01T05:52:54+00:00",
-      "summary": "DGIST 연구팀, 만성 스트레스 막는 뇌 줄기세포 생존 비밀 세계 최초 규명&nbsp;&nbsp;BBS불교방송DGIST, 만성 스트레스에서 뇌세포 보호하는 유전자 세계 최초 규명&nbsp;&nbsp;v.daum.net“죽음의 유전자 역설”, 뇌세포 살리는 스트레스 방어 메커니즘 규명&nbsp;&nbsp;BRIC항암제로 ‘우울증·기억장애’ 예방 성공…신개념 뇌질환 치료제 나온다&nbsp;&nbsp;헤럴드경제‘죽음의 유전자 역설’···뇌세포 살리는 스트레스 방어 작동원리 첫 규명&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "BBS불교방송",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0dTE2bkFaQ1VkbjVfQWxlaWN5dWlFR0xOcUxXWGRHd1RsdlkyTjVUQ2kwbWlqeWZOck8wbnB0SWJwOXhTbVNPa0JPeExfV0czM25NZ2ZmeG1XZ3QzcW1FanBFXzNWSWs5cG9V?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e349391b95dd",
-      "title": "아토플렉스, Andes virus·OZ virus 검출용 분자진단키트 개발 - 메디컬투데이",
-      "published": "2026-06-01T04:44:24+00:00",
-      "summary": "아토플렉스, Andes virus·OZ virus 검출용 분자진단키트 개발&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFeW4tVm11c1RMdHJMdUVDX3lpaDlnSm9wYUhYY0p3a3ZFbkFoYVZ6X2V3d290Y1p3cmtfcWh3dEVTU1JIYlFKZEJ4bTFOVzNXSjFaQVE5SFNTWDJKLXRZVkZ30gFsQVVfeXFMT0lCeUYtaXhiZlpmX2pvZWJBTV9ORGVJekdMMllCczFsbVJMWGVLM3dKRGk1dkdiZkNUeW9oR05jLWp3RXVsdXhaRzFUazlYUWNhZHhuZW9jNTBaQTVfTnlHV1pwRU9YWkV3Ny1T?oc=5"
         }
       ]
     },
