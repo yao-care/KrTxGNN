@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-03T16:55:14.218585+00:00",
-  "total_fetched": 72,
-  "unique_count": 70,
-  "health_related_count": 42,
+  "fetched_at": "2026-06-03T21:18:38.443318+00:00",
+  "total_fetched": 69,
+  "unique_count": 67,
+  "health_related_count": 43,
   "news": [
+    {
+      "id": "dfec85c2dbb8",
+      "title": "MASLD 환자 간암 예측 머신러닝 모델 개발···고위험군 선별 가능성 제시 - 메디칼업저버",
+      "published": "2026-06-03T20:59:21+00:00",
+      "summary": "MASLD 환자 간암 예측 머신러닝 모델 개발···고위험군 선별 가능성 제시&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aQzNiMnZKMF9lTlNxcE1ySERNX0c2RmpLRGxVdFhhaGdFQ2JRekNDQ05ray1KLWhOUlhzRHNLakRtekRtYW5KVmw5UFNwcFRFTl9yZk9nem9WejJYdGRUUmlESzJZQUdYNWRN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8629a77c8c49",
+      "title": "'다낭성 난소 증후군' 역사 속으로… 전 세계 1억 7천만 여성 앓는 질환, ‘다내분비 대사 난소 증후군(PMOS)’으로 명칭 변경 - 동포저널",
+      "published": "2026-06-03T20:50:31+00:00",
+      "summary": "'다낭성 난소 증후군' 역사 속으로… 전 세계 1억 7천만 여성 앓는 질환, ‘다내분비 대사 난소 증후군(PMOS)’으로 명칭 변경&nbsp;&nbsp;동포저널",
+      "sources": [
+        {
+          "name": "동포저널",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJc1FidllhYlloRmNTUW5GV1ZEQ05wVWZ6VTMxSXQ4N1RyT2pUdWM1MDB2V1FFMUIxbW9wclZxbER1djM0dUlqTDl2V3l5RlphY2JWcTVUd19fVjBqUng3QnFtMWIta0VfRVR0cnhWV3NIRk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a4c00786835",
+      "title": "이 뇌종양 제거했더니 당뇨병까지 개선…놀라운 연구 결과 - 리드경제",
+      "published": "2026-06-03T17:02:00+00:00",
+      "summary": "이 뇌종양 제거했더니 당뇨병까지 개선…놀라운 연구 결과&nbsp;&nbsp;리드경제",
+      "sources": [
+        {
+          "name": "리드경제",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LdDlYWUd2Q1NTTjJDeHQ1dmE0WUQwdDgxdE5qSHZScFRZVGtmNWphOFl0NVhheVg2enNPcThORVFmeVdSUVBsMGxiM0ZxdFFkODJIUnEtckNBRTVIYlRIdEpRb2EwWW1xRlJ4TmNLZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "06f1c71672b7",
       "title": "살쪄서 나빠진 수면·기억력, 운동이 되돌릴까...'비만 초파리'서 남녀 효과 달라 - 디멘시아뉴스",
@@ -30,14 +66,14 @@
       ]
     },
     {
-      "id": "15884c4853ec",
-      "title": "오렌지카운티서 올해 첫 웨스트나일 감염 모기 발견 - 라디오코리아 모바일",
+      "id": "656189fed6c2",
+      "title": "OC 올해 첫 웨스트나일 감염 모기 발견 - 라디오코리아 모바일",
       "published": "2026-06-03T11:29:00+00:00",
-      "summary": "오렌지카운티서 올해 첫 웨스트나일 감염 모기 발견&nbsp;&nbsp;라디오코리아 모바일",
+      "summary": "OC 올해 첫 웨스트나일 감염 모기 발견&nbsp;&nbsp;라디오코리아 모바일",
       "sources": [
         {
           "name": "라디오코리아 모바일",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwT3VoVExmOS1hMkZITDFvb0tOTXlIamlLYVQ1UkpkQ1l4Z1FYNFc1dGRobk5OblFrenBxMnQ5WHMzVEZ0THlYMkF2ckM3c0NCeHpLYi1BbTVyWC1EY2ZVdE9rMVM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05MTRNSXkxQjBzbjhjMXJmS3BFNW1oaWRmb3JkRlUwTFlQVF9ZSlRqRHJoV1Npb0pGcDRETUJvNElpVG9rMlp5MjBGeHFzWmtZUVo3dGNGVzVQS0VkZlNURGdGSmhIOGkzWFhnSDJzR0FMUHk2WlE?oc=5"
         }
       ]
     },
@@ -105,11 +141,23 @@
       "id": "89ddea1b5d48",
       "title": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과 - 코메디닷컴",
       "published": "2026-06-03T05:53:00+00:00",
-      "summary": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과&nbsp;&nbsp;코메디닷컴운동했는데 살이 안 빠졌다…체중계가 못 본 변화&nbsp;&nbsp;네이트하루에 1만 보를 걸으면 장시간 앉아 있는 것과 관련된 질병 및 사망 위험을 줄일 수 있습니다.&nbsp;&nbsp;Vietnam.vn하루 3분, 버스 잡으려 뛴 것만으로도… 여성 심장병 위험 최대 45% 낮춰&nbsp;&nbsp;하이닥심장 건강엔 역시 운동...유전적 원인으로 인한 심장병 발생 확률도 낮춰&nbsp;&nbsp;코메디닷컴",
+      "summary": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBicE96RVZXWk51SW5jSDA2Mzl3MjJMdVpLNnkxSGw2UGlhRWlDVWNyMGdvano3dGlIS2d6a01pQkFwUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0266af7b49a",
+      "title": "말기 간 질환 환자 3명 중 1명 겪는 근감소증...환자별 맞춤 치료 길 열려 - 메디컬투데이",
+      "published": "2026-06-03T05:09:21+00:00",
+      "summary": "말기 간 질환 환자 3명 중 1명 겪는 근감소증...환자별 맞춤 치료 길 열려&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52UjMtMFFUdldfR3pwLUxrZDFaTGhhTmhUQ0tQWGVMSmJ5eDlYNlRFeUtwQk1vaU5zb3owY0V0NFh2WWhqdGUwOEJlUGFYcUFRZ21jOXU3cTlLekFGUldEeWlB0gFsQVVfeXFMTnF0WjhmWDIycXY4MjdwRlBORmktR3VoTjYwc1gwejVFRzBIT25mQ0RKVEJGNE5IbEg3TWtRZmZMWHFhd21HSG10MXdmTkQwUWZCdmxidFlnV1V1Um1ORGhwQ3BkdDJpM2s5cTI4?oc=5"
         }
       ]
     },
@@ -186,6 +234,18 @@
       ]
     },
     {
+      "id": "15112b732393",
+      "title": "[헬스&라이프] \"쉬어도 방전돼\"…몸이 보내는 경고, 만성피로증후군 - 디지털데일리",
+      "published": "2026-06-02T20:00:00+00:00",
+      "summary": "[헬스&라이프] \"쉬어도 방전돼\"…몸이 보내는 경고, 만성피로증후군&nbsp;&nbsp;디지털데일리스트레스에는 마그네슘, 무기력에는 '이것'… 내 피로에 도움 되는 영양제는?&nbsp;&nbsp;하이닥\"충분히 자도 피곤하다면?\" 비타민 부족이 원인일 수도&nbsp;&nbsp;강원지방신문[1인 가구 헬스케어] '만성 피로' 지속되면 질병 의심해야&nbsp;&nbsp;1코노미뉴스[근거기반 한약제제의 최신임상동향] 만성 피로 증후군에 대한 공진단의 최근 임상동향&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "디지털데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZTTdNX2Fwc3BiQkJ1T0k0ZklFQUttdWhhYmxqdHo5d0J5WWJySG5SeTFUdnZ3bThLMG45MkZETTcxUUU3TDdYdWRvYU00RmV4Q2VLM2dRMk1Oa0FHdC05czdnNkY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "85bc4ace6954",
       "title": "5760억 쏟아붓는다…'뇌질환 정복' 나선 거물들 - 리드경제",
       "published": "2026-06-02T16:42:00+00:00",
@@ -222,14 +282,14 @@
       ]
     },
     {
-      "id": "fdb6dd99415a",
-      "title": "혈액 속 ‘이 물질’ 쌓일수록 피로감 커져… 의욕도 떨어진다 - 하이닥",
-      "published": "2026-06-02T11:30:00+00:00",
-      "summary": "혈액 속 ‘이 물질’ 쌓일수록 피로감 커져… 의욕도 떨어진다&nbsp;&nbsp;하이닥스트레스에는 마그네슘, 무기력에는 '이것'… 내 피로에 도움 되는 영양제는?&nbsp;&nbsp;하이닥[헬스&라이프] \"쉬어도 방전돼\"…몸이 보내는 경고, 만성피로증후군&nbsp;&nbsp;디지털데일리\"충분히 자도 피곤하다면?\" 비타민 부족이 원인일 수도&nbsp;&nbsp;강원지방신문[1인 가구 헬스케어] '만성 피로' 지속되면 질병 의심해야&nbsp;&nbsp;1코노미뉴스",
+      "id": "39f8370454e2",
+      "title": "“러닝머신에 플러그 하나 꽂았을 뿐인데”...걸음걸이로 치매 위험 읽는다 - 디멘시아뉴스",
+      "published": "2026-06-02T11:00:46+00:00",
+      "summary": "“러닝머신에 플러그 하나 꽂았을 뿐인데”...걸음걸이로 치매 위험 읽는다&nbsp;&nbsp;디멘시아뉴스오래 앉아 있어도 '이 활동' 하면 치매 위험 낮아진다&nbsp;&nbsp;뉴시스[자유성] 치매와 걷기&nbsp;&nbsp;영남일보똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다&nbsp;&nbsp;농민신문",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hQWNQWTEwUWRNOGYybDJEOHRiY3dWb1ZyTTBtN1VZTFhFYWhXTWhSY1pUV2QzekxJVERSVEF0b1VOeEVlS01IUHlxOEdPdm5zeE1SWjAzUV9EOFluZmoyaE1sVlFXT0VTTUE?oc=5"
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8waV9tcFg4TGxXQUtsdFVwUm9iVzZQUXF1MERaZmlSWnRQVDdSeUYzQnQzVXF3aENpcjMtc2pabDJ3Rkg4d2xTY1FwS3J6U3hCU1ViT3dDOFoxU3BENFJRdTVaUjlrRVdRZldZREZxcXh4Zw?oc=5"
         }
       ]
     },
@@ -306,30 +366,6 @@
       ]
     },
     {
-      "id": "231ada4aa67f",
-      "title": "기억을 선택하고 전환하는 뇌의 스위치 신경회로 규명… 기억 연구의 새 전환점 열다 - 카이스트신문",
-      "published": "2026-06-02T07:51:00+00:00",
-      "summary": "기억을 선택하고 전환하는 뇌의 스위치 신경회로 규명… 기억 연구의 새 전환점 열다&nbsp;&nbsp;카이스트신문",
-      "sources": [
-        {
-          "name": "카이스트신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04OF96QklIYWlxamJmYkktZURxaTJldE9WN0RKRjE0RXB6cVBkb0ZGamFDVy1QV0JRX2dZZk1ueC1JZUFTbVVkSWg0WUZGQ094TWdJVlY3QjZvX04tUktYbXVHYWRScklXYmxj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "66e525d21de5",
-      "title": "근육에 숨은 지방...심혈관질환 발병률 높여... - 후생신보",
-      "published": "2026-06-02T07:49:00+00:00",
-      "summary": "근육에 숨은 지방...심혈관질환 발병률 높여...&nbsp;&nbsp;후생신보",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFR2N4ZFBVTzMzaGhvYklqV2ZaemlMNU5iVjJBUDd4M0JWOUQ4SGtpcU96NjRGS2lmYnpjQ3JPMTV0NGFi?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5aa350841497",
       "title": "“최대 폭발력 규모 3.5 지진과 맞먹어”… 로켓 고체연료 얼마나 위험한가 - 조선비즈 - Chosunbiz",
       "published": "2026-06-02T07:47:00+00:00",
@@ -338,30 +374,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTdmYTZZZDVpaDhnelFJa3NDVndsZUhjVWUtY3RsMzExVlNjeTlpNFdJMVVZOWhEVHpJenE0UU5fYzNDbUVuWnVWeWdTczBrdVhCSXNydVRRZUZEd1hYWHNZZ2haRjNIOTBUd3JSdFB4V2VOb3Y2OTd1R3JWeVA4WE9uNDVWM3BMZE5GctIBoAFBVV95cUxNLVB0cm5RYkR1aWM4eVJ1OVQ5M05JX2N0UFZtNXRUa0FCeVpEV18ySnJldklfOW8wcTBBSl81akpkNFhwSkJmNXRYSW9kZjVVTGZsM0hSNEFlTjRRYW1mZUk5WUE0VUdNcDZKYk5MekEzZl9IOGQtaVRIdHJzbjlUOVRuTzRrcDhmWmgwYTdUWkQ2R0xELV9NZ3RiWjl2dERy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1edb614beebd",
-      "title": "완벽주의에 갇힌 MZ세대…그러나 연구 결과는 정반대였다 - 세계일보",
-      "published": "2026-06-02T07:09:10+00:00",
-      "summary": "완벽주의에 갇힌 MZ세대…그러나 연구 결과는 정반대였다&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iUlRrb1lxZTJQSFlaZ0gtN3dDWFY4QTEzbXlsUGxvalVqNVZMUE9SRXdhbW5iNE5yMjRsWF90bWhKSmwyS2pJT01keF95MXB5cThyQktPLUnSAVRBVV95cUxPR1RRUXNzVkZreC1McV82ZjZacjlDZ19PdFh5OGtNSkJGVXoxcnZDbzdhYTJRQXNkYTdfN0JyUVYzZnBuVGxpTmxWdm1VdVZTU2YtUHU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bcad96333a77",
-      "title": "문경시, 사람유두종바이러스(HPV) 예방접종 지원 대상, ‘18~26세 저소득층 여성에서 관내 여성 전체’로 확대 - 프레시안",
-      "published": "2026-06-02T06:06:08+00:00",
-      "summary": "문경시, 사람유두종바이러스(HPV) 예방접종 지원 대상, ‘18~26세 저소득층 여성에서 관내 여성 전체’로 확대&nbsp;&nbsp;프레시안봉화군, 12세 남성 청소년 대상 HPV 무료 예방접종 확대 실시&nbsp;&nbsp;gukjenews.com경제적으로 어려운 네 지역에 거주하는 12세 소녀들이 곧 무료 HPV 백신 접종을 받게 될 예정입니다.&nbsp;&nbsp;Vietnam.vn[기자수첩] 자궁경부암 백신? 이제는 '모두의 백신'&nbsp;&nbsp;네이트무안군, HPV 예방접종 지원 강화&nbsp;&nbsp;광주타임즈",
-      "sources": [
-        {
-          "name": "프레시안",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9md2ExeEdyajVsR2NuTGUxWi0tNFVPM2N3Rms3Y04zQWhoY3hMTXFwS1pOa2VvaUJLV2k0RmhlNDg4ZmlKalNEMW9LMUVPVW0xS0p2ZjBycGxUZlhDOTdYTDNTalJLZXBvM0dN?oc=5"
         }
       ]
     },
@@ -414,6 +426,18 @@
       ]
     },
     {
+      "id": "bd8240cf0b40",
+      "title": "손상된 장 점막, 줄기세포로 재생…오가노이드 치료제 개발 본격화 - 동아사이언스",
+      "published": "2026-06-02T01:38:00+00:00",
+      "summary": "손상된 장 점막, 줄기세포로 재생…오가노이드 치료제 개발 본격화&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CMGhmbzJNczJXRUk2M1h3TmR1SllmX0x0UmhHeG1BSVEzN0NnbzZld1RTekk5d0xOanp6VDA3SHlsaVpJdnZsR2ptZzdOTVdCLTdkVg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5ec545249b32",
       "title": "흡연, 음주, HPV 감염까지…‘두경부암’ 위험 높인다[e건강~쏙] - 이투데이",
       "published": "2026-06-02T01:32:00+00:00",
@@ -450,6 +474,18 @@
       ]
     },
     {
+      "id": "0bd0b66158ca",
+      "title": "밤마다 잠 설치는 50세 이하 여성…암 발생 위험 3배 커진다 - 전자신문",
+      "published": "2026-06-02T00:20:00+00:00",
+      "summary": "밤마다 잠 설치는 50세 이하 여성…암 발생 위험 3배 커진다&nbsp;&nbsp;전자신문뇌 노화 늦추는 최적 수면 시간은?… 여성 6.5~7.8시간, 남성 6.4~7.7시간&nbsp;&nbsp;v.daum.net“5년 이내 암 위험 3배 높인다”… ‘이 습관’ 고쳐라&nbsp;&nbsp;헬스조선불면증 있는 50세 미만 성인, 일부 암 위험 최대 3배[노화설계]&nbsp;&nbsp;동아일보주말 늦잠이 보약?…알고 보니 수명 깎아먹는 '최악의 습관' [건강!톡]&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGcXdscDRWWHNRZzg4ZkJnWmdEX2tvNGZIdndQQkVXMEQwcVJ4Q3lyT2p2T1pkLUlnQWJTQWJWYy1XSUlnUGU4U0gtanZtdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "34c5b00595cc",
       "title": "걸음 느리고 악력 약하면 뇌졸중 위험 높아 - 데이터솜",
       "published": "2026-06-01T23:44:00+00:00",
@@ -482,30 +518,6 @@
         {
           "name": "더바이오",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZlJSMFU5RnRHTnBFQW4xY0JaN3VMeUV6NUFBOUZYcUtOZWZxOEc3WG03aTVCWFRkTkNTYVFnYkVGVDBraEl2Tm9xWkpmYkEtZlNaaF9jUmRNLTZyQjlSWTkwNjJ2TUxtZlNDWNIBcEFVX3lxTE9zZHY4LXQwOGhiQmx5bUdmYVhrbDJPNDJ6RU81eXZrbnZIdmdISTR3UktzQnpPRXlZaUowM0tHSkE4bTVNcVRRYzluOE5RSWhLSVVQTzY0UDkzTlNleW9JTzcta1RsSFlBejVaR0dDU2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "510594296588",
-      "title": "5년 생존율 17%, 신호도 없는 췌장암…“단 음료부터 줄여라” - 세계일보",
-      "published": "2026-06-01T20:00:00+00:00",
-      "summary": "5년 생존율 17%, 신호도 없는 췌장암…“단 음료부터 줄여라”&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SMnB6Y0JxS21RcjlFeWdpak92RXFFQTNkcGludkxWRmhDRDRsLUFQVDNEWWgzcUNyc3NCQnJ3V3FTdjNDYzlHUzIzaEc1dHVIZHgtc2VFckfSAVRBVV95cUxNcE1TblZLSEIyZ1ZYV3ZrZHlDOWx2bVozSEktZkc2VWlES1ZaXzlQX0h0TzJvM3ZjSThLOWEtZGFwdHMtd2ZYR2dQMGh0aHBGdWRiNE8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3558317e5927",
-      "title": "여성호르몬 노출기간 짧을수록 폐경 후 심부전 위험 - 국민일보",
-      "published": "2026-06-01T15:07:00+00:00",
-      "summary": "여성호르몬 노출기간 짧을수록 폐경 후 심부전 위험&nbsp;&nbsp;국민일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vZnhNdjJPSDY5VWlCSlpYaG1Dd0thamFpamJMb3NuTjBmTExmYkpFNUhkbUZLVC1XSkhJWGZ5cEVPRFU5N3hucDBPMHFCY2pHWU05ZXo3Q2dsdlJhSVZ6NGpYejQyT3PSAWxBVV95cUxQX1c3QlR2R05xeXVWNHkya1M0Zy1uRjdOUHBtWTJaeWVNVDRMV2Z0QjNBajVoRUF2d1RuZ08xTkdhem9uMWtMREhBX3ctNnhSbHpUVG9zSlJiVzlSbUFjRmg5N2QyQTZucmd4eUc?oc=5"
         }
       ]
     }
