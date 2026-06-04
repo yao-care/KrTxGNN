@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-06-04T10:00:08.997789+00:00",
-  "total_count": 41,
+  "last_updated": "2026-06-04T15:22:21.223542+00:00",
+  "total_count": 40,
   "matched_count": 0,
   "news": [
+    {
+      "id": "5ac346611d1c",
+      "title": "2026년부터 당뇨·고혈압 한의 치료 건강보험 적용…방문 진료도 신설",
+      "published": "2026-06-04T14:57:09+00:00",
+      "summary": "2026년부터 당뇨·고혈압 한의 치료 건강보험 적용…방문 진료도 신설&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUd2lZRk04ejNmLU1iZEZpeHlqRC0yMEx0RzRwaTJEM2E2WEx6Zm9jRnNYMFd4LUtpeElHMXdlcjBRSENjNzE0WUtsNHI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "97f4172d45e9",
+      "title": "매일 한 입만 먹어도 암 키운다?…‘이것’ 30g에 위암 위험 9% 껑충",
+      "published": "2026-06-04T14:01:33+00:00",
+      "summary": "매일 한 입만 먹어도 암 키운다?…‘이것’ 30g에 위암 위험 9% 껑충&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3U2RYOU56QzE5WmZNVWNlVkRKWkowVUVtemsyT1BVaVgxMDM3WW9rMWlIZzIxUkJBTHZjUXdqLU9yR3kwQjJsM3BXR2VLOU54dS0tbnFtTWV3TkpTcHNwRFAtSVdpM0diMnczaEJPOV8yeWlpQWFLcFp2NA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "874f5f086356",
+      "title": "강동성심병원 신경과 김예림 교수 참여 논문, 국제학술지 게재",
+      "published": "2026-06-04T12:42:06+00:00",
+      "summary": "강동성심병원 신경과 김예림 교수 참여 논문, 국제학술지 게재&nbsp;&nbsp;메드월드뉴스",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iUW5QLVd6dExMWUNLOW9aT3lfLWpaVHZGdGQyVGt5VERnNmNrbjZ2Q1BoQnEzbk94aGQyRUllMkdjRUwzaUJjdFFjTHBkSmY3OGxwOVM1aER5UkRjRjFILXB0cWRqcVU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f00f465ed4a0",
+      "title": "밀크초콜릿 vs 다크초콜릿... 심장 건강에 더 좋은 초콜릿은?",
+      "published": "2026-06-04T10:30:00+00:00",
+      "summary": "밀크초콜릿 vs 다크초콜릿... 심장 건강에 더 좋은 초콜릿은?&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcTFSUHpxRnowT2RPREJEckZWZ1hPUHpnbFZyTmxRcnRkMWNHbWZzeDZZUWtMVkwxM3JRcDBaTFlaTGIzeDVQZHdCNlNDVEtiRG9KZHNDcy1tLVp1bEZSQjdrbDF1Rm4xUFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a9636a6a3194",
       "title": "척수 전기자극하자 뇌졸중 환자 팔 근력 32% 향상",
@@ -30,19 +82,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c83a38aaca72",
-      "title": "한림대강동성심병원 김예림 교수 연구, 국제학술지 게재",
-      "published": "2026-06-04T08:02:47+00:00",
-      "summary": "한림대강동성심병원 김예림 교수 연구, 국제학술지 게재&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iVEpyT1RyRUxmdXVtOUNqLWFNUWZNX1VtWGdDMlBQQ1FaQ0g4Z3ZSc2JXZm9ZQmNwc3hRRHd4Q1RBMzE2Z3JXQV84TnRDaUxwcHlYRE9JQjN4cVdwUGoxZ0x3Ni05UDNLUW9B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ec63ea62ab76",
       "title": "변비·심한 잠버릇이 보내는 경고… 조용히 시작되는 파킨슨병",
       "published": "2026-06-04T07:47:00+00:00",
@@ -56,9 +95,22 @@
       "matched_keywords": []
     },
     {
+      "id": "523cf231de3a",
+      "title": "“계단, 과하게 오르기만 하면 무릎 망가진다”…‘안전한 내려오기’ 운동도 병행해야",
+      "published": "2026-06-04T06:29:00+00:00",
+      "summary": "“계단, 과하게 오르기만 하면 무릎 망가진다”…‘안전한 내려오기’ 운동도 병행해야&nbsp;&nbsp;경향신문계단은 '무조건 올라야' 좋은 운동인 줄 알았는데···전문가 \"그러다 무릎 망가진다\"&nbsp;&nbsp;v.daum.net계단 오르기를 넘어, 50세 이후 무릎 건강을 조용히 해치는 세 가지 습관을 소개합니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNDZwenNWVHppd21tV21SNzRVaW1PRnpucFBRVHZQblBWV2EtcElVeXBiTFBPb1BBaTl0WmZHRkdrSjdKSFVpUzhPcnh2SEFRSldVS3YtbVk5UdIBX0FVX3lxTE1wR2tiUGxoM3ZudlBGWWc5RTRwOWRpVGhTYTJGRmZZTlAyLTQtb3hKSjVYcWg1ek5HdjdRUm9DRm56OXVIUHlrSWFLZDg2OU45Um1KRUdBcGlLQWVwdzN3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9d5d2107b06b",
       "title": "[단독]연구원 퇴근해도 로봇이 밤샘 실험…국내 첫 AI 신약 개발 자율 실험실 가보니",
-      "published": "2026-06-04T06:19:00+00:00",
+      "published": "2026-06-04T06:21:31+00:00",
       "summary": "[단독]연구원 퇴근해도 로봇이 밤샘 실험…국내 첫 AI 신약 개발 자율 실험실 가보니&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -77,19 +129,6 @@
         {
           "name": "위클리피플 인물지식가이드저널",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85OWtWMFQ1SG1xVndtV1FrZWRJZDM5WkRaNE9tZVJuSnRSeE9PM3QxeXRwWkc2RTFFM0c5V1FZRDJvcWtYV0RqX2EzNXJYUm52VHBqaU5mRHdKQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9f86a9acf863",
-      "title": "“하루 13분이면 충분하다”… 사망 위험 줄이는 운동, 어떻게 할까?",
-      "published": "2026-06-04T05:37:00+00:00",
-      "summary": "“하루 13분이면 충분하다”… 사망 위험 줄이는 운동, 어떻게 할까?&nbsp;&nbsp;코메디닷컴매일 1시간 걷고 주 2시간 근력운동…사망 위험 45% ‘뚝’[노화설계]&nbsp;&nbsp;동아일보일주일에 90~120분 근력운동, 사망위험 낮춰…120분 초과 시 추가 이점 無&nbsp;&nbsp;동아사이언스“하루 딱 13분 투자를” 심장병 사망 막는 ‘운동’의 정체&nbsp;&nbsp;헬스조선걷기를 즐기는 사람들에게 좋은 소식입니다!&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yVU1CclVvc0RWa3ZkbXFwU3E2ejNjU0RzVkVKelEzM2dYdnN6ZmFyTjVIVzFFLUFJa2JXQ0dsU3Vtdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -134,10 +173,10 @@
       "matched_keywords": []
     },
     {
-      "id": "ca91936fd4bd",
-      "title": "(칼럼) 스트레스가 인간을 살린다?",
+      "id": "d94108c85852",
+      "title": "[박숙현의 생각의 온도] 스트레스가 인간을 살린다?",
       "published": "2026-06-04T02:09:42+00:00",
-      "summary": "(칼럼) 스트레스가 인간을 살린다?&nbsp;&nbsp;용인신문DGIST, 만성 스트레스에서 뇌세포 보호하는 유전자 세계 최초 규명&nbsp;&nbsp;v.daum.net\"죽음의 유전자가 만성 스트레스 받은 뇌세포 살려\"&nbsp;&nbsp;동아사이언스스트레스 받으면 ‘자폭’하는 뇌세포 지키자…방어 메커니즘 최초 규명&nbsp;&nbsp;서울경제항암제로 ‘우울증·기억장애’ 예방 성공…신개념 뇌질환 치료제 나온다&nbsp;&nbsp;헤럴드경제",
+      "summary": "[박숙현의 생각의 온도] 스트레스가 인간을 살린다?&nbsp;&nbsp;용인신문DGIST, 만성 스트레스에서 뇌세포 보호하는 유전자 세계 최초 규명&nbsp;&nbsp;v.daum.net\"죽음의 유전자가 만성 스트레스 받은 뇌세포 살려\"&nbsp;&nbsp;동아사이언스스트레스 받으면 ‘자폭’하는 뇌세포 지키자…방어 메커니즘 최초 규명&nbsp;&nbsp;서울경제항암제로 ‘우울증·기억장애’ 예방 성공…신개념 뇌질환 치료제 나온다&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
           "name": "용인신문",
@@ -155,19 +194,6 @@
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Z2VBZU5ramhlaUQwMW5XWFBGajNoS21wakFqN0pYZEkzMjJRMm5TZEhsd2c1SGRQTk9RUWUxLTREbjFIeGRLMFFyNHdxUVRJVS05cmF2LTlPUdIBVEFVX3lxTE5XVThPQ0hEUHUtR2lKamZ2djVmdEUybFRJbG40bE9Vc0p0dGlQTkhZazNYd0lZbUNWdnN6T2tOMkJIbEhraHgwOFdLLVZmTGJCelZLRw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "59b7c516465e",
-      "title": "늙어가는 혈관을 막아라…심혈관 노화 치료의 새로운 시대",
-      "published": "2026-06-04T01:19:13+00:00",
-      "summary": "늙어가는 혈관을 막아라…심혈관 노화 치료의 새로운 시대&nbsp;&nbsp;약업신문[식이요법] '혈관 건강은 식탁에서 시작된다'&nbsp;&nbsp;약업신문심혈관 노화 바이오 신약개발 '표적·재생' 정조준&nbsp;&nbsp;약업신문늙은 혈관 시계 거꾸로 돌린다… K-제약, 심혈관 '역노화' 신약 패권 정조준&nbsp;&nbsp;약업신문",
-      "sources": [
-        {
-          "name": "약업신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmaFhnS1pGNXRkZk5POWVNQUZPNkF6M1d1a0NCbzc2cThoUWs3WlB3QWxzQ3BGS1RKVnN3VHRSV2J0T2tGUTVKNi1WSy1kYV92TEU4SUxYZGhDSWIyVE1iWTZzdXdjNUVOZTZHV0ZZdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -202,7 +228,7 @@
       "id": "4296401305eb",
       "title": "[헬스로그 명의] 자궁경부암, 모두 HPV 탓?…약 10%, HPV와 무관하다",
       "published": "2026-06-04T00:15:40+00:00",
-      "summary": "[헬스로그 명의] 자궁경부암, 모두 HPV 탓?…약 10%, HPV와 무관하다&nbsp;&nbsp;코리아헬스로그인공지능을 의료 분야에 적용하는 것에 관한 연구 프로젝트 두 건을 완료했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[헬스로그 명의] 자궁경부암, 모두 HPV 탓?…약 10%, HPV와 무관하다&nbsp;&nbsp;코리아헬스로그",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -238,14 +264,53 @@
       "matched_keywords": []
     },
     {
+      "id": "778925aeace0",
+      "title": "40대 기억력 예전 같지 않다면… 뇌 건강 관리, 지금 시작해야 하는 이유",
+      "published": "2026-06-03T23:00:00+00:00",
+      "summary": "40대 기억력 예전 같지 않다면… 뇌 건강 관리, 지금 시작해야 하는 이유&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBMkMwbndIOVdfWHhjSlBYQVNEWDBtRjA3aHdsRmRjckl4MUw2U1VXUFNQVXN3aWEwVmZ0bXZ1WTAwZERKdlJkbE9IYzNwTEExSHc4MG9LbnpIendNQXJlaU4xbUdUOFlRMnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9bce608c1fdc",
       "title": "결과 제출 앞둔 콜린 임상재평가… '1차 변수 미충족'이 변수",
       "published": "2026-06-03T21:04:00+00:00",
-      "summary": "결과 제출 앞둔 콜린 임상재평가… '1차 변수 미충족'이 변수&nbsp;&nbsp;히트뉴스간헐성 파행·어지럼증에 쓰이던 은행잎 추출물, 치매 원인물질 억제 확인&nbsp;&nbsp;조선일보더 시그널 2호, 살아있는 화석 '은행잎 추출물' 효능 집중 조명&nbsp;&nbsp;히트뉴스SK케미칼 기넥신 매일 먹었더니…초기 알츠하이머 환자 치매 막았다&nbsp;&nbsp;네이트[헬스캡슐]은행잎 추출물, ‘베타아밀로이드 응집 억제’ 효과 확인 外&nbsp;&nbsp;v.daum.net",
+      "summary": "결과 제출 앞둔 콜린 임상재평가… '1차 변수 미충족'이 변수&nbsp;&nbsp;히트뉴스간헐성 파행·어지럼증에 쓰이던 은행잎 추출물, 치매 원인물질 억제 확인&nbsp;&nbsp;조선일보더 시그널 2호, 살아있는 화석 '은행잎 추출물' 효능 집중 조명&nbsp;&nbsp;히트뉴스[헬스캡슐]은행잎 추출물, ‘베타아밀로이드 응집 억제’ 효과 확인 外&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "히트뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HbFM4ZF9QREZPN2plWHIzVWpjbXFIWTU5UHF2OE5iUlVDSzYwT2wtVnlFc1hZb1NaekhzX0s4RXQxN3VJTFQ4dDg5QVpPcnJYb2s1U3RaNzg1Z0tYQk5UcFRiQVpwQm0xYllJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "88b6e0f3445d",
+      "title": "심혈관 노화 바이오 신약개발 '표적·재생' 정조준",
+      "published": "2026-06-03T21:01:00+00:00",
+      "summary": "심혈관 노화 바이오 신약개발 '표적·재생' 정조준&nbsp;&nbsp;약업신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "약업신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cjlzVC1zY0hLbmxIWGItQk5GOWt6V0xrdUJlS0FpSVdXdi1CcGI0eS1yUkxzTUVYN3BybjNIZDRLWGhPa0lNdFlxdURlZ2huT0JSZlg5Q1JEeEpTV0F0dkFXa1NJVzVLVklaY3BKMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5c99e0575264",
+      "title": "독감·대상포진 백신이 치매 막는다?…빅파마, 100조 신경퇴행성질환 시장 정조준",
+      "published": "2026-06-03T21:00:00+00:00",
+      "summary": "독감·대상포진 백신이 치매 막는다?…빅파마, 100조 신경퇴행성질환 시장 정조준&nbsp;&nbsp;메디팜스투데이",
+      "sources": [
+        {
+          "name": "메디팜스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RbXpjWUR1YzNTc253WndvT1ZhYTRsZlVtYlZxQ3I3WGp0QjNBT08talJvXy1FOTM0bGRaWXE0VHIySVB5c3dhblJqOWVNMW1xVk9NQnNQMWxyMTJ4ejhzXzNhb0lwOGJw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -267,7 +332,7 @@
       "id": "b9149ea85723",
       "title": "대장암 진행 막는다… 당장 식탁에 올려야 할 ‘두 가지’",
       "published": "2026-06-03T19:00:00+00:00",
-      "summary": "대장암 진행 막는다… 당장 식탁에 올려야 할 ‘두 가지’&nbsp;&nbsp;헬스조선",
+      "summary": "대장암 진행 막는다… 당장 식탁에 올려야 할 ‘두 가지’&nbsp;&nbsp;헬스조선좋은 소식입니다. 오메가-3가 췌장암에 대한 \"방패\" 역할을 할 수 있습니다.&nbsp;&nbsp;Vietnam.vn좋은 소식입니다. 과학자들이 오메가-3를 이용해 암세포를 죽이는 방법을 발견했습니다.&nbsp;&nbsp;Vietnam.vn과학자들이 오메가-3 지방산을 이용해 암세포를 죽이는 방법을 발견했습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "헬스조선",
@@ -290,10 +355,10 @@
       "matched_keywords": []
     },
     {
-      "id": "15884c4853ec",
-      "title": "오렌지카운티서 올해 첫 웨스트나일 감염 모기 발견 - 라디오코리아 모바일",
+      "id": "067265152600",
+      "title": "OC 올해 첫 웨스트나일 감염 모기 발견 - 라디오코리아 모바일",
       "published": "2026-06-03T11:29:00+00:00",
-      "summary": "오렌지카운티서 올해 첫 웨스트나일 감염 모기 발견&nbsp;&nbsp;라디오코리아 모바일",
+      "summary": "OC 올해 첫 웨스트나일 감염 모기 발견&nbsp;&nbsp;라디오코리아 모바일",
       "sources": [
         {
           "name": "라디오코리아 모바일",
@@ -345,7 +410,7 @@
       "id": "89ddea1b5d48",
       "title": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과",
       "published": "2026-06-03T05:53:00+00:00",
-      "summary": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과&nbsp;&nbsp;코메디닷컴운동 할수록 더 살찌는 사람의 특징, 이런 이유가 있다&nbsp;&nbsp;GQ Korea살 안 빠져도 운동해야… 美심장협회 \"비만 치료의 핵심은 신체 활동\"&nbsp;&nbsp;조선일보운동했는데 살이 안 빠졌다…체중계가 못 본 변화&nbsp;&nbsp;네이트하루 5분 숨 차는 운동, 오래 걷기보다 중요할까? 심폐 체력의 진실&nbsp;&nbsp;미디어원",
+      "summary": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과&nbsp;&nbsp;코메디닷컴운동 할수록 더 살찌는 사람의 특징, 이런 이유가 있다&nbsp;&nbsp;GQ Korea살 안 빠져도 운동해야… 美심장협회 \"비만 치료의 핵심은 신체 활동\"&nbsp;&nbsp;조선일보운동했는데 살이 안 빠졌다…체중계가 못 본 변화&nbsp;&nbsp;네이트하루 5분 숨 차는 운동, 1시간 걷기보다 중요할 수도… 운동의 핵심은 ‘시간’ 아닌 ‘강도’&nbsp;&nbsp;미디어원",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -368,19 +433,6 @@
       "matched_keywords": []
     },
     {
-      "id": "8b9ec9f72fd7",
-      "title": "올해 콜로라도 모기 일찍 나타났다… 보건 당국 ‘뇌염 바이러스’ 주의보 - 콜로라도 타임즈",
-      "published": "2026-06-03T00:46:11+00:00",
-      "summary": "올해 콜로라도 모기 일찍 나타났다… 보건 당국 ‘뇌염 바이러스’ 주의보&nbsp;&nbsp;콜로라도 타임즈",
-      "sources": [
-        {
-          "name": "콜로라도 타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOcVJaSW5fX3RiVzZYbnNBb25ISlhpaW5GTnpRcThDOE52YURKeVdqVUVPUGZuMzlUamRSdXE1N3otSVo5cTdPR05rTXRucjhtMFFULUk1S3pHNURrZ3hhcUdqWmRzMjRiLWlaVXN0STNKRjNITWhYUzhZMlRYc0Z4cmxPMzhfSlUtTzBHM3NQb3p1UmlLeDJOUkE5LTBYZnJvUGVibW9zbHZpRVM5VjdrS0dsY1JxZEtCekF1c25HV1VsMHc0ZHJmem44eVRHaFJiX3VTcmNDUDNNcEhnejlPRG5iZkQwSUdkZ19PVHVCdTY0bWFrUi0xb1NrbFBPOVJFZzdCbHBOX3FRTnFpQVlVXzdSQ19lb2lrd2k2TWVDOHppa3FDdzl1X1ROQkFOWi1naDBEM05kNXM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "356410a150d7",
       "title": "뇌사자에게 돼지 간·신장 동시 이식…세계 첫 성공",
       "published": "2026-06-03T00:30:17+00:00",
@@ -389,19 +441,6 @@
         {
           "name": "supple.kr",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10eUhGeUluQ2dsQ3pZVnpNSFFLTkNmR2IzQzVTZklXLWtDOHZjeDV1ZFVKS252SXZBeUZVVDdMZkVzQlIxS0w1bzRqdlRBRWFFMFJrb3dBblhzODdf?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b8394d1571fe",
-      "title": "햄·소시지 즐기는 식습관, 위암·식도암 위험 키운다",
-      "published": "2026-06-02T21:30:00+00:00",
-      "summary": "햄·소시지 즐기는 식습관, 위암·식도암 위험 키운다&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zRGNBellFczVtWlJoNFNVS3NiWExxT1J0V0M2bVNudWdJZ2xDVFlBaEhJdFpLQzBTeUU3amtpT2I3N25yY0lUWTdQT0FSNGt4dVF6ejlTT3JnMVpTbHkwVnl4SkMydkdKV2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -428,58 +467,6 @@
         {
           "name": "리드경제",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rakh0bjlNRXZLUl9ZN3JwUTBRNEVqMHN0ZXVRTUgyWW51UTMtOE9GcDZERURSYXhBWHlDWjhZQmJxaGZWemhwbU92eDZqVHBTLXUwYnZadFE2V2xiM2Y3d00tMlZJZE04SWczSnltcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "be65494be3c5",
-      "title": "감기인줄 알았다가 몇 시간 뒤 혼수상태… 놓친 증상 뭘까?",
-      "published": "2026-06-02T14:00:00+00:00",
-      "summary": "감기인줄 알았다가 몇 시간 뒤 혼수상태… 놓친 증상 뭘까?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CTU5wS2lrLVowcE1LV014cDVVV3NWV2p6VjUtbnMzSFNLbEVVR2trNFBOOHVZNmdRWlNpcFhtYkNzZHFpOGMzSE5HS3BkeUVjMVM0ek9MdmxCTGJLMzNZeTdRX0tVSmp3ZVlhVUpEV2dTQ0pESlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b32540c9ff85",
-      "title": "구강 내 세균, 위암과 연관성 입증 주목",
-      "published": "2026-06-02T11:59:35+00:00",
-      "summary": "구강 내 세균, 위암과 연관성 입증 주목&nbsp;&nbsp;치의신보",
-      "sources": [
-        {
-          "name": "치의신보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mNzMwLVZ6VncxZFBKcUVrblZUQU5MRG1kZTRDaGpxMkwzXzBrejVqbEhuaWFMUTdvYm01ay14czd0bENkakFhbWhUeF94OXFmWHdhdk5Eb2JUMHA1cVFqOGF2LVFKQjZ5?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "39f8370454e2",
-      "title": "“러닝머신에 플러그 하나 꽂았을 뿐인데”...걸음걸이로 치매 위험 읽는다",
-      "published": "2026-06-02T11:00:46+00:00",
-      "summary": "“러닝머신에 플러그 하나 꽂았을 뿐인데”...걸음걸이로 치매 위험 읽는다&nbsp;&nbsp;디멘시아뉴스오래 앉아 있어도 '이 활동' 하면 치매 위험 낮아진다&nbsp;&nbsp;뉴시스[자유성] 치매와 걷기&nbsp;&nbsp;영남일보똑같이 앉아 있어도…‘치매’ 막는 습관 따로 있다&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8waV9tcFg4TGxXQUtsdFVwUm9iVzZQUXF1MERaZmlSWnRQVDdSeUYzQnQzVXF3aENpcjMtc2pabDJ3Rkg4d2xTY1FwS3J6U3hCU1ViT3dDOFoxU3BENFJRdTVaUjlrRVdRZldZREZxcXh4Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7e0395ef8bb1",
-      "title": "“당뇨병, 꾸준한 관리가 핵심… 실천 가능한 생활습관 유지해야”",
-      "published": "2026-06-02T09:30:00+00:00",
-      "summary": "“당뇨병, 꾸준한 관리가 핵심… 실천 가능한 생활습관 유지해야”&nbsp;&nbsp;하이닥잘못 관리했다간 ’말초 피부’가 괴사할 수 있다?! 당뇨병 합병증의 심각성&nbsp;&nbsp;채널A",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaRm1jc0p1M1FVaDFRcFI5emV4bm9GMXRERjZTTTc3elhjM1dSbEFSdWJ0R1k2N0lvSjBiQmpfY0hqY1lqRnJQMDh5elFUaGlkOUZCZmxmN3JOUnNwUzM1Mlltbi1uMy1HQmc?oc=5"
         }
       ],
       "matched_keywords": []
