@@ -1,10 +1,130 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-04T04:21:35.825038+00:00",
-  "total_fetched": 63,
-  "unique_count": 62,
-  "health_related_count": 37,
+  "fetched_at": "2026-06-04T10:00:08.885429+00:00",
+  "total_fetched": 77,
+  "unique_count": 76,
+  "health_related_count": 41,
   "news": [
+    {
+      "id": "a9636a6a3194",
+      "title": "척수 전기자극하자 뇌졸중 환자 팔 근력 32% 향상 - 동아사이언스",
+      "published": "2026-06-04T09:00:00+00:00",
+      "summary": "척수 전기자극하자 뇌졸중 환자 팔 근력 32% 향상&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vclJRMHpjS0ZfNFAyeURjeGM3U2tYMzBqeXdqaWdiSlNKOWxyaUtMZko4b0dsU0ZjSHhTUWtqemZOd3RpbHFzQUVQTEluaFNRTHFFRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2bdd7289608e",
+      "title": "“췌장이 보내는 마지막 경고” 무시하면 암 위험 높아진다는 신호는? - 헬스조선",
+      "published": "2026-06-04T08:20:00+00:00",
+      "summary": "“췌장이 보내는 마지막 경고” 무시하면 암 위험 높아진다는 신호는?&nbsp;&nbsp;헬스조선5년 생존율 17%, 신호도 없는 췌장암…“단 음료부터 줄여라”&nbsp;&nbsp;v.daum.net50세 이후 당뇨병과 체중 감소, 췌장암 신호일 수 있다&nbsp;&nbsp;이데일리침묵의 암 '췌장암'…흡연과의 위험한 연결고리&nbsp;&nbsp;매경헬스췌장암 예방-유튜브 게재&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVFYzMFh2b21LM1g1V0M0Vl9lRW5OalBySGlBLUZJTm1xLVJRSkdpN29qTV9Ha1B1di1lWWotNVVkYXFMTlc3TGZSaEVDeHpTckdkci1pMlVFLXdaX3JkUmpWY2xpbnhvaUxMTjBQWV82cG1DZkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c83a38aaca72",
+      "title": "한림대강동성심병원 김예림 교수 연구, 국제학술지 게재 - 메디칼업저버",
+      "published": "2026-06-04T08:02:47+00:00",
+      "summary": "한림대강동성심병원 김예림 교수 연구, 국제학술지 게재&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iVEpyT1RyRUxmdXVtOUNqLWFNUWZNX1VtWGdDMlBQQ1FaQ0g4Z3ZSc2JXZm9ZQmNwc3hRRHd4Q1RBMzE2Z3JXQV84TnRDaUxwcHlYRE9JQjN4cVdwUGoxZ0x3Ni05UDNLUW9B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec63ea62ab76",
+      "title": "변비·심한 잠버릇이 보내는 경고… 조용히 시작되는 파킨슨병 - 보건신문",
+      "published": "2026-06-04T07:47:00+00:00",
+      "summary": "변비·심한 잠버릇이 보내는 경고… 조용히 시작되는 파킨슨병&nbsp;&nbsp;보건신문노화로 오인 쉬운 알츠하이머병·파킨슨병…조기 발견이 중요&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2X2sxSG1naXdZaDY1VUNMSVdtRmV5czNmSFlYUzVub1ZsNzk2MzlQa0dMRFFyUTFmVFNyVlRfenlUcFI0RTd2UWpmc19BakNYMktwTHlDTThUNTBCUDI2SWRkVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d5d2107b06b",
+      "title": "[단독]연구원 퇴근해도 로봇이 밤샘 실험…국내 첫 AI 신약 개발 자율 실험실 가보니 - 조선일보",
+      "published": "2026-06-04T06:19:00+00:00",
+      "summary": "[단독]연구원 퇴근해도 로봇이 밤샘 실험…국내 첫 AI 신약 개발 자율 실험실 가보니&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2FnaGYyUE1NZTNXQW96SUNxMVZIbE82VFFEU2pJdWNyY3RxVUp3UHZRS0gzZjlMa2d6bkZEQUJRRXpTdWVyYXJrLTJKN1ZvWnFPTHBzOGxES2thWkdMbVdUcWxNbE8wSk52T2NWRHhsZm1TLWk2TDRVNnhyTTVRTElCYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d43de529c79f",
+      "title": "배승연 여니필라테스 대표, 병원 재활 현장에서 건강한 일상으로 이어지는 재활 필라테스 - 위클리피플 인물지식가이드저널",
+      "published": "2026-06-04T05:39:20+00:00",
+      "summary": "배승연 여니필라테스 대표, 병원 재활 현장에서 건강한 일상으로 이어지는 재활 필라테스&nbsp;&nbsp;위클리피플 인물지식가이드저널",
+      "sources": [
+        {
+          "name": "위클리피플 인물지식가이드저널",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85OWtWMFQ1SG1xVndtV1FrZWRJZDM5WkRaNE9tZVJuSnRSeE9PM3QxeXRwWkc2RTFFM0c5V1FZRDJvcWtYV0RqX2EzNXJYUm52VHBqaU5mRHdKQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9f86a9acf863",
+      "title": "“하루 13분이면 충분하다”… 사망 위험 줄이는 운동, 어떻게 할까? - 코메디닷컴",
+      "published": "2026-06-04T05:37:00+00:00",
+      "summary": "“하루 13분이면 충분하다”… 사망 위험 줄이는 운동, 어떻게 할까?&nbsp;&nbsp;코메디닷컴매일 1시간 걷고 주 2시간 근력운동…사망 위험 45% ‘뚝’[노화설계]&nbsp;&nbsp;동아일보일주일에 90~120분 근력운동, 사망위험 낮춰…120분 초과 시 추가 이점 無&nbsp;&nbsp;동아사이언스“하루 딱 13분 투자를” 심장병 사망 막는 ‘운동’의 정체&nbsp;&nbsp;헬스조선걷기를 즐기는 사람들에게 좋은 소식입니다!&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5yVU1CclVvc0RWa3ZkbXFwU3E2ejNjU0RzVkVKelEzM2dYdnN6ZmFyTjVIVzFFLUFJa2JXQ0dsU3Vtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3ada94ca7d5",
+      "title": "간질약의 반전…관절염 연골 손상 회복 효과 확인[노화설계] - 네이트",
+      "published": "2026-06-04T05:32:00+00:00",
+      "summary": "간질약의 반전…관절염 연골 손상 회복 효과 확인[노화설계]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQ0ZSWE5vSW9qUElnUmZDYjdMUGxKUnpoaEt3QmdIWGNfTC1Nc2thM1hrMV9aQXNXTkpGQk8xcFJ1MFRsR1R4NGVXVllyMlM2X2R3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf7a8111872a",
+      "title": "암 잡는 CAR-T치료로 신장 이식 거부 반응도 잡았다 - 동아사이언스",
+      "published": "2026-06-04T04:49:00+00:00",
+      "summary": "암 잡는 CAR-T치료로 신장 이식 거부 반응도 잡았다&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CQjhtazN4VXBCRC0wQkdvX01VV3MyR2MwUTREMFhtbVI1YjV0Y25jYV9Ic0lycF82RHNTMEJRdE1ZX3d2V09LelNwTV9PYmc4Rm9GNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a309347fddcb",
+      "title": "골든타임은 '생후 1년'…불안 스위치를 꺼라[북적book적] - 네이트",
+      "published": "2026-06-04T04:41:00+00:00",
+      "summary": "골든타임은 '생후 1년'…불안 스위치를 꺼라[북적book적]&nbsp;&nbsp;네이트임신우울증 \"그냥 두면 안돼요\" 식욕부진에 자살충동까지&nbsp;&nbsp;약사공론골든타임은 ‘생후 1년’…불안 스위치를 꺼라[북적book적]&nbsp;&nbsp;헤럴드경제박숙현의 과학태교28 우울한 엄마, 예민한 아이? 과학이 말하는 진실&nbsp;&nbsp;용인신문",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43RzRXeV84Qm5tVnE5VEUwVnNxaHNlUWxkVkxLbWlaOFY5dTRSSEg3UHRybmxkb1Y2SktzX2oxd2lwZzl4ZEl1UzRHNWJFazQ3N09N?oc=5"
+        }
+      ]
+    },
     {
       "id": "ca91936fd4bd",
       "title": "(칼럼) 스트레스가 인간을 살린다? - 용인신문",
@@ -30,21 +150,21 @@
       ]
     },
     {
-      "id": "f685b01cd24b",
-      "title": "부산·울산 직업병안심센터-부산백병원 간질성폐질환센터, 근로자 폐 건강 협력 - 메드월드뉴스",
-      "published": "2026-06-04T01:19:16+00:00",
-      "summary": "부산·울산 직업병안심센터-부산백병원 간질성폐질환센터, 근로자 폐 건강 협력&nbsp;&nbsp;메드월드뉴스",
+      "id": "59b7c516465e",
+      "title": "늙어가는 혈관을 막아라…심혈관 노화 치료의 새로운 시대 - 약업신문",
+      "published": "2026-06-04T01:19:13+00:00",
+      "summary": "늙어가는 혈관을 막아라…심혈관 노화 치료의 새로운 시대&nbsp;&nbsp;약업신문[식이요법] '혈관 건강은 식탁에서 시작된다'&nbsp;&nbsp;약업신문심혈관 노화 바이오 신약개발 '표적·재생' 정조준&nbsp;&nbsp;약업신문늙은 혈관 시계 거꾸로 돌린다… K-제약, 심혈관 '역노화' 신약 패권 정조준&nbsp;&nbsp;약업신문",
       "sources": [
         {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FVTBJTEctVTJHcWtnT1cwYUo4YjZkM0dyMTI0dUVIemV3ZFI0QUlVNWtOVWJEQkItWU90VmxiQ0lhcjBWZTNqbWhLeXNuY09meDVCN0owVU1lcnlqMlFlczlRNm5pMmdPbW5aNg?oc=5"
+          "name": "약업신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmaFhnS1pGNXRkZk5POWVNQUZPNkF6M1d1a0NCbzc2cThoUWs3WlB3QWxzQ3BGS1RKVnN3VHRSV2J0T2tGUTVKNi1WSy1kYV92TEU4SUxYZGhDSWIyVE1iWTZzdXdjNUVOZTZHV0ZZdw?oc=5"
         }
       ]
     },
     {
       "id": "32031a9b8662",
       "title": "IBS 신임 원장에 장석복 연구단장…내부 출신 첫 사례 - 조선일보",
-      "published": "2026-06-04T00:40:00+00:00",
+      "published": "2026-06-04T00:46:07+00:00",
       "summary": "IBS 신임 원장에 장석복 연구단장…내부 출신 첫 사례&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -78,26 +198,38 @@
       ]
     },
     {
-      "id": "c5a3c8c22d11",
-      "title": "강동성심병원 김예림 교수 참여 논문, 국제학술지 게재 - 보건신문",
-      "published": "2026-06-04T00:03:19+00:00",
-      "summary": "강동성심병원 김예림 교수 참여 논문, 국제학술지 게재&nbsp;&nbsp;보건신문",
+      "id": "a80f0d96c7bf",
+      "title": "집만 바꿔도 치매위험 35% 뚝, '이때' 해야 효과 - 여수교차로",
+      "published": "2026-06-04T00:07:19+00:00",
+      "summary": "집만 바꿔도 치매위험 35% 뚝, '이때' 해야 효과&nbsp;&nbsp;여수교차로‘집 구조만 바꿔도 치매 위험 35% 감소!’ 뇌의학자가 말하는 치매 예방 인테리어&nbsp;&nbsp;v.daum.net뉴로테리어&nbsp;&nbsp;교수신문벽지·조명 바꾸면 치매 위험 낮춘다&nbsp;&nbsp;한국경제집만 바꿔도 치매위험 35% 뚝…'이때' 해야 효과&nbsp;&nbsp;뉴시스",
       "sources": [
         {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11SWlUckJfUnJIQ3lYc1NYRWd3MmJGcDFEaUFadmcydjk3cHV4MWNTeEZ6aGhFMExkWWN0blNoNEc4QlV3RW1LVDVzeGNORndfaTBvRzVpTGx4d3FJd1pBemk5NA?oc=5"
+          "name": "여수교차로",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mN1FhLU02dzM3X2RlSlB3aFhfcFB4M0lONy1ObGkwV0o5c1dtMElfbHVJaU9odHU0Q0t4U2tyVWJvMkNlVG56anluQVIxUTdldk9ld094MVA?oc=5"
         }
       ]
     },
     {
-      "id": "88b6e0f3445d",
-      "title": "심혈관 노화 바이오 신약개발 '표적·재생' 정조준 - 약업신문",
-      "published": "2026-06-03T21:01:00+00:00",
-      "summary": "심혈관 노화 바이오 신약개발 '표적·재생' 정조준&nbsp;&nbsp;약업신문늙어가는 혈관을 막아라…심혈관 노화 치료의 새로운 시대&nbsp;&nbsp;약업신문",
+      "id": "dd84b9c5f7d1",
+      "title": "\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야 - 매경헬스",
+      "published": "2026-06-04T00:00:00+00:00",
+      "summary": "\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스몇 걸음 못 가 멈추는 다리 통증, 방치했다가 절단 위기?&nbsp;&nbsp;헬스조선[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문",
       "sources": [
         {
-          "name": "약업신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cjlzVC1zY0hLbmxIWGItQk5GOWt6V0xrdUJlS0FpSVdXdi1CcGI0eS1yUkxzTUVYN3BybjNIZDRLWGhPa0lNdFlxdURlZ2huT0JSZlg5Q1JEeEpTV0F0dkFXa1NJVzVLVklaY3BKMA?oc=5"
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84bVRVamtXVGFSUVlHWFlaQ1FCcFdYTWN3bEI3Z0tnTlpJcE40QkZRSkp3T1FodXBPVUVzcmRqelZ1bWV6ekFUb3ZFUTlFUEtKY3ZKLTBRQUtteW5XNlBhZmtrOXNsRFJFWkI0TA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9bce608c1fdc",
+      "title": "결과 제출 앞둔 콜린 임상재평가… '1차 변수 미충족'이 변수 - 히트뉴스",
+      "published": "2026-06-03T21:04:00+00:00",
+      "summary": "결과 제출 앞둔 콜린 임상재평가… '1차 변수 미충족'이 변수&nbsp;&nbsp;히트뉴스간헐성 파행·어지럼증에 쓰이던 은행잎 추출물, 치매 원인물질 억제 확인&nbsp;&nbsp;조선일보더 시그널 2호, 살아있는 화석 '은행잎 추출물' 효능 집중 조명&nbsp;&nbsp;히트뉴스SK케미칼 기넥신 매일 먹었더니…초기 알츠하이머 환자 치매 막았다&nbsp;&nbsp;네이트[헬스캡슐]은행잎 추출물, ‘베타아밀로이드 응집 억제’ 효과 확인 外&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HbFM4ZF9QREZPN2plWHIzVWpjbXFIWTU5UHF2OE5iUlVDSzYwT2wtVnlFc1hZb1NaekhzX0s4RXQxN3VJTFQ4dDg5QVpPcnJYb2s1U3RaNzg1Z0tYQk5UcFRiQVpwQm0xYllJ?oc=5"
         }
       ]
     },
@@ -114,6 +246,18 @@
       ]
     },
     {
+      "id": "b9149ea85723",
+      "title": "대장암 진행 막는다… 당장 식탁에 올려야 할 ‘두 가지’ - 헬스조선",
+      "published": "2026-06-03T19:00:00+00:00",
+      "summary": "대장암 진행 막는다… 당장 식탁에 올려야 할 ‘두 가지’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BRk12SEFHZDBXdTRPcF9EdEVMNFZyV2JjdzF1ZUpxbFNUOHJVWktLMk5MSkFKV3FnRnhPUzA5Wl9TWnZFeTB5VDM0UEZ6al92cTBxd2FxaEpLbDZWallvSDBmMGRMZ054YkxPQlQ5VEl6TWpZeHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0a4c00786835",
       "title": "이 뇌종양 제거했더니 당뇨병까지 개선…놀라운 연구 결과 - 리드경제",
       "published": "2026-06-03T17:02:00+00:00",
@@ -126,26 +270,14 @@
       ]
     },
     {
-      "id": "656189fed6c2",
-      "title": "OC 올해 첫 웨스트나일 감염 모기 발견 - 라디오코리아 모바일",
+      "id": "15884c4853ec",
+      "title": "오렌지카운티서 올해 첫 웨스트나일 감염 모기 발견 - 라디오코리아 모바일",
       "published": "2026-06-03T11:29:00+00:00",
-      "summary": "OC 올해 첫 웨스트나일 감염 모기 발견&nbsp;&nbsp;라디오코리아 모바일",
+      "summary": "오렌지카운티서 올해 첫 웨스트나일 감염 모기 발견&nbsp;&nbsp;라디오코리아 모바일",
       "sources": [
         {
           "name": "라디오코리아 모바일",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05MTRNSXkxQjBzbjhjMXJmS3BFNW1oaWRmb3JkRlUwTFlQVF9ZSlRqRHJoV1Npb0pGcDRETUJvNElpVG9rMlp5MjBGeHFzWmtZUVo3dGNGVzVQS0VkZlNURGdGSmhIOGkzWFhnSDJzR0FMUHk2WlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0fb511a93190",
-      "title": "‘집 구조만 바꿔도 치매 위험 35% 감소!’ 뇌의학자가 말하는 치매 예방 인테리어 - v.daum.net",
-      "published": "2026-06-03T09:11:15+00:00",
-      "summary": "‘집 구조만 바꿔도 치매 위험 35% 감소!’ 뇌의학자가 말하는 치매 예방 인테리어&nbsp;&nbsp;v.daum.net뉴로테리어&nbsp;&nbsp;교수신문벽지·조명 바꾸면 치매 위험 낮춘다&nbsp;&nbsp;한국경제집만 바꿔도 치매위험 35% 뚝…'이때' 해야 효과&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VRDEwZC1BR0ZsVkhVb19KM1E3LUY2SUdZZkkxMWhUYU9yQ1FYOWJUaVVETzQybGY3VjVqS3pScW1LYi1jSHc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwT3VoVExmOS1hMkZITDFvb0tOTXlIamlLYVQ1UkpkQ1l4Z1FYNFc1dGRobk5OblFrenBxMnQ5WHMzVEZ0THlYMkF2ckM3c0NCeHpLYi1BbTVyWC1EY2ZVdE9rMVM?oc=5"
         }
       ]
     },
@@ -162,14 +294,14 @@
       ]
     },
     {
-      "id": "e454d903977a",
-      "title": "남편보다 오래 살지만…왜 아픈 사람이 많을까? 중년 여성의 건강 장수는? - 네이트",
-      "published": "2026-06-03T08:02:00+00:00",
-      "summary": "남편보다 오래 살지만…왜 아픈 사람이 많을까? 중년 여성의 건강 장수는?&nbsp;&nbsp;네이트",
+      "id": "b331f0907ab2",
+      "title": "남편보다 오래 살지만… 왜 아픈 사람이 많을까? 중년 여성의 건강 장수는? - 코메디닷컴",
+      "published": "2026-06-03T08:01:00+00:00",
+      "summary": "남편보다 오래 살지만… 왜 아픈 사람이 많을까? 중년 여성의 건강 장수는?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xOXdKZjFqWXNQWGZ1RTlqTnh0MUhITzNwWHBZRm5fSkgtc1dFeG91OHVMR1RVYnFwR0o5Y3NxMGlxaDN4WmxiYkVVUDZGbnVULUhJ?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XMHk3QXZRX3NyYUZpSjNQYWtaai1pY3RpSW9yeTVBUG53d09vLURSazJMdlB5VUtYU1JWN2ZaSVZGZw?oc=5"
         }
       ]
     },
@@ -186,22 +318,10 @@
       ]
     },
     {
-      "id": "497f7948134e",
-      "title": "[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도 - 충청신문",
-      "published": "2026-06-03T07:14:31+00:00",
-      "summary": "[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문몇 걸음 못 가 멈추는 다리 통증, 방치했다가 절단 위기?&nbsp;&nbsp;헬스조선\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "충청신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TQ0xaN2Y5ejUwVmlteEpiTzVKbjRKdElsR1lCTV9HX3o2Uk1tdFRoaTY5VE5wT1lxNVhZZ095eUlVSmlVS0dWRTBMR2dxamlPa3QyNjNPX0xKUHgzLUlGT2FYNDR6Y2lsa3fSAW5BVV95cUxOMzNSQ2xZZWlvS25BRG8zUW5saGRpb2h2T3hNYnVrWmdSckZqOWZTeklMLU4wcFV6XzY4UXR2TmdzVzBOeVVOTlZkaVBkWl9MaUVpM1c2YktTZHpBNG54UW5qVEs3cWJyeFhHeWFhQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "89ddea1b5d48",
       "title": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과 - 코메디닷컴",
       "published": "2026-06-03T05:53:00+00:00",
-      "summary": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과&nbsp;&nbsp;코메디닷컴",
+      "summary": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과&nbsp;&nbsp;코메디닷컴운동 할수록 더 살찌는 사람의 특징, 이런 이유가 있다&nbsp;&nbsp;GQ Korea살 안 빠져도 운동해야… 美심장협회 \"비만 치료의 핵심은 신체 활동\"&nbsp;&nbsp;조선일보운동했는데 살이 안 빠졌다…체중계가 못 본 변화&nbsp;&nbsp;네이트하루 5분 숨 차는 운동, 오래 걷기보다 중요할까? 심폐 체력의 진실&nbsp;&nbsp;미디어원",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -270,18 +390,6 @@
       ]
     },
     {
-      "id": "15112b732393",
-      "title": "[헬스&라이프] \"쉬어도 방전돼\"…몸이 보내는 경고, 만성피로증후군 - 디지털데일리",
-      "published": "2026-06-02T20:00:00+00:00",
-      "summary": "[헬스&라이프] \"쉬어도 방전돼\"…몸이 보내는 경고, 만성피로증후군&nbsp;&nbsp;디지털데일리충분히 자도 계속 피곤한 이유?…뜻밖의 원인 찾았다[건강팩트체크]&nbsp;&nbsp;동아일보\"만성피로는 신체의 경고 신호\"... 6개월 넘으면 '에너지 대사'부터 점검&nbsp;&nbsp;하이닥[1인 가구 헬스케어] '만성 피로' 지속되면 질병 의심해야&nbsp;&nbsp;1코노미뉴스[근거기반 한약제제의 최신임상동향] 만성 피로 증후군에 대한 공진단의 최근 임상동향&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "디지털데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZTTdNX2Fwc3BiQkJ1T0k0ZklFQUttdWhhYmxqdHo5d0J5WWJySG5SeTFUdnZ3bThLMG45MkZETTcxUUU3TDdYdWRvYU00RmV4Q2VLM2dRMk1Oa0FHdC05czdnNkY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "85bc4ace6954",
       "title": "5760억 쏟아붓는다…'뇌질환 정복' 나선 거물들 - 리드경제",
       "published": "2026-06-02T16:42:00+00:00",
@@ -330,18 +438,6 @@
       ]
     },
     {
-      "id": "156f68f30255",
-      "title": "\"코에 뿌렸더니 기억력 회복\"… 줄기세포 추출물, 치매 치료 가능성 확인 - 하이닥",
-      "published": "2026-06-02T11:00:00+00:00",
-      "summary": "\"코에 뿌렸더니 기억력 회복\"… 줄기세포 추출물, 치매 치료 가능성 확인&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85YjBlUFA2bGxqRzdDQmNkcVRjc3hKcWZJRHA4N3RWNWNMZDZlZXFNTDV3bVREdlVRRVBlQ1hxNzlteTVkeXZYR2FOazIyRUx0VlprdDZVV2FIMURITWFfUk5CaHNLVWJ0LXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7e0395ef8bb1",
       "title": "“당뇨병, 꾸준한 관리가 핵심… 실천 가능한 생활습관 유지해야” - 하이닥",
       "published": "2026-06-02T09:30:00+00:00",
@@ -354,50 +450,14 @@
       ]
     },
     {
-      "id": "01d48e4fa74f",
-      "title": "젊을 땐 성장 돕고 늙으면 노화 촉진하는 '이기적 유전자' - v.daum.net",
-      "published": "2026-06-02T09:01:53+00:00",
-      "summary": "젊을 땐 성장 돕고 늙으면 노화 촉진하는 '이기적 유전자'&nbsp;&nbsp;v.daum.net",
+      "id": "565b6ab50169",
+      "title": "젊을 땐 성장 돕고 늙으면 노화 촉진하는 '이기적 유전자' - 동아사이언스",
+      "published": "2026-06-02T09:00:00+00:00",
+      "summary": "젊을 땐 성장 돕고 늙으면 노화 촉진하는 '이기적 유전자'&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Z0NQVTRPMVY2LUo1VnZrU3gtLWYtTDczYkg2c1JSUFMzbmtla1RVNGtRVXdNbTlMOTlsQXVMNnJOWWx5YjBtSDVUVDlPYlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90022ac79230",
-      "title": "여름 앞두고 요실금 고민…감별 진단 중요 - 비건뉴스",
-      "published": "2026-06-02T08:58:18+00:00",
-      "summary": "여름 앞두고 요실금 고민…감별 진단 중요&nbsp;&nbsp;비건뉴스",
-      "sources": [
-        {
-          "name": "비건뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mWEZXUU5rRUpWZmpFMlAyYXppTllUVzU0YktNdThzOXJZd1B1aDhnRnJEam1SSEgzNEs0a2pTbXkta2FDTVdBLVpQdmVYLUx3a1BLdnJuRTlfRm1rNjhHNkIxMXkzQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9dbe6a4c1bad",
-      "title": "하루 한두 잔의 커피, 심장에 정말 도움이 될까 - 블랙워터이슈",
-      "published": "2026-06-02T07:58:52+00:00",
-      "summary": "하루 한두 잔의 커피, 심장에 정말 도움이 될까&nbsp;&nbsp;블랙워터이슈커피·채소·유제품, 심혈관질환 위험 ↓…국내외 151개 연구논문 분석&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "블랙워터이슈",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIcGZuLTJDN2xjc3laTVlxQjdJa2s4V1JKNmQtLWtCa2dpdmJxTXhNb21tYzBVN2hRZmFVS21ocUpLVlpfT1ZZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "66e525d21de5",
-      "title": "근육에 숨은 지방...심혈관질환 발병률 높여... - 후생신보",
-      "published": "2026-06-02T07:49:00+00:00",
-      "summary": "근육에 숨은 지방...심혈관질환 발병률 높여...&nbsp;&nbsp;후생신보[흥미로운 지방이야기] 지방이 근육을 약하게 만들 수 있을까&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBFR2N4ZFBVTzMzaGhvYklqV2ZaemlMNU5iVjJBUDd4M0JWOUQ4SGtpcU96NjRGS2lmYnpjQ3JPMTV0NGFi?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzanY0Zk5WTXJpV0ZWRTBwczFPTjBEeEFvZWpXSUJaV2tBXy1oU0E1cUpqQnpBZjVHdS11MTJUd2ItNmMzQTBCY01IYjA5dV9lVW1zRg?oc=5"
         }
       ]
     },
@@ -410,18 +470,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTdmYTZZZDVpaDhnelFJa3NDVndsZUhjVWUtY3RsMzExVlNjeTlpNFdJMVVZOWhEVHpJenE0UU5fYzNDbUVuWnVWeWdTczBrdVhCSXNydVRRZUZEd1hYWHNZZ2haRjNIOTBUd3JSdFB4V2VOb3Y2OTd1R3JWeVA4WE9uNDVWM3BMZE5GctIBoAFBVV95cUxNLVB0cm5RYkR1aWM4eVJ1OVQ5M05JX2N0UFZtNXRUa0FCeVpEV18ySnJldklfOW8wcTBBSl81akpkNFhwSkJmNXRYSW9kZjVVTGZsM0hSNEFlTjRRYW1mZUk5WUE0VUdNcDZKYk5MekEzZl9IOGQtaVRIdHJzbjlUOVRuTzRrcDhmWmgwYTdUWkQ2R0xELV9NZ3RiWjl2dERy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5064a259c9bb",
-      "title": "“거리 멀면 위험한데도..”…복합만성질환 소아환자 40%, 서울 빅5병원 응급실 집중 - MEDI:GATE NEWS",
-      "published": "2026-06-02T05:59:00+00:00",
-      "summary": "“거리 멀면 위험한데도..”…복합만성질환 소아환자 40%, 서울 빅5병원 응급실 집중&nbsp;&nbsp;MEDI:GATE NEWS",
-      "sources": [
-        {
-          "name": "MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8tc1pNS1BaLVN6cjhQeDBTV1hteTdmV25uRVdlN25XQl8wZnZmMVh4R3plSjh3b3NmSFV3VEo5TGlpUUd0bE9tWnJZVk4zc3hranFuLWpHQQ?oc=5"
         }
       ]
     },
