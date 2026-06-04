@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-04T15:22:21.111078+00:00",
-  "total_fetched": 76,
-  "unique_count": 75,
-  "health_related_count": 40,
+  "fetched_at": "2026-06-04T20:09:11.984563+00:00",
+  "total_fetched": 79,
+  "unique_count": 78,
+  "health_related_count": 41,
   "news": [
+    {
+      "id": "4092e5ba2624",
+      "title": "\"검사는 미루고, 백신은 망설이고\"…성병 예방이 어려운 이유 - 매경헬스",
+      "published": "2026-06-04T20:00:00+00:00",
+      "summary": "\"검사는 미루고, 백신은 망설이고\"…성병 예방이 어려운 이유&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zWnNtOHN0M3dUTE1wclFwUm4xVlB1RGxvbTV0TGJ4TE1JN0FHNFRGN2NzRjQ1bWhONkxib1RTb0tsbkpVZ0s2X0pOMGV3SExxWU5MN0xockptbFk4WWE0X1dDREtEUGFXRGxOcg?oc=5"
+        }
+      ]
+    },
     {
       "id": "5ac346611d1c",
       "title": "2026년부터 당뇨·고혈압 한의 치료 건강보험 적용…방문 진료도 신설 - 한국AI부동산신문",
@@ -30,14 +42,26 @@
       ]
     },
     {
-      "id": "874f5f086356",
+      "id": "61a0ac4df71c",
       "title": "강동성심병원 신경과 김예림 교수 참여 논문, 국제학술지 게재 - 메드월드뉴스",
       "published": "2026-06-04T12:42:06+00:00",
       "summary": "강동성심병원 신경과 김예림 교수 참여 논문, 국제학술지 게재&nbsp;&nbsp;메드월드뉴스",
       "sources": [
         {
           "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iUW5QLVd6dExMWUNLOW9aT3lfLWpaVHZGdGQyVGt5VERnNmNrbjZ2Q1BoQnEzbk94aGQyRUllMkdjRUwzaUJjdFFjTHBkSmY3OGxwOVM1aER5UkRjRjFILXB0cWRqcVU?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVelViMi1ya0VpeWlDQllFb0pjNFBnOFJVVnRuSUJ6bHFuN2ZOakNEeVFLZExHTFhxNk0yMjg1SVZiRXU3WHpCYXdWTnI4bHhXaFg5blRnRlNGZTF6ZHkyMURpcUg2cTY2SW9ueFF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "91a6a2db0cc3",
+      "title": "위고비로 살 뺐는데 근육도 빠지네...\"약 끊고 운동 안 하면 지방부터 늘어\" - 디멘시아뉴스",
+      "published": "2026-06-04T11:55:46+00:00",
+      "summary": "위고비로 살 뺐는데 근육도 빠지네...\"약 끊고 운동 안 하면 지방부터 늘어\"&nbsp;&nbsp;디멘시아뉴스살 안 빠져도 운동해야… 美심장협회 \"비만 치료의 핵심은 신체 활동\"&nbsp;&nbsp;조선일보운동 할수록 더 살찌는 사람의 특징, 이런 이유가 있다&nbsp;&nbsp;GQ Korea운동했는데 살이 안 빠졌다…체중계가 못 본 변화&nbsp;&nbsp;네이트\"운동만 하면 체중의 2~3% 빠지지만…심장·혈관엔 좋다, 왜?\"&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qQkpBSXFRZmpmOFZLbFZmSDU2dGh3bEZ5Y203NFZDVkRndF80TGhuTGpGSjQ5WUxMVHlOQkRCVmR3YWRLa0l5aV83cUNySWlyOVJUaWNWN1BPNjlmUktTZ25CUllZa3lpejh6UTRGYlhsUQ?oc=5"
         }
       ]
     },
@@ -50,6 +74,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcTFSUHpxRnowT2RPREJEckZWZ1hPUHpnbFZyTmxRcnRkMWNHbWZzeDZZUWtMVkwxM3JRcDBaTFlaTGIzeDVQZHdCNlNDVEtiRG9KZHNDcy1tLVp1bEZSQjdrbDF1Rm4xUFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc4a9d0aeb5f",
+      "title": "노화로 오인 쉬운 알츠하이머병·파킨슨병…조기 발견이 중요 - 네이트",
+      "published": "2026-06-04T09:26:00+00:00",
+      "summary": "노화로 오인 쉬운 알츠하이머병·파킨슨병…조기 발견이 중요&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BTEZOSHdESld1MkJ1RUx4d0dWV0VSeXdJVTFsdGJkd1JOQ2czbTdYSWdKVzNvNlBoZjVBcExZMHNhS0xvZm9SN2NCZVdUYlJhR3BJ?oc=5"
         }
       ]
     },
@@ -74,18 +110,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVFYzMFh2b21LM1g1V0M0Vl9lRW5OalBySGlBLUZJTm1xLVJRSkdpN29qTV9Ha1B1di1lWWotNVVkYXFMTlc3TGZSaEVDeHpTckdkci1pMlVFLXdaX3JkUmpWY2xpbnhvaUxMTjBQWV82cG1DZkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec63ea62ab76",
-      "title": "변비·심한 잠버릇이 보내는 경고… 조용히 시작되는 파킨슨병 - 보건신문",
-      "published": "2026-06-04T07:47:00+00:00",
-      "summary": "변비·심한 잠버릇이 보내는 경고… 조용히 시작되는 파킨슨병&nbsp;&nbsp;보건신문노화로 오인 쉬운 알츠하이머병·파킨슨병…조기 발견이 중요&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2X2sxSG1naXdZaDY1VUNMSVdtRmV5czNmSFlYUzVub1ZsNzk2MzlQa0dMRFFyUTFmVFNyVlRfenlUcFI0RTd2UWpmc19BakNYMktwTHlDTThUNTBCUDI2SWRkVQ?oc=5"
         }
       ]
     },
@@ -146,18 +170,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CQjhtazN4VXBCRC0wQkdvX01VV3MyR2MwUTREMFhtbVI1YjV0Y25jYV9Ic0lycF82RHNTMEJRdE1ZX3d2V09LelNwTV9PYmc4Rm9GNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a309347fddcb",
-      "title": "골든타임은 '생후 1년'…불안 스위치를 꺼라[북적book적] - 네이트",
-      "published": "2026-06-04T04:41:00+00:00",
-      "summary": "골든타임은 '생후 1년'…불안 스위치를 꺼라[북적book적]&nbsp;&nbsp;네이트임신우울증 \"그냥 두면 안돼요\" 식욕부진에 자살충동까지&nbsp;&nbsp;약사공론골든타임은 ‘생후 1년’…불안 스위치를 꺼라[북적book적]&nbsp;&nbsp;헤럴드경제박숙현의 과학태교28 우울한 엄마, 예민한 아이? 과학이 말하는 진실&nbsp;&nbsp;용인신문",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43RzRXeV84Qm5tVnE5VEUwVnNxaHNlUWxkVkxLbWlaOFY5dTRSSEg3UHRybmxkb1Y2SktzX2oxd2lwZzl4ZEl1UzRHNWJFazQ3N09N?oc=5"
         }
       ]
     },
@@ -254,6 +266,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBMkMwbndIOVdfWHhjSlBYQVNEWDBtRjA3aHdsRmRjckl4MUw2U1VXUFNQVXN3aWEwVmZ0bXZ1WTAwZERKdlJkbE9IYzNwTEExSHc4MG9LbnpIendNQXJlaU4xbUdUOFlRMnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b98f6f10721a",
+      "title": "이노바 암센터와 ‘유방암 검진’ - 미주한국일보",
+      "published": "2026-06-03T22:50:56+00:00",
+      "summary": "이노바 암센터와 ‘유방암 검진’&nbsp;&nbsp;미주한국일보",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ERU16dU1NY2VJVFJaS1RzbHFjTE5iMEhwaDJRSzJ2S0RUYy1rZFdwUGpweWlSY3JLdTRzdDZBRVk3Vko2TzhPbWVRdVdWTGpKQWJ3VUoycWJudml5MEFJ?oc=5"
         }
       ]
     },
@@ -378,18 +402,6 @@
       ]
     },
     {
-      "id": "89ddea1b5d48",
-      "title": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과 - 코메디닷컴",
-      "published": "2026-06-03T05:53:00+00:00",
-      "summary": "살은 안 빠졌는데 혈압은 내려갔다…체중계가 놓친 운동 효과&nbsp;&nbsp;코메디닷컴운동 할수록 더 살찌는 사람의 특징, 이런 이유가 있다&nbsp;&nbsp;GQ Korea살 안 빠져도 운동해야… 美심장협회 \"비만 치료의 핵심은 신체 활동\"&nbsp;&nbsp;조선일보운동했는데 살이 안 빠졌다…체중계가 못 본 변화&nbsp;&nbsp;네이트하루 5분 숨 차는 운동, 1시간 걷기보다 중요할 수도… 운동의 핵심은 ‘시간’ 아닌 ‘강도’&nbsp;&nbsp;미디어원",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBicE96RVZXWk51SW5jSDA2Mzl3MjJMdVpLNnkxSGw2UGlhRWlDVWNyMGdvano3dGlIS2d6a01pQkFwUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a0266af7b49a",
       "title": "말기 간 질환 환자 3명 중 1명 겪는 근감소증...환자별 맞춤 치료 길 열려 - 메디컬투데이",
       "published": "2026-06-03T05:09:21+00:00",
@@ -426,18 +438,6 @@
       ]
     },
     {
-      "id": "85bc4ace6954",
-      "title": "5760억 쏟아붓는다…'뇌질환 정복' 나선 거물들 - 리드경제",
-      "published": "2026-06-02T16:42:00+00:00",
-      "summary": "5760억 쏟아붓는다…'뇌질환 정복' 나선 거물들&nbsp;&nbsp;리드경제",
-      "sources": [
-        {
-          "name": "리드경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rakh0bjlNRXZLUl9ZN3JwUTBRNEVqMHN0ZXVRTUgyWW51UTMtOE9GcDZERURSYXhBWHlDWjhZQmJxaGZWemhwbU92eDZqVHBTLXUwYnZadFE2V2xiM2Y3d00tMlZJZE04SWczSnltcw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "565b6ab50169",
       "title": "젊을 땐 성장 돕고 늙으면 노화 촉진하는 '이기적 유전자' - 동아사이언스",
       "published": "2026-06-02T09:00:00+00:00",
@@ -458,6 +458,18 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTdmYTZZZDVpaDhnelFJa3NDVndsZUhjVWUtY3RsMzExVlNjeTlpNFdJMVVZOWhEVHpJenE0UU5fYzNDbUVuWnVWeWdTczBrdVhCSXNydVRRZUZEd1hYWHNZZ2haRjNIOTBUd3JSdFB4V2VOb3Y2OTd1R3JWeVA4WE9uNDVWM3BMZE5GctIBoAFBVV95cUxNLVB0cm5RYkR1aWM4eVJ1OVQ5M05JX2N0UFZtNXRUa0FCeVpEV18ySnJldklfOW8wcTBBSl81akpkNFhwSkJmNXRYSW9kZjVVTGZsM0hSNEFlTjRRYW1mZUk5WUE0VUdNcDZKYk5MekEzZl9IOGQtaVRIdHJzbjlUOVRuTzRrcDhmWmgwYTdUWkQ2R0xELV9NZ3RiWjl2dERy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1edb614beebd",
+      "title": "완벽주의에 갇힌 MZ세대…그러나 연구 결과는 정반대였다 - 세계일보",
+      "published": "2026-06-02T07:09:10+00:00",
+      "summary": "완벽주의에 갇힌 MZ세대…그러나 연구 결과는 정반대였다&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iUlRrb1lxZTJQSFlaZ0gtN3dDWFY4QTEzbXlsUGxvalVqNVZMUE9SRXdhbW5iNE5yMjRsWF90bWhKSmwyS2pJT01keF95MXB5cThyQktPLUnSAVRBVV95cUxPR1RRUXNzVkZreC1McV82ZjZacjlDZ19PdFh5OGtNSkJGVXoxcnZDbzdhYTJRQXNkYTdfN0JyUVYzZnBuVGxpTmxWdm1VdVZTU2YtUHU?oc=5"
         }
       ]
     },
