@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-06-05T14:57:18.822118+00:00",
-  "total_count": 38,
+  "last_updated": "2026-06-05T19:59:03.284741+00:00",
+  "total_count": 42,
   "matched_count": 0,
   "news": [
+    {
+      "id": "7737ff54b341",
+      "title": "영국 연구진, AI로 설계한 '범용 백신' 개발중…\"1상 임상 완료\" - SBS 뉴스",
+      "published": "2026-06-05T19:12:00+00:00",
+      "summary": "영국 연구진, AI로 설계한 '범용 백신' 개발중…\"1상 임상 완료\"&nbsp;&nbsp;SBS 뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "SBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92TkxpMkJkZHpZaVQtclI3c2JpS0xRQ0N1OXNGUjhodU0tYlJHY09Hbm9VSHBGRUJaVFpzdTNYZ25HODJYVDItc3VKM1ptdGNZaUJtNXVBWHNHeVFiTUVnQUlfRnZ5Y1hoWEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d6e4e57f6d1c",
+      "title": "“에볼라·한타바이러스 경고”…남승현 동국대 교수, 감염관리 중요성 강조",
+      "published": "2026-06-05T16:29:00+00:00",
+      "summary": "“에볼라·한타바이러스 경고”…남승현 동국대 교수, 감염관리 중요성 강조&nbsp;&nbsp;상조매거진",
+      "sources": [
+        {
+          "name": "상조매거진",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1vRXBZbGZEamR4dDJFV0lwbWZlc0l1ZnJqY2NjNTU0U3Bya1k4Xy16VkhsZURfTEszQjU3UmdrdGEtRko0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ad255aa958bd",
+      "title": "치매 전 치료제 '콜린알포세레이트'…\"임상 1차 지표 미충족했지만 인지기능 개선 확인\"",
+      "published": "2026-06-05T09:15:00+00:00",
+      "summary": "치매 전 치료제 '콜린알포세레이트'…\"임상 1차 지표 미충족했지만 인지기능 개선 확인\"&nbsp;&nbsp;네이트치매 전 치료제 ‘콜린알포세레이트’… “임상 1차 지표 미충족했지만 인지기능 개선 확인”&nbsp;&nbsp;v.daum.net결과 제출 앞둔 콜린 임상재평가… '1차 변수 미충족'이 변수&nbsp;&nbsp;히트뉴스간헐성 파행·어지럼증에 쓰이던 은행잎 추출물, 치매 원인물질 억제 확인&nbsp;&nbsp;조선일보SK케미칼 기넥신 매일 먹었더니…초기 알츠하이머 환자 치매 막았다&nbsp;&nbsp;이데일리",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qNEU2b01WRUZFVEcyYTdVOUk1THk3MC1qUnJXc0VnVGQ3dnVBUWRKN3c1VnU5QW9VZFpUNlA2d3dVdmZYcllDeTRBRkZWdUJvVm53?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "828648175f35",
+      "title": "폐암 발병 5년 전 예측한다…혈액 단백질 표지자 확인",
+      "published": "2026-06-05T08:45:00+00:00",
+      "summary": "폐암 발병 5년 전 예측한다…혈액 단백질 표지자 확인&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tVFpYVWRZd1FDc3NtRml4bTUybE9hbDVpSXlzZDFIdjNLc2JoSnNrTWVVektiUHlaRks0MUVjNFkxQlliMXZGZkdiOWpNWFdKNkEyQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e4ad5b19f6b3",
       "title": "\"요즘 왜 이렇게 피곤하지?\"... 간이 보내는 위험 신호일 수도",
@@ -43,6 +95,19 @@
       "matched_keywords": []
     },
     {
+      "id": "285eb3910317",
+      "title": "오늘 땀을 흘리지 않았다면 목욕을 안해도 될가?--건강",
+      "published": "2026-06-05T06:30:00+00:00",
+      "summary": "오늘 땀을 흘리지 않았다면 목욕을 안해도 될가?--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TVngtUzdrYUtkWnpoQUNrLWNDNEZwZDR2anFMY1ZYa1BPendpdERuYlVtblFmWmctNjlGNVFaT2VSbzFsdlRJaTBTUF9FblNYRVdNd20zQWtwR2JZYjlBd1Y5eGdKOFdPMmh3bkFR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "be06c8649ffc",
       "title": "칼슘 아연 흡수 방해하는 ‘이 성분’⋯장 건강엔 좋다고?",
       "published": "2026-06-05T03:05:00+00:00",
@@ -51,6 +116,19 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1mZTRscEFaclVFRFNzWnR4bElDYWNsT3dlVHJYaHViWW5Md2RoRlBzeDBoZy1fUG1GVERoOUdTZVhjUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "93261d6a75cf",
+      "title": "근력 운동 주 90분에서 120분이 시니어 장수의 황금 구간입니다 - 캐어유 뉴스",
+      "published": "2026-06-05T03:00:00+00:00",
+      "summary": "근력 운동 주 90분에서 120분이 시니어 장수의 황금 구간입니다&nbsp;&nbsp;캐어유 뉴스매일 1시간 걷고 주 2시간 근력운동…사망 위험 45% ‘뚝’[노화설계]&nbsp;&nbsp;동아일보걷기를 즐기는 사람들에게 좋은 소식입니다!&nbsp;&nbsp;Vietnam.vn“하루 딱 13분 투자를” 심장병 사망 막는 ‘운동’의 정체&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 유산소와 근력운동 병행 시 사망 위험 최대 58% 감소 효과&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zMmNZQm1rSUNxV19yYmVFeDljV0xRSUk3V1lJWDdTWDdwNEhmT0M4N1JRdzE3dVU0dlpDeHJCenVOT0IwUk9qYmpKXy10N2FNVmJxckNTNHlaeWk0Vjl5bmFzR3dDQTdzOWoyOHRB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -108,14 +186,14 @@
       "matched_keywords": []
     },
     {
-      "id": "86317322bf4a",
-      "title": "유산소운동에 근력운동 더하면 효과 더 커져...사망 위험 최대 58% 감소",
-      "published": "2026-06-04T23:47:40+00:00",
-      "summary": "유산소운동에 근력운동 더하면 효과 더 커져...사망 위험 최대 58% 감소&nbsp;&nbsp;메디컬투데이매일 1시간 걷고 주 2시간 근력운동…사망 위험 45% ‘뚝’[노화설계]&nbsp;&nbsp;동아일보“하루 딱 13분 투자를” 심장병 사망 막는 ‘운동’의 정체&nbsp;&nbsp;헬스조선유산소운동에 근력운동 더하면 효과 더 커져…사망 위험 최대 58% 감소&nbsp;&nbsp;네이트일주일에 90~120분 근력운동, 사망위험 낮춰…120분 초과 시 추가 이점 無&nbsp;&nbsp;동아사이언스",
+      "id": "d4b4835d1a71",
+      "title": "위고비, 생물학적으로 노화 늦추는 효과까지",
+      "published": "2026-06-04T23:50:25+00:00",
+      "summary": "위고비, 생물학적으로 노화 늦추는 효과까지&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13RUNXc05CLXVmWDktazR5NzJKajZ6d3JtWmd4RU84NUFIV0xMcGZndnR5RVhMVU1JQ21IQ3NxWGdhTVRnZTh4SXVnMzZuQWxUNlpSUmxyN2I1bEdF0gFsQVVfeXFMTl9qdUgzcEFxMmJIQm9wSDFLOG5fVm9NdDdZTm1pczY5OEF2b1dqT3BoZ2VRSEExbzZjNTkxQXZlV1JWZHRxUVJ3aGlFZEdXWGZPNEp6dTNYelV2blE0bUZmenk0Zk5yMkRuUFlq?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUTHpJOEszYmY4RnhSaGIxNjFsazZKNS1hYy1YZ0lvZzh5bWNlamp2YTRnZVBWRFVUdGhqWmlhUjBMT2dMSE56VjNleEJHdVZ2SzZkSGl2R3MxZS1V0gFsQVVfeXFMTXJQb09uNFlLLUJVOW9mR0VvMGpPV292b3E5QXJlengxUDduWGFPV0E3RTVrVWFQcnhoX2gtX05vdUhpemYzV3V2RjdCaDFXWUIwNERHdVg1TVd1S0NrMGhtcm5Pbl91LWgyYVBh?oc=5"
         }
       ],
       "matched_keywords": []
@@ -137,7 +215,7 @@
       "id": "cce34f64705b",
       "title": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈",
       "published": "2026-06-04T21:03:09+00:00",
-      "summary": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈&nbsp;&nbsp;Chosunbiz\"기피제 뿌렸네? 여기 사람이 있구나!\"…똑똑해진 모기의 역습&nbsp;&nbsp;네이트[곽오열의 生命] 기피제 향을 '먹이'로 기억하는 모기… 기후변화 시대 ‘방역 전선’ 비상&nbsp;&nbsp;ESG비즈니스리뷰\"모기 퇴치제 믿었는데\"…학습에 의해 더 물릴 수 있어&nbsp;&nbsp;자유일보모기 기피제, 오히려 모기 부른다?… “향 기억한 모기, 더 달려들어”&nbsp;&nbsp;하이닥",
+      "summary": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈&nbsp;&nbsp;Chosunbiz[곽오열의 生命] 기피제 향을 '먹이'로 기억하는 모기… 기후변화 시대 ‘방역 전선’ 비상&nbsp;&nbsp;ESG비즈니스리뷰모기 기피제, 오히려 모기 부른다?… “향 기억한 모기, 더 달려들어”&nbsp;&nbsp;하이닥“기피제 뿌리니 모기 더 달라 붙네”… 이유 있었다&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "Chosunbiz",
@@ -168,19 +246,6 @@
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zWnNtOHN0M3dUTE1wclFwUm4xVlB1RGxvbTV0TGJ4TE1JN0FHNFRGN2NzRjQ1bWhONkxib1RTb0tsbkpVZ0s2X0pOMGV3SExxWU5MN0xockptbFk4WWE0X1dDREtEUGFXRGxOcg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "243204973e08",
-      "title": "매일 한 입만 먹어도 암 키운다?…‘이것’ 30g에 위암 위험 9% 껑충",
-      "published": "2026-06-04T14:01:33+00:00",
-      "summary": "매일 한 입만 먹어도 암 키운다?…‘이것’ 30g에 위암 위험 9% 껑충&nbsp;&nbsp;twig24.com",
-      "sources": [
-        {
-          "name": "twig24.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldlhob3RWQnE1UEt3QXRYQTlwQ2E0NXFwR1Nha0JvNGNfQ3BZcUN4QVNMR2tMd01kSFpkN1dET21WTWZBa3dhVWptLUlQallkc2xZejRxR3p2WEVtbWVSQUVxUHpuZ050aVlaNHRPSjRfYXA5SGM3LW9ZRHNjWG8?oc=5"
         }
       ],
       "matched_keywords": []
@@ -238,19 +303,6 @@
       "matched_keywords": []
     },
     {
-      "id": "2bdd7289608e",
-      "title": "“췌장이 보내는 마지막 경고” 무시하면 암 위험 높아진다는 신호는?",
-      "published": "2026-06-04T08:20:00+00:00",
-      "summary": "“췌장이 보내는 마지막 경고” 무시하면 암 위험 높아진다는 신호는?&nbsp;&nbsp;헬스조선췌장 혹사한다… 응급의학과 교수 경고한 이 음식, 뭐야?&nbsp;&nbsp;MSN50세 이후 당뇨병과 체중 감소, 췌장암 신호일 수 있다&nbsp;&nbsp;이데일리침묵의 암 '췌장암'…흡연과의 위험한 연결고리&nbsp;&nbsp;매경헬스췌장암 예방-유튜브 게재&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVFYzMFh2b21LM1g1V0M0Vl9lRW5OalBySGlBLUZJTm1xLVJRSkdpN29qTV9Ha1B1di1lWWotNVVkYXFMTlc3TGZSaEVDeHpTckdkci1pMlVFLXdaX3JkUmpWY2xpbnhvaUxMTjBQWV82cG1DZkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "858f63fe887f",
       "title": "‘한타바이러스’ 사람 간 전파 가능성은",
       "published": "2026-06-04T06:47:04+00:00",
@@ -285,6 +337,19 @@
         {
           "name": "위클리피플 인물지식가이드저널",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85OWtWMFQ1SG1xVndtV1FrZWRJZDM5WkRaNE9tZVJuSnRSeE9PM3QxeXRwWkc2RTFFM0c5V1FZRDJvcWtYV0RqX2EzNXJYUm52VHBqaU5mRHdKQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4c21f2aaf532",
+      "title": "걷다 쉬기를 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호",
+      "published": "2026-06-04T04:27:01+00:00",
+      "summary": "걷다 쉬기를 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호&nbsp;&nbsp;전국도민일보\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문",
+      "sources": [
+        {
+          "name": "전국도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NX2J6V1lBcGx2NE5paHpqTXBzeDN5YmI5clhlQ2JtZ2wtNEJfWnh5WmtvZE9UXzRQSlJhVFJXZzRhSHF0dzNxR2VPWjhlcHZSSE5COVdQdjU5MWFlUkkxNEVVakI4MGvSAWtBVV95cUxNaWFnaWpBLTl0RV9TclU0Q1liZ19oX1FNaUtOTGZtMXBTRjJSMVl6OUM2a3V6dEp3T2JqMzNLcDB3MnpnMHh1SUdxdTZQZXdoVjZRaS10YWJ3WlZla2ozRzZqWUdBUFl5NWxhSQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -381,19 +446,6 @@
       "matched_keywords": []
     },
     {
-      "id": "dd84b9c5f7d1",
-      "title": "\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야",
-      "published": "2026-06-04T00:00:00+00:00",
-      "summary": "\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84bVRVamtXVGFSUVlHWFlaQ1FCcFdYTWN3bEI3Z0tnTlpJcE40QkZRSkp3T1FodXBPVUVzcmRqelZ1bWV6ekFUb3ZFUTlFUEtKY3ZKLTBRQUtteW5XNlBhZmtrOXNsRFJFWkI0TA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "778925aeace0",
       "title": "40대 기억력 예전 같지 않다면… 뇌 건강 관리, 지금 시작해야 하는 이유",
       "published": "2026-06-03T23:00:00+00:00",
@@ -415,6 +467,19 @@
         {
           "name": "미주한국일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ERU16dU1NY2VJVFJaS1RzbHFjTE5iMEhwaDJRSzJ2S0RUYy1rZFdwUGpweWlSY3JLdTRzdDZBRVk3Vko2TzhPbWVRdVdWTGpKQWJ3VUoycWJudml5MEFJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8929399d0565",
+      "title": "‘착한 암’의 역설… 2030 급증하는 갑상선암, 무조건 안심할 수 없는 이유 ①",
+      "published": "2026-06-03T22:30:00+00:00",
+      "summary": "‘착한 암’의 역설… 2030 급증하는 갑상선암, 무조건 안심할 수 없는 이유 ①&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QU1RLanJ5cXBadjVveGZUNDc1SlFiY0Yxcmp6LTFHWkhfSGd6Ukl5MzdKVEhXa1BKMUF0UTFfYWtKRWlmTEVsTXItRWVaU05pOGRsU0VYUTJZRXIzUUpRXzBGZlB1WXhvdmc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -454,19 +519,6 @@
         {
           "name": "MSN",
           "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQdUVOb3ZZTHNwUzJCNEcwdmZsSGUyX1BqNTd5cFpaX2lTLVM0S1BvVXZnVDlGLWwxQ09qRUFlUHZFSEp5eHYtZVZJQ2RrSEZTSDRSanViOTFSN1R2U3pTdWdTVmRxWFJMMkpLMDlVZV9PckIyUUF6UkthYnNvQXJKRmpVdlBxSDR5U2s5cDhmMWtrOGxsY3FZSTBSV0JmNTJ6ZVFROGw3TzVONFFaU3RlNXdoZTN0cGVOT1hQX0gzOUxQUTZUb19RcUlzMFgwTE1iRzVhQ2pIQ1RBTHNUV1VneU53Tmh6aUtnTGhxUGpEMVExX0daZ201bWZtOFlibnMtcWNhbWI0a1ZkSEczbHNHZzJzN3I0VjYtelZ1U0dXejU3QWZ1WkhNdWlsRzhRRXh0ZDBKaXJyTkk4UmRfUk9RTVZUX0tldkJ2Tk9tT1Q4NWVQV3Zqdl9FUXlaQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0a4c00786835",
-      "title": "이 뇌종양 제거했더니 당뇨병까지 개선…놀라운 연구 결과",
-      "published": "2026-06-03T17:02:00+00:00",
-      "summary": "이 뇌종양 제거했더니 당뇨병까지 개선…놀라운 연구 결과&nbsp;&nbsp;리드경제",
-      "sources": [
-        {
-          "name": "리드경제",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LdDlYWUd2Q1NTTjJDeHQ1dmE0WUQwdDgxdE5qSHZScFRZVGtmNWphOFl0NVhheVg2enNPcThORVFmeVdSUVBsMGxiM0ZxdFFkODJIUnEtckNBRTVIYlRIdEpRb2EwWW1xRlJ4TmNLZw?oc=5"
         }
       ],
       "matched_keywords": []
