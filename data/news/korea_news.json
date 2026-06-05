@@ -1,10 +1,154 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-04T20:09:11.984563+00:00",
-  "total_fetched": 79,
-  "unique_count": 78,
-  "health_related_count": 41,
+  "fetched_at": "2026-06-05T04:04:51.714778+00:00",
+  "total_fetched": 84,
+  "unique_count": 83,
+  "health_related_count": 47,
   "news": [
+    {
+      "id": "be06c8649ffc",
+      "title": "칼슘 아연 흡수 방해하는 ‘이 성분’⋯장 건강엔 좋다고? - 코메디닷컴",
+      "published": "2026-06-05T03:05:00+00:00",
+      "summary": "칼슘 아연 흡수 방해하는 ‘이 성분’⋯장 건강엔 좋다고?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1mZTRscEFaclVFRFNzWnR4bElDYWNsT3dlVHJYaHViWW5Md2RoRlBzeDBoZy1fUG1GVERoOUdTZVhjUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1192e6225cc",
+      "title": "주 90~119분 근력 운동, 사망 위험 낮춰…“2시간 넘기면 효과 정체” - 하이닥",
+      "published": "2026-06-05T02:30:00+00:00",
+      "summary": "주 90~119분 근력 운동, 사망 위험 낮춰…“2시간 넘기면 효과 정체”&nbsp;&nbsp;하이닥“하루 딱 13분 투자를” 심장병 사망 막는 ‘운동’의 정체&nbsp;&nbsp;헬스조선유산소운동에 근력운동 더하면 효과 더 커져…사망 위험 최대 58% 감소&nbsp;&nbsp;네이트일주일에 90~120분 근력운동, 사망위험 낮춰…120분 초과 시 추가 이점 無&nbsp;&nbsp;동아사이언스걷기를 즐기는 사람들에게 좋은 소식입니다!&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4amdYVjQzaUstN09VR241ZHUyVzNGMHVmQ092ZW5aaFh2VHpuaDBkMC1jRF9hOHE1cGR4blh0S1h6VEljSWk5NDMyd0FpUmZUUUcyTXFnWkdQWE10ZjJaMUROTXV3SHBtMlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f6d2e206a1e",
+      "title": "“요요 올까봐 살 안 뺀다”는 건 핑계… 내장지방 한 번 빼두면 효과 지속 - 헬스조선",
+      "published": "2026-06-05T02:30:00+00:00",
+      "summary": "“요요 올까봐 살 안 뺀다”는 건 핑계… 내장지방 한 번 빼두면 효과 지속&nbsp;&nbsp;헬스조선살 빼려고 쫄쫄 굶을 수는 없고...‘이런 음식’ 먹으면 체지방 줄어&nbsp;&nbsp;코메디닷컴체중 감량에 최고로 좋은 탄수화물...다이어트 할 때 콩류가 좋은 이유&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aMWo1Z0h2WFZpNmVMT1JTRFBvWWQ0bWtGUVhOUmtLVTZrQlRUb3RLQmJaYnVqR1oybDJ4QnZqeXBuMnVMVndzaERJV2g4U2hCbDR3VURoZjlIa3FzOHZ4VmhqYmk3bmtNYTZ5azFpcW02bHo0OHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e076d51ca7bc",
+      "title": "UC 샌디에이고 의과대학, 신경성 식욕부진증 치료 위한 케톤 생성 요법의 희망 시사하는 새로운 증거 보고 - 뉴스와이어",
+      "published": "2026-06-05T02:30:00+00:00",
+      "summary": "UC 샌디에이고 의과대학, 신경성 식욕부진증 치료 위한 케톤 생성 요법의 희망 시사하는 새로운 증거 보고&nbsp;&nbsp;뉴스와이어",
+      "sources": [
+        {
+          "name": "뉴스와이어",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxWHZwRE13SVBTcEYzVHhlNmNvWk1VNlY1aDZ2S2xzQW9uMVhBajdTZ2xzcWlvZU8ydnFkUFl3WkY0NjhtdjBWNDNHdF83VXRIejFOdFpfVG5SUGtwc1VJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e68ba7d643b7",
+      "title": "갱년기 살찌는 속도 늦춘다… ‘이 식단’ 비만 위험 54% 낮춰 - 하이닥",
+      "published": "2026-06-05T02:00:00+00:00",
+      "summary": "갱년기 살찌는 속도 늦춘다… ‘이 식단’ 비만 위험 54% 낮춰&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBeGJBdlFER0M5ZVZ5Q01mbnlKejkwVkY3T1VZRDc1Q2xBRjlVQk9SVnFJUjVuTkRqMk9TYXhUeDJnd2lJRFZRMnVuQzYzWnFRQWhKcUZpcjBCSDhtVXBSVXpMUXdPX3Uyb2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc0216c72e62",
+      "title": "중동, 정밀 종양학 연구 허브로 부상…한국 제약·바이오 협력 기회 주목 - 유스연합",
+      "published": "2026-06-05T00:03:30+00:00",
+      "summary": "중동, 정밀 종양학 연구 허브로 부상…한국 제약·바이오 협력 기회 주목&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90MXNoM1k1UTFReWdkWmJSaTNfZlZxZEoxc3V0ZjJPYWl5dF9hVFNJWkI5VU9lVzUxYTNnUFJkYVFmVXNBZHlyTHBMdmktVENBdnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a7e16a3b563",
+      "title": "'의미 없는 장기' 취급된 흉선의 대반전: 수명·암 치료 좌우하는 열쇠 - 뉴스토마토",
+      "published": "2026-06-04T23:52:25+00:00",
+      "summary": "'의미 없는 장기' 취급된 흉선의 대반전: 수명·암 치료 좌우하는 열쇠&nbsp;&nbsp;뉴스토마토",
+      "sources": [
+        {
+          "name": "뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FT0Fzb3FJUjdINklZREZpVkFJS3R6cTlTZDdKbkt1WjlSaXdlWE5xTmRzOWN0ZEltcEpBVFpEOGhMNENSdW93amJjN3dXcXpBVnp5aG9RWkx1dy1qdnRmWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4b4835d1a71",
+      "title": "위고비, 생물학적으로 노화 늦추는 효과까지 - 메디컬투데이",
+      "published": "2026-06-04T23:50:25+00:00",
+      "summary": "위고비, 생물학적으로 노화 늦추는 효과까지&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUTHpJOEszYmY4RnhSaGIxNjFsazZKNS1hYy1YZ0lvZzh5bWNlamp2YTRnZVBWRFVUdGhqWmlhUjBMT2dMSE56VjNleEJHdVZ2SzZkSGl2R3MxZS1V0gFsQVVfeXFMTXJQb09uNFlLLUJVOW9mR0VvMGpPV292b3E5QXJlengxUDduWGFPV0E3RTVrVWFQcnhoX2gtX05vdUhpemYzV3V2RjdCaDFXWUIwNERHdVg1TVd1S0NrMGhtcm5Pbl91LWgyYVBh?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b0ab0370167",
+      "title": "“장기이식용 돼지 개발 한걸음”…면역 거부반응 낮춘 형질전환 돼지 생산 - 농민신문",
+      "published": "2026-06-04T23:35:03+00:00",
+      "summary": "“장기이식용 돼지 개발 한걸음”…면역 거부반응 낮춘 형질전환 돼지 생산&nbsp;&nbsp;농민신문돼지 신장·간 ‘53살 뇌사자’에 동시 이식…5일간 정상 작동했다&nbsp;&nbsp;한겨레한 사람 몸에 돼지 장기 3개 세계 최초 동시 이식&nbsp;&nbsp;동아사이언스돼지 몸에서 인간 장기 키운다…중국 러브콜 뒤로 하고 한국 온 석학 - 머니투데이&nbsp;&nbsp;머니투데이돼지 간과 콩팥, 사람 몸에 통째로…세계 최초 이식 성공&nbsp;&nbsp;리드경제",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVkJPbnBEaDI3d3BOekpaR1REOFkxQXNKc0pILVJta2ZHc1RuSXUydTJDRXU0aEN3SG9fZmlyUkpzMFFWSUNIRHJ4LVBwazBPUDRCWW1mcGFkdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cabf0906b45c",
+      "title": "도시 빛 공해, 알레르기 계절 최대 130일 연장 - 네이트",
+      "published": "2026-06-04T23:04:00+00:00",
+      "summary": "도시 빛 공해, 알레르기 계절 최대 130일 연장&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzaDlRaHVUcDFVejZXeThSSkZwdnpxSmlBaGVtV2ZJTlZBeWtUV0JOZXpuOHJvd0dHUFVfbV9vVWtnc2t5Q2gtUG9rYUlscFBybHJReVY1NWM4WHIwMmotQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cce34f64705b",
+      "title": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈 - Chosunbiz",
+      "published": "2026-06-04T21:03:09+00:00",
+      "summary": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈&nbsp;&nbsp;Chosunbiz\"기피제 뿌렸네? 여기 사람이 있구나!\"…똑똑해진 모기의 역습&nbsp;&nbsp;네이트[곽오열의 生命] 기피제 향을 '먹이'로 기억하는 모기… 기후변화 시대 ‘방역 전선’ 비상&nbsp;&nbsp;ESG비즈니스리뷰\"모기 퇴치제 믿었는데\"…학습에 의해 더 물릴 수 있어&nbsp;&nbsp;자유일보모기 기피제, 오히려 모기 부른다?… “향 기억한 모기, 더 달려들어”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0dqdjRxVlE1TVZjMGszQ00yZjVfSm9wUWFZdjdIY0p0NktMbG04VjhSa3k5MFhmcnRLNWNndng5Z2pqdDVuMk1mWEwxaGoyeHBpWVI3c2VMWjZPVHltMEFpVWE3enBEMTlTWF9zdW1sZDE4dkpPLVgyeTBlN2RfcHBuV0dsaWVrY25BdkhOS25lbjZnNmxz0gGrAUFVX3lxTE5jb0p0SGZ3Wk1scU1BTFhfMnpRX2lhVlNydjR2ZWVxRU5zdDRfaGtienBOeG9WeEhZNVRreEcxX1NLZWJQOVNtdl9VVVBVX0ZLbmFxZUV4TVZwak1JVHc3bWdZa2x2N2RLWnNTc2ZHQXF6aFpuN1J3Y3BLclRkdDdDR1BtRlhPckFwU21hYU9GVTJnTzBnTE56QVNIbll1dEFxLUdnYUZpTkwwcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "042803fc95da",
+      "title": "암 환자 정신건강 관리 사각지대…벤조디아제핀 중심 처방 구조 드러나 - 메디칼업저버",
+      "published": "2026-06-04T20:55:28+00:00",
+      "summary": "암 환자 정신건강 관리 사각지대…벤조디아제핀 중심 처방 구조 드러나&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LeUR6akZYaVFKNUdmR3FRS2YyTG5vWmlBb0NtRVZTdWdnWVFJRGtFZTNEbVpSTjB4dm5UZEhlaU9UYU9vX3I2ckY3QzZwb1VCemhEelg3bTkxUDZ3TXZ0S3Y5ZUk1V0E3UVFN?oc=5"
+        }
+      ]
+    },
     {
       "id": "4092e5ba2624",
       "title": "\"검사는 미루고, 백신은 망설이고\"…성병 예방이 어려운 이유 - 매경헬스",
@@ -14,18 +158,6 @@
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zWnNtOHN0M3dUTE1wclFwUm4xVlB1RGxvbTV0TGJ4TE1JN0FHNFRGN2NzRjQ1bWhONkxib1RTb0tsbkpVZ0s2X0pOMGV3SExxWU5MN0xockptbFk4WWE0X1dDREtEUGFXRGxOcg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ac346611d1c",
-      "title": "2026년부터 당뇨·고혈압 한의 치료 건강보험 적용…방문 진료도 신설 - 한국AI부동산신문",
-      "published": "2026-06-04T14:57:09+00:00",
-      "summary": "2026년부터 당뇨·고혈압 한의 치료 건강보험 적용…방문 진료도 신설&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUd2lZRk04ejNmLU1iZEZpeHlqRC0yMEx0RzRwaTJEM2E2WEx6Zm9jRnNYMFd4LUtpeElHMXdlcjBRSENjNzE0WUtsNHI?oc=5"
         }
       ]
     },
@@ -57,7 +189,7 @@
       "id": "91a6a2db0cc3",
       "title": "위고비로 살 뺐는데 근육도 빠지네...\"약 끊고 운동 안 하면 지방부터 늘어\" - 디멘시아뉴스",
       "published": "2026-06-04T11:55:46+00:00",
-      "summary": "위고비로 살 뺐는데 근육도 빠지네...\"약 끊고 운동 안 하면 지방부터 늘어\"&nbsp;&nbsp;디멘시아뉴스살 안 빠져도 운동해야… 美심장협회 \"비만 치료의 핵심은 신체 활동\"&nbsp;&nbsp;조선일보운동 할수록 더 살찌는 사람의 특징, 이런 이유가 있다&nbsp;&nbsp;GQ Korea운동했는데 살이 안 빠졌다…체중계가 못 본 변화&nbsp;&nbsp;네이트\"운동만 하면 체중의 2~3% 빠지지만…심장·혈관엔 좋다, 왜?\"&nbsp;&nbsp;네이트",
+      "summary": "위고비로 살 뺐는데 근육도 빠지네...\"약 끊고 운동 안 하면 지방부터 늘어\"&nbsp;&nbsp;디멘시아뉴스살 안 빠져도 운동해야… 美심장협회 \"비만 치료의 핵심은 신체 활동\"&nbsp;&nbsp;조선일보위고비, 음식 갈망까지 관리한다…'장기 체중유지' 가능성 주목&nbsp;&nbsp;메디코파마운동 할수록 더 살찌는 사람의 특징, 이런 이유가 있다&nbsp;&nbsp;GQ Korea운동했는데 살이 안 빠졌다…체중계가 못 본 변화&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "디멘시아뉴스",
@@ -105,23 +237,11 @@
       "id": "2bdd7289608e",
       "title": "“췌장이 보내는 마지막 경고” 무시하면 암 위험 높아진다는 신호는? - 헬스조선",
       "published": "2026-06-04T08:20:00+00:00",
-      "summary": "“췌장이 보내는 마지막 경고” 무시하면 암 위험 높아진다는 신호는?&nbsp;&nbsp;헬스조선5년 생존율 17%, 신호도 없는 췌장암…“단 음료부터 줄여라”&nbsp;&nbsp;v.daum.net50세 이후 당뇨병과 체중 감소, 췌장암 신호일 수 있다&nbsp;&nbsp;이데일리침묵의 암 '췌장암'…흡연과의 위험한 연결고리&nbsp;&nbsp;매경헬스췌장암 예방-유튜브 게재&nbsp;&nbsp;브런치",
+      "summary": "“췌장이 보내는 마지막 경고” 무시하면 암 위험 높아진다는 신호는?&nbsp;&nbsp;헬스조선췌장 혹사한다… 응급의학과 교수 경고한 이 음식, 뭐야?&nbsp;&nbsp;MSN50세 이후 당뇨병과 체중 감소, 췌장암 신호일 수 있다&nbsp;&nbsp;이데일리침묵의 암 '췌장암'…흡연과의 위험한 연결고리&nbsp;&nbsp;매경헬스췌장암 예방-유튜브 게재&nbsp;&nbsp;브런치",
       "sources": [
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVFYzMFh2b21LM1g1V0M0Vl9lRW5OalBySGlBLUZJTm1xLVJRSkdpN29qTV9Ha1B1di1lWWotNVVkYXFMTlc3TGZSaEVDeHpTckdkci1pMlVFLXdaX3JkUmpWY2xpbnhvaUxMTjBQWV82cG1DZkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "523cf231de3a",
-      "title": "“계단, 과하게 오르기만 하면 무릎 망가진다”…‘안전한 내려오기’ 운동도 병행해야 - 경향신문",
-      "published": "2026-06-04T06:29:00+00:00",
-      "summary": "“계단, 과하게 오르기만 하면 무릎 망가진다”…‘안전한 내려오기’ 운동도 병행해야&nbsp;&nbsp;경향신문계단은 '무조건 올라야' 좋은 운동인 줄 알았는데···전문가 \"그러다 무릎 망가진다\"&nbsp;&nbsp;v.daum.net계단 오르기를 넘어, 50세 이후 무릎 건강을 조용히 해치는 세 가지 습관을 소개합니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNDZwenNWVHppd21tV21SNzRVaW1PRnpucFBRVHZQblBWV2EtcElVeXBiTFBPb1BBaTl0WmZHRkdrSjdKSFVpUzhPcnh2SEFRSldVS3YtbVk5UdIBX0FVX3lxTE1wR2tiUGxoM3ZudlBGWWc5RTRwOWRpVGhTYTJGRmZZTlAyLTQtb3hKSjVYcWg1ek5HdjdRUm9DRm56OXVIUHlrSWFLZDg2OU45Um1KRUdBcGlLQWVwdzN3?oc=5"
         }
       ]
     },
@@ -162,14 +282,14 @@
       ]
     },
     {
-      "id": "bf7a8111872a",
-      "title": "암 잡는 CAR-T치료로 신장 이식 거부 반응도 잡았다 - 동아사이언스",
-      "published": "2026-06-04T04:49:00+00:00",
-      "summary": "암 잡는 CAR-T치료로 신장 이식 거부 반응도 잡았다&nbsp;&nbsp;동아사이언스",
+      "id": "79968069a0a2",
+      "title": "바이오·이차전지·핵융합 등 특화 AI모델 개발에 225억원 투입 - 동아사이언스",
+      "published": "2026-06-04T04:00:00+00:00",
+      "summary": "바이오·이차전지·핵융합 등 특화 AI모델 개발에 225억원 투입&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CQjhtazN4VXBCRC0wQkdvX01VV3MyR2MwUTREMFhtbVI1YjV0Y25jYV9Ic0lycF82RHNTMEJRdE1ZX3d2V09LelNwTV9PYmc4Rm9GNA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pSTNqc2pXREh2YzJWWnh6V3dqbFkzR0tRWm5ZQXBqUHByUy12RnkxNnBWQVNqRVhiUnFQRXExNGdWUHlWNEc0Q1pUaTNza0N5R1Zkcw?oc=5"
         }
       ]
     },
@@ -189,7 +309,7 @@
       "id": "e37e05ead600",
       "title": "美 백신 접종 감소에…예방 가능했던 질병의 부활 - 한국경제",
       "published": "2026-06-04T01:32:34+00:00",
-      "summary": "美 백신 접종 감소에…예방 가능했던 질병의 부활&nbsp;&nbsp;한국경제",
+      "summary": "美 백신 접종 감소에…예방 가능했던 질병의 부활&nbsp;&nbsp;한국경제백신 맞아봐야 무용지물?…\"트럼프 행정부가 틀렸다\" 왜?&nbsp;&nbsp;네이트트럼프 대통령이 백신 접종에 관한 행정 명령에 서명하면서 의료계에 파장이 일고 있다.&nbsp;&nbsp;Vietnam.vn[건강포커스] \"독감 백신, 어린이 100명 접종 시 독감 환자 9~14명 줄여\"&nbsp;&nbsp;매일경제 마켓트럼프, 예방접종 축소 지시…17종서 A·B형 간염 뺀11종&nbsp;&nbsp;애틀랜타 중앙일보",
       "sources": [
         {
           "name": "한국경제",
@@ -234,22 +354,10 @@
       ]
     },
     {
-      "id": "a80f0d96c7bf",
-      "title": "집만 바꿔도 치매위험 35% 뚝, '이때' 해야 효과 - 여수교차로",
-      "published": "2026-06-04T00:07:19+00:00",
-      "summary": "집만 바꿔도 치매위험 35% 뚝, '이때' 해야 효과&nbsp;&nbsp;여수교차로‘집 구조만 바꿔도 치매 위험 35% 감소!’ 뇌의학자가 말하는 치매 예방 인테리어&nbsp;&nbsp;v.daum.net뉴로테리어&nbsp;&nbsp;교수신문벽지·조명 바꾸면 치매 위험 낮춘다&nbsp;&nbsp;한국경제집만 바꿔도 치매위험 35% 뚝…'이때' 해야 효과&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "여수교차로",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mN1FhLU02dzM3X2RlSlB3aFhfcFB4M0lONy1ObGkwV0o5c1dtMElfbHVJaU9odHU0Q0t4U2tyVWJvMkNlVG56anluQVIxUTdldk9ld094MVA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dd84b9c5f7d1",
       "title": "\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야 - 매경헬스",
       "published": "2026-06-04T00:00:00+00:00",
-      "summary": "\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스몇 걸음 못 가 멈추는 다리 통증, 방치했다가 절단 위기?&nbsp;&nbsp;헬스조선[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문",
+      "summary": "\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문",
       "sources": [
         {
           "name": "매경헬스",
@@ -261,7 +369,7 @@
       "id": "778925aeace0",
       "title": "40대 기억력 예전 같지 않다면… 뇌 건강 관리, 지금 시작해야 하는 이유 - 하이닥",
       "published": "2026-06-03T23:00:00+00:00",
-      "summary": "40대 기억력 예전 같지 않다면… 뇌 건강 관리, 지금 시작해야 하는 이유&nbsp;&nbsp;하이닥",
+      "summary": "40대 기억력 예전 같지 않다면… 뇌 건강 관리, 지금 시작해야 하는 이유&nbsp;&nbsp;하이닥40대부터 시작되는 뇌 위축… 신경과 교수, “이렇게 막아라”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "하이닥",
@@ -282,22 +390,10 @@
       ]
     },
     {
-      "id": "9bce608c1fdc",
-      "title": "결과 제출 앞둔 콜린 임상재평가… '1차 변수 미충족'이 변수 - 히트뉴스",
-      "published": "2026-06-03T21:04:00+00:00",
-      "summary": "결과 제출 앞둔 콜린 임상재평가… '1차 변수 미충족'이 변수&nbsp;&nbsp;히트뉴스간헐성 파행·어지럼증에 쓰이던 은행잎 추출물, 치매 원인물질 억제 확인&nbsp;&nbsp;조선일보더 시그널 2호, 살아있는 화석 '은행잎 추출물' 효능 집중 조명&nbsp;&nbsp;히트뉴스[헬스캡슐]은행잎 추출물, ‘베타아밀로이드 응집 억제’ 효과 확인 外&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "히트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HbFM4ZF9QREZPN2plWHIzVWpjbXFIWTU5UHF2OE5iUlVDSzYwT2wtVnlFc1hZb1NaekhzX0s4RXQxN3VJTFQ4dDg5QVpPcnJYb2s1U3RaNzg1Z0tYQk5UcFRiQVpwQm0xYllJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "88b6e0f3445d",
       "title": "심혈관 노화 바이오 신약개발 '표적·재생' 정조준 - 약업신문",
       "published": "2026-06-03T21:01:00+00:00",
-      "summary": "심혈관 노화 바이오 신약개발 '표적·재생' 정조준&nbsp;&nbsp;약업신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "심혈관 노화 바이오 신약개발 '표적·재생' 정조준&nbsp;&nbsp;약업신문[식이요법] '혈관 건강은 식탁에서 시작된다'&nbsp;&nbsp;약업신문리포단백(a) 낮추는 신약, 심혈관 시장 흔드나&nbsp;&nbsp;한국경제늙어가는 혈관을 막아라…심혈관 노화 치료의 새로운 시대&nbsp;&nbsp;약업신문늙은 혈관 시계 거꾸로 돌린다… K-제약, 심혈관 '역노화' 신약 패권 정조준&nbsp;&nbsp;약업신문",
       "sources": [
         {
           "name": "약업신문",
@@ -330,14 +426,38 @@
       ]
     },
     {
-      "id": "b9149ea85723",
-      "title": "대장암 진행 막는다… 당장 식탁에 올려야 할 ‘두 가지’ - 헬스조선",
-      "published": "2026-06-03T19:00:00+00:00",
-      "summary": "대장암 진행 막는다… 당장 식탁에 올려야 할 ‘두 가지’&nbsp;&nbsp;헬스조선좋은 소식입니다. 오메가-3가 췌장암에 대한 \"방패\" 역할을 할 수 있습니다.&nbsp;&nbsp;Vietnam.vn좋은 소식입니다. 과학자들이 오메가-3를 이용해 암세포를 죽이는 방법을 발견했습니다.&nbsp;&nbsp;Vietnam.vn과학자들이 오메가-3 지방산을 이용해 암세포를 죽이는 방법을 발견했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "c0ad152dd09b",
+      "title": "“어…” “음…” 자주 쓰면 치매? - 마음건강 길",
+      "published": "2026-06-03T20:50:00+00:00",
+      "summary": "“어…” “음…” 자주 쓰면 치매?&nbsp;&nbsp;마음건강 길",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BRk12SEFHZDBXdTRPcF9EdEVMNFZyV2JjdzF1ZUpxbFNUOHJVWktLMk5MSkFKV3FnRnhPUzA5Wl9TWnZFeTB5VDM0UEZ6al92cTBxd2FxaEpLbDZWallvSDBmMGRMZ054YkxPQlQ5VEl6TWpZeHc?oc=5"
+          "name": "마음건강 길",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52ZWEtVE1pUHM2Z0w0M1lFMDg1M1ppUC1mNEJobzFESzZsUjJOYTk2UVcxV1FHVkZVVlpRQVV6emZGV1QxUnZrVW00a1NxS21FYXZ3LWd0c2YxQ1NDTzhGeWc3X0RoTDREdlHSAW5BVV95cUxQdWNSenB6NVE0ck5ZQlZ5b3J5X2ZxcjFiSkdSRXJ1ZGpTTzhBWmdpYjB0dVJBY0dLeFNJRGpTN3kxWFU4dDYzbGgtX2s3Nm5jcXVqV3dmUUViQllFellLU0wwUE5ZSnpvb1pDam9pdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5be328c05caa",
+      "title": "대장암 진행 막는다… 당장 식탁에 올려야 할 '두 가지' - MSN",
+      "published": "2026-06-03T20:47:45+00:00",
+      "summary": "대장암 진행 막는다… 당장 식탁에 올려야 할 '두 가지'&nbsp;&nbsp;MSN대장암 진행 막는다… 당장 식탁에 올려야 할 ‘두 가지’&nbsp;&nbsp;헬스조선좋은 소식입니다. 오메가-3가 췌장암에 대한 \"방패\" 역할을 할 수 있습니다.&nbsp;&nbsp;Vietnam.vn좋은 소식입니다. 과학자들이 오메가-3를 이용해 암세포를 죽이는 방법을 발견했습니다.&nbsp;&nbsp;Vietnam.vn과학자들이 오메가-3 지방산을 이용해 암세포를 죽이는 방법을 발견했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "MSN",
+          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQdUVOb3ZZTHNwUzJCNEcwdmZsSGUyX1BqNTd5cFpaX2lTLVM0S1BvVXZnVDlGLWwxQ09qRUFlUHZFSEp5eHYtZVZJQ2RrSEZTSDRSanViOTFSN1R2U3pTdWdTVmRxWFJMMkpLMDlVZV9PckIyUUF6UkthYnNvQXJKRmpVdlBxSDR5U2s5cDhmMWtrOGxsY3FZSTBSV0JmNTJ6ZVFROGw3TzVONFFaU3RlNXdoZTN0cGVOT1hQX0gzOUxQUTZUb19RcUlzMFgwTE1iRzVhQ2pIQ1RBTHNUV1VneU53Tmh6aUtnTGhxUGpEMVExX0daZ201bWZtOFlibnMtcWNhbWI0a1ZkSEczbHNHZzJzN3I0VjYtelZ1U0dXejU3QWZ1WkhNdWlsRzhRRXh0ZDBKaXJyTkk4UmRfUk9RTVZUX0tldkJ2Tk9tT1Q4NWVQV3Zqdl9FUXlaQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "217b318e721f",
+      "title": "MSD ‘엔플론시아’ 허가 … 국내 영유아 RSV 예방 독점 깨졌다 - 메디소비자뉴스",
+      "published": "2026-06-03T20:12:52+00:00",
+      "summary": "MSD ‘엔플론시아’ 허가 … 국내 영유아 RSV 예방 독점 깨졌다&nbsp;&nbsp;메디소비자뉴스한국MSD RSV 예방 항체 주사 엔플론시아 국내 허가&nbsp;&nbsp;히트뉴스폐렴, 뇌수막염, 패혈증 등을 유발하는 폐렴구균이 약물에 대한 내성을 점점 더 강하게 나타내고 있다.&nbsp;&nbsp;Vietnam.vn“RSV, 독감만큼 흔하지만 더 치명적…고령층 대상 백신 사실상 유일한 해결책”&nbsp;&nbsp;헬스경향RSV 예방 항체 효과 입증됐는데, 백신 아니라 지원 안 된다?&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "메디소비자뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FM19Sb3dIUjMyeWF4ZG5UbEd1MXpjNjdkOWVIaUREd1J1T2o5ajJISDJBZEVVOS1fZ2dGTWNKMkRlU0VyN2JsMERPLWRVT0FrUkk1Y2YxQThwR2c5OU0zYkJFdVBMc0trV192bmFtN0FSZ9IBdkFVX3lxTE5QbGQ2Q09VQUZ3eGxKa2w4a2hoQXk4M3QxRWZSRGwzcG9ZbUM3dHNybzdoVVpNb3pFaGFPY0F5ZV9pUFJDRHFLLVFqMVczN19OMUUxNVdySEpvN3laZ3VDSGlRLThzaWs5Y2oxYnI0UDI2MklkRWc?oc=5"
         }
       ]
     },
@@ -402,6 +522,18 @@
       ]
     },
     {
+      "id": "4ef583dca19f",
+      "title": "교보라이프플래닛생명, 우울증·공황장애 보장되는 보험 - 한국경제",
+      "published": "2026-06-03T07:02:24+00:00",
+      "summary": "교보라이프플래닛생명, 우울증·공황장애 보장되는 보험&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wU0JfQkpIMEZtRGNST2YxbEtYaFc0RUhQcFQ3TDg1TC1hb0llVW9fMnBWNTFJUXROMUIyTnpDa3hNdmp2YTBFSlVtWW03MWlBSjQ2TkNSR2pxUdIBVEFVX3lxTFBlVkRVVmZ1OTQ4RThqR0ZFNEJDZmZKbDhLTWYxZ0h0aTlkYXZ6aTdUM0lhRDBadnJsQXNfZlk2S1dsZ0J3QlNXdE96SlJQUlVJbGN5QQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a0266af7b49a",
       "title": "말기 간 질환 환자 3명 중 1명 겪는 근감소증...환자별 맞춤 치료 길 열려 - 메디컬투데이",
       "published": "2026-06-03T05:09:21+00:00",
@@ -410,30 +542,6 @@
         {
           "name": "메디컬투데이",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52UjMtMFFUdldfR3pwLUxrZDFaTGhhTmhUQ0tQWGVMSmJ5eDlYNlRFeUtwQk1vaU5zb3owY0V0NFh2WWhqdGUwOEJlUGFYcUFRZ21jOXU3cTlLekFGUldEeWlB0gFsQVVfeXFMTnF0WjhmWDIycXY4MjdwRlBORmktR3VoTjYwc1gwejVFRzBIT25mQ0RKVEJGNE5IbEg3TWtRZmZMWHFhd21HSG10MXdmTkQwUWZCdmxidFlnV1V1Um1ORGhwQ3BkdDJpM2s5cTI4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "356410a150d7",
-      "title": "뇌사자에게 돼지 간·신장 동시 이식…세계 첫 성공 - supple.kr",
-      "published": "2026-06-03T00:30:17+00:00",
-      "summary": "뇌사자에게 돼지 간·신장 동시 이식…세계 첫 성공&nbsp;&nbsp;supple.kr돼지 신장·간 ‘53살 뇌사자’에 동시 이식…5일간 정상 작동했다&nbsp;&nbsp;한겨레한 사람 몸에 돼지 장기 3개 세계 최초 동시 이식&nbsp;&nbsp;동아사이언스돼지 몸에서 인간 장기 키운다…중국 러브콜 뒤로 하고 한국 온 석학 - 머니투데이&nbsp;&nbsp;머니투데이돼지 간과 콩팥, 사람 몸에 통째로…세계 최초 이식 성공&nbsp;&nbsp;리드경제",
-      "sources": [
-        {
-          "name": "supple.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10eUhGeUluQ2dsQ3pZVnpNSFFLTkNmR2IzQzVTZklXLWtDOHZjeDV1ZFVKS252SXZBeUZVVDdMZkVzQlIxS0w1bzRqdlRBRWFFMFJrb3dBblhzODdf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e83dcafcab40",
-      "title": "허리 아프면 무조건 누워라? 척추 건강 망치는 8가지 오해 - 헬스조선",
-      "published": "2026-06-02T21:00:00+00:00",
-      "summary": "허리 아프면 무조건 누워라? 척추 건강 망치는 8가지 오해&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UUC16VWlPZW0zcjBwai05clZIenllSV9FNkhpdTdaVUVpY29Fb1FLSmRLYXY1M2VEaWtMZW1uV3MxbFFNam04c2xvbkRwc3VPLWxRNWZleEdMalROQzQ3NG4ycmhWV1dKQzYwQzhjaHVLcFFOVkE?oc=5"
         }
       ]
     },
@@ -458,42 +566,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTdmYTZZZDVpaDhnelFJa3NDVndsZUhjVWUtY3RsMzExVlNjeTlpNFdJMVVZOWhEVHpJenE0UU5fYzNDbUVuWnVWeWdTczBrdVhCSXNydVRRZUZEd1hYWHNZZ2haRjNIOTBUd3JSdFB4V2VOb3Y2OTd1R3JWeVA4WE9uNDVWM3BMZE5GctIBoAFBVV95cUxNLVB0cm5RYkR1aWM4eVJ1OVQ5M05JX2N0UFZtNXRUa0FCeVpEV18ySnJldklfOW8wcTBBSl81akpkNFhwSkJmNXRYSW9kZjVVTGZsM0hSNEFlTjRRYW1mZUk5WUE0VUdNcDZKYk5MekEzZl9IOGQtaVRIdHJzbjlUOVRuTzRrcDhmWmgwYTdUWkQ2R0xELV9NZ3RiWjl2dERy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1edb614beebd",
-      "title": "완벽주의에 갇힌 MZ세대…그러나 연구 결과는 정반대였다 - 세계일보",
-      "published": "2026-06-02T07:09:10+00:00",
-      "summary": "완벽주의에 갇힌 MZ세대…그러나 연구 결과는 정반대였다&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iUlRrb1lxZTJQSFlaZ0gtN3dDWFY4QTEzbXlsUGxvalVqNVZMUE9SRXdhbW5iNE5yMjRsWF90bWhKSmwyS2pJT01keF95MXB5cThyQktPLUnSAVRBVV95cUxPR1RRUXNzVkZreC1McV82ZjZacjlDZ19PdFh5OGtNSkJGVXoxcnZDbzdhYTJRQXNkYTdfN0JyUVYzZnBuVGxpTmxWdm1VdVZTU2YtUHU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd8240cf0b40",
-      "title": "손상된 장 점막, 줄기세포로 재생…오가노이드 치료제 개발 본격화 - 동아사이언스",
-      "published": "2026-06-02T01:38:00+00:00",
-      "summary": "손상된 장 점막, 줄기세포로 재생…오가노이드 치료제 개발 본격화&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CMGhmbzJNczJXRUk2M1h3TmR1SllmX0x0UmhHeG1BSVEzN0NnbzZld1RTekk5d0xOanp6VDA3SHlsaVpJdnZsR2ptZzdOTVdCLTdkVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abdeac5ed7e0",
-      "title": "유창훈 교수 “리라푸그라티닙, FGFR2 담관암서 ‘베스트 인 클래스’ 가능성” - 더바이오",
-      "published": "2026-06-01T22:24:28+00:00",
-      "summary": "유창훈 교수 “리라푸그라티닙, FGFR2 담관암서 ‘베스트 인 클래스’ 가능성”&nbsp;&nbsp;더바이오",
-      "sources": [
-        {
-          "name": "더바이오",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZlJSMFU5RnRHTnBFQW4xY0JaN3VMeUV6NUFBOUZYcUtOZWZxOEc3WG03aTVCWFRkTkNTYVFnYkVGVDBraEl2Tm9xWkpmYkEtZlNaaF9jUmRNLTZyQjlSWTkwNjJ2TUxtZlNDWNIBcEFVX3lxTE9zZHY4LXQwOGhiQmx5bUdmYVhrbDJPNDJ6RU81eXZrbnZIdmdISTR3UktzQnpPRXlZaUowM0tHSkE4bTVNcVRRYzluOE5RSWhLSVVQTzY0UDkzTlNleW9JTzcta1RsSFlBejVaR0dDU2M?oc=5"
         }
       ]
     }
