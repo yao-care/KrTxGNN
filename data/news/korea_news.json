@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-05T09:57:16.452047+00:00",
-  "total_fetched": 76,
-  "unique_count": 75,
-  "health_related_count": 41,
+  "fetched_at": "2026-06-05T14:57:18.721878+00:00",
+  "total_fetched": 73,
+  "unique_count": 71,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "e4ad5b19f6b3",
+      "title": "\"요즘 왜 이렇게 피곤하지?\"... 간이 보내는 위험 신호일 수도 - 헬스이슈앤뉴스",
+      "published": "2026-06-05T07:02:42+00:00",
+      "summary": "\"요즘 왜 이렇게 피곤하지?\"... 간이 보내는 위험 신호일 수도&nbsp;&nbsp;헬스이슈앤뉴스더운 날 시원하게 갈증을 해소해 줄 '황금빛' 음식 4가지&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "헬스이슈앤뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOQW5lNlEzSHM1VG9ZUVFhMTVFQ3B4WFgxTkhCQzdwUDBpM3lJNGJuc1V0S3Bwbmk5OHh2b1kxNEJCbDhGRGhaWTZUN1BnaDFIZzM1N3ZKLTk1aG0yYWtlU3F4cmtONVFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a60781b8e10",
+      "title": "구글, 美에 ‘불임 모기’ 6400만 마리 푼다… 과학자들 “살충제보다 환경 부담 적어” - 조선비즈 - Chosunbiz",
+      "published": "2026-06-05T06:52:00+00:00",
+      "summary": "구글, 美에 ‘불임 모기’ 6400만 마리 푼다… 과학자들 “살충제보다 환경 부담 적어” - 조선비즈&nbsp;&nbsp;Chosunbiz“모기로 모기 잡는다”…美 전역에 ‘불임 모기’ 대량 살포&nbsp;&nbsp;v.daum.net“불임 모기 교배시켜 모기 박멸”…구글, 불임 모기 3200만마리 방생한다&nbsp;&nbsp;전자신문\"생태계 교란\" vs \"감염병 차단\"... 미국 전역을 발칵 뒤집은 실험 [지금이뉴스]&nbsp;&nbsp;YTN“구글이 왜 모기를?”…6400만 마리 풀겠다니, 美 발칵 뒤집힌 이유 [핫이슈]&nbsp;&nbsp;나우뉴스",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUC04YnJsOHZfVllLWkdmWUZMVEUwT1pseTAxN2Vlb0VKMWpQSHA5bGVUWDhyY0tyOUtNanEzeUpqRHRWcG1SZEVHM09tUE8wRWVjaTNWUjVLRGVQTHg5eXhzTDJMRTIwekFDMDFGWUFYZXZyN2dURV85UzFpMEw3VlZGaEZvUXFCSHd6UtIBoAFBVV95cUxQRGpDcVpmLVdGRnR5R0JfTUFISGp6azVGSTJBcG9FUVVFamtXWlQ4N29xMGM4MzVoS0Vodmdrdm9YVlZyZXc2NWZQRy0zMjZ6M3lWOU9jdzUtTjlqS0lQNExDSWxaUGNtMEhmdVlPRUIxbjVCckRuWGVmVHJjMkNlYXk0UDlKeDdxSWdGbEpmdFczcHY0b1ZNNnZvVEY1NVNS?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c99e0575264",
+      "title": "독감·대상포진 백신이 치매 막는다?…빅파마, 100조 신경퇴행성질환 시장 정조준 - 메디팜스투데이",
+      "published": "2026-06-05T06:40:08+00:00",
+      "summary": "독감·대상포진 백신이 치매 막는다?…빅파마, 100조 신경퇴행성질환 시장 정조준&nbsp;&nbsp;메디팜스투데이",
+      "sources": [
+        {
+          "name": "메디팜스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RbXpjWUR1YzNTc253WndvT1ZhYTRsZlVtYlZxQ3I3WGp0QjNBT08talJvXy1FOTM0bGRaWXE0VHIySVB5c3dhblJqOWVNMW1xVk9NQnNQMWxyMTJ4ejhzXzNhb0lwOGJw?oc=5"
+        }
+      ]
+    },
     {
       "id": "be06c8649ffc",
       "title": "칼슘 아연 흡수 방해하는 ‘이 성분’⋯장 건강엔 좋다고? - 코메디닷컴",
@@ -14,30 +50,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1mZTRscEFaclVFRFNzWnR4bElDYWNsT3dlVHJYaHViWW5Md2RoRlBzeDBoZy1fUG1GVERoOUdTZVhjUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1192e6225cc",
-      "title": "주 90~119분 근력 운동, 사망 위험 낮춰…“2시간 넘기면 효과 정체” - 하이닥",
-      "published": "2026-06-05T02:30:00+00:00",
-      "summary": "주 90~119분 근력 운동, 사망 위험 낮춰…“2시간 넘기면 효과 정체”&nbsp;&nbsp;하이닥매일 1시간 걷고 주 2시간 근력운동…사망 위험 45% ‘뚝’[노화설계]&nbsp;&nbsp;동아일보“하루 딱 13분 투자를” 심장병 사망 막는 ‘운동’의 정체&nbsp;&nbsp;헬스조선유산소운동에 근력운동 더하면 효과 더 커져…사망 위험 최대 58% 감소&nbsp;&nbsp;네이트일주일에 90~120분 근력운동, 사망위험 낮춰…120분 초과 시 추가 이점 無&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4amdYVjQzaUstN09VR241ZHUyVzNGMHVmQ092ZW5aaFh2VHpuaDBkMC1jRF9hOHE1cGR4blh0S1h6VEljSWk5NDMyd0FpUmZUUUcyTXFnWkdQWE10ZjJaMUROTXV3SHBtMlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f6d2e206a1e",
-      "title": "“요요 올까봐 살 안 뺀다”는 건 핑계… 내장지방 한 번 빼두면 효과 지속 - 헬스조선",
-      "published": "2026-06-05T02:30:00+00:00",
-      "summary": "“요요 올까봐 살 안 뺀다”는 건 핑계… 내장지방 한 번 빼두면 효과 지속&nbsp;&nbsp;헬스조선살 빼려고 쫄쫄 굶을 수는 없고...‘이런 음식’ 먹으면 체지방 줄어&nbsp;&nbsp;코메디닷컴체중 감량에 최고로 좋은 탄수화물...다이어트 할 때 콩류가 좋은 이유&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aMWo1Z0h2WFZpNmVMT1JTRFBvWWQ0bWtGUVhOUmtLVTZrQlRUb3RLQmJaYnVqR1oybDJ4QnZqeXBuMnVMVndzaERJV2g4U2hCbDR3VURoZjlIa3FzOHZ4VmhqYmk3bmtNYTZ5azFpcW02bHo0OHc?oc=5"
         }
       ]
     },
@@ -78,26 +90,26 @@
       ]
     },
     {
-      "id": "4a7e16a3b563",
+      "id": "5cd3c79cea18",
       "title": "'의미 없는 장기' 취급된 흉선의 대반전: 수명·암 치료 좌우하는 열쇠 - 뉴스토마토",
       "published": "2026-06-04T23:52:25+00:00",
       "summary": "'의미 없는 장기' 취급된 흉선의 대반전: 수명·암 치료 좌우하는 열쇠&nbsp;&nbsp;뉴스토마토",
       "sources": [
         {
           "name": "뉴스토마토",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FT0Fzb3FJUjdINklZREZpVkFJS3R6cTlTZDdKbkt1WjlSaXdlWE5xTmRzOWN0ZEltcEpBVFpEOGhMNENSdW93amJjN3dXcXpBVnp5aG9RWkx1dy1qdnRmWg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VRHBzb21FRnZ6cFp1ZEVRLVdOcWJJR211bHRVNEMycS11NjIxRFJTME1rNDJmTDhGeC1NY0hjSzVveldmYU1OQmNodlM0SFo2RWtLbWN2dFhVbzkwcmpSbw?oc=5"
         }
       ]
     },
     {
-      "id": "d4b4835d1a71",
-      "title": "위고비, 생물학적으로 노화 늦추는 효과까지 - 메디컬투데이",
-      "published": "2026-06-04T23:50:25+00:00",
-      "summary": "위고비, 생물학적으로 노화 늦추는 효과까지&nbsp;&nbsp;메디컬투데이",
+      "id": "86317322bf4a",
+      "title": "유산소운동에 근력운동 더하면 효과 더 커져...사망 위험 최대 58% 감소 - 메디컬투데이",
+      "published": "2026-06-04T23:47:40+00:00",
+      "summary": "유산소운동에 근력운동 더하면 효과 더 커져...사망 위험 최대 58% 감소&nbsp;&nbsp;메디컬투데이매일 1시간 걷고 주 2시간 근력운동…사망 위험 45% ‘뚝’[노화설계]&nbsp;&nbsp;동아일보“하루 딱 13분 투자를” 심장병 사망 막는 ‘운동’의 정체&nbsp;&nbsp;헬스조선유산소운동에 근력운동 더하면 효과 더 커져…사망 위험 최대 58% 감소&nbsp;&nbsp;네이트일주일에 90~120분 근력운동, 사망위험 낮춰…120분 초과 시 추가 이점 無&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUTHpJOEszYmY4RnhSaGIxNjFsazZKNS1hYy1YZ0lvZzh5bWNlamp2YTRnZVBWRFVUdGhqWmlhUjBMT2dMSE56VjNleEJHdVZ2SzZkSGl2R3MxZS1V0gFsQVVfeXFMTXJQb09uNFlLLUJVOW9mR0VvMGpPV292b3E5QXJlengxUDduWGFPV0E3RTVrVWFQcnhoX2gtX05vdUhpemYzV3V2RjdCaDFXWUIwNERHdVg1TVd1S0NrMGhtcm5Pbl91LWgyYVBh?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13RUNXc05CLXVmWDktazR5NzJKajZ6d3JtWmd4RU84NUFIV0xMcGZndnR5RVhMVU1JQ21IQ3NxWGdhTVRnZTh4SXVnMzZuQWxUNlpSUmxyN2I1bEdF0gFsQVVfeXFMTl9qdUgzcEFxMmJIQm9wSDFLOG5fVm9NdDdZTm1pczY5OEF2b1dqT3BoZ2VRSEExbzZjNTkxQXZlV1JWZHRxUVJ3aGlFZEdXWGZPNEp6dTNYelV2blE0bUZmenk0Zk5yMkRuUFlq?oc=5"
         }
       ]
     },
@@ -150,14 +162,14 @@
       ]
     },
     {
-      "id": "97f4172d45e9",
-      "title": "매일 한 입만 먹어도 암 키운다?…‘이것’ 30g에 위암 위험 9% 껑충 - 서울신문",
+      "id": "243204973e08",
+      "title": "매일 한 입만 먹어도 암 키운다?…‘이것’ 30g에 위암 위험 9% 껑충 - twig24.com",
       "published": "2026-06-04T14:01:33+00:00",
-      "summary": "매일 한 입만 먹어도 암 키운다?…‘이것’ 30g에 위암 위험 9% 껑충&nbsp;&nbsp;서울신문",
+      "summary": "매일 한 입만 먹어도 암 키운다?…‘이것’ 30g에 위암 위험 9% 껑충&nbsp;&nbsp;twig24.com",
       "sources": [
         {
-          "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3U2RYOU56QzE5WmZNVWNlVkRKWkowVUVtemsyT1BVaVgxMDM3WW9rMWlIZzIxUkJBTHZjUXdqLU9yR3kwQjJsM3BXR2VLOU54dS0tbnFtTWV3TkpTcHNwRFAtSVdpM0diMnczaEJPOV8yeWlpQWFLcFp2NA?oc=5"
+          "name": "twig24.com",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldlhob3RWQnE1UEt3QXRYQTlwQ2E0NXFwR1Nha0JvNGNfQ3BZcUN4QVNMR2tMd01kSFpkN1dET21WTWZBa3dhVWptLUlQallkc2xZejRxR3p2WEVtbWVSQUVxUHpuZ050aVlaNHRPSjRfYXA5SGM3LW9ZRHNjWG8?oc=5"
         }
       ]
     },
@@ -198,18 +210,6 @@
       ]
     },
     {
-      "id": "bc4a9d0aeb5f",
-      "title": "노화로 오인 쉬운 알츠하이머병·파킨슨병…조기 발견이 중요 - 네이트",
-      "published": "2026-06-04T09:26:00+00:00",
-      "summary": "노화로 오인 쉬운 알츠하이머병·파킨슨병…조기 발견이 중요&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BTEZOSHdESld1MkJ1RUx4d0dWV0VSeXdJVTFsdGJkd1JOQ2czbTdYSWdKVzNvNlBoZjVBcExZMHNhS0xvZm9SN2NCZVdUYlJhR3BJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "61863ad7d733",
       "title": "척수 전기자극하자 뇌졸중 환자 팔 근력 32% 향상 - v.daum.net",
       "published": "2026-06-04T09:01:53+00:00",
@@ -230,18 +230,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVFYzMFh2b21LM1g1V0M0Vl9lRW5OalBySGlBLUZJTm1xLVJRSkdpN29qTV9Ha1B1di1lWWotNVVkYXFMTlc3TGZSaEVDeHpTckdkci1pMlVFLXdaX3JkUmpWY2xpbnhvaUxMTjBQWV82cG1DZkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "99656a6c2e58",
-      "title": "'특수 모기 3200만 마리' 투입…구글이 나선 전염병과의 전쟁 - 한국경제",
-      "published": "2026-06-04T07:43:38+00:00",
-      "summary": "'특수 모기 3200만 마리' 투입…구글이 나선 전염병과의 전쟁&nbsp;&nbsp;한국경제구글, 美에 ‘불임 모기’ 6400만 마리 푼다… 과학자들 “살충제보다 환경 부담 적어” - 조선비즈&nbsp;&nbsp;Chosunbiz“모기로 모기 잡는다”…美 전역에 ‘불임 모기’ 대량 살포&nbsp;&nbsp;v.daum.net“불임 모기 교배시켜 모기 박멸”…구글, 불임 모기 3200만마리 방생한다&nbsp;&nbsp;전자신문\"생태계 교란\" vs \"감염병 차단\"... 미국 전역을 발칵 뒤집은 실험 [지금이뉴스]&nbsp;&nbsp;YTN",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TcFVuY0o0Q3dnUGozdGdTTVAxNGc3LS1wZ254OGVFR3RCZnZvRzZKMjBNU201VFBMR2J6Tk5JV0w2SVB5SUQ0SUVOYlhUNUpGMmpwb2FxemswUdIBVEFVX3lxTE5IT2ZLazdJYnA0RTUxRTRweXZtYjRzSlQtN3BhdE1vT3RrcXRDaUtieGtzbjRHcnZaQ2xQOU1oZG42NlBkNEZfWGVVbXVHYTM1S1EtSw?oc=5"
         }
       ]
     },
@@ -282,18 +270,6 @@
       ]
     },
     {
-      "id": "c3ada94ca7d5",
-      "title": "간질약의 반전…관절염 연골 손상 회복 효과 확인[노화설계] - 네이트",
-      "published": "2026-06-04T05:32:00+00:00",
-      "summary": "간질약의 반전…관절염 연골 손상 회복 효과 확인[노화설계]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hQ0ZSWE5vSW9qUElnUmZDYjdMUGxKUnpoaEt3QmdIWGNfTC1Nc2thM1hrMV9aQXNXTkpGQk8xcFJ1MFRsR1R4NGVXVllyMlM2X2R3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "79968069a0a2",
       "title": "바이오·이차전지·핵융합 등 특화 AI모델 개발에 225억원 투입 - 동아사이언스",
       "published": "2026-06-04T04:00:00+00:00",
@@ -302,6 +278,18 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pSTNqc2pXREh2YzJWWnh6V3dqbFkzR0tRWm5ZQXBqUHByUy12RnkxNnBWQVNqRVhiUnFQRXExNGdWUHlWNEc0Q1pUaTNza0N5R1Zkcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3df9ffc262ec",
+      "title": "지방 많이 들었는데, 혈압을 낮춰준다? 무슨 음식인지 보니 - 헬스조선",
+      "published": "2026-06-04T03:10:00+00:00",
+      "summary": "지방 많이 들었는데, 혈압을 낮춰준다? 무슨 음식인지 보니&nbsp;&nbsp;헬스조선예상치 못한 콩의 혈압 개선 효과가 발견되었습니다.&nbsp;&nbsp;Vietnam.vn“바나나만이 아니었다”… 혈압 낮추는 ‘칼륨 음식’&nbsp;&nbsp;위클리코리아ㅗ&nbsp;&nbsp;자연치유일보“두부·콩 자주 먹었더니 혈압 낮았다”…국제학술지가 주목한 식단은&nbsp;&nbsp;레이디경향",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ETnc3RlNXTEhwLXpjYW5tMnhhcEVOSjJuU1J1b3NQeGdmanMtV3VVZ2tUNlQ4QUtZVzNUb0d5d2Y4VjFpdmZKUXJPX05GeXFhMzVDN2hwcUhkdERjTE53YXZobklfa1dEOVNsMVZaTXFsa2ZtYVE?oc=5"
         }
       ]
     },
@@ -402,18 +390,6 @@
       ]
     },
     {
-      "id": "5c99e0575264",
-      "title": "독감·대상포진 백신이 치매 막는다?…빅파마, 100조 신경퇴행성질환 시장 정조준 - 메디팜스투데이",
-      "published": "2026-06-03T21:00:00+00:00",
-      "summary": "독감·대상포진 백신이 치매 막는다?…빅파마, 100조 신경퇴행성질환 시장 정조준&nbsp;&nbsp;메디팜스투데이",
-      "sources": [
-        {
-          "name": "메디팜스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RbXpjWUR1YzNTc253WndvT1ZhYTRsZlVtYlZxQ3I3WGp0QjNBT08talJvXy1FOTM0bGRaWXE0VHIySVB5c3dhblJqOWVNMW1xVk9NQnNQMWxyMTJ4ejhzXzNhb0lwOGJw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8629a77c8c49",
       "title": "'다낭성 난소 증후군' 역사 속으로… 전 세계 1억 7천만 여성 앓는 질환, ‘다내분비 대사 난소 증후군(PMOS)’으로 명칭 변경 - 동포저널",
       "published": "2026-06-03T20:50:31+00:00",
@@ -450,18 +426,6 @@
       ]
     },
     {
-      "id": "217b318e721f",
-      "title": "MSD ‘엔플론시아’ 허가 … 국내 영유아 RSV 예방 독점 깨졌다 - 메디소비자뉴스",
-      "published": "2026-06-03T20:12:52+00:00",
-      "summary": "MSD ‘엔플론시아’ 허가 … 국내 영유아 RSV 예방 독점 깨졌다&nbsp;&nbsp;메디소비자뉴스한국MSD RSV 예방 항체 주사 엔플론시아 국내 허가&nbsp;&nbsp;히트뉴스폐렴, 뇌수막염, 패혈증 등을 유발하는 폐렴구균이 약물에 대한 내성을 점점 더 강하게 나타내고 있다.&nbsp;&nbsp;Vietnam.vn“RSV, 독감만큼 흔하지만 더 치명적…고령층 대상 백신 사실상 유일한 해결책”&nbsp;&nbsp;헬스경향RSV 예방 항체 효과 입증됐는데, 백신 아니라 지원 안 된다?&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "메디소비자뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FM19Sb3dIUjMyeWF4ZG5UbEd1MXpjNjdkOWVIaUREd1J1T2o5ajJISDJBZEVVOS1fZ2dGTWNKMkRlU0VyN2JsMERPLWRVT0FrUkk1Y2YxQThwR2c5OU0zYkJFdVBMc0trV192bmFtN0FSZ9IBdkFVX3lxTE5QbGQ2Q09VQUZ3eGxKa2w4a2hoQXk4M3QxRWZSRGwzcG9ZbUM3dHNybzdoVVpNb3pFaGFPY0F5ZV9pUFJDRHFLLVFqMVczN19OMUUxNVdySEpvN3laZ3VDSGlRLThzaWs5Y2oxYnI0UDI2MklkRWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0a4c00786835",
       "title": "이 뇌종양 제거했더니 당뇨병까지 개선…놀라운 연구 결과 - 리드경제",
       "published": "2026-06-03T17:02:00+00:00",
@@ -474,14 +438,14 @@
       ]
     },
     {
-      "id": "067265152600",
-      "title": "OC 올해 첫 웨스트나일 감염 모기 발견 - 라디오코리아 모바일",
-      "published": "2026-06-03T11:29:00+00:00",
-      "summary": "OC 올해 첫 웨스트나일 감염 모기 발견&nbsp;&nbsp;라디오코리아 모바일",
+      "id": "54a2d77c9ce2",
+      "title": "돼지 신장·간 ‘53살 뇌사자’에 동시 이식…5일간 정상 작동했다 - 한겨레",
+      "published": "2026-06-03T12:55:00+00:00",
+      "summary": "돼지 신장·간 ‘53살 뇌사자’에 동시 이식…5일간 정상 작동했다&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "라디오코리아 모바일",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwT3VoVExmOS1hMkZITDFvb0tOTXlIamlLYVQ1UkpkQ1l4Z1FYNFc1dGRobk5OblFrenBxMnQ5WHMzVEZ0THlYMkF2ckM3c0NCeHpLYi1BbTVyWC1EY2ZVdE9rMVM?oc=5"
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfekt0d0VVdEU1ZXgtTlBMLWpHRzR5TzVsQ2xxbXhDbWUtM2ZVVWVoMlJNZGZqejd3N05HQUFpc1lsamVYQ1QyamRBZ2NQU1BCSERvWDdQRzlOVkN0aGM4X3R6MjNJY3dST0ZNMkNyc1E5dw?oc=5"
         }
       ]
     },
