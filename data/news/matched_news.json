@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-06T08:37:18.938088+00:00",
-  "total_count": 30,
+  "last_updated": "2026-06-06T13:50:26.415986+00:00",
+  "total_count": 24,
   "matched_count": 0,
   "news": [
     {
@@ -33,7 +33,7 @@
       "id": "c5a9c27b5df4",
       "title": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료",
       "published": "2026-06-05T23:28:40+00:00",
-      "summary": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료&nbsp;&nbsp;아시아경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료&nbsp;&nbsp;아시아경제영국 연구진, AI로 설계한 백신 개발중…\"1상 임상시험 완료\"&nbsp;&nbsp;v.daum.netAI가 설계한 '슈퍼 항원' 첫 사람 대상 시험…코로나 계열 백신 새 길 열리나&nbsp;&nbsp;뉴시스케임브리지대, AI가 설계한 '슈퍼 항원' 백신 임상시험 최초 성공&nbsp;&nbsp;뉴스웍스\"'게임 체인저' 수많은 생명을 구할 것\"…세계 최초 'AI 설계 백신' 첫 인간 임상 통과&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "아시아경제",
@@ -77,6 +77,19 @@
         {
           "name": "상조매거진",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83dVEtdXByMzk5bldGazFQV3NOVGlQWGZFemNMNmV0bnlDZ1VpMjFyQlhPY294dHBKS3FuWTVzbjVGZXNsamM5ZHU3aw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2af05716d703",
+      "title": "걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험",
+      "published": "2026-06-05T16:11:39+00:00",
+      "summary": "걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험&nbsp;&nbsp;메디팜뉴스\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문",
+      "sources": [
+        {
+          "name": "메디팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZTGFEcE95SlhkSWtIelpZcW04Y2QzV1VQc3Z1cVBGQ1JwYTU2SjZGTU5VaEJWSWpTX3FrOHdHSnNNUFF6RS1icm9tdG9lNm5rSzdZWllmbzVPX2psbUxMSDlSUS1vSzJ5cFVpQld4bmZCQdIBdkFVX3lxTE9raHBqY0NKTV9FOUNaeXlORmZ1Q2s0YzZDb0d5ZFUyVW1qNjM1aTgxUktCaXZiU25RRFdzNEluX3QtcnFXTmpwMFZCMDhLZ2J6ZExBVVE3bEY0X0xTbTNONGVfX3NRd29WbVRGelFfLXN4SDlqcXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -173,27 +186,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e68ba7d643b7",
-      "title": "갱년기 살찌는 속도 늦춘다… ‘이 식단’ 비만 위험 54% 낮춰",
-      "published": "2026-06-05T02:00:00+00:00",
-      "summary": "갱년기 살찌는 속도 늦춘다… ‘이 식단’ 비만 위험 54% 낮춰&nbsp;&nbsp;하이닥엇! 갑자기 불어난 뱃살...중년 여성을 위한 특별한 살빼기 전략&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBeGJBdlFER0M5ZVZ5Q01mbnlKejkwVkY3T1VZRDc1Q2xBRjlVQk9SVnFJUjVuTkRqMk9TYXhUeDJnd2lJRFZRMnVuQzYzWnFRQWhKcUZpcjBCSDhtVXBSVXpMUXdPX3Uyb2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6fbc2fbfa92f",
+      "id": "456c4eb5dee9",
       "title": "중동, 정밀 종양학 연구 허브로 부상…한국 제약·바이오 협력 기회 주목",
-      "published": "2026-06-05T00:20:00+00:00",
-      "summary": "중동, 정밀 종양학 연구 허브로 부상…한국 제약·바이오 협력 기회 주목&nbsp;&nbsp;한국AI부동산신문",
+      "published": "2026-06-05T00:03:30+00:00",
+      "summary": "중동, 정밀 종양학 연구 허브로 부상…한국 제약·바이오 협력 기회 주목&nbsp;&nbsp;한국공공정책신문",
       "sources": [
         {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwMDRwbktsRlUySVJlcmJ5bzFGYXM1Ul82aTBMS04yeHdpTzFKLWlTOGprV08ybXhwRFNHVC1VMDFBS0gyaXpqTV9EM3U?oc=5"
+          "name": "한국공공정책신문",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE43S2J6VWJoNmdQOWxtb3h1Nkp5WFNieEtyWDBRTjV0Tl9adm9lZl9pUXlMNDZIVWk1c0VHZVhSb2ZCMTg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -207,19 +207,6 @@
         {
           "name": "뉴스토마토",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VRHBzb21FRnZ6cFp1ZEVRLVdOcWJJR211bHRVNEMycS11NjIxRFJTME1rNDJmTDhGeC1NY0hjSzVveldmYU1OQmNodlM0SFo2RWtLbWN2dFhVbzkwcmpSbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d4b4835d1a71",
-      "title": "위고비, 생물학적으로 노화 늦추는 효과까지",
-      "published": "2026-06-04T23:50:25+00:00",
-      "summary": "위고비, 생물학적으로 노화 늦추는 효과까지&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUTHpJOEszYmY4RnhSaGIxNjFsazZKNS1hYy1YZ0lvZzh5bWNlamp2YTRnZVBWRFVUdGhqWmlhUjBMT2dMSE56VjNleEJHdVZ2SzZkSGl2R3MxZS1V0gFsQVVfeXFMTXJQb09uNFlLLUJVOW9mR0VvMGpPV292b3E5QXJlengxUDduWGFPV0E3RTVrVWFQcnhoX2gtX05vdUhpemYzV3V2RjdCaDFXWUIwNERHdVg1TVd1S0NrMGhtcm5Pbl91LWgyYVBh?oc=5"
         }
       ],
       "matched_keywords": []
@@ -289,71 +276,6 @@
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zWnNtOHN0M3dUTE1wclFwUm4xVlB1RGxvbTV0TGJ4TE1JN0FHNFRGN2NzRjQ1bWhONkxib1RTb0tsbkpVZ0s2X0pOMGV3SExxWU5MN0xockptbFk4WWE0X1dDREtEUGFXRGxOcg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "61a0ac4df71c",
-      "title": "강동성심병원 신경과 김예림 교수 참여 논문, 국제학술지 게재",
-      "published": "2026-06-04T12:42:06+00:00",
-      "summary": "강동성심병원 신경과 김예림 교수 참여 논문, 국제학술지 게재&nbsp;&nbsp;메드월드뉴스",
-      "sources": [
-        {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVelViMi1ya0VpeWlDQllFb0pjNFBnOFJVVnRuSUJ6bHFuN2ZOakNEeVFLZExHTFhxNk0yMjg1SVZiRXU3WHpCYXdWTnI4bHhXaFg5blRnRlNGZTF6ZHkyMURpcUg2cTY2SW9ueFF3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "91a6a2db0cc3",
-      "title": "위고비로 살 뺐는데 근육도 빠지네...\"약 끊고 운동 안 하면 지방부터 늘어\"",
-      "published": "2026-06-04T11:55:46+00:00",
-      "summary": "위고비로 살 뺐는데 근육도 빠지네...\"약 끊고 운동 안 하면 지방부터 늘어\"&nbsp;&nbsp;디멘시아뉴스운동 할수록 더 살찌는 사람의 특징, 이런 이유가 있다&nbsp;&nbsp;GQ Korea위고비, 음식 갈망까지 관리한다…'장기 체중유지' 가능성 주목&nbsp;&nbsp;메디코파마\"운동할 시간이 없어요\"...그래도 살이 빠질 수 있는 이유&nbsp;&nbsp;더쎈뉴스살 안 빠져도 운동해야… 美심장협회 \"비만 치료의 핵심은 신체 활동\"&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qQkpBSXFRZmpmOFZLbFZmSDU2dGh3bEZ5Y203NFZDVkRndF80TGhuTGpGSjQ5WUxMVHlOQkRCVmR3YWRLa0l5aV83cUNySWlyOVJUaWNWN1BPNjlmUktTZ25CUllZa3lpejh6UTRGYlhsUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f00f465ed4a0",
-      "title": "밀크초콜릿 vs 다크초콜릿... 심장 건강에 더 좋은 초콜릿은?",
-      "published": "2026-06-04T10:30:00+00:00",
-      "summary": "밀크초콜릿 vs 다크초콜릿... 심장 건강에 더 좋은 초콜릿은?&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcTFSUHpxRnowT2RPREJEckZWZ1hPUHpnbFZyTmxRcnRkMWNHbWZzeDZZUWtMVkwxM3JRcDBaTFlaTGIzeDVQZHdCNlNDVEtiRG9KZHNDcy1tLVp1bEZSQjdrbDF1Rm4xUFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "61863ad7d733",
-      "title": "척수 전기자극하자 뇌졸중 환자 팔 근력 32% 향상",
-      "published": "2026-06-04T09:01:53+00:00",
-      "summary": "척수 전기자극하자 뇌졸중 환자 팔 근력 32% 향상&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RUE5HaDZ0cTI5aEZ0R19kMmlndFlObnFUeDdGN2dGR0l1TE1NVGR0X1Q5RWEwVHpnakduT1hkcG9uaENGRnhIOEFVZTNGTUk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7bb4a3e32cad",
-      "title": "여름철 하지정맥류, 기온 오르면 증상 악화… \"조기 시술이 치료 결과 좌우\"",
-      "published": "2026-06-04T08:07:05+00:00",
-      "summary": "여름철 하지정맥류, 기온 오르면 증상 악화… \"조기 시술이 치료 결과 좌우\"&nbsp;&nbsp;잡포스트\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문",
-      "sources": [
-        {
-          "name": "잡포스트",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZbXZ6MnVsSmxGWm1GV1lzRjRsMU9nZ3Zta1VBbXFINGZVdkc5dzFDZU5iN2Zkb1VZOGdvbXhxSzlvQ0xacGRDY2tnS2VSWVU3Q2U0X0NLMGNOVnB5QTFzeXI1QXlFclB3UUhXOXFn0gFyQVVfeXFMT3FoekF0ZXlnZlBpUVk2cVg1ZTVsbTg5OUpxRXFweG1IQmVPQmJlMmdnenZjRzd0MkRGT2s3ZVBBeEFBRXN3dDB3aXRnMTN1NGZnLTFUeG9pOHdSWHRpRGozMk05b25GcjFSR1VhUVJsMlFn?oc=5"
         }
       ],
       "matched_keywords": []
