@@ -1,31 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-05T19:59:03.154946+00:00",
-  "total_fetched": 76,
-  "unique_count": 74,
-  "health_related_count": 42,
+  "fetched_at": "2026-06-06T03:49:28.957925+00:00",
+  "total_fetched": 64,
+  "unique_count": 62,
+  "health_related_count": 30,
   "news": [
     {
-      "id": "7737ff54b341",
-      "title": "영국 연구진, AI로 설계한 '범용 백신' 개발중…\"1상 임상 완료\" - SBS 뉴스",
-      "published": "2026-06-05T19:12:00+00:00",
-      "summary": "영국 연구진, AI로 설계한 '범용 백신' 개발중…\"1상 임상 완료\"&nbsp;&nbsp;SBS 뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "5bfcc0f91be5",
+      "title": "“사망 위험도” 저염식 하면 안 되는 사람은? - 헬스조선",
+      "published": "2026-06-06T03:00:00+00:00",
+      "summary": "“사망 위험도” 저염식 하면 안 되는 사람은?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "SBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92TkxpMkJkZHpZaVQtclI3c2JpS0xRQ0N1OXNGUjhodU0tYlJHY09Hbm9VSHBGRUJaVFpzdTNYZ25HODJYVDItc3VKM1ptdGNZaUJtNXVBWHNHeVFiTUVnQUlfRnZ5Y1hoWEE?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LYUE4anhLVE1DNlpuSHE0NWRvaXFIa0ExR1JPTGotb1JwdUZMUGhucWNVbnlxNVdKWmFzVFFTWWpVejdCLUxjZzBaWjhYWXBsNnAxdWFKSWJZWUF5LUZmU2RHWTUtN0hKQUVRU0JFTEtxemRYOHc?oc=5"
         }
       ]
     },
     {
-      "id": "d6e4e57f6d1c",
+      "id": "c5a9c27b5df4",
+      "title": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료 - 아시아경제",
+      "published": "2026-06-05T23:28:40+00:00",
+      "summary": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료&nbsp;&nbsp;아시아경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JN29HWXA3eC1LX0tjTnZOQXdLX0xTVGR2ZzBpTmMtd0J4dFpLcDA4MVVCVU03SzRsX3JXZXhGdmZyeEtrWEZyd0pZT2RVMlNPMV9iZF9YM3d4QjEwTUhPSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b8b1c4edbab1",
+      "title": "UC 샌디에이고 의과대학, 신경성 식욕부진증 치료 위한 케톤 생성 요법의 희망 시사하는 새로운 증거 보고 - 미디어데일",
+      "published": "2026-06-05T22:37:02+00:00",
+      "summary": "UC 샌디에이고 의과대학, 신경성 식욕부진증 치료 위한 케톤 생성 요법의 희망 시사하는 새로운 증거 보고&nbsp;&nbsp;미디어데일",
+      "sources": [
+        {
+          "name": "미디어데일",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wbjF3OTE2X3NBZHV6bDlYalRpMkd6Y3llYVpvczd0TTRqenVPZC1VZ25WWDJmQW9VUkJNMVZuZXNMa2NDMUxIc2pCZ05QOTk5N2RhYUdzeENxdE83V0d4bUNqbHlvY1p5SmZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f23a06f4c3f3",
       "title": "“에볼라·한타바이러스 경고”…남승현 동국대 교수, 감염관리 중요성 강조 - 상조매거진",
       "published": "2026-06-05T16:29:00+00:00",
       "summary": "“에볼라·한타바이러스 경고”…남승현 동국대 교수, 감염관리 중요성 강조&nbsp;&nbsp;상조매거진",
       "sources": [
         {
           "name": "상조매거진",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1vRXBZbGZEamR4dDJFV0lwbWZlc0l1ZnJqY2NjNTU0U3Bya1k4Xy16VkhsZURfTEszQjU3UmdrdGEtRko0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83dVEtdXByMzk5bldGazFQV3NOVGlQWGZFemNMNmV0bnlDZ1VpMjFyQlhPY294dHBKS3FuWTVzbjVGZXNsamM5ZHU3aw?oc=5"
         }
       ]
     },
@@ -66,18 +90,6 @@
       ]
     },
     {
-      "id": "7a60781b8e10",
-      "title": "구글, 美에 ‘불임 모기’ 6400만 마리 푼다… 과학자들 “살충제보다 환경 부담 적어” - 조선비즈 - Chosunbiz",
-      "published": "2026-06-05T06:52:00+00:00",
-      "summary": "구글, 美에 ‘불임 모기’ 6400만 마리 푼다… 과학자들 “살충제보다 환경 부담 적어” - 조선비즈&nbsp;&nbsp;Chosunbiz“모기로 모기 잡는다”…美 전역에 ‘불임 모기’ 대량 살포&nbsp;&nbsp;v.daum.net“불임 모기 교배시켜 모기 박멸”…구글, 불임 모기 3200만마리 방생한다&nbsp;&nbsp;전자신문\"생태계 교란\" vs \"감염병 차단\"... 미국 전역을 발칵 뒤집은 실험 [지금이뉴스]&nbsp;&nbsp;YTN“구글이 왜 모기를?”…6400만 마리 풀겠다니, 美 발칵 뒤집힌 이유 [핫이슈]&nbsp;&nbsp;나우뉴스",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUC04YnJsOHZfVllLWkdmWUZMVEUwT1pseTAxN2Vlb0VKMWpQSHA5bGVUWDhyY0tyOUtNanEzeUpqRHRWcG1SZEVHM09tUE8wRWVjaTNWUjVLRGVQTHg5eXhzTDJMRTIwekFDMDFGWUFYZXZyN2dURV85UzFpMEw3VlZGaEZvUXFCSHd6UtIBoAFBVV95cUxQRGpDcVpmLVdGRnR5R0JfTUFISGp6azVGSTJBcG9FUVVFamtXWlQ4N29xMGM4MzVoS0Vodmdrdm9YVlZyZXc2NWZQRy0zMjZ6M3lWOU9jdzUtTjlqS0lQNExDSWxaUGNtMEhmdVlPRUIxbjVCckRuWGVmVHJjMkNlYXk0UDlKeDdxSWdGbEpmdFczcHY0b1ZNNnZvVEY1NVNS?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5c99e0575264",
       "title": "독감·대상포진 백신이 치매 막는다?…빅파마, 100조 신경퇴행성질환 시장 정조준 - 메디팜스투데이",
       "published": "2026-06-05T06:40:08+00:00",
@@ -102,6 +114,18 @@
       ]
     },
     {
+      "id": "2f5506945271",
+      "title": "트루랩스, 델피놀·아스타잔틴 기반 눈 건강 건기식 ‘오르비전’ 출시 - 뉴스티앤티",
+      "published": "2026-06-05T06:14:36+00:00",
+      "summary": "트루랩스, 델피놀·아스타잔틴 기반 눈 건강 건기식 ‘오르비전’ 출시&nbsp;&nbsp;뉴스티앤티헤마토코쿠스 루테인 아스타잔틴 후기 성분&nbsp;&nbsp;브런치헤마토코쿠스 12g 시력 영양제 후기 가격&nbsp;&nbsp;브런치헤마토코쿠스 6g 눈피로도개선 후기 추천&nbsp;&nbsp;브런치헤마토코쿠스 20g 눈건강 후기 함량&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "뉴스티앤티",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YRDlqT3pzUXVsTEFST3dRYmJpOFNUTE1fTWp0WGRncWl1NFZRcmt3M182THRWdzVKb1R4WndLQVBPQkM1dzJ2YTMwanZUSXdVZE1FcXlkZVVnUl8tNGFjS29NQklNUXhWaHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "be06c8649ffc",
       "title": "칼슘 아연 흡수 방해하는 ‘이 성분’⋯장 건강엔 좋다고? - 코메디닷컴",
       "published": "2026-06-05T03:05:00+00:00",
@@ -114,34 +138,10 @@
       ]
     },
     {
-      "id": "93261d6a75cf",
-      "title": "근력 운동 주 90분에서 120분이 시니어 장수의 황금 구간입니다 - 캐어유 뉴스",
-      "published": "2026-06-05T03:00:00+00:00",
-      "summary": "근력 운동 주 90분에서 120분이 시니어 장수의 황금 구간입니다&nbsp;&nbsp;캐어유 뉴스매일 1시간 걷고 주 2시간 근력운동…사망 위험 45% ‘뚝’[노화설계]&nbsp;&nbsp;동아일보걷기를 즐기는 사람들에게 좋은 소식입니다!&nbsp;&nbsp;Vietnam.vn“하루 딱 13분 투자를” 심장병 사망 막는 ‘운동’의 정체&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 유산소와 근력운동 병행 시 사망 위험 최대 58% 감소 효과&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zMmNZQm1rSUNxV19yYmVFeDljV0xRSUk3V1lJWDdTWDdwNEhmT0M4N1JRdzE3dVU0dlpDeHJCenVOT0IwUk9qYmpKXy10N2FNVmJxckNTNHlaeWk0Vjl5bmFzR3dDQTdzOWoyOHRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e076d51ca7bc",
-      "title": "UC 샌디에이고 의과대학, 신경성 식욕부진증 치료 위한 케톤 생성 요법의 희망 시사하는 새로운 증거 보고 - 뉴스와이어",
-      "published": "2026-06-05T02:30:00+00:00",
-      "summary": "UC 샌디에이고 의과대학, 신경성 식욕부진증 치료 위한 케톤 생성 요법의 희망 시사하는 새로운 증거 보고&nbsp;&nbsp;뉴스와이어",
-      "sources": [
-        {
-          "name": "뉴스와이어",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxWHZwRE13SVBTcEYzVHhlNmNvWk1VNlY1aDZ2S2xzQW9uMVhBajdTZ2xzcWlvZU8ydnFkUFl3WkY0NjhtdjBWNDNHdF83VXRIejFOdFpfVG5SUGtwc1VJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e68ba7d643b7",
       "title": "갱년기 살찌는 속도 늦춘다… ‘이 식단’ 비만 위험 54% 낮춰 - 하이닥",
       "published": "2026-06-05T02:00:00+00:00",
-      "summary": "갱년기 살찌는 속도 늦춘다… ‘이 식단’ 비만 위험 54% 낮춰&nbsp;&nbsp;하이닥",
+      "summary": "갱년기 살찌는 속도 늦춘다… ‘이 식단’ 비만 위험 54% 낮춰&nbsp;&nbsp;하이닥엇! 갑자기 불어난 뱃살...중년 여성을 위한 특별한 살빼기 전략&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "하이닥",
@@ -201,7 +201,7 @@
       "id": "cce34f64705b",
       "title": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈 - Chosunbiz",
       "published": "2026-06-04T21:03:09+00:00",
-      "summary": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈&nbsp;&nbsp;Chosunbiz[곽오열의 生命] 기피제 향을 '먹이'로 기억하는 모기… 기후변화 시대 ‘방역 전선’ 비상&nbsp;&nbsp;ESG비즈니스리뷰모기 기피제, 오히려 모기 부른다?… “향 기억한 모기, 더 달려들어”&nbsp;&nbsp;하이닥“기피제 뿌리니 모기 더 달라 붙네”… 이유 있었다&nbsp;&nbsp;헬스조선",
+      "summary": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈&nbsp;&nbsp;Chosunbiz[곽오열의 生命] 기피제 향을 '먹이'로 기억하는 모기… 기후변화 시대 ‘방역 전선’ 비상&nbsp;&nbsp;ESG비즈니스리뷰\"모기 퇴치제 믿었는데\"…학습에 의해 더 물릴 수 있어&nbsp;&nbsp;자유일보모기 기피제, 오히려 모기 부른다?… “향 기억한 모기, 더 달려들어”&nbsp;&nbsp;하이닥“기피제 뿌리니 모기 더 달라 붙네”… 이유 있었다&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "Chosunbiz",
@@ -342,42 +342,6 @@
       ]
     },
     {
-      "id": "3df9ffc262ec",
-      "title": "지방 많이 들었는데, 혈압을 낮춰준다? 무슨 음식인지 보니 - 헬스조선",
-      "published": "2026-06-04T03:10:00+00:00",
-      "summary": "지방 많이 들었는데, 혈압을 낮춰준다? 무슨 음식인지 보니&nbsp;&nbsp;헬스조선예상치 못한 콩의 혈압 개선 효과가 발견되었습니다.&nbsp;&nbsp;Vietnam.vn“바나나만이 아니었다”… 혈압 낮추는 ‘칼륨 음식’&nbsp;&nbsp;위클리코리아ㅗ&nbsp;&nbsp;자연치유일보“두부·콩 자주 먹었더니 혈압 낮았다”…국제학술지가 주목한 식단은&nbsp;&nbsp;레이디경향",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ETnc3RlNXTEhwLXpjYW5tMnhhcEVOSjJuU1J1b3NQeGdmanMtV3VVZ2tUNlQ4QUtZVzNUb0d5d2Y4VjFpdmZKUXJPX05GeXFhMzVDN2hwcUhkdERjTE53YXZobklfa1dEOVNsMVZaTXFsa2ZtYVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d94108c85852",
-      "title": "[박숙현의 생각의 온도] 스트레스가 인간을 살린다? - 용인신문",
-      "published": "2026-06-04T02:09:42+00:00",
-      "summary": "[박숙현의 생각의 온도] 스트레스가 인간을 살린다?&nbsp;&nbsp;용인신문DGIST, 만성 스트레스에서 뇌세포 보호하는 유전자 세계 최초 규명&nbsp;&nbsp;v.daum.net\"죽음의 유전자가 만성 스트레스 받은 뇌세포 살려\"&nbsp;&nbsp;동아사이언스스트레스 받으면 ‘자폭’하는 뇌세포 지키자…방어 메커니즘 최초 규명&nbsp;&nbsp;서울경제항암제로 ‘우울증·기억장애’ 예방 성공…신개념 뇌질환 치료제 나온다&nbsp;&nbsp;헤럴드경제",
-      "sources": [
-        {
-          "name": "용인신문",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OTm5ULWRWV1RWSmFMazFaWjNNRm9vVDZMa2VrVmJPMVpId0hRRmQ4eVR6d1ZyQTlYbnlPR3lpSS1JZUxkN1UxQXVuWlBER1BaNElPVk5QMGxpZVNlbzYzU3BXa3Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e37e05ead600",
-      "title": "美 백신 접종 감소에…예방 가능했던 질병의 부활 - 한국경제",
-      "published": "2026-06-04T01:32:34+00:00",
-      "summary": "美 백신 접종 감소에…예방 가능했던 질병의 부활&nbsp;&nbsp;한국경제백신 맞아봐야 무용지물?…\"트럼프 행정부가 틀렸다\" 왜?&nbsp;&nbsp;네이트트럼프 대통령이 백신 접종에 관한 행정 명령에 서명하면서 의료계에 파장이 일고 있다.&nbsp;&nbsp;Vietnam.vn[건강포커스] \"독감 백신, 어린이 100명 접종 시 독감 환자 9~14명 줄여\"&nbsp;&nbsp;매일경제 마켓트럼프, 예방접종 축소 지시…17종서 A·B형 간염 뺀11종&nbsp;&nbsp;애틀랜타 중앙일보",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Z2VBZU5ramhlaUQwMW5XWFBGajNoS21wakFqN0pYZEkzMjJRMm5TZEhsd2c1SGRQTk9RUWUxLTREbjFIeGRLMFFyNHdxUVRJVS05cmF2LTlPUdIBVEFVX3lxTE5XVThPQ0hEUHUtR2lKamZ2djVmdEUybFRJbG40bE9Vc0p0dGlQTkhZazNYd0lZbUNWdnN6T2tOMkJIbEhraHgwOFdLLVZmTGJCelZLRw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "32031a9b8662",
       "title": "IBS 신임 원장에 장석복 연구단장…내부 출신 첫 사례 - 조선일보",
       "published": "2026-06-04T00:46:07+00:00",
@@ -386,114 +350,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGl3NklFczlCQXVzdDFBNGtNWkZWQVZXXzNZUm9md0pnMWRpd1FYbEc1akpSYm5RUThPVm94Z0FEcGE5ZkVCRVRoeFpFY2RBUTlfSFBBOWtYQTVwT09sT3NVYWhXdzQ4dzVBNFZoek5vZFBaMDdvbmdpeTlFV3lpV3hPTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "06f1c71672b7",
-      "title": "살쪄서 나빠진 수면·기억력, 운동이 되돌릴까...'비만 초파리'서 남녀 효과 달라 - 디멘시아뉴스",
-      "published": "2026-06-04T00:32:58+00:00",
-      "summary": "살쪄서 나빠진 수면·기억력, 운동이 되돌릴까...'비만 초파리'서 남녀 효과 달라&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlUWJXUVQwdXBHbUZaNTFrNnZXS1oyV3pQaHpCNzJTUTRVbWpxOUM3R3ZHeXY2YXZ2Y0xaQVFVZVk4X1dUMWtac0QtLS1ySVkzalBvTllMTzZDNkRRelNIcUhWSUdzbUhEVnFHRE1RWVpKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4296401305eb",
-      "title": "[헬스로그 명의] 자궁경부암, 모두 HPV 탓?…약 10%, HPV와 무관하다 - 코리아헬스로그",
-      "published": "2026-06-04T00:15:40+00:00",
-      "summary": "[헬스로그 명의] 자궁경부암, 모두 HPV 탓?…약 10%, HPV와 무관하다&nbsp;&nbsp;코리아헬스로그",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LTHVyWEtQdVlxM0N3LTV4TWVYSFNaVzRPLTBFNFZKc1I1MDBuZjJpVTJ2bVJVLXZUY2RoV3AzcmM2RUd0ejczSksyQ0lZRS1wR0hUOW96SGFkYzJUZjg4eFlxT1JhZTdDLU9wc1M1OWhDQdIBdkFVX3lxTE1EeDFaS0Y2UHVtc1VsbWRiVG9qclc2YjlKYjRXbXBPN0hYd1RsV01CSDRoUHNZbjNVejlnNkh2NUZOSWd1NDlyekt6bENadHJzZWhSNmlfMnFYTTJwNDBzSFpyUTJJX1o4ZDBBVGwyWGFaaDdmS3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "778925aeace0",
-      "title": "40대 기억력 예전 같지 않다면… 뇌 건강 관리, 지금 시작해야 하는 이유 - 하이닥",
-      "published": "2026-06-03T23:00:00+00:00",
-      "summary": "40대 기억력 예전 같지 않다면… 뇌 건강 관리, 지금 시작해야 하는 이유&nbsp;&nbsp;하이닥40대부터 시작되는 뇌 위축… 신경과 교수, “이렇게 막아라”&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBMkMwbndIOVdfWHhjSlBYQVNEWDBtRjA3aHdsRmRjckl4MUw2U1VXUFNQVXN3aWEwVmZ0bXZ1WTAwZERKdlJkbE9IYzNwTEExSHc4MG9LbnpIendNQXJlaU4xbUdUOFlRMnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b98f6f10721a",
-      "title": "이노바 암센터와 ‘유방암 검진’ - 미주한국일보",
-      "published": "2026-06-03T22:50:56+00:00",
-      "summary": "이노바 암센터와 ‘유방암 검진’&nbsp;&nbsp;미주한국일보",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ERU16dU1NY2VJVFJaS1RzbHFjTE5iMEhwaDJRSzJ2S0RUYy1rZFdwUGpweWlSY3JLdTRzdDZBRVk3Vko2TzhPbWVRdVdWTGpKQWJ3VUoycWJudml5MEFJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8929399d0565",
-      "title": "‘착한 암’의 역설… 2030 급증하는 갑상선암, 무조건 안심할 수 없는 이유 ① - 하이닥",
-      "published": "2026-06-03T22:30:00+00:00",
-      "summary": "‘착한 암’의 역설… 2030 급증하는 갑상선암, 무조건 안심할 수 없는 이유 ①&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QU1RLanJ5cXBadjVveGZUNDc1SlFiY0Yxcmp6LTFHWkhfSGd6Ukl5MzdKVEhXa1BKMUF0UTFfYWtKRWlmTEVsTXItRWVaU05pOGRsU0VYUTJZRXIzUUpRXzBGZlB1WXhvdmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8629a77c8c49",
-      "title": "'다낭성 난소 증후군' 역사 속으로… 전 세계 1억 7천만 여성 앓는 질환, ‘다내분비 대사 난소 증후군(PMOS)’으로 명칭 변경 - 동포저널",
-      "published": "2026-06-03T20:50:31+00:00",
-      "summary": "'다낭성 난소 증후군' 역사 속으로… 전 세계 1억 7천만 여성 앓는 질환, ‘다내분비 대사 난소 증후군(PMOS)’으로 명칭 변경&nbsp;&nbsp;동포저널",
-      "sources": [
-        {
-          "name": "동포저널",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJc1FidllhYlloRmNTUW5GV1ZEQ05wVWZ6VTMxSXQ4N1RyT2pUdWM1MDB2V1FFMUIxbW9wclZxbER1djM0dUlqTDl2V3l5RlphY2JWcTVUd19fVjBqUng3QnFtMWIta0VfRVR0cnhWV3NIRk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c0ad152dd09b",
-      "title": "“어…” “음…” 자주 쓰면 치매? - 마음건강 길",
-      "published": "2026-06-03T20:50:00+00:00",
-      "summary": "“어…” “음…” 자주 쓰면 치매?&nbsp;&nbsp;마음건강 길",
-      "sources": [
-        {
-          "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52ZWEtVE1pUHM2Z0w0M1lFMDg1M1ppUC1mNEJobzFESzZsUjJOYTk2UVcxV1FHVkZVVlpRQVV6emZGV1QxUnZrVW00a1NxS21FYXZ3LWd0c2YxQ1NDTzhGeWc3X0RoTDREdlHSAW5BVV95cUxQdWNSenB6NVE0ck5ZQlZ5b3J5X2ZxcjFiSkdSRXJ1ZGpTTzhBWmdpYjB0dVJBY0dLeFNJRGpTN3kxWFU4dDYzbGgtX2s3Nm5jcXVqV3dmUUViQllFellLU0wwUE5ZSnpvb1pDam9pdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5be328c05caa",
-      "title": "대장암 진행 막는다… 당장 식탁에 올려야 할 '두 가지' - MSN",
-      "published": "2026-06-03T20:47:45+00:00",
-      "summary": "대장암 진행 막는다… 당장 식탁에 올려야 할 '두 가지'&nbsp;&nbsp;MSN대장암 진행 막는다… 당장 식탁에 올려야 할 ‘두 가지’&nbsp;&nbsp;헬스조선좋은 소식입니다. 오메가-3가 췌장암에 대한 \"방패\" 역할을 할 수 있습니다.&nbsp;&nbsp;Vietnam.vn좋은 소식입니다. 과학자들이 오메가-3를 이용해 암세포를 죽이는 방법을 발견했습니다.&nbsp;&nbsp;Vietnam.vn과학자들이 오메가-3 지방산을 이용해 암세포를 죽이는 방법을 발견했습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "MSN",
-          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQdUVOb3ZZTHNwUzJCNEcwdmZsSGUyX1BqNTd5cFpaX2lTLVM0S1BvVXZnVDlGLWwxQ09qRUFlUHZFSEp5eHYtZVZJQ2RrSEZTSDRSanViOTFSN1R2U3pTdWdTVmRxWFJMMkpLMDlVZV9PckIyUUF6UkthYnNvQXJKRmpVdlBxSDR5U2s5cDhmMWtrOGxsY3FZSTBSV0JmNTJ6ZVFROGw3TzVONFFaU3RlNXdoZTN0cGVOT1hQX0gzOUxQUTZUb19RcUlzMFgwTE1iRzVhQ2pIQ1RBTHNUV1VneU53Tmh6aUtnTGhxUGpEMVExX0daZ201bWZtOFlibnMtcWNhbWI0a1ZkSEczbHNHZzJzN3I0VjYtelZ1U0dXejU3QWZ1WkhNdWlsRzhRRXh0ZDBKaXJyTkk4UmRfUk9RTVZUX0tldkJ2Tk9tT1Q4NWVQV3Zqdl9FUXlaQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54a2d77c9ce2",
-      "title": "돼지 신장·간 ‘53살 뇌사자’에 동시 이식…5일간 정상 작동했다 - 한겨레",
-      "published": "2026-06-03T12:55:00+00:00",
-      "summary": "돼지 신장·간 ‘53살 뇌사자’에 동시 이식…5일간 정상 작동했다&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfekt0d0VVdEU1ZXgtTlBMLWpHRzR5TzVsQ2xxbXhDbWUtM2ZVVWVoMlJNZGZqejd3N05HQUFpc1lsamVYQ1QyamRBZ2NQU1BCSERvWDdQRzlOVkN0aGM4X3R6MjNJY3dST0ZNMkNyc1E5dw?oc=5"
         }
       ]
     },
