@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-06T03:49:28.957925+00:00",
-  "total_fetched": 64,
-  "unique_count": 62,
-  "health_related_count": 30,
+  "fetched_at": "2026-06-06T08:37:18.836019+00:00",
+  "total_fetched": 58,
+  "unique_count": 57,
+  "health_related_count": 31,
   "news": [
+    {
+      "id": "1e69bb16677b",
+      "title": "독감 치료제 타미플루가 치매 막는다고? [사이언스 브런치] - 서울신문",
+      "published": "2026-06-06T05:00:00+00:00",
+      "summary": "독감 치료제 타미플루가 치매 막는다고? [사이언스 브런치]&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3lSVkd3LTV1Q29CRHZCbTlYdE1jN1ZiVXpnLUNaVFpObHcxV3RCdEVnY1liZlM5U2FuTWJsa1F3c1lXakVIcU9Yb0RLOWIwb19QZjIxanBIYjRqemswV0ltZWVSV19Jcno4WmwtS09YdDBLUXp1dzBHa3dtYUdmcGhEX0hiaDNk?oc=5"
+        }
+      ]
+    },
     {
       "id": "5bfcc0f91be5",
       "title": "“사망 위험도” 저염식 하면 안 되는 사람은? - 헬스조선",
@@ -38,6 +50,18 @@
         {
           "name": "미디어데일",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wbjF3OTE2X3NBZHV6bDlYalRpMkd6Y3llYVpvczd0TTRqenVPZC1VZ25WWDJmQW9VUkJNMVZuZXNMa2NDMUxIc2pCZ05QOTk5N2RhYUdzeENxdE83V0d4bUNqbHlvY1p5SmZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16b49f5a47f8",
+      "title": "“아차, 오늘이었어?”… 반복되면 건망증 아닐 수도[베스트 닥터의 베스트 건강법] - 동아일보",
+      "published": "2026-06-05T16:40:00+00:00",
+      "summary": "“아차, 오늘이었어?”… 반복되면 건망증 아닐 수도[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ubzJ2T0FwMlZNSThpVXBZWVFGbGphanhKbjQ5TFh2ckhMNTZiZVNHcVFWTVRrdkZ4QnlHdi1pUldtbnRiY0pKUm43LXpIWmpFUXl0OWVnSERuelZhZUlWaHc0aXA3YWIzakxySWxFRdIBZkFVX3lxTE1yUTBBSVNwOVB4UzBJNTlPdkpqMXpaR25XUGl5UTVCeTBOcEY4SkxNR1JUaElWSnk2NlhwUjIxckhOV2ZJM19iSnc0bEpaTjYxWmxyNFR6YmJaaWRrc2tON0hSbktBdw?oc=5"
         }
       ]
     },
@@ -201,11 +225,23 @@
       "id": "cce34f64705b",
       "title": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈 - Chosunbiz",
       "published": "2026-06-04T21:03:09+00:00",
-      "summary": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈&nbsp;&nbsp;Chosunbiz[곽오열의 生命] 기피제 향을 '먹이'로 기억하는 모기… 기후변화 시대 ‘방역 전선’ 비상&nbsp;&nbsp;ESG비즈니스리뷰\"모기 퇴치제 믿었는데\"…학습에 의해 더 물릴 수 있어&nbsp;&nbsp;자유일보모기 기피제, 오히려 모기 부른다?… “향 기억한 모기, 더 달려들어”&nbsp;&nbsp;하이닥“기피제 뿌리니 모기 더 달라 붙네”… 이유 있었다&nbsp;&nbsp;헬스조선",
+      "summary": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc0dqdjRxVlE1TVZjMGszQ00yZjVfSm9wUWFZdjdIY0p0NktMbG04VjhSa3k5MFhmcnRLNWNndng5Z2pqdDVuMk1mWEwxaGoyeHBpWVI3c2VMWjZPVHltMEFpVWE3enBEMTlTWF9zdW1sZDE4dkpPLVgyeTBlN2RfcHBuV0dsaWVrY25BdkhOS25lbjZnNmxz0gGrAUFVX3lxTE5jb0p0SGZ3Wk1scU1BTFhfMnpRX2lhVlNydjR2ZWVxRU5zdDRfaGtienBOeG9WeEhZNVRreEcxX1NLZWJQOVNtdl9VVVBVX0ZLbmFxZUV4TVZwak1JVHc3bWdZa2x2N2RLWnNTc2ZHQXF6aFpuN1J3Y3BLclRkdDdDR1BtRlhPckFwU21hYU9GVTJnTzBnTE56QVNIbll1dEFxLUdnYUZpTkwwcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "918432288a64",
+      "title": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 네이트",
+      "published": "2026-06-04T21:01:00+00:00",
+      "summary": "[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도&nbsp;&nbsp;네이트[사이언스카페] 몸에 뿌리는 모기약, 오히려 유인제 될 수도 - 조선비즈&nbsp;&nbsp;Chosunbiz[곽오열의 生命] 기피제 향을 '먹이'로 기억하는 모기… 기후변화 시대 ‘방역 전선’ 비상&nbsp;&nbsp;ESG비즈니스리뷰\"모기 퇴치제 믿었는데\"…학습에 의해 더 물릴 수 있어&nbsp;&nbsp;자유일보모기 기피제, 오히려 모기 부른다?… “향 기억한 모기, 더 달려들어”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCdGlHa0dCczhuT2NScnI4aU1MY3UzSVpWek4wT2JYajVzaDJld0JUalFyajVWUlk4RnZFNGVHblNuUDNoRThJUVc5Qk5VWEg1eUVz?oc=5"
         }
       ]
     },
@@ -218,6 +254,18 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LeUR6akZYaVFKNUdmR3FRS2YyTG5vWmlBb0NtRVZTdWdnWVFJRGtFZTNEbVpSTjB4dm5UZEhlaU9UYU9vX3I2ckY3QzZwb1VCemhEelg3bTkxUDZ3TXZ0S3Y5ZUk1V0E3UVFN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b37c4b7da896",
+      "title": "병원체에 감염된 세포도 반격한다…새 면역 경로 발견 - 동아사이언스",
+      "published": "2026-06-04T20:00:00+00:00",
+      "summary": "병원체에 감염된 세포도 반격한다…새 면역 경로 발견&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ic1A3TzAwRWtnOGkzY04tekkwSXNJdl81V255X3hnU0pOUGJ4djFZWklYSG9BN0g1YWFfdFpQcXhKSFV3ZFAtNFNPRkZ1YnI2Tnc0OA?oc=5"
         }
       ]
     },
@@ -282,14 +330,14 @@
       ]
     },
     {
-      "id": "858f63fe887f",
-      "title": "‘한타바이러스’ 사람 간 전파 가능성은 - yonhapmidas.com",
-      "published": "2026-06-04T06:47:04+00:00",
-      "summary": "‘한타바이러스’ 사람 간 전파 가능성은&nbsp;&nbsp;yonhapmidas.comGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "7bb4a3e32cad",
+      "title": "여름철 하지정맥류, 기온 오르면 증상 악화… \"조기 시술이 치료 결과 좌우\" - 잡포스트",
+      "published": "2026-06-04T08:07:05+00:00",
+      "summary": "여름철 하지정맥류, 기온 오르면 증상 악화… \"조기 시술이 치료 결과 좌우\"&nbsp;&nbsp;잡포스트\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문",
       "sources": [
         {
-          "name": "yonhapmidas.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1va2lFbWwyajdsUXR2RTNHb1dMclBTUzMtbFMyd0hNUE9kQUhzcVBsa1czampfNWNhaFVQeFVJYm1PbmU2bzZwOU93ZTVCMU1lNkNPSWxRMjFNdVJyaHpuY01Ma0EzdTRMb01MMUJn?oc=5"
+          "name": "잡포스트",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZbXZ6MnVsSmxGWm1GV1lzRjRsMU9nZ3Zta1VBbXFINGZVdkc5dzFDZU5iN2Zkb1VZOGdvbXhxSzlvQ0xacGRDY2tnS2VSWVU3Q2U0X0NLMGNOVnB5QTFzeXI1QXlFclB3UUhXOXFn0gFyQVVfeXFMT3FoekF0ZXlnZlBpUVk2cVg1ZTVsbTg5OUpxRXFweG1IQmVPQmJlMmdnenZjRzd0MkRGT2s3ZVBBeEFBRXN3dDB3aXRnMTN1NGZnLTFUeG9pOHdSWHRpRGozMk05b25GcjFSR1VhUVJsMlFn?oc=5"
         }
       ]
     },
@@ -302,30 +350,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2FnaGYyUE1NZTNXQW96SUNxMVZIbE82VFFEU2pJdWNyY3RxVUp3UHZRS0gzZjlMa2d6bkZEQUJRRXpTdWVyYXJrLTJKN1ZvWnFPTHBzOGxES2thWkdMbVdUcWxNbE8wSk52T2NWRHhsZm1TLWk2TDRVNnhyTTVRTElCYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d43de529c79f",
-      "title": "배승연 여니필라테스 대표, 병원 재활 현장에서 건강한 일상으로 이어지는 재활 필라테스 - 위클리피플 인물지식가이드저널",
-      "published": "2026-06-04T05:39:20+00:00",
-      "summary": "배승연 여니필라테스 대표, 병원 재활 현장에서 건강한 일상으로 이어지는 재활 필라테스&nbsp;&nbsp;위클리피플 인물지식가이드저널",
-      "sources": [
-        {
-          "name": "위클리피플 인물지식가이드저널",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85OWtWMFQ1SG1xVndtV1FrZWRJZDM5WkRaNE9tZVJuSnRSeE9PM3QxeXRwWkc2RTFFM0c5V1FZRDJvcWtYV0RqX2EzNXJYUm52VHBqaU5mRHdKQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c21f2aaf532",
-      "title": "걷다 쉬기를 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호 - 전국도민일보",
-      "published": "2026-06-04T04:27:01+00:00",
-      "summary": "걷다 쉬기를 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호&nbsp;&nbsp;전국도민일보\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문",
-      "sources": [
-        {
-          "name": "전국도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NX2J6V1lBcGx2NE5paHpqTXBzeDN5YmI5clhlQ2JtZ2wtNEJfWnh5WmtvZE9UXzRQSlJhVFJXZzRhSHF0dzNxR2VPWjhlcHZSSE5COVdQdjU5MWFlUkkxNEVVakI4MGvSAWtBVV95cUxNaWFnaWpBLTl0RV9TclU0Q1liZ19oX1FNaUtOTGZtMXBTRjJSMVl6OUM2a3V6dEp3T2JqMzNLcDB3MnpnMHh1SUdxdTZQZXdoVjZRaS10YWJ3WlZla2ozRzZqWUdBUFl5NWxhSQ?oc=5"
         }
       ]
     },
@@ -350,18 +374,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeGl3NklFczlCQXVzdDFBNGtNWkZWQVZXXzNZUm9md0pnMWRpd1FYbEc1akpSYm5RUThPVm94Z0FEcGE5ZkVCRVRoeFpFY2RBUTlfSFBBOWtYQTVwT09sT3NVYWhXdzQ4dzVBNFZoek5vZFBaMDdvbmdpeTlFV3lpV3hPTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a75a83f6640a",
-      "title": "암컷만으로 10만 년 살아남은 물고기의 비밀 - 조선일보",
-      "published": "2026-06-03T08:33:37+00:00",
-      "summary": "암컷만으로 10만 년 살아남은 물고기의 비밀&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbktnSWlDTHQ3dmZtTGVnRjJyZ3JXZ3I5MTNBM1JzdVJLZjNqSmlqUVBYV3JUUGZwTWZmalZkUVlqM2FnTFllRjdKQnhWNnV4VHU2WDBRTEIxVWNLdlVUZmlKUzREUHpQZHRWN0lCcUZwX21zVnc0WVdNeU5GQ3JWV1NFaTA3ZEx3Sm9MVDNxVEF1TElUZ2NIWklFWGkxQQ?oc=5"
         }
       ]
     }
