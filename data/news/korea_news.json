@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-07T09:18:16.570206+00:00",
-  "total_fetched": 41,
-  "unique_count": 41,
-  "health_related_count": 15,
+  "fetched_at": "2026-06-07T14:00:11.785225+00:00",
+  "total_fetched": 42,
+  "unique_count": 42,
+  "health_related_count": 13,
   "news": [
     {
       "id": "0ae3c1591598",
@@ -26,18 +26,6 @@
         {
           "name": "캐어유 뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vks1aE5tQmxxT1kza1U5V3VmelpfVEdlNHVaYWwydFNtenhxVTBOemRxbjdkNUpUSXRyZU5BVk5nNVNIRUhnTW9zNWpfUi05WmFMd19uamF2ZUhvVkkzLXhQYWJnUktYbmJWdkZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78b93ddbf17a",
-      "title": "치매 직전 뇌, 이 금속 없었다…\"물 잘 마셔라\" 뜻밖 예방법 - 네이트",
-      "published": "2026-06-07T06:30:00+00:00",
-      "summary": "치매 직전 뇌, 이 금속 없었다…\"물 잘 마셔라\" 뜻밖 예방법&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEMHpSdjJwOWN6anE5NWp1ck5tT3Jic3JpOHo1RDJUN3ZLMkhqNy1rV3l1ZW5HUkRRNTd6SzQtamtmMm9DamJyTGJmSEpYZmZ2ck84?oc=5"
         }
       ]
     },
@@ -129,7 +117,7 @@
       "id": "c5a9c27b5df4",
       "title": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료 - 아시아경제",
       "published": "2026-06-05T23:28:40+00:00",
-      "summary": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료&nbsp;&nbsp;아시아경제영국 연구진, AI로 설계한 백신 개발중…\"1상 임상시험 완료\"&nbsp;&nbsp;v.daum.netAI가 설계한 '슈퍼 항원' 첫 사람 대상 시험…코로나 계열 백신 새 길 열리나&nbsp;&nbsp;뉴시스케임브리지대, AI가 설계한 '슈퍼 항원' 백신 임상시험 최초 성공&nbsp;&nbsp;뉴스웍스영국 연구진, AI로 설계한 '범용 백신' 개발중…\"1상 임상 완료\"&nbsp;&nbsp;SBS 뉴스",
+      "summary": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료&nbsp;&nbsp;아시아경제Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "아시아경제",
@@ -158,18 +146,6 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ubzJ2T0FwMlZNSThpVXBZWVFGbGphanhKbjQ5TFh2ckhMNTZiZVNHcVFWTVRrdkZ4QnlHdi1pUldtbnRiY0pKUm43LXpIWmpFUXl0OWVnSERuelZhZUlWaHc0aXA3YWIzakxySWxFRdIBZkFVX3lxTE1yUTBBSVNwOVB4UzBJNTlPdkpqMXpaR25XUGl5UTVCeTBOcEY4SkxNR1JUaElWSnk2NlhwUjIxckhOV2ZJM19iSnc0bEpaTjYxWmxyNFR6YmJaaWRrc2tON0hSbktBdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad255aa958bd",
-      "title": "치매 전 치료제 '콜린알포세레이트'…\"임상 1차 지표 미충족했지만 인지기능 개선 확인\" - 네이트",
-      "published": "2026-06-05T09:15:00+00:00",
-      "summary": "치매 전 치료제 '콜린알포세레이트'…\"임상 1차 지표 미충족했지만 인지기능 개선 확인\"&nbsp;&nbsp;네이트치매 전 치료제 ‘콜린알포세레이트’… “임상 1차 지표 미충족했지만 인지기능 개선 확인”&nbsp;&nbsp;v.daum.net결과 제출 앞둔 콜린 임상재평가… '1차 변수 미충족'이 변수&nbsp;&nbsp;히트뉴스간헐성 파행·어지럼증에 쓰이던 은행잎 추출물, 치매 원인물질 억제 확인&nbsp;&nbsp;조선일보[헬스캡슐]은행잎 추출물, ‘베타아밀로이드 응집 억제’ 효과 확인 外&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qNEU2b01WRUZFVEcyYTdVOUk1THk3MC1qUnJXc0VnVGQ3dnVBUWRKN3c1VnU5QW9VZFpUNlA2d3dVdmZYcllDeTRBRkZWdUJvVm53?oc=5"
         }
       ]
     },
