@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-07T14:00:11.785225+00:00",
-  "total_fetched": 42,
-  "unique_count": 42,
+  "fetched_at": "2026-06-07T19:27:32.982525+00:00",
+  "total_fetched": 37,
+  "unique_count": 37,
   "health_related_count": 13,
   "news": [
+    {
+      "id": "a18398bfb1a9",
+      "title": "“심장마비 위험” 심장 보는 의사가 ‘아침에 절대 안 하는’ 행동 - 헬스조선",
+      "published": "2026-06-07T19:00:00+00:00",
+      "summary": "“심장마비 위험” 심장 보는 의사가 ‘아침에 절대 안 하는’ 행동&nbsp;&nbsp;헬스조선20년 경력의 심장 전문의가 심장 건강을 위해 오전 9시 전에 피해야 할 5가지 사항을 공개합니다.&nbsp;&nbsp;Vietnam.vn\"거의 지방 덩어리, 동맥 막혀\"…심장내과 의사가 절대 먹지 않는다는 식품들은?&nbsp;&nbsp;네이트뇌·심장 지키는 저녁 식사 시간은?…“잠들기 3시간 전에는 식사 마쳐라”&nbsp;&nbsp;동아일보심장 전문의 \"절대 안 먹는 음식들은 바로 이것\"…추천 식단은?&nbsp;&nbsp;sportschosun.com",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00YWZFVGJicWxXS3JpZThZNk00Vjg0MmpHNnJHbENjWDlkSWtkY1pTTnZ2dGFyVEUxVUE5WjNkdkUzc1p2cWFNNmstbWVROWNpUFZSNkFsT1BTblEtUzBJOHkwbkxWT1Ywa0RXTTgxSC1STmx2N0E?oc=5"
+        }
+      ]
+    },
     {
       "id": "0ae3c1591598",
       "title": "걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호 - 코리아헬스로그",
@@ -114,26 +126,14 @@
       ]
     },
     {
-      "id": "c5a9c27b5df4",
-      "title": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료 - 아시아경제",
-      "published": "2026-06-05T23:28:40+00:00",
-      "summary": "코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료&nbsp;&nbsp;아시아경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "65fff1892576",
+      "title": "코로나·메르스까지 한 번에…AI가 설계한 범용 백신 첫 임상 결과는? - 조세일보",
+      "published": "2026-06-06T00:51:41+00:00",
+      "summary": "코로나·메르스까지 한 번에…AI가 설계한 범용 백신 첫 임상 결과는?&nbsp;&nbsp;조세일보코로나·메르스 한방에 잡나…英, AI 기반 '범용 백신' 인체 임상시험 완료&nbsp;&nbsp;v.daum.net영국 연구진, AI로 설계한 백신 개발중…\"1상 임상시험 완료\"&nbsp;&nbsp;연합뉴스AI가 설계한 '슈퍼 항원' 첫 사람 대상 시험…코로나 계열 백신 새 길 열리나&nbsp;&nbsp;뉴시스케임브리지대, AI가 설계한 '슈퍼 항원' 백신 임상시험 최초 성공&nbsp;&nbsp;뉴스웍스",
       "sources": [
         {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JN29HWXA3eC1LX0tjTnZOQXdLX0xTVGR2ZzBpTmMtd0J4dFpLcDA4MVVCVU03SzRsX3JXZXhGdmZyeEtrWEZyd0pZT2RVMlNPMV9iZF9YM3d4QjEwTUhPSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b8b1c4edbab1",
-      "title": "UC 샌디에이고 의과대학, 신경성 식욕부진증 치료 위한 케톤 생성 요법의 희망 시사하는 새로운 증거 보고 - 미디어데일",
-      "published": "2026-06-05T22:37:02+00:00",
-      "summary": "UC 샌디에이고 의과대학, 신경성 식욕부진증 치료 위한 케톤 생성 요법의 희망 시사하는 새로운 증거 보고&nbsp;&nbsp;미디어데일",
-      "sources": [
-        {
-          "name": "미디어데일",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wbjF3OTE2X3NBZHV6bDlYalRpMkd6Y3llYVpvczd0TTRqenVPZC1VZ25WWDJmQW9VUkJNMVZuZXNMa2NDMUxIc2pCZ05QOTk5N2RhYUdzeENxdE83V0d4bUNqbHlvY1p5SmZZ?oc=5"
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zaUZWU21fMWdKeW12NGR4T0lSWlYtWlY1a0NTNmdRMURfNlRfRTFHaWtNbkFaTWtnbzZSeElBaWJoY0ozRkk5NlAtdGdLaEdPNDdwTC0zMUstN0EwaDN3?oc=5"
         }
       ]
     },
