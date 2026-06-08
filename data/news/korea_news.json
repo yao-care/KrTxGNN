@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-08T15:58:19.616748+00:00",
-  "total_fetched": 51,
-  "unique_count": 50,
-  "health_related_count": 25,
+  "fetched_at": "2026-06-08T20:22:16.734989+00:00",
+  "total_fetched": 46,
+  "unique_count": 46,
+  "health_related_count": 22,
   "news": [
     {
       "id": "4f748842203c",
@@ -54,18 +54,6 @@
       ]
     },
     {
-      "id": "b23eb1aad147",
-      "title": "노보 \"비만약, 노화방지·미용으로 확대\" - 한국경제",
-      "published": "2026-06-08T08:33:29+00:00",
-      "summary": "노보 \"비만약, 노화방지·미용으로 확대\"&nbsp;&nbsp;한국경제[미국 특징주] 노보, 비만약 너머 노화·미용도 겨냥&nbsp;&nbsp;뉴스핌노보노디스크 \"비만약, 노화방지·미용으로 확대\"&nbsp;&nbsp;네이트세마글루티드, 체중 감량 넘어 심대사 효과 확대 가능성 제시&nbsp;&nbsp;kmedinfo.co.kr[ADA] 노보, ‘위고비’ 생물학적 나이 최대 7.2% 낮춰…장기 노화 지표 개선&nbsp;&nbsp;더바이오",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTUdFVXZZVHpVT2UtaFhfVTRpT1d6Q1FUUHBtV29rczAwdVk0S1ZoTTNrQ25MVlQ1a2NSc3h6ci1DbFFCYmtCNXdMVk1iMFVtWXF4SHAyS05MUdIBVEFVX3lxTFBEbmpGZFQ5Q3A5M19VckJlTk9jRW5MRVZkbkxOXzBpbTFIVVpLS1JHcWpKVFNWLXJkdlliVDdYcnBTLW9mSnZIMnBBVko0MV8yaEZDcA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5c601278482d",
       "title": "AI가 설계한 코로나 백신, 사람에게 첫 투여…미래 변이까지 노린다 - 디지털투데이",
       "published": "2026-06-08T07:42:00+00:00",
@@ -93,7 +81,7 @@
       "id": "274866d9c5dd",
       "title": "[한국인의 100가지 질환-39] 갑상선결절, 암보다 더 흔한 질환이다 - 뉴스인",
       "published": "2026-06-08T05:52:05+00:00",
-      "summary": "[한국인의 100가지 질환-39] 갑상선결절, 암보다 더 흔한 질환이다&nbsp;&nbsp;뉴스인",
+      "summary": "[한국인의 100가지 질환-39] 갑상선결절, 암보다 더 흔한 질환이다&nbsp;&nbsp;뉴스인‘착한 암’의 역설… 2030 급증하는 갑상선암, 무조건 안심할 수 없는 이유 ①&nbsp;&nbsp;하이닥“늙을수록 암세포 더 잘 퍼진다?”...‘이 나이’ 때 암 전이 가장 높다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "뉴스인",
@@ -213,7 +201,7 @@
       "id": "0ae3c1591598",
       "title": "걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호 - 코리아헬스로그",
       "published": "2026-06-07T07:01:43+00:00",
-      "summary": "걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호&nbsp;&nbsp;코리아헬스로그[알뜰정보] '노출의 계절, 더 도드라지는 하지정맥류 주의보' 외&nbsp;&nbsp;미주중앙일보걷기도 힘든 다리 통증 반복되면, '말초동맥질환' 위험 신호&nbsp;&nbsp;네이트[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스",
+      "summary": "걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호&nbsp;&nbsp;코리아헬스로그[알뜰정보] '노출의 계절, 더 도드라지는 하지정맥류 주의보' 외&nbsp;&nbsp;미주중앙일보걷기도 힘든 다리 통증 반복되면, '말초동맥질환' 위험 신호&nbsp;&nbsp;네이트[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문여름철 하지정맥류, 기온 오르면 증상 악화… \"조기 시술이 치료 결과 좌우\"&nbsp;&nbsp;잡포스트",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -242,18 +230,6 @@
         {
           "name": "캐어유 뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vks1aE5tQmxxT1kza1U5V3VmelpfVEdlNHVaYWwydFNtenhxVTBOemRxbjdkNUpUSXRyZU5BVk5nNVNIRUhnTW9zNWpfUi05WmFMd19uamF2ZUhvVkkzLXhQYWJnUktYbmJWdkZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78b93ddbf17a",
-      "title": "치매 직전 뇌, 이 금속 없었다…\"물 잘 마셔라\" 뜻밖 예방법 - 네이트",
-      "published": "2026-06-07T06:30:00+00:00",
-      "summary": "치매 직전 뇌, 이 금속 없었다…\"물 잘 마셔라\" 뜻밖 예방법&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEMHpSdjJwOWN6anE5NWp1ck5tT3Jic3JpOHo1RDJUN3ZLMkhqNy1rV3l1ZW5HUkRRNTd6SzQtamtmMm9DamJyTGJmSEpYZmZ2ck84?oc=5"
         }
       ]
     },
@@ -290,18 +266,6 @@
         {
           "name": "연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aMGRoQkxTSTRqMGdUcFh5VUxVSXFzQlFOYnplZjkxSmo4aThRMU82U1Fad1lWOE5vcXMyTzZqWmpiT0RSamg3Nm9XRDJSV1lhcDVyc0ZUSUFEQmPSAWBBVV95cUxQVXZvWWtKZ2tYRVBKMjctOGxQS2ZYMlpnREt5MDUwc19HSy1fR3JRU0tTZFcwLVY1Yy1RS2s3MUtjWklMS3Y3REFDWjBrT3lVQ2s5M25QQTdvbEdIV3hSNHI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16b49f5a47f8",
-      "title": "“아차, 오늘이었어?”… 반복되면 건망증 아닐 수도[베스트 닥터의 베스트 건강법] - 동아일보",
-      "published": "2026-06-05T16:40:00+00:00",
-      "summary": "“아차, 오늘이었어?”… 반복되면 건망증 아닐 수도[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ubzJ2T0FwMlZNSThpVXBZWVFGbGphanhKbjQ5TFh2ckhMNTZiZVNHcVFWTVRrdkZ4QnlHdi1pUldtbnRiY0pKUm43LXpIWmpFUXl0OWVnSERuelZhZUlWaHc0aXA3YWIzakxySWxFRdIBZkFVX3lxTE1yUTBBSVNwOVB4UzBJNTlPdkpqMXpaR25XUGl5UTVCeTBOcEY4SkxNR1JUaElWSnk2NlhwUjIxckhOV2ZJM19iSnc0bEpaTjYxWmxyNFR6YmJaaWRrc2tON0hSbktBdw?oc=5"
         }
       ]
     }
