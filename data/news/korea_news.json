@@ -1,31 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-08T11:02:03.503944+00:00",
-  "total_fetched": 48,
-  "unique_count": 47,
-  "health_related_count": 23,
+  "fetched_at": "2026-06-08T15:58:19.616748+00:00",
+  "total_fetched": 51,
+  "unique_count": 50,
+  "health_related_count": 25,
   "news": [
     {
-      "id": "d936b2724810",
-      "title": "\"연내 AI 에이전트 100개 운영 계획…백신 개발기간 30%이상 앞당길 것\" - 매일경제",
-      "published": "2026-06-08T08:44:05+00:00",
-      "summary": "\"연내 AI 에이전트 100개 운영 계획…백신 개발기간 30%이상 앞당길 것\"&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "4f748842203c",
+      "title": "의사는 마약 의심했는데… 20대 女, 치아 다 빠진 ‘의외의 원인’ - 헬스조선",
+      "published": "2026-06-08T13:20:00+00:00",
+      "summary": "의사는 마약 의심했는데… 20대 女, 치아 다 빠진 ‘의외의 원인’&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLTkpBQlQzeE1vYkUyVGo2LVRGSWx2NFdBRnBRNHgtS01IcnVqRjktNFp1S1JrTTd1YXd3NlBSakxua0ljM0hqYTZVeEZCUQ?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pNDlRTWN4TkdOcjQ0TTZMSGtLZjllVWpEaTdJMzNhWVdrSUFidUx6S0V5NkhrQ0Y5QXE1OWQtNzl0VnE3emxQY0tBN2RpbnNsMjJiNDlMLUJMZ3hnX2lCYmF0UmltaEZzajVWVWVZUXJ3WVNRMlE?oc=5"
         }
       ]
     },
     {
-      "id": "adf2697f1317",
-      "title": "[MBN] 식이섬유가 대장 건강에 미치는 영향은 - 네이트",
-      "published": "2026-06-08T08:36:00+00:00",
-      "summary": "[MBN] 식이섬유가 대장 건강에 미치는 영향은&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "385e196ce4a5",
+      "title": "7월 1일부터 HPV 백신 무료 접종, 목표 연령대의 여아 그룹 우선 - Laodong.vn",
+      "published": "2026-06-08T10:49:48+00:00",
+      "summary": "7월 1일부터 HPV 백신 무료 접종, 목표 연령대의 여아 그룹 우선&nbsp;&nbsp;Laodong.vn12세 남성 청소년 대상 HPV 무료 예방접종 확대&nbsp;&nbsp;대구광역일보문경시보건소 사람유두종바이러스 예방접종 확대 실시&nbsp;&nbsp;hidomin.com“자궁경부암 백신 접종, 남녀 모두에게 필요하다”&nbsp;&nbsp;데일리메디\"결혼 준비물 된 가다실…HPV 예방, 남녀 공동과제로\"&nbsp;&nbsp;매경헬스",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MTzZJLXppbngwTjJ4VGZOa1ZMU3QyTk5SQnJFUlN0Mm9hZjN4N2VoWVdNSVZ5a3o5cDhGTkNUQ2tSRUtMeU84MC1fa3RZVWxiSm9B?oc=5"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeW9rVldRSDVpZUpYcVZ3VVlmWjBvWFVMR214RXZQNUpGcmdmYUl6dzhTQ3BoMFVWc2tPcEZYQ1JtYk1YSEhNUFVBeEZoWl83WmIzOGZ5X0gtRlEwbmlGRFotNkJWZTZIbS1wU2xsZzJpU3pqQ0xEWTAyaFRFbWtfR1h1MW9HTTVJd3pBR2RGSE5xMVp6TnVDamxsVTlRbFFhemZMV2x3eTYzUk53M1dyUC1EUzZHWlNzbDd2YjVFNXhIMTFJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50cc779f84c6",
+      "title": "나만 들리는 정체불명 ‘웅웅’ 소리… 예민해서가 아니라 ‘이명’이었다 - 하이닥",
+      "published": "2026-06-08T10:00:00+00:00",
+      "summary": "나만 들리는 정체불명 ‘웅웅’ 소리… 예민해서가 아니라 ‘이명’이었다&nbsp;&nbsp;하이닥정체불명 '웅웅' 소리의 비밀…연구진 \"저주파 이명 가능성 높다\"&nbsp;&nbsp;네이트[건강 칼럼] 이명과 난청, 청신경의 문제? 치료 방법은?&nbsp;&nbsp;thefairnews.co.kr‘한국이명학회’ 공식 출범…“한의 신경이과학으로 이명치료의 새 지평” > 뉴스&nbsp;&nbsp;한의신문“이명 치료 표준화…데이터 기반 진료체계 구축” [인터뷰]&nbsp;&nbsp;한경매거진&북",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3bmJEZ0RiUVF1VW5yS095OXJneklEdlFGN25DUFd2U2xZNGFkUVZ5dUdrbjR6b0hWQjQyaDYwaGZWc09TaXJjY0RYTmtwbUdua0lETU5JQjEyV090MU8xcVhMdGdiVGphWnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c3f909b33c7",
+      "title": "[MBN] 식이섬유가 대장 건강에 미치는 영향은 - 매일경제",
+      "published": "2026-06-08T08:35:29+00:00",
+      "summary": "[MBN] 식이섬유가 대장 건강에 미치는 영향은&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TQ002SnowUkRkT0NETV9vN1lkVUZkeE1UTEJBZ25OYnI3d0pPM1BXYk5ZM0hPWGFPeG9qejR3QWtnRVF1QWxlckZCZ016QmJXMVVnbA?oc=5"
         }
       ]
     },
@@ -33,11 +57,23 @@
       "id": "b23eb1aad147",
       "title": "노보 \"비만약, 노화방지·미용으로 확대\" - 한국경제",
       "published": "2026-06-08T08:33:29+00:00",
-      "summary": "노보 \"비만약, 노화방지·미용으로 확대\"&nbsp;&nbsp;한국경제[미국 특징주] 노보, 비만약 너머 노화·미용도 겨냥&nbsp;&nbsp;뉴스핌노보노디스크 “비만약, 노화방지·미용으로 확대”&nbsp;&nbsp;한국경제[ADA] 노보, ‘위고비’ 생물학적 나이 최대 7.2% 낮춰…장기 노화 지표 개선&nbsp;&nbsp;더바이오",
+      "summary": "노보 \"비만약, 노화방지·미용으로 확대\"&nbsp;&nbsp;한국경제[미국 특징주] 노보, 비만약 너머 노화·미용도 겨냥&nbsp;&nbsp;뉴스핌노보노디스크 \"비만약, 노화방지·미용으로 확대\"&nbsp;&nbsp;네이트세마글루티드, 체중 감량 넘어 심대사 효과 확대 가능성 제시&nbsp;&nbsp;kmedinfo.co.kr[ADA] 노보, ‘위고비’ 생물학적 나이 최대 7.2% 낮춰…장기 노화 지표 개선&nbsp;&nbsp;더바이오",
       "sources": [
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTUdFVXZZVHpVT2UtaFhfVTRpT1d6Q1FUUHBtV29rczAwdVk0S1ZoTTNrQ25MVlQ1a2NSc3h6ci1DbFFCYmtCNXdMVk1iMFVtWXF4SHAyS05MUdIBVEFVX3lxTFBEbmpGZFQ5Q3A5M19VckJlTk9jRW5MRVZkbkxOXzBpbTFIVVpLS1JHcWpKVFNWLXJkdlliVDdYcnBTLW9mSnZIMnBBVko0MV8yaEZDcA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c601278482d",
+      "title": "AI가 설계한 코로나 백신, 사람에게 첫 투여…미래 변이까지 노린다 - 디지털투데이",
+      "published": "2026-06-08T07:42:00+00:00",
+      "summary": "AI가 설계한 코로나 백신, 사람에게 첫 투여…미래 변이까지 노린다&nbsp;&nbsp;디지털투데이Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FaFVLd1NuYThqRUVQSDBJcURfSWt1UzVTZnBSSWd6U0dHMmt3Wko0U3k5SFdlN1Jjc1hWTFJrVWh5cGhadU1XU21BY3pFNVlTMGtnYTdUQTdRSUVHWklqWTV6SG5KbWNkeUJadWVnZ3ZlOHM?oc=5"
         }
       ]
     },
@@ -90,6 +126,18 @@
       ]
     },
     {
+      "id": "c34141375e14",
+      "title": "무릎·고관절 수술 괜찮을까? 노인 15%, 심각한 인지 저하 궤적[노화설계] - 네이트",
+      "published": "2026-06-08T02:26:00+00:00",
+      "summary": "무릎·고관절 수술 괜찮을까? 노인 15%, 심각한 인지 저하 궤적[노화설계]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIWUFoaFRMckowa1VzVUVEOFliendQcUJMS2Y1RWQ4cldBTWowTURfVTRoWWVPdTI2eFZZN1lDRTcycXNtOFhleXI5cEVNdTV2RmFR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "91c58443b962",
       "title": "이영목 대한신생아스크리닝학회장-신생아선별검사 학술적 표준화 및 발전을 주도하며 희귀질환 진단·연구에 몰두하는 대한신생아스크리닝학회 - 월간인물",
       "published": "2026-06-08T00:15:51+00:00",
@@ -105,7 +153,7 @@
       "id": "19c3fcb2e195",
       "title": "잠 부족·불면·낮잠 잦으면 뇌 노화 가속…치매 위험 높이는 수면 습관 확인 - 메디컬투데이",
       "published": "2026-06-08T00:11:37+00:00",
-      "summary": "잠 부족·불면·낮잠 잦으면 뇌 노화 가속…치매 위험 높이는 수면 습관 확인&nbsp;&nbsp;메디컬투데이Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "잠 부족·불면·낮잠 잦으면 뇌 노화 가속…치매 위험 높이는 수면 습관 확인&nbsp;&nbsp;메디컬투데이[메디컬투데이 - 쇼츠뉴스] 수면 습관과 뇌 건강의 상관관계&nbsp;&nbsp;네이트자기 전 스마트폰 보는 습관, 치매 위험 높인다?... 강성훈 교수의 치매 팩트체크 6&nbsp;&nbsp;하이닥주말 늦잠이 보약?…알고 보니 수명 깎아먹는 '최악의 습관' [건강!톡]&nbsp;&nbsp;한국경제잠도 ‘과유불급’… 너무 적게 자도, 너무 오래 자도 몸은 빨리 늙는다&nbsp;&nbsp;콜로라도 타임즈",
       "sources": [
         {
           "name": "메디컬투데이",
@@ -162,18 +210,6 @@
       ]
     },
     {
-      "id": "a18398bfb1a9",
-      "title": "“심장마비 위험” 심장 보는 의사가 ‘아침에 절대 안 하는’ 행동 - 헬스조선",
-      "published": "2026-06-07T19:00:00+00:00",
-      "summary": "“심장마비 위험” 심장 보는 의사가 ‘아침에 절대 안 하는’ 행동&nbsp;&nbsp;헬스조선20년 경력의 심장 전문의가 심장 건강을 위해 오전 9시 전에 피해야 할 5가지 사항을 공개합니다.&nbsp;&nbsp;Vietnam.vn심장 보는 의사, “자녀에게 안 먹인다”는 음식은?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00YWZFVGJicWxXS3JpZThZNk00Vjg0MmpHNnJHbENjWDlkSWtkY1pTTnZ2dGFyVEUxVUE5WjNkdkUzc1p2cWFNNmstbWVROWNpUFZSNkFsT1BTblEtUzBJOHkwbkxWT1Ywa0RXTTgxSC1STmx2N0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0ae3c1591598",
       "title": "걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호 - 코리아헬스로그",
       "published": "2026-06-07T07:01:43+00:00",
@@ -182,6 +218,18 @@
         {
           "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtcXMyTzZwSVpUWXhXa0lRX0Zoa0RVbUN3OXVnTkNhMlpNMjdPU19uaTd0Z0VNNGF5Uy10V3F3Y0g3WllHV3FQZ0JJSDRnZ1AyVFBaalJGV19HOU1wUi1aZUpMLTdoMTBobVFiRUVMOVhOZ9IBdkFVX3lxTE1yMkxlLWh4OW93Tm8wd1I1bE91VkpLZ3JOUTN4dS1EaEZTc0hnOEVQcUdqc0RJN09fWGJRdW5YMkVHZ2p0ZFlkNEgxRVJkS0M4dWktZFN0WTBkcmg1aktGZTBnb0VwS0hPb3p1QUdzQ29zeFhXbVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "07c1131ca4b8",
+      "title": "'2026 국내 기생충 질환'의 감염 현황 - 제주일보",
+      "published": "2026-06-07T07:00:00+00:00",
+      "summary": "'2026 국내 기생충 질환'의 감염 현황&nbsp;&nbsp;제주일보",
+      "sources": [
+        {
+          "name": "제주일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10V3RIOXkxcFNJbFVjSk1zajVlMUpUZ2FUcld6QVYxQ1czZG9TTjFrMnVkVmxpdFpHNFJyU1hfMUpXU2w2WnNDdlcxMGVwQTVRdWpkeG56SVFYSUNBRTZTQlYwU2t0eWduMDFQOQ?oc=5"
         }
       ]
     },
@@ -210,18 +258,6 @@
       ]
     },
     {
-      "id": "7895791a669f",
-      "title": "“마약한 줄 오해” 치아 다 뽑고 틀니 한 22세女…영양소 결핍 탓이라고? - 코메디닷컴",
-      "published": "2026-06-07T04:05:00+00:00",
-      "summary": "“마약한 줄 오해” 치아 다 뽑고 틀니 한 22세女…영양소 결핍 탓이라고?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA1dzJxWXZEaXJNQ3VxMTIzTGFMWnJiZWNoVFd4WUlpOTR2NjZBcGxDMGJkZEpFejl0eldOcnlVS0VJQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3beaa22a7e60",
       "title": "공항 발칵… 엠폭스·수두 바이러스 밀반입 시도한 NIH 연구원 - 헬스조선",
       "published": "2026-06-07T04:00:00+00:00",
@@ -234,6 +270,18 @@
       ]
     },
     {
+      "id": "b6add60aa232",
+      "title": "정체불명 '웅웅' 소리의 비밀…연구진 \"저주파 이명 가능성 높다\" - 네이트",
+      "published": "2026-06-07T01:06:00+00:00",
+      "summary": "정체불명 '웅웅' 소리의 비밀…연구진 \"저주파 이명 가능성 높다\"&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JLW1tem50WVR0MV9rTHJ5eXdJUjJMekZ6UmJLMEY2MlJCdFlyWE9aT0tGN2RYQXB0TldON2hkUzFEazkwX3JXYUUxb2xmby1uU0Zz?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7b428e7abf1a",
       "title": "[반려동물] \"맞혀도 될까?\" 광견병백신 불안에…의료계 \"맞혀야 전염 막아\" - 연합뉴스",
       "published": "2026-06-06T21:45:01+00:00",
@@ -242,30 +290,6 @@
         {
           "name": "연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aMGRoQkxTSTRqMGdUcFh5VUxVSXFzQlFOYnplZjkxSmo4aThRMU82U1Fad1lWOE5vcXMyTzZqWmpiT0RSamg3Nm9XRDJSV1lhcDVyc0ZUSUFEQmPSAWBBVV95cUxQVXZvWWtKZ2tYRVBKMjctOGxQS2ZYMlpnREt5MDUwc19HSy1fR3JRU0tTZFcwLVY1Yy1RS2s3MUtjWklMS3Y3REFDWjBrT3lVQ2s5M25QQTdvbEdIV3hSNHI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0b668e4e1c65",
-      "title": "고혈압 관리에 '양방향 조절' 효과 가능성…문맥약침 다기관 임상 관찰 결과 발표 - 뉴스N연합",
-      "published": "2026-06-06T14:22:00+00:00",
-      "summary": "고혈압 관리에 '양방향 조절' 효과 가능성…문맥약침 다기관 임상 관찰 결과 발표&nbsp;&nbsp;뉴스N연합",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96QzhsanpjT3hkOTNvMHVPSmdnMlItcThXeF9pOHY4VEpobWtzTnNCRU9GNVBhdHJuaDk2YW1YdFlJYUFmcFUyZjZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53cd32907559",
-      "title": "비키니 입으려다 병원행?…\"이러다 몸 망친다\" 경고 [건강!톡] - 한국경제",
-      "published": "2026-06-06T10:24:15+00:00",
-      "summary": "비키니 입으려다 병원행?…\"이러다 몸 망친다\" 경고 [건강!톡]&nbsp;&nbsp;한국경제SNS 유행 다이어트, 왜 요요를 부를까?… ‘80대20 법칙’의 비밀 [푸드파일러]&nbsp;&nbsp;하이닥한방다이어트, 체중 감량보다 중요한 것은 건강한 관리 과정 [고승진 원장 칼럼]&nbsp;&nbsp;하이뉴스",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fN2lRcENtckdnVVlUWFhJdlVjVzJoTlNEaUNkM1FCM08zdzRpZm1zX3kzNkJjWklmbWlxanZQNjlLQlFPVmxWRHg2WnRxLWNvd0VTYUxGLVQ5UdIBVEFVX3lxTFBQWWU4SU9CTGZhUk1EOUJzWFBYdlRNX2c1Q1BjT096cjBYWFV3UG40b242LXAwZUIwUFJwYVdqMldBNzhYZmlOY0hDaFVsOFNoaUNSYg?oc=5"
         }
       ]
     },
