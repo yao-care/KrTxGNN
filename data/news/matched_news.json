@@ -1,8 +1,86 @@
 {
-  "last_updated": "2026-06-08T04:19:36.063568+00:00",
-  "total_count": 20,
+  "last_updated": "2026-06-08T11:02:03.574182+00:00",
+  "total_count": 23,
   "matched_count": 0,
   "news": [
+    {
+      "id": "d936b2724810",
+      "title": "\"연내 AI 에이전트 100개 운영 계획…백신 개발기간 30%이상 앞당길 것\"",
+      "published": "2026-06-08T08:44:05+00:00",
+      "summary": "\"연내 AI 에이전트 100개 운영 계획…백신 개발기간 30%이상 앞당길 것\"&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLTkpBQlQzeE1vYkUyVGo2LVRGSWx2NFdBRnBRNHgtS01IcnVqRjktNFp1S1JrTTd1YXd3NlBSakxua0ljM0hqYTZVeEZCUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "adf2697f1317",
+      "title": "[MBN] 식이섬유가 대장 건강에 미치는 영향은",
+      "published": "2026-06-08T08:36:00+00:00",
+      "summary": "[MBN] 식이섬유가 대장 건강에 미치는 영향은&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MTzZJLXppbngwTjJ4VGZOa1ZMU3QyTk5SQnJFUlN0Mm9hZjN4N2VoWVdNSVZ5a3o5cDhGTkNUQ2tSRUtMeU84MC1fa3RZVWxiSm9B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b23eb1aad147",
+      "title": "노보 \"비만약, 노화방지·미용으로 확대\"",
+      "published": "2026-06-08T08:33:29+00:00",
+      "summary": "노보 \"비만약, 노화방지·미용으로 확대\"&nbsp;&nbsp;한국경제[미국 특징주] 노보, 비만약 너머 노화·미용도 겨냥&nbsp;&nbsp;뉴스핌노보노디스크 “비만약, 노화방지·미용으로 확대”&nbsp;&nbsp;한국경제[ADA] 노보, ‘위고비’ 생물학적 나이 최대 7.2% 낮춰…장기 노화 지표 개선&nbsp;&nbsp;더바이오",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jTUdFVXZZVHpVT2UtaFhfVTRpT1d6Q1FUUHBtV29rczAwdVk0S1ZoTTNrQ25MVlQ1a2NSc3h6ci1DbFFCYmtCNXdMVk1iMFVtWXF4SHAyS05MUdIBVEFVX3lxTFBEbmpGZFQ5Q3A5M19VckJlTk9jRW5MRVZkbkxOXzBpbTFIVVpLS1JHcWpKVFNWLXJkdlliVDdYcnBTLW9mSnZIMnBBVko0MV8yaEZDcA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "51ba0d0b5e3e",
+      "title": "‘친구 같은 배우자’가 내 건강에 미치는 영향",
+      "published": "2026-06-08T06:50:00+00:00",
+      "summary": "‘친구 같은 배우자’가 내 건강에 미치는 영향&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04OXVDajZuVUc4QVFMbFE3WkU4UjVfeHVaZzFoVFgyXzFZNEt0UExQZ0VoQ3Bsb3cyNU9kaHp0c2lYaHAzTUVUTEhfYlZfaklWVmliaTZpNkpYbXlIa1pVQjBQOHlMbzkxYUZfd1RaVS1kNUpLd0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "274866d9c5dd",
+      "title": "[한국인의 100가지 질환-39] 갑상선결절, 암보다 더 흔한 질환이다",
+      "published": "2026-06-08T05:52:05+00:00",
+      "summary": "[한국인의 100가지 질환-39] 갑상선결절, 암보다 더 흔한 질환이다&nbsp;&nbsp;뉴스인",
+      "sources": [
+        {
+          "name": "뉴스인",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XbXM5Tm5GOXNyRkRhMHZ1dGZ2WUNRaVBVM1o3aVdoQ1I0cDBiTEhVQ1lfV21NMFI1eUJXQ0FmbldSNkdTOXRpVjJ4QmtTWlM1WmVLeHZ3a010QkZrMkE3bl9RdTJLMHZUVWJZ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "074d5a4d1ce2",
+      "title": "의료기관 자살예방 체계 미흡…요양병원 60% “예방 안해”",
+      "published": "2026-06-08T05:15:13+00:00",
+      "summary": "의료기관 자살예방 체계 미흡…요양병원 60% “예방 안해”&nbsp;&nbsp;이데일리",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1FsSmpjY1BiYTVMMENyMlN0YmtfREdRVWQtNVJ1Ry1rRnJHMzhKalJDMkwxUXR1WkJVeEdaYlQycFpRVE1RQi1QcmhYMHJueDRlNjc0eW1nbjA2cEdMMnhraGpQX2ZnNnF1QjFwMWNoaUFNR2VZd2Z4LXpCdkh0Rw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3ba8e192731f",
       "title": "“Baby Baby” 에이미 그랜트, 사고 후 기억력 저하…머리 손상도 치매 위험 요인",
@@ -12,6 +90,19 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PMk05RVJ5RU5UZnF3T0k3dmtYR3BzcGQzZFp0WjZ6ZlJpLXotbDZkd2RQa2xMU09xdW1EcUZqcTlMZU96SXVXS2t3T01uWHU1OG4tVUFZV3paR3JfOUxiaW1VMFJKTGNmZlZLSnZOLW8xQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "91c58443b962",
+      "title": "이영목 대한신생아스크리닝학회장-신생아선별검사 학술적 표준화 및 발전을 주도하며 희귀질환 진단·연구에 몰두하는 대한신생아스크리닝학회",
+      "published": "2026-06-08T00:15:51+00:00",
+      "summary": "이영목 대한신생아스크리닝학회장-신생아선별검사 학술적 표준화 및 발전을 주도하며 희귀질환 진단·연구에 몰두하는 대한신생아스크리닝학회&nbsp;&nbsp;월간인물",
+      "sources": [
+        {
+          "name": "월간인물",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MSE5GZllkeVgtSE1CWlBqN0U1RnFGVHE5ZllEekt4cG95Yk9zQUE1endUMkJyeWt6NHlYeGxIZlhBVXNFUzlmQmxkTlA1Q0xUZHhNeVNJLVpTOHV6bGVtOEVpaVkxajVxcXR5aGJfRTN5d9IBdkFVX3lxTE5QUnVMOGZJMFFlTUtIa1JzVENmZXU1U3FPWk5pckJmbFE3NTBZWHJIMGhpV1ZWbXRkSnhrY3ZoUUd5dnUxXzA3NG1HenBFRERTUE9KalB5aTFYREF2MWk4RjFab1ozQTJtYXRmaW1rRHVianp2MEE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -30,40 +121,14 @@
       "matched_keywords": []
     },
     {
-      "id": "91011bd459f5",
-      "title": "인슐린 쓴 당뇨 환자, 치매 위험 높았다… 왜?[밀당365]",
-      "published": "2026-06-08T00:00:00+00:00",
-      "summary": "인슐린 쓴 당뇨 환자, 치매 위험 높았다… 왜?[밀당365]&nbsp;&nbsp;헬스조선",
+      "id": "908984a6cc91",
+      "title": "이재준 부산 수한의원·하이키한의원 부산점 원장 - 인체 본연의 균형 일깨우는 근본적 치료로 소아·청소년의 건강한 성장 잠재력을 이끌어내다",
+      "published": "2026-06-07T23:54:04+00:00",
+      "summary": "이재준 부산 수한의원·하이키한의원 부산점 원장 - 인체 본연의 균형 일깨우는 근본적 치료로 소아·청소년의 건강한 성장 잠재력을 이끌어내다&nbsp;&nbsp;월간인물",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yYWRnNE5kT1d3T1BfNGd3eUpnelhJQ1hTUnRYcV9TdHNRUDRmMlQ5LWZrU2ZGQ0xEYXZPcElMcVN5c1pLZ0RIak4zTWpzTkxSZTN0WmhPQmhaUUFLbGxoRmI3WDlaYjRCa0V6cm5nRnZJNjNNdmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a1e8f18467e3",
-      "title": "[미국 특징주] 노보, 비만약 너머 노화·미용도 겨냥",
-      "published": "2026-06-07T23:22:00+00:00",
-      "summary": "[미국 특징주] 노보, 비만약 너머 노화·미용도 겨냥&nbsp;&nbsp;뉴스핌",
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sVkg0eDR6OUI2WnljalJmb21sdnBqZzFiOElIUkxBTkVLOVBQdU1PRUVwRjZRMFJXMnRqRmVocGJGRVpVdFBSbmE3bklCT1Q1aVhGUXVwRURobzBM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5f13bf070414",
-      "title": "[제품 리뷰] 데스크 공간 활용 극대화, '포워크 엘보린 멀티 모니터암' 설치 후기",
-      "published": "2026-06-07T22:24:47+00:00",
-      "summary": "[제품 리뷰] 데스크 공간 활용 극대화, '포워크 엘보린 멀티 모니터암' 설치 후기&nbsp;&nbsp;리뷰타임스",
-      "sources": [
-        {
-          "name": "리뷰타임스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkbUM5VU1qTXR6MlRhcXJDYTc0aHZrS1kwRnljZm5kZ0d5SzlSZ3JiNFM0bnlKcmdVVEhndVpTZFlIdFBLVEtuNFprR3lTemYzS2U0SWhDYmRyOTRtdTZOSkxkbXVRbFV0Z3NXc05WYks?oc=5"
+          "name": "월간인물",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5scFMwM3ZPbGZSSlJKRV9xYS1hNzZBTktzZThqSmMtSUtDYllTa2VwQzVCYlFUblVobGZQdm11VjlqOWN3dkE1WVJ2b2hETHA3dmdQVlo5UUswU1o3TkZRMWFIcDdGWFlpcUt5bkowQmdrUdIBdkFVX3lxTE1Za3RiTldNYVpsY2tHenAwclMxbG1jNTRyV0pJQlMzZ0t5WkJjdld1QmpBSm43Y01JU2ZhMEhsekFxQmZhaXo0M0EtV285QmdINE5vYU9sYVNOOU1MY2NhSmkxTVRwTlN1NGdSY2twLWl4RXdkNWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -111,24 +176,11 @@
       "id": "a18398bfb1a9",
       "title": "“심장마비 위험” 심장 보는 의사가 ‘아침에 절대 안 하는’ 행동",
       "published": "2026-06-07T19:00:00+00:00",
-      "summary": "“심장마비 위험” 심장 보는 의사가 ‘아침에 절대 안 하는’ 행동&nbsp;&nbsp;헬스조선20년 경력의 심장 전문의가 심장 건강을 위해 오전 9시 전에 피해야 할 5가지 사항을 공개합니다.&nbsp;&nbsp;Vietnam.vn\"거의 지방 덩어리, 동맥 막혀\"…심장내과 의사가 절대 먹지 않는다는 식품들은?&nbsp;&nbsp;코메디닷컴심장 전문의 \"절대 안 먹는 음식들은 바로 이것\"…추천 식단은?&nbsp;&nbsp;sportschosun.com심장 건강 지키려면… ‘저녁 7시’ 이후로 하지 말 것들&nbsp;&nbsp;헬스조선",
+      "summary": "“심장마비 위험” 심장 보는 의사가 ‘아침에 절대 안 하는’ 행동&nbsp;&nbsp;헬스조선20년 경력의 심장 전문의가 심장 건강을 위해 오전 9시 전에 피해야 할 5가지 사항을 공개합니다.&nbsp;&nbsp;Vietnam.vn심장 보는 의사, “자녀에게 안 먹인다”는 음식은?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00YWZFVGJicWxXS3JpZThZNk00Vjg0MmpHNnJHbENjWDlkSWtkY1pTTnZ2dGFyVEUxVUE5WjNkdkUzc1p2cWFNNmstbWVROWNpUFZSNkFsT1BTblEtUzBJOHkwbkxWT1Ywa0RXTTgxSC1STmx2N0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6e39a322f2d3",
-      "title": "[기업탐방] NTL 헬스케어(NTL Healthcare) “AI로 자궁경부암 조기진단의 문턱을 낮추다”",
-      "published": "2026-06-07T11:44:23+00:00",
-      "summary": "[기업탐방] NTL 헬스케어(NTL Healthcare) “AI로 자궁경부암 조기진단의 문턱을 낮추다”&nbsp;&nbsp;한국도시환경헤럴드",
-      "sources": [
-        {
-          "name": "한국도시환경헤럴드",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBZ1Z2ZmhWVGk0TWsxY2V5M3JHcHpKeHA4T3o2d29yOVNYbVFEcUJuamN4dzFWaDlJV24zSGNZdFk5QUVLUVF4QkR4MXZXdDZZRVBrc0o4bHpKLUZHdVV0ek00aGtsQjlSWno0cE5n0gFwQVVfeXFMTUdhQ1FPbUpFcW11dExMdVZuUV94NTdfVG10ejRfZ0wtQzIzSU5seDFncHhUVk0wZTVOMWx1bVhJMzZDQVpzcngwSWluaVV3S0xnejFZVDBTNkYtV1F1b016X3B3SDVvNVoxTEZDMmkzYQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -212,40 +264,27 @@
       "matched_keywords": []
     },
     {
-      "id": "748b59495823",
+      "id": "0b668e4e1c65",
       "title": "고혈압 관리에 '양방향 조절' 효과 가능성…문맥약침 다기관 임상 관찰 결과 발표",
-      "published": "2026-06-06T13:48:34+00:00",
-      "summary": "고혈압 관리에 '양방향 조절' 효과 가능성…문맥약침 다기관 임상 관찰 결과 발표&nbsp;&nbsp;브랜드경제신문",
-      "sources": [
-        {
-          "name": "브랜드경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90Qmh1cVRSbC1FTDRPeVp0UngwbW1rZlJLTThDUVFIcFdrdGlnN2J5cU9mSWhVS3ZRaEVkc2RyWDZ3aXFITldFWjNCaHU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "34058377ed51",
-      "title": "북극 영구 동토층 해빙, 고대 바이러스 재활성화 위협 고조",
-      "published": "2026-06-06T07:00:00+00:00",
-      "summary": "북극 영구 동토층 해빙, 고대 바이러스 재활성화 위협 고조&nbsp;&nbsp;뉴스N연합",
+      "published": "2026-06-06T14:22:00+00:00",
+      "summary": "고혈압 관리에 '양방향 조절' 효과 가능성…문맥약침 다기관 임상 관찰 결과 발표&nbsp;&nbsp;뉴스N연합",
       "sources": [
         {
           "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5OazRSX3Z4Zi1uS0drR0pDWU5rbUN3anktcGI5Q1VmZE9WOWFrX1dhbnlVT1RMSmlpY3g4ZzE5ckMySjh1bVZreW1R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE96QzhsanpjT3hkOTNvMHVPSmdnMlItcThXeF9pOHY4VEpobWtzTnNCRU9GNVBhdHJuaDk2YW1YdFlJYUFmcFUyZjZR?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "1e69bb16677b",
-      "title": "독감 치료제 타미플루가 치매 막는다고? [사이언스 브런치]",
-      "published": "2026-06-06T05:00:00+00:00",
-      "summary": "독감 치료제 타미플루가 치매 막는다고? [사이언스 브런치]&nbsp;&nbsp;서울신문",
+      "id": "53cd32907559",
+      "title": "비키니 입으려다 병원행?…\"이러다 몸 망친다\" 경고 [건강!톡]",
+      "published": "2026-06-06T10:24:15+00:00",
+      "summary": "비키니 입으려다 병원행?…\"이러다 몸 망친다\" 경고 [건강!톡]&nbsp;&nbsp;한국경제SNS 유행 다이어트, 왜 요요를 부를까?… ‘80대20 법칙’의 비밀 [푸드파일러]&nbsp;&nbsp;하이닥한방다이어트, 체중 감량보다 중요한 것은 건강한 관리 과정 [고승진 원장 칼럼]&nbsp;&nbsp;하이뉴스",
       "sources": [
         {
-          "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM3lSVkd3LTV1Q29CRHZCbTlYdE1jN1ZiVXpnLUNaVFpObHcxV3RCdEVnY1liZlM5U2FuTWJsa1F3c1lXakVIcU9Yb0RLOWIwb19QZjIxanBIYjRqemswV0ltZWVSV19Jcno4WmwtS09YdDBLUXp1dzBHa3dtYUdmcGhEX0hiaDNk?oc=5"
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fN2lRcENtckdnVVlUWFhJdlVjVzJoTlNEaUNkM1FCM08zdzRpZm1zX3kzNkJjWklmbWlxanZQNjlLQlFPVmxWRHg2WnRxLWNvd0VTYUxGLVQ5UdIBVEFVX3lxTFBQWWU4SU9CTGZhUk1EOUJzWFBYdlRNX2c1Q1BjT096cjBYWFV3UG40b242LXAwZUIwUFJwYVdqMldBNzhYZmlOY0hDaFVsOFNoaUNSYg?oc=5"
         }
       ],
       "matched_keywords": []
