@@ -1,43 +1,127 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-09T03:50:58.095578+00:00",
-  "total_fetched": 51,
-  "unique_count": 51,
-  "health_related_count": 23,
+  "fetched_at": "2026-06-09T09:51:56.819137+00:00",
+  "total_fetched": 62,
+  "unique_count": 62,
+  "health_related_count": 29,
   "news": [
     {
-      "id": "f14d3d2f66f4",
-      "title": "[건강정보] 예방 가능한 치매 위험 요인 1위, ‘난청’ - 의사신문",
-      "published": "2026-06-09T00:41:52+00:00",
-      "summary": "[건강정보] 예방 가능한 치매 위험 요인 1위, ‘난청’&nbsp;&nbsp;의사신문",
+      "id": "ae5ffcf1f654",
+      "title": "[전문의 칼럼] 기억을 잃기엔 너무 이른 나이…‘조기 발병 알츠하이머병’ - 에너지경제신문",
+      "published": "2026-06-09T08:00:00+00:00",
+      "summary": "[전문의 칼럼] 기억을 잃기엔 너무 이른 나이…‘조기 발병 알츠하이머병’&nbsp;&nbsp;에너지경제신문변비·심한 잠버릇이 보내는 경고… 조용히 시작되는 파킨슨병&nbsp;&nbsp;보건신문\"할머니·할아버지 냄새 너무 싫어요\"⋯나이 들어도 안 나게 하는 방법은? [헬스+]&nbsp;&nbsp;아이뉴스24노화로 오인 쉬운 알츠하이머병·파킨슨병…조기 발견이 중요&nbsp;&nbsp;스포츠월드“매일 커피 마시고 과일 먹었더니”…파킨슨 위험 낮아졌다&nbsp;&nbsp;매일경제",
       "sources": [
         {
-          "name": "의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FS0o1dkE4a3R5Sy1vaXBfMWlQLVVtbGtPUE4yNjZybDF5cVVmc0RGcFVURktxOE96SGV1d1JGR2hWU2NQSm9yalVNaHBFcE1BM2tUTnlBMnpWdXh6MXlLNmlYdjBraXJFRzVCTnhGcw?oc=5"
+          "name": "에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nSkRicDB5Q0RQSHQzT3pNNFhhZUhySmo5WDdad2xaelZWcU1Vai1LdDU2Z0NGaHhQWDk0czRTZXlsS2lzN09yckpsY0s5MTFXMnltdkVlM0NibUtTbWlJODlpQQ?oc=5"
         }
       ]
     },
     {
-      "id": "56c487a1bae8",
-      "title": "치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적 - 코메디닷컴",
-      "published": "2026-06-09T00:15:00+00:00",
-      "summary": "치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적&nbsp;&nbsp;코메디닷컴",
+      "id": "bdb729aa33b3",
+      "title": "[최신의료 명품수술] 맞춤형 로봇 ‘단일공 간 절제술’, 고령 환자도 거뜬 - 에너지경제신문",
+      "published": "2026-06-09T07:30:00+00:00",
+      "summary": "[최신의료 명품수술] 맞춤형 로봇 ‘단일공 간 절제술’, 고령 환자도 거뜬&nbsp;&nbsp;에너지경제신문",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JdDJ5RG1scmo3cmIyVEFGcWRHNHJBQTN4c2R5TVhlWkZHdEx3dWZwa3hFUzRhZmxSV2luNjNwTlJFZw?oc=5"
+          "name": "에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IaHFBS2l5WllmZ3Jtal9LWjJaVlpuTmxZRElCcmZjcXFFdlY3Y3ZMTFg4LWZSVmtzOFluZFF4NnNJTm1fdzJjZXJJcWFoQkt4bDlnd2RwRUFXbTA?oc=5"
         }
       ]
     },
     {
-      "id": "22f7246d0783",
-      "title": "“12세 남성 청소년도 HPV 무료 접종” 강동구, 국가예방접종 지원 전격 확대 - 시정일보",
-      "published": "2026-06-08T23:47:07+00:00",
-      "summary": "“12세 남성 청소년도 HPV 무료 접종” 강동구, 국가예방접종 지원 전격 확대&nbsp;&nbsp;시정일보강동구, 12세 남성 청소년까지 HPV 무료 예방접종 확대&nbsp;&nbsp;핀포인트뉴스“자궁경부암 백신 접종, 남녀 모두에게 필요하다”&nbsp;&nbsp;데일리메디강동구, 사람유두종바이러스(HPV) 국가예방접종 확대 시행&nbsp;&nbsp;전국매일신문2026년 7월 1일부터 HPV 백신 접종이 무료로 제공되며, 경제적으로 어려운 지역의 여아들에게 우선권이 주어집니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "cbecded5b0e5",
+      "title": "간암, 술 때문만은 아니다-B형·C형간염·지방간도 위험요인 - 한국의약통신",
+      "published": "2026-06-09T05:59:14+00:00",
+      "summary": "간암, 술 때문만은 아니다-B형·C형간염·지방간도 위험요인&nbsp;&nbsp;한국의약통신간암 환자 증가, 음주 외에도 B형·C형간염과 지방간 주의해야&nbsp;&nbsp;이데일리간경변증, 침묵 속 진행…치료 후에도 완전한 회복 어려워&nbsp;&nbsp;sportschosun.com이러한 종류의 당분을 매일 섭취하는 것은 간에 해롭고 암 발생 위험을 높입니다.&nbsp;&nbsp;Vietnam.vn[건강체크] “피부가 갑자기 노랗게 변했다”…단순 피부 문제 아닌 ‘간 질환’ 신호일 수도&nbsp;&nbsp;전국뉴스",
       "sources": [
         {
-          "name": "시정일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TVktVc2IzLXoyZ3otbHhyV3NqUEZ4MkYxUWUtMnptUmZmOWRLRk1MdWRfVVJlTkJWNUl0d3E1bU9WX1Bfd0VlS1FjRW1lRkZrdlVNUnVTSlN2UzRvTlkyYWVOd1ZuYm1FQ2RR?oc=5"
+          "name": "한국의약통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZUWRCQ2FrTTgzdFZaSXA5aDB2Zk9rLTJCRjhJNE5DRUFMNGJQWlRleTlMYkNHcnFFNGtZaHpCNENZNjYwWVJsSVdqOEJnNTFQdHdlQXo1aWIzdzgxWm0xUW56VU1wbUdjY0s4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18822d672523",
+      "title": "DGIST-MIT 공동연구팀, AI 자율주행 국제대회 1위 - 조선일보",
+      "published": "2026-06-09T05:59:00+00:00",
+      "summary": "DGIST-MIT 공동연구팀, AI 자율주행 국제대회 1위&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUtMa0U3bU9aandyRGxteGZyT21EdmtPVllPQ2Z2bmRlRDRVbjBmLVNneFI0eVlfSDlTXzNJXzZPcVZzVTNFZF9UbVFMaHJsRWJfWHdiSDEwU0lsOXYycGtpUWpHNHRvS3ZPVEprM3lZbmoxS1JoTmJseGpvd3JXZFpWNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0020791de63a",
+      "title": "콜린알포세레이트 VCI·MCI 적응증, “다각도의 해석을 통한 종합적인 판단 필요하다” - 메디칼업저버",
+      "published": "2026-06-09T04:37:24+00:00",
+      "summary": "콜린알포세레이트 VCI·MCI 적응증, “다각도의 해석을 통한 종합적인 판단 필요하다”&nbsp;&nbsp;메디칼업저버치매 전 치료제 ‘콜린알포세레이트’… “임상 1차 지표 미충족했지만 인지기능 개선 확인”&nbsp;&nbsp;동아비즈니스리뷰 | DBR‘베타아밀로이드’ 축적 막는 은행잎, 어지럼증·간헐성 파행증에도 도움&nbsp;&nbsp;v.daum.net깜빡하는 치매 전 단계라면?…은행잎추출물 효과 첫 확인&nbsp;&nbsp;네이트더 시그널 2호, 살아있는 화석 '은행잎 추출물' 효능 집중 조명&nbsp;&nbsp;히트뉴스",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BRG0xNzhLOTh5UzFTN09TS2o5WDhubV9ZdWk5OExzVDRZTWNnb0xOV0o4MHZTZHNWNV9leTRINnR2TjJxVzA5M3VpaFBfajk4RHNPMlRrLXRwRloyS1ZubDZCRXI1Q1ZFbzNz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9305e662fc7e",
+      "title": "강동구, 사람유두종바이러스(HPV) 국가예방접종 12세 남성 청소년 확대 시행 - 의정신문 서울시티",
+      "published": "2026-06-09T03:33:42+00:00",
+      "summary": "강동구, 사람유두종바이러스(HPV) 국가예방접종 12세 남성 청소년 확대 시행&nbsp;&nbsp;의정신문 서울시티강동구, 2014년생 남학생도 HPV 무료 접종… 암 예방 안전망 넓힌다 > 뉴스&nbsp;&nbsp;더코리아“자궁경부암 백신 접종, 남녀 모두에게 필요하다”&nbsp;&nbsp;데일리메디강동구, 사람유두종바이러스(HPV) 국가예방접종 확대 시행&nbsp;&nbsp;전국매일신문“12세 남성 청소년도 HPV 무료 접종” 강동구, 국가예방접종 지원 전격 확대&nbsp;&nbsp;시정일보",
+      "sources": [
+        {
+          "name": "의정신문 서울시티",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4weWRxd3lxdHY2OEhHdEJKbkU2SXp4YWRfeHNQMDJPQ3l2UTE0WHdKcC1MRzVzcy1McjVOVXh1VWt2VFNfVVBxbkJFV1pzaVBrOUZUSjB1YjBtemhSZEpSX0llQlRGeFlCRHFoNWUyTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e45b87b6da01",
+      "title": "치매 vs 건망증, 어떻게 구분할까?…힌트 줘도 기억 못하면 위험 신호 - 코리아헬스로그",
+      "published": "2026-06-09T02:12:34+00:00",
+      "summary": "치매 vs 건망증, 어떻게 구분할까?…힌트 줘도 기억 못하면 위험 신호&nbsp;&nbsp;코리아헬스로그약속을 잊은 게 아니라 기억 못한다? 그건 건망증 아니고 치매 !&nbsp;&nbsp;메드월드뉴스65세 이상 10명 중 1명은 치매…비슷하지만 다른 치매와 건망증&nbsp;&nbsp;코리아헬스로그“노인, 코딱지도 파지 마라” 뇌 망가뜨리는 뜻밖의 습관&nbsp;&nbsp;미주중앙일보건망증과 치매, 가장 큰 차이는 무엇일까?&nbsp;&nbsp;뉴스티앤티",
+      "sources": [
+        {
+          "name": "코리아헬스로그",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KOXJkc2dWWm50VC1pc1ZSVVhYVTFhVUdoRGpRQzR4ODVfM2k4UDVGUm5RbTBMQmNod0hKT1NpNWs3N290dnZ3RlphQUlDdExsTzhzdWpQX2hLekRlQnNyNnMyQUVkeEJ4MDk3UUxrS0FNUdIBdkFVX3lxTE42UE1kVGlxNjRzVTVyanBZbTVhWUQxWl9VWjd4TXZ4ZzZwTDJIR3doaWRSWnktYlRab3NBQnBIYmkxM2IzeWIzeW1WWTBvZWVybHdSNGsxbFRBTnNldmY0Tkt5TGNRVTFlWmV5NUIzZUxiblFBTkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "741b4661f9c2",
+      "title": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다] - 지디넷코리아",
+      "published": "2026-06-09T01:26:57+00:00",
+      "summary": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다]&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1bWs4VTBtcVktUG53bWM0NEpYWkFFU1JjTkpCOGFaVktvU0xxTXZFcFE3cGJLUzBFZ0JSVmc4ay1wZ1hzVHBrQ0x5bWVxUHlCdkhVWUlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a81764e5cb2",
+      "title": "근손실 막으려면 운동 후 꼭 먹어라… 어떤 음식? - 헬스조선",
+      "published": "2026-06-09T01:00:00+00:00",
+      "summary": "근손실 막으려면 운동 후 꼭 먹어라… 어떤 음식?&nbsp;&nbsp;헬스조선\"몸에 좋은 달걀 먹을 때 꼭 같이 드세요\"⋯노년 눈·근육·기억력 지키는 '이 음식'&nbsp;&nbsp;v.daum.net약 4만 명을 대상으로 한 연구에 따르면 일주일에 다섯 번 계란을 섭취하는 것이 유익한 것으로 나타났습니다.&nbsp;&nbsp;Vietnam.vn“치매 위험 던다”…맛·영양 가득 ‘달걀’ 얼마나 먹어야 할까&nbsp;&nbsp;농민신문[메디컬 인사이트 139회] 건강한 다이어트를 위한 '근손실 예방법'&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5SWdHNk9rVzVJQWtObzNnR2NJYlI5VW1xLVJzZEhtQTR5YjRZdV9HeW91X1paX1pRaFdtZUE3dGJBN2t0THRhZmVqQml4aF9IRjQxalpUbTR0d2RjVWVOaDR6T2NxVU1BSXdvVmt2UGNTTmdCNGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8dd7ab7458a4",
+      "title": "갑자기 생긴 호흡곤란? 고환암 경고신호 7가지 - 조세일보",
+      "published": "2026-06-08T22:48:11+00:00",
+      "summary": "갑자기 생긴 호흡곤란? 고환암 경고신호 7가지&nbsp;&nbsp;조세일보",
+      "sources": [
+        {
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MLXdYSkJFSDNBcmFlaGxHWGMtdGY1aUYtTWIxUnhVMzB2a2VDaUZXalFEVlV6UUc4NEkwRUZ4TW1SbFY0amhfYzY4d1d2cGNad2tNQkZJU25GN19fTHJpa3kzQTlvS1JiOHAwelNnUQ?oc=5"
         }
       ]
     },
@@ -62,6 +146,18 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wc0tqbE1LRHNaLVNWOW1FN3M5cUM2OXVkSHFPVFFzckxXa21QcGk0MUNFcFhZaXlhcGJwcTV4OHBKSHdqZVk1dm8xUFp1M09WTE40?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "431c14cf91a0",
+      "title": "\"뇌세포 죽이는 또 다른 범인 찾았다\" 알츠하이머 치료 단서 될까 - 약사공론",
+      "published": "2026-06-08T20:50:00+00:00",
+      "summary": "\"뇌세포 죽이는 또 다른 범인 찾았다\" 알츠하이머 치료 단서 될까&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50cFhyNHpuLXJJbkhyYXh3M1dkNFZzalYxVkd0dy1YaU51LUVPcFB6MUFvLUJsOEU0TG1xYW90TDRZTWxjbGVaSDZYajNhdjNycmNoX1gycEFvTFloYkFTTmJqOTJNanZkQXZlZA?oc=5"
         }
       ]
     },
@@ -174,6 +270,18 @@
       ]
     },
     {
+      "id": "ed1df7c07676",
+      "title": "\"뇌종양 떼어냈더니 혈당 수치 떨어졌다\"… 당뇨병 개선 확인 - 하이닥",
+      "published": "2026-06-08T02:30:00+00:00",
+      "summary": "\"뇌종양 떼어냈더니 혈당 수치 떨어졌다\"… 당뇨병 개선 확인&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvZGc5RHJQX05jc0VhQ0Fnd3RkelhXV1g1TEJIZi1wTmM5VGtWNkVGZElhR0wzaFc3dWV2RUlJRU9VUHRCSHJEMkxNQUw4YXBocFRKNzY4YlZpby13cWxXU2xDWk03ek1UYWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "91c58443b962",
       "title": "이영목 대한신생아스크리닝학회장-신생아선별검사 학술적 표준화 및 발전을 주도하며 희귀질환 진단·연구에 몰두하는 대한신생아스크리닝학회 - 월간인물",
       "published": "2026-06-08T00:15:51+00:00",
@@ -189,7 +297,7 @@
       "id": "19c3fcb2e195",
       "title": "잠 부족·불면·낮잠 잦으면 뇌 노화 가속…치매 위험 높이는 수면 습관 확인 - 메디컬투데이",
       "published": "2026-06-08T00:11:37+00:00",
-      "summary": "잠 부족·불면·낮잠 잦으면 뇌 노화 가속…치매 위험 높이는 수면 습관 확인&nbsp;&nbsp;메디컬투데이[메디컬투데이 - 쇼츠뉴스] 수면 습관과 뇌 건강의 상관관계&nbsp;&nbsp;네이트자기 전 스마트폰 보는 습관, 치매 위험 높인다?... 강성훈 교수의 치매 팩트체크 6&nbsp;&nbsp;하이닥주말 늦잠이 보약?…알고 보니 수명 깎아먹는 '최악의 습관' [건강!톡]&nbsp;&nbsp;한국경제잠도 ‘과유불급’… 너무 적게 자도, 너무 오래 자도 몸은 빨리 늙는다&nbsp;&nbsp;콜로라도 타임즈",
+      "summary": "잠 부족·불면·낮잠 잦으면 뇌 노화 가속…치매 위험 높이는 수면 습관 확인&nbsp;&nbsp;메디컬투데이[메디컬투데이 - 쇼츠뉴스] 수면 습관과 뇌 건강의 상관관계&nbsp;&nbsp;네이트자기 전 스마트폰 보는 습관, 치매 위험 높인다?... 강성훈 교수의 치매 팩트체크 6&nbsp;&nbsp;하이닥주말 늦잠이 보약?…알고 보니 수명 깎아먹는 '최악의 습관' [건강!톡]&nbsp;&nbsp;한국경제뇌 노화 늦추는 최적 수면 시간은?… 여성 6.5~7.8시간, 남성 6.4~7.7시간&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "메디컬투데이",
@@ -210,6 +318,18 @@
       ]
     },
     {
+      "id": "f8d476872806",
+      "title": "세계 최초 '뇌 미세출혈' 유전자 교정 동물모델 개발 - 메디칼업저버",
+      "published": "2026-06-07T23:33:29+00:00",
+      "summary": "세계 최초 '뇌 미세출혈' 유전자 교정 동물모델 개발&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlMmU5b3F6YTNhbnBHTTAyWnRKYktuY2Jhcy05M3JLUGhRSkpCWV9Vd0hSYTZJbFVhY2hyYmZEYWcyRGxDc0t5UGhPbEI2LU9aa3A5LUxRbDEwMEhGZGlwVXdfdGlaS1pnRGh3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "71e703dbcb6d",
       "title": "신규 암 환자 15.1%, 정신질환 동반···\"암 치료에 정신건강 관리 통합해야\" - 메디칼업저버",
       "published": "2026-06-07T21:04:16+00:00",
@@ -222,18 +342,6 @@
       ]
     },
     {
-      "id": "b7c3ce8ab4a3",
-      "title": "'베타아밀로이드' 축적 막는 은행잎, 어지럼증·간헐성 파행증에도 도움 - 네이트",
-      "published": "2026-06-07T20:31:00+00:00",
-      "summary": "'베타아밀로이드' 축적 막는 은행잎, 어지럼증·간헐성 파행증에도 도움&nbsp;&nbsp;네이트치매 전 치료제 ‘콜린알포세레이트’… “임상 1차 지표 미충족했지만 인지기능 개선 확인”&nbsp;&nbsp;동아비즈니스리뷰 | DBR‘베타아밀로이드’ 축적 막는 은행잎, 어지럼증·간헐성 파행증에도 도움&nbsp;&nbsp;v.daum.net더 시그널 2호, 살아있는 화석 '은행잎 추출물' 효능 집중 조명&nbsp;&nbsp;히트뉴스간헐성 파행·어지럼증에 쓰이던 은행잎 추출물, 치매 원인물질 억제 확인&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BZmNwMkE3al9pV2IweURyR2VvRTQxbEI1NG1LLW9ZZlBqTnczVkRLcjFPQzZ4ZEdrUmZvcXdjc3F4M2hEQlc0UDNzQ3VHZmRWclQ4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cf6a147eb73e",
       "title": "\"신종 감염병 발생 주기 점점 짧아져, 한발 앞서 대비해야\" - 네이트",
       "published": "2026-06-07T20:31:00+00:00",
@@ -242,42 +350,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jc2NWNU80d3YzN3pLNlVrRFBGaE5sdUJoanBPMnBZaHlMS1ZsVjNmclMzQjg0SnVhd3BQREd1Q0VzRkx0T2NLS0J3VWVNQkFQWWRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07c1131ca4b8",
-      "title": "'2026 국내 기생충 질환'의 감염 현황 - 제주일보",
-      "published": "2026-06-07T07:00:00+00:00",
-      "summary": "'2026 국내 기생충 질환'의 감염 현황&nbsp;&nbsp;제주일보",
-      "sources": [
-        {
-          "name": "제주일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10V3RIOXkxcFNJbFVjSk1zajVlMUpUZ2FUcld6QVYxQ1czZG9TTjFrMnVkVmxpdFpHNFJyU1hfMUpXU2w2WnNDdlcxMGVwQTVRdWpkeG56SVFYSUNBRTZTQlYwU2t0eWduMDFQOQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5660a073817e",
-      "title": "유전병 진단받은 과학자, 알츠하이머·파킨슨병 치료 연구에 뛰어들다 - 캐어유 뉴스",
-      "published": "2026-06-07T07:00:00+00:00",
-      "summary": "유전병 진단받은 과학자, 알츠하이머·파킨슨병 치료 연구에 뛰어들다&nbsp;&nbsp;캐어유 뉴스",
-      "sources": [
-        {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84Vks1aE5tQmxxT1kza1U5V3VmelpfVEdlNHVaYWwydFNtenhxVTBOemRxbjdkNUpUSXRyZU5BVk5nNVNIRUhnTW9zNWpfUi05WmFMd19uamF2ZUhvVkkzLXhQYWJnUktYbmJWdkZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3beaa22a7e60",
-      "title": "공항 발칵… 엠폭스·수두 바이러스 밀반입 시도한 NIH 연구원 - 헬스조선",
-      "published": "2026-06-07T04:00:00+00:00",
-      "summary": "공항 발칵… 엠폭스·수두 바이러스 밀반입 시도한 NIH 연구원&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vVTdVTF9NTnBmREFoLVlsNVBDV0c2ajh0azRIcDAtaUpYcE5WUlJuT3kxQkNENDRDRU9hRlNaamJvTW0zVGdYMkRlenl2RE10OEUzUDN5UmdBUE9LaGhyblB1blBFREFhWVhEQXpaWHJQTFNuMXc?oc=5"
         }
       ]
     }
