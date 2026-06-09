@@ -1,19 +1,67 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-09T09:51:56.819137+00:00",
-  "total_fetched": 62,
-  "unique_count": 62,
-  "health_related_count": 29,
+  "fetched_at": "2026-06-09T14:57:55.218733+00:00",
+  "total_fetched": 74,
+  "unique_count": 74,
+  "health_related_count": 33,
   "news": [
     {
-      "id": "ae5ffcf1f654",
-      "title": "[전문의 칼럼] 기억을 잃기엔 너무 이른 나이…‘조기 발병 알츠하이머병’ - 에너지경제신문",
-      "published": "2026-06-09T08:00:00+00:00",
-      "summary": "[전문의 칼럼] 기억을 잃기엔 너무 이른 나이…‘조기 발병 알츠하이머병’&nbsp;&nbsp;에너지경제신문변비·심한 잠버릇이 보내는 경고… 조용히 시작되는 파킨슨병&nbsp;&nbsp;보건신문\"할머니·할아버지 냄새 너무 싫어요\"⋯나이 들어도 안 나게 하는 방법은? [헬스+]&nbsp;&nbsp;아이뉴스24노화로 오인 쉬운 알츠하이머병·파킨슨병…조기 발견이 중요&nbsp;&nbsp;스포츠월드“매일 커피 마시고 과일 먹었더니”…파킨슨 위험 낮아졌다&nbsp;&nbsp;매일경제",
+      "id": "304044e5b9d9",
+      "title": "“몸 이상하다”며 여러 번 병원 찾았는데… 암 퍼진 뒤에야 발견한 女, 무슨 사연? - 헬스조선",
+      "published": "2026-06-09T14:00:00+00:00",
+      "summary": "“몸 이상하다”며 여러 번 병원 찾았는데… 암 퍼진 뒤에야 발견한 女, 무슨 사연?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nSkRicDB5Q0RQSHQzT3pNNFhhZUhySmo5WDdad2xaelZWcU1Vai1LdDU2Z0NGaHhQWDk0czRTZXlsS2lzN09yckpsY0s5MTFXMnltdkVlM0NibUtTbWlJODlpQQ?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMaE1BOEVDRjBnTmRSczdSTmFmSVJJNDkzNUVaNExpQnQ3aDFOM1hGLTVOYkVaaWdxbVN2emlkckZzMjd2N0NZU0RjRlZkTkxvR0RlUWctV3U4NGFEa0F0THExVDBxSEZJMjVqcmh1bFNqdlp5UkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89adeb8b07b6",
+      "title": "콜라겐, 피부만 채우는 게 아니었다… 관절 통증·근력 개선 효과 확인 - 하이닥",
+      "published": "2026-06-09T11:30:00+00:00",
+      "summary": "콜라겐, 피부만 채우는 게 아니었다… 관절 통증·근력 개선 효과 확인&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzd2VfWUhCa2E0WmpDUnhHRS1jbFNlZU5zWTI0WUFYZzFHNHFtSEgxNHpLNWF1SmJ0emtmQ3RoMkRBYXVnbGFYdkZHR3k2MXEtQmhIc2F4Y2JGNmpzRnlMQnl0Zk1yR0Q4a1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b02dfadd0d15",
+      "title": "“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이? - e-의료정보",
+      "published": "2026-06-09T08:30:33+00:00",
+      "summary": "“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이?&nbsp;&nbsp;e-의료정보약속을 잊은 게 아니라 기억 못한다? 그건 건망증 아니고 치매 !&nbsp;&nbsp;메드월드뉴스65세 이상 10명 중 1명은 치매…비슷하지만 다른 치매와 건망증&nbsp;&nbsp;코리아헬스로그“노인, 코딱지도 파지 마라” 뇌 망가뜨리는 뜻밖의 습관&nbsp;&nbsp;미주중앙일보건망증과 치매, 가장 큰 차이는 무엇일까?&nbsp;&nbsp;뉴스티앤티",
+      "sources": [
+        {
+          "name": "e-의료정보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81Tnh5Z1RaNUtiWHVnY0NRLWpJSjJaNGRwWWIwUWFjWVVScU8tdjBaRTd1M2diS2l4UUVzdWZ0SXRlNlFIZ1JtSUZvTnVMWDUwQWVMV2JiOFZqOE5ITFNJQUVIZzlLYXlGeHlJ0gFvQVVfeXFMTmhlVDIzRGNrOTVSazVlcG9tWjl4aDl2UmVUY1UxMDNtZnpYbHY0ckRYN2dYSnZjUmxXMUQ4R0FrYU0xYXlFeTlTcWl6V2VmazhMaWQyTjZJRVoxQTNfLU53YWZkd1VCNmRSMWZCUVJF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f3f54c7dd48",
+      "title": "한림대 미생물학교실 연구팀, 신종 바이러스 최초 규명…국제학술지 게재 - 한국대학신문",
+      "published": "2026-06-09T07:36:22+00:00",
+      "summary": "한림대 미생물학교실 연구팀, 신종 바이러스 최초 규명…국제학술지 게재&nbsp;&nbsp;한국대학신문",
+      "sources": [
+        {
+          "name": "한국대학신문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlQThuYnlnazUzTUpVTEhjZ1lMTjV6WHRmSWphZWx0WERlNEpCRTAxd1JUMGhFVzVUcWVmWjk5NmNtd0lOdDJDYlBTZDRWX195UHM3ZXB4aDQzOS0yR2R3WFRVckplQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff7c31a7b891",
+      "title": "보로노이 \"뇌전이 코호트로 추가 가속승인도 기대…미충족 수요 명확\" - 머니투데이 - 머니투데이",
+      "published": "2026-06-09T07:33:37+00:00",
+      "summary": "보로노이 \"뇌전이 코호트로 추가 가속승인도 기대…미충족 수요 명확\" - 머니투데이&nbsp;&nbsp;머니투데이",
+      "sources": [
+        {
+          "name": "머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jenJGcVY5QlM5Qkh4dG0xQ3J3ODlMY1pkbi1qOVNIVE5yMW9iUnVnc2M0bDVqY1hFQUR3RWdVUzI1b1JhMlJwbF9yME03ZEdfUi12ZWx2YnUwTVlEZ29TTW5GOUhQaHpEV3fSAW9BVV95cUxNd05sWFJJbUtSSTI2YTVQLWwySEVMWlF1VjJxNERFRjNIZVlJcS1XWFRlMEdnQjM0WElCLU5Iczh1ZWtUd0RzcThXTHc5dUtvRDNJdVZ5R3ZRb0h2UWFlMGUzc0dmSFFSM3BfTVN1Z2M?oc=5"
         }
       ]
     },
@@ -30,21 +78,9 @@
       ]
     },
     {
-      "id": "cbecded5b0e5",
-      "title": "간암, 술 때문만은 아니다-B형·C형간염·지방간도 위험요인 - 한국의약통신",
-      "published": "2026-06-09T05:59:14+00:00",
-      "summary": "간암, 술 때문만은 아니다-B형·C형간염·지방간도 위험요인&nbsp;&nbsp;한국의약통신간암 환자 증가, 음주 외에도 B형·C형간염과 지방간 주의해야&nbsp;&nbsp;이데일리간경변증, 침묵 속 진행…치료 후에도 완전한 회복 어려워&nbsp;&nbsp;sportschosun.com이러한 종류의 당분을 매일 섭취하는 것은 간에 해롭고 암 발생 위험을 높입니다.&nbsp;&nbsp;Vietnam.vn[건강체크] “피부가 갑자기 노랗게 변했다”…단순 피부 문제 아닌 ‘간 질환’ 신호일 수도&nbsp;&nbsp;전국뉴스",
-      "sources": [
-        {
-          "name": "한국의약통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZUWRCQ2FrTTgzdFZaSXA5aDB2Zk9rLTJCRjhJNE5DRUFMNGJQWlRleTlMYkNHcnFFNGtZaHpCNENZNjYwWVJsSVdqOEJnNTFQdHdlQXo1aWIzdzgxWm0xUW56VU1wbUdjY0s4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "18822d672523",
       "title": "DGIST-MIT 공동연구팀, AI 자율주행 국제대회 1위 - 조선일보",
-      "published": "2026-06-09T05:59:00+00:00",
+      "published": "2026-06-09T06:04:24+00:00",
       "summary": "DGIST-MIT 공동연구팀, AI 자율주행 국제대회 1위&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -66,6 +102,30 @@
       ]
     },
     {
+      "id": "ccdd0e74bbd8",
+      "title": "\"약 먹기 전 AI에 물어보세요\"...포티투마루, 식약처 AI 안전 솔루션 성과 공개 - AI타임스",
+      "published": "2026-06-09T03:56:53+00:00",
+      "summary": "\"약 먹기 전 AI에 물어보세요\"...포티투마루, 식약처 AI 안전 솔루션 성과 공개&nbsp;&nbsp;AI타임스",
+      "sources": [
+        {
+          "name": "AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BeDNGUUttNmFHbUJtbDE1VUMwYTAxOUQ1SkFNZEtDWlF5REpUVW5fYVZ4MDE1MTZUSkJPajJ4OUlYb0RNOWMxeHBSUWZPOGdVQzU2LXFHajZ6VE5oOWREOTIxVHJqcWtkWmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a45d39e00bf2",
+      "title": "[김기연의 힐링 스토리] “웃음치료” 정신질환의 늪에서 직장인을 구한 치유법 - 한국강사신문",
+      "published": "2026-06-09T03:53:00+00:00",
+      "summary": "[김기연의 힐링 스토리] “웃음치료” 정신질환의 늪에서 직장인을 구한 치유법&nbsp;&nbsp;한국강사신문",
+      "sources": [
+        {
+          "name": "한국강사신문",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oRk5uaGlqajBFMWhXOHFnTUNXRmZPWmQ5YktPLTlhOVR0Q1VtRm5FOEpXbWNwT3lFd2UyMDlGM0g5T3dtck9Dcnc4LUdnV0xFOVhmczBDZktKdjlQclhDYkszZEQ5SEk2LW5Td3lRY0Q?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9305e662fc7e",
       "title": "강동구, 사람유두종바이러스(HPV) 국가예방접종 12세 남성 청소년 확대 시행 - 의정신문 서울시티",
       "published": "2026-06-09T03:33:42+00:00",
@@ -78,26 +138,26 @@
       ]
     },
     {
-      "id": "e45b87b6da01",
-      "title": "치매 vs 건망증, 어떻게 구분할까?…힌트 줘도 기억 못하면 위험 신호 - 코리아헬스로그",
-      "published": "2026-06-09T02:12:34+00:00",
-      "summary": "치매 vs 건망증, 어떻게 구분할까?…힌트 줘도 기억 못하면 위험 신호&nbsp;&nbsp;코리아헬스로그약속을 잊은 게 아니라 기억 못한다? 그건 건망증 아니고 치매 !&nbsp;&nbsp;메드월드뉴스65세 이상 10명 중 1명은 치매…비슷하지만 다른 치매와 건망증&nbsp;&nbsp;코리아헬스로그“노인, 코딱지도 파지 마라” 뇌 망가뜨리는 뜻밖의 습관&nbsp;&nbsp;미주중앙일보건망증과 치매, 가장 큰 차이는 무엇일까?&nbsp;&nbsp;뉴스티앤티",
+      "id": "0f9a19a4e046",
+      "title": "\"잘 안 들리는 귀가 뇌를 위협\"…치매 예방의 첫걸음은 '난청 치료' - 네이트",
+      "published": "2026-06-09T02:24:00+00:00",
+      "summary": "\"잘 안 들리는 귀가 뇌를 위협\"…치매 예방의 첫걸음은 '난청 치료'&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KOXJkc2dWWm50VC1pc1ZSVVhYVTFhVUdoRGpRQzR4ODVfM2k4UDVGUm5RbTBMQmNod0hKT1NpNWs3N290dnZ3RlphQUlDdExsTzhzdWpQX2hLekRlQnNyNnMyQUVkeEJ4MDk3UUxrS0FNUdIBdkFVX3lxTE42UE1kVGlxNjRzVTVyanBZbTVhWUQxWl9VWjd4TXZ4ZzZwTDJIR3doaWRSWnktYlRab3NBQnBIYmkxM2IzeWIzeW1WWTBvZWVybHdSNGsxbFRBTnNldmY0Tkt5TGNRVTFlWmV5NUIzZUxiblFBTkE?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZ2xjaXNtTjNRZDU5X3dOUWRrZTZVczdXdUItQlctX1hqZ2lEeDN2YjJWN1IyM2FXVElhRmw3VEhEZUFfWllLWWxKTVlSY2VoZDJB?oc=5"
         }
       ]
     },
     {
-      "id": "741b4661f9c2",
-      "title": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다] - 지디넷코리아",
-      "published": "2026-06-09T01:26:57+00:00",
-      "summary": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다]&nbsp;&nbsp;지디넷코리아",
+      "id": "439948892745",
+      "title": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다] - v.daum.net",
+      "published": "2026-06-09T01:28:53+00:00",
+      "summary": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1bWs4VTBtcVktUG53bWM0NEpYWkFFU1JjTkpCOGFaVktvU0xxTXZFcFE3cGJLUzBFZ0JSVmc4ay1wZ1hzVHBrQ0x5bWVxUHlCdkhVWUlR?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rWXRZWkRWX3FaRkxHUmlwRVZXMkRLMEVqby0xVmFGdkt2NGJlSGZvY01TdWQ3MGRLRVRpZXUxVm1GMHBSRGNZT3hmV1NuSDg?oc=5"
         }
       ]
     },
@@ -114,14 +174,38 @@
       ]
     },
     {
-      "id": "8dd7ab7458a4",
-      "title": "갑자기 생긴 호흡곤란? 고환암 경고신호 7가지 - 조세일보",
-      "published": "2026-06-08T22:48:11+00:00",
-      "summary": "갑자기 생긴 호흡곤란? 고환암 경고신호 7가지&nbsp;&nbsp;조세일보",
+      "id": "44976063b1e7",
+      "title": "비만 수술, 장내 미생물 변화 통해 당뇨병 위험 줄여준다 - 후생신보",
+      "published": "2026-06-09T00:58:00+00:00",
+      "summary": "비만 수술, 장내 미생물 변화 통해 당뇨병 위험 줄여준다&nbsp;&nbsp;후생신보",
       "sources": [
         {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MLXdYSkJFSDNBcmFlaGxHWGMtdGY1aUYtTWIxUnhVMzB2a2VDaUZXalFEVlV6UUc4NEkwRUZ4TW1SbFY0amhfYzY4d1d2cGNad2tNQkZJU25GN19fTHJpa3kzQTlvS1JiOHAwelNnUQ?oc=5"
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1EY29YNFlWazNmaHZqUHoyUFljdGE0dl9HZEk5YmdfVU03ZmotdzlwY2htUzg3REF5eHFHazNPTENGdUt0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56c487a1bae8",
+      "title": "치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적 - 코메디닷컴",
+      "published": "2026-06-09T00:15:00+00:00",
+      "summary": "치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JdDJ5RG1scmo3cmIyVEFGcWRHNHJBQTN4c2R5TVhlWkZHdEx3dWZwa3hFUzRhZmxSV2luNjNwTlJFZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a60c66a1950",
+      "title": "갑자기 생긴 호흡곤란? 고환암 경고신호 7가지 - 네이트",
+      "published": "2026-06-08T22:49:00+00:00",
+      "summary": "갑자기 생긴 호흡곤란? 고환암 경고신호 7가지&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BbVZzU2dWMDBwSjdtYVdRVGxMREF6RlJIOWdzYlJ6dlJZOVMxX3VaMTdGQVhELTQ1SVcxd2tLOVRMTXpwYjZiaWhMeDRmbGs5UWVJ?oc=5"
         }
       ]
     },
@@ -150,18 +234,6 @@
       ]
     },
     {
-      "id": "431c14cf91a0",
-      "title": "\"뇌세포 죽이는 또 다른 범인 찾았다\" 알츠하이머 치료 단서 될까 - 약사공론",
-      "published": "2026-06-08T20:50:00+00:00",
-      "summary": "\"뇌세포 죽이는 또 다른 범인 찾았다\" 알츠하이머 치료 단서 될까&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50cFhyNHpuLXJJbkhyYXh3M1dkNFZzalYxVkd0dy1YaU51LUVPcFB6MUFvLUJsOEU0TG1xYW90TDRZTWxjbGVaSDZYajNhdjNycmNoX1gycEFvTFloYkFTTmJqOTJNanZkQXZlZA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4f748842203c",
       "title": "의사는 마약 의심했는데… 20대 女, 치아 다 빠진 ‘의외의 원인’ - 헬스조선",
       "published": "2026-06-08T13:20:00+00:00",
@@ -170,6 +242,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pNDlRTWN4TkdOcjQ0TTZMSGtLZjllVWpEaTdJMzNhWVdrSUFidUx6S0V5NkhrQ0Y5QXE1OWQtNzl0VnE3emxQY0tBN2RpbnNsMjJiNDlMLUJMZ3hnX2lCYmF0UmltaEZzajVWVWVZUXJ3WVNRMlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d936b2724810",
+      "title": "\"연내 AI 에이전트 100개 운영 계획…백신 개발기간 30%이상 앞당길 것\" - 매일경제",
+      "published": "2026-06-08T08:44:05+00:00",
+      "summary": "\"연내 AI 에이전트 100개 운영 계획…백신 개발기간 30%이상 앞당길 것\"&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLTkpBQlQzeE1vYkUyVGo2LVRGSWx2NFdBRnBRNHgtS01IcnVqRjktNFp1S1JrTTd1YXd3NlBSakxua0ljM0hqYTZVeEZCUQ?oc=5"
         }
       ]
     },
@@ -186,26 +270,14 @@
       ]
     },
     {
-      "id": "5c601278482d",
-      "title": "AI가 설계한 코로나 백신, 사람에게 첫 투여…미래 변이까지 노린다 - 디지털투데이",
-      "published": "2026-06-08T07:42:00+00:00",
-      "summary": "AI가 설계한 코로나 백신, 사람에게 첫 투여…미래 변이까지 노린다&nbsp;&nbsp;디지털투데이Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FaFVLd1NuYThqRUVQSDBJcURfSWt1UzVTZnBSSWd6U0dHMmt3Wko0U3k5SFdlN1Jjc1hWTFJrVWh5cGhadU1XU21BY3pFNVlTMGtnYTdUQTdRSUVHWklqWTV6SG5KbWNkeUJadWVnZ3ZlOHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c10071a96226",
+      "id": "fc68db137541",
       "title": "외산보다 30% 싼 약 나올까… 후발 K-비만 파이프라인 경쟁 '가속페달' - 전자신문",
       "published": "2026-06-08T07:00:00+00:00",
       "summary": "외산보다 30% 싼 약 나올까… 후발 K-비만 파이프라인 경쟁 '가속페달'&nbsp;&nbsp;전자신문",
       "sources": [
         {
           "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hakFCWEVwOFY1SHJFT0JweUFLdWh3QUdNRl9yb093YkRYeDREZk0xaTV2QVRXU250anRGSUFnV2ZQN2pWM09fY1ZwemFGUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUZPdnltUXVITFhCXzQ3aVZfZjRHcDc5djJ3MGRwZHhCSGlBRWVjTkY1bjNMOTA5Ykc3U1pSQzE3ckZTTnNFOFF6YlU4bzZGX0wzSWg2YTQ4QVU5UzVpcFRqcC1FUG9Ic2ZmSjVBTElyUzJ5aTNLcFZpdUo2WFVmTUNOUUVELTN5bXJVaFdKOG9kdko1RUUzeWU3NHJmLTd3R09xSGJHemJQYXNxQUhESXJsRy03Z0h6b2c0dG5lNlRCMG1hZzRlektrUWVzWDRZT3k5cHI2Yw?oc=5"
         }
       ]
     },
@@ -242,18 +314,6 @@
         {
           "name": "이데일리",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1FsSmpjY1BiYTVMMENyMlN0YmtfREdRVWQtNVJ1Ry1rRnJHMzhKalJDMkwxUXR1WkJVeEdaYlQycFpRVE1RQi1QcmhYMHJueDRlNjc0eW1nbjA2cEdMMnhraGpQX2ZnNnF1QjFwMWNoaUFNR2VZd2Z4LXpCdkh0Rw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0528943ce1d",
-      "title": "콜라겐 보충제,피부·관절엔 효과, 운동 회복엔 '과대 포장' - 바이오타임즈",
-      "published": "2026-06-08T04:34:43+00:00",
-      "summary": "콜라겐 보충제,피부·관절엔 효과, 운동 회복엔 '과대 포장'&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBocXAtSEloZnBnWXZqNG9kaDdzd2dRTUV5VFE3U1RPM0tsM0ktZ1RPeWFKSjZHY1VmOEJQRWZ2cV9uNThkSmRoVFBZVmF5WWFSUkNCWThrRFgwdDIwazJ0NENFRmprNFFDQ0hDTA?oc=5"
         }
       ]
     },
@@ -338,18 +398,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Za1Y3RW9ybDJFczN2VEp4X3lUNUU0Tjh3dXJMODMzd0kwQjFTZ2tOQmpiVVZGVHVuUDFIc0xBaFdoNl8xUzB3aktnOTVIVlJzS2ExTVdMNzZ6aWh6MV9GZzdRVnRCaHA2Wm1B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf6a147eb73e",
-      "title": "\"신종 감염병 발생 주기 점점 짧아져, 한발 앞서 대비해야\" - 네이트",
-      "published": "2026-06-07T20:31:00+00:00",
-      "summary": "\"신종 감염병 발생 주기 점점 짧아져, 한발 앞서 대비해야\"&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jc2NWNU80d3YzN3pLNlVrRFBGaE5sdUJoanBPMnBZaHlMS1ZsVjNmclMzQjg0SnVhd3BQREd1Q0VzRkx0T2NLS0J3VWVNQkFQWWRn?oc=5"
         }
       ]
     }
