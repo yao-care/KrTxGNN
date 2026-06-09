@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-09T14:57:55.218733+00:00",
-  "total_fetched": 74,
-  "unique_count": 74,
-  "health_related_count": 33,
+  "fetched_at": "2026-06-09T20:10:02.748157+00:00",
+  "total_fetched": 78,
+  "unique_count": 78,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "a2d947e6e343",
+      "title": "“새로운 약·식단 아니야”…‘이것’ 바꿨을 뿐인데 체중 증가 멈췄다 - 농민신문",
+      "published": "2026-06-09T18:00:00+00:00",
+      "summary": "“새로운 약·식단 아니야”…‘이것’ 바꿨을 뿐인데 체중 증가 멈췄다&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIdC04ajRZYkxabExoNW1fb01xVGpuN2gxX0lxRHNlZWl4TlZiVS03NDlTalc5Qm03NDM1ZmdQeHBPc0ZqWm5zZlVScGdnQ1FsOFNaLUMyMGh5Zw?oc=5"
+        }
+      ]
+    },
     {
       "id": "304044e5b9d9",
       "title": "“몸 이상하다”며 여러 번 병원 찾았는데… 암 퍼진 뒤에야 발견한 女, 무슨 사연? - 헬스조선",
@@ -30,6 +42,18 @@
       ]
     },
     {
+      "id": "c605f2b635b5",
+      "title": "한림대 의대생 참여 연구팀, 수의학 분야 상위 5% 국제학술지 논문 게재 - 대학IN",
+      "published": "2026-06-09T11:05:06+00:00",
+      "summary": "한림대 의대생 참여 연구팀, 수의학 분야 상위 5% 국제학술지 논문 게재&nbsp;&nbsp;대학IN",
+      "sources": [
+        {
+          "name": "대학IN",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WMEl1eXpfUm9RYThiSnZHUE44N3hpMm9zUnNzVmFocmphLXhPYWtrRmg4OTBJTzZUZXk5WmVLdEhZUHFyamFTTUo3WjBzc3VkMkh4ZDVrdXluYVBpeVo1LUFGYXFPUFg0RW02V0hR0gFwQVVfeXFMTkhOMUgxRGtyU2M4VG1vRUJPamNMU2F2TzZMMW00MER6Z1NiVzM5dUFVLWJhQTBtZEZKNE9rQWI5d2NxdHBKem5FaXlMcFJVRk9fRlFTTGlTTlEwWVhwWVlOZHMxeF9LS183UjF3YjJFdQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b02dfadd0d15",
       "title": "“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이? - e-의료정보",
       "published": "2026-06-09T08:30:33+00:00",
@@ -38,18 +62,6 @@
         {
           "name": "e-의료정보",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81Tnh5Z1RaNUtiWHVnY0NRLWpJSjJaNGRwWWIwUWFjWVVScU8tdjBaRTd1M2diS2l4UUVzdWZ0SXRlNlFIZ1JtSUZvTnVMWDUwQWVMV2JiOFZqOE5ITFNJQUVIZzlLYXlGeHlJ0gFvQVVfeXFMTmhlVDIzRGNrOTVSazVlcG9tWjl4aDl2UmVUY1UxMDNtZnpYbHY0ckRYN2dYSnZjUmxXMUQ4R0FrYU0xYXlFeTlTcWl6V2VmazhMaWQyTjZJRVoxQTNfLU53YWZkd1VCNmRSMWZCUVJF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f3f54c7dd48",
-      "title": "한림대 미생물학교실 연구팀, 신종 바이러스 최초 규명…국제학술지 게재 - 한국대학신문",
-      "published": "2026-06-09T07:36:22+00:00",
-      "summary": "한림대 미생물학교실 연구팀, 신종 바이러스 최초 규명…국제학술지 게재&nbsp;&nbsp;한국대학신문",
-      "sources": [
-        {
-          "name": "한국대학신문",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlQThuYnlnazUzTUpVTEhjZ1lMTjV6WHRmSWphZWx0WERlNEpCRTAxd1JUMGhFVzVUcWVmWjk5NmNtd0lOdDJDYlBTZDRWX195UHM3ZXB4aDQzOS0yR2R3WFRVckplQQ?oc=5"
         }
       ]
     },
@@ -78,6 +90,18 @@
       ]
     },
     {
+      "id": "c58e641a0719",
+      "title": "깜빡하는 치매 전 단계라면?…은행잎추출물 효과 첫 확인 - 매일경제",
+      "published": "2026-06-09T07:02:01+00:00",
+      "summary": "깜빡하는 치매 전 단계라면?…은행잎추출물 효과 첫 확인&nbsp;&nbsp;매일경제치매 전 치료제 ‘콜린알포세레이트’… “임상 1차 지표 미충족했지만 인지기능 개선 확인”&nbsp;&nbsp;동아비즈니스리뷰 | DBR‘베타아밀로이드’ 축적 막는 은행잎, 어지럼증·간헐성 파행증에도 도움&nbsp;&nbsp;v.daum.net콜린알포세레이트 VCI·MCI 적응증, “다각도의 해석을 통한 종합적인 판단 필요하다”&nbsp;&nbsp;메디칼업저버더 시그널 2호, 살아있는 화석 '은행잎 추출물' 효능 집중 조명&nbsp;&nbsp;히트뉴스",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45b0ltWXlBbFdscjhMWDlEQzRpdXZvaTlfME9QM2ZFRWZwWkhzRk1URGZaRkxQUU1KOW1BajVDLXhQQUp4R0c5RFl2T2tTZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "18822d672523",
       "title": "DGIST-MIT 공동연구팀, AI 자율주행 국제대회 1위 - 조선일보",
       "published": "2026-06-09T06:04:24+00:00",
@@ -90,22 +114,34 @@
       ]
     },
     {
-      "id": "0020791de63a",
-      "title": "콜린알포세레이트 VCI·MCI 적응증, “다각도의 해석을 통한 종합적인 판단 필요하다” - 메디칼업저버",
-      "published": "2026-06-09T04:37:24+00:00",
-      "summary": "콜린알포세레이트 VCI·MCI 적응증, “다각도의 해석을 통한 종합적인 판단 필요하다”&nbsp;&nbsp;메디칼업저버치매 전 치료제 ‘콜린알포세레이트’… “임상 1차 지표 미충족했지만 인지기능 개선 확인”&nbsp;&nbsp;동아비즈니스리뷰 | DBR‘베타아밀로이드’ 축적 막는 은행잎, 어지럼증·간헐성 파행증에도 도움&nbsp;&nbsp;v.daum.net깜빡하는 치매 전 단계라면?…은행잎추출물 효과 첫 확인&nbsp;&nbsp;네이트더 시그널 2호, 살아있는 화석 '은행잎 추출물' 효능 집중 조명&nbsp;&nbsp;히트뉴스",
+      "id": "cbecded5b0e5",
+      "title": "간암, 술 때문만은 아니다-B형·C형간염·지방간도 위험요인 - 한국의약통신",
+      "published": "2026-06-09T05:59:14+00:00",
+      "summary": "간암, 술 때문만은 아니다-B형·C형간염·지방간도 위험요인&nbsp;&nbsp;한국의약통신“지친 간을 달래줘야죠”… 영양제 끊는 게 무서웠던 음주인의 ‘전말’&nbsp;&nbsp;조선일보술도 안마시는데 내가 간암?…원인은 '이것' 때문&nbsp;&nbsp;뉴시스간암 환자 증가, 음주 외에도 B형·C형간염과 지방간 주의해야&nbsp;&nbsp;이데일리간경변증, 침묵 속 진행…치료 후에도 완전한 회복 어려워&nbsp;&nbsp;sportschosun.com",
       "sources": [
         {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BRG0xNzhLOTh5UzFTN09TS2o5WDhubV9ZdWk5OExzVDRZTWNnb0xOV0o4MHZTZHNWNV9leTRINnR2TjJxVzA5M3VpaFBfajk4RHNPMlRrLXRwRloyS1ZubDZCRXI1Q1ZFbzNz?oc=5"
+          "name": "한국의약통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZUWRCQ2FrTTgzdFZaSXA5aDB2Zk9rLTJCRjhJNE5DRUFMNGJQWlRleTlMYkNHcnFFNGtZaHpCNENZNjYwWVJsSVdqOEJnNTFQdHdlQXo1aWIzdzgxWm0xUW56VU1wbUdjY0s4?oc=5"
         }
       ]
     },
     {
-      "id": "ccdd0e74bbd8",
-      "title": "\"약 먹기 전 AI에 물어보세요\"...포티투마루, 식약처 AI 안전 솔루션 성과 공개 - AI타임스",
+      "id": "961ebba9acc1",
+      "title": "'오메가-3 보충제', 비비만 당뇨병 모델에서 효과 입증 - 후생신보",
+      "published": "2026-06-09T05:23:00+00:00",
+      "summary": "'오메가-3 보충제', 비비만 당뇨병 모델에서 효과 입증&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1NSHRMczFUVmtsRGVXWE90T0ZIcXY4Z181bFdkcHdtNDlURnNhZHlKa041N3dqaUJqZGt4dXBBcVRYc1Ru?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "476f45a24b7a",
+      "title": "\"약 먹기 전 AI에 물어보세요\"...포티투마루, 식약처 AI 성과 공개 - AI타임스",
       "published": "2026-06-09T03:56:53+00:00",
-      "summary": "\"약 먹기 전 AI에 물어보세요\"...포티투마루, 식약처 AI 안전 솔루션 성과 공개&nbsp;&nbsp;AI타임스",
+      "summary": "\"약 먹기 전 AI에 물어보세요\"...포티투마루, 식약처 AI 성과 공개&nbsp;&nbsp;AI타임스",
       "sources": [
         {
           "name": "AI타임스",
@@ -138,18 +174,6 @@
       ]
     },
     {
-      "id": "0f9a19a4e046",
-      "title": "\"잘 안 들리는 귀가 뇌를 위협\"…치매 예방의 첫걸음은 '난청 치료' - 네이트",
-      "published": "2026-06-09T02:24:00+00:00",
-      "summary": "\"잘 안 들리는 귀가 뇌를 위협\"…치매 예방의 첫걸음은 '난청 치료'&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlZ2xjaXNtTjNRZDU5X3dOUWRrZTZVczdXdUItQlctX1hqZ2lEeDN2YjJWN1IyM2FXVElhRmw3VEhEZUFfWllLWWxKTVlSY2VoZDJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "439948892745",
       "title": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다] - v.daum.net",
       "published": "2026-06-09T01:28:53+00:00",
@@ -158,6 +182,18 @@
         {
           "name": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rWXRZWkRWX3FaRkxHUmlwRVZXMkRLMEVqby0xVmFGdkt2NGJlSGZvY01TdWQ3MGRLRVRpZXUxVm1GMHBSRGNZT3hmV1NuSDg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9121c254424",
+      "title": "알츠하이머 '치료 적기' 혈액검사로 가려낸다 - 청년의사",
+      "published": "2026-06-09T01:26:39+00:00",
+      "summary": "알츠하이머 '치료 적기' 혈액검사로 가려낸다&nbsp;&nbsp;청년의사“치매 치료, 황금기 언제?”…혈액 한 방울로 예측&nbsp;&nbsp;동아일보혈액검사로 알츠하이머 ‘치료 적기’ 찾는다&nbsp;&nbsp;세계일보피플바이오, 알츠온 플러스 美 FDA 혁신의료기기 지정 신청 완료…“8월 결과 기대”&nbsp;&nbsp;팜이데일리강남세브란스 조한나 교수팀, 혈액 한 방울로 치매 치료 ‘황금기’ 찾는다&nbsp;&nbsp;에너지경제신문",
+      "sources": [
+        {
+          "name": "청년의사",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Kdm9qQUR0ejF4ZE03bWlHR0pzZlFqVWlQa3ViS0lTb2Z5Vm9PRVZBWVVZUWNuTG51UERhSUZXTFh2ejA0T2ZsYldCX0pselVZVm82RnJHd3dUZExCLWo0N2hqZXNGcUQ0XzU1S2lNd9IBc0FVX3lxTE9UbjdfcmYxTzZtbG5QRWYxM2J1MDl5YTZ0OW5wOU1zNU1GTWdKVlNVLVlZUUhpWUktdXRlcFlxOTdqTEx2UHJiclJDSEljb056d0tPSlRhMWpTajRIQXM3UmdsWmlpc0U4Z3VELTJRdXB0OWs?oc=5"
         }
       ]
     },
@@ -234,6 +270,18 @@
       ]
     },
     {
+      "id": "2c9a417fcc12",
+      "title": "“위 망가뜨린다” 응급의학과 교수가 경고한 ‘흔한 음식’은? - 헬스조선",
+      "published": "2026-06-08T17:20:00+00:00",
+      "summary": "“위 망가뜨린다” 응급의학과 교수가 경고한 ‘흔한 음식’은?&nbsp;&nbsp;헬스조선\"맛있지만 위암, 대장암에 최악\"…소화기내과 의사가 피하는 음식 5가지&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92anJ0Mzd3VDVDS2NWRXpicXhWTGJwb2EwNW01bkVXT1c4amtFNG5hTTVVWjQzNGdUYm1pSjFXLWNvYlJiM3JvOFpXT3VKTURUVGZaeGRsTk13ZEt2MjlCeTdTSEFiS21WcE53dldHTXNTZ2JfQ1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4f748842203c",
       "title": "의사는 마약 의심했는데… 20대 女, 치아 다 빠진 ‘의외의 원인’ - 헬스조선",
       "published": "2026-06-08T13:20:00+00:00",
@@ -258,14 +306,26 @@
       ]
     },
     {
-      "id": "9c3f909b33c7",
-      "title": "[MBN] 식이섬유가 대장 건강에 미치는 영향은 - 매일경제",
-      "published": "2026-06-08T08:35:29+00:00",
-      "summary": "[MBN] 식이섬유가 대장 건강에 미치는 영향은&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "b7e90b7182d1",
+      "title": "AI가 신약후보 찾고 로봇팔이 원료 운반 … 진격의 '셀트리온 AX' - 매일경제",
+      "published": "2026-06-08T08:44:05+00:00",
+      "summary": "AI가 신약후보 찾고 로봇팔이 원료 운반 … 진격의 '셀트리온 AX'&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TQ002SnowUkRkT0NETV9vN1lkVUZkeE1UTEJBZ25OYnI3d0pPM1BXYk5ZM0hPWGFPeG9qejR3QWtnRVF1QWxlckZCZ016QmJXMVVnbA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiQ3RsSFpqMHcyTGJzNjd0eDU5eEhpME5fNVdIY19jNXBldUJnTWtMNGdBejNhM1RiZkxteGxMTGlZWFhnaTltMG5PaHp4dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eadf8542ff8d",
+      "title": "[MBN] 식이섬유가 대장 건강에 미치는 영향은 - 네이트",
+      "published": "2026-06-08T08:36:00+00:00",
+      "summary": "[MBN] 식이섬유가 대장 건강에 미치는 영향은&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKOURYdlR2M1lEQV9FWldxSW5NUlc4ajlybTdYc0dKaWtuZ2J5Ymh6UXQ3QmlCQUxzOHBvYlJWa3BNRlpEamdGNm1FMHNkRUNkSEkwNmpnZVBDZjRsZ09nRg?oc=5"
         }
       ]
     },
