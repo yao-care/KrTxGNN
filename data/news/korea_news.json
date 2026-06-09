@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-08T20:22:16.734989+00:00",
-  "total_fetched": 46,
-  "unique_count": 46,
-  "health_related_count": 22,
+  "fetched_at": "2026-06-09T03:50:58.095578+00:00",
+  "total_fetched": 51,
+  "unique_count": 51,
+  "health_related_count": 23,
   "news": [
+    {
+      "id": "f14d3d2f66f4",
+      "title": "[건강정보] 예방 가능한 치매 위험 요인 1위, ‘난청’ - 의사신문",
+      "published": "2026-06-09T00:41:52+00:00",
+      "summary": "[건강정보] 예방 가능한 치매 위험 요인 1위, ‘난청’&nbsp;&nbsp;의사신문",
+      "sources": [
+        {
+          "name": "의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FS0o1dkE4a3R5Sy1vaXBfMWlQLVVtbGtPUE4yNjZybDF5cVVmc0RGcFVURktxOE96SGV1d1JGR2hWU2NQSm9yalVNaHBFcE1BM2tUTnlBMnpWdXh6MXlLNmlYdjBraXJFRzVCTnhGcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56c487a1bae8",
+      "title": "치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적 - 코메디닷컴",
+      "published": "2026-06-09T00:15:00+00:00",
+      "summary": "치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5JdDJ5RG1scmo3cmIyVEFGcWRHNHJBQTN4c2R5TVhlWkZHdEx3dWZwa3hFUzRhZmxSV2luNjNwTlJFZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22f7246d0783",
+      "title": "“12세 남성 청소년도 HPV 무료 접종” 강동구, 국가예방접종 지원 전격 확대 - 시정일보",
+      "published": "2026-06-08T23:47:07+00:00",
+      "summary": "“12세 남성 청소년도 HPV 무료 접종” 강동구, 국가예방접종 지원 전격 확대&nbsp;&nbsp;시정일보강동구, 12세 남성 청소년까지 HPV 무료 예방접종 확대&nbsp;&nbsp;핀포인트뉴스“자궁경부암 백신 접종, 남녀 모두에게 필요하다”&nbsp;&nbsp;데일리메디강동구, 사람유두종바이러스(HPV) 국가예방접종 확대 시행&nbsp;&nbsp;전국매일신문2026년 7월 1일부터 HPV 백신 접종이 무료로 제공되며, 경제적으로 어려운 지역의 여아들에게 우선권이 주어집니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "시정일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TVktVc2IzLXoyZ3otbHhyV3NqUEZ4MkYxUWUtMnptUmZmOWRLRk1MdWRfVVJlTkJWNUl0d3E1bU9WX1Bfd0VlS1FjRW1lRkZrdlVNUnVTSlN2UzRvTlkyYWVOd1ZuYm1FQ2RR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c50b30bd1167",
+      "title": "한미약품 삼중작용제 ‘HM15275’ 美 임상 2상 당뇨병 환자 모집 착수 - 헬스코리아뉴스",
+      "published": "2026-06-08T22:30:58+00:00",
+      "summary": "한미약품 삼중작용제 ‘HM15275’ 美 임상 2상 당뇨병 환자 모집 착수&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XZ2dSQ2NJXzFUSl8tQVZMZ1A2OFRGd3l6QUI3ZEhlLTR5dGFfZ3NjRkxTeHhudTUycjVPeTc3Q0hzQzk4UHpNekFSWktGRk5iVy1NZFVGOXpKVnlZQmhCS0NaU2hUVXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60d57b6af985",
+      "title": "[비바100] 걸을 때마다 반복되는 다리 통증, '말초동맥질환' 위험 신호 - 네이트",
+      "published": "2026-06-08T22:02:00+00:00",
+      "summary": "[비바100] 걸을 때마다 반복되는 다리 통증, '말초동맥질환' 위험 신호&nbsp;&nbsp;네이트[알뜰정보] '노출의 계절, 더 도드라지는 하지정맥류 주의보' 외&nbsp;&nbsp;미주중앙일보\"조금만 걸어도 다리가 아파요\"…하지동맥폐색증 의심해야&nbsp;&nbsp;매경헬스[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호&nbsp;&nbsp;코리아헬스로그",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Wc0tqbE1LRHNaLVNWOW1FN3M5cUM2OXVkSHFPVFFzckxXa21QcGk0MUNFcFhZaXlhcGJwcTV4OHBKSHdqZVk1dm8xUFp1M09WTE40?oc=5"
+        }
+      ]
+    },
     {
       "id": "4f748842203c",
       "title": "의사는 마약 의심했는데… 20대 女, 치아 다 빠진 ‘의외의 원인’ - 헬스조선",
@@ -14,30 +74,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pNDlRTWN4TkdOcjQ0TTZMSGtLZjllVWpEaTdJMzNhWVdrSUFidUx6S0V5NkhrQ0Y5QXE1OWQtNzl0VnE3emxQY0tBN2RpbnNsMjJiNDlMLUJMZ3hnX2lCYmF0UmltaEZzajVWVWVZUXJ3WVNRMlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "385e196ce4a5",
-      "title": "7월 1일부터 HPV 백신 무료 접종, 목표 연령대의 여아 그룹 우선 - Laodong.vn",
-      "published": "2026-06-08T10:49:48+00:00",
-      "summary": "7월 1일부터 HPV 백신 무료 접종, 목표 연령대의 여아 그룹 우선&nbsp;&nbsp;Laodong.vn12세 남성 청소년 대상 HPV 무료 예방접종 확대&nbsp;&nbsp;대구광역일보문경시보건소 사람유두종바이러스 예방접종 확대 실시&nbsp;&nbsp;hidomin.com“자궁경부암 백신 접종, 남녀 모두에게 필요하다”&nbsp;&nbsp;데일리메디\"결혼 준비물 된 가다실…HPV 예방, 남녀 공동과제로\"&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeW9rVldRSDVpZUpYcVZ3VVlmWjBvWFVMR214RXZQNUpGcmdmYUl6dzhTQ3BoMFVWc2tPcEZYQ1JtYk1YSEhNUFVBeEZoWl83WmIzOGZ5X0gtRlEwbmlGRFotNkJWZTZIbS1wU2xsZzJpU3pqQ0xEWTAyaFRFbWtfR1h1MW9HTTVJd3pBR2RGSE5xMVp6TnVDamxsVTlRbFFhemZMV2x3eTYzUk53M1dyUC1EUzZHWlNzbDd2YjVFNXhIMTFJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50cc779f84c6",
-      "title": "나만 들리는 정체불명 ‘웅웅’ 소리… 예민해서가 아니라 ‘이명’이었다 - 하이닥",
-      "published": "2026-06-08T10:00:00+00:00",
-      "summary": "나만 들리는 정체불명 ‘웅웅’ 소리… 예민해서가 아니라 ‘이명’이었다&nbsp;&nbsp;하이닥정체불명 '웅웅' 소리의 비밀…연구진 \"저주파 이명 가능성 높다\"&nbsp;&nbsp;네이트[건강 칼럼] 이명과 난청, 청신경의 문제? 치료 방법은?&nbsp;&nbsp;thefairnews.co.kr‘한국이명학회’ 공식 출범…“한의 신경이과학으로 이명치료의 새 지평” > 뉴스&nbsp;&nbsp;한의신문“이명 치료 표준화…데이터 기반 진료체계 구축” [인터뷰]&nbsp;&nbsp;한경매거진&북",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3bmJEZ0RiUVF1VW5yS095OXJneklEdlFGN25DUFd2U2xZNGFkUVZ5dUdrbjR6b0hWQjQyaDYwaGZWc09TaXJjY0RYTmtwbUdua0lETU5JQjEyV090MU8xcVhMdGdiVGphWnc?oc=5"
         }
       ]
     },
@@ -62,6 +98,18 @@
         {
           "name": "디지털투데이",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FaFVLd1NuYThqRUVQSDBJcURfSWt1UzVTZnBSSWd6U0dHMmt3Wko0U3k5SFdlN1Jjc1hWTFJrVWh5cGhadU1XU21BY3pFNVlTMGtnYTdUQTdRSUVHWklqWTV6SG5KbWNkeUJadWVnZ3ZlOHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c10071a96226",
+      "title": "외산보다 30% 싼 약 나올까… 후발 K-비만 파이프라인 경쟁 '가속페달' - 전자신문",
+      "published": "2026-06-08T07:00:00+00:00",
+      "summary": "외산보다 30% 싼 약 나올까… 후발 K-비만 파이프라인 경쟁 '가속페달'&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hakFCWEVwOFY1SHJFT0JweUFLdWh3QUdNRl9yb093YkRYeDREZk0xaTV2QVRXU250anRGSUFnV2ZQN2pWM09fY1ZwemFGUQ?oc=5"
         }
       ]
     },
@@ -102,6 +150,18 @@
       ]
     },
     {
+      "id": "e0528943ce1d",
+      "title": "콜라겐 보충제,피부·관절엔 효과, 운동 회복엔 '과대 포장' - 바이오타임즈",
+      "published": "2026-06-08T04:34:43+00:00",
+      "summary": "콜라겐 보충제,피부·관절엔 효과, 운동 회복엔 '과대 포장'&nbsp;&nbsp;바이오타임즈",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBocXAtSEloZnBnWXZqNG9kaDdzd2dRTUV5VFE3U1RPM0tsM0ktZ1RPeWFKSjZHY1VmOEJQRWZ2cV9uNThkSmRoVFBZVmF5WWFSUkNCWThrRFgwdDIwazJ0NENFRmprNFFDQ0hDTA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3ba8e192731f",
       "title": "“Baby Baby” 에이미 그랜트, 사고 후 기억력 저하…머리 손상도 치매 위험 요인 - 디멘시아뉴스",
       "published": "2026-06-08T02:47:34+00:00",
@@ -110,18 +170,6 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PMk05RVJ5RU5UZnF3T0k3dmtYR3BzcGQzZFp0WjZ6ZlJpLXotbDZkd2RQa2xMU09xdW1EcUZqcTlMZU96SXVXS2t3T01uWHU1OG4tVUFZV3paR3JfOUxiaW1VMFJKTGNmZlZLSnZOLW8xQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c34141375e14",
-      "title": "무릎·고관절 수술 괜찮을까? 노인 15%, 심각한 인지 저하 궤적[노화설계] - 네이트",
-      "published": "2026-06-08T02:26:00+00:00",
-      "summary": "무릎·고관절 수술 괜찮을까? 노인 15%, 심각한 인지 저하 궤적[노화설계]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIWUFoaFRMckowa1VzVUVEOFliendQcUJMS2Y1RWQ4cldBTWowTURfVTRoWWVPdTI2eFZZN1lDRTcycXNtOFhleXI5cEVNdTV2RmFR?oc=5"
         }
       ]
     },
@@ -198,18 +246,6 @@
       ]
     },
     {
-      "id": "0ae3c1591598",
-      "title": "걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호 - 코리아헬스로그",
-      "published": "2026-06-07T07:01:43+00:00",
-      "summary": "걷다 쉬기 반복하는 다리 통증, ‘말초동맥질환’ 위험 신호&nbsp;&nbsp;코리아헬스로그[알뜰정보] '노출의 계절, 더 도드라지는 하지정맥류 주의보' 외&nbsp;&nbsp;미주중앙일보걷기도 힘든 다리 통증 반복되면, '말초동맥질환' 위험 신호&nbsp;&nbsp;네이트[진료실에서] 나들이 후 다리 통증 ‘혈관질환’ 신호일 수도&nbsp;&nbsp;충청신문여름철 하지정맥류, 기온 오르면 증상 악화… \"조기 시술이 치료 결과 좌우\"&nbsp;&nbsp;잡포스트",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtcXMyTzZwSVpUWXhXa0lRX0Zoa0RVbUN3OXVnTkNhMlpNMjdPU19uaTd0Z0VNNGF5Uy10V3F3Y0g3WllHV3FQZ0JJSDRnZ1AyVFBaalJGV19HOU1wUi1aZUpMLTdoMTBobVFiRUVMOVhOZ9IBdkFVX3lxTE1yMkxlLWh4OW93Tm8wd1I1bE91VkpLZ3JOUTN4dS1EaEZTc0hnOEVQcUdqc0RJN09fWGJRdW5YMkVHZ2p0ZFlkNEgxRVJkS0M4dWktZFN0WTBkcmg1aktGZTBnb0VwS0hPb3p1QUdzQ29zeFhXbVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "07c1131ca4b8",
       "title": "'2026 국내 기생충 질환'의 감염 현황 - 제주일보",
       "published": "2026-06-07T07:00:00+00:00",
@@ -242,30 +278,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vVTdVTF9NTnBmREFoLVlsNVBDV0c2ajh0azRIcDAtaUpYcE5WUlJuT3kxQkNENDRDRU9hRlNaamJvTW0zVGdYMkRlenl2RE10OEUzUDN5UmdBUE9LaGhyblB1blBFREFhWVhEQXpaWHJQTFNuMXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6add60aa232",
-      "title": "정체불명 '웅웅' 소리의 비밀…연구진 \"저주파 이명 가능성 높다\" - 네이트",
-      "published": "2026-06-07T01:06:00+00:00",
-      "summary": "정체불명 '웅웅' 소리의 비밀…연구진 \"저주파 이명 가능성 높다\"&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JLW1tem50WVR0MV9rTHJ5eXdJUjJMekZ6UmJLMEY2MlJCdFlyWE9aT0tGN2RYQXB0TldON2hkUzFEazkwX3JXYUUxb2xmby1uU0Zz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b428e7abf1a",
-      "title": "[반려동물] \"맞혀도 될까?\" 광견병백신 불안에…의료계 \"맞혀야 전염 막아\" - 연합뉴스",
-      "published": "2026-06-06T21:45:01+00:00",
-      "summary": "[반려동물] \"맞혀도 될까?\" 광견병백신 불안에…의료계 \"맞혀야 전염 막아\"&nbsp;&nbsp;연합뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aMGRoQkxTSTRqMGdUcFh5VUxVSXFzQlFOYnplZjkxSmo4aThRMU82U1Fad1lWOE5vcXMyTzZqWmpiT0RSamg3Nm9XRDJSV1lhcDVyc0ZUSUFEQmPSAWBBVV95cUxQVXZvWWtKZ2tYRVBKMjctOGxQS2ZYMlpnREt5MDUwc19HSy1fR3JRU0tTZFcwLVY1Yy1RS2s3MUtjWklMS3Y3REFDWjBrT3lVQ2s5M25QQTdvbEdIV3hSNHI?oc=5"
         }
       ]
     }
