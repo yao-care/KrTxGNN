@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-06-10T10:07:33.016672+00:00",
-  "total_count": 41,
+  "last_updated": "2026-06-10T15:42:33.793922+00:00",
+  "total_count": 44,
   "matched_count": 0,
   "news": [
     {
-      "id": "232fbfecac81",
-      "title": "\"스타틴 부작용 우려 과장…조기·지속 복용 공식이 실익 커\"",
-      "published": "2026-06-10T09:04:23+00:00",
-      "summary": "\"스타틴 부작용 우려 과장…조기·지속 복용 공식이 실익 커\"&nbsp;&nbsp;메디칼타임즈“28살 고지혈증 걱정, 62살 먹는 약 뭔지 모르고”&nbsp;&nbsp;현대건강신문이상지질혈증? 실체가 무엇인가요?: 이름부터 헷갈리는 용어 정리&nbsp;&nbsp;메디칼업저버“온라인서 퍼지는 ‘스타틴’ 관련 오해, 질환 악화로 이어져…‘치료 이점’ 명백”&nbsp;&nbsp;더바이오'스타틴 먹지 마라'는 말의 대가…심뇌혈관질환 위험 키운다&nbsp;&nbsp;약업신문",
+      "id": "2e217581e912",
+      "title": "“‘스타틴 먹지 마세요’···잘못된 의학정보 공포가 뇌졸중 불러”",
+      "published": "2026-06-10T13:08:45+00:00",
+      "summary": "“‘스타틴 먹지 마세요’···잘못된 의학정보 공포가 뇌졸중 불러”&nbsp;&nbsp;의사신문\"스타틴 부작용 우려 과장…조기·지속 복용 공식이 실익 커\"&nbsp;&nbsp;메디칼타임즈“28살 고지혈증 걱정, 62살 먹는 약 뭔지 모르고”&nbsp;&nbsp;현대건강신문스타틴 오정보 확산 우려…AI 시대 건강정보 판별력 중요해졌다&nbsp;&nbsp;메디코파마“온라인서 퍼지는 ‘스타틴’ 관련 오해, 질환 악화로 이어져…‘치료 이점’ 명백”&nbsp;&nbsp;더바이오",
       "sources": [
         {
-          "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56TmJhU0Z6b0RFaFgyTVgxY0JJR2c4VFNUc2JmY3FYSDNjTE5Mam0wNkwyUTZIb090a1pLblBOd18xUkFiY0tfNDhWNGEyVU1GY2J2dGtDQnZnQ3pQc2FxY1hrNVhOUTFBd1Q4blJNTUdaM1U?oc=5"
+          "name": "의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xdEgyczUxeWlYZ2RmU29rRDR6cTJfZVdYYi1YMVhNaW00VnZnSUxIekJPYmIyRE9Ec0pvWkJXNnVTWFQtRmhMM1hFRVpaVHQwWjlRVDNVU0oxMmp4TWZFX1Fhd2JHcFRycFoyNlNFZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9ba03490dc46",
+      "title": "[초록] 국내 돼지에서 분리한 스트렙토코커스 수이스의 유전적 다양성과 병원성 변화 추적 연구",
+      "published": "2026-06-10T10:19:22+00:00",
+      "summary": "[초록] 국내 돼지에서 분리한 스트렙토코커스 수이스의 유전적 다양성과 병원성 변화 추적 연구&nbsp;&nbsp;돼지와사람",
+      "sources": [
+        {
+          "name": "돼지와사람",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nUkpYUW1WYkE1aExJMjB6OU51YlkxTXd6U21NSzZfTVFaNWJXa3FVS1RqZ3lrZ3RwX01kckdxZVZOVlplcmVRSWJFQktsbFJsREdrT1B1TTNJQTdjckw0Z29R?oc=5"
         }
       ],
       "matched_keywords": []
@@ -30,6 +43,19 @@
       "matched_keywords": []
     },
     {
+      "id": "210beebd5603",
+      "title": "슈퍼박테리아 ‘녹농균’의 항생제 방어막 비밀 풀었다",
+      "published": "2026-06-10T07:03:00+00:00",
+      "summary": "슈퍼박테리아 ‘녹농균’의 항생제 방어막 비밀 풀었다&nbsp;&nbsp;후생신보가톨릭대·성균관대 연구팀, 슈퍼박테리아 녹농균의 항생제 방어막 규명 - 머니투데이&nbsp;&nbsp;머니투데이슈퍼박테리아 ‘녹농균’의 새로운 항생제 내성 기전 규명&nbsp;&nbsp;BRIC슈퍼박테리아 '녹농균' 항생제 방어막 비밀 풀었다&nbsp;&nbsp;의협신문성균관대, 슈퍼박테리아 항생제 내성 기전 규명&nbsp;&nbsp;이데일리",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5JRVdIc2ZTbnhoYTdydUNGdjZ1X1puZHlDMTdIdndsb0FqdHhnMVhkc0FsbXFxT0FmTlJKVmwzdEpoQUxM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8fd191d64901",
       "title": "[건강체크] “이유 없이 체중이 줄어든다”…단순 다이어트 아닌 ‘암 전조 증상’일 수도",
       "published": "2026-06-10T06:40:00+00:00",
@@ -38,6 +64,19 @@
         {
           "name": "전국뉴스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BR3ZaZURHdGgtV19KdjVmMVNZSk5vd1NKYWI5ZTk4TTVsc2J3R0V5dnhRS1RsT2pFeVlRWS1jdTBSckpzMDhmY09EeDVja2dYRWxHbTdwTDN3TDV0QU9naWVROTdfVUY1X1pNblI3YXQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8ff164a59af8",
+      "title": "암 환자 62%가 5년 넘게 사는데… \"후기로 갈수록 신약 쓰기 어려워\"",
+      "published": "2026-06-10T05:51:00+00:00",
+      "summary": "암 환자 62%가 5년 넘게 사는데… \"후기로 갈수록 신약 쓰기 어려워\"&nbsp;&nbsp;한국일보",
+      "sources": [
+        {
+          "name": "한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IcU1BVTRJN1NZcU55UC1tWUNxOVR4UC1CcDFVbFdWdUEzVDFXdjlFMTdQWWJTU3FOS3AyN3BVOEY1NjNUeDhlbnVCTkpPUmV1QW9zMnVQb2QzMUFnenpxVk9zbjZTRzdhN2RQRDJ30gFzQVVfeXFMT1VwOFlmWUdxOEFBWVgtMVhJMldhb3V6ckNYZFJPcWsxVDAzcnRRYnlJQkhMOF9nZW9sdTltYVdURjdORWVUdUdQUXl5X1hLcjRJM0o4N0hVcnViX29FV2ZXaXgzcGdHdmFJZGJpV25PSU5XQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -59,11 +98,37 @@
       "id": "377a7aa74c75",
       "title": "“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이? - 크리스찬 뉴스",
       "published": "2026-06-10T05:41:32+00:00",
-      "summary": "“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이?&nbsp;&nbsp;크리스찬 뉴스\"하루 5분이면 충분\"...치매 전문의들이 권하는 뇌 살리는 습관&nbsp;&nbsp;조선일보[깡문칼럼] 기억의 안개 속에서 치매와 건망증에 길을 잃지 않기&nbsp;&nbsp;yangpatv.kr치매 vs 건망증, 어떻게 구분할까?…힌트 줘도 기억 못하면 위험 신호&nbsp;&nbsp;코리아헬스로그“노인, 코딱지도 파지 마라” 뇌 망가뜨리는 뜻밖의 습관&nbsp;&nbsp;미주중앙일보",
+      "summary": "“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이?&nbsp;&nbsp;크리스찬 뉴스\"하루 5분이면 충분\"...치매 전문의들이 권하는 뇌 살리는 습관&nbsp;&nbsp;조선일보[복지논단] 치매보다 먼저, 기억을 돌보다&nbsp;&nbsp;대구신문[깡문칼럼] 기억의 안개 속에서 치매와 건망증에 길을 잃지 않기&nbsp;&nbsp;yangpatv.kr“노인, 코딱지도 파지 마라” 뇌 망가뜨리는 뜻밖의 습관&nbsp;&nbsp;미주중앙일보",
       "sources": [
         {
           "name": "크리스찬 뉴스",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkV3lLdzYzLXpzZ1RWMFk5bTRsNGVUcmxJWTlSTUNPcTktQWhKWXZMRi1uUTVSRWZTSDFwSzRuNm4tSGYxT0tsTjdISEZrbU9oYURlX2lsb0lGUUVDak1TVlhTa3RPVTRuY2R4VlpZdG9rbXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1ca1100f8d83",
+      "title": "“마른데도 치매 위험 높을 수 있다?”…내장지방의 경고",
+      "published": "2026-06-10T05:37:39+00:00",
+      "summary": "“마른데도 치매 위험 높을 수 있다?”…내장지방의 경고&nbsp;&nbsp;디멘시아뉴스(70) ‘배만 볼록’ 혹시 나도? 소리 없이 건강 위협하는 ‘복부비만’&nbsp;&nbsp;농민신문“러닝으론 부족” 내장지방 없애고 싶다면 ‘이 운동’ 해야&nbsp;&nbsp;헬스조선뱃살 방치했다가 당뇨에 심장병까지…내장지방 없애는 가장 빠른 방법 따로 있었다 [헬시타임]&nbsp;&nbsp;서울경제40대 男 10명중 6명 비만… 당뇨-고혈압 등 위험 커져&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93eFNaMW5VMjVFYXZUblVBNXJmZUZaUm9qLXdkdnBCSFNhYk41VHh3OXFPREtTNjFQaWR2c1k2Wko4UlVFQmhnYWFqZGxzbGlUZzVlRl9RNGRRd25ETG1MN18xQVNvM284T0Q4X2JieVJKdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1fd38adc700d",
+      "title": "소화기내과 김나영 교수 50세 미만 여성, 남성보다 위암 생존율 낮다...미만형·진행성 위암 비율 높아",
+      "published": "2026-06-10T04:40:00+00:00",
+      "summary": "소화기내과 김나영 교수 50세 미만 여성, 남성보다 위암 생존율 낮다...미만형·진행성 위암 비율 높아&nbsp;&nbsp;로컬세계50세 미만 여성 위암 환자, 남성보다 생존율 낮은 이유··· ‘이것’ 변화가 원인일 수도&nbsp;&nbsp;v.daum.net젊은 여성 위암 환자, 남성보다 예후 나빴다…\"맞춤형 검진 필요\"&nbsp;&nbsp;뉴스150대 미만 여성 위암 환자, 남성보다 생존율 낮아…이유는 ‘이것’ 때문&nbsp;&nbsp;동아일보50세 미만 여성, 남성보다 위암 생존율 낮아…예후 나쁜 '미만형' 발생↑ - 머니투데이&nbsp;&nbsp;머니투데이",
+      "sources": [
+        {
+          "name": "로컬세계",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LM09uY3hRSkVYNmp3NWN4Q19xMkVNQXFrejFmVkQ4YWduR3QzbDJuUW1EemlPR0VYTjdYRnFXV0czQ2IzTThwX2NoRW1YeUVSYW91WHI4Znd0OWYxbFIzdtIBWEFVX3lxTFBXMFVxMkpZQkhWY2lyR3hXVGNsUExBTE5wMHFkeGh3WS1SUVVXUmo3ckNlVXlDZEtUX3luTFFuczdMYzZFaTlKMXBGaGNQOTljenpRZk1MMWI?oc=5"
         }
       ],
       "matched_keywords": []
@@ -77,19 +142,6 @@
         {
           "name": "의협신문",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84eXRQc1NQSWI0djRpcnB6UU54dEJ0UW9qeWlJM2Jyd2tGT0FOM1NUbS1qeHl3VXZ3RkVZZXFZS2F0M09jZmc2WTlzd3gzdWRSZWo1N05JWDFTcE1ienA5SVhSQzJEaUoyc2FkZ0FNTlZMUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "06865f8644f1",
-      "title": "“음식이 뇌를 바꾼다” 꾸준히 먹으면 좋은 식품 15가지",
-      "published": "2026-06-10T04:20:00+00:00",
-      "summary": "“음식이 뇌를 바꾼다” 꾸준히 먹으면 좋은 식품 15가지&nbsp;&nbsp;헬스조선노화로 저하된 인지력-기억력 동시 개선&nbsp;&nbsp;동아일보깜빡하는 기억력은 단순 노화?…'혈관'이 보내는 경고일수도&nbsp;&nbsp;네이트닥터린, ‘두뇌엔 PS 포스파티딜세린’ 리뉴얼 출시&nbsp;&nbsp;ppss.kr중년기의 건강한 식단, 노년기 인지 기능 저하 위험 낮춰&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSEhoamE1bHdvVkNYSGI1NU9xVWFuUWM5ajV6Yjc2STFib2ZaR1hpa1FGSi16MHNTTkQwa19YbXc5VkFqcXhza2p1VDlrc2kzVF9NcUpXbTlkUHRsWmNSQjVzUVlMNUhiNHhsa05idzhoN2hZd3c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -116,19 +168,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nQmJBUFpucGs5ZWpyMHkxMlBsWlRVd0FtNUZKOGlaa0w0YnlCYzZwRzhGOFpIQXYzN3FmTUN2Rmt6dmFuaFp2Y01KOTd6UEtydWl6Tzl0RzdFaDBSbk44OEFBOEJOd010bEx3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7ddfde3f9cb5",
-      "title": "[Medical Report] “50세 미만 여성 위암 예후 불량” … 의료계 AI 열풍 확산 外",
-      "published": "2026-06-10T02:11:03+00:00",
-      "summary": "[Medical Report] “50세 미만 여성 위암 예후 불량” … 의료계 AI 열풍 확산 外&nbsp;&nbsp;헬스코리아뉴스50세 미만 여성 위암 환자, 남성보다 생존율 낮은 이유··· ‘이것’ 변화가 원인일 수도&nbsp;&nbsp;v.daum.net젊은 여성 위암 환자, 남성보다 예후 나빴다…\"맞춤형 검진 필요\"&nbsp;&nbsp;뉴스150대 미만 여성 위암 환자, 남성보다 생존율 낮아…이유는 ‘이것’ 때문&nbsp;&nbsp;동아일보젊은 여성 위암, 같은 연령대 남성보다 생존율 낮았다&nbsp;&nbsp;한국일보",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BeU5lNGxqWFdOVU9kU0xRQ3puVVRpb0FXVUpncHRVZUJfNm5ZZDlkYWEzaE5hRHZnWTRhNGlxcWJNbXY4Y1ppZXpobWVIdk1hUk92Wk9fdWFOWkw3U2dKUWlzb3N1dnM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -207,6 +246,19 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrS2l5dWlmenY5bk5QYWFBS0w4S3VRNk9DTHI3Q1Axc2ZoMmowM1dLWVJpaEJLZW0tdHRiOXNScFlVWkg2RE9qMlJoVm11ODBhbFo5TQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2c183481f5ab",
+      "title": "노화로 저하된 인지력-기억력 동시 개선",
+      "published": "2026-06-09T19:30:00+00:00",
+      "summary": "노화로 저하된 인지력-기억력 동시 개선&nbsp;&nbsp;동아일보“음식이 뇌를 바꾼다” 꾸준히 먹으면 좋은 식품 15가지&nbsp;&nbsp;헬스조선깜빡하는 기억력은 단순 노화?…'혈관'이 보내는 경고일수도&nbsp;&nbsp;네이트닥터린, ‘두뇌엔 PS 포스파티딜세린’ 리뉴얼 출시&nbsp;&nbsp;ppss.kr중년기의 건강한 식단, 노년기 인지 기능 저하 위험 낮춰&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56Mi1oTHQ5aks2cVppTXkxVGd2TGJ5WXVzeE80bHpaZFBHcWJnamJkZ0ZzWm4yWU5OWG5pWjRIbS1aS0ZtRWM1bjlpblY3TmtwYzNIRmVYckJjMXkwYUV4dzFyUjYySGllNDgyaXZqbw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -342,19 +394,6 @@
       "matched_keywords": []
     },
     {
-      "id": "4cc3be940e42",
-      "title": "밤에 적게 자고, 낮잠 즐기는 습관… 뇌 노화 당긴다",
-      "published": "2026-06-09T04:00:00+00:00",
-      "summary": "밤에 적게 자고, 낮잠 즐기는 습관… 뇌 노화 당긴다&nbsp;&nbsp;헬스조선[메디컬투데이 - 쇼츠뉴스] 수면 습관과 뇌 건강의 상관관계&nbsp;&nbsp;네이트자기 전 스마트폰 보는 습관, 치매 위험 높인다?... 강성훈 교수의 치매 팩트체크 6&nbsp;&nbsp;하이닥주말 늦잠이 보약?…알고 보니 수명 깎아먹는 '최악의 습관' [건강!톡]&nbsp;&nbsp;한국경제뇌 노화 늦추는 최적 수면 시간은?… 여성 6.5~7.8시간, 남성 6.4~7.7시간&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KeGdzRHh1aVV4OHpvU1JqOFZOUUZTclB1SjZjUHRDeHpxQV9UMFZwUWxORmpHVjNFRTJ2U2l6WFZtSlhWWUpVTXJKWEFvdjhUTEN0R2Vfd2N2S1ZMa3VTZTBsbnA5YzVBa1BOd1ZGbmZpMUVQZ0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "476f45a24b7a",
       "title": "\"약 먹기 전 AI에 물어보세요\"...포티투마루, 식약처 AI 성과 공개",
       "published": "2026-06-09T03:56:53+00:00",
@@ -420,14 +459,27 @@
       "matched_keywords": []
     },
     {
-      "id": "3bcba66c0da2",
-      "title": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다]",
-      "published": "2026-06-09T01:28:53+00:00",
-      "summary": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다]&nbsp;&nbsp;v.daum.net",
+      "id": "36d16bd8edde",
+      "title": "신경퇴행성질환 연구에 410만 불 쾌척 - 캐나다 한국일보",
+      "published": "2026-06-09T01:37:00+00:00",
+      "summary": "신경퇴행성질환 연구에 410만 불 쾌척&nbsp;&nbsp;캐나다 한국일보",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aSWhJSUZKNGlfT0g0UkdMejJkXzRINDI0d21BZC0zeDMtQktYM2E0ajJBeGQtd2RJNUxMUGw0QldxejBQZFE?oc=5"
+          "name": "캐나다 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kUGhpM3p0QzNzN0xqMmxNMWlKV1BZaW9SSUZkLW1MWXAzbDFnQXlmMEpjQjhYMkcwYm1PWER4SjZVVXRNZHlBTkNmalJUbGpma2I0cDNKb0dvOHBIVC1zd1NIUldhUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "741b4661f9c2",
+      "title": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다]",
+      "published": "2026-06-09T01:26:57+00:00",
+      "summary": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다]&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1bWs4VTBtcVktUG53bWM0NEpYWkFFU1JjTkpCOGFaVktvU0xxTXZFcFE3cGJLUzBFZ0JSVmc4ay1wZ1hzVHBrQ0x5bWVxUHlCdkhVWUlR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -459,27 +511,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4f748842203c",
-      "title": "의사는 마약 의심했는데… 20대 女, 치아 다 빠진 ‘의외의 원인’",
-      "published": "2026-06-08T13:20:00+00:00",
-      "summary": "의사는 마약 의심했는데… 20대 女, 치아 다 빠진 ‘의외의 원인’&nbsp;&nbsp;헬스조선",
+      "id": "54c3dd2c08fa",
+      "title": "[칼럼]100세 시대, 당신의 ‘근육 통장’은 안녕하십니까",
+      "published": "2026-06-08T22:06:51+00:00",
+      "summary": "[칼럼]100세 시대, 당신의 ‘근육 통장’은 안녕하십니까&nbsp;&nbsp;경인신문\"운동 하나면 보약 두 제보다 낫지요\"… 85세 마라토너&nbsp;&nbsp;조선일보\"체중 늘었는데 허벅지는 왜 가늘어질까\"…하체가 보내는 '경고 신호'&nbsp;&nbsp;sportschosun.com남은 수명 좌우하는 ‘다리 힘’…내 하체 근력 점수는?&nbsp;&nbsp;농민신문[수퍼 스트롱] 여든다섯에도 욕심나는 게 있다면 ‘운동화’라오&nbsp;&nbsp;조선일보",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pNDlRTWN4TkdOcjQ0TTZMSGtLZjllVWpEaTdJMzNhWVdrSUFidUx6S0V5NkhrQ0Y5QXE1OWQtNzl0VnE3emxQY0tBN2RpbnNsMjJiNDlMLUJMZ3hnX2lCYmF0UmltaEZzajVWVWVZUXJ3WVNRMlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2788c54a7447",
-      "title": "치매, 유전자 탓?...교육·직업·아동기 등도 ‘뇌 건강’ 좌우",
-      "published": "2026-06-08T09:49:55+00:00",
-      "summary": "치매, 유전자 탓?...교육·직업·아동기 등도 ‘뇌 건강’ 좌우&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwaHVOYlpHZ0ZRUUtzaUxhWm1UcUpaeGxFSGQ0LTh3RlFhU0ZMeW40eUR4NDFnQ0hwcWVfa09vcDU2S2hseG9jcmJvSVVsNXVOWnhnMjRsRUhNUmMwX2lJUzZkZFd0dmx6YVV6SUMySFZ2QQ?oc=5"
+          "name": "경인신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52UThoYjBWQW1ZTHE1ZWZ6akZHMnlYQmRzcW1FUzFDZUNhbVRnY2NpeG5lRElwTHlfMnkxeThVNHRqcjd0OVZyWWMxcUhQN3ZudW41SXFoQTlZek9SWDV1QUNEbVQzazA?oc=5"
         }
       ],
       "matched_keywords": []
