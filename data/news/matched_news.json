@@ -1,17 +1,69 @@
 {
-  "last_updated": "2026-06-10T15:42:33.793922+00:00",
-  "total_count": 44,
+  "last_updated": "2026-06-10T20:34:15.154472+00:00",
+  "total_count": 46,
   "matched_count": 0,
   "news": [
     {
-      "id": "2e217581e912",
-      "title": "“‘스타틴 먹지 마세요’···잘못된 의학정보 공포가 뇌졸중 불러”",
-      "published": "2026-06-10T13:08:45+00:00",
-      "summary": "“‘스타틴 먹지 마세요’···잘못된 의학정보 공포가 뇌졸중 불러”&nbsp;&nbsp;의사신문\"스타틴 부작용 우려 과장…조기·지속 복용 공식이 실익 커\"&nbsp;&nbsp;메디칼타임즈“28살 고지혈증 걱정, 62살 먹는 약 뭔지 모르고”&nbsp;&nbsp;현대건강신문스타틴 오정보 확산 우려…AI 시대 건강정보 판별력 중요해졌다&nbsp;&nbsp;메디코파마“온라인서 퍼지는 ‘스타틴’ 관련 오해, 질환 악화로 이어져…‘치료 이점’ 명백”&nbsp;&nbsp;더바이오",
+      "id": "9e4de27c27cb",
+      "title": "“파킨슨병, 진단받아도 끝 아냐…혈압·당뇨처럼 관리하는 시대 온다”",
+      "published": "2026-06-10T20:02:00+00:00",
+      "summary": "“파킨슨병, 진단받아도 끝 아냐…혈압·당뇨처럼 관리하는 시대 온다”&nbsp;&nbsp;이투데이“약만 먹으면 되는 병 아닙니다”…14만 파킨슨병 환자들 ‘사각지대’&nbsp;&nbsp;v.daum.net“올바른 인식 개선 절실”…윤정한 교수 “파킨슨병 오해부터 풀어야”&nbsp;&nbsp;v.daum.net[전문의 칼럼] 기억을 잃기엔 너무 이른 나이…‘조기 발병 알츠하이머병’&nbsp;&nbsp;에너지경제신문\"증상 완화 넘어 근본치료 시대\"…K바이오, 파킨슨병 신약 도전&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xdEgyczUxeWlYZ2RmU29rRDR6cTJfZVdYYi1YMVhNaW00VnZnSUxIekJPYmIyRE9Ec0pvWkJXNnVTWFQtRmhMM1hFRVpaVHQwWjlRVDNVU0oxMmp4TWZFX1Fhd2JHcFRycFoyNlNFZw?oc=5"
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40MkV2cWpyUTdkcDhqNi1ES0lOLU1DQzU2Z1EyaXVQR284NzdYQkd5QU5WQW9vMEw5TFNkaG8ySi01cVIyWEVkT2gwbXRvZExvajItUg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eab3cdb9dedf",
+      "title": "뱃살 빼고 싶은 중년, 술 끊고… ‘이 음식’은 더 먹어라",
+      "published": "2026-06-10T16:00:00+00:00",
+      "summary": "뱃살 빼고 싶은 중년, 술 끊고… ‘이 음식’은 더 먹어라&nbsp;&nbsp;헬스조선갱년기 살찌는 속도 늦춘다… ‘이 식단’ 비만 위험 54% 낮춰&nbsp;&nbsp;하이닥엇! 갑자기 불어난 뱃살...중년 여성을 위한 특별한 살빼기 전략&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvYlhxa2NpRUtScC0yWFBZTnJaSG1NdkI0YzkzMWVONWpOTzNFXy1iZUttOVljVmZUZWJzSC1mSVY1X3JSZElKVFN6RG9nSzRPbXZTZ0dvSU0zWmtNYm80MXZpS2tnTXNyOWEyRE9pTXpsQmMzX0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "532a5eae512f",
+      "title": "국내 연구진, ‘난치병 RNA 치료제’ 설계 지름길 찾았다",
+      "published": "2026-06-10T15:21:00+00:00",
+      "summary": "국내 연구진, ‘난치병 RNA 치료제’ 설계 지름길 찾았다&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xSnlLRmNiemJUVHNNZmVTRDF5R3liQzlCZ2kzckgwbERGaXEwYmVzRlRzT1pzV21HRkxJX2MwdnJIT0NnMGtBbERtQkZNZktvQVlkYV95NzhZV1FaQV84dWVZNFJwQldwZWtxejFwNzliUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9595b79b3867",
+      "title": "피부에 좋다고 먹던 콜라겐, 관절 건강에도 도움",
+      "published": "2026-06-10T15:01:00+00:00",
+      "summary": "피부에 좋다고 먹던 콜라겐, 관절 건강에도 도움&nbsp;&nbsp;헬스조선“콜라겐, 피부 보습·관절 통증 완화 효과”…113개 임상시험 분석[건강팩트체크]&nbsp;&nbsp;v.daum.net콜라겐 보충제,피부·관절엔 효과, 운동 회복엔 '과대 포장'&nbsp;&nbsp;바이오타임즈콜라겐, 피부만 채우는 게 아니었다… 관절 통증·근력 개선 효과 확인&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pcHF2MWtJcW02YnNtNVlheGhNM1YtZFVNYVRUQUw1LTI1am1HX0Z5MmV2ckJacldVQkJoR3Z4ZGF4N0hWQWxubDd4VnhybnU5MmdEU3NkZnc4bl9SY3d1SXZOeTZ2NUZMV3VJaU81ckNoMzU1U1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "672907d031fd",
+      "title": "‘마법 각도’ 그래핀 연구자 등 10명 카블리상 수상",
+      "published": "2026-06-10T14:04:00+00:00",
+      "summary": "‘마법 각도’ 그래핀 연구자 등 10명 카블리상 수상&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcmpmV1hna2E2M05BT3o2MTNjdlBULUhFbnpsVUF6Tm4yX2tPM2NWNm05d2VJQVBhQjhHYXozNDNITFpTSzhFOUxPZGVPWGx1TlROcGh0ZUdGUTgyeFZ6ejQwU3Z5M1lUYkZ6Sy0xa0MxUnNpYUV5aVAzQnFmdngyeEF0TQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -30,6 +82,19 @@
       "matched_keywords": []
     },
     {
+      "id": "f2daaa5848b1",
+      "title": "\"스타틴 부작용 우려 과장…조기·지속 복용 공식이 실익 커\"",
+      "published": "2026-06-10T09:04:23+00:00",
+      "summary": "\"스타틴 부작용 우려 과장…조기·지속 복용 공식이 실익 커\"&nbsp;&nbsp;메디칼타임즈Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "메디칼타임즈",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vOTF3Y01QMUZDMW1QX0hKbkNQanV1ZTh5Q3I3WXZTQnBPOVp4VGJvRnRVNkczRm9nbU5lYXJFSmd3ZGRZYkpfVU4yWGJfdklaYktzRW5kaU5IMjZab1hHS0NFNzNnQm9iamk4NkE3WU0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e158ac959064",
       "title": "약사가 짚은 피로 유형별 영양 성분 선택법, “오후형·아침형 다르다”",
       "published": "2026-06-10T08:30:00+00:00",
@@ -38,19 +103,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tQV9IbWpMcW0taVdxRVJSeGNlTWlzTUt1NzJPZUF5ZWtBOXV0bVNtdDRIMjhqTmJXcjBtNmtydWxzckNLaUNfVHl6TXB6Wm1SZW52TVg0YzFIRzJ4cmlOT3k2VUVPUmR0MWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "210beebd5603",
-      "title": "슈퍼박테리아 ‘녹농균’의 항생제 방어막 비밀 풀었다",
-      "published": "2026-06-10T07:03:00+00:00",
-      "summary": "슈퍼박테리아 ‘녹농균’의 항생제 방어막 비밀 풀었다&nbsp;&nbsp;후생신보가톨릭대·성균관대 연구팀, 슈퍼박테리아 녹농균의 항생제 방어막 규명 - 머니투데이&nbsp;&nbsp;머니투데이슈퍼박테리아 ‘녹농균’의 새로운 항생제 내성 기전 규명&nbsp;&nbsp;BRIC슈퍼박테리아 '녹농균' 항생제 방어막 비밀 풀었다&nbsp;&nbsp;의협신문성균관대, 슈퍼박테리아 항생제 내성 기전 규명&nbsp;&nbsp;이데일리",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5JRVdIc2ZTbnhoYTdydUNGdjZ1X1puZHlDMTdIdndsb0FqdHhnMVhkc0FsbXFxT0FmTlJKVmwzdEpoQUxM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -98,7 +150,7 @@
       "id": "377a7aa74c75",
       "title": "“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이? - 크리스찬 뉴스",
       "published": "2026-06-10T05:41:32+00:00",
-      "summary": "“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이?&nbsp;&nbsp;크리스찬 뉴스\"하루 5분이면 충분\"...치매 전문의들이 권하는 뇌 살리는 습관&nbsp;&nbsp;조선일보[복지논단] 치매보다 먼저, 기억을 돌보다&nbsp;&nbsp;대구신문[깡문칼럼] 기억의 안개 속에서 치매와 건망증에 길을 잃지 않기&nbsp;&nbsp;yangpatv.kr“노인, 코딱지도 파지 마라” 뇌 망가뜨리는 뜻밖의 습관&nbsp;&nbsp;미주중앙일보",
+      "summary": "“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이?&nbsp;&nbsp;크리스찬 뉴스\"하루 5분이면 충분\"...치매 전문의들이 권하는 뇌 살리는 습관&nbsp;&nbsp;조선일보“노인, 코딱지도 파지 마라” 뇌 망가뜨리는 뜻밖의 습관&nbsp;&nbsp;미주중앙일보[복지논단] 치매보다 먼저, 기억을 돌보다&nbsp;&nbsp;대구신문[건강 칼럼] 치매 치료, 단순 건망증과 다른 변화 잦다면 시기 놓치지 말아야&nbsp;&nbsp;thefairnews.co.kr",
       "sources": [
         {
           "name": "크리스찬 뉴스",
@@ -124,7 +176,7 @@
       "id": "1fd38adc700d",
       "title": "소화기내과 김나영 교수 50세 미만 여성, 남성보다 위암 생존율 낮다...미만형·진행성 위암 비율 높아",
       "published": "2026-06-10T04:40:00+00:00",
-      "summary": "소화기내과 김나영 교수 50세 미만 여성, 남성보다 위암 생존율 낮다...미만형·진행성 위암 비율 높아&nbsp;&nbsp;로컬세계50세 미만 여성 위암 환자, 남성보다 생존율 낮은 이유··· ‘이것’ 변화가 원인일 수도&nbsp;&nbsp;v.daum.net젊은 여성 위암 환자, 남성보다 예후 나빴다…\"맞춤형 검진 필요\"&nbsp;&nbsp;뉴스150대 미만 여성 위암 환자, 남성보다 생존율 낮아…이유는 ‘이것’ 때문&nbsp;&nbsp;동아일보50세 미만 여성, 남성보다 위암 생존율 낮아…예후 나쁜 '미만형' 발생↑ - 머니투데이&nbsp;&nbsp;머니투데이",
+      "summary": "소화기내과 김나영 교수 50세 미만 여성, 남성보다 위암 생존율 낮다...미만형·진행성 위암 비율 높아&nbsp;&nbsp;로컬세계50세 미만 여성 위암 환자, 남성보다 생존율 낮은 이유··· ‘이것’ 변화가 원인일 수도&nbsp;&nbsp;v.daum.net50세 미만 여성 위암 환자, 남성보다 생존율 낮아&nbsp;&nbsp;동아일보젊은 여성 위암 환자, 남성보다 예후 나빴다…\"맞춤형 검진 필요\"&nbsp;&nbsp;뉴스150세 미만 여성, 남성보다 위암 생존율 낮아…예후 나쁜 '미만형' 발생↑ - 머니투데이&nbsp;&nbsp;머니투데이",
       "sources": [
         {
           "name": "로컬세계",
@@ -150,7 +202,7 @@
       "id": "4e609bb63858",
       "title": "혈액검사만으로 알츠하이머병 진행단계 파악…'치료 황금기'도 예측 가능",
       "published": "2026-06-10T03:06:28+00:00",
-      "summary": "혈액검사만으로 알츠하이머병 진행단계 파악…'치료 황금기'도 예측 가능&nbsp;&nbsp;헬스미디어뉴스“치매 치료, 황금기 언제?”…혈액 한 방울로 예측&nbsp;&nbsp;동아일보혈액검사로 알츠하이머 ‘치료 적기’ 찾는다&nbsp;&nbsp;세계일보피플바이오, 알츠온 플러스 美 FDA 혁신의료기기 지정 신청 완료…“8월 결과 기대”&nbsp;&nbsp;팜이데일리강남세브란스 조한나 교수팀, 혈액 한 방울로 치매 치료 ‘황금기’ 찾는다&nbsp;&nbsp;에너지경제신문",
+      "summary": "혈액검사만으로 알츠하이머병 진행단계 파악…'치료 황금기'도 예측 가능&nbsp;&nbsp;헬스미디어뉴스“치매 치료, 황금기 언제?”…혈액 한 방울로 예측&nbsp;&nbsp;동아일보혈액검사로 알츠하이머 ‘치료 적기’ 찾는다&nbsp;&nbsp;세계일보강남세브란스 조한나 교수팀, 혈액 한 방울로 치매 치료 ‘황금기’ 찾는다&nbsp;&nbsp;에너지경제신문치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "헬스미디어뉴스",
@@ -181,6 +233,19 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rQkZxY3RQa2FESldncGRSVEQtSkhjaThuXzlmUGdOYk1wX2dnMTEyRDNhQ0g1aENZSGFxVDh4endhRHNFUm1sZWtSVDh0aTlPZXB5Q1JvdzFBbXFEdHI2WA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "06d412c0c152",
+      "title": "中 연구진, 돼지 간·신장 동시에 인체 이식…“이식 후 5일간 정상 작동”",
+      "published": "2026-06-10T01:23:45+00:00",
+      "summary": "中 연구진, 돼지 간·신장 동시에 인체 이식…“이식 후 5일간 정상 작동”&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IcWpOZHNBd1hpUjVMMk1idUt3aHVaSjdXZ1ltT3VDNURGbkhpemdzVlRJZ1AtSkhjZURLYV81blFQRlRNSlJEM1BRb3NCdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -277,19 +342,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b9810967fe06",
-      "title": "“맛있지만 위암, 대장암에 최악”… 소화기내과 의사가 피하는 음식 5가지",
-      "published": "2026-06-09T14:07:00+00:00",
-      "summary": "“맛있지만 위암, 대장암에 최악”… 소화기내과 의사가 피하는 음식 5가지&nbsp;&nbsp;코메디닷컴“위 망가뜨린다” 응급의학과 교수가 경고한 ‘흔한 음식’은?&nbsp;&nbsp;헬스조선\"맛있지만 위암, 대장암에 최악\"…소화기내과 의사가 피하는 음식 5가지&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBYdzExTmw1clpWVGRoMTMyQ3F2bTFWYnlNTDJFQ05IekNOS3Jjazl0RDNXeEgtVElqaXlqeVQ2VWVmUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "304044e5b9d9",
       "title": "“몸 이상하다”며 여러 번 병원 찾았는데… 암 퍼진 뒤에야 발견한 女, 무슨 사연?",
       "published": "2026-06-09T14:00:00+00:00",
@@ -298,19 +350,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMaE1BOEVDRjBnTmRSczdSTmFmSVJJNDkzNUVaNExpQnQ3aDFOM1hGLTVOYkVaaWdxbVN2emlkckZzMjd2N0NZU0RjRlZkTkxvR0RlUWctV3U4NGFEa0F0THExVDBxSEZJMjVqcmh1bFNqdlp5UkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "89adeb8b07b6",
-      "title": "콜라겐, 피부만 채우는 게 아니었다… 관절 통증·근력 개선 효과 확인",
-      "published": "2026-06-09T11:30:00+00:00",
-      "summary": "콜라겐, 피부만 채우는 게 아니었다… 관절 통증·근력 개선 효과 확인&nbsp;&nbsp;하이닥“콜라겐, 피부 보습·관절 통증 완화 효과”…113개 임상시험 분석[건강팩트체크]&nbsp;&nbsp;v.daum.net콜라겐 보충제,피부·관절엔 효과, 운동 회복엔 '과대 포장'&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzd2VfWUhCa2E0WmpDUnhHRS1jbFNlZU5zWTI0WUFYZzFHNHFtSEgxNHpLNWF1SmJ0emtmQ3RoMkRBYXVnbGFYdkZHR3k2MXEtQmhIc2F4Y2JGNmpzRnlMQnl0Zk1yR0Q4a1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -329,6 +368,19 @@
       "matched_keywords": []
     },
     {
+      "id": "88ad1db01729",
+      "title": "\"난청 관리가 치매 예방의 시작\"…길병원 이비인후과 선우웅상 교수, \"조기 진단·청각재활 중요\"",
+      "published": "2026-06-09T09:59:51+00:00",
+      "summary": "\"난청 관리가 치매 예방의 시작\"…길병원 이비인후과 선우웅상 교수, \"조기 진단·청각재활 중요\"&nbsp;&nbsp;더퍼스트미디어\"잘 안 들리는 귀가 뇌를 위협\"…치매 예방의 첫걸음은 '난청 치료'&nbsp;&nbsp;v.daum.net난청땐 소음도 안들린다? 더 잘들려서 고통[김규회의 뒤집어보는 상식]&nbsp;&nbsp;문화일보한의학 기반 '한국이명학회' 닻올렸다&nbsp;&nbsp;매일경제“엄마, 이거 잘 안보여?”…시력 저하, 뇌 인지 능력도 떨어뜨린다&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "더퍼스트미디어",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRkxONEVuSGc0bVJlRFJ0Y2tKa2N4RTNqeGljSTUtZUlQYnFFTE9Yd3BVNUV1N3A4VWV3cWljcjFXazJfQXFBMEZkU0ctTG9LU3N3VkszS0p5eWF0YkNKZ1ZPMW5faXR2cTQ4VzB6TXNKUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9d14668e47b3",
       "title": "\"해열제 먹여도 안 내려요\"…눈 충혈되고 고열 지속되면 ‘이 바이러스’ 의심",
       "published": "2026-06-09T08:22:28+00:00",
@@ -337,19 +389,6 @@
         {
           "name": "바이오타임즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rQVJrZjAxWHo5QlNLWFd3dkdrX1Q2dDJIdHQ4TEp2UUc2NGRxZVdpVjVtSHRlLWw3RjNIRmRHSklfcHdjdVNlNnpISm1PdDJ1UkRJQV9LdW1jaDV4MUpNVURVak1NSjhPUGRfcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ff7c31a7b891",
-      "title": "보로노이 \"뇌전이 코호트로 추가 가속승인도 기대…미충족 수요 명확\" - 머니투데이",
-      "published": "2026-06-09T07:33:37+00:00",
-      "summary": "보로노이 \"뇌전이 코호트로 추가 가속승인도 기대…미충족 수요 명확\" - 머니투데이&nbsp;&nbsp;머니투데이",
-      "sources": [
-        {
-          "name": "머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jenJGcVY5QlM5Qkh4dG0xQ3J3ODlMY1pkbi1qOVNIVE5yMW9iUnVnc2M0bDVqY1hFQUR3RWdVUzI1b1JhMlJwbF9yME03ZEdfUi12ZWx2YnUwTVlEZ29TTW5GOUhQaHpEV3fSAW9BVV95cUxNd05sWFJJbUtSSTI2YTVQLWwySEVMWlF1VjJxNERFRjNIZVlJcS1XWFRlMEdnQjM0WElCLU5Iczh1ZWtUd0RzcThXTHc5dUtvRDNJdVZ5R3ZRb0h2UWFlMGUzc0dmSFFSM3BfTVN1Z2M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -433,6 +472,19 @@
       "matched_keywords": []
     },
     {
+      "id": "0017dff01316",
+      "title": "한타바이러스 확진자 퇴원 - 캐나다 한국일보",
+      "published": "2026-06-09T03:22:00+00:00",
+      "summary": "한타바이러스 확진자 퇴원&nbsp;&nbsp;캐나다 한국일보한타바이러스 감염증을 조기에 발견하는 것은 호흡 부전과 신장 손상을 예방하는 데 매우 중요합니다.&nbsp;&nbsp;Vietnam.vn[기획] ‘역대급 치명률’ 한타‧에볼라 확산… K제약바이오, 방역시스템 구축 총력&nbsp;&nbsp;매일일보포천시, 야외활동 증가에 따른 한타바이러스 감염 주의 당부&nbsp;&nbsp;포천매일뉴스美, 한타바이러스 크루즈 승객 24시간 감시&nbsp;&nbsp;한국의약통신",
+      "sources": [
+        {
+          "name": "캐나다 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uWjI2OEh0TEhiQWFncEM3Ukg3b3JSSlB4X2YzTS1IV0xnQktYV2ZTQWhOaE1kMFRQV1VkNkFlbmI0RlZEanhVa0c2WUR1T0ViMm1rMXBHdnV3WDNNQktuMlB4V3p1UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "960685c780e7",
       "title": "바람만 스쳐도 아프다…'통풍성 관절염' 제대로 알고 치료해야",
       "published": "2026-06-09T02:25:09+00:00",
@@ -441,19 +493,6 @@
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NMTVyQjQ4ZzhtY3M0cFZMUng3bExDOElFNUttLTB6Nk9jYi0xcEdFSUYyTWZoWjA1RW5uSDdUVXViSlBDNURIQkkyN0V6WThqR3IxTEhsWnFybEI2SFF6SzFlem1Ub2llUU5kZA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b86660714420",
-      "title": "\"잘 안 들리는 귀가 뇌를 위협\"…치매 예방의 첫걸음은 '난청 치료'",
-      "published": "2026-06-09T02:23:06+00:00",
-      "summary": "\"잘 안 들리는 귀가 뇌를 위협\"…치매 예방의 첫걸음은 '난청 치료'&nbsp;&nbsp;뉴스1Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tUXdEOTQ4WU4zVExSV3RUaHVicnF1V01IVlppZVRqcl9melRpNTNFQ0N4bXpPSVFEYmsteGZ5dVNrZGl5YkpNbmRpQkJsclJYNlYtbA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -506,19 +545,6 @@
         {
           "name": "헬스코리아뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XZ2dSQ2NJXzFUSl8tQVZMZ1A2OFRGd3l6QUI3ZEhlLTR5dGFfZ3NjRkxTeHhudTUycjVPeTc3Q0hzQzk4UHpNekFSWktGRk5iVy1NZFVGOXpKVnlZQmhCS0NaU2hUVXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "54c3dd2c08fa",
-      "title": "[칼럼]100세 시대, 당신의 ‘근육 통장’은 안녕하십니까",
-      "published": "2026-06-08T22:06:51+00:00",
-      "summary": "[칼럼]100세 시대, 당신의 ‘근육 통장’은 안녕하십니까&nbsp;&nbsp;경인신문\"운동 하나면 보약 두 제보다 낫지요\"… 85세 마라토너&nbsp;&nbsp;조선일보\"체중 늘었는데 허벅지는 왜 가늘어질까\"…하체가 보내는 '경고 신호'&nbsp;&nbsp;sportschosun.com남은 수명 좌우하는 ‘다리 힘’…내 하체 근력 점수는?&nbsp;&nbsp;농민신문[수퍼 스트롱] 여든다섯에도 욕심나는 게 있다면 ‘운동화’라오&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "경인신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52UThoYjBWQW1ZTHE1ZWZ6akZHMnlYQmRzcW1FUzFDZUNhbVRnY2NpeG5lRElwTHlfMnkxeThVNHRqcjd0OVZyWWMxcUhQN3ZudW41SXFoQTlZek9SWDV1QUNEbVQzazA?oc=5"
         }
       ],
       "matched_keywords": []
