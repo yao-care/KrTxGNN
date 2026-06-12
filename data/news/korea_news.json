@@ -1,10 +1,106 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-11T20:25:55.385555+00:00",
+  "fetched_at": "2026-06-12T04:17:42.950107+00:00",
   "total_fetched": 80,
   "unique_count": 80,
-  "health_related_count": 46,
+  "health_related_count": 43,
   "news": [
+    {
+      "id": "d43b5a989840",
+      "title": "콜라겐, 피부 보습·관절염엔 확실히 효과 - 뉴스토마토",
+      "published": "2026-06-12T00:45:29+00:00",
+      "summary": "콜라겐, 피부 보습·관절염엔 확실히 효과&nbsp;&nbsp;뉴스토마토피부에 좋다고 먹던 콜라겐, 관절 건강에도 도움&nbsp;&nbsp;헬스조선“콜라겐, 피부 보습·관절 통증 완화 효과”…113개 임상시험 분석[건강팩트체크]&nbsp;&nbsp;v.daum.net콜라겐, 피부만 채우는 게 아니었다… 관절 통증·근력 개선 효과 확인&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "뉴스토마토",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxd284QlAyZjhaVm1UV2FiMUp4eXhuVmhrUl9pcXgzTmJVcmhFRjZRODFzSXJkdDJKWXJiOGlsTGNQajJzblJ0NkIxRkJvOHctVXBXTjJISF9qeGE5S0RKUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d3e125f0bfe",
+      "title": "치매 ‘치료 황금기’ 혈액 한 방울로 찾는다 - 시사저널",
+      "published": "2026-06-12T00:00:23+00:00",
+      "summary": "치매 ‘치료 황금기’ 혈액 한 방울로 찾는다&nbsp;&nbsp;시사저널깜빡하는 치매 전 단계라면?…은행잎추출물 효과 첫 확인&nbsp;&nbsp;매일경제치매 유발하는 뇌 속 악순환 끊는다…스위스 연구진, 새 후보물질 개발&nbsp;&nbsp;네이트[SDG 3] 알츠하이머병의 운명을 가르는 ‘전환점’ 발견&nbsp;&nbsp;SDG뉴스혈액 한 방울로 알츠하이머 ‘치료 황금기’ 찾는다...세브란스병원, 정밀 진단 기준 제시&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "시사저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01ckl6dHZnTkZsa0loT3BYT1QzV1p0eHUycHR0WTRDeEVnLXBHc2pBWlh1cWdqTFB1ZzRZdjBJd0l2VFN5UWh4Yml3dWRNZjgxdS1waG5qeXd6UlhJOS1TbHBwV2dLZk5zMEFzLTZtRdIBc0FVX3lxTE0xTWNqeWVPc2ZxQWprcW1PSkdwMlNJOWc0RWk5UUJyU0Y0QXAyQjlPM3pBajRhcThmMDdQbUxaa2ZVcHkzbDRzMnA4aThmZ0p2bmg0STlKRmZESzF3NUExOW5mUmFHT1BxTGFPS1hmTmpmOGM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c4b3c7124e1",
+      "title": "[초가공식품의 역설 ㊥] 비만부터 치매까지…연구들이 경고하는 이유 - 매경헬스",
+      "published": "2026-06-12T00:00:00+00:00",
+      "summary": "[초가공식품의 역설 ㊥] 비만부터 치매까지…연구들이 경고하는 이유&nbsp;&nbsp;매경헬스왜 뜯으면 멈출 수가 없을까…감자칩, 담배 수준 중독성 있었다&nbsp;&nbsp;v.daum.net“제로라길래 맘껏 먹었더니”…초가공식품, 골라먹어도 성인병 걸렸다&nbsp;&nbsp;매일경제콜라·햄·라면 입에 달고 살면…치매 위험 최대 58% 증가[노화설계]&nbsp;&nbsp;동아일보[아침마다 지혜 #383] 끊기 어렵게 설계된 가공식품, 그 뿌리에 담배 회사가 있었습니다&nbsp;&nbsp;캐어유 뉴스",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LRW95RGs4VkFQRnB5MTVwNUlHNkNhYXJlZ2tXaUZ2eWpmaF84cG1ZLWc2QzZEWFduczR6SkxvUWdnbml3dzd2ZkFldWpfalFxOU9RWHFnY3BiWE5xQ1lrUkdvOUtCblFLMDJieA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2afa38301ee5",
+      "title": "[전문의 칼럼] 예방 가능한 치매 위험 요인 1위, 난청 - 에너지경제신문",
+      "published": "2026-06-11T23:23:25+00:00",
+      "summary": "[전문의 칼럼] 예방 가능한 치매 위험 요인 1위, 난청&nbsp;&nbsp;에너지경제신문보청기 이용한 청력 재활, 치매 위험 유의미하게 낮춰&nbsp;&nbsp;네이트\"잘 안 들리는 귀가 뇌를 위협\"…치매 예방의 첫걸음은 '난청 치료'&nbsp;&nbsp;v.daum.net난청땐 소음도 안들린다? 더 잘들려서 고통[김규회의 뒤집어보는 상식]&nbsp;&nbsp;문화일보노쇠·근감소증, 치매 위험 높인다···뇌에 미치는 영향은 달라&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dkRkZkxHM25BTmlySGNudU1IaWVEc1N2OHp0aUNUU1VaYVk4Z2FWakt3aXVQVVl3b1UxN2xkbGJqcFVwT2N4ZzN5aUpPZXU5VDFvMmhRTDg0Um8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "476689b045c3",
+      "title": "중장년 허벅지 근육 감소, 당뇨병과 무릎 통증 위험 높인다 - 이데일리",
+      "published": "2026-06-11T22:22:03+00:00",
+      "summary": "중장년 허벅지 근육 감소, 당뇨병과 무릎 통증 위험 높인다&nbsp;&nbsp;이데일리‘근력운동 4종’ 하루에 4분…걷기 힘든 노인들 확 달라졌다[노화설계]&nbsp;&nbsp;동아일보[헬스 플러스+] “계단 내려가기, 노년기 하체 근력 향상 도움”&nbsp;&nbsp;v.daum.net“이 나이에 무슨” 포기 말고, 근육 키웁시다… 추천 운동은?&nbsp;&nbsp;헬스조선거의 안 움직였던 평균 74세…하루 4분 운동, 12주 뒤 몸이 달라졌다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlpMQXp4eVIwNEExck9jUWdDcVFacUNEdXYwZWtWcFpPYnFaVGxvcG9fdkptTUtyU3ViNGpfbVB5Q0F2VWFfZ01HMWNMNHVLTXZyNTVidUJGUFo0Y0loeTlqUzJ1RkZiM0tfb3lCN1RGY0xQS1RDX3FmSVdIQkJsbg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a738af619091",
+      "title": "웰니스 열풍에 자가검사 트렌드 안착…체외진단 기업 눈길 - v.daum.net",
+      "published": "2026-06-11T22:06:01+00:00",
+      "summary": "웰니스 열풍에 자가검사 트렌드 안착…체외진단 기업 눈길&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16bjFZT3RXRVVmSWgtM0xMTjhPZUx1cVpTYzVIUC1hVW90c0lsWWo0NVVkc0QxVDdiNTF6OENoZFRtZkxQdmJNNEF2VjNaTUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "00601b2d2e12",
+      "title": "“암인 줄 알고 식겁”…밤에 땀 많이 흘리고 어지럽던 40대女, 뜻밖의 원인은? - 코메디닷컴",
+      "published": "2026-06-11T21:09:00+00:00",
+      "summary": "“암인 줄 알고 식겁”…밤에 땀 많이 흘리고 어지럽던 40대女, 뜻밖의 원인은?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wcjRBT1B6V1lIdzFJb1JjeW1OUXNPaUVYVFdoRlVOSVpFMnZjc2QzMTdkSUlDUzh4NE5SSzNHcmdOQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a69d006a74c",
+      "title": "“HPV 양성이라고 모두 암은 아니다”…자궁경부암 검진, ‘정밀 분별’ 시대로 - 약업신문",
+      "published": "2026-06-11T21:01:00+00:00",
+      "summary": "“HPV 양성이라고 모두 암은 아니다”…자궁경부암 검진, ‘정밀 분별’ 시대로&nbsp;&nbsp;약업신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "약업신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GLXNWRVJQTFFlY2laVGFOaDZ2bzROZklZcFg2eThsSlhzY3cxc3BhUk9ZVjFiNFhYX0JWWGRiUkNMUVBoTFJKV2JZQjhIOWFoYy12WURWWklyZGVqM2lDVGxoLWlzRDVUZFRDTGFyZ3JaUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "96835f532b7d",
       "title": "“콜레스테롤 오히려 감소” 달걀 매일 먹으면 좋아… 몇 개? - 헬스조선",
@@ -30,6 +126,18 @@
       ]
     },
     {
+      "id": "93990563817b",
+      "title": "[여성위암 예후] 분당서울대병원 소화기내과 김나영 교수 50세 미만 여성, 남성보다 위암 생존율 낮다 - 서울뉴스통신",
+      "published": "2026-06-11T13:07:34+00:00",
+      "summary": "[여성위암 예후] 분당서울대병원 소화기내과 김나영 교수 50세 미만 여성, 남성보다 위암 생존율 낮다&nbsp;&nbsp;서울뉴스통신50대 미만 여성 위암 환자, 남성보다 생존율 낮아…이유는 ‘이것’ 때문&nbsp;&nbsp;동아비즈니스리뷰 | DBR위암=남성암? 젊은 여성에게 생기면 더 무섭다&nbsp;&nbsp;서울경제젊은 여성 위암 환자, 남성보다 예후 나빴다…\"맞춤형 검진 필요\"&nbsp;&nbsp;뉴스150세 미만 여성, 남성보다 위암 생존율 낮다&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JTUEzbk5CNVFYZl9KdENOR2ktcFJkWlNudzdMQ2I2SUFjcFUtNVRBYTJrZHBrNlVESENYVVlOczhGOERJMEh1X0dERVA1ZkozV2NKRjBlUUJUX3hfWjdtMW9adG5pYVVocVFz?oc=5"
+        }
+      ]
+    },
+    {
       "id": "46b3bbc2954f",
       "title": "시험기간 필수템 '에너지드링크' 주의보...“잠 깨려다 건강 잃는다?” - ppss.kr",
       "published": "2026-06-11T09:20:00+00:00",
@@ -38,6 +146,18 @@
         {
           "name": "ppss.kr",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xWU15NkZZUGNjS05CNTZDYTJFN0ZLNXNpUWJlSGpEYjR5MEpGSHY0dUsxWnVwTl92WGZrVGpjMGFJXzY4QmoxWnpORHZJTXRoa0htVWNmUEJOcVFzS0dhUk94X2Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e31574728b42",
+      "title": "여름철 더 붓는 팔과 손…유방암 수술 후 ‘림프부종’ 복병 - 스포츠월드",
+      "published": "2026-06-11T09:16:31+00:00",
+      "summary": "여름철 더 붓는 팔과 손…유방암 수술 후 ‘림프부종’ 복병&nbsp;&nbsp;스포츠월드",
+      "sources": [
+        {
+          "name": "스포츠월드",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sTjF3cUVGVjNMZ3ByUHVUSmo0ak02azRLS2lVNDBGMm12bFg4b3VJLURhTThGUjJkZmRYM05JRjk5WG1SN3BIODdhWU91TjZwXzNEbldtNUVaMV96R21xZmtn?oc=5"
         }
       ]
     },
@@ -57,7 +177,7 @@
       "id": "7866c59a2592",
       "title": "“낮잠 잦으면 치매 위험↑”... 美 연구팀, 수면 습관∙치매의 숨은 연결고리 밝혀 - 하이닥",
       "published": "2026-06-11T08:30:00+00:00",
-      "summary": "“낮잠 잦으면 치매 위험↑”... 美 연구팀, 수면 습관∙치매의 숨은 연결고리 밝혀&nbsp;&nbsp;하이닥불면증이 치매로? 81세 노인, 잠결 아내에게 폭력까지…공포의 수면장애 (명의) - 조선비즈&nbsp;&nbsp;Chosunbiz뇌 노화 늦추는 최적 수면 시간은?… 여성 6.5~7.8시간, 남성 6.4~7.7시간&nbsp;&nbsp;v.daum.net잠도 ‘과유불급’… 너무 적게 자도, 너무 오래 자도 몸은 빨리 늙는다&nbsp;&nbsp;콜로라도 타임즈잠 부족·불면·낮잠 잦으면 뇌 노화 가속…치매 위험 높이는 수면 습관 확인&nbsp;&nbsp;네이트",
+      "summary": "“낮잠 잦으면 치매 위험↑”... 美 연구팀, 수면 습관∙치매의 숨은 연결고리 밝혀&nbsp;&nbsp;하이닥많이 잔다고 좋은 게 아니었다…노화 늦추는 수면시간 따로 있었네&nbsp;&nbsp;매일경제불면증이 치매로? 81세 노인, 잠결 아내에게 폭력까지…공포의 수면장애 (명의) - 조선비즈&nbsp;&nbsp;Chosunbiz[Health for CEO] '수면장애의 경고' 치매·파킨슨병 위험 32% 높았다&nbsp;&nbsp;네이트이유진 교수 “수면장애 방치하면 치매 위험 커진다”… EBS 명의, 불면증·수면무호흡증·렘수면행동장애의 경고&nbsp;&nbsp;한국강사신문",
       "sources": [
         {
           "name": "하이닥",
@@ -86,30 +206,6 @@
         {
           "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5acERsMDdVMDJOR3FwRXZjNTlydWVpb0dFRXk2UDFWallyejVQOGRudmJyb3laNHpSNk9uNnBEZndFaURROVl6X2ZKb1IyV2pWcmhGZ092bGtsRzZhNmMwUUNreUc3TGV4RXlmRElR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6e6050355b2",
-      "title": "구인두암 부르는 HPV 감염… \"입속 작은 변화도 간과해선 안 돼\" - 하이닥",
-      "published": "2026-06-11T06:30:00+00:00",
-      "summary": "구인두암 부르는 HPV 감염… \"입속 작은 변화도 간과해선 안 돼\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BWU1pTkRGd0RnZUZuT2NlSzJlb0NTZFpaVi1VUnQwZTJKTnIxSGw5VnJSdjVwRzZlTmVsTW1Dcl9BaFpBUEo5MGtiYVd3b0ltRE9JT1lheWs5TlRZWFotZlB5TGFoMzM0WGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "96973e4d6e37",
-      "title": "\"위암도 종류가 다르다\"…젊은 여성에게 많은 '미만형 위암' - 매경헬스",
-      "published": "2026-06-11T05:25:00+00:00",
-      "summary": "\"위암도 종류가 다르다\"…젊은 여성에게 많은 '미만형 위암'&nbsp;&nbsp;매경헬스50세 미만 여성, 남성보다 위암 생존율 낮다&nbsp;&nbsp;v.daum.net50세 미만 여성 위암 환자, 남성보다 생존율 낮아&nbsp;&nbsp;동아일보젊은 여성 위암 환자, 남성보다 예후 나빴다…\"맞춤형 검진 필요\"&nbsp;&nbsp;뉴스150세 미만 여성 위암 환자, 남성보다 생존율 낮은 이유··· ‘이것’ 변화가 원인일 수도&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OTmlaQjNleURBRDY0UFF2OHFFam5KTHFNSEV0US1zLXN6N2EtMWhHbXVnSzBMQV9QbWJjUndjcV9YRWJHT3dfd01ZQnp0dE5hYnQtYWluQl9ZdXhQcUFuaTl6WlVrWWloWVRXVQ?oc=5"
         }
       ]
     },
@@ -150,18 +246,6 @@
       ]
     },
     {
-      "id": "b8269aa9fc95",
-      "title": "고혈압·당뇨병 따로 봤는데… 미국서 진료 방식 바꾼 이유 - 헬스조선",
-      "published": "2026-06-11T04:30:00+00:00",
-      "summary": "고혈압·당뇨병 따로 봤는데… 미국서 진료 방식 바꾼 이유&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzY0RtcG9KcGFTeE40TEYzb3psd2ZjYjBhRnRULUV4ejhBRjdmNWxOZ29iVHlwcWVOMGE4OGdzRm5qQktFbmFQZmNwazRBcXU2OTJtNU04bDVLMlU2SmNUalpwLVlaRDlVS29LTXZpODkzaGJkVWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7ce252f6acd3",
       "title": "“외모, 지능? 원하는 아기로 낳으세요”…발전하는 ‘유전자 교정’과 논란 - 한겨레",
       "published": "2026-06-11T04:16:00+00:00",
@@ -198,14 +282,38 @@
       ]
     },
     {
+      "id": "81f57016e66e",
+      "title": "\"장 염증 안 잡히는 이유 있었네\" 크론병·궤양성 대장염'새 원인 발견 - 약사공론",
+      "published": "2026-06-11T03:00:00+00:00",
+      "summary": "\"장 염증 안 잡히는 이유 있었네\" 크론병·궤양성 대장염'새 원인 발견&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fYkg3ZmVsZEdKVDNudWxuTmxweVF5dWlnTm5zNFlNWXBsOVhPUnVicWZ4elhPRDJ6akRscEtsN2FPV3lyUzdaRTJfcWpUZGhvajgyYnZBNkhGeThlYTVmYlNDcGswMnBuYUxpYg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d0de5c1cbf59",
       "title": "[생할] 5개월 만에 뎅기열 환자 5만 명 돌파…기존 패턴 파괴하며 '예측 불가' 확산 - 굿모닝베트남미디어",
       "published": "2026-06-11T02:59:34+00:00",
-      "summary": "[생할] 5개월 만에 뎅기열 환자 5만 명 돌파…기존 패턴 파괴하며 '예측 불가' 확산&nbsp;&nbsp;굿모닝베트남미디어뎅기바이러스 백신 및 치료제 연구 동향&nbsp;&nbsp;BRIC푸투엉은 우기 동안 질병 발생을 적극적으로 예방합니다.&nbsp;&nbsp;Vietnam.vn2030년까지 뎅기열 사망자 수 0명 달성을 목표로 함&nbsp;&nbsp;Vietnam.vn뎅기열 조기 경고: 이 질병은 어린이에게만 흔한 것이 아닙니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[생할] 5개월 만에 뎅기열 환자 5만 명 돌파…기존 패턴 파괴하며 '예측 불가' 확산&nbsp;&nbsp;굿모닝베트남미디어뎅기바이러스 백신 및 치료제 연구 동향&nbsp;&nbsp;BRIC뎅기열은 예측하기 어렵고 전통적인 방법으로는 예방할 수 없습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 조기 경고: 이 질병은 어린이에게만 흔한 것이 아닙니다.&nbsp;&nbsp;Vietnam.vn2030년까지 뎅기열 사망자 수 0명 달성을 목표로 함&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "굿모닝베트남미디어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rSlFBaVBOMExMNVZBbXFtX0x2M1JtaHMwWEJwZ3NOeThKY2tTNmxpMW9ReDVXRzJ5VUVySmhKVGxhU0tNNTFXRWJ3ZkNId1Ryc1pVeDdYal9zSE51TTRrNDhmZVRja0c1RUthTEpQaFI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "280019373aeb",
+      "title": "한국뇌연구원, 알츠하이머 조절 기전 규명 - 경북신문",
+      "published": "2026-06-11T02:24:12+00:00",
+      "summary": "한국뇌연구원, 알츠하이머 조절 기전 규명&nbsp;&nbsp;경북신문알츠하이머 '3대 병리' 동시에 잡았다…국내 연구진, 치료 기전 규명[과학을읽다]&nbsp;&nbsp;v.daum.net젬백스 \"알츠하이머 치료제 GV1001 새 작용기전 규명…국제학술지 게재\"&nbsp;&nbsp;이투데이젬백스 GV1001, 알츠하이머병 주요 작용 경로 규명…국제 학술지 'EMM' 최신호 게재 - 머니투데이&nbsp;&nbsp;머니투데이한국뇌연구원, 인슐린수용체 억제제로 알츠하이머 질병 조절 기전 규명&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "경북신문",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WMDFoV0JEWkNIUkNjSHRxRjEwSW4xU2lVeHhIRGFGc0V1WlU0US1zWnJvTHdHQ3AtektzM2d2RkFnN001dmZrSjEzY0tVTU9wUkpSSzBiN2E?oc=5"
         }
       ]
     },
@@ -258,22 +366,10 @@
       ]
     },
     {
-      "id": "0587846ed684",
-      "title": "한국뇌연구원, 인슐린수용체 억제제로 알츠하이머 질병 조절 기전 규명 - 전자신문",
-      "published": "2026-06-11T00:10:43+00:00",
-      "summary": "한국뇌연구원, 인슐린수용체 억제제로 알츠하이머 질병 조절 기전 규명&nbsp;&nbsp;전자신문알츠하이머 '3대 병리' 동시에 잡았다…국내 연구진, 치료 기전 규명[과학을읽다]&nbsp;&nbsp;v.daum.net인슐린수용체 억제제로 알츠하이머 질병 조절 기전 규명&nbsp;&nbsp;BRIC젬백스 GV1001, 알츠하이머 원인물질 치우는 ‘뇌 청소부’ 깨웠다…핵심 작용기전 규명&nbsp;&nbsp;팜이데일리젬백스 \"알츠하이머 치료제 GV1001 새 작용기전 규명…국제학술지 게재\"&nbsp;&nbsp;이투데이",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOR0hCMFFSZkZYeUJNZTlhNXo1RWpzazAyV2dZR0dicXZfSkFyQ0pBNVg1Zy1NU2pjNDZqYXdGM05iQTUwc01Jd1JMQm9QZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fac4f8914a49",
       "title": "‘이런 음료’ 많이 마시다간 간암 위험 ‘쑥’…간에 좋은 식품 vs 나쁜 식품 - 코메디닷컴",
       "published": "2026-06-11T00:07:00+00:00",
-      "summary": "‘이런 음료’ 많이 마시다간 간암 위험 ‘쑥’…간에 좋은 식품 vs 나쁜 식품&nbsp;&nbsp;코메디닷컴“가당 콜라·사이다는 간암 위험↑…제로음료는 연관성 확인 안 돼” [건강팩트체크]&nbsp;&nbsp;v.daum.net간암 치료, 종양만 줄이는 시대 끝났다… 핵심은 ‘간 기능 유지’&nbsp;&nbsp;동아일보술도 안마시는데 내가 간암?…원인은 '이것' 때문&nbsp;&nbsp;파이낸셜뉴스\"젊다고 방심 금물\"…지방간 되돌린 의사의 생활습관&nbsp;&nbsp;네이트",
+      "summary": "‘이런 음료’ 많이 마시다간 간암 위험 ‘쑥’…간에 좋은 식품 vs 나쁜 식품&nbsp;&nbsp;코메디닷컴“가당 콜라·사이다는 간암 위험↑…제로음료는 연관성 확인 안 돼” [건강팩트체크]&nbsp;&nbsp;동아일보간암 치료, 종양만 줄이는 시대 끝났다… 핵심은 ‘간 기능 유지’&nbsp;&nbsp;v.daum.net술도 안마시는데 내가 간암?…원인은 '이것' 때문&nbsp;&nbsp;파이낸셜뉴스'이런 음료' 많이 마시다간 간암 위험 '쑥'…간에 좋은 식품 vs 나쁜 식품&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -297,7 +393,7 @@
       "id": "3b52e2635842",
       "title": "\"약만 먹으면 되는 병 아닙니다\"…14만 파킨슨병 환자들 '사각지대' - 네이트",
       "published": "2026-06-10T20:00:00+00:00",
-      "summary": "\"약만 먹으면 되는 병 아닙니다\"…14만 파킨슨병 환자들 '사각지대'&nbsp;&nbsp;네이트“약만 먹으면 되는 병 아닙니다”…14만 파킨슨병 환자들 ‘사각지대’&nbsp;&nbsp;v.daum.net“파킨슨병, 진단받아도 끝 아냐…혈압·당뇨처럼 관리하는 시대 온다”&nbsp;&nbsp;이투데이[전문의 칼럼] 기억을 잃기엔 너무 이른 나이…‘조기 발병 알츠하이머병’&nbsp;&nbsp;에너지경제신문\"올바른 인식 개선 절실\"…윤정한 교수 \"파킨슨병 오해부터 풀어야\"&nbsp;&nbsp;네이트",
+      "summary": "\"약만 먹으면 되는 병 아닙니다\"…14만 파킨슨병 환자들 '사각지대'&nbsp;&nbsp;네이트“약만 먹으면 되는 병 아닙니다”…14만 파킨슨병 환자들 ‘사각지대’&nbsp;&nbsp;v.daum.net“파킨슨병, 진단받아도 끝 아냐…혈압·당뇨처럼 관리하는 시대 온다”&nbsp;&nbsp;이투데이\"올바른 인식 개선 절실\"…윤정한 교수 \"파킨슨병 오해부터 풀어야\"&nbsp;&nbsp;네이트파킨슨병 관리, 운동·생활습관 함께 살펴야&nbsp;&nbsp;비건뉴스",
       "sources": [
         {
           "name": "네이트",
@@ -330,50 +426,14 @@
       ]
     },
     {
-      "id": "9595b79b3867",
-      "title": "피부에 좋다고 먹던 콜라겐, 관절 건강에도 도움 - 헬스조선",
-      "published": "2026-06-10T15:01:00+00:00",
-      "summary": "피부에 좋다고 먹던 콜라겐, 관절 건강에도 도움&nbsp;&nbsp;헬스조선“콜라겐, 피부 보습·관절 통증 완화 효과”…113개 임상시험 분석[건강팩트체크]&nbsp;&nbsp;v.daum.net콜라겐, 피부만 채우는 게 아니었다… 관절 통증·근력 개선 효과 확인&nbsp;&nbsp;하이닥",
+      "id": "8fc4aebfa305",
+      "title": "KMI 건강검진 빅데이터, 근력운동 포함 규칙적인 신체활동 실천하면 만성질환 ↓ 外 ​​​ - 의약뉴스",
+      "published": "2026-06-10T10:28:49+00:00",
+      "summary": "KMI 건강검진 빅데이터, 근력운동 포함 규칙적인 신체활동 실천하면 만성질환 ↓ 外 ​​​&nbsp;&nbsp;의약뉴스근력운동 포함 집단, 대사증후군 유병률 16%…유산소운동보다 낮아&nbsp;&nbsp;쿠키뉴스\"일주일에 딱 2시간만\"…근력운동 시 조기사망 위험 58% 감소 - 머니투데이&nbsp;&nbsp;머니투데이KMI 건강검진 빅데이터, 근력운동 포함 규칙적인 신체활동 실천하면 만성질환 ↓&nbsp;&nbsp;의약뉴스“치매 위험 낮추려면 중년부터 뛰어라”...40~65세, 운동 효과 ‘최적기’&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pcHF2MWtJcW02YnNtNVlheGhNM1YtZFVNYVRUQUw1LTI1am1HX0Z5MmV2ckJacldVQkJoR3Z4ZGF4N0hWQWxubDd4VnhybnU5MmdEU3NkZnc4bl9SY3d1SXZOeTZ2NUZMV3VJaU81ckNoMzU1U1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5cab08a99050",
-      "title": "‘제2의 노벨상’ 주인공은 그래핀 연구자 등 10명 - 조선일보",
-      "published": "2026-06-10T14:04:00+00:00",
-      "summary": "‘제2의 노벨상’ 주인공은 그래핀 연구자 등 10명&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcmpmV1hna2E2M05BT3o2MTNjdlBULUhFbnpsVUF6Tm4yX2tPM2NWNm05d2VJQVBhQjhHYXozNDNITFpTSzhFOUxPZGVPWGx1TlROcGh0ZUdGUTgyeFZ6ejQwU3Z5M1lUYkZ6Sy0xa0MxUnNpYUV5aVAzQnFmdngyeEF0TQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "15ddfaa24d98",
-      "title": "[복지논단] 치매보다 먼저, 기억을 돌보다 - 대구신문",
-      "published": "2026-06-10T12:16:06+00:00",
-      "summary": "[복지논단] 치매보다 먼저, 기억을 돌보다&nbsp;&nbsp;대구신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "대구신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOYUdYeGpBQ1ZjejBLQnkwa1ZzMWRQMmdDOUJ5a3lic0NpTWdLM0FCNjhwOTBQMnltS0FxbmFLazAxSlhFWmpjXzZhanZGUFVFZlRXQURPbl9tSXB5Sm1wcUhhQXpRbTlaYlk4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b128b373cfb4",
-      "title": "청주 SK하이닉스 화학물질 추정 접촉 사고…2명 병원이송 - 조선일보",
-      "published": "2026-06-10T10:52:00+00:00",
-      "summary": "청주 SK하이닉스 화학물질 추정 접촉 사고…2명 병원이송&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGU1b3IxYlZ6RXBTUmVPbUVLdkRKQ2dlMVBmNGFBMzRLd2pCa0NPTlZndEtXclM0OE1qdXpFSjRYaURUUnpJNUoxclFlNzRFbkl3Rk82djJGQzFPbzVnRWkybVFFMmlOd01pMnoySFVMQjRQQ1lUaWZjVFhMbktwV2hCV3o5M0VXQ0J0aHNHUFJONVJFQVE?oc=5"
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10UmQwd3l4c1Vnd3lMUHREdEMybXdMYV80ajE2cDAxQnhmcjh4azBBNkpLdzdnbnRRNVpLZlFfaEZPVXRrTVhWUU9WbURoU0lpUzZqclNGMkN2OFZWMVh2VDR4VEM3NE0?oc=5"
         }
       ]
     },
@@ -393,7 +453,7 @@
       "id": "ece1a4f33ea6",
       "title": "[깡문칼럼] 기억의 안개 속에서 치매와 건망증에 길을 잃지 않기 - yangpatv.kr",
       "published": "2026-06-10T09:55:39+00:00",
-      "summary": "[깡문칼럼] 기억의 안개 속에서 치매와 건망증에 길을 잃지 않기&nbsp;&nbsp;yangpatv.krGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "[깡문칼럼] 기억의 안개 속에서 치매와 건망증에 길을 잃지 않기&nbsp;&nbsp;yangpatv.kr[전문의 칼럼] 기억을 잃기엔 너무 이른 나이…‘조기 발병 알츠하이머병’&nbsp;&nbsp;에너지경제신문\"하루 5분이면 충분\"...치매 전문의들이 권하는 뇌 살리는 습관&nbsp;&nbsp;조선일보“노인, 코딱지도 파지 마라” 뇌 망가뜨리는 뜻밖의 습관&nbsp;&nbsp;미주중앙일보“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이?&nbsp;&nbsp;크리스찬 뉴스",
       "sources": [
         {
           "name": "yangpatv.kr",
@@ -402,14 +462,14 @@
       ]
     },
     {
-      "id": "64d8f865173b",
-      "title": "정신 건강에 좋은 음식 5가지… \"우울증·불안장애 위험 낮춘다\" - 하이닥",
-      "published": "2026-06-10T09:00:00+00:00",
-      "summary": "정신 건강에 좋은 음식 5가지… \"우울증·불안장애 위험 낮춘다\"&nbsp;&nbsp;하이닥뇌 건강에 좋은 음식 5가지… \"치매·알츠하이머 위험 낮춘다\"&nbsp;&nbsp;하이닥깜빡하는 기억력은 단순 노화?… ‘혈관’이 보내는 경고일수도&nbsp;&nbsp;동아일보“음식이 뇌를 바꾼다” 꾸준히 먹으면 좋은 식품 15가지&nbsp;&nbsp;헬스조선\"그게 뭐더라\" 흔한 건망증?…방치했다간 두뇌 기능 저하&nbsp;&nbsp;네이트",
+      "id": "2a6df19d1db0",
+      "title": "SK하이닉스서 유독화학물질 추정 액체 접촉…2명 병원 이송 - 강원도민일보",
+      "published": "2026-06-10T09:37:02+00:00",
+      "summary": "SK하이닉스서 유독화학물질 추정 액체 접촉…2명 병원 이송&nbsp;&nbsp;강원도민일보",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40VUxlelRTQXFTbDlPT2N2Zkl4c001NzVXTDNTUlp1Q3NLYnZ1ZDVrbzlQTzZESHJuWUw4TkJFSjZNM01hVS12VUd1OVRhVWR2MmN1RE9rZ2VVUzAtRVBWS2t1dEc3WVNFSUE?oc=5"
+          "name": "강원도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weHJWejdLVEZLekdqNFRDZHVBRW5NMmFjdmFreGV5Tl82aGp4TkF1V0U4dDdOcW53VHNQUW1vaXozTnRKTnRBNUIzdmhWYUdkcXlORUxyVjFOOEpZckZFRTRwTGljMkk?oc=5"
         }
       ]
     },
@@ -438,18 +498,6 @@
       ]
     },
     {
-      "id": "4add5d1bbcc0",
-      "title": "[에듀플러스]성균관대, 슈퍼박테리아 '녹농균'의 새로운 항생제 내성 기전 규명 - 전자신문",
-      "published": "2026-06-10T05:16:27+00:00",
-      "summary": "[에듀플러스]성균관대, 슈퍼박테리아 '녹농균'의 새로운 항생제 내성 기전 규명&nbsp;&nbsp;전자신문성균관대·가톨릭대 연구진, 녹농균 항생제 내성 비밀 규명&nbsp;&nbsp;뉴시스가톨릭대·성균관대 연구팀, 슈퍼박테리아 녹농균의 항생제 방어막 규명 - 머니투데이&nbsp;&nbsp;머니투데이슈퍼박테리아 ‘녹농균’의 새로운 항생제 내성 기전 규명&nbsp;&nbsp;BRIC가톨릭대-성균관대 공동 연구팀, 슈퍼박테리아 ‘녹농균’의 항생제 방어막 비밀 풀었다&nbsp;&nbsp;E동아",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zaW95UnQ2ZF9YNndSczgwRVJ2QUpOZ3plMWdHalFsMlNUb25fcG1JVC14VFRZOThMbEhJckx2M2NtZ0hfQW9hRG81R3JHQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "00e640a5f9d5",
       "title": "“노화세포를 젊게” 세계 첫 ‘회춘약’ 임상시험 들어갔다 - 동아일보",
       "published": "2026-06-10T05:07:00+00:00",
@@ -462,66 +510,6 @@
       ]
     },
     {
-      "id": "4e609bb63858",
-      "title": "혈액검사만으로 알츠하이머병 진행단계 파악…'치료 황금기'도 예측 가능 - 헬스미디어뉴스",
-      "published": "2026-06-10T03:06:28+00:00",
-      "summary": "혈액검사만으로 알츠하이머병 진행단계 파악…'치료 황금기'도 예측 가능&nbsp;&nbsp;헬스미디어뉴스깜빡하는 치매 전 단계라면?…은행잎추출물 효과 첫 확인&nbsp;&nbsp;매일경제“치매 치료, 황금기 언제?”…혈액 한 방울로 예측&nbsp;&nbsp;동아일보강남세브란스 조한나 교수팀, 혈액 한 방울로 치매 치료 ‘황금기’ 찾는다&nbsp;&nbsp;에너지경제신문치매 유발하는 뇌 속 악순환 끊는다…스위스 연구진, 새 후보물질 개발&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "헬스미디어뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBibDB1Y2t3cGl1S3BnMHR0VVYxTmQ2a1FQV2xnd1EwVlJ2WlFobWxmOWNYWV9CSjAtdWItU2ZoY2JTSGttSXZTTzFqUUtxRXEwMWxNOU56cU9mbWd1cVVpLTRuYUZUdEZpd0hGMjhyNlRVZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf079fb7fdeb",
-      "title": "\"아빠의 '친근한 뱃살', 귀엽게 볼 일 아니네\"…자녀 비만 위험 키운다 - 네이트",
-      "published": "2026-06-10T01:42:00+00:00",
-      "summary": "\"아빠의 '친근한 뱃살', 귀엽게 볼 일 아니네\"…자녀 비만 위험 키운다&nbsp;&nbsp;네이트“아빠의 ‘친근한 뱃살’, 귀엽게 볼 일 아니네”… 자녀 비만 위험 키운다&nbsp;&nbsp;v.daum.net“아빠의 살이 아이 대사 건강 망친다” 임신 전 비만도 영향&nbsp;&nbsp;헬스조선임신 중 섭취한 채소, 아이 거부감 낮추는 데 도움…연구&nbsp;&nbsp;네이트“출산 준비는 엄마만의 몫이 아니다”…예비아빠 건강관리의 중요성 주목&nbsp;&nbsp;웨딩TV",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rQkZxY3RQa2FESldncGRSVEQtSkhjaThuXzlmUGdOYk1wX2dnMTEyRDNhQ0g1aENZSGFxVDh4endhRHNFUm1sZWtSVDh0aTlPZXB5Q1JvdzFBbXFEdHI2WA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bad206dc6976",
-      "title": "김예림 교수, 허혈성 뇌졸중 원인 규명 단서 제시 - 병원신문",
-      "published": "2026-06-10T00:03:28+00:00",
-      "summary": "김예림 교수, 허혈성 뇌졸중 원인 규명 단서 제시&nbsp;&nbsp;병원신문",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03NGJHSWJFQmhJcnprVFZRQkxsZDJDNVJtWm1vci03SGhUV2FWTU5yWVBqUU9kXzUxQlEtaFMwdzd0U0RNT2YzZFpZeU5RMWhDV2JZS1ZPR3FYY3dHR2swWHF5YzVIYVl5RWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0e3a27f9a9d",
-      "title": "밤샘·야근·복부비만, 이 암과 연결고리? - 조세일보",
-      "published": "2026-06-09T22:47:09+00:00",
-      "summary": "밤샘·야근·복부비만, 이 암과 연결고리?&nbsp;&nbsp;조세일보5세 미만 대장서 돌연변이…50세 미만 암 급증 원인 '오리무중'&nbsp;&nbsp;v.daum.net젊은 암 환자 왜 늘까…美 연구진이 주목한 ‘불면증’&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Lc0xablNUTUdQMm5CTXlVN201VVVXRy1KWFh5OHhGVVAtb3JUdlkxZEhyMGpvUGRubUZEdnBsdkdzRkxRU1JQWHk0dFBLUHNVd3FBd0VIMkFtTTlJbU9ERVU3ZkliMTM4RWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d2fe9a56be9",
-      "title": "매일 소화제 달고 산다면?... 위장 건강 개선하는 식습관 6가지 - 하이닥",
-      "published": "2026-06-09T22:00:00+00:00",
-      "summary": "매일 소화제 달고 산다면?... 위장 건강 개선하는 식습관 6가지&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTTU4aHZJbEVPazRPQ0NPSXk4VjRzd093dGlPR0w2NklCdXFsYWs0cFZOSGl6al9TVUpZb0h3dFZwcVhySWpFaGIxdDJxR0gtTXlGMjh1dWtHdl9SQWxzUktzcnFTdXBhemc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "18822d672523",
       "title": "DGIST-MIT 공동연구팀, AI 자율주행 국제대회 1위 - 조선일보",
       "published": "2026-06-09T06:04:24+00:00",
@@ -530,30 +518,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUtMa0U3bU9aandyRGxteGZyT21EdmtPVllPQ2Z2bmRlRDRVbjBmLVNneFI0eVlfSDlTXzNJXzZPcVZzVTNFZF9UbVFMaHJsRWJfWHdiSDEwU0lsOXYycGtpUWpHNHRvS3ZPVEprM3lZbmoxS1JoTmJseGpvd3JXZFpWNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "476f45a24b7a",
-      "title": "\"약 먹기 전 AI에 물어보세요\"...포티투마루, 식약처 AI 성과 공개 - AI타임스",
-      "published": "2026-06-09T03:56:53+00:00",
-      "summary": "\"약 먹기 전 AI에 물어보세요\"...포티투마루, 식약처 AI 성과 공개&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BeDNGUUttNmFHbUJtbDE1VUMwYTAxOUQ1SkFNZEtDWlF5REpUVW5fYVZ4MDE1MTZUSkJPajJ4OUlYb0RNOWMxeHBSUWZPOGdVQzU2LXFHajZ6VE5oOWREOTIxVHJqcWtkWmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "741b4661f9c2",
-      "title": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다] - 지디넷코리아",
-      "published": "2026-06-09T01:26:57+00:00",
-      "summary": "사하라 사막서 희귀 운석 발견…알고보니 원시행성 흔적 [우주로 간다]&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1bWs4VTBtcVktUG53bWM0NEpYWkFFU1JjTkpCOGFaVktvU0xxTXZFcFE3cGJLUzBFZ0JSVmc4ay1wZ1hzVHBrQ0x5bWVxUHlCdkhVWUlR?oc=5"
         }
       ]
     }
