@@ -1,19 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-12T15:21:42.242301+00:00",
-  "total_fetched": 77,
-  "unique_count": 77,
+  "fetched_at": "2026-06-12T20:14:31.797460+00:00",
+  "total_fetched": 76,
+  "unique_count": 76,
   "health_related_count": 45,
   "news": [
+    {
+      "id": "eb632402f467",
+      "title": "2014년생 남성 청소년, ‘올해 사람유두종바이러스(HPV) 무료 접종’ 놓치지 마세요! [건강한겨레] - 한겨레",
+      "published": "2026-06-12T20:00:00+00:00",
+      "summary": "2014년생 남성 청소년, ‘올해 사람유두종바이러스(HPV) 무료 접종’ 놓치지 마세요! [건강한겨레]&nbsp;&nbsp;한겨레7월 1일부터 외딴 지역에 거주하는 12세 여아들에게 무료 HPV 백신 접종이 제공될 예정입니다.&nbsp;&nbsp;Vietnam.vn“12세 남성 청소년도 HPV 무료 접종” 강동구, 국가예방접종 지원 전격 확대&nbsp;&nbsp;시정일보서울 성동구, 12세 남성 청소년 대상 사람유두종바이러스 예방접종 확대 지원 > 뉴스&nbsp;&nbsp;더코리아강동구, 사람유두종바이러스(HPV) 국가예방접종 확대 시행&nbsp;&nbsp;전국매일신문",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwNjRBU3hhaFZua1lEZ2lRWUJacnYxeGJBRFVELWVnVXFRNzdsaGw4dEVObjVnSFoydGFkNHUwYk9FVlVPNGZJbDFDRF9LQldZcXNISTFkdmhFOTNvNDNaTE1BcXR4eEl3WjNBcTJiMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a26b67cb330",
+      "title": "“알고 보면 설탕 덩어리”… 의사가 경고한 ‘최악의 음식’ - 헬스조선",
+      "published": "2026-06-12T18:00:00+00:00",
+      "summary": "“알고 보면 설탕 덩어리”… 의사가 경고한 ‘최악의 음식’&nbsp;&nbsp;헬스조선건강식인 줄 알았는데…혈당 급상승 부르는 의외의 음식 10가지&nbsp;&nbsp;강릉뉴스“나이 들면 혈당 더 높아져”… 근육 감소 막는 달걀, 두부 꼭 먹는 사람은?&nbsp;&nbsp;코메디닷컴“혈당 폭발적으로 오른다” 풍자도 놀란 ‘간식’의 정체는?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5b1RwZ1Blb2VHODRZQ0FWYkE3X3dXb0hCOTlJSFlNMXY3cERIbUVuMlJWak5HLW42LXRMN0FNOVFIZWhuSkxydzVHaXpxT0RnM1NmZnhKMUJrNFhYY3lJb0pHQzJjZ3k2amZFQlotZ0xucGpGbXc?oc=5"
+        }
+      ]
+    },
     {
       "id": "d95add8c3d39",
       "title": "50대 미만 여성 위암 생존율, 남성보다 낮다…“공격적 암세포 탓” - 하이닥",
       "published": "2026-06-12T12:00:00+00:00",
-      "summary": "50대 미만 여성 위암 생존율, 남성보다 낮다…“공격적 암세포 탓”&nbsp;&nbsp;하이닥50대 미만 여성 위암 환자, 남성보다 생존율 낮아…이유는 ‘이것’ 때문&nbsp;&nbsp;동아비즈니스리뷰 | DBR\"위암 위험 높다\"…'이 여성들' 암 세포 못 잡는 결정적 이유?&nbsp;&nbsp;네이트50세 미만 여성, 남성보다 위암 생존율 낮다&nbsp;&nbsp;v.daum.net\"위암도 종류가 다르다\"…젊은 여성에게 많은 '미만형 위암'&nbsp;&nbsp;매경헬스",
+      "summary": "50대 미만 여성 위암 생존율, 남성보다 낮다…“공격적 암세포 탓”&nbsp;&nbsp;하이닥\"위암 위험 높다\"…'이 여성들' 암 세포 못 잡는 결정적 이유?&nbsp;&nbsp;네이트50세 미만 여성, 남성보다 위암 생존율 낮다&nbsp;&nbsp;v.daum.net\"위암도 종류가 다르다\"…젊은 여성에게 많은 '미만형 위암'&nbsp;&nbsp;매경헬스\"젊은 여성 위암, 남성보다 예후 나쁘다\"… 조직학적 차이 규명&nbsp;&nbsp;보건신문",
       "sources": [
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yb0FHcHlTaGZrLWRiNnpvWEtnZVY0NEZmTEpCSmFoTTZtQzNSRGd5QXNTMllxMlVKMkhrVW9zTUx0blRSWTY5ODdpSDBFSlFkazNIS3ZpeG1ibmZIUXlVWllwZjFkMVNlb0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c596799ebee4",
+      "title": "\"왜 부유해졌는데 불행할까\"… 이재열 교수가 진단한 한국 사회 - 조선일보",
+      "published": "2026-06-12T11:36:05+00:00",
+      "summary": "\"왜 부유해졌는데 불행할까\"… 이재열 교수가 진단한 한국 사회&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm5peTlJVmcwbGw3S2pGZmlhUXFKdUVBVi1LSTFKaXBkY054T3J1R3RSZW4yLTNkQWtHQXgzSDRqRlNVYkxMckRSdWluU0I3aFFabnc0d3d0LXdUNTg3VUpCN041QmxGZG1IZlltc1hiRTlULW5IWjYzYWw2RXA3OWt3eEF1T2g4NFJOUzlIUzU?oc=5"
         }
       ]
     },
@@ -90,6 +126,18 @@
       ]
     },
     {
+      "id": "4cbc7ef23149",
+      "title": "일상 속 흔한 증상…폐동맥고혈압 주의보 [Health] - 매일경제",
+      "published": "2026-06-12T07:06:24+00:00",
+      "summary": "일상 속 흔한 증상…폐동맥고혈압 주의보 [Health]&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwUGc4RU5hMUtFbTBlTU1YY0ZCb0JBUE80WDVjLUpmM0FQRHRudWhqRU5FbUJ3UnAwUjY1RksxeWN6eHJXYXJZRy1mSjNzdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "30500757b16c",
       "title": "매일 이 과일로 만든 물을 마시면 신장 결석 위험을 줄이는 데 도움이 될 수 있습니다 - Laodong.vn",
       "published": "2026-06-12T07:00:00+00:00",
@@ -134,6 +182,18 @@
         {
           "name": "미주한국일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81YTdZTi1lM0JWTHMtYmpsTGtJUklVc0QyY3dhbTdvOUJMcm5MaFVnNXAzRWRsN3N4VUlodXFUZUxQMnVOcmlzRzJqbTJQOWxEOXNGN1BMR0JEXzUzbjRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "074c0716fc20",
+      "title": "中 과학 연구 역량, 3년째 1위… 美와 격차 더 벌려 - 조선일보",
+      "published": "2026-06-12T01:10:00+00:00",
+      "summary": "中 과학 연구 역량, 3년째 1위… 美와 격차 더 벌려&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNam1NaDM5TnowYnBTSnJkalRuSUtDdlA0ZVRsTldoUnlhWmpZcHlSTnVjSHQ1TC1zRVRFWFJ3ZTFuekt6V1hkRld4czBhTzdlZlJfX1pvV0NQdjBFb0labERzYjJheHlCLUJpVGt4bUxQQXhadmd2TVBBSzJScTNjUF9vcw?oc=5"
         }
       ]
     },
@@ -234,26 +294,26 @@
       ]
     },
     {
-      "id": "e0eddfab885e",
-      "title": "건강식인 줄 알았는데…혈당 급상승 부르는 의외의 음식 10가지 - 강릉뉴스",
-      "published": "2026-06-11T16:26:15+00:00",
-      "summary": "건강식인 줄 알았는데…혈당 급상승 부르는 의외의 음식 10가지&nbsp;&nbsp;강릉뉴스“혈당 폭발적으로 오른다” 풍자도 놀란 ‘간식’의 정체는?&nbsp;&nbsp;헬스조선“나이 들면 혈당 더 높아져”… 근육 감소 막는 달걀, 두부 꼭 먹는 사람은?&nbsp;&nbsp;코메디닷컴",
+      "id": "09f6c8e5bcc0",
+      "title": "이유진 교수 “수면장애 방치하면 치매 위험 커진다”… EBS 명의, 불면증·수면무호흡증·렘수면행동장애의 경고 - 한국강사신문",
+      "published": "2026-06-11T21:00:00+00:00",
+      "summary": "이유진 교수 “수면장애 방치하면 치매 위험 커진다”… EBS 명의, 불면증·수면무호흡증·렘수면행동장애의 경고&nbsp;&nbsp;한국강사신문“잠이 보약” 상식 무너졌다…너무 많이 자면 노화속도 오히려 빨라져&nbsp;&nbsp;v.daum.net“낮잠 잦으면 치매 위험↑”... 美 연구팀, 수면 습관∙치매의 숨은 연결고리 밝혀&nbsp;&nbsp;하이닥불면증이 치매로? 81세 노인, 잠결 아내에게 폭력까지…공포의 수면장애 (명의) - 조선비즈&nbsp;&nbsp;Chosunbiz“치매 위험 낮추려면 중년부터 뛰어라”...40~65세, 운동 효과 ‘최적기’&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "강릉뉴스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wQ2tpU0s0cHFWYk9SMUpSbzB2R0FJd1huQUJqYWNJTllNSElGZ3ZSNS1IOWI5RUh6N1o3aHd2b0tXSDQtaVBwOTBtYk4tdF83TUFFcUxmaGdpdTh3RGdVajBSVUNSWGw1NF9WYktja9IBckFVX3lxTE9rcXNGTk9HZEJjNVdxd1l0aVUxempGMVJfXzRKeVVzRlFLd2NMR09CNHQ4QVoxY2NhVHFQX19CZEJWbVo4X1ExNjVIbkRQVzAyT2g2R1BnRzk5azNUUmNmZ0hRNjlUUzdCX01qdkF2cFNDdw?oc=5"
+          "name": "한국강사신문",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UR2ZDaGxlVFN2dmxSNWpzSjdsWFpBMndsTUpWdVdfMHJDdkNtU0RuLTltY3BPb1VSMVNBTHRUNGlDdExJQS1nRVJWWTJXcm5wX1RsV2JBUGNveV93eDVRQnZRMW9jS2huVktTUmF3am0?oc=5"
         }
       ]
     },
     {
-      "id": "074c0716fc20",
-      "title": "中 과학 연구 역량, 3년째 1위… 美와 격차 더 벌려 - 조선일보",
-      "published": "2026-06-11T15:34:00+00:00",
-      "summary": "中 과학 연구 역량, 3년째 1위… 美와 격차 더 벌려&nbsp;&nbsp;조선일보",
+      "id": "81e2e123b7b4",
+      "title": "치매 예방, 푸드ㆍ테크 결합해 인지저하 늦추고 관리 가능해 - IT조선",
+      "published": "2026-06-11T12:44:18+00:00",
+      "summary": "치매 예방, 푸드ㆍ테크 결합해 인지저하 늦추고 관리 가능해&nbsp;&nbsp;IT조선뇌 건강에 좋은 음식 5가지… \"치매·알츠하이머 위험 낮춘다\"&nbsp;&nbsp;하이닥노화로 저하된 인지력-기억력 동시 개선&nbsp;&nbsp;동아일보닥터린, ‘두뇌엔 PS 포스파티딜세린’ 리뉴얼 출시&nbsp;&nbsp;ppss.kr기억력 영양제 디시 후기 및 추천 성분 총정리&nbsp;&nbsp;브런치",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNam1NaDM5TnowYnBTSnJkalRuSUtDdlA0ZVRsTldoUnlhWmpZcHlSTnVjSHQ1TC1zRVRFWFJ3ZTFuekt6V1hkRld4czBhTzdlZlJfX1pvV0NQdjBFb0labERzYjJheHlCLUJpVGt4bUxQQXhadmd2TVBBSzJScTNjUF9vcw?oc=5"
+          "name": "IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14UU5OVFJNTG56Q1VFa3RLaHg3OWZBWFZEWWRDd3FieEFadGxocGZ5VDNySEtmSHpCTkdtMFo3NjZoRlVnMTNjci1IQnVVS0wxQlhwT1hKbHo3cWZwc3ZfNXZaejBXdElzVHJKVnNxRlHSAXRBVV95cUxPSWtpQ3k5N0FOMi1IQUE2akpFaUt1Wkp1bHh4V2xjazlGOHN4dVZERjEzUVVtdWR6bWpDdnJoUmNqZGdKeVhBTHNyZDVscGFsVEJVYjFKSFZub1BEREEwNG5DRzBpRW8waF9ZWUNUY0htOFFBcQ?oc=5"
         }
       ]
     },
@@ -294,18 +354,6 @@
       ]
     },
     {
-      "id": "7866c59a2592",
-      "title": "“낮잠 잦으면 치매 위험↑”... 美 연구팀, 수면 습관∙치매의 숨은 연결고리 밝혀 - 하이닥",
-      "published": "2026-06-11T08:30:00+00:00",
-      "summary": "“낮잠 잦으면 치매 위험↑”... 美 연구팀, 수면 습관∙치매의 숨은 연결고리 밝혀&nbsp;&nbsp;하이닥“잠이 보약” 상식 무너졌다…너무 많이 자면 노화속도 오히려 빨라져&nbsp;&nbsp;v.daum.net불면증이 치매로? 81세 노인, 잠결 아내에게 폭력까지…공포의 수면장애 (명의) - 조선비즈&nbsp;&nbsp;Chosunbiz“치매 위험 낮추려면 중년부터 뛰어라”...40~65세, 운동 효과 ‘최적기’&nbsp;&nbsp;디멘시아뉴스'명의' 이유진 교수가 전하는 노인 수면 장애 원인과 치료법&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUVhoSlNOTWozaXRaVU1yejg1NEo2UTUtWjkwQ0NkeS1GaWtpZTJRVUtwQXdfdGNBejZ0RnM3cWtJSG1kV3AwYV95VE5YbF9QbmxvQ2pualdyME1hTWY5amI1T0RmOUVneWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d454a216332a",
       "title": "관절건강 글루코사민...“치매 앞당겨” - 후생신보",
       "published": "2026-06-11T07:50:00+00:00",
@@ -318,18 +366,6 @@
       ]
     },
     {
-      "id": "51a8838fa454",
-      "title": "생선 없이도 챙기는 오메가-3, 시니어 뇌·혈관 건강을 위한 식물성 식단 - 캐어유 뉴스",
-      "published": "2026-06-11T05:00:00+00:00",
-      "summary": "생선 없이도 챙기는 오메가-3, 시니어 뇌·혈관 건강을 위한 식물성 식단&nbsp;&nbsp;캐어유 뉴스",
-      "sources": [
-        {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13UGJ3eGxVWHdPNzAwM2lsVE90alRnVWxicmFJY0g3Y2ZpdVVkWDFKNUZoQ1l2X3ItSDU2SExFMDVuU0M1OHZmVUptYXJ1MUxrQ3BVR2pnN05xcUFkeXRISmJEZmo2aTdnOTg1QlZR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d31f06d73fa8",
       "title": "78세 영국 간판 앵커, '이 질환' 진단 고백… 지속적인 응원 쏟아져 - 코메디닷컴",
       "published": "2026-06-11T04:33:00+00:00",
@@ -338,18 +374,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDMi1Jd2NrWkoyR1BKbmV3THVkY0RLX0VHMHkzX3lLUGpra0xpUklEcTFFU2tmVGE1NmxqQll0U2hBZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ff1bac816fe6",
-      "title": "성동구, 12세 남성청소년 HPV 예방접종 지원 확대 - 성동저널",
-      "published": "2026-06-11T04:18:05+00:00",
-      "summary": "성동구, 12세 남성청소년 HPV 예방접종 지원 확대&nbsp;&nbsp;성동저널7월 1일부터 외딴 지역에 거주하는 12세 여아들에게 무료 HPV 백신 접종이 제공될 예정입니다.&nbsp;&nbsp;Vietnam.vn강동구, 사람유두종바이러스(HPV) 국가예방접종 확대 시행&nbsp;&nbsp;전국매일신문성동구, 12세 남성청소년까지 HPV 예방접종 확대 지원&nbsp;&nbsp;핀포인트뉴스강동구, 12세 남성 청소년 대상 HPV 국가예방접종 확대&nbsp;&nbsp;웹이코노미",
-      "sources": [
-        {
-          "name": "성동저널",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGTXI1bW1XYmFTaU02N2Q0ZWI5OFhYd3dPVjJkSC0yZFlYS3ptV3Z1bmk4bHk5UW5KVXF0VlRXRHV6UmdTWDdQRVFXcW9YS3ZCaTRmck5xYi1XanktUzhDT1NJRVZJRDJsR205a0ZQSVQ?oc=5"
         }
       ]
     },
@@ -393,7 +417,7 @@
       "id": "d0de5c1cbf59",
       "title": "[생할] 5개월 만에 뎅기열 환자 5만 명 돌파…기존 패턴 파괴하며 '예측 불가' 확산 - 굿모닝베트남미디어",
       "published": "2026-06-11T02:59:34+00:00",
-      "summary": "[생할] 5개월 만에 뎅기열 환자 5만 명 돌파…기존 패턴 파괴하며 '예측 불가' 확산&nbsp;&nbsp;굿모닝베트남미디어뎅기열은 예측하기 어렵고 전통적인 방법으로는 예방할 수 없습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 조기 경고: 이 질병은 어린이에게만 흔한 것이 아닙니다.&nbsp;&nbsp;Vietnam.vn2030년까지 뎅기열 사망자 수 0명 달성을 목표로 함&nbsp;&nbsp;Vietnam.vn뎅기열 발병이 조기에 증가하면서 사람들이 선제적으로 예방 접종을 받고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[생할] 5개월 만에 뎅기열 환자 5만 명 돌파…기존 패턴 파괴하며 '예측 불가' 확산&nbsp;&nbsp;굿모닝베트남미디어뎅기열은 예측하기 어렵고 전통적인 방법으로는 예방할 수 없습니다.&nbsp;&nbsp;Vietnam.vn확대 예방접종 프로그램에 무료 백신을 추가하는 것을 고려해 보세요.&nbsp;&nbsp;Vietnam.vn계절성 질병이 젊은 층을 중심으로 장기간 발병률 최고치를 기록하고 있습니다.&nbsp;&nbsp;Vietnam.vn2030년까지 뎅기열 사망자 수 0명 달성을 목표로 함&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "굿모닝베트남미디어",
@@ -422,18 +446,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XOWhDSGdYYnpxRGcwV3pYWjVQNk4zcWdpelRVQVRKZlRkX1MwajRyRU9iYkJUSVBvRlVfaGNlQUw2M0NqTFNUMUxYYkxYN0VVYmpENDlxbDJKcmtCazN1TEg1emN1NURLVXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f936cad4c85",
-      "title": "자꾸 멍하고 깜빡깜빡…‘브레인 포그’, 혹시 치매 신호일까 - 헬스경향",
-      "published": "2026-06-11T01:37:00+00:00",
-      "summary": "자꾸 멍하고 깜빡깜빡…‘브레인 포그’, 혹시 치매 신호일까&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zaVFvRE1aWENkSmRxc2VlRmlkUmxJaTFUczV1Y0s1aU5NdmVjTEotVzMzZThHb0RkTXpUdnZpZ2NIdnNSYk55VnA3cHRiWjlvZmdPMVBpU2w4a2I0Z1pTbi1sN3dUaXk0cUE?oc=5"
         }
       ]
     },
@@ -477,7 +489,7 @@
       "id": "b33593d3670b",
       "title": "3040 젊은 당뇨병 환자… 5명 중 4명은 비만체형 - 문화일보",
       "published": "2026-06-11T00:23:50+00:00",
-      "summary": "3040 젊은 당뇨병 환자… 5명 중 4명은 비만체형&nbsp;&nbsp;문화일보",
+      "summary": "3040 젊은 당뇨병 환자… 5명 중 4명은 비만체형&nbsp;&nbsp;문화일보당뇨병, 합병증 예방 위한 맞춤형 비만 관리와 정기 건강검진 필요&nbsp;&nbsp;네이트\"30세 이상 7명 중 1명이 '당뇨병'… 혈당 관리 부담 덜어줄 지원책 필요\"&nbsp;&nbsp;헬스조선“마른데도 치매 위험 높을 수 있다?”…내장지방의 경고&nbsp;&nbsp;디멘시아뉴스복부 비만&nbsp;&nbsp;브런치",
       "sources": [
         {
           "name": "문화일보",
@@ -498,14 +510,14 @@
       ]
     },
     {
-      "id": "b14b0a9bf650",
-      "title": "돼지 간·신장, 첫 동시 이식… 기증 장기 부족 문제 풀릴까 - 조선비즈 - Chosunbiz",
-      "published": "2026-06-10T15:38:00+00:00",
-      "summary": "돼지 간·신장, 첫 동시 이식… 기증 장기 부족 문제 풀릴까 - 조선비즈&nbsp;&nbsp;Chosunbiz돼지 간·신장, 첫 동시 이식… 기증 장기 부족 문제 풀릴까&nbsp;&nbsp;v.daum.net中 연구진, 돼지 간·신장 동시에 인체 이식…“이식 후 5일간 정상 작동”&nbsp;&nbsp;전자신문中 의료진, 돼지 간·신장 동시 인체 이식 첫 수술…이식 후 5일간 기능&nbsp;&nbsp;뉴시스중국이 돼지의 간과 신장을 동시에 사람에게 이식하는 수술을 최초로 성공적으로 시행했다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "ed0dcea4b356",
+      "title": "[사이테크+] \"인도양 심해 7천ｍ서 530만년 된 '고래 공동묘지' 발견\" - 연합뉴스",
+      "published": "2026-06-10T20:00:01+00:00",
+      "summary": "[사이테크+] \"인도양 심해 7천ｍ서 530만년 된 '고래 공동묘지' 발견\"&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzZqblFpNlMyRWRzbl9pVG4xSFEzOWxQalpLbjc4ejQ2RXozN3F2T0t0Q0VLd3NTWHplRnRNald3M1FRV0laZXk0U0k2UWVSS3BnMkZSYzlObThJTTNSX0J4WE5aTzJYR2JZUFJiUzg2bjlvVUpyVDM3YU90VmNIdkd1TXJyRWxqN3NIZdIBoAFBVV95cUxOVzQwM0FtWGx0cDJtdWg4LXU1VG5aenB4V0MwTTdocG1YTVFaQnFwcnhjWnIyV3h5WEN5cWZXMTh1MWpNcHBBSFdrMmRHT0pSZWU4QVk5clRlRnRMYWNjb180RlJvdlFJTVkxbzZkUEM2RUFZbGpfNXNhR2E0Z3R4a0Q1ckVDaUNKU204SkdEUXh2dnAzbzZTa1Z2bGtuQnVx?oc=5"
+          "name": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZNkdKd1V4WGNhWnY3OGd0VHdIQm9CUUYzc05KQXdrTTV3cHdhYXA2cmZBYWtxdjEyeDVDd1RvRlgxQkJTYUZZNWJGMUQ3c19fc0JzZW5meVFjLXfSAWBBVV95cUxPcjIxNnBXUkIwZmpXdVQwZnZQWTdSc3dKQmJScG5kdkdSNW56UXE5dkFJaVVhbFU1TFE3Y0sxWGxKZ0E0cllMOURUdVZKbVppZC0tbW80eHhLdHIxcUdKa0I?oc=5"
         }
       ]
     },
@@ -530,18 +542,6 @@
         {
           "name": "강원도민일보",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weHJWejdLVEZLekdqNFRDZHVBRW5NMmFjdmFreGV5Tl82aGp4TkF1V0U4dDdOcW53VHNQUW1vaXozTnRKTnRBNUIzdmhWYUdkcXlORUxyVjFOOEpZckZFRTRwTGljMkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "00e640a5f9d5",
-      "title": "“노화세포를 젊게” 세계 첫 ‘회춘약’ 임상시험 들어갔다 - 동아일보",
-      "published": "2026-06-10T05:07:00+00:00",
-      "summary": "“노화세포를 젊게” 세계 첫 ‘회춘약’ 임상시험 들어갔다&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BQk5EUjVCd3RQa3N3QU1HaTJwUU10OVVrVERZUnROakFPMmRpcC1yQ2RJbG5PQU1RS19MUjNwTnkwam5Dc0I0MU5ndWZSQThxaU9qTjJwNXZTZmZaTTJLczRORnBNVlQ4RjE0Wk9POXdnYV9BVXfSAWZBVV95cUxNNFRZUUhkVEpjOVpxaE1hSnpaRU9mOXRYNGhfREk4cjV5dmxRcWduX2tWdHluMDEzSTJQejFGTXRRMm02U1MzQ290R2dFeXg5bjBDOVIxNE1HRkUyOEtnVS16VWQ4ZEE?oc=5"
         }
       ]
     }
