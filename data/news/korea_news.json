@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-13T09:20:44.074581+00:00",
-  "total_fetched": 69,
-  "unique_count": 69,
-  "health_related_count": 43,
+  "fetched_at": "2026-06-13T14:06:10.303482+00:00",
+  "total_fetched": 68,
+  "unique_count": 68,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "ce1b99bf39ed",
+      "title": "단식했더니 잇몸 염증 감소… 치주염 환자서 효과 확인 - 헬스조선",
+      "published": "2026-06-13T10:00:00+00:00",
+      "summary": "단식했더니 잇몸 염증 감소… 치주염 환자서 효과 확인&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RaWI1NDE0dV81UkFmaFVONnZuNnV5LUd0TGxGaWZrNFNLeUZYTWU2eDJIUjdhNVFWVDRaRmZiMVpwTmd6SU9iQVNaTFp6SVRHUkQ1VTB4U1RvRFhfRXAxUnBleU9oenp1cXJucy1FZXNpVGstZUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17e9a04bbe72",
+      "title": "\"꽁치보다 많다\"… 의외로 '오메가3' 풍부한 식품 5가지 - 하이닥",
+      "published": "2026-06-13T10:00:00+00:00",
+      "summary": "\"꽁치보다 많다\"… 의외로 '오메가3' 풍부한 식품 5가지&nbsp;&nbsp;하이닥“고등어보다 많다?”... 오메가-3 섭취 돕는 식품 6가지&nbsp;&nbsp;하이닥생선 없이도 챙기는 오메가-3, 시니어 뇌·혈관 건강을 위한 식물성 식단&nbsp;&nbsp;캐어유 뉴스아마씨유 플렉시드 오메가3 필수지방산 내돈내산 후기&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lRnZyUGR6RkE5ckNrMWpzb3lTU0d2T25JR2JBYkpUbnI4MVZHNTBlakxSMTV4MDRZay1HWVdFUDZ6Y0hPbER3VWxNa21XMEZIRTRnNzJ4Tml3dVpISEFEZ2pEb0lGdWVFR1E?oc=5"
+        }
+      ]
+    },
     {
       "id": "fe6c50da2b1d",
       "title": "7세 혈압이 좌우한 미래 건강… 심혈관 사망 위험 증가 - 헬스조선",
@@ -50,6 +74,18 @@
         {
           "name": "미디어파인",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PSXhGSjV4RW5WSUROMklMcGRqRi1OZ1duT2h6aDJlZF90em96bE1tZlhxYjlacjRsMkIxTXp3RThRQ0Fvekk4M00yU2Zodk0zV3M0amE0c1JpVzFNMmM5c1MtdlhoT0diUG9XMzZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "619472799f42",
+      "title": "쥐·원숭이 대신 ‘AI·모형 장기’로…신약개발 판 바꾼 美·EU, K바이오도 속도 - 조선비즈 - Chosunbiz",
+      "published": "2026-06-13T02:36:11+00:00",
+      "summary": "쥐·원숭이 대신 ‘AI·모형 장기’로…신약개발 판 바꾼 美·EU, K바이오도 속도 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnJzODNjNW9IY1pFSTY5TWZXR3NzcWFDcEZ6VTNxZlFQUXdLMEFPNHRBakJ3ZXhnX3hoaGdKVlpLNUd5Z2dUUE1BSk1PdEdyREVKc1pycDFlckM2UHJCZHluRE5DRnhlWFpITnRQSmNfWXBSVU81alk4S09LbDB5OUY4T0lTdzjSAZsBQVVfeXFMT0lPaEJ0QlNpS3BpaGZGcWhNMzhZOXhNd2VKS0JId2FndklyR0xzalZPQ2ZzTVFCNXpUZTAyRjBkVUpRelQteXRqUlFWQldNSnRFd21FQkZ4ZXE5RV85QnM1NVlGU1NGclhBeWtlb2pZaEdrU1A2SnQ0QldpNmJKMWl6eENPR1BjbFNkVE9JcVBPXzlPeTZHbVhMeU0?oc=5"
         }
       ]
     },
@@ -129,7 +165,7 @@
       "id": "cdff40ebc87f",
       "title": "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다 - 한국경제",
       "published": "2026-06-12T23:00:08+00:00",
-      "summary": "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다&nbsp;&nbsp;한국경제3040 젊은 당뇨병 환자… 5명 중 4명은 비만체형&nbsp;&nbsp;문화일보\"30세 이상 7명 중 1명이 '당뇨병'… 혈당 관리 부담 덜어줄 지원책 필요\"&nbsp;&nbsp;헬스조선“매일 1시간 걸었는데 그대로”…뱃살 안 빠지는 진짜 이유&nbsp;&nbsp;v.daum.net당뇨병, 합병증 예방 위한 맞춤형 비만 관리와 정기 건강검진 필요&nbsp;&nbsp;네이트",
+      "summary": "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다&nbsp;&nbsp;한국경제3040 젊은 당뇨병 환자… 5명 중 4명은 비만체형&nbsp;&nbsp;문화일보\"30세 이상 7명 중 1명이 '당뇨병'… 혈당 관리 부담 덜어줄 지원책 필요\"&nbsp;&nbsp;헬스조선당뇨병, 합병증 예방 위한 맞춤형 비만 관리와 정기 건강검진 필요&nbsp;&nbsp;네이트“마른데도 치매 위험 높을 수 있다?”…내장지방의 경고&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
           "name": "한국경제",
@@ -141,7 +177,7 @@
       "id": "e1e6d03d00b9",
       "title": "[지금, 명의] \"지방간 방치하면 간암까지…간 수치 정상이어도 안심 못해\" - 네이트",
       "published": "2026-06-12T22:02:00+00:00",
-      "summary": "[지금, 명의] \"지방간 방치하면 간암까지…간 수치 정상이어도 안심 못해\"&nbsp;&nbsp;네이트[지금, 명의] “지방간 방치하면 간암까지…간 수치 정상이어도 안심 못해”&nbsp;&nbsp;서울경제“가당 콜라·사이다는 간암 위험↑…제로음료는 연관성 확인 안 돼” [건강팩트체크]&nbsp;&nbsp;동아일보\"하루 한 잔도 위험\"…설탕 들어간 음료, 간암 위험 최대 15% 높인다&nbsp;&nbsp;뉴시스설탕 든 음료, 간암 주요 아형 위험 높여&nbsp;&nbsp;네이트",
+      "summary": "[지금, 명의] \"지방간 방치하면 간암까지…간 수치 정상이어도 안심 못해\"&nbsp;&nbsp;네이트[지금, 명의] “지방간 방치하면 간암까지…간 수치 정상이어도 안심 못해”&nbsp;&nbsp;서울경제\"하루 한 잔도 위험\"…설탕 들어간 음료, 간암 위험 최대 15% 높인다&nbsp;&nbsp;뉴시스설탕 든 음료, 간암 주요 아형 위험 높여&nbsp;&nbsp;네이트술도 안마시는데 내가 간암?…원인은 '이것' 때문&nbsp;&nbsp;파이낸셜뉴스",
       "sources": [
         {
           "name": "네이트",
@@ -176,7 +212,7 @@
     {
       "id": "c596799ebee4",
       "title": "\"왜 부유해졌는데 불행할까\"… 이재열 교수가 진단한 한국 사회 - 조선일보",
-      "published": "2026-06-12T11:30:00+00:00",
+      "published": "2026-06-12T11:36:05+00:00",
       "summary": "\"왜 부유해졌는데 불행할까\"… 이재열 교수가 진단한 한국 사회&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -306,6 +342,18 @@
       ]
     },
     {
+      "id": "5724f1f91c99",
+      "title": "“잠이 보약” 상식 무너졌다…너무 많이 자면 노화속도 오히려 빨라져 - v.daum.net",
+      "published": "2026-06-12T02:00:02+00:00",
+      "summary": "“잠이 보약” 상식 무너졌다…너무 많이 자면 노화속도 오히려 빨라져&nbsp;&nbsp;v.daum.net중년의 습관들이 뇌 건강·치매 여부 좌우한다&nbsp;&nbsp;미주한국일보“낮잠 잦으면 치매 위험↑”... 美 연구팀, 수면 습관∙치매의 숨은 연결고리 밝혀&nbsp;&nbsp;하이닥'명의' 이유진 교수의 치매, 잠 치료법&nbsp;&nbsp;bntnews.co.kr“치매 위험 낮추려면 중년부터 뛰어라”...40~65세, 운동 효과 ‘최적기’&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NeE50N0RNUkVwY3Rnak5ZT2Fkc2Q3ZHpSclEyZ2tOZ25zUWVMWlBDRm9vRGJjT0N6VUdLUzIwV084LWl0cGRKR29jWmJDNzA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "37cdcb5d120d",
       "title": "지아이이노베이션, J&J ‘파스리타미그·GI-102’ 병용 고형암 확장 전략 공개 - 더바이오",
       "published": "2026-06-12T01:25:19+00:00",
@@ -333,7 +381,7 @@
       "id": "d43b5a989840",
       "title": "콜라겐, 피부 보습·관절염엔 확실히 효과 - 뉴스토마토",
       "published": "2026-06-12T00:45:29+00:00",
-      "summary": "콜라겐, 피부 보습·관절염엔 확실히 효과&nbsp;&nbsp;뉴스토마토피부에 좋다고 먹던 콜라겐, 관절 건강에도 도움&nbsp;&nbsp;헬스조선“콜라겐, 피부 보습·관절 통증 완화 효과”…113개 임상시험 분석[건강팩트체크]&nbsp;&nbsp;v.daum.net콜라겐, 피부만 채우는 게 아니었다… 관절 통증·근력 개선 효과 확인&nbsp;&nbsp;하이닥",
+      "summary": "콜라겐, 피부 보습·관절염엔 확실히 효과&nbsp;&nbsp;뉴스토마토피부에 좋다고 먹던 콜라겐, 관절 건강에도 도움&nbsp;&nbsp;헬스조선콜라겐 보충제,피부·관절엔 효과, 운동 회복엔 '과대 포장'&nbsp;&nbsp;바이오타임즈콜라겐, 피부만 채우는 게 아니었다… 관절 통증·근력 개선 효과 확인&nbsp;&nbsp;하이닥“콜라겐, 피부 보습·관절 통증 완화 효과”…113개 임상시험 분석[건강팩트체크]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "뉴스토마토",
@@ -402,30 +450,6 @@
       ]
     },
     {
-      "id": "81e2e123b7b4",
-      "title": "치매 예방, 푸드ㆍ테크 결합해 인지저하 늦추고 관리 가능해 - IT조선",
-      "published": "2026-06-11T12:44:18+00:00",
-      "summary": "치매 예방, 푸드ㆍ테크 결합해 인지저하 늦추고 관리 가능해&nbsp;&nbsp;IT조선뇌 건강에 좋은 음식 5가지… \"치매·알츠하이머 위험 낮춘다\"&nbsp;&nbsp;하이닥노화로 저하된 인지력-기억력 동시 개선&nbsp;&nbsp;동아일보닥터린, ‘두뇌엔 PS 포스파티딜세린’ 리뉴얼 출시&nbsp;&nbsp;ppss.kr기억력 영양제 디시 후기 및 추천 성분 총정리&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "IT조선",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14UU5OVFJNTG56Q1VFa3RLaHg3OWZBWFZEWWRDd3FieEFadGxocGZ5VDNySEtmSHpCTkdtMFo3NjZoRlVnMTNjci1IQnVVS0wxQlhwT1hKbHo3cWZwc3ZfNXZaejBXdElzVHJKVnNxRlHSAXRBVV95cUxPSWtpQ3k5N0FOMi1IQUE2akpFaUt1Wkp1bHh4V2xjazlGOHN4dVZERjEzUVVtdWR6bWpDdnJoUmNqZGdKeVhBTHNyZDVscGFsVEJVYjFKSFZub1BEREEwNG5DRzBpRW8waF9ZWUNUY0htOFFBcQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e31574728b42",
-      "title": "여름철 더 붓는 팔과 손…유방암 수술 후 ‘림프부종’ 복병 - 스포츠월드",
-      "published": "2026-06-11T09:16:31+00:00",
-      "summary": "여름철 더 붓는 팔과 손…유방암 수술 후 ‘림프부종’ 복병&nbsp;&nbsp;스포츠월드",
-      "sources": [
-        {
-          "name": "스포츠월드",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sTjF3cUVGVjNMZ3ByUHVUSmo0ak02azRLS2lVNDBGMm12bFg4b3VJLURhTThGUjJkZmRYM05JRjk5WG1SN3BIODdhWU91TjZwXzNEbldtNUVaMV96R21xZmtn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "076359d2fe4d",
       "title": "추격 끝! 韓 '브레이크스루' 연구로 전환과학계 \"젊은 연구자 키우고, 테뉴어 논문보다 학문적 기여\" - 헬로디디",
       "published": "2026-06-11T09:00:00+00:00",
@@ -434,30 +458,6 @@
         {
           "name": "헬로디디",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FeHZYalpMWGsySjJkTUFZOHNJcTFfMHhsMzdMd2kzV0ZiY0toZTVVMWYtQVBVUGhMX19xcU1QRVhUc3dmdEdvT09ta19iZElaR1ZSMkwxUVhlN3VoYWUzazVsbzhlZFU4TVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7866c59a2592",
-      "title": "“낮잠 잦으면 치매 위험↑”... 美 연구팀, 수면 습관∙치매의 숨은 연결고리 밝혀 - 하이닥",
-      "published": "2026-06-11T08:30:00+00:00",
-      "summary": "“낮잠 잦으면 치매 위험↑”... 美 연구팀, 수면 습관∙치매의 숨은 연결고리 밝혀&nbsp;&nbsp;하이닥중년의 습관들이 뇌 건강·치매 여부 좌우한다&nbsp;&nbsp;미주한국일보불면증이 치매로? 81세 노인, 잠결 아내에게 폭력까지…공포의 수면장애 (명의) - 조선비즈&nbsp;&nbsp;Chosunbiz“치매 위험 낮추려면 중년부터 뛰어라”...40~65세, 운동 효과 ‘최적기’&nbsp;&nbsp;디멘시아뉴스'명의' 이유진 교수의 치매, 잠 치료법&nbsp;&nbsp;bntnews.co.kr",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JUVhoSlNOTWozaXRaVU1yejg1NEo2UTUtWjkwQ0NkeS1GaWtpZTJRVUtwQXdfdGNBejZ0RnM3cWtJSG1kV3AwYV95VE5YbF9QbmxvQ2pualdyME1hTWY5amI1T0RmOUVneWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d454a216332a",
-      "title": "관절건강 글루코사민...“치매 앞당겨” - 후생신보",
-      "published": "2026-06-11T07:50:00+00:00",
-      "summary": "관절건강 글루코사민...“치매 앞당겨”&nbsp;&nbsp;후생신보",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBqNzRRTmNuQ3piYWU4UUJLRXRITS1LWGpydl9sOTczR1FYWDJoQ1BPTDRnbm03WFhSUDBTVTdvdERNVEEx?oc=5"
         }
       ]
     },
@@ -506,18 +506,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xSnlLRmNiemJUVHNNZmVTRDF5R3liQzlCZ2kzckgwbERGaXEwYmVzRlRzT1pzV21HRkxJX2MwdnJIT0NnMGtBbERtQkZNZktvQVlkYV95NzhZV1FaQV84dWVZNFJwQldwZWtxejFwNzliUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a6df19d1db0",
-      "title": "SK하이닉스서 유독화학물질 추정 액체 접촉…2명 병원 이송 - 강원도민일보",
-      "published": "2026-06-10T09:37:02+00:00",
-      "summary": "SK하이닉스서 유독화학물질 추정 액체 접촉…2명 병원 이송&nbsp;&nbsp;강원도민일보",
-      "sources": [
-        {
-          "name": "강원도민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0weHJWejdLVEZLekdqNFRDZHVBRW5NMmFjdmFreGV5Tl82aGp4TkF1V0U4dDdOcW53VHNQUW1vaXozTnRKTnRBNUIzdmhWYUdkcXlORUxyVjFOOEpZckZFRTRwTGljMkk?oc=5"
         }
       ]
     }
