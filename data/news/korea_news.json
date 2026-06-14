@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-14T09:39:47.721515+00:00",
-  "total_fetched": 49,
-  "unique_count": 49,
-  "health_related_count": 33,
+  "fetched_at": "2026-06-14T14:09:53.353055+00:00",
+  "total_fetched": 51,
+  "unique_count": 51,
+  "health_related_count": 31,
   "news": [
     {
       "id": "0a15d6848fb9",
@@ -21,7 +21,7 @@
       "id": "9c13dde32e50",
       "title": "20·30대 심장질환, 왜 늘고 있나… 비만·생활습관이 주요 원인 ② [의미심장(心臟)] - 하이닥",
       "published": "2026-06-14T08:00:00+00:00",
-      "summary": "20·30대 심장질환, 왜 늘고 있나… 비만·생활습관이 주요 원인 ② [의미심장(心臟)]&nbsp;&nbsp;하이닥“이거 하나면 끝, 헬스장 안 가도 되겠네”…‘심장 건강’ 지킨다는 이 운동 [헬시타임]&nbsp;&nbsp;서울경제",
+      "summary": "20·30대 심장질환, 왜 늘고 있나… 비만·생활습관이 주요 원인 ② [의미심장(心臟)]&nbsp;&nbsp;하이닥“이거 하나면 끝, 헬스장 안 가도 되겠네”…‘심장 건강’ 지킨다는 이 운동 [헬시타임]&nbsp;&nbsp;서울경제젊다고 심장병 안심 못해...심장 건강 지키려면 어떻게?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "하이닥",
@@ -38,6 +38,18 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ydER6TjdxNFViQ2NaMXdObjVCRkhVcXZZYThDUHZVZFV1dWczZU9vY0ltS1Vxem1YOFA3bGpoVEVxYTg2WW5wcUlyLWhVdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c29b38a871f9",
+      "title": "'운동 문맹' 청소년 - 전라일보",
+      "published": "2026-06-14T03:46:25+00:00",
+      "summary": "'운동 문맹' 청소년&nbsp;&nbsp;전라일보'[지방순삭] 점심시간 운동장 공놀이 제한, 아이들 비만 위험 높인다?'&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "전라일보",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90YVR0bGFMMEN6ZXIxejJ2dGJtNndiX0FNYi10WXVYWXBfTG9KZk95UGNlQ243WnJTQlBKOFN1ZGFoczVDNnRiNXlMR3BZSkNKa2ZacmJMT1ZsMVc4NWpQUDBlWW1oSXNDMWxVZNIBcEFVX3lxTE1BWUJDR0dPd1ZQVXlXbE56VHBhTzZ1cG50NHdMZEVRdUNuQWE3YWVtWWZsR2JwcWtLZi1CZ0h2dFlaYk9PbXA1VThHN0toMWZTdm9xcktGZ19GajI0RDRLc0xZLUFtc1FsM1NVSE9neTY?oc=5"
         }
       ]
     },
@@ -66,22 +78,10 @@
       ]
     },
     {
-      "id": "ec6c008dff67",
-      "title": "수 천만원짜리 치매 신약, 피 한방울로 골든타임 찾는다[헬시타임] - 네이트",
-      "published": "2026-06-13T22:01:00+00:00",
-      "summary": "수 천만원짜리 치매 신약, 피 한방울로 골든타임 찾는다[헬시타임]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BRHlGTGhHb0k1MnM3eUxqQmtKVTVuVmtLaXAyMXo2R0NfVjVwamJhNFhaSTRsdFo1V3ZvelZKRDB0bGRoTE5nai1CbGcxWmV2OEIw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "12069c2f48fc",
       "title": "“관절 위해 먹는 글루코사민, 치매 촉진” - 헬스조선",
       "published": "2026-06-13T22:00:00+00:00",
-      "summary": "“관절 위해 먹는 글루코사민, 치매 촉진”&nbsp;&nbsp;헬스조선\"관절에 좋다며 먹었는데\"… 알츠하이머 악화시킬 수 있다?&nbsp;&nbsp;약사공론관절 아파서 먹는 '글루코사민', 치매 위험 ㆍ 사망률 높여&nbsp;&nbsp;메디컬투데이글루코사민, 치매 환자에겐 독? 알츠하이머 진행·사망 위험 증가&nbsp;&nbsp;의협신문",
+      "summary": "“관절 위해 먹는 글루코사민, 치매 촉진”&nbsp;&nbsp;헬스조선\"관절에 좋다며 먹었는데\"… 알츠하이머 악화시킬 수 있다?&nbsp;&nbsp;약사공론글루코사민, 치매 환자에겐 독? 알츠하이머 진행·사망 위험 증가&nbsp;&nbsp;의협신문",
       "sources": [
         {
           "name": "헬스조선",
@@ -150,14 +150,14 @@
       ]
     },
     {
-      "id": "abd85b3d20e7",
-      "title": "과당 포만감 왜 약할까…같은 칼로리라도 뇌 신호는 달랐다 - 코메디닷컴",
-      "published": "2026-06-13T05:07:00+00:00",
-      "summary": "과당 포만감 왜 약할까…같은 칼로리라도 뇌 신호는 달랐다&nbsp;&nbsp;코메디닷컴",
+      "id": "4b2f6b133f5d",
+      "title": "분명히 먹었는데 왜 또 손이 갈까…뇌에 약하게 닿은 신호가 있었다 - 네이트",
+      "published": "2026-06-13T05:08:00+00:00",
+      "summary": "분명히 먹었는데 왜 또 손이 갈까…뇌에 약하게 닿은 신호가 있었다&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sdnJkV1h3Vmxad2hGN3AwRFNsMGhZMU9nVWl5NWdYRzk0RTNFNklxbmlVN1NXMzUyeE1kemozMWdMQQ?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KdjBucm5fYlNkSFhqT2w1OHBqQXRLamlZZWktMFRSbzRGNVVnUEp1Q09yMUJ3RG1tSzlVOHM0aUk0b0FCcENWZmhWREUwcGlobGRz?oc=5"
         }
       ]
     },
@@ -189,7 +189,7 @@
       "id": "a100d6f93d7a",
       "title": "[건강이야기] 아침형 인간 VS 저녁형 인간, 근육과 노화를 좌우하는 생체시계의 비밀 - 미디어파인",
       "published": "2026-06-13T02:51:20+00:00",
-      "summary": "[건강이야기] 아침형 인간 VS 저녁형 인간, 근육과 노화를 좌우하는 생체시계의 비밀&nbsp;&nbsp;미디어파인",
+      "summary": "[건강이야기] 아침형 인간 VS 저녁형 인간, 근육과 노화를 좌우하는 생체시계의 비밀&nbsp;&nbsp;미디어파인“아침형 인간이 성공한다?” 신경과학자의 솔직한 답변&nbsp;&nbsp;조세일보밤을 새워도 잠이 안 오는 이유?&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "미디어파인",
@@ -222,14 +222,14 @@
       ]
     },
     {
-      "id": "b3a4eab6f80c",
+      "id": "79e3bb6f0966",
       "title": "[100세 과학] 30년 루푸스 환자, CAR-T 치료 한 번에 완치 - 조선비즈 - Chosunbiz",
       "published": "2026-06-13T02:17:00+00:00",
       "summary": "[100세 과학] 30년 루푸스 환자, CAR-T 치료 한 번에 완치 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
           "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGlNZVF5WnFiR19MOGs5aTctWGxCU0oxSUZiM29ZWGo0c25vYkhRLTlRSmMyTEE1ZFF5OFJycmNBS1l3eVNaVmNEdWdEOWJzYVNtUTFUNHFXWF80aVJ4cFRENVRNdGFxT3lGXzlmZ2NNVkVMT2dpUlJmQzM0OEoxcm1SUDVVajVTTDd5UkxFdTQwSmRkOFJFdW5LVmR2clB3SG9KWDF4MNIBqwFBVV95cUxOcnB5bm5wMEszSWEzeDN3RTlMaUZFOVl2OGJjdjJOUVk4WWhuNEFtaS11enVFU2lVTEtwaDZmSGhacjJjSGpQbkoxMDMzVHgtZXdrcTQyV0hLRVluOHNWUWR3N05vZmdjQ1dGZDdWb1EyQ29BQmpaY19EcTVlSXk3Q3NmUHJxVkpleG11NGZjOFJYVU82dnN5U2ZwaU0zSHMwX25TcTBBN1VPSDg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTlxOXMycHlhcUw1d0ZvaWhBSnEwQ0t6WXMyYU4tX0YtUzBVYlNYVGdaUk9nVldiR0xBNWVya2RxZXlXUGZRLXR0bnEtbEc1czM2d2RCdXE3Vk13OGJfam1HVGhOYjNTX09wWWM0QzJ5cEJROWdmTm9YYmpIMk8wc1pDdUY4REkyS2V6aExPR3c3djRqTFpn0gGrAUFVX3lxTE5ycHlubnAwSzNJYTN4M3dFOUxpRkU5WXY4YmN2Mk5RWThZaG40QW1pLXV6dUVTaVVMS3BoNmZIaFpyMmNIalBuSjEwMzNUeC1ld2txNDJXSEtFWW44c1ZRZHc3Tm9mZ2NDV0ZkN1ZvUTJDb0FCalpjX0RxNWVJeTdDc2ZQcnFWSmV4bXU0ZmM4UlhVTzZ2c3lTZnBpTTNIczBfblNxMEE3VU9IOA?oc=5"
         }
       ]
     },
@@ -254,6 +254,18 @@
         {
           "name": "이데일리",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdExHSlU4d3dReERxbzYwV2FmSHYtQzNWOGFSNHdOUGRNbFBsS2VzUEJ4YTZVajhKU3dubmtrZ050a01USU9DTUVOUzR6Q2QwTUZrcnA3dmVwSEFiMDVkRWNtWnZJcGNrZTBobjNrRkY2NUhTdEJDRm9QQjQxbXNmeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "73787b95cc15",
+      "title": "알츠하이머 ‘치료 황금기’, 혈액으로 알아낸다 - 경향신문",
+      "published": "2026-06-13T00:00:00+00:00",
+      "summary": "알츠하이머 ‘치료 황금기’, 혈액으로 알아낸다&nbsp;&nbsp;경향신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yZ3dSbTFsODRRY296Mms5cWtORjQ3bTFReUxmTUZLTXpOWmR2R3llQmdiTmlBY3BxYUNERjBvNW5OS1JqZXlNeVpaREFuelNsdHF1OFc5dHBhUdIBX0FVX3lxTE9YUjRNNWZXMnFmeUJjVjJfTkxVUFQybkdoLWt2Yl9FWXQwcXBhdVAzbXRqQmlRTkRHSmFDZXo4b1JIYzYxcGJEcFVLeW5JemJ1eDZWZl9LLXB3R08zNjNV?oc=5"
         }
       ]
     },
@@ -285,7 +297,7 @@
       "id": "cdff40ebc87f",
       "title": "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다 - 한국경제",
       "published": "2026-06-12T23:00:08+00:00",
-      "summary": "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다&nbsp;&nbsp;한국경제3040 젊은 당뇨병 환자… 5명 중 4명은 비만체형&nbsp;&nbsp;문화일보\"30세 이상 7명 중 1명이 '당뇨병'… 혈당 관리 부담 덜어줄 지원책 필요\"&nbsp;&nbsp;헬스조선“매일 1시간 걸었는데 그대로”…뱃살 안 빠지는 진짜 이유&nbsp;&nbsp;v.daum.net당뇨병, 합병증 예방 위한 맞춤형 비만 관리와 정기 건강검진 필요&nbsp;&nbsp;네이트",
+      "summary": "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다&nbsp;&nbsp;한국경제3040 젊은 당뇨병 환자… 5명 중 4명은 비만체형&nbsp;&nbsp;문화일보\"30세 이상 7명 중 1명이 '당뇨병'… 혈당 관리 부담 덜어줄 지원책 필요\"&nbsp;&nbsp;헬스조선당뇨병, 합병증 예방 위한 맞춤형 비만 관리와 정기 건강검진 필요&nbsp;&nbsp;네이트“마른데도 치매 위험 높을 수 있다?”…내장지방의 경고&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
           "name": "한국경제",
@@ -326,42 +338,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm5peTlJVmcwbGw3S2pGZmlhUXFKdUVBVi1LSTFKaXBkY054T3J1R3RSZW4yLTNkQWtHQXgzSDRqRlNVYkxMckRSdWluU0I3aFFabnc0d3d0LXdUNTg3VUpCN041QmxGZG1IZlltc1hiRTlULW5IWjYzYWw2RXA3OWt3eEF1T2g4NFJOUzlIUzU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8fbe93c593e0",
-      "title": "혈압 기준 더 엄격하게 적용했더니… 심혈관 질환 위험 20% 감소 - 하이닥",
-      "published": "2026-06-12T10:30:00+00:00",
-      "summary": "혈압 기준 더 엄격하게 적용했더니… 심혈관 질환 위험 20% 감소&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42V00tWVVJVVF4NUhZTHFFMkJYWmJ2Y3FWUVF3YW1BZlZINkFIRU9SRnlseXNZWWxIWDc3TVR3NXBDZFVVUldISHpjdEV4S3c0WjFOSGVJcUphWlRmSVlhT0FMTWtyd2pObFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8167c2a1b0c3",
-      "title": "콜레스테롤 약 '스타틴', 혈관만 지키는 게 아니었다?… 美 연구서 노쇠 위험 24% 감소 - 하이닥",
-      "published": "2026-06-12T10:00:00+00:00",
-      "summary": "콜레스테롤 약 '스타틴', 혈관만 지키는 게 아니었다?… 美 연구서 노쇠 위험 24% 감소&nbsp;&nbsp;하이닥\"콜레스테롤약 '스타틴' 복용 노년층, 노쇠 위험 24% 낮아\"&nbsp;&nbsp;YTN 사이언스먹어? 말아? 말 많은 약 '스타틴' 의외의 효과…\"노화 위험 낮아져\"&nbsp;&nbsp;v.daum.net[건강포커스] \"콜레스테롤약 '스타틴' 복용 노년층, 노쇠 위험 24% 낮아\"&nbsp;&nbsp;연합뉴스콜레스테롤 약으로 알았는데…노쇠 예방 가능성까지?&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vVWFqUU0yTHRITDNGeWphUFJWUExNQnJWbU5IR1ctem1fc05nUGh0di1tTVo5MnZ4LUNlMHgwY1lITTBSRC1QamotOHFkVDFpOUk2LW56M2VuTHFYZFN2UDJINHJ2RDRJRlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53ebcfd4c00d",
-      "title": "잠 안 자도 수면 효과 내는 '뇌 신호'?...깨어 있는 쥐서 ‘기억력 회복’ - 디멘시아뉴스",
-      "published": "2026-06-12T09:53:04+00:00",
-      "summary": "잠 안 자도 수면 효과 내는 '뇌 신호'?...깨어 있는 쥐서 ‘기억력 회복’&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kYXRTa1hKaXkxcWlaQ0ljb1V3dTNKajZHSjllRm5mTmR4b2VDQldnVFRRTGJTVk5paFJYeUdRUmEzd0xaY2VURlZhSG5zY2JuWGkzTXVIbHJTYVpVcFFJMGlfRWdWSTBFOExYejhDVFdzZw?oc=5"
         }
       ]
     },
