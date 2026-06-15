@@ -1,10 +1,154 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-14T19:41:00.024156+00:00",
-  "total_fetched": 52,
-  "unique_count": 52,
-  "health_related_count": 33,
+  "fetched_at": "2026-06-15T04:46:50.750273+00:00",
+  "total_fetched": 56,
+  "unique_count": 56,
+  "health_related_count": 30,
   "news": [
+    {
+      "id": "fcc0c91c11bb",
+      "title": "‘저탄고지’ 키토 식단, 치매 예방 효과도 - 헬스조선",
+      "published": "2026-06-15T03:20:00+00:00",
+      "summary": "‘저탄고지’ 키토 식단, 치매 예방 효과도&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jVnhSWWxMc05uZ0tIVkVzTVpkYkRKaUJaU01QUmRJMVpDeHBteHFTeFZXakU2dWlVV3RFY1djWE5mYU5kaG54MzRVRHpKNkJveDJxcEJTUGh2TjI4aWZIZXVQRHE0Sk4wYXdQcWxJdUlHZExlS0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "30b8b74e3af5",
+      "title": "대웅바이오, 혈액 기반 알츠하이머 진단 도입… CNS 사업 경쟁력 강화 - 보건신문",
+      "published": "2026-06-15T02:58:55+00:00",
+      "summary": "대웅바이오, 혈액 기반 알츠하이머 진단 도입… CNS 사업 경쟁력 강화&nbsp;&nbsp;보건신문수 천만원짜리 치매 신약, 피 한방울로 골든타임 찾는다[헬시타임]&nbsp;&nbsp;서울경제대웅바이오, 혈액 기반 알츠하이머병 진단 기술 국내 도입&nbsp;&nbsp;v.daum.net피 한방울로 조발성치매 조기 진단?…국내 연구진 가능성 확인&nbsp;&nbsp;뉴스1대웅바이오, 알츠하이머 '혈액 진단' 국내 도입…CNS 영토 확장&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxMzBQR215MVZKeFIwT05xdkdlalBBN2JKTTNfM3BqQk1yb1gyWFQ3ejdsSlVINFlDYjZhZzMyRGttV0ZmcGh2VGlzbmF2dEZGbjZkM3FkNmZjT2tWcFVYeGRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "020abe7e8f48",
+      "title": "녹내장 시신경세포 ‘어린 상태’로 되돌린다…암 막는 안전장치까지 - 한겨레",
+      "published": "2026-06-15T02:23:00+00:00",
+      "summary": "녹내장 시신경세포 ‘어린 상태’로 되돌린다…암 막는 안전장치까지&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oaWI3MzVCUEZpZGZDcTdiYnMtRnRaQ25CS21sN29WbzRTQkN5YWdRSnJJT3VQRlV5OEhVRWxkWTR6aTBaYm5yelNFSHJwV3Y4MnBWYlFYZHRYaTRnbkg0YjFlVjZuOWUwZ0h4djg3SThfQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "abd6c1239dfb",
+      "title": "시력 1.0이니 괜찮다?… \"당뇨병 있으면 매년 안과검진 받으세요\" - 한국일보",
+      "published": "2026-06-15T02:13:00+00:00",
+      "summary": "시력 1.0이니 괜찮다?… \"당뇨병 있으면 매년 안과검진 받으세요\"&nbsp;&nbsp;한국일보",
+      "sources": [
+        {
+          "name": "한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XZnJ0YVhjT0g2V0pXaHBVXzNIYko0M19QUGwxcWZLa0g5anYtMWdieTRUcGVsVlgxeE41TThmZXphUjFKMzZ0emYxd0xWZ2QtUXNabzNuY0MxS3REaDcyYVNRbFhlc21US3EzZk5R0gFzQVVfeXFMTm5McTNXbDIwX1dhLWJDYUU4d1MtbGE3MU5XTHhWWWxLbXFZLWViSGIxQmJGOUNNTzg3TWhoZmNTcGRfbG8xOHV3WllkOXhTZWVmU18xekJIeXFzNUtkZmp0cjh5NW11cXkyMmlldFBUX0VOaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a83a4657d007",
+      "title": "연세대 김상우 교수팀, 전원·화학약품 없는 자가발전 물 정화 캡슐 개발 - 한국대학신문",
+      "published": "2026-06-15T01:14:54+00:00",
+      "summary": "연세대 김상우 교수팀, 전원·화학약품 없는 자가발전 물 정화 캡슐 개발&nbsp;&nbsp;한국대학신문",
+      "sources": [
+        {
+          "name": "한국대학신문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fSEZBUHR4YVI4aENxU0FVenlvVml5TGRSSUJrRkpfWlQ0MFRCZEJJT3Vwb3hZTW1EZTNWX3QxbjZBSE1rMTNSeUhFWHRVU3JYX3JnMko3cmRwWTBkS1U2QlpNUmxaQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1a80a1a38ae",
+      "title": "“카레에 후추 뿌려 먹었더니”...건강 효과 높이는 음식 조합은? - 코메디닷컴",
+      "published": "2026-06-15T01:07:00+00:00",
+      "summary": "“카레에 후추 뿌려 먹었더니”...건강 효과 높이는 음식 조합은?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVUDdIUGNBYlNlckxobktJdkRTMWhiTi04akEyWEcydmR0NUF2eUkybGtoUXNjVWRrOG9zNlhWY2FQUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d0834f9053e",
+      "title": "설탕 완전히 끊었더니…장 건강·대사 기능 오히려 악화?[건강팩트체크] - 네이트",
+      "published": "2026-06-15T01:05:00+00:00",
+      "summary": "설탕 완전히 끊었더니…장 건강·대사 기능 오히려 악화?[건강팩트체크]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KZ1M3SkVBTTdvSWRkdlVQd0g5WWVxenZQN1ktdC1oUjhSR1dhTEJLclZLcVVtNlVjbTQ2RlJEZXJqN2dLa183N0V0UVpNdGtaaDRJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b53f951d988",
+      "title": "콜레스테롤만 챙기다간 심장질환 위험… 혈관속 유리파편 '호모시스테인' - 위키트리",
+      "published": "2026-06-15T01:05:00+00:00",
+      "summary": "콜레스테롤만 챙기다간 심장질환 위험… 혈관속 유리파편 '호모시스테인'&nbsp;&nbsp;위키트리",
+      "sources": [
+        {
+          "name": "위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LYXhVWktLUkZYa29oLXE5aHJHYUxfNzdUbGF0MllFa0NCbk84VWJwRTZzdnNNSzJyOFRycF9UbnVGbnNLUC1xTW1ZWnNzdUVOQ3pEWkJR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d43060b94303",
+      "title": "[캘리] 20~30대 “AI 시대 건강 가장 중요”...세대별 인식차 커 - 현대건강신문",
+      "published": "2026-06-14T23:17:00+00:00",
+      "summary": "[캘리] 20~30대 “AI 시대 건강 가장 중요”...세대별 인식차 커&nbsp;&nbsp;현대건강신문유튜브 오정보가 키운 스타틴 기피…이상지질혈증 치료 지연 우려&nbsp;&nbsp;약사공론부작용 우려는 '노시보 효과'…스타틴, 심혈관질환 위험 22% 낮춘다&nbsp;&nbsp;네이트리피토, \"스타틴이 당뇨병을 유발한다고?\" 거짓 정보 바로잡기 나서&nbsp;&nbsp;의협신문이상지질혈증? 실체가 무엇인가요?: 이름부터 헷갈리는 용어 정리&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "현대건강신문",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sMFhKV3VXSUJ5MWtiMS16RUJEcHZvX25PUlVOUDhxbkFTdVA0dEJheWZFU0d0Z2lXb3NXcnUyTWdhU2ZwY3FIYk1tVExfWHZrajhvaTdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f46470ffd154",
+      "title": "[시니어 건강] 깜빡하는 건 노화일까, 치매 신호일까 - 콜로라도 타임즈",
+      "published": "2026-06-14T22:48:19+00:00",
+      "summary": "[시니어 건강] 깜빡하는 건 노화일까, 치매 신호일까&nbsp;&nbsp;콜로라도 타임즈[전문의 칼럼] 기억을 잃기엔 너무 이른 나이…‘조기 발병 알츠하이머병’&nbsp;&nbsp;에너지경제신문“약속을 잊은 게 아니라, 약속 자체가 사라졌다”… 건망증과 치매 차이?&nbsp;&nbsp;크리스찬 뉴스[휴람 건강정보] 혈관성 치매 |&nbsp;&nbsp;HeraldK.com[복지논단] 치매보다 먼저, 기억을 돌보다&nbsp;&nbsp;대구신문",
+      "sources": [
+        {
+          "name": "콜로라도 타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPc3lpME5XMFM4azdTbEJLN2lnUmRJYWpiLVZNSUp6Qks2cmtUaURhSXRFOE1FNnNoOUFHVHlSUThRTkU3b3BXSkVHejV2SDhmRkNySFdMQzZNREJRQmVVUG5NazdCcy1qSEtuai1JV0cza1FwTnRncGN4bHZLMy1feWFoQVQ5TnViM25nbVNnMUtzdllpY1BQTTZWaTFHZF9PQ1FnMEZ3c2RZZHdnVThxNkwwWjdZVUJ0ZmFUQV9hWFhncjE3QzdUYzNNYVhrQTM3ajBUbzJrS2xtM18zRVFDRGZyNnQtQUVyaDB1ek5WenZURHZIdWZrelVNSFRUeC1JYzBqYmVvZEJaaGJEQmRpTnBSWWZOc0dzXzI1UzNkWjY5NGlsYkt6bmFzNG9IS1J6MFEtOXRjdE9FaEx4NkJpRDNkTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d5e7197ec4e",
+      "title": "“떨어지는 노년기 면역력, ‘비타민 B군’으로 기초 체력 다져야” - 하이닥",
+      "published": "2026-06-14T22:00:00+00:00",
+      "summary": "“떨어지는 노년기 면역력, ‘비타민 B군’으로 기초 체력 다져야”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05N3hoNUIybkNHLTFFc1dWb2JhdE5SeWtaQVBYcEd6T3V6UDdrYlVzeUdkZDBJeDcwNzRvT3Z0S0oxbm1FRENYUE0tVDFReEVCNnlGWWNLc2lLQTRxWUZHQ3BHT3RVbm9DaEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a94b37808800",
+      "title": "중기 간암 치료, 핵심은 간기능 유지 - 의약뉴스",
+      "published": "2026-06-14T19:50:57+00:00",
+      "summary": "중기 간암 치료, 핵심은 간기능 유지&nbsp;&nbsp;의약뉴스“가당 콜라·사이다는 간암 위험↑…제로음료는 연관성 확인 안 돼” [건강팩트체크]&nbsp;&nbsp;동아일보[지금, 명의] “지방간 방치하면 간암까지…간 수치 정상이어도 안심 못해”&nbsp;&nbsp;서울경제\"하루 한 잔도 위험\"…설탕 들어간 음료, 간암 위험 최대 15% 높인다&nbsp;&nbsp;뉴시스설탕 든 음료, 간암 주요 아형 위험 높여&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jMXRKcUxSNUdFT2FBQjRQMjQ1NWdiN2RzajlfZWJrbEJmVm9qb1RKVXZnYkNoRkZ2MVFLLTI5RGpzeTVXR1NaMDV6Q2hiRTJVT1IySmkyNkFmM1NwRG9JNFd6MTczODQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "68886a25edb8",
       "title": "“한 알 꿀꺽”… 짜장면 먹은 죄책감 덜어내는 방법 - 헬스조선",
@@ -26,18 +170,6 @@
         {
           "name": "헬스코리아뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PQzVlUkw4Z3lPTVBjaXlmNXg2SmotRWx5ai1lb2Q0ZmppcENxR3RZajdWdk9nUk1Oa2IwMzNYRGxwbUZqS2VhR2x2MEJiRUpoMU8zUlIwSmR5NVdENHRqNXpDS29GNkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a7c20dd7989c",
-      "title": "“햄·소시지 즐기면 치매 위험 58% 높아진다” - abcn.kr",
-      "published": "2026-06-14T16:50:12+00:00",
-      "summary": "“햄·소시지 즐기면 치매 위험 58% 높아진다”&nbsp;&nbsp;abcn.kr[아침마다 지혜 #383] 끊기 어렵게 설계된 가공식품, 그 뿌리에 담배 회사가 있었습니다&nbsp;&nbsp;캐어유 뉴스왜 뜯으면 멈출 수가 없을까…감자칩, 담배 수준 중독성 있었다&nbsp;&nbsp;세계일보심혈관·당뇨 위험 증가…\"당장 초가공식품 치우세요\"&nbsp;&nbsp;뉴시스[초가공식품의 역설 ㊥] 비만부터 치매까지…연구들이 경고하는 이유&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "abcn.kr",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mVlRBeXRUQzk4bzdyZVlPNlB4UW9iOGs2QVVuZ0YxNml1TlVuUmFJRzZCV25QbnhuQnZvWmFjSm9UUHUxOHdKUzlPNWlidzBmTFFielBSTjAzTUcyZTlHMDhwZ9IBZ0FVX3lxTE9zUTRyeGdhN3hIX25NMEVxc3dlUE01Q1pTd0xTYXNVa3N2U3RNRGFtdFFGdVJpX1dhWGdrNFpnZmpkNHNkVHBua0ptajh6T2pMZFVZU0swTEYwdDRHamlxLWRMY185eFE?oc=5"
         }
       ]
     },
@@ -66,6 +198,18 @@
       ]
     },
     {
+      "id": "177103458024",
+      "title": "2분기 실적도 ‘훨훨’… 한화솔루션, 화학·태양광 쌍끌이 효과 - 아시아투데이",
+      "published": "2026-06-14T08:33:51+00:00",
+      "summary": "2분기 실적도 ‘훨훨’… 한화솔루션, 화학·태양광 쌍끌이 효과&nbsp;&nbsp;아시아투데이",
+      "sources": [
+        {
+          "name": "아시아투데이",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yWWU0UWQ2aVgzSmpyV2xQTUJfMFpBYlRjMFNDQUtZVlR0RWQ3NkM2OU1SYllXV1Z0OTNiVmx3Yi1aa0tRS2ZnaHpfTk83RXd1SFNtNHNmRUZJcHJsTXE3RnB6TUNFdi1QRndLVU1R?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0a15d6848fb9",
       "title": "남성보다 위험한 ‘젊은 여성 위암’ - 스포츠경향",
       "published": "2026-06-14T08:07:00+00:00",
@@ -90,10 +234,10 @@
       ]
     },
     {
-      "id": "3e35b2ebbe29",
-      "title": "치매 부르는 혈액암 돌연변이 발견…알츠하이머 새 원인 주목 - 매일경제",
+      "id": "29ce4e907ae5",
+      "title": "“깜빡하시는 부모님 치매 걱정되는데”…피 한 방울로 미리 알 수 있다면 - 매일경제",
       "published": "2026-06-14T05:34:18+00:00",
-      "summary": "치매 부르는 혈액암 돌연변이 발견…알츠하이머 새 원인 주목&nbsp;&nbsp;매일경제",
+      "summary": "“깜빡하시는 부모님 치매 걱정되는데”…피 한 방울로 미리 알 수 있다면&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "매일경제",
@@ -129,7 +273,7 @@
       "id": "d533d20b8cbd",
       "title": "근육 키우려다 통풍? 단백질 많이 먹으면 생기기 쉬운 부작용 - GQ Korea",
       "published": "2026-06-14T02:40:22+00:00",
-      "summary": "근육 키우려다 통풍? 단백질 많이 먹으면 생기기 쉬운 부작용&nbsp;&nbsp;GQ Korea바람만 스쳐도 아프다…'통풍성 관절염' 제대로 알고 치료해야&nbsp;&nbsp;매경헬스통풍 환자, 맥주만 끊으면 끝? ‘의외로 위험한 음식’ 3가지&nbsp;&nbsp;헬스조선바람만 불어도 지옥? 2030 작살내는 통풍!&nbsp;&nbsp;브런치",
+      "summary": "근육 키우려다 통풍? 단백질 많이 먹으면 생기기 쉬운 부작용&nbsp;&nbsp;GQ Korea",
       "sources": [
         {
           "name": "GQ Korea",
@@ -138,38 +282,14 @@
       ]
     },
     {
-      "id": "ec6c008dff67",
-      "title": "수 천만원짜리 치매 신약, 피 한방울로 골든타임 찾는다[헬시타임] - 네이트",
-      "published": "2026-06-13T22:01:00+00:00",
-      "summary": "수 천만원짜리 치매 신약, 피 한방울로 골든타임 찾는다[헬시타임]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BRHlGTGhHb0k1MnM3eUxqQmtKVTVuVmtLaXAyMXo2R0NfVjVwamJhNFhaSTRsdFo1V3ZvelZKRDB0bGRoTE5nai1CbGcxWmV2OEIw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "12069c2f48fc",
       "title": "“관절 위해 먹는 글루코사민, 치매 촉진” - 헬스조선",
       "published": "2026-06-13T22:00:00+00:00",
-      "summary": "“관절 위해 먹는 글루코사민, 치매 촉진”&nbsp;&nbsp;헬스조선\"관절에 좋다며 먹었는데\"… 알츠하이머 악화시킬 수 있다?&nbsp;&nbsp;약사공론글루코사민, 치매 환자에겐 독? 알츠하이머 진행·사망 위험 증가&nbsp;&nbsp;의협신문",
+      "summary": "“관절 위해 먹는 글루코사민, 치매 촉진”&nbsp;&nbsp;헬스조선\"관절에 좋다며 먹었는데\"… 알츠하이머 악화시킬 수 있다?&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iV0dkWHdBVGY3Q3Q2aEJoY0RUTWNoVUJtRHBISmRaaGZfZGJMeEo4X2RUSENHVXB5cUl5YThQTUdTeHJhcF9XbzExVkxldjdJakFRemhDdUQ3QW5Id0daRGpmWHV2ekhYWTdQcWZ2Q19lUkRhMVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0d0863c02ce2",
-      "title": "40대 이상, 6개월마다 죽여라…뇌·심장 공격하는 '입 속 그놈' - 네이트",
-      "published": "2026-06-13T21:01:00+00:00",
-      "summary": "40대 이상, 6개월마다 죽여라…뇌·심장 공격하는 '입 속 그놈'&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TWXF2Q0hmYU9qOUtiRHA2QWRodXViOGZKcVJLQUk3NjBQNGplYzNzVGpJUDI3RVVNSzR0RktoQUZEcUpBRGhHWHd2QlZvTUtxUTNB?oc=5"
         }
       ]
     },
@@ -210,30 +330,6 @@
       ]
     },
     {
-      "id": "98d92fe62e44",
-      "title": "유산소에 근력 운동 더하면 사망 위험 45% 감소… 하버드 14만7천 명 추적 결과 - 시애틀코리안데일리",
-      "published": "2026-06-13T03:34:20+00:00",
-      "summary": "유산소에 근력 운동 더하면 사망 위험 45% 감소… 하버드 14만7천 명 추적 결과&nbsp;&nbsp;시애틀코리안데일리근력운동 포함 집단, 대사증후군 유병률 16%…유산소운동보다 낮아&nbsp;&nbsp;쿠키뉴스\"일주일에 딱 2시간만\"…근력운동 시 조기사망 위험 58% 감소 - 머니투데이&nbsp;&nbsp;머니투데이30년간의 연구 결과, 수명 연장을 위한 근력 운동의 '황금기'가 밝혀졌습니다.&nbsp;&nbsp;Vietnam.vn근력운동하는 국내 성인, 대사증후군 유병률 16.4%로 최저&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vTlF1TGdLNmV1VVB1eDlueUxsSlJMM0IxWlhZRGhMcklJRktJTlBXRnJBYk5jSTZ0VXhLYnNWWWJzdGpnQjNpeTVvMFhnNy1LUWZuMWRtYmVsbEVYWDkzMzBzZ3lQRzJBMVRyVDVCUdIBc0FVX3lxTE8zZjA1cUJXTDF3a3BXdlpjeFBSaDI3cmNnZ1gxTHpuWjdXaGdVcGZLLV8wbzFrYjRtREhVUHV1OGhYVXpfcHVPVktFb2dQbUl0eHEySXBENXVtMjI1TUFTeHNkSWZnTi1lVDI0RzNLcUZUNGs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "987bb69873f8",
-      "title": "용종, 대장암 예방에도 좋다는데...비타민D의 다양한 건강 효과 - 코메디닷컴",
-      "published": "2026-06-13T03:07:00+00:00",
-      "summary": "용종, 대장암 예방에도 좋다는데...비타민D의 다양한 건강 효과&nbsp;&nbsp;코메디닷컴한여름에도 부족해지기 쉬운 영양소…달걀보다 ‘비타민D’가 많은 식품 6가지&nbsp;&nbsp;경향신문용종, 대장암 예방에도 좋다는데…비타민D의 다양한 건강 효과&nbsp;&nbsp;네이트여름에도 엄마는 햇볕을 못 봤다&nbsp;&nbsp;브런치\"참치보다 많다\"… 의외로 비타민D 많은 생선 4가지&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPV29zSW9nNGNhWUZNbnp6REZBcjVRQnpqVE8yXzVRSW84ZVJ4UG92NWszRHNOdlJRTDUwcnVkLXFBUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "619472799f42",
       "title": "쥐·원숭이 대신 ‘AI·모형 장기’로…신약개발 판 바꾼 美·EU, K바이오도 속도 - 조선비즈 - Chosunbiz",
       "published": "2026-06-13T02:30:00+00:00",
@@ -242,18 +338,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVnJzODNjNW9IY1pFSTY5TWZXR3NzcWFDcEZ6VTNxZlFQUXdLMEFPNHRBakJ3ZXhnX3hoaGdKVlpLNUd5Z2dUUE1BSk1PdEdyREVKc1pycDFlckM2UHJCZHluRE5DRnhlWFpITnRQSmNfWXBSVU81alk4S09LbDB5OUY4T0lTdzjSAZsBQVVfeXFMT0lPaEJ0QlNpS3BpaGZGcWhNMzhZOXhNd2VKS0JId2FndklyR0xzalZPQ2ZzTVFCNXpUZTAyRjBkVUpRelQteXRqUlFWQldNSnRFd21FQkZ4ZXE5RV85QnM1NVlGU1NGclhBeWtlb2pZaEdrU1A2SnQ0QldpNmJKMWl6eENPR1BjbFNkVE9JcVBPXzlPeTZHbVhMeU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d0f0fa3413f4",
-      "title": "아이 건강 지키고 싶다면…\"절대 '이 나이' 전에 스마트폰 사주지 마라\" 경고 나왔다 - 네이트",
-      "published": "2026-06-13T02:29:00+00:00",
-      "summary": "아이 건강 지키고 싶다면…\"절대 '이 나이' 전에 스마트폰 사주지 마라\" 경고 나왔다&nbsp;&nbsp;네이트아이 건강 지키고 싶다면…“절대 ‘이 나이’ 전에 스마트폰 사주지 마라” 경고 나왔다&nbsp;&nbsp;서울경제“아이 앞에선 휴대폰 치우세요”…부모들에게 나온 새 권고&nbsp;&nbsp;v.daum.net자기 전 스마트폰 보는 습관, 치매 위험 높인다?... 강성훈 교수의 치매 팩트체크 6&nbsp;&nbsp;하이닥스마트폰 첫 사용, 13세 이후가 안전&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zNE1mdGxQM0NpUFVSYzdtVE9JYmZ5R1h1T1BmVjFhU0thTTl6UVVJZ2xMbjFUUFQ0eHN0a3R2NlVaMkR2Wm5zN1cxd3FfNjNXR1JB?oc=5"
         }
       ]
     },
@@ -270,102 +354,6 @@
       ]
     },
     {
-      "id": "1aef97030b66",
-      "title": "체했다고 바늘로 콕 찔렀다간 혈관 파국? 급체 손따기의 의학적 감염 반전 - 뉴스N연합",
-      "published": "2026-06-13T02:13:32+00:00",
-      "summary": "체했다고 바늘로 콕 찔렀다간 혈관 파국? 급체 손따기의 의학적 감염 반전&nbsp;&nbsp;뉴스N연합",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE11czJ1ZU1QS0RwLUhPNWtYZDlrbDFqTklRS0ZZSmRnTEZCQUp1d3MyWWZxdFpsNUdUajZpQUJXQzZ4XzdRc0liZEVn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "016a4c4e4b06",
-      "title": "'여름철 요로감염, 방치하면 신장까지 위험하다' - 네이트",
-      "published": "2026-06-13T00:37:00+00:00",
-      "summary": "'여름철 요로감염, 방치하면 신장까지 위험하다'&nbsp;&nbsp;네이트[건강정보] 물놀이 후 잦은 소변과 발열…요로감염 신호&nbsp;&nbsp;병원신문“땀만 흘렸는데 왜 아프지?”…배뇨통에 ‘이것’ 의심&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaNmN2cmRRQTNfOENzNE1EWXNqRHJod05JSnVDZzJ0Uks1b0c2YVA4M1M1LVdyQm00dFQyaEJBZlREMHRGbTlTNllONG9EQmU1SE5v?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c1f1c121e1f",
-      "title": "치매 위험 45% 줄이려면 '난청 조기 진단과 관리가 중요' - 이데일리",
-      "published": "2026-06-13T00:04:02+00:00",
-      "summary": "치매 위험 45% 줄이려면 '난청 조기 진단과 관리가 중요'&nbsp;&nbsp;이데일리한국어 맞춤 피팅·청능 재활 훈련… 보청기, 구매보다 ‘관리’가 중요&nbsp;&nbsp;조선일보“엄마, 이거 잘 안보여?”…시력 저하, 뇌 인지 능력도 떨어뜨린다&nbsp;&nbsp;농민신문[전문의 칼럼] 예방 가능한 치매 위험 요인 1위, 난청&nbsp;&nbsp;에너지경제신문난청땐 소음도 안들린다? 더 잘들려서 고통[김규회의 뒤집어보는 상식]&nbsp;&nbsp;문화일보",
-      "sources": [
-        {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdExHSlU4d3dReERxbzYwV2FmSHYtQzNWOGFSNHdOUGRNbFBsS2VzUEJ4YTZVajhKU3dubmtrZ050a01USU9DTUVOUzR6Q2QwTUZrcnA3dmVwSEFiMDVkRWNtWnZJcGNrZTBobjNrRkY2NUhTdEJDRm9QQjQxbXNmeA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "225ca4ec3aed",
-      "title": "2014년생 남자 청소년, HPV 무료 접종 챙기세요…‘남성이 더 취약’ [건강한겨레] - 한겨레",
-      "published": "2026-06-12T23:41:00+00:00",
-      "summary": "2014년생 남자 청소년, HPV 무료 접종 챙기세요…‘남성이 더 취약’ [건강한겨레]&nbsp;&nbsp;한겨레7월 1일부터 외딴 지역에 거주하는 12세 여아들에게 무료 HPV 백신 접종이 제공될 예정입니다.&nbsp;&nbsp;Vietnam.vn성동구, 12세 남성청소년까지 HPV 예방접종 확대 지원&nbsp;&nbsp;핀포인트뉴스강동구, 12세 남성 청소년 대상 HPV 국가예방접종 확대&nbsp;&nbsp;웹이코노미강동구, 12세 남성 청소년까지 HPV 무료 예방접종 확대&nbsp;&nbsp;핀포인트뉴스",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwNjRBU3hhaFZua1lEZ2lRWUJacnYxeGJBRFVELWVnVXFRNzdsaGw4dEVObjVnSFoydGFkNHUwYk9FVlVPNGZJbDFDRF9LQldZcXNISTFkdmhFOTNvNDNaTE1BcXR4eEl3WjNBcTJiMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cdff40ebc87f",
-      "title": "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다 - 한국경제",
-      "published": "2026-06-12T23:00:08+00:00",
-      "summary": "내장지방 쌓이면 당뇨 위험?…인지기능·기억력도 나빠진다&nbsp;&nbsp;한국경제3040 젊은 당뇨병 환자… 5명 중 4명은 비만체형&nbsp;&nbsp;문화일보\"30세 이상 7명 중 1명이 '당뇨병'… 혈당 관리 부담 덜어줄 지원책 필요\"&nbsp;&nbsp;헬스조선당뇨병, 합병증 예방 위한 맞춤형 비만 관리와 정기 건강검진 필요&nbsp;&nbsp;네이트“마른데도 치매 위험 높을 수 있다?”…내장지방의 경고&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54blBBS1Q2bDdfUjZWYVp0dm5UQ0VhTGdCSVk1WnRZVXp3YVpfeUQ3c0NoZ09ucnc3Z3dTZ0gyc2lkQ1NHMlp0NUROeDJFVklfR3BLSll5N1JWUdIBVEFVX3lxTFBHX1B2NXIwRGladkMwOERDY29ZRFMwRFZ2YzJra2VmNjZseENnUU9jMGp0TGo4ODViNDVXZ2ZvNVpmRXEweENJXzdJSGlqSUpxajNjMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1e6d03d00b9",
-      "title": "[지금, 명의] \"지방간 방치하면 간암까지…간 수치 정상이어도 안심 못해\" - 네이트",
-      "published": "2026-06-12T22:02:00+00:00",
-      "summary": "[지금, 명의] \"지방간 방치하면 간암까지…간 수치 정상이어도 안심 못해\"&nbsp;&nbsp;네이트“가당 콜라·사이다는 간암 위험↑…제로음료는 연관성 확인 안 돼” [건강팩트체크]&nbsp;&nbsp;동아일보간 기능 보존과 장기 생존율 ‘두 마리 토끼’ 잡은 ‘STRIDE 요법’&nbsp;&nbsp;의학신문간암, 술․B형․C형간염․지방간이 위험요인&nbsp;&nbsp;후생신보\"하루 한 잔도 위험\"…설탕 들어간 음료, 간암 위험 최대 15% 높인다&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91NGhsTXM4RUNIcklBZlBNdHItVEp5TzhIa2NHanRybDliVkR6ellfVGlkYWdoN1ZwcEZKY2FqclMtZ1BBVm1EZVJyWDVVcVl1OW00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46449fdacbc3",
-      "title": "“노른자 버렸는데 헛수고?”…일주일에 12개 먹어도 괜찮았다 - v.daum.net",
-      "published": "2026-06-12T20:02:34+00:00",
-      "summary": "“노른자 버렸는데 헛수고?”…일주일에 12개 먹어도 괜찮았다&nbsp;&nbsp;v.daum.net“콜레스테롤 오히려 감소” 달걀 매일 먹으면 좋아… 몇 개?&nbsp;&nbsp;헬스조선\"몸에 좋은 달걀 먹을 때 꼭 같이 드세요\"⋯노년 눈·근육·기억력 지키는 '이 음식'&nbsp;&nbsp;아이뉴스24약 4만 명을 대상으로 한 연구에 따르면 일주일에 다섯 번 계란을 섭취하는 것이 유익한 것으로 나타났습니다.&nbsp;&nbsp;Vietnam.vn달걀, 콜레스테롤 걱정 사라질까? 최신 연구가 밝힌 하루 1개 섭취의 심혈관 효과&nbsp;&nbsp;브랜드경제신문",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KS0ZHVnlTTmNEd1NlZkU5WnYydWZ3bU1HWjJTcUFOenZkb29HZ2EtVkRoQTlaVXo5dFhqUmRGZ3JTc3FjQzBYc3VvWmxmMlk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2c12fea6c0d",
-      "title": "\"치매 환자가 가족을 못 알아보는 뇌과학적 이유\"…서울대 신경과 교수의 경고 - 뉴시스",
-      "published": "2026-06-12T15:02:00+00:00",
-      "summary": "\"치매 환자가 가족을 못 알아보는 뇌과학적 이유\"…서울대 신경과 교수의 경고&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUjJFR0RRVUE5X3VxU0hxUU9HeXRPRlJIVmpSUzBranl0U1NMdGI4bmMtc29odENUaDV3OUowT2hyZ3dRMWRSZ3k2bmxvekQ0Vlo3X2lUb3ZZTzVpbzF3QWRmSmjSAXhBVV95cUxObzItMlZtNy1FRk00V2l0RnpJbUEtSDRiNy1TSU1tNEpxUTdUai1XS1AzSG5jLVIwQ2IwRnhPN1ZYaWFrUkJQYm1ndTJiM2VsQ1o4dnFYbFh0anp2c0Q0RlZ0OS0zejRUTGlWNkVFUENKcUJ3OHdQWko?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c596799ebee4",
       "title": "\"왜 부유해졌는데 불행할까\"… 이재열 교수가 진단한 한국 사회 - 조선일보",
       "published": "2026-06-12T11:36:05+00:00",
@@ -374,30 +362,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm5peTlJVmcwbGw3S2pGZmlhUXFKdUVBVi1LSTFKaXBkY054T3J1R3RSZW4yLTNkQWtHQXgzSDRqRlNVYkxMckRSdWluU0I3aFFabnc0d3d0LXdUNTg3VUpCN041QmxGZG1IZlltc1hiRTlULW5IWjYzYWw2RXA3OWt3eEF1T2g4NFJOUzlIUzU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37cdcb5d120d",
-      "title": "지아이이노베이션, J&J ‘파스리타미그·GI-102’ 병용 고형암 확장 전략 공개 - 더바이오",
-      "published": "2026-06-12T01:25:19+00:00",
-      "summary": "지아이이노베이션, J&amp;J ‘파스리타미그·GI-102’ 병용 고형암 확장 전략 공개&nbsp;&nbsp;더바이오",
-      "sources": [
-        {
-          "name": "더바이오",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xWjgwQXVXTnZBVU45NHZaSFN3a0pFeDVqajNsNmdYWmNDUjdVcmY5X2p3RDFrTFlLR284SlpiSUVOTFlkNzRlV3g0LWpsal9aSFJpREpoaV9tcmpfOGxWT0lrTUlsZUI0VlNPQtIBcEFVX3lxTFBoRzNUeXVhcVZsdFNra0tqZ0dyUENpaWNzbGllZjdRSUxoLXRKMDJPYnRJUG9NVC0xNzFjbVhJczR5UW9DWWR4WkhIckhLQVNkZ1N4X1pFV2N5aUliUDFlRk9GLTFNV1ZrVnFGRUJZa24?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1f1dfe6722a",
-      "title": "정부, AI가 설계하고 로봇이 실험하는 바이오 연구실 구축 - 뉴스1",
-      "published": "2026-06-12T01:00:00+00:00",
-      "summary": "정부, AI가 설계하고 로봇이 실험하는 바이오 연구실 구축&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yLU5FdVlzelBnVlppb3UwRnRRY1N6MjlFdXgzbmRIUGhySEJWbF9BeTFuWlppTC1xTnlySERmd184cFExb3lsTVhqTkN3bDdmNHRSdDBlZHd2N21zTHVzeVpZWm9qdw?oc=5"
         }
       ]
     }
