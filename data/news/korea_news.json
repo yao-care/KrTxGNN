@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-17T11:02:11.460264+00:00",
-  "total_fetched": 93,
-  "unique_count": 93,
-  "health_related_count": 50,
+  "fetched_at": "2026-06-17T15:40:38.549974+00:00",
+  "total_fetched": 92,
+  "unique_count": 92,
+  "health_related_count": 51,
   "news": [
+    {
+      "id": "02c995f61a12",
+      "title": "‘모기향’ 무늬 같은데… 알고 보니 곰팡이균 감염 - 헬스조선",
+      "published": "2026-06-17T15:30:00+00:00",
+      "summary": "‘모기향’ 무늬 같은데… 알고 보니 곰팡이균 감염&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uSkxtWVAwZHd5X0RGVkFZdmptQXhPcEdVbEQwTWo0SF8wYnBPbnlJMkIyREl6LW5WZjdmaXB1SVNzNzBmQXdnSzYxYXNvN0x3WnYwLWh4VUk3eTNMc3pPUGs4c2NrYnF6MDlNOVhvZTVWVVZZM3c?oc=5"
+        }
+      ]
+    },
     {
       "id": "90c0a7d75dcf",
       "title": "노년기 뇌 건강 지키는 ‘소뇌’...“부피 클수록 인지 저하 늦췄다” - 디멘시아뉴스",
@@ -129,7 +141,7 @@
       "id": "0a4e0edeb62c",
       "title": "매일 마시는 탄산음료 한 컵, 간은 기억하고 있었다 대규모 추적연구서 설탕음료와 간암 위험 증가 확인 - 용인신문",
       "published": "2026-06-17T06:02:57+00:00",
-      "summary": "매일 마시는 탄산음료 한 컵, 간은 기억하고 있었다 대규모 추적연구서 설탕음료와 간암 위험 증가 확인&nbsp;&nbsp;용인신문“하루 딱 한 잔도 위험하다”…매일 마신 이 음료, 간암 위험 15% 높였다 [헬시타임]&nbsp;&nbsp;서울경제간 기능 보존과 장기 생존율 ‘두 마리 토끼’ 잡은 ‘STRIDE 요법’&nbsp;&nbsp;의학신문“하루 한 잔인데도 위험 15%↑… '이 음료'가 간암 부른다”&nbsp;&nbsp;전자신문C형간염, 치료 끝났다고 끝이 아니다...지방간 심하면 간암 감시 더 필요&nbsp;&nbsp;메디컬투데이",
+      "summary": "매일 마시는 탄산음료 한 컵, 간은 기억하고 있었다 대규모 추적연구서 설탕음료와 간암 위험 증가 확인&nbsp;&nbsp;용인신문“하루 딱 한 잔도 위험하다”…매일 마신 이 음료, 간암 위험 15% 높였다 [헬시타임]&nbsp;&nbsp;서울경제“가당 콜라·사이다는 간암 위험↑…제로음료는 연관성 확인 안 돼” [건강팩트체크]&nbsp;&nbsp;동아일보젊은 사람들에게 발병하는 암의 일종이 주목받고 있으며, 많은 사람들이 간과하는 위험성에 대해 의사들이 경고하고 있습니다.&nbsp;&nbsp;Vietnam.vnC형간염, 치료 끝났다고 끝이 아니다...지방간 심하면 간암 감시 더 필요&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "용인신문",
@@ -141,7 +153,7 @@
       "id": "3fd1f673ebf5",
       "title": "전국에 일본뇌염 경보 발령…\"백신 예방 접종 권고\" - 세계일보",
       "published": "2026-06-17T05:43:37+00:00",
-      "summary": "전국에 일본뇌염 경보 발령…\"백신 예방 접종 권고\"&nbsp;&nbsp;세계일보대구 모기 일본뇌염 바이러스 검출…\"전국에 경보 발령\"&nbsp;&nbsp;대한민국 정책브리핑질병청, 전국 일본뇌염 경보 발령 “백신 예방접종 권고”&nbsp;&nbsp;v.daum.net[속보] 모기 물렸다가 사망할 수도…대구서 ‘바이러스 모기’ 발견&nbsp;&nbsp;서울신문일본뇌염 바이러스 검출... 질병청, 전국 경보 발령 [헬시타임]&nbsp;&nbsp;서울경제",
+      "summary": "전국에 일본뇌염 경보 발령…\"백신 예방 접종 권고\"&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "세계일보",
@@ -165,7 +177,7 @@
       "id": "12b53e9dbc8e",
       "title": "쇠약한 노인에게 유리한 고혈압? - 후생신보",
       "published": "2026-06-17T04:11:00+00:00",
-      "summary": "쇠약한 노인에게 유리한 고혈압?&nbsp;&nbsp;후생신보혈압 낮아진 줄 알았는데…부모님 몸 약해졌다는 신호일 수 있다&nbsp;&nbsp;네이트노쇠한 노인, 고혈압 있으면 치매 위험 오히려 32% 낮아... 이유는?&nbsp;&nbsp;하이닥고혈압과 치매 위험 관계, 노쇠 여부 따라 달라져&nbsp;&nbsp;메디컬투데이‘노쇠한’ 노인은 혈압 약간 높아야… 치매 위험 감소&nbsp;&nbsp;헬스조선",
+      "summary": "쇠약한 노인에게 유리한 고혈압?&nbsp;&nbsp;후생신보혈압 낮아진 줄 알았는데…부모님 몸 약해졌다는 신호일 수 있다&nbsp;&nbsp;네이트노쇠한 노인, 고혈압 있으면 치매 위험 오히려 32% 낮아... 이유는?&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "후생신보",
@@ -270,10 +282,10 @@
       ]
     },
     {
-      "id": "5ef2dfb88a5d",
-      "title": "“매일 걷는데도 건강검진 빨간불?”…310만명 분석해 보니 [바디플랜] - v.daum.net",
+      "id": "6de350528d27",
+      "title": "“매일 걷는데도 건강검진 빨간불?”…310만명 분석해 보니[바디플랜] - v.daum.net",
       "published": "2026-06-16T22:31:47+00:00",
-      "summary": "“매일 걷는데도 건강검진 빨간불?”…310만명 분석해 보니 [바디플랜]&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "“매일 걷는데도 건강검진 빨간불?”…310만명 분석해 보니[바디플랜]&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "v.daum.net",
@@ -338,18 +350,6 @@
         {
           "name": "브랜드경제신문",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YbXFqV3Z5dnBFdm9vZXZxc0pkSWpTMDQzV19sS3JHa3BqZEtZaEtiUW5VWnd6dEhMMkhjUHlZLThXOG85cDhHWXRSODY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "989e36b3cc5c",
-      "title": "“피부에 모기향 소용돌이무늬” 신기하네…‘이 균’ 감염 신호라고? - 코메디닷컴",
-      "published": "2026-06-16T14:50:00+00:00",
-      "summary": "“피부에 모기향 소용돌이무늬” 신기하네…‘이 균’ 감염 신호라고?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBNlpwN2Q1SXo3am1rYUdDd1psODA5RnhUaWd1c0E4Y1hGcHEwZTh6bGRXOGtqTnZvdHRDY1loLU9sZw?oc=5"
         }
       ]
     },
@@ -462,14 +462,14 @@
       ]
     },
     {
-      "id": "561dc3b6063b",
-      "title": "“건망증인 줄 알았는데”…치매 전 단계 ‘경도인지장애’ 환자 급증 - 후생신보",
-      "published": "2026-06-16T06:03:00+00:00",
-      "summary": "“건망증인 줄 알았는데”…치매 전 단계 ‘경도인지장애’ 환자 급증&nbsp;&nbsp;후생신보‘알츠체크’로 치매 조기진단 패러다임 변화 선도&nbsp;&nbsp;메드월드뉴스혈관성 경도인지장애 및 퇴행성 경도인지장애에서 Choline Alfoscerate의 임상적 적용 방향&nbsp;&nbsp;메디칼업저버[전문의 칼럼] 기억을 잃기엔 너무 이른 나이…‘조기 발병 알츠하이머병’&nbsp;&nbsp;에너지경제신문[인터뷰H] 박익성 부천성모병원장 \"경도인지장애 임상, 질환특성 등 고려해 종합적으로 해석해야\"&nbsp;&nbsp;매경헬스",
+      "id": "c0cbe7e002f2",
+      "title": "‘알츠체크’로 치매 조기진단 패러다임 변화 선도 - 메드월드뉴스",
+      "published": "2026-06-16T05:42:37+00:00",
+      "summary": "‘알츠체크’로 치매 조기진단 패러다임 변화 선도&nbsp;&nbsp;메드월드뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1udEthZlNob2MzZVdZaXpibXl6MWE2VFhSSnBzNnZCOTdpa2w4bUJrNjFieDVDMlZCeE5FenZPcmJIOU1S?oc=5"
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ub3p6b29YUHRrcmpwdXE1YnczQTBoLXBKem5oWGdQLTRvei12WnA5NmxCY2xvOUJyRTRHcW9BeFhINS1iQkZPSXBRT2lXdmdmZXdBWXdmNHRvMFFxWDNSektqclU2X0k?oc=5"
         }
       ]
     },
@@ -477,11 +477,23 @@
       "id": "360481411d30",
       "title": "베트남, 뎅기열 환자 5만 명 돌파…전년동기比 2.5배 웃돌아 - 인사이드비나",
       "published": "2026-06-16T05:00:00+00:00",
-      "summary": "베트남, 뎅기열 환자 5만 명 돌파…전년동기比 2.5배 웃돌아&nbsp;&nbsp;인사이드비나2026년 아세안 뎅기열의 날을 맞아: 뎅기열 없는 사회를 위한 공동의 노력&nbsp;&nbsp;Vietnam.vnWHO, 아동 대상 뎅기열 치료제 개발 첫 지침 발표&nbsp;&nbsp;현대건강신문[생할] 5개월 만에 뎅기열 환자 5만 명 돌파…기존 패턴 파괴하며 '예측 불가' 확산&nbsp;&nbsp;굿모닝베트남미디어뎅기열 환자 수가 3.4배 이상 증가했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "베트남, 뎅기열 환자 5만 명 돌파…전년동기比 2.5배 웃돌아&nbsp;&nbsp;인사이드비나뎅기열은 예측하기 어렵기 때문에 방심해서는 안 됩니다.&nbsp;&nbsp;Vietnam.vn[생할] 5개월 만에 뎅기열 환자 5만 명 돌파…기존 패턴 파괴하며 '예측 불가' 확산&nbsp;&nbsp;굿모닝베트남미디어뎅기열 환자 수가 3.4배 이상 증가했습니다.&nbsp;&nbsp;Vietnam.vn뎅기열: 증상, 원인 및 예방.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "인사이드비나",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wVHZ0VV92Zk5US0phb2N6THNEQ3pXdlhpTE5BU1dtQnpib094alJFVlEzNENyWWZRREdHSjFabXJDS2txUnk2OTVEQVdTUll4VGFLYmhGY3ZLRThHeUVwdWpTR2Y3MXRNR3BWcg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45fe2a267ebd",
+      "title": "ADHD·자폐 증가, 유전보다 기준 확대 영향 - 헬스조선",
+      "published": "2026-06-16T02:38:00+00:00",
+      "summary": "ADHD·자폐 증가, 유전보다 기준 확대 영향&nbsp;&nbsp;헬스조선ADHD와 다른 건강 문제 사이의 우려스러운 연관성이 밝혀졌습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RN1d4cmUwMXA2M2tNbnJmNExrTXZ3QmZtUWdTSlFhNE9ZRDllS1loeEMwNHpOSEdFRHNqbTV2a1NfRjhrVF9CV2I3Wi1YSi10WmNCUWg3RGdOUHBkY2dkalRXRWhaOWdhcXJBRVRtNDJFQ3llVmc?oc=5"
         }
       ]
     },
