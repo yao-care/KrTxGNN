@@ -1,19 +1,163 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-16T20:55:31.749862+00:00",
-  "total_fetched": 83,
-  "unique_count": 83,
-  "health_related_count": 40,
+  "fetched_at": "2026-06-17T04:24:43.810608+00:00",
+  "total_fetched": 80,
+  "unique_count": 80,
+  "health_related_count": 45,
   "news": [
     {
-      "id": "81296ae7c52e",
-      "title": "엄지의 제왕 - 뇌졸중을 막아라! 뇌졸중 시한폭탄 ○○의 비밀..? - mbn.co.kr",
-      "published": "2026-06-16T19:12:31+00:00",
-      "summary": "엄지의 제왕 - 뇌졸중을 막아라! 뇌졸중 시한폭탄 ○○의 비밀..?&nbsp;&nbsp;mbn.co.kr열 살짜리가 뇌졸중? 방치하면 평생 후유증 남는다는데[건강 팁]&nbsp;&nbsp;서울경제건강 검진 보고서에서 두 가지 이상 소견이 발견되면 뇌졸중 위험의 초기 징후일 수 있습니다.&nbsp;&nbsp;Vietnam.vn6월 15일 의료 뉴스 업데이트: 노인에게서 쉽게 간과되는 출혈성 뇌졸중 징후.&nbsp;&nbsp;Vietnam.vn",
+      "id": "1a5a1b4d7215",
+      "title": "쇠약한 노인에게 유리한 고혈압? - 후생신보",
+      "published": "2026-06-17T04:11:00+00:00",
+      "summary": "쇠약한 노인에게 유리한 고혈압?&nbsp;&nbsp;후생신보혈압 낮아진 줄 알았는데…부모님 몸 약해졌다는 신호일 수 있다&nbsp;&nbsp;네이트노쇠한 노인, 고혈압 있으면 치매 위험 오히려 32% 낮아... 이유는?&nbsp;&nbsp;하이닥고혈압과 치매 위험 관계, 노쇠 여부 따라 달라져&nbsp;&nbsp;메디컬투데이‘노쇠한’ 노인은 혈압 약간 높아야… 치매 위험 감소&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "mbn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uNnVFdnFhTEoxSnAwMFhrbEc5UG9hSko1VzNOYzduaVVQSkJWanRHYWNvYjNORXhWd2MyUEZYNGlNYWV3SzFZRS1qejMxWnBtZFlhQldRQUpxY0pKS2c0UHRsV2dsUktxd1pGMS0wZ3JwZHQ0ZGJpSkdn?oc=5"
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44NGRLdlMtLXR2ZGxNeDYzZ3c0S0JOSGdVWkJwNGY5RzdEUXFPQm54OElsSjIwczh5WkR4ZWJjOEI2clJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52f770d2a8c6",
+      "title": "GSK 싱그릭스, 요양시설 입소 고령자 치매 위험 감소 - 의약뉴스",
+      "published": "2026-06-17T02:19:00+00:00",
+      "summary": "GSK 싱그릭스, 요양시설 입소 고령자 치매 위험 감소&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SbHBGVDVSQUl3TzdfNXVqZDNCbGNpOVRXS2ZONXZCYWp0NkVXTnZ6cVBwOWVrT2l3X2l6YzZjUW1TZnRydGdaUkdseGlxSkV6amhwNWpuRXprYm5YOGxyVUx2cUFwLU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5236e24848f8",
+      "title": "편두통 심할 때 구토가 진통제 역할?… 새 치료제 개발 단서 됐다 - 하이닥",
+      "published": "2026-06-17T02:00:00+00:00",
+      "summary": "편두통 심할 때 구토가 진통제 역할?… 새 치료제 개발 단서 됐다&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1feDNUT0tONkh1Q00ycGIzZUJlQ19ZcGhrRGo1WE05T1ZjX2FwSlU0UWd0SHE1NFdEU2JHUjN6NDlXb0xHa2QtXzVfeDJMRkV1WG9heVpIdlgwbGJmVkZQaTh0X0FqSWFYNFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d34029b7e571",
+      "title": "젬백스, 희귀난치병 PSP 악화 70% 늦췄다…장기추적 데이터 공개 - 리드경제",
+      "published": "2026-06-17T01:09:00+00:00",
+      "summary": "젬백스, 희귀난치병 PSP 악화 70% 늦췄다…장기추적 데이터 공개&nbsp;&nbsp;리드경제이영환(Brigham and Women's Hospital (Harvad medical school)) | 인간 텔로머라제 역전사효소 유래 펩타이드 GV1001에 의한 알츠하이머병 마우스모델에서 신경퇴행성 회복과 그 심층기전 [Exp. Mol. Med.] | 웨비나&nbsp;&nbsp;BRIC“인슐린 억제제 써봤더니” 놀라운 효능…치매 환자 염증↓인지기능↑ |&nbsp;&nbsp;HeraldK.com알츠하이머 '3대 병리' 동시에 잡았다…국내 연구진, 치료 기전 규명[과학을읽다]&nbsp;&nbsp;v.daum.net젬백스 GV1001, 알츠하이머 원인물질 치우는 ‘뇌 청소부’ 깨웠다…핵심 작용기전 규명&nbsp;&nbsp;팜이데일리",
+      "sources": [
+        {
+          "name": "리드경제",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TaTZ3bG5xclpRZDhPTVFiTFFxWlVXT1pDcG9uOXBiZVRMQ1FuZUdGbEpoenRPNXlZS08zdnF3eEdQbzVGWlc3aWtRSDJKcFZHZXFKbThuRXpCVGpiSk9TLTFzV0lZZWNfMHJRel9zZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4deb9f2d6c2",
+      "title": "혈액검사로 전이성 유방암 진행 예측 길 열어 - 병원신문",
+      "published": "2026-06-17T01:04:50+00:00",
+      "summary": "혈액검사로 전이성 유방암 진행 예측 길 열어&nbsp;&nbsp;병원신문\"전이성 유방암, 방사선 치료효과, 피검사로 예측\"&nbsp;&nbsp;뉴시스\"혈액검사로 전이성 유방암 확산 위험 예측\"&nbsp;&nbsp;아시아경제연세암병원, '소수전이 유방암' 치료 새 분기점 선언...'전신 확산 위험 예측' 가능&nbsp;&nbsp;파이낸셜포스트[Medical Report]혈액 한 방울·웨어러블·AI까지… 의료혁신, 진단의 경계를 넓히다 外&nbsp;&nbsp;헬스케어N",
+      "sources": [
+        {
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41ODFrVVc2Skh1dmpTa0NnMDlINlIzektEdU9mUnBPaHRWa2FWdV9GbkZ1b3ZubVRCZFBSeG1vWFZIRmFaYzdzVjFGZUFiZ0JWQlZCS1k2X09ZZEI5ZnBMSTU3QW1hQWJiZnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c45f12369c4d",
+      "title": "안데스 한타바이러스 mRNA 백신 개발 … 동물실험서 예방 효과 확인 - 헬스코리아뉴스",
+      "published": "2026-06-16T23:34:46+00:00",
+      "summary": "안데스 한타바이러스 mRNA 백신 개발 … 동물실험서 예방 효과 확인&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBob1hnS2U5TVUwUk1VZDYyTzFqeU1kZGdHSVpPQmhaZWFvYXVhVUY1N0Y1NXBhYWtWMC1FeWZ4ZnlzMnJZSy02VUFINkl0RjBBODhQb25FMG9icWtVVjhVWERKc20zak0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec6956f4de32",
+      "title": "밤잠 설치는 이유, 하루 생체리듬에 있다 - 한국의약통신",
+      "published": "2026-06-16T23:28:40+00:00",
+      "summary": "밤잠 설치는 이유, 하루 생체리듬에 있다&nbsp;&nbsp;한국의약통신Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "한국의약통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83LXFieDQzMndFZTRkZGF4cUtZeUFFNkZFMVdxZFJaZ2x3WXJVQTBFWE0xbUNpbDBJQXQzNk5VWGdDeThjS2N0dVBQd3AtTXNNVUJPeDR2dXYtTlFUNFBWdkY0WTJNN0FoOUZV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d69d76513841",
+      "title": "“매일 걷는데도 건강검진 빨간불?”…310만명 분석해 보니 [바디플랜] - 동아일보",
+      "published": "2026-06-16T22:30:00+00:00",
+      "summary": "“매일 걷는데도 건강검진 빨간불?”…310만명 분석해 보니 [바디플랜]&nbsp;&nbsp;동아일보운동 실천군, 만성질환 유병률 감소 수치로 증명&nbsp;&nbsp;메디칼타임즈유산소에 근력 운동 더하면 사망 위험 45% 감소… 하버드 14만7천 명 추적 결과&nbsp;&nbsp;시애틀코리안데일리\"일주일에 딱 2시간만\"…근력운동 시 조기사망 위험 58% 감소 - 머니투데이&nbsp;&nbsp;머니투데이근력운동하는 국내 성인, 대사증후군 유병률 16.4%로 최저&nbsp;&nbsp;의학신문",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zUzBUeWpNSm9kWko4cmhaZ0tEaDA2Z3ItcGJ3QUstSzNIbzZPRHFVMjA5NDJOclVRZEladlJwN3RpQmhHd2JDQmNGMzMydGp6RFNkeENIbTVLbDVwR0Vyd3JrTGVIenBMN1NDc0VvNNIBZkFVX3lxTE1qdE80d1dKVEJlR2E4cjhlSXpJNWpQSnhzSUFVdDB1MHFIMXhiUnFaYjQwaVFkeUVGQ3pJYUNqNzRIWm0yVUVfdENxRU1rUXFOOTJuTHlwa2k2MTNJRWlOTTZ2WEhiQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5cb1891852d4",
+      "title": "[의료칼럼] 침묵하는 뇌혈관, 검진으로 미리 지키자 - 매일신문",
+      "published": "2026-06-16T21:30:00+00:00",
+      "summary": "[의료칼럼] 침묵하는 뇌혈관, 검진으로 미리 지키자&nbsp;&nbsp;매일신문\"뇌혈관이 가장 위험한 시간대는 아침\"…생활습관 개선 강조한 전문의&nbsp;&nbsp;뉴시스6월 15일 의료 뉴스 업데이트: 노인에게서 쉽게 간과되는 출혈성 뇌졸중 징후.&nbsp;&nbsp;Vietnam.vn열 살짜리가 뇌졸중? 방치하면 평생 후유증 남는다는데[건강 팁]&nbsp;&nbsp;서울경제건강 검진 보고서에서 두 가지 이상 소견이 발견되면 뇌졸중 위험의 초기 징후일 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "매일신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TYzNWcHZvM1JzSDhUOHhuSkZ5elBIdEhpdi1HcGV2Nmx5M0lVX21ZZDVZN2s4eFdlVTFqNGNtS0ZCdTU0TVBqS0ZXN2E3dktuMFcwT1g4Y05KTkFCZEF4bzlB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3789819656f",
+      "title": "알츠하이머 발병에, 고혈압보다 저혈압이 영향 더 커 - 헬스조선",
+      "published": "2026-06-16T21:30:00+00:00",
+      "summary": "알츠하이머 발병에, 고혈압보다 저혈압이 영향 더 커&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43OUlTNmFXRU43Z0l3QUFNVndPRGlIX1RFLVFyd3dKMExzOGxpOVZ1RDBGZFRIbnBTLU5sWFozU2M5TUZqZVQxSHhhLVFaNlRxeGZEVk05dnZ5bmZzclEwU0s1Y0g1MHlEemIwSE5NZ3pvb2Z3Smc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b9bb458c3ac",
+      "title": "고유량 산소요법, 급성 호흡부전 삽관 위험 낮춰···사망률 차이는 없어 - 메디칼업저버",
+      "published": "2026-06-16T21:03:30+00:00",
+      "summary": "고유량 산소요법, 급성 호흡부전 삽관 위험 낮춰···사망률 차이는 없어&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4VTdVWDN2U1pTREx2US11OEFzdUFUd1dNZE02TTM4Tm1VUlN4cG1LUDBPaEpHenBPSXdJOVJndzNDS3I5Zkt6cWM3TWNkckk2Sk4tYi1yMkpDRHQ4enZjUEdpZDFjcDBnbVdJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8db2e5191d34",
+      "title": "비타민C 부족하면 뇌가 쪼그라든다?…치매 발생 가능성 높아져 - 전자신문",
+      "published": "2026-06-16T21:00:00+00:00",
+      "summary": "비타민C 부족하면 뇌가 쪼그라든다?…치매 발생 가능성 높아져&nbsp;&nbsp;전자신문\"귤·딸기 안 먹었더니 뇌가 먼저 늙었다\"⋯비타민 C 부족한 사람, 치매 위험 ↑&nbsp;&nbsp;v.daum.net\"과일·채소 챙겨드세요\"…비타민 C 수치 낮을수록 치매 위험 커진다&nbsp;&nbsp;네이트뇌 찍어봤더니...딸기 속 비타민 C, 실제로 뇌 건강에 참 좋다?&nbsp;&nbsp;코메디닷컴혈중 비타민 C 높을수록 기억력 신경망 잘 보존… 日 노인 2천 명 연구 결과&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tZFZfYkplSWpDQWg5bmVId3NCR0VWSGhJT0RYZVBvNlBtbVVBazh1S2Z1NTJFZlVJdDRYZ0NOVV9mRG9BeG83WkZvZm1KUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fbe16ff80f6",
+      "title": "(해외환경뉴스) 미국 해양대기청(NOAA), 웨스트나일 바이러스 예측 등 로드맵 제시 - 제주환경일보",
+      "published": "2026-06-16T20:33:12+00:00",
+      "summary": "(해외환경뉴스) 미국 해양대기청(NOAA), 웨스트나일 바이러스 예측 등 로드맵 제시&nbsp;&nbsp;제주환경일보",
+      "sources": [
+        {
+          "name": "제주환경일보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlZWtRVDNFS19ORHJJUG9icmZRV3J1LVNVenNkMG9scTktSThMZ0JjNEF4TE94Uk9MdnRZUjFVVzNqWlFkc3czX3hFWHozQ3Z5d0ZFbmlWM1hWUTNQYUJlbGdVSHV4bmR2?oc=5"
         }
       ]
     },
@@ -21,7 +165,7 @@
       "id": "9acac2d315ef",
       "title": "“암 세포 키우는 최악의 식습관”… 전문가들 경고한 음식 - 헬스조선",
       "published": "2026-06-16T19:00:00+00:00",
-      "summary": "“암 세포 키우는 최악의 식습관”… 전문가들 경고한 음식&nbsp;&nbsp;헬스조선“상추 싸 먹었으니 괜찮다?”…5060 식탁의 착각&nbsp;&nbsp;세계일보한 입만 더?… 하루 '이 것' 30g만 더 먹어도 '위암 위험 9%' 높아진다&nbsp;&nbsp;전자신문“식탁에 올렸으면 당장 빼야된다”…매일 먹는 식탁 위 암 부르는 복병&nbsp;&nbsp;서울경제“식탁에서 치워라”…매일 먹는 음식, 알고 보니 ‘암’ 부르는 복병이었나&nbsp;&nbsp;v.daum.net",
+      "summary": "“암 세포 키우는 최악의 식습관”… 전문가들 경고한 음식&nbsp;&nbsp;헬스조선“상추 싸 먹었으니 괜찮다?”…5060 식탁의 착각&nbsp;&nbsp;세계일보한 입만 더?… 하루 '이 것' 30g만 더 먹어도 '위암 위험 9%' 높아진다&nbsp;&nbsp;전자신문“식탁에서 치워라”…매일 먹는 음식, 알고 보니 ‘암’ 부르는 복병이었나&nbsp;&nbsp;v.daum.net“식탁에 올렸으면 당장 빼야된다”…매일 먹는 식탁 위 암 부르는 복병&nbsp;&nbsp;서울경제",
       "sources": [
         {
           "name": "헬스조선",
@@ -42,14 +186,26 @@
       ]
     },
     {
-      "id": "989e36b3cc5c",
-      "title": "“피부에 모기향 소용돌이무늬” 신기하네…‘이 균’ 감염 신호라고? - 코메디닷컴",
-      "published": "2026-06-16T14:50:00+00:00",
-      "summary": "“피부에 모기향 소용돌이무늬” 신기하네…‘이 균’ 감염 신호라고?&nbsp;&nbsp;코메디닷컴",
+      "id": "8ea93b33b53e",
+      "title": "\"피부에 모기향 소용돌이무늬\" 신기하네…'이 균' 감염 신호라고? - 네이트",
+      "published": "2026-06-16T14:51:00+00:00",
+      "summary": "\"피부에 모기향 소용돌이무늬\" 신기하네…'이 균' 감염 신호라고?&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBNlpwN2Q1SXo3am1rYUdDd1psODA5RnhUaWd1c0E4Y1hGcHEwZTh6bGRXOGtqTnZvdHRDY1loLU9sZw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQUndET0hJZ3E1V3dQd3lZODhzUXA0UnZCUXBMc2Vzd1BUek1TQ3ZDck5Cd3VZVkgzQ2Y4Sk1aQlcweHFweU9PMUliTW1wTTYtRkRz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec35ac70164f",
+      "title": "코로나 백신, 심장마비·뇌졸중 위험 38% 낮춰...100만 명 재향군인 연구서 확인 - 시애틀코리안데일리",
+      "published": "2026-06-16T13:32:34+00:00",
+      "summary": "코로나 백신, 심장마비·뇌졸중 위험 38% 낮춰...100만 명 재향군인 연구서 확인&nbsp;&nbsp;시애틀코리안데일리",
+      "sources": [
+        {
+          "name": "시애틀코리안데일리",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zejBWd1BaTVlybFB2Uzd2ZUZ6d2V0YXBlZkdhdGNMRlVYcjYyX3ZYVjUyMjI3SDV1YWE0T1Y4RFBpYXl4NlJfeml2Sl96NFBzdS1QaDd3RERLeHFDUVg5aEdoNnR3bm1Dc08tbUE1Z9IBc0FVX3lxTFBMdmFxQktsY2d3Y09QNnhkS2Y5ak5HSC1paEtEblYtbmFqd05XVnRCUWJ4QjZ3dWl4VVdpR2tyalpfRm9GWmpnYkxSN3Q5ZWhERzIwcEwxcmpTMTVJSFpidDhILVhqdFgtdUJOQnNPa2RWY0E?oc=5"
         }
       ]
     },
@@ -66,26 +222,26 @@
       ]
     },
     {
-      "id": "54bf143c3a7f",
-      "title": "노쇠한 노인, 고혈압 있으면 치매 위험 오히려 32% 낮아... 이유는? - 하이닥",
-      "published": "2026-06-16T12:00:00+00:00",
-      "summary": "노쇠한 노인, 고혈압 있으면 치매 위험 오히려 32% 낮아... 이유는?&nbsp;&nbsp;하이닥",
+      "id": "47861471ead4",
+      "title": "무설탕 다이어트의 역설...설탕 0%가 장 건강과 대사 기능을 망친다? - 시애틀코리안데일리",
+      "published": "2026-06-16T12:45:15+00:00",
+      "summary": "무설탕 다이어트의 역설...설탕 0%가 장 건강과 대사 기능을 망친다?&nbsp;&nbsp;시애틀코리안데일리Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zNnIzZFVxQlRqUFF3b005b3hYX2l3c3F4enFhWGEtN1drTE9Cd2Jybkh4QWxZTEhJdTNDcUR0WWVtVXhhYXFfMlRRNUEyM2pBWDE1WDRUdXFIdU9JcmhQanRCNUYxVmFDc2c?oc=5"
+          "name": "시애틀코리안데일리",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZGdSQnhmNDNTZFFGOHpUNVo1dXRXUW5qQW1oei1NbkNuNGVfWG1qbHNoYkYzaUpQcjc3cFN1bTJ2NEZ5TF84eGNPWTI2R0VGd0o4cW5uSGQyWWdWNTBvbHhBQVRhZGRvWlZReUxpYUnSAXNBVV95cUxPbU1NOVJSUEw4aEpaRFZXZmxVekpBMjdDYnIwY0RDZG5ZNkRSejFMV0pxcmt0ei1fUXZyMTNSQ2YwcFR2ckxoN0ZBeDdpeWU1YUx0THBLVU92LUZpRS1QSG9uSTlGSnhOallicC1haDR4QTl3?oc=5"
         }
       ]
     },
     {
-      "id": "d3f3e24cca76",
-      "title": "혈중 비타민 C 높을수록 기억력 신경망 잘 보존… 日 노인 2천 명 연구 결과 - 하이닥",
-      "published": "2026-06-16T11:30:00+00:00",
-      "summary": "혈중 비타민 C 높을수록 기억력 신경망 잘 보존… 日 노인 2천 명 연구 결과&nbsp;&nbsp;하이닥“비타민 C 부족하면 치매 위험 증가…뇌 영역 연결성 약화된다”&nbsp;&nbsp;동아일보비타민C 부족하면 뇌 쪼그라든다…“치매 피하려면 과일·채소 즐겨야” [달콤한 사이언스]&nbsp;&nbsp;서울신문뇌 찍어봤더니...딸기 속 비타민 C, 실제로 뇌 건강에 참 좋다?&nbsp;&nbsp;코메디닷컴일본의 한 연구에서 비타민 C 결핍이 미치는 새로운 유해 효과가 밝혀졌습니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "fd5d23d6e084",
+      "title": "순천향대서울병원 외과 임벼리 교수, \"항문 출혈, 치질만은 아니다\"…반복되면 항문암 검사 받아야? - 더퍼스트미디어",
+      "published": "2026-06-16T11:03:36+00:00",
+      "summary": "순천향대서울병원 외과 임벼리 교수, \"항문 출혈, 치질만은 아니다\"…반복되면 항문암 검사 받아야?&nbsp;&nbsp;더퍼스트미디어Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zbUZqNFNXcFB2cGNtTkZnczVLWWZsMEFMTzRGTGNCcHlYNE0taGg0NnZtSmFYelNhN2toV3IycFBzaDhJTV9PekRCSGpmTHg0bm9ISWUyTkViYW1IT2JSUlp6b1N6LTZxTUE?oc=5"
+          "name": "더퍼스트미디어",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uYWtqdUt0WEFFMDRCNUVYVjNvbnRhNTM3Szg4dHB4TThtX2VSNG9TMUxZckYteHlmNU5ZV0QwbmZYa203OFhibENiU1RMWW5Ba3FjVFVSd1ZNaF92MXJiQjRtVk9XVjhzeTA3Wi01TzBOQQ?oc=5"
         }
       ]
     },
@@ -93,7 +249,7 @@
       "id": "1ae5dd382536",
       "title": "‘뇌 속 콜레스테롤’ 너무 많아도 적어도 문제...균형 깨지면 치매 위험↑ - 디멘시아뉴스",
       "published": "2026-06-16T10:45:05+00:00",
-      "summary": "‘뇌 속 콜레스테롤’ 너무 많아도 적어도 문제...균형 깨지면 치매 위험↑&nbsp;&nbsp;디멘시아뉴스“깜빡하시는 부모님 치매 걱정되는데”…피 한 방울로 미리 알 수 있다면&nbsp;&nbsp;v.daum.net단백질 응집체는 치매의 원인 아닌 결과물…신경퇴행성 질환의 새 원인 유전자 규명&nbsp;&nbsp;네이트[SDG 3] 알츠하이머병의 운명을 가르는 ‘전환점’ 발견&nbsp;&nbsp;SDG뉴스치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적&nbsp;&nbsp;코메디닷컴",
+      "summary": "‘뇌 속 콜레스테롤’ 너무 많아도 적어도 문제...균형 깨지면 치매 위험↑&nbsp;&nbsp;디멘시아뉴스“깜빡하시는 부모님 치매 걱정되는데”…피 한 방울로 미리 알 수 있다면&nbsp;&nbsp;v.daum.net구리 전달 약물, 알츠하이머 독성 단백질 줄였다…기억력 개선 가능성&nbsp;&nbsp;네이트치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적&nbsp;&nbsp;코메디닷컴단백질 응집체는 치매의 원인 아닌 결과물...신경퇴행성 질환의 새 원인 유전자 규명&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "디멘시아뉴스",
@@ -110,6 +266,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvZlIweEM4bmVLdlFpVWQ4TjNKQ1dMVkhBbnNpako4dWY0bEpoREM1cDFleFA2VlVjbktGR2ROQU5vbVRWdlNOYlNRWXhKMkp5MFlPYk13cVNRRnkxVmFyWU1KRkFsRmZ5Y3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "672190d9568f",
+      "title": "[단독] 보안 취약 신고 10년 새 3.6배 급증… “AI 창, AI 방패로 막아야” - 국민일보",
+      "published": "2026-06-16T09:51:00+00:00",
+      "summary": "[단독] 보안 취약 신고 10년 새 3.6배 급증… “AI 창, AI 방패로 막아야”&nbsp;&nbsp;국민일보",
+      "sources": [
+        {
+          "name": "국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nekp5Ql9pMnRmTWswTXJwUG1ObFllczN5SHY1NVdYcE1mdHNmTFFmcDNCaXJ3a1ZHMFpya2YySWZ1SkRQU1llSDJiRzJORVpMVW1XV01NdElaWVo4WnIySmllb0psNTjSAWxBVV95cUxNNlRSUmxZaUp1TnB2Z1FKRG1HMDVNazlnYWVvZU9xTWZiVnhSTDB1WnllbG9IWHlNQUtsQTJJcS1KUm9idjVhejZkdjRUSjZwcmpnbFcxMFQzZFRfTlZHcU5lOGl3S0dLdUo5Nnc?oc=5"
         }
       ]
     },
@@ -138,18 +306,6 @@
       ]
     },
     {
-      "id": "fa8d72e42989",
-      "title": "치매를 운명으로 두지 않는 뇌 건강법 - 대전일보",
-      "published": "2026-06-16T08:12:00+00:00",
-      "summary": "치매를 운명으로 두지 않는 뇌 건강법&nbsp;&nbsp;대전일보뇌 건강에 좋은 음식 5가지… \"치매·알츠하이머 위험 낮춘다\"&nbsp;&nbsp;하이닥노년기 삶의 질 결정하는 ‘뇌 건강’, 매일 마주하는 식탁에서 답을 찾다&nbsp;&nbsp;울산종합일보\"깜빡깜빡 늘었는데\"…의외로 기억력 살리는 가장 쉬운 방법&nbsp;&nbsp;네이트치매 직전 뇌, 이 금속 없었다…“물 잘 마셔라” 뜻밖 예방법&nbsp;&nbsp;미주중앙일보",
-      "sources": [
-        {
-          "name": "대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93azBMSzl6d1RCUjMtckpEZmRJcHpYeHA1SDFhamNEV0dEd0tEQ09GQlFhRUtLdVlvTkNNZUJadGhENVFVWGVsUW93UnRMNWd5aEZyaVV5UHpHRzlkczN4VW9VU3dGdkVPcE1ramMwa9IBc0FVX3lxTE5pWmdKS0dxUU9BemwtWndlSjFtR1pkSEpubHpsb25uTG1jMU4wVExTMlV1YS1zcGVjdWh6QklHN1JhUmFMWUsyWXJpbTE3SG52N1c4LXUxemk0SzNaUmdYaV9KRXpfUjdyNEwwdmZxU0s1ZlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6974f4532708",
       "title": "글루코사민 섭취 경도 인지장애 악화 상관관계? - 약업신문",
       "published": "2026-06-16T07:38:00+00:00",
@@ -165,7 +321,7 @@
       "id": "bb722c66551f",
       "title": "매일 한 잔 마셨더니…간암 발병 위험 15% 높였다 - 한국경제",
       "published": "2026-06-16T07:19:48+00:00",
-      "summary": "매일 한 잔 마셨더니…간암 발병 위험 15% 높였다&nbsp;&nbsp;한국경제“하루 한 잔인데도 위험 15%↑… '이 음료'가 간암 부른다”&nbsp;&nbsp;전자신문“가당 콜라·사이다는 간암 위험↑…제로음료는 연관성 확인 안 돼” [건강팩트체크]&nbsp;&nbsp;동아일보“하루 딱 한 잔도 위험하다”…매일 마신 이 음료, 간암 위험 15% 높였다 [헬시타임]&nbsp;&nbsp;서울경제간 기능 보존과 장기 생존율 ‘두 마리 토끼’ 잡은 ‘STRIDE 요법’&nbsp;&nbsp;의학신문",
+      "summary": "매일 한 잔 마셨더니…간암 발병 위험 15% 높였다&nbsp;&nbsp;한국경제“하루 딱 한 잔도 위험하다”…매일 마신 이 음료, 간암 위험 15% 높였다 [헬시타임]&nbsp;&nbsp;서울경제간 기능 보존과 장기 생존율 ‘두 마리 토끼’ 잡은 ‘STRIDE 요법’&nbsp;&nbsp;의학신문“하루 한 잔인데도 위험 15%↑… '이 음료'가 간암 부른다”&nbsp;&nbsp;전자신문간암, 술․B형․C형간염․지방간이 위험요인&nbsp;&nbsp;후생신보",
       "sources": [
         {
           "name": "한국경제",
@@ -198,46 +354,10 @@
       ]
     },
     {
-      "id": "a269394f00d2",
-      "title": "당뇨병 환자가 낮잠 오래 자면 벌어지는 일 - 헬스조선",
-      "published": "2026-06-16T05:31:00+00:00",
-      "summary": "당뇨병 환자가 낮잠 오래 자면 벌어지는 일&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15S2F5MjltYXpLUm95VVNwcVlPTUV6dVpjSGFBWWl6cmstY0Rac0lkYy1vN21BRWFaaURDZEF1NGJncHJiTjV0Z0J5d05xTWJyRjBsMW1FUXRfOVpyRExCMWpUZzNhT19aYmpENUJ1SHNKODVjZEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bce2a77b7f04",
-      "title": "국내서 널리 쓰이는 대상포진 백신, 치매 위험 24% 감소[노화설계] - 동아일보",
-      "published": "2026-06-16T05:16:40+00:00",
-      "summary": "국내서 널리 쓰이는 대상포진 백신, 치매 위험 24% 감소[노화설계]&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnbWdJZWhkVk1GMTF4Y243bWl1V1JZdWZlVzkyUklSXzVaQjlXQ3Jpd3NoNFZpclE4Mm1NRl80MTdBQ2d6LThRODBMWmR2TTZXZGRmMXVKX2dlSmN4LUYtZ1VhclVQMVo4aWJCU2Zma9IBZkFVX3lxTE9BV1JMRUlnaE9wN2lPYnhSN2ZFVnBnTVRCOERjVWpsV2Z5bFNfRFdxZ1NLNHkyc3BSNXRYOWFGcHROSzJNdk5QcktrMVRaT0ZBVDdFUGIwU3NpZ1AwMGhmalhpVUVZZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3babc3c4d5a9",
-      "title": "운동 실천군, 만성질환 유병률 감소 수치로 증명 - 메디칼타임즈",
-      "published": "2026-06-16T05:11:41+00:00",
-      "summary": "운동 실천군, 만성질환 유병률 감소 수치로 증명&nbsp;&nbsp;메디칼타임즈KMI 건강검진 빅데이터, 근력운동 포함 규칙적인 신체활동 실천하면 만성질환 ↓ 外 ​​​&nbsp;&nbsp;의약뉴스근력운동 포함 집단, 대사증후군 유병률 16%…유산소운동보다 낮아&nbsp;&nbsp;쿠키뉴스\"일주일에 딱 2시간만\"…근력운동 시 조기사망 위험 58% 감소 - 머니투데이&nbsp;&nbsp;머니투데이근력운동하는 국내 성인, 대사증후군 유병률 16.4%로 최저&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80YjNyZXdtcHNIaWllZnpMeDhBMGY3QkFOVkFneHJIRTNiX1VaQ3BZQ21ReUJqV3pmeng4UEl3Q2VoY3JNTEVKOXNoYmlDYmtNZ3VyX1lpZEpjTlBVLVF1RERsTWw0NDFpYzRKdE9kVkQtVUk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "360481411d30",
       "title": "베트남, 뎅기열 환자 5만 명 돌파…전년동기比 2.5배 웃돌아 - 인사이드비나",
       "published": "2026-06-16T05:00:00+00:00",
-      "summary": "베트남, 뎅기열 환자 5만 명 돌파…전년동기比 2.5배 웃돌아&nbsp;&nbsp;인사이드비나밧짱 코뮌이 환경 위생 캠페인을 시작했습니다.&nbsp;&nbsp;Vietnam.vnWHO, 아동 대상 뎅기열 치료제 개발 첫 지침 발표&nbsp;&nbsp;현대건강신문2026년 아세안 뎅기열의 날을 맞아: 뎅기열 없는 사회를 위한 공동의 노력&nbsp;&nbsp;Vietnam.vn뎅기열 퇴치를 위한 지역사회 인식 제고 활동.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "베트남, 뎅기열 환자 5만 명 돌파…전년동기比 2.5배 웃돌아&nbsp;&nbsp;인사이드비나밧짱 코뮌이 환경 위생 캠페인을 시작했습니다.&nbsp;&nbsp;Vietnam.vnWHO, 아동 대상 뎅기열 치료제 개발 첫 지침 발표&nbsp;&nbsp;현대건강신문2026년 아세안 뎅기열의 날을 맞아: 뎅기열 없는 사회를 위한 공동의 노력&nbsp;&nbsp;Vietnam.vn뎅기열: 증상, 원인 및 예방.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "인사이드비나",
@@ -266,18 +386,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LZ2RScGo2bmpLb2tzVWRCSG1tRkRYaDVDSHJPMkdTSTFEQ1J0RXpXQ1dsQXhlN0t2Wm0tWndsTHZyTXduS2ZHTjFRcVp6ZWhCbXhoRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1ac52dc201c",
-      "title": "\"설탕 끊으려다 장 건강 망가진다\"…美 내분비학회서 뒤집힌 '무설탕' 공식 - 세계일보",
-      "published": "2026-06-16T00:14:07+00:00",
-      "summary": "\"설탕 끊으려다 장 건강 망가진다\"…美 내분비학회서 뒤집힌 '무설탕' 공식&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHLUxNRENNanItVElaOEY0bFZBeHZnWGh4UE9HYnJCQ05OTHhCWDk1NEF3SlpmbjQyMjhmTzB4cnQwRzRVVjRHY1lZTm8xeTVJV3JXSkt5Zk_SAVRBVV95cUxQRkkzcENJbUpaNUNsN1d5ZjBJcTJPaGtYMjJud056S01uLV84dnU2bVFkc19WVkV0NVRnNGJWT1VGM2ZpcF9URWVZN0otbUdjcXNyQUQ?oc=5"
         }
       ]
     },
@@ -333,11 +441,23 @@
       "id": "0ccb98df4ba2",
       "title": "주 3회 감자튀김 먹었더니...당뇨병 위험 20% 늘었다 - 하이닥",
       "published": "2026-06-15T09:30:00+00:00",
-      "summary": "주 3회 감자튀김 먹었더니...당뇨병 위험 20% 늘었다&nbsp;&nbsp;하이닥감자튀김과 당뇨의 뜻밖의 관계…20만명 40년 추적해 보니&nbsp;&nbsp;동아일보감자튀김 평소 즐겨 먹는데…당뇨 위험이 20% 높아진다고?&nbsp;&nbsp;v.daum.net감자튀김 주 3회 먹으면 당뇨 위험 20% 증가... 구운 감자는 안전할까&nbsp;&nbsp;insight.co.kr",
+      "summary": "주 3회 감자튀김 먹었더니...당뇨병 위험 20% 늘었다&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGeWhQTHZSOXd1N0VKb0JnV3hCV19FYWkyYkV0X0pvaFJfNUJfSERkWHhWQjFUMTdEdjJ5eWE5T2E4bGJvc3N1dmlGaW1wOGgxaW5NQmJzbnhOdWFReWhJdEYzaVNUYm1KclE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de7b52604256",
+      "title": "“대장암 유일한 신호였다”… 30대 女, ‘탈수’ 겪고 4기 진단 - 헬스조선",
+      "published": "2026-06-15T08:50:00+00:00",
+      "summary": "“대장암 유일한 신호였다”… 30대 女, ‘탈수’ 겪고 4기 진단&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ic0lIb0tsZldtRXhkSXV2U3ZxWHFDLXdhcUY5WTRDXzJGTTRMeHgzU19pVVZMSGltZmNJYjVEb0VuN0NPanBIYVo0NE5oNnQ1X2JKS3NGOFpkRHMxb3hCd1ROOC1aa2lvUmoyQ25mWFhnX3UxUXc?oc=5"
         }
       ]
     },
@@ -354,14 +474,14 @@
       ]
     },
     {
-      "id": "44af901fb07d",
-      "title": "“혈압 너무 낮아도 문제”… 저혈압, ‘이 병’ 위험 3배 높다 - 코메디닷컴",
-      "published": "2026-06-15T07:05:00+00:00",
-      "summary": "“혈압 너무 낮아도 문제”… 저혈압, ‘이 병’ 위험 3배 높다&nbsp;&nbsp;코메디닷컴",
+      "id": "bb4c7db1a1fb",
+      "title": "\"치매 진행 속도 보인다\"…혈액 바이오마커 활용 가능성 확인 - 네이트",
+      "published": "2026-06-15T05:51:06+00:00",
+      "summary": "\"치매 진행 속도 보인다\"…혈액 바이오마커 활용 가능성 확인&nbsp;&nbsp;네이트피 검사로 알츠하이머성 치매 ‘치료 황금기’ 찾는다&nbsp;&nbsp;v.daum.net국립보건연구원 \"혈액검사로 조기 치매 예측 가능성 확인\"&nbsp;&nbsp;연합뉴스피 한방울로 조발성치매 조기 진단?…국내 연구진 가능성 확인&nbsp;&nbsp;뉴스1대웅바이오, 알츠하이머 '혈액 진단' 국내 도입…CNS 영토 확장&nbsp;&nbsp;전자신문",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xRnNVb3VGNzcySDhxRlVmTjZqcThqVFlQeHRNaktuS3Q3bGJBQ0JRTE1ySnB4RkhZMG1PNmJhMXRVUQ?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yRWR2WmJWb09GR2FuRnRuNW5KcGc2aTFsb2pyTlVudDg2Mzg2ZkR6emp0bFZQQk5nUU1GZDhCU0JfSy1maF9wNXc5Uy1aYU15em03S0lB?oc=5"
         }
       ]
     },
@@ -402,54 +522,6 @@
       ]
     },
     {
-      "id": "c136761a2b3d",
-      "title": "대웅바이오, 알츠하이머 '혈액 진단' 국내 도입…CNS 영토 확장 - 전자신문",
-      "published": "2026-06-15T04:34:30+00:00",
-      "summary": "대웅바이오, 알츠하이머 '혈액 진단' 국내 도입…CNS 영토 확장&nbsp;&nbsp;전자신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YX3VLNTAxN2IzeXR1ZThWelRnT19idGo3UVFnU0tPUjZ2aVF5S2FzM0Noblc3b050LTZtS3NaajIySzR2UVlHLXB2WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1a80a1a38ae",
-      "title": "“카레에 후추 뿌려 먹었더니”...건강 효과 높이는 음식 조합은? - 코메디닷컴",
-      "published": "2026-06-15T01:07:00+00:00",
-      "summary": "“카레에 후추 뿌려 먹었더니”...건강 효과 높이는 음식 조합은?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVUDdIUGNBYlNlckxobktJdkRTMWhiTi04akEyWEcydmR0NUF2eUkybGtoUXNjVWRrOG9zNlhWY2FQUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9b53f951d988",
-      "title": "콜레스테롤만 챙기다간 심장질환 위험… 혈관속 유리파편 '호모시스테인' - 위키트리",
-      "published": "2026-06-15T01:05:00+00:00",
-      "summary": "콜레스테롤만 챙기다간 심장질환 위험… 혈관속 유리파편 '호모시스테인'&nbsp;&nbsp;위키트리",
-      "sources": [
-        {
-          "name": "위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LYXhVWktLUkZYa29oLXE5aHJHYUxfNzdUbGF0MllFa0NCbk84VWJwRTZzdnNNSzJyOFRycF9UbnVGbnNLUC1xTW1ZWnNzdUVOQ3pEWkJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d43060b94303",
-      "title": "[캘리] 20~30대 “AI 시대 건강 가장 중요”...세대별 인식차 커 - 현대건강신문",
-      "published": "2026-06-14T23:17:00+00:00",
-      "summary": "[캘리] 20~30대 “AI 시대 건강 가장 중요”...세대별 인식차 커&nbsp;&nbsp;현대건강신문리피토, \"스타틴이 당뇨병을 유발한다고?\" 거짓 정보 바로잡기 나서&nbsp;&nbsp;의협신문이상지질혈증? 실체가 무엇인가요?: 이름부터 헷갈리는 용어 정리&nbsp;&nbsp;메디칼업저버부작용 우려는 ‘노시보 효과’…스타틴, 심혈관질환 위험 22% 낮춘다&nbsp;&nbsp;메디컬투데이온라인 오정보에 흔들리는 스타틴 치료…전문가들 \"위험보다 이익이 훨씬 커\"&nbsp;&nbsp;뉴스더보이스헬스케어",
-      "sources": [
-        {
-          "name": "현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sMFhKV3VXSUJ5MWtiMS16RUJEcHZvX25PUlVOUDhxbkFTdVA0dEJheWZFU0d0Z2lXb3NXcnUyTWdhU2ZwY3FIYk1tVExfWHZrajhvaTdR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "733523361473",
       "title": "[만나보니] 호암상 오성진 \"나는 천재 아닌 시스템의 산물\" - 연합뉴스",
       "published": "2026-06-14T22:39:21+00:00",
@@ -458,18 +530,6 @@
         {
           "name": "연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tOUZ0VXU4T3loSnhhTXFYN05qcFZzWkVnV3hZaUY1T3pESnk3VWd0aVpUdWVTUjl0WXdsUUxOLTlSX1ZHbm01T1ctU2ZSQmdGRFR3VkI4NlB3anPSAWBBVV95cUxQekM5QVN6ZFZpMjVlZkY1XzVrekN5dUZHSTJMTUl6ODg1OG5EblB4WWJ0SWNSQmFxVXliMlRJdENTQVJiUWxhWjFNc0d3enhTOU9GMTB6aUd4Mi1FaVg5Zmw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2d5e7197ec4e",
-      "title": "“떨어지는 노년기 면역력, ‘비타민 B군’으로 기초 체력 다져야” - 하이닥",
-      "published": "2026-06-14T22:00:00+00:00",
-      "summary": "“떨어지는 노년기 면역력, ‘비타민 B군’으로 기초 체력 다져야”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05N3hoNUIybkNHLTFFc1dWb2JhdE5SeWtaQVBYcEd6T3V6UDdrYlVzeUdkZDBJeDcwNzRvT3Z0S0oxbm1FRENYUE0tVDFReEVCNnlGWWNLc2lLQTRxWUZHQ3BHT3RVbm9DaEE?oc=5"
         }
       ]
     },
