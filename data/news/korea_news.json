@@ -1,15 +1,15 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-18T15:32:31.601171+00:00",
-  "total_fetched": 92,
-  "unique_count": 92,
-  "health_related_count": 48,
+  "fetched_at": "2026-06-18T20:29:05.320596+00:00",
+  "total_fetched": 84,
+  "unique_count": 84,
+  "health_related_count": 44,
   "news": [
     {
       "id": "079d032e7dc8",
       "title": "\"휴대폰 대신 알람 시계, 매일 산책\"… 신경과학자의 '뇌 건강 습관' 10가지 - 헬스조선",
       "published": "2026-06-18T14:30:00+00:00",
-      "summary": "\"휴대폰 대신 알람 시계, 매일 산책\"… 신경과학자의 '뇌 건강 습관' 10가지&nbsp;&nbsp;헬스조선노년기 삶의 질 결정하는 ‘뇌 건강’, 매일 마주하는 식탁에서 답을 찾다&nbsp;&nbsp;울산종합일보한의원에서 찾는 뇌신경질환 통합 관리·치료의 길&nbsp;&nbsp;이로운넷김경환 교수팀, Journal of Alzheimer’s Disease에 MCI 임상연구 발표&nbsp;&nbsp;한국공공정책신문서울의 한 대학병원이 수만 명을 추적해 치매 위험을 낮추는 요인을 찾아냈다&nbsp;&nbsp;c3korea.net",
+      "summary": "\"휴대폰 대신 알람 시계, 매일 산책\"… 신경과학자의 '뇌 건강 습관' 10가지&nbsp;&nbsp;헬스조선노년기 삶의 질 결정하는 ‘뇌 건강’, 매일 마주하는 식탁에서 답을 찾다&nbsp;&nbsp;울산종합일보한의원에서 찾는 뇌신경질환 통합 관리·치료의 길&nbsp;&nbsp;이로운넷서울의 한 대학병원이 수만 명을 추적해 치매 위험을 낮추는 요인을 찾아냈다&nbsp;&nbsp;c3korea.net[현장] “경도인지장애 진단받으면 역할도 끝?”…사회참여로 답 찾는 현장&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
           "name": "헬스조선",
@@ -18,22 +18,10 @@
       ]
     },
     {
-      "id": "ba804ace2db6",
-      "title": "당뇨병, 고혈압 환자는 리치를 먹을 때 무엇을 주의해야 할까요 - Laodong.vn",
-      "published": "2026-06-18T12:30:00+00:00",
-      "summary": "당뇨병, 고혈압 환자는 리치를 먹을 때 무엇을 주의해야 할까요&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0tfSlk1SG1lSDdPLTBzeDRmSGt6aXhqTC1qNEp4SjVYaTFCLXl2VHMxN3dYUW9FekhMNUdlQzlJNXFfNjMtbGNRaUFfOUJQZXppMVZEQlppTjBlbXpIU3FjN3ByeHlhMl9JQUxTV29vd1pVQld5bWEySWRVTTcwY0NfTFFxUHpkOFRnSHVSSTdxd3RVT2loc0thbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bac2b0a96d80",
       "title": "근력운동 주 2회 했더니 심장에 변화가?…美 11만 명 추적 연구 - 하이닥",
       "published": "2026-06-18T12:00:00+00:00",
-      "summary": "근력운동 주 2회 했더니 심장에 변화가?…美 11만 명 추적 연구&nbsp;&nbsp;하이닥[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선\"이것만 지켜도 달라져\" 심장병 위험 낮추는 의외의 습관&nbsp;&nbsp;네이트\"근력운동 좋은 줄은 알았지만\"…여성들 '화들짝' 놀랄 결과 [건강!톡]&nbsp;&nbsp;한국경제",
+      "summary": "근력운동 주 2회 했더니 심장에 변화가?…美 11만 명 추적 연구&nbsp;&nbsp;하이닥[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net잠과 운동이 '나쁜 피'를 길들여 심장을 지킨다&nbsp;&nbsp;네이버 프리미엄콘텐츠근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선\"이것만 지켜도 달라져\" 심장병 위험 낮추는 의외의 습관&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "하이닥",
@@ -177,7 +165,7 @@
       "id": "04e855296840",
       "title": "튀긴 감자는 당연히 안 좋고… 굽거나 삶은 감자, 당뇨병 유발할까? - 헬스조선",
       "published": "2026-06-17T22:00:00+00:00",
-      "summary": "튀긴 감자는 당연히 안 좋고… 굽거나 삶은 감자, 당뇨병 유발할까?&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "튀긴 감자는 당연히 안 좋고… 굽거나 삶은 감자, 당뇨병 유발할까?&nbsp;&nbsp;헬스조선\"감자는 당뇨의 적?…조리 방법에 따라 위험 달라진다\"&nbsp;&nbsp;뉴시스감자튀김과 당뇨의 뜻밖의 관계…20만명 40년 추적해 보니&nbsp;&nbsp;동아일보감자튀김 평소 즐겨 먹는데…당뇨 위험이 20% 높아진다고?&nbsp;&nbsp;v.daum.net주 3회 감자튀김 먹었더니...당뇨병 위험 20% 늘었다&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "헬스조선",
@@ -273,7 +261,7 @@
       "id": "022df56334f2",
       "title": "“약만큼 강력한 효과”… 류마티스 의사들이 추천하는 ‘5대 항염 식품’ - 헬스조선",
       "published": "2026-06-17T15:00:00+00:00",
-      "summary": "“약만큼 강력한 효과”… 류마티스 의사들이 추천하는 ‘5대 항염 식품’&nbsp;&nbsp;헬스조선“건강하게 오래살자”…웰에이징, 세포시계 되돌리기부터[김수연의 헬스업]&nbsp;&nbsp;v.daum.net[목멱칼럼]노화는 못 막아도 노쇠는 되돌릴 수 있다&nbsp;&nbsp;이데일리“검진은 정상인데 왜 피곤할까?”…40대 노리는 ‘조용한 염증’&nbsp;&nbsp;세계일보\"오래 살기에서 건강하게 살기로… 염증 관리가 항노화 핵심\"&nbsp;&nbsp;보건신문",
+      "summary": "“약만큼 강력한 효과”… 류마티스 의사들이 추천하는 ‘5대 항염 식품’&nbsp;&nbsp;헬스조선“건강하게 오래살자”…웰에이징, 세포시계 되돌리기부터[김수연의 헬스업]&nbsp;&nbsp;v.daum.net[목멱칼럼]노화는 못 막아도 노쇠는 되돌릴 수 있다&nbsp;&nbsp;이데일리\"오래 살기에서 건강하게 살기로… 염증 관리가 항노화 핵심\"&nbsp;&nbsp;보건신문[박찬우 박사 칼럼 07] 만성 염증을 끄는 항염식단&nbsp;&nbsp;캐어유 뉴스",
       "sources": [
         {
           "name": "헬스조선",
@@ -381,7 +369,7 @@
       "id": "3fd1f673ebf5",
       "title": "전국에 일본뇌염 경보 발령…\"백신 예방 접종 권고\" - 세계일보",
       "published": "2026-06-17T05:43:37+00:00",
-      "summary": "전국에 일본뇌염 경보 발령…\"백신 예방 접종 권고\"&nbsp;&nbsp;세계일보대구 모기 일본뇌염 바이러스 검출…\"전국에 경보 발령\"&nbsp;&nbsp;대한민국 정책브리핑일본뇌염 바이러스 검출…질병청, 올해 첫 경보 발령&nbsp;&nbsp;v.daum.net모기 물렸다가 사망할 수도…‘일본뇌염 바이러스’ 검출 비상&nbsp;&nbsp;경기일보전국 일본뇌염 '경보'…울산시 \"모기물림 예방수칙 준수\"&nbsp;&nbsp;뉴시스",
+      "summary": "전국에 일본뇌염 경보 발령…\"백신 예방 접종 권고\"&nbsp;&nbsp;세계일보대구 채집 모기에서 일본뇌염 바이러스 검출...일본뇌염 경보 발령&nbsp;&nbsp;YTN 사이언스해충 박멸&nbsp;&nbsp;뉴스1일본뇌염 바이러스 검출…질병청, 올해 첫 경보 발령&nbsp;&nbsp;v.daum.net전국 일본뇌염 '경보'…울산시 \"모기물림 예방수칙 준수\"&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "세계일보",
@@ -441,7 +429,7 @@
       "id": "c4f6e0ae5cba",
       "title": "40세 미만 ‘조기 발병 당뇨병’ 급증 ‥ 10년 일찍 진단받을수록 기대수명 3~4년 단축 - 분당신문",
       "published": "2026-06-16T23:32:00+00:00",
-      "summary": "40세 미만 ‘조기 발병 당뇨병’ 급증 ‥ 10년 일찍 진단받을수록 기대수명 3~4년 단축&nbsp;&nbsp;분당신문여성 다이어트 방해하는 '호르몬 불균형'…체질 개선이 우선인 이유&nbsp;&nbsp;네이트\"바보야 문제는 인슐린이야\"&nbsp;&nbsp;브런치3040 당뇨병 환자 10명 중 8명 비만 … 한국형 당뇨병, ‘마른 당뇨’서 ‘비만형 당뇨’로 변화&nbsp;&nbsp;헬스오갱년기 다이어트, 단순 절식보다 대사 상태 고려한 접근 필요&nbsp;&nbsp;메디컬투데이",
+      "summary": "40세 미만 ‘조기 발병 당뇨병’ 급증 ‥ 10년 일찍 진단받을수록 기대수명 3~4년 단축&nbsp;&nbsp;분당신문갱년기 다이어트, 단순 절식보다 대사 상태 고려한 접근 필요&nbsp;&nbsp;네이트\"바보야 문제는 인슐린이야\"&nbsp;&nbsp;브런치3040 당뇨병 환자 10명 중 8명 비만 … 한국형 당뇨병, ‘마른 당뇨’서 ‘비만형 당뇨’로 변화&nbsp;&nbsp;헬스오중년 비만 원인 '대사 저하'… \"생리학적 다이어트 접근법 중요\"&nbsp;&nbsp;보건신문",
       "sources": [
         {
           "name": "분당신문",
@@ -462,38 +450,14 @@
       ]
     },
     {
-      "id": "6327cbb34583",
-      "title": "구리 전달 약물, 알츠하이머 독성 단백질 줄였다…기억력 개선 가능성 - 네이트",
-      "published": "2026-06-16T22:46:00+00:00",
-      "summary": "구리 전달 약물, 알츠하이머 독성 단백질 줄였다…기억력 개선 가능성&nbsp;&nbsp;네이트“깜빡하시는 부모님 치매 걱정되는데”…피 한 방울로 미리 알 수 있다면&nbsp;&nbsp;v.daum.net‘뇌 속 콜레스테롤’ 너무 많아도 적어도 문제...균형 깨지면 치매 위험↑&nbsp;&nbsp;디멘시아뉴스치매 신약 효과 왜 기대 이하였나…아밀로이드 밖에서 찾은 새 표적&nbsp;&nbsp;코메디닷컴단백질 응집체는 치매의 원인 아닌 결과물...신경퇴행성 질환의 새 원인 유전자 규명&nbsp;&nbsp;메디컬투데이",
+      "id": "0d6a05223bd4",
+      "title": "\"매일 걷는데도 건강검진 빨간불?\"…310만명 분석해 보니 [바디플랜] - 네이트",
+      "published": "2026-06-16T22:31:08+00:00",
+      "summary": "\"매일 걷는데도 건강검진 빨간불?\"…310만명 분석해 보니 [바디플랜]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42c2VxMWRfS3dockV0X2U3emJ6M25weVk0ZmpBRE91ZDhtVzFSRmo0bmxucG9BMmNwYmxYUlZ6LU5XWU5ma3JLdDNBcjh3Z0JuNzJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6de350528d27",
-      "title": "“매일 걷는데도 건강검진 빨간불?”…310만명 분석해 보니[바디플랜] - v.daum.net",
-      "published": "2026-06-16T22:31:47+00:00",
-      "summary": "“매일 걷는데도 건강검진 빨간불?”…310만명 분석해 보니[바디플랜]&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCb1VnUVBhd2FpRXA1LUxTenF0aHZ6cE5PMHNMUXNlUmFwS3pPYzBxQTEyWHFzanhPNGxlS1NzdEZDWGlZcFp3UmhtNVc5Mms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "267f87beb646",
-      "title": "[건강포커스] “근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아” - 미주한국일보",
-      "published": "2026-06-16T21:30:56+00:00",
-      "summary": "[건강포커스] “근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아”&nbsp;&nbsp;미주한국일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KRXF2MnpPU0sya3FwZFdCYm9RRy1GdmNiVk1vVDhmQ0xNMlJHMXd5bWQtaDBPTFlhSXNuc0Nudm02UHNjakl4Z1F6bXB0a2o4UVhN?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0TDNfVFMyRjZoVVhUOC05WGRhU2VfSHQ5eFVaUjNXTWRhTm9keTd5ZHdZQWlyb3NJWVB1bXBSbEUwYlJvNmpZWUpSdWFWMlN2cVFWSGZB?oc=5"
         }
       ]
     },
@@ -518,18 +482,6 @@
         {
           "name": "제주환경일보",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlZWtRVDNFS19ORHJJUG9icmZRV3J1LVNVenNkMG9scTktSThMZ0JjNEF4TE94Uk9MdnRZUjFVVzNqWlFkc3czX3hFWHozQ3Z5d0ZFbmlWM1hWUTNQYUJlbGdVSHV4bmR2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c5cd6f23a521",
-      "title": "UCSF 스핀오프 코프라 바이오, 뇌암 바이러스 치료제로 910만 달러 유치…2027년 중국 임상 착수 - 뉴스N연합",
-      "published": "2026-06-16T17:33:38+00:00",
-      "summary": "UCSF 스핀오프 코프라 바이오, 뇌암 바이러스 치료제로 910만 달러 유치…2027년 중국 임상 착수&nbsp;&nbsp;뉴스N연합",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE54cVJhMFRxUVV5ZTlPdXZUWm9sRmctbHVHM1dqRmJhUDJ4YV9aZ2FuNm9pWks1TG56MV9peXowa3gxeHRNVUtKdEpB?oc=5"
         }
       ]
     },
