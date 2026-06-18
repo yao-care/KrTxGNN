@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-18T10:24:23.226077+00:00",
-  "total_fetched": 98,
-  "unique_count": 98,
-  "health_related_count": 51,
+  "fetched_at": "2026-06-18T15:32:31.601171+00:00",
+  "total_fetched": 92,
+  "unique_count": 92,
+  "health_related_count": 48,
   "news": [
+    {
+      "id": "079d032e7dc8",
+      "title": "\"휴대폰 대신 알람 시계, 매일 산책\"… 신경과학자의 '뇌 건강 습관' 10가지 - 헬스조선",
+      "published": "2026-06-18T14:30:00+00:00",
+      "summary": "\"휴대폰 대신 알람 시계, 매일 산책\"… 신경과학자의 '뇌 건강 습관' 10가지&nbsp;&nbsp;헬스조선노년기 삶의 질 결정하는 ‘뇌 건강’, 매일 마주하는 식탁에서 답을 찾다&nbsp;&nbsp;울산종합일보한의원에서 찾는 뇌신경질환 통합 관리·치료의 길&nbsp;&nbsp;이로운넷김경환 교수팀, Journal of Alzheimer’s Disease에 MCI 임상연구 발표&nbsp;&nbsp;한국공공정책신문서울의 한 대학병원이 수만 명을 추적해 치매 위험을 낮추는 요인을 찾아냈다&nbsp;&nbsp;c3korea.net",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUkFHd3RlMXJtc0pNOHNQRGtQa2pvSUQ0R3hoUmpJMXpwU3hvWml1TkZ0MVREWjgyeVhuOXFvRVhsWENkZWN6UjVLQW9ockFjZ3RXUzljZGx1aElXUjA1aG1XLVR1U2R6eFl4NGtsOFdDWnFyQXZKbXc5SGRERHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ba804ace2db6",
+      "title": "당뇨병, 고혈압 환자는 리치를 먹을 때 무엇을 주의해야 할까요 - Laodong.vn",
+      "published": "2026-06-18T12:30:00+00:00",
+      "summary": "당뇨병, 고혈압 환자는 리치를 먹을 때 무엇을 주의해야 할까요&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0tfSlk1SG1lSDdPLTBzeDRmSGt6aXhqTC1qNEp4SjVYaTFCLXl2VHMxN3dYUW9FekhMNUdlQzlJNXFfNjMtbGNRaUFfOUJQZXppMVZEQlppTjBlbXpIU3FjN3ByeHlhMl9JQUxTV29vd1pVQld5bWEySWRVTTcwY0NfTFFxUHpkOFRnSHVSSTdxd3RVT2loc0thbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bac2b0a96d80",
+      "title": "근력운동 주 2회 했더니 심장에 변화가?…美 11만 명 추적 연구 - 하이닥",
+      "published": "2026-06-18T12:00:00+00:00",
+      "summary": "근력운동 주 2회 했더니 심장에 변화가?…美 11만 명 추적 연구&nbsp;&nbsp;하이닥[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선\"이것만 지켜도 달라져\" 심장병 위험 낮추는 의외의 습관&nbsp;&nbsp;네이트\"근력운동 좋은 줄은 알았지만\"…여성들 '화들짝' 놀랄 결과 [건강!톡]&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhenpqZEJtbnc4aFMzYks0Nl9vTk1LWWxvNkNveGtsYTJVd3ZaREdBZzZRbFEzWkhWOWlyMU5ROFNiZHRoUnBfUDU3STVoUHZsT1VpMWlQVXZzVTNkVHVWYzhuRm52c1lPSXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c65332a044a",
+      "title": "혈관에 좋은 음식 5가지… \"동맥경화·고혈압 위험 낮춘다\" - 하이닥",
+      "published": "2026-06-18T11:00:00+00:00",
+      "summary": "혈관에 좋은 음식 5가지… \"동맥경화·고혈압 위험 낮춘다\"&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53WEFybnZJZHMyWXlRZzZEenVGTlZPSGlPQ01UNGpEOTh1a1o4WjZHUVZ1cHJwak5yRjZSckhJX090aElfRVl4N0lhdThHQ0lsWFBNeDlzSjZwS3J0Zmc5U2lza0NmcXUzY3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e17fd508cee5",
+      "title": "당뇨 노인, 혈당보다 무서운 건...“근육 줄고 잠 못 자면 치매 위험↑” - 디멘시아뉴스",
+      "published": "2026-06-18T10:29:21+00:00",
+      "summary": "당뇨 노인, 혈당보다 무서운 건...“근육 줄고 잠 못 자면 치매 위험↑”&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vRS1NOGY0WTNYblZrZEtpQm8tNVlOVFpiNUJoUjFhdlVnUzNQYXBiNnFiQmpoRjNud0s3d0xlWWdyZmZmT0tvSHZscE9Na0hhMGtXaVowNnFfNW1yRzFGOXNfRHloNlN0V2tyVHYwRUlGZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "ebb294c5fab9",
       "title": "“대상포진 백신이 치매 위험 낮춘다?”… 美 노인 50만 명 연구 결과 - 하이닥",
@@ -14,6 +74,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPOURXZzJLb2NtbVVuenNvYVF0bnNGbWhHelZxbWZ3N01LMHNDZnZKS19xR3RJOWI5dHdGOXRyeHdUWWhMTGVDUHdwX2xqN0ZIeG52Qkl6TjdhaWJzUWJxYUllWWNoS1VzZ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b450a6a05c8",
+      "title": "“청각 자극 줄면 뇌활동도 감소… 난청 관리가 치매 예방 시작” - 스포츠월드",
+      "published": "2026-06-18T08:22:06+00:00",
+      "summary": "“청각 자극 줄면 뇌활동도 감소… 난청 관리가 치매 예방 시작”&nbsp;&nbsp;스포츠월드",
+      "sources": [
+        {
+          "name": "스포츠월드",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tVHVyVHNXejN6ek1ZSmRWdmFYb00xdF91WW5jWXNVVFJaa0RIcm9Gck5rVXc4UzVidWJFMi03c3VLWkNlUWF5N05WTDVvR3AyMnh2MFJWd2dOR3pDTjh0OHdR?oc=5"
         }
       ]
     },
@@ -78,18 +150,6 @@
       ]
     },
     {
-      "id": "12e28bfab495",
-      "title": "여성 근력운동, 심혈관질환 위험 최고 44% 낮춘다 - 데일리굿뉴스",
-      "published": "2026-06-18T00:39:46+00:00",
-      "summary": "여성 근력운동, 심혈관질환 위험 최고 44% 낮춘다&nbsp;&nbsp;데일리굿뉴스[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선\"이것만 지켜도 달라져\" 심장병 위험 낮추는 의외의 습관&nbsp;&nbsp;네이트새로운 연구 결과: 더 건강한 심장을 위해서는 단순히 일주일에 150분 운동하는 것만으로는 부족합니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "데일리굿뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3cUlJd2Z0dEdPVFZBQnpjY3lkMl9qTXg3Wmc1UUg3Skt5cDdQeVJ0QVllUzB5LTNXQ1FvZEptQVoxRWRDeU5Ya05TVFFzNmxWQ2ZpSHJ2MG94bk8yRFFlUGRQMlAzTWdsUkh3eNIBcEFVX3lxTE9QcFFUVXZFNlByTm5OejRQeTN2SVNIWUNKTEhuOTZDZm9NNS1nTG5SSWdtNVRaMGRFUHlaWlFTVEM0Sm8wNjdxNHBtb2ZDOGtPVTZ6MHBMN0ZBWFRiOWJxRzl5VVRMeUM0SU9JX3lld1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d49e6fee636f",
       "title": "젬백스, GV1001 PSP 72주 데이터 전면화…조건부허가·글로벌 확증임상 준비 - 메디코파마",
       "published": "2026-06-18T00:20:49+00:00",
@@ -102,22 +162,10 @@
       ]
     },
     {
-      "id": "b52d7d9860ce",
-      "title": "눈 사진 한 장으로 알츠하이머병 위험 예측 가능성 확인 - 네이트",
-      "published": "2026-06-17T23:22:00+00:00",
-      "summary": "눈 사진 한 장으로 알츠하이머병 위험 예측 가능성 확인&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FS2lFMTc0S25zWlIyTmktWnBMMHhnT0QtdGdaSVdLTVI5S0xhS1RwZlNJZHozS2p0MmpDbHFrTHJXOF9pMDdhTDdfcDM5blJYSXk4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "52fbd175e286",
       "title": "“밥 끊었더니 피로·저혈당”… 학술지 권고 ‘탄수화물 최적의 비율’ - 헬스조선",
       "published": "2026-06-17T23:00:00+00:00",
-      "summary": "“밥 끊었더니 피로·저혈당”… 학술지 권고 ‘탄수화물 최적의 비율’&nbsp;&nbsp;헬스조선차라리 고탄수화물 식단이 낫다?&nbsp;&nbsp;메디컬투데이탄수화물 너무 적게 먹으면 ‘대머리’된다? 하루 권장섭취량은?--건강&nbsp;&nbsp;인민넷\"탄수화물 줄여서 살은 뺐는데\" …'나쁜 콜레스테롤'은 올랐다&nbsp;&nbsp;약사공론밥 끊으면 예뻐질까?... 전문가가 말하는 ‘탄수화물 얼굴’의 진실&nbsp;&nbsp;insight.co.kr",
+      "summary": "“밥 끊었더니 피로·저혈당”… 학술지 권고 ‘탄수화물 최적의 비율’&nbsp;&nbsp;헬스조선탄수화물 너무 적게 먹으면 ‘대머리’된다? 하루 권장섭취량은?--건강&nbsp;&nbsp;인민넷\"탄수화물 줄여서 살은 뺐는데\" …'나쁜 콜레스테롤'은 올랐다&nbsp;&nbsp;약사공론밥 끊으면 예뻐질까?... 전문가가 말하는 ‘탄수화물 얼굴’의 진실&nbsp;&nbsp;insight.co.kr빵·면 끊으면 몸에 좋을까? 1만명 분석한 뜻밖의 결과&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -206,18 +254,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9heWV6NEhVeVh5YmxlUDFGazJKR1FIbmN1OTY4VjcyWE96c1Mtdlp1Rkt3NUtBd1NFRXNsRVJoR0piWHVnUXlXOXozNUpucHJsaTkxTTM5Yl9RSTQ3SnFpcXlQVktzWWRvR2xnbmRaekk5UjBoTkw2ckJTdTlsdlU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dea83a44e2e7",
-      "title": "용종 뗀 사람, 대장암 환자와 장 환경 비슷… 연구로 밝혀진 ‘꼭 먹어야 할 식품’ 3가지 - 헬스조선",
-      "published": "2026-06-17T16:02:00+00:00",
-      "summary": "용종 뗀 사람, 대장암 환자와 장 환경 비슷… 연구로 밝혀진 ‘꼭 먹어야 할 식품’ 3가지&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByU1AteGNLRFlaM2FsYm5pbWJBaGtzQjJhbWQ4Zm1OUUNwY2p6R3pGT0cza2EzQVRrX01hX0FlejdUdmZvZXVVdFFGUDRfVUFKWkpEZkpzU0R5WnN3b2ZpdWV2SURwd3QzLUZzdWNIV2JPWGhtR2c?oc=5"
         }
       ]
     },
@@ -345,7 +381,7 @@
       "id": "3fd1f673ebf5",
       "title": "전국에 일본뇌염 경보 발령…\"백신 예방 접종 권고\" - 세계일보",
       "published": "2026-06-17T05:43:37+00:00",
-      "summary": "전국에 일본뇌염 경보 발령…\"백신 예방 접종 권고\"&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "전국에 일본뇌염 경보 발령…\"백신 예방 접종 권고\"&nbsp;&nbsp;세계일보대구 모기 일본뇌염 바이러스 검출…\"전국에 경보 발령\"&nbsp;&nbsp;대한민국 정책브리핑일본뇌염 바이러스 검출…질병청, 올해 첫 경보 발령&nbsp;&nbsp;v.daum.net모기 물렸다가 사망할 수도…‘일본뇌염 바이러스’ 검출 비상&nbsp;&nbsp;경기일보전국 일본뇌염 '경보'…울산시 \"모기물림 예방수칙 준수\"&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "세계일보",
@@ -426,18 +462,6 @@
       ]
     },
     {
-      "id": "9277ead54e6f",
-      "title": "서울의 한 대학병원이 수만 명을 추적해 치매 위험을 낮추는 요인을 찾아냈다 - c3korea.net",
-      "published": "2026-06-16T23:00:26+00:00",
-      "summary": "서울의 한 대학병원이 수만 명을 추적해 치매 위험을 낮추는 요인을 찾아냈다&nbsp;&nbsp;c3korea.net노년기 삶의 질 결정하는 ‘뇌 건강’, 매일 마주하는 식탁에서 답을 찾다&nbsp;&nbsp;울산종합일보한의원에서 찾는 뇌신경질환 통합 관리·치료의 길&nbsp;&nbsp;이로운넷김경환 교수팀, Journal of Alzheimer’s Disease에 MCI 임상연구 발표&nbsp;&nbsp;한국공공정책신문[현장] “경도인지장애 진단받으면 역할도 끝?”…사회참여로 답 찾는 현장&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "c3korea.net",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOSmNVWGJ3eUQ5NFFvWGs4SjVkVFp1UkFyaTdkeWFHQk1fQTRSZG9iUkh0U2xGX0hmODhmSXNtSFZrQ0hHcGh4S0FkV29VRzNtVWlQRDNrYlRvVXZxd3NuWVM0NUxqZ0puWmltNHBoeXRhcXRyQkg2QzMxam5TcjVtZVZzRkZuMkhkZXB6SF9pV3c5NjduZ05NbTRzZ3ZQYU85T2YxZnk3WDhlclpmOFlMNWhRc20wWUZMSWlqbVpMMFFhVDJSdXMxcC1CajdRSWVZd2x4Vm5hRmkta2dzRlVDYXU1ekZkZVVaU2REMnFJdFlDeExEZnM0akhWanR4SHpNSC1uSEZLbTZPTkoxd2hKSUYyQzNMMlJyQkxrZXVrckdoZjhEanNkVlF6dEdCTXpDTUM4ckw4anR5dXJBMzhYZm1Xdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6327cbb34583",
       "title": "구리 전달 약물, 알츠하이머 독성 단백질 줄였다…기억력 개선 가능성 - 네이트",
       "published": "2026-06-16T22:46:00+00:00",
@@ -498,18 +522,6 @@
       ]
     },
     {
-      "id": "9acac2d315ef",
-      "title": "“암 세포 키우는 최악의 식습관”… 전문가들 경고한 음식 - 헬스조선",
-      "published": "2026-06-16T19:00:00+00:00",
-      "summary": "“암 세포 키우는 최악의 식습관”… 전문가들 경고한 음식&nbsp;&nbsp;헬스조선“아침마다 꼭 챙겨 먹었는데”…사실 암세포에 밥 주고 있다는 연구 결과 [헬시타임]&nbsp;&nbsp;서울경제“상추 싸 먹었으니 괜찮다?”…5060 식탁의 착각&nbsp;&nbsp;세계일보“식탁에서 치워라”…매일 먹는 음식, 알고 보니 ‘암’ 부르는 복병이었나&nbsp;&nbsp;v.daum.net\"식탁에 올렸으면 당장 빼야된다\"…매일 먹는 식탁 위 암 부르는 복병 [헬시타임]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYM2toZmdpT1RVWC10SjIzWmhhalByeXZiTDFBUFRGYnc3cXZucllJYUdlaldmVmg3aHlRcWFhbERnWEZGOHFJN3RIY25rSFpSUjVUQkMxYU55dFNoZzJ6SDduSVBzS2JpRTdoelFiNlluV1FOemc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c5cd6f23a521",
       "title": "UCSF 스핀오프 코프라 바이오, 뇌암 바이러스 치료제로 910만 달러 유치…2027년 중국 임상 착수 - 뉴스N연합",
       "published": "2026-06-16T17:33:38+00:00",
@@ -522,54 +534,6 @@
       ]
     },
     {
-      "id": "8182bf52ecc2",
-      "title": "보훈의 달, 국사모(국가유공자를 사랑하는 모임)와 창동역 보훈위탁병원 2곳 MOU 체결 - 서울자치신문",
-      "published": "2026-06-16T13:12:19+00:00",
-      "summary": "보훈의 달, 국사모(국가유공자를 사랑하는 모임)와 창동역 보훈위탁병원 2곳 MOU 체결&nbsp;&nbsp;서울자치신문",
-      "sources": [
-        {
-          "name": "서울자치신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qQkhUbi1IdXRfXzhaZHhFbFd1X1pBanI3RGcxaUE4aGlDVUxZbmtjZ3RUNno3NEpYMzJjMmZhcFczOEpMS3hNdlhfVEFBN0Y4a0RnNmNVazRpWmgwQjdRbW9EMXVJem51?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47861471ead4",
-      "title": "무설탕 다이어트의 역설...설탕 0%가 장 건강과 대사 기능을 망친다? - 시애틀코리안데일리",
-      "published": "2026-06-16T12:45:15+00:00",
-      "summary": "무설탕 다이어트의 역설...설탕 0%가 장 건강과 대사 기능을 망친다?&nbsp;&nbsp;시애틀코리안데일리Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZGdSQnhmNDNTZFFGOHpUNVo1dXRXUW5qQW1oei1NbkNuNGVfWG1qbHNoYkYzaUpQcjc3cFN1bTJ2NEZ5TF84eGNPWTI2R0VGd0o4cW5uSGQyWWdWNTBvbHhBQVRhZGRvWlZReUxpYUnSAXNBVV95cUxPbU1NOVJSUEw4aEpaRFZXZmxVekpBMjdDYnIwY0RDZG5ZNkRSejFMV0pxcmt0ei1fUXZyMTNSQ2YwcFR2ckxoN0ZBeDdpeWU1YUx0THBLVU92LUZpRS1QSG9uSTlGSnhOallicC1haDR4QTl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54bf143c3a7f",
-      "title": "노쇠한 노인, 고혈압 있으면 치매 위험 오히려 32% 낮아... 이유는? - 하이닥",
-      "published": "2026-06-16T12:00:00+00:00",
-      "summary": "노쇠한 노인, 고혈압 있으면 치매 위험 오히려 32% 낮아... 이유는?&nbsp;&nbsp;하이닥혈압 낮아진 줄 알았는데…부모님 몸 약해졌다는 신호일 수 있다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zNnIzZFVxQlRqUFF3b005b3hYX2l3c3F4enFhWGEtN1drTE9Cd2Jybkh4QWxZTEhJdTNDcUR0WWVtVXhhYXFfMlRRNUEyM2pBWDE1WDRUdXFIdU9JcmhQanRCNUYxVmFDc2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e89f1a36a9d7",
-      "title": "케톤 식단이 뇌를 지킨다? 알츠하이머·파킨슨 등 5대 질환서 가능성 확인 - 하이닥",
-      "published": "2026-06-16T10:30:00+00:00",
-      "summary": "케톤 식단이 뇌를 지킨다? 알츠하이머·파킨슨 등 5대 질환서 가능성 확인&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvZlIweEM4bmVLdlFpVWQ4TjNKQ1dMVkhBbnNpako4dWY0bEpoREM1cDFleFA2VlVjbktGR2ROQU5vbVRWdlNOYlNRWXhKMkp5MFlPYk13cVNRRnkxVmFyWU1KRkFsRmZ5Y3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "672190d9568f",
       "title": "[단독] 보안 취약 신고 10년 새 3.6배 급증… “AI 창, AI 방패로 막아야” - 국민일보",
       "published": "2026-06-16T09:51:00+00:00",
@@ -578,6 +542,18 @@
         {
           "name": "국민일보",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nekp5Ql9pMnRmTWswTXJwUG1ObFllczN5SHY1NVdYcE1mdHNmTFFmcDNCaXJ3a1ZHMFpya2YySWZ1SkRQU1llSDJiRzJORVpMVW1XV01NdElaWVo4WnIySmllb0psNTjSAWxBVV95cUxNNlRSUmxZaUp1TnB2Z1FKRG1HMDVNazlnYWVvZU9xTWZiVnhSTDB1WnllbG9IWHlNQUtsQTJJcS1KUm9idjVhejZkdjRUSjZwcmpnbFcxMFQzZFRfTlZHcU5lOGl3S0dLdUo5Nnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e8ccce451e73",
+      "title": "[이상엽의 과학기술 NOW] 시간 되돌리는 '유전자 치료' 온다 - 매일경제",
+      "published": "2026-06-16T08:29:22+00:00",
+      "summary": "[이상엽의 과학기술 NOW] 시간 되돌리는 '유전자 치료' 온다&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hV3A1X2dtcTUyZUJYS0FaMjh1MC1qYjNxaXAwZzBCRW1yVjQ1T2FtTHI5WEVjZEFpMDNITFJwcHA2cHkxa0pZaXRnc2txTGtwNjRDaDlLV3VCNUE?oc=5"
         }
       ]
     },
@@ -602,18 +578,6 @@
         {
           "name": "서울신문",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01SWlwczM5NmhBVE1aMVZuNXJhZVRqWGVTXzdlQkZteWlicExmcHhVcGhONF9PSkJROE1RelBpeE4tOTVZcmYtLVFZZ3lsYk1pbnlDRDZKdGJpOUl5RW00ZXozSDdSaWZER1g4eDV2clRZOHRmb3dr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cff1e5f87b25",
-      "title": "‘3분 뇌 자극’으로 파킨슨 우울증 잡는다… 불안 증상도 동시 완화 - 하이닥",
-      "published": "2026-06-15T10:30:00+00:00",
-      "summary": "‘3분 뇌 자극’으로 파킨슨 우울증 잡는다… 불안 증상도 동시 완화&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ManRld0RYZVA0aTlHbFF4WkF4Yk42MlY0MkI2OG52SktPQURLMlY0VGhURHlwREliY3VQbVpLNktYSmJfNFM0b201b3NKQzdvc2NseXFNajB3elhLY2J6NGR2ZXpobm9mV1E?oc=5"
         }
       ]
     }
