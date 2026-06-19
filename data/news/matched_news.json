@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-06-19T10:42:14.397693+00:00",
-  "total_count": 36,
+  "last_updated": "2026-06-19T15:26:51.278281+00:00",
+  "total_count": 40,
   "matched_count": 0,
   "news": [
+    {
+      "id": "defabf00aabf",
+      "title": "[메디컬 인사이트 141회] 부끄러움이 키우는 질병 '성매개감염병'",
+      "published": "2026-06-19T13:30:00+00:00",
+      "summary": "[메디컬 인사이트 141회] 부끄러움이 키우는 질병 '성매개감염병'&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00WlNnbmlWQUdJRTVYVTZmRDlERmhSSUQybFlId2E5UWljMTdNTDZiYmJ3V0hiaGUtc3ZsZ2hsQ1ctalhpNUZMUFRibFI3SDlVdVFF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ce2703e75e77",
+      "title": "임신 초기 조심해야겠네…유산 위험 높이는 '이 자세'",
+      "published": "2026-06-19T13:22:10+00:00",
+      "summary": "임신 초기 조심해야겠네…유산 위험 높이는 '이 자세'&nbsp;&nbsp;한국경제[건강포커스] \"임신 초기 자주 몸 숙이는 자세, 유산 위험 높일 수 있어\"&nbsp;&nbsp;v.daum.net임신 초기에 허리 자주 숙이면 유산 위험 36% 높아져&nbsp;&nbsp;헬스조선일하는 임신부…‘이 자세’ 오래 할수록 유산 위험 높아진다&nbsp;&nbsp;농민신문임신 초기 '이 자세' 반복하면 유산 위험 36%↑&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aVpkSF9PYmRiVXpoOTZBYzhHaGdvWV9TaHpfWGx3amVOeHN0cHA4RHR2UjRCWkFQUS1ObHBERzRTX3hsLW1qb0o1a2FfcmxGU0xXNkxpS0VLUdIBVEFVX3lxTE5GUUVmVmhMbl9OLUVoMEp1bTM1V2haemt2M1pWbDRZbGZSb3ExeFZCSkJZTnkzSWIyaHdvWll3YkdyajdVWUMybTZ4NjNoM2paUE8zSw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b02ca3e3a0ed",
+      "title": "HIV 감염인끼리 폐 이식 전세계 첫 성공…\"장기 부족 해결 길 열렸다\"",
+      "published": "2026-06-19T12:04:48+00:00",
+      "summary": "HIV 감염인끼리 폐 이식 전세계 첫 성공…\"장기 부족 해결 길 열렸다\"&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGl2YlZNOENuY0RwSmR4Z1JuSldjM21OUm1OdlM4T1hhRU5HeWluMFZad3R6OFVwLTFqaUVRRDd2QW5uMWJlV1Jxek4tZUZsYUlpVVN6OUNKdFNQdlZJd1J2WE0ybzl0V0I2MXRfS3owWm56SnZaN25UNzhYejFfanJnNA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d0732c43e78d",
+      "title": "비만이 암도 유발할까?… BMI 높을수록 19개 암 위험 증가",
+      "published": "2026-06-19T12:00:00+00:00",
+      "summary": "비만이 암도 유발할까?… BMI 높을수록 19개 암 위험 증가&nbsp;&nbsp;하이닥비만, ‘만병의 근원’ 맞네… 암 19종 위험 높여&nbsp;&nbsp;헬스조선“아침마다 꼭 챙겨 먹었는데”…사실 암세포에 밥 주고 있다는 연구 결과 [헬시타임]&nbsp;&nbsp;서울경제한 번 비만이면 끝이 아니다…13종 암 위험 높였다&nbsp;&nbsp;용인신문“암 세포 키우는 최악의 식습관”… 전문가들 경고한 음식&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwNzcyb0IzOGxLYzRYUndkMTRSTS1ITS1mQlVnamFaVnVlcnV6dURCc1hKUzU2WkhiNVZ1Wjc2SVBFNXZMcGMwanZVZF8wanUxbWhXYm9PUkZvVEpLR0l3dlY3VnRDY25qcUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "174dd1bc3f0f",
+      "title": "암 치료 중 많이 하는 질문 (17) 뜨끈뜨끈한 사우나·온천 가도 될까요?",
+      "published": "2026-06-19T10:41:40+00:00",
+      "summary": "암 치료 중 많이 하는 질문 (17) 뜨끈뜨끈한 사우나·온천 가도 될까요?&nbsp;&nbsp;캔서앤서",
+      "sources": [
+        {
+          "name": "캔서앤서",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00bUZySFZtLUZNWHEtT3l5LU82V0FZc0RlSjAwbkJUZC1xSjZvM1ZfMXRyZy1sWGh5MDNHY3JFajYyZFRkTVMybjVEbDItTFJxekVGWWxVZmxxN2tXVlBmZGdfMW5jcW1HT1A0RWNaQ1c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "2d3bcad5dadb",
       "title": "[마신] 마라맛 곤약 일부제품 ‘어린이 치아손상’ 우려 판매 중단 권고",
@@ -20,7 +85,7 @@
       "id": "0b0670c9d9f7",
       "title": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목",
       "published": "2026-06-19T09:47:26+00:00",
-      "summary": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목&nbsp;&nbsp;디멘시아뉴스\"청각 자극 줄면 뇌활동도 감소…난청 관리가 치매 예방 시작\"&nbsp;&nbsp;네이트40~60대 중년기 ‘난청’ 관리만으로도 ‘치매 예방’ 효과 탁월&nbsp;&nbsp;코리아헬스로그",
+      "summary": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목&nbsp;&nbsp;디멘시아뉴스\"청각 자극 줄면 뇌활동도 감소…난청 관리가 치매 예방 시작\"&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "디멘시아뉴스",
@@ -134,14 +199,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7202558c5a39",
+      "id": "45a45bd69249",
       "title": "‘치과대학이 탈모 연구?’... 日 규슈치대, 접착제서 찾은 발모 단서",
       "published": "2026-06-19T01:11:07+00:00",
       "summary": "‘치과대학이 탈모 연구?’... 日 규슈치대, 접착제서 찾은 발모 단서&nbsp;&nbsp;덴탈아리랑",
       "sources": [
         {
           "name": "덴탈아리랑",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZU1YzTFluUDRnQ08yMUJhMG9Qc3FteTQycm5rNFJibEdHTm44OUN5UmVab2w0V1NZVDRjRUpLOTRKZ2JiUGd1d3VoeXdaWlNhQnZzVUZjTHJUY3o4SmtDRmJnMG1CQkdyMTJKTEdvcTQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VbjljQnNDU09DXy1iTjhBd01lM3BsYVp1blFDMUNqUU1BbE1aMUVuMnBDQ0lYQzVXcUsyQUc0RDh3LWJGV0hkZk5YM1VWQnYtbnNOaTg4VW9jNVRXanNEd0xlTnAyZlR0b1hZ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -186,23 +251,10 @@
       "matched_keywords": []
     },
     {
-      "id": "f18b3e190476",
-      "title": "비만, ‘만병의 근원’ 맞네… 암 19종 위험 높여",
-      "published": "2026-06-18T16:00:00+00:00",
-      "summary": "비만, ‘만병의 근원’ 맞네… 암 19종 위험 높여&nbsp;&nbsp;헬스조선\"아침마다 꼭 챙겨 먹었는데\"…사실 암세포에 밥 주고 있다는 연구 결과 [헬시타임]&nbsp;&nbsp;네이트“암 세포 키우는 최악의 식습관”… 전문가들 경고한 음식&nbsp;&nbsp;헬스조선다 똑같은 암 환자 식사법? 증상 따라 ‘맞춤형’ 적용을 [아미랑]&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VUWp2OTdEUnZyOTlhWjZkeEN1SmlTcXN6ZFlLVWtmQUxLVlJGNF9QZ3M1dDlDY1dudHpPTlQ2bEpHSTFJVUxHVDlfTDRsOTBleHc1czgxQnhLbFlLaWtSamFJYl9uMlFlaEhzN0d0VUZOOU41aGdaS1o2T0M3ZlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "fcf88ed01bb5",
       "title": "뇌 수술하는 의사가 꼭 지킨다는 ‘5가지 관리법’",
       "published": "2026-06-18T15:33:00+00:00",
-      "summary": "뇌 수술하는 의사가 꼭 지킨다는 ‘5가지 관리법’&nbsp;&nbsp;헬스조선",
+      "summary": "뇌 수술하는 의사가 꼭 지킨다는 ‘5가지 관리법’&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "헬스조선",
@@ -254,7 +306,7 @@
       "id": "ebb294c5fab9",
       "title": "“대상포진 백신이 치매 위험 낮춘다?”… 美 노인 50만 명 연구 결과",
       "published": "2026-06-18T09:30:00+00:00",
-      "summary": "“대상포진 백신이 치매 위험 낮춘다?”… 美 노인 50만 명 연구 결과&nbsp;&nbsp;하이닥국내서 널리 쓰이는 대상포진 백신, 치매 위험 24% 감소[노화설계]&nbsp;&nbsp;동아일보“대상포진 백신 꼭 맞아라” 치매 위험 낮추는 효과 확인&nbsp;&nbsp;헬스조선GSK 싱그릭스, 요양시설 입소 고령자 치매 위험 감소&nbsp;&nbsp;의약뉴스",
+      "summary": "“대상포진 백신이 치매 위험 낮춘다?”… 美 노인 50만 명 연구 결과&nbsp;&nbsp;하이닥“대상포진 백신 꼭 맞아라” 치매 위험 낮추는 효과 확인&nbsp;&nbsp;헬스조선국내서 널리 쓰이는 대상포진 백신, 치매 위험 24% 감소[노화설계]&nbsp;&nbsp;v.daum.netGSK 싱그릭스, 요양시설 입소 고령자 치매 위험 감소&nbsp;&nbsp;의약뉴스",
       "sources": [
         {
           "name": "하이닥",
@@ -272,6 +324,19 @@
         {
           "name": "식약일보",
           "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0zbjdyNWJNdnFIakUxQVJpVkRVTkVHMjAwbWNBWG9sSTlJZEE4eTNvR01lVDJJM2hsc1VN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dd67e064680f",
+      "title": "암흑물질 없는 은하 잇따라 발견…은하 형성 과정 규명할 단서일까",
+      "published": "2026-06-18T06:50:01+00:00",
+      "summary": "암흑물질 없는 은하 잇따라 발견…은하 형성 과정 규명할 단서일까&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3VzVMNWlLekpuTlFlc05VTVoyYU9ZWV9QYk5ka2RJOXhQSVF0bzNwQ3BWX1pONEItdTFUOVJ5YU5MM3dJV1d5MFlMZ0RydzQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -306,7 +371,7 @@
       "id": "99e4b0369c1a",
       "title": "전이성 유방암 진행…'혈액검사'로 예측한다",
       "published": "2026-06-18T01:00:00+00:00",
-      "summary": "전이성 유방암 진행…'혈액검사'로 예측한다&nbsp;&nbsp;매경헬스\"전이성 유방암, 방사선 치료효과, 피검사로 예측\"&nbsp;&nbsp;newsis.com연세암병원, '소수전이 유방암' 치료 새 분기점 선언...'전신 확산 위험 예측' 가능&nbsp;&nbsp;파이낸셜포스트\"혈액검사로 전이성 유방암 확산 위험 예측\"&nbsp;&nbsp;아시아경제[Medical Report]혈액 한 방울·웨어러블·AI까지… 의료혁신, 진단의 경계를 넓히다 外&nbsp;&nbsp;헬스케어N",
+      "summary": "전이성 유방암 진행…'혈액검사'로 예측한다&nbsp;&nbsp;매경헬스\"전이성 유방암, 방사선 치료효과, 피검사로 예측\"&nbsp;&nbsp;뉴시스연세암병원, '소수전이 유방암' 치료 새 분기점 선언...'전신 확산 위험 예측' 가능&nbsp;&nbsp;파이낸셜포스트\"혈액검사로 전이성 유방암 확산 위험 예측\"&nbsp;&nbsp;아시아경제세브란스병원, \"혈액검사로 전이성 유방암 진행 위험 예측 가능성 확인\"&nbsp;&nbsp;팍스경제TV",
       "sources": [
         {
           "name": "매경헬스",
@@ -368,19 +433,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fc502a5d7daa",
-      "title": "“정자 수 늘고·남성호르몬 개선”…위고비, 불임 치료 기대감",
-      "published": "2026-06-17T21:00:00+00:00",
-      "summary": "“정자 수 늘고·남성호르몬 개선”…위고비, 불임 치료 기대감&nbsp;&nbsp;전자신문비만 치료제의 뜻밖의 효과…남성 호르몬·정자 질 개선 가능성&nbsp;&nbsp;v.daum.net비만 남성, 정자 건강 빨간불…'이 증상' 위험 70% 더 높았다&nbsp;&nbsp;네이트비만약, 정자에도 영향?… \"남성 호르몬 수치 높여\"&nbsp;&nbsp;조선일보“살 빼는 주사, 정자 건강도 좋아졌다”… 이유가?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBabGh1amdLUk5lQkFCRFlheU9vNF9HVDUwTVRCQjh0OUszVUhheVU0TFg4U29UOGdZSHFhYlp3RkNiMDZ0Z0huU0Z6a0Jtdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b396b60f2153",
       "title": "독감바이러스 증식에 중요한 숙주 유전자 밝혀져",
       "published": "2026-06-17T21:00:00+00:00",
@@ -423,11 +475,24 @@
       "id": "e7c11bc238c1",
       "title": "“혈압 올라 동맥경화 위험”… 미국심장학회지에 실린 ‘치명적인 습관’",
       "published": "2026-06-17T19:00:00+00:00",
-      "summary": "“혈압 올라 동맥경화 위험”… 미국심장학회지에 실린 ‘치명적인 습관’&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "“혈압 올라 동맥경화 위험”… 미국심장학회지에 실린 ‘치명적인 습관’&nbsp;&nbsp;헬스조선많은 사람들이 자신도 모르게 매일 하는 행동들: 심혈관 건강을 조용히 해치는 오후 습관 3가지.&nbsp;&nbsp;Vietnam.vn심장 건강을 해치고 뇌졸중 위험을 높이는 3가지 식습관, 특히 두 번째 습관에 주의하세요.&nbsp;&nbsp;Vietnam.vn심장 전문의가 오전 9시 전에는 절대 피해야 할 음식 4가지를 공개했습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9heWV6NEhVeVh5YmxlUDFGazJKR1FIbmN1OTY4VjcyWE96c1Mtdlp1Rkt3NUtBd1NFRXNsRVJoR0piWHVnUXlXOXozNUpucHJsaTkxTTM5Yl9RSTQ3SnFpcXlQVktzWWRvR2xnbmRaekk5UjBoTkw2ckJTdTlsdlU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dea83a44e2e7",
+      "title": "용종 뗀 사람, 대장암 환자와 장 환경 비슷… 연구로 밝혀진 ‘꼭 먹어야 할 식품’ 3가지",
+      "published": "2026-06-17T16:02:00+00:00",
+      "summary": "용종 뗀 사람, 대장암 환자와 장 환경 비슷… 연구로 밝혀진 ‘꼭 먹어야 할 식품’ 3가지&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByU1AteGNLRFlaM2FsYm5pbWJBaGtzQjJhbWQ4Zm1OUUNwY2p6R3pGT0cza2EzQVRrX01hX0FlejdUdmZvZXVVdFFGUDRfVUFKWkpEZkpzU0R5WnN3b2ZpdWV2SURwd3QzLUZzdWNIV2JPWGhtR2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -441,19 +506,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uSkxtWVAwZHd5X0RGVkFZdmptQXhPcEdVbEQwTWo0SF8wYnBPbnlJMkIyREl6LW5WZjdmaXB1SVNzNzBmQXdnSzYxYXNvN0x3WnYwLWh4VUk3eTNMc3pPUGs4c2NrYnF6MDlNOVhvZTVWVVZZM3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "90c0a7d75dcf",
-      "title": "노년기 뇌 건강 지키는 ‘소뇌’...“부피 클수록 인지 저하 늦췄다”",
-      "published": "2026-06-17T10:31:23+00:00",
-      "summary": "노년기 뇌 건강 지키는 ‘소뇌’...“부피 클수록 인지 저하 늦췄다”&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6ZmRxdXFaSjloekdVMjVfQ2V0dHVXblpIWEkwaXhPYlB4dEhmRGRCLXZycVVCRW1jcW9YUjFsNHloT3liMWQzNXRGTGpiSUpVd0dKZXE4UTg4dURVSE1mbF9zVzMwTkhYX1lYdEdnSTkzdw?oc=5"
         }
       ],
       "matched_keywords": []
