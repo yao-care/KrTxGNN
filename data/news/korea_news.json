@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-19T15:26:51.163606+00:00",
+  "fetched_at": "2026-06-19T19:52:45.285825+00:00",
   "total_fetched": 77,
   "unique_count": 76,
   "health_related_count": 40,
   "news": [
+    {
+      "id": "c33da402995d",
+      "title": "한국, G7과 손잡고 암 퇴치 공동선언…AI·폐암 사망률 감소 목표 제시 - 한국AI부동산신문",
+      "published": "2026-06-19T18:29:00+00:00",
+      "summary": "한국, G7과 손잡고 암 퇴치 공동선언…AI·폐암 사망률 감소 목표 제시&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wZ3UwcExtRHZiWkllaHRLTjdhb0FtbFZnWnNycjBCcUoyRTUwTmtYcFk5ak9zWmU5cEg2Smp1alYyN3AzWXk3YjFfTm0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e396017730dd",
+      "title": "\"운동·수면·크레아틴·스트레스 관리\"…뇌 건강 비법 4가지 - 뉴시스",
+      "published": "2026-06-19T15:02:00+00:00",
+      "summary": "\"운동·수면·크레아틴·스트레스 관리\"…뇌 건강 비법 4가지&nbsp;&nbsp;뉴시스뇌 수술하는 의사가 꼭 지킨다는 ‘5가지 관리법’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vMmNmVHJmMktmWHdzWk5yQ1FqdWdPSVBNbGpmSmR2NmFuQzhqWThIS1QwY1VVSXdaTXhfMmROOVFzY0w4UU1XVUVNSTNCcVhVdjkxRE05S1F5Uzg0UFJSTGhB?oc=5"
+        }
+      ]
+    },
     {
       "id": "defabf00aabf",
       "title": "[메디컬 인사이트 141회] 부끄러움이 키우는 질병 '성매개감염병' - 네이트",
@@ -21,7 +45,7 @@
       "id": "ce2703e75e77",
       "title": "임신 초기 조심해야겠네…유산 위험 높이는 '이 자세' - 한국경제",
       "published": "2026-06-19T13:22:10+00:00",
-      "summary": "임신 초기 조심해야겠네…유산 위험 높이는 '이 자세'&nbsp;&nbsp;한국경제[건강포커스] \"임신 초기 자주 몸 숙이는 자세, 유산 위험 높일 수 있어\"&nbsp;&nbsp;v.daum.net임신 초기에 허리 자주 숙이면 유산 위험 36% 높아져&nbsp;&nbsp;헬스조선일하는 임신부…‘이 자세’ 오래 할수록 유산 위험 높아진다&nbsp;&nbsp;농민신문임신 초기 '이 자세' 반복하면 유산 위험 36%↑&nbsp;&nbsp;네이트",
+      "summary": "임신 초기 조심해야겠네…유산 위험 높이는 '이 자세'&nbsp;&nbsp;한국경제[건강포커스] \"임신 초기 자주 몸 숙이는 자세, 유산 위험 높일 수 있어\"&nbsp;&nbsp;v.daum.net임신 초기에 허리 자주 숙이면 유산 위험 36% 높아져&nbsp;&nbsp;헬스조선일하는 임신부…‘이 자세’ 오래 할수록 유산 위험 높아진다&nbsp;&nbsp;농민신문",
       "sources": [
         {
           "name": "한국경제",
@@ -30,10 +54,10 @@
       ]
     },
     {
-      "id": "b02ca3e3a0ed",
-      "title": "HIV 감염인끼리 폐 이식 전세계 첫 성공…\"장기 부족 해결 길 열렸다\" - 조선일보",
+      "id": "ea0e217a0c2f",
+      "title": "HIV 감염인끼리 폐 이식 전세계 첫 성공… \"장기 부족 해결 길 열렸다\" - 조선일보",
       "published": "2026-06-19T12:04:48+00:00",
-      "summary": "HIV 감염인끼리 폐 이식 전세계 첫 성공…\"장기 부족 해결 길 열렸다\"&nbsp;&nbsp;조선일보",
+      "summary": "HIV 감염인끼리 폐 이식 전세계 첫 성공… \"장기 부족 해결 길 열렸다\"&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "조선일보",
@@ -66,18 +90,6 @@
       ]
     },
     {
-      "id": "2d3bcad5dadb",
-      "title": "[마신] 마라맛 곤약 일부제품 ‘어린이 치아손상’ 우려 판매 중단 권고 - 마일드경제",
-      "published": "2026-06-19T10:10:04+00:00",
-      "summary": "[마신] 마라맛 곤약 일부제품 ‘어린이 치아손상’ 우려 판매 중단 권고&nbsp;&nbsp;마일드경제",
-      "sources": [
-        {
-          "name": "마일드경제",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10anRFdVQ3NDhPbnRrb0hDZlRpQjFqZm1YTndxZGNmVDdEV3FhTjdndFlubzdidnF4X2U0eTN3SERlazEzeC1BS2xWWDJLcURENldSMDZrMTRrREFxYzhBVTNFTzdUejdsckp3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0b0670c9d9f7",
       "title": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목 - 디멘시아뉴스",
       "published": "2026-06-19T09:47:26+00:00",
@@ -92,12 +104,24 @@
     {
       "id": "64cd2a9d7c0a",
       "title": "\"끓였으니 괜찮다?\" 남겨둔 김치찌개가 더 위험할 수 있는 이유 - 위클리코리아",
-      "published": "2026-06-19T09:26:58+00:00",
+      "published": "2026-06-19T09:29:01+00:00",
       "summary": "\"끓였으니 괜찮다?\" 남겨둔 김치찌개가 더 위험할 수 있는 이유&nbsp;&nbsp;위클리코리아“다 끓였는데 왜?”…봄 소풍 도시락, 방심했다간 식중독 [알쓸톡]&nbsp;&nbsp;동아일보찌개, 다음날 전자레인지 돌려도 위험…100도에도 살아남는 ‘식중독 균’&nbsp;&nbsp;경향신문",
       "sources": [
         {
           "name": "위클리코리아",
           "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOTDVvYmlxemRsRHU2N3p3WXZvcFFpNTlNaHlidG1ZRGlDcXhtNlVmQ1R6NzMwMEdfSHo3UlBDeVBkUUF4Y1FEdEJfSF9pXzl3VUd6TWM1SGJ0amo0Y0V0U3RGNTIxTmF3YWRJeVdXSEh6dWxOMXdBUE9zQ0xHOVBHZ0t5VEwtSk04aWFCQ2I2LWl5dmJqa2pPX1ZONXRMWmN6M2REZ2dCZjc4aXl3Q3ByalgyWkNYX3NYYjFSMW5NYk8xU1hZOU1TQWc0b2FYbXpPVGJta3JveDNTekJpLU1NbnpaWjBXYmR2cFZFX1BOUU9mLUFIdG01dzlpRC1MMFlrc0pMMGE3QmlnQmszWW10QS1aeUljOG1sMFZEdERsYlpGa2dETUVlNnpxUmRVdzhLamVub05BamkwQTBHZ29Vd0RwbnI4Zi02Qjd2QVV0VklXX0lic2hqTEtXN0wxYU1DVk1VNnBUTGFHZmM0X3BCd2FjRHlzZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e07d33bbcac2",
+      "title": "감기 뒤 손발 저림, 디스크만 의심하면 안 되는 이유 - 매경헬스",
+      "published": "2026-06-19T09:00:00+00:00",
+      "summary": "감기 뒤 손발 저림, 디스크만 의심하면 안 되는 이유&nbsp;&nbsp;매경헬스여름철 붓고 무거운 다리...하지정맥류 의심해야&nbsp;&nbsp;로이슈감기 후 다리에 힘이 빠진다면?…희귀질환 '길랭-바레증후군' 의심&nbsp;&nbsp;식약일보길랭-바레 증후군을 조기에 발견하면 사지마비를 예방할 수 있습니다.&nbsp;&nbsp;Vietnam.vn감기 후 찾아온 마비 … 호흡까지 위협하는 희귀질환 ‘길랭-바레증후군’&nbsp;&nbsp;헬스오",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDLWVvMHdUbHVyVlZOY0xDT2RZdTk2ZjVocmRIM2Q4TGo5cXZYQm9EdHpCVFJOc2tWNkxCN1VHeEt1QnRBUndDSHZYVE1fd0VyMHFKalVnQU0yWHNzLUtKdGVvRm1hOGFrd2hlZw?oc=5"
         }
       ]
     },
@@ -126,6 +150,18 @@
       ]
     },
     {
+      "id": "2d3bcad5dadb",
+      "title": "[마신] 마라맛 곤약 일부제품 ‘어린이 치아손상’ 우려 판매 중단 권고 - 마일드경제",
+      "published": "2026-06-19T07:15:00+00:00",
+      "summary": "[마신] 마라맛 곤약 일부제품 ‘어린이 치아손상’ 우려 판매 중단 권고&nbsp;&nbsp;마일드경제",
+      "sources": [
+        {
+          "name": "마일드경제",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10anRFdVQ3NDhPbnRrb0hDZlRpQjFqZm1YTndxZGNmVDdEV3FhTjdndFlubzdidnF4X2U0eTN3SERlazEzeC1BS2xWWDJLcURENldSMDZrMTRrREFxYzhBVTNFTzdUejdsckp3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "078605f17a73",
       "title": "껀터에서 수족구병, 뎅기열 모두 증가 - Laodong.vn",
       "published": "2026-06-19T05:33:24+00:00",
@@ -134,6 +170,30 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM2Y1RGZub3puVWxTNWpxVUkyWmVYUHRlX25oQTUzMnlFZTRSYXNsZE9mdy1zbGVJcmhkUFh0aWozTlRxamVtWm9PZUUtaTJFc1FvUDFFNGpkSWRnMkNBdWZETG1tT2pGZUlzQ3BzcUxLenpxejlaM0R3NkNqbFVYSFFxVENDbER6YjJBZW84SU9mWU54cl9SOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4e089378659",
+      "title": "성균관대·가톨릭대, 슈퍼박테리아 항생제 내성 원리 규명 | - HeraldK.com",
+      "published": "2026-06-19T05:24:31+00:00",
+      "summary": "성균관대·가톨릭대, 슈퍼박테리아 항생제 내성 원리 규명 |&nbsp;&nbsp;HeraldK.com성균관대·가톨릭대, 슈퍼박테리아 항생제 내성 원리 규명&nbsp;&nbsp;v.daum.net성균관대 조홍백 교수 연구팀, 슈퍼박테리아 ‘녹농균’의 새로운 항생제 내성 기전 규명...다제내성균 감염병 치료제 개발 효과&nbsp;&nbsp;국민뉴스가톨릭대, 녹농균 항생제 유입 차단 기전 규명&nbsp;&nbsp;전자신문가톨릭대-성균관대 공동 연구팀, 슈퍼박테리아 ‘녹농균’의 항생제 방어막 비밀 풀었다&nbsp;&nbsp;한국대학신문",
+      "sources": [
+        {
+          "name": "HeraldK.com",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQcWVyclRVdk9mS2xWb1hyTTkyY1k0aTMzLXI4R3hkNWRnMHZDZi1BSE5RaHp1aGtHVkxKT25CSG1RdUJ2MVZnY3ZEbGNYazhHS1lEaG9RZzd5cmpzZlZYbHNNNEtPaEVTZHhabmc4UG05RzE0Mm9LMzgyTlU0ZTdKU3NicGNFdUlZUW02U0R5WVZodXg3X2UyZElPVmtySVhHeml0eHJXajVzb3hGMHhqQkxvR3RkQmpUZ25iTGYyaXR6dDFhVUU4RXlpcEotMnhVMWJKZUNzMTV3NTNYQTVwZGJnTk5WOTVQNzlNVHFuV0MyMHJ4eDJ1T1BVZDQtcl85MkVUZV9ZZ0xZMmp2S1VST1lYWnRxODhYU1JhZ2lZZURxc1owQk5SLXVJRG92czhScDRDaU1EdHl5eGMyYUlUa0RSRWlLZ2Vnd0NaUDU1TE8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f2687c49318d",
+      "title": "[기획 특집] 치아 건강 지키는 자일리톨(4) - 덴탈이슈",
+      "published": "2026-06-19T05:19:50+00:00",
+      "summary": "[기획 특집] 치아 건강 지키는 자일리톨(4)&nbsp;&nbsp;덴탈이슈",
+      "sources": [
+        {
+          "name": "덴탈이슈",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GWU0xaDd4eDJqeEFXYmpjeVp0QnlNZWVGQWdBVkFVeUlkVW1HRGhDdEQ1ZFMtYlZyZENCMmM3UGpOcUZYX3R2YnYzYXUxbXR3NU5tTTltYTQtaDYwdENxV0FVaHZBdUtW?oc=5"
         }
       ]
     },
@@ -213,7 +273,7 @@
       "id": "e479f5504f87",
       "title": "\"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\" - 사이언스타임즈",
       "published": "2026-06-18T22:04:27+00:00",
-      "summary": "\"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;사이언스타임즈[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net잠과 운동이 '나쁜 피'를 길들여 심장을 지킨다&nbsp;&nbsp;네이버 프리미엄콘텐츠\"근력운동 좋은 줄은 알았지만\"…여성들 '화들짝' 놀랄 결과 [건강!톡]&nbsp;&nbsp;한국경제\"이것만 지켜도 달라져\" 심장병 위험 낮추는 의외의 습관&nbsp;&nbsp;네이트",
+      "summary": "\"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;사이언스타임즈[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net잠과 운동이 '나쁜 피'를 길들여 심장을 지킨다&nbsp;&nbsp;네이버 프리미엄콘텐츠근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선\"근력운동 좋은 줄은 알았지만\"…여성들 '화들짝' 놀랄 결과 [건강!톡]&nbsp;&nbsp;한국경제",
       "sources": [
         {
           "name": "사이언스타임즈",
@@ -234,18 +294,6 @@
       ]
     },
     {
-      "id": "fcf88ed01bb5",
-      "title": "뇌 수술하는 의사가 꼭 지킨다는 ‘5가지 관리법’ - 헬스조선",
-      "published": "2026-06-18T15:33:00+00:00",
-      "summary": "뇌 수술하는 의사가 꼭 지킨다는 ‘5가지 관리법’&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55alE0d3ZXSXpvdmJjWHlZMlRvc2ZLTVV1WlI2QUVGbXUzcnZ5N2ZkUUxYLXlubHBIZ0lUMzJIZWhiN0pBOGlNMHFDVXdrYUtSa1NkOEhZUWltbTBsRFFiY2ZYSmlYYVh1dnFqUHhOZXpIaU1kZWhoVGFNeUc2a00?oc=5"
-        }
-      ]
-    },
-    {
       "id": "079d032e7dc8",
       "title": "\"휴대폰 대신 알람 시계, 매일 산책\"… 신경과학자의 '뇌 건강 습관' 10가지 - 헬스조선",
       "published": "2026-06-18T14:30:00+00:00",
@@ -254,18 +302,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUkFHd3RlMXJtc0pNOHNQRGtQa2pvSUQ0R3hoUmpJMXpwU3hvWml1TkZ0MVREWjgyeVhuOXFvRVhsWENkZWN6UjVLQW9ockFjZ3RXUzljZGx1aElXUjA1aG1XLVR1U2R6eFl4NGtsOFdDWnFyQXZKbXc5SGRERHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c65332a044a",
-      "title": "혈관에 좋은 음식 5가지… \"동맥경화·고혈압 위험 낮춘다\" - 하이닥",
-      "published": "2026-06-18T11:00:00+00:00",
-      "summary": "혈관에 좋은 음식 5가지… \"동맥경화·고혈압 위험 낮춘다\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53WEFybnZJZHMyWXlRZzZEenVGTlZPSGlPQ01UNGpEOTh1a1o4WjZHUVZ1cHJwak5yRjZSckhJX090aElfRVl4N0lhdThHQ0lsWFBNeDlzSjZwS3J0Zmc5U2lza0NmcXUzY3c?oc=5"
         }
       ]
     },
@@ -290,30 +326,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPOURXZzJLb2NtbVVuenNvYVF0bnNGbWhHelZxbWZ3N01LMHNDZnZKS19xR3RJOWI5dHdGOXRyeHdUWWhMTGVDUHdwX2xqN0ZIeG52Qkl6TjdhaWJzUWJxYUllWWNoS1VzZ0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a8a75f5ffbe6",
-      "title": "감기 후 다리에 힘이 빠진다면?…희귀질환 '길랭-바레증후군' 의심 - 식약일보",
-      "published": "2026-06-18T07:30:00+00:00",
-      "summary": "감기 후 다리에 힘이 빠진다면?…희귀질환 '길랭-바레증후군' 의심&nbsp;&nbsp;식약일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "식약일보",
-          "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0zbjdyNWJNdnFIakUxQVJpVkRVTkVHMjAwbWNBWG9sSTlJZEE4eTNvR01lVDJJM2hsc1VN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd67e064680f",
-      "title": "암흑물질 없는 은하 잇따라 발견…은하 형성 과정 규명할 단서일까 - v.daum.net",
-      "published": "2026-06-18T06:50:01+00:00",
-      "summary": "암흑물질 없는 은하 잇따라 발견…은하 형성 과정 규명할 단서일까&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3VzVMNWlLekpuTlFlc05VTVoyYU9ZWV9QYk5ka2RJOXhQSVF0bzNwQ3BWX1pONEItdTFUOVJ5YU5MM3dJV1d5MFlMZ0RydzQ?oc=5"
         }
       ]
     },
@@ -345,7 +357,7 @@
       "id": "99e4b0369c1a",
       "title": "전이성 유방암 진행…'혈액검사'로 예측한다 - 매경헬스",
       "published": "2026-06-18T01:00:00+00:00",
-      "summary": "전이성 유방암 진행…'혈액검사'로 예측한다&nbsp;&nbsp;매경헬스\"전이성 유방암, 방사선 치료효과, 피검사로 예측\"&nbsp;&nbsp;뉴시스연세암병원, '소수전이 유방암' 치료 새 분기점 선언...'전신 확산 위험 예측' 가능&nbsp;&nbsp;파이낸셜포스트\"혈액검사로 전이성 유방암 확산 위험 예측\"&nbsp;&nbsp;아시아경제세브란스병원, \"혈액검사로 전이성 유방암 진행 위험 예측 가능성 확인\"&nbsp;&nbsp;팍스경제TV",
+      "summary": "전이성 유방암 진행…'혈액검사'로 예측한다&nbsp;&nbsp;매경헬스혈액검사로 ‘전이성 유방암’ 진행 예측 길 열려&nbsp;&nbsp;헬스조선[Medical Report] 혈액 한 방울·웨어러블·AI까지… 의료혁신, 진단의 경계를 넓히다 外&nbsp;&nbsp;헬스코리아뉴스연세암병원, '소수전이 유방암' 치료 새 분기점 선언...'전신 확산 위험 예측' 가능&nbsp;&nbsp;파이낸셜포스트연세암병원, 혈액검사로 전이성 유방암 확산 위험 예측 지표 규명&nbsp;&nbsp;헬스미디어뉴스",
       "sources": [
         {
           "name": "매경헬스",
@@ -357,7 +369,7 @@
       "id": "442c39f36984",
       "title": "구강 세균 장내 이동, 간질환 악화 원인 - 보건신문",
       "published": "2026-06-18T00:41:22+00:00",
-      "summary": "구강 세균 장내 이동, 간질환 악화 원인&nbsp;&nbsp;보건신문장내 미생물로 간질환 진행 예측한다…한림대 연구팀 규명&nbsp;&nbsp;v.daum.net입속 세균이 간질환 원인? 간경변·간암 악화시킬 수도&nbsp;&nbsp;경향신문장으로 이동해 간질환 악화시키는 입 속 세균 확인&nbsp;&nbsp;헬스조선'장내 미생물 변화로 간질환 진행 단계와 예후 예측 가능성 확인'&nbsp;&nbsp;이데일리",
+      "summary": "구강 세균 장내 이동, 간질환 악화 원인&nbsp;&nbsp;보건신문입속 세균이 간질환 원인? 간경변·간암 악화시킬 수도&nbsp;&nbsp;v.daum.net장내 미생물로 간질환 진행 예측한다…한림대 연구팀 규명&nbsp;&nbsp;연합뉴스장으로 이동해 간질환 악화시키는 입 속 세균 확인&nbsp;&nbsp;헬스조선'장내 미생물 변화로 간질환 진행 단계와 예후 예측 가능성 확인'&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "보건신문",
@@ -374,6 +386,18 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FS2lFMTc0S25zWlIyTmktWnBMMHhnT0QtdGdaSVdLTVI5S0xhS1RwZlNJZHozS2p0MmpDbHFrTHJXOF9pMDdhTDdfcDM5blJYSXk4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b35395223ddb",
+      "title": "“밥 끊었더니 피로·저혈당”… 학술지 권고 ‘탄수화물 최적의 비율’ - 헬스조선",
+      "published": "2026-06-17T23:00:00+00:00",
+      "summary": "“밥 끊었더니 피로·저혈당”… 학술지 권고 ‘탄수화물 최적의 비율’&nbsp;&nbsp;헬스조선탄수화물 너무 적게 먹으면 ‘대머리’된다? 하루 권장섭취량은?--건강&nbsp;&nbsp;인민넷\"탄수화물 줄여서 살은 뺐는데\" …'나쁜 콜레스테롤'은 올랐다&nbsp;&nbsp;약사공론밥 끊으면 예뻐질까?... 전문가가 말하는 ‘탄수화물 얼굴’의 진실&nbsp;&nbsp;insight.co.kr빵·면 끊으면 몸에 좋을까? 1만명 분석한 뜻밖의 결과&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BOFpMYjU3UXhKRUJlTkFqUDcxanB3bkFnMzJqZkhhcnNkVDBTMklZT2t0VVZySHNMQ20zTDhJbGpreUhWdXlNSlJTMG5HY0ZqejVZdEJLN0FNSXJPNlBCYU9VZFF2T3pGbGdqdzBuaGpnSExIOFE?oc=5"
         }
       ]
     },
@@ -417,7 +441,7 @@
       "id": "44e893ba0ae2",
       "title": "“당뇨약보다 강력하다”… 암·심혈관질환 위험 21% 낮춘 ‘두 가지 생활습관’ - 헬스조선",
       "published": "2026-06-17T21:00:00+00:00",
-      "summary": "“당뇨약보다 강력하다”… 암·심혈관질환 위험 21% 낮춘 ‘두 가지 생활습관’&nbsp;&nbsp;헬스조선61세에 만난 당뇨병…9년째 정상 혈당, 어떻게 했길래?&nbsp;&nbsp;네이트“당뇨 있어도 더 건강할 수 있어”…삶의 질 되찾은 환자들 [당 편한 세상]&nbsp;&nbsp;쿠키메디혈당 높은 사람도 ‘이런 습관’ 유지했더니...암, 심장병 등 만성 질환 위험 “뚝”&nbsp;&nbsp;코메디닷컴혈당 변동성·탄수화물·슬로우 조깅… 당뇨 극복 키워드 [밀당365]&nbsp;&nbsp;헬스조선",
+      "summary": "“당뇨약보다 강력하다”… 암·심혈관질환 위험 21% 낮춘 ‘두 가지 생활습관’&nbsp;&nbsp;헬스조선“당뇨 있어도 더 건강할 수 있어”…삶의 질 되찾은 환자들 [당 편한 세상]&nbsp;&nbsp;쿠키메디혈당 높은 사람도 ‘이런 습관’ 유지했더니...암, 심장병 등 만성 질환 위험 “뚝”&nbsp;&nbsp;코메디닷컴혈당 변동성·탄수화물·슬로우 조깅… 당뇨 극복 키워드 [밀당365]&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -438,38 +462,14 @@
       ]
     },
     {
-      "id": "e7c11bc238c1",
+      "id": "e90cf7214202",
       "title": "“혈압 올라 동맥경화 위험”… 미국심장학회지에 실린 ‘치명적인 습관’ - 헬스조선",
       "published": "2026-06-17T19:00:00+00:00",
-      "summary": "“혈압 올라 동맥경화 위험”… 미국심장학회지에 실린 ‘치명적인 습관’&nbsp;&nbsp;헬스조선많은 사람들이 자신도 모르게 매일 하는 행동들: 심혈관 건강을 조용히 해치는 오후 습관 3가지.&nbsp;&nbsp;Vietnam.vn심장 건강을 해치고 뇌졸중 위험을 높이는 3가지 식습관, 특히 두 번째 습관에 주의하세요.&nbsp;&nbsp;Vietnam.vn심장 전문의가 오전 9시 전에는 절대 피해야 할 음식 4가지를 공개했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "“혈압 올라 동맥경화 위험”… 미국심장학회지에 실린 ‘치명적인 습관’&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9heWV6NEhVeVh5YmxlUDFGazJKR1FIbmN1OTY4VjcyWE96c1Mtdlp1Rkt3NUtBd1NFRXNsRVJoR0piWHVnUXlXOXozNUpucHJsaTkxTTM5Yl9RSTQ3SnFpcXlQVktzWWRvR2xnbmRaekk5UjBoTkw2ckJTdTlsdlU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dea83a44e2e7",
-      "title": "용종 뗀 사람, 대장암 환자와 장 환경 비슷… 연구로 밝혀진 ‘꼭 먹어야 할 식품’ 3가지 - 헬스조선",
-      "published": "2026-06-17T16:02:00+00:00",
-      "summary": "용종 뗀 사람, 대장암 환자와 장 환경 비슷… 연구로 밝혀진 ‘꼭 먹어야 할 식품’ 3가지&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByU1AteGNLRFlaM2FsYm5pbWJBaGtzQjJhbWQ4Zm1OUUNwY2p6R3pGT0cza2EzQVRrX01hX0FlejdUdmZvZXVVdFFGUDRfVUFKWkpEZkpzU0R5WnN3b2ZpdWV2SURwd3QzLUZzdWNIV2JPWGhtR2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02c995f61a12",
-      "title": "‘모기향’ 무늬 같은데… 알고 보니 곰팡이균 감염 - 헬스조선",
-      "published": "2026-06-17T15:30:00+00:00",
-      "summary": "‘모기향’ 무늬 같은데… 알고 보니 곰팡이균 감염&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uSkxtWVAwZHd5X0RGVkFZdmptQXhPcEdVbEQwTWo0SF8wYnBPbnlJMkIyREl6LW5WZjdmaXB1SVNzNzBmQXdnSzYxYXNvN0x3WnYwLWh4VUk3eTNMc3pPUGs4c2NrYnF6MDlNOVhvZTVWVVZZM3c?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fUmxyZVIxTzFTcDJiTkxKWnJkQjJYNnI2TjR1RGN0S1dzVTVtYi0zQU5jSmxETjdYNG5yenY4cm9DYnljdVEzcEpkeDdmY1h0SjRMa1ZnWWEwcWllU3VITlc0QUhGSWtzUTVjTGlrb2N6dVljREE?oc=5"
         }
       ]
     },
