@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-06-20T14:10:04.294344+00:00",
-  "total_count": 26,
+  "last_updated": "2026-06-20T19:41:14.652992+00:00",
+  "total_count": 25,
   "matched_count": 0,
   "news": [
+    {
+      "id": "89df8f3b9063",
+      "title": "\"여성이라면 주 2시간만 투자해라\"…사망 위험 확 낮아진다는데 [헬시타임]",
+      "published": "2026-06-20T19:31:08+00:00",
+      "summary": "\"여성이라면 주 2시간만 투자해라\"…사망 위험 확 낮아진다는데 [헬시타임]&nbsp;&nbsp;네이트“여성이라면 주 2시간만 투자해라”…사망 위험 확 낮아진다는데 [헬시타임]&nbsp;&nbsp;서울경제근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net근력운동 하는 여성, 심혈관질환 위험 낮아…유산소 병행 시 효과 커&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzRXZzYS1Jd3R3T1BSdk5lQkRpenVjVVJRckR6VHR6YVlMMHRYQ0dJcGFUdVl3dHNiNmRTS2JTQ3p2dWk5d2tOYlQ5SzRqenlTd0R4Ym5R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4e9913baca43",
+      "title": "'색은 선명하게 에너지는 적게'…구조색 원리 이용한 페인트",
+      "published": "2026-06-20T17:34:00+00:00",
+      "summary": "'색은 선명하게 에너지는 적게'…구조색 원리 이용한 페인트&nbsp;&nbsp;네이트'색은 선명하게 에너지는 적게'...구조색 원리 이용한 페인트&nbsp;&nbsp;YTN“색은 더 선명하게, 열은 더 멀리”…고려대학교 이승우 교수팀, ‘빛으로 칠하는 미래의 페인트’ 개발&nbsp;&nbsp;한국강사신문",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mNGtRTTZiWGtRdHBRNS1VbnpNcnJmaE1ySWxEZFN0SXRJZDZOMENvWWdsVFRyUWxucUliMWRtRE9XVTlyWUVsWlNiVjEzWnBReTNVX3VkY25YWThYOTRLTA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "250caf278ddf",
       "title": "수두 환자는 심각한 합병증이 많고 집중 치료를 받아야 합니다",
@@ -17,14 +43,14 @@
       "matched_keywords": []
     },
     {
-      "id": "57d445adfc28",
+      "id": "380a65648976",
       "title": "말라리아 예방 무기는 여전히 모기장 - 마음건강 길",
       "published": "2026-06-20T02:00:00+00:00",
       "summary": "말라리아 예방 무기는 여전히 모기장&nbsp;&nbsp;마음건강 길",
       "sources": [
         {
           "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IWXJxd01ja3hMWmF2cUl6ZlFOYXVqOHNNU1ZMSEliQUFnYkYwai1DcXVsc0d3SnhQSXdmcGxlUTJKQ0tmRmZWVl9UTWRiTVQ2ZmxjbzdhTkdmaHRCdWN6LU5WMGhDQzJJMlE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IWXJxd01ja3hMWmF2cUl6ZlFOYXVqOHNNU1ZMSEliQUFnYkYwai1DcXVsc0d3SnhQSXdmcGxlUTJKQ0tmRmZWVl9UTWRiTVQ2ZmxjbzdhTkdmaHRCdWN6LU5WMGhDQzJJMlHSAW5BVV95cUxNVVNKWi1SX2NTRDFzQzBkcG1RaGpiRnFNRXNwLXZzVUxzZEQ4REJwRGp5S0Z6UVVRSXZHVkw1dk9zcEVWMHRYRTRZbEEyNFN4UEx0LVZ5d2ViSWJRbks4aDRaeGxsWmRaYXJqWjNSUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -33,7 +59,7 @@
       "id": "33eec36c8881",
       "title": "“바이러스 싹 잡는다”… 올 여름 ‘파인애플’ 사야 할 이유",
       "published": "2026-06-20T00:02:00+00:00",
-      "summary": "“바이러스 싹 잡는다”… 올 여름 ‘파인애플’ 사야 할 이유&nbsp;&nbsp;헬스조선",
+      "summary": "“바이러스 싹 잡는다”… 올 여름 ‘파인애플’ 사야 할 이유&nbsp;&nbsp;헬스조선먹을 때마다 혀가 번쩍…파인애플 먹고 느낀 따가움의 진짜 이유&nbsp;&nbsp;위키트리",
       "sources": [
         {
           "name": "헬스조선",
@@ -163,7 +189,7 @@
       "id": "0b0670c9d9f7",
       "title": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목",
       "published": "2026-06-19T09:47:26+00:00",
-      "summary": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목&nbsp;&nbsp;디멘시아뉴스\"청각 자극 줄면 뇌활동도 감소…난청 관리가 치매 예방 시작\"&nbsp;&nbsp;네이트",
+      "summary": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목&nbsp;&nbsp;디멘시아뉴스\"청각 자극 줄면 뇌활동도 감소…난청 관리가 치매 예방 시작\"&nbsp;&nbsp;네이트40~60대 중년기 ‘난청’ 관리만으로도 ‘치매 예방’ 효과 탁월&nbsp;&nbsp;코리아헬스로그",
       "sources": [
         {
           "name": "디멘시아뉴스",
@@ -251,19 +277,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c234e0962239",
-      "title": "기억을 지우는 뇌 속의 당뇨병",
-      "published": "2026-06-19T04:57:31+00:00",
-      "summary": "기억을 지우는 뇌 속의 당뇨병&nbsp;&nbsp;농촌여성신문",
-      "sources": [
-        {
-          "name": "농촌여성신문",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCZEY4OW5NOENCZ2xMN3pPQXZ5U2ZNSGFaNzNYQzFTVjNwSUc1aHVJMlFTLWlla2ZkWjNaRWw4bVMyeWFORW9FZVdvYWRtOEFvWHdhTG8xbk1uUHhsRFVUZmVPZVdwQdIBakFVX3lxTFB4OW5RaE1KWHNtNndNZTBMQVhhYkJmUGQxNVZsSXp5Q3AzMGhqcjI5dmhaYUVDTk93MGJqM2NrNV93WVQ1SWZIYjhXRGZiU201RXNUMEhBeWg4TnduOGkyYjdHQm01THREemc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9a333b7e5226",
       "title": "입원 환자, 양치만 잘해도 폐렴 위험 줄어든다",
       "published": "2026-06-19T03:30:00+00:00",
@@ -298,32 +311,6 @@
         {
           "name": "덴탈아리랑",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VbjljQnNDU09DXy1iTjhBd01lM3BsYVp1blFDMUNqUU1BbE1aMUVuMnBDQ0lYQzVXcUsyQUc0RDh3LWJGV0hkZk5YM1VWQnYtbnNOaTg4VW9jNVRXanNEd0xlTnAyZlR0b1hZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e479f5504f87",
-      "title": "\"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"",
-      "published": "2026-06-18T22:04:27+00:00",
-      "summary": "\"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;사이언스타임즈[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net잠과 운동이 '나쁜 피'를 길들여 심장을 지킨다&nbsp;&nbsp;네이버 프리미엄콘텐츠\"근력운동 좋은 줄은 알았지만\"…여성들 '화들짝' 놀랄 결과 [건강!톡]&nbsp;&nbsp;한국경제근력운동 하는 여성, 심혈관질환 위험 낮아…유산소 병행 시 효과 커&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "사이언스타임즈",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSS00dnlTQ09vQ3Y2aURqTE54OXZDUDlWVHI5V01IQlNROGVNYTRHWkRVWW1mdUx1M3NrNVpyVUEwVjkwamllQVVBMFJIMEpVU0FxVUNXeTRYTzlvSFk4M3pfNUtiTFhJNk1pQnhyejVtU3JSNHdHaHdKRjlLMmRVUVJIcHczWGJaaDFpUGdJbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a650a7f9f6fe",
-      "title": "“염증 줄여 건강한 몸으로” 한국인 흔히 먹는 음식, 정체 살펴보니?",
-      "published": "2026-06-18T17:30:00+00:00",
-      "summary": "“염증 줄여 건강한 몸으로” 한국인 흔히 먹는 음식, 정체 살펴보니?&nbsp;&nbsp;헬스조선“약만큼 강력한 효과”… 류마티스 의사들이 추천하는 ‘5대 항염 식품’&nbsp;&nbsp;헬스조선“건강하게 오래살자”…웰에이징, 세포시계 되돌리기부터[김수연의 헬스업]&nbsp;&nbsp;v.daum.net[목멱칼럼]노화는 못 막아도 노쇠는 되돌릴 수 있다&nbsp;&nbsp;이데일리바디인사이트 - 나이 들 수록 아픈 건 당연? 몸속 회복 시스템에 달려있다!&nbsp;&nbsp;mbn.co.kr",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEWmx1ZFFpOE9pVWo5bVozbVE2dGtnWXpIN3hpTjhtYjVxVzVlN0dCTGtpcXFROXR6VlpVc0pMTllYTTBUbUxDYUZZZWx2VlM3dDBEbUhzeUlucWlWQ2ttbGJmSzRKVWtYaWNVelpXdHRXZXVOUlpSN05yRzJReEE?oc=5"
         }
       ],
       "matched_keywords": []
