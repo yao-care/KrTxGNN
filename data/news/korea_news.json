@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-20T09:21:11.130324+00:00",
-  "total_fetched": 49,
-  "unique_count": 48,
+  "fetched_at": "2026-06-20T14:10:04.196881+00:00",
+  "total_fetched": 57,
+  "unique_count": 56,
   "health_related_count": 26,
   "news": [
+    {
+      "id": "250caf278ddf",
+      "title": "수두 환자는 심각한 합병증이 많고 집중 치료를 받아야 합니다 - Laodong.vn",
+      "published": "2026-06-20T05:51:19+00:00",
+      "summary": "수두 환자는 심각한 합병증이 많고 집중 치료를 받아야 합니다&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXI2ZllvSWlNeVc2VUJkUW41MFhQWGJfWjVnN3ZhV3JDX0pzbnY4VnFDOUs5SVA2Z1lEa2JRcHlieVh0TUJMR2pfY3RyMlkzRjV1aGZvb2tEZk1HZVBrRUJaY3ZsV3NManpydF8xaHRQRXVlT3RaSGhmWmZ4WFFLZFA2N0ZEejF5UWFUeDFuZHpaRlJGb1N0cVQyTjhiZDBKTlZoVg?oc=5"
+        }
+      ]
+    },
     {
       "id": "57d445adfc28",
       "title": "말라리아 예방 무기는 여전히 모기장 - 마음건강 길",
@@ -141,7 +153,7 @@
       "id": "0b0670c9d9f7",
       "title": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목 - 디멘시아뉴스",
       "published": "2026-06-19T09:47:26+00:00",
-      "summary": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목&nbsp;&nbsp;디멘시아뉴스",
+      "summary": "낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목&nbsp;&nbsp;디멘시아뉴스\"청각 자극 줄면 뇌활동도 감소…난청 관리가 치매 예방 시작\"&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "디멘시아뉴스",
@@ -290,18 +302,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEWmx1ZFFpOE9pVWo5bVozbVE2dGtnWXpIN3hpTjhtYjVxVzVlN0dCTGtpcXFROXR6VlpVc0pMTllYTTBUbUxDYUZZZWx2VlM3dDBEbUhzeUlucWlWQ2ttbGJmSzRKVWtYaWNVelpXdHRXZXVOUlpSN05yRzJReEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebb294c5fab9",
-      "title": "“대상포진 백신이 치매 위험 낮춘다?”… 美 노인 50만 명 연구 결과 - 하이닥",
-      "published": "2026-06-18T09:30:00+00:00",
-      "summary": "“대상포진 백신이 치매 위험 낮춘다?”… 美 노인 50만 명 연구 결과&nbsp;&nbsp;하이닥“대상포진 백신 꼭 맞아라” 치매 위험 낮추는 효과 확인&nbsp;&nbsp;헬스조선국내서 널리 쓰이는 대상포진 백신, 치매 위험 24% 감소[노화설계]&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPOURXZzJLb2NtbVVuenNvYVF0bnNGbWhHelZxbWZ3N01LMHNDZnZKS19xR3RJOWI5dHdGOXRyeHdUWWhMTGVDUHdwX2xqN0ZIeG52Qkl6TjdhaWJzUWJxYUllWWNoS1VzZ0E?oc=5"
         }
       ]
     },
