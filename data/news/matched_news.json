@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-20T03:59:51.367452+00:00",
+  "last_updated": "2026-06-20T09:21:11.223181+00:00",
   "total_count": 26,
   "matched_count": 0,
   "news": [
+    {
+      "id": "57d445adfc28",
+      "title": "말라리아 예방 무기는 여전히 모기장 - 마음건강 길",
+      "published": "2026-06-20T02:00:00+00:00",
+      "summary": "말라리아 예방 무기는 여전히 모기장&nbsp;&nbsp;마음건강 길",
+      "sources": [
+        {
+          "name": "마음건강 길",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IWXJxd01ja3hMWmF2cUl6ZlFOYXVqOHNNU1ZMSEliQUFnYkYwai1DcXVsc0d3SnhQSXdmcGxlUTJKQ0tmRmZWVl9UTWRiTVQ2ZmxjbzdhTkdmaHRCdWN6LU5WMGhDQzJJMlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "33eec36c8881",
       "title": "“바이러스 싹 잡는다”… 올 여름 ‘파인애플’ 사야 할 이유",
@@ -25,19 +38,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6RUg1WGUwcVJCbkl6dEJLT3VjalhnWkRPa0NGYkVrcXpZWmpzWmJTYmp2bnM1Rm05YVUxelMyTEJBUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "45cf41dfbd81",
-      "title": "\"양파즙 매일 마셨는데…\" 혈관 챙기려다 속만 상하는 이유",
-      "published": "2026-06-19T20:02:00+00:00",
-      "summary": "\"양파즙 매일 마셨는데…\" 혈관 챙기려다 속만 상하는 이유&nbsp;&nbsp;네이트“양파즙 매일 마셨는데…” 혈관 챙기려다 속만 상하는 이유&nbsp;&nbsp;v.daum.net양파 즐겨먹는 사람, ‘당뇨병’ 위험 낮다&nbsp;&nbsp;헬스조선혈압, 혈당, 콜레스테롤 다 잡아...여름철 양파 하루 반쪽만 먹어도 좋은 이유&nbsp;&nbsp;코메디닷컴마늘·양파의 기능성 성분, 자르는 방식 따라 달라진다&nbsp;&nbsp;realfoods.co.kr",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fRW12RnBCeWs3M2taNkJUbjNiaFVqMnZZZU96MlBJRmpJMnAtekdNTldXTENWZVc1bUxBcEVHNnVzclVhLVR4cUhMXzgwclNNTVow?oc=5"
         }
       ],
       "matched_keywords": []
@@ -82,6 +82,19 @@
       "matched_keywords": []
     },
     {
+      "id": "01a7cc9537b2",
+      "title": "\"혈압이 내려가기 시작했다\"…전문가가 추천한 식습관 5가지",
+      "published": "2026-06-19T13:40:00+00:00",
+      "summary": "\"혈압이 내려가기 시작했다\"…전문가가 추천한 식습관 5가지&nbsp;&nbsp;조선일보혈관에 좋은 음식 5가지… \"동맥경화·고혈압 위험 낮춘다\"&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HRXI4cnhfQkw4R3VYOUdyTlJLeVlQMXM4d2tPTnQzM1dodXowdF9IaVVFcE9nTW9OYnRqYThfdkthWVYteE9LTFdpSVRpQ1RWU0NtNUdmT3dVSV9KMUFOanAzeDU2MC0wQWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "defabf00aabf",
       "title": "[메디컬 인사이트 141회] 부끄러움이 키우는 질병 '성매개감염병'",
       "published": "2026-06-19T13:30:00+00:00",
@@ -90,19 +103,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00WlNnbmlWQUdJRTVYVTZmRDlERmhSSUQybFlId2E5UWljMTdNTDZiYmJ3V0hiaGUtc3ZsZ2hsQ1ctalhpNUZMUFRibFI3SDlVdVFF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ce2703e75e77",
-      "title": "임신 초기 조심해야겠네…유산 위험 높이는 '이 자세'",
-      "published": "2026-06-19T13:22:10+00:00",
-      "summary": "임신 초기 조심해야겠네…유산 위험 높이는 '이 자세'&nbsp;&nbsp;한국경제[건강포커스] \"임신 초기 자주 몸 숙이는 자세, 유산 위험 높일 수 있어\"&nbsp;&nbsp;v.daum.net임신 초기에 허리 자주 숙이면 유산 위험 36% 높아져&nbsp;&nbsp;헬스조선일하는 임신부…‘이 자세’ 오래 할수록 유산 위험 높아진다&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aVpkSF9PYmRiVXpoOTZBYzhHaGdvWV9TaHpfWGx3amVOeHN0cHA4RHR2UjRCWkFQUS1ObHBERzRTX3hsLW1qb0o1a2FfcmxGU0xXNkxpS0VLUdIBVEFVX3lxTE5GUUVmVmhMbl9OLUVoMEp1bTM1V2haemt2M1pWbDRZbGZSb3ExeFZCSkJZTnkzSWIyaHdvWll3YkdyajdVWUMybTZ4NjNoM2paUE8zSw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -293,7 +293,7 @@
       "id": "e479f5504f87",
       "title": "\"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"",
       "published": "2026-06-18T22:04:27+00:00",
-      "summary": "\"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;사이언스타임즈[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net잠과 운동이 '나쁜 피'를 길들여 심장을 지킨다&nbsp;&nbsp;네이버 프리미엄콘텐츠근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선\"근력운동 좋은 줄은 알았지만\"…여성들 '화들짝' 놀랄 결과 [건강!톡]&nbsp;&nbsp;한국경제",
+      "summary": "\"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;사이언스타임즈[건강포커스] \"근력운동 여성, 심혈관질환·심근경색 위험 20%·44% 낮아\"&nbsp;&nbsp;v.daum.net잠과 운동이 '나쁜 피'를 길들여 심장을 지킨다&nbsp;&nbsp;네이버 프리미엄콘텐츠\"근력운동 좋은 줄은 알았지만\"…여성들 '화들짝' 놀랄 결과 [건강!톡]&nbsp;&nbsp;한국경제근력운동 하는 여성, 심혈관질환 위험 낮아…유산소 병행 시 효과 커&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "사이언스타임즈",
@@ -319,7 +319,7 @@
       "id": "ebb294c5fab9",
       "title": "“대상포진 백신이 치매 위험 낮춘다?”… 美 노인 50만 명 연구 결과",
       "published": "2026-06-18T09:30:00+00:00",
-      "summary": "“대상포진 백신이 치매 위험 낮춘다?”… 美 노인 50만 명 연구 결과&nbsp;&nbsp;하이닥“대상포진 백신 꼭 맞아라” 치매 위험 낮추는 효과 확인&nbsp;&nbsp;헬스조선국내서 널리 쓰이는 대상포진 백신, 치매 위험 24% 감소[노화설계]&nbsp;&nbsp;v.daum.netGSK 싱그릭스, 요양시설 입소 고령자 치매 위험 감소&nbsp;&nbsp;의약뉴스",
+      "summary": "“대상포진 백신이 치매 위험 낮춘다?”… 美 노인 50만 명 연구 결과&nbsp;&nbsp;하이닥“대상포진 백신 꼭 맞아라” 치매 위험 낮추는 효과 확인&nbsp;&nbsp;헬스조선국내서 널리 쓰이는 대상포진 백신, 치매 위험 24% 감소[노화설계]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "하이닥",
@@ -329,14 +329,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0557823ad427",
-      "title": "웨스트나일 모기 비상 OC서 감염 모기 발견",
-      "published": "2026-06-18T03:00:00+00:00",
-      "summary": "웨스트나일 모기 비상 OC서 감염 모기 발견&nbsp;&nbsp;미주한국일보",
+      "id": "9e87b4b4b8f8",
+      "title": "킬라우에아 화산 분화…우주서 210m 치솟은 용암 포착 [우주서 본 지구]",
+      "published": "2026-06-18T00:56:51+00:00",
+      "summary": "킬라우에아 화산 분화…우주서 210m 치솟은 용암 포착 [우주서 본 지구]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SRTNvR0FvQWNzWnhYUlA5VXB5SzF1c2NiWjhjYjRZWHVxM0tUd1lfMkNRWVcxcEZGRGR6Z2dFU0NVS3VUWGVxV3QyNERGbmplQXdj?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TVDZTTmVibjZFYTYwdXZNeXVzZEpONS11RnNSQnIxQUVERXZBWlQ1OTQ5WWRJbkZyTlNVQlItcldLazdfbjhfNFdYejU5c2s?oc=5"
         }
       ],
       "matched_keywords": []
