@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T14:17:53.640240+00:00",
-  "total_count": 16,
+  "last_updated": "2026-06-21T19:47:19.906674+00:00",
+  "total_count": 15,
   "matched_count": 0,
   "news": [
     {
@@ -25,6 +25,19 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16YWs5TFFkYW5ZYVRZbVRpVFpJcS1RSnhvbnhBdHdZUTZ6YlpFTkdYU01TYnU0X0dQUV8xU0I4QWlnNjgycEZkVVZwSWY5R3UzODF3eWFkaE5GU2pGcDZKUFNaenlZYWFSTU41Mlljc9IBZkFVX3lxTE0yZW45RmQtRURNVV9GWjV3dkRqelZSLTY3aTZEY2luamk4Uzg5MW1ZRGI3bTFPREdnT0N0TVkzU09fdTRwbXFtN1lrNk94cF9ZRC1yY2dYYXJTZThIMUw0TzI0RWRNZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2c7e71c23ba3",
+      "title": "[100세건강] 깜빡? 단순 노화 아냐, 방치하면 치매 위험 10배",
+      "published": "2026-06-21T03:26:00+00:00",
+      "summary": "[100세건강] 깜빡? 단순 노화 아냐, 방치하면 치매 위험 10배&nbsp;&nbsp;경제투데이Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "경제투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZjNFMkFSLVAzcXpvWUhVeDZKY0R4SmRGZkJ2ZW56WFZkcFJXNDkxSFMxVHRSV0lFSUt3Ni1jeFItOVA3VEF2bEdTYi1RNXZ3Mm5Ockt6QktUeVUwVFZWT0FldDRfOTDSAWtBVV95cUxPQnlqQkxIeHdZYVJuRko1dlFGZTFwaFBGaXJMX3EwQlZ4WmEydkFkUEYtQjIyT1RTRHdaSklPakNSbmRaNEZqRHZ1aVBnZ2dvS19RTVNPbjNKUHgwbzhsemoya0gwTGJBenZuTQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -77,19 +90,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzRXZzYS1Jd3R3T1BSdk5lQkRpenVjVVJRckR6VHR6YVlMMHRYQ0dJcGFUdVl3dHNiNmRTS2JTQ3p2dWk5d2tOYlQ5SzRqenlTd0R4Ym5R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4e9913baca43",
-      "title": "'색은 선명하게 에너지는 적게'…구조색 원리 이용한 페인트",
-      "published": "2026-06-20T17:34:00+00:00",
-      "summary": "'색은 선명하게 에너지는 적게'…구조색 원리 이용한 페인트&nbsp;&nbsp;네이트'색은 선명하게 에너지는 적게'...구조색 원리 이용한 페인트&nbsp;&nbsp;YTN“색은 더 선명하게, 열은 더 멀리”…고려대학교 이승우 교수팀, ‘빛으로 칠하는 미래의 페인트’ 개발&nbsp;&nbsp;한국강사신문",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mNGtRTTZiWGtRdHBRNS1VbnpNcnJmaE1ySWxEZFN0SXRJZDZOMENvWWdsVFRyUWxucUliMWRtRE9XVTlyWUVsWlNiVjEzWnBReTNVX3VkY25YWThYOTRLTA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -181,19 +181,6 @@
         {
           "name": "데일리팜",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lZklMUHF6Mnd6cVZ0U3lNbEd5QlVzckdMNGVpSzl3QnBPbUJmVkhLNjB1Q3dPUmpXdi1vS3dia3hTeVdRampDZ1NQeFBXWngw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c33da402995d",
-      "title": "한국, G7과 손잡고 암 퇴치 공동선언…AI·폐암 사망률 감소 목표 제시",
-      "published": "2026-06-19T18:29:00+00:00",
-      "summary": "한국, G7과 손잡고 암 퇴치 공동선언…AI·폐암 사망률 감소 목표 제시&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wZ3UwcExtRHZiWkllaHRLTjdhb0FtbFZnWnNycjBCcUoyRTUwTmtYcFk5ak9zWmU5cEg2Smp1alYyN3AzWXk3YjFfTm0?oc=5"
         }
       ],
       "matched_keywords": []
