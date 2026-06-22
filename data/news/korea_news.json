@@ -1,10 +1,154 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-21T19:47:19.839209+00:00",
-  "total_fetched": 42,
-  "unique_count": 42,
-  "health_related_count": 15,
+  "fetched_at": "2026-06-22T04:46:59.554334+00:00",
+  "total_fetched": 45,
+  "unique_count": 45,
+  "health_related_count": 22,
   "news": [
+    {
+      "id": "a5bfefcab8b3",
+      "title": "국립보건원, 알츠하이머병 진행 위험, 6단계로 예측하는 기준 마련 - 의사신문",
+      "published": "2026-06-22T04:34:00+00:00",
+      "summary": "국립보건원, 알츠하이머병 진행 위험, 6단계로 예측하는 기준 마련&nbsp;&nbsp;의사신문국립보건연구원, 알츠하이머병 진행위험 6단계 예측기준 마련&nbsp;&nbsp;v.daum.net혈액 DNA·RNA 함께 보니... 알츠하이머병 환자 구분 향상&nbsp;&nbsp;BRIC질병관리청, 알츠하이머병 진행 기준 구축&nbsp;&nbsp;전자신문치매 진행 위험 6단계로 나눈다…알츠하이머 예후 예측 기준 마련&nbsp;&nbsp;데일리안",
+      "sources": [
+        {
+          "name": "의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtVTFxZEpYSzJCQ1g4eEVmZy12b2YzQzZncUZCVUFicEFCcjBNV2txVmktbjFXckRJRFhRZ3FmS3d5bHdVdEs3azRyUmV0bTNBN1pRSHBKRjRQWTJCM0VjYWNXeFFqRTlHU052Q2MwTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "194e9a0a7e24",
+      "title": "간세포암, 외과적 절제술이 생존 혜택 우수 - 메디칼업저버",
+      "published": "2026-06-22T04:04:04+00:00",
+      "summary": "간세포암, 외과적 절제술이 생존 혜택 우수&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nZlVzUjBSY1pzZWc5ak14MHlaSmNlbjE5bzg1TDRzOVV4akFmMFBiRkw2bkgzaWd6NmtUcF91a20tZWZnREY2bjFQZWVZZ0xjVEozUHQ0aFc1OFFKN3U1d0N5RzVOQ0E2QXpZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "592ca2f337e0",
+      "title": "빨리 안 죽으려면 딱 ‘주 2시간’ 근력운동…더 할 필요도 없다 - 한겨레",
+      "published": "2026-06-22T03:55:00+00:00",
+      "summary": "빨리 안 죽으려면 딱 ‘주 2시간’ 근력운동…더 할 필요도 없다&nbsp;&nbsp;한겨레“여성이라면 주 2시간만 투자해라”…사망 위험 확 낮아진다는데 [헬시타임]&nbsp;&nbsp;서울경제\"근력운동 좋은 줄은 알았지만\"…여성들 '화들짝' 놀랄 결과 [건강!톡]&nbsp;&nbsp;한국경제근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선잠과 운동이 '나쁜 피'를 길들여 심장을 지킨다&nbsp;&nbsp;네이버 프리미엄콘텐츠",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rWWVsX1JvVkxaak5OWUl1TWFNMnNaOUMtSS1rWFg0d01mOU5lejIwOHBtVFJEWUQyX0oxeDR2MXBOZi00Z3FJYkNWWFFpVFROY2F0dlNiSDZkN1h5eTJNY3AwbV95VS0weXhZWlRHQ1hUZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f24c939ae2d1",
+      "title": "오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과 - 하이닥",
+      "published": "2026-06-22T03:30:00+00:00",
+      "summary": "오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과&nbsp;&nbsp;하이닥오메가3, 뇌까지 도달했지만…치매 예방 효과 없었다 [노화설계]&nbsp;&nbsp;동아일보치매 예방해준다는 '오메가-3', 알츠하이머병 고위험군서 효과 없어&nbsp;&nbsp;네이트[김민석의 건강과 음악] 오메가3를 먹어도 효과가 다른 이유&nbsp;&nbsp;경북신문“한 알 꿀꺽”… 짜장면 먹은 죄책감 덜어내는 방법&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xSUxNOEpjeEp1UXF6dWY3Q0tIOElmSG0xZUUzbzdJVU02cWNieThndElLM2lYYXpiVmVyU0V0bjExNlprTXBTV2ZYNWlQYWV6ek92SnVqRUZONk55UTNSelNrck1GU296bWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2cf63fa48ccf",
+      "title": "왜 한국인은 오래 살지만 오래 아픈가? - toptvkorea.com",
+      "published": "2026-06-22T02:40:13+00:00",
+      "summary": "왜 한국인은 오래 살지만 오래 아픈가?&nbsp;&nbsp;toptvkorea.com'웰에이징·저속노화' 열풍고령친화식품 성장 견인&nbsp;&nbsp;보건신문“떨어지는 노년기 면역력, ‘비타민 B군’으로 기초 체력 다져야”&nbsp;&nbsp;하이닥“건강하게 오래살자”…웰에이징, 세포시계 되돌리기부터[김수연의 헬스업]&nbsp;&nbsp;v.daum.net[목멱칼럼]노화는 못 막아도 노쇠는 되돌릴 수 있다&nbsp;&nbsp;이데일리",
+      "sources": [
+        {
+          "name": "toptvkorea.com",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3azMzZ0tCTUxlSm53aUVZcmw4ODJvWnlnQU1oLWk4MzVTamcxZ3ZfUHVHVDRaR3k3NWEyZGRoSmJILTU1Nm9pQmxRZE55a1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ea591505d3f",
+      "title": "[도관스님 기공(氣功)⑧]암(癌)치유 氣 운행법...생명의 불꽃을 되살리다 - 공정뉴스",
+      "published": "2026-06-22T01:28:46+00:00",
+      "summary": "[도관스님 기공(氣功)⑧]암(癌)치유 氣 운행법...생명의 불꽃을 되살리다&nbsp;&nbsp;공정뉴스",
+      "sources": [
+        {
+          "name": "공정뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FN1lxWTVtS1ltVElNLWVIWVF1Z3QzWEdXVk5VT3ZxX3p0MlNJa1BEdDYtNlg1Tl9sLU5zOWIwaFlDVEE5c1MySnFyNGRobWJfRXNOYTAtVXg2MlNzaW1qUUE1czNrU2JQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3293edea6231",
+      "title": "지방 태우는 세포가 저장 세포로…패스트푸드의 위험성 - realfoods.co.kr",
+      "published": "2026-06-22T00:45:22+00:00",
+      "summary": "지방 태우는 세포가 저장 세포로…패스트푸드의 위험성&nbsp;&nbsp;realfoods.co.kr",
+      "sources": [
+        {
+          "name": "realfoods.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80Qnh4YmNuT3ROOXZFbTR3eW5YUzhTWEhYeVRpYU5pb1FVZFF6MXl5NTd6RWQxUDRWUGFoRXc2aWZwM0FJdVFzVE1HYllEenR2N1VpMUN6MA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4ee29749c3c",
+      "title": "\"운동은 귀찮고, 노화는 두렵고\"… 지방줄기세포 시대 항노화 전략 - 보건신문",
+      "published": "2026-06-22T00:28:52+00:00",
+      "summary": "\"운동은 귀찮고, 노화는 두렵고\"… 지방줄기세포 시대 항노화 전략&nbsp;&nbsp;보건신문",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vZUZYclkxZUxSOFYzN2Z1UEtjSEhmcjFsMWVxRzdxLUh3VWxkX3hGSDJTS3ptQk9NRjBUNlZ5RjBRT29Rd3VqaHg3MC0wcjVpbnVzRkhWaU90Q1lDQ0ZURW1iRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a2663179522",
+      "title": "“화 자주 내면 심장이 운다”...분노 폭발 뒤 심장마비 위험 2배 증가 - 코메디닷컴",
+      "published": "2026-06-22T00:07:00+00:00",
+      "summary": "“화 자주 내면 심장이 운다”...분노 폭발 뒤 심장마비 위험 2배 증가&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qTGE5VXlhQ3RvVzVCazlUTWZ5bW9KdjVTWll5alJSSnNTRmNWOFQxbFBWRkw5OERfRFpUMThwcU82UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "63a88be03edb",
+      "title": "대상포진 백신, 치매 위험 낮춰 - 헬스케어N",
+      "published": "2026-06-21T23:44:15+00:00",
+      "summary": "대상포진 백신, 치매 위험 낮춰&nbsp;&nbsp;헬스케어NGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "헬스케어N",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85c0FObWdYTWNlUnE3WVNDT3NFMWZNSTVKSDVFTUR1QXpuOWFLMnZIV3N1eXllcEctN1FnZkJVR2Q3TlM0Y1FLWXJiQ0R2Wm4tYklHeVUxYzNJaHM3eTFoLXJ1QWk0X1BXbGEyRUxWbGtFY0pM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8a7d48036632",
+      "title": "[Pipeline Review][종근당]①퇴행성 신경질환 타깃 CKD-513, BBB 투과율 높여 차별화 - PRESS9",
+      "published": "2026-06-21T23:33:35+00:00",
+      "summary": "[Pipeline Review][종근당]①퇴행성 신경질환 타깃 CKD-513, BBB 투과율 높여 차별화&nbsp;&nbsp;PRESS9",
+      "sources": [
+        {
+          "name": "PRESS9",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WV3RYYUZZYWZfejNJaWFuU1hFcWlSZndZV3JjUEJUR2Q5QUZDZ0wxSy1uRWNVZ1EydG1WZjMzVzFsbWRhV3lBQ3dUalVORFRzY1VMTTVuLURGcllXejZsWFcyZ00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24fee9e27e62",
+      "title": "SK바이오사이언스, 수두백신 ‘2회 접종’ 글로벌 3상 돌입 - 헬스코리아뉴스",
+      "published": "2026-06-21T23:31:04+00:00",
+      "summary": "SK바이오사이언스, 수두백신 ‘2회 접종’ 글로벌 3상 돌입&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSVU1ERUVXa0NCWWdUY2RuS1NBcVpFNDBQZWFlYWstMzRYbE9Vc2JTYXo3N3E3NmNqcnJEVS0yTkRXOVhIQ0RwdjV2dHZRUTlOUFVoOHpCOUt2M2VmbVAzTExMWlYwTkU?oc=5"
+        }
+      ]
+    },
     {
       "id": "e6b5d562bf9c",
       "title": "섬유질 많은 식사, 암치료 효과 높일 수 있어 - 한국AI부동산신문",
@@ -18,26 +162,26 @@
       ]
     },
     {
-      "id": "5abc4687b22a",
-      "title": "오메가3, 뇌까지 도달했지만…치매 예방 효과 없었다 [노화설계] - 동아일보",
-      "published": "2026-06-21T05:00:00+00:00",
-      "summary": "오메가3, 뇌까지 도달했지만…치매 예방 효과 없었다 [노화설계]&nbsp;&nbsp;동아일보[김민석의 건강과 음악] 오메가3를 먹어도 효과가 다른 이유&nbsp;&nbsp;경북신문\"오메가3, 뇌에 좋다고 먹었는데\"… 치매 예방은 '글쎄'&nbsp;&nbsp;약사공론“한 알 꿀꺽”… 짜장면 먹은 죄책감 덜어내는 방법&nbsp;&nbsp;헬스조선오메가-3 생선 기름과 당뇨병: 연구 결과 놀라운 사실이 밝혀졌습니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "cd9d349f9c43",
+      "title": "치매 걸린 93세 '박정희의 책사'…\"매일 폰으로 이것 하니 뇌 쌩쌩\" - 네이트",
+      "published": "2026-06-21T08:05:00+00:00",
+      "summary": "치매 걸린 93세 '박정희의 책사'…\"매일 폰으로 이것 하니 뇌 쌩쌩\"&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16YWs5TFFkYW5ZYVRZbVRpVFpJcS1RSnhvbnhBdHdZUTZ6YlpFTkdYU01TYnU0X0dQUV8xU0I4QWlnNjgycEZkVVZwSWY5R3UzODF3eWFkaE5GU2pGcDZKUFNaenlZYWFSTU41Mlljc9IBZkFVX3lxTE0yZW45RmQtRURNVV9GWjV3dkRqelZSLTY3aTZEY2luamk4Uzg5MW1ZRGI3bTFPREdnT0N0TVkzU09fdTRwbXFtN1lrNk94cF9ZRC1yY2dYYXJTZThIMUw0TzI0RWRNZw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OMVEtN0R6UWEzQ0pOV3d4MVIwWGRoME1uWmVoZHplenhTbFh6TDVBSlZoUXZXVUFnZWxmQkgwZlBpUGtTRUhuSTM0amN0bmlPN3hj?oc=5"
         }
       ]
     },
     {
-      "id": "2c7e71c23ba3",
-      "title": "[100세건강] 깜빡? 단순 노화 아냐, 방치하면 치매 위험 10배 - 경제투데이",
-      "published": "2026-06-21T03:26:00+00:00",
-      "summary": "[100세건강] 깜빡? 단순 노화 아냐, 방치하면 치매 위험 10배&nbsp;&nbsp;경제투데이Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "5f50616a2c38",
+      "title": "힌트 줘도 기억 못 하면 단순 건망증 아닌 뇌 파국? 치매 구별법 - benews.co.kr",
+      "published": "2026-06-21T06:39:38+00:00",
+      "summary": "힌트 줘도 기억 못 하면 단순 건망증 아닌 뇌 파국? 치매 구별법&nbsp;&nbsp;benews.co.kr[100세건강] 깜빡? 단순 노화 아냐, 방치하면 치매 위험 10배&nbsp;&nbsp;뉴스1[하루건강] 치매로 잃어버린 기억력, 수술로 회복할 수 있을까?&nbsp;&nbsp;네이트[지금, 명의] “경도인지장애, 매년 10~15% 치매 진행…초기 관리 중요”&nbsp;&nbsp;서울경제“80대 뇌도 20대처럼 젊게”…치매 전문가들이 은퇴 후 실천하는 습관은&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "경제투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVZjNFMkFSLVAzcXpvWUhVeDZKY0R4SmRGZkJ2ZW56WFZkcFJXNDkxSFMxVHRSV0lFSUt3Ni1jeFItOVA3VEF2bEdTYi1RNXZ3Mm5Ockt6QktUeVUwVFZWT0FldDRfOTDSAWtBVV95cUxPQnlqQkxIeHdZYVJuRko1dlFGZTFwaFBGaXJMX3EwQlZ4WmEydkFkUEYtQjIyT1RTRHdaSklPakNSbmRaNEZqRHZ1aVBnZ2dvS19RTVNPbjNKUHgwbzhsemoya0gwTGJBenZuTQ?oc=5"
+          "name": "benews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Hd2dKdnVPTVhyclJHM0I4d3JrMTdabnUwb2M3OXRiLXBoSGQzNkdaR211bzVQcnRzWng0cmtxWnlZSHBDeTFjZkV5LS0?oc=5"
         }
       ]
     },
@@ -54,18 +198,6 @@
       ]
     },
     {
-      "id": "9a375fb46061",
-      "title": "염증 퇴치하는 강력한 성분 “듬뿍”...퇴행성관절염 완화하는 데 좋은 식품들 - 코메디닷컴",
-      "published": "2026-06-21T00:05:00+00:00",
-      "summary": "염증 퇴치하는 강력한 성분 “듬뿍”...퇴행성관절염 완화하는 데 좋은 식품들&nbsp;&nbsp;코메디닷컴“피떡 만드는 주범”… 약사가 꼽은 ‘최악의 염증 유발 습관’&nbsp;&nbsp;헬스조선뇌를 위한 '숙면과 절제된 식단', 전문가가 말하는 만성 염증 예방법&nbsp;&nbsp;뉴시스[박찬우 박사 칼럼 07] 만성 염증을 끄는 항염식단&nbsp;&nbsp;캐어유 뉴스장기 건강 설계&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE16RzBqMENqTXVSRnBySGtUZEhaYUlwX1JhQk5heVU2ekFlcUZrTm1ncHdRVDcyb1lhTG1vYU1xN3ZmUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8f9e0b188c65",
       "title": "“피부 개선에 체중 관리까지?”… 매일 아침 자몽 반 개의 효과 - 하이닥",
       "published": "2026-06-20T21:30:00+00:00",
@@ -78,26 +210,26 @@
       ]
     },
     {
-      "id": "89df8f3b9063",
-      "title": "\"여성이라면 주 2시간만 투자해라\"…사망 위험 확 낮아진다는데 [헬시타임] - 네이트",
-      "published": "2026-06-20T19:31:08+00:00",
-      "summary": "\"여성이라면 주 2시간만 투자해라\"…사망 위험 확 낮아진다는데 [헬시타임]&nbsp;&nbsp;네이트\"근력운동 좋은 줄은 알았지만\"…여성들 '화들짝' 놀랄 결과 [건강!톡]&nbsp;&nbsp;한국경제“여성이라면 주 2시간만 투자해라”…사망 위험 확 낮아진다는데 [헬시타임]&nbsp;&nbsp;서울경제근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선근력운동 하는 여성, 심혈관질환 위험 낮아…유산소 병행 시 효과 커&nbsp;&nbsp;네이트",
+      "id": "4e9913baca43",
+      "title": "'색은 선명하게 에너지는 적게'…구조색 원리 이용한 페인트 - 네이트",
+      "published": "2026-06-20T17:34:00+00:00",
+      "summary": "'색은 선명하게 에너지는 적게'…구조색 원리 이용한 페인트&nbsp;&nbsp;네이트'색은 선명하게 에너지는 적게'...구조색 원리 이용한 페인트&nbsp;&nbsp;YTN“색은 더 선명하게, 열은 더 멀리”…고려대학교 이승우 교수팀, ‘빛으로 칠하는 미래의 페인트’ 개발&nbsp;&nbsp;한국강사신문",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzRXZzYS1Jd3R3T1BSdk5lQkRpenVjVVJRckR6VHR6YVlMMHRYQ0dJcGFUdVl3dHNiNmRTS2JTQ3p2dWk5d2tOYlQ5SzRqenlTd0R4Ym5R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mNGtRTTZiWGtRdHBRNS1VbnpNcnJmaE1ySWxEZFN0SXRJZDZOMENvWWdsVFRyUWxucUliMWRtRE9XVTlyWUVsWlNiVjEzWnBReTNVX3VkY25YWThYOTRLTA?oc=5"
         }
       ]
     },
     {
-      "id": "4157b606705a",
-      "title": "“염증 줄고 살 빠져”…맛있고 몸에 좋은 여름 제철 과일 5가지 - 코메디닷컴",
-      "published": "2026-06-20T08:05:00+00:00",
-      "summary": "“염증 줄고 살 빠져”…맛있고 몸에 좋은 여름 제철 과일 5가지&nbsp;&nbsp;코메디닷컴“바이러스 싹 잡는다”… 올 여름 ‘파인애플’ 사야 할 이유&nbsp;&nbsp;헬스조선먹을 때마다 혀가 번쩍…파인애플 먹고 느낀 따가움의 진짜 이유&nbsp;&nbsp;위키트리",
+      "id": "d413053d4c57",
+      "title": "구내염인 줄 알았는데…3주 넘는 입안 상처 ‘구강암’ 주의 - 세계일보",
+      "published": "2026-06-20T12:41:13+00:00",
+      "summary": "구내염인 줄 알았는데…3주 넘는 입안 상처 ‘구강암’ 주의&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sSjdzVWJDVU93QXVkVkMwQVR4c3lOeGVEYVduNU9TamptandFWWxkV0NZS3NzSFBEU3RSU21fSlpOUQ?oc=5"
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LOUVCZG9nVzFLSGJRaXlwMDhXWEJCdV9PaVBfZUJNalNRa0RjWTdqZ1JTZ3pnRGNHam92UkV1VTMxRFZLMW55cEtNUWdLUzRicHo2ak1HWTTSAVRBVV95cUxPUjNZY1JBQmJ5X2JKREY4Q1UtazhBWXZ2LTJJZWxEVFpnaVoyaDNKRHVMZHg1d1YxN0d6NjJCYzZWdGJSMjRjZ05NVXp5WnVwUTlGV0Q?oc=5"
         }
       ]
     },
@@ -110,54 +242,6 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXI2ZllvSWlNeVc2VUJkUW41MFhQWGJfWjVnN3ZhV3JDX0pzbnY4VnFDOUs5SVA2Z1lEa2JRcHlieVh0TUJMR2pfY3RyMlkzRjV1aGZvb2tEZk1HZVBrRUJaY3ZsV3NManpydF8xaHRQRXVlT3RaSGhmWmZ4WFFLZFA2N0ZEejF5UWFUeDFuZHpaRlJGb1N0cVQyTjhiZDBKTlZoVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "380a65648976",
-      "title": "말라리아 예방 무기는 여전히 모기장 - 마음건강 길",
-      "published": "2026-06-20T02:00:00+00:00",
-      "summary": "말라리아 예방 무기는 여전히 모기장&nbsp;&nbsp;마음건강 길",
-      "sources": [
-        {
-          "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IWXJxd01ja3hMWmF2cUl6ZlFOYXVqOHNNU1ZMSEliQUFnYkYwai1DcXVsc0d3SnhQSXdmcGxlUTJKQ0tmRmZWVl9UTWRiTVQ2ZmxjbzdhTkdmaHRCdWN6LU5WMGhDQzJJMlHSAW5BVV95cUxNVVNKWi1SX2NTRDFzQzBkcG1RaGpiRnFNRXNwLXZzVUxzZEQ4REJwRGp5S0Z6UVVRSXZHVkw1dk9zcEVWMHRYRTRZbEEyNFN4UEx0LVZ5d2ViSWJRbks4aDRaeGxsWmRaYXJqWjNSUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a778794a805",
-      "title": "달걀 섭취 오류, 중국 의사가 경고하는 건강 위험 - 씬짜오베트남",
-      "published": "2026-06-20T01:46:32+00:00",
-      "summary": "달걀 섭취 오류, 중국 의사가 경고하는 건강 위험&nbsp;&nbsp;씬짜오베트남",
-      "sources": [
-        {
-          "name": "씬짜오베트남",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HNWExa2VYSFVid0NKWnl0VnNUSkZzdF9ZUnF4NE54d0VkcmJIbmNpR3U1eGlRRmlIU2IwTFc1UFJGS3AwTk9rTw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e31d254e5686",
-      "title": "‘칼 안 대는 뇌수술’ 감마나이프…“고령환자에 효과적 대안” - 경향신문",
-      "published": "2026-06-20T00:00:00+00:00",
-      "summary": "‘칼 안 대는 뇌수술’ 감마나이프…“고령환자에 효과적 대안”&nbsp;&nbsp;경향신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VMHhfR1ByWnZiaXBHcnhRRWQ2bm5nWV82OVQ3RmZmcTl1d1h2VTR5cjUyM2J4ZmVGTXFDUVdrYjI2dEhBX0Jmd1pzbTFkSjVudjVVZ0dQMkdHQdIBX0FVX3lxTFBiR1dCbWlwR1BRNWRwYnlhTXVPTHlvNXJxY2JoRVlPODR5TkJOZ1dHaF9GNlE1WTRzcnQ0UTRIQTJ3ZU1HYmhkMktRa2VuLW1QZGI4c0x6SDJlb0JlejI4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7142314646db",
-      "title": "퉁퉁 부풀어 오른 손…‘이 암’ 때문에 신장 망가지는 신호였다 - 코메디닷컴",
-      "published": "2026-06-19T21:04:00+00:00",
-      "summary": "퉁퉁 부풀어 오른 손…‘이 암’ 때문에 신장 망가지는 신호였다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB6RUg1WGUwcVJCbkl6dEJLT3VjalhnWkRPa0NGYkVrcXpZWmpzWmJTYmp2bnM1Rm05YVUxelMyTEJBUQ?oc=5"
         }
       ]
     },
@@ -176,7 +260,7 @@
     {
       "id": "ea0e217a0c2f",
       "title": "HIV 감염인끼리 폐 이식 전세계 첫 성공… \"장기 부족 해결 길 열렸다\" - 조선일보",
-      "published": "2026-06-19T12:04:48+00:00",
+      "published": "2026-06-19T12:02:00+00:00",
       "summary": "HIV 감염인끼리 폐 이식 전세계 첫 성공… \"장기 부족 해결 길 열렸다\"&nbsp;&nbsp;조선일보",
       "sources": [
         {
