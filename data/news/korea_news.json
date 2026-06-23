@@ -1,10 +1,154 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-23T03:52:15.535897+00:00",
-  "total_fetched": 71,
-  "unique_count": 71,
-  "health_related_count": 37,
+  "fetched_at": "2026-06-23T09:47:06.603525+00:00",
+  "total_fetched": 87,
+  "unique_count": 87,
+  "health_related_count": 50,
   "news": [
+    {
+      "id": "70010bf3a65d",
+      "title": "침묵의 장기 간이 보내는 마지막 경고, 간암 - 웰페어뉴스",
+      "published": "2026-06-23T07:56:44+00:00",
+      "summary": "침묵의 장기 간이 보내는 마지막 경고, 간암&nbsp;&nbsp;웰페어뉴스간암 발병 사례의 60% 이상은 이러한 사항들을 알고 있으면 예방할 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "웰페어뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jNWhrbUt4OXQwbXU1X1M0amdZX0RrVDkyUEphUGhEQmFLZ2lqWUVyQU5JU1Ffa2puZVdpeW9ITXR3WUpST2xvZHc1eVIzZ0YtbWRfbVlHcWprUVJVTV9wdC1LMFJOQW1CNkNhOVNDdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb6597a11b5f",
+      "title": "바른세상병원, '100세 시대 뇌 건강' 공개 건강강좌 개최 - 후생신보",
+      "published": "2026-06-23T07:47:00+00:00",
+      "summary": "바른세상병원, '100세 시대 뇌 건강' 공개 건강강좌 개최&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5ERENfemFBUUxaYV9ObjlzM1JrdXpjemZLd1U1ZkFsMWIwV0pvRU1zdV9FTG9FR2JfN0ZxeEh3eGJ1aW8x?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08a71dddd114",
+      "title": "전조 있는 편두통, 뇌졸중 위험과 관련 있다 - 후생신보",
+      "published": "2026-06-23T07:34:00+00:00",
+      "summary": "전조 있는 편두통, 뇌졸중 위험과 관련 있다&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBTdWdLNkRlMGw4dFl1TEVlVTYxQW1UWV9DcWcxRWQ0eXpZdDAwdDFNbHFUcUNPT2gtSktGVzNDbUhLVGot?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a915bdc34e80",
+      "title": "이화여대·서울대, 폐 굳는 난치병 악화 원리 규명 - 이데일리",
+      "published": "2026-06-23T07:22:20+00:00",
+      "summary": "이화여대·서울대, 폐 굳는 난치병 악화 원리 규명&nbsp;&nbsp;이데일리이화여대·서울대, 난치성 '특발성 폐섬유증' 악화 기전 규명&nbsp;&nbsp;뉴시스이화여대-서울대 공동연구팀 '특발성 폐섬유증 진행촉진 핵심 분자 기전 규명'&nbsp;&nbsp;베리타스알파이화여자대학교 이윤실·박소연 교수팀, 서울대와 폐섬유증 악화 핵심기전 규명…노화 표적 치료 가능성 제시&nbsp;&nbsp;한국강사신문“굳어가는 폐, 노화 멈춰 고친다”… 이화여대·서울대, 난치성 폐섬유증 ‘치료 열쇠’ 찾았다&nbsp;&nbsp;스마트경제",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMU9tR19SQnh5ZHcwS3YwNzlDR2dZRUxTeVoyRVdTejVNc3JkTW9QVUQzX0JkbVJBbDhFT3QyeF9EeWlFTzNpek1taHZGRFlFY0xoU2N5SXlmeFptVkZmeHlBM0dqLUlWYlhKYWFyZ2JzX19LQXhIMF9mSkpZR2dKSg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d8ef48ee9e2",
+      "title": "다이트한의원·다이트연구소, 고위험 음주 비만 환자 '체지방 감소·간기능 개선' 증례 발표 - 보건신문",
+      "published": "2026-06-23T07:17:49+00:00",
+      "summary": "다이트한의원·다이트연구소, 고위험 음주 비만 환자 '체지방 감소·간기능 개선' 증례 발표&nbsp;&nbsp;보건신문",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OYUo4SFhXWDhfMFNYdklVRkpwNF95SnN2QllUakl5Y3JTRU94akV1aUpMQ3djOVdzbTRnWXFZd2N5OExfeldOcVM1OW1qM3Fua2FFcTRkOE5zNlVZd2ZNWE9GNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5bc56b1420e",
+      "title": "주 90~120분 근력운동, 조기 사망 위험 13% 낮춘다…유산소 병행 시 효과 극대화 - 뉴스21일간",
+      "published": "2026-06-23T07:08:41+00:00",
+      "summary": "주 90~120분 근력운동, 조기 사망 위험 13% 낮춘다…유산소 병행 시 효과 극대화&nbsp;&nbsp;뉴스21일간오래 살고 싶다면 유산소만 하지 마라…주 90분 근력운동의 힘 [노화설계]&nbsp;&nbsp;동아일보\"하루 20분만 투자하면…\" 사망위험 낮추는 '놀라운 효과'&nbsp;&nbsp;한국경제치매로 고생하고 싶지 않다면… ‘매주 한 시간 반’ 근력 운동을&nbsp;&nbsp;헬스조선근력운동이 장수 비밀… 오래 살고 싶다면 근육 키워라&nbsp;&nbsp;미주한국일보",
+      "sources": [
+        {
+          "name": "뉴스21일간",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56clNRT3haenlCTXRQamM3bEc1NnY4TWJKcm5KaUI2UXNsUmZxQkE4OVU0SHdTaElSNzNHR1VBS1J2bExVX09OcWlmSGxpZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "175cab0accbb",
+      "title": "“남성, 결혼 빠르면 좋다?”...젊은 아빠 출생아, 조기 대장암 위험 ‘뚝’? - 코메디닷컴",
+      "published": "2026-06-23T06:01:00+00:00",
+      "summary": "“남성, 결혼 빠르면 좋다?”...젊은 아빠 출생아, 조기 대장암 위험 ‘뚝’?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1SSkZ5al85ZUI1ZlVRMGNpanhtajVHM0N1b2NDREQ0a0tWQmliaGtDTDdNODA3WWlnLUJhQk1jQTdoUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "583d35e6d6e2",
+      "title": "“30대도 안심 못 한다” … 전고혈압·전당뇨·전고지혈증 3종 세트면 심뇌혈관질환 위험 23% 증가 - 헬스오",
+      "published": "2026-06-23T05:27:56+00:00",
+      "summary": "“30대도 안심 못 한다” … 전고혈압·전당뇨·전고지혈증 3종 세트면 심뇌혈관질환 위험 23% 증가&nbsp;&nbsp;헬스오‘전고혈압·전당뇨·전고지혈증’ 삼재… 30대도 심근경색 위험 2배 ↑&nbsp;&nbsp;헬스조선한림대성심병원·동탄성심병원 \"30대 전고혈압·전당뇨·전고지혈증 시 심근경색·뇌졸중 23%↑\"&nbsp;&nbsp;로이슈\"30대도 안심 금물\"…고혈압 등 '전단계 3종', 심혈관질환 위험 2배↑ - 머니투데이&nbsp;&nbsp;머니투데이30대 복합 전단계 대사이상, 장기 심뇌혈관질환 위험 높인다&nbsp;&nbsp;의학신문",
+      "sources": [
+        {
+          "name": "헬스오",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QbktoeGp0RkZ4VUJoQlQ3YlNuaEJnS0UtdTRSN1lWRnlBeG5oYS1vVVl6R2VYWVFoQWpaaTBSbjl6T1ktRmVyN1lfc01UdTdTUm1PZFRkTVdQQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65d526b298ae",
+      "title": "알츠하이머병 진행위험 구분 위한 한국형 예후체계 개발 > 뉴스 - 한의신문",
+      "published": "2026-06-23T05:22:00+00:00",
+      "summary": "알츠하이머병 진행위험 구분 위한 한국형 예후체계 개발 > 뉴스&nbsp;&nbsp;한의신문알츠하이머병 진행 위험, 6단계로 예측한다&nbsp;&nbsp;YTN 사이언스치매 진행 위험 6단계로 예측한다···국내 연구진 새 기준 제시&nbsp;&nbsp;경향신문혈액검사로 알츠하이머병 조기 발견 길 열리나&nbsp;&nbsp;v.daum.net질병관리청, 알츠하이머병 진행 기준 구축&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "한의신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zRUF1bHZmV2YyV0dJZWRpV0Q1YTQ1bjdJUkJiN3VlbmZCSjQwQTVrbFh1MmV0OGNlbjdqX0lrQlZXWXhDS05obFZrclhVcGc3OHJRZmJmTWF5b0NfVDJ2MUdGc2VPbjUxckpVLXY1dV9adw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d10484e5e3aa",
+      "title": "중앙대광명병원 연구팀, 스텐트 시술 후 평생 복용약제, ‘아스피린’보다 ‘클로피도그렐’이 더 효과적 - 메디포뉴스",
+      "published": "2026-06-23T05:04:27+00:00",
+      "summary": "중앙대광명병원 연구팀, 스텐트 시술 후 평생 복용약제, ‘아스피린’보다 ‘클로피도그렐’이 더 효과적&nbsp;&nbsp;메디포뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ocC0yc0xNZFJaTHBBY2g2dk1SZ1BLZ2lNeXJ5V1U5Yll6M0lWeTVVQndSS1YtamdlSURDU2s3NkdFSmZNSE9adjAwYWdVbF9mMFNBTllJY2NIdE5kaEYtSkZINA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1644162db72",
+      "title": "과학기술 분야 연구원, 이제 국립대 교수처럼 강연료 시간당 100만원 - 조선일보",
+      "published": "2026-06-23T05:02:55+00:00",
+      "summary": "과학기술 분야 연구원, 이제 국립대 교수처럼 강연료 시간당 100만원&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMEZlbkFwX056ZGhxREJIUVRiaVRkdXdGWTNzajVJUVJTLU8wUlBKbDFTaElkeVJGZV8xODl1N1hOd0lLQ3lEYmd3WnlheXlzSWpyRXQzOUNrYW9FU3d3RnZuRkl6dWk1b05HTzViWTBZcEpmQW9qak1STFJ6N3FhQThLZVF6OUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "12c68db6c1ce",
+      "title": "종근당, 퇴행성 신경질환 치료제 비임상 결과 발표 - 약업신문",
+      "published": "2026-06-23T04:18:00+00:00",
+      "summary": "종근당, 퇴행성 신경질환 치료제 비임상 결과 발표&nbsp;&nbsp;약업신문종근당, 국제학회에서 퇴행성 신경질환 치료제 ‘CKD-513’ 비임상 결과 발표&nbsp;&nbsp;메디포뉴스[Pipeline Review][종근당]①퇴행성 신경질환 타깃 CKD-513, BBB 투과율 높여 차별화&nbsp;&nbsp;PRESS9종근당, CKD-513 비임상 성과 공개…퇴행성 신경질환 혁신신약 개발 본격화&nbsp;&nbsp;일요주간종근당, 국제 말초신경학회서 퇴행성 신경질환 치료제 발표&nbsp;&nbsp;메디소비자뉴스",
+      "sources": [
+        {
+          "name": "약업신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DaVEtUW9ZeFAwTG8yZEthRkRwbjRwem52M3QyQm9vdGpmVG0wSWRteWdEdjlLeE9mSmdyQ3Jsbm95ZjlFU2l1SHoxUGJwWEIwVVREXzUwN1ctc2JfckN2UXNSVGpnNlRhcjZRbWZwQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "c538ba177ee9",
       "title": "체온 1도가 건강을 바꾼다… 저체온 현상이 늘어나는 사회적 배경 - 한국AI부동산신문",
@@ -18,14 +162,14 @@
       ]
     },
     {
-      "id": "bfba6b880efb",
-      "title": "스텐트 시술 후 복용해야 하는 약, ‘아스피린’보다 ‘클로피도그렐’이 효과적 - 헬스경향",
-      "published": "2026-06-23T02:38:00+00:00",
-      "summary": "스텐트 시술 후 복용해야 하는 약, ‘아스피린’보다 ‘클로피도그렐’이 효과적&nbsp;&nbsp;헬스경향스텐트시술 후 '이 약' 복용하니…심혈관 위험 '뚝'&nbsp;&nbsp;뉴시스스텐트 시술 후 장기 복용약제, 아스피린보다 클로피도그렐이 더 효과&nbsp;&nbsp;에너지경제신문스텐트 시술 후 유지요법으로 클로피도그렐이 아스피린보다 우월&nbsp;&nbsp;메디칼업저버“스텐트 시술 후 평생 복용약제, ‘아스피린’보다 ‘클로피도그렐’이 더 효과적”&nbsp;&nbsp;쿠키메디",
+      "id": "580fa917d379",
+      "title": "칩 하나로 심전도·근전도 동시측정...초소형 반도체 세계최초 개발 - 뉴스;트리",
+      "published": "2026-06-23T02:06:06+00:00",
+      "summary": "칩 하나로 심전도·근전도 동시측정...초소형 반도체 세계최초 개발&nbsp;&nbsp;뉴스;트리",
       "sources": [
         {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wYlQtdWUzNWRpYXF2bnFYN1hDNlcxQXhWbE1maGVQZDdVUEgxLVhERWZuRFljd2dIbVdqZzdSTFZiUHk2Q3NwNXBjRmRQLTlyVEhHRld1c3VkRTh6QW1YdUJOeWtRd0dKeUE?oc=5"
+          "name": "뉴스;트리",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3MDFXSDVIZHp2ZG9xaUg2UmdFaUwybDh2QWNJcVVsdnlmOUM3N3FFclRRdEV2ajd1bDF5YUVCVTA5VFRiSVVYU3ZHamJIWHB0QmpBLTVXb2ZLdERK?oc=5"
         }
       ]
     },
@@ -38,6 +182,18 @@
         {
           "name": "유스연합",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oUTBiUllPMHViMUE4eG1JS3daSmwtOWlKX0pZWExJWkJHbjBzMDZnN1d2TUlBWG5lc1BPbzcycmNsTGZYVktmamNPUU1TUmtXR1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1882093ed0d",
+      "title": "한국혈액암협회, 간암 및 간질환 환우 위한 ‘닥터스 토크쇼’ 성료 - 메디포뉴스",
+      "published": "2026-06-23T01:08:21+00:00",
+      "summary": "한국혈액암협회, 간암 및 간질환 환우 위한 ‘닥터스 토크쇼’ 성료&nbsp;&nbsp;메디포뉴스",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QeGVsc3B2VzNtUHlubHFCQnhpeFRZeHY3MmZ0RXhBYVRLbGk0Rmg4TF9fWmpsdEU4dmZKR1l0NVEtN1RIN0pHUDRxY05vMEJJeWRQcUFJeGdYeTk2QUF4bmRnR2Y?oc=5"
         }
       ]
     },
@@ -66,14 +222,14 @@
       ]
     },
     {
-      "id": "2ef6fa81c203",
-      "title": "30대 전고혈압·전당뇨·전고지혈증, 심뇌혈관질환 위험 23%↑ - 메디칼업저버",
-      "published": "2026-06-23T00:19:53+00:00",
-      "summary": "30대 전고혈압·전당뇨·전고지혈증, 심뇌혈관질환 위험 23%↑&nbsp;&nbsp;메디칼업저버30대도 금물…고혈압 등 전단계 3종, 심뇌혈관질환 위험 23%↑&nbsp;&nbsp;뉴스1‘전고혈압·전당뇨·전고지혈증’ 삼재… 30대도 심근경색 위험 2배 ↑&nbsp;&nbsp;헬스조선30대 복합 전단계 대사이상, 장기 심뇌혈관질환 위험 높인다&nbsp;&nbsp;의학신문30대라 안심했는데…혈압·혈당·콜레스테롤 '전단계'도 위험했다&nbsp;&nbsp;네이트",
+      "id": "ea92f769fbe0",
+      "title": "게임 중독, 의지 아니라 '자기효능감'이 치료 열쇠…예방 기대 - 네이트",
+      "published": "2026-06-23T00:17:00+00:00",
+      "summary": "게임 중독, 의지 아니라 '자기효능감'이 치료 열쇠…예방 기대&nbsp;&nbsp;네이트\"인터넷게임장애, 자기효능감과 연관…일반인과 뇌 반응 달라\"&nbsp;&nbsp;연합뉴스100명 중 7명은 게임 중독…'이것' 높이면 예방&nbsp;&nbsp;뉴시스\"'할 수 있다'는 자신감…인터넷게임장애 충동 낮춘다\"&nbsp;&nbsp;데일리안게임중독 환자 뇌파 보니…“자기효능감 낮을수록 쉽게 빠진다”&nbsp;&nbsp;미주중앙일보",
       "sources": [
         {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sbFkwejdtWFlzbGZxcmljVEVFcnBGWElCWlhhNEFVMkJsSlZyQmdqekFuVzJ6eVF0NW45OWoxTWdtZUFTVklWNlVyeml1dUJjMEtCN1hjOGtkaUNIV1BFcTdkTVF2aDBURjc0?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VOGJ4WmZQWDBSUHVDRFFObDF1ZDRaUENEV2hKSXFOV2pxZmRIaTMwQTZuaFlnMFdTVHBERThqeEhMX3QyQUR1TU16a2d6UUFHcTJSY29yNGljSF96RFROdg?oc=5"
         }
       ]
     },
@@ -126,6 +282,18 @@
       ]
     },
     {
+      "id": "8261f7178b34",
+      "title": "\"커피의 배신이었다\" 치매 증상 나타난 50대 뇌의 반전 - 네이트",
+      "published": "2026-06-22T20:01:00+00:00",
+      "summary": "\"커피의 배신이었다\" 치매 증상 나타난 50대 뇌의 반전&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10RFlRMHBYaWdaNjUyLTRsN3NzS3FzZlZLSlRIWTRKTGx3akI1aUswLWRJR1VYcjVyaENNeUlmczBnejRJcXpqbUpiOWV1OWF2eHFB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c6b598115bdf",
       "title": "\"입병인 줄 알았는데 암이라니!\"…의사들이 경고하는 전조증상 [김효경의 데일리 헬스] - 데일리안",
       "published": "2026-06-22T20:00:00+00:00",
@@ -141,7 +309,7 @@
       "id": "65be89aa2ed8",
       "title": "50대 초반인데 길 잃고 헤매… 65세前 ‘젊은 치매’ 10만명 넘어 - 동아일보",
       "published": "2026-06-22T19:30:00+00:00",
-      "summary": "50대 초반인데 길 잃고 헤매… 65세前 ‘젊은 치매’ 10만명 넘어&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "50대 초반인데 길 잃고 헤매… 65세前 ‘젊은 치매’ 10만명 넘어&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "동아일보",
@@ -150,14 +318,14 @@
       ]
     },
     {
-      "id": "83d46e633e01",
-      "title": "DNAㆍRNA 혈액검사로 알츠하이머 환자 조기 선별 기대 - 메드월드뉴스",
-      "published": "2026-06-22T15:02:37+00:00",
-      "summary": "DNAㆍRNA 혈액검사로 알츠하이머 환자 조기 선별 기대&nbsp;&nbsp;메드월드뉴스알츠하이머병 진행 위험, 6단계로 예측한다&nbsp;&nbsp;YTN 사이언스치매 진행 위험 6단계로 예측한다···국내 연구진 새 기준 제시&nbsp;&nbsp;경향신문질병관리청, 알츠하이머병 진행 기준 구축&nbsp;&nbsp;전자신문혈액검사로 알츠하이머병 조기 발견 길 열리나&nbsp;&nbsp;v.daum.net",
+      "id": "58acc56ba019",
+      "title": "50세 미만 여성 위암 생존율 왜 낮을까… “위벽 따라 퍼지는 암 많은 탓” - 국민일보",
+      "published": "2026-06-22T15:09:00+00:00",
+      "summary": "50세 미만 여성 위암 생존율 왜 낮을까… “위벽 따라 퍼지는 암 많은 탓”&nbsp;&nbsp;국민일보",
       "sources": [
         {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qN0NETnlvMWFTNVdLYlkza09sajFrdjBqSlloUFBMcWlocU1XRktvT2VBRXF5bFJEelN1VEhRemN4NER1RHd0ZUw4SC1EaTF5aGtRcjhVeXBXODM1SndvcFVnUUVlQjkyMDR1NWdR?oc=5"
+          "name": "국민일보",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPby1IbWdXc1hBLTBRTDV3UW5NV2Q0eDAyYTBRVzNsb2ZubTdlVGg1cTZPZGhvY0tPZTJOY0htdkRsbUdONlZ1M2QyMG9BTUUwNHdLSTBZcGJCc0hFcDIzX294MXZRdmPSAWxBVV95cUxOYTBiOFJ6N2tlblJzcmp6b0VqMWFjYXpJZE83ZVBfNXdRREdkSmUxWjB1eERkREdsRWR6bUc0Xzc5c00xNEZVeTRhbkNKV0hvTlBnZWlrR1ZjU3dKZFhBZmZ2amljNFdTRmpKRW4?oc=5"
         }
       ]
     },
@@ -170,6 +338,18 @@
         {
           "name": "울산일보",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tQzNBcHA1Rlg5OEp5MWxDMzVGTkVPS3daOFlFLWR0dVM0cjdwN2JvbWNiQ0dhd0pOV19SNGJsMlNtS1MtSVY1dUE2d1ZJcXBoNFc4bjNKS3JLcFVOVVJsbWRtdWo3MmQ1aldtSlNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57f32e923d0f",
+      "title": "호흡기로 감염되는 ‘한타바이러스’ 해외 확산… “감기처럼 시작해 신부전·쇼크까지” - 하이닥",
+      "published": "2026-06-22T11:30:00+00:00",
+      "summary": "호흡기로 감염되는 ‘한타바이러스’ 해외 확산… “감기처럼 시작해 신부전·쇼크까지”&nbsp;&nbsp;하이닥한타바이러스 주의보… 면역 밸런스 관리 중요성 커져&nbsp;&nbsp;미주중앙일보[비즈니스] 여름철 건강관리 ‘후코이단’으로&nbsp;&nbsp;애틀랜타 중앙일보[우미노시즈쿠] 초여름 한타바이러스 주의… 면역 균형 관리 관심 증가&nbsp;&nbsp;미주한국일보초여름 한타바이러스 주의 속, 면역 밸런스 관리 관심 증가&nbsp;&nbsp;미주한국일보",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DdTBiQVkydWNsZmczMTRQUTNZN1lBdllYY3lXN0FyTjNxSmd3Nm5XelhnaTZVRENWbnhmNlVHMDFEUVU1anRDMFRETDYtZXYtR0RZdi0tb3B5dXRyaXdoWTFjYl9TcG53Umc?oc=5"
         }
       ]
     },
@@ -212,7 +392,7 @@
     {
       "id": "9de1ec96eff8",
       "title": "조현병 유전자 641개 새로 발견…'유전자 네트워크'가 발병 관여 - v.daum.net",
-      "published": "2026-06-22T09:01:00+00:00",
+      "published": "2026-06-22T09:01:20+00:00",
       "summary": "조현병 유전자 641개 새로 발견…'유전자 네트워크'가 발병 관여&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
@@ -230,6 +410,18 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHJoQ1o1SF9RTEQxUzZVenJRRkJIeUxNTnpKVkE0QjYtV2xVRG56Zi1CVnBjRllqRG1ialAwM3dZWnpHWkllNEdzckoyZGZQY2o2RVhhRDFGZ0VHN204T1pwcE91TV9iQ2R1eU9YbFRhOEUzalJjRGJta21Tek4wSFd4MVJkRlY0aVEzbmtad1ZIUTROa1luM3E0MTMwZWZHamMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fa369dbfc5c",
+      "title": "인도양 깊은 곳에 길이 1200km 초거대 ‘고래 무덤’ 발견! - 조선일보",
+      "published": "2026-06-22T08:07:00+00:00",
+      "summary": "인도양 깊은 곳에 길이 1200km 초거대 ‘고래 무덤’ 발견!&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTWFBNWRjeHJXZ1hBanpnUzM0VDBPdUUwLVJOakN3TUJ3RGt4MWZvZklWeXBvNXRwRWtjbUp2MlpBMXlha0pWR1RsTlJlUnpfTXFIeFp5WVJranE3QThxcHdBQXlGMFVBTDNqbFQyVTZ0eWxvVGhwM1dCUzBXZ0VZcWhFY2JSaHhvOFRSSTFXTGRjcFk?oc=5"
         }
       ]
     },
@@ -273,7 +465,7 @@
       "id": "b695f56e57da",
       "title": "항우울제에 ‘이것’ 추가했더니… 우울·불안 증상 더 개선 - 헬스조선",
       "published": "2026-06-22T06:45:00+00:00",
-      "summary": "항우울제에 ‘이것’ 추가했더니… 우울·불안 증상 더 개선&nbsp;&nbsp;헬스조선우울하고 피곤한 당신, 범인은 '마음' 아닌 '이곳'에 있었다&nbsp;&nbsp;24news.kr[김공필 칼럼] 장(腸)의 목소리에 귀 기울여야 하는 이유&nbsp;&nbsp;여성경제신문유산균이 우울증 치료 돕는다…고령 환자서 우울·불안 개선 확인&nbsp;&nbsp;매일경제\"변비약 먹었더니 집중력·기억력 향상?\"…우울증 '브레인 포그' 개선 가능성&nbsp;&nbsp;sportschosun.com",
+      "summary": "항우울제에 ‘이것’ 추가했더니… 우울·불안 증상 더 개선&nbsp;&nbsp;헬스조선[김공필 칼럼] 장(腸)의 목소리에 귀 기울여야 하는 이유&nbsp;&nbsp;여성경제신문유산균이 우울증 치료 돕는다…고령 환자서 우울·불안 개선 확인&nbsp;&nbsp;매일경제\"변비약 먹었더니 집중력·기억력 향상?\"…우울증 '브레인 포그' 개선 가능성&nbsp;&nbsp;sportschosun.com항우울제와 '이것' 함께 먹었더니…기분 좋아지고 불안감 개선&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "헬스조선",
@@ -282,26 +474,14 @@
       ]
     },
     {
-      "id": "c5f31dbef4d4",
-      "title": "오래 살려면 딱 ‘주 2시간’ 근력운동…더 할 필요도 없다 - 한겨레",
-      "published": "2026-06-22T06:23:00+00:00",
-      "summary": "오래 살려면 딱 ‘주 2시간’ 근력운동…더 할 필요도 없다&nbsp;&nbsp;한겨레\"하루 20분만 투자하면…\" 사망위험 낮추는 '놀라운 효과'&nbsp;&nbsp;한국경제근육 키우려 시작한 운동… 2년 뒤 심장도 바꿔놨다&nbsp;&nbsp;헬스조선오래 살고 싶다면 유산소만 하지 마라…주 90분 근력운동의 힘 [노화설계]&nbsp;&nbsp;네이트근력운동이 장수 비밀… 오래 살고 싶다면 근육 키워라&nbsp;&nbsp;미주한국일보",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rWWVsX1JvVkxaak5OWUl1TWFNMnNaOUMtSS1rWFg0d01mOU5lejIwOHBtVFJEWUQyX0oxeDR2MXBOZi00Z3FJYkNWWFFpVFROY2F0dlNiSDZkN1h5eTJNY3AwbV95VS0weXhZWlRHQ1hUZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "443cc5db2eb1",
+      "id": "5a8d7876df29",
       "title": "클립스비엔씨, '슈퍼박테리아' MRSA 백신 미국·유럽 특허 - 메디칼타임즈",
       "published": "2026-06-22T06:21:10+00:00",
       "summary": "클립스비엔씨, '슈퍼박테리아' MRSA 백신 미국·유럽 특허&nbsp;&nbsp;메디칼타임즈",
       "sources": [
         {
           "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56LUNpUndab1U4anIwQ21mU2dqUFctTE13c2NKVmROV0RxSjdaSVZZNjIzeDFtNmptc1dYNEE2Qll3YUpOaTBXM0VxN1BRVGVqRy1RbEpQQkxvVjcyOExoYXh0RG9URkRpak4tZ2tiR0w?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtM2VnQXJXd2VIZ0M5QU9Ya0Y3dTJneDFoNm1tVWtmTFU0bzZlR2Y0X1NHcFl4N0o5ZWhoX2RYSXN3UHdQbTdKQ0tGNWtnRjVOMm1hVllPZzNqTVBfel9NY0dRWU4tU09fdmdCOEFhdXZmVkk?oc=5"
         }
       ]
     },
@@ -314,18 +494,6 @@
         {
           "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56ZDd4aHdfbWdPSElTY0VER2VmTGhOZFpNR3I3VGIxUWk2X2dvaDN6ekFGSEZwMEFWbW8tbE11V3FyLUsxQnJOWVR2LWtkV1NldUgtSEttbjMwRm9yR1ROTGpkV2JVMTZyX0g2aWtB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2deabd1f0690",
-      "title": "커큐민은 왜 먹을까? 덜 늙게하는 만큼 따져봐야 하는 이유 - ELLE",
-      "published": "2026-06-22T04:07:11+00:00",
-      "summary": "커큐민은 왜 먹을까? 덜 늙게하는 만큼 따져봐야 하는 이유&nbsp;&nbsp;ELLE카레에 '이것' 한 꼬집 넣어보세요… 순식간에 슈퍼푸드 완성입니다&nbsp;&nbsp;위키트리“카레에 후추 뿌려 먹었더니”...건강 효과 높이는 음식 조합은?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BcTVhRWg5XzNZdmhMdGpZQmpxVnRRWUM4TlhpTHJsZWFYbHhLY21qUUV1OHZhUzF1UzdhZ01ncndYYm9TWlgyVHFZb0hhdFk?oc=5"
         }
       ]
     },
@@ -345,7 +513,7 @@
       "id": "f24c939ae2d1",
       "title": "오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과 - 하이닥",
       "published": "2026-06-22T03:30:00+00:00",
-      "summary": "오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과&nbsp;&nbsp;하이닥오메가3, 뇌까지 도달했지만…치매 예방 효과 없었다 [노화설계]&nbsp;&nbsp;동아일보치매 예방해준다는 '오메가-3', 알츠하이머병 고위험군서 효과 없어&nbsp;&nbsp;네이트“오메가3, ‘만능 영양제’ 신화에 제동”&nbsp;&nbsp;위클리코리아[김민석의 건강과 음악] 오메가3를 먹어도 효과가 다른 이유&nbsp;&nbsp;경북신문",
+      "summary": "오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과&nbsp;&nbsp;하이닥오메가3, 뇌까지 도달했지만…치매 예방 효과 없었다 [노화설계]&nbsp;&nbsp;v.daum.net치매 예방해준다는 '오메가-3', 알츠하이머병 고위험군서 효과 없어&nbsp;&nbsp;네이트“오메가3, ‘만능 영양제’ 신화에 제동”&nbsp;&nbsp;위클리코리아오메가-3 생선 기름과 당뇨병: 연구 결과 놀라운 사실이 밝혀졌습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "하이닥",
@@ -398,18 +566,6 @@
         {
           "name": "헬스케어N",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85c0FObWdYTWNlUnE3WVNDT3NFMWZNSTVKSDVFTUR1QXpuOWFLMnZIV3N1eXllcEctN1FnZkJVR2Q3TlM0Y1FLWXJiQ0R2Wm4tYklHeVUxYzNJaHM3eTFoLXJ1QWk0X1BXbGEyRUxWbGtFY0pM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8a7d48036632",
-      "title": "[Pipeline Review][종근당]①퇴행성 신경질환 타깃 CKD-513, BBB 투과율 높여 차별화 - PRESS9",
-      "published": "2026-06-21T23:33:35+00:00",
-      "summary": "[Pipeline Review][종근당]①퇴행성 신경질환 타깃 CKD-513, BBB 투과율 높여 차별화&nbsp;&nbsp;PRESS9",
-      "sources": [
-        {
-          "name": "PRESS9",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WV3RYYUZZYWZfejNJaWFuU1hFcWlSZndZV3JjUEJUR2Q5QUZDZ0wxSy1uRWNVZ1EydG1WZjMzVzFsbWRhV3lBQ3dUalVORFRzY1VMTTVuLURGcllXejZsWFcyZ00?oc=5"
         }
       ]
     },
