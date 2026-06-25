@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-25T14:38:29.298301+00:00",
+  "last_updated": "2026-06-25T20:04:25.676791+00:00",
   "total_count": 38,
   "matched_count": 0,
   "news": [
+    {
+      "id": "6c9475bd4a09",
+      "title": "심부전 위험과 관련된 것으로 의심되는 건강 기능 식품",
+      "published": "2026-06-25T12:05:15+00:00",
+      "summary": "심부전 위험과 관련된 것으로 의심되는 건강 기능 식품&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2RIUE4yeXlfeE5zc0xiUXhMeU10N0hLbWw1UlA4b1FsdjJRNVAxVXhwWGRJQkthNGd2OWtJb1hleVY3dWs5QXRuYlI5WGM2N2ZOeGpRS0tkMk1fWEpoMGc2RHQ4a1UtRjNMRUVwWXlJS1pETHotQndoa0FzZi14eUxRX1ExbDBhV0dBYVZ2NkFMaXM5THhqQ2tMaGE5UHBITWxfWlFUWHM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3ddc06e9706b",
       "title": "당뇨병 환자라면 주목… 낮잠 30분 이상 자면 지방간 위험 높아진다?",
@@ -20,24 +33,11 @@
       "id": "1bd7abd4fad1",
       "title": "중년女 ‘복부 비만’ 선 넘으면...“뇌 손상 급증, 정상 체중도 안심 일러”",
       "published": "2026-06-25T09:08:42+00:00",
-      "summary": "중년女 ‘복부 비만’ 선 넘으면...“뇌 손상 급증, 정상 체중도 안심 일러”&nbsp;&nbsp;디멘시아뉴스\"이 증상 절대 그냥 넘기지 마세요\"…뇌혈관 터지기 직전 몸에서 보내는 경고&nbsp;&nbsp;뉴시스배가 나온 사람들은 뇌졸중과 심장마비 위험이 더 높습니다.&nbsp;&nbsp;Vietnam.vn젊은층의 뇌졸중과 심장마비 발병률이 증가하고 있다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "중년女 ‘복부 비만’ 선 넘으면...“뇌 손상 급증, 정상 체중도 안심 일러”&nbsp;&nbsp;디멘시아뉴스\"이 증상 절대 그냥 넘기지 마세요\"…뇌혈관 터지기 직전 몸에서 보내는 경고&nbsp;&nbsp;뉴시스젊은층의 뇌졸중과 심장마비 발병률이 증가하고 있다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yRUF2bDBYbXFDcWdGWjkyS2h5Z2tHX1N2SW9XSjk4UkgyV0xSZFI2VGFzd0ZfWUZ4dXpUdnk3Zl83WDI2MnZFNEhoUEdiWDFVU2tnWlZXc0VwZzVZTlNvVXUzRkhKckdXcTJxZXc1TFVHQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "86802a64c9c6",
-      "title": "[매경데스크] 5천만원짜리 치매약과 치매 머니",
-      "published": "2026-06-25T08:37:09+00:00",
-      "summary": "[매경데스크] 5천만원짜리 치매약과 치매 머니&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45cHpNMmFyMW9TdldtTjRiTlRVaDhrV0YyRXpuOW02cU80OEZFZ3dTX29OY3pMZnN5dFl3OEgyTWJiTUxEM3V4SFVpUkhVOXZKUGdnRTBtU3U?oc=5"
         }
       ],
       "matched_keywords": []
@@ -64,19 +64,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EaDlfQlNsY0xSN1NKNWN2VUhPUmFnYUhYLUQyMFBuWVFfcm95ZFJ6bFhZX3hzZVQ1LWRPSDFMdkxMQ2ZCeV9HQ2RvWW56SFhaZkFHdlBrVGxHd3VYYVN4dFFXMEhPbHVNSFF6VlVOT0phY1A3bl9COFZqR0lkTWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7557b46cbfa5",
-      "title": "잦은 변비, 복통 방치 금물…’젊은 대장암’ 경고 신호일 수도",
-      "published": "2026-06-25T06:33:51+00:00",
-      "summary": "잦은 변비, 복통 방치 금물…’젊은 대장암’ 경고 신호일 수도&nbsp;&nbsp;바이오타임즈2040 청년층도 예외 없는 대장암, 대장내시경 검사로 ‘암의 씨앗’ 제거해야&nbsp;&nbsp;K스피릿EBS 명의, 김진수·김형진 교수 “용종 떼어냈다고 끝 아냐”… 대장암 부르는 ‘숨은 위험’ SSL 경고&nbsp;&nbsp;한국강사신문대장암, 증상 없어도 건강검진 중요&nbsp;&nbsp;비건뉴스소리 없이 자란다…대장에 숨겨진 위험, '대장 용종' (EBS 명의)&nbsp;&nbsp;위키트리",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yaFBMOXNwZl85NWlsblV6SjdWSW9NWVYxVXlUZ3NqRnN1WnVibnREdEFQLW0yX3ZCZVNEa0RQNTVpbzRzN2w1MVBOdm5YcDUwWENlZGtFUlBZcGhvS2FNSjZEUWdBSEU0bGtWOA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,14 +108,27 @@
       "matched_keywords": []
     },
     {
-      "id": "b844033ed283",
+      "id": "e155fb392567",
       "title": "[이상민의 건치로 지키는 백세건강 2] 고령자 폐렴, 입안 세균부터 관리해야 하는 이유",
       "published": "2026-06-25T04:20:06+00:00",
       "summary": "[이상민의 건치로 지키는 백세건강 2] 고령자 폐렴, 입안 세균부터 관리해야 하는 이유&nbsp;&nbsp;헬스경향",
       "sources": [
         {
           "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GejE4QzNBYjhHZGtBT3U5ZU1SN21LVnhDb1Nqclo2cVpqa0h0UDFCdnI2dFBqVERjU1QySnprdlpBWTNTbktfS2FndlR6UGN0TnlKc2JxbVBGT0NhWFNaenJnZG9vZlVQZVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQanROLXZiQ19xUVh4UVlUVHZ5d2RwbnZqTnlZUlN5b25Id3lueDFraXFDb19MRHRiRnZ3MTBYYkV1TlVScFJXQzdkb3ZkNm82dEJLYVIxeUhQcTJtX3d1eEZBQkQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "939fb04f041c",
+      "title": "중년기 이후 젊은 뇌를 원한다면?… 40대부터 운동하라",
+      "published": "2026-06-25T03:00:00+00:00",
+      "summary": "중년기 이후 젊은 뇌를 원한다면?… 40대부터 운동하라&nbsp;&nbsp;미주한국일보30분 달리기와 맞먹는다…뇌박사도 놀란 ‘1분 운동법’&nbsp;&nbsp;v.daum.net뇌종양 환자 늘고 있다… ‘그냥 넘겨선 안 될 두통’ 알아두자&nbsp;&nbsp;헬스조선시야 흐림·팔다리 마비까지... 놓치면 안 되는 '뇌종양' 신호&nbsp;&nbsp;헬스이슈앤뉴스[건강톡톡] 아침 두통·구토… 뇌가 보내는 ‘위험 신호’&nbsp;&nbsp;간호사신문",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81cUJiYzZCZnI1c3NXZktzNnN5NjdTTGNnV1prbGRhdVAyeC1Cd1llRzh5M1lYN3JHbmNNVlNmX21FLUpXNUtTa0VTanB0WVAzS01BeUhZVVJMU0ZxVmQ0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -176,7 +176,7 @@
       "id": "96c9fbd0008f",
       "title": "\"젊은데도 몸은 더 빨리 늙는다\"…조기암 증가 원인으로 '가속 노화' 주목",
       "published": "2026-06-25T00:45:54+00:00",
-      "summary": "\"젊은데도 몸은 더 빨리 늙는다\"…조기암 증가 원인으로 '가속 노화' 주목&nbsp;&nbsp;hdnews.co.kr\"90년대생, 부모 세대보다 빨리 늙는다\"…조기암 급증 단서 찾았다[저널톡]&nbsp;&nbsp;v.daum.net밀레니얼 세대, 이전 세대에 비해 외모는 젊어졌지만… 속은 더 빨리 늙는 중&nbsp;&nbsp;헬스조선\"세포마다 노화 속도 다르다\"... 혈액 단백질 분석으로 40종 세포 나이 측정&nbsp;&nbsp;하이닥가속 노화, 젊은 층 조기암 증가의 핵심 원인으로 지목&nbsp;&nbsp;2news.co.kr",
+      "summary": "\"젊은데도 몸은 더 빨리 늙는다\"…조기암 증가 원인으로 '가속 노화' 주목&nbsp;&nbsp;hdnews.co.kr\"90년대생, 부모 세대보다 빨리 늙는다\"…조기암 급증 단서 찾았다[저널톡]&nbsp;&nbsp;v.daum.net밀레니얼 세대, 이전 세대에 비해 외모는 젊어졌지만… 속은 더 빨리 늙는 중&nbsp;&nbsp;헬스조선19990년대생 암 늘어나는 이유 있었나…연구진 \"생물학적 노화 가속\"&nbsp;&nbsp;네이트\"세포마다 노화 속도 다르다\"... 혈액 단백질 분석으로 40종 세포 나이 측정&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "hdnews.co.kr",
@@ -186,14 +186,27 @@
       "matched_keywords": []
     },
     {
-      "id": "be354f5be594",
+      "id": "401f964139ca",
       "title": "샤페론, ‘누세핀’ 적응증 인플루엔자 폐렴 확대..관련 특허 기반 확보",
       "published": "2026-06-25T00:34:00+00:00",
       "summary": "샤페론, ‘누세핀’ 적응증 인플루엔자 폐렴 확대..관련 특허 기반 확보&nbsp;&nbsp;약업신문샤페론, 누세핀 적응증 인플루엔자 폐렴 확대&nbsp;&nbsp;뉴스핌샤페론, 핵심 파이프라인 ‘누세핀’ 인플루엔자 폐렴으로 적응증 확대… 관련 특허 기반 확보&nbsp;&nbsp;한국경제샤페론, '누세핀' 적응증 인플루엔자까지 확대&nbsp;&nbsp;네이트샤페론, 누세핀 코로나 넘어 인플루엔자 폐렴 정조준&nbsp;&nbsp;데일리팜",
       "sources": [
         {
           "name": "약업신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tNmRzOWs5RF9DQlNEekVmV1k4VzE5eWhvYjNscUZvdkZwbnpYSjZLb0Y5NjhZcmljYnJFNG9MLVJMVHNldmpmcnNLLWdrSnVMeXFUcnAwTnNTWnRNWHZzakRwV2JuTEhWRkcwak41RQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfLXFJRzFLeXRXOWc0MUZLQkREYVA0OWc0QzFLS0ZuRVVPRDBwUjU5bnkweWJOVHBERXJtZ2N5c0tCTzdlbENGMm1EUUM1bEFINkNmSVo4SmFnZkxSenlEdENyTTJNQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6fdf850ab624",
+      "title": "[특별기고] 양파 한 알의 힘, 과장과 진실 사이에서 찾는 건강의 지혜",
+      "published": "2026-06-25T00:29:17+00:00",
+      "summary": "[특별기고] 양파 한 알의 힘, 과장과 진실 사이에서 찾는 건강의 지혜&nbsp;&nbsp;yangpatv.kr",
+      "sources": [
+        {
+          "name": "yangpatv.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LWnpCZzl1SXh3dk00RWcyQnkzZWNmV2JjVlpfbkJFS1BFX21mcVZGR1BYT0VuU2VKX1JUZm05aGVqcC02ZVc1enc2UUNSWlBiNWNFVDAyX0VxSVZ0Mmk3V2c4dWM1QWt6?oc=5"
         }
       ],
       "matched_keywords": []
@@ -225,19 +238,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ac85939a3d84",
-      "title": "“샌드위치 먹고 나서 바이러스 감염”…CCTV 보니 직원이 침 뱉었다",
-      "published": "2026-06-24T23:40:00+00:00",
-      "summary": "“샌드위치 먹고 나서 바이러스 감염”…CCTV 보니 직원이 침 뱉었다&nbsp;&nbsp;전자신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kZ0JRTEM1Ni1aVGZZWjdvV3ZzWk1aUGpITWhrWDlXRmhzOHZRclJidU9ZRWpNd2htdmJQYlRLV2QzVVU2clNRYV82SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a71a27412352",
       "title": "지방간처럼 '췌장'에도 지방 낀다… 놔두면 췌장암 가능성도",
       "published": "2026-06-24T16:32:00+00:00",
@@ -259,6 +259,19 @@
         {
           "name": "헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xWFpWWnhmTThYbTBjQXF3WWU0VzAwa3R1Z0RFLVJGeEFqYkVQQW95YUVBb0dNM25OS3ZJZy1tZ2QwSkg4cnk4cUNIU0xuNGxTTE4wSVJR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6d89968083f8",
+      "title": "30대 ‘혈압·혈당·콜레스테롤’ 전단계 셋 다 있으면... “심혈관질환 위험 최대 2배”",
+      "published": "2026-06-24T10:30:00+00:00",
+      "summary": "30대 ‘혈압·혈당·콜레스테롤’ 전단계 셋 다 있으면... “심혈관질환 위험 최대 2배”&nbsp;&nbsp;하이닥‘전고혈압·전당뇨·전고지혈증’ 삼재… 30대도 심근경색 위험 2배 ↑&nbsp;&nbsp;헬스조선혈압·혈당·콜레스테롤 모두 전단계땐 심혈관질환 빨간불&nbsp;&nbsp;네이트한림대성심병원·동탄성심병원 \"30대 전고혈압·전당뇨·전고지혈증 시 심근경색·뇌졸중 23%↑\"&nbsp;&nbsp;로이슈[Medical Report] 30대 혈관경고등 켜졌다 … 심뇌혈관 위험 높이는 ‘전단계 3종’ 外&nbsp;&nbsp;헬스케어N",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oRzd0VUVjR1p2aUo2NzRNcHB5Z2FvN2VGQnlYbFRRVDRxNzlfNEdNN2NCZHFkU1Z2R1YzRWRnd2JndkRJNFc3NGdpYkxlRGdhLTlpa1ZQRWZCaXZ4SG9PclNoQ2NyWE9OclE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -293,7 +306,7 @@
       "id": "2387c80cdae1",
       "title": "간헐적 단식 vs 칼로리 제한, 감량 효과 비슷.... 과식 충동 억제 효과는?",
       "published": "2026-06-24T09:30:00+00:00",
-      "summary": "간헐적 단식 vs 칼로리 제한, 감량 효과 비슷.... 과식 충동 억제 효과는?&nbsp;&nbsp;하이닥체중 감량 효과는 비슷…간헐적 단식·열량 제한의 결정적 차이 [바디플랜]&nbsp;&nbsp;동아일보\"살만 빠지는 줄 알았는데\" 간헐적 단식 뜻밖의 효과&nbsp;&nbsp;약사공론“당뇨병 진행 막는다”… 칼로리 계산 없이 7kg 감량 돕는 ‘단식’의 힘&nbsp;&nbsp;헬스조선15:9 간헐적 단식, 체중·혈당·혈압 낮췄다… 호주 연구팀 분석 결과&nbsp;&nbsp;하이닥",
+      "summary": "간헐적 단식 vs 칼로리 제한, 감량 효과 비슷.... 과식 충동 억제 효과는?&nbsp;&nbsp;하이닥체중 감량 효과는 비슷…간헐적 단식·열량 제한의 결정적 차이 [바디플랜]&nbsp;&nbsp;동아일보“당뇨병 진행 막는다”… 칼로리 계산 없이 7kg 감량 돕는 ‘단식’의 힘&nbsp;&nbsp;헬스조선15:9 간헐적 단식, 체중·혈당·혈압 낮췄다… 호주 연구팀 분석 결과&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "하이닥",
@@ -324,19 +337,6 @@
         {
           "name": "복지TV부울경방송",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NYTVtTVJJTnhDbVZFUGRWelllVy1wcENUTHE5bTZ3bVRZZUtYQ0VQbmpOYTRDazMxc1UzcVFYNFF6dUN5c2FsOVRSQXhzN19wdGJGbXNpTkdRRWZLcnJpeFI2Y2NUbTNS?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "33e5f5995166",
-      "title": "30대도 안심 못한다…전단계 3종 겹치면 심근경색 위험↑",
-      "published": "2026-06-24T04:00:00+00:00",
-      "summary": "30대도 안심 못한다…전단계 3종 겹치면 심근경색 위험↑&nbsp;&nbsp;매경헬스혈압·혈당·콜레스테롤 모두 전단계땐 심혈관질환 빨간불&nbsp;&nbsp;네이트30대도 금물…고혈압 등 전단계 3종, 심뇌혈관질환 위험 23%↑&nbsp;&nbsp;뉴스1‘전고혈압·전당뇨·전고지혈증’ 삼재… 30대도 심근경색 위험 2배 ↑&nbsp;&nbsp;헬스조선한림대성심병원·동탄성심병원 \"30대 전고혈압·전당뇨·전고지혈증 시 심근경색·뇌졸중 23%↑\"&nbsp;&nbsp;로이슈",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPckc0MzRNVkRSS2pNUUJvQVhJbTRWbnBreWROLUF2aWJQVjczSDAtVWJUbmlqZXNNT0g1eDNoUUk4SG4teTlnSEdJMnp2VjNNOGpFMGRxbHpWQkJ4WGZJeEhOYzFYTDNWNFc3dA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -446,6 +446,19 @@
       "matched_keywords": []
     },
     {
+      "id": "48a4727a7f2a",
+      "title": "혈액암협회, ‘간암 닥터스 토크쇼’ 개최",
+      "published": "2026-06-23T21:23:50+00:00",
+      "summary": "혈액암협회, ‘간암 닥터스 토크쇼’ 개최&nbsp;&nbsp;청년의사이유 없는 피로·체중 감소 반복된다면…'침묵의 장기' 간 점검 필요&nbsp;&nbsp;네이트간암을 조기에 발견하는 데 도움이 되는 징후들.&nbsp;&nbsp;Vietnam.vn침묵의 장기 간이 보내는 마지막 경고, 간암&nbsp;&nbsp;웰페어뉴스한국혈액암협회, 간암 및 간질환 환우 위한 ‘닥터스 토크쇼’ 성료&nbsp;&nbsp;메디포뉴스",
+      "sources": [
+        {
+          "name": "청년의사",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52bmNzZ0ZkOVJqanhGemwxVTJldF9YNEJfOE1iTnZCQmNhOW50QWdsdWQ0WVVwWHJMRFdvQ082VWJZT25PbDJVeXZoekVtOGN0N3d4R190YTRock1aSWRRYUo3cHIzLUNjbWNyblNBd2vSAXNBVV95cUxNUjloRTlyMnRhbURJSEZmdDM2eWFZdWtpemNhNnAzT24xQ1NUanBseUJSUmU3eGIxbFR6a25jOTNTWi1aMzZTQ0ZHV0RsU182bllfbXprS2lJZVZuN2NHbjl1V3JJSXlkMDBWX3YxRF8zTndr?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "71a9e0a4ad79",
       "title": "“근육 다친 줄”…갈비뼈 아프더니 ‘이 암’ 말기 진단, 무슨 일?",
       "published": "2026-06-23T21:01:00+00:00",
@@ -454,19 +467,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MeTV2TG5fMEJlOTNsTjZtMDVzTDMtcTBHSHRoN3o5LVl4SlpWcnRpT3hkN0lHZjFrLWNmWHUxNTdHZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8de2421ae2fb",
-      "title": "고혈압 치료제 1만1천여 병 전국 리콜…\"약효 제대로 안 나올 수 있다\"",
-      "published": "2026-06-23T16:07:24+00:00",
-      "summary": "고혈압 치료제 1만1천여 병 전국 리콜…\"약효 제대로 안 나올 수 있다\"&nbsp;&nbsp;시애틀코리안데일리",
-      "sources": [
-        {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jazN1dDlUSlFIMi10M0VjRkZXb2RndUpQSGpjMldsZGJfd2M0UVh0WG9kS0xUd08zSUNzSkpoVENYNjgyM1dicEM0SGdVcTVmZjduRzZ4SzlRdFliUnZSeEM0TXlER2ZFREhfZzdaTQ?oc=5"
         }
       ],
       "matched_keywords": []
