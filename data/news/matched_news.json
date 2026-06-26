@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-06-26T09:32:46.459286+00:00",
-  "total_count": 48,
+  "last_updated": "2026-06-26T14:31:09.776511+00:00",
+  "total_count": 52,
   "matched_count": 0,
   "news": [
+    {
+      "id": "c2d8dc672b3a",
+      "title": "세인트 데이비드 메디컬 센터 산하 텍사스 심장 부정맥 연구소, 복합 심장 부정맥 국제 콘퍼런스 개최",
+      "published": "2026-06-26T12:52:00+00:00",
+      "summary": "세인트 데이비드 메디컬 센터 산하 텍사스 심장 부정맥 연구소, 복합 심장 부정맥 국제 콘퍼런스 개최&nbsp;&nbsp;美通社",
+      "sources": [
+        {
+          "name": "美通社",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1LXFfRjQ1aGY5Ri1BQkl5c1dLYVJoYVVCRWpRMXl0ZG1hSlpVOVRwYjNuaVBFdXBldjhVS0p4TE5oNHAtXy1pY3dPSU0yV25tb2FIZ1FTX2JJdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "16e499116278",
+      "title": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?",
+      "published": "2026-06-26T12:00:00+00:00",
+      "summary": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?&nbsp;&nbsp;하이닥“간 망친다며 아메리카노 끊더니”…정작 간 해치는 습관은 그대로였다&nbsp;&nbsp;v.daum.net건강에 좋대서 영양제 다 챙겨 먹었는데…\"간 박살난다\" 의사 경고&nbsp;&nbsp;아시아경제'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'&nbsp;&nbsp;이데일리이유 없는 피로·체중 감소 반복된다면…'침묵의 장기' 간 점검 필요&nbsp;&nbsp;스포츠월드",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5taGJCYlJJMnhCUjd3d0hlVHg2SnIwVVRxMS1uaDh4QUJ4dE94SUZqOVNrU3puX2hYVVpxcXhiTkpiTUdpS1pJMTRHUFhaZEZ2QTJHU3h6Z1ZsNlRxRXlxUGRXTUVET2FPZkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "318f782be551",
+      "title": "임신 중 심혈관 건강 나쁘면… 자녀 발달지연 위험 최대 62%↑",
+      "published": "2026-06-26T10:30:00+00:00",
+      "summary": "임신 중 심혈관 건강 나쁘면… 자녀 발달지연 위험 최대 62%↑&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTEIwVlZoVEIxczZDSG9wNk0zQW5BX3Btb2xyYnFmX3ltRkx3Q09zaURxR2FaYklXVDMxbDFFcVhxVDlQVFFSeGY1MFZYdks3RWxHcHBIQnVUeUFIT1Z5M0hGMldfYUkxeFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3bb2ea3298c7",
+      "title": "난치성 장염, ‘고압산소치료’가 치료 대안 될까?... 4주만에 장 점막 회복 확인",
+      "published": "2026-06-26T10:00:00+00:00",
+      "summary": "난치성 장염, ‘고압산소치료’가 치료 대안 될까?... 4주만에 장 점막 회복 확인&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQnN2amJhVVVCNHV0RWVWcEV3U01EaDduME9WLW9UQXpKdTNXRVpXVWswdXJGbTVEUVcxNktXU1BsVUw1UWNPUWdHY0JuN3IxX3AxX0RQbkNVNjh2OHdXamxxTll3ZWxrTmc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f1e9a969ce1c",
       "title": "“일주일 90분만 해도?”…치매·심장질환 사망 위험 크게 낮춘 근력운동",
@@ -12,6 +64,19 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90WFprYzZnQXhWT29Oc2RGTWpFSk43ODZqMlJKazhIcXFCWTIzV2l3cWhSWGFCeGR5cU5nc0xXZ2VXTHlyVlM4cERDMmhicUh2TDY2ZmE1Zzh5Vm1yVE03eVhvSGtCcjMwcEl2UHAtMNIBZkFVX3lxTFBrRkZwYVR4YUNnbmtuMEVISm9GQ0pFU2EtTVlsT2l3ckk4U0Qwb1BKNnlZODJoekl2RE9lX2RYWDJ0eFYzc2JWNHdfV1ctbjlYVGRpZnBJdFRiQkdXYTdPbUxQemdIdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c6c345b63bcf",
+      "title": "우주여행 예약만 650여명…\"수년 내 궤도 호텔, 달 여행상품 등장\"",
+      "published": "2026-06-26T08:48:06+00:00",
+      "summary": "우주여행 예약만 650여명…\"수년 내 궤도 호텔, 달 여행상품 등장\"&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vYWdMSFJITUhDMjFqbHpjcEdJUngtSk5YbVJPdFRpVmk2ajFpVlN5M2luZm9xOWFJSHVOcEgwb0h0UkktWnQ2dnZoTFF4YXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -33,7 +98,7 @@
       "id": "bacaf5ad34c5",
       "title": "“고위험군도 늦지 않았다”…‘이 식단’ 치매 발병 위험 최대 30% 떨어뜨려",
       "published": "2026-06-26T07:00:00+00:00",
-      "summary": "“고위험군도 늦지 않았다”…‘이 식단’ 치매 발병 위험 최대 30% 떨어뜨려&nbsp;&nbsp;농민신문",
+      "summary": "“고위험군도 늦지 않았다”…‘이 식단’ 치매 발병 위험 최대 30% 떨어뜨려&nbsp;&nbsp;농민신문Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "농민신문",
@@ -56,14 +121,14 @@
       "matched_keywords": []
     },
     {
-      "id": "fbba50a0ab3e",
-      "title": "'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'",
-      "published": "2026-06-26T05:06:02+00:00",
-      "summary": "'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'&nbsp;&nbsp;이데일리[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까&nbsp;&nbsp;v.daum.net이유 없는 피로·체중 감소 반복된다면…'침묵의 장기' 간 점검 필요&nbsp;&nbsp;스포츠월드",
+      "id": "51003c749722",
+      "title": "\"'연구하려면 지방 가야 한다'는 말 나와야\"…최상위 계획에 지적 쏟아져 - 머니투데이",
+      "published": "2026-06-26T05:41:46+00:00",
+      "summary": "\"'연구하려면 지방 가야 한다'는 말 나와야\"…최상위 계획에 지적 쏟아져 - 머니투데이&nbsp;&nbsp;머니투데이",
       "sources": [
         {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRy1tX1NlY0I1dVhCOFZwaVZZMXFpUlluS0xjUUtWcHJ5WDZ3ZHNfMm1VSTNzQXdkRjhUYXdNNkozRnFtTlVvdmdEdlJXSzF4U1VMSW84WUtBa0dTX0lwTWo2YVIxZDJHenl2NGtXRzlJOUlIRUVKaHlTWnRhSmEzTg?oc=5"
+          "name": "머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yRFRQQ0E1OENURERDTTE1ZU9Fa1Bid3pWRlgtX0NHMUkxNWNfWFc3VWtzaDgtSlhyZnVETVBBNFFUc1pZTUNUdEg2RWpwS0RQZkx4d2hMZVVDWTBJMk9GRDRTT0xVY2_SAWxBVV95cUxPMlhBcEFFN1o2aTFyOGp1ZU9mdkN3Z29RN0MxTHhwT1FKLWlWcmJna3lUUzdjVTI2alNSVUI0RzdzLWtVM0l0S3RDeHZfVGhLVG9hWUx2WXU2Qk9SdEFFVmktSlZESTdfWFpvUHg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -72,7 +137,7 @@
       "id": "8239f47fe024",
       "title": "종근당건강 프로메가, 고순도 rTG 오메가3 신제품 듀얼S·트리플S' 선보여",
       "published": "2026-06-26T04:55:54+00:00",
-      "summary": "종근당건강 프로메가, 고순도 rTG 오메가3 신제품 듀얼S·트리플S' 선보여&nbsp;&nbsp;전자신문오메가3, 뇌까지 도달했지만…치매 예방 효과 없었다 [노화설계]&nbsp;&nbsp;동아일보오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과&nbsp;&nbsp;하이닥",
+      "summary": "종근당건강 프로메가, 고순도 rTG 오메가3 신제품 듀얼S·트리플S' 선보여&nbsp;&nbsp;전자신문오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "전자신문",
@@ -82,10 +147,23 @@
       "matched_keywords": []
     },
     {
+      "id": "8282b002ece7",
+      "title": "AI 3대 강국 도약 목표…5년간 R&D 200조 투자",
+      "published": "2026-06-26T04:12:24+00:00",
+      "summary": "AI 3대 강국 도약 목표…5년간 R&amp;D 200조 투자&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBta0RCM2RmTmlsRk1pOXlWMTZRc05zT1hyOEptRXVydVU1TEk1MHR1d2RUNWlYN1RBbVlfd3F3b01qcDJXVzhUNzJxWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "358378bfaec3",
       "title": "덜 먹는다고 살 빠는 거 아니다?… 체중 감량 숨은 변수는",
       "published": "2026-06-26T03:49:20+00:00",
-      "summary": "덜 먹는다고 살 빠는 거 아니다?… 체중 감량 숨은 변수는&nbsp;&nbsp;조세일보18화 6편: 건강은 의지가 아니라 시스템이다&nbsp;&nbsp;브런치덜 먹는다고 살 빠는 거 아니다?…체중 감량 숨은 변수는&nbsp;&nbsp;네이트다이어트 주사 열풍과 뱃속 세균 ③&nbsp;&nbsp;마음건강 길[K-VIBE] 의사 엄융의의 'K-건강법'…다이어트의 답은 장 속 정원에 있다&nbsp;&nbsp;연합뉴스",
+      "summary": "덜 먹는다고 살 빠는 거 아니다?… 체중 감량 숨은 변수는&nbsp;&nbsp;조세일보18화 6편: 건강은 의지가 아니라 시스템이다&nbsp;&nbsp;브런치덜 먹는다고 살 빠는 거 아니다?…체중 감량 숨은 변수는&nbsp;&nbsp;네이트[K-VIBE] 의사 엄융의의 'K-건강법'…다이어트의 답은 장 속 정원에 있다&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
           "name": "조세일보",
@@ -160,40 +238,40 @@
       "matched_keywords": []
     },
     {
-      "id": "00fae0c460d3",
+      "id": "4f68e226d6a2",
       "title": "크레오에스지, 메르스 백신 캐나다 특허 취득",
-      "published": "2026-06-26T02:13:00+00:00",
+      "published": "2026-06-26T02:13:13+00:00",
       "summary": "크레오에스지, 메르스 백신 캐나다 특허 취득&nbsp;&nbsp;아시아경제",
       "sources": [
         {
           "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbjZ6cFFGd2ZJSDJ6TDY3OVdUUWZyQWdjMExRU2xFTFkzbG5Ja3BPYmtPNE5iUVVuVkRGLWtoZlFVV0cyMUJJZFNqUTB6TVVfbEE0ZzhjV0dDZzAzZTJqekdR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1T1BDTi1XZXVDcTRxNTV2RWdCNzlHYlJNVHdIWE5wYXozaUJOWDBmLVNhQTJxcUlpeFBhUldqZkNtekNxQmpMeEFFOF9VZjhpZjMtVnVveDlUV3FEbkFuRw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "6694db7be1c7",
-      "title": "“시간 하나 바꿨을 뿐인데”…아침·저녁 운동 효과 ‘이렇게’ 다르다",
-      "published": "2026-06-26T01:07:00+00:00",
-      "summary": "“시간 하나 바꿨을 뿐인데”…아침·저녁 운동 효과 ‘이렇게’ 다르다&nbsp;&nbsp;코메디닷컴",
+      "id": "0e665ccd47b2",
+      "title": "암 환자의 치료 여정, 일상적인 질병 관리 넘어 전인적 회복 중요한 이유",
+      "published": "2026-06-26T01:30:08+00:00",
+      "summary": "암 환자의 치료 여정, 일상적인 질병 관리 넘어 전인적 회복 중요한 이유&nbsp;&nbsp;바이오타임즈여성암 치료 후 회복 관리 중요한 이유&nbsp;&nbsp;네이트보건부는 암 진단 시점부터 영양실조 검사를 의무화하고 있습니다.&nbsp;&nbsp;Vietnam.vn보건부는 암 환자에게 케토 다이어트를 권장하지 않습니다.&nbsp;&nbsp;Vietnam.vn보건복지부: 임상영양학은 포괄적인 암 치료에 필수적인 요소입니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBWV1VTVUFHSFhUdkxqRjJNOWZfbWdsVE1SLUI1ZURrR0ducHVTU3FUVHdETUVCZ2R4YzNBYkpyeGQ5Zw?oc=5"
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DMUJIUWtCeTdMS0FmRDdGNUl6R2RvNzJxSGZoT01DNVJ2TzVTSEowWWJ3YmR4SFlBbTR6OC1kTXduVXFHVTNGZi1UV1FvM21nY2pLZXNiZTJnU0w3UW5YUUFoeTVheHpjSlQzQg?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "fcabd12d0bbf",
+      "id": "fb29d8332ade",
       "title": "국내 HIV 감염자, 2024년 1천명 아래로...생존자 1만7015명",
       "published": "2026-06-26T00:24:56+00:00",
       "summary": "국내 HIV 감염자, 2024년 1천명 아래로...생존자 1만7015명&nbsp;&nbsp;메디소비자뉴스",
       "sources": [
         {
           "name": "메디소비자뉴스",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JSUJHRUxYYVR4MW43X29iQXgtMXNJUG5sV2hCMWd6eUJxallOOHU3RmJKQzZ4N3R1SlhUMU1wa1NWLVh0VlhvZlBIUDlIRjUxTnFEWXRDSGNWRlJDa0psLXNuOUE0Z1hkRnhLRnRMUU5jYkXSAXZBVV95cUxQQzcxVDBuN2x5b29CSV8xb0ZiR29GN2VWa3JuV2NvenJyc2JMSVMyLWh6ZHFSUmE1WVMzVFpib2x1MjdQcmxGLVJjNHRFT0tGR0RwUm1yOUdsaFZjR19MS21CbXVhenBGZEw3QUJlMFE0Y2ZJbkdR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WRTRyUzgzaWNmazFPa1htelcteFBWU1pHN0ltWTAxWUtfTEpkVE1jZHB4VV93UDRYWHJqdEtCeEluN0pram50QVRIeDFZLU14WFctaWVMNnJXVFJWMEVZSzFlbzlqcjdlU3o1NlRvWVpWZ9IBdkFVX3lxTFBDNzFUMG43bHlvb0JJXzFvRmJHb0Y3ZVZrcm5XY296cnJzYkxJUzItaHpkcVJSYTVZUzNUWmJvbHUyN1BybEYtUmM0dEVPS0ZHRHBSbXI5R2xoVmNHX0xLbUJtdWF6cEZkTDdBQmUwUTRjZkluR1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -207,19 +285,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAwZXpyWHVNZWs3d0VUeVBTcW1MdlYtdkMtVW1hTnBRYy04UHZ0OFVRY0NXX1cwMG11ZFl0aVlXNjhwZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "05b11e27ce7f",
-      "title": "[양파 소비 캠페인] 양파와 같이 먹으면 좋은 '5가지 궁합 음식'",
-      "published": "2026-06-25T23:35:00+00:00",
-      "summary": "[양파 소비 캠페인] 양파와 같이 먹으면 좋은 '5가지 궁합 음식'&nbsp;&nbsp;소셜타임스노화 늦추고 혈압 조절까지…까도 까도 신통방통한 ‘양파’&nbsp;&nbsp;농민신문[특별기고] 양파 한 알의 힘, 과장과 진실 사이에서 찾는 건강의 지혜&nbsp;&nbsp;yangpatv.kr“혈관 깨끗하게 청소한다”… 학술지 실린 ‘양파 섭취법’&nbsp;&nbsp;헬스조선“양파즙 매일 마셨는데…” 혈관 챙기려다 속만 상하는 이유&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "소셜타임스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GNW9OWDdTZW5XOHZ2MzJRaThnUXpWSERGNklGOFk1X2dyc01HRFpzZkI5YXpFbjhFZ1NUc2J3LVJrcmt4U1dlREpJcEpDYUY3Q19RdkkyU0lYMG1MTEwza2ZiT2ZRcDFQV3pZckVCTdIBc0FVX3lxTFBGdGVpQzl0bEhSRmFMWE1nTnFDYzU4SEZ2UlRRMzVodmFtT2dDaENid0ZQOHd2akRRNWQxT2hYTmduLXBya0R4OERUM3FpcDgzekNZNkNNMjJkRU5wUWNxQlJYTUpPRDlxNlFLbG1nTHNITUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -303,19 +368,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1f0f2dff2bc0",
-      "title": "심혈관 건강 안 좋은 임신부, 아이 발달 지연 가능성 높다",
-      "published": "2026-06-25T21:00:00+00:00",
-      "summary": "심혈관 건강 안 좋은 임신부, 아이 발달 지연 가능성 높다&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwaHJhZDRMN0dhaDRmTTFQVFVjMWdjVnNqU1pnelUwMGxBRlZZVWtXNmhTaXFFV3NIYzNLYzlOay05MWJ1cnFyS3pzTXJVdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "415ee2ecc285",
       "title": "필리핀, ASF·구제역 백신 개발 프로그램 착수",
       "published": "2026-06-25T20:05:00+00:00",
@@ -342,14 +394,14 @@
       "matched_keywords": []
     },
     {
-      "id": "6c9475bd4a09",
-      "title": "심부전 위험과 관련된 것으로 의심되는 건강 기능 식품",
-      "published": "2026-06-25T12:05:15+00:00",
-      "summary": "심부전 위험과 관련된 것으로 의심되는 건강 기능 식품&nbsp;&nbsp;Laodong.vn",
+      "id": "293ed03fa629",
+      "title": "“손 제대로 안 씻고, 소독제 남용까지”…감염 확산 부르는 최악의 습관 5가지",
+      "published": "2026-06-25T12:42:00+00:00",
+      "summary": "“손 제대로 안 씻고, 소독제 남용까지”…감염 확산 부르는 최악의 습관 5가지&nbsp;&nbsp;전자신문",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2RIUE4yeXlfeE5zc0xiUXhMeU10N0hLbWw1UlA4b1FsdjJRNVAxVXhwWGRJQkthNGd2OWtJb1hleVY3dWs5QXRuYlI5WGM2N2ZOeGpRS0tkMk1fWEpoMGc2RHQ4a1UtRjNMRUVwWXlJS1pETHotQndoa0FzZi14eUxRX1ExbDBhV0dBYVZ2NkFMaXM5THhqQ2tMaGE5UHBITWxfWlFUWHM?oc=5"
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TY1lrWElEdmtMOUxNX2lvOUdWMFVNZ1l0c003NDNLbE4zVlRHVXpNazd5WlJCb25YOVg5dnhiM0xyX3k0c25taE1qS3VhQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -397,7 +449,7 @@
       "id": "09cfb83cc6bf",
       "title": "“꾸준히 먹으면 콜레스테롤 수치 감소” 영양사 추천 음식 4가지",
       "published": "2026-06-25T08:00:00+00:00",
-      "summary": "“꾸준히 먹으면 콜레스테롤 수치 감소” 영양사 추천 음식 4가지&nbsp;&nbsp;헬스조선콜레스테롤 수치 높다면? 전문가가 추천하는 식품 14가지&nbsp;&nbsp;하이닥콜레스테롤약 먹어야 하나요?\"…수치보다 중요한 것은 따로 있다&nbsp;&nbsp;매경헬스아프지 않아서 더 위험한 병, 이상지질혈증의 역설&nbsp;&nbsp;메디칼업저버",
+      "summary": "“꾸준히 먹으면 콜레스테롤 수치 감소” 영양사 추천 음식 4가지&nbsp;&nbsp;헬스조선저용량 격전지된 이상지질혈증 2제...보령·안국약품 가세&nbsp;&nbsp;데일리팜고위험 이상지질혈증, LDL-C 낮추고 혈당 위험 줄이는 전략은…스타틴 기반 병용요법 주목&nbsp;&nbsp;MEDI:GATE NEWS콜레스테롤 수치 높다면? 전문가가 추천하는 식품 14가지&nbsp;&nbsp;하이닥콜레스테롤약 먹어야 하나요?\"…수치보다 중요한 것은 따로 있다&nbsp;&nbsp;매경헬스",
       "sources": [
         {
           "name": "헬스조선",
@@ -462,7 +514,7 @@
       "id": "fb6e375f8456",
       "title": "샤페론, 누세핀 적응증 인플루엔자 폐렴 확대",
       "published": "2026-06-25T01:48:00+00:00",
-      "summary": "샤페론, 누세핀 적응증 인플루엔자 폐렴 확대&nbsp;&nbsp;뉴스핌샤페론, 핵심 파이프라인 ‘누세핀’ 인플루엔자 폐렴으로 적응증 확대… 관련 특허 기반 확보&nbsp;&nbsp;한국경제샤페론, 누세핀 코로나 넘어 인플루엔자 폐렴 정조준&nbsp;&nbsp;데일리팜샤페론, ‘누세핀’ 적응증 인플루엔자까지 확대&nbsp;&nbsp;메디컬투데이샤페론, ‘누세핀’ 인플루엔자 폐렴으로 개발범위 확장…“호흡기 감염질환 공략”&nbsp;&nbsp;더바이오",
+      "summary": "샤페론, 누세핀 적응증 인플루엔자 폐렴 확대&nbsp;&nbsp;뉴스핌샤페론, 핵심 파이프라인 ‘누세핀’ 인플루엔자 폐렴으로 적응증 확대… 관련 특허 기반 확보&nbsp;&nbsp;한국경제샤페론, 누세핀 코로나 넘어 인플루엔자 폐렴 정조준&nbsp;&nbsp;데일리팜샤페론, ‘누세핀’ 인플루엔자 폐렴으로 개발범위 확장…“호흡기 감염질환 공략”&nbsp;&nbsp;더바이오",
       "sources": [
         {
           "name": "뉴스핌",
@@ -475,7 +527,7 @@
       "id": "d8de94ddc326",
       "title": "조현병 원인, 도파민보다 유전자 네트워크 때문? … 美 연구진 새 단서 발견",
       "published": "2026-06-25T01:16:33+00:00",
-      "summary": "조현병 원인, 도파민보다 유전자 네트워크 때문? … 美 연구진 새 단서 발견&nbsp;&nbsp;헬스코리아뉴스조현병 유전자 641개 새로 발견…'유전자 네트워크'가 발병 관여&nbsp;&nbsp;v.daum.net[Q&amp;A] 조현병, '망상·환청·무감정'…조기 치료로 일상 회복 가능&nbsp;&nbsp;대구신문조현병, 단일 유전자 탓 아냐… 10만 명 분석해 ‘숨은 유전적 연결 고리’ 규명&nbsp;&nbsp;하이닥조현병, 아동기 트라우마나 빈곤 등에 큰 영향 받아&nbsp;&nbsp;알파경제",
+      "summary": "조현병 원인, 도파민보다 유전자 네트워크 때문? … 美 연구진 새 단서 발견&nbsp;&nbsp;헬스코리아뉴스조현병 유전자 641개 새로 발견…'유전자 네트워크'가 발병 관여&nbsp;&nbsp;v.daum.net[Q&amp;A] 조현병, '망상·환청·무감정'…조기 치료로 일상 회복 가능&nbsp;&nbsp;대구신문조현병, 단일 유전자 탓 아냐… 10만 명 분석해 ‘숨은 유전적 연결 고리’ 규명&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "헬스코리아뉴스",
@@ -493,6 +545,19 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBYT0dzSjEyMzVEZVd5YmNqc2RJZTNFY0RHdFdxTHZRVE9zcXkxQ0VMbFA4bElDajZnYkZUc1BsZ3J1dFUy?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6fdf850ab624",
+      "title": "[특별기고] 양파 한 알의 힘, 과장과 진실 사이에서 찾는 건강의 지혜",
+      "published": "2026-06-25T00:29:17+00:00",
+      "summary": "[특별기고] 양파 한 알의 힘, 과장과 진실 사이에서 찾는 건강의 지혜&nbsp;&nbsp;yangpatv.kr노화 늦추고 혈압 조절까지…까도 까도 신통방통한 ‘양파’&nbsp;&nbsp;농민신문“혈관 깨끗하게 청소한다”… 학술지 실린 ‘양파 섭취법’&nbsp;&nbsp;헬스조선“양파즙 매일 마셨는데…” 혈관 챙기려다 속만 상하는 이유&nbsp;&nbsp;세계일보혈압, 혈당, 콜레스테롤 다 잡아...여름철 양파 하루 반쪽만 먹어도 좋은 이유&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "yangpatv.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LWnpCZzl1SXh3dk00RWcyQnkzZWNmV2JjVlpfbkJFS1BFX21mcVZGR1BYT0VuU2VKX1JUZm05aGVqcC02ZVc1enc2UUNSWlBiNWNFVDAyX0VxSVZ0Mmk3V2c4dWM1QWt6?oc=5"
         }
       ],
       "matched_keywords": []
@@ -550,14 +615,14 @@
       "matched_keywords": []
     },
     {
-      "id": "72b43416e1db",
+      "id": "6515822612d1",
       "title": "원유 끓이는 시대 끝나나…KAIST '분자 정유' 개발",
       "published": "2026-06-24T15:02:29+00:00",
       "summary": "원유 끓이는 시대 끝나나…KAIST '분자 정유' 개발&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04d19sSTdobXV0THRPeXJxTGV4S2k1SkNEYXh3TUhSbWlSYl9TNU1BTktpYmxHLTJiem1wNWc2OVNvNXhfWmo0UTNrWDBERWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qc21rVUJDYmxLNDVFbUI3c3pGYlJ2NXB6TkNiRDhBT0tqT2owb0dCNkFONEpxSjVybVh3NV9vMVlaNW40TXc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -571,32 +636,6 @@
         {
           "name": "헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xWFpWWnhmTThYbTBjQXF3WWU0VzAwa3R1Z0RFLVJGeEFqYkVQQW95YUVBb0dNM25OS3ZJZy1tZ2QwSkg4cnk4cUNIU0xuNGxTTE4wSVJR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7a40e9a6796a",
-      "title": "목감기 방치했다가 전신 감염까지?... 생명 위협하는 ‘레미에르 증후군’ 주의",
-      "published": "2026-06-24T10:00:00+00:00",
-      "summary": "목감기 방치했다가 전신 감염까지?... 생명 위협하는 ‘레미에르 증후군’ 주의&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OWTZVNEtVRm9CMTJYWVJEQl9NeUVlUlVra3RqTmNZNVRiNUtlRVQ4d2t6NTk4TmR0a3pIX3hFdklYRUVaZ0ZJVWx0elNQUzdhOTdBOV9PLW9oYVRabElyY1FMcVpycnJvSVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9a21ddf68f4c",
-      "title": "혈액 DNA·RNA 함께 보니...알츠하이머병 환자 구분 향상",
-      "published": "2026-06-24T09:55:24+00:00",
-      "summary": "혈액 DNA·RNA 함께 보니...알츠하이머병 환자 구분 향상&nbsp;&nbsp;병원신문치매 진행 위험 6단계로 예측한다···국내 연구진 새 기준 제시&nbsp;&nbsp;v.daum.net발전하는 치매 조기진단 기술…치료보다 더 큰 ‘돌봄 공백’&nbsp;&nbsp;아시아투데이“20년 전부터 뇌손상 진행”…‘치매 고위험군’ OO으로 더 정확하게 가려낸다&nbsp;&nbsp;농민신문[현장] “치매 진단보다 중요한 건 그 이후”…임상·돌봄·약물 한자리에 모인 실무 교육&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVTBnTXNlUGRkY3BDNUc5TlRWa2lFQlBQMmtJbTBpZFpXLTl1R3NNMTJNbTBIRm80dnRFTDlFUmpTOWxOdTg5UnJiLWRaajE5NFdmYnFUOURycUVxVFNjT2diQzh5QkhlNVE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -623,6 +662,19 @@
         {
           "name": "아이뉴스24",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5KdkRSXzc5eUpZNUloUnRkMUozMGlKbm5zTk1RV0ltVHJGR0FlQ2w5SXZrWEdyOTBibzFId29ZbDZJMTVLdzI3Z256RjQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dae877c4605a",
+      "title": "\"약보다 중요하다\" 중년 이후 뇌를 건강하게 만드는 최고의 원칙",
+      "published": "2026-06-23T15:50:00+00:00",
+      "summary": "\"약보다 중요하다\" 중년 이후 뇌를 건강하게 만드는 최고의 원칙&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zbjJyV0RuMmtjQzJQZ2dvbnZxb3VyQWhvNEx2UG9fbmJnb1RsRy1YZzJST2ZJYVdKQnZvWHlidUR5Zw?oc=5"
         }
       ],
       "matched_keywords": []
