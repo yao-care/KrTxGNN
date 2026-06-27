@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-27T08:39:36.045878+00:00",
-  "total_count": 39,
+  "last_updated": "2026-06-27T13:49:03.950762+00:00",
+  "total_count": 37,
   "matched_count": 0,
   "news": [
+    {
+      "id": "35b06984e219",
+      "title": "건강한 노인에서는 칼슘-비타민D 복합제가 골절 위험 줄이지 못해",
+      "published": "2026-06-27T09:15:28+00:00",
+      "summary": "건강한 노인에서는 칼슘-비타민D 복합제가 골절 위험 줄이지 못해&nbsp;&nbsp;헬스케어N",
+      "sources": [
+        {
+          "name": "헬스케어N",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XM0RMN1NZWkJlSDBSUlk1Z3drMGxwMzNVVG9ZWmVuX1NFVVVmcl9zaXpJc3BIeFlobXFKNksxaXZXTFg1NzBrLUUwTFlySFNNVVY0Z1BOT0k0c1Rxb3ljU2dDYXJzbnBzNTkwZVFoMzF6ZWx6?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c7feeb626e25",
       "title": "병적으로 심한 입덧, 조산·임신중독증 등 합병증 위험 높여",
@@ -77,6 +90,19 @@
         {
           "name": "한국의약통신",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QajMzT0VkcmVPbjAzMUZnTlJwb1FibVlZY2Jla0wwdUJsOVR1Qm93TndRcWMtTTdjOEVvOV9lNzB2NlVNSVhCeFVvSW5rT1lpMHlHc2dWUm1yZ1BCbUVDMVdRWDE1NzVNY2Y0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fd891fc4f95e",
+      "title": "\"심장은 왜 암이 드물까?\"…24시간 뛰는 '심장 박동'이 암세포 막았다",
+      "published": "2026-06-26T20:40:00+00:00",
+      "summary": "\"심장은 왜 암이 드물까?\"…24시간 뛰는 '심장 박동'이 암세포 막았다&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16NjUtbEtESXhpSlRuS1VyUmxvQVhESGQ4V2c1b2NDbkZ5aDRKb3Q5bGEycEc4ckV6N1J1cUxKT05Ed3BhcXlyMFZUenp4eW5NUmZNR2FoMTFOWHRvenB2QUE0eTQxaFp5QVBDWg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -220,19 +246,6 @@
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SMTV3WllkWEltUXRIMnN4MlBJbzdsNHFoYm5tTzlTTGF5ZXpRbUY4dlFjVHozb3d1N3ctRHlHYTNEY0NidWlJbHVYZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1f686d8974dc",
-      "title": "혈압약 효과 76% 떨어뜨리는 ‘의외의 식품’ [약식궁합]",
-      "published": "2026-06-26T04:30:00+00:00",
-      "summary": "혈압약 효과 76% 떨어뜨리는 ‘의외의 식품’ [약식궁합]&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TYms1ZHNFd1d6NERYMUhuS1VlY0RmcGx4N0tOV1ZaTGNDMXRLcnBhZFZLdHlJREJ4MWlyWVRKZVVUd2VVRlgweGticDN6ZEM2U2lma21Vb2h0WHRVSk5kQkVmTndqQnR0WVhyNUxOdkFsT2xUSHFQUGo2YTdjRjQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -454,45 +467,6 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWS1TTEZGY2VjS2hRNHh3azVXUnJQMGlGVkg0T3FMV3VPem5zbER0MWtYNXk5Q2phNDRUWjdvYV9VbzU1cnM5QVR6QnBUMm1RcTRmaG43d3QyX3VyZkU4blp5WFZvSTVHYlJmeGotZ2xabWQ5ZGNzR1hvY1VNUGt0cUxoSG94VUJFczk3Ym4zOV9BTjNRWTNTQ3JEWGVpUnFVNDNnRG44eXhrTkduSlR6SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "293ed03fa629",
-      "title": "“손 제대로 안 씻고, 소독제 남용까지”…감염 확산 부르는 최악의 습관 5가지",
-      "published": "2026-06-25T12:42:00+00:00",
-      "summary": "“손 제대로 안 씻고, 소독제 남용까지”…감염 확산 부르는 최악의 습관 5가지&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TY1lrWElEdmtMOUxNX2lvOUdWMFVNZ1l0c003NDNLbE4zVlRHVXpNazd5WlJCb25YOVg5dnhiM0xyX3k0c25taE1qS3VhQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3ddc06e9706b",
-      "title": "당뇨병 환자라면 주목… 낮잠 30분 이상 자면 지방간 위험 높아진다?",
-      "published": "2026-06-25T11:30:00+00:00",
-      "summary": "당뇨병 환자라면 주목… 낮잠 30분 이상 자면 지방간 위험 높아진다?&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MeXdrN3dTdDJwTEozUDRHUnY1MjRBNXhRSG1CbkZCNHpfLVlKTVZ5Wm1wd1FEV1VDVURCMHF6NjF3YzlLdXllOTl3ek11WTVQdXNYd2t4N2dkZ3BQdThLVjRhUHRENHdGUnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a83cb96e9299",
-      "title": "제2형 당뇨병 위험이 높은 혈액형",
-      "published": "2026-06-25T11:00:00+00:00",
-      "summary": "제2형 당뇨병 위험이 높은 혈액형&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1pvWmE4Z3BzWHg0NXgycWY5OGFCMkgzZFdRZmRBcFhZX1l3QUZ1Zk9WN2JfRzBCSmpNQ3VlR3RrYmIyUTh6MkthNFZ4aHJLdjl2Sm83LWozWjc5OUtEa2k3SlN3djBncEVvZVl1dUZuVTFSOG1aV3dXNG1IYUVLMzVremN4ZHpjeVJzT1k1bHBXZw?oc=5"
         }
       ],
       "matched_keywords": []
