@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-27T13:49:03.830847+00:00",
+  "fetched_at": "2026-06-27T19:24:53.709993+00:00",
   "total_fetched": 73,
   "unique_count": 73,
-  "health_related_count": 37,
+  "health_related_count": 39,
   "news": [
+    {
+      "id": "200e235cb96d",
+      "title": "“혜리도 입 벌리고 자네”… 턱 모양 바꾸는 구강호흡의 위험성 - 헬스조선",
+      "published": "2026-06-27T17:00:00+00:00",
+      "summary": "“혜리도 입 벌리고 자네”… 턱 모양 바꾸는 구강호흡의 위험성&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iUlQxSjRWMjdnY3RrTmgybHJhWHpnM1UzRFBRMUFSTlRjMnRPdFl6M2VkeFZZYl92U3ZQTzRvUlNWYU8zUFdjZzZiMklOWG9QNjBjbjR2VGJMSnNxclNjS0dOdTVXOHV6RnZhTnZJckY3Z0x2eWZTd2JFTnZTUWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a338916896bb",
+      "title": "술 마시면 얼굴 빨개지는 사람, 치매 조심해야 - 헬스조선",
+      "published": "2026-06-27T14:01:00+00:00",
+      "summary": "술 마시면 얼굴 빨개지는 사람, 치매 조심해야&nbsp;&nbsp;헬스조선뇌가 썩어가는 공포 일주일 소주 한 병?&nbsp;&nbsp;브런치술 마시고 넘어진 날 역대급 대참사&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SVkNsWVYzVnV6a3FsTURJZlVxZW5OaVhOTEUydHVwbzZaR1h5SWJDSlNrbmtmM0FWV19XeTFxT3F2cmRlbjlPVFhIbmpJZ0ZJZXhlWFNjUHB5RElLTTdLWDh4bl9FejRzX1R0MUNpem5CR1AwS05TWldtOURHMWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d29413edbfb3",
+      "title": "남성호르몬 적은 남자들, 암 사망 위험 높다 - 헬스조선",
+      "published": "2026-06-27T11:00:00+00:00",
+      "summary": "남성호르몬 적은 남자들, 암 사망 위험 높다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdXE1Q2p4RzBIaEluOXg1ZjVfZkxCbEdiMmRpTEVTTEp0eTA1b1gwdHJPMGR5VGxCTTdqSDRGdXR4dXRQWjAyclR0b0tIX3M2MkUteE5sUUJTMjdPc3l2S3oyYzI0U0FTVElZQllUaWtINE14ZFZGUzlXbEVNOXM?oc=5"
+        }
+      ]
+    },
     {
       "id": "35b06984e219",
       "title": "건강한 노인에서는 칼슘-비타민D 복합제가 골절 위험 줄이지 못해 - 헬스케어N",
@@ -78,14 +114,38 @@
       ]
     },
     {
+      "id": "a2f194d70104",
+      "title": "중년 후 1년 새 체중 무섭게 불었다면…에너지 대사 균형 확인하세요 [이지현의 생생헬스] - 한국경제",
+      "published": "2026-06-26T21:00:01+00:00",
+      "summary": "중년 후 1년 새 체중 무섭게 불었다면…에너지 대사 균형 확인하세요 [이지현의 생생헬스]&nbsp;&nbsp;한국경제“볼록 나온 남성 뱃살, ‘이 상태’면 정말 심각”… 의사가 경고한 위험한 배 특징은?&nbsp;&nbsp;코메디닷컴\"똑같이 먹는데 왜 배만 나올까?\"…비만 전문의가 꼽은 원인 3가지&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FRHZ6LTlVdDJYMWVjZ2dsMWk5ay1jZ0l0VHh4cDBNU3ZuTzI1bUZTTWNPMVNSUTNuYS01c3lZTU5EUVd5azN5bHRIMXVCQndIaml5UlE1UWMyUdIBVEFVX3lxTFBZMUtRWVRtdmtvazJFaFVBQ3IxYnRDdERnaTU2cnJLbElMSzlIeDktcG1WUzV6eHlJRXJZYUN5S3BLYXkxR2Q4QVROX0ZTV3FZaVVuUg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "af73f58b1d74",
       "title": "항염증 식단, 알츠하이머 생체지표 양성서도 치매 위험 낮춰 - 한국의약통신",
       "published": "2026-06-26T21:00:00+00:00",
-      "summary": "항염증 식단, 알츠하이머 생체지표 양성서도 치매 위험 낮춰&nbsp;&nbsp;한국의약통신치매 걱정되면 '이 음식' 드세요…이미 뇌 변화 됐어도 효과 있다&nbsp;&nbsp;v.daum.net[건강포커스] \"염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰\"&nbsp;&nbsp;연합뉴스치매 가족력 있어도… 위험 뚝 떨어뜨리는 ‘식사법’ 있다&nbsp;&nbsp;헬스조선채소·과일·통곡물 즐겨 먹었더니 치매 위험 낮아졌다&nbsp;&nbsp;네이트",
+      "summary": "항염증 식단, 알츠하이머 생체지표 양성서도 치매 위험 낮춰&nbsp;&nbsp;한국의약통신치매 걱정되면 '이 음식' 드세요…이미 뇌 변화 됐어도 효과 있다&nbsp;&nbsp;v.daum.net치매 고위험군 노인, 채소·생선 등 '항염증 식단' 먹으면 치매 위험 30%↓&nbsp;&nbsp;뉴시스[건강포커스] \"염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰\"&nbsp;&nbsp;연합뉴스치매 가족력 있어도… 위험 뚝 떨어뜨리는 ‘식사법’ 있다&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "한국의약통신",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QajMzT0VkcmVPbjAzMUZnTlJwb1FibVlZY2Jla0wwdUJsOVR1Qm93TndRcWMtTTdjOEVvOV9lNzB2NlVNSVhCeFVvSW5rT1lpMHlHc2dWUm1yZ1BCbUVDMVdRWDE1NzVNY2Y0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d64c956d6f1",
+      "title": "중년에 '이 운동' 했더니… 당뇨병 위험 42% '뚝' - 약사공론",
+      "published": "2026-06-26T20:43:00+00:00",
+      "summary": "중년에 '이 운동' 했더니… 당뇨병 위험 42% '뚝'&nbsp;&nbsp;약사공론“일주일 90분만 해도?”…치매·심장질환 사망 위험 크게 낮춘 근력운동&nbsp;&nbsp;동아일보진짜 장수하는 근력 운동, 많이 할 필요도 없다! 딱 ‘이 정도’&nbsp;&nbsp;GQ Korea\"30분 근력운동의 기적\"…꾸준히 하면 중장년 당뇨 위험 42%↓&nbsp;&nbsp;뉴시스“40대부터 꼭 해라”… 물리치료사가 꼽은 ‘노후 대비’ 근력 운동&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmcGJwbV9RNk5BY1lEa1V1MWlXR3pDQ1BUZ0g2djZGelplNnlUeVVBTnBURTVsS0g5NjlxdXlFNjhPMXVrSFl3aHUtUmxMbFFuVGJBYjYzTW1tejAwVHR0a1dYaEdfVXdQb19kVw?oc=5"
         }
       ]
     },
@@ -162,18 +222,6 @@
       ]
     },
     {
-      "id": "f1e9a969ce1c",
-      "title": "“일주일 90분만 해도?”…치매·심장질환 사망 위험 크게 낮춘 근력운동 - 동아일보",
-      "published": "2026-06-26T09:00:55+00:00",
-      "summary": "“일주일 90분만 해도?”…치매·심장질환 사망 위험 크게 낮춘 근력운동&nbsp;&nbsp;동아일보진짜 장수하는 근력 운동, 많이 할 필요도 없다! 딱 ‘이 정도’&nbsp;&nbsp;GQ Korea\"30분 근력운동의 기적\"…꾸준히 하면 중장년 당뇨 위험 42%↓&nbsp;&nbsp;뉴시스“40대부터 꼭 해라”… 물리치료사가 꼽은 ‘노후 대비’ 근력 운동&nbsp;&nbsp;헬스조선중년에 '이 운동' 했더니… 당뇨병 위험 42% '뚝'&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90WFprYzZnQXhWT29Oc2RGTWpFSk43ODZqMlJKazhIcXFCWTIzV2l3cWhSWGFCeGR5cU5nc0xXZ2VXTHlyVlM4cERDMmhicUh2TDY2ZmE1Zzh5Vm1yVE03eVhvSGtCcjMwcEl2UHAtMNIBZkFVX3lxTFBrRkZwYVR4YUNnbmtuMEVISm9GQ0pFU2EtTVlsT2l3ckk4U0Qwb1BKNnlZODJoekl2RE9lX2RYWDJ0eFYzc2JWNHdfV1ctbjlYVGRpZnBJdFRiQkdXYTdPbUxQemdIdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "daa83ef60210",
       "title": "비만대사수술 후 술 한 잔이 두 잔 된다?…더 빨리 취하는 이유 - 코메디닷컴",
       "published": "2026-06-26T07:22:00+00:00",
@@ -246,14 +294,14 @@
       ]
     },
     {
-      "id": "131e8cd3cdb9",
-      "title": "덜 먹는다고 살 빠지는 거 아니다?… 체중 감량 숨은 변수 - 조세일보",
-      "published": "2026-06-26T03:49:20+00:00",
-      "summary": "덜 먹는다고 살 빠지는 거 아니다?… 체중 감량 숨은 변수&nbsp;&nbsp;조세일보18화 6편: 건강은 의지가 아니라 시스템이다&nbsp;&nbsp;브런치덜 먹는다고 살 빠지는 거 아니다?…체중 감량 숨은 변수&nbsp;&nbsp;네이트다이어트 주사 열풍과 뱃속 세균 ③&nbsp;&nbsp;마음건강 길[K-VIBE] 의사 엄융의의 'K-건강법'…다이어트의 답은 장 속 정원에 있다&nbsp;&nbsp;연합뉴스",
+      "id": "1695f24209da",
+      "title": "덜 먹는다고 살 빠지는 거 아니다?…체중 감량 숨은 변수 - 네이트",
+      "published": "2026-06-26T03:50:00+00:00",
+      "summary": "덜 먹는다고 살 빠지는 거 아니다?…체중 감량 숨은 변수&nbsp;&nbsp;네이트18화 6편: 건강은 의지가 아니라 시스템이다&nbsp;&nbsp;브런치다이어트 주사 열풍과 뱃속 세균 ③&nbsp;&nbsp;마음건강 길[K-VIBE] 의사 엄융의의 'K-건강법'…다이어트의 답은 장 속 정원에 있다&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfS1J0VHF5N2wzcUJGU19WOVFQY0ZsODJ3Y2JkaVlEYk1DSkFxYnhFaUt4Q20ybHZkOEtPN3dFbEVLZG1aX1JzWGQtTVBsRFljRERmY1BRb0JzdGxIcUx6c3hhTTNsRE54T2loT2Fhd3N3eG4x?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9paVY0end2QnZnVGVMRXEtd3VnN0YxMkFNV3JMMTQtbFJQRDZEY2lHdjJYOXhKbUE4TUZqM3RwMUZ0MV9takZIUnlaMUt1WUpnVUpN?oc=5"
         }
       ]
     },
@@ -297,7 +345,7 @@
       "id": "e9d214be62d0",
       "title": "폐섬유증 악화시키는 기전 규명…세포노화 핵심 인자 탓이었다 - 코리아헬스로그",
       "published": "2026-06-26T02:15:31+00:00",
-      "summary": "폐섬유증 악화시키는 기전 규명…세포노화 핵심 인자 탓이었다&nbsp;&nbsp;코리아헬스로그특발성 폐섬유증 노화 기반 표적 치료 패러다임 제시&nbsp;&nbsp;BRIC이화여대·서울대, 난치성 '특발성 폐섬유증' 악화 기전 규명&nbsp;&nbsp;뉴시스이화여자대학교 이윤실·박소연 교수팀, 서울대와 폐섬유증 악화 핵심기전 규명…노화 표적 치료 가능성 제시&nbsp;&nbsp;한국강사신문이화여대·서울대, 폐 굳는 난치병 악화 원리 규명&nbsp;&nbsp;이데일리",
+      "summary": "폐섬유증 악화시키는 기전 규명…세포노화 핵심 인자 탓이었다&nbsp;&nbsp;코리아헬스로그특발성 폐섬유증 노화 기반 표적 치료 패러다임 제시&nbsp;&nbsp;BRIC이화여대·서울대, 난치성 '특발성 폐섬유증' 악화 기전 규명&nbsp;&nbsp;뉴시스이화여대·서울대, 폐 굳는 난치병 악화 원리 규명&nbsp;&nbsp;이데일리",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -422,30 +470,6 @@
         {
           "name": "한돈뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aRGg5b0EzZFhRR2VJWFFHTlAzc0tnWFpJb1dRTEh0NWNLQUJuWHVYRVktbVpIUndsb0xMZ3FJOEF4aTFBRWVtbTNpT0ZwZ3hyTlN1aV9ENXhmX0I2MUZKaTJzM1dRZmRE0gFsQVVfeXFMT0I4ZC1qay1VSmxhUmp1VWF0Q2ZDSVJsNWVLTnktb0ZiUU9vZlJuU3BsNTdDVmVrRWxvczJwV0JQYW9nTF9ybW41djZ0eDN5Y3lFSllXWTdncThNdGN3S1hDc01pcm8ybDFObUsz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7370d8b43716",
-      "title": "수면의 질은 치매 위험과 관련이 있는 것으로 여겨집니다 - Laodong.vn",
-      "published": "2026-06-25T13:00:00+00:00",
-      "summary": "수면의 질은 치매 위험과 관련이 있는 것으로 여겨집니다&nbsp;&nbsp;Laodong.vn\"노폐물, 염증 싹 사라진다\"…서울대병원 교수가 '약보다 중요' 강조한 원칙, 뭐야?&nbsp;&nbsp;네이트\"약보다 중요하다\" 중년 이후 뇌를 건강하게 만드는 최고의 원칙&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWS1TTEZGY2VjS2hRNHh3azVXUnJQMGlGVkg0T3FMV3VPem5zbER0MWtYNXk5Q2phNDRUWjdvYV9VbzU1cnM5QVR6QnBUMm1RcTRmaG43d3QyX3VyZkU4blp5WFZvSTVHYlJmeGotZ2xabWQ5ZGNzR1hvY1VNUGt0cUxoSG94VUJFczk3Ym4zOV9BTjNRWTNTQ3JEWGVpUnFVNDNnRG44eXhrTkduSlR6SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6028bb1135db",
-      "title": "시커먼 원유 ‘끓이지 않고’ 맑은 기름 걸러내는 기술…국내 연구진이 개발 - 한겨레",
-      "published": "2026-06-24T15:45:00+00:00",
-      "summary": "시커먼 원유 ‘끓이지 않고’ 맑은 기름 걸러내는 기술…국내 연구진이 개발&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Xa0JKSDExTkFIek45RTJJSTVtQUdTU2FwMUIwMDh1TnBOVlZkSWk3dkloVDllYzdjZUFkdlZoMUthV1lUblYwczk5TElDQ2ZfTmlvTWxVZFREajZXUlR4bWIyR2hkbk56dHc2c1R5LXM5Zw?oc=5"
         }
       ]
     }
