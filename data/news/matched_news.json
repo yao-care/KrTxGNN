@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-06-27T03:44:33.048290+00:00",
-  "total_count": 36,
+  "last_updated": "2026-06-27T08:39:36.045878+00:00",
+  "total_count": 39,
   "matched_count": 0,
   "news": [
+    {
+      "id": "c7feeb626e25",
+      "title": "병적으로 심한 입덧, 조산·임신중독증 등 합병증 위험 높여",
+      "published": "2026-06-27T06:55:28+00:00",
+      "summary": "병적으로 심한 입덧, 조산·임신중독증 등 합병증 위험 높여&nbsp;&nbsp;헬스케어N",
+      "sources": [
+        {
+          "name": "헬스케어N",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iTVVEVkUwT0c5UzczY1A4eEJWemFPOGFxd1VzTVByZDhMSHBoRU1ENmJNVGFyb2lrZmdHMkxXMUNPNnJ3Q3NadnRHdTBrdV82XzN2c2FUQ3lRZ1BxWHJpTW9BMkJrdGJsTXZISkNvZFRQalY4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eb75cc9f1bec",
+      "title": "밤 8시 이후 강한 빛 노출, 황반변성·녹내장 위험 높인다",
+      "published": "2026-06-27T05:27:00+00:00",
+      "summary": "밤 8시 이후 강한 빛 노출, 황반변성·녹내장 위험 높인다&nbsp;&nbsp;네이트저녁 밝은 조명, 황반변성·녹내장 위험 높인다&nbsp;&nbsp;헬스조선실내 생활이 치매 부른다? \"낮 시간 밝은 빛 노출, 치매위험 최대 38% 감소\"&nbsp;&nbsp;sportschosun.com\"같은 조명인데 왜 밤이 더 위험할까?\" 황반변성 위험 31% 높았다&nbsp;&nbsp;약사공론치매 위험 16% 뚝… 낮에 ‘밝은 빛’을 봐야 할 이유&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LVXpPaWo5Q2FxSWp5akFhaVhaaTdURlpwcXBubWtQVmhaOTRxV0hUN3E2bThUdjJ1Ui1fVGR5STNnXzdSY3V6bUs5b2FxMkIzaEJJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dbc121cd25d4",
+      "title": "건강 간식 '아몬드'...\"심혈관질환 발생 위험 낮춰\"",
+      "published": "2026-06-27T04:45:00+00:00",
+      "summary": "건강 간식 '아몬드'...\"심혈관질환 발생 위험 낮춰\"&nbsp;&nbsp;센머니",
+      "sources": [
+        {
+          "name": "센머니",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DVnctNktuMmV2SHMwRFF1T2RhZkJnR3Ywd2RKTWVIaDRpajB3SHg4UXBLNDVoN3pQak9pRWdxYUx0cFZ1dnpZTDQ0THQ1eEVKemo2UFdLbENMSHRHNXpWUWl1dS1XQkx6VlVfYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "9aad26c50f27",
       "title": "장 건강에 좋은 음식 5가지… \"변비 개선에 도움\"",
@@ -33,7 +72,7 @@
       "id": "af73f58b1d74",
       "title": "항염증 식단, 알츠하이머 생체지표 양성서도 치매 위험 낮춰",
       "published": "2026-06-26T21:00:00+00:00",
-      "summary": "항염증 식단, 알츠하이머 생체지표 양성서도 치매 위험 낮춰&nbsp;&nbsp;한국의약통신치매 걱정되면 '이 음식' 드세요…이미 뇌 변화 됐어도 효과 있다&nbsp;&nbsp;v.daum.net[건강포커스] \"염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰\"&nbsp;&nbsp;연합뉴스“치매 걱정된다면 오늘부터 챙겨 먹어라”…의사들도 주목한 식단, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제채소·과일·통곡물 즐겨 먹었더니 치매 위험 낮아졌다&nbsp;&nbsp;네이트",
+      "summary": "항염증 식단, 알츠하이머 생체지표 양성서도 치매 위험 낮춰&nbsp;&nbsp;한국의약통신치매 걱정되면 '이 음식' 드세요…이미 뇌 변화 됐어도 효과 있다&nbsp;&nbsp;v.daum.net[건강포커스] \"염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰\"&nbsp;&nbsp;연합뉴스치매 가족력 있어도… 위험 뚝 떨어뜨리는 ‘식사법’ 있다&nbsp;&nbsp;헬스조선채소·과일·통곡물 즐겨 먹었더니 치매 위험 낮아졌다&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "한국의약통신",
@@ -72,11 +111,24 @@
       "id": "16e499116278",
       "title": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?",
       "published": "2026-06-26T12:00:00+00:00",
-      "summary": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?&nbsp;&nbsp;하이닥“간 망친다며 아메리카노 끊더니”…정작 간 해치는 습관은 그대로였다&nbsp;&nbsp;v.daum.net건강에 좋대서 영양제 다 챙겨 먹었는데…\"간 박살난다\" 의사 경고&nbsp;&nbsp;아시아경제'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'&nbsp;&nbsp;이데일리이유 없는 피로·체중 감소 반복된다면…'침묵의 장기' 간 점검 필요&nbsp;&nbsp;스포츠월드",
+      "summary": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?&nbsp;&nbsp;하이닥“간 망친다며 아메리카노 끊더니”…정작 간 해치는 습관은 그대로였다&nbsp;&nbsp;v.daum.net건강에 좋대서 영양제 다 챙겨 먹었는데…\"간 박살난다\" 의사 경고&nbsp;&nbsp;아시아경제'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'&nbsp;&nbsp;이데일리[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까&nbsp;&nbsp;bntnews.co.kr",
       "sources": [
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5taGJCYlJJMnhCUjd3d0hlVHg2SnIwVVRxMS1uaDh4QUJ4dE94SUZqOVNrU3puX2hYVVpxcXhiTkpiTUdpS1pJMTRHUFhaZEZ2QTJHU3h6Z1ZsNlRxRXlxUGRXTUVET2FPZkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "318f782be551",
+      "title": "임신 중 심혈관 건강 나쁘면… 자녀 발달지연 위험 최대 62%↑",
+      "published": "2026-06-26T10:30:00+00:00",
+      "summary": "임신 중 심혈관 건강 나쁘면… 자녀 발달지연 위험 최대 62%↑&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTEIwVlZoVEIxczZDSG9wNk0zQW5BX3Btb2xyYnFmX3ltRkx3Q09zaURxR2FaYklXVDMxbDFFcVhxVDlQVFFSeGY1MFZYdks3RWxHcHBIQnVUeUFIT1Z5M0hGMldfYUkxeFE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -98,7 +150,7 @@
       "id": "f1e9a969ce1c",
       "title": "“일주일 90분만 해도?”…치매·심장질환 사망 위험 크게 낮춘 근력운동",
       "published": "2026-06-26T09:00:55+00:00",
-      "summary": "“일주일 90분만 해도?”…치매·심장질환 사망 위험 크게 낮춘 근력운동&nbsp;&nbsp;동아일보진짜 장수하는 근력 운동, 많이 할 필요도 없다! 딱 ‘이 정도’&nbsp;&nbsp;GQ Korea\"30분 근력운동의 기적\"…꾸준히 하면 중장년 당뇨 위험 42%↓&nbsp;&nbsp;뉴시스근력운동 꾸준히 하면 제2형 당뇨병 위험 감소…유산소 운동 병행 시 효과 커&nbsp;&nbsp;네이트[숫자로 본 뉴스] 스쿼트·푸시업만 해도 심장병 위험 감소&nbsp;&nbsp;신아일보",
+      "summary": "“일주일 90분만 해도?”…치매·심장질환 사망 위험 크게 낮춘 근력운동&nbsp;&nbsp;동아일보진짜 장수하는 근력 운동, 많이 할 필요도 없다! 딱 ‘이 정도’&nbsp;&nbsp;GQ Korea\"30분 근력운동의 기적\"…꾸준히 하면 중장년 당뇨 위험 42%↓&nbsp;&nbsp;뉴시스“40대부터 꼭 해라”… 물리치료사가 꼽은 ‘노후 대비’ 근력 운동&nbsp;&nbsp;헬스조선중년에 '이 운동' 했더니… 당뇨병 위험 42% '뚝'&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "동아일보",
@@ -163,11 +215,24 @@
       "id": "8239f47fe024",
       "title": "종근당건강 프로메가, 고순도 rTG 오메가3 신제품 듀얼S·트리플S' 선보여",
       "published": "2026-06-26T04:55:54+00:00",
-      "summary": "종근당건강 프로메가, 고순도 rTG 오메가3 신제품 듀얼S·트리플S' 선보여&nbsp;&nbsp;전자신문오메가3, 뇌까지 도달했지만…치매 예방 효과 없었다 [노화설계]&nbsp;&nbsp;v.daum.net오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과&nbsp;&nbsp;하이닥",
+      "summary": "종근당건강 프로메가, 고순도 rTG 오메가3 신제품 듀얼S·트리플S' 선보여&nbsp;&nbsp;전자신문오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SMTV3WllkWEltUXRIMnN4MlBJbzdsNHFoYm5tTzlTTGF5ZXpRbUY4dlFjVHozb3d1N3ctRHlHYTNEY0NidWlJbHVYZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1f686d8974dc",
+      "title": "혈압약 효과 76% 떨어뜨리는 ‘의외의 식품’ [약식궁합]",
+      "published": "2026-06-26T04:30:00+00:00",
+      "summary": "혈압약 효과 76% 떨어뜨리는 ‘의외의 식품’ [약식궁합]&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TYms1ZHNFd1d6NERYMUhuS1VlY0RmcGx4N0tOV1ZaTGNDMXRLcnBhZFZLdHlJREJ4MWlyWVRKZVVUd2VVRlgweGticDN6ZEM2U2lma21Vb2h0WHRVSk5kQkVmTndqQnR0WVhyNUxOdkFsT2xUSHFQUGo2YTdjRjQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -368,19 +433,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1f0f2dff2bc0",
-      "title": "심혈관 건강 안 좋은 임신부, 아이 발달 지연 가능성 높다",
-      "published": "2026-06-25T21:00:00+00:00",
-      "summary": "심혈관 건강 안 좋은 임신부, 아이 발달 지연 가능성 높다&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwaHJhZDRMN0dhaDRmTTFQVFVjMWdjVnNqU1pnelUwMGxBRlZZVWtXNmhTaXFFV3NIYzNLYzlOay05MWJ1cnFyS3pzTXJVdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "415ee2ecc285",
       "title": "필리핀, ASF·구제역 백신 개발 프로그램 착수",
       "published": "2026-06-25T20:05:00+00:00",
@@ -397,7 +449,7 @@
       "id": "7370d8b43716",
       "title": "수면의 질은 치매 위험과 관련이 있는 것으로 여겨집니다",
       "published": "2026-06-25T13:00:00+00:00",
-      "summary": "수면의 질은 치매 위험과 관련이 있는 것으로 여겨집니다&nbsp;&nbsp;Laodong.vn\"약보다 중요하다\" 중년 이후 뇌를 건강하게 만드는 최고의 원칙&nbsp;&nbsp;코메디닷컴",
+      "summary": "수면의 질은 치매 위험과 관련이 있는 것으로 여겨집니다&nbsp;&nbsp;Laodong.vn\"노폐물, 염증 싹 사라진다\"…서울대병원 교수가 '약보다 중요' 강조한 원칙, 뭐야?&nbsp;&nbsp;네이트\"약보다 중요하다\" 중년 이후 뇌를 건강하게 만드는 최고의 원칙&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -441,19 +493,6 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1pvWmE4Z3BzWHg0NXgycWY5OGFCMkgzZFdRZmRBcFhZX1l3QUZ1Zk9WN2JfRzBCSmpNQ3VlR3RrYmIyUTh6MkthNFZ4aHJLdjl2Sm83LWozWjc5OUtEa2k3SlN3djBncEVvZVl1dUZuVTFSOG1aV3dXNG1IYUVLMzVremN4ZHpjeVJzT1k1bHBXZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "df2152b33a79",
-      "title": "“신장암 맞춤형 백신, 항암 면역 반응 확인”",
-      "published": "2026-06-25T05:14:00+00:00",
-      "summary": "“신장암 맞춤형 백신, 항암 면역 반응 확인”&nbsp;&nbsp;현대건강신문",
-      "sources": [
-        {
-          "name": "현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ycGY4NnNwN0FwX2lNNlQweWlld205WnNPcHk0RF9zdkdpSG1oS2tKNmxVVkVsR2RJVmw1X1lsQ1ZjeWJsZHVJQV83ZWtwLUExRFVBcjF3?oc=5"
         }
       ],
       "matched_keywords": []
