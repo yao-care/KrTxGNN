@@ -1,31 +1,43 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-28T04:08:05.688110+00:00",
-  "total_fetched": 56,
-  "unique_count": 56,
-  "health_related_count": 29,
+  "fetched_at": "2026-06-28T08:56:43.459179+00:00",
+  "total_fetched": 53,
+  "unique_count": 53,
+  "health_related_count": 27,
   "news": [
     {
-      "id": "7f3b1c159d03",
-      "title": "“청력 떨어지면 주의해야”...치매 예방에 도움 되는 건강 관리법 - 코메디닷컴",
-      "published": "2026-06-28T01:07:00+00:00",
-      "summary": "“청력 떨어지면 주의해야”...치매 예방에 도움 되는 건강 관리법&nbsp;&nbsp;코메디닷컴\"청력 떨어지면 주의해야\"…치매 예방에 도움 되는 건강 관리법&nbsp;&nbsp;네이트10~30대 ‘젊어 괜찮다’ 방심이 청력 노화 앞당겨 [Health&]&nbsp;&nbsp;미주중앙일보낮엔 귀 어둡고 밤엔 숨 막히면...유럽 연구진, 치매 위험 ‘증폭 효과’ 주목&nbsp;&nbsp;디멘시아뉴스단순한 '난청'으로 여겨졌던 증상이 알츠하이머병의 초기 징후였던 것으로 밝혀졌다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "c39ec21dd1aa",
+      "title": "피임약, 몸에 나쁜 줄만 알았는데… “노년기 뇌가 더 건강할 수도” 왜? - 코메디닷컴",
+      "published": "2026-06-28T07:04:00+00:00",
+      "summary": "피임약, 몸에 나쁜 줄만 알았는데… “노년기 뇌가 더 건강할 수도” 왜?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VbC1zZGs5YThSVDhrdlN3Si01UmQzVTBFeDhhejJUel82LTlwLUJBeDdCVTFyZ2tCY1B5QkpoeEhNQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1hbEpscWUzLXVvRENoSXNoYVlPczhuZ0txeWZjZDhiWTkwWGtmaEdFTFhuOVNpcTdxTXB2cnBZRC1MQQ?oc=5"
         }
       ]
     },
     {
-      "id": "bf226550d4f1",
-      "title": "몸이 마그네슘 흡수를 가장 효과적으로 지원하는 검은콩 물 마시는 시기 - Laodong.vn",
-      "published": "2026-06-28T00:49:36+00:00",
-      "summary": "몸이 마그네슘 흡수를 가장 효과적으로 지원하는 검은콩 물 마시는 시기&nbsp;&nbsp;Laodong.vn",
+      "id": "846dea917cd9",
+      "title": "33세 여성, 5개월 동안 매일 계란만 먹다가 건강검진… 의사 “도대체 뭐 했어요?” 깜짝 - 굿모닝베트남미디어",
+      "published": "2026-06-28T06:14:48+00:00",
+      "summary": "33세 여성, 5개월 동안 매일 계란만 먹다가 건강검진… 의사 “도대체 뭐 했어요?” 깜짝&nbsp;&nbsp;굿모닝베트남미디어“천연 위고비” 다이어터 국민 아침 메뉴 삶은 달걀…사람에 따라 독이 될 수 있다?&nbsp;&nbsp;경향신문",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlpFOElvcnJVc2J0R2JnWlpLWkoydWJBUFE3V0V6TzRaUUJYMVJ4aXk3dTZmTlVGUjIyNl9oUnlZazgzSlJDWUltLVhhSGsyR0d4Y3g1Z0laYTFsRWNnak1QWEZGeUtiQ1QtbmZsZXpTVmpENl9hbzNDYWxvTlFPRzk0eEtaVkU0RS1Tb2R0eVBhV2NWazZNLWdBY3l0YUVWSjRGZ1JkbnFucFNNNnp6Mw?oc=5"
+          "name": "굿모닝베트남미디어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85ckxYMkRhc1doNVA1VFVvT2ZDZXhnR0EtOWZ1YkdRbmxOeEV0RDFSa3hMWG1fQTFhNVBYdVV4dnF0TFNRdF8wT2xtRzVrdWJIN2tuMXV3aVZyNE5DWWpfMnU4cW5nbjZsN2g4V2cyVm4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e45b4e60d9a2",
+      "title": "[건강올레길] 증상 없어도 산부인과 검진이 필요할까? 여성 건강의 숨은 위험 - 스포츠동아",
+      "published": "2026-06-28T04:09:19+00:00",
+      "summary": "[건강올레길] 증상 없어도 산부인과 검진이 필요할까? 여성 건강의 숨은 위험&nbsp;&nbsp;스포츠동아",
+      "sources": [
+        {
+          "name": "스포츠동아",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96bHhnUlNrT1lRQWRFSXpER2Jzb2F0UjlqeDNyM3JSTDlVbVN2eS1yVGJHTk56Uzd0UWdSSzEwQU5XVWVXNkNXOXlOYnlIM1BKNi1EZnYwcnpjLXRDQ2FSTTBHWExvNjFEVXFGbWpwUQ?oc=5"
         }
       ]
     },
@@ -45,7 +57,7 @@
       "id": "45ee4358912c",
       "title": "30대 고혈압·당뇨 ‘전단계’ 동반 시 심근경색·뇌졸중 23%↑ - 병원신문",
       "published": "2026-06-27T23:52:24+00:00",
-      "summary": "30대 고혈압·당뇨 ‘전단계’ 동반 시 심근경색·뇌졸중 23%↑&nbsp;&nbsp;병원신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "30대 고혈압·당뇨 ‘전단계’ 동반 시 심근경색·뇌졸중 23%↑&nbsp;&nbsp;병원신문젊으니까 괜찮다고? 혈압·혈당·콜레스테롤 동시에 올랐다면[헬시타임]&nbsp;&nbsp;서울경제\"30대도 불안해\"…'이것' 전단계시 심혈관 위험↑&nbsp;&nbsp;네이트‘전고혈압·전당뇨·전고지혈증’ 삼재… 30대도 심근경색 위험 2배 ↑&nbsp;&nbsp;헬스조선[Medical Report] 30대 혈관경고등 켜졌다 … 심뇌혈관 위험 높이는 ‘전단계 3종’ 外&nbsp;&nbsp;헬스케어N",
       "sources": [
         {
           "name": "병원신문",
@@ -66,6 +78,18 @@
       ]
     },
     {
+      "id": "e45309747b1e",
+      "title": "\"아직 젊은데 암이라니\"…한국만의 문제가 아니었다[실험노트] - 아시아경제",
+      "published": "2026-06-27T22:44:00+00:00",
+      "summary": "\"아직 젊은데 암이라니\"…한국만의 문제가 아니었다[실험노트]&nbsp;&nbsp;아시아경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzMkdGallsT0dyY3FKTVlReHN1TWtYblBrMWJVZGF5elRqS1FzTXZPRWw1WWNuajJtU2liYWVoSTl1amtESm5ZSkZ6X2xtLTNGbEltSXV0Z01nVmFsemFPRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ed7122af7b65",
       "title": "양치만으론 부족하다면?…잇몸 건강 지키는 ‘젤리 관리법’ - 동아일보",
       "published": "2026-06-27T22:12:59+00:00",
@@ -78,22 +102,10 @@
       ]
     },
     {
-      "id": "24aa8ae100fc",
-      "title": "젊은 층 암 증가…‘생물학적 노화’가 원인일 수도 - 동아일보",
-      "published": "2026-06-27T22:08:04+00:00",
-      "summary": "젊은 층 암 증가…‘생물학적 노화’가 원인일 수도&nbsp;&nbsp;동아일보\"아직 젊은데 암이라니\"…한국만의 문제가 아니었다[실험노트]&nbsp;&nbsp;v.daum.net겉으론 어려 보이는데…밀레니얼 세대, 신체 내부 더 빨리 늙는다&nbsp;&nbsp;세계일보‘동안’ 유독 많다는 이 세대…“사실 몸 속 노화는 더 빨라” 연구결과 나왔다 [헬시타임]&nbsp;&nbsp;서울경제왜 점점 더 많은 젊은이들이 암에 걸리는 걸까요? 새로운 연구 결과가 그 이유를 밝혀냈습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtRWU1S1h5b2gtOURDM3NSZDdXNEpPcXo3ZmlPWmRIM01RM1dscERkZERONndwV3FMbEMxbDc5ellhcUpHak1ES2hueFUtTXQ1QU1xV0pYaUJIcExCdTJyZ0hqVDF0Rm5jUGsyMEM4dWxRUnVfQkHSAWZBVV95cUxNRUd0UGs4dWpvLVJGd1djRWVnVE00MU9uX2hWa1A3MlFzV1NrM1hRY0x4aTdVamhmWlVSdkZ5Ull0bGU3aU82WmhjTS1QZUlOU0VlSjZ3LWlSeU1VTUE5RlNZQW81emc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "792c59195567",
       "title": "‘하루 달걀 한 개’… 치매 위험 최대 27% 낮춘다 - 주간경향",
       "published": "2026-06-27T21:00:00+00:00",
-      "summary": "‘하루 달걀 한 개’… 치매 위험 최대 27% 낮춘다&nbsp;&nbsp;주간경향치매 걱정되면 '이 음식' 드세요…이미 뇌 변화 됐어도 효과 있다&nbsp;&nbsp;v.daum.net치매 고위험군 노인, 채소·생선 등 '항염증 식단' 먹으면 치매 위험 30%↓&nbsp;&nbsp;newsis.com[건강포커스] \"염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰\"&nbsp;&nbsp;연합뉴스치매 가족력 있어도… 위험 뚝 떨어뜨리는 ‘식사법’ 있다&nbsp;&nbsp;헬스조선",
+      "summary": "‘하루 달걀 한 개’… 치매 위험 최대 27% 낮춘다&nbsp;&nbsp;주간경향치매 고위험군 노인, 채소·생선 등 '항염증 식단' 먹으면 치매 위험 30%↓&nbsp;&nbsp;뉴시스치매 걱정되면 '이 음식' 드세요…이미 뇌 변화 됐어도 효과 있다&nbsp;&nbsp;v.daum.net[건강포커스] \"염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰\"&nbsp;&nbsp;연합뉴스치매 가족력 있어도… 위험 뚝 떨어뜨리는 ‘식사법’ 있다&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "주간경향",
@@ -117,7 +129,7 @@
       "id": "a338916896bb",
       "title": "술 마시면 얼굴 빨개지는 사람, 치매 조심해야 - 헬스조선",
       "published": "2026-06-27T14:01:00+00:00",
-      "summary": "술 마시면 얼굴 빨개지는 사람, 치매 조심해야&nbsp;&nbsp;헬스조선뇌가 썩어가는 공포 일주일 소주 한 병?&nbsp;&nbsp;브런치술 마시고 넘어진 날 역대급 대참사&nbsp;&nbsp;브런치",
+      "summary": "술 마시면 얼굴 빨개지는 사람, 치매 조심해야&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "헬스조선",
@@ -146,6 +158,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdXE1Q2p4RzBIaEluOXg1ZjVfZkxCbEdiMmRpTEVTTEp0eTA1b1gwdHJPMGR5VGxCTTdqSDRGdXR4dXRQWjAyclR0b0tIX3M2MkUteE5sUUJTMjdPc3l2S3oyYzI0U0FTVElZQllUaWtINE14ZFZGUzlXbEVNOXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cec6381cce79",
+      "title": "매일 하는 양치질로 ‘뇌 기능’ 끌어올리는 간단 비법 - 헬스조선",
+      "published": "2026-06-27T10:02:00+00:00",
+      "summary": "매일 하는 양치질로 ‘뇌 기능’ 끌어올리는 간단 비법&nbsp;&nbsp;헬스조선[횡설수설/우경임]‘젊은 치매’&nbsp;&nbsp;동아일보흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법&nbsp;&nbsp;하이닥“단순 건망증일까?” 뇌 속의 독소, PET-CT 치매검사로 골든타임 잡다&nbsp;&nbsp;바이오타임즈치매 걱정될 때, 하루 10초 ‘새끼손가락 운동’을… 방법은?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d0R1Y1dqbmwzZE1HZzNRcUVOMEdOTWJMY3FPc2MyTXBnVXRwRXBoTFVFcS1BM1hmLW5FNmE1ZG01WFpQdlR5aFBTWFFNU09GSlQwaUg1TXQycFMxTmFRY0NaUEFLN21RQWJjMHlWZFFRYTVXWHlGbFl2WHdQZEU?oc=5"
         }
       ]
     },
@@ -198,18 +222,6 @@
       ]
     },
     {
-      "id": "9aad26c50f27",
-      "title": "장 건강에 좋은 음식 5가지… \"변비 개선에 도움\" - 하이닥",
-      "published": "2026-06-27T03:30:00+00:00",
-      "summary": "장 건강에 좋은 음식 5가지… \"변비 개선에 도움\"&nbsp;&nbsp;하이닥‘식이섬유’ 한가득…장 건강·포만감 동시에 챙기는 슈퍼푸드 5&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhZVh2WkpkQ21EakdaanZpXzVvZnFILTBkSUhhbjlPTzB0Qk40VnNaUy04cjMwcjl4SE9VLW1Cb3JNdkdOVElNMFpKLUhDTVF3TW9BWTJTWG93d1VfWUE1a2phZEJVSHlLdlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d4703c43b782",
       "title": "호두 vs 아몬드, 뇌 건강에 더 좋은 견과류는? - 하이닥",
       "published": "2026-06-26T22:30:00+00:00",
@@ -218,18 +230,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sYkJXdW5qSEVIeEQ5aWZkdG1NRDh4SUpNUWhNTjkxSDNvMzdHM01qZ2ptQXVwdnd1TTUtOFp5akJ2VVVJOWk5d014NHdUdW0tVk5SMUwzTDZndG9sdzdHTldiZVNrNHI3UUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a2f194d70104",
-      "title": "중년 후 1년 새 체중 무섭게 불었다면…에너지 대사 균형 확인하세요 [이지현의 생생헬스] - 한국경제",
-      "published": "2026-06-26T21:00:01+00:00",
-      "summary": "중년 후 1년 새 체중 무섭게 불었다면…에너지 대사 균형 확인하세요 [이지현의 생생헬스]&nbsp;&nbsp;한국경제“볼록 나온 남성 뱃살, ‘이 상태’면 정말 심각”… 의사가 경고한 위험한 배 특징은?&nbsp;&nbsp;코메디닷컴\"똑같이 먹는데 왜 배만 나올까?\"…비만 전문의가 꼽은 원인 3가지&nbsp;&nbsp;newsis.com",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FRHZ6LTlVdDJYMWVjZ2dsMWk5ay1jZ0l0VHh4cDBNU3ZuTzI1bUZTTWNPMVNSUTNuYS01c3lZTU5EUVd5azN5bHRIMXVCQndIaml5UlE1UWMyUdIBVEFVX3lxTFBZMUtRWVRtdmtvazJFaFVBQ3IxYnRDdERnaTU2cnJLbElMSzlIeDktcG1WUzV6eHlJRXJZYUN5S3BLYXkxR2Q4QVROX0ZTV3FZaVVuUg?oc=5"
         }
       ]
     },
@@ -261,7 +261,7 @@
       "id": "16e499116278",
       "title": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은? - 하이닥",
       "published": "2026-06-26T12:00:00+00:00",
-      "summary": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?&nbsp;&nbsp;하이닥“간 망친다며 아메리카노 끊더니”…정작 간 해치는 습관은 그대로였다&nbsp;&nbsp;v.daum.net건강에 좋대서 영양제 다 챙겨 먹었는데…\"간 박살난다\" 의사 경고&nbsp;&nbsp;아시아경제'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'&nbsp;&nbsp;이데일리[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까&nbsp;&nbsp;bntnews.co.kr",
+      "summary": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?&nbsp;&nbsp;하이닥[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까&nbsp;&nbsp;v.daum.net'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'&nbsp;&nbsp;이데일리“간 망친다며 아메리카노 끊더니”…정작 간 해치는 습관은 그대로였다&nbsp;&nbsp;세계일보“간 딱딱해진다” 아이도 어른도 ‘지방간’ 피하려면 줄여야 할 음식&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "하이닥",
@@ -294,14 +294,14 @@
       ]
     },
     {
-      "id": "daa83ef60210",
-      "title": "비만대사수술 후 술 한 잔이 두 잔 된다?…더 빨리 취하는 이유 - 코메디닷컴",
-      "published": "2026-06-26T07:22:00+00:00",
-      "summary": "비만대사수술 후 술 한 잔이 두 잔 된다?…더 빨리 취하는 이유&nbsp;&nbsp;코메디닷컴",
+      "id": "c6c345b63bcf",
+      "title": "우주여행 예약만 650여명…\"수년 내 궤도 호텔, 달 여행상품 등장\" - v.daum.net",
+      "published": "2026-06-26T08:48:06+00:00",
+      "summary": "우주여행 예약만 650여명…\"수년 내 궤도 호텔, 달 여행상품 등장\"&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1Bdk43RVlzci1WZFI5ZzBta3l6NXJyTF9DLWNXM0Q5UVk4OTd4WHJkbFpTRThWdDRhUUtJdGJvRGVFZw?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vYWdMSFJITUhDMjFqbHpjcEdJUngtSk5YbVJPdFRpVmk2ajFpVlN5M2luZm9xOWFJSHVOcEgwb0h0UkktWnQ2dnZoTFF4YXc?oc=5"
         }
       ]
     },
@@ -314,30 +314,6 @@
         {
           "name": "머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yRFRQQ0E1OENURERDTTE1ZU9Fa1Bid3pWRlgtX0NHMUkxNWNfWFc3VWtzaDgtSlhyZnVETVBBNFFUc1pZTUNUdEg2RWpwS0RQZkx4d2hMZVVDWTBJMk9GRDRTT0xVY2_SAWxBVV95cUxPMlhBcEFFN1o2aTFyOGp1ZU9mdkN3Z29RN0MxTHhwT1FKLWlWcmJna3lUUzdjVTI2alNSVUI0RzdzLWtVM0l0S3RDeHZfVGhLVG9hWUx2WXU2Qk9SdEFFVmktSlZESTdfWFpvUHg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8239f47fe024",
-      "title": "종근당건강 프로메가, 고순도 rTG 오메가3 신제품 듀얼S·트리플S' 선보여 - 전자신문",
-      "published": "2026-06-26T04:55:54+00:00",
-      "summary": "종근당건강 프로메가, 고순도 rTG 오메가3 신제품 듀얼S·트리플S' 선보여&nbsp;&nbsp;전자신문오메가3 열심히 먹어도 치매 못 막는다?...美 2년 추적 결과&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SMTV3WllkWEltUXRIMnN4MlBJbzdsNHFoYm5tTzlTTGF5ZXpRbUY4dlFjVHozb3d1N3ctRHlHYTNEY0NidWlJbHVYZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "647955c550ee",
-      "title": "[더벨]크레오에스지, 메르스 백신 캐나다 특허 취득 - supple.kr",
-      "published": "2026-06-26T04:25:31+00:00",
-      "summary": "[더벨]크레오에스지, 메르스 백신 캐나다 특허 취득&nbsp;&nbsp;supple.kr",
-      "sources": [
-        {
-          "name": "supple.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNUVoxbDEzRHZlYVpMXzd2UUZQcDRmcU16ZFhxeXRhdzlyZ21lbjVWLTExajZzN25Qc1dpNFNCNU5vd2RWMXQwRHpub3haSnp5Rk1GY05XdXFnVV9P?oc=5"
         }
       ]
     },
