@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-06-28T13:53:29.792143+00:00",
+  "last_updated": "2026-06-28T19:25:07.427179+00:00",
   "total_count": 27,
   "matched_count": 0,
   "news": [
+    {
+      "id": "2d1fd0b27d4a",
+      "title": "롱비치서 올여름 첫 웨스트나일 바이러스 환자 발생",
+      "published": "2026-06-28T17:36:00+00:00",
+      "summary": "롱비치서 올여름 첫 웨스트나일 바이러스 환자 발생&nbsp;&nbsp;RadioKorea",
+      "sources": [
+        {
+          "name": "RadioKorea",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rZlR6MTJPSGhWREF0aHhHbE9CWFA4eGRYT3JOYm5VYTY0X2JrUG5MM2VnOHpwNGZFNzBZTzVibWg3MDlvei01RVNUUElFUjdJV2JOSnhzTi13a2VSUjFCNW83NlY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "13f0f3b6915f",
       "title": "산모 심혈관 건강, 자녀 발달에 영향…위험 최대 62% 차이",
@@ -12,6 +25,19 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUmRuZDEzT1h3YmhPdzR1eTRHYzBfSTNDa09mR29BV29ITkstSkFRc0sycTRUZDZtMkk2a3lVUnhlcFFTN3JCXzNNN2gwbVVxNFlJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3f68fce9ff85",
+      "title": "지방간 위험을 줄이기 위해 제한해야 할 4가지 식품",
+      "published": "2026-06-28T12:00:00+00:00",
+      "summary": "지방간 위험을 줄이기 위해 제한해야 할 4가지 식품&nbsp;&nbsp;Laodong.vn지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?&nbsp;&nbsp;하이닥[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까&nbsp;&nbsp;v.daum.net'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'&nbsp;&nbsp;이데일리지방간 없애는 생활습관, 일상 속 작은 변화가 간 건강을 바꾼다&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQWdueV9HRjB5R2trd1Y5UE80UTItSzV1Qjd2a3pBMHZXMjg5SkJNa1JVVG1NaGMtQ0VyU2hjUU44THVCOE8tWFduOUtYdE1OOGtjNDMzOWhVQ0tzOWpaTUxKaG9fd01TNUJlc0t5X05qTWxLRDNrQXYtdW9lQkFGSWQ0YXFQUFlNQjBpUFp1RXd5NEJfYnJiQXNn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -56,6 +82,19 @@
       "matched_keywords": []
     },
     {
+      "id": "0d6b8c485a8f",
+      "title": "“1주에 90분만 해도”…치매·심장질환 사망 위험 낮추는 근력운동",
+      "published": "2026-06-28T10:00:00+00:00",
+      "summary": "“1주에 90분만 해도”…치매·심장질환 사망 위험 낮추는 근력운동&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PLUxPNk1uUVlUcms4ZEFUWVNhT19wdkVxa0g2RzBITW9rbHZONVRVazd3OENBcXVaTVpVM1JaTUJtWVg1UlVWVUdMT3E0cnEzWk02aUI3d0ZxREptb2VmT1JYUlh2V0dGbjhOQ1lVa9IBZkFVX3lxTFBjQTZCNzhCbFNYbEFwUS1BUUNFUTl1ZDlLMkh0M2ZWaHZ4Q3Fmd1ZIYmhWdHl2bjdjd3VyMGQzZnlGS2k0cjNuLVB0cUJBa21sSUFGaGxCcGc0eGlmaG5vQXFzRFJrZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "3552131eaab6",
       "title": "알츠하이머병 진행 위험, 6단계로 예측하는 기준 마련",
       "published": "2026-06-28T07:32:09+00:00",
@@ -90,19 +129,6 @@
         {
           "name": "굿모닝베트남미디어",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85ckxYMkRhc1doNVA1VFVvT2ZDZXhnR0EtOWZ1YkdRbmxOeEV0RDFSa3hMWG1fQTFhNVBYdVV4dnF0TFNRdF8wT2xtRzVrdWJIN2tuMXV3aVZyNE5DWWpfMnU4cW5nbjZsN2g4V2cyVm4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e45b4e60d9a2",
-      "title": "[건강올레길] 증상 없어도 산부인과 검진이 필요할까? 여성 건강의 숨은 위험",
-      "published": "2026-06-28T04:09:19+00:00",
-      "summary": "[건강올레길] 증상 없어도 산부인과 검진이 필요할까? 여성 건강의 숨은 위험&nbsp;&nbsp;스포츠동아",
-      "sources": [
-        {
-          "name": "스포츠동아",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96bHhnUlNrT1lRQWRFSXpER2Jzb2F0UjlqeDNyM3JSTDlVbVN2eS1yVGJHTk56Uzd0UWdSSzEwQU5XVWVXNkNXOXlOYnlIM1BKNi1EZnYwcnpjLXRDQ2FSTTBHWExvNjFEVXFGbWpwUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -199,19 +225,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c650cbd7741e",
-      "title": "뛰는 것보다 더 센 운동…50대 건강까지 챙기는 '이 동작' 5가지",
-      "published": "2026-06-27T13:25:00+00:00",
-      "summary": "뛰는 것보다 더 센 운동…50대 건강까지 챙기는 '이 동작' 5가지&nbsp;&nbsp;조선일보“1주에 90분만 해도”…치매·심장질환 사망 위험 낮추는 근력운동&nbsp;&nbsp;v.daum.net진짜 장수하는 근력 운동, 많이 할 필요도 없다! 딱 ‘이 정도’&nbsp;&nbsp;GQ Korea[숫자로 본 뉴스] 스쿼트·푸시업만 해도 심장병 위험 감소&nbsp;&nbsp;신아일보중년에 '이 운동' 했더니… 당뇨병 위험 42% '뚝'&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oMjZnYUFZa20xZG1yX0JFa1VyUGNZYmpsY0V1UGtFUnR6clFNdmdDTkJxN2NZc2ROTXRRVTFQVnhmVkNPd25ucER2WDlQSG9KSktXT3NkcVVha2p2czI0NC1yX1F2a2htOFHSAW5BVV95cUxQRUxxVlEtVXFFbzFBODEtNlZPcU9pc2p6YlNiOTRfajJRYzhkMmNhSWQ5VG9JbngwVWNHSkxZVnJsMWtXN1UzQXRkMi0xNG9RandrMHRqYUVCbUpHbXFWWmp2cG9rTmdTcnl6dHFSZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d29413edbfb3",
       "title": "남성호르몬 적은 남자들, 암 사망 위험 높다",
       "published": "2026-06-27T11:00:00+00:00",
@@ -220,6 +233,19 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdXE1Q2p4RzBIaEluOXg1ZjVfZkxCbEdiMmRpTEVTTEp0eTA1b1gwdHJPMGR5VGxCTTdqSDRGdXR4dXRQWjAyclR0b0tIX3M2MkUteE5sUUJTMjdPc3l2S3oyYzI0U0FTVElZQllUaWtINE14ZFZGUzlXbEVNOXM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cec6381cce79",
+      "title": "매일 하는 양치질로 ‘뇌 기능’ 끌어올리는 간단 비법",
+      "published": "2026-06-27T10:02:00+00:00",
+      "summary": "매일 하는 양치질로 ‘뇌 기능’ 끌어올리는 간단 비법&nbsp;&nbsp;헬스조선\"청력 떨어지면 주의해야\"…치매 예방에 도움 되는 건강 관리법&nbsp;&nbsp;네이트\"양치할 때 반대손 써보세요\"…치매 예방에 도움?&nbsp;&nbsp;sportschosun.com\"손가락 10초 까닥했는데 '치매 예방'\"⋯어떻게 하는 건데?&nbsp;&nbsp;v.daum.net흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d0R1Y1dqbmwzZE1HZzNRcUVOMEdOTWJMY3FPc2MyTXBnVXRwRXBoTFVFcS1BM1hmLW5FNmE1ZG01WFpQdlR5aFBTWFFNU09GSlQwaUg1TXQycFMxTmFRY0NaUEFLN21RQWJjMHlWZFFRYTVXWHlGbFl2WHdQZEU?oc=5"
         }
       ],
       "matched_keywords": []
@@ -277,19 +303,6 @@
       "matched_keywords": []
     },
     {
-      "id": "8db9015177d5",
-      "title": "흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법",
-      "published": "2026-06-26T23:00:00+00:00",
-      "summary": "흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법&nbsp;&nbsp;하이닥매일 하는 양치질로 ‘뇌 기능’ 끌어올리는 간단 비법&nbsp;&nbsp;헬스조선\"청력 떨어지면 주의해야\"…치매 예방에 도움 되는 건강 관리법&nbsp;&nbsp;네이트\"양치할 때 반대손 써보세요\"…치매 예방에 도움?&nbsp;&nbsp;sportschosun.com\"손가락 10초 까닥했는데 '치매 예방'\"⋯어떻게 하는 건데?&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pTGtKaVVKNkVOMHVaQlNSalpRTjUtekk2YkY1TWRqenlkb3duUXRyOThJYzBjY0pyLVQxZDVTc00xOGVBc3dJN2w4a0VQN2tyNk1vVnJJanhURU9sZUtDMnlscUhRM2xIT1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d4703c43b782",
       "title": "호두 vs 아몬드, 뇌 건강에 더 좋은 견과류는?",
       "published": "2026-06-26T22:30:00+00:00",
@@ -311,19 +324,6 @@
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16NjUtbEtESXhpSlRuS1VyUmxvQVhESGQ4V2c1b2NDbkZ5aDRKb3Q5bGEycEc4ckV6N1J1cUxKT05Ed3BhcXlyMFZUenp4eW5NUmZNR2FoMTFOWHRvenB2QUE0eTQxaFp5QVBDWg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e0c941fb438a",
-      "title": "“샌드위치 먹고 헤르페스 감염”… CCTV로 확인된 직원의 ‘충격적 행동’",
-      "published": "2026-06-26T18:30:00+00:00",
-      "summary": "“샌드위치 먹고 헤르페스 감염”… CCTV로 확인된 직원의 ‘충격적 행동’&nbsp;&nbsp;헬스조선\"점원이 음식에 침 퉤퉤\"…헤르페스 걸린 고객, 패스트푸드점에 배상 소송&nbsp;&nbsp;v.daum.net샌드위치에 침 뱉은 직원…손님 \"헤르페스 바이러스 감염\" 소송전&nbsp;&nbsp;아시아경제“헤르페스 걸린 직원이 내 샌드위치에 침 뱉어”…미국서 프랜차이즈 상대 소송전&nbsp;&nbsp;문화일보“샌드위치 먹고 나서 바이러스 감염”…CCTV 보니 직원이 침 뱉었다&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvLWMzN3ZWRXVUSzhhTUJTN0FiTUhJOWk0Z0NocGg5MXk3QmhwdWRPQTFsZ1ZHQnU3b1VWTUVfUUZ0c0xsZmFzdzF2bUV0c2llMlhFaTRuNF90VEg5bkIxRXg5OVluZDVXOXRfUTNPQk1EWVVRaUJITDRjcENsMEU?oc=5"
         }
       ],
       "matched_keywords": []
