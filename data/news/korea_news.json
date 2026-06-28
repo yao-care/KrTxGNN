@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-06-28T08:56:43.459179+00:00",
-  "total_fetched": 53,
-  "unique_count": 53,
+  "fetched_at": "2026-06-28T13:53:29.696655+00:00",
+  "total_fetched": 52,
+  "unique_count": 52,
   "health_related_count": 27,
   "news": [
+    {
+      "id": "13f0f3b6915f",
+      "title": "산모 심혈관 건강, 자녀 발달에 영향…위험 최대 62% 차이 - 네이트",
+      "published": "2026-06-28T13:00:00+00:00",
+      "summary": "산모 심혈관 건강, 자녀 발달에 영향…위험 최대 62% 차이&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUmRuZDEzT1h3YmhPdzR1eTRHYzBfSTNDa09mR29BV29ITkstSkFRc0sycTRUZDZtMkk2a3lVUnhlcFFTN3JCXzNNN2gwbVVxNFlJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "267ab8654fa0",
+      "title": "[신경과학 저널클럽]지표 개선은 딱히, 근데 건강하게 늙네…신비한 ‘시간제한 식사’ - 경향신문",
+      "published": "2026-06-28T11:34:00+00:00",
+      "summary": "[신경과학 저널클럽]지표 개선은 딱히, 근데 건강하게 늙네…신비한 ‘시간제한 식사’&nbsp;&nbsp;경향신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tbE9Ra082Q1VkRDBPeXJMQ05CWUN0RExuUXlDa1FGSnZ5TzAzQWplT3VDQm16bEhEQjVXLXJiLWJNWVpqR3o5YVNFUFhIVXdMWi12S1BYdWZTUdIBX0FVX3lxTE5wUmdDclJHRmlrVDZlS0FaZThQZVlEZ0pPTkRweVVCWHo0amZlQnFCUjhrV1JtdzN0REEwX3dCOE5FcHpjS0xaeXlCamV1R2xhd3dPbzlwaXdBdnZYX3Mw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0cc39f65f2c4",
+      "title": "염증을 다스리는 사람이 더 오래 건강하게 산다 - hidomin.com",
+      "published": "2026-06-28T11:04:41+00:00",
+      "summary": "염증을 다스리는 사람이 더 오래 건강하게 산다&nbsp;&nbsp;hidomin.com“염증 크게 감소”…50세에 꼭 먹는 것 vs 줄여야 할 음식은?&nbsp;&nbsp;코메디닷컴핫도그 속 소시지가 수명 단축?... 장수하려면 줄여야 할 음식 6가지&nbsp;&nbsp;하이닥\"염증 줄이고 노화 늦춘다\"…여름에 꼭 챙겨야 할 보라색 식품 7가지&nbsp;&nbsp;네이트몸속 염증 경로 차단하는 독보적 효능의 ‘이 식재료’&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iUUdPQWhacHRqMzdydG1xNVRFNDJxbWFOZjY0ZjBVMjhLd0NQUVFjMk5lNWtWQTE2RTVxaXdzbkdWcXdlRDVzbzg3OGtURXM3eS1CcHJiRkRoQllMVk96NG1uOFl0bXhSS2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a73f58addd0",
+      "title": "“염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰” - 데일리메디",
+      "published": "2026-06-28T10:45:00+00:00",
+      "summary": "“염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰”&nbsp;&nbsp;데일리메디‘하루 달걀 한 개’… 치매 위험 최대 27% 낮춘다&nbsp;&nbsp;주간경향치매 고위험군 노인, 채소·생선 등 '항염증 식단' 먹으면 치매 위험 30%↓&nbsp;&nbsp;뉴시스치매 걱정되면 '이 음식' 드세요…이미 뇌 변화 됐어도 효과 있다&nbsp;&nbsp;v.daum.net[건강포커스] \"염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰\"&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JbnRjLVRveTNrbFJmRkR6czRPb2dycFNjUHZXcFhqd1htcGlRQ01vZnNJemhMMktfclBUYjBhOEpDb0R4VGJfMjA2NHBaR2xPZjA3VEl4OU5QblJ5YTQzNXgzUGxaTlNNM1NKcURGSmtDVU9w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3552131eaab6",
+      "title": "알츠하이머병 진행 위험, 6단계로 예측하는 기준 마련 - dg1news.com",
+      "published": "2026-06-28T07:32:09+00:00",
+      "summary": "알츠하이머병 진행 위험, 6단계로 예측하는 기준 마련&nbsp;&nbsp;dg1news.com발전하는 치매 조기진단 기술…치료보다 더 큰 ‘돌봄 공백’&nbsp;&nbsp;아시아투데이[오늘의 시니어 트렌드 분석] 2026년 6월 23일(화)&nbsp;&nbsp;캐어유 뉴스[뉴컬건강] 기억력 멀쩡해도 안심 못해…알츠하이머 위험 예측하는 ‘6단계’&nbsp;&nbsp;뉴스컬처[현장] “치매 진단보다 중요한 건 그 이후”…임상·돌봄·약물 한자리에 모인 실무 교육&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "dg1news.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZM2JJOF93b0djb0ZqcjUtU2ZJLVlYZ1QzLUotcE4ySDdhODg4bU9SSGZRSmkwUndTRnVCQksyNkFCaXJLcjZXa3E4SXBmZXpFRWc4aEZwVEdqcnpUck83dzczVFdSMGc30gFsQVVfeXFMUFRfakh3SG1kM0U0bjgzT2pNNEN4OUJiMUJKd3ZZNU1qNXJZZWdxR2luR3lUdTRyMkdfa1NzMDZ0WDVUVnh6aGhOXzJzQkV4RnBycnV4bUhfc2VoWXJVSnZvV3RwQWZsWHdpelM0?oc=5"
+        }
+      ]
+    },
     {
       "id": "c39ec21dd1aa",
       "title": "피임약, 몸에 나쁜 줄만 알았는데… “노년기 뇌가 더 건강할 수도” 왜? - 코메디닷컴",
@@ -21,7 +81,7 @@
       "id": "846dea917cd9",
       "title": "33세 여성, 5개월 동안 매일 계란만 먹다가 건강검진… 의사 “도대체 뭐 했어요?” 깜짝 - 굿모닝베트남미디어",
       "published": "2026-06-28T06:14:48+00:00",
-      "summary": "33세 여성, 5개월 동안 매일 계란만 먹다가 건강검진… 의사 “도대체 뭐 했어요?” 깜짝&nbsp;&nbsp;굿모닝베트남미디어“천연 위고비” 다이어터 국민 아침 메뉴 삶은 달걀…사람에 따라 독이 될 수 있다?&nbsp;&nbsp;경향신문",
+      "summary": "33세 여성, 5개월 동안 매일 계란만 먹다가 건강검진… 의사 “도대체 뭐 했어요?” 깜짝&nbsp;&nbsp;굿모닝베트남미디어“천연 위고비” 다이어터 국민 아침 메뉴 삶은 달걀…사람에 따라 독이 될 수 있다?&nbsp;&nbsp;경향신문달걀 섭취 오류, 중국 의사가 경고하는 건강 위험&nbsp;&nbsp;씬짜오베트남삶은 달걀=천연 위고비?…전문가 \"이런 사람에겐 독\"&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "굿모닝베트남미디어",
@@ -102,18 +162,6 @@
       ]
     },
     {
-      "id": "792c59195567",
-      "title": "‘하루 달걀 한 개’… 치매 위험 최대 27% 낮춘다 - 주간경향",
-      "published": "2026-06-27T21:00:00+00:00",
-      "summary": "‘하루 달걀 한 개’… 치매 위험 최대 27% 낮춘다&nbsp;&nbsp;주간경향치매 고위험군 노인, 채소·생선 등 '항염증 식단' 먹으면 치매 위험 30%↓&nbsp;&nbsp;뉴시스치매 걱정되면 '이 음식' 드세요…이미 뇌 변화 됐어도 효과 있다&nbsp;&nbsp;v.daum.net[건강포커스] \"염증 유발 적은 식단, 치매 고위험 고령자 발병 위험 낮춰\"&nbsp;&nbsp;연합뉴스치매 가족력 있어도… 위험 뚝 떨어뜨리는 ‘식사법’ 있다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "주간경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vTXJOWTVDU2JzdUR1TWtRSHZlVDFCTzEzOXNGRklVaXNKdndCN3B5LU5DRFl4MW8tU0k3ZjAwRlhBdXBXX0prb1pPNjVJQ3FCR0lHenFuY1V0cXdZTGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "200e235cb96d",
       "title": "“혜리도 입 벌리고 자네”… 턱 모양 바꾸는 구강호흡의 위험성 - 헬스조선",
       "published": "2026-06-27T17:00:00+00:00",
@@ -129,7 +177,7 @@
       "id": "a338916896bb",
       "title": "술 마시면 얼굴 빨개지는 사람, 치매 조심해야 - 헬스조선",
       "published": "2026-06-27T14:01:00+00:00",
-      "summary": "술 마시면 얼굴 빨개지는 사람, 치매 조심해야&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "술 마시면 얼굴 빨개지는 사람, 치매 조심해야&nbsp;&nbsp;헬스조선뇌가 썩어가는 공포 일주일 소주 한 병?&nbsp;&nbsp;브런치술 마시고 넘어진 날 역대급 대참사&nbsp;&nbsp;브런치",
       "sources": [
         {
           "name": "헬스조선",
@@ -141,7 +189,7 @@
       "id": "c650cbd7741e",
       "title": "뛰는 것보다 더 센 운동…50대 건강까지 챙기는 '이 동작' 5가지 - 조선일보",
       "published": "2026-06-27T13:25:00+00:00",
-      "summary": "뛰는 것보다 더 센 운동…50대 건강까지 챙기는 '이 동작' 5가지&nbsp;&nbsp;조선일보진짜 장수하는 근력 운동, 많이 할 필요도 없다! 딱 ‘이 정도’&nbsp;&nbsp;GQ Korea오래 살고 싶다면 유산소만 하지 마라…주 90분 근력운동의 힘 [노화설계]&nbsp;&nbsp;동아일보\"일주일에 90분만으로도\"…치매·사망 위험 크게 낮추는 근력 운동&nbsp;&nbsp;세계일보[숫자로 본 뉴스] 스쿼트·푸시업만 해도 심장병 위험 감소&nbsp;&nbsp;신아일보",
+      "summary": "뛰는 것보다 더 센 운동…50대 건강까지 챙기는 '이 동작' 5가지&nbsp;&nbsp;조선일보“1주에 90분만 해도”…치매·심장질환 사망 위험 낮추는 근력운동&nbsp;&nbsp;v.daum.net진짜 장수하는 근력 운동, 많이 할 필요도 없다! 딱 ‘이 정도’&nbsp;&nbsp;GQ Korea[숫자로 본 뉴스] 스쿼트·푸시업만 해도 심장병 위험 감소&nbsp;&nbsp;신아일보중년에 '이 운동' 했더니… 당뇨병 위험 42% '뚝'&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "조선일보",
@@ -158,18 +206,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jdXE1Q2p4RzBIaEluOXg1ZjVfZkxCbEdiMmRpTEVTTEp0eTA1b1gwdHJPMGR5VGxCTTdqSDRGdXR4dXRQWjAyclR0b0tIX3M2MkUteE5sUUJTMjdPc3l2S3oyYzI0U0FTVElZQllUaWtINE14ZFZGUzlXbEVNOXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cec6381cce79",
-      "title": "매일 하는 양치질로 ‘뇌 기능’ 끌어올리는 간단 비법 - 헬스조선",
-      "published": "2026-06-27T10:02:00+00:00",
-      "summary": "매일 하는 양치질로 ‘뇌 기능’ 끌어올리는 간단 비법&nbsp;&nbsp;헬스조선[횡설수설/우경임]‘젊은 치매’&nbsp;&nbsp;동아일보흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법&nbsp;&nbsp;하이닥“단순 건망증일까?” 뇌 속의 독소, PET-CT 치매검사로 골든타임 잡다&nbsp;&nbsp;바이오타임즈치매 걱정될 때, 하루 10초 ‘새끼손가락 운동’을… 방법은?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84d0R1Y1dqbmwzZE1HZzNRcUVOMEdOTWJMY3FPc2MyTXBnVXRwRXBoTFVFcS1BM1hmLW5FNmE1ZG01WFpQdlR5aFBTWFFNU09GSlQwaUg1TXQycFMxTmFRY0NaUEFLN21RQWJjMHlWZFFRYTVXWHlGbFl2WHdQZEU?oc=5"
         }
       ]
     },
@@ -201,7 +237,7 @@
       "id": "eb75cc9f1bec",
       "title": "밤 8시 이후 강한 빛 노출, 황반변성·녹내장 위험 높인다 - 네이트",
       "published": "2026-06-27T05:27:00+00:00",
-      "summary": "밤 8시 이후 강한 빛 노출, 황반변성·녹내장 위험 높인다&nbsp;&nbsp;네이트저녁 밝은 조명, 황반변성·녹내장 위험 높인다&nbsp;&nbsp;헬스조선실내 생활이 치매 부른다? \"낮 시간 밝은 빛 노출, 치매위험 최대 38% 감소\"&nbsp;&nbsp;sportschosun.com\"같은 조명인데 왜 밤이 더 위험할까?\" 황반변성 위험 31% 높았다&nbsp;&nbsp;약사공론치매 위험 16% 뚝… 낮에 ‘밝은 빛’을 봐야 할 이유&nbsp;&nbsp;헬스조선",
+      "summary": "밤 8시 이후 강한 빛 노출, 황반변성·녹내장 위험 높인다&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "네이트",
@@ -218,6 +254,18 @@
         {
           "name": "센머니",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DVnctNktuMmV2SHMwRFF1T2RhZkJnR3Ywd2RKTWVIaDRpajB3SHg4UXBLNDVoN3pQak9pRWdxYUx0cFZ1dnpZTDQ0THQ1eEVKemo2UFdLbENMSHRHNXpWUWl1dS1XQkx6VlVfYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8db9015177d5",
+      "title": "흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법 - 하이닥",
+      "published": "2026-06-26T23:00:00+00:00",
+      "summary": "흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법&nbsp;&nbsp;하이닥매일 하는 양치질로 ‘뇌 기능’ 끌어올리는 간단 비법&nbsp;&nbsp;헬스조선\"청력 떨어지면 주의해야\"…치매 예방에 도움 되는 건강 관리법&nbsp;&nbsp;네이트\"양치할 때 반대손 써보세요\"…치매 예방에 도움?&nbsp;&nbsp;sportschosun.com\"손가락 10초 까닥했는데 '치매 예방'\"⋯어떻게 하는 건데?&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pTGtKaVVKNkVOMHVaQlNSalpRTjUtekk2YkY1TWRqenlkb3duUXRyOThJYzBjY0pyLVQxZDVTc00xOGVBc3dJN2w4a0VQN2tyNk1vVnJJanhURU9sZUtDMnlscUhRM2xIT1E?oc=5"
         }
       ]
     },
@@ -254,54 +302,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvLWMzN3ZWRXVUSzhhTUJTN0FiTUhJOWk0Z0NocGg5MXk3QmhwdWRPQTFsZ1ZHQnU3b1VWTUVfUUZ0c0xsZmFzdzF2bUV0c2llMlhFaTRuNF90VEg5bkIxRXg5OVluZDVXOXRfUTNPQk1EWVVRaUJITDRjcENsMEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "16e499116278",
-      "title": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은? - 하이닥",
-      "published": "2026-06-26T12:00:00+00:00",
-      "summary": "지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?&nbsp;&nbsp;하이닥[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까&nbsp;&nbsp;v.daum.net'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'&nbsp;&nbsp;이데일리“간 망친다며 아메리카노 끊더니”…정작 간 해치는 습관은 그대로였다&nbsp;&nbsp;세계일보“간 딱딱해진다” 아이도 어른도 ‘지방간’ 피하려면 줄여야 할 음식&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5taGJCYlJJMnhCUjd3d0hlVHg2SnIwVVRxMS1uaDh4QUJ4dE94SUZqOVNrU3puX2hYVVpxcXhiTkpiTUdpS1pJMTRHUFhaZEZ2QTJHU3h6Z1ZsNlRxRXlxUGRXTUVET2FPZkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "318f782be551",
-      "title": "임신 중 심혈관 건강 나쁘면… 자녀 발달지연 위험 최대 62%↑ - 하이닥",
-      "published": "2026-06-26T10:30:00+00:00",
-      "summary": "임신 중 심혈관 건강 나쁘면… 자녀 발달지연 위험 최대 62%↑&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZTEIwVlZoVEIxczZDSG9wNk0zQW5BX3Btb2xyYnFmX3ltRkx3Q09zaURxR2FaYklXVDMxbDFFcVhxVDlQVFFSeGY1MFZYdks3RWxHcHBIQnVUeUFIT1Z5M0hGMldfYUkxeFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3bb2ea3298c7",
-      "title": "난치성 장염, ‘고압산소치료’가 치료 대안 될까?... 4주만에 장 점막 회복 확인 - 하이닥",
-      "published": "2026-06-26T10:00:00+00:00",
-      "summary": "난치성 장염, ‘고압산소치료’가 치료 대안 될까?... 4주만에 장 점막 회복 확인&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzQnN2amJhVVVCNHV0RWVWcEV3U01EaDduME9WLW9UQXpKdTNXRVpXVWswdXJGbTVEUVcxNktXU1BsVUw1UWNPUWdHY0JuN3IxX3AxX0RQbkNVNjh2OHdXamxxTll3ZWxrTmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c6c345b63bcf",
-      "title": "우주여행 예약만 650여명…\"수년 내 궤도 호텔, 달 여행상품 등장\" - v.daum.net",
-      "published": "2026-06-26T08:48:06+00:00",
-      "summary": "우주여행 예약만 650여명…\"수년 내 궤도 호텔, 달 여행상품 등장\"&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vYWdMSFJITUhDMjFqbHpjcEdJUngtSk5YbVJPdFRpVmk2ajFpVlN5M2luZm9xOWFJSHVOcEgwb0h0UkktWnQ2dnZoTFF4YXc?oc=5"
         }
       ]
     },
