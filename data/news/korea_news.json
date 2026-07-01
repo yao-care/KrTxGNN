@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-01T09:54:01.543850+00:00",
+  "fetched_at": "2026-07-01T14:42:47.604949+00:00",
   "total_fetched": 93,
   "unique_count": 93,
   "health_related_count": 53,
   "news": [
+    {
+      "id": "d35e0db4d2a4",
+      "title": "\"비타민C 부족하면 뇌도 작아진다\"…일본 연구진, 뇌 구조적 변화 최초 규명 - 프리진뉴스",
+      "published": "2026-07-01T13:25:58+00:00",
+      "summary": "\"비타민C 부족하면 뇌도 작아진다\"…일본 연구진, 뇌 구조적 변화 최초 규명&nbsp;&nbsp;프리진뉴스영양제 전부 끊고 딱 하나만 남긴 이유&nbsp;&nbsp;브런치",
+      "sources": [
+        {
+          "name": "프리진뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPQTVGT2o5dkMtS2ctWWV6Mk9SVEFVeDkzQ2QtRDBlSEdRSjljbkk3X2VvaUtWSUZHZkZJbkozTHI3R1BoWGdFN09hcHQ2a1dEcWdiVmtIWFlPcTh2emQxaTgxMmh5am9BbldhRkF5SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bee41ed3dbb5",
+      "title": "[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다 - 여성경제신문",
+      "published": "2026-07-01T09:10:00+00:00",
+      "summary": "[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문같은 나이인데 장기는 달랐다… 빨리 늙은 장기, 질병 위험 높아&nbsp;&nbsp;헬스조선“더 빨리 늙고 암 위험도 높다?”… 요즘 세대가 억울한 뜻밖의 이유&nbsp;&nbsp;코메디닷컴‘동안’ 유독 많다는 이 세대…“사실 몸 속 노화는 더 빨라” 연구결과 나왔다 [헬시타임]&nbsp;&nbsp;서울경제겉으론 어려 보이는데…밀레니얼 세대, 신체 내부 더 빨리 늙는다&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "여성경제신문",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zSW1ZOWlnbGpBYUVDQXo5TzY4Q1hYR0Q2MkVIN1ptb2hLY0REcHV3NFYzemQ3dU00aU9zOE5HVUpCS2RuZGtWTlkxQmRab2ZKZXo5M0kwblVDLVdFVkdUcWpzMDhIaGZDNWJwZ0dER1FaZlnSAXdBVV95cUxNZ19tVGt6d0dyaXlmSWpFNlE4WGVwLXoxUjN6SnI1VnotM0Q5Q2NuOWh4aFhOUEN2VmVDZFUwX19LX3lXSG9oLWNwcllYb0d5bzV1dUlTbGY0NE5rVDhtQ1VEa3NHMlpicWFHelpGdVNXZDZ4RjctMA?oc=5"
+        }
+      ]
+    },
     {
       "id": "7d1cf7f1b1fe",
       "title": "어린 시절 트라우마, 난소 건강에도 영향... “다낭성 난소 증후군 위험 최대 64%↑” - 하이닥",
@@ -45,7 +69,7 @@
       "id": "384a2103f2ea",
       "title": "위고비 기전특성·임상근거·처방사례 전국 임상의들과 공유 - 메디칼업저버",
       "published": "2026-07-01T06:11:39+00:00",
-      "summary": "위고비 기전특성·임상근거·처방사례 전국 임상의들과 공유&nbsp;&nbsp;메디칼업저버비만 주사의 새로운 부작용… 후각·미각 기능 저하&nbsp;&nbsp;헬스조선골밀도까지 빼버리는 GLP-1··· 5060 여성 비만약 주의보&nbsp;&nbsp;여성경제신문\"입맛이 이상해\"…다이어트 주사, 체중 줄지만 뜻밖의 부작용 있다고?&nbsp;&nbsp;네이트비만주사 GLP-1, 후각·미각 이상 위험 높인다 '2년 추적관찰'&nbsp;&nbsp;의협신문",
+      "summary": "위고비 기전특성·임상근거·처방사례 전국 임상의들과 공유&nbsp;&nbsp;메디칼업저버비만주사 GLP-1, 후각·미각 이상 위험 높인다 '2년 추적관찰'&nbsp;&nbsp;의협신문“입맛이 이상해”… 다이어트 주사, 체중 줄지만 뜻밖의 부작용 있다고?&nbsp;&nbsp;코메디닷컴골밀도까지 빼버리는 GLP-1··· 5060 여성 비만약 주의보&nbsp;&nbsp;여성경제신문비만 주사의 새로운 부작용… 후각·미각 기능 저하&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "메디칼업저버",
@@ -57,23 +81,11 @@
       "id": "f38d4134e94f",
       "title": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의' - 네이트",
       "published": "2026-07-01T06:00:23+00:00",
-      "summary": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'&nbsp;&nbsp;네이트우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 ‘주의’&nbsp;&nbsp;v.daum.net“우울하면 간도 아프다”…45세 미만 우울증 여성, 지방간 위험 20%↑ [건강팩트체크]&nbsp;&nbsp;동아일보\"우울해서 빵 샀어\"는 근거 있는 말…우울증을 대사질환과 함께 보는 이유&nbsp;&nbsp;뉴시스[따끈따끈 신간] 우울한 날엔 미역국…정신과 의사가 혈당 보는 이유&nbsp;&nbsp;아주경제",
+      "summary": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'&nbsp;&nbsp;네이트우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 ‘주의’&nbsp;&nbsp;v.daum.net“우울하면 간도 아프다”…45세 미만 우울증 여성, 지방간 위험 20%↑ [건강팩트체크]&nbsp;&nbsp;동아일보[김태열의 생생건강S펜] \"마음이 건강해야 몸도 건강하다, 의학적 근거로 증명\"&nbsp;&nbsp;네이트\"우울해서 빵 샀어\"는 근거 있는 말…우울증을 대사질환과 함께 보는 이유&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKTjJaUEdiUXV5MmlIM0JmV2ZBeXNDaGVOcVNFY01DLWxoYlhFZ1ZadmlJREk4eHZCUXZvdzZaX2twS2s4b2FTNnE5U1pIYk9BN3pjeEp3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b601c6708e9e",
-      "title": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야 - 헬스경향",
-      "published": "2026-07-01T05:41:15+00:00",
-      "summary": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향노년기 건강관리, 질병보다 중요한 '노쇠'…“치료 전 종합평가 필요”&nbsp;&nbsp;라포르시안“병원비 아끼고 싶다면 먼저 습관부터 바꾸세요”&nbsp;&nbsp;유스연합[칼럼] 노년기 건강관리, 눈에 보이는 병 넘어 전체 건강을 살펴야&nbsp;&nbsp;메드월드뉴스[건강 칼럼] “돈보다 중요한 건 습관”…건강을 바꾸는 3가지 기본 습관&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45V2RxLTFoWldYQXk4bVRfQnVYX3RJel9OdUZpTW5vdXh3WFlXOElnUklZSndUUHlheU9HZVhxcVMxd2o4UE4ybGs4NWVZbDdnSW9TZnZPQjR0VU9tWDI3QkF1NHJzTnA1ZWc?oc=5"
         }
       ]
     },
@@ -90,18 +102,6 @@
       ]
     },
     {
-      "id": "0f47716629a0",
-      "title": "배에 王자 있어도 소용없다?…심장마비 막는 건 ‘가슴’ 근육 - 매일경제",
-      "published": "2026-07-01T05:02:58+00:00",
-      "summary": "배에 王자 있어도 소용없다?…심장마비 막는 건 ‘가슴’ 근육&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CeWJNVzFwSy1GaGdfUnQ5TFJjMEdnR3BEOFRlbkphY0dzRmVubE1VelJLa2M3NC1Qam9za2xQaXV4bjM1Q0dwdVhIWEFLZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e159ceecf47f",
       "title": "큐리언트 '모카시클립', MYC 직접 공략 대신 전사 억제 전략 제시 - 뉴스톱",
       "published": "2026-07-01T04:39:07+00:00",
@@ -114,10 +114,22 @@
       ]
     },
     {
+      "id": "b601c6708e9e",
+      "title": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야 - 헬스경향",
+      "published": "2026-07-01T04:00:00+00:00",
+      "summary": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향노년기 건강관리, 질병보다 중요한 '노쇠'…“치료 전 종합평가 필요”&nbsp;&nbsp;라포르시안[건강 칼럼] “돈보다 중요한 건 습관”…건강을 바꾸는 3가지 기본 습관&nbsp;&nbsp;한국AI부동산신문[칼럼] 노년기 건강관리, 눈에 보이는 병 넘어 전체 건강을 살펴야&nbsp;&nbsp;메드월드뉴스[건강 칼럼] 나이를 거스르는 비밀…일상 속 ‘세 가지 습관’이 건강수명을 좌우한다&nbsp;&nbsp;한국공공정책신문",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45V2RxLTFoWldYQXk4bVRfQnVYX3RJel9OdUZpTW5vdXh3WFlXOElnUklZSndUUHlheU9HZVhxcVMxd2o4UE4ybGs4NWVZbDdnSW9TZnZPQjR0VU9tWDI3QkF1NHJzTnA1ZWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "150ef5508a1b",
       "title": "다리 저림의 원인… 남성 ‘근육량 감소’가 주범 - 간호사신문",
       "published": "2026-07-01T03:43:09+00:00",
-      "summary": "다리 저림의 원인… 남성 ‘근육량 감소’가 주범&nbsp;&nbsp;간호사신문다리 저려 잠 못드는 남성… 남들보다 근육량 적은지 살펴보세요&nbsp;&nbsp;한국일보근감소증 남성, 하지불안증후군 위험 2.7배 높아&nbsp;&nbsp;e-의료정보",
+      "summary": "다리 저림의 원인… 남성 ‘근육량 감소’가 주범&nbsp;&nbsp;간호사신문다리 저려 잠 못드는 남성… 남들보다 근육량 적은지 살펴보세요&nbsp;&nbsp;한국일보근육량 적은 남성, 하지불안증후군 위험 높아…국내 연구진 연관성 확인&nbsp;&nbsp;헬스오근감소증 남성, 하지불안증후군 위험 2.7배 높아&nbsp;&nbsp;e-의료정보",
       "sources": [
         {
           "name": "간호사신문",
@@ -134,18 +146,6 @@
         {
           "name": "농민신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xNXZ3dHNlZUd0UkcxNXhyVjE1QllKQ1AzTENDQm1wcFk4dEVWN3JXN3h0ajRsbHlBcWpGOEtpSV9iVVJCWFdrVUl2UVRkY2xUMnl5SGJ2UHE5UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "866386e9ef9c",
-      "title": "눈 앞이 침침하다면? 백내장 수술 전 꼭 확인해야 할 사항 - 바이오타임즈",
-      "published": "2026-07-01T02:10:56+00:00",
-      "summary": "눈 앞이 침침하다면? 백내장 수술 전 꼭 확인해야 할 사항&nbsp;&nbsp;바이오타임즈노안·백내장수술, 환자별 맞춤 인공수정체 선택이 관건&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2Z3gxWHdRVWcwR1NfNkh5dy1CLU5XdkhQSEhZLUxNdEtiMXBLTzVucG5JbktwNTVBVldXQmZfYUZ2V1BudXFBaUhrY05JVFBtMC1BaVNHeTFGOThrbDVKbUVpZnlUeUhTLUVwYg?oc=5"
         }
       ]
     },
@@ -266,6 +266,18 @@
         {
           "name": "뉴스탭",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81ZkVZNkRCazhnS2tvRXYwRVVBaER3cFRzNjVoWmNrMWpkNkNNRUNGdGsyempSc2g1ekk3eW5Oc01pTjEyNWUydWRTTWpSNUxxOWtCWjI4YU0zdG1fU3FaZ0dDRG1xb2hBZ0FRTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32d2d13f2325",
+      "title": "관절 영양제 글루코사민, 치매 환자에겐 독?… 사망 위험 25% 높게 나타나 - 하이닥",
+      "published": "2026-06-30T09:00:00+00:00",
+      "summary": "관절 영양제 글루코사민, 치매 환자에겐 독?… 사망 위험 25% 높게 나타나&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNzE3bWpOUFRjNE9xbWdPSjF6TDFITWtHcVhHZDZ4RUw5ZWFWM3lzVmRBbXVDNDBTRDJaUWY0bFZ4R29wMWhDMVFPZ2I3cXVNOWJDWmNsUDEyaWJod3RtV0k2YkJMMGNFZUE?oc=5"
         }
       ]
     },
@@ -402,6 +414,18 @@
       ]
     },
     {
+      "id": "545f8788ebf5",
+      "title": "KIST, 인공시각 가능성 열었다...뇌에 빛 전달하는 '초박막 투명 신경전극' 개발 - 전자신문",
+      "published": "2026-06-30T03:28:42+00:00",
+      "summary": "KIST, 인공시각 가능성 열었다...뇌에 빛 전달하는 '초박막 투명 신경전극' 개발&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWVzhSWko1a3FOZkU3TEI4U2VFWGRVem1NMEdVSEVXQWtnWE5FSVdMSXhGVUlPY2J4bHF1b09FWE5zMklYcUVycWkxNXhZdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1dfbb7893a32",
       "title": "“젊으니까 괜찮다고?”… 혈압·혈당·콜레스테롤 동시에 올랐다면 - 미주한국일보",
       "published": "2026-06-30T03:00:00+00:00",
@@ -474,18 +498,6 @@
       ]
     },
     {
-      "id": "10611d965f8e",
-      "title": "체중보다 중요한 건 ‘체형’…40대는 다르게 먹어야죠 - realfoods.co.kr",
-      "published": "2026-06-30T00:56:17+00:00",
-      "summary": "체중보다 중요한 건 ‘체형’…40대는 다르게 먹어야죠&nbsp;&nbsp;realfoods.co.kr뱃속 깊은 곳 자리 잡은 내장지방, 노화 부추긴다&nbsp;&nbsp;헬스조선똑같이 먹는데 나만 살찌는 이유? 알고보니···&nbsp;&nbsp;v.daum.net\"똑같이 먹는데 왜 배만 나올까?\"…비만 전문의가 꼽은 원인 3가지&nbsp;&nbsp;뉴시스과학자들이 나이가 들면서 복부 지방이 증가하는 새로운 '원인'을 발견했습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "realfoods.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TLVdPZ3dMdzFvM3B6dWFJVGc5WnZucVNMeHFGa01VOTR4R29IMlNsUTYweGJjcDMtR3hfYmU1enZoa09ibDRKRWJ6NkhnYjZlVTA0RnBlQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f439ac58e3f3",
       "title": "[나동준 시선의 ESG] 암환자 커뮤니티에서 배운 연대의 문법 - 한국강사신문",
       "published": "2026-06-30T00:55:37+00:00",
@@ -510,18 +522,6 @@
       ]
     },
     {
-      "id": "011e295c8a34",
-      "title": "북한 “간 기능을 개선하자면 알콜 섭취 금하는 것 보다 식생활 개선이 중요” - NK경제",
-      "published": "2026-06-30T00:35:21+00:00",
-      "summary": "북한 “간 기능을 개선하자면 알콜 섭취 금하는 것 보다 식생활 개선이 중요”&nbsp;&nbsp;NK경제“간 망가지는 중”… 주의해야 할, 매일 먹는 음식 4가지&nbsp;&nbsp;헬스조선지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?&nbsp;&nbsp;하이닥[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까&nbsp;&nbsp;bntnews.co.kr'건강검진에서 흔히 발견되는 지방간, 방치하면 간경변증 위험'&nbsp;&nbsp;이데일리",
-      "sources": [
-        {
-          "name": "NK경제",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDaWJqMFBjbVZXUHg0cVBDREEzTUFSMXFxcnVHX3JRaVFOeG9rbjkzd2ItTUpfelhzVm5FVnllTmJfRkJPd0RDbkxDeVg0X3BGb3Vja2Q1UnRJMVFZRmdmREVZejBfS3VsM1HSAW5BVV95cUxNdlRvMmRnU0toRVhYWDhfVXRfbHl0WXg0VFZMMGRZOVI0cjN2QXBfQmdJNjUtTlV1SGEzYjVFcWdrWGIyYlpqSkFIOUFoZ0ZiVGt6eXIxTE5NNml1Mk56R1Y4Y19iUnNGUWFMcnhKdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "027d39257075",
       "title": "혈관 건강의 패러다임을 바꾸다 — 삼성컴퍼니 최기홍 대표이사 - 한국미디어뉴스통신",
       "published": "2026-06-30T00:22:56+00:00",
@@ -530,18 +530,6 @@
         {
           "name": "한국미디어뉴스통신",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ucjRIRndHRi1OUXo3UzhYN0QzYlEtc3l2aEdQcjczMzljb2pOZ0FFOWsxNlFncy1TZ3BTZUJjalRTSFJDNHFpV2Fuek9lMnV2bFNHeUZ6UTBzMnFBd3BOMHVrUGtNTUhOUFZTTw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60ee8a734a4f",
-      "title": "관절에 좋은 글루코사민, 치매 환자에겐 ‘독’ 될 수도 [노화설계] - 동아일보",
-      "published": "2026-06-29T22:00:00+00:00",
-      "summary": "관절에 좋은 글루코사민, 치매 환자에겐 ‘독’ 될 수도 [노화설계]&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4czZkQ2RBNTN3U1N3SnRuQzF1MUVJUDZFSTVrZlM2TzJnQlFPTFEyMjBsYTlZOUdtMzVDZkVYakItTFdMZHNpTlUxTmMyYk9Ea2JxckstTFVpalZIZDR2NmZDLUhtSTJvRFhNcjBzTdIBZkFVX3lxTFBBbndIMWlZbUxuT2g4NXNELTRBZlR4akNMOTN1VFhSSDJVZU4xVjVhRmhVS1hITk92Y0FGVmtjUHRIeVVZWGxlbVNENmxEb3B1Q1hjS3pWQUtUdzNvNjh2WDFEellvdw?oc=5"
         }
       ]
     },
@@ -594,6 +582,18 @@
       ]
     },
     {
+      "id": "9b6ff195596f",
+      "title": "갑자기 '겨울왕국'에 집착하며 4살이 된 18세女…알고 보니 치명적 '희귀 질환' [헬스톡] - 파이낸셜뉴스",
+      "published": "2026-06-29T20:50:00+00:00",
+      "summary": "갑자기 '겨울왕국'에 집착하며 4살이 된 18세女…알고 보니 치명적 '희귀 질환' [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55UGxLZFB6cDYzZ1dONndjUEVpcFEycTVSVlFwUEQzRDRXS0ZqQTJSOFF2TzlDWHlaTXVSaTVPbVBXVmhfZDFISE9qenMxazF5dVdjZ25qdmV6dw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c14a997ab3fb",
       "title": "[화제의 책] 암은 운명이 아니다, ‘생명의 암호’를 읽는 시간 - 트래블아이",
       "published": "2026-06-29T20:09:00+00:00",
@@ -606,6 +606,18 @@
       ]
     },
     {
+      "id": "ab6accff88d7",
+      "title": "“운동할 시간 없다?”…하루 ‘이만큼’만 움직여도 기분·활력 ‘쑥’ - 농민신문",
+      "published": "2026-06-29T20:00:00+00:00",
+      "summary": "“운동할 시간 없다?”…하루 ‘이만큼’만 움직여도 기분·활력 ‘쑥’&nbsp;&nbsp;농민신문'우울감' 줄인 사람들 '운동방법'에 차이 있었다&nbsp;&nbsp;약사공론‘스틱 짚고’ 걸었더니, 5주 만에 우울증 증상 완화&nbsp;&nbsp;헬스조선노르딕 워킹, 중증 우울 증상에서 개선 폭 커… “5주 만에 우울 점수 37% 감소”&nbsp;&nbsp;하이닥우울증, 약만 답 아니다? 주 2회 '이 걷기' 했더니 증상 확 줄어&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zT0pPVEZpVzNfa3JyWS1qRnRCV2FDWFFsaXVaSWhtQk5fUFRFYzhnMEdLS3Z4RHlLNjVmQzBnQnJ0cy1mRDhFeWlqbFQ0TEhGcU5ubGV4UnlpQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d1bad5a6f1a3",
       "title": "“1g만 먹어도 체중 증가 위험 20% 올라”… 차정원 안 먹는다는 음식의 정체 - 헬스조선",
       "published": "2026-06-29T18:00:00+00:00",
@@ -614,18 +626,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FaGJEYVhpTFpxbkdFLTR1S3VNNHFrbG5uRlFTSHRNTkYxd3J1WE9WcENyWHJoT2h2ZlpwZ3RHMF9WbmpoRVI0SmM5X3hYcXVna1J0dFZRUl9vOTBpazU5Tk5rSDBoZlVudGJlalRyX055QlowdVp3LTdDb2FwRmM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4bf05135c66b",
-      "title": "독감 앓았을 뿐인데 “체육시간 뇌졸중으로 쓰려져”… 11세女에 무슨 일? - 코메디닷컴",
-      "published": "2026-06-29T11:04:00+00:00",
-      "summary": "독감 앓았을 뿐인데 “체육시간 뇌졸중으로 쓰려져”… 11세女에 무슨 일?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfLVdNdGxBX01rVm9qVWhZOUNzZVBXZHZqeHN0UDFwSjNyZy0ydGtaZW1LM3UxVExabzV2c3ducWY2UQ?oc=5"
         }
       ]
     },
