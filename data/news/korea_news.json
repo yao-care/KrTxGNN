@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-02T14:08:23.472320+00:00",
-  "total_fetched": 90,
-  "unique_count": 89,
-  "health_related_count": 40,
+  "fetched_at": "2026-07-02T19:37:34.685878+00:00",
+  "total_fetched": 88,
+  "unique_count": 88,
+  "health_related_count": 39,
   "news": [
     {
       "id": "fad61d300125",
@@ -93,7 +93,7 @@
       "id": "b03bc46f5af9",
       "title": "서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다 - c3korea.net",
       "published": "2026-07-02T06:03:13+00:00",
-      "summary": "서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다&nbsp;&nbsp;c3korea.net오늘부터 하루 세번 ‘이 손’으로 양치해야 하는 이유&nbsp;&nbsp;농민신문치매 걱정될 때, 하루 10초 ‘새끼손가락 운동’을… 방법은?&nbsp;&nbsp;헬스조선흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법&nbsp;&nbsp;하이닥“청력 떨어지면 주의해야”...치매 예방에 도움 되는 건강 관리법&nbsp;&nbsp;코메디닷컴",
+      "summary": "서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다&nbsp;&nbsp;c3korea.net치매 속도를 늦추고 되돌리는 10가지 매듭&nbsp;&nbsp;톱클래스오늘부터 하루 세번 ‘이 손’으로 양치해야 하는 이유&nbsp;&nbsp;농민신문흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법&nbsp;&nbsp;하이닥[정해영 칼럼]치매 예방의 새로운 패러다임: ‘인지적 풍요’와 ‘코그니사이즈(Cognicise)’의 결합&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
           "name": "c3korea.net",
@@ -114,6 +114,30 @@
       ]
     },
     {
+      "id": "575a1eca8b2b",
+      "title": "만 5세 우유 섭취, 초등학교 시기 비만 위험 낮춘다 - 넥스트데일리",
+      "published": "2026-07-02T04:56:08+00:00",
+      "summary": "만 5세 우유 섭취, 초등학교 시기 비만 위험 낮춘다&nbsp;&nbsp;넥스트데일리5세 우유 습관이 만든 차이... 비만 위험 감소 연구 결과&nbsp;&nbsp;v.daum.net“유아기 우유 섭취, 초등학교 비만 감소 연관 주목”&nbsp;&nbsp;국민일보만 5세 우유 섭취, 이후 비만 관련 지표와 연관&nbsp;&nbsp;세계일보비만 관리도 조기교육…유아기 '우유 섭취' 주목&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "넥스트데일리",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zclYzb08wNGZLTXF6SmRRSHl4d3pJZ1d6Z25zNkV6a3lLeFREVHlrTDFFamhNSTRyTi1oaWFDY21CZFdRZ1VNLU9idUpBaF9xWlhLaV9LeWV0T2JCREFWR29waWFwMl9BV3NIcnNMWdIBc0FVX3lxTE1wLXVaZENJVWl4eXcxeWVheDh1ZXNqMGdrcWljeTBOZHVHQmNxd3cwbTlrUFJXOWoybXJzcno2T3dBakhuZl9yVURqU0pWeTFXdnF3RHNoRmtCQnhXVm9jS2g3T0dwQnJDNVFxdzRhckd2enc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f9dcf0c89c8",
+      "title": "물린 자국도 없는데···박쥐 접촉한 캐나다 11세 소년 광견병 사망 - 주간경향",
+      "published": "2026-07-02T04:41:00+00:00",
+      "summary": "물린 자국도 없는데···박쥐 접촉한 캐나다 11세 소년 광견병 사망&nbsp;&nbsp;주간경향\"자고 있는데 얼굴 위에 '슥'\" 마비 증상 끝에…결국 숨진 11세 소년&nbsp;&nbsp;v.daum.net물린 자국도 없었는데...박쥐 스친 11살 소년 광견병 '참변'&nbsp;&nbsp;YTN잠에서 깨니 얼굴에 박쥐가… 캐나다 10대 소년, '광견병'으로 사망&nbsp;&nbsp;전자신문잠자다 얼굴에 닿은 박쥐…11세 소년, 광견병으로 숨져&nbsp;&nbsp;경기일보",
+      "sources": [
+        {
+          "name": "주간경향",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GYWdLQUZ3VlMwd1NhVVIxWjd3Tnl4bjN3Tll4VC1VekFDOTVwUkJGTnVsR0huQjJiRTJRbFcyS2FGZ21WVEpNVUZLWHFUWWtPMjhBTlZzdlVMSGNtdGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "594bd45b94a9",
       "title": "‘다리에 벌레 기어가는 느낌’ 하지불안증후군, 근육량 적은 남성이 더 위험하다 - 경향신문",
       "published": "2026-07-02T04:17:00+00:00",
@@ -122,18 +146,6 @@
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LTXBnVEFGV29wNHpmaWM1Q0lITktUZ0xISE1TUGtLQldEcW9MYjltb2YxMHh2a0pyWjRiWFBiaUJWLXVoa1NXdzJKY3ZfMURxRE90UFZwblBYd9IBX0FVX3lxTE5RSHpTMktsbDQyQWlrdU1SWWlqdEdwUHpBRU1wT3NtVXprZGJiRTV0RnZSNkd1a2lud2xPTVpKbklxdkpvdzB0aUx1RmcwWnhGbk9ESFhaT2stNHl1QWpN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "93a6d02c7da3",
-      "title": "“25kg 감량” 배불뚝이 아저씨가 ‘멋진 중년’으로… 약 없이 빼, 다이어트 방법은? - 코메디닷컴",
-      "published": "2026-07-02T04:02:00+00:00",
-      "summary": "“25kg 감량” 배불뚝이 아저씨가 ‘멋진 중년’으로… 약 없이 빼, 다이어트 방법은?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4N0dmdXRMdEw4bEprZjlkU1Y2cW1iaEtVRjBpMVRsbzZwOGxCaVZ3X2RfM2ZpbDNzUkdlYXg1SVl3dw?oc=5"
         }
       ]
     },
@@ -153,7 +165,7 @@
       "id": "e14888dad5e2",
       "title": "mRNA 인플루엔자 백신의 광범위 면역 효과 확인 - 코리아헬스로그",
       "published": "2026-07-02T03:12:42+00:00",
-      "summary": "mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;코리아헬스로그[건강포커스] \"mRNA 백신 효과·안전성 재확인…독감·암 치료 활용 기대\"&nbsp;&nbsp;v.daum.net고려대 의대, mRNA 독감백신 광범위 면역반응 확인&nbsp;&nbsp;주간한국mRNA 백신, 기존 인플루엔자 백신 한계 넘을까&nbsp;&nbsp;현대건강신문mRNA 독감 백신, 기존 달걀 백신보다 ‘면역 효과 길고 변이에 강하다’&nbsp;&nbsp;팍스메디컬뉴스",
+      "summary": "mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;코리아헬스로그Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -237,7 +249,7 @@
       "id": "bee41ed3dbb5",
       "title": "[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다 - 여성경제신문",
       "published": "2026-07-01T09:10:00+00:00",
-      "summary": "[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문같은 나이인데 장기는 달랐다… 빨리 늙은 장기, 질병 위험 높아&nbsp;&nbsp;헬스조선‘동안’ 유독 많다는 이 세대…“사실 몸 속 노화는 더 빨라” 연구결과 나왔다 [헬시타임]&nbsp;&nbsp;서울경제겉으론 어려 보이는데…밀레니얼 세대, 신체 내부 더 빨리 늙는다&nbsp;&nbsp;세계일보새로운 연구 결과는 점점 더 많은 젊은이들이 암에 걸리는 이유를 밝혀냈습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문같은 나이인데 장기는 달랐다… 빨리 늙은 장기, 질병 위험 높아&nbsp;&nbsp;헬스조선새로운 연구 결과는 점점 더 많은 젊은이들이 암에 걸리는 이유를 밝혀냈습니다.&nbsp;&nbsp;Vietnam.vn겉으론 어려 보이는데…밀레니얼 세대, 신체 내부 더 빨리 늙는다&nbsp;&nbsp;세계일보\"아직 젊은데 암이라니\"…한국만의 문제가 아니었다[실험노트]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "여성경제신문",
@@ -258,34 +270,10 @@
       ]
     },
     {
-      "id": "198e9aec8694",
-      "title": "고구마, ‘탄수화물 덩어리’로만 봤다면? 의외의 건강 효과 - 조세일보",
-      "published": "2026-07-01T07:01:50+00:00",
-      "summary": "고구마, ‘탄수화물 덩어리’로만 봤다면? 의외의 건강 효과&nbsp;&nbsp;조세일보",
-      "sources": [
-        {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95TXpxTEpXYWpnMlJsZFJ2WTdTVFkwdVBVMWpjY0lHZDFtNEtGZXRwTTVic0tTaG9UZHZueDl2czRQQ191OE54YS0xczJlTGVKVmlMY2w4M1dyY0RGSHU4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "384a2103f2ea",
-      "title": "위고비 기전특성·임상근거·처방사례 전국 임상의들과 공유 - 메디칼업저버",
-      "published": "2026-07-01T06:11:39+00:00",
-      "summary": "위고비 기전특성·임상근거·처방사례 전국 임상의들과 공유&nbsp;&nbsp;메디칼업저버비만주사 GLP-1, 후각·미각 이상 위험 높인다 '2년 추적관찰'&nbsp;&nbsp;의협신문“입맛이 이상해”… 다이어트 주사, 체중 줄지만 뜻밖의 부작용 있다고?&nbsp;&nbsp;코메디닷컴골밀도까지 빼버리는 GLP-1··· 5060 여성 비만약 주의보&nbsp;&nbsp;여성경제신문비만 주사의 새로운 부작용… 후각·미각 기능 저하&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WTU82dW5RRm0zdjZHa1NYMk9QWEZzTFRLeTdnd0RTcFhJamJHSE1Cek52alhLaVJKdkdtMV8zQ3dCWkw3UU1ZSUV5TjV0SXFFNkxGd0pQRWd1cGc3RTJwVUdOaTFTX1lXbGln?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f38d4134e94f",
       "title": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의' - 네이트",
       "published": "2026-07-01T06:00:23+00:00",
-      "summary": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'&nbsp;&nbsp;네이트우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 ‘주의’&nbsp;&nbsp;경향신문젊은 여성 지방간, 의외의 이유 있었다… 술·비만 아닌 ‘이 감정’이 영향&nbsp;&nbsp;헬스조선“우울하면 간도 아프다”…45세 미만 우울증 여성, 지방간 위험 20%↑ [건강팩트체크]&nbsp;&nbsp;동아일보\"우울해서 빵 샀어\"는 근거 있는 말…우울증을 대사질환과 함께 보는 이유&nbsp;&nbsp;뉴시스",
+      "summary": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'&nbsp;&nbsp;네이트우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 ‘주의’&nbsp;&nbsp;v.daum.net젊은 여성 지방간, 의외의 이유 있었다… 술·비만 아닌 ‘이 감정’이 영향&nbsp;&nbsp;헬스조선“우울하면 간도 아프다”…45세 미만 우울증 여성, 지방간 위험 20%↑ [건강팩트체크]&nbsp;&nbsp;동아일보\"우울해서 빵 샀어\"는 근거 있는 말…우울증을 대사질환과 함께 보는 이유&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "네이트",
@@ -306,10 +294,10 @@
       ]
     },
     {
-      "id": "0f47716629a0",
-      "title": "배에 王자 있어도 소용없다?…심장마비 막는 건 ‘가슴’ 근육 - 매일경제",
+      "id": "1df341dacc8d",
+      "title": "“복근 만들래, 가슴부터 키울래?”…심장 건강 실속있는 부위는 ‘이곳’ - 매일경제",
       "published": "2026-07-01T05:02:58+00:00",
-      "summary": "배에 王자 있어도 소용없다?…심장마비 막는 건 ‘가슴’ 근육&nbsp;&nbsp;매일경제",
+      "summary": "“복근 만들래, 가슴부터 키울래?”…심장 건강 실속있는 부위는 ‘이곳’&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "매일경제",
@@ -342,14 +330,14 @@
       ]
     },
     {
-      "id": "a91230898879",
-      "title": "5세 때 마신 우유, 비만 위험과 연관성 확인 - v.daum.net",
-      "published": "2026-07-01T02:12:31+00:00",
-      "summary": "5세 때 마신 우유, 비만 위험과 연관성 확인&nbsp;&nbsp;v.daum.net5세 우유 습관이 만든 차이... 비만 위험 감소 연구 결과&nbsp;&nbsp;v.daum.net“유아기 우유 섭취, 초등학교 비만 감소 연관 주목”&nbsp;&nbsp;국민일보만 5세 우유 섭취, 이후 비만 관련 지표와 연관&nbsp;&nbsp;세계일보비만 관리도 조기교육…유아기 '우유 섭취' 주목&nbsp;&nbsp;네이트",
+      "id": "b601c6708e9e",
+      "title": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야 - 헬스경향",
+      "published": "2026-07-01T04:00:00+00:00",
+      "summary": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE01bkF0RnFjSUZ0U2xSbURhblFPZHE4ZUdFclhGcjhuWFJERElxNS1JX2VIQkhJczRRSWhucWh5ZlZwRUQzR2c?oc=5"
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45V2RxLTFoWldYQXk4bVRfQnVYX3RJel9OdUZpTW5vdXh3WFlXOElnUklZSndUUHlheU9HZVhxcVMxd2o4UE4ybGs4NWVZbDdnSW9TZnZPQjR0VU9tWDI3QkF1NHJzTnA1ZWc?oc=5"
         }
       ]
     },
@@ -414,18 +402,6 @@
       ]
     },
     {
-      "id": "d9cbab0f922d",
-      "title": "[김양호 칼럼]의학 발전할수록 중요해지는 것, 자가건강관리 - 경상일보",
-      "published": "2026-06-30T15:00:00+00:00",
-      "summary": "[김양호 칼럼]의학 발전할수록 중요해지는 것, 자가건강관리&nbsp;&nbsp;경상일보",
-      "sources": [
-        {
-          "name": "경상일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mMmljNV9ZOHZkWVVyZUZOMEhGY3FJakZINW92cWRyTGFsY3BaNjhmdi1xdmZmX2tsTXByakdtNW1CRmtST2hpQy1rSm9ZZ3pvMVlfRU5ncHFCUGt0UkhIdzBHUjJSWjVNMzdXMg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d1f6480e9a46",
       "title": "\"논문 보다 이젠 데이터 시대\"유용균 \"대덕 암묵지, AI센터 연구 플랫폼\" - 헬로디디",
       "published": "2026-06-30T09:51:41+00:00",
@@ -458,6 +434,18 @@
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWVzhSWko1a3FOZkU3TEI4U2VFWGRVem1NMEdVSEVXQWtnWE5FSVdMSXhGVUlPY2J4bHF1b09FWE5zMklYcUVycWkxNXhZdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb115b0422f9",
+      "title": "“매우 드물다는데”…국내서 HIV 모자간 수직 감염 사례 나왔다 - 매일경제",
+      "published": "2026-06-30T01:55:08+00:00",
+      "summary": "“매우 드물다는데”…국내서 HIV 모자간 수직 감염 사례 나왔다&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RNXNucHNyLVpIZUlWdFhUd0FRdTdRYmY2bUJESVducVRGaFdzYUdkaDM0cnE0TnlRc0dNREJUNzBIUHJlMm5SNVdYUWJ3dw?oc=5"
         }
       ]
     },
