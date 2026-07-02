@@ -1,19 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-01T20:00:09.636112+00:00",
-  "total_fetched": 93,
-  "unique_count": 93,
-  "health_related_count": 52,
+  "fetched_at": "2026-07-02T03:52:11.212578+00:00",
+  "total_fetched": 88,
+  "unique_count": 88,
+  "health_related_count": 46,
   "news": [
     {
-      "id": "d35e0db4d2a4",
-      "title": "\"비타민C 부족하면 뇌도 작아진다\"…일본 연구진, 뇌 구조적 변화 최초 규명 - 프리진뉴스",
-      "published": "2026-07-01T13:25:58+00:00",
-      "summary": "\"비타민C 부족하면 뇌도 작아진다\"…일본 연구진, 뇌 구조적 변화 최초 규명&nbsp;&nbsp;프리진뉴스영양제 전부 끊고 딱 하나만 남긴 이유&nbsp;&nbsp;브런치",
+      "id": "29d3da5c8de9",
+      "title": "물린 자국도 없었는데...박쥐 스친 11살 소년 광견병 '참변' - YTN",
+      "published": "2026-07-02T02:25:00+00:00",
+      "summary": "물린 자국도 없었는데...박쥐 스친 11살 소년 광견병 '참변'&nbsp;&nbsp;YTN잠결에 '박쥐' 만진 캐나다 소년…병원 오진 끝에 사망 충격&nbsp;&nbsp;v.daum.net잠에서 깨니 얼굴에 박쥐가… 캐나다 10대 소년, '광견병'으로 사망&nbsp;&nbsp;전자신문얼굴 들러붙은 박쥐 떼낸 뒤…캐나다 11세 소년, 광견병으로 숨져&nbsp;&nbsp;뉴스1잠결에 만진 박쥐…캐나다 11세 소년 광견병으로 사망&nbsp;&nbsp;미주중앙일보",
       "sources": [
         {
-          "name": "프리진뉴스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPQTVGT2o5dkMtS2ctWWV6Mk9SVEFVeDkzQ2QtRDBlSEdRSjljbkk3X2VvaUtWSUZHZkZJbkozTHI3R1BoWGdFN09hcHQ2a1dEcWdiVmtIWFlPcTh2emQxaTgxMmh5am9BbldhRkF5SQ?oc=5"
+          "name": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YOHVGMkVlejRKTnZ2REtYWF8tZzQ2RkkyWWZDYlJncy1PN3dFX0ZmM2dBSDQ3WmRWYXVBLThaMlZyZDFqR2FQWVF3YUhRZ19IMXppOWVMWVF2NXkzbGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "498c86e5d532",
+      "title": "KAIST, 알츠하이머 병든 뇌에서만 켜지는 ‘스마트 치료제’ 개발 - 충청뉴스",
+      "published": "2026-07-02T01:58:46+00:00",
+      "summary": "KAIST, 알츠하이머 병든 뇌에서만 켜지는 ‘스마트 치료제’ 개발&nbsp;&nbsp;충청뉴스치매 원인 물질 활용해 ‘스마트 치료제’ 개발&nbsp;&nbsp;v.daum.net[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스\"병든 뇌에서만 작동\" 치매 치료 '전구약물' 전략 제시&nbsp;&nbsp;네이트KAIST 연구팀, 알츠하이머병 병리환경 표적 전구약물 개발&nbsp;&nbsp;e-의료정보",
+      "sources": [
+        {
+          "name": "충청뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TTmF5TTZMQ01XbE8xdGNGMmxlT1Y2TjZlNUlOemp4M2JDaTkwTXZXQTJkdjJTZnJVYzBtSFR6aUU3bl9UVjlFVUl1TlNIby03ZDVkd3pvQkNST2c4YkhlT2hXUVZjdENKOE9R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c080c6f6284",
+      "title": "재발·전이 잘하는 난소암, 항암제 내성 생기는 기전 밝혀져 - 헬스케어N",
+      "published": "2026-07-01T23:48:45+00:00",
+      "summary": "재발·전이 잘하는 난소암, 항암제 내성 생기는 기전 밝혀져&nbsp;&nbsp;헬스케어N",
+      "sources": [
+        {
+          "name": "헬스케어N",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZbVh6YnlDdktKalBhQzF0clRFV3o4NEd4VklsbW9DS1FSQ1pfRklUb3FZWG4yVnY0cmt4SG9EVEZjU0hTUWI0NmNEMHY1TGhMbDhmR0R4TXY0alNoX3F6b0UxZnplVThRQU5rNjhaOGo4RnY0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5a3fa450599",
+      "title": "겨울 방학 맞이 자녀 예방접종 독려, IPS 잉가비 보건소 백신 전면 완비 : 남미동아뉴스 ; Paraguay Times - 뉴스케이",
+      "published": "2026-07-01T23:38:26+00:00",
+      "summary": "겨울 방학 맞이 자녀 예방접종 독려, IPS 잉가비 보건소 백신 전면 완비 : 남미동아뉴스 ; Paraguay Times&nbsp;&nbsp;뉴스케이",
+      "sources": [
+        {
+          "name": "뉴스케이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2SlQwTHFka1pUeG84eVE4NkVHaldkM0F4M1VkanJaZ2FXSGFBNTNHN2FDZHEwYWtCTzQxUklNbkdHOTZqNTNGcDJQNzQyUlJoWUpobF9uUU1Bdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6f3c3eaeef7b",
+      "title": "네이밍| 잠이 안 오는 이유를 묻고(Q), 행동 변화를 이끄는 신호로(Cue) - 의학신문",
+      "published": "2026-07-01T20:50:00+00:00",
+      "summary": "네이밍| 잠이 안 오는 이유를 묻고(Q), 행동 변화를 이끄는 신호로(Cue)&nbsp;&nbsp;의학신문한국보건산업진흥원 연구중심병원 창업기업 CEO 디지털치료기기DTx 환자용 앱 의료진을 위한 AI 서비스를 주력으로 하는 디지털 헬스케어 기업 디지털팜&nbsp;&nbsp;한경매거진&북",
+      "sources": [
+        {
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZG9OY0tGZHZVT1dSUDJndVdKNVpxSjBpVHc4aElrZG9Va3VWU0JhMjY4X084MW56OWNraE5sUkJpdUVCYVJtcTc3WE9Dc0MwczJOSS1SMkNPckNRSkpTMWdvV05JMG1sTmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d92443a73995",
+      "title": "근육 적은 남성, 하지불안증후군 위험 높아 - 재활뉴스",
+      "published": "2026-07-01T20:30:00+00:00",
+      "summary": "근육 적은 남성, 하지불안증후군 위험 높아&nbsp;&nbsp;재활뉴스다리 저려 잠 못드는 남성… 남들보다 근육량 적은지 살펴보세요&nbsp;&nbsp;한국일보다리 저림의 원인… 남성 ‘근육량 감소’가 주범&nbsp;&nbsp;간호사신문근육량 적은 남성, 하지불안증후군 위험 높아…국내 연구진 연관성 확인&nbsp;&nbsp;헬스오근감소증 남성, 하지불안증후군 위험 2.7배 높아&nbsp;&nbsp;e-의료정보",
+      "sources": [
+        {
+          "name": "재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YV3lGYnZPM1NYRncyMThKdWpaME5UNUdyV3B3NTVfdi02eDVob2VCSzRyZURodktUaEtORThKMUxRbC1VeUt3RXhjR2JudHBwZV9IUWxBbG1mU0x1dWg3b3NGYTVXdWV2RUlR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7ebe1c34f92",
+      "title": "“술도 안 마셨는데, 간 망가져”… 김미경이 꼽은 ‘의외의 원인’ - 헬스조선",
+      "published": "2026-07-01T18:00:00+00:00",
+      "summary": "“술도 안 마셨는데, 간 망가져”… 김미경이 꼽은 ‘의외의 원인’&nbsp;&nbsp;헬스조선지방간 개선에 도움 되는 음식 5가지... 간 전문의가 꼽은 의외의 음식은?&nbsp;&nbsp;하이닥[김소은 원장의 웰니스 노트 ①] 침묵의 장기, 간 건강은 왜 미리 챙겨야 할까&nbsp;&nbsp;bntnews.co.kr“무조건 오래 먹으면 간 박살 난다”…의사 경고한 영양제&nbsp;&nbsp;v.daum.net여름 앞두고 체중관리 시작했다면...지방간도 함께 점검해야&nbsp;&nbsp;글로벌뉴스통신GNA",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxTkRoUTZuYUtxRWRSVkJfMS12bjhiNEhGTHZJWDF1QXlZdEN1QU95QVRqS2czS1VkNW5jeHI4eW5Va2Ntb3hPMk5rOE8yV0VYUXJqMy1tNWs1NmpZenpLZWpIY2Q4VFNFcWxTRUlYMTZWVEo1clZTR0pkQjRNOGc?oc=5"
         }
       ]
     },
@@ -21,7 +93,7 @@
       "id": "bee41ed3dbb5",
       "title": "[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다 - 여성경제신문",
       "published": "2026-07-01T09:10:00+00:00",
-      "summary": "[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문같은 나이인데 장기는 달랐다… 빨리 늙은 장기, 질병 위험 높아&nbsp;&nbsp;헬스조선“더 빨리 늙고 암 위험도 높다?”… 요즘 세대가 억울한 뜻밖의 이유&nbsp;&nbsp;코메디닷컴‘동안’ 유독 많다는 이 세대…“사실 몸 속 노화는 더 빨라” 연구결과 나왔다 [헬시타임]&nbsp;&nbsp;서울경제겉으론 어려 보이는데…밀레니얼 세대, 신체 내부 더 빨리 늙는다&nbsp;&nbsp;세계일보",
+      "summary": "[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문같은 나이인데 장기는 달랐다… 빨리 늙은 장기, 질병 위험 높아&nbsp;&nbsp;헬스조선‘동안’ 유독 많다는 이 세대…“사실 몸 속 노화는 더 빨라” 연구결과 나왔다 [헬시타임]&nbsp;&nbsp;서울경제겉으론 어려 보이는데…밀레니얼 세대, 신체 내부 더 빨리 늙는다&nbsp;&nbsp;세계일보새로운 연구 결과는 점점 더 많은 젊은이들이 암에 걸리는 이유를 밝혀냈습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "여성경제신문",
@@ -38,18 +110,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uUWdYbVBob2xLdjZlRVFPUTNjX081RkhtSmlmbjlpVUxvNW1EcUUtRk1GdEtmV0FuOG4tXy1zcmszaE1HZG1BMTl1ZGwxeko3Q05TenNxV2gtUmxrc3ZUMDA5a3kycE9XRXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2fe0401a249f",
-      "title": "로봇·에너지·SMR·정밀의료 ‘국가연구소’ 4곳 선정 - 조선일보",
-      "published": "2026-07-01T07:56:16+00:00",
-      "summary": "로봇·에너지·SMR·정밀의료 ‘국가연구소’ 4곳 선정&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYldNVWxCMllha1p6ZG4yeFBxU1ZWb2dpc05NakwyVGJGV1RhVkpaR2dVc2pDcDBpcVZTTGd4WTIxRnpzVWFuVnVXZHpVdXhVMHlDYUQ3V1F0Vk1PMDJnSmpXdVZUb0Y3aW0xQW9hWTAtUnNfQ1doMnd1MDk2OUlwQkpfVQ?oc=5"
         }
       ]
     },
@@ -81,7 +141,7 @@
       "id": "f38d4134e94f",
       "title": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의' - 네이트",
       "published": "2026-07-01T06:00:23+00:00",
-      "summary": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'&nbsp;&nbsp;네이트우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 ‘주의’&nbsp;&nbsp;v.daum.net“우울하면 간도 아프다”…45세 미만 우울증 여성, 지방간 위험 20%↑ [건강팩트체크]&nbsp;&nbsp;동아일보[김태열의 생생건강S펜] \"마음이 건강해야 몸도 건강하다, 의학적 근거로 증명\"&nbsp;&nbsp;네이트\"우울해서 빵 샀어\"는 근거 있는 말…우울증을 대사질환과 함께 보는 이유&nbsp;&nbsp;뉴시스",
+      "summary": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'&nbsp;&nbsp;네이트우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 ‘주의’&nbsp;&nbsp;경향신문우울증 심할수록 지방간 발병 “빨간불”&nbsp;&nbsp;에너지경제신문\"우울해서 빵 샀어\"는 근거 있는 말…우울증을 대사질환과 함께 보는 이유&nbsp;&nbsp;뉴시스“우울하면 간도 아프다”…45세 미만 우울증 여성, 지방간 위험 20%↑ [건강팩트체크]&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "네이트",
@@ -105,35 +165,11 @@
       "id": "e159ceecf47f",
       "title": "큐리언트 '모카시클립', MYC 직접 공략 대신 전사 억제 전략 제시 - 뉴스톱",
       "published": "2026-07-01T04:39:07+00:00",
-      "summary": "큐리언트 '모카시클립', MYC 직접 공략 대신 전사 억제 전략 제시&nbsp;&nbsp;뉴스톱큐리언트 \"모카시클립, 소아 뇌종양 생존기간 유의하게 늘려\"&nbsp;&nbsp;v.daum.net큐리언트 \"모카시클립, 소아 뇌종양 치료 가능성 확인\"&nbsp;&nbsp;아시아경제큐리언트 모카시클립, 소아 뇌종양 치료 가능성 입증…국제 심포지엄 구두 발표 - 머니투데이&nbsp;&nbsp;머니투데이큐리언트 'CDK7 저해제' 소아뇌종양 \"비임상서 효능\"&nbsp;&nbsp;바이오스펙테이터",
+      "summary": "큐리언트 '모카시클립', MYC 직접 공략 대신 전사 억제 전략 제시&nbsp;&nbsp;뉴스톱큐리언트 \"모카시클립, 소아 뇌종양 생존기간 유의하게 늘려\"&nbsp;&nbsp;v.daum.net큐리언트 모카시클립, 소아 뇌종양 치료 가능성 입증…국제 심포지엄 구두 발표 - 머니투데이&nbsp;&nbsp;머니투데이큐리언트 'CDK7 저해제' 소아뇌종양 \"비임상서 효능\"&nbsp;&nbsp;바이오스펙테이터큐리언트, CDK7 저해로 MYC 전사 프로그램 차단…소아 뇌종양 치료 가능성 확인&nbsp;&nbsp;이코노미사이언스",
       "sources": [
         {
           "name": "뉴스톱",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZHVhdDJ2ZjFvYWNOenNSTjlUbVZIaXRQZ3JqSVQ1eUhYbktRWVdkaVlyVTlsT2ZDa25jWU50OHdQX2VzRWNSQ19Ic21yb3oxdThLVlJVQTl6R2NQU0gza1dQakVKQ05GbVI0M0ZFMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b601c6708e9e",
-      "title": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야 - 헬스경향",
-      "published": "2026-07-01T04:00:00+00:00",
-      "summary": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향노년기 건강관리, 질병보다 중요한 '노쇠'…“치료 전 종합평가 필요”&nbsp;&nbsp;라포르시안[건강 칼럼] “돈보다 중요한 건 습관”…건강을 바꾸는 3가지 기본 습관&nbsp;&nbsp;한국AI부동산신문[칼럼] 노년기 건강관리, 눈에 보이는 병 넘어 전체 건강을 살펴야&nbsp;&nbsp;메드월드뉴스[건강 칼럼] 나이를 거스르는 비밀…일상 속 ‘세 가지 습관’이 건강수명을 좌우한다&nbsp;&nbsp;한국공공정책신문",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45V2RxLTFoWldYQXk4bVRfQnVYX3RJel9OdUZpTW5vdXh3WFlXOElnUklZSndUUHlheU9HZVhxcVMxd2o4UE4ybGs4NWVZbDdnSW9TZnZPQjR0VU9tWDI3QkF1NHJzTnA1ZWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "150ef5508a1b",
-      "title": "다리 저림의 원인… 남성 ‘근육량 감소’가 주범 - 간호사신문",
-      "published": "2026-07-01T03:43:09+00:00",
-      "summary": "다리 저림의 원인… 남성 ‘근육량 감소’가 주범&nbsp;&nbsp;간호사신문다리 저려 잠 못드는 남성… 남들보다 근육량 적은지 살펴보세요&nbsp;&nbsp;한국일보근육량 적은 남성, 하지불안증후군 위험 높아…국내 연구진 연관성 확인&nbsp;&nbsp;헬스오근감소증 남성, 하지불안증후군 위험 2.7배 높아&nbsp;&nbsp;e-의료정보",
-      "sources": [
-        {
-          "name": "간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xQnBUT1VFRDQ3VHNOTUtSUzJlajBhSTN1NUVWZlJLX08zSWtjS2RRbTBRNE5OLVNGQ0MwNGktTGU2NU02aVJBVENpUjBxNHNLQVRFMUhQWTBoa2Q5Wkc5cVJ5VjFWZTUwaUYzUDFB?oc=5"
         }
       ]
     },
@@ -146,6 +182,18 @@
         {
           "name": "농민신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xNXZ3dHNlZUd0UkcxNXhyVjE1QllKQ1AzTENDQm1wcFk4dEVWN3JXN3h0ajRsbHlBcWpGOEtpSV9iVVJCWFdrVUl2UVRkY2xUMnl5SGJ2UHE5UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "866386e9ef9c",
+      "title": "눈 앞이 침침하다면? 백내장 수술 전 꼭 확인해야 할 사항 - 바이오타임즈",
+      "published": "2026-07-01T02:10:56+00:00",
+      "summary": "눈 앞이 침침하다면? 백내장 수술 전 꼭 확인해야 할 사항&nbsp;&nbsp;바이오타임즈백내장 초기증상, 노안과 혼동하기 쉬워…적절한 수술 시기 중요&nbsp;&nbsp;네이트노안·백내장수술, 환자별 맞춤 인공수정체 선택이 관건&nbsp;&nbsp;헬스경향백내장 수술 시 다초점인공수정체, 직업과 생활 방식·눈 상태 고려해야 [김준헌 원장 칼럼]&nbsp;&nbsp;하이뉴스",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2Z3gxWHdRVWcwR1NfNkh5dy1CLU5XdkhQSEhZLUxNdEtiMXBLTzVucG5JbktwNTVBVldXQmZfYUZ2V1BudXFBaUhrY05JVFBtMC1BaVNHeTFGOThrbDVKbUVpZnlUeUhTLUVwYg?oc=5"
         }
       ]
     },
@@ -174,14 +222,14 @@
       ]
     },
     {
-      "id": "18a15c0e1765",
-      "title": "고려의대, mRNA 인플루엔자 백신의 광범위 면역 효과 확인 - 사이언스엠디뉴스",
-      "published": "2026-07-01T00:58:25+00:00",
-      "summary": "고려의대, mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;사이언스엠디뉴스[건강포커스] \"mRNA 백신 효과·안전성 재확인…독감·암 치료 활용 기대\"&nbsp;&nbsp;v.daum.netmRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;BRIC코로나 백신 둘러싼 논란… 연구진이 내린 최종 평가는?&nbsp;&nbsp;금강일보고려대 의대, mRNA 독감백신 광범위 면역반응 확인&nbsp;&nbsp;주간한국",
+      "id": "8ea5824d0452",
+      "title": "[건강포커스] \"mRNA 백신 효과·안전성 재확인…독감·암 치료 활용 기대\" - 연합뉴스 한민족센터",
+      "published": "2026-06-30T23:54:21+00:00",
+      "summary": "[건강포커스] \"mRNA 백신 효과·안전성 재확인…독감·암 치료 활용 기대\"&nbsp;&nbsp;연합뉴스 한민족센터Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "사이언스엠디뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTU2xteFhGZkpra1dFT3pnVzVULV83ZmUxU2JqdGE4VHk4Qjl0RGN3WTRqdU9vQ2MzUFVwdVpCWXltVi1qQWFUTWs3VTlvb0VSNWNTUE1QbEdkbnM?oc=5"
+          "name": "연합뉴스 한민족센터",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zOWNmYVhCeFpyeG9iMEpiUUdMeGJYUVltVHBMM3djUGxlWDF2TVcwbjBlQXljUmVUTkJsYTQ0dXBkSU9TRE5vdVVGbHhlTVZKcGg3Wm9iM1VVcU5peHJ4cGs5U05nVnlWby1Tcmo4UERqYWxC?oc=5"
         }
       ]
     },
@@ -189,11 +237,35 @@
       "id": "8be560963fff",
       "title": "[한국인의 100가지 질환-55] 대상포진, 피부병으로만 알았다가 후회할 수 있다 - 뉴스인",
       "published": "2026-06-30T23:13:15+00:00",
-      "summary": "[한국인의 100가지 질환-55] 대상포진, 피부병으로만 알았다가 후회할 수 있다&nbsp;&nbsp;뉴스인대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심&nbsp;&nbsp;스포츠경향대상포진, 피부병으로 착각하기 쉬워… “젊은 층도 방심은 금물”&nbsp;&nbsp;하이닥대상포진 발병 후 단 48시간 만에 합병증이 발생할 위험을 과소평가하지 마십시오.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[한국인의 100가지 질환-55] 대상포진, 피부병으로만 알았다가 후회할 수 있다&nbsp;&nbsp;뉴스인대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심&nbsp;&nbsp;스포츠경향대상포진, 피부병으로 착각하기 쉬워… “젊은 층도 방심은 금물”&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "뉴스인",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVzh0Y19RdE9wY3RlNkJ3ZDluYmt4djJVMDhsMmNnaTNwUE51eHdlTV9md3pmTWxSYmx3SFpwMkVPVTBZeTVDZGk2T2t3UE9NMk9GUkVRaGtyN2xGaDNaVkxFcXp2U2luRVpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c3cde0db8ed",
+      "title": "탄수화물 제로 다이어트, 수분만 빠진다? 요요 막는 올바른 당질 제한법 [푸드파일러] - 하이닥",
+      "published": "2026-06-30T23:00:00+00:00",
+      "summary": "탄수화물 제로 다이어트, 수분만 빠진다? 요요 막는 올바른 당질 제한법 [푸드파일러]&nbsp;&nbsp;하이닥“당뇨병 위험 껑충”… 한그루도 중독된 음식의 정체&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hYjhBT09hMExZTmN6MGRHY1NmMFZVV21iMnl4SWZZbGJVR08zUnVHMHQ4c3JMTUxRcTNMdm84S0t3VndsOUdUTlZLUmZxYUE1aGE0Y0VUUk5FNUFoZURGLTNma1lUaTNEYXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5dd97f43e47",
+      "title": "\"오메가3의 배신?\"…뇌에 좋다고 먹었는데, 기억력 개선 효과 없었다고? - 코메디닷컴",
+      "published": "2026-06-30T22:06:00+00:00",
+      "summary": "\"오메가3의 배신?\"…뇌에 좋다고 먹었는데, 기억력 개선 효과 없었다고?&nbsp;&nbsp;코메디닷컴Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tTUVqdkMzdnptNlh0bWRTdnQyS3dmWV9TeEZ1djBjblhOQ3dQcFhQVTNIdWsxRWJLZXpmQTdfNEdNQQ?oc=5"
         }
       ]
     },
@@ -213,7 +285,7 @@
       "id": "ab4c6fcae185",
       "title": "“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야 - 코메디닷컴",
       "published": "2026-06-30T14:01:00+00:00",
-      "summary": "“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴‘하루 달걀 한 개’… 치매 위험 최대 27% 낮춘다&nbsp;&nbsp;주간경향“인지기능 저하 막는다” 뇌 보호 위해 먹어야 할 식품 3가지&nbsp;&nbsp;헬스조선항염증 식단, 알츠하이머 고위험군 치매 위험 최대 29% 낮춘다&nbsp;&nbsp;하이닥매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남",
+      "summary": "“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴“먹는 걸 바꾸면 뇌가 바뀐다”…치매 위험 확 줄이는 식단 정체는?&nbsp;&nbsp;전자신문‘하루 달걀 한 개’… 치매 위험 최대 27% 낮춘다&nbsp;&nbsp;주간경향“인지기능 저하 막는다” 뇌 보호 위해 먹어야 할 식품 3가지&nbsp;&nbsp;헬스조선매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -246,10 +318,22 @@
       ]
     },
     {
+      "id": "3a7cf9fdb0a3",
+      "title": "30대도 금물…고혈압 등 전단계 3종, 심뇌혈관질환 위험 23%↑ - hidomin.com",
+      "published": "2026-06-30T10:27:51+00:00",
+      "summary": "30대도 금물…고혈압 등 전단계 3종, 심뇌혈관질환 위험 23%↑&nbsp;&nbsp;hidomin.com고혈압·고혈당·고지혈 ‘3高’의 경고… 젊다고 안 봐준다&nbsp;&nbsp;국민일보[내과제대로 알기]당뇨 질환, 정기적인 검사와 꾸준한 관리 중요&nbsp;&nbsp;medicalworldnews.co.kr'30세 이상 7명 중 1명 당뇨병, 혈당·혈압·콜레스테롤 통합 관리 필수'&nbsp;&nbsp;이데일리30대 복합 전단계 대사이상, 장기 심뇌혈관질환 위험 높인다&nbsp;&nbsp;의학신문",
+      "sources": [
+        {
+          "name": "hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpOXhFUEFTY0h3b08zRDEyMEZhWTR3VklORzRCRDJXSmpsMXVaQzkyVzExQ0lIdDZHNm1zdjZ1M3h4ZVdRQlR2Nm1EWEpXaXhtbEFFUlVKMzZBaDN1VzJLZFUxRGdRemU0ZlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7d7cf4d66b2b",
       "title": "\"'천연 위고비'라길래 아침마다 먹었는데\"…전문가 '경고' [건강!톡] - 한국경제",
       "published": "2026-06-30T10:24:01+00:00",
-      "summary": "\"'천연 위고비'라길래 아침마다 먹었는데\"…전문가 '경고' [건강!톡]&nbsp;&nbsp;한국경제“달걀 끊으니 6kg 빠져”… 4년 넘게 설사 시달린 보디빌더의 반전 사연&nbsp;&nbsp;헬스조선“천연 위고비라더니 머리가 멍?”…아침 달걀의 ‘배신’, 진짜 범인은 따로 있었다&nbsp;&nbsp;v.daum.net“천연 위고비” 다이어터 국민 아침 메뉴 삶은 달걀…사람에 따라 독이 될 수 있다?&nbsp;&nbsp;경향신문스타들이 먼저 먹은 '천연 위고비' 식단의 공통점&nbsp;&nbsp;ELLE",
+      "summary": "\"'천연 위고비'라길래 아침마다 먹었는데\"…전문가 '경고' [건강!톡]&nbsp;&nbsp;한국경제“달걀 끊으니 6kg 빠져”… 4년 넘게 설사 시달린 보디빌더의 반전 사연&nbsp;&nbsp;헬스조선“천연 위고비라더니 머리가 멍?”…아침 달걀의 ‘배신’, 진짜 범인은 따로 있었다&nbsp;&nbsp;v.daum.net“천연 위고비” 다이어터 국민 아침 메뉴 삶은 달걀…사람에 따라 독이 될 수 있다?&nbsp;&nbsp;경향신문스타들이 먼저 먹은 '천연 위고비' 식단의 공통점&nbsp;&nbsp;엘르 코리아 │ ELLE KOREA",
       "sources": [
         {
           "name": "한국경제",
@@ -278,18 +362,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNzE3bWpOUFRjNE9xbWdPSjF6TDFITWtHcVhHZDZ4RUw5ZWFWM3lzVmRBbXVDNDBTRDJaUWY0bFZ4R29wMWhDMVFPZ2I3cXVNOWJDWmNsUDEyaWJod3RtV0k2YkJMMGNFZUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46188fb7e04e",
-      "title": "여름철 제철 과일 체리, 항산화 성분 풍부…수면·운동 회복에도 도움 - 한국식품의약신문",
-      "published": "2026-06-30T07:16:50+00:00",
-      "summary": "여름철 제철 과일 체리, 항산화 성분 풍부…수면·운동 회복에도 도움&nbsp;&nbsp;한국식품의약신문",
-      "sources": [
-        {
-          "name": "한국식품의약신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpTDVWYm83UXpId0lESjgtWlVOLVkwRnUwNXVYaGkyY2JSQkpOaHJSRkhYTWdsTFpkX3NSR2ZNaFNrZkNHZm5ZLWxueThqcFdnaEhGOWVGa3FMM3NXYlRkZFVWYjEzRFk?oc=5"
         }
       ]
     },
@@ -330,6 +402,18 @@
       ]
     },
     {
+      "id": "a23ade856b31",
+      "title": "과기정통부·산업부, 신약개발 병목 해소할 '국가 CMC 플랫폼' 추진 - 전자신문",
+      "published": "2026-06-30T06:00:00+00:00",
+      "summary": "과기정통부·산업부, 신약개발 병목 해소할 '국가 CMC 플랫폼' 추진&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTczd2bDlMd0ZxX0RnbUI0M1p0UkRCcmVEX3VOcWdaWnhlQlEtcXQzVFVYX2I1MVJMdUNqVk4zQjZfUU5CNllTQUdwNlRXZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "45babb853d13",
       "title": "지방간 치료 단서, '젖산'에서 찾았다 - 네이트",
       "published": "2026-06-30T05:30:00+00:00",
@@ -357,7 +441,7 @@
       "id": "7d7926841a7c",
       "title": "알츠하이머병, 증상 없어도 검사 가능…조기 진단 시대 열린다 - 쿠키메디",
       "published": "2026-06-30T05:19:58+00:00",
-      "summary": "알츠하이머병, 증상 없어도 검사 가능…조기 진단 시대 열린다&nbsp;&nbsp;쿠키메디피 한방울로 ‘위험’ 진단… 알츠하이머 새길 열린다&nbsp;&nbsp;동아비즈니스리뷰 | DBR유성선병원, 7월부터 인지기능센터 가동…치매 맞춤치료&nbsp;&nbsp;뉴시스서울성모병원, 알츠하이머 항체치료 200례 달성…정밀치매 치료 선도&nbsp;&nbsp;네이트유성선병원, 건망증과 치매 진단하는 인지기능센터 개소&nbsp;&nbsp;중도일보",
+      "summary": "알츠하이머병, 증상 없어도 검사 가능…조기 진단 시대 열린다&nbsp;&nbsp;쿠키메디Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "쿠키메디",
@@ -369,7 +453,7 @@
       "id": "69ed21ab14b7",
       "title": "09화 작은 생명들의 도감(10) 폐렴구균 - 브런치",
       "published": "2026-06-30T05:19:04+00:00",
-      "summary": "09화 작은 생명들의 도감(10) 폐렴구균&nbsp;&nbsp;브런치[칼럼]침묵의 침입자 폐렴구균, '백신'이라는 방패로 막아내야&nbsp;&nbsp;중도일보수억에서 수십억 동에 달하는 치료비를 초래하며 아이들을 병원으로 보내는 교활한 위험.&nbsp;&nbsp;Vietnam.vn[의학칼럼 제78호] 침묵의 침입자 폐렴구균,‘백신’이라는 방패로 막아내야&nbsp;&nbsp;충남일보어린이에게 발생하는 세균성 뇌수막염의 가장 흔한 원인은 세균입니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "09화 작은 생명들의 도감(10) 폐렴구균&nbsp;&nbsp;브런치수억에서 수십억 동에 달하는 치료비를 초래하며 아이들을 병원으로 보내는 교활한 위험.&nbsp;&nbsp;Vietnam.vn[의학칼럼 제78호] 침묵의 침입자 폐렴구균,‘백신’이라는 방패로 막아내야&nbsp;&nbsp;충남일보어린이에게 발생하는 세균성 뇌수막염의 가장 흔한 원인은 세균입니다.&nbsp;&nbsp;Vietnam.vn침습성 폐렴구균 질환의 위험&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "브런치",
@@ -426,134 +510,26 @@
       ]
     },
     {
-      "id": "1dfbb7893a32",
-      "title": "“젊으니까 괜찮다고?”… 혈압·혈당·콜레스테롤 동시에 올랐다면 - 미주한국일보",
-      "published": "2026-06-30T03:00:00+00:00",
-      "summary": "“젊으니까 괜찮다고?”… 혈압·혈당·콜레스테롤 동시에 올랐다면&nbsp;&nbsp;미주한국일보고혈압·고혈당·고지혈 ‘3高’의 경고… 젊다고 안 봐준다&nbsp;&nbsp;국민일보\"30대도 불안해\"…'이것' 전단계시 심혈관 위험↑&nbsp;&nbsp;뉴시스젊으니까 괜찮다고? 혈압·혈당·콜레스테롤 동시에 올랐다면[헬시타임]&nbsp;&nbsp;서울경제'30세 이상 7명 중 1명 당뇨병, 혈당·혈압·콜레스테롤 통합 관리 필수'&nbsp;&nbsp;이데일리",
+      "id": "ab8f8032ccd1",
+      "title": "자석 이물질 삼킴으로 인한 장 천공 위험 경고 - Laodong.vn",
+      "published": "2026-06-30T03:03:19+00:00",
+      "summary": "자석 이물질 삼킴으로 인한 장 천공 위험 경고&nbsp;&nbsp;Laodong.vn",
       "sources": [
         {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EbUZsUU9OakxUTmFqN2JvOXBycXBaMXN6VEJvbl9LYngteWR0RGdGQTQ3NzBTQThUY2ZxTTR5dXIxV1B5dF9uRUlCd2d3ZEM5c25aV3FOcGgzLWQ0cWQ0?oc=5"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQanBRWW5JRkFBblFuUnBvSUY5WEFkdFQ1MlBGY2RYY1dGNlpka3d0QWJFMFlpRWtHV2VERUd2SmU2WlhUS2p2azNmTFZVTGdvNzJRaEJiRGZJNzdyQjNxNlo3UHRmZm10TDNNdlFSX29rMUpidk9Fd1lDZ0pTZ2NNUlF2SDNyYzlGbUxfdmRNVVFMaDdnWklVZlJ3?oc=5"
         }
       ]
     },
     {
-      "id": "3229a8394593",
-      "title": "[에듀플러스]노벨상 발견의 역설...고려대, '세포 방어작용이 만성 통증 유발' 세계 최초 규명 - 전자신문",
-      "published": "2026-06-30T02:15:41+00:00",
-      "summary": "[에듀플러스]노벨상 발견의 역설...고려대, '세포 방어작용이 만성 통증 유발' 세계 최초 규명&nbsp;&nbsp;전자신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "7b2369bda373",
+      "title": "해외 과학자 '톱티어 비자' 받는다…연구비 자유사용도 확대[하반기 달라지는 것] - 뉴시스",
+      "published": "2026-06-30T01:05:00+00:00",
+      "summary": "해외 과학자 '톱티어 비자' 받는다…연구비 자유사용도 확대[하반기 달라지는 것]&nbsp;&nbsp;뉴시스",
       "sources": [
         {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKUjREQnF4eE0tNC1qQmZaSUVqNnlRbUhKX2VYV2ZvaThmNWJ5VXh0M2g1R290VTZIWjVMb082QlF5SkFYNXk2ZFVyZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "870d34e8e954",
-      "title": "[하반기 달라지는 것] HPV 접종대상에 男도…생리대 지원·담배 검사로 건강권 확보 - 아시아투데이",
-      "published": "2026-06-30T02:04:56+00:00",
-      "summary": "[하반기 달라지는 것] HPV 접종대상에 男도…생리대 지원·담배 검사로 건강권 확보&nbsp;&nbsp;아시아투데이Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "아시아투데이",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85VjU1aXlXNVFHVmhTbko2emloM0N4UkRHcDFKU0RUOUctakxiNEE2MUNLd05HQnAzVlMzR1pGSm8xSWZ2cS1sdVZFQ3VER25fbklDMENlcjMtenp4VHdmV1Q0a1d4QXVhS09uU1J3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "43b4e4c96462",
-      "title": "혈액 단백질 14종으로 5년 내 폐암 발병 위험 예측 - biobookmedia.com",
-      "published": "2026-06-30T02:04:00+00:00",
-      "summary": "혈액 단백질 14종으로 5년 내 폐암 발병 위험 예측&nbsp;&nbsp;biobookmedia.com",
-      "sources": [
-        {
-          "name": "biobookmedia.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Hb3FUNlRPQ0NNaUw0Sk0wT3JZSkpoZ1dvS01TOTV5enJ2d2duN2dVc1EtOVVfVi1BOVhycU05RmY3WTJMZnlGMGJPZzlrVENsR2JkX25ReDFwZVhnR09Kb0VSQ0ZydU5ZY0RtV0JR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7600fbe95957",
-      "title": "[도관스님 기공(氣功)⑨] 증상 나타나면 이미 진행된 폐암(肺癌)...폐 살리는 기 운행법 - 공정뉴스",
-      "published": "2026-06-30T01:42:29+00:00",
-      "summary": "[도관스님 기공(氣功)⑨] 증상 나타나면 이미 진행된 폐암(肺癌)...폐 살리는 기 운행법&nbsp;&nbsp;공정뉴스",
-      "sources": [
-        {
-          "name": "공정뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81WGdrRkpWNU5YZFcwdmZrT3VMQmFaQ0NJbmhUOEZ0ckRDWlVFU29TdlVNclJXMVZTZVNFakxGNmctNlJlVThaRlBZS1FFV3l1eXRoWWhqa09GZlV4aEZBY3R3ZF9NZU9r?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0de3a108436d",
-      "title": "[이엠디] 분당차여성병원 산부인과 류현미 교수, 스마트MEC케어 연구팀 “임신 전·초기 흡연, 중증 임신성 당뇨병 위험 증가” - eMD Medical News",
-      "published": "2026-06-30T01:39:57+00:00",
-      "summary": "[이엠디] 분당차여성병원 산부인과 류현미 교수, 스마트MEC케어 연구팀 “임신 전·초기 흡연, 중증 임신성 당뇨병 위험 증가”&nbsp;&nbsp;eMD Medical News흡연, 이렇게 안 좋다…중증 임신성 당뇨 발생 위험 ‘쑥’&nbsp;&nbsp;동아일보“담배→임신성 당뇨병↑”…분당차여성병원 산부인과 류현미 교수 연구팀&nbsp;&nbsp;스포츠경향임신 초기까지 담배 피우면… 임신성 당뇨병 위험 10배 증가&nbsp;&nbsp;하이닥차의과대 연구팀 \"임신 초기 흡연, 중증 임신성 당뇨 위험 높여\"&nbsp;&nbsp;신아일보",
-      "sources": [
-        {
-          "name": "eMD Medical News",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpbGNKRDQybjJqbHBscGh2Vy1qVjlQOEhYTURqbWFIZkhhWmZkYW1BLWJHUXQyd3pOb2dJWkFrcWxZUVA2X0VkR2dVclZJSmkyVHlZWGlpczROZkwwaUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e6a7e2739e3",
-      "title": "백내장 수술 시 다초점인공수정체, 직업과 생활 방식·눈 상태 고려해야 [김준헌 원장 칼럼] - 하이뉴스",
-      "published": "2026-06-30T01:00:00+00:00",
-      "summary": "백내장 수술 시 다초점인공수정체, 직업과 생활 방식·눈 상태 고려해야 [김준헌 원장 칼럼]&nbsp;&nbsp;하이뉴스노안·백내장수술, 환자별 맞춤 인공수정체 선택이 관건&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "하이뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUlQxWl9qbFpSajFfYVc4eDJNekV0Wkg0dlE2ZElnTlFEUTlNRlRTOGZIVVdKYV95MlNfWC1kdGpXaGxTYXRlaC1xUURRM3QzOGRJYVRtOXppejd1YnZMcW5Ha2l0ZHNMMjJYQ0lXZjdYdFNa?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f439ac58e3f3",
-      "title": "[나동준 시선의 ESG] 암환자 커뮤니티에서 배운 연대의 문법 - 한국강사신문",
-      "published": "2026-06-30T00:55:37+00:00",
-      "summary": "[나동준 시선의 ESG] 암환자 커뮤니티에서 배운 연대의 문법&nbsp;&nbsp;한국강사신문",
-      "sources": [
-        {
-          "name": "한국강사신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JeDF4UkhFenFYRGExMGVNaUk4WVd3UzVqRElnMU16U1JTSlpGLTBUX2IzUE9TY3BHYlVLaTdscW1OVW1ja2Y4WHh0aUNOSXJIRV9tdlpXU2E1bmdEXzVtY3ZoZVhmTUFnX1ZMWktNVlA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "65d5b680983a",
-      "title": "오메가-3, 뇌까지 갔는데…치매 못 막은 3가지 이유 [건강팩트체크] - 동아일보",
-      "published": "2026-06-30T00:44:38+00:00",
-      "summary": "오메가-3, 뇌까지 갔는데…치매 못 막은 3가지 이유 [건강팩트체크]&nbsp;&nbsp;동아일보오메가3, 치매 예방 효과 없었다…기억력·인지 개선 확인 안돼&nbsp;&nbsp;미주중앙일보\"오메가3의 배신?\"…뇌에 좋다고 먹었는데, 기억력 개선 효과 없었다고?&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yUHo1TXZaQ2RfM0d5eWJBX2RnYUJVV2dzMm1vTVVRRzVDcVVOekxRazhidmJTeWhyX0hieU5Eb3ltWjZzcXlqaThwaEFaQzJuaHM2U0pCMVlEQ0s4SDlUQ25TdFgtaWlINkxZYWFZNNIBZkFVX3lxTE01enJUYllGWDQ5YnFDUmxVMGZrZzRpM0lNbFRwd3BsMDJmbEVmcE9vVVJ5WTZSX0IycnBQVFgtTHBwLS1LOEppNlZtRzE1V2lobmFHY0ZiUC05cHhielNUVzQ2Y2VYQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "027d39257075",
-      "title": "혈관 건강의 패러다임을 바꾸다 — 삼성컴퍼니 최기홍 대표이사 - 한국미디어뉴스통신",
-      "published": "2026-06-30T00:22:56+00:00",
-      "summary": "혈관 건강의 패러다임을 바꾸다 — 삼성컴퍼니 최기홍 대표이사&nbsp;&nbsp;한국미디어뉴스통신",
-      "sources": [
-        {
-          "name": "한국미디어뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ucjRIRndHRi1OUXo3UzhYN0QzYlEtc3l2aEdQcjczMzljb2pOZ0FFOWsxNlFncy1TZ3BTZUJjalRTSFJDNHFpV2Fuek9lMnV2bFNHeUZ6UTBzMnFBd3BOMHVrUGtNTUhOUFZTTw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2e021eb1079",
-      "title": "“국내 HIV 감염 아동 1명 발생”… ‘성 접촉’ 통한 신규 환자가 99% - 서울신문",
-      "published": "2026-06-29T21:46:57+00:00",
-      "summary": "“국내 HIV 감염 아동 1명 발생”… ‘성 접촉’ 통한 신규 환자가 99%&nbsp;&nbsp;서울신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjBQSThuSHZIN2kyWGRXbzlkUHVRU1pJeExLT3lyM2U4SEItR2Jtc2pWV2lGU2RpWk55NGFFODhreTZkbkIzYjVMV0U3M25iaEhOdFFnZ1ZVeVNfLVFWampOcUJVVTV1b0J2MXVCaVdMek1Ecjl4aDlGcUhuM0M2RQ?oc=5"
+          "name": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFTW1kdWtNQkhSMlNXaTNDZElzdENmR1V0c1gwbDFleDEzQ0dtbUNMMUVOYmVaTV9uWThucDhQcjZ1SnZ1SWRJSzVMM2VtX3NlVHQtUjItX0tfT2ZGMnpmYWpaN2_SAXhBVV95cUxQRzdqY3RHdTlOYk43NEphSENnS3UzTENmeDhVdnhMRS05SFMtSG9nZFg0UUctdy1vVHM1Wl9JR3BEcUdtT2RfTEQ3a2tmNFktVWNsbG9SSXN4TDJPZ3NRQUJHYmI5dVB5a2ZFbEpRS0p3aFpQWWN1SzM?oc=5"
         }
       ]
     },
@@ -566,54 +542,6 @@
         {
           "name": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4akhGSFhiV3VLWEs5a2x6OVRwaDJHc1N0UjRDRnJqWUVVcnRUejljMDNNc1RHRTJLcHBqUmtnVmdQQnpTU0o1NVRiUVVnOXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f0aff51acf9",
-      "title": "[김길원의 헬스노트] 뇌졸중 땐 심장까지 연쇄 타격…\"심부전 위험 69% 높아\" - 연합뉴스",
-      "published": "2026-06-29T21:13:01+00:00",
-      "summary": "[김길원의 헬스노트] 뇌졸중 땐 심장까지 연쇄 타격…\"심부전 위험 69% 높아\"&nbsp;&nbsp;연합뉴스",
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCVlkyMXppOGJld1NOa29aMGxmazU3Q04tODJGcW1FaWhIODgyZ1R1bVdJeWh2ZGxkVzY0QjFPSjFvNTJaYnpRWnpmbGxfSVRmbl9NdE1SV1BMcnPSAWBBVV95cUxQbXdMRm5nMERVNEtJSlhoZXk1WHhGTFdnRlVXNVpjLWduX19aVnlsSTFkRERvbkJxaGlwdjVGQkF4c3Z2Vk9YNkYyRjNnbTVVcXlBVWlrNUxmVWFDc2VOVzE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "faec2f79ed6a",
-      "title": "美연구진 \"약 많이 먹는 노인, 비만 탓…GLP-1 도움될까\" - 약사공론",
-      "published": "2026-06-29T20:50:00+00:00",
-      "summary": "美연구진 \"약 많이 먹는 노인, 비만 탓…GLP-1 도움될까\"&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iT2NjaGVpMUJ0T2pYRzd4clZKbDV1RkNLa1dnZ2JjN20tYVp5bjJwQVJpdWI5aTF5YWptakdLV3cwMWJiMFdyNEVXWVZ5VXBGbHVBZnZxSEZWYko4Q25vMVBYd00wNVJUZXIyQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c14a997ab3fb",
-      "title": "[화제의 책] 암은 운명이 아니다, ‘생명의 암호’를 읽는 시간 - 트래블아이",
-      "published": "2026-06-29T20:09:00+00:00",
-      "summary": "[화제의 책] 암은 운명이 아니다, ‘생명의 암호’를 읽는 시간&nbsp;&nbsp;트래블아이",
-      "sources": [
-        {
-          "name": "트래블아이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jRkFrRHQ2amR0YkkwaFJzMl9TdDg4Uk4xaWI0NGNCV19LR2hQeWhOQmpwTTN0QjBBbjROdUt0VFVJNGJQWU12Nm1NeW1oZ3RmMGdLag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab6accff88d7",
-      "title": "“운동할 시간 없다?”…하루 ‘이만큼’만 움직여도 기분·활력 ‘쑥’ - 농민신문",
-      "published": "2026-06-29T20:00:00+00:00",
-      "summary": "“운동할 시간 없다?”…하루 ‘이만큼’만 움직여도 기분·활력 ‘쑥’&nbsp;&nbsp;농민신문‘스틱 짚고’ 걸었더니, 5주 만에 우울증 증상 완화&nbsp;&nbsp;헬스조선노르딕 워킹, 중증 우울 증상에서 개선 폭 커… “5주 만에 우울 점수 37% 감소”&nbsp;&nbsp;하이닥우울증, 약만 답 아니다? 주 2회 '이 걷기' 했더니 증상 확 줄어&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zT0pPVEZpVzNfa3JyWS1qRnRCV2FDWFFsaXVaSWhtQk5fUFRFYzhnMEdLS3Z4RHlLNjVmQzBnQnJ0cy1mRDhFeWlqbFQ0TEhGcU5ubGV4UnlpQQ?oc=5"
         }
       ]
     },
