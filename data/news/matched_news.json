@@ -1,13 +1,26 @@
 {
-  "last_updated": "2026-07-02T09:17:05.975848+00:00",
-  "total_count": 42,
+  "last_updated": "2026-07-02T14:08:23.585910+00:00",
+  "total_count": 40,
   "matched_count": 0,
   "news": [
+    {
+      "id": "fad61d300125",
+      "title": "레몬물 한 잔의 놀라운 효과…“피부 건강부터 신장결석 예방까지”",
+      "published": "2026-07-02T09:08:25+00:00",
+      "summary": "레몬물 한 잔의 놀라운 효과…“피부 건강부터 신장결석 예방까지”&nbsp;&nbsp;동아일보레몬물 한 잔의 놀라운 효과…\"피부 건강부터 신장결석 예방까지\"&nbsp;&nbsp;뉴시스“식욕 줄이고 피로 해소”… 미 영양 전문가 꼽은 ‘레몬물’ 의외의 효과 8가지&nbsp;&nbsp;헬스조선레몬을 '여기'에 딱 한 조각만 넣어보세요… 여름철 고민 싹 해결됩니다&nbsp;&nbsp;위키트리",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xNkxpckJUOGhIdUFUMG5QQjhxRThRd1NpRG91aDAxbVE1LTh1SFZKenBwcEdORVpjcFFhVm9qSGxLaVd0aDlncllhSXJONm9UTC1XUGJSRHh4VDU5Y185UmRfOU81bEgwU1hnTzh1Z2M2N2UtZWfSAWZBVV95cUxNNlNwcVhWOUV4UFNSN05uLUNJZXNYQ1JxNlo1RVVuWEFzWUVSTlkzYV8yOFNVZ3pyZjF3MWJVVm9WdFZFaWNEdFRNd3FhSzZHNW01d0hCVjhKNXJLazVkZG1pZVRSVkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "70e08ba57165",
       "title": "KAIST, 병든 뇌에서만 켜지는 치매 치료 전구약물 개발 - MIT 테크놀로지 리뷰",
       "published": "2026-07-02T08:21:37+00:00",
-      "summary": "KAIST, 병든 뇌에서만 켜지는 치매 치료 전구약물 개발&nbsp;&nbsp;MIT 테크놀로지 리뷰KAIST, 치매 원인 물질 활용하는 치료 기술 개발&nbsp;&nbsp;v.daum.net[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스\"병든 뇌에서만 작동\" 치매 치료 '전구약물' 전략 제시&nbsp;&nbsp;네이트“치매 원인 물질을 치료 신호로”…KAIST, 알츠하이머 전구약물 개발&nbsp;&nbsp;아시아투데이",
+      "summary": "KAIST, 병든 뇌에서만 켜지는 치매 치료 전구약물 개발&nbsp;&nbsp;MIT 테크놀로지 리뷰KAIST, 치매 원인 물질 활용하는 치료 기술 개발&nbsp;&nbsp;v.daum.net[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스치매 악화 물질이 치료제 '스위치'로...KAIST, 새 치매 치료 전략 제시&nbsp;&nbsp;바이오타임즈“치매 원인 물질을 치료 신호로”…KAIST, 알츠하이머 전구약물 개발&nbsp;&nbsp;아시아투데이",
       "sources": [
         {
           "name": "MIT 테크놀로지 리뷰",
@@ -56,14 +69,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d78abaf4a67a",
+      "id": "207a2e213365",
       "title": "\"암은 왜, 누구에게서 생기는가?\" 암 연구 거장 프라우메니를 추모하며",
-      "published": "2026-07-02T07:22:45+00:00",
-      "summary": "\"암은 왜, 누구에게서 생기는가?\" 암 연구 거장 프라우메니를 추모하며&nbsp;&nbsp;supple.kr",
+      "published": "2026-07-02T07:23:00+00:00",
+      "summary": "\"암은 왜, 누구에게서 생기는가?\" 암 연구 거장 프라우메니를 추모하며&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "supple.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Wc0prTjc0LTBDTEJjYUpDNTNfb1dUQ3B5aEJpRXo2dHp4VjhMNzR2QXU3M2F2LTd2NWJiSGJqSHVaZzJlcE42XzNqZ0lqLWZOWWlmSGdDdVJVTmRL?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmZGh2dDNFd1NoLVhTcUJjbldvRHAwcnZtcjZOekl1b0RSNWdyeklyWEQtZUxVOU1QNW9Xdy1QSTFtNzFMdmNoVmFsTEctNDBIV1pn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -84,8 +97,8 @@
     {
       "id": "b03bc46f5af9",
       "title": "서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다",
-      "published": "2026-07-02T06:01:01+00:00",
-      "summary": "서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다&nbsp;&nbsp;c3korea.net[치매예방주간학습지 뇌똑똑] (434)&nbsp;&nbsp;한라일보오늘부터 하루 세번 ‘이 손’으로 양치해야 하는 이유&nbsp;&nbsp;농민신문치매 걱정될 때, 하루 10초 ‘새끼손가락 운동’을… 방법은?&nbsp;&nbsp;헬스조선“청력 떨어지면 주의해야”...치매 예방에 도움 되는 건강 관리법&nbsp;&nbsp;코메디닷컴",
+      "published": "2026-07-02T06:03:13+00:00",
+      "summary": "서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다&nbsp;&nbsp;c3korea.net오늘부터 하루 세번 ‘이 손’으로 양치해야 하는 이유&nbsp;&nbsp;농민신문치매 걱정될 때, 하루 10초 ‘새끼손가락 운동’을… 방법은?&nbsp;&nbsp;헬스조선흐릿해진 기억, 치매 신호일까? 약사가 알려주는 ‘뇌 건강 영양제’ 복용법&nbsp;&nbsp;하이닥“청력 떨어지면 주의해야”...치매 예방에 도움 되는 건강 관리법&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "c3korea.net",
@@ -108,23 +121,10 @@
       "matched_keywords": []
     },
     {
-      "id": "2f9dcf0c89c8",
-      "title": "물린 자국도 없는데···박쥐 접촉한 캐나다 11세 소년 광견병 사망",
-      "published": "2026-07-02T04:41:00+00:00",
-      "summary": "물린 자국도 없는데···박쥐 접촉한 캐나다 11세 소년 광견병 사망&nbsp;&nbsp;주간경향잠결에 '박쥐' 만진 캐나다 소년…병원 오진 끝에 사망 충격&nbsp;&nbsp;v.daum.net잠자다 얼굴에 닿은 박쥐…11세 소년, 광견병으로 숨져&nbsp;&nbsp;경기일보물린 자국도 없었는데...박쥐 스친 11살 소년 광견병 '참변'&nbsp;&nbsp;YTN\"상처 없어 괜찮을 줄\"…박쥐 접촉 뒤 광견병으로 숨진 캐나다 11세 소년&nbsp;&nbsp;아시아경제",
-      "sources": [
-        {
-          "name": "주간경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GYWdLQUZ3VlMwd1NhVVIxWjd3Tnl4bjN3Tll4VC1VekFDOTVwUkJGTnVsR0huQjJiRTJRbFcyS2FGZ21WVEpNVUZLWHFUWWtPMjhBTlZzdlVMSGNtdGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "594bd45b94a9",
       "title": "‘다리에 벌레 기어가는 느낌’ 하지불안증후군, 근육량 적은 남성이 더 위험하다",
       "published": "2026-07-02T04:17:00+00:00",
-      "summary": "‘다리에 벌레 기어가는 느낌’ 하지불안증후군, 근육량 적은 남성이 더 위험하다&nbsp;&nbsp;경향신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "‘다리에 벌레 기어가는 느낌’ 하지불안증후군, 근육량 적은 남성이 더 위험하다&nbsp;&nbsp;경향신문남성의 하지불안증후군, 근육량 감소 때문일지도&nbsp;&nbsp;헬스조선다리 저려 잠 못드는 남성… 남들보다 근육량 적은지 살펴보세요&nbsp;&nbsp;한국일보다리 저림의 원인… 남성 ‘근육량 감소’가 주범&nbsp;&nbsp;간호사신문근육량 적을수록 하지불안증후군 위험 증가&nbsp;&nbsp;메디칼트리뷴",
       "sources": [
         {
           "name": "경향신문",
@@ -163,7 +163,7 @@
       "id": "e14888dad5e2",
       "title": "mRNA 인플루엔자 백신의 광범위 면역 효과 확인",
       "published": "2026-07-02T03:12:42+00:00",
-      "summary": "mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;코리아헬스로그[건강포커스] \"mRNA 백신 효과·안전성 재확인…독감·암 치료 활용 기대\"&nbsp;&nbsp;v.daum.net코로나 백신 둘러싼 논란… 연구진이 내린 최종 평가는?&nbsp;&nbsp;금강일보고려대 의대, mRNA 독감백신 광범위 면역반응 확인&nbsp;&nbsp;주간한국mRNA 백신, 기존 인플루엔자 백신 한계 넘을까&nbsp;&nbsp;현대건강신문",
+      "summary": "mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;코리아헬스로그[건강포커스] \"mRNA 백신 효과·안전성 재확인…독감·암 치료 활용 기대\"&nbsp;&nbsp;v.daum.net고려대 의대, mRNA 독감백신 광범위 면역반응 확인&nbsp;&nbsp;주간한국mRNA 백신, 기존 인플루엔자 백신 한계 넘을까&nbsp;&nbsp;현대건강신문mRNA 독감 백신, 기존 달걀 백신보다 ‘면역 효과 길고 변이에 강하다’&nbsp;&nbsp;팍스메디컬뉴스",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -186,6 +186,19 @@
       "matched_keywords": []
     },
     {
+      "id": "a37f2ea7c9ff",
+      "title": "“푹푹 찌는 폭염, 에어컨 몇 도가 좋을까”…심장이 먼저 답했다",
+      "published": "2026-07-02T01:49:22+00:00",
+      "summary": "“푹푹 찌는 폭염, 에어컨 몇 도가 좋을까”…심장이 먼저 답했다&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92RjhFZnkwNlJaSUtoZGdhdmZ2dmhWY3dLcE0xMGhyRjFKMlFOV1AxUmNTci1MellPcXpTNV83TE14LXAtWVlJTUllbEl6dw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c30911b8aac7",
       "title": "한밤중에 개에 물린 79세 할머니, 긴급 백신 운송 덕분에 구조",
       "published": "2026-07-02T01:09:33+00:00",
@@ -194,6 +207,19 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUhIQVZNRndVMGxNNElZbjA3Ml93OGx2Nk5MYlhUMXZJYUw2SHVLMmpqaG9jaTNDS0JCTzQwUUNya0JwOTBJdWQ5a2hOUWN3d0VBNGZIbm03Y3BUakxsUDFlZ3RzWnJ3SG9CWExXdWFkNkZQYy1FaXktYkR5YTZPbU9aSkdoZTFuUWljb3c3R1dzbUxZanpOTzRqSE5PQ1hPRXBra01SdGc4dVhKY2tBTE9LWW9paDBRZE1lMHlnZmhxZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b2b57eee34c2",
+      "title": "연구성과> 김상우 교수, 과기정통부 기초연구실 사업 선정…우주구조물 '하중지지형 구조전지' 개발",
+      "published": "2026-07-02T00:19:46+00:00",
+      "summary": "연구성과> 김상우 교수, 과기정통부 기초연구실 사업 선정…우주구조물 '하중지지형 구조전지' 개발&nbsp;&nbsp;한국항공대학교",
+      "sources": [
+        {
+          "name": "한국항공대학교",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KUVZweFNReFEyd1NEY3oyS0RHbGkxZ21LQU1CVmp6NWRjc1lsLTZtcm43TThRX281OGU2Mlg3MzhQRVJlMHg1S1JqSHF3TGNzUmQ0WURmWGFvWm5pUnR3UXZBejhBSEJFNWE3Z05Jb0w?oc=5"
         }
       ],
       "matched_keywords": []
@@ -215,24 +241,11 @@
       "id": "6f3c3eaeef7b",
       "title": "네이밍| 잠이 안 오는 이유를 묻고(Q), 행동 변화를 이끄는 신호로(Cue)",
       "published": "2026-07-01T20:50:00+00:00",
-      "summary": "네이밍| 잠이 안 오는 이유를 묻고(Q), 행동 변화를 이끄는 신호로(Cue)&nbsp;&nbsp;의학신문한국보건산업진흥원 연구중심병원 창업기업 CEO 디지털치료기기DTx 환자용 앱 의료진을 위한 AI 서비스를 주력으로 하는 디지털 헬스케어 기업 디지털팜&nbsp;&nbsp;한경매거진&북",
+      "summary": "네이밍| 잠이 안 오는 이유를 묻고(Q), 행동 변화를 이끄는 신호로(Cue)&nbsp;&nbsp;의학신문약 먹어도 재발 잦은 ‘우울증’…‘이것’ 했더니 안정상태 유지 도움&nbsp;&nbsp;농민신문",
       "sources": [
         {
           "name": "의학신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZG9OY0tGZHZVT1dSUDJndVdKNVpxSjBpVHc4aElrZG9Va3VWU0JhMjY4X084MW56OWNraE5sUkJpdUVCYVJtcTc3WE9Dc0MwczJOSS1SMkNPckNRSkpTMWdvV05JMG1sTmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f0977b003a03",
-      "title": "레몬을 '여기'에 딱 한 조각만 넣어보세요… 여름철 고민 싹 해결됩니다",
-      "published": "2026-07-01T11:53:00+00:00",
-      "summary": "레몬을 '여기'에 딱 한 조각만 넣어보세요… 여름철 고민 싹 해결됩니다&nbsp;&nbsp;위키트리레몬물 한 잔의 놀라운 효과…\"피부 건강부터 신장결석 예방까지\"&nbsp;&nbsp;뉴시스“식욕 줄이고 피로 해소”… 미 영양 전문가 꼽은 ‘레몬물’ 의외의 효과 8가지&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SVU44djhVMHY4YnJrbHNyU2g3UmU2cGlETG1JbVd0R0JZelY2M3ZKM1U3QnRDRVdGVDFvUlBlRWFvc09Sa3NLa3NsVndzbDdFQlJlT2pR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -293,7 +306,7 @@
       "id": "f38d4134e94f",
       "title": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'",
       "published": "2026-07-01T06:00:23+00:00",
-      "summary": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'&nbsp;&nbsp;네이트우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 ‘주의’&nbsp;&nbsp;경향신문우울증 심할수록 지방간 발병 “빨간불”&nbsp;&nbsp;에너지경제신문\"우울해서 빵 샀어\"는 근거 있는 말…우울증을 대사질환과 함께 보는 이유&nbsp;&nbsp;뉴시스“우울하면 간도 아프다”…45세 미만 우울증 여성, 지방간 위험 20%↑ [건강팩트체크]&nbsp;&nbsp;동아일보",
+      "summary": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'&nbsp;&nbsp;네이트우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 ‘주의’&nbsp;&nbsp;경향신문젊은 여성 지방간, 의외의 이유 있었다… 술·비만 아닌 ‘이 감정’이 영향&nbsp;&nbsp;헬스조선“우울하면 간도 아프다”…45세 미만 우울증 여성, 지방간 위험 20%↑ [건강팩트체크]&nbsp;&nbsp;동아일보\"우울해서 빵 샀어\"는 근거 있는 말…우울증을 대사질환과 함께 보는 이유&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "네이트",
@@ -368,10 +381,23 @@
       "matched_keywords": []
     },
     {
+      "id": "866386e9ef9c",
+      "title": "눈 앞이 침침하다면? 백내장 수술 전 꼭 확인해야 할 사항",
+      "published": "2026-07-01T02:10:56+00:00",
+      "summary": "눈 앞이 침침하다면? 백내장 수술 전 꼭 확인해야 할 사항&nbsp;&nbsp;바이오타임즈백내장 초기증상, 노안과 혼동하기 쉬워…적절한 수술 시기 중요&nbsp;&nbsp;네이트혈당 관리가 눈 건강 좌우…당뇨병과 백내장의 연관성&nbsp;&nbsp;K스피릿백내장, 맞춤형 인공수정체 선택 중요&nbsp;&nbsp;대학저널노안·백내장수술, 환자별 맞춤 인공수정체 선택이 관건&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2Z3gxWHdRVWcwR1NfNkh5dy1CLU5XdkhQSEhZLUxNdEtiMXBLTzVucG5JbktwNTVBVldXQmZfYUZ2V1BudXFBaUhrY05JVFBtMC1BaVNHeTFGOThrbDVKbUVpZnlUeUhTLUVwYg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8be560963fff",
       "title": "[한국인의 100가지 질환-55] 대상포진, 피부병으로만 알았다가 후회할 수 있다",
       "published": "2026-06-30T23:13:15+00:00",
-      "summary": "[한국인의 100가지 질환-55] 대상포진, 피부병으로만 알았다가 후회할 수 있다&nbsp;&nbsp;뉴스인대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심&nbsp;&nbsp;스포츠경향대상포진, 피부병으로 착각하기 쉬워… “젊은 층도 방심은 금물”&nbsp;&nbsp;하이닥",
+      "summary": "[한국인의 100가지 질환-55] 대상포진, 피부병으로만 알았다가 후회할 수 있다&nbsp;&nbsp;뉴스인",
       "sources": [
         {
           "name": "뉴스인",
@@ -389,6 +415,19 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hYjhBT09hMExZTmN6MGRHY1NmMFZVV21iMnl4SWZZbGJVR08zUnVHMHQ4c3JMTUxRcTNMdm84S0t3VndsOUdUTlZLUmZxYUE1aGE0Y0VUUk5FNUFoZURGLTNma1lUaTNEYXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7ba63182b2aa",
+      "title": "대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심",
+      "published": "2026-06-30T22:15:00+00:00",
+      "summary": "대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wYkhVLXRPMzNfaUlDeUJNbU45cUtiaUp2Qjgya0VwSjFuR3IxUmFJeERzQjFBWm95VkxSd19xMUxuN3RXRnNTb1B6TERkN2ZVb1dfTV80emQzUmpwM0NmYQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -420,79 +459,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ca004e480576",
-      "title": "치매 예방에 고스톱보다 탁구가 더 도움 되는 이유",
-      "published": "2026-06-30T11:00:00+00:00",
-      "summary": "치매 예방에 고스톱보다 탁구가 더 도움 되는 이유&nbsp;&nbsp;헬스조선",
+      "id": "d1f6480e9a46",
+      "title": "\"논문 보다 이젠 데이터 시대\"유용균 \"대덕 암묵지, AI센터 연구 플랫폼\"",
+      "published": "2026-06-30T09:51:41+00:00",
+      "summary": "\"논문 보다 이젠 데이터 시대\"유용균 \"대덕 암묵지, AI센터 연구 플랫폼\"&nbsp;&nbsp;헬로디디",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00cnI2TVVIR242S3E4UFdDemp5TTE0UW5OZTNTVFlZMXdEdDNKZDZPRDFzNllrZXg0WG5KMUc5aF9DWU5qUWhNZW9wMU5tRVdycXZMVE10WUlrY2dEeUxHSGlQNHlRRmUtSldIZlVEa1dCNnBkNHM5M1BDcm03dnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cc8c6cdd8b9d",
-      "title": "폐경 후 호르몬 치료, 골밀도 저하 위험 낮춘다",
-      "published": "2026-06-30T11:00:00+00:00",
-      "summary": "폐경 후 호르몬 치료, 골밀도 저하 위험 낮춘다&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iZ1F3OE5sWGxvN1BGa2xuazI5Qzd2R2Z1TURLOW9RWVdjdUxoM2RnbmhXRmVaQ0FUYjVyeHZzbDdwWUhlanM0SUd6TW55Z2ZyTVVycDdCeTN5WHJLck45eHoxRUlTUC1GeEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3a7cf9fdb0a3",
-      "title": "30대도 금물…고혈압 등 전단계 3종, 심뇌혈관질환 위험 23%↑",
-      "published": "2026-06-30T10:27:51+00:00",
-      "summary": "30대도 금물…고혈압 등 전단계 3종, 심뇌혈관질환 위험 23%↑&nbsp;&nbsp;hidomin.com고혈압·고혈당·고지혈 ‘3高’의 경고… 젊다고 안 봐준다&nbsp;&nbsp;국민일보[내과제대로 알기]당뇨 질환, 정기적인 검사와 꾸준한 관리 중요&nbsp;&nbsp;medicalworldnews.co.kr'30세 이상 7명 중 1명 당뇨병, 혈당·혈압·콜레스테롤 통합 관리 필수'&nbsp;&nbsp;이데일리30대 혈압 혈당 콜레스테롤 전단계, 심근경색·뇌졸중 위험 높인다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "hidomin.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpOXhFUEFTY0h3b08zRDEyMEZhWTR3VklORzRCRDJXSmpsMXVaQzkyVzExQ0lIdDZHNm1zdjZ1M3h4ZVdRQlR2Nm1EWEpXaXhtbEFFUlVKMzZBaDN1VzJLZFUxRGdRemU0ZlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7d7cf4d66b2b",
-      "title": "\"'천연 위고비'라길래 아침마다 먹었는데\"…전문가 '경고' [건강!톡]",
-      "published": "2026-06-30T10:24:01+00:00",
-      "summary": "\"'천연 위고비'라길래 아침마다 먹었는데\"…전문가 '경고' [건강!톡]&nbsp;&nbsp;한국경제“달걀 끊으니 6kg 빠져”… 4년 넘게 설사 시달린 보디빌더의 반전 사연&nbsp;&nbsp;헬스조선“천연 위고비라더니 머리가 멍?”…아침 달걀의 ‘배신’, 진짜 범인은 따로 있었다&nbsp;&nbsp;v.daum.net“천연 위고비” 다이어터 국민 아침 메뉴 삶은 달걀…사람에 따라 독이 될 수 있다?&nbsp;&nbsp;경향신문스타들이 먼저 먹은 '천연 위고비' 식단의 공통점&nbsp;&nbsp;엘르 코리아 │ ELLE KOREA",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaVIwUEV1SEwwTWM5OWZrNW5scHRiNE9CZ1M2aUhvamdDMW13SDlMS1pocDh0cFNmTXg3SGZPckVoRldpNHpnYzZKMDJ3RGprcC0ybG01R2xXZ9IBVEFVX3lxTE5rbjJpUzV5SlNyR0ZET0M5Z0dqR3psZHRISWJ2amNlSnlPMG1ZTElWYzV2cWd2ZlpuVjh0MnVDeU50RVRrYzVjUGRJV2hfSG5oT181MA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b87e7e5c47aa",
-      "title": "HIV 차별에 ‘레드 마침표’…학계·감염인 단체·의료진 한목소리",
-      "published": "2026-06-30T09:16:27+00:00",
-      "summary": "HIV 차별에 ‘레드 마침표’…학계·감염인 단체·의료진 한목소리&nbsp;&nbsp;뉴스탭“치료제 발전해도 잔존하는 낙인 해소해야”…‘레드 마침표’ 상생 거버넌스 가동&nbsp;&nbsp;약업신문\"HIV 낙인 해소는 공중보건 과제\"&nbsp;&nbsp;e-의료정보레드 마침표 협의체, HIV 차별·편견 종식 선언문 발표&nbsp;&nbsp;메디코파마",
-      "sources": [
-        {
-          "name": "뉴스탭",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81ZkVZNkRCazhnS2tvRXYwRVVBaER3cFRzNjVoWmNrMWpkNkNNRUNGdGsyempSc2g1ekk3eW5Oc01pTjEyNWUydWRTTWpSNUxxOWtCWjI4YU0zdG1fU3FaZ0dDRG1xb2hBZ0FRTA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "32d2d13f2325",
-      "title": "관절 영양제 글루코사민, 치매 환자에겐 독?… 사망 위험 25% 높게 나타나",
-      "published": "2026-06-30T09:00:00+00:00",
-      "summary": "관절 영양제 글루코사민, 치매 환자에겐 독?… 사망 위험 25% 높게 나타나&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iNzE3bWpOUFRjNE9xbWdPSjF6TDFITWtHcVhHZDZ4RUw5ZWFWM3lzVmRBbXVDNDBTRDJaUWY0bFZ4R29wMWhDMVFPZ2I3cXVNOWJDWmNsUDEyaWJod3RtV0k2YkJMMGNFZUE?oc=5"
+          "name": "헬로디디",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GZG9SdElYVndjSXBfblVzc0JoeWF3WUpsSUJ4akZpempXQnpGYWJHSFdRZFR0Z0hId0wtcXg1ek5SUFhab1ZVYmtRMFlMODFNTVdkQkdDWnBqZjBDanU5OFpJQUV2b3pTbHc?oc=5"
         }
       ],
       "matched_keywords": []
