@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-07-03T09:22:59.380907+00:00",
-  "total_count": 37,
+  "last_updated": "2026-07-03T14:12:35.550839+00:00",
+  "total_count": 39,
   "matched_count": 0,
   "news": [
+    {
+      "id": "cea9d33e3e02",
+      "title": "\"치매를 일으키던 물질이 약이 됐다\"... KAIST, 병든 뇌에서만 작동하는 '스마트 치료제' 개발",
+      "published": "2026-07-03T13:39:00+00:00",
+      "summary": "\"치매를 일으키던 물질이 약이 됐다\"... KAIST, 병든 뇌에서만 작동하는 '스마트 치료제' 개발&nbsp;&nbsp;특허뉴스치매 원인 물질이 치료 ‘스위치’를 켠다​&nbsp;&nbsp;BRIC[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스“치매 원인 물질을 치료 신호로”…KAIST, 알츠하이머 전구약물 개발&nbsp;&nbsp;아시아투데이\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”&nbsp;&nbsp;뉴스인",
+      "sources": [
+        {
+          "name": "특허뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CczEtZ1VGYTJqYWJQR0g4NU1XTEVjM1BWQlR0Q2F4TXhXcmo1N3hVRFY0TTltSDVKdnlzS3JPNVZaSFFwUWxvSA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "01624d5c6941",
+      "title": "日, ‘당뇨병×순환기질환’ 컨센서스 스테이트먼트 개정",
+      "published": "2026-07-03T11:30:00+00:00",
+      "summary": "日, ‘당뇨병×순환기질환’ 컨센서스 스테이트먼트 개정&nbsp;&nbsp;재활뉴스",
+      "sources": [
+        {
+          "name": "재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhbGgyXy1UaFZYTzZyODBVNU9XcEVxRVA2OUJfNW1EdHBwaDA0V2hpSWE0a2pfTTd2ZHFDUWJNaUlqTFRPTkRVOFpqUzBURVdocXUydW1kamwwT1c4cm4zUXNJbmp3NXJuamg4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3c7480bc26be",
+      "title": "암 걸린 사람은 치매 덜 걸린다?...‘암-알츠하이머 역설’ 왜 생기나",
+      "published": "2026-07-03T11:15:08+00:00",
+      "summary": "암 걸린 사람은 치매 덜 걸린다?...‘암-알츠하이머 역설’ 왜 생기나&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MNzZBY0ttOXZuR2Jhd0J0eHVYdC1uUDBzVGQyb3kzcG8zM1dlMUJkazRYbWhHblBxblNDSG9vcWt0LUxfS0w0aEZ3MGdqRzE2a0hEV29mVlNVcUR4eC1BdExya25DYUdxeFZiYnpsWDZaUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "512ec0751ee7",
+      "title": "나이 들어 운동 효과 없다고?... 4분만 투자하면 몸을 깨울 수 있어요",
+      "published": "2026-07-03T08:59:34+00:00",
+      "summary": "나이 들어 운동 효과 없다고?... 4분만 투자하면 몸을 깨울 수 있어요&nbsp;&nbsp;조선일보노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답&nbsp;&nbsp;헬스조선노년 근감소증, 막을 수 있다&nbsp;&nbsp;캐나다 한국일보질병보다 무서운 '노쇠'…생활습관이 건강수명 좌우&nbsp;&nbsp;매경헬스무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1SHQ5a2JyRVdTbHdJYVlnMHZQWldQbks4RHRVNDRsaGtoOW5YWmRib2JJS21WVTlSM1p4N1ZxMGFmUVlLbnVjN0kzVEI3U3AzUEw1UW5zM1Y0OThidkx4aHJXQUZXT2YyRW1yR1Q1dWZaUnNWWUVUaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "6eced73dab62",
       "title": "치매 없는 뇌전증 환자 뇌 속 타우 단백질 증가 확인",
@@ -43,14 +95,14 @@
       "matched_keywords": []
     },
     {
-      "id": "759fa23b9bad",
-      "title": "\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”",
-      "published": "2026-07-03T07:28:52+00:00",
-      "summary": "\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”&nbsp;&nbsp;뉴스인치매 원인 물질이 치료 ‘스위치’를 켠다​&nbsp;&nbsp;BRIC[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스\"병든 뇌에서만 작동\" 치매 치료 '전구약물' 전략 제시&nbsp;&nbsp;네이트“치매 원인 물질을 치료 신호로”…KAIST, 알츠하이머 전구약물 개발&nbsp;&nbsp;아시아투데이",
+      "id": "d69ed16661da",
+      "title": "장시간 앉아있을수록 암 사망 위험↑ \"가벼운 활동만 해도 위험 낮춰\"",
+      "published": "2026-07-03T07:10:36+00:00",
+      "summary": "장시간 앉아있을수록 암 사망 위험↑ \"가벼운 활동만 해도 위험 낮춰\"&nbsp;&nbsp;의협신문“30분 넘게 계속 앉아 있으면 암 사망 위험 높아질 수도”&nbsp;&nbsp;매일경제[건강포커스] \"오래 앉아 있을수록 암 위험↑…가벼운 움직임 늘리면 위험↓\"&nbsp;&nbsp;v.daum.net“30분 넘게 앉아 있었다면 당장 일어나라”…1시간 늘 때마다 ‘사망 위험’ 확 오른다는데 [헬시타임]&nbsp;&nbsp;서울경제운동 많이 하면 암 안 걸린다?…부장 눈치 보지 말고 엉덩이 '들썩'해야 하는 이유[과학을읽다]&nbsp;&nbsp;아시아경제",
       "sources": [
         {
-          "name": "뉴스인",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Y1Vjb3M4cmRPNE1nMWlrUUdyY3lyTENxT0sxbEVpMm9qbi1fWkRXU2F0d1d3MFFXWlZIaFYxVVBwT1pGbXBHUl9LdmdTS2ZRV2RNNUZOaHFiTW40bW9aZWdfSm81SjRfMjc4?oc=5"
+          "name": "의협신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnaXpkd1RYYzBua0ttOG5jSU9xdVAtc2lUbm1ucXQxZl9uSURRWDF2ODlCb3VBSEVyVG5QbElOUGlabE9OZHJhcXRmQlFaRjlCVW12SGdmQ1dpVzVwcEZlTjVZODJiUS1qX0VhOGt3MnhVdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -64,19 +116,6 @@
         {
           "name": "의사신문",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qaVhzREhtbXhCaTctaExhQzlmcW1pb21SbFJtRndycHp3Z2lPeWFNWHZTMnhtVWN6R1Zsby01VEpCWnpJclppYjdNN0JOb0ZSbGRuMmo1cVBvejZQZlRIRGZfQUhUbGN2MThwa1BnMA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dcd94f2296d2",
-      "title": "“톡으로 받았는데”…‘가짜 건강정보’ 거르는 7가지 체크리스트",
-      "published": "2026-07-03T06:00:00+00:00",
-      "summary": "“톡으로 받았는데”…‘가짜 건강정보’ 거르는 7가지 체크리스트&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10eVZLVEFaRm4wUVROYk9GZzdnQmRRUHhfTWJ3cDhkeHRoaGE5anVlWHFSS3RsVG1wZVZsUWZMSXRCbFBEVnc5SklGdy1MbXVHNlpEbmUtQVE1UQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -111,7 +150,7 @@
       "id": "8d34ba69d470",
       "title": "비만치료제 사용 후 근손실·요요 주의...\"생활습관 병행해야\"",
       "published": "2026-07-03T03:15:42+00:00",
-      "summary": "비만치료제 사용 후 근손실·요요 주의...\"생활습관 병행해야\"&nbsp;&nbsp;의학신문\"비만치료제 맞으면 끝?…감량 열풍 속 놓치기 쉬운 '근손실' 경고\"&nbsp;&nbsp;파이낸셜뉴스비만 주사의 새로운 부작용… 후각·미각 기능 저하&nbsp;&nbsp;헬스조선비만치료제 효과 없다면, '이것' 살펴봐야&nbsp;&nbsp;네이트“위고비·마운자로 열풍, 비만치료제, ‘다이어트약’ 아닌 치료제”&nbsp;&nbsp;현대건강신문",
+      "summary": "비만치료제 사용 후 근손실·요요 주의...\"생활습관 병행해야\"&nbsp;&nbsp;의학신문\"비만치료제 맞으면 끝?…감량 열풍 속 놓치기 쉬운 '근손실' 경고\"&nbsp;&nbsp;파이낸셜뉴스비만 주사의 새로운 부작용… 후각·미각 기능 저하&nbsp;&nbsp;헬스조선비만치료제 효과 없다면, '이것' 살펴봐야&nbsp;&nbsp;네이트위고비·마운자로, 무분별 투약 시 근손실·요요 주의보&nbsp;&nbsp;헬스미디어뉴스",
       "sources": [
         {
           "name": "의학신문",
@@ -129,19 +168,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XekpMTmRaREtBWHpNeWtlNm1md1FFX0Zjcld4cVgwRTEzZ3cxYzN3OVRmWU9UVzExT2dQNkRXUTlGbVF5RWg0RVJmaDNwVnJGTUpLeFFwYjZCc3RKalJfcDRMWWJma3pfamVj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d964256e2df6",
-      "title": "GLP-1 RA, 말초동맥질환 동반 당뇨병 환자 사망ㆍ입원ㆍ절단 위험 ↓",
-      "published": "2026-07-03T03:09:49+00:00",
-      "summary": "GLP-1 RA, 말초동맥질환 동반 당뇨병 환자 사망ㆍ입원ㆍ절단 위험 ↓&nbsp;&nbsp;의약뉴스",
-      "sources": [
-        {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1abnltOFRWWWJIb1FGcVVqQU5HVFp0MC01MzM1Ui1EaXFkSVI5Y1FURnVZVlBUb1RwczhNaFhsTTdzaDd3Vk5DSW11emRocFEzZ2tJekRGZEpfWnVDLUZTSVJ5N1NCSDA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -215,7 +241,7 @@
       "id": "7c31f37b560e",
       "title": "36조 치매 치료 시장 열린다···국산 치료제 경쟁 뜨거워진다",
       "published": "2026-07-02T23:00:00+00:00",
-      "summary": "36조 치매 치료 시장 열린다···국산 치료제 경쟁 뜨거워진다&nbsp;&nbsp;서울파이낸스[의료칼럼] 알츠하이머 치매&nbsp;&nbsp;v.daum.net치매 치료시장 커진다…임상·기술수출 활기&nbsp;&nbsp;한국경제피 한방울로 ‘위험’ 진단… 알츠하이머 새길 열린다&nbsp;&nbsp;동아비즈니스리뷰 | DBR알츠하이머 신약 개발 ‘다양화’&nbsp;&nbsp;의학신문",
+      "summary": "36조 치매 치료 시장 열린다···국산 치료제 경쟁 뜨거워진다&nbsp;&nbsp;서울파이낸스[의료칼럼] 알츠하이머 치매&nbsp;&nbsp;v.daum.net치매 치료시장 커진다…임상·기술수출 활기&nbsp;&nbsp;한국경제“단순 건망증일까?” 뇌 속의 독소, PET-CT 치매검사로 골든타임 잡다&nbsp;&nbsp;바이오타임즈피 한방울로 ‘위험’ 진단… 알츠하이머 새길 열린다&nbsp;&nbsp;동아비즈니스리뷰 | DBR",
       "sources": [
         {
           "name": "서울파이낸스",
@@ -228,11 +254,24 @@
       "id": "d2c07a0ac922",
       "title": "[의학칼럼] 치매 예방과 뇌 활동의 중요성",
       "published": "2026-07-02T22:40:00+00:00",
-      "summary": "[의학칼럼] 치매 예방과 뇌 활동의 중요성&nbsp;&nbsp;양산신문치매 속도를 늦추고 되돌리는 10가지 매듭&nbsp;&nbsp;톱클래스치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 ‘고스톱의 배신’&nbsp;&nbsp;중앙일보서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다&nbsp;&nbsp;c3korea.net오늘부터 하루 세번 ‘이 손’으로 양치해야 하는 이유&nbsp;&nbsp;농민신문",
+      "summary": "[의학칼럼] 치매 예방과 뇌 활동의 중요성&nbsp;&nbsp;양산신문\"낮 1시15분 이후엔 커피 안돼\"…치매 위험 낮추는 4가지 습관 - 머니투데이&nbsp;&nbsp;머니투데이80대 노인도 기억력 좋아졌다…텍사스대 \"뇌 훈련 시 인지 기능 향상\"&nbsp;&nbsp;뉴시스뇌 기능 지키려, 의사들이 한다는 두뇌 게임은?&nbsp;&nbsp;헬스조선늙는 건 나이가 아니라 변화를 멈추는 일이다&nbsp;&nbsp;브런치",
       "sources": [
         {
           "name": "양산신문",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03Zm4wc3N3MDhUMGZER3Z1bWI0TklBcHJGMWtlbFYwM3Q2ZUZMOHFTUlBRUXNreUlZOHdTeVRjN01YekNoenp3QURZNWtySmIteGx3VF9NNUNfN1d2czVDVkJXOUFoWTdZb1k3ZkFPcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a3c53add146a",
+      "title": "여성 파킨슨병, 알츠하이머 위험 신호 먼저 켜지나",
+      "published": "2026-07-02T20:49:00+00:00",
+      "summary": "여성 파킨슨병, 알츠하이머 위험 신호 먼저 켜지나&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UY2g5VDlvZ2xrNDBNOWM2SkRqejFMaEhxWUlzRElIZnRLTkx3akdtdVFpMmd3ZWRqZFd0dW9XRFpwc291ZENRR1BELTVJd0YxWU12V3JJQVh2aE5iQkNOUnpBOFlyT3hzYk5sdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -246,6 +285,32 @@
         {
           "name": "데일리안",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhQldtV0s3ZTlvWjYxNHlmZndMQkwzOXpqYlEwZDhPSzgyWW4yZnJTRGNoVTFtTXRLY1Y5aW5ieEFNSXNjOE1BX3czeS1vRnRiSXdMZ3FR0gGmAkFVX3lxTE9VMFBmN2tCMFQzVXZ3NFFhb2QxSkxobEN3YU5ZNmtRZmZ4ZHltOVQ1bHh0YnVqV3k1b0Y2NjFWLTQ2VEhfbmxMUDJxYVBNSTBhcHdUa0dJUHhuc18tdUxncHlidUR1Z2tkNkhlSGlqaHpNNWtmUFo4T0RZUVgxckxtUUU3bGJybHVqUkJTQy01Yk5wQ3FKTVlnQko3NFpqY3l2TU12Z1lNUTBtY0hZNlFzdlpETVZseS0yalhndmQwbWQwZzk4WDdYdjJ2R1FUaDJSekVLWDhWSXdBZG5TUnZnVDhzRUtxbmxPRENiLTc3R1VtckJaOGtDRlFadVZHeXlRZm5oU2M4aGtzVnlYNnlYdk1YZ3M5cFlUQ1g4X1AzUTlzbnBqUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3acd56505b35",
+      "title": "WHO, 크루즈선 한타바이러스 집단감염 종료 선언",
+      "published": "2026-07-02T19:06:00+00:00",
+      "summary": "WHO, 크루즈선 한타바이러스 집단감염 종료 선언&nbsp;&nbsp;YTNGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwV0hYcm92Ukt2R1RTUHVManhTaWtyVlRROWg1ZTRBeF9MWHQtbHMwd0VkODJnc3U1SWdDQU00VUxuMWlWR2FpTlpQVEw5RWFpNG8yUXNwY3JNVlVsNEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b5c4bac42c6e",
+      "title": "“PQC-QKD 실제 적용”... 양자보안연구회 워크숍 10일 개최",
+      "published": "2026-07-02T09:53:00+00:00",
+      "summary": "“PQC-QKD 실제 적용”... 양자보안연구회 워크숍 10일 개최&nbsp;&nbsp;보안뉴스",
+      "sources": [
+        {
+          "name": "보안뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLTHBpeGNaRG04THkyQWVwQV9LZXQ0QlE2Z3VKLVN5eF9QeGtPNHFjZWpqc0xEX2Q0U2VibUh1MGtsdVh5cXJMUnlnY05DY1RwM3ZSdVNrOG9SclhWUHZLRHNWNXk0T0FmVEU3eGZB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -267,24 +332,11 @@
       "id": "43c5ad6b269d",
       "title": "치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]",
       "published": "2026-07-02T07:58:45+00:00",
-      "summary": "치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;동아일보치매 위험 줄이는 식습관…‘저염증 식단’ 실천해야&nbsp;&nbsp;미주한국일보“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남“먹는 걸 바꾸면 뇌가 바뀐다”…치매 위험 확 줄이는 식단 정체는?&nbsp;&nbsp;전자신문",
+      "summary": "치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;동아일보“비싼 영양제 절대 효과없다” 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;v.daum.net“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴치매 위험 줄이는 식습관…‘저염증 식단’ 실천해야&nbsp;&nbsp;미주한국일보매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남",
       "sources": [
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRd0c1b2lxMWdaTHl0U2ltX1QxZ1NzbGVpakhWempKRlRpWDNXaUxGM0RMbkZIbHlmN3dza3RKWm9XQ3hIWFBGSWVNWEJBN2pHVmkxVU9qUzdlY1NtYlItWEViVzIxcEQyRzluLTF3c9IBZkFVX3lxTFBPM1ZJUklMOGNkZVREX3lNM0RDSHNlNFRxZlhsVkFjRHNBRWJzcTVOMFE4cWZDd3BzQ084ZzNlblhnekplYUFjZUVWU1liamc3akJiQ3NheTRTSXU1TFJzd0MzZ2JTZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4d424a92085f",
-      "title": "고령층 눈 건강 적신호… 백내장·황반변성·당뇨망막병증 '동시 발병' 주의",
-      "published": "2026-07-02T07:32:41+00:00",
-      "summary": "고령층 눈 건강 적신호… 백내장·황반변성·당뇨망막병증 '동시 발병' 주의&nbsp;&nbsp;보건신문[건강체크] “갑자기 시력이 떨어진다”…단순 노안 아닌 ‘안과 질환’ 신호일 수도&nbsp;&nbsp;전국뉴스실명 부르는 망막질환 ‘황반변성’ 증상은? 조기 진단이 핵심&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4ydEs3dndKR2RDWVI5NG5oV2tMcXNGSUVqcVN6a2pCX2c4Ry12VFJQOUVzTnNSZ1RaTzdtUUUzTS0yRnY3cm01cUlmVXZ1dnJ4OUdDdGVrWEtCV1J6U3JwZ05n?oc=5"
         }
       ],
       "matched_keywords": []
@@ -319,7 +371,7 @@
       "id": "2401f0b856f9",
       "title": "비타민, 결핍 없으면 질병 예방 효과 제한적",
       "published": "2026-07-02T06:30:00+00:00",
-      "summary": "비타민, 결핍 없으면 질병 예방 효과 제한적&nbsp;&nbsp;헬스조선☀️ 강아지는 햇빛을 쬐어도 비타민 D를 만들지 못합니다&nbsp;&nbsp;네이버 프리미엄콘텐츠",
+      "summary": "비타민, 결핍 없으면 질병 예방 효과 제한적&nbsp;&nbsp;헬스조선☀️ 강아지는 햇빛을 쬐어도 비타민 D를 만들지 못합니다&nbsp;&nbsp;네이버 프리미엄콘텐츠비타민D 충전, 햇빛만으로는 부족하다?&nbsp;&nbsp;뉴스토마토",
       "sources": [
         {
           "name": "헬스조선",
@@ -350,6 +402,19 @@
         {
           "name": "넥스트데일리",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zclYzb08wNGZLTXF6SmRRSHl4d3pJZ1d6Z25zNkV6a3lLeFREVHlrTDFFamhNSTRyTi1oaWFDY21CZFdRZ1VNLU9idUpBaF9xWlhLaV9LeWV0T2JCREFWR29waWFwMl9BV3NIcnNMWdIBc0FVX3lxTE1wLXVaZENJVWl4eXcxeWVheDh1ZXNqMGdrcWljeTBOZHVHQmNxd3cwbTlrUFJXOWoybXJzcno2T3dBakhuZl9yVURqU0pWeTFXdnF3RHNoRmtCQnhXVm9jS2g3T0dwQnJDNVFxdzRhckd2enc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "594bd45b94a9",
+      "title": "‘다리에 벌레 기어가는 느낌’ 하지불안증후군, 근육량 적은 남성이 더 위험하다",
+      "published": "2026-07-02T04:17:00+00:00",
+      "summary": "‘다리에 벌레 기어가는 느낌’ 하지불안증후군, 근육량 적은 남성이 더 위험하다&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LTXBnVEFGV29wNHpmaWM1Q0lITktUZ0xISE1TUGtLQldEcW9MYjltb2YxMHh2a0pyWjRiWFBiaUJWLXVoa1NXdzJKY3ZfMURxRE90UFZwblBYd9IBX0FVX3lxTE5RSHpTMktsbDQyQWlrdU1SWWlqdEdwUHpBRU1wT3NtVXprZGJiRTV0RnZSNkd1a2lud2xPTVpKbklxdkpvdzB0aUx1RmcwWnhGbk9ESFhaT2stNHl1QWpN?oc=5"
         }
       ],
       "matched_keywords": []
@@ -420,19 +485,6 @@
       "matched_keywords": []
     },
     {
-      "id": "db5471b5c03d",
-      "title": "“결혼 안 해도 되나?”…中 2억원 ‘반려자 로봇’ 예약 1만3000대 [핫이슈]",
-      "published": "2026-07-02T01:00:00+00:00",
-      "summary": "“결혼 안 해도 되나?”…中 2억원 ‘반려자 로봇’ 예약 1만3000대 [핫이슈]&nbsp;&nbsp;나우뉴스",
-      "sources": [
-        {
-          "name": "나우뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MMUtsc01uWGxmRWJVbml4ZDNxbGVWN1JRU042cjFubmx2cy1YcHpSQWVFZ0R1YU5PRmpocW9pUlNRMWJ6VHp6WlVDZmUzYzJYOVJpNkhHcHpFdTk0WnVfWnpkOWFRaHlwVDI4MFhPOF8?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b2b57eee34c2",
       "title": "연구성과> 김상우 교수, 과기정통부 기초연구실 사업 선정…우주구조물 '하중지지형 구조전지' 개발",
       "published": "2026-07-02T00:19:46+00:00",
@@ -446,19 +498,6 @@
       "matched_keywords": []
     },
     {
-      "id": "00de30309b5b",
-      "title": "\"잠 안 자면 치매 걸린다고?\"…뇌신경전문의가 밝힌 진짜 뇌 건강법",
-      "published": "2026-07-01T23:17:00+00:00",
-      "summary": "\"잠 안 자면 치매 걸린다고?\"…뇌신경전문의가 밝힌 진짜 뇌 건강법&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZdDVLZGVjZ3IwNF9qODJLUzI4aklCTTZseml3OVFXUzNwVUFKTExBTkpkRzNqVnZTOWFHYlFxYW96M1plc0RPXzBrSkdyLVgzc09lQjE1WW5LM185TkRsTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "499440b6d71a",
       "title": "R&D 서류 줄이고 로그인 통합…2029년 연구관리 단일 시스템으로",
       "published": "2026-07-01T05:00:00+00:00",
@@ -467,19 +506,6 @@
         {
           "name": "뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90NFZwZjZ0SWJ5WTFMZWJaNzNtTUtfN1luZ1dsTDYyUldUdnBsZU8ya1JmXzhndFVvazZLN25ELWtfUmN0azdHYUFxZnR0ZklGczRYRE9HVWFDb0V1bEdweGd1VGtpUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d1f6480e9a46",
-      "title": "\"논문 보다 이젠 데이터 시대\"유용균 \"대덕 암묵지, AI센터 연구 플랫폼\"",
-      "published": "2026-06-30T09:51:41+00:00",
-      "summary": "\"논문 보다 이젠 데이터 시대\"유용균 \"대덕 암묵지, AI센터 연구 플랫폼\"&nbsp;&nbsp;헬로디디",
-      "sources": [
-        {
-          "name": "헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GZG9SdElYVndjSXBfblVzc0JoeWF3WUpsSUJ4akZpempXQnpGYWJHSFdRZFR0Z0hId0wtcXg1ek5SUFhab1ZVYmtRMFlMODFNTVdkQkdDWnBqZjBDanU5OFpJQUV2b3pTbHc?oc=5"
         }
       ],
       "matched_keywords": []
