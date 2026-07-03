@@ -1,17 +1,121 @@
 {
-  "last_updated": "2026-07-03T03:34:03.956601+00:00",
+  "last_updated": "2026-07-03T09:22:59.380907+00:00",
   "total_count": 37,
   "matched_count": 0,
   "news": [
     {
-      "id": "837b3b923f32",
-      "title": "[Medical Report] 치매 없는 뇌전증 환자 뇌에서 타우 단백질 증가 外",
-      "published": "2026-07-03T03:25:28+00:00",
-      "summary": "[Medical Report] 치매 없는 뇌전증 환자 뇌에서 타우 단백질 증가 外&nbsp;&nbsp;헬스코리아뉴스치매 없는 뇌전증 환자 뇌 보니…'이 물질' 증가&nbsp;&nbsp;뉴시스뇌전증 환자 뇌에서 발견된 '치매 신호'…타우 축적 확인&nbsp;&nbsp;데일리안“치매 아닌데 왜?”… 뇌전증 환자 뇌에서 퇴행성 변화 포착&nbsp;&nbsp;헬스조선발작만의 문제 아니었다…뇌전증 환자 뇌서 '타우 신호' 높아&nbsp;&nbsp;코메디닷컴",
+      "id": "6eced73dab62",
+      "title": "치매 없는 뇌전증 환자 뇌 속 타우 단백질 증가 확인",
+      "published": "2026-07-03T08:51:35+00:00",
+      "summary": "치매 없는 뇌전증 환자 뇌 속 타우 단백질 증가 확인&nbsp;&nbsp;의약뉴스치매 없는 뇌전증 환자 뇌 보니…'이 물질' 증가&nbsp;&nbsp;뉴시스“치매 아닌데 왜?”… 뇌전증 환자 뇌에서 퇴행성 변화 포착&nbsp;&nbsp;헬스조선뇌전증 환자 뇌에서 발견된 '치매 신호'…타우 축적 확인&nbsp;&nbsp;데일리안뇌전증 환자 뇌에도 치매 일으키는 단백질 쌓인다&nbsp;&nbsp;한국일보",
       "sources": [
         {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ua1lvRVYtNU9RWGtFZHZvamVpWWlydjNkbmozS0F4Q0FLVGJpNEcwcVJLX0tsYmlzd2JDUW14dlZZMTBsd2VsS0dka2FRRUFsajdpM0JuRnFSX3gwM0I4ZnlYbUlldWM?oc=5"
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56M0lPSXQ2UGJmc2h4NXl4cGZBODZ4RDB0Xzc1Z1hfNHIwQ3QxbFV1X2EySGNGTkJBWERIZUwyZDZKeDg1UTdsRVdTWEl1X1VTSnI3S2pIVkpZeU5OcExrTjR3ZmZBenM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a4819407028a",
+      "title": "스트레스가 암 성장 부추길 수 있다… “장내 세균 변화가 면역 반응 약화”",
+      "published": "2026-07-03T08:00:00+00:00",
+      "summary": "스트레스가 암 성장 부추길 수 있다… “장내 세균 변화가 면역 반응 약화”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tSDBrRjlXZlM0c3pPcEdVSDdQblhnMHhzM002cGlxaFdlMjF4RExEaFVfUDhTY2VJc2xqb3BLZ29YQ3BPeDB4akpBN2VoQUJzN1FkcGJpS1BvUzd1cVo1TUlhUGUweHJ6MEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ec8538e46998",
+      "title": "하루 커피 3잔이 간암 위험 크게 낮춰…“디카페인도 효과”",
+      "published": "2026-07-03T07:30:00+00:00",
+      "summary": "하루 커피 3잔이 간암 위험 크게 낮춰…“디카페인도 효과”&nbsp;&nbsp;전자신문커피 마시면 치명적인 간 질환 위험 줄일 수 있어…\"블랙\"으로 마시면 더 좋은 이유&nbsp;&nbsp;네이트“식후 단 음료 한 잔?”…151만명 추적했더니 간암 위험 15%↑&nbsp;&nbsp;세계일보한인 의학자 “커피 마시면 간질환 위험 낮아진다” > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN하루 커피 3~5잔, 간경변·간암 위험 낮춘다 '디카페인도'&nbsp;&nbsp;의협신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53Zlhab09oLTZpVTdFNENnZEJwdVZRWkNObDNuTENsY0duUUtBWmFyMTQ3VWNnUXIwb0huTWhCOTBZVVVRNmdLdFZjSWptUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "759fa23b9bad",
+      "title": "\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”",
+      "published": "2026-07-03T07:28:52+00:00",
+      "summary": "\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”&nbsp;&nbsp;뉴스인치매 원인 물질이 치료 ‘스위치’를 켠다​&nbsp;&nbsp;BRIC[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스\"병든 뇌에서만 작동\" 치매 치료 '전구약물' 전략 제시&nbsp;&nbsp;네이트“치매 원인 물질을 치료 신호로”…KAIST, 알츠하이머 전구약물 개발&nbsp;&nbsp;아시아투데이",
+      "sources": [
+        {
+          "name": "뉴스인",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Y1Vjb3M4cmRPNE1nMWlrUUdyY3lyTENxT0sxbEVpMm9qbi1fWkRXU2F0d1d3MFFXWlZIaFYxVVBwT1pGbXBHUl9LdmdTS2ZRV2RNNUZOaHFiTW40bW9aZWdfSm81SjRfMjc4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b5d826a8545f",
+      "title": "[건강칼럼] 대장암, 더 이상 노인병이 아니다",
+      "published": "2026-07-03T07:00:48+00:00",
+      "summary": "[건강칼럼] 대장암, 더 이상 노인병이 아니다&nbsp;&nbsp;의사신문\"변 가늘어지고 체중감소\"…젊은층 '이 암' 급증&nbsp;&nbsp;뉴시스[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문\"금식만 하면 끝?\"…내시경 검사 전 꼭 지켜야 할 준비법&nbsp;&nbsp;매경헬스젊다고 안심할 수 없는 대장암…조기검진이 생명을 지킨다&nbsp;&nbsp;메디팜스투데이",
+      "sources": [
+        {
+          "name": "의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qaVhzREhtbXhCaTctaExhQzlmcW1pb21SbFJtRndycHp3Z2lPeWFNWHZTMnhtVWN6R1Zsby01VEpCWnpJclppYjdNN0JOb0ZSbGRuMmo1cVBvejZQZlRIRGZfQUhUbGN2MThwa1BnMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dcd94f2296d2",
+      "title": "“톡으로 받았는데”…‘가짜 건강정보’ 거르는 7가지 체크리스트",
+      "published": "2026-07-03T06:00:00+00:00",
+      "summary": "“톡으로 받았는데”…‘가짜 건강정보’ 거르는 7가지 체크리스트&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10eVZLVEFaRm4wUVROYk9GZzdnQmRRUHhfTWJ3cDhkeHRoaGE5anVlWHFSS3RsVG1wZVZsUWZMSXRCbFBEVnc5SklGdy1MbXVHNlpEbmUtQVE1UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "594d9d6a9547",
+      "title": "프롬바이오, 키 성장 원료 연구 SCIE·KCI 논문 3건 게재",
+      "published": "2026-07-03T05:20:00+00:00",
+      "summary": "프롬바이오, 키 성장 원료 연구 SCIE·KCI 논문 3건 게재&nbsp;&nbsp;뉴스핌",
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORXg4SjBtamtKZDdjeXVJb3dGVFIyZV84S3JUTGdlX21mNUxrd0puNWs4R0c0TmhUVWhkeFg1dmtiU2R1ckJUcG1mMUd0OU5yWG1jU3NpbERuazl3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "88955eae55d3",
+      "title": "구강 내 유해균 전신 건강 위협… 구강유산균M18로 밸런스 잡는다",
+      "published": "2026-07-03T04:54:55+00:00",
+      "summary": "구강 내 유해균 전신 건강 위협… 구강유산균M18로 밸런스 잡는다&nbsp;&nbsp;미디어파인",
+      "sources": [
+        {
+          "name": "미디어파인",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5scFhvQzVpVnpRdFp3Um02SWV6LVYtUU5xRWpHZ0JMQWpvSy01T013bWNyU29wRGZrQlhoVmhtQUoyLUVSTlVzVXhObVdCUGRQRHJJa2JFZUdkZFlVRkptOEEtdTd1aGZXZ2QzSmV3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8d34ba69d470",
+      "title": "비만치료제 사용 후 근손실·요요 주의...\"생활습관 병행해야\"",
+      "published": "2026-07-03T03:15:42+00:00",
+      "summary": "비만치료제 사용 후 근손실·요요 주의...\"생활습관 병행해야\"&nbsp;&nbsp;의학신문\"비만치료제 맞으면 끝?…감량 열풍 속 놓치기 쉬운 '근손실' 경고\"&nbsp;&nbsp;파이낸셜뉴스비만 주사의 새로운 부작용… 후각·미각 기능 저하&nbsp;&nbsp;헬스조선비만치료제 효과 없다면, '이것' 살펴봐야&nbsp;&nbsp;네이트“위고비·마운자로 열풍, 비만치료제, ‘다이어트약’ 아닌 치료제”&nbsp;&nbsp;현대건강신문",
+      "sources": [
+        {
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wZ1VyS0N1cFRqTlBvOEhLUzJWSU44QUdwelBVU3FEclNjcGZmN1N3R25JemNuRk9rdmhLSWFjLVktWEd5WHF6S0R4ckZnTF85bWVpUUl4ejBfODM0cUh3X1VhQ3FsbWUzM1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -38,32 +142,6 @@
         {
           "name": "의약뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1abnltOFRWWWJIb1FGcVVqQU5HVFp0MC01MzM1Ui1EaXFkSVI5Y1FURnVZVlBUb1RwczhNaFhsTTdzaDd3Vk5DSW11emRocFEzZ2tJekRGZEpfWnVDLUZTSVJ5N1NCSDA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0973c778def1",
-      "title": "국민건강보험 일산병원 문한빛 교수, 비만치료제 사용 시 주의점 당부",
-      "published": "2026-07-03T02:52:40+00:00",
-      "summary": "국민건강보험 일산병원 문한빛 교수, 비만치료제 사용 시 주의점 당부&nbsp;&nbsp;팜뉴스비만치료제 효과 없다면, '이것' 살펴봐야&nbsp;&nbsp;네이트“입맛이 이상해”… 다이어트 주사, 체중 줄지만 뜻밖의 부작용 있다고?&nbsp;&nbsp;코메디닷컴골밀도까지 빼버리는 GLP-1··· 5060 여성 비만약 주의보&nbsp;&nbsp;여성경제신문비만 주사의 새로운 부작용… 후각·미각 기능 저하&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "팜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04R0c0RzBXMVlGR0Z0blp3YU5LX1JaZmpmaG5tX1lWbl85Rzd4TzF0ZGhXcmJ2S3BWLTlLU2VjbzIzdE1HYVREdDhXQjdqVXFycUFJYldpMmVJbEI1VmNkaEh3ZXdwSlVRakZzTA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "28817c4d423e",
-      "title": "커피 하루 3~4잔, 간암 위험 35% ↓…디카페인도 효과 [건강팩트체크]",
-      "published": "2026-07-03T01:22:24+00:00",
-      "summary": "커피 하루 3~4잔, 간암 위험 35% ↓…디카페인도 효과 [건강팩트체크]&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2N3JWU2syZWRQb2xDaXdhMlRNNVJOZWNCbFVIZ2xGWGpNVmtuQk43OGZBS3JhcVF4TklsZ2JqRXZxdmJsYTJTRjZVdGd0REllb3FmaFk0aEZvYlIzUFVPcURDTWZEbWFQNmhCcEJyY9IBZkFVX3lxTE8xU01KZDliM3l4Y3ZZQ3NxM3dEaHQ0dUhnVlozZEFBOWtRVGlIMGIwWktUdXh5d004czd2bmR1VkhNbmY0TFBYS05BekhDcEVzdEdtR2RxTklZaG9Ta2NGT3JQN05OQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -137,7 +215,7 @@
       "id": "7c31f37b560e",
       "title": "36조 치매 치료 시장 열린다···국산 치료제 경쟁 뜨거워진다",
       "published": "2026-07-02T23:00:00+00:00",
-      "summary": "36조 치매 치료 시장 열린다···국산 치료제 경쟁 뜨거워진다&nbsp;&nbsp;서울파이낸스치매 치료시장 커진다…임상·기술수출 활기&nbsp;&nbsp;한국경제피 한방울로 ‘위험’ 진단… 알츠하이머 새길 열린다&nbsp;&nbsp;동아비즈니스리뷰 | DBR알츠하이머, 피 한 방울로 찾나…뇌 스캔 대신 '혈액검사' 가능성 나왔다&nbsp;&nbsp;네이트“나 치매 걸려도, 요양원 보내지 말아줘” 엄마가 말했다 [매경데스크]&nbsp;&nbsp;v.daum.net",
+      "summary": "36조 치매 치료 시장 열린다···국산 치료제 경쟁 뜨거워진다&nbsp;&nbsp;서울파이낸스[의료칼럼] 알츠하이머 치매&nbsp;&nbsp;v.daum.net치매 치료시장 커진다…임상·기술수출 활기&nbsp;&nbsp;한국경제피 한방울로 ‘위험’ 진단… 알츠하이머 새길 열린다&nbsp;&nbsp;동아비즈니스리뷰 | DBR알츠하이머 신약 개발 ‘다양화’&nbsp;&nbsp;의학신문",
       "sources": [
         {
           "name": "서울파이낸스",
@@ -186,14 +264,14 @@
       "matched_keywords": []
     },
     {
-      "id": "70e08ba57165",
-      "title": "KAIST, 병든 뇌에서만 켜지는 치매 치료 전구약물 개발 - MIT 테크놀로지 리뷰",
-      "published": "2026-07-02T08:21:37+00:00",
-      "summary": "KAIST, 병든 뇌에서만 켜지는 치매 치료 전구약물 개발&nbsp;&nbsp;MIT 테크놀로지 리뷰KAIST, 치매 원인 물질 활용하는 치료 기술 개발&nbsp;&nbsp;v.daum.net[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스치매 악화 물질이 치료제 '스위치'로...KAIST, 새 치매 치료 전략 제시&nbsp;&nbsp;바이오타임즈“치매 원인 물질을 치료 신호로”…KAIST, 알츠하이머 전구약물 개발&nbsp;&nbsp;아시아투데이",
+      "id": "43c5ad6b269d",
+      "title": "치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]",
+      "published": "2026-07-02T07:58:45+00:00",
+      "summary": "치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;동아일보치매 위험 줄이는 식습관…‘저염증 식단’ 실천해야&nbsp;&nbsp;미주한국일보“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남“먹는 걸 바꾸면 뇌가 바뀐다”…치매 위험 확 줄이는 식단 정체는?&nbsp;&nbsp;전자신문",
       "sources": [
         {
-          "name": "MIT 테크놀로지 리뷰",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNZU1HaWV3MWhOWmlYdERiWjJZTXhKdUNkWVlzQjVUTTJOaVgzVjhLMUhFcDc1MktremJ5OTQ2Q2t5TUJfSXNqOVpnNmljV3k4OV9pdkFhdG5tRjNpZ1FLVXdSWF9LMGZDWVVlU1E1dDdCRW02ZEtPaEdsM1hNbkRUT3R0eDYwRWp3NFNuemhsWEY0aTB4Y2hxUEczZUtyQ3F2aWJscE15YWhTV21nWjNrTnVMSl92ellYeXlPbXh0S1FCYzBpTnZ5eUh2WmxpVTlTODZhUnhpbHNVOFFOZWNYQ29XenMzU2I3OGhBdkl1ajEzZnlTaEdpUnpRb2VLSXdwbkphUWk4aDR3MlU3aWtYTTdUOWc2OTdlTlh1Q1dERVZPS2dQN2RLUzlLdWtjQVJXOHo3a29EZV8zMHltM18xTWNkQ0t5MTJj?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRd0c1b2lxMWdaTHl0U2ltX1QxZ1NzbGVpakhWempKRlRpWDNXaUxGM0RMbkZIbHlmN3dza3RKWm9XQ3hIWFBGSWVNWEJBN2pHVmkxVU9qUzdlY1NtYlItWEViVzIxcEQyRzluLTF3c9IBZkFVX3lxTFBPM1ZJUklMOGNkZVREX3lNM0RDSHNlNFRxZlhsVkFjRHNBRWJzcTVOMFE4cWZDd3BzQ084ZzNlblhnekplYUFjZUVWU1liamc3akJiQ3NheTRTSXU1TFJzd0MzZ2JTZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -241,7 +319,7 @@
       "id": "2401f0b856f9",
       "title": "비타민, 결핍 없으면 질병 예방 효과 제한적",
       "published": "2026-07-02T06:30:00+00:00",
-      "summary": "비타민, 결핍 없으면 질병 예방 효과 제한적&nbsp;&nbsp;헬스조선☀️ 강아지는 햇빛을 쬐어도 비타민 D를 만들지 못합니다&nbsp;&nbsp;네이버 프리미엄콘텐츠비타민D 충전, 햇빛만으로는 부족하다?&nbsp;&nbsp;뉴스토마토",
+      "summary": "비타민, 결핍 없으면 질병 예방 효과 제한적&nbsp;&nbsp;헬스조선☀️ 강아지는 햇빛을 쬐어도 비타민 D를 만들지 못합니다&nbsp;&nbsp;네이버 프리미엄콘텐츠",
       "sources": [
         {
           "name": "헬스조선",
@@ -264,19 +342,6 @@
       "matched_keywords": []
     },
     {
-      "id": "898d6cd1269b",
-      "title": "\"대장암, 더 이상 노인병 아니다\"…젊은층 발병 증가 '경고'",
-      "published": "2026-07-02T06:19:00+00:00",
-      "summary": "\"대장암, 더 이상 노인병 아니다\"…젊은층 발병 증가 '경고'&nbsp;&nbsp;후생신보[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문“더 빨리 늙고 암 위험도 높다?”… 요즘 세대가 억울한 뜻밖의 이유&nbsp;&nbsp;코메디닷컴밀레니얼 세대, 이전 세대에 비해 외모는 젊어졌지만… 속은 더 빨리 늙는 중&nbsp;&nbsp;헬스조선겉으론 어려 보이는데…밀레니얼 세대, 신체 내부 더 빨리 늙는다&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBPR0xGU3doUy1ERG9VN3pubkdwZXhBT2lQbFdSWndRUXdvY2k5SDhsZjhkSFZaNXJjeU5haW1MbnBnWW9O?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "575a1eca8b2b",
       "title": "만 5세 우유 섭취, 초등학교 시기 비만 위험 낮춘다",
       "published": "2026-07-02T04:56:08+00:00",
@@ -285,19 +350,6 @@
         {
           "name": "넥스트데일리",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zclYzb08wNGZLTXF6SmRRSHl4d3pJZ1d6Z25zNkV6a3lLeFREVHlrTDFFamhNSTRyTi1oaWFDY21CZFdRZ1VNLU9idUpBaF9xWlhLaV9LeWV0T2JCREFWR29waWFwMl9BV3NIcnNMWdIBc0FVX3lxTE1wLXVaZENJVWl4eXcxeWVheDh1ZXNqMGdrcWljeTBOZHVHQmNxd3cwbTlrUFJXOWoybXJzcno2T3dBakhuZl9yVURqU0pWeTFXdnF3RHNoRmtCQnhXVm9jS2g3T0dwQnJDNVFxdzRhckd2enc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "16415d4698db",
-      "title": "“30·40대 연구단장 과감히 발탁” IBS 신임 원장의 ‘노벨상 연구’ 구상",
-      "published": "2026-07-02T03:13:27+00:00",
-      "summary": "“30·40대 연구단장 과감히 발탁” IBS 신임 원장의 ‘노벨상 연구’ 구상&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHFvUk5STzhJYUdfR2w0UGlwMHRoRXFaMmJ6eHBLZnFIRTJObEZ3ZDIzYmRVWGF0S3NxMTZRTFZGM1hFZ3ZjOHZVVXkyMzVKRkJxLTRLSTd6c2paMktzY2F5Z3NmZ21MRzM4akZDbFZrWW14amkwU2pjaEYwU3pjc2RGVQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -316,14 +368,14 @@
       "matched_keywords": []
     },
     {
-      "id": "01273772cd1f",
-      "title": "치매 위험 줄이는 식습관…‘저염증 식단’ 실천해야",
-      "published": "2026-07-02T03:00:00+00:00",
-      "summary": "치매 위험 줄이는 식습관…‘저염증 식단’ 실천해야&nbsp;&nbsp;미주한국일보치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;동아일보“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴“먹는 걸 바꾸면 뇌가 바뀐다”…치매 위험 확 줄이는 식단 정체는?&nbsp;&nbsp;전자신문매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남",
+      "id": "815be671509a",
+      "title": "[롱제비티] 스마트폰 공장 초기화하듯···'세포 회춘'으로 실명 치료 시대 연다",
+      "published": "2026-07-02T02:00:00+00:00",
+      "summary": "[롱제비티] 스마트폰 공장 초기화하듯···'세포 회춘'으로 실명 치료 시대 연다&nbsp;&nbsp;여성경제신문문화 > 늙은 세포 회춘(回春)&nbsp;&nbsp;프린팅코리아세포 노화 과정을 되돌리는 메커니즘을 발견했습니다.&nbsp;&nbsp;Vietnam.vn[ESG 칼럼] 세포를 쉬게 하고, 회복하는 지속 가능한 녹색삶 건강의 새로운 상상&nbsp;&nbsp;서울시정일보[손곡초] 신경세포도 재생할 수 있다. '라이프바이오 사이언시스'임상들어가.&nbsp;&nbsp;우리학교신문",
       "sources": [
         {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jeDBFbFJpb1o4cDNNSlRoZjFyV2g0bEpaNFpiRDNpUXBrandTaXZWbTJOSGZfOUNlXzBMSGNKWkwzcHVUcHg2QTdGRDBBQmFnV29VQmNlMm1lM0FaU1NR?oc=5"
+          "name": "여성경제신문",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSlBMUlpERFBkeW8yWmtTSkpWTmpsSWd5U2d4SnhyZWxXU3h6ZTJFNnI3TzJCU0Z6ZTBJaFhWS1oyQk1qNjUwNWJrejd1Q2xFTjBpa2hWUVpMbkx4Q1hvUnZWcl9mcFdpc2dsWjk3dm95RmPSAXdBVV95cUxQdG9LWFFvdzhHUmU2SDFIYk1RTjUzZ3ZVRTBOUVBtaFU5Rk1TYXdBTEtQY0diSWQxdUdla1NPbHcyQ2pCUVVYRk9YM29nV21ORkNlMl9EbTU2am1ya2dJelZtWFNveFZLZjBfWVp5dXRsdm1aMmFxbw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -368,6 +420,19 @@
       "matched_keywords": []
     },
     {
+      "id": "db5471b5c03d",
+      "title": "“결혼 안 해도 되나?”…中 2억원 ‘반려자 로봇’ 예약 1만3000대 [핫이슈]",
+      "published": "2026-07-02T01:00:00+00:00",
+      "summary": "“결혼 안 해도 되나?”…中 2억원 ‘반려자 로봇’ 예약 1만3000대 [핫이슈]&nbsp;&nbsp;나우뉴스",
+      "sources": [
+        {
+          "name": "나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MMUtsc01uWGxmRWJVbml4ZDNxbGVWN1JRU042cjFubmx2cy1YcHpSQWVFZ0R1YU5PRmpocW9pUlNRMWJ6VHp6WlVDZmUzYzJYOVJpNkhHcHpFdTk0WnVfWnpkOWFRaHlwVDI4MFhPOF8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b2b57eee34c2",
       "title": "연구성과> 김상우 교수, 과기정통부 기초연구실 사업 선정…우주구조물 '하중지지형 구조전지' 개발",
       "published": "2026-07-02T00:19:46+00:00",
@@ -381,40 +446,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7d1cf7f1b1fe",
-      "title": "어린 시절 트라우마, 난소 건강에도 영향... “다낭성 난소 증후군 위험 최대 64%↑”",
-      "published": "2026-07-01T08:00:00+00:00",
-      "summary": "어린 시절 트라우마, 난소 건강에도 영향... “다낭성 난소 증후군 위험 최대 64%↑”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uUWdYbVBob2xLdjZlRVFPUTNjX081RkhtSmlmbjlpVUxvNW1EcUUtRk1GdEtmV0FuOG4tXy1zcmszaE1HZG1BMTl1ZGwxeko3Q05TenNxV2gtUmxrc3ZUMDA5a3kycE9XRXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f38d4134e94f",
-      "title": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'",
-      "published": "2026-07-01T06:00:23+00:00",
-      "summary": "우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 '주의'&nbsp;&nbsp;네이트“우울하면 간도 아프다”…45세 미만 우울증 여성, 지방간 위험 20%↑ [건강팩트체크]&nbsp;&nbsp;동아비즈니스리뷰 | DBR젊은 여성 지방간, 의외의 이유 있었다… 술·비만 아닌 ‘이 감정’이 영향&nbsp;&nbsp;헬스조선\"우울해서 빵 샀어\"는 근거 있는 말…우울증을 대사질환과 함께 보는 이유&nbsp;&nbsp;뉴시스우울 증상 심할수록 간에 지방 축적될 위험도 커··· 특히 45세 미만 여성 ‘주의’&nbsp;&nbsp;경향신문",
+      "id": "00de30309b5b",
+      "title": "\"잠 안 자면 치매 걸린다고?\"…뇌신경전문의가 밝힌 진짜 뇌 건강법",
+      "published": "2026-07-01T23:17:00+00:00",
+      "summary": "\"잠 안 자면 치매 걸린다고?\"…뇌신경전문의가 밝힌 진짜 뇌 건강법&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKTjJaUEdiUXV5MmlIM0JmV2ZBeXNDaGVOcVNFY01DLWxoYlhFZ1ZadmlJREk4eHZCUXZvdzZaX2twS2s4b2FTNnE5U1pIYk9BN3pjeEp3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1df341dacc8d",
-      "title": "“복근 만들래, 가슴부터 키울래?”…심장 건강 실속있는 부위는 ‘이곳’",
-      "published": "2026-07-01T05:02:58+00:00",
-      "summary": "“복근 만들래, 가슴부터 키울래?”…심장 건강 실속있는 부위는 ‘이곳’&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CeWJNVzFwSy1GaGdfUnQ5TFJjMEdnR3BEOFRlbkphY0dzRmVubE1VelJLa2M3NC1Qam9za2xQaXV4bjM1Q0dwdVhIWEFLZw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZdDVLZGVjZ3IwNF9qODJLUzI4aklCTTZseml3OVFXUzNwVUFKTExBTkpkRzNqVnZTOWFHYlFxYW96M1plc0RPXzBrSkdyLVgzc09lQjE1WW5LM185TkRsTQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -433,32 +472,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e159ceecf47f",
-      "title": "큐리언트 '모카시클립', MYC 직접 공략 대신 전사 억제 전략 제시",
-      "published": "2026-07-01T04:39:07+00:00",
-      "summary": "큐리언트 '모카시클립', MYC 직접 공략 대신 전사 억제 전략 제시&nbsp;&nbsp;뉴스톱큐리언트 \"모카시클립, 소아 뇌종양 생존기간 유의하게 늘려\"&nbsp;&nbsp;v.daum.net큐리언트 모카시클립, 소아 뇌종양 치료 가능성 입증…국제 심포지엄 구두 발표 - 머니투데이&nbsp;&nbsp;머니투데이큐리언트, CDK7 저해로 MYC 전사 프로그램 차단…소아 뇌종양 치료 가능성 확인&nbsp;&nbsp;이코노미사이언스",
-      "sources": [
-        {
-          "name": "뉴스톱",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZHVhdDJ2ZjFvYWNOenNSTjlUbVZIaXRQZ3JqSVQ1eUhYbktRWVdkaVlyVTlsT2ZDa25jWU50OHdQX2VzRWNSQ19Ic21yb3oxdThLVlJVQTl6R2NQU0gza1dQakVKQ05GbVI0M0ZFMA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b601c6708e9e",
-      "title": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야",
-      "published": "2026-07-01T04:00:00+00:00",
-      "summary": "무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45V2RxLTFoWldYQXk4bVRfQnVYX3RJel9OdUZpTW5vdXh3WFlXOElnUklZSndUUHlheU9HZVhxcVMxd2o4UE4ybGs4NWVZbDdnSW9TZnZPQjR0VU9tWDI3QkF1NHJzTnA1ZWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d1f6480e9a46",
       "title": "\"논문 보다 이젠 데이터 시대\"유용균 \"대덕 암묵지, AI센터 연구 플랫폼\"",
       "published": "2026-06-30T09:51:41+00:00",
@@ -467,19 +480,6 @@
         {
           "name": "헬로디디",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GZG9SdElYVndjSXBfblVzc0JoeWF3WUpsSUJ4akZpempXQnpGYWJHSFdRZFR0Z0hId0wtcXg1ek5SUFhab1ZVYmtRMFlMODFNTVdkQkdDWnBqZjBDanU5OFpJQUV2b3pTbHc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ffd202e47ff9",
-      "title": "과기정통부·산업부, 신약개발 병목 해소할 '국가 CMC 플랫폼' 추진",
-      "published": "2026-06-30T06:00:00+00:00",
-      "summary": "과기정통부·산업부, 신약개발 병목 해소할 '국가 CMC 플랫폼' 추진&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT3E5TWx1Y3gyZ1I1R3k4RE1ZN0JyTm5uandDX2o4QlhlTXUybzdvOEoyaDNvdk1xcEF2T19uRWNzMnZINE9NY3NmR2Y3eFAzR0I1SXJ6T3pCdG5HUGxINlp5RERORWIwUlNYQVdsMjhVSjhodTZ6X0FhRk9zR1lNR3pfWlhfTy1zZ09WZzk2NUM3UXBOXzdjX0lGdWZHanE0WGU3MjJGNnE1X2s3WVlSWFVRQ2ZFdEJtMXQ0WUhIenB0YmdjQ2JvTGxyWmFtazJEVFg0ZTdiZw?oc=5"
         }
       ],
       "matched_keywords": []
