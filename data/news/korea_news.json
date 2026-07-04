@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-04T03:26:56.869027+00:00",
-  "total_fetched": 82,
-  "unique_count": 82,
-  "health_related_count": 37,
+  "fetched_at": "2026-07-04T08:41:20.342963+00:00",
+  "total_fetched": 78,
+  "unique_count": 78,
+  "health_related_count": 36,
   "news": [
+    {
+      "id": "eeb4274afd4c",
+      "title": "요즘 주목받는 '마그네슘'···알약 말고 알록달록 식탁에서 챙기는 법 - 네이트",
+      "published": "2026-07-04T07:00:00+00:00",
+      "summary": "요즘 주목받는 '마그네슘'···알약 말고 알록달록 식탁에서 챙기는 법&nbsp;&nbsp;네이트오메가3는 식후 바로, 마그네슘은 저녁에…약사가 짚어준 최적의 영양제 복용법&nbsp;&nbsp;뉴시스\"다크초콜릿보다 많다\"… 의외로 마그네슘 많은 음식 5가지&nbsp;&nbsp;하이닥“간 수치 왜 높나 했더니”…응급실 의사, ‘영양제’부터 묻는 이유&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxRTBhS256Z2xpVmxmUkFCV0QwN0ZYQkM2UVc5SlNzRXpQbzUycjROUjdxMXZUZ0g4Snd0WC1icDg3SzVfa19PRkJvSllwbUhXcnJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "67f92d18cd54",
+      "title": "“일찍 자라”는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 ‘수면’ - 동아일보",
+      "published": "2026-07-04T03:43:12+00:00",
+      "summary": "“일찍 자라”는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 ‘수면’&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UcFFNN0hveWx2OHZLbEtqT2dJenVpZ1F6RkJkR0Mxdm54UUM1QmswZE05VTcwTHc4WUFGenVBMS1WNEpXUlpMSDJDRnNjMm5tNk15NWJtbzVQOTVEWjFHYmxzVklnTGh4dlF0Q0VodXlsVDEySEHSAWZBVV95cUxNYTdzMTZzelY1bzlsMlExblBjN1pRdnZkQjBLQXU5WTExeDRycVNBN1lOSS1FYTFmaU10THFMM1FybWktSmRnZU5URGtrMEFaT05tcUUyeXRaY2hZaWxUVnloRXpxZGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e12f15ea79bf",
+      "title": "'위고비' 등 GLP-1 약제, 심방세동·당뇨병 모두 있는 환자에서 사망률 낮춰 - 네이트",
+      "published": "2026-07-04T03:32:00+00:00",
+      "summary": "'위고비' 등 GLP-1 약제, 심방세동·당뇨병 모두 있는 환자에서 사망률 낮춰&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pZHdhcjUzclBJU0hfbmZWMV9pZkYxaldESmNDUmNSZFl3X3RXbGQtOFNaUWE2TkdlZlZzdFkzM2xzSmNacTctSlVtdC1fVWxnQ2dv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f47783638dcd",
+      "title": "공기 속 수분으로 작동 배터리 개발…'자폭 기능'까지 탑재 - 지디넷코리아",
+      "published": "2026-07-04T02:30:01+00:00",
+      "summary": "공기 속 수분으로 작동 배터리 개발…'자폭 기능'까지 탑재&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uUHc2QXpzeXM2cUNXcWhsSGVmY0RMcHhsTjlBSHV5a2xQakhlRVkyNlcyOHdzeHREcFF6SGNTcFp0UDgtQlVwaEwya1FLaTdkRjBfMnhn?oc=5"
+        }
+      ]
+    },
     {
       "id": "552dfcfcf07d",
       "title": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유 - Laodong.vn",
@@ -42,14 +90,14 @@
       ]
     },
     {
-      "id": "49ada4c49fe2",
-      "title": "멜라토닌, 잠 잘 오게만 하는 줄 알았더니… 통증도 줄여 - 헬스조선",
-      "published": "2026-07-03T13:30:00+00:00",
-      "summary": "멜라토닌, 잠 잘 오게만 하는 줄 알았더니… 통증도 줄여&nbsp;&nbsp;헬스조선수면제 대신 찾는 '식물성 멜라토닌'...숙면에 도움 될까&nbsp;&nbsp;월요신문수면제로 알려진 멜라토닌, 만성통증 줄이는 효과도 확인됐다&nbsp;&nbsp;디지털포커스",
+      "id": "cea9d33e3e02",
+      "title": "\"치매를 일으키던 물질이 약이 됐다\"... KAIST, 병든 뇌에서만 작동하는 '스마트 치료제' 개발 - 특허뉴스",
+      "published": "2026-07-03T13:39:00+00:00",
+      "summary": "\"치매를 일으키던 물질이 약이 됐다\"... KAIST, 병든 뇌에서만 작동하는 '스마트 치료제' 개발&nbsp;&nbsp;특허뉴스치매 원인 물질이 치료 ‘스위치’를 켠다​&nbsp;&nbsp;BRICKAIST, 치매 원인 물질 활용하는 치료 기술 개발&nbsp;&nbsp;nocutnews.co.kr[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”&nbsp;&nbsp;뉴스인",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QMldXVFRmMklTY1pMbU85UWlISlZlN3VuZF83OFpoT0NkQ0ozaFo1VlY3Q1ZmbkhVSlVWTElnVnh4Y1FLaGZHMXdLNXpOLThkczFoaU1jd0wxUjNyR2c2U2xscUdyRXlhUGlrcXpkQzgyZkhKR3V3ZVpyc3JrWDA?oc=5"
+          "name": "특허뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CczEtZ1VGYTJqYWJQR0g4NU1XTEVjM1BWQlR0Q2F4TXhXcmo1N3hVRFY0TTltSDVKdnlzS3JPNVZaSFFwUWxvSA?oc=5"
         }
       ]
     },
@@ -81,7 +129,7 @@
       "id": "2d6e73997c33",
       "title": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지 - 네이트",
       "published": "2026-07-03T09:15:00+00:00",
-      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“비싼 영양제 절대 효과없다” 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;중앙일보치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;v.daum.net“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴치매 위험 줄이는 식습관…‘저염증 식단’ 실천해야&nbsp;&nbsp;미주한국일보",
+      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;v.daum.net“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴염증을 다스리는 사람이 더 오래 건강하게 산다&nbsp;&nbsp;hidomin.com매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남",
       "sources": [
         {
           "name": "네이트",
@@ -117,7 +165,7 @@
       "id": "d5dc850d2ec0",
       "title": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다 - 헬스조선",
       "published": "2026-07-03T08:15:00+00:00",
-      "summary": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다&nbsp;&nbsp;헬스조선하루 커피 3잔이 간암 위험 크게 낮춰…“디카페인도 효과”&nbsp;&nbsp;전자신문커피 마시면 치명적인 간 질환 위험 줄일 수 있어…\"블랙\"으로 마시면 더 좋은 이유&nbsp;&nbsp;네이트한인 의학자 “커피 마시면 간질환 위험 낮아진다” > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN“식후 단 음료 한 잔?”…151만명 추적했더니 간암 위험 15%↑&nbsp;&nbsp;세계일보",
+      "summary": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다&nbsp;&nbsp;헬스조선커피 마시면 치명적인 간 질환 위험 줄일 수 있어…\"블랙\"으로 마시면 더 좋은 이유&nbsp;&nbsp;네이트하루 커피 3잔이 간암 위험 크게 낮춰…“디카페인도 효과”&nbsp;&nbsp;전자신문커피 섭취의 효과에 대한 새로운 연구 결과.&nbsp;&nbsp;Vietnam.vn한인 의학자 “커피 마시면 간질환 위험 낮아진다” > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN",
       "sources": [
         {
           "name": "헬스조선",
@@ -138,22 +186,10 @@
       ]
     },
     {
-      "id": "759fa23b9bad",
-      "title": "\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목” - 뉴스인",
-      "published": "2026-07-03T07:28:52+00:00",
-      "summary": "\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”&nbsp;&nbsp;뉴스인치매 원인 물질이 치료 ‘스위치’를 켠다​&nbsp;&nbsp;BRICKAIST, 치매 원인 물질 활용하는 치료 기술 개발&nbsp;&nbsp;nocutnews.co.kr[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스\"치매 원인 물질을 치료 스위치로 쓴다\"…KAIST, 선택적 약물 활성화 기술 개발&nbsp;&nbsp;티제이비",
-      "sources": [
-        {
-          "name": "뉴스인",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44Y1Vjb3M4cmRPNE1nMWlrUUdyY3lyTENxT0sxbEVpMm9qbi1fWkRXU2F0d1d3MFFXWlZIaFYxVVBwT1pGbXBHUl9LdmdTS2ZRV2RNNUZOaHFiTW40bW9aZWdfSm81SjRfMjc4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b5d826a8545f",
       "title": "[건강칼럼] 대장암, 더 이상 노인병이 아니다 - 의사신문",
       "published": "2026-07-03T07:00:48+00:00",
-      "summary": "[건강칼럼] 대장암, 더 이상 노인병이 아니다&nbsp;&nbsp;의사신문\"변 가늘어지고 체중감소\"…젊은층 '이 암' 급증&nbsp;&nbsp;뉴시스[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문\"금식만 하면 끝?\"…내시경 검사 전 꼭 지켜야 할 준비법&nbsp;&nbsp;매경헬스젊다고 안심할 수 없는 대장암…조기검진이 생명을 지킨다&nbsp;&nbsp;메디팜스투데이",
+      "summary": "[건강칼럼] 대장암, 더 이상 노인병이 아니다&nbsp;&nbsp;의사신문[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문밀레니얼 세대, 이전 세대에 비해 외모는 젊어졌지만… 속은 더 빨리 늙는 중&nbsp;&nbsp;헬스조선젊다고 안심할 수 없는 대장암…조기검진이 생명을 지킨다&nbsp;&nbsp;메디팜스투데이젊은 암 환자 증가세…조기 발견 중요&nbsp;&nbsp;바이오타임즈",
       "sources": [
         {
           "name": "의사신문",
@@ -177,7 +213,7 @@
       "id": "96ec6585cba9",
       "title": "피곤하다고 쉬는 사람이 가장 먼저 늙는다 - 농촌여성신문",
       "published": "2026-07-03T05:00:29+00:00",
-      "summary": "피곤하다고 쉬는 사람이 가장 먼저 늙는다&nbsp;&nbsp;농촌여성신문노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답&nbsp;&nbsp;헬스조선노년 근감소증, 막을 수 있다&nbsp;&nbsp;캐나다 한국일보질병보다 무서운 '노쇠'…생활습관이 건강수명 좌우&nbsp;&nbsp;매경헬스무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향",
+      "summary": "피곤하다고 쉬는 사람이 가장 먼저 늙는다&nbsp;&nbsp;농촌여성신문나이 들어 운동 효과 없다고?... 4분만 투자하면 몸을 깨울 수 있어요&nbsp;&nbsp;조선일보노년 근감소증, 막을 수 있다&nbsp;&nbsp;캐나다 한국일보질병보다 무서운 '노쇠'…생활습관이 건강수명 좌우&nbsp;&nbsp;매경헬스무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향",
       "sources": [
         {
           "name": "농촌여성신문",
@@ -189,11 +225,23 @@
       "id": "c7a60923fcb0",
       "title": "“위고비·마운자로 열풍, 비만치료제, ‘다이어트약’ 아닌 치료제” - 현대건강신문",
       "published": "2026-07-03T04:16:00+00:00",
-      "summary": "“위고비·마운자로 열풍, 비만치료제, ‘다이어트약’ 아닌 치료제”&nbsp;&nbsp;현대건강신문“160㎝에 45㎏인데 얼마나 뺴고 싶냐”…‘비만치료제’ 처방 남발&nbsp;&nbsp;경기일보‘마운자로 성지’ 찾아 인파 몰리는데&nbsp;&nbsp;v.daum.net'비만치료제 효과와 주의사항: 체중감량 넘어 건강관리까지'&nbsp;&nbsp;이데일리비만약 성지 ‘종로자로’ 불티…의사는 1분 만에 처방전 뚝딱&nbsp;&nbsp;서울신문",
+      "summary": "“위고비·마운자로 열풍, 비만치료제, ‘다이어트약’ 아닌 치료제”&nbsp;&nbsp;현대건강신문“160㎝에 45㎏인데 얼마나 빼고 싶냐”…‘비만치료제’ 처방 남발&nbsp;&nbsp;v.daum.net'비만치료제 효과와 주의사항: 체중감량 넘어 건강관리까지'&nbsp;&nbsp;이데일리비만약 성지 ‘종로자로’ 불티…의사는 1분 만에 처방전 뚝딱&nbsp;&nbsp;서울신문비만치료제 판 커지자 지각 변동…노보노디스크, 2025년 수입실적 1위&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "현대건강신문",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xQXZPUXhvRkhRSkw3S09BSHM1M0huRzU3LWVtdjhIOHBrdEdPLUMwbDhlelhPTzlaY1l5dlV5V1ZKbXpyOGpFVUtlaGFiOTVnc285OUZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69ddecf07a07",
+      "title": "[출간소식]건강은 의지가 아니라 함께하는 구조였다… AI와 커뮤니티가 만든 새로운 다이어트 공식 - 유스연합",
+      "published": "2026-07-03T03:38:45+00:00",
+      "summary": "[출간소식]건강은 의지가 아니라 함께하는 구조였다… AI와 커뮤니티가 만든 새로운 다이어트 공식&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sV2ltd3IybWtKMGhwd0NTSkRyanJHZlBoUVFheG5mR1VKeS1kdUNpUlFxZGFVMEZ6M1BRS2NoSVg1QU9fQzh4S2h2ckVmWmFPM2c?oc=5"
         }
       ]
     },
@@ -206,6 +254,30 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XekpMTmRaREtBWHpNeWtlNm1md1FFX0Zjcld4cVgwRTEzZ3cxYzN3OVRmWU9UVzExT2dQNkRXUTlGbVF5RWg0RVJmaDNwVnJGTUpLeFFwYjZCc3RKalJfcDRMWWJma3pfamVj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d47f62b66d3",
+      "title": "박쥐 접촉한 11살 소년 안 물렸는데 광견병 사망 - 미주한국일보",
+      "published": "2026-07-03T03:00:00+00:00",
+      "summary": "박쥐 접촉한 11살 소년 안 물렸는데 광견병 사망&nbsp;&nbsp;미주한국일보얼굴 날아든 이것 잠결에 쳤다가…11세 소년 ‘광견병 사망’ 충격&nbsp;&nbsp;중앙일보“잠 자던 중 얼굴에 박쥐 떨어져”…‘광견병’으로 사망한 10대&nbsp;&nbsp;v.daum.net\"자고 있는데 얼굴 위에 '슥'\" 마비 증상 끝에…결국 숨진 11세 소년&nbsp;&nbsp;아시아경제물린 자국 없었는데…박쥐 접촉한 캐나다 11살 소년 광견병 사망&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96d1FYYkhHSHAwckozY1Q3WVZ6N2d4alJMb2JrTXpvbEdPUzdvbEl4UHhBa1JFRnlGdGtJeXFRYzNIbkZyQVhYX1lETjNXV0pubkM1U2IzOTg1Uk00X1pJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5a3f5fab0cf6",
+      "title": "“30분 넘게 계속 앉아 있으면 암 사망 위험 높아질 수도” - 매일경제",
+      "published": "2026-07-03T01:10:27+00:00",
+      "summary": "“30분 넘게 계속 앉아 있으면 암 사망 위험 높아질 수도”&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54anZlVnAzb29vcDdfZmtlNnUyLVhzaTRQM3NyWEhNaDVDN0VhNnlQN0NPSEptVUtJdDRvWFd3ZG8xWFk5QV9sT3ZjVlJOd1dCblE?oc=5"
         }
       ]
     },
@@ -342,42 +414,6 @@
       ]
     },
     {
-      "id": "251bd5a0b63b",
-      "title": "노벨상 연구의 새로운 역설…고려대학교 최해웅 교수팀, 세포 방어작용이 만성 통증 부른다는 원리 세계 최초 규명 - 한국강사신문",
-      "published": "2026-07-02T07:26:19+00:00",
-      "summary": "노벨상 연구의 새로운 역설…고려대학교 최해웅 교수팀, 세포 방어작용이 만성 통증 부른다는 원리 세계 최초 규명&nbsp;&nbsp;한국강사신문고려대, 세포 방어작용이 만성 통증 유발 기전 규명&nbsp;&nbsp;v.daum.net김민중 (고려대학교) | 한빛사 인터뷰 > 한빛사&nbsp;&nbsp;BRIC고려대 연구진, 만성 방광염·장증후군 잡는 표적 치료 길 열어&nbsp;&nbsp;뉴시스[에듀플러스]노벨상 발견의 역설...고려대, '세포 방어작용이 만성 통증 유발' 세계 최초 규명&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "한국강사신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yUDdYRm95Q2c2RlZZOG5aVllKRWZkMnNaenc2NU5uX2tsMUV5ckRRLWN5YlZBbXlmRzNmX1AtdlFJYzVzaVBQcjFqam16dVNjVHkxYm9vbmc1aTFyNHdEY0hDWGdBUkk3Y0tlQ2ZSUUc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "207a2e213365",
-      "title": "\"암은 왜, 누구에게서 생기는가?\" 암 연구 거장 프라우메니를 추모하며 - 네이트",
-      "published": "2026-07-02T07:23:00+00:00",
-      "summary": "\"암은 왜, 누구에게서 생기는가?\" 암 연구 거장 프라우메니를 추모하며&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmZGh2dDNFd1NoLVhTcUJjbldvRHAwcnZtcjZOekl1b0RSNWdyeklyWEQtZUxVOU1QNW9Xdy1QSTFtNzFMdmNoVmFsTEctNDBIV1pn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2401f0b856f9",
-      "title": "비타민, 결핍 없으면 질병 예방 효과 제한적 - 헬스조선",
-      "published": "2026-07-02T06:30:00+00:00",
-      "summary": "비타민, 결핍 없으면 질병 예방 효과 제한적&nbsp;&nbsp;헬스조선☀️ 강아지는 햇빛을 쬐어도 비타민 D를 만들지 못합니다&nbsp;&nbsp;네이버 프리미엄콘텐츠비타민D 충전, 햇빛만으로는 부족하다?&nbsp;&nbsp;뉴스토마토",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84clBKVUdUOG56QWhhdGVzcVlPTDh4RWkyelVqdFJ2T0l0a0JCejIyWWJsaXpqVGU4MXlHZTZ4RnR5Z1RJZGF3TUx5NkZTb0V2QWJGWG1Kd0VGanBWWkJZd0w5S01BQVh3WVRuUGpDWV9CWThzT0xmWlROWVRFMFk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "41e4b543aa76",
       "title": "오르카, \"GvHD↓\" 혈액암 'Treg 세포치료제' 美승인 - 바이오스펙테이터",
       "published": "2026-07-02T06:20:00+00:00",
@@ -390,30 +426,6 @@
       ]
     },
     {
-      "id": "575a1eca8b2b",
-      "title": "만 5세 우유 섭취, 초등학교 시기 비만 위험 낮춘다 - 넥스트데일리",
-      "published": "2026-07-02T04:56:08+00:00",
-      "summary": "만 5세 우유 섭취, 초등학교 시기 비만 위험 낮춘다&nbsp;&nbsp;넥스트데일리5세 우유 습관이 만든 차이... 비만 위험 감소 연구 결과&nbsp;&nbsp;v.daum.net“유아기 우유 섭취, 초등학교 비만 감소 연관 주목”&nbsp;&nbsp;국민일보만 5세 우유 섭취, 이후 비만 관련 지표와 연관&nbsp;&nbsp;세계일보비만 관리도 조기교육…유아기 '우유 섭취' 주목&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "넥스트데일리",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zclYzb08wNGZLTXF6SmRRSHl4d3pJZ1d6Z25zNkV6a3lLeFREVHlrTDFFamhNSTRyTi1oaWFDY21CZFdRZ1VNLU9idUpBaF9xWlhLaV9LeWV0T2JCREFWR29waWFwMl9BV3NIcnNMWdIBc0FVX3lxTE1wLXVaZENJVWl4eXcxeWVheDh1ZXNqMGdrcWljeTBOZHVHQmNxd3cwbTlrUFJXOWoybXJzcno2T3dBakhuZl9yVURqU0pWeTFXdnF3RHNoRmtCQnhXVm9jS2g3T0dwQnJDNVFxdzRhckd2enc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a37f2ea7c9ff",
-      "title": "“푹푹 찌는 폭염, 에어컨 몇 도가 좋을까”…심장이 먼저 답했다 - 매일경제",
-      "published": "2026-07-02T01:49:22+00:00",
-      "summary": "“푹푹 찌는 폭염, 에어컨 몇 도가 좋을까”…심장이 먼저 답했다&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92RjhFZnkwNlJaSUtoZGdhdmZ2dmhWY3dLcE0xMGhyRjFKMlFOV1AxUmNTci1MellPcXpTNV83TE14LXAtWVlJTUllbEl6dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b2b57eee34c2",
       "title": "연구성과> 김상우 교수, 과기정통부 기초연구실 사업 선정…우주구조물 '하중지지형 구조전지' 개발 - 한국항공대학교",
       "published": "2026-07-02T00:19:46+00:00",
@@ -422,30 +434,6 @@
         {
           "name": "한국항공대학교",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KUVZweFNReFEyd1NEY3oyS0RHbGkxZ21LQU1CVmp6NWRjc1lsLTZtcm43TThRX281OGU2Mlg3MzhQRVJlMHg1S1JqSHF3TGNzUmQ0WURmWGFvWm5pUnR3UXZBejhBSEJFNWE3Z05Jb0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04ba326557d7",
-      "title": "앤트로픽, AI 신약개발 본격 시동 - 매일경제",
-      "published": "2026-07-01T08:07:12+00:00",
-      "summary": "앤트로픽, AI 신약개발 본격 시동&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtaEJGN3VQZnZtM1hEQmdnRlU4a0Z4SDdXWUxXNVlKbnZReERzUmhBSldtWVJJaFZHY3RldE1nNnR0SW0tVVpIYUxMOUhBZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "499440b6d71a",
-      "title": "R&D 서류 줄이고 로그인 통합…2029년 연구관리 단일 시스템으로 - 뉴스1",
-      "published": "2026-07-01T05:00:00+00:00",
-      "summary": "R&amp;D 서류 줄이고 로그인 통합…2029년 연구관리 단일 시스템으로&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90NFZwZjZ0SWJ5WTFMZWJaNzNtTUtfN1luZ1dsTDYyUldUdnBsZU8ya1JmXzhndFVvazZLN25ELWtfUmN0azdHYUFxZnR0ZklGczRYRE9HVWFDb0V1bEdweGd1VGtpUQ?oc=5"
         }
       ]
     }
