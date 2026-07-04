@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-07-04T13:39:29.132861+00:00",
-  "total_count": 39,
+  "last_updated": "2026-07-04T19:18:24.215674+00:00",
+  "total_count": 42,
   "matched_count": 0,
   "news": [
+    {
+      "id": "bced5e6b0a77",
+      "title": "치매, 운명일까 습관일까…“최대 45%는 늦추거나 줄일 수 있다” - 콜로라도 타임즈",
+      "published": "2026-07-04T17:27:20+00:00",
+      "summary": "치매, 운명일까 습관일까…“최대 45%는 늦추거나 줄일 수 있다”&nbsp;&nbsp;콜로라도 타임즈치매 속도를 늦추고 되돌리는 10가지 매듭&nbsp;&nbsp;톱클래스치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 ‘고스톱의 배신’&nbsp;&nbsp;중앙일보서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다&nbsp;&nbsp;c3korea.net\"낮 1시15분 이후엔 커피 안돼\"…치매 위험 낮추는 4가지 습관 - 머니투데이&nbsp;&nbsp;머니투데이",
+      "sources": [
+        {
+          "name": "콜로라도 타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVVFudFhScWZ1RmJqME5oTk1JNHF3WVZLajRWU1BpaXdzQ003Y0xWeUs1U3pfZWZoSnNBMF8ybkZQc1NvbFFVbk5VQVZ2NHd2d2VZdEw5UnMwaWMzZkpsNl83LTVEWkh3cWpNT0RDaDJaOU9jR3JFQjBueFhpTld4OG80OGdoRldoMUFGWWRXZzRFOFplU2diYi1qZWVLbmJ5T0VhYnVfNXBTV3EwY0pRb25vV0EwUlNjcGlzQmF3N2tOdkpaYVFfaWRFTFhobVBrNkJrN0o5ZVZKUms1Vlh6VENMVWJCcXowdHY3VHJGUnY4WmlkRUo5a01xbHVQclI1bzZrT3lHSzdZOFdRWjdVSW5INFY2ZmNLUVhfSW5EVEt3bUFvWHptMkJIVk15YjJHNm9LeTFoVVA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "da5c6902a6d5",
+      "title": "밤에 1시간 더 자라…청소년 비만·당뇨 예방 첫걸음",
+      "published": "2026-07-04T13:00:23+00:00",
+      "summary": "밤에 1시간 더 자라…청소년 비만·당뇨 예방 첫걸음&nbsp;&nbsp;세계일보“일찍 자라”는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 ‘수면’&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8waDV2WkF3V3FLMDBUdEl0V2Vva0hsSmdtdE96MG1TQlI5TDVuQVotcFZfUy1ld3pjRjEzQWluallDM0FCUXZBUWtzU183dTR4a3l2U1FFU2xHYlBmdndwUTVZQ0ZGMkdsTWZF0gFUQVVfeXFMT0puY29WYlJROVpqTUxuZnVIdjhxeXgyN3RXNFl4NGVzNUFnRDF5cWR4b1FiTTVVcUxibll3aWtpb3FxOENkUHJXYkVrdjB2aGxham1o?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d83b9d3cf54f",
       "title": "람동에서 일본 뇌염 의심 사례 발견",
@@ -56,6 +82,19 @@
       "matched_keywords": []
     },
     {
+      "id": "5a8235555f7c",
+      "title": "\"HIV 감염 어린이만 오세요\" 편견 깬 초등학교 '놀라운 근황' 전해졌다",
+      "published": "2026-07-04T07:39:00+00:00",
+      "summary": "\"HIV 감염 어린이만 오세요\" 편견 깬 초등학교 '놀라운 근황' 전해졌다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uMTZfeGVkVEplWUJWSXZmcGxnaVEtTkhHblNCSXpLbzQ0RkxBSGtMSTcwb09JdzJuN3gyblJpaTJCYVltTnk5a05HcWhOcllURUZV?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1dd76ce48a32",
       "title": "요즘 주목받는 ‘마그네슘’···알약 말고 알록달록 식탁에서 챙기는 법",
       "published": "2026-07-04T07:00:00+00:00",
@@ -64,23 +103,6 @@
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Jb1BTcTREMEYwMW1FclpGWkI2cW1vNGZOOG9VR0VBVmNYdDZ3eklRR2M1cVd0cmhnNkc5UEpYM0xxXzdfT1Q0MWtkRklEcU1IMWZuOW1YdDI0UdIBX0FVX3lxTE9rNEFjSzNxdUtVMFFhNWpkaUVydENsSWRuQ3pVT2JQSXhLV2tvTUJUZVl5bUgwS3hPSWZmaVVZZjJmNzlRZ2FLMGxpMjB5eXdHMFc0emZYQWhXdE1ja0hZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "67f92d18cd54",
-      "title": "“일찍 자라”는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 ‘수면’",
-      "published": "2026-07-04T03:33:00+00:00",
-      "summary": "“일찍 자라”는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 ‘수면’&nbsp;&nbsp;동아일보당뇨병 환자라면 주목… 낮잠 30분 이상 자면 지방간 위험 높아진다?&nbsp;&nbsp;하이닥제2형 당뇨병 환자, 밤잠 질 나쁘면 지방간 위험 증가&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UcFFNN0hveWx2OHZLbEtqT2dJenVpZ1F6RkJkR0Mxdm54UUM1QmswZE05VTcwTHc4WUFGenVBMS1WNEpXUlpMSDJDRnNjMm5tNk15NWJtbzVQOTVEWjFHYmxzVklnTGh4dlF0Q0VodXlsVDEySEHSAWZBVV95cUxNYTdzMTZzelY1bzlsMlExblBjN1pRdnZkQjBLQXU5WTExeDRycVNBN1lOSS1FYTFmaU10THFMM1FybWktSmRnZU5URGtrMEFaT05tcUUyeXRaY2hZaWxUVnloRXpxZGc?oc=5"
-        },
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RQV9FMEVpVGs0V05pdERjM2pxT05uaHE1enBNQ1UyYjhZZWlEOWJJZm1xdVVvMktJZG5VQ2hpb1hBTl8waXgyWlhyN3RwQm5NQmxB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -115,7 +137,7 @@
       "id": "552dfcfcf07d",
       "title": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유",
       "published": "2026-07-04T02:00:33+00:00",
-      "summary": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유&nbsp;&nbsp;Laodong.vn닥도아는 광견병 확산 방지를 위해 예방접종 노력을 가속화하고 있습니다.&nbsp;&nbsp;Vietnam.vn\"광견병 접종, 꼭 맞아야 할까요?\" [반려동물 건강톡톡]&nbsp;&nbsp;매일신문79세 여성이 끔찍한 개 공격에서 구조되었습니다.&nbsp;&nbsp;Vietnam.vn바흐 마이 병원 닌빈 지점에서 개에 물린 환자를 살리기 위해 광견병 백신을 하룻밤 사이에 운송했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유&nbsp;&nbsp;Laodong.vn닥도아는 광견병 확산 방지를 위해 예방접종 노력을 가속화하고 있습니다.&nbsp;&nbsp;Vietnam.vn79세 여성이 끔찍한 개 공격에서 구조되었습니다.&nbsp;&nbsp;Vietnam.vn바흐 마이 병원 닌빈 지점에서 개에 물린 환자를 살리기 위해 광견병 백신을 하룻밤 사이에 운송했습니다.&nbsp;&nbsp;Vietnam.vn광견병을 예방하는 유일한 방법은 백신 접종입니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -138,14 +160,14 @@
       "matched_keywords": []
     },
     {
-      "id": "37e92e0392d9",
+      "id": "5b8a313dfe3a",
       "title": "생명체 살 수 있는 '슈퍼지구' 발견...지구 25광년 거리 [우주로 간다]",
-      "published": "2026-07-04T00:18:47+00:00",
-      "summary": "생명체 살 수 있는 '슈퍼지구' 발견...지구 25광년 거리 [우주로 간다]&nbsp;&nbsp;지디넷코리아",
+      "published": "2026-07-04T00:21:00+00:00",
+      "summary": "생명체 살 수 있는 '슈퍼지구' 발견...지구 25광년 거리 [우주로 간다]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43bWhMRUZWSkotWjhhb0djQmxaV2I4dTZYMlFBalgxUl9vWGVERDdoaFVCc3R6a3Nhbld6dHphdWpMWEdBVHVqSWlrMGtFYUMySXVQZXdn?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SMm5yaTdkNEJQV2I1MWJLVHdNMXdSeDZDNmRVWm4xYVpQT0s2Uk0yME16aUdGczhMWmhkRUdPajRRemF5XzRwd2tfR1REbms?oc=5"
         }
       ],
       "matched_keywords": []
@@ -154,11 +176,24 @@
       "id": "8e5bcf04a791",
       "title": "WHO, 크루즈선 집단감염 '한타바이러스' 사태 종식 선언 [KDF World]",
       "published": "2026-07-03T22:31:01+00:00",
-      "summary": "WHO, 크루즈선 집단감염 '한타바이러스' 사태 종식 선언 [KDF World]&nbsp;&nbsp;한국면세뉴스WHO, 크루즈선 한타바이러스 집단감염 종료 선언&nbsp;&nbsp;v.daum.netWHO \"한타바이러스 집단감염 종료…5월25일 이후 확진 없어\"&nbsp;&nbsp;뉴시스한타바이러스 공포 막 내렸다&nbsp;&nbsp;캐나다 한국일보WHO “한타바이러스 집단감염 사태 ‘공식 종료’”&nbsp;&nbsp;경향신문",
+      "summary": "WHO, 크루즈선 집단감염 '한타바이러스' 사태 종식 선언 [KDF World]&nbsp;&nbsp;한국면세뉴스WHO, 크루즈선발 한타바이러스 집단감염 종료 선언&nbsp;&nbsp;v.daum.netWHO \"한타바이러스 집단감염 종료…5월25일 이후 확진 없어\"&nbsp;&nbsp;뉴시스WHO “한타바이러스 집단감염 사태 ‘공식 종료’”&nbsp;&nbsp;경향신문호화 유람선에서 위험한 집단 감염 발생, 3명 사망.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "한국면세뉴스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDeW1zWWViaGsxenRZOW9PbjEwdlhsYTZtdFFFVDR6YXcwcGp0M1Y1MGo3cjc5VnJSOWIwaXN5endyYTl0N0d0anUtR2puMUZtSzJVOUp1dGlIeUtLOFhlNVl5akx2UW5wSkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bf3200990a53",
+      "title": "[식탁의 힘]② 화제의 천연 위고비 식단, 살 빠질까?",
+      "published": "2026-07-03T21:00:00+00:00",
+      "summary": "[식탁의 힘]② 화제의 천연 위고비 식단, 살 빠질까?&nbsp;&nbsp;이투데이“달걀 끊으니 6kg 빠져”… 4년 넘게 설사 시달린 보디빌더의 반전 사연&nbsp;&nbsp;헬스조선스타들이 먼저 먹은 '천연 위고비' 식단의 공통점&nbsp;&nbsp;엘르 코리아 │ ELLE KOREA“천연 위고비라더니 머리가 멍?”…아침 달걀의 ‘배신’, 진짜 범인은 따로 있었다&nbsp;&nbsp;v.daum.net\"'천연 위고비'라길래 아침마다 먹었는데\"…전문가 '경고' [건강!톡]&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZ2xMc3JlX21sNU5pejR5ODY0LTZpWV9FV0hFdldjTWRENDJSeVpiMVBJYmtqSjhPTE9ZYlZZOE5CMTZGVjQzWmIxSDdaa09HNVVYS1FkTDJMQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -219,7 +254,7 @@
       "id": "4efc66f55847",
       "title": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지",
       "published": "2026-07-03T09:15:00+00:00",
-      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“비싼 영양제 절대 효과없다” 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;중앙일보치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;v.daum.net“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴염증을 다스리는 사람이 더 오래 건강하게 산다&nbsp;&nbsp;hidomin.com",
+      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;v.daum.net“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴염증을 다스리는 사람이 더 오래 건강하게 산다&nbsp;&nbsp;hidomin.com",
       "sources": [
         {
           "name": "네이트",
@@ -284,7 +319,7 @@
       "id": "b5d826a8545f",
       "title": "[건강칼럼] 대장암, 더 이상 노인병이 아니다",
       "published": "2026-07-03T07:00:48+00:00",
-      "summary": "[건강칼럼] 대장암, 더 이상 노인병이 아니다&nbsp;&nbsp;의사신문[롱제비티] 간·콩팥·폐, 어디 먼저 늙는지 보면 노화 늦출 수 있다&nbsp;&nbsp;여성경제신문밀레니얼 세대, 이전 세대에 비해 외모는 젊어졌지만… 속은 더 빨리 늙는 중&nbsp;&nbsp;헬스조선젊다고 안심할 수 없는 대장암…조기검진이 생명을 지킨다&nbsp;&nbsp;메디팜스투데이젊은 암 환자 증가세…조기 발견 중요&nbsp;&nbsp;바이오타임즈",
+      "summary": "[건강칼럼] 대장암, 더 이상 노인병이 아니다&nbsp;&nbsp;의사신문우리나라 20~49세 젊은층 ‘대장암’ 발병률 세계 최고 수준&nbsp;&nbsp;코리아헬스로그젊다고 안심할 수 없는 대장암…조기검진이 생명을 지킨다&nbsp;&nbsp;메디팜스투데이젊은 암 환자 증가세…조기 발견 중요&nbsp;&nbsp;바이오타임즈\"아직 젊은데 암이라니\"…한국만의 문제가 아니었다[실험노트]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "의사신문",
@@ -437,19 +472,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d2c07a0ac922",
-      "title": "[의학칼럼] 치매 예방과 뇌 활동의 중요성",
-      "published": "2026-07-02T22:40:00+00:00",
-      "summary": "[의학칼럼] 치매 예방과 뇌 활동의 중요성&nbsp;&nbsp;양산신문치매 속도를 늦추고 되돌리는 10가지 매듭&nbsp;&nbsp;톱클래스치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 ‘고스톱의 배신’&nbsp;&nbsp;중앙일보\"낮 1시15분 이후엔 커피 안돼\"…치매 위험 낮추는 4가지 습관 - 머니투데이&nbsp;&nbsp;머니투데이서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다&nbsp;&nbsp;c3korea.net",
-      "sources": [
-        {
-          "name": "양산신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03Zm4wc3N3MDhUMGZER3Z1bWI0TklBcHJGMWtlbFYwM3Q2ZUZMOHFTUlBRUXNreUlZOHdTeVRjN01YekNoenp3QURZNWtySmIteGx3VF9NNUNfN1d2czVDVkJXOUFoWTdZb1k3ZkFPcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a3c53add146a",
       "title": "여성 파킨슨병, 알츠하이머 위험 신호 먼저 켜지나",
       "published": "2026-07-02T20:49:00+00:00",
@@ -497,6 +519,19 @@
         {
           "name": "바이오스펙테이터",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pTGxFb2FWU0xCeXRrS0tiUjEwangtWXRxaVU5Wk5TQVU0MWd4LXU0ZUNRd0g0VTJNS3ZlOEFxSHpOUUkxU1ZKdk1sWnhTMVVZNEFmX1ZzMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "16415d4698db",
+      "title": "“30·40대 연구단장 과감히 발탁” IBS 신임 원장의 ‘노벨상 연구’ 구상",
+      "published": "2026-07-02T03:13:27+00:00",
+      "summary": "“30·40대 연구단장 과감히 발탁” IBS 신임 원장의 ‘노벨상 연구’ 구상&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHFvUk5STzhJYUdfR2w0UGlwMHRoRXFaMmJ6eHBLZnFIRTJObEZ3ZDIzYmRVWGF0S3NxMTZRTFZGM1hFZ3ZjOHZVVXkyMzVKRkJxLTRLSTd6c2paMktzY2F5Z3NmZ21MRzM4akZDbFZrWW14amkwU2pjaEYwU3pjc2RGVQ?oc=5"
         }
       ],
       "matched_keywords": []
