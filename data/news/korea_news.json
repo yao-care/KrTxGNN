@@ -1,15 +1,51 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-03T19:26:46.567297+00:00",
-  "total_fetched": 78,
-  "unique_count": 78,
-  "health_related_count": 39,
+  "fetched_at": "2026-07-04T03:26:56.869027+00:00",
+  "total_fetched": 82,
+  "unique_count": 82,
+  "health_related_count": 37,
   "news": [
+    {
+      "id": "552dfcfcf07d",
+      "title": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유 - Laodong.vn",
+      "published": "2026-07-04T02:00:33+00:00",
+      "summary": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유&nbsp;&nbsp;Laodong.vn79세 여성이 끔찍한 개 공격에서 구조되었습니다.&nbsp;&nbsp;Vietnam.vn\"광견병 접종, 꼭 맞아야 할까요?\" [반려동물 건강톡톡]&nbsp;&nbsp;매일신문광견병을 예방하는 유일한 방법은 백신 접종입니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXM0U19xRWpYeGp6MS1xLUtRa0lDUWlWOENRX3A3ankzUVBVeTUyRTNoS3I5cG9YQWttaFhNQzdaN0hDQ2tMVEthVk5Kd0U0N2lVYk9faURaT0I4ekI2TnRtLUxPYjFwT2xGQWpZTlJueFlNYnR1dXM1cGsxM0ZrZVVXaVMxa1lxYjBRVTU2R085RkVHaDJNbEM4Zlplb28yRUJvaFpHM0lFWUY1ckF2VGRRZ0ZRQ2dTc1FUUS1oS1o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3fd022fb7ec",
+      "title": "심장 건강, 혈관만 볼 게 아냐…가슴·등 근육 '질' 좋을수록 심장마비 위험 낮아 - 네이트",
+      "published": "2026-07-04T01:06:00+00:00",
+      "summary": "심장 건강, 혈관만 볼 게 아냐…가슴·등 근육 '질' 좋을수록 심장마비 위험 낮아&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41c3hLVGd0SkJ4VDYxSWV5UkxLUkp4WGRUYVBjOXptMjV5SmpXNVYyd0VFUkptcGNKN3dKa3Vwa29PS2tpT25MNWpnMndVUXQzVnc0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "37e92e0392d9",
+      "title": "생명체 살 수 있는 '슈퍼지구' 발견...지구 25광년 거리 [우주로 간다] - 지디넷코리아",
+      "published": "2026-07-04T00:18:47+00:00",
+      "summary": "생명체 살 수 있는 '슈퍼지구' 발견...지구 25광년 거리 [우주로 간다]&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43bWhMRUZWSkotWjhhb0djQmxaV2I4dTZYMlFBalgxUl9vWGVERDdoaFVCc3R6a3Nhbld6dHphdWpMWEdBVHVqSWlrMGtFYUMySXVQZXdn?oc=5"
+        }
+      ]
+    },
     {
       "id": "49ada4c49fe2",
       "title": "멜라토닌, 잠 잘 오게만 하는 줄 알았더니… 통증도 줄여 - 헬스조선",
       "published": "2026-07-03T13:30:00+00:00",
-      "summary": "멜라토닌, 잠 잘 오게만 하는 줄 알았더니… 통증도 줄여&nbsp;&nbsp;헬스조선수면제 대신 찾는 '식물성 멜라토닌'...숙면에 도움 될까&nbsp;&nbsp;월요신문잠 돕는 멜라토닌, 통증도 줄인다?…진통제 대신 먹어도 될까&nbsp;&nbsp;코메디닷컴수면제로 알려진 멜라토닌, 만성통증 줄이는 효과도 확인됐다&nbsp;&nbsp;디지털포커스",
+      "summary": "멜라토닌, 잠 잘 오게만 하는 줄 알았더니… 통증도 줄여&nbsp;&nbsp;헬스조선수면제 대신 찾는 '식물성 멜라토닌'...숙면에 도움 될까&nbsp;&nbsp;월요신문수면제로 알려진 멜라토닌, 만성통증 줄이는 효과도 확인됐다&nbsp;&nbsp;디지털포커스",
       "sources": [
         {
           "name": "헬스조선",
@@ -45,7 +81,7 @@
       "id": "2d6e73997c33",
       "title": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지 - 네이트",
       "published": "2026-07-03T09:15:00+00:00",
-      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“비싼 영양제 절대 효과없다” 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;v.daum.net치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;동아일보“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴치매 위험 줄이는 식습관…‘저염증 식단’ 실천해야&nbsp;&nbsp;미주한국일보",
+      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“비싼 영양제 절대 효과없다” 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;중앙일보치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;v.daum.net“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴치매 위험 줄이는 식습관…‘저염증 식단’ 실천해야&nbsp;&nbsp;미주한국일보",
       "sources": [
         {
           "name": "네이트",
@@ -54,10 +90,22 @@
       ]
     },
     {
+      "id": "4efc66f55847",
+      "title": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지 - 네이트",
+      "published": "2026-07-03T09:15:00+00:00",
+      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6a01MTkM5ajhLcTVFaU1ueHVQNFEzTHVibUl0b2xOUFNpNnZBQTJjczlRZHR5SjNjWXd3am02SFVkbFllenlnSEF6SzBjbi1ET0FN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6eced73dab62",
       "title": "치매 없는 뇌전증 환자 뇌 속 타우 단백질 증가 확인 - 의약뉴스",
       "published": "2026-07-03T08:51:35+00:00",
-      "summary": "치매 없는 뇌전증 환자 뇌 속 타우 단백질 증가 확인&nbsp;&nbsp;의약뉴스치매 없는 뇌전증 환자 뇌 보니…'이 물질' 증가&nbsp;&nbsp;뉴시스“치매 아닌데 왜?”… 뇌전증 환자 뇌에서 퇴행성 변화 포착&nbsp;&nbsp;헬스조선뇌전증 환자 뇌에서 발견된 '치매 신호'…타우 축적 확인&nbsp;&nbsp;데일리안뇌전증 환자 뇌에도 치매 일으키는 단백질 쌓인다&nbsp;&nbsp;한국일보",
+      "summary": "치매 없는 뇌전증 환자 뇌 속 타우 단백질 증가 확인&nbsp;&nbsp;의약뉴스치매 없는 뇌전증 환자 뇌 보니…'이 물질' 증가&nbsp;&nbsp;뉴시스뇌전증 환자 뇌에도 치매 일으키는 단백질 쌓인다&nbsp;&nbsp;한국일보“치매 아닌데 왜?”… 뇌전증 환자 뇌에서 퇴행성 변화 포착&nbsp;&nbsp;헬스조선뇌전증 환자 뇌에서 발견된 '치매 신호'…타우 축적 확인&nbsp;&nbsp;데일리안",
       "sources": [
         {
           "name": "의약뉴스",
@@ -69,7 +117,7 @@
       "id": "d5dc850d2ec0",
       "title": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다 - 헬스조선",
       "published": "2026-07-03T08:15:00+00:00",
-      "summary": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다&nbsp;&nbsp;헬스조선커피 마시면 치명적인 간 질환 위험 줄일 수 있어…\"블랙\"으로 마시면 더 좋은 이유&nbsp;&nbsp;네이트“식후 단 음료 한 잔?”…151만명 추적했더니 간암 위험 15%↑&nbsp;&nbsp;세계일보한인 의학자 “커피 마시면 간질환 위험 낮아진다” > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN하루 커피 3~5잔, 간경변·간암 위험 낮춘다 '디카페인도'&nbsp;&nbsp;의협신문",
+      "summary": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다&nbsp;&nbsp;헬스조선하루 커피 3잔이 간암 위험 크게 낮춰…“디카페인도 효과”&nbsp;&nbsp;전자신문커피 마시면 치명적인 간 질환 위험 줄일 수 있어…\"블랙\"으로 마시면 더 좋은 이유&nbsp;&nbsp;네이트한인 의학자 “커피 마시면 간질환 위험 낮아진다” > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN“식후 단 음료 한 잔?”…151만명 추적했더니 간암 위험 15%↑&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "헬스조선",
@@ -141,7 +189,7 @@
       "id": "c7a60923fcb0",
       "title": "“위고비·마운자로 열풍, 비만치료제, ‘다이어트약’ 아닌 치료제” - 현대건강신문",
       "published": "2026-07-03T04:16:00+00:00",
-      "summary": "“위고비·마운자로 열풍, 비만치료제, ‘다이어트약’ 아닌 치료제”&nbsp;&nbsp;현대건강신문\"비만치료제 맞으면 끝?…감량 열풍 속 놓치기 쉬운 '근손실' 경고\"&nbsp;&nbsp;파이낸셜뉴스비만 주사의 새로운 부작용… 후각·미각 기능 저하&nbsp;&nbsp;헬스조선포항세명기독병원, '위고비·마운자로' 비만 치료제 시민강좌&nbsp;&nbsp;영남경제비만치료제 효과 없다면, '이것' 살펴봐야&nbsp;&nbsp;네이트",
+      "summary": "“위고비·마운자로 열풍, 비만치료제, ‘다이어트약’ 아닌 치료제”&nbsp;&nbsp;현대건강신문“160㎝에 45㎏인데 얼마나 뺴고 싶냐”…‘비만치료제’ 처방 남발&nbsp;&nbsp;경기일보‘마운자로 성지’ 찾아 인파 몰리는데&nbsp;&nbsp;v.daum.net'비만치료제 효과와 주의사항: 체중감량 넘어 건강관리까지'&nbsp;&nbsp;이데일리비만약 성지 ‘종로자로’ 불티…의사는 1분 만에 처방전 뚝딱&nbsp;&nbsp;서울신문",
       "sources": [
         {
           "name": "현대건강신문",
@@ -198,18 +246,6 @@
       ]
     },
     {
-      "id": "ff5398e79c72",
-      "title": "\"30분 이상 앉아 있으면 1시간마다 암 위험 9% 올라가\" - 연합뉴스TV",
-      "published": "2026-07-02T23:35:00+00:00",
-      "summary": "\"30분 이상 앉아 있으면 1시간마다 암 위험 9% 올라가\"&nbsp;&nbsp;연합뉴스TV“30분 넘게 계속 앉아 있으면 암 사망 위험 높아질 수도”&nbsp;&nbsp;매일경제[건강포커스] \"오래 앉아 있을수록 암 위험↑…가벼운 움직임 늘리면 위험↓\"&nbsp;&nbsp;v.daum.net“30분 넘게 앉아 있었다면 당장 일어나라”…1시간 늘 때마다 ‘사망 위험’ 확 오른다는데 [헬시타임]&nbsp;&nbsp;서울경제운동 많이 하면 암 안 걸린다?…부장 눈치 보지 말고 엉덩이 '들썩'해야 하는 이유[과학을읽다]&nbsp;&nbsp;아시아경제",
-      "sources": [
-        {
-          "name": "연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sOWRFY3Z3cEhTb0dISnA0NnV4NXk4TF9HMWRYSjZLaUpjcVZQbUxFcGJpakc5RHROdkp2aGJRWWdXdVdaVWgyamJ0aldRTWNPVjhpck1HZmYwTURKRmZ5U1BZTEFPY0k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9894db13ed51",
       "title": "메리놀병원 건강증진센터, 여름철 건강관리 프로그램 운영 - 네이트",
       "published": "2026-07-02T23:02:00+00:00",
@@ -218,18 +254,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaR2s1eEpYUFNlSlltbDZ5emZmV1B3WVVyYlhkenpQLVl4cjNoRVpZQTVrWUdrSjd3QzZDQ3ptV2twRkF1c3pWdUxOX2lGTVNxZzRR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c31f37b560e",
-      "title": "36조 치매 치료 시장 열린다···국산 치료제 경쟁 뜨거워진다 - 서울파이낸스",
-      "published": "2026-07-02T23:00:00+00:00",
-      "summary": "36조 치매 치료 시장 열린다···국산 치료제 경쟁 뜨거워진다&nbsp;&nbsp;서울파이낸스[의료칼럼] 알츠하이머 치매&nbsp;&nbsp;v.daum.net치매 치료시장 커진다…임상·기술수출 활기&nbsp;&nbsp;한국경제“단순 건망증일까?” 뇌 속의 독소, PET-CT 치매검사로 골든타임 잡다&nbsp;&nbsp;바이오타임즈피 한방울로 ‘위험’ 진단… 알츠하이머 새길 열린다&nbsp;&nbsp;동아비즈니스리뷰 | DBR",
-      "sources": [
-        {
-          "name": "서울파이낸스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fR2ZWSG1DQ0dNTjNTZGtyb0VoeTdhOTJDQzRFWDNBR29aZ0MwTE9OMHhkd3kyWnBzZUVZTDhLbnZHQjk1Mkx6QUZ1WTZLSGhpcGpka0xBcXJFMlpFMDBfTVl4cjI5WVd3UGc?oc=5"
         }
       ]
     },
@@ -249,7 +273,7 @@
       "id": "d2c07a0ac922",
       "title": "[의학칼럼] 치매 예방과 뇌 활동의 중요성 - 양산신문",
       "published": "2026-07-02T22:40:00+00:00",
-      "summary": "[의학칼럼] 치매 예방과 뇌 활동의 중요성&nbsp;&nbsp;양산신문\"낮 1시15분 이후엔 커피 안돼\"…치매 위험 낮추는 4가지 습관 - 머니투데이&nbsp;&nbsp;머니투데이치매 속도를 늦추고 되돌리는 10가지 매듭&nbsp;&nbsp;톱클래스80대 노인도 기억력 좋아졌다…텍사스대 \"뇌 훈련 시 인지 기능 향상\"&nbsp;&nbsp;뉴시스치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 ‘고스톱의 배신’&nbsp;&nbsp;중앙일보",
+      "summary": "[의학칼럼] 치매 예방과 뇌 활동의 중요성&nbsp;&nbsp;양산신문치매 속도를 늦추고 되돌리는 10가지 매듭&nbsp;&nbsp;톱클래스\"낮 1시15분 이후엔 커피 안돼\"…치매 위험 낮추는 4가지 습관 - 머니투데이&nbsp;&nbsp;머니투데이80대 노인도 기억력 좋아졌다…텍사스대 \"뇌 훈련 시 인지 기능 향상\"&nbsp;&nbsp;뉴시스치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 ‘고스톱의 배신’&nbsp;&nbsp;중앙일보",
       "sources": [
         {
           "name": "양산신문",
@@ -378,30 +402,6 @@
       ]
     },
     {
-      "id": "594bd45b94a9",
-      "title": "‘다리에 벌레 기어가는 느낌’ 하지불안증후군, 근육량 적은 남성이 더 위험하다 - 경향신문",
-      "published": "2026-07-02T04:17:00+00:00",
-      "summary": "‘다리에 벌레 기어가는 느낌’ 하지불안증후군, 근육량 적은 남성이 더 위험하다&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LTXBnVEFGV29wNHpmaWM1Q0lITktUZ0xISE1TUGtLQldEcW9MYjltb2YxMHh2a0pyWjRiWFBiaUJWLXVoa1NXdzJKY3ZfMURxRE90UFZwblBYd9IBX0FVX3lxTE5RSHpTMktsbDQyQWlrdU1SWWlqdEdwUHpBRU1wT3NtVXprZGJiRTV0RnZSNkd1a2lud2xPTVpKbklxdkpvdzB0aUx1RmcwWnhGbk9ESFhaT2stNHl1QWpN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "815be671509a",
-      "title": "[롱제비티] 스마트폰 공장 초기화하듯···'세포 회춘'으로 실명 치료 시대 연다 - 여성경제신문",
-      "published": "2026-07-02T02:00:00+00:00",
-      "summary": "[롱제비티] 스마트폰 공장 초기화하듯···'세포 회춘'으로 실명 치료 시대 연다&nbsp;&nbsp;여성경제신문문화 > 늙은 세포 회춘(回春)&nbsp;&nbsp;프린팅코리아세포 노화 과정을 되돌리는 메커니즘을 발견했습니다.&nbsp;&nbsp;Vietnam.vn[ESG 칼럼] 세포를 쉬게 하고, 회복하는 지속 가능한 녹색삶 건강의 새로운 상상&nbsp;&nbsp;서울시정일보[손곡초] 신경세포도 재생할 수 있다. '라이프바이오 사이언시스'임상들어가.&nbsp;&nbsp;우리학교신문",
-      "sources": [
-        {
-          "name": "여성경제신문",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rSlBMUlpERFBkeW8yWmtTSkpWTmpsSWd5U2d4SnhyZWxXU3h6ZTJFNnI3TzJCU0Z6ZTBJaFhWS1oyQk1qNjUwNWJrejd1Q2xFTjBpa2hWUVpMbkx4Q1hvUnZWcl9mcFdpc2dsWjk3dm95RmPSAXdBVV95cUxQdG9LWFFvdzhHUmU2SDFIYk1RTjUzZ3ZVRTBOUVBtaFU5Rk1TYXdBTEtQY0diSWQxdUdla1NPbHcyQ2pCUVVYRk9YM29nV21ORkNlMl9EbTU2am1ya2dJelZtWFNveFZLZjBfWVp5dXRsdm1aMmFxbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a37f2ea7c9ff",
       "title": "“푹푹 찌는 폭염, 에어컨 몇 도가 좋을까”…심장이 먼저 답했다 - 매일경제",
       "published": "2026-07-02T01:49:22+00:00",
@@ -410,30 +410,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92RjhFZnkwNlJaSUtoZGdhdmZ2dmhWY3dLcE0xMGhyRjFKMlFOV1AxUmNTci1MellPcXpTNV83TE14LXAtWVlJTUllbEl6dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c30911b8aac7",
-      "title": "한밤중에 개에 물린 79세 할머니, 긴급 백신 운송 덕분에 구조 - Laodong.vn",
-      "published": "2026-07-02T01:09:33+00:00",
-      "summary": "한밤중에 개에 물린 79세 할머니, 긴급 백신 운송 덕분에 구조&nbsp;&nbsp;Laodong.vn79세 여성이 끔찍한 개 공격에서 구조되었습니다.&nbsp;&nbsp;Vietnam.vn\"광견병 접종, 꼭 맞아야 할까요?\" [반려동물 건강톡톡]&nbsp;&nbsp;매일신문광견병을 예방하는 유일한 방법은 백신 접종입니다.&nbsp;&nbsp;Vietnam.vn바흐 마이 병원 닌빈 지점에서 개에 물린 환자를 살리기 위해 광견병 백신을 하룻밤 사이에 운송했습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNUhIQVZNRndVMGxNNElZbjA3Ml93OGx2Nk5MYlhUMXZJYUw2SHVLMmpqaG9jaTNDS0JCTzQwUUNya0JwOTBJdWQ5a2hOUWN3d0VBNGZIbm03Y3BUakxsUDFlZ3RzWnJ3SG9CWExXdWFkNkZQYy1FaXktYkR5YTZPbU9aSkdoZTFuUWljb3c3R1dzbUxZanpOTzRqSE5PQ1hPRXBra01SdGc4dVhKY2tBTE9LWW9paDBRZE1lMHlnZmhxZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c3900fa6de4",
-      "title": "\"기침·가래가 멈추지 않으면 폐 이상 신호… COPD 의심해 봐야\" - 헬스조선",
-      "published": "2026-07-02T00:45:00+00:00",
-      "summary": "\"기침·가래가 멈추지 않으면 폐 이상 신호… COPD 의심해 봐야\"&nbsp;&nbsp;헬스조선[건강 칼럼] 숨 가쁨과 기침, 천식과 COPD의 위험 신호&nbsp;&nbsp;이데일리소아청소년기 폐건강 관리, 성인 COPD 예방의 시작 - “국가건강검진 폐기능검사 도입과 생애 전주기 폐건강 관리의 필요성”&nbsp;&nbsp;월간인물\"만성폐쇄성폐질환, 첫 급성악화가 치료 분기점\"&nbsp;&nbsp;청년의사담배 피우는데 기침 잦고 숨 쉬기 힘들면 '이 질환' 때문?&nbsp;&nbsp;뉴스에이",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Od1prcUttbFFJdnJTaEZwNUtpcnFPODRmRkxIWm1BZXRzTlZsUnY2SlhBY3RMN1Z4SUV3bHMwZS1iZGVJVUx2a3hPekhweUpfMnFXTURDRWlGdWppMl95aUJhX3VoSWF0ekJ3aTQydVlVNXF1b0l6TjBpR212N0E?oc=5"
         }
       ]
     },
