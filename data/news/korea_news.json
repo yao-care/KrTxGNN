@@ -1,19 +1,67 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-04T08:41:20.342963+00:00",
-  "total_fetched": 78,
+  "fetched_at": "2026-07-04T13:39:29.025400+00:00",
+  "total_fetched": 79,
   "unique_count": 78,
-  "health_related_count": 36,
+  "health_related_count": 40,
   "news": [
     {
-      "id": "eeb4274afd4c",
-      "title": "요즘 주목받는 '마그네슘'···알약 말고 알록달록 식탁에서 챙기는 법 - 네이트",
-      "published": "2026-07-04T07:00:00+00:00",
-      "summary": "요즘 주목받는 '마그네슘'···알약 말고 알록달록 식탁에서 챙기는 법&nbsp;&nbsp;네이트오메가3는 식후 바로, 마그네슘은 저녁에…약사가 짚어준 최적의 영양제 복용법&nbsp;&nbsp;뉴시스\"다크초콜릿보다 많다\"… 의외로 마그네슘 많은 음식 5가지&nbsp;&nbsp;하이닥“간 수치 왜 높나 했더니”…응급실 의사, ‘영양제’부터 묻는 이유&nbsp;&nbsp;세계일보",
+      "id": "d83b9d3cf54f",
+      "title": "람동에서 일본 뇌염 의심 사례 발견 - Laodong.vn",
+      "published": "2026-07-04T11:21:13+00:00",
+      "summary": "람동에서 일본 뇌염 의심 사례 발견&nbsp;&nbsp;Laodong.vn필요한 백신 접종을 모두 받지 않은 어린이에게 일본뇌염 발병 위험이 있음을 경고합니다.&nbsp;&nbsp;Vietnam.vn람동성은 일본뇌염 예방 및 통제 노력을 강화하고 있다.&nbsp;&nbsp;Vietnam.vn일본뇌염에 걸린 두 어린이는 기관절개술이 필요했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjdWRE4yVVduWnZxRmhWdnNQT0VnT2ZaTnZxM0g2SWZadXRKTmFxcHlXbWNFZUpkRnZzSGliZE54dVNnbkVkVFpRSXpmWHlwWHR3REl4OEhzNk94cjY1Q2QyM1NHSG5qTkF4eEh2WURLb0FiY3lRQk1MMkRGaUpsVkFuUnp6bzR3R1pnWXV6UlpjS2EwWUNDeS1SYXoxdjlJNE5fZDdCS3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a7fd1055146",
+      "title": "53세男 얼굴에 커다란 혹, ‘이곳’ 종양이었다…의사도 속는 1% 희귀 질환 - 코메디닷컴",
+      "published": "2026-07-04T11:07:00+00:00",
+      "summary": "53세男 얼굴에 커다란 혹, ‘이곳’ 종양이었다…의사도 속는 1% 희귀 질환&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1UbHVnZ0xfdGJXdjJKQTF4OEFMV0ZxWGQ0STcxeXh0eEd3elFybU1ORXpqbDlVUDFNY1FDMThicDhzQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f6d58c2478ed",
+      "title": "\"우리 애 우유 먹여야겠네\"…어릴 때 꾸준히 마시면 생기는 일 [헬시타임] - 네이트",
+      "published": "2026-07-04T10:41:00+00:00",
+      "summary": "\"우리 애 우유 먹여야겠네\"…어릴 때 꾸준히 마시면 생기는 일 [헬시타임]&nbsp;&nbsp;네이트“우리 애 우유 먹여야겠네”…어릴 때 꾸준히 마시면 생기는 일 [헬시타임]&nbsp;&nbsp;서울경제신문5세 우유 습관이 만든 차이... 비만 위험 감소 연구 결과&nbsp;&nbsp;v.daum.net비만 관리도 조기교육…유아기 '우유 섭취' 주목&nbsp;&nbsp;네이트“유아기 우유 섭취, 초등학교 비만 감소 연관 주목”&nbsp;&nbsp;국민일보",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxRTBhS256Z2xpVmxmUkFCV0QwN0ZYQkM2UVc5SlNzRXpQbzUycjROUjdxMXZUZ0g4Snd0WC1icDg3SzVfa19PRkJvSllwbUhXcnJ3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GNTlTeVFFb0VYcXk5OV96SVdfaVlCMGYwNGFfVGUzODNTaDc2a0JMQkNzd0tISG1DRkFIaGRBRHd6VjFIZWtzU3pORm56M1B0YS1V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f54851d1e78",
+      "title": "폐경기 호르몬 치료, 골밀도 저하 위험 69% 낮춰 - 네이트",
+      "published": "2026-07-04T10:01:00+00:00",
+      "summary": "폐경기 호르몬 치료, 골밀도 저하 위험 69% 낮춰&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EV3JwNE9hTGN2NzZETUtsa05paVVXdUpLZlRRbW1EQlhzMUdpNjJTOU5oXzBfUUJnakYwS3oxTmxhOTBERG5qR1BjemJPRXBHLTdr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1dd76ce48a32",
+      "title": "요즘 주목받는 ‘마그네슘’···알약 말고 알록달록 식탁에서 챙기는 법 - 경향신문",
+      "published": "2026-07-04T07:00:00+00:00",
+      "summary": "요즘 주목받는 ‘마그네슘’···알약 말고 알록달록 식탁에서 챙기는 법&nbsp;&nbsp;경향신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Jb1BTcTREMEYwMW1FclpGWkI2cW1vNGZOOG9VR0VBVmNYdDZ3eklRR2M1cVd0cmhnNkc5UEpYM0xxXzdfT1Q0MWtkRklEcU1IMWZuOW1YdDI0UdIBX0FVX3lxTE9rNEFjSzNxdUtVMFFhNWpkaUVydENsSWRuQ3pVT2JQSXhLV2tvTUJUZVl5bUgwS3hPSWZmaVVZZjJmNzlRZ2FLMGxpMjB5eXdHMFc0emZYQWhXdE1ja0hZ?oc=5"
         }
       ]
     },
@@ -21,11 +69,23 @@
       "id": "67f92d18cd54",
       "title": "“일찍 자라”는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 ‘수면’ - 동아일보",
       "published": "2026-07-04T03:43:12+00:00",
-      "summary": "“일찍 자라”는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 ‘수면’&nbsp;&nbsp;동아일보",
+      "summary": "“일찍 자라”는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 ‘수면’&nbsp;&nbsp;동아일보당뇨병 환자라면 주목… 낮잠 30분 이상 자면 지방간 위험 높아진다?&nbsp;&nbsp;하이닥제2형 당뇨병 환자, 밤잠 질 나쁘면 지방간 위험 증가&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UcFFNN0hveWx2OHZLbEtqT2dJenVpZ1F6RkJkR0Mxdm54UUM1QmswZE05VTcwTHc4WUFGenVBMS1WNEpXUlpMSDJDRnNjMm5tNk15NWJtbzVQOTVEWjFHYmxzVklnTGh4dlF0Q0VodXlsVDEySEHSAWZBVV95cUxNYTdzMTZzelY1bzlsMlExblBjN1pRdnZkQjBLQXU5WTExeDRycVNBN1lOSS1FYTFmaU10THFMM1FybWktSmRnZU5URGtrMEFaT05tcUUyeXRaY2hZaWxUVnloRXpxZGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c4c35674770",
+      "title": "\"일찍 자라\"는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 '수면' - 네이트",
+      "published": "2026-07-04T03:33:00+00:00",
+      "summary": "\"일찍 자라\"는 부모 말 맞았다…청소년 당뇨병·비만 위험 줄이는 '수면'&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RQV9FMEVpVGs0V05pdERjM2pxT05uaHE1enBNQ1UyYjhZZWlEOWJJZm1xdVVvMktJZG5VQ2hpb1hBTl8waXgyWlhyN3RwQm5NQmxB?oc=5"
         }
       ]
     },
@@ -57,7 +117,7 @@
       "id": "552dfcfcf07d",
       "title": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유 - Laodong.vn",
       "published": "2026-07-04T02:00:33+00:00",
-      "summary": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유&nbsp;&nbsp;Laodong.vn79세 여성이 끔찍한 개 공격에서 구조되었습니다.&nbsp;&nbsp;Vietnam.vn\"광견병 접종, 꼭 맞아야 할까요?\" [반려동물 건강톡톡]&nbsp;&nbsp;매일신문광견병을 예방하는 유일한 방법은 백신 접종입니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유&nbsp;&nbsp;Laodong.vn닥도아는 광견병 확산 방지를 위해 예방접종 노력을 가속화하고 있습니다.&nbsp;&nbsp;Vietnam.vn\"광견병 접종, 꼭 맞아야 할까요?\" [반려동물 건강톡톡]&nbsp;&nbsp;매일신문79세 여성이 끔찍한 개 공격에서 구조되었습니다.&nbsp;&nbsp;Vietnam.vn바흐 마이 병원 닌빈 지점에서 개에 물린 환자를 살리기 위해 광견병 백신을 하룻밤 사이에 운송했습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -90,10 +150,34 @@
       ]
     },
     {
+      "id": "8e5bcf04a791",
+      "title": "WHO, 크루즈선 집단감염 '한타바이러스' 사태 종식 선언 [KDF World] - 한국면세뉴스",
+      "published": "2026-07-03T22:31:01+00:00",
+      "summary": "WHO, 크루즈선 집단감염 '한타바이러스' 사태 종식 선언 [KDF World]&nbsp;&nbsp;한국면세뉴스WHO, 크루즈선 한타바이러스 집단감염 종료 선언&nbsp;&nbsp;v.daum.netWHO \"한타바이러스 집단감염 종료…5월25일 이후 확진 없어\"&nbsp;&nbsp;뉴시스한타바이러스 공포 막 내렸다&nbsp;&nbsp;캐나다 한국일보WHO “한타바이러스 집단감염 사태 ‘공식 종료’”&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "한국면세뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDeW1zWWViaGsxenRZOW9PbjEwdlhsYTZtdFFFVDR6YXcwcGp0M1Y1MGo3cjc5VnJSOWIwaXN5endyYTl0N0d0anUtR2puMUZtSzJVOUp1dGlIeUtLOFhlNVl5akx2UW5wSkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cab0fe69cb57",
+      "title": "“여성 갱년기 장애 안면홍조는 시작일 뿐”[베스트 닥터의 베스트 건강법] - 동아일보",
+      "published": "2026-07-03T16:40:00+00:00",
+      "summary": "“여성 갱년기 장애 안면홍조는 시작일 뿐”[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12OEJteWkwdGpMc29NWFUydFZMZUZJaVpWNERtZG9lbzdYUmo1X3hLVTYzY0g2VWtlbGRVTUU5WW5HZUV5d0pQLW1aRm4tcTJPQkFWNUlDcHdtWG50bHV3MzdJRjJ4a09vMVNacVlSMNIBZkFVX3lxTE9nOExkSWZOSlJfSHNjMXl1eGppZGlvNVR4V0diZW5VWUJLblFrS1Z0MUFKV29iVXFFWGxvM2Q0Sjl3Y09ldFJXazV6WXdBaUpvRGkwVWh4MmQwd2hraUx4Sl9nM19kZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cea9d33e3e02",
       "title": "\"치매를 일으키던 물질이 약이 됐다\"... KAIST, 병든 뇌에서만 작동하는 '스마트 치료제' 개발 - 특허뉴스",
       "published": "2026-07-03T13:39:00+00:00",
-      "summary": "\"치매를 일으키던 물질이 약이 됐다\"... KAIST, 병든 뇌에서만 작동하는 '스마트 치료제' 개발&nbsp;&nbsp;특허뉴스치매 원인 물질이 치료 ‘스위치’를 켠다​&nbsp;&nbsp;BRICKAIST, 치매 원인 물질 활용하는 치료 기술 개발&nbsp;&nbsp;nocutnews.co.kr[쿠키과학] ‘치매 악화시키던 과산화수소, 치료 신호로 바꿨다’… KAIST, 전구약물 개발&nbsp;&nbsp;쿠키뉴스\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”&nbsp;&nbsp;뉴스인",
+      "summary": "\"치매를 일으키던 물질이 약이 됐다\"... KAIST, 병든 뇌에서만 작동하는 '스마트 치료제' 개발&nbsp;&nbsp;특허뉴스치매 원인 물질이 치료 ‘스위치’를 켠다​&nbsp;&nbsp;BRICKAIST, 치매 원인 물질 활용하는 치료 기술 개발&nbsp;&nbsp;nocutnews.co.kr\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”&nbsp;&nbsp;뉴스인\"치매 원인 물질을 치료 스위치로 쓴다\"…KAIST, 선택적 약물 활성화 기술 개발&nbsp;&nbsp;티제이비",
       "sources": [
         {
           "name": "특허뉴스",
@@ -126,26 +210,26 @@
       ]
     },
     {
-      "id": "2d6e73997c33",
-      "title": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지 - 네이트",
-      "published": "2026-07-03T09:15:00+00:00",
-      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;v.daum.net“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴염증을 다스리는 사람이 더 오래 건강하게 산다&nbsp;&nbsp;hidomin.com매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tSTN0RmtMb3cya3d5MTJzS0ZpTGxRVU9PZ3haTXRvZGZfMnluaHFSdnRRQkVKS1RmY3NpbXJ6cElUM1FLWlhtTWJnRDhGVjlPcmotVERGTFp0R2dnc2hkRw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4efc66f55847",
       "title": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지 - 네이트",
       "published": "2026-07-03T09:15:00+00:00",
-      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트",
+      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“비싼 영양제 절대 효과없다” 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;중앙일보치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;v.daum.net“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴염증을 다스리는 사람이 더 오래 건강하게 산다&nbsp;&nbsp;hidomin.com",
       "sources": [
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6a01MTkM5ajhLcTVFaU1ueHVQNFEzTHVibUl0b2xOUFNpNnZBQTJjczlRZHR5SjNjWXd3am02SFVkbFllenlnSEF6SzBjbi1ET0FN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "512ec0751ee7",
+      "title": "나이 들어 운동 효과 없다고?... 4분만 투자하면 몸을 깨울 수 있어요 - 조선일보",
+      "published": "2026-07-03T08:59:34+00:00",
+      "summary": "나이 들어 운동 효과 없다고?... 4분만 투자하면 몸을 깨울 수 있어요&nbsp;&nbsp;조선일보노년 근감소증, 막을 수 있다&nbsp;&nbsp;캐나다 한국일보피곤하다고 쉬는 사람이 가장 먼저 늙는다&nbsp;&nbsp;농촌여성신문질병보다 무서운 '노쇠'…생활습관이 건강수명 좌우&nbsp;&nbsp;매경헬스무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1SHQ5a2JyRVdTbHdJYVlnMHZQWldQbks4RHRVNDRsaGtoOW5YWmRib2JJS21WVTlSM1p4N1ZxMGFmUVlLbnVjN0kzVEI3U3AzUEw1UW5zM1Y0OThidkx4aHJXQUZXT2YyRW1yR1Q1dWZaUnNWWUVUaw?oc=5"
         }
       ]
     },
@@ -162,18 +246,6 @@
       ]
     },
     {
-      "id": "d5dc850d2ec0",
-      "title": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다 - 헬스조선",
-      "published": "2026-07-03T08:15:00+00:00",
-      "summary": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다&nbsp;&nbsp;헬스조선커피 마시면 치명적인 간 질환 위험 줄일 수 있어…\"블랙\"으로 마시면 더 좋은 이유&nbsp;&nbsp;네이트하루 커피 3잔이 간암 위험 크게 낮춰…“디카페인도 효과”&nbsp;&nbsp;전자신문커피 섭취의 효과에 대한 새로운 연구 결과.&nbsp;&nbsp;Vietnam.vn한인 의학자 “커피 마시면 간질환 위험 낮아진다” > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82SllwdmIxRW9Xd0U1Z0J4NTh2U1hnZUVFWVl2X0l3ZmM2N1RGQlNvUDlvYks0UjBYcXZJM2VNYWZaX3pwOWM0Qkg1MEcxblRpT1E3TnJUN0tZTnl5X2t0Nmd6b2R1dmNGNC1SS181ZmJ3NHZtbFZtWFl6RmxESkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a4819407028a",
       "title": "스트레스가 암 성장 부추길 수 있다… “장내 세균 변화가 면역 반응 약화” - 하이닥",
       "published": "2026-07-03T08:00:00+00:00",
@@ -182,6 +254,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tSDBrRjlXZlM0c3pPcEdVSDdQblhnMHhzM002cGlxaFdlMjF4RExEaFVfUDhTY2VJc2xqb3BLZ29YQ3BPeDB4akpBN2VoQUJzN1FkcGJpS1BvUzd1cVo1TUlhUGUweHJ6MEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec8538e46998",
+      "title": "하루 커피 3잔이 간암 위험 크게 낮춰…“디카페인도 효과” - 전자신문",
+      "published": "2026-07-03T07:30:33+00:00",
+      "summary": "하루 커피 3잔이 간암 위험 크게 낮춰…“디카페인도 효과”&nbsp;&nbsp;전자신문커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다&nbsp;&nbsp;헬스조선커피 마시면 치명적인 간 질환 위험 줄일 수 있어…\"블랙\"으로 마시면 더 좋은 이유&nbsp;&nbsp;네이트커피 섭취의 효과에 대한 새로운 연구 결과.&nbsp;&nbsp;Vietnam.vn한인 의학자 “커피 마시면 간질환 위험 낮아진다” > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53Zlhab09oLTZpVTdFNENnZEJwdVZRWkNObDNuTENsY0duUUtBWmFyMTQ3VWNnUXIwb0huTWhCOTBZVVVRNmdLdFZjSWptUQ?oc=5"
         }
       ]
     },
@@ -206,18 +290,6 @@
         {
           "name": "뉴스핌",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ORXg4SjBtamtKZDdjeXVJb3dGVFIyZV84S3JUTGdlX21mNUxrd0puNWs4R0c0TmhUVWhkeFg1dmtiU2R1ckJUcG1mMUd0OU5yWG1jU3NpbERuazl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "96ec6585cba9",
-      "title": "피곤하다고 쉬는 사람이 가장 먼저 늙는다 - 농촌여성신문",
-      "published": "2026-07-03T05:00:29+00:00",
-      "summary": "피곤하다고 쉬는 사람이 가장 먼저 늙는다&nbsp;&nbsp;농촌여성신문나이 들어 운동 효과 없다고?... 4분만 투자하면 몸을 깨울 수 있어요&nbsp;&nbsp;조선일보노년 근감소증, 막을 수 있다&nbsp;&nbsp;캐나다 한국일보질병보다 무서운 '노쇠'…생활습관이 건강수명 좌우&nbsp;&nbsp;매경헬스무더위 속 탈수·낙상위험 증가...고령자, 나이보다 ‘노쇠’ 살펴야&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "농촌여성신문",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LeW9aZWdCR2pqb2s5N0pqdm5mbTFydDVyRllCTkZxNHZaSVlXSUsyTS1oU09oMjNYeW9EQk44amNXOXJrcUFDRmJxdlJuT3d6R3pSaTdtRERNcW9jZUtZck1pY21Dd9IBakFVX3lxTE8yR0VtZ3lwRG9ETDdtMXYtS0dfeUxlbDVkck5ibm9kbmlmejh0U0FrZjdkdG8tRWhqQnUzdW92NF9qQ2tFZXhQMTZYTEwtQnRlZ2JFZW9lZlFYSEQ3eDcwdFlINkU0OHFkUkE?oc=5"
         }
       ]
     },
@@ -345,7 +417,7 @@
       "id": "d2c07a0ac922",
       "title": "[의학칼럼] 치매 예방과 뇌 활동의 중요성 - 양산신문",
       "published": "2026-07-02T22:40:00+00:00",
-      "summary": "[의학칼럼] 치매 예방과 뇌 활동의 중요성&nbsp;&nbsp;양산신문치매 속도를 늦추고 되돌리는 10가지 매듭&nbsp;&nbsp;톱클래스\"낮 1시15분 이후엔 커피 안돼\"…치매 위험 낮추는 4가지 습관 - 머니투데이&nbsp;&nbsp;머니투데이80대 노인도 기억력 좋아졌다…텍사스대 \"뇌 훈련 시 인지 기능 향상\"&nbsp;&nbsp;뉴시스치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 ‘고스톱의 배신’&nbsp;&nbsp;중앙일보",
+      "summary": "[의학칼럼] 치매 예방과 뇌 활동의 중요성&nbsp;&nbsp;양산신문치매 속도를 늦추고 되돌리는 10가지 매듭&nbsp;&nbsp;톱클래스치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 ‘고스톱의 배신’&nbsp;&nbsp;중앙일보\"낮 1시15분 이후엔 커피 안돼\"…치매 위험 낮추는 4가지 습관 - 머니투데이&nbsp;&nbsp;머니투데이서울의 한 병원이 10년간 환자를 추적해 치매를 늦추는 의외의 습관을 찾아냈다&nbsp;&nbsp;c3korea.net",
       "sources": [
         {
           "name": "양산신문",
@@ -378,18 +450,6 @@
       ]
     },
     {
-      "id": "3acd56505b35",
-      "title": "WHO, 크루즈선 한타바이러스 집단감염 종료 선언 - YTN",
-      "published": "2026-07-02T19:06:00+00:00",
-      "summary": "WHO, 크루즈선 한타바이러스 집단감염 종료 선언&nbsp;&nbsp;YTNGoogle 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwV0hYcm92Ukt2R1RTUHVManhTaWtyVlRROWg1ZTRBeF9MWHQtbHMwd0VkODJnc3U1SWdDQU00VUxuMWlWR2FpTlpQVEw5RWFpNG8yUXNwY3JNVlVsNEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b5c4bac42c6e",
       "title": "“PQC-QKD 실제 적용”... 양자보안연구회 워크숍 10일 개최 - 보안뉴스",
       "published": "2026-07-02T09:53:00+00:00",
@@ -398,18 +458,6 @@
         {
           "name": "보안뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLTHBpeGNaRG04THkyQWVwQV9LZXQ0QlE2Z3VKLVN5eF9QeGtPNHFjZWpqc0xEX2Q0U2VibUh1MGtsdVh5cXJMUnlnY05DY1RwM3ZSdVNrOG9SclhWUHZLRHNWNXk0T0FmVEU3eGZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fad61d300125",
-      "title": "레몬물 한 잔의 놀라운 효과…“피부 건강부터 신장결석 예방까지” - 동아일보",
-      "published": "2026-07-02T09:08:25+00:00",
-      "summary": "레몬물 한 잔의 놀라운 효과…“피부 건강부터 신장결석 예방까지”&nbsp;&nbsp;동아일보레몬물 한 잔의 놀라운 효과…\"피부 건강부터 신장결석 예방까지\"&nbsp;&nbsp;뉴시스“식욕 줄이고 피로 해소”… 미 영양 전문가 꼽은 ‘레몬물’ 의외의 효과 8가지&nbsp;&nbsp;헬스조선레몬을 '여기'에 딱 한 조각만 넣어보세요… 여름철 고민 싹 해결됩니다&nbsp;&nbsp;위키트리",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xNkxpckJUOGhIdUFUMG5QQjhxRThRd1NpRG91aDAxbVE1LTh1SFZKenBwcEdORVpjcFFhVm9qSGxLaVd0aDlncllhSXJONm9UTC1XUGJSRHh4VDU5Y185UmRfOU81bEgwU1hnTzh1Z2M2N2UtZWfSAWZBVV95cUxNNlNwcVhWOUV4UFNSN05uLUNJZXNYQ1JxNlo1RVVuWEFzWUVSTlkzYV8yOFNVZ3pyZjF3MWJVVm9WdFZFaWNEdFRNd3FhSzZHNW01d0hCVjhKNXJLazVkZG1pZVRSVkE?oc=5"
         }
       ]
     },
