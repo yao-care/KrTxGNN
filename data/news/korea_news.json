@@ -1,19 +1,31 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-05T08:56:21.638976+00:00",
-  "total_fetched": 64,
-  "unique_count": 63,
-  "health_related_count": 27,
+  "fetched_at": "2026-07-05T13:46:15.279288+00:00",
+  "total_fetched": 55,
+  "unique_count": 55,
+  "health_related_count": 21,
   "news": [
     {
-      "id": "0f3fb910ad2a",
-      "title": "'엉덩이 무거우면' 암 위험 커진다…오래 앉을수록 더 위험 [노화설계] - 네이트",
-      "published": "2026-07-05T06:01:00+00:00",
-      "summary": "'엉덩이 무거우면' 암 위험 커진다…오래 앉을수록 더 위험 [노화설계]&nbsp;&nbsp;네이트‘엉덩이 무거우면’ 암 위험 커진다…오래 앉을수록 더 위험 [노화설계]&nbsp;&nbsp;v.daum.net“30분 넘게 앉아 있었다면 당장 일어나라”…1시간 늘 때마다 ‘사망 위험’ 확 오른다는데 [헬시타임]&nbsp;&nbsp;서울경제신문\"30분 이상 앉아 있으면 1시간마다 암 위험 9% 올라가\"&nbsp;&nbsp;연합뉴스TV운동 많이 하면 암 안 걸린다?…부장 눈치 보지 말고 엉덩이 '들썩'해야 하는 이유[과학을읽다]&nbsp;&nbsp;아시아경제",
+      "id": "9242e1f54be0",
+      "title": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다? - 코메디닷컴",
+      "published": "2026-07-05T11:05:00+00:00",
+      "summary": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다?&nbsp;&nbsp;코메디닷컴[오늘의 건강상식] “얼굴이 붉어져도, 술은 마시면 늘어”, 과연 그럴까?&nbsp;&nbsp;안전저널술 마시면 얼굴 빨개지는 사람, 치매 조심해야&nbsp;&nbsp;헬스조선술에 얼굴 빨개지는 사람, 무시하고 계속 마시면 ‘이 병’ 위험 커진다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xNGdvY0JpM3ZpRVZyUkZNTzk0cHA2aGFnLXZqTmF3c0psSk1RR3cwTmxXWnNPazd1elRaZTB5VDRvWE1yTTJwR015X3duR0dDN0dV?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12OVZHVlVxeUpjSUFKNkdQSnpzdjVGY2tZZ2pxOW0taWc5QjdsakFObnlqRDZnTHhwMkJ4ZHFRZzgydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36d729efb65a",
+      "title": "임성훈의 대단한 도전 - 치매 환자를 자극하지 않고 착한 치매로 유지하는 방법 - mbn.co.kr",
+      "published": "2026-07-05T02:01:08+00:00",
+      "summary": "임성훈의 대단한 도전 - 치매 환자를 자극하지 않고 착한 치매로 유지하는 방법&nbsp;&nbsp;mbn.co.kr",
+      "sources": [
+        {
+          "name": "mbn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15cmt6ZE1GZkJlVVdzTHdvWEFTbmEwM2ZWWFJPaGs3YnJRSnVLUVNvdTNaVzVhOFBZcUxxeVJ2YW1MeEhVd2FEZ2UwOTVmZldhc1B0MVY4d3BMbmlzamZHVjhiZEF5UEJ4d0wxVldOcmNVanZzUDljWW9vaw?oc=5"
         }
       ]
     },
@@ -114,18 +126,6 @@
       ]
     },
     {
-      "id": "5a8235555f7c",
-      "title": "\"HIV 감염 어린이만 오세요\" 편견 깬 초등학교 '놀라운 근황' 전해졌다 - 네이트",
-      "published": "2026-07-04T07:39:00+00:00",
-      "summary": "\"HIV 감염 어린이만 오세요\" 편견 깬 초등학교 '놀라운 근황' 전해졌다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uMTZfeGVkVEplWUJWSXZmcGxnaVEtTkhHblNCSXpLbzQ0RkxBSGtMSTcwb09JdzJuN3gyblJpaTJCYVltTnk5a05HcWhOcllURUZV?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1dd76ce48a32",
       "title": "요즘 주목받는 ‘마그네슘’···알약 말고 알록달록 식탁에서 챙기는 법 - 경향신문",
       "published": "2026-07-04T07:00:00+00:00",
@@ -141,7 +141,7 @@
       "id": "e12f15ea79bf",
       "title": "'위고비' 등 GLP-1 약제, 심방세동·당뇨병 모두 있는 환자에서 사망률 낮춰 - 네이트",
       "published": "2026-07-04T03:32:00+00:00",
-      "summary": "'위고비' 등 GLP-1 약제, 심방세동·당뇨병 모두 있는 환자에서 사망률 낮춰&nbsp;&nbsp;네이트",
+      "summary": "'위고비' 등 GLP-1 약제, 심방세동·당뇨병 모두 있는 환자에서 사망률 낮춰&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "네이트",
@@ -234,74 +234,14 @@
       ]
     },
     {
-      "id": "01624d5c6941",
-      "title": "日, ‘당뇨병×순환기질환’ 컨센서스 스테이트먼트 개정 - 재활뉴스",
-      "published": "2026-07-03T11:30:00+00:00",
-      "summary": "日, ‘당뇨병×순환기질환’ 컨센서스 스테이트먼트 개정&nbsp;&nbsp;재활뉴스",
-      "sources": [
-        {
-          "name": "재활뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhbGgyXy1UaFZYTzZyODBVNU9XcEVxRVA2OUJfNW1EdHBwaDA0V2hpSWE0a2pfTTd2ZHFDUWJNaUlqTFRPTkRVOFpqUzBURVdocXUydW1kamwwT1c4cm4zUXNJbmp3NXJuamg4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c7480bc26be",
-      "title": "암 걸린 사람은 치매 덜 걸린다?...‘암-알츠하이머 역설’ 왜 생기나 - 디멘시아뉴스",
-      "published": "2026-07-03T11:15:08+00:00",
-      "summary": "암 걸린 사람은 치매 덜 걸린다?...‘암-알츠하이머 역설’ 왜 생기나&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MNzZBY0ttOXZuR2Jhd0J0eHVYdC1uUDBzVGQyb3kzcG8zM1dlMUJkazRYbWhHblBxblNDSG9vcWt0LUxfS0w0aEZ3MGdqRzE2a0hEV29mVlNVcUR4eC1BdExya25DYUdxeFZiYnpsWDZaUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4efc66f55847",
       "title": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지 - 네이트",
       "published": "2026-07-03T09:15:00+00:00",
-      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;동아일보“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남",
+      "summary": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6a01MTkM5ajhLcTVFaU1ueHVQNFEzTHVibUl0b2xOUFNpNnZBQTJjczlRZHR5SjNjWXd3am02SFVkbFllenlnSEF6SzBjbi1ET0FN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "512ec0751ee7",
-      "title": "나이 들어 운동 효과 없다고?... 4분만 투자하면 몸을 깨울 수 있어요 - 조선일보",
-      "published": "2026-07-03T08:59:34+00:00",
-      "summary": "나이 들어 운동 효과 없다고?... 4분만 투자하면 몸을 깨울 수 있어요&nbsp;&nbsp;조선일보\"나이 많다고 치료 포기?\"…고령 환자, '노쇠 평가'가 예후 가른다&nbsp;&nbsp;네이트노년 근감소증, 막을 수 있다&nbsp;&nbsp;캐나다 한국일보피곤하다고 쉬는 사람이 가장 먼저 늙는다&nbsp;&nbsp;농촌여성신문질병보다 무서운 '노쇠'…생활습관이 건강수명 좌우&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1SHQ5a2JyRVdTbHdJYVlnMHZQWldQbks4RHRVNDRsaGtoOW5YWmRib2JJS21WVTlSM1p4N1ZxMGFmUVlLbnVjN0kzVEI3U3AzUEw1UW5zM1Y0OThidkx4aHJXQUZXT2YyRW1yR1Q1dWZaUnNWWUVUaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d5dc850d2ec0",
-      "title": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다 - 헬스조선",
-      "published": "2026-07-03T08:15:00+00:00",
-      "summary": "커피 많이 마시는 사람일수록 ‘간 질환’ 사망 위험 최대 40% 낮았다&nbsp;&nbsp;헬스조선하루 커피 3잔이 간암 위험 크게 낮춰…“디카페인도 효과”&nbsp;&nbsp;전자신문커피 섭취의 효과에 대한 새로운 연구 결과.&nbsp;&nbsp;Vietnam.vn한인 의학자 “커피 마시면 간질환 위험 낮아진다” > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN“식후 단 음료 한 잔?”…151만명 추적했더니 간암 위험 15%↑&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82SllwdmIxRW9Xd0U1Z0J4NTh2U1hnZUVFWVl2X0l3ZmM2N1RGQlNvUDlvYks0UjBYcXZJM2VNYWZaX3pwOWM0Qkg1MEcxblRpT1E3TnJUN0tZTnl5X2t0Nmd6b2R1dmNGNC1SS181ZmJ3NHZtbFZtWFl6RmxESkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4819407028a",
-      "title": "스트레스가 암 성장 부추길 수 있다… “장내 세균 변화가 면역 반응 약화” - 하이닥",
-      "published": "2026-07-03T08:00:00+00:00",
-      "summary": "스트레스가 암 성장 부추길 수 있다… “장내 세균 변화가 면역 반응 약화”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tSDBrRjlXZlM0c3pPcEdVSDdQblhnMHhzM002cGlxaFdlMjF4RExEaFVfUDhTY2VJc2xqb3BLZ29YQ3BPeDB4akpBN2VoQUJzN1FkcGJpS1BvUzd1cVo1TUlhUGUweHJ6MEE?oc=5"
         }
       ]
     },
@@ -314,18 +254,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54anZlVnAzb29vcDdfZmtlNnUyLVhzaTRQM3NyWEhNaDVDN0VhNnlQN0NPSEptVUtJdDRvWFd3ZG8xWFk5QV9sT3ZjVlJOd1dCblE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5c4bac42c6e",
-      "title": "“PQC-QKD 실제 적용”... 양자보안연구회 워크숍 10일 개최 - 보안뉴스",
-      "published": "2026-07-02T09:53:00+00:00",
-      "summary": "“PQC-QKD 실제 적용”... 양자보안연구회 워크숍 10일 개최&nbsp;&nbsp;보안뉴스",
-      "sources": [
-        {
-          "name": "보안뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLTHBpeGNaRG04THkyQWVwQV9LZXQ0QlE2Z3VKLVN5eF9QeGtPNHFjZWpqc0xEX2Q0U2VibUh1MGtsdVh5cXJMUnlnY05DY1RwM3ZSdVNrOG9SclhWUHZLRHNWNXk0T0FmVEU3eGZB?oc=5"
         }
       ]
     }
