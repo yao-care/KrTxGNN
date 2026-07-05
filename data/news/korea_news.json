@@ -1,15 +1,15 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-05T13:46:15.279288+00:00",
-  "total_fetched": 55,
-  "unique_count": 55,
-  "health_related_count": 21,
+  "fetched_at": "2026-07-05T19:22:02.011771+00:00",
+  "total_fetched": 53,
+  "unique_count": 53,
+  "health_related_count": 19,
   "news": [
     {
       "id": "9242e1f54be0",
       "title": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다? - 코메디닷컴",
       "published": "2026-07-05T11:05:00+00:00",
-      "summary": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다?&nbsp;&nbsp;코메디닷컴[오늘의 건강상식] “얼굴이 붉어져도, 술은 마시면 늘어”, 과연 그럴까?&nbsp;&nbsp;안전저널술 마시면 얼굴 빨개지는 사람, 치매 조심해야&nbsp;&nbsp;헬스조선술에 얼굴 빨개지는 사람, 무시하고 계속 마시면 ‘이 병’ 위험 커진다&nbsp;&nbsp;코메디닷컴",
+      "summary": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다?&nbsp;&nbsp;코메디닷컴[오늘의 건강상식] “얼굴이 붉어져도, 술은 마시면 늘어”, 과연 그럴까?&nbsp;&nbsp;안전저널술에 얼굴 빨개지는 사람, 무시하고 계속 마시면 ‘이 병’ 위험 커진다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -18,26 +18,14 @@
       ]
     },
     {
-      "id": "36d729efb65a",
-      "title": "임성훈의 대단한 도전 - 치매 환자를 자극하지 않고 착한 치매로 유지하는 방법 - mbn.co.kr",
-      "published": "2026-07-05T02:01:08+00:00",
-      "summary": "임성훈의 대단한 도전 - 치매 환자를 자극하지 않고 착한 치매로 유지하는 방법&nbsp;&nbsp;mbn.co.kr",
+      "id": "b1ccfaf5ae89",
+      "title": "임성훈의 대단한 도전 - 가족들이 알아챌 수 있는 치매의 증상들 - mbn.co.kr",
+      "published": "2026-07-05T01:55:09+00:00",
+      "summary": "임성훈의 대단한 도전 - 가족들이 알아챌 수 있는 치매의 증상들&nbsp;&nbsp;mbn.co.kr갑자기 달고 기름진 음식, 탄수화물 당긴다면…'이것' 초기 신호일 수도?&nbsp;&nbsp;네이트“기억력 소실, 치매 전조 증상일 수도”… 건망증과 차이점은 무엇 (‘대단한 도전’)&nbsp;&nbsp;tvreport.co.kr",
       "sources": [
         {
           "name": "mbn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15cmt6ZE1GZkJlVVdzTHdvWEFTbmEwM2ZWWFJPaGs3YnJRSnVLUVNvdTNaVzVhOFBZcUxxeVJ2YW1MeEhVd2FEZ2UwOTVmZldhc1B0MVY4d3BMbmlzamZHVjhiZEF5UEJ4d0wxVldOcmNVanZzUDljWW9vaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "32bdb3676c63",
-      "title": "\"기억력 소실, 치매 전조 증상일 수도\"…건망증과 차이점은 무엇 ('대단한 도전') - 네이트",
-      "published": "2026-07-05T01:51:00+00:00",
-      "summary": "\"기억력 소실, 치매 전조 증상일 수도\"…건망증과 차이점은 무엇 ('대단한 도전')&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXallVUTlRcUkxQTgwejdZNGFRVm8yMThrNFExMTZEY21qbXBieUR1WEFrcTQyMjRTUnE0R1FnNXdScjlyNTNmS3A4alhLRVNNdWF3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Bc19SSDlqX0ZLdmZrWTVIYTJZNmVyVjBnd21pVDVCTy0tQnF2Vk1fempIaEVaQjNWeEZLOHRib2FrQTRhRjRyTVRoczNUVGk0ZURPUEVhVF9nOUlOWmVjQTdUWWI1dkM4M0NpZEUtQXg1Z1M2TE9FN01hbw?oc=5"
         }
       ]
     },
@@ -45,7 +33,7 @@
       "id": "33a99afe2f7a",
       "title": "[청년발언대] 늘어나는 청년 암 환자…건강관리와 조기 검진이 중요하다 - 청년일보",
       "published": "2026-07-04T23:00:00+00:00",
-      "summary": "[청년발언대] 늘어나는 청년 암 환자…건강관리와 조기 검진이 중요하다&nbsp;&nbsp;청년일보“변 가늘어지고 체중감소”…젊은층 ‘이 암’ 급증&nbsp;&nbsp;동아일보대장암, 젊다고 안심은 금물…소화기 질환·치질로 오인&nbsp;&nbsp;sportschosun.com대장암 발병 연령 낮아지는 이유… \"출생 시 이 조건이 암 위험 결정\"&nbsp;&nbsp;뉴시스\"아직 젊은데 암이라니\"…한국만의 문제가 아니었다[실험노트]&nbsp;&nbsp;v.daum.net",
+      "summary": "[청년발언대] 늘어나는 청년 암 환자…건강관리와 조기 검진이 중요하다&nbsp;&nbsp;청년일보Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "청년일보",
@@ -78,6 +66,18 @@
       ]
     },
     {
+      "id": "402cf39d1b5c",
+      "title": "“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지 - 헬스조선",
+      "published": "2026-07-04T17:00:00+00:00",
+      "summary": "“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선“비싼 영양제 절대 효과없다” 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;v.daum.net치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;동아일보“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YQ2xrXzZHT2F0TEptWi1MakVzQWwwX2ZnTTlhRkRLQlIxaXZ5R3VkWnljckZGeVF4aXcxd21xZ3hyYV9maUhFOWFoWUhyZjNXTE40cWlKejRKb1FRTURjQVp4YXhrVFpBaUJ3R3BsZnVYLTJyTXo4NjczcnE2MzQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d83b9d3cf54f",
       "title": "람동에서 일본 뇌염 의심 사례 발견 - Laodong.vn",
       "published": "2026-07-04T11:21:13+00:00",
@@ -105,7 +105,7 @@
       "id": "f6d58c2478ed",
       "title": "\"우리 애 우유 먹여야겠네\"…어릴 때 꾸준히 마시면 생기는 일 [헬시타임] - 네이트",
       "published": "2026-07-04T10:41:00+00:00",
-      "summary": "\"우리 애 우유 먹여야겠네\"…어릴 때 꾸준히 마시면 생기는 일 [헬시타임]&nbsp;&nbsp;네이트“우리 애 우유 먹여야겠네”…어릴 때 꾸준히 마시면 생기는 일 [헬시타임]&nbsp;&nbsp;서울경제신문5세 우유 습관이 만든 차이... 비만 위험 감소 연구 결과&nbsp;&nbsp;v.daum.net비만 관리도 조기교육…유아기 '우유 섭취' 주목&nbsp;&nbsp;네이트“유아기 우유 섭취, 초등학교 비만 감소 연관 주목”&nbsp;&nbsp;국민일보",
+      "summary": "\"우리 애 우유 먹여야겠네\"…어릴 때 꾸준히 마시면 생기는 일 [헬시타임]&nbsp;&nbsp;네이트“우리 애 우유 먹여야겠네”…어릴 때 꾸준히 마시면 생기는 일 [헬시타임]&nbsp;&nbsp;서울경제신문5세 우유 습관이 만든 차이... 비만 위험 감소 연구 결과&nbsp;&nbsp;v.daum.net“유아기 우유 섭취, 초등학교 비만 감소 연관 주목”&nbsp;&nbsp;국민일보5세 때 마신 우유, 비만 위험과 연관성 확인&nbsp;&nbsp;베이비뉴스",
       "sources": [
         {
           "name": "네이트",
@@ -206,30 +206,6 @@
         {
           "name": "한국면세뉴스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDeW1zWWViaGsxenRZOW9PbjEwdlhsYTZtdFFFVDR6YXcwcGp0M1Y1MGo3cjc5VnJSOWIwaXN5endyYTl0N0d0anUtR2puMUZtSzJVOUp1dGlIeUtLOFhlNVl5akx2UW5wSkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cab0fe69cb57",
-      "title": "“여성 갱년기 장애 안면홍조는 시작일 뿐”[베스트 닥터의 베스트 건강법] - 동아일보",
-      "published": "2026-07-03T16:40:00+00:00",
-      "summary": "“여성 갱년기 장애 안면홍조는 시작일 뿐”[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12OEJteWkwdGpMc29NWFUydFZMZUZJaVpWNERtZG9lbzdYUmo1X3hLVTYzY0g2VWtlbGRVTUU5WW5HZUV5d0pQLW1aRm4tcTJPQkFWNUlDcHdtWG50bHV3MzdJRjJ4a09vMVNacVlSMNIBZkFVX3lxTE9nOExkSWZOSlJfSHNjMXl1eGppZGlvNVR4V0diZW5VWUJLblFrS1Z0MUFKV29iVXFFWGxvM2Q0Sjl3Y09ldFJXazV6WXdBaUpvRGkwVWh4MmQwd2hraUx4Sl9nM19kZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cea9d33e3e02",
-      "title": "\"치매를 일으키던 물질이 약이 됐다\"... KAIST, 병든 뇌에서만 작동하는 '스마트 치료제' 개발 - 특허뉴스",
-      "published": "2026-07-03T13:39:00+00:00",
-      "summary": "\"치매를 일으키던 물질이 약이 됐다\"... KAIST, 병든 뇌에서만 작동하는 '스마트 치료제' 개발&nbsp;&nbsp;특허뉴스치매 원인 물질이 치료 ‘스위치’를 켠다​&nbsp;&nbsp;BRICKAIST, 치매 원인 물질 활용하는 치료 기술 개발&nbsp;&nbsp;nocutnews.co.kr치매 악화 물질이 치료제 '스위치'로...KAIST, 새 치매 치료 전략 제시&nbsp;&nbsp;바이오타임즈\"고사리에서 찾은 치매 치료 신후보물질의 열쇠… '닥터.프테로신 100' 세계가 주목”&nbsp;&nbsp;뉴스인",
-      "sources": [
-        {
-          "name": "특허뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9CczEtZ1VGYTJqYWJQR0g4NU1XTEVjM1BWQlR0Q2F4TXhXcmo1N3hVRFY0TTltSDVKdnlzS3JPNVZaSFFwUWxvSA?oc=5"
         }
       ]
     },
