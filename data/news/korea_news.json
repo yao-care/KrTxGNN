@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-06T10:42:39.646184+00:00",
-  "total_fetched": 59,
-  "unique_count": 59,
-  "health_related_count": 30,
+  "fetched_at": "2026-07-06T15:39:00.043623+00:00",
+  "total_fetched": 51,
+  "unique_count": 51,
+  "health_related_count": 23,
   "news": [
+    {
+      "id": "217fd72c0fd9",
+      "title": "하띤에서 발생한 뎅기열 유행은 3개월이 지났지만 여전히 통제되지 않고 있습니다 - Laodong.vn",
+      "published": "2026-07-06T10:33:50+00:00",
+      "summary": "하띤에서 발생한 뎅기열 유행은 3개월이 지났지만 여전히 통제되지 않고 있습니다&nbsp;&nbsp;Laodong.vn뎅기열이 건강에 미치는 영향.&nbsp;&nbsp;Vietnam.vn제720경제방위여단이 뎅기열 퇴치를 위해 배치되었습니다.&nbsp;&nbsp;Vietnam.vn중앙위생역학연구소는 해당 지역의 뎅기열 매개체 지표를 모니터링하고 있다 - 까오방 온라인 신문.&nbsp;&nbsp;Vietnam.vn닥락: 뎅기열 발병 사례는 우기에 급격히 증가합니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPengtbkU4UlJiOWcwV1BMN1lRWXc1NVozdnp2TXk4TEN5SU9fQ1AtNTFsakFmVGxjOElteU5lbndaOXZJaGY4TTR6LUhvMXQya1BrbWpBd213UE1XNG9RSHZKTVZVWW52NV8xdTJUc05fY0huWEdVa2JudW54aFRiUlpEVDluclE1TzVXbWpnYkdlOXZ5cTkyRnFXWVB5elktZl9DZDhTTmN5TTBtZUE?oc=5"
+        }
+      ]
+    },
     {
       "id": "85785fb6ed1c",
       "title": "반복되는 어지럼증, 뇌졸중 신호일 수도…\"정확한 감별 필요\" - 서울경제TV",
@@ -18,26 +30,26 @@
       ]
     },
     {
-      "id": "8252885673f0",
-      "title": "껀터에서 뎅기열 4배 증가 - Laodong.vn",
-      "published": "2026-07-06T09:12:41+00:00",
-      "summary": "껀터에서 뎅기열 4배 증가&nbsp;&nbsp;Laodong.vn뎅기열이 건강에 미치는 영향.&nbsp;&nbsp;Vietnam.vn제720경제방위여단이 뎅기열 퇴치를 위해 배치되었습니다.&nbsp;&nbsp;Vietnam.vn중앙위생역학연구소는 해당 지역의 뎅기열 매개체 지표를 모니터링하고 있다 - 까오방 온라인 신문.&nbsp;&nbsp;Vietnam.vn두 가지 질병이 동시에 급증하면서 보건부가 경고를 발령했습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRWJ6UEo2aUxrSUlkV1hodmxndWJweE12UWtyXy1ZeldrZ3ZDMENRdGVFbkNKTXB5MXBnUmZSV05SRjRIZHhGTWNiai1EdDR2cWl2NzhoQ0lIWkZ3OHlGMGFSWEFDbi1yMWF0RVpTelJUQXppdmxHcnQxVXRoakpBTkpwTGlwT28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d0634606b06",
+      "id": "0570d6b4069f",
       "title": "일양약품, ‘팝핑 프리미엄비타C’ 출시 - 메드월드뉴스",
       "published": "2026-07-06T08:27:44+00:00",
       "summary": "일양약품, ‘팝핑 프리미엄비타C’ 출시&nbsp;&nbsp;메드월드뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4dThyOGlrcjdOSVF4OGltUWtSakRRRHZMZmNTT1l1TkVHTlVkNmM1eFpOZVB2Q1QzWWVBTE9CMVBpdmh0RXk1SVZFVWpsdHNUTFBGVlBTakF1czlBNzRSd0x5SmIzd1UzdHgwQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NajJBb2UzMWNxTWlGUXF6QUhkNGhSbUZRZTJpLXAtODIwNzNEeXh5NnV3V0JPcV80YzN1TlFQRE5mSjVVb1hoMDlYUlVKeVRORDNqVGxTTzdvY2xJQ1hqLVJlMzBjeE5ObGZaMllB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29fe1088aff4",
+      "title": "\"40대는 안심?\"…조기 대장암 증가에 자가검사 관심 높아져 - 위클리코리아",
+      "published": "2026-07-06T08:08:53+00:00",
+      "summary": "\"40대는 안심?\"…조기 대장암 증가에 자가검사 관심 높아져&nbsp;&nbsp;위클리코리아대장암, 젊다고 안심은 금물…소화기 질환·치질로 오인&nbsp;&nbsp;sportschosun.com젊다고 안심했다간 큰 코 다친다… 배변 습관 변했다면 ‘대장내시경 검사’ 필요해&nbsp;&nbsp;바이오타임즈[청년발언대] 늘어나는 청년 암 환자…건강관리와 조기 검진이 중요하다&nbsp;&nbsp;청년일보젊은 층 암 증가…‘생물학적 노화’가 원인일 수도&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "위클리코리아",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNZ01EZUZZUEVHNDFDM1Z2dW5qOXlfUm9fZmJGQ2xXM19Rb1oxTkJmUnoxMGlKSVE2Q1JLZkh4Zm5iUVBvMGJDaHhlZWlQQUgzY3dRVGlfbkNKZmdTSm5MVFhwMy1MbFFnaDc1cEVHa3JBaGhSQURaRHJjbGdPdXpFVmk0UzJMbjlTckgyT1VoM2xCeFRwaW9TMlVmVElKWWRITE5mZUtRR2Vhbi1pVkZidnpOUTEzVXlJSjhhVU1TbE04bloyUG5BekI2TEpzeTZ5dndNYkQxVEhtZU84MklwVDBCVVZDR2xUd2lBZFhfSXdBSkhqRmxtUDl2SnNGdS1DUk51eDJXTkNQMWVtMEFLbFRIblVOS1JOR19aQ2pfLTZuaEEteEJPUzNWbkhidWZBWHl4cExEZGFzS3pUMmxhb09wTlRUS3JXQlNEcHlpOVEtNzg?oc=5"
         }
       ]
     },
@@ -66,6 +78,42 @@
       ]
     },
     {
+      "id": "b07532800ba5",
+      "title": "침묵의 침입자 폐렴구균, ‘백신’이라는 방패로 막아내야(2편) - 서산시대",
+      "published": "2026-07-06T05:48:23+00:00",
+      "summary": "침묵의 침입자 폐렴구균, ‘백신’이라는 방패로 막아내야(2편)&nbsp;&nbsp;서산시대",
+      "sources": [
+        {
+          "name": "서산시대",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wNG9QblNFcDNScUxyd2xfeGhiYUNtRHNKY2JTYXhOdEhnWG1nZDVSU19jemk0TlpYQ3FQQ2ZxQlQ5WjdMLW5rd2RSdE0tUk44Zkh2NnF0NWRETUJNUFFpVDA1bzlnd9IBakFVX3lxTE1PMjFvcjdSUnJVLVZBMHIyRkVJTDQxV1AwZkN4VFgwbkZxa1p3NFhSWXBLZ21aYUdmVDE4RWJoNy1Fa0U0Y0J5dGJRMUxFaVBIajdGZmZwczJOZW8xeWxlZW1yMmtkM002VkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f79f98a2d0f6",
+      "title": "中 브리바이오, B형간염 2b상서 순차 병용 효과 확인…임상3상 진입 ‘청신호’ - 더바이오",
+      "published": "2026-07-06T05:10:20+00:00",
+      "summary": "中 브리바이오, B형간염 2b상서 순차 병용 효과 확인…임상3상 진입 ‘청신호’&nbsp;&nbsp;더바이오",
+      "sources": [
+        {
+          "name": "더바이오",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoQ1dtblljLVYxMnM5dTdGbWJFSnhvdjFRdmF2VjVJNVZjQVF2Q1FlNzFLY09RRjYxenoyRloyZG9EVDNETHNrSjVyeHEwOHBCREY4ZE45LUJBT1lxQjRIcUx6YjN0bHE1Wm0zT9IBcEFVX3lxTE1fWVNoZElva3JGT1Njay0wVW4yS2QzTnVRZjNaT2lkaGljbjlwTGFLdVdvcWlTYnAweTNFakI2N19lUHRyWk1KbkZjTVVaS21uM3FBQ3ZPYWdILXp5SnViM3g1bVB0bE1BaVBlNVU5ekQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3707a39caa17",
+      "title": "부모님 기억력 걱정될 때, ‘건망증’과 ‘치매’ 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트] - 쿠키메디",
+      "published": "2026-07-06T05:09:18+00:00",
+      "summary": "부모님 기억력 걱정될 때, ‘건망증’과 ‘치매’ 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트]&nbsp;&nbsp;쿠키메디Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "쿠키메디",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SVlhETGl0RHZCSG1xZ1ZLN0MtcnRKa1Z5TnUwdThQQm4wRnZaWVpiSTUweE14MVh2eC1MaHRGZ2NEaHVoS0NQRExpMjF3bDAxQnByQkdnNk5ZVTFhTVA0TDh0VQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "76ab9c3ccb45",
       "title": "노벨화학상 석학도 중국행… 야기 교수, 칭화대서 AI 소재 연구 지휘 - 조선일보",
       "published": "2026-07-06T04:57:23+00:00",
@@ -90,42 +138,6 @@
       ]
     },
     {
-      "id": "857a3394522a",
-      "title": "[의학칼럼 제79호] 침묵의 침입자 폐렴구균, '백신'이라는 방패로 막아내야(2편) - 충청탑뉴스",
-      "published": "2026-07-06T04:01:13+00:00",
-      "summary": "[의학칼럼 제79호] 침묵의 침입자 폐렴구균, '백신'이라는 방패로 막아내야(2편)&nbsp;&nbsp;충청탑뉴스",
-      "sources": [
-        {
-          "name": "충청탑뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zMGw2NFloRlBTdEFRbDFld2g1clhYd1Y1bURHUE51VWI2VllWMHdoUHQycjV2ZUpzS1lOZDJCX2pBakozRXdUd0NmVlhQTmVRVmQ2NWxVWDIzMlhFTGNHVmtIbXY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2678f7dec81b",
-      "title": "양치 먼저? 치실 먼저?…구강 건강에 더 좋은 방법 있었다 - 매일경제",
-      "published": "2026-07-06T01:35:28+00:00",
-      "summary": "양치 먼저? 치실 먼저?…구강 건강에 더 좋은 방법 있었다&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54bG5LRTIzSXdWZEVicWk5U1FUSjFIQXpmVGM3WU1oYjlveThlTzZ6UDMwWG9UVnRCLWZUTVp0YlprNnFzUEphb29XZHMtUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "713afa0ce4cb",
-      "title": "치매인 줄 알았는데 아니었다…'이 걸음' 나타난 60대 놓친 병 - 네이트",
-      "published": "2026-07-06T01:28:00+00:00",
-      "summary": "치매인 줄 알았는데 아니었다…'이 걸음' 나타난 60대 놓친 병&nbsp;&nbsp;네이트부모님 기억력 걱정될 때, ‘건망증’과 ‘치매’ 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트]&nbsp;&nbsp;쿠키뉴스치매인 줄 알았는데 아니었다…‘이 걸음’ 나타난 60대 놓친 병&nbsp;&nbsp;미주중앙일보갑자기 달고 기름진 음식, 탄수화물 당긴다면…'이것' 초기 신호일 수도?&nbsp;&nbsp;네이트“기억력 소실, 치매 전조 증상일 수도”… 건망증과 차이점은 무엇 (‘대단한 도전’)&nbsp;&nbsp;tvreport.co.kr",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oS3ljOVEzZmY2dFVtUVNBUTJvME9rMVN3aDRDaE52S3BEUl80Q2VOZ2thSW9CZ1g2NmRFSHA4eGN5UkxCMnJFdE5XU1Z4bWJQVDVr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "93f9992c3499",
       "title": "눈 가려움, 봄이 지나도 끝나지 않는다...알레르기 결막염 '연중 관리' 필요 - 파이낸셜뉴스",
       "published": "2026-07-06T01:25:31+00:00",
@@ -134,18 +146,6 @@
         {
           "name": "파이낸셜뉴스",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWnpCdmFNdEVfV1Z0dGdRa1lPMXRhSG1qQ0ltZlR1Q2hGdVZibGQtVkpvS21qZUFmZHc3c2RybHlYLXhsajJ3SzdhSHA1aGxqUXVmdTJQLUE4Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a72d57058c66",
-      "title": "시원한 실내에서 ‘이것’ 10번씩 했더니...혈당 낮추는 데 걷기보다 효과적 - 코메디닷컴",
-      "published": "2026-07-06T01:07:00+00:00",
-      "summary": "시원한 실내에서 ‘이것’ 10번씩 했더니...혈당 낮추는 데 걷기보다 효과적&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5IaFhrNTd2Mm11MjNsb1J3emxJS3B4dlQwU2dwWkFVUXAxbDRQbklPWU1fbmpHMVRDTlQ0d3VDS1VWUQ?oc=5"
         }
       ]
     },
@@ -222,18 +222,6 @@
       ]
     },
     {
-      "id": "9242e1f54be0",
-      "title": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다? - 코메디닷컴",
-      "published": "2026-07-05T11:05:00+00:00",
-      "summary": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다?&nbsp;&nbsp;코메디닷컴“아직 젊으니 괜찮아” 부어라 마셔라 했던 술…진짜 뇌 손상은 중년에 온다는데 [헬시타임]&nbsp;&nbsp;서울경제신문[오늘의 건강상식] “얼굴이 붉어져도, 술은 마시면 늘어”, 과연 그럴까?&nbsp;&nbsp;안전저널\"아직 젊으니 괜찮아\" 부어라 마셔라 했던 술…진짜 뇌 손상은 중년에 온다는데 [헬시타임]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12OVZHVlVxeUpjSUFKNkdQSnpzdjVGY2tZZ2pxOW0taWc5QjdsakFObnlqRDZnTHhwMkJ4ZHFRZzgydw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "45b70dc01bab",
       "title": "“운동 했는데, 고지혈증에 간 수치 높아”… 고기 옆의 양파, 상추 왜 남겼어? - 코메디닷컴",
       "published": "2026-07-05T10:01:00+00:00",
@@ -249,47 +237,11 @@
       "id": "3bb9cbcc0b30",
       "title": "mRNA백신 둘러싼 논란… 연구진이 내린 최종 평가는? - 금강일보",
       "published": "2026-07-05T02:35:00+00:00",
-      "summary": "mRNA백신 둘러싼 논란… 연구진이 내린 최종 평가는?&nbsp;&nbsp;금강일보mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;BRIC고려대 의대, mRNA 독감백신 광범위 면역반응 확인&nbsp;&nbsp;주간한국mRNA 독감 백신, 기존 달걀 백신보다 ‘면역 효과 길고 변이에 강하다’&nbsp;&nbsp;팍스메디컬뉴스고려대 의대 이지원 교수팀, mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;의약뉴스",
+      "summary": "mRNA백신 둘러싼 논란… 연구진이 내린 최종 평가는?&nbsp;&nbsp;금강일보mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;BRICmRNA 독감 백신, 기존 달걀 백신보다 ‘면역 효과 길고 변이에 강하다’&nbsp;&nbsp;팍스메디컬뉴스코로나19 mRNA 백신 연구 결과 발표.&nbsp;&nbsp;Vietnam.vn고려대 의대, mRNA 독감백신 광범위 면역반응 확인&nbsp;&nbsp;주간한국",
       "sources": [
         {
           "name": "금강일보",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xYWR6eDk2cGREUE1seVlQZ0otUlZQVWk2NzVfWVgzVjM0T2F5aHhrR1ZyV2FsMkJmNmRONzJHaFR4clhKNEdoV0Z0SGNBNWV1MkUxVWZrQ1duaXVZTjAtd2ZZNllpbGNMbHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "99fd59d0df5d",
-      "title": "헬스해도 '이것' 낮으면 위험?... 심장마비 위험 31% 줄인 근육의 비밀 - 금강일보",
-      "published": "2026-07-05T01:00:00+00:00",
-      "summary": "헬스해도 '이것' 낮으면 위험?... 심장마비 위험 31% 줄인 근육의 비밀&nbsp;&nbsp;금강일보",
-      "sources": [
-        {
-          "name": "금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OOERPYkIzZnRhaDZLSlNWcU5xUG1VUHRTSDJ0VUY2Rlp1eUM4M0ZISTluOFJKVDBFUG45YkNvU3VFNTZMZmctLTh0eVJ1Vk52NVlYUlVRTXhMYUZ0dGwxcy1LZGs5TFBXUHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "33a99afe2f7a",
-      "title": "[청년발언대] 늘어나는 청년 암 환자…건강관리와 조기 검진이 중요하다 - 청년일보",
-      "published": "2026-07-04T23:00:00+00:00",
-      "summary": "[청년발언대] 늘어나는 청년 암 환자…건강관리와 조기 검진이 중요하다&nbsp;&nbsp;청년일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "청년일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SdDUzWmdxd1RYRDBXRGo0S25pWDlKTlV6OUwyakszS2ZCanNQaVRQNXJORzg3cXRSeFJGdFdQOHdjZkMxNW5nMFF1ZWFTaGR4YWFnWXptRThLT0dtMHQxUXluRDZ3U0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5aefe83f5f8",
-      "title": "“하루 두부 1/3컵의 기적”…고혈압 위험 30% 낮춘다 - 주간경향",
-      "published": "2026-07-04T21:00:00+00:00",
-      "summary": "“하루 두부 1/3컵의 기적”…고혈압 위험 30% 낮춘다&nbsp;&nbsp;주간경향",
-      "sources": [
-        {
-          "name": "주간경향",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRYVJlQWxsNkJDbnM3WE9TOFdjbnF4Nk9JRlRLN01PSDlDRW9Gd1VsQTVCb1Z0Mkd0UnZGY0J1c0MxaElMQVF3bmpsRDk3Nm82NG9HNnQxM0lvSTlGa2c?oc=5"
         }
       ]
     },
@@ -302,42 +254,6 @@
         {
           "name": "콜로라도 타임즈",
           "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVVFudFhScWZ1RmJqME5oTk1JNHF3WVZLajRWU1BpaXdzQ003Y0xWeUs1U3pfZWZoSnNBMF8ybkZQc1NvbFFVbk5VQVZ2NHd2d2VZdEw5UnMwaWMzZkpsNl83LTVEWkh3cWpNT0RDaDJaOU9jR3JFQjBueFhpTld4OG80OGdoRldoMUFGWWRXZzRFOFplU2diYi1qZWVLbmJ5T0VhYnVfNXBTV3EwY0pRb25vV0EwUlNjcGlzQmF3N2tOdkpaYVFfaWRFTFhobVBrNkJrN0o5ZVZKUms1Vlh6VENMVWJCcXowdHY3VHJGUnY4WmlkRUo5a01xbHVQclI1bzZrT3lHSzdZOFdRWjdVSW5INFY2ZmNLUVhfSW5EVEt3bUFvWHptMkJIVk15YjJHNm9LeTFoVVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d83b9d3cf54f",
-      "title": "람동에서 일본 뇌염 의심 사례 발견 - Laodong.vn",
-      "published": "2026-07-04T11:21:13+00:00",
-      "summary": "람동에서 일본 뇌염 의심 사례 발견&nbsp;&nbsp;Laodong.vn백신 접종 공백은 일본뇌염 발병 위험을 증가시킵니다.&nbsp;&nbsp;Vietnam.vn필요한 백신 접종을 모두 받지 않은 어린이에게 일본뇌염 발병 위험이 있음을 경고합니다.&nbsp;&nbsp;Vietnam.vn일본뇌염에 걸린 두 어린이는 기관절개술이 필요했습니다.&nbsp;&nbsp;Vietnam.vn람동성은 일본뇌염 예방 및 통제 노력을 강화하고 있다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjdWRE4yVVduWnZxRmhWdnNQT0VnT2ZaTnZxM0g2SWZadXRKTmFxcHlXbWNFZUpkRnZzSGliZE54dVNnbkVkVFpRSXpmWHlwWHR3REl4OEhzNk94cjY1Q2QyM1NHSG5qTkF4eEh2WURLb0FiY3lRQk1MMkRGaUpsVkFuUnp6bzR3R1pnWXV6UlpjS2EwWUNDeS1SYXoxdjlJNE5fZDdCS3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a7fd1055146",
-      "title": "53세男 얼굴에 커다란 혹, ‘이곳’ 종양이었다…의사도 속는 1% 희귀 질환 - 코메디닷컴",
-      "published": "2026-07-04T11:07:00+00:00",
-      "summary": "53세男 얼굴에 커다란 혹, ‘이곳’ 종양이었다…의사도 속는 1% 희귀 질환&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1UbHVnZ0xfdGJXdjJKQTF4OEFMV0ZxWGQ0STcxeXh0eEd3elFybU1ORXpqbDlVUDFNY1FDMThicDhzQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6d58c2478ed",
-      "title": "\"우리 애 우유 먹여야겠네\"…어릴 때 꾸준히 마시면 생기는 일 [헬시타임] - 네이트",
-      "published": "2026-07-04T10:41:00+00:00",
-      "summary": "\"우리 애 우유 먹여야겠네\"…어릴 때 꾸준히 마시면 생기는 일 [헬시타임]&nbsp;&nbsp;네이트“우리 애 우유 먹여야겠네”…어릴 때 꾸준히 마시면 생기는 일 [헬시타임]&nbsp;&nbsp;서울경제신문5세 우유 습관이 만든 차이... 비만 위험 감소 연구 결과&nbsp;&nbsp;v.daum.net“유아기 우유 섭취, 초등학교 비만 감소 연관 주목”&nbsp;&nbsp;국민일보5세 때 마신 우유, 비만 위험과 연관성 확인&nbsp;&nbsp;베이비뉴스",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GNTlTeVFFb0VYcXk5OV96SVdfaVlCMGYwNGFfVGUzODNTaDc2a0JMQkNzd0tISG1DRkFIaGRBRHd6VjFIZWtzU3pORm56M1B0YS1V?oc=5"
         }
       ]
     },
