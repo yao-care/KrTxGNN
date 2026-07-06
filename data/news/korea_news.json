@@ -1,15 +1,111 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-05T19:22:02.011771+00:00",
+  "fetched_at": "2026-07-06T03:52:10.358089+00:00",
   "total_fetched": 53,
   "unique_count": 53,
-  "health_related_count": 19,
+  "health_related_count": 22,
   "news": [
+    {
+      "id": "7c374886fe6c",
+      "title": "대장암 수술 위치에 따라 이상지질혈증 위험 달라진다 - 네이트",
+      "published": "2026-07-06T02:07:00+00:00",
+      "summary": "대장암 수술 위치에 따라 이상지질혈증 위험 달라진다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Z0trcG1Bc1FkYWo5WmVZYkNyaFRDcF83c2ZyUGlEOU15dmNiT2pIRnlQRVRzdkdrTlhNSGNKc0FWWXZ3TmFDWDRFeFE0Y3lQdnhZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c906b822d70",
+      "title": "\"하지불안증후군 치료제 급여기준, 국제 진료지침에 맞춰 개선해야\" - 메디칼업저버",
+      "published": "2026-07-06T01:26:27+00:00",
+      "summary": "\"하지불안증후군 치료제 급여기준, 국제 진료지침에 맞춰 개선해야\"&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NX04tZExUQUZZdWZNenQ2elVpWlRiQTNoTUxGSndCelFJYWZOa1RSY2NxSXRzUXBNMjV3b0luNnhQRGlYcTJXa2hCWXR6LXlINF9FbmN2OFYtWHFGQkROYkNCMGRJd09VTEpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "93f9992c3499",
+      "title": "눈 가려움, 봄이 지나도 끝나지 않는다...알레르기 결막염 '연중 관리' 필요 - 파이낸셜뉴스",
+      "published": "2026-07-06T01:25:31+00:00",
+      "summary": "눈 가려움, 봄이 지나도 끝나지 않는다...알레르기 결막염 '연중 관리' 필요&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWnpCdmFNdEVfV1Z0dGdRa1lPMXRhSG1qQ0ltZlR1Q2hGdVZibGQtVkpvS21qZUFmZHc3c2RybHlYLXhsajJ3SzdhSHA1aGxqUXVmdTJQLUE4Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3cf441ba955",
+      "title": "일양약품, 톡톡 터지는 식감 더한 멀티비타민 ‘팝핑 프리미엄비타C’ 출시 - PRESS9",
+      "published": "2026-07-06T00:31:49+00:00",
+      "summary": "일양약품, 톡톡 터지는 식감 더한 멀티비타민 ‘팝핑 프리미엄비타C’ 출시&nbsp;&nbsp;PRESS9Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "PRESS9",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94RzZvWlpTeUVLVjRxQlFfdmdickdyU1QxbkdiZmFYRVltVWJJU3lrZHlKeVRXX1VzVFVOYjVhdUJMbzRKb2JoNHZtdG5uQ2JUTldUbGxGU1RfSDdvSDJjVHdScms?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e9ea96e8568",
+      "title": "건강식만 믿었는데 폐암 진단…72세 환자의 눈물 [박민선의 건강톡톡] - 시사저널",
+      "published": "2026-07-06T00:00:00+00:00",
+      "summary": "건강식만 믿었는데 폐암 진단…72세 환자의 눈물 [박민선의 건강톡톡]&nbsp;&nbsp;시사저널",
+      "sources": [
+        {
+          "name": "시사저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QQzZRZ1V1ZDFUVDBFQTFaUVkyeDE1S3BXS3lvSEc2LXNka2ZzVFNTdWhicGFBdXAyUzVtVW42OEVHaUFrdl9oNFlsa09VVVpXYkktZDJjOVhrVkdvWGJXRGdkbmo4VldHSmlpYzNVc9IBc0FVX3lxTE9FT0duR1BHaDhWdUg5MjdRa2FQYkh3VUtfckZnVnVnRTJza04yUTZ3bTI5eHdUVkxFaWE3STRwaVJRX1hVUFFsNDhGYTlxY0dTZWt0NTBZNXAxWDhwTW1WZk5pTzNQRmFFNElWalBaaFBSOGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f9bcfa65e5b",
+      "title": "“왜 자꾸 다리가 약해질까” - 이투데이",
+      "published": "2026-07-05T21:00:00+00:00",
+      "summary": "“왜 자꾸 다리가 약해질까”&nbsp;&nbsp;이투데이노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답&nbsp;&nbsp;헬스조선\"나이 많다고 치료 포기?\"…고령 환자, '노쇠 평가'가 예후 가른다&nbsp;&nbsp;한국일보노년 근감소증, 막을 수 있다&nbsp;&nbsp;캐나다 한국일보피곤하다고 쉬는 사람이 가장 먼저 늙는다&nbsp;&nbsp;농촌여성신문",
+      "sources": [
+        {
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yZDI0VjVNX0JkRnVEaGI5UjVKbzA3OFY2UjliN3pSSTFRc3Y0YVBUY2xEZTlYbk42V3lrX2pUcFY5ZjUtenFVSWZ5SVQ3UjJ4ZHhaNlRwUmZIdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b1864d23f1ac",
+      "title": "HIV는 통제 가능한 질환, 이제는 삶의 질을 고려할 때 - 의약뉴스",
+      "published": "2026-07-05T20:28:08+00:00",
+      "summary": "HIV는 통제 가능한 질환, 이제는 삶의 질을 고려할 때&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VaWNVMEk4RjhOT19Fd3dwU3lJR2piLVp3SlkxZUtQYkY5Rk1pQ3MtZEVlRll3TTMySFRhcG1QVVUxQmcyaXVjVVdQc1FCX1dVOUJNdnJVSVBIOXZVb2g4ZWxaM0l5dkV3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7c9ae67f5696",
+      "title": "WHO, 크루즈선발 한타바이러스 집단감염 종료 선언 - RadioKorea",
+      "published": "2026-07-05T12:49:07+00:00",
+      "summary": "WHO, 크루즈선발 한타바이러스 집단감염 종료 선언&nbsp;&nbsp;RadioKoreaGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "RadioKorea",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vZUpnSmZwZDVFbmprU19GaWpNUEcxNE5YOFRDVURvX2lKd3dZYk1kajNObWxjd2FsSXJEOEV6MzV4TlNMQVR1RHpFc0xfZ04xajJYWXY4V1VmMGNFbmk3VkpoLTg?oc=5"
+        }
+      ]
+    },
     {
       "id": "9242e1f54be0",
       "title": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다? - 코메디닷컴",
       "published": "2026-07-05T11:05:00+00:00",
-      "summary": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다?&nbsp;&nbsp;코메디닷컴[오늘의 건강상식] “얼굴이 붉어져도, 술은 마시면 늘어”, 과연 그럴까?&nbsp;&nbsp;안전저널술에 얼굴 빨개지는 사람, 무시하고 계속 마시면 ‘이 병’ 위험 커진다&nbsp;&nbsp;코메디닷컴",
+      "summary": "“부어라 마셔라” 20대에 스트레스 풀려고 마신 술…50대 되니 뇌가 ‘이렇게’ 변한다?&nbsp;&nbsp;코메디닷컴[오늘의 건강상식] “얼굴이 붉어져도, 술은 마시면 늘어”, 과연 그럴까?&nbsp;&nbsp;안전저널술 마시면 얼굴 빨개지는 사람, 치매 조심해야&nbsp;&nbsp;헬스조선술에 얼굴 빨개지는 사람, 무시하고 계속 마시면 ‘이 병’ 위험 커진다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -18,14 +114,26 @@
       ]
     },
     {
-      "id": "b1ccfaf5ae89",
-      "title": "임성훈의 대단한 도전 - 가족들이 알아챌 수 있는 치매의 증상들 - mbn.co.kr",
-      "published": "2026-07-05T01:55:09+00:00",
-      "summary": "임성훈의 대단한 도전 - 가족들이 알아챌 수 있는 치매의 증상들&nbsp;&nbsp;mbn.co.kr갑자기 달고 기름진 음식, 탄수화물 당긴다면…'이것' 초기 신호일 수도?&nbsp;&nbsp;네이트“기억력 소실, 치매 전조 증상일 수도”… 건망증과 차이점은 무엇 (‘대단한 도전’)&nbsp;&nbsp;tvreport.co.kr",
+      "id": "3bb9cbcc0b30",
+      "title": "mRNA백신 둘러싼 논란… 연구진이 내린 최종 평가는? - 금강일보",
+      "published": "2026-07-05T02:35:00+00:00",
+      "summary": "mRNA백신 둘러싼 논란… 연구진이 내린 최종 평가는?&nbsp;&nbsp;금강일보mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;BRICmRNA 독감 백신, 기존 달걀 백신보다 ‘면역 효과 길고 변이에 강하다’&nbsp;&nbsp;팍스메디컬뉴스고려대 의대 이지원 교수팀, mRNA 인플루엔자 백신의 광범위 면역 효과 확인&nbsp;&nbsp;의약뉴스mRNA 인플루엔자 백신 광범위 면역 효과 확인&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
-          "name": "mbn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Bc19SSDlqX0ZLdmZrWTVIYTJZNmVyVjBnd21pVDVCTy0tQnF2Vk1fempIaEVaQjNWeEZLOHRib2FrQTRhRjRyTVRoczNUVGk0ZURPUEVhVF9nOUlOWmVjQTdUWWI1dkM4M0NpZEUtQXg1Z1M2TE9FN01hbw?oc=5"
+          "name": "금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xYWR6eDk2cGREUE1seVlQZ0otUlZQVWk2NzVfWVgzVjM0T2F5aHhrR1ZyV2FsMkJmNmRONzJHaFR4clhKNEdoV0Z0SGNBNWV1MkUxVWZrQ1duaXVZTjAtd2ZZNllpbGNMbHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99fd59d0df5d",
+      "title": "헬스해도 '이것' 낮으면 위험?... 심장마비 위험 31% 줄인 근육의 비밀 - 금강일보",
+      "published": "2026-07-05T01:00:00+00:00",
+      "summary": "헬스해도 '이것' 낮으면 위험?... 심장마비 위험 31% 줄인 근육의 비밀&nbsp;&nbsp;금강일보",
+      "sources": [
+        {
+          "name": "금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OOERPYkIzZnRhaDZLSlNWcU5xUG1VUHRTSDJ0VUY2Rlp1eUM4M0ZISTluOFJKVDBFUG45YkNvU3VFNTZMZmctLTh0eVJ1Vk52NVlYUlVRTXhMYUZ0dGwxcy1LZGs5TFBXUHc?oc=5"
         }
       ]
     },
@@ -42,6 +150,18 @@
       ]
     },
     {
+      "id": "ecb66fa228e8",
+      "title": "치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 '고스톱의 배신' - 네이트",
+      "published": "2026-07-04T21:01:00+00:00",
+      "summary": "치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 '고스톱의 배신'&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zb1ZJLWZYaE5TSDJ3NUpleEM3WjRoWFh2YkhNYWxIaV80cFo0TEF6US1ZV0lUVHNmNW9WUzBWVjUxOEdXTkh6azRSR0RfNmo0ZGRN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f5aefe83f5f8",
       "title": "“하루 두부 1/3컵의 기적”…고혈압 위험 30% 낮춘다 - 주간경향",
       "published": "2026-07-04T21:00:00+00:00",
@@ -50,30 +170,6 @@
         {
           "name": "주간경향",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRYVJlQWxsNkJDbnM3WE9TOFdjbnF4Nk9JRlRLN01PSDlDRW9Gd1VsQTVCb1Z0Mkd0UnZGY0J1c0MxaElMQVF3bmpsRDk3Nm82NG9HNnQxM0lvSTlGa2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bced5e6b0a77",
-      "title": "치매, 운명일까 습관일까…“최대 45%는 늦추거나 줄일 수 있다” - 콜로라도 타임즈",
-      "published": "2026-07-04T17:27:20+00:00",
-      "summary": "치매, 운명일까 습관일까…“최대 45%는 늦추거나 줄일 수 있다”&nbsp;&nbsp;콜로라도 타임즈Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "콜로라도 타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVVFudFhScWZ1RmJqME5oTk1JNHF3WVZLajRWU1BpaXdzQ003Y0xWeUs1U3pfZWZoSnNBMF8ybkZQc1NvbFFVbk5VQVZ2NHd2d2VZdEw5UnMwaWMzZkpsNl83LTVEWkh3cWpNT0RDaDJaOU9jR3JFQjBueFhpTld4OG80OGdoRldoMUFGWWRXZzRFOFplU2diYi1qZWVLbmJ5T0VhYnVfNXBTV3EwY0pRb25vV0EwUlNjcGlzQmF3N2tOdkpaYVFfaWRFTFhobVBrNkJrN0o5ZVZKUms1Vlh6VENMVWJCcXowdHY3VHJGUnY4WmlkRUo5a01xbHVQclI1bzZrT3lHSzdZOFdRWjdVSW5INFY2ZmNLUVhfSW5EVEt3bUFvWHptMkJIVk15YjJHNm9LeTFoVVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "402cf39d1b5c",
-      "title": "“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지 - 헬스조선",
-      "published": "2026-07-04T17:00:00+00:00",
-      "summary": "“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선“비싼 영양제 절대 효과없다” 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;v.daum.net치매 위험 최대 29% 낮춘 ‘항염증 식단’…뭘 먹어야 하나? [노화설계]&nbsp;&nbsp;동아일보“건강식 먹어도 소용없다”…치매 피하려면 식탁에서 ‘이 음식’부터 치워야&nbsp;&nbsp;코메디닷컴매주 달걀 섭취, 알츠하이머 위험 47% 감소&nbsp;&nbsp;씬짜오베트남",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YQ2xrXzZHT2F0TEptWi1MakVzQWwwX2ZnTTlhRkRLQlIxaXZ5R3VkWnljckZGeVF4aXcxd21xZ3hyYV9maUhFOWFoWUhyZjNXTE40cWlKejRKb1FRTURjQVp4YXhrVFpBaUJ3R3BsZnVYLTJyTXo4NjczcnE2MzQ?oc=5"
         }
       ]
     },
@@ -129,23 +225,11 @@
       "id": "1dd76ce48a32",
       "title": "요즘 주목받는 ‘마그네슘’···알약 말고 알록달록 식탁에서 챙기는 법 - 경향신문",
       "published": "2026-07-04T07:00:00+00:00",
-      "summary": "요즘 주목받는 ‘마그네슘’···알약 말고 알록달록 식탁에서 챙기는 법&nbsp;&nbsp;경향신문오메가3는 식후 바로, 마그네슘은 저녁에…약사가 짚어준 최적의 영양제 복용법&nbsp;&nbsp;뉴시스“간 수치 왜 높나 했더니”…응급실 의사, ‘영양제’부터 묻는 이유&nbsp;&nbsp;세계일보\"다크초콜릿보다 많다\"… 의외로 마그네슘 많은 음식 5가지&nbsp;&nbsp;하이닥요즘 주목받는 '마그네슘'···알약 말고 알록달록 식탁에서 챙기는 법&nbsp;&nbsp;네이트",
+      "summary": "요즘 주목받는 ‘마그네슘’···알약 말고 알록달록 식탁에서 챙기는 법&nbsp;&nbsp;경향신문오메가3는 식후 바로, 마그네슘은 저녁에…약사가 짚어준 최적의 영양제 복용법&nbsp;&nbsp;뉴시스“간 수치 왜 높나 했더니”…응급실 의사, ‘영양제’부터 묻는 이유&nbsp;&nbsp;세계일보\"다크초콜릿보다 많다\"… 의외로 마그네슘 많은 음식 5가지&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Jb1BTcTREMEYwMW1FclpGWkI2cW1vNGZOOG9VR0VBVmNYdDZ3eklRR2M1cVd0cmhnNkc5UEpYM0xxXzdfT1Q0MWtkRklEcU1IMWZuOW1YdDI0UdIBX0FVX3lxTE9rNEFjSzNxdUtVMFFhNWpkaUVydENsSWRuQ3pVT2JQSXhLV2tvTUJUZVl5bUgwS3hPSWZmaVVZZjJmNzlRZ2FLMGxpMjB5eXdHMFc0emZYQWhXdE1ja0hZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e12f15ea79bf",
-      "title": "'위고비' 등 GLP-1 약제, 심방세동·당뇨병 모두 있는 환자에서 사망률 낮춰 - 네이트",
-      "published": "2026-07-04T03:32:00+00:00",
-      "summary": "'위고비' 등 GLP-1 약제, 심방세동·당뇨병 모두 있는 환자에서 사망률 낮춰&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pZHdhcjUzclBJU0hfbmZWMV9pZkYxaldESmNDUmNSZFl3X3RXbGQtOFNaUWE2TkdlZlZzdFkzM2xzSmNacTctSlVtdC1fVWxnQ2dv?oc=5"
         }
       ]
     },
@@ -162,30 +246,6 @@
       ]
     },
     {
-      "id": "552dfcfcf07d",
-      "title": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유 - Laodong.vn",
-      "published": "2026-07-04T02:00:33+00:00",
-      "summary": "많은 의료 시설에서 백신 접종을 위해 최종 단계로 환자를 이송하는 이유&nbsp;&nbsp;Laodong.vn닥도아는 광견병 확산 방지를 위해 예방접종 노력을 가속화하고 있습니다.&nbsp;&nbsp;Vietnam.vn\"광견병 접종, 꼭 맞아야 할까요?\" [반려동물 건강톡톡]&nbsp;&nbsp;매일신문79세 여성이 끔찍한 개 공격에서 구조되었습니다.&nbsp;&nbsp;Vietnam.vn반닌 지역에서 100명의 교육생을 대상으로 동물 광견병 예방 및 통제 교육을 실시했습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXM0U19xRWpYeGp6MS1xLUtRa0lDUWlWOENRX3A3ankzUVBVeTUyRTNoS3I5cG9YQWttaFhNQzdaN0hDQ2tMVEthVk5Kd0U0N2lVYk9faURaT0I4ekI2TnRtLUxPYjFwT2xGQWpZTlJueFlNYnR1dXM1cGsxM0ZrZVVXaVMxa1lxYjBRVTU2R085RkVHaDJNbEM4Zlplb28yRUJvaFpHM0lFWUY1ckF2VGRRZ0ZRQ2dTc1FUUS1oS1o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3fd022fb7ec",
-      "title": "심장 건강, 혈관만 볼 게 아냐…가슴·등 근육 '질' 좋을수록 심장마비 위험 낮아 - 네이트",
-      "published": "2026-07-04T01:06:00+00:00",
-      "summary": "심장 건강, 혈관만 볼 게 아냐…가슴·등 근육 '질' 좋을수록 심장마비 위험 낮아&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41c3hLVGd0SkJ4VDYxSWV5UkxLUkp4WGRUYVBjOXptMjV5SmpXNVYyd0VFUkptcGNKN3dKa3Vwa29PS2tpT25MNWpnMndVUXQzVnc0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "37e92e0392d9",
       "title": "생명체 살 수 있는 '슈퍼지구' 발견...지구 25광년 거리 [우주로 간다] - 지디넷코리아",
       "published": "2026-07-04T00:18:47+00:00",
@@ -198,18 +258,6 @@
       ]
     },
     {
-      "id": "8e5bcf04a791",
-      "title": "WHO, 크루즈선 집단감염 '한타바이러스' 사태 종식 선언 [KDF World] - 한국면세뉴스",
-      "published": "2026-07-03T22:31:01+00:00",
-      "summary": "WHO, 크루즈선 집단감염 '한타바이러스' 사태 종식 선언 [KDF World]&nbsp;&nbsp;한국면세뉴스WHO, 크루즈선발 한타바이러스 집단감염 종료 선언&nbsp;&nbsp;v.daum.netWHO \"한타바이러스 집단감염 종료…5월25일 이후 확진 없어\"&nbsp;&nbsp;뉴시스한타바이러스 공포 막 내렸다&nbsp;&nbsp;캐나다 한국일보호화 유람선에서 위험한 집단 감염 발생, 3명 사망.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "한국면세뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDeW1zWWViaGsxenRZOW9PbjEwdlhsYTZtdFFFVDR6YXcwcGp0M1Y1MGo3cjc5VnJSOWIwaXN5endyYTl0N0d0anUtR2puMUZtSzJVOUp1dGlIeUtLOFhlNVl5akx2UW5wSkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4efc66f55847",
       "title": "\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지 - 네이트",
       "published": "2026-07-03T09:15:00+00:00",
@@ -218,18 +266,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6a01MTkM5ajhLcTVFaU1ueHVQNFEzTHVibUl0b2xOUFNpNnZBQTJjczlRZHR5SjNjWXd3am02SFVkbFllenlnSEF6SzBjbi1ET0FN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a3f5fab0cf6",
-      "title": "“30분 넘게 계속 앉아 있으면 암 사망 위험 높아질 수도” - 매일경제",
-      "published": "2026-07-03T01:10:27+00:00",
-      "summary": "“30분 넘게 계속 앉아 있으면 암 사망 위험 높아질 수도”&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54anZlVnAzb29vcDdfZmtlNnUyLVhzaTRQM3NyWEhNaDVDN0VhNnlQN0NPSEptVUtJdDRvWFd3ZG8xWFk5QV9sT3ZjVlJOd1dCblE?oc=5"
         }
       ]
     }
