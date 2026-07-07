@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-07T14:42:38.574600+00:00",
-  "total_count": 38,
+  "last_updated": "2026-07-07T19:59:36.258047+00:00",
+  "total_count": 36,
   "matched_count": 0,
   "news": [
+    {
+      "id": "65c6abb98e71",
+      "title": "\"깊이 자면 몸에서 무슨 일이?\"…근육 만들고 지방 태우는 뇌 회로 찾았다",
+      "published": "2026-07-07T14:04:00+00:00",
+      "summary": "\"깊이 자면 몸에서 무슨 일이?\"…근육 만들고 지방 태우는 뇌 회로 찾았다&nbsp;&nbsp;네이트\"잠 안 자면 치매 걸린다고?\"…뇌신경전문의가 밝힌 진짜 뇌 건강법&nbsp;&nbsp;v.daum.net\"자도 자도 피곤한 이유 있었다\"…충격적인 뇌의 신호&nbsp;&nbsp;한국경제\"뇌는 잠잘 때 노폐물 제거…깊은 수면이 치매 예방의 시작\"&nbsp;&nbsp;뉴시스잠 못 자면 뇌에 노폐물 쌓인다…수면장애 환자 5년 새 37% 급증&nbsp;&nbsp;데일리25",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kMjhVd2pqamVBWm9renBPMTAyd3Y3UGZVRUxqNzVKRmdBWDBtRjZXVEVPMHAyXzF3T0VXcmNkVUFiQWZ0Q21fN1V4aGNsdjdfR3hz?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a74bd1dcff6c",
       "title": "요산 수치 높은 사람이 신장을 보호하는 데 도움이 되는 습관",
@@ -43,14 +56,14 @@
       "matched_keywords": []
     },
     {
-      "id": "3f9ef82fd51f",
-      "title": "장기기억 형성 원리 규명...'별세포'가 핵심 역할",
-      "published": "2026-07-07T09:00:00+00:00",
-      "summary": "장기기억 형성 원리 규명...'별세포'가 핵심 역할&nbsp;&nbsp;YTN장기 기억 유지 핵심 뇌세포 최초 규명&nbsp;&nbsp;v.daum.netIBS, 뇌 속 '별세포'에서 기억을 오래 유지하는 열쇠 찾았다&nbsp;&nbsp;전자신문공부한 것 오래 기억하고 시험 잘 보는 비결 ‘이거’네&nbsp;&nbsp;서울신문\"치매 치료 앞당기나\" 뇌 속 '별세포'의 반전…'오래가는 기억' 비밀 찾았다 [과학을읽다]&nbsp;&nbsp;아시아경제",
+      "id": "0c816f1d3abc",
+      "title": "\"가짜 달걀, 암 발병\"…'中 전란액 공포' 어디까지 사실일까[노컷체크]",
+      "published": "2026-07-07T09:03:00+00:00",
+      "summary": "\"가짜 달걀, 암 발병\"…'中 전란액 공포' 어디까지 사실일까[노컷체크]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uUnJEMVhsOXlHRWI0YnBvbXFzdXVFclV0OENOZXItd3Q3ZG5DcENnX2ptMzYwbF9tRU9pckpzVTJZM2dyR0hxbGlWaXhHZnFFTWRzTGxXd3ltQUJ2REE?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GLVlJc3ZVcUdraU9uTGJ0TmxCVERxSkFDZlRHWGlLZHRiZTE3RGlSN0dSXzZxWTd4NnYwOXluV2piN1VzakVqWTY0a0FPN0E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,19 +134,6 @@
       "matched_keywords": []
     },
     {
-      "id": "5b555ab6e43f",
-      "title": "[에세이] 잘 자요, 그래야 내일의 당신이 덜 아프니까",
-      "published": "2026-07-07T05:26:13+00:00",
-      "summary": "[에세이] 잘 자요, 그래야 내일의 당신이 덜 아프니까&nbsp;&nbsp;톱클래스\"깊이 자면 몸에서 무슨 일이?\"…근육 만들고 지방 태우는 뇌 회로 찾았다&nbsp;&nbsp;네이트\"잠 안 자면 치매 걸린다고?\"…뇌신경전문의가 밝힌 진짜 뇌 건강법&nbsp;&nbsp;v.daum.net\"자도 자도 피곤한 이유 있었다\"…충격적인 뇌의 신호&nbsp;&nbsp;한국경제\"뇌는 잠잘 때 노폐물 제거…깊은 수면이 치매 예방의 시작\"&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "톱클래스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YV05iVXFQcURMdFNxU2kzeU1iOFRSSzR5SnBja1lkaUZGYjBNNXZobmVYVTFGdmJmZW5jZUdyNWhUcTQxVG9WLTVmbXRVbDFjc3FlSE5peHRTY2lneGZydzFvQU1FNDN5R1BDMXBB0gFwQVVfeXFMUEJ2T0JlWE1nWnZsaDFKVUkxb0tVT19qUFozX3RQOTZmY2pxZG1rV0RLOUpVUjVWQU4wdDE1U1RjTWJJQkt3RnlpUFplZlBPZHhWZVBMU2xQWXRJNC1Gb1h4YnJtbk9sUEZmNTMzZ3ZxNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "71f19699c1ef",
       "title": "\"세계 표준 검사인데\"…현재 콜레스테롤 검사 덜 효과적, 왜?",
       "published": "2026-07-07T04:15:00+00:00",
@@ -163,7 +163,7 @@
       "id": "9e0b1dee65b2",
       "title": "“﻿대장암 수술 위치, 이상지질혈증 발생 위험 차이”",
       "published": "2026-07-07T03:56:06+00:00",
-      "summary": "“﻿대장암 수술 위치, 이상지질혈증 발생 위험 차이”&nbsp;&nbsp;데일리메디국제성모병원 이재임 교수팀, 대장암 수술 위치와 이상지질혈증 위험 연관성 확인&nbsp;&nbsp;로이슈대장암 수술 위치의 의미…이상지질혈증 위험도 달랐다&nbsp;&nbsp;메디파나뉴스대장암 수술 위치 따른 이상지질혈증 위험 차이 규명&nbsp;&nbsp;메디칼업저버대장암 절제 위치 따라 수술 후 이상지질혈증 위험 달라&nbsp;&nbsp;e-의료정보",
+      "summary": "“﻿대장암 수술 위치, 이상지질혈증 발생 위험 차이”&nbsp;&nbsp;데일리메디국제성모병원 이재임 교수팀, 대장암 수술 위치와 이상지질혈증 위험 연관성 확인&nbsp;&nbsp;로이슈대장암 수술 위치 따른 이상지질혈증 위험 차이 규명&nbsp;&nbsp;메디칼업저버대장암 절제 위치 따라 수술 후 이상지질혈증 위험 달라&nbsp;&nbsp;e-의료정보\"대장암 수술 위치 따라 이상지질혈증 위험 달라진다\"&nbsp;&nbsp;의학신문",
       "sources": [
         {
           "name": "데일리메디",
@@ -215,7 +215,7 @@
       "id": "37b626cf9eda",
       "title": "자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지",
       "published": "2026-07-07T02:00:00+00:00",
-      "summary": "자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지&nbsp;&nbsp;하이닥“만성염증 삭제 음식”… 영양사가 추천한 세 가지, 뭘까?&nbsp;&nbsp;헬스조선몸속 염증을 줄이는 음식, 건강은 매일의 식탁에서 시작된다&nbsp;&nbsp;한국AI부동산신문치매 위험 30%나 '껑충'…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;네이트“몸에 염증 키운다”… 누구든 조심해야 할 ‘위험한 습관’ 3가지&nbsp;&nbsp;헬스조선",
+      "summary": "자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지&nbsp;&nbsp;하이닥“염증 수치 오른다”… 여름에 최악이라는 ‘아침 식습관’&nbsp;&nbsp;헬스조선몸속 염증을 줄이는 음식, 건강은 매일의 식탁에서 시작된다&nbsp;&nbsp;한국AI부동산신문치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제신문“지각할 판인데 아침식사는 무슨”…아아로 떼우다간 ‘이 병’ 직행한다&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "하이닥",
@@ -225,23 +225,10 @@
       "matched_keywords": []
     },
     {
-      "id": "ac3e908387e2",
-      "title": "당뇨 환자라면 얼굴보다 더 자주 살펴야 하는 곳, 발",
-      "published": "2026-07-07T01:03:10+00:00",
-      "summary": "당뇨 환자라면 얼굴보다 더 자주 살펴야 하는 곳, 발&nbsp;&nbsp;e-의료정보\"발끝에 찾아오는 소리 없는 괴사\"…당뇨 환자 4명 중 1명의 불청객 '당뇨발'&nbsp;&nbsp;바이오타임즈‘이 병’ 있는 사람, 손도 조심해야… 외상 입었다가 심각한 괴사까지&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "e-의료정보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DVFhJeVBDRDlwNUxMUEY0Ni1aaUZNb2F4eThhbC1rTHV6V3hfLXFzNk1jUzAtQU5XYTdfVEFXZ1hnWFB2eGtyZk1CN3hNcTBzU1NGaVBVNWEtSEZ2NWI5cFVUU1pCSlBrcDc40gFvQVVfeXFMT0taOEdPMUQyX2QzN3NhYTBGaVhaa2JZVHVkOFpfNWdZdXNSWXg3WVRWNkhqV0JjUmhhTFBLOHI0TElxYmtNaVNEMHFzMVBVWWpHcTItN3hJODZQQnpNOFFMYm1ENHF6ZE5QTFppTUh3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c25c828c921e",
       "title": "[건강포커스] \"잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어\"",
       "published": "2026-07-07T00:24:47+00:00",
-      "summary": "[건강포커스] \"잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어\"&nbsp;&nbsp;파이낸셜뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "[건강포커스] \"잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어\"&nbsp;&nbsp;파이낸셜뉴스취침 늦추고 80분 덜 잤더니…\"살 찌고 허리둘레 늘어\"&nbsp;&nbsp;news.sbs.co.kr＂잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어＂&nbsp;&nbsp;울산종합일보야금야금 살 찌더니…원인은 식단보다 '수면'&nbsp;&nbsp;아시아경제\"다이어트도, 야근도 안 했는데\"…살 찐 이유, 따로 있었다&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "파이낸셜뉴스",
@@ -381,19 +368,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d8e612889b41",
-      "title": "젊은 암환자 증가 배경엔 생물학적 노화 가속",
-      "published": "2026-07-06T05:34:20+00:00",
-      "summary": "젊은 암환자 증가 배경엔 생물학적 노화 가속&nbsp;&nbsp;메디칼트리뷴Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "메디칼트리뷴",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DSDRvcXpZeTl1aFc5VkdxTGZjaTZoTjBfem5DUFozRVdVZklQelRfQml2MkdwYXVyU3Fham9PakZ0MUNWT0gyMllkXzRCMUNQUnFQNm1pWHp2R1lUTXVKai1xODlITE9YR1ktbW9oWmVGLTBmV1HSAXpBVV95cUxPeFBMWXIxSzJIaHJHb2pBcjNBMU0xeDBZUmtGcHV4UDNHcEZFeVdKWWNzX3d6NWhLcWVSZHFpVVdHUDVfYkJaaUo0cllGUS00X3N0TTBwTW5sTzZiODdtS2dPdHJPaHh6RE1DMlJYOVdfTDhab0paRXRRdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f79f98a2d0f6",
       "title": "中 브리바이오, B형간염 2b상서 순차 병용 효과 확인…임상3상 진입 ‘청신호’",
       "published": "2026-07-06T05:10:20+00:00",
@@ -410,7 +384,7 @@
       "id": "3707a39caa17",
       "title": "부모님 기억력 걱정될 때, ‘건망증’과 ‘치매’ 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트]",
       "published": "2026-07-06T05:09:18+00:00",
-      "summary": "부모님 기억력 걱정될 때, ‘건망증’과 ‘치매’ 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트]&nbsp;&nbsp;쿠키메디치매인 줄 알았는데 아니었다…‘이 걸음’ 나타난 60대 놓친 병&nbsp;&nbsp;미주중앙일보갑자기 달고 기름진 음식, 탄수화물 당긴다면…'이것' 초기 신호일 수도?&nbsp;&nbsp;네이트“기억력 소실, 치매 전조 증상일 수도”… 건망증과 차이점은 무엇 (‘대단한 도전’)&nbsp;&nbsp;tvreport.co.kr",
+      "summary": "부모님 기억력 걱정될 때, ‘건망증’과 ‘치매’ 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트]&nbsp;&nbsp;쿠키메디부모님 기억력 걱정될 때 건망증·치매 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트]&nbsp;&nbsp;쿠키뉴스치매인 줄 알았는데 아니었다…‘이 걸음’ 나타난 60대 놓친 병&nbsp;&nbsp;미주중앙일보갑자기 달고 기름진 음식, 탄수화물 당긴다면…'이것' 초기 신호일 수도?&nbsp;&nbsp;네이트“기억력 소실, 치매 전조 증상일 수도”… 건망증과 차이점은 무엇 (‘대단한 도전’)&nbsp;&nbsp;tvreport.co.kr",
       "sources": [
         {
           "name": "쿠키메디",
