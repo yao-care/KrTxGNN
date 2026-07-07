@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-07T09:47:31.217537+00:00",
-  "total_fetched": 66,
-  "unique_count": 66,
-  "health_related_count": 37,
+  "fetched_at": "2026-07-07T14:42:38.457802+00:00",
+  "total_fetched": 70,
+  "unique_count": 70,
+  "health_related_count": 38,
   "news": [
+    {
+      "id": "a74bd1dcff6c",
+      "title": "요산 수치 높은 사람이 신장을 보호하는 데 도움이 되는 습관 - Laodong.vn",
+      "published": "2026-07-07T10:30:00+00:00",
+      "summary": "요산 수치 높은 사람이 신장을 보호하는 데 도움이 되는 습관&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeDFuWEdLbDN6d19tekx3NDBsZmNoNGljMnNHSmVpbU5vY2pZcUVLaXJod0VuTmxKTnJjSnNrX1RoR2JkNmRycElNRHhGTDZoQkp3Z3NEcmFGalpraWxuZTRnczJOMFBqdTBhU2VURFdhN2FLVU1mbXFpUzJhUGl3aWxXSFF4bjU2ZklvODVOeUhMOHc?oc=5"
+        }
+      ]
+    },
     {
       "id": "50ad8c0093a5",
       "title": "나이 들어도 골프채 놓지 않아야...“日 노인, 구력 길수록 인지저하 위험 낮아” - 디멘시아뉴스",
@@ -18,26 +30,26 @@
       ]
     },
     {
-      "id": "fe034613a50a",
-      "title": "“혈당 높으면 뇌 더 빨리 늙는다”… 치매·뇌졸중 위험까지 증가 - 하이닥",
-      "published": "2026-07-07T09:00:00+00:00",
-      "summary": "“혈당 높으면 뇌 더 빨리 늙는다”… 치매·뇌졸중 위험까지 증가&nbsp;&nbsp;하이닥고혈당이 ‘뇌 노화’ 앞당긴다… 연구 결과 보니&nbsp;&nbsp;헬스조선당뇨만 문제 아냐…혈당 높을수록 뇌 빨리 늙는다&nbsp;&nbsp;네이트당 수치 높으면 뇌가 더 늙는다...대규모 분석이 보여준 신호&nbsp;&nbsp;알파경제경고: 혈당 수치가 높으면 뇌 노화가 가속화될 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "b81f98c323aa",
+      "title": "“알츠하이머 위험 신호 있어도 효과”…치매 위험 낮춘 ‘이 식단’ - 동아일보",
+      "published": "2026-07-07T09:07:36+00:00",
+      "summary": "“알츠하이머 위험 신호 있어도 효과”…치매 위험 낮춘 ‘이 식단’&nbsp;&nbsp;동아일보\"알츠하이머 위험 신호 있어도 효과\"…치매 위험 낮춘 '이 식단'&nbsp;&nbsp;뉴시스“비싼 영양제 절대 효과없다” 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;중앙일보“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선잎채소나 생선 풍부한 '항염증성 식단', 치매 위험 유의미하게 낮춰&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PSmhScHFZNFd4M1pkb3MxRzc1ejk4V3AwT1pNdDBZQ3I2T3NockFrbUZ2N2trTTMycUF6Qk1UM2xDZXRnUzNLU2lZcHVETU94MldjMzRtZkFaZmdKTTZPSzU5ZEVWZ2E2YkE?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FbGhMSlJyRXh0U3Z0cHQycUdKN29CTmN5NTFKYVJVaXpaRjhwc0xVT0VManN6NGJVUjlpUlVNekI0c1RnTW5GQWJzN3E5MGVCTVZ0b3c2cTZrMWF3UG1zbzNRdUxUNklMbzlMQlJfQzlYSDdlQ3fSAWZBVV95cUxOWUtUYlhta0c0MHVrS1J3WTl1YzJGamtiWm9uMzN4c05fZXZfRDFGYVFCYzFqclpwNUE2dkZXcVd0VG55cWs2bUlXMWFzZlVfZXlXODhvNGJiYTlTNXEwS2RScEsxM2c?oc=5"
         }
       ]
     },
     {
-      "id": "e557d84c17c5",
-      "title": "“내 위가 스스로를 먹는 병, 약도 없다”…17살 아들 피 수혈한 억만장자 상태 - 한겨레",
-      "published": "2026-07-07T08:50:00+00:00",
-      "summary": "“내 위가 스스로를 먹는 병, 약도 없다”…17살 아들 피 수혈한 억만장자 상태&nbsp;&nbsp;한겨레\"늙기 싫어\" 年 30억 투자하던 美 자산가…\"완치 불가 자가면역질환 걸렸다\"&nbsp;&nbsp;뉴시스\"늙기 싫어\" 아들 피까지 받으며 28억 쏟았는데…완치법 없는 병 걸렸다&nbsp;&nbsp;v.daum.net건강 위해 수십 억 썼는데도… 브라이언 존슨, 완치 없는 ‘이 병’ 진단&nbsp;&nbsp;헬스조선매년 30억 쓰며 노화 막던 억만장자, 완치법 없는 자가면역질환 진단 [노화설계]&nbsp;&nbsp;동아일보",
+      "id": "3f9ef82fd51f",
+      "title": "장기기억 형성 원리 규명...'별세포'가 핵심 역할 - YTN",
+      "published": "2026-07-07T09:00:00+00:00",
+      "summary": "장기기억 형성 원리 규명...'별세포'가 핵심 역할&nbsp;&nbsp;YTN장기 기억 유지 핵심 뇌세포 최초 규명&nbsp;&nbsp;v.daum.netIBS, 뇌 속 '별세포'에서 기억을 오래 유지하는 열쇠 찾았다&nbsp;&nbsp;전자신문공부한 것 오래 기억하고 시험 잘 보는 비결 ‘이거’네&nbsp;&nbsp;서울신문\"치매 치료 앞당기나\" 뇌 속 '별세포'의 반전…'오래가는 기억' 비밀 찾았다 [과학을읽다]&nbsp;&nbsp;아시아경제",
       "sources": [
         {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTFvaFljU04yZ3VQVkZRdDladDZQY1dQWjUzNFFnVGNZLWJzcTcybjRIdFdkbW05U2E0LUpEVUhhU2FrX1RNRGl1ekZtdGhERVpqNHRKWm5JaTd2WkhpV0hHUENOU0VEaXdjVHZvTTJta3JqdHNZYjNDaURGSlJ2SEpB?oc=5"
+          "name": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uUnJEMVhsOXlHRWI0YnBvbXFzdXVFclV0OENOZXItd3Q3ZG5DcENnX2ptMzYwbF9tRU9pckpzVTJZM2dyR0hxbGlWaXhHZnFFTWRzTGxXd3ltQUJ2REE?oc=5"
         }
       ]
     },
@@ -45,7 +57,7 @@
       "id": "6136cd3de02b",
       "title": "대상포진 후 신경통 - 전북도민일보",
       "published": "2026-07-07T08:34:31+00:00",
-      "summary": "대상포진 후 신경통&nbsp;&nbsp;전북도민일보RSV와 대상포진은 만성 호흡기 질환 환자의 합병증 위험을 증가시킵니다.&nbsp;&nbsp;Vietnam.vn[의학상식] 대상포진, 피부질환 넘어선 '신경계 감염' 주의… 조기 치료와 예방접종이 합병증 막는 열쇠&nbsp;&nbsp;복지투데이[한국인의 100가지 질환-55] 대상포진, 피부병으로만 알았다가 후회할 수 있다&nbsp;&nbsp;뉴스인대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심&nbsp;&nbsp;스포츠경향",
+      "summary": "대상포진 후 신경통&nbsp;&nbsp;전북도민일보계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn[의학상식] 대상포진, 피부질환 넘어선 '신경계 감염' 주의… 조기 치료와 예방접종이 합병증 막는 열쇠&nbsp;&nbsp;복지투데이[한국인의 100가지 질환-55] 대상포진, 피부병으로만 알았다가 후회할 수 있다&nbsp;&nbsp;뉴스인대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심&nbsp;&nbsp;스포츠경향",
       "sources": [
         {
           "name": "전북도민일보",
@@ -57,7 +69,7 @@
       "id": "fbb5e3695ca0",
       "title": "일양약품, 성장기 칼슘 멀티비타민 젤리 출시 - 팜뉴스",
       "published": "2026-07-07T07:49:10+00:00",
-      "summary": "일양약품, 성장기 칼슘 멀티비타민 젤리 출시&nbsp;&nbsp;팜뉴스일양약품, ‘팝핑 프리미엄비타C’ 출시&nbsp;&nbsp;메드월드뉴스일양약품, 3종 멀티비타민 '팝핑 프리미엄비타C' 출시&nbsp;&nbsp;메디파나뉴스여름 활력 한 포로 간편하게…일양약품, '팝핑 프리미엄비타C' 선보여&nbsp;&nbsp;이코노미사이언스일양약품, 톡톡 터지는 식감 더한 멀티비타민 ‘팝핑 프리미엄비타C’ 출시&nbsp;&nbsp;PRESS9",
+      "summary": "일양약품, 성장기 칼슘 멀티비타민 젤리 출시&nbsp;&nbsp;팜뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "팜뉴스",
@@ -90,14 +102,38 @@
       ]
     },
     {
-      "id": "7afb3dddbe23",
-      "title": "\"세계 표준 검사인데\"...현재 콜레스테롤 검사 덜 효과적, 왜? - 코메디닷컴",
-      "published": "2026-07-07T04:14:00+00:00",
-      "summary": "\"세계 표준 검사인데\"...현재 콜레스테롤 검사 덜 효과적, 왜?&nbsp;&nbsp;코메디닷컴\"세계 표준 검사인데\"…현재 콜레스테롤 검사 덜 효과적, 왜?&nbsp;&nbsp;네이트콜레스테롤 수치, 정상이면 괜찮을까요?: 숫자가 아닌 위험도로 읽는 법&nbsp;&nbsp;메디칼업저버‘나쁜’ LDL 콜레스테롤 수치, 심근경색·뇌졸중 겪으면 70 미만으로 낮춰야&nbsp;&nbsp;뉴스에이",
+      "id": "88e3f6316d43",
+      "title": "[내 보험 바로알기]다양해진 뇌·심장질환 치료, 주요 치료비는 어떻게 보장할까 - 영남경제",
+      "published": "2026-07-07T05:28:06+00:00",
+      "summary": "[내 보험 바로알기]다양해진 뇌·심장질환 치료, 주요 치료비는 어떻게 보장할까&nbsp;&nbsp;영남경제",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5rYXJ6NlJGMUxVQVhKM0dKRWhrUWo4eUNIR1F1enZuMUNMTmRVbnA4SGlJbHB5TGw3M1BIeVJZeW1Hdw?oc=5"
+          "name": "영남경제",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jVDZBeWxzd2tSVDNRZF9QbXhRN1RMQlhyeVhFdURrVWl4VEt1Yzlwa1ZUeDAteUNod2JHSC1ONFFkWEVIbmJSaXBGSmdDN3QzU2NHOGZXZm5ra2swRk9tRENyclM1V0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5b555ab6e43f",
+      "title": "[에세이] 잘 자요, 그래야 내일의 당신이 덜 아프니까 - 톱클래스",
+      "published": "2026-07-07T05:26:13+00:00",
+      "summary": "[에세이] 잘 자요, 그래야 내일의 당신이 덜 아프니까&nbsp;&nbsp;톱클래스\"깊이 자면 몸에서 무슨 일이?\"…근육 만들고 지방 태우는 뇌 회로 찾았다&nbsp;&nbsp;네이트\"잠 안 자면 치매 걸린다고?\"…뇌신경전문의가 밝힌 진짜 뇌 건강법&nbsp;&nbsp;v.daum.net\"자도 자도 피곤한 이유 있었다\"…충격적인 뇌의 신호&nbsp;&nbsp;한국경제\"뇌는 잠잘 때 노폐물 제거…깊은 수면이 치매 예방의 시작\"&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "톱클래스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YV05iVXFQcURMdFNxU2kzeU1iOFRSSzR5SnBja1lkaUZGYjBNNXZobmVYVTFGdmJmZW5jZUdyNWhUcTQxVG9WLTVmbXRVbDFjc3FlSE5peHRTY2lneGZydzFvQU1FNDN5R1BDMXBB0gFwQVVfeXFMUEJ2T0JlWE1nWnZsaDFKVUkxb0tVT19qUFozX3RQOTZmY2pxZG1rV0RLOUpVUjVWQU4wdDE1U1RjTWJJQkt3RnlpUFplZlBPZHhWZVBMU2xQWXRJNC1Gb1h4YnJtbk9sUEZmNTMzZ3ZxNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71f19699c1ef",
+      "title": "\"세계 표준 검사인데\"…현재 콜레스테롤 검사 덜 효과적, 왜? - 네이트",
+      "published": "2026-07-07T04:15:00+00:00",
+      "summary": "\"세계 표준 검사인데\"…현재 콜레스테롤 검사 덜 효과적, 왜?&nbsp;&nbsp;네이트콜레스테롤 수치, 정상이면 괜찮을까요?: 숫자가 아닌 위험도로 읽는 법&nbsp;&nbsp;메디칼업저버‘나쁜’ LDL 콜레스테롤 수치, 심근경색·뇌졸중 겪으면 70 미만으로 낮춰야&nbsp;&nbsp;뉴스에이",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GRWZ3UlNpbFRKZGNDNGNqV2x3NWYza05EVkJMb2RtNmJTTEE2U0MwQmdsX24tbHJlQlV5ZXNyVC1DQWJnZzZKMF9Wek90VG1aZzROSGVzVFRuYTA3SV9vMA?oc=5"
         }
       ]
     },
@@ -186,14 +222,14 @@
       ]
     },
     {
-      "id": "f9e73f4ca7e4",
-      "title": "[건강포커스] \"잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어\" - 연합뉴스",
-      "published": "2026-07-07T00:24:01+00:00",
-      "summary": "[건강포커스] \"잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어\"&nbsp;&nbsp;연합뉴스취침 늦추고 80분 덜 잤더니…\"살 찌고 허리둘레 늘어\"&nbsp;&nbsp;news.sbs.co.kr＂잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어＂&nbsp;&nbsp;울산종합일보야금야금 살 찌더니…원인은 식단보다 '수면'&nbsp;&nbsp;아시아경제\"다이어트도, 야근도 안 했는데\"…살 찐 이유, 따로 있었다&nbsp;&nbsp;네이트",
+      "id": "c25c828c921e",
+      "title": "[건강포커스] \"잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어\" - 파이낸셜뉴스",
+      "published": "2026-07-07T00:24:47+00:00",
+      "summary": "[건강포커스] \"잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어\"&nbsp;&nbsp;파이낸셜뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jTk8wSXNKc3ZZaHRiZXhOWl85eFROYWRPTFZLUGQzNmM5ajc5VnFfOUpuTEtuN3E0WlpMMTNEclBHaHhFLVNoM3hvaTdaNTRJSHJOdTRlZDNhUEXSAWBBVV95cUxQOGUzWEwzS2dJdzg1UF9BN0NYQmh6c1pzdlpTNEM1NUxHUDl4ZGRZbl9DQndtQlFOcVk0OC0ySWZSbVpkbGhkWWNxSWo5SjV0Q1pWd0RRUk93eFBiMlpESGs?oc=5"
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKTXNCS1EwVU9QQVhxSmlIOUFQYWhZeHNiS2N2UVhGVThQZGxsOWo3em9fZXp4a0pnRDg2LXRuTnd4RXRfbDNYOHVXMFlLRk1CSENZRGJLVGtEOWtGR2dlS0lJYXRNQQ?oc=5"
         }
       ]
     },
@@ -206,18 +242,6 @@
         {
           "name": "뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkNmVxQkZaMndOeGlrTnppZlJiY2RITm9ST2lueW94RXQ5Y3ZUWHNQSW9lN3N4dTVkMnkxQXl0NFhDQ05TSktnN0RrQU02WXZqZEJ0c0laV05mbVZlSXhxVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2e8a742f3f3",
-      "title": "욱신욱신 초중기 관절염, 재생의학 치료술 ‘PRP’ 주목 - 부산일보",
-      "published": "2026-07-06T22:00:00+00:00",
-      "summary": "욱신욱신 초중기 관절염, 재생의학 치료술 ‘PRP’ 주목&nbsp;&nbsp;부산일보잠 못 자면 뼈도 늙는다… 무릎 관절염 위험 증가&nbsp;&nbsp;헬스조선“나이 들면 당연하다? 참으면 더 악화됩니다”… 약사가 말하는 관절 통증 예방법&nbsp;&nbsp;하이닥인공관절 수술은 최대한 미뤄라? 수술 결과 좌우하는 골든타임&nbsp;&nbsp;주간시사매거진무릎 인대·연골 손상, 방치하면 '퇴행성 관절염' 지름길&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01Z3RpY25qMWVlS2E2TEtQbnM1dndJcjBVSXNaZG03d1dwWERGQm9BVFZMLUFOSVpVa1ZwNV9RSm10dF84MEVXWmVCMi01XzNiT3NSN0U2ZmlQY1ZVdWtxZW5IZFY5OVNyRGdWWnZZRGhpMVNw?oc=5"
         }
       ]
     },
@@ -237,11 +261,23 @@
       "id": "602fdfdf9dbb",
       "title": "뇌졸중 땐 심장까지 연쇄 타격 - 마음건강 길",
       "published": "2026-07-06T20:20:00+00:00",
-      "summary": "뇌졸중 땐 심장까지 연쇄 타격&nbsp;&nbsp;마음건강 길[김길원의 헬스노트] 뇌졸중 땐 심장까지 연쇄 타격…\"심부전 위험 69% 높아\"&nbsp;&nbsp;연합뉴스뇌졸중 생존자, 심부전 위험 69% 높다... 중증 장애면 일반인의 2.22배&nbsp;&nbsp;하이닥뇌졸중 생존자, 심부전 위험 69% 증가&nbsp;&nbsp;미디어시시비비뇌졸중 후 끝난 게 아니다…심부전 위험 69% 증가, ‘뇌-심장 증후군’ 경고&nbsp;&nbsp;진주인터넷뉴스",
+      "summary": "뇌졸중 땐 심장까지 연쇄 타격&nbsp;&nbsp;마음건강 길[김길원의 헬스노트] 뇌졸중 땐 심장까지 연쇄 타격…\"심부전 위험 69% 높아\"&nbsp;&nbsp;연합뉴스뇌졸중 생존자, 심부전 위험 69% 높다... 중증 장애면 일반인의 2.22배&nbsp;&nbsp;하이닥뇌졸중 후 끝난 게 아니다…심부전 위험 69% 증가, ‘뇌-심장 증후군’ 경고&nbsp;&nbsp;진주인터넷뉴스",
       "sources": [
         {
           "name": "마음건강 길",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EOFBRdHRmcS1wcXk0cHFmU2FIazdSMDJLRGw4and1VU1GLU80ckFPbDV6M3lHZnBEZWU4UVBPc3pJbk0tcHBzZFNGbHlNRjBmRDJ1UFc2a3RUUXRiVXdMZHltdGFQN2xZTWfSAW5BVV95cUxOVGVsVHp2cl9SbldkVi1Xb0xrUF90dHowVXp2NnlqR3JQYncwMjdFZWZxNTFvVWIzUzRLT2ExU25MMFJWSUVreHRCZ3FCaVYxd1NPQi1GOFhWbm9GWnJrSFR3SmxvUHdZeEdPc0VqZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29fe1088aff4",
+      "title": "\"40대는 안심?\"…조기 대장암 증가에 자가검사 관심 높아져 - 위클리코리아",
+      "published": "2026-07-06T16:18:04+00:00",
+      "summary": "\"40대는 안심?\"…조기 대장암 증가에 자가검사 관심 높아져&nbsp;&nbsp;위클리코리아점점 더 많은 젊은이들이 대장암에 걸리고 있습니다.&nbsp;&nbsp;Vietnam.vn韓 20~49세 대장암 발병률 42개국 중 최고…젊어도 검진 필요&nbsp;&nbsp;thepowernews.co.kr대장암, 젊다고 안심은 금물…소화기 질환·치질로 오인&nbsp;&nbsp;sportschosun.com",
+      "sources": [
+        {
+          "name": "위클리코리아",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNZ01EZUZZUEVHNDFDM1Z2dW5qOXlfUm9fZmJGQ2xXM19Rb1oxTkJmUnoxMGlKSVE2Q1JLZkh4Zm5iUVBvMGJDaHhlZWlQQUgzY3dRVGlfbkNKZmdTSm5MVFhwMy1MbFFnaDc1cEVHa3JBaGhSQURaRHJjbGdPdXpFVmk0UzJMbjlTckgyT1VoM2xCeFRwaW9TMlVmVElKWWRITE5mZUtRR2Vhbi1pVkZidnpOUTEzVXlJSjhhVU1TbE04bloyUG5BekI2TEpzeTZ5dndNYkQxVEhtZU84MklwVDBCVVZDR2xUd2lBZFhfSXdBSkhqRmxtUDl2SnNGdS1DUk51eDJXTkNQMWVtMEFLbFRIblVOS1JOR19aQ2pfLTZuaEEteEJPUzNWbkhidWZBWHl4cExEZGFzS3pUMmxhb09wTlRUS3JXQlNEcHlpOVEtNzg?oc=5"
         }
       ]
     },
@@ -258,14 +294,14 @@
       ]
     },
     {
-      "id": "4f7b9d53f778",
-      "title": "대한당뇨병학회, KBS '생로병사의 비밀'서 중증 당뇨병 관리 중요성 조명 - 헬스경향",
-      "published": "2026-07-06T11:54:45+00:00",
-      "summary": "대한당뇨병학회, KBS '생로병사의 비밀'서 중증 당뇨병 관리 중요성 조명&nbsp;&nbsp;헬스경향알츠하이머병은 왜 ‘제3형 당뇨병’이라 불릴까&nbsp;&nbsp;조선일보\"아직 당뇨 아니니까 괜찮다\"…방심 유발하는 '당뇨 전단계'의 함정&nbsp;&nbsp;뉴시스고혈압·고혈당·고지혈 ‘3高’의 경고… 젊다고 안 봐준다&nbsp;&nbsp;국민일보젊으니까 괜찮다고? 혈압·혈당·콜레스테롤 동시에 올랐다면[헬시타임]&nbsp;&nbsp;서울경제신문",
+      "id": "96ef754665ca",
+      "title": "[의학칼럼] 침묵의 침입자 폐렴구균, '백신'이라는 방패로 막아내야 - 중도일보",
+      "published": "2026-07-06T14:13:40+00:00",
+      "summary": "[의학칼럼] 침묵의 침입자 폐렴구균, '백신'이라는 방패로 막아내야&nbsp;&nbsp;중도일보",
       "sources": [
         {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Q1FIUHk5T2JhcWRQcUNoRm5kLWlOajQwaVhTekJOXzZWYi1ELWNSQ0ZhQWc2WkNtUWNqR2ROOXVGZi1Ba1RXRnFaSjg2R05LSnpkVFVMekJIbU45Unh6b2t1a18?oc=5"
+          "name": "중도일보",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qT0s4dzBnVnZhaVEtb3VDN0FsdjBmVUp4cGR1OGhCZU1PN3oyYUpHa0RkT3FFaFZLMHkxX2o0Um0zTnBqZlhIeHNRNjY1b28zUzU4VjJrNkQxN3BoQTUwblVnSEc?oc=5"
         }
       ]
     },
@@ -278,6 +314,18 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPengtbkU4UlJiOWcwV1BMN1lRWXc1NVozdnp2TXk4TEN5SU9fQ1AtNTFsakFmVGxjOElteU5lbndaOXZJaGY4TTR6LUhvMXQya1BrbWpBd213UE1XNG9RSHZKTVZVWW52NV8xdTJUc05fY0huWEdVa2JudW54aFRiUlpEVDluclE1TzVXbWpnYkdlOXZ5cTkyRnFXWVB5elktZl9DZDhTTmN5TTBtZUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85785fb6ed1c",
+      "title": "반복되는 어지럼증, 뇌졸중 신호일 수도…\"정확한 감별 필요\" - 서울경제TV",
+      "published": "2026-07-06T09:19:24+00:00",
+      "summary": "반복되는 어지럼증, 뇌졸중 신호일 수도…\"정확한 감별 필요\"&nbsp;&nbsp;서울경제TV\"넘어질 것처럼 어질어질\"…혹시 뇌질환 신호?&nbsp;&nbsp;뉴시스[김태열의 생생건강S펜] “빙빙돌고,비틀거리고 찌를듯한두통..일상생활 무너뜨리는 뇌질환”&nbsp;&nbsp;v.daum.net벽 짚고 비틀거리는 노인들… 어지럼증 아닐 수도&nbsp;&nbsp;헬스조선\"저혈압인 줄 알았는데\"…갑자기 어지러운 이유 따로 있었다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BMHJtTTdLaXJyRkU0dE44aVJKLTZfN1h6RDIyNVRmZzhiajNJU0VialBBeWVEbjZ6Z3lFVnRLLTN4TzRscnZqZW5UX2lLbjQxb2VRdUQ3S3poQXhqVVZEY2hXUkY?oc=5"
         }
       ]
     },
@@ -306,22 +354,10 @@
       ]
     },
     {
-      "id": "b07532800ba5",
-      "title": "침묵의 침입자 폐렴구균, ‘백신’이라는 방패로 막아내야(2편) - 서산시대",
-      "published": "2026-07-06T05:48:23+00:00",
-      "summary": "침묵의 침입자 폐렴구균, ‘백신’이라는 방패로 막아내야(2편)&nbsp;&nbsp;서산시대",
-      "sources": [
-        {
-          "name": "서산시대",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wNG9QblNFcDNScUxyd2xfeGhiYUNtRHNKY2JTYXhOdEhnWG1nZDVSU19jemk0TlpYQ3FQQ2ZxQlQ5WjdMLW5rd2RSdE0tUk44Zkh2NnF0NWRETUJNUFFpVDA1bzlnd9IBakFVX3lxTE1PMjFvcjdSUnJVLVZBMHIyRkVJTDQxV1AwZkN4VFgwbkZxa1p3NFhSWXBLZ21aYUdmVDE4RWJoNy1Fa0U0Y0J5dGJRMUxFaVBIajdGZmZwczJOZW8xeWxlZW1yMmtkM002VkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d8e612889b41",
       "title": "젊은 암환자 증가 배경엔 생물학적 노화 가속 - 메디칼트리뷴",
       "published": "2026-07-06T05:34:20+00:00",
-      "summary": "젊은 암환자 증가 배경엔 생물학적 노화 가속&nbsp;&nbsp;메디칼트리뷴점점 더 많은 젊은이들이 대장암에 걸리고 있습니다.&nbsp;&nbsp;Vietnam.vn[청년발언대] 늘어나는 청년 암 환자…건강관리와 조기 검진이 중요하다&nbsp;&nbsp;청년일보대장암 발병 연령 낮아지는 이유… \"출생 시 이 조건이 암 위험 결정\"&nbsp;&nbsp;뉴시스젊은 암 환자 증가세…조기 발견 중요&nbsp;&nbsp;바이오타임즈",
+      "summary": "젊은 암환자 증가 배경엔 생물학적 노화 가속&nbsp;&nbsp;메디칼트리뷴Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "메디칼트리뷴",
@@ -345,11 +381,23 @@
       "id": "3707a39caa17",
       "title": "부모님 기억력 걱정될 때, ‘건망증’과 ‘치매’ 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트] - 쿠키메디",
       "published": "2026-07-06T05:09:18+00:00",
-      "summary": "부모님 기억력 걱정될 때, ‘건망증’과 ‘치매’ 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트]&nbsp;&nbsp;쿠키메디부모님 기억력 걱정될 때 건망증·치매 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트]&nbsp;&nbsp;쿠키뉴스치매인 줄 알았는데 아니었다…‘이 걸음’ 나타난 60대 놓친 병&nbsp;&nbsp;미주중앙일보갑자기 달고 기름진 음식, 탄수화물 당긴다면…'이것' 초기 신호일 수도?&nbsp;&nbsp;네이트“기억력 소실, 치매 전조 증상일 수도”… 건망증과 차이점은 무엇 (‘대단한 도전’)&nbsp;&nbsp;tvreport.co.kr",
+      "summary": "부모님 기억력 걱정될 때, ‘건망증’과 ‘치매’ 먼저 구분해야 [‘뇌(腦)피셜’ 말고 팩트]&nbsp;&nbsp;쿠키메디치매인 줄 알았는데 아니었다…‘이 걸음’ 나타난 60대 놓친 병&nbsp;&nbsp;미주중앙일보갑자기 달고 기름진 음식, 탄수화물 당긴다면…'이것' 초기 신호일 수도?&nbsp;&nbsp;네이트“기억력 소실, 치매 전조 증상일 수도”… 건망증과 차이점은 무엇 (‘대단한 도전’)&nbsp;&nbsp;tvreport.co.kr",
       "sources": [
         {
           "name": "쿠키메디",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SVlhETGl0RHZCSG1xZ1ZLN0MtcnRKa1Z5TnUwdThQQm4wRnZaWVpiSTUweE14MVh2eC1MaHRGZ2NEaHVoS0NQRExpMjF3bDAxQnByQkdnNk5ZVTFhTVA0TDh0VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ea9c5f6f644",
+      "title": "82세 여성의 건강 노화 “근육 유지가 비결”… 최악의 상황은? - 코메디닷컴",
+      "published": "2026-07-06T05:01:00+00:00",
+      "summary": "82세 여성의 건강 노화 “근육 유지가 비결”… 최악의 상황은?&nbsp;&nbsp;코메디닷컴“왜 자꾸 다리가 약해질까”&nbsp;&nbsp;이투데이\"나이 많다고 치료 포기?\"…고령 환자, '노쇠 평가'가 예후 가른다&nbsp;&nbsp;한국일보노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답&nbsp;&nbsp;헬스조선82세 여성의 건강 노화 \"근육 유지가 비결\"…최악의 상황은?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5wSnRaa1p5V29jYkpBZHpEbUdvWU5NR01XWWowNFFzc19RYnE5NHpuRWdyVUU2NXUyN2E5Y1pMZFgzUQ?oc=5"
         }
       ]
     },
@@ -378,18 +426,6 @@
       ]
     },
     {
-      "id": "ec9f4712a939",
-      "title": "어지럽고 비틀거리는데 괜찮다? 뇌 질환 신호일 수도 - 한국의약통신",
-      "published": "2026-07-06T03:02:00+00:00",
-      "summary": "어지럽고 비틀거리는데 괜찮다? 뇌 질환 신호일 수도&nbsp;&nbsp;한국의약통신\"넘어질 것처럼 어질어질\"…혹시 뇌질환 신호?&nbsp;&nbsp;뉴시스벽 짚고 비틀거리는 노인들… 어지럼증 아닐 수도&nbsp;&nbsp;헬스조선\"저혈압인 줄 알았는데\"…갑자기 어지러운 이유 따로 있었다&nbsp;&nbsp;네이트[한국인의 100가지 질환-58] 메니에르병, 어지럼증만 반복된다면 귀를 의심해야 한다&nbsp;&nbsp;뉴스인",
-      "sources": [
-        {
-          "name": "한국의약통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3d0k3dTlLWEpiZlRmaDBOdzZ2NUZyQnpiZGRPNzdRM00xdHU3am9jSzRFUUtuT1dNbHVjSkdwOUY2Q1U1WGo5djdkV0ZwR01pMUgycWdzQXM2WTBISk1VTkRTSzZOdjF4LWVB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "93f9992c3499",
       "title": "눈 가려움, 봄이 지나도 끝나지 않는다...알레르기 결막염 '연중 관리' 필요 - 파이낸셜뉴스",
       "published": "2026-07-06T01:25:31+00:00",
@@ -414,18 +450,6 @@
       ]
     },
     {
-      "id": "0f9bcfa65e5b",
-      "title": "“왜 자꾸 다리가 약해질까” - 이투데이",
-      "published": "2026-07-05T21:00:00+00:00",
-      "summary": "“왜 자꾸 다리가 약해질까”&nbsp;&nbsp;이투데이\"나이 많다고 치료 포기?\"…고령 환자, '노쇠 평가'가 예후 가른다&nbsp;&nbsp;한국일보노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답&nbsp;&nbsp;헬스조선82세 여성의 건강 노화 \"근육 유지가 비결\"…최악의 상황은?&nbsp;&nbsp;네이트김미지 경희대학교 의과대학 융합의과학교실 교수 - Healthy Aging, Better Life, 근감소증 바이오마커 발굴로 누구나 건강한 노후를 누릴 수 있는 해답을 찾아서&nbsp;&nbsp;월간인물",
-      "sources": [
-        {
-          "name": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yZDI0VjVNX0JkRnVEaGI5UjVKbzA3OFY2UjliN3pSSTFRc3Y0YVBUY2xEZTlYbk42V3lrX2pUcFY5ZjUtenFVSWZ5SVQ3UjJ4ZHhaNlRwUmZIdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b1864d23f1ac",
       "title": "HIV는 통제 가능한 질환, 이제는 삶의 질을 고려할 때 - 의약뉴스",
       "published": "2026-07-05T20:28:08+00:00",
@@ -434,18 +458,6 @@
         {
           "name": "의약뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VaWNVMEk4RjhOT19Fd3dwU3lJR2piLVp3SlkxZUtQYkY5Rk1pQ3MtZEVlRll3TTMySFRhcG1QVVUxQmcyaXVjVVdQc1FCX1dVOUJNdnJVSVBIOXZVb2g4ZWxaM0l5dkV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2579fd69a2e1",
-      "title": "지방간 방치하면 대장암 더 위험해진다… 간 전이 촉진 - 헬스조선",
-      "published": "2026-07-05T12:00:00+00:00",
-      "summary": "지방간 방치하면 대장암 더 위험해진다… 간 전이 촉진&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DXzBhMWFiVUZ1SkxGTVREbGNXRUpDdmRfS3RJOVVkbzY1aV9lVGVRUW9TN05sWFpYS1VTdGtMSnRzS2N1dWxzMWdYZndlTm9ieVMtVEI5VUhFRkVXRldEQzk1VUVvMmE0WTRELTNGaTEyaTFWR2RnbkhoOURLSk0?oc=5"
         }
       ]
     }
