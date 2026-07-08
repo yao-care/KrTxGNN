@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-08T14:20:30.208455+00:00",
-  "total_fetched": 90,
-  "unique_count": 90,
-  "health_related_count": 42,
+  "fetched_at": "2026-07-08T19:36:26.485356+00:00",
+  "total_fetched": 87,
+  "unique_count": 87,
+  "health_related_count": 41,
   "news": [
+    {
+      "id": "814a8438af76",
+      "title": "수술 없이 61kg 뺀 여성, 예상치 못 한 ‘문제’ 발생… 무슨 일? - 헬스조선",
+      "published": "2026-07-08T15:30:00+00:00",
+      "summary": "수술 없이 61kg 뺀 여성, 예상치 못 한 ‘문제’ 발생… 무슨 일?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kaFctVVJBN1RObWE4eXR6dTB5NDZvS2RhTGphNmFHdWtvYWhNaFB2VXp4Qk5WMHM0YW12QzhvRFE3dWFwM21XNHpSLXQzdmlSTC1DdUtDdUVUeG5sZjRSb3N1SU1oQVRjaTlneXRfdW8xNTYyM3VLb2RuWHFISzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7993d613f9a2",
+      "title": "소변 냄새로 전립선암 조기 진단하는 방법 개발 - 메드월드뉴스",
+      "published": "2026-07-08T14:16:28+00:00",
+      "summary": "소변 냄새로 전립선암 조기 진단하는 방법 개발&nbsp;&nbsp;메드월드뉴스\"소변냄새로 알 수 있다\"…전립선암 진단법 개발&nbsp;&nbsp;뉴시스소변 냄새에 숨은 암 신호… 전립선암 조기진단 길 열렸다&nbsp;&nbsp;헬스조선탐지견 활동에서 착안, 소변 냄새로 ‘전립선암’ 조기진단법 개발&nbsp;&nbsp;지디넷코리아소변 냄새만 맡아도 안다고? 96% 정확도로 전립선암 잡는다&nbsp;&nbsp;서울경제신문",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02dzZaTWZMY3djTXNuZ184bVlFb0RpbGhIYjJfM25LdVNPazJ3NW16cXpZckwwbVY2SnVpakx3WHU2TGtTeFF5UG9VYzJUeUVlX1hwbEJYWHI4LUdQNmU0Yml2S1hJVTVjbVpqUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "689ac05e0cd1",
       "title": "인제대 연구팀, 유럽 심장 학회지에 폐경 후 여성 심부전 연구 게재 - 김해뉴스",
@@ -18,26 +42,14 @@
       ]
     },
     {
-      "id": "66e662fb24fd",
-      "title": "강남세브란스병원 구교철 교수팀, 소변 기반 전립선암 진단 플랫폼 개발 - 의약뉴스",
-      "published": "2026-07-08T13:21:39+00:00",
-      "summary": "강남세브란스병원 구교철 교수팀, 소변 기반 전립선암 진단 플랫폼 개발&nbsp;&nbsp;의약뉴스\"소변냄새로 알 수 있다\"…전립선암 진단법 개발&nbsp;&nbsp;뉴시스소변 냄새에 숨은 암 신호… 전립선암 조기진단 길 열렸다&nbsp;&nbsp;헬스조선탐지견 활동에서 착안, 소변 냄새로 ‘전립선암’ 조기진단법 개발&nbsp;&nbsp;지디넷코리아소변 냄새만 맡아도 안다고? 96% 정확도로 전립선암 잡는다&nbsp;&nbsp;서울경제신문",
-      "sources": [
-        {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mUG8tZWZvempvVjZMZTViQ1plN3RYNzlJVk9LRUJRVUVod0FxUkpMbE5UOWdQOG5DR1dVWEZzQ3FNRlRZSWEtVjI0cFVVT0s0eDdTU1hSZXd0MHRTWHZITHdxODhoVUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3201cfe13573",
+      "id": "3d38d41c02b8",
       "title": "단식이 잇몸질환 염증 완화에 도움된다 - 치의신보",
       "published": "2026-07-08T12:08:52+00:00",
       "summary": "단식이 잇몸질환 염증 완화에 도움된다&nbsp;&nbsp;치의신보",
       "sources": [
         {
           "name": "치의신보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wSFdIZV9uUzl0SEFnRlBqcG15QURwMnk2cW14dUtyYmJLaTZPSXZ0V21kVlJLMjh1RVVRaVZlTGJ0c2xZMlJwQ2ZQSUdHYTJJQzFITHRQcVJ1WFAyaklBQmhFVHl4YzNC?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wcVFtVDltWjRxb1djMzB6dFRiVl9DVWxxVm1qbDBkZ2N0MFRNb1B4ek5RQlVCUWRQZnp1d1BYclhhV3JFYVBOX0Q3clhlaTJwV201ajVjNDVuSUMyU0p0bHZXY3hJdk0?oc=5"
         }
       ]
     },
@@ -45,7 +57,7 @@
       "id": "23771adf5f9f",
       "title": "뎅기열, 당뇨병 환자 공격 - Laodong.vn",
       "published": "2026-07-08T10:10:43+00:00",
-      "summary": "뎅기열, 당뇨병 환자 공격&nbsp;&nbsp;Laodong.vn베트남·방글라데시 등 뎅기열 확산…감염 주의&nbsp;&nbsp;YTN방글라데시, 홍역 이어 뎅기열도 급속 확산…18명 사망&nbsp;&nbsp;연합뉴스TV뎅기열 환자가 증가하고 있으므로 노인과 기저질환이 있는 사람들은 예방 조치를 취해야 합니다.&nbsp;&nbsp;Vietnam.vn하노이에 사는 69세 여성이 뎅기열 증세를 나흘 동안 앓다가 응급 투석을 받아야 했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "뎅기열, 당뇨병 환자 공격&nbsp;&nbsp;Laodong.vn베트남·방글라데시 등 뎅기열 확산…감염 주의&nbsp;&nbsp;YTN방글라데시, 홍역 이어 뎅기열도 급속 확산…18명 사망&nbsp;&nbsp;연합뉴스TV뎅기열 환자가 증가하고 있으므로 노인과 기저질환이 있는 사람들은 예방 조치를 취해야 합니다.&nbsp;&nbsp;Vietnam.vn홍역과 싸우는 방글라데시서 뎅기열도 급속 확산…18명 사망&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -62,18 +74,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xanFSekY5ajEwckE1WjRuY2RkbXE1NG9PMHNTUFhRMWludlg0dlBMNnROQlBqNHpCZ0xvWENCNGhZQnJSVkM2cEVmcjRoRzh0NTNEVDl5SWw4LU1CVlVUczhkVFBFekcyaWcwSmM2aGUxRG92QXE1THI5WUdEMkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d8a9f704722",
-      "title": "“늙은 근육도 다시 젊어져”…운동하면 진짜 노화 되돌려, 어떻게? - 코메디닷컴",
-      "published": "2026-07-08T08:14:00+00:00",
-      "summary": "“늙은 근육도 다시 젊어져”…운동하면 진짜 노화 되돌려, 어떻게?&nbsp;&nbsp;코메디닷컴“왜 자꾸 다리가 약해질까”&nbsp;&nbsp;이투데이\"늙은 근육도 다시 젊어져\"…운동하면 진짜 노화 되돌려, 어떻게?&nbsp;&nbsp;네이트노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답&nbsp;&nbsp;헬스조선대한근감소증학회 - 질병코드 등재로 시작해 기능적 근감소증을 정립하며, ‘건강 수명 연장’이라는 시대적 과제에 해답을 제시하다&nbsp;&nbsp;월간인물",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QLWVxMEI0VlRiRm5jYVZpY0d1ZjNPWWZ2c1ZmRnBISzJxZFBOb2J1WllIMFlVak1jSFJOLW5RU19mUQ?oc=5"
         }
       ]
     },
@@ -129,11 +129,23 @@
       "id": "a6fb4962e406",
       "title": "수박 많이 먹으면 대장암 위험 26% 낮아진다? 알고보니 [건강!톡] - 한국경제",
       "published": "2026-07-08T01:58:33+00:00",
-      "summary": "수박 많이 먹으면 대장암 위험 26% 낮아진다? 알고보니 [건강!톡]&nbsp;&nbsp;한국경제수박은 심혈관 건강에 도움이 되지만, 잘못 먹으면 해로울 수 있습니다.&nbsp;&nbsp;Vietnam.vn채소 매일 먹으면 정말 오래 살까?…몸에서 일어난 놀라운 변화 7가지&nbsp;&nbsp;뉴스와【칼럼】 과일·채소 먹으면 사망 위험 감소&nbsp;&nbsp;이코노믹포스트“대장암 26%↓” 수박 많이 먹었더니…106만명의 진실&nbsp;&nbsp;v.daum.net",
+      "summary": "수박 많이 먹으면 대장암 위험 26% 낮아진다? 알고보니 [건강!톡]&nbsp;&nbsp;한국경제채소 매일 먹으면 정말 오래 살까?…몸에서 일어난 놀라운 변화 7가지&nbsp;&nbsp;뉴스와【칼럼】 과일·채소 먹으면 사망 위험 감소&nbsp;&nbsp;이코노믹포스트수박은 심혈관 건강에 도움이 되지만, 잘못 먹으면 해로울 수 있습니다.&nbsp;&nbsp;Vietnam.vn“대장암 26%↓” 수박 많이 먹었더니…106만명의 진실&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xVzdwdFBoY3MxVUZSSXlLdm9aektnQ0QtOWFzUTRja1pfZ2FINURLNktyMjk5eU5jMHZDUkFDOGgtVzBMdnVnc09MZTBYTmR4VVQyTG1lcmZ5Z9IBVEFVX3lxTE9pX180aVVENGVRTG9NLUt4eGhScmd4eFZUUXNWN1hsQmNwUVRmcHY3SWZWb2ZZODI4YXUwdXBFYnV4NVlqRk9KVThwUHJWaHQ1dkR4ZA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d1496b9ac4a9",
+      "title": "[건강 칼럼 7] 뇌를 깨우는 작은 습관…치매 예방은 일상에서 시작된다 - 뉴스N연합",
+      "published": "2026-07-08T01:38:06+00:00",
+      "summary": "[건강 칼럼 7] 뇌를 깨우는 작은 습관…치매 예방은 일상에서 시작된다&nbsp;&nbsp;뉴스N연합치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 ‘고스톱의 배신’&nbsp;&nbsp;중앙일보치매 예방, ‘정보 더 주는 것’보다 ‘실천하게 하는 것’이 중요&nbsp;&nbsp;헬스조선[한광식 칼럼] 생활습관으로 지키는 ‘뇌 건강’&nbsp;&nbsp;한국강사신문“기억력은 50대 수준이었다” 치매 걸린 80대 노인의 비밀&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "뉴스N연합",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04ZmV3SnF1MXh6Nl9wa3JLMjR6Y1NyQ2pfM085dFItS2dlN09GZ1ZyWWo3NWRIR2M5NXpZTUpZa053aU04ZTdnU05R?oc=5"
         }
       ]
     },
@@ -146,18 +158,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UNndjOWFXWFRWYllXbFVxZ2xSYzJBUHFFR0xDdkJ3VHJLdHRfSTRic0lFZDNvS1E0ZHRfcHVoSGtJQTY2YWsyVUo1LUUwUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86de097c0f5f",
-      "title": "[건강 칼럼 7] 뇌를 깨우는 작은 습관…치매 예방은 일상에서 시작된다 - 한국AI부동산신문",
-      "published": "2026-07-08T01:28:07+00:00",
-      "summary": "[건강 칼럼 7] 뇌를 깨우는 작은 습관…치매 예방은 일상에서 시작된다&nbsp;&nbsp;한국AI부동산신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vajNFb1NNRTBhZFMyejFFSTgxY0dyZzFNSzdocDRfQ0lhdi1kYnJDc1RlQ3kzN3dpeXBuT3hEVGU0SnVVZTRVNkw0S18?oc=5"
         }
       ]
     },
@@ -198,6 +198,18 @@
       ]
     },
     {
+      "id": "a3f471f0a721",
+      "title": "묵인희 교수 \"치매, 약보다 식단…허벅지 1cm=노후 10억\"[한판승부] - 네이트",
+      "published": "2026-07-07T22:32:00+00:00",
+      "summary": "묵인희 교수 \"치매, 약보다 식단…허벅지 1cm=노후 10억\"[한판승부]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxUTBVUjJxR3RZVjFZczc2cnVxc2pyWXN2MVRjMnV1WXlCRFJrWm9WQkY3OHFXNmxfSzk5dzFNY2tmQzIteVp0bWMxS2pkWFpRNkFF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9e8d2f390636",
       "title": "폐암 수술 1년 이내 심방세동 위험 4배↑…\"맞춤형 모니터링 必\" - 청년의사",
       "published": "2026-07-07T21:05:02+00:00",
@@ -206,6 +218,30 @@
         {
           "name": "청년의사",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PMUdBM2xFcDd5VGx6UmR2TUFwLUhzUFJOcDVBZTJBXzlxb25jLS0yNDBuLUxkT2R0SEhyS3VDdXhhc1c5MzBOWnhtTEFMS3Z6X3VBQ25oWFI3MWRpNmRMcXQyb0tuUjhPSG9RclZ1NNIBc0FVX3lxTFBTYVpodDJCTlgyQU93c3NsckV1UGdjWEQ1b0UybTBLRHdlaDBlT3MwVVBDSnRPUmdjSlFfNi1vZVlBcndmaDNvT1Y1YWt0c1ZocU45N2JjbWJuNFdZVHFkRWxyN3Y1djlEM3o4Nmgxcmp1bGM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1011d9ae5f12",
+      "title": "위고비, 살만 빼준게 아니었다…\"이 병 사망위험 20%나 줄였다\" - 네이트",
+      "published": "2026-07-07T20:01:00+00:00",
+      "summary": "위고비, 살만 빼준게 아니었다…\"이 병 사망위험 20%나 줄였다\"&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEZU5WMW1zZVJGNUlEMXBkVXNOa012TzQ0bHpPRzVrUUdndEl3Y25vM0RWd1B4RlZXd2szUEtBS0lISmhIelFocERrb0FQTzJDYk9z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4aabc13c3f45",
+      "title": "“염증 수치 오른다”… 여름에 최악이라는 ‘아침 식습관’ - 헬스조선",
+      "published": "2026-07-07T16:00:00+00:00",
+      "summary": "“염증 수치 오른다”… 여름에 최악이라는 ‘아침 식습관’&nbsp;&nbsp;헬스조선아무리 좋은 음식 먹어도… ‘이 습관’ 안 고치면 염증 그대로&nbsp;&nbsp;헬스조선치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제신문“지각할 판인데 아침식사는 무슨”…아아로 떼우다간 ‘이 병’ 직행한다&nbsp;&nbsp;매일경제몸속 염증을 줄이는 음식, 건강은 매일의 식탁에서 시작된다&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jclN2aktrZ1E1ODV0S0FkTnJQRTBkVkVUaFVoMVFpbng3aTl1VFpfLVVtN1lWLUdEaDU4QlRmX2EyV1BHa2c0V211Sk5VUzh2Zkh0dTRSc1Blam1ZLVlkUUVwSjhLRWxvOVdxSnNVNGFlakVBYkdqNHlfV0o5Q0k?oc=5"
         }
       ]
     },
@@ -246,22 +282,10 @@
       ]
     },
     {
-      "id": "b81f98c323aa",
-      "title": "“알츠하이머 위험 신호 있어도 효과”…치매 위험 낮춘 ‘이 식단’ - 동아일보",
-      "published": "2026-07-07T09:07:36+00:00",
-      "summary": "“알츠하이머 위험 신호 있어도 효과”…치매 위험 낮춘 ‘이 식단’&nbsp;&nbsp;동아일보묵인희 교수 \"치매, 약보다 식단…허벅지 1cm=노후 10억\"[한판승부]&nbsp;&nbsp;v.daum.net\"알츠하이머 위험 신호 있어도 효과\"…치매 위험 낮춘 '이 식단'&nbsp;&nbsp;뉴시스“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FbGhMSlJyRXh0U3Z0cHQycUdKN29CTmN5NTFKYVJVaXpaRjhwc0xVT0VManN6NGJVUjlpUlVNekI0c1RnTW5GQWJzN3E5MGVCTVZ0b3c2cTZrMWF3UG1zbzNRdUxUNklMbzlMQlJfQzlYSDdlQ3fSAWZBVV95cUxOWUtUYlhta0c0MHVrS1J3WTl1YzJGamtiWm9uMzN4c05fZXZfRDFGYVFCYzFqclpwNUE2dkZXcVd0VG55cWs2bUlXMWFzZlVfZXlXODhvNGJiYTlTNXEwS2RScEsxM2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fbb5e3695ca0",
       "title": "일양약품, 성장기 칼슘 멀티비타민 젤리 출시 - 팜뉴스",
       "published": "2026-07-07T07:49:10+00:00",
-      "summary": "일양약품, 성장기 칼슘 멀티비타민 젤리 출시&nbsp;&nbsp;팜뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "일양약품, 성장기 칼슘 멀티비타민 젤리 출시&nbsp;&nbsp;팜뉴스일양약품, 3종 멀티비타민 '팝핑 프리미엄비타C' 출시&nbsp;&nbsp;메디파나뉴스일양약품, 멀티비타민 '팝핑 프리미엄비타C' 출시&nbsp;&nbsp;핀포인트뉴스",
       "sources": [
         {
           "name": "팜뉴스",
@@ -333,7 +357,7 @@
       "id": "9e0b1dee65b2",
       "title": "“﻿대장암 수술 위치, 이상지질혈증 발생 위험 차이” - 데일리메디",
       "published": "2026-07-07T03:56:06+00:00",
-      "summary": "“﻿대장암 수술 위치, 이상지질혈증 발생 위험 차이”&nbsp;&nbsp;데일리메디국제성모병원 이재임 교수팀, 대장암 수술 위치와 이상지질혈증 위험 연관성 확인&nbsp;&nbsp;로이슈대장암 수술 위치 따른 이상지질혈증 위험 차이 규명&nbsp;&nbsp;메디칼업저버대장암 절제 위치 따라 수술 후 이상지질혈증 위험 달라&nbsp;&nbsp;e-의료정보\"대장암 수술 위치 따라 이상지질혈증 위험 달라진다\"&nbsp;&nbsp;의학신문",
+      "summary": "“﻿대장암 수술 위치, 이상지질혈증 발생 위험 차이”&nbsp;&nbsp;데일리메디국제성모병원 이재임 교수팀, 대장암 수술 위치와 이상지질혈증 위험 연관성 확인&nbsp;&nbsp;로이슈대장암 수술 위치 따른 이상지질혈증 위험 차이 규명&nbsp;&nbsp;메디칼업저버\"대장암 수술 위치 따라 이상지질혈증 위험 달라진다\"&nbsp;&nbsp;의학신문대장암 수술 위치 따라 이상지질혈증 위험 다르다&nbsp;&nbsp;후생신보",
       "sources": [
         {
           "name": "데일리메디",
@@ -374,18 +398,6 @@
         {
           "name": "파이낸셜뉴스",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51S3lXQl9ka2Fxd2pydldHdXF6ckFNcGNESDA3NUZvdU1tMDU4NFU4MWhIejR3eTZGd19oZzlRbm01NVBHUFItdlpWMnNMVDBJOWwxMjVpdUsydw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37b626cf9eda",
-      "title": "자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지 - 하이닥",
-      "published": "2026-07-07T02:00:00+00:00",
-      "summary": "자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지&nbsp;&nbsp;하이닥아무리 좋은 음식 먹어도… ‘이 습관’ 안 고치면 염증 그대로&nbsp;&nbsp;헬스조선치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제신문“지각할 판인데 아침식사는 무슨”…아아로 떼우다간 ‘이 병’ 직행한다&nbsp;&nbsp;매일경제몸속 염증을 줄이는 음식, 건강은 매일의 식탁에서 시작된다&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zaHJsbnh2a2xsU2JIMXAzMmhiRTVSYjVtZG5XWlpIVXc3NWN2UjRCNzB5MURybUVKUnI1d0lsZDl1MWxFeHVFdUNzS21pbHlJcXRtTnJkZm5vRl95Wk43dm81bDFHU2RLbEE?oc=5"
         }
       ]
     },
@@ -434,30 +446,6 @@
         {
           "name": "마음건강 길",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EOFBRdHRmcS1wcXk0cHFmU2FIazdSMDJLRGw4and1VU1GLU80ckFPbDV6M3lHZnBEZWU4UVBPc3pJbk0tcHBzZFNGbHlNRjBmRDJ1UFc2a3RUUXRiVXdMZHltdGFQN2xZTWfSAW5BVV95cUxOVGVsVHp2cl9SbldkVi1Xb0xrUF90dHowVXp2NnlqR3JQYncwMjdFZWZxNTFvVWIzUzRLT2ExU25MMFJWSUVreHRCZ3FCaVYxd1NPQi1GOFhWbm9GWnJrSFR3SmxvUHdZeEdPc0VqZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29fe1088aff4",
-      "title": "\"40대는 안심?\"…조기 대장암 증가에 자가검사 관심 높아져 - 위클리코리아",
-      "published": "2026-07-06T16:18:04+00:00",
-      "summary": "\"40대는 안심?\"…조기 대장암 증가에 자가검사 관심 높아져&nbsp;&nbsp;위클리코리아점점 더 많은 젊은이들이 대장암에 걸리고 있습니다.&nbsp;&nbsp;Vietnam.vn대장암, 젊다고 안심은 금물…소화기 질환·치질로 오인&nbsp;&nbsp;sportschosun.com",
-      "sources": [
-        {
-          "name": "위클리코리아",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNZ01EZUZZUEVHNDFDM1Z2dW5qOXlfUm9fZmJGQ2xXM19Rb1oxTkJmUnoxMGlKSVE2Q1JLZkh4Zm5iUVBvMGJDaHhlZWlQQUgzY3dRVGlfbkNKZmdTSm5MVFhwMy1MbFFnaDc1cEVHa3JBaGhSQURaRHJjbGdPdXpFVmk0UzJMbjlTckgyT1VoM2xCeFRwaW9TMlVmVElKWWRITE5mZUtRR2Vhbi1pVkZidnpOUTEzVXlJSjhhVU1TbE04bloyUG5BekI2TEpzeTZ5dndNYkQxVEhtZU84MklwVDBCVVZDR2xUd2lBZFhfSXdBSkhqRmxtUDl2SnNGdS1DUk51eDJXTkNQMWVtMEFLbFRIblVOS1JOR19aQ2pfLTZuaEEteEJPUzNWbkhidWZBWHl4cExEZGFzS3pUMmxhb09wTlRUS3JXQlNEcHlpOVEtNzg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "96ef754665ca",
-      "title": "[의학칼럼] 침묵의 침입자 폐렴구균, '백신'이라는 방패로 막아내야 - 중도일보",
-      "published": "2026-07-06T14:13:40+00:00",
-      "summary": "[의학칼럼] 침묵의 침입자 폐렴구균, '백신'이라는 방패로 막아내야&nbsp;&nbsp;중도일보",
-      "sources": [
-        {
-          "name": "중도일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qT0s4dzBnVnZhaVEtb3VDN0FsdjBmVUp4cGR1OGhCZU1PN3oyYUpHa0RkT3FFaFZLMHkxX2o0Um0zTnBqZlhIeHNRNjY1b28zUzU4VjJrNkQxN3BoQTUwblVnSEc?oc=5"
         }
       ]
     },
