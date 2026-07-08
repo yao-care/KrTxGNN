@@ -1,19 +1,79 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-08T08:33:25.419476+00:00",
-  "total_fetched": 86,
-  "unique_count": 86,
+  "fetched_at": "2026-07-08T14:20:30.208455+00:00",
+  "total_fetched": 90,
+  "unique_count": 90,
   "health_related_count": 42,
   "news": [
     {
-      "id": "6e8987d087d7",
-      "title": "[Medical Report] 지방간, 만성콩팥질환 발생 위험 증가 … 의료계 혁신 경쟁 가속 外 - 헬스코리아뉴스",
-      "published": "2026-07-08T08:10:41+00:00",
-      "summary": "[Medical Report] 지방간, 만성콩팥질환 발생 위험 증가 … 의료계 혁신 경쟁 가속 外&nbsp;&nbsp;헬스코리아뉴스우울증, 지방간 위험도 키운다… 45세 미만 여성서 더 뚜렷&nbsp;&nbsp;국민일보지방간 환자, 만성콩팥질환 위험 17% 증가 밝혀져&nbsp;&nbsp;이데일리지방간 방치하면 대장암 더 위험해진다… 간 전이 촉진&nbsp;&nbsp;헬스조선지방간 방치하면 '이 암' 더 위험해져…예방법은 무엇?&nbsp;&nbsp;네이트",
+      "id": "689ac05e0cd1",
+      "title": "인제대 연구팀, 유럽 심장 학회지에 폐경 후 여성 심부전 연구 게재 - 김해뉴스",
+      "published": "2026-07-08T13:47:22+00:00",
+      "summary": "인제대 연구팀, 유럽 심장 학회지에 폐경 후 여성 심부전 연구 게재&nbsp;&nbsp;김해뉴스",
       "sources": [
         {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xN054R1U2Z3AzVVAySjBkelZCZFVuUlFUMU11bzI3SkRNLUQ2TVFNLVJuRDd1TGNPTnpwbm8wS25iWFVjNTFHdFA5ZjZqM1oyMVRTYk1LVGZaNGl4WDF1ODNkVktSelE?oc=5"
+          "name": "김해뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SSERCbU9xSGpfTEYtLVZLMzhfSW02Rk1RZzgwZXJ5NzRMUVB1eEU2WVdITW1wQmhBcHdMVWZpcTJvVDRHQmNibDBfUTZsZ2NlX1NWUEZfenlmT05TWGZwTTVra0UxOE8xazdBMWl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66e662fb24fd",
+      "title": "강남세브란스병원 구교철 교수팀, 소변 기반 전립선암 진단 플랫폼 개발 - 의약뉴스",
+      "published": "2026-07-08T13:21:39+00:00",
+      "summary": "강남세브란스병원 구교철 교수팀, 소변 기반 전립선암 진단 플랫폼 개발&nbsp;&nbsp;의약뉴스\"소변냄새로 알 수 있다\"…전립선암 진단법 개발&nbsp;&nbsp;뉴시스소변 냄새에 숨은 암 신호… 전립선암 조기진단 길 열렸다&nbsp;&nbsp;헬스조선탐지견 활동에서 착안, 소변 냄새로 ‘전립선암’ 조기진단법 개발&nbsp;&nbsp;지디넷코리아소변 냄새만 맡아도 안다고? 96% 정확도로 전립선암 잡는다&nbsp;&nbsp;서울경제신문",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mUG8tZWZvempvVjZMZTViQ1plN3RYNzlJVk9LRUJRVUVod0FxUkpMbE5UOWdQOG5DR1dVWEZzQ3FNRlRZSWEtVjI0cFVVT0s0eDdTU1hSZXd0MHRTWHZITHdxODhoVUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3201cfe13573",
+      "title": "단식이 잇몸질환 염증 완화에 도움된다 - 치의신보",
+      "published": "2026-07-08T12:08:52+00:00",
+      "summary": "단식이 잇몸질환 염증 완화에 도움된다&nbsp;&nbsp;치의신보",
+      "sources": [
+        {
+          "name": "치의신보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wSFdIZV9uUzl0SEFnRlBqcG15QURwMnk2cW14dUtyYmJLaTZPSXZ0V21kVlJLMjh1RVVRaVZlTGJ0c2xZMlJwQ2ZQSUdHYTJJQzFITHRQcVJ1WFAyaklBQmhFVHl4YzNC?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "23771adf5f9f",
+      "title": "뎅기열, 당뇨병 환자 공격 - Laodong.vn",
+      "published": "2026-07-08T10:10:43+00:00",
+      "summary": "뎅기열, 당뇨병 환자 공격&nbsp;&nbsp;Laodong.vn베트남·방글라데시 등 뎅기열 확산…감염 주의&nbsp;&nbsp;YTN방글라데시, 홍역 이어 뎅기열도 급속 확산…18명 사망&nbsp;&nbsp;연합뉴스TV뎅기열 환자가 증가하고 있으므로 노인과 기저질환이 있는 사람들은 예방 조치를 취해야 합니다.&nbsp;&nbsp;Vietnam.vn하노이에 사는 69세 여성이 뎅기열 증세를 나흘 동안 앓다가 응급 투석을 받아야 했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHFIdTBHRjNfSjd0WEdJa1hyOThKdGQ2NW5Rc3dLUDNYaEhTd2Q4Y2d5ekdDOGNlbmVHTHNsenR1ZVA5MjNIcFZZUzBfNEkzRFExWGRMT3ozdXZEUkd1akRrblVRTzN0ejJNTVdNOUdURGw5Vy05UnlyRTJ4QUlJLWJ6RV9hNlc5OE1EVWw2aTQyMTJnZlYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f27c885d8471",
+      "title": "57만명 분석… 폐섬유증 위험 예측한 ‘유전자 점수’ - 헬스조선",
+      "published": "2026-07-08T09:10:00+00:00",
+      "summary": "57만명 분석… 폐섬유증 위험 예측한 ‘유전자 점수’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xanFSekY5ajEwckE1WjRuY2RkbXE1NG9PMHNTUFhRMWludlg0dlBMNnROQlBqNHpCZ0xvWENCNGhZQnJSVkM2cEVmcjRoRzh0NTNEVDl5SWw4LU1CVlVUczhkVFBFekcyaWcwSmM2aGUxRG92QXE1THI5WUdEMkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d8a9f704722",
+      "title": "“늙은 근육도 다시 젊어져”…운동하면 진짜 노화 되돌려, 어떻게? - 코메디닷컴",
+      "published": "2026-07-08T08:14:00+00:00",
+      "summary": "“늙은 근육도 다시 젊어져”…운동하면 진짜 노화 되돌려, 어떻게?&nbsp;&nbsp;코메디닷컴“왜 자꾸 다리가 약해질까”&nbsp;&nbsp;이투데이\"늙은 근육도 다시 젊어져\"…운동하면 진짜 노화 되돌려, 어떻게?&nbsp;&nbsp;네이트노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답&nbsp;&nbsp;헬스조선대한근감소증학회 - 질병코드 등재로 시작해 기능적 근감소증을 정립하며, ‘건강 수명 연장’이라는 시대적 과제에 해답을 제시하다&nbsp;&nbsp;월간인물",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QLWVxMEI0VlRiRm5jYVZpY0d1ZjNPWWZ2c1ZmRnBISzJxZFBOb2J1WllIMFlVak1jSFJOLW5RU19mUQ?oc=5"
         }
       ]
     },
@@ -30,26 +90,14 @@
       ]
     },
     {
-      "id": "dc6321ce392f",
-      "title": "침습적 조직검사 대신 소변·AI로 '전립선암' 잡는다 - 헬스경향",
-      "published": "2026-07-08T07:35:21+00:00",
-      "summary": "침습적 조직검사 대신 소변·AI로 '전립선암' 잡는다&nbsp;&nbsp;헬스경향\"소변냄새로 알 수 있다\"…전립선암 진단법 개발&nbsp;&nbsp;뉴시스소변 냄새만 맡아도 안다고? 96% 정확도로 전립선암 잡는다&nbsp;&nbsp;서울경제신문전립선암수술 뒤 PSA수치만 계속 올라간다?…전립선암 생화학적 재발&nbsp;&nbsp;코리아헬스로그전립선암, '소변 냄새'로 찾는다&nbsp;&nbsp;메디칼업저버",
+      "id": "45d49c938186",
+      "title": "미국인 1%만 받는 이 검사가 심장마비를 막아준다 - 시애틀코리안데일리",
+      "published": "2026-07-08T05:39:55+00:00",
+      "summary": "미국인 1%만 받는 이 검사가 심장마비를 막아준다&nbsp;&nbsp;시애틀코리안데일리\"세계 표준 검사인데\"…현재 콜레스테롤 검사 덜 효과적, 왜?&nbsp;&nbsp;네이트콜레스테롤 수치, 정상이면 괜찮을까요?: 숫자가 아닌 위험도로 읽는 법&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMUlKME1kYlFtSWZQbi00S0FRTWlTdDZ3b0Q2NzZnY0NtWUxBYzdZWlY2OW1CcFNSNlQ4dlVQeHotcEJQLWJOUjhfeVU3QnBsN3VXaTEwVzFRN1I2aWVDN0hQbDJDS0dORkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5a9f62978bc",
-      "title": "노인 심혈관질환 위험인자의 관리 - mostonline.co.kr",
-      "published": "2026-07-08T06:41:55+00:00",
-      "summary": "노인 심혈관질환 위험인자의 관리&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vcVh2WFVJNVB6MjI2OWVFSm9EUnhSbjN4empZZlplRWlZYWtJLXIxeHhQOGl0MDNNdUt1U3Bra2t5U0ZmVlIycnhBNzFuY1U0SGpHVEVYLVZsSEpLTHZ6NjdGUVhBN3hZVHYzbmg1Tng?oc=5"
+          "name": "시애틀코리안데일리",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QOTY2QjVReEI1ay1JVldBdkpZaU1qaDJnLWxvWFFidVZvNHdNWGtReU1neHZqeGtvX0VuTndia0dhelJKRWtJYTFzeU1zay1WVzBKM2owWDUzN3RydVA2SW92SFE1ZGdoNVlVaXRic9IBc0FVX3lxTE9jdVFmcUZIMnFwdV8tbUFpajloYTlxNVhMV2NYTUdRRDNmQlM2dldVZ0c5ZHdNTEJudDAxQW9xVUtDSXBNNHQ4cmtmcklJYU5zbUlYdXhIZ1l1RExoS1dQNVc4TVhmQlhNVUh5UnJadjdCeTA?oc=5"
         }
       ]
     },
@@ -74,6 +122,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wWmNRemdyOEtXdVJHUldfa1VWVEhUeXZhWXZ4dEVSUGRtRzhLQk1YN2VUckV5M0U4bzhlWF83Y0piMjdTdGdRbnk1aDBjUENidUhxSE52R0VZNzJTbmxhWFZQYnNTZjhfLWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6fb4962e406",
+      "title": "수박 많이 먹으면 대장암 위험 26% 낮아진다? 알고보니 [건강!톡] - 한국경제",
+      "published": "2026-07-08T01:58:33+00:00",
+      "summary": "수박 많이 먹으면 대장암 위험 26% 낮아진다? 알고보니 [건강!톡]&nbsp;&nbsp;한국경제수박은 심혈관 건강에 도움이 되지만, 잘못 먹으면 해로울 수 있습니다.&nbsp;&nbsp;Vietnam.vn채소 매일 먹으면 정말 오래 살까?…몸에서 일어난 놀라운 변화 7가지&nbsp;&nbsp;뉴스와【칼럼】 과일·채소 먹으면 사망 위험 감소&nbsp;&nbsp;이코노믹포스트“대장암 26%↓” 수박 많이 먹었더니…106만명의 진실&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xVzdwdFBoY3MxVUZSSXlLdm9aektnQ0QtOWFzUTRja1pfZ2FINURLNktyMjk5eU5jMHZDUkFDOGgtVzBMdnVnc09MZTBYTmR4VVQyTG1lcmZ5Z9IBVEFVX3lxTE9pX180aVVENGVRTG9NLUt4eGhScmd4eFZUUXNWN1hsQmNwUVRmcHY3SWZWb2ZZODI4YXUwdXBFYnV4NVlqRk9KVThwUHJWaHQ1dkR4ZA?oc=5"
         }
       ]
     },
@@ -150,18 +210,6 @@
       ]
     },
     {
-      "id": "65c6abb98e71",
-      "title": "\"깊이 자면 몸에서 무슨 일이?\"…근육 만들고 지방 태우는 뇌 회로 찾았다 - 네이트",
-      "published": "2026-07-07T14:04:00+00:00",
-      "summary": "\"깊이 자면 몸에서 무슨 일이?\"…근육 만들고 지방 태우는 뇌 회로 찾았다&nbsp;&nbsp;네이트\"잠 안 자면 치매 걸린다고?\"…뇌신경전문의가 밝힌 진짜 뇌 건강법&nbsp;&nbsp;v.daum.net\"자도 자도 피곤한 이유 있었다\"…충격적인 뇌의 신호&nbsp;&nbsp;한국경제\"뇌는 잠잘 때 노폐물 제거…깊은 수면이 치매 예방의 시작\"&nbsp;&nbsp;뉴시스\"눈 뜨고 있는데 뇌는 푹 잤다\"... 잠 안 자고도 수면 효과 얻는 기술 나왔다&nbsp;&nbsp;insight.co.kr",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kMjhVd2pqamVBWm9renBPMTAyd3Y3UGZVRUxqNzVKRmdBWDBtRjZXVEVPMHAyXzF3T0VXcmNkVUFiQWZ0Q21fN1V4aGNsdjdfR3hz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a74bd1dcff6c",
       "title": "요산 수치 높은 사람이 신장을 보호하는 데 도움이 되는 습관 - Laodong.vn",
       "published": "2026-07-07T10:30:00+00:00",
@@ -170,6 +218,18 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeDFuWEdLbDN6d19tekx3NDBsZmNoNGljMnNHSmVpbU5vY2pZcUVLaXJod0VuTmxKTnJjSnNrX1RoR2JkNmRycElNRHhGTDZoQkp3Z3NEcmFGalpraWxuZTRnczJOMFBqdTBhU2VURFdhN2FLVU1mbXFpUzJhUGl3aWxXSFF4bjU2ZklvODVOeUhMOHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc4a3f9f975c",
+      "title": "뉴런 아닌 별세포가 장기기억 유지…IBS, 핵심 단백질 규명 - 데일리안",
+      "published": "2026-07-07T09:48:00+00:00",
+      "summary": "뉴런 아닌 별세포가 장기기억 유지…IBS, 핵심 단백질 규명&nbsp;&nbsp;데일리안기억을 오래 유지하는 열쇠, 뇌 속 별세포에 있다&nbsp;&nbsp;BRIC\"치매 치료 앞당기나\" 뇌 속 '별세포'의 반전…'오래가는 기억' 비밀 찾았다 [과학을읽다]&nbsp;&nbsp;아시아경제공부한 것 오래 기억하고 시험 잘 보는 비결 ‘이거’네&nbsp;&nbsp;서울신문장기기억 만들어지는 원리 밝혔다…별세포 기전 첫 규명&nbsp;&nbsp;YTN 사이언스",
+      "sources": [
+        {
+          "name": "데일리안",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPb25tUjZPTW8xZkowY0ZONWlHTHUxUVlBSDN3RFpyXzlfYWFUWEVFY0loVUVoalR3aTB1YXdiQnQtSndxUEVuSS1US1QtRVZYSGExWFQ4eFdTYVlYR3Itdm16aDQ2X1lmNWFhODdDeUI5ak0xU3JZMVZDdWFVdXQxQm1QbjFXTnh0dWVUVVUzbTh4Ymd1ME9RV2xjczVSRVZoTnhVWWhWaVdfZ2hFN0F0V2NSVkF4a2xVZmpZTmtSemZmZ2lzMHFnZVJqVzhZRkxrNlZPeGJXa3c2U0lYZ2Ffdlp1RTJ5NmxwelVqQ1EyU1NtcWgwRWZ2MVJ5ZWs5X191Uzlj0gGGAkFVX3lxTE5ZTFpKWGh0dWNvQnZHWE9mMWhnazNSR0hLUVNRYzhhal9kRmoyMlRTNTZKQnoxeE9jUm9BMC1sRU9zQXRYcnNaRWdSZnM5TVl6U1NYbVFzT1FmWi1idndicjhtSW5idXhVUDVuZzdxdDR2YmdXY1ZUNWVNc0c1a2ExLXR5OWJvX2E3WlFrTHM1Z0JualFFMmlqTGJEOEhURTg5NU84aDdUenVIcVJ5Z3lMVklDTVRfaFA0MVlNZjEzb24zRDFmR0pDdEpMTXNIcjJmdlcwWnRWenU2WTNqaEhNWVNwSGRaNUpobHYxWkdsdzYtQzhEVEs0TWtuVDk4dEN0dWVXSUE?oc=5"
         }
       ]
     },
@@ -198,30 +258,6 @@
       ]
     },
     {
-      "id": "3f9ef82fd51f",
-      "title": "장기기억 형성 원리 규명...'별세포'가 핵심 역할 - YTN",
-      "published": "2026-07-07T09:00:00+00:00",
-      "summary": "장기기억 형성 원리 규명...'별세포'가 핵심 역할&nbsp;&nbsp;YTN기억을 오래 유지하는 열쇠, 뇌 속 별세포에 있다&nbsp;&nbsp;BRIC\"치매 치료 앞당기나\" 뇌 속 '별세포'의 반전…'오래가는 기억' 비밀 찾았다 [과학을읽다]&nbsp;&nbsp;아시아경제공부한 것 오래 기억하고 시험 잘 보는 비결 ‘이거’네&nbsp;&nbsp;서울신문뉴런 아닌 별세포가 장기기억 유지…IBS, 핵심 단백질 규명&nbsp;&nbsp;데일리안",
-      "sources": [
-        {
-          "name": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uUnJEMVhsOXlHRWI0YnBvbXFzdXVFclV0OENOZXItd3Q3ZG5DcENnX2ptMzYwbF9tRU9pckpzVTJZM2dyR0hxbGlWaXhHZnFFTWRzTGxXd3ltQUJ2REE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6136cd3de02b",
-      "title": "대상포진 후 신경통 - 전북도민일보",
-      "published": "2026-07-07T08:34:31+00:00",
-      "summary": "대상포진 후 신경통&nbsp;&nbsp;전북도민일보계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심&nbsp;&nbsp;스포츠경향RSV와 대상포진은 만성 호흡기 질환 환자의 합병증 위험을 증가시킵니다.&nbsp;&nbsp;Vietnam.vn만성 호흡기 질환 환자들은 RSV와 대상포진이라는 '이중고'에 직면합니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "전북도민일보",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQjg5X2dHY3M4WDBLbkM0WG1zeVVGNGJZaWFrLXFvSjRsekpYMEhKZFpIMElZQldlTktxZFBDUWdCTmxMNjB4OXJoUlpfbkl3Rkw2ZlEtZlJQVWVGTEdzWE5zMERiT1gxU3d1NHlocmxYcGxnN2hMUlB0blVLV3Roa1VDYUtMb3M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fbb5e3695ca0",
       "title": "일양약품, 성장기 칼슘 멀티비타민 젤리 출시 - 팜뉴스",
       "published": "2026-07-07T07:49:10+00:00",
@@ -237,7 +273,7 @@
       "id": "26c39634f10d",
       "title": "80대에도 걸음 빠른 사람, 인지 저하 위험 또래의 ‘절반’ [노화설계] - 동아일보",
       "published": "2026-07-07T06:47:53+00:00",
-      "summary": "80대에도 걸음 빠른 사람, 인지 저하 위험 또래의 ‘절반’ [노화설계]&nbsp;&nbsp;동아일보걷기에 있어서 '황금 걸음 수'는 노년층에게 중요합니다.&nbsp;&nbsp;Vietnam.vn80대에 '이렇게' 걷는 사람들…인지장애 위험 낮았다&nbsp;&nbsp;네이트",
+      "summary": "80대에도 걸음 빠른 사람, 인지 저하 위험 또래의 ‘절반’ [노화설계]&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "동아일보",
@@ -278,18 +314,6 @@
         {
           "name": "영남경제",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jVDZBeWxzd2tSVDNRZF9QbXhRN1RMQlhyeVhFdURrVWl4VEt1Yzlwa1ZUeDAteUNod2JHSC1ONFFkWEVIbmJSaXBGSmdDN3QzU2NHOGZXZm5ra2swRk9tRENyclM1V0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7afb3dddbe23",
-      "title": "\"세계 표준 검사인데\"...현재 콜레스테롤 검사 덜 효과적, 왜? - 코메디닷컴",
-      "published": "2026-07-07T04:14:00+00:00",
-      "summary": "\"세계 표준 검사인데\"...현재 콜레스테롤 검사 덜 효과적, 왜?&nbsp;&nbsp;코메디닷컴\"세계 표준 검사인데\"…현재 콜레스테롤 검사 덜 효과적, 왜?&nbsp;&nbsp;네이트콜레스테롤 수치, 정상이면 괜찮을까요?: 숫자가 아닌 위험도로 읽는 법&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5rYXJ6NlJGMUxVQVhKM0dKRWhrUWo4eUNIR1F1enZuMUNMTmRVbnA4SGlJbHB5TGw3M1BIeVJZeW1Hdw?oc=5"
         }
       ]
     },
@@ -357,23 +381,11 @@
       "id": "37b626cf9eda",
       "title": "자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지 - 하이닥",
       "published": "2026-07-07T02:00:00+00:00",
-      "summary": "자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지&nbsp;&nbsp;하이닥“염증 수치 오른다”… 여름에 최악이라는 ‘아침 식습관’&nbsp;&nbsp;헬스조선치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제신문몸속 염증을 줄이는 음식, 건강은 매일의 식탁에서 시작된다&nbsp;&nbsp;한국AI부동산신문서울대병원 이승훈 교수, 신간 ‘착한 염증, 나쁜 염증’ 출간&nbsp;&nbsp;데일리메디팜",
+      "summary": "자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지&nbsp;&nbsp;하이닥아무리 좋은 음식 먹어도… ‘이 습관’ 안 고치면 염증 그대로&nbsp;&nbsp;헬스조선치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제신문“지각할 판인데 아침식사는 무슨”…아아로 떼우다간 ‘이 병’ 직행한다&nbsp;&nbsp;매일경제몸속 염증을 줄이는 음식, 건강은 매일의 식탁에서 시작된다&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zaHJsbnh2a2xsU2JIMXAzMmhiRTVSYjVtZG5XWlpIVXc3NWN2UjRCNzB5MURybUVKUnI1d0lsZDl1MWxFeHVFdUNzS21pbHlJcXRtTnJkZm5vRl95Wk43dm81bDFHU2RLbEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea738c6b6e66",
-      "title": "[칼럼]넘어지기 전에 잡아야 할 ‘속근’ - 경인신문",
-      "published": "2026-07-07T01:57:25+00:00",
-      "summary": "[칼럼]넘어지기 전에 잡아야 할 ‘속근’&nbsp;&nbsp;경인신문“왜 자꾸 다리가 약해질까”&nbsp;&nbsp;이투데이\"늙은 근육도 다시 젊어져\"…운동하면 진짜 노화 되돌려, 어떻게?&nbsp;&nbsp;네이트노년층 근육 지키는 데 ‘짧고 강한’ 운동이 답&nbsp;&nbsp;헬스조선대한근감소증학회 - 질병코드 등재로 시작해 기능적 근감소증을 정립하며, ‘건강 수명 연장’이라는 시대적 과제에 해답을 제시하다&nbsp;&nbsp;월간인물",
-      "sources": [
-        {
-          "name": "경인신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZVGZ5RHRyUXd3akJzOFJkbnZIc21VMzU4bFY4a3NSOHFodXBrV2NqSndELWx5UVNVQXcyaWp5TEZLUVItMnZ5c3pnM0ZEbVJMRUFTeGZQNkt1MnNlckRCVHVhTndpdlU?oc=5"
         }
       ]
     },
@@ -462,18 +474,6 @@
       ]
     },
     {
-      "id": "217fd72c0fd9",
-      "title": "하띤에서 발생한 뎅기열 유행은 3개월이 지났지만 여전히 통제되지 않고 있습니다 - Laodong.vn",
-      "published": "2026-07-06T10:33:50+00:00",
-      "summary": "하띤에서 발생한 뎅기열 유행은 3개월이 지났지만 여전히 통제되지 않고 있습니다&nbsp;&nbsp;Laodong.vn베트남·방글라데시 등 뎅기열 확산…감염 주의&nbsp;&nbsp;YTN방글라데시, 홍역 이어 뎅기열도 급속 확산…18명 사망&nbsp;&nbsp;연합뉴스TV뎅기열 환자가 증가하고 있으므로 노인과 기저질환이 있는 사람들은 예방 조치를 취해야 합니다.&nbsp;&nbsp;Vietnam.vn뎅기열 증상이 악화되어 여성 환자가 위독한 상태입니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPengtbkU4UlJiOWcwV1BMN1lRWXc1NVozdnp2TXk4TEN5SU9fQ1AtNTFsakFmVGxjOElteU5lbndaOXZJaGY4TTR6LUhvMXQya1BrbWpBd213UE1XNG9RSHZKTVZVWW52NV8xdTJUc05fY0huWEdVa2JudW54aFRiUlpEVDluclE1TzVXbWpnYkdlOXZ5cTkyRnFXWVB5elktZl9DZDhTTmN5TTBtZUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "810e1c05519b",
       "title": "누구나 ‘암기왕’ 될 수 있다?…기억력 챔피언 뇌 촬영해 보니 - 한겨레",
       "published": "2026-07-06T10:27:00+00:00",
@@ -486,18 +486,6 @@
       ]
     },
     {
-      "id": "642c2540c6aa",
-      "title": "알츠하이머병, '핵사멸' 발견으로 치료 패러다임 바뀔까 - 바이오타임즈",
-      "published": "2026-07-06T08:04:51+00:00",
-      "summary": "알츠하이머병, '핵사멸' 발견으로 치료 패러다임 바뀔까&nbsp;&nbsp;바이오타임즈치매 원인 물질이 치료 ‘스위치’를 켠다​&nbsp;&nbsp;BRIC“치매 원인 물질을 치료 신호로”…KAIST, 알츠하이머 전구약물 개발&nbsp;&nbsp;아시아투데이치매 악화 물질이 '치료 스위치'로…병든 뇌에서 켜지는 치료제&nbsp;&nbsp;v.daum.net\"'치매 원인 물질' 알고 보니 치료 시작의 '스위치'\"&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iUEp5TE56Nml2Y0xGUWlteHd4eEJNQmtSMS1wbnVCNEtLbkd0dkRNaDNJMXJ1aHRHYXlObFE1WDE0Uk4ycWtQQ1doSy16dDllWWtDUkF0cjQ0NlJZek92SHNUSWlzczRyN2V4bg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aed4ff578953",
       "title": "[사이언스샷] 우주의 돌사진 찍었다, 태양보다 1조배 밝은 퀘이사 발견 - 조선비즈 - Chosunbiz",
       "published": "2026-07-06T07:59:00+00:00",
@@ -506,6 +494,18 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3E5Y0J1cGcydXFZNVp5V2Nybjh4b0gyVG95UGlQQlN0d2NlRzFCc2FIMDIxRkNON2xWWXpwY3N3M1JtNXZmVE1DQmExS3RNUjZ1c3pYMnZnd0pISzhtTE5yTW1kc002WDlUUDF2NHBISnBBeFNsRm9jVEMtM3QyVURXMWV2bkRXa1NwVNIBoAFBVV95cUxNT3V4SUhIUjFscWoyVl9zSEttWmpDb0xsSzJzVW8wRXNDMTh4ZHZLb2hPYlJ1ZUNlODVyOFRIZ0FEenN5R3Y3WlRzUDFTTE5FN0t4cThYdnhpdkZUcEdrTnFoX2h2ZFRDQlRBTGI2OEx0akZWRWVYT3JRaF9SV3NlYWFnZ3JUUU9mTDRXZjBRdzNJZGczbjlTQW9ycUpFd2t3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "76ab9c3ccb45",
+      "title": "노벨화학상 석학도 중국행… 야기 교수, 칭화대서 AI 소재 연구 지휘 - 조선일보",
+      "published": "2026-07-06T04:57:23+00:00",
+      "summary": "노벨화학상 석학도 중국행… 야기 교수, 칭화대서 AI 소재 연구 지휘&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYTF1X3M0UUFxU0RFa3R1dVlRNjcyV1NfWjYyalBlckNTbHJXY1ZiUC1aemNfTk52WllZaGpreDIxMklIaDNRMU9iTy1KVUtzUlBwZFhmOXprd0J5Vi1qOFhJZHo3MzdneHB3eG85UHhHUzQ5YU1CODk2M011SWVJSElEVk1kS1ozMVV3bmRHMmJ6ODctY2pUVnQ0OGhJUQ?oc=5"
         }
       ]
     }
