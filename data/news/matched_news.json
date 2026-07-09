@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-07-09T15:16:04.685850+00:00",
-  "total_count": 57,
+  "last_updated": "2026-07-09T19:50:02.068537+00:00",
+  "total_count": 55,
   "matched_count": 0,
   "news": [
     {
-      "id": "ec24b254736c",
-      "title": "파지 요법, 염증성 장질환(IBD) 염증↓…스테로이드 효과↑",
+      "id": "60e744d521ca",
+      "title": "암 치료비 양극화에 가계 보건 지출 폭발… '소득이 생존 가른다'",
+      "published": "2026-07-09T18:25:00+00:00",
+      "summary": "암 치료비 양극화에 가계 보건 지출 폭발… '소득이 생존 가른다'&nbsp;&nbsp;글로벌이코노믹5명 중 1명 평생 암 진단…WHO “2050년엔 연 3500만 건” [노화설계]&nbsp;&nbsp;v.daum.net“전세계 인구 92% 癌 영향권…2050년 신규 환자 3500만명 급증”&nbsp;&nbsp;매일경제5명 중 1명 암 걸리고 가족까지 92% 영향권…WHO, 암 발생 급증 경고&nbsp;&nbsp;헤럴드경제세계 덮칠 ‘암 쓰나미’ 경고&nbsp;&nbsp;캐나다 한국일보",
+      "sources": [
+        {
+          "name": "글로벌이코노믹",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMG1QalJHT0l5UnZUSlZiY19mdGVMV0ptbXkwVFhkSzNqNGxLMXd4eUdhZW1kdkdOY0ZZd0h0UWt6ZHhjMnNMRHFGV2tPNEVLcHcxUExCbVh4TVVXS2xJWmRyTm5Td0ZOSUxVSi1HRHI0QWVuS3FBY2NzbTY1aHJ2S1N1ZlE2enlj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6a148ff64ea4",
+      "title": "크론병 원인균 '무장해제'…박테리오파지 신개념 치료법",
       "published": "2026-07-09T12:07:00+00:00",
-      "summary": "파지 요법, 염증성 장질환(IBD) 염증↓…스테로이드 효과↑&nbsp;&nbsp;바이오북미디어",
+      "summary": "크론병 원인균 '무장해제'…박테리오파지 신개념 치료법&nbsp;&nbsp;바이오북미디어",
       "sources": [
         {
           "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kbFRDSXpMVnVUTzIxOV9BUWx3UzY4NXI3cURzdVM1VmFHUGN6Vk5Qa2Y4bktCOHp5M2RiRTd3cDV0WUQxdFNqbFZwVmpZMFR4clJteTB4RmFpeUNMOWJtOU1GTTBERlRhY0lYZGp3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RX1pDZ3ZQLWZDNUpTZ3hBMzNWU1FKeXFsTDFkX3ROZEY0akVmTUZnc25UMHotXzdPTkQ2RkItOFY5Tmt4WVRkNk5sUVdrdjZrNjZCYWNZbm1zaGZRUmgyUTBYX2JScmtTaWhSRWdn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -25,6 +38,19 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QQ2dLSDFvX3V2OWt5QV9lMjBkbHhYUTk1YUF2a05lcXYtOWdoanlTV0didkZ5R2VZNm1OTDVVSjBsOExIdEtUc21KdHE3dndEcXVRZzFvU1ZjSmtUQTRtMFl1SnU2ZGhyQUh5NG5Rc1NJQjd1QnQwQ3h1Q2JBVTA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6c0589d1f79f",
+      "title": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모",
+      "published": "2026-07-09T09:55:27+00:00",
+      "summary": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모&nbsp;&nbsp;AI타임스",
+      "sources": [
+        {
+          "name": "AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LaHBZTVNHV2N4dWFwVTBCZmZmZWhveF9ZMXp4WUZkR1dHa3NEQm1FNklIaEhMaXd4dUs4ZW9WX1ZfbEhET3g0eEZxOWNIYVp1Tm15QkF5NTM0ZW5VU0syRUp6RzA2TTNucFE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,19 +147,6 @@
       "matched_keywords": []
     },
     {
-      "id": "99a446f9d1e7",
-      "title": "WHO \"2050년 암 환자 3500만명 육박\"⋯예방 가능한 암이 40% 달해",
-      "published": "2026-07-09T06:02:03+00:00",
-      "summary": "WHO \"2050년 암 환자 3500만명 육박\"⋯예방 가능한 암이 40% 달해&nbsp;&nbsp;포커스온경제5명 중 1명 평생 암 진단…WHO “2050년엔 연 3500만 건” [노화설계]&nbsp;&nbsp;v.daum.net“전세계 인구 92% 癌 영향권…2050년 신규 환자 3500만명 급증”&nbsp;&nbsp;매일경제5명 중 1명 암 걸리고 가족까지 92% 영향권…WHO, 암 발생 급증 경고&nbsp;&nbsp;헤럴드경제세계 덮칠 ‘암 쓰나미’ 경고&nbsp;&nbsp;캐나다 한국일보",
-      "sources": [
-        {
-          "name": "포커스온경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rMjNXTFRCUnRhdmRRZGJ2SE1YOGQ3RUM1b0J4NU5LRmJfU01IZktXcHItSjY0aEp3Z09Ka3I5OUhVNWRCdUg3aEJJbkVpUTJNMjFBd2tjeE5sNzc5eXVVLQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "2a0463f9b2a3",
       "title": "◆ 유행성 각결막염 유행 알림 및 예방수칙",
       "published": "2026-07-09T05:47:56+00:00",
@@ -189,24 +202,11 @@
       "id": "b8f1d7408783",
       "title": "북한 “수박 여름철 건강을 유지하는데 도움을 주는 식품”",
       "published": "2026-07-09T02:37:07+00:00",
-      "summary": "북한 “수박 여름철 건강을 유지하는데 도움을 주는 식품”&nbsp;&nbsp;NK경제수박 많이 먹으면 대장암 위험 26% 낮아진다? 알고보니 [건강!톡]&nbsp;&nbsp;한국경제수박은 심혈관 건강에 도움이 되지만, 잘못 먹으면 해로울 수 있습니다.&nbsp;&nbsp;Vietnam.vn“대장암 26%↓” 수박 많이 먹었더니…106만명의 진실&nbsp;&nbsp;v.daum.net수박 많이 먹으니까 대장암 위험 낮아지네?&nbsp;&nbsp;K-Life TV",
+      "summary": "북한 “수박 여름철 건강을 유지하는데 도움을 주는 식품”&nbsp;&nbsp;NK경제수박 많이 먹으면 대장암 위험 26% 낮아진다? 알고보니 [건강!톡]&nbsp;&nbsp;한국경제수박은 심혈관 건강에 도움이 되지만, 잘못 먹으면 해로울 수 있습니다.&nbsp;&nbsp;Vietnam.vn과일·채소 먹으면 사망 위험 감소&nbsp;&nbsp;시사주간“대장암 26%↓” 수박 많이 먹었더니…106만명의 진실&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "NK경제",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96WmNfYTBDWUJqRWRGTllSODhHeUk1RzY3OWZZNzVuM0twQ3lianVuS2FQTk5UeGUteU96dTRSbWZjUEhEamltbm0zNGxzRnBzazhyNFZUMjRZZlI5REhJWFlVN2lVWVlBQ2pn0gFuQVVfeXFMTW1HY3lJYU1neThJMDNDV1NSTUYyZjNId3lobmdZaXBaYlRYcWdtai1PRVBIUEZvWWx6TnpZOV96ZDFiU3poZWlTVlhBdWlwYnAxWHkyTnBkallxY0p0WHE3bkFfQ0RYbDJPakY3WVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5aeac16c4150",
-      "title": "요거트 즐겨 먹었더니, 대장암 위험 ‘뚝’",
-      "published": "2026-07-09T02:30:00+00:00",
-      "summary": "요거트 즐겨 먹었더니, 대장암 위험 ‘뚝’&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wX3YzdmZIbzl6NHQzZG5JcncxanJaSjB0WjBfY1NpQkJwd2FtM2JnX0JtZjNFcENiTmtYSEpvYXZ0Qy1JSkREamxob29kdUpZSTBOSGZRM2pDaFRQV3k1UGdoblB6aXlENEdLNlpCWnNrYWpOUk90N2RyR0VObVk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -368,19 +368,6 @@
       "matched_keywords": []
     },
     {
-      "id": "4280a6e03ceb",
-      "title": "“임신 9개월처럼 배 부풀어”…33세女 결국 ‘이 암’ 진단, 무슨 일?",
-      "published": "2026-07-08T21:04:00+00:00",
-      "summary": "“임신 9개월처럼 배 부풀어”…33세女 결국 ‘이 암’ 진단, 무슨 일?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MWGx1bTVPOE1lcjFBUHZ1OGFhSElkTGpjVUc4YWJIb19HOE14RDM0dTZuTVIwbVV5dWdKR0lIQ05yQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "4221af0f5c87",
       "title": "작년 치료재료 청구액 6조6949억원…고령층·중재시술이 증가세 견인",
       "published": "2026-07-08T21:02:00+00:00",
@@ -423,7 +410,7 @@
       "id": "6fa8760a9602",
       "title": "“혈압 뚝 떨어진다” 오늘부터 먹어야 할 과일 4가지",
       "published": "2026-07-08T20:00:00+00:00",
-      "summary": "“혈압 뚝 떨어진다” 오늘부터 먹어야 할 과일 4가지&nbsp;&nbsp;헬스조선“혈압 낮추는 효과 탁월”… 심장 전문의 매일 먹는다는 ‘4가지 채소’&nbsp;&nbsp;헬스조선",
+      "summary": "“혈압 뚝 떨어진다” 오늘부터 먹어야 할 과일 4가지&nbsp;&nbsp;헬스조선\"병원 갈 일 줄어든다\"… 심장 보는 의사가 '매일 먹으라' 권한 과일은?&nbsp;&nbsp;헬스조선“혈압 낮추는 효과 탁월”… 심장 전문의 매일 먹는다는 ‘4가지 채소’&nbsp;&nbsp;헬스조선‘이 과일’ 하루 한 컵, 딱딱한 혈관 부드러워진다&nbsp;&nbsp;헬스조선“식이섬유·칼륨 풍부” 영양사가 추천한 과일은?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -566,7 +553,7 @@
       "id": "45d49c938186",
       "title": "미국인 1%만 받는 이 검사가 심장마비를 막아준다",
       "published": "2026-07-08T05:39:55+00:00",
-      "summary": "미국인 1%만 받는 이 검사가 심장마비를 막아준다&nbsp;&nbsp;시애틀코리안데일리",
+      "summary": "미국인 1%만 받는 이 검사가 심장마비를 막아준다&nbsp;&nbsp;시애틀코리안데일리콜레스테롤 수치, 정상이면 괜찮을까요?: 숫자가 아닌 위험도로 읽는 법&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
           "name": "시애틀코리안데일리",
@@ -602,19 +589,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d1496b9ac4a9",
-      "title": "[건강 칼럼 7] 뇌를 깨우는 작은 습관…치매 예방은 일상에서 시작된다",
-      "published": "2026-07-08T01:38:06+00:00",
-      "summary": "[건강 칼럼 7] 뇌를 깨우는 작은 습관…치매 예방은 일상에서 시작된다&nbsp;&nbsp;뉴스N연합치매 막긴커녕 뇌손상 된다? 뇌 자극한다던 ‘고스톱의 배신’&nbsp;&nbsp;중앙일보치매 예방, ‘정보 더 주는 것’보다 ‘실천하게 하는 것’이 중요&nbsp;&nbsp;헬스조선[한광식 칼럼] 생활습관으로 지키는 ‘뇌 건강’&nbsp;&nbsp;한국강사신문“기억력은 50대 수준이었다” 치매 걸린 80대 노인의 비밀&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04ZmV3SnF1MXh6Nl9wa3JLMjR6Y1NyQ2pfM085dFItS2dlN09GZ1ZyWWo3NWRIR2M5NXpZTUpZa053aU04ZTdnU05R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "899bd6547dfc",
       "title": "“커피 많이 마시면 잠 못 잔다?”…3만명 연구의 뜻밖의 결론",
       "published": "2026-07-08T01:36:57+00:00",
@@ -623,6 +597,19 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UNndjOWFXWFRWYllXbFVxZ2xSYzJBUHFFR0xDdkJ3VHJLdHRfSTRic0lFZDNvS1E0ZHRfcHVoSGtJQTY2YWsyVUo1LUUwUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "86de097c0f5f",
+      "title": "[건강 칼럼 7] 뇌를 깨우는 작은 습관…치매 예방은 일상에서 시작된다",
+      "published": "2026-07-08T01:28:07+00:00",
+      "summary": "[건강 칼럼 7] 뇌를 깨우는 작은 습관…치매 예방은 일상에서 시작된다&nbsp;&nbsp;한국AI부동산신문묵인희 교수 \"치매, 약보다 식단…허벅지 1cm=노후 10억\"[한판승부]&nbsp;&nbsp;v.daum.net“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트\"알츠하이머 위험 신호 있어도 효과\"…치매 위험 낮춘 '이 식단'&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vajNFb1NNRTBhZFMyejFFSTgxY0dyZzFNSzdocDRfQ0lhdi1kYnJDc1RlQ3kzN3dpeXBuT3hEVGU0SnVVZTRVNkw0S18?oc=5"
         }
       ],
       "matched_keywords": []
@@ -662,19 +649,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oNVBlRm0zS0d3VWR4dEJ6N09rbHlETEZ1WE5GUnk0T0FhYldwWXlXMXZHTHc4TlExZFhSM1RKOUM4VFQ2NXlHX1Rmc3JVbnZRaTViWU5n?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a3f471f0a721",
-      "title": "묵인희 교수 \"치매, 약보다 식단…허벅지 1cm=노후 10억\"[한판승부]",
-      "published": "2026-07-07T22:32:00+00:00",
-      "summary": "묵인희 교수 \"치매, 약보다 식단…허벅지 1cm=노후 10억\"[한판승부]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxUTBVUjJxR3RZVjFZczc2cnVxc2pyWXN2MVRjMnV1WXlCRFJrWm9WQkY3OHFXNmxfSzk5dzFNY2tmQzIteVp0bWMxS2pkWFpRNkFF?oc=5"
         }
       ],
       "matched_keywords": []
