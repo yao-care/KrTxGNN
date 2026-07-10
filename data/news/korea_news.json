@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-10T14:33:36.918837+00:00",
-  "total_fetched": 93,
-  "unique_count": 93,
-  "health_related_count": 50,
+  "fetched_at": "2026-07-10T19:36:58.185625+00:00",
+  "total_fetched": 92,
+  "unique_count": 92,
+  "health_related_count": 48,
   "news": [
+    {
+      "id": "a8fff529919a",
+      "title": "[메디컬 인사이트 144회] 진행성·재발성 난소암의 최신 치료법 - 네이트",
+      "published": "2026-07-10T13:29:00+00:00",
+      "summary": "[메디컬 인사이트 144회] 진행성·재발성 난소암의 최신 치료법&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1waXFzZlhCVF80Uktlc1pnbVlNWThsdHZtYmFORXVxQUZmZUhTa2JrRUNWRWgzTmZNOVdkYml2TXdaNXh5LU5mNzBsR2xPSlpGcWlz?oc=5"
+        }
+      ]
+    },
     {
       "id": "876ecf0e715f",
       "title": "“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④ - 하이닥",
@@ -54,14 +66,14 @@
       ]
     },
     {
-      "id": "da9b6fe560a1",
-      "title": "\"몸속 염증 싹 사라진다\"…약사가 강력 추천한 음식 5가지 - 네이트",
-      "published": "2026-07-10T07:50:09+00:00",
-      "summary": "\"몸속 염증 싹 사라진다\"…약사가 강력 추천한 음식 5가지&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "b76374ac62d5",
+      "title": "“몸속 염증 싹 사라진다”… 약사가 강력 추천한 음식 5가지 - 코메디닷컴",
+      "published": "2026-07-10T07:48:00+00:00",
+      "summary": "“몸속 염증 싹 사라진다”… 약사가 강력 추천한 음식 5가지&nbsp;&nbsp;코메디닷컴“만성염증 삭제 음식”… 영양사가 추천한 세 가지, 뭘까?&nbsp;&nbsp;헬스조선\"몸속 염증 싹 사라진다\"…약사가 강력 추천한 음식 5가지&nbsp;&nbsp;네이트치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제신문몸속 염증을 줄이는 음식, 건강은 매일의 식탁에서 시작된다&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94ZEk5MGxweExiemtqRldWeEw2TDJuUVNJRVQzbHJhVGJROTVDNDlSMHR2eVZJM2k3SzBtRFBJVDNLTnY3eEpaNHpOeXVFMUYzZkFrTXN3?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43d05QMFRPQk90bDgtblV6Y29HclNvZGRUTFhzU0owcXhwcmxndGZrZTdIR2pJUmNCS29USTNEY1ZMUQ?oc=5"
         }
       ]
     },
@@ -162,18 +174,6 @@
       ]
     },
     {
-      "id": "a4c9170e68bf",
-      "title": "서울대병원, 심방세동 펄스장 절제술 300례 달성 - 라포르시안",
-      "published": "2026-07-10T02:11:19+00:00",
-      "summary": "서울대병원, 심방세동 펄스장 절제술 300례 달성&nbsp;&nbsp;라포르시안서울대병원, 심방세동 펄스장 절제술 300례 달성 \"안전성도 입증\"&nbsp;&nbsp;v.daum.net\"이유 없이 두근두근\"…반복된다면 '이 질환' 의심&nbsp;&nbsp;뉴시스\"합병증 제로\" 서울대병원, 차세대 부정맥 시술 300례&nbsp;&nbsp;데일리안건강칼럼-여름철 폭염에 급성 심근경색 주의를&nbsp;&nbsp;경남도민신문",
-      "sources": [
-        {
-          "name": "라포르시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qODJmekNHb09vYlQ0RXBwRlEtc0EtODNVR21BOUlBYUdUZWh3QTdDMGZJQjdHalh0OUw5S2YtQ004cWJBWWlYaG05VDdnUm5XNHU5WlQwWUhjVEtqOG5wVVk2dnhnZ2JCbk5hMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5d1fa765232e",
       "title": "“암에는 ‘특효약’ 없어요. 몸의 신호를 빨리 파악하는 수밖에…” - 코메디닷컴",
       "published": "2026-07-10T02:08:00+00:00",
@@ -225,7 +225,7 @@
       "id": "b482ff2674cf",
       "title": "80대 ‘슈퍼 무버’의 비밀…“빨리 걷는 노인, 인지기능 더 오래 유지” - 동아일보",
       "published": "2026-07-09T23:35:23+00:00",
-      "summary": "80대 ‘슈퍼 무버’의 비밀…“빨리 걷는 노인, 인지기능 더 오래 유지”&nbsp;&nbsp;동아일보나이 들수록 빨리 빨리 걸어야 되는 이유…'슈퍼 무버' 깜짝 효과 - 머니투데이&nbsp;&nbsp;머니투데이빨리 걷는 80대, 치매 덜 걸린다&nbsp;&nbsp;헬스조선걷기에 있어서 '황금 걸음 수'는 노년층에게 중요합니다.&nbsp;&nbsp;Vietnam.vn80대에 '이렇게' 걷는 사람들…인지장애 위험 낮았다&nbsp;&nbsp;네이트",
+      "summary": "80대 ‘슈퍼 무버’의 비밀…“빨리 걷는 노인, 인지기능 더 오래 유지”&nbsp;&nbsp;동아일보나이 들수록 빨리 빨리 걸어야 되는 이유…'슈퍼 무버' 깜짝 효과 - 머니투데이&nbsp;&nbsp;머니투데이빨리 걷는 80대, 치매 덜 걸린다&nbsp;&nbsp;헬스조선걷기에 있어서 '황금 걸음 수'는 노년층에게 중요합니다.&nbsp;&nbsp;Vietnam.vn80대에도 걸음 빠른 사람, 인지 저하 위험 또래의 ‘절반’ [노화설계]&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "동아일보",
@@ -270,6 +270,18 @@
       ]
     },
     {
+      "id": "585805285f07",
+      "title": "부모 배경이 학벌 되는 사회…40년간 쌓인 유럽 데이터 분석했더니 뜻밖의 답 나왔다 [후암동 논문 연구소] - v.daum.net",
+      "published": "2026-07-09T11:12:14+00:00",
+      "summary": "부모 배경이 학벌 되는 사회…40년간 쌓인 유럽 데이터 분석했더니 뜻밖의 답 나왔다 [후암동 논문 연구소]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WSFBudklXc0JJZnVXNTcwVkRfb0JLdzJHemVaYmF6UHhGM2ZVZllYbk40eEpyQVNXRDdsWFJrRUNuYTFYOHhadGNFWE1WaGs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6f3e51944a66",
       "title": "사춘기인 줄 알았는데 갑상선암이었다… 10대 소녀가 보인 증상은? - 헬스조선",
       "published": "2026-07-09T11:00:00+00:00",
@@ -297,7 +309,7 @@
       "id": "be291df603b6",
       "title": "“무리한 운동도 안 했는데”…44세男, 근육 녹고 콩팥 망가진 까닭은? - 코메디닷컴",
       "published": "2026-07-09T09:01:00+00:00",
-      "summary": "“무리한 운동도 안 했는데”…44세男, 근육 녹고 콩팥 망가진 까닭은?&nbsp;&nbsp;코메디닷컴한 젊은 남성이 헬스장에서 과로로 인해 위험한 증후군으로 예기치 않게 입원했습니다.&nbsp;&nbsp;Vietnam.vn스포츠를 하는 사람들 사이에는 치명적인 질병이 도사리고 있다.&nbsp;&nbsp;Vietnam.vn한 젊은 남성이 헬스장에서 과도한 운동을 하다가 횡문근융해증으로 병원에 입원했습니다.&nbsp;&nbsp;Vietnam.vn매일 1~2시간씩 헬스장에서 운동하던 31세 남성 엔지니어가 횡문근융해증으로 입원했다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "“무리한 운동도 안 했는데”…44세男, 근육 녹고 콩팥 망가진 까닭은?&nbsp;&nbsp;코메디닷컴스포츠를 하는 사람들 사이에는 치명적인 질병이 도사리고 있다.&nbsp;&nbsp;Vietnam.vn한 젊은 남성이 헬스장에서 과도한 운동을 하다가 횡문근융해증으로 병원에 입원했습니다.&nbsp;&nbsp;Vietnam.vn매일 1~2시간씩 헬스장에서 운동하던 31세 남성 엔지니어가 횡문근융해증으로 입원했다.&nbsp;&nbsp;Vietnam.vn31세 남성이 헬스장에서 과도한 운동으로 신장 손상 직전까지 가는 부상을 입고 응급실로 실려 갔다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -381,7 +393,7 @@
       "id": "cb5a3fc02315",
       "title": "“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다 - 하이닥",
       "published": "2026-07-09T02:00:00+00:00",
-      "summary": "“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다&nbsp;&nbsp;하이닥계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn수포가 사라진 뒤 시작되는 지옥? 대상포진 합병증의 위험성과 만성 통증&nbsp;&nbsp;한국AI부동산신문대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심&nbsp;&nbsp;스포츠경향RSV와 대상포진은 만성 호흡기 질환 환자의 합병증 위험을 증가시킵니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다&nbsp;&nbsp;하이닥수포가 사라진 뒤 시작되는 지옥? 대상포진 합병증의 위험성과 만성 통증&nbsp;&nbsp;한국AI부동산신문계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn대상포진, 치료 골든타임 놓치면 만성신경통 위험…72시간 내 치료가 핵심&nbsp;&nbsp;스포츠경향만성 호흡기 질환 환자들은 RSV와 대상포진이라는 '이중고'에 직면합니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "하이닥",
@@ -390,26 +402,26 @@
       ]
     },
     {
-      "id": "f956d530a9b2",
-      "title": "갱년기 호르몬 치료, 언제 어떻게 시작해야 할까? [건강 올레길] - sports.donga.com",
+      "id": "f0fba761329e",
+      "title": "갱년기 호르몬 치료, 언제 어떻게 시작해야 할까? [건강 올레길] - 스포츠동아",
       "published": "2026-07-09T01:59:33+00:00",
-      "summary": "갱년기 호르몬 치료, 언제 어떻게 시작해야 할까? [건강 올레길]&nbsp;&nbsp;sports.donga.com“여성 갱년기 장애 안면홍조는 시작일 뿐”[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;v.daum.net",
+      "summary": "갱년기 호르몬 치료, 언제 어떻게 시작해야 할까? [건강 올레길]&nbsp;&nbsp;스포츠동아“여성 갱년기 장애 안면홍조는 시작일 뿐”[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "sports.donga.com",
+          "name": "스포츠동아",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41d0J6YjFIb2VKYnF3b20xcUotNHJ0Nm9JSHlFOGFPaUlkMjZSdUpod2hrTWoxRjJpdTFQXzNtT29tdkxpZXJSQlVNWlZkV2RLRkM0UkZaR0pHc05nMjlXSTV4NXVDaC1UZEkzU3lwSQ?oc=5"
         }
       ]
     },
     {
-      "id": "1dcee399e5c5",
-      "title": "CAR-T 치료 '사이토카인 폭풍'…웨어러블로 7시간 먼저 잡는다 - 바이오북미디어",
+      "id": "6d47c190c0f0",
+      "title": "\"CAR-T 부작용 7시간 먼저 예측\"…웨어러블로 안전성↑ - 바이오북미디어",
       "published": "2026-07-09T01:07:00+00:00",
-      "summary": "CAR-T 치료 '사이토카인 폭풍'…웨어러블로 7시간 먼저 잡는다&nbsp;&nbsp;바이오북미디어",
+      "summary": "\"CAR-T 부작용 7시간 먼저 예측\"…웨어러블로 안전성↑&nbsp;&nbsp;바이오북미디어",
       "sources": [
         {
           "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZUVjMzllUGFBTEdPRU05M1ViQXg2cmtaYmlPX2V1YWhlb3dReDAyczZLdU5KTmx4VV9VSlZVMkp5MFlUUFEzOTgwOHZjSlA4dzIyUVdTZkFNb1lVd3I3OHRsUGZick5ZX3JiT3FB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KeUJCUFh6VnlwOEpuV3owYkh4RmVrSVFQblNPZ0xaRTNSNjUtRV9VZTFzeUZ5TzZCSWFRREZQaUNNUkVYeUhraEZqOV9rbFdma0k2V242QnhQdG1ENEstZEJSN0tZTkJjQUxtUVln?oc=5"
         }
       ]
     },
@@ -438,22 +450,10 @@
       ]
     },
     {
-      "id": "505896375ad1",
-      "title": "2030세대 HPV 접종 완료율 23.3% 그쳐…\"남성 무료접종 확대 논의 필요\" - 뉴스핌",
-      "published": "2026-07-08T23:26:00+00:00",
-      "summary": "2030세대 HPV 접종 완료율 23.3% 그쳐…\"남성 무료접종 확대 논의 필요\"&nbsp;&nbsp;뉴스핌2030 4명 중 3명 “HPV 예방접종 알지만 안 맞아”&nbsp;&nbsp;한겨레'전국 첫 남성 포함' 영광군, 청년 자궁경부암 무료 접종&nbsp;&nbsp;뉴시스2030세대 HPV 접종 완료율 23%…미접종 이유 1위 \"비싸서\"&nbsp;&nbsp;이데일리정부는 4가 지원, 부모는 9가 선택…HPV 백신 '엇박자'&nbsp;&nbsp;한스경제",
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4VDdvckIweUZKYy1wa1h1UnJZQ2JCazZ0TTA3RGxlZmw1RHo2Tk1GaHZGN2JaYWxXX2Z3U1BFTXdBWTlpOFFhSWR1aGo5cnoyY1VwU2toYzdOUUlS?oc=5"
-        }
-      ]
-    },
-    {
       "id": "59712c8feb90",
       "title": "하노이 뎅기열·수족구 급증… 교민사회 '초기 증상 오인' 주의해야(Sharp Surge in Dengue and HFMD Cases in Hanoi: Korean Community Warned Not to Misinterpret Early Symptoms) - 글로벌휴먼타임즈",
       "published": "2026-07-08T22:48:36+00:00",
-      "summary": "하노이 뎅기열·수족구 급증… 교민사회 '초기 증상 오인' 주의해야(Sharp Surge in Dengue and HFMD Cases in Hanoi: Korean Community Warned Not to Misinterpret Early Symptoms)&nbsp;&nbsp;글로벌휴먼타임즈베트남·방글라데시 등 뎅기열 확산…감염 주의&nbsp;&nbsp;YTN하노이에 사는 69세 여성이 뎅기열 증세를 나흘 동안 앓다가 응급 투석을 받아야 했습니다.&nbsp;&nbsp;Vietnam.vn이 백신은 뎅기열로 인한 입원 위험을 90% 이상 줄이는 데 도움이 됩니다.&nbsp;&nbsp;Vietnam.vn뎅기열 환자가 증가하고 있으므로 노인과 기저질환이 있는 사람들은 예방 조치를 취해야 합니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "하노이 뎅기열·수족구 급증… 교민사회 '초기 증상 오인' 주의해야(Sharp Surge in Dengue and HFMD Cases in Hanoi: Korean Community Warned Not to Misinterpret Early Symptoms)&nbsp;&nbsp;글로벌휴먼타임즈베트남·방글라데시 등 뎅기열 확산…감염 주의&nbsp;&nbsp;YTN건강 정보: 뎅기열이 유행하는 시기입니다. 예방법은 무엇일까요?&nbsp;&nbsp;Vietnam.vn뎅기열 증상이 악화되어 여성 환자가 위독한 상태입니다.&nbsp;&nbsp;Vietnam.vn이 백신은 뎅기열로 인한 입원 위험을 90% 이상 줄이는 데 도움이 됩니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "글로벌휴먼타임즈",
@@ -570,18 +570,6 @@
       ]
     },
     {
-      "id": "814a8438af76",
-      "title": "수술 없이 61kg 뺀 여성, 예상치 못 한 ‘문제’ 발생… 무슨 일? - 헬스조선",
-      "published": "2026-07-08T15:30:00+00:00",
-      "summary": "수술 없이 61kg 뺀 여성, 예상치 못 한 ‘문제’ 발생… 무슨 일?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kaFctVVJBN1RObWE4eXR6dTB5NDZvS2RhTGphNmFHdWtvYWhNaFB2VXp4Qk5WMHM0YW12QzhvRFE3dWFwM21XNHpSLXQzdmlSTC1DdUtDdUVUeG5sZjRSb3N1SU1oQVRjaTlneXRfdW8xNTYyM3VLb2RuWHFISzA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "899bd6547dfc",
       "title": "“커피 많이 마시면 잠 못 잔다?”…3만명 연구의 뜻밖의 결론 - 매일경제",
       "published": "2026-07-08T01:36:57+00:00",
@@ -590,18 +578,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UNndjOWFXWFRWYllXbFVxZ2xSYzJBUHFFR0xDdkJ3VHJLdHRfSTRic0lFZDNvS1E0ZHRfcHVoSGtJQTY2YWsyVUo1LUUwUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ace8e6eb3fd1",
-      "title": "그래도 과학이 좋다는 젊은이들 \"우리가 연구실 계속 지키는 이유는…\" - 한국일보",
-      "published": "2026-07-07T19:30:00+00:00",
-      "summary": "그래도 과학이 좋다는 젊은이들 \"우리가 연구실 계속 지키는 이유는…\"&nbsp;&nbsp;한국일보",
-      "sources": [
-        {
-          "name": "한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtcHU3RlVBMHlnaV9HS055ck83Nkk1aHB4VHYxcW9GZ3ZVTzhvUUJhdDMtQkdWQ25CVFlzSVd4MlVjV0F6SWhjdTVZeVVQWUxkNGRoaTdsTG1qTEM1RnphendpNVdjMERWS0NXM0FB0gFzQVVfeXFMT2hOdHNqay1Wem1HOWNfRlFUT0V4N05kRW9uSkhUNlVpdEpMQ1I1VFNta1F5c0NJNkk2Z2dLVmI1bFhkMFI5RUdQNVV5OFhtcnp3ak9HdVY3LTFySFhjeWxJUF9wUFYxWTU3MnpmajVKdkFrYw?oc=5"
         }
       ]
     }
