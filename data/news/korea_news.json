@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-11T02:51:51.065496+00:00",
-  "total_fetched": 77,
-  "unique_count": 77,
-  "health_related_count": 37,
+  "fetched_at": "2026-07-11T08:00:20.948058+00:00",
+  "total_fetched": 74,
+  "unique_count": 74,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "a333aa389c93",
+      "title": "소녀 기침 1개월 지속, 의사 희귀 선천적 기형 발견 - Laodong.vn",
+      "published": "2026-07-11T07:09:04+00:00",
+      "summary": "소녀 기침 1개월 지속, 의사 희귀 선천적 기형 발견&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0loN1pMTzFnYlJER1FMb3BwS3k5b3ZKdDZPa2lCc3F2OWZtRzVva2Z5R244cE1JZHRyMXc4VUdYczQyUVRqZGlFUjJkQ3RwcFVJS0JTQjRER1d1cnRjaVRlRWFLaWFSZ3dyNmlIZUpET3BTcW90Mm9Dbjh6Sm5YemVvbzFHRkZrVEZmUE1tejB4TlFCZ1J4TE92ZU1lbkF1eElJR1UzamJVRlhmSUdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "053db22f89c3",
+      "title": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지 - 헬스조선",
+      "published": "2026-07-11T06:00:00+00:00",
+      "summary": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zdGhHZ0VRM0Q0YWZxamZCXzkzd3E2TFl5TmVRWUkycmtnLWJFU0YtS2Y5TTVxUnNMa05QRjgwZDAwRGtRU2hMOGg0REFSSDNNdjNZNG1wYm0xNkxRT0NpXzNIRzJrbDQ5Smh0LW8tUXNpSkRDUWRERFVzRFZxU1U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f961c218d17",
+      "title": "어지럽고 비틀거리는데 괜찮다? 뇌 질환 신호일 수도 - 이데일리",
+      "published": "2026-07-11T05:07:02+00:00",
+      "summary": "어지럽고 비틀거리는데 괜찮다? 뇌 질환 신호일 수도&nbsp;&nbsp;이데일리\"단순 어지럼증인 줄 알았는데\"…뇌졸중·파킨슨병 신호일 수도&nbsp;&nbsp;한국일보'명의' 서재현 교수, 어지럼증 대처 위한 전정재활운동법 소개&nbsp;&nbsp;비즈엔터\"저혈압인 줄 알았는데\"…갑자기 어지러운 이유 따로 있었다&nbsp;&nbsp;뉴시스[명의] 어지럼증, 방치하면 발작으로&nbsp;&nbsp;Queen 이코노미퀸",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRkVSMlJ1Q1ZVLVViY2E0MnBLTnFBU3QtLUlRNEc3OVkxNkdFV1ZTcmtrNlNXTXhUUFBVVThsdVludV9JYTEzbU92U2oxY2JiQ2o4b3lmWDBjMFZTUEVFTkZIOU4tSVN3MUozZjRIS19RS1RxSjdwNG13UHY0TWd2Vg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31649d70f802",
+      "title": "세포 스트레스 속 생존·사멸 가르는 유전자 조절 원리 규명 - 보건신문",
+      "published": "2026-07-11T03:05:28+00:00",
+      "summary": "세포 스트레스 속 생존·사멸 가르는 유전자 조절 원리 규명&nbsp;&nbsp;보건신문세포는 왜 살아남고 왜 죽나… ‘생존·사멸 스위치’ 조절 원리 규명&nbsp;&nbsp;헬스조선스트레스 받은 세포…생존결정 '이 유전자' 규명&nbsp;&nbsp;뉴시스[Medical Report] 세포 운명 가르는 유전자 조절 원리 밝혀 外…AI 기반 만성질환 관리·스마트 의료 혁신 확산&nbsp;&nbsp;헬스케어N'세포 스트레스 속 생존·사멸 가르는 유전자 조절 원리 규명'&nbsp;&nbsp;데일리한국",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tb3dDcWYtMEtGek1ZMTNXWThVNExGbnB2QWNUVFNwdjlNaWFEQm1fTmo3RFR0Vzh2SElLdWd0SkxuaWg4a2ljU3ZDMF9uOTdteXNLSFFST2JnaWkwQ1gzaFRR?oc=5"
+        }
+      ]
+    },
     {
       "id": "3cb315c361f5",
       "title": "여름철 벌레 물림·작은 상처 방치하지 말아야… '연조직염 주의' - 네이트",
@@ -14,6 +62,18 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yYW1KdVFSQlNXZEIzMDNCbkxZNkY1MWJLNkZzZXd2N0JXTTE2cW93XzdWWHhSMFozcWJVNWppMnlRanVDVTk5U3lMcWFnWlE0M0hr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d60dc58c85d",
+      "title": "지방간 있으면 대장암 간 전이 위험 높아진다…생존율도 크게 떨어져 - 약사공론",
+      "published": "2026-07-10T20:49:00+00:00",
+      "summary": "지방간 있으면 대장암 간 전이 위험 높아진다…생존율도 크게 떨어져&nbsp;&nbsp;약사공론“술 한 잔도 못 마시는데”…61세 김미경, 지방간 왜 생겼나&nbsp;&nbsp;v.daum.net지방간 방치하면 '이 암' 더 위험해져…예방법은 무엇?&nbsp;&nbsp;네이트우울증, 지방간 위험도 키운다… 45세 미만 여성서 더 뚜렷&nbsp;&nbsp;국민일보술 안마시는 젊은 여성인데 '지방간'? 원인은 마음속 '이 병'&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vLUVmVHNBcnlFTF9neFA0WDJJT0pBQlFOa29RWGNxM29IeFhjcGdYMjZXQm5yRHpmaEpva2RoWFhOR05mQTQtSzNrVHJBMU4xa3VmZFRNbE1TWU9TLTZUS2cwV1gwX3RPOVFkeA?oc=5"
         }
       ]
     },
@@ -33,11 +93,23 @@
       "id": "876ecf0e715f",
       "title": "“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④ - 하이닥",
       "published": "2026-07-10T12:00:00+00:00",
-      "summary": "“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④&nbsp;&nbsp;하이닥“아버지 치매 80대까지 늦췄다” 정신과 의사 ‘뇌 펌핑’ 비법&nbsp;&nbsp;v.daum.net\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트친부모 대하듯… 어르신 치매예방·재활치료·삶의질 향상에 진심[고맙습니다]&nbsp;&nbsp;문화일보“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선",
+      "summary": "“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④&nbsp;&nbsp;하이닥“아버지 치매 80대까지 늦췄다” 정신과 의사 ‘뇌 펌핑’ 비법&nbsp;&nbsp;v.daum.net\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선치매 환자의 인지기능과 정신건강&nbsp;&nbsp;정신의학신문",
       "sources": [
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FbjZiMENGSmFqeVQ2VURnTWlWWEF5RWRMVC0tQlhuZTBqcHhLQVpSeHQ1MGwtNGpSMDJOU01jdUQ3V2o3TnBrNktpcjVnWHN5a3h4elNoY2tzcm5DVW4xNV85VmRMZVRja3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d6407160f73e",
+      "title": "“머리 말리다 발견” 팔 들었더니 보인 유방암 신호, 뭐였을까? - 헬스조선",
+      "published": "2026-07-10T10:30:00+00:00",
+      "summary": "“머리 말리다 발견” 팔 들었더니 보인 유방암 신호, 뭐였을까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmb2NSSnpCQ281M1Q4R3UyUWRZb1l4ODBzSkRvdGU2SDExVVAyWFBNWTVCTm9YeF9vcFA2WXVLZS1feW1RcU9WRHV1WTA1N0Q5dDFHZ0tzc0pUcFpIYmFpV2hsa2VqU3lJdzdMWmVpQU9QVTNPTWlpaGZ5VzNZclE?oc=5"
         }
       ]
     },
@@ -81,7 +153,7 @@
       "id": "b76374ac62d5",
       "title": "“몸속 염증 싹 사라진다”… 약사가 강력 추천한 음식 5가지 - 코메디닷컴",
       "published": "2026-07-10T07:48:00+00:00",
-      "summary": "“몸속 염증 싹 사라진다”… 약사가 강력 추천한 음식 5가지&nbsp;&nbsp;코메디닷컴“만성염증 삭제 음식”… 영양사가 추천한 세 가지, 뭘까?&nbsp;&nbsp;헬스조선\"몸속 염증 싹 사라진다\"…약사가 강력 추천한 음식 5가지&nbsp;&nbsp;네이트치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제신문몸속 염증을 줄이는 음식, 건강은 매일의 식탁에서 시작된다&nbsp;&nbsp;한국AI부동산신문",
+      "summary": "“몸속 염증 싹 사라진다”… 약사가 강력 추천한 음식 5가지&nbsp;&nbsp;코메디닷컴“만성염증 삭제 음식”… 영양사가 추천한 세 가지, 뭘까?&nbsp;&nbsp;헬스조선치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제신문몸속 염증을 줄이는 음식, 건강은 매일의 식탁에서 시작된다&nbsp;&nbsp;한국AI부동산신문염증 유발 식단 즐기는 사람, 담석 발생 위험 19% 높아&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -105,23 +177,11 @@
       "id": "47739eacc54e",
       "title": "WHO, “2050년엔 연간 암 발병 3500만건 이를 것”…국내 제약·바이오 기업, 암 치료제 개발 속도 - 경향신문",
       "published": "2026-07-10T07:05:00+00:00",
-      "summary": "WHO, “2050년엔 연간 암 발병 3500만건 이를 것”…국내 제약·바이오 기업, 암 치료제 개발 속도&nbsp;&nbsp;경향신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "WHO, “2050년엔 연간 암 발병 3500만건 이를 것”…국내 제약·바이오 기업, 암 치료제 개발 속도&nbsp;&nbsp;경향신문젊다고 안심 못한다…WHO “50세 미만 ‘젊은 암’ 79% 폭증”&nbsp;&nbsp;v.daum.net암 치료비 양극화에 가계 보건 지출 폭발… '소득이 생존 가른다'&nbsp;&nbsp;글로벌이코노믹암 절반 가까이 예방 가능성…조기검진과 치료 접근성 중요&nbsp;&nbsp;네이트5명 중 1명 평생 암 진단…WHO “2050년엔 연 3500만 건” [노화설계]&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKNVI0VGtxNkoxRm5PZmgzYTYwNW0zMHlLRzRoaVNQMDU4NzBhaGxQSlpyTjJEVGhhWTNpT0tuanZSZUVzaGhjMGdVTF9IZTZwdGh0LW9KVW5ZUdIBX0FVX3lxTE10UC1IWUtqVzZMc19BZHJEUHFOa05DRkZDeTdKcE1GR18tcFNPcG5wRnd3WHhseUl4Xzc5STByUjV1NFlZUzJMTFczZWk1a2FWcDExRllvcERkSnhaNFRr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "53581a1c9a0d",
-      "title": "연세대 의대, 세포 생존·사멸 가르는 유전자 조절 원리 규명 - 하이뉴스",
-      "published": "2026-07-10T06:12:03+00:00",
-      "summary": "연세대 의대, 세포 생존·사멸 가르는 유전자 조절 원리 규명&nbsp;&nbsp;하이뉴스세포는 왜 살아남고 왜 죽나… ‘생존·사멸 스위치’ 조절 원리 규명&nbsp;&nbsp;헬스조선스트레스 받은 세포…생존결정 '이 유전자' 규명&nbsp;&nbsp;뉴시스[Medical Report] 세포 운명 가르는 유전자 조절 원리 밝혀 外…AI 기반 만성질환 관리·스마트 의료 혁신 확산&nbsp;&nbsp;헬스케어N'세포 스트레스 속 생존·사멸 가르는 유전자 조절 원리 규명'&nbsp;&nbsp;데일리한국",
-      "sources": [
-        {
-          "name": "하이뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3d1A0OTllczlyWW1CMVU5NVVPQWRzTUJ3VGg4VG1tMVBBa3B3a3VPN1JYMGpoVzBJeEJmdEJldXJ2ekNiX184WnAyamFadE1FZDZQaGhrMmYzOU9TSEp1VjNvalVlaEZ0d2lhSFp1VFpQTnpk?oc=5"
         }
       ]
     },
@@ -162,18 +222,6 @@
       ]
     },
     {
-      "id": "2423d4767729",
-      "title": "\"단순 어지럼증인 줄 알았는데\"…뇌졸중·파킨슨병 신호일 수도 - 한국일보",
-      "published": "2026-07-10T03:00:00+00:00",
-      "summary": "\"단순 어지럼증인 줄 알았는데\"…뇌졸중·파킨슨병 신호일 수도&nbsp;&nbsp;한국일보'명의' 서재현 교수, 어지럼증 대처 위한 전정재활운동법 소개&nbsp;&nbsp;비즈엔터\"저혈압인 줄 알았는데\"…갑자기 어지러운 이유 따로 있었다&nbsp;&nbsp;뉴시스[김태열의 생생건강S펜] “빙빙돌고,비틀거리고 찌를듯한두통..일상생활 무너뜨리는 뇌질환”&nbsp;&nbsp;v.daum.net[명의] 어지럼증, 방치하면 발작으로&nbsp;&nbsp;Queen 이코노미퀸",
-      "sources": [
-        {
-          "name": "한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YUWNUbkN4bG5RM1NqNmtJWW9RVUNhVjNET2tvZUlXaTZ0cjFIbmZSUW95eXctdnh6dExncF9yZ1F3MjU1cUE3M1V3YUNoSXdXRnRMTHpBSTdEYXZJZnE3US1oMDg0VHdtUzVnX3JR0gFzQVVfeXFMTjFMOHhvRWRaM1RMRURBOWZsYVE5VFhuMDNnWk1obHhMdWtZdkhlYlp3Q1h5cWdyVTFkWW5nUGwteWxHcVpzQ1BfeDVkX1FQclhlQzY5QVNBdjlnZFRSVUpGQkoyVWVkT3Vtay1xenZKX1hxMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b2810525495b",
       "title": "관절약으로 먹던 글루코사민,“치매 악화와 관련 있을수도” - 미주한국일보",
       "published": "2026-07-10T03:00:00+00:00",
@@ -198,18 +246,6 @@
       ]
     },
     {
-      "id": "0b1c6c2b4d61",
-      "title": "폐암 수술 후 첫 해가 고비...심방세동 위험 '4배' 급증 - 한국일보",
-      "published": "2026-07-10T02:01:00+00:00",
-      "summary": "폐암 수술 후 첫 해가 고비...심방세동 위험 '4배' 급증&nbsp;&nbsp;한국일보폐암 수술 후 1년이 고비…심방세동 위험 최대 4배 뛴다&nbsp;&nbsp;서울경제신문폐암 수술 1년 이내 심방세동 위험 4배↑…\"맞춤형 모니터링 必\"&nbsp;&nbsp;청년의사폐암 수술 후 심방세동 위험…'이 시기' 가장 높아&nbsp;&nbsp;뉴시스\"폐암 수술 성공했는데\"…1년 내 심장 마비 위험 4배 뛴다&nbsp;&nbsp;데일리안",
-      "sources": [
-        {
-          "name": "한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91NGdmM2hfWEN1ZGR6MS0xVmRRNkVfNVo2Q1pVaVVCWEhtTHlXQ0JDR2NiUnlpWHRyT2ozb3d0T3ZTTUlJMnNyTkhtT1RZejdDYkgtLUJkN1lKXzFlQnpoeXlkR19TcW9RN05mLU9B0gFzQVVfeXFMUDJHTzFwQnZfc0lKdm9FSTViZEtzT1l5cjk0YUpFU3BmOXlpWVNXLUxYUEs3cGF6bXdBRkZLSmQwY1dPb3Q4V1VMMzRMdWVTblV6blQ3X0dYVUtIeVQ4V25sS245dlhOYXhHOHNzZ0s3UkpDSQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "50782ce327a4",
       "title": "터제파타이드 지속치료 시 체중감량 유지 확인 - mostonline.co.kr",
       "published": "2026-07-10T01:54:06+00:00",
@@ -222,14 +258,26 @@
       ]
     },
     {
-      "id": "392059bc29de",
-      "title": "‘웰에이징 시대’, 하루 우유 180g 섭취 시 뇌졸중·의료비 감소…일본 연구서 예방 효과 분석 - 이코노미스트",
-      "published": "2026-07-10T01:43:00+00:00",
-      "summary": "‘웰에이징 시대’, 하루 우유 180g 섭취 시 뇌졸중·의료비 감소…일본 연구서 예방 효과 분석&nbsp;&nbsp;이코노미스트'웰에이징 시대' 하루 한 잔 우유…뇌졸중 줄고 의료비 낮춰&nbsp;&nbsp;네이트하루 한 잔 우유면 '뇌졸중' 위험 낮춘다&nbsp;&nbsp;메디칼타임즈",
+      "id": "00d9a9321573",
+      "title": "[기획특집/이창선 전문기자의 기획시리즈 : 장애인 건강과 생명 지키기 특강]⑤ 조절이 필요한 내분비계 건강 지키기(하): 모든 세대의 당뇨병 관리 - 미디어생활",
+      "published": "2026-07-10T00:41:16+00:00",
+      "summary": "[기획특집/이창선 전문기자의 기획시리즈 : 장애인 건강과 생명 지키기 특강]⑤ 조절이 필요한 내분비계 건강 지키기(하): 모든 세대의 당뇨병 관리&nbsp;&nbsp;미디어생활\"눈에 고름 차서 적출까지\"…의사가 경고한 흔한 '이 병', 뭘까?&nbsp;&nbsp;네이트‘생로병사의 비밀’ 999회, 중증 당뇨 환자들의 치열한 24시간&nbsp;&nbsp;스포츠경향'생로병사의 비밀' 중증 당뇨병, 일상 지키기 위한 관리법&nbsp;&nbsp;gukjenews.com\"술과 야식만 끊어도 혈당 뚝\"… 당뇨, 일상 속 절제가 치료의 시작&nbsp;&nbsp;매경헬스",
       "sources": [
         {
-          "name": "이코노미스트",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzZFNia0ZUbEJEUkVmN1pKdGMzZkc2SWFlNjJpSHdpSWZ4NmNHVGdwckVsRjJhWTBYSWd2QU1jOG1nUjU4VExkVnNKTW5OcGVKT2stTzlfTWdLZGRYM2NpNUVR?oc=5"
+          "name": "미디어생활",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Bem56U3VUS3RVVWpwTUNrS21XN1p6S1ZxVXQtNjc1dW1rUDk5QjdLTmNsRFZOcGw0Z2NQbUFDemFMTlJvNi14dVhpVjVPb2tCS2xoc2g1RFhsczA2TXFCZExiOVFxbldUUmViMXNoTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dcbf64988c2a",
+      "title": "'웰에이징 시대' 하루 한 잔 우유…뇌졸중 줄고 의료비 낮춰 - 네이트",
+      "published": "2026-07-10T00:27:00+00:00",
+      "summary": "'웰에이징 시대' 하루 한 잔 우유…뇌졸중 줄고 의료비 낮춰&nbsp;&nbsp;네이트하루 한 잔 우유면 '뇌졸중' 위험 낮춘다&nbsp;&nbsp;메디칼타임즈",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pblJySVNrYUhVWmdJaVExMmRvc2Z4RG9kQkVfLUlMc1dZV2F6dmFkS0ZfbFdWclpsU3BnOXJVM0NiUzVaWWlRclJjRE1kdjVpZnMw?oc=5"
         }
       ]
     },
@@ -249,7 +297,7 @@
       "id": "1db2efe801be",
       "title": "출산 직후 유방암은 왜 더 위험한가…첫 1년이 핵심 - 네이트",
       "published": "2026-07-09T23:05:06+00:00",
-      "summary": "출산 직후 유방암은 왜 더 위험한가…첫 1년이 핵심&nbsp;&nbsp;네이트출산 후 3년 이내 생긴 유방암, 재발 위험 높다&nbsp;&nbsp;헬스조선“아이 낳으면 유방암 위험 낮아진다?”…10년간 유방 보호하는 면역세포 발견&nbsp;&nbsp;전자신문임신하면 유방에 생기는 ‘이 세포’… 유방암 억제 돕는다&nbsp;&nbsp;코메디닷컴호주 연구, 임신 세포가 유방암으로부터 보호하는 데 도움이 될 수 있음을 발견함&nbsp;&nbsp;VOI.id",
+      "summary": "출산 직후 유방암은 왜 더 위험한가…첫 1년이 핵심&nbsp;&nbsp;네이트출산 후 3년 이내 생긴 유방암, 재발 위험 높다&nbsp;&nbsp;헬스조선“아이 낳으면 유방암 위험 낮아진다?”…10년간 유방 보호하는 면역세포 발견&nbsp;&nbsp;전자신문호주 연구, 임신 세포가 유방암으로부터 보호하는 데 도움이 될 수 있음을 발견함&nbsp;&nbsp;VOI.id\"출산이 유방암 위험 낮춘다\"…호주 연구진, 임신 중 생기는 '킬러 T세포' 주목&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "네이트",
@@ -266,18 +314,6 @@
         {
           "name": "메디소비자뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UemZ3ZjlHS3FqZ1RQNkxqUGVOUk9fcl8tX19teERlWUZ3UTJaVktMTllkMjl6dU55c3VnX0RkZTFxeW1ISXFGVXVha1d3NjRpQ2tQWjQyYWNIOFdDRmVvOFZWSXNYWW9lcWYyeUs4MWdqZ9IBdkFVX3lxTE9CMFVmay1HUkVfaHBPY3lpalUyWm10WDV2WTZqU21hVG9USUZOY3R4dXloZjlFejRJMUJwM2JPRjRSdmxOQVZ6QzhXeEwyeThjZFExOHQ1WFhBUlF4dTlMNzFOVEp2V0VjOE1laGZoMmlKQXdxTWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8fecb9f111b6",
-      "title": "“혈당·염증 다 잡는다”… 의사가 삼겹살과 먹으라 추천한 음식은? - 헬스조선",
-      "published": "2026-07-09T18:00:00+00:00",
-      "summary": "“혈당·염증 다 잡는다”… 의사가 삼겹살과 먹으라 추천한 음식은?&nbsp;&nbsp;헬스조선혈압 낮추는 식품 140가지 비교했더니…끝까지 살아남은 건 ‘이거’였다&nbsp;&nbsp;v.daum.net“삼겹살 먹을 때 ‘이것’ 꼭 같이 먹어라”…콜레스테롤 확 낮춘다는 연구결과 나왔다 [헬시타임]&nbsp;&nbsp;서울경제신문삼겹살 바로 알기&nbsp;&nbsp;전라일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5sSmFrbmZWYmJiaklLX0Q2eXZsZ2I5cW5TU2diWVo4N2FiRkhoWW0wV3RjRXFTYmRycXhEOGI1akVVNkhFR2lqUjBVdGEwNFlrWmFWYVo3a1ZKbGRZaGk0OFVrUndWYUhKYUtUckF4ZjR2STkyR0h3dDE5Rk5kVVk?oc=5"
         }
       ]
     },
@@ -342,42 +378,6 @@
       ]
     },
     {
-      "id": "1f90f432e827",
-      "title": "지방간, 만성콩팥질환 발생 위험 증가 “유형에 따라 위험도 달라져” - 병원신문",
-      "published": "2026-07-09T07:01:13+00:00",
-      "summary": "지방간, 만성콩팥질환 발생 위험 증가 “유형에 따라 위험도 달라져”&nbsp;&nbsp;병원신문“술 한 잔도 못 마시는데”…61세 김미경, 지방간 왜 생겼나&nbsp;&nbsp;v.daum.net지방간 방치하면 '이 암' 더 위험해져…예방법은 무엇?&nbsp;&nbsp;네이트지방간 있으면 대장암 간 전이 위험 높아진다…생존율도 크게 떨어져&nbsp;&nbsp;약사공론우울증, 지방간 위험도 키운다… 45세 미만 여성서 더 뚜렷&nbsp;&nbsp;국민일보",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZRlh5Y0NvZFZEZElpMFNOSXp4d21qRW1NaFlON3gxU1FseDVxdmNCQmctaXlXMm9xdTJuYzRvLVJsaUlQbHlhNGNzV3ZyR2tCQkE0XzdsQUd5OXp2ekhOd0F1Rlp1SzN0aGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e4da0f4cb6c",
-      "title": "삶의 질 높이는 `해피 드러그` 열풍…`질병 치료 넘어 행복 찾는다` - 매일신문",
-      "published": "2026-07-09T06:45:35+00:00",
-      "summary": "삶의 질 높이는 `해피 드러그` 열풍…`질병 치료 넘어 행복 찾는다`&nbsp;&nbsp;매일신문",
-      "sources": [
-        {
-          "name": "매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MRndrNkJxcnFMY2FQS1NmMVlub1NBMFd4MHdQelZ6WUIzV2Y2Tkg1MWpxMUctaDFJTVNseUJRT3FxWnROU2l4Zk5hWVQ5TE5zLTI3aGYtNFBKVUU0LWdJQjhn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a0463f9b2a3",
-      "title": "◆ 유행성 각결막염 유행 알림 및 예방수칙 - 제주도민일보",
-      "published": "2026-07-09T05:47:56+00:00",
-      "summary": "◆ 유행성 각결막염 유행 알림 및 예방수칙&nbsp;&nbsp;제주도민일보\"여름철 눈병, 항생제부터 찾지 마세요\" 안과의사회가 전한 예방법?&nbsp;&nbsp;의협신문여름철 전염성 눈병, 개인위생과 조기진료 중요해&nbsp;&nbsp;메디칼업저버대한안과의사회 “여름철 전염성 눈병 주의” 당부&nbsp;&nbsp;의학신문[건강정보] 여름 불청객 ‘유행성 눈병’…개인위생·조기 진료 필수&nbsp;&nbsp;병원신문",
-      "sources": [
-        {
-          "name": "제주도민일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtemNYVFZjalhFVEFHalNMZ0k5dFhOQ3hTZGJXZjRZejJqRDJMSG0xc0p6SW5fX0xFR2w4ZXZyRzIzMVIwd2oyQXJ4VG9iOVJVZUdNaXA5LXVMbERTY0RMOXotQ3ZOaFRXUngtRjVn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "221e6932023d",
       "title": "[셀리드 주주간담회]①코로나19 백신 재도전 채비, 저비용 탐색임상 재설계 - PRESS9",
       "published": "2026-07-09T05:00:00+00:00",
@@ -386,42 +386,6 @@
         {
           "name": "PRESS9",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1ZVp2OWZZTm85LW1Fd0ExMmp1NkVnMkhlVTRuNWtFZDhnVUxoWDlNREhUNlNaU2psdUVsSFlTLTFuVjduVVhxU05hb1kyaDBZN3ZEVGZ1NU5ZM3JzaHU4YzhqZ2Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a0b31d2641f",
-      "title": "수포가 사라진 뒤 시작되는 지옥? 대상포진 합병증의 위험성과 만성 통증 - 뉴스N연합",
-      "published": "2026-07-09T03:25:55+00:00",
-      "summary": "수포가 사라진 뒤 시작되는 지옥? 대상포진 합병증의 위험성과 만성 통증&nbsp;&nbsp;뉴스N연합Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBKQjA0Ml9wR3JjRHBwOXZydHdIN3J3UFlUSjZ5Skk2d1VYT2ltaXU4al9CUEZqQ0FZVFJIUWxKV0czc04xb01jUEJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52c16415139d",
-      "title": "레타트루타이드, 2형당뇨병 환자 혈당 및 체중개선 확인 - mostonline.co.kr",
-      "published": "2026-07-09T02:48:01+00:00",
-      "summary": "레타트루타이드, 2형당뇨병 환자 혈당 및 체중개선 확인&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54d0xEWTJWbnBjcThybDlRdi1WQjF2ODdHSUdiN3BoTW95VzNtLUhtLVdKNzdoTUg0ZFdQSWJKdHJtczhDSmJ1VEhDMC05TjZMWXBuZVREV1BCaGJXX3NVd0V3WkZ0UTZramxxeE9kMzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62d5718637ef",
-      "title": "갱년기 호르몬 치료, 언제 어떻게 시작해야 할까? [건강 올레길] - 네이트",
-      "published": "2026-07-09T02:00:00+00:00",
-      "summary": "갱년기 호르몬 치료, 언제 어떻게 시작해야 할까? [건강 올레길]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtcG96TWE2YnJGNzNaYThoa2dreUNtSG04TlRaSW84eGxoZE9vdnBnS05fUldwaXJxaVRkVlFOb2tablN6RTFrcFpFV3BaNmtrNG1JTGw3cU5peVU4RS1PQg?oc=5"
         }
       ]
     },
