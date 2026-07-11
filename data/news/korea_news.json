@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-11T08:00:20.948058+00:00",
-  "total_fetched": 74,
-  "unique_count": 74,
-  "health_related_count": 34,
+  "fetched_at": "2026-07-11T13:25:33.514583+00:00",
+  "total_fetched": 71,
+  "unique_count": 71,
+  "health_related_count": 32,
   "news": [
     {
       "id": "a333aa389c93",
@@ -66,6 +66,30 @@
       ]
     },
     {
+      "id": "716fda609cef",
+      "title": "골다공증 예방 위한 칼슘 보충제…누구에게나 안전할까 [박민선의 건강톡톡] - 시사저널",
+      "published": "2026-07-11T00:00:00+00:00",
+      "summary": "골다공증 예방 위한 칼슘 보충제…누구에게나 안전할까 [박민선의 건강톡톡]&nbsp;&nbsp;시사저널Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "시사저널",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OLUxzckhmdGx6LVgtS3BXQ3VrelpnVk9hQ3JqM2NqNV9RRi1pN3E4dHFwR21NSkdPY2w0WFJCdXNJS2ZfT2g2RTh2RE16VThvaEV6TkQyUUJVMmprZTg5bFdad0R1ajNRc2V3Y191ONIBc0FVX3lxTE9jRGplN0ZOakkyek5OaXhuQ2lVV1p0M25BMU5xaXhKSlJfS0FTMkFEUHYtWUVyTW00QkI0S0JoNFEtUTY5cW96RjEyVENTWUhGSVI1MzVNT2NMTS0zR2lhZ1AxUkdlOTNfdDJmTVBPYzJNejg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9fc6e13f0c97",
+      "title": "눈이 뻑뻑하고 충혈된다면…여름철 안질환 의심해야 - 매경헬스",
+      "published": "2026-07-10T23:00:00+00:00",
+      "summary": "눈이 뻑뻑하고 충혈된다면…여름철 안질환 의심해야&nbsp;&nbsp;매경헬스오후만 되면 눈이 뻑뻑해지는 당신··· 눈물을 보충할 시간입니다 [건강 돋보기]&nbsp;&nbsp;경향신문날씨는 습한데 눈은 뻑뻑…여름철 안구건조증 주범 에어컨 바람&nbsp;&nbsp;mbn.co.kr스마일라식, 렌즈, 안구건조증이 여름에 자주 검색되는 이유는?&nbsp;&nbsp;헬스조선여름철 안구건조증, 방치할수록 악화...IPL 치료로 근본 원인 관리 도움&nbsp;&nbsp;법보신문",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FbEFIbGhKYU1rV0NrSjdIaGI4b2haWWFXaFdERVBneTU1WkIzWjd0UzBsVjl0SG9ldmQzTl9QeFl3M1I0YXFiNWlsN1NvSC1NcjVxRmF2d3VnNUdEa19xa3pWTzBVUzZGRVRQVg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1d60dc58c85d",
       "title": "지방간 있으면 대장암 간 전이 위험 높아진다…생존율도 크게 떨어져 - 약사공론",
       "published": "2026-07-10T20:49:00+00:00",
@@ -93,7 +117,7 @@
       "id": "876ecf0e715f",
       "title": "“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④ - 하이닥",
       "published": "2026-07-10T12:00:00+00:00",
-      "summary": "“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④&nbsp;&nbsp;하이닥“아버지 치매 80대까지 늦췄다” 정신과 의사 ‘뇌 펌핑’ 비법&nbsp;&nbsp;v.daum.net\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선치매 환자의 인지기능과 정신건강&nbsp;&nbsp;정신의학신문",
+      "summary": "“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④&nbsp;&nbsp;하이닥“아버지 치매 80대까지 늦췄다” 정신과 의사 ‘뇌 펌핑’ 비법&nbsp;&nbsp;v.daum.net\"비싼 영양제 절대 효과없다\" 치매 명의가 꼽은 딱 한가지&nbsp;&nbsp;네이트“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선치매, 장기적인 생활 관리 중요… 돌봄 환경 선택 고려도 필요&nbsp;&nbsp;medicalworldnews.co.kr",
       "sources": [
         {
           "name": "하이닥",
@@ -162,18 +186,6 @@
       ]
     },
     {
-      "id": "5bb7a56a7d1f",
-      "title": "DHG Pharma: 52년간 끈기 있게 건강 관리 및 지역 사회와 동행 - Laodong.vn",
-      "published": "2026-07-10T07:30:00+00:00",
-      "summary": "DHG Pharma: 52년간 끈기 있게 건강 관리 및 지역 사회와 동행&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjBxWEthLW1ZOXV6SmtiUlNHNm5PTnBkbFBLQmpZeV8zd2xYNG1zaEltaEVQcnZvdk03bnc5ZDZvU2V4c2NQWDlJM0pTRFl6VHExdWNxSXNfSldyblplUXNqRjJ6b1NpMDI2UU40X3J3Y1pSX3F6cDQzZ214XzlQM0M4SV9rS0ZGZFc5bXZ0LU9YU2dqUjA3ZmlDWTNGeVZvazlrYmY0N21DVjlGdEVzaDdpdjE4UHJHRDBjem55emJydGVNbEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "47739eacc54e",
       "title": "WHO, “2050년엔 연간 암 발병 3500만건 이를 것”…국내 제약·바이오 기업, 암 치료제 개발 속도 - 경향신문",
       "published": "2026-07-10T07:05:00+00:00",
@@ -218,6 +230,18 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Zal9tQWlGUnEzdHYzZVJxRFQ1SDBXbmpSbTdQU082bFRiakpxNzFLS0doWmd6eTAxdTlFU25oRHoxdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "87c7a6aa95ed",
+      "title": "암 이기는 힘, '효모' 가 키웠다 - 약사공론",
+      "published": "2026-07-10T03:00:00+00:00",
+      "summary": "암 이기는 힘, '효모' 가 키웠다&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02d1g2QTd3dWs2S1E0SjctVFBZQ2lWdDFaOV9yQnEtdHU2dzRPMUI1Y1RkOFUwNkJSSVZ6UUNiaVUxQVFCUHRFbXNKb1JNSFVGVnp3ZS1qWTlzbTQ5OGhrOFV3Ny00d1dHQ0IzNA?oc=5"
         }
       ]
     },
@@ -318,30 +342,6 @@
       ]
     },
     {
-      "id": "6a148ff64ea4",
-      "title": "크론병 원인균 '무장해제'…박테리오파지 신개념 치료법 - 바이오북미디어",
-      "published": "2026-07-09T12:07:00+00:00",
-      "summary": "크론병 원인균 '무장해제'…박테리오파지 신개념 치료법&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RX1pDZ3ZQLWZDNUpTZ3hBMzNWU1FKeXFsTDFkX3ROZEY0akVmTUZnc25UMHotXzdPTkQ2RkItOFY5Tmt4WVRkNk5sUVdrdjZrNjZCYWNZbm1zaGZRUmgyUTBYX2JScmtTaWhSRWdn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f3e51944a66",
-      "title": "사춘기인 줄 알았는데 갑상선암이었다… 10대 소녀가 보인 증상은? - 헬스조선",
-      "published": "2026-07-09T11:00:00+00:00",
-      "summary": "사춘기인 줄 알았는데 갑상선암이었다… 10대 소녀가 보인 증상은?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QQ2dLSDFvX3V2OWt5QV9lMjBkbHhYUTk1YUF2a05lcXYtOWdoanlTV0didkZ5R2VZNm1OTDVVSjBsOExIdEtUc21KdHE3dndEcXVRZzFvU1ZjSmtUQTRtMFl1SnU2ZGhyQUh5NG5Rc1NJQjd1QnQwQ3h1Q2JBVTA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6c0589d1f79f",
       "title": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모 - AI타임스",
       "published": "2026-07-09T09:55:27+00:00",
@@ -350,30 +350,6 @@
         {
           "name": "AI타임스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LaHBZTVNHV2N4dWFwVTBCZmZmZWhveF9ZMXp4WUZkR1dHa3NEQm1FNklIaEhMaXd4dUs4ZW9WX1ZfbEhET3g0eEZxOWNIYVp1Tm15QkF5NTM0ZW5VU0syRUp6RzA2TTNucFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be291df603b6",
-      "title": "“무리한 운동도 안 했는데”…44세男, 근육 녹고 콩팥 망가진 까닭은? - 코메디닷컴",
-      "published": "2026-07-09T09:01:00+00:00",
-      "summary": "“무리한 운동도 안 했는데”…44세男, 근육 녹고 콩팥 망가진 까닭은?&nbsp;&nbsp;코메디닷컴스포츠를 하는 사람들 사이에는 치명적인 질병이 도사리고 있다.&nbsp;&nbsp;Vietnam.vn한 젊은 남성이 헬스장에서 과도한 운동을 하다가 횡문근융해증으로 병원에 입원했습니다.&nbsp;&nbsp;Vietnam.vn매일 1~2시간씩 헬스장에서 운동하던 31세 남성 엔지니어가 횡문근융해증으로 입원했다.&nbsp;&nbsp;Vietnam.vn31세 남성이 헬스장에서 과도한 운동으로 신장 손상 직전까지 가는 부상을 입고 응급실로 실려 갔다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5TTFV6b1dicDRjeEtwSUtSS2VORExldzMwLXpoQk84NXpDZER1WHkySGtVYkF0RV9STDVTb29GeFczdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "edc40ca5536d",
-      "title": "장내 미생물, '차가운 암'을 '뜨거운 암'으로 전환 확인 - 바이오북미디어",
-      "published": "2026-07-09T08:37:00+00:00",
-      "summary": "장내 미생물, '차가운 암'을 '뜨거운 암'으로 전환 확인&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLZDRVSndXM0cwT1g2V0JPQnJCSWQ3NWd1MWRZaU16dmRXZzZ3SmpyR3VWaUd5VEpkSDZCU0dwSWJsY1phV3U4cHFyUEdMcnQ4MjZCeUYtRVZxVEZVM3JfektTUDlmUG9FZ01GcW5B?oc=5"
         }
       ]
     },
