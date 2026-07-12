@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-07-12T03:16:48.940856+00:00",
-  "total_count": 22,
+  "last_updated": "2026-07-12T08:21:49.605165+00:00",
+  "total_count": 18,
   "matched_count": 0,
   "news": [
-    {
-      "id": "e55f36404768",
-      "title": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야",
-      "published": "2026-07-12T01:00:00+00:00",
-      "summary": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGZWlhNXRBQl9TaEt0NWpqR3RQeENfMkhVV1VCUVpWX3dHU1Rld1BpU3ZQeTdaa1k2LThGNC1kQ05KUTNLcVMxTE1jdU9Td0JQWTkzN0Znc2c5NUxVbmh4VQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "18a95e6bacca",
       "title": "\"암환자 절반은 아시아에\"…WHO가 던진 경고",
@@ -56,6 +43,19 @@
       "matched_keywords": []
     },
     {
+      "id": "4f70ba367ea1",
+      "title": "“치매 예방에 좋다” 믿고 2년 챙겨 먹은 ‘이것’…효과는 과연?",
+      "published": "2026-07-11T11:00:00+00:00",
+      "summary": "“치매 예방에 좋다” 믿고 2년 챙겨 먹은 ‘이것’…효과는 과연?&nbsp;&nbsp;농민신문“치매 예방하려 먹었는데”…오메가-3 보충제 효과 없다는 연구 결과&nbsp;&nbsp;동아일보[더페어 과학한컷] 오메가3, 뇌에는 전달됐지만…알츠하이머 예방 효과 확인되지 않아&nbsp;&nbsp;thefairnews.co.kr오메가3 보충제, 뇌와 혈관 건강에 거의 도움 안돼&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sT2lwRVNyZlAzNnRFNHI3aUt0NEtPSVFBdkJhaWZIR3FCUWR6c29VWDhSSExjOGpObkpZOEpYaUZoSHpHWEVOUmNpUjVReGRRU0pHX1h4MGNMdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a333aa389c93",
       "title": "소녀 기침 1개월 지속, 의사 희귀 선천적 기형 발견",
       "published": "2026-07-11T07:09:04+00:00",
@@ -77,6 +77,19 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zdGhHZ0VRM0Q0YWZxamZCXzkzd3E2TFl5TmVRWUkycmtnLWJFU0YtS2Y5TTVxUnNMa05QRjgwZDAwRGtRU2hMOGg0REFSSDNNdjNZNG1wYm0xNkxRT0NpXzNIRzJrbDQ5Smh0LW8tUXNpSkRDUWRERFVzRFZxU1U?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3f961c218d17",
+      "title": "어지럽고 비틀거리는데 괜찮다? 뇌 질환 신호일 수도",
+      "published": "2026-07-11T05:07:02+00:00",
+      "summary": "어지럽고 비틀거리는데 괜찮다? 뇌 질환 신호일 수도&nbsp;&nbsp;이데일리[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야&nbsp;&nbsp;뉴스1\"단순 어지럼증인 줄 알았는데\"…뇌졸중·파킨슨병 신호일 수도&nbsp;&nbsp;한국일보'명의' 서재현 교수, 어지럼증 대처 위한 전정재활운동법 소개&nbsp;&nbsp;비즈엔터[명의] 어지럼증, 방치하면 발작으로&nbsp;&nbsp;Queen 이코노미퀸",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRkVSMlJ1Q1ZVLVViY2E0MnBLTnFBU3QtLUlRNEc3OVkxNkdFV1ZTcmtrNlNXTXhUUFBVVThsdVludV9JYTEzbU92U2oxY2JiQ2o4b3lmWDBjMFZTUEVFTkZIOU4tSVN3MUozZjRIS19RS1RxSjdwNG13UHY0TWd2Vg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -108,10 +121,23 @@
       "matched_keywords": []
     },
     {
+      "id": "fb0f950ea8b0",
+      "title": "\"칫솔 교체 한지 '이 기간' 지났다면 지금 당장 버리세요\"... 잇몸 약해지고 치아 손상됩니다",
+      "published": "2026-07-11T02:00:00+00:00",
+      "summary": "\"칫솔 교체 한지 '이 기간' 지났다면 지금 당장 버리세요\"... 잇몸 약해지고 치아 손상됩니다&nbsp;&nbsp;아던트뉴스[톡톡 100세 인생] 건강한 치아를 위한 첫걸음...칫솔모 관리부터&nbsp;&nbsp;팝콘뉴스양치만으로는 부족한 구강 관리…정기 스케일링이 필요한 이유&nbsp;&nbsp;이코노미사이언스[헬스 플러스+] 생활 속 구강관리, 평생 건강 지키는 첫걸음&nbsp;&nbsp;강원도민일보치실 사용 ‘양치 전 vs 양치 후’ 난제 풀렸다…둘 다 틀렸다는데&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "아던트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wUzJOblFUdmJXaW50ZEx3X01INHFKUHlhcDhHZHhkeXdzUVAtQ1N2UlhNeGpzVUVNemxFVm9TVTBKVndDUEs0RkRJbF91Z0ZncF9yMHZycVBtRjZZbVlPVjhfU3ZuMmVwYWJ4M0djb9IBc0FVX3lxTFBRQk1jS0JfSGI1TnZyWXpxNmpDbUlwWmNkM3NmeU1SUzFWZHYyWWtSOWdDVDFWc3NfcnJnLXJVQjZZc2Fzb1hNRnAyMHJoMDZadGlHemtpTFpZcDRLaHpWMDRYYnpkRUs3cEM1azM2QmJuNjQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "51f2a852b2cc",
       "title": "골다공증 예방 위한 칼슘 보충제…누구에게나 안전할까 [박민선의 건강톡톡]",
       "published": "2026-07-11T00:01:48+00:00",
-      "summary": "골다공증 예방 위한 칼슘 보충제…누구에게나 안전할까 [박민선의 건강톡톡]&nbsp;&nbsp;v.daum.net‘비타민D 영양제’ 많이 먹지 마세요… 구토·탈수 위험&nbsp;&nbsp;헬스조선뼈 건강을 위해 매일 비타민 D와 칼슘을 섭취하는 것이 효과적일까요?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "골다공증 예방 위한 칼슘 보충제…누구에게나 안전할까 [박민선의 건강톡톡]&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "v.daum.net",
@@ -121,10 +147,23 @@
       "matched_keywords": []
     },
     {
+      "id": "b189d04dc263",
+      "title": "\"아버지 치매 80대까지 늦췄다\" 정신과 의사 '뇌 펌핑' 비법",
+      "published": "2026-07-10T21:01:00+00:00",
+      "summary": "\"아버지 치매 80대까지 늦췄다\" 정신과 의사 '뇌 펌핑' 비법&nbsp;&nbsp;네이트“아버지 치매 80대까지 늦췄다” 정신과 의사 ‘뇌 펌핑’ 비법&nbsp;&nbsp;v.daum.net\"중증 치매인데 멀쩡하게 생활\" 100세 수녀 부검으로 밝혀진 '뇌의 비밀'[건강비책]&nbsp;&nbsp;네이트“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선[한광식 칼럼] 생활습관으로 지키는 ‘뇌 건강’&nbsp;&nbsp;한국강사신문",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBISjNBeTNlQmtLQVlrblBWMEV3U09ocEJvY1h4SkZQc0NEdndwMnJNRV80bmNCVl9iLW9vUlJtWjFVZ3NHSmF1OWlCM2hjdFhTdC1VdThoMzYxSG16a1FUYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1d60dc58c85d",
       "title": "지방간 있으면 대장암 간 전이 위험 높아진다…생존율도 크게 떨어져",
       "published": "2026-07-10T20:49:00+00:00",
-      "summary": "지방간 있으면 대장암 간 전이 위험 높아진다…생존율도 크게 떨어져&nbsp;&nbsp;약사공론“술 한 잔도 못 마시는데”…61세 김미경, 지방간 왜 생겼나&nbsp;&nbsp;v.daum.net[Medical Report] 지방간, 만성콩팥질환 발생 위험 증가 … 의료계 혁신 경쟁 가속 外&nbsp;&nbsp;헬스코리아뉴스지방간 방치하면 '이 암' 더 위험해져…예방법은 무엇?&nbsp;&nbsp;네이트술 안마시는 젊은 여성인데 '지방간'? 원인은 마음속 '이 병'&nbsp;&nbsp;매경헬스",
+      "summary": "지방간 있으면 대장암 간 전이 위험 높아진다…생존율도 크게 떨어져&nbsp;&nbsp;약사공론“술 한 잔도 못 마시는데”…61세 김미경, 지방간 왜 생겼나&nbsp;&nbsp;v.daum.net[Medical Report] 지방간, 만성콩팥질환 발생 위험 증가 … 의료계 혁신 경쟁 가속 外&nbsp;&nbsp;헬스코리아뉴스술 안마시는 젊은 여성인데 '지방간'? 원인은 마음속 '이 병'&nbsp;&nbsp;매경헬스지방간, 만성콩팥질환 발생 위험 증가 “유형에 따라 위험도 달라져”&nbsp;&nbsp;병원신문",
       "sources": [
         {
           "name": "약사공론",
@@ -134,14 +173,14 @@
       "matched_keywords": []
     },
     {
-      "id": "876ecf0e715f",
-      "title": "“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④",
-      "published": "2026-07-10T12:00:00+00:00",
-      "summary": "“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④&nbsp;&nbsp;하이닥“아버지 치매 80대까지 늦췄다” 정신과 의사 ‘뇌 펌핑’ 비법&nbsp;&nbsp;v.daum.net\"중증 치매인데 멀쩡하게 생활\" 100세 수녀 부검으로 밝혀진 '뇌의 비밀'[건강비책]&nbsp;&nbsp;네이트“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선[한광식 칼럼] 생활습관으로 지키는 ‘뇌 건강’&nbsp;&nbsp;한국강사신문",
+      "id": "92170dd16306",
+      "title": "아침밥, 단백질 vs 탄수화물? 혈당 잡는 조합은",
+      "published": "2026-07-10T13:00:17+00:00",
+      "summary": "아침밥, 단백질 vs 탄수화물? 혈당 잡는 조합은&nbsp;&nbsp;조세일보“혈당에 이로워” 간식으로 매일 먹어도 좋은 음식 5가지&nbsp;&nbsp;헬스조선혈당 스파이크 막으려면 밥 먹기 30분 전 '이 과일'을 드세요! (당뇨 전단계 필독)&nbsp;&nbsp;코메디닷컴“혈관 늙는 음식 따로 있었다”…윤은혜 식단→임영웅 양파쌈 주목받는 이유&nbsp;&nbsp;뉴스와\"혈당 관리의 기본은 식사와 약물\"...당뇨 환자가 꼭 확인해야 할 영양소는?&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FbjZiMENGSmFqeVQ2VURnTWlWWEF5RWRMVC0tQlhuZTBqcHhLQVpSeHQ1MGwtNGpSMDJOU01jdUQ3V2o3TnBrNktpcjVnWHN5a3h4elNoY2tzcm5DVW4xNV85VmRMZVRja3c?oc=5"
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVdXJrSXItZmZzWmxyc0VrODR6QURVU29qeGE2c1FxeGtURU9meEI5S2FidnpuSDYtR2JPTVcxVm9BTGQ0X1ZucGpZb21Fd3RWdlZRb1d1TmNCWmE5Y1lF?oc=5"
         }
       ],
       "matched_keywords": []
@@ -155,19 +194,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmb2NSSnpCQ281M1Q4R3UyUWRZb1l4ODBzSkRvdGU2SDExVVAyWFBNWTVCTm9YeF9vcFA2WXVLZS1feW1RcU9WRHV1WTA1N0Q5dDFHZ0tzc0pUcFpIYmFpV2hsa2VqU3lJdzdMWmVpQU9QVTNPTWlpaGZ5VzNZclE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3b82e28d1718",
-      "title": "잠 90분 덜 잤더니 6주 만에 0.5kg↑…뜻밖의 연구 결과",
-      "published": "2026-07-10T09:01:00+00:00",
-      "summary": "잠 90분 덜 잤더니 6주 만에 0.5kg↑…뜻밖의 연구 결과&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xcnJPWWdidUU4MlFTbnhDRFdmckdhSjJKb0k0Tmo2UkwydlQ2cUZlMjhzVm1DNzlJclJxUnM2Mmlsa3pnSkpvR0I1cXFqNmxTQlBz?oc=5"
         }
       ],
       "matched_keywords": []
@@ -199,71 +225,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b76374ac62d5",
-      "title": "“몸속 염증 싹 사라진다”… 약사가 강력 추천한 음식 5가지",
-      "published": "2026-07-10T07:48:00+00:00",
-      "summary": "“몸속 염증 싹 사라진다”… 약사가 강력 추천한 음식 5가지&nbsp;&nbsp;코메디닷컴“만성염증 삭제 음식”… 영양사가 추천한 세 가지, 뭘까?&nbsp;&nbsp;헬스조선치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제신문자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지&nbsp;&nbsp;하이닥염증 유발 식단 즐기는 사람, 담석 발생 위험 19% 높아&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE43d05QMFRPQk90bDgtblV6Y29HclNvZGRUTFhzU0owcXhwcmxndGZrZTdIR2pJUmNCS29USTNEY1ZMUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0a2b1de05d09",
-      "title": "\"소행성 충돌 대응, 내부 핵폭발이 효과적\"…中 연구진",
-      "published": "2026-07-10T06:02:48+00:00",
-      "summary": "\"소행성 충돌 대응, 내부 핵폭발이 효과적\"…中 연구진&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12cmRjSkdxYWtmS1lhSTIzbzg2MnZLTV9JS29BYWN4cm1oS284OEZMdm9NU2FhUndVS2l4V3B0NUw4WXY3SjlYZ09vTkFqQTg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d057e9a3a00e",
-      "title": "해외에서 갑자기 주목하는 ‘이 비타민’, 건강한 장수에 도움된다 - GQ Korea",
-      "published": "2026-07-10T04:05:10+00:00",
-      "summary": "해외에서 갑자기 주목하는 ‘이 비타민’, 건강한 장수에 도움된다&nbsp;&nbsp;GQ Korea",
-      "sources": [
-        {
-          "name": "GQ Korea",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSXJpVUlxc25NSlpFRDhlOVJyWU9UUGZVdXl2aGpoTlR4ei1qelZtQmJkQS14ejlKeVV3RU9ZcEJ3RG9BcjlaaUxpNzdHQUQ5bTI2Y19jWXZQZFNKTkFMMDhUZ0ZFaDJZMXBMNGxNR18zd0lLbTVGVjRHQ1h6NkZtc3doNjNpVWtZb25PdlNKNjF0RnNTeEdtY3EwWk51MzBlUTU1cjhoNk1ieWVoRlhXQS1xQmxqNTk2MXNPN0VEaGMyck4tMXZ3TlhSdThubUQ0T3M5TmcxNVpEcUNGamVfbDVseEhUM2U5UnIwdDRJdEE2Mk9jeGh1T2VfMFNqWFItdlNpZ1FOZXREaFBQcWZUZnpEWGdDSEFFQWdWazItUi1Bd0x3anNKUjREMGJfLVlZbUV2T0dvT0hhWDYtREZkdWcyUEZKZmRybTUwYnkzOGd0bnM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b2810525495b",
-      "title": "관절약으로 먹던 글루코사민,“치매 악화와 관련 있을수도”",
-      "published": "2026-07-10T03:00:00+00:00",
-      "summary": "관절약으로 먹던 글루코사민,“치매 악화와 관련 있을수도”&nbsp;&nbsp;미주한국일보",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JQTd6cXVQb0ZPRW9OX0d4MGt1bXFqLUtzUjM5akV5TmZVR2dKQjZEc1RPWHFPRVdlZjFxU0x6ZDctWml0Ni1GR2lPNWpkZHdJX0sxTEx2cjRVNXJYMjFR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "87c7a6aa95ed",
-      "title": "암 이기는 힘, '효모' 가 키웠다",
-      "published": "2026-07-10T03:00:00+00:00",
-      "summary": "암 이기는 힘, '효모' 가 키웠다&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02d1g2QTd3dWs2S1E0SjctVFBZQ2lWdDFaOV9yQnEtdHU2dzRPMUI1Y1RkOFUwNkJSSVZ6UUNiaVUxQVFCUHRFbXNKb1JNSFVGVnp3ZS1qWTlzbTQ5OGhrOFV3Ny00d1dHQ0IzNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6c0589d1f79f",
       "title": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모",
       "published": "2026-07-09T09:55:27+00:00",
@@ -272,19 +233,6 @@
         {
           "name": "AI타임스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LaHBZTVNHV2N4dWFwVTBCZmZmZWhveF9ZMXp4WUZkR1dHa3NEQm1FNklIaEhMaXd4dUs4ZW9WX1ZfbEhET3g0eEZxOWNIYVp1Tm15QkF5NTM0ZW5VU0syRUp6RzA2TTNucFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d2513c20a9af",
-      "title": "[셀리드 주주간담회]①코로나19 백신 재도전 채비, 저비용 탐색임상 재설계",
-      "published": "2026-07-09T05:00:00+00:00",
-      "summary": "[셀리드 주주간담회]①코로나19 백신 재도전 채비, 저비용 탐색임상 재설계&nbsp;&nbsp;PRESS9",
-      "sources": [
-        {
-          "name": "PRESS9",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jZXlncWZNOHFIMGF0LUEzZWJiV0h1cUVnN2p5ZFdqaG9pbXg0REMyb1I5Um1yMDE3UWpQdk5xcVVkREd3Q21SeUE1QXltRllRX1hoS2lMekRGS0t1VktMZA?oc=5"
         }
       ],
       "matched_keywords": []
