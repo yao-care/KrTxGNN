@@ -1,17 +1,56 @@
 {
-  "last_updated": "2026-07-12T08:21:49.605165+00:00",
-  "total_count": 18,
+  "last_updated": "2026-07-12T13:26:25.149198+00:00",
+  "total_count": 16,
   "matched_count": 0,
   "news": [
     {
-      "id": "18a95e6bacca",
-      "title": "\"암환자 절반은 아시아에\"…WHO가 던진 경고",
-      "published": "2026-07-11T23:00:06+00:00",
-      "summary": "\"암환자 절반은 아시아에\"…WHO가 던진 경고&nbsp;&nbsp;서울경제TV젊다고 안심 못한다…WHO “50세 미만 ‘젊은 암’ 79% 폭증”&nbsp;&nbsp;v.daum.netWHO, “2050년엔 연간 암 발병 3500만건 이를 것”…국내 제약·바이오 기업, 암 치료제 개발 속도&nbsp;&nbsp;경향신문암 치료비 양극화에 가계 보건 지출 폭발… '소득이 생존 가른다'&nbsp;&nbsp;글로벌이코노믹전 세계 암 발생 절반이 아시아…저소득국 생존율↓&nbsp;&nbsp;한스경제",
+      "id": "760a7118228e",
+      "title": "세계 인구 92% 암 영향권…2050년 신환 3500만명",
+      "published": "2026-07-12T11:40:00+00:00",
+      "summary": "세계 인구 92% 암 영향권…2050년 신환 3500만명&nbsp;&nbsp;데일리메디젊다고 안심 못한다…WHO “50세 미만 ‘젊은 암’ 79% 폭증”&nbsp;&nbsp;v.daum.netWHO, “2050년엔 연간 암 발병 3500만건 이를 것”…국내 제약·바이오 기업, 암 치료제 개발 속도&nbsp;&nbsp;경향신문암 치료비 양극화에 가계 보건 지출 폭발… '소득이 생존 가른다'&nbsp;&nbsp;글로벌이코노믹\"암환자 절반은 아시아에\"…WHO가 던진 경고&nbsp;&nbsp;서울경제TV",
       "sources": [
         {
-          "name": "서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCRFkwcmM5cUp3YmhkaGVYUVF2WTZaOEJaaW53UW4xZWIzUnBQQi14alZMNy1sWWh3cEhHWVVwMDZNcnpoUjdaa2hPVEdCNzlOeFFJSVVYQVExakdzSnMwUnRmYUk?oc=5"
+          "name": "데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlX1hWZURPWVhBMTlpODlHR21KVlh6aDExeGJDcjlrcDUyNGZpSndNNlowbTI4Z2JoSThRcFh4ZWMxb0VQN2RBWXU3M3RQcFdmUkNKZk43dUR1cV9SMjVKRExBNnRMUHZL?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "562766915ea7",
+      "title": "검진도 전략적, 40대는 '암'…60세 이상 고령층은?",
+      "published": "2026-07-12T10:08:07+00:00",
+      "summary": "검진도 전략적, 40대는 '암'…60세 이상 고령층은?&nbsp;&nbsp;hidomin.com\"암에는 '특효약' 없어요. 몸의 신호를 빨리 파악하는 수밖에…\"&nbsp;&nbsp;네이트메리놀병원 건강증진센터, 여름철 건강관리 프로그램 운영&nbsp;&nbsp;스포츠월드“암에는 ‘특효약’ 없어요. 몸의 신호를 빨리 파악하는 수밖에…”&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "hidomin.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GclE3b2o0emlkZWtuUFJlb09HZXhxbUk5Nm9GUmg4aWJpWlNCSTRwS1d3bk9XS2FBdmJXWkItVjRQUEp5c2ktQUxITlg0bmEwcWtVNWN4TGF0MTZLcFRqdXBPOWlDR3RlV0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c20778ac0ca0",
+      "title": "“중년 여성들, 신장 꼭 살펴야”… 55세에도 여전히 ‘이 음식’ 즐긴다면 더 조심?",
+      "published": "2026-07-12T10:01:00+00:00",
+      "summary": "“중년 여성들, 신장 꼭 살펴야”… 55세에도 여전히 ‘이 음식’ 즐긴다면 더 조심?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5MV0hESmZvV1U4Slp2Tl9PTVpXXzBfbXhGTmlqY2c3bXlwNmtlMzNwb1pWQjVuMU5kQk1lUDB4cTd1Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "12bd14bc1703",
+      "title": "[성주원의 건강산책] 술 1잔은 건강에 좋을까? 최신 연구가 바꾼 ‘적당한 음주’의 상식",
+      "published": "2026-07-12T09:19:05+00:00",
+      "summary": "[성주원의 건강산책] 술 1잔은 건강에 좋을까? 최신 연구가 바꾼 ‘적당한 음주’의 상식&nbsp;&nbsp;울산제일일보",
+      "sources": [
+        {
+          "name": "울산제일일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FTmxaQUtkd3QxemEtTnQxZnhNNW9tOC15WDFKaTF2cWZUYUQtMFcxNWI4QXJldGY4eDNOLVQydFRkWkJNdG0yQkZMYUw4RUlsV21jZXFET3ROYmJCeWRKZUZ5ME5nUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -25,19 +64,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoVHNMakhPdmhYSXd2Q0tnNVdfUFN5TFM3cENKMTFIcGRMV0dIRlhjb0hTeGhPdWN6czBiSGdTT21IaHlLbDUzTXVPTmJTdE13UHlLSHBlTTA0eTJkczdEQ2lRNEFWNzRGTUV5blM2SVQ2ZmRBeHQzUnVRQ1drWm8?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f815b07b18a2",
-      "title": "“염증 줄이는 효과” 선우용여가 아침으로 먹는다는 ‘두 가지 식품’",
-      "published": "2026-07-11T18:00:00+00:00",
-      "summary": "“염증 줄이는 효과” 선우용여가 아침으로 먹는다는 ‘두 가지 식품’&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBySzZuMlpWWWRrYWNGVGhTckpfbUUwTlp4ODZHSDR6RGVaTXhHQS1LeTEzOVpKa1gwR3NhSXU2MlBWNGoyMGlmaEVIRkY3bjNDYlFjRm52Vy1wcVgxSXBpSFpyamZZOGlEVmNCbHdqaFd3eXNxUVFZbWoySFFFLXM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,19 +147,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fb0f950ea8b0",
-      "title": "\"칫솔 교체 한지 '이 기간' 지났다면 지금 당장 버리세요\"... 잇몸 약해지고 치아 손상됩니다",
-      "published": "2026-07-11T02:00:00+00:00",
-      "summary": "\"칫솔 교체 한지 '이 기간' 지났다면 지금 당장 버리세요\"... 잇몸 약해지고 치아 손상됩니다&nbsp;&nbsp;아던트뉴스[톡톡 100세 인생] 건강한 치아를 위한 첫걸음...칫솔모 관리부터&nbsp;&nbsp;팝콘뉴스양치만으로는 부족한 구강 관리…정기 스케일링이 필요한 이유&nbsp;&nbsp;이코노미사이언스[헬스 플러스+] 생활 속 구강관리, 평생 건강 지키는 첫걸음&nbsp;&nbsp;강원도민일보치실 사용 ‘양치 전 vs 양치 후’ 난제 풀렸다…둘 다 틀렸다는데&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "아던트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wUzJOblFUdmJXaW50ZEx3X01INHFKUHlhcDhHZHhkeXdzUVAtQ1N2UlhNeGpzVUVNemxFVm9TVTBKVndDUEs0RkRJbF91Z0ZncF9yMHZycVBtRjZZbVlPVjhfU3ZuMmVwYWJ4M0djb9IBc0FVX3lxTFBRQk1jS0JfSGI1TnZyWXpxNmpDbUlwWmNkM3NmeU1SUzFWZHYyWWtSOWdDVDFWc3NfcnJnLXJVQjZZc2Fzb1hNRnAyMHJoMDZadGlHemtpTFpZcDRLaHpWMDRYYnpkRUs3cEM1azM2QmJuNjQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "51f2a852b2cc",
       "title": "골다공증 예방 위한 칼슘 보충제…누구에게나 안전할까 [박민선의 건강톡톡]",
       "published": "2026-07-11T00:01:48+00:00",
@@ -150,7 +163,7 @@
       "id": "b189d04dc263",
       "title": "\"아버지 치매 80대까지 늦췄다\" 정신과 의사 '뇌 펌핑' 비법",
       "published": "2026-07-10T21:01:00+00:00",
-      "summary": "\"아버지 치매 80대까지 늦췄다\" 정신과 의사 '뇌 펌핑' 비법&nbsp;&nbsp;네이트“아버지 치매 80대까지 늦췄다” 정신과 의사 ‘뇌 펌핑’ 비법&nbsp;&nbsp;v.daum.net\"중증 치매인데 멀쩡하게 생활\" 100세 수녀 부검으로 밝혀진 '뇌의 비밀'[건강비책]&nbsp;&nbsp;네이트“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선[한광식 칼럼] 생활습관으로 지키는 ‘뇌 건강’&nbsp;&nbsp;한국강사신문",
+      "summary": "\"아버지 치매 80대까지 늦췄다\" 정신과 의사 '뇌 펌핑' 비법&nbsp;&nbsp;네이트“아버지 치매 80대까지 늦췄다” 정신과 의사 ‘뇌 펌핑’ 비법&nbsp;&nbsp;v.daum.net\"중증 치매인데 멀쩡하게 생활\" 100세 수녀 부검으로 밝혀진 '뇌의 비밀'[건강비책]&nbsp;&nbsp;네이트“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "네이트",
@@ -173,6 +186,19 @@
       "matched_keywords": []
     },
     {
+      "id": "47280a68222a",
+      "title": "[CAR T는 혈액암 치료 방식을 혁신했다. 이제 고형 종양에 가까워지고 있다] 특히 주목할 점은 GPNMB가 단순히 암세포에만 존재하는 것이 아니라, 암을 보호하는 면역 억제 세포에도 발현된다는 사실이다.",
+      "published": "2026-07-10T15:04:00+00:00",
+      "summary": "[CAR T는 혈액암 치료 방식을 혁신했다. 이제 고형 종양에 가까워지고 있다] 특히 주목할 점은 GPNMB가 단순히 암세포에만 존재하는 것이 아니라, 암을 보호하는 면역 억제 세포에도 발현된다는 사실이다.&nbsp;&nbsp;AI넷",
+      "sources": [
+        {
+          "name": "AI넷",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5qRXhaVy00MHBka0JWMF9ubkI4a3pKQ1QwS0ZHVERIeHNzb3cwZVNBcWFSMHI5aUthQk9VYlc4bkw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "92170dd16306",
       "title": "아침밥, 단백질 vs 탄수화물? 혈당 잡는 조합은",
       "published": "2026-07-10T13:00:17+00:00",
@@ -181,58 +207,6 @@
         {
           "name": "조세일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVdXJrSXItZmZzWmxyc0VrODR6QURVU29qeGE2c1FxeGtURU9meEI5S2FidnpuSDYtR2JPTVcxVm9BTGQ0X1ZucGpZb21Fd3RWdlZRb1d1TmNCWmE5Y1lF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d6407160f73e",
-      "title": "“머리 말리다 발견” 팔 들었더니 보인 유방암 신호, 뭐였을까?",
-      "published": "2026-07-10T10:30:00+00:00",
-      "summary": "“머리 말리다 발견” 팔 들었더니 보인 유방암 신호, 뭐였을까?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmb2NSSnpCQ281M1Q4R3UyUWRZb1l4ODBzSkRvdGU2SDExVVAyWFBNWTVCTm9YeF9vcFA2WXVLZS1feW1RcU9WRHV1WTA1N0Q5dDFHZ0tzc0pUcFpIYmFpV2hsa2VqU3lJdzdMWmVpQU9QVTNPTWlpaGZ5VzNZclE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2665ba86cb61",
-      "title": "뇌 전이 폐암, 면역항암제 두 가지 병용 시 종양 억제 효과 뚜렷… “면역세포 차단 환경 극복”",
-      "published": "2026-07-10T09:00:00+00:00",
-      "summary": "뇌 전이 폐암, 면역항암제 두 가지 병용 시 종양 억제 효과 뚜렷… “면역세포 차단 환경 극복”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fSXlCSTNvU0MyNzB5bUt3Uldvcm82Zm93YXVrQUdJR25MNWlVQTYzSVRBUkNFWElCcE54WnFLY1hPT1lfUmlaTW5mTktyMTJIMHpsZW5FMEJ2UlVCQkkwaWh6b2l4T1p6T1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b45c7ee6793c",
-      "title": "[우리동네소식] “군자동 체육회, 찾아가는 건강교실로 주민 건강 지킨다”",
-      "published": "2026-07-10T08:08:00+00:00",
-      "summary": "[우리동네소식] “군자동 체육회, 찾아가는 건강교실로 주민 건강 지킨다”&nbsp;&nbsp;성광일보",
-      "sources": [
-        {
-          "name": "성광일보",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xbzNzNXFEaTVLYWgtQTJKVjBFYTRaRkkxNEhaUGhpX1V4SlJwUkdoaEhQemROVVl5dkxtWnQ5ZFUzRWJmcVFSdjJCNV9GZ0FnY1lwSQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6c0589d1f79f",
-      "title": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모",
-      "published": "2026-07-09T09:55:27+00:00",
-      "summary": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LaHBZTVNHV2N4dWFwVTBCZmZmZWhveF9ZMXp4WUZkR1dHa3NEQm1FNklIaEhMaXd4dUs4ZW9WX1ZfbEhET3g0eEZxOWNIYVp1Tm15QkF5NTM0ZW5VU0syRUp6RzA2TTNucFE?oc=5"
         }
       ],
       "matched_keywords": []
