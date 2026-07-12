@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-12T13:26:25.077457+00:00",
-  "total_fetched": 42,
-  "unique_count": 42,
+  "fetched_at": "2026-07-12T19:09:16.031716+00:00",
+  "total_fetched": 43,
+  "unique_count": 43,
   "health_related_count": 16,
   "news": [
+    {
+      "id": "223d3aff6151",
+      "title": "뇌세포까지 지휘하는 인슐린… ‘대사 유연성’에 주목하라 - 조선일보",
+      "published": "2026-07-12T18:00:00+00:00",
+      "summary": "뇌세포까지 지휘하는 인슐린… ‘대사 유연성’에 주목하라&nbsp;&nbsp;조선일보“당뇨병 부추긴다” 인슐린 저항성 높이는 습관 5가지&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LRUNBZHE5eUp4dUN5RlM4NThWa0ozdWlfdkQ5eDdqdEdiZjIzb2NfMmNQTG9hRmEtYVVWNlo0LTFybmZnWE90d2hvSUxOUmlMd2xGdEJEeENhR2JFTjYza1NXWmgxLWQ1c3JwUDllUmxHMGl6N0R3QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0e3773b2493",
+      "title": "당뇨병 환자, 80세 넘으면 치매 사망 더 가파르게 증가 - 헬스조선",
+      "published": "2026-07-12T12:00:00+00:00",
+      "summary": "당뇨병 환자, 80세 넘으면 치매 사망 더 가파르게 증가&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JTUM2Tm9XdkJwNWpkaXZIUFFrTFVLR0owZTczMFYyRHRsdFJSdlpnZDVrOUpPMmRhNTBaZDdGSG5uLXlWUFBiTF9oRTJoZGMyb1B5Y09NMU0xemtkNS1YZEg5TW5uXzN2SDVodTdnRGRoenl1ZWU4UUdRT1VYOGs?oc=5"
+        }
+      ]
+    },
     {
       "id": "760a7118228e",
       "title": "세계 인구 92% 암 영향권…2050년 신환 3500만명 - 데일리메디",
@@ -44,7 +68,7 @@
     {
       "id": "12bd14bc1703",
       "title": "[성주원의 건강산책] 술 1잔은 건강에 좋을까? 최신 연구가 바꾼 ‘적당한 음주’의 상식 - 울산제일일보",
-      "published": "2026-07-12T09:19:05+00:00",
+      "published": "2026-07-12T09:19:00+00:00",
       "summary": "[성주원의 건강산책] 술 1잔은 건강에 좋을까? 최신 연구가 바꾼 ‘적당한 음주’의 상식&nbsp;&nbsp;울산제일일보",
       "sources": [
         {
@@ -141,7 +165,7 @@
       "id": "51f2a852b2cc",
       "title": "골다공증 예방 위한 칼슘 보충제…누구에게나 안전할까 [박민선의 건강톡톡] - v.daum.net",
       "published": "2026-07-11T00:01:48+00:00",
-      "summary": "골다공증 예방 위한 칼슘 보충제…누구에게나 안전할까 [박민선의 건강톡톡]&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "골다공증 예방 위한 칼슘 보충제…누구에게나 안전할까 [박민선의 건강톡톡]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
@@ -170,30 +194,6 @@
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vLUVmVHNBcnlFTF9neFA0WDJJT0pBQlFOa29RWGNxM29IeFhjcGdYMjZXQm5yRHpmaEpva2RoWFhOR05mQTQtSzNrVHJBMU4xa3VmZFRNbE1TWU9TLTZUS2cwV1gwX3RPOVFkeA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47280a68222a",
-      "title": "[CAR T는 혈액암 치료 방식을 혁신했다. 이제 고형 종양에 가까워지고 있다] 특히 주목할 점은 GPNMB가 단순히 암세포에만 존재하는 것이 아니라, 암을 보호하는 면역 억제 세포에도 발현된다는 사실이다. - AI넷",
-      "published": "2026-07-10T15:04:00+00:00",
-      "summary": "[CAR T는 혈액암 치료 방식을 혁신했다. 이제 고형 종양에 가까워지고 있다] 특히 주목할 점은 GPNMB가 단순히 암세포에만 존재하는 것이 아니라, 암을 보호하는 면역 억제 세포에도 발현된다는 사실이다.&nbsp;&nbsp;AI넷",
-      "sources": [
-        {
-          "name": "AI넷",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5qRXhaVy00MHBka0JWMF9ubkI4a3pKQ1QwS0ZHVERIeHNzb3cwZVNBcWFSMHI5aUthQk9VYlc4bkw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "92170dd16306",
-      "title": "아침밥, 단백질 vs 탄수화물? 혈당 잡는 조합은 - 조세일보",
-      "published": "2026-07-10T13:00:17+00:00",
-      "summary": "아침밥, 단백질 vs 탄수화물? 혈당 잡는 조합은&nbsp;&nbsp;조세일보“혈당에 이로워” 간식으로 매일 먹어도 좋은 음식 5가지&nbsp;&nbsp;헬스조선혈당 스파이크 막으려면 밥 먹기 30분 전 '이 과일'을 드세요! (당뇨 전단계 필독)&nbsp;&nbsp;코메디닷컴“혈관 늙는 음식 따로 있었다”…윤은혜 식단→임영웅 양파쌈 주목받는 이유&nbsp;&nbsp;뉴스와\"혈당 관리의 기본은 식사와 약물\"...당뇨 환자가 꼭 확인해야 할 영양소는?&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVdXJrSXItZmZzWmxyc0VrODR6QURVU29qeGE2c1FxeGtURU9meEI5S2FidnpuSDYtR2JPTVcxVm9BTGQ0X1ZucGpZb21Fd3RWdlZRb1d1TmNCWmE5Y1lF?oc=5"
         }
       ]
     }
