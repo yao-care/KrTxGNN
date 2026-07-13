@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-13T14:40:34.689783+00:00",
-  "total_count": 45,
+  "last_updated": "2026-07-13T19:25:58.192733+00:00",
+  "total_count": 44,
   "matched_count": 0,
   "news": [
+    {
+      "id": "25801df5817b",
+      "title": "\"하루 80분 덜 잤을 뿐인데\"... 6주 만에 허리둘레 늘고 비만·당뇨 위험 치솟아",
+      "published": "2026-07-13T14:51:34+00:00",
+      "summary": "\"하루 80분 덜 잤을 뿐인데\"... 6주 만에 허리둘레 늘고 비만·당뇨 위험 치솟아&nbsp;&nbsp;프리진뉴스“다이어트 적은 야식? 아니었다”…당장 1시간 덜 자면 벌어지는 일 [헬시타임]&nbsp;&nbsp;서울경제폭염·장마에 뺏긴 잠, 체중 감량 막고 인슐린 저항성 높인다&nbsp;&nbsp;네이트“규칙적인 생활, 생각보다 중요”&nbsp;&nbsp;원주투데이\"매일 90분씩 덜 자면 1년에 체중 약 5kg 증가\" > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN",
+      "sources": [
+        {
+          "name": "프리진뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOQm9SakdXYmlsZHY2MHNDVGNVaEhQRm5QX0pjdW16V1ZURWdWRjJfSXE2aDNYTlBuZGtWbWVaa3RZanNXZ1dpZW1OeXFCTEFyOFpPNlZSaTk5THlWc3dLS1p4UnNrQjFZb01RTUhnYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "40f65fee33c2",
       "title": "뎅기열 증가, 람동의 많은 지역에서 전염병 예방 및 통제에 집중",
@@ -56,19 +69,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d765f3425217",
-      "title": "후에 중앙 병원, 11번째 간 이식 환자 퇴원 허가",
-      "published": "2026-07-13T08:08:59+00:00",
-      "summary": "후에 중앙 병원, 11번째 간 이식 환자 퇴원 허가&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlh1dG1hSE84S21pai0yaWNrdFg4TGhLMGw5N0RpdEJ1bVZDenFFS05mV19qc1E3cWdVeUF0N1I3NlNuLUFIQ0I3dzBRekhNMk1FU0gyS0tGTzFweFNWS3VVSFp2Nm51RVV1OTl2aDZpMnUzamJXWnRaZU5ha2t5MDFsLWI4Zm1BRFpQY3dMRFhaNXpkSnBDX19LU01MNjM0N2ZvNndENEVtM28?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a83e4b16300c",
       "title": "“아내와 성생활 20년 없었는데”…응급실 찾은 83세男 ‘매독’ 진단 미스터리",
       "published": "2026-07-13T07:55:35+00:00",
@@ -111,7 +111,7 @@
       "id": "60f6b3c71d11",
       "title": "은평성모병원, 위장관 천공 잡는 AI 개발…\"응급실 제2의 눈\"",
       "published": "2026-07-13T07:03:35+00:00",
-      "summary": "은평성모병원, 위장관 천공 잡는 AI 개발…\"응급실 제2의 눈\"&nbsp;&nbsp;서울경제TV응급수술 필요한 천공…\"의사가 놓쳐도 AI가 발견\"&nbsp;&nbsp;뉴시스AI가 복부 CT서 ‘유리가스’ 잡아낸다…위장관 천공 조기 진단 가능성 확인&nbsp;&nbsp;의학신문“응급실 놓치기 쉬운 천공 잡는다”… AI 진단 모델 개발&nbsp;&nbsp;간호사신문위험하지만 놓치기 쉬운 ‘유리가스’ AI로 찾는다&nbsp;&nbsp;의협신문",
+      "summary": "은평성모병원, 위장관 천공 잡는 AI 개발…\"응급실 제2의 눈\"&nbsp;&nbsp;서울경제TV응급수술 필요한 천공…\"의사가 놓쳐도 AI가 발견\"&nbsp;&nbsp;뉴시스은평성모병원 김동진 교수팀, 복부 CT 유리가스 탐지 AI 개발&nbsp;&nbsp;의약뉴스응급 수술 필요한 '복강 내 유리가스' AI로 찾아낸다&nbsp;&nbsp;은평시민신문AI가 복부 CT서 ‘유리가스’ 잡아낸다…위장관 천공 조기 진단 가능성 확인&nbsp;&nbsp;의학신문",
       "sources": [
         {
           "name": "서울경제TV",
@@ -384,24 +384,11 @@
       "id": "0f4a17c098f1",
       "title": "[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다",
       "published": "2026-07-12T22:58:54+00:00",
-      "summary": "[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다&nbsp;&nbsp;하이닥RSV와 대상포진은 만성 호흡기 질환 환자의 합병증 위험을 증가시킵니다.&nbsp;&nbsp;Vietnam.vn계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다&nbsp;&nbsp;하이닥계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "뉴스인",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfRTBHVUdxYVJkLVlHZE9Lc3ZhMnJUWnllcGZENHdWWUxoUnFScmpzU0Q5cVRsUmRPMkJvcEluNXNQTHdwTXZmOHdKNURFT0ZabDFTeVRlWHIzMGVvQlhmcWdia01jQkxtaGFF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1a300b991095",
-      "title": "요즘 '젊은 치매' 늘더니…\"1인당 '1억' 손실\" 무서운 경고",
-      "published": "2026-07-12T21:29:04+00:00",
-      "summary": "요즘 '젊은 치매' 늘더니…\"1인당 '1억' 손실\" 무서운 경고&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsV3E4akthR0cxVmJJbkxqSF9pcWgyWFRrdG1zNXcweEZaeVZIS0tIZC1lY1hfNllIODJxUmxFLXA3a29MdzVkNWNqRGx6ZnVoLUU4U3ZVZVEzUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -433,19 +420,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f05162298433",
-      "title": "\"임신·출산 전 주기 효과, 임상 데이터로 증명한 유트로게스탄\"",
-      "published": "2026-07-12T20:00:00+00:00",
-      "summary": "\"임신·출산 전 주기 효과, 임상 데이터로 증명한 유트로게스탄\"&nbsp;&nbsp;메디칼타임즈",
-      "sources": [
-        {
-          "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mSFVOZjd5WnlwUThfbXp2cGlUWmJGZ1V5V0s1UzlKbU9OMkxwaUtMckhDTlhjaEFPN2EzcjhRUndfR25OcmpMaFhJTmFjYTdPUXNWTmhxS0lTUmNZbXcyM3VJUjliazNzMDdSWFZxU2k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c929ab0dda4e",
       "title": "“검진 정상 믿었는데”…생존율 17% ‘침묵의 암’ 키우는 3가지 습관",
       "published": "2026-07-12T20:00:00+00:00",
@@ -454,6 +428,19 @@
         {
           "name": "세계일보",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uXzVSWjR6UFhtVFBxYmhNckxJeEpScExBamVHYkdTM3lHdEZVeG1CZGVucUc3RWRfNWxPN3Q5WGxacHV1X3dLZU90cnlnbWRBRHI1djI3SEzSAVRBVV95cUxPdm00YlRsb0dlSFlVelVXNC1xanlGX2E5RTNzemtxaVhqSVFrSXBOektoTjFrZnk0NXFSdkZyUlJJSFByUlF4TmtPUnhUTTFqdjl2SGo?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f05162298433",
+      "title": "\"임신·출산 전 주기 효과, 임상 데이터로 증명한 유트로게스탄\"",
+      "published": "2026-07-12T20:00:00+00:00",
+      "summary": "\"임신·출산 전 주기 효과, 임상 데이터로 증명한 유트로게스탄\"&nbsp;&nbsp;메디칼타임즈",
+      "sources": [
+        {
+          "name": "메디칼타임즈",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mSFVOZjd5WnlwUThfbXp2cGlUWmJGZ1V5V0s1UzlKbU9OMkxwaUtMckhDTlhjaEFPN2EzcjhRUndfR25OcmpMaFhJTmFjYTdPUXNWTmhxS0lTUmNZbXcyM3VJUjliazNzMDdSWFZxU2k?oc=5"
         }
       ],
       "matched_keywords": []
@@ -550,19 +537,6 @@
       "matched_keywords": []
     },
     {
-      "id": "d89b86b87046",
-      "title": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야",
-      "published": "2026-07-12T06:15:00+00:00",
-      "summary": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야&nbsp;&nbsp;경제투데이Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "경제투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VOG5VMGpXVzNfbWJZOTRfalJBckx2azBWYktReDdxT25HWWJHMHV3OVNLcFF6V0wwaXZHVUl4cl9sVEstdmZrdUZBajV0UnRXVjcxLXNzdnpnUXBaam94SGN5YjgzMU3SAWtBVV95cUxNbkd0WWlpOEFqRVVLS1NsQ1BXX25ZUU52LWVMZTRWbG5FeEd1amV5SEtPV0s0Q3BmbGo1NU1FMkJLZks5RzdLTFkycVJNSFg1S2JyM3l0cHJtWXNhbDI0VmtuUjc5MUotUEFlRQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "4945b8af161c",
       "title": "과기부 ‘전략기술 박사후연구원 프로젝트’ 본격 시동",
       "published": "2026-07-12T03:02:00+00:00",
@@ -571,6 +545,19 @@
         {
           "name": "데일리안",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91WkdTcTRvWmRYc2dFXzBGbTFtVl9yeTJvUU10d19tekNNQWliczNRVF9hX2RJWVRzQUpMNy1xaFd1RzZubXdOZVMzelQxRnE1QU82VE1R0gFYQVVfeXFMTzlndE11VDZYazRaaENtUVpWVXJscTdYTEVwV2ozaEcyUlVtcXRjMjZqclJaVEVXMGNHN19oTGpKMmloRFFEcnJiRGtrN1BVQi0yZUNrVi1vUA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ae07a9dd6edd",
+      "title": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야",
+      "published": "2026-07-12T01:00:00+00:00",
+      "summary": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mVGVTTkFfS2JPTE1scU1MM1lZZzN5Y3V4Tk5VZjZuRjBIbjFEdVgtZ01DdUVOZkFobEZ4X29IbFJ4NWl1RE5YQWJLQ3l0RjdDZVRZ?oc=5"
         }
       ],
       "matched_keywords": []
