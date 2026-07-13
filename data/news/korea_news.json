@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-13T09:32:38.479921+00:00",
-  "total_fetched": 67,
-  "unique_count": 67,
-  "health_related_count": 40,
+  "fetched_at": "2026-07-13T14:40:34.534845+00:00",
+  "total_fetched": 75,
+  "unique_count": 75,
+  "health_related_count": 45,
   "news": [
+    {
+      "id": "40f65fee33c2",
+      "title": "뎅기열 증가, 람동의 많은 지역에서 전염병 예방 및 통제에 집중 - Laodong.vn",
+      "published": "2026-07-13T12:30:08+00:00",
+      "summary": "뎅기열 증가, 람동의 많은 지역에서 전염병 예방 및 통제에 집중&nbsp;&nbsp;Laodong.vn베트남·방글라데시 등 뎅기열 확산…감염 주의&nbsp;&nbsp;YTN뎅기열 환자가 증가하면서 우기철에 발생할 수 있는 집단 발병에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn하노이 뎅기열·수족구 급증… 교민사회 '초기 증상 오인' 주의해야(Sharp Surge in Dengue and HFMD Cases in Hanoi: Korean Community Warned Not to Misinterpret Early Symptoms)&nbsp;&nbsp;글로벌휴먼타임즈이 백신은 뎅기열로 인한 입원 위험을 90% 이상 줄이는 데 도움이 됩니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWI3YTJpWWRFR3c1bjIwVmVlTHhTb0Iza1UyVDJ0UUhkMDBkbWZmbGp2d2hrQWdTcGRTQUtNMFNFNmpYbnctVDVWWEJGU3oxZDlFTkhnMVFtYjNSVHF5RmQtSzJpMzBEZERWX0FvT2xYdnJMNDBDMXI3ZGt2WHJMUE9UT0lSUEFSRkRXUE9TaFpFSndYMXF0eW1jeFB5OE1zMUdMUjNrRTZWZVc0OGVtTFVlN09FLVNiWE95Tmt3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8d923f980eb5",
+      "title": "고지혈증 환자가 건강 상태를 개선하기 위해 해야 할 4가지 - Laodong.vn",
+      "published": "2026-07-13T11:30:00+00:00",
+      "summary": "고지혈증 환자가 건강 상태를 개선하기 위해 해야 할 4가지&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclRteDNtWFgzakZzVmtPTS16MjVrVlU0LXJFXzI5enJFUW1IRW5mVDNQNnlvUzlNWjJUUno4TnhNbmR0cFlsdUtxZ3lnOGZRR3Y3enFJSkpjZkRwdmlOa3lBVnBQZkotbTBVb095ak52NzVKVUJDM2tuU1pLei1ZNVpHLXB4YW80UUtRbFlGVWRrc2dkRVdBT3JzOFJBekxleVNoa1RwWVA?oc=5"
+        }
+      ]
+    },
     {
       "id": "ab5ed20b1d4b",
       "title": "베피로비르센, 만성B형간염 19~20%서 기능적완치 기준 충족 - mostonline.co.kr",
@@ -18,10 +42,46 @@
       ]
     },
     {
+      "id": "611ee13bcd25",
+      "title": "블루투스이어폰을 장기간 착용하면 갑상선 결절, 암 유발한다?--건강 - 인민넷",
+      "published": "2026-07-13T08:21:00+00:00",
+      "summary": "블루투스이어폰을 장기간 착용하면 갑상선 결절, 암 유발한다?--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JTkN3bzk4dUs0Y2NkWFdZeGszckRNS0daNFlGUl9Ud09HTHVKMEZOWVl2ZVF6V1NyV3N4dE5MZTc0RW9pVEhRcVlyX2tYTWh3UUFwMUJvM1pKWWZpbktsRE9zSXJKWm1RSl9wX3lB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d765f3425217",
+      "title": "후에 중앙 병원, 11번째 간 이식 환자 퇴원 허가 - Laodong.vn",
+      "published": "2026-07-13T08:08:59+00:00",
+      "summary": "후에 중앙 병원, 11번째 간 이식 환자 퇴원 허가&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNlh1dG1hSE84S21pai0yaWNrdFg4TGhLMGw5N0RpdEJ1bVZDenFFS05mV19qc1E3cWdVeUF0N1I3NlNuLUFIQ0I3dzBRekhNMk1FU0gyS0tGTzFweFNWS3VVSFp2Nm51RVV1OTl2aDZpMnUzamJXWnRaZU5ha2t5MDFsLWI4Zm1BRFpQY3dMRFhaNXpkSnBDX19LU01MNjM0N2ZvNndENEVtM28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a83e4b16300c",
+      "title": "“아내와 성생활 20년 없었는데”…응급실 찾은 83세男 ‘매독’ 진단 미스터리 - 서울신문",
+      "published": "2026-07-13T07:55:35+00:00",
+      "summary": "“아내와 성생활 20년 없었는데”…응급실 찾은 83세男 ‘매독’ 진단 미스터리&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mTnpnajcwMmJKaXUybG8zM3lnTjJKVHdfUks4RFliRndZcV9JZ3FLNm9PWDQ4NU5aMUdwNW1vNk1zNWxMWlRUTHRWU1Y0WlZJTEhQdmRteU5ITWFvcXNfTVhlUk9MemRscDV6WGhqSXNwTDUxZ1JR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "47bc226fd7ee",
       "title": "알츠하이머 협회 국제 콘퍼런스 2026: 라이프스타일 프로그램, 라틴아메리카 전역에서 치매 위험이 있는 노인들의 뇌 건강 개선 - ACROFAN",
       "published": "2026-07-13T07:53:00+00:00",
-      "summary": "알츠하이머 협회 국제 콘퍼런스 2026: 라이프스타일 프로그램, 라틴아메리카 전역에서 치매 위험이 있는 노인들의 뇌 건강 개선&nbsp;&nbsp;ACROFAN",
+      "summary": "알츠하이머 협회 국제 콘퍼런스 2026: 라이프스타일 프로그램, 라틴아메리카 전역에서 치매 위험이 있는 노인들의 뇌 건강 개선&nbsp;&nbsp;ACROFAN[PRNewswire] 알츠하이머 협회 국제 콘퍼런스 2026&nbsp;&nbsp;네이트[PRNewswire] 2026 알츠하이머협회 국제콘퍼런스 발표 자료&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "ACROFAN",
@@ -68,12 +128,24 @@
     {
       "id": "d99ae8545c5b",
       "title": "과기정통부, 대국민 AI 서비스 개발 착수 - 조선일보",
-      "published": "2026-07-13T06:46:00+00:00",
+      "published": "2026-07-13T06:54:04+00:00",
       "summary": "과기정통부, 대국민 AI 서비스 개발 착수&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNU1hTXJDNXhkaGNvaV9mcmlmMW1hcHI1UE8xZDZxME0xNDVsRlAzeFBPUTIweGlBdDdtdmEwcy10bmRXR3RwamJGWkU0Qk10cjhMSVUwZG9xaUg4QXRxeGVNMGFBeUEyamFZUW0wTENIVXBVZ3UxVUQ3VHVQQk1qZkFNYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fca2ddb05114",
+      "title": "변비약보다 낫네, 영양사가 고른 홈메이드 음료는? [식탐] | - HeraldK.com",
+      "published": "2026-07-13T06:50:00+00:00",
+      "summary": "변비약보다 낫네, 영양사가 고른 홈메이드 음료는? [식탐] |&nbsp;&nbsp;HeraldK.com",
+      "sources": [
+        {
+          "name": "HeraldK.com",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTWFXbTFSeXRBRUYzYWIxbGQ2VnBkQ05KOWY1LVh0MS12djNpV3FoM1U4OG9uWmlJelhOM1pYU3AzbHJNMmt5dkpqSm5FbU8xYTdfZzVqNzZUQ2lVTjhyRE5malhLYUgtSjFObTFsblhzb1M5d3FHaHY1MldrUmRJZUxMVGpsNG83ZE16bnlMdFZwQ1RBd3JsbEF4R0JnMGUwZTcxb3FNQndfMXdqWVphRnJnajhHRDM1T3hYWHAwUWtCcHNSVVlWeHNhRTFOczFQSDd0SVJJX1FrZjVkc0h1ajkwQ1Z2QXV1dk1FeFdxYWx3ME13UHNxN0dYUWMwSFg5T2hHOV9LX0RmY1V0TEpud3V1UzZBWU5nUjZ5dC1FdE1EbDZBVk1DLUpUanlSYnFKenhoVVhOWUQ4NVlYRWtmbzNRT2hLLVVnNkJB?oc=5"
         }
       ]
     },
@@ -102,22 +174,10 @@
       ]
     },
     {
-      "id": "49d57bd01042",
-      "title": "여름 휴가철 해외유입 감염병 주의보 - 제주매일",
-      "published": "2026-07-13T04:16:51+00:00",
-      "summary": "여름 휴가철 해외유입 감염병 주의보&nbsp;&nbsp;제주매일동두천시보건소 북중미 월드컵 대비 홍역 감염병 주의 당부 > 뉴스&nbsp;&nbsp;더코리아여름휴가철 해외유입 감염병 주의보&nbsp;&nbsp;컬처제주",
-      "sources": [
-        {
-          "name": "제주매일",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hazNUQnkwSXpEb1N4V0diZmh3ZWR5SzdhZmgzOVpoeVVvQlJEM1RHNmxzbVpBVUtmMC1Gem5fUVJmaTdIcFhlMjBaM0hzR3lrTVlJSTV6bU5WSFdCREQ3YTRkRjhLcDVXTFl6Xw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "218df47f9a23",
       "title": "전문가, 건강하게 먹어도 혈압 상승하는 실수 지적 - Laodong.vn",
       "published": "2026-07-13T03:32:07+00:00",
-      "summary": "전문가, 건강하게 먹어도 혈압 상승하는 실수 지적&nbsp;&nbsp;Laodong.vn‘이 과일’ 하루 한 컵, 딱딱한 혈관 부드러워진다&nbsp;&nbsp;헬스조선매일 챙겨 먹으면 병원 갈 일 없다는 '이 과일'…심혈관질환 예방에 탁월&nbsp;&nbsp;전자신문뇌졸중·심근경색 유발하는 '고혈압'…몸 속 나트륨만 배출해도 도움된다&nbsp;&nbsp;네이트일본 전문가가 건강한 삶을 위해 주방에 꼭 갖춰야 할 과일 5가지를 공개합니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "전문가, 건강하게 먹어도 혈압 상승하는 실수 지적&nbsp;&nbsp;Laodong.vn매일 챙겨 먹으면 병원 갈 일 없다는 '이 과일'…심혈관질환 예방에 탁월&nbsp;&nbsp;전자신문식탁 위에 올리는 천연 혈압 조절제, 심장 건강의 시작이다&nbsp;&nbsp;울산종합일보“혈관 건강해진다”… 영양사 추천 ‘최고의 간식’은?&nbsp;&nbsp;헬스조선뇌졸중·심근경색 유발하는 '고혈압'…몸 속 나트륨만 배출해도 도움된다&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -201,7 +261,7 @@
       "id": "a6e1b04c7dc5",
       "title": "WHO의 경고…“2050년 신규 암환자 3500만명” - 동아일보",
       "published": "2026-07-13T01:09:09+00:00",
-      "summary": "WHO의 경고…“2050년 신규 암환자 3500만명”&nbsp;&nbsp;동아일보암 진단 늘고 사망 위험은 줄었다… '착시'와 '항암 혁신'의 정체&nbsp;&nbsp;글로벌이코노믹WHO, “2050년엔 연간 암 발병 3500만건 이를 것”…국내 제약·바이오 기업, 암 치료제 개발 속도&nbsp;&nbsp;경향신문젊다고 안심 못한다…WHO “50세 미만 ‘젊은 암’ 79% 폭증”&nbsp;&nbsp;v.daum.net소득과 사는 지역이 암 생존율을 가른다&nbsp;&nbsp;캐어유 뉴스",
+      "summary": "WHO의 경고…“2050년 신규 암환자 3500만명”&nbsp;&nbsp;동아일보“태어난 나라가 생사 가른다”… WHO가 경고한 ‘2050년 암 재앙’&nbsp;&nbsp;헬스조선암 진단 늘고 사망 위험은 줄었다… '착시'와 '항암 혁신'의 정체&nbsp;&nbsp;글로벌이코노믹암 절반 가까이 예방 가능성...조기검진과 치료 접근성 중요&nbsp;&nbsp;메디컬투데이젊다고 안심 못한다…WHO “50세 미만 ‘젊은 암’ 79% 폭증”&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "동아일보",
@@ -282,10 +342,22 @@
       ]
     },
     {
+      "id": "f17201c87708",
+      "title": "[의료칼럼] 인슐린 저항성과 다낭성 난소 증후군 - 경남신문",
+      "published": "2026-07-12T23:06:39+00:00",
+      "summary": "[의료칼럼] 인슐린 저항성과 다낭성 난소 증후군&nbsp;&nbsp;경남신문뇌세포까지 지휘하는 인슐린… ‘대사 유연성’에 주목하라&nbsp;&nbsp;조선일보“당뇨병 부추긴다” 인슐린 저항성 높이는 습관 5가지&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "경남신문",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGLTB3YkJKWXNUWFZRcTFkeFZYdTJCQi1GYU9kd2FINGZaUkhtempETHIwSWxWUnZ1Y0FxemZrMTUtQ1BWaTljNHgzZWhsS0l0b1JBOGlSRVg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0f4a17c098f1",
       "title": "[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다 - 뉴스인",
       "published": "2026-07-12T22:58:54+00:00",
-      "summary": "[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다&nbsp;&nbsp;하이닥계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다&nbsp;&nbsp;하이닥RSV와 대상포진은 만성 호흡기 질환 환자의 합병증 위험을 증가시킵니다.&nbsp;&nbsp;Vietnam.vn계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "뉴스인",
@@ -357,7 +429,7 @@
       "id": "5c15a7a0ce2b",
       "title": "아침식사 거르면 대사증후군 위험 '쑤욱' - 주간조선",
       "published": "2026-07-12T19:00:00+00:00",
-      "summary": "아침식사 거르면 대사증후군 위험 '쑤욱'&nbsp;&nbsp;주간조선",
+      "summary": "아침식사 거르면 대사증후군 위험 '쑤욱'&nbsp;&nbsp;주간조선Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "주간조선",
@@ -366,14 +438,14 @@
       ]
     },
     {
-      "id": "223d3aff6151",
-      "title": "뇌세포까지 지휘하는 인슐린… ‘대사 유연성’에 주목하라 - 조선일보",
+      "id": "75b058f655d8",
+      "title": "“공복에 먹으면 혈당 쭉 오른다”… 의사 경고한 ‘의외의 음식’ - 헬스조선",
       "published": "2026-07-12T18:00:00+00:00",
-      "summary": "뇌세포까지 지휘하는 인슐린… ‘대사 유연성’에 주목하라&nbsp;&nbsp;조선일보“당뇨병 부추긴다” 인슐린 저항성 높이는 습관 5가지&nbsp;&nbsp;헬스조선",
+      "summary": "“공복에 먹으면 혈당 쭉 오른다”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트“혈당에 이로워” 간식으로 매일 먹어도 좋은 음식 5가지&nbsp;&nbsp;밴쿠버 조선일보공복에 먹는 오후 간식들… 당뇨병 부르는 사소한 습관은?&nbsp;&nbsp;코메디닷컴아침밥, 단백질 vs 탄수화물? 혈당 잡는 조합은&nbsp;&nbsp;조세일보",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LRUNBZHE5eUp4dUN5RlM4NThWa0ozdWlfdkQ5eDdqdEdiZjIzb2NfMmNQTG9hRmEtYVVWNlo0LTFybmZnWE90d2hvSUxOUmlMd2xGdEJEeENhR2JFTjYza1NXWmgxLWQ1c3JwUDllUmxHMGl6N0R3QQ?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqNlRveHNodTJKYTdtTFIyRzhKdDlUOFpWcnZuOEtfYktUbUllb1JfeVJzQnl1bXVoQUExall0Tk50R0liaElqQjdMWWRsc2NDNk1ENHIwN2g2U2NpNEF4TTkxNjBBem84bHUwRHJPRzhwSmlTc3NTM2pScE1BWEk?oc=5"
         }
       ]
     },
@@ -381,7 +453,7 @@
       "id": "abed953c53e9",
       "title": "[은지 아빠의 인생 2막 준비학교] 병원비보다 더 무서운 건 ‘소득 단절과 후유장애’ - 한국보험신문",
       "published": "2026-07-12T15:00:00+00:00",
-      "summary": "[은지 아빠의 인생 2막 준비학교] 병원비보다 더 무서운 건 ‘소득 단절과 후유장애’&nbsp;&nbsp;한국보험신문심혈관질환 보장, 정밀치료 시대 맞춰 ‘진화’… 진단·시술·약제·재활 통합 커버&nbsp;&nbsp;보험저널뇌졸중 땐 심장까지 연쇄 타격&nbsp;&nbsp;마음건강 길'치단비' 차별화 승부… DB손보, 7월부터 혈전용해·혈전제거 ‘하나만 받아도 보장’ 앞세워 (영상+)&nbsp;&nbsp;보험저널",
+      "summary": "[은지 아빠의 인생 2막 준비학교] 병원비보다 더 무서운 건 ‘소득 단절과 후유장애’&nbsp;&nbsp;한국보험신문심혈관질환 보장, 정밀치료 시대 맞춰 ‘진화’… 진단·시술·약제·재활 통합 커버&nbsp;&nbsp;보험저널'치단비' 차별화 승부… DB손보, 7월부터 혈전용해·혈전제거 ‘하나만 받아도 보장’ 앞세워 (영상+)&nbsp;&nbsp;보험저널",
       "sources": [
         {
           "name": "한국보험신문",
@@ -438,6 +510,18 @@
       ]
     },
     {
+      "id": "d89b86b87046",
+      "title": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야 - 경제투데이",
+      "published": "2026-07-12T06:15:00+00:00",
+      "summary": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야&nbsp;&nbsp;경제투데이Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "경제투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VOG5VMGpXVzNfbWJZOTRfalJBckx2azBWYktReDdxT25HWWJHMHV3OVNLcFF6V0wwaXZHVUl4cl9sVEstdmZrdUZBajV0UnRXVjcxLXNzdnpnUXBaam94SGN5YjgzMU3SAWtBVV95cUxNbkd0WWlpOEFqRVVLS1NsQ1BXX25ZUU52LWVMZTRWbG5FeEd1amV5SEtPV0s0Q3BmbGo1NU1FMkJLZks5RzdLTFkycVJNSFg1S2JyM3l0cHJtWXNhbDI0VmtuUjc5MUotUEFlRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4945b8af161c",
       "title": "과기부 ‘전략기술 박사후연구원 프로젝트’ 본격 시동 - 데일리안",
       "published": "2026-07-12T03:02:00+00:00",
@@ -446,30 +530,6 @@
         {
           "name": "데일리안",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91WkdTcTRvWmRYc2dFXzBGbTFtVl9yeTJvUU10d19tekNNQWliczNRVF9hX2RJWVRzQUpMNy1xaFd1RzZubXdOZVMzelQxRnE1QU82VE1R0gFYQVVfeXFMTzlndE11VDZYazRaaENtUVpWVXJscTdYTEVwV2ozaEcyUlVtcXRjMjZqclJaVEVXMGNHN19oTGpKMmloRFFEcnJiRGtrN1BVQi0yZUNrVi1vUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae07a9dd6edd",
-      "title": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야 - 네이트",
-      "published": "2026-07-12T01:00:00+00:00",
-      "summary": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mVGVTTkFfS2JPTE1scU1MM1lZZzN5Y3V4Tk5VZjZuRjBIbjFEdVgtZ01DdUVOZkFobEZ4X29IbFJ4NWl1RE5YQWJLQ3l0RjdDZVRZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f70ba367ea1",
-      "title": "“치매 예방에 좋다” 믿고 2년 챙겨 먹은 ‘이것’…효과는 과연? - 농민신문",
-      "published": "2026-07-11T11:00:00+00:00",
-      "summary": "“치매 예방에 좋다” 믿고 2년 챙겨 먹은 ‘이것’…효과는 과연?&nbsp;&nbsp;농민신문“치매 예방하려 먹었는데”…오메가-3 보충제 효과 없다는 연구 결과&nbsp;&nbsp;동아일보[더페어 과학한컷] 오메가3, 뇌에는 전달됐지만…알츠하이머 예방 효과 확인되지 않아&nbsp;&nbsp;thefairnews.co.kr오메가3 보충제, 뇌와 혈관 건강에 거의 도움 안돼&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sT2lwRVNyZlAzNnRFNHI3aUt0NEtPSVFBdkJhaWZIR3FCUWR6c29VWDhSSExjOGpObkpZOEpYaUZoSHpHWEVOUmNpUjVReGRRU0pHX1h4MGNMdw?oc=5"
         }
       ]
     },
