@@ -1,10 +1,130 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-13T03:19:29.422971+00:00",
-  "total_fetched": 57,
-  "unique_count": 57,
-  "health_related_count": 32,
+  "fetched_at": "2026-07-13T09:32:38.479921+00:00",
+  "total_fetched": 67,
+  "unique_count": 67,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "ab5ed20b1d4b",
+      "title": "베피로비르센, 만성B형간염 19~20%서 기능적완치 기준 충족 - mostonline.co.kr",
+      "published": "2026-07-13T09:03:53+00:00",
+      "summary": "베피로비르센, 만성B형간염 19~20%서 기능적완치 기준 충족&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "mostonline.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhZi1lQXRLMDFpb25vV2lWREpFZXlvY2xMR1dLWmxPYkVpV2FvUDV3VlJTMEZRdlBuQUhiR3dNWV9RVENSblRVNGN0SlQ0Qzg3NC1DTXZVZ2NQM1Q2VWkxYjJEWTVYYTZuRFVTRGF3RS0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47bc226fd7ee",
+      "title": "알츠하이머 협회 국제 콘퍼런스 2026: 라이프스타일 프로그램, 라틴아메리카 전역에서 치매 위험이 있는 노인들의 뇌 건강 개선 - ACROFAN",
+      "published": "2026-07-13T07:53:00+00:00",
+      "summary": "알츠하이머 협회 국제 콘퍼런스 2026: 라이프스타일 프로그램, 라틴아메리카 전역에서 치매 위험이 있는 노인들의 뇌 건강 개선&nbsp;&nbsp;ACROFAN",
+      "sources": [
+        {
+          "name": "ACROFAN",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pZG8yLUdRS2RvZFJBZFlkaVFNUWxkUHQ3b1Z5M2NfWkxXYXZDanRwTXBjc3FtOEpWelMtYkxDTmoteXdRcFM1VDdVVmkySEpWUlpXQkNnOF95ZWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f280a5c3e12f",
+      "title": "\"피곤하고 근육 쑤시더니 '염증 범벅'\"⋯당뇨·암 뿌리째 뽑으려면 '이 음식' 먹어야 - 아이뉴스24",
+      "published": "2026-07-13T07:44:34+00:00",
+      "summary": "\"피곤하고 근육 쑤시더니 '염증 범벅'\"⋯당뇨·암 뿌리째 뽑으려면 '이 음식' 먹어야&nbsp;&nbsp;아이뉴스24“만성염증 삭제 음식”… 영양사가 추천한 세 가지, 뭘까?&nbsp;&nbsp;헬스조선“몸속 염증 싹 사라진다”… 약사가 강력 추천한 음식 5가지&nbsp;&nbsp;코메디닷컴치매 위험 30%나 ‘껑충’…의사들 경고한 조기 사망 신호, 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제자주 먹으면 당뇨·심장병 위험 커진다… 염증 키우는 음식 5가지&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ueHRIalg5WDRkMWxMSjBiRXpHTkpzUVRQVGg4WUR4SHN4VXAwYnk4RWU4SS0zMFVlZHJHYzgtbmZubnhfdGU5VjZudw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60f6b3c71d11",
+      "title": "은평성모병원, 위장관 천공 잡는 AI 개발…\"응급실 제2의 눈\" - 서울경제TV",
+      "published": "2026-07-13T07:03:35+00:00",
+      "summary": "은평성모병원, 위장관 천공 잡는 AI 개발…\"응급실 제2의 눈\"&nbsp;&nbsp;서울경제TV응급수술 필요한 천공…\"의사가 놓쳐도 AI가 발견\"&nbsp;&nbsp;뉴시스AI가 복부 CT서 ‘유리가스’ 잡아낸다…위장관 천공 조기 진단 가능성 확인&nbsp;&nbsp;의학신문“응급실 놓치기 쉬운 천공 잡는다”… AI 진단 모델 개발&nbsp;&nbsp;간호사신문위험하지만 놓치기 쉬운 ‘유리가스’ AI로 찾는다&nbsp;&nbsp;의협신문",
+      "sources": [
+        {
+          "name": "서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wYkllcVdYQXotRUlJazBybXk3bFB0c0ZOVy12VndSY3pNV3F4akExcXJkZEh0YmtMRFVwcUdWd2l4cE96cFFCOEtMbXdhYzNMbXRPdHBELTk3QmNOV1pSYWVWZEo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d0b5367858a8",
+      "title": "HIV 치료 성패 가르는 '정신건강'…빅타비 리얼월드 근거 눈길 - 메디코파마",
+      "published": "2026-07-13T07:00:00+00:00",
+      "summary": "HIV 치료 성패 가르는 '정신건강'…빅타비 리얼월드 근거 눈길&nbsp;&nbsp;메디코파마",
+      "sources": [
+        {
+          "name": "메디코파마",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wSGJyTzVHdTdGTU9VRFBPM0lUSTJmdGplUWFxRW5jbG05ZHpHVU0xN3FDYlYtXzRQZ0liemsyYXBoMF9ZdGNEMS1rSmZBWXFoQWpWS09qa18xLTFucFRCUGxJNWVsa1VxZmhTNEhKMmVldw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d99ae8545c5b",
+      "title": "과기정통부, 대국민 AI 서비스 개발 착수 - 조선일보",
+      "published": "2026-07-13T06:46:00+00:00",
+      "summary": "과기정통부, 대국민 AI 서비스 개발 착수&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNU1hTXJDNXhkaGNvaV9mcmlmMW1hcHI1UE8xZDZxME0xNDVsRlAzeFBPUTIweGlBdDdtdmEwcy10bmRXR3RwamJGWkU0Qk10cjhMSVUwZG9xaUg4QXRxeGVNMGFBeUEyamFZUW0wTENIVXBVZ3UxVUQ3VHVQQk1qZkFNYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "720af46a12ef",
+      "title": "관절염, 진행 전에 막는다?…초음파 치료 가능성 나왔다 [노화설계] - 동아일보",
+      "published": "2026-07-13T06:14:49+00:00",
+      "summary": "관절염, 진행 전에 막는다?…초음파 치료 가능성 나왔다 [노화설계]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vOE9yU0FJWHp6U041YjdwQjlVTnZncFV3NndnTXVGdEllMGpNZk9xd09ObXlnX2ZsMEJEREc0SVZfMjNnRUljRnh4Y0psOWNnRURUMzB3OUZrRjl1cS1VTHh1Yk1oMzFPcWhvb1BvTdIBZkFVX3lxTE05M0hudFVzbEJ1aEpGcklMOGxEcTN0Z2Q1WUdPNm9vM2JRR2NkM1hoMFR6ZWI2bi00dC1nMjVVM0JHd21iaVhnUHptbUI0aDZqUG9ieVRfX051TDJPRXBwdnZhUjR1Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aaeafd66f164",
+      "title": "자궁경부암, 증상 없어도 정기 검진 중요 - 비건뉴스",
+      "published": "2026-07-13T05:56:14+00:00",
+      "summary": "자궁경부암, 증상 없어도 정기 검진 중요&nbsp;&nbsp;비건뉴스",
+      "sources": [
+        {
+          "name": "비건뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fSm5EUXhwZUpFUkF2TlQ5WnBMdHlFSWllX29PRkltVS1Tc2M2Z055NXkyVlRVRzdGdGJ0SUpnT01Bd0k1V2hjbUFsSEVFb0tJNjl2QjdJZHNHekJldFBoT1VHOEIwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49d57bd01042",
+      "title": "여름 휴가철 해외유입 감염병 주의보 - 제주매일",
+      "published": "2026-07-13T04:16:51+00:00",
+      "summary": "여름 휴가철 해외유입 감염병 주의보&nbsp;&nbsp;제주매일동두천시보건소 북중미 월드컵 대비 홍역 감염병 주의 당부 > 뉴스&nbsp;&nbsp;더코리아여름휴가철 해외유입 감염병 주의보&nbsp;&nbsp;컬처제주",
+      "sources": [
+        {
+          "name": "제주매일",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hazNUQnkwSXpEb1N4V0diZmh3ZWR5SzdhZmgzOVpoeVVvQlJEM1RHNmxzbVpBVUtmMC1Gem5fUVJmaTdIcFhlMjBaM0hzR3lrTVlJSTV6bU5WSFdCREQ3YTRkRjhLcDVXTFl6Xw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "218df47f9a23",
+      "title": "전문가, 건강하게 먹어도 혈압 상승하는 실수 지적 - Laodong.vn",
+      "published": "2026-07-13T03:32:07+00:00",
+      "summary": "전문가, 건강하게 먹어도 혈압 상승하는 실수 지적&nbsp;&nbsp;Laodong.vn‘이 과일’ 하루 한 컵, 딱딱한 혈관 부드러워진다&nbsp;&nbsp;헬스조선매일 챙겨 먹으면 병원 갈 일 없다는 '이 과일'…심혈관질환 예방에 탁월&nbsp;&nbsp;전자신문뇌졸중·심근경색 유발하는 '고혈압'…몸 속 나트륨만 배출해도 도움된다&nbsp;&nbsp;네이트일본 전문가가 건강한 삶을 위해 주방에 꼭 갖춰야 할 과일 5가지를 공개합니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzA4alpIZVpCeXFmMHFKcm40VHFfY1d3RzNySmNIUm5LWm56LURZWjVPdkxneEtFUm93bXBwY203X1c3M255OW1OV19zaTdxSnRUM2RfRGVvS2VuaUNkS09BTHVMWUotdk1CVVN1QjBGblBlbVFTMW5iTGVXMUt4Qld4dmNRQ01iQmFUSEQtaDlJRDI2VWhmcGJ3dVdZYUtMM2ZyRzdqa3RFdWdF?oc=5"
+        }
+      ]
+    },
     {
       "id": "37b8a4e6a3cd",
       "title": "마운자로, 비만 심부전 환자에서 성별 무관 증상 개선 - 의약뉴스",
@@ -30,14 +150,26 @@
       ]
     },
     {
-      "id": "79bb808b2f01",
-      "title": "한국은 낮은 학력·미국은 고혈압…치매 위험요인 달랐다 - 애드뉴스인천",
-      "published": "2026-07-13T02:17:00+00:00",
-      "summary": "한국은 낮은 학력·미국은 고혈압…치매 위험요인 달랐다&nbsp;&nbsp;애드뉴스인천[건강포커스] \"치매 위험요인 나라마다 달라…한국은 교육·고혈압·흡연 순\"&nbsp;&nbsp;v.daum.net“아버지 치매 80대까지 늦췄다” 정신과 의사 ‘뇌 펌핑’ 비법&nbsp;&nbsp;미주중앙일보“치매 위험 확 오른다”… 아침부터 했다간 낭패 보는 행동 4가지&nbsp;&nbsp;헬스조선“치매 예방, 근력부터 키우세요”…근육 약하면 뇌 건강도 흔들린다 ④&nbsp;&nbsp;하이닥",
+      "id": "b08434d8cd38",
+      "title": "작은 귀 성형 수술은 어린이의 미용과 청력을 개선하는 데 도움이 됩니다 - Laodong.vn",
+      "published": "2026-07-13T02:29:58+00:00",
+      "summary": "작은 귀 성형 수술은 어린이의 미용과 청력을 개선하는 데 도움이 됩니다&nbsp;&nbsp;Laodong.vn",
       "sources": [
         {
-          "name": "애드뉴스인천",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJbWN2eGpSLWlSQVlXYTdBUDhFUWVWWEZXU1RSQzItM1U2bmZPcFdnNmtuYmtkZmxiTDFGODFxaGc1NnNRNlZhRFZ5Sl9mZ0J6MjJCc0hNY2FLRmZyaENLQ2pWS2M5UnBOb0pF?oc=5"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1hZN2hBejNvdXJvYzZTa1lFRDJyMzdJWFZ1QjBvZEs2LUJlQnNZZGh1aGtuMENXbGhoX3FiNTJHWHVYOHpkWnZpUVV4eW5oaUJqSlptek8zNEdJTXJvVndycEFVV0E2VHZVTzZ6UkpWSy1CcmRQczVWYmpjSHhUQ0QwTXYxMzRIekNZVHFxV1lqNzBQbHJ5aEoybFBfZW5Ea3dZTE9wQjRlRjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6af7e175c6c",
+      "title": "식이섬유 많이 섭취한 사람, 치매 위험 낮았다…4만 명 추적 연구 - 디멘시아뉴스",
+      "published": "2026-07-13T02:16:44+00:00",
+      "summary": "식이섬유 많이 섭취한 사람, 치매 위험 낮았다…4만 명 추적 연구&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yVDNZTklCUTA1RjAzLXBkclFKMDZzX2pDTkttNGdLT0t1NVA5NnZZSkMxVXFMN20yeHpmdjJaWnNfUEc4SUtNNGR3SVlTbHpGZFhBVTdiTllvMTBQWnc4YS1DdkZIZ094SUdjVUZEMEJDdw?oc=5"
         }
       ]
     },
@@ -50,18 +182,6 @@
         {
           "name": "경기신문",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xU0E4MU5TdnRXcUhYT0t1bk02RUpKbmdmTXNuTHNkWkRTUUNRVXBnRGw0d2JZM1drNFZPNGRHOXIwZ3lxb3c4Mkd4X2l1cW1aT2ZJbVp5RWxWQmM5dGYxS2lB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d63391b60d7b",
-      "title": "서귀포보건소, 여름 휴가철 해외 유입 감염병 주의 당부 - 헤드라인제주",
-      "published": "2026-07-13T01:20:20+00:00",
-      "summary": "서귀포보건소, 여름 휴가철 해외 유입 감염병 주의 당부&nbsp;&nbsp;헤드라인제주",
-      "sources": [
-        {
-          "name": "헤드라인제주",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAyZ1NUNDJkZnllREVMMG5hMTFFb3N3OE9VZUJBb181dHczUkU0cjJwa2JFamYwQnVxbm1yOFFtcEJ3alJQRHhBamN0WlRwWEItRlRKVG9PMXF4SVRkVXZsQ2VMazMyZm1Ebkdad2JoSU9FMjQ?oc=5"
         }
       ]
     },
@@ -81,7 +201,7 @@
       "id": "a6e1b04c7dc5",
       "title": "WHO의 경고…“2050년 신규 암환자 3500만명” - 동아일보",
       "published": "2026-07-13T01:09:09+00:00",
-      "summary": "WHO의 경고…“2050년 신규 암환자 3500만명”&nbsp;&nbsp;동아일보암 진단 늘고 사망 위험은 줄었다… '착시'와 '항암 혁신'의 정체&nbsp;&nbsp;글로벌이코노믹WHO, “2050년엔 연간 암 발병 3500만건 이를 것”…국내 제약·바이오 기업, 암 치료제 개발 속도&nbsp;&nbsp;경향신문젊다고 안심 못한다…WHO “50세 미만 ‘젊은 암’ 79% 폭증”&nbsp;&nbsp;v.daum.net2050년까지 연간 암 발병 건수가 거의 3,500만 건에 달할 것으로 예상되는 가운데, 조기에 암을 예방할 수 있는 방법에는 어떤 것들이 있을까요?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "WHO의 경고…“2050년 신규 암환자 3500만명”&nbsp;&nbsp;동아일보암 진단 늘고 사망 위험은 줄었다… '착시'와 '항암 혁신'의 정체&nbsp;&nbsp;글로벌이코노믹WHO, “2050년엔 연간 암 발병 3500만건 이를 것”…국내 제약·바이오 기업, 암 치료제 개발 속도&nbsp;&nbsp;경향신문젊다고 안심 못한다…WHO “50세 미만 ‘젊은 암’ 79% 폭증”&nbsp;&nbsp;v.daum.net소득과 사는 지역이 암 생존율을 가른다&nbsp;&nbsp;캐어유 뉴스",
       "sources": [
         {
           "name": "동아일보",
@@ -126,18 +246,6 @@
       ]
     },
     {
-      "id": "d8994ae45dc7",
-      "title": "실명 유발 안질환, 치료 반응 ‘조기 예측’ 가능 - 병원신문",
-      "published": "2026-07-13T00:37:40+00:00",
-      "summary": "실명 유발 안질환, 치료 반응 ‘조기 예측’ 가능&nbsp;&nbsp;병원신문실명 안질환, AI가 ‘효과 없는 치료’ 미리 가려낸다&nbsp;&nbsp;v.daum.net아산병원, AI·나노 기술로 ‘실명 질환’ 정밀 진단&nbsp;&nbsp;간호사신문망막질환 정밀진단·치료반응 예측 진단 플랫폼 개발&nbsp;&nbsp;의학신문\"AI가 눈 속 분자 신호 읽는다\"…서울아산병원, 실명 유발 망막질환 진단·치료반응 예측 기술 개발&nbsp;&nbsp;인공지능신문",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iQy1xUEo2YTJ2VVRvZWQwcDRiYVkyNkdaV1ZIS1owUVBGdHczNVdMaU5sblF3cS14TTM5ZHBoSHJVRzM5QkpIQ2pRZ01qWUxIWDBHeUZJdVR6RVkwb0dFMVZjUnhwOWNOUFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b9f73726daed",
       "title": "GLP-1, 당뇨·말초동맥질환 환자 사망률 26% 낮춰 - 팜뉴스",
       "published": "2026-07-13T00:34:01+00:00",
@@ -150,14 +258,26 @@
       ]
     },
     {
-      "id": "6abc0ae0b096",
-      "title": "흡연, '2030' 지방간 위험 최대 1.5배 높인다 - 네이트",
-      "published": "2026-07-13T00:16:00+00:00",
-      "summary": "흡연, '2030' 지방간 위험 최대 1.5배 높인다&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "cf58ec8acb15",
+      "title": "국내 연구진, 알츠하이머병 뇌 영상 추적자 규명 - 메디팜뉴스",
+      "published": "2026-07-13T00:24:52+00:00",
+      "summary": "국내 연구진, 알츠하이머병 뇌 영상 추적자 규명&nbsp;&nbsp;메디팜뉴스알츠하이머병 뇌 영상 추적자 18F-THK5351의 진짜 정체 밝혔다&nbsp;&nbsp;BRIC알츠하이머병, '핵사멸' 발견으로 치료 패러다임 바뀔까&nbsp;&nbsp;바이오타임즈새로운 기술이 알츠하이머병 초기 단계의 \"수수께끼 같은 원흉\"을 밝혀냈습니다.&nbsp;&nbsp;Vietnam.vnIBS-연세대, 알츠하이머 PET 영상 해석 바꿀 단서 찾아&nbsp;&nbsp;충남일보",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CWHpha0VkcWhQRGp2b0x4MG5LbWZlZDFDQmgxQmFENnQ4cVJNX01xbWVCa1Q2N1lkbF9QTUdVcjY0cjl5Zk9pWnpoUjg4bmVuMXFr?oc=5"
+          "name": "메디팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MbTFZeHlyclZPQ0xlQ3NaMHBJTEVVY1NPUjZUcVo2VkhNZG5LYnBGNVF6OHZXZlFhMWZBUjZmWF9rd2lyWTN6UFBfWFpNZFhKUGEtN0lPVlBBekdRbmQtTnU2Z3pTU1pXeFVRa1V2QVpVd9IBdkFVX3lxTFBHZ3VxTHc1QUs3bHViV0otaGFZa3FUWm9oQURER05YSVloSzlFYXZXY1o2MXdKYzFVa040YzFUWXBzcGlZX05LREdTRnRLVExEOWFfdDRvVjduN0hOUEIwNGhiektsQ0liZkhZWGkwLXZpNExVQXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a9566b1777a",
+      "title": "비만약 쓰는 대신 움직임도 줄었다… \"당뇨병 환자 적정 신체 활동 유지해야\"[밀당365] - 헬스조선",
+      "published": "2026-07-13T00:00:00+00:00",
+      "summary": "비만약 쓰는 대신 움직임도 줄었다… \"당뇨병 환자 적정 신체 활동 유지해야\"[밀당365]&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VXVUNVItMDgtaEdkTDRhaDkzWVlOeWFDOFFNVWRydlJPQ094WTdwWGMyLVlwWEdxV2FhSDIxQTVFMW1Mc3hteTVIYzJZLWdUVlhJV2pNUWttV2t0QUtCY3h2Q3J5U2pIYl9VcG05LWtXTi1uTmItZlljcm5wNEE?oc=5"
         }
       ]
     },
@@ -165,7 +285,7 @@
       "id": "0f4a17c098f1",
       "title": "[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다 - 뉴스인",
       "published": "2026-07-12T22:58:54+00:00",
-      "summary": "[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다&nbsp;&nbsp;하이닥RSV와 대상포진은 만성 호흡기 질환 환자의 합병증 위험을 증가시킵니다.&nbsp;&nbsp;Vietnam.vn계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다&nbsp;&nbsp;하이닥계절 변화 시기에 노인의 \"폐\"를 보호하는 방법.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "뉴스인",
@@ -174,14 +294,14 @@
       ]
     },
     {
-      "id": "a28e9121dafc",
+      "id": "1a300b991095",
       "title": "요즘 '젊은 치매' 늘더니…\"1인당 '1억' 손실\" 무서운 경고 - 한국경제",
       "published": "2026-07-12T21:29:04+00:00",
       "summary": "요즘 '젊은 치매' 늘더니…\"1인당 '1억' 손실\" 무서운 경고&nbsp;&nbsp;한국경제",
       "sources": [
         {
           "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsV3E4akthR0cxVmJJbkxqSF9pcWgyWFRrdG1zNXcweEZaeVZIS0tIZC1lY1hfNllIODJxUmxFLXA3a29MdzVkNWNqRGx6ZnVoLUU4U3ZVZVEzUdIBVEFVX3lxTE42d0FuOXlNVHBmb2ZzcS1PelpxaVh1RFJkRGt2dE1zLWVvdzRuZHJIcmNjYkktUGEzV0dSQzBFai1uUUFZOXJmUXcyZ2RNZlIwOTBOYg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsV3E4akthR0cxVmJJbkxqSF9pcWgyWFRrdG1zNXcweEZaeVZIS0tIZC1lY1hfNllIODJxUmxFLXA3a29MdzVkNWNqRGx6ZnVoLUU4U3ZVZVEzUQ?oc=5"
         }
       ]
     },
@@ -225,7 +345,7 @@
       "id": "c929ab0dda4e",
       "title": "“검진 정상 믿었는데”…생존율 17% ‘침묵의 암’ 키우는 3가지 습관 - 세계일보",
       "published": "2026-07-12T20:00:00+00:00",
-      "summary": "“검진 정상 믿었는데”…생존율 17% ‘침묵의 암’ 키우는 3가지 습관&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "“검진 정상 믿었는데”…생존율 17% ‘침묵의 암’ 키우는 3가지 습관&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "세계일보",
@@ -306,6 +426,30 @@
       ]
     },
     {
+      "id": "fa07e9eeb634",
+      "title": "\"날파리 방심하면 실명\"…망막박리, 골든타임 놓치면 시력 상실 - 식약일보",
+      "published": "2026-07-12T08:47:00+00:00",
+      "summary": "\"날파리 방심하면 실명\"…망막박리, 골든타임 놓치면 시력 상실&nbsp;&nbsp;식약일보[헬스토크] 눈앞에 번개 치고 날파리 보인다면 '망막박리' 의심&nbsp;&nbsp;v.daum.net혈관·눈·콩팥도 문제지만… 고혈당, 청력도 저해한다&nbsp;&nbsp;헬스조선당뇨 합병증, 눈·콩팥만 아니다…4명 중 1명 '청력 손실'&nbsp;&nbsp;네이트비문증과 광시증, 단순 노화 아닌 망막박리 의심해야 하는 이유&nbsp;&nbsp;edaily.co.kr",
+      "sources": [
+        {
+          "name": "식약일보",
+          "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1PV2tJSUd3YkQtd0dwRWVBNDZuRkE4a3dfTWtBZVRfdmNZX3V2VEx0ZU1DWi1GbmFzNHR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4945b8af161c",
+      "title": "과기부 ‘전략기술 박사후연구원 프로젝트’ 본격 시동 - 데일리안",
+      "published": "2026-07-12T03:02:00+00:00",
+      "summary": "과기부 ‘전략기술 박사후연구원 프로젝트’ 본격 시동&nbsp;&nbsp;데일리안",
+      "sources": [
+        {
+          "name": "데일리안",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91WkdTcTRvWmRYc2dFXzBGbTFtVl9yeTJvUU10d19tekNNQWliczNRVF9hX2RJWVRzQUpMNy1xaFd1RzZubXdOZVMzelQxRnE1QU82VE1R0gFYQVVfeXFMTzlndE11VDZYazRaaENtUVpWVXJscTdYTEVwV2ozaEcyUlVtcXRjMjZqclJaVEVXMGNHN19oTGpKMmloRFFEcnJiRGtrN1BVQi0yZUNrVi1vUA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ae07a9dd6edd",
       "title": "[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야 - 네이트",
       "published": "2026-07-12T01:00:00+00:00",
@@ -326,54 +470,6 @@
         {
           "name": "농민신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sT2lwRVNyZlAzNnRFNHI3aUt0NEtPSVFBdkJhaWZIR3FCUWR6c29VWDhSSExjOGpObkpZOEpYaUZoSHpHWEVOUmNpUjVReGRRU0pHX1h4MGNMdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a333aa389c93",
-      "title": "소녀 기침 1개월 지속, 의사 희귀 선천적 기형 발견 - Laodong.vn",
-      "published": "2026-07-11T07:09:04+00:00",
-      "summary": "소녀 기침 1개월 지속, 의사 희귀 선천적 기형 발견&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0loN1pMTzFnYlJER1FMb3BwS3k5b3ZKdDZPa2lCc3F2OWZtRzVva2Z5R244cE1JZHRyMXc4VUdYczQyUVRqZGlFUjJkQ3RwcFVJS0JTQjRER1d1cnRjaVRlRWFLaWFSZ3dyNmlIZUpET3BTcW90Mm9Dbjh6Sm5YemVvbzFHRkZrVEZmUE1tejB4TlFCZ1J4TE92ZU1lbkF1eElJR1UzamJVRlhmSUdB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "053db22f89c3",
-      "title": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지 - 헬스조선",
-      "published": "2026-07-11T06:00:00+00:00",
-      "summary": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zdGhHZ0VRM0Q0YWZxamZCXzkzd3E2TFl5TmVRWUkycmtnLWJFU0YtS2Y5TTVxUnNMa05QRjgwZDAwRGtRU2hMOGg0REFSSDNNdjNZNG1wYm0xNkxRT0NpXzNIRzJrbDQ5Smh0LW8tUXNpSkRDUWRERFVzRFZxU1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6ca2a09bf058",
-      "title": "“항문에 손가락 넣는 검사 끝”…소변 냄새로 전립선암 89% 찾았다 - 뉴스와",
-      "published": "2026-07-11T04:36:04+00:00",
-      "summary": "“항문에 손가락 넣는 검사 끝”…소변 냄새로 전립선암 89% 찾았다&nbsp;&nbsp;뉴스와소변 냄새로 전립선암 진단한다&nbsp;&nbsp;v.daum.net“항문에 손가락 넣는 검사 부담” 줄어드나…소변 냄새로 전립선암 찾는다&nbsp;&nbsp;서울신문소변 냄새에 숨은 암 신호… 전립선암 조기진단 길 열렸다&nbsp;&nbsp;헬스조선‘킁킁’ 인공 코로 소변 냄새 맡고 인공지능이 분석하니··· 전립선암 여부 쉽게 가려냈다&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "뉴스와",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tWlp1UTZoZjAxcG44dFlTRUlYdVJ5MldVYU93S0ZyYnRTQ1o5WExvUWVrdEYwLTdtaFQ1S0pzSmREcmtBSjB6R3Y0TF9jVnhaT0FyWFdrTFJid0dlT2dpTVVVRzgxUzZQYlJCN1BBLXVtN1BWeXRzWA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a56df06d2567",
-      "title": "세포 스트레스 속 생존·사멸 가르는 유전자 조절 원리 규명 - 보건신문",
-      "published": "2026-07-11T03:05:28+00:00",
-      "summary": "세포 스트레스 속 생존·사멸 가르는 유전자 조절 원리 규명&nbsp;&nbsp;보건신문[Medical Report] 세포 운명 가르는 유전자 조절 원리 밝혀 外…AI 기반 만성질환 관리·스마트 의료 혁신 확산&nbsp;&nbsp;헬스케어N연세의대, 세포 생존ᆞ사멸 결정하는 유전자 조절 원리 규명&nbsp;&nbsp;헬스포커스뉴스세포 운명 가르는 유전자 스위치 첫 규명…암·당뇨 치료 새 표적 발굴&nbsp;&nbsp;식약일보세포는 왜 살아남고 왜 죽나… ‘생존·사멸 스위치’ 조절 원리 규명&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3WWw4bEZYZ2hOQXRyUE9PNERwRVZuR0h6TWh5YVBRZXhIVEVmcDQwX2ZFX3hBRlpScWJSXzQ1RzRGMHJrNHdQMzlLbXRPclhpZ1lKREVlZzRrcFdJZE1kN0lCbw?oc=5"
         }
       ]
     },
