@@ -1,10 +1,94 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-14T08:11:08.325406+00:00",
-  "total_fetched": 94,
-  "unique_count": 94,
-  "health_related_count": 60,
+  "fetched_at": "2026-07-14T13:50:07.797159+00:00",
+  "total_fetched": 98,
+  "unique_count": 98,
+  "health_related_count": 61,
   "news": [
+    {
+      "id": "9b6ad28ca80c",
+      "title": "대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\" - 헬스경향",
+      "published": "2026-07-14T11:13:47+00:00",
+      "summary": "대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향대상포진 나았는데도 찌릿찌릿?범인은 '뇌'에 있었다?&nbsp;&nbsp;네이트“옷깃만 스쳐도 아프다”… 대상포진 후 신경통, 방치하면 만성 통증 된다&nbsp;&nbsp;하이닥[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인대상포진 후 통증, 왜 오래갈까 … 해운대백병원, 뇌 연결망 변화에서 단서 확인&nbsp;&nbsp;헬스오",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yejRoam85V0xtWF9Qc2NnZWl2VnBPYkRpd0RDWTNrN3prS1FrNWxESXBuZUVDNHdBTVJXdV9iUDMyeWFBU1ZaOXlJdzc4Q2ZDZFdVdlZvS3l0OEFGc243aHRqcnlMb0ZiTmtB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5517e3b8ffb4",
+      "title": "주사 한대로 암세포가 사라진다고?…‘암백신’ 신기술 등장했다 - 매일경제",
+      "published": "2026-07-14T10:30:21+00:00",
+      "summary": "주사 한대로 암세포가 사라진다고?…‘암백신’ 신기술 등장했다&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmZUprWWdrWGtqWk1JcF9rQ3VlNExVVng5YmtXRElobHRZTTdCaHNuS2hoMUFySEdOeVZUcVB2UU51aVp1Ny1yVnFPdGktUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "575b79347b8a",
+      "title": "\"뇌 건강 지키는데 제격\" 신경과 의사가 매일 챙긴다는 음식 5 - 조세일보",
+      "published": "2026-07-14T10:00:55+00:00",
+      "summary": "\"뇌 건강 지키는데 제격\" 신경과 의사가 매일 챙긴다는 음식 5&nbsp;&nbsp;조세일보",
+      "sources": [
+        {
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZWFjd3kzc1RKX2xyeGxKNlVnaUI1djRmazByUUg4Uk43ZnUxU2xfRlRsNVY0aHdNXzFkNTdjbHNtdnJENEpPeTQwa09Va3M0bEVUTzZkNzNWR1ZWNW90WFVxRHM1Y2VxeVhjN1lraw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f69ca153558b",
+      "title": "홍수가 지난 후 왜 84소독제를 함부로 사용하면 안될가?--건강 - 인민넷",
+      "published": "2026-07-14T08:15:00+00:00",
+      "summary": "홍수가 지난 후 왜 84소독제를 함부로 사용하면 안될가?--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00RjVicnJiRGZ6Z0dBVGZRSnp4dk0tcVdwbTUyMFJzSXBqNy1PanNSekdyUG1iUjlrX0swTUpmQ1BjdGlDXy1KUHZHUDREZl9jZVA5ZDNRcGVrN1dJcXdwSWVPUkVfVzdsUDNTSlRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ea9d6078ede",
+      "title": "‘배란기에 운동해야 근육 잘 붙는다’던데… 3개월 연구의 반전 결과 - 헬스조선",
+      "published": "2026-07-14T08:00:00+00:00",
+      "summary": "‘배란기에 운동해야 근육 잘 붙는다’던데… 3개월 연구의 반전 결과&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uN2ZjUnZCeHpaeG1GVDJ4T0toaGxCeW0tajVYcC1EWjV5MzlQX29jeGRIS2hMVkkzYl82UlFxa3dXRVNXdVJCQjRPeUE3ZUw5VTJ1OXdPTm5ZT0xScU1WdXBwUDBVeHZTaThiejVtR3pIalJmbnFXeUVTeHZzMWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18a349518c28",
+      "title": "[원기정의 건강라이프] 운동으로 해결 할 수 없는 여유증 원인과 치료방법은? - 시사캐스트",
+      "published": "2026-07-14T07:07:00+00:00",
+      "summary": "[원기정의 건강라이프] 운동으로 해결 할 수 없는 여유증 원인과 치료방법은?&nbsp;&nbsp;시사캐스트",
+      "sources": [
+        {
+          "name": "시사캐스트",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9veXFnYm5KbFB2dUpjU3VoMWx6QldBTEU5Qjd5MUpjVzVFZGp2R0xYUVBRRDVmeDlaSkl2ZS1jajllNkNxb1llSGtuMVZPdWhaWDREQThZaGZDQkJxNVdUd1F2NFFfUFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb58995b3021",
+      "title": "“제로 콜라만 믿었는데”…설탕 대신 인공감미료, 매일 먹으면 어떤 변화가? - 코메디닷컴",
+      "published": "2026-07-14T07:01:00+00:00",
+      "summary": "“제로 콜라만 믿었는데”…설탕 대신 인공감미료, 매일 먹으면 어떤 변화가?&nbsp;&nbsp;코메디닷컴‘제로 칼로리’라 안심했는데…당뇨 위험 신호 포착 [건강팩트체크]&nbsp;&nbsp;동아일보“살 안 찌겠지?” 다이어트 콜라 한 캔…마시면 1시간 내 몸에 무슨 일이?&nbsp;&nbsp;코메디닷컴'제로'라 안심했는데… 인공감미료, 혈당·심장 건강에 악영향 미친다&nbsp;&nbsp;하이닥설탕 대신 택한 ‘제로’의 배신… 혈당 관리엔 오히려 ‘독’ 될 수도&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBtOE8tT0t5YmRCQkZTQWpfMEZxMmY2XzlZT0RUN3NWV2F3dFIyNDFBUGtERFRUbFVLZnJDak1FYTRWQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "3797f508fbf1",
       "title": "WHO “2050년 암 환자 연 3500만 명”… 암요양병원 정보 접근성이 회복의 첫걸음 - 전자신문",
@@ -30,22 +114,10 @@
       ]
     },
     {
-      "id": "63ee53be1104",
-      "title": "인바디 기반 AI모델…불면증·수면무호흡증 위험 97% 예측 - 의협신문",
-      "published": "2026-07-14T05:40:34+00:00",
-      "summary": "인바디 기반 AI모델…불면증·수면무호흡증 위험 97% 예측&nbsp;&nbsp;의협신문인바디 검사와 AI로 불면증·수면무호흡증 위험 정확 예측&nbsp;&nbsp;edaily.co.kr인바디로 수면장애 잡아낸다…AI 예측 모델 개발&nbsp;&nbsp;간호사신문",
-      "sources": [
-        {
-          "name": "의협신문",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLaVp5M2RzQVFiWGlfTFVhUGpKNmRGaFhfVUVrdHRNaUo0YWxYMmFBelUyUm9KZTJuSmxHZUE0R2lENE5GRUpPRFJXYUx3dnNFdmg2UnBjcXlUalA0V2tGblJHVUZQUEQtRkp6dV9sU2pNdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "67ec0004e314",
       "title": "[건강칼럼] 건강검진 PSA 수치가 높다면…전립선암일까? - 충청뉴스",
       "published": "2026-07-14T05:10:52+00:00",
-      "summary": "[건강칼럼] 건강검진 PSA 수치가 높다면…전립선암일까?&nbsp;&nbsp;충청뉴스[의학칼럼] 건강검진 PSA 수치 높다면 전립선암일까?&nbsp;&nbsp;v.daum.net소변 냄새만으로 전립선암 진단...강남세브란스, AI 기술 개발&nbsp;&nbsp;캔서앤서“항문에 손가락 넣는 검사 끝”…소변 냄새로 전립선암 89% 찾았다&nbsp;&nbsp;뉴스와소변 냄새로 '전립선암' 조기진단법 개발&nbsp;&nbsp;헬스비즈",
+      "summary": "[건강칼럼] 건강검진 PSA 수치가 높다면…전립선암일까?&nbsp;&nbsp;충청뉴스[의학칼럼] 건강검진 PSA 수치 높다면 전립선암일까?&nbsp;&nbsp;v.daum.net“항문에 손가락 넣는 검사 끝”…소변 냄새로 전립선암 89% 찾았다&nbsp;&nbsp;뉴스와침습적 조직검사 대신 소변·AI로 '전립선암' 잡는다&nbsp;&nbsp;헬스경향강남세브란스병원 구교철 교수팀, 소변 기반 전립선암 진단 플랫폼 개발 外&nbsp;&nbsp;의약뉴스",
       "sources": [
         {
           "name": "충청뉴스",
@@ -90,6 +162,30 @@
       ]
     },
     {
+      "id": "9ec4ca146b61",
+      "title": "인바디 검사와 AI로 불면증·수면무호흡증 위험 정확 예측 - 네이트",
+      "published": "2026-07-14T04:07:00+00:00",
+      "summary": "인바디 검사와 AI로 불면증·수면무호흡증 위험 정확 예측&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5weDJlejg3S0t2MTVjRnk0dERmeU1hY2ZFLTFSeHhRMU9GNm1CZ2NldjJWR1VMVG9wOGl4MlRqYkhoTUp1cXA2amtsX1FFbUFqd3lzLTNjRXhOMkpQVEtCTw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c7bbc5b6dd4",
+      "title": "어지럼증, 왜 여성에게 더 흔할까…단순 빈혈 오인은 '금물' - 네이트",
+      "published": "2026-07-14T03:55:00+00:00",
+      "summary": "어지럼증, 왜 여성에게 더 흔할까…단순 빈혈 오인은 '금물'&nbsp;&nbsp;네이트[100세건강] 누웠는데 천장이 핑핑…하루 넘는 어지럼증 '전정신경염' 의심해야&nbsp;&nbsp;뉴스1\"저혈압인 줄 알았는데\"…갑자기 어지러운 이유 따로 있었다&nbsp;&nbsp;뉴시스[김태열의 생생건강S펜] “빙빙돌고,비틀거리고 찌를듯한두통..일상생활 무너뜨리는 뇌질환”&nbsp;&nbsp;v.daum.net[명의] 어지럼증, 방치하면 발작으로&nbsp;&nbsp;Queen 이코노미퀸",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wZ2N1bC1YcVNNNkVNRDVpT2ZERW1YcTdCQkJZWjhYV3JWMlpObnhTc2h3MUhtNFVXeGtuX0FkaS1ySnVZWUZTcV9EbEljOWdYMm9J?oc=5"
+        }
+      ]
+    },
+    {
       "id": "111d3148b1c3",
       "title": "앉아 있는 시간이 건강을 결정한다? 의사들이 경고하는 생활습관의 진실 - 한국AI부동산신문",
       "published": "2026-07-14T03:23:20+00:00",
@@ -98,18 +194,6 @@
         {
           "name": "한국AI부동산신문",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ieng5MmMwdFFSVmstX0lVclBIQVBhVlU1aUJuYkhtWGV1Ymd3LWNpQlkteW9QVEFqaWhFVkRYRzBBN1Btc1N6dGVvcEY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "77ed20fbed21",
-      "title": "\"챗GPT 조언이 의사 진단보다 우선\"…AI, 섭식 장애 치료 흔든다 - AI타임스",
-      "published": "2026-07-14T03:18:53+00:00",
-      "summary": "\"챗GPT 조언이 의사 진단보다 우선\"…AI, 섭식 장애 치료 흔든다&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rUTNKN1lYaG1QWEJSeXRSZERPdGE5ZnNzOXJ1cjVTVmhSa0pDRVk5MkNUTlk0OXh4UWRobGpWV0tES2xkcTNxaUVvcnE0MGVqQVFFVDBmV2VCM0tGT1lpVjU5TGRRcHYta3c?oc=5"
         }
       ]
     },
@@ -129,7 +213,7 @@
       "id": "9a96a78058d3",
       "title": "한의학연, 한의 '약침'으로 파킨슨병 통증 조절 가능성 규명 - 전자신문",
       "published": "2026-07-14T02:11:06+00:00",
-      "summary": "한의학연, 한의 '약침'으로 파킨슨병 통증 조절 가능성 규명&nbsp;&nbsp;전자신문파킨슨병 통증, 약침으로 완화할 수 있을까 [지금은 과학]&nbsp;&nbsp;v.daum.net한의학연 \"한의 약침으로 파킨슨병 통증 조절 가능\"&nbsp;&nbsp;연합뉴스[쿠키과학] ‘파킨슨병 통증, 약침으로 줄였다’… 한의학연, 통증신호 억제기전 규명&nbsp;&nbsp;쿠키뉴스“부작용많은 진통제 대신” 한의 약침 썼더니…파킨슨병 통증 낮췄다&nbsp;&nbsp;헤럴드경제",
+      "summary": "한의학연, 한의 '약침'으로 파킨슨병 통증 조절 가능성 규명&nbsp;&nbsp;전자신문한의학연 \"한의 약침으로 파킨슨병 통증 조절 가능\"&nbsp;&nbsp;연합뉴스[쿠키과학] ‘파킨슨병 통증, 약침으로 줄였다’… 한의학연, 통증신호 억제기전 규명&nbsp;&nbsp;쿠키뉴스“부작용많은 진통제 대신” 한의 약침 썼더니…파킨슨병 통증 낮췄다&nbsp;&nbsp;헤럴드경제파킨슨병 통증, 약침으로 완화할 수 있을까 [지금은 과학]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "전자신문",
@@ -138,14 +222,14 @@
       ]
     },
     {
-      "id": "d7a573867525",
-      "title": "KBSI, 뇌 신경 신호 회복하는 ‘장-뇌 축’ 규명 - 충청뉴스",
-      "published": "2026-07-14T01:44:28+00:00",
-      "summary": "KBSI, 뇌 신경 신호 회복하는 ‘장-뇌 축’ 규명&nbsp;&nbsp;충청뉴스우울 행동 완화·신경세포 회복시키는 장내 미생물 2종&nbsp;&nbsp;v.daum.net장내 미생물이 스트레스성 우울 행동을 완화한다… 뇌 신경영양 신호 회복 기전 규명&nbsp;&nbsp;BRICKBSI, 우울행동 완화하는 장내 미생물 2종 발견&nbsp;&nbsp;뉴시스[쿠키과학] ‘우울증 열쇠는 장 미생물’… KBSI, 뇌신경 회복 돕는 균주 발견&nbsp;&nbsp;쿠키뉴스",
+      "id": "6beb3259a459",
+      "title": "[기자의 눈] 한국은 고학력 국가인데, 왜 ‘저학력’이 치매 위험 1위였나 - 디멘시아뉴스",
+      "published": "2026-07-14T01:52:25+00:00",
+      "summary": "[기자의 눈] 한국은 고학력 국가인데, 왜 ‘저학력’이 치매 위험 1위였나&nbsp;&nbsp;디멘시아뉴스낮은 교육 수준이 고혈압·비만보다 치매에 더 위험&nbsp;&nbsp;조선일보[건강포커스] \"치매 위험요인 나라마다 달라…한국은 교육·고혈압·흡연 순\"&nbsp;&nbsp;연합뉴스“학력 낮으면 치매 위험 높아진다?”…최대 위험요인, 나라별로 들여다봤더니&nbsp;&nbsp;헤럴드경제\"中은 낮은 교육 수준, 美는 비만 많아서?\"…국가마다 치매 위험 요인 다르다&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "충청뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aRmdIUjBHVTZLRHhlS0kydXVXRHdSR1Q2Q05RVkNKNHlGcXRqSmxUYW1UZjVBZEQ0MkgwelZqc05NcVoxaHY2bktKNHBLNVhORklfbkFUWlJrb1pYT1VSYmhtZnJWV2ZiSDZ5NA?oc=5"
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Idjg3c1dZekViXzJpTndzUmw4dEJ1S3JQb3RCWHN3aDZpUnJZZ2VRWDhKcGFhdGJfN1VjYmdpT0FmSXo0ZG14bXRrQWRaR1pYWWJydkgtUTQ3Qjl2QVVKTFJVamxSMFIyMEpKaVVIY2ZVdw?oc=5"
         }
       ]
     },
@@ -162,14 +246,14 @@
       ]
     },
     {
-      "id": "380e6b5676b1",
-      "title": "해운대백병원, 대상포진 후 신경통 환자 뇌 연결망 변화 확인 - 메드월드뉴스",
-      "published": "2026-07-14T00:29:16+00:00",
-      "summary": "해운대백병원, 대상포진 후 신경통 환자 뇌 연결망 변화 확인&nbsp;&nbsp;메드월드뉴스대상포진 나았는데도 찌릿찌릿?범인은 '뇌'에 있었다?&nbsp;&nbsp;네이트[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인대상포진 후 통증 오래가는 이유, 뇌 구조적 연결망에서 단서 확인&nbsp;&nbsp;하이뉴스대상포진 후 통증, 왜 오래갈까 … 해운대백병원, 뇌 연결망 변화에서 단서 확인&nbsp;&nbsp;헬스오",
+      "id": "f4ae3a7705a1",
+      "title": "릴리 '알츠하이머병 신약', 임상시험 실패…바이오마커를 다시 묻다 - 코리아헬스로그",
+      "published": "2026-07-14T00:24:41+00:00",
+      "summary": "릴리 '알츠하이머병 신약', 임상시험 실패…바이오마커를 다시 묻다&nbsp;&nbsp;코리아헬스로그",
       "sources": [
         {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXWE5GQlBTOVJHc3hVZWtzSnM0c3lueGgtenpzdDZrRWdsYjcyVFF0Wi1QSzJVZmlXQ182d3NBcDh6RUJRdTRJbkR6RjhrOE9jZ3o5TS1yUDFoUmNmclVBWi1FZEtTV2tsdG1aZw?oc=5"
+          "name": "코리아헬스로그",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RSjUxeTRnM3BRMHpwQV9ZNUJJUWNlQVBZcWJyUl9GX0pzZmNEbVVFd2U1Sm9SVUlBVDdNUFk3bzVlZzFFTm9SLWxEWmppbEQtNkRpZElmaVhrNkVFSFEza3NRdEtHYTVvaWloTU9ValFnd9IBdkFVX3lxTE0yNHJTaW9SMnZyaFlMSWp2WURPNEo1c0VLSGtSTU5kSWVrSzRwT01vb2p0c3VDR3ZLSVlkR050QmhPaGNvMlIwYVpwaDEyci1RWG0yWEM5Z3BuaUZaR0lpN1huX3p5WmVlSXNVaXFfOHUwUUFSYUE?oc=5"
         }
       ]
     },
@@ -210,14 +294,14 @@
       ]
     },
     {
-      "id": "a80a7c4baf77",
-      "title": "릴리의 알츠하이머 신약 실패, 바이오마커를 다시 묻다 - 청년의사",
-      "published": "2026-07-13T21:50:46+00:00",
-      "summary": "릴리의 알츠하이머 신약 실패, 바이오마커를 다시 묻다&nbsp;&nbsp;청년의사",
+      "id": "f9bda23e5cea",
+      "title": "위암 유발 '헬리코박터균' 치료했더니...대장암 발생·사망률도 절반 뚝 - 데일리굿뉴스",
+      "published": "2026-07-13T21:35:18+00:00",
+      "summary": "위암 유발 '헬리코박터균' 치료했더니...대장암 발생·사망률도 절반 뚝&nbsp;&nbsp;데일리굿뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "청년의사",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53aWZla1hPQzAzY1d5WDdqczJncnY3MkdZT0xXalNTYlZkaFFyelViOTRIbTFsWGdIdFNOd1lKLTBGQmJhUlhjbTNHT0duU0kxQTFwd0JQSmM5Zy1BT2pDbXlIUUJXc2ZuZmx3bFpjNlY?oc=5"
+          "name": "데일리굿뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrYVE1QTJPRDlRTmpUaGJ2TFRMYzdheWZoNEp3cDBGQnNUWGNkOTljek9mMzItdGNGWEVBeG1OazNUMVlPaFI3VFBjVjZrWl91V2dzTVhfcHRmQlRhcDBKMGd1b0lfVkVuQjZtX9IBcEFVX3lxTE5JekE3WjY4eWNDOXBVRExYTmxYelhxMVktdXVubFA4REUxMHdxeUllaF9TSXk2aVBjXzNQbzlwVGt5Y3p5bjUxMWctYVRJdmxGNnJXc1VjS1V0aHRTOTBhX3B3QjBvQjZ1ek5FX2pKQjE?oc=5"
         }
       ]
     },
@@ -258,18 +342,6 @@
       ]
     },
     {
-      "id": "23ca00284948",
-      "title": "은퇴한 축구 선수들, 중년기에 뇌 건강 변화 징후 - 재활뉴스",
-      "published": "2026-07-13T20:41:52+00:00",
-      "summary": "은퇴한 축구 선수들, 중년기에 뇌 건강 변화 징후&nbsp;&nbsp;재활뉴스[PRNewswire] 알츠하이머 협회 국제 콘퍼런스 2026&nbsp;&nbsp;네이트은퇴 축구선수 뇌 MRI 보니…기억·감정 부위 회백질 적었다&nbsp;&nbsp;코메디닷컴\"은퇴한 축구선수들, 뇌가 달랐다\"... MRI에서 확인된 변화, 우울·불안 위험도 더 높아&nbsp;&nbsp;creatorjournal.co.kr[PRNewswire] 2026 알츠하이머협회 국제콘퍼런스 발표 자료&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "재활뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92blRvWFgwam9ScjJSdG1nWE1taFZaN2FDc0U5YU8yQlRrcDd1aWIzajI5cGtsdlJEQTJlVno1LXFfNnJYOXhCaDh6dThLX0lOS2E3c2s3Z3Z5QjNuY3pOOGlEazFiTHh5TXhF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "97a4875d9c9c",
       "title": "“피곤해서 그런 줄 알았는데”…50대 남성 가장 많이 걸린 암은 ‘대장암’ - 세계일보",
       "published": "2026-07-13T20:00:00+00:00",
@@ -294,9 +366,21 @@
       ]
     },
     {
+      "id": "6e481de1f24f",
+      "title": "“일 그만두면 인지 능력 저하 치매 등 유발” - 애틀랜타 중앙일보",
+      "published": "2026-07-13T19:45:35+00:00",
+      "summary": "“일 그만두면 인지 능력 저하 치매 등 유발”&nbsp;&nbsp;애틀랜타 중앙일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "애틀랜타 중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sQXBqc3c2MzVrdlZxQ1B2a1VhVkNmalBVTnk1Q0Zvd2c3bjgyYmN1WjlZbnlubW9jSEE2RWVCSEN6dVNpc1NIaElia2dSUW8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8637b3701efa",
       "title": "실험 장비 없어 종이·연필로 연구 시작… ‘韓 생명공학 선구자’ 조완규 前 총장 별세 - 조선일보",
-      "published": "2026-07-13T15:35:00+00:00",
+      "published": "2026-07-13T15:44:31+00:00",
       "summary": "실험 장비 없어 종이·연필로 연구 시작… ‘韓 생명공학 선구자’ 조완규 前 총장 별세&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -318,26 +402,14 @@
       ]
     },
     {
-      "id": "0749368a15ef",
-      "title": "“암 없댔는데” 뒤늦게 직장암 3기… 병원이 발견 못 한 걸까? - 헬스조선",
-      "published": "2026-07-13T14:00:00+00:00",
-      "summary": "“암 없댔는데” 뒤늦게 직장암 3기… 병원이 발견 못 한 걸까?&nbsp;&nbsp;헬스조선",
+      "id": "a18598878552",
+      "title": "뉴스후) DRC '사상 최대' 에볼라 치료제 임상시험 시작이 드러내는 국제보건의 이해충돌 - 데일리연합",
+      "published": "2026-07-13T13:30:13+00:00",
+      "summary": "뉴스후) DRC '사상 최대' 에볼라 치료제 임상시험 시작이 드러내는 국제보건의 이해충돌&nbsp;&nbsp;데일리연합",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxS2xIZWtTOFdFNUxVUUdwczNNOVZ0b1EwaC1tYm96dHdiRTQ2SGV5YUFVNHBiWHZqc2t3VlpNQW1aWmJHOTF0em94d0M5MkpLR3M0Q1loekFFcllRbndYSlVyRWcxLW5HSERBRGtSWTZZN0NBTWx1SEFUWEVuLXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "608c86b41b31",
-      "title": "세계 ‘치매 위험’ 지도 그려 보니...한국 “비만 최저, 음주 상위권” - 디멘시아뉴스",
-      "published": "2026-07-13T13:00:27+00:00",
-      "summary": "세계 ‘치매 위험’ 지도 그려 보니...한국 “비만 최저, 음주 상위권”&nbsp;&nbsp;디멘시아뉴스낮은 교육 수준이 고혈압·비만보다 치매에 더 위험&nbsp;&nbsp;조선일보[건강포커스] \"치매 위험요인 나라마다 달라…한국은 교육·고혈압·흡연 순\"&nbsp;&nbsp;연합뉴스“학력 낮으면 치매 위험 높아진다?”…최대 위험요인, 나라별로 들여다봤더니&nbsp;&nbsp;헤럴드경제\"中은 낮은 교육 수준, 美는 비만 많아서?\"…국가마다 치매 위험 요인 다르다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mNVNHNDBIZFdIZGdVS0ZmMkQyaVJsalJZdFRybkE4a0FpMDBENTJON2VZQXU0VkVGRE1YV2lXQXJQNWpaTW9NZkRRb2ZGUkMwVUhGQUlNSG83RXk0WEtneXdvUzIyaERzYWpORHJBcXU1Zw?oc=5"
+          "name": "데일리연합",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aTFZxLTZNcW5YbzZZbHVNN29oMWh0TFRVTW1pYVl4b3dBbmprQ0M2TnU3TnJVREZjZVVqWnBxSHJ1LWZJQWFTeTUwSnlpNVNsNHZPZkh1dnRlWjQ?oc=5"
         }
       ]
     },
@@ -345,7 +417,7 @@
       "id": "40f65fee33c2",
       "title": "뎅기열 증가, 람동의 많은 지역에서 전염병 예방 및 통제에 집중 - Laodong.vn",
       "published": "2026-07-13T12:30:08+00:00",
-      "summary": "뎅기열 증가, 람동의 많은 지역에서 전염병 예방 및 통제에 집중&nbsp;&nbsp;Laodong.vn베트남·방글라데시 등 뎅기열 확산…감염 주의&nbsp;&nbsp;YTN뎅기열 환자가 증가하면서 우기철에 발생할 수 있는 집단 발병에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn하노이 뎅기열·수족구 급증… 교민사회 '초기 증상 오인' 주의해야(Sharp Surge in Dengue and HFMD Cases in Hanoi: Korean Community Warned Not to Misinterpret Early Symptoms)&nbsp;&nbsp;글로벌휴먼타임즈이 백신은 뎅기열로 인한 입원 위험을 90% 이상 줄이는 데 도움이 됩니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "뎅기열 증가, 람동의 많은 지역에서 전염병 예방 및 통제에 집중&nbsp;&nbsp;Laodong.vn베트남·방글라데시 등 뎅기열 확산…감염 주의&nbsp;&nbsp;YTN뎅기열 환자가 증가하면서 우기철에 발생할 수 있는 집단 발병에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn이 백신은 뎅기열로 인한 입원 위험을 90% 이상 줄이는 데 도움이 됩니다.&nbsp;&nbsp;Vietnam.vn뎅기열 증상이 악화되어 여성 환자가 위독한 상태입니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -366,14 +438,14 @@
       ]
     },
     {
-      "id": "611ee13bcd25",
-      "title": "블루투스이어폰을 장기간 착용하면 갑상선 결절, 암 유발한다?--건강 - 인민넷",
-      "published": "2026-07-13T08:21:00+00:00",
-      "summary": "블루투스이어폰을 장기간 착용하면 갑상선 결절, 암 유발한다?--건강&nbsp;&nbsp;인민넷",
+      "id": "e1e8f36217cb",
+      "title": "“당뇨 전단계면 괜찮다?”…혈당 잡으려면 지금부터 ‘이 음식’ 챙기세요 - 코메디닷컴",
+      "published": "2026-07-13T08:01:00+00:00",
+      "summary": "“당뇨 전단계면 괜찮다?”…혈당 잡으려면 지금부터 ‘이 음식’ 챙기세요&nbsp;&nbsp;코메디닷컴“공복에 먹으면 혈당 쭉 오른다”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트“혈당에 이로워” 간식으로 매일 먹어도 좋은 음식 5가지&nbsp;&nbsp;밴쿠버 조선일보공복에 먹는 오후 간식들… 당뇨병 부르는 사소한 습관은?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JTkN3bzk4dUs0Y2NkWFdZeGszckRNS0daNFlGUl9Ud09HTHVKMEZOWVl2ZVF6V1NyV3N4dE5MZTc0RW9pVEhRcVlyX2tYTWh3UUFwMUJvM1pKWWZpbktsRE9zSXJKWm1RSl9wX3lB?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1lVUpYZVhnbHpiQjdrakt2Q0JtZVRwbWdFUzJhOGkyc3VzYVI2aXNMc3dYU0dITjBEMXdtWFlnbnE1QQ?oc=5"
         }
       ]
     },
@@ -465,7 +537,7 @@
       "id": "218df47f9a23",
       "title": "전문가, 건강하게 먹어도 혈압 상승하는 실수 지적 - Laodong.vn",
       "published": "2026-07-13T03:32:07+00:00",
-      "summary": "전문가, 건강하게 먹어도 혈압 상승하는 실수 지적&nbsp;&nbsp;Laodong.vn“혈관 건강해진다”… 영양사 추천 ‘최고의 간식’은?&nbsp;&nbsp;헬스조선매일 챙겨 먹으면 병원 갈 일 없다는 '이 과일'…심혈관질환 예방에 탁월&nbsp;&nbsp;전자신문뇌졸중·심근경색 유발하는 '고혈압'…몸 속 나트륨만 배출해도 도움된다&nbsp;&nbsp;네이트마늘과 고추를 씹고 코코넛 물을 마시면 단 5분 만에 혈압을 빠르게 낮출 수 있다는 진실.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "전문가, 건강하게 먹어도 혈압 상승하는 실수 지적&nbsp;&nbsp;Laodong.vn“혈관 건강해진다”… 영양사 추천 ‘최고의 간식’은?&nbsp;&nbsp;헬스조선\"가능하면 매일 먹어라\"…병원 갈 일 줄어들게 만든다는 '이 과일', 뭐길래? [헬시타임]&nbsp;&nbsp;네이트매일 챙겨 먹으면 병원 갈 일 없다는 '이 과일'…심혈관질환 예방에 탁월&nbsp;&nbsp;전자신문이 6가지 견과류를 매일 아침 먹기 시작한 후 몸에 온 변화&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -494,18 +566,6 @@
         {
           "name": "메디칼타임즈",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1URDU1NUpzN2RSTVQwTksxazZFZ3VhaFdsZkNzak45ZVo0dUpLcmdxVW5hQi0tY0g3TlJCeVA2bHVRQ1RObmU1M1FzQjB4clczU1FIakhyakd1b3hJU0tvbjZTNEtnWi1zUkRCMW1TNXJQZWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b08434d8cd38",
-      "title": "작은 귀 성형 수술은 어린이의 미용과 청력을 개선하는 데 도움이 됩니다 - Laodong.vn",
-      "published": "2026-07-13T02:29:58+00:00",
-      "summary": "작은 귀 성형 수술은 어린이의 미용과 청력을 개선하는 데 도움이 됩니다&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1hZN2hBejNvdXJvYzZTa1lFRDJyMzdJWFZ1QjBvZEs2LUJlQnNZZGh1aGtuMENXbGhoX3FiNTJHWHVYOHpkWnZpUVV4eW5oaUJqSlptek8zNEdJTXJvVndycEFVV0E2VHZVTzZ6UkpWSy1CcmRQczVWYmpjSHhUQ0QwTXYxMzRIekNZVHFxV1lqNzBQbHJ5aEoybFBfZW5Ea3dZTE9wQjRlRjA?oc=5"
         }
       ]
     },
@@ -594,18 +654,6 @@
       ]
     },
     {
-      "id": "1a300b991095",
-      "title": "요즘 '젊은 치매' 늘더니…\"1인당 '1억' 손실\" 무서운 경고 - 한국경제",
-      "published": "2026-07-12T21:29:04+00:00",
-      "summary": "요즘 '젊은 치매' 늘더니…\"1인당 '1억' 손실\" 무서운 경고&nbsp;&nbsp;한국경제\"1인당 1억3000만원 사라진다\" 경고…3040도 안심 못 한다는 '이 병' 정체&nbsp;&nbsp;v.daum.net“1인당 1억 증발” 섬뜩한 경고…3040도 절대 안심 못 할 ‘이 병’ 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제“일 그만두면 인지 능력 저하 치매 등 유발”&nbsp;&nbsp;애틀랜타 중앙일보조발성 치매, 진단 최대 15년 전부터 업무 생산성 저하&nbsp;&nbsp;알파경제",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsV3E4akthR0cxVmJJbkxqSF9pcWgyWFRrdG1zNXcweEZaeVZIS0tIZC1lY1hfNllIODJxUmxFLXA3a29MdzVkNWNqRGx6ZnVoLUU4U3ZVZVEzUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3091c18258db",
       "title": "엔트레스토, LVAD 삽입 심부전 환자 심혈관 사건 감소 - 의약뉴스",
       "published": "2026-07-12T20:58:00+00:00",
@@ -642,26 +690,26 @@
       ]
     },
     {
-      "id": "5c15a7a0ce2b",
+      "id": "3ed44bf1d46e",
       "title": "아침식사 거르면 대사증후군 위험 '쑤욱' - 주간조선",
       "published": "2026-07-12T19:00:00+00:00",
-      "summary": "아침식사 거르면 대사증후군 위험 '쑤욱'&nbsp;&nbsp;주간조선Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "아침식사 거르면 대사증후군 위험 '쑤욱'&nbsp;&nbsp;주간조선“염증 수치 오른다”… 여름에 최악이라는 ‘아침 식습관’&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "주간조선",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BR0JzWnh6WU1FcEpRMWZGWUZleFF1Ul9maDdxN3JxSUhCeVVmMk5TR0haczRXdjktajVnbFVheUgzTlpaMThXVjh3cDVzNFdPNUdmSUJreldXd0tWbUNkV1lBZEpXX2ZkcUtB0gFuQVVfeXFMTnhCWUdjQzJvMVdmNlNybm9BR3ZpdmJROGFWTm9JdEtsbEtRRDRxa2lpR2lyTVlQaXZ4STRkMUM3c01CQU5OcXRhZHBRUk92ZFRITVBXb05iaGcwYUNleEVpZE5iYl9XNzl2NDNnOWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydnBzcXpJYTVJVFpmeWY5eUNGMDhwbDFvZkZ3cGI0TDYtb0tfWFhJamc5RUYwWE00Q2VoTGEySmhITERjV3lOSTlETVZlZjlvRHFEcGFVR1E5VDFWM0pHWkM0MVlQYzNwWXfSAW5BVV95cUxOeEJZR2NDMm8xV2Y2U3Jub0FHdml2YlE4YVZOb0l0S2xsS1FENHFraWlHaXJNWVBpdnhJNGQxQzdzTUJBTk5xdGFkcFFST3ZkVEhNUFdvTmJoZzBhQ2V4RWlkTmJiX1c3OXY0M2c5Zw?oc=5"
         }
       ]
     },
     {
-      "id": "75b058f655d8",
-      "title": "“공복에 먹으면 혈당 쭉 오른다”… 의사 경고한 ‘의외의 음식’ - 헬스조선",
-      "published": "2026-07-12T18:00:00+00:00",
-      "summary": "“공복에 먹으면 혈당 쭉 오른다”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트“혈당에 이로워” 간식으로 매일 먹어도 좋은 음식 5가지&nbsp;&nbsp;밴쿠버 조선일보공복에 먹는 오후 간식들… 당뇨병 부르는 사소한 습관은?&nbsp;&nbsp;코메디닷컴아침밥, 단백질 vs 탄수화물? 혈당 잡는 조합은&nbsp;&nbsp;조세일보",
+      "id": "ca77c3010c4e",
+      "title": "[2026 알츠하이머협회 국제콘퍼런스 발표 자료] 2026 알츠하이머협회 국제콘퍼런스에서 발표된 다른 연구들은 헤딩 노출 증가와 더 긴 축구 선수 경력이 신경 손상 생체표지자, 타우 축적 및 만성 외상성 뇌병증(CTE) 위험 - AI넷",
+      "published": "2026-07-12T15:22:00+00:00",
+      "summary": "[2026 알츠하이머협회 국제콘퍼런스 발표 자료] 2026 알츠하이머협회 국제콘퍼런스에서 발표된 다른 연구들은 헤딩 노출 증가와 더 긴 축구 선수 경력이 신경 손상 생체표지자, 타우 축적 및 만성 외상성 뇌병증(CTE) 위험&nbsp;&nbsp;AI넷[PRNewswire] 알츠하이머 협회 국제 콘퍼런스 2026&nbsp;&nbsp;네이트은퇴한 축구 선수들, 중년기에 뇌 건강 변화 징후&nbsp;&nbsp;재활뉴스운동·식단 등 다영역 생활습관 개선 “60대에 시작해야 효과”&nbsp;&nbsp;디멘시아뉴스은퇴 축구선수 뇌 MRI 보니…기억·감정 부위 회백질 적었다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqNlRveHNodTJKYTdtTFIyRzhKdDlUOFpWcnZuOEtfYktUbUllb1JfeVJzQnl1bXVoQUExall0Tk50R0liaElqQjdMWWRsc2NDNk1ENHIwN2g2U2NpNEF4TTkxNjBBem84bHUwRHJPRzhwSmlTc3NTM2pScE1BWEk?oc=5"
+          "name": "AI넷",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE41TXdYRmllVFdhczk5akdpSzVERGhvM0dKUVdpeDFUMXFuMzl1OGN4WG1WN0g5Sml3QVZBNFZ2WQ?oc=5"
         }
       ]
     },
@@ -674,42 +722,6 @@
         {
           "name": "한국보험신문",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qcmFheldNNGVGdWRJdUFDdGFCS2dFT1RNRkRjZXktMEZTNHFDT0JoN2lKYTJ5YnVrdFFxWE9SMWZsSFVzeEs5dUxqbEtXdFlpaHAycHZXeVByUGR4anRva19FckZUUEZuTmJR0gFvQVVfeXFMT0tkMzBVbzMzbXpkaU5VZXF1TzM1OWJ3RVJqcXB6MjRSX3kyZzgtaDdWVlN0eXNFMkhVNWc2SFBfSGRUQTF6YUNMRXVRMTdreGdmLUFYM1ZmMlNSdGR6OExqWXhUTnR2N0ZVNVVCaFhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c0e3773b2493",
-      "title": "당뇨병 환자, 80세 넘으면 치매 사망 더 가파르게 증가 - 헬스조선",
-      "published": "2026-07-12T12:00:00+00:00",
-      "summary": "당뇨병 환자, 80세 넘으면 치매 사망 더 가파르게 증가&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JTUM2Tm9XdkJwNWpkaXZIUFFrTFVLR0owZTczMFYyRHRsdFJSdlpnZDVrOUpPMmRhNTBaZDdGSG5uLXlWUFBiTF9oRTJoZGMyb1B5Y09NMU0xemtkNS1YZEg5TW5uXzN2SDVodTdnRGRoenl1ZWU4UUdRT1VYOGs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60fb7446cd68",
-      "title": "\"중년 여성들, 신장 꼭 살펴야\"…55세에도 여전히 '이 음식' 즐긴다면 더 조심? - 네이트",
-      "published": "2026-07-12T10:22:08+00:00",
-      "summary": "\"중년 여성들, 신장 꼭 살펴야\"…55세에도 여전히 '이 음식' 즐긴다면 더 조심?&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DQzItaDVCMkNhaWplb2pnWS1DRUd2em44U2tlSGNXY3BuUWVqYUtlV0EtMnZ2UzlJTzAxOGFGSmtZWXZqSXZId2pIZHBDeG1mUUpLSUhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12bd14bc1703",
-      "title": "[성주원의 건강산책] 술 1잔은 건강에 좋을까? 최신 연구가 바꾼 ‘적당한 음주’의 상식 - 울산제일일보",
-      "published": "2026-07-12T09:19:00+00:00",
-      "summary": "[성주원의 건강산책] 술 1잔은 건강에 좋을까? 최신 연구가 바꾼 ‘적당한 음주’의 상식&nbsp;&nbsp;울산제일일보",
-      "sources": [
-        {
-          "name": "울산제일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FTmxaQUtkd3QxemEtTnQxZnhNNW9tOC15WDFKaTF2cWZUYUQtMFcxNWI4QXJldGY4eDNOLVQydFRkWkJNdG0yQkZMYUw4RUlsV21jZXFET3ROYmJCeWRKZUZ5ME5nUQ?oc=5"
         }
       ]
     },
