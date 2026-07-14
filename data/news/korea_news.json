@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-14T13:50:07.797159+00:00",
-  "total_fetched": 98,
-  "unique_count": 98,
-  "health_related_count": 61,
+  "fetched_at": "2026-07-14T19:23:09.899764+00:00",
+  "total_fetched": 99,
+  "unique_count": 99,
+  "health_related_count": 62,
   "news": [
+    {
+      "id": "5fbee6997519",
+      "title": "고안압 환자, 비타민 B3 복용 후 녹내장 위험 66% 감소 - 헬스조선",
+      "published": "2026-07-14T13:30:00+00:00",
+      "summary": "고안압 환자, 비타민 B3 복용 후 녹내장 위험 66% 감소&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90NkotMXJOSDAwVGxDOHBiclA4UmNibE5WeHo0OF91blBfU2pqVXpwYzJSc3VFWW1wY3diZDhhWm9xTXFTTWdxZmZfNGFxOXNCS2dRdV9Sb3V0c0l4NE55QXVKMHpFc0lNMG1YSWhpSDBrSzJSQlNlaGpsQTU5V28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d029ac45a2b",
+      "title": "LA 카운티 올해 첫 웨스트나일바이러스 감염자 발생 - RadioKorea",
+      "published": "2026-07-14T13:26:00+00:00",
+      "summary": "LA 카운티 올해 첫 웨스트나일바이러스 감염자 발생&nbsp;&nbsp;RadioKorea",
+      "sources": [
+        {
+          "name": "RadioKorea",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsYlpYbUN1YVZWZEhxUVZHZVMzWDRBb0gwSXBFcl84WHZ0SlkxTnNEUU9kWEtJMEc3S2hxcXlRX3J2RFpmM3l6T0ZiTXdVRXpNaTdpbU5jMDB2Q0NJMnNHRWtmajA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "51517f24d29c",
+      "title": "“오래 살고 싶으면 ‘이 음식’ 챙겨 드세요”…건강 장수에 좋은 식물성 단백질 식품 8가지 - 코메디닷컴",
+      "published": "2026-07-14T13:05:00+00:00",
+      "summary": "“오래 살고 싶으면 ‘이 음식’ 챙겨 드세요”…건강 장수에 좋은 식물성 단백질 식품 8가지&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tQjBTMkFVTTdUZE05RnRpYmM1SGpMMmY4ZERha0RaSGhrNWxDaFo4QVdJanpPREJOUElGVmY3c0VWUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d0ddaf5ff79",
+      "title": "위암 예방하려다가 대장암까지?…헬리코박터균 치료의 놀라운 효과 [수민이가 궁금해요] - 세계일보",
+      "published": "2026-07-14T12:14:20+00:00",
+      "summary": "위암 예방하려다가 대장암까지?…헬리코박터균 치료의 놀라운 효과 [수민이가 궁금해요]&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxRXJyVE9fVHNTSkxmX0FXODJHLTVnUDN6ZmVhcXdXak9FaEJFNkpkbXREUGV4eEVJMVZabWhDNVlJeFBBZFd5aHN3djlpVDRWZjVhWG1XR2HSAVRBVV95cUxNZVlDZlpLRXRJSEQ1aERhY3dLWmw2ZU5yUmlIVXZ4Y3BVYmN2UzdpTG13ZnlXWWR0Z2VtMGJZVjhKYXJ2QUtQclk1aF9VcDlWbWN4UmQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "9b6ad28ca80c",
       "title": "대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\" - 헬스경향",
@@ -38,6 +86,18 @@
         {
           "name": "조세일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZWFjd3kzc1RKX2xyeGxKNlVnaUI1djRmazByUUg4Uk43ZnUxU2xfRlRsNVY0aHdNXzFkNTdjbHNtdnJENEpPeTQwa09Va3M0bEVUTzZkNzNWR1ZWNW90WFVxRHM1Y2VxeVhjN1lraw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2792a68b548f",
+      "title": "[의료칼럼] 건강검진 PSA 수치가 높다면… 전립선암일까? - 뉴스충청인",
+      "published": "2026-07-14T09:35:00+00:00",
+      "summary": "[의료칼럼] 건강검진 PSA 수치가 높다면… 전립선암일까?&nbsp;&nbsp;뉴스충청인[의학칼럼] 건강검진 PSA 수치 높다면 전립선암일까?&nbsp;&nbsp;v.daum.net“항문에 손가락 넣는 검사 끝”…소변 냄새로 전립선암 89% 찾았다&nbsp;&nbsp;뉴스와침습적 조직검사 대신 소변·AI로 '전립선암' 잡는다&nbsp;&nbsp;헬스경향강남세브란스병원 구교철 교수팀, 소변 기반 전립선암 진단 플랫폼 개발 外&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "뉴스충청인",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBlMmtCX2NZZ1ZWbE9PZkFJaWN4WkRVeUVVUk1oY25nQzNOd3A1YTR5Nkp0RmFuVDZOcXdYS2RuMkhkWDJQbkE?oc=5"
         }
       ]
     },
@@ -114,14 +174,14 @@
       ]
     },
     {
-      "id": "67ec0004e314",
-      "title": "[건강칼럼] 건강검진 PSA 수치가 높다면…전립선암일까? - 충청뉴스",
-      "published": "2026-07-14T05:10:52+00:00",
-      "summary": "[건강칼럼] 건강검진 PSA 수치가 높다면…전립선암일까?&nbsp;&nbsp;충청뉴스[의학칼럼] 건강검진 PSA 수치 높다면 전립선암일까?&nbsp;&nbsp;v.daum.net“항문에 손가락 넣는 검사 끝”…소변 냄새로 전립선암 89% 찾았다&nbsp;&nbsp;뉴스와침습적 조직검사 대신 소변·AI로 '전립선암' 잡는다&nbsp;&nbsp;헬스경향강남세브란스병원 구교철 교수팀, 소변 기반 전립선암 진단 플랫폼 개발 外&nbsp;&nbsp;의약뉴스",
+      "id": "f3d25d4c6488",
+      "title": "근육 건강이 당뇨병 좌우한다 - 한국의약통신",
+      "published": "2026-07-14T05:07:18+00:00",
+      "summary": "근육 건강이 당뇨병 좌우한다&nbsp;&nbsp;한국의약통신",
       "sources": [
         {
-          "name": "충청뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4d3Jac0pES2czc1JIZ1FuOENhYU5RQk12UGhROEZET0E1SVNBWGduYUgwTzV2akZHZ2xBYXRLWnRZMzJRQlN4VTdUcXRGUzlvRW1NakhCdzVHSXBNcUhodi1NckZGUmZrRGg0ZQ?oc=5"
+          "name": "한국의약통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94cEc3WjhOd3lDc1o2Ym83ekRRQzlub1ptb1dfVm92bGtMdG4zWGZLM04tSEEtWmYyeHlkRW5haThNWDFvQk1tLWlKR2ZQOGNnVGtpLUFwMlBLdXdpWW9HOTVmMlQ5RjR2OUJ3?oc=5"
         }
       ]
     },
@@ -294,18 +354,6 @@
       ]
     },
     {
-      "id": "f9bda23e5cea",
-      "title": "위암 유발 '헬리코박터균' 치료했더니...대장암 발생·사망률도 절반 뚝 - 데일리굿뉴스",
-      "published": "2026-07-13T21:35:18+00:00",
-      "summary": "위암 유발 '헬리코박터균' 치료했더니...대장암 발생·사망률도 절반 뚝&nbsp;&nbsp;데일리굿뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "데일리굿뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrYVE1QTJPRDlRTmpUaGJ2TFRMYzdheWZoNEp3cDBGQnNUWGNkOTljek9mMzItdGNGWEVBeG1OazNUMVlPaFI3VFBjVjZrWl91V2dzTVhfcHRmQlRhcDBKMGd1b0lfVkVuQjZtX9IBcEFVX3lxTE5JekE3WjY4eWNDOXBVRExYTmxYelhxMVktdXVubFA4REUxMHdxeUllaF9TSXk2aVBjXzNQbzlwVGt5Y3p5bjUxMWctYVRJdmxGNnJXc1VjS1V0aHRTOTBhX3B3QjBvQjZ1ek5FX2pKQjE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "02db184dfee1",
       "title": "조기 진단ㆍ치료 ‘한 묶음’ … 로슈, 알츠하이머 ‘초전박살’ - 메디소비자뉴스",
       "published": "2026-07-13T21:30:00+00:00",
@@ -333,7 +381,7 @@
       "id": "965e3994818e",
       "title": "뇌가 스스로 단백질 찌꺼기 청소, 치매 정복에 성큼 다가선 한국 스타트업의 혁신 기술 - 조선일보",
       "published": "2026-07-13T21:05:02+00:00",
-      "summary": "뇌가 스스로 단백질 찌꺼기 청소, 치매 정복에 성큼 다가선 한국 스타트업의 혁신 기술&nbsp;&nbsp;조선일보국내 연구진, 알츠하이머병 뇌 영상 추적자 규명&nbsp;&nbsp;메디팜뉴스알츠하이머병, '핵사멸' 발견으로 치료 패러다임 바뀔까&nbsp;&nbsp;바이오타임즈새로운 기술이 알츠하이머병 초기 단계의 \"수수께끼 같은 원흉\"을 밝혀냈습니다.&nbsp;&nbsp;Vietnam.vn알츠하이머병 뇌 영상 추적자 18F-THK5351의 진짜 정체 밝혔다&nbsp;&nbsp;BRIC",
+      "summary": "뇌가 스스로 단백질 찌꺼기 청소, 치매 정복에 성큼 다가선 한국 스타트업의 혁신 기술&nbsp;&nbsp;조선일보국내 연구진, 알츠하이머병 뇌 영상 추적자 규명&nbsp;&nbsp;메디팜뉴스새로운 기술이 알츠하이머병 초기 단계의 \"수수께끼 같은 원흉\"을 밝혀냈습니다.&nbsp;&nbsp;Vietnam.vn알츠하이머병 뇌 영상 추적자 18F-THK5351의 진짜 정체 밝혔다&nbsp;&nbsp;BRIC연세대 연구팀, 알츠하이머병 뇌 영상 추적자 작동원리 규명&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "조선일보",
@@ -342,14 +390,14 @@
       ]
     },
     {
-      "id": "97a4875d9c9c",
-      "title": "“피곤해서 그런 줄 알았는데”…50대 남성 가장 많이 걸린 암은 ‘대장암’ - 세계일보",
-      "published": "2026-07-13T20:00:00+00:00",
-      "summary": "“피곤해서 그런 줄 알았는데”…50대 남성 가장 많이 걸린 암은 ‘대장암’&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "3df42e6b1877",
+      "title": "[기초과학의 시간] ②\"아무도 시도 않는 촉매연구 개척”…스승과 다른 길 택해 연구 지평 넓혀 - 동아사이언스",
+      "published": "2026-07-13T21:00:00+00:00",
+      "summary": "[기초과학의 시간] ②\"아무도 시도 않는 촉매연구 개척”…스승과 다른 길 택해 연구 지평 넓혀&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLRmRPQTItSXVjbW9rSWpzNURfVlh6TjFMLTktZ3hVN3VuZ3pXVEJnX1FmSnpzNldGdGlFd05iaG1IQUNqT2lpU2t0RGxtZ1BOcHMwLTN1dFjSAVRBVV95cUxQTWFiWVlOV3l5RWZrQkY1cU1DSWwwR0wwLVFGUVMxcUlWRGFJUzBTMi1FbVlzTklDUUt1d2ZLVjlQWUJERDhVSFZISWxBNDBWT2RtcjU?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0ZVd5OU0xNGlpMGItazc0TjA0YUVMaU5lbEJoQnBkbTRNQ0dxNWNuZ0gxamh5X1dmdWFQNkRUWV9qUkpvNHFyOG92S0pXdW1OQnlWRQ?oc=5"
         }
       ]
     },
@@ -402,6 +450,18 @@
       ]
     },
     {
+      "id": "0749368a15ef",
+      "title": "“암 없댔는데” 뒤늦게 직장암 3기… 병원이 발견 못 한 걸까? - 헬스조선",
+      "published": "2026-07-13T14:00:00+00:00",
+      "summary": "“암 없댔는데” 뒤늦게 직장암 3기… 병원이 발견 못 한 걸까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxS2xIZWtTOFdFNUxVUUdwczNNOVZ0b1EwaC1tYm96dHdiRTQ2SGV5YUFVNHBiWHZqc2t3VlpNQW1aWmJHOTF0em94d0M5MkpLR3M0Q1loekFFcllRbndYSlVyRWcxLW5HSERBRGtSWTZZN0NBTWx1SEFUWEVuLXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a18598878552",
       "title": "뉴스후) DRC '사상 최대' 에볼라 치료제 임상시험 시작이 드러내는 국제보건의 이해충돌 - 데일리연합",
       "published": "2026-07-13T13:30:13+00:00",
@@ -434,6 +494,18 @@
         {
           "name": "mostonline.co.kr",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhZi1lQXRLMDFpb25vV2lWREpFZXlvY2xMR1dLWmxPYkVpV2FvUDV3VlJTMEZRdlBuQUhiR3dNWV9RVENSblRVNGN0SlQ0Qzg3NC1DTXZVZ2NQM1Q2VWkxYjJEWTVYYTZuRFVTRGF3RS0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "611ee13bcd25",
+      "title": "블루투스이어폰을 장기간 착용하면 갑상선 결절, 암 유발한다?--건강 - 인민넷",
+      "published": "2026-07-13T08:21:00+00:00",
+      "summary": "블루투스이어폰을 장기간 착용하면 갑상선 결절, 암 유발한다?--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JTkN3bzk4dUs0Y2NkWFdZeGszckRNS0daNFlGUl9Ud09HTHVKMEZOWVl2ZVF6V1NyV3N4dE5MZTc0RW9pVEhRcVlyX2tYTWh3UUFwMUJvM1pKWWZpbktsRE9zSXJKWm1RSl9wX3lB?oc=5"
         }
       ]
     },
@@ -486,30 +558,6 @@
       ]
     },
     {
-      "id": "d99ae8545c5b",
-      "title": "과기정통부, 대국민 AI 서비스 개발 착수 - 조선일보",
-      "published": "2026-07-13T06:54:04+00:00",
-      "summary": "과기정통부, 대국민 AI 서비스 개발 착수&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNU1hTXJDNXhkaGNvaV9mcmlmMW1hcHI1UE8xZDZxME0xNDVsRlAzeFBPUTIweGlBdDdtdmEwcy10bmRXR3RwamJGWkU0Qk10cjhMSVUwZG9xaUg4QXRxeGVNMGFBeUEyamFZUW0wTENIVXBVZ3UxVUQ3VHVQQk1qZkFNYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fca2ddb05114",
-      "title": "변비약보다 낫네, 영양사가 고른 홈메이드 음료는? [식탐] | - HeraldK.com",
-      "published": "2026-07-13T06:50:00+00:00",
-      "summary": "변비약보다 낫네, 영양사가 고른 홈메이드 음료는? [식탐] |&nbsp;&nbsp;HeraldK.com",
-      "sources": [
-        {
-          "name": "HeraldK.com",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOTWFXbTFSeXRBRUYzYWIxbGQ2VnBkQ05KOWY1LVh0MS12djNpV3FoM1U4OG9uWmlJelhOM1pYU3AzbHJNMmt5dkpqSm5FbU8xYTdfZzVqNzZUQ2lVTjhyRE5malhLYUgtSjFObTFsblhzb1M5d3FHaHY1MldrUmRJZUxMVGpsNG83ZE16bnlMdFZwQ1RBd3JsbEF4R0JnMGUwZTcxb3FNQndfMXdqWVphRnJnajhHRDM1T3hYWHAwUWtCcHNSVVlWeHNhRTFOczFQSDd0SVJJX1FrZjVkc0h1ajkwQ1Z2QXV1dk1FeFdxYWx3ME13UHNxN0dYUWMwSFg5T2hHOV9LX0RmY1V0TEpud3V1UzZBWU5nUjZ5dC1FdE1EbDZBVk1DLUpUanlSYnFKenhoVVhOWUQ4NVlYRWtmbzNRT2hLLVVnNkJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "720af46a12ef",
       "title": "관절염, 진행 전에 막는다?…초음파 치료 가능성 나왔다 [노화설계] - 동아일보",
       "published": "2026-07-13T06:14:49+00:00",
@@ -558,14 +606,26 @@
       ]
     },
     {
-      "id": "972c20540a6f",
+      "id": "e9dfc69a6309",
       "title": "올해 개원가 독감백신 트렌드는 3가...\"4가 백신 불필요\" - 메디칼타임즈",
       "published": "2026-07-13T02:40:55+00:00",
       "summary": "올해 개원가 독감백신 트렌드는 3가...\"4가 백신 불필요\"&nbsp;&nbsp;메디칼타임즈",
       "sources": [
         {
           "name": "메디칼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1URDU1NUpzN2RSTVQwTksxazZFZ3VhaFdsZkNzak45ZVo0dUpLcmdxVW5hQi0tY0g3TlJCeVA2bHVRQ1RObmU1M1FzQjB4clczU1FIakhyakd1b3hJU0tvbjZTNEtnWi1zUkRCMW1TNXJQZWM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qUnZmU2pLT0VQdFNldmE5TFByM1NGSXpMLUY5NnFIRzVkNEtFQXJ3NkhLTVI0NTdPdnI5ek9pYUxRT1FkRkNBUXk0Rmh4dVhseGpzVDN2Z2lBR2FqY1dBZ3Q3Z2otUDIwSFdJaXdGX3U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b08434d8cd38",
+      "title": "작은 귀 성형 수술은 어린이의 미용과 청력을 개선하는 데 도움이 됩니다 - Laodong.vn",
+      "published": "2026-07-13T02:29:58+00:00",
+      "summary": "작은 귀 성형 수술은 어린이의 미용과 청력을 개선하는 데 도움이 됩니다&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU1hZN2hBejNvdXJvYzZTa1lFRDJyMzdJWFZ1QjBvZEs2LUJlQnNZZGh1aGtuMENXbGhoX3FiNTJHWHVYOHpkWnZpUVV4eW5oaUJqSlptek8zNEdJTXJvVndycEFVV0E2VHZVTzZ6UkpWSy1CcmRQczVWYmpjSHhUQ0QwTXYxMzRIekNZVHFxV1lqNzBQbHJ5aEoybFBfZW5Ea3dZTE9wQjRlRjA?oc=5"
         }
       ]
     },
@@ -590,30 +650,6 @@
         {
           "name": "경기신문",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xU0E4MU5TdnRXcUhYT0t1bk02RUpKbmdmTXNuTHNkWkRTUUNRVXBnRGw0d2JZM1drNFZPNGRHOXIwZ3lxb3c4Mkd4X2l1cW1aT2ZJbVp5RWxWQmM5dGYxS2lB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c6c081cc76ed",
-      "title": "[건강체크] “손이 자꾸 떨린다”…단순 긴장 아닌 ‘신경계 질환’ 신호일 수도 - 전국뉴스",
-      "published": "2026-07-13T01:20:00+00:00",
-      "summary": "[건강체크] “손이 자꾸 떨린다”…단순 긴장 아닌 ‘신경계 질환’ 신호일 수도&nbsp;&nbsp;전국뉴스",
-      "sources": [
-        {
-          "name": "전국뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtajZBN3lxdWpDR3dPTHVFT2lmWmlRcHhYNnVlZldkVHFvRmp5NktLNGkwcVdXM3BIX0lFRlpMTzh2WWxKMEZjcDBBY2dSalVqSDJMRTR3UnpHUlJHbndBbW9hR1lmc1kxLVJzUnlwd1o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab94be44ae26",
-      "title": "여름철 급증하는 편평사마귀… 재발과 켈로이드 흉터 막으려면 - livesnews.com",
-      "published": "2026-07-13T01:00:00+00:00",
-      "summary": "여름철 급증하는 편평사마귀… 재발과 켈로이드 흉터 막으려면&nbsp;&nbsp;livesnews.com“HPV 감염, 파트너에게 어떻게 말해야 할까”… 오해 줄이고 함께 관리하는 법&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "livesnews.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wU3Y1dU9ZX1pEczBrdjVGbzJZcHJZSmFYcEU0OGVWOVpleXdxNUlhZ1VxaFMzM2JJSDlXNkNhYzZvSEQ2UGxhV0pRUHczOWgwNWpnVXZWLVZTVFVQ?oc=5"
         }
       ]
     },
@@ -698,30 +734,6 @@
         {
           "name": "주간조선",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ydnBzcXpJYTVJVFpmeWY5eUNGMDhwbDFvZkZ3cGI0TDYtb0tfWFhJamc5RUYwWE00Q2VoTGEySmhITERjV3lOSTlETVZlZjlvRHFEcGFVR1E5VDFWM0pHWkM0MVlQYzNwWXfSAW5BVV95cUxOeEJZR2NDMm8xV2Y2U3Jub0FHdml2YlE4YVZOb0l0S2xsS1FENHFraWlHaXJNWVBpdnhJNGQxQzdzTUJBTk5xdGFkcFFST3ZkVEhNUFdvTmJoZzBhQ2V4RWlkTmJiX1c3OXY0M2c5Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca77c3010c4e",
-      "title": "[2026 알츠하이머협회 국제콘퍼런스 발표 자료] 2026 알츠하이머협회 국제콘퍼런스에서 발표된 다른 연구들은 헤딩 노출 증가와 더 긴 축구 선수 경력이 신경 손상 생체표지자, 타우 축적 및 만성 외상성 뇌병증(CTE) 위험 - AI넷",
-      "published": "2026-07-12T15:22:00+00:00",
-      "summary": "[2026 알츠하이머협회 국제콘퍼런스 발표 자료] 2026 알츠하이머협회 국제콘퍼런스에서 발표된 다른 연구들은 헤딩 노출 증가와 더 긴 축구 선수 경력이 신경 손상 생체표지자, 타우 축적 및 만성 외상성 뇌병증(CTE) 위험&nbsp;&nbsp;AI넷[PRNewswire] 알츠하이머 협회 국제 콘퍼런스 2026&nbsp;&nbsp;네이트은퇴한 축구 선수들, 중년기에 뇌 건강 변화 징후&nbsp;&nbsp;재활뉴스운동·식단 등 다영역 생활습관 개선 “60대에 시작해야 효과”&nbsp;&nbsp;디멘시아뉴스은퇴 축구선수 뇌 MRI 보니…기억·감정 부위 회백질 적었다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "AI넷",
-          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE41TXdYRmllVFdhczk5akdpSzVERGhvM0dKUVdpeDFUMXFuMzl1OGN4WG1WN0g5Sml3QVZBNFZ2WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abed953c53e9",
-      "title": "[은지 아빠의 인생 2막 준비학교] 병원비보다 더 무서운 건 ‘소득 단절과 후유장애’ - 한국보험신문",
-      "published": "2026-07-12T15:00:00+00:00",
-      "summary": "[은지 아빠의 인생 2막 준비학교] 병원비보다 더 무서운 건 ‘소득 단절과 후유장애’&nbsp;&nbsp;한국보험신문심혈관질환 보장, 정밀치료 시대 맞춰 ‘진화’… 진단·시술·약제·재활 통합 커버&nbsp;&nbsp;보험저널'치단비' 차별화 승부… DB손보, 7월부터 혈전용해·혈전제거 ‘하나만 받아도 보장’ 앞세워 (영상+)&nbsp;&nbsp;보험저널",
-      "sources": [
-        {
-          "name": "한국보험신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qcmFheldNNGVGdWRJdUFDdGFCS2dFT1RNRkRjZXktMEZTNHFDT0JoN2lKYTJ5YnVrdFFxWE9SMWZsSFVzeEs5dUxqbEtXdFlpaHAycHZXeVByUGR4anRva19FckZUUEZuTmJR0gFvQVVfeXFMT0tkMzBVbzMzbXpkaU5VZXF1TzM1OWJ3RVJqcXB6MjRSX3kyZzgtaDdWVlN0eXNFMkhVNWc2SFBfSGRUQTF6YUNMRXVRMTdreGdmLUFYM1ZmMlNSdGR6OExqWXhUTnR2N0ZVNVVCaFhR?oc=5"
         }
       ]
     },
