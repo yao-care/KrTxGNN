@@ -1,19 +1,67 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-15T08:18:31.509002+00:00",
-  "total_fetched": 103,
-  "unique_count": 103,
-  "health_related_count": 66,
+  "fetched_at": "2026-07-15T13:48:37.187780+00:00",
+  "total_fetched": 104,
+  "unique_count": 104,
+  "health_related_count": 65,
   "news": [
     {
-      "id": "d217d47dea8e",
-      "title": "세포의 약속된 죽음, 생식세포와 체세포의 규칙이 달랐다! - 대학지성 In&Out",
-      "published": "2026-07-15T07:46:20+00:00",
-      "summary": "세포의 약속된 죽음, 생식세포와 체세포의 규칙이 달랐다!&nbsp;&nbsp;대학지성 In&amp;OutGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "01c889762395",
+      "title": "Merck, 국제 에이즈 학회서 HIV 치료제 임상 데이터 공개 - Investing.com 한국어",
+      "published": "2026-07-15T11:07:00+00:00",
+      "summary": "Merck, 국제 에이즈 학회서 HIV 치료제 임상 데이터 공개&nbsp;&nbsp;Investing.com 한국어",
       "sources": [
         {
-          "name": "대학지성 In&Out",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvVkRIekNJOTdNVFFDVmJMSEdVSExsVE1iUS1xd1gyTE91dGN4YWlBLU1TamVCaEtnV3dOcnNQeXZfQTVJM1lUYjZ0bEhHZWMzZlBTbkt1azFFbjZ4aEFjUWtpcDZjaVRtS2V3Zg?oc=5"
+          "name": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94ZmM2Ulg3VnlrRG51NFhramhMaTMzYmVveWxZcGREemZka3BYZUJyU1NBMDlzaFo2NzhxZlJPUHUzR0RYMVdSelZxQ3ZvVURLWS0yclllVkhLWnBCaFJoLU96eVZ0TkRDQWZxY0o1V2U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "122b71cf2a83",
+      "title": "“근육 녹을까봐” 안 먹는 콜레스테롤약 ‘이것’…위험군은 0.4%뿐 - 농민신문",
+      "published": "2026-07-15T10:02:45+00:00",
+      "summary": "“근육 녹을까봐” 안 먹는 콜레스테롤약 ‘이것’…위험군은 0.4%뿐&nbsp;&nbsp;농민신문수치 좋아졌는데 스타틴 끊어도 될까? 전문의 답변은…&nbsp;&nbsp;헬스조선옥스퍼드대 연구팀, ‘스타틴 부작용’ 예측 도구 개발&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13N056T2Z2T1RvOTZIYlN4T25Gb1dGQ1JlR0dzZjI1dUg5QjJId0loY1NNMnVKdkxpRzllQVZDOVo1R0tWVU45cjNmSWFqNlRNNlc1NkRLR1hMUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c56141e4e719",
+      "title": "60세 이후 꼭 챙겨야 하는 영양소, 건강수명을 좌우하는 핵심은 '균형'에 있다 - 한국AI부동산신문",
+      "published": "2026-07-15T09:45:27+00:00",
+      "summary": "60세 이후 꼭 챙겨야 하는 영양소, 건강수명을 좌우하는 핵심은 '균형'에 있다&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BNXF5STgzRUg4dGpLV0ZkYVFLMHg2bGFNZHQtVVlrbWRGSklSTEJJRDFLTFVfdm1fM2w5MHdDOXJNZEhicDVTeTRONUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ad7dc9c1460",
+      "title": "EMA, '데소게스트렐·에토노게스트렐' 수막종 위험 경고…화이자 탈모 치료제 '리트풀로' 박스 경고 강화 - 헬스코리아뉴스",
+      "published": "2026-07-15T08:20:00+00:00",
+      "summary": "EMA, '데소게스트렐·에토노게스트렐' 수막종 위험 경고…화이자 탈모 치료제 '리트풀로' 박스 경고 강화&nbsp;&nbsp;헬스코리아뉴스유럽 프로게스토겐 피임약 2종 경고&nbsp;&nbsp;의학신문피임제 오래 썼다면 성분부터 확인…유럽, '뇌수막종' 경고&nbsp;&nbsp;네이트일부 호르몬 피임제, 뇌종양 위험 높일 수도&nbsp;&nbsp;헬스조선\"피임약 먹어도 괜찮을까\"…'수막종' 위험 신호 발견&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3RlkxY1FFamhEbWRodmJnbExxbktjZXU5N1ZPZThjdkV6bmhTS2Ewb3NKeUEyMk00dER5alp1R0pTdi14RHNFR3JFcFNxamVkWDg0bU03aW0zbUNnMkZtX3lFTmMzN2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "81de4dbc1c16",
+      "title": "천마 천연성분, 비만성 당뇨 예방 소재로 주목 - 환경일보",
+      "published": "2026-07-15T08:12:03+00:00",
+      "summary": "천마 천연성분, 비만성 당뇨 예방 소재로 주목&nbsp;&nbsp;환경일보천마 천연성분 '살리제닌', 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;v.daum.net\"천마 속 '살리제닌', 비만으로 인한 인슐린 저항성 개선 효과\"&nbsp;&nbsp;뉴스1비만으로 인한 당뇨, 천마로 치유&nbsp;&nbsp;헤럴드경제“천마에 든 천연성분이 비만으로 인한 당뇨 잡는다”···국립산림과학원 연구&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "환경일보",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pS3l6QU9TMV84UmdZZzhfWHdXcmttUVpFOXBVcmNhNjdDNzhtUnlKTUdKbUV5endicVZ2bUhIR0FFX3lyLWpSUUV1aWNqb01UNlhwUU5pOU10dFV2RDZtd3oxRFZCU2NM?oc=5"
         }
       ]
     },
@@ -42,14 +90,14 @@
       ]
     },
     {
-      "id": "062a474c30dc",
-      "title": "다출산 여성, 폐경 후 골절 위험 높다 - 의학신문",
-      "published": "2026-07-15T07:06:31+00:00",
-      "summary": "다출산 여성, 폐경 후 골절 위험 높다&nbsp;&nbsp;의학신문\"3회 이상 임신한 여성, 골절위험 36%↑…에스트로겐 공백 영향\"&nbsp;&nbsp;v.daum.net다자녀 여성, 폐경 후 골절 위험 36%↑…\"예방 관리 중요\"&nbsp;&nbsp;뉴스1서울성모병원 “다자녀 출산 여성, 폐경 후 골밀도 관리 필요하다”&nbsp;&nbsp;헤럴드경제\"아이 셋 이상 낳았다면\"…폐경 후 골절 위험 36% 높아진다&nbsp;&nbsp;뉴시스",
+      "id": "d07f685c3178",
+      "title": "고대바이러스병연구소, 한탄바이러스 발견 50주년 심포지엄 개최 - 의학신문",
+      "published": "2026-07-15T07:06:41+00:00",
+      "summary": "고대바이러스병연구소, 한탄바이러스 발견 50주년 심포지엄 개최&nbsp;&nbsp;의학신문세계 최초 한탄바이러스 발견 50년, 미래 감염병 대응 전략 모색&nbsp;&nbsp;edaily.co.kr고려대, 한탄바이러스 발견 50주년 기념 심포지엄 개최&nbsp;&nbsp;MEDI:GATE NEWS",
       "sources": [
         {
           "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMjBmWDVNZHNtS1luOVZvbGw5STc3MU5jcS1FQVNWX2dhem4xU3U4T1pyeFZURlBHSnQ3bDRaT1NUNjdUNHlYNm9HMkFjdFJDVF9VSnNQYk5lM2FSZm9qUGk4RWp5VDVNbnc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tbXU2Vnpwb3V2anZTSWdaM09pcUZpWVozZFUxMDJST2RYRkdwOUFxd2dSZy03Y3JsOHQ3eE9OVU1uLTdrZFhIYVpMRDNZM2xzVGtpLXJpc09MM20zXzdERG1COG5kRWNBU2c?oc=5"
         }
       ]
     },
@@ -90,26 +138,26 @@
       ]
     },
     {
-      "id": "31a489823ff2",
-      "title": "세계 최초 한탄바이러스 발견 50년, 미래 감염병 대응 전략 모색 - edaily.co.kr",
-      "published": "2026-07-15T04:59:28+00:00",
-      "summary": "세계 최초 한탄바이러스 발견 50년, 미래 감염병 대응 전략 모색&nbsp;&nbsp;edaily.co.kr",
+      "id": "5567289fe72e",
+      "title": "\"죽음도 세포마다 달랐다\"... UNIST·IBS, 생식세포만의 '생존 전략' 세계 첫 규명 - 특허뉴스",
+      "published": "2026-07-15T05:53:00+00:00",
+      "summary": "\"죽음도 세포마다 달랐다\"... UNIST·IBS, 생식세포만의 '생존 전략' 세계 첫 규명&nbsp;&nbsp;특허뉴스“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다&nbsp;&nbsp;서울경제\"'세포의 예정된 죽음' 작동 규칙, 세포 종류마다 달라\"&nbsp;&nbsp;연합뉴스\"전부 죽을 순 없다\"… 생식세포가 유전병 대물림 막는 영리한 방법&nbsp;&nbsp;v.daum.net세포의 약속된 죽음, 생식세포와 체세포의 규칙이 달랐다!&nbsp;&nbsp;베리타스알파",
       "sources": [
         {
-          "name": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0NkSGE0M1E5X1d1dVhveEluZDBmV29YdnFGVVNaNUhIeTZRclZkMnNYd0duYTZwNTFrMTFTX2o3VUJndmVlX3llMWI4ME14STNiOVAzbWZpSXpwbnJIZnd4bjZpVzZCVGZZSGZydWZQSW05ajdiN3VqNVE0Z0JnTQ?oc=5"
+          "name": "특허뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NamJTak8xOWdla1RWTWxPMC1lWUFLenVOTTVNbTM3Q29uX2l5QUZWa3A1QVA4dHhVczF0UjNONU5tS0tIM1FXMXhB?oc=5"
         }
       ]
     },
     {
-      "id": "050f526b7cb6",
-      "title": "사각지대 주민 발굴…제민신협 '어부바 건강돌봄 프로젝트' 추진 - 삼다일보",
-      "published": "2026-07-15T04:52:30+00:00",
-      "summary": "사각지대 주민 발굴…제민신협 '어부바 건강돌봄 프로젝트' 추진&nbsp;&nbsp;삼다일보",
+      "id": "ea6f09359fd9",
+      "title": "다자녀 출산 여성, 폐경 후 골절 위험 36% 높아 - 서울경제TV",
+      "published": "2026-07-15T04:51:35+00:00",
+      "summary": "다자녀 출산 여성, 폐경 후 골절 위험 36% 높아&nbsp;&nbsp;서울경제TV\"3회 이상 임신한 여성, 골절위험 36%↑…에스트로겐 공백 영향\"&nbsp;&nbsp;v.daum.net다자녀 여성, 폐경 후 골절 위험 36%↑…\"예방 관리 중요\"&nbsp;&nbsp;뉴스1서울성모병원 “다자녀 출산 여성, 폐경 후 골밀도 관리 필요하다”&nbsp;&nbsp;헤럴드경제\"아이 셋 이상 낳았다면\"…폐경 후 골절 위험 36% 높아진다&nbsp;&nbsp;뉴시스",
       "sources": [
         {
-          "name": "삼다일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ldnRhSXgzbmpPSjJpWFlKUWNKZ1QyeXV0RFp3blVfSDBzYldFX2tIdzRick1WQ3FGQ2psR1pKdVAzVFc2R21QVVRRRjFHVE1LSDgxVVRaR2NhVnYtZVQyS2kyZVhvYzBWTFY4SA?oc=5"
+          "name": "서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95azZsa2pzVV9pd1NyNjRWeml6dkg5bXF3STV0MC14cV9nQl9iQ0pyeDNkeVZ0c0hLWWp3MEhqV2R5SHFEYlpsbXliU1NSNjgxdHRHVG1UTkpBRU1rcE1FZkNqanE?oc=5"
         }
       ]
     },
@@ -126,14 +174,14 @@
       ]
     },
     {
-      "id": "b27260869b9c",
-      "title": "삼일제약 일일하우, '아이좋은 알티지 오메가3 비타민D&E' 출시 - 보건신문",
-      "published": "2026-07-15T02:55:03+00:00",
-      "summary": "삼일제약 일일하우, '아이좋은 알티지 오메가3 비타민D&amp;E' 출시&nbsp;&nbsp;보건신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "7157bd2394ea",
+      "title": "치매 예방, 강연 이어온 치매 예방 전도사 장두식 강사 - 뉴스N연합",
+      "published": "2026-07-15T03:05:05+00:00",
+      "summary": "치매 예방, 강연 이어온 치매 예방 전도사 장두식 강사&nbsp;&nbsp;뉴스N연합",
       "sources": [
         {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KbklKbDhjRGptYTA1UEdxQ1R2bV8yek5wWFhTUFJqMVVSZzBPRXBqQWwwakF5Nm92ZkZXX0h3cm9yUkVsUjBHNmE4dU5oTnJBS2UwWVoyVzFpR3k3OFNUdlpEVQ?oc=5"
+          "name": "뉴스N연합",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CT2t6a2Z4TUdOYmhELXZvOUxfd21oWlN3di1qcWg5dlFQSU1BTGhMQzFGVUx2Z3BzRGczTm5FaGxuOHlKOUtsUFln?oc=5"
         }
       ]
     },
@@ -146,18 +194,6 @@
         {
           "name": "골프타임즈",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95MG43ZDB2VnI3VU9ZeWxPNVliTERkOTZyUUdLdlhxOGlKeThRRmZBdHVyZF94aUhXWHZvT0FtZlZTZXpSQi1udHgxTnJ6TVNRQ3J0eFpJblRDZDlFdFlpSHd6NXNNYVUtVDVHZndTWDVBQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c98d3c67c29f",
-      "title": "“천마에 든 천연성분이 비만으로 인한 당뇨 잡는다”···국립산림과학원 연구 - 경향신문",
-      "published": "2026-07-15T01:16:00+00:00",
-      "summary": "“천마에 든 천연성분이 비만으로 인한 당뇨 잡는다”···국립산림과학원 연구&nbsp;&nbsp;경향신문천마 천연성분 '살리제닌', 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;v.daum.net\"천마 속 '살리제닌', 비만으로 인한 인슐린 저항성 개선 효과\"&nbsp;&nbsp;뉴스1비만으로 인한 당뇨, 천마로 치유&nbsp;&nbsp;헤럴드경제비만·당뇨 걱정된다면 주목…천마 속 '이 성분'의 놀라운 발견&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZVVlyUXY5Ql95SXp6bGw4SXIwTmk4RXdYbHc2LWxzemUwSWpBOS11NWdUT1h3dnVoTVlPbVhhdTBLV3ZBZzdvOGdiWUVLS2piSW5obTdWUTBLd9IBX0FVX3lxTE9rZEdKSHBsdVN4SHpmRlhTVXlsMTFHM25uN3daYkozNjFLeW1qTlNjWHJkdEZRLWFJOEM4bXNqc2QtNFpVaEc1T1QwN0x3ZkZsY2dYVlZ3UWN5SFNkOHlN?oc=5"
         }
       ]
     },
@@ -189,7 +225,7 @@
       "id": "3226eed27fb2",
       "title": "온코닉테라퓨틱스 \"자큐보, 심혈관계 치료제 4종과 임상적 유의미한 상호작용 관찰 안돼\" - 네이트",
       "published": "2026-07-14T23:48:00+00:00",
-      "summary": "온코닉테라퓨틱스 \"자큐보, 심혈관계 치료제 4종과 임상적 유의미한 상호작용 관찰 안돼\"&nbsp;&nbsp;네이트온코닉테라퓨틱스 \"위식도역류질환 치료제 '자큐보', 주요 심혈관계 치료제와 병용치료 근거 마련\"&nbsp;&nbsp;비즈니스포스트온코닉테라퓨틱스 ‘자큐보’, 심혈관계 약물 병용 근거 확보 - 조선비즈&nbsp;&nbsp;Chosunbiz온코닉 \"자큐보·심혈관 치료제 4종 병용 근거 마련\"&nbsp;&nbsp;뉴시스온코닉테라퓨틱스,위궤양치료제 'JP-1366' 임상1상 CSR 수령&nbsp;&nbsp;약업신문",
+      "summary": "온코닉테라퓨틱스 \"자큐보, 심혈관계 치료제 4종과 임상적 유의미한 상호작용 관찰 안돼\"&nbsp;&nbsp;네이트온코닉테라퓨틱스 ‘자큐보’, 심혈관계 약물 병용 근거 확보 - 조선비즈&nbsp;&nbsp;Chosunbiz온코닉 \"자큐보·심혈관 치료제 4종 병용 근거 마련\"&nbsp;&nbsp;뉴시스온코닉테라퓨틱스,위궤양치료제 'JP-1366' 임상1상 CSR 수령&nbsp;&nbsp;약업신문온코닉테라퓨틱스 \"위식도역류질환 치료제 '자큐보', 주요 심혈관계 치료제와 병용치료 근거 마련\"&nbsp;&nbsp;비즈니스포스트",
       "sources": [
         {
           "name": "네이트",
@@ -309,7 +345,7 @@
       "id": "26f5865979ab",
       "title": "치매 진단받기 15년 전… '회사 업무 능력'에서 먼저 티가 났다 - 약사공론",
       "published": "2026-07-14T20:49:00+00:00",
-      "summary": "치매 진단받기 15년 전… '회사 업무 능력'에서 먼저 티가 났다&nbsp;&nbsp;약사공론“연봉 깎인 적 있다”… 치매 진단 ‘15년 전’ 나타난 뜻밖의 신호&nbsp;&nbsp;헬스조선“1인당 1억 증발” 섬뜩한 경고…3040도 절대 안심 못 할 ‘이 병’ 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제“일 그만두면 인지 능력 저하 치매 등 유발”&nbsp;&nbsp;애틀랜타 중앙일보참을성·언어력 급감하는 젊은 치매…진단 15년 전부터 생산성 저하&nbsp;&nbsp;네이트",
+      "summary": "치매 진단받기 15년 전… '회사 업무 능력'에서 먼저 티가 났다&nbsp;&nbsp;약사공론\"1인당 1억3000만원 사라진다\" 경고…3040도 안심 못 한다는 '이 병' 정체&nbsp;&nbsp;아시아경제“연봉 깎인 적 있다”… 치매 진단 ‘15년 전’ 나타난 뜻밖의 신호&nbsp;&nbsp;헬스조선“1인당 1억 증발” 섬뜩한 경고…3040도 절대 안심 못 할 ‘이 병’ 뭐길래? [헬시타임]&nbsp;&nbsp;서울경제“일 그만두면 인지 능력 저하 치매 등 유발”&nbsp;&nbsp;애틀랜타 중앙일보",
       "sources": [
         {
           "name": "약사공론",
@@ -474,6 +510,18 @@
       ]
     },
     {
+      "id": "f3d25d4c6488",
+      "title": "근육 건강이 당뇨병 좌우한다 - 한국의약통신",
+      "published": "2026-07-14T05:07:18+00:00",
+      "summary": "근육 건강이 당뇨병 좌우한다&nbsp;&nbsp;한국의약통신",
+      "sources": [
+        {
+          "name": "한국의약통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94cEc3WjhOd3lDc1o2Ym83ekRRQzlub1ptb1dfVm92bGtMdG4zWGZLM04tSEEtWmYyeHlkRW5haThNWDFvQk1tLWlKR2ZQOGNnVGtpLUFwMlBLdXdpWW9HOTVmMlQ5RjR2OUJ3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e343fadedd3c",
       "title": "비만 환자 면역항암제 효과↑…'체중' 아닌 '장내균'이 핵심 - 바이오북미디어",
       "published": "2026-07-14T05:06:00+00:00",
@@ -510,6 +558,18 @@
       ]
     },
     {
+      "id": "12584181249f",
+      "title": "[한국인의 100가지 질환-64] 축농증, 감기가 오래가는 줄 알았는데 부비동염이었다 - 뉴스인",
+      "published": "2026-07-14T04:13:05+00:00",
+      "summary": "[한국인의 100가지 질환-64] 축농증, 감기가 오래가는 줄 알았는데 부비동염이었다&nbsp;&nbsp;뉴스인",
+      "sources": [
+        {
+          "name": "뉴스인",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51QWF4eEJoa2duZUpJWGl2WThTNS1ITW5ncV9sS1lHU0l1bjc5Wm0wd1lEMS1lRXpUVnhxSEFmdUttTFpjR2c2STN5TUU3RVhxV3dTaTlCeXViRTNpY2FVR0NOSjNES18teHFJ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9ec4ca146b61",
       "title": "인바디 검사와 AI로 불면증·수면무호흡증 위험 정확 예측 - 네이트",
       "published": "2026-07-14T04:07:00+00:00",
@@ -537,7 +597,7 @@
       "id": "111d3148b1c3",
       "title": "앉아 있는 시간이 건강을 결정한다? 의사들이 경고하는 생활습관의 진실 - 한국AI부동산신문",
       "published": "2026-07-14T03:23:20+00:00",
-      "summary": "앉아 있는 시간이 건강을 결정한다? 의사들이 경고하는 생활습관의 진실&nbsp;&nbsp;한국AI부동산신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "앉아 있는 시간이 건강을 결정한다? 의사들이 경고하는 생활습관의 진실&nbsp;&nbsp;한국AI부동산신문\"30분마다 일어나세요\"… 암 사망 위험 낮추는 가장 쉬운 습관&nbsp;&nbsp;히트뉴스연구: 5분 걷기가 장시간 앉아 있는 사람들에게 어떤 이점을 줄 수 있을까?&nbsp;&nbsp;Vietnam.vn\"절대 오래 앉아 있지 마세요\" 중간에 일어나야 하는 이유 [헬스톡]&nbsp;&nbsp;v.daum.net\"여보, 누워있지 말고 설거지라도 해\"...암 사망 위험 '뚝' 낮췄다 - 머니투데이&nbsp;&nbsp;머니투데이",
       "sources": [
         {
           "name": "한국AI부동산신문",
@@ -654,18 +714,6 @@
       ]
     },
     {
-      "id": "965e3994818e",
-      "title": "뇌가 스스로 단백질 찌꺼기 청소, 치매 정복에 성큼 다가선 한국 스타트업의 혁신 기술 - 조선일보",
-      "published": "2026-07-13T21:05:02+00:00",
-      "summary": "뇌가 스스로 단백질 찌꺼기 청소, 치매 정복에 성큼 다가선 한국 스타트업의 혁신 기술&nbsp;&nbsp;조선일보알츠하이머병 뇌 영상 추적자 18F-THK5351의 진짜 정체 밝혔다&nbsp;&nbsp;BRIC새로운 기술이 알츠하이머병 초기 단계의 \"수수께끼 같은 원흉\"을 밝혀냈습니다.&nbsp;&nbsp;Vietnam.vnIBS-연세대, 알츠하이머 PET 영상 해석 바꿀 단서 찾아&nbsp;&nbsp;충남일보알츠하이머병 뇌 영상 추적자 결합 원리 규명&nbsp;&nbsp;코리아헬스로그",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzdoTFZ4QURUNHU2NjJKYjBzNEtRWUx3eXl5cElia051QU53TmVacUdsVU94Qmo0SG0zcHlqcHpyLWZlb1RNTlktajJXbGdlN25QVGZPRGtaLWJva3E2d01XTXRwY21uWVZ6RjVaRE5SNFgyMExsQTdBcG5XT3NQWHNkYVhPQVM3eVB3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3df42e6b1877",
       "title": "[기초과학의 시간] ②\"아무도 시도 않는 촉매연구 개척”…스승과 다른 길 택해 연구 지평 넓혀 - 동아사이언스",
       "published": "2026-07-13T21:00:00+00:00",
@@ -714,74 +762,14 @@
       ]
     },
     {
-      "id": "a32372930beb",
-      "title": "공복에 먹는 오후 간식들… 당뇨병 부르는 사소한 습관은? - 코메디닷컴",
-      "published": "2026-07-13T10:01:00+00:00",
-      "summary": "공복에 먹는 오후 간식들… 당뇨병 부르는 사소한 습관은?&nbsp;&nbsp;코메디닷컴“공복에 먹으면 혈당 쭉 오른다”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선“간편해서 아침에 매일 먹었는데”…공복에 먹으면 혈당 무섭게 올라간다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트“당화혈색소·염증 수치 낮춘다”··· ‘좋은 탄수화물’ 식품 5가지&nbsp;&nbsp;밴쿠버 조선일보",
+      "id": "0749368a15ef",
+      "title": "“암 없댔는데” 뒤늦게 직장암 3기… 병원이 발견 못 한 걸까? - 헬스조선",
+      "published": "2026-07-13T14:00:00+00:00",
+      "summary": "“암 없댔는데” 뒤늦게 직장암 3기… 병원이 발견 못 한 걸까?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBuSGlDZTBaUkFaQkFIQ0QwR2JLLUFpMjZKSEhzV1M0V3Z6bFFQczR4cVpKck5IblFzUlFibzgxdF9qUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab5ed20b1d4b",
-      "title": "베피로비르센, 만성B형간염 19~20%서 기능적완치 기준 충족 - mostonline.co.kr",
-      "published": "2026-07-13T09:03:53+00:00",
-      "summary": "베피로비르센, 만성B형간염 19~20%서 기능적완치 기준 충족&nbsp;&nbsp;mostonline.co.kr",
-      "sources": [
-        {
-          "name": "mostonline.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhZi1lQXRLMDFpb25vV2lWREpFZXlvY2xMR1dLWmxPYkVpV2FvUDV3VlJTMEZRdlBuQUhiR3dNWV9RVENSblRVNGN0SlQ0Qzg3NC1DTXZVZ2NQM1Q2VWkxYjJEWTVYYTZuRFVTRGF3RS0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4a2da40c657",
-      "title": "\"피곤하고 근육 쑤시더니 '염증 범벅'\"⋯당뇨·암 뿌리째 뽑으려면 '이 음식' 먹어야 - 네이트",
-      "published": "2026-07-13T07:45:00+00:00",
-      "summary": "\"피곤하고 근육 쑤시더니 '염증 범벅'\"⋯당뇨·암 뿌리째 뽑으려면 '이 음식' 먹어야&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wY2JYUDl6UGs1UVlCMTdfQ0FxekQ0dTFZLUxiMGprSXRTMkZpaU9CNzB1QXQ2MU5QRmNjN0tuNkU1Q3BFU1BoWWwwZXNjd1pickN0SDhnMmJ5QnZzQnZDVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c4851690784",
-      "title": "＂나도 혹시 당뇨?＂…2030 당뇨병 10년 새 80% 껑충 - 쿡앤셰프",
-      "published": "2026-07-13T07:33:09+00:00",
-      "summary": "＂나도 혹시 당뇨?＂…2030 당뇨병 10년 새 80% 껑충&nbsp;&nbsp;쿡앤셰프[분당제생병원과 건강상식] 유행처럼 번져나가는 ‘당뇨병’, 더 이상 중장년 만의 질환이 아니다&nbsp;&nbsp;경기신문“눈에 고름 차서 적출까지”…의사가 경고한 흔한 ‘이 병’, 뭘까?&nbsp;&nbsp;코메디닷컴\"술과 야식만 끊어도 혈당 뚝\"… 당뇨, 일상 속 절제가 치료의 시작&nbsp;&nbsp;매경헬스대한당뇨병학회, KBS '생로병사의 비밀'서 중증 당뇨병 관리 중요성 조명&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "쿡앤셰프",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80SG5uQ0lIeHZpMjJQaHViWUp5TndiamVSbGFhMUdjN21xYkoxOEpoZmVJblhNTkRTZlN1WWlLYkZmRXhNTUZjX1MxOEd2enFvS01jSTFzYlZkc21qNjNuN1ZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60f6b3c71d11",
-      "title": "은평성모병원, 위장관 천공 잡는 AI 개발…\"응급실 제2의 눈\" - 서울경제TV",
-      "published": "2026-07-13T07:03:35+00:00",
-      "summary": "은평성모병원, 위장관 천공 잡는 AI 개발…\"응급실 제2의 눈\"&nbsp;&nbsp;서울경제TV응급실서 놓치기 쉬운 ‘위장관 천공’ AI가 잡는다[헬스케어 소식]&nbsp;&nbsp;동아비즈니스리뷰 | DBR응급수술 필요한 천공…\"의사가 놓쳐도 AI가 발견\"&nbsp;&nbsp;뉴시스은평성모병원 김동진 교수팀, 복부 CT 유리가스 탐지 AI 개발&nbsp;&nbsp;의약뉴스AI가 응급수술 신호 '복강 내 유리가스' 잡아낸다 … 위장관 천공 진단 정확도 95% 이상&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wYkllcVdYQXotRUlJazBybXk3bFB0c0ZOVy12VndSY3pNV3F4akExcXJkZEh0YmtMRFVwcUdWd2l4cE96cFFCOEtMbXdhYzNMbXRPdHBELTk3QmNOV1pSYWVWZEo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d0b5367858a8",
-      "title": "HIV 치료 성패 가르는 '정신건강'…빅타비 리얼월드 근거 눈길 - 메디코파마",
-      "published": "2026-07-13T07:00:00+00:00",
-      "summary": "HIV 치료 성패 가르는 '정신건강'…빅타비 리얼월드 근거 눈길&nbsp;&nbsp;메디코파마",
-      "sources": [
-        {
-          "name": "메디코파마",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wSGJyTzVHdTdGTU9VRFBPM0lUSTJmdGplUWFxRW5jbG05ZHpHVU0xN3FDYlYtXzRQZ0liemsyYXBoMF9ZdGNEMS1rSmZBWXFoQWpWS09qa18xLTFucFRCUGxJNWVsa1VxZmhTNEhKMmVldw?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxS2xIZWtTOFdFNUxVUUdwczNNOVZ0b1EwaC1tYm96dHdiRTQ2SGV5YUFVNHBiWHZqc2t3VlpNQW1aWmJHOTF0em94d0M5MkpLR3M0Q1loekFFcllRbndYSlVyRWcxLW5HSERBRGtSWTZZN0NBTWx1SEFUWEVuLXc?oc=5"
         }
       ]
     },
