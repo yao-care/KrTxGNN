@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-16T13:59:28.842769+00:00",
-  "total_fetched": 93,
-  "unique_count": 93,
-  "health_related_count": 56,
+  "fetched_at": "2026-07-16T19:15:57.106652+00:00",
+  "total_fetched": 84,
+  "unique_count": 84,
+  "health_related_count": 53,
   "news": [
+    {
+      "id": "76e104ceb4e0",
+      "title": "‘좋은 음식’ 먹어도 소용 없어… 살찌우는 ‘식사 습관’ 3가지 - 헬스조선",
+      "published": "2026-07-16T17:00:00+00:00",
+      "summary": "‘좋은 음식’ 먹어도 소용 없어… 살찌우는 ‘식사 습관’ 3가지&nbsp;&nbsp;헬스조선\"이런 걸 왜 먹어?\"…의사들이 지적한 살 찌는 최악의 식습관은?&nbsp;&nbsp;네이트[예고] 건강식처럼 보이지만 혈당을 무너뜨리는 식습관?! 건강식으로 철저히 관리했는데 아픈 이유는?&nbsp;&nbsp;채널A",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSLTAyMWZPaXNPM1I5ajdJVW9mdjFIY2hlczQwNmhUM00yT29BbUNFMnpRYzVuSDZKbWpVZ3d2Qm52N0lROGxGZEZidDRGNGtKR0pRUHlKUnpOYWtCZ0l6T1U0NmZPNUtjRDJlWnZBUzBqRHpfYVV4dDVoalYwQUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eedb81728165",
+      "title": "사망률 50%→0%…액시엄, 신생아 뇌질환 줄기세포 임상 성공 - 바이오북미디어",
+      "published": "2026-07-16T15:02:00+00:00",
+      "summary": "사망률 50%→0%…액시엄, 신생아 뇌질환 줄기세포 임상 성공&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IWnZVVV9BNHF3bDRTLXgyRlR2Y2VkNlRnNjJVWmhUaG5yVlljNm8yelRaZ0FZZ01xYU1iRjZadDQtRl9CSkFrUllYS1NtcDM3OEZiYTZ5SmlqSElLYllOQ2RjYWV0am9XcXUyMXhR?oc=5"
+        }
+      ]
+    },
     {
       "id": "ad38abd50445",
       "title": "미혼일 때부터 아마씨를 먹어야 하는 이유…10년 뒤 건강이 달라질 수 있다 - 자연치유일보",
@@ -26,42 +50,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUTJIcm8zS19qcDQ5V01OeGo4bmNDVmI2Y09Uc2Fra3BXVFlxTmNMSXZiRFJ3M0lRQ3laTGg4SkdaYXlMS2tOemN1dU84RlVqWHE1X0RsV3BLQ0dvcUJEN2x5NUdHMXZucHZzelduUkg4c2Zpby1ZMkFxaS1mWHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e34934fa0cf6",
-      "title": "모기 물린 줄 알았는데 다리 퉁퉁…여름철 ‘연조직염’ 주의보 - v.daum.net",
-      "published": "2026-07-16T09:09:29+00:00",
-      "summary": "모기 물린 줄 알았는데 다리 퉁퉁…여름철 ‘연조직염’ 주의보&nbsp;&nbsp;v.daum.net여름철 벌레 물린 후 발열…\"방치땐 패혈증 위험\"&nbsp;&nbsp;뉴시스모기 물린 곳 긁었을 뿐인데… 퉁퉁 붓고 열나는 '봉와직염' 주의&nbsp;&nbsp;보건신문'작은 상처 방치, 여름철 연조직염 부른다'…피부 감염 주의보&nbsp;&nbsp;뉴스토피아여름 야외활동 중 생긴 상처, 흉터 줄이려면 ‘이렇게’ 대처하세요&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UMF9ZMjh1WlN4dmJwRzdvU2pYbk9rSF9lTlVhTDNSSWl4M0s1NnZWLTVKazlQdEZMM1AxMERKZUgxWGpYbnlnYzMwcndPVVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "470475fdd01d",
-      "title": "실패한 연구도 다시 기회 준다…‘K문샷’ 하반기 본격 가동 - 조선일보",
-      "published": "2026-07-16T07:00:40+00:00",
-      "summary": "실패한 연구도 다시 기회 준다…‘K문샷’ 하반기 본격 가동&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeUZfdlFEZWhMWW00RE14cnJ4UVJvM2JGM05adnpod3hNVGNBRm56aFZpUFoyMW1FRUxnZEMxM2std0hvekhZZHZLN1JyM0ZZV2xMMk9keW5fenFNVm1mckg3UUdTN0Y0cGFRZjlzY3FIOTFnbGhVRkI4UWpOdU9jdmhUQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b744af41535",
-      "title": "“고기 좋아하다 신장 망가질라”⋯우리가 몰랐던 단백질의 배신 - 코메디닷컴",
-      "published": "2026-07-16T07:00:00+00:00",
-      "summary": "“고기 좋아하다 신장 망가질라”⋯우리가 몰랐던 단백질의 배신&nbsp;&nbsp;코메디닷컴\"고기 좋아하다 신장 망가질라\"?우리가 몰랐던 단백질의 배신&nbsp;&nbsp;네이트“오래 살고 싶으면 ‘이 음식’ 챙겨 드세요”…건강 장수에 좋은 식물성 단백질 식품 8가지&nbsp;&nbsp;코메디닷컴동물성 단백질이 몸에 해로운 이유 5가지&nbsp;&nbsp;브런치[청년발언대] 헬스·단백질 셰이크 열풍 속 청년 신장 건강 '경고등'&nbsp;&nbsp;청년일보",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UQWJKTHVZa3hid3FodEJ6TDdSTXlIeHZFbUlwTWhVbTc2cTA3QW5iYjQtWFpMWHMxRWdqcnJfMjA1dw?oc=5"
         }
       ]
     },
@@ -93,7 +81,7 @@
       "id": "0d713af64a74",
       "title": "[혈당 건강] \"참지 말고 채워라\"… 혈당 스파이크 잡는 ‘친화적 간식’ 5가지 - 오아시스뉴스",
       "published": "2026-07-16T06:16:51+00:00",
-      "summary": "[혈당 건강] \"참지 말고 채워라\"… 혈당 스파이크 잡는 ‘친화적 간식’ 5가지&nbsp;&nbsp;오아시스뉴스채소 아무리 먹어봤자… 순식간에 당뇨병 부르는 행동들&nbsp;&nbsp;헬스조선“간편해서 아침에 매일 먹었는데”…공복에 먹으면 혈당 무섭게 올라간다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제“당화혈색소·염증 수치 낮춘다”··· ‘좋은 탄수화물’ 식품 5가지&nbsp;&nbsp;밴쿠버 조선일보\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트",
+      "summary": "[혈당 건강] \"참지 말고 채워라\"… 혈당 스파이크 잡는 ‘친화적 간식’ 5가지&nbsp;&nbsp;오아시스뉴스채소 아무리 먹어봤자… 순식간에 당뇨병 부르는 행동들&nbsp;&nbsp;헬스조선“간편해서 아침에 매일 먹었는데”…공복에 먹으면 혈당 무섭게 올라간다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제\"설탕보다 혈당에 더 나쁘다\"…의사가 경고한 '최악의 습관' 4가지&nbsp;&nbsp;네이트“당뇨 전단계면 괜찮다?”…혈당 잡으려면 지금부터 ‘이 음식’ 챙기세요&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "오아시스뉴스",
@@ -122,6 +110,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CaVZzSW9VZV80YnQ2YUpJb2NzZ0ZBUE5XNW02ZFpnalRKUHBCTXhNekNzcTZpcXNzU3A3S1hZeUwyMWhNcUR0SnlwZGppdmNzUGFtTGZsSTBsdXVqMm5NUzdwak1jOTBJUmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ecd0d736217",
+      "title": "[의학칼럼]여름철 눈 건강 위협하는 유행성 각결막염, 전염 예방이 중요한 이유 - 헬스조선",
+      "published": "2026-07-16T05:00:00+00:00",
+      "summary": "[의학칼럼]여름철 눈 건강 위협하는 유행성 각결막염, 전염 예방이 중요한 이유&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wOERfajZvc0d4bjQ3QXIxNTNqbllPSFJzUU9MZy1VX2h5OUNzcnQ1OXh1Vl9DYk83aEZMMDVqQWZGcDc2MG5ZNk50VXBzMTAzeDFfV0psbWVQc3EtUlIxbFJBQTFxNHdTcDlOb0ExUEc5R2V5UFR1b0o5cWNrazA?oc=5"
         }
       ]
     },
@@ -162,14 +162,26 @@
       ]
     },
     {
-      "id": "f5ba88899457",
+      "id": "5fd386f99442",
+      "title": "\"해외 인재 600명 유치하고 비수도권 연구자 억대 지원\" - 머니투데이 - 머니투데이",
+      "published": "2026-07-16T04:02:52+00:00",
+      "summary": "\"해외 인재 600명 유치하고 비수도권 연구자 억대 지원\" - 머니투데이&nbsp;&nbsp;머니투데이",
+      "sources": [
+        {
+          "name": "머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JX1FwQ05TTlZnZzJUdFZHel9uNjRtTW9UYzY2dkxxUE9leF9zVUhyZ0Y5dzNCZG5mSnczVW5zMWRwOGxEUFRrdE1kUDg3LWFibkNlaFJmX3pQVTBvdEJXWF9LcW96b2PSAWxBVV95cUxNYWhQS190SzdjNjNad0VzaHJBVVIxaWpyYkw5WE0tVHhqSTIzZW4tTEVRRjAtb0FOWHpYbFptYmQzWE1vWHh0X3lhRjFMX2lEYjlQbkFTTTlER2JYTzVhNHVVOUtWdDRPVms0ZGE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a77a488f30a3",
       "title": "빅타비, 치료 이력이 있는 환자에서 보다 깊고 지속적인 반응 유도 - 의약뉴스",
       "published": "2026-07-16T03:07:55+00:00",
       "summary": "빅타비, 치료 이력이 있는 환자에서 보다 깊고 지속적인 반응 유도&nbsp;&nbsp;의약뉴스",
       "sources": [
         {
           "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hZ0ZVNGl3b2N4ZlAxSXZxNnluLWVHMS1YWUNmS2dlMGRsdHY0ckNHc21OTWNRYnlOUWwxX2wxVVh6cVFMRXVheUNsSHZFUjZNWW9vTVZCdU05VGwtNFdBUjlWZHZyMW55?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jdGJOZjBzNjBqR3NRX0NDTV9QdEh1TE1OZkh3M1RhWnpEN2VSQ2xVWlF6NVFpWlBGYUk5bUR0UDNnUS1CZUdzSFZReEo0SEV5UjB1TzlsWGotSDNPXzh6X2diUQ?oc=5"
         }
       ]
     },
@@ -213,7 +225,7 @@
       "id": "4174a892be44",
       "title": "울산과학기술원-IBS 연구팀, 세포 예정사 이중 조절 현상 규명 - 메트로신문",
       "published": "2026-07-16T01:09:33+00:00",
-      "summary": "울산과학기술원-IBS 연구팀, 세포 예정사 이중 조절 현상 규명&nbsp;&nbsp;메트로신문\"'세포의 예정된 죽음' 작동 규칙, 세포 종류마다 달라\"&nbsp;&nbsp;연합뉴스UNIST, 세포 죽음의 새 원리 규명… 생식세포는 ‘한꺼번에 죽지 않았다’&nbsp;&nbsp;브릿지경제“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다&nbsp;&nbsp;서울경제\"전부 죽을 순 없다\"… 생식세포가 유전병 대물림 막는 영리한 방법&nbsp;&nbsp;아시아경제",
+      "summary": "울산과학기술원-IBS 연구팀, 세포 예정사 이중 조절 현상 규명&nbsp;&nbsp;메트로신문\"'세포의 예정된 죽음' 작동 규칙, 세포 종류마다 달라\"&nbsp;&nbsp;연합뉴스“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다&nbsp;&nbsp;서울경제손상돼도 다 죽지 않았다…생식세포만의 '죽음 규칙' 첫 규명[과학을읽다]&nbsp;&nbsp;v.daum.net\"전부 죽을 순 없다\"… 생식세포가 유전병 대물림 막는 영리한 방법&nbsp;&nbsp;아시아경제",
       "sources": [
         {
           "name": "메트로신문",
@@ -230,6 +242,18 @@
         {
           "name": "농축유통신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxN2RBbUFPTFppeW1zVXhrNFJrdGxCY1RzcDZkMEVKM0ljNmhKSGN3a0p1R1hYQ1Q3ZHQyMFI3eXRpdjNmc0phcjUzLUMyV3dnMjFtUUlvLTl3a1o3bTZGNEljYVFBOUlM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46da260848f3",
+      "title": "여름철 벌레 물린 후 발열…\"방치땐 패혈증 위험\" - 뉴시스",
+      "published": "2026-07-16T01:02:25+00:00",
+      "summary": "여름철 벌레 물린 후 발열…\"방치땐 패혈증 위험\"&nbsp;&nbsp;뉴시스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wZTJBbjdFNWhZSkxYYWlmNThiQ2o4Z2pNNl9UbHg0ZEpWQzVlbE5PdW9UMG9zanIyd0d5N0hyVzlIM0N0MHU0c3gtX1laZHJFOEFodnJRYmdFa0RQZ0VrNXNn?oc=5"
         }
       ]
     },
@@ -297,7 +321,7 @@
       "id": "7250d2bb10ac",
       "title": "\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고 - 히트뉴스",
       "published": "2026-07-15T21:01:00+00:00",
-      "summary": "\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스“태어난 나라가 생사 가른다”… WHO가 경고한 ‘2050년 암 재앙’&nbsp;&nbsp;헬스조선WHO “2050년 암 환자 연 3500만 명”… 암요양병원 정보 접근성이 회복의 첫걸음&nbsp;&nbsp;전자신문WHO는 암 발병 위험 급증에 대해 경고했습니다.&nbsp;&nbsp;Vietnam.vnWHO의 경고…\"2050년 신규 암환자 3500만명\"&nbsp;&nbsp;뉴시스",
+      "summary": "\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스“태어난 나라가 생사 가른다”… WHO가 경고한 ‘2050년 암 재앙’&nbsp;&nbsp;헬스조선WHO는 암 발병 위험 급증에 대해 경고했습니다.&nbsp;&nbsp;Vietnam.vnWHO의 경고…\"2050년 신규 암환자 3500만명\"&nbsp;&nbsp;뉴시스2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "히트뉴스",
@@ -414,6 +438,18 @@
       ]
     },
     {
+      "id": "59dd63ce4c49",
+      "title": "레디큐어, 알츠하이머 치료 기기 '헬락슨' 식약처 임상 승인 - 뉴스핌",
+      "published": "2026-07-15T07:03:00+00:00",
+      "summary": "레디큐어, 알츠하이머 치료 기기 '헬락슨' 식약처 임상 승인&nbsp;&nbsp;뉴스핌",
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uamIzZVJWMmtaZTV2TXFGZGN1UndSQ1FMTzE1SUtCWm9TWlZ4Wk1GUlFrLVp6T0F6RXdLZ3pEb0F3NE5ja3JBMHo4SnoySWtKRE01SmRIRHFMcWNp?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8aaf9db93b35",
       "title": "비피도, 인체 유래 특허균주 'RAPO' 전신경화증·폐섬유증 치료 조성물 국내 특허 등록 - 뉴스인",
       "published": "2026-07-15T06:51:04+00:00",
@@ -422,18 +458,6 @@
         {
           "name": "뉴스인",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOVnF2VEgzUEJsTHctT3JnMjk1VHZhbGVFTWxTb3NOT2kzUkdHN3FsUXFNdnJjWFNXYjFWc1hPak5WRTBJU0M1R1BNcXFxWGUxeUs1TFl2Tm10T0ltekhMZnlucWZfRUUtc1R3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10d1ed6227ed",
-      "title": "레디큐어 치매 치료 기기 ‘헬락슨’, 식약처 임상 승인 - 와우테일",
-      "published": "2026-07-15T06:39:29+00:00",
-      "summary": "레디큐어 치매 치료 기기 ‘헬락슨’, 식약처 임상 승인&nbsp;&nbsp;와우테일",
-      "sources": [
-        {
-          "name": "와우테일",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaN0tKb3hteHh3M1ZJTlhGbDhrSThxb2hyOTFvOXJjdmkxMXJ1cmx1VTI2NXZfcDc0QjVERWpKLVVXRjViRTdHaG56aGxlazg?oc=5"
         }
       ]
     },
@@ -606,42 +630,6 @@
       ]
     },
     {
-      "id": "d02cff0901c0",
-      "title": "나이 때문 아냐… 신진대사 떨어졌을 때 ‘흔히 겪는’ 증상들 - 헬스조선",
-      "published": "2026-07-14T16:30:00+00:00",
-      "summary": "나이 때문 아냐… 신진대사 떨어졌을 때 ‘흔히 겪는’ 증상들&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95V1ZnVDZmc3djTk94dzRmVjU0ckozSlVsLWp0aG9JekZrRzZzcWRfYzNYalltYjVNM0M4UG1naktxRGQ1dEk3c09CZkxvWkZnTWhfR3VLRkFQVERJN0poanB1M2Rpcm9DbWF5NHp4NVJrcEtRczFFbTBGRG9oM1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "97ac88f98d88",
-      "title": "“20년간 성생활 안 했는데”… 80대 남성, 뜻밖의 ‘매독’ 진단 - 헬스조선",
-      "published": "2026-07-14T16:00:00+00:00",
-      "summary": "“20년간 성생활 안 했는데”… 80대 남성, 뜻밖의 ‘매독’ 진단&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HdzFqN0VkVHdQN3czYzROQjRqemVuRTY1cnBsLTd4Tm1maGY0RndveHFUV3ZrZnVRMzlKZGVham9zeFEzLWM2RjNOWGNrN3EyUlF3V0hRV3JwV214bzRsb3FfU05RUTlRT25YbmtJaVN6dUFaajU2bjJreGUxNEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fbee6997519",
-      "title": "고안압 환자, 비타민 B3 복용 후 녹내장 위험 66% 감소 - 헬스조선",
-      "published": "2026-07-14T13:30:00+00:00",
-      "summary": "고안압 환자, 비타민 B3 복용 후 녹내장 위험 66% 감소&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90NkotMXJOSDAwVGxDOHBiclA4UmNibE5WeHo0OF91blBfU2pqVXpwYzJSc3VFWW1wY3diZDhhWm9xTXFTTWdxZmZfNGFxOXNCS2dRdV9Sb3V0c0l4NE55QXVKMHpFc0lNMG1YSWhpSDBrSzJSQlNlaGpsQTU5V28?oc=5"
-        }
-      ]
-    },
-    {
       "id": "01e0c1982fa3",
       "title": "\"남들 연구 따라가는 단계 지나… 안 가본 길 도전해야\" - 조선일보",
       "published": "2026-07-13T21:25:22+00:00",
@@ -650,30 +638,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlpVRnIxWFBxb0hpQ2ZuTFI1ZlUzU0MzZDFvRHI5azA3emZFN3o0bzBCc3lacms4SzdHSUdGY2VwSEozRnF5TUZHZDJoZ0dwOUttc2RhNnlmSXI1bXRFWjl0MlQtT1ZUcTFUbEk0Ni1SdVJ0Ql91UzhIQzR5dmRwNHNDOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8637b3701efa",
-      "title": "실험 장비 없어 종이·연필로 연구 시작… ‘韓 생명공학 선구자’ 조완규 前 총장 별세 - 조선일보",
-      "published": "2026-07-13T15:44:31+00:00",
-      "summary": "실험 장비 없어 종이·연필로 연구 시작… ‘韓 생명공학 선구자’ 조완규 前 총장 별세&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnljbXc0alc0ZmQwbzdqU3FhelFzZmJIMk12ZjhxdktWUmdtaXdGdC1obnBGbG1KaXNGd3k4RktEZDR4U3NQdHNRT3U3blBGYUU2NmxqblRQbVlFVzg5QjdpZ3JfZ01ZdklndHVjSnRxNVVMajNrZmtVT3ZJU3BlZGFRTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "806b3ce1b0ce",
-      "title": "[신문은 선생님] [재미있는 과학] 늙은 세포를 젊게 만드는 마법? 시력 되찾는 ‘회춘’ 연구 - 조선일보",
-      "published": "2026-07-13T15:35:00+00:00",
-      "summary": "[신문은 선생님] [재미있는 과학] 늙은 세포를 젊게 만드는 마법? 시력 되찾는 ‘회춘’ 연구&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GVVFsMmJZXzYxWElxWWFERmVHUWNnR2d1RmlMcjB0dlFaZGNtM2RmTzYyVTQ3djNsY2Y1dGtSZWhiQlY2cHJfZ3dDcGRWeUZqdHFwa185VXFlaWo4QjEtWkhmM2pTNjgtSUhmQk9ZdUVCMnVLWEJRbFJfb2ZRb0E?oc=5"
         }
       ]
     }
