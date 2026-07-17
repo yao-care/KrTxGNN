@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-17T02:51:33.827617+00:00",
-  "total_fetched": 83,
-  "unique_count": 83,
-  "health_related_count": 50,
+  "fetched_at": "2026-07-17T08:13:59.087450+00:00",
+  "total_fetched": 80,
+  "unique_count": 80,
+  "health_related_count": 52,
   "news": [
+    {
+      "id": "e7bbdebf4e45",
+      "title": "암 치료, 암세포만 죽이면 끝? 합병증 치료도 함께 해야 - 캔서앤서",
+      "published": "2026-07-17T07:55:45+00:00",
+      "summary": "암 치료, 암세포만 죽이면 끝? 합병증 치료도 함께 해야&nbsp;&nbsp;캔서앤서",
+      "sources": [
+        {
+          "name": "캔서앤서",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhTUpFNnBpLVFaZGNVbDROXzZaV3EybkM5YVJjQXlGRVQ2d3dnRzJOeWl5ZG8yV2JhQjR1cnktRkVKVmpKdGRrYTV3ZWJWUUVteUVKcWFGeEhUQldRSTl5RE1XY0tNNC1FaDQzLXB4MXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "298318a6087e",
+      "title": "근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공” - 전자신문",
+      "published": "2026-07-17T06:50:00+00:00",
+      "summary": "근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공”&nbsp;&nbsp;전자신문연구 결과에 따르면 운동은 고혈압 환자의 뇌졸중 위험을 줄이는 데 도움이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니&nbsp;&nbsp;하이닥연구 결과 심장마비 예방을 위한 '황금 공식'이 발견되었습니다.&nbsp;&nbsp;Vietnam.vn“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXZUJ1dFV5UWtCSEVqWVdJT2JzeThweW84Z2VzWG54d2tjSzI1ZHljVVRXUkkwS29YNko0UnNWbmdSREN3YnoyYVg5a1l6Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f38254931512",
+      "title": "백신접종 뒤 다시 걸리는 돌파감염 걱정 - ABC뉴스",
+      "published": "2026-07-17T02:56:04+00:00",
+      "summary": "백신접종 뒤 다시 걸리는 돌파감염 걱정&nbsp;&nbsp;ABC뉴스",
+      "sources": [
+        {
+          "name": "ABC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zY3FES0hwV2QyanQ1TlRZMF9ubHpNM214eTdWWUkxTTcxZE1BYXkyOFVKazR5U0ozbXBVZ3VjUTB6UXRES1h0anJ6UmlfYzVfSFlxeDBibUlrclFfVm05OHpWY9IBZ0FVX3lxTFBDNldHb0g5Mmc4dnRtNDR4ZmVxcmF6YzFpaVU1N3FJZFRrOUZ6VzhMOVZTbVZlbFRIX05RTzZmdXdJcmdUanMtbFJuTDc1VU9KM2dWNU1PTEpJY3JqWUFKLWIzYVdGUE0?oc=5"
+        }
+      ]
+    },
     {
       "id": "f1fe97be149a",
       "title": "[메디컬 인사이트 6부] 고도비만 동반 무릎 관절염의 숨은 비용: 체중 조절의 임상적·보건의료적 실익 - 유스연합",
@@ -165,11 +201,23 @@
       "id": "c99e4ff20d83",
       "title": "\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\" - 바이오타임즈",
       "published": "2026-07-16T06:00:41+00:00",
-      "summary": "\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진 후 통증, 왜 오래갈까?…MRI 분석, 신경통 환자 뇌 구조적 연결 변화 확인&nbsp;&nbsp;medicalworldnews.co.kr대상포진 나았는데도 찌릿찌릿?범인은 '뇌'에 있었다?&nbsp;&nbsp;네이트[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향",
+      "summary": "\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진 후 통증, 왜 오래갈까?…MRI 분석, 신경통 환자 뇌 구조적 연결 변화 확인&nbsp;&nbsp;medicalworldnews.co.kr대상포진 나았는데도 찌릿찌릿?범인은 '뇌'에 있었다?&nbsp;&nbsp;네이트대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향\"대상포진 후 통증, 뇌가 기억한다\"…해운대백병원, 만성 신경통 원인 규명 단서 제시&nbsp;&nbsp;부산경제",
       "sources": [
         {
           "name": "바이오타임즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEbGZEWUFVZ2lwT21qdVNHZDBrV2VsQW9oWEotS2IzTV84eHdNVUd0aWVWSGFKZXdGdXFCWTFfSjdCdlQyTHI2MjZGWjRQaTlMdUwxcEFZN25jOFFkV1FRTllpYWRKM3hpUERjbg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ecd0d736217",
+      "title": "[의학칼럼]여름철 눈 건강 위협하는 유행성 각결막염, 전염 예방이 중요한 이유 - 헬스조선",
+      "published": "2026-07-16T05:00:00+00:00",
+      "summary": "[의학칼럼]여름철 눈 건강 위협하는 유행성 각결막염, 전염 예방이 중요한 이유&nbsp;&nbsp;헬스조선유행성 각결막염 유행 알림 및 예방수칙&nbsp;&nbsp;제주뉴스여름철 전염성 눈병, 개인위생과 조기진료 중요해&nbsp;&nbsp;메디칼업저버\"여름철 눈병, 항생제부터 찾지 마세요\" 안과의사회가 전한 예방법?&nbsp;&nbsp;의협신문물놀이·자외선·에어컨… 여름 눈 건강 삼중고&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wOERfajZvc0d4bjQ3QXIxNTNqbllPSFJzUU9MZy1VX2h5OUNzcnQ1OXh1Vl9DYk83aEZMMDVqQWZGcDc2MG5ZNk50VXBzMTAzeDFfV0psbWVQc3EtUlIxbFJBQTFxNHdTcDlOb0ExUEc5R2V5UFR1b0o5cWNrazA?oc=5"
         }
       ]
     },
@@ -270,6 +318,18 @@
       ]
     },
     {
+      "id": "8c1aa3b3a6c1",
+      "title": "비타민B3 먹은 사람, 녹내장 위험 66% 낮았다 - 약사공론",
+      "published": "2026-07-16T03:00:00+00:00",
+      "summary": "비타민B3 먹은 사람, 녹내장 위험 66% 낮았다&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EdWt3eG9MT1duVFFqTjMyTS1xdmd5NmpUVGhRNnotTFlhM0wyb28zN1R0bGU3c3l1Q2QyODZqU0xOVDB5VXhUQ0V2RTdrNWJRN0Noa3JnM19vQ1BBT0VKVzkycklBV2VsaVJ4Yg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "845c4c6cabef",
       "title": "치매가 노화와 뚜렷이 다른 점은 최근 일을 통째로 잊어버리는 것 - 미주한국일보",
       "published": "2026-07-16T03:00:00+00:00",
@@ -342,18 +402,6 @@
       ]
     },
     {
-      "id": "46da260848f3",
-      "title": "여름철 벌레 물린 후 발열…\"방치땐 패혈증 위험\" - 뉴시스",
-      "published": "2026-07-16T01:02:25+00:00",
-      "summary": "여름철 벌레 물린 후 발열…\"방치땐 패혈증 위험\"&nbsp;&nbsp;뉴시스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wZTJBbjdFNWhZSkxYYWlmNThiQ2o4Z2pNNl9UbHg0ZEpWQzVlbE5PdW9UMG9zanIyd0d5N0hyVzlIM0N0MHU0c3gtX1laZHJFOEFodnJRYmdFa0RQZ0VrNXNn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "87b689e20f99",
       "title": "한탄바이러스 발견 50주년 기념 심포지엄 성료 - 메드월드뉴스",
       "published": "2026-07-15T23:43:39+00:00",
@@ -378,14 +426,14 @@
       ]
     },
     {
-      "id": "242e257a40b0",
-      "title": "“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다 - 동아일보",
-      "published": "2026-07-15T22:30:00+00:00",
-      "summary": "“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다&nbsp;&nbsp;동아일보",
+      "id": "6a0ee9c56149",
+      "title": "\"근육만 강해지는 게 아니었다\"…운동이 심장 신경까지 바꾼다 - 네이트",
+      "published": "2026-07-15T22:31:00+00:00",
+      "summary": "\"근육만 강해지는 게 아니었다\"…운동이 심장 신경까지 바꾼다&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBteFlyendCMnhCZUN2Wm5veG9pd3JVTjdwRDJQaWtIcnZtVzJSTnprZVAzVU00cEZIcjRrRjJWN1o5MExObUxERWtrLTRrV0NPVGpvdjJMb2g3OFNOMk1kUGI0c25jeFB0UGo4TkZ2ONIBZkFVX3lxTE5Wb1hreWNjaGhIR0QweW5ibFhyU1VWVGVWN3NkU3ozUE91aHZHd0I1VGlTUGlnc1NNRXFIckswU1BWYVRFUGhvakljeEE0Z2g1Ql9XN1E4dWw5dlZWbWlpVHFkT0dOQQ?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQMTlOUlI5aUVwY3VJSzA4clhxLXlVYmtSVV9aOG5DN05EUzlMc19hNUxrV0piWHY5OGdIZGxQVy1ObmFQZDEzV0hQWUhLc0VveXJYTGFqX0IwM3dCcWxONA?oc=5"
         }
       ]
     },
@@ -405,7 +453,7 @@
       "id": "2ed3f454967c",
       "title": "아보카도 몸에 좋다는데… 매일 먹으면 어떤 변화? - 헬스조선",
       "published": "2026-07-15T21:30:00+00:00",
-      "summary": "아보카도 몸에 좋다는데… 매일 먹으면 어떤 변화?&nbsp;&nbsp;헬스조선아보카도 한 개의 힘…LDL 입자 줄여 심혈관 위험 완화&nbsp;&nbsp;네이트",
+      "summary": "아보카도 몸에 좋다는데… 매일 먹으면 어떤 변화?&nbsp;&nbsp;헬스조선\"살 빠지고 질병 위험 낮아졌다\"…'이 과일' 슈퍼푸드로 불리는 이유&nbsp;&nbsp;네이트아보카도 한 개의 힘...LDL 입자 줄여 심혈관 위험 완화&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "헬스조선",
@@ -501,7 +549,7 @@
       "id": "8ad7dc9c1460",
       "title": "EMA, '데소게스트렐·에토노게스트렐' 수막종 위험 경고…화이자 탈모 치료제 '리트풀로' 박스 경고 강화 - 헬스코리아뉴스",
       "published": "2026-07-15T08:20:00+00:00",
-      "summary": "EMA, '데소게스트렐·에토노게스트렐' 수막종 위험 경고…화이자 탈모 치료제 '리트풀로' 박스 경고 강화&nbsp;&nbsp;헬스코리아뉴스\"프로게스토겐 피임약, 뇌종양 위험 높인다\" 주사제 증가 폭 가장 커&nbsp;&nbsp;의협신문피임제 오래 썼다면 성분부터 확인…유럽, '뇌수막종' 경고&nbsp;&nbsp;네이트일부 호르몬 피임제, 뇌종양 위험 높일 수도&nbsp;&nbsp;헬스조선\"피임약 먹어도 괜찮을까\"…'수막종' 위험 신호 발견&nbsp;&nbsp;약사공론",
+      "summary": "EMA, '데소게스트렐·에토노게스트렐' 수막종 위험 경고…화이자 탈모 치료제 '리트풀로' 박스 경고 강화&nbsp;&nbsp;헬스코리아뉴스\"프로게스토겐 피임약, 뇌종양 위험 높인다\" 주사제 증가 폭 가장 커&nbsp;&nbsp;의협신문피임제 오래 썼다면 성분부터 확인…유럽, '뇌수막종' 경고&nbsp;&nbsp;네이트일부 호르몬 피임제, 뇌종양 위험 높일 수도&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스코리아뉴스",
@@ -546,42 +594,6 @@
       ]
     },
     {
-      "id": "8aaf9db93b35",
-      "title": "비피도, 인체 유래 특허균주 'RAPO' 전신경화증·폐섬유증 치료 조성물 국내 특허 등록 - 뉴스인",
-      "published": "2026-07-15T06:51:04+00:00",
-      "summary": "비피도, 인체 유래 특허균주 'RAPO' 전신경화증·폐섬유증 치료 조성물 국내 특허 등록&nbsp;&nbsp;뉴스인",
-      "sources": [
-        {
-          "name": "뉴스인",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOVnF2VEgzUEJsTHctT3JnMjk1VHZhbGVFTWxTb3NOT2kzUkdHN3FsUXFNdnJjWFNXYjFWc1hPak5WRTBJU0M1R1BNcXFxWGUxeUs1TFl2Tm10T0ltekhMZnlucWZfRUUtc1R3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e197a19c5d27",
-      "title": "여성 자궁건강 위협하는 '자궁근종' 정확한 진단 통한 수술 진행돼야 - 보건신문",
-      "published": "2026-07-15T04:35:55+00:00",
-      "summary": "여성 자궁건강 위협하는 '자궁근종' 정확한 진단 통한 수술 진행돼야&nbsp;&nbsp;보건신문7월, 자궁근종 검진 필요한 이유?&nbsp;&nbsp;네이트“자궁에 근종 77개”… 할리우드 배우의 고백, 무슨 일?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oUnR6aWo5em5jdVBUbWlzS25KRGk1ZnE5aGcxbFY1TE1Rem9wbUU3MXoybmt2dko2azJtR1l1UG91eWljWmJNQ2p1OG5IQlgtQVk3SUdqaV9GaVh1WGRxaDk1bw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7157bd2394ea",
-      "title": "치매 예방, 강연 이어온 치매 예방 전도사 장두식 강사 - 뉴스N연합",
-      "published": "2026-07-15T03:05:05+00:00",
-      "summary": "치매 예방, 강연 이어온 치매 예방 전도사 장두식 강사&nbsp;&nbsp;뉴스N연합",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CT2t6a2Z4TUdOYmhELXZvOUxfd21oWlN3di1qcWg5dlFQSU1BTGhMQzFGVUx2Z3BzRGczTm5FaGxuOHlKOUtsUFln?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e18f130faf19",
       "title": "세계 최고 1순위 없으면 다른 연구분야 찾는 독일 막스플랑크 - 동아사이언스",
       "published": "2026-07-15T03:00:00+00:00",
@@ -590,6 +602,18 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XYVhxOWFiWTFwcmZSbW8zNVdrZlF4TVN4NnUwUldJbG9sWURHLVI4VlB3b0hoLVVQMFZXVS1QcEwzWHlzNXlEc1VOcUItaEZ5TTFxYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "670a0ccc6527",
+      "title": "HLB테라퓨틱스 RGN-259 성분, 세균성 각막염서 각막신경 회복 확인...美 연구진 발표 - PRESS9",
+      "published": "2026-07-15T00:52:48+00:00",
+      "summary": "HLB테라퓨틱스 RGN-259 성분, 세균성 각막염서 각막신경 회복 확인...美 연구진 발표&nbsp;&nbsp;PRESS9",
+      "sources": [
+        {
+          "name": "PRESS9",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNzVlRE8xdWlKUWxyUm1HRlJWY3gwX3o4NVZ6NHVwU0tzTmNsekFER1R1Y1lSMVZpaXdfQ0F6VG1FRXV6LVUxamZzWHBESk04MmszWXhDa0dWaVp0OXM4LXlBT3o?oc=5"
         }
       ]
     },
