@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-17T08:13:59.087450+00:00",
-  "total_fetched": 80,
-  "unique_count": 80,
-  "health_related_count": 52,
+  "fetched_at": "2026-07-17T13:44:23.006525+00:00",
+  "total_fetched": 67,
+  "unique_count": 67,
+  "health_related_count": 45,
   "news": [
+    {
+      "id": "53d2e9a39068",
+      "title": "노화 주범 찾았다…면역세포 '이 수용체' 차단하니 회춘 - 바이오북미디어",
+      "published": "2026-07-17T10:48:00+00:00",
+      "summary": "노화 주범 찾았다…면역세포 '이 수용체' 차단하니 회춘&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03UE5NUTFHWTJyVUthMW9SSWtLRkxkU0t5R0Q1M0ZaMkE3d0hyMDNvQzQ0YVo5ZFNJRlhmWnlvc0pNRGoxZENvM0czRTNwNzdRMlV5TVV5WndKNURtQUE1b1hEU3dtS2lQZWFuUHJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9da791fb7b50",
+      "title": "[탐구활동]\"죽으라는 신호를 받고도 안 죽었다\"… UNIST 세포 연구가 던진 탐구 질문 - 교육을 비추다",
+      "published": "2026-07-17T10:47:50+00:00",
+      "summary": "[탐구활동]\"죽으라는 신호를 받고도 안 죽었다\"… UNIST 세포 연구가 던진 탐구 질문&nbsp;&nbsp;교육을 비추다“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다&nbsp;&nbsp;서울경제UNIST, 세포 죽음의 새 원리 규명… 생식세포는 ‘한꺼번에 죽지 않았다’&nbsp;&nbsp;브릿지경제\"전부 죽을 순 없다\"… 생식세포가 유전병 대물림 막는 영리한 방법&nbsp;&nbsp;v.daum.net\"'세포의 예정된 죽음' 작동 규칙, 세포 종류마다 달라\"&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "교육을 비추다",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lQ0U0VXNJWHUwd01lVE9uVm1uaGUwQ0JXQ3BTaEhFbWlzdTIzaUtKSjJzMlFveWVrZlcwNzcxZkx5R3NhYjNfR3VFTzU4UUJhWE96dG5UV1hHcXg5TW95RUEzeHc5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b7e368e7399",
+      "title": "[명의] 장 천공과 패혈증까지?! 노인 변비의 위협 - Queen 이코노미퀸",
+      "published": "2026-07-17T08:30:00+00:00",
+      "summary": "[명의] 장 천공과 패혈증까지?! 노인 변비의 위협&nbsp;&nbsp;Queen 이코노미퀸'명의' 정기욱·최창환 교수가 알려주는 노인성 변비&nbsp;&nbsp;네이트“참다간 생명까지 위협”...노년의 흔한 증상, 방치하면 재앙 된다('명의')&nbsp;&nbsp;뉴스컬처'명의' 정기욱·최창환 교수의 변비 치료법&nbsp;&nbsp;bntnews.co.kr나이 탓인 줄 알았던 변비…방치하면 독이 된다 (EBS 명의)&nbsp;&nbsp;위키트리",
+      "sources": [
+        {
+          "name": "Queen 이코노미퀸",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rV3k0cHpSRF9KeWxuSDAxRUVaNnVkS2d1WWtUWmpnSEJ6OUtBZXUydnFEYUE4SmxtOWNvVGV0Rm9tZUN2Z3otVzhUZl9SMHkzLUtWamNKS3JCR2dwa1ZmSTBLX1Z1TVRi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c93bc3067f09",
+      "title": "스텐트 시술 최고 권위자, 심장질환자 '평생 약' 부담 줄인다 - 한국경제",
+      "published": "2026-07-17T08:13:59+00:00",
+      "summary": "스텐트 시술 최고 권위자, 심장질환자 '평생 약' 부담 줄인다&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aVXR2ck40N0FOQ3ZSazFaTXdjeWNuLWVEWEJMQXh5VDlHYUFCazdjNlpRT09YMlFzb1VGNGVYWTRwZU1IM2tWakRVMDVqTkRQRi1BWlUwblk4QQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "e7bbdebf4e45",
       "title": "암 치료, 암세포만 죽이면 끝? 합병증 치료도 함께 해야 - 캔서앤서",
@@ -66,6 +114,18 @@
       ]
     },
     {
+      "id": "a0fccec3b139",
+      "title": "'PSA 수치 높다고 전립선암 확진은 아니다?' - edaily.co.kr",
+      "published": "2026-07-17T00:13:02+00:00",
+      "summary": "'PSA 수치 높다고 전립선암 확진은 아니다?'&nbsp;&nbsp;edaily.co.kr[임상명의를 찾아서]김재헌 순천향대병원 비뇨의학과 교수 “전립선암, 덜 치료할 환자와 더 치료할 환자 가려야”&nbsp;&nbsp;한국경제건강검진 PSA 수치 높다면… 무조건 전립선암일까?&nbsp;&nbsp;뉴스티앤티",
+      "sources": [
+        {
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelNRQjhzSG5ZRHdOXzgyaW5IYjJxb0d5VzhCdmVJTE1SUVZiaFpnVk9mbHJjMGJjTFBtODl5QlhtOGVrU3RDanQ1QlJxWDNhRlRnemF2SWhLRTFIQXJVMWFwdHdZOFRubHFGckRSd2tFbWZCRGF3VVhrUUQ1S1lxUg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c4a6dd6370b8",
       "title": "스마트폰이 위험 높인다고?…암 예방과 치유를 방해하는 가짜 정보들 - 코메디닷컴",
       "published": "2026-07-17T00:05:00+00:00",
@@ -105,7 +165,7 @@
       "id": "11654531ae26",
       "title": "임신 3번 이상 여성, 폐경 이후가 중요한 이유 - 문화일보",
       "published": "2026-07-16T20:12:13+00:00",
-      "summary": "임신 3번 이상 여성, 폐경 이후가 중요한 이유&nbsp;&nbsp;문화일보\"3회 이상 임신한 여성, 골절위험 36%↑…에스트로겐 공백 영향\"&nbsp;&nbsp;v.daum.net3회 이상 임신, 폐경 후 골절 위험 36%↑…‘이것’ 섭취 챙겨야&nbsp;&nbsp;미주중앙일보다자녀 여성, 폐경 후 골절 위험 36%↑…\"예방 관리 중요\"&nbsp;&nbsp;뉴스1엄마의 뼈 건강을 살필 시간&nbsp;&nbsp;우먼스토리뉴스",
+      "summary": "임신 3번 이상 여성, 폐경 이후가 중요한 이유&nbsp;&nbsp;문화일보출산 많을수록 골절 위험 쑥…원인은 ‘이것’ 공백&nbsp;&nbsp;동아일보\"3회 이상 임신한 여성, 골절위험 36%↑…에스트로겐 공백 영향\"&nbsp;&nbsp;v.daum.net다자녀 여성, 폐경 후 골절 위험 36%↑…\"예방 관리 중요\"&nbsp;&nbsp;뉴스1엄마의 뼈 건강을 살필 시간&nbsp;&nbsp;우먼스토리뉴스",
       "sources": [
         {
           "name": "문화일보",
@@ -138,14 +198,14 @@
       ]
     },
     {
-      "id": "ad38abd50445",
+      "id": "f93a48e077dc",
       "title": "미혼일 때부터 아마씨를 먹어야 하는 이유…10년 뒤 건강이 달라질 수 있다 - 자연치유일보",
       "published": "2026-07-16T13:24:54+00:00",
       "summary": "미혼일 때부터 아마씨를 먹어야 하는 이유…10년 뒤 건강이 달라질 수 있다&nbsp;&nbsp;자연치유일보",
       "sources": [
         {
           "name": "자연치유일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6WHVVamo5c01jUXpaMVNPYnljYTd0YWhCWXExNEdNa2JveldZUVlxM1RUbHVjZFRMakJHdGhxVG1FcUdzRHhPZFZHTnB5V1dOdGhLdkN3Mmo3SGFYRWQ4bnlvdlF5UXYxTVI5Tzhn?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03QUhoVV93bkpYcDQ0bDlzQTJlQmpuM0E5S3dyTy1qN3B0bWFEQk1PR0lsd2c1dkNQSmVRWkNqWC1uXzBEV3VFQTg3eG1jRjRNSEhuVkMzcjdFRDR0WjZhbE9ab3lSVTAzNUc0cEhjVQ?oc=5"
         }
       ]
     },
@@ -158,6 +218,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPUTJIcm8zS19qcDQ5V01OeGo4bmNDVmI2Y09Uc2Fra3BXVFlxTmNMSXZiRFJ3M0lRQ3laTGg4SkdaYXlMS2tOemN1dU84RlVqWHE1X0RsV3BLQ0dvcUJEN2x5NUdHMXZucHZzelduUkg4c2Zpby1ZMkFxaS1mWHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e34934fa0cf6",
+      "title": "모기 물린 줄 알았는데 다리 퉁퉁…여름철 ‘연조직염’ 주의보 - v.daum.net",
+      "published": "2026-07-16T09:09:29+00:00",
+      "summary": "모기 물린 줄 알았는데 다리 퉁퉁…여름철 ‘연조직염’ 주의보&nbsp;&nbsp;v.daum.net\"앗, 따가워\" 맨발 상처 그냥 뒀다가 다리까지 퉁퉁…여름철 급증하는 이 병 - 머니투데이&nbsp;&nbsp;머니투데이“모기 물린 줄 알았는데 돌연 응급실행”…여름철 ‘이 병’ 방치했다간 패혈증까지&nbsp;&nbsp;서울경제여름철 벌레 물린 후 발열…\"방치땐 패혈증 위험\"&nbsp;&nbsp;뉴시스'작은 상처 방치, 여름철 연조직염 부른다'…피부 감염 주의보&nbsp;&nbsp;뉴스토피아",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UMF9ZMjh1WlN4dmJwRzdvU2pYbk9rSF9lTlVhTDNSSWl4M0s1NnZWLTVKazlQdEZMM1AxMERKZUgxWGpYbnlnYzMwcndPVVE?oc=5"
         }
       ]
     },
@@ -186,38 +258,14 @@
       ]
     },
     {
-      "id": "0d713af64a74",
-      "title": "[혈당 건강] \"참지 말고 채워라\"… 혈당 스파이크 잡는 ‘친화적 간식’ 5가지 - 오아시스뉴스",
-      "published": "2026-07-16T06:16:51+00:00",
-      "summary": "[혈당 건강] \"참지 말고 채워라\"… 혈당 스파이크 잡는 ‘친화적 간식’ 5가지&nbsp;&nbsp;오아시스뉴스채소 아무리 먹어봤자… 순식간에 당뇨병 부르는 행동들&nbsp;&nbsp;헬스조선“간편해서 아침에 매일 먹었는데”…공복에 먹으면 혈당 무섭게 올라간다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제\"설탕보다 혈당에 더 나쁘다\"…의사가 경고한 '최악의 습관' 4가지&nbsp;&nbsp;네이트“당뇨 전단계면 괜찮다?”…혈당 잡으려면 지금부터 ‘이 음식’ 챙기세요&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "오아시스뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pQnlMZWtuYjVuMWktVkN2bmMyUHM0SHh6RTRralF2M0lNeWd4RkJKZjNFQlZ2Wk0tblIxMDc3ZGNOY2ppOWxncDVIOWtXVG1JZXQxSzZXZlo4d3JveVEzampET01BSW9hRnM0RWxTRWY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c99e4ff20d83",
       "title": "\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\" - 바이오타임즈",
       "published": "2026-07-16T06:00:41+00:00",
-      "summary": "\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진 후 통증, 왜 오래갈까?…MRI 분석, 신경통 환자 뇌 구조적 연결 변화 확인&nbsp;&nbsp;medicalworldnews.co.kr대상포진 나았는데도 찌릿찌릿?범인은 '뇌'에 있었다?&nbsp;&nbsp;네이트대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향\"대상포진 후 통증, 뇌가 기억한다\"…해운대백병원, 만성 신경통 원인 규명 단서 제시&nbsp;&nbsp;부산경제",
+      "summary": "\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진 후 통증, 왜 오래갈까?…MRI 분석, 신경통 환자 뇌 구조적 연결 변화 확인&nbsp;&nbsp;medicalworldnews.co.kr대상포진 나았는데도 찌릿찌릿?범인은 '뇌'에 있었다?&nbsp;&nbsp;네이트대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향대상포진 후 통증, 왜 오래갈까 … 해운대백병원, 뇌 연결망 변화에서 단서 확인&nbsp;&nbsp;헬스오",
       "sources": [
         {
           "name": "바이오타임즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEbGZEWUFVZ2lwT21qdVNHZDBrV2VsQW9oWEotS2IzTV84eHdNVUd0aWVWSGFKZXdGdXFCWTFfSjdCdlQyTHI2MjZGWjRQaTlMdUwxcEFZN25jOFFkV1FRTllpYWRKM3hpUERjbg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ecd0d736217",
-      "title": "[의학칼럼]여름철 눈 건강 위협하는 유행성 각결막염, 전염 예방이 중요한 이유 - 헬스조선",
-      "published": "2026-07-16T05:00:00+00:00",
-      "summary": "[의학칼럼]여름철 눈 건강 위협하는 유행성 각결막염, 전염 예방이 중요한 이유&nbsp;&nbsp;헬스조선유행성 각결막염 유행 알림 및 예방수칙&nbsp;&nbsp;제주뉴스여름철 전염성 눈병, 개인위생과 조기진료 중요해&nbsp;&nbsp;메디칼업저버\"여름철 눈병, 항생제부터 찾지 마세요\" 안과의사회가 전한 예방법?&nbsp;&nbsp;의협신문물놀이·자외선·에어컨… 여름 눈 건강 삼중고&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wOERfajZvc0d4bjQ3QXIxNTNqbllPSFJzUU9MZy1VX2h5OUNzcnQ1OXh1Vl9DYk83aEZMMDVqQWZGcDc2MG5ZNk50VXBzMTAzeDFfV0psbWVQc3EtUlIxbFJBQTFxNHdTcDlOb0ExUEc5R2V5UFR1b0o5cWNrazA?oc=5"
         }
       ]
     },
@@ -330,18 +378,6 @@
       ]
     },
     {
-      "id": "845c4c6cabef",
-      "title": "치매가 노화와 뚜렷이 다른 점은 최근 일을 통째로 잊어버리는 것 - 미주한국일보",
-      "published": "2026-07-16T03:00:00+00:00",
-      "summary": "치매가 노화와 뚜렷이 다른 점은 최근 일을 통째로 잊어버리는 것&nbsp;&nbsp;미주한국일보",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfdEJoWEFybnBKbE9RRzlUSnJVTHdkNmh6NGNISm5UeDRGSWplX0tDNE15RG5zSlU4bXBtQV9ZYm5fdGhvUW50UEVsQzFwYzBSSkNTUjlYR2p4enBKWXNR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "72ae3bfa4d1f",
       "title": "매운 음식이 건강 비결?… 과학이 주목한 캡사이신의 효과 - 미주한국일보",
       "published": "2026-07-16T03:00:00+00:00",
@@ -378,22 +414,10 @@
       ]
     },
     {
-      "id": "4174a892be44",
-      "title": "울산과학기술원-IBS 연구팀, 세포 예정사 이중 조절 현상 규명 - 메트로신문",
-      "published": "2026-07-16T01:09:33+00:00",
-      "summary": "울산과학기술원-IBS 연구팀, 세포 예정사 이중 조절 현상 규명&nbsp;&nbsp;메트로신문“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다&nbsp;&nbsp;서울경제\"'세포의 예정된 죽음' 작동 규칙, 세포 종류마다 달라\"&nbsp;&nbsp;연합뉴스\"전부 죽을 순 없다\"… 생식세포가 유전병 대물림 막는 영리한 방법&nbsp;&nbsp;v.daum.net세포 스트레스 속 생존·사멸 결정 유전자 조절 원리 규명&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "메트로신문",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KM1ZnNjBWWWhjR21udTRtY3NHU3JUT2pCQUtCRFpwTTJMcnBNUFhqZk10dEFWVTYycVpzOWYxSnZhY08wT1BqeDZ0ZkNJVElQNmxvUEZFUjFDYmJYVF9zNw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f79bcbc1f1bd",
       "title": "천마 성분 ‘살리제닌’, 당뇨 예방 효과 탁월 - 농축유통신문",
       "published": "2026-07-16T01:06:13+00:00",
-      "summary": "천마 성분 ‘살리제닌’, 당뇨 예방 효과 탁월&nbsp;&nbsp;농축유통신문천마 유래 천연성분 ‘살리제닌’, 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;v.daum.net\"천마 속 '살리제닌', 비만으로 인한 인슐린 저항성 개선 효과\"&nbsp;&nbsp;뉴스1“천마에 든 천연성분이 비만으로 인한 당뇨 잡는다”···국립산림과학원 연구&nbsp;&nbsp;경향신문천마 천연성분 '살리제닌', 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;매일경제 마켓",
+      "summary": "천마 성분 ‘살리제닌’, 당뇨 예방 효과 탁월&nbsp;&nbsp;농축유통신문천마 유래 천연성분 ‘살리제닌’, 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;v.daum.net\"천마 속 '살리제닌', 비만으로 인한 인슐린 저항성 개선 효과\"&nbsp;&nbsp;뉴스1천마 천연성분 '살리제닌', 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;연합뉴스“천마에 든 천연성분이 비만으로 인한 당뇨 잡는다”···국립산림과학원 연구&nbsp;&nbsp;경향신문",
       "sources": [
         {
           "name": "농축유통신문",
@@ -438,30 +462,6 @@
       ]
     },
     {
-      "id": "b0d59bd9202e",
-      "title": "EBS '명의', 방치하면 장 천공·패혈증까지… 노인 변비의 위험성 집중 조명 - 한국강사신문",
-      "published": "2026-07-15T21:35:00+00:00",
-      "summary": "EBS '명의', 방치하면 장 천공·패혈증까지… 노인 변비의 위험성 집중 조명&nbsp;&nbsp;한국강사신문",
-      "sources": [
-        {
-          "name": "한국강사신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84WEFTbnVPYWRmS2pVenNWX0xHUU02aldGVHVwT3hBWWZKSHpiTG85djVkYWFJQWk5STk2VFJmZG01Y0s2b2JLVVZzTjBtMXp1ZG5adEVRUHpXZ1pMMnJkanNtOW43NzN4clJJdGs4Mzg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ed3f454967c",
-      "title": "아보카도 몸에 좋다는데… 매일 먹으면 어떤 변화? - 헬스조선",
-      "published": "2026-07-15T21:30:00+00:00",
-      "summary": "아보카도 몸에 좋다는데… 매일 먹으면 어떤 변화?&nbsp;&nbsp;헬스조선\"살 빠지고 질병 위험 낮아졌다\"…'이 과일' 슈퍼푸드로 불리는 이유&nbsp;&nbsp;네이트아보카도 한 개의 힘...LDL 입자 줄여 심혈관 위험 완화&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtRzUzaEhPT2FTOHowS2ZUQUx6WS0yQTFmT3Q0UndSQzVFeTlCRTlPaEJla01JSUNSRGhtYURRZjhJLXlHanNUSW90M1FqRjBGRnFTNnBBQTlHZTJYQVVobDRfdzh6a3R2YVJ6Y1BXX3dYc21FZjlKTTM4aEkwUEU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7250d2bb10ac",
       "title": "\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고 - 히트뉴스",
       "published": "2026-07-15T21:01:00+00:00",
@@ -489,47 +489,11 @@
       "id": "4b99fb901e79",
       "title": "부은 잇몸 방치했더니… 심장에 치명적 영향 - 헬스조선",
       "published": "2026-07-15T20:30:00+00:00",
-      "summary": "부은 잇몸 방치했더니… 심장에 치명적 영향&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "부은 잇몸 방치했더니… 심장에 치명적 영향&nbsp;&nbsp;헬스조선만성 치주염 원인균, 대동맥 판막 협착 위험 높여&nbsp;&nbsp;네이트어린 시절 ‘이 질환’ 있었다면…성인 심장병 위험 최대 45% 오른다&nbsp;&nbsp;레이디경향[톡톡 100세 인생] 건강한 치아를 위한 첫걸음...칫솔모 관리부터&nbsp;&nbsp;팝콘뉴스\"칫솔 교체 한지 '이 기간' 지났다면 지금 당장 버리세요\"... 잇몸 약해지고 치아 손상됩니다&nbsp;&nbsp;아던트뉴스",
       "sources": [
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aalFLNGI4YjR3UkpjaVVmWWFGUUJjYVRGSTRHbUFtbV9yQjZjcmpqbFEzcVY5NzZiR09SZy14enJudEZuMWdHZFlDRkNrUDlHM1BacFc1QTJSWjdsZWptanRVQ2l5LVpHLUVBZTUwTXAtSXI3U0tOMFFKYjdMUkU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01c889762395",
-      "title": "Merck, 국제 에이즈 학회서 HIV 치료제 임상 데이터 공개 - Investing.com 한국어",
-      "published": "2026-07-15T11:07:00+00:00",
-      "summary": "Merck, 국제 에이즈 학회서 HIV 치료제 임상 데이터 공개&nbsp;&nbsp;Investing.com 한국어",
-      "sources": [
-        {
-          "name": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94ZmM2Ulg3VnlrRG51NFhramhMaTMzYmVveWxZcGREemZka3BYZUJyU1NBMDlzaFo2NzhxZlJPUHUzR0RYMVdSelZxQ3ZvVURLWS0yclllVkhLWnBCaFJoLU96eVZ0TkRDQWZxY0o1V2U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "122b71cf2a83",
-      "title": "“근육 녹을까봐” 안 먹는 콜레스테롤약 ‘이것’…위험군은 0.4%뿐 - 농민신문",
-      "published": "2026-07-15T10:02:45+00:00",
-      "summary": "“근육 녹을까봐” 안 먹는 콜레스테롤약 ‘이것’…위험군은 0.4%뿐&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13N056T2Z2T1RvOTZIYlN4T25Gb1dGQ1JlR0dzZjI1dUg5QjJId0loY1NNMnVKdkxpRzllQVZDOVo1R0tWVU45cjNmSWFqNlRNNlc1NkRLR1hMUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b00aaef9387b",
-      "title": "60세 이후 꼭 챙겨야 하는 영양소, 건강수명을 좌우하는 핵심은 '균형'에 있다 - 얼리어답터뉴스",
-      "published": "2026-07-15T09:45:15+00:00",
-      "summary": "60세 이후 꼭 챙겨야 하는 영양소, 건강수명을 좌우하는 핵심은 '균형'에 있다&nbsp;&nbsp;얼리어답터뉴스",
-      "sources": [
-        {
-          "name": "얼리어답터뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRQjZQNmR2dF9CbFNsanloMV92bk02QlZRLVZaVHlad2N2ekxqbVJmOWtxeVRZMkp0TXVsUDNvMnNzLVNLb0tNUQ?oc=5"
         }
       ]
     },
@@ -542,54 +506,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lbUVjN2ZOOTgwWjlaV2JNQzhxWlB0MnVMTkE2d1k1QUFQRTdSWmM1ekN2dlhRc3dXUXJLRzFxNlY1QzF3cUpXSnZ6R3psdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8ad7dc9c1460",
-      "title": "EMA, '데소게스트렐·에토노게스트렐' 수막종 위험 경고…화이자 탈모 치료제 '리트풀로' 박스 경고 강화 - 헬스코리아뉴스",
-      "published": "2026-07-15T08:20:00+00:00",
-      "summary": "EMA, '데소게스트렐·에토노게스트렐' 수막종 위험 경고…화이자 탈모 치료제 '리트풀로' 박스 경고 강화&nbsp;&nbsp;헬스코리아뉴스\"프로게스토겐 피임약, 뇌종양 위험 높인다\" 주사제 증가 폭 가장 커&nbsp;&nbsp;의협신문피임제 오래 썼다면 성분부터 확인…유럽, '뇌수막종' 경고&nbsp;&nbsp;네이트일부 호르몬 피임제, 뇌종양 위험 높일 수도&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3RlkxY1FFamhEbWRodmJnbExxbktjZXU5N1ZPZThjdkV6bmhTS2Ewb3NKeUEyMk00dER5alp1R0pTdi14RHNFR3JFcFNxamVkWDg0bU03aW0zbUNnMkZtX3lFTmMzN2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bec9e60aad32",
-      "title": "‘1차치료부터 장기처방까지 GERD 치료의 A to Z’ - 메디칼업저버",
-      "published": "2026-07-15T07:41:43+00:00",
-      "summary": "‘1차치료부터 장기처방까지 GERD 치료의 A to Z’&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Hb0o1LW0tbUhONTI0RUhENFVKTUtfRXc5c0Iya3h1LXd3SFZ3RnNqM1duRDk0RDlvWThQdzVwd2w3Q2tMVWE4dlpGNmlIOVU3X08wVUVLSjRITFFyazg4dkM0YzNVT0RTdElV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "863a2d7b990c",
-      "title": "LA 첫 웨스트나일 감염자 중증 뇌염 증상으로 입원 - 미주한국일보",
-      "published": "2026-07-15T07:13:21+00:00",
-      "summary": "LA 첫 웨스트나일 감염자 중증 뇌염 증상으로 입원&nbsp;&nbsp;미주한국일보LA 카운티 올해 첫 웨스트나일바이러스 감염자 발생&nbsp;&nbsp;RadioKorea풀러턴·부에나파크 등 비상…웨스트나일 바이러스 확산&nbsp;&nbsp;미주중앙일보웨스트나일 모기 비상&nbsp;&nbsp;미주중앙일보",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SZTVXSDRDNzVmU3FjUW91OWM2NUZNcDRIcllacm9KSFZ2cmpxOUl3dDRnYjM1N3ZnWnZGNEU3T3FrdXU5MTBmME1NLWZiV19PMWk4RXBLLWxtbGI4eTBF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59dd63ce4c49",
-      "title": "레디큐어, 알츠하이머 치료 기기 '헬락슨' 식약처 임상 승인 - 뉴스핌",
-      "published": "2026-07-15T07:03:00+00:00",
-      "summary": "레디큐어, 알츠하이머 치료 기기 '헬락슨' 식약처 임상 승인&nbsp;&nbsp;뉴스핌",
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uamIzZVJWMmtaZTV2TXFGZGN1UndSQ1FMTzE1SUtCWm9TWlZ4Wk1GUlFrLVp6T0F6RXdLZ3pEb0F3NE5ja3JBMHo4SnoySWtKRE01SmRIRHFMcWNp?oc=5"
         }
       ]
     },
