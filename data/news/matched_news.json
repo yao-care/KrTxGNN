@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-07-17T19:14:44.188970+00:00",
-  "total_count": 47,
+  "last_updated": "2026-07-18T02:43:42.895232+00:00",
+  "total_count": 42,
   "matched_count": 0,
   "news": [
+    {
+      "id": "3e5cf9a88e81",
+      "title": "많은 당뇨병 환자들이 매일 반복하는 실수",
+      "published": "2026-07-18T01:04:55+00:00",
+      "summary": "많은 당뇨병 환자들이 매일 반복하는 실수&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmRBMGk1WllSaUJZU2xRbU5tTC1ldzR4YjBpZWs0bFpmbU04SHdvVkZfejhyTGh4WWlKTTBqdVRRM2pVb3BaWV9rMy1ZdVFPSWxOM0RaV3V4Z083R2JuSXlKRmVXWWpYNEoyYm9JcUpISGJyWDVNUXloS3NQaVk4OWtiUTlLemtmQ1dSaXlwRE5PeWRTMG9xR1BvWkVMbzdEaXBONS04a2RFQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7b1248afb7e4",
+      "title": "전 세계 암 사망 970만명… 아시아가 절반 이상 차지",
+      "published": "2026-07-18T00:57:49+00:00",
+      "summary": "전 세계 암 사망 970만명… 아시아가 절반 이상 차지&nbsp;&nbsp;매일일보“태어난 나라가 생사 가른다”… WHO가 경고한 ‘2050년 암 재앙’&nbsp;&nbsp;헬스조선암 진단 늘고 사망 위험은 줄었다… '착시'와 '항암 혁신'의 정체&nbsp;&nbsp;글로벌이코노믹2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스",
+      "sources": [
+        {
+          "name": "매일일보",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5veEwtWjNHb01UOHpnNnVROHlQbUNFLUpFbGJXODUxRXd5ZmdmcXpLaDV2dkFKck9MNUhqQjdkUklkNnpRM2VUam1Zc0pCbjZOOUFwQUEzcFNxVm9NMUQteUUyRQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a10e25b98b22",
+      "title": "'대상포진 후 신경통, 뇌 연결망 변화와 연관성 밝혀져'",
+      "published": "2026-07-18T00:05:03+00:00",
+      "summary": "'대상포진 후 신경통, 뇌 연결망 변화와 연관성 밝혀져'&nbsp;&nbsp;edaily.co.kr\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인대상포진 후 통증, 왜 오래갈까 … 해운대백병원, 뇌 연결망 변화에서 단서 확인&nbsp;&nbsp;헬스오대상포진 나았는데도 찌릿찌릿?범인은 '뇌'에 있었다?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT18yLTJCX0xHWnRTTHZPcHRyYVJZZ1VrR1lxS3ZCQnE4MWc3aXlzaDEycUJiSUZGQ04tX1lPRGU1MWRlTFdQODlfVzhCNDhETEstRzQybm5yUEVCZHlnUmI5czZYTVVwSk1WYkJDTWptWWd0T2RpV2toTHRJYlExeA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d7cd57bb8402",
+      "title": "“매운맛 즐기다가 식도암 위험 높아진다?”…고추 많이 먹는 사람, 발생 위험 약 3배",
+      "published": "2026-07-17T22:05:00+00:00",
+      "summary": "“매운맛 즐기다가 식도암 위험 높아진다?”…고추 많이 먹는 사람, 발생 위험 약 3배&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nVEJvdjJnNmNydlNmeks2S2tHX3FuMEZZVmhyVDhFR0s0a0lzV2VZTC1LelQ4Skk2U1Fsc2NycjFPdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "21e8e7988815",
       "title": "“밥 먹고 ‘이 행동’ 제발 피하세요”… 약사가 꼽은 ‘최악의 혈당 습관’",
@@ -25,6 +77,19 @@
         {
           "name": "뉴스에이",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yYzFLSG9tUi1jWkJFSC12RUFtU0RsT1NWMEpEakh5Ym9ER0hrYzVBc0JLSUoxQnpWYmFjTXYxenNROFNiMU9OVERrVVBRVlJ6eVFDRm9jTXNUMFNqYWd6SV9DQmpOZ2NJUVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a7188aa3ca03",
+      "title": "천마 유래 천연성분 ‘살리제닌’ 비만으로 인한 당뇨 잡는다 -국립산림과학원·중앙대 공동연구, 비만으로 떨어진 인슐린 반응성 회복 확인",
+      "published": "2026-07-17T12:18:58+00:00",
+      "summary": "천마 유래 천연성분 ‘살리제닌’ 비만으로 인한 당뇨 잡는다 -국립산림과학원·중앙대 공동연구, 비만으로 떨어진 인슐린 반응성 회복 확인&nbsp;&nbsp;대구뉴스천마 유래 천연성분 ‘살리제닌’, 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;v.daum.net\"천마 속 '살리제닌', 비만으로 인한 인슐린 저항성 개선 효과\"&nbsp;&nbsp;뉴스1천마 천연성분 '살리제닌', 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;연합뉴스“천마에 든 천연성분이 비만으로 인한 당뇨 잡는다”···국립산림과학원 연구&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "대구뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10Y19sSUxBS1FQcGVxc1c0am5iZkItZXJDNzVoVUlTcG9VOWtZbUhjUjJtMUQ0bGhNYVhoWE9CVGZOaXJoclhxQTJqdUZoWjBrZVFtTHdBaTVSOHI0TEd6OGpFYWtNeVJh0gFsQVVfeXFMTVc3SlVCYS1qVzRIa1ZmZzRlLXdSNWo0OW9VZ1Z4VGp4bzJnLUJHQlliTXpVVWN1dVgwTGdzMkJ3cWktUTlVbDF5WXJjcFRJNUk0X2RVZ1htaGI3U1V2SVk1VUczek13MWtZWmtB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -95,19 +160,6 @@
       "matched_keywords": []
     },
     {
-      "id": "657c7e8a620a",
-      "title": "“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니",
-      "published": "2026-07-17T08:00:00+00:00",
-      "summary": "“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니&nbsp;&nbsp;하이닥근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공”&nbsp;&nbsp;전자신문연구 결과에 따르면 운동은 고혈압 환자의 뇌졸중 위험을 줄이는 데 도움이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqT2dzWTg1MHczRlBkVmEtNWtCUGpmaHg0bjRCbnA0ZjVsNTJfSk9ZdzZyWDNnVWVSckoza3BjM2VQSEUydjNYMXppN2dYczk2STFvZUxZQnBIc3luOFdQZE5QOV9VZnJRUXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e7bbdebf4e45",
       "title": "암 치료, 암세포만 죽이면 끝? 합병증 치료도 함께 해야",
       "published": "2026-07-17T07:55:45+00:00",
@@ -116,6 +168,19 @@
         {
           "name": "캔서앤서",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhTUpFNnBpLVFaZGNVbDROXzZaV3EybkM5YVJjQXlGRVQ2d3dnRzJOeWl5ZG8yV2JhQjR1cnktRkVKVmpKdGRrYTV3ZWJWUUVteUVKcWFGeEhUQldRSTl5RE1XY0tNNC1FaDQzLXB4MXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "298318a6087e",
+      "title": "근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공”",
+      "published": "2026-07-17T06:50:00+00:00",
+      "summary": "근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공”&nbsp;&nbsp;전자신문연구 결과에 따르면 운동은 고혈압 환자의 뇌졸중 위험을 줄이는 데 도움이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니&nbsp;&nbsp;하이닥연구 결과 심장마비 예방을 위한 '황금 공식'이 발견되었습니다.&nbsp;&nbsp;Vietnam.vn“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXZUJ1dFV5UWtCSEVqWVdJT2JzeThweW84Z2VzWG54d2tjSzI1ZHljVVRXUkkwS29YNko0UnNWbmdSREN3YnoyYVg5a1l6Zw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -316,32 +381,6 @@
       "matched_keywords": []
     },
     {
-      "id": "0d713af64a74",
-      "title": "[혈당 건강] \"참지 말고 채워라\"… 혈당 스파이크 잡는 ‘친화적 간식’ 5가지",
-      "published": "2026-07-16T06:16:51+00:00",
-      "summary": "[혈당 건강] \"참지 말고 채워라\"… 혈당 스파이크 잡는 ‘친화적 간식’ 5가지&nbsp;&nbsp;오아시스뉴스채소 아무리 먹어봤자… 순식간에 당뇨병 부르는 행동들&nbsp;&nbsp;헬스조선“간편해서 아침에 매일 먹었는데”…공복에 먹으면 혈당 무섭게 올라간다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제\"설탕보다 혈당에 더 나쁘다\"…의사가 경고한 '최악의 습관' 4가지&nbsp;&nbsp;네이트공복에 먹는 오후 간식들… 당뇨병 부르는 사소한 습관은?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "오아시스뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pQnlMZWtuYjVuMWktVkN2bmMyUHM0SHh6RTRralF2M0lNeWd4RkJKZjNFQlZ2Wk0tblIxMDc3ZGNOY2ppOWxncDVIOWtXVG1JZXQxSzZXZlo4d3JveVEzampET01BSW9hRnM0RWxTRWY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c99e4ff20d83",
-      "title": "\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"",
-      "published": "2026-07-16T06:00:41+00:00",
-      "summary": "\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진 후 통증, 왜 오래갈까?…MRI 분석, 신경통 환자 뇌 구조적 연결 변화 확인&nbsp;&nbsp;medicalworldnews.co.kr대상포진 나았는데도 찌릿찌릿?범인은 '뇌'에 있었다?&nbsp;&nbsp;네이트대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향대상포진 후 통증, 왜 오래갈까 … 해운대백병원, 뇌 연결망 변화에서 단서 확인&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEbGZEWUFVZ2lwT21qdVNHZDBrV2VsQW9oWEotS2IzTV84eHdNVUd0aWVWSGFKZXdGdXFCWTFfSjdCdlQyTHI2MjZGWjRQaTlMdUwxcEFZN25jOFFkV1FRTllpYWRKM3hpUERjbg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "58c27405d0c7",
       "title": "손발·얼굴 커지는 ‘말단비대증’ 환자, 대장암·갑상선암 위험↑... 44년 추적 연구",
       "published": "2026-07-16T05:00:00+00:00",
@@ -355,23 +394,10 @@
       "matched_keywords": []
     },
     {
-      "id": "9436c647ad83",
-      "title": "사과도 잘 먹어야 보약…잘못된 식습관이 복부 팽만감 유발",
-      "published": "2026-07-16T04:27:49+00:00",
-      "summary": "사과도 잘 먹어야 보약…잘못된 식습관이 복부 팽만감 유발&nbsp;&nbsp;굿모닝베트남미디어",
-      "sources": [
-        {
-          "name": "굿모닝베트남미디어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VREVSZ1llQUVZZjBJdjQ0Z29qUk1IZll6NnlBT2NMb1M2cEtIMUxjTm1pNEl1bWdLdFFzUGNKZHBCd055WTdfWWpNajZ5N3lfN0pqMFZiQ1plVm9ZZU84enBBcnN1SUNjQ0cxY2diSzk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a85e90e8eba7",
       "title": "산만한 성격인 줄 알았는데…여성 ADHD, 우울·불안 위험 높인다",
       "published": "2026-07-16T04:21:24+00:00",
-      "summary": "산만한 성격인 줄 알았는데…여성 ADHD, 우울·불안 위험 높인다&nbsp;&nbsp;정신의학신문“증상 좋아질 수도”… ADHD 의심되는 사람이 챙겨 먹으면 좋은 음식&nbsp;&nbsp;헬스조선집중이 어려운 일상, 성인 ADHD 확인이 필요한 이유&nbsp;&nbsp;메디컬투데이늦게 발견되는 여성의 ADHD&nbsp;&nbsp;일다",
+      "summary": "산만한 성격인 줄 알았는데…여성 ADHD, 우울·불안 위험 높인다&nbsp;&nbsp;정신의학신문“증상 좋아질 수도”… ADHD 의심되는 사람이 챙겨 먹으면 좋은 음식&nbsp;&nbsp;헬스조선늦게 발견되는 여성의 ADHD&nbsp;&nbsp;일다",
       "sources": [
         {
           "name": "정신의학신문",
@@ -459,19 +485,6 @@
       "matched_keywords": []
     },
     {
-      "id": "72ae3bfa4d1f",
-      "title": "매운 음식이 건강 비결?… 과학이 주목한 캡사이신의 효과",
-      "published": "2026-07-16T03:00:00+00:00",
-      "summary": "매운 음식이 건강 비결?… 과학이 주목한 캡사이신의 효과&nbsp;&nbsp;미주한국일보",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wTElBQUI5c0VvS3BrWHg1Z3puRTB1Y1BvU1BGYldnbk9IOUlqZW5nNEpFVjV4VzhPcTBvVGt6VlZIWDJKQk1lRWdLTjhJamVYV2RMMEtoQlZrSUh5LUt3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "02b574088f2e",
       "title": "이공계 혁신 이끌 주관대학 선정…실전 인재·기초연구 생태계 조성",
       "published": "2026-07-16T03:00:00+00:00",
@@ -480,19 +493,6 @@
         {
           "name": "뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JNk9hN1pfZzItWlI5RlE0a3BMbGhBSXFBY1Bwb3dEelJHYVBubTlWUE1oZU5EdlBta0JtUHNGejR4djFjdExXZEw3MFVic3lKTW5xRTNOM1dPYktqd3ppa2Y0UmE1Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "53bd854f4256",
-      "title": "천마 유래 천연성분 ‘살리제닌’, 비만 탓 당뇨 잡는다",
-      "published": "2026-07-16T02:33:36+00:00",
-      "summary": "천마 유래 천연성분 ‘살리제닌’, 비만 탓 당뇨 잡는다&nbsp;&nbsp;우리문화신문천마 유래 천연성분 ‘살리제닌’, 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;v.daum.net\"천마 속 '살리제닌', 비만으로 인한 인슐린 저항성 개선 효과\"&nbsp;&nbsp;뉴스1천마 천연성분 '살리제닌', 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;연합뉴스“천마에 든 천연성분이 비만으로 인한 당뇨 잡는다”···국립산림과학원 연구&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "우리문화신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1ZjhqWmZQaUxranJpRlpYTmY3T1Y0UTNwVmRoSGhxY1B2eUY0cWdQX3RRVkt5N2FXSlRqTnMyQ2hZbFROOFZiOW1EU1o5by1LRTVrOUVnSk9GRlZjOHp5R0xjbnJVbk0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -524,45 +524,6 @@
       "matched_keywords": []
     },
     {
-      "id": "6a0ee9c56149",
-      "title": "\"근육만 강해지는 게 아니었다\"…운동이 심장 신경까지 바꾼다",
-      "published": "2026-07-15T22:31:00+00:00",
-      "summary": "\"근육만 강해지는 게 아니었다\"…운동이 심장 신경까지 바꾼다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQMTlOUlI5aUVwY3VJSzA4clhxLXlVYmtSVV9aOG5DN05EUzlMc19hNUxrV0piWHY5OGdIZGxQVy1ObmFQZDEzV0hQWUhLc0VveXJYTGFqX0IwM3dCcWxONA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7250d2bb10ac",
-      "title": "\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고",
-      "published": "2026-07-15T21:01:00+00:00",
-      "summary": "\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스“태어난 나라가 생사 가른다”… WHO가 경고한 ‘2050년 암 재앙’&nbsp;&nbsp;헬스조선WHO는 암 발병 위험 급증에 대해 경고했습니다.&nbsp;&nbsp;Vietnam.vnWHO의 경고…\"2050년 신규 암환자 3500만명\"&nbsp;&nbsp;뉴시스2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "히트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aY3N2OG9ZX1VxNFBDS2FDdm9kNjRYSE9rVDZtZml1RkZaWEVsSnZjQlhmQjV5NnF4cmQ5QWJRMHNrQjgzYmZ0SlF4OXNMMU95SDJjMm9OazVmOUI4bUtaaVBWOTIzOG5yQWpB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "37a92ea1fcb1",
-      "title": "가벼운 심장 이상도 치매 위험 키운다...예방 습관은?",
-      "published": "2026-07-15T20:49:00+00:00",
-      "summary": "가벼운 심장 이상도 치매 위험 키운다...예방 습관은?&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OM0ZrbTlOUWpoT2t2Rk0tSWNxYVNOUUQtekhrODllSmxQSXB5VG1vOHRONHJMQjdqNGQxdnBwZENlRW9DT0JsczVTbnZEZE5YYzJyMW4yYmhkclJhS3k1bnNrM21jU2E4M21jMA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f2fbf57d5061",
       "title": "AI가 신약후보 다 찾아주네...성공확률 인간 연구자의 42배",
       "published": "2026-07-15T08:49:08+00:00",
@@ -584,32 +545,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XYVhxOWFiWTFwcmZSbW8zNVdrZlF4TVN4NnUwUldJbG9sWURHLVI4VlB3b0hoLVVQMFZXVS1QcEwzWHlzNXlEc1VOcUItaEZ5TTFxYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "670a0ccc6527",
-      "title": "HLB테라퓨틱스 RGN-259 성분, 세균성 각막염서 각막신경 회복 확인...美 연구진 발표",
-      "published": "2026-07-15T00:52:48+00:00",
-      "summary": "HLB테라퓨틱스 RGN-259 성분, 세균성 각막염서 각막신경 회복 확인...美 연구진 발표&nbsp;&nbsp;PRESS9",
-      "sources": [
-        {
-          "name": "PRESS9",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hNzVlRE8xdWlKUWxyUm1HRlJWY3gwX3o4NVZ6NHVwU0tzTmNsekFER1R1Y1lSMVZpaXdfQ0F6VG1FRXV6LVUxamZzWHBESk04MmszWXhDa0dWaVp0OXM4LXlBT3o?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1217d1cff20b",
-      "title": "“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다",
-      "published": "2026-07-14T23:30:22+00:00",
-      "summary": "“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "서울경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWDI3UU5BcTJVVGRiZmxVVHFERWdQT2k0SlNMLUE5QUdmb3lWTUNzYW5VREhxTWJDcmU3N0FLX1l1NWRpQndiWFF2UVQySjVvMXfSAVNBVV95cUxNNWdOcDZMSk12OGpRanpKMEZkamdyM2k1NURncjhCZjNOOWlxNUdVei11S0dqSXV6My1MalhzYTFKZXJ4U2czZkFJYUo1Ym10UVJIVQ?oc=5"
         }
       ],
       "matched_keywords": []
