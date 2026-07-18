@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-18T13:21:45.454743+00:00",
-  "total_fetched": 54,
-  "unique_count": 54,
-  "health_related_count": 29,
+  "fetched_at": "2026-07-18T19:08:54.753692+00:00",
+  "total_fetched": 53,
+  "unique_count": 53,
+  "health_related_count": 28,
   "news": [
+    {
+      "id": "bb7e05041fe6",
+      "title": "발목 관절염, 통증 넘어 전신 건강 위협 … 활동량 감소로 대사질환 위험 높인다 - 헬스오",
+      "published": "2026-07-18T14:37:34+00:00",
+      "summary": "발목 관절염, 통증 넘어 전신 건강 위협 … 활동량 감소로 대사질환 위험 높인다&nbsp;&nbsp;헬스오",
+      "sources": [
+        {
+          "name": "헬스오",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uZHZEM1V4QS1lWmJiSkNUSjQwcXAtVEk1eE85Yk5lNzEwLXdTV1Z3dnpHdzYyLUFKMEZSQ0wxc3lrQk5DRWI5X2xyTkpPaEpXMDVkTmV0c1A?oc=5"
+        }
+      ]
+    },
     {
       "id": "00f9553f4ee8",
       "title": "노화 촉진하는 면역세포 ‘청소 장애’ 찾았다…EP2 차단하자 장기 노화 억제 - 헬스코리아뉴스",
@@ -66,6 +78,18 @@
       ]
     },
     {
+      "id": "85a3539718e3",
+      "title": "우주서 첫 엑스레이 촬영…\"우주인 건강관리 새 길 열렸다\" [우주로 간다] - 지디넷코리아",
+      "published": "2026-07-18T00:33:05+00:00",
+      "summary": "우주서 첫 엑스레이 촬영…\"우주인 건강관리 새 길 열렸다\" [우주로 간다]&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80a2hJSDVKd0NUTmprajNUWm54MEhlMThFNW9MZm0yMW1XOXMtbXJ4UnBNcjNRSzJiWFBnR01BSUNnQUJCSF9zLWs5UHZTVFVSbThGd3Zn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a10e25b98b22",
       "title": "'대상포진 후 신경통, 뇌 연결망 변화와 연관성 밝혀져' - edaily.co.kr",
       "published": "2026-07-18T00:05:03+00:00",
@@ -90,14 +114,14 @@
       ]
     },
     {
-      "id": "b495c61679c1",
-      "title": "\"매운맛 즐기다가 식도암 위험 높아진다?\"…고추 많이 먹는 사람, 발생 위험 약 3배 - 네이트",
-      "published": "2026-07-17T22:07:00+00:00",
-      "summary": "\"매운맛 즐기다가 식도암 위험 높아진다?\"…고추 많이 먹는 사람, 발생 위험 약 3배&nbsp;&nbsp;네이트",
+      "id": "d7cd57bb8402",
+      "title": "“매운맛 즐기다가 식도암 위험 높아진다?”…고추 많이 먹는 사람, 발생 위험 약 3배 - 코메디닷컴",
+      "published": "2026-07-17T22:05:00+00:00",
+      "summary": "“매운맛 즐기다가 식도암 위험 높아진다?”…고추 많이 먹는 사람, 발생 위험 약 3배&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5meXg2aG01WVpFZm9nY3hrVlNfY1lvcHgzdHVZSk9MZGFKM2ttVGJlTExDWjNMQ3ZhNVdRRmdWV3FVeVg4UlBDaUY1bEVOZTVZMEtF?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nVEJvdjJnNmNydlNmeks2S2tHX3FuMEZZVmhyVDhFR0s0a0lzV2VZTC1LelQ4Skk2U1Fsc2NycjFPdw?oc=5"
         }
       ]
     },
@@ -110,18 +134,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mdHFsUzBWY2RGVTJKMGFRdWdpX3NScnpGNlVSY1pscWQ1LWJpN085NHJLRGVkWDlJeTMtcmNra0o0S0ZwUEI4RG4xb1FUaGZXRjlZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce0cda5ea717",
-      "title": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식' - 전자신문",
-      "published": "2026-07-17T21:00:00+00:00",
-      "summary": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문채소 아무리 먹어봤자… 순식간에 당뇨병 부르는 행동들&nbsp;&nbsp;헬스조선\"아침엔 이것부터\"…배종옥이 밝힌 혈당 관리 식사법&nbsp;&nbsp;뉴시스[혈당 건강] \"참지 말고 채워라\"… 혈당 스파이크 잡는 ‘친화적 간식’ 5가지&nbsp;&nbsp;오아시스뉴스“간편해서 아침에 매일 먹었는데”…공복에 먹으면 혈당 무섭게 올라간다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rbFM1RUxCeDRXWXl3WFY3RU9TQ0FXWU54Yi1QNm54LUV4YWVhMEFKaUdINTUwLWtZRzh1RnFDclk2WGRwcFlOdUI4U1UyUQ?oc=5"
         }
       ]
     },
@@ -141,7 +153,7 @@
       "id": "9da791fb7b50",
       "title": "[탐구활동]\"죽으라는 신호를 받고도 안 죽었다\"… UNIST 세포 연구가 던진 탐구 질문 - 교육을 비추다",
       "published": "2026-07-17T10:47:50+00:00",
-      "summary": "[탐구활동]\"죽으라는 신호를 받고도 안 죽었다\"… UNIST 세포 연구가 던진 탐구 질문&nbsp;&nbsp;교육을 비추다“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다&nbsp;&nbsp;서울경제UNIST, 세포 죽음의 새 원리 규명… 생식세포는 ‘한꺼번에 죽지 않았다’&nbsp;&nbsp;브릿지경제\"전부 죽을 순 없다\"… 생식세포가 유전병 대물림 막는 영리한 방법&nbsp;&nbsp;v.daum.net\"'세포의 예정된 죽음' 작동 규칙, 세포 종류마다 달라\"&nbsp;&nbsp;연합뉴스",
+      "summary": "[탐구활동]\"죽으라는 신호를 받고도 안 죽었다\"… UNIST 세포 연구가 던진 탐구 질문&nbsp;&nbsp;교육을 비추다“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다&nbsp;&nbsp;서울경제UNIST, 세포 죽음의 새 원리 규명… 생식세포는 ‘한꺼번에 죽지 않았다’&nbsp;&nbsp;브릿지경제\"'세포의 예정된 죽음' 작동 규칙, 세포 종류마다 달라\"&nbsp;&nbsp;연합뉴스스트레스 받은 세포…생존결정 '이 유전자' 규명&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "교육을 비추다",
@@ -234,18 +246,6 @@
       ]
     },
     {
-      "id": "f1fe97be149a",
-      "title": "[메디컬 인사이트 6부] 고도비만 동반 무릎 관절염의 숨은 비용: 체중 조절의 임상적·보건의료적 실익 - 유스연합",
-      "published": "2026-07-17T02:38:06+00:00",
-      "summary": "[메디컬 인사이트 6부] 고도비만 동반 무릎 관절염의 숨은 비용: 체중 조절의 임상적·보건의료적 실익&nbsp;&nbsp;유스연합",
-      "sources": [
-        {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8teTdjdnduUkF3d2JvdUtXRG41Tkk1aElmMXhMZ3ZhYUNhVDhIN1kzMkJyR3FKYXVxM2F4d3V0MnNNcEo3ZUN2S3pQdkRtZWFjLUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2eabb95385fc",
       "title": "어릴 때 ADHD 진단받았다면… 성인기 뇌전증·정신질환 위험 높아진다 - 하이닥",
       "published": "2026-07-17T02:30:00+00:00",
@@ -302,18 +302,6 @@
         {
           "name": "edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSFFia1F2R09wVXlrb1FxbVNQY1FxVmpHekt6LUZVQXhfOHI1UUZqQUlHMkZKbi1GdjFlTUw3WXAzZER2Znp1NXRzYVhZYTFWLWRkczVsdjUybmNCZzNacklCak8wUmFMUHRydlZnanBRMnN6UXdHNlVlYlJVM3pVUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f93a48e077dc",
-      "title": "미혼일 때부터 아마씨를 먹어야 하는 이유…10년 뒤 건강이 달라질 수 있다 - 자연치유일보",
-      "published": "2026-07-16T13:24:54+00:00",
-      "summary": "미혼일 때부터 아마씨를 먹어야 하는 이유…10년 뒤 건강이 달라질 수 있다&nbsp;&nbsp;자연치유일보",
-      "sources": [
-        {
-          "name": "자연치유일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03QUhoVV93bkpYcDQ0bDlzQTJlQmpuM0E5S3dyTy1qN3B0bWFEQk1PR0lsd2c1dkNQSmVRWkNqWC1uXzBEV3VFQTg3eG1jRjRNSEhuVkMzcjdFRDR0WjZhbE9ab3lSVTAzNUc0cEhjVQ?oc=5"
         }
       ]
     },
