@@ -1,15 +1,39 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-19T08:23:12.926496+00:00",
-  "total_fetched": 44,
-  "unique_count": 44,
-  "health_related_count": 19,
+  "fetched_at": "2026-07-19T13:23:00.847504+00:00",
+  "total_fetched": 42,
+  "unique_count": 42,
+  "health_related_count": 16,
   "news": [
+    {
+      "id": "040788ade998",
+      "title": "저녁 늦게 먹는 습관, ‘이 암’ 위험 높인다?⋯“음식보다 중요한 건 시간” - 코메디닷컴",
+      "published": "2026-07-19T10:04:00+00:00",
+      "summary": "저녁 늦게 먹는 습관, ‘이 암’ 위험 높인다?⋯“음식보다 중요한 건 시간”&nbsp;&nbsp;코메디닷컴늦게 자고 늦게 일어나는 '올빼미형'…뱃살 더 많이 나온다&nbsp;&nbsp;네이트늦게 자는 사람이 살찌는 이유, 답은 '여기'에 있었다&nbsp;&nbsp;약사공론저녁형 인간, 배·엉덩이에 지방 몰린다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tUndRNW1UVDhLUWYtSzBneDluRElHR05aQmYwUlVHb29OLU10UDMwd3l4Y3hPai1hSmxjMzIyNzA1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c1c7883c2a3",
+      "title": "오상록 KIST 원장 \"30년 된 유럽연구소, 이제 역할 바꿀 때\" - 지디넷코리아",
+      "published": "2026-07-19T04:13:38+00:00",
+      "summary": "오상록 KIST 원장 \"30년 된 유럽연구소, 이제 역할 바꿀 때\"&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kc2RiUGJrWTh2U1h2OWcwVElpYVNSNVY2VXFxbEo0RS03MWg0RGhJRU9taXl6aVBETWlkWVJzZDRsTHRFYk9yV05OdnU0MEtZNkdCUVRn?oc=5"
+        }
+      ]
+    },
     {
       "id": "58191f6aef08",
       "title": "의사, 열이 내린 아이도 뎅기열로 인해 심각하게 진행될 위험 있다고 경고 - Laodong.vn",
       "published": "2026-07-19T03:38:49+00:00",
-      "summary": "의사, 열이 내린 아이도 뎅기열로 인해 심각하게 진행될 위험 있다고 경고&nbsp;&nbsp;Laodong.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn후에시는 전염병 발생 위험으로부터 스스로를 보호하는 '방어막'을 유지하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 예방 및 관리: '방어막'은 각 가정에서 시작됩니다.&nbsp;&nbsp;Vietnam.vn뎅기열: 예측 불가능하고, 널리 퍼져 있으며, 더욱 복잡한 질병입니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "의사, 열이 내린 아이도 뎅기열로 인해 심각하게 진행될 위험 있다고 경고&nbsp;&nbsp;Laodong.vn열이 없다는 것은 뎅기열의 위험한 시기가 지났다는 것을 의미할까요?&nbsp;&nbsp;Vietnam.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 예방 및 관리: '방어막'은 각 가정에서 시작됩니다.&nbsp;&nbsp;Vietnam.vn한 학생이 뎅기열에 감염되어 지방 당국이 긴급히 질병 예방 조치를 시행하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -57,7 +81,7 @@
       "id": "fe62cdb4a42a",
       "title": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계] - 동아일보",
       "published": "2026-07-18T10:00:00+00:00",
-      "summary": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계]&nbsp;&nbsp;동아일보“당신이 알던 몸은 30대에 끝났다”&nbsp;&nbsp;독서신문[하루건강] 점점 뚱뚱해지는 20~40대… 고도 비만, 10년 새 3배 늘었다&nbsp;&nbsp;한국일보“마흔에 찌는 살은 ‘나잇살’ 아니라 ‘질병’이다” [동아닷컴 금주의 신간]&nbsp;&nbsp;동아일보",
+      "summary": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계]&nbsp;&nbsp;동아일보\"가난할수록 살이 찐다\"…중년 비만의 구조를 추적하다&nbsp;&nbsp;v.daum.net“당신이 알던 몸은 30대에 끝났다”&nbsp;&nbsp;독서신문[하루건강] 점점 뚱뚱해지는 20~40대… 고도 비만, 10년 새 3배 늘었다&nbsp;&nbsp;한국일보“마흔에 찌는 살은 ‘나잇살’ 아니라 ‘질병’이다” [동아닷컴 금주의 신간]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "동아일보",
@@ -153,7 +177,7 @@
       "id": "ce0cda5ea717",
       "title": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식' - 전자신문",
       "published": "2026-07-17T21:00:00+00:00",
-      "summary": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문채소 아무리 먹어봤자… 순식간에 당뇨병 부르는 행동들&nbsp;&nbsp;헬스조선\"아침엔 이것부터\"…배종옥이 밝힌 혈당 관리 식사법&nbsp;&nbsp;뉴시스\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트“설탕보다 혈당에 더 나쁘다”… 의사가 경고한 ‘최악의 습관’ 4가지&nbsp;&nbsp;코메디닷컴",
+      "summary": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문“현미보다 좋다”… 혈당·콜레스테롤 가장 잘 잡는 ‘1등 통곡물’은?&nbsp;&nbsp;헬스조선“밥 먹고 ‘이 행동’ 제발 피하세요”… 약사가 꼽은 ‘최악의 혈당 습관’&nbsp;&nbsp;코메디닷컴\"아침엔 이것부터\"…배종옥이 밝힌 혈당 관리 식사법&nbsp;&nbsp;뉴시스\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "전자신문",
@@ -170,66 +194,6 @@
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yZFJKcFE4QTFTU3FYLXNOaFZRREtfalo0X0pzc2kwYVVveUx1R0dGeUxxOE5pUWFMeEhoN1FsR2VNTGhwcUk3OE5kUzZBYm5wYk1IS0Z0ckVjWUg4V1NYN01uUXhoNkVoWmMyTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a7188aa3ca03",
-      "title": "천마 유래 천연성분 ‘살리제닌’ 비만으로 인한 당뇨 잡는다 -국립산림과학원·중앙대 공동연구, 비만으로 떨어진 인슐린 반응성 회복 확인 - 대구뉴스",
-      "published": "2026-07-17T12:18:58+00:00",
-      "summary": "천마 유래 천연성분 ‘살리제닌’ 비만으로 인한 당뇨 잡는다 -국립산림과학원·중앙대 공동연구, 비만으로 떨어진 인슐린 반응성 회복 확인&nbsp;&nbsp;대구뉴스천마 유래 천연성분 ‘살리제닌’, 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;v.daum.net\"천마 속 '살리제닌', 비만으로 인한 인슐린 저항성 개선 효과\"&nbsp;&nbsp;뉴스1천마 천연성분 '살리제닌', 비만으로 인한 당뇨 잡는다&nbsp;&nbsp;연합뉴스“천마에 든 천연성분이 비만으로 인한 당뇨 잡는다”···국립산림과학원 연구&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "대구뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10Y19sSUxBS1FQcGVxc1c0am5iZkItZXJDNzVoVUlTcG9VOWtZbUhjUjJtMUQ0bGhNYVhoWE9CVGZOaXJoclhxQTJqdUZoWjBrZVFtTHdBaTVSOHI0TEd6OGpFYWtNeVJh0gFsQVVfeXFMTVc3SlVCYS1qVzRIa1ZmZzRlLXdSNWo0OW9VZ1Z4VGp4bzJnLUJHQlliTXpVVWN1dVgwTGdzMkJ3cWktUTlVbDF5WXJjcFRJNUk0X2RVZ1htaGI3U1V2SVk1VUczek13MWtZWmtB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9da791fb7b50",
-      "title": "[탐구활동]\"죽으라는 신호를 받고도 안 죽었다\"… UNIST 세포 연구가 던진 탐구 질문 - 교육을 비추다",
-      "published": "2026-07-17T10:47:50+00:00",
-      "summary": "[탐구활동]\"죽으라는 신호를 받고도 안 죽었다\"… UNIST 세포 연구가 던진 탐구 질문&nbsp;&nbsp;교육을 비추다“세포마다 죽는 규칙 다르다”…UNIST·IBS, 암 정복 새 단서 찾았다&nbsp;&nbsp;서울경제UNIST, 세포 죽음의 새 원리 규명… 생식세포는 ‘한꺼번에 죽지 않았다’&nbsp;&nbsp;브릿지경제\"'세포의 예정된 죽음' 작동 규칙, 세포 종류마다 달라\"&nbsp;&nbsp;연합뉴스스트레스 받은 세포…생존결정 '이 유전자' 규명&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "교육을 비추다",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lQ0U0VXNJWHUwd01lVE9uVm1uaGUwQ0JXQ3BTaEhFbWlzdTIzaUtKSjJzMlFveWVrZlcwNzcxZkx5R3NhYjNfR3VFTzU4UUJhWE96dG5UV1hHcXg5TW95RUEzeHc5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ddf3841282e",
-      "title": "여름철 물놀이할 때 몇가지 ‘수영병’ 조심해야!--건강 - 인민넷",
-      "published": "2026-07-17T08:14:00+00:00",
-      "summary": "여름철 물놀이할 때 몇가지 ‘수영병’ 조심해야!--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1elRZa0ZPSGpBamNvQTFGOGI5cjdsVjVjTkxfVmJWdWpNX2kwM1FpS3VfWnBIek8tQVRZN1dRQTU2cTNVN2RBSmZ3a1EtOEwtZy0wNlF6NmxEcmhIVTlGaWI2a1FaVjJ1aFBvUGJB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c93bc3067f09",
-      "title": "스텐트 시술 최고 권위자, 심장질환자 '평생 약' 부담 줄인다 - 한국경제",
-      "published": "2026-07-17T08:13:59+00:00",
-      "summary": "스텐트 시술 최고 권위자, 심장질환자 '평생 약' 부담 줄인다&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aVXR2ck40N0FOQ3ZSazFaTXdjeWNuLWVEWEJMQXh5VDlHYUFCazdjNlpRT09YMlFzb1VGNGVYWTRwZU1IM2tWakRVMDVqTkRQRi1BWlUwblk4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "657c7e8a620a",
-      "title": "“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니 - 하이닥",
-      "published": "2026-07-17T08:00:00+00:00",
-      "summary": "“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니&nbsp;&nbsp;하이닥근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공”&nbsp;&nbsp;전자신문연구 결과에 따르면 운동은 고혈압 환자의 뇌졸중 위험을 줄이는 데 도움이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqT2dzWTg1MHczRlBkVmEtNWtCUGpmaHg0bjRCbnA0ZjVsNTJfSk9ZdzZyWDNnVWVSckoza3BjM2VQSEUydjNYMXppN2dYczk2STFvZUxZQnBIc3luOFdQZE5QOV9VZnJRUXc?oc=5"
         }
       ]
     }
