@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-19T03:13:37.779814+00:00",
-  "total_fetched": 46,
-  "unique_count": 46,
-  "health_related_count": 20,
+  "fetched_at": "2026-07-19T08:23:12.926496+00:00",
+  "total_fetched": 44,
+  "unique_count": 44,
+  "health_related_count": 19,
   "news": [
+    {
+      "id": "58191f6aef08",
+      "title": "의사, 열이 내린 아이도 뎅기열로 인해 심각하게 진행될 위험 있다고 경고 - Laodong.vn",
+      "published": "2026-07-19T03:38:49+00:00",
+      "summary": "의사, 열이 내린 아이도 뎅기열로 인해 심각하게 진행될 위험 있다고 경고&nbsp;&nbsp;Laodong.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn후에시는 전염병 발생 위험으로부터 스스로를 보호하는 '방어막'을 유지하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 예방 및 관리: '방어막'은 각 가정에서 시작됩니다.&nbsp;&nbsp;Vietnam.vn뎅기열: 예측 불가능하고, 널리 퍼져 있으며, 더욱 복잡한 질병입니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYm9NMVY1YncyUmRHSlMxbGF2akxYczF0UXcwQjQtUnBhbFdRSGZxc29uWGZjY1lhaUxYdGhNRkNKa0RGekt6WWlCV3VCWTUtQlY3cGdLVWRzLWxjT1h5SGZrR0R6T05OaDRDUVNJTkp0SVNvWVluRVNjOVlUbHNyLUtISm92MFpuSHNaOVNEOFpPTFJCV1ZLRUFqdmJSdFZiaVpoV0d6cWJobkRNUVkxSnpOSDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5cc30b74a883",
+      "title": "세 자녀 이상 출산한 여성, 완경 후 골절 가능성 36%↑ - 한국일보",
+      "published": "2026-07-19T03:00:00+00:00",
+      "summary": "세 자녀 이상 출산한 여성, 완경 후 골절 가능성 36%↑&nbsp;&nbsp;한국일보세 번 이상 임신한 여성, 폐경 후 골절 위험 높아&nbsp;&nbsp;헬스조선서울성모병원 성경헌 전공의, 대한골대사학회 우수구연상 수상&nbsp;&nbsp;의약뉴스엄마의 뼈 건강을 살필 시간&nbsp;&nbsp;우먼스토리뉴스출산 많을수록 골절 위험 쑥…원인은 ‘이것’ 공백&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LblFYanp4bTlmV0tfOU8tMWFVSEU1Zk5oRkdIcnI1NkdubW5CeEhGQy1xOWFYVnZxYmppeGFYbG81MXd1UnlvbjZWQllNb2k2Y3hSLVNVTk5MaXdDNWlhM3RyR00tWkJvendoczFR0gFzQVVfeXFMUHU3UWhuS0xQSS1jN2ZUVlNVbnFGTHI1ZUZKVGE2OXN5OGsxLU4za0Z4QlRYZTh2UTJkLWZkMUFIQVR6N05nRVU5Tm1iZXRVcWpDc2ZhaXdXVldURWhZYXFYX3ZRTjRqWkJQdmRnaEhXaVBRSQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "a7cd2f86efb7",
       "title": "[100세건강] \"암이니 아프겠지?\"…삶 위해선 암성 통증 관리 필수 - 네이트",
@@ -30,14 +54,26 @@
       ]
     },
     {
-      "id": "6ba2e22902fb",
-      "title": "하루 8시간 앉아 계십니까?…‘오늘 운동했으니 괜찮다’는 위험한 착각 - 세계일보",
-      "published": "2026-07-18T20:19:01+00:00",
-      "summary": "하루 8시간 앉아 계십니까?…‘오늘 운동했으니 괜찮다’는 위험한 착각&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "fe62cdb4a42a",
+      "title": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계] - 동아일보",
+      "published": "2026-07-18T10:00:00+00:00",
+      "summary": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계]&nbsp;&nbsp;동아일보“당신이 알던 몸은 30대에 끝났다”&nbsp;&nbsp;독서신문[하루건강] 점점 뚱뚱해지는 20~40대… 고도 비만, 10년 새 3배 늘었다&nbsp;&nbsp;한국일보“마흔에 찌는 살은 ‘나잇살’ 아니라 ‘질병’이다” [동아닷컴 금주의 신간]&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUSk1DZldhSDFUR2hDRlV1eU5HMTRCd05LZi1sOFZYdUJNZWtwTjdfOUxQNGdjS2ZRLUw2c0MyUk1LSU55cjlKZkxOcGtHb0hzZXhHTHNiNVnSAVRBVV95cUxQOVd5bFdxNkQ0d3FBeE53eVAwRUg5d1Q4MVVBbVQ4MWE1OGJXNFk0TzJnTEJicW8xLUs3VklTNVc1WHAzclRjU29qRmRhbHpILWN5VlI?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83c0pMWXlqN0xqOEhvNlVham4wb0hLQk42OUpaZFJlYmVMMmVWcDFVVmN5TGZMQXFWaElJVnNfWjRDTFRPb3A4WUVIdW1fUDZLNGNoZlk4ZWc3Z2kxV2FycmdkNVVqdlhucy1XYmFpSdIBZkFVX3lxTE1fVElwMUJFLWd2M2VhVkIxTTRKd0s3SzdCWUQ2cVBPcnBIOWtTZGM2Z0p6Z2FFbTRZWGJTWEwyWjNLRl9PYzgtTUp4ajlQWGNBOGtFX01xb2dDaGc4blNFdHo1UkVYQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d965beaea79",
+      "title": "스카이루트, 인도 최초 민간 개발 궤도 로켓 발사 성공 - Investing.com 한국어",
+      "published": "2026-07-18T07:36:00+00:00",
+      "summary": "스카이루트, 인도 최초 민간 개발 궤도 로켓 발사 성공&nbsp;&nbsp;Investing.com 한국어",
+      "sources": [
+        {
+          "name": "Investing.com 한국어",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EN3dQY0xhWDFZRXNpQmJSMV8zWXZvZ3lzVmpQZ0l5WnhaMGgxWE1MR243d3NxeW9EUURKLUFCSnVQOUxWV28zNFFiemNyeVJWRy1DNHJfWjFwcGlVVmpFTWdTUEdXSmEzVnc?oc=5"
         }
       ]
     },
@@ -50,18 +86,6 @@
         {
           "name": "헬스코리아뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XR09fT0hmb3hiY3ZyR0diVFExYWp4REhENFV2QkpCWlJObTQyYy0wcDI0d2RaN1N0SjREU0MydVJoc054N2RCUjJhNzVleXlzcVd3b3J0cWFWb25NZklBTHRnRWVJLWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "502108696010",
-      "title": "잘라이, 뎅기열 유행 최고조에 돌입 - Laodong.vn",
-      "published": "2026-07-18T05:26:15+00:00",
-      "summary": "잘라이, 뎅기열 유행 최고조에 돌입&nbsp;&nbsp;Laodong.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn후에시는 전염병 발생 위험으로부터 스스로를 보호하는 '방어막'을 유지하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 예방 및 관리: '방어막'은 각 가정에서 시작됩니다.&nbsp;&nbsp;Vietnam.vn뎅기열: 예측 불가능하고, 널리 퍼져 있으며, 더욱 복잡한 질병입니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVVpcGhHS2lNQUtPMElGMjhmWHFPSWtnNFJXTGRVT05ZMVJWQ3hjeUdKTkdYTlV2ekJENTBsbDRncHNRSmpxSUF1YUZra3hNNEcxUnM3U3JSc0tGeEtDa2dSSUZvZTlGTTNzU1JaeTVyVGVySDRWSlJNS3Z6QmIwYnVTRjZPdjJCdEhyTXZMc21tQQ?oc=5"
         }
       ]
     },
@@ -86,18 +110,6 @@
         {
           "name": "매일일보",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LblJhdjZjdGJsU3NuODgxUV9SUmxqZ1I5bGVHWnBheGVuTG4zMjhuOVdVQm9xTFBJUVBVOWFGVlBJLVdVZFVPSzFtZEVtNUFSY1ZsZ2oyWHc3SDhHT2F6U2FTLUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "310bb2254941",
-      "title": "‘그냥 간식인 줄 알았는데’…하루 땅콩 4알, 뇌졸중 위험 20% 낮췄다 - 뉴스와",
-      "published": "2026-07-18T00:42:26+00:00",
-      "summary": "‘그냥 간식인 줄 알았는데’…하루 땅콩 4알, 뇌졸중 위험 20% 낮췄다&nbsp;&nbsp;뉴스와",
-      "sources": [
-        {
-          "name": "뉴스와",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PRkdLN1ctYzRQWkxZZlJ4Q001dW5LOENWd2F4Wm5UUXhtaHI2UExsbHBZdnB3MXlOZ0FuQ0hUdkdkTGpOMGpMQTFCR2FQaUdmZlFMaTVxYXQ2dlhnZTM1UXIwTFpOWmJZQVBieFFQS1BSQm5aZ2FPQQ?oc=5"
         }
       ]
     },
@@ -138,14 +150,26 @@
       ]
     },
     {
-      "id": "bb75670d2632",
-      "title": "[분당서울대병원이 알려주는 의료상식] 여름철 당뇨병 관리…'탈수·과당·발' 세 가지 조심해야 - 네이트",
-      "published": "2026-07-17T21:30:00+00:00",
-      "summary": "[분당서울대병원이 알려주는 의료상식] 여름철 당뇨병 관리…'탈수·과당·발' 세 가지 조심해야&nbsp;&nbsp;네이트여름철 당뇨병 관리...‘탈수·과당·발’ 세 가지 조심해야 [분당서울대병원이 알려주는 의료상식]&nbsp;&nbsp;한국일보더위에 ‘쑥’ 치솟는 수치…찜통더위 속 혈당 관리 잘 하는 요령&nbsp;&nbsp;코메디닷컴[건강] 복날 보양식, 건강하게 즐기려면…삼계탕·장어구이도 '과식은 금물'&nbsp;&nbsp;굿모닝베트남미디어고혈압 환자, 여름은 '위기의 계절'...\"방심하면 응급실行\"&nbsp;&nbsp;라이프인",
+      "id": "ce0cda5ea717",
+      "title": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식' - 전자신문",
+      "published": "2026-07-17T21:00:00+00:00",
+      "summary": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문채소 아무리 먹어봤자… 순식간에 당뇨병 부르는 행동들&nbsp;&nbsp;헬스조선\"아침엔 이것부터\"…배종옥이 밝힌 혈당 관리 식사법&nbsp;&nbsp;뉴시스\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트“설탕보다 혈당에 더 나쁘다”… 의사가 경고한 ‘최악의 습관’ 4가지&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mdHFsUzBWY2RGVTJKMGFRdWdpX3NScnpGNlVSY1pscWQ1LWJpN085NHJLRGVkWDlJeTMtcmNra0o0S0ZwUEI4RG4xb1FUaGZXRjlZ?oc=5"
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rbFM1RUxCeDRXWXl3WFY3RU9TQ0FXWU54Yi1QNm54LUV4YWVhMEFKaUdINTUwLWtZRzh1RnFDclk2WGRwcFlOdUI4U1UyUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "099a546ef528",
+      "title": "나이 들면 추위 타는 이유 '근육'과 연관 있었다 - 약사공론",
+      "published": "2026-07-17T20:50:00+00:00",
+      "summary": "나이 들면 추위 타는 이유 '근육'과 연관 있었다&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yZFJKcFE4QTFTU3FYLXNOaFZRREtfalo0X0pzc2kwYVVveUx1R0dGeUxxOE5pUWFMeEhoN1FsR2VNTGhwcUk3OE5kUzZBYm5wYk1IS0Z0ckVjWUg4V1NYN01uUXhoNkVoWmMyTg?oc=5"
         }
       ]
     },
@@ -174,14 +198,14 @@
       ]
     },
     {
-      "id": "791f925ce863",
-      "title": "출산 많을수록 골절 위험 쑥…원인은 ‘이것’ 공백 - 동아일보",
-      "published": "2026-07-17T09:49:59+00:00",
-      "summary": "출산 많을수록 골절 위험 쑥…원인은 ‘이것’ 공백&nbsp;&nbsp;동아일보세 번 이상 임신한 여성, 폐경 후 골절 위험 높아&nbsp;&nbsp;헬스조선[동정]대한골대사학회 우수구연상 수상&nbsp;&nbsp;병원신문엄마의 뼈 건강을 살필 시간&nbsp;&nbsp;우먼스토리뉴스임신 3번 이상 여성, 폐경 이후가 중요한 이유&nbsp;&nbsp;문화일보",
+      "id": "3ddf3841282e",
+      "title": "여름철 물놀이할 때 몇가지 ‘수영병’ 조심해야!--건강 - 인민넷",
+      "published": "2026-07-17T08:14:00+00:00",
+      "summary": "여름철 물놀이할 때 몇가지 ‘수영병’ 조심해야!--건강&nbsp;&nbsp;인민넷",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44eERVelpKNllYRTVvaWcwOGpYcnNibWxfVkcwUGFDalNXdGQ0bTJ2cU81cnM0amJrR2hXOXN0Q3ZOSFZjRkMyb3V1YXlyQkh0dXE3SjlXQ0xVNU5rZjVVYzE4dXZvTm5LOWJNeXQ0THFCb21qRWfSAWZBVV95cUxOUmQxT3VXdE02dElmME16S01IeExPWnpyajRnTGNkU0JaX09hR1RUeHRKdlRONEw0M1dKNDd2ejd1dVZHeWp5NEFvRkdud1BFeC1xREpYd0VCZDRsMkI5bUwwMGI3Znc?oc=5"
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1elRZa0ZPSGpBamNvQTFGOGI5cjdsVjVjTkxfVmJWdWpNX2kwM1FpS3VfWnBIek8tQVRZN1dRQTU2cTNVN2RBSmZ3a1EtOEwtZy0wNlF6NmxEcmhIVTlGaWI2a1FaVjJ1aFBvUGJB?oc=5"
         }
       ]
     },
@@ -206,42 +230,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqT2dzWTg1MHczRlBkVmEtNWtCUGpmaHg0bjRCbnA0ZjVsNTJfSk9ZdzZyWDNnVWVSckoza3BjM2VQSEUydjNYMXppN2dYczk2STFvZUxZQnBIc3luOFdQZE5QOV9VZnJRUXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7bbdebf4e45",
-      "title": "암 치료, 암세포만 죽이면 끝? 합병증 치료도 함께 해야 - 캔서앤서",
-      "published": "2026-07-17T07:55:45+00:00",
-      "summary": "암 치료, 암세포만 죽이면 끝? 합병증 치료도 함께 해야&nbsp;&nbsp;캔서앤서",
-      "sources": [
-        {
-          "name": "캔서앤서",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhTUpFNnBpLVFaZGNVbDROXzZaV3EybkM5YVJjQXlGRVQ2d3dnRzJOeWl5ZG8yV2JhQjR1cnktRkVKVmpKdGRrYTV3ZWJWUUVteUVKcWFGeEhUQldRSTl5RE1XY0tNNC1FaDQzLXB4MXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac3a4f246504",
-      "title": "딥마인드 AI로 백신 설계…감염병 방어 나선다 - 솔루션뉴스",
-      "published": "2026-07-17T06:44:45+00:00",
-      "summary": "딥마인드 AI로 백신 설계…감염병 방어 나선다&nbsp;&nbsp;솔루션뉴스",
-      "sources": [
-        {
-          "name": "솔루션뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15REpqT3FkRm9qS211MTY1aTVTVjR5M3ZmaHptUUtfZnRJTmVPWXkyaUJ3RTQ3SHZXVnEtaHZxQjBsQXFranNWV09sS21IbGxlYmFaTk1CcmJ1ZmpIVlEyNzAwT1pLVnZMc0hn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5fd386f99442",
-      "title": "\"해외 인재 600명 유치하고 비수도권 연구자 억대 지원\" - 머니투데이 - 머니투데이",
-      "published": "2026-07-16T04:02:52+00:00",
-      "summary": "\"해외 인재 600명 유치하고 비수도권 연구자 억대 지원\" - 머니투데이&nbsp;&nbsp;머니투데이",
-      "sources": [
-        {
-          "name": "머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JX1FwQ05TTlZnZzJUdFZHel9uNjRtTW9UYzY2dkxxUE9leF9zVUhyZ0Y5dzNCZG5mSnczVW5zMWRwOGxEUFRrdE1kUDg3LWFibkNlaFJmX3pQVTBvdEJXWF9LcW96b2PSAWxBVV95cUxNYWhQS190SzdjNjNad0VzaHJBVVIxaWpyYkw5WE0tVHhqSTIzZW4tTEVRRjAtb0FOWHpYbFptYmQzWE1vWHh0X3lhRjFMX2lEYjlQbkFTTTlER2JYTzVhNHVVOUtWdDRPVms0ZGE?oc=5"
         }
       ]
     }
