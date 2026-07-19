@@ -1,19 +1,43 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-18T19:08:54.753692+00:00",
-  "total_fetched": 53,
-  "unique_count": 53,
-  "health_related_count": 28,
+  "fetched_at": "2026-07-19T03:13:37.779814+00:00",
+  "total_fetched": 46,
+  "unique_count": 46,
+  "health_related_count": 20,
   "news": [
     {
-      "id": "bb7e05041fe6",
-      "title": "발목 관절염, 통증 넘어 전신 건강 위협 … 활동량 감소로 대사질환 위험 높인다 - 헬스오",
-      "published": "2026-07-18T14:37:34+00:00",
-      "summary": "발목 관절염, 통증 넘어 전신 건강 위협 … 활동량 감소로 대사질환 위험 높인다&nbsp;&nbsp;헬스오",
+      "id": "a7cd2f86efb7",
+      "title": "[100세건강] \"암이니 아프겠지?\"…삶 위해선 암성 통증 관리 필수 - 네이트",
+      "published": "2026-07-19T01:00:00+00:00",
+      "summary": "[100세건강] \"암이니 아프겠지?\"…삶 위해선 암성 통증 관리 필수&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "헬스오",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uZHZEM1V4QS1lWmJiSkNUSjQwcXAtVEk1eE85Yk5lNzEwLXdTV1Z3dnpHdzYyLUFKMEZSQ0wxc3lrQk5DRWI5X2xyTkpPaEpXMDVkTmV0c1A?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4MmFNTkFsNTBmUEk2dFJra3YxUF9IUXgxNWU0WkM2V1BhMm5fY0stekdQVVkxUUxPRXdoQ3ZDbzNTcEMwM1ptc1hxclgtMHRDOGJr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "80274d3877cc",
+      "title": "난임치료휴가 유급기간 11월부터 늘어나…상한액은? [슬직생] - 세계일보",
+      "published": "2026-07-18T22:34:23+00:00",
+      "summary": "난임치료휴가 유급기간 11월부터 늘어나…상한액은? [슬직생]&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ERnpxc1Y4dXZpb2RfODRuU2pOcTNLWkUxcWZJQUtLYkRyeF91Y0hCaGRab0VTXzI2YWgwSTJVOVR1LXlIY2JzTUN3MGdsRVVXOFpzcnFCS3TSAVRBVV95cUxNZGxxWXJrSko3WGp6bG1mZHZDaUN4TWRHT1pGN1NiNXZ4RjRGdnZSRVBybmpkSG5lRUk5amhhdlFmNThWd0RUODIzQ3JTdDVab0N0OTY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ba2e22902fb",
+      "title": "하루 8시간 앉아 계십니까?…‘오늘 운동했으니 괜찮다’는 위험한 착각 - 세계일보",
+      "published": "2026-07-18T20:19:01+00:00",
+      "summary": "하루 8시간 앉아 계십니까?…‘오늘 운동했으니 괜찮다’는 위험한 착각&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUSk1DZldhSDFUR2hDRlV1eU5HMTRCd05LZi1sOFZYdUJNZWtwTjdfOUxQNGdjS2ZRLUw2c0MyUk1LSU55cjlKZkxOcGtHb0hzZXhHTHNiNVnSAVRBVV95cUxQOVd5bFdxNkQ0d3FBeE53eVAwRUg5d1Q4MVVBbVQ4MWE1OGJXNFk0TzJnTEJicW8xLUs3VklTNVc1WHAzclRjU29qRmRhbHpILWN5VlI?oc=5"
         }
       ]
     },
@@ -30,14 +54,14 @@
       ]
     },
     {
-      "id": "5847f24c53bd",
-      "title": "60세 이후 오래 살고 싶다면 이 운동을 하라… 건강수명을 바꾸는 가장 강력한 비결 - 한국AI부동산신문",
-      "published": "2026-07-18T03:58:12+00:00",
-      "summary": "60세 이후 오래 살고 싶다면 이 운동을 하라… 건강수명을 바꾸는 가장 강력한 비결&nbsp;&nbsp;한국AI부동산신문“오래 살 수 있는 가장 쉬운 방법”… 의사들이 추천한 운동은?&nbsp;&nbsp;헬스조선50대 때 안 해두면 반드시 후회한다… 하루라도 빨리 시작해야 할 운동은?&nbsp;&nbsp;밴쿠버 조선일보[Dr.이은봉의 의학 연구 다이제스트] 같은 양의 운동해도 한 가지만 하는 사람보다 다양한 운동 즐기는 사람이 사망률 더 낮아&nbsp;&nbsp;조선일보“헬스장 없어” 장수 마을 노인들은 몸 관리 어떻게 할까?&nbsp;&nbsp;헬스조선",
+      "id": "502108696010",
+      "title": "잘라이, 뎅기열 유행 최고조에 돌입 - Laodong.vn",
+      "published": "2026-07-18T05:26:15+00:00",
+      "summary": "잘라이, 뎅기열 유행 최고조에 돌입&nbsp;&nbsp;Laodong.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn후에시는 전염병 발생 위험으로부터 스스로를 보호하는 '방어막'을 유지하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 예방 및 관리: '방어막'은 각 가정에서 시작됩니다.&nbsp;&nbsp;Vietnam.vn뎅기열: 예측 불가능하고, 널리 퍼져 있으며, 더욱 복잡한 질병입니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kdlFuRWc0TUZZNzNrbVpBaXVVQmxaUXJOSEt1cWZGS1ozRkd3THRwZGRRMzlvNHlIa1VIX1JPcnk3eEVaeXlPdTlxTVE?oc=5"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVVpcGhHS2lNQUtPMElGMjhmWHFPSWtnNFJXTGRVT05ZMVJWQ3hjeUdKTkdYTlV2ekJENTBsbDRncHNRSmpxSUF1YUZra3hNNEcxUnM3U3JSc0tGeEtDa2dSSUZvZTlGTTNzU1JaeTVyVGVySDRWSlJNS3Z6QmIwYnVTRjZPdjJCdEhyTXZMc21tQQ?oc=5"
         }
       ]
     },
@@ -54,14 +78,14 @@
       ]
     },
     {
-      "id": "7b1248afb7e4",
+      "id": "c3185e37c873",
       "title": "전 세계 암 사망 970만명… 아시아가 절반 이상 차지 - 매일일보",
       "published": "2026-07-18T00:57:49+00:00",
-      "summary": "전 세계 암 사망 970만명… 아시아가 절반 이상 차지&nbsp;&nbsp;매일일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "전 세계 암 사망 970만명… 아시아가 절반 이상 차지&nbsp;&nbsp;매일일보2050년 전 세계 암 환자 3500만 명 전망…5명 중 1명 걸린다&nbsp;&nbsp;네이트2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스",
       "sources": [
         {
           "name": "매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5veEwtWjNHb01UOHpnNnVROHlQbUNFLUpFbGJXODUxRXd5ZmdmcXpLaDV2dkFKck9MNUhqQjdkUklkNnpRM2VUam1Zc0pCbjZOOUFwQUEzcFNxVm9NMUQteUUyRQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LblJhdjZjdGJsU3NuODgxUV9SUmxqZ1I5bGVHWnBheGVuTG4zMjhuOVdVQm9xTFBJUVBVOWFGVlBJLVdVZFVPSzFtZEVtNUFSY1ZsZ2oyWHc3SDhHT2F6U2FTLUE?oc=5"
         }
       ]
     },
@@ -93,23 +117,11 @@
       "id": "a10e25b98b22",
       "title": "'대상포진 후 신경통, 뇌 연결망 변화와 연관성 밝혀져' - edaily.co.kr",
       "published": "2026-07-18T00:05:03+00:00",
-      "summary": "'대상포진 후 신경통, 뇌 연결망 변화와 연관성 밝혀져'&nbsp;&nbsp;edaily.co.kr\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈[한국인의 100가지 질환-63] 대상포진 후 신경통, 물집은 사라져도 통증은 계속될 수 있다&nbsp;&nbsp;뉴스인대상포진 후 통증, 왜 오래갈까 … 해운대백병원, 뇌 연결망 변화에서 단서 확인&nbsp;&nbsp;헬스오대상포진 나았는데도 찌릿찌릿?범인은 '뇌'에 있었다?&nbsp;&nbsp;네이트",
+      "summary": "'대상포진 후 신경통, 뇌 연결망 변화와 연관성 밝혀져'&nbsp;&nbsp;edaily.co.kr\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진 후 통증, 왜 오래갈까 … 해운대백병원, 뇌 연결망 변화에서 단서 확인&nbsp;&nbsp;헬스오대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향대상포진 후 통증 오래가는 이유, 뇌 연결망에서 찾았다&nbsp;&nbsp;e-의료정보",
       "sources": [
         {
           "name": "edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT18yLTJCX0xHWnRTTHZPcHRyYVJZZ1VrR1lxS3ZCQnE4MWc3aXlzaDEycUJiSUZGQ04tX1lPRGU1MWRlTFdQODlfVzhCNDhETEstRzQybm5yUEVCZHlnUmI5czZYTVVwSk1WYkJDTWptWWd0T2RpV2toTHRJYlExeA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4856a2a09895",
-      "title": "“장에 좋다며…” 요거트 먹으면 배에 ‘가스’만 더부룩, 이유는 이거였다 - 경향신문",
-      "published": "2026-07-17T23:30:00+00:00",
-      "summary": "“장에 좋다며…” 요거트 먹으면 배에 ‘가스’만 더부룩, 이유는 이거였다&nbsp;&nbsp;경향신문\"장에 좋다더니\"…요거트, 오히려 배 더부룩한 이유&nbsp;&nbsp;뉴시스“가능하면 매일 먹어라”… 병원 갈 일 줄어들게 만든다는 ‘이 과일’, 뭐길래? [헬시타임]&nbsp;&nbsp;MSN사과도 잘 먹어야 보약…잘못된 식습관이 복부 팽만감 유발&nbsp;&nbsp;굿모닝베트남미디어\"장에 좋다며…\" 요거트 먹으면 배에 '가스'만 더부룩, 이유는 이거였다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WNXlXN0dqMm4xaUMyYmozbWxUTTZHcWtDdGpzdXd1eDVFMHA1cGJJOGNHMFo5ejhlWFAtNlBBTDJPTjJtSVYzMjZyVC1kdXk2VnFDNEhQZlVZd9IBX0FVX3lxTE8taThXV0diaTQ4Zi1ZR1V3NVl4UGxPU2x4ZkZ4NlZmZDNEWkkzWEptd1BHa3RSTC1uaUljcDVDNmQ2X19VV1JNTTNJVnFPTnV3LVFtVTVCcGhwUExKMWRJ?oc=5"
         }
       ]
     },
@@ -129,7 +141,7 @@
       "id": "bb75670d2632",
       "title": "[분당서울대병원이 알려주는 의료상식] 여름철 당뇨병 관리…'탈수·과당·발' 세 가지 조심해야 - 네이트",
       "published": "2026-07-17T21:30:00+00:00",
-      "summary": "[분당서울대병원이 알려주는 의료상식] 여름철 당뇨병 관리…'탈수·과당·발' 세 가지 조심해야&nbsp;&nbsp;네이트고혈압 환자, 여름은 '위기의 계절'...\"방심하면 응급실行\"&nbsp;&nbsp;라이프인당뇨 환자도 설탕, 단팥 빙수, 떡, 수박 먹을 수 있나요? / “더우니까 냉동식품 식사?”⋯전자레인지 넣기 전 ‘이것’ 확인해야 / 66세 이미숙, ‘이 운동’ 도전했다가 “집에 가고 싶어”⋯무슨 사연?&nbsp;&nbsp;코메디닷컴\"당뇨 있다면 '이 과일' 조심하세요\" 여름철 혈당스파이크 잡는 법 [건강잇슈]&nbsp;&nbsp;파이낸셜뉴스혈당 관리 땐 ‘에어컨 바람’ 조심… 왜?&nbsp;&nbsp;헬스조선",
+      "summary": "[분당서울대병원이 알려주는 의료상식] 여름철 당뇨병 관리…'탈수·과당·발' 세 가지 조심해야&nbsp;&nbsp;네이트여름철 당뇨병 관리...‘탈수·과당·발’ 세 가지 조심해야 [분당서울대병원이 알려주는 의료상식]&nbsp;&nbsp;한국일보더위에 ‘쑥’ 치솟는 수치…찜통더위 속 혈당 관리 잘 하는 요령&nbsp;&nbsp;코메디닷컴[건강] 복날 보양식, 건강하게 즐기려면…삼계탕·장어구이도 '과식은 금물'&nbsp;&nbsp;굿모닝베트남미디어고혈압 환자, 여름은 '위기의 계절'...\"방심하면 응급실行\"&nbsp;&nbsp;라이프인",
       "sources": [
         {
           "name": "네이트",
@@ -174,18 +186,6 @@
       ]
     },
     {
-      "id": "6e444f17b38d",
-      "title": "고려대학교 바이러스병연구소, 한탄바이러스 발견 50주년 기념 심포지엄 성료 - 더퍼스트미디어",
-      "published": "2026-07-17T09:36:46+00:00",
-      "summary": "고려대학교 바이러스병연구소, 한탄바이러스 발견 50주년 기념 심포지엄 성료&nbsp;&nbsp;더퍼스트미디어고려대 의대, 한탄바이러스 발견 50주년 기념 심포지엄 진행&nbsp;&nbsp;주간한국[7월 15일 병원계 이모저모③]고려대, 강남성심, 서울대, 한국원자력의학원 등 소식&nbsp;&nbsp;medicalworldnews.co.kr세계 최초 한탄바이러스 발견 50년, 미래 감염병 대응 전략 모색&nbsp;&nbsp;네이트고려대 바이러스병연구소... 한탄바이러스 발견 50주년 기념 심포지엄 성료&nbsp;&nbsp;더글로벌기빙뉴스",
-      "sources": [
-        {
-          "name": "더퍼스트미디어",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UUGtRQWRoWkNaSGJPVmM0bFlzeWN0WGJYbThMQ3duSDRWTDdpQVlwYXJwOUpOWlVidUJYVkdvTVYxNG5ScE1ZTkVVRGFCUk1DeTdzNHh5NkpNNUxXVzRuYUZQRkhOWlhpNGszdWZfcFBRQdIBdEFVX3lxTE5FdkVhbVQyajZTQ0xWc0FRT2dLMzBpYURpVThQMWdRdWxGeFV1OXFfWkNKRDc0WXJTQmxKQmpCRUNfcXFDRWxEWnRGWmxBdHNrQnRuYlRfZG9TNllxQjZjNmRuaHg5eHNpam4yRGIwbWxEc2VS?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c93bc3067f09",
       "title": "스텐트 시술 최고 권위자, 심장질환자 '평생 약' 부담 줄인다 - 한국경제",
       "published": "2026-07-17T08:13:59+00:00",
@@ -194,6 +194,18 @@
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aVXR2ck40N0FOQ3ZSazFaTXdjeWNuLWVEWEJMQXh5VDlHYUFCazdjNlpRT09YMlFzb1VGNGVYWTRwZU1IM2tWakRVMDVqTkRQRi1BWlUwblk4QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "657c7e8a620a",
+      "title": "“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니 - 하이닥",
+      "published": "2026-07-17T08:00:00+00:00",
+      "summary": "“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니&nbsp;&nbsp;하이닥근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공”&nbsp;&nbsp;전자신문연구 결과에 따르면 운동은 고혈압 환자의 뇌졸중 위험을 줄이는 데 도움이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqT2dzWTg1MHczRlBkVmEtNWtCUGpmaHg0bjRCbnA0ZjVsNTJfSk9ZdzZyWDNnVWVSckoza3BjM2VQSEUydjNYMXppN2dYczk2STFvZUxZQnBIc3luOFdQZE5QOV9VZnJRUXc?oc=5"
         }
       ]
     },
@@ -210,18 +222,6 @@
       ]
     },
     {
-      "id": "298318a6087e",
-      "title": "근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공” - 전자신문",
-      "published": "2026-07-17T06:50:00+00:00",
-      "summary": "근육만 키우는게 아니었다…“운동이 심장 신경 바꿔 부정맥 치료 단서 제공”&nbsp;&nbsp;전자신문연구 결과에 따르면 운동은 고혈압 환자의 뇌졸중 위험을 줄이는 데 도움이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn“운동하면 심장 신경도 달라져”...10주간 유산소 운동한 쥐 살펴보니&nbsp;&nbsp;하이닥“근육만 강해지는 게 아니었다”…운동이 심장 신경까지 바꾼다&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXZUJ1dFV5UWtCSEVqWVdJT2JzeThweW84Z2VzWG54d2tjSzI1ZHljVVRXUkkwS29YNko0UnNWbmdSREN3YnoyYVg5a1l6Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ac3a4f246504",
       "title": "딥마인드 AI로 백신 설계…감염병 방어 나선다 - 솔루션뉴스",
       "published": "2026-07-17T06:44:45+00:00",
@@ -234,78 +234,6 @@
       ]
     },
     {
-      "id": "f38254931512",
-      "title": "백신접종 뒤 다시 걸리는 돌파감염 걱정 - ABC뉴스",
-      "published": "2026-07-17T02:56:04+00:00",
-      "summary": "백신접종 뒤 다시 걸리는 돌파감염 걱정&nbsp;&nbsp;ABC뉴스",
-      "sources": [
-        {
-          "name": "ABC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zY3FES0hwV2QyanQ1TlRZMF9ubHpNM214eTdWWUkxTTcxZE1BYXkyOFVKazR5U0ozbXBVZ3VjUTB6UXRES1h0anJ6UmlfYzVfSFlxeDBibUlrclFfVm05OHpWY9IBZ0FVX3lxTFBDNldHb0g5Mmc4dnRtNDR4ZmVxcmF6YzFpaVU1N3FJZFRrOUZ6VzhMOVZTbVZlbFRIX05RTzZmdXdJcmdUanMtbFJuTDc1VU9KM2dWNU1PTEpJY3JqWUFKLWIzYVdGUE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2eabb95385fc",
-      "title": "어릴 때 ADHD 진단받았다면… 성인기 뇌전증·정신질환 위험 높아진다 - 하이닥",
-      "published": "2026-07-17T02:30:00+00:00",
-      "summary": "어릴 때 ADHD 진단받았다면… 성인기 뇌전증·정신질환 위험 높아진다&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SejhFSzB0VGNXNkdXTEpLNG9GNTRHNGlKbll6c2laTUhCOXFRS3hZZ2NQNU5rX09RcTVlcUFBTnJHSV9FT0tVY2FSTEtVOEtmbzUtMFRRVEd0emZrY2Zsdno1Rnhvd1VpNVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0fccec3b139",
-      "title": "'PSA 수치 높다고 전립선암 확진은 아니다?' - edaily.co.kr",
-      "published": "2026-07-17T00:13:02+00:00",
-      "summary": "'PSA 수치 높다고 전립선암 확진은 아니다?'&nbsp;&nbsp;edaily.co.kr[임상명의를 찾아서]김재헌 순천향대병원 비뇨의학과 교수 “전립선암, 덜 치료할 환자와 더 치료할 환자 가려야”&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelNRQjhzSG5ZRHdOXzgyaW5IYjJxb0d5VzhCdmVJTE1SUVZiaFpnVk9mbHJjMGJjTFBtODl5QlhtOGVrU3RDanQ1QlJxWDNhRlRnemF2SWhLRTFIQXJVMWFwdHdZOFRubHFGckRSd2tFbWZCRGF3VVhrUUQ1S1lxUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c4a6dd6370b8",
-      "title": "스마트폰이 위험 높인다고?…암 예방과 치유를 방해하는 가짜 정보들 - 코메디닷컴",
-      "published": "2026-07-17T00:05:00+00:00",
-      "summary": "스마트폰이 위험 높인다고?…암 예방과 치유를 방해하는 가짜 정보들&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9aSzVZdGFINWxvYXNsREJRa0dBYllnR2xROGIzQzRGVEx1dVdVQ0dXc2paN29hM0V3U0tfWC1BYkJ4dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "15c256eeca66",
-      "title": "출산 후 3년 이내 ‘이 암’ 진단받은 女⋯“종양 더 공격적인 형태” - 코메디닷컴",
-      "published": "2026-07-16T23:03:00+00:00",
-      "summary": "출산 후 3년 이내 ‘이 암’ 진단받은 女⋯“종양 더 공격적인 형태”&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tZmdUNThVVHFpVHRwR09OQV96Mlh3QWt1aEZ1YUxyWDRBMlVXMWJDcXhwRGdCQkhnY08tQ01Ra1lhUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e590e07404b4",
-      "title": "양압기 치료, 성인 ADHD 환자 집중력 향상에 도움 된다 - edaily.co.kr",
-      "published": "2026-07-16T22:42:02+00:00",
-      "summary": "양압기 치료, 성인 ADHD 환자 집중력 향상에 도움 된다&nbsp;&nbsp;edaily.co.kr",
-      "sources": [
-        {
-          "name": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSFFia1F2R09wVXlrb1FxbVNQY1FxVmpHekt6LUZVQXhfOHI1UUZqQUlHMkZKbi1GdjFlTUw3WXAzZER2Znp1NXRzYVhZYTFWLWRkczVsdjUybmNCZzNacklCak8wUmFMUHRydlZnanBRMnN6UXdHNlVlYlJVM3pVUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5fd386f99442",
       "title": "\"해외 인재 600명 유치하고 비수도권 연구자 억대 지원\" - 머니투데이 - 머니투데이",
       "published": "2026-07-16T04:02:52+00:00",
@@ -314,30 +242,6 @@
         {
           "name": "머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JX1FwQ05TTlZnZzJUdFZHel9uNjRtTW9UYzY2dkxxUE9leF9zVUhyZ0Y5dzNCZG5mSnczVW5zMWRwOGxEUFRrdE1kUDg3LWFibkNlaFJmX3pQVTBvdEJXWF9LcW96b2PSAWxBVV95cUxNYWhQS190SzdjNjNad0VzaHJBVVIxaWpyYkw5WE0tVHhqSTIzZW4tTEVRRjAtb0FOWHpYbFptYmQzWE1vWHh0X3lhRjFMX2lEYjlQbkFTTTlER2JYTzVhNHVVOUtWdDRPVms0ZGE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02b574088f2e",
-      "title": "이공계 혁신 이끌 주관대학 선정…실전 인재·기초연구 생태계 조성 - 뉴스1",
-      "published": "2026-07-16T03:00:00+00:00",
-      "summary": "이공계 혁신 이끌 주관대학 선정…실전 인재·기초연구 생태계 조성&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JNk9hN1pfZzItWlI5RlE0a3BMbGhBSXFBY1Bwb3dEelJHYVBubTlWUE1oZU5EdlBta0JtUHNGejR4djFjdExXZEw3MFVic3lKTW5xRTNOM1dPYktqd3ppa2Y0UmE1Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4582f2d773a8",
-      "title": "아리바이오 \"임상 2상서 AR1005 루이소체 치매 치료가능성 확인했다\" - 한국경제",
-      "published": "2026-07-15T23:15:23+00:00",
-      "summary": "아리바이오 \"임상 2상서 AR1005 루이소체 치매 치료가능성 확인했다\"&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SVVZ1blgyd25oQ28xZWkzYk9yYVZqbkp5aFJUTVQtV1VhTEZIM25seEYzUGV5X2dWNlMwTXh3ODhwSWZHWHMzLXNUUS02UF92b2RFQzlPelZNUQ?oc=5"
         }
       ]
     }
