@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-19T13:23:00.847504+00:00",
-  "total_fetched": 42,
-  "unique_count": 42,
-  "health_related_count": 16,
+  "fetched_at": "2026-07-19T19:10:09.581225+00:00",
+  "total_fetched": 45,
+  "unique_count": 45,
+  "health_related_count": 18,
   "news": [
+    {
+      "id": "9e7f352cde40",
+      "title": "암 치료 중 많이 하는 질문(18) 항암 중 피부 트러블...미백화장품ㆍ선크림 발라도 될까? - 캔서앤서",
+      "published": "2026-07-19T12:23:06+00:00",
+      "summary": "암 치료 중 많이 하는 질문(18) 항암 중 피부 트러블...미백화장품ㆍ선크림 발라도 될까?&nbsp;&nbsp;캔서앤서",
+      "sources": [
+        {
+          "name": "캔서앤서",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fOHg5TU82SHdBNm9ZQkNxLWtVOEx0TXFGVkxERzJsMEVYVjc4aG5XVnE3X2YzbzlXLTFnd0JXSzRvQTFqekc0Ri10QUZzZ3dxT0Fxa21mcU9CR2M5MlVVaElMMnRmZV9ud2NFZWlDUXY?oc=5"
+        }
+      ]
+    },
     {
       "id": "040788ade998",
       "title": "저녁 늦게 먹는 습관, ‘이 암’ 위험 높인다?⋯“음식보다 중요한 건 시간” - 코메디닷컴",
@@ -38,6 +50,18 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYm9NMVY1YncyUmRHSlMxbGF2akxYczF0UXcwQjQtUnBhbFdRSGZxc29uWGZjY1lhaUxYdGhNRkNKa0RGekt6WWlCV3VCWTUtQlY3cGdLVWRzLWxjT1h5SGZrR0R6T05OaDRDUVNJTkp0SVNvWVluRVNjOVlUbHNyLUtISm92MFpuSHNaOVNEOFpPTFJCV1ZLRUFqdmJSdFZiaVpoV0d6cWJobkRNUVkxSnpOSDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "785f896f1e45",
+      "title": "콩고민주공화국 숲속에 '숨어 있던' 주황색 입술을 가진 새로운 원숭이 종 발견 - BBC",
+      "published": "2026-07-19T03:20:27+00:00",
+      "summary": "콩고민주공화국 숲속에 '숨어 있던' 주황색 입술을 가진 새로운 원숭이 종 발견&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuVm8wWU5adEdEQzd1dHNRYU1EellKcHpRWThSbE9xXzlJT1RTMFprTkExVl8zYzIybjFOdC03OUpxRXdKRlVaWmZzSzhuU0o2TDJ0dEthTUFnTF9S0gFiQVVfeXFMTUpwOXcyZVFpZ2hyT05YV3Y1SkdJOFVrbUt0X215ZTRCTUNEYUJZc2pka2gyWHppaWR2VUZxWUJWbVNPUWoyRDhhZUJiVWZNZjVjdGQtcUVNQ002RGQ1VzdqbWc?oc=5"
         }
       ]
     },
@@ -78,14 +102,26 @@
       ]
     },
     {
-      "id": "fe62cdb4a42a",
-      "title": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계] - 동아일보",
-      "published": "2026-07-18T10:00:00+00:00",
-      "summary": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계]&nbsp;&nbsp;동아일보\"가난할수록 살이 찐다\"…중년 비만의 구조를 추적하다&nbsp;&nbsp;v.daum.net“당신이 알던 몸은 30대에 끝났다”&nbsp;&nbsp;독서신문[하루건강] 점점 뚱뚱해지는 20~40대… 고도 비만, 10년 새 3배 늘었다&nbsp;&nbsp;한국일보“마흔에 찌는 살은 ‘나잇살’ 아니라 ‘질병’이다” [동아닷컴 금주의 신간]&nbsp;&nbsp;v.daum.net",
+      "id": "b37db90412f5",
+      "title": "치매 무서운 사람들, 식탁에 올릴 ‘7가지’ 식품 - 헬스조선",
+      "published": "2026-07-18T09:03:00+00:00",
+      "summary": "치매 무서운 사람들, 식탁에 올릴 ‘7가지’ 식품&nbsp;&nbsp;헬스조선“몸에 좋은 줄 알았는데…” 알고 보니 치매 위험 높이는 음식이었습니다.&nbsp;&nbsp;MSN",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83c0pMWXlqN0xqOEhvNlVham4wb0hLQk42OUpaZFJlYmVMMmVWcDFVVmN5TGZMQXFWaElJVnNfWjRDTFRPb3A4WUVIdW1fUDZLNGNoZlk4ZWc3Z2kxV2FycmdkNVVqdlhucy1XYmFpSdIBZkFVX3lxTE1fVElwMUJFLWd2M2VhVkIxTTRKd0s3SzdCWUQ2cVBPcnBIOWtTZGM2Z0p6Z2FFbTRZWGJTWEwyWjNLRl9PYzgtTUp4ajlQWGNBOGtFX01xb2dDaGc4blNFdHo1UkVYQQ?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSYkNwT1M4cmFxTG1Ld2dkR1NRQm9JdnZPZG5ueDZUaldjSFdRaVN0bXNWZDR6d2h2NVdSOVRLWnVHcDNRenY5UWQyR1NkaUI1QWhqWGdtYm1QUDFDRldHbnVxUnAxNjAyUXFraVNDWUpaQ2JOdTFZZ1FSZlc0WFk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f52d6456dcbc",
+      "title": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다 - 코메디닷컴",
+      "published": "2026-07-18T08:03:00+00:00",
+      "summary": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다&nbsp;&nbsp;코메디닷컴2050년 전 세계 암 환자 3500만 명 전망…5명 중 1명 걸린다&nbsp;&nbsp;네이트전 세계 암 사망 970만명… 아시아가 절반 이상 차지&nbsp;&nbsp;매일일보2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUSFpMQUpESjlNNEY0SGdlbnlsT3hhN05SWE1iZnVqZ3E5LVFidHRmR0hwZ0xUZ01RYVNwVDVBYzUtZw?oc=5"
         }
       ]
     },
@@ -126,18 +162,6 @@
       ]
     },
     {
-      "id": "c3185e37c873",
-      "title": "전 세계 암 사망 970만명… 아시아가 절반 이상 차지 - 매일일보",
-      "published": "2026-07-18T00:57:49+00:00",
-      "summary": "전 세계 암 사망 970만명… 아시아가 절반 이상 차지&nbsp;&nbsp;매일일보2050년 전 세계 암 환자 3500만 명 전망…5명 중 1명 걸린다&nbsp;&nbsp;네이트2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스",
-      "sources": [
-        {
-          "name": "매일일보",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LblJhdjZjdGJsU3NuODgxUV9SUmxqZ1I5bGVHWnBheGVuTG4zMjhuOVdVQm9xTFBJUVBVOWFGVlBJLVdVZFVPSzFtZEVtNUFSY1ZsZ2oyWHc3SDhHT2F6U2FTLUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "85a3539718e3",
       "title": "우주서 첫 엑스레이 촬영…\"우주인 건강관리 새 길 열렸다\" [우주로 간다] - 지디넷코리아",
       "published": "2026-07-18T00:33:05+00:00",
@@ -162,14 +186,14 @@
       ]
     },
     {
-      "id": "d7cd57bb8402",
-      "title": "“매운맛 즐기다가 식도암 위험 높아진다?”…고추 많이 먹는 사람, 발생 위험 약 3배 - 코메디닷컴",
-      "published": "2026-07-17T22:05:00+00:00",
-      "summary": "“매운맛 즐기다가 식도암 위험 높아진다?”…고추 많이 먹는 사람, 발생 위험 약 3배&nbsp;&nbsp;코메디닷컴",
+      "id": "b495c61679c1",
+      "title": "\"매운맛 즐기다가 식도암 위험 높아진다?\"…고추 많이 먹는 사람, 발생 위험 약 3배 - 네이트",
+      "published": "2026-07-17T22:07:00+00:00",
+      "summary": "\"매운맛 즐기다가 식도암 위험 높아진다?\"…고추 많이 먹는 사람, 발생 위험 약 3배&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nVEJvdjJnNmNydlNmeks2S2tHX3FuMEZZVmhyVDhFR0s0a0lzV2VZTC1LelQ4Skk2U1Fsc2NycjFPdw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5meXg2aG01WVpFZm9nY3hrVlNfY1lvcHgzdHVZSk9MZGFKM2ttVGJlTExDWjNMQ3ZhNVdRRmdWV3FVeVg4UlBDaUY1bEVOZTVZMEtF?oc=5"
         }
       ]
     },
@@ -177,7 +201,7 @@
       "id": "ce0cda5ea717",
       "title": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식' - 전자신문",
       "published": "2026-07-17T21:00:00+00:00",
-      "summary": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문“현미보다 좋다”… 혈당·콜레스테롤 가장 잘 잡는 ‘1등 통곡물’은?&nbsp;&nbsp;헬스조선“밥 먹고 ‘이 행동’ 제발 피하세요”… 약사가 꼽은 ‘최악의 혈당 습관’&nbsp;&nbsp;코메디닷컴\"아침엔 이것부터\"…배종옥이 밝힌 혈당 관리 식사법&nbsp;&nbsp;뉴시스\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트",
+      "summary": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문“공복에 절대 먹지 마세요”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선“밥 먹고 ‘이 행동’ 제발 피하세요”… 약사가 꼽은 ‘최악의 혈당 습관’&nbsp;&nbsp;코메디닷컴\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트“간편해서 아침에 매일 먹었는데”…공복에 먹으면 혈당 무섭게 올라간다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제",
       "sources": [
         {
           "name": "전자신문",
