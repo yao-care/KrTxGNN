@@ -1,19 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-20T09:19:24.778257+00:00",
-  "total_fetched": 73,
-  "unique_count": 73,
+  "fetched_at": "2026-07-20T14:11:34.611756+00:00",
+  "total_fetched": 74,
+  "unique_count": 74,
   "health_related_count": 38,
   "news": [
     {
-      "id": "57cb5865ba1f",
-      "title": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\" - 조선일보",
-      "published": "2026-07-20T09:01:00+00:00",
-      "summary": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\"&nbsp;&nbsp;조선일보“커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요” - 조선비즈&nbsp;&nbsp;Chosunbiz하루 커피 5잔까진 심장에 괜찮다는데…에너지음료는 1캔도 위험 [달콤한 사이언스]&nbsp;&nbsp;서울신문[SDG 3] 커피, 간 건강 지키는 새로운 열쇠 될까…간경변·간암 위험 최대 47% 낮춰&nbsp;&nbsp;SDG뉴스커피의 항노화 비밀 찾았다…세포 내 '방어 스위치' 켜 인체 보호&nbsp;&nbsp;프리진경제",
+      "id": "799727044d8c",
+      "title": "\"혈당 오를까 봐 참았는데\"…아이스크림 뜻밖의 효과에 깜짝 [건강!톡] - 한국경제",
+      "published": "2026-07-20T12:16:29+00:00",
+      "summary": "\"혈당 오를까 봐 참았는데\"…아이스크림 뜻밖의 효과에 깜짝 [건강!톡]&nbsp;&nbsp;한국경제'살찌는 음식' 아이스크림의 반전…\"당뇨 위험 더 낮았다\" - 머니투데이&nbsp;&nbsp;머니투데이\"아이스크림 먹는 사람이 당뇨 위험 낮았다?\"…'아이스크림 역설' 뭐길래&nbsp;&nbsp;뉴시스\"요거트-제로라 안심했는데?\"…아이스크림 고를 때 '이것' 확인하세요&nbsp;&nbsp;네이트미국의 저명한 암 전문가가 수명 연장을 위해 아이스크림을 먹을 것을 권장했습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHNlYVcwVi0tQnRQclJtcFp1MEd0d2VvSmFERjl4S0xvTy1VZDNsR01TZFhuQlNjMUZ0V0hYQ1QwbTZkRVlvbnZvdEgtbEp2SldibTdGVkhzbVV1b3RjdkMxUG5tTFRudHlCM1EzdTREWWlBUTRneklWbkJuMGkyekJ3NA?oc=5"
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43b0wtX0VWR0tiWTQ0UEtReDIyMUJTZzc4OTU2Q3M4QUVGai1YR1BHaS1RRTBZMjB1SUd4bFE3SURuaGxfTUtuZlJfc1gzWFQ3dXFPNTN5UGVCQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "732084176508",
+      "title": "“대상포진 후 신경통, 뇌 연결망 변화와 관련될 수도” - 국제신문",
+      "published": "2026-07-20T09:53:00+00:00",
+      "summary": "“대상포진 후 신경통, 뇌 연결망 변화와 관련될 수도”&nbsp;&nbsp;국제신문\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향대상포진 나았는데도 찌릿찌릿⋯범인은 ‘뇌’에 있었다?&nbsp;&nbsp;코메디닷컴대상포진 후 통증 오래가는 이유, 뇌 연결망에서 찾았다&nbsp;&nbsp;e-의료정보",
+      "sources": [
+        {
+          "name": "국제신문",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVnZ5TFQyZ1FnOWtlei0zSDNMcTdjVEt2Z080cjJCbWpvTlJPcTZER211RGNqUnRxeTNTUnBCOHBLMnhLajRrV1NIaWRTcHNZQ3RSMkRuZlJMclhEOGtDTTBWWDBkdkZLYTRhRUJuMmJvRnZiTjVYTi12bFRicGRkNFBxVFRvSGZuU1BWeGF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df8bfcde915d",
+      "title": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\" - 네이트",
+      "published": "2026-07-20T09:02:00+00:00",
+      "summary": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\"&nbsp;&nbsp;네이트美심장협회 \"커피 하루 3~5잔 괜찮다… 카페인 많은 에너지 음료는 위험\"&nbsp;&nbsp;조선일보하루 커피 5잔까진 심장에 괜찮다는데…에너지음료는 1캔도 위험 [달콤한 사이언스]&nbsp;&nbsp;서울신문커피, 약일까 독일까...美심장협회 \"하루 3~5잔까지 안전\"&nbsp;&nbsp;v.daum.net[SDG 3] 커피, 간 건강 지키는 새로운 열쇠 될까…간경변·간암 위험 최대 47% 낮춰&nbsp;&nbsp;SDG뉴스",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MdlBSMXp4bktPNGlRc1FYQUZ2OTlyQkQzaEZIdzdsOGpoYXA1aXZINHJlY3p4MFFUM3o1SnZzRXpOeHBjdWE0LUt2Q2NrWkdiR3dERnZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf760cf6d355",
+      "title": "제로칼로리 감미료, '이것'과 만나면 장 건강 해칠 수 있다 - 뉴시스",
+      "published": "2026-07-20T09:00:00+00:00",
+      "summary": "제로칼로리 감미료, '이것'과 만나면 장 건강 해칠 수 있다&nbsp;&nbsp;뉴시스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0anNSbXhsYnZPcUdlRnVPcGxCanA3NVJyVlFiOVFIZ2FhLUJueDZvUXB2X29FdVBUSkFrbE9KX3hvbVZncXpBQVV2eDBCcksxQ1lNVmxSWGpUTmEtRTQtMExn?oc=5"
         }
       ]
     },
@@ -66,10 +102,10 @@
       ]
     },
     {
-      "id": "9d9da6b1e77b",
-      "title": "10만km 혈관 건강, 식탁 위 작은 씨앗 '아마씨'에 주목하는 이유 - 뉴스티앤티",
+      "id": "d67391694ac1",
+      "title": "[정구성의 건강칼럼] 10만km 혈관 건강, 식탁 위 작은 씨앗 '아마씨'에 주목하는 이유 - 뉴스티앤티",
       "published": "2026-07-20T05:08:23+00:00",
-      "summary": "10만km 혈관 건강, 식탁 위 작은 씨앗 '아마씨'에 주목하는 이유&nbsp;&nbsp;뉴스티앤티“혈관 건강해진다”… 영양사 추천 ‘최고의 간식’은?&nbsp;&nbsp;헬스조선",
+      "summary": "[정구성의 건강칼럼] 10만km 혈관 건강, 식탁 위 작은 씨앗 '아마씨'에 주목하는 이유&nbsp;&nbsp;뉴스티앤티“혈관 건강해진다”… 영양사 추천 ‘최고의 간식’은?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "뉴스티앤티",
@@ -105,7 +141,7 @@
       "id": "78ce2e50610d",
       "title": "호치민시에서 뎅기열 환자 급증 - Laodong.vn",
       "published": "2026-07-20T03:30:00+00:00",
-      "summary": "호치민시에서 뎅기열 환자 급증&nbsp;&nbsp;Laodong.vn열이 없다는 것은 뎅기열의 위험한 시기가 지났다는 것을 의미할까요?&nbsp;&nbsp;Vietnam.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 예방 및 관리: '방어막'은 각 가정에서 시작됩니다.&nbsp;&nbsp;Vietnam.vn한 학생이 뎅기열에 감염되어 지방 당국이 긴급히 질병 예방 조치를 시행하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "호치민시에서 뎅기열 환자 급증&nbsp;&nbsp;Laodong.vn열이 없다는 것은 뎅기열의 위험한 시기가 지났다는 것을 의미할까요?&nbsp;&nbsp;Vietnam.vn디지털 기술을 활용하여 전염병을 통제하고 퇴치합니다.&nbsp;&nbsp;Vietnam.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn한 학생이 뎅기열에 감염되어 지방 당국이 긴급히 질병 예방 조치를 시행하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -258,18 +294,6 @@
       ]
     },
     {
-      "id": "7c45d910d4be",
-      "title": "“공복에 절대 먹지 마세요”… 의사 경고한 ‘의외의 음식’ - 헬스조선",
-      "published": "2026-07-19T16:00:00+00:00",
-      "summary": "“공복에 절대 먹지 마세요”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선“아침 굶으면 살 빠진다?” …전문가 “오히려 당뇨 위험만 높인다”&nbsp;&nbsp;v.daum.net혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트혈당·콜레스테롤 동시에 잡았다 의사들이 식탁에 올리는 '이 곡물'&nbsp;&nbsp;용인신문",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ySEV5X3VSdmhlanl5QjZ0NVhzNUVhQU9fR3pma1Q3WXlQeXZnTjNrYUttVjBuSW9YVl9sOExHMVRNZTVTblVfTTFkZzJSQTl6SmdwbkEzazhKQ0RhQk81MVhKeFI5T01NbXFnRFA1X2VoUkxwaDBUd0pFZkUtd1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "92e83d8ec8e2",
       "title": "[이정범의 응급의학 가이드] “가장 공격적인 폐암”… 소세포성 폐암 ② - 한국보험신문",
       "published": "2026-07-19T15:00:00+00:00",
@@ -318,14 +342,14 @@
       ]
     },
     {
-      "id": "10eca9b98847",
-      "title": "그저 ‘적당한’ 세계가 온다 [이대한의 낭만연구실] - 한겨레",
-      "published": "2026-07-19T09:34:00+00:00",
-      "summary": "그저 ‘적당한’ 세계가 온다 [이대한의 낭만연구실]&nbsp;&nbsp;한겨레",
+      "id": "0512e16026a0",
+      "title": "[시민기자] 내 발로 걷는 골다공증 예방법 - 국제신문",
+      "published": "2026-07-19T09:55:00+00:00",
+      "summary": "[시민기자] 내 발로 걷는 골다공증 예방법&nbsp;&nbsp;국제신문[의학칼럼] '소리없는 뼈 도둑' 고위험 골다공증, 골형성촉진제 치료가 도움&nbsp;&nbsp;헬스조선기침 한 번에 척추뼈 6개 뚝…'도미노 골절' 부르는 골다공증 주의보&nbsp;&nbsp;v.daum.net단단함의 조건, 뼈도 관리가 필요하다&nbsp;&nbsp;Vogue korea\"골절은 갑자기 오지 않는다\"…50세 이상 2명 중 1명 '골감소증' 위험&nbsp;&nbsp;매경헬스",
       "sources": [
         {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FbHFRMFBKXzFZOWJ2VUtxOENjRmxMWUlkdFBOQWxfaUtrbnRzRGx6UTJKWWxmTzJyVzFvYWlCUF9rQV9mRlJIT3YwV2xYbXcwOS1GX21uS1RCRDYwYnBEekR6cEJLdw?oc=5"
+          "name": "국제신문",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVXFZVW5rVEFwMUtxRzdkN3JlY1M2MGxFS21mLTJncTVkYUlCNnhWdXhzY3hoY3JQcWd5Y0Q5aGVRMjNOZHl2Q25UcXJzS1ZwTFNxeVJfSnpCYUZfREItRlNBQjFyREpUTGVseTJXcDBXYmVDTHVOTk9tbFhsWVJBRkZzRDNZcTloOXZrQTdB?oc=5"
         }
       ]
     },
@@ -350,18 +374,6 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kc2RiUGJrWTh2U1h2OWcwVElpYVNSNVY2VXFxbEo0RS03MWg0RGhJRU9taXl6aVBETWlkWVJzZDRsTHRFYk9yV05OdnU0MEtZNkdCUVRn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "785f896f1e45",
-      "title": "콩고민주공화국 숲속에 '숨어 있던' 주황색 입술을 가진 새로운 원숭이 종 발견 - BBC",
-      "published": "2026-07-19T03:20:27+00:00",
-      "summary": "콩고민주공화국 숲속에 '숨어 있던' 주황색 입술을 가진 새로운 원숭이 종 발견&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuVm8wWU5adEdEQzd1dHNRYU1EellKcHpRWThSbE9xXzlJT1RTMFprTkExVl8zYzIybjFOdC03OUpxRXdKRlVaWmZzSzhuU0o2TDJ0dEthTUFnTF9S0gFiQVVfeXFMTUpwOXcyZVFpZ2hyT05YV3Y1SkdJOFVrbUt0X215ZTRCTUNEYUJZc2pka2gyWHppaWR2VUZxWUJWbVNPUWoyRDhhZUJiVWZNZjVjdGQtcUVNQ002RGQ1VzdqbWc?oc=5"
         }
       ]
     },
@@ -405,7 +417,7 @@
       "id": "ba1f02094334",
       "title": "“대화는 되지만 노래는 어렵게”… 걷기 운동 효과 높이는 ‘최적 속도’는? - 헬스조선",
       "published": "2026-07-18T22:00:00+00:00",
-      "summary": "“대화는 되지만 노래는 어렵게”… 걷기 운동 효과 높이는 ‘최적 속도’는?&nbsp;&nbsp;헬스조선러닝머신 속도 ‘이 정도’로 해놓고 걸었더니…당뇨병 막는 효과 탁월&nbsp;&nbsp;코메디닷컴매일 못 걸어도 괜찮아…‘주말 운동족’도 장수 효과&nbsp;&nbsp;레이디경향매주 근력 운동, 사망 위험 낮아져…연구&nbsp;&nbsp;네이트새로운 연구 결과: 건강한 삶을 위해 하루 1만 보를 걸을 필요는 없습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "“대화는 되지만 노래는 어렵게”… 걷기 운동 효과 높이는 ‘최적 속도’는?&nbsp;&nbsp;헬스조선매일 못 걸어도 괜찮아…‘주말 운동족’도 장수 효과&nbsp;&nbsp;레이디경향러닝머신 속도 ‘이 정도’로 해놓고 걸었더니…당뇨병 막는 효과 탁월&nbsp;&nbsp;코메디닷컴매주 근력 운동, 사망 위험 낮아져…연구&nbsp;&nbsp;네이트새로운 연구 결과: 건강한 삶을 위해 하루 1만 보를 걸을 필요는 없습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "헬스조선",
@@ -414,26 +426,14 @@
       ]
     },
     {
-      "id": "b37db90412f5",
-      "title": "치매 무서운 사람들, 식탁에 올릴 ‘7가지’ 식품 - 헬스조선",
-      "published": "2026-07-18T09:03:00+00:00",
-      "summary": "치매 무서운 사람들, 식탁에 올릴 ‘7가지’ 식품&nbsp;&nbsp;헬스조선“몸에 좋은 줄 알았는데…” 알고 보니 치매 위험 높이는 음식이었습니다.&nbsp;&nbsp;MSN",
+      "id": "cba1fb9e1885",
+      "title": "장마에 높아진 집안 습도…'이 질환' 조심하세요 - 네이트",
+      "published": "2026-07-18T16:02:00+00:00",
+      "summary": "장마에 높아진 집안 습도…'이 질환' 조심하세요&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSYkNwT1M4cmFxTG1Ld2dkR1NRQm9JdnZPZG5ueDZUaldjSFdRaVN0bXNWZDR6d2h2NVdSOVRLWnVHcDNRenY5UWQyR1NkaUI1QWhqWGdtYm1QUDFDRldHbnVxUnAxNjAyUXFraVNDWUpaQ2JOdTFZZ1FSZlc0WFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f52d6456dcbc",
-      "title": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다 - 코메디닷컴",
-      "published": "2026-07-18T08:03:00+00:00",
-      "summary": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다&nbsp;&nbsp;코메디닷컴2050년 전 세계 암 환자 3500만 명 전망…5명 중 1명 걸린다&nbsp;&nbsp;네이트2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBUSFpMQUpESjlNNEY0SGdlbnlsT3hhN05SWE1iZnVqZ3E5LVFidHRmR0hwZ0xUZ01RYVNwVDVBYzUtZw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mVEtTWkxzbjB4MVdieWxBbWpkOGpHVG83UllOU3Awd2ZOY0xlMnM0VmpFaHRrQTh5amk3QVRXOExLWUhyaXdwMWpfX0NnQUhQeFFJ?oc=5"
         }
       ]
     },
