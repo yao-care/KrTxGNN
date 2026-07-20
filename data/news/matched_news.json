@@ -1,52 +1,169 @@
 {
-  "last_updated": "2026-07-20T03:27:38.146307+00:00",
-  "total_count": 32,
+  "last_updated": "2026-07-20T09:19:24.898784+00:00",
+  "total_count": 38,
   "matched_count": 0,
   "news": [
     {
-      "id": "1a8828393339",
+      "id": "57cb5865ba1f",
+      "title": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\"",
+      "published": "2026-07-20T09:01:00+00:00",
+      "summary": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\"&nbsp;&nbsp;조선일보“커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요” - 조선비즈&nbsp;&nbsp;Chosunbiz하루 커피 5잔까진 심장에 괜찮다는데…에너지음료는 1캔도 위험 [달콤한 사이언스]&nbsp;&nbsp;서울신문[SDG 3] 커피, 간 건강 지키는 새로운 열쇠 될까…간경변·간암 위험 최대 47% 낮춰&nbsp;&nbsp;SDG뉴스커피의 항노화 비밀 찾았다…세포 내 '방어 스위치' 켜 인체 보호&nbsp;&nbsp;프리진경제",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHNlYVcwVi0tQnRQclJtcFp1MEd0d2VvSmFERjl4S0xvTy1VZDNsR01TZFhuQlNjMUZ0V0hYQ1QwbTZkRVlvbnZvdEgtbEp2SldibTdGVkhzbVV1b3RjdkMxUG5tTFRudHlCM1EzdTREWWlBUTRneklWbkJuMGkyekJ3NA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2b3730dea6a3",
+      "title": "“치매 발병률 뚝”이라는데…발생률·유병률 따져보니",
+      "published": "2026-07-20T08:44:59+00:00",
+      "summary": "“치매 발병률 뚝”이라는데…발생률·유병률 따져보니&nbsp;&nbsp;디멘시아뉴스[만물상] 이길 수 있는 병, 치매&nbsp;&nbsp;조선일보치매와의 전쟁, 희망 보이나…예방의학이 바꾼 40년&nbsp;&nbsp;v.daum.net치매 발병률 빠른 감소… 퇴치도 더는 꿈이 아니다 [PADO] - 머니투데이&nbsp;&nbsp;머니투데이\"치매 최대 45% 막을 수 있다\"…WHO가 공개한 예방법 8가지&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HTGFyUFJqOUhCdlVUOEZPQS1LNDVDT1RxLXd4NERMTWdDMlFEd3EwRXJ1YzZza1lwVHY0eUpBVTRTaC14UHdJX1JXQ2pwQWE4RFk5bEhLbGQtQldIMW51UnhHYy01UlljRzBZX3Jfa05OQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "70249bef10dd",
+      "title": "“살만 빠지는 게 아니었네”…비만약, 몸 노화 속도도 늦춘다고?",
+      "published": "2026-07-20T08:03:00+00:00",
+      "summary": "“살만 빠지는 게 아니었네”…비만약, 몸 노화 속도도 늦춘다고?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9SNmd4eVoxOGN4Z3hWQlpmQVk1VzlYUjctZGIyMUhkcHFCd1RsM0hVX2lUbVc2NEZ2R2w5NU9INVQ0Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "70e9f19fd90a",
+      "title": "주 4회 이상 사우나 이용시, 치매 위험 66% 낮아진다?…연구",
+      "published": "2026-07-20T05:11:00+00:00",
+      "summary": "주 4회 이상 사우나 이용시, 치매 위험 66% 낮아진다?…연구&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DS055UTRhSkVvc2tfYmI2Uy1feGExMGYwZzIwdkgwT1dlWktjZGtpRl9OV2RjcEl6QkZVbTlLSUk1Z3FYcGVZZjF4RDRZODk1NW9BMU1IT2dWRGpEcVRSQThxRzh6M0Q5RThzbHZoSHZSeVk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "825036413635",
+      "title": "산모 비타민D 부족, 태아 면역까지 흔든다…장내 미생물까지 대물림",
+      "published": "2026-07-20T05:10:00+00:00",
+      "summary": "산모 비타민D 부족, 태아 면역까지 흔든다…장내 미생물까지 대물림&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GWkhSWldzb2J5V2xmM3BhRVpDbUdBREpOWWx0cl9IREgzdGtjajFjZ3dGVlpNUWExTGUzVFg4azZONVM1cG00WDNkTndHSk9FT3Y5YUFSR0pNaUpycjNXMFpvY0h0VXZHWDliUndIYW5idXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9d9da6b1e77b",
+      "title": "10만km 혈관 건강, 식탁 위 작은 씨앗 '아마씨'에 주목하는 이유",
+      "published": "2026-07-20T05:08:23+00:00",
+      "summary": "10만km 혈관 건강, 식탁 위 작은 씨앗 '아마씨'에 주목하는 이유&nbsp;&nbsp;뉴스티앤티“혈관 건강해진다”… 영양사 추천 ‘최고의 간식’은?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "뉴스티앤티",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03T3hlVlRBOUs0RXFfd3VoTjdxQ3ROQ3ZvUExOWjFydjNjS0VpS1dwRXBkWTIwZFVHV0ZzaFozSHlTZnFNYUFyREktQjhScjl4RDFiSzZMc2lOdkQxQk9JS3hEeFhaOVFiRnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c33f0ecd4391",
+      "title": "여름 감기라는 오해? 냉방병 증상과 치료방법 속 숨겨진 면역 지침의 반전",
+      "published": "2026-07-20T05:04:45+00:00",
+      "summary": "여름 감기라는 오해? 냉방병 증상과 치료방법 속 숨겨진 면역 지침의 반전&nbsp;&nbsp;한국공공정책신문\"냉방병인 줄 알았는데\"… 코막힘 오래가면 축농증 의심해봐야 [김수연의 헬스업]&nbsp;&nbsp;v.daum.net어? 이건 뭐지?- 사진으로 보는 이비인후 질환 > 뉴스&nbsp;&nbsp;한의신문장마철 비부비동염: 오래 지속되는 코막힘을 과소평가하지 마세요.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "한국공공정책신문",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE84Qk1jNndIT2lBUnBPUHcwUFo0ajNJbEp3ZkRjWkNTZWRBaGstenVFd1JXbTJqOXFwWUgtMjF5c2UwaWM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a89c13155bb7",
+      "title": "[도관스님 기공(氣功)⑩] 위암(胃癌)극복 기(氣)운행...화안·방하착·기공치료 면역력 강화",
+      "published": "2026-07-20T04:21:09+00:00",
+      "summary": "[도관스님 기공(氣功)⑩] 위암(胃癌)극복 기(氣)운행...화안·방하착·기공치료 면역력 강화&nbsp;&nbsp;공정뉴스",
+      "sources": [
+        {
+          "name": "공정뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90c1FXOU9kQy1WdUkzNjJkNlNablpFQlFPcklLeEZ2N0MydUszS0ZvSnpmZTlVNUVHc05IWXpRZU5PNlFJWG9TYzhRMlp0Mzdoclp4NWtjOGRFRTZXT3NfLVdSOGw3T0ZC?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "78ce2e50610d",
+      "title": "호치민시에서 뎅기열 환자 급증",
+      "published": "2026-07-20T03:30:00+00:00",
+      "summary": "호치민시에서 뎅기열 환자 급증&nbsp;&nbsp;Laodong.vn열이 없다는 것은 뎅기열의 위험한 시기가 지났다는 것을 의미할까요?&nbsp;&nbsp;Vietnam.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 예방 및 관리: '방어막'은 각 가정에서 시작됩니다.&nbsp;&nbsp;Vietnam.vn한 학생이 뎅기열에 감염되어 지방 당국이 긴급히 질병 예방 조치를 시행하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1Q0eU1qWkxMNEtwNms2WTNHeURvQTM2ekRTX1M1VXdCbV9qWTlOUFpSZGhUVDZtUEFKRzU5YWlnUzJoQWhMaE9hX0J3M2FvNkVLR1F6TTZZdUQ4VVRmbmJxcGVPWlo5VE9uRlpUNmZZTElEX0RvSWZUR1pRQ1NrdUtzdUYyak16dm9reXR3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "44496b5199db",
       "title": "브레즈트리, COPD 3제 요법간 RWD에서 비교 우위",
-      "published": "2026-07-20T03:04:00+00:00",
+      "published": "2026-07-20T03:04:15+00:00",
       "summary": "브레즈트리, COPD 3제 요법간 RWD에서 비교 우위&nbsp;&nbsp;의약뉴스",
       "sources": [
         {
           "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45Wm8wOVEyWFU0dmE3bldYZUd1MFA5S0I2SDJsYkl1aExFd19BYUVtaVVvTEVCNnBFQ2otbFpsbUd0aWNuSkZsY3dsZlR4M2xaQkx5a3B2LWpqMWl6ajl6VnNFMUtCaFE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQVI3UUVMVnZqY25sbFdYamVRTjR0WjBib2dVZ254d2VSSUlDbG4tREFDSUZCTDVwU3J2eE9kc25WdG5QaDJqNjBFRmU1U0cydlY4OVpNbWdNaVRBVzRVWjgwaVJJX1FG?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "4e7c49a55d21",
-      "title": "\"밤마다 화장실 간다면 의심\"…전립선비대증, '리쥼 수증기 치료' 주목",
-      "published": "2026-07-20T02:27:09+00:00",
-      "summary": "\"밤마다 화장실 간다면 의심\"…전립선비대증, '리쥼 수증기 치료' 주목&nbsp;&nbsp;보건신문‘밤마다 두 번’ 화장실 가던 40대 남성, 시한부 판정… 무슨 일?&nbsp;&nbsp;헬스조선여름밤 잠 깨우는 야간뇨…'전립선 건강' 적신호일 수도&nbsp;&nbsp;헬스경향방광암 발병률이 증가하는 이유는 무엇일까요?&nbsp;&nbsp;Vietnam.vn“치료 미룰수록 손해”…전립선비대증, 내 전립선 크기에 맞는 치료법 찾아야&nbsp;&nbsp;바이오타임즈",
+      "id": "e249885eb3a9",
+      "title": "암 표준치료 후 재활 관리에 따라 예후 달라질 수도 [유연각 원장 칼럼]",
+      "published": "2026-07-20T03:03:57+00:00",
+      "summary": "암 표준치료 후 재활 관리에 따라 예후 달라질 수도 [유연각 원장 칼럼]&nbsp;&nbsp;하이뉴스암 치료 후 일상 복귀, 맞춤형 요양병원 선택해야&nbsp;&nbsp;네이트여성암 치료 이후 ‘일상 복귀를 준비하는 회복 관리’ 중요 [박홍빈 원장 칼럼]&nbsp;&nbsp;미디어파인암 치료, 암세포만 죽이면 끝? 합병증 치료도 함께 해야&nbsp;&nbsp;캔서앤서",
       "sources": [
         {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMEpLX1V4YzlVX3poVWdLNFJkWUVTWE5rRmxnT2dmMVF6TmdlQ3o5NHpsZVNNU3lCTHNHaDF5c3liczY2LTVycXZKSVB0R3UwOGhwRl96NWlNcmc5QUhKVEhuNA?oc=5"
+          "name": "하이뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51TE9CUnFTSWdPX1BJTmU1R0VnQTdLMll4WnlHQ1ZoUjRiUnRzTk5rMnkzLTVHU1JpNzdKM2xxWmRIaDNjcHQ2UTdWLVZuU0MyeUdkZUJrMDFYekNvalBZWFBCQXo5NDF0SFZWZUxnY2xRWXdk?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "29c5e4727a2c",
-      "title": "\"치매 최대 45% 막을 수 있다\"…WHO가 공개한 예방법 8가지",
-      "published": "2026-07-20T02:12:53+00:00",
-      "summary": "\"치매 최대 45% 막을 수 있다\"…WHO가 공개한 예방법 8가지&nbsp;&nbsp;디지털투데이[만물상] 이길 수 있는 병, 치매&nbsp;&nbsp;조선일보치매와의 전쟁, 희망 보이나…예방의학이 바꾼 40년&nbsp;&nbsp;v.daum.net치매 발병률 빠른 감소… 퇴치도 더는 꿈이 아니다 [PADO] - 머니투데이&nbsp;&nbsp;머니투데이고령화로 치매 늘어난다더니…뚝 떨어진 선진국 발병률&nbsp;&nbsp;한국경제",
+      "id": "89538c231224",
+      "title": "지중해식 식단의 힘…“심장·뇌 건강 지키고 수명 연장”",
+      "published": "2026-07-20T03:00:00+00:00",
+      "summary": "지중해식 식단의 힘…“심장·뇌 건강 지키고 수명 연장”&nbsp;&nbsp;미주한국일보",
       "sources": [
         {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ETFFoYTZyVGpnb2JoNDM2cGlKNWtNbVYxSkhJVTlCc2c5Mk83SENyVnVhRFplM0x1X1hwOWowWnNSUko2OTVBdC1HZHAtVzJrbVJOWkJHTVltYk9VdFlHemtxY0RPOThuRnpac0FUdFFvWTA?oc=5"
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hcVFkLWJGUXhEUFJOemZLYk9RdUR6cG54b2pyUGo2Z2I3Z3pkOEN6bVVMbGwyaHJzSkg5UWVxTGJ5dTh0NHNxZ0xXQ0lXdVVhNV9GQzNlUjlKVHRpQ3dZ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "ed593d8e62c5",
-      "title": "비만대사수술과 '0.1%'의 벽(7편)",
+      "id": "8b6d6db208d7",
+      "title": "비만대사수술과 '0.1%'의 벽 (7편)",
       "published": "2026-07-20T01:51:51+00:00",
-      "summary": "비만대사수술과 '0.1%'의 벽(7편)&nbsp;&nbsp;메디칼타임즈",
+      "summary": "비만대사수술과 '0.1%'의 벽 (7편)&nbsp;&nbsp;메디칼타임즈",
       "sources": [
         {
           "name": "메디칼타임즈",
@@ -95,19 +212,6 @@
       "matched_keywords": []
     },
     {
-      "id": "861500b8ddd7",
-      "title": "“아침 굶으면 살 빠진다?” …전문가 “오히려 당뇨 위험만 높인다”",
-      "published": "2026-07-20T00:45:00+00:00",
-      "summary": "“아침 굶으면 살 빠진다?” …전문가 “오히려 당뇨 위험만 높인다”&nbsp;&nbsp;경향신문“공복에 절대 먹지 마세요”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트당뇨병전단계 성인을 위한 식사지침 - 전체 | 카드/한컷 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95X2JFVlk3Nl9NWm9GaFpfT0FpT1k4b1NucktpazZQZnc4SHBSNHVaSWVfQzV6UTU1TVFjR3JJeVgtX212OWI5WWxlYmJBdklxTmhxY2VTYzlKZ9IBX0FVX3lxTE9CUVp4N0RNMUlwUUtsWXFxU0lHeHg5c0hhUXBHU01lMW53cW5pNENkdmlldmdxTExITDBGeU5JY3dod2N0OWt2Mnl3bHNtdDBtS2REWEdHUVZValE5YkZV?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1043e3031a2a",
       "title": "다제내성균 감염 치료 전략의 전환",
       "published": "2026-07-20T00:44:32+00:00",
@@ -116,19 +220,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pUGJJeGNqZTA2VDlCSmdiMGtuWEVUc2J0dGkydE1GQjFkMzlrVVdhc3dhQUNreWVqRHNzRENLR3FDbU41T3hGc2twYVpIeUkyX1pVUlhTVlNvTVBnalJOMFQ2MEtRQ3lWd2FN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "02b03e551754",
-      "title": "“요거트-제로라 안심했는데?”…아이스크림 고를 때 ‘이것’ 확인하세요",
-      "published": "2026-07-19T22:05:00+00:00",
-      "summary": "“요거트-제로라 안심했는데?”…아이스크림 고를 때 ‘이것’ 확인하세요&nbsp;&nbsp;코메디닷컴\"요거트-제로라 안심했는데?\"…아이스크림 고를 때 '이것' 확인하세요&nbsp;&nbsp;네이트\"아이스크림보다 많다\"… 의외로 당 많은 음식 4가지&nbsp;&nbsp;하이닥“아이스크림 대신 요거트 아이스크림?”…건강에 더 좋을까 [건강팩트체크]&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpTmVkTVJsT3J0MHRjTkpvVmFhZHVNTDZqQUFfdDlmLXBzeG01WkhJLTEzZTVBNnlKcXFpcE9FZU5Tdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -186,6 +277,19 @@
       "matched_keywords": []
     },
     {
+      "id": "7c45d910d4be",
+      "title": "“공복에 절대 먹지 마세요”… 의사 경고한 ‘의외의 음식’",
+      "published": "2026-07-19T16:00:00+00:00",
+      "summary": "“공복에 절대 먹지 마세요”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선“아침 굶으면 살 빠진다?” …전문가 “오히려 당뇨 위험만 높인다”&nbsp;&nbsp;v.daum.net혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트혈당·콜레스테롤 동시에 잡았다 의사들이 식탁에 올리는 '이 곡물'&nbsp;&nbsp;용인신문",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ySEV5X3VSdmhlanl5QjZ0NVhzNUVhQU9fR3pma1Q3WXlQeXZnTjNrYUttVjBuSW9YVl9sOExHMVRNZTVTblVfTTFkZzJSQTl6SmdwbkEzazhKQ0RhQk81MVhKeFI5T01NbXFnRFA1X2VoUkxwaDBUd0pFZkUtd1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "92e83d8ec8e2",
       "title": "[이정범의 응급의학 가이드] “가장 공격적인 폐암”… 소세포성 폐암 ②",
       "published": "2026-07-19T15:00:00+00:00",
@@ -238,6 +342,19 @@
       "matched_keywords": []
     },
     {
+      "id": "10eca9b98847",
+      "title": "그저 ‘적당한’ 세계가 온다 [이대한의 낭만연구실]",
+      "published": "2026-07-19T09:34:00+00:00",
+      "summary": "그저 ‘적당한’ 세계가 온다 [이대한의 낭만연구실]&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FbHFRMFBKXzFZOWJ2VUtxOENjRmxMWUlkdFBOQWxfaUtrbnRzRGx6UTJKWWxmTzJyVzFvYWlCUF9rQV9mRlJIT3YwV2xYbXcwOS1GX21uS1RCRDYwYnBEekR6cEJLdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5223224d46e4",
       "title": "“매일 오메가3 챙겨 먹었는데”…뇌 인지 기능 개선엔 큰 효과 없다는데",
       "published": "2026-07-19T04:17:18+00:00",
@@ -259,19 +376,6 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kc2RiUGJrWTh2U1h2OWcwVElpYVNSNVY2VXFxbEo0RS03MWg0RGhJRU9taXl6aVBETWlkWVJzZDRsTHRFYk9yV05OdnU0MEtZNkdCUVRn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "58191f6aef08",
-      "title": "의사, 열이 내린 아이도 뎅기열로 인해 심각하게 진행될 위험 있다고 경고",
-      "published": "2026-07-19T03:38:49+00:00",
-      "summary": "의사, 열이 내린 아이도 뎅기열로 인해 심각하게 진행될 위험 있다고 경고&nbsp;&nbsp;Laodong.vn열이 없다는 것은 뎅기열의 위험한 시기가 지났다는 것을 의미할까요?&nbsp;&nbsp;Vietnam.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 예방 및 관리: '방어막'은 각 가정에서 시작됩니다.&nbsp;&nbsp;Vietnam.vn한 학생이 뎅기열에 감염되어 지방 당국이 긴급히 질병 예방 조치를 시행하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYm9NMVY1YncyUmRHSlMxbGF2akxYczF0UXcwQjQtUnBhbFdRSGZxc29uWGZjY1lhaUxYdGhNRkNKa0RGekt6WWlCV3VCWTUtQlY3cGdLVWRzLWxjT1h5SGZrR0R6T05OaDRDUVNJTkp0SVNvWVluRVNjOVlUbHNyLUtISm92MFpuSHNaOVNEOFpPTFJCV1ZLRUFqdmJSdFZiaVpoV0d6cWJobkRNUVkxSnpOSDQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -329,14 +433,14 @@
       "matched_keywords": []
     },
     {
-      "id": "fe62cdb4a42a",
-      "title": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계]",
-      "published": "2026-07-18T10:00:00+00:00",
-      "summary": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계]&nbsp;&nbsp;동아일보\"가난할수록 살이 찐다\"…중년 비만의 구조를 추적하다&nbsp;&nbsp;v.daum.net“당신이 알던 몸은 30대에 끝났다”&nbsp;&nbsp;독서신문[하루건강] 점점 뚱뚱해지는 20~40대… 고도 비만, 10년 새 3배 늘었다&nbsp;&nbsp;한국일보“마흔에 찌는 살은 ‘나잇살’ 아니라 ‘질병’이다” [동아닷컴 금주의 신간]&nbsp;&nbsp;v.daum.net",
+      "id": "ba1f02094334",
+      "title": "“대화는 되지만 노래는 어렵게”… 걷기 운동 효과 높이는 ‘최적 속도’는?",
+      "published": "2026-07-18T22:00:00+00:00",
+      "summary": "“대화는 되지만 노래는 어렵게”… 걷기 운동 효과 높이는 ‘최적 속도’는?&nbsp;&nbsp;헬스조선러닝머신 속도 ‘이 정도’로 해놓고 걸었더니…당뇨병 막는 효과 탁월&nbsp;&nbsp;코메디닷컴매일 못 걸어도 괜찮아…‘주말 운동족’도 장수 효과&nbsp;&nbsp;레이디경향매주 근력 운동, 사망 위험 낮아져…연구&nbsp;&nbsp;네이트새로운 연구 결과: 건강한 삶을 위해 하루 1만 보를 걸을 필요는 없습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83c0pMWXlqN0xqOEhvNlVham4wb0hLQk42OUpaZFJlYmVMMmVWcDFVVmN5TGZMQXFWaElJVnNfWjRDTFRPb3A4WUVIdW1fUDZLNGNoZlk4ZWc3Z2kxV2FycmdkNVVqdlhucy1XYmFpSdIBZkFVX3lxTE1fVElwMUJFLWd2M2VhVkIxTTRKd0s3SzdCWUQ2cVBPcnBIOWtTZGM2Z0p6Z2FFbTRZWGJTWEwyWjNLRl9PYzgtTUp4ajlQWGNBOGtFX01xb2dDaGc4blNFdHo1UkVYQQ?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3RElaRk10aVVwUHVkQzdXeUFibTVKancyVTJkdXNVNkVwWndJaHBCb1M3X0R3a19ldS0xZUhQNW80aGpRZi1CNDBaREp1anZIR1RzS2FMNlJNZGxYWnFyOVEzaHZJbFhRSWRIT0hYeE1SeUhoNlFmbmdBUzBKc0U?oc=5"
         }
       ],
       "matched_keywords": []
@@ -358,7 +462,7 @@
       "id": "f52d6456dcbc",
       "title": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다",
       "published": "2026-07-18T08:03:00+00:00",
-      "summary": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다&nbsp;&nbsp;코메디닷컴2050년 전 세계 암 환자 3500만 명 전망…5명 중 1명 걸린다&nbsp;&nbsp;네이트2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론",
+      "summary": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다&nbsp;&nbsp;코메디닷컴2050년 전 세계 암 환자 3500만 명 전망…5명 중 1명 걸린다&nbsp;&nbsp;네이트2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -376,32 +480,6 @@
         {
           "name": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EN3dQY0xhWDFZRXNpQmJSMV8zWXZvZ3lzVmpQZ0l5WnhaMGgxWE1MR243d3NxeW9EUURKLUFCSnVQOUxWV28zNFFiemNyeVJWRy1DNHJfWjFwcGlVVmpFTWdTUEdXSmEzVnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "00f9553f4ee8",
-      "title": "노화 촉진하는 면역세포 ‘청소 장애’ 찾았다…EP2 차단하자 장기 노화 억제",
-      "published": "2026-07-18T06:14:25+00:00",
-      "summary": "노화 촉진하는 면역세포 ‘청소 장애’ 찾았다…EP2 차단하자 장기 노화 억제&nbsp;&nbsp;헬스코리아뉴스",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XR09fT0hmb3hiY3ZyR0diVFExYWp4REhENFV2QkpCWlJObTQyYy0wcDI0d2RaN1N0SjREU0MydVJoc054N2RCUjJhNzVleXlzcVd3b3J0cWFWb25NZklBTHRnRWVJLWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4aec292fe1cf",
-      "title": "60세 이후 오래 살고 싶다면 이 운동을 하라… 건강수명을 바꾸는 가장 강력한 비결",
-      "published": "2026-07-18T03:59:33+00:00",
-      "summary": "60세 이후 오래 살고 싶다면 이 운동을 하라… 건강수명을 바꾸는 가장 강력한 비결&nbsp;&nbsp;뉴스N연합Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRRS1UMi1YUXVzMF9tdTFTQTB2eE5rWk9KQ2FRX1A4Mm1maXk2UlVBQUkwbTNHQmhQb28wTTVEbm1FZ093OGdkZlJR?oc=5"
         }
       ],
       "matched_keywords": []
