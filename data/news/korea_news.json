@@ -1,10 +1,190 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-19T19:10:09.581225+00:00",
-  "total_fetched": 45,
-  "unique_count": 45,
-  "health_related_count": 18,
+  "fetched_at": "2026-07-20T03:27:38.030564+00:00",
+  "total_fetched": 61,
+  "unique_count": 61,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "1a8828393339",
+      "title": "브레즈트리, COPD 3제 요법간 RWD에서 비교 우위 - 의약뉴스",
+      "published": "2026-07-20T03:04:00+00:00",
+      "summary": "브레즈트리, COPD 3제 요법간 RWD에서 비교 우위&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45Wm8wOVEyWFU0dmE3bldYZUd1MFA5S0I2SDJsYkl1aExFd19BYUVtaVVvTEVCNnBFQ2otbFpsbUd0aWNuSkZsY3dsZlR4M2xaQkx5a3B2LWpqMWl6ajl6VnNFMUtCaFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e7c49a55d21",
+      "title": "\"밤마다 화장실 간다면 의심\"…전립선비대증, '리쥼 수증기 치료' 주목 - 보건신문",
+      "published": "2026-07-20T02:27:09+00:00",
+      "summary": "\"밤마다 화장실 간다면 의심\"…전립선비대증, '리쥼 수증기 치료' 주목&nbsp;&nbsp;보건신문‘밤마다 두 번’ 화장실 가던 40대 남성, 시한부 판정… 무슨 일?&nbsp;&nbsp;헬스조선여름밤 잠 깨우는 야간뇨…'전립선 건강' 적신호일 수도&nbsp;&nbsp;헬스경향방광암 발병률이 증가하는 이유는 무엇일까요?&nbsp;&nbsp;Vietnam.vn“치료 미룰수록 손해”…전립선비대증, 내 전립선 크기에 맞는 치료법 찾아야&nbsp;&nbsp;바이오타임즈",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jMEpLX1V4YzlVX3poVWdLNFJkWUVTWE5rRmxnT2dmMVF6TmdlQ3o5NHpsZVNNU3lCTHNHaDF5c3liczY2LTVycXZKSVB0R3UwOGhwRl96NWlNcmc5QUhKVEhuNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29c5e4727a2c",
+      "title": "\"치매 최대 45% 막을 수 있다\"…WHO가 공개한 예방법 8가지 - 디지털투데이",
+      "published": "2026-07-20T02:12:53+00:00",
+      "summary": "\"치매 최대 45% 막을 수 있다\"…WHO가 공개한 예방법 8가지&nbsp;&nbsp;디지털투데이[만물상] 이길 수 있는 병, 치매&nbsp;&nbsp;조선일보치매와의 전쟁, 희망 보이나…예방의학이 바꾼 40년&nbsp;&nbsp;v.daum.net치매 발병률 빠른 감소… 퇴치도 더는 꿈이 아니다 [PADO] - 머니투데이&nbsp;&nbsp;머니투데이고령화로 치매 늘어난다더니…뚝 떨어진 선진국 발병률&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ETFFoYTZyVGpnb2JoNDM2cGlKNWtNbVYxSkhJVTlCc2c5Mk83SENyVnVhRFplM0x1X1hwOWowWnNSUko2OTVBdC1HZHAtVzJrbVJOWkJHTVltYk9VdFlHemtxY0RPOThuRnpac0FUdFFvWTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed593d8e62c5",
+      "title": "비만대사수술과 '0.1%'의 벽(7편) - 메디칼타임즈",
+      "published": "2026-07-20T01:51:51+00:00",
+      "summary": "비만대사수술과 '0.1%'의 벽(7편)&nbsp;&nbsp;메디칼타임즈",
+      "sources": [
+        {
+          "name": "메디칼타임즈",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjMUhObFZ3QzZMZGhKYi13eU1TVnBpYzJCUHd3THVxTVJPNDhoZ0pFUVFYbFNROXdIY1VWMXI4M3Q2SmU2SUpYTWYwWEJBekhublE5QXRqZ3RuaVg2Z1Q5ZHZrT3Bhb3dyVzRYYmQ5MzRZTmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c3e1da39f0c",
+      "title": "알츠하이머 치료, 단백질 제거 넘어 ‘DNA 복구’로…신규 기전 약물 주목 - 헬스코리아뉴스",
+      "published": "2026-07-20T01:14:25+00:00",
+      "summary": "알츠하이머 치료, 단백질 제거 넘어 ‘DNA 복구’로…신규 기전 약물 주목&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02d2JXNXRKcnhMU3JXYjhXMlZJMTRDQmVnaTFySFNTMmQ2aVFFNDM5ZjRsWV83VkEtSDM2WUFzSjlvLUN3aGtNUVg1Z2tKa1BCbkszT0dFbnpqdlBkZXZqVHhqZlJuMEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e5e68938c04",
+      "title": "혈당 개선, 뼈 강화, 다이어트 효과까지…열량 높아도 건강에 좋은 고칼로리 식품들 - 코메디닷컴",
+      "published": "2026-07-20T01:05:00+00:00",
+      "summary": "혈당 개선, 뼈 강화, 다이어트 효과까지…열량 높아도 건강에 좋은 고칼로리 식품들&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5DLVhTNXJ5YnJDYXExMWVQT0NLOFh4Xy1KelQ4UW1Fcjd2Ull1VnBqbU5LNnd6OUJqX3podVlwb1Qtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b604e32ac28",
+      "title": "‘좌식형 인간’ 암 사망 위험 높다…1시간마다 5분 ‘걷기 휴식’을 - 한겨레",
+      "published": "2026-07-20T01:05:00+00:00",
+      "summary": "‘좌식형 인간’ 암 사망 위험 높다…1시간마다 5분 ‘걷기 휴식’을&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ldXZGOFRRUUJWeDlKTmhyczhJalZ1Tm1fZ0JET0hHMVY1blNvb0N5TmViVl9lWkdBSDNBaVc2N2l0bGh1ZDhTUlFYN3A3MmNid1YxNlBYNzVyQUxQcWZoTTIwV045RnFoWGpzdXUzWUs2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "861500b8ddd7",
+      "title": "“아침 굶으면 살 빠진다?” …전문가 “오히려 당뇨 위험만 높인다” - 경향신문",
+      "published": "2026-07-20T00:45:00+00:00",
+      "summary": "“아침 굶으면 살 빠진다?” …전문가 “오히려 당뇨 위험만 높인다”&nbsp;&nbsp;경향신문“공복에 절대 먹지 마세요”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트당뇨병전단계 성인을 위한 식사지침 - 전체 | 카드/한컷 | 멀티미디어&nbsp;&nbsp;대한민국 정책브리핑",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95X2JFVlk3Nl9NWm9GaFpfT0FpT1k4b1NucktpazZQZnc4SHBSNHVaSWVfQzV6UTU1TVFjR3JJeVgtX212OWI5WWxlYmJBdklxTmhxY2VTYzlKZ9IBX0FVX3lxTE9CUVp4N0RNMUlwUUtsWXFxU0lHeHg5c0hhUXBHU01lMW53cW5pNENkdmlldmdxTExITDBGeU5JY3dod2N0OWt2Mnl3bHNtdDBtS2REWEdHUVZValE5YkZV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1043e3031a2a",
+      "title": "다제내성균 감염 치료 전략의 전환 - 메디칼업저버",
+      "published": "2026-07-20T00:44:32+00:00",
+      "summary": "다제내성균 감염 치료 전략의 전환&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pUGJJeGNqZTA2VDlCSmdiMGtuWEVUc2J0dGkydE1GQjFkMzlrVVdhc3dhQUNreWVqRHNzRENLR3FDbU41T3hGc2twYVpIeUkyX1pVUlhTVlNvTVBnalJOMFQ2MEtRQ3lWd2FN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02b03e551754",
+      "title": "“요거트-제로라 안심했는데?”…아이스크림 고를 때 ‘이것’ 확인하세요 - 코메디닷컴",
+      "published": "2026-07-19T22:05:00+00:00",
+      "summary": "“요거트-제로라 안심했는데?”…아이스크림 고를 때 ‘이것’ 확인하세요&nbsp;&nbsp;코메디닷컴\"요거트-제로라 안심했는데?\"…아이스크림 고를 때 '이것' 확인하세요&nbsp;&nbsp;네이트\"아이스크림보다 많다\"… 의외로 당 많은 음식 4가지&nbsp;&nbsp;하이닥“아이스크림 대신 요거트 아이스크림?”…건강에 더 좋을까 [건강팩트체크]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpTmVkTVJsT3J0MHRjTkpvVmFhZHVNTDZqQUFfdDlmLXBzeG01WkhJLTEzZTVBNnlKcXFpcE9FZU5Tdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38012c90c8ec",
+      "title": "류마티스관절염환자 심근경색 위험 1.8배↑ - 메디칼트리뷴",
+      "published": "2026-07-19T21:20:00+00:00",
+      "summary": "류마티스관절염환자 심근경색 위험 1.8배↑&nbsp;&nbsp;메디칼트리뷴",
+      "sources": [
+        {
+          "name": "메디칼트리뷴",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ia2NRZEJ2UlUtRW1tMWlNOUZNcFVSOXlNTWZaVUhWMjJkWGpfZG5TSVZPVDZQLVlVQVo1WmFxTGdDWXNrZHVlbzloSzd3Y0Q3Mk1zQ3F2X01tSjRWZm52akYxMWw0N0ZwdDhBMy1sWG1nV0RMbGfSAXpBVV95cUxOOU5qeVBtQTI0WjdmemdDR1FKVkFHVUVqRy00S0I5cmZBTHdqa0FVOTJ5anBPZThsWmRObDZRM3pWdzFDYlVnckl2QnVhZS1lbEZBclZETnJ6RTdSNFNZZm9JNk5WMjlHclA2REp0TXJWQkpWUTVNOVl4dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "761d6450541b",
+      "title": "뇌하수체 종양 '프로락틴종' 진단 후 초기 당뇨병 모니터링 중요 - 메디칼업저버",
+      "published": "2026-07-19T21:02:02+00:00",
+      "summary": "뇌하수체 종양 '프로락틴종' 진단 후 초기 당뇨병 모니터링 중요&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhOWMzSnVCOUs4M3ZCb1ZWbmE0MFN2b2RFY1hicEhwTm9xVHRnaUNVbnpNOWd2MXMyVmQ2dnVIMEluUUNXM1pLdXAyZXE1YWZBMkhuazN2dnp6XzBvT2ZwNXI1Tm1iYzRIR0pF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61efcb80534a",
+      "title": "[투데이 건강노트] 100세 시대 가벼운 발걸음, 어르신도 반한 추나치료 - 이투데이",
+      "published": "2026-07-19T21:00:00+00:00",
+      "summary": "[투데이 건강노트] 100세 시대 가벼운 발걸음, 어르신도 반한 추나치료&nbsp;&nbsp;이투데이",
+      "sources": [
+        {
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XOXlTWVNKMmlwREZzV2EtTkFCVkZ4ODByN3J4S1E2MUtuTU03RklUYkQ4UXlwcWZMamNNVzJvT3YzaFVrZ1djbjduZ1Rtd24taWV2dQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92ae4862bd83",
+      "title": "\"수술 잘해도 재발 위험 남아…위암 치료 전략 달라져야\" - 청년의사",
+      "published": "2026-07-19T20:50:25+00:00",
+      "summary": "\"수술 잘해도 재발 위험 남아…위암 치료 전략 달라져야\"&nbsp;&nbsp;청년의사",
+      "sources": [
+        {
+          "name": "청년의사",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RdFdqRnpKb3h1enhnQV9faWNDd2dIQmhiYTBEVFdZYklybWlqWWNKamxLazVLdG9iRDN4UDZJWXNyOVZ4b3FYeDBiV0VLMjhZR3hlbnp2TXV5VU1OUjRkVG9jb2ttdnRpQlBObXpsTUfSAXNBVV95cUxQWUE4Z3JpZWd4WXcxUzlUTVQyTThoNThyTDhIWnVfVlU2TzQ0X2dJYjJLaVRSTE5TeXpMUVR5VVZCVzBGeExUSTVzOW1RMUF5d2pxUS1FemFIWDFHWDFHdGVVYmY2dU1xXzhZdEFHdHBnVmln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92e83d8ec8e2",
+      "title": "[이정범의 응급의학 가이드] “가장 공격적인 폐암”… 소세포성 폐암 ② - 한국보험신문",
+      "published": "2026-07-19T15:00:00+00:00",
+      "summary": "[이정범의 응급의학 가이드] “가장 공격적인 폐암”… 소세포성 폐암 ②&nbsp;&nbsp;한국보험신문",
+      "sources": [
+        {
+          "name": "한국보험신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JWWo2U01DWXhvSkZESU5DTzRjT05oRmREdWxvaVRwbEU4ZzdiNV9INVpyM1lVbm9rdm4tbHMwM21ZQWVsRjBCUVpyWFZCcklzWmxDNXdqR29yajdCbmFYQkg2ZHdPbm1hWFVF0gFvQVVfeXFMT3pqcnlFUTMzVnAxNTQxOWRkVGU3Mm1IUXhUTDB3OW1SclRkMnpHakZ3Rm9HNlZMUmVuOWdBQWg3SVd0N2paVUZGeDNQVm9INEJJdDY3YnNsM3VFOUVNVWxnVFFZaE0zdXAtSWRqYllZ?oc=5"
+        }
+      ]
+    },
     {
       "id": "9e7f352cde40",
       "title": "암 치료 중 많이 하는 질문(18) 항암 중 피부 트러블...미백화장품ㆍ선크림 발라도 될까? - 캔서앤서",
@@ -26,6 +206,30 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8tUndRNW1UVDhLUWYtSzBneDluRElHR05aQmYwUlVHb29OLU10UDMwd3l4Y3hPai1hSmxjMzIyNzA1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6867b348e8d0",
+      "title": "미용 시술 받은 여성 5명 중 1명은 ‘중독’ 위험 - 헬스조선",
+      "published": "2026-07-19T10:00:00+00:00",
+      "summary": "미용 시술 받은 여성 5명 중 1명은 ‘중독’ 위험&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrblYzbEZ1SWJodlFNV2FvNzF0WFhCYlFBeEZ2WWVldVU1anpVUjltcmowMnQxeG9OTXFPdnV1bzVjdTJHUFNwR0VleDJla2JFT2VIUzZuT3Uyb19IakV0MUU2d2drNU1Kd3ZyR0hhREpvMGp1dkdzaFhZano3akE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5223224d46e4",
+      "title": "“매일 오메가3 챙겨 먹었는데”…뇌 인지 기능 개선엔 큰 효과 없다는데 - 매일경제",
+      "published": "2026-07-19T04:17:18+00:00",
+      "summary": "“매일 오메가3 챙겨 먹었는데”…뇌 인지 기능 개선엔 큰 효과 없다는데&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPMmdKSHFJNTlqT1prTnNUa2N3WW5xdGVpRjFvMWNXN2FpRlNjQmRlekpuM0FDSEJGQ2RNNnB3MXB5MGw2TXJIRXVoWFhnZw?oc=5"
         }
       ]
     },
@@ -69,7 +273,7 @@
       "id": "5cc30b74a883",
       "title": "세 자녀 이상 출산한 여성, 완경 후 골절 가능성 36%↑ - 한국일보",
       "published": "2026-07-19T03:00:00+00:00",
-      "summary": "세 자녀 이상 출산한 여성, 완경 후 골절 가능성 36%↑&nbsp;&nbsp;한국일보세 번 이상 임신한 여성, 폐경 후 골절 위험 높아&nbsp;&nbsp;헬스조선서울성모병원 성경헌 전공의, 대한골대사학회 우수구연상 수상&nbsp;&nbsp;의약뉴스엄마의 뼈 건강을 살필 시간&nbsp;&nbsp;우먼스토리뉴스출산 많을수록 골절 위험 쑥…원인은 ‘이것’ 공백&nbsp;&nbsp;동아일보",
+      "summary": "세 자녀 이상 출산한 여성, 완경 후 골절 가능성 36%↑&nbsp;&nbsp;한국일보세 번 이상 임신한 여성, 폐경 후 골절 위험 높아&nbsp;&nbsp;헬스조선엄마의 뼈 건강을 살필 시간&nbsp;&nbsp;우먼스토리뉴스서울성모병원 성경헌 전공의, 대한골대사학회 우수구연상 수상&nbsp;&nbsp;의약뉴스출산 많을수록 골절 위험 쑥…원인은 ‘이것’ 공백&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "한국일보",
@@ -102,6 +306,18 @@
       ]
     },
     {
+      "id": "fe62cdb4a42a",
+      "title": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계] - 동아일보",
+      "published": "2026-07-18T10:00:00+00:00",
+      "summary": "“40대 되니 지방간 늘더라”…몸이 달라지는 진짜 이유[노화설계]&nbsp;&nbsp;동아일보\"가난할수록 살이 찐다\"…중년 비만의 구조를 추적하다&nbsp;&nbsp;v.daum.net“당신이 알던 몸은 30대에 끝났다”&nbsp;&nbsp;독서신문[하루건강] 점점 뚱뚱해지는 20~40대… 고도 비만, 10년 새 3배 늘었다&nbsp;&nbsp;한국일보“마흔에 찌는 살은 ‘나잇살’ 아니라 ‘질병’이다” [동아닷컴 금주의 신간]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83c0pMWXlqN0xqOEhvNlVham4wb0hLQk42OUpaZFJlYmVMMmVWcDFVVmN5TGZMQXFWaElJVnNfWjRDTFRPb3A4WUVIdW1fUDZLNGNoZlk4ZWc3Z2kxV2FycmdkNVVqdlhucy1XYmFpSdIBZkFVX3lxTE1fVElwMUJFLWd2M2VhVkIxTTRKd0s3SzdCWUQ2cVBPcnBIOWtTZGM2Z0p6Z2FFbTRZWGJTWEwyWjNLRl9PYzgtTUp4ajlQWGNBOGtFX01xb2dDaGc4blNFdHo1UkVYQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b37db90412f5",
       "title": "치매 무서운 사람들, 식탁에 올릴 ‘7가지’ 식품 - 헬스조선",
       "published": "2026-07-18T09:03:00+00:00",
@@ -117,7 +333,7 @@
       "id": "f52d6456dcbc",
       "title": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다 - 코메디닷컴",
       "published": "2026-07-18T08:03:00+00:00",
-      "summary": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다&nbsp;&nbsp;코메디닷컴2050년 전 세계 암 환자 3500만 명 전망…5명 중 1명 걸린다&nbsp;&nbsp;네이트전 세계 암 사망 970만명… 아시아가 절반 이상 차지&nbsp;&nbsp;매일일보2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론\"평생 5명 중 1명 암 진단\"…WHO, 국가 간 치료·생존 격차 경고&nbsp;&nbsp;히트뉴스",
+      "summary": "2050년 전 세계 암 환자 3500만 명 전망...5명 중 1명 걸린다&nbsp;&nbsp;코메디닷컴2050년 전 세계 암 환자 3500만 명 전망…5명 중 1명 걸린다&nbsp;&nbsp;네이트2050년 암 환자 최대 70% 급증…’이것’만 줄여도 4명 중 1명은 막는다&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -150,14 +366,14 @@
       ]
     },
     {
-      "id": "9d1e0c636e59",
-      "title": "남성은 '콩', 여성은 '이것' 먹어야…심장에 좋은 채소도 남녀 성별 따라 달라 - 네이트",
-      "published": "2026-07-18T01:06:00+00:00",
-      "summary": "남성은 '콩', 여성은 '이것' 먹어야…심장에 좋은 채소도 남녀 성별 따라 달라&nbsp;&nbsp;네이트",
+      "id": "4aec292fe1cf",
+      "title": "60세 이후 오래 살고 싶다면 이 운동을 하라… 건강수명을 바꾸는 가장 강력한 비결 - 뉴스N연합",
+      "published": "2026-07-18T03:59:33+00:00",
+      "summary": "60세 이후 오래 살고 싶다면 이 운동을 하라… 건강수명을 바꾸는 가장 강력한 비결&nbsp;&nbsp;뉴스N연합Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KQ3RCNTBUc293V0IydXZFUWhXQnFLMURjdER2SEtBWENpU29ETWtkR0xWRDN5aXU1MjJlMFhFVXM5Ym9wVnNCUF90UjVGbHZRMFBj?oc=5"
+          "name": "뉴스N연합",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRRS1UMi1YUXVzMF9tdTFTQTB2eE5rWk9KQ2FRX1A4Mm1maXk2UlVBQUkwbTNHQmhQb28wTTVEbm1FZ093OGdkZlJR?oc=5"
         }
       ]
     },
@@ -170,54 +386,6 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80a2hJSDVKd0NUTmprajNUWm54MEhlMThFNW9MZm0yMW1XOXMtbXJ4UnBNcjNRSzJiWFBnR01BSUNnQUJCSF9zLWs5UHZTVFVSbThGd3Zn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a10e25b98b22",
-      "title": "'대상포진 후 신경통, 뇌 연결망 변화와 연관성 밝혀져' - edaily.co.kr",
-      "published": "2026-07-18T00:05:03+00:00",
-      "summary": "'대상포진 후 신경통, 뇌 연결망 변화와 연관성 밝혀져'&nbsp;&nbsp;edaily.co.kr\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진 후 통증, 왜 오래갈까 … 해운대백병원, 뇌 연결망 변화에서 단서 확인&nbsp;&nbsp;헬스오대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향대상포진 후 통증 오래가는 이유, 뇌 연결망에서 찾았다&nbsp;&nbsp;e-의료정보",
-      "sources": [
-        {
-          "name": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT18yLTJCX0xHWnRTTHZPcHRyYVJZZ1VrR1lxS3ZCQnE4MWc3aXlzaDEycUJiSUZGQ04tX1lPRGU1MWRlTFdQODlfVzhCNDhETEstRzQybm5yUEVCZHlnUmI5czZYTVVwSk1WYkJDTWptWWd0T2RpV2toTHRJYlExeA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b495c61679c1",
-      "title": "\"매운맛 즐기다가 식도암 위험 높아진다?\"…고추 많이 먹는 사람, 발생 위험 약 3배 - 네이트",
-      "published": "2026-07-17T22:07:00+00:00",
-      "summary": "\"매운맛 즐기다가 식도암 위험 높아진다?\"…고추 많이 먹는 사람, 발생 위험 약 3배&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5meXg2aG01WVpFZm9nY3hrVlNfY1lvcHgzdHVZSk9MZGFKM2ttVGJlTExDWjNMQ3ZhNVdRRmdWV3FVeVg4UlBDaUY1bEVOZTVZMEtF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce0cda5ea717",
-      "title": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식' - 전자신문",
-      "published": "2026-07-17T21:00:00+00:00",
-      "summary": "혈당 스파이크 막는다…아침 공복에 먼저 먹으면 좋은 '이 음식'&nbsp;&nbsp;전자신문“공복에 절대 먹지 마세요”… 의사 경고한 ‘의외의 음식’&nbsp;&nbsp;헬스조선“밥 먹고 ‘이 행동’ 제발 피하세요”… 약사가 꼽은 ‘최악의 혈당 습관’&nbsp;&nbsp;코메디닷컴\"당뇨 전단계면 괜찮다?\"…혈당 잡으려면 지금부터 '이 음식' 챙기세요&nbsp;&nbsp;네이트“간편해서 아침에 매일 먹었는데”…공복에 먹으면 혈당 무섭게 올라간다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rbFM1RUxCeDRXWXl3WFY3RU9TQ0FXWU54Yi1QNm54LUV4YWVhMEFKaUdINTUwLWtZRzh1RnFDclk2WGRwcFlOdUI4U1UyUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "099a546ef528",
-      "title": "나이 들면 추위 타는 이유 '근육'과 연관 있었다 - 약사공론",
-      "published": "2026-07-17T20:50:00+00:00",
-      "summary": "나이 들면 추위 타는 이유 '근육'과 연관 있었다&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yZFJKcFE4QTFTU3FYLXNOaFZRREtfalo0X0pzc2kwYVVveUx1R0dGeUxxOE5pUWFMeEhoN1FsR2VNTGhwcUk3OE5kUzZBYm5wYk1IS0Z0ckVjWUg4V1NYN01uUXhoNkVoWmMyTg?oc=5"
         }
       ]
     }
