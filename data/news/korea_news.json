@@ -1,10 +1,82 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-21T08:32:59.025767+00:00",
-  "total_fetched": 85,
-  "unique_count": 85,
-  "health_related_count": 45,
+  "fetched_at": "2026-07-21T13:58:28.845076+00:00",
+  "total_fetched": 92,
+  "unique_count": 92,
+  "health_related_count": 49,
   "news": [
+    {
+      "id": "282436163739",
+      "title": "중증 루푸스 여성 환자, CAR-T 요법에 긍정적 반응 - Laodong.vn",
+      "published": "2026-07-21T12:13:46+00:00",
+      "summary": "중증 루푸스 여성 환자, CAR-T 요법에 긍정적 반응&nbsp;&nbsp;Laodong.vnVinmec Smart City에서 치료 저항성 전신성 루푸스 환자가 CAR-T 치료에 긍정적인 반응을 보였습니다.&nbsp;&nbsp;Vietnam.vn베트남이 CAR-T 치료법을 루푸스 치료에 성공적으로 적용했습니다.&nbsp;&nbsp;Vietnam.vnCAR-T 면역세포 치료법이 루푸스 치료에 처음으로 도입되었습니다.&nbsp;&nbsp;Vietnam.vn베트남에서 루푸스 환자를 대상으로 한 최초의 CAR-T 치료 임상 시험.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDFHdXRkdUppZ1FyTnhOX3hDVFpSTzFDS09QM2k0SHBaRm9QaGNpZWRNc3RkblNUQjFFRC1ETF9mUFFuNnVieHlhQWZSZ2NJaUh0aU83RkVYVUdnUFhwaWxkTUl2N2Yxd0lpM01mZW0yYzlGWUFQaEJxWlRKNmZYUHN2WEhyNkkydExqa0FqdDZXSnE1UkNBbWJKaEpHUnNPd1VXSmt3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e18bc820f768",
+      "title": "극지연구소, 남극 물고기에서 ‘근육 재생 핵심 단백질’ 찾았다 - 부산일보",
+      "published": "2026-07-21T11:46:26+00:00",
+      "summary": "극지연구소, 남극 물고기에서 ‘근육 재생 핵심 단백질’ 찾았다&nbsp;&nbsp;부산일보극지연구소, 남극 물고기에서 근감소증 비밀 찾았다&nbsp;&nbsp;연합뉴스극지硏, 남극 물고기서 근육 재생 단백질 규명&nbsp;&nbsp;뉴시스남극 물고기에서 찾은 이것…근감소증 열쇠될까[어텐션 뉴스]&nbsp;&nbsp;v.daum.net노화로 빠진 근육 26% 늘었다…‘남극검은돌치’서 찾은 '재생 스위치' [연구]&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "부산일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ER2FUWWNLRjF3dDcwWWE4Q29tblBxZGx4YzNJZjB2cG44NGFFMk8zcGR0NjhFYjVpWmJvNktqa1FPUXYyLUZEbFl6Q0VOSFk5ZzJfS0hCb25Ib2d3OUptZThua3pHeXc4TEFXV1dhelAyZV9k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3d644d677f1",
+      "title": "통풍 악화시키는 음식 5가지… \"맥주만 문제가 아니다\" - 하이닥",
+      "published": "2026-07-21T11:00:00+00:00",
+      "summary": "통풍 악화시키는 음식 5가지… \"맥주만 문제가 아니다\"&nbsp;&nbsp;하이닥폭염 속 차가운 맥주, 그 한 잔이 오히려 위험한 이유&nbsp;&nbsp;사이언스타임즈맥주와 치킨의 치명적인 유혹? 여름철 통풍 예방 속 숨겨진 요산 지침의 반전&nbsp;&nbsp;뉴스N연합",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wTVVnamYzQXF4M0dlbzIxckRKcm9JczY5MFZTX0hPTDBlNWRhOXpNdjJ6T1cwNjB0cHdEc3pSQnIxaUNSYjVxdUVRdmRNYUtBM0prZmhjcEhSMTUzY0JqNGFoam5fRC1Sc1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ef80cf5ec91",
+      "title": "창밖 도로 소음, 파킨슨병 위험 높인다...집에 ‘조용한 공간’ 있어야 - 디멘시아뉴스",
+      "published": "2026-07-21T10:36:16+00:00",
+      "summary": "창밖 도로 소음, 파킨슨병 위험 높인다...집에 ‘조용한 공간’ 있어야&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VS2haRzdMXzlwM09sWGJod3J4dnlOeVhkeFMtME55WTIwQWEzVXhLcGlaOTN5V0JKQ2o3TjlGNXZmNTA2YUdtYkZtNS14aDdiY2JhSWZOdWswWXZJZUw1TFpIbFpRRXVoS1R1bDZta2tYQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c5e05d598bb3",
+      "title": "\"대장암 내성, '노화 섬유아세포'가 유발…IL1B 신호가 원인\" - 바이오북미디어",
+      "published": "2026-07-21T10:07:00+00:00",
+      "summary": "\"대장암 내성, '노화 섬유아세포'가 유발…IL1B 신호가 원인\"&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yeWJudnoyblk1UHUwcUVBS2FFdkc3d2d1MUQ3OWprcXE5Tjh4Z090bTlWMjlxRmZMTm9MWU5zWk5yOWxTU3QwaVVZN1BZRDQ0WTZzd2FjcmtfNDBvZnhNcmFZbjJWaW90blp2LWNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "594ff0f483fc",
+      "title": "대인관계 불안정한 경계성인격장애, 유전적 단서 최초 발견 - 동아사이언스",
+      "published": "2026-07-21T08:45:00+00:00",
+      "summary": "대인관계 불안정한 경계성인격장애, 유전적 단서 최초 발견&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBadHlaOXQ3d19tZV9zM0pEQlgxWTk0YTFtamp4b0JOSUlnUTB0Z09MXzVvOExqM2F2c3A1enc4Y1BxenFIbjNnOFVMQy1sYXdxdzRkcw?oc=5"
+        }
+      ]
+    },
     {
       "id": "21507c57037d",
       "title": "성모한방병원 통합의학센터 병원장 김성철 박사, 뇌전증 완치 실제 사례 47례 펴내 - livesnews.com",
@@ -21,7 +93,7 @@
       "id": "472b464982b1",
       "title": "유방암 진단 후 1년 내 허혈성 뇌졸중 위험 59%↑ - 보건신문",
       "published": "2026-07-21T07:40:26+00:00",
-      "summary": "유방암 진단 후 1년 내 허혈성 뇌졸중 위험 59%↑&nbsp;&nbsp;보건신문[김태열의 생생건강S펜] “유방암 치료후 갑작스런 편마비·언어장애 올 확률 증가해..바로 병원 찾아야”&nbsp;&nbsp;v.daum.net유방암 진단 1년 내 뇌졸중 뒤따라올 위험 59%↑…\"암이 혈액 굳게 해\" - 머니투데이&nbsp;&nbsp;머니투데이“유방암 진단 후 1년 내 뇌졸중 위험 59% 증가”&nbsp;&nbsp;헬스조선유방암 진단 후 1년 내 뇌졸중 위험 2.9배↑…왜?&nbsp;&nbsp;뉴시스",
+      "summary": "유방암 진단 후 1년 내 허혈성 뇌졸중 위험 59%↑&nbsp;&nbsp;보건신문유방암 진단 초기 뇌졸중 위험 급증…3개월 내 2.9배↑&nbsp;&nbsp;v.daum.net유방암 진단 1년 내 뇌졸중 뒤따라올 위험 59%↑…\"암이 혈액 굳게 해\" - 머니투데이&nbsp;&nbsp;머니투데이[김태열의 생생건강S펜] “유방암 치료후 갑작스런 편마비·언어장애 올 확률 증가해..바로 병원 찾아야”&nbsp;&nbsp;헤럴드경제삼성서울병원 \"유방암 진단 초기 허혈성 뇌졸중 위험 증가\"&nbsp;&nbsp;로이슈",
       "sources": [
         {
           "name": "보건신문",
@@ -30,10 +102,10 @@
       ]
     },
     {
-      "id": "d671682d6570",
-      "title": "살찌는 음식인 줄 알았는데…아이스크림, 당뇨·심장병 위험 낮췄다? - 전자신문",
+      "id": "ed3c4fa10cbb",
+      "title": "'혈당 폭발' 주범인 줄 알았는데…아이스크림 먹은 사람이 당뇨·심장병 위험 낮았다? - 전자신문",
       "published": "2026-07-21T07:30:00+00:00",
-      "summary": "살찌는 음식인 줄 알았는데…아이스크림, 당뇨·심장병 위험 낮췄다?&nbsp;&nbsp;전자신문\"아이스크림 먹는 사람이 당뇨 위험 낮았다?\"…'아이스크림 역설' 뭐길래&nbsp;&nbsp;뉴시스\"요거트-제로라 안심했는데?\"…아이스크림 고를 때 '이것' 확인하세요&nbsp;&nbsp;네이트'살찌는 음식' 아이스크림의 반전…\"당뇨 위험 더 낮았다\" - 머니투데이&nbsp;&nbsp;머니투데이미국의 저명한 암 전문가가 수명 연장을 위해 아이스크림을 먹을 것을 권장했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "'혈당 폭발' 주범인 줄 알았는데…아이스크림 먹은 사람이 당뇨·심장병 위험 낮았다?&nbsp;&nbsp;전자신문\"아이스크림 먹는 사람이 당뇨 위험 낮았다?\"…'아이스크림 역설' 뭐길래&nbsp;&nbsp;뉴시스\"요거트-제로라 안심했는데?\"…아이스크림 고를 때 '이것' 확인하세요&nbsp;&nbsp;네이트'살찌는 음식' 아이스크림의 반전…\"당뇨 위험 더 낮았다\" - 머니투데이&nbsp;&nbsp;머니투데이미국의 저명한 암 전문가가 수명 연장을 위해 아이스크림을 먹을 것을 권장했습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "전자신문",
@@ -66,6 +138,18 @@
       ]
     },
     {
+      "id": "f44ae1d2ae41",
+      "title": "커피 하루 2~4잔, 심장병·뇌졸중 위험 낮았다…美심장협회 - 동아일보",
+      "published": "2026-07-21T06:07:18+00:00",
+      "summary": "커피 하루 2~4잔, 심장병·뇌졸중 위험 낮았다…美심장협회&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDcVB1MzBpOVVTRjEwWDRfWUlzNE1rN1JRajkxVjEzenNRd28tSE1HNHE1RmlNWVItT2VzOEVJS3p4Vlc3SnROY2hmLXlaNTlBcE9IOTByUzRlMTc5S044YnQ0VmhVRFltOXkwYnRsc0hBdFHSAWZBVV95cUxOT21DMDR6SlA0LXItbG5nUmxsMUZMc1NYVGtFTjYzU2NGWXlKVlRJY3R4ODR0Vkg0a3FkbERVOVNDYlB6SmJGOXNneWhMOEhmR253V19XT0JXNUdIUFJkUkNySDZvcEE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a1ffb9b3e760",
       "title": "'자살 고위험 우울장애 환자 치료 효과 입증' - 네이트",
       "published": "2026-07-21T04:38:00+00:00",
@@ -90,26 +174,14 @@
       ]
     },
     {
-      "id": "633812703c11",
-      "title": "남극 물고기서 \\'근육 재생 스위치\\' 찾았다…극지연구소, 세계 최초 작동 원리 규명 - 해양레저신문",
-      "published": "2026-07-21T03:15:00+00:00",
-      "summary": "남극 물고기서 \\'근육 재생 스위치\\' 찾았다…극지연구소, 세계 최초 작동 원리 규명&nbsp;&nbsp;해양레저신문극지연구소, 남극 물고기에서 근감소증 비밀 찾았다&nbsp;&nbsp;v.daum.net극지硏, 남극 물고기서 근육 재생 단백질 규명&nbsp;&nbsp;뉴시스노화로 빠진 근육 26% 늘었다…‘남극검은돌치’서 찾은 '재생 스위치' [연구]&nbsp;&nbsp;세계일보극지연, 남극 물고기서 근육 재생 단백질 세계 최초 발견&nbsp;&nbsp;뉴스1",
+      "id": "726fcf6de9e2",
+      "title": "\"치매, 배우자도 위험하다\"…치매 환자 배우자 발병률 70% 높아 - 데일리굿뉴스",
+      "published": "2026-07-21T01:40:15+00:00",
+      "summary": "\"치매, 배우자도 위험하다\"…치매 환자 배우자 발병률 70% 높아&nbsp;&nbsp;데일리굿뉴스[건강포커스] 치매 환자 배우자도 치매위험 70%↑…\"치매 가구단위 접근 필요\"&nbsp;&nbsp;v.daum.net배우자가 치매 진단받으면 내 위험도 70%↑…100명당 3명 안팎 더 진단&nbsp;&nbsp;뉴시스배우자가 치매라면…치매 걸릴 위험 70% 높다&nbsp;&nbsp;한국경제배우자가 치매면 본인도 위험 커진다…95만명 분석 결과&nbsp;&nbsp;세계일보",
       "sources": [
         {
-          "name": "해양레저신문",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kTVdlUFRScWNVLWM0RzdZdGluSXZHeGpVWFNGcEU2aTd5Wk5YLWVFOXZEbnhIUF96ZURMZUtrM2pwaWpidFpNVnVnM1lnY3pTaElIcmU0MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b67c620f07fc",
-      "title": "\"엄마 아빠 리모컨 뺏어야 하나\"…TV 오래 본 중년, 20년 후 뇌 부피가 줄었다 - 아시아경제",
-      "published": "2026-07-21T01:08:55+00:00",
-      "summary": "\"엄마 아빠 리모컨 뺏어야 하나\"…TV 오래 본 중년, 20년 후 뇌 부피가 줄었다&nbsp;&nbsp;아시아경제[건강포커스] \"TV 많이 본 중년층, 20여년 뒤 기억 관련 뇌 부피 감소\"&nbsp;&nbsp;v.daum.netTV 많이 보면 바보 된다?…터무니없는 말 아니었다 [노화설계]&nbsp;&nbsp;동아일보TV 많이 보다가 '뇌' 쪼그라든다… 치매 위험 커져&nbsp;&nbsp;헬스조선\"밤마다 봤는데 어쩌나\"…TV 많이 본 중년층, 20년 뒤 뇌 사진 보니 '깜짝' [헬시타임]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RblZrVTloZThIaTRKazZzWm01OUV5RXdCOWM2bFFjSUcxVFV5YlRQYzdvOV9vN1BidU5sckJMYVo1Qkowdk03aEEtVFZTVS00eGxBZEdXYnY0UTdqR2lMdw?oc=5"
+          "name": "데일리굿뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yQjhnelZrRm5wb2lVeU1CODBidDdxazBFZUxvXzBTdkxZUC1zb25CSC1GT0d1dGxXTnZqSUhIbXU3R3k0V190VGlGbW5xcDQySlM4bUh5b1pqWlE5XzJOTzhlN3VRSVZ1Sk1USQ?oc=5"
         }
       ]
     },
@@ -141,7 +213,7 @@
       "id": "99bba3e6cd2d",
       "title": "[칼럼] 물놀이 후 충혈·통증 방치 금물…여름철 각막염 예방법 - 메드월드뉴스",
       "published": "2026-07-20T23:09:19+00:00",
-      "summary": "[칼럼] 물놀이 후 충혈·통증 방치 금물…여름철 각막염 예방법&nbsp;&nbsp;메드월드뉴스[건강톡톡] “물놀이 계절 비상”… 여름철 각막염 주의보&nbsp;&nbsp;간호사신문왜 장마철에 귀 가려움증이 더 흔할까요?&nbsp;&nbsp;Vietnam.vn덥고 습한 날씨에 급증하는 '여름철 질염' 발생률, 숨기다간 만성된다&nbsp;&nbsp;바이오타임즈[이엠디] 물놀이 후 충혈·통증 방치 금물…여름철 각막염 예방법&nbsp;&nbsp;eMD Medical News",
+      "summary": "[칼럼] 물놀이 후 충혈·통증 방치 금물…여름철 각막염 예방법&nbsp;&nbsp;메드월드뉴스물놀이 후 충혈·통증 방치 금물…여름철 각막염 예방법&nbsp;&nbsp;로이슈잔소리 때문 아니었다… 귀 따가울 때, 의심해야 하는 질환은?&nbsp;&nbsp;헬스조선왜 장마철에 귀 가려움증이 더 흔할까요?&nbsp;&nbsp;Vietnam.vn물놀이 후 발생하는 외이도염, 정확한 진단·관리 필요&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -150,10 +222,22 @@
       ]
     },
     {
+      "id": "6b3f6d36b287",
+      "title": "심장 보는 의사도 먹는다…심혈관에 좋은 간식 살펴보니? - 헬스조선",
+      "published": "2026-07-20T23:00:00+00:00",
+      "summary": "심장 보는 의사도 먹는다…심혈관에 좋은 간식 살펴보니?&nbsp;&nbsp;헬스조선성인의 절반은 ‘고혈압’…매주 먹어야 할 8가지 음식은?&nbsp;&nbsp;레이디경향[정구성의 건강칼럼] 10만km 혈관 건강, 식탁 위 작은 씨앗 '아마씨'에 주목하는 이유&nbsp;&nbsp;뉴스티앤티미혼일 때부터 아마씨를 먹어야 하는 이유…10년 뒤 건강이 달라질 수 있다&nbsp;&nbsp;자연치유일보“혈관 건강해진다”… 영양사 추천 ‘최고의 간식’은?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02S2ZFQ2N5TVB4dUczUVB5b2oyV0pYYkxwbVptV1Z1aWdXcGtiMnpMTU53b1ZjZG03bUtSNFhvVFdqWlJfSDNCRXFYN3FuREpzd3c3TlV2endJWHZkd2hmdkl0c3J2NVlXQVJndFFOYV9aYXdYc3lTV1d5RUFWN3M?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d55d0a8cf974",
       "title": "[김길원의 헬스노트] 노년기 근육 손실 막아야 심장·뇌혈관 건강 지킨다 - 네이트",
       "published": "2026-07-20T21:13:00+00:00",
-      "summary": "[김길원의 헬스노트] 노년기 근육 손실 막아야 심장·뇌혈관 건강 지킨다&nbsp;&nbsp;네이트",
+      "summary": "[김길원의 헬스노트] 노년기 근육 손실 막아야 심장·뇌혈관 건강 지킨다&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "네이트",
@@ -213,7 +297,7 @@
       "id": "732084176508",
       "title": "“대상포진 후 신경통, 뇌 연결망 변화와 관련될 수도” - 국제신문",
       "published": "2026-07-20T09:53:00+00:00",
-      "summary": "“대상포진 후 신경통, 뇌 연결망 변화와 관련될 수도”&nbsp;&nbsp;국제신문\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향대상포진 나았는데도 찌릿찌릿⋯범인은 ‘뇌’에 있었다?&nbsp;&nbsp;코메디닷컴대상포진 후 통증 오래가는 이유, 뇌 연결망에서 찾았다&nbsp;&nbsp;e-의료정보",
+      "summary": "“대상포진 후 신경통, 뇌 연결망 변화와 관련될 수도”&nbsp;&nbsp;국제신문\"덥고 습한 날씨에 찌릿찌릿… 감기몸살인 줄 알았는데 '대상포진'?\"&nbsp;&nbsp;바이오타임즈대상포진은 나았는데 통증은 왜 계속? \"뇌 구조적 연결망 달랐다\"&nbsp;&nbsp;헬스경향대상포진 후 통증 오래가는 이유, 뇌 연결망에서 찾았다&nbsp;&nbsp;e-의료정보",
       "sources": [
         {
           "name": "국제신문",
@@ -222,22 +306,10 @@
       ]
     },
     {
-      "id": "df8bfcde915d",
-      "title": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\" - 네이트",
-      "published": "2026-07-20T09:02:00+00:00",
-      "summary": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\"&nbsp;&nbsp;네이트\"오후 3시 아이스 아메리카노 한 잔\"... 당신은 피로를 '끌어' 쓰고 있다 [똑똑한 웰니스]&nbsp;&nbsp;v.daum.net커피, 약일까 독일까...美심장협회 \"하루 3~5잔까지 안전\"&nbsp;&nbsp;동아사이언스美심장협회 \"커피 하루 3~5잔 괜찮다… 카페인 많은 에너지 음료는 위험\"&nbsp;&nbsp;조선일보커피 하루 2~4잔, 심장병·뇌졸중 위험 낮았다…美심장협회&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MdlBSMXp4bktPNGlRc1FYQUZ2OTlyQkQzaEZIdzdsOGpoYXA1aXZINHJlY3p4MFFUM3o1SnZzRXpOeHBjdWE0LUt2Q2NrWkdiR3dERnZ3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2b3730dea6a3",
       "title": "“치매 발병률 뚝”이라는데…발생률·유병률 따져보니 - 디멘시아뉴스",
       "published": "2026-07-20T08:44:59+00:00",
-      "summary": "“치매 발병률 뚝”이라는데…발생률·유병률 따져보니&nbsp;&nbsp;디멘시아뉴스[만물상] 이길 수 있는 병, 치매&nbsp;&nbsp;v.daum.net\"영양제보다 보청기?\"…WHO 치매 예방법 7년 만에 개정, 어떻게 바꼈나?&nbsp;&nbsp;네이트한국의 가장 흔한 치매 위험 요인은?...고혈압·흡연보다 ‘낮은 교육 수준’&nbsp;&nbsp;하이닥\"치매 위험요인 나라마다 다르다\"&nbsp;&nbsp;마음건강 길",
+      "summary": "“치매 발병률 뚝”이라는데…발생률·유병률 따져보니&nbsp;&nbsp;디멘시아뉴스WHO \"치매 예방하려면 대기오염 노출 줄이고, 영양제 과잉 피해야”&nbsp;&nbsp;뉴시스\"영양제보다 보청기?\"…WHO 치매 예방법 7년 만에 개정, 어떻게 바꼈나?&nbsp;&nbsp;네이트[만물상] 이길 수 있는 병, 치매&nbsp;&nbsp;v.daum.net\"치매 위험요인 나라마다 다르다\"&nbsp;&nbsp;마음건강 길",
       "sources": [
         {
           "name": "디멘시아뉴스",
@@ -282,6 +354,30 @@
       ]
     },
     {
+      "id": "837e9b041fa2",
+      "title": "여성암 치료 이후 ‘일상 복귀를 준비하는 회복 관리’ 중요 [박홍빈 원장 칼럼] - 미디어파인",
+      "published": "2026-07-20T06:17:21+00:00",
+      "summary": "여성암 치료 이후 ‘일상 복귀를 준비하는 회복 관리’ 중요 [박홍빈 원장 칼럼]&nbsp;&nbsp;미디어파인Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "미디어파인",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FODB3UEZtOGI1SjJrZHVvU1VPMVE0aDZpZFhuQl9fR0kxa0pWNzJQYnlTdDJGWWlWd0pha0xYbmlIRk5EYlBnTS1SNWg1N05ablM5N0JxejJuNDcxMTBEWkZiRVhOSkNMNzlwNnN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e78674f19848",
+      "title": "[의학칼럼] '소리없는 뼈 도둑' 고위험 골다공증, 골형성촉진제 치료가 도움 - 헬스조선",
+      "published": "2026-07-20T05:23:00+00:00",
+      "summary": "[의학칼럼] '소리없는 뼈 도둑' 고위험 골다공증, 골형성촉진제 치료가 도움&nbsp;&nbsp;헬스조선기침 한 번에 척추뼈 6개 뚝…'도미노 골절' 부르는 골다공증 주의보&nbsp;&nbsp;v.daum.net\"사골국 먹으면 뼈 튼튼?\"…골다공증 전문의의 반전 경고 - 머니투데이&nbsp;&nbsp;머니투데이[시민기자] 내 발로 걷는 골다공증 예방법&nbsp;&nbsp;국제신문\"사골국 먹는다고 안돼…'골다공증 위험' 40대 이후 여성, 근육 운동 하세요\"&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zSEhmbUhjWFVkRENNYlE4cmYyVWQzSnBEOFNUcDRMaWVlSU1CNzJqazd3Nl9kdU1TMG84QXdvV01TRVA0YW4tTFA3cHMxOEpodGFlWWtlaFdZeHF0QzdwLS1ENmdDWHNFOTdqVTBNSFVPYXBteDhickQ5RkRlOUk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "70e9f19fd90a",
       "title": "주 4회 이상 사우나 이용시, 치매 위험 66% 낮아진다?…연구 - 디지털투데이",
       "published": "2026-07-20T05:11:00+00:00",
@@ -321,7 +417,7 @@
       "id": "78ce2e50610d",
       "title": "호치민시에서 뎅기열 환자 급증 - Laodong.vn",
       "published": "2026-07-20T03:30:00+00:00",
-      "summary": "호치민시에서 뎅기열 환자 급증&nbsp;&nbsp;Laodong.vn뎅기열 유행 시기의 예방 및 관리.&nbsp;&nbsp;Vietnam.vn디지털 기술을 활용하여 전염병을 통제하고 퇴치합니다.&nbsp;&nbsp;Vietnam.vn열이 없다는 것은 뎅기열의 위험한 시기가 지났다는 것을 의미할까요?&nbsp;&nbsp;Vietnam.vn지아라이 지역에서 뎅기열 환자가 급증하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "호치민시에서 뎅기열 환자 급증&nbsp;&nbsp;Laodong.vn뎅기열 유행 시기의 예방 및 관리.&nbsp;&nbsp;Vietnam.vn디지털 기술을 활용하여 전염병을 통제하고 퇴치합니다.&nbsp;&nbsp;Vietnam.vn열이 없다는 것은 뎅기열의 위험한 시기가 지났다는 것을 의미할까요?&nbsp;&nbsp;Vietnam.vn한 학생이 뎅기열에 감염되어 지방 당국이 긴급히 질병 예방 조치를 시행하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -338,18 +434,6 @@
         {
           "name": "의약뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqQVI3UUVMVnZqY25sbFdYamVRTjR0WjBib2dVZ254d2VSSUlDbG4tREFDSUZCTDVwU3J2eE9kc25WdG5QaDJqNjBFRmU1U0cydlY4OVpNbWdNaVRBVzRVWjgwaVJJX1FG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e249885eb3a9",
-      "title": "암 표준치료 후 재활 관리에 따라 예후 달라질 수도 [유연각 원장 칼럼] - 하이뉴스",
-      "published": "2026-07-20T03:03:57+00:00",
-      "summary": "암 표준치료 후 재활 관리에 따라 예후 달라질 수도 [유연각 원장 칼럼]&nbsp;&nbsp;하이뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "하이뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51TE9CUnFTSWdPX1BJTmU1R0VnQTdLMll4WnlHQ1ZoUjRiUnRzTk5rMnkzLTVHU1JpNzdKM2xxWmRIaDNjcHQ2UTdWLVZuU0MyeUdkZUJrMDFYekNvalBZWFBCQXo5NDF0SFZWZUxnY2xRWXdk?oc=5"
         }
       ]
     },
@@ -482,42 +566,6 @@
         {
           "name": "한국보험신문",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JWWo2U01DWXhvSkZESU5DTzRjT05oRmREdWxvaVRwbEU4ZzdiNV9INVpyM1lVbm9rdm4tbHMwM21ZQWVsRjBCUVpyWFZCcklzWmxDNXdqR29yajdCbmFYQkg2ZHdPbm1hWFVF0gFvQVVfeXFMT3pqcnlFUTMzVnAxNTQxOWRkVGU3Mm1IUXhUTDB3OW1SclRkMnpHakZ3Rm9HNlZMUmVuOWdBQWg3SVd0N2paVUZGeDNQVm9INEJJdDY3YnNsM3VFOUVNVWxnVFFZaE0zdXAtSWRqYllZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e7f352cde40",
-      "title": "암 치료 중 많이 하는 질문(18) 항암 중 피부 트러블...미백화장품ㆍ선크림 발라도 될까? - 캔서앤서",
-      "published": "2026-07-19T12:23:06+00:00",
-      "summary": "암 치료 중 많이 하는 질문(18) 항암 중 피부 트러블...미백화장품ㆍ선크림 발라도 될까?&nbsp;&nbsp;캔서앤서",
-      "sources": [
-        {
-          "name": "캔서앤서",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fOHg5TU82SHdBNm9ZQkNxLWtVOEx0TXFGVkxERzJsMEVYVjc4aG5XVnE3X2YzbzlXLTFnd0JXSzRvQTFqekc0Ri10QUZzZ3dxT0Fxa21mcU9CR2M5MlVVaElMMnRmZV9ud2NFZWlDUXY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6867b348e8d0",
-      "title": "미용 시술 받은 여성 5명 중 1명은 ‘중독’ 위험 - 헬스조선",
-      "published": "2026-07-19T10:00:00+00:00",
-      "summary": "미용 시술 받은 여성 5명 중 1명은 ‘중독’ 위험&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrblYzbEZ1SWJodlFNV2FvNzF0WFhCYlFBeEZ2WWVldVU1anpVUjltcmowMnQxeG9OTXFPdnV1bzVjdTJHUFNwR0VleDJla2JFT2VIUzZuT3Uyb19IakV0MUU2d2drNU1Kd3ZyR0hhREpvMGp1dkdzaFhZano3akE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10eca9b98847",
-      "title": "그저 ‘적당한’ 세계가 온다 [이대한의 낭만연구실] - 한겨레",
-      "published": "2026-07-19T09:34:00+00:00",
-      "summary": "그저 ‘적당한’ 세계가 온다 [이대한의 낭만연구실]&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FbHFRMFBKXzFZOWJ2VUtxOENjRmxMWUlkdFBOQWxfaUtrbnRzRGx6UTJKWWxmTzJyVzFvYWlCUF9rQV9mRlJIT3YwV2xYbXcwOS1GX21uS1RCRDYwYnBEekR6cEJLdw?oc=5"
         }
       ]
     },
