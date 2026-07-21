@@ -1,10 +1,106 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-20T19:46:10.483062+00:00",
-  "total_fetched": 74,
-  "unique_count": 74,
-  "health_related_count": 40,
+  "fetched_at": "2026-07-21T02:54:05.670437+00:00",
+  "total_fetched": 82,
+  "unique_count": 82,
+  "health_related_count": 43,
   "news": [
+    {
+      "id": "deee3b27c0f5",
+      "title": "유방암 진단 후 1년내 허혈성뇌졸중 위험 59% 증가 - 메드월드뉴스",
+      "published": "2026-07-21T02:39:58+00:00",
+      "summary": "유방암 진단 후 1년내 허혈성뇌졸중 위험 59% 증가&nbsp;&nbsp;메드월드뉴스유방암 진단 후 1년 내 뇌졸중 위험 2.9배↑…왜?&nbsp;&nbsp;뉴시스유방암 진단받았는데 왜 한쪽 팔이 풀릴까…첫 3개월의 복병&nbsp;&nbsp;네이트유방암 초기 뇌졸중 위험 ‘2.9배’&nbsp;&nbsp;의학신문“유방암 진단 초기, 뇌경색 위험 최대 2.9배 껑충”&nbsp;&nbsp;간호사신문",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGSW16M3hwV1NXQlVQc1VQc3BZZXhXTU14UXVNajZVRTN2VDN3VVBIX1FSaW5YbGk0aHRxQkVyangyQXh4TmNRYUFVQTdoajdpU3RET29Mam5vZ09RaGdTNW1IWGZWOHQxbDM3Mg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "df5d589daff9",
+      "title": "신장이식 후 콜레스테롤 변화로 장기 예후 예측 가능 - 병원신문",
+      "published": "2026-07-21T02:30:26+00:00",
+      "summary": "신장이식 후 콜레스테롤 변화로 장기 예후 예측 가능&nbsp;&nbsp;병원신문",
+      "sources": [
+        {
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RbkluV0laOUZVWEFtRzlDQUhocHF2OVp3d0Fyb1BpU0c1WWRYNGdmTEJWQzYwNDdFaV9rWDZmQ2RLOE1OWDlDMmt4d3Y1ZEFaTzF4ZmtFcV85Mkx2QVBDWFBiQ21Bdzh0enc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1356c7c2ea4",
+      "title": "“제로슈거 안심 금물”…처방 흔한 ‘이 약’ 만나면 ‘장내 유익균’ 억제 - 농민신문",
+      "published": "2026-07-21T01:06:56+00:00",
+      "summary": "“제로슈거 안심 금물”…처방 흔한 ‘이 약’ 만나면 ‘장내 유익균’ 억제&nbsp;&nbsp;농민신문제로칼로리 감미료, '이것'과 만나면 장 건강 해칠 수 있다&nbsp;&nbsp;뉴시스'제로' 식품이라 안심했는데…\"장내 유익균 성장 방해할 수도\" - 머니투데이&nbsp;&nbsp;머니투데이헬시플레저가 바꾼 음료시장…'제로' 넘어 기능성 음료 시대 열린다&nbsp;&nbsp;한국식품의약신문“제로 콜라만 믿었는데”…설탕 대신 인공감미료, 매일 먹으면 어떤 변화가?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yaHFuVVh1T045c1lFY2ItTjVUNWd5U2xyYVBPMHl2dHI5NlBfNkNUZldKMGwzeERuZnRqSVVEYjZGSGUzOGthTDlPV1VlUjJZa2dhd0RWcDBxQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c36f7962599f",
+      "title": "무더운 여름철 붓고 피나는 잇몸...휴가철 점검할 구강건강 위험 신호 - 바이오타임즈",
+      "published": "2026-07-21T01:00:00+00:00",
+      "summary": "무더운 여름철 붓고 피나는 잇몸...휴가철 점검할 구강건강 위험 신호&nbsp;&nbsp;바이오타임즈입안에서 흔히 발견되는 박테리아가 심장 판막 협착증의 숨은 원인일 수 있을까요?&nbsp;&nbsp;Vietnam.vn어린 시절 ‘이 질환’ 있었다면…성인 심장병 위험 최대 45% 오른다&nbsp;&nbsp;레이디경향부은 잇몸 방치했더니… 심장에 치명적 영향&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5T2J2anhaaXhQbHZSSVJyZXh3YXcxWXFIdWtkYmJMRFVhQWtvLW0tRUdVZElQRGpXT3dudzV1cDV5Y2VSRUtUMzhBY0Zvb2dyYnVMbE9RaDROa1FRM1dsaElsNlhEanVrZk45Tw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d0a42c63a788",
+      "title": "어려보이는 피부 비결?…‘미생물’에 빠진 뷰티업계 - 세계일보",
+      "published": "2026-07-20T23:16:09+00:00",
+      "summary": "어려보이는 피부 비결?…‘미생물’에 빠진 뷰티업계&nbsp;&nbsp;세계일보'진짜 새벽' 앞둔 마이크로바이옴…임상 반전 카드는 '데이터'&nbsp;&nbsp;메디칼타임즈\"빌 게이츠가 주목한 마이크로바이옴, 전신 건강 출발점\"&nbsp;&nbsp;economychosun.com[박준혁의 건강&생활] 장이 건강해야 뇌도 건강하다&nbsp;&nbsp;한라일보장내 미생물이 스트레스성 우울 행동을 완화한다… 뇌 신경영양 신호 회복 기전 규명&nbsp;&nbsp;BRIC",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqOUVkN01UZWJJLUlyTzB3UndTOXlaTnFfdFdYbTN1WmdVOW95ZUJOeDg4NC0zVDVnOUFLZmpnMzRDS1Q4UnFzdGl0XzBKUXR0MlRYSC00a2HSAVRBVV95cUxOUkhYYkwtVEhYSE52Z1ZJZW02OWVPZ013RTJ4NkdxX1BWYmxUU29sNUZvYVVSTnQ4X0Y3UDg5a0VNb3BSMlBQVjR5eGNHdVFhTk1XV04?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "99bba3e6cd2d",
+      "title": "[칼럼] 물놀이 후 충혈·통증 방치 금물…여름철 각막염 예방법 - 메드월드뉴스",
+      "published": "2026-07-20T23:09:19+00:00",
+      "summary": "[칼럼] 물놀이 후 충혈·통증 방치 금물…여름철 각막염 예방법&nbsp;&nbsp;메드월드뉴스[건강톡톡] “물놀이 계절 비상”… 여름철 각막염 주의보&nbsp;&nbsp;간호사신문왜 장마철에 귀 가려움증이 더 흔할까요?&nbsp;&nbsp;Vietnam.vn물놀이 후 발생하는 외이도염, 정확한 진단·관리 필요&nbsp;&nbsp;메디컬투데이휴가철 물놀이, 이것만 지키세요...여름철 건강수칙&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13bXJzNWp3WXZuRERTUExVSm1vRTRiYmR1ZDhLUjA1aFlZSDJmWkdfSDhUOV8yWDY4UmVaOXpUZHdXT2wxSjRBT0Izb0dwU3ROVmR0YTBLX2cyTW9fRzc4TU1QZG9UaW9sVjhvMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d55d0a8cf974",
+      "title": "[김길원의 헬스노트] 노년기 근육 손실 막아야 심장·뇌혈관 건강 지킨다 - 네이트",
+      "published": "2026-07-20T21:13:00+00:00",
+      "summary": "[김길원의 헬스노트] 노년기 근육 손실 막아야 심장·뇌혈관 건강 지킨다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pT0FiNkR3ZDc1RHRibE85ZkZIS2t4eDVrbldBb0gtTjBVWWdJUnZKdENhclpxUmRYbGVHVU1SN0xsTmtSX2U3eUpOQm5VbXc4cE13?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a4e538f27d56",
+      "title": "파킨슨병과 헷갈리는 치매, 루이소체 치매 - 이투데이",
+      "published": "2026-07-20T21:00:00+00:00",
+      "summary": "파킨슨병과 헷갈리는 치매, 루이소체 치매&nbsp;&nbsp;이투데이",
+      "sources": [
+        {
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sTldCenkzcjdudWc5TmVaRkJYc3FSUWZ0RzkzUGFxb1pHYWNQeFVvUXphdWRVRHd5bklSbDNOLTZ0Zi1HNFBReW1CZGJ2WVlPX3dkYW9xMXFJQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "7dabe1743def",
       "title": "난치성 뇌질환 표적 전달체 원천기술 특허등록 - 네이트",
@@ -18,14 +114,26 @@
       ]
     },
     {
-      "id": "4e8d5f38636d",
-      "title": "마그네슘 부족은 불면증을 유발하고 자주 일찍 깨어날 수 있습니다 - Laodong.vn",
-      "published": "2026-07-20T15:00:00+00:00",
-      "summary": "마그네슘 부족은 불면증을 유발하고 자주 일찍 깨어날 수 있습니다&nbsp;&nbsp;Laodong.vn",
+      "id": "2f37037767c0",
+      "title": "\"배멀미인 줄 알았는데…\" 뇌질환 진단 받은 30대 여성 - 헬스조선",
+      "published": "2026-07-20T14:00:00+00:00",
+      "summary": "\"배멀미인 줄 알았는데…\" 뇌질환 진단 받은 30대 여성&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXE5aWk1UFdzX1p3a2NLdHk3OElsTEJDS0JRMWNOMUh6WDY3ZEliSHNiNU5GS05EZkFXV0Z1WVZ2ZDAxSkFPR0l1NjJ1a1I5TFBMM2NFNDg1anZiaWN0N2R4bHRUT1VzSTRPekVzMHpnYVJnZWFBem5wQkwtNDlfOTExcTVZc3VlTXJzOXo3dmJIVzcxZ0s2TUppRlJEUVNUQnhwSVd1Q2xWOXZqdGc?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMHg5ZHdXR1p4b3Q4V3R0S1lQNHB3a3lIVTBYZzZtaEFPS2dZVmdIOWJYcmxXVTZ5OUVBN3l4VlZESDVBNTE0cmdNLUc3WlJDVm5tbHIyQ1VJdFM4SzlpNEJmZWZNVDB1a0k3OHJWc3F3VjlMWU1BcXVWdGo5NGM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d57fe3cd18f2",
+      "title": "입에서 왜 이런 냄새가… ‘당뇨병’ 신호였다 - 헬스조선",
+      "published": "2026-07-20T12:30:00+00:00",
+      "summary": "입에서 왜 이런 냄새가… ‘당뇨병’ 신호였다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qSUFISWRJcjZlT3h1MmhwWHYtbEVOQ3lITWVRaFU0RDA4OEdjdkxEdnZjUENtQll3Y0pBbGpHOWpiaTI1akJXZ2lIdElLUUhKRFVtQ0ZfdTNQV1luTnVST1FhY1lmMHNwQURFQ0Y5bkV2QmthRXpXcVBBbFZkRVE?oc=5"
         }
       ]
     },
@@ -57,7 +165,7 @@
       "id": "df8bfcde915d",
       "title": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\" - 네이트",
       "published": "2026-07-20T09:02:00+00:00",
-      "summary": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\"&nbsp;&nbsp;네이트하루 커피 5잔까진 심장에 괜찮다는데…에너지음료는 1캔도 위험 [달콤한 사이언스]&nbsp;&nbsp;서울신문[SDG 3] 커피, 간 건강 지키는 새로운 열쇠 될까…간경변·간암 위험 최대 47% 낮춰&nbsp;&nbsp;SDG뉴스커피의 항노화 비밀 찾았다…세포 내 '방어 스위치' 켜 인체 보호&nbsp;&nbsp;프리진경제매일 마시는 커피, 간에 미치는 영향은?&nbsp;&nbsp;realfoods.co.kr",
+      "summary": "\"커피 하루 3~5잔은 괜찮다…에너지 음료는 주의 필요\"&nbsp;&nbsp;네이트하루 커피 5잔까진 심장에 괜찮다는데…에너지음료는 1캔도 위험 [달콤한 사이언스]&nbsp;&nbsp;서울신문\"냉커피 하루 4잔 괜찮을까?\"&nbsp;&nbsp;용인신문커피의 항노화 비밀 찾았다…세포 내 '방어 스위치' 켜 인체 보호&nbsp;&nbsp;프리진경제매일 마시는 커피, 간에 미치는 영향은?&nbsp;&nbsp;realfoods.co.kr",
       "sources": [
         {
           "name": "네이트",
@@ -66,34 +174,10 @@
       ]
     },
     {
-      "id": "cf760cf6d355",
-      "title": "제로칼로리 감미료, '이것'과 만나면 장 건강 해칠 수 있다 - 뉴시스",
-      "published": "2026-07-20T09:00:00+00:00",
-      "summary": "제로칼로리 감미료, '이것'과 만나면 장 건강 해칠 수 있다&nbsp;&nbsp;뉴시스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0anNSbXhsYnZPcUdlRnVPcGxCanA3NVJyVlFiOVFIZ2FhLUJueDZvUXB2X29FdVBUSkFrbE9KX3hvbVZncXpBQVV2eDBCcksxQ1lNVmxSWGpUTmEtRTQtMExn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd56172358f7",
-      "title": "'황금알' 비만약 품은 삼성바이오 … 생산능력·기술·시장 동시확보 - 매일경제",
-      "published": "2026-07-20T08:45:19+00:00",
-      "summary": "'황금알' 비만약 품은 삼성바이오 … 생산능력·기술·시장 동시확보&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaeG5aUHM2aS11MWwtVkc3TnZUQzQwdFllN0swR3ZrR0F4SVhpMWV1MjlDVnduTTFVYU5qZmVWVGNlc0NIdVNyaGZfREppQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2b3730dea6a3",
       "title": "“치매 발병률 뚝”이라는데…발생률·유병률 따져보니 - 디멘시아뉴스",
       "published": "2026-07-20T08:44:59+00:00",
-      "summary": "“치매 발병률 뚝”이라는데…발생률·유병률 따져보니&nbsp;&nbsp;디멘시아뉴스[만물상] 이길 수 있는 병, 치매&nbsp;&nbsp;조선일보치매와의 전쟁, 희망 보이나…예방의학이 바꾼 40년&nbsp;&nbsp;v.daum.net치매 발병률 빠른 감소… 퇴치도 더는 꿈이 아니다 [PADO] - 머니투데이&nbsp;&nbsp;머니투데이\"치매 최대 45% 막을 수 있다\"…WHO가 공개한 예방법 8가지&nbsp;&nbsp;네이트",
+      "summary": "“치매 발병률 뚝”이라는데…발생률·유병률 따져보니&nbsp;&nbsp;디멘시아뉴스[만물상] 이길 수 있는 병, 치매&nbsp;&nbsp;v.daum.net\"영양제보다 보청기?\"…WHO 치매 예방법 7년 만에 개정, 어떻게 바꼈나?&nbsp;&nbsp;네이트한국의 가장 흔한 치매 위험 요인은?...고혈압·흡연보다 ‘낮은 교육 수준’&nbsp;&nbsp;하이닥\"치매 위험요인 나라마다 다르다\"&nbsp;&nbsp;마음건강 길",
       "sources": [
         {
           "name": "디멘시아뉴스",
@@ -114,14 +198,14 @@
       ]
     },
     {
-      "id": "e78674f19848",
-      "title": "[의학칼럼] '소리없는 뼈 도둑' 고위험 골다공증, 골형성촉진제 치료가 도움 - 헬스조선",
-      "published": "2026-07-20T05:23:00+00:00",
-      "summary": "[의학칼럼] '소리없는 뼈 도둑' 고위험 골다공증, 골형성촉진제 치료가 도움&nbsp;&nbsp;헬스조선기침 한 번에 척추뼈 6개 뚝…'도미노 골절' 부르는 골다공증 주의보&nbsp;&nbsp;v.daum.net[시민기자] 내 발로 걷는 골다공증 예방법&nbsp;&nbsp;국제신문단단함의 조건, 뼈도 관리가 필요하다&nbsp;&nbsp;Vogue korea\"골절은 갑자기 오지 않는다\"…50세 이상 2명 중 1명 '골감소증' 위험&nbsp;&nbsp;매경헬스",
+      "id": "86bf32a70aa3",
+      "title": "초가공식품 많이 먹을수록… 심혈관질환 위험 최대 38%↑ - 하이닥",
+      "published": "2026-07-20T07:00:00+00:00",
+      "summary": "초가공식품 많이 먹을수록… 심혈관질환 위험 최대 38%↑&nbsp;&nbsp;하이닥Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zSEhmbUhjWFVkRENNYlE4cmYyVWQzSnBEOFNUcDRMaWVlSU1CNzJqazd3Nl9kdU1TMG84QXdvV01TRVA0YW4tTFA3cHMxOEpodGFlWWtlaFdZeHF0QzdwLS1ENmdDWHNFOTdqVTBNSFVPYXBteDhickQ5RkRlOUk?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qV0JQUl9TNi1iNTJWLVp6TUZfOVVvTDRKaWcxd0lQbVBaa3VfcmFDTHRpUDdIR2RLWkIzRVgzUzVXT2E1VEhlVGp0czVMWGM3M0NOWDNPdE5UYmRnLUFRSkZGRDA3NWtuc1E?oc=5"
         }
       ]
     },
@@ -158,30 +242,6 @@
         {
           "name": "디지털투데이",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GWkhSWldzb2J5V2xmM3BhRVpDbUdBREpOWWx0cl9IREgzdGtjajFjZ3dGVlpNUWExTGUzVFg4azZONVM1cG00WDNkTndHSk9FT3Y5YUFSR0pNaUpycjNXMFpvY0h0VXZHWDliUndIYW5idXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d67391694ac1",
-      "title": "[정구성의 건강칼럼] 10만km 혈관 건강, 식탁 위 작은 씨앗 '아마씨'에 주목하는 이유 - 뉴스티앤티",
-      "published": "2026-07-20T05:08:23+00:00",
-      "summary": "[정구성의 건강칼럼] 10만km 혈관 건강, 식탁 위 작은 씨앗 '아마씨'에 주목하는 이유&nbsp;&nbsp;뉴스티앤티“혈관 건강해진다”… 영양사 추천 ‘최고의 간식’은?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "뉴스티앤티",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03T3hlVlRBOUs0RXFfd3VoTjdxQ3ROQ3ZvUExOWjFydjNjS0VpS1dwRXBkWTIwZFVHV0ZzaFozSHlTZnFNYUFyREktQjhScjl4RDFiSzZMc2lOdkQxQk9JS3hEeFhaOVFiRnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c33f0ecd4391",
-      "title": "여름 감기라는 오해? 냉방병 증상과 치료방법 속 숨겨진 면역 지침의 반전 - 한국공공정책신문",
-      "published": "2026-07-20T05:04:45+00:00",
-      "summary": "여름 감기라는 오해? 냉방병 증상과 치료방법 속 숨겨진 면역 지침의 반전&nbsp;&nbsp;한국공공정책신문\"냉방병인 줄 알았는데\"… 코막힘 오래가면 축농증 의심해봐야 [김수연의 헬스업]&nbsp;&nbsp;v.daum.net어? 이건 뭐지?- 사진으로 보는 이비인후 질환 > 뉴스&nbsp;&nbsp;한의신문장마철 비부비동염: 오래 지속되는 코막힘을 과소평가하지 마세요.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "한국공공정책신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE84Qk1jNndIT2lBUnBPUHcwUFo0ajNJbEp3ZkRjWkNTZWRBaGstenVFd1JXbTJqOXFwWUgtMjF5c2UwaWM?oc=5"
         }
       ]
     },
@@ -258,18 +318,6 @@
       ]
     },
     {
-      "id": "9c3e1da39f0c",
-      "title": "알츠하이머 치료, 단백질 제거 넘어 ‘DNA 복구’로…신규 기전 약물 주목 - 헬스코리아뉴스",
-      "published": "2026-07-20T01:14:25+00:00",
-      "summary": "알츠하이머 치료, 단백질 제거 넘어 ‘DNA 복구’로…신규 기전 약물 주목&nbsp;&nbsp;헬스코리아뉴스",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02d2JXNXRKcnhMU3JXYjhXMlZJMTRDQmVnaTFySFNTMmQ2aVFFNDM5ZjRsWV83VkEtSDM2WUFzSjlvLUN3aGtNUVg1Z2tKa1BCbkszT0dFbnpqdlBkZXZqVHhqZlJuMEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8e5e68938c04",
       "title": "혈당 개선, 뼈 강화, 다이어트 효과까지…열량 높아도 건강에 좋은 고칼로리 식품들 - 코메디닷컴",
       "published": "2026-07-20T01:05:00+00:00",
@@ -314,6 +362,18 @@
         {
           "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94TFgzbHJTeGJhRWtvaDRrQXFmOW54M05YdUFhX2x3aUtpbXJPSkY5ZjJsaV9XRXVUTEVKM25HWFpGVXpkUHF1SkhrTHhYT0R0SWtpVWlVWXVRc2EtOFhYN2RKaTB4ZzRGcUxDYkYzXzZoQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aef0e34c880d",
+      "title": "“빛만 비추면 버튼이 저절로 솟아난다” KAIST, 형상기억합금 메타모핑 구조 개발 - v.daum.net",
+      "published": "2026-07-19T23:21:40+00:00",
+      "summary": "“빛만 비추면 버튼이 저절로 솟아난다” KAIST, 형상기억합금 메타모핑 구조 개발&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGc0xIdnJLcFF2Q19xNV9xTlE1d09QYWJuY2UwWEZqQU0wQUlfdGJvZFZpSzZXSEViTmpGa2s2dUt6dmYwZXZJaVdCNlVEdWs?oc=5"
         }
       ]
     },
@@ -381,7 +441,7 @@
       "id": "040788ade998",
       "title": "저녁 늦게 먹는 습관, ‘이 암’ 위험 높인다?⋯“음식보다 중요한 건 시간” - 코메디닷컴",
       "published": "2026-07-19T10:04:00+00:00",
-      "summary": "저녁 늦게 먹는 습관, ‘이 암’ 위험 높인다?⋯“음식보다 중요한 건 시간”&nbsp;&nbsp;코메디닷컴늦게 자고 늦게 일어나는 '올빼미형'…뱃살 더 많이 나온다&nbsp;&nbsp;네이트늦게 자는 사람이 살찌는 이유, 답은 '여기'에 있었다&nbsp;&nbsp;약사공론저녁형 인간, 배·엉덩이에 지방 몰린다&nbsp;&nbsp;헬스조선",
+      "summary": "저녁 늦게 먹는 습관, ‘이 암’ 위험 높인다?⋯“음식보다 중요한 건 시간”&nbsp;&nbsp;코메디닷컴최고의 저녁 식사 시간은 '오후 5~6시'…\"일찍 먹어야 잘 잔다\"&nbsp;&nbsp;아시아경제늦게 자고 늦게 일어나는 '올빼미형'…뱃살 더 많이 나온다&nbsp;&nbsp;네이트늦게 자는 사람이 살찌는 이유, 답은 '여기'에 있었다&nbsp;&nbsp;약사공론저녁형 인간, 배·엉덩이에 지방 몰린다&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -441,23 +501,11 @@
       "id": "5cc30b74a883",
       "title": "세 자녀 이상 출산한 여성, 완경 후 골절 가능성 36%↑ - 한국일보",
       "published": "2026-07-19T03:00:00+00:00",
-      "summary": "세 자녀 이상 출산한 여성, 완경 후 골절 가능성 36%↑&nbsp;&nbsp;한국일보세 번 이상 임신한 여성, 폐경 후 골절 위험 높아&nbsp;&nbsp;헬스조선엄마의 뼈 건강을 살필 시간&nbsp;&nbsp;우먼스토리뉴스서울성모병원 성경헌 전공의, 대한골대사학회 우수구연상 수상&nbsp;&nbsp;의약뉴스출산 많을수록 골절 위험 쑥…원인은 ‘이것’ 공백&nbsp;&nbsp;동아일보",
+      "summary": "세 자녀 이상 출산한 여성, 완경 후 골절 가능성 36%↑&nbsp;&nbsp;한국일보세 번 이상 임신한 여성, 폐경 후 골절 위험 높아&nbsp;&nbsp;헬스조선아기 많이 났다면 '뼈 건강' 조심하세요&nbsp;&nbsp;마음건강 길다자녀 여성, 폐경 후 골절 위험 36% 높아…\"예방 관리 중요\"&nbsp;&nbsp;hidomin.com다자녀 출산 여성, 폐경 후 골절 위험 높아져…'이것' 먹어야&nbsp;&nbsp;아이뉴스24",
       "sources": [
         {
           "name": "한국일보",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LblFYanp4bTlmV0tfOU8tMWFVSEU1Zk5oRkdIcnI1NkdubW5CeEhGQy1xOWFYVnZxYmppeGFYbG81MXd1UnlvbjZWQllNb2k2Y3hSLVNVTk5MaXdDNWlhM3RyR00tWkJvendoczFR0gFzQVVfeXFMUHU3UWhuS0xQSS1jN2ZUVlNVbnFGTHI1ZUZKVGE2OXN5OGsxLU4za0Z4QlRYZTh2UTJkLWZkMUFIQVR6N05nRVU5Tm1iZXRVcWpDc2ZhaXdXVldURWhZYXFYX3ZRTjRqWkJQdmRnaEhXaVBRSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "80274d3877cc",
-      "title": "난임치료휴가 유급기간 11월부터 늘어나…상한액은? [슬직생] - 세계일보",
-      "published": "2026-07-18T22:34:23+00:00",
-      "summary": "난임치료휴가 유급기간 11월부터 늘어나…상한액은? [슬직생]&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ERnpxc1Y4dXZpb2RfODRuU2pOcTNLWkUxcWZJQUtLYkRyeF91Y0hCaGRab0VTXzI2YWgwSTJVOVR1LXlIY2JzTUN3MGdsRVVXOFpzcnFCS3TSAVRBVV95cUxNZGxxWXJrSko3WGp6bG1mZHZDaUN4TWRHT1pGN1NiNXZ4RjRGdnZSRVBybmpkSG5lRUk5amhhdlFmNThWd0RUODIzQ3JTdDVab0N0OTY?oc=5"
         }
       ]
     },
@@ -470,18 +518,6 @@
         {
           "name": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EN3dQY0xhWDFZRXNpQmJSMV8zWXZvZ3lzVmpQZ0l5WnhaMGgxWE1MR243d3NxeW9EUURKLUFCSnVQOUxWV28zNFFiemNyeVJWRy1DNHJfWjFwcGlVVmpFTWdTUEdXSmEzVnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85a3539718e3",
-      "title": "우주서 첫 엑스레이 촬영…\"우주인 건강관리 새 길 열렸다\" [우주로 간다] - 지디넷코리아",
-      "published": "2026-07-18T00:33:05+00:00",
-      "summary": "우주서 첫 엑스레이 촬영…\"우주인 건강관리 새 길 열렸다\" [우주로 간다]&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80a2hJSDVKd0NUTmprajNUWm54MEhlMThFNW9MZm0yMW1XOXMtbXJ4UnBNcjNRSzJiWFBnR01BSUNnQUJCSF9zLWs5UHZTVFVSbThGd3Zn?oc=5"
         }
       ]
     }
