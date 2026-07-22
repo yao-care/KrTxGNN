@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-22T14:01:56.426229+00:00",
-  "total_fetched": 77,
-  "unique_count": 77,
-  "health_related_count": 38,
+  "fetched_at": "2026-07-22T19:24:51.877474+00:00",
+  "total_fetched": 72,
+  "unique_count": 72,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "933284687e40",
+      "title": "모기 물렸을 뿐인데 얼굴까지 부었다… 스키터 증후군 의심? - 금강일보",
+      "published": "2026-07-22T18:00:00+00:00",
+      "summary": "모기 물렸을 뿐인데 얼굴까지 부었다… 스키터 증후군 의심?&nbsp;&nbsp;금강일보“모기 물린 뒤 유난하다 했는데”…알고 보니 스키터 증후군?&nbsp;&nbsp;v.daum.net\"모기 물린 줄 알았는데 돌연 응급실행\"…여름철 '이 병' 방치했다간 패혈증까지&nbsp;&nbsp;네이트사랑은 숨겨도 가려움은 숨길 수 없는 이유&nbsp;&nbsp;개미신문'작은 상처 방치, 여름철 연조직염 부른다'…피부 감염 주의보&nbsp;&nbsp;뉴스토피아",
+      "sources": [
+        {
+          "name": "금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hN29rX3h2WkxmUnJGSnVrWjkxQmt3RlFuQy10czN3NDF1SDhvZFh6Wl9FaDI1Qy1lMnFiVzhBdGVKZVp3Y25DZXFqaDFCU3NxS0JvcTJweDY5ekZkVEZOOXVIWkJsZHhYc0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a98a698fbf1b",
+      "title": "[Dr.이은봉의 의학 연구 다이제스트] 가공식품 많이 먹으면 고혈압 위험 29% 늘어 - 조선일보",
+      "published": "2026-07-22T15:39:00+00:00",
+      "summary": "[Dr.이은봉의 의학 연구 다이제스트] 가공식품 많이 먹으면 고혈압 위험 29% 늘어&nbsp;&nbsp;조선일보통증 나타났을 땐 늦어…심장 전문의가 멀리하는 음식은?&nbsp;&nbsp;헬스조선초가공식품, 심혈관질환 최대 38% 원인 가능성…섭취 절반 줄이면 사망 감소&nbsp;&nbsp;네이트초가공식품 많이 먹을수록… 심혈관질환 위험 최대 38%↑&nbsp;&nbsp;하이닥“40분 내에 혈압 폭증”…혈관 혹사시키는 음식, 정체는?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xTUxyMk8tNS1HTmZ4SklmTzhrallHTHk5enozejl4UGFBMjF2S3ZnSG1ZS3EybF9yZ3h6bHJGV19idk9jeVgtOFlFWjFWcVRNSXpRSTdSZGg4X3BRQ3BvZUJZNE5GQVhwdGhoZjduYXFWbi1ZTG5acQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "54cdb0cca79b",
+      "title": "유방암 진단 후 1년 내 뇌경색 위험 59% 증가 - 조선일보",
+      "published": "2026-07-22T15:39:00+00:00",
+      "summary": "유방암 진단 후 1년 내 뇌경색 위험 59% 증가&nbsp;&nbsp;조선일보유방암 진단 초기 뇌졸중 위험 급증…3개월 내 2.9배↑&nbsp;&nbsp;v.daum.net유방암 진단 1년 내 뇌졸중 뒤따라올 위험 59%↑…\"암이 혈액 굳게 해\" - 머니투데이&nbsp;&nbsp;머니투데이[김태열의 생생건강S펜] “유방암 치료후 갑작스런 편마비·언어장애 올 확률 증가해..바로 병원 찾아야”&nbsp;&nbsp;헤럴드경제삼성서울병원 \"유방암 진단 초기 허혈성 뇌졸중 위험 증가\"&nbsp;&nbsp;로이슈",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xcmd4TEZmTVpIRXV4WlV1VzFHc0tsSWJOOHl2eUY2WEp1YkNSTUxvbnVtdmtwMm40N3p3OVVBZTNZYlo2TGF1NlBqeDdUZXh4NHlvb0dpdGFBc0lpS1A0UEw2blpYOS1iVzNITjRqazVROHk1cDJZaA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e25adf61f098",
+      "title": "100세까지 걷고 싶다면 이 운동부터 하세요 오래 걷는 사람들의 공통점은 '걷기'보다 '하체 근력'에 있었다 - 한국AI부동산신문",
+      "published": "2026-07-22T15:37:29+00:00",
+      "summary": "100세까지 걷고 싶다면 이 운동부터 하세요 오래 걷는 사람들의 공통점은 '걷기'보다 '하체 근력'에 있었다&nbsp;&nbsp;한국AI부동산신문출근길에 하면 심장 훈련된다…1만보 걷기보다 센 ‘1분 운동’&nbsp;&nbsp;중앙일보매일 못 걸어도 괜찮아…‘주말 운동족’도 장수 효과&nbsp;&nbsp;레이디경향러닝머신 속도 ‘이 정도’로 해놓고 걸었더니…당뇨병 막는 효과 탁월&nbsp;&nbsp;코메디닷컴매주 근력 운동, 사망 위험 낮아져…연구&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSRzFqdlF0QnpKQzFrSlF2UlJEdkd0eFFlTzdRWlR6RXItUkRmZzVhSHlWVjUycnJSUXFyR1lrZlVnRDlDLU1weDRON0k?oc=5"
+        }
+      ]
+    },
     {
       "id": "75a9a7e91b5a",
       "title": "살은 빠졌는데 얼굴은 늙었다? 급격한 체중 감량이 남기는 흔적 - 뉴스탭",
@@ -14,18 +62,6 @@
         {
           "name": "뉴스탭",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yd21aU1hXUm0wSmY4LUtZSkFOcUpUYWs0eDdLdUFEZHBhbWdTbW5yMC1kUVBNWnF2dXpob1d3cGFkTVdIZ2pjTTZEc0g2X2syQnZGVXVpLU5jaEg1cW9zVXVHUFNwQ3l3OTlCSg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7356a2817456",
-      "title": "통증 나타났을 땐 늦어…심장 전문의가 멀리하는 음식은? - 헬스조선",
-      "published": "2026-07-22T10:30:00+00:00",
-      "summary": "통증 나타났을 땐 늦어…심장 전문의가 멀리하는 음식은?&nbsp;&nbsp;헬스조선[창간 25주년] 과학적 근거 부족한 영양제·건기식이 스타틴 대체 못해-③&nbsp;&nbsp;메디칼업저버“동맥에 쌓인 지방 걷어내” 심장내과 의사가 꼭 지키라는 생활수칙은?&nbsp;&nbsp;헬스조선콜레스테롤·중성지방 낮추는 음식 챙겼는데… LDL 그대로인 이유&nbsp;&nbsp;헬스조선나에게 맞는 나쁜 LDL-콜레스테롤 목표치는 무엇인가요?&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CRjIxRzZGdFJaMm9YaldoUm5CbE1VQUVacDhENUVuUXgwdVpkcWR1UVNxUXNGT0NTbkVNbnN0aW1CWXdqNk1UbGt5aXVoU3lBS184ZnpMX3pxSWNuQ2o1d3BqYW9kUkRJT0xWS3JZeEpUR3B4V2RaZ1hPZG83eDQ?oc=5"
         }
       ]
     },
@@ -81,7 +117,7 @@
       "id": "66e3e5ede8cd",
       "title": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견 - 헬로디디",
       "published": "2026-07-22T08:30:00+00:00",
-      "summary": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견&nbsp;&nbsp;헬로디디뇌 노폐물 배출 전과정 세계 첫 규명…치매 치료 새 전략&nbsp;&nbsp;동아사이언스뇌 노폐물 배출하는 '첫 관문' 발견…치매 치료법 실마리 찾아&nbsp;&nbsp;MTN 머니투데이방송뇌 노폐물 빠져나가는 ‘비밀 구멍’ 국내 연구진이 첫 발견&nbsp;&nbsp;조선일보\"뇌 노폐물 배출 '첫 관문' 확인…뇌질환 연구 새 전기 기대\"&nbsp;&nbsp;v.daum.net",
+      "summary": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견&nbsp;&nbsp;헬로디디뇌 노폐물 배출 전과정 세계 첫 규명…치매 치료 새 전략&nbsp;&nbsp;동아사이언스뇌 노폐물 빠져나가는 ‘비밀 구멍’ 국내 연구진이 첫 발견&nbsp;&nbsp;조선일보국내 연구진이 해냈다…단단한 뇌막의 '비밀 구멍' [자막뉴스]&nbsp;&nbsp;네이트\"뇌 노폐물 배출 '첫 관문' 확인…뇌질환 연구 새 전기 기대\"&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "헬로디디",
@@ -93,7 +129,7 @@
       "id": "8c4215e683fa",
       "title": "“잠버릇·걸음걸이 달라졌다면”…치매 몇년 전 나타나는 신호 6가지 [건강을 부탁해] - 나우뉴스",
       "published": "2026-07-22T08:25:00+00:00",
-      "summary": "“잠버릇·걸음걸이 달라졌다면”…치매 몇년 전 나타나는 신호 6가지 [건강을 부탁해]&nbsp;&nbsp;나우뉴스하루 9시간 넘게 자는 노인, ‘치매 초기 신호’ 가능성 [노화설계]&nbsp;&nbsp;동아일보\"아버지, 왜 머뭇거리세요\" 가볍게 생각했는데…뜻밖의 연구 결과&nbsp;&nbsp;아시아경제\"잠버릇·걸음걸이 달라졌다면\"…치매 몇년 전 나타나는 신호 6가지 [건강을 부탁해]&nbsp;&nbsp;네이트치매 환자 불면증 주범은 '뇌 면역세포'&nbsp;&nbsp;뉴스토마토",
+      "summary": "“잠버릇·걸음걸이 달라졌다면”…치매 몇년 전 나타나는 신호 6가지 [건강을 부탁해]&nbsp;&nbsp;나우뉴스하루 9시간 넘게 자는 노인, ‘치매 초기 신호’ 가능성 [노화설계]&nbsp;&nbsp;동아일보\"아버지, 왜 머뭇거리세요\" 가볍게 생각했는데…뜻밖의 연구 결과&nbsp;&nbsp;아시아경제치매 환자 불면증 주범은 '뇌 면역세포'&nbsp;&nbsp;뉴스토마토하루 8시간 30분 이상 수면, 알츠하이머병 혈액표지자 증가&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "나우뉴스",
@@ -174,18 +210,6 @@
       ]
     },
     {
-      "id": "dd9fbd223c07",
-      "title": "[의사들이 매일 실천하는 건강습관 ②] 하루 30분 걷기, 몸에서 가장 먼저 변하는 것은? - 전국뉴스",
-      "published": "2026-07-22T04:10:00+00:00",
-      "summary": "[의사들이 매일 실천하는 건강습관 ②] 하루 30분 걷기, 몸에서 가장 먼저 변하는 것은?&nbsp;&nbsp;전국뉴스출근길에 하면 심장 훈련된다…1만보 걷기보다 센 ‘1분 운동’&nbsp;&nbsp;중앙일보매일 못 걸어도 괜찮아…‘주말 운동족’도 장수 효과&nbsp;&nbsp;레이디경향러닝머신 속도 ‘이 정도’로 해놓고 걸었더니…당뇨병 막는 효과 탁월&nbsp;&nbsp;코메디닷컴50대 때 안 해두면 반드시 후회한다… 하루라도 빨리 시작해야 할 운동은?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "전국뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hNGcydEduVVhCVDI0V0R0S08yenppR2pneHROb01kTjdYTzltQzNXa29pVzRMS1l5UXlVZFZobVoyUERTV1lGZ2FaeWhyM2ZTX2ZNOUNYR2JyUmNXYnJiYV9uelhrVEJwUUN4WGYwS0g?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a988ddf35512",
       "title": "폐결핵 환자, 알부민 수치 낮으면 중환자실 갈 위험 17.8배↑ - 재활뉴스",
       "published": "2026-07-22T03:01:26+00:00",
@@ -234,18 +258,6 @@
       ]
     },
     {
-      "id": "609c91d5e61c",
-      "title": "악성뇌종양 '신경교종' 예후 가르는 유전자 변이 존재…타깃 신약도 등판 - 코리아헬스로그",
-      "published": "2026-07-21T23:44:03+00:00",
-      "summary": "악성뇌종양 '신경교종' 예후 가르는 유전자 변이 존재…타깃 신약도 등판&nbsp;&nbsp;코리아헬스로그",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45NUJzTXdYSHRia0VUb1ZzeHQxTzNTbTZTVDJaQ0NwaldoUFBORGdWY3ljemtjRnZTYldxLWd0QTZFem1FY3lqTUxCOF94NnpJT25UbU1vdEpVVkxadTNXRWE0VmRuMDlaVmxyMlZtNy1yd9IBdkFVX3lxTE5KYlZhY0p0dVY5M0lVeDQ3a0M2YThoMlR5WEVHNmxoOE5LZ3FTQWZqUVdRM3hEOUVJWkJxSkhMTmM5S2o2cDU1NTRQbko5akNYdjN0UE5YNGJSaUVRY3BvSjd0M21Xd1gxbXBVM210RnhOUzlhOGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f12d45d9b06b",
       "title": "고혈압도 우울증도 아니었다…국내 치매 위험 요인 1위는? [노화설계] - 동아일보",
       "published": "2026-07-21T22:00:00+00:00",
@@ -254,42 +266,6 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZWttYTB1RnVXZ2pkeEVHVThWd1FQc2xCVnJsZlhYZEdzWklPWmRkb0F1U1RIZVZwRUFIUHV5OEl0X1k4dDRsMlg5RzhYcXF5VGhPQ216ckhQQkpablRKNHZBaWx3eTdaYjZIeEVTY9IBZkFVX3lxTE0zMzJHX29jbFRQUDBoNnpTU21UdVFiWDRjUVAzbzRScWg4MWprZC1UVWZXeFRfakdENUFGWGJ3Y28tbl9LUFBVdW5pYTBJZDZ0LUZ3QWRWV0tybGtxaDQ4bUEtXzl4UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a593364ca02",
-      "title": "＇혈당 스파이크＇ 주범이 아니라 오히려 반대?…깜짝 결과 - 한국경제TV",
-      "published": "2026-07-21T21:18:00+00:00",
-      "summary": "＇혈당 스파이크＇ 주범이 아니라 오히려 반대?…깜짝 결과&nbsp;&nbsp;한국경제TV'혈당 폭발' 주범인 줄 알았는데…아이스크림 먹은 사람이 당뇨·심장병 위험 낮았다?&nbsp;&nbsp;전자신문\"아이스크림 먹는 사람이 당뇨 위험 낮았다?\"…'아이스크림 역설' 뭐길래&nbsp;&nbsp;뉴시스\"요거트-제로라 안심했는데?\"…아이스크림 고를 때 '이것' 확인하세요&nbsp;&nbsp;네이트“‘매일 아이스크림’ 먹었더니 당뇨 위험 낮았다?…전문가가 경고한 이유”&nbsp;&nbsp;헤럴드경제",
-      "sources": [
-        {
-          "name": "한국경제TV",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GR1ZTMmlkb1VEUExTT0I1RHMza2FnRG5EZjJQRTBMcXJiUldVblpyUExzcDBqQWFuWUxYQWtOdzJOdWtuZ1V6QWhaME5uaE5sMU92VEVtRGxQWUhhMlF0NnJVSHlhNlZqUzE3VWlWYXpVbWNE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7df3d0eada8e",
-      "title": "\"항체치료로 희망 찾은 치매, 끝까지 포기 안해\"[신의열전] - edaily.co.kr",
-      "published": "2026-07-21T20:45:02+00:00",
-      "summary": "\"항체치료로 희망 찾은 치매, 끝까지 포기 안해\"[신의열전]&nbsp;&nbsp;edaily.co.kr",
-      "sources": [
-        {
-          "name": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzVNX0Z1SV9NRGRkY1ZHQ0p2UVhONWNrM0pDS1RBUi10VFlBOVVUTlVyRFlOWm85bXBJTksxdXlFNWE2anFScVJrUTJad0lKWEpOVXAtYkQzYktBbzY4RGJzajFfenpOZGtKd0k5Ymx4dUNvME5vUXg0WTJCWjQ1aA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a51d8972c3dd",
-      "title": "치매 두려운 사람, 혈당 관리 시작해야… 이유 살펴보니? - 헬스조선",
-      "published": "2026-07-21T19:00:00+00:00",
-      "summary": "치매 두려운 사람, 혈당 관리 시작해야… 이유 살펴보니?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UR3BzbEFLRFd0bHp2ZnpjRE91VTFpSHdUNktCOUtLajlUckFCOWJUb3VxMXJDaUtvMElrYmNlajlKWVJCd240SDJpemRBem45ZzRaY0VZY2Q0MW1fUHhKcnRzeW1PaFNRQ3lZNEt0QzlxY1V2dktFZlJzUFBUazQ?oc=5"
         }
       ]
     },
@@ -306,62 +282,14 @@
       ]
     },
     {
-      "id": "75b20460e665",
-      "title": "\"사골국 먹으면 뼈 튼튼?\"…골다공증 전문의의 반전 경고 - supple.kr",
-      "published": "2026-07-21T10:44:56+00:00",
-      "summary": "\"사골국 먹으면 뼈 튼튼?\"…골다공증 전문의의 반전 경고&nbsp;&nbsp;supple.kr기침 한 번에 척추뼈 6개 뚝…'도미노 골절' 부르는 골다공증 주의보&nbsp;&nbsp;v.daum.net\"사골국 먹으면 뼈 튼튼?\"…골다공증 전문의의 반전 경고 - 머니투데이&nbsp;&nbsp;머니투데이[의학칼럼] '소리없는 뼈 도둑' 고위험 골다공증, 골형성촉진제 치료가 도움&nbsp;&nbsp;헬스조선[시민기자] 내 발로 걷는 골다공증 예방법&nbsp;&nbsp;국제신문",
+      "id": "594ff0f483fc",
+      "title": "대인관계 불안정한 경계성인격장애, 유전적 단서 최초 발견 - 동아사이언스",
+      "published": "2026-07-21T08:45:00+00:00",
+      "summary": "대인관계 불안정한 경계성인격장애, 유전적 단서 최초 발견&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "supple.kr",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GczFNcU5IX1dCR21EdnRhZk5oNE9lSlFWakFHSndibkExMEFXa000SE9mMGJfVjZZV0tjNmoxZmpudnZzMkZmeFFCSUF1QnNKd3pqaWFGT2cyVDBw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c5e05d598bb3",
-      "title": "\"대장암 내성, '노화 섬유아세포'가 유발…IL1B 신호가 원인\" - 바이오북미디어",
-      "published": "2026-07-21T10:07:00+00:00",
-      "summary": "\"대장암 내성, '노화 섬유아세포'가 유발…IL1B 신호가 원인\"&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yeWJudnoyblk1UHUwcUVBS2FFdkc3d2d1MUQ3OWprcXE5Tjh4Z090bTlWMjlxRmZMTm9MWU5zWk5yOWxTU3QwaVVZN1BZRDQ0WTZzd2FjcmtfNDBvZnhNcmFZbjJWaW90blp2LWNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b450589f31f4",
-      "title": "대인관계 불안정한 경계성인격장애, 유전적 단서 최초 발견 - v.daum.net",
-      "published": "2026-07-21T08:47:37+00:00",
-      "summary": "대인관계 불안정한 경계성인격장애, 유전적 단서 최초 발견&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWUw0SmJGYXB2NnptcWFoUEtUd2JrdElrS3d3N0kxZ0dEWTJpdzVuZXlEUGZxY0xRU1NCTUFpa216aXF1U0RHbWRNcDhsOHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4e3bff81bc8e",
-      "title": "‘천마의 재발견’…비만 연구 새길 열다 - 농민신문",
-      "published": "2026-07-21T08:33:18+00:00",
-      "summary": "‘천마의 재발견’…비만 연구 새길 열다&nbsp;&nbsp;농민신문한국에서 당뇨병 치료에 도움이 될 수 있는 천연 화합물이 발견되었습니다.&nbsp;&nbsp;Vietnam.vn천마에서 찾은 비만, 당뇨병 치료의 열쇠... 살리제닌의 비밀&nbsp;&nbsp;이치저널천마 성분, 비만성 당뇨 예방 가능성 확인…국내 연구진 '세계 최초' 치료 메커니즘 규명&nbsp;&nbsp;푸드아이콘비만으로 인한 당뇨, 천마로 치유&nbsp;&nbsp;헤럴드경제",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxR3B0SDd2OThpbnA4VmNnMklUSEZwbUpnM1N0ZTY3RFFmcUZTQmt4RzBpemxOTkRBVWtYQVRVenh1QmUwamQ2VTREbUFaY0t5X1VXeDloZ2Rrdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "472b464982b1",
-      "title": "유방암 진단 후 1년 내 허혈성 뇌졸중 위험 59%↑ - 보건신문",
-      "published": "2026-07-21T07:40:26+00:00",
-      "summary": "유방암 진단 후 1년 내 허혈성 뇌졸중 위험 59%↑&nbsp;&nbsp;보건신문유방암 진단 초기 뇌졸중 위험 급증…3개월 내 2.9배↑&nbsp;&nbsp;v.daum.net유방암 진단 1년 내 뇌졸중 뒤따라올 위험 59%↑…\"암이 혈액 굳게 해\" - 머니투데이&nbsp;&nbsp;머니투데이[김태열의 생생건강S펜] “유방암 치료후 갑작스런 편마비·언어장애 올 확률 증가해..바로 병원 찾아야”&nbsp;&nbsp;헤럴드경제삼성서울병원 \"유방암 진단 초기 허혈성 뇌졸중 위험 증가\"&nbsp;&nbsp;로이슈",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yUHFvSzJQUm1VR0tyQ0twdFBjaHR6WUJTaTEyZHVycGlsaVRqMHJRT3dmOE9KaXJJT1FadVJFRlJLQ2FOczVHajI3c0l3MTctbFhsRldtcFRlWmNaRzdDTkExOA?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBadHlaOXQ3d19tZV9zM0pEQlgxWTk0YTFtamp4b0JOSUlnUTB0Z09MXzVvOExqM2F2c3A1enc4Y1BxenFIbjNnOFVMQy1sYXdxdzRkcw?oc=5"
         }
       ]
     },
