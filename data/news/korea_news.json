@@ -1,26 +1,74 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-23T08:34:09.030938+00:00",
-  "total_fetched": 86,
-  "unique_count": 86,
+  "fetched_at": "2026-07-23T14:07:26.106646+00:00",
+  "total_fetched": 85,
+  "unique_count": 85,
   "health_related_count": 47,
   "news": [
     {
-      "id": "f4956892757f",
-      "title": "'백신 불신론자' 보건장관 되더니… 美, 홍역 환자 35년 만에 최다 - 한국일보",
-      "published": "2026-07-23T07:58:00+00:00",
-      "summary": "'백신 불신론자' 보건장관 되더니… 美, 홍역 환자 35년 만에 최다&nbsp;&nbsp;한국일보",
+      "id": "e8c88226b8d4",
+      "title": "반려견 키우는 노인, 치매 발병 위험 절반으로 ‘뚝’ - 디멘시아뉴스",
+      "published": "2026-07-23T10:46:41+00:00",
+      "summary": "반려견 키우는 노인, 치매 발병 위험 절반으로 ‘뚝’&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xRXN1alRIMlNKek5lRldmNWFrZEJyMkx1ZlJHYTVDeWVkOWVCckJXYU9TU0lFS3B5TW5scUI5clRSem9YbmFDcjVVbkRtdTVRV08yeU9GSjhGaVdOTXZ4NzhQUzBLc0dFUVlrM1VB0gFzQVVfeXFMT3BSdDRwNDkxZ04zRF9RMWl3eHBwMlRjNzRsTFk3STJva1hPNzVtaXdsNDI1S1RiaE1lenFkRDBRNC05MHpXeVBFcjl3WVktVFo3Mkc4Yk9XbHFXaGpQRFVNTTRsUlhQWUtQSWxzVlpsUkY2Yw?oc=5"
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fRVBxZUxYMDgyUURNUW9rY1M4aGNvUU8zNmpDNzI3TGhsbmFjX1ZLaXlzdFktaVlaM0szMVQ1YzJFZS1OQ21jTjN5eGF2cEZ0Ri1JZGJCSnFKdTNtQ2VUdDR1cEVpVjNFYktfcWFqRXY2UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5447ef2ae6c",
+      "title": "\"장내세균 대사산물, 적혈구 분화 막아 노인성 빈혈 유발\" - 바이오북미디어",
+      "published": "2026-07-23T10:07:00+00:00",
+      "summary": "\"장내세균 대사산물, 적혈구 분화 막아 노인성 빈혈 유발\"&nbsp;&nbsp;바이오북미디어'진짜 새벽' 앞둔 마이크로바이옴…임상 반전 카드는 '데이터'&nbsp;&nbsp;메디칼타임즈[박준혁의 건강&생활] 장이 건강해야 뇌도 건강하다&nbsp;&nbsp;한라일보KBSI, 뇌 신경 신호 회복하는 ‘장-뇌 축’ 규명&nbsp;&nbsp;충청뉴스\"장내 미생물, 만성질환·노화라는 생물학적 한계 제어할 마스터키\"&nbsp;&nbsp;economychosun.com",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81bUx4OHdQMGpqcEpEQmNKUVNGdEhCR243SHFNLV9qbHJPOV8xdGhQaTZyZWoxQkxfcGM5OUZ5eTlVaFFvZ1BIWHhNT2hrZklRaHMyNmhDVXB0dVZzYUV0OFNGXzMwQUJFdzBJLUZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2d78fe056f5b",
+      "title": "위고비·젭바운드 사용 '당뇨병 환자'…탈모 위험 최대 68% 높아 - 한국경제",
+      "published": "2026-07-23T10:05:40+00:00",
+      "summary": "위고비·젭바운드 사용 '당뇨병 환자'…탈모 위험 최대 68% 높아&nbsp;&nbsp;한국경제\"GLP-1 당뇨·비만약, 탈모 위험 37~68%↑…절대 위험은 낮아\"&nbsp;&nbsp;v.daum.net살 빼는 약 맞으면 머리카락도 빠진다? '탈모 위험' 경고&nbsp;&nbsp;헬스조선GLP-1 비만약, 탈모도 같이 온다?… 다른 당뇨약보다 위험 68% 높아&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oMEVyZkJfT0hvQzlPSk1Wa3pHNmRvTWNpanppRWlpSHBXVkMxRVFadmhXMFJmOW9rQkJuOEZidDEtY25vOVJLZ1hoS1pDR0lJcHA4M2ktMTNvQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28aa36a4e7c1",
+      "title": "“10kg 뺐는데 이런 문제가”…달걀, 고기 더 먹어야 하는 이유? - 코메디닷컴",
+      "published": "2026-07-23T10:01:00+00:00",
+      "summary": "“10kg 뺐는데 이런 문제가”…달걀, 고기 더 먹어야 하는 이유?&nbsp;&nbsp;코메디닷컴“살 뺐는데 당뇨병이라고?” 근육 부족한 사람은 여전히 위험&nbsp;&nbsp;헬스조선\"10kg 뺐는데 이런 문제가\"…달걀, 고기 더 먹어야 하는 이유?&nbsp;&nbsp;네이트똑같이 비만이어도 근육량 적으면 당뇨병 위험 증가&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ackVRWE0wU0I2RndrRksxWmZpM1J5V3JjWkxkenJwaGktelFEQkR5bnRFZXliOUZmRnIyTjZoUlBSdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8b4fa038bb01",
+      "title": "폐결핵 알부민 수치 낮으면 중환자실 전원 위험 17.8배↑ - 병원신문",
+      "published": "2026-07-23T08:17:22+00:00",
+      "summary": "폐결핵 알부민 수치 낮으면 중환자실 전원 위험 17.8배↑&nbsp;&nbsp;병원신문폐결핵 환자, 입원 초기 알부민 낮으면 중환자실 전원 위험 최대 17.8배&nbsp;&nbsp;v.daum.net'폐결핵 환자 중환자실 치료 필요성, 혈액검사로 조기 예측한다'&nbsp;&nbsp;edaily.co.kr폐결핵 입원환자, '알부민 2.0g/dL 미만' 중환자실 갈 위험 17.8배 껑충&nbsp;&nbsp;뉴데일리\"폐결핵 환자, '이 수치' 낮으면 중증위험 17.8배↑\"&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ucC1uamUzaVI4NmtTcEpiWHBJdENLLTRPaU1KZHZlbkpNc1hnNGRhSFRBWDZ5a01vQXFYMUNkYU4zRUUyc2tQVGN2STdJS0RhZG9LM2p5RWRIbkY5MW9fUTNNcndMOTJnUVE?oc=5"
         }
       ]
     },
     {
       "id": "6b8e08f3f01f",
       "title": "세계에서 제일 건강에 좋은 과일인데, 우리는 먹지 않는 것? - Vogue korea",
-      "published": "2026-07-23T07:18:45+00:00",
+      "published": "2026-07-23T07:19:37+00:00",
       "summary": "세계에서 제일 건강에 좋은 과일인데, 우리는 먹지 않는 것?&nbsp;&nbsp;Vogue korea",
       "sources": [
         {
@@ -78,14 +126,14 @@
       ]
     },
     {
-      "id": "f7657c37ec9e",
+      "id": "201a3ccf90bc",
       "title": "말하고 먹는 일상 위협하는 '두경부암'…3주 이상 이상 증상 지속되면 검사받아야 - 메드월드뉴스",
       "published": "2026-07-23T05:57:48+00:00",
-      "summary": "말하고 먹는 일상 위협하는 '두경부암'…3주 이상 이상 증상 지속되면 검사받아야&nbsp;&nbsp;메드월드뉴스쉰 목소리·삼킴 장애, 오래가면 두경부암 의심해야&nbsp;&nbsp;로이슈“두경부암 로봇수술로 신체기능 최대한 보존”&nbsp;&nbsp;헬스경향[건강톡톡] 감기·구내염인 줄 알았더니…머리·목에 생기는 ‘두경부암?’&nbsp;&nbsp;간호사신문\"쉰 목소리·삼킴 장애 오래가면 두경부암 의심해야\"&nbsp;&nbsp;보건신문",
+      "summary": "말하고 먹는 일상 위협하는 '두경부암'…3주 이상 이상 증상 지속되면 검사받아야&nbsp;&nbsp;메드월드뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wYnNGSTlENFdTMVdCU0VGSUpHNDNuRi1qRGMtQmZ4V3ZyTXItQm9oUG5Remd0Z25YMkdkcW1jeldMendfalM4OXJfdUlaNzNrSmR4cVlKU1l0OXItaDJzaXhkb2o2MXQ4Q0lMNw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YVGRyeUxGcHZ6eHZmN3M4MVBGdExxemtNTi1TQlZPa2pYSU1peFJxbkFvQlRmdTMxQUlLcU1vZnBsQ3NKYXZtYVJFQVVLSlNlUnNmenJVendocDV5cGdaXzBTcUlxa0RodDlZQTFR?oc=5"
         }
       ]
     },
@@ -93,11 +141,23 @@
       "id": "e87f4a753fd7",
       "title": "배우자가 치매면 나도 위험하다?…‘치매 위험 70% 증가’ 어떻게 봐야 하나 - 디멘시아뉴스",
       "published": "2026-07-23T05:55:38+00:00",
-      "summary": "배우자가 치매면 나도 위험하다?…‘치매 위험 70% 증가’ 어떻게 봐야 하나&nbsp;&nbsp;디멘시아뉴스치매 전염은 아니지만…배우자 발병 땐 다른 배우자 위험 70% ↑[노화설계]&nbsp;&nbsp;동아일보너무 슬픈 병⋯치매 환자 배우자도 치매 위험 70% 높다, 왜?&nbsp;&nbsp;v.daum.net치매 환자 배우자도 치매위험 70%↑…＂치매 가구단위 접근 필요＂&nbsp;&nbsp;울산종합일보배우자가 치매 진단받으면 내 위험도 70%↑…100명당 3명 안팎 더 진단&nbsp;&nbsp;뉴시스",
+      "summary": "배우자가 치매면 나도 위험하다?…‘치매 위험 70% 증가’ 어떻게 봐야 하나&nbsp;&nbsp;디멘시아뉴스치매 전염은 아니지만…배우자 발병 땐 다른 배우자 위험 70% ↑[노화설계]&nbsp;&nbsp;v.daum.net\"배우자 치매 걸리면 나도 위험?\"…95만명 분석 결과 '깜짝'&nbsp;&nbsp;뉴시스치매 환자 배우자도 치매위험 70%↑…＂치매 가구단위 접근 필요＂&nbsp;&nbsp;울산종합일보배우자가 치매 진단받으면 내 위험도 70%↑…100명당 3명 안팎 더 진단&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84RFk0bG1NN3pVUFVGN2dDNHlMY3V2N3JDY3BUdmpEWlY0X1JHOEs4MXNVV2tudjJGM25ZTWdqWlM4aXlHT253cl9QLXlvdTZkU2dtMkxyQWk4OEtRLTd3TlpRenF6Q0lVbWwwandLZC1tZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e875586fa1b7",
+      "title": "당뇨·비만 치료제 ‘이 성분’, 뇌 손상 관련 발작 위험도 낮추는 효과 - 경향신문",
+      "published": "2026-07-23T05:55:00+00:00",
+      "summary": "당뇨·비만 치료제 ‘이 성분’, 뇌 손상 관련 발작 위험도 낮추는 효과&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tS1diT3dRMkxKa0UyTnQ1SEhLeW5OazcyNkVnaGlMLTZlR0tXRjhYYzMyS2JISVNwVGxGT1JiSVllSTVqSS0wX2hzZWlpZFd4MGFnSnRYODdjZ9IBX0FVX3lxTE1YOUEzbHlZNTBvR2lqa3I2UHhUTDVLMGcyZHI0c2NQNG1seTBvdEJndFpKMmxmLXB3aHFoZEtkWUpNUkVnamdKclBEOEZwbzYwMTBHLTU2MkxvdHFQdldN?oc=5"
         }
       ]
     },
@@ -114,10 +174,22 @@
       ]
     },
     {
+      "id": "64b08e4eaa62",
+      "title": "우주 공간에서 라즈베리에 들어 있는 당이 발견됐다? - BBC",
+      "published": "2026-07-23T03:11:12+00:00",
+      "summary": "우주 공간에서 라즈베리에 들어 있는 당이 발견됐다?&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CZFU4X05GaV9rX2RMTElYbGxOT3AtWUhVTWJEejZDdnNEOGs5RzV1YjJ2VGxhN3VuZ3AzUDItNEFaWjkyenMxQ1RQbmVDVVlTamR4aUh2ZUstbGxf0gFiQVVfeXFMTlFoOEI5NmYwSVJaa28wU1YtTmFOQUZIaUJXcXNfZWsza3hoWnZkOGZRajllbHBCNW9XR252a3BqY3dsRDhxTWMtLWNRZVo4aDNLeV9hUVM0ZlRSLUd4RDdyeXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d05e08cf944c",
       "title": "노화 '마스터 스위치' 찾았다…단일 수용체 막자 여러 장기 '회춘' - 바이오북미디어",
       "published": "2026-07-23T02:07:00+00:00",
-      "summary": "노화 '마스터 스위치' 찾았다…단일 수용체 막자 여러 장기 '회춘'&nbsp;&nbsp;바이오북미디어노화 촉진하는 면역세포 ‘청소 장애’ 찾았다…EP2 차단하자 장기 노화 억제&nbsp;&nbsp;헬스코리아뉴스NIH, 세포 센센을 지도하고 노화 관련 질병 치료 연구의 길을 열다&nbsp;&nbsp;VOI.ID",
+      "summary": "노화 '마스터 스위치' 찾았다…단일 수용체 막자 여러 장기 '회춘'&nbsp;&nbsp;바이오북미디어노화 촉진하는 면역세포 ‘청소 장애’ 찾았다…EP2 차단하자 장기 노화 억제&nbsp;&nbsp;헬스코리아뉴스",
       "sources": [
         {
           "name": "바이오북미디어",
@@ -153,7 +225,7 @@
       "id": "bdb0b2da0f89",
       "title": "약 안 듣는 '저항성 고혈압'…신장신경차단술로 치료 길 열렸다 - 데일리굿뉴스",
       "published": "2026-07-23T00:20:13+00:00",
-      "summary": "약 안 듣는 '저항성 고혈압'…신장신경차단술로 치료 길 열렸다&nbsp;&nbsp;데일리굿뉴스[김길원의 헬스노트] 7개 약에도 꿈쩍 않던 고혈압…수술로 치료 길 찾았다&nbsp;&nbsp;v.daum.net성인의 절반은 ‘고혈압’…매주 먹어야 할 8가지 음식은?&nbsp;&nbsp;레이디경향7월 19일 건강 뉴스 업데이트: 건강하지 못한 생활 습관으로 인해 젊은 층에서 고혈압 발병률이 증가하고 있습니다.&nbsp;&nbsp;Vietnam.vn대한고혈압학회 “가정혈압, 검증된 혈압계로 측정해야”&nbsp;&nbsp;비건뉴스",
+      "summary": "약 안 듣는 '저항성 고혈압'…신장신경차단술로 치료 길 열렸다&nbsp;&nbsp;데일리굿뉴스[김길원의 헬스노트] 7개 약에도 꿈쩍 않던 고혈압…수술로 치료 길 찾았다&nbsp;&nbsp;v.daum.net약 먹어도 꿈쩍 않던 고혈압…'신장신경차단술'로 호전&nbsp;&nbsp;한국경제성인의 절반은 ‘고혈압’…매주 먹어야 할 8가지 음식은?&nbsp;&nbsp;레이디경향커프리스 혈압계 도입 등 달라진 고혈압 진료지침 공개&nbsp;&nbsp;의협신문",
       "sources": [
         {
           "name": "데일리굿뉴스",
@@ -174,14 +246,14 @@
       ]
     },
     {
-      "id": "914485c7ee39",
-      "title": "폐결핵 환자, 알부민 수치 낮으면 중환자실 전원 위험 17.8배↑ - 메디칼업저버",
-      "published": "2026-07-22T23:01:55+00:00",
-      "summary": "폐결핵 환자, 알부민 수치 낮으면 중환자실 전원 위험 17.8배↑&nbsp;&nbsp;메디칼업저버폐결핵 환자, 입원 초기 알부민 낮으면 중환자실 전원 위험 최대 17.8배&nbsp;&nbsp;v.daum.net'폐결핵 환자 중환자실 치료 필요성, 혈액검사로 조기 예측한다'&nbsp;&nbsp;edaily.co.kr폐결핵 입원환자, '알부민 2.0g/dL 미만' 중환자실 갈 위험 17.8배 껑충&nbsp;&nbsp;뉴데일리\"폐결핵 환자, '이 수치' 낮으면 중증위험 17.8배↑\"&nbsp;&nbsp;뉴시스",
+      "id": "2509aee687e7",
+      "title": "당뇨 있어도 적당히 먹으면 혈당 관리에 도움…포도가 건강에 좋은 이유 10 - 코메디닷컴",
+      "published": "2026-07-23T00:05:00+00:00",
+      "summary": "당뇨 있어도 적당히 먹으면 혈당 관리에 도움…포도가 건강에 좋은 이유 10&nbsp;&nbsp;코메디닷컴Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wVG1JaG1aOVlDOFljeHhfcFN5VmNvSVpMdlJrN3FmQ2ZSbEJmX3V5dEdRVGtwUUJCVEwxUkhIUzBfOFBqbjFWaXVPVF9BOXY2aEhINE9wbkM5Skk5Y2pFUkR4YmxiSnhZY2hn?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BM25uUktVZVFpZmFHQmpzR3luSmRvNTdVTmNIc1hUNm1PN1B0Zk15QVJJQzZFR2FuVE4yb0llUmEyUQ?oc=5"
         }
       ]
     },
@@ -198,18 +270,6 @@
       ]
     },
     {
-      "id": "dc6778d9beef",
-      "title": "\"인간 최대 수명은 156세\"…러 연구진이 밝혀낸 인간 수명 상한선 - 뉴시스",
-      "published": "2026-07-22T22:31:00+00:00",
-      "summary": "\"인간 최대 수명은 156세\"…러 연구진이 밝혀낸 인간 수명 상한선&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xUWt0QjRGUUU2NFUwM0VidVpaUlZMbV9yaW9oajBBRnNGb01UX2traXdXWmJGVmxpYmppNG1pd0VCa0tzZTNnRHpqTm1mZGZWa21XWVBrSGpfanBRd1U3OFprLVXSAXhBVV95cUxNN1BMbkFtb1NLWTU5WTNrakJvMTJtOVNMVUx3MUkxaEYwWHhyamN3V1NZdjE3d09OMHRDMHNSLW56a3JJVUhZSzNySnZGekZjZU9WTlRvajB4eU1EQnBuYlZrTE1Dbm5uYVY2MmhMRTNKb3VFLWxWeWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "67f2dcb8d185",
       "title": "“걷기로 살 빼려면 강·약 조절하며 걸어야” [척척박산] - 월간산",
       "published": "2026-07-22T22:30:00+00:00",
@@ -222,26 +282,14 @@
       ]
     },
     {
-      "id": "aa31d85063f2",
-      "title": "치매 치료도 '골든타임' 있다…증상 전부터 뇌 건강 살펴야 - 청년의사",
+      "id": "f5821f63df4d",
+      "title": "치매 치료도 '골든타임'이 있다…증상 전부터 뇌 건강 살펴야 - 청년의사",
       "published": "2026-07-22T21:49:20+00:00",
-      "summary": "치매 치료도 '골든타임' 있다…증상 전부터 뇌 건강 살펴야&nbsp;&nbsp;청년의사뇌 속 맹그로브 숲을 살리는 뇌세권을 찾아&nbsp;&nbsp;v.daum.net치매는 60세 이후 발생? 대표적 오해 5가지&nbsp;&nbsp;헬스조선치매 치료도 '골든타임'이 있다…증상 전부터 뇌 건강 살펴야&nbsp;&nbsp;청년의사치매 환자 100만 시대, 후각 훈련이 예방의 돌파구 될까&nbsp;&nbsp;하이뉴스",
+      "summary": "치매 치료도 '골든타임'이 있다…증상 전부터 뇌 건강 살펴야&nbsp;&nbsp;청년의사Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "청년의사",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XNTh4Q3BVUUFDYlk3bHJ3UklPR1k0bjFEUzBsYk1LM0k4RmM2ckRVYm13R3FxM21EZFM3eEhudzdBanMzSUxVTXYxUkFqTndtM1l1czJmZUg0aHVnRE0tQ2FNMm1vTXNQc0JqcXNhSdIBc0FVX3lxTE1ndjh4b1V6cTVOcV84M21JOVJDNEhhWjRPVVk5UnVFZURBNG1LamM1YU0zT0FTQkllZ3Q4SjZaZlhBOFVrbjg0TjRGc1dFU0tlOXlKSlNONVlFLVc3Z2NhbGxGN3N4bDJsZnFCVFBZR2U5VDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cabe525d4f19",
-      "title": "증상 없어 더 위험한 간암, 지방간도 간암으로 이어질 수 있어 - 재활뉴스",
-      "published": "2026-07-22T20:30:00+00:00",
-      "summary": "증상 없어 더 위험한 간암, 지방간도 간암으로 이어질 수 있어&nbsp;&nbsp;재활뉴스[건강정보] 증상 없어 더 위험한 간암, 지방간도 간암으로 이어질 수 있어&nbsp;&nbsp;의사신문",
-      "sources": [
-        {
-          "name": "재활뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVGdrX01SdDhZYWFDTXNtZVRtei1NMU0zQW1XX0lIdDFxYnhNME1HMnV6Z0EzSjhwM0tDUGY5UVNobmF0VzdLQmpWUDJhSW85S0g2aXBIUGNsSVZOVzBIcnZycWF1aDJIUm5N?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnLWdDMTRUcGwzYUM0cjgxQUM3a2tqa01tRExzWFFlU2IwMUE2bUdrSGN3Rmo0S2dvZkJaak81QXNhcW1aSGZQd3pFZldfQ0dOT3lMMWFqUDBRc1ZnSmJORzZaRG9PRWRlamtKZk95cEHSAXNBVV95cUxNZ3Y4eG9VenE1TnFfODNtSTlSQzRIYVo0T1VZOVJ1RWVEQTRtS2pjNWFNM09BU0JJZWd0OEo2WmZYQThVa244NE40RnNXRVNLZTl5SkpTTjVZRS1XN2djYWxsRjdzeGwybGZxQlRQWUdlOVQ0?oc=5"
         }
       ]
     },
@@ -258,10 +306,22 @@
       ]
     },
     {
+      "id": "1a89e1af251c",
+      "title": "\"하루 반 컵 먹었더니 당뇨·심장병 위험 낮아졌다?\"…아이스크림의 '반전' - 탐사일보",
+      "published": "2026-07-22T17:09:33+00:00",
+      "summary": "\"하루 반 컵 먹었더니 당뇨·심장병 위험 낮아졌다?\"…아이스크림의 '반전'&nbsp;&nbsp;탐사일보＇혈당 스파이크＇ 주범이 아니라 오히려 반대?…깜짝 결과&nbsp;&nbsp;한국경제TV“‘매일 아이스크림’ 먹었더니 당뇨 위험 낮았다?…전문가가 경고한 이유”&nbsp;&nbsp;v.daum.net'혈당 폭발' 주범인 줄 알았는데…아이스크림 먹은 사람이 당뇨·심장병 위험 낮았다?&nbsp;&nbsp;전자신문‘제로’를 넘어 성분을 보아야 한다&nbsp;&nbsp;성남일보",
+      "sources": [
+        {
+          "name": "탐사일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rTVRLeHhJVDBUczdqdDBNYUZjemZGWFp0Rkh4eEh2bjRzSHlNbXkySkZwZjRfRXB3bjE2QXVKQjI4NDh1dzhIaUNSRi13WnpnN0ZGeU5iSGdtb2JBcEVva213NXUwUUxyWUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a98a698fbf1b",
       "title": "[Dr.이은봉의 의학 연구 다이제스트] 가공식품 많이 먹으면 고혈압 위험 29% 늘어 - 조선일보",
       "published": "2026-07-22T15:39:00+00:00",
-      "summary": "[Dr.이은봉의 의학 연구 다이제스트] 가공식품 많이 먹으면 고혈압 위험 29% 늘어&nbsp;&nbsp;조선일보통증 나타났을 땐 늦어…심장 전문의가 멀리하는 음식은?&nbsp;&nbsp;헬스조선초가공식품, 심혈관질환 최대 38% 원인 가능성…섭취 절반 줄이면 사망 감소&nbsp;&nbsp;네이트초가공식품 많이 먹을수록… 심혈관질환 위험 최대 38%↑&nbsp;&nbsp;하이닥“40분 내에 혈압 폭증”…혈관 혹사시키는 음식, 정체는?&nbsp;&nbsp;헬스조선",
+      "summary": "[Dr.이은봉의 의학 연구 다이제스트] 가공식품 많이 먹으면 고혈압 위험 29% 늘어&nbsp;&nbsp;조선일보“40분 내에 혈압 폭증”…혈관 혹사시키는 음식, 정체는?&nbsp;&nbsp;헬스조선초가공식품, 심혈관질환 최대 38% 원인 가능성…섭취 절반 줄이면 사망 감소&nbsp;&nbsp;네이트초가공식품 많이 먹을수록… 심혈관질환 위험 최대 38%↑&nbsp;&nbsp;하이닥통증 나타났을 땐 늦어…심장 전문의가 멀리하는 음식은?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "조선일보",
@@ -278,18 +338,6 @@
         {
           "name": "한국AI부동산신문",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSRzFqdlF0QnpKQzFrSlF2UlJEdkd0eFFlTzdRWlR6RXItUkRmZzVhSHlWVjUycnJSUXFyR1lrZlVnRDlDLU1weDRON0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "30e9e57f1cb3",
-      "title": "OC 라데라랜치 희귀 소아암 잇따라…주민들 \"농약 의혹 밝혀달라\" - RadioKorea",
-      "published": "2026-07-22T13:26:00+00:00",
-      "summary": "OC 라데라랜치 희귀 소아암 잇따라…주민들 \"농약 의혹 밝혀달라\"&nbsp;&nbsp;RadioKorea",
-      "sources": [
-        {
-          "name": "RadioKorea",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtYm5OYmJoeVhDZnZVd1F4aVI0RzlMUTJEd2txeDQyVXlVMmJHVlRORU5rd0JlcF9hUTdTd0w4Slh5cTdydVF4OF9FZTZ0M3VVQjkzV2Q1ejlpaXFsLUdOODlBZm8?oc=5"
         }
       ]
     },
@@ -357,11 +405,35 @@
       "id": "66e3e5ede8cd",
       "title": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견 - 헬로디디",
       "published": "2026-07-22T08:30:00+00:00",
-      "summary": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견&nbsp;&nbsp;헬로디디뇌 노폐물 배출 전과정 세계 첫 규명…치매 치료 새 전략&nbsp;&nbsp;동아사이언스국내 연구진이 해냈다…단단한 뇌막의 '비밀 구멍' [자막뉴스]&nbsp;&nbsp;네이트뇌 속 노폐물 어디로 빠질까…'숨은 배수구' 첫 발견&nbsp;&nbsp;v.daum.net\"뇌 노폐물 배출 '첫 관문' 확인…뇌질환 연구 새 전기 기대\"&nbsp;&nbsp;연합뉴스",
+      "summary": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견&nbsp;&nbsp;헬로디디뇌 노폐물 배출 전과정 세계 첫 규명…치매 치료 새 전략&nbsp;&nbsp;동아사이언스뇌 노폐물 배출하는 ‘첫 관문’ 발견... 뇌질환 연구 새 전기 마련&nbsp;&nbsp;BRIC뇌 속 '하수구' 포착...뇌 청소 방법도 찾았다!&nbsp;&nbsp;YTN 사이언스뇌 속 노폐물 어디로 빠질까…'숨은 배수구' 첫 발견&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "헬로디디",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HTmlHUk9NcWtSb0RxYTVOdkdXTU43dVNzY3JnYnJMU0ZIWWVveVpzYXJrREdVelVHeE1IbnhvTGxmNDg1dTd6ZjVQd0gxcUVDcXM0bUY4bVcwZjBCSERPWjc5aEF5cGU2LWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6f668bf98457",
+      "title": "\"잠버릇·걸음걸이 달라졌다면\"…치매 몇년 전 나타나는 신호 6가지 [건강을 부탁해] - 네이트",
+      "published": "2026-07-22T08:27:00+00:00",
+      "summary": "\"잠버릇·걸음걸이 달라졌다면\"…치매 몇년 전 나타나는 신호 6가지 [건강을 부탁해]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KX3d0bUl2MTBjUHRfMmd2bFF2TUJpNGR3OWpNOUc2dWdDdEtLTzc5YjVhZ0s3WFU0eG42UlkyUE1CdHhLakktM25rdW1zekJneFhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c4215e683fa",
+      "title": "“잠버릇·걸음걸이 달라졌다면”…치매 몇년 전 나타나는 신호 6가지 [건강을 부탁해] - 나우뉴스",
+      "published": "2026-07-22T08:25:00+00:00",
+      "summary": "“잠버릇·걸음걸이 달라졌다면”…치매 몇년 전 나타나는 신호 6가지 [건강을 부탁해]&nbsp;&nbsp;나우뉴스하루 9시간 넘게 자는 노인, ‘치매 초기 신호’ 가능성 [노화설계]&nbsp;&nbsp;동아일보뇌 속 맹그로브 숲을 살리는 뇌세권을 찾아&nbsp;&nbsp;v.daum.net치매 진단나오기 수년 전에 나타날 수 있는 6가지 신호 > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN\"혈액 검사로 알츠하이머 위험 예측 진단…인지 검사 병행해야\"&nbsp;&nbsp;연합뉴스TV",
+      "sources": [
+        {
+          "name": "나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FUnlKVU5GWXRLVFR3YU5NZUJYeldIYThSbG1aX2RWS1NITlFJemUwb0FQRXpXYWdURlA3ak1Ea3R5U3RnZ2FEdUdOaUh0c0RFTjVwVUMtX2tWM1NTR2pCLV9BbUtpMDdUN0V6ek9mR3k?oc=5"
         }
       ]
     },
@@ -450,18 +522,6 @@
       ]
     },
     {
-      "id": "60899d1969ad",
-      "title": "성인 10명 중 4명은 ‘당뇨 전 단계’…과일주스도 주의 - realfoods.co.kr",
-      "published": "2026-07-22T00:48:07+00:00",
-      "summary": "성인 10명 중 4명은 ‘당뇨 전 단계’…과일주스도 주의&nbsp;&nbsp;realfoods.co.kr\"성인 10명 중 4명이 당뇨병전단계\"… 밥 대신 잡곡, 믹스커피 대신 아메리카노&nbsp;&nbsp;라이프인당뇨 있어도 적당히 먹으면 혈당 관리에 도움…포도가 건강에 좋은 이유 10&nbsp;&nbsp;네이트[식약체] 당뇨병 전단계의 식사는&nbsp;&nbsp;우먼스토리뉴스",
-      "sources": [
-        {
-          "name": "realfoods.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yR3dDZlFYalE4T21NQ2djbXRrZDRBUTFyTVlqNEt4S3FtYzNWUHlKSmZyYjVSOHRqSzVJMWQ4T2h5dFNJSTZqTFVEUkpNUFhFcHdIZFEzTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "609c91d5e61c",
       "title": "악성뇌종양 '신경교종' 예후 가르는 유전자 변이 존재…타깃 신약도 등판 - 코리아헬스로그",
       "published": "2026-07-21T23:44:03+00:00",
@@ -477,7 +537,7 @@
       "id": "f12d45d9b06b",
       "title": "고혈압도 우울증도 아니었다…국내 치매 위험 요인 1위는? [노화설계] - 동아일보",
       "published": "2026-07-21T22:00:00+00:00",
-      "summary": "고혈압도 우울증도 아니었다…국내 치매 위험 요인 1위는? [노화설계]&nbsp;&nbsp;동아일보우리나라 치매 위험 요인 1위, 의외네…고혈압·흡연도 아니라는데&nbsp;&nbsp;v.daum.netWHO \"치매 예방하려면 대기오염 노출 줄이고, 영양제 과잉 피해야”&nbsp;&nbsp;뉴시스[만물상] 이길 수 있는 병, 치매&nbsp;&nbsp;조선일보“영양제보다 보청기?”…WHO 치매 예방법 7년 만에 개정, 어떻게 바꼈나?&nbsp;&nbsp;코메디닷컴",
+      "summary": "고혈압도 우울증도 아니었다…국내 치매 위험 요인 1위는? [노화설계]&nbsp;&nbsp;동아일보우리나라 치매 위험 요인 1위, 의외네…고혈압·흡연도 아니라는데&nbsp;&nbsp;v.daum.netWHO \"치매 예방하려면 대기오염 노출 줄이고, 영양제 과잉 피해야”&nbsp;&nbsp;뉴시스[만물상] 이길 수 있는 병, 치매&nbsp;&nbsp;조선일보WHO는 치매 예방을 위해 비타민을 자가 보충하는 것을 권장하지 않습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "동아일보",
@@ -486,38 +546,14 @@
       ]
     },
     {
-      "id": "e041f8713253",
-      "title": "'혈당 스파이크' 주범이 아니라 오히려 반대?…아이스크림의 놀라운 진실 - 네이트",
-      "published": "2026-07-21T21:19:00+00:00",
-      "summary": "'혈당 스파이크' 주범이 아니라 오히려 반대?…아이스크림의 놀라운 진실&nbsp;&nbsp;네이트“‘매일 아이스크림’ 먹었더니 당뇨 위험 낮았다?…전문가가 경고한 이유”&nbsp;&nbsp;v.daum.net＇혈당 스파이크＇ 주범이 아니라 오히려 반대?…깜짝 결과&nbsp;&nbsp;한국경제TV'혈당 폭발' 주범인 줄 알았는데…아이스크림 먹은 사람이 당뇨·심장병 위험 낮았다?&nbsp;&nbsp;전자신문‘제로’를 넘어 성분을 보아야 한다&nbsp;&nbsp;성남일보",
+      "id": "7df3d0eada8e",
+      "title": "\"항체치료로 희망 찾은 치매, 끝까지 포기 안해\"[신의열전] - edaily.co.kr",
+      "published": "2026-07-21T20:45:02+00:00",
+      "summary": "\"항체치료로 희망 찾은 치매, 끝까지 포기 안해\"[신의열전]&nbsp;&nbsp;edaily.co.kr",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMX2paWmtCb3VmZG81MHFJSEhlREZlU1cxYVZuWWlYR0FMd0dISnp5eG91WTcxZnlIOFFkYjJpNmFtOTYwV0pVNGdVcGxudGdCZjZHM0FWWloyRHhTZ3RGYQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aee34df7da96",
-      "title": "Aβ 축적 촉진 원인물질 발견 - 의학신문",
-      "published": "2026-07-21T21:00:00+00:00",
-      "summary": "Aβ 축적 촉진 원인물질 발견&nbsp;&nbsp;의학신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43T0p1M0EtUXhKRVV5NThpU0JLYWYya09IN2hOZDZUSHVzX2xiYm5mSXNTOFVQaF85NlFTNHFLQ004Wm5FNmVkU3JNVG5ydnpVWDlEdnZqcW5WY2pXam5VVm5Cb2R4cG9WUFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a51d8972c3dd",
-      "title": "치매 두려운 사람, 혈당 관리 시작해야… 이유 살펴보니? - 헬스조선",
-      "published": "2026-07-21T19:00:00+00:00",
-      "summary": "치매 두려운 사람, 혈당 관리 시작해야… 이유 살펴보니?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UR3BzbEFLRFd0bHp2ZnpjRE91VTFpSHdUNktCOUtLajlUckFCOWJUb3VxMXJDaUtvMElrYmNlajlKWVJCd240SDJpemRBem45ZzRaY0VZY2Q0MW1fUHhKcnRzeW1PaFNRQ3lZNEt0QzlxY1V2dktFZlJzUFBUazQ?oc=5"
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbzVNX0Z1SV9NRGRkY1ZHQ0p2UVhONWNrM0pDS1RBUi10VFlBOVVUTlVyRFlOWm85bXBJTksxdXlFNWE2anFScVJrUTJad0lKWEpOVXAtYkQzYktBbzY4RGJzajFfenpOZGtKd0k5Ymx4dUNvME5vUXg0WTJCWjQ1aA?oc=5"
         }
       ]
     },
@@ -530,42 +566,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNalNrQm5OUmptSVktWklwR0JlclBuaGNnWXg1T2tWSUJ3NU44LTd3Z0pfbTExNFQ2TUYyMmxFV0xXLWtNQnlFSXF2TmpqeE41dXVKZ0E2aGVzVEdMN2xnMWI3ZjN5ZmNkOEV4VUtIMkFFWmJwMVFVQVZMWlFuQ2R5aE5hOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd8855466da3",
-      "title": "여름에 더 심한 전립선비대증…방치 땐 응급상황도 [건강한겨레] - 한겨레",
-      "published": "2026-07-21T10:28:00+00:00",
-      "summary": "여름에 더 심한 전립선비대증…방치 땐 응급상황도 [건강한겨레]&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2cmZ4RDlBZUhIallldG1HVkVKamNIZUs3Q19LbkdTV1FiVnJYd1FOLU5CMDlfdEY3UkhLRTRYVmJKYWt4TUJrLWU3ZVNIUVVoU2x0a0xIcWpJZl95MXRSaGpMTzBFbzVvZGxPSnowSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b450589f31f4",
-      "title": "대인관계 불안정한 경계성인격장애, 유전적 단서 최초 발견 - v.daum.net",
-      "published": "2026-07-21T08:47:37+00:00",
-      "summary": "대인관계 불안정한 경계성인격장애, 유전적 단서 최초 발견&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SWUw0SmJGYXB2NnptcWFoUEtUd2JrdElrS3d3N0kxZ0dEWTJpdzVuZXlEUGZxY0xRU1NCTUFpa216aXF1U0RHbWRNcDhsOHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b43d6e11ac1b",
-      "title": "日 교수직 대신 컨테이너로···'국토를 안전하게' 건설연서 韓 지반 연구, 3년만에 액상화 위험지도 - 헬로디디",
-      "published": "2026-07-20T09:00:00+00:00",
-      "summary": "日 교수직 대신 컨테이너로···'국토를 안전하게' 건설연서 韓 지반 연구, 3년만에 액상화 위험지도&nbsp;&nbsp;헬로디디",
-      "sources": [
-        {
-          "name": "헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CaFRna3lRVGwyQTlrQmxLblp5UF9DNFdFTGVlX0M4Yk9QYzlXNnRScmdxZUNUNngtalpNaE9aVHNscVZyR2J5Q1JqXzMyRVI5RDhicTZIRl9NMWNHSUNsVHVuLTlZS1pJN2c?oc=5"
         }
       ]
     }
