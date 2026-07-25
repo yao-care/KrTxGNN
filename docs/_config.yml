@@ -4,9 +4,6 @@
 title: "KrTxGNN Drug Repurposing Reports"
 description: "韓國 MFDS 藥品老藥新用預測報告 | 한국 의약품 약물재창출 예측"
 
-author:
-  name: 藥提醒科技有限公司 (yao.care)
-  url: https://www.yao.care/
 url: "https://krtxgnn.yao.care"
 baseurl: ""
 lang: "ko"
@@ -66,4 +63,5 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+
 
