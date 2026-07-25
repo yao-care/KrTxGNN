@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-25T13:40:10.087440+00:00",
-  "total_fetched": 87,
-  "unique_count": 86,
+  "fetched_at": "2026-07-25T19:11:08.581970+00:00",
+  "total_fetched": 90,
+  "unique_count": 90,
   "health_related_count": 44,
   "news": [
+    {
+      "id": "7e64709c4b0b",
+      "title": "뇌에 칼 대지 않고 뇌질환 고친다, 나노 자기유전학이 연 무선 뇌제어 신시대 - 한국AI부동산신문",
+      "published": "2026-07-25T14:57:30+00:00",
+      "summary": "뇌에 칼 대지 않고 뇌질환 고친다, 나노 자기유전학이 연 무선 뇌제어 신시대&nbsp;&nbsp;한국AI부동산신문",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OS1p0MUUtYTM4WVF0TkFQcV9MWXF5cnJGWEREVkpVMzJZOC1EeVNWX1BVN1pyVkRacVdUa0lEVk1ISl9WZnM3UFBFclA?oc=5"
+        }
+      ]
+    },
     {
       "id": "7dbef047774f",
       "title": "“머리 터질 듯 아팠는데” 병원서 계속 돌려보내…34세男 ‘이 병’ 진단, 무슨 일? - 코메디닷컴",
@@ -30,38 +42,14 @@
       ]
     },
     {
-      "id": "66e53e340b44",
-      "title": "\"소파에 앉아 TV만 봤더니\"…20년 뒤 뇌 쪼그라들었다고? - 네이트",
-      "published": "2026-07-25T07:03:00+00:00",
-      "summary": "\"소파에 앉아 TV만 봤더니\"…20년 뒤 뇌 쪼그라들었다고?&nbsp;&nbsp;네이트“밤마다 봤는데 어쩌나”…TV 많이 본 중년층, 20년 뒤 뇌 사진 보니 ‘깜짝’ [헬시타임]&nbsp;&nbsp;서울경제TV 많이 보면 바보 된다?…터무니없는 말 아니었다 [노화설계]&nbsp;&nbsp;동아일보중년기에 텔레비전을 너무 많이 시청하면 20년 이상이 지난 후에도 뇌에 지속적인 영향을 미칠 수 있습니다.&nbsp;&nbsp;Vietnam.vnTV 즐겨보는 중년 '경고등'…치매 위험 신호 나왔다&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9odlNKdW5aM1JVOWU0RXNfWGZrOU54eV9od25fR3FPeVR2X25FSUZpdFVkWU1nazJzQkVrSXlvN1l1M1NFdE5OcmFnVTBGc1B0QnJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "aa25b4831985",
       "title": "'이것' 하나 먹었을 뿐인데…40분 만에 무섭게 혈압 올랐다 [헬시타임] - 네이트",
       "published": "2026-07-25T04:04:00+00:00",
-      "summary": "'이것' 하나 먹었을 뿐인데…40분 만에 무섭게 혈압 올랐다 [헬시타임]&nbsp;&nbsp;네이트‘이것’ 하나 먹었을 뿐인데…40분 만에 무섭게 혈압 올랐다 [헬시타임]&nbsp;&nbsp;서울경제“40분 내에 혈압 폭증”…혈관 혹사시키는 음식, 정체는?&nbsp;&nbsp;헬스조선초가공식품 많이 먹을수록… 심혈관질환 위험 최대 38%↑&nbsp;&nbsp;하이닥[Dr.이은봉의 의학 연구 다이제스트] 가공식품 많이 먹으면 고혈압 위험 29% 늘어&nbsp;&nbsp;조선일보",
+      "summary": "'이것' 하나 먹었을 뿐인데…40분 만에 무섭게 혈압 올랐다 [헬시타임]&nbsp;&nbsp;네이트‘이것’ 하나 먹었을 뿐인데…40분 만에 무섭게 혈압 올랐다 [헬시타임]&nbsp;&nbsp;서울경제“40분 내에 혈압 폭증”…혈관 혹사시키는 음식, 정체는?&nbsp;&nbsp;헬스조선초가공식품 많이 먹을수록… 심혈관질환 위험 최대 38%↑&nbsp;&nbsp;하이닥초가공식품, 심혈관질환 최대 38% 원인 가능성…섭취 절반 줄이면 사망 감소&nbsp;&nbsp;MSN",
       "sources": [
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FWmtNTmd0UFluQnlJaW5UYlRXUE56TXdiS013UHhuR0l2MC1rOEtPbC1DdW8ycjFacEVVNy1qWEtSN2FYVUluNDRCa0lCcmx6clZv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40a0db0a69cc",
-      "title": "성인 10명 중 4명이 당뇨 전 단계…‘이런 식단’ 따르면 당뇨병 진행 막을 수 있어 - 코메디닷컴",
-      "published": "2026-07-25T02:05:00+00:00",
-      "summary": "성인 10명 중 4명이 당뇨 전 단계…‘이런 식단’ 따르면 당뇨병 진행 막을 수 있어&nbsp;&nbsp;코메디닷컴“약 안 먹고 혈당 잡았습니다”… 의사가 콕 집은 ‘돈 안 드는’ 수칙 [헬시타임]&nbsp;&nbsp;서울경제“당뇨 전단계일 때 꼭 해라”… 의사가 꼽은 ‘5가지 생활습관’&nbsp;&nbsp;헬스조선성인 10명 중 4명이 당뇨 전 단계…'이런 식단' 따르면 당뇨병 진행 막을 수 있어&nbsp;&nbsp;네이트식사 후 꾸준히 10분 걸었더니... 내 몸에 생긴 변화&nbsp;&nbsp;조세일보",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vUi1LSXRxd2dMcXlER1gxcjlFbkRLa1RRX2Nfekt5ZzNMVFg0Yk5GbTRINTJVeEg1QnozdFJ1WTJiQQ?oc=5"
         }
       ]
     },
@@ -102,6 +90,18 @@
       ]
     },
     {
+      "id": "104ab04c3724",
+      "title": "\"갑자기 목에 멍울 잡히네\"…혹시 내가 '이 질환'? - 미디어데일",
+      "published": "2026-07-24T16:06:31+00:00",
+      "summary": "\"갑자기 목에 멍울 잡히네\"…혹시 내가 '이 질환'?&nbsp;&nbsp;미디어데일\"갑자기 목에 멍울 잡히네\"…혹시 내가 '이 질환'?[몸의 경고]&nbsp;&nbsp;뉴시스“쉬면 낫겠지” 했다가 치료시기 놓칠라…쉰 목소리·구내염 계속되면 ‘이 암’ 의심&nbsp;&nbsp;농민신문“두경부암 로봇수술로 신체기능 최대한 보존”&nbsp;&nbsp;헬스경향말하고 먹는 일상 위협하는 '두경부암'…3주 이상 이상 증상 지속되면 검사받아야&nbsp;&nbsp;메드월드뉴스",
+      "sources": [
+        {
+          "name": "미디어데일",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6aFc1cnB4NFBnQkVNdmt1RWNjTV82S2dFSTR5OVhBVGxYa041UWtKNDhfT0dWa05FQ2RmblQwVEpIU2J0MVZiTjRHNUNWQWJpR3hsZDdnY1VuWkN2XzMxZ2NSbEI1cjk0cTFuVw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9f8df7612103",
       "title": "[메디컬 인사이트 146회] 남녀노소 모두가 알아야 할 '자궁암의 모든 것' - 네이트",
       "published": "2026-07-24T13:29:00+00:00",
@@ -122,6 +122,30 @@
         {
           "name": "캔서앤서",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jVGY5YWRJcm51NjRtLVpUTF9WQW91cTV0dDhtaWlLQWZEMy16R3VqbEwzNVFucEhSVXU5cjFOQU1qMjhoLUZYQWhLUE9CX0E0VDlVbTlGb3dyc2UxWEdNRzJUZVlab0l6VldRMkx4LW0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f7113a24f5fd",
+      "title": "바이러스도 아닌 '암'이 전염된다?…호수 메기 3분의 1이 같은 암에 걸린 이유 [후암동 논문 연구소] - 네이트",
+      "published": "2026-07-24T11:11:00+00:00",
+      "summary": "바이러스도 아닌 '암'이 전염된다?…호수 메기 3분의 1이 같은 암에 걸린 이유 [후암동 논문 연구소]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xdFVNTjFXcnFnLUpmUEtrNDFUOUI3bWdOR1RJdUdGREFGWEZfM00yOGhFQjVtWTlCejg3a3FRVFFpdFY1YnJWUWdNbUVoM0E1NG80?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "acbf8085b3a8",
+      "title": "바이러스도 아닌 ‘암’이 전염된다?…호수 메기 3분의 1이 같은 암에 걸린 이유 [후암동 논문 연구소] - 헤럴드경제",
+      "published": "2026-07-24T11:10:00+00:00",
+      "summary": "바이러스도 아닌 ‘암’이 전염된다?…호수 메기 3분의 1이 같은 암에 걸린 이유 [후암동 논문 연구소]&nbsp;&nbsp;헤럴드경제",
+      "sources": [
+        {
+          "name": "헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZzJmcjZGaFU3emRSTHpEQ1dYSjg5VkpyX05VZmFPbkdiVGxvdkpHMWhhZVJiU1RmSVhNYTNCdkZtVjZsbWpJY0htcGhGTzZ6bmk0NUZ6bw?oc=5"
         }
       ]
     },
@@ -198,18 +222,6 @@
       ]
     },
     {
-      "id": "49d6705dc8b7",
-      "title": "다이어트 주사 맞았더니 탈모?…위고비 등 GLP-1 계열 약물, 탈모 위험 최대 68%↑ - 세계일보",
-      "published": "2026-07-24T06:25:11+00:00",
-      "summary": "다이어트 주사 맞았더니 탈모?…위고비 등 GLP-1 계열 약물, 탈모 위험 최대 68%↑&nbsp;&nbsp;세계일보살 빼려다 머리 빠질라…비만약, 탈모 위험 최대 68% 높았다 - 머니투데이&nbsp;&nbsp;머니투데이\"살 빼려다 머리 빠지나\"…GLP-1, 당뇨약보다 탈모 위험 높다&nbsp;&nbsp;뉴시스\"GLP-1 당뇨·비만약, 탈모 위험 37~68%↑…절대 위험은 낮아\"&nbsp;&nbsp;v.daum.net살 빼는 약 맞으면 머리카락도 빠진다? '탈모 위험' 경고&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPMzRwNU5hc1dCQ1hma0lnLXV3OFdKSU5nY09xd2pzUE1vSUk3MWlPVlB5cGR2VDMwal9UMXVsMDFPdDVucGhad00wQ0t6NVQ0czk3R3dKSW_SAVRBVV95cUxOd3BXUHd3N2cyY3lLRzhtcmJzWDhISkZLZzhBSHBVdUlJX0lTWU9DckF4anltdktSc2hqM2pCbVcyYTRCUGFlYkZvcGcxNkgwWmE0SFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "68420907055d",
       "title": "정관장 화애락, 여성 건강관리 '생애주기별' 제품 확대 - 뉴스투데이",
       "published": "2026-07-24T05:45:00+00:00",
@@ -218,6 +230,18 @@
         {
           "name": "뉴스투데이",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YeXhEWm8wLWNJU0kzeUpXRlBJUF9iY2t2aXRNMlRpZ0RiOFRPbGwxV2NMY2IwWFFmUVl2R0htSEN3dFRwUlVpQnFTNzBBcW9uc2Nfc2l0VGlwWWVORWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08cbab8333fe",
+      "title": "\"아이 O자 다리, 놔둬도 될까요?\"…병원 가야 하는 신호 있다 - 매경헬스",
+      "published": "2026-07-24T04:35:02+00:00",
+      "summary": "\"아이 O자 다리, 놔둬도 될까요?\"…병원 가야 하는 신호 있다&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIOHNhcmZ4bEdMNXdnWWo2Zy15THl6MUpLNGpSWDlIQXZmLTBnMVNvZnA4X1pDYW8wRzhsX25CQVppYnlPb3JUeEdyVW9IRmZxbmhyY0NNM2cyNWY0RFY5ZHNEOEtkOVhIQl9IQw?oc=5"
         }
       ]
     },
@@ -234,14 +258,14 @@
       ]
     },
     {
-      "id": "44019b046db6",
-      "title": "\"장 건강이 곧 전신 건강\" 마이크로바이옴이 바꾼 현대 의학의 패러다임 - 유스연합",
-      "published": "2026-07-24T04:06:23+00:00",
-      "summary": "\"장 건강이 곧 전신 건강\" 마이크로바이옴이 바꾼 현대 의학의 패러다임&nbsp;&nbsp;유스연합Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "ae99f6a01204",
+      "title": "\"장 건강이 곧 전신 건강\" 마이크로바이옴이 바꾼 현대 의학의 패러다임 - 한국AI부동산신문",
+      "published": "2026-07-24T04:07:18+00:00",
+      "summary": "\"장 건강이 곧 전신 건강\" 마이크로바이옴이 바꾼 현대 의학의 패러다임&nbsp;&nbsp;한국AI부동산신문장 건강 안 좋으면 '만성질환' 위험도 높아진다&nbsp;&nbsp;헬스조선[친환경 기술] 쉽게 배우는 미생물이야기 (174) 미생물 다양성&nbsp;&nbsp;월간친환경어려보이는 피부 비결?…'미생물'에 빠진 뷰티업계&nbsp;&nbsp;네이트\"내 장에 맞는 유산균 찾아, 개인 맞춤형 장 건강 시대 열려\"&nbsp;&nbsp;economychosun.com",
       "sources": [
         {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQkZaWUtBQlRJaHNvdEp4OUE3aERwX19RNnVvMS1GV0JFNjVvSnBCUlhyWi0xZzNQeW9aQWJqZnFnXy1vWGxGLWIxOXpaZmRoa1E?oc=5"
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YTlo5dUpIY1dFeGpSRW4xNWdCbERYeFNUM1doTFFBWkR5TEM4cDEzb1p5OHJlSFNfVHN1NzFCZ2gyb0U5WXBUR1JaWnk?oc=5"
         }
       ]
     },
@@ -282,26 +306,26 @@
       ]
     },
     {
-      "id": "14a66d3978df",
-      "title": "독감 바이러스, 세포핵 '요새' 해체 후 단백질 탈취해 증식 - 바이오북미디어",
-      "published": "2026-07-24T03:07:00+00:00",
-      "summary": "독감 바이러스, 세포핵 '요새' 해체 후 단백질 탈취해 증식&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HNUp3ejlzNHlBUFBJV2N3TTE2RlExajl6TnVpYThaRjlHLXIxdzdYZHFKaDVHUlI4XzRoZnVHanh1QmExbGk3M2U2SDhNTEhqZkZOb0h4VlUtN3czZnJELW96VWtnZGFfQVdSaEd3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ea28dc15cc7e",
       "title": "50대부터 시작되는 뼈 건강 비상…“단순 골감소증도 주의” - 미주한국일보",
       "published": "2026-07-24T03:00:00+00:00",
-      "summary": "50대부터 시작되는 뼈 건강 비상…“단순 골감소증도 주의”&nbsp;&nbsp;미주한국일보\"사골국 먹는다고 안돼…'골다공증 위험' 40대 이후 여성, 근육 운동 하세요\"&nbsp;&nbsp;뉴시스기침 한 번에 척추뼈 6개 뚝…'도미노 골절' 부르는 골다공증 주의보&nbsp;&nbsp;v.daum.net[시민기자] 내 발로 걷는 골다공증 예방법&nbsp;&nbsp;국제신문[의학칼럼] '소리없는 뼈 도둑' 고위험 골다공증, 골형성촉진제 치료가 도움&nbsp;&nbsp;헬스조선",
+      "summary": "50대부터 시작되는 뼈 건강 비상…“단순 골감소증도 주의”&nbsp;&nbsp;미주한국일보기침 한 번에 척추뼈 6개 뚝…'도미노 골절' 부르는 골다공증 주의보&nbsp;&nbsp;v.daum.net[시민기자] 내 발로 걷는 골다공증 예방법&nbsp;&nbsp;국제신문[의학칼럼] '소리없는 뼈 도둑' 고위험 골다공증, 골형성촉진제 치료가 도움&nbsp;&nbsp;헬스조선‘오늘부터 인생 2막’ 시즌2, 골다공증 경고&nbsp;&nbsp;bntnews.co.kr",
       "sources": [
         {
           "name": "미주한국일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUk5ZaldLaXdzTEFiUm45VDhkTG5HcFpUMjhHS0sta04tdUdqMUVsNlBwREtLLTJfUEdBdmJNUFYxazd4WGV1SHVZRkhTY29vREdxSGRXVjZuY1JtNllr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ee0507c83d75",
+      "title": "NVIDIA와 카이스트, 공동 AI 연구소 설립으로 한국 AI 혁신 가속화 - NVIDIA",
+      "published": "2026-07-24T02:55:54+00:00",
+      "summary": "NVIDIA와 카이스트, 공동 AI 연구소 설립으로 한국 AI 혁신 가속화&nbsp;&nbsp;NVIDIA",
+      "sources": [
+        {
+          "name": "NVIDIA",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFN6SUFfbk5zTF9rcERDNnJ2amhiT2JLek1iSmdubjM3R1FzcVRueEdYNDcweDZCakNHUVFqY2pnMFZQbGc4cDdER0RGZF9fZmhES2VoWmNKVmVWZ3Nicmh1VGlBck1FSFhNWjRvOUdfNHVfQzVvc2NZUjEteUF0OWYySUdTT3AzZ2N6aFFhWk9uVjdKZUlHOXVncEVmdEdkU2x4SFREdlNlc05pOEJuN1ExUkx6UQ?oc=5"
         }
       ]
     },
@@ -342,14 +366,14 @@
       ]
     },
     {
-      "id": "6ddfabfb820f",
-      "title": "옆 사람은 안 들리는 스피커, 그게 가능?···포스텍, 초지향성 음향기술 개발 - 경향신문",
-      "published": "2026-07-24T01:35:00+00:00",
-      "summary": "옆 사람은 안 들리는 스피커, 그게 가능?···포스텍, 초지향성 음향기술 개발&nbsp;&nbsp;경향신문",
+      "id": "3b7cf6765600",
+      "title": "“살 빼려다 머리 빠지나”…GLP-1, 다른 당뇨약보다 탈모 위험 높다 - 동아일보",
+      "published": "2026-07-24T01:30:41+00:00",
+      "summary": "“살 빼려다 머리 빠지나”…GLP-1, 다른 당뇨약보다 탈모 위험 높다&nbsp;&nbsp;동아일보\"살 빼려다 머리 빠지나\"…GLP-1, 당뇨약보다 탈모 위험 높다&nbsp;&nbsp;뉴시스살 빼려다 머리 빠질라…비만약, 탈모 위험 최대 68% 높았다 - 머니투데이&nbsp;&nbsp;머니투데이\"GLP-1 당뇨·비만약, 탈모 위험 37~68%↑…절대 위험은 낮아\"&nbsp;&nbsp;v.daum.net위고비·젭바운드 사용 '당뇨병 환자'…탈모 위험 최대 68% 높아&nbsp;&nbsp;한국경제",
       "sources": [
         {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IYl9vTEFxM1JjLW1uQXhoVmc5WHFVd2dpT3pkTHlKOTlTcEx2X1p6UXhDVkNQd3FGVEVHSVhONE0waFFNWTd4akU2WWt2MFFTZm1SNXBxWXJCZ9IBX0FVX3lxTE5tbWNQY0N6b1pWcWRLZlZNNEdDWUlmQnJEaEhnNTJVdUVITVU0TnpEbGVVLWFXcnRtMFRjTFJTeEtURFBBU1ExSVdVejM4ejdnMHZ0MzJ6Y3gxX1RUbXhn?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JR1N6SmxteDV3SnZ5cnNSLVRYTmFOZnhIbm1ZVTJ0REVFVXlHRWQ2VGxqdzRpZjZmTlVPZHd3eWlLX3loRjBfTmxKbEhfenVpUEtXd01xVlhPUTR1NVpvWGY3ZTVIREpsb2xjbktQMFg1cWNCLVHSAWZBVV95cUxOUjMxdlNxeWMzVUc3dG5GZ0ZOWndqNEt2UFYyWXNuVmlCdUd6UFZyOUh6VDBUZlVmTFhaZG1VdHdWbUxGVkVES1Nyd0UzNnUtZ29QRW9ZRi0zZzBjYnZQYmJsUFhHbnc?oc=5"
         }
       ]
     },
@@ -386,18 +410,6 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1XUjlzNFpZT3JxQWowdEFrcWxhY01fUXNWWUxUbVJnbGdPclpEbTk1dzAxQlZyQ3dSc3dOV2RqcTEwa1pQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "243434e6c465",
-      "title": "3주 넘는 목소리 변화·목혹, 두경부암 신호일 수도 - 후생신보",
-      "published": "2026-07-24T00:07:00+00:00",
-      "summary": "3주 넘는 목소리 변화·목혹, 두경부암 신호일 수도&nbsp;&nbsp;후생신보\"갑자기 목에 멍울 잡히네\"…혹시 내가 '이 질환'?[몸의 경고]&nbsp;&nbsp;뉴시스“쉬면 낫겠지” 했다가 치료시기 놓칠라…쉰 목소리·구내염 계속되면 ‘이 암’ 의심&nbsp;&nbsp;농민신문“두경부암 로봇수술로 신체기능 최대한 보존”&nbsp;&nbsp;헬스경향말하고 먹는 일상 위협하는 '두경부암'…3주 이상 이상 증상 지속되면 검사받아야&nbsp;&nbsp;메드월드뉴스",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96S1BPSEd6MkRLdFNTOTdsalVzbnhnOFRQQ0E2Rk14NUk5RHhqRjZHczEtV2hRcFpYOTk2TUlKcm0xUQ?oc=5"
         }
       ]
     },
@@ -462,18 +474,6 @@
       ]
     },
     {
-      "id": "a7333ec7bccf",
-      "title": "과학 기술, 능동적인 건강 관리에 새로운 방향 제시 - Laodong.vn",
-      "published": "2026-07-23T13:13:46+00:00",
-      "summary": "과학 기술, 능동적인 건강 관리에 새로운 방향 제시&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWs5Mng2R3diT1pGcERkcjZXVVpjR3FidU94b09jMW5xWVRUcnlCQ3VRc3ZreWJGOFB2Z0E1UmFYRjR4eGRiWm5aZnd4TVBuN2dXeUw4U2tVRkRuUHk3S0FqZlhTM0FseGN2MUs2dVBxMXpnMy1JS0JNZGEyQTBJTU44NHR5d1F0aDZTNmd4XzF5T1M4WlhsRXlfMkJKX2hqanRnOWRWaVNqdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cd9bace8546c",
       "title": "벌거숭이두더지쥐 여왕의 비밀…'냄새'로 다른 암컷 번식 막았다 - v.daum.net",
       "published": "2026-07-23T13:01:51+00:00",
@@ -510,6 +510,18 @@
       ]
     },
     {
+      "id": "64b08e4eaa62",
+      "title": "우주 공간에서 라즈베리에 들어 있는 당이 발견됐다? - BBC",
+      "published": "2026-07-23T03:16:16+00:00",
+      "summary": "우주 공간에서 라즈베리에 들어 있는 당이 발견됐다?&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CZFU4X05GaV9rX2RMTElYbGxOT3AtWUhVTWJEejZDdnNEOGs5RzV1YjJ2VGxhN3VuZ3AzUDItNEFaWjkyenMxQ1RQbmVDVVlTamR4aUh2ZUstbGxf0gFiQVVfeXFMTlFoOEI5NmYwSVJaa28wU1YtTmFOQUZIaUJXcXNfZWsza3hoWnZkOGZRajllbHBCNW9XR252a3BqY3dsRDhxTWMtLWNRZVo4aDNLeV9hUVM0ZlRSLUd4RDdyeXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d233933b1675",
       "title": "NASA 큐리오시티, 화성서 고대 모래폭풍 흔적 발견 [여기는 화성] - 지디넷코리아",
       "published": "2026-07-23T02:13:42+00:00",
@@ -518,18 +530,6 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LeE83Uk1FMzZlX0wxN1V5WEdtbmd5cm1ITFJOcG9JR2NIMTlBWHBILVp5UVdUemJiOThDQkx5Rjc0bzROaGVOenhXVXZaQjZQTGhqczh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "17234a71d2f3",
-      "title": "아침 뇌 건강 지키는 습관 - 브런치",
-      "published": "2026-07-22T17:06:59+00:00",
-      "summary": "아침 뇌 건강 지키는 습관&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "브런치",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CQmJuZGd2SW9udEdjMkdPeS1Fazd0ZzRpNW5FMDl4a1FaLVlOdzVHZjFLOURCb21LR3VEbnZMcWlYTWpvWThpSg?oc=5"
         }
       ]
     }
