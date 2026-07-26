@@ -1,10 +1,46 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-26T03:17:24.355424+00:00",
-  "total_fetched": 80,
-  "unique_count": 80,
-  "health_related_count": 38,
+  "fetched_at": "2026-07-26T08:29:59.553343+00:00",
+  "total_fetched": 69,
+  "unique_count": 69,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "f25dd65d8f65",
+      "title": "\"다낭성 난소 증후군 여성, 심장마비·뇌졸중 위험 약 4배 높아\" - 연합뉴스TV",
+      "published": "2026-07-26T06:38:00+00:00",
+      "summary": "\"다낭성 난소 증후군 여성, 심장마비·뇌졸중 위험 약 4배 높아\"&nbsp;&nbsp;연합뉴스TVGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oak52OTFyS0FjODNjUTN2eGxLZW00TEw4Q24zUjlYYjE1Sm16TGtZbkd0N2Q5QVdvci1TQW1nTVhSWVdLZkJMS0VyUlg2THdQblViZ2pVMEdOaTMwRWxuX0tEWnpOVHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0025d133fa6c",
+      "title": "\"젊은 유방암, 고령환자보다 국소 재발 4배 높아\" - 미디어데일",
+      "published": "2026-07-26T04:28:09+00:00",
+      "summary": "\"젊은 유방암, 고령환자보다 국소 재발 4배 높아\"&nbsp;&nbsp;미디어데일Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "미디어데일",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sakZwRXdxVG9uOVZKUktSdE91dW1zTWRSMHUxemlheXFzdUlwVEZpVExFNEloc1RnVlNUeG10LWRQVzlMeWo0YmNBQVludlRyTmI4WWlnbVVLQTI5ZVg4VEUxZVhQaHlHYWtSdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "97d86007ffb0",
+      "title": "\"감염 세포에 '바이러스 폭탄' 장착…자폭 유도 mRNA 기술\" - 바이오북미디어",
+      "published": "2026-07-26T04:06:00+00:00",
+      "summary": "\"감염 세포에 '바이러스 폭탄' 장착…자폭 유도 mRNA 기술\"&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VeUxqZFJlRkhjS2ItbFVGZUViV2I0bW80NGd3SV9RbW1XdlJ3YkV2clZiS010Mm5ULUh1YW9CM3E5YVZqSjhNanVkR0lJY0lncXZGbjlvV3Q3NENaV0ZXVGpVVTBFR0xaXzVUYXRR?oc=5"
+        }
+      ]
+    },
     {
       "id": "56d1d59ea3c1",
       "title": "[100세건강] 쉰 목소리·삼킴장애 오래가면 두경부암…예방법은 - 네이트",
@@ -78,6 +114,18 @@
       ]
     },
     {
+      "id": "7b164a3a8b57",
+      "title": "\"식단만 해선 당뇨 극복 못 해\"⋯식후 '이 행동'부터 끊어야 '혈당 급등' 막아 - 아이뉴스24",
+      "published": "2026-07-25T15:00:02+00:00",
+      "summary": "\"식단만 해선 당뇨 극복 못 해\"⋯식후 '이 행동'부터 끊어야 '혈당 급등' 막아&nbsp;&nbsp;아이뉴스24“당뇨 전단계일 때 꼭 해라”… 의사가 꼽은 ‘5가지 생활습관’&nbsp;&nbsp;헬스조선“약 안 먹고 혈당 잡았습니다”… 의사가 콕 집은 ‘돈 안 드는’ 수칙 [헬시타임]&nbsp;&nbsp;서울경제혈당 관리할 때 가장 조심할 음식들…'이렇게' 먹었더니 체중에 변화가?&nbsp;&nbsp;네이트성인 10명 중 4명이 당뇨 전 단계…‘이런 식단’ 따르면 당뇨병 진행 막을 수 있어&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CY1F6cDE2QWMyLXZ5VlhxQXZ5eGRFWnJ6b1JMdHIwV1dIbkhxOWxmOS1hcllEbEtmX19GTHloMnJnTGJDdEx0V19QZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7e64709c4b0b",
       "title": "뇌에 칼 대지 않고 뇌질환 고친다, 나노 자기유전학이 연 무선 뇌제어 신시대 - 한국AI부동산신문",
       "published": "2026-07-25T14:57:30+00:00",
@@ -90,6 +138,18 @@
       ]
     },
     {
+      "id": "05e40169533e",
+      "title": "60대 남성에 생긴 유방암… 아내가 발견했다는데, 어떻게? - 헬스조선",
+      "published": "2026-07-25T14:00:00+00:00",
+      "summary": "60대 남성에 생긴 유방암… 아내가 발견했다는데, 어떻게?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvZmN1UmZ6eXF2ZS1pbDFZZE9Xdy1oU3FQbDBvcXJrNVBQR296NmRCU0hhUThlUVNwbnlnN1p3aDZEVWJPeEcyamJtMlFHSmFzQUNmY2JaZ1htckJmT05raGMwRW5VMDFfelY3XzcxQ09YSWF5NTJKRjdwS05pSk0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7dbef047774f",
       "title": "“머리 터질 듯 아팠는데” 병원서 계속 돌려보내…34세男 ‘이 병’ 진단, 무슨 일? - 코메디닷컴",
       "published": "2026-07-25T11:04:00+00:00",
@@ -98,18 +158,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5RTko0QmRFWUcyZkdldndzRU1FNEJRX2gtTm5GQWNOc0h2eGZwZjU4S3dwOEN4b1dTNnBwT0JQZDI2UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb8bbb4a3b65",
-      "title": "“156세까지만, 더 살고 싶어도 못살아”…과학자들이 밝힌 인간 '최대 수명'의 비밀 - 전자신문",
-      "published": "2026-07-25T10:10:00+00:00",
-      "summary": "“156세까지만, 더 살고 싶어도 못살아”…과학자들이 밝힌 인간 '최대 수명'의 비밀&nbsp;&nbsp;전자신문\"노화 치료해도 200살은 못 넘는다?\"…과학자들이 제시한 인간 수명의 '절대 한계' [헬스톡]&nbsp;&nbsp;v.daum.net암·노화 정복해도 중간수명 156세?…발목잡는 ‘체세포 돌연변이’ [노화설계]&nbsp;&nbsp;동아일보인간 수명 한계는 156세…\"노화 막아도 영원히 못산다\"&nbsp;&nbsp;지디넷코리아인간, 156살 이상 살 수 있다&nbsp;&nbsp;미주중앙일보",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrMGUzTEExVFEtMmtpTXBETE9hal9FRmpmUGJNOWMwVmFSVEdQTlhfM3R1SlZTd2xnOGtfU1hIZjEzNGZtb3R6THJpWk5mZw?oc=5"
         }
       ]
     },
@@ -153,7 +201,7 @@
       "id": "31d65a56dcd6",
       "title": "종양 억제 막는 갑상선암 돌연변이 기전 규명 - 데일리메디",
       "published": "2026-07-24T21:21:00+00:00",
-      "summary": "종양 억제 막는 갑상선암 돌연변이 기전 규명&nbsp;&nbsp;데일리메디한국인 59만명 앓는데…갑상선암 키우는 ‘스위치’ 찾았다[헬시타임]&nbsp;&nbsp;서울경제서울대병원, 갑상선암 키우는 EZH1 돌연변이 작동 원리 규명&nbsp;&nbsp;쿠키뉴스암 막는 유전자에 '자물쇠'…일부 갑상선암 키우는 돌연변이 작동 원리 규명&nbsp;&nbsp;네이트갑상선암 키우는 EZH1 돌연변이...핵심은 ‘염색질 응축’&nbsp;&nbsp;의학신문",
+      "summary": "종양 억제 막는 갑상선암 돌연변이 기전 규명&nbsp;&nbsp;데일리메디한국인 59만명 앓는데…갑상선암 키우는 ‘스위치’ 찾았다[헬시타임]&nbsp;&nbsp;서울경제서울대병원, 갑상선암 키우는 EZH1 돌연변이 작동 원리 규명&nbsp;&nbsp;네이트암 막는 유전자에 ‘자물쇠’…일부 갑상선암 키우는 돌연변이 작동 원리 규명&nbsp;&nbsp;코메디닷컴갑상선암 키우는 EZH1 돌연변이...핵심은 ‘염색질 응축’&nbsp;&nbsp;의학신문",
       "sources": [
         {
           "name": "데일리메디",
@@ -258,14 +306,14 @@
       ]
     },
     {
-      "id": "e291d9049eb1",
-      "title": "평생 간다는 뇌 면역, 알고 보니 오십에 사라진다 [달콤한 사이언스] - 서울신문",
-      "published": "2026-07-24T08:30:00+00:00",
-      "summary": "평생 간다는 뇌 면역, 알고 보니 오십에 사라진다 [달콤한 사이언스]&nbsp;&nbsp;서울신문50세부터 뇌 면역세포 급변…치매 원인 새 단서&nbsp;&nbsp;동아사이언스레켐비 시대 다음은 ‘타우’…알츠하이머 치료제 경쟁 2막 열린다&nbsp;&nbsp;v.daum.net치매 환자 불면증 주범은 '뇌 면역세포'&nbsp;&nbsp;뉴스토마토Aβ 축적 촉진 원인물질 발견&nbsp;&nbsp;의학신문",
+      "id": "183d0eb629f7",
+      "title": "평생 간다는 뇌 면역, 알고 보니 오십에 사라진다 [달콤한 사이언스] - 네이트",
+      "published": "2026-07-24T08:32:00+00:00",
+      "summary": "평생 간다는 뇌 면역, 알고 보니 오십에 사라진다 [달콤한 사이언스]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ySjhPNDY3SklRcFByRWc5WGpndDdwMkQ3akw4bXlmd003ZTdIalM1d1RRRG02alBMTXlIMUlKX19tdzhpRzBqREo1MVpRcVhmdmEzandETUN1b1V2TXJrZVdDdzVtM2xxamVCSDVBZ1hzY2plVkpmVDVZd0FvZw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzaUIxVVNCQjFGemhVckJkUjYxZ0hydW5FSnhjYTFxZFB0OGNRUlRxOEMwRXVlN2didndoWkVBMjhncEplVkJ1Sm9LQld2RUFIS2Fr?oc=5"
         }
       ]
     },
@@ -290,114 +338,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZGtYM0w4NjZMY0ZMSV9HeFFFTlFXQXdFem0tTnZsNVFEbGtEU1lTZUgwOXdPTTQwS0s0dEg4RUF6Q0c3OFE3ZXNwc0hXSmRKbml3dWM1UF85bWlHTjdkMjlpR05TVVcwc0xYOGpteTJ2aVVOMDNXSjhZd1BzZ0ZBUGFuam85VlA3NXkyS1JiQWo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "66e3e5ede8cd",
-      "title": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견 - 헬로디디",
-      "published": "2026-07-24T07:00:00+00:00",
-      "summary": "치매 치료 한발 더 가까이···IBS, 뇌 노폐물 '첫 배출' 통로 발견&nbsp;&nbsp;헬로디디뇌 노폐물 배출하는 ‘첫 관문’ 발견... 뇌질환 연구 새 전기 마련&nbsp;&nbsp;BRIC사이언스타임즈/사용자메뉴/과학기술/신소재·신기술&nbsp;&nbsp;사이언스타임즈뇌 노폐물 빠져나가는 ‘비밀 구멍’ 국내 연구진이 첫 발견&nbsp;&nbsp;조선일보“뇌 다시 젊어질래”...뇌 노폐물 배출 통로 규명해 방법 찾았다&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HTmlHUk9NcWtSb0RxYTVOdkdXTU43dVNzY3JnYnJMU0ZIWWVveVpzYXJrREdVelVHeE1IbnhvTGxmNDg1dTd6ZjVQd0gxcUVDcXM0bUY4bVcwZjBCSERPWjc5aEF5cGU2LWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68420907055d",
-      "title": "정관장 화애락, 여성 건강관리 '생애주기별' 제품 확대 - 뉴스투데이",
-      "published": "2026-07-24T05:45:00+00:00",
-      "summary": "정관장 화애락, 여성 건강관리 '생애주기별' 제품 확대&nbsp;&nbsp;뉴스투데이",
-      "sources": [
-        {
-          "name": "뉴스투데이",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YeXhEWm8wLWNJU0kzeUpXRlBJUF9iY2t2aXRNMlRpZ0RiOFRPbGwxV2NMY2IwWFFmUVl2R0htSEN3dFRwUlVpQnFTNzBBcW9uc2Nfc2l0VGlwWWVORWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "08cbab8333fe",
-      "title": "\"아이 O자 다리, 놔둬도 될까요?\"…병원 가야 하는 신호 있다 - 매경헬스",
-      "published": "2026-07-24T04:35:02+00:00",
-      "summary": "\"아이 O자 다리, 놔둬도 될까요?\"…병원 가야 하는 신호 있다&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIOHNhcmZ4bEdMNXdnWWo2Zy15THl6MUpLNGpSWDlIQXZmLTBnMVNvZnA4X1pDYW8wRzhsX25CQVppYnlPb3JUeEdyVW9IRmZxbmhyY0NNM2cyNWY0RFY5ZHNEOEtkOVhIQl9IQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85e98a8bb5ec",
-      "title": "천마 천연성분 ‘살리제닌’, 당뇨 예방에 효과 - 농업인신문",
-      "published": "2026-07-24T04:35:00+00:00",
-      "summary": "천마 천연성분 ‘살리제닌’, 당뇨 예방에 효과&nbsp;&nbsp;농업인신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "농업인신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SVWNPT1pCR05oQkVpbHFaRkNabkVyVWZSVExfWmVqSjctS1lON1BhN1Q4Zy05bDNkaWtrU3Bra1VSVG1YUWNOcmJpd2dydUFOeV91TWx2NHdUWDItUXdPZ05nUC1CUXZXNU14Xw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae99f6a01204",
-      "title": "\"장 건강이 곧 전신 건강\" 마이크로바이옴이 바꾼 현대 의학의 패러다임 - 한국AI부동산신문",
-      "published": "2026-07-24T04:07:18+00:00",
-      "summary": "\"장 건강이 곧 전신 건강\" 마이크로바이옴이 바꾼 현대 의학의 패러다임&nbsp;&nbsp;한국AI부동산신문장 건강 안 좋으면 '만성질환' 위험도 높아진다&nbsp;&nbsp;헬스조선[친환경 기술] 쉽게 배우는 미생물이야기 (174) 미생물 다양성&nbsp;&nbsp;월간친환경어려보이는 피부 비결?…'미생물'에 빠진 뷰티업계&nbsp;&nbsp;MSN'진짜 새벽' 앞둔 마이크로바이옴…임상 반전 카드는 '데이터'&nbsp;&nbsp;메디칼타임즈",
-      "sources": [
-        {
-          "name": "한국AI부동산신문",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YTlo5dUpIY1dFeGpSRW4xNWdCbERYeFNUM1doTFFBWkR5TEM4cDEzb1p5OHJlSFNfVHN1NzFCZ2gyb0U5WXBUR1JaWnk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e5d91333d72",
-      "title": "만성신장병 새 치료전략 제시...JNK3 억제로 신장 섬유화 차단 - 메디칼트리뷴",
-      "published": "2026-07-24T04:04:38+00:00",
-      "summary": "만성신장병 새 치료전략 제시...JNK3 억제로 신장 섬유화 차단&nbsp;&nbsp;메디칼트리뷴만성콩팥병 새 치료 표적 찾았다…'JNK3' 억제해 신장 섬유화 완화&nbsp;&nbsp;네이트만성 콩팥병 새 치료 표적 ‘JNK3’ 발굴… 동물실험서 효과 입증&nbsp;&nbsp;간호사신문신장 섬유화 '스위치' JNK3 첫 규명…만성콩팥병 표적치료 가능성 열어&nbsp;&nbsp;e-의료정보만성콩팥병 새 치료전략…‘JNK3’ 억제 신장 섬유화 막는다&nbsp;&nbsp;의협신문",
-      "sources": [
-        {
-          "name": "메디칼트리뷴",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vc2NLbjBCMnFFYU0zSjFWVHRZT01ia2VnSzgxUml3MWwyWWVQcjRZNmU4TU51UmhSZUQtNkRtYWlobEdZSkRVcGYzcHlfSE1kMjUxbnhJVjdYUGFZaXRVNWo4dUdmdXRGT1BkclBpVUxWSVV5Y1HSAXpBVV95cUxOdllBd0w3REw3MEVBNkROWGFKa1IwNGg5WmNGWVBfNm5NQ24wc0xUb0xtTkZjTU94MlUtVzFFOUR0bDdDUWhCekFFVEU4dFFhYno3SlB0S2ZLRUw4NTJ1ZG1qaDROaHFJbGVMU0lUelQyMGxOTkR1STJGZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28ce351ee3ec",
-      "title": "튼튼한 혈관 만들려면, ‘세 부위’ 근육 운동을 - 헬스조선",
-      "published": "2026-07-24T03:30:00+00:00",
-      "summary": "튼튼한 혈관 만들려면, ‘세 부위’ 근육 운동을&nbsp;&nbsp;헬스조선노년기 근감소증 지속되면… 심뇌혈관질환·사망 위험 증가&nbsp;&nbsp;하이닥“10kg 뺐는데 이런 문제가”…달걀, 고기 더 먹어야 하는 이유?&nbsp;&nbsp;코메디닷컴한국인 건강수명 73세…마지막 10년의 운명 가르는 근감소증&nbsp;&nbsp;용인신문[최상태의 인생검진㉞] 근육이 최고의 노후 자산이다&nbsp;&nbsp;대한데일리",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GdkQ3dlhnWVdoTDdPcENoVkJtdF9IdWpZbWN6VkRzWFlYOXpGMmZQbFB2RUU3Q3Q0TXN6VXNwaEF3QWlPZXFfYlBZYXFuZWJoZkwtRExJbFp2V0pBRzl2ckJXQjNnS0ZxdDFjOVBzaUdWLVVzVXhBQ3ROdlg5eDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "79ba58bc57eb",
-      "title": "비만하지 않아도 요산 수치 높다면 심장판막질환 '빨간불' - 메디칼업저버",
-      "published": "2026-07-24T03:09:52+00:00",
-      "summary": "비만하지 않아도 요산 수치 높다면 심장판막질환 '빨간불'&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wTFZnX1lBMkVaUUtrNUNOOUpQSmtzbGpvYTEzQTMtdnVYZ09meFlnUUNBTlQ3aEt4a3gybWVkZnZ4bHdjc0hRdmx4ZVJGeVA5am9VZ1diQkhiUURLOTNvcWU0RzFSZ052aG1J?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea28dc15cc7e",
-      "title": "50대부터 시작되는 뼈 건강 비상…“단순 골감소증도 주의” - 미주한국일보",
-      "published": "2026-07-24T03:00:00+00:00",
-      "summary": "50대부터 시작되는 뼈 건강 비상…“단순 골감소증도 주의”&nbsp;&nbsp;미주한국일보기침 한 번에 척추뼈 6개 뚝…'도미노 골절' 부르는 골다공증 주의보&nbsp;&nbsp;v.daum.net[시민기자] 내 발로 걷는 골다공증 예방법&nbsp;&nbsp;국제신문[의학칼럼] '소리없는 뼈 도둑' 고위험 골다공증, 골형성촉진제 치료가 도움&nbsp;&nbsp;헬스조선‘오늘부터 인생 2막’ 시즌2, 골다공증 경고&nbsp;&nbsp;bntnews.co.kr",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUk5ZaldLaXdzTEFiUm45VDhkTG5HcFpUMjhHS0sta04tdUdqMUVsNlBwREtLLTJfUEdBdmJNUFYxazd4WGV1SHVZRkhTY29vREdxSGRXVjZuY1JtNllr?oc=5"
         }
       ]
     },
@@ -446,18 +386,6 @@
         {
           "name": "헬로디디",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JcHJHRUNGTTZxMFd0NUhweDJzUWFicFZNZ0VXMnYwUlNHbnJLQnBQbl9Nc0FIb0FwakFLRnhtM3Q5TDI5ZlFWNmEteWNvUFlXNGVTZDNEa3hhMnNKbFNhZjM4RVZLUWJtMGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e875586fa1b7",
-      "title": "당뇨·비만 치료제 ‘이 성분’, 뇌 손상 관련 발작 위험도 낮추는 효과 - 경향신문",
-      "published": "2026-07-23T05:55:00+00:00",
-      "summary": "당뇨·비만 치료제 ‘이 성분’, 뇌 손상 관련 발작 위험도 낮추는 효과&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tS1diT3dRMkxKa0UyTnQ1SEhLeW5OazcyNkVnaGlMLTZlR0tXRjhYYzMyS2JISVNwVGxGT1JiSVllSTVqSS0wX2hzZWlpZFd4MGFnSnRYODdjZ9IBX0FVX3lxTE1YOUEzbHlZNTBvR2lqa3I2UHhUTDVLMGcyZHI0c2NQNG1seTBvdEJndFpKMmxmLXB3aHFoZEtkWUpNUkVnamdKclBEOEZwbzYwMTBHLTU2MkxvdHFQdldN?oc=5"
         }
       ]
     }
