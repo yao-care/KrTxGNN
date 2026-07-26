@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T08:29:59.653685+00:00",
-  "total_count": 31,
+  "last_updated": "2026-07-26T13:35:13.523860+00:00",
+  "total_count": 24,
   "matched_count": 0,
   "news": [
     {
@@ -173,6 +173,19 @@
       "matched_keywords": []
     },
     {
+      "id": "fb8bbb4a3b65",
+      "title": "“156세까지만, 더 살고 싶어도 못살아”…과학자들이 밝힌 인간 '최대 수명'의 비밀",
+      "published": "2026-07-25T10:10:00+00:00",
+      "summary": "“156세까지만, 더 살고 싶어도 못살아”…과학자들이 밝힌 인간 '최대 수명'의 비밀&nbsp;&nbsp;전자신문모든 노화 원인 없애도 156세까지 생존 확률은 절반&nbsp;&nbsp;조선일보암·노화 정복해도 중간수명 156세?…발목잡는 ‘체세포 돌연변이’ [노화설계]&nbsp;&nbsp;동아일보\"노화 치료해도 200살은 못 넘는다?\"…과학자들이 제시한 인간 수명의 '절대 한계' [헬스톡]&nbsp;&nbsp;v.daum.net인간, 156살 이상 살 수 있다&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrMGUzTEExVFEtMmtpTXBETE9hal9FRmpmUGJNOWMwVmFSVEdQTlhfM3R1SlZTd2xnOGtfU1hIZjEzNGZtb3R6THJpWk5mZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "fe2ecf2fc361",
       "title": "“전염병도 아닌데, 배우자가 치매 걸리면”…나도 걸릴 위험 74% 급증, 왜?",
       "published": "2026-07-25T07:50:03+00:00",
@@ -181,19 +194,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RR1VZdl9GaXhtakY2WWJCMnpjNnFBTGo4S0t5VFN6b25Nd0NWS0ZoTF8wUncxMGY1T2wtRzhFdXJjS0xTbkpFc2VxWldxWWZLdXJYMQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aa25b4831985",
-      "title": "'이것' 하나 먹었을 뿐인데…40분 만에 무섭게 혈압 올랐다 [헬시타임]",
-      "published": "2026-07-25T04:04:00+00:00",
-      "summary": "'이것' 하나 먹었을 뿐인데…40분 만에 무섭게 혈압 올랐다 [헬시타임]&nbsp;&nbsp;네이트‘이것’ 하나 먹었을 뿐인데…40분 만에 무섭게 혈압 올랐다 [헬시타임]&nbsp;&nbsp;서울경제“40분 내에 혈압 폭증”…혈관 혹사시키는 음식, 정체는?&nbsp;&nbsp;헬스조선초가공식품 많이 먹을수록… 심혈관질환 위험 최대 38%↑&nbsp;&nbsp;하이닥[Dr.이은봉의 의학 연구 다이제스트] 가공식품 많이 먹으면 고혈압 위험 29% 늘어&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FWmtNTmd0UFluQnlJaW5UYlRXUE56TXdiS013UHhuR0l2MC1rOEtPbC1DdW8ycjFacEVVNy1qWEtSN2FYVUluNDRCa0lCcmx6clZv?oc=5"
         }
       ],
       "matched_keywords": []
@@ -251,83 +251,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e506e7c5f6bc",
-      "title": "의사가 알려주는 암극복 전략 '암을 이겨내는 사람들의 비밀'",
-      "published": "2026-07-24T11:20:10+00:00",
-      "summary": "의사가 알려주는 암극복 전략 '암을 이겨내는 사람들의 비밀'&nbsp;&nbsp;캔서앤서",
-      "sources": [
-        {
-          "name": "캔서앤서",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jVGY5YWRJcm51NjRtLVpUTF9WQW91cTV0dDhtaWlLQWZEMy16R3VqbEwzNVFucEhSVXU5cjFOQU1qMjhoLUZYQWhLUE9CX0E0VDlVbTlGb3dyc2UxWEdNRzJUZVlab0l6VldRMkx4LW0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f7113a24f5fd",
-      "title": "바이러스도 아닌 '암'이 전염된다?…호수 메기 3분의 1이 같은 암에 걸린 이유 [후암동 논문 연구소]",
+      "id": "acbf8085b3a8",
+      "title": "바이러스도 아닌 ‘암’이 전염된다?…호수 메기 3분의 1이 같은 암에 걸린 이유 [후암동 논문 연구소]",
       "published": "2026-07-24T11:10:00+00:00",
-      "summary": "바이러스도 아닌 '암'이 전염된다?…호수 메기 3분의 1이 같은 암에 걸린 이유 [후암동 논문 연구소]&nbsp;&nbsp;네이트",
+      "summary": "바이러스도 아닌 ‘암’이 전염된다?…호수 메기 3분의 1이 같은 암에 걸린 이유 [후암동 논문 연구소]&nbsp;&nbsp;헤럴드경제",
       "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xdFVNTjFXcnFnLUpmUEtrNDFUOUI3bWdOR1RJdUdGREFGWEZfM00yOGhFQjVtWTlCejg3a3FRVFFpdFY1YnJWUWdNbUVoM0E1NG80?oc=5"
-        },
         {
           "name": "헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZzJmcjZGaFU3emRSTHpEQ1dYSjg5VkpyX05VZmFPbkdiVGxvdkpHMWhhZVJiU1RmSVhNYTNCdkZtVjZsbWpJY0htcGhGTzZ6bmk0NUZ6bw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0c74a4f03173",
-      "title": "대장 지키고 소장 내준다…‘저탄고지’ 키토 식단의 두 얼굴",
-      "published": "2026-07-24T10:00:00+00:00",
-      "summary": "대장 지키고 소장 내준다…‘저탄고지’ 키토 식단의 두 얼굴&nbsp;&nbsp;농민신문'저탄고지'는 무조건 좋다? 소장암 위험 높일 수도&nbsp;&nbsp;헬스조선저탄고지의 배신?…체중 줄여주는 케토 식단, 소장암 위험 가능성&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CSHRKNHpDMVIzaDVBRkhkMHkwV3BRY1Q4T2t6dUllQXREOEtVM0RPNm5oNG1BM2UzRHlhc2p0cTJtRUdtLVY3bnpHeWUwREp4aWRZUGhGdVpaZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3332102bb7e1",
-      "title": "말기 유방암 진단 후 출산 결정한 산모",
-      "published": "2026-07-24T09:12:30+00:00",
-      "summary": "말기 유방암 진단 후 출산 결정한 산모&nbsp;&nbsp;위클리코리아",
-      "sources": [
-        {
-          "name": "위클리코리아",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTDdxU1k1bFdQX1BWTFlKLXZGQTJzdHVZZzJseWV2WkU3ckJuY292b19mVlJsOFBXaEdBNFVIcFkxa2ktQ1ItY0l5ZEd6OGxBMUpseGJYbXZRQ1AyeEFucVdPamp3ZmxqMTctMkxBOEN2WmpaTU1Td21scE9XX3RzWFdhT1d0eVpJSldra21ELTdaeTZUb25IUzVsRjhIN3VCbUtCMnB1VHp0d0FvbzYtUXBGQVNfaXVZbE11TUVaUUd0ZE1BVkxtTC1nSXMzS2laay1UWm1IWlBCdFJyX3ZNb1dtcjNGZW9DeWtnQWtQaUI4S2pYYkRmUVdMNFE0d3lxMFJwMHpHRQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "877afd2f7289",
-      "title": "생식염장료리, 술에 절였기에 살균이 된다? 진실은… --건강",
-      "published": "2026-07-24T08:46:00+00:00",
-      "summary": "생식염장료리, 술에 절였기에 살균이 된다? 진실은… --건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9McjFEWVh3R2ZKeW9WbTlrV2NMNXJBZE5CZUdFSkk5anU3dFp6TTREVXJfcnNuaXlSdnozbHFFUkNncGtpRlB4REZsanFxbVh1dU9FT3BDd2hOTGkwcFZIUlJlVVRDQnliaWM2WmxR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "183d0eb629f7",
-      "title": "평생 간다는 뇌 면역, 알고 보니 오십에 사라진다 [달콤한 사이언스]",
-      "published": "2026-07-24T08:32:00+00:00",
-      "summary": "평생 간다는 뇌 면역, 알고 보니 오십에 사라진다 [달콤한 사이언스]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzaUIxVVNCQjFGemhVckJkUjYxZ0hydW5FSnhjYTFxZFB0OGNRUlRxOEMwRXVlN2didndoWkVBMjhncEplVkJ1Sm9LQld2RUFIS2Fr?oc=5"
         }
       ],
       "matched_keywords": []
@@ -380,32 +311,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU90MVlGcFBvLUt1dXZhWGhVeWFWcmZkUi1zcjVfMVJEZEF6cWJpODNMMXZmSjFWUWxhZENfXy1XRTNsWDJISXVpUkZ0NjZtV09rekMzdHkwdDRKdi12ZjVja213dG9RWW1pRnBodFVXdVl6OEpDRFdFTUFmSTJ0MmZUaXRKNkV6WXo3c0lNQkNjWWItSDVv0gGrAUFVX3lxTFBFNWo3X0d2Z1pfQkNxT1RHRDBUaGtRLWRDdUs1NkplVUV3akR4TmtRQ2k0bnE2VlhDUUp6NTVRb0VVSEVxcFZ6SGNYRk9TLURubENLOE1QNnVwWm9PekQ0cUJJeFdJSWdxcTZMNEgyMHQ4aDFBSDlPUGZFdHFfbzRCSXZoUWRIRVJPblRRS1pwbVZrV1BPbS0xUkRnZ01uNTBoRkpwX3gteW1uWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cd9bace8546c",
-      "title": "벌거숭이두더지쥐 여왕의 비밀…'냄새'로 다른 암컷 번식 막았다",
-      "published": "2026-07-23T13:01:51+00:00",
-      "summary": "벌거숭이두더지쥐 여왕의 비밀…'냄새'로 다른 암컷 번식 막았다&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE93dnEySE5uaW5tcFNHdUp0QnpOVGxHMHlIdWNsUkQzRWRpYXVXVW1kS0psRmRTR243SEI3ZmJyUmNnb2NQcVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bdc4ce4d6156",
-      "title": "中 추격에 다급해진 美, 범정부 총력전\"80년 만에 과학체계 대수술\"···韓 선택은?",
-      "published": "2026-07-23T09:00:00+00:00",
-      "summary": "中 추격에 다급해진 美, 범정부 총력전\"80년 만에 과학체계 대수술\"···韓 선택은?&nbsp;&nbsp;헬로디디",
-      "sources": [
-        {
-          "name": "헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JcHJHRUNGTTZxMFd0NUhweDJzUWFicFZNZ0VXMnYwUlNHbnJLQnBQbl9Nc0FIb0FwakFLRnhtM3Q5TDI5ZlFWNmEteWNvUFlXNGVTZDNEa3hhMnNKbFNhZjM4RVZLUWJtMGc?oc=5"
         }
       ],
       "matched_keywords": []
