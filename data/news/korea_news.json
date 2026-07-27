@@ -1,10 +1,106 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-27T03:27:17.171259+00:00",
-  "total_fetched": 58,
-  "unique_count": 58,
-  "health_related_count": 29,
+  "fetched_at": "2026-07-27T09:56:26.490694+00:00",
+  "total_fetched": 61,
+  "unique_count": 61,
+  "health_related_count": 34,
   "news": [
+    {
+      "id": "5f4e63e387da",
+      "title": "[100세건강] 쉰 목소리·삼킴장애 오래가면 두경부암…예방법은 - 한국부동산뉴스",
+      "published": "2026-07-27T08:52:42+00:00",
+      "summary": "[100세건강] 쉰 목소리·삼킴장애 오래가면 두경부암…예방법은&nbsp;&nbsp;한국부동산뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "한국부동산뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1meEg3SXJ2dlJrUWd1N210NHo2RmVyeXZqVDlIRUZqc29lOUVEcmprMFA1NmtiNkl6cFpwc01kWEVQSjE5VkNTY2dNT1daY3E2MlZpcVRibFN2Nm5sdWhXUVZoN1IyaENlLVQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "390ff0a223ba",
+      "title": "고려대 안산병원, 루게릭병 조기 진단과 다학제 관리 강조 - MEDI:GATE NEWS",
+      "published": "2026-07-27T07:27:00+00:00",
+      "summary": "고려대 안산병원, 루게릭병 조기 진단과 다학제 관리 강조&nbsp;&nbsp;MEDI:GATE NEWS",
+      "sources": [
+        {
+          "name": "MEDI:GATE NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WM2t6M3lsUjdnaTF3emtSY2piQk9qN1YzdHFvOWp4Qzc4OGpubWF4NTdaeUxxNGFQZTFtTldtR1hTMUhHQlltLVNJaGlOR2NxMXczNVYtSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b2c6e6508b3",
+      "title": "파킨슨병 줄기세포 치료 효과 높이려면…에스바이오메딕스, 핵심 조건 제시 - 전자신문",
+      "published": "2026-07-27T06:41:31+00:00",
+      "summary": "파킨슨병 줄기세포 치료 효과 높이려면…에스바이오메딕스, 핵심 조건 제시&nbsp;&nbsp;전자신문에스바이오메딕스, 파킨슨병 줄기세포 치료 핵심 가이드라인 제시…국제학술지 게재&nbsp;&nbsp;v.daum.net에스바이오메딕스, 파킨슨병 세포치료 성공 조건 찾았다…셀스템셀논문 게재 - 머니투데이&nbsp;&nbsp;머니투데이에스바이오메딕스, 파킨슨병 세포치료 임상 핵심 조건 제시&nbsp;&nbsp;한국경제\"이식 줄기세포 품질 좋아야\"…국내 연구팀이 밝힌 파킨슨병 치료 성공조건&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ydjNxc1FlVXMweFpJNnEwYm1NY2NtaC1RSDNBMkFRZ1AtbGhEWldoeng0LXlyVUhOS04tTk9Ibjc2blBJUmVYeUd1S2Rldw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "924bb41a2388",
+      "title": "장 속 바이러스가 노화를 말해준다… 연세대 이인석 교수, 세계 최대 흰쥐의 장내 바이러스 유전체 지도 구축 - 한겨레",
+      "published": "2026-07-27T05:50:00+00:00",
+      "summary": "장 속 바이러스가 노화를 말해준다… 연세대 이인석 교수, 세계 최대 흰쥐의 장내 바이러스 유전체 지도 구축&nbsp;&nbsp;한겨레장 속 바이러스만 봐도 노화 예측한다…연세대, 세계 최대 장내 바이러스 지도 구축[과학을읽다]&nbsp;&nbsp;v.daum.net기능과 감성’에서 ‘생물학과 데이터로&nbsp;&nbsp;THE K BEAUTY SCIENCE\"장 건강이 곧 전신 건강\" 마이크로바이옴이 바꾼 현대 의학의 패러다임&nbsp;&nbsp;한국AI부동산신문연세대 연구팀, 장내 바이러스로 노화 예측 가능성 확인&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fMHJTOFMwazQzOU5Ga0tZbXp1WGlpN2RfVkk1enNsZmpzNEJWbmg4YnNid1RSNHU2dUFnSVJZa2RCUGJCWVpqR0xXOExGY2pEeGI4R2lMSHJuTGtHS2Q1dkRKZzFyQ2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "260eeb2ed5dd",
+      "title": "한양대 김영필 교수팀, 장비 없이 암·바이러스 관련 유전물질을 육안으로 판별하는 플랫폼 개발 - 뉴스H",
+      "published": "2026-07-27T05:36:20+00:00",
+      "summary": "한양대 김영필 교수팀, 장비 없이 암·바이러스 관련 유전물질을 육안으로 판별하는 플랫폼 개발&nbsp;&nbsp;뉴스H암·바이러스 관련 유전물질, 장비 없이 육안 판별 가능한 플랫폼 개발&nbsp;&nbsp;코리아헬스로그한양대 김영필 교수팀, '암·바이러스 관련 유전물질 육안 판별' 플랫폼 개발&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "뉴스H",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NNk1OVDY4X19HSFppMEE1WEtiMEszTE5HUDZxUVFaSnJiaUY5Nm1rYThfTmN0bWhidU5WZzBJeFRsRmo0NlFWUWhZdDRxemRfa0M1c3U4QWtUNzZpRW1aQ3BUb0ZHVXF4aHhF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "af2dd9705265",
+      "title": "[장애 유형 9] 간장애, 침묵 속에 진행되는 질환 - 오아시스뉴스",
+      "published": "2026-07-27T05:29:27+00:00",
+      "summary": "[장애 유형 9] 간장애, 침묵 속에 진행되는 질환&nbsp;&nbsp;오아시스뉴스",
+      "sources": [
+        {
+          "name": "오아시스뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HNklNZVE5RDZ3TWV6aVZfZFFsNjQzdHdobDdqLWtEMnhlbTFhdkZJeGVFUFNPbzJuYW8zRXB2TTl0dDh6dGZtRVdFSmFlMEdabFN3Zk00ZXhlWWZRVFk2OG50SmZRajNaY04wS1dWZnDSAXRBVV95cUxPaUl6VXdELUZfdGFRSjVQZ290WjlvTGZHQVZNN3Qtc1ZxcTRGbk1KVnNiOFNlcmduZHVyTjhrY1lTd3ItM09LZklhMXZTU1JWNnFPY0J0aU5aMFNWek5McFZxcW9Wb3ctRnZuS1c3SHJDUG9vTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ddab8a21633f",
+      "title": "갑상선암 수술 후 장기복용 ‘호르몬제’ 뼈 건강 심각하게 위협 - 재활뉴스",
+      "published": "2026-07-27T04:37:51+00:00",
+      "summary": "갑상선암 수술 후 장기복용 ‘호르몬제’ 뼈 건강 심각하게 위협&nbsp;&nbsp;재활뉴스갑상선암 환자, 골다공증 위험 6배↑…여성은 7배 넘어 - 머니투데이&nbsp;&nbsp;머니투데이갑상선암 수술 후 레보티록신, 골다공증 위험 6배&nbsp;&nbsp;후생신보갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보갑상선암 치료 후 뼈 건강관리 중요 정상인보다 골다공증 위험 6배, 여성은 7배 넘어&nbsp;&nbsp;더임팩트",
+      "sources": [
+        {
+          "name": "재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pZnJjRXNvalVsbjZPai02WWNuV2JybnRXN1pxSHQ3ZnZ3bV8xYjc3NW56NzlMNHotNzE4NUxDSS0zenJjeHN0aXhseDNvWWZnTHptQkpBQ1UyWWtXVFVHX0gxakU4UFhmem1Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22ab69bf1627",
+      "title": "가벼운 심장 기능 저하 안심했는데… “뇌 손상 유발한다” - 코메디닷컴",
+      "published": "2026-07-27T04:06:00+00:00",
+      "summary": "가벼운 심장 기능 저하 안심했는데… “뇌 손상 유발한다”&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81M0RGY21UaURpWV9fbm1RRlF2QXVUbWVGWTZtQWZoZXZBcGxtRkM3ZEJ4WU42bFZvY1Z5Vzd5OW14Zw?oc=5"
+        }
+      ]
+    },
     {
       "id": "d1682b21c946",
       "title": "HIV 감염인 장기생존 시대 왔지만···'안전성' 따져야 - 메디칼업저버",
@@ -30,74 +126,26 @@
       ]
     },
     {
+      "id": "a6385beb7f1c",
+      "title": "\"젊다고 안심 못 한다…40세 이하 유방암, '국소 재발' 경고등\" - 용인신문",
+      "published": "2026-07-27T02:00:59+00:00",
+      "summary": "\"젊다고 안심 못 한다…40세 이하 유방암, '국소 재발' 경고등\"&nbsp;&nbsp;용인신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "용인신문",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BLXB2YTdkZDVvbnNiV3JMUUNPUGt2T1d6b2ZkbTNfM29iTzd2THo4MS1zeElGSUxYakNYUmYyMU15MDlOb2tnRUg4ZzBjU2RJRWpyR2JKNGI4bFVVNnpF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2cbcbcba68b1",
       "title": "\"혈관은 40대부터 늙기 시작한다\" 중년 건강 가르는 '염증과의 전쟁' - 용인신문",
       "published": "2026-07-27T02:00:56+00:00",
-      "summary": "\"혈관은 40대부터 늙기 시작한다\" 중년 건강 가르는 '염증과의 전쟁'&nbsp;&nbsp;용인신문중년 넘으면 몸속에 염증 많아져… 꼭 먹어야 할 음식 있다는데?&nbsp;&nbsp;헬스조선기름 낀 혈관, 운동하면 싹 씻긴다?…서울대 명의가 폭로한 진실 [건강!톡]&nbsp;&nbsp;한국경제\"채식만 하면 끝?\"… 전문가가 꼬집은 혈관 건강의 오해&nbsp;&nbsp;뉴시스고기 입에도 안 대고 채식만 했는데 \"혈관 막혔다\"…서울대 명의가 말하는 진짜 원인 [헬시타임]&nbsp;&nbsp;네이트",
+      "summary": "\"혈관은 40대부터 늙기 시작한다\" 중년 건강 가르는 '염증과의 전쟁'&nbsp;&nbsp;용인신문Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "용인신문",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zQWV4N24wWlZKNEdMRmhrQ19EdjNIc19TLXUwVlFpYjBtZEp2S1Z5ajZmaUFvMUhSQXpwUENORVRLNmFkZnNzVDZqdGtwVUM3M2pydGVtbUdRbzEzVTBRZlJ5YXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebb135be434b",
-      "title": "치주질환 2000만명 시대… 메리츠화재 치아보험 ‘주목’ - 이즈보험",
-      "published": "2026-07-27T00:36:31+00:00",
-      "summary": "치주질환 2000만명 시대… 메리츠화재 치아보험 ‘주목’&nbsp;&nbsp;이즈보험",
-      "sources": [
-        {
-          "name": "이즈보험",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZbzlfWjlRb0kwcjVDZnBjY0djeS02clhVSnZrVHdsT0dOMU9TSWZrT2VfZHpqSEYwRFVBOGthSFo1NVJRQlpONXNuc1l1X19hSUl3SmVPem5hckhvbERvWFp6Ni1wdkpwTGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f88528f86f1f",
-      "title": "갑상선암 수술 후 복용 호르몬제, 뼈 건강 위협 - 현대건강신문",
-      "published": "2026-07-27T00:11:00+00:00",
-      "summary": "갑상선암 수술 후 복용 호르몬제, 뼈 건강 위협&nbsp;&nbsp;현대건강신문갑상선암 환자, 골다공증 위험 6배↑…여성은 7배 넘어 - 머니투데이&nbsp;&nbsp;머니투데이갑상선암 치료 후 뼈 건강관리 중요 정상인보다 골다공증 위험 6배, 여성은 7배 넘어&nbsp;&nbsp;더임팩트",
-      "sources": [
-        {
-          "name": "현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BcWZFOW5wS1JLWkZLcnotMWFzSURyVktpdFNTOHB6RGN3LVozOHlxMHNhYzFOQjRBRmFrLTBwWHBOcEpsVENuWDgtWG1ReksxeWx0aFdR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64da6e07586a",
-      "title": "NECA 성조숙증 억제주사, \"일반 아동 키 성장 효과 근거 부족\" - 후생신보",
-      "published": "2026-07-26T23:44:00+00:00",
-      "summary": "NECA 성조숙증 억제주사, \"일반 아동 키 성장 효과 근거 부족\"&nbsp;&nbsp;후생신보성조숙증 억제, 키 크는 주사 아냐…\"진단 기준에 맞춰 사용해야\"&nbsp;&nbsp;v.daum.net\"성조숙증 치료제 '키 크는 주사' 아냐\"…기준에 맞는 사용 중요&nbsp;&nbsp;뉴스1[성장 일기] 아이 손의 스마트폰, 성조숙증의 원인이 될 수도 있다&nbsp;&nbsp;네이트[전주성조숙증] 바른 성장을 위한 습관-스마트폰 줄이기&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBZOG8wM3MtSXgycTJsc3c1U2x6MjN6dmpIWXVwdmlOc1hiWS03VzhldmJ1N1lPR1dtaUpXOVFKSFZRQTZ4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "caf8b4bd057b",
-      "title": "에스바이오메딕스, 파킨슨병 세포치료 성공 조건 찾았다…셀스템셀논문 게재 - 네이트",
-      "published": "2026-07-26T23:26:00+00:00",
-      "summary": "에스바이오메딕스, 파킨슨병 세포치료 성공 조건 찾았다…셀스템셀논문 게재&nbsp;&nbsp;네이트에스바이오메딕스, 파킨슨병 세포치료 성공 조건 찾았다…셀스템셀논문 게재 - 머니투데이&nbsp;&nbsp;머니투데이에스바이오메딕스, 파킨슨병 줄기세포 치료 핵심 가이드라인 제시…국제학술지 게재&nbsp;&nbsp;이투데이[오민철 원장의 신경백서] 2026년 현재 파킨슨병 최신임상 진행상황&nbsp;&nbsp;스포츠월드뇌에 칼 대지 않고 뇌질환 고친다, 나노 자기유전학이 연 무선 뇌제어 신시대&nbsp;&nbsp;얼리어답터뉴스",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iV0swdFJTWENIajBRbU8xeGIyZDNoRWxVZDVYQUVLSS1xcW9RSHFhTEEtZ0FBanhHSlE3WTFSY29qZXJabThkbkE2dkljTXd5OVF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0c9f4b3c74e",
-      "title": "세계 첫 뇌 유전자 치료 받은 6세 사망... 1년만에 알려져 - 조선일보",
-      "published": "2026-07-26T22:30:00+00:00",
-      "summary": "세계 첫 뇌 유전자 치료 받은 6세 사망... 1년만에 알려져&nbsp;&nbsp;조선일보中 6세 여아, 실험적 유전자편집 치료 후 사망…연구책임자 조사&nbsp;&nbsp;네이트中 유전자 교정 중 사망 은폐...동물실험 성공만 '네이처' 게재&nbsp;&nbsp;동아사이언스[사이언스카페] 中 최초 뇌 유전자 교정서 6세 여아 사망 은폐 - 조선비즈&nbsp;&nbsp;Chosunbiz[이슈&논란] \"세계 최초 뇌 유전자 편집, 6세 소녀 사망\" 은폐 논란…中 임상시험 파문 확산&nbsp;&nbsp;뉴스스페이스",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0U2NEdXVkYxNFA5NlppbXdQQmFXUWhEbGltcDFwUWRnRllyRTVwM2ZsWjBaNVg1OGRDUE15UjhobnAxcTVIeGVQV2dSS24wU3dKSXlPZzNsSU5LSGlrNExkN0VzWUFrd2V6RDJLeV9sT0lHZEt1c2o2SVFPWVZSMDkyaw?oc=5"
         }
       ]
     },
@@ -126,10 +174,10 @@
       ]
     },
     {
-      "id": "b0cb84b267be",
-      "title": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명 - KBS 뉴스",
+      "id": "9adc712d6d85",
+      "title": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다 - KBS 뉴스",
       "published": "2026-07-26T21:45:00+00:00",
-      "summary": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;KBS 뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스뇌 노폐물 배출하는 ‘첫 관문’ 발견... 뇌질환 연구 새 전기 마련&nbsp;&nbsp;BRIC뇌 속 노폐물 어디로 빠질까…'숨은 배수구' 첫 발견&nbsp;&nbsp;v.daum.net치매 부르는 뇌 노폐물 배출 '첫 관문' 찾았다&nbsp;&nbsp;경기신문\"뇌 다시 젊어질래\"…뇌 노폐물 배출 통로 규명해 방법 찾았다&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "KBS 뉴스",
@@ -150,6 +198,18 @@
       ]
     },
     {
+      "id": "4550d9c0d751",
+      "title": "치주질환 2000만명 시대… 메리츠화재 치아보험 ‘주목’ - 한국보험신문",
+      "published": "2026-07-26T15:00:00+00:00",
+      "summary": "치주질환 2000만명 시대… 메리츠화재 치아보험 ‘주목’&nbsp;&nbsp;한국보험신문",
+      "sources": [
+        {
+          "name": "한국보험신문",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aOFZQaE85OG16N2xqNUhNZWdZN1l5c1BaeWlJN2JtVnA0TUZFcWNQcEU1X3Z5d1FUS3pGVkVJSzJxa2xPVTk0LTNYdmNpdkkwZ0kxVElVb2otcl9TbWdXcFZPZ0ZlOFBCN05F0gFvQVVfeXFMT2dnaU1DeEUzdUVPX0F3ZmRmNW4yVHJwR1poUHlrU0hYMWNEOFVUT1VqcDlVbksyN0RneWVDREpJb2hrdXpPWTd4eHlFdzZWMHI4WFBLSmxTSS1jT01sdHh5SlRjcl93RnRDSzlac1hr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "18660e75d91b",
       "title": "“운동 꾸준히 했는데”… 30대 남성 뇌졸중 겪게 한 ‘의외의 원인’ - 헬스조선",
       "published": "2026-07-26T13:00:00+00:00",
@@ -165,11 +225,35 @@
       "id": "d12a95b24e20",
       "title": "배우자가 치매면 나도 위험? 연구 결과 보니 - 금강일보",
       "published": "2026-07-26T10:05:00+00:00",
-      "summary": "배우자가 치매면 나도 위험? 연구 결과 보니&nbsp;&nbsp;금강일보“여보, 나 치매래” 남편 고백 들은 아내…병원 찾았다가 깜짝 [헬시타임]&nbsp;&nbsp;서울경제“전염병도 아닌데, 배우자가 치매 걸리면”…나도 걸릴 위험 74% 급증, 왜?&nbsp;&nbsp;v.daum.net\"배우자 치매, 남일 아니었다\"…내 치매 위험 최대 74% 높아져&nbsp;&nbsp;뉴시스치매 전염은 아니지만…배우자 발병 땐 다른 배우자 위험 70% ↑[노화설계]&nbsp;&nbsp;동아일보",
+      "summary": "배우자가 치매면 나도 위험? 연구 결과 보니&nbsp;&nbsp;금강일보“여보, 나 치매래” 남편 고백 들은 아내…병원 찾았다가 깜짝 [헬시타임]&nbsp;&nbsp;서울경제“전염병도 아닌데, 배우자가 치매 걸리면”…나도 걸릴 위험 74% 급증, 왜?&nbsp;&nbsp;v.daum.net\"배우자 치매, 남일 아니었다\"…내 치매 위험 최대 74% 높아져&nbsp;&nbsp;뉴시스치매 남편 돌봤더니 아내까지?…배우자도 발병 위험 '쑥' 오른다는데 [헬시타임]&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "금강일보",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04UTVXam9EUVAzazJpZXdtUmxxNWg0bWE0SVNRWVNBcHEzRmpIcGlrMkN0aDl3aHc2THVLT0Q2RVJNLXV3dVNCVTJSZF9NdUFwelB2dmtpczdpTGlEbXVjUV9zeDN1anhsOVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a4ff97ebeb26",
+      "title": "KAIST-엔비디아, \"인체동작 파운데이션 모델 개발\" - 지디넷코리아",
+      "published": "2026-07-26T10:03:46+00:00",
+      "summary": "KAIST-엔비디아, \"인체동작 파운데이션 모델 개발\"&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zWFlnTUdKRWhWb25pNFJKbTZaZXZ6WlVPNGVRTGQ4azEtMVRZaDhjTEZ0eEZtQTZabTFYdC1lVkY0YjJTZGFXUXdRQ0hoS3ptNFVZdUtB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "940da84fc6a5",
+      "title": "이향숙 총장 \"AI·로봇이 밤새 실험…이대에 국내 최대 자율연구실\" - 한국경제",
+      "published": "2026-07-26T08:35:45+00:00",
+      "summary": "이향숙 총장 \"AI·로봇이 밤새 실험…이대에 국내 최대 자율연구실\"&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kT1BLUElkc3RtWHJZY1dtV1pqNXVZZTBBVG1BTmVYTFplVDVtYjVrSEpWZjN3cDZYb3BlN2t2SW41a2d5djd3eXcxVVlZLUxpbEprT19welR0UQ?oc=5"
         }
       ]
     },
@@ -186,18 +270,6 @@
       ]
     },
     {
-      "id": "0025d133fa6c",
-      "title": "\"젊은 유방암, 고령환자보다 국소 재발 4배 높아\" - 미디어데일",
-      "published": "2026-07-26T04:28:09+00:00",
-      "summary": "\"젊은 유방암, 고령환자보다 국소 재발 4배 높아\"&nbsp;&nbsp;미디어데일Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "미디어데일",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sakZwRXdxVG9uOVZKUktSdE91dW1zTWRSMHUxemlheXFzdUlwVEZpVExFNEloc1RnVlNUeG10LWRQVzlMeWo0YmNBQVludlRyTmI4WWlnbVVLQTI5ZVg4VEUxZVhQaHlHYWtSdA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "97d86007ffb0",
       "title": "\"감염 세포에 '바이러스 폭탄' 장착…자폭 유도 mRNA 기술\" - 바이오북미디어",
       "published": "2026-07-26T04:06:00+00:00",
@@ -206,6 +278,18 @@
         {
           "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VeUxqZFJlRkhjS2ItbFVGZUViV2I0bW80NGd3SV9RbW1XdlJ3YkV2clZiS010Mm5ULUh1YW9CM3E5YVZqSjhNanVkR0lJY0lncXZGbjlvV3Q3NENaV0ZXVGpVVTBFR0xaXzVUYXRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "00e110480f80",
+      "title": "건강수명을 늘리는 생활습관, 오래 사는 시대를 넘어 건강하게 사는 시대가 열렸다 - 한국AI부동산신문",
+      "published": "2026-07-26T03:30:26+00:00",
+      "summary": "건강수명을 늘리는 생활습관, 오래 사는 시대를 넘어 건강하게 사는 시대가 열렸다&nbsp;&nbsp;한국AI부동산신문[비바 2080] 노화 늦출 최고의 비법은? … 나이대에 맞는 건강관리법 실천이 최우선&nbsp;&nbsp;브릿지경제장수 관련 최신 연구가 권하는, 최고의 초간단 아침 루틴&nbsp;&nbsp;GQ Korea\"10분만 걸어도 충분?\" 전문가들이 꼽은 건강에 좋은 습관은&nbsp;&nbsp;네이트더 오래 살고 싶다면 오전 9시 전에 시작해야 할 3가지 습관.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "한국AI부동산신문",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5yTXVEQjd6NlJnR1gyNGcyMFVMSllvUzFreGRXZGdQamR4VVRia2RkM0d0Q2JZbnUtTE5RY2JnNXo0Umx4a2hmcjVOeG4?oc=5"
         }
       ]
     },
@@ -222,14 +306,14 @@
       ]
     },
     {
-      "id": "56d1d59ea3c1",
-      "title": "[100세건강] 쉰 목소리·삼킴장애 오래가면 두경부암…예방법은 - 네이트",
-      "published": "2026-07-26T01:00:00+00:00",
-      "summary": "[100세건강] 쉰 목소리·삼킴장애 오래가면 두경부암…예방법은&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "4b1168d513bf",
+      "title": "예상못한 임신에 탈모까지…비만치료제 부작용 살펴보니 - 동아사이언스",
+      "published": "2026-07-26T02:59:00+00:00",
+      "summary": "예상못한 임신에 탈모까지…비만치료제 부작용 살펴보니&nbsp;&nbsp;동아사이언스Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IS0U5Y08zRDBIaG1JeDRMSUxpUlF6WGllSWRRTUNBNHNGUkFDRFUwbDB2OUR2VERvdERnRktBTm1oRExjZXFud3dUZk1CYzdTM0ZR?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85MURqTzNwWDkxTVNyUC1QRmNhMlpLSGlEV3RSVk5FRnBZazJhOEFZeXg3WVlXRU5CaEtiQ214MV9pVGlSNXk4X3lucUtKLS0xZkVIVA?oc=5"
         }
       ]
     },
@@ -249,7 +333,7 @@
       "id": "79fb838b86a7",
       "title": "“잡히는 뱃살보다 더 위험한 내장지방?”…복부지방 쏙 빼는 음식 3가지 - 코메디닷컴",
       "published": "2026-07-25T22:04:00+00:00",
-      "summary": "“잡히는 뱃살보다 더 위험한 내장지방?”…복부지방 쏙 빼는 음식 3가지&nbsp;&nbsp;코메디닷컴겉보기엔 날씬한 '마른비만', 고혈당•콜레스테롤 주의… 체지방 위주 다이어트 필요&nbsp;&nbsp;livesnews.com내장지방 늘리는 습관 5가지…무해해 보이지만 위험&nbsp;&nbsp;씬짜오베트남",
+      "summary": "“잡히는 뱃살보다 더 위험한 내장지방?”…복부지방 쏙 빼는 음식 3가지&nbsp;&nbsp;코메디닷컴겉보기엔 날씬한 '마른비만', 고혈당•콜레스테롤 주의… 체지방 위주 다이어트 필요&nbsp;&nbsp;livesnews.com",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -270,18 +354,6 @@
       ]
     },
     {
-      "id": "1bd2145a7074",
-      "title": "\"피자·버거 먹을 때 즐겨 먹었는데\"…탄산음료의 '충격 결과' [이지현의 생생헬스] - 한국경제",
-      "published": "2026-07-25T21:00:07+00:00",
-      "summary": "\"피자·버거 먹을 때 즐겨 먹었는데\"…탄산음료의 '충격 결과' [이지현의 생생헬스]&nbsp;&nbsp;한국경제“건강한 줄 알았는데, 혈당 폭발”… 속기 쉬운 ‘음료’의 정체&nbsp;&nbsp;헬스조선이러한 종류의 음료는 설탕이 든 음식보다 암 발생 위험을 훨씬 더 높입니다.&nbsp;&nbsp;Vietnam.vn\"마카롱보다 많다\"… 의외로 당 많은 음식 5가지&nbsp;&nbsp;하이닥어린 시절에 설탕이 든 음료를 마시면 나중에 고혈압으로 이어질 가능성이 높습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81MGFUVEYyOGRRdUd1alY5X3UzVFhyYThJbk0xNF9CTFo5QUcwR05CZ3hUbEg3cFlWSUpGU2Y5ajlFY2JWZ3VyOWtRd1lqNUZ5VDd1YXlyR3ZhQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "654617206000",
       "title": "노년층에서 가장 흔한 암은? - 마음건강 길",
       "published": "2026-07-25T20:50:00+00:00",
@@ -290,6 +362,18 @@
         {
           "name": "마음건강 길",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNY3hOUjNYRnR6T2tqS2JfYmNJME1RS3RfeVFfTVp2cWJPYy01X3hUeHB5QlNXam5rblpDbUhnd09ReWh1M1lNaGN1NG1LM2h5QTVsTDF0dGlrQ0UxRlpjQ2V5ZGZSdzBBdkHSAW5BVV95cUxQNE93ME0tWTdJN0dBal8wb0F4cjVpZUFabmRNNUUwbk9lclJnb1pqNHFrM25pZjh4eUtYNFhZVG9KS1h3N29OaWZJSFBhSS0xenlPSy1XRmJ2eUZiUGQ0dmZSS2pUZnBxb0VBLVBkUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ad193b81c18",
+      "title": "뇌에 칼 대지 않고 뇌질환 고친다, 나노 자기유전학이 연 무선 뇌제어 신시대 - 뉴스N연합",
+      "published": "2026-07-25T17:46:25+00:00",
+      "summary": "뇌에 칼 대지 않고 뇌질환 고친다, 나노 자기유전학이 연 무선 뇌제어 신시대&nbsp;&nbsp;뉴스N연합",
+      "sources": [
+        {
+          "name": "뉴스N연합",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMbTFoRTdEdzZDdExqN3RVS0RQS0ctMnhmLTVhTlJ1RnRiX3BjRmVJa2s2dGM3aEZ1S3IwTFRVazZRNVhQY3RFQmFn?oc=5"
         }
       ]
     },
@@ -326,30 +410,6 @@
         {
           "name": "헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EZzJmcjZGaFU3emRSTHpEQ1dYSjg5VkpyX05VZmFPbkdiVGxvdkpHMWhhZVJiU1RmSVhNYTNCdkZtVjZsbWpJY0htcGhGTzZ6bmk0NUZ6bw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9563e054959f",
-      "title": "2026 필즈상 수상자 제이콥 치머만, 오픈AI 합류…\"AI 안전 연구 전념\" - AI타임스",
-      "published": "2026-07-24T08:25:30+00:00",
-      "summary": "2026 필즈상 수상자 제이콥 치머만, 오픈AI 합류…\"AI 안전 연구 전념\"&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LdzA0cDhESzllZVRzczNtV1YweHRjNTZvUUNrLVpLMVJ4VjFWTk9KaGxseU16T2dfU2hYSl9FdTVsVlZQWVN2WlJYMXR5Z0w5bGh2TkpIdlRjUTBaUHNMMUNHWFVTdTI0NUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25e1bdf15c12",
-      "title": "49광년 멀리에서...지구와 쏙 닮은 외계 행성 발견됐어요! - 조선일보",
-      "published": "2026-07-24T08:13:00+00:00",
-      "summary": "49광년 멀리에서...지구와 쏙 닮은 외계 행성 발견됐어요!&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZGtYM0w4NjZMY0ZMSV9HeFFFTlFXQXdFem0tTnZsNVFEbGtEU1lTZUgwOXdPTTQwS0s0dEg4RUF6Q0c3OFE3ZXNwc0hXSmRKbml3dWM1UF85bWlHTjdkMjlpR05TVVcwc0xYOGpteTJ2aVVOMDNXSjhZd1BzZ0ZBUGFuam85VlA3NXkyS1JiQWo?oc=5"
         }
       ]
     }
