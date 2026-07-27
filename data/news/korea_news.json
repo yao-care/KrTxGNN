@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-27T14:41:25.757658+00:00",
-  "total_fetched": 61,
-  "unique_count": 61,
+  "fetched_at": "2026-07-27T19:38:14.004520+00:00",
+  "total_fetched": 62,
+  "unique_count": 62,
   "health_related_count": 35,
   "news": [
+    {
+      "id": "40618852ef86",
+      "title": "[과학자들, 실험실에서 인간 정자 배양 성공에 한 걸음 더 다가서다] 초기 줄기세포는 먼저 정자줄기세포(정자원)를 형성하고, 이 세포들은 사춘기까지 대부분 휴면 상태를 유지하다가 감수분열을 통해 염색체 수를 반으로 줄인 정자를 - AI넷",
+      "published": "2026-07-27T16:02:00+00:00",
+      "summary": "[과학자들, 실험실에서 인간 정자 배양 성공에 한 걸음 더 다가서다] 초기 줄기세포는 먼저 정자줄기세포(정자원)를 형성하고, 이 세포들은 사춘기까지 대부분 휴면 상태를 유지하다가 감수분열을 통해 염색체 수를 반으로 줄인 정자를&nbsp;&nbsp;AI넷16년 얼어 있던 고환에서 정자가 깨어났다&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "AI넷",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1iUlBIX0o3NFdnaVUwQVBabE9TS0xPaWZDZlBCTTU4Q1BXbHJZN1ZmUExNWWNsSTh4Zk52ZWVRVDU?oc=5"
+        }
+      ]
+    },
     {
       "id": "82f3671b507d",
       "title": "갑상선암 치료 후 뼈 건강관리 중요...정상인보다 골다공증 위험 6배 ↑ - 로이슈",
@@ -26,18 +38,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mUWl3Q0hYaXZJd1BDSldmWEVMUXpLalpFTThYMXFvZmJuTUMwZ3JGbU1Xc2VYelRIQnYxaUNveDM2ZElFU05wN3NPQXVyZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40618852ef86",
-      "title": "[과학자들, 실험실에서 인간 정자 배양 성공에 한 걸음 더 다가서다] 초기 줄기세포는 먼저 정자줄기세포(정자원)를 형성하고, 이 세포들은 사춘기까지 대부분 휴면 상태를 유지하다가 감수분열을 통해 염색체 수를 반으로 줄인 정자를 - AI넷",
-      "published": "2026-07-27T12:04:06+00:00",
-      "summary": "[과학자들, 실험실에서 인간 정자 배양 성공에 한 걸음 더 다가서다] 초기 줄기세포는 먼저 정자줄기세포(정자원)를 형성하고, 이 세포들은 사춘기까지 대부분 휴면 상태를 유지하다가 감수분열을 통해 염색체 수를 반으로 줄인 정자를&nbsp;&nbsp;AI넷16년 얼어 있던 고환에서 정자가 깨어났다&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "AI넷",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1iUlBIX0o3NFdnaVUwQVBabE9TS0xPaWZDZlBCTTU4Q1BXbHJZN1ZmUExNWWNsSTh4Zk52ZWVRVDU?oc=5"
         }
       ]
     },
@@ -146,6 +146,18 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51Z1l6bXlOc1g3ZEUwd3hUMTh1MVA0aWZCV2oxb2FUVlpEcU9iQzZEX1kwMEJBYjVaS3NVMTdCVkRMWUM4UUdVTm1RbEMteHU3WUhKLUNoRUhoeEo5VDhIT0FHTVRFTml0Q1ZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "98de8df4cbe1",
+      "title": "지중해식 식단이 건강에 좋은 이유… 쉽게 실천 5가지 방법 - 미주한국일보",
+      "published": "2026-07-27T03:00:00+00:00",
+      "summary": "지중해식 식단이 건강에 좋은 이유… 쉽게 실천 5가지 방법&nbsp;&nbsp;미주한국일보",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wQ25VNVJoVGI0dHA5UmZaZWhkU0p2UmxFRVlBaElJWjRWeTdZRmdVN3BPSEdaRXlmM0dxWkZqelNJblI0bmZkdWxlbERzcWFzZ1lGS2dqZVVrMlp6WC1N?oc=5"
         }
       ]
     },
@@ -306,6 +318,18 @@
       ]
     },
     {
+      "id": "5688fcacd092",
+      "title": "“세계는 오래 가는 주사제 전쟁중...AI로 개발 앞당길 것” [지투지바이오] - 매일경제",
+      "published": "2026-07-26T08:27:38+00:00",
+      "summary": "“세계는 오래 가는 주사제 전쟁중...AI로 개발 앞당길 것” [지투지바이오]&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01Um5LSGxSMXlBelFsX2VMUm44TUxYT2hUbTVhVFVBa25NNXNFbVVReVluWVl5WkxNNW1mdVh5dEhqTTl0ZDNZaVdDRTBMdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f25dd65d8f65",
       "title": "\"다낭성 난소 증후군 여성, 심장마비·뇌졸중 위험 약 4배 높아\" - 연합뉴스TV",
       "published": "2026-07-26T06:38:00+00:00",
@@ -333,7 +357,7 @@
       "id": "00e110480f80",
       "title": "건강수명을 늘리는 생활습관, 오래 사는 시대를 넘어 건강하게 사는 시대가 열렸다 - 한국AI부동산신문",
       "published": "2026-07-26T03:30:26+00:00",
-      "summary": "건강수명을 늘리는 생활습관, 오래 사는 시대를 넘어 건강하게 사는 시대가 열렸다&nbsp;&nbsp;한국AI부동산신문[비바 2080] 노화 늦출 최고의 비법은? … 나이대에 맞는 건강관리법 실천이 최우선&nbsp;&nbsp;브릿지경제장수 관련 최신 연구가 권하는, 최고의 초간단 아침 루틴&nbsp;&nbsp;GQ Korea\"10분만 걸어도 충분?\" 전문가들이 꼽은 건강에 좋은 습관은&nbsp;&nbsp;네이트더 오래 살고 싶다면 오전 9시 전에 시작해야 할 3가지 습관.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "건강수명을 늘리는 생활습관, 오래 사는 시대를 넘어 건강하게 사는 시대가 열렸다&nbsp;&nbsp;한국AI부동산신문[비바 2080] 노화 늦출 최고의 비법은? … 나이대에 맞는 건강관리법 실천이 최우선&nbsp;&nbsp;브릿지경제장수 관련 최신 연구가 권하는, 최고의 초간단 아침 루틴&nbsp;&nbsp;GQ Korea\"10분만 걸어도 충분?\" 전문가들이 꼽은 건강에 좋은 습관은&nbsp;&nbsp;네이트\"극단적 식단·운동 그만\"… 종양학자가 말하는 '진짜' 장수 비결&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "한국AI부동산신문",
@@ -357,7 +381,7 @@
       "id": "eb52c2eb7272",
       "title": "젊은 당뇨병 환자, 1기 고혈압에도 심혈관질환 위험 34%↑ - 문화투데이",
       "published": "2026-07-26T00:04:21+00:00",
-      "summary": "젊은 당뇨병 환자, 1기 고혈압에도 심혈관질환 위험 34%↑&nbsp;&nbsp;문화투데이심근경색·뇌졸중 부르는 고혈압·당뇨…\"평소 관리가 최선의 치료\"&nbsp;&nbsp;라이프인나이 들면 혈압 좀 높아도 괜찮다고?…심장병에 관한 대표적인 오해들&nbsp;&nbsp;네이트성인의 절반은 ‘고혈압’…매주 먹어야 할 8가지 음식은?&nbsp;&nbsp;레이디경향7월 19일 건강 뉴스 업데이트: 건강하지 못한 생활 습관으로 인해 젊은 층에서 고혈압 발병률이 증가하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "젊은 당뇨병 환자, 1기 고혈압에도 심혈관질환 위험 34%↑&nbsp;&nbsp;문화투데이20대 여성에게서 늘어나는 제2형 당뇨병... 원인은 '비만'?&nbsp;&nbsp;BBC당뇨환자, 젊을수록 비만율 높아&nbsp;&nbsp;헬스경향60대 당뇨는 줄었는데 20대 여성은 69퍼센트 늘었습니다&nbsp;&nbsp;캐어유 뉴스",
       "sources": [
         {
           "name": "문화투데이",
@@ -398,30 +422,6 @@
         {
           "name": "마음건강 길",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNY3hOUjNYRnR6T2tqS2JfYmNJME1RS3RfeVFfTVp2cWJPYy01X3hUeHB5QlNXam5rblpDbUhnd09ReWh1M1lNaGN1NG1LM2h5QTVsTDF0dGlrQ0UxRlpjQ2V5ZGZSdzBBdkHSAW5BVV95cUxQNE93ME0tWTdJN0dBal8wb0F4cjVpZUFabmRNNUUwbk9lclJnb1pqNHFrM25pZjh4eUtYNFhZVG9KS1h3N29OaWZJSFBhSS0xenlPSy1XRmJ2eUZiUGQ0dmZSS2pUZnBxb0VBLVBkUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6ad193b81c18",
-      "title": "뇌에 칼 대지 않고 뇌질환 고친다, 나노 자기유전학이 연 무선 뇌제어 신시대 - 뉴스N연합",
-      "published": "2026-07-25T17:46:25+00:00",
-      "summary": "뇌에 칼 대지 않고 뇌질환 고친다, 나노 자기유전학이 연 무선 뇌제어 신시대&nbsp;&nbsp;뉴스N연합",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMbTFoRTdEdzZDdExqN3RVS0RQS0ctMnhmLTVhTlJ1RnRiX3BjRmVJa2s2dGM3aEZ1S3IwTFRVazZRNVhQY3RFQmFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05e40169533e",
-      "title": "60대 남성에 생긴 유방암… 아내가 발견했다는데, 어떻게? - 헬스조선",
-      "published": "2026-07-25T14:00:00+00:00",
-      "summary": "60대 남성에 생긴 유방암… 아내가 발견했다는데, 어떻게?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvZmN1UmZ6eXF2ZS1pbDFZZE9Xdy1oU3FQbDBvcXJrNVBQR296NmRCU0hhUThlUVNwbnlnN1p3aDZEVWJPeEcyamJtMlFHSmFzQUNmY2JaZ1htckJmT05raGMwRW5VMDFfelY3XzcxQ09YSWF5NTJKRjdwS05pSk0?oc=5"
         }
       ]
     }
