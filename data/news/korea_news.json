@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-28T08:38:21.490676+00:00",
-  "total_fetched": 76,
-  "unique_count": 76,
+  "fetched_at": "2026-07-28T14:13:06.293533+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
   "health_related_count": 48,
   "news": [
+    {
+      "id": "e23c64de50f5",
+      "title": "에이아이트릭스, 급성신부전 예측 AI 연구 ‘npj 디지털 메디신’ 게재 - 의학신문",
+      "published": "2026-07-28T12:43:55+00:00",
+      "summary": "에이아이트릭스, 급성신부전 예측 AI 연구 ‘npj 디지털 메디신’ 게재&nbsp;&nbsp;의학신문에이아이트릭스, 급성신부전 예측 AI 국제 학술지 게재…실제 병원 환경서 성능 검증&nbsp;&nbsp;팜이데일리에이아이트릭스, 급성신부전 예측 AI 연구 국제학술지 게재&nbsp;&nbsp;전자신문\"급성신부전 예측AI\"…에이아이트릭스, 국제지 게재&nbsp;&nbsp;뉴시스“예측 정확도 높은 AI가 현장에서 무조건 유용한 것 아냐”&nbsp;&nbsp;병원신문",
+      "sources": [
+        {
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02d0tJRDJNTEk0SXViWXRKVkVjVzV3VlJPXzhKTUlsM0YzcWtoRmRPemZwdFRlbVFGSWhnd0tJSVRWQ1dFaUJmbFNwbzYwOE1zSDlUZFJCdTlhTHduc2RkeVlHblVEckZ6MHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6cf93966a32f",
+      "title": "전남대 치전원 줄기세포분비체연구단-GIST 이코노어연구단, 뇌졸중 치료 가능성 제시 - 전자신문",
+      "published": "2026-07-28T11:06:30+00:00",
+      "summary": "전남대 치전원 줄기세포분비체연구단-GIST 이코노어연구단, 뇌졸중 치료 가능성 제시&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Ra2dEWlpCWlY5X3MxUnl6MFM2eld6Z1RQclpodXZzN1VsaDJ1dXdCUkFlUTdKVVBjcTVEX2E3Y2tGWi01b2FBdFJXMGdpZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e9e8ebe6cce",
+      "title": "혈압약 1년 중단, 뇌졸중 의심 남성 시장에서 쓰러져 - Laodong.vn",
+      "published": "2026-07-28T10:16:10+00:00",
+      "summary": "혈압약 1년 중단, 뇌졸중 의심 남성 시장에서 쓰러져&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQTlhbkdjeS1ranYwbDJKMm5iSFNrN1JrWkR0VHB0aTBPLTVDNUZOc2JlNUo5ajVlblg0NTItejhQY1d6bmZKS19lYk4tRUk5X2M2RHpsUE1GTUhoTFNhREJ4TURObHpRY3ZqUDBjZmg5OWZNUkN1YzItbU5ZUjItWDI5Q1F5bjNlY3pWMHNrSnJMTGZrdlJTNXNUVVdoZlh3UC1HbnhzTlJIUmV1VFU0OW56UjhFQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b3c8f9ec4b11",
+      "title": "\"전 세계 40억명 위협 뎅기열, 면역세포 감염 경로 첫 발견\" - 바이오북미디어",
+      "published": "2026-07-28T10:05:00+00:00",
+      "summary": "\"전 세계 40억명 위협 뎅기열, 면역세포 감염 경로 첫 발견\"&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHRjRpaTBzNTdpTUZDRG94QXJDTnpUcWl0YmxhYVhxcHpIZWVibG1KQ1NuQ3llNUN2SGVveVowR1VzOFNHYjZFalJFbmYzRTVYSVp0eUZRU3RwYmIzdjJoVnQwUllyS0ZsM3owaDR3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "edf9ac2ca1bb",
+      "title": "배변 시간도 ‘골든타임’ 있다…전문가들 추천 시간은? - 조세일보",
+      "published": "2026-07-28T09:00:55+00:00",
+      "summary": "배변 시간도 ‘골든타임’ 있다…전문가들 추천 시간은?&nbsp;&nbsp;조세일보\"장내 바이러스로 노화 정도 확인\"…유전체 지도 구축&nbsp;&nbsp;YTN 사이언스어느새 조용히…‘장 건강’ 망치는 세 가지 아침 습관&nbsp;&nbsp;레이디경향연세대 연구팀, 장내 바이러스로 노화 예측 가능성 확인&nbsp;&nbsp;v.daum.net장 속 바이러스가 노화를 말해준다… 흰쥐의 장내 바이러스 유전체 지도 구축&nbsp;&nbsp;BRIC",
+      "sources": [
+        {
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81M2U0N3ZmSElnMDVqV1FDYVU1M0ZqbHV1VklWZTA2NlRCQURNYUFCUmp4T0tzZWh6bkU4QXdIOC03RlVjWmVxNU5Ic1NHUFIweDhrSEp4b1lZMmJUZmhnRWc5NVBhclY3cUhQeGZDOA?oc=5"
+        }
+      ]
+    },
     {
       "id": "629e0bec9bb3",
       "title": "암세포를 세균처럼 위장…대식세포 포식률 20%서 70%로 - 헬스코리아뉴스",
@@ -42,18 +102,6 @@
       ]
     },
     {
-      "id": "2f98ced058a9",
-      "title": "전남대 줄기세포분비체연구단·GIST 이코노어연구단, 뇌졸중 치료 가능성 제시 - 네이트",
-      "published": "2026-07-28T07:09:00+00:00",
-      "summary": "전남대 줄기세포분비체연구단·GIST 이코노어연구단, 뇌졸중 치료 가능성 제시&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91dDV3N3N2amw0dEljTFZfRDF2WEZ0VnhHYXhoTHlQRGlId1VIdjQ1UklJaEJOS2JNSFZ3cTFYdTR2NktXZ2dBTmM1OGZxUzZSeWZv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "89b7ab837312",
       "title": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법 - 충청뉴스",
       "published": "2026-07-28T07:07:43+00:00",
@@ -69,35 +117,11 @@
       "id": "29af6bc74fd3",
       "title": "소아 뇌종양 배아종, 완치 뒤 20년 추적 필수 - 데일리메디",
       "published": "2026-07-28T06:04:00+00:00",
-      "summary": "소아 뇌종양 배아종, 완치 뒤 20년 추적 필수&nbsp;&nbsp;데일리메디\"소아 뇌종양, 완치 후 추적 필수…평균 17.6년 뒤 합병증 발생\"&nbsp;&nbsp;v.daum.net완치 20년 후에도 '이차암' 위험…\"두개강내 배아종, 장기추적 필요\" - 머니투데이&nbsp;&nbsp;머니투데이완치 20년 지나도 안심 못한다…소아 뇌종양 위협하는 ‘이차암’&nbsp;&nbsp;서울경제\"완치됐다고 끝 아니다\"…소아 뇌종양, 20년 뒤에도 '이차암' 위험&nbsp;&nbsp;데일리안",
+      "summary": "소아 뇌종양 배아종, 완치 뒤 20년 추적 필수&nbsp;&nbsp;데일리메디\"소아 뇌종양, 완치 후 추적 필수…평균 17.6년 뒤 합병증 발생\"&nbsp;&nbsp;v.daum.net완치 20년 후에도 '이차암' 위험…\"두개강내 배아종, 장기추적 필요\" - 머니투데이&nbsp;&nbsp;머니투데이완치 20년 지나도 안심 못한다…소아 뇌종양 위협하는 ‘이차암’&nbsp;&nbsp;서울경제소아 뇌종양 '두개강내 배아종', 완치 후에도 20년 이상 추적 관찰 필요&nbsp;&nbsp;로이슈",
       "sources": [
         {
           "name": "데일리메디",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50cDBySjUwcDVDQnlmMmhvbW9VMWwxSXJ1SkJBOTRBZTRHTmU1SGVsLTJrY2d6OTlFUmRSVlBKdEFuUWpjUFFCZE5FNlBOT3paWk5CMm9FTWhWY2dvYXJITDdpQkpwNjhSRHVUMFgxRUd4QTZa?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "089fe2abbb87",
-      "title": "“밥 먹고 걸을 때 주의”… 혈당 잡으려다 ‘역효과 생기는’ 5가지 상황 - 헬스조선",
-      "published": "2026-07-28T06:00:00+00:00",
-      "summary": "“밥 먹고 걸을 때 주의”… 혈당 잡으려다 ‘역효과 생기는’ 5가지 상황&nbsp;&nbsp;헬스조선“당뇨 전단계일 때 꼭 해라”… 의사가 꼽은 ‘5가지 생활습관’&nbsp;&nbsp;헬스조선[MBN] 당뇨 전 단계 이겨낸 혈관 관리법&nbsp;&nbsp;매일경제“약 안 먹고 혈당 잡았습니다”… 의사가 콕 집은 ‘돈 안 드는’ 수칙 [헬시타임]&nbsp;&nbsp;서울경제“아침에 흰쌀밥 먼저 찾으면 안 됩니다”…전문의가 꼽은 최고의 아침 식사&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54VDRham1rcHdhVGIzMlFGNURYU2lsVXZSTGprZDBkdGtNME5MUDRVSHNzZUZZUlkzVXZGQ2lWc19vMlpkdDcwNjhKeGo0cmh2YVdTelQwOXdudEpPem0zR1NkaEJEM3EybmlyVUdFNHJDbFpxM1FVUWMtT1REMVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1525df6d37ac",
-      "title": "폐결핵 환자, 알부민 수치 낮으면 중환자실 위험 17.8배↑ - 중부일보",
-      "published": "2026-07-28T04:25:31+00:00",
-      "summary": "폐결핵 환자, 알부민 수치 낮으면 중환자실 위험 17.8배↑&nbsp;&nbsp;중부일보한림대동탄성심병원 김정현 교수팀, 입원 폐결핵 환자 중환자실 전원 위험 요인 규명&nbsp;&nbsp;의약뉴스\"폐결핵 환자, '이 수치' 낮으면 중증위험 17.8배↑\"&nbsp;&nbsp;뉴시스폐결핵 환자 저알부민혈증, 중환자실 전원 위험 최대 17.8배 높여&nbsp;&nbsp;헬스오폐결핵 환자, 입원 초기 알부민 낮으면 중환자실 전원 위험 최대 17.8배&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "중부일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1aUV0Z2FCZUR6Nm9OUGU1bVcyVEpwOWZJdkszdS1qOEV3UTFVdzAxOG93eXN5ZzhyNnVUQklBa0tsTy11bHFrdGJpQVIyQTFhT0syODUwMWlMSHpVZDNKdzNlNWhPb2MyRVZZcDJ3?oc=5"
         }
       ]
     },
@@ -110,6 +134,18 @@
         {
           "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ma3Z6X0tFZjU2U3VXa1hJNjZIM1c1d1FSNWhYRVZuMUxSWTFjN3hNVENhcXZfdWp1UWszd0dPNGlzenYxUzhMZk9WNEU4MmMta0h5eTFUVUZpeFhEN1JXSHhYeC1hdC1iaFMtSGpB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45925314cd35",
+      "title": "트럼프가 원조 끊으면 에이즈 재확산?…유엔 “심각한 위협” - 전자신문",
+      "published": "2026-07-28T03:55:00+00:00",
+      "summary": "트럼프가 원조 끊으면 에이즈 재확산?…유엔 “심각한 위협”&nbsp;&nbsp;전자신문트럼프 지원 축소에 유엔 에이즈 대응 흔들…\"재확산 위험\"&nbsp;&nbsp;연합뉴스트럼프發 원조 축소 여파…유엔 \"에이즈 퇴치 후퇴 우려\"&nbsp;&nbsp;한국경제트럼프 지원 축소에 유엔 에이즈 대응 '휘청'…\"재확산 위험\"&nbsp;&nbsp;v.daum.net트럼프가 끊은 원조…HIV 막던 네팔 구호인력 100여명 성매매 내몰려&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4Nmw0WWF2STk0blV2OWlFQXJYYVoxTURQemNBSnRpRU83VVA4dWV4OGZZa1JXZkJhVml2aGE5ejYwUWZoei1idE9sWEh3Zw?oc=5"
         }
       ]
     },
@@ -129,7 +165,7 @@
       "id": "1275a1cbb178",
       "title": "여름철에도 비타민D 부족 해소 어렵다…연구 - 디지털투데이",
       "published": "2026-07-28T02:02:59+00:00",
-      "summary": "여름철에도 비타민D 부족 해소 어렵다…연구&nbsp;&nbsp;디지털투데이Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "여름철에도 비타민D 부족 해소 어렵다…연구&nbsp;&nbsp;디지털투데이",
       "sources": [
         {
           "name": "디지털투데이",
@@ -162,14 +198,14 @@
       ]
     },
     {
-      "id": "bf7b9f434850",
-      "title": "메드팩토, 백토서팁·DC 암백신 병용 전임상 성과 발표…\"종양 크기 줄이고 생존율 높여\" - 네이트",
-      "published": "2026-07-28T01:41:00+00:00",
-      "summary": "메드팩토, 백토서팁·DC 암백신 병용 전임상 성과 발표…\"종양 크기 줄이고 생존율 높여\"&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "1525df6d37ac",
+      "title": "폐결핵 환자, 알부민 수치 낮으면 중환자실 위험 17.8배↑ - 중부일보",
+      "published": "2026-07-28T01:31:00+00:00",
+      "summary": "폐결핵 환자, 알부민 수치 낮으면 중환자실 위험 17.8배↑&nbsp;&nbsp;중부일보Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEMXJ5bzhqTTNqUlJYUDlSUklyRE5NTkFyNTRuZkpRWlBXTEUxS0tnblg4MTZyMzVQSDVvRzZsVlpMeVQzT2EtVmRXczNFVHVSTjNv?oc=5"
+          "name": "중부일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1aUV0Z2FCZUR6Nm9OUGU1bVcyVEpwOWZJdkszdS1qOEV3UTFVdzAxOG93eXN5ZzhyNnVUQklBa0tsTy11bHFrdGJpQVIyQTFhT0syODUwMWlMSHpVZDNKdzNlNWhPb2MyRVZZcDJ3?oc=5"
         }
       ]
     },
@@ -210,22 +246,10 @@
       ]
     },
     {
-      "id": "9d7b07453223",
-      "title": "트럼프 지원 축소에 유엔 에이즈 대응 흔들…\"재확산 위험\" - news.sbs.co.kr",
-      "published": "2026-07-28T00:18:00+00:00",
-      "summary": "트럼프 지원 축소에 유엔 에이즈 대응 흔들…\"재확산 위험\"&nbsp;&nbsp;news.sbs.co.krGoogle 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DVTRyMlFKNjVhaDdJcVRBSGxiVnBfZlQwMGV6and4ODdsdndNUE10eVpFenJOQVFsb0hGZkRCZGVCQXlhbHRZdk1GRWFXTmlRR1FDQ0dvY29mWHZHbU9fb3VSR0FrcUdKY1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "73ec427e1347",
       "title": "서울성모병원, \"우울한 청년, 지방간 위험 2배 더 크다\" - 네이트",
       "published": "2026-07-27T23:45:00+00:00",
-      "summary": "서울성모병원, \"우울한 청년, 지방간 위험 2배 더 크다\"&nbsp;&nbsp;네이트우울증, 마음만의 문제 아니었다…지방간 위험 최대 2.4배&nbsp;&nbsp;v.daum.net젊을 때 우울증, 지방간 위험 2배 ↑…연관성 분석&nbsp;&nbsp;뉴시스우울 증상 심할수록 지방간 위험↑…젊은층 최대 2.4배&nbsp;&nbsp;네이트우울증 앓는 청년, 지방간 위험 최대 2배 높다&nbsp;&nbsp;2news.co.kr",
+      "summary": "서울성모병원, \"우울한 청년, 지방간 위험 2배 더 크다\"&nbsp;&nbsp;네이트우울증, 마음만의 문제 아니었다…지방간 위험 최대 2.4배&nbsp;&nbsp;v.daum.net젊을 때 우울증, 지방간 위험 2배 ↑…연관성 분석&nbsp;&nbsp;뉴시스서울성모병원 \"우울 증상 청년, 지방간 위험 최대 2.4배↑\"&nbsp;&nbsp;데일리안우울증 앓는 청년, 지방간 위험 최대 2배 높다&nbsp;&nbsp;2news.co.kr",
       "sources": [
         {
           "name": "네이트",
@@ -246,10 +270,22 @@
       ]
     },
     {
+      "id": "92a949bfb9fa",
+      "title": "\"80대인데 50대 기억력\"…유전자에 비결 있나 봤더니 [노화설계] - 네이트",
+      "published": "2026-07-27T22:11:00+00:00",
+      "summary": "\"80대인데 50대 기억력\"…유전자에 비결 있나 봤더니 [노화설계]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12SnEtZUpaUlBrdFNUM1oxMXVveURGMFhPN1pEWDlkQXZkcGVVRXA5QUJRb2lyRzh1cWlmZ01Zb19Vek9KdnNqN09uUHNqU3ZlazZZVEg5ZWQ4V2lnMHBzcA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4556af151485",
       "title": "“80대인데 50대 기억력”…유전자에 비결 있나 봤더니 [노화설계] - 동아일보",
       "published": "2026-07-27T22:10:00+00:00",
-      "summary": "“80대인데 50대 기억력”…유전자에 비결 있나 봤더니 [노화설계]&nbsp;&nbsp;동아일보",
+      "summary": "“80대인데 50대 기억력”…유전자에 비결 있나 봤더니 [노화설계]&nbsp;&nbsp;동아일보80대에도 45세 기억력 유지하는 비법? 뇌 건강 지키는 습관 공개 (생로병사) - 조선비즈&nbsp;&nbsp;Chosunbiz\"잠이 너무 많아도 문제\"… 하루 8.5시간 넘게 자면 뇌 속 이 단백질 늘어난다&nbsp;&nbsp;시애틀코리안데일리뇌 전문가들이 알려주는 기억력 보호 비법.&nbsp;&nbsp;Vietnam.vn아침 뇌 건강 지키는 습관&nbsp;&nbsp;브런치",
       "sources": [
         {
           "name": "동아일보",
@@ -318,18 +354,6 @@
       ]
     },
     {
-      "id": "b73c3399850d",
-      "title": "[팩트체크]치료제 맞는 척 시늉까지…가짜 다이어트, 정말 도움될까? - mbn.co.kr",
-      "published": "2026-07-27T10:00:35+00:00",
-      "summary": "[팩트체크]치료제 맞는 척 시늉까지…가짜 다이어트, 정말 도움될까?&nbsp;&nbsp;mbn.co.kr[팩트체크] '치료제 맞는 척' 시늉까지…가짜 다이어트, 정말 도움될까?&nbsp;&nbsp;v.daum.net마운자로 대신 마음자로…맞는 척만 했는데 살이 빠졌다? [포크뉴스]&nbsp;&nbsp;mbn.co.kr닥터나우의 가상 비만치료제 ‘마음자로’, 소비자의 심리적 만족을 충족하는 동시에 서비스의 접근성을 높이는 콘텐츠로 호평&nbsp;&nbsp;오픈애즈",
-      "sources": [
-        {
-          "name": "mbn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oZDdsWnhmQXlINTdGTWg4X1lCR2xMdFN1LXM4b3ItdjNMTTJhZ2dKU3JULWZQSjFPT2NNSEI1RWVvcTdwX1NUb2t3MVhhY2RTT2JyNNIBTEFVX3lxTE4yWnRfYzRyVXlIaDMyRm5KWGcwR013SWN3SnhaR1JMbWxMUENGY3VKUkZsZ0lET1NjSklVWVVzOC1VRS1XTXpMODFqXzI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5f4e63e387da",
       "title": "[100세건강] 쉰 목소리·삼킴장애 오래가면 두경부암…예방법은 - 한국부동산뉴스",
       "published": "2026-07-27T08:52:42+00:00",
@@ -338,18 +362,6 @@
         {
           "name": "한국부동산뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1meEg3SXJ2dlJrUWd1N210NHo2RmVyeXZqVDlIRUZqc29lOUVEcmprMFA1NmtiNkl6cFpwc01kWEVQSjE5VkNTY2dNT1daY3E2MlZpcVRibFN2Nm5sdWhXUVZoN1IyaENlLVQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1d74f74ffbd",
-      "title": "자주 먹는 탄산수, 다이어트에 좋다?…마실 때 주의해야 하는 사람은 - 조세일보",
-      "published": "2026-07-27T05:39:38+00:00",
-      "summary": "자주 먹는 탄산수, 다이어트에 좋다?…마실 때 주의해야 하는 사람은&nbsp;&nbsp;조세일보“무더위 날리는 톡 쏘는 맛!”…건강엔 글쎄? [이슈픽]&nbsp;&nbsp;v.daum.net“암 위험 낮아져” 종양 전문의, 단 것 당길 때 ‘이것’ 먹는다&nbsp;&nbsp;헬스조선점심 먹고 딱 한 잔씩 마시는건데…“차라리 물 마셔라” 섬뜩한 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제\"피자·버거 먹을 때 즐겨 먹었는데\"…탄산음료의 '충격 결과' [이지현의 생생헬스]&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HTzdKdEdCYi1Wek93Z0pBZFdKSkE1Zmp5UTQ3ZXFQa3hvSGhra0EwZHVXeUUyR0FHOUJCWW5qZFJTclVDbXJvTFluOW5ZWjRoNm5nNEdQMjU0MURvbzFN?oc=5"
         }
       ]
     },
@@ -374,18 +386,6 @@
         {
           "name": "조세일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yb3BOX2JxZUdUWDFYZkFsMzVjSXRVQ1A1TmxOYTV4b291SzlSaXpmMWFMU1dRNkFKTENMQWZtb1VfZFhaSjVHa0ZPNWpGbjl1Mk5PNUJHNnV6SVJ0TlVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "af2dd9705265",
-      "title": "[장애 유형 9] 간장애, 침묵 속에 진행되는 질환 - 오아시스뉴스",
-      "published": "2026-07-27T05:29:27+00:00",
-      "summary": "[장애 유형 9] 간장애, 침묵 속에 진행되는 질환&nbsp;&nbsp;오아시스뉴스",
-      "sources": [
-        {
-          "name": "오아시스뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HNklNZVE5RDZ3TWV6aVZfZFFsNjQzdHdobDdqLWtEMnhlbTFhdkZJeGVFUFNPbzJuYW8zRXB2TTl0dDh6dGZtRVdFSmFlMEdabFN3Zk00ZXhlWWZRVFk2OG50SmZRajNaY04wS1dWZnDSAXRBVV95cUxPaUl6VXdELUZfdGFRSjVQZ290WjlvTGZHQVZNN3Qtc1ZxcTRGbk1KVnNiOFNlcmduZHVyTjhrY1lTd3ItM09LZklhMXZTU1JWNnFPY0J0aU5aMFNWek5McFZxcW9Wb3ctRnZuS1c3SHJDUG9vTQ?oc=5"
         }
       ]
     },
@@ -474,6 +474,18 @@
       ]
     },
     {
+      "id": "ff651fc6eded",
+      "title": "\"매일 마신 그 한 잔이 혈당을 망친다\" 당뇨 530만 시대, 식후 음료의 경고 - 용인신문",
+      "published": "2026-07-27T02:00:58+00:00",
+      "summary": "\"매일 마신 그 한 잔이 혈당을 망친다\" 당뇨 530만 시대, 식후 음료의 경고&nbsp;&nbsp;용인신문“무더위 날리는 톡 쏘는 맛!”…건강엔 글쎄? [이슈픽]&nbsp;&nbsp;v.daum.net“암 위험 낮아져” 종양 전문의, 단 것 당길 때 ‘이것’ 먹는다&nbsp;&nbsp;헬스조선점심 먹고 딱 한 잔씩 마시는건데…“차라리 물 마셔라” 섬뜩한 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제\"피자·버거 먹을 때 즐겨 먹었는데\"…탄산음료의 '충격 결과' [이지현의 생생헬스]&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "용인신문",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yWUVtZ21PclB1Q09jV3daSzlqbG1DQ0xpNlA0Q2tvWDd6ZXFjaldMVHYxZVFzWUtQR0ktWER5WHp0dndPbUN1WjBwOGJhLUU5ZTlRNXlxejRTVlZQZFh1RnpqTU8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2cbcbcba68b1",
       "title": "\"혈관은 40대부터 늙기 시작한다\" 중년 건강 가르는 '염증과의 전쟁' - 용인신문",
       "published": "2026-07-27T02:00:56+00:00",
@@ -486,6 +498,18 @@
       ]
     },
     {
+      "id": "781665e110ee",
+      "title": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다 - KBS 뉴스",
+      "published": "2026-07-26T22:39:00+00:00",
+      "summary": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스뇌 속 노폐물 청소 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;v.daum.net치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;KBS 뉴스뇌 노폐물 배출하는 ‘첫 관문’ 발견... 뇌질환 연구 새 전기 마련&nbsp;&nbsp;BRIC뇌 노폐물 빠져나가는 ‘비밀 구멍’ 국내 연구진이 첫 발견&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MQXlSZ3Y5WTRIZ01WZ3JEdS1EcEtKNDlkYmsyT3ZRelF3dW5nckpOamplOGJWRVVNdldHQnZHU04tcDRTVUJwNVVfZkQ3dndRaTIzNDlMY2NGN1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "20db5ada07f0",
       "title": "SIRT1·AMPK 경로 자극… 수명연장 효과는 ‘조건부’ - THE K BEAUTY SCIENCE",
       "published": "2026-07-26T22:00:00+00:00",
@@ -494,18 +518,6 @@
         {
           "name": "THE K BEAUTY SCIENCE",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNG1CRWpUT0dmR0k4ZFZheTBJeFBzSllyaU12XzRFQXJBSWtCMkpYamw2WDg2MGxPTEVINlY4SmJHME52U2UyVHgzcWd0S09Wcmwwa2FHYVR2UWpuX1VON2ZYTUZlYVdpZUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9adc712d6d85",
-      "title": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다 - KBS 뉴스",
-      "published": "2026-07-26T21:45:00+00:00",
-      "summary": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스뇌 속 노폐물 청소 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;v.daum.net치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;KBS 뉴스뇌 노폐물 배출하는 ‘첫 관문’ 발견... 뇌질환 연구 새 전기 마련&nbsp;&nbsp;BRIC뇌 속 노폐물 배출하는 '숨겨진 관문' 발견.. 치매 치료 연구 새 전기&nbsp;&nbsp;JIBS제주방송",
-      "sources": [
-        {
-          "name": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaTE1QX2x6My11SVEwcTI3dlN6TmpmdThfeDBfQ19BRXJCSGpUMkVaaE9SeFc4alJfMDdKVFFzQTYtQllKX1BqbUxNeExSQjAyRnZHSnIxU19vSWc?oc=5"
         }
       ]
     },
@@ -566,18 +578,6 @@
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kT1BLUElkc3RtWHJZY1dtV1pqNXVZZTBBVG1BTmVYTFplVDVtYjVrSEpWZjN3cDZYb3BlN2t2SW41a2d5djd3eXcxVVlZLUxpbEprT19welR0UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5688fcacd092",
-      "title": "“세계는 오래 가는 주사제 전쟁중...AI로 개발 앞당길 것” [지투지바이오] - 매일경제",
-      "published": "2026-07-26T08:27:38+00:00",
-      "summary": "“세계는 오래 가는 주사제 전쟁중...AI로 개발 앞당길 것” [지투지바이오]&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01Um5LSGxSMXlBelFsX2VMUm44TUxYT2hUbTVhVFVBa25NNXNFbVVReVluWVl5WkxNNW1mdVh5dEhqTTl0ZDNZaVdDRTBMdw?oc=5"
         }
       ]
     }
