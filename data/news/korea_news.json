@@ -1,19 +1,43 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-28T14:13:06.293533+00:00",
+  "fetched_at": "2026-07-28T19:36:15.032687+00:00",
   "total_fetched": 81,
   "unique_count": 81,
-  "health_related_count": 48,
+  "health_related_count": 49,
   "news": [
     {
       "id": "e23c64de50f5",
       "title": "에이아이트릭스, 급성신부전 예측 AI 연구 ‘npj 디지털 메디신’ 게재 - 의학신문",
       "published": "2026-07-28T12:43:55+00:00",
-      "summary": "에이아이트릭스, 급성신부전 예측 AI 연구 ‘npj 디지털 메디신’ 게재&nbsp;&nbsp;의학신문에이아이트릭스, 급성신부전 예측 AI 국제 학술지 게재…실제 병원 환경서 성능 검증&nbsp;&nbsp;팜이데일리에이아이트릭스, 급성신부전 예측 AI 연구 국제학술지 게재&nbsp;&nbsp;전자신문\"급성신부전 예측AI\"…에이아이트릭스, 국제지 게재&nbsp;&nbsp;뉴시스“예측 정확도 높은 AI가 현장에서 무조건 유용한 것 아냐”&nbsp;&nbsp;병원신문",
+      "summary": "에이아이트릭스, 급성신부전 예측 AI 연구 ‘npj 디지털 메디신’ 게재&nbsp;&nbsp;의학신문에이아이트릭스, 급성신부전 예측 AI 국제 학술지 게재…실제 병원 환경서 성능 검증&nbsp;&nbsp;팜이데일리[AI의료]에이아이트릭스, AI 급성신부전 예측 연구 국제 학술지 게재 外 제이엘케이·갤럭스&nbsp;&nbsp;글로벌경제신문에이아이트릭스, 급성신부전 예측 AI 연구 국제학술지 게재&nbsp;&nbsp;전자신문\"급성신부전 예측AI\"…에이아이트릭스, 국제지 게재&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "의학신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02d0tJRDJNTEk0SXViWXRKVkVjVzV3VlJPXzhKTUlsM0YzcWtoRmRPemZwdFRlbVFGSWhnd0tJSVRWQ1dFaUJmbFNwbzYwOE1zSDlUZFJCdTlhTHduc2RkeVlHblVEckZ6MHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5d3a0ea8f5d",
+      "title": "아데노바이러스가 증가하는 추세이며, 의사들은 예상치 못한 감염원을 경고합니다 - Laodong.vn",
+      "published": "2026-07-28T12:09:38+00:00",
+      "summary": "아데노바이러스가 증가하는 추세이며, 의사들은 예상치 못한 감염원을 경고합니다&nbsp;&nbsp;Laodong.vn소아 아데노바이러스 감염 증가: 입원 지연으로 인한 심각한 질병 진행.&nbsp;&nbsp;Vietnam.vn아데노바이러스 감염 예방 조치를 강화하십시오.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOEFHOXhyX2paeVEyTWpqdE1Oc3lIWDViTEF5dDlvU1RTYkhodTFmc0NGMjFJdHEyaGxuUllBVEcwV2dhT0VOVU1KUjc5Zl9ycm5ZbUVldTZRcDF6WEtrYTh3c0ljM0tJV29Da0Z1QzVqZkpHVTRmcEw4TWJvcV9RZHh5NV9WdFl6a3ZZSzRfbDIxeWZRYWFIaHpneGF5cGx0V0EyMUxXdTk3Y05hby1GSHRYang?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "431b5e1ce452",
+      "title": "혀 재생은 암 환자가 건강하게 살 기회를 되찾도록 돕습니다 - Laodong.vn",
+      "published": "2026-07-28T11:11:25+00:00",
+      "summary": "혀 재생은 암 환자가 건강하게 살 기회를 되찾도록 돕습니다&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbGFRUFRONl9ZeER2cGg5NER4dkxaNWY1YkJwS0J3S0R1LXBYcHFQWDY1MWh2aE1TUWJiMnEwelhKdTFkZ0U0M0pzWlcxT3V5TG5yWmxQOFlybGdnc2QzYmxWbzVOS2FlanRkRjZIZnNCSnRDb2V3RnNfa3MzMXpGb3BMc0N4U1dsd0YtYjY0Zno2UVFUOVNVVFlkTDV0SmZoakxUWXRNUQ?oc=5"
         }
       ]
     },
@@ -66,6 +90,18 @@
       ]
     },
     {
+      "id": "6cc72e717ce5",
+      "title": "항암 신약 임상결과 발표에…메드팩토, 상한가 직행 - 한국경제",
+      "published": "2026-07-28T08:33:54+00:00",
+      "summary": "항암 신약 임상결과 발표에…메드팩토, 상한가 직행&nbsp;&nbsp;한국경제메드팩토, 백토서팁·DC 암백신 병용 전임상 성과 발표…\"종양 크기 줄이고 생존율 높여\"&nbsp;&nbsp;팜이데일리메드팩토, 백토서팁·DC 암백신 전임상 병용 효과 확인 소식에 상한가&nbsp;&nbsp;한국경제메드팩토 \"'백토서팁', 암백신 병용서 종양억제\"&nbsp;&nbsp;뉴시스메드팩토, 신약 ‘백토서팁’과 암백신 병용 전임상서 종양 억제 확인&nbsp;&nbsp;서울경제",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04bUtaY0xCem5rTjNsTGxId25QNG1BSlVoeE1SaDVMUHhYZVJ2YkxOVjZrVHRYRkJDV1VWcFVJT1NkdnRxdFh1akVSaEpqWU9VZkpMMzJUZF9ldw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "629e0bec9bb3",
       "title": "암세포를 세균처럼 위장…대식세포 포식률 20%서 70%로 - 헬스코리아뉴스",
       "published": "2026-07-28T08:24:07+00:00",
@@ -105,7 +141,7 @@
       "id": "89b7ab837312",
       "title": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법 - 충청뉴스",
       "published": "2026-07-28T07:07:43+00:00",
-      "summary": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;충청뉴스[메디컬금강]기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;금강일보“잠버릇·걸음걸이 달라졌다면”…치매 몇년 전 나타나는 신호 6가지 [건강을 부탁해]&nbsp;&nbsp;나우뉴스잦은 건망증과 집중력 부족의 근본적인 의학적 원인.&nbsp;&nbsp;Vietnam.vn로슈·릴리, 알츠하이머병 혈액검사 ‘Elecsys pTau217’ FDA 혁신의료기기 지정&nbsp;&nbsp;헬스오",
+      "summary": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;충청뉴스[메디컬금강]기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;금강일보잦은 건망증과 집중력 부족의 근본적인 의학적 원인.&nbsp;&nbsp;Vietnam.vn로슈·릴리, 알츠하이머병 혈액검사 ‘Elecsys pTau217’ FDA 혁신의료기기 지정&nbsp;&nbsp;헬스오발병 10년 전부터 지킨다… 치매 안심 울타리&nbsp;&nbsp;드림투데이",
       "sources": [
         {
           "name": "충청뉴스",
@@ -134,18 +170,6 @@
         {
           "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ma3Z6X0tFZjU2U3VXa1hJNjZIM1c1d1FSNWhYRVZuMUxSWTFjN3hNVENhcXZfdWp1UWszd0dPNGlzenYxUzhMZk9WNEU4MmMta0h5eTFUVUZpeFhEN1JXSHhYeC1hdC1iaFMtSGpB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "45925314cd35",
-      "title": "트럼프가 원조 끊으면 에이즈 재확산?…유엔 “심각한 위협” - 전자신문",
-      "published": "2026-07-28T03:55:00+00:00",
-      "summary": "트럼프가 원조 끊으면 에이즈 재확산?…유엔 “심각한 위협”&nbsp;&nbsp;전자신문트럼프 지원 축소에 유엔 에이즈 대응 흔들…\"재확산 위험\"&nbsp;&nbsp;연합뉴스트럼프發 원조 축소 여파…유엔 \"에이즈 퇴치 후퇴 우려\"&nbsp;&nbsp;한국경제트럼프 지원 축소에 유엔 에이즈 대응 '휘청'…\"재확산 위험\"&nbsp;&nbsp;v.daum.net트럼프가 끊은 원조…HIV 막던 네팔 구호인력 100여명 성매매 내몰려&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB4Nmw0WWF2STk0blV2OWlFQXJYYVoxTURQemNBSnRpRU83VVA4dWV4OGZZa1JXZkJhVml2aGE5ejYwUWZoei1idE9sWEh3Zw?oc=5"
         }
       ]
     },
@@ -249,7 +273,7 @@
       "id": "73ec427e1347",
       "title": "서울성모병원, \"우울한 청년, 지방간 위험 2배 더 크다\" - 네이트",
       "published": "2026-07-27T23:45:00+00:00",
-      "summary": "서울성모병원, \"우울한 청년, 지방간 위험 2배 더 크다\"&nbsp;&nbsp;네이트우울증, 마음만의 문제 아니었다…지방간 위험 최대 2.4배&nbsp;&nbsp;v.daum.net젊을 때 우울증, 지방간 위험 2배 ↑…연관성 분석&nbsp;&nbsp;뉴시스서울성모병원 \"우울 증상 청년, 지방간 위험 최대 2.4배↑\"&nbsp;&nbsp;데일리안우울증 앓는 청년, 지방간 위험 최대 2배 높다&nbsp;&nbsp;2news.co.kr",
+      "summary": "서울성모병원, \"우울한 청년, 지방간 위험 2배 더 크다\"&nbsp;&nbsp;네이트서울성모병원, \"우울 증상 있는 청년, 지방간 위험 2배 이상 높아\"&nbsp;&nbsp;v.daum.net젊을 때 우울증, 지방간 위험 2배 ↑…연관성 분석&nbsp;&nbsp;뉴시스우울증, 마음만의 문제 아니었다…지방간 위험 최대 2.4배&nbsp;&nbsp;뉴스1서울성모병원 \"우울 증상 청년, 지방간 위험 최대 2.4배↑\"&nbsp;&nbsp;데일리안",
       "sources": [
         {
           "name": "네이트",
@@ -330,6 +354,18 @@
       ]
     },
     {
+      "id": "e2f3ec91ce5c",
+      "title": "[신문은 선생님] [재미있는 과학] 유전자 가위보다 정교하게 돌연변이 콕 집어 바꿔요 - 조선일보",
+      "published": "2026-07-27T15:40:00+00:00",
+      "summary": "[신문은 선생님] [재미있는 과학] 유전자 가위보다 정교하게 돌연변이 콕 집어 바꿔요&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XckZYeTZ3cl9iQUFWVzRtNkY3NHV3djJMdXM3NW9pVVRwMnRaM1VWN3BpeHFvR2x3SlNuU3Q1Ui16RFNlMVRaTFpPX2M0MlFjRG5VaG9DbDhjS0VuQUFXQXRvQUpPUFlLa0xSOGxFbnRCNmJZakctRGtka1NSYTg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3a4a7619bc7c",
       "title": "유방암 진단 1년 내 뇌경색 주의보… 일반인보다 59%↑ - 국민일보",
       "published": "2026-07-27T15:12:00+00:00",
@@ -362,6 +398,18 @@
         {
           "name": "한국부동산뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1meEg3SXJ2dlJrUWd1N210NHo2RmVyeXZqVDlIRUZqc29lOUVEcmprMFA1NmtiNkl6cFpwc01kWEVQSjE5VkNTY2dNT1daY3E2MlZpcVRibFN2Nm5sdWhXUVZoN1IyaENlLVQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5785ffb9fc93",
+      "title": "여름철 갈증 해소의 함정, 당분 폭탄 '레모네이드'와 스마트한 수분 섭취법 - 오아시스뉴스",
+      "published": "2026-07-27T05:42:50+00:00",
+      "summary": "여름철 갈증 해소의 함정, 당분 폭탄 '레모네이드'와 스마트한 수분 섭취법&nbsp;&nbsp;오아시스뉴스“무더위 날리는 톡 쏘는 맛!”…건강엔 글쎄? [이슈픽]&nbsp;&nbsp;v.daum.net“암 위험 낮아져” 종양 전문의, 단 것 당길 때 ‘이것’ 먹는다&nbsp;&nbsp;헬스조선점심 먹고 딱 한 잔씩 마시는건데…“차라리 물 마셔라” 섬뜩한 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제\"피자·버거 먹을 때 즐겨 먹었는데\"…탄산음료의 '충격 결과' [이지현의 생생헬스]&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "오아시스뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BOXFPUHNnNHNJV05aRVZvZEwzREctTFotWWNIeEFDVC1uVkJucUxCbkxRTWpCbk9Ydk9UQ1pWQnFTbEJHV3c5cVlLaGVnWVlxTGQ5RFQ4S05nZ1BRX2ZqY09Sak4wck5yeVNzbm5yYVLSAXRBVV95cUxQRWRHTUpyOU1pMDBsNnEzUXpPaG5QNDVZbkxFY2NOeGFsZ2M5djRyYVZPSE0xT3RPOVIyM2RIS3hQUEY5UzhPLWtkSC1Wd2VULXNmWFZ6YjdUYVlJYWN0bGI5aTRhRE5pZTNXeW9IUjNEYi1JaA?oc=5"
         }
       ]
     },
@@ -453,7 +501,7 @@
       "id": "db45163b3ad0",
       "title": "서울대병원, 갑상선암 촉진하는 EZH1 Q571R 돌연변이 작동 원리 규명 - 병원신문",
       "published": "2026-07-27T02:36:27+00:00",
-      "summary": "서울대병원, 갑상선암 촉진하는 EZH1 Q571R 돌연변이 작동 원리 규명&nbsp;&nbsp;병원신문암 막는 유전자에 '자물쇠'…일부 갑상선암 키우는 돌연변이 작동 원리 규명&nbsp;&nbsp;네이트갑상선암 촉진 EZH1 돌연변이 기전 규명&nbsp;&nbsp;메디칼트리뷴한국인 59만명 앓는데…갑상선암 키우는 ‘스위치’ 찾았다[헬시타임]&nbsp;&nbsp;서울경제서울대병원, 갑상선암 촉진 EZH1 돌연변이 기전 규명&nbsp;&nbsp;MEDI:GATE NEWS",
+      "summary": "서울대병원, 갑상선암 촉진하는 EZH1 Q571R 돌연변이 작동 원리 규명&nbsp;&nbsp;병원신문암 막는 유전자에 '자물쇠'…일부 갑상선암 키우는 돌연변이 작동 원리 규명&nbsp;&nbsp;네이트갑상선암 촉진 EZH1 돌연변이 기전 규명&nbsp;&nbsp;메디칼트리뷴한국인 59만명 앓는데…갑상선암 키우는 ‘스위치’ 찾았다[헬시타임]&nbsp;&nbsp;서울경제종양 억제 막는 갑상선암 돌연변이 기전 규명&nbsp;&nbsp;데일리메디",
       "sources": [
         {
           "name": "병원신문",
@@ -474,18 +522,6 @@
       ]
     },
     {
-      "id": "ff651fc6eded",
-      "title": "\"매일 마신 그 한 잔이 혈당을 망친다\" 당뇨 530만 시대, 식후 음료의 경고 - 용인신문",
-      "published": "2026-07-27T02:00:58+00:00",
-      "summary": "\"매일 마신 그 한 잔이 혈당을 망친다\" 당뇨 530만 시대, 식후 음료의 경고&nbsp;&nbsp;용인신문“무더위 날리는 톡 쏘는 맛!”…건강엔 글쎄? [이슈픽]&nbsp;&nbsp;v.daum.net“암 위험 낮아져” 종양 전문의, 단 것 당길 때 ‘이것’ 먹는다&nbsp;&nbsp;헬스조선점심 먹고 딱 한 잔씩 마시는건데…“차라리 물 마셔라” 섬뜩한 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제\"피자·버거 먹을 때 즐겨 먹었는데\"…탄산음료의 '충격 결과' [이지현의 생생헬스]&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "용인신문",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yWUVtZ21PclB1Q09jV3daSzlqbG1DQ0xpNlA0Q2tvWDd6ZXFjaldMVHYxZVFzWUtQR0ktWER5WHp0dndPbUN1WjBwOGJhLUU5ZTlRNXlxejRTVlZQZFh1RnpqTU8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2cbcbcba68b1",
       "title": "\"혈관은 40대부터 늙기 시작한다\" 중년 건강 가르는 '염증과의 전쟁' - 용인신문",
       "published": "2026-07-27T02:00:56+00:00",
@@ -501,7 +537,7 @@
       "id": "781665e110ee",
       "title": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다 - KBS 뉴스",
       "published": "2026-07-26T22:39:00+00:00",
-      "summary": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스뇌 속 노폐물 청소 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;v.daum.net치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;KBS 뉴스뇌 노폐물 배출하는 ‘첫 관문’ 발견... 뇌질환 연구 새 전기 마련&nbsp;&nbsp;BRIC뇌 노폐물 빠져나가는 ‘비밀 구멍’ 국내 연구진이 첫 발견&nbsp;&nbsp;조선일보",
+      "summary": "치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스뇌 속 노폐물 청소 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;v.daum.net치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;KBS 뉴스[오늘의 시니어 트렌드 분석] 2026년 7월 23일(목)&nbsp;&nbsp;캐어유 뉴스뇌 속 맹그로브 숲을 살리는 뇌세권을 찾아&nbsp;&nbsp;경북매일",
       "sources": [
         {
           "name": "KBS 뉴스",
@@ -530,30 +566,6 @@
         {
           "name": "여성신문",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oeWVhWVNpaHl4Rld2RjNqUlJKLVVxZVpCWmU2MkRfSXdQc19aS0JINVVmeEFmYWg4Yy1WTU5VQnpxMlNkZWNNSHZCOHU4TzNWWFhXY3E0aUMzWlJVTE05cHh6UXZEcUZnd1NQemVPSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4550d9c0d751",
-      "title": "치주질환 2000만명 시대… 메리츠화재 치아보험 ‘주목’ - 한국보험신문",
-      "published": "2026-07-26T15:00:00+00:00",
-      "summary": "치주질환 2000만명 시대… 메리츠화재 치아보험 ‘주목’&nbsp;&nbsp;한국보험신문",
-      "sources": [
-        {
-          "name": "한국보험신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aOFZQaE85OG16N2xqNUhNZWdZN1l5c1BaeWlJN2JtVnA0TUZFcWNQcEU1X3Z5d1FUS3pGVkVJSzJxa2xPVTk0LTNYdmNpdkkwZ0kxVElVb2otcl9TbWdXcFZPZ0ZlOFBCN05F0gFvQVVfeXFMT2dnaU1DeEUzdUVPX0F3ZmRmNW4yVHJwR1poUHlrU0hYMWNEOFVUT1VqcDlVbksyN0RneWVDREpJb2hrdXpPWTd4eHlFdzZWMHI4WFBLSmxTSS1jT01sdHh5SlRjcl93RnRDSzlac1hr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18660e75d91b",
-      "title": "“운동 꾸준히 했는데”… 30대 남성 뇌졸중 겪게 한 ‘의외의 원인’ - 헬스조선",
-      "published": "2026-07-26T13:00:00+00:00",
-      "summary": "“운동 꾸준히 했는데”… 30대 남성 뇌졸중 겪게 한 ‘의외의 원인’&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WM0gwVktVN2lkdGlsTWZORkdaUmpJT1FjdlBPU3FhS0dRMDZEQVJxSlBOMWNwcFhEbm5zOE1ud0R0R3ZlUk14dEVidjhxdEMtN1gwTkwxN3ZvajBrOXlQVmNNS3p6czJHTU44Z21pamNkUDJXeVJGck9sclhFTVE?oc=5"
         }
       ]
     },
