@@ -1,19 +1,115 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-29T08:44:24.704612+00:00",
-  "total_fetched": 87,
-  "unique_count": 87,
-  "health_related_count": 46,
+  "fetched_at": "2026-07-29T14:16:14.503823+00:00",
+  "total_fetched": 88,
+  "unique_count": 88,
+  "health_related_count": 45,
   "news": [
     {
-      "id": "938964761dcf",
-      "title": "\"심하면 사망까지... 걸리면 평생 후유증\" 홍역 안전지대는 없습니다 [육아똑똑똑] - 조선일보",
-      "published": "2026-07-29T08:05:00+00:00",
-      "summary": "\"심하면 사망까지... 걸리면 평생 후유증\" 홍역 안전지대는 없습니다 [육아똑똑똑]&nbsp;&nbsp;조선일보많은 성인들이 홍역의 위험성을 과소평가하여 입원 치료를 받고 있습니다.&nbsp;&nbsp;Vietnam.vn어린 시절 질병을 방치하면 심각한 합병증이 발생할 수 있습니다.&nbsp;&nbsp;Vietnam.vn45세 남성이 홍역을 독감으로 오인하여 진단받은 후 생명을 위협하는 심각한 홍역에 걸렸습니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "5d33826a3851",
+      "title": "운동이 치매 위험 낮추는 이유...혈액 속 단백질에서 찾았다 - 디멘시아뉴스",
+      "published": "2026-07-29T11:42:55+00:00",
+      "summary": "운동이 치매 위험 낮추는 이유...혈액 속 단백질에서 찾았다&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FcHFKOGo5ZXZEWjlobDFETVNuY2hJQ3BtR0pNb0hpbmJyRmhYWGJNem5kaXk2YUFnUDhfYnNlbjNBSWIyWnc3VFhHUVJEb1dmaDFOclRNbUljRHhCc1YzSjFjdnBQT0pXQURnVUp5N0lDWW9oel9SQg?oc=5"
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xTWRNTkE4Vk9ZOU1MLXJ2QWVyR1B2cW5iYlJDWkFINVB4NUNGdjlZaXBheWJGSkRtdnhMbUxOS1dvQ3R4eUZWN3hNZXNUSzJ2U25Da3ExN2tWUGRPbXFXZVhjalBMUkJxV21nYm9JQzhSUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6db6a76337c3",
+      "title": "의사는 찬밥을 혈당을 낮추는 만병통치약으로 오해하지 말라고 경고합니다 - Laodong.vn",
+      "published": "2026-07-29T11:30:00+00:00",
+      "summary": "의사는 찬밥을 혈당을 낮추는 만병통치약으로 오해하지 말라고 경고합니다&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMjZrVDhZMm5TRGJnODUtcVpSVXlsY3ZOZ3hzQk5QOXNaTWpXTlNkemlDaWVPMjEyLWVfUTRZWHc0b0lNVy1FZ3RyS29QODhtc1V3ekVJRGI0bi0tRk0tblo3N2Ywc0FTZ0J1eTdNM3kyMW10MDNlNFpIVEt5QTFUNGdOa01HRXFiVjlzMHl2VTVPME5vb01WLUc2c2pNcGR3cmx1a19WMi01VGNtc0FCVjRJQ09udw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "efe792ecf952",
+      "title": "“머리뼈에 ‘이 암’ 전이”⋯두통 3개월 계속되던 40대女, 무슨 사연? - 코메디닷컴",
+      "published": "2026-07-29T11:02:00+00:00",
+      "summary": "“머리뼈에 ‘이 암’ 전이”⋯두통 3개월 계속되던 40대女, 무슨 사연?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15RnJfOUtPNXJ4dFlWWE5oN3BZb3Nmc0NLVUgtb3M2RUc1MkFBSmhPcWlUSFFpV1hXbUhfZWJkNVY0QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22bb1449cb76",
+      "title": "특별기고/ 고령사회, 장례현장의 감염관리도 다시 점검해야 - 상조매거진",
+      "published": "2026-07-29T08:56:00+00:00",
+      "summary": "특별기고/ 고령사회, 장례현장의 감염관리도 다시 점검해야&nbsp;&nbsp;상조매거진",
+      "sources": [
+        {
+          "name": "상조매거진",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10bjhENDZmbnlQVFBlc0JmMXFaazgxNUZwS3FaTy1Rb3R0cTJRT1dfZDJHNTZkQmFZdEdzT2xhMkcwVk81NERpN1I1RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1fa5d1365037",
+      "title": "여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 네이트",
+      "published": "2026-07-29T08:49:00+00:00",
+      "summary": "여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\"&nbsp;&nbsp;네이트여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 머니투데이&nbsp;&nbsp;머니투데이여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스“여름철 해충약·농약 노출 주의”… 당뇨 위험 51% 높인다&nbsp;&nbsp;BRIC[119기고] 농약 중독사고 예방 - 생활 속 안전습관 만들기&nbsp;&nbsp;소방방재신문",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UTU9kMF9hcFdIbE1XdXhRdkh2ZWhTZzk3alNtb3FxandPS1ZlTmRWX1E4UW9ycUh6WkZrLW9FeVU2Qm9FZEpHNnd6M1kyYm5HWk9J?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3398859e9f8c",
+      "title": "“건강한 식사·규칙적 운동 함께하면 우울증 위험 45% 낮아” - hnews.kr",
+      "published": "2026-07-29T08:46:00+00:00",
+      "summary": "“건강한 식사·규칙적 운동 함께하면 우울증 위험 45% 낮아”&nbsp;&nbsp;hnews.kr",
+      "sources": [
+        {
+          "name": "hnews.kr",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtNVZCdnZSRmNVdXRiT0NLbkNoT3dWR2xzVEZJQVB6aWNvZFZZVEpFTHBWc1VFTS0wRkNwWGhFQXhvWUdVYTNlbU96ckIwMUFzd3MxTkh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52f13495c2a6",
+      "title": "빈멕 센트럴 파크, 심각한 패혈성 쇼크와 다발성 기저 질환을 동반한 캄보디아 환자 \"부활 - Laodong.vn",
+      "published": "2026-07-29T08:37:20+00:00",
+      "summary": "빈멕 센트럴 파크, 심각한 패혈성 쇼크와 다발성 기저 질환을 동반한 캄보디아 환자 \"부활&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemtHWjhxMW9EdjJQM3hDWW10TGREemtKa2F3NHBsemkzc0RrSTVIMDZ3elNhU0tJdVBvelFRSDRsb3dja1VQdlBCSnBjelNaY01yeTZxbzl3eUtDSUR5MUNzQmUxZW9jYTRfY1FBaTFub0NzTnFHY0VHRC12QWcwUkM5TEYtQm5yazN4ZEtlaHE5aGFpT0hwZ2IwSk82YjJwRjgtVEFBQzZmU2pRTWdhY05RX0dNNnpHaFVObXRMQUxwVE9DUV9Ka3V0eGdGYTRmODMxVllvTFJWdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aed7523e9259",
+      "title": "\"심하면 사망까지…걸리면 평생 후유증\" 홍역 안전지대는 없습니다 [육아똑똑똑] - 네이트",
+      "published": "2026-07-29T08:02:00+00:00",
+      "summary": "\"심하면 사망까지…걸리면 평생 후유증\" 홍역 안전지대는 없습니다 [육아똑똑똑]&nbsp;&nbsp;네이트많은 성인들이 홍역의 위험성을 과소평가하여 입원 치료를 받고 있습니다.&nbsp;&nbsp;Vietnam.vn어린 시절 질병을 방치하면 심각한 합병증이 발생할 수 있습니다.&nbsp;&nbsp;Vietnam.vn45세 남성이 홍역을 독감으로 오인하여 진단받은 후 생명을 위협하는 심각한 홍역에 걸렸습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNX3E4a1JzWk9xVV9xY0diYjVZSUJTNnJaSTBxeEo0TWlpRFVaWFpFaEp5d2RnNjlVV21VRUVwRmlNZjZVOW5lblpoU1NnTlNER0dz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "373c810e247d",
+      "title": "청주시·충북도, 해외유입 신종감염병 공동 대응 강화 - 서울뉴스통신",
+      "published": "2026-07-29T07:40:00+00:00",
+      "summary": "청주시·충북도, 해외유입 신종감염병 공동 대응 강화&nbsp;&nbsp;서울뉴스통신",
+      "sources": [
+        {
+          "name": "서울뉴스통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxS2pMSjdPalB5dGtHZTQyZ3JNQ0dLUWFDRXczZE80ZXZSTDVWUDlCRWFtT3lpb003c3VCNTdxV1NPa1RsaXlvWll0T0NESnVTakpCTGRGM3hSVUhRU2xVcG1yb0l1QVU2eW9j?oc=5"
         }
       ]
     },
@@ -26,30 +122,6 @@
         {
           "name": "뉴스인",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5UGxoZHp5OFkxT3dlTGcxTWhxQ01UQWVsU1dsdlB4SUhfNXpRbDh4UTBLSWdPbHpHczdEaUxkRjhlNWJCdHpfM1lWNmNTcmdyTTlGUXZlSzBFVlplZTRZYldBd3lmUU82TU5J?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6cdcdccb3f2d",
-      "title": "식인종은 왜 사라졌나…연구진 \"질병 확산이 결정적 원인\" - 지디넷코리아",
-      "published": "2026-07-29T06:45:33+00:00",
-      "summary": "식인종은 왜 사라졌나…연구진 \"질병 확산이 결정적 원인\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5SWVZcmN4ZC13RjJGMl92anAycVlIR2FQakhOaUNQRW8xYkFBdVZ2TGpNOWRGbWhQQVliTHVKZ0xoX0R4ZU5lVDZmWWkwdThFd05lWlN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4060cd199730",
-      "title": "청주시·충북도, 해외유입 신종감염병 대응 공조 강화 - 동양일보",
-      "published": "2026-07-29T06:32:17+00:00",
-      "summary": "청주시·충북도, 해외유입 신종감염병 대응 공조 강화&nbsp;&nbsp;동양일보",
-      "sources": [
-        {
-          "name": "동양일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oZ1dsa1lnWXZLVEtPT0VZa0t3YUROX2JjejRvV0NCdmlyZzMxTWZpUWRKTzM5ZXdIRG94eU1ZeFV1SWlINmo3dFUzN01jRVVqTnVpZ0lEVUR2c283U1Z6c0JaRlk1ZldSMVE?oc=5"
         }
       ]
     },
@@ -174,18 +246,6 @@
       ]
     },
     {
-      "id": "6973588fa9e8",
-      "title": "생로병사의 비밀, 슈퍼에이저가 실천하는 뇌 건강법…80대에도 45세 수준 인지능력 비결 - 한국강사신문",
-      "published": "2026-07-28T21:00:00+00:00",
-      "summary": "생로병사의 비밀, 슈퍼에이저가 실천하는 뇌 건강법…80대에도 45세 수준 인지능력 비결&nbsp;&nbsp;한국강사신문80대에도 45세 기억력?! 운동·공부·수면이 만든 ‘청춘의 뇌’ 지키는 습관 공개!&nbsp;&nbsp;MyloveKBS“80대인데 50대 기억력”…유전자에 비결 있나 봤더니 [노화설계]&nbsp;&nbsp;v.daum.net'생로병사의 비밀' 뇌 젊게 사는 법 총정리&nbsp;&nbsp;뉴스컬처뇌 전문가들이 알려주는 기억력 보호 비법.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "한국강사신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ERmVZaXZyR1VmbV9oV094ZW8yWHBjeFVpQ0ZzUS12cWo0T1R1cjQwOVI2Z1E0X1RDV1BTX3ZyblZkajdKM1NBZzdUS1BVc3JiY2VPU1k3anFQVTNpSHVwV0U2V3VqdV92ZFdQZWprdVo?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9199956096e7",
       "title": "‘이곳’에 쌓인 지방은 뇌를 공격한다 - 헬스조선",
       "published": "2026-07-28T20:00:00+00:00",
@@ -225,7 +285,7 @@
       "id": "a5d3a0ea8f5d",
       "title": "아데노바이러스가 증가하는 추세이며, 의사들은 예상치 못한 감염원을 경고합니다 - Laodong.vn",
       "published": "2026-07-28T12:09:38+00:00",
-      "summary": "아데노바이러스가 증가하는 추세이며, 의사들은 예상치 못한 감염원을 경고합니다&nbsp;&nbsp;Laodong.vn소아 아데노바이러스 감염 증가: 입원 지연으로 인한 심각한 질병 진행.&nbsp;&nbsp;Vietnam.vn아데노바이러스 감염 예방 조치를 강화하십시오.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "아데노바이러스가 증가하는 추세이며, 의사들은 예상치 못한 감염원을 경고합니다&nbsp;&nbsp;Laodong.vn의사들은 어린아이들 사이에서 아데노바이러스 집단 발병 가능성을 경고하며 적절한 예방의 필요성을 강조했습니다.&nbsp;&nbsp;Vietnam.vn소아 아데노바이러스 감염 증가: 입원 지연으로 인한 심각한 질병 진행.&nbsp;&nbsp;Vietnam.vn아데노바이러스 감염 예방 조치를 강화하십시오.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -282,38 +342,26 @@
       ]
     },
     {
-      "id": "150aad8c1e28",
-      "title": "매일아침 - 주방 위생 사각지대, 고무장갑과 수세미 관리법 - mbn.co.kr",
-      "published": "2026-07-28T08:15:00+00:00",
-      "summary": "매일아침 - 주방 위생 사각지대, 고무장갑과 수세미 관리법&nbsp;&nbsp;mbn.co.kr새로운 연구에 따르면 설거지용 스펀지는 냄새나 외관상 더러워 보이지 않을 수 있지만 여전히 박테리아로 가득 차 있다고 경고합니다.&nbsp;&nbsp;Vietnam.vn변기보다 더러운 집안 물건 '10가지'…\"대장균군 최고 15배 더 검출\"&nbsp;&nbsp;스포츠조선“세균 퍼뜨리는 꼴”… 한 번 쓰고 바꿔야 하는 주방용품 있다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "mbn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ibkN2QlFQWkM0VnZ5Y3dWRThCMVB3eExxcmtZTG5UT1pEa19JcFhEM1NOMG52MVpkVjlVUjVzSUMycEh2RVdMVm1UU1hwbHYtdE5SbVQzRm5hUGZ5bW51VXF2X1pDVDZvSWlZZkpvcXVJdXdqVkxhUFJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "834f4ec92f83",
-      "title": "무릎 관절염 통증엔 프리바이오틱스 먹어라?…“물리치료 수준 효과” - 하이닥",
-      "published": "2026-07-28T08:00:00+00:00",
-      "summary": "무릎 관절염 통증엔 프리바이오틱스 먹어라?…“물리치료 수준 효과”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkb2xOcnhaMm1jOVZ0d05rb2U1OVh2SkszeDRLRm1zM0FZMmEtSkJ3UGF2UTQwUldtX0FXQzlHVXBGZ1lqTGpNYjdXT1QxeFEyakV3Q3ZPLWdZOG0wTjFjelREMmtvSWo4NWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "89b7ab837312",
       "title": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법 - 충청뉴스",
       "published": "2026-07-28T07:07:43+00:00",
-      "summary": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;충청뉴스[메디컬금강]기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;금강일보잦은 건망증과 집중력 부족의 근본적인 의학적 원인.&nbsp;&nbsp;Vietnam.vn\"혈액 검사로 알츠하이머 위험 예측 진단…인지 검사 병행해야\"&nbsp;&nbsp;연합뉴스TV발병 10년 전부터 지킨다… 치매 안심 울타리&nbsp;&nbsp;드림투데이",
+      "summary": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;충청뉴스[메디컬금강]기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;금강일보잦은 건망증과 집중력 부족의 근본적인 의학적 원인.&nbsp;&nbsp;Vietnam.vn발병 10년 전부터 지킨다… 치매 안심 울타리&nbsp;&nbsp;드림투데이치매 100만 명 시대의 과제…두려움을 넘어 ‘대비와 공존’으로 [에필로그]&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "충청뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NOEJhV3hKTmJtdm9GRnZ2XzdHYmZJTV9yRFFILXFhWjdPV2RkY2ZMUTlCbGtqZnd0Ml9QR1V5Vkdscm92b0lZQnk5V19kMXl0WEhXRnptVFVjSlJrc1hsdjlKUW11OWFnWnF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fa788664924",
+      "title": "메드팩토, ‘백토서팁’ 및 셀로람 DC 암백신 병용 성과 발표 - 이머니뉴스",
+      "published": "2026-07-28T04:22:11+00:00",
+      "summary": "메드팩토, ‘백토서팁’ 및 셀로람 DC 암백신 병용 성과 발표&nbsp;&nbsp;이머니뉴스메드팩토, 백토서팁·DC 암백신 병용 전임상 성과 발표…\"종양 크기 줄이고 생존율 높여\"&nbsp;&nbsp;팜이데일리메드팩토, 주가 급변동 \"회사 전혀 문제없어, 일시적 수급 영향\"&nbsp;&nbsp;한국경제메드팩토 \"백토서팁, 암 백신 병용서 종양 억제·생존율 향상 확인\" - 머니투데이&nbsp;&nbsp;머니투데이메드팩토, 신약 ‘백토서팁’과 암백신 병용 전임상서 종양 억제 확인&nbsp;&nbsp;서울경제",
+      "sources": [
+        {
+          "name": "이머니뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16N0JMRFhSdFQzbkpLcXdnNDhyakY3dnZLTUdhR1BNbXJlQm5mQ2ZSd0NKWW1RcVdaRnV6OGpCaVk3NEZfRkxrY2ZLOXFIRWZUZjF0d0djRGFVUXlpX0JpcGZ2TndxZW51c3NTYXI2WQ?oc=5"
         }
       ]
     },
@@ -369,7 +417,7 @@
       "id": "c00ea43cf4c6",
       "title": "키토제닉 식단, 대장암 억제하지만… \"소장암 위험 높일 가능성\" - 하이닥",
       "published": "2026-07-28T01:50:00+00:00",
-      "summary": "키토제닉 식단, 대장암 억제하지만… \"소장암 위험 높일 가능성\"&nbsp;&nbsp;하이닥대장 지키고 소장 내준다…‘저탄고지’ 키토 식단의 두 얼굴&nbsp;&nbsp;농민신문놀랍게도, 저탄수화물 고지방 식단은 대장암 위험을 증가시킬 수 있습니다.&nbsp;&nbsp;Vietnam.vn'저탄고지'는 무조건 좋다? 소장암 위험 높일 수도&nbsp;&nbsp;헬스조선MIT \"케토제닉 식단, 대장암은 억제했지만 소장암 위험은 높일 수 있다\"&nbsp;&nbsp;테크데일리",
+      "summary": "키토제닉 식단, 대장암 억제하지만… \"소장암 위험 높일 가능성\"&nbsp;&nbsp;하이닥대장 지키고 소장 내준다…‘저탄고지’ 키토 식단의 두 얼굴&nbsp;&nbsp;농민신문놀랍게도, 저탄수화물 고지방 식단은 대장암 위험을 증가시킬 수 있습니다.&nbsp;&nbsp;Vietnam.vn'저탄고지'는 무조건 좋다? 소장암 위험 높일 수도&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "하이닥",
@@ -381,7 +429,7 @@
       "id": "1525df6d37ac",
       "title": "폐결핵 환자, 알부민 수치 낮으면 중환자실 위험 17.8배↑ - 중부일보",
       "published": "2026-07-28T01:31:00+00:00",
-      "summary": "폐결핵 환자, 알부민 수치 낮으면 중환자실 위험 17.8배↑&nbsp;&nbsp;중부일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "폐결핵 환자, 알부민 수치 낮으면 중환자실 위험 17.8배↑&nbsp;&nbsp;중부일보\"폐결핵 환자, '이 수치' 낮으면 중증위험 17.8배↑\"&nbsp;&nbsp;뉴시스폐결핵 입원환자, '알부민 2.0g/dL 미만' 중환자실 갈 위험 17.8배 껑충&nbsp;&nbsp;뉴데일리한림대동탄성심병원, 폐결핵 환자 '중환자실 전원 위험' 예측 규명&nbsp;&nbsp;헬스미디어뉴스",
       "sources": [
         {
           "name": "중부일보",
@@ -486,54 +534,6 @@
       ]
     },
     {
-      "id": "79103049cb44",
-      "title": "배우자가 치매면 나도 위험?…뜻밖의 변수는 ‘이것’ - 매일경제",
-      "published": "2026-07-27T13:43:20+00:00",
-      "summary": "배우자가 치매면 나도 위험?…뜻밖의 변수는 ‘이것’&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mUWl3Q0hYaXZJd1BDSldmWEVMUXpLalpFTThYMXFvZmJuTUMwZ3JGbU1Xc2VYelRIQnYxaUNveDM2ZElFU05wN3NPQXVyZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a64eecef2888",
-      "title": "“무더위 날리는 톡 쏘는 맛!”…건강엔 글쎄? [이슈픽] - KBS 뉴스",
-      "published": "2026-07-27T09:34:00+00:00",
-      "summary": "“무더위 날리는 톡 쏘는 맛!”…건강엔 글쎄? [이슈픽]&nbsp;&nbsp;KBS 뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "KBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RMk5uTnhjaWtCdng4a3FuTThJR09ZQXczLTdodXVFeXFlMlJFTVZGY09aMlpndDlOSm5jajBrS2dKREFsLUFDbTkybTB3eURZVTBJazlqeEttSVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5f4e63e387da",
-      "title": "[100세건강] 쉰 목소리·삼킴장애 오래가면 두경부암…예방법은 - 한국부동산뉴스",
-      "published": "2026-07-27T08:52:42+00:00",
-      "summary": "[100세건강] 쉰 목소리·삼킴장애 오래가면 두경부암…예방법은&nbsp;&nbsp;한국부동산뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "한국부동산뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1meEg3SXJ2dlJrUWd1N210NHo2RmVyeXZqVDlIRUZqc29lOUVEcmprMFA1NmtiNkl6cFpwc01kWEVQSjE5VkNTY2dNT1daY3E2MlZpcVRibFN2Nm5sdWhXUVZoN1IyaENlLVQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5bb2dd3adc15",
-      "title": "“농약 중독사고 예방 - 생활속 안전습관 만들기” - 전남인터넷신문",
-      "published": "2026-07-27T08:28:46+00:00",
-      "summary": "“농약 중독사고 예방 - 생활속 안전습관 만들기”&nbsp;&nbsp;전남인터넷신문여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스“여름철 해충약·농약 노출 주의”… 당뇨 위험 51% 높인다&nbsp;&nbsp;BRIC[119기고] 농약 중독사고 예방 - 생활 속 안전습관 만들기&nbsp;&nbsp;소방방재신문고려대 연구진 “수십 년 전 금지된 농약의 비극”… 체내 쌓인 살충제, 당뇨·갑상선 질환 키운다&nbsp;&nbsp;스마트경제",
-      "sources": [
-        {
-          "name": "전남인터넷신문",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uemxxcDhNS3NkaklZVTVwTWtYa1R5WEZRRDctdDVkYWYwMzdhWE9ZOWZwQ3pSdXUtVGw0SzkzMlVaUi0weVExSWt2S0ZPbEFvcmRqZVZKZ2pTaFU5?oc=5"
-        }
-      ]
-    },
-    {
       "id": "01c1e9b0a864",
       "title": "과기부-AMD, ‘GPU·NPU 결합 인프라 구축’ 협력…국내 연구센터 설립 - AI타임스",
       "published": "2026-07-27T04:46:02+00:00",
@@ -542,18 +542,6 @@
         {
           "name": "AI타임스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5VTV1V2hGZ1NwUmhadVBGUmRVelp5aEthU01HU0FGemNVTXFPaXZBQ0gzX0JCcmdWVHlCTDMxT1p3V3ROWkcyYTR3bmpnMERfVkctTEYwU1dSdXhpNWtSNi1BaWY0UXRwOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4ff97ebeb26",
-      "title": "KAIST-엔비디아, \"인체동작 파운데이션 모델 개발\" - 지디넷코리아",
-      "published": "2026-07-26T10:03:46+00:00",
-      "summary": "KAIST-엔비디아, \"인체동작 파운데이션 모델 개발\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zWFlnTUdKRWhWb25pNFJKbTZaZXZ6WlVPNGVRTGQ4azEtMVRZaDhjTEZ0eEZtQTZabTFYdC1lVkY0YjJTZGFXUXdRQ0hoS3ptNFVZdUtB?oc=5"
         }
       ]
     }
