@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-29T14:16:14.503823+00:00",
-  "total_fetched": 88,
-  "unique_count": 88,
-  "health_related_count": 45,
+  "fetched_at": "2026-07-29T19:20:24.447553+00:00",
+  "total_fetched": 82,
+  "unique_count": 82,
+  "health_related_count": 43,
   "news": [
+    {
+      "id": "3067f3b342c6",
+      "title": "'생로병사의 비밀' 치매 예방 운동 '코그니사이즈' 소개 - 네이트",
+      "published": "2026-07-29T13:01:00+00:00",
+      "summary": "'생로병사의 비밀' 치매 예방 운동 '코그니사이즈' 소개&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91Vm1GY19NVTVuOEo5ZjZ0WlBvazk5MkxuMHNKM29ySllSUlpfQWl1TC1VODhFSEVJaHk3eXptQXdaOXVkNXhFUVM1N29mWERlaUVR?oc=5"
+        }
+      ]
+    },
     {
       "id": "5d33826a3851",
       "title": "운동이 치매 위험 낮추는 이유...혈액 속 단백질에서 찾았다 - 디멘시아뉴스",
@@ -14,18 +26,6 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xTWRNTkE4Vk9ZOU1MLXJ2QWVyR1B2cW5iYlJDWkFINVB4NUNGdjlZaXBheWJGSkRtdnhMbUxOS1dvQ3R4eUZWN3hNZXNUSzJ2U25Da3ExN2tWUGRPbXFXZVhjalBMUkJxV21nYm9JQzhSUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6db6a76337c3",
-      "title": "의사는 찬밥을 혈당을 낮추는 만병통치약으로 오해하지 말라고 경고합니다 - Laodong.vn",
-      "published": "2026-07-29T11:30:00+00:00",
-      "summary": "의사는 찬밥을 혈당을 낮추는 만병통치약으로 오해하지 말라고 경고합니다&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMjZrVDhZMm5TRGJnODUtcVpSVXlsY3ZOZ3hzQk5QOXNaTWpXTlNkemlDaWVPMjEyLWVfUTRZWHc0b0lNVy1FZ3RyS29QODhtc1V3ekVJRGI0bi0tRk0tblo3N2Ywc0FTZ0J1eTdNM3kyMW10MDNlNFpIVEt5QTFUNGdOa01HRXFiVjlzMHl2VTVPME5vb01WLUc2c2pNcGR3cmx1a19WMi01VGNtc0FCVjRJQ09udw?oc=5"
         }
       ]
     },
@@ -54,25 +54,13 @@
       ]
     },
     {
-      "id": "1fa5d1365037",
-      "title": "여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 네이트",
-      "published": "2026-07-29T08:49:00+00:00",
-      "summary": "여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\"&nbsp;&nbsp;네이트여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 머니투데이&nbsp;&nbsp;머니투데이여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스“여름철 해충약·농약 노출 주의”… 당뇨 위험 51% 높인다&nbsp;&nbsp;BRIC[119기고] 농약 중독사고 예방 - 생활 속 안전습관 만들기&nbsp;&nbsp;소방방재신문",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UTU9kMF9hcFdIbE1XdXhRdkh2ZWhTZzk3alNtb3FxandPS1ZlTmRWX1E4UW9ycUh6WkZrLW9FeVU2Qm9FZEpHNnd6M1kyYm5HWk9J?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3398859e9f8c",
-      "title": "“건강한 식사·규칙적 운동 함께하면 우울증 위험 45% 낮아” - hnews.kr",
+      "id": "559180de99a8",
+      "title": "“건강한 식사·규칙적 운동 함께하면 우울증 위험 45% 낮아” - 현대건강신문",
       "published": "2026-07-29T08:46:00+00:00",
-      "summary": "“건강한 식사·규칙적 운동 함께하면 우울증 위험 45% 낮아”&nbsp;&nbsp;hnews.kr",
+      "summary": "“건강한 식사·규칙적 운동 함께하면 우울증 위험 45% 낮아”&nbsp;&nbsp;현대건강신문",
       "sources": [
         {
-          "name": "hnews.kr",
+          "name": "현대건강신문",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtNVZCdnZSRmNVdXRiT0NLbkNoT3dWR2xzVEZJQVB6aWNvZFZZVEpFTHBWc1VFTS0wRkNwWGhFQXhvWUdVYTNlbU96ckIwMUFzd3MxTkh3?oc=5"
         }
       ]
@@ -126,6 +114,18 @@
       ]
     },
     {
+      "id": "733c9d54ab39",
+      "title": "\"연구비 벌려고\" 성인물 사이트에 '마멋 영상' 올린 美학자들[이런일이] - 노컷뉴스",
+      "published": "2026-07-29T06:30:00+00:00",
+      "summary": "\"연구비 벌려고\" 성인물 사이트에 '마멋 영상' 올린 美학자들[이런일이]&nbsp;&nbsp;노컷뉴스",
+      "sources": [
+        {
+          "name": "노컷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JdGkxR09JUGs0aFRfbXFnWTlUNmlmQmlBTm92eG9GRmhtOXJLc2VJWVZJZ3hRTG9lZDh4TjVZQmc1Umw1aU5OVWNabVdWX19FSHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3bf8f895520c",
       "title": "\"암 백신 생산 '3개월→수일' 단축…中, IVT 없는 RNA 합성 성공\" - 바이오북미디어",
       "published": "2026-07-29T05:07:00+00:00",
@@ -153,7 +153,7 @@
       "id": "4824fdfa7159",
       "title": "“장내 미생물이 만든 물질이 뇌 염증을 끈다”…다발성경화증 잡는 ‘마이크로바이옴 치료제’ 가능성 열렸다 - 바이오타임즈",
       "published": "2026-07-29T04:38:26+00:00",
-      "summary": "“장내 미생물이 만든 물질이 뇌 염증을 끈다”…다발성경화증 잡는 ‘마이크로바이옴 치료제’ 가능성 열렸다&nbsp;&nbsp;바이오타임즈장내 미생물이 만든 물질이 뇌염증 잡는다&nbsp;&nbsp;BRIC장내 미생물이 만든 항염 물질, 뇌 신경염증 억제…다발성경화증 치료 새 단서&nbsp;&nbsp;전자신문“우리 몸 속 착한미생물” 뇌 신경염증까지 잡는다&nbsp;&nbsp;헤럴드경제배변 시간도 ‘골든타임’ 있다…전문가들 추천 시간은?&nbsp;&nbsp;조세일보",
+      "summary": "“장내 미생물이 만든 물질이 뇌 염증을 끈다”…다발성경화증 잡는 ‘마이크로바이옴 치료제’ 가능성 열렸다&nbsp;&nbsp;바이오타임즈장내 미생물이 만든 물질이 뇌염증 잡는다&nbsp;&nbsp;BRIC장내 미생물, 뇌 염증 억제…다발성경화증 치료 단서&nbsp;&nbsp;v.daum.net“우리 몸 속 착한미생물” 뇌 신경염증까지 잡는다&nbsp;&nbsp;헤럴드경제배변 시간도 ‘골든타임’ 있다…전문가들 추천 시간은?&nbsp;&nbsp;조세일보",
       "sources": [
         {
           "name": "바이오타임즈",
@@ -285,7 +285,7 @@
       "id": "a5d3a0ea8f5d",
       "title": "아데노바이러스가 증가하는 추세이며, 의사들은 예상치 못한 감염원을 경고합니다 - Laodong.vn",
       "published": "2026-07-28T12:09:38+00:00",
-      "summary": "아데노바이러스가 증가하는 추세이며, 의사들은 예상치 못한 감염원을 경고합니다&nbsp;&nbsp;Laodong.vn의사들은 어린아이들 사이에서 아데노바이러스 집단 발병 가능성을 경고하며 적절한 예방의 필요성을 강조했습니다.&nbsp;&nbsp;Vietnam.vn소아 아데노바이러스 감염 증가: 입원 지연으로 인한 심각한 질병 진행.&nbsp;&nbsp;Vietnam.vn아데노바이러스 감염 예방 조치를 강화하십시오.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "아데노바이러스가 증가하는 추세이며, 의사들은 예상치 못한 감염원을 경고합니다&nbsp;&nbsp;Laodong.vn여름철에 아데노바이러스 감염이 증가함에 따라 의사들은 예방 방법을 권고합니다.&nbsp;&nbsp;Vietnam.vn의사들은 어린아이들 사이에서 아데노바이러스 집단 발병 가능성을 경고하며 적절한 예방의 필요성을 강조했습니다.&nbsp;&nbsp;Vietnam.vn소아 아데노바이러스 감염 증가: 입원 지연으로 인한 심각한 질병 진행.&nbsp;&nbsp;Vietnam.vn아데노바이러스 감염 예방 조치를 강화하십시오.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -345,7 +345,7 @@
       "id": "89b7ab837312",
       "title": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법 - 충청뉴스",
       "published": "2026-07-28T07:07:43+00:00",
-      "summary": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;충청뉴스[메디컬금강]기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;금강일보잦은 건망증과 집중력 부족의 근본적인 의학적 원인.&nbsp;&nbsp;Vietnam.vn발병 10년 전부터 지킨다… 치매 안심 울타리&nbsp;&nbsp;드림투데이치매 100만 명 시대의 과제…두려움을 넘어 ‘대비와 공존’으로 [에필로그]&nbsp;&nbsp;하이닥",
+      "summary": "[건강칼럼] 기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;충청뉴스\"건망증인 줄 알았는데\"…치매, 조기 진단이 치료의 골든타임&nbsp;&nbsp;매일신문[메디컬금강]기억력 저하, 정상 노화와 치매를 구별하는 방법&nbsp;&nbsp;금강일보혈장 p-tau217 높을수록 인지기능 저하 위험↑···진행 속도도 빨라져&nbsp;&nbsp;메디칼업저버로슈·릴리, 알츠하이머병 혈액검사 ‘Elecsys pTau217’ FDA 혁신의료기기 지정&nbsp;&nbsp;healtho.co.kr",
       "sources": [
         {
           "name": "충청뉴스",
@@ -498,18 +498,6 @@
       ]
     },
     {
-      "id": "004348bc3e82",
-      "title": "'기력 회복·탈수 예방'…조선 왕실의 여름 보양법 - 약사공론",
-      "published": "2026-07-27T20:50:00+00:00",
-      "summary": "'기력 회복·탈수 예방'…조선 왕실의 여름 보양법&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPY19VN2J6TDhnVkhHRVVodEEtTmFrWUFIeXFnRTRWanQ3Y3ItTDdhdlg2bnB4WW4wNlp0NFU2b1RVLUF2Y3R3bTJSNlBIdkQ0LVc3SFVPczNkaUdVRm42dG44eGRiVkFIeGlycg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e2f3ec91ce5c",
       "title": "[신문은 선생님] [재미있는 과학] 유전자 가위보다 정교하게 돌연변이 콕 집어 바꿔요 - 조선일보",
       "published": "2026-07-27T15:40:00+00:00",
@@ -518,18 +506,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XckZYeTZ3cl9iQUFWVzRtNkY3NHV3djJMdXM3NW9pVVRwMnRaM1VWN3BpeHFvR2x3SlNuU3Q1Ui16RFNlMVRaTFpPX2M0MlFjRG5VaG9DbDhjS0VuQUFXQXRvQUpPUFlLa0xSOGxFbnRCNmJZakctRGtka1NSYTg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a4a7619bc7c",
-      "title": "유방암 진단 1년 내 뇌경색 주의보… 일반인보다 59%↑ - 국민일보",
-      "published": "2026-07-27T15:12:00+00:00",
-      "summary": "유방암 진단 1년 내 뇌경색 주의보… 일반인보다 59%↑&nbsp;&nbsp;국민일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wZ0lDdGFBQTdDbkRreV9fNzlHSmFETkdNVlZEWVZ3S2xMZTZWSlZVZXdSRXZHd2pVeV9EOHBDamxYNzFYRFlISEozZDNBa1RJdmx3MURldjZYelE2SFZ4QnZQUFJ1SVnSAWxBVV95cUxQeDRUSnVyZ0hRMFFnbVVCakJVUzd1dmhQSHFzbkhRbWl1Y2JBb25oREl6RWhSejFHMkZBUGMzUDdrVTZDaGVJT2pPYTcyT2FvOThBaEx3YU9XZDRMN0s4cWhiN1dYZXdpLUhvZ1I?oc=5"
         }
       ]
     },
