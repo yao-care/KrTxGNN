@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-31T14:13:13.365449+00:00",
-  "total_count": 35,
+  "last_updated": "2026-07-31T19:37:31.457689+00:00",
+  "total_count": 36,
   "matched_count": 0,
   "news": [
+    {
+      "id": "40cee8eab172",
+      "title": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배",
+      "published": "2026-07-31T18:58:37+00:00",
+      "summary": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배&nbsp;&nbsp;뉴스에이갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;한국일보착한 암이라더니… “갑상선암 환자, 골다공증 위험 정상인의 6.59배”&nbsp;&nbsp;헬스조선갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보\"착한 암이라길래 안심했는데\"…갑상선암 치료 후 더 신경 써야 할 '뼈 건강'&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "뉴스에이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wbk95R1VNMmZRX0tXZVdRMlFBOS1JV0RLbmIyaGxQOXlYdVpYSmRVdERzOXZMYVlrZ0cxSEhPMUFwVjZBYmtVblBVR3VJNVM3X1R4VENaQWlMUk5sbUQzQ2dWZElpVkVWSXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a66f31b361ee",
       "title": "“난소암 전이 일으킨다”… ‘안 먹는 게 가장 좋은’ 음식, 뭐야?",
@@ -20,7 +33,7 @@
       "id": "7cba4c7a68cc",
       "title": "칠곡경북대병원-한국뇌연구원, “피 한 방울로 파킨슨병 찾는다”",
       "published": "2026-07-31T13:41:58+00:00",
-      "summary": "칠곡경북대병원-한국뇌연구원, “피 한 방울로 파킨슨병 찾는다”&nbsp;&nbsp;의학신문혈액 한 방울로 파킨슨병 후보 발굴…국내 연구진 단서 발견&nbsp;&nbsp;v.daum.net“피 한 방울로 파킨슨병 잡는다”…국내 연구진, 진단 보조 마커 발굴&nbsp;&nbsp;간호사신문시누클레인병증, 혈액 기반 진단 바이오마커 가능성 확인&nbsp;&nbsp;메디칼업저버칠곡경북대병원 이호원 교수팀, 파킨슨병 혈액 바이오마커 후보 발굴&nbsp;&nbsp;의약뉴스",
+      "summary": "칠곡경북대병원-한국뇌연구원, “피 한 방울로 파킨슨병 찾는다”&nbsp;&nbsp;의학신문혈액 한 방울로 파킨슨병 후보 발굴…국내 연구진 단서 발견&nbsp;&nbsp;v.daum.net시누클레인병증, 혈액 기반 진단 바이오마커 가능성 확인&nbsp;&nbsp;메디칼업저버칠곡경북대병원 이호원 교수팀, 파킨슨병 혈액 바이오마커 후보 발굴&nbsp;&nbsp;의약뉴스“혈액 한 방울로 간단하게 파킨슨병 진단”&nbsp;&nbsp;메디팜뉴스",
       "sources": [
         {
           "name": "의학신문",
@@ -30,13 +43,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b2e2731c8841",
+      "id": "c60bbdb71b75",
       "title": "뇌심부자극술 받은 치매 환자, 운동 증상 좋아졌지만...회복은 부담",
       "published": "2026-07-31T10:46:39+00:00",
-      "summary": "뇌심부자극술 받은 치매 환자, 운동 증상 좋아졌지만...회복은 부담&nbsp;&nbsp;dementianews.co.kr",
+      "summary": "뇌심부자극술 받은 치매 환자, 운동 증상 좋아졌지만...회복은 부담&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "dementianews.co.kr",
+          "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UUDFCTDlRQ3RmTFlDOVItUDdGUnRvVExUQjE3cC1wLXlJYTVreHZqc2lDS1F0VTNHbXZ0dDBxZmFaX0hqUWtrTFU5X3hQQmlSWEk1OVk3cDM5M3QxZDlRRjc5YU1EcWlxNVZHa3lwNklJdw?oc=5"
         }
       ],
@@ -45,7 +58,7 @@
     {
       "id": "0daee1fd5672",
       "title": "새는 암컷이 더 빨리 죽는다…사람과 반대인 이유는",
-      "published": "2026-07-31T06:43:14+00:00",
+      "published": "2026-07-31T06:42:00+00:00",
       "summary": "새는 암컷이 더 빨리 죽는다…사람과 반대인 이유는&nbsp;&nbsp;조선일보",
       "sources": [
         {
@@ -69,13 +82,13 @@
       "matched_keywords": []
     },
     {
-      "id": "32cc9907e171",
+      "id": "a4b14b12fbe7",
       "title": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발",
       "published": "2026-07-31T02:06:00+00:00",
-      "summary": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발&nbsp;&nbsp;biobookmedia.com얼굴 ‘이 부위’ 눌렀더니…치매 부르는 뇌 노폐물 청소됐다&nbsp;&nbsp;v.daum.net[탐구활동]치매 치료 새 단서 찾았다…IBS, 뇌 노폐물 배출 ‘지주막 소창’ 규명&nbsp;&nbsp;교육을 비추다치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;KBS 뉴스",
+      "summary": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발&nbsp;&nbsp;바이오북미디어얼굴 ‘이 부위’ 눌렀더니…치매 부르는 뇌 노폐물 청소됐다&nbsp;&nbsp;v.daum.net[탐구활동]치매 치료 새 단서 찾았다…IBS, 뇌 노폐물 배출 ‘지주막 소창’ 규명&nbsp;&nbsp;교육을 비추다치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;KBS 뉴스",
       "sources": [
         {
-          "name": "biobookmedia.com",
+          "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lVXhHd3ZFTExsdkdES0hNQVdIcFJyek5xYWdNMTJXNmFqYlVBWlVsRzlUNG1mZzNFcVRUb0NpTktIUndUc0FiMVppa1ZVUUNlTWpKRQ?oc=5"
         }
       ],
@@ -186,6 +199,19 @@
       "matched_keywords": []
     },
     {
+      "id": "539f8e143950",
+      "title": "“피부에 생긴 변화, 암 때문이었다”… 70대 남성 겪은 ‘의외의 증상’",
+      "published": "2026-07-30T18:30:00+00:00",
+      "summary": "“피부에 생긴 변화, 암 때문이었다”… 70대 남성 겪은 ‘의외의 증상’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yZWtVNk9wRFV1aUk2UDJnamlmTDk1WTZmVmFUWkx2ZmdYelR1ajB4cGlzaURiSDRVOG11NUc0NTB4VHZscWZRSDVqamZVT0owUTJyVnV0eloxam9HQnFsYll2QjRCY0RJQ3lab19pT2hNd0hWS2kwZkc1d1k5Wk0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "8f8edd236b27",
       "title": "“살 빼려면 꼭 먹어라”… 10kg 감량 성시경이 추천한 ‘단백질 폭탄’ 음식",
       "published": "2026-07-30T18:00:00+00:00",
@@ -251,39 +277,26 @@
       "matched_keywords": []
     },
     {
-      "id": "26041fbc207a",
-      "title": "“혈당 1000까지 치솟았다”… 60대 여성, 대체 뭐 먹었길래?",
-      "published": "2026-07-30T08:28:00+00:00",
-      "summary": "“혈당 1000까지 치솟았다”… 60대 여성, 대체 뭐 먹었길래?&nbsp;&nbsp;헬스조선\"디톡스 하려\" 매일 '이 주스' 2L씩 마신 여성…혈당 1000mg/dL 육박, 생명 위협&nbsp;&nbsp;네이트물 대신 과일 주스를 마시는 것은 당뇨병 환자에게 위험을 초래할 수 있습니다.&nbsp;&nbsp;Vietnam.vn당뇨병을 앓는 여성이 '해독'을 위해 물 대신 과일 주스를 마신 후 위독한 상태에 빠졌습니다.&nbsp;&nbsp;Vietnam.vn디톡스 주스를 잘못 섭취한 탓에 당뇨병 환자가 응급 치료를 위해 입원하는 사건이 발생했습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwQUdRbjJRbzdJdXVQR3R1N1F4S0Fza256dGNzUVF3d3B6T3dNS2NLODBKQ0ktWEdxRUM3WlV6TlQ0UTZzVmhQTzhtUk4xd2MwN0tpd2dVci10eVpJTzVXS1BfRlMzT2VOS3A3STR0Vmk3T01sSWRJX0lPbkl6akE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f9777fef3123",
+      "id": "dc78b24b748f",
       "title": "“농약 중독사고 예방-생활속 안전습관 만들기”",
       "published": "2026-07-30T07:44:44+00:00",
-      "summary": "“농약 중독사고 예방-생활속 안전습관 만들기”&nbsp;&nbsp;muannews.com여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 머니투데이&nbsp;&nbsp;머니투데이고려대 \"농약 노출, 당뇨·갑상선질환 위험 증가와 연관\"&nbsp;&nbsp;로이슈여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스고려대 연구팀 \"살충제 노출, 당뇨·갑상선 질환 위험 높인다\"&nbsp;&nbsp;네이트",
+      "summary": "“농약 중독사고 예방-생활속 안전습관 만들기”&nbsp;&nbsp;무안신문여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 머니투데이&nbsp;&nbsp;머니투데이여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스고려대 연구팀 \"살충제 노출, 당뇨·갑상선 질환 위험 높인다\"&nbsp;&nbsp;네이트고려대 연구진 “수십 년 전 금지된 농약의 비극”… 체내 쌓인 살충제, 당뇨·갑상선 질환 키운다&nbsp;&nbsp;스마트경제",
       "sources": [
         {
-          "name": "muannews.com",
+          "name": "무안신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faEJMb1U2S05Pc3l6V010SlhSNFV5WTZzS1Q3VjFNUUk5SGVRMDFZOTMteXZEZlNmWTNwT1BsOTVOc1F2dEVZeGNjTmlvWlVNYnhJT0Jfc3pkUGFwaU5wcjFpZXllWHRhMGfSAW5BVV95cUxPV3h0b3VnRHA3NmY3ZzB3aU5IajZLeDNCUWVwWldRWExsMldHMzdlM2plTUR3YXczRDRkOTktSFBLQWdpOUV5ZjdsM3RuOVFSd1c1RUk2YlpZNkg4eXhraF9xZ2xKSWhYSkRLZTh4QQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "d12e720f00c7",
+      "id": "2a4d4e51f178",
       "title": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐",
       "published": "2026-07-30T07:21:00+00:00",
-      "summary": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐&nbsp;&nbsp;코메디닷컴",
+      "summary": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐&nbsp;&nbsp;kormedi.com",
       "sources": [
         {
-          "name": "코메디닷컴",
+          "name": "kormedi.com",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5scWhaRzBoek1iX0JkWXBNclRORV9VY2hTbWs5MHFUaF92RGw5dXNtQXREbzByTWhvTEswbEVQX3JKUQ?oc=5"
         }
       ],
@@ -329,14 +342,27 @@
       "matched_keywords": []
     },
     {
-      "id": "c5de36a1ff86",
+      "id": "364f503a51a7",
       "title": "코로나19, 재확산 조짐…새 변이 BA.3.2, 얼마나 위험한가?",
       "published": "2026-07-30T04:36:26+00:00",
-      "summary": "코로나19, 재확산 조짐…새 변이 BA.3.2, 얼마나 위험한가?&nbsp;&nbsp;동포저널",
+      "summary": "코로나19, 재확산 조짐…새 변이 BA.3.2, 얼마나 위험한가?&nbsp;&nbsp;dongpojournal.com",
       "sources": [
         {
-          "name": "동포저널",
+          "name": "dongpojournal.com",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00TFVPYkF2UXJCYURBdVVlaGdnUURQbTEtOVV1LXdoRTN0WHpscFlGRG1VZ0x3dnRtWXM3NVVfS3BmdjlZWE1GSm90SXNJSXdKVDlPcThtMnFhNEUwVng0MkZrZ3Q3dFQ5aEtoUFBzeTU1SWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ed2d420cea61",
+      "title": "“디톡스 하려” 매일 ‘이 주스’ 2L씩 마신 여성…혈당 1000mg/dL 육박, 생명 위협",
+      "published": "2026-07-30T04:01:00+00:00",
+      "summary": "“디톡스 하려” 매일 ‘이 주스’ 2L씩 마신 여성…혈당 1000mg/dL 육박, 생명 위협&nbsp;&nbsp;kormedi.com\"디톡스 하려\" 매일 '이 주스' 2L씩 마신 여성…혈당 1000mg/dL 육박, 생명 위협&nbsp;&nbsp;네이트물 대신 과일 주스를 마시는 것은 당뇨병 환자에게 위험을 초래할 수 있습니다.&nbsp;&nbsp;Vietnam.vn당뇨병을 앓는 여성이 '해독'을 위해 물 대신 과일 주스를 마신 후 위독한 상태에 빠졌습니다.&nbsp;&nbsp;Vietnam.vn디톡스 주스를 잘못 섭취한 탓에 당뇨병 환자가 응급 치료를 위해 입원하는 사건이 발생했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "kormedi.com",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sSEpDRVNGeDRUei1ROGFJcnVGdkpLcjFjRDlnME1KdFNsaEJsTXFaSDFxdXdNNmF1WWN4cVE5RnMxdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -371,7 +397,7 @@
       "id": "e798eb205313",
       "title": "한림대동탄성심병원 최정아 교수팀, '저선량 CT 관절조영술' 유효성 입증",
       "published": "2026-07-30T00:42:16+00:00",
-      "summary": "한림대동탄성심병원 최정아 교수팀, '저선량 CT 관절조영술' 유효성 입증&nbsp;&nbsp;헬스미디어뉴스한림대동탄성심병원, 저선량 어깨 CT 관절조영술 연구 국제학술지 게재&nbsp;&nbsp;로이슈방사선 피폭 31% 낮춘 어깨 CT 유효성 입증돼&nbsp;&nbsp;병원신문회전근개파열 등 어깨질환에 저선량 CT 효과 입증&nbsp;&nbsp;메디칼트리뷴한림대동탄성심병원, 방사선 피폭 31% 줄인 어깨질환 CT 유효성 입증&nbsp;&nbsp;서울경제TV",
+      "summary": "한림대동탄성심병원 최정아 교수팀, '저선량 CT 관절조영술' 유효성 입증&nbsp;&nbsp;헬스미디어뉴스한림대동탄성심병원, 저선량 어깨 CT 관절조영술 연구 국제학술지 게재&nbsp;&nbsp;로이슈방사선 피폭 31% 낮춘 어깨 CT 유효성 입증돼&nbsp;&nbsp;병원신문회전근개파열 등 어깨질환에 저선량 CT 효과 입증&nbsp;&nbsp;medical-tribune.co.kr한림대동탄성심병원, 방사선 피폭 31% 줄인 어깨질환 CT 유효성 입증&nbsp;&nbsp;서울경제TV",
       "sources": [
         {
           "name": "헬스미디어뉴스",
@@ -441,19 +467,6 @@
         {
           "name": "노컷뉴스",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JdGkxR09JUGs0aFRfbXFnWTlUNmlmQmlBTm92eG9GRmhtOXJLc2VJWVZJZ3hRTG9lZDh4TjVZQmc1Umw1aU5OVWNabVdWX19FSHc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0ff225391abf",
-      "title": "‘설탕 구름’ 진짜 있다…우리 은하 중심부서 ‘당 분자’ 발견",
-      "published": "2026-07-29T00:45:00+00:00",
-      "summary": "‘설탕 구름’ 진짜 있다…우리 은하 중심부서 ‘당 분자’ 발견&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ER1VlaTVEaDA3MUR6RDdnOTRWcHVTclpkZmMyRjVDaVAwQ2lKYXpFNS1semhaNUdqajVtYWhwb3dVcFpKWUV5ajYzTWttb2hRYkFSWnFlem1faFhRTDV4RXktbjBrN0FyVWQ1bjNGN1pBQQ?oc=5"
         }
       ],
       "matched_keywords": []
