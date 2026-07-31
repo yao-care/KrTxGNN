@@ -1,19 +1,67 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-31T03:17:25.758419+00:00",
-  "total_fetched": 82,
-  "unique_count": 82,
-  "health_related_count": 38,
+  "fetched_at": "2026-07-31T08:53:02.622902+00:00",
+  "total_fetched": 78,
+  "unique_count": 78,
+  "health_related_count": 36,
   "news": [
     {
-      "id": "691f18c12215",
-      "title": "[의사들이 매일 실천하는 건강습관 ⑧] 하루 한 번 햇볕을 쬐어야 하는 이유 - 전국뉴스",
-      "published": "2026-07-31T02:14:26+00:00",
-      "summary": "[의사들이 매일 실천하는 건강습관 ⑧] 하루 한 번 햇볕을 쬐어야 하는 이유&nbsp;&nbsp;전국뉴스",
+      "id": "cf6e7f15bd21",
+      "title": "“피 한 방울로 파킨슨병 잡는다”…국내 연구진, 진단 보조 마커 발굴 - 간호사신문",
+      "published": "2026-07-31T08:20:12+00:00",
+      "summary": "“피 한 방울로 파킨슨병 잡는다”…국내 연구진, 진단 보조 마커 발굴&nbsp;&nbsp;간호사신문혈액 한 방울로 파킨슨병 후보 발굴…국내 연구진 단서 발견&nbsp;&nbsp;v.daum.net시누클레인병증, 혈액 기반 진단 바이오마커 가능성 확인&nbsp;&nbsp;메디칼업저버파킨슨병 진단 보조할 혈액 단백질 바이오마커 발굴&nbsp;&nbsp;edaily.co.kr혈액 한 방울로 파킨슨병 찾는다…국내 연구진 단서 발견&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "전국뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11X2ZtaTVJRUNzdVVOcWg4YUI1YlRDUTBSUnZDSGNoUU5zV3BESThSSG43MmVQNzQ5VDZ4MjJWSGtfMDdXdXotejFWdTFfYzQ1MEZNU1hBbGxFWVA3V0RXdGswdWVIV092V0xYWmxzUDk?oc=5"
+          "name": "간호사신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wOGFqcE1vbXdmb1o3VUZ5QXY2dTMxeldHcWF2ZVJLdzZIeW1yRHVCT3lJYUVZaU05SmJibEdHVXZ4c2JBX25sZk02dzI3STA2LTlTdFBSLXBLMGQ5aGxFaktNclF5ejBmNk5hd053?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0daee1fd5672",
+      "title": "새는 암컷이 더 빨리 죽는다…사람과 반대인 이유는 - 조선일보",
+      "published": "2026-07-31T06:43:14+00:00",
+      "summary": "새는 암컷이 더 빨리 죽는다…사람과 반대인 이유는&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1RHeGNweWtnS1FmY29RT2x2VDBSQUtreXh3bGpKX1hGbnVMT2ZyeVJpZEdpUER4b2lpS0R2QUgzUFc2bXFYRUI3ZFQ1bS0wXzZEQzl6cG8tZE12MGVoSzMydXc3Vk9vUTlJN0poMmtDNl95eGlkajNKOEUwdFU2QXBtaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a59b1b946226",
+      "title": "KAIST, 암 악액질 RNA 치료 전략 개발…생존율 20%서 90%로 - 웹이코노미",
+      "published": "2026-07-31T03:00:00+00:00",
+      "summary": "KAIST, 암 악액질 RNA 치료 전략 개발…생존율 20%서 90%로&nbsp;&nbsp;웹이코노미",
+      "sources": [
+        {
+          "name": "웹이코노미",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RU25IWWkxYWdzdlgxSjQtMWFhcTZVQkFnZ1dqVkRYWUs5ZHNrTkh3S1Ryb21KWktfbXpQeDlsVWJXcVNjblJVWmExeWZKVHB1dXZuYlVUVUN0OGlHU3lYSjZjN2pRRG9TMHE3WE5fV0M2QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a4b14b12fbe7",
+      "title": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발 - 바이오북미디어",
+      "published": "2026-07-31T02:06:00+00:00",
+      "summary": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lVXhHd3ZFTExsdkdES0hNQVdIcFJyek5xYWdNMTJXNmFqYlVBWlVsRzlUNG1mZzNFcVRUb0NpTktIUndUc0FiMVppa1ZVUUNlTWpKRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85cd39348af3",
+      "title": "[100세 과학] 70세 피부를 30세로 회춘, 美 바이오 기업 개발 - 조선비즈 - Chosunbiz",
+      "published": "2026-07-31T00:13:00+00:00",
+      "summary": "[100세 과학] 70세 피부를 30세로 회춘, 美 바이오 기업 개발 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQW1FNzllbmtIYnMxZ291SUlMNmw4SnM1dVRYLVZUWTVPZ3ZGdGduSWxoOTJKR1d2MTdYWExCRkh2R21rTkxfSHB1dDVwS05iR0VFdWtSLWhtT2psMVBnb2FIVWI4X1hZUTc1V2RXSERVaUtiOUhCOEpxenVQQjM0ZkdhcTVOd05PWWxvOGFBZXNSdGF4aVpZ0gGrAUFVX3lxTFBOQlQwSGt3bThuLVRwcERSNlBXMVlfX1dZZjdyMEdMTVhQWUg3V0NWOGZJOUdwUF9LWU1HakdudHRCbkdtY3I0WGpMR3hEZUNxLUZDTVhrR1l5eTJJVmEyNURLNEFQd1B0REhHS0s4UGVkM1d2OU01Sm1VaFE0MTJGMzdYX1pyTDBCSzJYeGE3VlNRVTJMRnhhaU9Da3RzRm1Db2dobks4T2JYaw?oc=5"
         }
       ]
     },
@@ -26,6 +74,42 @@
         {
           "name": "아던트뉴스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLRnMzSEhQbkhQVkNEWUlwalFmdmFKaUhzV3ZCWDUtUmJOTkVnU1ZYZUVvT0ZQWXozbXpnUjE0MmZYMFdOaDFTSV9WWlFKdFJsaGpRRmlseFBSSWRhaHpuU19ISGJqclhySUxGT2pCONIBc0FVX3lxTE00eWttTnQyeW9YWTVIdlQ4ZHlDNHVJZGRYOEdrT1gxSi10aHhhcjhCX1duMF9UWloyUEphVXVHX0tqcXZqckI5a3IyQnZHai1hQUxrMHlhY0UxZXdiUmViMVJwYlVZdVhhZUR5YWRCNjRXUDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "691f18c12215",
+      "title": "[의사들이 매일 실천하는 건강습관 ⑧] 하루 한 번 햇볕을 쬐어야 하는 이유 - 전국뉴스",
+      "published": "2026-07-30T23:35:00+00:00",
+      "summary": "[의사들이 매일 실천하는 건강습관 ⑧] 하루 한 번 햇볕을 쬐어야 하는 이유&nbsp;&nbsp;전국뉴스",
+      "sources": [
+        {
+          "name": "전국뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11X2ZtaTVJRUNzdVVOcWg4YUI1YlRDUTBSUnZDSGNoUU5zV3BESThSSG43MmVQNzQ5VDZ4MjJWSGtfMDdXdXotejFWdTFfYzQ1MEZNU1hBbGxFWVA3V0RXdGswdWVIV092V0xYWmxzUDk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60d04b88cf39",
+      "title": "눈을 통해 뇌를 읽다-망막 이미지와 AI가 여는 알츠하이머 진단의 새 지평 - ABC뉴스",
+      "published": "2026-07-30T22:10:41+00:00",
+      "summary": "눈을 통해 뇌를 읽다-망막 이미지와 AI가 여는 알츠하이머 진단의 새 지평&nbsp;&nbsp;ABC뉴스",
+      "sources": [
+        {
+          "name": "ABC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DUy0xYTJyWVlBS3hlV1lJa2k1a2loUklHRllnTVNCQ2lBdUNxTDhkcndmTHVyM2tGNEw2LXNvWlpFb05WcGF3YzBTMlBwdmRGUzBKUzVLU1RCWHlhV2hEa2Nlc9IBZ0FVX3lxTE9qTHNINnM2RXRITmhnMHN4dGU0a3Q4VG0waWdObVVPWWZ5SThSYVdWZlBKWlNURndYTTBYM3FVUHlnV18zOVBTRm04UWF5cGlmVkFWb2d6Qk56X3VIcElHRkhCV2ZrekU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c2520451908",
+      "title": "\"우주에서 세균 감염에 더 취약\"…국내 연구진이 입증 - 동아사이언스",
+      "published": "2026-07-30T22:00:00+00:00",
+      "summary": "\"우주에서 세균 감염에 더 취약\"…국내 연구진이 입증&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Uc1djUjFXSm9HUGdFNHJJbUF1Q1Bfek5ZT1V2VTRWTFNldnFKdXlRajF1ZHg0Ukx0RGY3YUJvX3RsY1h6R19UTGVwbzV4c3NldGMxbw?oc=5"
         }
       ]
     },
@@ -45,7 +129,7 @@
       "id": "c460349319d8",
       "title": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배 - 헬스오",
       "published": "2026-07-30T19:33:17+00:00",
-      "summary": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배&nbsp;&nbsp;헬스오\"금연 후 체중 5% 이상 줄어들면 고관절 골절 위험 2배↑\"&nbsp;&nbsp;v.daum.net체중 감량은 금연 장점? “5% 이상 감소하면 고관절 골절 위험 증가”&nbsp;&nbsp;헬스조선“금연하니까 살도 빠지네?” 좋은 일만은 아니었다…고관절 골절 위험 ‘확’ 커진다는데 [헬시타임]&nbsp;&nbsp;서울경제“금연 후 체중 5% 이상 줄면 고관절 골절 위험 1.9배↑”&nbsp;&nbsp;etnews.com",
+      "summary": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배&nbsp;&nbsp;헬스오\"금연 후 체중 5% 이상 줄어들면 고관절 골절 위험 2배↑\"&nbsp;&nbsp;연합뉴스체중 감량은 금연 장점? “5% 이상 감소하면 고관절 골절 위험 증가”&nbsp;&nbsp;헬스조선“금연하니까 살도 빠지네?” 좋은 일만은 아니었다…고관절 골절 위험 ‘확’ 커진다는데 [헬시타임]&nbsp;&nbsp;서울경제“금연 후 체중 5% 이상 줄면 고관절 골절 위험 1.9배↑”&nbsp;&nbsp;전자신문",
       "sources": [
         {
           "name": "헬스오",
@@ -54,26 +138,26 @@
       ]
     },
     {
-      "id": "3629d13812ad",
-      "title": "현대바이오 '제프티', 인간 폐포 오가노이드서 H1N1 99.2% 억제 확인 - newsa.co.kr",
+      "id": "4f15f3a717ac",
+      "title": "현대바이오 '제프티', 인간 폐포 오가노이드서 H1N1 99.2% 억제 확인 - 뉴스에이",
       "published": "2026-07-30T14:41:28+00:00",
-      "summary": "현대바이오 '제프티', 인간 폐포 오가노이드서 H1N1 99.2% 억제 확인&nbsp;&nbsp;newsa.co.kr현대바이오 \"항바이러스제 후보 물질, 오가노이드서 효과 확인\"&nbsp;&nbsp;연합뉴스현대바이오 '제프티', 인간 폐포 모델서 인플루엔자A 99.2% 억제 확인 - 머니투데이&nbsp;&nbsp;머니투데이[제약바이오 소식] 제프티, 장기유사체서 A형 독감 바이러스 99.2% 억제 확인&nbsp;&nbsp;한겨레현대바이오, 제프티 H1N1 증식 99.2% 억제 확인&nbsp;&nbsp;금강일보",
+      "summary": "현대바이오 '제프티', 인간 폐포 오가노이드서 H1N1 99.2% 억제 확인&nbsp;&nbsp;뉴스에이현대바이오 \"항바이러스제 후보 물질, 오가노이드서 효과 확인\"&nbsp;&nbsp;연합뉴스현대바이오 '제프티', 인간 폐포 모델서 인플루엔자A 99.2% 억제 확인 - 머니투데이&nbsp;&nbsp;mt.co.kr[제약바이오 소식] 제프티, 장기유사체서 A형 독감 바이러스 99.2% 억제 확인&nbsp;&nbsp;한겨레현대바이오, 제프티 H1N1 증식 99.2% 억제 확인&nbsp;&nbsp;금강일보",
       "sources": [
         {
-          "name": "newsa.co.kr",
+          "name": "뉴스에이",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KT2NGUFdvOFloQXVDQV94XzZYVnRTMERuN2w1bm5zV1VWWW9SaDVXZVFXeXIzcXV3MnhfR1oyb3UxbE5pYk9GRXNDYzdRdXlib3AwVnFJNGdqSF81c3AyRUE3YVBVRVM4Q0E?oc=5"
         }
       ]
     },
     {
-      "id": "dbe5ff93ffb3",
-      "title": "얼굴 '이 부위' 눌렀더니…치매 부르는 뇌 노폐물 청소됐다 - 네이트",
-      "published": "2026-07-30T10:14:00+00:00",
-      "summary": "얼굴 '이 부위' 눌렀더니…치매 부르는 뇌 노폐물 청소됐다&nbsp;&nbsp;네이트얼굴 ‘이 부위’ 눌렀더니…치매 부르는 뇌 노폐물 청소됐다&nbsp;&nbsp;미주중앙일보\"뇌 노폐물 배출 '첫 관문' 확인…뇌질환 연구 새 전기 기대\"&nbsp;&nbsp;연합뉴스[탐구활동]치매 치료 새 단서 찾았다…IBS, 뇌 노폐물 배출 ‘지주막 소창’ 규명&nbsp;&nbsp;교육을 비추다치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스",
+      "id": "4ae3ced27f47",
+      "title": "논바닥처럼 쩍쩍 갈라졌네…큐리오시티, 화성서 ‘벌집 모양 지형’ 발견 [우주를 보다] - 나우뉴스",
+      "published": "2026-07-30T10:30:00+00:00",
+      "summary": "논바닥처럼 쩍쩍 갈라졌네…큐리오시티, 화성서 ‘벌집 모양 지형’ 발견 [우주를 보다]&nbsp;&nbsp;나우뉴스",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12ei1JUUlna0VTRnhOdlViRHBnTWV3MFh5eWlteFJHZTNmOTh2TnhSUEgxdmFQdkt4VkRvWXZYbWJ6dE9fY2dfT1Nka3VJYS0xQWRN?oc=5"
+          "name": "나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQVZlMVFMQm4zZXA3VElMc0w0cnVmM3drU0UydUM2MWFPSUxjU1NKLTJoeUNUNnRJNlY0ZWh0azdabFFYakd4UG1WUEFRUTdZbFB0bVNuYzJpZGVsdFM3QjJtMElLalJtZXQ2SXdxOG8?oc=5"
         }
       ]
     },
@@ -81,7 +165,7 @@
       "id": "a14a944e5dd1",
       "title": "“운동으로 땀 흘리고 맥주 한잔?”…여름철 통풍 발작 위험 높인다 - 하이닥",
       "published": "2026-07-30T10:00:00+00:00",
-      "summary": "“운동으로 땀 흘리고 맥주 한잔?”…여름철 통풍 발작 위험 높인다&nbsp;&nbsp;하이닥고기가 아니었다… 여름철 새벽에 급습하는 극심한 ‘통풍’ 통증의 주범&nbsp;&nbsp;조선일보통풍 악화시키는 음식 5가지… \"맥주만 문제가 아니다\"&nbsp;&nbsp;하이닥",
+      "summary": "“운동으로 땀 흘리고 맥주 한잔?”…여름철 통풍 발작 위험 높인다&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "하이닥",
@@ -129,7 +213,7 @@
       "id": "dc78b24b748f",
       "title": "“농약 중독사고 예방-생활속 안전습관 만들기” - 무안신문",
       "published": "2026-07-30T07:44:44+00:00",
-      "summary": "“농약 중독사고 예방-생활속 안전습관 만들기”&nbsp;&nbsp;무안신문“여름철 해충약·농약 노출 주의”… 당뇨 위험 51% 높인다&nbsp;&nbsp;BRIC여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 머니투데이&nbsp;&nbsp;머니투데이고려대 \"농약 노출, 당뇨·갑상선질환 위험 증가와 연관\"&nbsp;&nbsp;로이슈여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스",
+      "summary": "“농약 중독사고 예방-생활속 안전습관 만들기”&nbsp;&nbsp;무안신문“여름철 해충약·농약 노출 주의”… 당뇨 위험 51% 높인다&nbsp;&nbsp;BRIC여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 머니투데이&nbsp;&nbsp;mt.co.kr고려대 \"농약 노출, 당뇨·갑상선질환 위험 증가와 연관\"&nbsp;&nbsp;로이슈여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "무안신문",
@@ -138,13 +222,13 @@
       ]
     },
     {
-      "id": "d12e720f00c7",
-      "title": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐 - 코메디닷컴",
+      "id": "2a4d4e51f178",
+      "title": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐 - kormedi.com",
       "published": "2026-07-30T07:21:00+00:00",
-      "summary": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐&nbsp;&nbsp;코메디닷컴",
+      "summary": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐&nbsp;&nbsp;kormedi.com",
       "sources": [
         {
-          "name": "코메디닷컴",
+          "name": "kormedi.com",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5scWhaRzBoek1iX0JkWXBNclRORV9VY2hTbWs5MHFUaF92RGw5dXNtQXREbzByTWhvTEswbEVQX3JKUQ?oc=5"
         }
       ]
@@ -186,18 +270,6 @@
       ]
     },
     {
-      "id": "b8686409a731",
-      "title": "기온 오르면 대상포진 발병률 폭발…65세 이상·만성신장질환자 더 취약 - 기후에너지데이터뱅크",
-      "published": "2026-07-30T02:10:03+00:00",
-      "summary": "기온 오르면 대상포진 발병률 폭발…65세 이상·만성신장질환자 더 취약&nbsp;&nbsp;기후에너지데이터뱅크",
-      "sources": [
-        {
-          "name": "기후에너지데이터뱅크",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nZnZMa2FJRFB6aHIxcnh0S1UxSmpNMFg3Smp0ZmpEdDhUNDBrWkdnZG9pcVZVaUJPVFFfeTUtX3RfRWI0SjE4Q3NzV25JbHVSWmpCdkF1WEEtVnZ6VEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0c2088df22cd",
       "title": "'아밀로이드 양성=치매’ 아니다…\"바이오마커만으로 알츠하이머 단정 못 해\" - 하이닥",
       "published": "2026-07-30T02:00:00+00:00",
@@ -225,7 +297,7 @@
       "id": "e798eb205313",
       "title": "한림대동탄성심병원 최정아 교수팀, '저선량 CT 관절조영술' 유효성 입증 - 헬스미디어뉴스",
       "published": "2026-07-30T00:42:16+00:00",
-      "summary": "한림대동탄성심병원 최정아 교수팀, '저선량 CT 관절조영술' 유효성 입증&nbsp;&nbsp;헬스미디어뉴스한림대동탄성심병원, 저선량 어깨 CT 관절조영술 연구 국제학술지 게재&nbsp;&nbsp;로이슈방사선 피폭 31% 낮춘 어깨질환 CT 유효성 입증&nbsp;&nbsp;재활뉴스방사선 31% 줄인 저선량 CT로 어깨질환 정밀진단 입증&nbsp;&nbsp;e-의료정보회전근개파열 등 어깨질환에 저선량 CT 효과 입증&nbsp;&nbsp;메디칼트리뷴",
+      "summary": "한림대동탄성심병원 최정아 교수팀, '저선량 CT 관절조영술' 유효성 입증&nbsp;&nbsp;헬스미디어뉴스한림대동탄성심병원, 저선량 어깨 CT 관절조영술 연구 국제학술지 게재&nbsp;&nbsp;로이슈한림대동탄성심병원, 방사선 피폭 31% 줄인 저선량 CT 효과 입증…\"어깨질환 진단 정확도 유지\"&nbsp;&nbsp;더퍼스트미디어회전근개파열 등 어깨질환에 저선량 CT 효과 입증&nbsp;&nbsp;메디칼트리뷴방사선 피폭 31% 낮춘 어깨질환 CT 유효성 입증&nbsp;&nbsp;재활뉴스",
       "sources": [
         {
           "name": "헬스미디어뉴스",
@@ -270,13 +342,13 @@
       ]
     },
     {
-      "id": "efe792ecf952",
-      "title": "“머리뼈에 ‘이 암’ 전이”⋯두통 3개월 계속되던 40대女, 무슨 사연? - 코메디닷컴",
+      "id": "b9ae7b775875",
+      "title": "“머리뼈에 ‘이 암’ 전이”⋯두통 3개월 계속되던 40대女, 무슨 사연? - kormedi.com",
       "published": "2026-07-29T11:02:00+00:00",
-      "summary": "“머리뼈에 ‘이 암’ 전이”⋯두통 3개월 계속되던 40대女, 무슨 사연?&nbsp;&nbsp;코메디닷컴",
+      "summary": "“머리뼈에 ‘이 암’ 전이”⋯두통 3개월 계속되던 40대女, 무슨 사연?&nbsp;&nbsp;kormedi.com",
       "sources": [
         {
-          "name": "코메디닷컴",
+          "name": "kormedi.com",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15RnJfOUtPNXJ4dFlWWE5oN3BZb3Nmc0NLVUgtb3M2RUc1MkFBSmhPcWlUSFFpV1hXbUhfZWJkNVY0QQ?oc=5"
         }
       ]
@@ -342,18 +414,6 @@
       ]
     },
     {
-      "id": "373c810e247d",
-      "title": "청주시·충북도, 해외유입 신종감염병 공동 대응 강화 - 서울뉴스통신",
-      "published": "2026-07-29T07:40:00+00:00",
-      "summary": "청주시·충북도, 해외유입 신종감염병 공동 대응 강화&nbsp;&nbsp;서울뉴스통신",
-      "sources": [
-        {
-          "name": "서울뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxS2pMSjdPalB5dGtHZTQyZ3JNQ0dLUWFDRXczZE80ZXZSTDVWUDlCRWFtT3lpb003c3VCNTdxV1NPa1RsaXlvWll0T0NESnVTakpCTGRGM3hSVUhRU2xVcG1yb0l1QVU2eW9j?oc=5"
-        }
-      ]
-    },
-    {
       "id": "733c9d54ab39",
       "title": "\"연구비 벌려고\" 성인물 사이트에 '마멋 영상' 올린 美학자들[이런일이] - 노컷뉴스",
       "published": "2026-07-29T06:30:00+00:00",
@@ -362,90 +422,6 @@
         {
           "name": "노컷뉴스",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JdGkxR09JUGs0aFRfbXFnWTlUNmlmQmlBTm92eG9GRmhtOXJLc2VJWVZJZ3hRTG9lZDh4TjVZQmc1Umw1aU5OVWNabVdWX19FSHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3bf8f895520c",
-      "title": "\"암 백신 생산 '3개월→수일' 단축…中, IVT 없는 RNA 합성 성공\" - 바이오북미디어",
-      "published": "2026-07-29T05:07:00+00:00",
-      "summary": "\"암 백신 생산 '3개월→수일' 단축…中, IVT 없는 RNA 합성 성공\"&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HT19oM0oxUmx6RXI0RXUycXY0X1BTTzlKNTU5Q2FmOVJqV3RSY3dmd0pIaWlfaHc3X0I3UUhwR3Bjc0wtcUVBOUx2aUVMdm1YUk5ONU9pT0dzLTBDdW5DWnRaTGJxcXdZOUY2OHB3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5cc7a04ad6a2",
-      "title": "갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아 - 한국일보",
-      "published": "2026-07-29T04:45:00+00:00",
-      "summary": "갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;한국일보갑상선암 치료 끝났다고 안심했는데…\"뼈 약해졌다\" 골다공증 위험 6배 - 머니투데이&nbsp;&nbsp;머니투데이착한 암이라더니… “갑상선암 환자, 골다공증 위험 정상인의 6.59배”&nbsp;&nbsp;헬스조선\"착한 암이라길래 안심했는데\"…갑상선암 치료 후 더 신경 써야 할 '뼈 건강'&nbsp;&nbsp;매경헬스갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보",
-      "sources": [
-        {
-          "name": "한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tOUtpQ3hSYVFSRGhQUzJBN1ZMcUNTMWotdzctU0Z6ZGN6RVpLVFFvWFlURGp6c2htS09DZTJEaVZ1NnkzWTFPYUFZdzNXQlF4eUY3RnJyaWpXbFFsUUNiQzByWUFfSUxEOVY2MzF30gFzQVVfeXFMT3M3NHo3WVVnWVQ1Yk9LdmItVFZkWE8yTERGdXRVZEZDVHVNQ3BIV0NPSU5GdW5TX1M0anNGY3ZlUmJJdTVxZXIxaS00T0trVklDUG11RkdORldkRzVlNGF6MjhwelRybmpvd2NCVFp1TG0wNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "429d684ac751",
-      "title": "세포 신원 '이중 암호' 풀었다…세계 최초 단일세포 3D 유전체 지도 공개 - 바이오북미디어",
-      "published": "2026-07-29T04:13:00+00:00",
-      "summary": "세포 신원 '이중 암호' 풀었다…세계 최초 단일세포 3D 유전체 지도 공개&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ta3R2a2Jld2JheEVHc2V5UFJsOHUyb1pOSXBoVjRkd0FPSFVUbWU3eFI1TF8xdkd3OW5mTU5Qbi1VNkg3UnVJOXltWXBLWTFyWHR5ZFd4dXdBZmZfQVR1QTBuSDhvLUdIVlRyc0dn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "35633715687c",
-      "title": "메드팩토, 백토서팁·DC 암백신 병용 연구 발표 - bosa.co.kr",
-      "published": "2026-07-29T02:53:54+00:00",
-      "summary": "메드팩토, 백토서팁·DC 암백신 병용 연구 발표&nbsp;&nbsp;bosa.co.kr메드팩토, 백토서팁·DC 암백신 병용 전임상 성과, 네이처 게재&nbsp;&nbsp;v.daum.net메드팩토, 주가 급변동 \"회사 전혀 문제없어, 일시적 수급 영향\"&nbsp;&nbsp;한국경제메드팩토, 백토서팁·DC 암백신 병용 전임상 성과 발표…\"종양 크기 줄이고 생존율 높여\"&nbsp;&nbsp;팜이데일리메드팩토 \"백토서팁, 암 백신 병용서 종양 억제·생존율 향상 확인\" - 머니투데이&nbsp;&nbsp;머니투데이",
-      "sources": [
-        {
-          "name": "bosa.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NeXliRjZQbjg1MF96SnZYbldfTVhPWjBfWTF0TnpTODlKWmtHZzlqZ0Uwbnc0dXR4Znkwa1VpbTJaT0FvNFJQNWdYWmR1aXdTSWlfal9VM2hGMnNVY1c5RWpub0d2QXJ6TUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7d335002d41",
-      "title": "레디큐어, 알츠하이머병 치료 의료기기 '헬락슨' 임상 추진 - 라포르시안",
-      "published": "2026-07-29T02:34:45+00:00",
-      "summary": "레디큐어, 알츠하이머병 치료 의료기기 '헬락슨' 임상 추진&nbsp;&nbsp;라포르시안",
-      "sources": [
-        {
-          "name": "라포르시안",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nMTRUdFYya3RTU3p4ZXl5TlNmbWoxdG50TVYwNV9GMXp6dFNRRWFYS0lZb3BkcFY0U0ZzS2Fnb1dEam1jNHkzREFpRVRCelFSQzBsa3ZGY1lmRktxOWhQaGp2VjF4YjI5NkRwag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07442ebe8a21",
-      "title": "트랜스젠더 여성 자궁경부암 검진율, 일반 여성의 3분의 1 - 간호사신문",
-      "published": "2026-07-29T02:20:22+00:00",
-      "summary": "트랜스젠더 여성 자궁경부암 검진율, 일반 여성의 3분의 1&nbsp;&nbsp;간호사신문트랜스젠더 자궁경부암 검진율 저조...“검진 체계 조정 必”&nbsp;&nbsp;후생신보트랜스젠더 자궁경부암 검진률, 일반 여성의 3분의 1 수준&nbsp;&nbsp;헬스이슈앤뉴스트랜스젠더 자궁경부암 검진율 낮아…보유 신체기관 기반 검진 필요&nbsp;&nbsp;코리아헬스로그\"트랜스젠더 건강 증진 위해 보유 신체기관 기반 검진체계 필요\"&nbsp;&nbsp;라포르시안",
-      "sources": [
-        {
-          "name": "간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5velhVTUUzaWtxQ1N6TEF4ajRUVXFxcl91cVRiaW5wbGVMUUU1ZXFZRVRKdFFLc3RVaHg0cnZZZXY2a3c5YmNZdENBZHVKWkI4aTZqbUV5ZnptMEctQzZxN2Q5Um5Yak82c282eEV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "71a40896ff20",
-      "title": "GLP-1 처방받은 수면무호흡증 환자, 심혈관질환 위험 최대 70% 감소 - 하이닥",
-      "published": "2026-07-29T02:00:00+00:00",
-      "summary": "GLP-1 처방받은 수면무호흡증 환자, 심혈관질환 위험 최대 70% 감소&nbsp;&nbsp;하이닥[카드뉴스] 코골이, 수면무호흡 환자...양압기, 왜 10명 중 9명은 포기할까?&nbsp;&nbsp;한국미디어뉴스통신비만약 처방군, 심정지 위험 70%↓…수면무호흡 환자 뜻밖 결과&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EWUZpRXpkV0lmcy1DVkx5ZnhaWU1YT0l6c3d4aVV6Ry1SeEZWWmZVTFJpcUZPMmZya1gwSGdtZFV2OERRZkhjTk9jZmQwRXJwS0hGVXVoeFYwUlhObHlxaVJiRTlvR09Nbmc?oc=5"
         }
       ]
     },
