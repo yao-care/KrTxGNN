@@ -1,19 +1,43 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-07-31T08:53:02.622902+00:00",
-  "total_fetched": 78,
-  "unique_count": 78,
-  "health_related_count": 36,
+  "fetched_at": "2026-07-31T14:13:13.285079+00:00",
+  "total_fetched": 71,
+  "unique_count": 71,
+  "health_related_count": 35,
   "news": [
     {
-      "id": "cf6e7f15bd21",
-      "title": "“피 한 방울로 파킨슨병 잡는다”…국내 연구진, 진단 보조 마커 발굴 - 간호사신문",
-      "published": "2026-07-31T08:20:12+00:00",
-      "summary": "“피 한 방울로 파킨슨병 잡는다”…국내 연구진, 진단 보조 마커 발굴&nbsp;&nbsp;간호사신문혈액 한 방울로 파킨슨병 후보 발굴…국내 연구진 단서 발견&nbsp;&nbsp;v.daum.net시누클레인병증, 혈액 기반 진단 바이오마커 가능성 확인&nbsp;&nbsp;메디칼업저버파킨슨병 진단 보조할 혈액 단백질 바이오마커 발굴&nbsp;&nbsp;edaily.co.kr혈액 한 방울로 파킨슨병 찾는다…국내 연구진 단서 발견&nbsp;&nbsp;네이트",
+      "id": "a66f31b361ee",
+      "title": "“난소암 전이 일으킨다”… ‘안 먹는 게 가장 좋은’ 음식, 뭐야? - 헬스조선",
+      "published": "2026-07-31T14:01:00+00:00",
+      "summary": "“난소암 전이 일으킨다”… ‘안 먹는 게 가장 좋은’ 음식, 뭐야?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wOGFqcE1vbXdmb1o3VUZ5QXY2dTMxeldHcWF2ZVJLdzZIeW1yRHVCT3lJYUVZaU05SmJibEdHVXZ4c2JBX25sZk02dzI3STA2LTlTdFBSLXBLMGQ5aGxFaktNclF5ejBmNk5hd053?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mOTl6dmdYbG1oN2dPVEpyU3pkU0Fzcm8tb25CTWtMTURBbktONnZfdURKSUw1dVY5U1lDOEhMX3JJVzZpMHR5VHNIemhnZG5PVXd2NmVGcmlsQXJ2VTNsVkJmLUNBcjR5X0pYdF9EQzJPSksxYUJzaHdfWlpqcFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7cba4c7a68cc",
+      "title": "칠곡경북대병원-한국뇌연구원, “피 한 방울로 파킨슨병 찾는다” - 의학신문",
+      "published": "2026-07-31T13:41:58+00:00",
+      "summary": "칠곡경북대병원-한국뇌연구원, “피 한 방울로 파킨슨병 찾는다”&nbsp;&nbsp;의학신문혈액 한 방울로 파킨슨병 후보 발굴…국내 연구진 단서 발견&nbsp;&nbsp;v.daum.net“피 한 방울로 파킨슨병 잡는다”…국내 연구진, 진단 보조 마커 발굴&nbsp;&nbsp;간호사신문시누클레인병증, 혈액 기반 진단 바이오마커 가능성 확인&nbsp;&nbsp;메디칼업저버칠곡경북대병원 이호원 교수팀, 파킨슨병 혈액 바이오마커 후보 발굴&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmd0pWcTBnM04wT3I5T2R6Q0RETGkxdEM1TDJZc0UxM3NrT1JFUXhZV19UUmhXS0o5bEtSM09CWk9ZckYzTkV3b0doRXFzeEJpcktuM20tRldpVHlTRU9MSXBpMWY4Q1R4dnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b2e2731c8841",
+      "title": "뇌심부자극술 받은 치매 환자, 운동 증상 좋아졌지만...회복은 부담 - dementianews.co.kr",
+      "published": "2026-07-31T10:46:39+00:00",
+      "summary": "뇌심부자극술 받은 치매 환자, 운동 증상 좋아졌지만...회복은 부담&nbsp;&nbsp;dementianews.co.kr",
+      "sources": [
+        {
+          "name": "dementianews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UUDFCTDlRQ3RmTFlDOVItUDdGUnRvVExUQjE3cC1wLXlJYTVreHZqc2lDS1F0VTNHbXZ0dDBxZmFaX0hqUWtrTFU5X3hQQmlSWEk1OVk3cDM5M3QxZDlRRjc5YU1EcWlxNVZHa3lwNklJdw?oc=5"
         }
       ]
     },
@@ -42,13 +66,13 @@
       ]
     },
     {
-      "id": "a4b14b12fbe7",
-      "title": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발 - 바이오북미디어",
+      "id": "32cc9907e171",
+      "title": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발 - biobookmedia.com",
       "published": "2026-07-31T02:06:00+00:00",
-      "summary": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발&nbsp;&nbsp;바이오북미디어",
+      "summary": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발&nbsp;&nbsp;biobookmedia.com얼굴 ‘이 부위’ 눌렀더니…치매 부르는 뇌 노폐물 청소됐다&nbsp;&nbsp;v.daum.net[탐구활동]치매 치료 새 단서 찾았다…IBS, 뇌 노폐물 배출 ‘지주막 소창’ 규명&nbsp;&nbsp;교육을 비추다치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;KBS 뉴스",
       "sources": [
         {
-          "name": "바이오북미디어",
+          "name": "biobookmedia.com",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lVXhHd3ZFTExsdkdES0hNQVdIcFJyek5xYWdNMTJXNmFqYlVBWlVsRzlUNG1mZzNFcVRUb0NpTktIUndUc0FiMVppa1ZVUUNlTWpKRQ?oc=5"
         }
       ]
@@ -56,7 +80,7 @@
     {
       "id": "85cd39348af3",
       "title": "[100세 과학] 70세 피부를 30세로 회춘, 美 바이오 기업 개발 - 조선비즈 - Chosunbiz",
-      "published": "2026-07-31T00:13:00+00:00",
+      "published": "2026-07-31T00:32:00+00:00",
       "summary": "[100세 과학] 70세 피부를 30세로 회춘, 美 바이오 기업 개발 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
@@ -114,6 +138,18 @@
       ]
     },
     {
+      "id": "8aaf0102c4fb",
+      "title": "'아인슈타인 문제' 해결한 '스미스 모자'로 새 광학 현상 발견 - v.daum.net",
+      "published": "2026-07-30T21:02:09+00:00",
+      "summary": "'아인슈타인 문제' 해결한 '스미스 모자'로 새 광학 현상 발견&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yMnZ6ald2LUxORmFqX3lMUHBQNEFDbDhmN2ZWT09lcXFMcTVQRG5fVFlvUWsxMkYwQ2ptWDBjQXJpSWZjNXZObzQ5dWRIZGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cce1a098760b",
       "title": "샴푸 개발해 270만병 대박 카이스트 교수 \"겨우 샴푸? 과학입니다.\" - 조선일보",
       "published": "2026-07-30T20:06:22+00:00",
@@ -138,10 +174,22 @@
       ]
     },
     {
+      "id": "8f8edd236b27",
+      "title": "“살 빼려면 꼭 먹어라”… 10kg 감량 성시경이 추천한 ‘단백질 폭탄’ 음식 - 헬스조선",
+      "published": "2026-07-30T18:00:00+00:00",
+      "summary": "“살 빼려면 꼭 먹어라”… 10kg 감량 성시경이 추천한 ‘단백질 폭탄’ 음식&nbsp;&nbsp;헬스조선새로운 연구 결과: 부적절한 체지방 감량은 당뇨병 발병 위험을 높인다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GSHFLTnpjdmxpcGdCdlJ2dHFncGtwck1VSElLcEJFREw2RUZSUmIzaVlOV3huVXYwaTh0Sjd4a0xPY1N4Q1lNM1ZTdmlkVHhvaXRYQWhQTFh3QTNKV3lueXJZWTcyQ3dUN1piaUZub2RGdndRWHloeU1vUFU5Zzg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4f15f3a717ac",
       "title": "현대바이오 '제프티', 인간 폐포 오가노이드서 H1N1 99.2% 억제 확인 - 뉴스에이",
       "published": "2026-07-30T14:41:28+00:00",
-      "summary": "현대바이오 '제프티', 인간 폐포 오가노이드서 H1N1 99.2% 억제 확인&nbsp;&nbsp;뉴스에이현대바이오 \"항바이러스제 후보 물질, 오가노이드서 효과 확인\"&nbsp;&nbsp;연합뉴스현대바이오 '제프티', 인간 폐포 모델서 인플루엔자A 99.2% 억제 확인 - 머니투데이&nbsp;&nbsp;mt.co.kr[제약바이오 소식] 제프티, 장기유사체서 A형 독감 바이러스 99.2% 억제 확인&nbsp;&nbsp;한겨레현대바이오, 제프티 H1N1 증식 99.2% 억제 확인&nbsp;&nbsp;금강일보",
+      "summary": "현대바이오 '제프티', 인간 폐포 오가노이드서 H1N1 99.2% 억제 확인&nbsp;&nbsp;뉴스에이현대바이오 \"항바이러스제 후보 물질, 오가노이드서 효과 확인\"&nbsp;&nbsp;연합뉴스현대바이오 '제프티', 인간 폐포 모델서 인플루엔자A 99.2% 억제 확인 - 머니투데이&nbsp;&nbsp;머니투데이[제약바이오 소식] 제프티, 장기유사체서 A형 독감 바이러스 99.2% 억제 확인&nbsp;&nbsp;한겨레현대바이오, 제프티 H1N1 증식 99.2% 억제 확인&nbsp;&nbsp;금강일보",
       "sources": [
         {
           "name": "뉴스에이",
@@ -158,18 +206,6 @@
         {
           "name": "나우뉴스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQVZlMVFMQm4zZXA3VElMc0w0cnVmM3drU0UydUM2MWFPSUxjU1NKLTJoeUNUNnRJNlY0ZWh0azdabFFYakd4UG1WUEFRUTdZbFB0bVNuYzJpZGVsdFM3QjJtMElLalJtZXQ2SXdxOG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a14a944e5dd1",
-      "title": "“운동으로 땀 흘리고 맥주 한잔?”…여름철 통풍 발작 위험 높인다 - 하이닥",
-      "published": "2026-07-30T10:00:00+00:00",
-      "summary": "“운동으로 땀 흘리고 맥주 한잔?”…여름철 통풍 발작 위험 높인다&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pZHJQZEw3TzZDbm5PR1BjSnJtdjBXdkxuWVUxRDk2RTVIejBSaXlRQXcxYlkwX3diNW05eTA2V2FUU3hlcm1SMENFNk10Mml6TDZZV280X1lCN2Y0RDdIdkVqcnBxZ0lJU0E?oc=5"
         }
       ]
     },
@@ -210,26 +246,38 @@
       ]
     },
     {
-      "id": "dc78b24b748f",
-      "title": "“농약 중독사고 예방-생활속 안전습관 만들기” - 무안신문",
+      "id": "f9777fef3123",
+      "title": "“농약 중독사고 예방-생활속 안전습관 만들기” - muannews.com",
       "published": "2026-07-30T07:44:44+00:00",
-      "summary": "“농약 중독사고 예방-생활속 안전습관 만들기”&nbsp;&nbsp;무안신문“여름철 해충약·농약 노출 주의”… 당뇨 위험 51% 높인다&nbsp;&nbsp;BRIC여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 머니투데이&nbsp;&nbsp;mt.co.kr고려대 \"농약 노출, 당뇨·갑상선질환 위험 증가와 연관\"&nbsp;&nbsp;로이슈여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스",
+      "summary": "“농약 중독사고 예방-생활속 안전습관 만들기”&nbsp;&nbsp;muannews.com여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 머니투데이&nbsp;&nbsp;머니투데이고려대 \"농약 노출, 당뇨·갑상선질환 위험 증가와 연관\"&nbsp;&nbsp;로이슈여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스고려대 연구팀 \"살충제 노출, 당뇨·갑상선 질환 위험 높인다\"&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "무안신문",
+          "name": "muannews.com",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faEJMb1U2S05Pc3l6V010SlhSNFV5WTZzS1Q3VjFNUUk5SGVRMDFZOTMteXZEZlNmWTNwT1BsOTVOc1F2dEVZeGNjTmlvWlVNYnhJT0Jfc3pkUGFwaU5wcjFpZXllWHRhMGfSAW5BVV95cUxPV3h0b3VnRHA3NmY3ZzB3aU5IajZLeDNCUWVwWldRWExsMldHMzdlM2plTUR3YXczRDRkOTktSFBLQWdpOUV5ZjdsM3RuOVFSd1c1RUk2YlpZNkg4eXhraF9xZ2xKSWhYSkRLZTh4QQ?oc=5"
         }
       ]
     },
     {
-      "id": "2a4d4e51f178",
-      "title": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐 - kormedi.com",
+      "id": "d12e720f00c7",
+      "title": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐 - 코메디닷컴",
       "published": "2026-07-30T07:21:00+00:00",
-      "summary": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐&nbsp;&nbsp;kormedi.com",
+      "summary": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5scWhaRzBoek1iX0JkWXBNclRORV9VY2hTbWs5MHFUaF92RGw5dXNtQXREbzByTWhvTEswbEVQX3JKUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ded6e2ebab7",
+      "title": "암 치료 혁신 이끌까…단백질 기능 유지하며 크기만 바꾸는 AI '레이건' - 동아사이언스",
+      "published": "2026-07-30T07:00:00+00:00",
+      "summary": "암 치료 혁신 이끌까…단백질 기능 유지하며 크기만 바꾸는 AI '레이건'&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15M2tqd2pIdUo0LU1ablQ1d0MtQTFKOWlwQ0U4dmoyekNYZ3dTMVZOT3hSdXZPaFYtaVhuMHRKZy1XMDM2VTF5dXBQNWw0SXNLWG1NUQ?oc=5"
         }
       ]
     },
@@ -297,7 +345,7 @@
       "id": "e798eb205313",
       "title": "한림대동탄성심병원 최정아 교수팀, '저선량 CT 관절조영술' 유효성 입증 - 헬스미디어뉴스",
       "published": "2026-07-30T00:42:16+00:00",
-      "summary": "한림대동탄성심병원 최정아 교수팀, '저선량 CT 관절조영술' 유효성 입증&nbsp;&nbsp;헬스미디어뉴스한림대동탄성심병원, 저선량 어깨 CT 관절조영술 연구 국제학술지 게재&nbsp;&nbsp;로이슈한림대동탄성심병원, 방사선 피폭 31% 줄인 저선량 CT 효과 입증…\"어깨질환 진단 정확도 유지\"&nbsp;&nbsp;더퍼스트미디어회전근개파열 등 어깨질환에 저선량 CT 효과 입증&nbsp;&nbsp;메디칼트리뷴방사선 피폭 31% 낮춘 어깨질환 CT 유효성 입증&nbsp;&nbsp;재활뉴스",
+      "summary": "한림대동탄성심병원 최정아 교수팀, '저선량 CT 관절조영술' 유효성 입증&nbsp;&nbsp;헬스미디어뉴스한림대동탄성심병원, 저선량 어깨 CT 관절조영술 연구 국제학술지 게재&nbsp;&nbsp;로이슈방사선 피폭 31% 낮춘 어깨 CT 유효성 입증돼&nbsp;&nbsp;병원신문회전근개파열 등 어깨질환에 저선량 CT 효과 입증&nbsp;&nbsp;메디칼트리뷴한림대동탄성심병원, 방사선 피폭 31% 줄인 어깨질환 CT 유효성 입증&nbsp;&nbsp;서울경제TV",
       "sources": [
         {
           "name": "헬스미디어뉴스",
@@ -330,30 +378,6 @@
       ]
     },
     {
-      "id": "5d33826a3851",
-      "title": "운동이 치매 위험 낮추는 이유...혈액 속 단백질에서 찾았다 - 디멘시아뉴스",
-      "published": "2026-07-29T11:42:55+00:00",
-      "summary": "운동이 치매 위험 낮추는 이유...혈액 속 단백질에서 찾았다&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xTWRNTkE4Vk9ZOU1MLXJ2QWVyR1B2cW5iYlJDWkFINVB4NUNGdjlZaXBheWJGSkRtdnhMbUxOS1dvQ3R4eUZWN3hNZXNUSzJ2U25Da3ExN2tWUGRPbXFXZVhjalBMUkJxV21nYm9JQzhSUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9ae7b775875",
-      "title": "“머리뼈에 ‘이 암’ 전이”⋯두통 3개월 계속되던 40대女, 무슨 사연? - kormedi.com",
-      "published": "2026-07-29T11:02:00+00:00",
-      "summary": "“머리뼈에 ‘이 암’ 전이”⋯두통 3개월 계속되던 40대女, 무슨 사연?&nbsp;&nbsp;kormedi.com",
-      "sources": [
-        {
-          "name": "kormedi.com",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15RnJfOUtPNXJ4dFlWWE5oN3BZb3Nmc0NLVUgtb3M2RUc1MkFBSmhPcWlUSFFpV1hXbUhfZWJkNVY0QQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "abf0f3d3d515",
       "title": "유용균 단장 \"2035년되면 과학자가 곧 하나의 연구소\" - 지디넷코리아",
       "published": "2026-07-29T09:22:25+00:00",
@@ -366,18 +390,6 @@
       ]
     },
     {
-      "id": "22bb1449cb76",
-      "title": "특별기고/ 고령사회, 장례현장의 감염관리도 다시 점검해야 - 상조매거진",
-      "published": "2026-07-29T08:56:00+00:00",
-      "summary": "특별기고/ 고령사회, 장례현장의 감염관리도 다시 점검해야&nbsp;&nbsp;상조매거진",
-      "sources": [
-        {
-          "name": "상조매거진",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE10bjhENDZmbnlQVFBlc0JmMXFaazgxNUZwS3FaTy1Rb3R0cTJRT1dfZDJHNTZkQmFZdEdzT2xhMkcwVk81NERpN1I1RQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "576bf4647884",
       "title": "릴리, 내년에 '더 센 비만약' 들고 온다 - 매일경제",
       "published": "2026-07-29T08:48:43+00:00",
@@ -386,30 +398,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xVnRKWnhvZEdraDZLUlpOOFBEU0dmbEs2N0tuVjlxdHo4VWVtd1BZd0c5a2YzRlY1bGJFRE1odGxLYkdxZnkxQ0NJVGtXZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "52f13495c2a6",
-      "title": "빈멕 센트럴 파크, 심각한 패혈성 쇼크와 다발성 기저 질환을 동반한 캄보디아 환자 \"부활 - Laodong.vn",
-      "published": "2026-07-29T08:37:20+00:00",
-      "summary": "빈멕 센트럴 파크, 심각한 패혈성 쇼크와 다발성 기저 질환을 동반한 캄보디아 환자 \"부활&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPemtHWjhxMW9EdjJQM3hDWW10TGREemtKa2F3NHBsemkzc0RrSTVIMDZ3elNhU0tJdVBvelFRSDRsb3dja1VQdlBCSnBjelNaY01yeTZxbzl3eUtDSUR5MUNzQmUxZW9jYTRfY1FBaTFub0NzTnFHY0VHRC12QWcwUkM5TEYtQm5yazN4ZEtlaHE5aGFpT0hwZ2IwSk82YjJwRjgtVEFBQzZmU2pRTWdhY05RX0dNNnpHaFVObXRMQUxwVE9DUV9Ka3V0eGdGYTRmODMxVllvTFJWdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aed7523e9259",
-      "title": "\"심하면 사망까지…걸리면 평생 후유증\" 홍역 안전지대는 없습니다 [육아똑똑똑] - 네이트",
-      "published": "2026-07-29T08:02:00+00:00",
-      "summary": "\"심하면 사망까지…걸리면 평생 후유증\" 홍역 안전지대는 없습니다 [육아똑똑똑]&nbsp;&nbsp;네이트많은 성인들이 홍역의 위험성을 과소평가하여 입원 치료를 받고 있습니다.&nbsp;&nbsp;Vietnam.vn어린 시절 질병을 방치하면 심각한 합병증이 발생할 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNX3E4a1JzWk9xVV9xY0diYjVZSUJTNnJaSTBxeEo0TWlpRFVaWFpFaEp5d2RnNjlVV21VRUVwRmlNZjZVOW5lblpoU1NnTlNER0dz?oc=5"
         }
       ]
     },
