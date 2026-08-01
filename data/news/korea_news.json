@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-01T08:24:22.215271+00:00",
-  "total_fetched": 65,
-  "unique_count": 65,
+  "fetched_at": "2026-08-01T13:26:30.773760+00:00",
+  "total_fetched": 63,
+  "unique_count": 63,
   "health_related_count": 33,
   "news": [
+    {
+      "id": "dec4485c7a75",
+      "title": "“산모 배 속에서 자궁 2개 발견?” 제왕절개 중 무슨 일이 - 코메디닷컴",
+      "published": "2026-08-01T11:02:00+00:00",
+      "summary": "“산모 배 속에서 자궁 2개 발견?” 제왕절개 중 무슨 일이&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KMkVwWGI5c2JsVWZPNHhZNURKS2s1bG9wUF9Pa0JlaDJMOGpHY2FZWVp2SzB1Rmc3NTNvNmFJMFc5dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dab438049aee",
+      "title": "경추 퇴행성 질환 환자에게 요가의 3가지 이점 - Laodong.vn",
+      "published": "2026-08-01T10:00:00+00:00",
+      "summary": "경추 퇴행성 질환 환자에게 요가의 3가지 이점&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmoxdEFRcDlkZ1pUTmlBbnpCWmg5aGlUTlNSZ2UtcDZUSF90RGNkeVBTNHIya0dtXzIwdUZwTlh0Snk3aFNPZHN1S0hPaWowTnNweFA0bndMQkUyWkZzcUY3SEZ6d1FkS2JhWldKSnFLTzBhc1o1UFVWOWJ5WE44eHRJYUY3TGhDSTNGMXNsQlpuZFBLYmdmdlZWOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1958dbad386c",
+      "title": "많은 사람들이 과민성 대장 증후군을 앓고 있지만 조기에 발견되지 않습니다 - Laodong.vn",
+      "published": "2026-08-01T09:30:00+00:00",
+      "summary": "많은 사람들이 과민성 대장 증후군을 앓고 있지만 조기에 발견되지 않습니다&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1ZKcW9sV0Q3WjhYZWluemk3TDhjWjdhbnZqVXhlN0h4OHY0a1o1UGZjYm85NW5EcHY5WEtpRUhDc2poNDlFdEVGeDc1ZWJlcWxLa0xHUEppck9ObzI0TG9EUHBEYTBIX3RoUjFHR05BS0VaUHNwTWNBVDYxLV9YMU5WTmpJUkxpQXpkN0pHTndGM3Y4QXJrTmVBWWRseGZYR3pzbW45WFJrdTF5d29vaWJhdEV5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dde090fd5763",
+      "title": "혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴 - segye.com",
+      "published": "2026-08-01T07:40:00+00:00",
+      "summary": "혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴&nbsp;&nbsp;segye.com혈액 한 방울로 파킨슨병 후보 발굴…국내 연구진 단서 발견&nbsp;&nbsp;v.daum.net값비싼 뇌 영상 대신 혈액검사로…진단 보조 연구 진전&nbsp;&nbsp;tbc.co.kr시누클레인병증, 혈액 기반 진단 바이오마커 가능성 확인&nbsp;&nbsp;메디칼업저버칠곡경북대병원 이호원 교수팀, 파킨슨병 혈액 바이오마커 후보 발굴&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "segye.com",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03QmthSzg2Rl9Ub2sya3RfR1l5MFpmaGh6RXptLXAyUjVCYXd3NmstdWxMLW9FdHJEdjZMdkpRdHlhb3RPNDhMWmh3OURsbTJYRm5LaVZpYmfSAVRBVV95cUxNUTBxXzl6RVJSeHB3dmYtNUU4MzhiNXZXXy0zSDJBVG1pT1dQR3FkUmJITHJ1V1JWRUE3STZMQnBCUWF0bUZKZHlOQnN5N3p3MW1oMTY?oc=5"
+        }
+      ]
+    },
     {
       "id": "08de86cd5a67",
       "title": "HDAC5 사라지면 FOXA1이 HIF1α 개척…췌장암 새 치료 전략 - 바이오북미디어",
@@ -45,11 +93,23 @@
       "id": "9723734528f5",
       "title": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환? - 미디어데일",
       "published": "2026-07-31T22:40:15+00:00",
-      "summary": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?&nbsp;&nbsp;미디어데일[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;서울경제\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;bbc.com조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?&nbsp;&nbsp;미디어데일[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;sedaily.com\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;BBC조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "미디어데일",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNGw5VnFBYmpILXNPTFJ5YUV5bEFfR1V5eVl2WXZGd1UxZVZLZ216TGpKY0lUNzVyWmxyRlFKTllneHFaczRNeXFNTFpwNTZ4aGxSY3JBbzNqZGFfUHgtUUZDeE1BQjJGTXZDeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "712bb7c00cc2",
+      "title": "‘아침파 VS 저녁파’ 확연히 갈리는 산책 패턴···언제 나가야 심장에 더 좋을까 - 경향신문",
+      "published": "2026-07-31T21:00:00+00:00",
+      "summary": "‘아침파 VS 저녁파’ 확연히 갈리는 산책 패턴···언제 나가야 심장에 더 좋을까&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiYWwzYnV1Nk9iS1ItdC1hdzZ2QUZuYWJMYXViRndoWk0tb3F1TVBuYUo3YnJ0WVp2TEdpZWtwSFJ2eUtSeUdZMGVlX0hSaXpOT0cwRjNBSVQ4UdIBX0FVX3lxTFB2eEJDSVFXaElYc3RyZ0ZMVWM4aG0ySFhHR19jTVFyTlNIc090eVVjTFd0UXR3Qi1DNTlDSDFwazQ0T3NXbFJmSGZxUEdYVXU5MUwtYkxPejZ3dl9DY2lj?oc=5"
         }
       ]
     },
@@ -69,7 +129,7 @@
       "id": "40cee8eab172",
       "title": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배 - 뉴스에이",
       "published": "2026-07-31T18:58:37+00:00",
-      "summary": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배&nbsp;&nbsp;뉴스에이갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;hankookilbo.com착한 암이라더니… “갑상선암 환자, 골다공증 위험 정상인의 6.59배”&nbsp;&nbsp;헬스조선갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보갑상선암 환자, 골다공증 위험 6.6배…여성은 7.8배&nbsp;&nbsp;쿠키메디",
+      "summary": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배&nbsp;&nbsp;뉴스에이갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;한국일보착한 암이라더니… “갑상선암 환자, 골다공증 위험 정상인의 6.59배”&nbsp;&nbsp;헬스조선갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보갑상선암 환자, 골다공증 위험 6.6배…여성은 7.8배&nbsp;&nbsp;kukimedi.com",
       "sources": [
         {
           "name": "뉴스에이",
@@ -90,25 +150,13 @@
       ]
     },
     {
-      "id": "7cba4c7a68cc",
-      "title": "칠곡경북대병원-한국뇌연구원, “피 한 방울로 파킨슨병 찾는다” - 의학신문",
-      "published": "2026-07-31T13:41:58+00:00",
-      "summary": "칠곡경북대병원-한국뇌연구원, “피 한 방울로 파킨슨병 찾는다”&nbsp;&nbsp;의학신문혈액 한 방울로 파킨슨병 후보 발굴…국내 연구진 단서 발견&nbsp;&nbsp;v.daum.net값비싼 뇌 영상 대신 혈액검사로…진단 보조 연구 진전&nbsp;&nbsp;tbc.co.kr시누클레인병증, 혈액 기반 진단 바이오마커 가능성 확인&nbsp;&nbsp;메디칼업저버칠곡경북대병원 이호원 교수팀, 파킨슨병 혈액 바이오마커 후보 발굴&nbsp;&nbsp;의약뉴스",
-      "sources": [
-        {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmd0pWcTBnM04wT3I5T2R6Q0RETGkxdEM1TDJZc0UxM3NrT1JFUXhZV19UUmhXS0o5bEtSM09CWk9ZckYzTkV3b0doRXFzeEJpcktuM20tRldpVHlTRU9MSXBpMWY4Q1R4dnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2e2731c8841",
-      "title": "뇌심부자극술 받은 치매 환자, 운동 증상 좋아졌지만...회복은 부담 - dementianews.co.kr",
+      "id": "c60bbdb71b75",
+      "title": "뇌심부자극술 받은 치매 환자, 운동 증상 좋아졌지만...회복은 부담 - 디멘시아뉴스",
       "published": "2026-07-31T10:46:39+00:00",
-      "summary": "뇌심부자극술 받은 치매 환자, 운동 증상 좋아졌지만...회복은 부담&nbsp;&nbsp;dementianews.co.kr",
+      "summary": "뇌심부자극술 받은 치매 환자, 운동 증상 좋아졌지만...회복은 부담&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "dementianews.co.kr",
+          "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UUDFCTDlRQ3RmTFlDOVItUDdGUnRvVExUQjE3cC1wLXlJYTVreHZqc2lDS1F0VTNHbXZ0dDBxZmFaX0hqUWtrTFU5X3hQQmlSWEk1OVk3cDM5M3QxZDlRRjc5YU1EcWlxNVZHa3lwNklJdw?oc=5"
         }
       ]
@@ -141,7 +189,7 @@
       "id": "40e821b4ce96",
       "title": "현대바이오, 제프티 H1N1 증식 99.2% 억제 확인 - 금강일보",
       "published": "2026-07-31T01:40:33+00:00",
-      "summary": "현대바이오, 제프티 H1N1 증식 99.2% 억제 확인&nbsp;&nbsp;금강일보현대바이오 \"항바이러스제 후보 물질, 오가노이드서 효과 확인\"&nbsp;&nbsp;연합뉴스현대바이오 '제프티', 인간 폐포 모델서 인플루엔자A 99.2% 억제 확인 - 머니투데이&nbsp;&nbsp;머니투데이[제약바이오 소식] 제프티, 장기유사체서 A형 독감 바이러스 99.2% 억제 확인&nbsp;&nbsp;한겨레현대바이오 제프티, 인체 폐 조직 모델서 항바이러스 효능 재확인&nbsp;&nbsp;약사공론",
+      "summary": "현대바이오, 제프티 H1N1 증식 99.2% 억제 확인&nbsp;&nbsp;금강일보현대바이오 \"항바이러스제 후보 물질, 오가노이드서 효과 확인\"&nbsp;&nbsp;연합뉴스현대바이오 '제프티', 인간 폐포 모델서 인플루엔자A 99.2% 억제 확인 - 머니투데이&nbsp;&nbsp;머니투데이[제약바이오 소식] 제프티, 장기유사체서 A형 독감 바이러스 99.2% 억제 확인&nbsp;&nbsp;hani.co.kr현대바이오 제프티, 인체 폐 조직 모델서 항바이러스 효능 재확인&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "금강일보",
@@ -237,7 +285,7 @@
       "id": "48e70ec8a255",
       "title": "“기억력 떨어졌다면 당장 시작하라”… 전문가 추천 습관 5가지 - 헬스조선",
       "published": "2026-07-30T20:30:00+00:00",
-      "summary": "“기억력 떨어졌다면 당장 시작하라”… 전문가 추천 습관 5가지&nbsp;&nbsp;헬스조선‘생로병사의 비밀’ 꽃보다 뇌 청춘···80대에도 45세 기억력 지키는 습관 공개&nbsp;&nbsp;스포츠경향'아침마당' 정지향 \"치매 예방법, 신문 일기 쓰기+코그니사이즈+게임\"&nbsp;&nbsp;news.nate.com80대에 45세 기억력 유지… '슈퍼에이저'들의 뇌 단련 비법&nbsp;&nbsp;gukjenews.com60세 이후 치매 위험, 늦지 않았다… 생활습관이 뇌 건강을 바꾼다&nbsp;&nbsp;kairnews.com",
+      "summary": "“기억력 떨어졌다면 당장 시작하라”… 전문가 추천 습관 5가지&nbsp;&nbsp;헬스조선‘생로병사의 비밀’ 꽃보다 뇌 청춘···80대에도 45세 기억력 지키는 습관 공개&nbsp;&nbsp;스포츠경향'아침마당' 정지향 \"치매 예방법, 신문 일기 쓰기+코그니사이즈+게임\"&nbsp;&nbsp;네이트80대에 45세 기억력 유지… '슈퍼에이저'들의 뇌 단련 비법&nbsp;&nbsp;gukjenews.com60세 이후 치매 위험, 늦지 않았다… 생활습관이 뇌 건강을 바꾼다&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
           "name": "헬스조선",
@@ -258,13 +306,13 @@
       ]
     },
     {
-      "id": "3df777df2c26",
-      "title": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배 - healtho.co.kr",
+      "id": "c460349319d8",
+      "title": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배 - 헬스오",
       "published": "2026-07-30T19:33:17+00:00",
-      "summary": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배&nbsp;&nbsp;healtho.co.kr\"금연 후 체중 5% 이상 줄어들면 고관절 골절 위험 2배↑\"&nbsp;&nbsp;연합뉴스체중 감량은 금연 장점? “5% 이상 감소하면 고관절 골절 위험 증가”&nbsp;&nbsp;헬스조선“금연하니까 살도 빠지네?” 좋은 일만은 아니었다…고관절 골절 위험 ‘확’ 커진다는데 [헬시타임]&nbsp;&nbsp;서울경제금연 후 급격한 체중 감소, 고관절 골절 위험 높인다&nbsp;&nbsp;hankookilbo.com",
+      "summary": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배&nbsp;&nbsp;헬스오\"금연 후 체중 5% 이상 줄어들면 고관절 골절 위험 2배↑\"&nbsp;&nbsp;연합뉴스체중 감량은 금연 장점? “5% 이상 감소하면 고관절 골절 위험 증가”&nbsp;&nbsp;헬스조선“금연하니까 살도 빠지네?” 좋은 일만은 아니었다…고관절 골절 위험 ‘확’ 커진다는데 [헬시타임]&nbsp;&nbsp;sedaily.com금연 후 급격한 체중 감소, 고관절 골절 위험 높인다&nbsp;&nbsp;한국일보",
       "sources": [
         {
-          "name": "healtho.co.kr",
+          "name": "헬스오",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VbWtGMWFUU2phQTg4WFoxbHlRNFNjY2NsTFpSMDNNR1QzdzlJM01qRUlkaVBYN0tpaXdKdUd2U2U0a2tvejczT1hUek5MR0ZObVUzZE95V2Zmdw?oc=5"
         }
       ]
@@ -294,38 +342,14 @@
       ]
     },
     {
-      "id": "7070202a982a",
-      "title": "호치민시 감염병 협회 지도부, 수족구병 환자 감소의 어려움에 대해 언급 - Laodong.vn",
-      "published": "2026-07-30T09:34:12+00:00",
-      "summary": "호치민시 감염병 협회 지도부, 수족구병 환자 감소의 어려움에 대해 언급&nbsp;&nbsp;Laodong.vn예측할 수 없는 날씨 때문에 아이들은 호흡기 질환에 더 취약해집니다.&nbsp;&nbsp;Vietnam.vn포히엔동 리엔푸옹 주거지역에서 발생한 뎅기열 확산을 억제하고 통제한다.&nbsp;&nbsp;Vietnam.vn예측 불가능한 날씨 패턴으로 인해 많은 질병이 성수기에 접어들 것이라고 의사들은 경고합니다.&nbsp;&nbsp;Vietnam.vn과체중 어린이에게서 심각한 뎅기열이 발생할 수 있다는 경고.&nbsp;&nbsp;Vietnam.vn",
+      "id": "4ae3ced27f47",
+      "title": "논바닥처럼 쩍쩍 갈라졌네…큐리오시티, 화성서 ‘벌집 모양 지형’ 발견 [우주를 보다] - 나우뉴스",
+      "published": "2026-07-30T10:30:00+00:00",
+      "summary": "논바닥처럼 쩍쩍 갈라졌네…큐리오시티, 화성서 ‘벌집 모양 지형’ 발견 [우주를 보다]&nbsp;&nbsp;나우뉴스",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1htdFo2OGk3bkJNM3diSHhzaWpXeERyWm4xdDF3cnEycm5ldmZmX2wxNXFkVno0RHBhcV93RHhkcGFQbjB0YTRDY21CX1NXLWFsUmdRNkE2WEZUaWIxa0stdTZZN1BYLTBOeUZTN2tXYmFJV2tSdTlhbE9sRVpHSW83ZWg5OHpfeVJHQjB2bXprZ09ENmVLTktSaE9SMkozSDhWdERka1JBNWZTYkQ3alJzd3Y1VlRERUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc78b24b748f",
-      "title": "“농약 중독사고 예방-생활속 안전습관 만들기” - 무안신문",
-      "published": "2026-07-30T07:44:44+00:00",
-      "summary": "“농약 중독사고 예방-생활속 안전습관 만들기”&nbsp;&nbsp;무안신문여름철 살충제 잘못 뿌렸다간 혈당 치솟는다? \"당뇨병 위험 51%↑\" - 머니투데이&nbsp;&nbsp;머니투데이여름철 농가 농약·해충약 주의…\"당뇨 위험 51% 높인다\"&nbsp;&nbsp;뉴시스고려대 연구진 “수십 년 전 금지된 농약의 비극”… 체내 쌓인 살충제, 당뇨·갑상선 질환 키운다&nbsp;&nbsp;스마트경제“여름철 해충약·농약 노출 주의”…고려대학교 강지승 교수팀 “당뇨병 위험 51% 증가” 확인&nbsp;&nbsp;한국강사신문",
-      "sources": [
-        {
-          "name": "무안신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faEJMb1U2S05Pc3l6V010SlhSNFV5WTZzS1Q3VjFNUUk5SGVRMDFZOTMteXZEZlNmWTNwT1BsOTVOc1F2dEVZeGNjTmlvWlVNYnhJT0Jfc3pkUGFwaU5wcjFpZXllWHRhMGfSAW5BVV95cUxPV3h0b3VnRHA3NmY3ZzB3aU5IajZLeDNCUWVwWldRWExsMldHMzdlM2plTUR3YXczRDRkOTktSFBLQWdpOUV5ZjdsM3RuOVFSd1c1RUk2YlpZNkg4eXhraF9xZ2xKSWhYSkRLZTh4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d12e720f00c7",
-      "title": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐 - 코메디닷컴",
-      "published": "2026-07-30T07:21:00+00:00",
-      "summary": "아토피 가려워 항히스타민제 먹었는데…효과는 ‘체감 기준’ 못 미쳐&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5scWhaRzBoek1iX0JkWXBNclRORV9VY2hTbWs5MHFUaF92RGw5dXNtQXREbzByTWhvTEswbEVQX3JKUQ?oc=5"
+          "name": "나우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQVZlMVFMQm4zZXA3VElMc0w0cnVmM3drU0UydUM2MWFPSUxjU1NKLTJoeUNUNnRJNlY0ZWh0azdabFFYakd4UG1WUEFRUTdZbFB0bVNuYzJpZGVsdFM3QjJtMElLalJtZXQ2SXdxOG8?oc=5"
         }
       ]
     },
@@ -342,13 +366,13 @@
       ]
     },
     {
-      "id": "3bcf7cf23c89",
-      "title": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장 - 한겨레",
+      "id": "2af581b6ff39",
+      "title": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장 - hani.co.kr",
       "published": "2026-07-30T06:36:00+00:00",
-      "summary": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장&nbsp;&nbsp;한겨레",
+      "summary": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장&nbsp;&nbsp;hani.co.kr",
       "sources": [
         {
-          "name": "한겨레",
+          "name": "hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMUJrZFpiRkFLX2pVZmZVcXpwZjNTeW1fWHBHcXluaWRsMGFMZWdPSXNTUG8ySUxFQlZlMllOczBhVDBaQkVDR2JlelBmeHpLam5BenJUTml4aF9mNFlJOUdNZGFJMEJpWXRQd3hnOEptZw?oc=5"
         }
       ]
@@ -366,38 +390,14 @@
       ]
     },
     {
-      "id": "356351236bf3",
-      "title": "'34-60-78에 주목하라'…건강 수명에 필요한 '근육 저축'\r[과학적, 내 몸 사용 설명서] - hankookilbo.com",
+      "id": "b0590a7d27b3",
+      "title": "'34-60-78에 주목하라'…건강 수명에 필요한 '근육 저축'\r[과학적, 내 몸 사용 설명서] - 한국일보",
       "published": "2026-07-29T19:30:00+00:00",
-      "summary": "'34-60-78에 주목하라'…건강 수명에 필요한 '근육 저축' [과학적, 내 몸 사용 설명서]&nbsp;&nbsp;hankookilbo.com",
+      "summary": "'34-60-78에 주목하라'…건강 수명에 필요한 '근육 저축' [과학적, 내 몸 사용 설명서]&nbsp;&nbsp;한국일보",
       "sources": [
         {
-          "name": "hankookilbo.com",
+          "name": "한국일보",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90TUdWckJ1dkRlTFNOMGplaWZ3U0hCTzhMTzVFc1hXeWh2eHJrTXFRa3BJSVhMMENXbFdMRUJBNkJiSVNtS0hTakpWSjdtYWxNQlZZeC15RmxyMzNBXzFOYUdYWHBIUlVFZ1pmaGpB0gFzQVVfeXFMUHhUVmFEMTl4YXRDWmtyRFNrUXNBOTFiUEdCS0didUNwei12VXpnekJDY0JsT3VEREdMTUVPZ1FFS25rX3FzcmpJUWM3aUVaUWpPTlV5WE9FTTlUMnQwOC13Q0wzTnJZRDBmT18zMGRjaEpDQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abf0f3d3d515",
-      "title": "유용균 단장 \"2035년되면 과학자가 곧 하나의 연구소\" - 지디넷코리아",
-      "published": "2026-07-29T09:22:25+00:00",
-      "summary": "유용균 단장 \"2035년되면 과학자가 곧 하나의 연구소\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwNWhQbzctZkpseXAtNmJIZjBMS19IX1p3bC1weTdSakN3YWt3UVN1RzVDcUNIT3RLc3dhT3dqU2hEWFJ1U21XRWJJTWI3LWN1MW50Qy13?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "576bf4647884",
-      "title": "릴리, 내년에 '더 센 비만약' 들고 온다 - 매일경제",
-      "published": "2026-07-29T08:48:43+00:00",
-      "summary": "릴리, 내년에 '더 센 비만약' 들고 온다&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xVnRKWnhvZEdraDZLUlpOOFBEU0dmbEs2N0tuVjlxdHo4VWVtd1BZd0c5a2YzRlY1bGJFRE1odGxLYkdxZnkxQ0NJVGtXZw?oc=5"
         }
       ]
     }
