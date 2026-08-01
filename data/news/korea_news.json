@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-01T13:26:30.773760+00:00",
-  "total_fetched": 63,
-  "unique_count": 63,
-  "health_related_count": 33,
+  "fetched_at": "2026-08-01T19:12:06.633140+00:00",
+  "total_fetched": 60,
+  "unique_count": 60,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "368b6c4150e9",
+      "title": "\"아침 굶으면 큰일?\"⋯오히려 안 먹었더니 생기는 '긍정적 변화' - 아이뉴스24",
+      "published": "2026-08-01T15:00:02+00:00",
+      "summary": "\"아침 굶으면 큰일?\"⋯오히려 안 먹었더니 생기는 '긍정적 변화'&nbsp;&nbsp;아이뉴스24“아침에 ‘이것’ 먹으면 뇌 폭삭 늙는다?”⋯피해야 할 음식 vs 좋은 음식&nbsp;&nbsp;코메디닷컴[의사들이 매일 실천하는 건강습관 ⑦] 아침 식사를 거르면 몸에서 벌어지는 일&nbsp;&nbsp;전국뉴스\"아침 굶는 순간, 하루 식단이 무너졌다\" 청소년 건강 흔드는 '첫 끼의 법칙’&nbsp;&nbsp;용인신문올리브유? 단식?…전문가 \"아침 공복 '이렇게', 독소 빠지고 질병 사라져\"&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96VVdTQVBfWFJpTUlsNU5weXBMRjJjREZDQ1c2NWstaWFQclBjeWc0UEZMaGV0Zmd1NFg0d0o3MXBTaW9GcmNGNko4TQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "dec4485c7a75",
       "title": "“산모 배 속에서 자궁 2개 발견?” 제왕절개 중 무슨 일이 - 코메디닷컴",
@@ -93,7 +105,7 @@
       "id": "9723734528f5",
       "title": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환? - 미디어데일",
       "published": "2026-07-31T22:40:15+00:00",
-      "summary": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?&nbsp;&nbsp;미디어데일[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;sedaily.com\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;BBC조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?&nbsp;&nbsp;미디어데일[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;서울경제\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;BBC조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "미디어데일",
@@ -129,7 +141,7 @@
       "id": "40cee8eab172",
       "title": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배 - 뉴스에이",
       "published": "2026-07-31T18:58:37+00:00",
-      "summary": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배&nbsp;&nbsp;뉴스에이갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;한국일보착한 암이라더니… “갑상선암 환자, 골다공증 위험 정상인의 6.59배”&nbsp;&nbsp;헬스조선갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보갑상선암 환자, 골다공증 위험 6.6배…여성은 7.8배&nbsp;&nbsp;kukimedi.com",
+      "summary": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배&nbsp;&nbsp;뉴스에이갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;한국일보착한 암이라더니… “갑상선암 환자, 골다공증 위험 정상인의 6.59배”&nbsp;&nbsp;헬스조선갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보갑상선암 환자, 골다공증 위험 6.6배…여성은 7.8배&nbsp;&nbsp;쿠키메디",
       "sources": [
         {
           "name": "뉴스에이",
@@ -189,7 +201,7 @@
       "id": "40e821b4ce96",
       "title": "현대바이오, 제프티 H1N1 증식 99.2% 억제 확인 - 금강일보",
       "published": "2026-07-31T01:40:33+00:00",
-      "summary": "현대바이오, 제프티 H1N1 증식 99.2% 억제 확인&nbsp;&nbsp;금강일보현대바이오 \"항바이러스제 후보 물질, 오가노이드서 효과 확인\"&nbsp;&nbsp;연합뉴스현대바이오 '제프티', 인간 폐포 모델서 인플루엔자A 99.2% 억제 확인 - 머니투데이&nbsp;&nbsp;머니투데이[제약바이오 소식] 제프티, 장기유사체서 A형 독감 바이러스 99.2% 억제 확인&nbsp;&nbsp;hani.co.kr현대바이오 제프티, 인체 폐 조직 모델서 항바이러스 효능 재확인&nbsp;&nbsp;약사공론",
+      "summary": "현대바이오, 제프티 H1N1 증식 99.2% 억제 확인&nbsp;&nbsp;금강일보현대바이오 \"항바이러스제 후보 물질, 오가노이드서 효과 확인\"&nbsp;&nbsp;yna.co.kr현대바이오 '제프티', 인간 폐포 모델서 인플루엔자A 99.2% 억제 확인 - 머니투데이&nbsp;&nbsp;머니투데이[제약바이오 소식] 제프티, 장기유사체서 A형 독감 바이러스 99.2% 억제 확인&nbsp;&nbsp;한겨레현대바이오 제프티, 인체 폐 조직 모델서 항바이러스 효능 재확인&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "금강일보",
@@ -309,35 +321,11 @@
       "id": "c460349319d8",
       "title": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배 - 헬스오",
       "published": "2026-07-30T19:33:17+00:00",
-      "summary": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배&nbsp;&nbsp;헬스오\"금연 후 체중 5% 이상 줄어들면 고관절 골절 위험 2배↑\"&nbsp;&nbsp;연합뉴스체중 감량은 금연 장점? “5% 이상 감소하면 고관절 골절 위험 증가”&nbsp;&nbsp;헬스조선“금연하니까 살도 빠지네?” 좋은 일만은 아니었다…고관절 골절 위험 ‘확’ 커진다는데 [헬시타임]&nbsp;&nbsp;sedaily.com금연 후 급격한 체중 감소, 고관절 골절 위험 높인다&nbsp;&nbsp;한국일보",
+      "summary": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배&nbsp;&nbsp;헬스오\"금연 후 체중 5% 이상 줄어들면 고관절 골절 위험 2배↑\"&nbsp;&nbsp;yna.co.kr체중 감량은 금연 장점? “5% 이상 감소하면 고관절 골절 위험 증가”&nbsp;&nbsp;헬스조선“금연하니까 살도 빠지네?” 좋은 일만은 아니었다…고관절 골절 위험 ‘확’ 커진다는데 [헬시타임]&nbsp;&nbsp;서울경제금연 후 급격한 체중 감소, 고관절 골절 위험 높인다&nbsp;&nbsp;한국일보",
       "sources": [
         {
           "name": "헬스오",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VbWtGMWFUU2phQTg4WFoxbHlRNFNjY2NsTFpSMDNNR1QzdzlJM01qRUlkaVBYN0tpaXdKdUd2U2U0a2tvejczT1hUek5MR0ZObVUzZE95V2Zmdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "539f8e143950",
-      "title": "“피부에 생긴 변화, 암 때문이었다”… 70대 남성 겪은 ‘의외의 증상’ - 헬스조선",
-      "published": "2026-07-30T18:30:00+00:00",
-      "summary": "“피부에 생긴 변화, 암 때문이었다”… 70대 남성 겪은 ‘의외의 증상’&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yZWtVNk9wRFV1aUk2UDJnamlmTDk1WTZmVmFUWkx2ZmdYelR1ajB4cGlzaURiSDRVOG11NUc0NTB4VHZscWZRSDVqamZVT0owUTJyVnV0eloxam9HQnFsYll2QjRCY0RJQ3lab19pT2hNd0hWS2kwZkc1d1k5Wk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36570066d9c9",
-      "title": "몸속 염증 줄이는 ‘퀘르세틴’⋯양파보다 많이 든 음식 3가지는? - 코메디닷컴",
-      "published": "2026-07-30T14:01:00+00:00",
-      "summary": "몸속 염증 줄이는 ‘퀘르세틴’⋯양파보다 많이 든 음식 3가지는?&nbsp;&nbsp;코메디닷컴\"붓고, 피곤하고, 잇몸에서 피가 난다면 몸속 염증 신호?\"…만성질환 막는 항염 식습관 주목&nbsp;&nbsp;라이프인“색이 진할수록 좋다?” 영양사가 꼽은 항염 식품 구별법&nbsp;&nbsp;조세일보착한 염증, 나쁜 염증을 아시나요?&nbsp;&nbsp;독서신문",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1NUnlVcldwMHpqMXRpWXJmUW5FeGRLVnhIRDhGWUE1MHl1QjIzd0Q0ZXJwSDJnWU55NldsZThNTG9VZw?oc=5"
         }
       ]
     },
@@ -366,13 +354,13 @@
       ]
     },
     {
-      "id": "2af581b6ff39",
-      "title": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장 - hani.co.kr",
+      "id": "3bcf7cf23c89",
+      "title": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장 - 한겨레",
       "published": "2026-07-30T06:36:00+00:00",
-      "summary": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장&nbsp;&nbsp;hani.co.kr",
+      "summary": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "hani.co.kr",
+          "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMUJrZFpiRkFLX2pVZmZVcXpwZjNTeW1fWHBHcXluaWRsMGFMZWdPSXNTUG8ySUxFQlZlMllOczBhVDBaQkVDR2JlelBmeHpLam5BenJUTml4aF9mNFlJOUdNZGFJMEJpWXRQd3hnOEptZw?oc=5"
         }
       ]
