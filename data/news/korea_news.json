@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-02T13:27:02.743570+00:00",
-  "total_fetched": 40,
-  "unique_count": 40,
+  "fetched_at": "2026-08-02T19:14:15.990255+00:00",
+  "total_fetched": 34,
+  "unique_count": 34,
   "health_related_count": 16,
   "news": [
+    {
+      "id": "d1de7d4ac163",
+      "title": "“암 위험 높인다”… 의사들 함부로 안 먹는다는 ‘약’의 정체는? - 헬스조선",
+      "published": "2026-08-02T18:00:00+00:00",
+      "summary": "“암 위험 높인다”… 의사들 함부로 안 먹는다는 ‘약’의 정체는?&nbsp;&nbsp;헬스조선\"암을 예방하는 약은 없다\"…전문의 \"건강한 생활습관이 최선의 예방법\"&nbsp;&nbsp;굿모닝베트남미디어젠파르마(Genfarma)가 GMP 인증을 획득하며 생명공학 분야의 목표를 실현했습니다.&nbsp;&nbsp;Vietnam.vn암 예방 및 치료에 사용할 수 있는 약물이 점점 더 많이 개발되고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DN2JKOGJHNEtJaEwwejZqbzVZcVFBRnB3QXktOWdEbG9XQm9IVldNZ2UzWldKWWQzMGpNZ2FwUlJqV1pUUlN4RGlsV2MzWWFUSEZ1TVZBcS0wVGxybmNrck1TaVp1dENNbDBhRE81eEpWREZyR0x5Rmh6S295UkE?oc=5"
+        }
+      ]
+    },
     {
       "id": "1f8db512ee3b",
       "title": "“16세 소녀, 개구리처럼 눈두덩이 퉁퉁”…‘이 질환’ 첫 신호였다 - 코메디닷컴",
@@ -114,14 +126,14 @@
       ]
     },
     {
-      "id": "fbc30b55733e",
-      "title": "[지금, 명의] \"생리 아닌데 출혈 보이면…자궁내막암 신호일 수도\" - 네이트",
-      "published": "2026-07-31T22:03:10+00:00",
-      "summary": "[지금, 명의] \"생리 아닌데 출혈 보이면…자궁내막암 신호일 수도\"&nbsp;&nbsp;네이트[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;서울경제\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;BBC조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "f2ab32998fe2",
+      "title": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환? - mediadale.com",
+      "published": "2026-07-31T22:40:15+00:00",
+      "summary": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?&nbsp;&nbsp;mediadale.com[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;서울경제\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;Vietnam.vn생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XNkNxVG5QTXFtM2RtV1JZeU9JVnFaRHdES1g4SEpSMGRlN1ROeW50NXBtVFp5dFZqTmNURVMwdWlXSkZxV21sMXUyRnozakhndzc1Rk1R?oc=5"
+          "name": "mediadale.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMVmR2aEMycEFHdHVBMXdRaGltY2dwR2dlYTh2c1huQnpsTlVSVXpkakt4ZzdIeUNQWlRfc2toLXdnYXVkaUZjLVF0WmZQUjZYRE85cjAwSXpJWmgxQlJiOW1ZSDNhdTk4bzdz?oc=5"
         }
       ]
     },
@@ -146,18 +158,6 @@
         {
           "name": "애틀랜타 중앙일보",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84eVc3ZHU1dlVHZDRyVkdSODVkeERsNmlhTk5EMFBTNU56dGVxUzB4a2U4bWFBcUVWRjJxUEc4R1FrblNNOVAtUGllS2tWSTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a66f31b361ee",
-      "title": "“난소암 전이 일으킨다”… ‘안 먹는 게 가장 좋은’ 음식, 뭐야? - 헬스조선",
-      "published": "2026-07-31T14:01:00+00:00",
-      "summary": "“난소암 전이 일으킨다”… ‘안 먹는 게 가장 좋은’ 음식, 뭐야?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mOTl6dmdYbG1oN2dPVEpyU3pkU0Fzcm8tb25CTWtMTURBbktONnZfdURKSUw1dVY5U1lDOEhMX3JJVzZpMHR5VHNIemhnZG5PVXd2NmVGcmlsQXJ2VTNsVkJmLUNBcjR5X0pYdF9EQzJPSksxYUJzaHdfWlpqcFU?oc=5"
         }
       ]
     },
