@@ -1,9 +1,9 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-02T03:16:03.736096+00:00",
-  "total_fetched": 47,
-  "unique_count": 47,
-  "health_related_count": 20,
+  "fetched_at": "2026-08-02T08:27:25.895283+00:00",
+  "total_fetched": 42,
+  "unique_count": 41,
+  "health_related_count": 18,
   "news": [
     {
       "id": "4dc553ebc426",
@@ -14,6 +14,18 @@
         {
           "name": "edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWJWTG42Mk1kXzV2VGNwcktUSzB6U0JudkFDR2N0SlNTcXhXM1BieWM2OGRycTJLckpjVWxIOUFBakluU24zQkxzV2VydmZzcTNlbXd5andNNGxpRlRSM0tqYXZZdy15VUhVUzAxdUE5cy1Nem9oRVZNTVVRSjBEdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd77f45020a6",
+      "title": "우주에서 노화 20~25% 더 빨라져…세균 감염도 우려 수준 - 지디넷코리아",
+      "published": "2026-08-01T23:00:01+00:00",
+      "summary": "우주에서 노화 20~25% 더 빨라져…세균 감염도 우려 수준&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VODRRT2JFYktsa0szcE1lb0NTYjBpM1g2ZmtETURyR25TQ2c0MjlMNEgwLWNyVGo5Zm5HRTh6UVlsYXhCb0R3aFBOUGU0V29yUERPZ2x3?oc=5"
         }
       ]
     },
@@ -50,18 +62,6 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1ZKcW9sV0Q3WjhYZWluemk3TDhjWjdhbnZqVXhlN0h4OHY0a1o1UGZjYm85NW5EcHY5WEtpRUhDc2poNDlFdEVGeDc1ZWJlcWxLa0xHUEppck9ObzI0TG9EUHBEYTBIX3RoUjFHR05BS0VaUHNwTWNBVDYxLV9YMU5WTmpJUkxpQXpkN0pHTndGM3Y4QXJrTmVBWWRseGZYR3pzbW45WFJrdTF5d29vaWJhdEV5QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e1347ca4bbb8",
-      "title": "혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴 - 네이트",
-      "published": "2026-08-01T07:42:00+00:00",
-      "summary": "혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50VkdPczNEOExjQjVaYkJSOGFMRGo3cVZHLVE2elczYXlVaGJYVkVweHpMSjc5enVtaFhHWTJ0NHNCamdJY1FRaFRYS0xER0t4M3JiZHFORGltY1ZxV0RQVQ?oc=5"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "id": "9723734528f5",
       "title": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환? - 미디어데일",
       "published": "2026-07-31T22:40:15+00:00",
-      "summary": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?&nbsp;&nbsp;미디어데일[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;서울경제\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;BBC조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;vietnam.vn",
+      "summary": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?&nbsp;&nbsp;미디어데일[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;서울경제\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;BBC조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "미디어데일",
@@ -114,25 +114,25 @@
       ]
     },
     {
-      "id": "712bb7c00cc2",
-      "title": "‘아침파 VS 저녁파’ 확연히 갈리는 산책 패턴···언제 나가야 심장에 더 좋을까 - 경향신문",
+      "id": "12964ab6e808",
+      "title": "‘아침파 VS 저녁파’ 확연히 갈리는 산책 패턴···언제 나가야 심장에 더 좋을까 - khan.co.kr",
       "published": "2026-07-31T21:00:00+00:00",
-      "summary": "‘아침파 VS 저녁파’ 확연히 갈리는 산책 패턴···언제 나가야 심장에 더 좋을까&nbsp;&nbsp;경향신문",
+      "summary": "‘아침파 VS 저녁파’ 확연히 갈리는 산책 패턴···언제 나가야 심장에 더 좋을까&nbsp;&nbsp;khan.co.kr",
       "sources": [
         {
-          "name": "경향신문",
+          "name": "khan.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiYWwzYnV1Nk9iS1ItdC1hdzZ2QUZuYWJMYXViRndoWk0tb3F1TVBuYUo3YnJ0WVp2TEdpZWtwSFJ2eUtSeUdZMGVlX0hSaXpOT0cwRjNBSVQ4UdIBX0FVX3lxTFB2eEJDSVFXaElYc3RyZ0ZMVWM4aG0ySFhHR19jTVFyTlNIc090eVVjTFd0UXR3Qi1DNTlDSDFwazQ0T3NXbFJmSGZxUEdYVXU5MUwtYkxPejZ3dl9DY2lj?oc=5"
         }
       ]
     },
     {
-      "id": "30735701b3b8",
-      "title": "[김홍영의 살며 배우며] 내가 당뇨병 교육에 간 이유 - 애틀랜타 중앙일보",
+      "id": "7236f089e598",
+      "title": "[김홍영의 살며 배우며] 내가 당뇨병 교육에 간 이유 - atlantajoongang.com",
       "published": "2026-07-31T20:34:52+00:00",
-      "summary": "[김홍영의 살며 배우며] 내가 당뇨병 교육에 간 이유&nbsp;&nbsp;애틀랜타 중앙일보",
+      "summary": "[김홍영의 살며 배우며] 내가 당뇨병 교육에 간 이유&nbsp;&nbsp;atlantajoongang.com",
       "sources": [
         {
-          "name": "애틀랜타 중앙일보",
+          "name": "atlantajoongang.com",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84eVc3ZHU1dlVHZDRyVkdSODVkeERsNmlhTk5EMFBTNU56dGVxUzB4a2U4bWFBcUVWRjJxUEc4R1FrblNNOVAtUGllS2tWSTA?oc=5"
         }
       ]
@@ -210,18 +210,6 @@
       ]
     },
     {
-      "id": "76d5e75f3db3",
-      "title": "\"우주서 세균 감염 더 취약\"…아폴로 7호 '우주선 감기' 미스터리 풀렸다 - 네이트",
-      "published": "2026-07-30T19:35:00+00:00",
-      "summary": "\"우주서 세균 감염 더 취약\"…아폴로 7호 '우주선 감기' 미스터리 풀렸다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEaTdGWHplTHItUXhhdjFXdEdXd21xMi1heFdMS1NCOUdpbmxpeVFHZllfWjFRV3lBUDV0RUtjNmJWVUlDNnV1NkdEYUYweGFHdkt3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4ae3ced27f47",
       "title": "논바닥처럼 쩍쩍 갈라졌네…큐리오시티, 화성서 ‘벌집 모양 지형’ 발견 [우주를 보다] - 나우뉴스",
       "published": "2026-07-30T10:30:00+00:00",
@@ -230,18 +218,6 @@
         {
           "name": "나우뉴스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQVZlMVFMQm4zZXA3VElMc0w0cnVmM3drU0UydUM2MWFPSUxjU1NKLTJoeUNUNnRJNlY0ZWh0azdabFFYakd4UG1WUEFRUTdZbFB0bVNuYzJpZGVsdFM3QjJtMElLalJtZXQ2SXdxOG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6ded6e2ebab7",
-      "title": "암 치료 혁신 이끌까…단백질 기능 유지하며 크기만 바꾸는 AI '레이건' - 동아사이언스",
-      "published": "2026-07-30T07:00:00+00:00",
-      "summary": "암 치료 혁신 이끌까…단백질 기능 유지하며 크기만 바꾸는 AI '레이건'&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15M2tqd2pIdUo0LU1ablQ1d0MtQTFKOWlwQ0U4dmoyekNYZ3dTMVZOT3hSdXZPaFYtaVhuMHRKZy1XMDM2VTF5dXBQNWw0SXNLWG1NUQ?oc=5"
         }
       ]
     }
