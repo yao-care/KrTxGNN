@@ -1,19 +1,19 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-01T19:12:06.633140+00:00",
-  "total_fetched": 60,
-  "unique_count": 60,
-  "health_related_count": 32,
+  "fetched_at": "2026-08-02T03:16:03.736096+00:00",
+  "total_fetched": 47,
+  "unique_count": 47,
+  "health_related_count": 20,
   "news": [
     {
-      "id": "368b6c4150e9",
-      "title": "\"아침 굶으면 큰일?\"⋯오히려 안 먹었더니 생기는 '긍정적 변화' - 아이뉴스24",
-      "published": "2026-08-01T15:00:02+00:00",
-      "summary": "\"아침 굶으면 큰일?\"⋯오히려 안 먹었더니 생기는 '긍정적 변화'&nbsp;&nbsp;아이뉴스24“아침에 ‘이것’ 먹으면 뇌 폭삭 늙는다?”⋯피해야 할 음식 vs 좋은 음식&nbsp;&nbsp;코메디닷컴[의사들이 매일 실천하는 건강습관 ⑦] 아침 식사를 거르면 몸에서 벌어지는 일&nbsp;&nbsp;전국뉴스\"아침 굶는 순간, 하루 식단이 무너졌다\" 청소년 건강 흔드는 '첫 끼의 법칙’&nbsp;&nbsp;용인신문올리브유? 단식?…전문가 \"아침 공복 '이렇게', 독소 빠지고 질병 사라져\"&nbsp;&nbsp;네이트",
+      "id": "4dc553ebc426",
+      "title": "'여성 갑상선암 환자, 50세 미만일수록 골다공증 위험 급증' 밝혀져 - edaily.co.kr",
+      "published": "2026-08-02T00:06:01+00:00",
+      "summary": "'여성 갑상선암 환자, 50세 미만일수록 골다공증 위험 급증' 밝혀져&nbsp;&nbsp;edaily.co.kr갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배&nbsp;&nbsp;뉴스에이갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;한국일보갑상선암 치료 후 골다공증 위험 최대 6배&nbsp;&nbsp;헬스포커스뉴스",
       "sources": [
         {
-          "name": "아이뉴스24",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96VVdTQVBfWFJpTUlsNU5weXBMRjJjREZDQ1c2NWstaWFQclBjeWc0UEZMaGV0Zmd1NFg0d0o3MXBTaW9GcmNGNko4TQ?oc=5"
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWJWTG42Mk1kXzV2VGNwcktUSzB6U0JudkFDR2N0SlNTcXhXM1BieWM2OGRycTJLckpjVWxIOUFBakluU24zQkxzV2VydmZzcTNlbXd5andNNGxpRlRSM0tqYXZZdy15VUhVUzAxdUE5cy1Nem9oRVZNTVVRSjBEdA?oc=5"
         }
       ]
     },
@@ -54,14 +54,14 @@
       ]
     },
     {
-      "id": "dde090fd5763",
-      "title": "혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴 - segye.com",
-      "published": "2026-08-01T07:40:00+00:00",
-      "summary": "혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴&nbsp;&nbsp;segye.com혈액 한 방울로 파킨슨병 후보 발굴…국내 연구진 단서 발견&nbsp;&nbsp;v.daum.net값비싼 뇌 영상 대신 혈액검사로…진단 보조 연구 진전&nbsp;&nbsp;tbc.co.kr시누클레인병증, 혈액 기반 진단 바이오마커 가능성 확인&nbsp;&nbsp;메디칼업저버칠곡경북대병원 이호원 교수팀, 파킨슨병 혈액 바이오마커 후보 발굴&nbsp;&nbsp;의약뉴스",
+      "id": "e1347ca4bbb8",
+      "title": "혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴 - 네이트",
+      "published": "2026-08-01T07:42:00+00:00",
+      "summary": "혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "segye.com",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03QmthSzg2Rl9Ub2sya3RfR1l5MFpmaGh6RXptLXAyUjVCYXd3NmstdWxMLW9FdHJEdjZMdkpRdHlhb3RPNDhMWmh3OURsbTJYRm5LaVZpYmfSAVRBVV95cUxNUTBxXzl6RVJSeHB3dmYtNUU4MzhiNXZXXy0zSDJBVG1pT1dQR3FkUmJITHJ1V1JWRUE3STZMQnBCUWF0bUZKZHlOQnN5N3p3MW1oMTY?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50VkdPczNEOExjQjVaYkJSOGFMRGo3cVZHLVE2elczYXlVaGJYVkVweHpMSjc5enVtaFhHWTJ0NHNCamdJY1FRaFRYS0xER0t4M3JiZHFORGltY1ZxV0RQVQ?oc=5"
         }
       ]
     },
@@ -105,7 +105,7 @@
       "id": "9723734528f5",
       "title": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환? - 미디어데일",
       "published": "2026-07-31T22:40:15+00:00",
-      "summary": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?&nbsp;&nbsp;미디어데일[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;서울경제\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;BBC조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "\"그날이 두려워요\"…단순 생리통 아닌 이 질환?&nbsp;&nbsp;미디어데일[지금, 명의] “생리 아닌데 출혈 보이면…자궁내막암 신호일 수도”&nbsp;&nbsp;서울경제\"그날이 두려워요\"…단순 생리통 아닌 이 질환?[몸의경고]&nbsp;&nbsp;뉴시스생리 과다출혈, 건강 영향 그동안 과소평가됐다&nbsp;&nbsp;BBC조기 검진은 자궁경부암을 예방하는 '방패'입니다.&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "미디어데일",
@@ -134,18 +134,6 @@
         {
           "name": "애틀랜타 중앙일보",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84eVc3ZHU1dlVHZDRyVkdSODVkeERsNmlhTk5EMFBTNU56dGVxUzB4a2U4bWFBcUVWRjJxUEc4R1FrblNNOVAtUGllS2tWSTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40cee8eab172",
-      "title": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배 - 뉴스에이",
-      "published": "2026-07-31T18:58:37+00:00",
-      "summary": "‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배&nbsp;&nbsp;뉴스에이갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;한국일보착한 암이라더니… “갑상선암 환자, 골다공증 위험 정상인의 6.59배”&nbsp;&nbsp;헬스조선갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보갑상선암 환자, 골다공증 위험 6.6배…여성은 7.8배&nbsp;&nbsp;쿠키메디",
-      "sources": [
-        {
-          "name": "뉴스에이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wbk95R1VNMmZRX0tXZVdRMlFBOS1JV0RLbmIyaGxQOXlYdVpYSmRVdERzOXZMYVlrZ0cxSEhPMUFwVjZBYmtVblBVR3VJNVM3X1R4VENaQWlMUk5sbUQzQ2dWZElpVkVWSXc?oc=5"
         }
       ]
     },
@@ -186,30 +174,6 @@
       ]
     },
     {
-      "id": "a4b14b12fbe7",
-      "title": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발 - 바이오북미디어",
-      "published": "2026-07-31T02:06:00+00:00",
-      "summary": "뇌 노폐물 청소, 코에 달렸다…노화된 뇌 기능 역전 기술 개발&nbsp;&nbsp;바이오북미디어얼굴 ‘이 부위’ 눌렀더니…치매 부르는 뇌 노폐물 청소됐다&nbsp;&nbsp;v.daum.net[탐구활동]치매 치료 새 단서 찾았다…IBS, 뇌 노폐물 배출 ‘지주막 소창’ 규명&nbsp;&nbsp;교육을 비추다치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 세계 최초 규명&nbsp;&nbsp;KBS 뉴스",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lVXhHd3ZFTExsdkdES0hNQVdIcFJyek5xYWdNMTJXNmFqYlVBWlVsRzlUNG1mZzNFcVRUb0NpTktIUndUc0FiMVppa1ZVUUNlTWpKRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40e821b4ce96",
-      "title": "현대바이오, 제프티 H1N1 증식 99.2% 억제 확인 - 금강일보",
-      "published": "2026-07-31T01:40:33+00:00",
-      "summary": "현대바이오, 제프티 H1N1 증식 99.2% 억제 확인&nbsp;&nbsp;금강일보현대바이오 \"항바이러스제 후보 물질, 오가노이드서 효과 확인\"&nbsp;&nbsp;yna.co.kr현대바이오 '제프티', 인간 폐포 모델서 인플루엔자A 99.2% 억제 확인 - 머니투데이&nbsp;&nbsp;머니투데이[제약바이오 소식] 제프티, 장기유사체서 A형 독감 바이러스 99.2% 억제 확인&nbsp;&nbsp;한겨레현대바이오 제프티, 인체 폐 조직 모델서 항바이러스 효능 재확인&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxXzRPTFlHc05QQlZQR2RFUXJUM2F3ai1NZWFfX1hTZ0dSMHVEY1pYclJ1ZHhmdFpJRW8zbnRpaFZMckwwN1h3cW1YSGpMM1NXRU9TOFJTRFoyMDZ6dE9JbzBGd1JpSTVjSUE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "85cd39348af3",
       "title": "[100세 과학] 70세 피부를 30세로 회춘, 美 바이오 기업 개발 - 조선비즈 - Chosunbiz",
       "published": "2026-07-31T00:32:00+00:00",
@@ -218,54 +182,6 @@
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQW1FNzllbmtIYnMxZ291SUlMNmw4SnM1dVRYLVZUWTVPZ3ZGdGduSWxoOTJKR1d2MTdYWExCRkh2R21rTkxfSHB1dDVwS05iR0VFdWtSLWhtT2psMVBnb2FIVWI4X1hZUTc1V2RXSERVaUtiOUhCOEpxenVQQjM0ZkdhcTVOd05PWWxvOGFBZXNSdGF4aVpZ0gGrAUFVX3lxTFBOQlQwSGt3bThuLVRwcERSNlBXMVlfX1dZZjdyMEdMTVhQWUg3V0NWOGZJOUdwUF9LWU1HakdudHRCbkdtY3I0WGpMR3hEZUNxLUZDTVhrR1l5eTJJVmEyNURLNEFQd1B0REhHS0s4UGVkM1d2OU01Sm1VaFE0MTJGMzdYX1pyTDBCSzJYeGE3VlNRVTJMRnhhaU9Da3RzRm1Db2dobks4T2JYaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "807c7a239045",
-      "title": "\"행주 삶지 말고 전자레인지에 넣어보세요\"... 이렇게 좋은 걸 왜 지금 알았을까요 - 아던트뉴스",
-      "published": "2026-07-31T00:00:00+00:00",
-      "summary": "\"행주 삶지 말고 전자레인지에 넣어보세요\"... 이렇게 좋은 걸 왜 지금 알았을까요&nbsp;&nbsp;아던트뉴스새로운 연구에 따르면 설거지용 스펀지는 냄새나 외관상 더러워 보이지 않을 수 있지만 여전히 박테리아로 가득 차 있다고 경고합니다.&nbsp;&nbsp;Vietnam.vn“세균 퍼뜨리는 꼴”… 한 번 쓰고 바꿔야 하는 주방용품 있다&nbsp;&nbsp;헬스조선변기보다 더러운 집안 물건 '10가지'…\"대장균군 최고 15배 더 검출\"&nbsp;&nbsp;스포츠조선",
-      "sources": [
-        {
-          "name": "아던트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLRnMzSEhQbkhQVkNEWUlwalFmdmFKaUhzV3ZCWDUtUmJOTkVnU1ZYZUVvT0ZQWXozbXpnUjE0MmZYMFdOaDFTSV9WWlFKdFJsaGpRRmlseFBSSWRhaHpuU19ISGJqclhySUxGT2pCONIBc0FVX3lxTE00eWttTnQyeW9YWTVIdlQ4ZHlDNHVJZGRYOEdrT1gxSi10aHhhcjhCX1duMF9UWloyUEphVXVHX0tqcXZqckI5a3IyQnZHai1hQUxrMHlhY0UxZXdiUmViMVJwYlVZdVhhZUR5YWRCNjRXUDQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "691f18c12215",
-      "title": "[의사들이 매일 실천하는 건강습관 ⑧] 하루 한 번 햇볕을 쬐어야 하는 이유 - 전국뉴스",
-      "published": "2026-07-30T23:35:00+00:00",
-      "summary": "[의사들이 매일 실천하는 건강습관 ⑧] 하루 한 번 햇볕을 쬐어야 하는 이유&nbsp;&nbsp;전국뉴스",
-      "sources": [
-        {
-          "name": "전국뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11X2ZtaTVJRUNzdVVOcWg4YUI1YlRDUTBSUnZDSGNoUU5zV3BESThSSG43MmVQNzQ5VDZ4MjJWSGtfMDdXdXotejFWdTFfYzQ1MEZNU1hBbGxFWVA3V0RXdGswdWVIV092V0xYWmxzUDk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60d04b88cf39",
-      "title": "눈을 통해 뇌를 읽다-망막 이미지와 AI가 여는 알츠하이머 진단의 새 지평 - ABC뉴스",
-      "published": "2026-07-30T22:10:41+00:00",
-      "summary": "눈을 통해 뇌를 읽다-망막 이미지와 AI가 여는 알츠하이머 진단의 새 지평&nbsp;&nbsp;ABC뉴스",
-      "sources": [
-        {
-          "name": "ABC뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DUy0xYTJyWVlBS3hlV1lJa2k1a2loUklHRllnTVNCQ2lBdUNxTDhkcndmTHVyM2tGNEw2LXNvWlpFb05WcGF3YzBTMlBwdmRGUzBKUzVLU1RCWHlhV2hEa2Nlc9IBZ0FVX3lxTE9qTHNINnM2RXRITmhnMHN4dGU0a3Q4VG0waWdObVVPWWZ5SThSYVdWZlBKWlNURndYTTBYM3FVUHlnV18zOVBTRm04UWF5cGlmVkFWb2d6Qk56X3VIcElHRkhCV2ZrekU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c2520451908",
-      "title": "\"우주에서 세균 감염에 더 취약\"…국내 연구진이 입증 - 동아사이언스",
-      "published": "2026-07-30T22:00:00+00:00",
-      "summary": "\"우주에서 세균 감염에 더 취약\"…국내 연구진이 입증&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Uc1djUjFXSm9HUGdFNHJJbUF1Q1Bfek5ZT1V2VTRWTFNldnFKdXlRajF1ZHg0Ukx0RGY3YUJvX3RsY1h6R19UTGVwbzV4c3NldGMxbw?oc=5"
         }
       ]
     },
@@ -282,30 +198,6 @@
       ]
     },
     {
-      "id": "98908b703858",
-      "title": "여성 노인의 ‘잠’을 잘 살펴라… 사망 위험 예측 가능 - 헬스조선",
-      "published": "2026-07-30T21:00:00+00:00",
-      "summary": "여성 노인의 ‘잠’을 잘 살펴라… 사망 위험 예측 가능&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1leUJ5N3BkNGpDcVlFVlVtWHlRNXJFLXlLOG5ya25NSzNueDNSc25UbkYyLXdPUjJ1YUktSlFaREdiVU03TjZ4WFhmS1BmX2FLNGl3eXIyc3doS0tLSzByMDhFeXVMczlWNER0ZkFFVWNKVExXNklQdEp4TEEwOVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48e70ec8a255",
-      "title": "“기억력 떨어졌다면 당장 시작하라”… 전문가 추천 습관 5가지 - 헬스조선",
-      "published": "2026-07-30T20:30:00+00:00",
-      "summary": "“기억력 떨어졌다면 당장 시작하라”… 전문가 추천 습관 5가지&nbsp;&nbsp;헬스조선‘생로병사의 비밀’ 꽃보다 뇌 청춘···80대에도 45세 기억력 지키는 습관 공개&nbsp;&nbsp;스포츠경향'아침마당' 정지향 \"치매 예방법, 신문 일기 쓰기+코그니사이즈+게임\"&nbsp;&nbsp;네이트80대에 45세 기억력 유지… '슈퍼에이저'들의 뇌 단련 비법&nbsp;&nbsp;gukjenews.com60세 이후 치매 위험, 늦지 않았다… 생활습관이 뇌 건강을 바꾼다&nbsp;&nbsp;한국AI부동산신문",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RRHd0ZXdBVnI5Zm8ycnlOSUtTT2lvNENIQmtodEtjTFBMNGh3MFd3di1aSWd3YkVSTXF0XzFsNTJraUg3NTMxVzlxTmE2Y0VLUWhuMlZpaXRoREk5cXVpODY1dUZBMmtJV2Y2VjNoWjdnY2ZUZkg2WTNlQktLZW8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cce1a098760b",
       "title": "샴푸 개발해 270만병 대박 카이스트 교수 \"겨우 샴푸? 과학입니다.\" - 조선일보",
       "published": "2026-07-30T20:06:22+00:00",
@@ -318,14 +210,14 @@
       ]
     },
     {
-      "id": "c460349319d8",
-      "title": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배 - 헬스오",
-      "published": "2026-07-30T19:33:17+00:00",
-      "summary": "금연 후 체중 5% 이상 감소 시 고관절 골절 위험 비흡연자의 1.88배&nbsp;&nbsp;헬스오\"금연 후 체중 5% 이상 줄어들면 고관절 골절 위험 2배↑\"&nbsp;&nbsp;yna.co.kr체중 감량은 금연 장점? “5% 이상 감소하면 고관절 골절 위험 증가”&nbsp;&nbsp;헬스조선“금연하니까 살도 빠지네?” 좋은 일만은 아니었다…고관절 골절 위험 ‘확’ 커진다는데 [헬시타임]&nbsp;&nbsp;서울경제금연 후 급격한 체중 감소, 고관절 골절 위험 높인다&nbsp;&nbsp;한국일보",
+      "id": "76d5e75f3db3",
+      "title": "\"우주서 세균 감염 더 취약\"…아폴로 7호 '우주선 감기' 미스터리 풀렸다 - 네이트",
+      "published": "2026-07-30T19:35:00+00:00",
+      "summary": "\"우주서 세균 감염 더 취약\"…아폴로 7호 '우주선 감기' 미스터리 풀렸다&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "헬스오",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VbWtGMWFUU2phQTg4WFoxbHlRNFNjY2NsTFpSMDNNR1QzdzlJM01qRUlkaVBYN0tpaXdKdUd2U2U0a2tvejczT1hUek5MR0ZObVUzZE95V2Zmdw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEaTdGWHplTHItUXhhdjFXdEdXd21xMi1heFdMS1NCOUdpbmxpeVFHZllfWjFRV3lBUDV0RUtjNmJWVUlDNnV1NkdEYUYweGFHdkt3?oc=5"
         }
       ]
     },
@@ -350,42 +242,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15M2tqd2pIdUo0LU1ablQ1d0MtQTFKOWlwQ0U4dmoyekNYZ3dTMVZOT3hSdXZPaFYtaVhuMHRKZy1XMDM2VTF5dXBQNWw0SXNLWG1NUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3bcf7cf23c89",
-      "title": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장 - 한겨레",
-      "published": "2026-07-30T06:36:00+00:00",
-      "summary": "중국서 ‘뇌 표적’ 유전자 교정 치료받은 6살 아이 사망 파장&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jMUJrZFpiRkFLX2pVZmZVcXpwZjNTeW1fWHBHcXluaWRsMGFMZWdPSXNTUG8ySUxFQlZlMllOczBhVDBaQkVDR2JlelBmeHpLam5BenJUTml4aF9mNFlJOUdNZGFJMEJpWXRQd3hnOEptZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7fdd885d7fbc",
-      "title": "[단독] 암세포에 ‘세균’ 명찰 붙이니 면역세포가 공격 퍼부어 - 조선일보",
-      "published": "2026-07-29T20:06:24+00:00",
-      "summary": "[단독] 암세포에 ‘세균’ 명찰 붙이니 면역세포가 공격 퍼부어&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ013cEhSVXJvekN5SzZGTER1V2FiY2FYUS1VUjBYVDhRaDIwLWx2Z1FKRTdTeUJHZ1RoektQTERJdmpFdVRZeUptQ3pCdjJqbFJ6NF93OGxBYjQ2NndTcEdnWHhkTVMxUS1GOThueUp4cHRNSnFZd0pKcFlZc25uRDVQbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0590a7d27b3",
-      "title": "'34-60-78에 주목하라'…건강 수명에 필요한 '근육 저축'\r[과학적, 내 몸 사용 설명서] - 한국일보",
-      "published": "2026-07-29T19:30:00+00:00",
-      "summary": "'34-60-78에 주목하라'…건강 수명에 필요한 '근육 저축' [과학적, 내 몸 사용 설명서]&nbsp;&nbsp;한국일보",
-      "sources": [
-        {
-          "name": "한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90TUdWckJ1dkRlTFNOMGplaWZ3U0hCTzhMTzVFc1hXeWh2eHJrTXFRa3BJSVhMMENXbFdMRUJBNkJiSVNtS0hTakpWSjdtYWxNQlZZeC15RmxyMzNBXzFOYUdYWHBIUlVFZ1pmaGpB0gFzQVVfeXFMUHhUVmFEMTl4YXRDWmtyRFNrUXNBOTFiUEdCS0didUNwei12VXpnekJDY0JsT3VEREdMTUVPZ1FFS25rX3FzcmpJUWM3aUVaUWpPTlV5WE9FTTlUMnQwOC13Q0wzTnJZRDBmT18zMGRjaEpDQQ?oc=5"
         }
       ]
     }
