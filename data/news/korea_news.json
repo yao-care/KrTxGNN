@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-03T09:50:56.806894+00:00",
-  "total_fetched": 51,
-  "unique_count": 51,
-  "health_related_count": 24,
+  "fetched_at": "2026-08-03T14:44:56.354980+00:00",
+  "total_fetched": 52,
+  "unique_count": 52,
+  "health_related_count": 27,
   "news": [
+    {
+      "id": "2be9756f2319",
+      "title": "단삼 'SmGA2ox4' 유전자, 염분 저항성·약효성분 동시↑ - 바이오북미디어",
+      "published": "2026-08-03T11:48:00+00:00",
+      "summary": "단삼 'SmGA2ox4' 유전자, 염분 저항성·약효성분 동시↑&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52d1ZOMEYtNWhRdHIwRnVMZVNOTERkMFA1MHEwa1htZWRJbldqWDBrYXhMeVRmVW1VdU1uOFctNnM3dy1TV2ozZXE3ekJUd2VHQ1NaNw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "72c618c0219a",
+      "title": "평소보다 걸음 느려지고 불안정하면...뇌 건강 ‘조기 경고등’ - 디멘시아뉴스",
+      "published": "2026-08-03T11:09:39+00:00",
+      "summary": "평소보다 걸음 느려지고 불안정하면...뇌 건강 ‘조기 경고등’&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBET1RzWjVzck5qNFM3Q19tMmIwejNiRkI1cURFdlNzSjlsdkF1dUtSRXhKb0xLMmVXU0lfNWF5WlFHVnJCTDJ6eWJRNUxDSHFfMjYwdnR6TUJyNDk5dFR4dHNmVUNBd1FSMHVwRDVmangxdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f0b6b11e490",
+      "title": "난소 낭종 파열로 약 1리터의 혈액을 잃은 여성 관광객을 성공적으로 구조했습니다 - ko.laodong.vn",
+      "published": "2026-08-03T10:43:53+00:00",
+      "summary": "난소 낭종 파열로 약 1리터의 혈액을 잃은 여성 관광객을 성공적으로 구조했습니다&nbsp;&nbsp;ko.laodong.vn",
+      "sources": [
+        {
+          "name": "ko.laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOekJSTGtQYUQ3bmZybi03X2FjV0djbXY2MG5NWWFZVXBuQUc3dmZ2V3ZkTGkxYndYSGpHQ1lBdFpGejc0a2NnZ3pidERRMldQZ1R0dWE2cG14bjhlemExbndPZE9UTUdSeE1vUUJjYlRBcDZOQjA3OVJvajM0N2pBSGhyTVBSaXRWVXlZQlFmdmJ1ZC1rX1VzcVB5QTlNM2JVM0d4d0hWZkhaQ0lXMEJlOVlhVF9qbnU0OTRF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74a7a7821640",
+      "title": "고려대 안암병원 함병주ㆍ한규만 교수팀, 양극성장애 뇌 구조 변화와 유전변이 연관성 규명 - 의약뉴스",
+      "published": "2026-08-03T10:32:00+00:00",
+      "summary": "고려대 안암병원 함병주ㆍ한규만 교수팀, 양극성장애 뇌 구조 변화와 유전변이 연관성 규명&nbsp;&nbsp;의약뉴스양극성장애 환자 뇌 구조 바꾸는 '희귀 유전자 변이' 발견&nbsp;&nbsp;v.daum.net감정 널뛰는 ‘조울증’…유전자에서 숨은 단서 찾았다&nbsp;&nbsp;서울경제'극과극 감정' 양극성장애…'이 유전자' 변이 때문&nbsp;&nbsp;뉴시스함병주·한규만 고려대 안암병원 교수팀, 양극성장애 유전변이와 뇌 구조 변화 연결고리 규명&nbsp;&nbsp;healtho.co.kr",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOTlhnNXRGRGYwSEVpMjQ5QTVTZTI2SVVFMUEzYUFPTE5kWlhaUUotbFFwTlBDSVNOQ3NvZ250ZFNDZVA5QXI0Z0pXb05rUUVhYTNfUG1OS1FqbWpaQkxBelJkQ2hteU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6f7186ab713",
+      "title": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야 - 하이뉴스",
+      "published": "2026-08-03T08:53:39+00:00",
+      "summary": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야&nbsp;&nbsp;하이뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "하이뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xd3NYTWlNQUFrZ2JBUllKcGpOWFkwUi1Ra3ZfUWs1UmNadGpJRl9fX29PamxGRDZxNmN4LWw4Z1dMUmtPTnRkdjBOLUFrZUZZMnEyMWFfWW91d0xsWEVTcHhZR3dsMTVzLUszQkxKdmhHLTljbEVj?oc=5"
+        }
+      ]
+    },
     {
       "id": "cd3e14922094",
       "title": "\"스도쿠? 이게 진짜 뇌고문\" 20년뒤 치매 막는 훈련법 찾았다 - 네이트",
@@ -21,7 +81,7 @@
       "id": "f032a5829636",
       "title": "분당서울대병원 변석수 교수, ‘전립선암, 제대로 알고 제대로 치료하자’ 출간 - 의학신문",
       "published": "2026-08-03T06:03:38+00:00",
-      "summary": "분당서울대병원 변석수 교수, ‘전립선암, 제대로 알고 제대로 치료하자’ 출간&nbsp;&nbsp;의학신문분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈[신간] 전립선암, 두려움 대신 정확한 정보로 맞서자! 변석수 교수 출간&nbsp;&nbsp;네이트“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선[신간] 전립선암, 제대로 알고 제대로 치료하자 출간&nbsp;&nbsp;메디칼업저버",
+      "summary": "분당서울대병원 변석수 교수, ‘전립선암, 제대로 알고 제대로 치료하자’ 출간&nbsp;&nbsp;의학신문분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈[신간] 전립선암, 두려움 대신 정확한 정보로 맞서자! 변석수 교수 출간&nbsp;&nbsp;네이트[BOOK소리] 남성암 발생률 1위 '전립선암' 올댓가이드북 나와&nbsp;&nbsp;코리아헬스로그“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "의학신문",
@@ -33,7 +93,7 @@
       "id": "1c5db4c819df",
       "title": "박진우 고대안암병원 교수, 국제신경근육질환학회 ‘우수 포스터상’ 수상 - 라포르시안",
       "published": "2026-08-03T06:01:00+00:00",
-      "summary": "박진우 고대안암병원 교수, 국제신경근육질환학회 ‘우수 포스터상’ 수상&nbsp;&nbsp;라포르시안[오늘의 인사 및 동정] 8월 3일&nbsp;&nbsp;doctorstimes.com루게릭병, 초기부터 자율신경 이상 동반… 고대 안암병원 연구팀 수상&nbsp;&nbsp;간호사신문고대안암병원 박진우 교수, 국제신경근육질환학회 우수포스터상 수상·강연&nbsp;&nbsp;의학신문고려대 안암병원 신경과 박진우 교수, 국제신경근육질환학회 우수포스터상 수상&nbsp;&nbsp;medigatenews.com",
+      "summary": "박진우 고대안암병원 교수, 국제신경근육질환학회 ‘우수 포스터상’ 수상&nbsp;&nbsp;라포르시안고려대 안암병원, 루게릭병 자율신경기능 이상 규명 …국제학회 우수포스터상&nbsp;&nbsp;더글로벌기빙뉴스[오늘의 인사 및 동정] 8월 3일&nbsp;&nbsp;의사신문고대안암병원 박진우 교수, ICNMD 2026 우수포스터상·초청강연&nbsp;&nbsp;헬스미디어뉴스루게릭병, 초기부터 자율신경 이상 동반… 고대 안암병원 연구팀 수상&nbsp;&nbsp;간호사신문",
       "sources": [
         {
           "name": "라포르시안",
@@ -42,22 +102,10 @@
       ]
     },
     {
-      "id": "501148ba4254",
-      "title": "더슬립팩토리, 치과 의료진 대상 ‘코골이·수면무호흡 구강장치 파사 세미나’ 성료 - beSUCCESS",
-      "published": "2026-08-03T03:59:13+00:00",
-      "summary": "더슬립팩토리, 치과 의료진 대상 ‘코골이·수면무호흡 구강장치 파사 세미나’ 성료&nbsp;&nbsp;beSUCCESS코골이·수면무호흡, 소리보다 ‘숨길 구조’가 문제일 수 있다&nbsp;&nbsp;메디컬투데이GLP-1 처방받은 수면무호흡증 환자, 심혈관질환 위험 최대 70% 감소&nbsp;&nbsp;하이닥[카드뉴스] 코골이, 수면무호흡 환자...양압기, 왜 10명 중 9명은 포기할까?&nbsp;&nbsp;한국미디어뉴스통신비만약 처방군, 심정지 위험 70%↓…수면무호흡 환자 뜻밖 결과&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "beSUCCESS",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MdHdTeFN0eHJCZW5ncUJoay1KeGFrbDlBaTNFV1VvTHQ2Q0pja2JPbjdVWlZVSWlxS3RzRzQ0bmtHOGF2emc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "befd8c47d7c6",
       "title": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다] - 네이트",
       "published": "2026-08-03T03:46:00+00:00",
-      "summary": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다]&nbsp;&nbsp;네이트천연물 기반 루게릭병·전측두엽 치매 치료전략 제시&nbsp;&nbsp;BRIC얼굴 ‘이 부위’ 눌렀더니…치매 부르는 뇌 노폐물 청소됐다&nbsp;&nbsp;미주중앙일보늙으면 막히는 뇌 속 '배수구'…코에 약물 뿌려 뚫는 법 찾았다&nbsp;&nbsp;바이오북미디어목향 유래 천연물질, 루게릭병·전측두엽치매 신경 보호 효과 확인&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "네이트",
@@ -66,14 +114,26 @@
       ]
     },
     {
-      "id": "4c6206386b91",
-      "title": "생후 1000일, 면역 형성 골든타임…영유아 비타민D 보충 필수인 이유 - 디지털투데이",
+      "id": "cb2703b76e63",
+      "title": "생후 1000일, 면역 형성 골든타임…영유아 비타민D 보충 필수인 이유 - digitaltoday.co.kr",
       "published": "2026-08-03T03:42:00+00:00",
-      "summary": "생후 1000일, 면역 형성 골든타임…영유아 비타민D 보충 필수인 이유&nbsp;&nbsp;디지털투데이여름철에도 비타민D 부족 해소 어렵다…연구&nbsp;&nbsp;디지털투데이",
+      "summary": "생후 1000일, 면역 형성 골든타임…영유아 비타민D 보충 필수인 이유&nbsp;&nbsp;digitaltoday.co.kr여름철에도 비타민D 부족 해소 어렵다…연구&nbsp;&nbsp;digitaltoday.co.kr",
       "sources": [
         {
-          "name": "디지털투데이",
+          "name": "digitaltoday.co.kr",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13SGR6QWplek1nQUNsQlJEMUhtYzlBZFlodm9TVndXOHB2a0p5WnNpby0tTzA3WVh4T0REeEdjRFJydlJEWkpNQ3JLSlVkcm1NUjNNakZtNUlTTHlhdGdkMXVjRHQ4YUV6aG5KRnFseGdlS28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "480e73c6c640",
+      "title": "파킨슨병 진단 보조할 혈액 바이오마커 후보 발굴 - 코리아헬스로그",
+      "published": "2026-08-03T03:06:42+00:00",
+      "summary": "파킨슨병 진단 보조할 혈액 바이오마커 후보 발굴&nbsp;&nbsp;코리아헬스로그국내 연구진, 파킨슨병 진단 새 단서 찾았다…혈액 단백질 조합 발굴 - 조선비즈&nbsp;&nbsp;Chosunbiz혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴&nbsp;&nbsp;v.daum.net값비싼 뇌 영상 대신 혈액검사로…진단 보조 연구 진전&nbsp;&nbsp;tbc.co.kr파킨슨병 진단 길 넓어진다…칠곡경북대병원, 혈액 바이오마커 발굴&nbsp;&nbsp;kyongbuk.co.kr",
+      "sources": [
+        {
+          "name": "코리아헬스로그",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MREZxQnlkbEU2WkF6eUluMllBUGpFcDZfczZ1YzVidGhlOXlLZDhLTnZkQlgxdEtkaGpBN3pmd2t5cnJaOUU3cVdvZWRKZWwxWkV3OGZIM2dpenktWnc4b2dtQll5X0tyUkhtd3ZJNS1Bd9IBdkFVX3lxTE1KVkFXUm44S290Z1FRMTRGbThOQUF6ZnhNY2VYU2xtZTlkd3pHbUoyNTIzbDFiZGRkU3F3VGpIVUN1dUxkSlhxN2RmOUI4OVFqclZNRXBrYzRMZUF4elhaaXNQLUY2YnZCOFhNRWE3RzhlRFNQTnc?oc=5"
         }
       ]
     },
@@ -102,26 +162,14 @@
       ]
     },
     {
-      "id": "3e8a956921bf",
-      "title": "자궁경부암 새 타깃 'PRKN'…CD274 유비퀴틴화로 면역 활성 - biobookmedia.com",
+      "id": "f9b4f89e29d6",
+      "title": "자궁경부암 새 타깃 'PRKN'…CD274 유비퀴틴화로 면역 활성 - 바이오북미디어",
       "published": "2026-08-03T02:17:00+00:00",
-      "summary": "자궁경부암 새 타깃 'PRKN'…CD274 유비퀴틴화로 면역 활성&nbsp;&nbsp;biobookmedia.com",
+      "summary": "자궁경부암 새 타깃 'PRKN'…CD274 유비퀴틴화로 면역 활성&nbsp;&nbsp;바이오북미디어",
       "sources": [
         {
-          "name": "biobookmedia.com",
+          "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xbzN0OHAzY0Q1QzBybnd0eDNkQWJKUGdZS0YwTEd4cGdlblpBR3ZmYjg5QmJUN3JWMDdWcGFLb1BwcXZOX3Z1dHJWaUN2TENfNUlYdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8bf91a2bcef6",
-      "title": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명 - 메드월드뉴스",
-      "published": "2026-08-03T01:34:33+00:00",
-      "summary": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명&nbsp;&nbsp;메드월드뉴스양극성장애 환자 뇌 구조 바꾸는 '희귀 유전자 변이' 발견&nbsp;&nbsp;v.daum.net감정 널뛰는 ‘조울증’…유전자에서 숨은 단서 찾았다&nbsp;&nbsp;서울경제'극과극 감정' 양극성장애…'이 유전자' 변이 때문&nbsp;&nbsp;newsis.com양극성장애 뇌 구조 변화 관련 유전변이 GNB3 확인&nbsp;&nbsp;medical-tribune.co.kr",
-      "sources": [
-        {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQWhBZFUzNHF4M21QMW9MSU9pVzhpRjlOQ3ltem5qaUIxT3lEN09rOW9UYWhFdlM4Y1FpMVFrZVVyWW9mMGNDUEtJa013d1FyaEJiNExGT0NtSDFEYU1SRDRGdmdGdW8?oc=5"
         }
       ]
     },
@@ -150,13 +198,13 @@
       ]
     },
     {
-      "id": "8d6893a977c1",
-      "title": "“신속대응 부재시 2030년까지 300만명 HIV 감염” - 약업신문",
+      "id": "1b9400ae6580",
+      "title": "“신속대응 부재시 2030년까지 300만명 HIV 감염” - yakup.com",
       "published": "2026-08-02T21:00:42+00:00",
-      "summary": "“신속대응 부재시 2030년까지 300만명 HIV 감염”&nbsp;&nbsp;약업신문",
+      "summary": "“신속대응 부재시 2030년까지 300만명 HIV 감염”&nbsp;&nbsp;yakup.com",
       "sources": [
         {
-          "name": "약업신문",
+          "name": "yakup.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vODNfeWttMW5UaW1KUk56TmRMRGNWeGE0VW9VcmZ2NWdiWjc2SVZrTU5FRjNFd1paYjBpOUptcWJVbmtjNldzaDg3eWVVZ3BHejZSLXpFRU1KRy1LTW1DM0w3YXJwdw?oc=5"
         }
       ]
@@ -198,6 +246,18 @@
       ]
     },
     {
+      "id": "1fe4a1e597f6",
+      "title": "[TV조선] 면역 노화를 이겨내는 법 - 조선일보",
+      "published": "2026-08-02T15:39:00+00:00",
+      "summary": "[TV조선] 면역 노화를 이겨내는 법&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnVtbklFejRWU1FwYy1pZFg4U2ZNLWh2eVdLam1WZFN3emlpbS1lWVlRNTBXVXFJQmtYOHdKbDdrbzVTOEZYZmdpVlZocXpPY1pra2lnb3p0TExBWFE3Q1oyWDNfRlRMeHFrdE1ScVpKX093bEktTVZJVmlnRlUtam9RbVdscHVQdzY4RWtaVjZxUk9J?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1f8db512ee3b",
       "title": "“16세 소녀, 개구리처럼 눈두덩이 퉁퉁”…‘이 질환’ 첫 신호였다 - 코메디닷컴",
       "published": "2026-08-02T11:01:00+00:00",
@@ -222,18 +282,6 @@
       ]
     },
     {
-      "id": "1fc8adc0e4ae",
-      "title": "파킨슨병 진단 길 넓어진다…칠곡경북대병원, 혈액 바이오마커 발굴 - kyongbuk.co.kr",
-      "published": "2026-08-02T08:55:29+00:00",
-      "summary": "파킨슨병 진단 길 넓어진다…칠곡경북대병원, 혈액 바이오마커 발굴&nbsp;&nbsp;kyongbuk.co.kr국내 연구진, 파킨슨병 진단 새 단서 찾았다…혈액 단백질 조합 발굴 - 조선비즈&nbsp;&nbsp;Chosunbiz혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴&nbsp;&nbsp;v.daum.net값비싼 뇌 영상 대신 혈액검사로…진단 보조 연구 진전&nbsp;&nbsp;tbc.co.kr시누클레인병증, 혈액 기반 진단 바이오마커 가능성 확인&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "kyongbuk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xd0JUYzR2TmNNZHBBRlRwR3ZhakNzelFDVV9LdzdLbjhNSEFaR01NQkpsaEhMUG9ObUU4QzZGQWI0Y0Q3SXhsSUVuaXMycHhocjE3d2ExTVZDd2pQR3daWTJOdTRscjM1R2haSEFKbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "39df24d79f10",
       "title": "아귀힘 약해졌다면 당신도 ‘경고등’…“악력 5㎏ 줄면 사망 위험 16%↑” - 매일경제",
       "published": "2026-08-02T01:13:03+00:00",
@@ -249,7 +297,7 @@
       "id": "4dc553ebc426",
       "title": "'여성 갑상선암 환자, 50세 미만일수록 골다공증 위험 급증' 밝혀져 - edaily.co.kr",
       "published": "2026-08-02T00:06:01+00:00",
-      "summary": "'여성 갑상선암 환자, 50세 미만일수록 골다공증 위험 급증' 밝혀져&nbsp;&nbsp;edaily.co.kr갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배&nbsp;&nbsp;뉴스에이갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;한국일보갑상선암 치료 후 골다공증 위험 최대 6배&nbsp;&nbsp;헬스포커스뉴스",
+      "summary": "'여성 갑상선암 환자, 50세 미만일수록 골다공증 위험 급증' 밝혀져&nbsp;&nbsp;edaily.co.kr갑상선암 생존자, 골다공증 위험 최대 7배&nbsp;&nbsp;e-의료정보‘착한’ 갑상선암이지만 5년 내 골다공증 위험 6.6배&nbsp;&nbsp;newsa.co.kr갑상선암 완치 후 방심하지 마세요... 5년 내 '이 병' 가능성 6배 높아&nbsp;&nbsp;한국일보갑상선암 치료 후 골다공증 위험 최대 6배&nbsp;&nbsp;헬스포커스뉴스",
       "sources": [
         {
           "name": "edaily.co.kr",
@@ -258,38 +306,26 @@
       ]
     },
     {
-      "id": "d5115e71f092",
-      "title": "우주에서 노화 20~25% 더 빨라져…세균 감염도 우려 수준 - zdnet.co.kr",
+      "id": "bd77f45020a6",
+      "title": "우주에서 노화 20~25% 더 빨라져…세균 감염도 우려 수준 - 지디넷코리아",
       "published": "2026-08-01T23:00:01+00:00",
-      "summary": "우주에서 노화 20~25% 더 빨라져…세균 감염도 우려 수준&nbsp;&nbsp;zdnet.co.kr",
+      "summary": "우주에서 노화 20~25% 더 빨라져…세균 감염도 우려 수준&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
-          "name": "zdnet.co.kr",
+          "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VODRRT2JFYktsa0szcE1lb0NTYjBpM1g2ZmtETURyR25TQ2c0MjlMNEgwLWNyVGo5Zm5HRTh6UVlsYXhCb0R3aFBOUGU0V29yUERPZ2x3?oc=5"
         }
       ]
     },
     {
-      "id": "dec4485c7a75",
-      "title": "“산모 배 속에서 자궁 2개 발견?” 제왕절개 중 무슨 일이 - 코메디닷컴",
-      "published": "2026-08-01T11:02:00+00:00",
-      "summary": "“산모 배 속에서 자궁 2개 발견?” 제왕절개 중 무슨 일이&nbsp;&nbsp;코메디닷컴",
+      "id": "03151eacae16",
+      "title": "“사람 대신 위험한 일 대신한다”…키 2m '켄타우로스 로봇' - 전자신문",
+      "published": "2026-08-01T21:00:00+00:00",
+      "summary": "“사람 대신 위험한 일 대신한다”…키 2m '켄타우로스 로봇'&nbsp;&nbsp;전자신문",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KMkVwWGI5c2JsVWZPNHhZNURKS2s1bG9wUF9Pa0JlaDJMOGpHY2FZWVp2SzB1Rmc3NTNvNmFJMFc5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "037328af7577",
-      "title": "경추 퇴행성 질환 환자에게 요가의 3가지 이점 - ko.laodong.vn",
-      "published": "2026-08-01T10:00:00+00:00",
-      "summary": "경추 퇴행성 질환 환자에게 요가의 3가지 이점&nbsp;&nbsp;ko.laodong.vn",
-      "sources": [
-        {
-          "name": "ko.laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmoxdEFRcDlkZ1pUTmlBbnpCWmg5aGlUTlNSZ2UtcDZUSF90RGNkeVBTNHIya0dtXzIwdUZwTlh0Snk3aFNPZHN1S0hPaWowTnNweFA0bndMQkUyWkZzcUY3SEZ6d1FkS2JhWldKSnFLTzBhc1o1UFVWOWJ5WE44eHRJYUY3TGhDSTNGMXNsQlpuZFBLYmdmdlZWOA?oc=5"
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyS0h1VW1VUWt3YzR3OUhJYWw4MGg4dS1nancxZ3BJLUc4aURqemwwcTBQXzJhX01sZ0t6MEUxN2ZYQVNqYmlPczhkWV9mUQ?oc=5"
         }
       ]
     }
