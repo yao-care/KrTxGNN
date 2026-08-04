@@ -1,6 +1,423 @@
 {
-  "last_updated": "2026-08-03T19:41:22.738224+00:00",
-  "total_count": 0,
+  "last_updated": "2026-08-04T02:46:50.385195+00:00",
+  "total_count": 32,
   "matched_count": 0,
-  "news": []
+  "news": [
+    {
+      "id": "a13257f117d0",
+      "title": "운동할 때 분비되는 단백질로 알츠하이머병 예측",
+      "published": "2026-08-04T01:49:00+00:00",
+      "summary": "운동할 때 분비되는 단백질로 알츠하이머병 예측&nbsp;&nbsp;동아사이언스\"운동이 치매 막는대\" 진짜였네…근육서 나온 단백질에 답 있었다 - 머니투데이&nbsp;&nbsp;머니투데이혈중 아이리신 낮을수록 뇌 아밀로이드 축적 높다&nbsp;&nbsp;의학신문운동 단백질 '아이리신', 혈액으로 알츠하이머병 조기 예측 가능성 확인&nbsp;&nbsp;메디팜스투데이기억력 멀쩡한데 뇌엔 알츠하이머 흔적…혈액 속 '이 단백질' 수치 낮았다&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vSUM2ejZGQWVyVXFVT01kZkNYVENmelpaRGRlNTFsSWVRc2hETzIzS0pjc2dMcXJXV3lJMmFzQkVpdVNWemJVMnV0bFU5VGljaHg5Qg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e48668fddc69",
+      "title": "가천대 길병원 심장호흡재활센터, 치료 건수 180% 급증",
+      "published": "2026-08-04T00:42:49+00:00",
+      "summary": "가천대 길병원 심장호흡재활센터, 치료 건수 180% 급증&nbsp;&nbsp;간호사신문",
+      "sources": [
+        {
+          "name": "간호사신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDUmZWTDFrVTZoVW8wMmk3YzdBM29kRkJpbWhXRHZzaU5oNjNkdTRad01HZXNKSEtPbUlsTHoyZGRYZE93X2hEbVlEZjQ4eFBTc2pZejBnSVhOSDBLNlRxZUZiVFdsaEdvZGNveFNR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "62e05728708e",
+      "title": "유하영·박성미 고대 안암병원 교수팀, 흉통 환자 ‘운동부하심전도검사’ 성별 격차 규명",
+      "published": "2026-08-04T00:42:35+00:00",
+      "summary": "유하영·박성미 고대 안암병원 교수팀, 흉통 환자 ‘운동부하심전도검사’ 성별 격차 규명&nbsp;&nbsp;의사신문세계 최초 운동부하심전도검사 시행 성별 격차 규명돼&nbsp;&nbsp;메디칼업저버고대안암병원, 흉통 환자 ‘운동부하심전도검사’ 성별 격차 규명&nbsp;&nbsp;라포르시안",
+      "sources": [
+        {
+          "name": "의사신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fWEVXVkJTaThUOFl0MGFvTkZzU2dVVjNBV3dTWlNzOHdVbmhXbWlSN2I1YnZoT1Vndml6NHJhZ0JzS2NxX3ZzemE2NVZTLXMzcnpsRDRGZ1ZDRGx1OVVTUDQ0bWpfVW5oNmdISGJOOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6f099962820c",
+      "title": "[박찬우 박사 칼럼 13] 당뇨, 약으로 잡을까 밥상으로 잡을까 - 캐어유 뉴스",
+      "published": "2026-08-04T00:00:00+00:00",
+      "summary": "[박찬우 박사 칼럼 13] 당뇨, 약으로 잡을까 밥상으로 잡을까&nbsp;&nbsp;캐어유 뉴스",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UeXZtN3ZIeVNSd2UzbElVaVZJMThIQlN0MWNlRG1tY3oxc2duVVZzNnhta3g0OTBaWk9nS1l0SGJGUDB1c1RPcllQTmZub0hmd0Z5MExWRUdteHhQY25qX3pkRmJOeWpqb0QtaEh3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b0a528add747",
+      "title": "국립암센터·UNIST, 유방암 미세환경 ‘지방세포’ 공략…항암제 내성 극복 새 지평",
+      "published": "2026-08-03T23:49:50+00:00",
+      "summary": "국립암센터·UNIST, 유방암 미세환경 ‘지방세포’ 공략…항암제 내성 극복 새 지평&nbsp;&nbsp;의학신문제주발 의생명 연구 '쾌거'…유방암 치료 새 이정표 제시&nbsp;&nbsp;제민일보암 키우고 퍼뜨리는 '주변 지방세포' 공략…항암제 내성 극복 길 열렸다 - 머니투데이&nbsp;&nbsp;머니투데이제주대 연구팀, 유방암 표적항암제 내성 경로 찾았다… 병용치료 해법 제시&nbsp;&nbsp;v.daum.net항암제 안 듣던 유방암의 비밀… 국내 연구진, 종양 크기 56%↓ 표적 단백질 규명&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwTTdRSUt2Wks2S0pmNHk2QnU1ZDNUc0d6LU1SMFFCOGJkOWZ1dUxRbkJxOEVvZkhmV2JhRkNkdEwxMEtSMXF1Z1NUekEycWE5N3R0N19zRC1QUWxmVnFmcTBxQjQ4NzVtbmc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cd53e63af04a",
+      "title": "치매에 걸린 치매 전문의의 마지막 조언",
+      "published": "2026-08-03T14:41:51+00:00",
+      "summary": "치매에 걸린 치매 전문의의 마지막 조언&nbsp;&nbsp;당당뉴스",
+      "sources": [
+        {
+          "name": "당당뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOT1RxRWZXRklyRGhBR3RFMTIybERDZTN3UUhlMlJXTkNWbGxiYXNEeUFkNVhGRWlvREJpQ2E0SER3M2FpVFV0cjhIX1dIa3FCMVlJM1hfcUtjaVJvek9PTVRya295RUdITV83X1JIcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2be9756f2319",
+      "title": "단삼 'SmGA2ox4' 유전자, 염분 저항성·약효성분 동시↑",
+      "published": "2026-08-03T11:48:00+00:00",
+      "summary": "단삼 'SmGA2ox4' 유전자, 염분 저항성·약효성분 동시↑&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52d1ZOMEYtNWhRdHIwRnVMZVNOTERkMFA1MHEwa1htZWRJbldqWDBrYXhMeVRmVW1VdU1uOFctNnM3dy1TV2ozZXE3ekJUd2VHQ1NaNw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c65c2e77cbb8",
+      "title": "고려대 안암병원 박진우 교수, 국제신경근육질환학회 우수포스터상 수상ㆍ초청강연",
+      "published": "2026-08-03T10:20:42+00:00",
+      "summary": "고려대 안암병원 박진우 교수, 국제신경근육질환학회 우수포스터상 수상ㆍ초청강연&nbsp;&nbsp;의약뉴스고대 안암병원, 루게릭병 자율신경기능 연구로 국제학회 우수포스터상&nbsp;&nbsp;주간한국[동정] 박진우 교수, 우수포스터상 수상·초청 강연&nbsp;&nbsp;메디칼업저버[동정] 박진우 고대 안암병원 교수, '제19회 ICNMD 2026'서 초청강연 진행&nbsp;&nbsp;theggnews.com고려대 안암병원 신경과 박진우 교수, 국제신경근육질환학회 우수포스터상 수상&nbsp;&nbsp;MEDI:GATE NEWS",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FUFhGQjQ0dWI0bzdlUTJDOFNubHkyMi1RTmVqYUxxZUxMYmlqNnFxQ3llVkZ5SmVOTVhEaTM2ZVoxdTh5SmtadTRpQjN1TWhPaTlJdEFGaF9uVUFFVzhlS08teFhLY2s?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "780144819ba1",
+      "title": "분당서울대병원 변석수 교수 ‘전립선암, 제대로 알고 제대로 치료하자’ 출간",
+      "published": "2026-08-03T10:18:50+00:00",
+      "summary": "분당서울대병원 변석수 교수 ‘전립선암, 제대로 알고 제대로 치료하자’ 출간&nbsp;&nbsp;의약뉴스[신간] 전립선암, 제대로 알고 제대로 치료하자&nbsp;&nbsp;에너지경제신문분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선[BOOK소리] 남성암 발생률 1위 '전립선암' 올댓가이드북 나와&nbsp;&nbsp;코리아헬스로그",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaSjNFVmtjYmNKampwOVpIaEIzSzZsTmxtUF92OUwtdHpVSGwtRXBVUDdWcE1pc2JxVnlGeVFJa3ktblJEOWxQdE1tN08tWWlIVnNQUXVnMVhudEFBdEZJY1FVWWZiS3M?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "72e200defe10",
+      "title": "생물의 유전자 켜는 법은 '비슷', 끄는 법은 '제각각'",
+      "published": "2026-08-03T09:02:09+00:00",
+      "summary": "생물의 유전자 켜는 법은 '비슷', 끄는 법은 '제각각'&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sV2IzYXZEeHEyckI3THFnZTMyMGM3XzdrR1NDQVBnME1nVHpPRTdaYXdSekFYZ1JwWVBBdnRsNDF1Z1FoY0xlRi1sTEZTRVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a6f7186ab713",
+      "title": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야",
+      "published": "2026-08-03T08:53:39+00:00",
+      "summary": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야&nbsp;&nbsp;하이뉴스“운동 뒤 손이 찌릿” 손목이 보내는 위험 신호 3가지&nbsp;&nbsp;헬스조선\"꽉 쥐는 여름 레포츠, 손목엔 독\"... 수영, 서핑 즐긴 대가는 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스[건강톡톡] 여름, 손목터널증후군·건초염 주의&nbsp;&nbsp;간호사신문여름 레포츠 후 손목 ‘찌릿’·손가락 ‘딸깍’… 손목터널증후군 등 수부질환 위험↑&nbsp;&nbsp;더퍼스트미디어",
+      "sources": [
+        {
+          "name": "하이뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xd3NYTWlNQUFrZ2JBUllKcGpOWFkwUi1Ra3ZfUWs1UmNadGpJRl9fX29PamxGRDZxNmN4LWw4Z1dMUmtPTnRkdjBOLUFrZUZZMnEyMWFfWW91d0xsWEVTcHhZR3dsMTVzLUszQkxKdmhHLTljbEVj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a54080470b3c",
+      "title": "커넥티드456, 시니어 두뇌 건강 위한 방문 인지 학습지 '그레이스' 출시",
+      "published": "2026-08-03T08:53:00+00:00",
+      "summary": "커넥티드456, 시니어 두뇌 건강 위한 방문 인지 학습지 '그레이스' 출시&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tRGtUMVc5dU01QzBzMndTMDlUMC0za3BtTlJjUUpKeEVqWmlfMmo0a2NudDRTM1JoZEhnSFhUdEtmUC0xMWk0MVRreXNWZlNRRGMyd3dOVjVvcGNsWEFiTg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cd3e14922094",
+      "title": "\"스도쿠? 이게 진짜 뇌고문\" 20년뒤 치매 막는 훈련법 찾았다",
+      "published": "2026-08-03T07:54:00+00:00",
+      "summary": "\"스도쿠? 이게 진짜 뇌고문\" 20년뒤 치매 막는 훈련법 찾았다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40Vzl4RFdsNDNPV0tyaGhVWG1CX0htNUFmd3lwUlZJN205N29xSEVreXY0ZXVBZ2dEeWw0eXJhZ2ttOUc0TkFaYmhfZDBOUEdzaUxpLWdDN2c0aVl6YUVxYg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7d3d050e7a33",
+      "title": "지방세포가 추위 견디는 비결 찾았다…UNIST, 미토콘드리아 보존 기전 규명",
+      "published": "2026-08-03T03:50:00+00:00",
+      "summary": "지방세포가 추위 견디는 비결 찾았다…UNIST, 미토콘드리아 보존 기전 규명&nbsp;&nbsp;서울파이낸스'세포 속 난로' 키우는 전략 규명…비만 치료제 개발 단초&nbsp;&nbsp;v.daum.netUNIST, 추위 속 '세포 난로' 보존 원리 찾았다&nbsp;&nbsp;뉴시스지방세포, 추위에 맞서 ‘세포 속 난로’ 더 오래 쓴다!&nbsp;&nbsp;BRIC다이어트 여름에 하면 손해…이유는 온도별 지방세포 분해 속도&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KNWhPdTB5Q2Z6QnY0T3BBNFRxX0JISV92eXdoUzdwRlQ2aGN3dUlKUU94WXBURXNTNEZobDRVdDllbS1rQWlnb0ItRkpoZ2gzMldybnAyaVoxNElsSlZoUW5uQmYwLTV4MlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b9a9a18e324f",
+      "title": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다]",
+      "published": "2026-08-03T03:46:00+00:00",
+      "summary": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvazU3ZWIwN2NENzktUmpmZG1NdVJYbjM4clNJb3VjX3FEYlY0T3V4WVRyX3JBbWh1NG5LV0c4YTNObmlhczQ4Y2ZadTVHOWNKWGoxWTlR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4c6206386b91",
+      "title": "생후 1000일, 면역 형성 골든타임…영유아 비타민D 보충 필수인 이유",
+      "published": "2026-08-03T03:42:00+00:00",
+      "summary": "생후 1000일, 면역 형성 골든타임…영유아 비타민D 보충 필수인 이유&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13SGR6QWplek1nQUNsQlJEMUhtYzlBZFlodm9TVndXOHB2a0p5WnNpby0tTzA3WVh4T0REeEdjRFJydlJEWkpNQ3JLSlVkcm1NUjNNakZtNUlTTHlhdGdkMXVjRHQ4YUV6aG5KRnFseGdlS28?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "480e73c6c640",
+      "title": "파킨슨병 진단 보조할 혈액 바이오마커 후보 발굴",
+      "published": "2026-08-03T03:06:42+00:00",
+      "summary": "파킨슨병 진단 보조할 혈액 바이오마커 후보 발굴&nbsp;&nbsp;코리아헬스로그국내 연구진, 파킨슨병 진단 새 단서 찾았다…혈액 단백질 조합 발굴 - 조선비즈&nbsp;&nbsp;Chosunbiz혈액 한 방울로 파킨슨병 진단 가능성…국내 연구진 바이오마커 후보 발굴&nbsp;&nbsp;v.daum.net값비싼 뇌 영상 대신 혈액검사로…진단 보조 연구 진전&nbsp;&nbsp;tbc.co.kr파킨슨병 진단 길 넓어진다…칠곡경북대병원, 혈액 바이오마커 발굴&nbsp;&nbsp;kyongbuk.co.kr",
+      "sources": [
+        {
+          "name": "코리아헬스로그",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MREZxQnlkbEU2WkF6eUluMllBUGpFcDZfczZ1YzVidGhlOXlLZDhLTnZkQlgxdEtkaGpBN3pmd2t5cnJaOUU3cVdvZWRKZWwxWkV3OGZIM2dpenktWnc4b2dtQll5X0tyUkhtd3ZJNS1Bd9IBdkFVX3lxTE1KVkFXUm44S290Z1FRMTRGbThOQUF6ZnhNY2VYU2xtZTlkd3pHbUoyNTIzbDFiZGRkU3F3VGpIVUN1dUxkSlhxN2RmOUI4OVFqclZNRXBrYzRMZUF4elhaaXNQLUY2YnZCOFhNRWE3RzhlRFNQTnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "070723736612",
+      "title": "당뇨와 비만 치료제 성분 세마글루타이드 '발작도 방지'",
+      "published": "2026-08-03T03:02:00+00:00",
+      "summary": "당뇨와 비만 치료제 성분 세마글루타이드 '발작도 방지'&nbsp;&nbsp;히트뉴스",
+      "sources": [
+        {
+          "name": "히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zeEN4elJVR1h0Z3U4amJLNjBtd1ZHenB0MzlsM21oUFRwYmY3LV9FcTlicWQ2Q09wTkhxOHphT1d4dWRiem1aYlJid3V3UkdIOFhRdkJ3bkVsY3VUNjVJekF4MmxFXzlZT1BN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f9b15ce5976a",
+      "title": "천식 환자, 비타민 A 높을수록 폐 기능↑… 비타민 D는 노화까지 늦췄다",
+      "published": "2026-08-03T02:30:00+00:00",
+      "summary": "천식 환자, 비타민 A 높을수록 폐 기능↑… 비타민 D는 노화까지 늦췄다&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQUk5yLTh4bE9uR2pzSGd0RWVNQzFDS2NQQlhWVWdXTW9PTU1ScksxU0xLVTJEOTFhXzJrOTNxYXZ3R1pxYmFiMzlkSGFEVkhoZDZKWGpYZmxFWFJFeVZPMUtSNlBBZGtZY0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f9b4f89e29d6",
+      "title": "자궁경부암 새 타깃 'PRKN'…CD274 유비퀴틴화로 면역 활성",
+      "published": "2026-08-03T02:17:00+00:00",
+      "summary": "자궁경부암 새 타깃 'PRKN'…CD274 유비퀴틴화로 면역 활성&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xbzN0OHAzY0Q1QzBybnd0eDNkQWJKUGdZS0YwTEd4cGdlblpBR3ZmYjg5QmJUN3JWMDdWcGFLb1BwcXZOX3Z1dHJWaUN2TENfNUlYdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8bf91a2bcef6",
+      "title": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명",
+      "published": "2026-08-03T01:34:33+00:00",
+      "summary": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명&nbsp;&nbsp;메드월드뉴스양극성장애 환자 뇌 구조 바꾸는 '희귀 유전자 변이' 발견&nbsp;&nbsp;v.daum.net감정 널뛰는 ‘조울증’…유전자에서 숨은 단서 찾았다&nbsp;&nbsp;sedaily.com'극과극 감정' 양극성장애…'이 유전자' 변이 때문&nbsp;&nbsp;뉴시스함병주·한규만 고려대 안암병원 교수팀, 양극성장애 유전변이와 뇌 구조 변화 연결고리 규명&nbsp;&nbsp;헬스오",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQWhBZFUzNHF4M21QMW9MSU9pVzhpRjlOQ3ltem5qaUIxT3lEN09rOW9UYWhFdlM4Y1FpMVFrZVVyWW9mMGNDUEtJa013d1FyaEJiNExGT0NtSDFEYU1SRDRGdmdGdW8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d514e25924a7",
+      "title": "이탈리아 100살 장수촌은 ‘호기심 천국’…성격이 건강비결이었네",
+      "published": "2026-08-03T00:45:00+00:00",
+      "summary": "이탈리아 100살 장수촌은 ‘호기심 천국’…성격이 건강비결이었네&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sNjg3LTNwcDJwMTBIM0RJMHlHSXdvb1Fud29hWGFiOVdtUWkwTXE4bHhJSmR2NFlXdU5kX1V4b3hyZW44RC1HRDQtNFBtRnZyN3lwYzVocjRXUzJDNXlxRG9iTnRpXzF6Wm9IODRNNy1jZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "40fd3ecd1a80",
+      "title": "[사이언스스코프]생명의 암호 읽던 인간…이젠 유전자를 '디자인'한다",
+      "published": "2026-08-02T21:30:00+00:00",
+      "summary": "[사이언스스코프]생명의 암호 읽던 인간…이젠 유전자를 '디자인'한다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UM2EyT3lkeUpsYkItVnlyM2ZlN0VFZjhybmNaaTVfNWJsMzhKaWU5U0hqZ3c3d3IxcURlWUprVmZJUkYwMVYzRVdiTzduWE9tTUxYeG9URTNDMXlXX3kzOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "05850548775d",
+      "title": "“신속대응 부재時 2030년까지 300만명 HIV 감염”",
+      "published": "2026-08-02T21:00:42+00:00",
+      "summary": "“신속대응 부재時 2030년까지 300만명 HIV 감염”&nbsp;&nbsp;yakup.com",
+      "sources": [
+        {
+          "name": "yakup.com",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vODNfeWttMW5UaW1KUk56TmRMRGNWeGE0VW9VcmZ2NWdiWjc2SVZrTU5FRjNFd1paYjBpOUptcWJVbmtjNldzaDg3eWVVZ3BHejZSLXpFRU1KRy1LTW1DM0w3YXJwdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "38caf7a7195a",
+      "title": "단 7분만에 뇌가 달라지기 시작한다 - 마음건강 길",
+      "published": "2026-08-02T21:00:00+00:00",
+      "summary": "단 7분만에 뇌가 달라지기 시작한다&nbsp;&nbsp;마음건강 길",
+      "sources": [
+        {
+          "name": "마음건강 길",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UQnY1OW84SExlTjVwY0t0S0pod1FnYnY3UjdBblFNSDBPdWkxTklGSjJOZWgzMkJmbXIwcHRMYzh2V1NtWUR1N3QzYzBTRDN3V05Bc3BLdFBzMk1fR1dsdE5oV1QyLVJKNXfSAW5BVV95cUxNYnQ1dGl5cGpPMmF6S3Vqcl9ERndOeUhNVHNKdHNXMnRPNkVjNFRYM1BXT3NTdWNjV0xPV19PR0VSZVJzQnhYLXMxTHN4Y2dVS1YxYXp4X1h1eTZjN1M4ZzRHWlVTOUlZWFpENllFZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "37c3b3fb2ae8",
+      "title": "\"반찬 좋아할수록 암 발생 위험 크다\"…이승훈 서울대 교수 '식습관' 경고",
+      "published": "2026-08-02T20:30:00+00:00",
+      "summary": "\"반찬 좋아할수록 암 발생 위험 크다\"…이승훈 서울대 교수 '식습관' 경고&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPVWlnM0M3SkNLQWtFcU1ETHI4YldUaFpFeE5VbGx2Z2ZWRXM3bDJrZ2JZNFdzRTd3YncwSWVpNmQ0bnBjdVNVNGN1Ym9fWVUwaWVz?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0af9ec62fc07",
+      "title": "日개호노인보건시설, ‘치매 단기 집중 재활’ 재택복귀율 향상",
+      "published": "2026-08-02T20:30:00+00:00",
+      "summary": "日개호노인보건시설, ‘치매 단기 집중 재활’ 재택복귀율 향상&nbsp;&nbsp;재활뉴스",
+      "sources": [
+        {
+          "name": "재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNSHpWdlV5M1A2eXFqODJNNktZdXkzejNZY3RCX0l1YW5QOTVJSmxlems4b0lDYTN0ODY0dEhZUjgteHlDbEE3OGpNMTB4bWtrYjljX19ncmpEVHF5bDRaY3JLUUIyLTkweTVj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d1de7d4ac163",
+      "title": "“암 위험 높인다”… 의사들 함부로 안 먹는다는 ‘약’의 정체는?",
+      "published": "2026-08-02T18:00:00+00:00",
+      "summary": "“암 위험 높인다”… 의사들 함부로 안 먹는다는 ‘약’의 정체는?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DN2JKOGJHNEtJaEwwejZqbzVZcVFBRnB3QXktOWdEbG9XQm9IVldNZ2UzWldKWWQzMGpNZ2FwUlJqV1pUUlN4RGlsV2MzWWFUSEZ1TVZBcS0wVGxybmNrck1TaVp1dENNbDBhRE81eEpWREZyR0x5Rmh6S295UkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1f8db512ee3b",
+      "title": "“16세 소녀, 개구리처럼 눈두덩이 퉁퉁”…‘이 질환’ 첫 신호였다",
+      "published": "2026-08-02T11:01:00+00:00",
+      "summary": "“16세 소녀, 개구리처럼 눈두덩이 퉁퉁”…‘이 질환’ 첫 신호였다&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sNFd1NkhVZGJfYjRaMGlXUTdycDBPdng0RkstX3FCMENXbG96NlpLTmJsOTNVYTNFR0VsZDVVVnlmUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "59fea734f6d7",
+      "title": "'3년간 아랫입술 퉁퉁' 30대 여성, 알레르기약도 안 들었다…무슨 병?",
+      "published": "2026-08-02T10:07:00+00:00",
+      "summary": "'3년간 아랫입술 퉁퉁' 30대 여성, 알레르기약도 안 들었다…무슨 병?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54NzhfcF9heklZdnZXR2ZxZUVTcVJzclBhSE5nQ0VweVpYai1yS21HYjVSYkRUcFgxRG1hUjZTbS1iZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7abba1e3edea",
+      "title": "국내 연구진, 파킨슨병 진단 새 단서 찾았다…혈액 단백질 조합 발굴 - 조선비즈",
+      "published": "2026-08-02T01:46:00+00:00",
+      "summary": "국내 연구진, 파킨슨병 진단 새 단서 찾았다…혈액 단백질 조합 발굴 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOUFMLUVoeUVvQW9aRVQ1OWJmLXFhcXFNaGpkb3hGN1Y5bGw4d1d2dnZBTFc4T09mR19UUklpWFR4NExnRFpPVEtpQk1KT3Z2V1BsWnVkallMM0R4ZWZSbjVCS21JbG9KelowN3RNbEhZTTJhdHRFd2hwMkdpUFllWG5JTTV1alF1cWs3WdIBoAFBVV95cUxPdlNBZ0pmYWtvd0I4MW5tTi14b1VYY1AtMDRwazNjNEo5OWE0SlBVTG5ramRNVVoyeTd1VXJESFpnblNkUHlwVHZlR3lfRGZCTHAyaHZocy1qb19Lblg5UUtiSEk3WEhXUlE2TkJLM01GVkEzY3pYLXo1dTk0NGJlVnJSU3BzMU5YLUxvN28wdzhpbjN4YTBJYTRDNms3WG9m?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bd77f45020a6",
+      "title": "우주에서 노화 20~25% 더 빨라져…세균 감염도 우려 수준",
+      "published": "2026-08-01T23:00:01+00:00",
+      "summary": "우주에서 노화 20~25% 더 빨라져…세균 감염도 우려 수준&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VODRRT2JFYktsa0szcE1lb0NTYjBpM1g2ZmtETURyR25TQ2c0MjlMNEgwLWNyVGo5Zm5HRTh6UVlsYXhCb0R3aFBOUGU0V29yUERPZ2x3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    }
+  ]
 }
