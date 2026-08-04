@@ -1,31 +1,31 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-04T08:41:08.230869+00:00",
-  "total_fetched": 80,
-  "unique_count": 80,
-  "health_related_count": 40,
+  "fetched_at": "2026-08-04T14:21:44.826840+00:00",
+  "total_fetched": 78,
+  "unique_count": 78,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "e4e08c4307b9",
-      "title": "여성 흉통 환자, '운동부하심전도검사' 덜 받는다 - 의학신문",
-      "published": "2026-08-04T06:57:56+00:00",
-      "summary": "여성 흉통 환자, '운동부하심전도검사' 덜 받는다&nbsp;&nbsp;의학신문흉통 환자 절반이 놓친 검사…\"여성이라서\" 더 위험했다&nbsp;&nbsp;v.daum.net흉통에 병원 찾았지만 … 여성 심장환자 진단 누락되는 이유&nbsp;&nbsp;뉴데일리흉통 검사도 성별 격차…여성, 운동부하심전도 덜 받았다&nbsp;&nbsp;e-의료정보흉통 환자 운동부하심전도검사 시행률 남녀 차...여성 40% 낮아&nbsp;&nbsp;메디칼트리뷴",
+      "id": "086c0fdf3528",
+      "title": "흉통 환자 운동부하심전도검사에서 성별 격차 규명 - 의약뉴스",
+      "published": "2026-08-04T08:34:00+00:00",
+      "summary": "흉통 환자 운동부하심전도검사에서 성별 격차 규명&nbsp;&nbsp;의약뉴스흉통 환자 절반이 놓친 검사…\"여성이라서\" 더 위험했다&nbsp;&nbsp;v.daum.net흉통에 병원 찾았지만 … 여성 심장환자 진단 누락되는 이유&nbsp;&nbsp;뉴데일리흉통 여성, 운동부하심전도검사 덜 받는다 … 국내 첫 진료현장 성별 격차 규명&nbsp;&nbsp;healtho.co.kr여성 흉통 환자, '운동부하심전도검사' 덜 받는다&nbsp;&nbsp;의학신문",
       "sources": [
         {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMXlUM0VVSHRRTmlhZGtQSTVrcW82X2k3VHVqendNN1oxNkp2MW9hTF9jV1h3X1Y0LTFVLTV6TFRKcVpRd0pwOHdNR3J4Q2gtLTczOGZ4MWZ1dlZqel9CSnExM0xoVTVlMmc?oc=5"
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIVU1HeUlXelJiQVNuTHhlbVFXT0FXcDVlNTlSWFYyUVNLT2tvbnc2dkZhbHhIazA4MUMwdEIzVmJORGdKNG5RdXFpbC1WLU5ZY3N0RVJrakExbjJJUXR2STNCUk5GSEk?oc=5"
         }
       ]
     },
     {
-      "id": "b834aca44bff",
-      "title": "‘몸신의 탄생’ 치매 예방 ‘고무줄 운동법’ 공개 - bntnews.co.kr",
-      "published": "2026-08-04T05:03:59+00:00",
-      "summary": "‘몸신의 탄생’ 치매 예방 ‘고무줄 운동법’ 공개&nbsp;&nbsp;bntnews.co.kr암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;중앙일보건망증과 치매, 무엇이 다른가?&nbsp;&nbsp;톱클래스'몸신의 탄생' 대상포진·우울증도 치매 위험? 숨겨진 치매 고위험군 조명[Ce:스포]&nbsp;&nbsp;네이트[이혜주 칼럼] 치매 환자와 가족을 위한 상담의 세 가지 시선&nbsp;&nbsp;디멘시아뉴스",
+      "id": "6fd354aec72d",
+      "title": "대한치매학회 \"운동이 최고의 예방약\"…치매 막는 생활습관 - 오아시스뉴스",
+      "published": "2026-08-04T06:16:48+00:00",
+      "summary": "대한치매학회 \"운동이 최고의 예방약\"…치매 막는 생활습관&nbsp;&nbsp;오아시스뉴스암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;중앙일보건망증과 치매, 무엇이 다른가?&nbsp;&nbsp;톱클래스‘몸신의 탄생’ 숨겨진 치매 고위험군 실체+예방법 집중 조명&nbsp;&nbsp;뉴스엔보험사, 치매 보장 넘어 예방·돌봄 케어 확장&nbsp;&nbsp;애플경제",
       "sources": [
         {
-          "name": "bntnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zTkxKV010aDdsNkVnaXktZlJTeGdZOGtLTVRPZFEwNjNsU3Y2Tldwb1JRN2I3bXVsdGROenFCZ0FNUkFjMjhtdWl0anRmR2ljMlBnaU9rSDdpcnZ1eFNHcTcta0k?oc=5"
+          "name": "오아시스뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41RlFXX3lrOHhyaTdZazJKSGp1NjF2V1N1X20wZzFyTFk5RGpTTkJvY2lyWFB0em10TS1xMTk0c3QycF84YlNwamF3ODg4dzljVjBpLU4zbXJ3bmd6My1PQ2s0VlY4cWRqSVJXS194ZFA?oc=5"
         }
       ]
     },
@@ -42,13 +42,25 @@
       ]
     },
     {
-      "id": "5c71bf81268f",
-      "title": "80세 선우용여가 즐겨 마시는 건강 주스… 왜 몸에 좋을까 - 세계일보",
-      "published": "2026-08-04T01:36:56+00:00",
-      "summary": "80세 선우용여가 즐겨 마시는 건강 주스… 왜 몸에 좋을까&nbsp;&nbsp;세계일보",
+      "id": "f346e686dde5",
+      "title": "[카드뉴스] 질병 이름은 어떻게 정해질까?...‘증상·원인’ 담고 ‘혐오’ 피하고 - sisunnews.co.kr",
+      "published": "2026-08-04T01:58:00+00:00",
+      "summary": "[카드뉴스] 질병 이름은 어떻게 정해질까?...‘증상·원인’ 담고 ‘혐오’ 피하고&nbsp;&nbsp;sisunnews.co.kr",
       "sources": [
         {
-          "name": "세계일보",
+          "name": "sisunnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mUXNmNkRjcC1YbEVHQUN5b1htQXFmVDBCNzdickZfdHRHR0VOajNJU2FvSkhsUXRicnplYmJIenA2MThwaHZwQUhRNUJZd0NPNHVmMGU2Z0JvaDBwcVVNN0kyS3N2b3hKS3VtU0R30gFyQVVfeXFMTjV1c1hwNThzbDZXSXZNQlUxVW1tVUpjSWswVVpjQmxfZVNDYVMzZi1selJWS2VXaF9yaHRsUU5mcmZObXJFZ09yamg4a1hFcERwVl9QUC1CMG9xeW41ZVVwSFl6Z0Z4SFhOVWtyM3gwOTh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22141a93b237",
+      "title": "80세 선우용여가 즐겨 마시는 건강 주스… 왜 몸에 좋을까 - segye.com",
+      "published": "2026-08-04T01:36:56+00:00",
+      "summary": "80세 선우용여가 즐겨 마시는 건강 주스… 왜 몸에 좋을까&nbsp;&nbsp;segye.com",
+      "sources": [
+        {
+          "name": "segye.com",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CaVZ4RDVDZWlIc2FmLUJnWDVWcWo4d2ZqaTRhVF9KMVhPV2xvcmozRHQ0aVZfbkgyS3lVdl8tbWZ5azBTYkRSSmI5TXl6c3l3UVhzLUdwVEnSAVRBVV95cUxNRVdSaVhhaWtrSUUtVk44WXRhQzVNYzViSUVCekhFUlVBWDNZc1JRNmpqSVZWcEVPbDFrQ05LeV93UWw5TUJRTTBTNGtDT3EyR28wdDY?oc=5"
         }
       ]
@@ -66,26 +78,14 @@
       ]
     },
     {
-      "id": "1816e4473c0f",
-      "title": "강성훈 고대 구로병원 교수 연구팀, 운동할 때 분비되는 단백질로 알츠하이머병 예측한다 - doctorstimes.com",
+      "id": "c3b5cd76a276",
+      "title": "강성훈 고대 구로병원 교수 연구팀, 운동할 때 분비되는 단백질로 알츠하이머병 예측한다 - 의사신문",
       "published": "2026-08-04T00:47:00+00:00",
-      "summary": "강성훈 고대 구로병원 교수 연구팀, 운동할 때 분비되는 단백질로 알츠하이머병 예측한다&nbsp;&nbsp;doctorstimes.com“운동 단백질 농도 보면 치매 예측 가능...뇌 아닌 전신 질환”&nbsp;&nbsp;v.daum.net\"운동이 치매 막는대\" 진짜였네…근육서 나온 단백질에 답 있었다 - 머니투데이&nbsp;&nbsp;머니투데이운동할수록 나오는 단백질 ‘아이리신’… 치매 조기 진단 열쇠 될까&nbsp;&nbsp;헬스조선운동하면 왜 치매 위험이 줄어들까… 답은 '근육'에 있었다&nbsp;&nbsp;파이낸셜뉴스",
+      "summary": "강성훈 고대 구로병원 교수 연구팀, 운동할 때 분비되는 단백질로 알츠하이머병 예측한다&nbsp;&nbsp;의사신문“운동하면 치매 예방” 진짜였다…‘이 단백질’이 핵심&nbsp;&nbsp;v.daum.net운동시 나오는 '이 단백질'…\"알츠하이머 조기 예측\"&nbsp;&nbsp;뉴시스\"운동이 치매 막는대\" 진짜였네…근육서 나온 단백질에 답 있었다 - 머니투데이&nbsp;&nbsp;머니투데이“운동 단백질 농도 보면 치매 예측 가능...뇌 아닌 전신 질환”&nbsp;&nbsp;매일경제",
       "sources": [
         {
-          "name": "doctorstimes.com",
+          "name": "의사신문",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aVUoxVEtfZ3FKSEZNOG0tNHl6cEtyNzZ1ZWhQbVU4d0FhNi1pdUZ3cENYaXFETEcyaDMwcGdWbTg2NjU4WDlOSGJsX2p2XzNabjFjeGpPbC0zWm9KTUNCclg0Q0t0MURjMFplY251aw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e48668fddc69",
-      "title": "가천대 길병원 심장호흡재활센터, 치료 건수 180% 급증 - 간호사신문",
-      "published": "2026-08-04T00:42:49+00:00",
-      "summary": "가천대 길병원 심장호흡재활센터, 치료 건수 180% 급증&nbsp;&nbsp;간호사신문가천대 길병원 심장호흡재활센터, 재활치료 180% 증가로 환자 건강 회복 지원&nbsp;&nbsp;네이트가천대 길병원 심장·호흡 재활 월 517건…2년 새 182%↑&nbsp;&nbsp;쿠키메디가천대 길병원, 심장·호흡 재활치료 2년 새 182% 급증&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDUmZWTDFrVTZoVW8wMmk3YzdBM29kRkJpbWhXRHZzaU5oNjNkdTRad01HZXNKSEtPbUlsTHoyZGRYZE93X2hEbVlEZjQ4eFBTc2pZejBnSVhOSDBLNlRxZUZiVFdsaEdvZGNveFNR?oc=5"
         }
       ]
     },
@@ -114,6 +114,30 @@
       ]
     },
     {
+      "id": "e2b6cab9135a",
+      "title": "[한국인의 100가지 질환-77] 하지불안증후군, 다리가 불편해 잠을 못 잔다면 - 뉴스인",
+      "published": "2026-08-04T00:29:47+00:00",
+      "summary": "[한국인의 100가지 질환-77] 하지불안증후군, 다리가 불편해 잠을 못 잔다면&nbsp;&nbsp;뉴스인",
+      "sources": [
+        {
+          "name": "뉴스인",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZUxYelpsc3RhZHN0dFY4bHluUHh3d1RqTmUyTk1yTklTVmR4NVlGUGN2WTZNS1NBcnRxbUFWM0ZPakxlNk5fMGJzaHR0eG1UWVVfWTlXUzhvNHAwOHVhZF9GMEJ5SXowZFBF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bedd26355c57",
+      "title": "상용화 앞선 의료 AI '뷰노 딥카스'…신의료기술평가·수가 관문 넘을까 - 코리아헬스로그",
+      "published": "2026-08-04T00:17:14+00:00",
+      "summary": "상용화 앞선 의료 AI '뷰노 딥카스'…신의료기술평가·수가 관문 넘을까&nbsp;&nbsp;코리아헬스로그상용화 앞선 '뷰노 딥카스'…신의료기술평가·수가 관문 넘을까&nbsp;&nbsp;청년의사AI가 살렸다…'실시간 예후 예측' 도입 후 사망 위험 18%↓&nbsp;&nbsp;메디칼타임즈에이아이트릭스, 바이탈케어 정식평가…3년 임상근거 확보&nbsp;&nbsp;메디파나뉴스\"심정지 21%·사망률 15% 감소, 2차병원에서도 통하는 AI\"...뷰노 딥카스의 임상 근거&nbsp;&nbsp;MEDI:GATE NEWS",
+      "sources": [
+        {
+          "name": "코리아헬스로그",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Oc19QaFJERmVCWFFRVlRkTlpqY0NBenpBVHJfLWRyNVRWckVTZEVPUW9EUnZUOG8tMHBhaXAtaU1qR0o3NENxajV1QnprclZsY3RScGZIWkFGVjVRd1h0OGZrYzR4eTE2eGhsYzgzVW5LQdIBdkFVX3lxTE4xWDlZWmpCLTRiYllTOGx2ZTc2ZWYyQVA2My1HSnpuZldfUWg2WXY0OXg2anJScWVuTmRfV0hFUVZDTVBjWktPaXR5TEZ1QkUzNFRxc0FVVjdaR0ZGOGQ3V2txRHZIc1BYWXFVdU81TWJqeEJBYUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6f099962820c",
       "title": "[박찬우 박사 칼럼 13] 당뇨, 약으로 잡을까 밥상으로 잡을까 - 캐어유 뉴스",
       "published": "2026-08-04T00:00:00+00:00",
@@ -126,22 +150,10 @@
       ]
     },
     {
-      "id": "2d36f2c7968c",
-      "title": "상용화 앞선 '뷰노 딥카스'…신의료기술평가·수가 관문 넘을까 - 청년의사",
-      "published": "2026-08-03T21:07:41+00:00",
-      "summary": "상용화 앞선 '뷰노 딥카스'…신의료기술평가·수가 관문 넘을까&nbsp;&nbsp;청년의사에이아이트릭스, 바이탈케어 정식평가…3년 임상근거 확보&nbsp;&nbsp;메디파나뉴스에이아이트릭스, 급성신부전 예측 AI 연구 ‘npj 디지털 메디신’ 게재&nbsp;&nbsp;의학신문AITRICS, 급성신부전 예측 AI 연구 논문 게재&nbsp;&nbsp;메디칼업저버에이아이트릭스, 급성신부전 예측 AI 연구 국제학술지 게재&nbsp;&nbsp;etnews.com",
-      "sources": [
-        {
-          "name": "청년의사",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBaXdHd2FUWUhQTF9mdFlySzZ4MnV3cHEtc0p4UE5tNS11Ymp3cTdjVmo3VWZqZE5ZUkJKZGlxVGd5ajR4V1RVYWlvclA3UnItdTd4aDk4N3YxSS1uUW5qNlYycmZEUFAxVFJHZWFsQdIBc0FVX3lxTFBFNUtSU25RX09oa2xIU052TXQwcFZtcjJGdkFQZk11cWRwSjE2RjJ4TTdodG9zcmEzQTlac0k3bTVGd0d5R0xCckh0VThlSUcyeGMwVEF0al8yeU43X1VjY3FVRnBOVERtSDFNTkpSSTFXdGs?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1c882d9b0b68",
       "title": "말기콩팥병 막을 골든타임…중증 IgA 신병증, \"희귀질환 지정·급여 개선 시급\" - 뉴스더보이스헬스케어",
       "published": "2026-08-03T21:04:00+00:00",
-      "summary": "말기콩팥병 막을 골든타임…중증 IgA 신병증, \"희귀질환 지정·급여 개선 시급\"&nbsp;&nbsp;뉴스더보이스헬스케어“10년 뒤 투석 진료비 6조 원”… 만성콩팥병 국가 관리에 ‘구멍’ 있다&nbsp;&nbsp;헬스조선[칼럼]소리 없이 무너지는 콩팥, 혈액·소변 검사 단 두 개로 지킨다&nbsp;&nbsp;코리아헬스로그만성 신장병 환자 삶의 질 높이는 위드정내과…`투석 그 이상의 치료` 구현&nbsp;&nbsp;매일신문\"조기검진으로 투석 막으면 1인당 1억 5000만원 절감\"&nbsp;&nbsp;라이프인",
+      "summary": "말기콩팥병 막을 골든타임…중증 IgA 신병증, \"희귀질환 지정·급여 개선 시급\"&nbsp;&nbsp;뉴스더보이스헬스케어“10년 뒤 투석 진료비 6조 원”… 만성콩팥병 국가 관리에 ‘구멍’ 있다&nbsp;&nbsp;헬스조선[칼럼]소리 없이 무너지는 콩팥, 혈액·소변 검사 단 두 개로 지킨다&nbsp;&nbsp;코리아헬스로그만성 신장병 환자 삶의 질 높이는 위드정내과…`투석 그 이상의 치료` 구현&nbsp;&nbsp;매일신문\"조기검진으로 투석 막으면 1인당 1억 5000만원 절감\"&nbsp;&nbsp;lifein.news",
       "sources": [
         {
           "name": "뉴스더보이스헬스케어",
@@ -198,22 +210,10 @@
       ]
     },
     {
-      "id": "74a7a7821640",
-      "title": "고려대 안암병원 함병주ㆍ한규만 교수팀, 양극성장애 뇌 구조 변화와 유전변이 연관성 규명 - 의약뉴스",
-      "published": "2026-08-03T10:32:00+00:00",
-      "summary": "고려대 안암병원 함병주ㆍ한규만 교수팀, 양극성장애 뇌 구조 변화와 유전변이 연관성 규명&nbsp;&nbsp;의약뉴스양극성장애 환자 뇌 구조 바꾸는 '희귀 유전자 변이' 발견&nbsp;&nbsp;v.daum.net감정 널뛰는 ‘조울증’…유전자에서 숨은 단서 찾았다&nbsp;&nbsp;서울경제'극과극 감정' 양극성장애…'이 유전자' 변이 때문&nbsp;&nbsp;뉴시스함병주·한규만 고려대 안암병원 교수팀, 양극성장애 유전변이와 뇌 구조 변화 연결고리 규명&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOTlhnNXRGRGYwSEVpMjQ5QTVTZTI2SVVFMUEzYUFPTE5kWlhaUUotbFFwTlBDSVNOQ3NvZ250ZFNDZVA5QXI0Z0pXb05rUUVhYTNfUG1OS1FqbWpaQkxBelJkQ2hteU0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c65c2e77cbb8",
       "title": "고려대 안암병원 박진우 교수, 국제신경근육질환학회 우수포스터상 수상ㆍ초청강연 - 의약뉴스",
       "published": "2026-08-03T10:20:42+00:00",
-      "summary": "고려대 안암병원 박진우 교수, 국제신경근육질환학회 우수포스터상 수상ㆍ초청강연&nbsp;&nbsp;의약뉴스고대 안암병원, 루게릭병 자율신경기능 연구로 국제학회 우수포스터상&nbsp;&nbsp;주간한국[동정] 박진우 교수, 우수포스터상 수상·초청 강연&nbsp;&nbsp;메디칼업저버[동정] 박진우 고대 안암병원 교수, '제19회 ICNMD 2026'서 초청강연 진행&nbsp;&nbsp;더글로벌기빙뉴스고려대 안암병원 신경과 박진우 교수, 국제신경근육질환학회 우수포스터상 수상&nbsp;&nbsp;medigatenews.com",
+      "summary": "고려대 안암병원 박진우 교수, 국제신경근육질환학회 우수포스터상 수상ㆍ초청강연&nbsp;&nbsp;의약뉴스고대 안암병원, 루게릭병 자율신경기능 연구로 국제학회 우수포스터상&nbsp;&nbsp;주간한국[동정] 박진우 교수, 우수포스터상 수상·초청 강연&nbsp;&nbsp;monews.co.kr[동정] 박진우 고대 안암병원 교수, '제19회 ICNMD 2026'서 초청강연 진행&nbsp;&nbsp;더글로벌기빙뉴스루게릭병, 초기부터 자율신경 이상 동반… 고대 안암병원 연구팀 수상&nbsp;&nbsp;nursenews.co.kr",
       "sources": [
         {
           "name": "의약뉴스",
@@ -234,14 +234,14 @@
       ]
     },
     {
-      "id": "2f8344c8648b",
+      "id": "72e200defe10",
       "title": "생물의 유전자 켜는 법은 '비슷', 끄는 법은 '제각각' - v.daum.net",
       "published": "2026-08-03T09:02:09+00:00",
       "summary": "생물의 유전자 켜는 법은 '비슷', 끄는 법은 '제각각'&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nOTg2UGVQZXBYR0VfdWpadWpubFptbjhKellkVXRUa2NIbGpDOHJkdmJrQzhvNkJEVGtqOHRGN2dVRmY5S0E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sV2IzYXZEeHEyckI3THFnZTMyMGM3XzdrR1NDQVBnME1nVHpPRTdaYXdSekFYZ1JwWVBBdnRsNDF1Z1FoY0xlRi1sTEZTRVE?oc=5"
         }
       ]
     },
@@ -249,23 +249,11 @@
       "id": "a6f7186ab713",
       "title": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야 - 하이뉴스",
       "published": "2026-08-03T08:53:39+00:00",
-      "summary": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야&nbsp;&nbsp;하이뉴스“운동 뒤 손이 찌릿” 손목이 보내는 위험 신호 3가지&nbsp;&nbsp;헬스조선\"꽉 쥐는 여름 레포츠, 손목엔 독\"... 수영, 서핑 즐긴 대가는 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스[건강톡톡] 여름, 손목터널증후군·건초염 주의&nbsp;&nbsp;간호사신문여름 레포츠 후 손목 ‘찌릿’·손가락 ‘딸깍’… 손목터널증후군 등 수부질환 위험↑&nbsp;&nbsp;thefirstmedia.net",
+      "summary": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야&nbsp;&nbsp;하이뉴스당신이 몰랐던 몸의 경고 ① 손&nbsp;&nbsp;톱클래스\"꽉 쥐는 여름 레포츠, 손목엔 독\"... 수영, 서핑 즐긴 대가는 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스아사힘리커버리스포츠점, \"손목 저림·불편감, 맞춤형 재활운동 필요\"&nbsp;&nbsp;한국뉴스통신[건강톡톡] 여름, 손목터널증후군·건초염 주의&nbsp;&nbsp;nursenews.co.kr",
       "sources": [
         {
           "name": "하이뉴스",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xd3NYTWlNQUFrZ2JBUllKcGpOWFkwUi1Ra3ZfUWs1UmNadGpJRl9fX29PamxGRDZxNmN4LWw4Z1dMUmtPTnRkdjBOLUFrZUZZMnEyMWFfWW91d0xsWEVTcHhZR3dsMTVzLUszQkxKdmhHLTljbEVj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd3e14922094",
-      "title": "\"스도쿠? 이게 진짜 뇌고문\" 20년뒤 치매 막는 훈련법 찾았다 - 네이트",
-      "published": "2026-08-03T07:54:00+00:00",
-      "summary": "\"스도쿠? 이게 진짜 뇌고문\" 20년뒤 치매 막는 훈련법 찾았다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40Vzl4RFdsNDNPV0tyaGhVWG1CX0htNUFmd3lwUlZJN205N29xSEVreXY0ZXVBZ2dEeWw0eXJhZ2ttOUc0TkFaYmhfZDBOUEdzaUxpLWdDN2c0aVl6YUVxYg?oc=5"
         }
       ]
     },
@@ -285,7 +273,7 @@
       "id": "7d3d050e7a33",
       "title": "지방세포가 추위 견디는 비결 찾았다…UNIST, 미토콘드리아 보존 기전 규명 - 서울파이낸스",
       "published": "2026-08-03T03:50:00+00:00",
-      "summary": "지방세포가 추위 견디는 비결 찾았다…UNIST, 미토콘드리아 보존 기전 규명&nbsp;&nbsp;서울파이낸스'세포 속 난로' 키우는 전략 규명…비만 치료제 개발 단초&nbsp;&nbsp;v.daum.netUNIST, 추위 속 '세포 난로' 보존 원리 찾았다&nbsp;&nbsp;뉴시스지방세포, 추위에 맞서 ‘세포 속 난로’ 더 오래 쓴다!&nbsp;&nbsp;BRIC다이어트 여름에 하면 손해…이유는 온도별 지방세포 분해 속도&nbsp;&nbsp;매일경제",
+      "summary": "지방세포가 추위 견디는 비결 찾았다…UNIST, 미토콘드리아 보존 기전 규명&nbsp;&nbsp;서울파이낸스'세포 속 난로' 키우는 전략 규명…비만 치료제 개발 단초&nbsp;&nbsp;v.daum.netUNIST, 추위 속 '세포 난로' 보존 원리 찾았다&nbsp;&nbsp;뉴시스지방세포, 추위에 맞서 ‘세포 속 난로’ 더 오래 쓴다!&nbsp;&nbsp;ibric.org다이어트 여름에 하면 손해…이유는 온도별 지방세포 분해 속도&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "서울파이낸스",
@@ -297,7 +285,7 @@
       "id": "befd8c47d7c6",
       "title": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다] - 네이트",
       "published": "2026-08-03T03:46:00+00:00",
-      "summary": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다]&nbsp;&nbsp;네이트천연물 기반 루게릭병·전측두엽 치매 치료전략 제시&nbsp;&nbsp;ibric.org얼굴 ‘이 부위’ 눌렀더니…치매 부르는 뇌 노폐물 청소됐다&nbsp;&nbsp;미주중앙일보늙으면 막히는 뇌 속 '배수구'…코에 약물 뿌려 뚫는 법 찾았다&nbsp;&nbsp;바이오북미디어치매 원인 뇌 노폐물 배출 ‘비밀 통로’ 찾았다&nbsp;&nbsp;KBS 뉴스",
       "sources": [
         {
           "name": "네이트",
@@ -366,6 +354,18 @@
       ]
     },
     {
+      "id": "8bf91a2bcef6",
+      "title": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명 - 메드월드뉴스",
+      "published": "2026-08-03T01:34:33+00:00",
+      "summary": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명&nbsp;&nbsp;메드월드뉴스양극성장애 환자 뇌 구조 바꾸는 '희귀 유전자 변이' 발견&nbsp;&nbsp;v.daum.net감정 널뛰는 ‘조울증’…유전자에서 숨은 단서 찾았다&nbsp;&nbsp;서울경제'극과극 감정' 양극성장애…'이 유전자' 변이 때문&nbsp;&nbsp;뉴시스함병주·한규만 고려대 안암병원 교수팀, 양극성장애 유전변이와 뇌 구조 변화 연결고리 규명&nbsp;&nbsp;healtho.co.kr",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQWhBZFUzNHF4M21QMW9MSU9pVzhpRjlOQ3ltem5qaUIxT3lEN09rOW9UYWhFdlM4Y1FpMVFrZVVyWW9mMGNDUEtJa013d1FyaEJiNExGT0NtSDFEYU1SRDRGdmdGdW8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0ca42b03823d",
       "title": "“운동 주 3회 안해도 뱃살 빠진다?”…딱 한번 ‘이만큼’ 걸었더니, 놀라운 변화가? - 코메디닷컴",
       "published": "2026-08-03T01:10:00+00:00",
@@ -390,25 +390,25 @@
       ]
     },
     {
-      "id": "40fd3ecd1a80",
+      "id": "c346459376b4",
       "title": "[사이언스스코프]생명의 암호 읽던 인간…이젠 유전자를 '디자인'한다 - 네이트",
       "published": "2026-08-02T21:30:00+00:00",
       "summary": "[사이언스스코프]생명의 암호 읽던 인간…이젠 유전자를 '디자인'한다&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UM2EyT3lkeUpsYkItVnlyM2ZlN0VFZjhybmNaaTVfNWJsMzhKaWU5U0hqZ3c3d3IxcURlWUprVmZJUkYwMVYzRVdiTzduWE9tTUxYeG9URTNDMXlXX3kzOA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhVFllb0luT3VnS0xzcDBVQXdyakpkSW1Qc1l0dEczVmQtckMtbGZoQ3pQQkJWQzRtbVhyTmNpXzljZ0lhbUp4NFdPa1gyUlZvWDFZMnRzYURyYl9QUEIxTg?oc=5"
         }
       ]
     },
     {
-      "id": "05850548775d",
-      "title": "“신속대응 부재時 2030년까지 300만명 HIV 감염” - yakup.com",
+      "id": "8bc01fbe163d",
+      "title": "“신속대응 부재時 2030년까지 300만명 HIV 감염” - 약업신문",
       "published": "2026-08-02T21:00:42+00:00",
-      "summary": "“신속대응 부재時 2030년까지 300만명 HIV 감염”&nbsp;&nbsp;yakup.com",
+      "summary": "“신속대응 부재時 2030년까지 300만명 HIV 감염”&nbsp;&nbsp;약업신문",
       "sources": [
         {
-          "name": "yakup.com",
+          "name": "약업신문",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vODNfeWttMW5UaW1KUk56TmRMRGNWeGE0VW9VcmZ2NWdiWjc2SVZrTU5FRjNFd1paYjBpOUptcWJVbmtjNldzaDg3eWVVZ3BHejZSLXpFRU1KRy1LTW1DM0w3YXJwdw?oc=5"
         }
       ]
@@ -434,30 +434,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DN2JKOGJHNEtJaEwwejZqbzVZcVFBRnB3QXktOWdEbG9XQm9IVldNZ2UzWldKWWQzMGpNZ2FwUlJqV1pUUlN4RGlsV2MzWWFUSEZ1TVZBcS0wVGxybmNrck1TaVp1dENNbDBhRE81eEpWREZyR0x5Rmh6S295UkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f8db512ee3b",
-      "title": "“16세 소녀, 개구리처럼 눈두덩이 퉁퉁”…‘이 질환’ 첫 신호였다 - 코메디닷컴",
-      "published": "2026-08-02T11:01:00+00:00",
-      "summary": "“16세 소녀, 개구리처럼 눈두덩이 퉁퉁”…‘이 질환’ 첫 신호였다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9sNFd1NkhVZGJfYjRaMGlXUTdycDBPdng0RkstX3FCMENXbG96NlpLTmJsOTNVYTNFR0VsZDVVVnlmUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59fea734f6d7",
-      "title": "'3년간 아랫입술 퉁퉁' 30대 여성, 알레르기약도 안 들었다…무슨 병? - 코메디닷컴",
-      "published": "2026-08-02T10:07:00+00:00",
-      "summary": "'3년간 아랫입술 퉁퉁' 30대 여성, 알레르기약도 안 들었다…무슨 병?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54NzhfcF9heklZdnZXR2ZxZUVTcVJzclBhSE5nQ0VweVpYai1yS21HYjVSYkRUcFgxRG1hUjZTbS1iZw?oc=5"
         }
       ]
     },
