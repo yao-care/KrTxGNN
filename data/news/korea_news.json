@@ -1,19 +1,79 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-04T02:46:50.279617+00:00",
-  "total_fetched": 66,
-  "unique_count": 66,
-  "health_related_count": 32,
+  "fetched_at": "2026-08-04T08:41:08.230869+00:00",
+  "total_fetched": 80,
+  "unique_count": 80,
+  "health_related_count": 40,
   "news": [
     {
-      "id": "a13257f117d0",
-      "title": "운동할 때 분비되는 단백질로 알츠하이머병 예측 - 동아사이언스",
-      "published": "2026-08-04T01:49:00+00:00",
-      "summary": "운동할 때 분비되는 단백질로 알츠하이머병 예측&nbsp;&nbsp;동아사이언스\"운동이 치매 막는대\" 진짜였네…근육서 나온 단백질에 답 있었다 - 머니투데이&nbsp;&nbsp;머니투데이혈중 아이리신 낮을수록 뇌 아밀로이드 축적 높다&nbsp;&nbsp;의학신문운동 단백질 '아이리신', 혈액으로 알츠하이머병 조기 예측 가능성 확인&nbsp;&nbsp;메디팜스투데이기억력 멀쩡한데 뇌엔 알츠하이머 흔적…혈액 속 '이 단백질' 수치 낮았다&nbsp;&nbsp;코메디닷컴",
+      "id": "e4e08c4307b9",
+      "title": "여성 흉통 환자, '운동부하심전도검사' 덜 받는다 - 의학신문",
+      "published": "2026-08-04T06:57:56+00:00",
+      "summary": "여성 흉통 환자, '운동부하심전도검사' 덜 받는다&nbsp;&nbsp;의학신문흉통 환자 절반이 놓친 검사…\"여성이라서\" 더 위험했다&nbsp;&nbsp;v.daum.net흉통에 병원 찾았지만 … 여성 심장환자 진단 누락되는 이유&nbsp;&nbsp;뉴데일리흉통 검사도 성별 격차…여성, 운동부하심전도 덜 받았다&nbsp;&nbsp;e-의료정보흉통 환자 운동부하심전도검사 시행률 남녀 차...여성 40% 낮아&nbsp;&nbsp;메디칼트리뷴",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vSUM2ejZGQWVyVXFVT01kZkNYVENmelpaRGRlNTFsSWVRc2hETzIzS0pjc2dMcXJXV3lJMmFzQkVpdVNWemJVMnV0bFU5VGljaHg5Qg?oc=5"
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMXlUM0VVSHRRTmlhZGtQSTVrcW82X2k3VHVqendNN1oxNkp2MW9hTF9jV1h3X1Y0LTFVLTV6TFRKcVpRd0pwOHdNR3J4Q2gtLTczOGZ4MWZ1dlZqel9CSnExM0xoVTVlMmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b834aca44bff",
+      "title": "‘몸신의 탄생’ 치매 예방 ‘고무줄 운동법’ 공개 - bntnews.co.kr",
+      "published": "2026-08-04T05:03:59+00:00",
+      "summary": "‘몸신의 탄생’ 치매 예방 ‘고무줄 운동법’ 공개&nbsp;&nbsp;bntnews.co.kr암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;중앙일보건망증과 치매, 무엇이 다른가?&nbsp;&nbsp;톱클래스'몸신의 탄생' 대상포진·우울증도 치매 위험? 숨겨진 치매 고위험군 조명[Ce:스포]&nbsp;&nbsp;네이트[이혜주 칼럼] 치매 환자와 가족을 위한 상담의 세 가지 시선&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "bntnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zTkxKV010aDdsNkVnaXktZlJTeGdZOGtLTVRPZFEwNjNsU3Y2Tldwb1JRN2I3bXVsdGROenFCZ0FNUkFjMjhtdWl0anRmR2ljMlBnaU9rSDdpcnZ1eFNHcTcta0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6dc74b2ea4f2",
+      "title": "아토피·알레르기 식단 관리… “개인별 면역 반응 고려한 접근 필요” - 하이닥",
+      "published": "2026-08-04T03:30:00+00:00",
+      "summary": "아토피·알레르기 식단 관리… “개인별 면역 반응 고려한 접근 필요”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43Ym11aUc5RVdOaWlJTE1SQi1TR0EyTmZvMndqaGk1Sl81SlZvejZ3dXd5eFRwV1prRXdZazdJWU5uT1VXMmxzblhVYVprVnJVbmpmeUVMZ0tJaTlWRXQ4dkRnYVIzSkprUFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c71bf81268f",
+      "title": "80세 선우용여가 즐겨 마시는 건강 주스… 왜 몸에 좋을까 - 세계일보",
+      "published": "2026-08-04T01:36:56+00:00",
+      "summary": "80세 선우용여가 즐겨 마시는 건강 주스… 왜 몸에 좋을까&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CaVZ4RDVDZWlIc2FmLUJnWDVWcWo4d2ZqaTRhVF9KMVhPV2xvcmozRHQ0aVZfbkgyS3lVdl8tbWZ5azBTYkRSSmI5TXl6c3l3UVhzLUdwVEnSAVRBVV95cUxNRVdSaVhhaWtrSUUtVk44WXRhQzVNYzViSUVCekhFUlVBWDNZc1JRNmpqSVZWcEVPbDFrQ05LeV93UWw5TUJRTTBTNGtDT3EyR28wdDY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28badf931ace",
+      "title": "릴리, 차세대 비만약 ‘레타트루타이드’ 허가 전 제한 공급 - IT조선",
+      "published": "2026-08-04T01:20:36+00:00",
+      "summary": "릴리, 차세대 비만약 ‘레타트루타이드’ 허가 전 제한 공급&nbsp;&nbsp;IT조선",
+      "sources": [
+        {
+          "name": "IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RZFlZRk9XTzVGYnRLbEY0UVg5U3VIcGxNb29jLXE2c0lNN2RJVHZ3c1lVa01mcEFSNEtGUlMwVWhReHNhSXpkR2d6YXBzbXRCcUZha3BETnQ3Z1hsNVdQR1ZIR3lDaWVGTmIxUngxNEvSAXRBVV95cUxOOVpEYmZ4WjcxY2thQ3lBVFRWYXBpZHhDTFJWZ3h6ZFRLVW0yaUFGaG0zTVZYd3UxMHg1am8yek5RckpYcUJ4X1FzUmZCMEk0TlZUUGlrWEF2WjdTTlEwWmRQUjBCZEFPeFBndXlxV0JNZjhlZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1816e4473c0f",
+      "title": "강성훈 고대 구로병원 교수 연구팀, 운동할 때 분비되는 단백질로 알츠하이머병 예측한다 - doctorstimes.com",
+      "published": "2026-08-04T00:47:00+00:00",
+      "summary": "강성훈 고대 구로병원 교수 연구팀, 운동할 때 분비되는 단백질로 알츠하이머병 예측한다&nbsp;&nbsp;doctorstimes.com“운동 단백질 농도 보면 치매 예측 가능...뇌 아닌 전신 질환”&nbsp;&nbsp;v.daum.net\"운동이 치매 막는대\" 진짜였네…근육서 나온 단백질에 답 있었다 - 머니투데이&nbsp;&nbsp;머니투데이운동할수록 나오는 단백질 ‘아이리신’… 치매 조기 진단 열쇠 될까&nbsp;&nbsp;헬스조선운동하면 왜 치매 위험이 줄어들까… 답은 '근육'에 있었다&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "doctorstimes.com",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aVUoxVEtfZ3FKSEZNOG0tNHl6cEtyNzZ1ZWhQbVU4d0FhNi1pdUZ3cENYaXFETEcyaDMwcGdWbTg2NjU4WDlOSGJsX2p2XzNabjFjeGpPbC0zWm9KTUNCclg0Q0t0MURjMFplY251aw?oc=5"
         }
       ]
     },
@@ -21,7 +81,7 @@
       "id": "e48668fddc69",
       "title": "가천대 길병원 심장호흡재활센터, 치료 건수 180% 급증 - 간호사신문",
       "published": "2026-08-04T00:42:49+00:00",
-      "summary": "가천대 길병원 심장호흡재활센터, 치료 건수 180% 급증&nbsp;&nbsp;간호사신문",
+      "summary": "가천대 길병원 심장호흡재활센터, 치료 건수 180% 급증&nbsp;&nbsp;간호사신문가천대 길병원 심장호흡재활센터, 재활치료 180% 증가로 환자 건강 회복 지원&nbsp;&nbsp;네이트가천대 길병원 심장·호흡 재활 월 517건…2년 새 182%↑&nbsp;&nbsp;쿠키메디가천대 길병원, 심장·호흡 재활치료 2년 새 182% 급증&nbsp;&nbsp;의학신문",
       "sources": [
         {
           "name": "간호사신문",
@@ -30,14 +90,26 @@
       ]
     },
     {
-      "id": "62e05728708e",
-      "title": "유하영·박성미 고대 안암병원 교수팀, 흉통 환자 ‘운동부하심전도검사’ 성별 격차 규명 - 의사신문",
-      "published": "2026-08-04T00:42:35+00:00",
-      "summary": "유하영·박성미 고대 안암병원 교수팀, 흉통 환자 ‘운동부하심전도검사’ 성별 격차 규명&nbsp;&nbsp;의사신문세계 최초 운동부하심전도검사 시행 성별 격차 규명돼&nbsp;&nbsp;메디칼업저버고대안암병원, 흉통 환자 ‘운동부하심전도검사’ 성별 격차 규명&nbsp;&nbsp;라포르시안",
+      "id": "80b737e5d1c7",
+      "title": "낚시에 ‘우두머리 수컷’ 잡혀가자, 어린 암컷 때이른 성전환…“알 낳을 기회 사라져” - 한겨레",
+      "published": "2026-08-04T00:40:00+00:00",
+      "summary": "낚시에 ‘우두머리 수컷’ 잡혀가자, 어린 암컷 때이른 성전환…“알 낳을 기회 사라져”&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fWEVXVkJTaThUOFl0MGFvTkZzU2dVVjNBV3dTWlNzOHdVbmhXbWlSN2I1YnZoT1Vndml6NHJhZ0JzS2NxX3ZzemE2NVZTLXMzcnpsRDRGZ1ZDRGx1OVVTUDQ0bWpfVW5oNmdISGJOOA?oc=5"
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40ZF9Kcy1STE4wWDBQTnJKUGM5bVhvRlRKUzQ0MlV3eFByUjNPdU1zeUZveDZHZGI0Unh4bUgyMXJjaVpGeUlNR2VnTnVWWjVacUl5TnU4eWlhQWpwSC1zMklrNHZQVzBQR2IzbTREeFVtUmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4ddde2061b6",
+      "title": "전립선암 진단부터 최신 치료까지…환자 맞춤 안내서 출간 - e-의료정보",
+      "published": "2026-08-04T00:37:40+00:00",
+      "summary": "전립선암 진단부터 최신 치료까지…환자 맞춤 안내서 출간&nbsp;&nbsp;e-의료정보[신간] 전립선암, 제대로 알고 제대로 치료하자&nbsp;&nbsp;에너지경제신문분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선[신간] 전립선암, 두려움 대신 정확한 정보로 맞서자! 변석수 교수 출간&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "e-의료정보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YVlFXRDFvS014N2RYc2pxa2lxMzBWSHJZcTFHbEJIZVBGMUptb2UtZTFSMFdOZ05VYmgxWWg1UHJCVVBUZThOQm80SU9sWHE1Mnl6SnVFanJaMHI1VkVCMHI1a2ctQW9NN3BZ0gFvQVVfeXFMT3NDOUpxc05JRDlCeGpDZl80Tjc3cHlHZmRIdExQOVRweDJjNHl3dXFVZ3RlamYyXzV4ZkNtZjFLMkpscVJwbC15ZFZCcWxCbENaS3ZCQ1NWRVR2MlJxUHpKTEFDaGNMc2VRV3gxOHZr?oc=5"
         }
       ]
     },
@@ -54,14 +126,38 @@
       ]
     },
     {
-      "id": "b0a528add747",
-      "title": "국립암센터·UNIST, 유방암 미세환경 ‘지방세포’ 공략…항암제 내성 극복 새 지평 - 의학신문",
-      "published": "2026-08-03T23:49:50+00:00",
-      "summary": "국립암센터·UNIST, 유방암 미세환경 ‘지방세포’ 공략…항암제 내성 극복 새 지평&nbsp;&nbsp;의학신문제주발 의생명 연구 '쾌거'…유방암 치료 새 이정표 제시&nbsp;&nbsp;제민일보암 키우고 퍼뜨리는 '주변 지방세포' 공략…항암제 내성 극복 길 열렸다 - 머니투데이&nbsp;&nbsp;머니투데이제주대 연구팀, 유방암 표적항암제 내성 경로 찾았다… 병용치료 해법 제시&nbsp;&nbsp;v.daum.net항암제 안 듣던 유방암의 비밀… 국내 연구진, 종양 크기 56%↓ 표적 단백질 규명&nbsp;&nbsp;아시아경제",
+      "id": "2d36f2c7968c",
+      "title": "상용화 앞선 '뷰노 딥카스'…신의료기술평가·수가 관문 넘을까 - 청년의사",
+      "published": "2026-08-03T21:07:41+00:00",
+      "summary": "상용화 앞선 '뷰노 딥카스'…신의료기술평가·수가 관문 넘을까&nbsp;&nbsp;청년의사에이아이트릭스, 바이탈케어 정식평가…3년 임상근거 확보&nbsp;&nbsp;메디파나뉴스에이아이트릭스, 급성신부전 예측 AI 연구 ‘npj 디지털 메디신’ 게재&nbsp;&nbsp;의학신문AITRICS, 급성신부전 예측 AI 연구 논문 게재&nbsp;&nbsp;메디칼업저버에이아이트릭스, 급성신부전 예측 AI 연구 국제학술지 게재&nbsp;&nbsp;etnews.com",
       "sources": [
         {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwTTdRSUt2Wks2S0pmNHk2QnU1ZDNUc0d6LU1SMFFCOGJkOWZ1dUxRbkJxOEVvZkhmV2JhRkNkdEwxMEtSMXF1Z1NUekEycWE5N3R0N19zRC1QUWxmVnFmcTBxQjQ4NzVtbmc?oc=5"
+          "name": "청년의사",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBaXdHd2FUWUhQTF9mdFlySzZ4MnV3cHEtc0p4UE5tNS11Ymp3cTdjVmo3VWZqZE5ZUkJKZGlxVGd5ajR4V1RVYWlvclA3UnItdTd4aDk4N3YxSS1uUW5qNlYycmZEUFAxVFJHZWFsQdIBc0FVX3lxTFBFNUtSU25RX09oa2xIU052TXQwcFZtcjJGdkFQZk11cWRwSjE2RjJ4TTdodG9zcmEzQTlac0k3bTVGd0d5R0xCckh0VThlSUcyeGMwVEF0al8yeU43X1VjY3FVRnBOVERtSDFNTkpSSTFXdGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c882d9b0b68",
+      "title": "말기콩팥병 막을 골든타임…중증 IgA 신병증, \"희귀질환 지정·급여 개선 시급\" - 뉴스더보이스헬스케어",
+      "published": "2026-08-03T21:04:00+00:00",
+      "summary": "말기콩팥병 막을 골든타임…중증 IgA 신병증, \"희귀질환 지정·급여 개선 시급\"&nbsp;&nbsp;뉴스더보이스헬스케어“10년 뒤 투석 진료비 6조 원”… 만성콩팥병 국가 관리에 ‘구멍’ 있다&nbsp;&nbsp;헬스조선[칼럼]소리 없이 무너지는 콩팥, 혈액·소변 검사 단 두 개로 지킨다&nbsp;&nbsp;코리아헬스로그만성 신장병 환자 삶의 질 높이는 위드정내과…`투석 그 이상의 치료` 구현&nbsp;&nbsp;매일신문\"조기검진으로 투석 막으면 1인당 1억 5000만원 절감\"&nbsp;&nbsp;라이프인",
+      "sources": [
+        {
+          "name": "뉴스더보이스헬스케어",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEeFlwUWU5MDRVVzRzZkhoTlZ2MC1WWWZFTXJha094S0NPdE1zZUpmQ2VMSjY4N0l5ZHNGc21ZeEFUSFlvNG1VRzhIaHhnQ3ZPclMtdjYyY3VTUkNycGN5c19YT1plcG5XV0tfNEpoWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ac956dde633",
+      "title": "“손가락 움직임만 겨우 봐”… ‘눈 수술’ 뒤 시력 잃은 남성, 무슨 사연? - 헬스조선",
+      "published": "2026-08-03T16:30:00+00:00",
+      "summary": "“손가락 움직임만 겨우 봐”… ‘눈 수술’ 뒤 시력 잃은 남성, 무슨 사연?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CNTdBM2c4Vk5hSG11cmx6dWtGc2FLSHNIdmpqSHFyRnhCTUQwVE1ENUdlRjJmVHR0RnhmTDl4YTBnOEZKVjBSYjV1UHZjN2Qta1BWcVY3RXlRWjlET1FONDFSOWtuc2JJQ3Q1dnBzTGtNWU1BWjBMWDY0emlTUnM?oc=5"
         }
       ]
     },
@@ -90,10 +186,34 @@
       ]
     },
     {
+      "id": "72c618c0219a",
+      "title": "평소보다 걸음 느려지고 불안정하면...뇌 건강 ‘조기 경고등’ - 디멘시아뉴스",
+      "published": "2026-08-03T11:09:39+00:00",
+      "summary": "평소보다 걸음 느려지고 불안정하면...뇌 건강 ‘조기 경고등’&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBET1RzWjVzck5qNFM3Q19tMmIwejNiRkI1cURFdlNzSjlsdkF1dUtSRXhKb0xLMmVXU0lfNWF5WlFHVnJCTDJ6eWJRNUxDSHFfMjYwdnR6TUJyNDk5dFR4dHNmVUNBd1FSMHVwRDVmangxdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74a7a7821640",
+      "title": "고려대 안암병원 함병주ㆍ한규만 교수팀, 양극성장애 뇌 구조 변화와 유전변이 연관성 규명 - 의약뉴스",
+      "published": "2026-08-03T10:32:00+00:00",
+      "summary": "고려대 안암병원 함병주ㆍ한규만 교수팀, 양극성장애 뇌 구조 변화와 유전변이 연관성 규명&nbsp;&nbsp;의약뉴스양극성장애 환자 뇌 구조 바꾸는 '희귀 유전자 변이' 발견&nbsp;&nbsp;v.daum.net감정 널뛰는 ‘조울증’…유전자에서 숨은 단서 찾았다&nbsp;&nbsp;서울경제'극과극 감정' 양극성장애…'이 유전자' 변이 때문&nbsp;&nbsp;뉴시스함병주·한규만 고려대 안암병원 교수팀, 양극성장애 유전변이와 뇌 구조 변화 연결고리 규명&nbsp;&nbsp;헬스오",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOTlhnNXRGRGYwSEVpMjQ5QTVTZTI2SVVFMUEzYUFPTE5kWlhaUUotbFFwTlBDSVNOQ3NvZ250ZFNDZVA5QXI0Z0pXb05rUUVhYTNfUG1OS1FqbWpaQkxBelJkQ2hteU0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c65c2e77cbb8",
       "title": "고려대 안암병원 박진우 교수, 국제신경근육질환학회 우수포스터상 수상ㆍ초청강연 - 의약뉴스",
       "published": "2026-08-03T10:20:42+00:00",
-      "summary": "고려대 안암병원 박진우 교수, 국제신경근육질환학회 우수포스터상 수상ㆍ초청강연&nbsp;&nbsp;의약뉴스고대 안암병원, 루게릭병 자율신경기능 연구로 국제학회 우수포스터상&nbsp;&nbsp;주간한국[동정] 박진우 교수, 우수포스터상 수상·초청 강연&nbsp;&nbsp;메디칼업저버[동정] 박진우 고대 안암병원 교수, '제19회 ICNMD 2026'서 초청강연 진행&nbsp;&nbsp;theggnews.com고려대 안암병원 신경과 박진우 교수, 국제신경근육질환학회 우수포스터상 수상&nbsp;&nbsp;MEDI:GATE NEWS",
+      "summary": "고려대 안암병원 박진우 교수, 국제신경근육질환학회 우수포스터상 수상ㆍ초청강연&nbsp;&nbsp;의약뉴스고대 안암병원, 루게릭병 자율신경기능 연구로 국제학회 우수포스터상&nbsp;&nbsp;주간한국[동정] 박진우 교수, 우수포스터상 수상·초청 강연&nbsp;&nbsp;메디칼업저버[동정] 박진우 고대 안암병원 교수, '제19회 ICNMD 2026'서 초청강연 진행&nbsp;&nbsp;더글로벌기빙뉴스고려대 안암병원 신경과 박진우 교수, 국제신경근육질환학회 우수포스터상 수상&nbsp;&nbsp;medigatenews.com",
       "sources": [
         {
           "name": "의약뉴스",
@@ -102,26 +222,26 @@
       ]
     },
     {
-      "id": "780144819ba1",
-      "title": "분당서울대병원 변석수 교수 ‘전립선암, 제대로 알고 제대로 치료하자’ 출간 - 의약뉴스",
-      "published": "2026-08-03T10:18:50+00:00",
-      "summary": "분당서울대병원 변석수 교수 ‘전립선암, 제대로 알고 제대로 치료하자’ 출간&nbsp;&nbsp;의약뉴스[신간] 전립선암, 제대로 알고 제대로 치료하자&nbsp;&nbsp;에너지경제신문분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선[BOOK소리] 남성암 발생률 1위 '전립선암' 올댓가이드북 나와&nbsp;&nbsp;코리아헬스로그",
+      "id": "bcae0767d854",
+      "title": "빈롱, Nhuận Phú Tân 면 임시 묘지에서 순국선열 유해 3구 발견 - Laodong.vn",
+      "published": "2026-08-03T09:54:24+00:00",
+      "summary": "빈롱, Nhuận Phú Tân 면 임시 묘지에서 순국선열 유해 3구 발견&nbsp;&nbsp;Laodong.vn",
       "sources": [
         {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaSjNFVmtjYmNKampwOVpIaEIzSzZsTmxtUF92OUwtdHpVSGwtRXBVUDdWcE1pc2JxVnlGeVFJa3ktblJEOWxQdE1tN08tWWlIVnNQUXVnMVhudEFBdEZJY1FVWWZiS3M?oc=5"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVh0OXVzMU1XejNySGtoUHF4QXRsbXJ2czVzaEhUVjdScjN4WjE5cmU5QlROanlSZjA4aGUzYzl1dDRsRUVxQWlaWi02ZFdvcEhfeTl4VVpLYUpJSXRBTGhrZldfVVp2cm5SRXdOTm9NR3dNb3E4ZHdPSDV6cUxBRWFLbHNNcXo0QzdYcGtWYWNjeWtaOHo3NnZiNWNsR0ZEZVNzeEp6Y3V0MGcwOENhc3pDaU1xdw?oc=5"
         }
       ]
     },
     {
-      "id": "72e200defe10",
+      "id": "2f8344c8648b",
       "title": "생물의 유전자 켜는 법은 '비슷', 끄는 법은 '제각각' - v.daum.net",
       "published": "2026-08-03T09:02:09+00:00",
       "summary": "생물의 유전자 켜는 법은 '비슷', 끄는 법은 '제각각'&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sV2IzYXZEeHEyckI3THFnZTMyMGM3XzdrR1NDQVBnME1nVHpPRTdaYXdSekFYZ1JwWVBBdnRsNDF1Z1FoY0xlRi1sTEZTRVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nOTg2UGVQZXBYR0VfdWpadWpubFptbjhKellkVXRUa2NIbGpDOHJkdmJrQzhvNkJEVGtqOHRGN2dVRmY5S0E?oc=5"
         }
       ]
     },
@@ -129,23 +249,11 @@
       "id": "a6f7186ab713",
       "title": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야 - 하이뉴스",
       "published": "2026-08-03T08:53:39+00:00",
-      "summary": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야&nbsp;&nbsp;하이뉴스“운동 뒤 손이 찌릿” 손목이 보내는 위험 신호 3가지&nbsp;&nbsp;헬스조선\"꽉 쥐는 여름 레포츠, 손목엔 독\"... 수영, 서핑 즐긴 대가는 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스[건강톡톡] 여름, 손목터널증후군·건초염 주의&nbsp;&nbsp;간호사신문여름 레포츠 후 손목 ‘찌릿’·손가락 ‘딸깍’… 손목터널증후군 등 수부질환 위험↑&nbsp;&nbsp;더퍼스트미디어",
+      "summary": "여름 레포츠 즐기다 손목 통증...3대 수부질환 주의해야&nbsp;&nbsp;하이뉴스“운동 뒤 손이 찌릿” 손목이 보내는 위험 신호 3가지&nbsp;&nbsp;헬스조선\"꽉 쥐는 여름 레포츠, 손목엔 독\"... 수영, 서핑 즐긴 대가는 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스[건강톡톡] 여름, 손목터널증후군·건초염 주의&nbsp;&nbsp;간호사신문여름 레포츠 후 손목 ‘찌릿’·손가락 ‘딸깍’… 손목터널증후군 등 수부질환 위험↑&nbsp;&nbsp;thefirstmedia.net",
       "sources": [
         {
           "name": "하이뉴스",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xd3NYTWlNQUFrZ2JBUllKcGpOWFkwUi1Ra3ZfUWs1UmNadGpJRl9fX29PamxGRDZxNmN4LWw4Z1dMUmtPTnRkdjBOLUFrZUZZMnEyMWFfWW91d0xsWEVTcHhZR3dsMTVzLUszQkxKdmhHLTljbEVj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a54080470b3c",
-      "title": "커넥티드456, 시니어 두뇌 건강 위한 방문 인지 학습지 '그레이스' 출시 - 네이트",
-      "published": "2026-08-03T08:53:00+00:00",
-      "summary": "커넥티드456, 시니어 두뇌 건강 위한 방문 인지 학습지 '그레이스' 출시&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tRGtUMVc5dU01QzBzMndTMDlUMC0za3BtTlJjUUpKeEVqWmlfMmo0a2NudDRTM1JoZEhnSFhUdEtmUC0xMWk0MVRreXNWZlNRRGMyd3dOVjVvcGNsWEFiTg?oc=5"
         }
       ]
     },
@@ -162,6 +270,18 @@
       ]
     },
     {
+      "id": "d31b1a21dbb4",
+      "title": "연구실로 간 AI···수학 난제 풀고, 신약 개발까지 판 키운다 - 경향신문",
+      "published": "2026-08-03T06:08:00+00:00",
+      "summary": "연구실로 간 AI···수학 난제 풀고, 신약 개발까지 판 키운다&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWWh2anVWamViZTBlQW1ZNGdEQ3JiVXBWYlFEM0VsNUZ0UkZKaDV5N2dqTkVKM2ZWR3pHMnJiYTJ0TzRyckRZSzZCN1VBVzZKS25BVUJrSmx4UdIBX0FVX3lxTE4wS2hWWUpZcVhMLVNmQm1pZ3BCbGpDbEdST0JOX2xYQS1Sd0Z1UUhOeG8wYkRmaGtBSkRMVEFpcmxIT3NvaHNJMjA4LWNPcFFxMDVYX05oN1JvVnBOU2RZ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7d3d050e7a33",
       "title": "지방세포가 추위 견디는 비결 찾았다…UNIST, 미토콘드리아 보존 기전 규명 - 서울파이낸스",
       "published": "2026-08-03T03:50:00+00:00",
@@ -174,14 +294,14 @@
       ]
     },
     {
-      "id": "b9a9a18e324f",
+      "id": "befd8c47d7c6",
       "title": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다] - 네이트",
       "published": "2026-08-03T03:46:00+00:00",
       "summary": "뇌 면역세포 염증 잡아 루게릭병 치료…뇌연구원, 천연물 후보물질 발굴[과학을읽다]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvazU3ZWIwN2NENzktUmpmZG1NdVJYbjM4clNJb3VjX3FEYlY0T3V4WVRyX3JBbWh1NG5LV0c4YTNObmlhczQ4Y2ZadTVHOWNKWGoxWTlR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzeUo2Y0xOYUlrenNPNG1TYzQxbEtPWEtvR2dPelVLT1BCOS1pYkw4Z0FIR1FQYkQ0TXhJbjdVTkJiYVZiTnlwTkFhRUl0OEUtbzFaVkI2SDRRdUZ4aWl1Zg?oc=5"
         }
       ]
     },
@@ -246,14 +366,14 @@
       ]
     },
     {
-      "id": "8bf91a2bcef6",
-      "title": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명 - 메드월드뉴스",
-      "published": "2026-08-03T01:34:33+00:00",
-      "summary": "양극성장애 뇌 구조 변화와 유전변이의 연관성 규명&nbsp;&nbsp;메드월드뉴스양극성장애 환자 뇌 구조 바꾸는 '희귀 유전자 변이' 발견&nbsp;&nbsp;v.daum.net감정 널뛰는 ‘조울증’…유전자에서 숨은 단서 찾았다&nbsp;&nbsp;sedaily.com'극과극 감정' 양극성장애…'이 유전자' 변이 때문&nbsp;&nbsp;뉴시스함병주·한규만 고려대 안암병원 교수팀, 양극성장애 유전변이와 뇌 구조 변화 연결고리 규명&nbsp;&nbsp;헬스오",
+      "id": "0ca42b03823d",
+      "title": "“운동 주 3회 안해도 뱃살 빠진다?”…딱 한번 ‘이만큼’ 걸었더니, 놀라운 변화가? - 코메디닷컴",
+      "published": "2026-08-03T01:10:00+00:00",
+      "summary": "“운동 주 3회 안해도 뱃살 빠진다?”…딱 한번 ‘이만큼’ 걸었더니, 놀라운 변화가?&nbsp;&nbsp;코메디닷컴“1주일에 딱 한 번”… ‘이 운동’ 한 시간 남짓으로 뱃살 감소&nbsp;&nbsp;헬스조선주 1회 고강도 운동, 주 3회 분산 운동만큼 체지방 감소 효과&nbsp;&nbsp;네이트연구 결과에 따르면 일주일에 한 번 운동해도 복부 지방을 줄일 수 있습니다.&nbsp;&nbsp;Vietnam.vn'몰아서 운동'도 효과 있다…\"주 1회 고강도 운동, 내장지방 감소 확인\"&nbsp;&nbsp;스포츠조선",
       "sources": [
         {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SQWhBZFUzNHF4M21QMW9MSU9pVzhpRjlOQ3ltem5qaUIxT3lEN09rOW9UYWhFdlM4Y1FpMVFrZVVyWW9mMGNDUEtJa013d1FyaEJiNExGT0NtSDFEYU1SRDRGdmdGdW8?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XTlJGZW5yRTcwQ0hncEVhNll6aFhseUl0WVJ3LV8zbTd1cy1uOTItSi1oVElfNl9sU3didHA0MFNWUQ?oc=5"
         }
       ]
     },
@@ -290,30 +410,6 @@
         {
           "name": "yakup.com",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vODNfeWttMW5UaW1KUk56TmRMRGNWeGE0VW9VcmZ2NWdiWjc2SVZrTU5FRjNFd1paYjBpOUptcWJVbmtjNldzaDg3eWVVZ3BHejZSLXpFRU1KRy1LTW1DM0w3YXJwdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "38caf7a7195a",
-      "title": "단 7분만에 뇌가 달라지기 시작한다 - 마음건강 길",
-      "published": "2026-08-02T21:00:00+00:00",
-      "summary": "단 7분만에 뇌가 달라지기 시작한다&nbsp;&nbsp;마음건강 길",
-      "sources": [
-        {
-          "name": "마음건강 길",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UQnY1OW84SExlTjVwY0t0S0pod1FnYnY3UjdBblFNSDBPdWkxTklGSjJOZWgzMkJmbXIwcHRMYzh2V1NtWUR1N3QzYzBTRDN3V05Bc3BLdFBzMk1fR1dsdE5oV1QyLVJKNXfSAW5BVV95cUxNYnQ1dGl5cGpPMmF6S3Vqcl9ERndOeUhNVHNKdHNXMnRPNkVjNFRYM1BXT3NTdWNjV0xPV19PR0VSZVJzQnhYLXMxTHN4Y2dVS1YxYXp4X1h1eTZjN1M4ZzRHWlVTOUlZWFpENllFZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37c3b3fb2ae8",
-      "title": "\"반찬 좋아할수록 암 발생 위험 크다\"…이승훈 서울대 교수 '식습관' 경고 - 네이트",
-      "published": "2026-08-02T20:30:00+00:00",
-      "summary": "\"반찬 좋아할수록 암 발생 위험 크다\"…이승훈 서울대 교수 '식습관' 경고&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPVWlnM0M3SkNLQWtFcU1ETHI4YldUaFpFeE5VbGx2Z2ZWRXM3bDJrZ2JZNFdzRTd3YncwSWVpNmQ0bnBjdVNVNGN1Ym9fWVUwaWVz?oc=5"
         }
       ]
     },
