@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-08-07T07:19:47.077614+00:00",
-  "total_count": 57,
+  "last_updated": "2026-08-07T13:09:20.091657+00:00",
+  "total_count": 53,
   "matched_count": 0,
   "news": [
+    {
+      "id": "4d2366888d49",
+      "title": "55세부터 혈관 건강 ‘최적’ 유지하면...치매 없이 평균 30년 산다",
+      "published": "2026-08-07T10:34:39+00:00",
+      "summary": "55세부터 혈관 건강 ‘최적’ 유지하면...치매 없이 평균 30년 산다&nbsp;&nbsp;디멘시아뉴스\"중년기 관리로 치매 13년 늦춘다\"…혈압·당뇨·금연이 가르는 골든타임&nbsp;&nbsp;뉴시스45세 이후 ‘3가지 행동’이 치매 낮추고 수명 13년 늘려 준다 [라이프]&nbsp;&nbsp;서울신문당뇨·고혈압·흡연 모두 있다면…치매 없이 사는 기간 30년→17년&nbsp;&nbsp;네이트90세 넘으면 치매 위험 어떻게 달라질까&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnWGl5djNwam8tOThIZGNBelNKWG1FZW1qZXVEejJqMVBYOGlQdU83VVl5ZnFWZ3E3Um1zR1hEOUc0Zk95RW1tOWJpOTVUTnFlMTdOVVdrbDQybS11TjFnWUtJc1BEaU1LWG4tYnBZa3Atdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6e16e23330ed",
+      "title": "“입 안에 궤양 126개가”… 헤르페스인 줄 알았는데 ‘뜻밖의 질환’",
+      "published": "2026-08-07T08:16:00+00:00",
+      "summary": "“입 안에 궤양 126개가”… 헤르페스인 줄 알았는데 ‘뜻밖의 질환’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RLXJUNG04cEFCTUpqTk5maDdScWtUanNZa0VMREw4Z3lTZ0lvbkVOQkpacXhNUk94bTg4R1NEWmo4SjdPOU5jYTNVNWdyeEhkXzVnVk9NcHhaalVLOHlfRDhDemJ3V2hHZXR1aFBXMUhaZGs1RG5tWnRraDZqVXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "71ad85ae25f0",
+      "title": "AI가 설계한 신종 바이러스, 대장균 사멸 확인… 항생제 내성균 잡을까",
+      "published": "2026-08-07T07:32:53+00:00",
+      "summary": "AI가 설계한 신종 바이러스, 대장균 사멸 확인… 항생제 내성균 잡을까&nbsp;&nbsp;전자신문[사이언스카페] AI가 세균 잡는 바이러스 생성, 내성균도 감염 - 조선비즈&nbsp;&nbsp;ChosunbizAI가 설계한 '신종 바이러스' 16종 탄생...생물무기 악용 우려&nbsp;&nbsp;YTN 사이언스내성균 잡을 새 무기…AI로 설계한 ‘인공 바이러스’ 첫 탄생&nbsp;&nbsp;v.daum.netAI가 만든 ‘자연에 없는 바이러스’…“생명공학의 확장이자 인류에 위협”&nbsp;&nbsp;hani.co.kr",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JZ1VIWFBBU0hKbkZPbndfUERiTmNBSDNsV3JqV0x5VzBDT1lBT3hDeDA5Q2VJR2ZBSWMzX2FNSTkwbFFTVEhURjB6MUZ2Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "73b5f0cdcdf0",
+      "title": "담백하게 먹는데도 혈지 높다면 문제는「수면」에 있어!--건강",
+      "published": "2026-08-07T07:01:00+00:00",
+      "summary": "담백하게 먹는데도 혈지 높다면 문제는「수면」에 있어!--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DeURlRWxwcS1rWlV2RHRJMjVfSHhTWlJYd0N1NjJicE9uVnNlR19DY1lCbHU0SS1QTVNkdjlOeWpzdkpaenZoZl9CVUU1OTRnQzBZYi01REF3U1JkQzZuM0doZUZGUzlidVhVdjNn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d94c563a8235",
       "title": "“유방암 일으킨다”… 똑같은 사과도 ‘이렇게’ 먹으면 독",
@@ -12,19 +64,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZcVE2Ylo1MFRWY2ZfZGRyWi1sXzBpVmhpS3pvYW5fWFVRSy1ScEZ5bmVjUXJBR2pnMGJrU04zNzhISWoyYmx2Z2tNSkU4ejU0SllJYVZXSUJqdHRxdGREdHl4MFE5ekZwVG52VDdvTkZhcXloMmRhY3JTVHlLUDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6ab67c64eda5",
-      "title": "AI가 설계한 신종 바이러스 16종…생명공학 도약 속 안전성 논란",
-      "published": "2026-08-07T04:52:17+00:00",
-      "summary": "AI가 설계한 신종 바이러스 16종…생명공학 도약 속 안전성 논란&nbsp;&nbsp;mstoday.co.kr[사이언스카페] AI가 세균 잡는 바이러스 생성, 내성균도 감염 - 조선비즈&nbsp;&nbsp;Chosunbiz인공지능으로 ‘자연에 없는’ 바이러스 만들었다…괜찮을까?&nbsp;&nbsp;한겨레'AI설계'로 새 바이러스 16종 만들었다…실제 번식까지&nbsp;&nbsp;v.daum.netAI가 설계한 '신종 바이러스' 16종 탄생...생물무기 악용 우려&nbsp;&nbsp;YTN",
-      "sources": [
-        {
-          "name": "mstoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WdnBGMTBKYkN6N2Y2SGRDSk4tLWxKNl9ET0RLN3A2bEk4VGNaTm45YzVwVTVPQUpkLUtBR0c1a2dab0dkVXdmT0hfV3FlMVZEREdrcU4tV3U5UHk4Z013c256V2VZLTYtVU12Yg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -43,14 +82,14 @@
       "matched_keywords": []
     },
     {
-      "id": "23335f1658bf",
+      "id": "e5335e5ec74e",
       "title": "“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명",
       "published": "2026-08-07T01:30:07+00:00",
-      "summary": "“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명&nbsp;&nbsp;데일리벳더워도 운동 해야 하는 이유, 남자의 노후 대책으로 이만한 게 없다&nbsp;&nbsp;GQ Korea“운동하면 뇌가 늙지 않는다”… 운동이 뇌 노화를 막는 분자 원리 규명&nbsp;&nbsp;BRIC운동할 때 나오는 단백질 많을수록 알츠하이머병 단백질은 줄었다&nbsp;&nbsp;한국일보운동→뇌 건강…분자적 작동원리 알아내 [지금은 과학]&nbsp;&nbsp;v.daum.net",
+      "summary": "“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명&nbsp;&nbsp;데일리벳운동할 때 나오는 단백질 많을수록 알츠하이머병 단백질은 줄었다&nbsp;&nbsp;한국일보더워도 운동 해야 하는 이유, 남자의 노후 대책으로 이만한 게 없다&nbsp;&nbsp;GQ Korea“운동하면 뇌가 늙지 않는다”… 운동이 뇌 노화를 막는 분자 원리 규명&nbsp;&nbsp;BRIC“치매를 막는 습관은 있다”&nbsp;&nbsp;독서신문",
       "sources": [
         {
           "name": "데일리벳",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xUEJJM0RHbXJrU0Z6eDRZLVJSZmxBQ1V5SGJXMW1CZzM5YXRkMk5wd0NSTUtaa2U2XzNfOV9sWGFGR003TDJ3a3YxMDJoRU1HQzA3bmRuRGY?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hX2FKZEFITnUzM05qMHBlRmhtZ2U0NUh6RHpPeGJDZmhQczljdGNvN3pOaVhORTFYSmd6enFLZndSVUZxcXZqdVdoVFJmRFA4dTk1b3lFTkIzZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -71,7 +110,7 @@
     {
       "id": "c3aa42bf8839",
       "title": "[사이언스카페] AI가 세균 잡는 바이러스 생성, 내성균도 감염 - 조선비즈",
-      "published": "2026-08-06T23:38:53+00:00",
+      "published": "2026-08-06T23:16:00+00:00",
       "summary": "[사이언스카페] AI가 세균 잡는 바이러스 생성, 내성균도 감염 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
@@ -95,6 +134,19 @@
       "matched_keywords": []
     },
     {
+      "id": "a00be11ef428",
+      "title": "홍역 감염자, 유니버설 스튜디오에서 11시간 머물러",
+      "published": "2026-08-06T22:26:54+00:00",
+      "summary": "홍역 감염자, 유니버설 스튜디오에서 11시간 머물러&nbsp;&nbsp;미주조선일보",
+      "sources": [
+        {
+          "name": "미주조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83enBpY24zLXJWYm5zY2ktNGtIZ2doaVJHcjJBTGQ0d3VMWHFiMGdkeDlYeGVaMUx3SmNSTExWcUxtMFo0ZXhDc2JtM1NRZ0pGVFBKalU2Z0NpR0lUeXloZ0h6OE4xRzlfNncwN3pmVUhQbmdXMlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d4e71f13c60c",
       "title": "[의료칼럼] 예방할 수 있는 혈관성 치매",
       "published": "2026-08-06T22:00:00+00:00",
@@ -108,27 +160,14 @@
       "matched_keywords": []
     },
     {
-      "id": "1f476e66d789",
+      "id": "1de74f472e9f",
       "title": "왼팔 근육통 시달리던 29세男, 자택서 숨진 채 발견… 무슨 일?",
       "published": "2026-08-06T21:09:00+00:00",
-      "summary": "왼팔 근육통 시달리던 29세男, 자택서 숨진 채 발견… 무슨 일?&nbsp;&nbsp;kormedi.com",
+      "summary": "왼팔 근육통 시달리던 29세男, 자택서 숨진 채 발견… 무슨 일?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xbjI0V2pNTGhfaDhRSDlBdWxxTUZQNUY4dFNROEZFcExsd2UyaFdPekN5RjlXNDVKMFlPUGoxM2swdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a00be11ef428",
-      "title": "홍역 감염자, 유니버설 스튜디오에서 11시간 머물러",
-      "published": "2026-08-06T20:26:46+00:00",
-      "summary": "홍역 감염자, 유니버설 스튜디오에서 11시간 머물러&nbsp;&nbsp;미주조선일보",
-      "sources": [
-        {
-          "name": "미주조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83enBpY24zLXJWYm5zY2ktNGtIZ2doaVJHcjJBTGQ0d3VMWHFiMGdkeDlYeGVaMUx3SmNSTExWcUxtMFo0ZXhDc2JtM1NRZ0pGVFBKalU2Z0NpR0lUeXloZ0h6OE4xRzlfNncwN3pmVUhQbmdXMlE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -147,14 +186,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8cdb3c059f65",
-      "title": "한국전자기술연구원서 하이드라진 유출 사고…직원 등 300여명 대피",
-      "published": "2026-08-06T13:11:00+00:00",
-      "summary": "한국전자기술연구원서 하이드라진 유출 사고…직원 등 300여명 대피&nbsp;&nbsp;조선일보",
+      "id": "317641f09d46",
+      "title": "유리병 상자 옮기다가···한국전자기술연구원서 ‘유독물질 유출’ 300명 대피",
+      "published": "2026-08-06T13:20:00+00:00",
+      "summary": "유리병 상자 옮기다가···한국전자기술연구원서 ‘유독물질 유출’ 300명 대피&nbsp;&nbsp;경향신문",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWpIbWtYNXhOX1dGOWYydmZnTExqMGdYRlRmUGNEeUpZR2NWQzB6YV81eGRtOVd3N0daYkcyVFZZd3VzMFJfelNsMEZiVXZqVkZlX0phVWVFSHBYX18xMVU5WjNnZ3o2OG1EeVVEU09HMHpFcExNUEI4aVpWOUsyY2RmMmNicWRrdC03MUotcU4?oc=5"
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RN0NMMXlpdFB5X2E0YXJxYnFfTG1vVmZwaTFxNnBTNzUyMm84U2ROcktVNUVsNll4aDRRTjRabWptb3JlRFZJRDFEeW96RElCTUI3OFF6UVBUZ9IBX0FVX3lxTE9ySExfcVBFR0EtTmUzWEFhYUxOYXpnc2FPQXp2NldpN1BhUjB5aXZ3dUFweWFQbEx3aW4zU2poTDZLWFFDcG9sYS0xTTZaRnlaZmZQYThRM2FmNS1zSkw0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -168,6 +207,19 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DOVdfSTYwVFJJY1NCRFAzbDdjMi1wN3pSVkZiZWRSMzlQbjMtUDNoOGpWNzdaUVFSNnBDM2hfd090c0pNUEM4TmVSSFdjQW9nY05UblIzSXFydTZPYllyU0tzVkhqdW5Wd0dsaTN2TUtGQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b41777da1752",
+      "title": "‘연 30일 최고 40도’…목숨 위험한 폭염, 뉴노멀 되나",
+      "published": "2026-08-06T10:45:00+00:00",
+      "summary": "‘연 30일 최고 40도’…목숨 위험한 폭염, 뉴노멀 되나&nbsp;&nbsp;hani.co.kr",
+      "sources": [
+        {
+          "name": "hani.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Y1ozeG5FbmZBTHNMWVpWdndMdzFtOWdWTlFwUThuTFVRMzREZ0lINHNWVlNNYjlSbDg2dFhnWW5MbDRCOElrSkFOVVVudmRuWkJVaFUtRmhvR0g5SFh6SHFrYXZuRHR1VDJUQl95VThWQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -189,7 +241,7 @@
       "id": "9ab703669d0b",
       "title": "“빛 켜면 신경신호 차단, 끄면 회복”…DGIST·스탠포드 새 기술 개발",
       "published": "2026-08-06T09:59:46+00:00",
-      "summary": "“빛 켜면 신경신호 차단, 끄면 회복”…DGIST·스탠포드 새 기술 개발&nbsp;&nbsp;edaily.co.kr빛으로 신경 끄고 켠다…신경세포부터 인슐린 분비까지 제어&nbsp;&nbsp;v.daum.net빛으로 뇌 신경 껐다 켰다… 마법 같은 '생체 스위치' 개발&nbsp;&nbsp;BRICDGIST, 신경세포 간 신호전달 차단·복원하는 신개념 광제어 플랫폼 개발&nbsp;&nbsp;전자신문DGIST, 신개념 광제어 플랫폼 개발&nbsp;&nbsp;뉴시스",
+      "summary": "“빛 켜면 신경신호 차단, 끄면 회복”…DGIST·스탠포드 새 기술 개발&nbsp;&nbsp;edaily.co.kr빛으로 신경 끄고 켠다…신경세포부터 인슐린 분비까지 제어&nbsp;&nbsp;v.daum.net빛으로 뇌 신경 껐다 켰다… 마법 같은 '생체 스위치' 개발&nbsp;&nbsp;BRIC뇌 신호 끊고 다시 잇는다…DGIST, 빛 제어 ‘생체 스위치’ 개발&nbsp;&nbsp;데일리안DGIST, 마법 같은 '생체 스위치' 개발&nbsp;&nbsp;E동아",
       "sources": [
         {
           "name": "edaily.co.kr",
@@ -225,19 +277,6 @@
       "matched_keywords": []
     },
     {
-      "id": "bd81fbcc02c6",
-      "title": "45세 이후 ‘3가지 행동’이 치매 낮추고 수명 13년 늘려 준다 [라이프]",
-      "published": "2026-08-06T08:10:23+00:00",
-      "summary": "45세 이후 ‘3가지 행동’이 치매 낮추고 수명 13년 늘려 준다 [라이프]&nbsp;&nbsp;서울신문‘치매 없는 삶’ 짧아질라… 당장 멀어져야 할 ‘세 가지’는?&nbsp;&nbsp;헬스조선\"중년기 관리로 치매 13년 늦춘다\"…혈압·당뇨·금연이 가르는 골든타임&nbsp;&nbsp;뉴시스90세 넘어도 꺾이지 않는 치매 위험...“성별·인종·유전자 영향 이어져”&nbsp;&nbsp;디멘시아뉴스중년 '혈압·혈당 관리와 금연' 치매 없는 삶 13년 늘린다&nbsp;&nbsp;의협신문",
-      "sources": [
-        {
-          "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16Tm4xZ29UWlJ0Z1dJdUYwSnRQVjVBZk1qNjBoWi1PTXdJYWFDbk5yQnlPOVRJcmxvcmh2czZWWTU5b3o0SDBpbHowNEp5OVc4SWdvRElhUFBNRDRSVFRlLUtvWFRlblREd2ozb0hZcGJpcFVqc1NQbXptbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "42d8ec9a0bf0",
       "title": "\"건강 걱정하는 흡연자라면 주목\"⋯8주간 '이것' 먹었더니 혈전·염증·중성지방 싹 줄어",
       "published": "2026-08-06T07:00:01+00:00",
@@ -254,7 +293,7 @@
       "id": "3c174d4dbbcd",
       "title": "분당서울대병원 비뇨의학과 변석수 교수 ′전립선암, 제대로 알고 제대로 치료하자′ 출간",
       "published": "2026-08-06T06:47:14+00:00",
-      "summary": "분당서울대병원 비뇨의학과 변석수 교수 ′전립선암, 제대로 알고 제대로 치료하자′ 출간&nbsp;&nbsp;로컬세계[신간] 전립선암, 제대로 알고 제대로 치료하자&nbsp;&nbsp;ekn.kr분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈남성암 1위 전립선암 환자 맞춤 안내서 출간&nbsp;&nbsp;데일리메디“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선",
+      "summary": "분당서울대병원 비뇨의학과 변석수 교수 ′전립선암, 제대로 알고 제대로 치료하자′ 출간&nbsp;&nbsp;로컬세계[신간] 전립선암, 제대로 알고 제대로 치료하자&nbsp;&nbsp;에너지경제신문분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈남성암 1위 전립선암 환자 맞춤 안내서 출간&nbsp;&nbsp;데일리메디“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "로컬세계",
@@ -264,13 +303,26 @@
       "matched_keywords": []
     },
     {
-      "id": "c2bf40b5d73c",
-      "title": "건강한 사람 '대변 이식'받자 땅콩 알레르기 완화됐다",
-      "published": "2026-08-06T06:45:00+00:00",
-      "summary": "건강한 사람 '대변 이식'받자 땅콩 알레르기 완화됐다&nbsp;&nbsp;동아사이언스",
+      "id": "de361df22c91",
+      "title": "출산 경험 여성, 췌장암 위험 더 낮았다",
+      "published": "2026-08-06T06:45:37+00:00",
+      "summary": "출산 경험 여성, 췌장암 위험 더 낮았다&nbsp;&nbsp;오아시스뉴스\"아이 낳으면 췌장암 위험 뚝\"... 93만명 추적 결과 [헬스톡]&nbsp;&nbsp;v.daum.net출산 경험한 여성, 췌장암 위험 낮아… 왜?&nbsp;&nbsp;헬스조선아이 낳은 여성이 안 낳은 여성보다 췌장암 발생 위험 30% 낮다&nbsp;&nbsp;한국일보출산 경험 있는 여성, 미출산 여성에 비해 췌장암 발생 위험 더 낮았다&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "동아사이언스",
+          "name": "오아시스뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nc0gwZHU1Rjl0UXhYdlNXbGw3Z3BjU3VJLUZKVXdrMzc5TFdudnZFcU0yNzY1RzBsUlRUOEt5ZjhucjBnQktLMC1LQzRteDVoRjZkcXcxTDB1dVJTLVRaaXRwTkJMWlFUdjBaa1FXeEbSAXRBVV95cUxPUmlhZHZyWldsWWVkYmZIdURTZ2wtVXVqQ3FIMnV0MjdFbFVwMHVnQUotMGlPZldtWmJnenlGY096NkdiZkp2X05hdmtQaFBZcnNuQ0J6UGtoY0RxZjRfTnBzVVRwSXh5MzdJWUdGTkJ2VkJmLQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "05027b5f1634",
+      "title": "건강한 사람 '대변 이식'받자 땅콩 알레르기 완화됐다",
+      "published": "2026-08-06T06:45:00+00:00",
+      "summary": "건강한 사람 '대변 이식'받자 땅콩 알레르기 완화됐다&nbsp;&nbsp;dongascience.com",
+      "sources": [
+        {
+          "name": "dongascience.com",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XeXEyQ3VYdjhydGozMEQwRnlneDJ6Y0FxSjk0Rm1yMzhyUW5IM1d2c25oY25GeDFfNGZNb0FBTnpMVzlLZ1NpT2RhSlhRYktRSjFETw?oc=5"
         }
       ],
@@ -280,7 +332,7 @@
       "id": "5f840024e156",
       "title": "뿌리면 초록색으로 '반짝'…감염 바이러스 진단기술 개발",
       "published": "2026-08-06T06:29:44+00:00",
-      "summary": "뿌리면 초록색으로 '반짝'…감염 바이러스 진단기술 개발&nbsp;&nbsp;뉴스;트리곳곳에 묻은 감염력 있는 바이러스, '칙' 뿌리면 5분 내 보인다&nbsp;&nbsp;v.daum.net[포토] KIST 차세대 바이러스 진단 플랫폼 '퓨전 어세이' 개발&nbsp;&nbsp;전자신문마스크·책상에 칙 뿌리면 5분 내 '형광색'…감염 바이러스 선별&nbsp;&nbsp;뉴스1감염력 있는 바이러스만 초록빛으로… 5분 만에 가려낸다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "summary": "뿌리면 초록색으로 '반짝'…감염 바이러스 진단기술 개발&nbsp;&nbsp;뉴스;트리'칙' 뿌리면 바이러스가 반짝...KIST, 형광 진단 플랫폼 '퓨전 어세이' 개발&nbsp;&nbsp;전자신문곳곳에 묻은 감염력 있는 바이러스, '칙' 뿌리면 5분 내 보인다&nbsp;&nbsp;연합뉴스마스크·책상에 칙 뿌리면 5분 내 '형광색'…감염 바이러스 선별&nbsp;&nbsp;v.daum.net감염력 있는 바이러스만 초록빛으로… 5분 만에 가려낸다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
           "name": "뉴스;트리",
@@ -293,7 +345,7 @@
       "id": "e4286ce23edc",
       "title": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발",
       "published": "2026-08-06T06:15:40+00:00",
-      "summary": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발&nbsp;&nbsp;팍스경제TV뇌전증 치료제 개발 위한 '최적' 동물모델 찾았다&nbsp;&nbsp;연합뉴스뇌전증 환자 유형별 최적 동물모델 찾았다…신약개발 정확도↑&nbsp;&nbsp;뉴스1세브란스, 뇌전증 치료제 개발 정확도 향상&nbsp;&nbsp;헤럴드경제연세의대, 뇌전증 맞춤형 동물모델 규명…신약 개발 새 기준&nbsp;&nbsp;asiatoday.co.kr",
+      "summary": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발&nbsp;&nbsp;팍스경제TV뇌전증 치료제 개발 위한 '최적' 동물모델 찾았다&nbsp;&nbsp;연합뉴스뇌전증 환자 유형별 최적 동물모델 찾았다…신약개발 정확도↑&nbsp;&nbsp;뉴스1세브란스, 뇌전증 치료제 개발 정확도 향상&nbsp;&nbsp;biz.heraldcorp.com연세의대, 뇌전증 맞춤형 동물모델 규명…신약 개발 새 기준&nbsp;&nbsp;asiatoday.co.kr",
       "sources": [
         {
           "name": "팍스경제TV",
@@ -303,14 +355,27 @@
       "matched_keywords": []
     },
     {
-      "id": "dd2946cb5001",
+      "id": "38d5985f71b3",
       "title": "8월 7일 립추! 양생지침 소장하기→--건강",
       "published": "2026-08-06T06:00:00+00:00",
-      "summary": "8월 7일 립추! 양생지침 소장하기→--건강&nbsp;&nbsp;korean.people.com.cn",
+      "summary": "8월 7일 립추! 양생지침 소장하기→--건강&nbsp;&nbsp;인민넷",
       "sources": [
         {
-          "name": "korean.people.com.cn",
+          "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lNFB2V19PYWxJbGFxLWwwUVFZMFgwZWFBZ3g0UTI3Ni13ZF9FcHZFbm9Sdzd0dTI5MGUtOVNla0tULUpLWEJuNGFENDJqUWZVYzRkS3lWbGhwbWZSRzZkcmh1Tl9vME5rSzBIcDhR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f4be2b7fb742",
+      "title": "고려대, 유담 교수 논문 ‘연구부정’ 의혹 “문제없다” 결론",
+      "published": "2026-08-06T05:48:00+00:00",
+      "summary": "고려대, 유담 교수 논문 ‘연구부정’ 의혹 “문제없다” 결론&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SY2F3eVd2NVhaZmRVZkl3SXQxeTBBRHN5RE9MNWN2TEl4R2x2bVlEMVlOQncyWnVCRG1xektFaml3ZklwWEdlSXNMdW1YY0F0NG14YnFwRGVJd9IBX0FVX3lxTE9zeFNuSGs4ME9GXzQzajIzM0VtejRUT0lWVWgwYnBPT3RrVDB3U3FWSXVkTURXVGhpRU5ZSGZHUE4yVThqNEJielpqOVI0REItd2VyRERtMVhCUHg2Xy00?oc=5"
         }
       ],
       "matched_keywords": []
@@ -329,13 +394,13 @@
       "matched_keywords": []
     },
     {
-      "id": "04108e9b0fa1",
+      "id": "51b3e63bbff2",
       "title": "치매약 ‘콜린알포세레이트’, 신장암 예방 효과 확인되지 않아",
       "published": "2026-08-06T05:12:12+00:00",
-      "summary": "치매약 ‘콜린알포세레이트’, 신장암 예방 효과 확인되지 않아&nbsp;&nbsp;khanews.com서울대병원 \"콜린알포세레이트, 신장암 예방 효과 확인 안 돼\"&nbsp;&nbsp;로이슈치매환자에 쓰는 '이 약'…\"신장암 예방효과 없어\"&nbsp;&nbsp;뉴시스치매약 ‘콜린알포세레이트’, 신장암 위험 높이지 않았다… 서울대병원 빅데이터 확인&nbsp;&nbsp;헬스조선치매약 ‘콜린알포세레이트’ 신장암 '유발이나 예방'과 무관&nbsp;&nbsp;의학신문",
+      "summary": "치매약 ‘콜린알포세레이트’, 신장암 예방 효과 확인되지 않아&nbsp;&nbsp;병원신문서울대병원 \"콜린알포세레이트, 신장암 예방 효과 확인 안 돼\"&nbsp;&nbsp;로이슈치매환자에 쓰는 '이 약'…\"신장암 예방효과 없어\"&nbsp;&nbsp;뉴시스치매약 ‘콜린알포세레이트’, 신장암 위험 높이지 않았다… 서울대병원 빅데이터 확인&nbsp;&nbsp;헬스조선치매약 ‘콜린알포세레이트’ 신장암 '유발이나 예방'과 무관&nbsp;&nbsp;의학신문",
       "sources": [
         {
-          "name": "khanews.com",
+          "name": "병원신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Y3dCdmhXNmVUMEVWQlozb3JYQjdLbmNrOHhsOUlEMUhETi1DTXc4VVhabHN6UWQ3cWxQd015SnhMVUJVUkg5RUlXN0ZCREtYVjBPX1ZaeVpWZlYyc2ZXVXA1akZnMDhpalE?oc=5"
         }
       ],
@@ -381,13 +446,13 @@
       "matched_keywords": []
     },
     {
-      "id": "512afe3c3b98",
+      "id": "855ce061937e",
       "title": "단일공 복강경 수술, 고령·만성질환 있는 맹장염 환자에게도 적용할 수 있어… 주의점은? [김기석 원장 칼럼]",
       "published": "2026-08-06T02:16:42+00:00",
-      "summary": "단일공 복강경 수술, 고령·만성질환 있는 맹장염 환자에게도 적용할 수 있어… 주의점은? [김기석 원장 칼럼]&nbsp;&nbsp;mediafine.co.kr",
+      "summary": "단일공 복강경 수술, 고령·만성질환 있는 맹장염 환자에게도 적용할 수 있어… 주의점은? [김기석 원장 칼럼]&nbsp;&nbsp;미디어파인",
       "sources": [
         {
-          "name": "mediafine.co.kr",
+          "name": "미디어파인",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QX3JDeXdBMU5MVWlCd0RJMURfRjdiRGM5MVJPRUJYU3l5bDZEbFd0ZjR4aTJfZmpBZ3V2V1VVZDVESmQ1d3lubzhyc0t5anRFbExxdUxTMno0aFM3RVg4dDV5Q2Z6LTVZNGJTdFdB?oc=5"
         }
       ],
@@ -407,39 +472,39 @@
       "matched_keywords": []
     },
     {
-      "id": "0bce6b45112a",
+      "id": "3d43830ea927",
       "title": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구",
       "published": "2026-08-06T01:52:05+00:00",
-      "summary": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구&nbsp;&nbsp;디지털투데이",
+      "summary": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구&nbsp;&nbsp;digitaltoday.co.kr",
       "sources": [
         {
-          "name": "디지털투데이",
+          "name": "digitaltoday.co.kr",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pM3BrcVJqOTZVNUJ5S0NjZWg4d3IySU5YR3lfdUhzU1ZVSGVRWTBKbldSQUQ1VmpTeG1EejYzU1p0c05ZVmRVd2lYQVhPbzh6cWNCVlhTZzBQcVU4Z0VWTTNqdTFZYmVvX3dNS2tvSUg2b3M?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "f3327f4935f0",
+      "id": "353c329958fa",
       "title": "손바닥에 생긴 붉은 반점… ‘심장’이 보낸 경고 신호라고?",
       "published": "2026-08-06T01:15:00+00:00",
-      "summary": "손바닥에 생긴 붉은 반점… ‘심장’이 보낸 경고 신호라고?&nbsp;&nbsp;kormedi.com",
+      "summary": "손바닥에 생긴 붉은 반점… ‘심장’이 보낸 경고 신호라고?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZX1B6TUx6aTIxalAxVzV5UHd5aVNyYW5Pb0c5QnpwSGlRMUU3amV5eDlJM3M5cEZSMjFWOUdDLXZsUQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "7bbdeb2ef937",
+      "id": "d03ae27137a5",
       "title": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’",
       "published": "2026-08-06T00:45:00+00:00",
-      "summary": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’&nbsp;&nbsp;한겨레",
+      "summary": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’&nbsp;&nbsp;hani.co.kr",
       "sources": [
         {
-          "name": "한겨레",
+          "name": "hani.co.kr",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HWU8yTFQyd2o1VWVRWkU4NktsZVhWOE9paDNNa3NjOGJmd003UDRyREZBRXBwQmQ0OTEtNXhYLWJVN0JUNkFiYjlyUVdDUE1RSkNKdWdMYWZUc2tHVUpIdTFWaWdaNXNma1hzRG9TQjVEZw?oc=5"
         }
       ],
@@ -459,13 +524,13 @@
       "matched_keywords": []
     },
     {
-      "id": "9a445ac51dee",
+      "id": "5b22f07bb156",
       "title": "부작용 적은 '면역항암제'도 치료 중 절대 참으면 안 되는 부작용 있다",
       "published": "2026-08-06T00:10:44+00:00",
-      "summary": "부작용 적은 '면역항암제'도 치료 중 절대 참으면 안 되는 부작용 있다&nbsp;&nbsp;koreahealthlog.com",
+      "summary": "부작용 적은 '면역항암제'도 치료 중 절대 참으면 안 되는 부작용 있다&nbsp;&nbsp;코리아헬스로그",
       "sources": [
         {
-          "name": "koreahealthlog.com",
+          "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NV1NQVjhRZjRtY2czUDF2ZDFYUXR1T2FvOTNPVFlGX0JyZnNOQm1PWWFQdWJIeWlWRGUzRmVsSTVfT2dHR3dnUHA3Y2xLdi11NDl4cmVGbDF1TktISjhadHJnMXk0ZHVvTDlyNjQ5RDBoZ9IBdkFVX3lxTE1ka21wQ0p5dFRsU1dLakpoc2U5eVdMZTJKU3J6TU1qRFFfS09oY2JRQTEwODlqZmRrNjBCSlBNZTNHWGFZazBVS0ZaZGRyZXE3SThDWEVwbkpVYlZCN1hjbDVHTU1MdzdhdHg4ZTVrNmgzMXBJcFE?oc=5"
         }
       ],
@@ -480,19 +545,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ONXVkQUQyem4xaEVXTVVDQThENUxHemJ3dkdvSnE5VjhNUmVhQUhkZjBCTGlfeTFXUDV4SHg4cS1IYVdJOUhVQlp0SVJWbjNyTDFRNjNMTFdhZG1sTkxkRl9naWNicGpMb0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "67c3e3e221fa",
-      "title": "출산 경험 있는 여성, 췌장암 발생 위험 더 낮았다",
-      "published": "2026-08-05T22:06:03+00:00",
-      "summary": "출산 경험 있는 여성, 췌장암 발생 위험 더 낮았다&nbsp;&nbsp;뉴스인\"아이 낳으면 췌장암 위험 뚝\"... 93만명 추적 결과 [헬스톡]&nbsp;&nbsp;v.daum.net출산 경험한 여성, 췌장암 위험 낮아… 왜?&nbsp;&nbsp;헬스조선아이 낳은 여성이 안 낳은 여성보다 췌장암 발생 위험 30% 낮다&nbsp;&nbsp;한국일보출산 경험 있는 여성, 미출산 여성에 비해 췌장암 발생 위험 더 낮았다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "뉴스인",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WRFNBNUR4SDFPWVA2UzFuOEc2SXdzYzd0NVZWZEZDLW1mQzg5N3BtN0VMeVJ4dFdIejU3ZmF2dWdudTdPaTlzb1l2X1dTU1JWazJiaEhaUTBLVlhrajcxQ3kxR3ZTRXRZdEpJ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -537,13 +589,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c09d5e062abe",
+      "id": "4097408bbeb9",
       "title": "“그냥 웃고 장난치는 줄 알았는데”... 세 살 아들, 뇌졸중 8차례 겪었다",
       "published": "2026-08-05T21:03:00+00:00",
-      "summary": "“그냥 웃고 장난치는 줄 알았는데”... 세 살 아들, 뇌졸중 8차례 겪었다&nbsp;&nbsp;kormedi.com",
+      "summary": "“그냥 웃고 장난치는 줄 알았는데”... 세 살 아들, 뇌졸중 8차례 겪었다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFByWTFBQnhTSUUwd2M4bGxaTEtCZkx6Y2JsalFZMVpCLVZMUTdPZ1BFQUgwQm9uLWxwSTVYTWtKdzZwQQ?oc=5"
         }
       ],
@@ -566,7 +618,7 @@
       "id": "9070faf5a1ec",
       "title": "알부민·비타민 '건기식' 먹는다고 정말 건강해질까 [건강한겨레]",
       "published": "2026-08-05T20:05:00+00:00",
-      "summary": "알부민·비타민 '건기식' 먹는다고 정말 건강해질까 [건강한겨레]&nbsp;&nbsp;네이트\"먹는 알부민, 주사제와 다르다\"…보건의료연구원, 토론회 개최&nbsp;&nbsp;뉴스1알부민·비타민 ‘건기식’ 먹는다고 정말 건강해질까 [건강한겨레]&nbsp;&nbsp;한겨레영양제 꼭 챙겼는데… “오히려 건강 악화”, 아침 공복 ‘이것’ 놓친 탓?&nbsp;&nbsp;kormedi.com'소비자가 알아야 할 먹는 알부민 진실과 오해' 원탁회의 20일 개최&nbsp;&nbsp;약사공론",
+      "summary": "알부민·비타민 '건기식' 먹는다고 정말 건강해질까 [건강한겨레]&nbsp;&nbsp;네이트\"먹는 알부민, 주사제와 다르다\"…보건의료연구원, 토론회 개최&nbsp;&nbsp;뉴스1알부민·비타민 ‘건기식’ 먹는다고 정말 건강해질까 [건강한겨레]&nbsp;&nbsp;hani.co.kr영양제 꼭 챙겼는데… “오히려 건강 악화”, 아침 공복 ‘이것’ 놓친 탓?&nbsp;&nbsp;코메디닷컴'먹는 알부민' 효과 있나…NECA·간학회 근거 따진다&nbsp;&nbsp;청년의사",
       "sources": [
         {
           "name": "네이트",
@@ -602,118 +654,14 @@
       "matched_keywords": []
     },
     {
-      "id": "536058f29798",
-      "title": "잠 안 올 때, 멜라토닌 vs 마그네슘… 내게 맞는 건 따로 있다",
-      "published": "2026-08-05T13:00:00+00:00",
-      "summary": "잠 안 올 때, 멜라토닌 vs 마그네슘… 내게 맞는 건 따로 있다&nbsp;&nbsp;헬스조선잠을 ‘강제로 재우는’ 시대에서 ‘각성을 낮추는’ 시대로&nbsp;&nbsp;약업신문졸피뎀보다 더 좋다고?…해외서 히트한 ‘꿀잠약’ 한국에 온다는데 [MK약국 x 약들약]&nbsp;&nbsp;v.daum.net불면증과 함께 나타나는 어지럼증·두통… 자율신경계 이상 여부도 살펴야&nbsp;&nbsp;E동아“호르몬 의존 없이 깊은 잠으로”…수면케어 식품 주목&nbsp;&nbsp;mk.co.kr",
+      "id": "dea17c7a1a88",
+      "title": "[人사이트] 남진우 한양대 교수 “AI 신약 병목, K-문샷으로 극복해 개발 속도 10배 향상”",
+      "published": "2026-08-05T07:00:00+00:00",
+      "summary": "[人사이트] 남진우 한양대 교수 “AI 신약 병목, K-문샷으로 극복해 개발 속도 10배 향상”&nbsp;&nbsp;전자신문",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zMVhnSnhyQnJmNFVqOS1MYUJoV19OZkg4QWM0b05JdVNpd1ZhaFF0Sm1BUFZyaXJmU1dyejV1Y1RDRHM5MXhLcEtQaXVOWFVYX0hfVHp6aTlvYjRIdkpEUTY1U3g3WHVvekVNSWZHTmNuSTN6cVUyYzlUM3c4Unc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cfee624ca2ea",
-      "title": "한 덩이에 1860kcal…SNS ‘버터먹방’ 열풍 뒤에 숨은 심혈관질환 위험",
-      "published": "2026-08-05T09:10:14+00:00",
-      "summary": "한 덩이에 1860kcal…SNS ‘버터먹방’ 열풍 뒤에 숨은 심혈관질환 위험&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nM2xWaDZ4d29CTlZZQlVMMHJuOHA3T2tiMjBVTy1lc1V6My1ZYi1kSWV0Zm9JeE9kdG02cTJrazczUmtQRzkzc05ZUWtZNlZ6anVnd2dBano4bE84YWNsb0pKUkZyQnRDNkkyTl9JZjhkeUMtX1HSAWZBVV95cUxQdmZkcWdiaDVwZWc2SmRVSEZzMUt5YU1WMW5fQV9uT0hxVG03d2VfX3hIdnBrVGE1aE9oakZKSUlZREJONmhRM21jNVlwUkdNOXoybXV1eTkya1BkcC1WSzlfNGJZanc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3fc8bb8c2878",
-      "title": "[뼈 건강] 골밀도를 높이는 법, 운동과 식품",
-      "published": "2026-08-05T09:10:05+00:00",
-      "summary": "[뼈 건강] 골밀도를 높이는 법, 운동과 식품&nbsp;&nbsp;뉴스타운걷기도, 웨이트도 아니다… ‘뼈 건강’에 가장 좋은 운동은?&nbsp;&nbsp;헬스조선근력 위해 딱 하나만 해야 한다면?…전문가가 꼽은 최고의 운동 ‘이것’&nbsp;&nbsp;농민신문걷기보다 축구가 뼈에 낫다?…차이 만든 건 '운동 강도'&nbsp;&nbsp;kormedi.com",
-      "sources": [
-        {
-          "name": "뉴스타운",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vNTdOcTd5X1hUbkhnNm5vVFpCZE9RWGp6R1NSTHJ3TXpId09kWEI5anA3Ri1naDI2Tk1BNWZLVVk2TEQ3eE1jYjhyMzE5ZGRCUGtLZ090ZUFqaHp4d3EwdnVTWXlOd0dYeXQ1aFRB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c6962b00ef79",
-      "title": "만성 폐쇄성 폐질환 환자의 체중 감소 및 근육 약화를 줄이는 데 도움이 되는 식단",
-      "published": "2026-08-05T08:39:58+00:00",
-      "summary": "만성 폐쇄성 폐질환 환자의 체중 감소 및 근육 약화를 줄이는 데 도움이 되는 식단&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDc0VlVCbkwyZmVDbk0zLUZneWlPVVlMUXc3WFh2WF9UY0F0TkFlSnNlZV9md0pGb2ppVENwSmJ3RjZySk9JX2hWTUlubUh2LWwxa1dMdG9hQjlEWHFSc2xnMXhQN2p2dVJfN21OeGlRV1NNU2doZVlGSGVVM2tZaTVfVmVVQlFla01WTUZJQjNINFBTQ3hhNkp4eHhfc0V6RGJjeVBVc3BQdGJsUm5uZ0FJZmQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "89d47fe46688",
-      "title": "암 환자를 위한 혀 재생",
-      "published": "2026-08-05T08:28:20+00:00",
-      "summary": "암 환자를 위한 혀 재생&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnJOUXlJaW93UThQbFU5QkxYZFhHWHZaMnJYdEltM0VJZmQ3eElrSHpraE54MFcwbjJhSFFRMkJiaEx6WUhyNllRM0VLbndpX19UNl9VYzRYdi1sWHhUbXhSMll2M1VTNlRMbHFtbmJYVHJmWmMxSGFtbjdjWmNzLWxhQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fe72280266f7",
-      "title": "암용어사전 (96) 적응증",
-      "published": "2026-08-05T08:25:19+00:00",
-      "summary": "암용어사전 (96) 적응증&nbsp;&nbsp;canceranswer.co.kr",
-      "sources": [
-        {
-          "name": "canceranswer.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRSnVkak5sbjM0NW5DUThUaVZVQ0hwSXVhaVdHMnAtaHMzbDd2S0QtMHJVY1lwSGZZbmJBWnlwX1Z3NFJ1VENySHFIS1FMMU9oRXF1Q2pKdXpKX2pyeXVUdTJjcWhaeU40czIxdGh1djQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c72e340fc6f2",
-      "title": "흉통 환자 ‘운동부하심전도검사’ 성별 격차 규명",
-      "published": "2026-08-05T08:07:03+00:00",
-      "summary": "흉통 환자 ‘운동부하심전도검사’ 성별 격차 규명&nbsp;&nbsp;khanews.com흉통 환자 절반이 놓친 검사…\"여성이라서\" 더 위험했다&nbsp;&nbsp;v.daum.net흉통에 병원 찾았지만 … 여성 심장환자 진단 누락되는 이유&nbsp;&nbsp;뉴데일리고려대안암병원, 흉통 환자 '운동부하심전도검사' 성별 격차 세계 최초 규명&nbsp;&nbsp;k-health.com흉통 여성, 운동부하심전도검사 덜 받는다 … 국내 첫 진료현장 성별 격차 규명&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "khanews.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GcW1lU1dYeDRDM3hFMDBjaDhkbExjWXJqMkduODVjMFhYV2pfZWwxOU5UWUNHcEJTWjlKT3JaMEJxNjg5TzI0MGZMekpxSG5fNE5IbjZPRnUzaW12SXN1Zy04QllyOC14bmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b59a70b00d08",
-      "title": "장 건강에 좋은 망고인데... 의외로 위험한 사람은?",
-      "published": "2026-08-05T07:53:45+00:00",
-      "summary": "장 건강에 좋은 망고인데... 의외로 위험한 사람은?&nbsp;&nbsp;조세일보",
-      "sources": [
-        {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zZTVCNkVmVnFsdS1RNjlNVnVVQVlDYmRJQmtvSnBEQjF3NmVqeEhBVUI1ZkVqcTNfdm5CR1JBTU9INzF4S3dwc1ZBQ0Vxemx3QzdTemExMVVvb2p5aDc3djJMVkpFN25ZLUZZaWxGaXBiNDVw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2dc2fb02e2d5",
-      "title": "병원에서 장염이라던 8세 소년, 알고 보니 ‘백혈병’이었다… 겪은 증상 보니?",
-      "published": "2026-08-05T07:10:00+00:00",
-      "summary": "병원에서 장염이라던 8세 소년, 알고 보니 ‘백혈병’이었다… 겪은 증상 보니?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rNnE1X3dEaGVKNUt5dWlhSElieDBIMWFWbGxHcnhSMld0YUQwRDdmWGwwUjcycWROcHRPelhVNThZd19QS0xka3hQLUF0OU5GLXlkSU5uY2ZUR1NZTlV4bFpDaGoxbjlkVFNORWJ4Q2ZvR0Nwam9NRnRrM1FHM3M?oc=5"
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmVvMXNsNUI1SE0wSVYxM2lIU0txUk5RcURYV0NzTTlUVklFdmlZLVlnOXVFM0dOQUZSSGVfcEV0ZDJELWk2cHNuSjdZM3hISm9UTmUxNy01bkw5OXdtZTVtTVdocHI4T1J4VkVBdjg2U0drQUxFSEl0RTJqdkFKSENidkxERDRDcWJHVFNLLTBuWWlfRXBPU3Q1VWlrdXRMVjd2TE1SQWxGdWxXbnBTZDFVM2hRM2J3V3Z0RFNwVGJGS1htZWZkb2RmaUlIUXRNTU85eGx2SQ?oc=5"
         }
       ],
       "matched_keywords": []
