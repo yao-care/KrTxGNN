@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-07T13:09:19.942625+00:00",
-  "total_fetched": 84,
-  "unique_count": 84,
-  "health_related_count": 53,
+  "fetched_at": "2026-08-07T19:00:44.518310+00:00",
+  "total_fetched": 85,
+  "unique_count": 85,
+  "health_related_count": 55,
   "news": [
+    {
+      "id": "1b33b3d3740a",
+      "title": "어릴 때부터 남자의 코에 있던 것으로 의심되는 이물질 발견 - Laodong.vn",
+      "published": "2026-08-07T12:42:31+00:00",
+      "summary": "어릴 때부터 남자의 코에 있던 것으로 의심되는 이물질 발견&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXFCUWVrSGlpbFNJaHljdk5vX0NNWUJGdk1iUk1JcE9iZF9RQTJmWXFHU1NzQlJVWEdBZVZPMVhDYkxFTzEzZDlWWS10SzUwMVVCNkFhVnFUcnF0NEw0UHMyZld5dEpYOXdRWG05Mjd2b1JveEJ6RTRPUzNoN2hRUUFhSWZUcjBIX1pUMUNpeE1NVGFvaWxrNFp1bGNhZFg4NUF6SWNB?oc=5"
+        }
+      ]
+    },
     {
       "id": "4d2366888d49",
       "title": "55세부터 혈관 건강 ‘최적’ 유지하면...치매 없이 평균 30년 산다 - 디멘시아뉴스",
@@ -33,7 +45,7 @@
       "id": "71ad85ae25f0",
       "title": "AI가 설계한 신종 바이러스, 대장균 사멸 확인… 항생제 내성균 잡을까 - 전자신문",
       "published": "2026-08-07T07:32:53+00:00",
-      "summary": "AI가 설계한 신종 바이러스, 대장균 사멸 확인… 항생제 내성균 잡을까&nbsp;&nbsp;전자신문[사이언스카페] AI가 세균 잡는 바이러스 생성, 내성균도 감염 - 조선비즈&nbsp;&nbsp;ChosunbizAI가 설계한 '신종 바이러스' 16종 탄생...생물무기 악용 우려&nbsp;&nbsp;YTN 사이언스내성균 잡을 새 무기…AI로 설계한 ‘인공 바이러스’ 첫 탄생&nbsp;&nbsp;v.daum.netAI가 만든 ‘자연에 없는 바이러스’…“생명공학의 확장이자 인류에 위협”&nbsp;&nbsp;hani.co.kr",
+      "summary": "AI가 설계한 신종 바이러스, 대장균 사멸 확인… 항생제 내성균 잡을까&nbsp;&nbsp;전자신문AI가 설계한 '신종 바이러스' 16종 탄생...생물무기 악용 우려&nbsp;&nbsp;YTN 사이언스AI로 대장균 잡는 ‘인공 바이러스’ 만들었다&nbsp;&nbsp;donga.com[사이언스카페] AI가 세균 잡는 바이러스 생성, 내성균도 감염 - 조선비즈&nbsp;&nbsp;Chosunbiz'AI설계'로 새 바이러스 16종 만들었다…실제 번식까지&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
           "name": "전자신문",
@@ -42,10 +54,10 @@
       ]
     },
     {
-      "id": "73b5f0cdcdf0",
-      "title": "담백하게 먹는데도 혈지 높다면 문제는「수면」에 있어!--건강 - 인민넷",
+      "id": "dcfd43dca67b",
+      "title": "담백하게 먹는데도 혈중지질 높다면 문제는 ‘수면’에 있을 수 있어!--건강 - 인민넷",
       "published": "2026-08-07T07:01:00+00:00",
-      "summary": "담백하게 먹는데도 혈지 높다면 문제는「수면」에 있어!--건강&nbsp;&nbsp;인민넷",
+      "summary": "담백하게 먹는데도 혈중지질 높다면 문제는 ‘수면’에 있을 수 있어!--건강&nbsp;&nbsp;인민넷",
       "sources": [
         {
           "name": "인민넷",
@@ -74,6 +86,30 @@
         {
           "name": "한의신문",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByMDZXeGVvR0xuaGxOTUNGZTVxSTQ4dk1IYmVBMnRwV0ktNVptOUs1eXNhNVc5UkktQl9KX2Fmd0xwTUZQZ09QQmJHNnJkWWw0YmI5ZzVBZDhSd3dSOUpGTDdWUHFXZUhWNi0tNmlZcGxMZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad30ad0d2040",
+      "title": "노년층 인지 건강… 빨리 걸으면 치매 위험 낮아진다 - 미주한국일보",
+      "published": "2026-08-07T03:00:00+00:00",
+      "summary": "노년층 인지 건강… 빨리 걸으면 치매 위험 낮아진다&nbsp;&nbsp;미주한국일보암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;중앙일보건망증과 치매, 무엇이 다른가?&nbsp;&nbsp;톱클래스하루 5000보만 걸어도 치매 예방 효과···뇌혈류 개선과 염증 조절&nbsp;&nbsp;v.daum.net모녀 절연 부른 안선영 엄마의 행동…알고 보니 치매 초기 신호&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByRlBEeGczMW5INHJqNFdTWlVDck9XZ0xhdkNOMWxiOUZJd25kQUwzWk1sZmk0Q2ZoaGdhekN1bVZpWjhIeHlBbXhJSXlpU0dZMTh6M0JpZWNlc3RBNjFJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0166a4d393a",
+      "title": "면역항암치료 부작용 A to Z (2) 키트루다·옵디보(PD-1 억제제) 부작용 - 캔서앤서",
+      "published": "2026-08-07T01:51:48+00:00",
+      "summary": "면역항암치료 부작용 A to Z (2) 키트루다·옵디보(PD-1 억제제) 부작용&nbsp;&nbsp;캔서앤서",
+      "sources": [
+        {
+          "name": "캔서앤서",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtSUVEdmNfX29ZazhweEtnQVcxejZnUW55aGl3VlJWQW05MldoUW8zMXNCWHBrT0J6Rl9FX2dfbUpKUGU5Ym9jMlF3eTJhZFJ5RjJQNjB0VVZsMWY4a0JSNEJVajZYOGZlaFNCUUFxcG0?oc=5"
         }
       ]
     },
@@ -162,14 +198,14 @@
       ]
     },
     {
-      "id": "95305781c788",
-      "title": "[사이언스샷] 코로나가 깨웠다, 잠복 바이러스가 중증 유발 - 조선비즈 - Chosunbiz",
-      "published": "2026-08-06T13:31:00+00:00",
-      "summary": "[사이언스샷] 코로나가 깨웠다, 잠복 바이러스가 중증 유발 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "id": "ab973744cc61",
+      "title": "“통째로 먹으면 1860㎉”…'버터 먹방', 심혈관 건강에 최악 - 전자신문",
+      "published": "2026-08-06T21:00:00+00:00",
+      "summary": "“통째로 먹으면 1860㎉”…'버터 먹방', 심혈관 건강에 최악&nbsp;&nbsp;전자신문",
       "sources": [
         {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMk9WVnk4c3lLMmVxbWFXc3lHay1QM1M1WWF5cFVGTTJkWkx5TGlETkJxSUdUR2FFSDRsVTJzT2J0Nmp4YzI2MENpM2xmYXRtTjRtOWRMdUZFTVZuYUcwMTBHN21TTW5PZHFCUjVISnF2clVSY0JKWXQ2MFlfT0hJUWF6V2FNV01yRHVNaDNxWE83bzNPMXRJ0gGrAUFVX3lxTE1fTV9uSTNWUjdMYm9xODMtc2lZTWdqLUNwT3V5WWhvYWU2cFB1amgzd0p6S1Roa2RNa25JTThSaTM2VWNUNnZaVkNqdFFIZE1oRzdFR1gtSkZQSnhPWGhHS0wzcWJ5OXlNbDdjd1FvVUFUejcyNExiZ0dMWnlKbEo2YUNBRFJ3X3NKck9weWd5LVNmV2R2cHZQNGtheGRjMDlVaWZXNl82SldmOA?oc=5"
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qeGZrdnZJclAtYXZ0V0RJbVpaUTRtZ1dFX1FyWHM0R1J6bmU0SjZCR3FlOERfdFB2U3I2b3k2VU40OUpvRHhrVTBGcFlFUQ?oc=5"
         }
       ]
     },
@@ -198,13 +234,13 @@
       ]
     },
     {
-      "id": "b41777da1752",
-      "title": "‘연 30일 최고 40도’…목숨 위험한 폭염, 뉴노멀 되나 - hani.co.kr",
+      "id": "06cb7d564629",
+      "title": "‘연 30일 최고 40도’…목숨 위험한 폭염, 뉴노멀 되나 - 한겨레",
       "published": "2026-08-06T10:45:00+00:00",
-      "summary": "‘연 30일 최고 40도’…목숨 위험한 폭염, 뉴노멀 되나&nbsp;&nbsp;hani.co.kr",
+      "summary": "‘연 30일 최고 40도’…목숨 위험한 폭염, 뉴노멀 되나&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "hani.co.kr",
+          "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Y1ozeG5FbmZBTHNMWVpWdndMdzFtOWdWTlFwUThuTFVRMzREZ0lINHNWVlNNYjlSbDg2dFhnWW5MbDRCOElrSkFOVVVudmRuWkJVaFUtRmhvR0g5SFh6SHFrYXZuRHR1VDJUQl95VThWQQ?oc=5"
         }
       ]
@@ -246,13 +282,13 @@
       ]
     },
     {
-      "id": "5b8eb35c06ef",
-      "title": "갱년기 이후에도 자궁경부암 검진은 계속된다 - 비건뉴스",
+      "id": "495a524a2938",
+      "title": "갱년기 이후에도 자궁경부암 검진은 계속된다 - vegannews.co.kr",
       "published": "2026-08-06T08:26:14+00:00",
-      "summary": "갱년기 이후에도 자궁경부암 검진은 계속된다&nbsp;&nbsp;비건뉴스",
+      "summary": "갱년기 이후에도 자궁경부암 검진은 계속된다&nbsp;&nbsp;vegannews.co.kr",
       "sources": [
         {
-          "name": "비건뉴스",
+          "name": "vegannews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SUzhIN2dUaGtEWUZibnQ3MUVmTWZ4c0VhaEY4dnZFTEhmb3Buc18tY2pndy0xQlVteHhKOTlydDhQLTNhVzk1RXNVbUFBM0xLUXdtUUdzUllyT1BINWNGMVNaLW54QQ?oc=5"
         }
       ]
@@ -270,25 +306,25 @@
       ]
     },
     {
-      "id": "3c174d4dbbcd",
-      "title": "분당서울대병원 비뇨의학과 변석수 교수 ′전립선암, 제대로 알고 제대로 치료하자′ 출간 - 로컬세계",
+      "id": "9e888f62e824",
+      "title": "분당서울대병원 비뇨의학과 변석수 교수 ′전립선암, 제대로 알고 제대로 치료하자′ 출간 - localsegye.co.kr",
       "published": "2026-08-06T06:47:14+00:00",
-      "summary": "분당서울대병원 비뇨의학과 변석수 교수 ′전립선암, 제대로 알고 제대로 치료하자′ 출간&nbsp;&nbsp;로컬세계[신간] 전립선암, 제대로 알고 제대로 치료하자&nbsp;&nbsp;에너지경제신문분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈남성암 1위 전립선암 환자 맞춤 안내서 출간&nbsp;&nbsp;데일리메디“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선",
+      "summary": "분당서울대병원 비뇨의학과 변석수 교수 ′전립선암, 제대로 알고 제대로 치료하자′ 출간&nbsp;&nbsp;localsegye.co.kr[신간] 전립선암, 제대로 알고 제대로 치료하자&nbsp;&nbsp;에너지경제신문분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈남성암 1위 전립선암 환자 맞춤 안내서 출간&nbsp;&nbsp;데일리메디“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "로컬세계",
+          "name": "localsegye.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EeUJLODdwQnhMdGlKNllpTk1DZjdpVzVJajlVV3ZLYkNGUXIwbzB2VTc0MTFRRkxGUTEwVkl6NC12cnF1MFp5RlNGbUtFXzZaeGNwejc0dER2a3VDblNNSNIBWEFVX3lxTE1PcXExNXppdkNSNE4yQzhJS0U1RlpTNE83QnBhT0gyNFZwZWdzbjdIZ3lZQkw0UlU1RXQ4RnpqSy16LUlfR01EU1RpVGJOTkpZVjFfUDc1VDg?oc=5"
         }
       ]
     },
     {
-      "id": "de361df22c91",
-      "title": "출산 경험 여성, 췌장암 위험 더 낮았다 - 오아시스뉴스",
+      "id": "6ff8e46666e7",
+      "title": "출산 경험 여성, 췌장암 위험 더 낮았다 - oasisnewstimes.com",
       "published": "2026-08-06T06:45:37+00:00",
-      "summary": "출산 경험 여성, 췌장암 위험 더 낮았다&nbsp;&nbsp;오아시스뉴스\"아이 낳으면 췌장암 위험 뚝\"... 93만명 추적 결과 [헬스톡]&nbsp;&nbsp;v.daum.net출산 경험한 여성, 췌장암 위험 낮아… 왜?&nbsp;&nbsp;헬스조선아이 낳은 여성이 안 낳은 여성보다 췌장암 발생 위험 30% 낮다&nbsp;&nbsp;한국일보출산 경험 있는 여성, 미출산 여성에 비해 췌장암 발생 위험 더 낮았다&nbsp;&nbsp;네이트",
+      "summary": "출산 경험 여성, 췌장암 위험 더 낮았다&nbsp;&nbsp;oasisnewstimes.com\"아이 낳으면 췌장암 위험 뚝\"... 93만명 추적 결과 [헬스톡]&nbsp;&nbsp;v.daum.net출산 경험한 여성, 췌장암 위험 낮아… 왜?&nbsp;&nbsp;헬스조선아이 낳은 여성이 안 낳은 여성보다 췌장암 발생 위험 30% 낮다&nbsp;&nbsp;한국일보출산 경험 있는 여성, 미출산 여성에 비해 췌장암 발생 위험 더 낮았다&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "오아시스뉴스",
+          "name": "oasisnewstimes.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nc0gwZHU1Rjl0UXhYdlNXbGw3Z3BjU3VJLUZKVXdrMzc5TFdudnZFcU0yNzY1RzBsUlRUOEt5ZjhucjBnQktLMC1LQzRteDVoRjZkcXcxTDB1dVJTLVRaaXRwTkJMWlFUdjBaa1FXeEbSAXRBVV95cUxPUmlhZHZyWldsWWVkYmZIdURTZ2wtVXVqQ3FIMnV0MjdFbFVwMHVnQUotMGlPZldtWmJnenlGY096NkdiZkp2X05hdmtQaFBZcnNuQ0J6UGtoY0RxZjRfTnBzVVRwSXh5MzdJWUdGTkJ2VkJmLQ?oc=5"
         }
       ]
@@ -309,7 +345,7 @@
       "id": "5f840024e156",
       "title": "뿌리면 초록색으로 '반짝'…감염 바이러스 진단기술 개발 - 뉴스;트리",
       "published": "2026-08-06T06:29:44+00:00",
-      "summary": "뿌리면 초록색으로 '반짝'…감염 바이러스 진단기술 개발&nbsp;&nbsp;뉴스;트리'칙' 뿌리면 바이러스가 반짝...KIST, 형광 진단 플랫폼 '퓨전 어세이' 개발&nbsp;&nbsp;전자신문곳곳에 묻은 감염력 있는 바이러스, '칙' 뿌리면 5분 내 보인다&nbsp;&nbsp;연합뉴스마스크·책상에 칙 뿌리면 5분 내 '형광색'…감염 바이러스 선별&nbsp;&nbsp;v.daum.net감염력 있는 바이러스만 초록빛으로… 5분 만에 가려낸다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "summary": "뿌리면 초록색으로 '반짝'…감염 바이러스 진단기술 개발&nbsp;&nbsp;뉴스;트리'칙' 뿌리면 바이러스가 반짝...KIST, 형광 진단 플랫폼 '퓨전 어세이' 개발&nbsp;&nbsp;전자신문곳곳에 묻은 감염력 있는 바이러스, '칙' 뿌리면 5분 내 보인다&nbsp;&nbsp;연합뉴스표면에 뿌리기만 해도 ‘감염 바이러스 진단’ 플랫폼 개발&nbsp;&nbsp;KBS 뉴스마스크·책상에 칙 뿌리면 5분 내 '형광색'…감염 바이러스 선별&nbsp;&nbsp;뉴스1",
       "sources": [
         {
           "name": "뉴스;트리",
@@ -318,10 +354,22 @@
       ]
     },
     {
+      "id": "0add37b7383a",
+      "title": "[사이언스샷] 코로나가 깨웠다, 잠복 바이러스가 중증 유발 - 네이트",
+      "published": "2026-08-06T06:29:00+00:00",
+      "summary": "[사이언스샷] 코로나가 깨웠다, 잠복 바이러스가 중증 유발&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13c0JadTJVNmo2OEppR2JFNnp4STAwOXVfVnd6ai1KUGs3bEdHTHpCRHBSekNEdjJNT29BM0lweDFMNElhN2JoQm5hM3ZWWWt3ZnhhOVJrdVVldVBpNkxhUA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e4286ce23edc",
       "title": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발 - 팍스경제TV",
       "published": "2026-08-06T06:15:40+00:00",
-      "summary": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발&nbsp;&nbsp;팍스경제TV뇌전증 치료제 개발 위한 '최적' 동물모델 찾았다&nbsp;&nbsp;연합뉴스뇌전증 환자 유형별 최적 동물모델 찾았다…신약개발 정확도↑&nbsp;&nbsp;뉴스1세브란스, 뇌전증 치료제 개발 정확도 향상&nbsp;&nbsp;biz.heraldcorp.com연세의대, 뇌전증 맞춤형 동물모델 규명…신약 개발 새 기준&nbsp;&nbsp;asiatoday.co.kr",
+      "summary": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발&nbsp;&nbsp;팍스경제TV뇌전증 치료제 개발 위한 '최적' 동물모델 찾았다&nbsp;&nbsp;연합뉴스뇌전증 환자 유형별 최적 동물모델 찾았다…신약개발 정확도↑&nbsp;&nbsp;뉴스1세브란스, 뇌전증 치료제 개발 정확도 향상&nbsp;&nbsp;헤럴드경제연세의대, 뇌전증 맞춤형 동물모델 규명…신약 개발 새 기준&nbsp;&nbsp;아시아투데이",
       "sources": [
         {
           "name": "팍스경제TV",
@@ -402,18 +450,6 @@
       ]
     },
     {
-      "id": "ce44999d1af8",
-      "title": "[김민희 신경과] “깜빡함·손떨림·어지럼증… 뇌 이상 신호, 놓치지 마세요” - 미주한국일보",
-      "published": "2026-08-06T03:00:00+00:00",
-      "summary": "[김민희 신경과] “깜빡함·손떨림·어지럼증… 뇌 이상 신호, 놓치지 마세요”&nbsp;&nbsp;미주한국일보암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;중앙일보하루 5000보만 걸어도 치매 예방 효과···뇌혈류 개선과 염증 조절&nbsp;&nbsp;v.daum.net건망증과 치매, 무엇이 다른가?&nbsp;&nbsp;톱클래스모녀 절연 부른 안선영 엄마의 행동…알고 보니 치매 초기 신호&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yMWkzQ0FQLU0zUjRCUlIySm1tUUZ2UU5PZGpVMDJuWjM5Z09iUlVVSG44UEJiT2dDcWp3V1h0WE9FS0JYNTlWMmVtMlB0Xzg0aXNLNFdadThjN0FDV1BZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "855ce061937e",
       "title": "단일공 복강경 수술, 고령·만성질환 있는 맹장염 환자에게도 적용할 수 있어… 주의점은? [김기석 원장 칼럼] - 미디어파인",
       "published": "2026-08-06T02:16:42+00:00",
@@ -438,13 +474,13 @@
       ]
     },
     {
-      "id": "3d43830ea927",
-      "title": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구 - digitaltoday.co.kr",
+      "id": "0bce6b45112a",
+      "title": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구 - 디지털투데이",
       "published": "2026-08-06T01:52:05+00:00",
-      "summary": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구&nbsp;&nbsp;digitaltoday.co.kr",
+      "summary": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구&nbsp;&nbsp;디지털투데이",
       "sources": [
         {
-          "name": "digitaltoday.co.kr",
+          "name": "디지털투데이",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pM3BrcVJqOTZVNUJ5S0NjZWg4d3IySU5YR3lfdUhzU1ZVSGVRWTBKbldSQUQ1VmpTeG1EejYzU1p0c05ZVmRVd2lYQVhPbzh6cWNCVlhTZzBQcVU4Z0VWTTNqdTFZYmVvX3dNS2tvSUg2b3M?oc=5"
         }
       ]
@@ -462,13 +498,13 @@
       ]
     },
     {
-      "id": "d03ae27137a5",
-      "title": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’ - hani.co.kr",
+      "id": "7bbdeb2ef937",
+      "title": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’ - 한겨레",
       "published": "2026-08-06T00:45:00+00:00",
-      "summary": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’&nbsp;&nbsp;hani.co.kr",
+      "summary": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "hani.co.kr",
+          "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HWU8yTFQyd2o1VWVRWkU4NktsZVhWOE9paDNNa3NjOGJmd003UDRyREZBRXBwQmQ0OTEtNXhYLWJVN0JUNkFiYjlyUVdDUE1RSkNKdWdMYWZUc2tHVUpIdTFWaWdaNXNma1hzRG9TQjVEZw?oc=5"
         }
       ]
@@ -482,18 +518,6 @@
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tUGxISGpaZkdRdEtGNVBsLXJGRmJJT1Z3enJoaXQ0UjcydXVWVi1tS0U3cUpUenRReVdraXQ5UFljTnlNSnlYYk45MlRfNHhBYzNiRUp2MTY0UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b22f07bb156",
-      "title": "부작용 적은 '면역항암제'도 치료 중 절대 참으면 안 되는 부작용 있다 - 코리아헬스로그",
-      "published": "2026-08-06T00:10:44+00:00",
-      "summary": "부작용 적은 '면역항암제'도 치료 중 절대 참으면 안 되는 부작용 있다&nbsp;&nbsp;코리아헬스로그",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NV1NQVjhRZjRtY2czUDF2ZDFYUXR1T2FvOTNPVFlGX0JyZnNOQm1PWWFQdWJIeWlWRGUzRmVsSTVfT2dHR3dnUHA3Y2xLdi11NDl4cmVGbDF1TktISjhadHJnMXk0ZHVvTDlyNjQ5RDBoZ9IBdkFVX3lxTE1ka21wQ0p5dFRsU1dLakpoc2U5eVdMZTJKU3J6TU1qRFFfS09oY2JRQTEwODlqZmRrNjBCSlBNZTNHWGFZazBVS0ZaZGRyZXE3SThDWEVwbkpVYlZCN1hjbDVHTU1MdzdhdHg4ZTVrNmgzMXBJcFE?oc=5"
         }
       ]
     },
@@ -573,7 +597,7 @@
       "id": "9070faf5a1ec",
       "title": "알부민·비타민 '건기식' 먹는다고 정말 건강해질까 [건강한겨레] - 네이트",
       "published": "2026-08-05T20:05:00+00:00",
-      "summary": "알부민·비타민 '건기식' 먹는다고 정말 건강해질까 [건강한겨레]&nbsp;&nbsp;네이트\"먹는 알부민, 주사제와 다르다\"…보건의료연구원, 토론회 개최&nbsp;&nbsp;뉴스1알부민·비타민 ‘건기식’ 먹는다고 정말 건강해질까 [건강한겨레]&nbsp;&nbsp;hani.co.kr영양제 꼭 챙겼는데… “오히려 건강 악화”, 아침 공복 ‘이것’ 놓친 탓?&nbsp;&nbsp;코메디닷컴'먹는 알부민' 효과 있나…NECA·간학회 근거 따진다&nbsp;&nbsp;청년의사",
+      "summary": "알부민·비타민 '건기식' 먹는다고 정말 건강해질까 [건강한겨레]&nbsp;&nbsp;네이트\"먹는 알부민, 주사제와 다르다\"…보건의료연구원, 토론회 개최&nbsp;&nbsp;뉴스1알부민·비타민 ‘건기식’ 먹는다고 정말 건강해질까 [건강한겨레]&nbsp;&nbsp;한겨레영양제 꼭 챙겼는데… “오히려 건강 악화”, 아침 공복 ‘이것’ 놓친 탓?&nbsp;&nbsp;코메디닷컴'먹는 알부민' 효과 있나…NECA·간학회 근거 따진다&nbsp;&nbsp;청년의사",
       "sources": [
         {
           "name": "네이트",
@@ -590,18 +614,6 @@
         {
           "name": "머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbFIwcGRDbzgtZzBZaVB5S2VwMGlSMzZHNXQ1Snc1dGphZlFmM0pMVjI0aU0wLUlpVHF1dkRack9tT2luRVR0aUx4VnV2TlNLYkJhelRFU3ExNFljZ2JMbm9SUndnQVXSAWxBVV95cUxOT1pnQl9LYldQZktRbVdHdjE3cGFMSk52Z0kzTDhwdXBfVDZCanI1VVV0UExxNC1hRkN4bkZtMDM1X1U3NDJqMnhLLXN5MGxPMHliX3gwR3FHM3RUVEVUTk1PY3lpbmhFbnVMTzY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "06165e5bdcfc",
-      "title": "“1급 발암물질 중에서도 최악”… 의사가 당장 끊으라는 것, 정체는? - 헬스조선",
-      "published": "2026-08-05T16:00:00+00:00",
-      "summary": "“1급 발암물질 중에서도 최악”… 의사가 당장 끊으라는 것, 정체는?&nbsp;&nbsp;헬스조선폐암, 담배만 문제 아니다…초가공식품 하루 3번 섭취 시 위험 41% 높아져&nbsp;&nbsp;v.daum.net초가공식품 자주 섭취하면 폐암 위험 41%↑···암 예방 좋은 음식은&nbsp;&nbsp;소셜타임스“담배 아녀도… 폐암 키우는 음식 있어” 식탁서 없애야 할 4가지&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNXF4STRVSkt0ZzRNRm9XZ3MybUtvUGFCcV9ZdDFrcFBoX1NvUzBIWGQtUWxoODhxOXdNOHJ0ajE1dzhjUHBVdXcyOHphRldiYk9Bc1JHQzhsT3pHVl8zVkJ2THZqVUxKUjRmc0RvZkxiVXBZUnJ1dEV4WEZJRDA?oc=5"
         }
       ]
     },
@@ -638,6 +650,18 @@
         {
           "name": "바이오스펙테이터",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fUnlIOXhxR3JBbm5RZWliVkUyU0x1SEJVa0VKOElpWC13Y3pTMEtpc055SUpfZHBjYjhLWlE1ZzNZV2VOYnVvM1dGR2ZiZ0pkNkZFdEQyaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ab5f2595407",
+      "title": "포화가 뚫어버린 방역망…무력 충돌은 어떻게 감염병 전파를 가속하는가 - sciencetimes.co.kr",
+      "published": "2026-08-05T00:01:48+00:00",
+      "summary": "포화가 뚫어버린 방역망…무력 충돌은 어떻게 감염병 전파를 가속하는가&nbsp;&nbsp;sciencetimes.co.kr",
+      "sources": [
+        {
+          "name": "sciencetimes.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmxFRkN1Z1dIakdQMjFMVGdUajRYSUFBSVlPVnAtMXlXV3R2djBwUl84N2xtNzFZNnJ2aGlXcWhyalRZc1BReThYS2xZMDI2YzlMQnk2Z3NsaUhwcGR2bkduQWFQV0xJdllIOHdaM0ZtQnNSVndvOU5tR3FRYXl3OG1UOTMtTDVJcGUtZDF4MA?oc=5"
         }
       ]
     }
