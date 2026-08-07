@@ -1,8 +1,99 @@
 {
-  "last_updated": "2026-08-06T14:18:46.210170+00:00",
-  "total_count": 51,
+  "last_updated": "2026-08-07T00:04:03.511621+00:00",
+  "total_count": 56,
   "matched_count": 0,
   "news": [
+    {
+      "id": "c3aa42bf8839",
+      "title": "[사이언스카페] AI가 세균 잡는 바이러스 생성, 내성균도 감염 - 조선비즈",
+      "published": "2026-08-06T23:37:30+00:00",
+      "summary": "[사이언스카페] AI가 세균 잡는 바이러스 생성, 내성균도 감염 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUDAxSjNKbVl0V0FjTDlOSG52Q1JTVXp2RkIwX3NXOG4xTzgwdEZsWF9DUVM4RVQxamlyOGxuU3RwZ1RiM1Z1NUpla1pYMlNvX1UzUXNoMmVqVDBKNE0zRUMtMVFXbzZIa185UnZzSnBBc2RyVWg2azVpU1BMazlBREZnakhKUXdmRU5tONIBoAFBVV95cUxNLVNvYXNSTU5zaDB1MGlibTdDUURYdFkzd3ZkMnNSblFLam5ENTM5Umk2dDU1bWJ5LXNDNkpVVWEzSV9Vd1NieENOeVoxd3A1N2E2LURSZjhseU0wdDVoc25XeUkwNVczTlpzcmFDR085SVNkeWdVZWhhcnJKV3U5NUNha0Q2Rjdwcmx6TE5nRU83NWd2UHEwRG01eDZTbW8y?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a5c2c2d370f4",
+      "title": "성접촉으로 옮는 HPV, 두경부암 원인으로 급증… 무증상 방심 말고 조기 진단 나서야",
+      "published": "2026-08-06T23:00:00+00:00",
+      "summary": "성접촉으로 옮는 HPV, 두경부암 원인으로 급증… 무증상 방심 말고 조기 진단 나서야&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tN0lKVG1XOHJMbXRRblRWc05oYlRvaUQwOHFCWkVzRklsLTByczd0Y1hGU3FGM0F1NE5ZUTBJUXJYd2tMWWJLUFJGNG5MZ1l5SUlPVlFMR2VhUG1rWDlrTE1CSGhOQkFsM2lEdg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1de74f472e9f",
+      "title": "왼팔 근육통 시달리던 29세男, 자택서 숨진 채 발견… 무슨 일?",
+      "published": "2026-08-06T21:09:00+00:00",
+      "summary": "왼팔 근육통 시달리던 29세男, 자택서 숨진 채 발견… 무슨 일?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xbjI0V2pNTGhfaDhRSDlBdWxxTUZQNUY4dFNROEZFcExsd2UyaFdPekN5RjlXNDVKMFlPUGoxM2swdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "37872a7c08fa",
+      "title": "[위키 헬스] 13만명 추적 조사...GLP-1 계열 비만·당뇨약, 골절 위험도 21% 낮춰",
+      "published": "2026-08-06T21:03:17+00:00",
+      "summary": "[위키 헬스] 13만명 추적 조사...GLP-1 계열 비만·당뇨약, 골절 위험도 21% 낮춰&nbsp;&nbsp;위키리크스한국",
+      "sources": [
+        {
+          "name": "위키리크스한국",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MUFk4ZWFFTGlEanN6ekktOFRQUEF5MmpGUG93bVp0R3VZOF9vWFAwZS1rR1VxZHp6dngwOXRJZHRiZjZnSDJEbjJKNzNhQU4yZzBVcFVDZW0wSmpZZXV3VzFFVHBacUprQkU4bUNBQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a00be11ef428",
+      "title": "홍역 감염자, 유니버설 스튜디오에서 11시간 머물러",
+      "published": "2026-08-06T20:26:47+00:00",
+      "summary": "홍역 감염자, 유니버설 스튜디오에서 11시간 머물러&nbsp;&nbsp;미주조선일보",
+      "sources": [
+        {
+          "name": "미주조선일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83enBpY24zLXJWYm5zY2ktNGtIZ2doaVJHcjJBTGQ0d3VMWHFiMGdkeDlYeGVaMUx3SmNSTExWcUxtMFo0ZXhDc2JtM1NRZ0pGVFBKalU2Z0NpR0lUeXloZ0h6OE4xRzlfNncwN3pmVUhQbmdXMlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "317641f09d46",
+      "title": "유리병 상자 옮기다가···한국전자기술연구원서 ‘유독물질 유출’ 300명 대피",
+      "published": "2026-08-06T13:20:00+00:00",
+      "summary": "유리병 상자 옮기다가···한국전자기술연구원서 ‘유독물질 유출’ 300명 대피&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RN0NMMXlpdFB5X2E0YXJxYnFfTG1vVmZwaTFxNnBTNzUyMm84U2ROcktVNUVsNll4aDRRTjRabWptb3JlRFZJRDFEeW96RElCTUI3OFF6UVBUZ9IBX0FVX3lxTE9ySExfcVBFR0EtTmUzWEFhYUxOYXpnc2FPQXp2NldpN1BhUjB5aXZ3dUFweWFQbEx3aW4zU2poTDZLWFFDcG9sYS0xTTZaRnlaZmZQYThRM2FmNS1zSkw0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4ea6860eb2da",
+      "title": "김형일 건강 가이드북 올바른 관리가 중요",
+      "published": "2026-08-06T11:49:48+00:00",
+      "summary": "김형일 건강 가이드북 올바른 관리가 중요&nbsp;&nbsp;서라벌신문반려견 백내장 수술 시 ‘후낭절제술’ 안전성·효과 확인…“시력의 질 높였다”&nbsp;&nbsp;데일리벳[건강칼럼] 백내장 수술, ‘내 눈에 맞는 렌즈’가 먼저&nbsp;&nbsp;ESG경제백내장 수술, 이후 선명한 시야 위해 회복 과정과 사후관리 중요&nbsp;&nbsp;K스피릿“손가락 움직임만 겨우 봐”… ‘눈 수술’ 뒤 시력 잃은 남성, 무슨 사연?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "서라벌신문",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGMEZFVDk5Vm0ydHhuT2x4RXliU2s2djN0R3EyaWNYQ1pnOHJMcXRXYUNWQ1FqTG1FLU1MTWlVX1Rvb0lwcTk1dm1ZSG9MSzlCYV9pWmVtbGc5Y3J6?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f4dff6d26558",
       "title": "고혈압 쥐, 혼자 살게 했더니 치매 위험↑...수컷 ‘해마’, 암컷 ‘전전두엽’ 손상",
@@ -17,23 +108,10 @@
       "matched_keywords": []
     },
     {
-      "id": "06cb7d564629",
-      "title": "‘연 30일 최고 40도’…목숨 위험한 폭염, 뉴노멀 되나",
-      "published": "2026-08-06T10:45:00+00:00",
-      "summary": "‘연 30일 최고 40도’…목숨 위험한 폭염, 뉴노멀 되나&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95Y1ozeG5FbmZBTHNMWVpWdndMdzFtOWdWTlFwUThuTFVRMzREZ0lINHNWVlNNYjlSbDg2dFhnWW5MbDRCOElrSkFOVVVudmRuWkJVaFUtRmhvR0g5SFh6SHFrYXZuRHR1VDJUQl95VThWQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a6dbb27ee773",
       "title": "“운동하면 뇌가 늙지 않는다”… 서울대 수의과대학 연구진, 운동이 뇌 노화를 막는 분자 원리 규명",
       "published": "2026-08-06T10:43:15+00:00",
-      "summary": "“운동하면 뇌가 늙지 않는다”… 서울대 수의과대학 연구진, 운동이 뇌 노화를 막는 분자 원리 규명&nbsp;&nbsp;서울대학교“운동하면 뇌가 늙지 않는다”… 운동이 뇌 노화를 막는 분자 원리 규명&nbsp;&nbsp;BRIC운동할 때 분비되는 단백질로 알츠하이머병 예측&nbsp;&nbsp;v.daum.net더워도 운동 해야 하는 이유, 남자의 노후 대책으로 이만한 게 없다&nbsp;&nbsp;GQ Korea운동할 때 나오는 단백질 많을수록 알츠하이머병 단백질은 줄었다&nbsp;&nbsp;한국일보",
+      "summary": "“운동하면 뇌가 늙지 않는다”… 서울대 수의과대학 연구진, 운동이 뇌 노화를 막는 분자 원리 규명&nbsp;&nbsp;서울대학교“운동하면 뇌가 늙지 않는다”… 운동이 뇌 노화를 막는 분자 원리 규명&nbsp;&nbsp;BRIC운동할 때 나오는 단백질 많을수록 알츠하이머병 단백질은 줄었다&nbsp;&nbsp;한국일보더워도 운동 해야 하는 이유, 남자의 노후 대책으로 이만한 게 없다&nbsp;&nbsp;GQ Korea운동→뇌 건강…분자적 작동원리 알아내 [지금은 과학]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "서울대학교",
@@ -56,40 +134,40 @@
       "matched_keywords": []
     },
     {
-      "id": "34f62738fbe2",
-      "title": "GLP-1 약물, 탈모 위험 최대 68%↑…예일대 연구",
-      "published": "2026-08-06T09:09:00+00:00",
-      "summary": "GLP-1 약물, 탈모 위험 최대 68%↑…예일대 연구&nbsp;&nbsp;바이오북미디어",
+      "id": "1a80d086c290",
+      "title": "“진동 못 느꼈는데 부재중 전화가” 휴대폰에서 보이는 건강 적신호 5가지",
+      "published": "2026-08-06T09:30:00+00:00",
+      "summary": "“진동 못 느꼈는데 부재중 전화가” 휴대폰에서 보이는 건강 적신호 5가지&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pTnlRTXVkS1N6WVRYUlJhTzhkWV9KMjl2VENGQmxGQXlTQmpaX0REN19CLUJSX0ROUmRKMXBEMEZxaDNOUGJPOUlmdndoTXNqZ2tscw?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQNFFOYjBfLTZ1elZYbmV6SnhnLUNicm9tYjR4d2hvYnVOOXZHcDZOVjRRX3ctcWlaOHdhU0dXZDBZZy1vRy1NVklIX00tb2VrTlhHWEh3M0s1Y253dUViMXV5WTNaSnM5ZjNXWEc0bG1tajJvZTUxdzZ6Q3MxbzA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "5b8eb35c06ef",
+      "id": "495a524a2938",
       "title": "갱년기 이후에도 자궁경부암 검진은 계속된다",
       "published": "2026-08-06T08:26:14+00:00",
-      "summary": "갱년기 이후에도 자궁경부암 검진은 계속된다&nbsp;&nbsp;비건뉴스",
+      "summary": "갱년기 이후에도 자궁경부암 검진은 계속된다&nbsp;&nbsp;vegannews.co.kr",
       "sources": [
         {
-          "name": "비건뉴스",
+          "name": "vegannews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SUzhIN2dUaGtEWUZibnQ3MUVmTWZ4c0VhaEY4dnZFTEhmb3Buc18tY2pndy0xQlVteHhKOTlydDhQLTNhVzk1RXNVbUFBM0xLUXdtUUdzUllyT1BINWNGMVNaLW54QQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "42d8ec9a0bf0",
+      "id": "40f37c0f13ac",
       "title": "\"건강 걱정하는 흡연자라면 주목\"⋯8주간 '이것' 먹었더니 혈전·염증·중성지방 싹 줄어",
-      "published": "2026-08-06T07:00:01+00:00",
-      "summary": "\"건강 걱정하는 흡연자라면 주목\"⋯8주간 '이것' 먹었더니 혈전·염증·중성지방 싹 줄어&nbsp;&nbsp;아이뉴스24",
+      "published": "2026-08-06T07:02:09+00:00",
+      "summary": "\"건강 걱정하는 흡연자라면 주목\"⋯8주간 '이것' 먹었더니 혈전·염증·중성지방 싹 줄어&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "아이뉴스24",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1WXZIazk5N2tGM0RYNXJ5dDZDaVJtYVRxVUFKQjVtMnVjRU5MRDNHbVVKNjdOdVc5OHZoMFlxakhDVlU2bkVqRUNtdw?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xaFNEajBOQVVqeEFyRURmM3h1Q0dQTFBpT3I5LXhXZjBPbGUzenJyd2wxbFg1LWZMeTNYV1FuMVhJNm91VmpzR1Y1TGhlMkE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -137,11 +215,24 @@
       "id": "e4286ce23edc",
       "title": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발",
       "published": "2026-08-06T06:15:40+00:00",
-      "summary": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발&nbsp;&nbsp;팍스경제TV뇌전증 치료제 개발 위한 '최적' 동물모델 찾았다&nbsp;&nbsp;연합뉴스\"뇌전증 신약 개발에 쓸 최적 동물모델 찾았다\"&nbsp;&nbsp;뉴시스연세의대, 뇌전증 맞춤형 동물모델 규명…신약 개발 새 기준&nbsp;&nbsp;아시아투데이﻿약물부터 수술까지…뇌전증 치료 패러다임 진화&nbsp;&nbsp;데일리메디",
+      "summary": "세브란스병원, 난치성 뇌전증 치료제 성공 가능성 확대...시아랩 체계 개발&nbsp;&nbsp;팍스경제TV뇌전증 치료제 개발 위한 '최적' 동물모델 찾았다&nbsp;&nbsp;연합뉴스뇌전증 환자 유형별 최적 동물모델 찾았다…신약개발 정확도↑&nbsp;&nbsp;뉴스1세브란스, 뇌전증 치료제 개발 정확도 향상&nbsp;&nbsp;헤럴드경제연세의대, 뇌전증 맞춤형 동물모델 규명…신약 개발 새 기준&nbsp;&nbsp;아시아투데이",
       "sources": [
         {
           "name": "팍스경제TV",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sS3hUSXFsUloza1FWRDZfZlhQZy1oNUtFbjhEcWlGa3kxSGlFZmk1SXlCUlZoM1pTV2RJdmJLS0d6cVh1VlZwS2VxLWdyQU50U3RoTEx4Tk5iV28yUmVtdldnTzdXV1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "644237aaa2ec",
+      "title": "맥길대, FIB-HIV 개발 - 캐나다 한국일보",
+      "published": "2026-08-06T05:24:00+00:00",
+      "summary": "맥길대, FIB-HIV 개발&nbsp;&nbsp;캐나다 한국일보",
+      "sources": [
+        {
+          "name": "캐나다 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80c0R2NGpqUWtFVEhtLUtQcFZrV3ZJY20yWUlpRFRjd3d1dEw3TXZES2s1ZXktQkstenJlYjM4bjhhVVN5dlg1b3FWS3RmNUR1R0ZZazRqSTFCQjhMSFNReTFZcFdBUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -160,14 +251,40 @@
       "matched_keywords": []
     },
     {
-      "id": "8a65feb3c521",
+      "id": "b3471157dd27",
       "title": "DGIST, ‘빛으로 뇌 신경 껐다 켰다’ 마법 같은 ‘생체 스위치’ 개발",
       "published": "2026-08-06T04:35:00+00:00",
-      "summary": "DGIST, ‘빛으로 뇌 신경 껐다 켰다’ 마법 같은 ‘생체 스위치’ 개발&nbsp;&nbsp;세명일보빛으로 신경 끄고 켠다…신경세포부터 인슐린 분비까지 제어&nbsp;&nbsp;v.daum.net빛으로 뇌 신경 껐다 켰다… 마법 같은 '생체 스위치' 개발&nbsp;&nbsp;BRICDGIST, 신개념 광제어 플랫폼 개발&nbsp;&nbsp;뉴시스뇌 신호 끊고 다시 잇는다…DGIST, 빛 제어 ‘생체 스위치’ 개발&nbsp;&nbsp;데일리안",
+      "summary": "DGIST, ‘빛으로 뇌 신경 껐다 켰다’ 마법 같은 ‘생체 스위치’ 개발&nbsp;&nbsp;세명일보빛으로 신경 끄고 켠다…신경세포부터 인슐린 분비까지 제어&nbsp;&nbsp;v.daum.net빛으로 뇌 신경 껐다 켰다… 마법 같은 '생체 스위치' 개발&nbsp;&nbsp;BRICDGIST, 신경세포 간 신호전달 차단·복원하는 신개념 광제어 플랫폼 개발&nbsp;&nbsp;전자신문뇌 신호 끊고 다시 잇는다…DGIST, 빛 제어 ‘생체 스위치’ 개발&nbsp;&nbsp;데일리안",
       "sources": [
         {
           "name": "세명일보",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MVFc0VE9xMlluVF9LOFJyNjdUVnRsX2hmQkRYdUlKVEplWFkyTGljaDdOQTQ1VThpWFZfS0lDbGFmdEdIdF8xeEFyRUNUb1A3MmhrUXhselBhVUkxMGVnM3BIMFlIVFZMdVpGaDBaLUo?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mWjRCSHFJMHJqdm0yRzlqTm9jYnN3b1NxYm13VUhuS1RUOHhNNFNvMG0tR0Z4MTlwNkJQUXpscmYzS0Z1dDdDM3dLYjhNOG9MQU8tSw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "366e0d38d36d",
+      "title": "중증 정신질환에 대한 보완적 한의치료 가능성 > 뉴스",
+      "published": "2026-08-06T04:06:00+00:00",
+      "summary": "중증 정신질환에 대한 보완적 한의치료 가능성 > 뉴스&nbsp;&nbsp;한의신문",
+      "sources": [
+        {
+          "name": "한의신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NZndoX2t0SkFZQ3ZKWUs4SHU5VE5mcWp3WFdIaEpnTWtEQ0c1T0lwbV9LWXUwcXl2NFp1Nzc3UWJfZW9MdjZzQm9EVFlkSHdBYTRMT0ZhNEpBODltc05iYkRHa2h0SGMyblVLcmQ2SnBMZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d606561dbd35",
+      "title": "근육맨이 챙기는 아르기닌 보충제...면역 감시력 높여...",
+      "published": "2026-08-06T03:43:00+00:00",
+      "summary": "근육맨이 챙기는 아르기닌 보충제...면역 감시력 높여...&nbsp;&nbsp;후생신보",
+      "sources": [
+        {
+          "name": "후생신보",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5fODRfYW9jNklIMXRYQzh4WllkUzYyendFOWUtMmxFdldQVGtnM3BuVFB1UXdxcG02NlFscU1YNWtoNkZG?oc=5"
         }
       ],
       "matched_keywords": []
@@ -225,39 +342,26 @@
       "matched_keywords": []
     },
     {
-      "id": "0bce6b45112a",
+      "id": "3d43830ea927",
       "title": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구",
       "published": "2026-08-06T01:52:05+00:00",
-      "summary": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구&nbsp;&nbsp;디지털투데이",
+      "summary": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구&nbsp;&nbsp;digitaltoday.co.kr",
       "sources": [
         {
-          "name": "디지털투데이",
+          "name": "digitaltoday.co.kr",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pM3BrcVJqOTZVNUJ5S0NjZWg4d3IySU5YR3lfdUhzU1ZVSGVRWTBKbldSQUQ1VmpTeG1EejYzU1p0c05ZVmRVd2lYQVhPbzh6cWNCVlhTZzBQcVU4Z0VWTTNqdTFZYmVvX3dNS2tvSUg2b3M?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e16bb750c653",
-      "title": "중년기 흡연·당뇨·고혈압 피하면 치매 발병 늦춘다…연구",
-      "published": "2026-08-06T01:52:00+00:00",
-      "summary": "중년기 흡연·당뇨·고혈압 피하면 치매 발병 늦춘다…연구&nbsp;&nbsp;디지털투데이",
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tTXAzckFlbURCZ3JiZEpJVlJYUk1YdUlOODl2N1pHMFcwQWdGMC1ER2hsZjV2S0UxTGt6YVFaTzRWb2JsckxkZUxWbi1MOWhWSXZsSjIzZjZLRHJ0T3doMmdXMkVVWVhYaHp2bUhxbm5KaVU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f3327f4935f0",
+      "id": "353c329958fa",
       "title": "손바닥에 생긴 붉은 반점… ‘심장’이 보낸 경고 신호라고?",
       "published": "2026-08-06T01:15:00+00:00",
-      "summary": "손바닥에 생긴 붉은 반점… ‘심장’이 보낸 경고 신호라고?&nbsp;&nbsp;kormedi.com",
+      "summary": "손바닥에 생긴 붉은 반점… ‘심장’이 보낸 경고 신호라고?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZX1B6TUx6aTIxalAxVzV5UHd5aVNyYW5Pb0c5QnpwSGlRMUU3amV5eDlJM3M5cEZSMjFWOUdDLXZsUQ?oc=5"
         }
       ],
@@ -290,6 +394,19 @@
       "matched_keywords": []
     },
     {
+      "id": "74a100c25d20",
+      "title": "호흡기 바이러스 사망자 39명 발생… 당국, 백신 접종 강력 촉구 : 남미동아뉴스 ; Paraguay Times",
+      "published": "2026-08-05T23:39:26+00:00",
+      "summary": "호흡기 바이러스 사망자 39명 발생… 당국, 백신 접종 강력 촉구 : 남미동아뉴스 ; Paraguay Times&nbsp;&nbsp;뉴스케이",
+      "sources": [
+        {
+          "name": "뉴스케이",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSEJlbXM5TjB6NmllcXNkdWtxZHltZTY5U2I2NUI3T19rLWRWYm5RU0pScXhWQmxsNGxHMWJWVkFRSTRnMDk2WVkyMnozM1ZZSXFpbjVKOWJwQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "66b481a5b18d",
       "title": "온몸이 쑤시는 섬유근육통, 원인은 ‘뇌’였다… 250만 명 연구로 첫 입증",
       "published": "2026-08-05T23:00:00+00:00",
@@ -306,7 +423,7 @@
       "id": "67c3e3e221fa",
       "title": "출산 경험 있는 여성, 췌장암 발생 위험 더 낮았다",
       "published": "2026-08-05T22:06:03+00:00",
-      "summary": "출산 경험 있는 여성, 췌장암 발생 위험 더 낮았다&nbsp;&nbsp;뉴스인\"아이 낳으면 췌장암 위험 뚝\"... 93만명 추적 결과 [헬스톡]&nbsp;&nbsp;v.daum.net출산 경험한 여성, 췌장암 위험 낮아… 왜?&nbsp;&nbsp;헬스조선아이 낳은 여성이 안 낳은 여성보다 췌장암 발생 위험 30% 낮다&nbsp;&nbsp;한국일보남자가 더 잘 걸리는 췌장암, 실마리는 '출산'이었다&nbsp;&nbsp;kormedi.com",
+      "summary": "출산 경험 있는 여성, 췌장암 발생 위험 더 낮았다&nbsp;&nbsp;뉴스인\"아이 낳으면 췌장암 위험 뚝\"... 93만명 추적 결과 [헬스톡]&nbsp;&nbsp;v.daum.net출산 경험한 여성, 췌장암 위험 낮아… 왜?&nbsp;&nbsp;헬스조선아이 낳은 여성이 안 낳은 여성보다 췌장암 발생 위험 30% 낮다&nbsp;&nbsp;한국일보남자가 더 잘 걸리는 췌장암, 실마리는 '출산'이었다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "뉴스인",
@@ -332,7 +449,7 @@
       "id": "6e24e10f9f4d",
       "title": "“할머니가 모르는 음식은 먹지 마라” 심장 전문의 경고… 무슨 의미?",
       "published": "2026-08-05T21:30:00+00:00",
-      "summary": "“할머니가 모르는 음식은 먹지 마라” 심장 전문의 경고… 무슨 의미?&nbsp;&nbsp;헬스조선“나 아니면 너” 성인 절반 앓는 이상지질혈증… 의외로 피해야 할 음식, 뭐지?&nbsp;&nbsp;헬스조선\"콜레스테롤, 무조건 나쁘다?…'세포막 유지·호르몬 생성 필수 물질'\"&nbsp;&nbsp;뉴시스“한 번 막히면 돌이킬 수 없다”…혈관 속 콜레스테롤 줄이는 방법은 [헬시타임]&nbsp;&nbsp;서울경제탄수화물 섭취량을 줄이면 콜레스테롤 수치가 낮아질까요, 높아질까요?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "“할머니가 모르는 음식은 먹지 마라” 심장 전문의 경고… 무슨 의미?&nbsp;&nbsp;헬스조선“심장 파괴한다”… 의사가 꼽은 ‘최악의 음식’은?&nbsp;&nbsp;헬스조선단백질 많대서 먹었는데… 혈관 망가뜨리는 ‘의외의 음식’ 3가지&nbsp;&nbsp;헬스조선“싼 값으로 심장 지키는 법”… 의사도 먹는다는 ‘흔한 식품’은?&nbsp;&nbsp;헬스조선“염증 쌓인다”… 심장 보는 의사가 ‘절대 안 먹는 음식’ 2가지&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -342,26 +459,26 @@
       "matched_keywords": []
     },
     {
-      "id": "6603c5ff213d",
+      "id": "a97ccd66bf19",
       "title": "산후조리원 RSV 감염 신생아 절반 '무증상'…\"감시 필요\"",
       "published": "2026-08-05T21:04:00+00:00",
-      "summary": "산후조리원 RSV 감염 신생아 절반 '무증상'…\"감시 필요\"&nbsp;&nbsp;news.nate.com",
+      "summary": "산후조리원 RSV 감염 신생아 절반 '무증상'…\"감시 필요\"&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "news.nate.com",
+          "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15VWpXRkVpeWc1OW9rUEZHSG15U3lpc2FIdHZZUEc2a1hHb2pJbllEZWxtLVZOYXBHaG1pRHZFcDNfcHA5UUxWbFFkLWtISnJTaExVX1dsZGtXMDdTLU5fcw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "c09d5e062abe",
+      "id": "4097408bbeb9",
       "title": "“그냥 웃고 장난치는 줄 알았는데”... 세 살 아들, 뇌졸중 8차례 겪었다",
       "published": "2026-08-05T21:03:00+00:00",
-      "summary": "“그냥 웃고 장난치는 줄 알았는데”... 세 살 아들, 뇌졸중 8차례 겪었다&nbsp;&nbsp;kormedi.com",
+      "summary": "“그냥 웃고 장난치는 줄 알았는데”... 세 살 아들, 뇌졸중 8차례 겪었다&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFByWTFBQnhTSUUwd2M4bGxaTEtCZkx6Y2JsalFZMVpCLVZMUTdPZ1BFQUgwQm9uLWxwSTVYTWtKdzZwQQ?oc=5"
         }
       ],
@@ -394,27 +511,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f29ebef2e6da",
-      "title": "버지니아주, 첫 지역사회 감염 뎅기열 사례 보고 - Investing.com 한국어",
-      "published": "2026-08-05T17:02:00+00:00",
-      "summary": "버지니아주, 첫 지역사회 감염 뎅기열 사례 보고&nbsp;&nbsp;Investing.com 한국어",
-      "sources": [
-        {
-          "name": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoSDhVcVdXazE2c0hxUlg4LVpTcE84UmRCWFpocTg1cnpMT2F2VzVuLWlhbGZfQkl2b1NScjJqUG1uV0pjeUpZZVZBQWtfekQzdDI0SW1mTXZ2YlhIeGYtT1Y1bVhTQVhOOHozdkZPeVA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0efbb1a6b9eb",
+      "id": "72dcae22a3cf",
       "title": "폐암, 담배만 문제 아니다…초가공식품 하루 3번 섭취 시 위험 41% 높아져",
-      "published": "2026-08-05T13:06:30+00:00",
-      "summary": "폐암, 담배만 문제 아니다…초가공식품 하루 3번 섭취 시 위험 41% 높아져&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "published": "2026-08-05T13:08:11+00:00",
+      "summary": "폐암, 담배만 문제 아니다…초가공식품 하루 3번 섭취 시 위험 41% 높아져&nbsp;&nbsp;v.daum.net“1급 발암물질 중에서도 최악”… 의사가 당장 끊으라는 것, 정체는?&nbsp;&nbsp;헬스조선초가공식품 자주 섭취하면 폐암 위험 41%↑···암 예방 좋은 음식은&nbsp;&nbsp;소셜타임스“담배 아녀도… 폐암 키우는 음식 있어” 식탁서 없애야 할 4가지&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00Z19yUm90dmRrOGVuWGwxektqTy0tM2pLaFpTaHNRblM5dDhFYk5FTlBkaVNIMWlvTEdZREY4cDdZMnh4eGU3aXpJYUlNS3ZJU1NPY2RxWELSAVRBVV95cUxPblFJS0lRMmd1NHVjbHpZNmF1MTJCY0hwOXYtQ2pySWJjN1JYLUZ2RDNXUjlWMjF3Mk1pUlJhUE00cE1OYUhHanUxbW1DRVRKeHdIT3M?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84RUZKSndyNVFqU3lzaXFfWktHX2RKU1ZybzQ2SVVjQkMwcDZSV1QybHZhS29id2lHb0VNRWxHVktZUzc3LW5BMEJCRW1OSjQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -527,11 +631,37 @@
       "id": "027fe324e715",
       "title": "유방암이 서구형? 한·일 증가세, 미국 정체",
       "published": "2026-08-05T05:20:00+00:00",
-      "summary": "유방암이 서구형? 한·일 증가세, 미국 정체&nbsp;&nbsp;yonhapmidas.com4050 환자 급증... 유방암 고위험군 특징은?&nbsp;&nbsp;조선일보유방암 고위험군 73%에겐 ‘이것’ 없어...방심하다간 95% 놓친다?&nbsp;&nbsp;kormedi.com[의료기기업계 소식] 7월 31일&nbsp;&nbsp;의사신문",
+      "summary": "유방암이 서구형? 한·일 증가세, 미국 정체&nbsp;&nbsp;yonhapmidas.com4050 환자 급증... 유방암 고위험군 특징은?&nbsp;&nbsp;조선일보유방암 고위험군 73%에겐 ‘이것’ 없어...방심하다간 95% 놓친다?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "yonhapmidas.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ycjJ2RTdvNWJIdlhMM05aMV9iRFBhaXpVd0ptSXNjQ1pVNUxJdGpXZGdmNi10RDFwNHEtYzZQUlpLWW54MWhwTjg0LXVtTDdMNy1sUTA3QjJPYkg3U3MyRV83cV9fYkJKX05sY0dR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1971399f40d9",
+      "title": "포화가 뚫어버린 방역망…무력 충돌은 어떻게 감염병 전파를 가속하는가",
+      "published": "2026-08-05T04:45:37+00:00",
+      "summary": "포화가 뚫어버린 방역망…무력 충돌은 어떻게 감염병 전파를 가속하는가&nbsp;&nbsp;사이언스타임즈",
+      "sources": [
+        {
+          "name": "사이언스타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDNVMmUzNWNycExXRWNDajBGY1pBZVN6SzZscDV4MDlTUThGblN6VGxNbkRhRm1qNW5lRl9YVFBDQW1vYWRjZEZhbFdYemJrMjVENHFOTW82cDBmaUhQOGJPajhMUTVPdFhMeFllSWczb002LWZ0MjJld194aF95VlBGT2F5eU0wRGlrYkdiaHc3YU5xcDZsZi1EemxxVzVLWVEzMzEyaU5NTjZOdXZaYzBYQnp3YjdkS2dpbnM0TjRvdUU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5001156f92a9",
+      "title": "'이 껌' 씹었더니 구강암 세균 93%↓…어떤 성분 넣었길래",
+      "published": "2026-08-05T04:30:01+00:00",
+      "summary": "'이 껌' 씹었더니 구강암 세균 93%↓…어떤 성분 넣었길래&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0TGZJcFMyaGhyaUdocDJVWU5NUlhOM2dRZi1oUHJrdmljcFNMcjBXcXpOMDFhU1RXV2t4YWs3R2F2cWJsSHBmVVY1VnBqbGI0STBqNHBn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -550,92 +680,27 @@
       "matched_keywords": []
     },
     {
-      "id": "fd2e1c225bac",
+      "id": "ca34256c0548",
       "title": "화이자, 멧세라 인수 '디앤디' 경구용 GLP-1 \"개발중단\"",
       "published": "2026-08-05T00:54:00+00:00",
-      "summary": "화이자, 멧세라 인수 '디앤디' 경구용 GLP-1 \"개발중단\"&nbsp;&nbsp;biospectator.com",
+      "summary": "화이자, 멧세라 인수 '디앤디' 경구용 GLP-1 \"개발중단\"&nbsp;&nbsp;바이오스펙테이터",
       "sources": [
         {
-          "name": "biospectator.com",
+          "name": "바이오스펙테이터",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fUnlIOXhxR3JBbm5RZWliVkUyU0x1SEJVa0VKOElpWC13Y3pTMEtpc055SUpfZHBjYjhLWlE1ZzNZV2VOYnVvM1dGR2ZiZ0pkNkZFdEQyaw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "479aa741da72",
+      "id": "c38e7d3d2596",
       "title": "만성 변비 있는 사람이 한 달간 ‘이 과일’ 먹은 결과…장 건강에 좋은 5가지 과일",
       "published": "2026-08-05T00:05:00+00:00",
-      "summary": "만성 변비 있는 사람이 한 달간 ‘이 과일’ 먹은 결과…장 건강에 좋은 5가지 과일&nbsp;&nbsp;kormedi.com",
+      "summary": "만성 변비 있는 사람이 한 달간 ‘이 과일’ 먹은 결과…장 건강에 좋은 5가지 과일&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WVF92dVBMQ3Z1N3UxbUpSY3RtTEg1OHJmS1ZJZDBIOG5oMjFmU2xUQ0hsZm90U1pOV2ZzZUdCUkVaQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2ab5f2595407",
-      "title": "포화가 뚫어버린 방역망…무력 충돌은 어떻게 감염병 전파를 가속하는가",
-      "published": "2026-08-05T00:01:48+00:00",
-      "summary": "포화가 뚫어버린 방역망…무력 충돌은 어떻게 감염병 전파를 가속하는가&nbsp;&nbsp;sciencetimes.co.kr",
-      "sources": [
-        {
-          "name": "sciencetimes.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmxFRkN1Z1dIakdQMjFMVGdUajRYSUFBSVlPVnAtMXlXV3R2djBwUl84N2xtNzFZNnJ2aGlXcWhyalRZc1BReThYS2xZMDI2YzlMQnk2Z3NsaUhwcGR2bkduQWFQV0xJdllIOHdaM0ZtQnNSVndvOU5tR3FRYXl3OG1UOTMtTDVJcGUtZDF4MA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3e4769112812",
-      "title": "SNS 못 끊는 청소년이라면… 1년 후 ADHD 증상 더 심해져",
-      "published": "2026-08-04T23:00:00+00:00",
-      "summary": "SNS 못 끊는 청소년이라면… 1년 후 ADHD 증상 더 심해져&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdGNnRG5yQWVKbGFqYk1TcFFsb3F0NWI2MHN6azh2VVNoRGVlbHJ1NV9kNkh6dXZmcUpxYVlXQ0t3M0tYU1AwbDJwRkV5RHQ5VnM0a3djcHBJcEtJMVNQZ0NMQ1ZSQ3BDQkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "923999113668",
-      "title": "[한국인의 100가지 질환-78] 메니에르병, 반복되는 어지럼증과 귀 먹먹함을 방치하지 마세요",
-      "published": "2026-08-04T22:44:04+00:00",
-      "summary": "[한국인의 100가지 질환-78] 메니에르병, 반복되는 어지럼증과 귀 먹먹함을 방치하지 마세요&nbsp;&nbsp;뉴스인",
-      "sources": [
-        {
-          "name": "뉴스인",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqOTBuRVl4cGZvMWJkSjlVTmlUWi1EaVUxc05CdDRQQ2d0aVVYUmw1b2RQTGIwYmlDenRyRHNJZlpKRzIyVXhIOW1HMDlvLVR2RjB3U1ZRYnA2eFVjd2plbDFlUzA4RHFORm1r?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9661dc592c72",
-      "title": "연어 꾸준히 먹으면 생기는 변화 5가지... \"심장 건강부터 치매 예방까지\"",
-      "published": "2026-08-04T22:30:00+00:00",
-      "summary": "연어 꾸준히 먹으면 생기는 변화 5가지... \"심장 건강부터 치매 예방까지\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKX2NyUWZsWDhNcXNrTUhlNTl6SjlWSzMyeVJlcjVVb2dWdXAzMGJLRlpxMmNvdHM3eFFkTmkzRUluQU81TjNLS2tta0EzYTQzUTNqdllfMUxmazZTNXpzM3ZCcUNTTFk5eUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "886aafbc97d3",
-      "title": "GSK RSV 백신 아렉스비, 한국 고령층서 면역반응 '24개월' 유지",
-      "published": "2026-08-04T20:59:25+00:00",
-      "summary": "GSK RSV 백신 아렉스비, 한국 고령층서 면역반응 '24개월' 유지&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ORG1iQ25OaDZocURYV3ROVER4OXBVUEc4UXpDdkpES29lSDZSOHJGTFB6WTlPcnQ0S180RDZJaHBjN2FCOWhBbjk5cUZzU1M5VXMwbXkyMXJXWWQ4dVNEWndndGRXRTdQcENZ?oc=5"
         }
       ],
       "matched_keywords": []
