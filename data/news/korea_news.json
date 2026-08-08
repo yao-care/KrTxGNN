@@ -1,31 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-08T01:49:24.590175+00:00",
-  "total_fetched": 76,
-  "unique_count": 76,
-  "health_related_count": 48,
+  "fetched_at": "2026-08-08T06:57:35.648373+00:00",
+  "total_fetched": 67,
+  "unique_count": 67,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "2afa00917845",
-      "title": "인체에서 연구가 가장 덜 된 기관…26년 늦게 나온 음핵 신경지도 - 동아사이언스",
-      "published": "2026-08-07T23:00:00+00:00",
-      "summary": "인체에서 연구가 가장 덜 된 기관…26년 늦게 나온 음핵 신경지도&nbsp;&nbsp;동아사이언스",
+      "id": "410c0384a325",
+      "title": "“부모 ADHD, 자녀에게도 이어진다?”… ADHD 진단 위험 4.47배 높아 - 하이닥",
+      "published": "2026-08-08T03:30:00+00:00",
+      "summary": "“부모 ADHD, 자녀에게도 이어진다?”… ADHD 진단 위험 4.47배 높아&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yX1VHSFIxSGNWTGZtNF9jRVdWLUhmYV95QWtyYUhoLXJTdlZvV09tZVVpQWhSZlVNV1dLd1d3MEJOajAwWU0xT1RvUDU2ZmVDd2Q3MA?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TTGc0LXdmQzhNT1QwUVlVbklyVU1aQmsxMlJkbDd4dnM3bWRCS1ZxR2J4bkFTN1NQUk1DakQ5T3I0Sm1uNGJWd05UWGNrSmdZdVVkWDV4V3pLY254bl9nX2pvV21BUzZiOGc?oc=5"
         }
       ]
     },
     {
-      "id": "14b5887dcabc",
-      "title": "홍석천 \"6개월마다 성병 검사\"…질병청이 바로잡은 HIV·에이즈 오해 - 네이트",
-      "published": "2026-08-07T21:54:00+00:00",
-      "summary": "홍석천 \"6개월마다 성병 검사\"…질병청이 바로잡은 HIV·에이즈 오해&nbsp;&nbsp;네이트",
+      "id": "4f12f6f6c3e8",
+      "title": "면역항암치료 부작용 A to Z (3) 티쎈트릭·임핀지·바벤시오 - canceranswer.co.kr",
+      "published": "2026-08-08T03:01:54+00:00",
+      "summary": "면역항암치료 부작용 A to Z (3) 티쎈트릭·임핀지·바벤시오&nbsp;&nbsp;canceranswer.co.kr",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NaGQ4T2h4UXdVWXVWNUp4eVhJZXRBSDJTdG1rRVR1ZGlfTmUwWlBQZFFwbmFvQVpUdjdRTTdrVk5nWmdMc19ZYlNyQTF1RlFVWDVaQTBlZl9PVmU3NnByYg?oc=5"
+          "name": "canceranswer.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fcVZMc1lvclJxODVmNWZhdHJSbTVXUHVWTThVRXQwUWFtWjJRR0ZOakFiOHFEenU1UVdlVzFfUGNyLTZGc2dQWVpqem4zUi0yQjZqamVCX0xjQnF4X0J1Rkh6eTNiWkhyZ2MyXzJyY00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5c5bf652e85",
+      "title": "하노이, 뎅기열 확산 위험 경고, 주민들 여전히 안일함 - Laodong.vn",
+      "published": "2026-08-08T01:09:38+00:00",
+      "summary": "하노이, 뎅기열 확산 위험 경고, 주민들 여전히 안일함&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2g2UjNLcFo1R2ZHWERfUlpmakRQUzl5LWRJTFVFb0pMMGViRzBUVXBVMS1RendZSmM5RmIzQ3dpTEFWeERIUTc2RkNZai1UWmFsa3BGb0NOcUZ0cEdqVWhTcWh5SXY4SjhaR1doVllGREg4ellnRkxnREtBS2FYSFhLNm1pM3YwNFRhM01MY3JrWEZwd2NLTEI3NFp1eFE1cHd2bzBSVzdUYVpsX003U09vd05LSms?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb043098033f",
+      "title": "'대변 이식'으로 음식 알레르기 치료 가능성 첫 확인 - ABC뉴스",
+      "published": "2026-08-07T18:27:17+00:00",
+      "summary": "'대변 이식'으로 음식 알레르기 치료 가능성 첫 확인&nbsp;&nbsp;ABC뉴스",
+      "sources": [
+        {
+          "name": "ABC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96OVczUnlaQkdoZV92TUJLc19aUFJsdVh2VFl4dkMtWFVHMHNsRlhWMml4OU1sR2lmcmV6TWYyTm90bzNOVU5Jc3drNmpVRWM4QWVPMjloaFRsMS1USU8zY3kzMNIBZ0FVX3lxTE1mZEQ1WWJyT1NuNUtXbDd0WGp3dTE5VW44ZDBidk0xQzBxYTM2NDFSN1B4VEJLbEZnVVp1cXhldUI4M1ZGVUNJdE03Y2xBVGY1UkZxTHp4VXZyY0xWMXNlbkRaSnl5Y2M?oc=5"
         }
       ]
     },
@@ -45,7 +69,7 @@
       "id": "4d2366888d49",
       "title": "55세부터 혈관 건강 ‘최적’ 유지하면...치매 없이 평균 30년 산다 - 디멘시아뉴스",
       "published": "2026-08-07T10:34:39+00:00",
-      "summary": "55세부터 혈관 건강 ‘최적’ 유지하면...치매 없이 평균 30년 산다&nbsp;&nbsp;디멘시아뉴스\"48세부터 세 가지 멀리 했더니…치매 없이 13년 더 살았다\" [헬스톡]&nbsp;&nbsp;파이낸셜뉴스\"중년기 관리로 치매 13년 늦춘다\"…혈압·당뇨·금연이 가르는 골든타임&nbsp;&nbsp;뉴시스90세 넘으면 치매 위험 어떻게 달라질까&nbsp;&nbsp;헬스조선45세 이후 ‘3가지 행동’이 치매 낮추고 수명 13년 늘려 준다 [라이프]&nbsp;&nbsp;서울신문",
+      "summary": "55세부터 혈관 건강 ‘최적’ 유지하면...치매 없이 평균 30년 산다&nbsp;&nbsp;디멘시아뉴스\"48세부터 세 가지 멀리 했더니…치매 없이 13년 더 살았다\" [헬스톡]&nbsp;&nbsp;fnnews.com\"중년기 관리로 치매 13년 늦춘다\"…혈압·당뇨·금연이 가르는 골든타임&nbsp;&nbsp;뉴시스90세 넘으면 치매 위험 어떻게 달라질까&nbsp;&nbsp;헬스조선45세 이후 ‘3가지 행동’이 치매 낮추고 수명 13년 늘려 준다 [라이프]&nbsp;&nbsp;서울신문",
       "sources": [
         {
           "name": "디멘시아뉴스",
@@ -81,7 +105,7 @@
       "id": "71ad85ae25f0",
       "title": "AI가 설계한 신종 바이러스, 대장균 사멸 확인… 항생제 내성균 잡을까 - 전자신문",
       "published": "2026-08-07T07:32:53+00:00",
-      "summary": "AI가 설계한 신종 바이러스, 대장균 사멸 확인… 항생제 내성균 잡을까&nbsp;&nbsp;전자신문AI가 바이러스 유전체 설계…스탠포드, 세계 최초 바이러스 합성 성공&nbsp;&nbsp;AI타임스AI로 대장균 잡는 ‘인공 바이러스’ 만들었다&nbsp;&nbsp;동아일보AI가 설계한 '신종 바이러스' 16종 탄생...생물무기 악용 우려&nbsp;&nbsp;YTN 사이언스AI가 신종 바이러스 만들었다… 치료 혁명인가, 생물테러 씨앗인가&nbsp;&nbsp;v.daum.net",
+      "summary": "AI가 설계한 신종 바이러스, 대장균 사멸 확인… 항생제 내성균 잡을까&nbsp;&nbsp;전자신문AI가 신종 바이러스 만들었다… 치료 혁명인가, 생물테러 씨앗인가&nbsp;&nbsp;조선일보AI가 바이러스도 만들어내는 세상…공포 영화가 따로 없네&nbsp;&nbsp;v.daum.netAI가 바이러스 유전체 설계…스탠포드, 세계 최초 바이러스 합성 성공&nbsp;&nbsp;AI타임스AI로 대장균 잡는 ‘인공 바이러스’ 만들었다&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "전자신문",
@@ -129,7 +153,7 @@
       "id": "ad30ad0d2040",
       "title": "노년층 인지 건강… 빨리 걸으면 치매 위험 낮아진다 - 미주한국일보",
       "published": "2026-08-07T03:00:00+00:00",
-      "summary": "노년층 인지 건강… 빨리 걸으면 치매 위험 낮아진다&nbsp;&nbsp;미주한국일보암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;중앙일보건망증과 치매, 무엇이 다른가?&nbsp;&nbsp;톱클래스하루 5000보만 걸어도 치매 예방 효과···뇌혈류 개선과 염증 조절&nbsp;&nbsp;v.daum.net모녀 절연 부른 안선영 엄마의 행동…알고 보니 치매 초기 신호&nbsp;&nbsp;세계일보",
+      "summary": "노년층 인지 건강… 빨리 걸으면 치매 위험 낮아진다&nbsp;&nbsp;미주한국일보암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;중앙일보건망증과 치매, 무엇이 다른가?&nbsp;&nbsp;톱클래스하루 5000보만 걸어도 치매 예방 효과···뇌혈류 개선과 염증 조절&nbsp;&nbsp;v.daum.net모녀 절연 부른 안선영 엄마의 행동…알고 보니 치매 초기 신호&nbsp;&nbsp;segye.com",
       "sources": [
         {
           "name": "미주한국일보",
@@ -138,22 +162,10 @@
       ]
     },
     {
-      "id": "a0166a4d393a",
-      "title": "면역항암치료 부작용 A to Z (2) 키트루다·옵디보(PD-1 억제제) 부작용 - 캔서앤서",
-      "published": "2026-08-07T01:51:48+00:00",
-      "summary": "면역항암치료 부작용 A to Z (2) 키트루다·옵디보(PD-1 억제제) 부작용&nbsp;&nbsp;캔서앤서",
-      "sources": [
-        {
-          "name": "캔서앤서",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtSUVEdmNfX29ZazhweEtnQVcxejZnUW55aGl3VlJWQW05MldoUW8zMXNCWHBrT0J6Rl9FX2dfbUpKUGU5Ym9jMlF3eTJhZFJ5RjJQNjB0VVZsMWY4a0JSNEJVajZYOGZlaFNCUUFxcG0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e5335e5ec74e",
       "title": "“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명 - 데일리벳",
       "published": "2026-08-07T01:30:07+00:00",
-      "summary": "“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명&nbsp;&nbsp;데일리벳운동이 보약이라더니…치매 위험 알려줄 ‘근육 단백질’ 찾았다[헬시타임]&nbsp;&nbsp;서울경제더워도 운동 해야 하는 이유, 남자의 노후 대책으로 이만한 게 없다&nbsp;&nbsp;GQ Korea운동할 때 나오는 단백질 많을수록 알츠하이머병 단백질은 줄었다&nbsp;&nbsp;한국일보“운동하면 뇌가 늙지 않는다”… 운동이 뇌 노화를 막는 분자 원리 규명&nbsp;&nbsp;BRIC",
+      "summary": "“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명&nbsp;&nbsp;데일리벳운동이 보약이라더니…치매 위험 알려줄 ‘근육 단백질’ 찾았다[헬시타임]&nbsp;&nbsp;sedaily.com더워도 운동 해야 하는 이유, 남자의 노후 대책으로 이만한 게 없다&nbsp;&nbsp;GQ Korea운동할 때 나오는 단백질 많을수록 알츠하이머병 단백질은 줄었다&nbsp;&nbsp;한국일보“치매를 막는 습관은 있다”&nbsp;&nbsp;readersnews.com",
       "sources": [
         {
           "name": "데일리벳",
@@ -246,6 +258,18 @@
       ]
     },
     {
+      "id": "13df060ae3ae",
+      "title": "뿌리면 5분 안에 바이러스 감염 확인 끝 - 서울신문",
+      "published": "2026-08-06T16:04:27+00:00",
+      "summary": "뿌리면 5분 안에 바이러스 감염 확인 끝&nbsp;&nbsp;서울신문'칙' 뿌리면 바이러스가 반짝...KIST, 형광 진단 플랫폼 '퓨전 어세이' 개발&nbsp;&nbsp;전자신문곳곳에 묻은 감염력 있는 바이러스, '칙' 뿌리면 5분 내 보인다&nbsp;&nbsp;연합뉴스표면에 뿌리기만 해도 ‘감염 바이러스 진단’ 플랫폼 개발&nbsp;&nbsp;KBS 뉴스마스크·책상에 칙 뿌리면 5분 내 '형광색'…감염 바이러스 선별&nbsp;&nbsp;뉴스1",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NNTdWZFJWa3YwZDQxeGtCbUFhdXBmM0FkQ0NIenI0ZXlXbmdIRnR2X0thTFhINm9EUnhKT0d5SHlaQVBhdm03eTNyck0tM0JBY3d1SGFrZWFTMXNDQ0hQMEY3UHlLZUVuOUpHS3d4MA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "95305781c788",
       "title": "[사이언스샷] 코로나가 깨웠다, 잠복 바이러스가 중증 유발 - 조선비즈 - Chosunbiz",
       "published": "2026-08-06T13:31:00+00:00",
@@ -318,18 +342,6 @@
       ]
     },
     {
-      "id": "d406f98aff01",
-      "title": "[포토] KIST 차세대 바이러스 진단 플랫폼 '퓨전 어세이' 개발 - 전자신문",
-      "published": "2026-08-06T09:59:19+00:00",
-      "summary": "[포토] KIST 차세대 바이러스 진단 플랫폼 '퓨전 어세이' 개발&nbsp;&nbsp;전자신문'칙' 뿌리면 바이러스가 반짝...KIST, 형광 진단 플랫폼 '퓨전 어세이' 개발&nbsp;&nbsp;전자신문곳곳에 묻은 감염력 있는 바이러스, '칙' 뿌리면 5분 내 보인다&nbsp;&nbsp;연합뉴스표면에 뿌리기만 해도 ‘감염 바이러스 진단’ 플랫폼 개발&nbsp;&nbsp;KBS 뉴스마스크·책상에 칙 뿌리면 5분 내 '형광색'…감염 바이러스 선별&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5neXJWaFdObkREMjE2X0hMVDFQY3VqYVZiMUtkbVVYdTlSR2Vxb25IcjZsMkhVSXRwaXFvbGd0eFg4clpxbVV5bWhBOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ed98fbe7636c",
       "title": "망치상어, 망치 닮은 머리로 물고기 심장 박동 감지한대요 - 조선일보",
       "published": "2026-08-06T08:34:00+00:00",
@@ -342,13 +354,13 @@
       ]
     },
     {
-      "id": "495a524a2938",
-      "title": "갱년기 이후에도 자궁경부암 검진은 계속된다 - vegannews.co.kr",
+      "id": "5b8eb35c06ef",
+      "title": "갱년기 이후에도 자궁경부암 검진은 계속된다 - 비건뉴스",
       "published": "2026-08-06T08:26:14+00:00",
-      "summary": "갱년기 이후에도 자궁경부암 검진은 계속된다&nbsp;&nbsp;vegannews.co.kr",
+      "summary": "갱년기 이후에도 자궁경부암 검진은 계속된다&nbsp;&nbsp;비건뉴스",
       "sources": [
         {
-          "name": "vegannews.co.kr",
+          "name": "비건뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SUzhIN2dUaGtEWUZibnQ3MUVmTWZ4c0VhaEY4dnZFTEhmb3Buc18tY2pndy0xQlVteHhKOTlydDhQLTNhVzk1RXNVbUFBM0xLUXdtUUdzUllyT1BINWNGMVNaLW54QQ?oc=5"
         }
       ]
@@ -362,30 +374,6 @@
         {
           "name": "아이뉴스24",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1WXZIazk5N2tGM0RYNXJ5dDZDaVJtYVRxVUFKQjVtMnVjRU5MRDNHbVVKNjdOdVc5OHZoMFlxakhDVlU2bkVqRUNtdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e48d6143f16f",
-      "title": "건강한 사람 '대변 이식'받자 땅콩 알레르기 완화됐다 - v.daum.net",
-      "published": "2026-08-06T06:47:37+00:00",
-      "summary": "건강한 사람 '대변 이식'받자 땅콩 알레르기 완화됐다&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lX052aVA1RW1RTUhNeThlYlJUaVhSejJPa1pHemxsX2NneDhkbHc2OUlvVEtVMEo2U3hpdHRfQXdDN0pNOHlHckR1azdMblk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c174d4dbbcd",
-      "title": "분당서울대병원 비뇨의학과 변석수 교수 ′전립선암, 제대로 알고 제대로 치료하자′ 출간 - 로컬세계",
-      "published": "2026-08-06T06:47:14+00:00",
-      "summary": "분당서울대병원 비뇨의학과 변석수 교수 ′전립선암, 제대로 알고 제대로 치료하자′ 출간&nbsp;&nbsp;로컬세계[신간] 전립선암, 제대로 알고 제대로 치료하자&nbsp;&nbsp;에너지경제신문분당서울대병원 변석수 교수, 전립선암 안내서 출간&nbsp;&nbsp;로이슈남성암 1위 전립선암 환자 맞춤 안내서 출간&nbsp;&nbsp;데일리메디“전립선비대증 약 먹는다고, 암 관리되는 것 아냐”&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "로컬세계",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EeUJLODdwQnhMdGlKNllpTk1DZjdpVzVJajlVV3ZLYkNGUXIwbzB2VTc0MTFRRkxGUTEwVkl6NC12cnF1MFp5RlNGbUtFXzZaeGNwejc0dER2a3VDblNNSNIBWEFVX3lxTE1PcXExNXppdkNSNE4yQzhJS0U1RlpTNE83QnBhT0gyNFZwZWdzbjdIZ3lZQkw0UlU1RXQ4RnpqSy16LUlfR01EU1RpVGJOTkpZVjFfUDc1VDg?oc=5"
         }
       ]
     },
@@ -438,102 +426,6 @@
       ]
     },
     {
-      "id": "f4ca0824be64",
-      "title": "맥길대, FIB-HIV 개발 - koreatimes.net",
-      "published": "2026-08-06T05:24:00+00:00",
-      "summary": "맥길대, FIB-HIV 개발&nbsp;&nbsp;koreatimes.net",
-      "sources": [
-        {
-          "name": "koreatimes.net",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80c0R2NGpqUWtFVEhtLUtQcFZrV3ZJY20yWUlpRFRjd3d1dEw3TXZES2s1ZXktQkstenJlYjM4bjhhVVN5dlg1b3FWS3RmNUR1R0ZZazRqSTFCQjhMSFNReTFZcFdBUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51b3e63bbff2",
-      "title": "치매약 ‘콜린알포세레이트’, 신장암 예방 효과 확인되지 않아 - 병원신문",
-      "published": "2026-08-06T05:12:12+00:00",
-      "summary": "치매약 ‘콜린알포세레이트’, 신장암 예방 효과 확인되지 않아&nbsp;&nbsp;병원신문서울대병원 \"콜린알포세레이트, 신장암 예방 효과 확인 안 돼\"&nbsp;&nbsp;로이슈치매환자에 쓰는 '이 약'…\"신장암 예방효과 없어\"&nbsp;&nbsp;뉴시스치매약 ‘콜린알포세레이트’, 신장암 위험 높이지 않았다… 서울대병원 빅데이터 확인&nbsp;&nbsp;헬스조선치매약 ‘콜린알포세레이트’ 신장암 '유발이나 예방'과 무관&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Y3dCdmhXNmVUMEVWQlozb3JYQjdLbmNrOHhsOUlEMUhETi1DTXc4VVhabHN6UWQ3cWxQd015SnhMVUJVUkg5RUlXN0ZCREtYVjBPX1ZaeVpWZlYyc2ZXVXA1akZnMDhpalE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d606561dbd35",
-      "title": "근육맨이 챙기는 아르기닌 보충제...면역 감시력 높여... - 후생신보",
-      "published": "2026-08-06T03:43:00+00:00",
-      "summary": "근육맨이 챙기는 아르기닌 보충제...면역 감시력 높여...&nbsp;&nbsp;후생신보",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5fODRfYW9jNklIMXRYQzh4WllkUzYyendFOWUtMmxFdldQVGtnM3BuVFB1UXdxcG02NlFscU1YNWtoNkZG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1cd8e3207d22",
-      "title": "HDL 콜레스테롤 변화, 신장이식 환자의 장기 예후 가른다 - hitnews.co.kr",
-      "published": "2026-08-06T03:00:00+00:00",
-      "summary": "HDL 콜레스테롤 변화, 신장이식 환자의 장기 예후 가른다&nbsp;&nbsp;hitnews.co.kr",
-      "sources": [
-        {
-          "name": "hitnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4Y3hITnIteGkzbTc0WXN6b1NqS2tScnBScjU4cnROYXIzZ20yM0ZmSkJpYTg1Sk5zYW9Xd3FGTV9tT04xdjJnRDZkWUdhS0Vxd2h2Z1c2S0c5WC1xTnpjNlVJV2tlRnRocndr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "855ce061937e",
-      "title": "단일공 복강경 수술, 고령·만성질환 있는 맹장염 환자에게도 적용할 수 있어… 주의점은? [김기석 원장 칼럼] - 미디어파인",
-      "published": "2026-08-06T02:16:42+00:00",
-      "summary": "단일공 복강경 수술, 고령·만성질환 있는 맹장염 환자에게도 적용할 수 있어… 주의점은? [김기석 원장 칼럼]&nbsp;&nbsp;미디어파인",
-      "sources": [
-        {
-          "name": "미디어파인",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QX3JDeXdBMU5MVWlCd0RJMURfRjdiRGM5MVJPRUJYU3l5bDZEbFd0ZjR4aTJfZmpBZ3V2V1VVZDVESmQ1d3lubzhyc0t5anRFbExxdUxTMno0aFM3RVg4dDV5Q2Z6LTVZNGJTdFdB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "735e7526d993",
-      "title": "[건강프라임_칼럼] 휴가 후 지속되는 피로감, 간 건강 이상 신호일 수 있어 - 시선뉴스",
-      "published": "2026-08-06T01:58:00+00:00",
-      "summary": "[건강프라임_칼럼] 휴가 후 지속되는 피로감, 간 건강 이상 신호일 수 있어&nbsp;&nbsp;시선뉴스",
-      "sources": [
-        {
-          "name": "시선뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkQWJpN0lleGlqdTVaWTlEVVp1TkJCQTFxYUVfNy1mX1o4YzNiUzBxNXJfWFNpVFNfel92LXhQWG90YkJ6Q3UxUGFQUklNNjJ0UXFLY1Q0MDg1bS1pOEdablhBZEh3Slp0WFM4ZTR30gFyQVVfeXFMTVNGWElRbkZRcFRIMXRpNVNrZEVFUi1ybkkxWnU4LXlQSmlTQ1hiemhJNWdPVFU2c1hNdGRnWHVQVlJpVnFFUDAwZzVVX1dVVDRVQUdVRDl1RjZSMVpRVlowT0lOYWlQNTI5VmhHbENMQ1VB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3d43830ea927",
-      "title": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구 - digitaltoday.co.kr",
-      "published": "2026-08-06T01:52:05+00:00",
-      "summary": "테스토스테론, 낮아도 높아도 우울증 위험 커질 수 있다…연구&nbsp;&nbsp;digitaltoday.co.kr",
-      "sources": [
-        {
-          "name": "digitaltoday.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pM3BrcVJqOTZVNUJ5S0NjZWg4d3IySU5YR3lfdUhzU1ZVSGVRWTBKbldSQUQ1VmpTeG1EejYzU1p0c05ZVmRVd2lYQVhPbzh6cWNCVlhTZzBQcVU4Z0VWTTNqdTFZYmVvX3dNS2tvSUg2b3M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "353c329958fa",
-      "title": "손바닥에 생긴 붉은 반점… ‘심장’이 보낸 경고 신호라고? - 코메디닷컴",
-      "published": "2026-08-06T01:15:00+00:00",
-      "summary": "손바닥에 생긴 붉은 반점… ‘심장’이 보낸 경고 신호라고?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ZX1B6TUx6aTIxalAxVzV5UHd5aVNyYW5Pb0c5QnpwSGlRMUU3amV5eDlJM3M5cEZSMjFWOUdDLXZsUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7bbdeb2ef937",
       "title": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’ - 한겨레",
       "published": "2026-08-06T00:45:00+00:00",
@@ -566,18 +458,6 @@
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmVvMXNsNUI1SE0wSVYxM2lIU0txUk5RcURYV0NzTTlUVklFdmlZLVlnOXVFM0dOQUZSSGVfcEV0ZDJELWk2cHNuSjdZM3hISm9UTmUxNy01bkw5OXdtZTVtTVdocHI4T1J4VkVBdjg2U0drQUxFSEl0RTJqdkFKSENidkxERDRDcWJHVFNLLTBuWWlfRXBPU3Q1VWlrdXRMVjd2TE1SQWxGdWxXbnBTZDFVM2hRM2J3V3Z0RFNwVGJGS1htZWZkb2RmaUlIUXRNTU85eGx2SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5001156f92a9",
-      "title": "'이 껌' 씹었더니 구강암 세균 93%↓…어떤 성분 넣었길래 - 지디넷코리아",
-      "published": "2026-08-05T04:30:01+00:00",
-      "summary": "'이 껌' 씹었더니 구강암 세균 93%↓…어떤 성분 넣었길래&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0TGZJcFMyaGhyaUdocDJVWU5NUlhOM2dRZi1oUHJrdmljcFNMcjBXcXpOMDFhU1RXV2t4YWs3R2F2cWJsSHBmVVY1VnBqbGI0STBqNHBn?oc=5"
         }
       ]
     }
