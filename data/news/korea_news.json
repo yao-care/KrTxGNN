@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-08T18:40:57.800268+00:00",
-  "total_fetched": 64,
-  "unique_count": 64,
-  "health_related_count": 33,
+  "fetched_at": "2026-08-09T01:55:56.800077+00:00",
+  "total_fetched": 59,
+  "unique_count": 59,
+  "health_related_count": 26,
   "news": [
+    {
+      "id": "79edd83e36e1",
+      "title": "중년기에 '세 가지' 피하면 치매 발병위험 13년 늦출 수 있다 [노화설계] - 네이트",
+      "published": "2026-08-09T00:31:00+00:00",
+      "summary": "중년기에 '세 가지' 피하면 치매 발병위험 13년 늦출 수 있다 [노화설계]&nbsp;&nbsp;네이트중년기에 ‘세 가지’ 피하면 치매 발병위험 13년 늦출 수 있다 [노화설계]&nbsp;&nbsp;v.daum.net\"중년기 관리로 치매 13년 늦춘다\"…혈압·당뇨·금연이 가르는 골든타임&nbsp;&nbsp;뉴시스90세 넘으면 치매 위험 어떻게 달라질까&nbsp;&nbsp;헬스조선45세 이후 ‘3가지 행동’이 치매 낮추고 수명 13년 늘려 준다 [라이프]&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYM1V2cnpDcEZaSC1VUnF0UmE4Wm41Q0hwdzBKbzV5RU1YRnNXZEN5VkVlalJuVUZWUUFuZ2tJNEZhaGMyTXRPT3FYN3lkbjRBOW96ODlYazNKM1VKTDEwZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "07cab837f670",
+      "title": "[청년발언대] 단백질 보충제와 극단적 다이어트, 정말 괜찮을까? - 청년일보",
+      "published": "2026-08-09T00:00:00+00:00",
+      "summary": "[청년발언대] 단백질 보충제와 극단적 다이어트, 정말 괜찮을까?&nbsp;&nbsp;청년일보고단백 시대의 역설…운동 적다면 단백질도 적게 먹어야 더 건강? [노화설계]&nbsp;&nbsp;동아일보“살 안 찔 줄 알았는데”… 영양사 경고 나온 ‘반전 음식’, 뭐야?&nbsp;&nbsp;헬스조선\"건강 위해 단백질 많이 먹어야?\"⋯오히려 노화·조기 사망, 적게 먹자 체중·혈당 개선&nbsp;&nbsp;v.daum.net[의사들이 매일 실천하는 건강습관 ⑭] 단백질은 얼마나 먹어야 할까?&nbsp;&nbsp;전국뉴스",
+      "sources": [
+        {
+          "name": "청년일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GREJvWWdVbFA3Wk1TNUZHajJ3Y0hRMTFLb0JncXl1NXdyRWdGYWZLZmhfZS1xbjQ0Ml9ab2hCTFRmWXlMT28tYUgyOGNKTjZsNG5PS2FMRC1jai11czRzbWVQaWl4T3NxS2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a4ff922692a",
+      "title": "출산 경험 있으면 췌장암 위험 뚝…이유는 ‘이것’ - 동아일보",
+      "published": "2026-08-08T23:08:37+00:00",
+      "summary": "출산 경험 있으면 췌장암 위험 뚝…이유는 ‘이것’&nbsp;&nbsp;동아일보출산이 여성 건강에 미치는 영향…암 위험도 달라질까&nbsp;&nbsp;매경헬스남자가 더 잘 걸리는 췌장암, 실마리는 '출산'이었다&nbsp;&nbsp;코메디닷컴출산 경험 여성, 췌장암 위험 더 낮았다&nbsp;&nbsp;오아시스뉴스\"아이 낳으면 췌장암 위험 뚝\"... 93만명 추적 결과 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NUVpELXJqblZfMU42MHNWS3ptR1NlRTVicW5rZVVOOTBwbnN5eGFFcy03Vl9CY0cwdGcwNGF4cHVwX19iWDhtc1JtUThNcllQTHExaUxCVkRWVExBSWx0TzhNNlppWGxka1dVd3pUaTAtTUNyd1HSAWZBVV95cUxQVmVZcEp5Q3RadEhtYndheThDelhoS2gtWHY0OXVFaEh3MjAwYmJFNnA2UGcyOVluZE5HSGdBTmFTSGVZdW15alhTb01rUGpqLTAwTHBOQ0hnUk8yNFBKOTZTNGhPU2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41114956583d",
+      "title": "회장루 복원술 후 합병증…소비자 “의료진 과실” 주장 - 컨슈머치",
+      "published": "2026-08-08T22:52:00+00:00",
+      "summary": "회장루 복원술 후 합병증…소비자 “의료진 과실” 주장&nbsp;&nbsp;컨슈머치",
+      "sources": [
+        {
+          "name": "컨슈머치",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pNzJmVlhQWTNISUlfR01fNXhsQ0RPSWoyTmRUeXVlLWRxdEpNT2pGT1JpNHVBTzQ3Z0NlTzFMZDlNMnBsc0VLNEdubVlkbXhyanl2MlNUbl8yaGpncGt4NGROc2F0SEhaV0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a48fc3aa282",
+      "title": "암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구 - 네이트",
+      "published": "2026-08-08T21:01:00+00:00",
+      "summary": "암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iWnkyZW03bFZ3V2ZSTUd3WW9tMDRxWFA4Mms1MjdRTm1wZm1LTEpzcm9MVmtPUGxDb0xsVUtJanA2QXE5ekh1T09UVTY3RXpTSTFF?oc=5"
+        }
+      ]
+    },
     {
       "id": "083bfb73bfa1",
       "title": "\"목 이물감 무심코 넘겼는데\"…중년 남성 노리는 '침묵의 암' [Health&] - 네이트",
@@ -18,14 +78,14 @@
       ]
     },
     {
-      "id": "c7d00ea6b8dd",
-      "title": "홍석천 \"6개월마다 성병 검사 받는다\"…'하루 한 알' 복용 HIV 예방약 있다는데 - 아시아경제",
-      "published": "2026-08-08T10:38:18+00:00",
-      "summary": "홍석천 \"6개월마다 성병 검사 받는다\"…'하루 한 알' 복용 HIV 예방약 있다는데&nbsp;&nbsp;아시아경제“6개월 마다 성병 검사”…‘커밍아웃 1호’ 홍석천, HIV·에이즈 예방 중요성 강조&nbsp;&nbsp;v.daum.net홍석천 “6개월마다 검사 받아”…질병청이 설명한 HIV 오해&nbsp;&nbsp;헤럴드경제홍석천 \"6개월 마다 성병 검사\" 고백 이유…에이즈·HIV 알리기&nbsp;&nbsp;한국경제홍석천 “6개월마다 성병 검사”…에이즈와 HIV, 뭐가 다를까&nbsp;&nbsp;twig24.com",
+      "id": "42c8b29a2a6b",
+      "title": "홍석천 \"6개월마다 성병 검사 받는다\"…'하루 한 알' 복용 HIV 예방약 있다는데 - v.daum.net",
+      "published": "2026-08-08T10:40:52+00:00",
+      "summary": "홍석천 \"6개월마다 성병 검사 받는다\"…'하루 한 알' 복용 HIV 예방약 있다는데&nbsp;&nbsp;v.daum.net홍석천 \"6개월마다 성병 검사, 그래야 맘 편히 성생활\"…질병청 과장과 깜짝 만남&nbsp;&nbsp;뉴스1홍석천 “6개월마다 성병 검사”…에이즈와 HIV, 뭐가 다를까&nbsp;&nbsp;twig24.com홍석천 “6개월마다 검사 받아”…질병청이 설명한 HIV 오해&nbsp;&nbsp;헤럴드경제홍석천 \"6개월마다 HIV 검사\"…질병청이 밝힌 '뜻밖의 사실'&nbsp;&nbsp;주간조선",
       "sources": [
         {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xQl9sOWpJQkZUSFZ5UDRnY1o1TGNmWVZmSnJKVk4tc3F0QXowOWpiMVJabWtvbmxKMFV0ZE93c0JvUFRoV3JjNFhvMm1wZkpUdVNMcjN0LTh0aTRxR2RIeQ?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tajRLQUR5UmJDNW9xQ2JfRlF2RE1jRDJWRFo1b05uMmZxUU1TVkM5b3BXTDRUY0V3TC10c0tXUVdVWTBZd1NhR1JXSDBRMDA?oc=5"
         }
       ]
     },
@@ -42,26 +102,14 @@
       ]
     },
     {
-      "id": "a5d43557e865",
-      "title": "AI가 바이러스도 만들어내는 세상…공포 영화가 따로 없네 - 매일경제",
+      "id": "b0940d19c340",
+      "title": "AI가 바이러스도 만들어내는 세상…공포 영화가 따로 없네 - mk.co.kr",
       "published": "2026-08-08T06:02:45+00:00",
-      "summary": "AI가 바이러스도 만들어내는 세상…공포 영화가 따로 없네&nbsp;&nbsp;매일경제AI가 신종 바이러스 만들었다… 치료 혁명인가, 생물테러 씨앗인가&nbsp;&nbsp;조선일보‘AI 설계’로 새 바이러스 16종 만들었다…실제 번식까지&nbsp;&nbsp;v.daum.netAI로 대장균 잡는 ‘인공 바이러스’ 만들었다&nbsp;&nbsp;동아일보AI가 만든 ‘자연에 없는 바이러스’…“생명공학의 확장이자 인류에 위협”&nbsp;&nbsp;한겨레",
+      "summary": "AI가 바이러스도 만들어내는 세상…공포 영화가 따로 없네&nbsp;&nbsp;mk.co.krAI가 신종 바이러스 만들었다… 치료 혁명인가, 생물테러 씨앗인가&nbsp;&nbsp;조선일보새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인&nbsp;&nbsp;v.daum.netAI로 대장균 잡는 ‘인공 바이러스’ 만들었다&nbsp;&nbsp;동아일보AI가 '세균 잡는 바이러스' 통째로 설계…285개 중 16개 작동&nbsp;&nbsp;뉴시스",
       "sources": [
         {
-          "name": "매일경제",
+          "name": "mk.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BemFfUXJSWHMyYTlYOG1WYXdZUi1mUEVCbGV4ZE9ZQzdOODg5bnBVYW1VNlJSV0QxUFhoTTdUNHpvZVpzN0hYNnJmOWFfbFJZdGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "30902c4c9013",
-      "title": "의사, 당뇨병 조기 경고 징후 지적 - Laodong.vn",
-      "published": "2026-08-08T04:16:26+00:00",
-      "summary": "의사, 당뇨병 조기 경고 징후 지적&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0FYdFNwcnpqcHZsWDhDTXVoU3JLWU12RTZjdEQ2ektPdTJBODVaSGFrMnJ5YjdNUXZiWEtfQnc3YXgxZV8yWnRkazdaRGliVUJsV2lXTWU1WmNXd1NvRFVsTVpXUmpFY1BmT1JrbmNMVDJva0F6aUJHR1dnMGlRSXd1WlJwRzd3WG5BeHJza2FJbnJsY1JQOE82Z0ozSVhl?oc=5"
         }
       ]
     },
@@ -78,13 +126,13 @@
       ]
     },
     {
-      "id": "4f12f6f6c3e8",
-      "title": "면역항암치료 부작용 A to Z (3) 티쎈트릭·임핀지·바벤시오 - canceranswer.co.kr",
+      "id": "37cac313e59a",
+      "title": "면역항암치료 부작용 A to Z (3) 티쎈트릭·임핀지·바벤시오 - 캔서앤서",
       "published": "2026-08-08T03:01:54+00:00",
-      "summary": "면역항암치료 부작용 A to Z (3) 티쎈트릭·임핀지·바벤시오&nbsp;&nbsp;canceranswer.co.kr",
+      "summary": "면역항암치료 부작용 A to Z (3) 티쎈트릭·임핀지·바벤시오&nbsp;&nbsp;캔서앤서",
       "sources": [
         {
-          "name": "canceranswer.co.kr",
+          "name": "캔서앤서",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fcVZMc1lvclJxODVmNWZhdHJSbTVXUHVWTThVRXQwUWFtWjJRR0ZOakFiOHFEenU1UVdlVzFfUGNyLTZGc2dQWVpqem4zUi0yQjZqamVCX0xjQnF4X0J1Rkh6eTNiWkhyZ2MyXzJyY00?oc=5"
         }
       ]
@@ -93,7 +141,7 @@
       "id": "e5c5bf652e85",
       "title": "하노이, 뎅기열 확산 위험 경고, 주민들 여전히 안일함 - Laodong.vn",
       "published": "2026-08-08T01:09:38+00:00",
-      "summary": "하노이, 뎅기열 확산 위험 경고, 주민들 여전히 안일함&nbsp;&nbsp;Laodong.vn",
+      "summary": "하노이, 뎅기열 확산 위험 경고, 주민들 여전히 안일함&nbsp;&nbsp;Laodong.vn살충제 회사들이 새로운 '게임의 규칙'에 직면하고 있다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -126,6 +174,18 @@
       ]
     },
     {
+      "id": "b55cc9c7e548",
+      "title": "[하루건강] 어제 있었던 일이 가물가물... 치매 '전 단계'일 수도 - 한국일보",
+      "published": "2026-08-07T15:00:00+00:00",
+      "summary": "[하루건강] 어제 있었던 일이 가물가물... 치매 '전 단계'일 수도&nbsp;&nbsp;한국일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nNmhveG1sRy1PX0hwa3dIb0g4TTNIbGJzcDVudDItaVV6WExzRTVLNDlHa1JtczJMdFVpcnpuVnRQUW5lZFluLXZQQ2xrZlB1NHQ2ZUVoX0QzbHVaSXYyNnVLcTM3cm1SeUJzcXB3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1b33b3d3740a",
       "title": "어릴 때부터 남자의 코에 있던 것으로 의심되는 이물질 발견 - Laodong.vn",
       "published": "2026-08-07T12:42:31+00:00",
@@ -134,18 +194,6 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVXFCUWVrSGlpbFNJaHljdk5vX0NNWUJGdk1iUk1JcE9iZF9RQTJmWXFHU1NzQlJVWEdBZVZPMVhDYkxFTzEzZDlWWS10SzUwMVVCNkFhVnFUcnF0NEw0UHMyZld5dEpYOXdRWG05Mjd2b1JveEJ6RTRPUzNoN2hRUUFhSWZUcjBIX1pUMUNpeE1NVGFvaWxrNFp1bGNhZFg4NUF6SWNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10c11ade62cb",
-      "title": "55세부터 혈관 건강 ‘최적’ 유지하면...치매 없이 평균 30년 산다 - dementianews.co.kr",
-      "published": "2026-08-07T10:34:39+00:00",
-      "summary": "55세부터 혈관 건강 ‘최적’ 유지하면...치매 없이 평균 30년 산다&nbsp;&nbsp;dementianews.co.kr\"48세부터 세 가지 멀리 했더니…치매 없이 13년 더 살았다\" [헬스톡]&nbsp;&nbsp;v.daum.net\"중년기 관리로 치매 13년 늦춘다\"…혈압·당뇨·금연이 가르는 골든타임&nbsp;&nbsp;뉴시스90세 넘으면 치매 위험 어떻게 달라질까&nbsp;&nbsp;헬스조선45세 이후 ‘3가지 행동’이 치매 낮추고 수명 13년 늘려 준다 [라이프]&nbsp;&nbsp;서울신문",
-      "sources": [
-        {
-          "name": "dementianews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnWGl5djNwam8tOThIZGNBelNKWG1FZW1qZXVEejJqMVBYOGlQdU83VVl5ZnFWZ3E3Um1zR1hEOUc0Zk95RW1tOWJpOTVUTnFlMTdOVVdrbDQybS11TjFnWUtJc1BEaU1LWG4tYnBZa3Atdw?oc=5"
         }
       ]
     },
@@ -210,122 +258,14 @@
       ]
     },
     {
-      "id": "ad30ad0d2040",
-      "title": "노년층 인지 건강… 빨리 걸으면 치매 위험 낮아진다 - 미주한국일보",
+      "id": "7b58dce54d3d",
+      "title": "운동할 때 나오는 단백질 많을수록 알츠하이머병 단백질 감소 - 미주한국일보",
       "published": "2026-08-07T03:00:00+00:00",
-      "summary": "노년층 인지 건강… 빨리 걸으면 치매 위험 낮아진다&nbsp;&nbsp;미주한국일보암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;중앙일보건망증과 치매, 무엇이 다른가?&nbsp;&nbsp;톱클래스하루 5000보만 걸어도 치매 예방 효과···뇌혈류 개선과 염증 조절&nbsp;&nbsp;v.daum.net모녀 절연 부른 안선영 엄마의 행동…알고 보니 치매 초기 신호&nbsp;&nbsp;세계일보",
+      "summary": "운동할 때 나오는 단백질 많을수록 알츠하이머병 단백질 감소&nbsp;&nbsp;미주한국일보운동이 보약이라더니…치매 위험 알려줄 ‘근육 단백질’ 찾았다[헬시타임]&nbsp;&nbsp;서울경제“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명&nbsp;&nbsp;데일리벳“운동하면 뇌가 늙지 않는다”… 운동이 뇌 노화를 막는 분자 원리 규명&nbsp;&nbsp;BRIC더워도 운동 해야 하는 이유, 남자의 노후 대책으로 이만한 게 없다&nbsp;&nbsp;GQ Korea",
       "sources": [
         {
           "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByRlBEeGczMW5INHJqNFdTWlVDck9XZ0xhdkNOMWxiOUZJd25kQUwzWk1sZmk0Q2ZoaGdhekN1bVZpWjhIeHlBbXhJSXlpU0dZMTh6M0JpZWNlc3RBNjFJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5335e5ec74e",
-      "title": "“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명 - 데일리벳",
-      "published": "2026-08-07T01:30:07+00:00",
-      "summary": "“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명&nbsp;&nbsp;데일리벳“운동하면 뇌가 늙지 않는다”… 운동이 뇌 노화를 막는 분자 원리 규명&nbsp;&nbsp;BRIC운동이 보약이라더니…치매 위험 알려줄 ‘근육 단백질’ 찾았다[헬시타임]&nbsp;&nbsp;서울경제더워도 운동 해야 하는 이유, 남자의 노후 대책으로 이만한 게 없다&nbsp;&nbsp;GQ Korea“치매를 막는 습관은 있다”&nbsp;&nbsp;독서신문",
-      "sources": [
-        {
-          "name": "데일리벳",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hX2FKZEFITnUzM05qMHBlRmhtZ2U0NUh6RHpPeGJDZmhQczljdGNvN3pOaVhORTFYSmd6enFLZndSVUZxcXZqdVdoVFJmRFA4dTk1b3lFTkIzZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a80bc50f3a9c",
-      "title": "먹으면 잠 오는 음식 3가지 - 톱클래스",
-      "published": "2026-08-07T00:59:27+00:00",
-      "summary": "먹으면 잠 오는 음식 3가지&nbsp;&nbsp;톱클래스잠을 ‘강제로 재우는’ 시대에서 ‘각성을 낮추는’ 시대로&nbsp;&nbsp;yakup.com졸피뎀보다 더 좋다고?…해외서 히트한 ‘꿀잠약’ 한국에 온다는데 [MK약국 x 약들약]&nbsp;&nbsp;v.daum.net잠이 안 온다면 멜라토닌 vs 마그네슘…내게 맞는 수면 보조제는?&nbsp;&nbsp;레이디경향“호르몬 의존 없이 깊은 잠으로”…수면케어 식품 주목&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "톱클래스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhY01sTWRPOUdUVUdZV1B1em1oTnhYYU1hSFhsX1hmSUhrZVZSSU96Qk5ucmZVOU5Ld2I4V3psSDNIeThiVi1JR2JjX0lZZUMyMlQwY0pVOWhQNXRucWZ5TFFvSU1sVTZmUlp6eNIBcEFVX3lxTE9XVFE4RzVlTW1GNnVPNkZNS1Q0THdYOFloYVJoTTJPNVgzNGRZU3JncFlHLTgtZDJIYTBCa3dIUE5NYmNRd0pKSG1YWmg2dFNaX2w4YlhxSVh0ZjlUR0pJRmhORllWenBNX1ZOMFdERG0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f529ec92155b",
-      "title": "백내장 수술 여름철이라 미룬다?…적기에 치료하는 게 중요 - 네이트",
-      "published": "2026-08-07T00:34:00+00:00",
-      "summary": "백내장 수술 여름철이라 미룬다?…적기에 치료하는 게 중요&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BWlptaDRlSWxyS1luZFJZNUhkcnp0enA2aE8ySklSYVZVYVNqdjdnb0RUdjBxUnJqdFBGT2lETzV3bjVwQWMyYjA0eWU5eVJUUzJZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a5c2c2d370f4",
-      "title": "성접촉으로 옮는 HPV, 두경부암 원인으로 급증… 무증상 방심 말고 조기 진단 나서야 - 매경헬스",
-      "published": "2026-08-06T23:00:00+00:00",
-      "summary": "성접촉으로 옮는 HPV, 두경부암 원인으로 급증… 무증상 방심 말고 조기 진단 나서야&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tN0lKVG1XOHJMbXRRblRWc05oYlRvaUQwOHFCWkVzRklsLTByczd0Y1hGU3FGM0F1NE5ZUTBJUXJYd2tMWWJLUFJGNG5MZ1l5SUlPVlFMR2VhUG1rWDlrTE1CSGhOQkFsM2lEdg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a00be11ef428",
-      "title": "홍역 감염자, 유니버설 스튜디오에서 11시간 머물러 - 미주조선일보",
-      "published": "2026-08-06T22:26:54+00:00",
-      "summary": "홍역 감염자, 유니버설 스튜디오에서 11시간 머물러&nbsp;&nbsp;미주조선일보",
-      "sources": [
-        {
-          "name": "미주조선일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83enBpY24zLXJWYm5zY2ktNGtIZ2doaVJHcjJBTGQ0d3VMWHFiMGdkeDlYeGVaMUx3SmNSTExWcUxtMFo0ZXhDc2JtM1NRZ0pGVFBKalU2Z0NpR0lUeXloZ0h6OE4xRzlfNncwN3pmVUhQbmdXMlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d4e71f13c60c",
-      "title": "[의료칼럼] 예방할 수 있는 혈관성 치매 - 대전일보",
-      "published": "2026-08-06T22:00:00+00:00",
-      "summary": "[의료칼럼] 예방할 수 있는 혈관성 치매&nbsp;&nbsp;대전일보",
-      "sources": [
-        {
-          "name": "대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xdENaaHFXTUtsM3FMeXJXaGt3V2RCVlZ1aWdEb3pxUEdydXp6WndiMDNrdTBOWENzcEhOdlVpY1h6VHh2eWhtRm1ITFF2RlRSakJkNXRYVHF5Yjl5M1J1S19BV01jQUtSVzQ2Z2NDVdIBc0FVX3lxTE5NbkdPeXR4dUN0ZzMwMWdfR21paFhORV9SM1o0N0dJblZubXVBVUU4OUtzZ3BCWEJYcnNZVng1TUdmX3VVY0Q2QkQ0TTlsbHF0aXhIdVkxOU54N05KY1ZvUHJ6bnJ5eHVzWGdUbFUxZzBWTVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1de74f472e9f",
-      "title": "왼팔 근육통 시달리던 29세男, 자택서 숨진 채 발견… 무슨 일? - 코메디닷컴",
-      "published": "2026-08-06T21:09:00+00:00",
-      "summary": "왼팔 근육통 시달리던 29세男, 자택서 숨진 채 발견… 무슨 일?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xbjI0V2pNTGhfaDhRSDlBdWxxTUZQNUY4dFNROEZFcExsd2UyaFdPekN5RjlXNDVKMFlPUGoxM2swdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab973744cc61",
-      "title": "“통째로 먹으면 1860㎉”…'버터 먹방', 심혈관 건강에 최악 - 전자신문",
-      "published": "2026-08-06T21:00:00+00:00",
-      "summary": "“통째로 먹으면 1860㎉”…'버터 먹방', 심혈관 건강에 최악&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qeGZrdnZJclAtYXZ0V0RJbVpaUTRtZ1dFX1FyWHM0R1J6bmU0SjZCR3FlOERfdFB2U3I2b3k2VU40OUpvRHhrVTBGcFlFUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "385c6e1591d0",
-      "title": "뿌리면 5분 안에 바이러스 감염 확인 끝 - 네이트",
-      "published": "2026-08-06T20:03:00+00:00",
-      "summary": "뿌리면 5분 안에 바이러스 감염 확인 끝&nbsp;&nbsp;네이트곳곳에 묻은 감염력 있는 바이러스, '칙' 뿌리면 5분 내 보인다&nbsp;&nbsp;v.daum.net[포토] KIST 차세대 바이러스 진단 플랫폼 '퓨전 어세이' 개발&nbsp;&nbsp;전자신문표면에 뿌리기만 해도 ‘감염 바이러스 진단’ 플랫폼 개발&nbsp;&nbsp;KBS 뉴스마스크·책상에 칙 뿌리면 5분 내 '형광색'…감염 바이러스 선별&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XZEdBcnRxT01kRERqVnduQjluUW9QSVVVd09FaVp3WWs4Y2FldGNGNG8wNmNDT3YxdTZna3VGWUtNVk5JMGc5V3B0WGhqSzhQLXBEdGx6SVU5NzRXTjRFRQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQ0FJVEVaSGNBSVozdEZMaTh0UmJsUzBLRUtJakZyaGhxNmtKUWV6bUNTV3hXNk1FMVp4QlJNNGtvN200TUxIbVRYUEFqUU02NGlEWkZxZVRNODRjU1U0?oc=5"
         }
       ]
     },
@@ -374,30 +314,6 @@
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SY2F3eVd2NVhaZmRVZkl3SXQxeTBBRHN5RE9MNWN2TEl4R2x2bVlEMVlOQncyWnVCRG1xektFaml3ZklwWEdlSXNMdW1YY0F0NG14YnFwRGVJd9IBX0FVX3lxTE9zeFNuSGs4ME9GXzQzajIzM0VtejRUT0lWVWgwYnBPT3RrVDB3U3FWSXVkTURXVGhpRU5ZSGZHUE4yVThqNEJielpqOVI0REItd2VyRERtMVhCUHg2Xy00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7bbdeb2ef937",
-      "title": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’ - 한겨레",
-      "published": "2026-08-06T00:45:00+00:00",
-      "summary": "우주비행사급 각성, 바다 속 탐험가의 ‘잠망 효과’&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HWU8yTFQyd2o1VWVRWkU4NktsZVhWOE9paDNNa3NjOGJmd003UDRyREZBRXBwQmQ0OTEtNXhYLWJVN0JUNkFiYjlyUVdDUE1RSkNKdWdMYWZUc2tHVUpIdTFWaWdaNXNma1hzRG9TQjVEZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "124df3b928e0",
-      "title": "머스크도 풀지 못한 '뇌 임플란트' 난제, 韓연구진이 깼다 - 머니투데이 - 머니투데이",
-      "published": "2026-08-05T19:03:00+00:00",
-      "summary": "머스크도 풀지 못한 '뇌 임플란트' 난제, 韓연구진이 깼다 - 머니투데이&nbsp;&nbsp;머니투데이",
-      "sources": [
-        {
-          "name": "머니투데이",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbFIwcGRDbzgtZzBZaVB5S2VwMGlSMzZHNXQ1Snc1dGphZlFmM0pMVjI0aU0wLUlpVHF1dkRack9tT2luRVR0aUx4VnV2TlNLYkJhelRFU3ExNFljZ2JMbm9SUndnQVXSAWxBVV95cUxOT1pnQl9LYldQZktRbVdHdjE3cGFMSk52Z0kzTDhwdXBfVDZCanI1VVV0UExxNC1hRkN4bkZtMDM1X1U3NDJqMnhLLXN5MGxPMHliX3gwR3FHM3RUVEVUTk1PY3lpbmhFbnVMTzY?oc=5"
         }
       ]
     }
