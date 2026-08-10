@@ -1,10 +1,178 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-10T02:00:41.551695+00:00",
-  "total_fetched": 59,
-  "unique_count": 59,
-  "health_related_count": 28,
+  "fetched_at": "2026-08-10T07:46:09.487572+00:00",
+  "total_fetched": 63,
+  "unique_count": 63,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "169c7b45ed95",
+      "title": "잠결에 소리치는 ‘렘수면장애’… 파킨슨 고위험군, MRI로 걸러낸다 - 문화일보",
+      "published": "2026-08-10T07:24:29+00:00",
+      "summary": "잠결에 소리치는 ‘렘수면장애’… 파킨슨 고위험군, MRI로 걸러낸다&nbsp;&nbsp;문화일보심한 잠꼬대 보이는 ‘이 질환’, 파킨슨병 위험 높은지 MRI만으로 알아본다&nbsp;&nbsp;경향신문자는 동안 소리 지르고 팔다리 휘두른다…‘이 병’ 의심, MRI 당부&nbsp;&nbsp;동아일보잠꼬대하며 팔다리 ‘휘휘’…파킨슨병 고위험군, MRI로 찾는다&nbsp;&nbsp;서울경제파킨슨병 위험 렘수면장애…'이 검사'로 찾는다&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3enB2djBvamZDc1hrOWl6bGw2NHFJclI0aldOMmdyMmdHWU1HSHdwRzNTSTIxRkNQLUt5clZpQksyZng2WHRQVkQ1OU9QYW9N?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c50a53fb7a7",
+      "title": "65세 이전 치아 5개 이상 빠지면 사망 위험 급증 - insight.co.kr",
+      "published": "2026-08-10T07:18:52+00:00",
+      "summary": "65세 이전 치아 5개 이상 빠지면 사망 위험 급증&nbsp;&nbsp;insight.co.kr",
+      "sources": [
+        {
+          "name": "insight.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UQ3J5aF9qTm1Edk9xSURjVVVhU01US0Z3OGtVYXlwOGtaY2pjNDFpY1R0dGZUa0lsNEhCbnMxbEtGbjBJMm5mLVhTLS1KQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cea8c19caf95",
+      "title": "피검사만으로 알츠하이머, 파킨슨병, 루게릭병 구분해 낸다 - 서울신문",
+      "published": "2026-08-10T07:06:48+00:00",
+      "summary": "피검사만으로 알츠하이머, 파킨슨병, 루게릭병 구분해 낸다&nbsp;&nbsp;서울신문치매 인식, 당뇨병처럼 바뀔까…\"치료 패러다임 급변\"&nbsp;&nbsp;연합뉴스알츠하이머병 진단, PET→혈액검사로…\"조기 진단·관리체계 강화\" - 머니투데이&nbsp;&nbsp;mt.co.kr증상 비슷한 퇴행성 뇌질환, 혈액 속 단백질로 가려낼 단서 찾았다&nbsp;&nbsp;BRIC\"알츠하이머, '아밀로이드' 연관 있지만 염증·생활습관 등 복합 인자 관여\"&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNk5RNmROMUxZalN6bjdxX2NRWFJvV1BjU092Nm5rSHhqR2hzTWdQeXd2SFBQUmtKM0NfSGY2NFFnb1JFY0Ffdms2MGpoZVNXZ3Fkd3NDdWNSak9RR2ZTRGFnWG5lb1YxR29uRDR2eksxbUJnYWcxX1kwM3pEcW5XNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2e5ceb89c08e",
+      "title": "\"엄마 항체가 아기의 첫 보호막\"…임신부 예방접종, '면역 공백' 메운다 - 네이트",
+      "published": "2026-08-10T07:02:00+00:00",
+      "summary": "\"엄마 항체가 아기의 첫 보호막\"…임신부 예방접종, '면역 공백' 메운다&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CejhDLU1TV0VHc1dPZzhkd2pzXzV2RjNjSU53czdzeXU1N05iR2RnNUdwdmNVRXpBNjFFcGl0d3VjVFE2WFpsWnlNWGJSd1k2bVlJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "141603d2b483",
+      "title": "2026 고혈압 진료지침 개정에 따른 Azilsartan Positioning - mostonline.co.kr",
+      "published": "2026-08-10T06:57:47+00:00",
+      "summary": "2026 고혈압 진료지침 개정에 따른 Azilsartan Positioning&nbsp;&nbsp;mostonline.co.kr",
+      "sources": [
+        {
+          "name": "mostonline.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wckFtNTNxMWc4aFNUUktrd0Z1aDJqYkJZd2FGMGdLS3J5Q0tvajQ3ejdNckp2U0hnNUNKb1dLaUkzazVXeVJzZUk1c1M0cU0yNU5JR1hCVnFocF9QV1p1blB6S3poQldMamhReWh1QmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "caaba90321b8",
+      "title": "“암세포 DNA만 잘라낸다” 차세대 항암 기술 ‘신델라’ - 조선일보",
+      "published": "2026-08-10T06:31:00+00:00",
+      "summary": "“암세포 DNA만 잘라낸다” 차세대 항암 기술 ‘신델라’&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEp3bkd4Q0x0R0x3RVJkb0Q5OURWaVFXejdQdWFTaVRVV1R4ZDF1Z2dUaG1ISFhHSmZpdGRnVEs5LVJsZjl2Zi00NmpzUVZDVEV4SlVITE9GWGk2TThxUGdqX0lKOHNhM3ZVbzBoN3NLc1RlWnNMRjlMOEFHWnhvckppZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f722c702a4d1",
+      "title": "\"AI가 바이러스 DNA 설계\"···285개 합성했더니 16개 실제 증식 - 여성경제신문",
+      "published": "2026-08-10T05:59:50+00:00",
+      "summary": "\"AI가 바이러스 DNA 설계\"···285개 합성했더니 16개 실제 증식&nbsp;&nbsp;여성경제신문새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인&nbsp;&nbsp;v.daum.netAI가 바이러스 유전체 설계…스탠포드, 세계 최초 바이러스 합성 성공&nbsp;&nbsp;aitimes.com[천자칼럼] AI가 만든 생체 바이러스&nbsp;&nbsp;네이트AI로 대장균 잡는 ‘인공 바이러스’ 만들었다&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "여성경제신문",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vV1VCdHJtd2F6NEY3VncwWlc3aExqRmZaYU9WRXVONU5VS2RqT0dmN3ZpbUZNc2NFeHdiSlBCYlVuN1JfNmZWWmcxZVRYMTlVcDExOFJIMVBUekEyclJZT05pdURqbmJrcFRVRVdfRmhtVlU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42d66f5fcefa",
+      "title": "\"빛으로 원하는 뇌회로만 켠다\"... 적외선만으로 선택 자극하는 초경량 무선 신경조절 기술 개발 - 특허뉴스",
+      "published": "2026-08-10T05:37:00+00:00",
+      "summary": "\"빛으로 원하는 뇌회로만 켠다\"... 적외선만으로 선택 자극하는 초경량 무선 신경조절 기술 개발&nbsp;&nbsp;특허뉴스원하는 뇌회로만 자극하는 초경량 무선 신경조절 플랫폼 개발&nbsp;&nbsp;v.daum.net연구재단, 적외선 파장으로 '원하는 뇌회로'만 자극한다&nbsp;&nbsp;뉴시스DGIST, 마법 같은 '생체 스위치' 개발&nbsp;&nbsp;E동아빛으로 원하는 뇌회로만 자극 성공…뇌-컴퓨터 인터페이스 개발 \"반보 앞으로\"&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "특허뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VdVVuZXlmZlBCTHVlcnRsQnpRSzVnX1BvZ1VoTjJWaDVmcDVRZHNYLWlIV3JlNzhKZC0zMk5UaGlCNk9uM1cycg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3a42f6784da",
+      "title": "[‘뇌(腦)피셜’ 말고 팩트] 경도인지장애에서 PET-CT는 왜 중요할까요? - 쿠키뉴스",
+      "published": "2026-08-10T05:01:43+00:00",
+      "summary": "[‘뇌(腦)피셜’ 말고 팩트] 경도인지장애에서 PET-CT는 왜 중요할까요?&nbsp;&nbsp;쿠키뉴스[하루건강] 어제 있었던 일이 가물가물…치매 '전 단계'일 수도&nbsp;&nbsp;네이트건망증과 치매, 무엇이 다른가?&nbsp;&nbsp;톱클래스평소보다 걸음 느려지고 불안정하면...뇌 건강 ‘조기 경고등’&nbsp;&nbsp;dementianews.co.kr백세시대, 당신의 뇌 건강은 안녕하십니까?&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pU1YwbTFCekNIRWxyWXRwcnRweGpuNlZzSGMzOHJZSnFwazZCbUZFdDZUbWxsSXBuenVoMXlmY05MS0dRai1iRHEyZXRYV1g1bksyc1N5elhQWFAwZzVzbUxhdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f23eb0a2ff3",
+      "title": "출생 순서 따라 잘 걸리는 질병 다를까…연구 - 디지털투데이",
+      "published": "2026-08-10T04:54:00+00:00",
+      "summary": "출생 순서 따라 잘 걸리는 질병 다를까…연구&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBteUo5WnRfUTVvNmtFOW16amcyblhtandnajJqSlJYNFlBaWZwbF9ZcGVoUmpueEJtNUNoV0dkLUxHa1BTRl8yVmk1eW5JZTdEbUZJUUJGVmtxZk5RQUpsQm12RXZtcldYZGFnTXpyT2FhTUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6b56151e379c",
+      "title": "암세포 돌연변이 역이용해 암만 죽인다…'4세대 항암제' 도전[과학을읽다] - asiae.co.kr",
+      "published": "2026-08-10T04:17:18+00:00",
+      "summary": "암세포 돌연변이 역이용해 암만 죽인다…'4세대 항암제' 도전[과학을읽다]&nbsp;&nbsp;asiae.co.kr",
+      "sources": [
+        {
+          "name": "asiae.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12RHl4c0RxYjNkZDZseXVyX19GaF85RmpjeTlvbnB5LWtXNndEMmc5a3ZYYkw5SHhTRWhBMGh4bU5YT2IxRF8wMkpCSTg0VFlITU5fdlhIOHdZLW1DaE5oOQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e7ef6e516f9",
+      "title": "비전형 알츠하이머병 70~85%, 항아밀로이드 치료 대상서 제외 - 메디칼업저버",
+      "published": "2026-08-10T03:49:08+00:00",
+      "summary": "비전형 알츠하이머병 70~85%, 항아밀로이드 치료 대상서 제외&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94eG5zeGFMZWV4bzJ3aFd6dlpwbk05QmVKUzB0UlF2NWl3dkI3NXBsYjc4LW9BRXpZX0NVWERNSUEyNzNJR0RpZHg0Q1V3cnc5Znp6a3RhN2t6RDFtRXNtb3NlVl83SmEzWG1v?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2b2bbee9b712",
+      "title": "암 정복 '게임체인저' 부상…환자 복제한 암 모델 대거 공개 - 바이오북미디어",
+      "published": "2026-08-10T02:09:00+00:00",
+      "summary": "암 정복 '게임체인저' 부상…환자 복제한 암 모델 대거 공개&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LdFM0MUt4Q0RVWTF2UVZva2d6RTZZWjhqdjRDMGYyV0NLdVBqbk5heWZTNWNTekV5SjZwb3JhRnBONUh0eUlzcHlQeXNSMXNlN1ItZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "76b99ea7757a",
+      "title": "토마토 매일 먹은 MASLD 성인, 간 지방 감소 폭 더 컸다…연구 - 디지털투데이",
+      "published": "2026-08-10T01:39:00+00:00",
+      "summary": "토마토 매일 먹은 MASLD 성인, 간 지방 감소 폭 더 컸다…연구&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRcXpOSVhnVUp2TXJCRldoNDFfVWxaZXh3MEtoQnUtUVQ4OFVzandaMHJaR3pxejZUUHBxRkl6bUFwUksweGQ4XzlpaVNXVXpMZnBHelJJQkVYLW9vY0V3NGRNdEp3ZEl1OHpoaFhzNTk5M2c?oc=5"
+        }
+      ]
+    },
     {
       "id": "7b04fb210254",
       "title": "근력 운동, 주 1.5~2시간이 ‘장수 최적 구간’…조기 사망 위험 13% 감소 - 매일경제",
@@ -14,42 +182,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hSWwxVzdFc3Q0M0d3anVtMXQwUW9JSFJXOGFBNTM1WEcwTFBJa3lxVi1neURaYWh4TGI4bDJpUXFRTi00ZzY2QTltazRaQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de13c58a0d5b",
-      "title": "[약손+] 통증의 제왕 ‘대상포진’ 예방과 치료 ⑪대상포진 재발률과 재발 방지 관리는? - 대구MBC",
-      "published": "2026-08-10T01:00:00+00:00",
-      "summary": "[약손+] 통증의 제왕 ‘대상포진’ 예방과 치료 ⑪대상포진 재발률과 재발 방지 관리는?&nbsp;&nbsp;대구MBC",
-      "sources": [
-        {
-          "name": "대구MBC",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB0cF8wNGRsN0hncVRYSDJoVmNrZXBUbkNib3JNM2J3bHd5cnlUVG5XcGlhSjlTWmtGZDdodzllRDVuamFSdXg1dExveTM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c42fa2b118db",
-      "title": "“증상 비슷한 퇴행성 뇌질환, 혈액 속 단백질로 가려낸다” 한국뇌연구원, 특이적 혈장 단백체 시그니처 규명 - 전자신문",
-      "published": "2026-08-10T00:34:29+00:00",
-      "summary": "“증상 비슷한 퇴행성 뇌질환, 혈액 속 단백질로 가려낸다” 한국뇌연구원, 특이적 혈장 단백체 시그니처 규명&nbsp;&nbsp;전자신문더워도 운동 해야 하는 이유, 남자의 노후 대책으로 이만한 게 없다&nbsp;&nbsp;GQ Korea“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명&nbsp;&nbsp;데일리벳운동이 보약이라더니…치매 위험 알려줄 ‘근육 단백질’ 찾았다[헬시타임]&nbsp;&nbsp;서울경제[생활습관] 치매 환자 및 고위험군을 위한 생활습관 및 복약상담 가이드&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QdnA0U0R4OFFhSDIydWxmLTdzVlpyNGtIV2lxdENUQllWU1kzSmZwWUtTVndaTjdiMmpfZVh1OXgwZmJadWhKbUNVQ1BTdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b6c4c1644a94",
-      "title": "파킨슨병 위험 렘수면장애, MRI로 효율적 선별 길 열려 - 간호사신문",
-      "published": "2026-08-09T23:53:23+00:00",
-      "summary": "파킨슨병 위험 렘수면장애, MRI로 효율적 선별 길 열려&nbsp;&nbsp;간호사신문삼성서울병원 연구진, MRI로 파킨슨병 선별 가능성 확인&nbsp;&nbsp;v.daum.net심한 잠꼬대 보이는 ‘이 질환’, 파킨슨병 위험 높은지 MRI만으로 알아본다&nbsp;&nbsp;경향신문렘수면행동장애 환자, MRI로 파킨슨병 고위험군 우선 선별&nbsp;&nbsp;아시아경제자는 동안 소리 지르고 팔다리 휘두른다…파킨슨병 위험, MRI로 먼저 가릴까&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEOXdYdTBmeVhsdHU0VVBfNlV1dGluNFdoa0ZvVkVyVE9heWpqUk1qSDhQdFJRVG43MS1hS19ENHJOTDlBeXhKeUNDYzhHU1owakJ2aUtOOXlHZE1Ldk5YSzFUSmZwVVNuU2pFZmFn?oc=5"
         }
       ]
     },
@@ -80,12 +212,24 @@
     {
       "id": "bde55ad57383",
       "title": "[단독] 없어서 못 쓰는 암치료 원료 ‘Ac-225’...예산 공백에 국내 생산 또 1년 늦어져 - 조선비즈 - Chosunbiz",
-      "published": "2026-08-09T21:00:00+00:00",
+      "published": "2026-08-09T21:04:28+00:00",
       "summary": "[단독] 없어서 못 쓰는 암치료 원료 ‘Ac-225’...예산 공백에 국내 생산 또 1년 늦어져 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
           "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOVRjdXd6eEQ0QmVFTzdRUTNtRk5udUFBbjhNa084VHVIVVdFVlUxbHZZWnoxMFA0VHZnRkwyY1AwblBfRDB4R09HRG1CS3M4S2VLd2pLcnNyWV9MdFNYX2FEcFk2dW4tVm1FdEVtTWxUZzUxbWczMGdJWTZJSmJaY1hKN3k2TE3SAZsBQVVfeXFMTUNSVVVaNkRnbEFfX1BiMXRWN3JtYURJQzMtblNMNUNTMG5zXzZTdzVHdXg4SmxXanFfemtacjZpR1p1YVJDS3BTQURBbERSOXNWM3VVMm1RdXdURHA3Q2dDYzA2ODhjOEg0OUNZN3Exa09PRGRpV0xrOVR0VFdUN1VpZ2YzUVN5UmxOSzNRVjN2dXJDSkpPNVZwbkU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5881fd31e1b7",
+      "title": "'배뇨 불편' 잡고 '남성 활력' 올리고…주목받는 참당귀황기복합물 [Health&] - 네이트",
+      "published": "2026-08-09T20:31:00+00:00",
+      "summary": "'배뇨 불편' 잡고 '남성 활력' 올리고…주목받는 참당귀황기복합물 [Health&]&nbsp;&nbsp;네이트‘배뇨 불편’ 잡고 ‘남성 활력’ 올리고…주목받는 참당귀황기복합물 [Health&]&nbsp;&nbsp;v.daum.net전립선 건강 위한다면? 아연과 소팔메토 추출물,라이코펜 풍부한 식품 섭취해&nbsp;&nbsp;sisakoreanews.kr",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HRko3WHR5am84U0NBVGpTQk5xWWgyUGpUWnFITDBxOXNXYW1tVmItM1lZZlQ5SnhkT0ZxeGtmZ3c5Mk5tcFYzWHEza1dUaEc2RTVOV0dn?oc=5"
         }
       ]
     },
@@ -138,18 +282,6 @@
       ]
     },
     {
-      "id": "14c261da6d9d",
-      "title": "세계 최초 AI로 만든 세균 바이러스 탄생 - 한국신용신문",
-      "published": "2026-08-09T07:24:00+00:00",
-      "summary": "세계 최초 AI로 만든 세균 바이러스 탄생&nbsp;&nbsp;한국신용신문새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인&nbsp;&nbsp;v.daum.netAI가 바이러스 유전체 설계…스탠포드, 세계 최초 바이러스 합성 성공&nbsp;&nbsp;AI타임스AI로 대장균 잡는 ‘인공 바이러스’ 만들었다&nbsp;&nbsp;동아일보AI가 바이러스도 만들어내는 세상…공포 영화가 따로 없네&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "한국신용신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Lck9aOU9oSUR1SmFTd3ZqbnR5TjdibjR5aXFSWkpKOUQ5WmlHZ092R1A0TzFjOFlYbkY4ZGoxSGpLdFZESi11VGxkMVpfc0NLdGpTY1dqMF9nU2pPV2lFemhBcVA5dE1HbDFn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "507a73a0e71a",
       "title": "“맥도날드 수술 빌미로 잡았다”…태아보험금까지 거절한 보험사 [어쩌다 세상이] - 매일경제",
       "published": "2026-08-09T05:48:41+00:00",
@@ -186,10 +318,22 @@
       ]
     },
     {
+      "id": "f89a1aa1a4d9",
+      "title": "단백질 많이 먹으라더니, 이제는 줄여야 더 건강? 진실은…[건강팩트체크] - 네이트",
+      "published": "2026-08-09T02:31:00+00:00",
+      "summary": "단백질 많이 먹으라더니, 이제는 줄여야 더 건강? 진실은…[건강팩트체크]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1OXhTVGZsRlNHQXg5VDJPX2lwemZ2ZGdCOFJRQzU4d0Z1UHFZVk5zaTlKbl9xT1EyMnh5aktXclZqLVhSOWRsWWN4aVI4b0k1V01z?oc=5"
+        }
+      ]
+    },
+    {
       "id": "27e5e19508c6",
       "title": "홍석천 \"6개월마다 HIV 검사\"…질병청이 밝힌 '뜻밖의 사실' - 주간조선",
       "published": "2026-08-09T00:35:00+00:00",
-      "summary": "홍석천 \"6개월마다 HIV 검사\"…질병청이 밝힌 '뜻밖의 사실'&nbsp;&nbsp;주간조선'6개월마다 성병 검사' 홍석천 \"자녀들에 마약 금지·피임 강조, 항상 체크한다\" [스타이슈]&nbsp;&nbsp;v.daum.net홍석천 \"6개월마다 성병 검사, 그래야 맘 편히 성생활\"…질병청 과장과 깜짝 만남&nbsp;&nbsp;뉴스1홍석천 “6개월마다 성병 검사”…에이즈와 HIV, 뭐가 다를까&nbsp;&nbsp;서울신문홍석천 \"6개월 마다 성병 검사\" 고백 이유…에이즈·HIV 알리기&nbsp;&nbsp;한국경제",
+      "summary": "홍석천 \"6개월마다 HIV 검사\"…질병청이 밝힌 '뜻밖의 사실'&nbsp;&nbsp;주간조선'6개월마다 성병 검사' 홍석천 \"자녀들에 마약 금지·피임 강조, 항상 체크한다\" [스타이슈]&nbsp;&nbsp;v.daum.net홍석천 \"6개월마다 성병 검사, 그래야 맘 편히 성생활\"…질병청 과장과 깜짝 만남&nbsp;&nbsp;뉴스1“6개월 마다 성병 검사”…‘커밍아웃 1호’ 홍석천, HIV·에이즈 예방 중요성 강조&nbsp;&nbsp;매일경제홍석천 “6개월마다 검사 받아”…질병청이 설명한 HIV 오해&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
           "name": "주간조선",
@@ -201,7 +345,7 @@
       "id": "c43e9285c890",
       "title": "중년기에 ‘세 가지’ 피하면 치매 발병위험 13년 늦출 수 있다 [노화설계] - 동아일보",
       "published": "2026-08-09T00:30:00+00:00",
-      "summary": "중년기에 ‘세 가지’ 피하면 치매 발병위험 13년 늦출 수 있다 [노화설계]&nbsp;&nbsp;동아일보“혈관 건강 해친다”… 중년부터 반드시 피해야 할 식품, 뭘까?&nbsp;&nbsp;헬스조선48세부터 혈압·혈당 잡고 금연…치매 없는 삶 13년 증가 [사이언스 브런치]&nbsp;&nbsp;서울신문\"48세부터 세 가지 멀리 했더니…치매 없이 13년 더 살았다\" [헬스톡]&nbsp;&nbsp;v.daum.net중년층을 위한 3가지 습관, 이 습관들이 정신적인 명료함을 13년 더 연장해 줄 수 있다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "중년기에 ‘세 가지’ 피하면 치매 발병위험 13년 늦출 수 있다 [노화설계]&nbsp;&nbsp;동아일보치매 없는 노년 보내려면 '세 가지'만 없으면 된다?&nbsp;&nbsp;v.daum.net“혈관 건강 해친다”… 중년부터 반드시 피해야 할 식품, 뭘까?&nbsp;&nbsp;헬스조선48세부터 혈압·혈당 잡고 금연…치매 없는 삶 13년 증가 [사이언스 브런치]&nbsp;&nbsp;서울신문중년층을 위한 3가지 습관, 이 습관들이 정신적인 명료함을 13년 더 연장해 줄 수 있다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "동아일보",
@@ -213,7 +357,7 @@
       "id": "9a4ff922692a",
       "title": "출산 경험 있으면 췌장암 위험 뚝…이유는 ‘이것’ - 동아일보",
       "published": "2026-08-08T23:08:37+00:00",
-      "summary": "출산 경험 있으면 췌장암 위험 뚝…이유는 ‘이것’&nbsp;&nbsp;동아일보[헬스토크] 출산 경험 있는 여성, 췌장암 위험 30% 낮다&nbsp;&nbsp;v.daum.net출산이 여성 건강에 미치는 영향…암 위험도 달라질까&nbsp;&nbsp;매경헬스남자가 더 잘 걸리는 췌장암, 실마리는 '출산'이었다&nbsp;&nbsp;코메디닷컴출산 경험 여성, 췌장암 위험 최대 30% 낮아&nbsp;&nbsp;헬스경향",
+      "summary": "출산 경험 있으면 췌장암 위험 뚝…이유는 ‘이것’&nbsp;&nbsp;동아일보[헬스토크] 출산 경험 있는 여성, 췌장암 위험 30% 낮다&nbsp;&nbsp;v.daum.net출산이 여성 건강에 미치는 영향…암 위험도 달라질까&nbsp;&nbsp;매경헬스남자가 더 잘 걸리는 췌장암, 실마리는 '출산'이었다&nbsp;&nbsp;코메디닷컴출산 경험 여성, 췌장암 위험 최대 30% 낮아&nbsp;&nbsp;k-health.com",
       "sources": [
         {
           "name": "동아일보",
@@ -222,13 +366,13 @@
       ]
     },
     {
-      "id": "ed00066b6128",
-      "title": "회장루 복원술 후 합병증…소비자 “의료진 과실” 주장 - consumuch.com",
+      "id": "41114956583d",
+      "title": "회장루 복원술 후 합병증…소비자 “의료진 과실” 주장 - 컨슈머치",
       "published": "2026-08-08T22:52:00+00:00",
-      "summary": "회장루 복원술 후 합병증…소비자 “의료진 과실” 주장&nbsp;&nbsp;consumuch.com",
+      "summary": "회장루 복원술 후 합병증…소비자 “의료진 과실” 주장&nbsp;&nbsp;컨슈머치",
       "sources": [
         {
-          "name": "consumuch.com",
+          "name": "컨슈머치",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pNzJmVlhQWTNISUlfR01fNXhsQ0RPSWoyTmRUeXVlLWRxdEpNT2pGT1JpNHVBTzQ3Z0NlTzFMZDlNMnBsc0VLNEdubVlkbXhyanl2MlNUbl8yaGpncGt4NGROc2F0SEhaV0E?oc=5"
         }
       ]
@@ -270,74 +414,14 @@
       ]
     },
     {
-      "id": "410c0384a325",
-      "title": "“부모 ADHD, 자녀에게도 이어진다?”… ADHD 진단 위험 4.47배 높아 - 하이닥",
-      "published": "2026-08-08T03:30:00+00:00",
-      "summary": "“부모 ADHD, 자녀에게도 이어진다?”… ADHD 진단 위험 4.47배 높아&nbsp;&nbsp;하이닥",
+      "id": "a659dd54be22",
+      "title": "AI가 바이러스 유전체 설계…스탠포드, 세계 최초 바이러스 합성 성공 - aitimes.com",
+      "published": "2026-08-08T05:14:37+00:00",
+      "summary": "AI가 바이러스 유전체 설계…스탠포드, 세계 최초 바이러스 합성 성공&nbsp;&nbsp;aitimes.com",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TTGc0LXdmQzhNT1QwUVlVbklyVU1aQmsxMlJkbDd4dnM3bWRCS1ZxR2J4bkFTN1NQUk1DakQ5T3I0Sm1uNGJWd05UWGNrSmdZdVVkWDV4V3pLY254bl9nX2pvV21BUzZiOGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "37cac313e59a",
-      "title": "면역항암치료 부작용 A to Z (3) 티쎈트릭·임핀지·바벤시오 - 캔서앤서",
-      "published": "2026-08-08T03:01:54+00:00",
-      "summary": "면역항암치료 부작용 A to Z (3) 티쎈트릭·임핀지·바벤시오&nbsp;&nbsp;캔서앤서",
-      "sources": [
-        {
-          "name": "캔서앤서",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fcVZMc1lvclJxODVmNWZhdHJSbTVXUHVWTThVRXQwUWFtWjJRR0ZOakFiOHFEenU1UVdlVzFfUGNyLTZGc2dQWVpqem4zUi0yQjZqamVCX0xjQnF4X0J1Rkh6eTNiWkhyZ2MyXzJyY00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bae4c21a5b15",
-      "title": "노인 당뇨병 환자, 저혈당증, 발 합병증 주의 - Laodong.vn",
-      "published": "2026-08-08T01:31:46+00:00",
-      "summary": "노인 당뇨병 환자, 저혈당증, 발 합병증 주의&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFqTEc5NU1MWXBmUU5hQ3Z1UWFxcjBUMFFPOTBQYlFwajRDOVlodl9kUE1rb1kwbG5lS2dNR0hpZ1Ytc2dJdC1LMzB2OG5sTTRKejN1WUV1SF9raVZUdmJMdEM1M1ctdV91VS1lQnhZSnRrNzVGcWkyajN3YlRoQlRiVElQTy1RVEFrZHNSMXdvUjN2WHZJTTlReUFYdFl2LVBULTR0VGdFX1hYN2NEMEZZOEpfeTNDWTNVLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5c5bf652e85",
-      "title": "하노이, 뎅기열 확산 위험 경고, 주민들 여전히 안일함 - Laodong.vn",
-      "published": "2026-08-08T01:09:38+00:00",
-      "summary": "하노이, 뎅기열 확산 위험 경고, 주민들 여전히 안일함&nbsp;&nbsp;Laodong.vn푸투엉 행정구역은 뎅기열 예방 및 통제 노력을 강화하고 있습니다.&nbsp;&nbsp;Vietnam.vn살충제 회사들이 새로운 '게임의 규칙'에 직면하고 있다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2g2UjNLcFo1R2ZHWERfUlpmakRQUzl5LWRJTFVFb0pMMGViRzBUVXBVMS1RendZSmM5RmIzQ3dpTEFWeERIUTc2RkNZai1UWmFsa3BGb0NOcUZ0cEdqVWhTcWh5SXY4SjhaR1doVllGREg4ellnRkxnREtBS2FYSFhLNm1pM3YwNFRhM01MY3JrWEZwd2NLTEI3NFp1eFE1cHd2bzBSVzdUYVpsX003U09vd05LSms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b77a08db77e2",
-      "title": "AI가 만든 ‘자연에 없는 바이러스’…“생명공학의 확장이자 인류에 위협” - hani.co.kr",
-      "published": "2026-08-07T06:50:00+00:00",
-      "summary": "AI가 만든 ‘자연에 없는 바이러스’…“생명공학의 확장이자 인류에 위협”&nbsp;&nbsp;hani.co.kr",
-      "sources": [
-        {
-          "name": "hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zUGktOC1ZRW9xYzN4eDJSdGE1UTlyWlpYNGZ5MTVUaTNYZG1Gb3FWa19abGFVV3kyQllBS2wzOGlQbDFpX0djSjlybmotZ0ExUkktTnB3bGdvZkhDaEZyZHZIbUhNS2VBVFZYU2xtZHV4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d31c6188e804",
-      "title": "'한수원 협력사' 미국 오클로 SMR 연구용 원자로 '임계 상태' 도달, 미국 에너지부 \"중요한 이정표\" - 비즈니스포스트",
-      "published": "2026-08-07T03:15:02+00:00",
-      "summary": "'한수원 협력사' 미국 오클로 SMR 연구용 원자로 '임계 상태' 도달, 미국 에너지부 \"중요한 이정표\"&nbsp;&nbsp;비즈니스포스트",
-      "sources": [
-        {
-          "name": "비즈니스포스트",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkX3BoUlR4ZGRfc1pIaVBJTUd3RE16VllfY2o4QW5La19EWWhSNEZId0V5ajV3dzgtbHJQcG42RlZvSlhaSmpfSmZpaHgzbUYtNExiM1hsdk1MdDZjeWVJLVJ5d3MzVktMUWZmdFFsSk1panc?oc=5"
+          "name": "aitimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UQWhiZ3U5RG9RYjZ1WWI4b1loWlNZdHk5a2xlY0dqRVMxbGNsV3EzeUVTLTR4ZXdvRXVpZVgwUGdTMzRrZjdIbzVnZnNxQzQ2aWpzc3BGZnAzR3AtdVVQT1ZTWFQ4eDBoenc?oc=5"
         }
       ]
     }
