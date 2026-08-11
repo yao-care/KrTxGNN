@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-08-10T19:00:33.958285+00:00",
-  "total_count": 40,
+  "last_updated": "2026-08-11T01:55:59.169999+00:00",
+  "total_count": 42,
   "matched_count": 0,
   "news": [
+    {
+      "id": "e5c56e18a17f",
+      "title": "하루 15분만 더 움직여도…암 위험 2% ↓ [노화설계]",
+      "published": "2026-08-11T01:06:12+00:00",
+      "summary": "하루 15분만 더 움직여도…암 위험 2% ↓ [노화설계]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81QjN3Wl9waG56emdEYjdUb0lHMFNHOVd4NEpzb0p5d2pIMklQNUM5aTEyV3ZQcGR5UmtUSHltUXpSVHgwTm84NzctdGtXWVViQnFwallkMFBENERWdTR4WGViV0w5aXZZODAweEdvWdIBZkFVX3lxTE1VcUM5b1hTMzcxRU9uVkxrdHVSZEZHUFdpc2I4bTF6TVIxVmtvbkhKUzBhOWJfcWhNOExfcVJGV3NmZFEzVVR6Zmdpcmw4cG9qeEdMVWlrYUM2TlhaVTZJYktKZW1XZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e4853a45b0c2",
+      "title": "한미약품, 대한혈관학회 학술대회서 심혈관 치료제 임상 연구 공유",
+      "published": "2026-08-11T01:04:36+00:00",
+      "summary": "한미약품, 대한혈관학회 학술대회서 심혈관 치료제 임상 연구 공유&nbsp;&nbsp;팜뉴스고혈압 초기부터 복합제로…한미, 심혈관 치료 최신 근거 공유&nbsp;&nbsp;메디코파마한미 “심혈관계 치료제 경쟁력 입증”...로수젯·아모프렐 등 최신 연구 공유&nbsp;&nbsp;약업신문",
+      "sources": [
+        {
+          "name": "팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yRVBqZG5Jb2JBVF9keHJISGlybnRtalhuN2NBM3RKdHJSY0Ytd0FZSEdjZmVidkRxb0JQM09JbVZTZzJ2OW5lQWtwYTNIUzNyN2JKN2NIVXVUeXAxVjdNZk5WSmFQWE9uOGNjZg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ee487a9b361e",
+      "title": "[이엠디] 비만, 단순 체중 문제 아닌 관리 필요한 만성질환 - eMD Medical News",
+      "published": "2026-08-11T01:02:25+00:00",
+      "summary": "[이엠디] 비만, 단순 체중 문제 아닌 관리 필요한 만성질환&nbsp;&nbsp;eMD Medical News",
+      "sources": [
+        {
+          "name": "eMD Medical News",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44bnZ5SVV5ZW55ZkJiMFpUMnlrLWFTMEZKMGFxR1RhQk13ZkJQTm9MQUVIdkZDX1dMTWhTcEdSRWFNMGlLb2RtTnlRYjZndUZzZU1UVThudzRhbGlsZ3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "285f0437ae86",
+      "title": "암 때문에 ‘미래’ 포기 말기를… 가임력 보존은 암 치료의 연장선 [아미랑]",
+      "published": "2026-08-11T00:00:00+00:00",
+      "summary": "암 때문에 ‘미래’ 포기 말기를… 가임력 보존은 암 치료의 연장선 [아미랑]&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyUThleWJaeDFaT0FfRkJoZHVVa09LVzdjRGVhOG9FUi1Pck96SlRLMmhNYU5KYjlQci1abXFLd1NPclNnUTJyaTIwYTFWcXl5YkhXTEg1VWxSNGIzVDdQd3hqWDRzRW5fVjlidG5TRFNPWnl4YXhpOXZiWW5IaWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dbba8f4db78b",
+      "title": "네오나 \"간암 표적단백질 GPC3 활성화 RNA 조절기전 규명\"",
+      "published": "2026-08-10T21:01:00+00:00",
+      "summary": "네오나 \"간암 표적단백질 GPC3 활성화 RNA 조절기전 규명\"&nbsp;&nbsp;히트뉴스",
+      "sources": [
+        {
+          "name": "히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FQUd5LXZsSENPMWJDTWZMZ2xwVjNfTWxOZENQMmRERlRHZmhzT1lFX0NrVTBDdE5obm9BU0FvUDU1ZV9WbmlwUGdYeUhnMmQxUmlkOFIwYUYwRXoza2xZQzZNU2dYWWUteEdj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c0cff1e326eb",
+      "title": "혈액 한 방울로 ‘유사 퇴행성 뇌질환’ 구분 가능",
+      "published": "2026-08-10T20:22:00+00:00",
+      "summary": "혈액 한 방울로 ‘유사 퇴행성 뇌질환’ 구분 가능&nbsp;&nbsp;데일리메디치매 인식, 당뇨병처럼 바뀔까…\"치료 패러다임 급변\"&nbsp;&nbsp;연합뉴스알츠하이머병, 일찍 찾을수록 치료 기회 커진다&nbsp;&nbsp;v.daum.net“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명&nbsp;&nbsp;데일리벳알쯔하이머병, 표적치료제 투여가 ‘희망봉’&nbsp;&nbsp;에너지경제신문",
+      "sources": [
+        {
+          "name": "데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RSHdQalBBYWdVSHktZnBqd2g5d3BqMU1pNExKbTJhUHd4WDlHdV8wcGJYTXZ4MERJcUdGUkxLdldRWmVVNG5oajh5R190UzlXMmcxWmRIeWp2Qmhyc0k0N1ZncUlwRm5yR0JvSHlCTmRrMzJN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "875b0776c453",
+      "title": "\"55세에 '이 3가지' 없었더니\"…치매 없이 13년 더 살았다",
+      "published": "2026-08-10T20:02:00+00:00",
+      "summary": "\"55세에 '이 3가지' 없었더니\"…치매 없이 13년 더 살았다&nbsp;&nbsp;네이트“55세에 ‘이 3가지’ 없었더니”…치매 없이 13년 더 살았다&nbsp;&nbsp;v.daum.net중년기에 ‘세 가지’ 피하면 치매 발병위험 13년 늦출 수 있다 [노화설계]&nbsp;&nbsp;동아일보“혈관 건강 해친다”… 중년부터 반드시 피해야 할 식품, 뭘까?&nbsp;&nbsp;헬스조선48세부터 혈압·혈당 잡고 금연…치매 없는 삶 13년 증가 [사이언스 브런치]&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zQS1WVHI4NGtKN0xCakNFODJZbmdyanZ3Zk43TXdjVkswMXhHNkZ0ZHdhZ1kyakcwbzVCY3pIcHphSFRVX284ZFlZYlNZd0RGUkRj?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "48db95889c0b",
+      "title": "반려견과 함께 자란 아이가 면역력이 높은 이유",
+      "published": "2026-08-10T11:40:42+00:00",
+      "summary": "반려견과 함께 자란 아이가 면역력이 높은 이유&nbsp;&nbsp;eyesmag.com",
+      "sources": [
+        {
+          "name": "eyesmag.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4aURCUFkycGp3X2dPc3BnWW1hSXI1NmN5SXZaRlRSbFVOa1ZPZ1R6RDZrQk5oVm1HZEZrTW5POWtIQzV5dXdlZGhic0kwdmpZdm5HWHJfdUsyUlJQQjN1TWp0ZUV0TmR0WnJYRWN3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "63a3fcba42e8",
       "title": "치아 모두 잃은 노인, 10년 내 치매 위험 28%↑...인지저하는 49% 높아",
@@ -43,52 +147,65 @@
       "matched_keywords": []
     },
     {
-      "id": "816dab80f62d",
-      "title": "신약 넘어 생명체 설계…바이오 AI 경쟁 새 라운드",
-      "published": "2026-08-10T08:53:42+00:00",
-      "summary": "신약 넘어 생명체 설계…바이오 AI 경쟁 새 라운드&nbsp;&nbsp;한국경제새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인&nbsp;&nbsp;v.daum.netAI가 신종 바이러스 만들었다… 치료 혁명인가, 생물테러 씨앗인가&nbsp;&nbsp;chosun.com[천자칼럼] AI가 만든 생체 바이러스&nbsp;&nbsp;네이트AI가 바이러스도 만들어내는 세상…공포 영화가 따로 없네&nbsp;&nbsp;매일경제",
+      "id": "b691cdd4460a",
+      "title": "분노는 나의 힘! 부정적 감정이 오히려 약이 되는 경우 5 - GQ Korea",
+      "published": "2026-08-10T09:10:31+00:00",
+      "summary": "분노는 나의 힘! 부정적 감정이 오히려 약이 되는 경우 5&nbsp;&nbsp;GQ Korea",
       "sources": [
         {
-          "name": "한국경제",
+          "name": "GQ Korea",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQS29oMFl2MzhXUVI3eUNIblJ2ZExrQk9obEVjYnRpZ2NiZHdYT2Zmb09TbUxjZTFydVdHN1BtX3RUMFczQ2hzd1duUVlESXoweW9Vd244dEhRMlpadUp2YU9nTjhKZ200d2poQWJJaEpqWlZZaHlNbnRsRng0QWFXeGNjN2J1eTlmZHlkbDMxZ25iSThHZmhhSFh6ck56al9GNllqeDM3aG1UUlhTYmt1SzZ4NXZxYW85UzJNOHZpVEJXOTBLSFU2VmhTcmZ5SGlwQ2dFaEJQNkZ4cWNnRTlMdFZnV0JSS3FMcDZiV2o3SXcyWkNpNHJaZi02bkQ5cmc2MWhEdHpWbW1rZFR2WmtkdGhVeWN0Mm1VZDIyMTRBZThXeHN4ZVFPLWhnQnN2ZEVPMERGVGl4cll2eU00X3hkTmZwWUhocHdiYWJHS196N2tXQXhqOVdkdg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "448fe035cbc8",
+      "title": "신약 넘어 생명체 설계…바이오 AI 경쟁 새 라운드",
+      "published": "2026-08-10T08:53:42+00:00",
+      "summary": "신약 넘어 생명체 설계…바이오 AI 경쟁 새 라운드&nbsp;&nbsp;hankyung.com새 바이러스까지 만들어낸 AI…미 연구진 16종 생성해 번식도 확인&nbsp;&nbsp;v.daum.netAI가 신종 바이러스 만들었다… 치료 혁명인가, 생물테러 씨앗인가&nbsp;&nbsp;조선일보[천자칼럼] AI가 만든 생체 바이러스&nbsp;&nbsp;네이트AI가 바이러스도 만들어내는 세상…공포 영화가 따로 없네&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "hankyung.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRW9nOVNocDlzLUV4aDBwcWhTMFNUOVZmRGtjWThIb0lRdEp1bzEzbW84bThzbkdlUFdseHdjYlhkeU9EZTViMjJ4M3NtLUJFdlJRSzNJWjN6UQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "4cb174700780",
+      "id": "edf3821a2828",
       "title": "최덕영 \"첫 노로바이러스 백신, 국내 임상 진입\"",
       "published": "2026-08-10T08:49:43+00:00",
-      "summary": "최덕영 \"첫 노로바이러스 백신, 국내 임상 진입\"&nbsp;&nbsp;한국경제",
+      "summary": "최덕영 \"첫 노로바이러스 백신, 국내 임상 진입\"&nbsp;&nbsp;hankyung.com",
       "sources": [
         {
-          "name": "한국경제",
+          "name": "hankyung.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFWWVhd0NJTTVtSmFiUzRaUDVyVTdkYU1NcldTc2hsdU8xSzhFMHpGX3l0ZDlDSnVIZFQ5VnY5TWJueGpocEtXbU5iUDJhYVNEUGF2MFZUZjRCZw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "5ad08b8c9eb0",
+      "id": "d57d7717bd15",
       "title": "중년, 탄수화물 제대로 먹어야 오래 산다--건강",
       "published": "2026-08-10T08:45:00+00:00",
-      "summary": "중년, 탄수화물 제대로 먹어야 오래 산다--건강&nbsp;&nbsp;인민넷",
+      "summary": "중년, 탄수화물 제대로 먹어야 오래 산다--건강&nbsp;&nbsp;korean.people.com.cn",
       "sources": [
         {
-          "name": "인민넷",
+          "name": "korean.people.com.cn",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QWEVRV3FrcTJ2VHFwZnhUc1l1MGFXdGZmc3RBdVRoT0Fnck5zTTJJdkdyWlNidXV4cU4zLUNsMnNyU2pXUHVKbzlhR3JSVU9oalhoQ2tyRjVPcGNUaFR2LUlPRTJ5b2xYVG1GdDBB?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "af64fb5bc9a7",
+      "id": "d11800478cb7",
       "title": "춤운동, 우울증도 예방하고 로화도 늦춘다--건강",
       "published": "2026-08-10T08:06:00+00:00",
-      "summary": "춤운동, 우울증도 예방하고 로화도 늦춘다--건강&nbsp;&nbsp;인민넷",
+      "summary": "춤운동, 우울증도 예방하고 로화도 늦춘다--건강&nbsp;&nbsp;korean.people.com.cn",
       "sources": [
         {
-          "name": "인민넷",
+          "name": "korean.people.com.cn",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZFNmejl4R2cwdWxNSmJyZXA5WWxaa3c4eHItWW8wNDRsMVpKUC04anZhOFZOYUR3NXVGdEZ4TGVuZXZSd2Z4UFVfbEhoMVQ2SjY4RTVkMWc4MnI2WVk3QzRjWXc5ZlJRTjFVT09R?oc=5"
         }
       ],
@@ -103,19 +220,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Td2JaWHVLOVM0RW1CZXIwVWxxUjhUcXA0QnBFWjlYT2FjVkZKOHRCeUd2OUljRG15YU41OUxjNXRRZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1f5da20a591c",
-      "title": "증상 비슷한 퇴행성 뇌질환, 혈액으로 구분 '맞춤형 정밀 의료' 구현",
-      "published": "2026-08-10T07:40:00+00:00",
-      "summary": "증상 비슷한 퇴행성 뇌질환, 혈액으로 구분 '맞춤형 정밀 의료' 구현&nbsp;&nbsp;헬로디디“값비싼 PET 검사없이도” 혈액만으로…치매·파킨슨병 정밀 진단한다&nbsp;&nbsp;v.daum.net“운동하면 뇌가 늙지 않는다” 서울대 한호재 교수팀, 운동이 뇌 노화 막는 분자 원리 규명&nbsp;&nbsp;데일리벳알츠하이머병 진단, PET→혈액검사로…\"조기 진단·관리체계 강화\" - 머니투데이&nbsp;&nbsp;머니투데이증상 비슷한 퇴행성 뇌질환, 혈액 속 단백질로 가려낼 단서 찾았다&nbsp;&nbsp;BRIC",
-      "sources": [
-        {
-          "name": "헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uR3dyMjBuMFNENG9vSWROXzdod0R5eFZKS0MtQkdMMVZ2dkE2NEtWeU0ycnNuMG1yWVVENFNKUVlZLXFHalQwUS1NeG45YkYwQ1BOSEFtajZ2OVJCQ3JETmdRMWVRcUFsVkE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -147,13 +251,13 @@
       "matched_keywords": []
     },
     {
-      "id": "42d66f5fcefa",
+      "id": "ed543a54d9bb",
       "title": "\"빛으로 원하는 뇌회로만 켠다\"... 적외선만으로 선택 자극하는 초경량 무선 신경조절 기술 개발",
       "published": "2026-08-10T05:37:00+00:00",
-      "summary": "\"빛으로 원하는 뇌회로만 켠다\"... 적외선만으로 선택 자극하는 초경량 무선 신경조절 기술 개발&nbsp;&nbsp;특허뉴스원하는 뇌회로만 자극하는 초경량 무선 신경조절 플랫폼 개발&nbsp;&nbsp;v.daum.net연구재단, 적외선 파장으로 '원하는 뇌회로'만 자극한다&nbsp;&nbsp;newsis.com‘적외선 뇌자극만으로’…우울증·파킨슨병 등 신경계 질환 치료 가능성&nbsp;&nbsp;dt.co.kr빛으로 원하는 뇌회로만 자극 성공…뇌-컴퓨터 인터페이스 개발 \"반보 앞으로\"&nbsp;&nbsp;zdnet.co.kr",
+      "summary": "\"빛으로 원하는 뇌회로만 켠다\"... 적외선만으로 선택 자극하는 초경량 무선 신경조절 기술 개발&nbsp;&nbsp;e-patentnews.com원하는 뇌회로만 자극하는 초경량 무선 신경조절 플랫폼 개발&nbsp;&nbsp;v.daum.net연구재단, 적외선 파장으로 '원하는 뇌회로'만 자극한다&nbsp;&nbsp;뉴시스‘적외선 뇌자극만으로’…우울증·파킨슨병 등 신경계 질환 치료 가능성&nbsp;&nbsp;dt.co.kr빛으로 원하는 뇌회로만 자극 성공…뇌-컴퓨터 인터페이스 개발 \"반보 앞으로\"&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
-          "name": "특허뉴스",
+          "name": "e-patentnews.com",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VdVVuZXlmZlBCTHVlcnRsQnpRSzVnX1BvZ1VoTjJWaDVmcDVRZHNYLWlIV3JlNzhKZC0zMk5UaGlCNk9uM1cycg?oc=5"
         }
       ],
@@ -163,7 +267,7 @@
       "id": "c3a42f6784da",
       "title": "[‘뇌(腦)피셜’ 말고 팩트] 경도인지장애에서 PET-CT는 왜 중요할까요?",
       "published": "2026-08-10T05:01:43+00:00",
-      "summary": "[‘뇌(腦)피셜’ 말고 팩트] 경도인지장애에서 PET-CT는 왜 중요할까요?&nbsp;&nbsp;쿠키뉴스깜빡하는 건 흔한 일… ‘치매’ 심각하게 의심해야 할 상황은?&nbsp;&nbsp;헬스조선[하루건강] 어제 있었던 일이 가물가물…치매 '전 단계'일 수도&nbsp;&nbsp;네이트평소보다 걸음 느려지고 불안정하면...뇌 건강 ‘조기 경고등’&nbsp;&nbsp;디멘시아뉴스백세시대, 당신의 뇌 건강은 안녕하십니까?&nbsp;&nbsp;미주중앙일보",
+      "summary": "[‘뇌(腦)피셜’ 말고 팩트] 경도인지장애에서 PET-CT는 왜 중요할까요?&nbsp;&nbsp;쿠키뉴스깜빡하는 건 흔한 일… ‘치매’ 심각하게 의심해야 할 상황은?&nbsp;&nbsp;헬스조선[하루건강] 어제 있었던 일이 가물가물…치매 '전 단계'일 수도&nbsp;&nbsp;네이트평소보다 걸음 느려지고 불안정하면...뇌 건강 ‘조기 경고등’&nbsp;&nbsp;디멘시아뉴스백세시대, 당신의 뇌 건강은 안녕하십니까?&nbsp;&nbsp;koreadaily.com",
       "sources": [
         {
           "name": "쿠키뉴스",
@@ -238,14 +342,14 @@
       "matched_keywords": []
     },
     {
-      "id": "675bd4ddea7c",
-      "title": "근력 운동, 주 1.5~2시간이 '장수 최적 구간'…조기 사망 위험 13% 감소",
-      "published": "2026-08-10T01:12:00+00:00",
-      "summary": "근력 운동, 주 1.5~2시간이 '장수 최적 구간'…조기 사망 위험 13% 감소&nbsp;&nbsp;네이트",
+      "id": "84fcdb8ab711",
+      "title": "둘이서 함께 걸어요",
+      "published": "2026-08-10T01:38:55+00:00",
+      "summary": "둘이서 함께 걸어요&nbsp;&nbsp;canceranswer.co.kr",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NY3VJTFV4MGdpUi1BbXEzLXAzck5UMFJlRTlKM09XSDdfVUhSb1VVQ3VuUXFnZEQ2Q2s5aEM1dks2QTQzZS1DYmt4MUR6Y1E0YzYw?oc=5"
+          "name": "canceranswer.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96SUZKWFo3R1pEbXEwTVdXRDlObEZoVjdoVkxtYXV3bjVPcU5nRmdPRndmNVJrNmhWMUpXUXJEc21lYU9MZ3ctcFhQNUVPQ0VLcENvSGVZaUQ1TGZNRXphNUU5UmZ3ckI3RG5UemduS18?oc=5"
         }
       ],
       "matched_keywords": []
@@ -254,7 +358,7 @@
       "id": "1dbc00ce797a",
       "title": "유방암, 젊을수록 더 독하다?…유방암에 대한 오해와 진실",
       "published": "2026-08-09T23:36:21+00:00",
-      "summary": "유방암, 젊을수록 더 독하다?…유방암에 대한 오해와 진실&nbsp;&nbsp;코리아헬스로그보건부는 지역 보건소에서 실시할 수 있는 10분 유방암 검진 프로그램에 대한 지침을 제공합니다.&nbsp;&nbsp;Vietnam.vn유방암이 서구형? 한·일 증가세, 미국 정체&nbsp;&nbsp;yonhapmidas.com4050 환자 급증... 유방암 고위험군 특징은?&nbsp;&nbsp;chosun.com유방암 고위험군 73%에겐 ‘이것’ 없어...방심하다간 95% 놓친다?&nbsp;&nbsp;코메디닷컴",
+      "summary": "유방암, 젊을수록 더 독하다?…유방암에 대한 오해와 진실&nbsp;&nbsp;코리아헬스로그보건부는 지역 보건소에서 실시할 수 있는 10분 유방암 검진 프로그램에 대한 지침을 제공합니다.&nbsp;&nbsp;Vietnam.vn유방암이 서구형? 한·일 증가세, 미국 정체&nbsp;&nbsp;yonhapmidas.com4050 환자 급증... 유방암 고위험군 특징은?&nbsp;&nbsp;조선일보유방암 고위험군 73%에겐 ‘이것’ 없어...방심하다간 95% 놓친다?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -267,7 +371,7 @@
       "id": "5c3484c6d186",
       "title": "'6개월마다 성병 검사' 홍석천 \"자녀들에 마약 금지·피임 강조, 항상 체크한다\" [스타이슈]",
       "published": "2026-08-09T22:43:28+00:00",
-      "summary": "'6개월마다 성병 검사' 홍석천 \"자녀들에 마약 금지·피임 강조, 항상 체크한다\" [스타이슈]&nbsp;&nbsp;starnewskorea.com홍석천 \"6개월마다 성병 검사, 그래야 맘 편히 성생활\"…질병청 과장과 깜짝 만남&nbsp;&nbsp;뉴스1홍석천 “6개월마다 검사 받아”…질병청이 설명한 HIV 오해&nbsp;&nbsp;헤럴드경제홍석천 \"6개월 마다 성병 검사\" 고백 이유…에이즈·HIV 알리기&nbsp;&nbsp;한국경제홍석천 \"6개월마다 HIV 검사\"…질병청이 밝힌 '뜻밖의 사실'&nbsp;&nbsp;주간조선",
+      "summary": "'6개월마다 성병 검사' 홍석천 \"자녀들에 마약 금지·피임 강조, 항상 체크한다\" [스타이슈]&nbsp;&nbsp;starnewskorea.comGoogle 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "starnewskorea.com",
@@ -290,13 +394,13 @@
       "matched_keywords": []
     },
     {
-      "id": "a418a45745e7",
+      "id": "2d49e2b03ce0",
       "title": "HIV 치료 흔드는 '불면'…치료제 신경정신계 영향도 살펴야",
       "published": "2026-08-09T21:45:41+00:00",
-      "summary": "HIV 치료 흔드는 '불면'…치료제 신경정신계 영향도 살펴야&nbsp;&nbsp;docdocdoc.co.kr",
+      "summary": "HIV 치료 흔드는 '불면'…치료제 신경정신계 영향도 살펴야&nbsp;&nbsp;청년의사",
       "sources": [
         {
-          "name": "docdocdoc.co.kr",
+          "name": "청년의사",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54LXdoTjZUSFlzc3NmOEFFSzM1QmtvM0Q0dnA4Z0VEYW5nNHh4YjM4Z2QtZVRNd3Mza3piNVJOazJoWDg0MUFtUDVqZ2twNTN4ZjQwYjdnVnRub3ZoZUJjYU9hekhKRV9DWTRvMnF5c9IBc0FVX3lxTFA1eWFjanc1eGhPWGRRbEpLOHh3T3Z2MDZzbUlTLVJjd24zZmJQeWZwUkdaMDJ1aTcxMlBOdGNMVU9TQkx2bGg0OXJ4V2NkLTZ6M1dnQUlaeUM1UUhIdy1yRFZvLVhjM0pHYTFPX2htTzU3ZlE?oc=5"
         }
       ],
@@ -324,32 +428,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HRko3WHR5am84U0NBVGpTQk5xWWgyUGpUWnFITDBxOXNXYW1tVmItM1lZZlQ5SnhkT0ZxeGtmZ3c5Mk5tcFYzWHEza1dUaEc2RTVOV0dn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fdc5c53b5033",
-      "title": "48세부터 고혈압·당뇨·흡연 잡으면 치매 13년 늦게 온다",
-      "published": "2026-08-09T20:02:00+00:00",
-      "summary": "48세부터 고혈압·당뇨·흡연 잡으면 치매 13년 늦게 온다&nbsp;&nbsp;네이트치매 없는 노년 보내려면 '세 가지'만 없으면 된다?&nbsp;&nbsp;v.daum.net중년기에 ‘세 가지’ 피하면 치매 발병위험 13년 늦출 수 있다 [노화설계]&nbsp;&nbsp;동아일보“혈관 건강 해친다”… 중년부터 반드시 피해야 할 식품, 뭘까?&nbsp;&nbsp;헬스조선48세부터 혈압·혈당 잡고 금연…치매 없는 삶 13년 증가 [사이언스 브런치]&nbsp;&nbsp;서울신문",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4YU1Cck5mWWQ5c1pock1nUGRZLS1JVUVnbmVjMEpYanYtSXpsNzZuWHBnelYwVnJMNEZ0dV81ZlhaNmM4VFZ4MXpKWkFqOGVPc0Nr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "08da3f254068",
-      "title": "휴가 후 피부 유난히 까매진 여성, ‘애디슨병’ 진단… 어떤 병?",
-      "published": "2026-08-09T17:00:00+00:00",
-      "summary": "휴가 후 피부 유난히 까매진 여성, ‘애디슨병’ 진단… 어떤 병?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fQlc3Tk8yZFZ5UjNJSU55VmgwRHZCWDNBeW14T3p6aFpSQU52Yi1zbU1Nd0F6b0l3eFlRbUg3LTRWYWhoaE03U1paWjE4dzhiWUd3Snp5U190VWlseV9XRFZjMURZYlhDdXhMelpuMTBKUzFFT0R3RkR6bF8wMTg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -420,23 +498,10 @@
       "matched_keywords": []
     },
     {
-      "id": "dc14acb2171f",
-      "title": "남성 삶 흔드는 '이 암'…\"제대로 알고 계신가요?\"",
-      "published": "2026-08-09T05:01:00+00:00",
-      "summary": "남성 삶 흔드는 '이 암'…\"제대로 알고 계신가요?\"&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yTElkZHVmWWROTGF0RjRXRjFKbjg0WFgtS2JWUnN5U0ItYzhfd0xPU2szX1pwajZCZ0lRc3FJVW12M3lNamtZTVdzeTZ6QmZ2d1NN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "3525dc6e7720",
       "title": "생리통 마냥 참다가, 난임 위험 키울라… 병원 가봐야 할 때는?",
       "published": "2026-08-09T03:30:00+00:00",
-      "summary": "생리통 마냥 참다가, 난임 위험 키울라… 병원 가봐야 할 때는?&nbsp;&nbsp;헬스조선갱년기 이후에도 자궁경부암 검진은 계속된다&nbsp;&nbsp;비건뉴스[칼럼] ‘재발성 자궁내막암’ 치료에 새롭게 열린 길&nbsp;&nbsp;코리아헬스로그",
+      "summary": "생리통 마냥 참다가, 난임 위험 키울라… 병원 가봐야 할 때는?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -454,45 +519,6 @@
         {
           "name": "edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMTc3d3k0UC1ZakN4U0daQkIyME9lMkYwZFZyb3I3UktONDl6MkluSHVEYWdCN3BidnNXRmxZQzhUaGZqc2pZY0hEdlFUeTdfZjdPM0FmYmpKSHY0emNUVnMwa0R0U3BfVXZmZldQc1ZlU0ktZjJUTkotcm9JZHVDcA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9a4ff922692a",
-      "title": "출산 경험 있으면 췌장암 위험 뚝…이유는 ‘이것’",
-      "published": "2026-08-08T23:08:37+00:00",
-      "summary": "출산 경험 있으면 췌장암 위험 뚝…이유는 ‘이것’&nbsp;&nbsp;동아일보[헬스토크] 출산 경험 있는 여성, 췌장암 위험 30% 낮다&nbsp;&nbsp;v.daum.net출산이 여성 건강에 미치는 영향…암 위험도 달라질까&nbsp;&nbsp;매경헬스남자가 더 잘 걸리는 췌장암, 실마리는 '출산'이었다&nbsp;&nbsp;코메디닷컴출산 경험 여성, 췌장암 위험 최대 30% 낮아&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NUVpELXJqblZfMU42MHNWS3ptR1NlRTVicW5rZVVOOTBwbnN5eGFFcy03Vl9CY0cwdGcwNGF4cHVwX19iWDhtc1JtUThNcllQTHExaUxCVkRWVExBSWx0TzhNNlppWGxka1dVd3pUaTAtTUNyd1HSAWZBVV95cUxQVmVZcEp5Q3RadEhtYndheThDelhoS2gtWHY0OXVFaEh3MjAwYmJFNnA2UGcyOVluZE5HSGdBTmFTSGVZdW15alhTb01rUGpqLTAwTHBOQ0hnUk8yNFBKOTZTNGhPU2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "41114956583d",
-      "title": "회장루 복원술 후 합병증…소비자 “의료진 과실” 주장",
-      "published": "2026-08-08T22:52:00+00:00",
-      "summary": "회장루 복원술 후 합병증…소비자 “의료진 과실” 주장&nbsp;&nbsp;컨슈머치",
-      "sources": [
-        {
-          "name": "컨슈머치",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pNzJmVlhQWTNISUlfR01fNXhsQ0RPSWoyTmRUeXVlLWRxdEpNT2pGT1JpNHVBTzQ3Z0NlTzFMZDlNMnBsc0VLNEdubVlkbXhyanl2MlNUbl8yaGpncGt4NGROc2F0SEhaV0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6a48fc3aa282",
-      "title": "암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구",
-      "published": "2026-08-08T21:01:00+00:00",
-      "summary": "암 환자는 치매에 덜 걸린다? 전세계 뒤집은 뜻밖 연구&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iWnkyZW03bFZ3V2ZSTUd3WW9tMDRxWFA4Mms1MjdRTm1wZm1LTEpzcm9MVmtPUGxDb0xsVUtJanA2QXE5ekh1T09UVTY3RXpTSTFF?oc=5"
         }
       ],
       "matched_keywords": []
