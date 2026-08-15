@@ -1,15 +1,51 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-15T06:41:50.135701+00:00",
-  "total_fetched": 73,
-  "unique_count": 73,
-  "health_related_count": 37,
+  "fetched_at": "2026-08-15T12:41:21.142738+00:00",
+  "total_fetched": 66,
+  "unique_count": 66,
+  "health_related_count": 28,
   "news": [
+    {
+      "id": "dce7db49d2cf",
+      "title": "아크연구소·스탠퍼드팀, AI 설계 박테리오파지 첫 개발 - 바이오북미디어",
+      "published": "2026-08-15T07:09:00+00:00",
+      "summary": "아크연구소·스탠퍼드팀, AI 설계 박테리오파지 첫 개발&nbsp;&nbsp;바이오북미디어[사이언스샷] 유전자 가위로 무장한 바이러스, 슈퍼박테리아 잡았다 - 조선비즈&nbsp;&nbsp;Chosunbiz신약 넘어 생명체 설계…바이오 AI 경쟁 새 라운드&nbsp;&nbsp;한국경제[탐구활동] ‘찾는 AI’에서 ‘설계하는 AI’로…생명과학에서 6년 만에 바뀐 AI의 역할&nbsp;&nbsp;교육을 비추다세계 최초 AI로 만든 세균 바이러스 탄생&nbsp;&nbsp;한국신용신문",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tWHNaYXZRaTd3LU5TSlhhX1hiaHgyWFVzdVhlQURib0k2OG1yV1l2Yl9TSWVCNW9VbTNsN25PSko2WG0zbUthODNrRnA0Zk05dG9lZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "525bc81cb661",
+      "title": "[팩트체크] ‘서울대 의사가 매일 먹는 음식’…SNS 건강정보 40장, 확인해보니~ - breaknews.com",
+      "published": "2026-08-15T05:51:00+00:00",
+      "summary": "[팩트체크] ‘서울대 의사가 매일 먹는 음식’…SNS 건강정보 40장, 확인해보니~&nbsp;&nbsp;breaknews.com",
+      "sources": [
+        {
+          "name": "breaknews.com",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12d1JFa1FJRTBNa1Z4OGRFejhuSnhPZWl3Vy13anV2YTVUclVCb05aSjIxel91WDBsaHRQaGgyX2xSVWlrT0ZPVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1277ef36f04e",
+      "title": "산후 우울증인 줄 알았는데 갑상선 질환에 걸렸습니다 - Laodong.vn",
+      "published": "2026-08-15T05:24:41+00:00",
+      "summary": "산후 우울증인 줄 알았는데 갑상선 질환에 걸렸습니다&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjRlTC1KQ19Uc2hQLThCVGl4Q0F4RVRSVnNEczVoODVDSFhzdi1WYmtQV1lETlJObWtDUkItY2hNTnZHamYxV2ZmZWQ0TmljZDhfT2w1TTZrOUtJUVFlQ3FTa25keUlHY291OFhNNHNjWm41ZVczUjNVYTdRRGJEUExWUDdSdDhrMUNyYlR0SXJIaFdGMG5ZUA?oc=5"
+        }
+      ]
+    },
     {
       "id": "74d014ab8e98",
       "title": "미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다 - 하이닥",
       "published": "2026-08-15T03:30:00+00:00",
-      "summary": "미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다&nbsp;&nbsp;하이닥미세먼지에 오래 노출됐더니… 눈 건강에 나타난 변화&nbsp;&nbsp;금강일보“단순 눈 충혈인 줄 알았는데”…미세먼지 오래 마셨다가 ‘뜻밖의 봉변’&nbsp;&nbsp;v.daum.net고려대 구로병원, 탄소입자 장기 노출 따른 안구 손상 규명&nbsp;&nbsp;로이슈미세먼지 장기 노출, 눈 건강 해치고 노화 세포 늘린다&nbsp;&nbsp;한국일보",
+      "summary": "미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다&nbsp;&nbsp;하이닥미세먼지에 오래 노출됐더니… 눈 건강에 나타난 변화&nbsp;&nbsp;ggilbo.com“단순 눈 충혈인 줄 알았는데”…미세먼지 오래 마셨다가 ‘뜻밖의 봉변’&nbsp;&nbsp;v.daum.net고려대 구로병원, 탄소입자 장기 노출 따른 안구 손상 규명&nbsp;&nbsp;로이슈미세먼지 장기 노출, 눈 건강 해치고 노화 세포 늘린다&nbsp;&nbsp;한국일보",
       "sources": [
         {
           "name": "하이닥",
@@ -42,14 +78,26 @@
       ]
     },
     {
-      "id": "48dacb0d5035",
-      "title": "“4개월만에 25kg빠져”...위산 역류라더니 결국 ‘이 암’으로 사망한 男, 무슨 일? - kormedi.com",
+      "id": "368a1c918fa9",
+      "title": "“4개월만에 25kg빠져”...위산 역류라더니 결국 ‘이 암’으로 사망한 男, 무슨 일? - 코메디닷컴",
       "published": "2026-08-14T22:05:00+00:00",
-      "summary": "“4개월만에 25kg빠져”...위산 역류라더니 결국 ‘이 암’으로 사망한 男, 무슨 일?&nbsp;&nbsp;kormedi.com",
+      "summary": "“4개월만에 25kg빠져”...위산 역류라더니 결국 ‘이 암’으로 사망한 男, 무슨 일?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kormedi.com",
+          "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vdnBIN05HdUxXSnB4cHJmeklYRXQza011VS1ya1pWRUphckVJemowYkE2aDBaZk1ncG9lejJXd0hUUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8805627c9d7",
+      "title": "KH건협, 혈액검사 기반 심혈관질환 조기 선별 가능성 연구 - 병원신문",
+      "published": "2026-08-14T21:14:18+00:00",
+      "summary": "KH건협, 혈액검사 기반 심혈관질환 조기 선별 가능성 연구&nbsp;&nbsp;병원신문",
+      "sources": [
+        {
+          "name": "병원신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SaHpQaFpDRUZuY0VVRldQU2JwUF9LVlBOejVzdDJrZDNlOGN6TC1pTzJKRkhnanJMWkVhbnZiUkhQcC1QOFVuVG5KUVYxeEtuZlNhM3BNbGM0S3BMd1lHMFQ5Uk5FVWowWGc?oc=5"
         }
       ]
     },
@@ -66,38 +114,14 @@
       ]
     },
     {
-      "id": "c29b7948285e",
-      "title": "맷 데이먼, ‘오디세이’ 위해 90일 동안 ‘장 청소’했다… 무슨 효과? - health.chosun.com",
+      "id": "dc38d42d1b1d",
+      "title": "맷 데이먼, ‘오디세이’ 위해 90일 동안 ‘장 청소’했다… 무슨 효과? - 헬스조선",
       "published": "2026-08-14T20:00:00+00:00",
-      "summary": "맷 데이먼, ‘오디세이’ 위해 90일 동안 ‘장 청소’했다… 무슨 효과?&nbsp;&nbsp;health.chosun.com",
+      "summary": "맷 데이먼, ‘오디세이’ 위해 90일 동안 ‘장 청소’했다… 무슨 효과?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "health.chosun.com",
+          "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZWNNbk5YdG10UWFHN1MzYmNUMVMxdkhETWVQZ0RDd3NMNjFHR0ltQy00cHBKRmVlNHV3VGkxZmdXSW55RE1SeWFnZ2loeFoxdElYdWdDZ09FaFNaZGI1TjJ0emE4Y3dIeFpMMDc5TGFWbjVHdU1jZjV4WWF0ZnM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1a6d2e5f1ba",
-      "title": "“과일주스 당 많아 피했는데”…하루 한 잔에 ‘우울감’ 줄었다? [건강팩트체크] - 동아일보",
-      "published": "2026-08-14T13:27:20+00:00",
-      "summary": "“과일주스 당 많아 피했는데”…하루 한 잔에 ‘우울감’ 줄었다? [건강팩트체크]&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00UnhZNF9ENlliVUdXTWtIczVkWU9yVG5XcFpTbnZVdWQyMXFSa3hWSE8wb1dwWllJVlBHUUpSX2x6ZklST0t3NUxpVXc2SHlaX0VBbjR3VkxhV1B6VVZ1TEFnVHZRNHYwV0Y4SmhVWdIBZkFVX3lxTE1KSlhhdmpyZnFZVGMtelRmcWpOcjIyTS1iUUhFQ19lSEQ4X2RlbDl6QkFCSmFUSmg1V3A4bmpSUEZHSzJSVTlsRk5zU1NkRXFnOW90Z0JReEFnSEtobnBPQnFydjZCZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "124076e178c9",
-      "title": "'명의' 김재현 교수가 알려주는 스마트해진 당뇨병 치료법 - 비즈엔터",
-      "published": "2026-08-14T12:50:22+00:00",
-      "summary": "'명의' 김재현 교수가 알려주는 스마트해진 당뇨병 치료법&nbsp;&nbsp;비즈엔터식사 순서만 바꿔도 식후 혈당 달라져…‘스마트 혈당관리’ 시대 열려&nbsp;&nbsp;현대건강신문당뇨병도 아닌데 수시로 혈당 측정… 무슨 도움되나?&nbsp;&nbsp;health.chosun.com혈당을 지켜라…당뇨병 최신 치료법과 관리법 (EBS 명의)&nbsp;&nbsp;위키트리[명의] 대한민국 당뇨병 위험 인구 2천만 시대&nbsp;&nbsp;Queen 이코노미퀸",
-      "sources": [
-        {
-          "name": "비즈엔터",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9adGp1OHlWNUY2bURYME1nVEZQQ3Q3S19xaEtERmwyNzEzTDdubjZCRm5jVDdPVzNMOW5ackVmbkc5VXFYajEtMTNJVzJDYjMwVldhTkV3?oc=5"
         }
       ]
     },
@@ -129,7 +153,7 @@
       "id": "d0a17c1f1279",
       "title": "연구, 화학부 김성연 교수팀, 몸 전체 추위 대응 원리 규명 - 보도자료 - 뉴스 - 서울대 소식 - 서울대학교",
       "published": "2026-08-14T10:00:59+00:00",
-      "summary": "연구, 화학부 김성연 교수팀, 몸 전체 추위 대응 원리 규명 - 보도자료 - 뉴스 - 서울대 소식&nbsp;&nbsp;서울대학교피부의 ‘차가움’ 정보, 뇌 부완핵에 가장 먼저 닿아 몸 전체의 추위 대응 이끈다&nbsp;&nbsp;BRIC[100세 과학] 겨울이 오고 있다…추위 대응 이끄는 뉴런 발견 - 조선비즈&nbsp;&nbsp;biz.chosun.com뇌 속 '차가움 뉴런' 찾았다…추위 대응·에너지 소비 조절[과학을읽다]&nbsp;&nbsp;v.daum.net\"추위엔 덜덜 떨고 폭염엔 시원함으로\"···뇌속 '차가움 뉴런' 발견&nbsp;&nbsp;헬로디디",
+      "summary": "연구, 화학부 김성연 교수팀, 몸 전체 추위 대응 원리 규명 - 보도자료 - 뉴스 - 서울대 소식&nbsp;&nbsp;서울대학교피부의 ‘차가움’ 정보, 뇌 부완핵에 가장 먼저 닿아 몸 전체의 추위 대응 이끈다&nbsp;&nbsp;BRIC[100세 과학] 겨울이 오고 있다…추위 대응 이끄는 뉴런 발견 - 조선비즈&nbsp;&nbsp;Chosunbiz뇌 속 '차가움 뉴런' 찾았다…추위 대응·에너지 소비 조절[과학을읽다]&nbsp;&nbsp;v.daum.net\"추위엔 덜덜 떨고 폭염엔 시원함으로\"···뇌속 '차가움 뉴런' 발견&nbsp;&nbsp;헬로디디",
       "sources": [
         {
           "name": "서울대학교",
@@ -162,6 +186,18 @@
       ]
     },
     {
+      "id": "cedd4cb65d10",
+      "title": "[명의] 대한민국 당뇨병 위험 인구 2천만 시대 - queen.co.kr",
+      "published": "2026-08-14T08:30:00+00:00",
+      "summary": "[명의] 대한민국 당뇨병 위험 인구 2천만 시대&nbsp;&nbsp;queen.co.kr식사 순서만 바꿔도 식후 혈당 달라져…‘스마트 혈당관리’ 시대 열려&nbsp;&nbsp;현대건강신문'명의' 김재현 교수가 알려주는 스마트해진 당뇨병 치료법&nbsp;&nbsp;비즈엔터당뇨병도 아닌데 수시로 혈당 측정… 무슨 도움되나?&nbsp;&nbsp;헬스조선혈당을 지켜라…당뇨병 최신 치료법과 관리법 (EBS 명의)&nbsp;&nbsp;wikitree.co.kr",
+      "sources": [
+        {
+          "name": "queen.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ITUM4YjE0T3RvQW53Rnl4czQ0UmxjOXpwRThEOC1ocENWTTQ5UWt4WnJGdUxjdjUtb3VHcnJwMDFVUDF3RlV2UkJkQU5ZdC00c2dsYjdGR2xwOEJmR0JWX3BoNGc3MTUy?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cc1578d3a3eb",
       "title": "코뼈 골절, 외형 변화에서 코막힘으로 이어져…초기 진단과 치료가 중요 - 바이오타임즈",
       "published": "2026-08-14T07:52:21+00:00",
@@ -174,37 +210,25 @@
       ]
     },
     {
-      "id": "9d8d4850004b",
-      "title": "‘54세’ 김석훈 “침대서 일어나다‥” 골절 공포 고백(세개의 시선) - 뉴스엔",
-      "published": "2026-08-14T07:37:55+00:00",
-      "summary": "‘54세’ 김석훈 “침대서 일어나다‥” 골절 공포 고백(세개의 시선)&nbsp;&nbsp;뉴스엔'54세' 김석훈, '골절 공포'에 초긴장&nbsp;&nbsp;뉴시스'건강 히어로' 골다공증의 위험성, 뼈 건강 관리법 조명&nbsp;&nbsp;gukjenews.com김석훈, “침대에서 일어나다 고관절이?”…‘세 개의 시선’ 여름철 골절 위험 짚는다&nbsp;&nbsp;topstarnews.net‘54세’ 김석훈 “침대서 일어나다‥” 골절 위기 공포 고백(세개의 시선)&nbsp;&nbsp;뉴스엔",
-      "sources": [
-        {
-          "name": "뉴스엔",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yRmFWc3d2UEVzUDY1X2JiVm9wRDhOQkZhZ1pkbDJMMFZYVTZYUkFWY3Q4eE5hNlFSck1QeV9xMW84NHQ2aFV0Z2V5ZURzWktzVzVfOEJEQXhDOUVIbWpZM2RkRFBzeVRGZDZjRUhtRkI4cVBrUVhWUFZfOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "372343d0ff04",
-      "title": "40세 이후 에스트로겐 보충하면 로화를 늦춘다?--건강 - 인민넷",
+      "id": "aa030840d697",
+      "title": "40세 이후 에스트로겐 보충하면 로화를 늦춘다?--건강 - korean.people.com.cn",
       "published": "2026-08-14T07:20:00+00:00",
-      "summary": "40세 이후 에스트로겐 보충하면 로화를 늦춘다?--건강&nbsp;&nbsp;인민넷",
+      "summary": "40세 이후 에스트로겐 보충하면 로화를 늦춘다?--건강&nbsp;&nbsp;korean.people.com.cn",
       "sources": [
         {
-          "name": "인민넷",
+          "name": "korean.people.com.cn",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTUlzaW1rSkFlWmwyWmd5MENvazVtdVBRZjZCZVhrNXNIcTc0Y09qYk9Yc2ZkRzJxS1pHTHdveEYxMlJOTnZhOHc0anZNT2F6WHlOVERjM2tIRVZxeVh5anRkOUhNVnVnbVJnSFN3?oc=5"
         }
       ]
     },
     {
-      "id": "f216ce0fb04a",
-      "title": "\"붙이기만 해도 불면증 해결?\"…렘수면 초음파 패치 나왔다 - 아시아경제",
+      "id": "909a99a9fe1d",
+      "title": "\"붙이기만 해도 불면증 해결?\"…렘수면 초음파 패치 나왔다 - asiae.co.kr",
       "published": "2026-08-14T06:42:54+00:00",
-      "summary": "\"붙이기만 해도 불면증 해결?\"…렘수면 초음파 패치 나왔다&nbsp;&nbsp;아시아경제",
+      "summary": "\"붙이기만 해도 불면증 해결?\"…렘수면 초음파 패치 나왔다&nbsp;&nbsp;asiae.co.kr",
       "sources": [
         {
-          "name": "아시아경제",
+          "name": "asiae.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HY3JaZkp3czJKQXp3QXhETUZ2RXd1VHU4ZVVnbnB5YUQzcUVLdmlkeUVMd3R5bVh5c0tzMDcxVjBXRzE0alg0ay1NWTgtUzlSZ1RKd2xSSDhDejBvZ2ZIaQ?oc=5"
         }
       ]
@@ -225,7 +249,7 @@
       "id": "22b410d40d5f",
       "title": "고온다습한 여름철 Y존 통증·위생문제 ‘소음순 비대’ 원인 - 코리아헬스로그",
       "published": "2026-08-14T03:23:03+00:00",
-      "summary": "고온다습한 여름철 Y존 통증·위생문제 ‘소음순 비대’ 원인&nbsp;&nbsp;코리아헬스로그여름철 덥고 습한 날씨, 왜 여성질환 잦을까?… 방치하면 난임·복막염 유발&nbsp;&nbsp;후생신보KH한국건강관리협회 서울강남지부, HPV 검사 항목 확대… 28종 유전형 분석으로 여성 건강관리 강화&nbsp;&nbsp;성광일보【건강백세】 끈적끈적 ‘한국형 여름’ 건강 위협&nbsp;&nbsp;시사뉴스[건강톡톡] 덥고 습한 여름철, 여성 건강 적신호… 방치하면 ‘난임’까지&nbsp;&nbsp;간호사신문",
+      "summary": "고온다습한 여름철 Y존 통증·위생문제 ‘소음순 비대’ 원인&nbsp;&nbsp;코리아헬스로그KH한국건강관리협회 서울강남지부, HPV 검사 항목 확대… 28종 유전형 분석으로 여성 건강관리 강화&nbsp;&nbsp;성광일보【건강백세】 끈적끈적 ‘한국형 여름’ 건강 위협&nbsp;&nbsp;시사뉴스",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -249,7 +273,7 @@
       "id": "832d579612df",
       "title": "평소 계단 올랐을 뿐인데…“심혈관질환 사망 위험 39% 낮았다” - 하이닥",
       "published": "2026-08-14T01:00:00+00:00",
-      "summary": "평소 계단 올랐을 뿐인데…“심혈관질환 사망 위험 39% 낮았다”&nbsp;&nbsp;하이닥계단 자주 오르면 사망 위험 24% ↓…하루 6개 층이 최적? [바디플랜]&nbsp;&nbsp;동아일보[건강포커스] \"평소 계단 오르는 사람, 심혈관질환 사망 위험 39% 낮아\"&nbsp;&nbsp;v.daum.net\"계단 한 층만 올라도 '헥헥', 엘리베이터 탈래\"…'이 습관'이 수명 갈랐다 [헬시타임]&nbsp;&nbsp;네이트돈 안 들고 건강하게 사는 방법... 하루에 계단 ‘이만큼만’ 타면 심혈관 사망률 39% 낮아집니다&nbsp;&nbsp;insight.co.kr",
+      "summary": "평소 계단 올랐을 뿐인데…“심혈관질환 사망 위험 39% 낮았다”&nbsp;&nbsp;하이닥계단 자주 오르면 사망 위험 24% ↓…하루 6개 층이 최적? [바디플랜]&nbsp;&nbsp;동아일보운동 따로 할 필요 없어요… 집 가는 길 ‘이것’만 하면 심혈관 튼튼&nbsp;&nbsp;헬스조선[건강포커스] \"평소 계단 오르는 사람, 심혈관질환 사망 위험 39% 낮아\"&nbsp;&nbsp;v.daum.net\"계단 한 층만 올라도 '헥헥', 엘리베이터 탈래\"…'이 습관'이 수명 갈랐다 [헬시타임]&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "하이닥",
@@ -258,14 +282,14 @@
       ]
     },
     {
-      "id": "e98b984ca5d9",
-      "title": "중국, ‘암묵의 계약’으로 갱신되는 엔지니어의 나라 - 한겨레",
-      "published": "2026-08-14T00:16:00+00:00",
-      "summary": "중국, ‘암묵의 계약’으로 갱신되는 엔지니어의 나라&nbsp;&nbsp;한겨레",
+      "id": "77e8dd436e60",
+      "title": "[세 개의 시선] \"침대에서 일어나다 고관절이 꺾였다?\" 50대 김석훈 초긴장...평범한 일상 속 '골절 공포' 집중 조명! - rnx.kr",
+      "published": "2026-08-14T00:36:34+00:00",
+      "summary": "[세 개의 시선] \"침대에서 일어나다 고관절이 꺾였다?\" 50대 김석훈 초긴장...평범한 일상 속 '골절 공포' 집중 조명!&nbsp;&nbsp;rnx.kr턱턱 막히는 숨, 척추 골절 원인일 수도…역류성 식도염·소화불량 위험 증가 (세개의시선) - 조선비즈&nbsp;&nbsp;Chosunbiz'54세' 김석훈, '골절 공포'에 초긴장&nbsp;&nbsp;뉴시스'건강 히어로' 골다공증의 위험성, 뼈 건강 관리법 조명&nbsp;&nbsp;gukjenews.com작은 충격에도 뼈가‘뚝’… 골절 후 골다공증 치료 중요&nbsp;&nbsp;백세시대",
       "sources": [
         {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hV2ZrT1VabHlyOUVGa01JUlpyRWtSNUFVMzFSbjgtaC1oMjB0YzBSUmRGZWcyeHMzSjk0N1loeUN0NHJ1NE9STWwyV3hYckVnaTIxN2RmSWJxSVZhbTdXU2I0MFRuUQ?oc=5"
+          "name": "rnx.kr",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lMkU1N3VkRnZHUGNCQnpWSmJNYXQtUTVpcWozWFFFbDh1cFAxREFyck40Znc4RWdrMlFsYTRUTXlZYUNpUWp3M0RBQjlsSkJwRUJFaE1jZWxmdkRKZnREZk1R?oc=5"
         }
       ]
     },
@@ -273,23 +297,11 @@
       "id": "ae174357311a",
       "title": "GLP-1 RA, 실사용 환경에서 당뇨병 환자 사망 위험 22% 감소 - 의약뉴스",
       "published": "2026-08-13T21:00:00+00:00",
-      "summary": "GLP-1 RA, 실사용 환경에서 당뇨병 환자 사망 위험 22% 감소&nbsp;&nbsp;의약뉴스비만치료제 속 ‘이 성분’, 제2형 당뇨·심혈관질환 사망 위험 45%↓&nbsp;&nbsp;하이닥마운자로 성분, 심근경색 위험 33% 낮출 가능성…연구&nbsp;&nbsp;네이트비만 치료제, 심장마비·감염 입원 위험도 낮췄다&nbsp;&nbsp;health.chosun.com",
+      "summary": "GLP-1 RA, 실사용 환경에서 당뇨병 환자 사망 위험 22% 감소&nbsp;&nbsp;의약뉴스비만치료제 속 ‘이 성분’, 제2형 당뇨·심혈관질환 사망 위험 45%↓&nbsp;&nbsp;하이닥마운자로 성분, 심근경색 위험 33% 낮출 가능성…연구&nbsp;&nbsp;네이트비만 치료제, 심장마비·감염 입원 위험도 낮췄다&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "의약뉴스",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLb2ljRFFHalRjaEtEekJmUmtmUDJnaWV0Q2d3a2dIXzl5a0NZRzVpNmNMeDhZLTVoRnp6aVg3WEI0ZmlWM3ZkekFrV0FJTUszNHZwMVVrUlhCY0JiX0FmSUlkT1pDM09i?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "98eaf98690c2",
-      "title": "[건강포커스] ＂3분간 전력 질주, 90분 중강도 운동보다 혈액 단백질 변화 커＂ - 한국경제TV",
-      "published": "2026-08-13T20:00:00+00:00",
-      "summary": "[건강포커스] ＂3분간 전력 질주, 90분 중강도 운동보다 혈액 단백질 변화 커＂&nbsp;&nbsp;한국경제TV",
-      "sources": [
-        {
-          "name": "한국경제TV",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOXE2Q0U0RkR2WG0wZHpuTUlEM3VOMFRtaDNWTXhLSFJaTGl4cTNqaGYwdzcyYkpnSHRVQTIybGpNWEdVM2dxa09Oa3NaeEVuOElfQWk2ZDcxanBqdmh3bVJjUk51RkxqYkZJR3ZfZFhvWjkxb0ZKZUFmWWxZRGNYNw?oc=5"
         }
       ]
     },
@@ -306,110 +318,14 @@
       ]
     },
     {
-      "id": "0e6304becc53",
-      "title": "“간에 쌓인 지방, 어떻게 빼지?” 붉은 빛 ‘이 과일’ 매일 먹어라 - health.chosun.com",
-      "published": "2026-08-13T11:30:00+00:00",
-      "summary": "“간에 쌓인 지방, 어떻게 빼지?” 붉은 빛 ‘이 과일’ 매일 먹어라&nbsp;&nbsp;health.chosun.com“간 망가져” 의사 경고 나왔다··· 샐러드 잘못 먹다가 ‘날벼락’, 무슨 일?&nbsp;&nbsp;밴쿠버 조선일보새로운 연구에 따르면 토마토를 섭취하는 것이 간 건강에 예상치 못한 이점을 줄 수 있다고 합니다.&nbsp;&nbsp;Vietnam.vn\"술도 안 마시는데 지방간\"…의사가 '이것'부터 끊으라는 이유&nbsp;&nbsp;뉴시스“이걸로 간 수치가 잡히네” 5060대 지방간 걱정 덜어주는 의외의 식재료 5가지&nbsp;&nbsp;뉴스와",
-      "sources": [
-        {
-          "name": "health.chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2YlluNVFZdENXZDFvcXBTbWJlRWlsbXd2ODBPZFp3VFV6TWs5Um0xaXFoUktFX21NZVh0dFlGZ0ZFZnJ5X0l3b19KSk9LRmRpbFlEVGZKSDVZT2IzTTNtdUVoMGRkdVZLZzZPQVdTRGdRTzZSVDJUVEVKREJYaG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a1a89ffb2b9e",
-      "title": "연구, 첨단융합학부 이준석 교수팀, 단백질 상호작용을 선택적으로 포착하는 새로운 광친화성 표지 기술 - 서울대학교",
-      "published": "2026-08-13T11:00:57+00:00",
-      "summary": "연구, 첨단융합학부 이준석 교수팀, 단백질 상호작용을 선택적으로 포착하는 새로운 광친화성 표지 기술&nbsp;&nbsp;서울대학교",
-      "sources": [
-        {
-          "name": "서울대학교",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ud1JOcXlYNVpyVVlGV0NJVFNkNWFmVzdEbkdHeFNUVmUxOWtNSTNZejZBTkNaQmRpX0l6UlV5Y0pudjU4VE5LcENLaHk4N2FNYk1nRm5MNm0xbGt3eHc2d1VKTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "73d219de62cb",
-      "title": "고령 유방암 생존자, 이차암 위험 3배 높아… 공복 혈당도 영향 - 하이닥",
-      "published": "2026-08-13T10:00:00+00:00",
-      "summary": "고령 유방암 생존자, 이차암 위험 3배 높아… 공복 혈당도 영향&nbsp;&nbsp;하이닥유방암 생존자, 나이·혈당 높을수록 ‘이차암’ 위험 커&nbsp;&nbsp;v.daum.net국립암센터 “고령·고혈당 유방암 생존자, 이차암 위험 최대 3.6배↑”&nbsp;&nbsp;전자신문고령 유방암 경험자, 이차암 주의&nbsp;&nbsp;health.chosun.com국립암센터, 유방암 생존자 이차암 예측 요인 분석&nbsp;&nbsp;로이슈",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55VXZTYlg3T2NnWW1iR2dWNWZEbFFVZTVfQnBQR201Z0pfME5iNXFBbjNscEtZdEJ0VnNVZWoteGh6ZWhhcmhkbGxod2pEZTB4QVIwVUNBZm1TeGxhbEdib1NTZzM0bnd0OGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a9c983f7fe7",
-      "title": "[100세 과학] 겨울이 오고 있다…추위 대응 이끄는 뉴런 발견 - 조선비즈 - biz.chosun.com",
+      "id": "224e5ddc4850",
+      "title": "[100세 과학] 겨울이 오고 있다…추위 대응 이끄는 뉴런 발견 - 조선비즈 - Chosunbiz",
       "published": "2026-08-13T09:00:00+00:00",
-      "summary": "[100세 과학] 겨울이 오고 있다…추위 대응 이끄는 뉴런 발견 - 조선비즈&nbsp;&nbsp;biz.chosun.com",
+      "summary": "[100세 과학] 겨울이 오고 있다…추위 대응 이끄는 뉴런 발견 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
-          "name": "biz.chosun.com",
+          "name": "Chosunbiz",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVk5yeURQLTdOa0E0d0Y3MS1YNkVHOUt0T2RVZ1JKZXVvdnpOV3B3NmdTeGxiOW94TzA0R0cyRmNSb0pBMlhnRVNhRGwwRWF5Z3I5R3NHci1DRUlvd00xb0V5eUJlV1NZdzdrTjlqRWxQT3pMYS1KVHp4clBPVkVKV3czVzNndjVhMk9rUNIBoAFBVV95cUxQYUlSYnJZX1ZHbTB1Y0I2Z1ZyWm4yR1BmQkx6cGI1UzdtdC1lSkdqUk1EQ2lzQzNyS2szckJ1YkUwemhULTA4TnFNYVhYLWFhSXpBN3dmb0lacG5qWW5hWXhpYzRvaVNTX2tXUG13aHhqUWtybXZTYXBQNmRpZmlTR1hqY3BXb0hHRFJ0YnNjMmpFM04yRDl3Vzhyc2hBelNo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "60f85c6a6b95",
-      "title": "미국 밴더빌트헬스, 심장이식 만성 거부 유전자 패턴 규명 - 바이오북미디어",
-      "published": "2026-08-13T08:51:00+00:00",
-      "summary": "미국 밴더빌트헬스, 심장이식 만성 거부 유전자 패턴 규명&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zaF9Bb3c0LVkwRTJxdVU2VkpfazYwbDY1V1N6aVlFdm1HMmFERmw5NFBDRUtiZW1MQlY0a2tjS3hvSkdNeWUweXg3b3Y1eEtGX0N5Qw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5de3602769ef",
-      "title": "\"간섬유화 혈액표지자 수치 높으면 심혈관질환 위험도 상승\" - LG헬로비전",
-      "published": "2026-08-13T07:16:05+00:00",
-      "summary": "\"간섬유화 혈액표지자 수치 높으면 심혈관질환 위험도 상승\"&nbsp;&nbsp;LG헬로비전",
-      "sources": [
-        {
-          "name": "LG헬로비전",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iTFBROUFobUNNbGpFa0UzVDlVamJEc0tYMWNLT0NCV0R5cHF5LVZTQmNQMk85TWwzZUJyZzJDSFViYmpGaWZzVXJLQXlQYjk2QXhseFpIV01BV0NhVWlSSVVnRjVkdGJyUVZnb0VkcmJwdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4d0737fd86b",
-      "title": "달리기 즐기는 사람 VS 웨이트운동 즐기는 사람, 누가 더 장수할가?--건강 - 인민넷",
-      "published": "2026-08-13T07:15:00+00:00",
-      "summary": "달리기 즐기는 사람 VS 웨이트운동 즐기는 사람, 누가 더 장수할가?--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mTEhuNVM0QkxNUWNBMWlYc2VZRUJEV2FXM2o2Nkl1STNzRmZReVlNajU4QmtxNWlrOXdoeXc2dHBra3RkaHEtd3FYYlJvczg3dXBFZEZJWE04dWJYYkxEbVNXdFhnLXdwNjZrd3h3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "022424e150eb",
-      "title": "에스트로겐 단독 호르몬요법, 치매 위험 39% 낮춰 - health.chosun.com",
-      "published": "2026-08-13T06:44:00+00:00",
-      "summary": "에스트로겐 단독 호르몬요법, 치매 위험 39% 낮춰&nbsp;&nbsp;health.chosun.com",
-      "sources": [
-        {
-          "name": "health.chosun.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wMGtEOERWM054ZE9iWElsTHBsUWViX1JWRWQ2aEcyYmk4YVhMWklvVU5GRjEtTzNCSF9KZUFZT1hZVmhpaHVfQWs2V0JzeGZfNGVjbi0yZWM2ZlN1R3p6YXc0WUdUYzNCb1lHX0kydzZ4aUVxR0hUVGZLSTBERlU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "493709d4708f",
-      "title": "기존 검사로 못 찾던 천식 핵심 유전자, 새 분석법으로 찾아낸다 - 하이닥",
-      "published": "2026-08-13T06:00:00+00:00",
-      "summary": "기존 검사로 못 찾던 천식 핵심 유전자, 새 분석법으로 찾아낸다&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zN2R0amJzZlNBUDJYLXAwUVc3S05hdS13NVJFNkd2M3ZSVlhiNEFHeVdNZWhUU2hoZmtTdmR5R29mUTJ6V0lfWnF2QTJDM201ZkFqdFptTF90MXVSWUE4bzF4NmRuOFpab3c?oc=5"
         }
       ]
     },
@@ -422,30 +338,6 @@
         {
           "name": "바이오스펙테이터",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKYlRvVHMyVWVab252dkpxdllkdlloOHNuZFdUY0lRNjkyRzQwb1F0Zm9qV0R2ZHdDS3QwSmtieHBMVU9uT1YtLXV4eGVwelFZNWVoSHpDVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ea731db30bd",
-      "title": "앤트로픽 미공개 모델, 160년 수학 난제 '리만 가설' 연구서 대기록 - AI타임스",
-      "published": "2026-08-12T10:35:00+00:00",
-      "summary": "앤트로픽 미공개 모델, 160년 수학 난제 '리만 가설' 연구서 대기록&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HSEdBQk9HMmhDbktfbW9xanYyZDN0eE80bVhWLWdYa3pYaWppRUR6NVE0QmRDQ1NWdW5UWUpMVVh2THhKaGtNMVJ0aTV0TnZLT0ZmemFlVWM5dkJPVi0tbWF0aG05dWxHc1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "adfc3c293cd0",
-      "title": "비만치료제 통념 뒤집혀…'식욕 스위치' 켜니 지방 감소 - v.daum.net",
-      "published": "2026-08-12T08:47:37+00:00",
-      "summary": "비만치료제 통념 뒤집혀…'식욕 스위치' 켜니 지방 감소&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wTkVaTXhmdy1GMlExVUxnbVVIYklMcXhCVXlJMDJWZUVremExV2lmMm9QZEdqVlNHRWUwR2FZYnR0OGZ3SkpSbjdBZjdRc1U?oc=5"
         }
       ]
     }
