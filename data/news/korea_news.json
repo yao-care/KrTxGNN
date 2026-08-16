@@ -1,15 +1,15 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-16T12:43:12.037312+00:00",
-  "total_fetched": 54,
-  "unique_count": 54,
-  "health_related_count": 22,
+  "fetched_at": "2026-08-16T18:32:23.115623+00:00",
+  "total_fetched": 51,
+  "unique_count": 51,
+  "health_related_count": 19,
   "news": [
     {
       "id": "924ae4656974",
       "title": "“치매 발병 최대 12년 늦춘다”…‘당뇨·고혈압·흡연’ 피하면 치매 위험↓ - 동아일보",
       "published": "2026-08-16T09:07:08+00:00",
-      "summary": "“치매 발병 최대 12년 늦춘다”…‘당뇨·고혈압·흡연’ 피하면 치매 위험↓&nbsp;&nbsp;동아일보“치매 발병 시기 최대 12년 늦출 수 있다”…지금 당장 끊고 잡아야 할 ‘이것’&nbsp;&nbsp;v.daum.net“이 세가지만 피하세요”…치매 없이 사는 기간 13년 길어졌다&nbsp;&nbsp;농민신문45세부터 치매 예방하기: 3가지 위험 요인 관리&nbsp;&nbsp;vietnam.vn고혈압·당뇨 앓고 담배 피는 중년, “치매 발병 시점 12.6년 빠르다”&nbsp;&nbsp;하이닥",
+      "summary": "“치매 발병 최대 12년 늦춘다”…‘당뇨·고혈압·흡연’ 피하면 치매 위험↓&nbsp;&nbsp;동아일보“치매 발병 시기 최대 12년 늦출 수 있다”…지금 당장 끊고 잡아야 할 ‘이것’&nbsp;&nbsp;v.daum.net\"치매 발병 최대 12년 늦춘다\"…'당뇨·고혈압·흡연' 피하면 치매 위험↓&nbsp;&nbsp;뉴시스“이 세가지만 피하세요”…치매 없이 사는 기간 13년 길어졌다&nbsp;&nbsp;농민신문45세부터 치매 예방하기: 3가지 위험 요인 관리&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "동아일보",
@@ -18,26 +18,26 @@
       ]
     },
     {
-      "id": "283b361e2874",
-      "title": "‘염증 스위치’ 차단해 폐암 억제…쥐 종양 크게 줄었다 - 조선비즈 - Chosunbiz",
-      "published": "2026-08-16T08:14:00+00:00",
-      "summary": "‘염증 스위치’ 차단해 폐암 억제…쥐 종양 크게 줄었다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "id": "36b7c9a211ca",
+      "title": "\"항암은 체력전\"…암 환자 근육량 늘릴 전략 찾았다 - 네이트",
+      "published": "2026-08-16T06:19:00+00:00",
+      "summary": "\"항암은 체력전\"…암 환자 근육량 늘릴 전략 찾았다&nbsp;&nbsp;네이트“암 환자, 체중·근육 급격 감소”자칫 사망까지…‘암 악액질’ 장내 미생물로 잡는다&nbsp;&nbsp;v.daum.net장내 미생물로 ‘암 악액질’ 완화…근육 감소 막았다&nbsp;&nbsp;chosun.com암 환자 생존 위협 '암 악액질' 장내 미생물로 개선...KIST, 새로운 치료전략 제시&nbsp;&nbsp;전자신문암 환자 괴롭히는 최악의 합병증 장내미생물로 잡는다&nbsp;&nbsp;서울신문",
       "sources": [
         {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazNETmFCdkVOY2l2dVUyQndETXBTZ25xLUhMcVN1cnRKQ0g4cDVrLVNpMUZqSkEyamtBM2d2UkZIX1ZqU2hmZTU1NGt5eFk0b1ljXzdoUnZ2Q0FDbnBRT3JJblNkb0xleWNCSEpnSjZwX0Z4TlJZd1gxMWNpWlYzLWp1cmNHVFhBVkFQOdIBoAFBVV95cUxObllTdzl6QTJyYVY0VzA3NnIzNVVNcS1XcGxuZWY4QW1SSXlqOVY4QkpESXRRRVh0eTJjQUNFNHgzb3U1bjg4SWQ3M05VclUydVBBSHBBeE1pd20tQ0lkZlpXa0pHT1JOWTNpZFUtYkRtNHQ5eC14QjNqQi1rZGY5UmljeFdkV0lFcnRxaUZCV2xVX1AyUm8tdUs5dFNtRnBf?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iU0tDc3RFMVczM2U2NFJ2a3o4MHZGMF94OWpyVlhnZVd5RFpyOXFqM0VCdEx0TFVsSDlqazhWQVhRbG1pQlR1SE5zUWZqVjE5U3Z3?oc=5"
         }
       ]
     },
     {
-      "id": "6ffe3164edcb",
-      "title": "암 환자 위협하는 합병증 '악액질', 장내 미생물로 조절 - news.sbs.co.kr",
-      "published": "2026-08-16T04:59:00+00:00",
-      "summary": "암 환자 위협하는 합병증 '악액질', 장내 미생물로 조절&nbsp;&nbsp;news.sbs.co.kr“암 환자, 체중·근육 급격 감소”자칫 사망까지…‘암 악액질’ 장내 미생물로 잡는다&nbsp;&nbsp;v.daum.net암 환자 근육 지키는 장내 미생물…‘암 악액질’ 치료 가능성&nbsp;&nbsp;동아일보암 환자 생존 위협 '암 악액질' 장내 미생물로 개선...KIST, 새로운 치료전략 제시&nbsp;&nbsp;전자신문암 환자 괴롭히는 최악의 합병증 장내미생물로 잡는다&nbsp;&nbsp;서울신문",
+      "id": "24c735c88be4",
+      "title": "AI가 환자 암 분석해 백신 설계…'개인맞춤형 암백신' 어디까지 왔나 [노화설계] - 네이트",
+      "published": "2026-08-16T01:01:00+00:00",
+      "summary": "AI가 환자 암 분석해 백신 설계…'개인맞춤형 암백신' 어디까지 왔나 [노화설계]&nbsp;&nbsp;네이트AI가 환자 암 분석해 백신 설계…‘개인맞춤형 암백신’ 어디까지 왔나 [노화설계]&nbsp;&nbsp;동아일보20화 에필로그|좋은 기술과 좋은 주식 사이, 다시 정리하며&nbsp;&nbsp;브런치암세포만 골라 DNA 자르는 유전자가위…새 항암 전략 제시&nbsp;&nbsp;연합뉴스IBS 유전체 항상성 연구단, 암세포 돌연변이만 사멸하는 '4세대 항암제' 도전&nbsp;&nbsp;전자신문",
       "sources": [
         {
-          "name": "news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcktNTkhYLXE4OFotd1MyMlJpbmdVSlA0bXQ3SmdzUGZxbFRTN2w3eUx0VFVwRDA5dlFJYWZpdFNiLWxSeTh2TmtsX3VySG5uRi00LUVvMWNJb002R3lhY2FObWR1VHE2dHc?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZGRJaEFaVmJJVmN4dUhnWHNxV3JYVENqNGM0clZickpROTk0VVN1YktKc25LckZqclNJSEw0WHFybzdyRVA1S1g5dTZfckNod1dR?oc=5"
         }
       ]
     },
@@ -69,7 +69,7 @@
       "id": "c79173a34741",
       "title": "“장내 세균까지 바뀐다” 대장암 위험 높이는 습관 3가지 - 헬스조선",
       "published": "2026-08-15T20:00:00+00:00",
-      "summary": "“장내 세균까지 바뀐다” 대장암 위험 높이는 습관 3가지&nbsp;&nbsp;헬스조선“암인 줄 모르고 케겔 운동”…대장암 한의사 후회한 ‘최악 음식’&nbsp;&nbsp;v.daum.net70세 넘도록 용종 하나 없던 사람들, ‘이것’만큼은 평생 입에도 안 댔다&nbsp;&nbsp;news-wa.com[영상] 식탁에서 ‘이것’ 하나 치웠을 뿐인데…대장암 위험 ‘확’ 줄었다 [헬시타임]&nbsp;&nbsp;서울경제“열두 살에 대장암 말기”… 할머니와 살며 매일 먹은 음식, 뭐야?&nbsp;&nbsp;헬스조선",
+      "summary": "“장내 세균까지 바뀐다” 대장암 위험 높이는 습관 3가지&nbsp;&nbsp;헬스조선“암인 줄 모르고 케겔 운동”…대장암 한의사 후회한 ‘최악 음식’&nbsp;&nbsp;v.daum.net70세 넘도록 용종 하나 없던 사람들, ‘이것’만큼은 평생 입에도 안 댔다&nbsp;&nbsp;뉴스와[영상] 식탁에서 ‘이것’ 하나 치웠을 뿐인데…대장암 위험 ‘확’ 줄었다 [헬시타임]&nbsp;&nbsp;서울경제“열두 살에 대장암 말기”… 할머니와 살며 매일 먹은 음식, 뭐야?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -117,7 +117,7 @@
       "id": "dce7db49d2cf",
       "title": "아크연구소·스탠퍼드팀, AI 설계 박테리오파지 첫 개발 - 바이오북미디어",
       "published": "2026-08-15T07:09:00+00:00",
-      "summary": "아크연구소·스탠퍼드팀, AI 설계 박테리오파지 첫 개발&nbsp;&nbsp;바이오북미디어[사이언스샷] 유전자 가위로 무장한 바이러스, 슈퍼박테리아 잡았다 - 조선비즈&nbsp;&nbsp;Chosunbiz신약 넘어 생명체 설계…바이오 AI 경쟁 새 라운드&nbsp;&nbsp;한국경제[탐구활동] ‘찾는 AI’에서 ‘설계하는 AI’로…생명과학에서 6년 만에 바뀐 AI의 역할&nbsp;&nbsp;교육을 비추다AI로 완전히 새로운 바이러스를 설계한다...기대와 우려는?&nbsp;&nbsp;BBC",
+      "summary": "아크연구소·스탠퍼드팀, AI 설계 박테리오파지 첫 개발&nbsp;&nbsp;바이오북미디어[사이언스샷] 유전자 가위로 무장한 바이러스, 슈퍼박테리아 잡았다 - 조선비즈&nbsp;&nbsp;Chosunbiz신약 넘어 생명체 설계…바이오 AI 경쟁 새 라운드&nbsp;&nbsp;한국경제[탐구활동] ‘찾는 AI’에서 ‘설계하는 AI’로…생명과학에서 6년 만에 바뀐 AI의 역할&nbsp;&nbsp;교육을 비추다AI가 '세균 잡는 바이러스' 통째로 설계…285개 중 16개 작동&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "바이오북미디어",
@@ -150,26 +150,14 @@
       ]
     },
     {
-      "id": "74d014ab8e98",
-      "title": "미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다 - 하이닥",
-      "published": "2026-08-15T03:30:00+00:00",
-      "summary": "미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다&nbsp;&nbsp;하이닥미세먼지에 오래 노출됐더니… 눈 건강에 나타난 변화&nbsp;&nbsp;금강일보“단순 눈 충혈인 줄 알았는데”…미세먼지 오래 마셨다가 ‘뜻밖의 봉변’&nbsp;&nbsp;v.daum.net고려대 구로병원, 탄소입자 장기 노출 따른 안구 손상 규명&nbsp;&nbsp;로이슈미세먼지 장기 노출, 눈 건강 해치고 노화 세포 늘린다&nbsp;&nbsp;한국일보",
+      "id": "fb1c1511577c",
+      "title": "미세먼지에 오래 노출됐더니… 눈 건강에 나타난 변화 - 금강일보",
+      "published": "2026-08-15T05:20:00+00:00",
+      "summary": "미세먼지에 오래 노출됐더니… 눈 건강에 나타난 변화&nbsp;&nbsp;금강일보“단순 눈 충혈인 줄 알았는데”…미세먼지 오래 마셨다가 ‘뜻밖의 봉변’&nbsp;&nbsp;v.daum.net고려대 구로병원, 탄소입자 장기 노출 따른 안구 손상 규명&nbsp;&nbsp;로이슈미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다&nbsp;&nbsp;하이닥미세먼지 장기 노출, 눈 건강 해치고 노화 세포 늘린다&nbsp;&nbsp;한국일보",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13WkdORmlWUFFVQmF5eWNhMFJMRjQ5SEI5N1JsNnJsTEVCd0FUUWhxYm9lWWktbFdTMklzYjBoNzlFWmljV0lpbUFvYkFWRXlIQmRlQkt2dlc4TXNlUVg2eUFKdnYtVVZOYlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a2c797b2e21d",
-      "title": "최신 당뇨약 나왔지만 보험 문턱은 15년 전…엇박자 난 치료 [15년 전 당뇨①] - 쿠키뉴스",
-      "published": "2026-08-15T03:08:18+00:00",
-      "summary": "최신 당뇨약 나왔지만 보험 문턱은 15년 전…엇박자 난 치료 [15년 전 당뇨①]&nbsp;&nbsp;쿠키뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "쿠키뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoNXR1M0xWZ19xdnAxNGZVMDFZdkN1eGN0QzhyMHV0bk93aGNiVXdEUGR1R21rRElvWlRxMzBPZ25mYmxWb3BxMlBLanhiUG5FYlh1emJPdFlCaURmOHAzVkxhRQ?oc=5"
+          "name": "금강일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jQTBFN2JTVDQwQnFYSlJ5d05jVWhUUVNqWWxHdHRCQ0xPdlpsRHdwZUN6aUFZZG43Sk90eXJub0VoSmIwNVBweGVhMUZhS0U2NzgzQWpYdlRWZEM3VG8zSmctZEFCQ2dmbVE?oc=5"
         }
       ]
     },
@@ -213,7 +201,7 @@
       "id": "f061a7d1b8cb",
       "title": "서울대 연구팀, AI 기반 로봇 바이오프린팅으로 당뇨병성 궤양 정밀 치료 새 지평을 열다! - 한국AI부동산신문",
       "published": "2026-08-14T20:44:18+00:00",
-      "summary": "서울대 연구팀, AI 기반 로봇 바이오프린팅으로 당뇨병성 궤양 정밀 치료 새 지평을 열다!&nbsp;&nbsp;한국AI부동산신문아이메디텍, 韓·美 컨소시엄 통해 '피지컬AI 창상치료' 국책과제 - 머니투데이&nbsp;&nbsp;머니투데이AI가 상처 형태 읽고 현장 인쇄…맞춤형 바이오프린팅 기술 개발&nbsp;&nbsp;kndaily.co.kr서울대 연구팀, AI 로봇으로 당뇨병성 상처 맞춤 치료 기술 개발&nbsp;&nbsp;뉴스N연합",
+      "summary": "서울대 연구팀, AI 기반 로봇 바이오프린팅으로 당뇨병성 궤양 정밀 치료 새 지평을 열다!&nbsp;&nbsp;한국AI부동산신문Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "한국AI부동산신문",
@@ -234,38 +222,14 @@
       ]
     },
     {
-      "id": "227630a536b0",
-      "title": "다리에서 ‘점’ 발견한 이후로… 16년간 암 6번 겪은 여성, 사연 보니? - 헬스조선",
-      "published": "2026-08-14T14:30:00+00:00",
-      "summary": "다리에서 ‘점’ 발견한 이후로… 16년간 암 6번 겪은 여성, 사연 보니?&nbsp;&nbsp;헬스조선",
+      "id": "1703862e5aad",
+      "title": "[단독]NIPA, '피지컬 AI 추진단' 신설…관련 사업·지원 확대 - MTN 머니투데이방송",
+      "published": "2026-08-14T01:46:23+00:00",
+      "summary": "[단독]NIPA, '피지컬 AI 추진단' 신설…관련 사업·지원 확대&nbsp;&nbsp;MTN 머니투데이방송",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0NjRna08zVFVMbmJQaHFxb0FzeU9wOFBqcU9GVV9hZHg3SjBMNlRYOW5pdkhDXzBvRllCUTU3OG5DUVdEYXI1d0FLWmJfemVHOWdWREJFNl9LM1FPc2txcVdob1VidTlHZGI4TWJZNHB0ZzBMNnd3NS1Ib0pVUmM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "124076e178c9",
-      "title": "'명의' 김재현 교수가 알려주는 스마트해진 당뇨병 치료법 - 비즈엔터",
-      "published": "2026-08-14T12:50:22+00:00",
-      "summary": "'명의' 김재현 교수가 알려주는 스마트해진 당뇨병 치료법&nbsp;&nbsp;비즈엔터식사 순서만 바꿔도 식후 혈당 달라져…‘스마트 혈당관리’ 시대 열려&nbsp;&nbsp;현대건강신문당뇨병도 아닌데 수시로 혈당 측정… 무슨 도움되나?&nbsp;&nbsp;헬스조선혈당을 지켜라…당뇨병 최신 치료법과 관리법 (EBS 명의)&nbsp;&nbsp;위키트리[명의] 대한민국 당뇨병 위험 인구 2천만 시대&nbsp;&nbsp;Queen 이코노미퀸",
-      "sources": [
-        {
-          "name": "비즈엔터",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9adGp1OHlWNUY2bURYME1nVEZQQ3Q3S19xaEtERmwyNzEzTDdubjZCRm5jVDdPVzNMOW5ackVmbkc5VXFYajEtMTNJVzJDYjMwVldhTkV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ef1056b4220a",
-      "title": "'mRNA 치료제 수명' 3배 되나…김빛내리 단장, 작동원리 규명 - 매일경제",
-      "published": "2026-08-13T15:00:00+00:00",
-      "summary": "'mRNA 치료제 수명' 3배 되나…김빛내리 단장, 작동원리 규명&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FczV0ZEhiaktLaGRsRDBaVXVKZ1NNclRXRU9FMmpSV2txRGFPN0tiZS13VGJvRU5XWkFxTjdPSnpCOWdKWGtsMkZmSVBhZw?oc=5"
+          "name": "MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52MFI1ZW0wa0lPMmwtaUtGQkduY3oxNFIwcjJRcEw5VE5fRk1EUGhWUTJqc3ZMR1l5MkNjbmN3aHBjay1nenNMbDVTMkpVSzd6RUF3WEdydXdpRHJ1eDA4Z0FjUU4?oc=5"
         }
       ]
     }
