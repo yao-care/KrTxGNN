@@ -1,19 +1,31 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-16T06:42:52.920313+00:00",
-  "total_fetched": 65,
-  "unique_count": 65,
-  "health_related_count": 30,
+  "fetched_at": "2026-08-16T12:43:12.037312+00:00",
+  "total_fetched": 54,
+  "unique_count": 54,
+  "health_related_count": 22,
   "news": [
     {
-      "id": "a85d2b41b024",
-      "title": "시간 없다고요? 생활 속 ‘계단 오르기’를 [여주엽의 운동처방] - 동아일보",
-      "published": "2026-08-16T06:11:00+00:00",
-      "summary": "시간 없다고요? 생활 속 ‘계단 오르기’를 [여주엽의 운동처방]&nbsp;&nbsp;동아일보매일 6층 계단 올랐더니…80대 노인 '놀라운 변화' 나타났다 [이지현의 생생헬스]&nbsp;&nbsp;한국경제운동 따로 할 필요 없어요… 집 가는 길 ‘이것’만 하면 심혈관 튼튼&nbsp;&nbsp;헬스조선\"운동할 시간 없다면 '이렇게' 하세요\"…사망 위험 확 낮아진다&nbsp;&nbsp;네이트계단 자주 오르면 사망 위험 24% ↓…하루 6개 층이 최적? [바디플랜]&nbsp;&nbsp;v.daum.net",
+      "id": "924ae4656974",
+      "title": "“치매 발병 최대 12년 늦춘다”…‘당뇨·고혈압·흡연’ 피하면 치매 위험↓ - 동아일보",
+      "published": "2026-08-16T09:07:08+00:00",
+      "summary": "“치매 발병 최대 12년 늦춘다”…‘당뇨·고혈압·흡연’ 피하면 치매 위험↓&nbsp;&nbsp;동아일보“치매 발병 시기 최대 12년 늦출 수 있다”…지금 당장 끊고 잡아야 할 ‘이것’&nbsp;&nbsp;v.daum.net“이 세가지만 피하세요”…치매 없이 사는 기간 13년 길어졌다&nbsp;&nbsp;농민신문45세부터 치매 예방하기: 3가지 위험 요인 관리&nbsp;&nbsp;vietnam.vn고혈압·당뇨 앓고 담배 피는 중년, “치매 발병 시점 12.6년 빠르다”&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OOFpqa1lzYWV0ZVozUmlOMUtxajBscVV0RkNzTHNRT1hIMEE3U2xGSnJPdTZmTHFud3RIVTVpNjBvZFRnQ0FaX09wQjV2aXQ1MUZ6VlBXc1RGM0pua2Q2bDItRzVOSnZ0NjhlRWJlRWdtSFNQYnfSAWZBVV95cUxNR19ueVNhWlBYc2pOS3BLZk1GTXlmcnpJaUx6VlE5NFZ3eWF3akRDbFNxNVROVVlzS3ROa2hhVllCNG1aS2lLeDVUbkwyakdPb1N0RVVTODl6U1lCd0ZnTUdEVVVoalE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1HN3lqVktqZFBXSkJQeUVDZDZ5Rko5a0FYOTd5bFVHMVFjN053YWd5c2pJNi1waHZSb2VYOFpjdTRJRkhMTU96Uk1QNzVrMTdIYTNQenFVZHZMZDJpN0FfZ1VCZU05ZkNWblgySEhrVGR4QUN2a1HSAWZBVV95cUxPTEJrTVA5NWJTTkZ6T0VsdVdyMEkyamt1U1hSenJqcmdZem15b2dzdGxyM3VDZTF5VHBjSlR3NDUwUkJCN3h3bGpubnlKUnZXc2tYVVh2cmNITDZON0p2UVA2Tk45QkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "283b361e2874",
+      "title": "‘염증 스위치’ 차단해 폐암 억제…쥐 종양 크게 줄었다 - 조선비즈 - Chosunbiz",
+      "published": "2026-08-16T08:14:00+00:00",
+      "summary": "‘염증 스위치’ 차단해 폐암 억제…쥐 종양 크게 줄었다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNazNETmFCdkVOY2l2dVUyQndETXBTZ25xLUhMcVN1cnRKQ0g4cDVrLVNpMUZqSkEyamtBM2d2UkZIX1ZqU2hmZTU1NGt5eFk0b1ljXzdoUnZ2Q0FDbnBRT3JJblNkb0xleWNCSEpnSjZwX0Z4TlJZd1gxMWNpWlYzLWp1cmNHVFhBVkFQOdIBoAFBVV95cUxObllTdzl6QTJyYVY0VzA3NnIzNVVNcS1XcGxuZWY4QW1SSXlqOVY4QkpESXRRRVh0eTJjQUNFNHgzb3U1bjg4SWQ3M05VclUydVBBSHBBeE1pd20tQ0lkZlpXa0pHT1JOWTNpZFUtYkRtNHQ5eC14QjNqQi1rZGY5UmljeFdkV0lFcnRxaUZCV2xVX1AyUm8tdUs5dFNtRnBf?oc=5"
         }
       ]
     },
@@ -21,23 +33,11 @@
       "id": "6ffe3164edcb",
       "title": "암 환자 위협하는 합병증 '악액질', 장내 미생물로 조절 - news.sbs.co.kr",
       "published": "2026-08-16T04:59:00+00:00",
-      "summary": "암 환자 위협하는 합병증 '악액질', 장내 미생물로 조절&nbsp;&nbsp;news.sbs.co.kr암 환자 80% 발생 ‘치명적 합병증’, 장내 미생물로 개선&nbsp;&nbsp;v.daum.net“항암은 체력전”…암 환자 근육량 늘릴 전략 찾았다&nbsp;&nbsp;v.daum.net암 환자 생존 위협 '암 악액질' 장내 미생물로 개선...KIST, 새로운 치료전략 제시&nbsp;&nbsp;전자신문암 환자 괴롭히는 최악의 합병증 장내미생물로 잡는다&nbsp;&nbsp;서울신문",
+      "summary": "암 환자 위협하는 합병증 '악액질', 장내 미생물로 조절&nbsp;&nbsp;news.sbs.co.kr“암 환자, 체중·근육 급격 감소”자칫 사망까지…‘암 악액질’ 장내 미생물로 잡는다&nbsp;&nbsp;v.daum.net암 환자 근육 지키는 장내 미생물…‘암 악액질’ 치료 가능성&nbsp;&nbsp;동아일보암 환자 생존 위협 '암 악액질' 장내 미생물로 개선...KIST, 새로운 치료전략 제시&nbsp;&nbsp;전자신문암 환자 괴롭히는 최악의 합병증 장내미생물로 잡는다&nbsp;&nbsp;서울신문",
       "sources": [
         {
           "name": "news.sbs.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IcktNTkhYLXE4OFotd1MyMlJpbmdVSlA0bXQ3SmdzUGZxbFRTN2w3eUx0VFVwRDA5dlFJYWZpdFNiLWxSeTh2TmtsX3VySG5uRi00LUVvMWNJb002R3lhY2FObWR1VHE2dHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0774b8b52ace",
-      "title": "\"몸에 좋은 줄은 알았는데\" 무서운 '암'에 뛰어난 효과…놀라운 '이 꽃' 뭐길래 - 네이트",
-      "published": "2026-08-15T23:41:00+00:00",
-      "summary": "\"몸에 좋은 줄은 알았는데\" 무서운 '암'에 뛰어난 효과…놀라운 '이 꽃' 뭐길래&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9acVF4eVZFUkRlZFVhdDE5RW5EVXVQS2ZhSEh4Q3hLenUwbHVienBlb1liVXBXVmNWQ1RSdEtmbm1kQWczTVRyZnlxR2tKQWJzU0N3?oc=5"
         }
       ]
     },
@@ -54,10 +54,22 @@
       ]
     },
     {
+      "id": "260eda23310e",
+      "title": "매일 6층 계단 올랐더니…80대 노인 '놀라운 변화' 나타났다 [이지현의 생생헬스] - 한국경제",
+      "published": "2026-08-15T21:00:07+00:00",
+      "summary": "매일 6층 계단 올랐더니…80대 노인 '놀라운 변화' 나타났다 [이지현의 생생헬스]&nbsp;&nbsp;한국경제시간 없다고요? 생활 속 ‘계단 오르기’를 [여주엽의 운동처방]&nbsp;&nbsp;동아일보운동 따로 할 필요 없어요… 집 가는 길 ‘이것’만 하면 심혈관 튼튼&nbsp;&nbsp;헬스조선\"운동할 시간 없다면 '이렇게' 하세요\"…사망 위험 확 낮아진다&nbsp;&nbsp;네이트계단 자주 오르면 사망 위험 24% ↓…하루 6개 층이 최적? [바디플랜]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5adFd1OVpYQm5Wb3pYNEVvRmV6UVVIbHRzQmNUMWU5YkxsdUY4Q3plaHdiZWp4RDhOOW9fNERJWmtmeHV6aTJNTDVmT0NkMEo0NFFHT3UtUjBCUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c79173a34741",
       "title": "“장내 세균까지 바뀐다” 대장암 위험 높이는 습관 3가지 - 헬스조선",
       "published": "2026-08-15T20:00:00+00:00",
-      "summary": "“장내 세균까지 바뀐다” 대장암 위험 높이는 습관 3가지&nbsp;&nbsp;헬스조선“암인 줄 모르고 케겔 운동”…대장암 한의사 후회한 ‘최악 음식’&nbsp;&nbsp;v.daum.net70세 넘도록 용종 하나 없던 사람들, ‘이것’만큼은 평생 입에도 안 댔다&nbsp;&nbsp;뉴스와식탁에서 ‘이것’ 하나 치웠을 뿐인데…대장암 위험 ‘확’ 줄었다 [헬시타임]&nbsp;&nbsp;서울경제“한 가지 음식 고집해도 될까?” 암 예방 식단의 진짜 핵심은&nbsp;&nbsp;조세일보",
+      "summary": "“장내 세균까지 바뀐다” 대장암 위험 높이는 습관 3가지&nbsp;&nbsp;헬스조선“암인 줄 모르고 케겔 운동”…대장암 한의사 후회한 ‘최악 음식’&nbsp;&nbsp;v.daum.net70세 넘도록 용종 하나 없던 사람들, ‘이것’만큼은 평생 입에도 안 댔다&nbsp;&nbsp;news-wa.com[영상] 식탁에서 ‘이것’ 하나 치웠을 뿐인데…대장암 위험 ‘확’ 줄었다 [헬시타임]&nbsp;&nbsp;서울경제“열두 살에 대장암 말기”… 할머니와 살며 매일 먹은 음식, 뭐야?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "헬스조선",
@@ -90,10 +102,22 @@
       ]
     },
     {
+      "id": "b3aef74cfa54",
+      "title": "“몸에 좋은 줄은 알았는데” 무서운 ‘암’에 뛰어난 효과…놀라운 ‘이 꽃’ 뭐길래 - 헤럴드경제 미주판",
+      "published": "2026-08-15T07:40:00+00:00",
+      "summary": "“몸에 좋은 줄은 알았는데” 무서운 ‘암’에 뛰어난 효과…놀라운 ‘이 꽃’ 뭐길래&nbsp;&nbsp;헤럴드경제 미주판",
+      "sources": [
+        {
+          "name": "헤럴드경제 미주판",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRRjlZanhKaUxON3ZzY0g4b3B3NVBLenpFSjItT3VMbE5keGF2bDVydmxtZ0l0eVRFYUx4alU3RHVVaUtFdWtyc29RRU5RdEFwR0JPS3ZpTkYzNE9kb0NObw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "dce7db49d2cf",
       "title": "아크연구소·스탠퍼드팀, AI 설계 박테리오파지 첫 개발 - 바이오북미디어",
       "published": "2026-08-15T07:09:00+00:00",
-      "summary": "아크연구소·스탠퍼드팀, AI 설계 박테리오파지 첫 개발&nbsp;&nbsp;바이오북미디어[사이언스샷] 유전자 가위로 무장한 바이러스, 슈퍼박테리아 잡았다 - 조선비즈&nbsp;&nbsp;Chosunbiz신약 넘어 생명체 설계…바이오 AI 경쟁 새 라운드&nbsp;&nbsp;한국경제[탐구활동] ‘찾는 AI’에서 ‘설계하는 AI’로…생명과학에서 6년 만에 바뀐 AI의 역할&nbsp;&nbsp;교육을 비추다세계 최초 AI로 만든 세균 바이러스 탄생&nbsp;&nbsp;한국신용신문",
+      "summary": "아크연구소·스탠퍼드팀, AI 설계 박테리오파지 첫 개발&nbsp;&nbsp;바이오북미디어[사이언스샷] 유전자 가위로 무장한 바이러스, 슈퍼박테리아 잡았다 - 조선비즈&nbsp;&nbsp;Chosunbiz신약 넘어 생명체 설계…바이오 AI 경쟁 새 라운드&nbsp;&nbsp;한국경제[탐구활동] ‘찾는 AI’에서 ‘설계하는 AI’로…생명과학에서 6년 만에 바뀐 AI의 역할&nbsp;&nbsp;교육을 비추다AI로 완전히 새로운 바이러스를 설계한다...기대와 우려는?&nbsp;&nbsp;BBC",
       "sources": [
         {
           "name": "바이오북미디어",
@@ -129,7 +153,7 @@
       "id": "74d014ab8e98",
       "title": "미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다 - 하이닥",
       "published": "2026-08-15T03:30:00+00:00",
-      "summary": "미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다&nbsp;&nbsp;하이닥미세먼지에 오래 노출됐더니… 눈 건강에 나타난 변화&nbsp;&nbsp;ggilbo.com“단순 눈 충혈인 줄 알았는데”…미세먼지 오래 마셨다가 ‘뜻밖의 봉변’&nbsp;&nbsp;v.daum.net고려대 구로병원, 탄소입자 장기 노출 따른 안구 손상 규명&nbsp;&nbsp;로이슈미세먼지 장기 노출, 눈 건강 해치고 노화 세포 늘린다&nbsp;&nbsp;한국일보",
+      "summary": "미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다&nbsp;&nbsp;하이닥미세먼지에 오래 노출됐더니… 눈 건강에 나타난 변화&nbsp;&nbsp;금강일보“단순 눈 충혈인 줄 알았는데”…미세먼지 오래 마셨다가 ‘뜻밖의 봉변’&nbsp;&nbsp;v.daum.net고려대 구로병원, 탄소입자 장기 노출 따른 안구 손상 규명&nbsp;&nbsp;로이슈미세먼지 장기 노출, 눈 건강 해치고 노화 세포 늘린다&nbsp;&nbsp;한국일보",
       "sources": [
         {
           "name": "하이닥",
@@ -189,7 +213,7 @@
       "id": "f061a7d1b8cb",
       "title": "서울대 연구팀, AI 기반 로봇 바이오프린팅으로 당뇨병성 궤양 정밀 치료 새 지평을 열다! - 한국AI부동산신문",
       "published": "2026-08-14T20:44:18+00:00",
-      "summary": "서울대 연구팀, AI 기반 로봇 바이오프린팅으로 당뇨병성 궤양 정밀 치료 새 지평을 열다!&nbsp;&nbsp;한국AI부동산신문아이메디텍, 韓·美 컨소시엄 통해 '피지컬AI 창상치료' 국책과제 - 머니투데이&nbsp;&nbsp;머니투데이AI가 상처 형태 읽고 현장 인쇄…맞춤형 바이오프린팅 기술 개발&nbsp;&nbsp;금융경제플러스서울대 연구팀, AI 로봇으로 당뇨병성 상처 맞춤 치료 기술 개발&nbsp;&nbsp;뉴스N연합",
+      "summary": "서울대 연구팀, AI 기반 로봇 바이오프린팅으로 당뇨병성 궤양 정밀 치료 새 지평을 열다!&nbsp;&nbsp;한국AI부동산신문아이메디텍, 韓·美 컨소시엄 통해 '피지컬AI 창상치료' 국책과제 - 머니투데이&nbsp;&nbsp;머니투데이AI가 상처 형태 읽고 현장 인쇄…맞춤형 바이오프린팅 기술 개발&nbsp;&nbsp;kndaily.co.kr서울대 연구팀, AI 로봇으로 당뇨병성 상처 맞춤 치료 기술 개발&nbsp;&nbsp;뉴스N연합",
       "sources": [
         {
           "name": "한국AI부동산신문",
@@ -234,114 +258,6 @@
       ]
     },
     {
-      "id": "2ca20b6fe7c6",
-      "title": "‘운동 강도’ 고민 말고 일단 시작부터...“중년기 뇌 건강엔 차이 없어” - 디멘시아뉴스",
-      "published": "2026-08-14T10:52:37+00:00",
-      "summary": "‘운동 강도’ 고민 말고 일단 시작부터...“중년기 뇌 건강엔 차이 없어”&nbsp;&nbsp;디멘시아뉴스‘이것’ 하면 ‘뇌 청소 시스템’ 팽팽…‘치매 유발’ 단백질 씻어낸다&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fcmVyUURuaGNpM1NuSEs4RnZ5UFRWOGFnS2RvanlZZXRLZHRoZ0xPNjRSZ0M4MndjRVdBSVU1bUxENklrNERwRmxNTEVHR19NcE05N3FCdlQ5d0QwRzNScnBHQnNfSkRkSUhWYWZfbDF6Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a118c48ce7a2",
-      "title": "면역항암치료 부작용 (6) 이중특이성항체 치료제 엡킨리ㆍ콜럼비 - 캔서앤서",
-      "published": "2026-08-14T10:25:10+00:00",
-      "summary": "면역항암치료 부작용 (6) 이중특이성항체 치료제 엡킨리ㆍ콜럼비&nbsp;&nbsp;캔서앤서",
-      "sources": [
-        {
-          "name": "캔서앤서",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqSGpkV0N3Ukc1VGMwcFJYYmNpRVl5cFM0RXJpSmEtUlF2cFlKN1BORTc4TTQ1WUpFNEpaN2NBUmFSd3ZjMXlpdjMyaFRaN0d0OHJ5WW1IV21veDM2NTFxYUNUY0pBZW84aTN4enF5SjU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d0a17c1f1279",
-      "title": "연구, 화학부 김성연 교수팀, 몸 전체 추위 대응 원리 규명 - 보도자료 - 뉴스 - 서울대 소식 - 서울대학교",
-      "published": "2026-08-14T10:00:59+00:00",
-      "summary": "연구, 화학부 김성연 교수팀, 몸 전체 추위 대응 원리 규명 - 보도자료 - 뉴스 - 서울대 소식&nbsp;&nbsp;서울대학교Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "서울대학교",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IQTFGMzkwb085Ync4UzJ6MGxtanRMT2Z6Y09YQVQ1aERKaC1XbWRPNC16bGhEaF9BS0FQc2trakEwN2xjYzJBQzlhUTZ4TkVqYWloNmlpVjB6b05DcjRSLVJERQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e563ed77e080",
-      "title": "눈앞 캄캄, 주변이 빙빙…어지럼증, 더위만 탓했다간 낭패 - 동아일보",
-      "published": "2026-08-14T07:55:23+00:00",
-      "summary": "눈앞 캄캄, 주변이 빙빙…어지럼증, 더위만 탓했다간 낭패&nbsp;&nbsp;동아일보가수 김종국 진단 받은 ‘전정신경염’이란?&nbsp;&nbsp;현대건강신문김종국이 진단받은 그 병, \"왜 뇌졸중과 헷갈릴까\" [헬스톡]&nbsp;&nbsp;v.daum.net어지러워서 이석증인 줄 알았는데… 놓치면 안 될 ‘뇌경색 신호’ 알아두자&nbsp;&nbsp;헬스조선반복되는 어지럼증, 원인에 따라 치료 달라&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93a3k4S2xCYWJHbkNIYVhtQnhDTUVxRnBNVHdVbERaNng3bE4wUXZQeTh3dkFVZjljVDgtOVgwdFpQWWYxOXRwZXFxeF82eFJVUnZTSFpkaWYxczFOY0QyS19vejZTNnBvb1cydlhUaGVGMnZ1UmfSAWZBVV95cUxNQVc4SnRRcWo0cDRZd1I5MVpBZ3lhMl9mQ3NzV2NIMnB4VFMwY1RtUjJKMjA2RWZfRmZFSkZEdEpObk5yaXM1QzZTOUFTc1JKTUZ4Rm1hUVdtWG9MVDgxWmgxZUROMXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cc1578d3a3eb",
-      "title": "코뼈 골절, 외형 변화에서 코막힘으로 이어져…초기 진단과 치료가 중요 - 바이오타임즈",
-      "published": "2026-08-14T07:52:21+00:00",
-      "summary": "코뼈 골절, 외형 변화에서 코막힘으로 이어져…초기 진단과 치료가 중요&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NZmV5bEt4TTNJUF9xck83SUlONURMdFdzLWNsZDNRU1pDYTRiamJrbmhEMUItQldyS2lJbW44ZmptZ21wd1MzODdBM2tjS2F3N0o1dWwzcjdBc3htZlNYNXlEYmw1dVBVU3h2bg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9d8d4850004b",
-      "title": "‘54세’ 김석훈 “침대서 일어나다‥” 골절 공포 고백(세개의 시선) - 뉴스엔",
-      "published": "2026-08-14T07:37:55+00:00",
-      "summary": "‘54세’ 김석훈 “침대서 일어나다‥” 골절 공포 고백(세개의 시선)&nbsp;&nbsp;뉴스엔턱턱 막히는 숨, 척추 골절 원인일 수도…역류성 식도염·소화불량 위험 증가 (세개의시선) - 조선비즈&nbsp;&nbsp;Chosunbiz'54세' 김석훈, '골절 공포'에 초긴장&nbsp;&nbsp;뉴시스'건강 히어로' 골다공증의 위험성, 뼈 건강 관리법 조명&nbsp;&nbsp;gukjenews.com작은 충격에도 뼈가‘뚝’… 골절 후 골다공증 치료 중요&nbsp;&nbsp;백세시대",
-      "sources": [
-        {
-          "name": "뉴스엔",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yRmFWc3d2UEVzUDY1X2JiVm9wRDhOQkZhZ1pkbDJMMFZYVTZYUkFWY3Q4eE5hNlFSck1QeV9xMW84NHQ2aFV0Z2V5ZURzWktzVzVfOEJEQXhDOUVIbWpZM2RkRFBzeVRGZDZjRUhtRkI4cVBrUVhWUFZfOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "372343d0ff04",
-      "title": "40세 이후 에스트로겐 보충하면 로화를 늦춘다?--건강 - 인민넷",
-      "published": "2026-08-14T07:20:00+00:00",
-      "summary": "40세 이후 에스트로겐 보충하면 로화를 늦춘다?--건강&nbsp;&nbsp;인민넷",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTUlzaW1rSkFlWmwyWmd5MENvazVtdVBRZjZCZVhrNXNIcTc0Y09qYk9Yc2ZkRzJxS1pHTHdveEYxMlJOTnZhOHc0anZNT2F6WHlOVERjM2tIRVZxeVh5anRkOUhNVnVnbVJnSFN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f216ce0fb04a",
-      "title": "\"붙이기만 해도 불면증 해결?\"…렘수면 초음파 패치 나왔다 - 아시아경제",
-      "published": "2026-08-14T06:42:54+00:00",
-      "summary": "\"붙이기만 해도 불면증 해결?\"…렘수면 초음파 패치 나왔다&nbsp;&nbsp;아시아경제",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HY3JaZkp3czJKQXp3QXhETUZ2RXd1VHU4ZVVnbnB5YUQzcUVLdmlkeUVMd3R5bVh5c0tzMDcxVjBXRzE0alg0ay1NWTgtUzlSZ1RKd2xSSDhDejBvZ2ZIaQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d96caee8ea0e",
-      "title": "플루미스트, 서울대병원 처방권 진입…독감 예방 새 선택지 제시 - 메디코파마",
-      "published": "2026-08-14T06:13:05+00:00",
-      "summary": "플루미스트, 서울대병원 처방권 진입…독감 예방 새 선택지 제시&nbsp;&nbsp;메디코파마",
-      "sources": [
-        {
-          "name": "메디코파마",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90TDc4TWxIdUdNYTh4Skl5aXc5VzlDcURGMzRJTTBoZGZKT2lQT25SNXI1Y2NwVlZ6bVpqNzVxRk94ajdPWlBrQngyU2NTX0RxZ1FaZzUwMENHX1V6ZnJDandEQ2V3OEgzUlhhR0Zrb3dNdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ef1056b4220a",
       "title": "'mRNA 치료제 수명' 3배 되나…김빛내리 단장, 작동원리 규명 - 매일경제",
       "published": "2026-08-13T15:00:00+00:00",
@@ -350,18 +266,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FczV0ZEhiaktLaGRsRDBaVXVKZ1NNclRXRU9FMmpSV2txRGFPN0tiZS13VGJvRU5XWkFxTjdPSnpCOWdKWGtsMkZmSVBhZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "224e5ddc4850",
-      "title": "[100세 과학] 겨울이 오고 있다…추위 대응 이끄는 뉴런 발견 - 조선비즈 - Chosunbiz",
-      "published": "2026-08-13T09:00:00+00:00",
-      "summary": "[100세 과학] 겨울이 오고 있다…추위 대응 이끄는 뉴런 발견 - 조선비즈&nbsp;&nbsp;Chosunbiz",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVk5yeURQLTdOa0E0d0Y3MS1YNkVHOUt0T2RVZ1JKZXVvdnpOV3B3NmdTeGxiOW94TzA0R0cyRmNSb0pBMlhnRVNhRGwwRWF5Z3I5R3NHci1DRUlvd00xb0V5eUJlV1NZdzdrTjlqRWxQT3pMYS1KVHp4clBPVkVKV3czVzNndjVhMk9rUNIBoAFBVV95cUxQYUlSYnJZX1ZHbTB1Y0I2Z1ZyWm4yR1BmQkx6cGI1UzdtdC1lSkdqUk1EQ2lzQzNyS2szckJ1YkUwemhULTA4TnFNYVhYLWFhSXpBN3dmb0lacG5qWW5hWXhpYzRvaVNTX2tXUG13aHhqUWtybXZTYXBQNmRpZmlTR1hqY3BXb0hHRFJ0YnNjMmpFM04yRDl3Vzhyc2hBelNo?oc=5"
         }
       ]
     }
