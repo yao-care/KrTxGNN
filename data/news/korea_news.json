@@ -1,19 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-17T18:42:11.023821+00:00",
-  "total_fetched": 34,
-  "unique_count": 34,
-  "health_related_count": 20,
+  "fetched_at": "2026-08-18T01:21:25.441347+00:00",
+  "total_fetched": 41,
+  "unique_count": 41,
+  "health_related_count": 30,
   "news": [
     {
-      "id": "05b74f1f9ac5",
-      "title": "“운동할 때 나오는 단백질이 ‘치매 조기경보’ 역할 가능” - 동아일보",
-      "published": "2026-08-17T15:30:00+00:00",
-      "summary": "“운동할 때 나오는 단백질이 ‘치매 조기경보’ 역할 가능”&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "55e6d8aa04f2",
+      "title": "“뱃살에 비타민D까지 부족하면”…50세 이후 사망 위험 123%↑[노화설계] - 동아일보",
+      "published": "2026-08-18T01:03:00+00:00",
+      "summary": "“뱃살에 비타민D까지 부족하면”…50세 이후 사망 위험 123%↑[노화설계]&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EN1dKNDlPaGRBRUdDTGZRQzJkSm00R0NLbWdsSEVwYUNQQUdfdGNPckM3TU5lcC13bjRQSGpIN0RNSFdUSmR1VzRDMnFXckRCZHcyMTJuU2FaY09IZzdjcU1xbGJpWWVKcjZkQ2drSTV2MU1NR1HSAWZBVV95cUxPbW9QV2p1OE5Jd3EzOF80eFpmOGJJQWpnRDE0Y1RTMUcwS0g2aVF4azdvQVp2RHU1WGppSldQZUYwRF9pd0JQRHFtTFdLQnVWZXZFNTl2UVF4dDdvZHpjLXBncWphRVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZUlgteDNhZkQ5MWt5R0Frb09wOTJyeGRBZEtqLWprbmJDMzBEVm1XX3V5bnNVVVRlVzBJUl9yVlhVM1FqUnF5YkJiQ21YVjYyc2ItbzRhcUN4ekZJbEJZM2pwc2dGaHpmOENwZ1owTdIBZkFVX3lxTE9Xel9oV2ZpbXlVS3VndWQ5ZUxQdUF5WnVFYzV2UmZfM0YxZmo2cS04dG9hbnlrQ0NaQTFGZ21lVzJxbXZOemd2SU10dEY1c0RvNUtHXzRubXFGOVBfbmVheVMwMkNlUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8e3c2e53a7c",
+      "title": "의사도 추천한 '복분자 종자유'… 100세 시대 신장건강 청신호 - 보건신문",
+      "published": "2026-08-18T00:28:40+00:00",
+      "summary": "의사도 추천한 '복분자 종자유'… 100세 시대 신장건강 청신호&nbsp;&nbsp;보건신문“콩팥 건강 챙기려면 복부비만 관리부터”&nbsp;&nbsp;v.daum.net쉬어도 피곤하고 몸 붓는다면… 고령층 ‘만성콩팥병’ 주의보 [건강+]&nbsp;&nbsp;세계일보‘소변’ 3초만 보자… 흰 거품 많다면 콩팥 이상 신호&nbsp;&nbsp;조선일보“더위 먹었나, 너무 피곤하네”…콩팥이 보내는 이상신호일 수도&nbsp;&nbsp;헤럴드경제",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91S2ZIUXJDWG9WRWRBVHZIRHFielpuY2M2aUJFNVU5MkVQcWxnQUl2VC13Z0dJajRvVDZxaE5jX3NzZVM3ZnRqN2wxYXFhdGZIXzIta2RmaUVOVVNvMU11d09HTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8236aa4c9de",
+      "title": "국내 사망 원인 1위 암… 피할 수 있는 위험부터 피하자 [아미랑] - 조선일보",
+      "published": "2026-08-18T00:01:00+00:00",
+      "summary": "국내 사망 원인 1위 암… 피할 수 있는 위험부터 피하자 [아미랑]&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzBwYVpaemx5Umt3b2tHMFlJTXhIczdnNktyWUNYQ3RWc3ZsQzZaMjlWdVdfb21aZ3lqcnV5NWtGWVMtNUdRLXJ3XzBod1h2bEZ1b2dmZUk4azJ6Tk1JSVlTY2FSZ3BvRmRDS05way1ZT2dtbmVUbnYwR1dSZ1dfX3FMNmFBQ3M3LVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38f9875eb56d",
+      "title": "호주인 170만 명 홍역 위험 노출 - 호주 톱뉴스",
+      "published": "2026-08-17T22:27:36+00:00",
+      "summary": "호주인 170만 명 홍역 위험 노출&nbsp;&nbsp;호주 톱뉴스",
+      "sources": [
+        {
+          "name": "호주 톱뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KZ0RqbEhRamdFU0RKV203THdwSmtkbzlRTlBHV2U2RkFaYnNFSEkwZmExbTZHVVhYNmRkWTA3SGtTQUNudFc5S3EwaGtnRGlHcHAyNWwyejhBQ1Y0cGZJSFU4WXJKOGktaVBtWjM3ODc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52dad8f1eb12",
+      "title": "캐나다, 폐경기 치료제 ‘린쿠엣’ 유방암 내분비치료 안면홍조로 적응증 확대 - 헬스코리아뉴스",
+      "published": "2026-08-17T22:16:22+00:00",
+      "summary": "캐나다, 폐경기 치료제 ‘린쿠엣’ 유방암 내분비치료 안면홍조로 적응증 확대&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yTklOSmJSQnplZFRqcDdrWnUtcmI5eFZRZmJ3U0FxbHp0bl9RXzljX0taTG1ZSmtVS3pWemlWZ3VfRHFxd2FnR3FjMG9JbC1zUXhuTFhjdExwSVM5OFhRTTAyOU1TQmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "55e34bf10197",
+      "title": "\"HDL 높으면 건강하다?\" 착한 콜레스테롤에 대한 오해 - 히트뉴스",
+      "published": "2026-08-17T21:01:00+00:00",
+      "summary": "\"HDL 높으면 건강하다?\" 착한 콜레스테롤에 대한 오해&nbsp;&nbsp;히트뉴스",
+      "sources": [
+        {
+          "name": "히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02ZlNrTVhGSnp5NVVUTnB6QTJDak03RTg1NmpHYWZiSU40ZVRKalJ5aXZ0TkwwbWdDWGs2Z3FTVE5IbEhJTHNOQUpYaVNKWS1iSjE0Y19TbXNIM2dfVE9TcEQ3RmowVm9TTDFj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2bf17be6bc5a",
+      "title": "“혈관 다 망가진다”… 내과 의사가 ‘절대 안 먹는 음식’ 3가지 - 헬스조선",
+      "published": "2026-08-17T17:00:00+00:00",
+      "summary": "“혈관 다 망가진다”… 내과 의사가 ‘절대 안 먹는 음식’ 3가지&nbsp;&nbsp;헬스조선“혈압 높인 복병이었다”… 영양사들 경고한 ‘양의 탈을 쓴 음식’, 뭘까?&nbsp;&nbsp;헬스조선“자식 건강까지 망친다” 덜 먹어야 할 ‘흔한 집밥 메뉴’… 뭘까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKek5FLXl1QTdGTFZHbFlkcWFFU29tSHlfV1ZUVFlYWmpmeDRvTDI2Q0ZuM0pTUlptOWdvRVVaOThfeUVFX2VHSXV6MGNUalp0aURWMGF0R1MxQk1kTE12cUp1dHF6QjRFWGdNLV9ZcDFXNlJNYWtCVUFLX0YtZUU?oc=5"
         }
       ]
     },
@@ -30,10 +102,22 @@
       ]
     },
     {
+      "id": "a2c797b2e21d",
+      "title": "최신 당뇨약 나왔지만 보험 문턱은 15년 전…엇박자 난 치료 [15년 전 당뇨①] - 쿠키뉴스",
+      "published": "2026-08-17T13:40:37+00:00",
+      "summary": "최신 당뇨약 나왔지만 보험 문턱은 15년 전…엇박자 난 치료 [15년 전 당뇨①]&nbsp;&nbsp;쿠키뉴스비만치료제 속 ‘이 성분’, 제2형 당뇨·심혈관질환 사망 위험 45%↓&nbsp;&nbsp;news.hidoc.co.kr[딥바이오] 질환 예방부터 장기 병가 감소까지, GLP-1 건보 적용 논의 확산&nbsp;&nbsp;The Economy KoreaGLP-1 RA, 실사용 환경에서 당뇨병 환자 사망 위험 22% 감소&nbsp;&nbsp;의약뉴스마운자로 성분, 심근경색 위험 33% 낮출 가능성…연구&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "쿠키뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoNXR1M0xWZ19xdnAxNGZVMDFZdkN1eGN0QzhyMHV0bk93aGNiVXdEUGR1R21rRElvWlRxMzBPZ25mYmxWb3BxMlBLanhiUG5FYlh1emJPdFlCaURmOHAzVkxhRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7234acd904ae",
       "title": "온병원, 2040 대상포진 경고…“젊다고 안심 못해” - 인더스트리뉴스",
       "published": "2026-08-17T10:23:59+00:00",
-      "summary": "온병원, 2040 대상포진 경고…“젊다고 안심 못해”&nbsp;&nbsp;인더스트리뉴스\"젊다고 방심했더니 콕콕 쑤시네\"..젊은층 대상포진 환자도 는다&nbsp;&nbsp;v.daum.net",
+      "summary": "온병원, 2040 대상포진 경고…“젊다고 안심 못해”&nbsp;&nbsp;인더스트리뉴스\"젊다고 방심했더니 콕콕 쑤시네\"..젊은층 대상포진 환자도 는다&nbsp;&nbsp;v.daum.net“젊다고 방심했더니”… 2040 대상포진 환자 급증세&nbsp;&nbsp;스포츠동아여름철 늘어나는 대상포진&nbsp;&nbsp;dongbunews.co.kr[약손+] 통증의 제왕 ‘대상포진’ 예방과 치료 ⑪대상포진 재발률과 재발 방지 관리는?&nbsp;&nbsp;대구MBC",
       "sources": [
         {
           "name": "인더스트리뉴스",
@@ -45,7 +129,7 @@
       "id": "a57cbcf0e55e",
       "title": "상처 모양을 ‘AI 눈’으로 읽고 그 자리에서 인쇄… 신개념 상처 치료 새 길 열려 - 티뉴스",
       "published": "2026-08-17T08:10:31+00:00",
-      "summary": "상처 모양을 ‘AI 눈’으로 읽고 그 자리에서 인쇄… 신개념 상처 치료 새 길 열려&nbsp;&nbsp;티뉴스서울대 연구팀, AI 기반 로봇 바이오프린팅으로 당뇨병성 궤양 정밀 치료 새 지평을 열다!&nbsp;&nbsp;뉴스N연합'AI 비전+로봇 3D 바이오프린팅' 융합… 난치성 상처 맞춤형 재생치료 패러다임 전환&nbsp;&nbsp;한국데이터경제신문AI가 상처 형태 읽고 현장 인쇄…맞춤형 바이오프린팅 기술 개발&nbsp;&nbsp;kndaily.co.kr서울대 연구팀, AI 로봇으로 당뇨병성 상처 맞춤 치료 기술 개발&nbsp;&nbsp;한국AI부동산신문",
+      "summary": "상처 모양을 ‘AI 눈’으로 읽고 그 자리에서 인쇄… 신개념 상처 치료 새 길 열려&nbsp;&nbsp;티뉴스서울대 연구팀, AI 기반 로봇 바이오프린팅으로 당뇨병성 궤양 정밀 치료 새 지평을 열다!&nbsp;&nbsp;뉴스N연합'AI 비전+로봇 3D 바이오프린팅' 융합… 난치성 상처 맞춤형 재생치료 패러다임 전환&nbsp;&nbsp;한국데이터경제신문AI가 상처 형태 읽고 현장 인쇄…맞춤형 바이오프린팅 기술 개발&nbsp;&nbsp;금융경제플러스서울대 연구팀, AI 로봇으로 당뇨병성 상처 맞춤 치료 기술 개발&nbsp;&nbsp;한국AI부동산신문",
       "sources": [
         {
           "name": "티뉴스",
@@ -54,13 +138,13 @@
       ]
     },
     {
-      "id": "b0f44e696334",
-      "title": "[초록] 국내 돼지 제3형 오르토레오바이러스의 검출 및 분자학적 특성 분석 - 돼지와사람",
+      "id": "253a574ec9fd",
+      "title": "[초록] 국내 돼지 제3형 오르토레오바이러스의 검출 및 분자학적 특성 분석 - pigpeople.net",
       "published": "2026-08-17T06:49:28+00:00",
-      "summary": "[초록] 국내 돼지 제3형 오르토레오바이러스의 검출 및 분자학적 특성 분석&nbsp;&nbsp;돼지와사람",
+      "summary": "[초록] 국내 돼지 제3형 오르토레오바이러스의 검출 및 분자학적 특성 분석&nbsp;&nbsp;pigpeople.net",
       "sources": [
         {
-          "name": "돼지와사람",
+          "name": "pigpeople.net",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BOWFIbWRmS1Y2UTJKd3hBeUp3cGMxd2Jvd0t2WmJaa0QwV0xXelJQTUpvdTRqemI5YUREZ3JYUkZZS2ZKMXB5dHJ5N0U2QmliU1g4NTFYUF8xWnJMRUtnNFpn?oc=5"
         }
       ]
@@ -74,6 +158,18 @@
         {
           "name": "쿡앤셰프",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14R0UzWmt2V0oydVpHcW9pWk1WM1Z1RlpHUHdyZ3hONXBLck9MdFRBdk1sd1JXdFpzZnJYNHJRcHBqUk1md1F0Z1VxQXVmaUliWXBzNXVNMHczS1FWcmcwMXRR0gFaQVVfeXFMUG5QM1FQcUdEa0NoQThJVExPenoxcFRQYTlGNkhYRU1TYmVtVE1pWktsdUhtQUNjT3Z5bVl2WTFPbmFmNmwwRExyb1ZiNDFiU0NCVldyTG1YdVZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fbd23c06fae6",
+      "title": "12주간 자전거 운동했더니…“뇌 노폐물 배출 흐름 증가” - news.hidoc.co.kr",
+      "published": "2026-08-17T04:00:00+00:00",
+      "summary": "12주간 자전거 운동했더니…“뇌 노폐물 배출 흐름 증가”&nbsp;&nbsp;news.hidoc.co.kr얼굴 ‘이 부위’ 문질러라…치매 부르는 뇌 찌꺼기 사라진다&nbsp;&nbsp;v.daum.net“운동할 때 나오는 단백질이 ‘치매 조기경보’ 역할 가능”&nbsp;&nbsp;동아일보뇌 노폐물 빠져 나가는 ‘미세 출구’ 찾았다&nbsp;&nbsp;사이언스타임즈‘이것’ 하면 ‘뇌 청소 시스템’ 팽팽…‘치매 유발’ 단백질 씻어낸다&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "news.hidoc.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GY3ctMTEzLUVMT1JDR2NNSXpHMDFRUjgtN1hQc1l6MGdodVliQWlTaGY5cDU4aEJhNmpwTlczV1RWbGpLcXI3WXNlQUw5ZG1oVTFzRXBWOFNNa0FzNWhRWXhJQ2tRRkkwSFE?oc=5"
         }
       ]
     },
@@ -102,13 +198,13 @@
       ]
     },
     {
-      "id": "251faabad34f",
-      "title": "증상 없어도 방심 금물… 천식, 매일 기관지 염증 관리해야 - 하이닥",
+      "id": "080c7fa1cd96",
+      "title": "증상 없어도 방심 금물… 천식, 매일 기관지 염증 관리해야 - news.hidoc.co.kr",
       "published": "2026-08-17T02:30:00+00:00",
-      "summary": "증상 없어도 방심 금물… 천식, 매일 기관지 염증 관리해야&nbsp;&nbsp;하이닥",
+      "summary": "증상 없어도 방심 금물… 천식, 매일 기관지 염증 관리해야&nbsp;&nbsp;news.hidoc.co.kr",
       "sources": [
         {
-          "name": "하이닥",
+          "name": "news.hidoc.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUWU1OUZUZE5BQ0M4cHktb0lYaFI1dzdXWmFxYjNCTVRfNDZ5N2Z1UUxVTWM5RThQMmVra2pQRUJnZDZzX0lRdk9qMC0tZjJpcW83TVgzcWJWVUtheXQ4WmlmbXQ2dG1pb0E?oc=5"
         }
       ]
@@ -138,13 +234,13 @@
       ]
     },
     {
-      "id": "ca914972a40f",
-      "title": "식도 건강에 도움 되는 음식 5가지… 바렛식도 예방까지 챙기려면 - 하이닥",
+      "id": "b8c074883aea",
+      "title": "식도 건강에 도움 되는 음식 5가지… 바렛식도 예방까지 챙기려면 - news.hidoc.co.kr",
       "published": "2026-08-16T22:30:00+00:00",
-      "summary": "식도 건강에 도움 되는 음식 5가지… 바렛식도 예방까지 챙기려면&nbsp;&nbsp;하이닥",
+      "summary": "식도 건강에 도움 되는 음식 5가지… 바렛식도 예방까지 챙기려면&nbsp;&nbsp;news.hidoc.co.kr",
       "sources": [
         {
-          "name": "하이닥",
+          "name": "news.hidoc.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NQ3hGODVaNllwQzRmWmxBVkV6NVFjSjQ3RDdaTHZMMU1iOTV5QlUwVk43M2JuSHpRRXZzOTg0S2lwcktWcHNWR1c5VmFlTnlULXBVeHdGRDdtQTlCS25uM04wX09uYm5xVEE?oc=5"
         }
       ]
@@ -153,7 +249,7 @@
       "id": "9831f1de5c6c",
       "title": "미세먼지 장기 노출 시 일어나는 일 - 마음건강 길",
       "published": "2026-08-16T20:50:00+00:00",
-      "summary": "미세먼지 장기 노출 시 일어나는 일&nbsp;&nbsp;마음건강 길미세먼지에 오래 노출됐더니… 눈 건강에 나타난 변화&nbsp;&nbsp;금강일보“단순 눈 충혈인 줄 알았는데”…미세먼지 오래 마셨다가 ‘뜻밖의 봉변’&nbsp;&nbsp;v.daum.net미세먼지 장기 노출, 눈 건강 해치고 노화 세포 늘린다&nbsp;&nbsp;한국일보미세먼지 속 ‘이 성분’, 눈 건강 해치고 노화까지 앞당긴다&nbsp;&nbsp;하이닥",
+      "summary": "미세먼지 장기 노출 시 일어나는 일&nbsp;&nbsp;마음건강 길미세먼지에 오래 노출됐더니… 눈 건강에 나타난 변화&nbsp;&nbsp;금강일보대기오염 장기 노출, 안구표면 넘어 눈물샘 노화·전신 면역반응까지 영향&nbsp;&nbsp;헬스오“단순 눈 충혈인 줄 알았는데”…미세먼지 오래 마셨다가 ‘뜻밖의 봉변’&nbsp;&nbsp;v.daum.net미세먼지 장기 노출, 눈 건강 해치고 노화 세포 늘린다&nbsp;&nbsp;한국일보",
       "sources": [
         {
           "name": "마음건강 길",
@@ -162,10 +258,46 @@
       ]
     },
     {
+      "id": "8e02a9a45276",
+      "title": "손바닥 유난히 가렵더니, ‘간질환’ 신호였다… 손톱에는 어떤 변화가? - 헬스조선",
+      "published": "2026-08-16T19:00:00+00:00",
+      "summary": "손바닥 유난히 가렵더니, ‘간질환’ 신호였다… 손톱에는 어떤 변화가?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BTmU4c1dFS0ZVX0VZdDE0ajliM3RrQkd5R0hnX195MnNWV21ROGhnMzdNTHp3ZFMzUFdpNjVERndxaVlQdW5NZmhCUjBST0lITUpHNXdyZnIyTE1tZDMzT1d1WUZPMFhTMFB2SEFmSUViUGxUeW1qeC1idFdBWWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1350d971f3e2",
+      "title": "조용하던 남편, 난폭해지고 위험 운전까지… 3년 뒤 밝혀진 ‘병’의 정체는? - 헬스조선",
+      "published": "2026-08-16T15:30:00+00:00",
+      "summary": "조용하던 남편, 난폭해지고 위험 운전까지… 3년 뒤 밝혀진 ‘병’의 정체는?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TzIzb2tCakdwc1UybG8zMVR0Z3VFSHk0aHRpT1M2LUw3Wk1zNngzMTdaZ0hDYTNJSUVrMXBlS1lRTGM0MFl2QU51UHdqMm84VjBscXpPZXllTnFYWlVENG1FNnE5d1ZXM3pvNTk5ektxRHZpVV9wTFhDeGlrYWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3dd240f0e16f",
+      "title": "KIST, 장내 미생물로 '암 악액질' 개선 가능성 확인 - 충남일보",
+      "published": "2026-08-16T12:42:06+00:00",
+      "summary": "KIST, 장내 미생물로 '암 악액질' 개선 가능성 확인&nbsp;&nbsp;충남일보암 환자 생명 위협하는 ‘암 악액질’, 장내 미생물로 잡는다&nbsp;&nbsp;BRIC암 환자 근육 지키는 장내 미생물…‘암 악액질’ 치료 가능성&nbsp;&nbsp;동아일보암 환자 생존 위협 '암 악액질' 장내 미생물로 개선...KIST, 새로운 치료전략 제시&nbsp;&nbsp;etnews.com암 환자 80% 발생 ‘치명적 합병증’, 장내 미생물로 개선&nbsp;&nbsp;dt.co.kr",
+      "sources": [
+        {
+          "name": "충남일보",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZVEI1QVgyNHlCVEpoZTdiWkZsV0h5YlcyZW05YUMwLUVSMGZIa0VTdzk1VERXeXJJdGMwV3MyQ0daQ1VrUGpqZ3hwenBXOFJMbDJ4aHpsX0QtaEdBY3MwdF9VQlo2Q3hfX3c3YXhTZzdCXzg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "924ae4656974",
       "title": "“치매 발병 최대 12년 늦춘다”…‘당뇨·고혈압·흡연’ 피하면 치매 위험↓ - 동아일보",
       "published": "2026-08-16T09:07:08+00:00",
-      "summary": "“치매 발병 최대 12년 늦춘다”…‘당뇨·고혈압·흡연’ 피하면 치매 위험↓&nbsp;&nbsp;동아일보“치매 발병 시기 최대 12년 늦출 수 있다”…지금 당장 끊고 잡아야 할 ‘이것’&nbsp;&nbsp;v.daum.net\"치매 발병 최대 12년 늦춘다\"…'당뇨·고혈압·흡연' 피하면 치매 위험↓&nbsp;&nbsp;뉴시스“이 세가지만 피하세요”…치매 없이 사는 기간 13년 길어졌다&nbsp;&nbsp;농민신문45세부터 치매 예방하기: 3가지 위험 요인 관리&nbsp;&nbsp;Vietnam.vn",
+      "summary": "“치매 발병 최대 12년 늦춘다”…‘당뇨·고혈압·흡연’ 피하면 치매 위험↓&nbsp;&nbsp;동아일보50대에 ‘3가지’만 피하면…치매 13년 늦춘다&nbsp;&nbsp;한겨레“치매 발병 시기 최대 12년 늦출 수 있다”…지금 당장 끊고 잡아야 할 ‘이것’&nbsp;&nbsp;v.daum.net90세 넘겼다고 안심은 금물⋯치매 위험 ‘이것’에 영향받는다?&nbsp;&nbsp;코메디닷컴\"치매 발병 최대 12년 늦춘다\"…'당뇨·고혈압·흡연' 피하면 치매 위험↓&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "동아일보",
@@ -174,14 +306,14 @@
       ]
     },
     {
-      "id": "7d8098cc5174",
-      "title": "‘염증 스위치’ 차단해 폐암 억제… 쥐 종양 크게 줄었다 - 조선일보",
-      "published": "2026-08-16T08:16:05+00:00",
-      "summary": "‘염증 스위치’ 차단해 폐암 억제… 쥐 종양 크게 줄었다&nbsp;&nbsp;조선일보",
+      "id": "b2810fb932cc",
+      "title": "'염증 스위치' 차단해 폐암 억제…쥐 종양 크게 줄었다 - 네이트",
+      "published": "2026-08-16T08:14:00+00:00",
+      "summary": "'염증 스위치' 차단해 폐암 억제…쥐 종양 크게 줄었다&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOEJTM3VrY1VHcnZLc3JVb0M3TDRYNjFuQlM2TVN0dXdNcVBqYzdOcnlvR1BWVUtwbGx2X0FESFFFT3BfSGtjVXZVVnRtWTVYbjVxWkJWSUNGNF81ZkxCTUc1OFNPSzhYR3JkeDhjTnVZR0hscmY0N3FJRTZueEczYlRyaw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRSVV6OVo0ZU81V29IdThlSVNsMXZSRUtKblA3bGJSMU95UldaUm9kdWxGWHdiMHJaZVB6SG1VenM4YndlVVN2alM3bXh5U3JaVXZZ?oc=5"
         }
       ]
     },
@@ -189,7 +321,7 @@
       "id": "a85d2b41b024",
       "title": "시간 없다고요? 생활 속 ‘계단 오르기’를 [여주엽의 운동처방] - 동아일보",
       "published": "2026-08-16T06:11:00+00:00",
-      "summary": "시간 없다고요? 생활 속 ‘계단 오르기’를 [여주엽의 운동처방]&nbsp;&nbsp;동아일보건강 위한 계단 운동… 오르기 vs 내려가기 '뭐가 더 좋을까'&nbsp;&nbsp;한국일보매일 6층 계단 올랐더니…80대 노인 '놀라운 변화' 나타났다 [이지현의 생생헬스]&nbsp;&nbsp;한국경제운동 따로 할 필요 없어요… 집 가는 길 ‘이것’만 하면 심혈관 튼튼&nbsp;&nbsp;헬스조선\"운동할 시간 없다면 '이렇게' 하세요\"…사망 위험 확 낮아진다&nbsp;&nbsp;네이트",
+      "summary": "시간 없다고요? 생활 속 ‘계단 오르기’를 [여주엽의 운동처방]&nbsp;&nbsp;동아일보건강 위한 계단 운동… 오르기 vs 내려가기 '뭐가 더 좋을까'&nbsp;&nbsp;한국일보매일 6층 계단 올랐더니…80대 노인 '놀라운 변화' 나타났다 [이지현의 생생헬스]&nbsp;&nbsp;hankyung.com운동 따로 할 필요 없어요… 집 가는 길 ‘이것’만 하면 심혈관 튼튼&nbsp;&nbsp;헬스조선\"운동할 시간 없다면 '이렇게' 하세요\"…사망 위험 확 낮아진다&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "동아일보",
@@ -213,23 +345,11 @@
       "id": "24c735c88be4",
       "title": "AI가 환자 암 분석해 백신 설계…'개인맞춤형 암백신' 어디까지 왔나 [노화설계] - 네이트",
       "published": "2026-08-16T01:01:00+00:00",
-      "summary": "AI가 환자 암 분석해 백신 설계…'개인맞춤형 암백신' 어디까지 왔나 [노화설계]&nbsp;&nbsp;네이트AI가 환자 암 분석해 백신 설계…‘개인맞춤형 암백신’ 어디까지 왔나 [노화설계]&nbsp;&nbsp;동아일보20화 에필로그|좋은 기술과 좋은 주식 사이, 다시 정리하며&nbsp;&nbsp;브런치암세포만 골라 DNA 자르는 유전자가위…새 항암 전략 제시&nbsp;&nbsp;연합뉴스IBS 유전체 항상성 연구단, 암세포 돌연변이만 사멸하는 '4세대 항암제' 도전&nbsp;&nbsp;전자신문",
+      "summary": "AI가 환자 암 분석해 백신 설계…'개인맞춤형 암백신' 어디까지 왔나 [노화설계]&nbsp;&nbsp;네이트AI가 환자 암 분석해 백신 설계…‘개인맞춤형 암백신’ 어디까지 왔나 [노화설계]&nbsp;&nbsp;동아일보20화 에필로그|좋은 기술과 좋은 주식 사이, 다시 정리하며&nbsp;&nbsp;브런치암세포만 골라 DNA 자르는 유전자가위…새 항암 전략 제시&nbsp;&nbsp;연합뉴스IBS 유전체 항상성 연구단, 암세포 돌연변이만 사멸하는 '4세대 항암제' 도전&nbsp;&nbsp;etnews.com",
       "sources": [
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZGRJaEFaVmJJVmN4dUhnWHNxV3JYVENqNGM0clZickpROTk0VVN1YktKc25LckZqclNJSEw0WHFybzdyRVA1S1g5dTZfckNod1dR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0774b8b52ace",
-      "title": "\"몸에 좋은 줄은 알았는데\" 무서운 '암'에 뛰어난 효과…놀라운 '이 꽃' 뭐길래 - 네이트",
-      "published": "2026-08-15T23:41:00+00:00",
-      "summary": "\"몸에 좋은 줄은 알았는데\" 무서운 '암'에 뛰어난 효과…놀라운 '이 꽃' 뭐길래&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9acVF4eVZFUkRlZFVhdDE5RW5EVXVQS2ZhSEh4Q3hLenUwbHVienBlb1liVXBXVmNWQ1RSdEtmbm1kQWczTVRyZnlxR2tKQWJzU0N3?oc=5"
         }
       ]
     },
