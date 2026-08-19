@@ -1,31 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-19T12:51:50.464158+00:00",
-  "total_fetched": 82,
-  "unique_count": 82,
-  "health_related_count": 43,
+  "fetched_at": "2026-08-19T18:38:23.200086+00:00",
+  "total_fetched": 77,
+  "unique_count": 77,
+  "health_related_count": 39,
   "news": [
     {
-      "id": "599953f63fa3",
-      "title": "진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’ - 디멘시아뉴스",
-      "published": "2026-08-19T11:43:34+00:00",
-      "summary": "진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;디멘시아뉴스\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net[박찬우 박사 칼럼 14회] 잇몸 건강이 심장도 지킵니다&nbsp;&nbsp;캐어유 뉴스“치료는 나중에?” 치매 환자에게 구강관리가 ‘시작’인 이유!&nbsp;&nbsp;dentalkoo.com방치하기 쉬운 치주질환, 전신 건강과도 연관 있어&nbsp;&nbsp;비건뉴스",
+      "id": "c82f62f81d76",
+      "title": "[Dr.이은봉의 의학 연구 다이제스트] 근력운동 꾸준히 하면 당뇨병 발생 27% 낮아 - 조선일보",
+      "published": "2026-08-19T15:40:00+00:00",
+      "summary": "[Dr.이은봉의 의학 연구 다이제스트] 근력운동 꾸준히 하면 당뇨병 발생 27% 낮아&nbsp;&nbsp;조선일보운동 시작하세요… 무리할 필요는 없어요 [밀당365]&nbsp;&nbsp;조선일보당뇨·지방간 환자라면 주목… ‘이 운동’ 꾸준히 했더니 혈당·간 수치 개선됐다?&nbsp;&nbsp;하이닥운동 시작하세요… 무리할 필요는 없어요&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "디멘시아뉴스",
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QSEdSWHpqY0VwQ3pCMmVLSzUwMlRxeXU2QlJEME8tdUQxY0FkdTB5YkJEbjV1T0JXMjhvdFRXWkdXdk5zX3NLaWh4WXE3dmpjZkppNFlUSDZJY05sdndyNXl2SjFabjcxYkpiZWRaZ2dNM3VISHZ4Vg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "50cfe6a56149",
+      "title": "웨스트나일 감염자 발생에 비상… 샌가브리엘 밸리 모기 방역 - RadioKorea",
+      "published": "2026-08-19T15:25:00+00:00",
+      "summary": "웨스트나일 감염자 발생에 비상… 샌가브리엘 밸리 모기 방역&nbsp;&nbsp;RadioKorea",
+      "sources": [
+        {
+          "name": "RadioKorea",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kM2ZpQ1VxNC1neFhsNmUwZ1dONWxpYlV4anY3YS03bk1qZnlvZEltc0VwNFptSU0zemFfTUR2OGxpX01pVEE5QW9mRHRERWpPMTBDbEcyTW8yMjBwaW9jSWJCU3FFYjNfVlItaGI5X01OcDcy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a6ca106c82b",
+      "title": "진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’ - dementianews.co.kr",
+      "published": "2026-08-19T11:43:34+00:00",
+      "summary": "진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;dementianews.co.kr\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net[박찬우 박사 칼럼 14회] 잇몸 건강이 심장도 지킵니다&nbsp;&nbsp;캐어유 뉴스“치료는 나중에?” 치매 환자에게 구강관리가 ‘시작’인 이유!&nbsp;&nbsp;dentalkoo.com방치하기 쉬운 치주질환, 전신 건강과도 연관 있어&nbsp;&nbsp;비건뉴스",
+      "sources": [
+        {
+          "name": "dementianews.co.kr",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81SmJ2dE5GY0UxdS1sNnBmeWJOei0tODZrdUN4MFUzVHVhWVBDcEx4TzVTRDFGUF9BRzJHU3czd0w4OFZqeTdESm5GRHRkcnBWYUFsLVNQSlNkS2pTQ3ZhUlE1SGFCWkRXZ3lCak1jZjBJdw?oc=5"
         }
       ]
     },
     {
-      "id": "439176d35712",
+      "id": "7fb341fd7363",
       "title": "[생활] 베트남인 하루 소금 섭취량 8.1g…WHO 권장량의 1.6배 - 굿모닝베트남미디어",
       "published": "2026-08-19T11:39:33+00:00",
-      "summary": "[생활] 베트남인 하루 소금 섭취량 8.1g…WHO 권장량의 1.6배&nbsp;&nbsp;굿모닝베트남미디어[칼럼] 전통 발효 식품과 소금 섭취&nbsp;&nbsp;식품음료신문베트남 음식은 현재 \"칼로리는 높지만 미량 영양소가 부족하다\"는 평가를 받고 있다.&nbsp;&nbsp;Vietnam.vn[건강정보] 소금은 줄여야 하나, 먹어야 하나…중요한 것은 ‘나트륨과 칼륨의 균형’&nbsp;&nbsp;경남뉴스더 건강한 베트남을 위해 건강한 식습관을 장려하는 해결책을 실행합니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[생활] 베트남인 하루 소금 섭취량 8.1g…WHO 권장량의 1.6배&nbsp;&nbsp;굿모닝베트남미디어[칼럼] 전통 발효 식품과 소금 섭취&nbsp;&nbsp;식품음료신문젊은 나이에 고혈압과 뇌졸중 발병 위험 증가: 고염식의 중요성을 과소평가하지 마세요.&nbsp;&nbsp;Vietnam.vn[건강정보] 소금은 줄여야 하나, 먹어야 하나…중요한 것은 ‘나트륨과 칼륨의 균형’&nbsp;&nbsp;경남뉴스더 건강한 베트남을 위해 건강한 식습관을 장려하는 해결책을 실행합니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "굿모닝베트남미디어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3RmdhbXZ2RzYyWWRrSl9mdE1ZV0s0bzBVdVlFX0xJYy0yUVl1dF96VDZjQV9obU9DSjVfMDBoZVM0Tnd0ZjgwQ05pTUJGOExGcGtLNlh1eXpkektpX2FXRGxwb3lLZnd2c1U2Z2dtWFg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Vd0Jlc3V5NVRaLW4xWk5YczVNWmtiamRRcDB0SGcwSW1EdXZIcVg0aEMtSk8tSlU3SGNSWmktN3ZGWVRsSFEzRzVaRjNRQ19TZkxSbi13MHQ3aEs3c2Eza2RlOEFSX210d2FzVW5kX2tqUXM?oc=5"
         }
       ]
     },
@@ -45,7 +69,7 @@
       "id": "f3e39bef74b4",
       "title": "냄새 못 맡으면 편두통 위험 19% 오른다 - 재활뉴스",
       "published": "2026-08-19T07:03:52+00:00",
-      "summary": "냄새 못 맡으면 편두통 위험 19% 오른다&nbsp;&nbsp;재활뉴스두통 잦은 당신, 혹시 냄새 잘 못 맡지 않나요?···후각장애와 편두통 상관관계 나와&nbsp;&nbsp;경향신문[김태열의 생생건강S펜] “냄새 잘 못 맡으면 편두통 생길 위험가능성 있다”&nbsp;&nbsp;헤럴드경제후각장애, 편두통 발생 ‘경고신호’ 될까…위험 19% 높아&nbsp;&nbsp;의학신문후각장애 있으면 편두통 위험 19% 높아&nbsp;&nbsp;docdocdoc.co.kr",
+      "summary": "냄새 못 맡으면 편두통 위험 19% 오른다&nbsp;&nbsp;재활뉴스냄새 잘 못 맡으면 머리가 아프다? 후각장애 환자, 편두통 발생 위험 19% 더 높아&nbsp;&nbsp;v.daum.net[김태열의 생생건강S펜] “냄새 잘 못 맡으면 편두통 생길 위험가능성 있다”&nbsp;&nbsp;헤럴드경제평소 냄새 잘 못 맡는 사람 ‘편두통’ 발병 위험 19% 높다&nbsp;&nbsp;코리아헬스로그후각장애 있으면 편두통 발생 위험 19% 높아 … 340만명 추적 결과 확인&nbsp;&nbsp;헬스오",
       "sources": [
         {
           "name": "재활뉴스",
@@ -62,6 +86,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ocFdwU093Nnp0cUFBTVYwQWZqVTdhZ3Z1OWlkc3E4aFd4SzJuMkdlN2FOR09UYUprb09uWDhzQ1pvZ0R1cVJqdmhLWUptS2lWZGxwMlBKVThsX1F0TE9uQW1nZXlUc1Fadmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "40a6acc0eee9",
+      "title": "30초 전력질주가 몸을 바꾼다? 중강도 운동보다 크게 움직인 단백질 - 디지털투데이",
+      "published": "2026-08-19T05:38:07+00:00",
+      "summary": "30초 전력질주가 몸을 바꾼다? 중강도 운동보다 크게 움직인 단백질&nbsp;&nbsp;디지털투데이[건강포커스] \"3분간 전력 질주, 90분 중강도 운동보다 혈액 단백질 변화 커\"&nbsp;&nbsp;v.daum.net\"긴 운동보다 짧고 강하게\"…3분 고강도 운동이 만든 놀라운 변화&nbsp;&nbsp;파이낸셜뉴스3분 전력질주가 90분 중강도 운동보다 낫다?…혈액 속 놀라운 변화 [바디플랜]&nbsp;&nbsp;동아일보고강도 인터벌 '30초 전력질주'... \"단백질, 근육 세포 바꾼다\"&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "디지털투데이",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yc2YyTmJScFh3VEdUWENPc3lWNG5tSlR2NTdLRVdINjZxY2VlWFB3T3lzd3Z2bFVCTGd2QkZWNWY2V0ZyVFFuaWE1OTZpVHBOZmZQNUxxSHN2UlZjV0xXNE5DQklDclhBQTVIcjlSQ0JPbnc?oc=5"
         }
       ]
     },
@@ -90,13 +126,13 @@
       ]
     },
     {
-      "id": "772e58862ada",
-      "title": "[명의] 파킨슨병의 위험한 그림자, 파킨슨증후군 (8월 21일 밤 9시 55분, EBS1) - kr.acrofan.com",
+      "id": "cb5c10e7ba83",
+      "title": "[명의] 파킨슨병의 위험한 그림자, 파킨슨증후군 (8월 21일 밤 9시 55분, EBS1) - 아크로팬",
       "published": "2026-08-19T03:48:00+00:00",
-      "summary": "[명의] 파킨슨병의 위험한 그림자, 파킨슨증후군 (8월 21일 밤 9시 55분, EBS1)&nbsp;&nbsp;kr.acrofan.com",
+      "summary": "[명의] 파킨슨병의 위험한 그림자, 파킨슨증후군 (8월 21일 밤 9시 55분, EBS1)&nbsp;&nbsp;아크로팬",
       "sources": [
         {
-          "name": "kr.acrofan.com",
+          "name": "아크로팬",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0dzBpSlNnVjY0VUNuQURfaEJMWHFYNXhCZkNXUDR0ZXBpX2FaeDVvazM4U1NJM0hDdjZndEdsakV3VFdfcmhKYWZCYmlFdlo0dnIydjNnMmFEQ1k?oc=5"
         }
       ]
@@ -122,18 +158,6 @@
         {
           "name": "헬스코리아뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84c0gyWkFaTWs0dF9vdlFvNW1mYWo3QmI1ZDItYU9Sd3JPQ0lmMUVNWWEyWVhYR2kwRFcwTVFHQk50YVVvNXctZjM1VWoteWp5QTk3STBZeDlfRXZYeDhzbnc0NC1wOFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab895f55b791",
-      "title": "한양대병원, 류마티스예방센터 조직개편 ‘현판식 및 심포지엄’ 개최 - 재활뉴스",
-      "published": "2026-08-19T02:30:42+00:00",
-      "summary": "한양대병원, 류마티스예방센터 조직개편 ‘현판식 및 심포지엄’ 개최&nbsp;&nbsp;재활뉴스",
-      "sources": [
-        {
-          "name": "재활뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OLTR6MG1RUjVoNFJRakRYTGR6dUJ2dmRrc2licWZsQjVHVmMxNkg0eWY0ajFCa3JxRnlVd0k0SWJrZzlZUUtseFdlNXFuQU1scXFCOGwzYzE0TnpGOVozU0tVUEFUTTVKSjJv?oc=5"
         }
       ]
     },
@@ -189,7 +213,7 @@
       "id": "f40fa2b2a60a",
       "title": "식이섬유도 양보다 질…‘파이버믹싱’ 트렌드 - realfoods.co.kr",
       "published": "2026-08-19T00:30:11+00:00",
-      "summary": "식이섬유도 양보다 질…‘파이버믹싱’ 트렌드&nbsp;&nbsp;realfoods.co.kr널담, 고식이섬유 '깜빠뉴' 3종 출시…식이섬유 시장 공략&nbsp;&nbsp;한국경제통곡물 빵에 고작 2g…영양사가 꼽은 '진짜' 고식이섬유 식품 6가지&nbsp;&nbsp;네이트콜레스테롤·혈당 조절·변비 예방까지… 식이섬유 섭취 늘려라&nbsp;&nbsp;미주한국일보장 건강·혈당까지…'파이버맥싱' 확산&nbsp;&nbsp;매일경제",
+      "summary": "식이섬유도 양보다 질…‘파이버믹싱’ 트렌드&nbsp;&nbsp;realfoods.co.kr널담, 고식이섬유 '깜빠뉴' 3종 출시…식이섬유 시장 공략&nbsp;&nbsp;한국경제콜레스테롤·혈당 조절·변비 예방까지… 식이섬유 섭취 늘려라&nbsp;&nbsp;미주한국일보장 건강·혈당까지…'파이버맥싱' 확산&nbsp;&nbsp;mk.co.kr",
       "sources": [
         {
           "name": "realfoods.co.kr",
@@ -198,25 +222,13 @@
       ]
     },
     {
-      "id": "e6cf077a9d94",
-      "title": "약 30년간 잘못 알려진 결핵균 유전자 기능 - 동아사이언스",
-      "published": "2026-08-19T00:10:00+00:00",
-      "summary": "약 30년간 잘못 알려진 결핵균 유전자 기능&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1POG5zU3ZfaGI1d0M0UlQ1cFUzS0JSX0FPT2dpSFMwY0hhazM2ckM2UUhfWG8xRnM3eWVWOVlKZE9ZYkpNZXZLY1F1MlZjWmFCSlhIMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2104a9ca6391",
-      "title": "유전 물질 몸에 직접 넣어 치료…'생체 내 유전자 치료' 길 열린다 - news1.kr",
+      "id": "b41588497fe7",
+      "title": "유전 물질 몸에 직접 넣어 치료…'생체 내 유전자 치료' 길 열린다 - 뉴스1",
       "published": "2026-08-18T21:20:00+00:00",
-      "summary": "유전 물질 몸에 직접 넣어 치료…'생체 내 유전자 치료' 길 열린다&nbsp;&nbsp;news1.kr",
+      "summary": "유전 물질 몸에 직접 넣어 치료…'생체 내 유전자 치료' 길 열린다&nbsp;&nbsp;뉴스1",
       "sources": [
         {
-          "name": "news1.kr",
+          "name": "뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMTlJ1aEJqbEZPSjhaZ0o2Rnk1Nzd3WW9mMnk2aF9NMHB1UHIxZUZHV2pGWHRGZExnM04wRDAwRmZWUjAzUGh5SzdlTGhFd2NlQkHSAVdBVV95cUxPaElZNGRRdnZRWmhxYWxIcmZrWkhxSDQxNWwxcXdRTzNnRXpqdHBDaWFxV1RHRDVjbFZSZjlZUkJZTVNfb2JZNzRQN3NmSHlqcHNMSU54WkE?oc=5"
         }
       ]
@@ -246,13 +258,13 @@
       ]
     },
     {
-      "id": "b379c59db148",
-      "title": "콜레스테롤약 먹었더니 발기부전?...스타틴 종류 따라 차이 - 헬스케어N",
+      "id": "b689d131d6f7",
+      "title": "콜레스테롤약 먹었더니 발기부전?...스타틴 종류 따라 차이 - healthcaren.com",
       "published": "2026-08-18T11:44:18+00:00",
-      "summary": "콜레스테롤약 먹었더니 발기부전?...스타틴 종류 따라 차이&nbsp;&nbsp;헬스케어N",
+      "summary": "콜레스테롤약 먹었더니 발기부전?...스타틴 종류 따라 차이&nbsp;&nbsp;healthcaren.com",
       "sources": [
         {
-          "name": "헬스케어N",
+          "name": "healthcaren.com",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PT3hlNWdqVWZQWmdGWVVLTmRESkFSUHBMaUFVdUJUZEU2dDRlS1oxMkhGbVlBbUg0SG5Wc3Mwc1hlLUJFWVdQZGh6WEZFZDFYWlFqZmx6bldxNldlWWlaRVNWbnZKLXNyREItN2xWOHhxTWl4?oc=5"
         }
       ]
@@ -306,18 +318,6 @@
       ]
     },
     {
-      "id": "2f4d89673913",
-      "title": "고강도 인터벌 '30초 전력질주'... \"단백질, 근육 세포 바꾼다\" - 하이닥",
-      "published": "2026-08-18T06:00:00+00:00",
-      "summary": "고강도 인터벌 '30초 전력질주'... \"단백질, 근육 세포 바꾼다\"&nbsp;&nbsp;하이닥[건강포커스] \"3분간 전력 질주, 90분 중강도 운동보다 혈액 단백질 변화 커\"&nbsp;&nbsp;v.daum.net\"긴 운동보다 짧고 강하게\"…3분 고강도 운동이 만든 놀라운 변화&nbsp;&nbsp;파이낸셜뉴스3분 전력질주가 90분 중강도 운동보다 낫다?…혈액 속 놀라운 변화 [바디플랜]&nbsp;&nbsp;동아일보30초 전력질주가 몸을 바꾼다? 중강도 운동보다 크게 움직인 단백질&nbsp;&nbsp;디지털투데이",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ya1BMZ2VaQmRrWFRER0cyaFFqTlFpYlVMdWNPZjhHbV9Eam50cUVBcS1DaVpMclVNXzBzZzJnR3JzVlRRYkFWRUlpVWJFcm5vMlFUM19oN1M2MEpYcVIyVmM3QVpUN0JJMmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "286da7024d21",
       "title": "용종 절제부터 미세 병변까지… 대장내시경 검사 시 의료진의 숙련도까지 고려해야 - K스피릿",
       "published": "2026-08-18T05:34:07+00:00",
@@ -342,13 +342,13 @@
       ]
     },
     {
-      "id": "4b5e8ccfd5f8",
-      "title": "갱년기 후 머리숱이 줄었다면, 호르몬 치료가 답일까? [김진오의 처방전 없는 이야기] - ER 이코노믹리뷰",
+      "id": "819ae2cd1d56",
+      "title": "갱년기 후 머리숱이 줄었다면, 호르몬 치료가 답일까? [김진오의 처방전 없는 이야기] - econovill.com",
       "published": "2026-08-18T02:23:36+00:00",
-      "summary": "갱년기 후 머리숱이 줄었다면, 호르몬 치료가 답일까? [김진오의 처방전 없는 이야기]&nbsp;&nbsp;ER 이코노믹리뷰",
+      "summary": "갱년기 후 머리숱이 줄었다면, 호르몬 치료가 답일까? [김진오의 처방전 없는 이야기]&nbsp;&nbsp;econovill.com",
       "sources": [
         {
-          "name": "ER 이코노믹리뷰",
+          "name": "econovill.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0QVJuTUpQV2kxcm9RQUZEMnhxdWlCWEVqSU5xZ01vcGo5S3pnd2N5MmtZSWxZMDBUMWdHU1NndWR5YWVjdW5hQ0dLTDFnY2NjWThEWlNObXdyTjF3eUxYb0dBZEtfNm5BUFFGTQ?oc=5"
         }
       ]
@@ -402,25 +402,13 @@
       ]
     },
     {
-      "id": "d8236aa4c9de",
-      "title": "국내 사망 원인 1위 암… 피할 수 있는 위험부터 피하자 [아미랑] - 조선일보",
-      "published": "2026-08-18T00:04:00+00:00",
-      "summary": "국내 사망 원인 1위 암… 피할 수 있는 위험부터 피하자 [아미랑]&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzBwYVpaemx5Umt3b2tHMFlJTXhIczdnNktyWUNYQ3RWc3ZsQzZaMjlWdVdfb21aZ3lqcnV5NWtGWVMtNUdRLXJ3XzBod1h2bEZ1b2dmZUk4azJ6Tk1JSVlTY2FSZ3BvRmRDS05way1ZT2dtbmVUbnYwR1dSZ1dfX3FMNmFBQ3M3LVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7451967a9ce8",
-      "title": "캐나다, 폐경기 치료제 ‘린쿠엣’ 유방암 내분비치료 안면홍조로 적응증 확대 - 헬스케어N",
+      "id": "92265eb605cf",
+      "title": "캐나다, 폐경기 치료제 ‘린쿠엣’ 유방암 내분비치료 안면홍조로 적응증 확대 - healthcaren.com",
       "published": "2026-08-17T22:54:01+00:00",
-      "summary": "캐나다, 폐경기 치료제 ‘린쿠엣’ 유방암 내분비치료 안면홍조로 적응증 확대&nbsp;&nbsp;헬스케어N",
+      "summary": "캐나다, 폐경기 치료제 ‘린쿠엣’ 유방암 내분비치료 안면홍조로 적응증 확대&nbsp;&nbsp;healthcaren.com",
       "sources": [
         {
-          "name": "헬스케어N",
+          "name": "healthcaren.com",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nd0xGVUpGdXZjM2pwc1RFTjZ2T1NyUkNKaTNkQmd1VXRyZVRBYTBLdG1fQm1sR2tXcV9JVllIWnB5eF9rWkhBbWYwUjRTUWJwNS1rNmFnX20tRGZEVk4tY19LZXB5LTU3V3plbW5QY0IyVWNl?oc=5"
         }
       ]
@@ -450,30 +438,6 @@
       ]
     },
     {
-      "id": "2bf17be6bc5a",
-      "title": "“혈관 다 망가진다”… 내과 의사가 ‘절대 안 먹는 음식’ 3가지 - 헬스조선",
-      "published": "2026-08-17T17:00:00+00:00",
-      "summary": "“혈관 다 망가진다”… 내과 의사가 ‘절대 안 먹는 음식’ 3가지&nbsp;&nbsp;헬스조선“혈압 높인 복병이었다”… 영양사들 경고한 ‘양의 탈을 쓴 음식’, 뭘까?&nbsp;&nbsp;헬스조선“자식 건강까지 망친다” 덜 먹어야 할 ‘흔한 집밥 메뉴’… 뭘까?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKek5FLXl1QTdGTFZHbFlkcWFFU29tSHlfV1ZUVFlYWmpmeDRvTDI2Q0ZuM0pTUlptOWdvRVVaOThfeUVFX2VHSXV6MGNUalp0aURWMGF0R1MxQk1kTE12cUp1dHF6QjRFWGdNLV9ZcDFXNlJNYWtCVUFLX0YtZUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05b74f1f9ac5",
-      "title": "“운동할 때 나오는 단백질이 ‘치매 조기경보’ 역할 가능” - 동아일보",
-      "published": "2026-08-17T15:30:00+00:00",
-      "summary": "“운동할 때 나오는 단백질이 ‘치매 조기경보’ 역할 가능”&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EN1dKNDlPaGRBRUdDTGZRQzJkSm00R0NLbWdsSEVwYUNQQUdfdGNPckM3TU5lcC13bjRQSGpIN0RNSFdUSmR1VzRDMnFXckRCZHcyMTJuU2FaY09IZzdjcU1xbGJpWWVKcjZkQ2drSTV2MU1NR1HSAWZBVV95cUxPbW9QV2p1OE5Jd3EzOF80eFpmOGJJQWpnRDE0Y1RTMUcwS0g2aVF4azdvQVp2RHU1WGppSldQZUYwRF9pd0JQRHFtTFdLQnVWZXZFNTl2UVF4dDdvZHpjLXBncWphRVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b7e4e39204cc",
       "title": "양자컴퓨터부터 인공위성까지···세종 초등생, 연구현장에서 보낸 특별한 여름방학 - 헬로디디",
       "published": "2026-08-17T07:48:00+00:00",
@@ -482,18 +446,6 @@
         {
           "name": "헬로디디",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TNzdHVWpoQm1samFENUpRYm1jWWhGMkFQQlNSYjJ1cm1hdkxMQ2Z0V0JIUnZiS1hBZzV1OGpTdXFkNHVMSmFrb1NURURVWU9BaUh5TEF0TS1Ga2w1ZVMyU0RxU1JzcTBCbnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1710e77679eb",
-      "title": "중국의 ‘알츠하이머 치매 수술’ 논란…기적의 치료법인가, 일시적 착시인가 - 한겨레",
-      "published": "2026-08-17T01:44:00+00:00",
-      "summary": "중국의 ‘알츠하이머 치매 수술’ 논란…기적의 치료법인가, 일시적 착시인가&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4dThpT2JIMUFoQlZjR2lrcWdZRmxtdzltTWdnd3V1Z01uU3FHOVBCR3BrT2ljbE1lTTRIRWRBbWotMTZJS0U4elhreEFYcDF1eTJkY2d4TGd1RWZ6YjllWkpDWHpFQVByOU1SY2FFQmhFZw?oc=5"
         }
       ]
     },
