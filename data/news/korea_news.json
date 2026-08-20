@@ -1,15 +1,27 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-20T12:54:01.897499+00:00",
+  "fetched_at": "2026-08-20T18:41:59.418077+00:00",
   "total_fetched": 91,
   "unique_count": 91,
   "health_related_count": 44,
   "news": [
     {
+      "id": "6f1a2ffe180a",
+      "title": "농업 종사자 2명 중 1명 ‘대사증후군’ … 비농업인보다 7.1%p 높아 - 헬스오",
+      "published": "2026-08-20T16:06:21+00:00",
+      "summary": "농업 종사자 2명 중 1명 ‘대사증후군’ … 비농업인보다 7.1%p 높아&nbsp;&nbsp;헬스오농업 종사자 2명 중 1명 ‘대사증후군’…나이 탓만은 아니었다 [노화설계]&nbsp;&nbsp;동아일보농업 종사자 절반 대사증후군…비만·고혈압·당뇨도 빨간불&nbsp;&nbsp;한스경제농업인 절반 '대사증후군'…육체노동과 건강운동은 달랐다&nbsp;&nbsp;네이트농업 종사자 절반 ‘대사증후군’…비농업인보다 7.1% 높다&nbsp;&nbsp;의학신문",
+      "sources": [
+        {
+          "name": "헬스오",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPdEYxazlLZ1A4ZnpyalJGQTA5QUZMYjNhaERianpRcDh5YS1rU2Q4cFM2eDBhYWhiV3Y1d0ZwS2pRTXlsYmNDSVVfNDBFWjJHdmF5VU43Snk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fb4fc9da7505",
       "title": "국립암센터 연구팀, 한국인 담도계암 환자 14%에서 유전성 암 관련 변이 확인 外 - 의약뉴스",
       "published": "2026-08-20T09:41:23+00:00",
-      "summary": "국립암센터 연구팀, 한국인 담도계암 환자 14%에서 유전성 암 관련 변이 확인 外&nbsp;&nbsp;의약뉴스\"韓 담도계암 환자 14% 유전성 변이…가족력 없어도 검사해야\"&nbsp;&nbsp;v.daum.net한국인 담도계암 환자 172명 유전적 소인 분석&nbsp;&nbsp;BRIC국립암센터, 한국인 담도계암 환자 유전적 소인 분석&nbsp;&nbsp;로이슈“가족력 없어도 담도암 생식세포 병원성 변이 확인”&nbsp;&nbsp;병원신문",
+      "summary": "국립암센터 연구팀, 한국인 담도계암 환자 14%에서 유전성 암 관련 변이 확인 外&nbsp;&nbsp;의약뉴스\"韓 담도계암 환자 14% 유전성 변이…가족력 없어도 검사해야\"&nbsp;&nbsp;v.daum.net국립암센터, 한국인 담도계암 환자 유전적 소인 분석&nbsp;&nbsp;로이슈한국인 담도계암 환자 172명 유전적 소인 분석&nbsp;&nbsp;BRIC“가족력 없어도 담도암 생식세포 병원성 변이 확인”&nbsp;&nbsp;병원신문",
       "sources": [
         {
           "name": "의약뉴스",
@@ -42,18 +54,6 @@
       ]
     },
     {
-      "id": "0916710660b1",
-      "title": "농업 종사자 2명 중 1명 '대사증후군'… 비농업인보다 유병률 7.1%p 높아 - 보건신문",
-      "published": "2026-08-20T07:46:40+00:00",
-      "summary": "농업 종사자 2명 중 1명 '대사증후군'… 비농업인보다 유병률 7.1%p 높아&nbsp;&nbsp;보건신문농업 종사자 2명 중 1명 ‘대사증후군’…나이 탓만은 아니었다 [노화설계]&nbsp;&nbsp;v.daum.net농업 종사자 절반 대사증후군…비만·고혈압·당뇨도 빨간불&nbsp;&nbsp;한스경제농업인 절반 '대사증후군'…육체노동과 건강운동은 달랐다&nbsp;&nbsp;네이트농업 종사자 절반 ‘대사증후군’…비농업인보다 7.1% 높다&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WTEJ2TWlyaFJQcWtldGQzQnBQNHZqb3E1RU9odDVncnN0R0N6M21iVmVhSmYwcGUxbDJ6a0YwdXZ6REs0c0pJZnlvYXl4WWlUSEE3WW5LWVJmbHF4UUxyUmR0MA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ab0d110f1f33",
       "title": "휴가 후 계속되는 장 트러블, 과민성대장증후군과 대장내시경 검사 필요할까? - K스피릿",
       "published": "2026-08-20T07:36:06+00:00",
@@ -68,8 +68,8 @@
     {
       "id": "7b63aaa13f1c",
       "title": "분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다 - 로컬세계",
-      "published": "2026-08-20T06:41:23+00:00",
-      "summary": "분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다&nbsp;&nbsp;로컬세계음식물 삼키고 '딱 2초'…AI가 사레 위험군 발견&nbsp;&nbsp;뉴시스분당서울대병원, 2초 음성으로 흡인 위험 선별 AI 연구&nbsp;&nbsp;로이슈잦은 사레에 식후 기침…‘연하장애’ 신호?&nbsp;&nbsp;헬스경향분당서울대병원 연구팀, 음성 기반 AI 모델 제시 外&nbsp;&nbsp;의약뉴스",
+      "published": "2026-08-20T06:41:10+00:00",
+      "summary": "분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다&nbsp;&nbsp;로컬세계음식물 삼키고 '딱 2초'…AI가 사레 위험군 발견&nbsp;&nbsp;뉴시스분당서울대병원, 2초 음성으로 흡인 위험 선별 AI 연구&nbsp;&nbsp;로이슈삼킨 뒤 2초 목소리로 ‘흡인 위험’ 가려낸다&nbsp;&nbsp;e-의료정보잦은 사레에 식후 기침…‘연하장애’ 신호?&nbsp;&nbsp;헬스경향",
       "sources": [
         {
           "name": "로컬세계",
@@ -198,18 +198,6 @@
       ]
     },
     {
-      "id": "8e43032764aa",
-      "title": "서울대병원, 예후 나쁜‘VETC형 간암’분자생물학적 특성 첫 규명 - 의사신문",
-      "published": "2026-08-20T01:10:48+00:00",
-      "summary": "서울대병원, 예후 나쁜‘VETC형 간암’분자생물학적 특성 첫 규명&nbsp;&nbsp;의사신문재발 위험 큰 VETC형 간암…'이 유전자' 활성화&nbsp;&nbsp;뉴시스[Medical Report] 예후 나쁜 ‘VETC형 간암’ 비밀 풀렸다…턱뼈 괴사골 자연 분리까지 평균 6.82개월 外&nbsp;&nbsp;헬스케어N서울대병원 \"재발 위험 높은 간암 특징 찾았다\"&nbsp;&nbsp;네이트서울대병원, VETC형 간암 분자생물학적 특성 규명&nbsp;&nbsp;MEDI:GATE NEWS",
-      "sources": [
-        {
-          "name": "의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IekJXUzlaNW9iUlIzUkE0OUtRMUxjM0NCeVZoSGk0ZE9BQ3VqRjFIOUJuRnNuUGhXWDYwVGdzdE5Xc2trQ3ZtbGRHT2ZPQjhRaDJUU29OVzMyakFmYktYM2xHM0s3WUdNeVVVdEVKMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5dd9c5f8be10",
       "title": "[기고] 서울대치과병원 원스톱협진센터 이정태 교수... ‘치매 환자의 구강관리법’ - 덴탈아카이브",
       "published": "2026-08-20T00:57:15+00:00",
@@ -218,6 +206,18 @@
         {
           "name": "덴탈아카이브",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQQlFSZ2VHZDZfd2Jwb2duM0pVQXlxT0dxRVcwcWlvQ1JNTWZfZnp1OEhpXzdXWFJGU3BROHNyeEtkWmpMcFBmMzJnMzJkUXU0TmlZU2V4cWNtQ0Z0WmZsaVFRUXY3VmhLSHhaNHpR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "87ec13c5cc4a",
+      "title": "예후 나쁜 VETC형 간암, 분자생물학적 특성 최초 규명 - 메드월드뉴스",
+      "published": "2026-08-20T00:53:06+00:00",
+      "summary": "예후 나쁜 VETC형 간암, 분자생물학적 특성 최초 규명&nbsp;&nbsp;메드월드뉴스재발 위험 큰 VETC형 간암…'이 유전자' 활성화&nbsp;&nbsp;뉴시스[Medical Report] 예후 나쁜 ‘VETC형 간암’ 비밀 풀렸다…턱뼈 괴사골 자연 분리까지 평균 6.82개월 外&nbsp;&nbsp;헬스케어N서울대병원 \"재발 위험 높은 간암 특징 찾았다\"&nbsp;&nbsp;네이트서울대병원, VETC형 간암 분자생물학적 특성 규명&nbsp;&nbsp;MEDI:GATE NEWS",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLdzFpajI1d3hERlRUNk5saHRyUzB1QXZsdHdrNTM5SmpwdDBGdEZueExLblEtdV9qcDRJa3ZZMkk5SnlRdUFkaVpfVnBoX0tBdnIzVGo1WTlPaEFoMzl1T2tZXzMtTlBhUXdxSQ?oc=5"
         }
       ]
     },
@@ -246,6 +246,18 @@
       ]
     },
     {
+      "id": "b11a98eb4e63",
+      "title": "아침마다 손이 굳는다면… 집에서 확인하고 병원 가야 할 류마티스관절염 신호 - 스포츠월드",
+      "published": "2026-08-19T23:44:32+00:00",
+      "summary": "아침마다 손이 굳는다면… 집에서 확인하고 병원 가야 할 류마티스관절염 신호&nbsp;&nbsp;스포츠월드\"손가락 관절 통증이 시작\"…전신 염증 부르는 '이것'&nbsp;&nbsp;뉴시스손가락 붓고 아픈 66세女…3년간 숨찬 이유 알고보니&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "스포츠월드",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LbXR5SXB5MkZiWUpqMVN5UzZGQVAyTVg5SlJhUmdvWHpOZ002V3kyVWo2RlZMNWlvTVFOaWpXMjJRNGd5S0Y1aHJOZy1XT0tFNTNVdG9JWUp4NFE1NUVLQjJn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7586c5b0ae6e",
       "title": "자궁내막증 통증, 염증 넘어 ‘신경·면역·내분비’ 복합기전이다. - 메드월드뉴스",
       "published": "2026-08-19T23:44:12+00:00",
@@ -266,6 +278,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HbVZraUNXV2F4dzdDbGttdEM4R0JJNVpVd2hBZ19CeE12MWlFeU1URkUyQVQ4bkQ4Q1pJbjRERkR6YjlpTXRZVkZrM1B3a3pBbmpGeXRuaDRYcDF1c0xEU1V5cVFuc18tV2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16eb09d4a58e",
+      "title": "“암은 갑자기 오지 않는다…과일·채소로 억제력 높여야” [건강한겨레] - 한겨레",
+      "published": "2026-08-19T20:01:00+00:00",
+      "summary": "“암은 갑자기 오지 않는다…과일·채소로 억제력 높여야” [건강한겨레]&nbsp;&nbsp;한겨레몸의 노화 빨라진 젊은이들… 암도 일찍 찾아온다&nbsp;&nbsp;v.daum.net국내 사망 원인 1위 암… 피할 수 있는 위험부터 피하자&nbsp;&nbsp;헬스조선\"설탕 없어도 달콤하다\"...간 살리고 암 예방·치료에 도움 되는 '이 채소'&nbsp;&nbsp;아이뉴스24\"고기 아예 끊어야 할까?\"…식습관 다 바꾼 암 환자의 심정은?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5MEp3WWhpZWVxdVpwMjJhdzdvS044aFBnSGhVSzREZ1ROOWlTZERnbEk2S2p3bkowcDN1WS1XY0Z6S01VM0UzQWVJcDB5eEtNbGZ4dzdickpXdW8xRVlZNHJwQzcyZFBKZXhCRWVZOA?oc=5"
         }
       ]
     },
@@ -450,18 +474,6 @@
       ]
     },
     {
-      "id": "f40fa2b2a60a",
-      "title": "식이섬유도 양보다 질…‘파이버믹싱’ 트렌드 - realfoods.co.kr",
-      "published": "2026-08-19T00:30:11+00:00",
-      "summary": "식이섬유도 양보다 질…‘파이버믹싱’ 트렌드&nbsp;&nbsp;realfoods.co.kr‘제로’ 다음은 ‘식이섬유’… 장 건강·혈당 다 잡는다&nbsp;&nbsp;조선일보콜레스테롤·혈당 조절·변비 예방까지… 식이섬유 섭취 늘려라&nbsp;&nbsp;미주한국일보장 건강·혈당까지…'파이버맥싱' 확산&nbsp;&nbsp;매일경제[푸드·다이닝 트렌드] 널담, '파이버맥싱' 트렌드 겨냥한 고단백·저당·고식이섬유 '깜빠뉴' 3종 출시 外&nbsp;&nbsp;베이비뉴스",
-      "sources": [
-        {
-          "name": "realfoods.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MLTJxUlo1dDZJWDZELVF4QjlqNEl1b2xmaUFKRjllb0pkV29HSl9BU2pyb3VyVlljMnZYOWVXMTZWN1BYdlp3SExXbGtsaHUyNE51U2Q3Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e6cf077a9d94",
       "title": "약 30년간 잘못 알려진 결핵균 유전자 기능 - 동아사이언스",
       "published": "2026-08-19T00:10:00+00:00",
@@ -470,6 +482,18 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1POG5zU3ZfaGI1d0M0UlQ1cFUzS0JSX0FPT2dpSFMwY0hhazM2ckM2UUhfWG8xRnM3eWVWOVlKZE9ZYkpNZXZLY1F1MlZjWmFCSlhIMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c4b6392ffd4",
+      "title": "내과 전문의 추천, 고혈압 관리에 좋은 식품 5 - 하이닥",
+      "published": "2026-08-18T21:30:00+00:00",
+      "summary": "내과 전문의 추천, 고혈압 관리에 좋은 식품 5&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lb29DX1d6LTRyTjBOX0FaSnNVbXJ1VE9DTzBlbGdZNlI4T0JNYWxJVGt4MzFrMmx2OW1OV1VOb0xzR2xYSDV2bkR6WWhfazI2QWx0WGhGaDV5UkdGZmh2NkF0cUhBWGY1Z0E?oc=5"
         }
       ]
     },
@@ -494,30 +518,6 @@
         {
           "name": "MIT 테크놀로지 리뷰",
           "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNMDRYejlFNGVEN1dhYmRpNnNIS011enJPdHlGR293Z3ZaWHI5LUpGSE1yMnZBOVc1NnN6dWhUbVM5eGlleG92SEszVkkyYk9CdV9rODZmSkwxRzVlb21BcFVJT1NfSkl3MGtJUFhnaHU0Y0NBY212X19Lb0Y1NHk3aFh0bmN0S2VMc0hlX28ycmVrbTRRUDhUaDVxR1NSRF9HOGdMd3NVRERpeWRVQ2MwUVplRUlYTVhaT1c3WENzdFFWUl94TE0wUm15UHNkVTlIUXZJNmVWbTlEZnVRWmdGRVFraWNkNl9LbWJNOWxuejRCOHpKSVJiZURjRWNfQms1VkR4eUNDbnF2eTFKZ0huR3hyQVdyM3NMdUFJYjVrNUdObFMwSkpzM0RONGlDRENpRVltTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c11c47aec243",
-      "title": "\"밥 먹는데 계속 사레가\"… 60대 男 '이 암' 진단 - 헬스조선",
-      "published": "2026-08-18T16:30:00+00:00",
-      "summary": "\"밥 먹는데 계속 사레가\"… 60대 男 '이 암' 진단&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cGtETGhCTDJOOFRzRXloNWgyMnJNUmZfV01LY3AzXzZlc0JJby0yVXEtdHNYZ0kwc0U5cl9LWTNyQnZWcmx3ZVUzbFpoOXk4OUl0Q3B5aEs1TzREVVp3SmFPTHFQdXRwUURBR3pyX2xJVW96Y3JDZWJranF6X1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50bfb588415b",
-      "title": "남학생도 HPV 감염된다…서귀포 동부보건소 무료 접종 당부 - gukjenews.com",
-      "published": "2026-08-18T12:59:37+00:00",
-      "summary": "남학생도 HPV 감염된다…서귀포 동부보건소 무료 접종 당부&nbsp;&nbsp;gukjenews.com12세 남아 HPV 무료접종 10%대...\"어릴 때 맞으면 이득\"&nbsp;&nbsp;YTN 사이언스서귀포시 동부보건소, 12세 남성 청소년 HPV 무료 접종 받으세요&nbsp;&nbsp;newszoom.kr",
-      "sources": [
-        {
-          "name": "gukjenews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XVEVWTHJDVGo3NktXODNUalBsSWZwNUFtUUNEYUVKaDZLWmVVOXhWaksxc0tZQmVQOHZoQVNiYWZ6UzViS05OREhveHMxTGJFWHNtZjlmQnB5bUFLUklrMFZWUXNreENZWDZwVUhn?oc=5"
         }
       ]
     },
