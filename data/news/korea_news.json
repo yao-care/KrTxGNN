@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-21T12:52:59.121636+00:00",
-  "total_fetched": 108,
-  "unique_count": 108,
+  "fetched_at": "2026-08-21T18:39:25.477793+00:00",
+  "total_fetched": 110,
+  "unique_count": 110,
   "health_related_count": 55,
   "news": [
+    {
+      "id": "d3af3939ae86",
+      "title": "웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역 - RadioKorea",
+      "published": "2026-08-21T17:34:00+00:00",
+      "summary": "웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역&nbsp;&nbsp;RadioKorea",
+      "sources": [
+        {
+          "name": "RadioKorea",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02LU1UM3FlVkF3T3pIbjkzM29oQWd1eEoxbk5neXhZaE83M1RYLS10VWUxTVVpWjVJSE83ZTRnRGtBT0Vtbk5lTm93NjJJTTBwMlFlNE8tY3I3MkNDYVJRbnRZQ3lMNlkyWW1ZNXlrcnBpeDBhbVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02da5f22af70",
+      "title": "췌장암 4기 진단 받고 “운 좋았다”는 50대 남성… 왜? - 헬스조선",
+      "published": "2026-08-21T13:00:00+00:00",
+      "summary": "췌장암 4기 진단 받고 “운 좋았다”는 50대 남성… 왜?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FR0FpLWEyWThhTWRGNzlFV1dZWDRLdFNSUTlQOTg0X2RicmNnYWd2MGhaTVhBbU5uQmdUa3E3aS1sNUZmbEF3Q2xXbURJODBHbi1JZlgzc2NNSFZhb2RQY3ltUkRYQlJHUm5fLUpDalV2ajAzSTV1WWVzamEzXzA?oc=5"
+        }
+      ]
+    },
     {
       "id": "c241825b403b",
       "title": "기억력 좋은 노인, 치매 위험 낮을까? 연구해보니 ‘반전 결과’ - 헬스조선",
@@ -32,7 +56,7 @@
     {
       "id": "1a32a164e27e",
       "title": "영양제부터 콜레스테롤까지…건강 상식의 대반전 - MTN 머니투데이방송",
-      "published": "2026-08-21T10:00:01+00:00",
+      "published": "2026-08-21T10:02:01+00:00",
       "summary": "영양제부터 콜레스테롤까지…건강 상식의 대반전&nbsp;&nbsp;MTN 머니투데이방송",
       "sources": [
         {
@@ -42,10 +66,10 @@
       ]
     },
     {
-      "id": "a62188eaf24f",
-      "title": "동물농장 다녀온 3살 딸 '뇌 손상'…무슨 일 있었길래 - 한국경제",
+      "id": "669d07a6448f",
+      "title": "동물농장 다녀온 3살 딸 '뇌 손상'…이유 밝혀지자 '발칵' - 한국경제",
       "published": "2026-08-21T08:01:58+00:00",
-      "summary": "동물농장 다녀온 3살 딸 '뇌 손상'…무슨 일 있었길래&nbsp;&nbsp;한국경제동물 쓰다듬은 3세 아이, 영구적 뇌 손상…체험농장서 무슨 일이&nbsp;&nbsp;동아일보동물원 체험이 부른 비극…호주 아동 2명, 세균 감염으로 중태&nbsp;&nbsp;전자신문\"동물 만졌을 뿐인데\"…체험 농장 갔던 아이 2명 '뇌 손상' 등 중태 [월드픽]&nbsp;&nbsp;네이트동물 체험농장 다녀온 아이 2명 중태… 뇌 손상 일으킨 ‘이 균’ 때문?&nbsp;&nbsp;코메디닷컴",
+      "summary": "동물농장 다녀온 3살 딸 '뇌 손상'…이유 밝혀지자 '발칵'&nbsp;&nbsp;한국경제동물 쓰다듬은 3세 아이, 영구적 뇌 손상…체험농장서 무슨 일이&nbsp;&nbsp;동아일보동물원 체험이 부른 비극…호주 아동 2명, 세균 감염으로 중태&nbsp;&nbsp;전자신문\"동물 만졌을 뿐인데\"…체험 농장 갔던 아이 2명 '뇌 손상' 등 중태 [월드픽]&nbsp;&nbsp;네이트동물 체험농장 다녀온 아이 2명 중태… 뇌 손상 일으킨 ‘이 균’ 때문?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "한국경제",
@@ -57,7 +81,7 @@
       "id": "7d028e4e1e12",
       "title": "“혈관벽에 상처 낸다” 심장 전문의 경고 나온 ‘최악의 음식’… 뭐야? - 헬스조선",
       "published": "2026-08-21T07:30:00+00:00",
-      "summary": "“혈관벽에 상처 낸다” 심장 전문의 경고 나온 ‘최악의 음식’… 뭐야?&nbsp;&nbsp;헬스조선“심장 다 망가진다”… 의사는 절대 안 먹는다는 음식, 뭐야?&nbsp;&nbsp;헬스조선[영상] 한국인들 즐겨 먹는데 어쩌나…심장 전문의 “절대 안 먹는다”는 음식 [헬시타임]&nbsp;&nbsp;서울경제편해서 매일 먹었는데… 27년차 의사가 밝힌 ‘혈관 파괴범’ 정체&nbsp;&nbsp;뉴스와\"오래 살려면 냉장고에서 빼라\"…전문가가 조언한 '피해야 되는 음식' [헬시타임]&nbsp;&nbsp;네이트",
+      "summary": "“혈관벽에 상처 낸다” 심장 전문의 경고 나온 ‘최악의 음식’… 뭐야?&nbsp;&nbsp;헬스조선“심장 다 망가진다”… 의사는 절대 안 먹는다는 음식, 뭐야?&nbsp;&nbsp;헬스조선[영상] 한국인들 즐겨 먹는데 어쩌나…심장 전문의 “절대 안 먹는다”는 음식 [헬시타임]&nbsp;&nbsp;서울경제“노년기 위해, 50세부터는 반드시 끊어라”… 영양사 꼽은 ‘5가지 음식’은?&nbsp;&nbsp;헬스조선국물 맛내려 넣은 육수 알약, ‘안 짜네’ 안심했다간 신장 망가집니다&nbsp;&nbsp;뉴스와",
       "sources": [
         {
           "name": "헬스조선",
@@ -105,7 +129,7 @@
       "id": "01a7b296fda0",
       "title": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계] - 동아일보",
       "published": "2026-08-21T05:10:00+00:00",
-      "summary": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선매일 설탕이 든 음료를 마시면 위암 발병 위험이 2.45배 증가할까요?&nbsp;&nbsp;Vietnam.vn‘이 음료’, 하루 한 잔 이상 마시면 위암 위험 2.5배… 대안은 뭘까?&nbsp;&nbsp;하이닥",
+      "summary": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴매일 설탕이 든 음료를 마시면 위암 발병 위험이 2.45배 증가할까요?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "동아일보",
@@ -138,6 +162,18 @@
       ]
     },
     {
+      "id": "5ffd4b979e07",
+      "title": "4조 원 받고 구글에서 일한 AI 개발자, 몸값 더 키워 오픈AI로 - 조선일보",
+      "published": "2026-08-21T02:12:27+00:00",
+      "summary": "4조 원 받고 구글에서 일한 AI 개발자, 몸값 더 키워 오픈AI로&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLUlITFhlZ2ppUTFuSjB1ckZ6WWtIU1k4VXhITWt5LWF4T0NiSUJSemxJQmk0dXhVNWg1V3g5ZWVzUmJIcWFkaVBlU3dxWW80Q3FCaWoyNWhJTUpRQWZVWXpWNVF3RF9IQUcxN0FBel91VUpYSVpRS25xenl3aXlSZW5DV3c3NV9hMHBSWUxFNWxTbzZB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "19eab3bbcb55",
       "title": "[한국인의 100가지 질환-87] 눈이 빨갛고 눈곱까지 낀다면… 여름철 ‘유행성 각결막염’ 주의 - 뉴스인",
       "published": "2026-08-21T01:54:41+00:00",
@@ -158,6 +194,18 @@
         {
           "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9taGZoaTMzd1JHR2ZtN1RjRUg5QXlaS3d0RTBaRUF0a0ZrOVNIeWtIemIyVjV0QW9JaWZIX0UyNUpUV3FaTGw5YzFvNGFWMnNDUXBaX0JTMEFWWmJuSW10QVltNnNYZThjTjF0QlhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a5d06fc447b",
+      "title": "프라임마스, 마이크론과 40TB ‘외장 메모리’ 구축… 美 국립연구소에 설치 - 조선일보",
+      "published": "2026-08-21T01:04:06+00:00",
+      "summary": "프라임마스, 마이크론과 40TB ‘외장 메모리’ 구축… 美 국립연구소에 설치&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2MyTlAta2hheDVENFZGU25ldkVrYUY2ZTJ4V2hUNHNmRkp4dXYxazd1V2s0blVndjkxaVVFRWRicEE1dHZGQndSQ0tTRjFCd29jOFJ0bGJHYmhJV2tpVDlOdVZGaHB4bW9YbS0xa0lBSEJ0NlFsUGNwUENJYVRrOVVyOA?oc=5"
         }
       ]
     },
@@ -189,7 +237,7 @@
       "id": "38aabbee2c5f",
       "title": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까? - 코리아헬스로그",
       "published": "2026-08-20T23:56:06+00:00",
-      "summary": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까?&nbsp;&nbsp;코리아헬스로그극심한 갈증으로 병원 가니 ‘당뇨병’ 진단… 127kg 여성, ‘매일 먹은 음식’ 있다는데?&nbsp;&nbsp;헬스조선\"밥만 먹고 나면 너무 졸려\"…눈 앞이 흐릿해진다면 '혈당 스파이크'가 보내는 경고 [헬시타임]&nbsp;&nbsp;네이트[건강 100세를 위하여] 배달 음식 먹고 운동 안 하고ⵈ 혹시 나도? 20‧30대 ‘젊은 당뇨병’ 주의!&nbsp;&nbsp;경기메디뉴스“밥, 빵 줄이고 운동했는데”…혈당 높은 것이 ‘이 습관’ 때문?&nbsp;&nbsp;코메디닷컴",
+      "summary": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까?&nbsp;&nbsp;코리아헬스로그“밥만 먹고 나면 너무 졸려”…눈 앞이 흐릿해진다면 ‘혈당 스파이크’가 보내는 경고 [헬시타임]&nbsp;&nbsp;서울경제극심한 갈증으로 병원 가니 ‘당뇨병’ 진단… 127kg 여성, ‘매일 먹은 음식’ 있다는데?&nbsp;&nbsp;헬스조선21세에 당뇨병 진단받은 女 \"16kg 감량, 혈당 개선\"…어떻게?&nbsp;&nbsp;네이트배달 음식 먹고 운동 안 하고ⵈ 혹시 나도? 20‧30대 ‘젊은 당뇨병’ 주의!&nbsp;&nbsp;부천신문",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -270,18 +318,6 @@
       ]
     },
     {
-      "id": "aa86fcf9ba79",
-      "title": "60대 남성, 차 안에서 유방암 증상 알아챘다는데… 무슨 사연? - 헬스조선",
-      "published": "2026-08-20T09:00:00+00:00",
-      "summary": "60대 남성, 차 안에서 유방암 증상 알아챘다는데… 무슨 사연?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jMGxlZ0hvYm5QUU5IajY5a0ZUVTI4QnZqX2NDVGdHTy1tQzItalpQQ3RfMVhRMUdJWE12TFgxVVJ3LWctR3FyX2o1VTN1YkxuRWFja2gtaXl1YjBKamFWRDNtd1FsTC1sTGFvY2tzbEljcWxuM1hVdnZDdjdiT3M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2f853b11ae0a",
       "title": "빛의 속도 8%로 움직이는 별…우리은하서 가장 빠른 별 발견 - 동아사이언스",
       "published": "2026-08-20T08:45:00+00:00",
@@ -290,18 +326,6 @@
         {
           "name": "동아사이언스",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jWmJtaFdRMkVkcjhOa3ZKSmNTWkdjS2RyaHhCOEh5Z1NROWhQeEY5aWdMTU51SzZwMFk2WnRRNnBHVmI3V3I4QzdPMFBjeHhhU3ZUYg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d3618e45848f",
-      "title": "EBS 명의, 신혜원·윤정한 교수와 알아보는 파킨슨병과 닮은 ‘파킨슨증후군’ - 한국강사신문",
-      "published": "2026-08-20T08:28:00+00:00",
-      "summary": "EBS 명의, 신혜원·윤정한 교수와 알아보는 파킨슨병과 닮은 ‘파킨슨증후군’&nbsp;&nbsp;한국강사신문\"몸 느려지고 손 떨리는데…\" 파킨슨병보다 위험한 '이 질환'일 수도 [명의]&nbsp;&nbsp;v.daum.net[명의] 다약제 복용이 파킨슨을 유발한다?&nbsp;&nbsp;Queen 이코노미퀸떨어지는 약효 잡는 파킨슨 치료법&nbsp;&nbsp;뉴스버즈파킨슨병과는 또 다르다…위험한 그림자, 파킨슨 증후군&nbsp;&nbsp;위키트리",
-      "sources": [
-        {
-          "name": "한국강사신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UNkp5aXRTeXVKZGJZSHRieVRrRE9mRl9OVG9Tdzh6eHU5UExBTnFXVzdhcEoxcm5KYnJncFRFa19GWlFDYTQyTFlCS0tOMW9wdFYzZ3JjS3BBenRFWHlmLXhNSjBOVi1pTDZ6TXJUVzA?oc=5"
         }
       ]
     },
@@ -357,7 +381,7 @@
       "id": "31d74cce6a32",
       "title": "취미로 하는 운동과 육체노동, 치매 위험 연관성 엇갈려…연구 - 디지털투데이",
       "published": "2026-08-20T06:15:16+00:00",
-      "summary": "취미로 하는 운동과 육체노동, 치매 위험 연관성 엇갈려…연구&nbsp;&nbsp;디지털투데이[건강포커스] \"여가 운동은 치매 위험 낮추고 육체노동은 위험 높일 수 있어\"&nbsp;&nbsp;v.daum.net집안일은 도움되지만… 직장서 몸 움직이는 것은 치매 되레 키운다&nbsp;&nbsp;헬스조선\"많이 움직이면 치매 예방?\"…육체노동자 치매 위험 20% 높은 이유&nbsp;&nbsp;스포츠조선\"여가 운동은 치매 위험 24% 낮추는데…일하며 쓰는 몸은 20% 높일 수도\"&nbsp;&nbsp;아시아경제",
+      "summary": "취미로 하는 운동과 육체노동, 치매 위험 연관성 엇갈려…연구&nbsp;&nbsp;디지털투데이많이 움직이면 치매에 좋은 줄 알았는데…'이런 활동'은 위험 높인다&nbsp;&nbsp;v.daum.net\"여가 운동은 치매 위험 24% 낮추는데…일하며 쓰는 몸은 20% 높일 수도\"&nbsp;&nbsp;아시아경제집안일은 도움되지만… 직장서 몸 움직이는 것은 치매 되레 키운다&nbsp;&nbsp;헬스조선[건강포커스] \"여가 운동은 치매 위험 낮추고 육체노동은 위험 높일 수 있어\"&nbsp;&nbsp;연합뉴스",
       "sources": [
         {
           "name": "디지털투데이",
@@ -486,6 +510,18 @@
       ]
     },
     {
+      "id": "893d5dddb030",
+      "title": "출처 불명의 한약 때문에 코르티코이드 감염, 얼굴 부종 - Laodong.vn",
+      "published": "2026-08-20T01:08:14+00:00",
+      "summary": "출처 불명의 한약 때문에 코르티코이드 감염, 얼굴 부종&nbsp;&nbsp;Laodong.vn한 젊은 남성이 출처를 알 수 없는 한약을 복용한 후 뇌부종과 호흡부전을 일으켰습니다.&nbsp;&nbsp;Vietnam.vn위조 의약품이 시장에 유입되는 것을 막기 위한 \"장벽\"을 세우는 것.&nbsp;&nbsp;Vietnam.vn많은 사람들이 흔히 사용하는 진통제와 해열제를 자가 치료 목적으로 복용하다가 중독되는 피해를 입습니다.&nbsp;&nbsp;Vietnam.vn출처를 알 수 없는 약용 식물의 거래를 방지합니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUUVqaFZFWnVJR2tXMWt0UXdTUm9IZlBDZXM4ZkRwdkhQMnpKLVhQUWhibmtyWGVEeDUxOERjLVN1TFRFbmJ2SFlGbWhkdjVlVzlFR3BCWVdMQ0wzZW90QXJNbFkzcDRKc09sTjZQMjdNRlFJc2dybmtocXMtZlNzMDc4OG91ekQ0ZXkzNDc4S2lxMGJlNU1ReTNyUFlCS2FQemxYMWVlT1pKQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "87ec13c5cc4a",
       "title": "예후 나쁜 VETC형 간암, 분자생물학적 특성 최초 규명 - 메드월드뉴스",
       "published": "2026-08-20T00:53:06+00:00",
@@ -498,22 +534,10 @@
       ]
     },
     {
-      "id": "c0c2e2ea8f9a",
-      "title": "인공위성만 보인다, ‘진짜 별’은 못 찾는다…“10만기 넘으면 천문학 연구 불가능” - 한겨레",
-      "published": "2026-08-20T00:46:00+00:00",
-      "summary": "인공위성만 보인다, ‘진짜 별’은 못 찾는다…“10만기 넘으면 천문학 연구 불가능”&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05NlVSay1uS2J0UXBVUGgtRGZKTDBKOEpmMWt3cDI0d2FVRktJWVFtNXNueGZPQkFfMkdsaDdUXzlMeTNsc1RHR2NpczczZEUxaEtRY0VNZDh6QTV0ZC12TExkT2lTVURmejgxTldVNnhjZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "363da5fadf86",
       "title": "국민 10명 중 6명, 심혈관질환의 남녀 차이 잘 모른다 - 메드월드뉴스",
       "published": "2026-08-19T23:51:27+00:00",
-      "summary": "국민 10명 중 6명, 심혈관질환의 남녀 차이 잘 모른다&nbsp;&nbsp;메드월드뉴스같은 심장병인데 증상은 왜 다를까... 답은 '성별'에 있었다 [헬스톡]&nbsp;&nbsp;v.daum.net여성 심장병, 가슴 통증 없이 온다?국민 10명 중 6명 몰라&nbsp;&nbsp;네이트국민 10명 가운데 6명, 심혈관질환 ‘남녀 차’ 잘 모른다&nbsp;&nbsp;코리아헬스로그국민 60% 심혈관질환 남녀 차이 인식 부족&nbsp;&nbsp;메디칼업저버",
+      "summary": "국민 10명 중 6명, 심혈관질환의 남녀 차이 잘 모른다&nbsp;&nbsp;메드월드뉴스같은 심장병인데 증상은 왜 다를까... 답은 '성별'에 있었다 [헬스톡]&nbsp;&nbsp;v.daum.net여성 심장병, 가슴 통증 없이 온다?국민 10명 중 6명 몰라&nbsp;&nbsp;네이트국민 10명 중 6명, 심혈관질환 남녀 차이 잘 모른다&nbsp;&nbsp;헬스오\"25년 뒤 젊은 여성 3명 중 1명 심장병\"…美 전문가들이 꼽은 예방 수칙&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -570,38 +594,14 @@
       ]
     },
     {
-      "id": "d883ab547e65",
-      "title": "[AI와 암 치료의 현주소: 비비다인, ‘인간 데이터’로 새로운 길을 열다] AI가 암을 치료할 것이라는 화려한 약속들은 여전히 미래의 일이다. 그러나 비비다인은 그 미래를 앞당기기 위해 데이터의 근본부터 재정의하려는 실험적인 시도 - AI넷",
-      "published": "2026-08-19T15:48:46+00:00",
-      "summary": "[AI와 암 치료의 현주소: 비비다인, ‘인간 데이터’로 새로운 길을 열다] AI가 암을 치료할 것이라는 화려한 약속들은 여전히 미래의 일이다. 그러나 비비다인은 그 미래를 앞당기기 위해 데이터의 근본부터 재정의하려는 실험적인 시도&nbsp;&nbsp;AI넷",
+      "id": "e362ceead23d",
+      "title": "\"사우나를 자주 이용하는 사람, 심혈관 질환과 치매에 걸릴 위험이 크게 낮아\" - 정경시사 FOCUS",
+      "published": "2026-08-19T19:34:07+00:00",
+      "summary": "\"사우나를 자주 이용하는 사람, 심혈관 질환과 치매에 걸릴 위험이 크게 낮아\"&nbsp;&nbsp;정경시사 FOCUS\"사우나 자주 가는 엄마, 오히려 좋아\"…치매 위험 66% '뚝', 깜짝 효과 [건강잇슈]&nbsp;&nbsp;v.daum.net\"그냥 사우나 즐겼을 뿐인데 놀라운 효과\"…심장마비에 치매 위험까지 '뚝'&nbsp;&nbsp;아시아경제“사우나 좋아했을 뿐인데 이런 이득이”…주 4회 갔더니 사망 위험 40%↓&nbsp;&nbsp;서울경제주 4회 이상 사우나 했더니…치매·심장 돌연사 위험 '뚝'&nbsp;&nbsp;머니투데이",
       "sources": [
         {
-          "name": "AI넷",
-          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9uRjgwX0wzeXB3SUREZ1NpWlp5QUdmNm1pank4MmUwMVNNNHBFalc0NUl3d3VnVTJiQ0tUY2d3eUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85ea3d0f9b8a",
-      "title": "\"이러니 늘씬할 수밖에\"…손태영 '초간단 아침 건강식' 효과는 - 네이트",
-      "published": "2026-08-19T15:31:00+00:00",
-      "summary": "\"이러니 늘씬할 수밖에\"…손태영 '초간단 아침 건강식' 효과는&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KYUg0a0s5cXJDUUpHVmQzOHl4VFZ5NEkxTmxqOUxBMWwwdUhZM1Byc2hVRnRDUUVmbVJWWWtpQkp2eEwzYzFOYWtuR2ZWQWtOMmtj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50cfe6a56149",
-      "title": "웨스트나일 감염자 발생에 비상… 샌가브리엘 밸리 모기 방역 - RadioKorea",
-      "published": "2026-08-19T15:25:00+00:00",
-      "summary": "웨스트나일 감염자 발생에 비상… 샌가브리엘 밸리 모기 방역&nbsp;&nbsp;RadioKorea",
-      "sources": [
-        {
-          "name": "RadioKorea",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kM2ZpQ1VxNC1neFhsNmUwZ1dONWxpYlV4anY3YS03bk1qZnlvZEltc0VwNFptSU0zemFfTUR2OGxpX01pVEE5QW9mRHRERWpPMTBDbEcyTW8yMjBwaW9jSWJCU3FFYjNfVlItaGI5X01OcDcy?oc=5"
+          "name": "정경시사 FOCUS",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VcTVieUxUejhFTmNYQ05rajFTVE1oekRIVzlLMnl3aWRaM0l2Y296NzJYYzFFRDdTM1M2RXFoVDk2cVVyZ1dQOTRyb1dQaWhQLVB6a0pxdkltaEtVUmppcEpXT1owVVBH?oc=5"
         }
       ]
     },
