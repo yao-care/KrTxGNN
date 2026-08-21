@@ -1,19 +1,79 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-21T06:51:36.237364+00:00",
-  "total_fetched": 107,
-  "unique_count": 107,
-  "health_related_count": 56,
+  "fetched_at": "2026-08-21T12:52:59.121636+00:00",
+  "total_fetched": 108,
+  "unique_count": 108,
+  "health_related_count": 55,
   "news": [
     {
-      "id": "a354bfc67e34",
-      "title": "이 ‘야식’ 심장 건강에 좋다고?…잠들기 전에 한 웅큼 먹기 - 레이디경향",
-      "published": "2026-08-21T06:42:00+00:00",
-      "summary": "이 ‘야식’ 심장 건강에 좋다고?…잠들기 전에 한 웅큼 먹기&nbsp;&nbsp;레이디경향",
+      "id": "c241825b403b",
+      "title": "기억력 좋은 노인, 치매 위험 낮을까? 연구해보니 ‘반전 결과’ - 헬스조선",
+      "published": "2026-08-21T12:00:00+00:00",
+      "summary": "기억력 좋은 노인, 치매 위험 낮을까? 연구해보니 ‘반전 결과’&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "레이디경향",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzR3RoZEdIT1FUVDk0SXJXTEU3dDFRbnlaQ2YxUktLYklybko2aUVIMVpFckJ5alcySlVPSGVPVXQ5czRTR2xsTHVZS2JBZ2VocTFjMVdIY1N5ODM5QUZfQ1NIUFM?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zTFhfLTI0THN3U0F4SllWVGpjVGgzWEhRXzJuTVZ5Y3dlWVNwSFhkRUJmMG9INGJ0MXFxSjVfaExVb2RIWldKMDllV2tTRmNLd3VzVUJrVHYtUjhPSlB4aUlmUW9IcklBRkJWZWxFc2s0YVBPcXNrTFhtVVphd0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31b7dfabd191",
+      "title": "치매 환자 자녀, ‘식단 중요성’ 공감하지만...실천은 절반도 안 돼 - 디멘시아뉴스",
+      "published": "2026-08-21T11:10:01+00:00",
+      "summary": "치매 환자 자녀, ‘식단 중요성’ 공감하지만...실천은 절반도 안 돼&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3MTZyZWhhS1liVXBQbWVLSzA0YUxfRVFQR3NwTXFhM3FZYlVGQm0wNDBocW1VZm03WnoxY19GRExhZzBJSDZnTzVkSFBUU3VuWm4wYlN4TFNOYkowYmx2MC1zYWtlOHE4VjB0YTQwRU9SUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a32a164e27e",
+      "title": "영양제부터 콜레스테롤까지…건강 상식의 대반전 - MTN 머니투데이방송",
+      "published": "2026-08-21T10:00:01+00:00",
+      "summary": "영양제부터 콜레스테롤까지…건강 상식의 대반전&nbsp;&nbsp;MTN 머니투데이방송",
+      "sources": [
+        {
+          "name": "MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ta0NHdWtQY2l4R2l3aFQ0dWRhRHpaMmVjN1ppckJPNWxzWkMtR3RUVjlmTjZfMUV5YkFzNjk2TnpyQjNXSklreGxKVGthLUlmUUNIWUFTME9aR0xncWVtVG9rTk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a62188eaf24f",
+      "title": "동물농장 다녀온 3살 딸 '뇌 손상'…무슨 일 있었길래 - 한국경제",
+      "published": "2026-08-21T08:01:58+00:00",
+      "summary": "동물농장 다녀온 3살 딸 '뇌 손상'…무슨 일 있었길래&nbsp;&nbsp;한국경제동물 쓰다듬은 3세 아이, 영구적 뇌 손상…체험농장서 무슨 일이&nbsp;&nbsp;동아일보동물원 체험이 부른 비극…호주 아동 2명, 세균 감염으로 중태&nbsp;&nbsp;전자신문\"동물 만졌을 뿐인데\"…체험 농장 갔던 아이 2명 '뇌 손상' 등 중태 [월드픽]&nbsp;&nbsp;네이트동물 체험농장 다녀온 아이 2명 중태… 뇌 손상 일으킨 ‘이 균’ 때문?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxRWFzQnpCYVNtNURzaUwxNThxdlRqMzdxVU5vdVVrNExEbXE0MF9rMWVuU3dOWTMtN0k2RHozMEJEaHNYVU5SNjFaX0hsVnZxSzNfd3lXRXRQQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d028e4e1e12",
+      "title": "“혈관벽에 상처 낸다” 심장 전문의 경고 나온 ‘최악의 음식’… 뭐야? - 헬스조선",
+      "published": "2026-08-21T07:30:00+00:00",
+      "summary": "“혈관벽에 상처 낸다” 심장 전문의 경고 나온 ‘최악의 음식’… 뭐야?&nbsp;&nbsp;헬스조선“심장 다 망가진다”… 의사는 절대 안 먹는다는 음식, 뭐야?&nbsp;&nbsp;헬스조선[영상] 한국인들 즐겨 먹는데 어쩌나…심장 전문의 “절대 안 먹는다”는 음식 [헬시타임]&nbsp;&nbsp;서울경제편해서 매일 먹었는데… 27년차 의사가 밝힌 ‘혈관 파괴범’ 정체&nbsp;&nbsp;뉴스와\"오래 살려면 냉장고에서 빼라\"…전문가가 조언한 '피해야 되는 음식' [헬시타임]&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01clpPRU8wWnJjU0lET0pPUHRUYUR1TDY4UXU2dTI5M2h2b1BwSXRGb1k3YnZWSTdHOURrQUVLS1Y3WG9ydG1ka2xFOE0xSjJ6cnlTVHRMSGg3d1ZrZmV0Qm1RYV96bV8wbmxPb2xjblJ5UXZlTTEzSHF2VVR1ZE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eccf5a799b78",
+      "title": "AXA손보, 물놀이철 상해 보장 강화…골절·염좌부터 입원까지 - 뉴스핌",
+      "published": "2026-08-21T07:03:00+00:00",
+      "summary": "AXA손보, 물놀이철 상해 보장 강화…골절·염좌부터 입원까지&nbsp;&nbsp;뉴스핌반복되는 염좌를 무시하면 안 되는 이유&nbsp;&nbsp;조선일보물놀이 중 발생한 뜻밖의 부상…여름철 상해, 치료비 부담까지 대비해야&nbsp;&nbsp;매일일보휴가지에서 삐끗한 발목, 통증 가라앉아도 안심하긴 이르다&nbsp;&nbsp;한국일보“물놀이 후 발목 ‘삐끗’… 며칠 지났다고 괜찮을까?”&nbsp;&nbsp;edaily.co.kr",
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xN0NyY2w4UjFLaXJTRXBDVTVJYS1qblZvckgxSGxWUGNqNWRrNXQ5b0h3M1I5akJLa2c5blJZVGhsWmw5c1NnUzJuTENlME9kdHZTV3dlcmRCbmc5?oc=5"
         }
       ]
     },
@@ -30,10 +90,22 @@
       ]
     },
     {
+      "id": "b5840bfdbfa5",
+      "title": "치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적 - 코리아헬스로그",
+      "published": "2026-08-21T05:41:49+00:00",
+      "summary": "치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적&nbsp;&nbsp;코리아헬스로그\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;디멘시아뉴스“다른 치료는 나중에?”…치매 환자에게 구강관리가 ‘시작’인 이유&nbsp;&nbsp;헬스오치주질환 심할수록 치매 위험 높아&nbsp;&nbsp;현대건강신문",
+      "sources": [
+        {
+          "name": "코리아헬스로그",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00LXc4c1JEd3hNeF9CSV9wYm5IZ1ItUGNqaFZGOTYyQldoQUpyVnM0U05GYVdvaUFoTGhBQ3FEdkUtS21NVmNpUmpWQjZhc21DYnFjYnJWUTFuM2lieEtYSFB1UW1wc2VIRi05LWFKUkFMd9IBdkFVX3lxTFBoUkw3QjNJME5IQUlIRmctbUNpd2p0clhZV3NYc1o5Z2p1NHhic2psZWdiUTRkblFrZDM4dW9PcEp3dUtLRTlNcVFsZnU5RGlzY3NwNXE4cEYwNk5ObmZWYUREekZzVWRMYmR3a1N6MGo1MjRuUnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "01a7b296fda0",
       "title": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계] - 동아일보",
       "published": "2026-08-21T05:10:00+00:00",
-      "summary": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net‘위암 위험 2배’… 매일 마시는 음료의 정체는?&nbsp;&nbsp;헬스조선‘이 음료’, 하루 한 잔 이상 마시면 위암 위험 2.5배… 대안은 뭘까?&nbsp;&nbsp;하이닥매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴",
+      "summary": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선매일 설탕이 든 음료를 마시면 위암 발병 위험이 2.45배 증가할까요?&nbsp;&nbsp;Vietnam.vn‘이 음료’, 하루 한 잔 이상 마시면 위암 위험 2.5배… 대안은 뭘까?&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "동아일보",
@@ -50,18 +122,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rMmNwZHFNLWVpaTAzY3Y4VlBnazlVWWFqeVNXcnZQLXd3Y3pZSEUzUThmRlJZU3MwUU9Ld09hR2RDeEpObC1ESUxpZEFXeDNzbnlSN2tJaFNmaVRpbWEwUTcyUWt5QU9Oa25n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41b7a0631541",
-      "title": "입속 미생물로 위암·대장암 조기 진단 가능성 제시 - 후생신보",
-      "published": "2026-08-21T03:00:00+00:00",
-      "summary": "입속 미생물로 위암·대장암 조기 진단 가능성 제시&nbsp;&nbsp;후생신보입 한번 헹궜더니 위암·대장암 신호 잡았다…입속 미생물의 '이상 이동'[과학을읽다]&nbsp;&nbsp;v.daum.net입속 미생물로 위암·대장암 진단…편의성·조기 발견율 높여&nbsp;&nbsp;연합뉴스국내 연구진 \"구강 미생물로 위·대장암 조기 진단한다\"&nbsp;&nbsp;뉴스1입속 미생물로 위암·대장암 조기 진단한다&nbsp;&nbsp;BRIC",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1rX3Z6WVRqaGVvZlBEU0h2eFlsX3h4YlZTN0VueVdfRUNxMUxja1ptV2xmMGN4MjBlRVlTOTAzZGdnWU9V?oc=5"
         }
       ]
     },
@@ -129,11 +189,23 @@
       "id": "38aabbee2c5f",
       "title": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까? - 코리아헬스로그",
       "published": "2026-08-20T23:56:06+00:00",
-      "summary": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까?&nbsp;&nbsp;코리아헬스로그극심한 갈증으로 병원 가니 ‘당뇨병’ 진단… 127kg 여성, ‘매일 먹은 음식’ 있다는데?&nbsp;&nbsp;헬스조선“밥, 빵 줄이고 운동했는데”…혈당 높은 것이 ‘이 습관’ 때문?&nbsp;&nbsp;코메디닷컴21세에 당뇨병 진단받은 女 \"16kg 감량, 혈당 개선\"…어떻게?&nbsp;&nbsp;네이트제2형 당뇨병이 젊은 층에게 영향을 미치고 있습니다. 이는 현대 생활 방식에서 비롯된 우려스러운 추세입니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까?&nbsp;&nbsp;코리아헬스로그극심한 갈증으로 병원 가니 ‘당뇨병’ 진단… 127kg 여성, ‘매일 먹은 음식’ 있다는데?&nbsp;&nbsp;헬스조선\"밥만 먹고 나면 너무 졸려\"…눈 앞이 흐릿해진다면 '혈당 스파이크'가 보내는 경고 [헬시타임]&nbsp;&nbsp;네이트[건강 100세를 위하여] 배달 음식 먹고 운동 안 하고ⵈ 혹시 나도? 20‧30대 ‘젊은 당뇨병’ 주의!&nbsp;&nbsp;경기메디뉴스“밥, 빵 줄이고 운동했는데”…혈당 높은 것이 ‘이 습관’ 때문?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDMkhXeWpjVllSX3ZYUHJWNTJ6djhXSDVPTU82YlFIOUQ2VUVpV2U3TXh6Ui1XOThUeVFpUWhQa3ZfQ2MwVlEwTms4YmZod2lWNnNvQ3ZuSFJjaEd4Q1UwclhJX2pibEpid3pvWmJtR0ZFUdIBdkFVX3lxTE56V0JtdUdlSUQ2TXdFbERmaXpaLWVIRG9aRHdOY0hOem5hdC1iaUpfSEVZa0YyaGJLZXZ6RDM0TkdYUjlZa3RtblV5T0ZVdG5NZ0JPZWlIWjk4MnhTcUo0VU52RExSbnp1VXlkZUY3cFI1UWY5Nnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ae0a50020abc",
+      "title": "K-핵잠수함, 더 강력해질까…위성없이 길 찾는 '중력지도' 개발 박차 - 동아사이언스",
+      "published": "2026-08-20T22:00:00+00:00",
+      "summary": "K-핵잠수함, 더 강력해질까…위성없이 길 찾는 '중력지도' 개발 박차&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WX3BBRU1xMWlvbTF4MkczaGJGeDB5eVVubmt6d2o3QllFNm1tTHVQVjFSY0ZnNnc2QWUtTkYtajNyTC1yeFRoeUFodWNoQV9xLWY0Qw?oc=5"
         }
       ]
     },
@@ -150,14 +222,14 @@
       ]
     },
     {
-      "id": "72939132301f",
-      "title": "혈액검사로 알츠하이머병 치료 효과 예측 가능 - 재활뉴스",
-      "published": "2026-08-20T20:30:00+00:00",
-      "summary": "혈액검사로 알츠하이머병 치료 효과 예측 가능&nbsp;&nbsp;재활뉴스비싸서 주저한 알츠하이머 치료제 ‘레켐비’··· 치료효과 있을지 혈액검사로 알아볼까&nbsp;&nbsp;v.daum.net연 수천만원 치매 치료제, 누구에게 효과 있을까…혈액검사로 조기예측&nbsp;&nbsp;아시아투데이레카네맙 수요 급증…서울아산병원 투약대기 20주&nbsp;&nbsp;데일리메디고려대 구로병원, 혈액 바이오마커로 알츠하이머 치료 반응 분석&nbsp;&nbsp;로이슈",
+      "id": "628d983d4b3f",
+      "title": "내시경 대신 가글?…입 속 미생물로 위암·대장암 선별 - 동아사이언스",
+      "published": "2026-08-20T19:00:00+00:00",
+      "summary": "내시경 대신 가글?…입 속 미생물로 위암·대장암 선별&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "재활뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hdDV0ZWdaTkszVDBTaTN1dm56ZTFfdm1yUGpVRmJnRi1UV0hXVXJsc1VWNG9tRVA0T0ZvOEJzeHoxOURMd3BNczBvcXYtMGRQOUZSdU1hTmxfb1VOLTVjQ3N6bFNnWXExRmFN?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZY1Nud1ZtMzVhcWVab0g5cFh5UTFDRVFlOTljeFNxVkp4ODN5Z3Y0bE0wcThmNWZCc3hHU2pkaGQyeTNiZ1l6aWstWlg2N1E?oc=5"
         }
       ]
     },
@@ -225,7 +297,7 @@
       "id": "d3618e45848f",
       "title": "EBS 명의, 신혜원·윤정한 교수와 알아보는 파킨슨병과 닮은 ‘파킨슨증후군’ - 한국강사신문",
       "published": "2026-08-20T08:28:00+00:00",
-      "summary": "EBS 명의, 신혜원·윤정한 교수와 알아보는 파킨슨병과 닮은 ‘파킨슨증후군’&nbsp;&nbsp;한국강사신문\"몸 느려지고 손 떨리는데…\" 파킨슨병보다 위험한 '이 질환'일 수도 [명의]&nbsp;&nbsp;v.daum.net떨어지는 약효 잡는 파킨슨 치료법&nbsp;&nbsp;뉴스버즈명의, 파킨슨병 닮은 '파킨슨증후군'…21일 밤 9시55분&nbsp;&nbsp;스페셜타임스",
+      "summary": "EBS 명의, 신혜원·윤정한 교수와 알아보는 파킨슨병과 닮은 ‘파킨슨증후군’&nbsp;&nbsp;한국강사신문\"몸 느려지고 손 떨리는데…\" 파킨슨병보다 위험한 '이 질환'일 수도 [명의]&nbsp;&nbsp;v.daum.net[명의] 다약제 복용이 파킨슨을 유발한다?&nbsp;&nbsp;Queen 이코노미퀸떨어지는 약효 잡는 파킨슨 치료법&nbsp;&nbsp;뉴스버즈파킨슨병과는 또 다르다…위험한 그림자, 파킨슨 증후군&nbsp;&nbsp;위키트리",
       "sources": [
         {
           "name": "한국강사신문",
@@ -282,18 +354,6 @@
       ]
     },
     {
-      "id": "0cd583496bbd",
-      "title": "[의학칼럼] 숨 차야 알 수 있는 심부전? 증상 전 살펴야 할 것은 - 헬스조선",
-      "published": "2026-08-20T06:35:00+00:00",
-      "summary": "[의학칼럼] 숨 차야 알 수 있는 심부전? 증상 전 살펴야 할 것은&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42M1ZCLWFCdGZNOTVkeDNBM1FFZ05kOUdqaXRoZjFJTnVKTTR1NEJTLXk2cDhuMFhRWGVNV29oQko2MWpFV3RjYXlhVXgxWG1uenUwNGkxTmlYLXliRFV0bXMwQTR5WnpwMXRfZjFtQU9vUzRGZWMyYVRHQjBqLU0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "31d74cce6a32",
       "title": "취미로 하는 운동과 육체노동, 치매 위험 연관성 엇갈려…연구 - 디지털투데이",
       "published": "2026-08-20T06:15:16+00:00",
@@ -342,6 +402,18 @@
       ]
     },
     {
+      "id": "63d34d4a1c6f",
+      "title": "혈액검사로 알츠하이머병 치료 효과 예측 가능성 제시 - 라포르시안",
+      "published": "2026-08-20T05:17:22+00:00",
+      "summary": "혈액검사로 알츠하이머병 치료 효과 예측 가능성 제시&nbsp;&nbsp;라포르시안\"치매 정복은 꿈 아냐 … 신약 더 나올것\"&nbsp;&nbsp;v.daum.net비싸서 주저한 알츠하이머 치료제 ‘레켐비’··· 치료효과 있을지 혈액검사로 알아볼까&nbsp;&nbsp;경향신문레카네맙 수요 급증…서울아산병원 투약대기 20주&nbsp;&nbsp;데일리메디고려대 구로병원, 혈액 바이오마커로 알츠하이머 치료 반응 분석&nbsp;&nbsp;로이슈",
+      "sources": [
+        {
+          "name": "라포르시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zM0ZidFRSUU0wRkRxeVFoRGdwLWxqS0pPRGp0VEFMODlJQnpYY1ZQaTYwcmE4cUhzVGlEV0dya2MyQ1JTMElnMWhoUkhPaWRwUXJVWHFCTWd5d0dReGNFbGhNOHFSTWg3b2NzbQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "674af8c4fa72",
       "title": "신장 결석 위험을 높이기 쉬운 식습관 - Laodong.vn",
       "published": "2026-08-20T03:30:00+00:00",
@@ -374,18 +446,6 @@
         {
           "name": "전자신문",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54TEs2VWt2dUpvcG1OYU1kbjBSbkQ0SlZNemtySndZbzFUR3NlLV9OVzVCdHQ5NVQycmsyT3FRaTBEQlRMQ3dZLTg4YXBEZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad3e14e8cc08",
-      "title": "당뇨병 환자가 심혈관을 보호하는 방법 - Laodong.vn",
-      "published": "2026-08-20T02:24:22+00:00",
-      "summary": "당뇨병 환자가 심혈관을 보호하는 방법&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkdBZnJ4SDN3ZkVmVlBPcFBxYXhoMmlnWS0wOW92endLb3JNbDlBYXBsY3JrSXU4cjAyWlpGbUpadnJiUUhHa2xBTENlazV2Wjl0Si1pUEM3UmZLdGpUOU1WcGxvci1SeFdNZGpqYXc3aEVhZ25MN1VNZ2VvQ2JBUEZ2RVJiQUFMZ1A4ekxZZEVnRkJhUHg3UA?oc=5"
         }
       ]
     },
@@ -426,22 +486,10 @@
       ]
     },
     {
-      "id": "5dd9c5f8be10",
-      "title": "[기고] 서울대치과병원 원스톱협진센터 이정태 교수... ‘치매 환자의 구강관리법’ - 덴탈아카이브",
-      "published": "2026-08-20T00:57:15+00:00",
-      "summary": "[기고] 서울대치과병원 원스톱협진센터 이정태 교수... ‘치매 환자의 구강관리법’&nbsp;&nbsp;덴탈아카이브\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;디멘시아뉴스“치료는 나중에?” 치매 환자에게 구강관리가 ‘시작’인 이유!&nbsp;&nbsp;dentalkoo.com“다른 치료는 나중에?”…치매 환자에게 구강관리가 ‘시작’인 이유&nbsp;&nbsp;헬스오",
-      "sources": [
-        {
-          "name": "덴탈아카이브",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQQlFSZ2VHZDZfd2Jwb2duM0pVQXlxT0dxRVcwcWlvQ1JNTWZfZnp1OEhpXzdXWFJGU3BROHNyeEtkWmpMcFBmMzJnMzJkUXU0TmlZU2V4cWNtQ0Z0WmZsaVFRUXY3VmhLSHhaNHpR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "87ec13c5cc4a",
       "title": "예후 나쁜 VETC형 간암, 분자생물학적 특성 최초 규명 - 메드월드뉴스",
       "published": "2026-08-20T00:53:06+00:00",
-      "summary": "예후 나쁜 VETC형 간암, 분자생물학적 특성 최초 규명&nbsp;&nbsp;메드월드뉴스재발 위험 큰 VETC형 간암…'이 유전자' 활성화&nbsp;&nbsp;뉴시스[Medical Report] 예후 나쁜 ‘VETC형 간암’ 비밀 풀렸다…턱뼈 괴사골 자연 분리까지 평균 6.82개월 外&nbsp;&nbsp;헬스케어N서울대병원 \"재발 위험 높은 간암 특징 찾았다\"&nbsp;&nbsp;네이트예후 나쁜 VETC형 간암, 분자생물학적 특성 첫 규명돼&nbsp;&nbsp;메디칼업저버",
+      "summary": "예후 나쁜 VETC형 간암, 분자생물학적 특성 최초 규명&nbsp;&nbsp;메드월드뉴스재발 위험 큰 VETC형 간암…'이 유전자' 활성화&nbsp;&nbsp;뉴시스예후 나쁜 ‘VETC형 간암’…재발 연관 LAMTOR2 발현 확인&nbsp;&nbsp;쿠키뉴스서울대병원, VETC형 간암 분자적 실체 첫 규명…예후 예측 가능성 제시&nbsp;&nbsp;메디컬투데이[Medical Report] 예후 나쁜 ‘VETC형 간암’ 비밀 풀렸다…턱뼈 괴사골 자연 분리까지 평균 6.82개월 外&nbsp;&nbsp;헬스케어N",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -498,14 +546,14 @@
       ]
     },
     {
-      "id": "7d65b7bde542",
-      "title": "키위, 껍질째 먹으면 좋은 이유 5가지...“면역·심장 건강에 도움” - 하이닥",
-      "published": "2026-08-19T23:00:00+00:00",
-      "summary": "키위, 껍질째 먹으면 좋은 이유 5가지...“면역·심장 건강에 도움”&nbsp;&nbsp;하이닥",
+      "id": "9f639f05cf0d",
+      "title": "\"헬조선이라니… 과학 연구에는 좋은 환경이죠\" - 조선일보",
+      "published": "2026-08-19T23:22:22+00:00",
+      "summary": "\"헬조선이라니… 과학 연구에는 좋은 환경이죠\"&nbsp;&nbsp;조선일보",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HbVZraUNXV2F4dzdDbGttdEM4R0JJNVpVd2hBZ19CeE12MWlFeU1URkUyQVQ4bkQ4Q1pJbjRERkR6YjlpTXRZVkZrM1B3a3pBbmpGeXRuaDRYcDF1c0xEU1V5cVFuc18tV2c?oc=5"
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWVaTFJDRlJDajlHZHNBOXAzaDE4VXZPY1djTTB6WnFkQXZXZmxwMV9QSHVqb0JYeGpnc1hvZ2lXSUhoVUhoOEJkWFJKQWx0OThIMlQ0Zjk5RFppeV9NVVhnTTJEajhMR0pXRmN0N2hHMmd4WGF4T1JVbDZYYlpLYTE4VQ?oc=5"
         }
       ]
     },
@@ -513,35 +561,11 @@
       "id": "814565266be1",
       "title": "[건강 칼럼] 천식과 기관지확장증의 공통점과 차이점은? - edaily.co.kr",
       "published": "2026-08-19T21:23:02+00:00",
-      "summary": "[건강 칼럼] 천식과 기관지확장증의 공통점과 차이점은?&nbsp;&nbsp;edaily.co.kr“감기 아닌데 쌕쌕?”… 기관지 예민하면 피해야 할 음식 4가지&nbsp;&nbsp;헬스조선\"여름인데 기침 끊이지 않아\"…'이곳' 관리 놓치면, 폐렴 위험까지?&nbsp;&nbsp;네이트“적정 실내 온도 유지, 주기적 환기로 예방”&nbsp;&nbsp;백세시대[의학칼럼]에어컨 앞 멈추지 않는 기침 당신 숨길이 보내는 경고 ‘천식’&nbsp;&nbsp;경남일보",
+      "summary": "[건강 칼럼] 천식과 기관지확장증의 공통점과 차이점은?&nbsp;&nbsp;edaily.co.kr더위 속 더 가빠지는 숨… 천식·COPD 환자 호흡곤란 주의&nbsp;&nbsp;헬스조선\"여름인데 기침 끊이지 않아\"…'이곳' 관리 놓치면, 폐렴 위험까지?&nbsp;&nbsp;네이트“적정 실내 온도 유지, 주기적 환기로 예방”&nbsp;&nbsp;백세시대[의학칼럼]에어컨 앞 멈추지 않는 기침 당신 숨길이 보내는 경고 ‘천식’&nbsp;&nbsp;경남일보",
       "sources": [
         {
           "name": "edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3pKc0E2eDJZNmRranpnXzBUYXlqR2JlLTcwZTZqWklWWHpaNllCUEhGWFQxR2xYaUsteDg5UUhtSkZiM1dZUE5tajhaYjQzdWxFM25IUjMtaURJQnEydHh5QWo3cE5kWTJEaVp6alpPSGxpc0VnRjRJbG45bk5WNQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f67072325e74",
-      "title": "“건강식인 줄 알았는데”…의사가 마트서 카트에 ‘절대 안 담는’ 4가지 - v.daum.net",
-      "published": "2026-08-19T20:03:22+00:00",
-      "summary": "“건강식인 줄 알았는데”…의사가 마트서 카트에 ‘절대 안 담는’ 4가지&nbsp;&nbsp;v.daum.net“심장 다 망가진다”… 의사는 절대 안 먹는다는 음식, 뭐야?&nbsp;&nbsp;헬스조선[영상] 한국인들 즐겨 먹는데 어쩌나…심장 전문의 “절대 안 먹는다”는 음식 [헬시타임]&nbsp;&nbsp;서울경제\"오래 살려면 냉장고에서 빼라\"…전문가가 조언한 '피해야 되는 음식' [헬시타임]&nbsp;&nbsp;네이트편해서 매일 먹었는데… 27년차 의사가 밝힌 ‘혈관 파괴범’ 정체&nbsp;&nbsp;뉴스와",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzLU9HUzM1c0Z4SzJfcGY2WEhJaXA3aWczS3pka3ZhZ2h6N0lkRERub1FUNUxxVldwRDFzVFdodjRlMTV0UlVfSDdXT1gxY0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8e95fa1408c",
-      "title": "‘격렬한 3분’이 암 위험 확 줄인다… 지금 당장 해야 할 것은? - 헬스조선",
-      "published": "2026-08-19T18:30:00+00:00",
-      "summary": "‘격렬한 3분’이 암 위험 확 줄인다… 지금 당장 해야 할 것은?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KalAwTUlaNGVsQzJ0bkhaNXFsRUhnWlVUNjdNSUkwUGliREdDWGwwYWxFRmhiNUVmSlh5QTBhcmlZeUp2aDA2ZGdxUjNvclFCelVQU1pkTUpESFhZMGx3VzlkUW5qc2lIaWlWVVFyVHpNcTZMbmtzVWV3bmRTWEE?oc=5"
         }
       ]
     },
@@ -554,18 +578,6 @@
         {
           "name": "AI넷",
           "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9uRjgwX0wzeXB3SUREZ1NpWlp5QUdmNm1pank4MmUwMVNNNHBFalc0NUl3d3VnVTJiQ0tUY2d3eUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f639f05cf0d",
-      "title": "\"헬조선이라니… 과학 연구에는 좋은 환경이죠\" - 조선일보",
-      "published": "2026-08-19T15:41:00+00:00",
-      "summary": "\"헬조선이라니… 과학 연구에는 좋은 환경이죠\"&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWVaTFJDRlJDajlHZHNBOXAzaDE4VXZPY1djTTB6WnFkQXZXZmxwMV9QSHVqb0JYeGpnc1hvZ2lXSUhoVUhoOEJkWFJKQWx0OThIMlQ0Zjk5RFppeV9NVVhnTTJEajhMR0pXRmN0N2hHMmd4WGF4T1JVbDZYYlpLYTE4VQ?oc=5"
         }
       ]
     },
@@ -614,30 +626,6 @@
         {
           "name": "더바이오",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNU5zSXRDaTdlUWtaLWtLZkdCcmdXUVl0ODNrWW1JdFFIMExlTGtXRlE4VGpQMkxxTEY1TDZ4WGJiU0w4MDduLUlXandhY2lBUE9UV1FWYUVTVWhNdHRFQzZtamZETC1ia2tZOdIBcEFVX3lxTFB6UzllU29uMHpWQmhKbk9xMDM2S3RKNk9aNTFjQmtFX2lJYVh4ZnJfNlMwVE1jQlRfMk5GZWtxdzRTbVFnOFZkUUtqMFdVYW5UR2E1RDBJaW8wUDZ5aGhOUzhVYmhXUk1ydFhsS0tiVXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3e39bef74b4",
-      "title": "냄새 못 맡으면 편두통 위험 19% 오른다 - 재활뉴스",
-      "published": "2026-08-19T07:03:52+00:00",
-      "summary": "냄새 못 맡으면 편두통 위험 19% 오른다&nbsp;&nbsp;재활뉴스두통 잦은 당신, 혹시 냄새 잘 못 맡지 않나요?···후각장애와 편두통 상관관계 나와&nbsp;&nbsp;경향신문냄새 잘 못 맡으면 편두통 위험 19% 높아&nbsp;&nbsp;v.daum.net\"왜 이렇게 머리가 아프지\"... 원인은 코에 있었다 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스후각장애 있으면 편두통 위험 19% 높아진다&nbsp;&nbsp;헬스포커스뉴스",
-      "sources": [
-        {
-          "name": "재활뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yQVFvMDNmWXVfQzBDd04wRDlFYmpyZlhlNnhVcmhVYUZYbHU5ZnFab3dpbExaQzRXeHotcVdOc1FOYmU5UHc1LVFpMGFTWWxKX29xVmRMNFpMREx0WkpxR3FTc2U2Sl9VdTMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb006f4d37eb",
-      "title": "가공육 속 ‘아질산염’ 많이 먹는 남성, 대장암 위험 최대 50%↑ - 하이닥",
-      "published": "2026-08-19T06:00:00+00:00",
-      "summary": "가공육 속 ‘아질산염’ 많이 먹는 남성, 대장암 위험 최대 50%↑&nbsp;&nbsp;하이닥한국 남성 암 1위, 전립선암…‘이것’ 많이 먹는다면 더 주의 [노화설계]&nbsp;&nbsp;동아일보'이 음식' 많이 먹었더니…전립선암 위험 최대 34%&nbsp;&nbsp;약사공론“전립선암 유발한다”… 남자들 피해야 할 ‘최악의 식품’&nbsp;&nbsp;헬스조선초가공식품 많이 먹는 남성, 전립선암 위험 최대 31% 높았다&nbsp;&nbsp;캔서앤서",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ocFdwU093Nnp0cUFBTVYwQWZqVTdhZ3Z1OWlkc3E4aFd4SzJuMkdlN2FOR09UYUprb09uWDhzQ1pvZ0R1cVJqdmhLWUptS2lWZGxwMlBKVThsX1F0TE9uQW1nZXlUc1Fadmc?oc=5"
         }
       ]
     },
