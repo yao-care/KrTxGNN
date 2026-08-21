@@ -1,17 +1,56 @@
 {
-  "last_updated": "2026-08-20T18:41:59.560354+00:00",
-  "total_count": 44,
+  "last_updated": "2026-08-21T01:25:53.531547+00:00",
+  "total_count": 49,
   "matched_count": 0,
   "news": [
     {
-      "id": "6f1a2ffe180a",
-      "title": "농업 종사자 2명 중 1명 ‘대사증후군’ … 비농업인보다 7.1%p 높아",
-      "published": "2026-08-20T16:06:21+00:00",
-      "summary": "농업 종사자 2명 중 1명 ‘대사증후군’ … 비농업인보다 7.1%p 높아&nbsp;&nbsp;헬스오농업 종사자 2명 중 1명 ‘대사증후군’…나이 탓만은 아니었다 [노화설계]&nbsp;&nbsp;동아일보농업 종사자 절반 대사증후군…비만·고혈압·당뇨도 빨간불&nbsp;&nbsp;한스경제농업인 절반 '대사증후군'…육체노동과 건강운동은 달랐다&nbsp;&nbsp;네이트농업 종사자 절반 ‘대사증후군’…비농업인보다 7.1% 높다&nbsp;&nbsp;의학신문",
+      "id": "13c3935db5de",
+      "title": "고령층 덮치는 결핵…80세 이상 잠복결핵 치료는 12.6%",
+      "published": "2026-08-20T21:00:04+00:00",
+      "summary": "고령층 덮치는 결핵…80세 이상 잠복결핵 치료는 12.6%&nbsp;&nbsp;edaily.co.kr",
       "sources": [
         {
-          "name": "헬스오",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPdEYxazlLZ1A4ZnpyalJGQTA5QUZMYjNhaERianpRcDh5YS1rU2Q4cFM2eDBhYWhiV3Y1d0ZwS2pRTXlsYmNDSVVfNDBFWjJHdmF5VU43Snk?oc=5"
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWJFWjRkQ19WWDhvcFpvS05rSkd4QnhYcWxFOEtRT1JtUFpuTnZiNHd6ZUJFd0NwWFZuUk1oYnpNYmFleXRMZE1sWUhRNHBRZTFoMmZJVGg0eFVOakJKVlFvaGhVWjVGWXBneGhWSnNoczcwQmhsWkpWUlRXZzZrVw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "72939132301f",
+      "title": "혈액검사로 알츠하이머병 치료 효과 예측 가능",
+      "published": "2026-08-20T20:30:00+00:00",
+      "summary": "혈액검사로 알츠하이머병 치료 효과 예측 가능&nbsp;&nbsp;재활뉴스비싸서 주저한 알츠하이머 치료제 ‘레켐비’··· 치료효과 있을지 혈액검사로 알아볼까&nbsp;&nbsp;v.daum.net연 수천만원 치매 치료제, 누구에게 효과 있을까…혈액검사로 조기예측&nbsp;&nbsp;아시아투데이레카네맙 수요 급증…서울아산병원 투약대기 20주&nbsp;&nbsp;데일리메디고려대 구로병원, 혈액 바이오마커로 알츠하이머 치료 반응 분석&nbsp;&nbsp;로이슈",
+      "sources": [
+        {
+          "name": "재활뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hdDV0ZWdaTkszVDBTaTN1dm56ZTFfdm1yUGpVRmJnRi1UV0hXVXJsc1VWNG9tRVA0T0ZvOEJzeHoxOURMd3BNczBvcXYtMGRQOUZSdU1hTmxfb1VOLTVjQ3N6bFNnWXExRmFN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dfe764d84a45",
+      "title": "내시경 대신 가글?…입 속 미생물로 위암·대장암 선별",
+      "published": "2026-08-20T19:00:00+00:00",
+      "summary": "내시경 대신 가글?…입 속 미생물로 위암·대장암 선별&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45QXBnMEdXZ3pfS2hBcVBkM0ZlY0ZsTHdlQW5zSW9pTVNHS0xIUFBzSTd0T1JWZ3F6MHBTWXVvVGI5SGdreURtUmJDMERjWElXVXB3WA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4c3c2671e613",
+      "title": "“아, 간지러워”…모기 물린 곳에 ‘십자 표시’ 정말 효과 있을까?",
+      "published": "2026-08-20T19:00:00+00:00",
+      "summary": "“아, 간지러워”…모기 물린 곳에 ‘십자 표시’ 정말 효과 있을까?&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uMkdwLUNMbUZGUFc0QTNNT2hwMjZyUE41Y3dVV3lNMVFucTVMbnBIb0gxTkFmSmJxVnBPbk8yQTIxbi1PMmVZR212aUIyektyeFVWR2k2dWxzZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -56,14 +95,27 @@
       "matched_keywords": []
     },
     {
-      "id": "ab0d110f1f33",
-      "title": "휴가 후 계속되는 장 트러블, 과민성대장증후군과 대장내시경 검사 필요할까?",
-      "published": "2026-08-20T07:36:06+00:00",
-      "summary": "휴가 후 계속되는 장 트러블, 과민성대장증후군과 대장내시경 검사 필요할까?&nbsp;&nbsp;K스피릿용종 절제부터 미세 병변까지… 대장내시경 검사 시 의료진의 숙련도까지 고려해야&nbsp;&nbsp;K스피릿",
+      "id": "d3618e45848f",
+      "title": "EBS 명의, 신혜원·윤정한 교수와 알아보는 파킨슨병과 닮은 ‘파킨슨증후군’",
+      "published": "2026-08-20T08:28:00+00:00",
+      "summary": "EBS 명의, 신혜원·윤정한 교수와 알아보는 파킨슨병과 닮은 ‘파킨슨증후군’&nbsp;&nbsp;한국강사신문\"몸 느려지고 손 떨리는데…\" 파킨슨병보다 위험한 '이 질환'일 수도 [명의]&nbsp;&nbsp;v.daum.net떨어지는 약효 잡는 파킨슨 치료법&nbsp;&nbsp;뉴스버즈명의, 파킨슨병 닮은 '파킨슨증후군'…21일 밤 9시55분&nbsp;&nbsp;스페셜타임스",
       "sources": [
         {
-          "name": "K스피릿",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYQzkwOWpNZDJxUTM3dk5US0ZLSzFtWjZwTUxWb0F5OWlMNFpNN2RQQjdYV2gzVDZod2RSOG1oaWVQeVRRVllxS3pOVWFqQ2QtNlhtN1pMazk1azczQzczeWNGdUE0eS1xTmN4RXZtQdIBc0FVX3lxTE5ST2tlbVkyUVJhMGhYZDg1LUlCMFRfcHpkSjUtWW9FTDBpRlJkVl8xNExyaV9JVFZUTzhKYTROa2xReXZhN0tRamJzY1hlWEt3LXNzT1ZQSk4yLXlMOVBvUTFId2lIbUxqQ29CUHJhVlZIZEE?oc=5"
+          "name": "한국강사신문",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UNkp5aXRTeXVKZGJZSHRieVRrRE9mRl9OVG9Tdzh6eHU5UExBTnFXVzdhcEoxcm5KYnJncFRFa19GWlFDYTQyTFlCS0tOMW9wdFYzZ3JjS3BBenRFWHlmLXhNSjBOVi1pTDZ6TXJUVzA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0916710660b1",
+      "title": "농업 종사자 2명 중 1명 '대사증후군'… 비농업인보다 유병률 7.1%p 높아",
+      "published": "2026-08-20T07:46:40+00:00",
+      "summary": "농업 종사자 2명 중 1명 '대사증후군'… 비농업인보다 유병률 7.1%p 높아&nbsp;&nbsp;보건신문\"육체노동 많은데 왜 더 아플까\"… 농업인의 역설 [헬스통계]&nbsp;&nbsp;v.daum.net농업 종사자 2명 중 1명 ‘대사증후군’…나이 탓만은 아니었다 [노화설계]&nbsp;&nbsp;동아일보농업 종사자 절반 대사증후군…비만·고혈압·당뇨도 빨간불&nbsp;&nbsp;한스경제농업인 절반 '대사증후군'…육체노동과 건강운동은 달랐다&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WTEJ2TWlyaFJQcWtldGQzQnBQNHZqb3E1RU9odDVncnN0R0N6M21iVmVhSmYwcGUxbDJ6a0YwdXZ6REs0c0pJZnlvYXl4WWlUSEE3WW5LWVJmbHF4UUxyUmR0MA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -72,11 +124,24 @@
       "id": "7b63aaa13f1c",
       "title": "분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다",
       "published": "2026-08-20T06:41:10+00:00",
-      "summary": "분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다&nbsp;&nbsp;로컬세계음식물 삼키고 '딱 2초'…AI가 사레 위험군 발견&nbsp;&nbsp;뉴시스분당서울대병원, 2초 음성으로 흡인 위험 선별 AI 연구&nbsp;&nbsp;로이슈삼킨 뒤 2초 목소리로 ‘흡인 위험’ 가려낸다&nbsp;&nbsp;e-의료정보잦은 사레에 식후 기침…‘연하장애’ 신호?&nbsp;&nbsp;헬스경향",
+      "summary": "분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다&nbsp;&nbsp;로컬세계음식물 삼키고 '딱 2초'…AI가 사레 위험군 발견&nbsp;&nbsp;뉴시스밥 먹고 “아~” 했더니…AI가 2초 만에 사레 위험 판별[헬시타임]&nbsp;&nbsp;서울경제분당서울대병원, 2초 음성으로 흡인 위험 선별 AI 연구&nbsp;&nbsp;로이슈잦은 사레에 식후 기침…‘연하장애’ 신호?&nbsp;&nbsp;헬스경향",
       "sources": [
         {
           "name": "로컬세계",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIS1VkMGszNkFBMFVaMTFoSXZaeFZHbkFoUklxVE9xbE81U2tWWlVfaGFRQ2FFTFlyRFRyLU03MG1BTjY0MGJqc2JIa3N6Y0ZMWmtUbk1lMzlZQk84Z3FNN9IBWEFVX3lxTE14ZFNCT0pBUmZ4ZFhfZEdIcGVQNzZqOW8tbDV6NEt4MlpRUEtSWWRqVlNjRDNQNG9heEFiX0dvWWhiVFJmVk5KNllkbWJNTVNKTEZRYk5RZ2Y?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eae1011365f9",
+      "title": "2000년전 철기시대 무덤 발견…왜 우물 모양일까",
+      "published": "2026-08-20T06:39:42+00:00",
+      "summary": "2000년전 철기시대 무덤 발견…왜 우물 모양일까&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aWW0xTll4bnN1OGpPV0JLbTRuV2FMa1lPYWhWZGhlQkZJUTNyMXowdG1PNl9EVTM5Rl9WZ2w4Wm5lV0I0V1RJUzdHOEk4WkRuZThVb2V3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -103,19 +168,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QbjNaUVk2bmdOSTJFZ3BiMTh0RlFxejBwVUhHTHptZUM0c1hmX05TVnZpUnd2RXFxS0piS3NvMHpsNDdDRmV6NGRWcWdHN3d6SWptOFZxalZtWGFNZkJqYmdiZTNYaGI0UVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "995b329c0ee4",
-      "title": "비싸서 주저한 알츠하이머 치료제 ‘레켐비’··· 치료효과 있을지 혈액검사로 알아볼까",
-      "published": "2026-08-20T05:48:00+00:00",
-      "summary": "비싸서 주저한 알츠하이머 치료제 ‘레켐비’··· 치료효과 있을지 혈액검사로 알아볼까&nbsp;&nbsp;경향신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zM242cHdYbm9zVlJSZ0VwdGZMSWI2X0VmWUxfWkhtaWhkSDVXOVRxcENZYnVUZng5UU82SGZReFRWenpnQXRwal9nazdlanlsdlBDZDEtamJhd9IBX0FVX3lxTE9UTTdlZG9sQ1JyQ3JCdHdsNDhZaFB0U1NsZ056Y3o5dmRiRU5aSHZ4Mk13N3JpbVdMMzJSbktELU5fUjdyQXQ4eGFzYU5Nc1VQNUZxR2o3NEE3TU90Mjd3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -254,7 +306,7 @@
       "id": "363da5fadf86",
       "title": "국민 10명 중 6명, 심혈관질환의 남녀 차이 잘 모른다",
       "published": "2026-08-19T23:51:27+00:00",
-      "summary": "국민 10명 중 6명, 심혈관질환의 남녀 차이 잘 모른다&nbsp;&nbsp;메드월드뉴스같은 심장병인데 증상은 왜 다를까... 답은 '성별'에 있었다 [헬스톡]&nbsp;&nbsp;v.daum.net여성 심장병, 가슴 통증 없이 온다?국민 10명 중 6명 몰라&nbsp;&nbsp;네이트국민 10명 가운데 6명, 심혈관질환 ‘남녀 차’ 잘 모른다&nbsp;&nbsp;코리아헬스로그“국민 10명 중 6명, 심혈관질환 남녀 차이 몰라”…맞춤 교육 절실&nbsp;&nbsp;서울경제TV",
+      "summary": "국민 10명 중 6명, 심혈관질환의 남녀 차이 잘 모른다&nbsp;&nbsp;메드월드뉴스같은 심장병인데 증상은 왜 다를까... 답은 '성별'에 있었다 [헬스톡]&nbsp;&nbsp;v.daum.net여성 심장병, 가슴 통증 없이 온다?국민 10명 중 6명 몰라&nbsp;&nbsp;네이트국민 10명 가운데 6명, 심혈관질환 ‘남녀 차’ 잘 모른다&nbsp;&nbsp;코리아헬스로그국민 60% 심혈관질환 남녀 차이 인식 부족&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -303,14 +355,14 @@
       "matched_keywords": []
     },
     {
-      "id": "16eb09d4a58e",
-      "title": "“암은 갑자기 오지 않는다…과일·채소로 억제력 높여야” [건강한겨레]",
-      "published": "2026-08-19T20:01:00+00:00",
-      "summary": "“암은 갑자기 오지 않는다…과일·채소로 억제력 높여야” [건강한겨레]&nbsp;&nbsp;한겨레몸의 노화 빨라진 젊은이들… 암도 일찍 찾아온다&nbsp;&nbsp;v.daum.net국내 사망 원인 1위 암… 피할 수 있는 위험부터 피하자&nbsp;&nbsp;헬스조선\"설탕 없어도 달콤하다\"...간 살리고 암 예방·치료에 도움 되는 '이 채소'&nbsp;&nbsp;아이뉴스24\"고기 아예 끊어야 할까?\"…식습관 다 바꾼 암 환자의 심정은?&nbsp;&nbsp;네이트",
+      "id": "814565266be1",
+      "title": "[건강 칼럼] 천식과 기관지확장증의 공통점과 차이점은?",
+      "published": "2026-08-19T21:23:02+00:00",
+      "summary": "[건강 칼럼] 천식과 기관지확장증의 공통점과 차이점은?&nbsp;&nbsp;edaily.co.kr",
       "sources": [
         {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5MEp3WWhpZWVxdVpwMjJhdzdvS044aFBnSGhVSzREZ1ROOWlTZERnbEk2S2p3bkowcDN1WS1XY0Z6S01VM0UzQWVJcDB5eEtNbGZ4dzdickpXdW8xRVlZNHJwQzcyZFBKZXhCRWVZOA?oc=5"
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3pKc0E2eDJZNmRranpnXzBUYXlqR2JlLTcwZTZqWklWWHpaNllCUEhGWFQxR2xYaUsteDg5UUhtSkZiM1dZUE5tajhaYjQzdWxFM25IUjMtaURJQnEydHh5QWo3cE5kWTJEaVp6alpPSGxpc0VnRjRJbG45bk5WNQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -394,6 +446,45 @@
       "matched_keywords": []
     },
     {
+      "id": "2aa685bc1b20",
+      "title": "매일 마시는 단 음료, 위암 위험 최대 3배 높인다",
+      "published": "2026-08-19T14:46:04+00:00",
+      "summary": "매일 마시는 단 음료, 위암 위험 최대 3배 높인다&nbsp;&nbsp;프리진뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "프리진뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PR0NVZVRleDdyeU1acENCTHJYaDlQT3dTTnUzOWZiVkNTMnFaU3F3aWJfb05NbmNmVHRqOHczcFFHelFpZFZRc2VQS3QteDZYMlpYVXpFalpDbkhaQkNUNEZEYjRzNUdjNmtzNG5raw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "45183c1e06f3",
+      "title": "많이 움직이면 치매에 좋은 줄 알았는데…'이런 활동'은 위험 높인다",
+      "published": "2026-08-19T12:23:28+00:00",
+      "summary": "많이 움직이면 치매에 좋은 줄 알았는데…'이런 활동'은 위험 높인다&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAycTdtdllYOHdrR3d5V1hhRnlmRW5INlNWMWxxeVlkN3hpNGVqS0sxUGFhRGdlTUtwOXdfUjZiZnNPUkxkcTJPeXB4al9yM2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "257c7a42b1e5",
+      "title": "[과기원NOW] UNIST, 페로브스카이트 박막 비파괴 분석 기술 개발 外",
+      "published": "2026-08-19T09:24:00+00:00",
+      "summary": "[과기원NOW] UNIST, 페로브스카이트 박막 비파괴 분석 기술 개발 外&nbsp;&nbsp;동아사이언스",
+      "sources": [
+        {
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qRHpTTFpNTFltdG1ESUFQU09KNkQ4UU5uajhxV0JVWWtjeXhyV1dQRXIteGRtb01aU2RrVWFtTHFBUGJnSDdJbFBXU0ZPX21TbmlJQg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d084dda46301",
       "title": "TED 접고 신경질환으로…룬드벡, 에이프릴바이오 ‘Lu AG22515’ 개발전략 전환",
       "published": "2026-08-19T08:16:30+00:00",
@@ -407,14 +498,14 @@
       "matched_keywords": []
     },
     {
-      "id": "06b6b28c6f17",
-      "title": "[의학칼럼]에어컨 앞 멈추지 않는 기침 당신 숨길이 보내는 경고 ‘천식’",
-      "published": "2026-08-19T08:15:35+00:00",
-      "summary": "[의학칼럼]에어컨 앞 멈추지 않는 기침 당신 숨길이 보내는 경고 ‘천식’&nbsp;&nbsp;경남일보",
+      "id": "71054315b183",
+      "title": "부산대 연구팀, 파킨슨병·치매 원인 단백질 응집 억제 물질 발견",
+      "published": "2026-08-19T07:06:18+00:00",
+      "summary": "부산대 연구팀, 파킨슨병·치매 원인 단백질 응집 억제 물질 발견&nbsp;&nbsp;LG헬로비전파킨슨병·치매 부르는 단백질 응집 저해 실마리 찾았다&nbsp;&nbsp;BRIC부산대, 파킨슨병 단백질 응집 원리 풀었다… 새 치료 후보 제시&nbsp;&nbsp;v.daum.net‘심혈관 치료제’서 찾은 엄청난 효능…뇌연구원 “파킨슨병 치료효과 탁월”&nbsp;&nbsp;헤럴드경제부산대, 신경질환 단백질 뭉침 줄이는 물질 찾아&nbsp;&nbsp;중도일보",
       "sources": [
         {
-          "name": "경남일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84RThEVWMyekluSWF5SDl3QklkcndDZHdjTnV2WmJvcnZ3aV9NWXBFaEstei1CZThvaFJnSHczd1NLTlZjeTVCX0toYzV4emhBSmpaWnlrOW5WSnVtcUY3Qkp5aXIxYndKeVRZ?oc=5"
+          "name": "LG헬로비전",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0taTdLNGxnN040RlJMRlFqeG42VmtkWEtIWkNnd1o0Y25kblo1S1pyMGdidEd2MUVDaGRJMkNyLVQ2X0JRZTd3QXdHb1Z6RE9QRm56dEtvMWdNVFBVc3VfWDg0RWdkTlFEQ2RLSm8wQVpLQdIBdkFVX3lxTFBJT3kzNlJQU3NYSDVrcURoNUJHS1VqYlBGVXlOem95YzFQemR5X3pCT0Q0WEhrbFdubW1lX1Fvc0ZZQW5WcW1fZHpITmJsU3lyOU9QNFBXV3U3ZnI5T0lmNFNHQVdGb0d0TVhMTGFNU0c1QjExbWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -498,6 +589,19 @@
       "matched_keywords": []
     },
     {
+      "id": "c53ee242e030",
+      "title": "간·뼈까지 암 전이 환자, 심장 수술 받은 후에 몸 속 종양 모두 사라져 - 조선비즈",
+      "published": "2026-08-19T01:36:00+00:00",
+      "summary": "간·뼈까지 암 전이 환자, 심장 수술 받은 후에 몸 속 종양 모두 사라져 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLWZsblRBRVMyOHdiVnVXdnlucHlzNUFaSC1wSVlFZm9xZko1MXVsVzBJWU84cnNVenJrWmdxS1J1LTVRc2lfU2JRWElKZU5FV2gyR2VjN3ViVkMtS3c5MUZ0NTVHYkNWX3ZBdEwwTjhNMXczWndjRnM4aXFENFcxVUh4WkdKeFl3OU1SedIBoAFBVV95cUxOdTJBQm9XZzBDbW13OFNBa01Ua2dWczNVb0FfOHZwbHY2MUFzQndDQnU4SEV3bk9VUUdSS0pFaktfNHB0QWFpTW0wUGYyc253WXFXZ2V2dlNqNFJXQTZyb0ZFTFd4WGFVNEZyd3pnTTk1dWo2ejdsdlJrVkY3SFU4QkFoZzF0YzRqYWRIalNqa2l6R1hJUUQ1YTZzbUM4c3dF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b3cedf5a24a4",
       "title": "독성가스 감지하자 몸 떨려…피부에 붙이는 '위험 경보기' 나왔다",
       "published": "2026-08-19T01:20:00+00:00",
@@ -511,32 +615,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e6cf077a9d94",
-      "title": "약 30년간 잘못 알려진 결핵균 유전자 기능",
-      "published": "2026-08-19T00:10:00+00:00",
-      "summary": "약 30년간 잘못 알려진 결핵균 유전자 기능&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1POG5zU3ZfaGI1d0M0UlQ1cFUzS0JSX0FPT2dpSFMwY0hhazM2ckM2UUhfWG8xRnM3eWVWOVlKZE9ZYkpNZXZLY1F1MlZjWmFCSlhIMA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6c4b6392ffd4",
-      "title": "내과 전문의 추천, 고혈압 관리에 좋은 식품 5",
-      "published": "2026-08-18T21:30:00+00:00",
-      "summary": "내과 전문의 추천, 고혈압 관리에 좋은 식품 5&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lb29DX1d6LTRyTjBOX0FaSnNVbXJ1VE9DTzBlbGdZNlI4T0JNYWxJVGt4MzFrMmx2OW1OV1VOb0xzR2xYSDV2bkR6WWhfazI2QWx0WGhGaDV5UkdGZmh2NkF0cUhBWGY1Z0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b41588497fe7",
       "title": "유전 물질 몸에 직접 넣어 치료…'생체 내 유전자 치료' 길 열린다",
       "published": "2026-08-18T21:20:00+00:00",
@@ -545,19 +623,6 @@
         {
           "name": "뉴스1",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMTlJ1aEJqbEZPSjhaZ0o2Rnk1Nzd3WW9mMnk2aF9NMHB1UHIxZUZHV2pGWHRGZExnM04wRDAwRmZWUjAzUGh5SzdlTGhFd2NlQkHSAVdBVV95cUxPaElZNGRRdnZRWmhxYWxIcmZrWkhxSDQxNWwxcXdRTzNnRXpqdHBDaWFxV1RHRDVjbFZSZjlZUkJZTVNfb2JZNzRQN3NmSHlqcHNMSU54WkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5beb9097036b",
-      "title": "“성인과 약물 반응 다르다”… ‘소아 유전자 지도’ 만드는 한 연구자 - MIT 테크놀로지 리뷰",
-      "published": "2026-08-18T21:01:14+00:00",
-      "summary": "“성인과 약물 반응 다르다”… ‘소아 유전자 지도’ 만드는 한 연구자&nbsp;&nbsp;MIT 테크놀로지 리뷰",
-      "sources": [
-        {
-          "name": "MIT 테크놀로지 리뷰",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNMDRYejlFNGVEN1dhYmRpNnNIS011enJPdHlGR293Z3ZaWHI5LUpGSE1yMnZBOVc1NnN6dWhUbVM5eGlleG92SEszVkkyYk9CdV9rODZmSkwxRzVlb21BcFVJT1NfSkl3MGtJUFhnaHU0Y0NBY212X19Lb0Y1NHk3aFh0bmN0S2VMc0hlX28ycmVrbTRRUDhUaDVxR1NSRF9HOGdMd3NVRERpeWRVQ2MwUVplRUlYTVhaT1c3WENzdFFWUl94TE0wUm15UHNkVTlIUXZJNmVWbTlEZnVRWmdGRVFraWNkNl9LbWJNOWxuejRCOHpKSVJiZURjRWNfQms1VkR4eUNDbnF2eTFKZ0huR3hyQVdyM3NMdUFJYjVrNUdObFMwSkpzM0RONGlDRENpRVltTQ?oc=5"
         }
       ],
       "matched_keywords": []
