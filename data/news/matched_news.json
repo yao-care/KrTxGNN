@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-08-22T06:43:04.568222+00:00",
-  "total_count": 50,
+  "last_updated": "2026-08-22T12:42:56.294172+00:00",
+  "total_count": 36,
   "matched_count": 0,
   "news": [
+    {
+      "id": "57b482df736b",
+      "title": "미국 스탠퍼드대, 11일 만에 림프종 종양 제거 분자 개발",
+      "published": "2026-08-22T08:14:00+00:00",
+      "summary": "미국 스탠퍼드대, 11일 만에 림프종 종양 제거 분자 개발&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aFRqZVRMQ19wU0RQZDBnME1wemh5dS11SElvRnFsY3h5MU1NZ2JHaUFHeGY2eHA4WVYzRnV5QV92Tk5hMDRLdnREUFNDSEdMTDgtVQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7098c190062f",
+      "title": "[포토뉴스] 비침습적 뇌자극 치료효과, 임상시험 설계부터 달라야",
+      "published": "2026-08-22T07:09:26+00:00",
+      "summary": "[포토뉴스] 비침습적 뇌자극 치료효과, 임상시험 설계부터 달라야&nbsp;&nbsp;헬스경향뇌 자극하는 ‘비침습 신경조절치료’…어디까지 왔나&nbsp;&nbsp;헬스경향의사 로봇이 집으로 온다 : 재활에서 케어봇으로, 푸리에(Fourier)의 역습 [전병서의 中 첨단기업 리포트⑭]&nbsp;&nbsp;한국금융신문로봇 재활, 뇌졸중 환자 신경가소성 회복의 게임체인저&nbsp;&nbsp;글로벌이코노믹[포토뉴스] 전기자극으로 뇌신경조절…관건은 ‘개인 맞춤’&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "헬스경향",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUnRSalh6V1paWnltaFEtWXlVbmNqc1JPVUowMWpOOTNRVktDM2t4UlFYU1dyRW1HZjE3SVVuN0RrcXNQcTl2Z3hod2xiaFlOUGF1S0UwNDRhODR4MmtWcVA2RWszZmxZV3BV?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6b5233499569",
+      "title": "의사, 혈압 급등, 뇌졸중 위험을 유발하는 5가지 실수 경고",
+      "published": "2026-08-22T07:00:00+00:00",
+      "summary": "의사, 혈압 급등, 뇌졸중 위험을 유발하는 5가지 실수 경고&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkZOZXJYQzRMcTZOMG1aanVDdnY1UTAwMGdmSm5HVi1OSWFfc1ZaWVpsNGE3amxIb3RSTXllbE5lTGhFM3lENnBMZkpRREpwX2UyWWxuX0FQcVgzdUJkXzROSDR1Z0liekZrUTZtWmJFTjBBSkVvX3F3RTJyRWRRMnYzckRxYTUzZHd2Q09pbmQ1T0VQMmRSTHVxSHJlVk5ZUzR2d0J4UzV0cEU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "aa2e30a36d41",
+      "title": "공복 혈당 수치는 건강한 사람과 당뇨병 환자에게 안전합니다",
+      "published": "2026-08-22T06:51:18+00:00",
+      "summary": "공복 혈당 수치는 건강한 사람과 당뇨병 환자에게 안전합니다&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQTNMLXgyWHdRbHRlLWRYbEZRclktbXdWc3JFODdubkpBWjFvQnNZMVozRkdJVVU5ZkhXOE9sX3M2Skt0U2xnVkxmUnZJTTF2UkNBLWNPSktDWFVUZWlQSVNEc1lGcmpiY0VNQUloNVRTaG1xMjJBTXpfczhiUExlUnV4TFJRZHhCeTBUTEtNWEZId1pzVFF0SjBNYlNnZkxaNUtUNnVNSGFVRHgxY0dYWnR4cW8?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d04221e39e19",
       "title": "칸호아에서 거의 1,000명이 피부를 통해 신장 결석을 제거했습니다",
@@ -12,19 +64,6 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDlrYmw1ak5YWnlkVWZnM0oxZE5iUGs5YXctUFU1TXB0eVVLeXRJZ25CZ2R4dmxnVFJ1Ymgzelp6YkI4MUpMR0tfZWlVTllLYUh1U3FaOEZyeFBXX1p5V3hQazJBc0psWW9qYlN1VmZJSENqV2o4QjVkU0RNV1cyZi1pNGx0WFdXUEZaWmR5Vkx4UFRFQ1lmeno0c1Q?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e43a31781200",
-      "title": "영양제 ‘이렇게’ 먹는 사람, 신장 망가진다",
-      "published": "2026-08-22T05:01:00+00:00",
-      "summary": "영양제 ‘이렇게’ 먹는 사람, 신장 망가진다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zVy1TanpTYmFvdGxQenBBcWhkbVJzbVpVdjRHM1RaeWQ3ZTBVS1FFZWlmellNSm9yWTJlcmtYTXN6R1V2M3hLMEVab1hPM0ZDZWlyemhOMWpEdV9ENnI5VWlCczUyaHNDVzhFYlQ5enhKcFlsYk1nQkFNM0Zranc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -51,19 +90,6 @@
         {
           "name": "메드월드뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0aG1fLW5YNWgxemcxT0RzRW9jSTZHZ2RiQ1dmcHg4Q3E0R1QtTmx2UEdjTVBKRVdBRC13ZC1UWFdEcE5PeVpOSjZ3UVdRWWc3alRqcTB3aWRrd3FwdXdRX3NxTEpUVHdkN3BWTm9R?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1a7026cd3da2",
-      "title": "여름 물놀이 ‘미끄럼·발목 접질림’ 주의…악사손보, 골절·염좌 보장",
-      "published": "2026-08-22T00:29:14+00:00",
-      "summary": "여름 물놀이 ‘미끄럼·발목 접질림’ 주의…악사손보, 골절·염좌 보장&nbsp;&nbsp;뉴스탭AXA손보, 물놀이철 상해 보장 강화…골절·염좌부터 입원까지&nbsp;&nbsp;뉴스핌반복되는 염좌를 무시하면 안 되는 이유&nbsp;&nbsp;조선일보“물놀이 후 발목 ‘삐끗’… 며칠 지났다고 괜찮을까?”&nbsp;&nbsp;edaily.co.kr물놀이 중 발생한 뜻밖의 부상…여름철 상해, 치료비 부담까지 대비해야&nbsp;&nbsp;보험저널",
-      "sources": [
-        {
-          "name": "뉴스탭",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2eDNHQ29CYk5NbzZMS01LOFk5dkw3cko1T0h0NVFvRlhsUFU0OXRyNHBtcmlDWmhmS0ZWSUVhaWR5QzM5LTYwVFFqZTlYWm1oUVBGMk9PNGNJZUpJUFRKMmpWcVFRenJzVUNCUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,6 +147,19 @@
       "matched_keywords": []
     },
     {
+      "id": "5857b158c818",
+      "title": "3분 전력 질주 vs 90분 중강도…몸속 반응 이렇게 달랐다",
+      "published": "2026-08-21T20:00:00+00:00",
+      "summary": "3분 전력 질주 vs 90분 중강도…몸속 반응 이렇게 달랐다&nbsp;&nbsp;농민신문“90분 조깅보다 강력한 효과”… ‘단 3분’으로 혈액 깨끗하게 하는 법&nbsp;&nbsp;헬스조선\"30초씩 6번, '이렇게' 운동하세요\"…90분 운동보다 더 낫다고?&nbsp;&nbsp;네이트[건강포커스] \"3분간 전력 질주, 90분 중강도 운동보다 혈액 단백질 변화 커\"&nbsp;&nbsp;연합뉴스30초 전력질주가 몸을 바꾼다? 중강도 운동보다 크게 움직인 단백질&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xVU1sdnhQV2hSUEFwY3dsNVNlbmYxblN5X2pmM0FjbHhDRjA3NERtSjBEeFhQMFN3RnFVWm55eHBzbXFIRDJVVnB6YXNDS2RJYzk1UDh6dmRvUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9e0e7f4bc254",
       "title": "예일대 의대, 미국 최초 ‘한인 전문 위암 클리닉’ 연다 - 애틀랜타 중앙일보",
       "published": "2026-08-21T18:14:28+00:00",
@@ -155,6 +194,19 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FR0FpLWEyWThhTWRGNzlFV1dZWDRLdFNSUTlQOTg0X2RicmNnYWd2MGhaTVhBbU5uQmdUa3E3aS1sNUZmbEF3Q2xXbURJODBHbi1JZlgzc2NNSFZhb2RQY3ltUkRYQlJHUm5fLUpDalV2ajAzSTV1WWVzamEzXzA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4de80cd299dd",
+      "title": "'명의' 신혜원·윤정한 교수의 파킨슨 증후군 치료법",
+      "published": "2026-08-21T12:57:05+00:00",
+      "summary": "'명의' 신혜원·윤정한 교수의 파킨슨 증후군 치료법&nbsp;&nbsp;bntnews.co.kr\"몸 느려지고 손 떨리는데…\" 파킨슨병보다 위험한 '이 질환'일 수도 [명의]&nbsp;&nbsp;v.daum.net'명의' 신혜원·윤정한 교수가 알려주는 파킨슨증후군&nbsp;&nbsp;네이트떨어지는 약효 잡는 파킨슨 치료법&nbsp;&nbsp;뉴스버즈[명의] 다약제 복용이 파킨슨을 유발한다?&nbsp;&nbsp;Queen 이코노미퀸",
+      "sources": [
+        {
+          "name": "bntnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MZmJnUmItZEtUUmJRMTROZ2tkX2EwOGY2TS1MelFTbzAzUmcwcG9KMEN0UExiRWtISHNyaHJqUWR6SmJsams0SWVOaTMtei1GZ19EWnVuZVpheF9HNlkza1cwbms?oc=5"
         }
       ],
       "matched_keywords": []
@@ -228,7 +280,7 @@
       "id": "6c4ced14d0e2",
       "title": "동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나",
       "published": "2026-08-21T05:44:49+00:00",
-      "summary": "동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나&nbsp;&nbsp;전자신문동물 쓰다듬은 3세 아이, 영구적 뇌 손상…체험농장서 무슨 일이&nbsp;&nbsp;동아일보“동물 체험 갔을 뿐인데” 어린이 영구 뇌손상…아이들 덮친 ‘이 균’의 정체&nbsp;&nbsp;서울경제\"동물 만졌을 뿐인데\"…호주 3세 아이, 영구적 뇌 손상&nbsp;&nbsp;뉴시스\"동물 만졌을 뿐인데\"…체험 농장 갔던 아이 2명 '뇌 손상' 등 중태 [월드픽]&nbsp;&nbsp;네이트",
+      "summary": "동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나&nbsp;&nbsp;전자신문Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "전자신문",
@@ -254,24 +306,11 @@
       "id": "01a7b296fda0",
       "title": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]",
       "published": "2026-08-21T05:10:00+00:00",
-      "summary": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴매일 설탕이 든 음료를 마시면 위암 발병 위험이 2.45배 증가할까요?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴매일 마시는 단 음료, 위암 위험 최대 3배 높인다&nbsp;&nbsp;프리진경제“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQXJ3NVFoSi12dU4zWm9ENXBJa2JadDRUNDhwZUpaUEUxTU1Yb2dzTVhpUDlqU2h4WUhSOWJFOFBmWDltV1RHQ3diX1ZBSGgzUlFLempxX2xKanpFeEMtN1NjUDhkWG05cTRDLVNPQdIBZkFVX3lxTE5aUkhJN0c4eUFxOWIxdGVuTkpCZm90ZVctdTJlTjVnbGhEZ01yZW5tYllpNGtEMDZoNllNcDFzc0xpQzdpbEVMSHIxdzgzMEE0MFB6dkU2Tmowd0RzMWthQ2g2eVphdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7cc27c11b9fa",
-      "title": "\"젊으니까 괜찮겠지\" 했는데…2030 암환자 급증한 까닭",
-      "published": "2026-08-21T04:28:07+00:00",
-      "summary": "\"젊으니까 괜찮겠지\" 했는데…2030 암환자 급증한 까닭&nbsp;&nbsp;한국경제몸의 노화 빨라진 젊은이들… 암도 일찍 찾아온다&nbsp;&nbsp;v.daum.net“암은 갑자기 오지 않는다…과일·채소로 억제력 높여야” [건강한겨레]&nbsp;&nbsp;한겨레\"설탕 없어도 달콤하다\"...간 살리고 암 예방·치료에 도움 되는 '이 채소'&nbsp;&nbsp;아이뉴스24암 치료 효과 높이려면 준비부터… 치료 전 ‘몸 상태’ 점검 중요한 이유&nbsp;&nbsp;이로운넷",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MRUItZm8xX05rR2lHTUlWQ2prTDJya0JJbDIzWEI2WE9iMkRFUk9qNVoyNGQ3S2Nocnh2MzJfWHNobExvX1FVNGVablJnRkY0YVlmZlZIM3BkUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -293,7 +332,7 @@
       "id": "e41993230810",
       "title": "복부비만, 단순 외모 문제 아닌 질병 경보",
       "published": "2026-08-21T02:58:38+00:00",
-      "summary": "복부비만, 단순 외모 문제 아닌 질병 경보&nbsp;&nbsp;유스연합체중 정상이어도 뱃살 많다면 건강위험 점검해야&nbsp;&nbsp;메디컬투데이\"BMI 정상이어도 안심 금물\"…'뱃살' 많으면 심혈관질환 위험 - 머니투데이&nbsp;&nbsp;머니투데이“정상 체중도 안심 금물”…심혈관질환 위험, 체질량지수보다 ‘이것’ 확인해야&nbsp;&nbsp;농민신문심근경색 후 '비만 패러독스' 깨졌다&nbsp;&nbsp;메디칼트리뷴",
+      "summary": "복부비만, 단순 외모 문제 아닌 질병 경보&nbsp;&nbsp;유스연합\"BMI 정상이어도 안심 금물\"…'뱃살' 많으면 심혈관질환 위험 - 머니투데이&nbsp;&nbsp;머니투데이심근경색 후 '비만 패러독스' 깨졌다&nbsp;&nbsp;메디칼트리뷴\"BMI는 정상인데\"…정상 체중이어도 뱃살 많으면 심혈관질환 위험↑&nbsp;&nbsp;뉴시스BMI 정상이어도, ‘허리둘레 굵으면’ 심혈관질환 안심 못 해&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "유스연합",
@@ -319,7 +358,7 @@
       "id": "19eab3bbcb55",
       "title": "[한국인의 100가지 질환-87] 눈이 빨갛고 눈곱까지 낀다면… 여름철 ‘유행성 각결막염’ 주의",
       "published": "2026-08-21T01:54:41+00:00",
-      "summary": "[한국인의 100가지 질환-87] 눈이 빨갛고 눈곱까지 낀다면… 여름철 ‘유행성 각결막염’ 주의&nbsp;&nbsp;뉴스인[Health Recipe] 여름철 눈 건강 사수하기…외부 요소에 취약성 높아져&nbsp;&nbsp;매일경제(81) 여름 지나도 안심 금물…잠복기 일주일 ‘유행성 각결막염’&nbsp;&nbsp;농민신문단순히 눈 마르는 줄 알았는데… 안구건조증 방치하다 '각막염·결막염' 부른다 [김희영 실장 칼럼]&nbsp;&nbsp;미디어파인\"실컷 놀다 왔는데 여긴 왜 아프지\"…'휴가 후유증' 주의보&nbsp;&nbsp;한국부동산뉴스",
+      "summary": "[한국인의 100가지 질환-87] 눈이 빨갛고 눈곱까지 낀다면… 여름철 ‘유행성 각결막염’ 주의&nbsp;&nbsp;뉴스인[Health Recipe] 여름철 눈 건강 사수하기…외부 요소에 취약성 높아져&nbsp;&nbsp;매일경제(81) 여름 지나도 안심 금물…잠복기 일주일 ‘유행성 각결막염’&nbsp;&nbsp;농민신문단순히 눈 마르는 줄 알았는데… 안구건조증 방치하다 '각막염·결막염' 부른다 [김희영 실장 칼럼]&nbsp;&nbsp;미디어파인",
       "sources": [
         {
           "name": "뉴스인",
@@ -342,32 +381,6 @@
       "matched_keywords": []
     },
     {
-      "id": "4a5d06fc447b",
-      "title": "프라임마스, 마이크론과 40TB ‘외장 메모리’ 구축… 美 국립연구소에 설치",
-      "published": "2026-08-21T01:04:06+00:00",
-      "summary": "프라임마스, 마이크론과 40TB ‘외장 메모리’ 구축… 美 국립연구소에 설치&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2MyTlAta2hheDVENFZGU25ldkVrYUY2ZTJ4V2hUNHNmRkp4dXYxazd1V2s0blVndjkxaVVFRWRicEE1dHZGQndSQ0tTRjFCd29jOFJ0bGJHYmhJV2tpVDlOdVZGaHB4bW9YbS0xa0lBSEJ0NlFsUGNwUENJYVRrOVVyOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3703c90a6454",
-      "title": "\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다",
-      "published": "2026-08-21T00:58:50+00:00",
-      "summary": "\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKX1R1aVRTN3RmSlJZTHM2ZUVTRlRMaW9LeldnZUtuNmxjaWJSS01tVmh1OUJ5aWlLNmVheUJ4aVNRLXduaEQ0Ykx4WFBsZWRpWjRkLVl3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ac55bb569fa6",
       "title": "지구 질량 23배 ‘거대 암석 행성’ 발견…기존 이론 흔들어 [우주로 간다]",
       "published": "2026-08-21T00:45:08+00:00",
@@ -384,24 +397,11 @@
       "id": "38aabbee2c5f",
       "title": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까?",
       "published": "2026-08-20T23:56:06+00:00",
-      "summary": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까?&nbsp;&nbsp;코리아헬스로그“밥만 먹고 나면 너무 졸려”…눈 앞이 흐릿해진다면 ‘혈당 스파이크’가 보내는 경고 [헬시타임]&nbsp;&nbsp;서울경제극심한 갈증으로 병원 가니 ‘당뇨병’ 진단… 127kg 여성, ‘매일 먹은 음식’ 있다는데?&nbsp;&nbsp;헬스조선21세에 당뇨병 진단받은 女 \"16kg 감량, 혈당 개선\"…어떻게?&nbsp;&nbsp;네이트배달 음식 먹고 운동 안 하고ⵈ 혹시 나도? 20‧30대 ‘젊은 당뇨병’ 주의!&nbsp;&nbsp;부천신문",
+      "summary": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까?&nbsp;&nbsp;코리아헬스로그젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+]&nbsp;&nbsp;v.daum.net“밥만 먹고 나면 너무 졸려”…눈 앞이 흐릿해진다면 ‘혈당 스파이크’가 보내는 경고 [헬시타임]&nbsp;&nbsp;서울경제'건강 히어로' 당뇨·합병증 예방위한 혈당 관리법 조명&nbsp;&nbsp;gukjenews.com극심한 갈증으로 병원 가니 ‘당뇨병’ 진단… 127kg 여성, ‘매일 먹은 음식’ 있다는데?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDMkhXeWpjVllSX3ZYUHJWNTJ6djhXSDVPTU82YlFIOUQ2VUVpV2U3TXh6Ui1XOThUeVFpUWhQa3ZfQ2MwVlEwTms4YmZod2lWNnNvQ3ZuSFJjaEd4Q1UwclhJX2pibEpid3pvWmJtR0ZFUdIBdkFVX3lxTE56V0JtdUdlSUQ2TXdFbERmaXpaLWVIRG9aRHdOY0hOem5hdC1iaUpfSEVZa0YyaGJLZXZ6RDM0TkdYUjlZa3RtblV5T0ZVdG5NZ0JPZWlIWjk4MnhTcUo0VU52RExSbnp1VXlkZUY3cFI1UWY5Nnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ae0a50020abc",
-      "title": "K-핵잠수함, 더 강력해질까…위성없이 길 찾는 '중력지도' 개발 박차",
-      "published": "2026-08-20T22:00:00+00:00",
-      "summary": "K-핵잠수함, 더 강력해질까…위성없이 길 찾는 '중력지도' 개발 박차&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WX3BBRU1xMWlvbTF4MkczaGJGeDB5eVVubmt6d2o3QllFNm1tTHVQVjFSY0ZnNnc2QWUtTkYtajNyTC1yeFRoeUFodWNoQV9xLWY0Qw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -415,19 +415,6 @@
         {
           "name": "edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWJFWjRkQ19WWDhvcFpvS05rSkd4QnhYcWxFOEtRT1JtUFpuTnZiNHd6ZUJFd0NwWFZuUk1oYnpNYmFleXRMZE1sWUhRNHBRZTFoMmZJVGg0eFVOakJKVlFvaGhVWjVGWXBneGhWSnNoczcwQmhsWkpWUlRXZzZrVw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "25622bc36d8b",
-      "title": "의사 로봇이 집으로 온다 : 재활에서 케어봇으로, 푸리에(Fourier)의 역습 [전병서의 中 첨단기업 리포트⑭]",
-      "published": "2026-08-20T21:00:00+00:00",
-      "summary": "의사 로봇이 집으로 온다 : 재활에서 케어봇으로, 푸리에(Fourier)의 역습 [전병서의 中 첨단기업 리포트⑭]&nbsp;&nbsp;한국금융신문[포토뉴스] 뇌 신호 읽고 필요한 만큼만 자극…진화하는 ‘파킨슨병 치료’&nbsp;&nbsp;헬스경향로봇 재활, 뇌졸중 환자 신경가소성 회복의 게임체인저&nbsp;&nbsp;글로벌이코노믹비침습적 뇌자극 더 정밀하게…AI·로봇 결합한 TMS기술 ‘눈길’&nbsp;&nbsp;헬스경향[포토뉴스] 전기자극으로 뇌신경조절…관건은 ‘개인 맞춤’&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "한국금융신문",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfbEpOeG5EU3hGZWZoMjF1LXpZdlY1Nk1rSVRFLXJKbWY0b3dwLUxCbDZJQ2RHdzZ1Y2FXYnBrNTlrMGY1R2dnMjRpUUowU2NMcmZTdndhbXItYURUZXZDTHpwNy1rZTNLWVVVcVdhUVBuYnRpQTRKVA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -459,97 +446,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fb4fc9da7505",
-      "title": "국립암센터 연구팀, 한국인 담도계암 환자 14%에서 유전성 암 관련 변이 확인 外",
-      "published": "2026-08-20T09:41:23+00:00",
-      "summary": "국립암센터 연구팀, 한국인 담도계암 환자 14%에서 유전성 암 관련 변이 확인 外&nbsp;&nbsp;의약뉴스\"韓 담도계암 환자 14% 유전성 변이…가족력 없어도 검사해야\"&nbsp;&nbsp;v.daum.net국립암센터, 한국인 담도계암 환자 유전적 소인 분석&nbsp;&nbsp;로이슈“가족력 없어도 담도암 생식세포 병원성 변이 확인”&nbsp;&nbsp;병원신문담도계암 7명 중 1명 ‘유전성 암 변이’ 확인&nbsp;&nbsp;e-의료정보",
-      "sources": [
-        {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OaHVoa2k5M3A2cVhaekhwM0pPTmIyRVpGaVV5eW13aldOTXdmbXdPZnk4czFpems0THV5SjR3TldGOW9CUmo5VVlDQV9zMjRMdjFJNE1XUHBGX0U5MUM3cDh1STFXVUo3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3554e64d831b",
-      "title": "분당서울대병원 연구팀, 음성 기반 AI 모델 제시 外",
-      "published": "2026-08-20T09:37:08+00:00",
-      "summary": "분당서울대병원 연구팀, 음성 기반 AI 모델 제시 外&nbsp;&nbsp;의약뉴스음식물 삼키고 '딱 2초'…AI가 사레 위험군 발견&nbsp;&nbsp;뉴시스밥 먹고 “아~” 했더니…AI가 2초 만에 사레 위험 판별[헬시타임]&nbsp;&nbsp;서울경제분당서울대병원, 2초 음성으로 흡인 위험 선별 AI 연구&nbsp;&nbsp;로이슈잦은 사레에 식후 기침…‘연하장애’ 신호?&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZYWU2ZjZ6M2FWc2s4S1RFQjM0WXlwYXlieUx1di1oeVJ1OC1kY01oVlk2dTRBRWlJdXVub3p4YnVra0h1QlFNOEt6eGtPZFRySnNxNFlOUDM0RS00YlNRUHVfeDBaTy1W?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "488bce9ada48",
-      "title": "호치민시, HIV 입원환자 4년 사이 48%↑…\"뒤늦은 발견·임의 투약중단 원인\"",
-      "published": "2026-08-20T09:31:47+00:00",
-      "summary": "호치민시, HIV 입원환자 4년 사이 48%↑…\"뒤늦은 발견·임의 투약중단 원인\"&nbsp;&nbsp;인사이드비나",
-      "sources": [
-        {
-          "name": "인사이드비나",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSV0RVOHVZOGNSLXpRa2g0VHRMLW53RGJSM3JXS1lSZ1JXUmJibjRYX0otSlNqS2E1dHdTODR4QTdveVRad3UydUliSW5aeFAyd1YxU2xZZ2pqbFg2MkF1MWgxNWVyTDdLa1p6MA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aa86fcf9ba79",
-      "title": "60대 남성, 차 안에서 유방암 증상 알아챘다는데… 무슨 사연?",
-      "published": "2026-08-20T09:00:00+00:00",
-      "summary": "60대 남성, 차 안에서 유방암 증상 알아챘다는데… 무슨 사연?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jMGxlZ0hvYm5QUU5IajY5a0ZUVTI4QnZqX2NDVGdHTy1tQzItalpQQ3RfMVhRMUdJWE12TFgxVVJ3LWctR3FyX2o1VTN1YkxuRWFja2gtaXl1YjBKamFWRDNtd1FsTC1sTGFvY2tzbEljcWxuM1hVdnZDdjdiT3M?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2f853b11ae0a",
-      "title": "빛의 속도 8%로 움직이는 별…우리은하서 가장 빠른 별 발견",
-      "published": "2026-08-20T08:45:00+00:00",
-      "summary": "빛의 속도 8%로 움직이는 별…우리은하서 가장 빠른 별 발견&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jWmJtaFdRMkVkcjhOa3ZKSmNTWkdjS2RyaHhCOEh5Z1NROWhQeEY5aWdMTU51SzZwMFk2WnRRNnBHVmI3V3I4QzdPMFBjeHhhU3ZUYg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ab0d110f1f33",
-      "title": "휴가 후 계속되는 장 트러블, 과민성대장증후군과 대장내시경 검사 필요할까?",
-      "published": "2026-08-20T07:36:06+00:00",
-      "summary": "휴가 후 계속되는 장 트러블, 과민성대장증후군과 대장내시경 검사 필요할까?&nbsp;&nbsp;K스피릿“혈변이 하루 6번 이상” 간과하다간 입원行?&nbsp;&nbsp;뉴스에이“뾰루지에 단것 자꾸 당겨?”…‘장 건강’ 나빠졌다는 몸의 신호는?&nbsp;&nbsp;코메디닷컴\"뾰루지에 단것 자꾸 당겨?\"…'장 건강' 나빠졌다는 몸의 신호는?&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "K스피릿",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYQzkwOWpNZDJxUTM3dk5US0ZLSzFtWjZwTUxWb0F5OWlMNFpNN2RQQjdYV2gzVDZod2RSOG1oaWVQeVRRVllxS3pOVWFqQ2QtNlhtN1pMazk1azczQzczeWNGdUE0eS1xTmN4RXZtQdIBc0FVX3lxTE5ST2tlbVkyUVJhMGhYZDg1LUlCMFRfcHpkSjUtWW9FTDBpRlJkVl8xNExyaV9JVFZUTzhKYTROa2xReXZhN0tRamJzY1hlWEt3LXNzT1ZQSk4yLXlMOVBvUTFId2lIbUxqQ29CUHJhVlZIZEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b4064852d3a1",
-      "title": "“식사 후 바로 앉지 마세요”...혈당 스파이크 막아주는 ‘2분의 기적’",
-      "published": "2026-08-20T06:58:44+00:00",
-      "summary": "“식사 후 바로 앉지 마세요”...혈당 스파이크 막아주는 ‘2분의 기적’&nbsp;&nbsp;insight.co.kr밥 먹자마자 앉지 마세요…5분 산책이 혈당에 미치는 놀라운 효과&nbsp;&nbsp;주간조선식후 산책, 길게 안 해도 된다…2분 걸었더니 생긴 변화&nbsp;&nbsp;조세일보“살 안 찌는 비결” 이현이가 밥 먹은 뒤 실천하는 것… 뭐야?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "insight.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wY2FRbzU4VzNBT2IxOFVoaVRmVm84RmhGaFdXbklQZjNKZUo2ckpiUzVwejhZLVAzRlN0QWNuVkNxZ2cta0FqeWkzbkpxZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "eae1011365f9",
       "title": "2000년전 철기시대 무덤 발견…왜 우물 모양일까",
       "published": "2026-08-20T06:39:42+00:00",
@@ -563,58 +459,6 @@
       "matched_keywords": []
     },
     {
-      "id": "31d74cce6a32",
-      "title": "취미로 하는 운동과 육체노동, 치매 위험 연관성 엇갈려…연구",
-      "published": "2026-08-20T06:15:16+00:00",
-      "summary": "취미로 하는 운동과 육체노동, 치매 위험 연관성 엇갈려…연구&nbsp;&nbsp;디지털투데이[건강포커스] \"여가 운동은 치매 위험 낮추고 육체노동은 위험 높일 수 있어\"&nbsp;&nbsp;v.daum.net집안일은 도움되지만… 직장서 몸 움직이는 것은 치매 되레 키운다&nbsp;&nbsp;헬스조선\"많이 움직이면 치매 예방?\"…육체노동자 치매 위험 20% 높은 이유&nbsp;&nbsp;스포츠조선\"여가 운동은 치매 위험 24% 낮추는데…일하며 쓰는 몸은 20% 높일 수도\"&nbsp;&nbsp;아시아경제",
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nN1ZtSUhPRVYtcUdOdGhleWhJVFdBM2M2bk5XRm1fN2FRSGJWbE1FREpvUm52UTFMbjFKQUo5ZXRTZG5EeUwxYUdsLTdyUW4xTHcxMzhSbUhFOXZhREZzNGt1eXZmb0NORndFRms2dVBTMU0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "04e329bc8892",
-      "title": "오렌지주스 매일 마시면 심혈관 건강에 도움... \"공복에는 피해야\"",
-      "published": "2026-08-20T06:00:00+00:00",
-      "summary": "오렌지주스 매일 마시면 심혈관 건강에 도움... \"공복에는 피해야\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QbjNaUVk2bmdOSTJFZ3BiMTh0RlFxejBwVUhHTHptZUM0c1hmX05TVnZpUnd2RXFxS0piS3NvMHpsNDdDRmV6NGRWcWdHN3d6SWptOFZxalZtWGFNZkJqYmdiZTNYaGI0UVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9f76e6a6df81",
-      "title": "KIST, 상온·상압 암모니아 생산 효율 극대화...국내 최고 효율 달성",
-      "published": "2026-08-20T03:00:00+00:00",
-      "summary": "KIST, 상온·상압 암모니아 생산 효율 극대화...국내 최고 효율 달성&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54TEs2VWt2dUpvcG1OYU1kbjBSbkQ0SlZNemtySndZbzFUR3NlLV9OVzVCdHQ5NVQycmsyT3FRaTBEQlRMQ3dZLTg4YXBEZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c0c2e2ea8f9a",
-      "title": "인공위성만 보인다, ‘진짜 별’은 못 찾는다…“10만기 넘으면 천문학 연구 불가능”",
-      "published": "2026-08-20T00:46:00+00:00",
-      "summary": "인공위성만 보인다, ‘진짜 별’은 못 찾는다…“10만기 넘으면 천문학 연구 불가능”&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05NlVSay1uS2J0UXBVUGgtRGZKTDBKOEpmMWt3cDI0d2FVRktJWVFtNXNueGZPQkFfMkdsaDdUXzlMeTNsc1RHR2NpczczZEUxaEtRY0VNZDh6QTV0ZC12TExkT2lTVURmejgxTldVNnhjZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9f639f05cf0d",
       "title": "\"헬조선이라니… 과학 연구에는 좋은 환경이죠\"",
       "published": "2026-08-19T23:22:22+00:00",
@@ -623,32 +467,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWVaTFJDRlJDajlHZHNBOXAzaDE4VXZPY1djTTB6WnFkQXZXZmxwMV9QSHVqb0JYeGpnc1hvZ2lXSUhoVUhoOEJkWFJKQWx0OThIMlQ0Zjk5RFppeV9NVVhnTTJEajhMR0pXRmN0N2hHMmd4WGF4T1JVbDZYYlpLYTE4VQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0d3b6d9e1407",
-      "title": "“낮에는 햇빛, 밤에는 전기”… 국립창원대, 24시간 수소 만드는 전극 개발",
-      "published": "2026-08-19T08:19:47+00:00",
-      "summary": "“낮에는 햇빛, 밤에는 전기”… 국립창원대, 24시간 수소 만드는 전극 개발&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwUzdzZWRPc2o4eDRJQnVoQ3loaHBlY0VOMncyeUJfOUhjSVBlWlpSS0hfQi1MazRKb0lRVkp3RXdHVjMxVUdMVlZqeC1HNHR3XzJuUkVuY3LSAVRBVV95cUxOQktJNV9HVVNXeFFqQ21PRmtqUTY3QWV4TUhnX1BNQTBVdE1Hc0VnQWkwWGVjbC00WVNWdjN2cGVnclozTzFBSHhIeTJobmtRaDZKa0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d084dda46301",
-      "title": "TED 접고 신경질환으로…룬드벡, 에이프릴바이오 ‘Lu AG22515’ 개발전략 전환",
-      "published": "2026-08-19T08:16:30+00:00",
-      "summary": "TED 접고 신경질환으로…룬드벡, 에이프릴바이오 ‘Lu AG22515’ 개발전략 전환&nbsp;&nbsp;더바이오",
-      "sources": [
-        {
-          "name": "더바이오",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNNU5zSXRDaTdlUWtaLWtLZkdCcmdXUVl0ODNrWW1JdFFIMExlTGtXRlE4VGpQMkxxTEY1TDZ4WGJiU0w4MDduLUlXandhY2lBUE9UV1FWYUVTVWhNdHRFQzZtamZETC1ia2tZOdIBcEFVX3lxTFB6UzllU29uMHpWQmhKbk9xMDM2S3RKNk9aNTFjQmtFX2lJYVh4ZnJfNlMwVE1jQlRfMk5GZWtxdzRTbVFnOFZkUUtqMFdVYW5UR2E1RDBJaW8wUDZ5aGhOUzhVYmhXUk1ydFhsS0tiVXM?oc=5"
         }
       ],
       "matched_keywords": []
