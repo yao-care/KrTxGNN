@@ -1,19 +1,43 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-22T12:42:56.185407+00:00",
-  "total_fetched": 74,
-  "unique_count": 73,
-  "health_related_count": 36,
+  "fetched_at": "2026-08-22T18:33:46.845908+00:00",
+  "total_fetched": 72,
+  "unique_count": 71,
+  "health_related_count": 34,
   "news": [
     {
-      "id": "57b482df736b",
-      "title": "미국 스탠퍼드대, 11일 만에 림프종 종양 제거 분자 개발 - 바이오북미디어",
-      "published": "2026-08-22T08:14:00+00:00",
-      "summary": "미국 스탠퍼드대, 11일 만에 림프종 종양 제거 분자 개발&nbsp;&nbsp;바이오북미디어",
+      "id": "e91152547da5",
+      "title": "북마케도니아, 웨스트나일 바이러스로 5번째 사망자 발생 - gukjenews.com",
+      "published": "2026-08-22T16:04:46+00:00",
+      "summary": "북마케도니아, 웨스트나일 바이러스로 5번째 사망자 발생&nbsp;&nbsp;gukjenews.com",
       "sources": [
         {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aFRqZVRMQ19wU0RQZDBnME1wemh5dS11SElvRnFsY3h5MU1NZ2JHaUFHeGY2eHA4WVYzRnV5QV92Tk5hMDRLdnREUFNDSEdMTDgtVQ?oc=5"
+          "name": "gukjenews.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45ZUJnYUJQYm52dG5SSzlQaEFWcDloSWNuTVc1R0JqRWhwT25WVmhVV1A5YWVRT1NuVUN1a2JHMU9ndWQtU3hfOU43OGctQXY0bEo1V0toZENwem1rZE9vSDdnaXMtSElab2QwSzB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d9851de70bf",
+      "title": "“마운자로 효과 폭발”… 51kg 감량한 여성, ‘두 가지’ 끊었다는데? - 헬스조선",
+      "published": "2026-08-22T14:01:00+00:00",
+      "summary": "“마운자로 효과 폭발”… 51kg 감량한 여성, ‘두 가지’ 끊었다는데?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZdnJPaGl3SjVDNm9DME1ObzN3eGFVOVIyMUY1cjhYN1NMTHlYZVhLMWZYSkoxMFlVd29zYTFCTncwblNLRkt6YXhtRS1aX0hUc2RoSHpxcnNMUm43QVFsM0V6cy1hT0Z4dkJvWU5jVFRfeThDQ0lZLWRoeE5Eb2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e11d8427b0b3",
+      "title": "젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+] - 세계일보",
+      "published": "2026-08-22T09:00:00+00:00",
+      "summary": "젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+]&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TSVNCWmpnXzU5SGVWOXF3dDh4ME5oUVNnbGtDWUlDTWxUWUIteFpjVGVHNXBxMlFpNGNaQThPTVM4cndXUmM1alhmcnV5RGc3MWEzRS1IMnDSAVRBVV95cUxOdzRSTkM4RGUzdDhYbldUUV9feXhKMUFjbnNXWWJfYktKcXJhaThOdmtjbVVfZUpDb1FtTk5yaGd2cGpQODFsY3NKd0MwdzE0YTVIMFA?oc=5"
         }
       ]
     },
@@ -26,18 +50,6 @@
         {
           "name": "헬스경향",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUnRSalh6V1paWnltaFEtWXlVbmNqc1JPVUowMWpOOTNRVktDM2t4UlFYU1dyRW1HZjE3SVVuN0RrcXNQcTl2Z3hod2xiaFlOUGF1S0UwNDRhODR4MmtWcVA2RWszZmxZV3BV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b5233499569",
-      "title": "의사, 혈압 급등, 뇌졸중 위험을 유발하는 5가지 실수 경고 - Laodong.vn",
-      "published": "2026-08-22T07:00:00+00:00",
-      "summary": "의사, 혈압 급등, 뇌졸중 위험을 유발하는 5가지 실수 경고&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkZOZXJYQzRMcTZOMG1aanVDdnY1UTAwMGdmSm5HVi1OSWFfc1ZaWVpsNGE3amxIb3RSTXllbE5lTGhFM3lENnBMZkpRREpwX2UyWWxuX0FQcVgzdUJkXzROSDR1Z0liekZrUTZtWmJFTjBBSkVvX3F3RTJyRWRRMnYzckRxYTUzZHd2Q09pbmQ1T0VQMmRSTHVxSHJlVk5ZUzR2d0J4UzV0cEU?oc=5"
         }
       ]
     },
@@ -86,18 +98,6 @@
         {
           "name": "메드월드뉴스",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0aG1fLW5YNWgxemcxT0RzRW9jSTZHZ2RiQ1dmcHg4Q3E0R1QtTmx2UEdjTVBKRVdBRC13ZC1UWFdEcE5PeVpOSjZ3UVdRWWc3alRqcTB3aWRrd3FwdXdRX3NxTEpUVHdkN3BWTm9R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "461278a8f347",
-      "title": "치아 건강이 인지기능에도 영향…치매 환자 구강관리 중요 [e건강~쏙] - 이투데이",
-      "published": "2026-08-21T23:57:00+00:00",
-      "summary": "치아 건강이 인지기능에도 영향…치매 환자 구강관리 중요 [e건강~쏙]&nbsp;&nbsp;이투데이\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적&nbsp;&nbsp;코리아헬스로그진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;디멘시아뉴스“치료는 나중에?” 치매 환자에게 구강관리가 ‘시작’인 이유!&nbsp;&nbsp;dentalkoo.com",
-      "sources": [
-        {
-          "name": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZOXNlazRkMFJpVTlsTm1yRndodVQ2bFJVUFRoNGpEdHZycUM0cFhSelpVbVE1OUUyajNsR1JKNV81SGl0dGVSal82V2hvZE1EaERpRA?oc=5"
         }
       ]
     },
@@ -186,18 +186,6 @@
       ]
     },
     {
-      "id": "4de80cd299dd",
-      "title": "'명의' 신혜원·윤정한 교수의 파킨슨 증후군 치료법 - bntnews.co.kr",
-      "published": "2026-08-21T12:57:05+00:00",
-      "summary": "'명의' 신혜원·윤정한 교수의 파킨슨 증후군 치료법&nbsp;&nbsp;bntnews.co.kr\"몸 느려지고 손 떨리는데…\" 파킨슨병보다 위험한 '이 질환'일 수도 [명의]&nbsp;&nbsp;v.daum.net'명의' 신혜원·윤정한 교수가 알려주는 파킨슨증후군&nbsp;&nbsp;네이트떨어지는 약효 잡는 파킨슨 치료법&nbsp;&nbsp;뉴스버즈[명의] 다약제 복용이 파킨슨을 유발한다?&nbsp;&nbsp;Queen 이코노미퀸",
-      "sources": [
-        {
-          "name": "bntnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MZmJnUmItZEtUUmJRMTROZ2tkX2EwOGY2TS1MelFTbzAzUmcwcG9KMEN0UExiRWtISHNyaHJqUWR6SmJsams0SWVOaTMtei1GZ19EWnVuZVpheF9HNlkza1cwbms?oc=5"
-        }
-      ]
-    },
-    {
       "id": "31b7dfabd191",
       "title": "치매 환자 자녀, ‘식단 중요성’ 공감하지만...실천은 절반도 안 돼 - 디멘시아뉴스",
       "published": "2026-08-21T11:10:01+00:00",
@@ -258,18 +246,6 @@
       ]
     },
     {
-      "id": "6c4ced14d0e2",
-      "title": "동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나 - 전자신문",
-      "published": "2026-08-21T05:44:49+00:00",
-      "summary": "동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나&nbsp;&nbsp;전자신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zb3FOamYwaC1Mc3BqVEs5S24zSFVSNWp1aW54dkFPTDRlQUwxdTE5UWpGNy1hWjQ0bm5LSXJBZGlqdTFfSExZR1l2cUNUUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8b78a6db5e09",
       "title": "“빵, 쌀보다 위험하다”… 의사들이 경고한 ‘최악의 탄수화물’, 뭐야? - 코메디닷컴",
       "published": "2026-08-21T05:43:00+00:00",
@@ -278,6 +254,18 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zNUR0SlFtN0w5QW1QdTJnSXQ2V1VYekd5b1NFSkQ4ekpxaGFIZUhjTFh1OHAtLW9uVm1LVkM0V1lrdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b5840bfdbfa5",
+      "title": "치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적 - 코리아헬스로그",
+      "published": "2026-08-21T05:41:49+00:00",
+      "summary": "치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적&nbsp;&nbsp;코리아헬스로그치아 건강이 인지기능에도 영향…치매 환자 구강관리 중요 [e건강~쏙]&nbsp;&nbsp;이투데이\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;디멘시아뉴스“치료는 나중에?” 치매 환자에게 구강관리가 ‘시작’인 이유!&nbsp;&nbsp;dentalkoo.com",
+      "sources": [
+        {
+          "name": "코리아헬스로그",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00LXc4c1JEd3hNeF9CSV9wYm5IZ1ItUGNqaFZGOTYyQldoQUpyVnM0U05GYVdvaUFoTGhBQ3FEdkUtS21NVmNpUmpWQjZhc21DYnFjYnJWUTFuM2lieEtYSFB1UW1wc2VIRi05LWFKUkFMd9IBdkFVX3lxTFBoUkw3QjNJME5IQUlIRmctbUNpd2p0clhZV3NYc1o5Z2p1NHhic2psZWdiUTRkblFrZDM4dW9PcEp3dUtLRTlNcVFsZnU5RGlzY3NwNXE4cEYwNk5ObmZWYUREekZzVWRMYmR3a1N6MGo1MjRuUnc?oc=5"
         }
       ]
     },
@@ -366,18 +354,6 @@
       ]
     },
     {
-      "id": "38aabbee2c5f",
-      "title": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까? - 코리아헬스로그",
-      "published": "2026-08-20T23:56:06+00:00",
-      "summary": "한국 2030, 5명 중 1명 '전당뇨'…2030 혈당 악화 결정적 요인 뭘까?&nbsp;&nbsp;코리아헬스로그젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+]&nbsp;&nbsp;v.daum.net“밥만 먹고 나면 너무 졸려”…눈 앞이 흐릿해진다면 ‘혈당 스파이크’가 보내는 경고 [헬시타임]&nbsp;&nbsp;서울경제'건강 히어로' 당뇨·합병증 예방위한 혈당 관리법 조명&nbsp;&nbsp;gukjenews.com극심한 갈증으로 병원 가니 ‘당뇨병’ 진단… 127kg 여성, ‘매일 먹은 음식’ 있다는데?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDMkhXeWpjVllSX3ZYUHJWNTJ6djhXSDVPTU82YlFIOUQ2VUVpV2U3TXh6Ui1XOThUeVFpUWhQa3ZfQ2MwVlEwTms4YmZod2lWNnNvQ3ZuSFJjaEd4Q1UwclhJX2pibEpid3pvWmJtR0ZFUdIBdkFVX3lxTE56V0JtdUdlSUQ2TXdFbERmaXpaLWVIRG9aRHdOY0hOem5hdC1iaUpfSEVZa0YyaGJLZXZ6RDM0TkdYUjlZa3RtblV5T0ZVdG5NZ0JPZWlIWjk4MnhTcUo0VU52RExSbnp1VXlkZUY3cFI1UWY5Nnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "13c3935db5de",
       "title": "고령층 덮치는 결핵…80세 이상 잠복결핵 치료는 12.6% - edaily.co.kr",
       "published": "2026-08-20T21:00:04+00:00",
@@ -426,14 +402,14 @@
       ]
     },
     {
-      "id": "9f639f05cf0d",
-      "title": "\"헬조선이라니… 과학 연구에는 좋은 환경이죠\" - 조선일보",
-      "published": "2026-08-19T23:22:22+00:00",
-      "summary": "\"헬조선이라니… 과학 연구에는 좋은 환경이죠\"&nbsp;&nbsp;조선일보",
+      "id": "c0c2e2ea8f9a",
+      "title": "인공위성만 보인다, ‘진짜 별’은 못 찾는다…“10만기 넘으면 천문학 연구 불가능” - 한겨레",
+      "published": "2026-08-20T00:30:00+00:00",
+      "summary": "인공위성만 보인다, ‘진짜 별’은 못 찾는다…“10만기 넘으면 천문학 연구 불가능”&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWVaTFJDRlJDajlHZHNBOXAzaDE4VXZPY1djTTB6WnFkQXZXZmxwMV9QSHVqb0JYeGpnc1hvZ2lXSUhoVUhoOEJkWFJKQWx0OThIMlQ0Zjk5RFppeV9NVVhnTTJEajhMR0pXRmN0N2hHMmd4WGF4T1JVbDZYYlpLYTE4VQ?oc=5"
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05NlVSay1uS2J0UXBVUGgtRGZKTDBKOEpmMWt3cDI0d2FVRktJWVFtNXNueGZPQkFfMkdsaDdUXzlMeTNsc1RHR2NpczczZEUxaEtRY0VNZDh6QTV0ZC12TExkT2lTVURmejgxTldVNnhjZw?oc=5"
         }
       ]
     }
