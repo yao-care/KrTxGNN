@@ -1,19 +1,91 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-21T18:39:25.477793+00:00",
-  "total_fetched": 110,
-  "unique_count": 110,
-  "health_related_count": 55,
+  "fetched_at": "2026-08-22T01:21:24.650957+00:00",
+  "total_fetched": 105,
+  "unique_count": 104,
+  "health_related_count": 52,
   "news": [
     {
-      "id": "d3af3939ae86",
-      "title": "웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역 - RadioKorea",
-      "published": "2026-08-21T17:34:00+00:00",
-      "summary": "웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역&nbsp;&nbsp;RadioKorea",
+      "id": "ca4afe0df5d3",
+      "title": "[시니어 건강] 숨 가쁨과 다리 붓기, 단순 노화가 아닌 '심부전 경고 신호' 일 수 있어 - edaily.co.kr",
+      "published": "2026-08-22T01:02:02+00:00",
+      "summary": "[시니어 건강] 숨 가쁨과 다리 붓기, 단순 노화가 아닌 '심부전 경고 신호' 일 수 있어&nbsp;&nbsp;edaily.co.kr숨이 차고 다리가 붓는다...나이 탓인 줄 알았는데 심부전?&nbsp;&nbsp;로이슈[의학칼럼] 숨 차야 알 수 있는 심부전? 증상 전 살펴야 할 것은&nbsp;&nbsp;헬스조선단순 노화나 피로 탓인가? 숨 차고 다리 붓는다면 '심부전' 의심&nbsp;&nbsp;헬스미디어뉴스숨이 차고 다리가 붓는다...나이 탓인 줄 알았는데 '심부전'&nbsp;&nbsp;헬스이슈앤뉴스",
+      "sources": [
+        {
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWUlDNVFSZjhGMU1kVU1EczdpMUtxblNialdtT05TUUxrNXRKaW5mZFRiNTllYU9nR0tJMjhoQWUwQXZRT25zcm9HNG1obXhhdjJLb2lLand6bmliQjNOQ19vbEhBNTRZZ21ITkFlNURZVGxaN0xyNjI3ckpndjFUeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4cdbb17a2d0a",
+      "title": "LA 카운티, 올해 첫 웨스트나일 바이러스 감염자 사망 - RadioKorea",
+      "published": "2026-08-22T00:35:00+00:00",
+      "summary": "LA 카운티, 올해 첫 웨스트나일 바이러스 감염자 사망&nbsp;&nbsp;RadioKorea웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역&nbsp;&nbsp;RadioKorea웨스트나일 감염자 발생에 비상… 샌가브리엘 밸리 모기 방역&nbsp;&nbsp;RadioKorea",
       "sources": [
         {
           "name": "RadioKorea",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02LU1UM3FlVkF3T3pIbjkzM29oQWd1eEoxbk5neXhZaE83M1RYLS10VWUxTVVpWjVJSE83ZTRnRGtBT0Vtbk5lTm93NjJJTTBwMlFlNE8tY3I3MkNDYVJRbnRZQ3lMNlkyWW1ZNXlrcnBpeDBhbVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4YlR1NjM1aWVVQ2RqVk54ZzF2SWZDTC11UE9aTmdUazliTU1lNS0yOUtqN25yS3pzVnM0bE90a3RUbzFyMzFtU1NTTjdqODAxN0UyWnZfc2RBUzJkeVQ0a1FCNmppVzBqMDM4SU1zVmhyM1kxMEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a7026cd3da2",
+      "title": "여름 물놀이 ‘미끄럼·발목 접질림’ 주의…악사손보, 골절·염좌 보장 - 뉴스탭",
+      "published": "2026-08-22T00:29:14+00:00",
+      "summary": "여름 물놀이 ‘미끄럼·발목 접질림’ 주의…악사손보, 골절·염좌 보장&nbsp;&nbsp;뉴스탭AXA손보, 물놀이철 상해 보장 강화…골절·염좌부터 입원까지&nbsp;&nbsp;뉴스핌반복되는 염좌를 무시하면 안 되는 이유&nbsp;&nbsp;조선일보휴가지에서 삐끗한 발목, 통증 가라앉아도 안심하긴 이르다&nbsp;&nbsp;네이트물놀이 중 발생한 뜻밖의 부상…여름철 상해, 치료비 부담까지 대비해야&nbsp;&nbsp;보험저널",
+      "sources": [
+        {
+          "name": "뉴스탭",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2eDNHQ29CYk5NbzZMS01LOFk5dkw3cko1T0h0NVFvRlhsUFU0OXRyNHBtcmlDWmhmS0ZWSUVhaWR5QzM5LTYwVFFqZTlYWm1oUVBGMk9PNGNJZUpJUFRKMmpWcVFRenJzVUNCUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "461278a8f347",
+      "title": "치아 건강이 인지기능에도 영향…치매 환자 구강관리 중요 [e건강~쏙] - 이투데이",
+      "published": "2026-08-21T23:57:00+00:00",
+      "summary": "치아 건강이 인지기능에도 영향…치매 환자 구강관리 중요 [e건강~쏙]&nbsp;&nbsp;이투데이\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적&nbsp;&nbsp;코리아헬스로그진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;디멘시아뉴스“치료는 나중에?” 치매 환자에게 구강관리가 ‘시작’인 이유!&nbsp;&nbsp;dentalkoo.com",
+      "sources": [
+        {
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZOXNlazRkMFJpVTlsTm1yRndodVQ2bFJVUFRoNGpEdHZycUM0cFhSelpVbVE1OUUyajNsR1JKNV81SGl0dGVSal82V2hvZE1EaERpRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8e9cf5408445",
+      "title": "자살은 전염된다, 친구의 자살은 위험 신호. - 슬로우뉴스",
+      "published": "2026-08-21T22:21:18+00:00",
+      "summary": "자살은 전염된다, 친구의 자살은 위험 신호.&nbsp;&nbsp;슬로우뉴스",
+      "sources": [
+        {
+          "name": "슬로우뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE41V3hoTHFSR1Q1NHFxOEVEcUdtOGtfbEpHZzlLcHYyVmpKdjl1SFItelY1UmF3bHdJcHNEbUJ1cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45f2e7f8166a",
+      "title": "[김연수의 식탁이야기(99)] 갑자기 찾아온 심혈관질환? 혈관은 오래전부터 병들고 있었다. - 뉴스투데이",
+      "published": "2026-08-21T22:13:02+00:00",
+      "summary": "[김연수의 식탁이야기(99)] 갑자기 찾아온 심혈관질환? 혈관은 오래전부터 병들고 있었다.&nbsp;&nbsp;뉴스투데이",
+      "sources": [
+        {
+          "name": "뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tcnFBejVwM19HX2M5Y0U0dzBZcnU1YXczaXQ0TWg4NDBncUhyd2RLVmlFR3Bhc1VhZndod19yUVRkQkJnTExjT0tFMTVhWmEyRHFFSUdWeURPVkNyUnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c979c806ca4",
+      "title": "‘한 알’ 먹으면 치매 위험 뚝 떨어진다… 흔한 음식이던데, 뭐지? - 헬스조선",
+      "published": "2026-08-21T20:01:00+00:00",
+      "summary": "‘한 알’ 먹으면 치매 위험 뚝 떨어진다… 흔한 음식이던데, 뭐지?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VeXBmTUhhZW1SRUdOSWdKY2ZjRHVvbl81NkJ2NjJyTVBMb3JHUXotLWZjOEFaQzVEaUl4Tzd2dzBGQjJyNDVvOHNMV1pJV01yTktoeVBZR0FxdDdraUg5ejJMZnhMazR3WlZwak5wUEtrT2poblBSR0ZCRUI1Zms?oc=5"
         }
       ]
     },
@@ -66,10 +138,22 @@
       ]
     },
     {
+      "id": "d2145268d2c9",
+      "title": "입속의 만성 염증, 전신 건강의 경고등이 되다 - ppss.kr",
+      "published": "2026-08-21T09:19:05+00:00",
+      "summary": "입속의 만성 염증, 전신 건강의 경고등이 되다&nbsp;&nbsp;ppss.kr[박찬우 박사 칼럼 14회] 잇몸 건강이 심장도 지킵니다&nbsp;&nbsp;캐어유 뉴스방치하기 쉬운 치주질환, 전신 건강과도 연관 있어&nbsp;&nbsp;비건뉴스",
+      "sources": [
+        {
+          "name": "ppss.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sUEtsTXBXR0pfdjA5MGFzT2RBck9BXzBGRHdrYmNLWEViZEpuYmE0d3FDR2FfSWhkVW9aTVBuV3NmZkw3cm4zemR6OWpxWnp4a3JzUWFqc2F1WVdCZWZhUU8zYTU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "669d07a6448f",
       "title": "동물농장 다녀온 3살 딸 '뇌 손상'…이유 밝혀지자 '발칵' - 한국경제",
       "published": "2026-08-21T08:01:58+00:00",
-      "summary": "동물농장 다녀온 3살 딸 '뇌 손상'…이유 밝혀지자 '발칵'&nbsp;&nbsp;한국경제동물 쓰다듬은 3세 아이, 영구적 뇌 손상…체험농장서 무슨 일이&nbsp;&nbsp;동아일보동물원 체험이 부른 비극…호주 아동 2명, 세균 감염으로 중태&nbsp;&nbsp;전자신문\"동물 만졌을 뿐인데\"…체험 농장 갔던 아이 2명 '뇌 손상' 등 중태 [월드픽]&nbsp;&nbsp;네이트동물 체험농장 다녀온 아이 2명 중태… 뇌 손상 일으킨 ‘이 균’ 때문?&nbsp;&nbsp;코메디닷컴",
+      "summary": "동물농장 다녀온 3살 딸 '뇌 손상'…이유 밝혀지자 '발칵'&nbsp;&nbsp;한국경제동물 쓰다듬은 3세 아이, 영구적 뇌 손상…체험농장서 무슨 일이&nbsp;&nbsp;동아일보동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나&nbsp;&nbsp;전자신문동물 체험농장 다녀온 아이 2명 중태… 뇌 손상 일으킨 ‘이 균’ 때문?&nbsp;&nbsp;코메디닷컴동물 만졌을 뿐인데...어린이 2명 뇌 손상·신부전 ‘위중’&nbsp;&nbsp;insight.co.kr",
       "sources": [
         {
           "name": "한국경제",
@@ -90,18 +174,6 @@
       ]
     },
     {
-      "id": "eccf5a799b78",
-      "title": "AXA손보, 물놀이철 상해 보장 강화…골절·염좌부터 입원까지 - 뉴스핌",
-      "published": "2026-08-21T07:03:00+00:00",
-      "summary": "AXA손보, 물놀이철 상해 보장 강화…골절·염좌부터 입원까지&nbsp;&nbsp;뉴스핌반복되는 염좌를 무시하면 안 되는 이유&nbsp;&nbsp;조선일보물놀이 중 발생한 뜻밖의 부상…여름철 상해, 치료비 부담까지 대비해야&nbsp;&nbsp;매일일보휴가지에서 삐끗한 발목, 통증 가라앉아도 안심하긴 이르다&nbsp;&nbsp;한국일보“물놀이 후 발목 ‘삐끗’… 며칠 지났다고 괜찮을까?”&nbsp;&nbsp;edaily.co.kr",
-      "sources": [
-        {
-          "name": "뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xN0NyY2w4UjFLaXJTRXBDVTVJYS1qblZvckgxSGxWUGNqNWRrNXQ5b0h3M1I5akJLa2c5blJZVGhsWmw5c1NnUzJuTENlME9kdHZTV3dlcmRCbmc5?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8b78a6db5e09",
       "title": "“빵, 쌀보다 위험하다”… 의사들이 경고한 ‘최악의 탄수화물’, 뭐야? - 코메디닷컴",
       "published": "2026-08-21T05:43:00+00:00",
@@ -114,18 +186,6 @@
       ]
     },
     {
-      "id": "b5840bfdbfa5",
-      "title": "치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적 - 코리아헬스로그",
-      "published": "2026-08-21T05:41:49+00:00",
-      "summary": "치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적&nbsp;&nbsp;코리아헬스로그\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;디멘시아뉴스“다른 치료는 나중에?”…치매 환자에게 구강관리가 ‘시작’인 이유&nbsp;&nbsp;헬스오치주질환 심할수록 치매 위험 높아&nbsp;&nbsp;현대건강신문",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00LXc4c1JEd3hNeF9CSV9wYm5IZ1ItUGNqaFZGOTYyQldoQUpyVnM0U05GYVdvaUFoTGhBQ3FEdkUtS21NVmNpUmpWQjZhc21DYnFjYnJWUTFuM2lieEtYSFB1UW1wc2VIRi05LWFKUkFMd9IBdkFVX3lxTFBoUkw3QjNJME5IQUlIRmctbUNpd2p0clhZV3NYc1o5Z2p1NHhic2psZWdiUTRkblFrZDM4dW9PcEp3dUtLRTlNcVFsZnU5RGlzY3NwNXE4cEYwNk5ObmZWYUREekZzVWRMYmR3a1N6MGo1MjRuUnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "01a7b296fda0",
       "title": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계] - 동아일보",
       "published": "2026-08-21T05:10:00+00:00",
@@ -134,6 +194,18 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQXJ3NVFoSi12dU4zWm9ENXBJa2JadDRUNDhwZUpaUEUxTU1Yb2dzTVhpUDlqU2h4WUhSOWJFOFBmWDltV1RHQ3diX1ZBSGgzUlFLempxX2xKanpFeEMtN1NjUDhkWG05cTRDLVNPQdIBZkFVX3lxTE5aUkhJN0c4eUFxOWIxdGVuTkpCZm90ZVctdTJlTjVnbGhEZ01yZW5tYllpNGtEMDZoNllNcDFzc0xpQzdpbEVMSHIxdzgzMEE0MFB6dkU2Tmowd0RzMWthQ2g2eVphdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7cc27c11b9fa",
+      "title": "\"젊으니까 괜찮겠지\" 했는데…2030 암환자 급증한 까닭 - 한국경제",
+      "published": "2026-08-21T04:28:07+00:00",
+      "summary": "\"젊으니까 괜찮겠지\" 했는데…2030 암환자 급증한 까닭&nbsp;&nbsp;한국경제몸의 노화 빨라진 젊은이들… 암도 일찍 찾아온다&nbsp;&nbsp;v.daum.net“암은 갑자기 오지 않는다…과일·채소로 억제력 높여야” [건강한겨레]&nbsp;&nbsp;한겨레\"설탕 없어도 달콤하다\"...간 살리고 암 예방·치료에 도움 되는 '이 채소'&nbsp;&nbsp;아이뉴스24암 치료 효과 높이려면 준비부터… 치료 전 ‘몸 상태’ 점검 중요한 이유&nbsp;&nbsp;이로운넷",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MRUItZm8xX05rR2lHTUlWQ2prTDJya0JJbDIzWEI2WE9iMkRFUk9qNVoyNGQ3S2Nocnh2MzJfWHNobExvX1FVNGVablJnRkY0YVlmZlZIM3BkUQ?oc=5"
         }
       ]
     },
@@ -297,7 +369,7 @@
       "id": "fb4fc9da7505",
       "title": "국립암센터 연구팀, 한국인 담도계암 환자 14%에서 유전성 암 관련 변이 확인 外 - 의약뉴스",
       "published": "2026-08-20T09:41:23+00:00",
-      "summary": "국립암센터 연구팀, 한국인 담도계암 환자 14%에서 유전성 암 관련 변이 확인 外&nbsp;&nbsp;의약뉴스\"韓 담도계암 환자 14% 유전성 변이…가족력 없어도 검사해야\"&nbsp;&nbsp;v.daum.net국립암센터, 한국인 담도계암 환자 유전적 소인 분석&nbsp;&nbsp;로이슈한국인 담도계암 환자 172명 유전적 소인 분석&nbsp;&nbsp;BRIC“가족력 없어도 담도암 생식세포 병원성 변이 확인”&nbsp;&nbsp;병원신문",
+      "summary": "국립암센터 연구팀, 한국인 담도계암 환자 14%에서 유전성 암 관련 변이 확인 外&nbsp;&nbsp;의약뉴스\"韓 담도계암 환자 14% 유전성 변이…가족력 없어도 검사해야\"&nbsp;&nbsp;v.daum.net국립암센터, 한국인 담도계암 환자 유전적 소인 분석&nbsp;&nbsp;로이슈“가족력 없어도 담도암 생식세포 병원성 변이 확인”&nbsp;&nbsp;병원신문담도계암 7명 중 1명 ‘유전성 암 변이’ 확인&nbsp;&nbsp;e-의료정보",
       "sources": [
         {
           "name": "의약뉴스",
@@ -306,14 +378,14 @@
       ]
     },
     {
-      "id": "488bce9ada48",
-      "title": "호치민시, HIV 입원환자 4년 사이 48%↑…\"뒤늦은 발견·임의 투약중단 원인\" - 인사이드비나",
-      "published": "2026-08-20T09:31:47+00:00",
-      "summary": "호치민시, HIV 입원환자 4년 사이 48%↑…\"뒤늦은 발견·임의 투약중단 원인\"&nbsp;&nbsp;인사이드비나",
+      "id": "3554e64d831b",
+      "title": "분당서울대병원 연구팀, 음성 기반 AI 모델 제시 外 - 의약뉴스",
+      "published": "2026-08-20T09:37:08+00:00",
+      "summary": "분당서울대병원 연구팀, 음성 기반 AI 모델 제시 外&nbsp;&nbsp;의약뉴스음식물 삼키고 '딱 2초'…AI가 사레 위험군 발견&nbsp;&nbsp;뉴시스밥 먹고 “아~” 했더니…AI가 2초 만에 사레 위험 판별[헬시타임]&nbsp;&nbsp;서울경제분당서울대병원, 2초 음성으로 흡인 위험 선별 AI 연구&nbsp;&nbsp;로이슈잦은 사레에 식후 기침…‘연하장애’ 신호?&nbsp;&nbsp;헬스경향",
       "sources": [
         {
-          "name": "인사이드비나",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSV0RVOHVZOGNSLXpRa2g0VHRMLW53RGJSM3JXS1lSZ1JXUmJibjRYX0otSlNqS2E1dHdTODR4QTdveVRad3UydUliSW5aeFAyd1YxU2xZZ2pqbFg2MkF1MWgxNWVyTDdLa1p6MA?oc=5"
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZYWU2ZjZ6M2FWc2s4S1RFQjM0WXlwYXlieUx1di1oeVJ1OC1kY01oVlk2dTRBRWlJdXVub3p4YnVra0h1QlFNOEt6eGtPZFRySnNxNFlOUDM0RS00YlNRUHVfeDBaTy1W?oc=5"
         }
       ]
     },
@@ -330,18 +402,6 @@
       ]
     },
     {
-      "id": "0916710660b1",
-      "title": "농업 종사자 2명 중 1명 '대사증후군'… 비농업인보다 유병률 7.1%p 높아 - 보건신문",
-      "published": "2026-08-20T07:46:40+00:00",
-      "summary": "농업 종사자 2명 중 1명 '대사증후군'… 비농업인보다 유병률 7.1%p 높아&nbsp;&nbsp;보건신문\"육체노동 많은데 왜 더 아플까\"… 농업인의 역설 [헬스통계]&nbsp;&nbsp;v.daum.net농업 종사자 2명 중 1명 ‘대사증후군’…나이 탓만은 아니었다 [노화설계]&nbsp;&nbsp;동아일보농업 종사자 절반 대사증후군…비만·고혈압·당뇨도 빨간불&nbsp;&nbsp;한스경제농업인 절반 '대사증후군'…육체노동과 건강운동은 달랐다&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WTEJ2TWlyaFJQcWtldGQzQnBQNHZqb3E1RU9odDVncnN0R0N6M21iVmVhSmYwcGUxbDJ6a0YwdXZ6REs0c0pJZnlvYXl4WWlUSEE3WW5LWVJmbHF4UUxyUmR0MA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ab0d110f1f33",
       "title": "휴가 후 계속되는 장 트러블, 과민성대장증후군과 대장내시경 검사 필요할까? - K스피릿",
       "published": "2026-08-20T07:36:06+00:00",
@@ -350,18 +410,6 @@
         {
           "name": "K스피릿",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYQzkwOWpNZDJxUTM3dk5US0ZLSzFtWjZwTUxWb0F5OWlMNFpNN2RQQjdYV2gzVDZod2RSOG1oaWVQeVRRVllxS3pOVWFqQ2QtNlhtN1pMazk1azczQzczeWNGdUE0eS1xTmN4RXZtQdIBc0FVX3lxTE5ST2tlbVkyUVJhMGhYZDg1LUlCMFRfcHpkSjUtWW9FTDBpRlJkVl8xNExyaV9JVFZUTzhKYTROa2xReXZhN0tRamJzY1hlWEt3LXNzT1ZQSk4yLXlMOVBvUTFId2lIbUxqQ29CUHJhVlZIZEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b63aaa13f1c",
-      "title": "분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다 - 로컬세계",
-      "published": "2026-08-20T06:41:10+00:00",
-      "summary": "분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다&nbsp;&nbsp;로컬세계음식물 삼키고 '딱 2초'…AI가 사레 위험군 발견&nbsp;&nbsp;뉴시스밥 먹고 “아~” 했더니…AI가 2초 만에 사레 위험 판별[헬시타임]&nbsp;&nbsp;서울경제분당서울대병원, 2초 음성으로 흡인 위험 선별 AI 연구&nbsp;&nbsp;로이슈잦은 사레에 식후 기침…‘연하장애’ 신호?&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "로컬세계",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIS1VkMGszNkFBMFVaMTFoSXZaeFZHbkFoUklxVE9xbE81U2tWWlVfaGFRQ2FFTFlyRFRyLU03MG1BTjY0MGJqc2JIa3N6Y0ZMWmtUbk1lMzlZQk84Z3FNN9IBWEFVX3lxTE14ZFNCT0pBUmZ4ZFhfZEdIcGVQNzZqOW8tbDV6NEt4MlpRUEtSWWRqVlNjRDNQNG9heEFiX0dvWWhiVFJmVk5KNllkbWJNTVNKTEZRYk5RZ2Y?oc=5"
         }
       ]
     },
@@ -386,18 +434,6 @@
         {
           "name": "디지털투데이",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nN1ZtSUhPRVYtcUdOdGhleWhJVFdBM2M2bk5XRm1fN2FRSGJWbE1FREpvUm52UTFMbjFKQUo5ZXRTZG5EeUwxYUdsLTdyUW4xTHcxMzhSbUhFOXZhREZzNGt1eXZmb0NORndFRms2dVBTMU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "747f0b3bd12f",
-      "title": "[한국인의 100가지 질환-86] 여름 끝자락에도 기침이 멈추지 않는다면… ‘백일해’ 의심해야 - 뉴스인",
-      "published": "2026-08-20T06:01:44+00:00",
-      "summary": "[한국인의 100가지 질환-86] 여름 끝자락에도 기침이 멈추지 않는다면… ‘백일해’ 의심해야&nbsp;&nbsp;뉴스인",
-      "sources": [
-        {
-          "name": "뉴스인",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xVUlzU0hOV3BIcWZGcWFVQ1BuUEZzN0pfZXJQMnhmeEJtY0hxc3VjZkRTczQybGpWTUppeVc5VGdNVGZXVHBLNTBqaEpZZGg5Ymd6UnQ4ZW9tX2J5eHhSUnlYSWplQWF5RGIw?oc=5"
         }
       ]
     },
@@ -429,7 +465,7 @@
       "id": "63d34d4a1c6f",
       "title": "혈액검사로 알츠하이머병 치료 효과 예측 가능성 제시 - 라포르시안",
       "published": "2026-08-20T05:17:22+00:00",
-      "summary": "혈액검사로 알츠하이머병 치료 효과 예측 가능성 제시&nbsp;&nbsp;라포르시안\"치매 정복은 꿈 아냐 … 신약 더 나올것\"&nbsp;&nbsp;v.daum.net비싸서 주저한 알츠하이머 치료제 ‘레켐비’··· 치료효과 있을지 혈액검사로 알아볼까&nbsp;&nbsp;경향신문레카네맙 수요 급증…서울아산병원 투약대기 20주&nbsp;&nbsp;데일리메디고려대 구로병원, 혈액 바이오마커로 알츠하이머 치료 반응 분석&nbsp;&nbsp;로이슈",
+      "summary": "혈액검사로 알츠하이머병 치료 효과 예측 가능성 제시&nbsp;&nbsp;라포르시안“임상3상 간 치매치료제 46개, 먹는 약도 개발중…정복 머지않았다”&nbsp;&nbsp;v.daum.net비싸서 주저한 알츠하이머 치료제 ‘레켐비’··· 치료효과 있을지 혈액검사로 알아볼까&nbsp;&nbsp;경향신문레카네맙 수요 급증…서울아산병원 투약대기 20주&nbsp;&nbsp;데일리메디고려대 구로병원, 혈액 바이오마커로 알츠하이머 치료 반응 분석&nbsp;&nbsp;로이슈",
       "sources": [
         {
           "name": "라포르시안",
@@ -534,42 +570,6 @@
       ]
     },
     {
-      "id": "363da5fadf86",
-      "title": "국민 10명 중 6명, 심혈관질환의 남녀 차이 잘 모른다 - 메드월드뉴스",
-      "published": "2026-08-19T23:51:27+00:00",
-      "summary": "국민 10명 중 6명, 심혈관질환의 남녀 차이 잘 모른다&nbsp;&nbsp;메드월드뉴스같은 심장병인데 증상은 왜 다를까... 답은 '성별'에 있었다 [헬스톡]&nbsp;&nbsp;v.daum.net여성 심장병, 가슴 통증 없이 온다?국민 10명 중 6명 몰라&nbsp;&nbsp;네이트국민 10명 중 6명, 심혈관질환 남녀 차이 잘 모른다&nbsp;&nbsp;헬스오\"25년 뒤 젊은 여성 3명 중 1명 심장병\"…美 전문가들이 꼽은 예방 수칙&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vYkd4SnlpZW1ZQ2phOG9KbUVPYXJ1djZUUGt4dUhrMjhyd1BpV0xWeUl3OXpBbG9HZktlb0xFb0lWc3B0R1BnVjcxVzdSM05DczF6ZXJnV2o0Wlg0TmZ4cTZfYUduTnZGampLRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b11a98eb4e63",
-      "title": "아침마다 손이 굳는다면… 집에서 확인하고 병원 가야 할 류마티스관절염 신호 - 스포츠월드",
-      "published": "2026-08-19T23:44:32+00:00",
-      "summary": "아침마다 손이 굳는다면… 집에서 확인하고 병원 가야 할 류마티스관절염 신호&nbsp;&nbsp;스포츠월드\"손가락 관절 통증이 시작\"…전신 염증 부르는 '이것'&nbsp;&nbsp;뉴시스손가락 붓고 아픈 66세女…3년간 숨찬 이유 알고보니&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "스포츠월드",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LbXR5SXB5MkZiWUpqMVN5UzZGQVAyTVg5SlJhUmdvWHpOZ002V3kyVWo2RlZMNWlvTVFOaWpXMjJRNGd5S0Y1aHJOZy1XT0tFNTNVdG9JWUp4NFE1NUVLQjJn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2ff2299ea669",
-      "title": "자궁내막증 통증, 염증 넘어 ‘신경·면역·내분비’ 복합기전으로 봐야 - 병원신문",
-      "published": "2026-08-19T23:42:40+00:00",
-      "summary": "자궁내막증 통증, 염증 넘어 ‘신경·면역·내분비’ 복합기전으로 봐야&nbsp;&nbsp;병원신문Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RX2xpdnc4Y19SNkxiOUFSUGI4Y09yWk44UGJEd2owZm1wT2JrbDgzMFNKMVBMQVB5LUVMUVRKZF9aV3pfakcwejIyOXI4R2xKVVM0a2dMMWVnRFBLbUltNzhkNkdsZG90Z1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9f639f05cf0d",
       "title": "\"헬조선이라니… 과학 연구에는 좋은 환경이죠\" - 조선일보",
       "published": "2026-08-19T23:22:22+00:00",
@@ -578,30 +578,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWVaTFJDRlJDajlHZHNBOXAzaDE4VXZPY1djTTB6WnFkQXZXZmxwMV9QSHVqb0JYeGpnc1hvZ2lXSUhoVUhoOEJkWFJKQWx0OThIMlQ0Zjk5RFppeV9NVVhnTTJEajhMR0pXRmN0N2hHMmd4WGF4T1JVbDZYYlpLYTE4VQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "814565266be1",
-      "title": "[건강 칼럼] 천식과 기관지확장증의 공통점과 차이점은? - edaily.co.kr",
-      "published": "2026-08-19T21:23:02+00:00",
-      "summary": "[건강 칼럼] 천식과 기관지확장증의 공통점과 차이점은?&nbsp;&nbsp;edaily.co.kr더위 속 더 가빠지는 숨… 천식·COPD 환자 호흡곤란 주의&nbsp;&nbsp;헬스조선\"여름인데 기침 끊이지 않아\"…'이곳' 관리 놓치면, 폐렴 위험까지?&nbsp;&nbsp;네이트“적정 실내 온도 유지, 주기적 환기로 예방”&nbsp;&nbsp;백세시대[의학칼럼]에어컨 앞 멈추지 않는 기침 당신 숨길이 보내는 경고 ‘천식’&nbsp;&nbsp;경남일보",
-      "sources": [
-        {
-          "name": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3pKc0E2eDJZNmRranpnXzBUYXlqR2JlLTcwZTZqWklWWHpaNllCUEhGWFQxR2xYaUsteDg5UUhtSkZiM1dZUE5tajhaYjQzdWxFM25IUjMtaURJQnEydHh5QWo3cE5kWTJEaVp6alpPSGxpc0VnRjRJbG45bk5WNQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e362ceead23d",
-      "title": "\"사우나를 자주 이용하는 사람, 심혈관 질환과 치매에 걸릴 위험이 크게 낮아\" - 정경시사 FOCUS",
-      "published": "2026-08-19T19:34:07+00:00",
-      "summary": "\"사우나를 자주 이용하는 사람, 심혈관 질환과 치매에 걸릴 위험이 크게 낮아\"&nbsp;&nbsp;정경시사 FOCUS\"사우나 자주 가는 엄마, 오히려 좋아\"…치매 위험 66% '뚝', 깜짝 효과 [건강잇슈]&nbsp;&nbsp;v.daum.net\"그냥 사우나 즐겼을 뿐인데 놀라운 효과\"…심장마비에 치매 위험까지 '뚝'&nbsp;&nbsp;아시아경제“사우나 좋아했을 뿐인데 이런 이득이”…주 4회 갔더니 사망 위험 40%↓&nbsp;&nbsp;서울경제주 4회 이상 사우나 했더니…치매·심장 돌연사 위험 '뚝'&nbsp;&nbsp;머니투데이",
-      "sources": [
-        {
-          "name": "정경시사 FOCUS",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VcTVieUxUejhFTmNYQ05rajFTVE1oekRIVzlLMnl3aWRaM0l2Y296NzJYYzFFRDdTM1M2RXFoVDk2cVVyZ1dQOTRyb1dQaWhQLVB6a0pxdkltaEtVUmppcEpXT1owVVBH?oc=5"
         }
       ]
     },
@@ -650,18 +626,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPenpvR0xtT3hXQnlFQ1diNHFrQ296c3M3V2F0TUt1NDd6QVJaSFRLZGY2LTNhXzFkdlFwZzNlclNFS2ZsOHVoSjRPdXNfTmFQeVJHeWQyWkg0S2dsVExMeFZ4RHhaNGZyVW9PV2RCUTFOLVJ6UFYzUFVYZ01PVFZiV09nTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b41588497fe7",
-      "title": "유전 물질 몸에 직접 넣어 치료…'생체 내 유전자 치료' 길 열린다 - 뉴스1",
-      "published": "2026-08-18T21:20:00+00:00",
-      "summary": "유전 물질 몸에 직접 넣어 치료…'생체 내 유전자 치료' 길 열린다&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMTlJ1aEJqbEZPSjhaZ0o2Rnk1Nzd3WW9mMnk2aF9NMHB1UHIxZUZHV2pGWHRGZExnM04wRDAwRmZWUjAzUGh5SzdlTGhFd2NlQkHSAVdBVV95cUxPaElZNGRRdnZRWmhxYWxIcmZrWkhxSDQxNWwxcXdRTzNnRXpqdHBDaWFxV1RHRDVjbFZSZjlZUkJZTVNfb2JZNzRQN3NmSHlqcHNMSU54WkE?oc=5"
         }
       ]
     }
