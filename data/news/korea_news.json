@@ -1,22 +1,10 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-23T12:43:54.752671+00:00",
+  "fetched_at": "2026-08-23T18:32:53.747234+00:00",
   "total_fetched": 60,
   "unique_count": 60,
-  "health_related_count": 34,
+  "health_related_count": 32,
   "news": [
-    {
-      "id": "f27cf8eb975e",
-      "title": "[빅테크칼럼] “10년 내 암 정복” AI 낙관론에 종양학자들 반박…실험실 성과와 환자 치료 사이의 거대한 간극 - 뉴스스페이스",
-      "published": "2026-08-23T11:53:11+00:00",
-      "summary": "[빅테크칼럼] “10년 내 암 정복” AI 낙관론에 종양학자들 반박…실험실 성과와 환자 치료 사이의 거대한 간극&nbsp;&nbsp;뉴스스페이스",
-      "sources": [
-        {
-          "name": "뉴스스페이스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1id241ODUya2xpVU9iN1lHZ0JGX0RFLVliZUpOblp4Zmo2cUJQSUE3NHZxRHhQUGVuck5OMWlIcWVEbzFRaGctWGk2Unp1ZlYxMnlEOFFvaTRxOXdRR21IUg?oc=5"
-        }
-      ]
-    },
     {
       "id": "637639f619a9",
       "title": "여왕벌, 농약 노출되자…독성물질 ‘알’로 보냈다 - 지디넷코리아",
@@ -38,6 +26,18 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3FMUlVHREVXNXZoQ042dGFmVHZWZ1A2QVlsbE15WE4zTTNaWXFYdk5ZdHF6bmlhdEc0Ym5xOUJscUNkS19kNmVMcDA5RURUMzVMUENQTFlDbkJIYThsbUNjY3pxc1hRUEUzTHBjVzItc0NQWDRVbTE1d1ZycEFOaWJYR1ZTMUdRaWZoVkctNkQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "48367ee0b0ac",
+      "title": "위암 위험 3배 높인다는 가당 음료, 대체당은 '연관 없어'[나우,어스] - 네이트",
+      "published": "2026-08-23T08:00:00+00:00",
+      "summary": "위암 위험 3배 높인다는 가당 음료, 대체당은 '연관 없어'[나우,어스]&nbsp;&nbsp;네이트위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’[나우,어스]&nbsp;&nbsp;헤럴드경제\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zVHU4aUs4OGgwcm1PbUZ5djlYdmdxelFRNzlxQnpYTE1wNjZSYkJpeTIwZ3JMeTB2VjkzQkJMR042dUZKbzl2RG9Vdi1oOGdsd2oxZy1YYlF2UU5PRHhEbA?oc=5"
         }
       ]
     },
@@ -102,6 +102,18 @@
       ]
     },
     {
+      "id": "f27cf8eb975e",
+      "title": "[빅테크칼럼] “10년 내 암 정복” AI 낙관론에 종양학자들 반박…실험실 성과와 환자 치료 사이의 거대한 간극 - 뉴스스페이스",
+      "published": "2026-08-22T22:00:00+00:00",
+      "summary": "[빅테크칼럼] “10년 내 암 정복” AI 낙관론에 종양학자들 반박…실험실 성과와 환자 치료 사이의 거대한 간극&nbsp;&nbsp;뉴스스페이스",
+      "sources": [
+        {
+          "name": "뉴스스페이스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1id241ODUya2xpVU9iN1lHZ0JGX0RFLVliZUpOblp4Zmo2cUJQSUE3NHZxRHhQUGVuck5OMWlIcWVEbzFRaGctWGk2Unp1ZlYxMnlEOFFvaTRxOXdRR21IUg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1895a5df4f47",
       "title": "임신 17주 배 속에 12㎏ 자궁근종… 임신 중 수술 괜찮을까? - 스포츠월드",
       "published": "2026-08-22T20:17:47+00:00",
@@ -134,18 +146,6 @@
         {
           "name": "gukjenews.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45ZUJnYUJQYm52dG5SSzlQaEFWcDloSWNuTVc1R0JqRWhwT25WVmhVV1A5YWVRT1NuVUN1a2JHMU9ndWQtU3hfOU43OGctQXY0bEo1V0toZENwem1rZE9vSDdnaXMtSElab2QwSzB3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "232a1c0a4f03",
-      "title": "위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’[나우,어스] - 헤럴드경제 미주판",
-      "published": "2026-08-22T15:59:00+00:00",
-      "summary": "위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’[나우,어스]&nbsp;&nbsp;헤럴드경제 미주판Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "헤럴드경제 미주판",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90aGh5d0FOYTNKSXZ3ZFkwVkc2Qm96MUFvNkQ5RXBPZHNvU1VIcXZkTkYxTWhGR2ZYUGcwTXJjaTdXWkxmbTVBdXIwOU5iYU54N2x0MnVVZlRocS1mMmFfWA?oc=5"
         }
       ]
     },
@@ -186,14 +186,14 @@
       ]
     },
     {
-      "id": "3ac5281c1324",
-      "title": "젊고, 증상 없어 안심하면 '큰일' 20∼30대 당뇨병 주의 [건강+] - 네이트",
-      "published": "2026-08-22T09:02:00+00:00",
-      "summary": "젊고, 증상 없어 안심하면 '큰일' 20∼30대 당뇨병 주의 [건강+]&nbsp;&nbsp;네이트젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+]&nbsp;&nbsp;v.daum.net“밥만 먹고 나면 너무 졸려”…눈 앞이 흐릿해진다면 ‘혈당 스파이크’가 보내는 경고 [헬시타임]&nbsp;&nbsp;서울경제'건강 히어로' 당뇨·합병증 예방위한 혈당 관리법 조명&nbsp;&nbsp;gukjenews.com극심한 갈증으로 병원 가니 ‘당뇨병’ 진단… 127kg 여성, ‘매일 먹은 음식’ 있다는데?&nbsp;&nbsp;헬스조선",
+      "id": "e11d8427b0b3",
+      "title": "젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+] - 세계일보",
+      "published": "2026-08-22T09:00:00+00:00",
+      "summary": "젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+]&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oNndJNEFlSjVwb3pDbEtDUW90U2EzRjdGYkI2dGptVzd0RXBxOHV2WkFHNzQwSjhlYklPUlhmZVYyZ0pzbVg1SmNpbTVORmtTRFpn?oc=5"
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TSVNCWmpnXzU5SGVWOXF3dDh4ME5oUVNnbGtDWUlDTWxUWUIteFpjVGVHNXBxMlFpNGNaQThPTVM4cndXUmM1alhmcnV5RGc3MWEzRS1IMnDSAVRBVV95cUxOdzRSTkM4RGUzdDhYbldUUV9feXhKMUFjbnNXWWJfYktKcXJhaThOdmtjbVVfZUpDb1FtTk5yaGd2cGpQODFsY3NKd0MwdzE0YTVIMFA?oc=5"
         }
       ]
     },
@@ -206,6 +206,18 @@
         {
           "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aFRqZVRMQ19wU0RQZDBnME1wemh5dS11SElvRnFsY3h5MU1NZ2JHaUFHeGY2eHA4WVYzRnV5QV92Tk5hMDRLdnREUFNDSEdMTDgtVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5927c67167d",
+      "title": "“90분 조깅보다 강력한 효과”… ‘단 3분’으로 혈액 깨끗하게 하는 법 - 헬스조선",
+      "published": "2026-08-22T08:00:00+00:00",
+      "summary": "“90분 조깅보다 강력한 효과”… ‘단 3분’으로 혈액 깨끗하게 하는 법&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IWHhsSmwtZ3BKbVVvVlZlX1pvRnN6VmRoR2NZLTdaX2ZnQWZtR0x6ZnVOcVJzd19wMnVWTmE2UnpmNG9SLVZUVEI1UUxVR3c1X2ZjNk4zMmY4QmhGVXh3T1JQZE52YzRhaEhHbE5HNnZwTXdOYWJFZ2hkTU9vdW8?oc=5"
         }
       ]
     },
@@ -242,6 +254,18 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDlrYmw1ak5YWnlkVWZnM0oxZE5iUGs5YXctUFU1TXB0eVVLeXRJZ25CZ2R4dmxnVFJ1Ymgzelp6YkI4MUpMR0tfZWlVTllLYUh1U3FaOEZyeFBXX1p5V3hQazJBc0psWW9qYlN1VmZJSENqV2o4QjVkU0RNV1cyZi1pNGx0WFdXUEZaWmR5Vkx4UFRFQ1lmeno0c1Q?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a9cd50394135",
+      "title": "발목 아파서 병원 실려갔는데, 뇌암? 40대 여성에게 일어난 일 - 헬스조선",
+      "published": "2026-08-22T04:03:00+00:00",
+      "summary": "발목 아파서 병원 실려갔는데, 뇌암? 40대 여성에게 일어난 일&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zT2Y5cHd6MGt4X3pBT2dvbkpyNjM2dUxfUFBuYWVVS0hEVnMyekZZVjdaTFFjLWROZFo0eGRCZl9Lck9sZFNpMmtuNFpremlFZE51VURmcXBvU3F6QWNSUmpSN19iOS1sX2YyX3pnSnZrZXVDRjZXM1BETU5nTFU?oc=5"
         }
       ]
     },
@@ -294,18 +318,6 @@
       ]
     },
     {
-      "id": "5857b158c818",
-      "title": "3분 전력 질주 vs 90분 중강도…몸속 반응 이렇게 달랐다 - 농민신문",
-      "published": "2026-08-21T20:00:00+00:00",
-      "summary": "3분 전력 질주 vs 90분 중강도…몸속 반응 이렇게 달랐다&nbsp;&nbsp;농민신문“90분 조깅보다 강력한 효과”… ‘단 3분’으로 혈액 깨끗하게 하는 법&nbsp;&nbsp;헬스조선\"30초씩 6번, '이렇게' 운동하세요\"…90분 운동보다 더 낫다고?&nbsp;&nbsp;네이트[건강포커스] \"3분간 전력 질주, 90분 중강도 운동보다 혈액 단백질 변화 커\"&nbsp;&nbsp;연합뉴스30초 전력질주가 몸을 바꾼다? 중강도 운동보다 크게 움직인 단백질&nbsp;&nbsp;디지털투데이",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xVU1sdnhQV2hSUEFwY3dsNVNlbmYxblN5X2pmM0FjbHhDRjA3NERtSjBEeFhQMFN3RnFVWm55eHBzbXFIRDJVVnB6YXNDS2RJYzk1UDh6dmRvUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9e0e7f4bc254",
       "title": "예일대 의대, 미국 최초 ‘한인 전문 위암 클리닉’ 연다 - 애틀랜타 중앙일보",
       "published": "2026-08-21T18:14:28+00:00",
@@ -321,47 +333,11 @@
       "id": "d3af3939ae86",
       "title": "웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역 - RadioKorea",
       "published": "2026-08-21T17:34:00+00:00",
-      "summary": "웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역&nbsp;&nbsp;RadioKoreaLA 카운티, 올해 첫 웨스트나일 바이러스 감염자 사망&nbsp;&nbsp;RadioKorea웨스트나일 감염자 발생에 비상… 샌가브리엘 밸리 모기 방역&nbsp;&nbsp;RadioKorea",
+      "summary": "웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역&nbsp;&nbsp;RadioKoreaLA 카운티, 올해 첫 웨스트나일 바이러스 감염자 사망&nbsp;&nbsp;RadioKorea",
       "sources": [
         {
           "name": "RadioKorea",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02LU1UM3FlVkF3T3pIbjkzM29oQWd1eEoxbk5neXhZaE83M1RYLS10VWUxTVVpWjVJSE83ZTRnRGtBT0Vtbk5lTm93NjJJTTBwMlFlNE8tY3I3MkNDYVJRbnRZQ3lMNlkyWW1ZNXlrcnBpeDBhbVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "02da5f22af70",
-      "title": "췌장암 4기 진단 받고 “운 좋았다”는 50대 남성… 왜? - 헬스조선",
-      "published": "2026-08-21T13:00:00+00:00",
-      "summary": "췌장암 4기 진단 받고 “운 좋았다”는 50대 남성… 왜?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FR0FpLWEyWThhTWRGNzlFV1dZWDRLdFNSUTlQOTg0X2RicmNnYWd2MGhaTVhBbU5uQmdUa3E3aS1sNUZmbEF3Q2xXbURJODBHbi1JZlgzc2NNSFZhb2RQY3ltUkRYQlJHUm5fLUpDalV2ajAzSTV1WWVzamEzXzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4de80cd299dd",
-      "title": "'명의' 신혜원·윤정한 교수의 파킨슨 증후군 치료법 - bntnews.co.kr",
-      "published": "2026-08-21T12:57:05+00:00",
-      "summary": "'명의' 신혜원·윤정한 교수의 파킨슨 증후군 치료법&nbsp;&nbsp;bntnews.co.kr\"몸 느려지고 손 떨리는데…\" 파킨슨병보다 위험한 '이 질환'일 수도 [명의]&nbsp;&nbsp;v.daum.net'명의' 신혜원·윤정한 교수가 알려주는 파킨슨증후군&nbsp;&nbsp;네이트떨어지는 약효 잡는 파킨슨 치료법&nbsp;&nbsp;뉴스버즈[명의] 다약제 복용이 파킨슨을 유발한다?&nbsp;&nbsp;Queen 이코노미퀸",
-      "sources": [
-        {
-          "name": "bntnews.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MZmJnUmItZEtUUmJRMTROZ2tkX2EwOGY2TS1MelFTbzAzUmcwcG9KMEN0UExiRWtISHNyaHJqUWR6SmJsams0SWVOaTMtei1GZ19EWnVuZVpheF9HNlkza1cwbms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f964f82f06db",
-      "title": "올릭스, 중국 한소제약과 두 번째 RNAi 계약∙∙∙\"염기서열 단위 쪼개기 전략\" - 바이오북미디어",
-      "published": "2026-08-21T06:33:57+00:00",
-      "summary": "올릭스, 중국 한소제약과 두 번째 RNAi 계약∙∙∙\"염기서열 단위 쪼개기 전략\"&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hRTVpcktjVnFkb2hhRmVrTWRqOFVZSWYyZE9QZzFWVnJoN3dZbUdyeEtUMXJDaXItamtSamVfNlgydC03bHN0cmNIRFZkRjNLTGYxTg?oc=5"
         }
       ]
     },
