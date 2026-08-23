@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-22T18:33:46.845908+00:00",
+  "fetched_at": "2026-08-23T01:34:44.096441+00:00",
   "total_fetched": 72,
-  "unique_count": 71,
-  "health_related_count": 34,
+  "unique_count": 72,
+  "health_related_count": 39,
   "news": [
+    {
+      "id": "1dd64b0562e5",
+      "title": "임신 17주 배 속에 12㎏ 자궁근종…임신 중 수술 괜찮을까? - 네이트",
+      "published": "2026-08-22T20:18:08+00:00",
+      "summary": "임신 17주 배 속에 12㎏ 자궁근종…임신 중 수술 괜찮을까?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2US1YN0xmZkFMN3JKZTFtdFhBSG50TDFHZnpRLTUyNHdxS3BiU2V0SHhxQlpsTzFFUmplNG5Nc2RzMmF5YldadE01dFNyUXlieFZOR3Fn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "149aeb58e9c3",
+      "title": "“콜레스테롤 무서워 노른자 뺐는데”…달걀 주 1개 먹었더니 치매 위험 47% ‘뚝’ - 세계일보",
+      "published": "2026-08-22T20:00:00+00:00",
+      "summary": "“콜레스테롤 무서워 노른자 뺐는데”…달걀 주 1개 먹었더니 치매 위험 47% ‘뚝’&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNzZmMDZOd3ZTcURfTTdBTHdvb1dnNk53Wk01YTRpNWV4MlNJcmhmclZPdGlMT2ROMWk3azVLWUxLSjk1cFBybl9IQzFLTEVaeVZqM1l1UWs?oc=5"
+        }
+      ]
+    },
     {
       "id": "e91152547da5",
       "title": "북마케도니아, 웨스트나일 바이러스로 5번째 사망자 발생 - gukjenews.com",
@@ -14,6 +38,18 @@
         {
           "name": "gukjenews.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45ZUJnYUJQYm52dG5SSzlQaEFWcDloSWNuTVc1R0JqRWhwT25WVmhVV1A5YWVRT1NuVUN1a2JHMU9ndWQtU3hfOU43OGctQXY0bEo1V0toZENwem1rZE9vSDdnaXMtSElab2QwSzB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ccf5e36e1826",
+      "title": "[ESG칼럼]비아그라가 암 전이를 막는다?… ESG 보건의료의 새로운 질문:장애인인식개선신문 - 장애인인식개선신문",
+      "published": "2026-08-22T14:06:55+00:00",
+      "summary": "[ESG칼럼]비아그라가 암 전이를 막는다?… ESG 보건의료의 새로운 질문:장애인인식개선신문&nbsp;&nbsp;장애인인식개선신문",
+      "sources": [
+        {
+          "name": "장애인인식개선신문",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOGpUVGUwNjg1NktOZEZzTjRSaGlmS3R3RmhaZ2FhYUg1RnlOU2Q5ZEtXazVUZDdONnlPUnhKd2FTR1nSAV9BVV95cUxNQ1ZPbklRTHlKbWhKR01aVGZPVmtlN21TeS1FU2RRdWZoeWg0Z3lzUzk4ZnVEQTVOY1ZkNVYwVzFwQ0QtR2VSNWNneE9YdktwRlBVUXQxUnNycXNsQjBzTQ?oc=5"
         }
       ]
     },
@@ -42,10 +78,22 @@
       ]
     },
     {
+      "id": "57b482df736b",
+      "title": "미국 스탠퍼드대, 11일 만에 림프종 종양 제거 분자 개발 - 바이오북미디어",
+      "published": "2026-08-22T08:14:00+00:00",
+      "summary": "미국 스탠퍼드대, 11일 만에 림프종 종양 제거 분자 개발&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50aFRqZVRMQ19wU0RQZDBnME1wemh5dS11SElvRnFsY3h5MU1NZ2JHaUFHeGY2eHA4WVYzRnV5QV92Tk5hMDRLdnREUFNDSEdMTDgtVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7098c190062f",
       "title": "[포토뉴스] 비침습적 뇌자극 치료효과, 임상시험 설계부터 달라야 - 헬스경향",
       "published": "2026-08-22T07:09:26+00:00",
-      "summary": "[포토뉴스] 비침습적 뇌자극 치료효과, 임상시험 설계부터 달라야&nbsp;&nbsp;헬스경향뇌 자극하는 ‘비침습 신경조절치료’…어디까지 왔나&nbsp;&nbsp;헬스경향의사 로봇이 집으로 온다 : 재활에서 케어봇으로, 푸리에(Fourier)의 역습 [전병서의 中 첨단기업 리포트⑭]&nbsp;&nbsp;한국금융신문로봇 재활, 뇌졸중 환자 신경가소성 회복의 게임체인저&nbsp;&nbsp;글로벌이코노믹[포토뉴스] 전기자극으로 뇌신경조절…관건은 ‘개인 맞춤’&nbsp;&nbsp;헬스경향",
+      "summary": "[포토뉴스] 비침습적 뇌자극 치료효과, 임상시험 설계부터 달라야&nbsp;&nbsp;헬스경향뇌 자극하는 ‘비침습 신경조절치료’…어디까지 왔나&nbsp;&nbsp;헬스경향[포토뉴스] 전기자극으로 뇌신경조절…관건은 ‘개인 맞춤’&nbsp;&nbsp;헬스경향비침습적 뇌자극 더 정밀하게…AI·로봇 결합한 TMS기술 ‘눈길’&nbsp;&nbsp;헬스경향[포토뉴스] 뇌 신호 읽고 필요한 만큼만 자극…진화하는 ‘파킨슨병 치료’&nbsp;&nbsp;헬스경향",
       "sources": [
         {
           "name": "헬스경향",
@@ -81,7 +129,7 @@
       "id": "8c5b940afc9c",
       "title": "[칼럼] [거버넌스 인사이트 23] 김규리 박사의 혼자 사는 마음, 색으로 돌보다 - gukjenews.com",
       "published": "2026-08-22T02:12:12+00:00",
-      "summary": "[칼럼] [거버넌스 인사이트 23] 김규리 박사의 혼자 사는 마음, 색으로 돌보다&nbsp;&nbsp;gukjenews.com혼자의 값 6 — 노년의 고립&nbsp;&nbsp;브런치건강 뉴스 업데이트 8월 20일: 나이가 들수록 더 외로워지나요? | 운명적인 사랑을 믿어야 할까요?&nbsp;&nbsp;Vietnam.vn혼자 사는 중년, 지금 당장 점검해야 할 것&nbsp;&nbsp;v.daum.net",
+      "summary": "[칼럼] [거버넌스 인사이트 23] 김규리 박사의 혼자 사는 마음, 색으로 돌보다&nbsp;&nbsp;gukjenews.com이럴 수가, 돈 문제만 아니었다…'고소득 1인 가구'가 고립되기 더 쉬운 예상 밖 이유&nbsp;&nbsp;위키트리혼자의 값 6 — 노년의 고립&nbsp;&nbsp;브런치건강 뉴스 업데이트 8월 20일: 나이가 들수록 더 외로워지나요? | 운명적인 사랑을 믿어야 할까요?&nbsp;&nbsp;Vietnam.vn혼자 사는 중년, 지금 당장 점검해야 할 것&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "gukjenews.com",
@@ -90,14 +138,26 @@
       ]
     },
     {
-      "id": "e55314f8863b",
+      "id": "65d00fe36400",
       "title": "숨이 차고 다리가 부어 나이 탓 했는데 심부전이라고? - 메드월드뉴스",
       "published": "2026-08-22T00:51:12+00:00",
-      "summary": "숨이 차고 다리가 부어 나이 탓 했는데 심부전이라고?&nbsp;&nbsp;메드월드뉴스“숨참·피로·부종이 시그널…나이 탓 오해 말고 심부전 의심해야”&nbsp;&nbsp;서울경제숨이 차고 다리가 붓는다...나이 탓인 줄 알았는데 심부전?&nbsp;&nbsp;로이슈[의학칼럼] 숨 차야 알 수 있는 심부전? 증상 전 살펴야 할 것은&nbsp;&nbsp;헬스조선단순 노화나 피로 탓인가? 숨 차고 다리 붓는다면 '심부전' 의심&nbsp;&nbsp;헬스미디어뉴스",
+      "summary": "숨이 차고 다리가 부어 나이 탓 했는데 심부전이라고?&nbsp;&nbsp;메드월드뉴스“숨참·피로·부종이 시그널…나이 탓 오해 말고 심부전 의심해야”&nbsp;&nbsp;서울경제\"암보다 낮은 생존률\"…이 증상 무시했다간 큰일 난다는데 [이지현의 생생헬스]&nbsp;&nbsp;한국경제숨이 차고 다리가 붓는다...나이 탓인 줄 알았는데 심부전?&nbsp;&nbsp;로이슈[의학칼럼] 숨 차야 알 수 있는 심부전? 증상 전 살펴야 할 것은&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0aG1fLW5YNWgxemcxT0RzRW9jSTZHZ2RiQ1dmcHg4Q3E0R1QtTmx2UEdjTVBKRVdBRC13ZC1UWFdEcE5PeVpOSjZ3UVdRWWc3alRqcTB3aWRrd3FwdXdRX3NxTEpUVHdkN3BWTm9R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KR1Y1MG1DVk5TSldZeVNzUGtib0dSZWhGdlBfaTllS2xvMzQ3QUFheW5IU1RKdXdGOEpVLW91S3QycFlzMVhVTU1yQjVadi1MWi1XczV6ZVlrWE1SMi1KeTJfSjlfTVhOdXFadg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "461278a8f347",
+      "title": "치아 건강이 인지기능에도 영향…치매 환자 구강관리 중요 [e건강~쏙] - 이투데이",
+      "published": "2026-08-21T23:57:00+00:00",
+      "summary": "치아 건강이 인지기능에도 영향…치매 환자 구강관리 중요 [e건강~쏙]&nbsp;&nbsp;이투데이\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적&nbsp;&nbsp;코리아헬스로그진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;디멘시아뉴스“치료는 나중에?” 치매 환자에게 구강관리가 ‘시작’인 이유!&nbsp;&nbsp;dentalkoo.com",
+      "sources": [
+        {
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZOXNlazRkMFJpVTlsTm1yRndodVQ2bFJVUFRoNGpEdHZycUM0cFhSelpVbVE1OUUyajNsR1JKNV81SGl0dGVSal82V2hvZE1EaERpRA?oc=5"
         }
       ]
     },
@@ -122,18 +182,6 @@
         {
           "name": "뉴스투데이",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tcnFBejVwM19HX2M5Y0U0dzBZcnU1YXczaXQ0TWg4NDBncUhyd2RLVmlFR3Bhc1VhZndod19yUVRkQkJnTExjT0tFMTVhWmEyRHFFSUdWeURPVkNyUnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c979c806ca4",
-      "title": "‘한 알’ 먹으면 치매 위험 뚝 떨어진다… 흔한 음식이던데, 뭐지? - 헬스조선",
-      "published": "2026-08-21T20:01:00+00:00",
-      "summary": "‘한 알’ 먹으면 치매 위험 뚝 떨어진다… 흔한 음식이던데, 뭐지?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VeXBmTUhhZW1SRUdOSWdKY2ZjRHVvbl81NkJ2NjJyTVBMb3JHUXotLWZjOEFaQzVEaUl4Tzd2dzBGQjJyNDVvOHNMV1pJV01yTktoeVBZR0FxdDdraUg5ejJMZnhMazR3WlZwak5wUEtrT2poblBSR0ZCRUI1Zms?oc=5"
         }
       ]
     },
@@ -198,6 +246,18 @@
       ]
     },
     {
+      "id": "037a136a7851",
+      "title": "골흡수·형성 동시에 조절하는 ‘분자스위치’ 발견: 네딜화, 골다공증 치료의 새로운 표적 제시 - 보도자료 - 뉴스 - 서울대 소식 - 서울대학교",
+      "published": "2026-08-21T10:20:58+00:00",
+      "summary": "골흡수·형성 동시에 조절하는 ‘분자스위치’ 발견: 네딜화, 골다공증 치료의 새로운 표적 제시 - 보도자료 - 뉴스 - 서울대 소식&nbsp;&nbsp;서울대학교",
+      "sources": [
+        {
+          "name": "서울대학교",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPZDM5S0VTWDRrU3RmVW10djlBR09VTDFFd3czak9HQ0xqMmlQT0liS1lCbkJOd1VrcTd0NkI3WUtaLXJyeGJ6ZVNYemFkV2lZLUJOc1JoYUtJMnRoV0FaS2swUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1a32a164e27e",
       "title": "영양제부터 콜레스테롤까지…건강 상식의 대반전 - MTN 머니투데이방송",
       "published": "2026-08-21T10:02:01+00:00",
@@ -206,6 +266,18 @@
         {
           "name": "MTN 머니투데이방송",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ta0NHdWtQY2l4R2l3aFQ0dWRhRHpaMmVjN1ppckJPNWxzWkMtR3RUVjlmTjZfMUV5YkFzNjk2TnpyQjNXSklreGxKVGthLUlmUUNIWUFTME9aR0xncWVtVG9rTk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a64d1f11f75",
+      "title": "식이섬유 먹으면 장이 ‘기억’한다…염증 막는 면역기전 발견 - 헬스케어N",
+      "published": "2026-08-21T09:34:07+00:00",
+      "summary": "식이섬유 먹으면 장이 ‘기억’한다…염증 막는 면역기전 발견&nbsp;&nbsp;헬스케어N",
+      "sources": [
+        {
+          "name": "헬스케어N",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZVHFxXzR0YVpCLTFjSWJBZUpPSUlGSTAwRHk1WVh4eXNlb0R6LTd3SEFtNERLbFhUWjdjdEFZTG13dmhFZmZxNUFnZmVCcnlMMWgyZmhkWUF3dEFHeEVxSWFiSUw4NlpDWnQwNElHdVdVaGo3?oc=5"
         }
       ]
     },
@@ -222,18 +294,6 @@
       ]
     },
     {
-      "id": "9b190b8d0331",
-      "title": "식이섬유 부족하면 장내 세균이 장 갉아먹는다... “채소·통곡물로 보충해야” - 하이닥",
-      "published": "2026-08-21T07:00:00+00:00",
-      "summary": "식이섬유 부족하면 장내 세균이 장 갉아먹는다... “채소·통곡물로 보충해야”&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xMXhqVVMwS1g4X3lTMGR0RzRTdXRGNVVzLXVKc3dtZVlBc3JJaHQ3TXppdTMxR0RMT2tSY0N5dENydmhPTk5maTUzUF9LUWNFeDN3MldZSEtHTUdyZm9CTGQwdjBxZjhnS0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f964f82f06db",
       "title": "올릭스, 중국 한소제약과 두 번째 RNAi 계약∙∙∙\"염기서열 단위 쪼개기 전략\" - 바이오북미디어",
       "published": "2026-08-21T06:33:57+00:00",
@@ -242,6 +302,18 @@
         {
           "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hRTVpcktjVnFkb2hhRmVrTWRqOFVZSWYyZE9QZzFWVnJoN3dZbUdyeEtUMXJDaXItamtSamVfNlgydC03bHN0cmNIRFZkRjNLTGYxTg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c4ced14d0e2",
+      "title": "동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나 - 전자신문",
+      "published": "2026-08-21T05:44:49+00:00",
+      "summary": "동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나&nbsp;&nbsp;전자신문동물 쓰다듬은 3세 아이, 영구적 뇌 손상…체험농장서 무슨 일이&nbsp;&nbsp;동아일보\"동물 만졌을 뿐인데\"…호주 3세 아이, 영구적 뇌 손상&nbsp;&nbsp;뉴시스“동물 체험 갔을 뿐인데” 어린이 영구 뇌손상…아이들 덮친 ‘이 균’의 정체&nbsp;&nbsp;서울경제동물원 다녀온 후, ‘영구적 뇌·신장 손상’… 세 살 아이에게 무슨 일이?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zb3FOamYwaC1Mc3BqVEs5S24zSFVSNWp1aW54dkFPTDRlQUwxdTE5UWpGNy1hWjQ0bm5LSXJBZGlqdTFfSExZR1l2cUNUUQ?oc=5"
         }
       ]
     },
@@ -258,22 +330,10 @@
       ]
     },
     {
-      "id": "b5840bfdbfa5",
-      "title": "치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적 - 코리아헬스로그",
-      "published": "2026-08-21T05:41:49+00:00",
-      "summary": "치매 환자, 구강 관리·치료 중요…인지기능 저하 늦추는데 효과적&nbsp;&nbsp;코리아헬스로그치아 건강이 인지기능에도 영향…치매 환자 구강관리 중요 [e건강~쏙]&nbsp;&nbsp;이투데이\"양치질이 뇌를 지킨다\"… 치주질환, 치매 위험인자로 확인 [헬스톡]&nbsp;&nbsp;v.daum.net진료실서 ‘운동 처방전’ 건네는 치과의사...이정태 교수의 ‘뇌 건강과 구강 관리’&nbsp;&nbsp;디멘시아뉴스“치료는 나중에?” 치매 환자에게 구강관리가 ‘시작’인 이유!&nbsp;&nbsp;dentalkoo.com",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00LXc4c1JEd3hNeF9CSV9wYm5IZ1ItUGNqaFZGOTYyQldoQUpyVnM0U05GYVdvaUFoTGhBQ3FEdkUtS21NVmNpUmpWQjZhc21DYnFjYnJWUTFuM2lieEtYSFB1UW1wc2VIRi05LWFKUkFMd9IBdkFVX3lxTFBoUkw3QjNJME5IQUlIRmctbUNpd2p0clhZV3NYc1o5Z2p1NHhic2psZWdiUTRkblFrZDM4dW9PcEp3dUtLRTlNcVFsZnU5RGlzY3NwNXE4cEYwNk5ObmZWYUREekZzVWRMYmR3a1N6MGo1MjRuUnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "01a7b296fda0",
       "title": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계] - 동아일보",
       "published": "2026-08-21T05:10:00+00:00",
-      "summary": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴매일 마시는 단 음료, 위암 위험 최대 3배 높인다&nbsp;&nbsp;프리진경제“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선",
+      "summary": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;지디넷코리아매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴매일 마시는 단 음료, 위암 위험 최대 3배 높인다&nbsp;&nbsp;프리진경제“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "동아일보",
@@ -297,7 +357,7 @@
       "id": "e41993230810",
       "title": "복부비만, 단순 외모 문제 아닌 질병 경보 - 유스연합",
       "published": "2026-08-21T02:58:38+00:00",
-      "summary": "복부비만, 단순 외모 문제 아닌 질병 경보&nbsp;&nbsp;유스연합\"BMI 정상이어도 안심 금물\"…'뱃살' 많으면 심혈관질환 위험 - 머니투데이&nbsp;&nbsp;머니투데이심근경색 후 '비만 패러독스' 깨졌다&nbsp;&nbsp;메디칼트리뷴\"BMI는 정상인데\"…정상 체중이어도 뱃살 많으면 심혈관질환 위험↑&nbsp;&nbsp;뉴시스BMI 정상이어도, ‘허리둘레 굵으면’ 심혈관질환 안심 못 해&nbsp;&nbsp;헬스조선",
+      "summary": "복부비만, 단순 외모 문제 아닌 질병 경보&nbsp;&nbsp;유스연합“뱃살에 비타민D까지 부족하면”…50세 이후 사망 위험 123%↑[노화설계]&nbsp;&nbsp;동아일보심근경색 후 '비만 패러독스' 깨졌다&nbsp;&nbsp;메디칼트리뷴BMI 정상이어도, ‘허리둘레 굵으면’ 심혈관질환 안심 못 해&nbsp;&nbsp;헬스조선“뱃살 출렁인데 ‘이 영양소’ 부족하면”…50세 이후 사망 위험 확 높아져&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
           "name": "유스연합",
@@ -333,11 +393,23 @@
       "id": "2240c2fdf6ab",
       "title": "HPV백신을 접종하지 않으면 입학에 영향주는가? 관련 책임자 답변--국내뉴스 - 인민넷",
       "published": "2026-08-21T01:33:00+00:00",
-      "summary": "HPV백신을 접종하지 않으면 입학에 영향주는가? 관련 책임자 답변--국내뉴스&nbsp;&nbsp;인민넷12세 남아 HPV 무료접종 10%대...\"어릴 때 맞으면 이득\"&nbsp;&nbsp;YTN 사이언스남학생도 HPV 감염된다…서귀포 동부보건소 무료 접종 당부&nbsp;&nbsp;gukjenews.com서귀포시 동부보건소, 12세 남성 청소년 HPV 무료 접종 받으세요&nbsp;&nbsp;newszoom.kr서귀포시 동부보건소, 12세 남성 청소년 HPV 무료 예방접종 확대 안내&nbsp;&nbsp;livejeju.co.kr",
+      "summary": "HPV백신을 접종하지 않으면 입학에 영향주는가? 관련 책임자 답변--국내뉴스&nbsp;&nbsp;인민넷12세 남아 HPV 무료접종 10%대...\"어릴 때 맞으면 이득\"&nbsp;&nbsp;YTN 사이언스서귀포시 동부보건소, 12세 남성 청소년 HPV 무료 예방접종 확대 안내&nbsp;&nbsp;livejeju.co.kr남학생도 HPV 감염된다…서귀포 동부보건소 무료 접종 당부&nbsp;&nbsp;gukjenews.com12세 남성 청소년, HPV 무료 접종 받으세요&nbsp;&nbsp;지금제주",
       "sources": [
         {
           "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9taGZoaTMzd1JHR2ZtN1RjRUg5QXlaS3d0RTBaRUF0a0ZrOVNIeWtIemIyVjV0QW9JaWZIX0UyNUpUV3FaTGw5YzFvNGFWMnNDUXBaX0JTMEFWWmJuSW10QVltNnNYZThjTjF0QlhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3703c90a6454",
+      "title": "\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다 - 지디넷코리아",
+      "published": "2026-08-21T00:58:50+00:00",
+      "summary": "\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKX1R1aVRTN3RmSlJZTHM2ZUVTRlRMaW9LeldnZUtuNmxjaWJSS01tVmh1OUJ5aWlLNmVheUJ4aVNRLXduaEQ0Ykx4WFBsZWRpWjRkLVl3?oc=5"
         }
       ]
     },
@@ -354,38 +426,26 @@
       ]
     },
     {
-      "id": "13c3935db5de",
-      "title": "고령층 덮치는 결핵…80세 이상 잠복결핵 치료는 12.6% - edaily.co.kr",
-      "published": "2026-08-20T21:00:04+00:00",
-      "summary": "고령층 덮치는 결핵…80세 이상 잠복결핵 치료는 12.6%&nbsp;&nbsp;edaily.co.kr",
-      "sources": [
-        {
-          "name": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcWJFWjRkQ19WWDhvcFpvS05rSkd4QnhYcWxFOEtRT1JtUFpuTnZiNHd6ZUJFd0NwWFZuUk1oYnpNYmFleXRMZE1sWUhRNHBRZTFoMmZJVGg0eFVOakJKVlFvaGhVWjVGWXBneGhWSnNoczcwQmhsWkpWUlRXZzZrVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "628d983d4b3f",
-      "title": "내시경 대신 가글?…입 속 미생물로 위암·대장암 선별 - 동아사이언스",
-      "published": "2026-08-20T19:00:00+00:00",
-      "summary": "내시경 대신 가글?…입 속 미생물로 위암·대장암 선별&nbsp;&nbsp;동아사이언스",
+      "id": "ae0a50020abc",
+      "title": "K-핵잠수함, 더 강력해질까…위성없이 길 찾는 '중력지도' 개발 박차 - 동아사이언스",
+      "published": "2026-08-20T22:00:00+00:00",
+      "summary": "K-핵잠수함, 더 강력해질까…위성없이 길 찾는 '중력지도' 개발 박차&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
           "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZY1Nud1ZtMzVhcWVab0g5cFh5UTFDRVFlOTljeFNxVkp4ODN5Z3Y0bE0wcThmNWZCc3hHU2pkaGQyeTNiZ1l6aWstWlg2N1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WX3BBRU1xMWlvbTF4MkczaGJGeDB5eVVubmt6d2o3QllFNm1tTHVQVjFSY0ZnNnc2QWUtTkYtajNyTC1yeFRoeUFodWNoQV9xLWY0Qw?oc=5"
         }
       ]
     },
     {
-      "id": "4c3c2671e613",
-      "title": "“아, 간지러워”…모기 물린 곳에 ‘십자 표시’ 정말 효과 있을까? - 농민신문",
-      "published": "2026-08-20T19:00:00+00:00",
-      "summary": "“아, 간지러워”…모기 물린 곳에 ‘십자 표시’ 정말 효과 있을까?&nbsp;&nbsp;농민신문",
+      "id": "2f853b11ae0a",
+      "title": "빛의 속도 8%로 움직이는 별…우리은하서 가장 빠른 별 발견 - 동아사이언스",
+      "published": "2026-08-20T08:45:00+00:00",
+      "summary": "빛의 속도 8%로 움직이는 별…우리은하서 가장 빠른 별 발견&nbsp;&nbsp;동아사이언스",
       "sources": [
         {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uMkdwLUNMbUZGUFc0QTNNT2hwMjZyUE41Y3dVV3lNMVFucTVMbnBIb0gxTkFmSmJxVnBPbk8yQTIxbi1PMmVZR212aUIyektyeFVWR2k2dWxzZw?oc=5"
+          "name": "동아사이언스",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jWmJtaFdRMkVkcjhOa3ZKSmNTWkdjS2RyaHhCOEh5Z1NROWhQeEY5aWdMTU51SzZwMFk2WnRRNnBHVmI3V3I4QzdPMFBjeHhhU3ZUYg?oc=5"
         }
       ]
     },
@@ -402,14 +462,14 @@
       ]
     },
     {
-      "id": "c0c2e2ea8f9a",
-      "title": "인공위성만 보인다, ‘진짜 별’은 못 찾는다…“10만기 넘으면 천문학 연구 불가능” - 한겨레",
-      "published": "2026-08-20T00:30:00+00:00",
-      "summary": "인공위성만 보인다, ‘진짜 별’은 못 찾는다…“10만기 넘으면 천문학 연구 불가능”&nbsp;&nbsp;한겨레",
+      "id": "9f76e6a6df81",
+      "title": "KIST, 상온·상압 암모니아 생산 효율 극대화...국내 최고 효율 달성 - 전자신문",
+      "published": "2026-08-20T03:00:00+00:00",
+      "summary": "KIST, 상온·상압 암모니아 생산 효율 극대화...국내 최고 효율 달성&nbsp;&nbsp;전자신문",
       "sources": [
         {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05NlVSay1uS2J0UXBVUGgtRGZKTDBKOEpmMWt3cDI0d2FVRktJWVFtNXNueGZPQkFfMkdsaDdUXzlMeTNsc1RHR2NpczczZEUxaEtRY0VNZDh6QTV0ZC12TExkT2lTVURmejgxTldVNnhjZw?oc=5"
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54TEs2VWt2dUpvcG1OYU1kbjBSbkQ0SlZNemtySndZbzFUR3NlLV9OVzVCdHQ5NVQycmsyT3FRaTBEQlRMQ3dZLTg4YXBEZw?oc=5"
         }
       ]
     }
