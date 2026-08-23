@@ -1,31 +1,67 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-23T01:34:44.096441+00:00",
-  "total_fetched": 72,
-  "unique_count": 72,
-  "health_related_count": 39,
+  "fetched_at": "2026-08-23T06:44:45.856146+00:00",
+  "total_fetched": 59,
+  "unique_count": 59,
+  "health_related_count": 33,
   "news": [
     {
-      "id": "1dd64b0562e5",
-      "title": "임신 17주 배 속에 12㎏ 자궁근종…임신 중 수술 괜찮을까? - 네이트",
-      "published": "2026-08-22T20:18:08+00:00",
-      "summary": "임신 17주 배 속에 12㎏ 자궁근종…임신 중 수술 괜찮을까?&nbsp;&nbsp;네이트",
+      "id": "2759edc8aba0",
+      "title": "매일 챙겨먹는 ‘이 비타민’…기억력 떨어지는 사람에 뜻밖의 효과? - 매일경제",
+      "published": "2026-08-23T06:18:46+00:00",
+      "summary": "매일 챙겨먹는 ‘이 비타민’…기억력 떨어지는 사람에 뜻밖의 효과?&nbsp;&nbsp;매일경제",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2US1YN0xmZkFMN3JKZTFtdFhBSG50TDFHZnpRLTUyNHdxS3BiU2V0SHhxQlpsTzFFUmplNG5Nc2RzMmF5YldadE01dFNyUXlieFZOR3Fn?oc=5"
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nM19HNDBiQV9pOElxSEhmYURHSkRCNGwwWVVMOThBTXYxaGltRWVsN2d6dGZ1VGFrSGpFcUNwNVY0ZEQzTFJpaVZZdUFCQQ?oc=5"
         }
       ]
     },
     {
-      "id": "149aeb58e9c3",
+      "id": "3122fa67eb76",
+      "title": "너무 흔하게 겪어서 놓치기 쉬워… ‘난소암 의심 신호’ 꼭 숙지를 - 헬스조선",
+      "published": "2026-08-23T04:01:00+00:00",
+      "summary": "너무 흔하게 겪어서 놓치기 쉬워… ‘난소암 의심 신호’ 꼭 숙지를&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZXI0SFdyMUtwR0F0dHB5Sm81YzlHRG93eEM2UGRXZ3FvSzFsMm1ISldYYTB0MUxNYjVlbTZuT0taWW85RjVnSWZDajE1NGI3cVZXa3Z0OE0wN1p4Qlg2OUxXOXVJb0t3aXk0R3U5UWxaei1HZC1fUFNqc0l4Nzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1895a5df4f47",
+      "title": "임신 17주 배 속에 12㎏ 자궁근종… 임신 중 수술 괜찮을까? - 스포츠월드",
+      "published": "2026-08-22T20:17:47+00:00",
+      "summary": "임신 17주 배 속에 12㎏ 자궁근종… 임신 중 수술 괜찮을까?&nbsp;&nbsp;스포츠월드",
+      "sources": [
+        {
+          "name": "스포츠월드",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrQ0h1Z3pOWHFOb0dZQno5clJIQ0psRVdtYTNhUkZQMXRhanVvTllLSzNtajhZOVRuSHdXakNpdXNJdUxkZERRdURpMUp2Q3NDTVRKWi02eWN3dDdvWnZQUDVR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6bac20587499",
+      "title": "\"콜레스테롤 무서워 노른자 뺐는데\"…달걀 주 1개 먹었더니 치매 위험 47% '뚝' - 네이트",
+      "published": "2026-08-22T20:02:00+00:00",
+      "summary": "\"콜레스테롤 무서워 노른자 뺐는데\"…달걀 주 1개 먹었더니 치매 위험 47% '뚝'&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpOE4yMXo4eHQ5TWlOdl9pX3F4c0xVZzNpbkhWMWQ0cXNielBzWDZFeVdDOE1zMV9zLTAyOEpTTk5yR0I4NHVFZVlMalNMRVU4TTI4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f3366c1190a",
       "title": "“콜레스테롤 무서워 노른자 뺐는데”…달걀 주 1개 먹었더니 치매 위험 47% ‘뚝’ - 세계일보",
       "published": "2026-08-22T20:00:00+00:00",
       "summary": "“콜레스테롤 무서워 노른자 뺐는데”…달걀 주 1개 먹었더니 치매 위험 47% ‘뚝’&nbsp;&nbsp;세계일보Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNzZmMDZOd3ZTcURfTTdBTHdvb1dnNk53Wk01YTRpNWV4MlNJcmhmclZPdGlMT2ROMWk3azVLWUxLSjk1cFBybl9IQzFLTEVaeVZqM1l1UWs?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNzZmMDZOd3ZTcURfTTdBTHdvb1dnNk53Wk01YTRpNWV4MlNJcmhmclZPdGlMT2ROMWk3azVLWUxLSjk1cFBybl9IQzFLTEVaeVZqM1l1UWvSAVRBVV95cUxOeEUyNFNuQWRCWFZnYTVFcVpBcDdzeWNpaDB5S0Fxd0hsRzl2aFpSYzlRQlNyQV9yVjZyaTA3S0dmMVVEeHJMUVF1TE9xNS1Ublp6Ums?oc=5"
         }
       ]
     },
@@ -62,6 +98,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZdnJPaGl3SjVDNm9DME1ObzN3eGFVOVIyMUY1cjhYN1NMTHlYZVhLMWZYSkoxMFlVd29zYTFCTncwblNLRkt6YXhtRS1aX0hUc2RoSHpxcnNMUm43QVFsM0V6cy1hT0Z4dkJvWU5jVFRfeThDQ0lZLWRoeE5Eb2M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7e4863482c6",
+      "title": "의사, 혈당 급등을 유발하는 주스 해독의 오류 지적 - Laodong.vn",
+      "published": "2026-08-22T12:00:00+00:00",
+      "summary": "의사, 혈당 급등을 유발하는 주스 해독의 오류 지적&nbsp;&nbsp;Laodong.vn콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;지디넷코리아매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴매일 마시는 단 음료, 위암 위험 최대 3배 높인다&nbsp;&nbsp;프리진경제",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWnRfVWtEY25DQmxnMl9XVHJBdXNkVmFSVEV3cFlPT2JqRnl5LXZlQnAzbWI2S0ZMM014WnZMaGRkbVBBQlduZXNjbG1zVXVrTTMyRkxLWW54VURFZFVRaXpNczEtZHFYZ2VBb2N4R0tCT3hnS0RYUUFhQ0ZkVDh4Y0lCVGlEMGx2MVVQS3VxQm9rcHpBM3hURWVfSGxUa0hCLWRBZFEwX0VVWERzbWRLbE5IWQ?oc=5"
         }
       ]
     },
@@ -122,18 +170,6 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeDlrYmw1ak5YWnlkVWZnM0oxZE5iUGs5YXctUFU1TXB0eVVLeXRJZ25CZ2R4dmxnVFJ1Ymgzelp6YkI4MUpMR0tfZWlVTllLYUh1U3FaOEZyeFBXX1p5V3hQazJBc0psWW9qYlN1VmZJSENqV2o4QjVkU0RNV1cyZi1pNGx0WFdXUEZaWmR5Vkx4UFRFQ1lmeno0c1Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c5b940afc9c",
-      "title": "[칼럼] [거버넌스 인사이트 23] 김규리 박사의 혼자 사는 마음, 색으로 돌보다 - gukjenews.com",
-      "published": "2026-08-22T02:12:12+00:00",
-      "summary": "[칼럼] [거버넌스 인사이트 23] 김규리 박사의 혼자 사는 마음, 색으로 돌보다&nbsp;&nbsp;gukjenews.com이럴 수가, 돈 문제만 아니었다…'고소득 1인 가구'가 고립되기 더 쉬운 예상 밖 이유&nbsp;&nbsp;위키트리혼자의 값 6 — 노년의 고립&nbsp;&nbsp;브런치건강 뉴스 업데이트 8월 20일: 나이가 들수록 더 외로워지나요? | 운명적인 사랑을 믿어야 할까요?&nbsp;&nbsp;Vietnam.vn혼자 사는 중년, 지금 당장 점검해야 할 것&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "gukjenews.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kQzhybHpPOXkwQkU2N2tjQXR5ZGxOV3U3UDNvbkIxSEJKaWt2U2dOQ3lJb3hZMXRSNVo2T0MyT2h5WFJZZUt1cXBEeEFwMjRlZk9ELU9xNDEzVEx3em9VRXcwMlBQcGUzMTRXR3JB?oc=5"
         }
       ]
     },
@@ -234,6 +270,18 @@
       ]
     },
     {
+      "id": "4de80cd299dd",
+      "title": "'명의' 신혜원·윤정한 교수의 파킨슨 증후군 치료법 - bntnews.co.kr",
+      "published": "2026-08-21T12:57:05+00:00",
+      "summary": "'명의' 신혜원·윤정한 교수의 파킨슨 증후군 치료법&nbsp;&nbsp;bntnews.co.kr\"몸 느려지고 손 떨리는데…\" 파킨슨병보다 위험한 '이 질환'일 수도 [명의]&nbsp;&nbsp;v.daum.net'명의' 신혜원·윤정한 교수가 알려주는 파킨슨증후군&nbsp;&nbsp;네이트떨어지는 약효 잡는 파킨슨 치료법&nbsp;&nbsp;뉴스버즈[명의] 다약제 복용이 파킨슨을 유발한다?&nbsp;&nbsp;Queen 이코노미퀸",
+      "sources": [
+        {
+          "name": "bntnews.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MZmJnUmItZEtUUmJRMTROZ2tkX2EwOGY2TS1MelFTbzAzUmcwcG9KMEN0UExiRWtISHNyaHJqUWR6SmJsams0SWVOaTMtei1GZ19EWnVuZVpheF9HNlkza1cwbms?oc=5"
+        }
+      ]
+    },
+    {
       "id": "31b7dfabd191",
       "title": "치매 환자 자녀, ‘식단 중요성’ 공감하지만...실천은 절반도 안 돼 - 디멘시아뉴스",
       "published": "2026-08-21T11:10:01+00:00",
@@ -270,6 +318,18 @@
       ]
     },
     {
+      "id": "bdcef2fa1124",
+      "title": "비만치료제의 뜻밖의 반전…‘배고픔 뉴런’이 체중감량 돕는다 - 헬스코리아뉴스",
+      "published": "2026-08-21T09:53:23+00:00",
+      "summary": "비만치료제의 뜻밖의 반전…‘배고픔 뉴런’이 체중감량 돕는다&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZNjRvWE52V20wLWE1dkE0RGpFdXF5SGo3ei1aTHVXQ3JOLVcwNWl6c3dWbVNzck9IRGNxUkZVZGJFdzhxZTlKQlF4X1UwQk0wMjNEWVNIOUZibVBhSkpLM3R1VGZCam8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7a64d1f11f75",
       "title": "식이섬유 먹으면 장이 ‘기억’한다…염증 막는 면역기전 발견 - 헬스케어N",
       "published": "2026-08-21T09:34:07+00:00",
@@ -282,14 +342,14 @@
       ]
     },
     {
-      "id": "7d028e4e1e12",
-      "title": "“혈관벽에 상처 낸다” 심장 전문의 경고 나온 ‘최악의 음식’… 뭐야? - 헬스조선",
-      "published": "2026-08-21T07:30:00+00:00",
-      "summary": "“혈관벽에 상처 낸다” 심장 전문의 경고 나온 ‘최악의 음식’… 뭐야?&nbsp;&nbsp;헬스조선“심장 다 망가진다”… 의사는 절대 안 먹는다는 음식, 뭐야?&nbsp;&nbsp;헬스조선[영상] 한국인들 즐겨 먹는데 어쩌나…심장 전문의 “절대 안 먹는다”는 음식 [헬시타임]&nbsp;&nbsp;서울경제“노년기 위해, 50세부터는 반드시 끊어라”… 영양사 꼽은 ‘5가지 음식’은?&nbsp;&nbsp;헬스조선국물 맛내려 넣은 육수 알약, ‘안 짜네’ 안심했다간 신장 망가집니다&nbsp;&nbsp;뉴스와",
+      "id": "406897f8b290",
+      "title": "국물 맛내려 넣은 육수 알약, ‘안 짜네’ 안심했다간 신장 망가집니다 - 뉴스와",
+      "published": "2026-08-21T08:58:00+00:00",
+      "summary": "국물 맛내려 넣은 육수 알약, ‘안 짜네’ 안심했다간 신장 망가집니다&nbsp;&nbsp;뉴스와“심장 다 망가진다”… 의사는 절대 안 먹는다는 음식, 뭐야?&nbsp;&nbsp;헬스조선[영상] 한국인들 즐겨 먹는데 어쩌나…심장 전문의 “절대 안 먹는다”는 음식 [헬시타임]&nbsp;&nbsp;서울경제“노년기 위해, 50세부터는 반드시 끊어라”… 영양사 꼽은 ‘5가지 음식’은?&nbsp;&nbsp;헬스조선\"오래 살려면 냉장고에서 빼라\"…전문가가 조언한 '피해야 되는 음식' [헬시타임]&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01clpPRU8wWnJjU0lET0pPUHRUYUR1TDY4UXU2dTI5M2h2b1BwSXRGb1k3YnZWSTdHOURrQUVLS1Y3WG9ydG1ka2xFOE0xSjJ6cnlTVHRMSGg3d1ZrZmV0Qm1RYV96bV8wbmxPb2xjblJ5UXZlTTEzSHF2VVR1ZE0?oc=5"
+          "name": "뉴스와",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KQS1IMjhVMUFhNmd5ZXlabC1ZUXdOemdvTlNhM3F2bllsX0x2YVk4UmdRQVNmaFZQX1Z3S2FpdFNWR0llVHhtWUxnY29UMVZFdzJmSWI0dk1qT3JKZ2U4SC1jaWl3dGhrMk1xYy1hYnRuM1J2T0NSZA?oc=5"
         }
       ]
     },
@@ -306,18 +366,6 @@
       ]
     },
     {
-      "id": "6c4ced14d0e2",
-      "title": "동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나 - 전자신문",
-      "published": "2026-08-21T05:44:49+00:00",
-      "summary": "동물 쓰다듬은 아이, 영구적 뇌 손상에 신장 회복 불능…체험 농장서 무슨 일 있었나&nbsp;&nbsp;전자신문동물 쓰다듬은 3세 아이, 영구적 뇌 손상…체험농장서 무슨 일이&nbsp;&nbsp;동아일보\"동물 만졌을 뿐인데\"…호주 3세 아이, 영구적 뇌 손상&nbsp;&nbsp;뉴시스“동물 체험 갔을 뿐인데” 어린이 영구 뇌손상…아이들 덮친 ‘이 균’의 정체&nbsp;&nbsp;서울경제동물원 다녀온 후, ‘영구적 뇌·신장 손상’… 세 살 아이에게 무슨 일이?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zb3FOamYwaC1Mc3BqVEs5S24zSFVSNWp1aW54dkFPTDRlQUwxdTE5UWpGNy1hWjQ0bm5LSXJBZGlqdTFfSExZR1l2cUNUUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8b78a6db5e09",
       "title": "“빵, 쌀보다 위험하다”… 의사들이 경고한 ‘최악의 탄수화물’, 뭐야? - 코메디닷컴",
       "published": "2026-08-21T05:43:00+00:00",
@@ -326,42 +374,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5zNUR0SlFtN0w5QW1QdTJnSXQ2V1VYekd5b1NFSkQ4ekpxaGFIZUhjTFh1OHAtLW9uVm1LVkM0V1lrdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01a7b296fda0",
-      "title": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계] - 동아일보",
-      "published": "2026-08-21T05:10:00+00:00",
-      "summary": "콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;지디넷코리아매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴매일 마시는 단 음료, 위암 위험 최대 3배 높인다&nbsp;&nbsp;프리진경제“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xQXJ3NVFoSi12dU4zWm9ENXBJa2JadDRUNDhwZUpaUEUxTU1Yb2dzTVhpUDlqU2h4WUhSOWJFOFBmWDltV1RHQ3diX1ZBSGgzUlFLempxX2xKanpFeEMtN1NjUDhkWG05cTRDLVNPQdIBZkFVX3lxTE5aUkhJN0c4eUFxOWIxdGVuTkpCZm90ZVctdTJlTjVnbGhEZ01yZW5tYllpNGtEMDZoNllNcDFzc0xpQzdpbEVMSHIxdzgzMEE0MFB6dkU2Tmowd0RzMWthQ2g2eVphdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f06b7f19d57",
-      "title": "수술 중 우연히 발견된 MASLD 환자에서 Carnitine-Orotate Complex 투여를 통한 지방증과 섬유화 개선 결과 - 메디칼업저버",
-      "published": "2026-08-21T03:46:38+00:00",
-      "summary": "수술 중 우연히 발견된 MASLD 환자에서 Carnitine-Orotate Complex 투여를 통한 지방증과 섬유화 개선 결과&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rMmNwZHFNLWVpaTAzY3Y4VlBnazlVWWFqeVNXcnZQLXd3Y3pZSEUzUThmRlJZU3MwUU9Ld09hR2RDeEpObC1ESUxpZEFXeDNzbnlSN2tJaFNmaVRpbWEwUTcyUWt5QU9Oa25n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e41993230810",
-      "title": "복부비만, 단순 외모 문제 아닌 질병 경보 - 유스연합",
-      "published": "2026-08-21T02:58:38+00:00",
-      "summary": "복부비만, 단순 외모 문제 아닌 질병 경보&nbsp;&nbsp;유스연합“뱃살에 비타민D까지 부족하면”…50세 이후 사망 위험 123%↑[노화설계]&nbsp;&nbsp;동아일보심근경색 후 '비만 패러독스' 깨졌다&nbsp;&nbsp;메디칼트리뷴BMI 정상이어도, ‘허리둘레 굵으면’ 심혈관질환 안심 못 해&nbsp;&nbsp;헬스조선“뱃살 출렁인데 ‘이 영양소’ 부족하면”…50세 이후 사망 위험 확 높아져&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxaDAwdnFZeGZVa3luUGNZWHhpM1dCVVgwVFdKSzBCeVBvTlRjYzQtVFU0SDdTV19vVWptMVRRYmRxWmI2OEtfQTJ6cDNjZE5lNWc?oc=5"
         }
       ]
     },
@@ -378,42 +390,6 @@
       ]
     },
     {
-      "id": "19eab3bbcb55",
-      "title": "[한국인의 100가지 질환-87] 눈이 빨갛고 눈곱까지 낀다면… 여름철 ‘유행성 각결막염’ 주의 - 뉴스인",
-      "published": "2026-08-21T01:54:41+00:00",
-      "summary": "[한국인의 100가지 질환-87] 눈이 빨갛고 눈곱까지 낀다면… 여름철 ‘유행성 각결막염’ 주의&nbsp;&nbsp;뉴스인[Health Recipe] 여름철 눈 건강 사수하기…외부 요소에 취약성 높아져&nbsp;&nbsp;매일경제(81) 여름 지나도 안심 금물…잠복기 일주일 ‘유행성 각결막염’&nbsp;&nbsp;농민신문단순히 눈 마르는 줄 알았는데… 안구건조증 방치하다 '각막염·결막염' 부른다 [김희영 실장 칼럼]&nbsp;&nbsp;미디어파인",
-      "sources": [
-        {
-          "name": "뉴스인",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tM3RHSjFmUDdVUkRNb3RqSVF3ZUdhbUpFdEhldEJhSk1KbEVIeUpwTXhUbkNtRGFBdHJqMUtyMEdKaHZsVFlQOUpMRUk4RmlzaERfRDRoM2pLWmZMaXhGWm5kZUlUZUtzSEVN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2240c2fdf6ab",
-      "title": "HPV백신을 접종하지 않으면 입학에 영향주는가? 관련 책임자 답변--국내뉴스 - 인민넷",
-      "published": "2026-08-21T01:33:00+00:00",
-      "summary": "HPV백신을 접종하지 않으면 입학에 영향주는가? 관련 책임자 답변--국내뉴스&nbsp;&nbsp;인민넷12세 남아 HPV 무료접종 10%대...\"어릴 때 맞으면 이득\"&nbsp;&nbsp;YTN 사이언스서귀포시 동부보건소, 12세 남성 청소년 HPV 무료 예방접종 확대 안내&nbsp;&nbsp;livejeju.co.kr남학생도 HPV 감염된다…서귀포 동부보건소 무료 접종 당부&nbsp;&nbsp;gukjenews.com12세 남성 청소년, HPV 무료 접종 받으세요&nbsp;&nbsp;지금제주",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9taGZoaTMzd1JHR2ZtN1RjRUg5QXlaS3d0RTBaRUF0a0ZrOVNIeWtIemIyVjV0QW9JaWZIX0UyNUpUV3FaTGw5YzFvNGFWMnNDUXBaX0JTMEFWWmJuSW10QVltNnNYZThjTjF0QlhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3703c90a6454",
-      "title": "\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다 - 지디넷코리아",
-      "published": "2026-08-21T00:58:50+00:00",
-      "summary": "\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKX1R1aVRTN3RmSlJZTHM2ZUVTRlRMaW9LeldnZUtuNmxjaWJSS01tVmh1OUJ5aWlLNmVheUJ4aVNRLXduaEQ0Ykx4WFBsZWRpWjRkLVl3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ac55bb569fa6",
       "title": "지구 질량 23배 ‘거대 암석 행성’ 발견…기존 이론 흔들어 [우주로 간다] - 지디넷코리아",
       "published": "2026-08-21T00:45:08+00:00",
@@ -422,54 +398,6 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rekk4cDhGeElTcWpXYm5mSzN4eWRaTVpOYW00NHRzbU1DVDRKY3ZsQjJHc1dTeWNrVUNvR0EtQTJQcDR6UG93cGl5NXZEdnhoYzVHWEJB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae0a50020abc",
-      "title": "K-핵잠수함, 더 강력해질까…위성없이 길 찾는 '중력지도' 개발 박차 - 동아사이언스",
-      "published": "2026-08-20T22:00:00+00:00",
-      "summary": "K-핵잠수함, 더 강력해질까…위성없이 길 찾는 '중력지도' 개발 박차&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WX3BBRU1xMWlvbTF4MkczaGJGeDB5eVVubmt6d2o3QllFNm1tTHVQVjFSY0ZnNnc2QWUtTkYtajNyTC1yeFRoeUFodWNoQV9xLWY0Qw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f853b11ae0a",
-      "title": "빛의 속도 8%로 움직이는 별…우리은하서 가장 빠른 별 발견 - 동아사이언스",
-      "published": "2026-08-20T08:45:00+00:00",
-      "summary": "빛의 속도 8%로 움직이는 별…우리은하서 가장 빠른 별 발견&nbsp;&nbsp;동아사이언스",
-      "sources": [
-        {
-          "name": "동아사이언스",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jWmJtaFdRMkVkcjhOa3ZKSmNTWkdjS2RyaHhCOEh5Z1NROWhQeEY5aWdMTU51SzZwMFk2WnRRNnBHVmI3V3I4QzdPMFBjeHhhU3ZUYg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eae1011365f9",
-      "title": "2000년전 철기시대 무덤 발견…왜 우물 모양일까 - 지디넷코리아",
-      "published": "2026-08-20T06:39:42+00:00",
-      "summary": "2000년전 철기시대 무덤 발견…왜 우물 모양일까&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aWW0xTll4bnN1OGpPV0JLbTRuV2FMa1lPYWhWZGhlQkZJUTNyMXowdG1PNl9EVTM5Rl9WZ2w4Wm5lV0I0V1RJUzdHOEk4WkRuZThVb2V3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f76e6a6df81",
-      "title": "KIST, 상온·상압 암모니아 생산 효율 극대화...국내 최고 효율 달성 - 전자신문",
-      "published": "2026-08-20T03:00:00+00:00",
-      "summary": "KIST, 상온·상압 암모니아 생산 효율 극대화...국내 최고 효율 달성&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54TEs2VWt2dUpvcG1OYU1kbjBSbkQ0SlZNemtySndZbzFUR3NlLV9OVzVCdHQ5NVQycmsyT3FRaTBEQlRMQ3dZLTg4YXBEZw?oc=5"
         }
       ]
     }
