@@ -1,15 +1,51 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-24T12:54:44.364701+00:00",
-  "total_fetched": 69,
-  "unique_count": 68,
-  "health_related_count": 31,
+  "fetched_at": "2026-08-24T18:43:08.154288+00:00",
+  "total_fetched": 70,
+  "unique_count": 69,
+  "health_related_count": 29,
   "news": [
+    {
+      "id": "6c406ec9f645",
+      "title": "수컷 세포에서 암컷 탄생…사상 첫 ‘성전환 복제’ 성공 - 한겨레",
+      "published": "2026-08-24T18:35:08+00:00",
+      "summary": "수컷 세포에서 암컷 탄생…사상 첫 ‘성전환 복제’ 성공&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xdjNJNU1Bd3VkNHBzSFFHdjh5a2VYa05SMWFNYjRBV0g4Rl9Ic2FwWkZ1bWNKV3lNaXJTcHROYXdlXzhaek9zUkh1b0tGb2Nqcnh2SDdXZXlNRVl3SkF4bWh2NTRfblVmZkNBb2xYRlZtUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "163c976c402f",
+      "title": "(건강 돋보기) 대변 가늘어지거나 피 나오면 혹시 대장암? - 뉴스에이",
+      "published": "2026-08-24T17:54:30+00:00",
+      "summary": "(건강 돋보기) 대변 가늘어지거나 피 나오면 혹시 대장암?&nbsp;&nbsp;뉴스에이“대장암 가능성 높은 상태”… 장내세균 균형 깨졌다는 신호 3가지&nbsp;&nbsp;헬스조선“그냥 복통인 줄 알고 넘겼는데”…대장암 키우는 신호라는 ‘이 증상’, 뭐길래?&nbsp;&nbsp;서울경제“뾰루지에 단것 자꾸 당겨?”…‘장 건강’ 나빠졌다는 몸의 신호는?&nbsp;&nbsp;코메디닷컴반복되는 설사와 복통, 단순 장염이 아닐 수 있어 주의해야&nbsp;&nbsp;edaily.co.kr",
+      "sources": [
+        {
+          "name": "뉴스에이",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQmNlVTF3QkZtMGtIWWxxUm50ME9RRnlBVThuZmxHSTFtX0VqejJGclBtQU9NUUptYUdlczBnX1FQMHdfRlk2QnhiSlhVUUtYTTBwUWFLZjBqRkhNamxhQTd4aUpvSGJKSWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "72c9867eb02c",
+      "title": "밥 흘리면서 먹는 사람, 뭐가 문제일까 - 헬스조선",
+      "published": "2026-08-24T12:30:00+00:00",
+      "summary": "밥 흘리면서 먹는 사람, 뭐가 문제일까&nbsp;&nbsp;헬스조선[김연정 박사의 초고령사회 기획 연재 ②] 씹고 삼키는 능력의 변화, 어떻게 발견할 것인가(Detecting Changes in Chewing and Swallowing Abilities in Older Aduits)&nbsp;&nbsp;글로벌휴먼타임즈혀의 힘이 약해지면 왜 위험할까…삼킴장애·폐렴 앞서 보내는 신호&nbsp;&nbsp;이코노미사이언스분당서울대병원 연구팀, 음성 기반 AI 모델 제시 外&nbsp;&nbsp;의약뉴스분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다&nbsp;&nbsp;로컬세계",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZl80Yndtb2h0Y3A2aHYtWWZmdlM5aDR2T3VRNXB0WmNCWVNOMExFcTRxdl9IRlNqY3Qxa3ByM3MwWG5BRTEyX1RCbG9Pb0NLLVlnQXQ1TkFsdnJDWVhrbUNBVDVIb2pIV2N1OGhKZjRZc0NuYWd1eUJpYzhqbmc?oc=5"
+        }
+      ]
+    },
     {
       "id": "1ae494a9f41b",
       "title": "기침·가래 계속된다면 감기 아닐 수도… 기관지염과 폐렴, 어떻게 다를까? - 하이닥",
       "published": "2026-08-24T09:00:00+00:00",
-      "summary": "기침·가래 계속된다면 감기 아닐 수도… 기관지염과 폐렴, 어떻게 다를까?&nbsp;&nbsp;하이닥[의학칼럼]에어컨 앞 멈추지 않는 기침 당신 숨길이 보내는 경고 ‘천식’&nbsp;&nbsp;경남일보“감기 아닌데 쌕쌕?”… 기관지 예민하면 피해야 할 음식 4가지&nbsp;&nbsp;헬스조선\"여름인데 기침 끊이지 않아\"…'이곳' 관리 놓치면, 폐렴 위험까지?&nbsp;&nbsp;네이트그동안 몰랐는데…폭염은 호흡기질환 증상도 악화시킨다&nbsp;&nbsp;위키트리",
+      "summary": "기침·가래 계속된다면 감기 아닐 수도… 기관지염과 폐렴, 어떻게 다를까?&nbsp;&nbsp;하이닥RSV 감염증, 고령층 폐렴 위험 높인다…8월부터 예방접종 권고&nbsp;&nbsp;헬스경향[의학칼럼]에어컨 앞 멈추지 않는 기침 당신 숨길이 보내는 경고 ‘천식’&nbsp;&nbsp;경남일보“감기 아닌데 쌕쌕?”… 기관지 예민하면 피해야 할 음식 4가지&nbsp;&nbsp;헬스조선\"여름인데 기침 끊이지 않아\"…'이곳' 관리 놓치면, 폐렴 위험까지?&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "하이닥",
@@ -126,18 +162,6 @@
       ]
     },
     {
-      "id": "6c406ec9f645",
-      "title": "수컷 세포에서 암컷 탄생…사상 첫 ‘성전환 복제’ 성공 - 한겨레",
-      "published": "2026-08-24T02:44:00+00:00",
-      "summary": "수컷 세포에서 암컷 탄생…사상 첫 ‘성전환 복제’ 성공&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xdjNJNU1Bd3VkNHBzSFFHdjh5a2VYa05SMWFNYjRBV0g4Rl9Ic2FwWkZ1bWNKV3lNaXJTcHROYXdlXzhaek9zUkh1b0tGb2Nqcnh2SDdXZXlNRVl3SkF4bWh2NTRfblVmZkNBb2xYRlZtUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "749ac1379898",
       "title": "“운동할 시간 없다면 딱 3분”…13개 암 위험 낮춘 ‘뜻밖의 습관’ - 매일경제",
       "published": "2026-08-24T02:42:55+00:00",
@@ -201,47 +225,11 @@
       "id": "78187e1d0c65",
       "title": "“덜 먹는게 정답은 아니다”…‘콜레스테롤’ 똑똑하게 관리해볼까 - 농민신문",
       "published": "2026-08-23T19:00:00+00:00",
-      "summary": "“덜 먹는게 정답은 아니다”…‘콜레스테롤’ 똑똑하게 관리해볼까&nbsp;&nbsp;농민신문평생 먹던 스타틴 끝?…콜레스테롤 190→50 낮춘 한방 찾았다&nbsp;&nbsp;v.daum.net“콜레스테롤 쭉 높인다” 건강하다 믿었던 식단의 배신… 뭐야?&nbsp;&nbsp;헬스조선혈중 지질 낮추는 ‘6가지 권장·5가지 금지’ 식사 원칙&nbsp;&nbsp;씬짜오베트남",
+      "summary": "“덜 먹는게 정답은 아니다”…‘콜레스테롤’ 똑똑하게 관리해볼까&nbsp;&nbsp;농민신문평생 먹던 스타틴 끝?…콜레스테롤 190→50 낮춘 한방 찾았다&nbsp;&nbsp;v.daum.net“콜레스테롤 쭉 높인다” 건강하다 믿었던 식단의 배신… 뭐야?&nbsp;&nbsp;헬스조선“나쁜 콜레스테롤 더 낮춰라”…새 지침 나왔지만 논란도 커졌다 > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN혈중 지질 낮추는 ‘6가지 권장·5가지 금지’ 식사 원칙&nbsp;&nbsp;씬짜오베트남",
       "sources": [
         {
           "name": "농민신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kX0pxUl9MZVFRTEp3OGpFaDJ5ZUVJeFUyUVFvZ21CaHZYX0NMQWpxZkpCQlYyRlBhbUhOZFpvTlhfZk0zc2Q4X09UTmRCUnlIQ20wSlg5S3FZdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb9d69330c5b",
-      "title": "“대장암 가능성 높은 상태”… 장내세균 균형 깨졌다는 신호 3가지 - 헬스조선",
-      "published": "2026-08-23T19:00:00+00:00",
-      "summary": "“대장암 가능성 높은 상태”… 장내세균 균형 깨졌다는 신호 3가지&nbsp;&nbsp;헬스조선“그냥 복통인 줄 알고 넘겼는데”…대장암 키우는 신호라는 ‘이 증상’, 뭐길래?&nbsp;&nbsp;서울경제“뾰루지에 단것 자꾸 당겨?”…‘장 건강’ 나빠졌다는 몸의 신호는?&nbsp;&nbsp;코메디닷컴“40대에 대장암 4기 진단” 전조 증상 있었다는데…&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDWHM5TUxLNFAwdEd3NHFfSDE3MEpsOE9kaGhvbzlMMm92RnE5bE1za3BWNnVFWWdpZVQ3OHZKaENvSTdCS3JpT1AyZktkd1BnS08ySGUtUF9LeF9nYXJnWHBVNVVVdzVWLXlvdjBiQ0dwaHNMeHdPUlZTSDNJdUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "756dcbf1a473",
-      "title": "[김연정 박사의 초고령사회 기획 연재 ②] 씹고 삼키는 능력의 변화, 어떻게 발견할 것인가(Detecting Changes in Chewing and Swallowing Abilities in Older Aduits) - 글로벌휴먼타임즈",
-      "published": "2026-08-23T14:25:36+00:00",
-      "summary": "[김연정 박사의 초고령사회 기획 연재 ②] 씹고 삼키는 능력의 변화, 어떻게 발견할 것인가(Detecting Changes in Chewing and Swallowing Abilities in Older Aduits)&nbsp;&nbsp;글로벌휴먼타임즈밥 흘리면서 먹는 사람, 뭐가 문제일까&nbsp;&nbsp;헬스조선혀의 힘이 약해지면 왜 위험할까…삼킴장애·폐렴 앞서 보내는 신호&nbsp;&nbsp;이코노미사이언스분당서울대병원 연구팀, 음성 기반 AI 모델 제시 外&nbsp;&nbsp;의약뉴스분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다&nbsp;&nbsp;로컬세계",
-      "sources": [
-        {
-          "name": "글로벌휴먼타임즈",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xZWFEYzAybmdWYWtfX3VfVHpfcjVfRHN1NzIzUlZqRDdRZkdUcVhIcE5VYnNRbERvcGVJVVByeTJ2cTBySU0tQ25haTE3YTNlVGUxbTZWNENScXB0dHo5UkMtdkNFNzhHNEpDUDJTLTN1QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "637639f619a9",
-      "title": "여왕벌, 농약 노출되자…독성물질 ‘알’로 보냈다 - 지디넷코리아",
-      "published": "2026-08-23T11:00:03+00:00",
-      "summary": "여왕벌, 농약 노출되자…독성물질 ‘알’로 보냈다&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bXE0WEg2REZEaW1ZZ2ZyLXRwOGpTOFo1dEVnZ0hqYTB6MlNaUWZNVEFrTHRHbUNMV3NIUHNhNmI3dEhhbkdGenV2VFE1dnh6STZLbTZR?oc=5"
         }
       ]
     },
@@ -282,18 +270,6 @@
       ]
     },
     {
-      "id": "10d940de1db8",
-      "title": "왜 사람마다 백신 효과가 다를까...혈액 속 항체에 답 있어 - 자유일보",
-      "published": "2026-08-23T06:59:56+00:00",
-      "summary": "왜 사람마다 백신 효과가 다를까...혈액 속 항체에 답 있어&nbsp;&nbsp;자유일보",
-      "sources": [
-        {
-          "name": "자유일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUlJwaV9TZi0ySDEyN2tOV1VTRUhlYVBQbEl1QTVrT0h5UHZhVGNYRk1kNmVVTDZxT19xNHJBeW1SallqN1FqOFplTGxCR0xWVmRKTDlIRDJuQlhoWk5ySW1Weno4S0hGaXd30gFvQVVfeXFMUC1IYXdQV09WcmF0VUQtTkhlbnpXQzdnc3pIazN0UWx6X2pxSE50cHhoZHJVX0tvT2RwQzVqWk9DNm1HQjJTRFR1Z2o1dC02UzY5dHBFZHItR05TOGVqWTA0OEE5VGltTlBZVWkzX3Vn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1487a1ed6498",
       "title": "햇볕 강한 날 아픈 눈, 화상이었다… 치료 안 해도 되나? - 헬스조선",
       "published": "2026-08-23T06:30:00+00:00",
@@ -302,6 +278,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSWRKYng2VUpfS29JWVdRdEFVWWhUTzNTNEJvMThkUWNKay1CckpWbXhiZFdUMzFlVmRDSHdvaUlDQXdyZmxfMGZTSkZlajlFRjlBb1Z6VUQtdDJsaWRkXzIwWVNKVWJmcW1TeXpfakk4T3VhdExveXlUS0h3Wm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10d940de1db8",
+      "title": "왜 사람마다 백신 효과가 다를까...혈액 속 항체에 답 있어 - 자유일보",
+      "published": "2026-08-23T05:50:00+00:00",
+      "summary": "왜 사람마다 백신 효과가 다를까...혈액 속 항체에 답 있어&nbsp;&nbsp;자유일보",
+      "sources": [
+        {
+          "name": "자유일보",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfUlJwaV9TZi0ySDEyN2tOV1VTRUhlYVBQbEl1QTVrT0h5UHZhVGNYRk1kNmVVTDZxT19xNHJBeW1SallqN1FqOFplTGxCR0xWVmRKTDlIRDJuQlhoWk5ySW1Weno4S0hGaXd30gFvQVVfeXFMUC1IYXdQV09WcmF0VUQtTkhlbnpXQzdnc3pIazN0UWx6X2pxSE50cHhoZHJVX0tvT2RwQzVqWk9DNm1HQjJTRFR1Z2o1dC02UzY5dHBFZHItR05TOGVqWTA0OEE5VGltTlBZVWkzX3Vn?oc=5"
         }
       ]
     },
@@ -362,18 +350,6 @@
         {
           "name": "세계일보",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qNzZmMDZOd3ZTcURfTTdBTHdvb1dnNk53Wk01YTRpNWV4MlNJcmhmclZPdGlMT2ROMWk3azVLWUxLSjk1cFBybl9IQzFLTEVaeVZqM1l1UWvSAVRBVV95cUxOeEUyNFNuQWRCWFZnYTVFcVpBcDdzeWNpaDB5S0Fxd0hsRzl2aFpSYzlRQlNyQV9yVjZyaTA3S0dmMVVEeHJMUVF1TE9xNS1Ublp6Ums?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ccf5e36e1826",
-      "title": "[ESG칼럼]비아그라가 암 전이를 막는다?… ESG 보건의료의 새로운 질문:장애인인식개선신문 - 장애인인식개선신문",
-      "published": "2026-08-22T14:06:55+00:00",
-      "summary": "[ESG칼럼]비아그라가 암 전이를 막는다?… ESG 보건의료의 새로운 질문:장애인인식개선신문&nbsp;&nbsp;장애인인식개선신문",
-      "sources": [
-        {
-          "name": "장애인인식개선신문",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOGpUVGUwNjg1NktOZEZzTjRSaGlmS3R3RmhaZ2FhYUg1RnlOU2Q5ZEtXazVUZDdONnlPUnhKd2FTR1nSAV9BVV95cUxNQ1ZPbklRTHlKbWhKR01aVGZPVmtlN21TeS1FU2RRdWZoeWg0Z3lzUzk4ZnVEQTVOY1ZkNVYwVzFwQ0QtR2VSNWNneE9YdktwRlBVUXQxUnNycXNsQjBzTQ?oc=5"
         }
       ]
     }
