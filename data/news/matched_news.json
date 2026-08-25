@@ -1,17 +1,121 @@
 {
-  "last_updated": "2026-08-25T06:51:57.827513+00:00",
-  "total_count": 33,
+  "last_updated": "2026-08-25T12:51:25.938902+00:00",
+  "total_count": 36,
   "matched_count": 0,
   "news": [
     {
-      "id": "ea73144f7606",
-      "title": "환절기 A형 간염·백일해 주의보…백신 접종이 '최선'",
-      "published": "2026-08-25T05:01:00+00:00",
-      "summary": "환절기 A형 간염·백일해 주의보…백신 접종이 '최선'&nbsp;&nbsp;네이트",
+      "id": "0c734ec4ac87",
+      "title": "\"카페라테보다 많다\"… 의외로 당 많은 음료 4가지",
+      "published": "2026-08-25T11:00:00+00:00",
+      "summary": "\"카페라테보다 많다\"… 의외로 당 많은 음료 4가지&nbsp;&nbsp;하이닥위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’[나우,어스]&nbsp;&nbsp;헤럴드경제콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rdTRIVi0yY19WQWJSRjUzOWpndDVFZFpmZXFWcXRDNHRlU0Z4VVhUNnNqMlhlWGZGNEhmc20zQ1Jsd0FXVlNUNWY5d1RGWDlWcC1ISkw0U0hUR29nMHVMVg?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FMzIwNTUxTnNiNHVYVzBqQTRTbTR0NUZHNzNkRVJuZDRaTXVvcmlaN01MaWRDTnl1VkY5TVRlV2RyM1RqUXVOdEFXNERJU0VjYXNnVVJhcHJzQ0NfdGhkUnhtWVdWVU1yY2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "52aa5b826331",
+      "title": "독감·폐렴구균 백신 맞은 고령층, 치매 위험 최대 63% 낮아",
+      "published": "2026-08-25T10:58:02+00:00",
+      "summary": "독감·폐렴구균 백신 맞은 고령층, 치매 위험 최대 63% 낮아&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HSzVfUmYwNkhFLUE3NXZuLXBnV1JVVTVTMVJQRjRNUXpTc29UTWpRNXByRzNJcy16enYwUVp0ZWEteDlxenctd3ZFeUJsY0pLN3hOMUc1a214WDV2T2xKR3g1M181ZF9tSTB5MlNCampGdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eb239adfe01b",
+      "title": "비타민D 하루 5,000IU 이상 먹으면… 경도인지장애 노인, 인지기능 점수 ↑",
+      "published": "2026-08-25T10:00:00+00:00",
+      "summary": "비타민D 하루 5,000IU 이상 먹으면… 경도인지장애 노인, 인지기능 점수 ↑&nbsp;&nbsp;하이닥“어머니가 갑자기 존댓말을 하시네요”…발병 초기라면 고용량 ‘이것’ 효능&nbsp;&nbsp;v.daum.net매일 챙겨먹는 ‘이 비타민’…기억력 떨어지는 사람에 뜻밖의 효과?&nbsp;&nbsp;매일경제치매 두려운 사람, 인지기능 향상하는 ‘이 영양소’ 꼭 먹어라&nbsp;&nbsp;헬스조선“하루 비타민D ‘이만큼’ 챙겨 먹었더니”…노인, 인지 능력 더 높았다&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fNXQyRGFjRUpuMUYtTWMzZzB0UmVKUzV4U0U1Vmo2eHVUdm1iTmxJR1NLMEhtbU1uZnRJcmV2QmVJV2h1TktxaDk0bWhZZ2NTMjBLdFlOVld4NHo4OXhtdEZsZHN0TDNybXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "626db97bb806",
+      "title": "\"약도 없는데…\" 추석 해외여행 전 '이 백신' 필수",
+      "published": "2026-08-25T09:11:03+00:00",
+      "summary": "\"약도 없는데…\" 추석 해외여행 전 '이 백신' 필수&nbsp;&nbsp;파이낸셜뉴스",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZSjVsaXA5cVpxNjBreG81NmpfUEo4U1B6aG5HbGhVcGpud0lnQWlTdHRQSGVra3l0cTZMNDJFMDFCMTVEVnRpU052aV9ka21jT2ZnalhBMDM4Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ca707e28f6ca",
+      "title": "2040 여성에게 많은 루푸스…피로·관절통 반복된다면 의심해야",
+      "published": "2026-08-25T07:55:02+00:00",
+      "summary": "2040 여성에게 많은 루푸스…피로·관절통 반복된다면 의심해야&nbsp;&nbsp;한국의약통신[건강정보] 2040 여성에게 많은 루푸스···피로·관절통 반복된다면 의심해야&nbsp;&nbsp;의사신문루푸스 환자 10명 중 9명 '여성'···쉬어도 피곤한데 놓치기 쉬운 이유&nbsp;&nbsp;여성경제신문[건강톡톡] 2040 여성 노리는 자가면역질환 ‘루푸스’… 조기 발견이 핵심&nbsp;&nbsp;간호사신문여성 환자 90%라는 이 병…피로·관절통이 신호&nbsp;&nbsp;한스경제",
+      "sources": [
+        {
+          "name": "한국의약통신",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5manhwSTVZOFI3djEzQ0QyWkJJN21FM3ZWa1RXUURHOUxEVng0b1MwTnZESUNOTzNNeVhTdWp0WWJJcHJaUFBkS1RybGtiSXlqb05zdkZ4VWYzcHplbG8yNENHaDllSzBRSWZ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d5400c078a18",
+      "title": "위성곤 공약 ‘제주과학기술원’ 빨간불 켜지나",
+      "published": "2026-08-25T07:14:38+00:00",
+      "summary": "위성곤 공약 ‘제주과학기술원’ 빨간불 켜지나&nbsp;&nbsp;제주의소리",
+      "sources": [
+        {
+          "name": "제주의소리",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2OXJMdkR0WDIyZC1WcGxSNktmeVlWa3FHVFZSbjVtRUczMEQ1b0NfVUREbl8zQkRGMWwwTmlHTUx6RHhSdDBRNWlibmFsZy1ieDZsUEd5M2JPcHRjRUZCZnlTZkFKc0tYaERJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b6727bcd7119",
+      "title": "미국 연구진, 이중 머리 분자로 11일 만에 림프종 종양 제거",
+      "published": "2026-08-25T06:11:00+00:00",
+      "summary": "미국 연구진, 이중 머리 분자로 11일 만에 림프종 종양 제거&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9seW9YZC1WMk9WZlQ3LVhVcU9qZ1d3ZGJVdjN6dkxyakJRbHVEazAzUDVMNURUN05DZFZIeHJFS2pjQkNDUWNRTHAxbWRMREx4TS12Vw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "41ef904e8c99",
+      "title": "이집트 사막서 1억년 전 ‘상어 무덤’ 발견",
+      "published": "2026-08-25T05:25:34+00:00",
+      "summary": "이집트 사막서 1억년 전 ‘상어 무덤’ 발견&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnUWNRalY3UHd0eHR1V05HakxJNU5nd0MxekYzNmJ2dXlwWGl0OUlzRmkzeXNyNXY2Vloza1E2dWQ2Vk5CUEJnODVETFkzTnhFc3YwU1F3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "70cf3ce1fae7",
+      "title": "국산 대상포진 백신 LZ901, 40세 이상 보호효능 91.6%",
+      "published": "2026-08-25T04:04:00+00:00",
+      "summary": "국산 대상포진 백신 LZ901, 40세 이상 보호효능 91.6%&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wMlBqejJKekdTUDlrRG1TRnlTWU1xbDVIOEU0b1hYNG9OejJtRS1jZnJkSmVCLW53M21wZzBEbFN0SHBIZnZOZVBMLTJ4bnpReEJ2aA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -25,19 +129,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54VV8tV2JQZFJKdVNaWWV5d3FoWlZUb3lMX2p2cWtwT2liT3ZpZlh0blRuRTNheUQ1UklYNWFBcTQ0cGJoeFdxTUVjZFpFQmt0ZGp0eVg0OUJWMGR5OFNITlR4U0t0RUszd3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "930bd0ab9f92",
-      "title": "2040 여성 위협하는 루푸스…피로·관절통 지속되면 의심해야",
-      "published": "2026-08-25T02:19:30+00:00",
-      "summary": "2040 여성 위협하는 루푸스…피로·관절통 지속되면 의심해야&nbsp;&nbsp;서울경제TV[건강정보] 2040 여성에게 많은 루푸스···피로·관절통 반복된다면 의심해야&nbsp;&nbsp;의사신문[건강톡톡] 2040 여성 노리는 자가면역질환 ‘루푸스’… 조기 발견이 핵심&nbsp;&nbsp;간호사신문여성 환자 90%라는 이 병…피로·관절통이 신호&nbsp;&nbsp;한스경제20~40대 여성에게 흔한 루푸스…피로·관절통 반복되면 의심&nbsp;&nbsp;청년의사",
-      "sources": [
-        {
-          "name": "서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9uS2VFc2syT2twRzRvR3dZckpjNHdadUFEZGcxVWtVVXJjQi10VEVZcUZDM1UyVmNRZkw4TnFtRkpLZnJPa2VKY2l2TzVSRG1wdXFtdzZTSHh2YnBmQ1lpRDBxMzQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -72,7 +163,7 @@
       "id": "6f3ef56a6b29",
       "title": "마른 당뇨에서 비만 동반 당뇨로…GLP-1·CGM이 바꾼 ‘대사질환 통합관리’",
       "published": "2026-08-25T02:05:46+00:00",
-      "summary": "마른 당뇨에서 비만 동반 당뇨로…GLP-1·CGM이 바꾼 ‘대사질환 통합관리’&nbsp;&nbsp;바이오타임즈젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+]&nbsp;&nbsp;v.daum.net“무심코 하는 행동, 당뇨 생긴다”… 의사가 경고한 생활습관 5가지&nbsp;&nbsp;코메디닷컴“밥만 먹고 나면 너무 졸려”…눈 앞이 흐릿해진다면 ‘혈당 스파이크’가 보내는 경고 [헬시타임]&nbsp;&nbsp;서울경제'건강 히어로' 당뇨·합병증 예방위한 혈당 관리법 조명&nbsp;&nbsp;gukjenews.com",
+      "summary": "마른 당뇨에서 비만 동반 당뇨로…GLP-1·CGM이 바꾼 ‘대사질환 통합관리’&nbsp;&nbsp;바이오타임즈“무심코 하는 행동, 당뇨 생긴다”… 의사가 경고한 생활습관 5가지&nbsp;&nbsp;코메디닷컴젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+]&nbsp;&nbsp;v.daum.net\"당뇨 전 단계가 이래도 되나?\"…매일 혈당 스파이크, 뭘 먹길래?&nbsp;&nbsp;네이트극심한 갈증으로 병원 가니 ‘당뇨병’ 진단… 127kg 여성, ‘매일 먹은 음식’ 있다는데?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "바이오타임즈",
@@ -95,19 +186,6 @@
       "matched_keywords": []
     },
     {
-      "id": "50ec10b12c9e",
-      "title": "당뇨병 환자의 식후 2시간 혈당 지수 권장 사항",
-      "published": "2026-08-25T00:44:38+00:00",
-      "summary": "당뇨병 환자의 식후 2시간 혈당 지수 권장 사항&nbsp;&nbsp;Laodong.vn공복혈당 높아 걱정이라면, 잠부터 푹 자라&nbsp;&nbsp;헬스조선수면의 질 떨어지면 공복혈당 상승&nbsp;&nbsp;메디칼트리뷴",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWhyME1abDEtU2pnc2tLTEtHUG5TT0hzb1Vmb3JPNmFscjR5QXlxeHdYVlY0c2NRWDZtOUZJQzVtSElJZGdlRVBpU2xiV2c2WWQxaVZRelZLVEVTa2NRREo5NUFHWnFUUVEtcUZ3T1lQSW9aNzdaUW8tTjhabjk2eG1kVWVTVjNldkpFQjJvR0U5MDVTaHpYZ0U0NnJ4Q3JGV0J0STlQclNIMUtOVFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6782d5455d33",
       "title": "장 속 미생물에게도 좋은 밥상이 필요하다 [미생물로 풀어낸 세상]",
       "published": "2026-08-24T23:10:20+00:00",
@@ -124,7 +202,7 @@
       "id": "5504c6bacd5a",
       "title": "수박이 대장암 위험 낮춘다?... 장 건강에 도움주는 과일 4가지",
       "published": "2026-08-24T21:30:00+00:00",
-      "summary": "수박이 대장암 위험 낮춘다?... 장 건강에 도움주는 과일 4가지&nbsp;&nbsp;하이닥“삼겹살에 소주, 소파에 털썩”…24년 새 3.3배 뛴 ‘한국인 3위 암’&nbsp;&nbsp;v.daum.net달력 나이는 20대, 세포 나이는 40대&nbsp;&nbsp;사이언스타임즈‘대장암’ 걱정될 때 챙겨 먹을 과일 4가지&nbsp;&nbsp;헬스조선“암은 갑자기 오지 않는다…과일·채소로 억제력 높여야” [건강한겨레]&nbsp;&nbsp;한겨레",
+      "summary": "수박이 대장암 위험 낮춘다?... 장 건강에 도움주는 과일 4가지&nbsp;&nbsp;하이닥“삼겹살에 소주, 소파에 털썩”…24년 새 3.3배 뛴 ‘한국인 3위 암’&nbsp;&nbsp;v.daum.net달력 나이는 20대, 세포 나이는 40대&nbsp;&nbsp;sciencetimes.co.kr‘대장암’ 걱정될 때 챙겨 먹을 과일 4가지&nbsp;&nbsp;헬스조선“암은 갑자기 오지 않는다…과일·채소로 억제력 높여야” [건강한겨레]&nbsp;&nbsp;한겨레",
       "sources": [
         {
           "name": "하이닥",
@@ -136,7 +214,7 @@
     {
       "id": "8c9d43df0a33",
       "title": "[100세 과학] 수혈로 치매 전염될까, 아밀로이드 베타 전파 가능성 - 조선비즈",
-      "published": "2026-08-24T21:05:11+00:00",
+      "published": "2026-08-24T21:11:00+00:00",
       "summary": "[100세 과학] 수혈로 치매 전염될까, 아밀로이드 베타 전파 가능성 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
@@ -160,14 +238,14 @@
       "matched_keywords": []
     },
     {
-      "id": "163c976c402f",
-      "title": "(건강 돋보기) 대변 가늘어지거나 피 나오면 혹시 대장암?",
-      "published": "2026-08-24T17:54:30+00:00",
-      "summary": "(건강 돋보기) 대변 가늘어지거나 피 나오면 혹시 대장암?&nbsp;&nbsp;뉴스에이“그냥 복통인 줄 알고 넘겼는데”…대장암 키우는 신호라는 ‘이 증상’, 뭐길래?&nbsp;&nbsp;서울경제“뾰루지에 단것 자꾸 당겨?”…‘장 건강’ 나빠졌다는 몸의 신호는?&nbsp;&nbsp;코메디닷컴“40대에 대장암 4기 진단” 전조 증상 있었다는데…&nbsp;&nbsp;헬스조선",
+      "id": "6ac3195c2558",
+      "title": "폐경기 증상, 안면홍조뿐?…기분 급변·건망증 놓치는 진료 현장 - DongA Science",
+      "published": "2026-08-24T21:00:00+00:00",
+      "summary": "폐경기 증상, 안면홍조뿐?…기분 급변·건망증 놓치는 진료 현장&nbsp;&nbsp;DongA Science",
       "sources": [
         {
-          "name": "뉴스에이",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQmNlVTF3QkZtMGtIWWxxUm50ME9RRnlBVThuZmxHSTFtX0VqejJGclBtQU9NUUptYUdlczBnX1FQMHdfRlk2QnhiSlhVUUtYTTBwUWFLZjBqRkhNamxhQTd4aUpvSGJKSWc?oc=5"
+          "name": "DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBESnZEbGJFSXdBUWZOX0FmZTc1ZzlKWG43bTE2NUl4STlsMzBZTjVpYTVWelY1Wk5kOUM2T3hEOEZ5YU8xR01oTnZDUzBxT2tFc25ULQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -212,6 +290,19 @@
       "matched_keywords": []
     },
     {
+      "id": "24c261456a24",
+      "title": "혼자 실험하고 새 이론 발견…상상 속 'AI 과학자' 현실로",
+      "published": "2026-08-24T07:06:29+00:00",
+      "summary": "혼자 실험하고 새 이론 발견…상상 속 'AI 과학자' 현실로&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SLUoxV1EtSFd0aVNmeU1OakdBNFF3czNUdHdkbkttZURiZ0E3el82NktmZ0p1UDFBRi1pWDdjcEFLOURVb2VXdHZTdnZjaGlFZzQ3VDc5R0REZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0621e97f2ea6",
       "title": "영국 전립선암 환자 60만 명, 8분마다 한 명씩 새로 진단됩니다 - 캐어유 뉴스",
       "published": "2026-08-24T07:00:00+00:00",
@@ -228,7 +319,7 @@
       "id": "ddd3de31120e",
       "title": "고혈압인데 냉면 국물 다 마셨다고요? 나트륨 2618mg ‘폭탄’이었다",
       "published": "2026-08-24T06:37:00+00:00",
-      "summary": "고혈압인데 냉면 국물 다 마셨다고요? 나트륨 2618mg ‘폭탄’이었다&nbsp;&nbsp;뉴스와\"감자탕보다 짜다\"… 의외로 나트륨 많은 음식 4가지&nbsp;&nbsp;하이닥\"양념치킨보다 많다\"… 의외로 나트륨 많은 식품 4가지&nbsp;&nbsp;하이닥",
+      "summary": "고혈압인데 냉면 국물 다 마셨다고요? 나트륨 2618mg ‘폭탄’이었다&nbsp;&nbsp;뉴스와\"양념치킨보다 많다\"… 의외로 나트륨 많은 식품 4가지&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "뉴스와",
@@ -254,7 +345,7 @@
       "id": "77075fc24ff2",
       "title": "“걷기·체조보다 효과”…어르신들에 열풍 ‘이 운동’ 치매 위험 낮춘다",
       "published": "2026-08-24T05:10:11+00:00",
-      "summary": "“걷기·체조보다 효과”…어르신들에 열풍 ‘이 운동’ 치매 위험 낮춘다&nbsp;&nbsp;농민신문[독립신문 건강기획] 노년기 운동, 치매 위험도 바꾼다…파크골프·게이트볼도 주목&nbsp;&nbsp;ainews1.co.kr[건강포커스] \"여가 운동은 치매 위험 낮추고 육체노동은 위험 높일 수 있어\"&nbsp;&nbsp;연합뉴스집안일은 도움되지만… 직장서 몸 움직이는 것은 치매 되레 키운다&nbsp;&nbsp;헬스조선여가 시간에 많이 움직인 사람, 치매 발병 위험 24% 낮았다&nbsp;&nbsp;하이닥",
+      "summary": "“걷기·체조보다 효과”…어르신들에 열풍 ‘이 운동’ 치매 위험 낮춘다&nbsp;&nbsp;농민신문영상주말마다 어르신들 ‘북적북적’…치매 위험 확 낮춘다는 운동, 걷기·체조 아니었다&nbsp;&nbsp;서울경제[독립신문 건강기획] 노년기 운동, 치매 위험도 바꾼다…파크골프·게이트볼도 주목&nbsp;&nbsp;ainews1.co.kr[건강포커스] \"여가 운동은 치매 위험 낮추고 육체노동은 위험 높일 수 있어\"&nbsp;&nbsp;연합뉴스집안일은 도움되지만… 직장서 몸 움직이는 것은 치매 되레 키운다&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "농민신문",
@@ -363,58 +454,6 @@
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVWNFSlN4VVI3cksycFFHZ1dxM0l3TVpTZ3JObUhpS2JYN0FXTUVmdVBRNVlnNmFCNHhhZFRCOWNicmlsdFRGUDB5T1EyZU1TZFAycXdiQk9JTWZMa3VETGQyNXhUYXVqby1HLQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "78187e1d0c65",
-      "title": "“덜 먹는게 정답은 아니다”…‘콜레스테롤’ 똑똑하게 관리해볼까",
-      "published": "2026-08-23T19:00:00+00:00",
-      "summary": "“덜 먹는게 정답은 아니다”…‘콜레스테롤’ 똑똑하게 관리해볼까&nbsp;&nbsp;농민신문평생 먹던 스타틴 끝?…콜레스테롤 190→50 낮춘 한방 찾았다&nbsp;&nbsp;v.daum.net“콜레스테롤 쭉 높인다” 건강하다 믿었던 식단의 배신… 뭐야?&nbsp;&nbsp;헬스조선“나쁜 콜레스테롤 더 낮춰라”…새 지침 나왔지만 논란도 커졌다 > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN혈중 지질 낮추는 ‘6가지 권장·5가지 금지’ 식사 원칙&nbsp;&nbsp;씬짜오베트남",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kX0pxUl9MZVFRTEp3OGpFaDJ5ZUVJeFUyUVFvZ21CaHZYX0NMQWpxZkpCQlYyRlBhbUhOZFpvTlhfZk0zc2Q4X09UTmRCUnlIQ20wSlg5S3FZdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "725e17459a5e",
-      "title": "어린이의 부비동염 위험 예방 방법",
-      "published": "2026-08-23T09:00:00+00:00",
-      "summary": "어린이의 부비동염 위험 예방 방법&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU3FMUlVHREVXNXZoQ042dGFmVHZWZ1A2QVlsbE15WE4zTTNaWXFYdk5ZdHF6bmlhdEc0Ym5xOUJscUNkS19kNmVMcDA5RURUMzVMUENQTFlDbkJIYThsbUNjY3pxc1hRUEUzTHBjVzItc0NQWDRVbTE1d1ZycEFOaWJYR1ZTMUdRaWZoVkctNkQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "48367ee0b0ac",
-      "title": "위암 위험 3배 높인다는 가당 음료, 대체당은 '연관 없어'[나우,어스]",
-      "published": "2026-08-23T08:00:00+00:00",
-      "summary": "위암 위험 3배 높인다는 가당 음료, 대체당은 '연관 없어'[나우,어스]&nbsp;&nbsp;네이트위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’[나우,어스]&nbsp;&nbsp;헤럴드경제콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net매일 ‘이 음료’ 한 잔 마시는 사람⋯위암 위험 145% 높았다&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zVHU4aUs4OGgwcm1PbUZ5djlYdmdxelFRNzlxQnpYTE1wNjZSYkJpeTIwZ3JMeTB2VjkzQkJMR042dUZKbzl2RG9Vdi1oOGdsd2oxZy1YYlF2UU5PRHhEbA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1487a1ed6498",
-      "title": "햇볕 강한 날 아픈 눈, 화상이었다… 치료 안 해도 되나?",
-      "published": "2026-08-23T06:30:00+00:00",
-      "summary": "햇볕 강한 날 아픈 눈, 화상이었다… 치료 안 해도 되나?&nbsp;&nbsp;헬스조선\"실컷 놀다 왔는데 여긴 왜 아프지\"…'휴가 후유증' 주의보&nbsp;&nbsp;뉴스1[Health Recipe] 여름철 눈 건강 사수하기…외부 요소에 취약성 높아져&nbsp;&nbsp;매일경제(81) 여름 지나도 안심 금물…잠복기 일주일 ‘유행성 각결막염’&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LSWRKYng2VUpfS29JWVdRdEFVWWhUTzNTNEJvMThkUWNKay1CckpWbXhiZFdUMzFlVmRDSHdvaUlDQXdyZmxfMGZTSkZlajlFRjlBb1Z6VUQtdDJsaWRkXzIwWVNKVWJmcW1TeXpfakk4T3VhdExveXlUS0h3Wm8?oc=5"
         }
       ],
       "matched_keywords": []
