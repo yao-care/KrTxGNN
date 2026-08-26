@@ -1,19 +1,43 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-26T06:53:26.651194+00:00",
-  "total_fetched": 93,
-  "unique_count": 91,
-  "health_related_count": 42,
+  "fetched_at": "2026-08-26T12:56:31.102435+00:00",
+  "total_fetched": 81,
+  "unique_count": 81,
+  "health_related_count": 37,
   "news": [
     {
-      "id": "c393c5db453b",
-      "title": "대장암, 검진만 잘 받아도 사망 위험 낮아진다 - 하이닥",
-      "published": "2026-08-26T06:03:58+00:00",
-      "summary": "대장암, 검진만 잘 받아도 사망 위험 낮아진다&nbsp;&nbsp;하이닥‘발생률 3위’ 대장암, 검진만 잘 받아도 사망 막는다&nbsp;&nbsp;헬스조선[칼럼] 추석에 확인하는 대장암 가족력, 대장내시경 검진 시기에도 영향&nbsp;&nbsp;스타데일리뉴스[\"아직 내시경 대체는 무리\"… 하지만 AI 혀 분석이 품은 엄청난 잠재력] 20여 건 연구로 임상 활용 가능성 입증된 AI 혀 진단 기술… 조기 검진의 강력한 보조 도구 부상&nbsp;&nbsp;AI넷“대장용종, 떼면 끝 아냐…추적 내시경이 대장암 막아”&nbsp;&nbsp;서울경제",
+      "id": "8f2e0f2f0324",
+      "title": "당뇨병 고위험군인데 “운동은 싫어”… 그럼 어떻게 해야 돼? - 코메디닷컴",
+      "published": "2026-08-26T10:01:00+00:00",
+      "summary": "당뇨병 고위험군인데 “운동은 싫어”… 그럼 어떻게 해야 돼?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54VV8tV2JQZFJKdVNaWWV5d3FoWlZUb3lMX2p2cWtwT2liT3ZpZlh0blRuRTNheUQ1UklYNWFBcTQ0cGJoeFdxTUVjZFpFQmt0ZGp0eVg0OUJWMGR5OFNITlR4U0t0RUszd3c?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1yeURmaDdrVlBEbWtJSjB0cGx2TmpFaWZtVFdZT25YYXNlWjNYQzVuQUpmNUJKOF9YSUNiRDJoN3NZQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "791cd6904f53",
+      "title": "[칼럼] 추석에 확인하는 대장암 가족력, 대장내시경 검진 시기에도 영향 - 스타데일리뉴스",
+      "published": "2026-08-26T06:21:09+00:00",
+      "summary": "[칼럼] 추석에 확인하는 대장암 가족력, 대장내시경 검진 시기에도 영향&nbsp;&nbsp;스타데일리뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "스타데일리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xejlwVzZtODJLOXU5Q2dvbEpCWGNwUlZFVG1HX05DUGtfYjdqYVMtRWllT2dZampJd282cWJ3R2tZMEx4VWZoa3BQZW5RSEZ5c21zM3hrZXZWSDZjZ2dqdTZPbTYydFVYTXctM2VBV3YzXzRO0gF4QVVfeXFMT2t3U0hYRlNRTlBBeWpCaVY5bFprRDI5cE55cEdYbGkxUnJGTE9HYmthbE40di1TbWRYUmJOeGV6NDFMSEpnWktKVjZod09COGt5eTYwdHZzbHVUYjRFVmVveHljSDY5cGhPQnZuQVY2REtwcWRzR2VK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "214c61961879",
+      "title": "환절기 건강관리, 3가지 잘못된 인식 피해야→--건강 - 인민넷",
+      "published": "2026-08-26T06:18:00+00:00",
+      "summary": "환절기 건강관리, 3가지 잘못된 인식 피해야→--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwNXRvUm9fREVpMmR5MWNoLXJHMEx4b0pkQXF2TlYxbElwVjgxdFd0aWEyZ1VLN3JUYk5Jdm9lXzhBek1SaGNuaTVWb1M4LTZBZ21RU0oxOGVUcmRIc1RINTVIU3V0cHNuWFU3XzRn?oc=5"
         }
       ]
     },
@@ -30,10 +54,58 @@
       ]
     },
     {
+      "id": "423af2a620ce",
+      "title": "매일 혈당 쟀는데 당뇨 판정... '공복혈당 정상'의 함정 - OhmyNews",
+      "published": "2026-08-26T05:00:00+00:00",
+      "summary": "매일 혈당 쟀는데 당뇨 판정... '공복혈당 정상'의 함정&nbsp;&nbsp;OhmyNews“당뇨병인 줄 알고 놀랐는데”… 공복혈당 갑자기 튄 이유 셋&nbsp;&nbsp;헬스조선[메디컬라이프 의학 심층보도] 2형 당뇨병 관리의 숨은 뇌관 ‘수면의 질’… 불면이 공복혈당과 혈당 변동성 폭발시킨다&nbsp;&nbsp;한국공공정책신문수면의 질 떨어지면 공복혈당 상승&nbsp;&nbsp;메디칼트리뷴공복혈당 높아 걱정이라면, 잠부터 푹 자라&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pNllvYjNsdXVDVi1PTnd2ZWZxVjdEMGE0amxIVmFXdXBDX1dVcHBVemctV1oxemJRWWZOT3E2eklDZzlFVmdRUTFDbEdYM2pBS2RhTUF4TzNPNzJTMG16Y3Vsak1pZUhGbFlLNGpUVnlTb0hIT1Yw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0a6d580dc330",
+      "title": "[문상윤의 건강한 식품이야기] ③장(腸)의 시대, 유산균의 과학 - 프레시안",
+      "published": "2026-08-26T04:35:26+00:00",
+      "summary": "[문상윤의 건강한 식품이야기] ③장(腸)의 시대, 유산균의 과학&nbsp;&nbsp;프레시안식이섬유 먹으면 장이 ‘기억’한다…염증 막는 면역기전 발견&nbsp;&nbsp;헬스코리아뉴스장 속 미생물에게도 좋은 밥상이 필요하다 [미생물로 풀어낸 세상]&nbsp;&nbsp;주간조선섬유질이 부족한 식단은 장내 미생물군과 장내 보호막에 영향을 미칩니다.&nbsp;&nbsp;Vietnam.vn“채소 많이 먹어야겠네”…장내 세균, 식이섬유 부족하면 장 점막 먹기 시작한다&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "프레시안",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51aTIxbTc0NGtnMEVoQWZKYmpxX2Ezd0pSdVBPcmpYLTJvMEZXYlhkY056bGhCMTY5eE5oVW5nYjdwMDZ3Wk8xUTZoUVpuWHc0MlJqN0I2eUpHcnhwME5vMnlvc19vWno3QWww?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60eaf02b2d0f",
+      "title": "“세균 득실득실” 간식 먹으면서 일하는 사람, 키보드 당장 닦아야 - 헬스조선",
+      "published": "2026-08-26T04:30:00+00:00",
+      "summary": "“세균 득실득실” 간식 먹으면서 일하는 사람, 키보드 당장 닦아야&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ON082b21OVmsxZ3NTSWc0eDVTRVlyRGkxTDRCYXhndTlDbEJmYWVIZWhWVlBRdGhNVE9CeDh0WkUtM2NPOWVWeFZvb3dKemExX3M2RVg0WTF0bW0tbl9ha1NKenp3NFhCUkVzb2NtUFdpUXFjb0xuNXM0UmtQWWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94f52b4efa62",
+      "title": "머리 뽑고 피부 뜯는 반복행동 장애, 유전자에서 답 찾았다 - 바이오북미디어",
+      "published": "2026-08-26T03:01:37+00:00",
+      "summary": "머리 뽑고 피부 뜯는 반복행동 장애, 유전자에서 답 찾았다&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XNHI2aWZ2T1N6RnRrWF9DU3dTOGNkM1owbTlCYXJ6YnFsVl9jZjNybHJkQ3RJdVF6MXk0YXo4VjVra0ZFNXhhSjMxdGFzV3I0QjNLYQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "eb12bbd99fc5",
       "title": "\"나 헤르페스야\" 남친 성병 고백에…20대 여성 \"감염될까, 이별 고민\" - TV조선뉴스",
       "published": "2026-08-26T02:01:11+00:00",
-      "summary": "\"나 헤르페스야\" 남친 성병 고백에…20대 여성 \"감염될까, 이별 고민\"&nbsp;&nbsp;TV조선뉴스결혼 생각한 남친의 '성병' 고백…\"내가 병들어도 될 만큼 사랑하나, 고민\"&nbsp;&nbsp;뉴스1\"나도 걸릴 텐데\"...남친 '성병'에 이별 고민 - 머니투데이&nbsp;&nbsp;머니투데이\"어제까진 너무 사랑했는데\"…결혼 앞둔 남친 '성병 고백' 파혼이 답일까 [어떻게 생각하세요]&nbsp;&nbsp;파이낸셜뉴스헤르페스 2형 걸린 예비신랑... 결혼 앞두고 파혼 고민하는 20대 여성의 사연&nbsp;&nbsp;insight.co.kr",
+      "summary": "\"나 헤르페스야\" 남친 성병 고백에…20대 여성 \"감염될까, 이별 고민\"&nbsp;&nbsp;TV조선뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "TV조선뉴스",
@@ -102,18 +174,6 @@
       ]
     },
     {
-      "id": "ce9d7190c35c",
-      "title": "2차 심장 이식 후 3일 만에 50세 남성 죽음의 문턱에서 돌아오다 - Laodong.vn",
-      "published": "2026-08-25T12:37:04+00:00",
-      "summary": "2차 심장 이식 후 3일 만에 50세 남성 죽음의 문턱에서 돌아오다&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEZNdkZTck16dG9RQ0NQbFFkYjN3dkpSYjVkVUZUcnRqRVVMa0c2LTcwWWtzUHRRVmpJc252X3Q3YVU1T0RoRDJubU1ONUlxWDdJdTY0ajNnUWNCeVRLVDN1YXhQLXlPbE9fVzB3QmM0QkxmSFk4Q2d0R3h3cllLRXJGTURqY2taODVtN056bEgyTi1KbFBzZWoyUHpxSFFxSGRnNmhZZ0Q4X0l0RDF0LQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0c734ec4ac87",
       "title": "\"카페라테보다 많다\"… 의외로 당 많은 음료 4가지 - 하이닥",
       "published": "2026-08-25T11:00:00+00:00",
@@ -141,7 +201,7 @@
       "id": "eb239adfe01b",
       "title": "비타민D 하루 5,000IU 이상 먹으면… 경도인지장애 노인, 인지기능 점수 ↑ - 하이닥",
       "published": "2026-08-25T10:00:00+00:00",
-      "summary": "비타민D 하루 5,000IU 이상 먹으면… 경도인지장애 노인, 인지기능 점수 ↑&nbsp;&nbsp;하이닥“어머니가 갑자기 존댓말을 하시네요”…발병 초기라면 고용량 ‘이것’ 효능&nbsp;&nbsp;v.daum.net매일 챙겨먹는 ‘이 비타민’…기억력 떨어지는 사람에 뜻밖의 효과?&nbsp;&nbsp;매일경제치매 두려운 사람, 인지기능 향상하는 ‘이 영양소’ 꼭 먹어라&nbsp;&nbsp;헬스조선“하루 비타민D ‘이만큼’ 챙겨 먹었더니”…노인, 인지 능력 더 높았다&nbsp;&nbsp;코메디닷컴",
+      "summary": "비타민D 하루 5,000IU 이상 먹으면… 경도인지장애 노인, 인지기능 점수 ↑&nbsp;&nbsp;하이닥“어머니가 갑자기 존댓말을 하시네요”…발병 초기라면 고용량 ‘이것’ 효능&nbsp;&nbsp;v.daum.net치매 두려운 사람, 인지기능 향상하는 ‘이 영양소’ 꼭 먹어라&nbsp;&nbsp;헬스조선\"하루 비타민D '이만큼' 챙겨 먹었더니\"…노인, 인지 능력 더 높았다&nbsp;&nbsp;네이트매일 챙겨먹는 ‘이 비타민’…기억력 떨어지는 사람에 뜻밖의 효과?&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "하이닥",
@@ -150,14 +210,14 @@
       ]
     },
     {
-      "id": "e7332b383965",
-      "title": "\"환절기 감염병주의보…백신 접종이 최선\" - 네이트",
-      "published": "2026-08-25T09:12:00+00:00",
-      "summary": "\"환절기 감염병주의보…백신 접종이 최선\"&nbsp;&nbsp;네이트",
+      "id": "626db97bb806",
+      "title": "\"약도 없는데…\" 추석 해외여행 전 '이 백신' 필수 - 파이낸셜뉴스",
+      "published": "2026-08-25T09:11:03+00:00",
+      "summary": "\"약도 없는데…\" 추석 해외여행 전 '이 백신' 필수&nbsp;&nbsp;파이낸셜뉴스",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jX3YwWUlFVm84RFlzakU2bkZKWjhGVk01bUxlRkZtRmJhLVVEbDFNQ2lkbEdVWXNJUGQta3FlWlQ3RFBQTXhIdlNWMkN4c0lOSjFR?oc=5"
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZSjVsaXA5cVpxNjBreG81NmpfUEo4U1B6aG5HbGhVcGpud0lnQWlTdHRQSGVra3l0cTZMNDJFMDFCMTVEVnRpU052aV9ka21jT2ZnalhBMDM4Zw?oc=5"
         }
       ]
     },
@@ -194,18 +254,6 @@
         {
           "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9seW9YZC1WMk9WZlQ3LVhVcU9qZ1d3ZGJVdjN6dkxyakJRbHVEazAzUDVMNURUN05DZFZIeHJFS2pjQkNDUWNRTHAxbWRMREx4TS12Vw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c55f54abc13b",
-      "title": "[메디컬라이프 의학 심층보도] 2형 당뇨병 관리의 숨은 뇌관 ‘수면의 질’… 불면이 공복혈당과 혈당 변동성 폭발시킨다 - 유스연합",
-      "published": "2026-08-25T06:00:41+00:00",
-      "summary": "[메디컬라이프 의학 심층보도] 2형 당뇨병 관리의 숨은 뇌관 ‘수면의 질’… 불면이 공복혈당과 혈당 변동성 폭발시킨다&nbsp;&nbsp;유스연합Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90UFgxQ21GazItNmEyaXh4dDF2U2dKOHo0Yl9ReUFzaGRfRUVZcDJQUzJMbzdmLWNEV0pKeXRrVl9ON2RBcnFyZmZuUEtuMFgyOGc?oc=5"
         }
       ]
     },
@@ -258,18 +306,6 @@
       ]
     },
     {
-      "id": "6f3ef56a6b29",
-      "title": "마른 당뇨에서 비만 동반 당뇨로…GLP-1·CGM이 바꾼 ‘대사질환 통합관리’ - 바이오타임즈",
-      "published": "2026-08-25T02:05:46+00:00",
-      "summary": "마른 당뇨에서 비만 동반 당뇨로…GLP-1·CGM이 바꾼 ‘대사질환 통합관리’&nbsp;&nbsp;바이오타임즈“무심코 하는 행동, 당뇨 생긴다”… 의사가 경고한 생활습관 5가지&nbsp;&nbsp;코메디닷컴\"당뇨 전 단계가 이래도 되나?\"…매일 혈당 스파이크, 뭘 먹길래?&nbsp;&nbsp;네이트젊고, 증상 없어 안심하면 ‘큰일’ 20∼30대 당뇨병 주의 [건강+]&nbsp;&nbsp;v.daum.net“같은 당뇨, 다른 고민” 생활 속 혈당 관리법 찾아나선 환자들 [당 편한 세상]&nbsp;&nbsp;쿠키메디",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fU2ZmLWRkalBrbXNxNFRMRWVtN1ZDLWZ0d0QyZDNmaTB2eXBZZG4tMy0tMVVIaXVqTkVrX0Z5NWxjZm8wRWJDTjFpNXlsbnVnNzBURW1WZG5ZM3VlcWI3S1A4THpILTg3R1l6Vw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a804403bbe77",
       "title": "“계속 부정적인 생각만 납니다”…우울증 환자 질문에 뇌과학자들이 답했다 - 매일경제",
       "published": "2026-08-25T00:52:34+00:00",
@@ -278,18 +314,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IMVhHelZibTNBeW9DRzA2X1RVd01PS3UyWFVVRk1RUGNtZjZ6R2hjcXd5M3ZVcDEwY2htRmN0ZWxiRWJjdkEzWUJuX2dDZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6782d5455d33",
-      "title": "장 속 미생물에게도 좋은 밥상이 필요하다 [미생물로 풀어낸 세상] - 주간조선",
-      "published": "2026-08-24T23:10:20+00:00",
-      "summary": "장 속 미생물에게도 좋은 밥상이 필요하다 [미생물로 풀어낸 세상]&nbsp;&nbsp;주간조선식이섬유 먹으면 장이 ‘기억’한다…염증 막는 면역기전 발견&nbsp;&nbsp;헬스코리아뉴스섬유질이 부족한 식단은 장내 미생물군과 장내 보호막에 영향을 미칩니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "주간조선",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfQ0dVWVdnMUdXXzVjRm54ZjE3Q3pXNEN6MUI5SkphU3B4cjR4bTZJMUxoZWFqZDk4SzdudEdQc0xSQmo1bzhIUVdJZmlsV0V3SDFJMzJlOVFLemdUUTRMN09UVkNFVW9aU2fSAW5BVV95cUxNdm92RlBiRG5DZFpvNEIzZ182eFBVb1JhRTFJTWhWOUw3UGFnMjl6aFpCVDd4ejM1TGdOSHljR2tGbEpucUpKcU1rdkZCSkRzckg3WkZvQUliWDRoUnJ1RUFxZ2FCYWprb0ZBNnZsQQ?oc=5"
         }
       ]
     },
@@ -342,26 +366,26 @@
       ]
     },
     {
-      "id": "6ac3195c2558",
-      "title": "폐경기 증상, 안면홍조뿐?…기분 급변·건망증 놓치는 진료 현장 - DongA Science",
-      "published": "2026-08-24T21:00:00+00:00",
-      "summary": "폐경기 증상, 안면홍조뿐?…기분 급변·건망증 놓치는 진료 현장&nbsp;&nbsp;DongA Science",
+      "id": "2f432ee481be",
+      "title": "폐경기 증상, 안면홍조뿐?…기분 급변·건망증 놓치는 진료 현장 - v.daum.net",
+      "published": "2026-08-24T21:02:09+00:00",
+      "summary": "폐경기 증상, 안면홍조뿐?…기분 급변·건망증 놓치는 진료 현장&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBESnZEbGJFSXdBUWZOX0FmZTc1ZzlKWG43bTE2NUl4STlsMzBZTjVpYTVWelY1Wk5kOUM2T3hEOEZ5YU8xR01oTnZDUzBxT2tFc25ULQ?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6cWl0Z3ZsMVJtLUw3UGRiRGtNcDg4SkF2ZkFoZXRYOGs5bUo3WXc5LUctRnVCX241QmYyS1ZENUQxU1o0MXZvbjl0d2NZZFU?oc=5"
         }
       ]
     },
     {
-      "id": "c1d02f61a639",
-      "title": "“신장·뇌 동시에 망가뜨려”… 영양학자가 꼽은 ‘최악의 음식’, 뭐야? - 헬스조선",
-      "published": "2026-08-24T17:30:00+00:00",
-      "summary": "“신장·뇌 동시에 망가뜨려”… 영양학자가 꼽은 ‘최악의 음식’, 뭐야?&nbsp;&nbsp;헬스조선",
+      "id": "83ede25f8586",
+      "title": "오즈 “MMR 백신, 치명적 백신 아니다”…트럼프 ‘분리 접종’ 발언 진화 - 파이낸스투데이",
+      "published": "2026-08-24T15:17:00+00:00",
+      "summary": "오즈 “MMR 백신, 치명적 백신 아니다”…트럼프 ‘분리 접종’ 발언 진화&nbsp;&nbsp;파이낸스투데이“예방 가능한 비극”… 美 펜실베이니아주, 35년만에 홍역 사망자 발생&nbsp;&nbsp;전자신문미국에서는 2026년에 처음으로 홍역으로 인한 사망자가 발생했습니다.&nbsp;&nbsp;Vietnam.vn“백신이 자폐증 유발” 괴담의 정치학…美 보건정책 파고든 ‘백신 불신’ [불신 바이러스①]&nbsp;&nbsp;쿠키뉴스백신 흔드는 트럼프…홍역은 35년 만에 최다 [불신 바이러스②]&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tcWF0ZXBwQXN6Qm9FY1YwNmtZWlhGeTdZeTVkdXlIbGFPV1dTU1FBZ19zMVYxZXFEZXdNcEE4akIzOHBXb25MTzdSRlRGM0JndGxfY2JSUXRCWkNCeUUwckpfd3ZqcjdHMlF1NWV2V0ZOT3RLdGROWWVOTzNIRkU?oc=5"
+          "name": "파이낸스투데이",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtd0syVzJKOGZSdHJxMVA4LXRWWFBMVThGYlM1RzhCYy04VDFtSC03Zmh3V0pmellNelZoc2FqMkpsVzlvU2NiZ2xTQTZ5d2dNR1VCU0dyNVZodk1kUkVVdENsbm8ybFh1OFBlOA?oc=5"
         }
       ]
     },
@@ -378,30 +402,6 @@
       ]
     },
     {
-      "id": "576cf2684fae",
-      "title": "국산 ‘달 표면 우주방사선 측정기’ 가시화… \"내년 개발 완료\" - 파이낸셜뉴스",
-      "published": "2026-08-24T09:04:48+00:00",
-      "summary": "국산 ‘달 표면 우주방사선 측정기’ 가시화… \"내년 개발 완료\"&nbsp;&nbsp;파이낸셜뉴스",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tVS1JTmNmblBYUE1hWm81bmxMcHBKOS1tUlIzNm0wV3k4Uy1MOHZaYmE2bVlldVBFNzctc2MteHkxcWRBMnJFTUFPOGxXWnhFTzNnUkJiVHBXUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56e0bd61f595",
-      "title": "건국대병원 공동연구진, 당뇨병 관련 유전변이 작용 기전 규명 - 로이슈",
-      "published": "2026-08-24T08:16:57+00:00",
-      "summary": "건국대병원 공동연구진, 당뇨병 관련 유전변이 작용 기전 규명&nbsp;&nbsp;로이슈건국대병원 공동연구진, 당뇨병 위험 높이는 유전변이 기전 규명&nbsp;&nbsp;v.daum.net동아시아인 10% 보유한 당뇨 유전변이 작용 원리 확인&nbsp;&nbsp;병원신문당뇨병 위험 높이는 'PAX4 변이'…비만 때 더 취약&nbsp;&nbsp;메디파나뉴스건국대병원-KAIST·서울의대·서울대병원 공동연구진, 'PAX4 R192H 변이' 췌장 베타세포 정체성과 보상 능력 손상 사실 밝혀&nbsp;&nbsp;데일리메디팜",
-      "sources": [
-        {
-          "name": "로이슈",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PMG8yd2xKak9leTQwcm15c0xQWlR3MmNvNTc1RDh5VjNUTFFuQ2pDV0hDS1FyV3JNbkVTOWZlSE5tdGwwdTlYZ3U0ODhKV3p6VXFFQlhMV2pNa09hUTRhZTAzZExBUVl4R1RkRER1elRzRzc2bXMw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "24c261456a24",
       "title": "혼자 실험하고 새 이론 발견…상상 속 'AI 과학자' 현실로 - 한국경제",
       "published": "2026-08-24T07:06:29+00:00",
@@ -410,66 +410,6 @@
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SLUoxV1EtSFd0aVNmeU1OakdBNFF3czNUdHdkbkttZURiZ0E3el82NktmZ0p1UDFBRi1pWDdjcEFLOURVb2VXdHZTdnZjaGlFZzQ3VDc5R0REZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55addf07de47",
-      "title": "“혈우병B 치료핵심, 혈관 넘어 관절속 ‘혈관외 분포’와 맞춤형 예방요법” - 코리아헬스로그",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "“혈우병B 치료핵심, 혈관 넘어 관절속 ‘혈관외 분포’와 맞춤형 예방요법”&nbsp;&nbsp;코리아헬스로그",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdVdQNm4tTzE0RXdFdzdaeVFMSmxYN3hKSkxqMm1FWjJYdHc1bTRSX04xWHhrWmg0TUpyYUNjcUpUcjR5OHkzUWhYMFVLa3UxLTJYdmgzM09kcmFvZnU4UUd3ZDVKSExfMlFuMTN0M3dlZ9IBdkFVX3lxTE5wVk5CdVNpVnEwc21RLUU1bVVwb2FnRHd2a2NFT2JDWFpZVHFMWF95RFJianNHZG9SS3duZFFvVDRxalpsbWg4UkdmUFVpV3EybkEzUDc4VEZscmhMTzZsa0hucFR6cG95TGRnQWFxUmJLUWVoVGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0621e97f2ea6",
-      "title": "영국 전립선암 환자 60만 명, 8분마다 한 명씩 새로 진단됩니다 - 캐어유 뉴스",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "영국 전립선암 환자 60만 명, 8분마다 한 명씩 새로 진단됩니다&nbsp;&nbsp;캐어유 뉴스",
-      "sources": [
-        {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpNE9nUEhTWEI5eWZHZ3BBNXZtY1IxYlRoTVZCdjRyWWx6V2RldVVRalh5SHliYUIzU1cxckM4S1U2Tmd1cVQzSU1LeUR6dFdVNUtCZVN1Nlg5MmlPNWNYczViWWQ5UWsybEJWWEtR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ddd3de31120e",
-      "title": "고혈압인데 냉면 국물 다 마셨다고요? 나트륨 2618mg ‘폭탄’이었다 - 뉴스와",
-      "published": "2026-08-24T06:37:00+00:00",
-      "summary": "고혈압인데 냉면 국물 다 마셨다고요? 나트륨 2618mg ‘폭탄’이었다&nbsp;&nbsp;뉴스와",
-      "sources": [
-        {
-          "name": "뉴스와",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCOHk5V090M3VZUEpLYXlnZUhEZi1vNW13UDBzSThaVnFkZGJHN2w1V0NLNm44aFozYi02VkVLVmVaaWgzRHJad2JwYTJ6bklHY1dnR3hETnlqUWRURWUxVHFMdFYwOG5ocE5hVG5DdTRiQVRUUk9oYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a042277565e",
-      "title": "여성 심장마비, 가슴 통증만 기다리면 늦을 수 있다? - 조세일보",
-      "published": "2026-08-24T05:48:54+00:00",
-      "summary": "여성 심장마비, 가슴 통증만 기다리면 늦을 수 있다?&nbsp;&nbsp;조세일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xdk1Sc2luYXUyTWR4N1MwdFdpRVFrcXhNcjdQOUtyQl9od1UwOVFwRDIzaU4zWEdEUVJ4bkRId3BPbUhRbFFFczJqY1Nha3lJYXNwR3hFWFJhaG9BNzNLdjJ5ZWdBaWlkaVloc2g3N1VEbkVS?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "77075fc24ff2",
-      "title": "“걷기·체조보다 효과”…어르신들에 열풍 ‘이 운동’ 치매 위험 낮춘다 - 농민신문",
-      "published": "2026-08-24T05:10:11+00:00",
-      "summary": "“걷기·체조보다 효과”…어르신들에 열풍 ‘이 운동’ 치매 위험 낮춘다&nbsp;&nbsp;농민신문[영상] 주말마다 어르신들 ‘북적북적’…치매 위험 확 낮춘다는 운동, 걷기·체조 아니었다&nbsp;&nbsp;서울경제\"지옥철도 고역인데\"…출퇴근길 스트레스, 치매 위험까지 높인다?&nbsp;&nbsp;네이트취미로 하는 운동과 육체노동, 치매 위험 연관성 엇갈려…연구&nbsp;&nbsp;디지털투데이“그냥 걷기보다 이렇게 해야 한다”… 치매 예방에 주목받는 ‘의외의 운동’&nbsp;&nbsp;reportera.co.kr",
-      "sources": [
-        {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qZXdaZS1WM0phdklNSXVfQXgzSEFQOElnVVlfdlc4QlMyemhLOEcyYkhnaG4zN0lQdEotOVRYTWdacUZOc3BXQ1lTbllNWmJMaW9mZVJJcHpPdw?oc=5"
         }
       ]
     },
