@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-26T12:56:31.102435+00:00",
-  "total_fetched": 81,
-  "unique_count": 81,
-  "health_related_count": 37,
+  "fetched_at": "2026-08-26T19:48:48.900332+00:00",
+  "total_fetched": 86,
+  "unique_count": 86,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "484afe5037fd",
+      "title": "알츠하이머 악화 줄이는 ‘핵심 스위치’ 발견 - 동아일보",
+      "published": "2026-08-26T19:30:00+00:00",
+      "summary": "알츠하이머 악화 줄이는 ‘핵심 스위치’ 발견&nbsp;&nbsp;동아일보국내 연구진, 알츠하이머병 일으키는 핵심 이유 찾았다&nbsp;&nbsp;경향신문사람·원숭이에만 있는 DNA 조각에서 치매 유발 원인 찾았다&nbsp;&nbsp;v.daum.net정원석 IBS 혈관연구단 부단장, 알츠하이머 악화 핵심 조절 인자 규명&nbsp;&nbsp;뉴시스알츠하이머 악순환 키우는 핵심 인자 찾았다…새 치료 표적 기대&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBrb1RfY3BhNU9tbl8tajNhQ21WeGg0Q3BNY3A1Rmg0TXhjUE9lVElHQVBsQ3JkRlowcVNrMXpYRHRJSktZQlQyLXFaZ3hwMmZrclhSNkMyRkV6N2VEUnM0WElhODdiNDBTOUhBY1FiVGxIX29p0gFmQVVfeXFMT0c1NGxoNW9JdFZXRFdobnFPOEZVcGd2VUpRSGZ6emt2dWtDOEJqWjF4OXRNanJrbEprRWRGVnRwQlhYeDdOeDd2QzdCOWxlQXUyOF96OFNHZDhlRGRWT1pIZnhtOHZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c9c9100af36",
+      "title": "IBS 혈관 연구단, 알츠하이머 악순환 끊을 핵심 스위치 찾았다 - 전자신문",
+      "published": "2026-08-26T15:00:00+00:00",
+      "summary": "IBS 혈관 연구단, 알츠하이머 악순환 끊을 핵심 스위치 찾았다&nbsp;&nbsp;전자신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnRzE1QW9Nb2VETy1vMWhQcG9yU2Fpd3VLbS1NWkVRNDZqM2cxVVo1Sk5Jd3VxTXpON2w4SXBtUVFjelJFcTQ0RTFZWQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "8f2e0f2f0324",
       "title": "당뇨병 고위험군인데 “운동은 싫어”… 그럼 어떻게 해야 돼? - 코메디닷컴",
@@ -54,18 +78,6 @@
       ]
     },
     {
-      "id": "423af2a620ce",
-      "title": "매일 혈당 쟀는데 당뇨 판정... '공복혈당 정상'의 함정 - OhmyNews",
-      "published": "2026-08-26T05:00:00+00:00",
-      "summary": "매일 혈당 쟀는데 당뇨 판정... '공복혈당 정상'의 함정&nbsp;&nbsp;OhmyNews“당뇨병인 줄 알고 놀랐는데”… 공복혈당 갑자기 튄 이유 셋&nbsp;&nbsp;헬스조선[메디컬라이프 의학 심층보도] 2형 당뇨병 관리의 숨은 뇌관 ‘수면의 질’… 불면이 공복혈당과 혈당 변동성 폭발시킨다&nbsp;&nbsp;한국공공정책신문수면의 질 떨어지면 공복혈당 상승&nbsp;&nbsp;메디칼트리뷴공복혈당 높아 걱정이라면, 잠부터 푹 자라&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "OhmyNews",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pNllvYjNsdXVDVi1PTnd2ZWZxVjdEMGE0amxIVmFXdXBDX1dVcHBVemctV1oxemJRWWZOT3E2eklDZzlFVmdRUTFDbEdYM2pBS2RhTUF4TzNPNzJTMG16Y3Vsak1pZUhGbFlLNGpUVnlTb0hIT1Yw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0a6d580dc330",
       "title": "[문상윤의 건강한 식품이야기] ③장(腸)의 시대, 유산균의 과학 - 프레시안",
       "published": "2026-08-26T04:35:26+00:00",
@@ -90,6 +102,18 @@
       ]
     },
     {
+      "id": "48215d2d9aa5",
+      "title": "호치민시, 여러 종류의 바이러스로 인한 이비인후과 질환 증가 - Laodong.vn",
+      "published": "2026-08-26T04:00:00+00:00",
+      "summary": "호치민시, 여러 종류의 바이러스로 인한 이비인후과 질환 증가&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTVBYTm43Z3ViTkRwNlVFZXdYb3plM2MxUVRsNkY2NFJwSVMzbC1HbXVOb2J1Tm1QcjNzcWhnTllKanhMZV9CNVhvNGJhQnV2R2xtWW1ZVnBmd0RNcHpySUU1ZTcta3VTcHVJUGZtS0dCOUx3WjJfSFl0VTJaaTRZUVBCMFQySkZUV0xHZ0JLTWV0RjlNRjRfaU40OA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "94f52b4efa62",
       "title": "머리 뽑고 피부 뜯는 반복행동 장애, 유전자에서 답 찾았다 - 바이오북미디어",
       "published": "2026-08-26T03:01:37+00:00",
@@ -98,18 +122,6 @@
         {
           "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XNHI2aWZ2T1N6RnRrWF9DU3dTOGNkM1owbTlCYXJ6YnFsVl9jZjNybHJkQ3RJdVF6MXk0YXo4VjVra0ZFNXhhSjMxdGFzV3I0QjNLYQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb12bbd99fc5",
-      "title": "\"나 헤르페스야\" 남친 성병 고백에…20대 여성 \"감염될까, 이별 고민\" - TV조선뉴스",
-      "published": "2026-08-26T02:01:11+00:00",
-      "summary": "\"나 헤르페스야\" 남친 성병 고백에…20대 여성 \"감염될까, 이별 고민\"&nbsp;&nbsp;TV조선뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "TV조선뉴스",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXTEZGRVJQSUFUOGhMM0xHSVpjcHE5S2dPSlM5ZzdTX0p4bUdDZld4UUwtRFR6RnQ1V2JaUXpUc0d5YktZVG1KTnRGLU1yajFxUHZJMjJPM1BpQmt0ZmlWM2g0TWRwQTZsdUFSMlcwRTlsTUpqdEZ1TzRUV0xSUFk?oc=5"
         }
       ]
     },
@@ -126,6 +138,18 @@
       ]
     },
     {
+      "id": "31750d5cda99",
+      "title": "온주 호흡기 바이러스 시즌 온다 - 캐나다 한국일보",
+      "published": "2026-08-26T00:57:00+00:00",
+      "summary": "온주 호흡기 바이러스 시즌 온다&nbsp;&nbsp;캐나다 한국일보",
+      "sources": [
+        {
+          "name": "캐나다 한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUMVlHYnpDbko4MFE2OElOQ3ZFNG9QM09KMFp2TWNpRVVaS3VyVjlFMENlNkRFZ2NsQnFab1Y5UnF5THo0TWh1RTFHNnNycGwxSzNFRWVVNk9WRnJnMVlRUXFUUncwZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1be5cb2e2ed4",
       "title": "당뇨병 진단 후 3개월 내 약물 치료, 사망 위험 69% 감소 - 네이트",
       "published": "2026-08-26T00:23:00+00:00",
@@ -134,6 +158,18 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12NWlvN0c0MEctZEU0MzNic3RvQzRrUXhmZ0tKSUdXSUZ3NFRHM1VSSWE1WkZ2UmI5ZUhBdFdwOTZRYkt5dzJTTUpwRVo0X2FyWGRWWW9nVG55b2JVUFBrdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5dd6d880137",
+      "title": "김설향 교수의 건강하게 오래 살기 - 미주한국일보",
+      "published": "2026-08-25T23:01:34+00:00",
+      "summary": "김설향 교수의 건강하게 오래 살기&nbsp;&nbsp;미주한국일보",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uZVJPTzhJZXNkN3piRWpmQjItQ1ducDAwUHk4RzRvTjg0QXVaY18wa05kaDg1YkgwVG9jR1V2LWltYTVOUy1MaURPMXh5dDBpZXRMZU1hSXg5M3AyeEJZ?oc=5"
         }
       ]
     },
@@ -165,7 +201,7 @@
       "id": "5ffea081da53",
       "title": "'남가주엔 모기 없다'는 말도 옛말...OC 3곳 심야 방역 - RadioKorea",
       "published": "2026-08-25T12:56:00+00:00",
-      "summary": "'남가주엔 모기 없다'는 말도 옛말...OC 3곳 심야 방역&nbsp;&nbsp;RadioKoreaLA카운티 올해 첫 웨스트나일 사망…가주 감염 5년래 최다&nbsp;&nbsp;미주중앙일보웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역&nbsp;&nbsp;RadioKoreaLA 카운티, 올해 첫 웨스트나일 바이러스 감염자 사망&nbsp;&nbsp;RadioKorea",
+      "summary": "'남가주엔 모기 없다'는 말도 옛말...OC 3곳 심야 방역&nbsp;&nbsp;RadioKoreaLA카운티 올해 첫 웨스트나일 사망…가주 감염 5년래 최다&nbsp;&nbsp;미주중앙일보웨스트나일 바이러스 확산 우려…OC 일부 지역 모기 방역&nbsp;&nbsp;RadioKorea",
       "sources": [
         {
           "name": "RadioKorea",
@@ -174,10 +210,22 @@
       ]
     },
     {
+      "id": "647f2c26bd66",
+      "title": "NASA의 계산 착오?…우주복서 샌 미생물, 달에서 생존할 수 있다 [후암동 논문 연구소] - v.daum.net",
+      "published": "2026-08-25T11:12:16+00:00",
+      "summary": "NASA의 계산 착오?…우주복서 샌 미생물, 달에서 생존할 수 있다 [후암동 논문 연구소]&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2empudkRkR0o5U3FnS0RyTEhmaDJfeHVUQmFYSmhNQ3g2VzE2Uk5sSEdpZ29zcUd3cHZWUlNjMUVJUmU5cGhKMWpVN0M5T2M?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0c734ec4ac87",
       "title": "\"카페라테보다 많다\"… 의외로 당 많은 음료 4가지 - 하이닥",
       "published": "2026-08-25T11:00:00+00:00",
-      "summary": "\"카페라테보다 많다\"… 의외로 당 많은 음료 4가지&nbsp;&nbsp;하이닥위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’[나우,어스]&nbsp;&nbsp;헤럴드경제콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보\"하루 한잔 괜찮겠지\"...설탕 범벅 음료, '위암' 확률 2배 높인다&nbsp;&nbsp;v.daum.net“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선",
+      "summary": "\"카페라테보다 많다\"… 의외로 당 많은 음료 4가지&nbsp;&nbsp;하이닥위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’[나우,어스]&nbsp;&nbsp;헤럴드경제콜라 등 가당 음료 매일 마시면…위암 위험 2.5배 높아 [노화설계]&nbsp;&nbsp;동아일보“설탕 퍼먹는 셈” 심장에 부담 주는 의외의 음료, 뭐야?&nbsp;&nbsp;헬스조선매일 마시는 단 음료, 위암 위험 최대 3배 높인다&nbsp;&nbsp;프리진경제",
       "sources": [
         {
           "name": "하이닥",
@@ -234,6 +282,18 @@
       ]
     },
     {
+      "id": "ad5bed8b13db",
+      "title": "스페이스X·엔비디아, 우주용 ‘베라 루빈’ 개발…2027년 궤도 투입 - AI타임스",
+      "published": "2026-08-25T08:36:07+00:00",
+      "summary": "스페이스X·엔비디아, 우주용 ‘베라 루빈’ 개발…2027년 궤도 투입&nbsp;&nbsp;AI타임스",
+      "sources": [
+        {
+          "name": "AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBic3JDY3FuNnhGTTdMeFJhTFBRZlBkMk1Edk80SWN2LXZ0V21ub1BuZ3dCemsyQ25EeFZhOUhUR3c4dUQ2NDJBUnF3V3g4b3lybTBsUTZkelc2bEt3dTRNYmVqNk9ISk1Ob0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d5400c078a18",
       "title": "위성곤 공약 ‘제주과학기술원’ 빨간불 켜지나 - 제주의소리",
       "published": "2026-08-25T07:14:38+00:00",
@@ -254,6 +314,18 @@
         {
           "name": "바이오북미디어",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9seW9YZC1WMk9WZlQ3LVhVcU9qZ1d3ZGJVdjN6dkxyakJRbHVEazAzUDVMNURUN05DZFZIeHJFS2pjQkNDUWNRTHAxbWRMREx4TS12Vw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c55f54abc13b",
+      "title": "[메디컬라이프 의학 심층보도] 2형 당뇨병 관리의 숨은 뇌관 ‘수면의 질’… 불면이 공복혈당과 혈당 변동성 폭발시킨다 - 유스연합",
+      "published": "2026-08-25T06:00:41+00:00",
+      "summary": "[메디컬라이프 의학 심층보도] 2형 당뇨병 관리의 숨은 뇌관 ‘수면의 질’… 불면이 공복혈당과 혈당 변동성 폭발시킨다&nbsp;&nbsp;유스연합Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90UFgxQ21GazItNmEyaXh4dDF2U2dKOHo0Yl9ReUFzaGRfRUVZcDJQUzJMbzdmLWNEV0pKeXRrVl9ON2RBcnFyZmZuUEtuMFgyOGc?oc=5"
         }
       ]
     },
@@ -285,7 +357,7 @@
       "id": "ff43751f62b7",
       "title": "모기도 사람을 가려 문다…美연구진 모기 3종 비교연구 - 에포크타임스",
       "published": "2026-08-25T02:18:29+00:00",
-      "summary": "모기도 사람을 가려 문다…美연구진 모기 3종 비교연구&nbsp;&nbsp;에포크타임스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "모기도 사람을 가려 문다…美연구진 모기 3종 비교연구&nbsp;&nbsp;에포크타임스미국, 영리한 모기…진화하는 생존 전략&nbsp;&nbsp;KBS 뉴스구글이 美 캘리포니아·플로리다에 ‘모기’ 3200만 마리 푸는 이유&nbsp;&nbsp;insight.co.kr[지구칼럼] 인류를 가장 많이 죽이는 동물의 순위…모기>뱀>개>기생충>전갈 順 \"이빨·발톱이 아니라 매개체\"&nbsp;&nbsp;뉴스스페이스",
       "sources": [
         {
           "name": "에포크타임스",
@@ -362,42 +434,6 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IdmpOZ3g0T21qSlc4MWx1R2ExNjlEWmRzX3VCQ0lnZUVlVHg2NkFFb2tOR1ZNaVJuQ1RabUJkS2h4Qk9TWXJoQk9XNUdkOS1vUDR3Q3R1RnZNcnRXRWh6ZF85YmVZVVlVSnI4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f432ee481be",
-      "title": "폐경기 증상, 안면홍조뿐?…기분 급변·건망증 놓치는 진료 현장 - v.daum.net",
-      "published": "2026-08-24T21:02:09+00:00",
-      "summary": "폐경기 증상, 안면홍조뿐?…기분 급변·건망증 놓치는 진료 현장&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6cWl0Z3ZsMVJtLUw3UGRiRGtNcDg4SkF2ZkFoZXRYOGs5bUo3WXc5LUctRnVCX241QmYyS1ZENUQxU1o0MXZvbjl0d2NZZFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83ede25f8586",
-      "title": "오즈 “MMR 백신, 치명적 백신 아니다”…트럼프 ‘분리 접종’ 발언 진화 - 파이낸스투데이",
-      "published": "2026-08-24T15:17:00+00:00",
-      "summary": "오즈 “MMR 백신, 치명적 백신 아니다”…트럼프 ‘분리 접종’ 발언 진화&nbsp;&nbsp;파이낸스투데이“예방 가능한 비극”… 美 펜실베이니아주, 35년만에 홍역 사망자 발생&nbsp;&nbsp;전자신문미국에서는 2026년에 처음으로 홍역으로 인한 사망자가 발생했습니다.&nbsp;&nbsp;Vietnam.vn“백신이 자폐증 유발” 괴담의 정치학…美 보건정책 파고든 ‘백신 불신’ [불신 바이러스①]&nbsp;&nbsp;쿠키뉴스백신 흔드는 트럼프…홍역은 35년 만에 최다 [불신 바이러스②]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "파이낸스투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtd0syVzJKOGZSdHJxMVA4LXRWWFBMVThGYlM1RzhCYy04VDFtSC03Zmh3V0pmellNelZoc2FqMkpsVzlvU2NiZ2xTQTZ5d2dNR1VCU0dyNVZodk1kUkVVdENsbm8ybFh1OFBlOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "72c9867eb02c",
-      "title": "밥 흘리면서 먹는 사람, 뭐가 문제일까 - 헬스조선",
-      "published": "2026-08-24T12:30:00+00:00",
-      "summary": "밥 흘리면서 먹는 사람, 뭐가 문제일까&nbsp;&nbsp;헬스조선음식 삼킨 뒤 “아∼”… AI가 2초 만에 ‘흡인 위험’ 찾아낸다&nbsp;&nbsp;v.daum.net[김연정 박사의 초고령사회 기획 연재 ②] 씹고 삼키는 능력의 변화, 어떻게 발견할 것인가(Detecting Changes in Chewing and Swallowing Abilities in Older Aduits)&nbsp;&nbsp;글로벌휴먼타임즈분당서울대병원 재활의학과 류주석 교수 연구팀, 먹고 나서 2초만 ‘아~’ 하면, AI가 흡인(사레) 위험군 찾아낸다&nbsp;&nbsp;로컬세계잦은 사레에 식후 기침…‘연하장애’ 신호?&nbsp;&nbsp;헬스경향",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rZl80Yndtb2h0Y3A2aHYtWWZmdlM5aDR2T3VRNXB0WmNCWVNOMExFcTRxdl9IRlNqY3Qxa3ByM3MwWG5BRTEyX1RCbG9Pb0NLLVlnQXQ1TkFsdnJDWVhrbUNBVDVIb2pIV2N1OGhKZjRZc0NuYWd1eUJpYzhqbmc?oc=5"
         }
       ]
     },
