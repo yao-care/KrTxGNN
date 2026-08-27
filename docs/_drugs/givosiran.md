@@ -2,7 +2,7 @@
 layout: default
 title: Givosiran
 parent: 僅模型預測 (L5)
-nav_order: 264
+nav_order: 278
 evidence_level: L5
 indication_count: 10
 ---

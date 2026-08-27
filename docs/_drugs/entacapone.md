@@ -2,7 +2,7 @@
 layout: default
 title: Entacapone
 parent: 僅模型預測 (L5)
-nav_order: 246
+nav_order: 260
 evidence_level: L5
 indication_count: 10
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Clomifene
 parent: 僅模型預測 (L5)
-nav_order: 179
+nav_order: 193
 evidence_level: L5
 indication_count: 10
 ---

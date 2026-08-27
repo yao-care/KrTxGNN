@@ -2,7 +2,7 @@
 layout: default
 title: Doripenem
 parent: 僅模型預測 (L5)
-nav_order: 230
+nav_order: 244
 evidence_level: L5
 indication_count: 10
 ---

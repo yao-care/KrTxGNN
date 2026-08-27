@@ -2,7 +2,7 @@
 layout: default
 title: Etodolac
 parent: 僅模型預測 (L5)
-nav_order: 259
+nav_order: 273
 evidence_level: L5
 indication_count: 10
 ---

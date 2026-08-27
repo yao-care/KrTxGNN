@@ -2,7 +2,7 @@
 layout: default
 title: Edaravone
 parent: 僅模型預測 (L5)
-nav_order: 239
+nav_order: 253
 evidence_level: L5
 indication_count: 2
 ---

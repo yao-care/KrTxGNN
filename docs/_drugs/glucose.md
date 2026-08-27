@@ -2,7 +2,7 @@
 layout: default
 title: Glucose
 parent: 僅模型預測 (L5)
-nav_order: 272
+nav_order: 286
 evidence_level: L5
 indication_count: 0
 ---
