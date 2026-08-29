@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-28T21:52:58.091256+00:00",
-  "total_fetched": 133,
-  "unique_count": 131,
-  "health_related_count": 59,
+  "fetched_at": "2026-08-29T06:17:45.211429+00:00",
+  "total_fetched": 138,
+  "unique_count": 136,
+  "health_related_count": 60,
   "news": [
+    {
+      "id": "c090b58f9370",
+      "title": "대장암 위험 줄이려면 섬유질 섭취 늘려야…어떤 음식 먹어야 좋을까? - 코메디닷컴",
+      "published": "2026-08-29T02:05:00+00:00",
+      "summary": "대장암 위험 줄이려면 섬유질 섭취 늘려야…어떤 음식 먹어야 좋을까?&nbsp;&nbsp;코메디닷컴Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9IY1JRakNTTzJ5YmptTUllNUdQd2FvZ0JsVE5saWRjX21ZaWl2Tmdiek03eVg0V0RoNXNOY0NiaHN1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fd2d3941c48a",
+      "title": "'건강 치트키' 키위는 껍질째 먹어도 될까[이설의 한입 스토리] - 네이트",
+      "published": "2026-08-29T01:01:00+00:00",
+      "summary": "'건강 치트키' 키위는 껍질째 먹어도 될까[이설의 한입 스토리]&nbsp;&nbsp;네이트‘건강 치트키’ 키위는 껍질째 먹어도 될까[이설의 한입 스토리]&nbsp;&nbsp;동아일보“깨끗이 씻으면 괜찮아” 대성이 ‘껍질째’ 먹는다는 과일… 뭘까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFT2laZWxwb0NfTlJ4WHJDOUhwSzUzMlFVY25tMmZrYlNXb0V5YklDWk13R2ZBMzB4UWpfRm9aTHFZUTVvd0oyWUJqZUNweXJWOUVv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f9c93a81207",
+      "title": "“목소리 잃을 뻔” 박소담·엄정화도 앓았다…스타 괴롭힌 ‘이 암’ [헬스타클럽] - 매일경제",
+      "published": "2026-08-29T00:30:00+00:00",
+      "summary": "“목소리 잃을 뻔” 박소담·엄정화도 앓았다…스타 괴롭힌 ‘이 암’ [헬스타클럽]&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXM0ZrWW9TX0xSWDdDOHVTTWI2S1hBbGd0QkpBNmMzT1pBb2dCclJZWjZDS0xhN0s4aU5adFVnVGhDSkJUZjdvX19WSHlFRV91aFV4WA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "791a7d5faf2d",
+      "title": "땀 안 흘려도 '벌크업'?…누워서 맞는 '운동 근육' 나온다[클릭, 글로벌 제약·바... - 팜이데일리",
+      "published": "2026-08-29T00:08:19+00:00",
+      "summary": "땀 안 흘려도 '벌크업'?…누워서 맞는 '운동 근육' 나온다[클릭, 글로벌 제약·바...&nbsp;&nbsp;팜이데일리Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "팜이데일리",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oMl9kVGhfSnduRUZ5MFNoZXBCZFFsRHZGTGtCREx4azRSYXNneTFuVVp0UGlrLWhPVnpXVks4dnNZZ1FPbzJWcV83dFBPeHlxSWF2eDlJTjdwdWV5dkRhS0YwSmNJczc0SlpWSHBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0253e359174",
+      "title": "[문상윤의 건강한 식품이야기] ⑥커피, 약인가 독인가 - 프레시안",
+      "published": "2026-08-28T13:57:06+00:00",
+      "summary": "[문상윤의 건강한 식품이야기] ⑥커피, 약인가 독인가&nbsp;&nbsp;프레시안커피 ‘이때’ 마시면, 혈당·콜레스테롤 관리에 이득&nbsp;&nbsp;헬스조선매일 커피 ‘이만큼’ 마신 사람, 체지방 적고 골격근량 많았다&nbsp;&nbsp;하이닥[닥터 G의 내몸상식] 매일 마신 아메리카노 심장은 안다&nbsp;&nbsp;뉴스클레임(건강 돋보기) 커피를 하루 4잔 정도 마셨더니… 뜻밖에 심부전 위험 ‘뚝’&nbsp;&nbsp;뉴스에이",
+      "sources": [
+        {
+          "name": "프레시안",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWUmJqbVpJRGZobFcwVTNHbzctdDNwbENDUDNmblZTY2FRRGpybk52dEk4S3RDWC1IM21jWGJidHBFUVFfVXprQ3Z6M0w3NVQtZHR6S1J6RllTUFRsYmhkekJwRUJiVm9ZNHI4?oc=5"
+        }
+      ]
+    },
     {
       "id": "32a2539512cd",
       "title": "[메디컬 인사이트 151회] 면역력이 무너지면 찾아오는 질병 '대상포진' - 네이트",
@@ -14,18 +74,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DOHN2Yk1VQzljcHJ3dFdXQ0FPWEtZWmk3cVE5Z2dfMnRKZl90a0xDRU56LU1QZGl3cjJjdWZwQkpVLXJSdEFHSklYUGJ1ZzFKV2w5YzJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea4ed25f53ee",
-      "title": "과학자 한 명 위해 국가 1급 박물관···中 '과학굴기' 진짜 힘 [현장] 사후에도 최고 예우···'우주개발 아버지' 첸쉐썬 - 헬로디디",
-      "published": "2026-08-28T10:55:01+00:00",
-      "summary": "과학자 한 명 위해 국가 1급 박물관···中 '과학굴기' 진짜 힘 [현장] 사후에도 최고 예우···'우주개발 아버지' 첸쉐썬&nbsp;&nbsp;헬로디디",
-      "sources": [
-        {
-          "name": "헬로디디",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83QkRIUlFpODBRcUtiOEVVYU1yZVRodHk1bjFMLUZPNXExZnVmNEZGWEd3Z0hQTW1acmlIT2lzQ0lhNVlwY2R5LURHbjJvaGkxanYzNEJUaDNFVHpBRlpnWUlGZ2M4elN6blE?oc=5"
         }
       ]
     },
@@ -42,14 +90,14 @@
       ]
     },
     {
-      "id": "1bb8d6046d36",
-      "title": "지구 궤도, 의약품 공장으로…'우주 바이오제조' 꿈 커진다 - DongA Science",
-      "published": "2026-08-28T08:45:00+00:00",
-      "summary": "지구 궤도, 의약품 공장으로…'우주 바이오제조' 꿈 커진다&nbsp;&nbsp;DongA Science",
+      "id": "2dcbe2178a35",
+      "title": "지구 궤도, 의약품 공장으로…'우주 바이오제조' 꿈 커진다 - v.daum.net",
+      "published": "2026-08-28T08:47:00+00:00",
+      "summary": "지구 궤도, 의약품 공장으로…'우주 바이오제조' 꿈 커진다&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MSngyUkZIV09vTWZHeHhuSVpUUzVSNlNyNXp0eXNPWHNDQkt3eURTTkt1bmxadlFkODhkNWhjMXl2UkRrZVJMUUpEZDVVTFpySC16Mg?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FeUN3SS1GYkR6YklKWkVib21LbDZjMGIzcXN6NmpFWFJiZ3B4NmpKYTVoelNITUQtdG15REFBVEdKa0hkZkJzUThXWmFyZkU?oc=5"
         }
       ]
     },
@@ -69,7 +117,7 @@
       "id": "3131e6f3101d",
       "title": "감기 비슷한데 폐렴, 사망까지…RSV 백신, 가을 유행 전에 맞아야 [건강한겨레] - 한겨레",
       "published": "2026-08-28T07:30:00+00:00",
-      "summary": "감기 비슷한데 폐렴, 사망까지…RSV 백신, 가을 유행 전에 맞아야 [건강한겨레]&nbsp;&nbsp;한겨레베이포투스 도입 후 영아 RSV 입원 25% 감소… “NIP 논의 필요”&nbsp;&nbsp;동아일보RSV 예방접종 국가 지원, 경제성 있을까&nbsp;&nbsp;아시아경제한국화이자, 국내 백신 사업 확대에 속도…RSV·폐렴구균 ‘NIP 기회’ 열릴까&nbsp;&nbsp;더바이오RSV - 1세 미만 어린이에게 조용한 위협: 새로운 예방 접근법.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "감기 비슷한데 폐렴, 사망까지…RSV 백신, 가을 유행 전에 맞아야 [건강한겨레]&nbsp;&nbsp;한겨레폐렴 위험 높이는 ‘RSV’…고령층·기저질환자 예방접종 중요 [e건강~쏙]&nbsp;&nbsp;v.daum.net베이포투스 도입 후 영아 RSV 입원 25% 감소… “NIP 논의 필요”&nbsp;&nbsp;동아일보한국화이자, 국내 백신 사업 확대에 속도…RSV·폐렴구균 ‘NIP 기회’ 열릴까&nbsp;&nbsp;더바이오RSV 예방접종 국가 지원, 경제성 있을까&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "한겨레",
@@ -138,6 +186,18 @@
       ]
     },
     {
+      "id": "7580d8a63785",
+      "title": "초등생·중학생의 이토록 ‘기특한 아이디어’···약자 돕는 현관문 고정장치·휠체어 안장 발명 - 경향신문",
+      "published": "2026-08-28T03:54:00+00:00",
+      "summary": "초등생·중학생의 이토록 ‘기특한 아이디어’···약자 돕는 현관문 고정장치·휠체어 안장 발명&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Eb21sNzY3SXZwYUdYTVJvUDhDa3Q3UkFhdjJFMzQ5WkZ1bDJpX1k4WVVKdi1ub1E0d2lnV04zMjJHdzFCNXNRZ2RjSTY5WVgtOHFZM3dXXzRvQdIBX0FVX3lxTE40bGtNVWtMc0xkdHI5N1RUdjJfOWs2QUNhQUtXS3Z6RTQzeEtGeXYtYjd2eW5CcER6Nll1UWhyWHVfU3Y0UFJjSy1SbDNpRlUzaHpzaGhHVzEzcXpQUWNJ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "148cb9b95b7c",
       "title": "당뇨병 환자, 쓰는 약 따라 치매 위험 달랐다 - 헬스조선",
       "published": "2026-08-28T01:15:00+00:00",
@@ -153,7 +213,7 @@
       "id": "6a5356ba6333",
       "title": "대상포진 백신 맞았는데 뇌졸중 위험 줄었다고? - 매일경제",
       "published": "2026-08-28T00:50:09+00:00",
-      "summary": "대상포진 백신 맞았는데 뇌졸중 위험 줄었다고?&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "대상포진 백신 맞았는데 뇌졸중 위험 줄었다고?&nbsp;&nbsp;매일경제대상포진 백신 맞았더니 심혈관질환 위험 줄었다&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "매일경제",
@@ -165,7 +225,7 @@
       "id": "d20afe673704",
       "title": "[칼럼] 조기 발견 어렵고 생존율 낮은 췌장암 - 메드월드뉴스",
       "published": "2026-08-28T00:22:46+00:00",
-      "summary": "[칼럼] 조기 발견 어렵고 생존율 낮은 췌장암&nbsp;&nbsp;메드월드뉴스\"소화불량인 줄 알았는데 췌장암?\"…췌장이 보내는 신호는? [헬스톡]&nbsp;&nbsp;v.daum.net고난도 췌장암 환자에 담즙길 열고 초음파 시술로 암 제거&nbsp;&nbsp;한국경제췌장암, 발견 때 70~80% 수술 어려워…선행항암으로 기회 넓힌다&nbsp;&nbsp;네이트“약 먹어도 소화불량 2주 넘게 그대로? 췌장 검사하라”[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보",
+      "summary": "[칼럼] 조기 발견 어렵고 생존율 낮은 췌장암&nbsp;&nbsp;메드월드뉴스\"갑자기 왜 이렇게 입맛이 없지\" 대수롭지 않게 넘겼는데…암 신호일 수도 [콕!건강]&nbsp;&nbsp;v.daum.net“약 먹어도 소화불량 2주 넘게 그대로? 췌장 검사하라”[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보고난도 췌장암 환자에 담즙길 열고 초음파 시술로 암 제거&nbsp;&nbsp;한국경제\"소화불량인 줄 알았는데 췌장암?\"…췌장이 보내는 신호는? [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -198,18 +258,6 @@
       ]
     },
     {
-      "id": "293e7cb900a4",
-      "title": "\"초기 증상 없는 만성콩팥병, 당뇨병·고혈압 있다면 정기검진이 답\" [Weekend 헬스] - 파이낸셜뉴스",
-      "published": "2026-08-27T19:00:00+00:00",
-      "summary": "\"초기 증상 없는 만성콩팥병, 당뇨병·고혈압 있다면 정기검진이 답\" [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qdWRDUVFIdDRvUXlvdEctc0NUWFdidXhTME1ORjc4cE9uZVNrWktEcWNwNGhKNDdVNUZIaWpSRE9HV0NKSlZhaUF1Qmg4RGkwTnJwVmhR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a16d0b38ab57",
       "title": "산성비 때문만은 아니었다…빗방울에 생긴 정전기 탓에 금속에 부식 발생할 수도 [후암동 논문 연구소] - v.daum.net",
       "published": "2026-08-27T11:11:53+00:00",
@@ -218,30 +266,6 @@
         {
           "name": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YazQxdGQzbTJwRDcycjNaRS1GcThkN3FBbzhsUWI3MWtaMHE2dlZYeE9jT2JRZHE1VmliWHF4bnBqYkRZV1pUcy1jelJzZnM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c3f321480af",
-      "title": "[커피·음료 트렌드] 커피도 ‘언제’ 마시느냐 중요… 모닝커피 즐기는 사람, 대사증후군 가능성 20% 낮아 外 - ibabynews.com",
-      "published": "2026-08-27T10:13:28+00:00",
-      "summary": "[커피·음료 트렌드] 커피도 ‘언제’ 마시느냐 중요… 모닝커피 즐기는 사람, 대사증후군 가능성 20% 낮아 外&nbsp;&nbsp;ibabynews.com커피 ‘이때’ 마시면, 혈당·콜레스테롤 관리에 이득&nbsp;&nbsp;헬스조선매일 커피 ‘이만큼’ 마신 사람, 체지방 적고 골격근량 많았다&nbsp;&nbsp;하이닥[닥터 G의 내몸상식] 매일 마신 아메리카노 심장은 안다&nbsp;&nbsp;뉴스클레임[빅테크칼럼] “커피 5잔이면 뱃살 쏙?” 커피효과의 진실…핀란드 46세 2264명의 숫자가 말해주는 것&nbsp;&nbsp;뉴스스페이스",
-      "sources": [
-        {
-          "name": "ibabynews.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94bGJ0WF9hWUpRaFZtZ2V6UDBoamptV3l1cW5tQTNKS2taUGw5UzNrOE9yMzZPMVZzaGhKRmtWOFZBcE5FQi1DWDdnT1llNjlwY2hVUEVVUEZoQnFSR0ZYbUV0RVV2alNCay14NQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "898f8300cd1b",
-      "title": "당뇨병 환자를 위한 피부 예방 및 관리 방법 - Laodong.vn",
-      "published": "2026-08-27T09:00:00+00:00",
-      "summary": "당뇨병 환자를 위한 피부 예방 및 관리 방법&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHJXY0xrVnkxZ2otUzZjX290dXkzajdDV3FTaFFGdU5WNGhHNWRWYzhJdGJhMTFnOGNHcDEtdEl5YnVpZ0dGc0k2Wmo5NzZsVkhWTUtxUlNCUWJ0b3VGLUNmVF9RcENIU25QWFlzclBVbEVlYktsY1ljS25GS1JYRG1CaHI2Y0tGTHA0eE52OWk1R1piaFJMQVBYazJXQQ?oc=5"
         }
       ]
     },
@@ -258,6 +282,18 @@
       ]
     },
     {
+      "id": "ab335ba4759c",
+      "title": "연세대, 소변서 암 신호 동시 측정 기술 개발 - 네이트",
+      "published": "2026-08-27T07:59:00+00:00",
+      "summary": "연세대, 소변서 암 신호 동시 측정 기술 개발&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPM2NUX1VMT1BiYlNhc2M0M25aY2FJaHFpclBRTDlIRzJUTWpkcTNoR2ktUGhBTmMyS0NWU0ZuVnR1NFhtazZvYlFBVUEzc0otZkpZ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cd9b8b514b0e",
       "title": "뎅기열 증가, 호치민시 전염병 발생 위험 경고 - Laodong.vn",
       "published": "2026-08-27T07:13:30+00:00",
@@ -266,6 +302,18 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTJJRmZTZHJyX09ZX0JIbUIzQVJJZFdETlpvVno3dmhTYWp1d2ZGeGxNcFYtYXZxN3JJOWhCbEZsVWI3NUF5d1ViVGV3SDRrY0Z3djdaRXdEUWR2dlhjYk5lWXBVV2FqUkY0eGVLZ3FVb2tqZmV4WU5vb0JiUnNMN0haejAzNnBsUDZFUjlvcVlyNWRxVVQtbWZKSjB4eE9Vb3dXczFnUmdadw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ea4ed25f53ee",
+      "title": "과학자 한 명 위해 국가 1급 박물관···中 '과학굴기' 진짜 힘 [현장] 사후에도 최고 예우···'우주개발 아버지' 첸쉐썬 - 헬로디디",
+      "published": "2026-08-27T07:00:00+00:00",
+      "summary": "과학자 한 명 위해 국가 1급 박물관···中 '과학굴기' 진짜 힘 [현장] 사후에도 최고 예우···'우주개발 아버지' 첸쉐썬&nbsp;&nbsp;헬로디디",
+      "sources": [
+        {
+          "name": "헬로디디",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83QkRIUlFpODBRcUtiOEVVYU1yZVRodHk1bjFMLUZPNXExZnVmNEZGWEd3Z0hQTW1acmlIT2lzQ0lhNVlwY2R5LURHbjJvaGkxanYzNEJUaDNFVHpBRlpnWUlGZ2M4elN6blE?oc=5"
         }
       ]
     },
@@ -282,6 +330,18 @@
       ]
     },
     {
+      "id": "bf57e7cdc676",
+      "title": "과기정통부, 기초연구 이끌 대학 선도연구센터 11곳 지정 - 동아일보",
+      "published": "2026-08-27T06:38:00+00:00",
+      "summary": "과기정통부, 기초연구 이끌 대학 선도연구센터 11곳 지정&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44V3h0WXlVSU5LSC1WS1lIMEJ1SkxXUzA3a1d2YlFvWnhVb3N2QkRVZ3JHVTFTRFZVLU9tZGNyeG0zbEVMX19YdDQ4RmFwYnAyc282c001a2d2TkVvUGg3STRJVHA4SFlqcDBQRWxDX0hWcExvNVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "19b23834c636",
       "title": "제로 시대의 착한 단맛 심혈관 리스크는 남았다 - 매일경제",
       "published": "2026-08-27T06:29:56+00:00",
@@ -294,22 +354,10 @@
       ]
     },
     {
-      "id": "8614d7166691",
-      "title": "연세대 신용 교수팀, “소변 속 암 신호를 동시에 읽는다”…miRNA 다중 정량 기술 개발 - 한겨레",
-      "published": "2026-08-27T06:22:00+00:00",
-      "summary": "연세대 신용 교수팀, “소변 속 암 신호를 동시에 읽는다”…miRNA 다중 정량 기술 개발&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KUWJPQ1lkU1BXZHpUNU0wOF9GX0trSU11YjJ0dDRmUGxwbGNack5pRjZtRjN5aGtRY0RoMkVycEJYRGxxMlM3RHN2am9HTk1BN1l0M0VGUHdRYmVaYS1MbUgyeXpDRVk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b875ac9411e",
       "title": "“나 헤르페스래” 남친 성병 고백에 “감염 무섭다”…전염력 어느 정도길래[라이프] - 서울신문",
       "published": "2026-08-27T06:21:55+00:00",
-      "summary": "“나 헤르페스래” 남친 성병 고백에 “감염 무섭다”…전염력 어느 정도길래[라이프]&nbsp;&nbsp;서울신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "“나 헤르페스래” 남친 성병 고백에 “감염 무섭다”…전염력 어느 정도길래[라이프]&nbsp;&nbsp;서울신문“남친이 헤르페스”… ‘파혼’ 고민 중이라는 여성, 무슨 사연?&nbsp;&nbsp;헬스조선“결혼 앞둔 남친의 성병 고백…파혼이 답일까요”&nbsp;&nbsp;문화일보\"나도 걸릴 텐데\"...남친 '성병'에 이별 고민 - 머니투데이&nbsp;&nbsp;머니투데이\"어제까지 사랑했는데\"…결혼 생각하던 남친 헤르페스 2형 진단에 '착잡'&nbsp;&nbsp;뉴시스",
       "sources": [
         {
           "name": "서울신문",
@@ -318,38 +366,14 @@
       ]
     },
     {
-      "id": "5777e92233a2",
-      "title": "기초연구 개척할 선도연구센터 11곳 선정…7년간 집중 지원 - 뉴스1",
-      "published": "2026-08-27T04:30:00+00:00",
-      "summary": "기초연구 개척할 선도연구센터 11곳 선정…7년간 집중 지원&nbsp;&nbsp;뉴스1",
-      "sources": [
-        {
-          "name": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XSmVxeERrNW9iQ3cyYW8taVRRTzI1Q2NvV1FadWtXOGRfVjFIZThWaWVzTGZBM3I2eEdMQUlDb3NXbEIyV3dJVXFDd2ZUcHo3X2p0Mnp3QmhmMEVESGZLOFpsenJlZ9IBa0FVX3lxTFB3RkFBXzdzMTAxMDE4bVY1Ykh5WlJXRUdudHVZWTdmLVJKVmdlMS1CWTQ1eVZwSjF2OHFGWnhsWk5NUnpHcWE0ck5VUVF3ZEh4bFU3ZXNFbXRiZmZPOGltcnpYajdrYzR5TTFB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f163315b35f",
+      "id": "e626b3e7efd4",
       "title": "린버크, 고령 아토피 피부염 환자에서도 안전하고 효과적 - 의약뉴스",
-      "published": "2026-08-27T02:55:32+00:00",
+      "published": "2026-08-27T02:55:00+00:00",
       "summary": "린버크, 고령 아토피 피부염 환자에서도 안전하고 효과적&nbsp;&nbsp;의약뉴스",
       "sources": [
         {
           "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PTEZXNXNyYzBzc1Q3MWdZNC1jT0pIWE5iMXh3WVctTjNBZkFFWjFUSENpc0ZGcGtzTXNCTXdPOUh0T1daeUhEZll5X2xqb2IydmtkbXRrelpBUk1zNjdtbmptNnZFN3Fw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7ab41cb322e",
-      "title": "[명의에게 듣는 질환 A to Z] 파킨슨병은 ‘전신질환’…신경·재활·정신건강 함께 살펴야 - 헬스경향",
-      "published": "2026-08-27T02:17:42+00:00",
-      "summary": "[명의에게 듣는 질환 A to Z] 파킨슨병은 ‘전신질환’…신경·재활·정신건강 함께 살펴야&nbsp;&nbsp;헬스경향약국에서 만나는 파킨슨...일반약 A to Z&nbsp;&nbsp;약사공론[한약제제] 삶의 질 제한하는 파킨슨병 ‘비운동 증상’&nbsp;&nbsp;약사공론[생활습관] 파킨슨병 치료의 또 다른 축&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUaThHSEgzU0NvOGUwbHVDeGZSUDZzTkFFTmxKOXotWmpTbEhGSnp1TDZkdGxXMVpndUVaMjV4OGkwY0daQmp5bzY1THBOYTU1SFRWLXVKaEllcE5RZVNUSWJkclJDZ0dPcTZZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WXdlOUNfcmplMWhIek9mNWhhTGk0eEJFZmVkajZmTHNtUFJUcjZDZklld25iUW9NWlRTdkNhMGhOUFBrYmZEWExTclpoWXdJY29WR2hOVG9vSTJZbHhuVTVFME5QT1E?oc=5"
         }
       ]
     },
@@ -378,50 +402,14 @@
       ]
     },
     {
-      "id": "3a352215c7c7",
-      "title": "'아침마당' 한윤대 \"대장용종 증상無, 선종→대장암 진행 기간 5년\" - 네이트",
-      "published": "2026-08-27T00:04:00+00:00",
-      "summary": "'아침마당' 한윤대 \"대장용종 증상無, 선종→대장암 진행 기간 5년\"&nbsp;&nbsp;네이트대장암, 검진만 잘 받아도 사망 위험 낮아진다&nbsp;&nbsp;하이닥[칼럼] 추석에 확인하는 대장암 가족력, 대장내시경 검진 시기에도 영향&nbsp;&nbsp;스타데일리뉴스‘발생률 3위’ 대장암, 검진만 잘 받아도 사망 막는다&nbsp;&nbsp;헬스조선“대장용종, 떼면 끝 아냐…추적 내시경이 대장암 막아”&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuMWMybHhRcEpjNEtuM3I4T1RVWmpMdkI3TTlUTm5NUldjdUl2Q29oZGZScU5CSGZTNExwQkp2cUhDNVc1TDNXYjhoR3RQRXZCQ09J?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7898b797cfe9",
-      "title": "식도암 수술도 로봇시대…\"생존율·회복 모두 앞섰다\" [헬스체크] - 네이트",
-      "published": "2026-08-26T23:42:00+00:00",
-      "summary": "식도암 수술도 로봇시대…\"생존율·회복 모두 앞섰다\" [헬스체크]&nbsp;&nbsp;네이트로봇으로 식도암 수술…개흉대비 사망위험 20%↓&nbsp;&nbsp;뉴시스식도암 수술, 로봇으로 했더니 5년 생존율↑, 출혈 위험은 ↓&nbsp;&nbsp;한국일보\"식도암 수술 '로봇'으로 했더니…사망 위험 20%↓\"&nbsp;&nbsp;데일리안삼성서울병원, 로봇 식도암 수술 장기 생존율 분석&nbsp;&nbsp;로이슈",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZNU9VdGlQQ28zSTJSZ0FDb3N1eExOcmVaNnpCU1VwQVN6UEZJaEo1WVRsV0JhSVZJN0hQcW1LUHZNNEdiWURZU1JVdHBMS2dEdUJ4QXhtRDQ3UDVPTnUzRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f04e079d23e4",
-      "title": "유방암·전립선암·고환암·혈액암·위암 앓았다면 뼈건강 더 챙겨야 한다 - 코리아헬스로그",
-      "published": "2026-08-26T23:40:32+00:00",
-      "summary": "유방암·전립선암·고환암·혈액암·위암 앓았다면 뼈건강 더 챙겨야 한다&nbsp;&nbsp;코리아헬스로그",
+      "id": "b4b8a241e321",
+      "title": "[칼럼] 만성콩팥병 관리 법안, 왜 지금 필요한가? - 코리아헬스로그",
+      "published": "2026-08-26T23:37:59+00:00",
+      "summary": "[칼럼] 만성콩팥병 관리 법안, 왜 지금 필요한가?&nbsp;&nbsp;코리아헬스로그\"초기 증상 없는 만성콩팥병, 당뇨병·고혈압 있다면 정기검진이 답\" [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스유난히 낯빛 칙칙해진 사람, ‘콩팥 이상’ 신호일지도… 또 다른 증상은?&nbsp;&nbsp;헬스조선신장 질환으로 고통받는 사람들이 점점 늘어나고 있습니다. 충격적이고 예상치 못한 원인들이 밝혀졌습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZM25WQmZYRnVndDFoSVpSLXZRanVfc1hwVnNic1FiMW1JRHFqWENsa3l1aF96YjNfaWZLakM4c3ZWa3pwSEV5LUdCRkFCeUtiSW5BZ1VTV19fNFFUeXp0aWtUbnVIejJSNkxHNHNTQ29oZ9IBdkFVX3lxTE9qa1d4QzZFcHBIUUVuZmdCSkp2ckZIUzg3V3M3WTN3ajRiQXNwNnNHY3VWN25qM0JNUTBOaW1fUUxKN0ZGdmNRRGVvdTRMcDZNX3NQR19mZ3daTkFhaHpQOFdtdk1Odm9hNUdCRnVwTG8wOHpsdXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb3bc1aecbdb",
-      "title": "[건강 칼럼] '천식과 COPD, 숨 가쁨의 원인 찾아 관리해야?' - edaily.co.kr",
-      "published": "2026-08-26T22:03:02+00:00",
-      "summary": "[건강 칼럼] '천식과 COPD, 숨 가쁨의 원인 찾아 관리해야?'&nbsp;&nbsp;edaily.co.kr",
-      "sources": [
-        {
-          "name": "edaily.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFZiVS1uN3ZpZmxnQVhVNWU1N2ttaEFVV0E5bWlyT3RJRTFKYl9rcjZ1M2lzZ0Z1YzcyVmpXRG55SUhOVEhMS2p3dVRkYkNEcWVOdHduZHJuMHppd056czZVNC1GNFVFXy0tSWlfU0dkbG1uMXNGVmMtWkRoYWtCOQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtM0dZRWlfRVNyOEdzdkNyMFJWX25iRE5wa3lOdzFpS3NUVFNDQXZfclZJUDc3SDNRU0tQT2REdm04cFBVaVI3Sk5XRjZrSVNuYVNHRmdXTnY4dGtpOUNIdXJ2S3ptVnphRERCMFRJdnVRQdIBdkFVX3lxTE1JQlhMVWYwenJRY0hsTjZGV2NWczE4MkhORlduemxpRWNoNFVqUzVhYkNoLTVrdzRFU2ZrUGdSTElCS2JpRXNXZFhaV0hXSmZ4ZkM1Z0x6RmhHRXJkQ2RaRjFzQ0tEVnIxQjFMWWxGXzZpQ2RyNFE?oc=5"
         }
       ]
     },
@@ -486,6 +474,18 @@
       ]
     },
     {
+      "id": "d535b5c9039a",
+      "title": "폐지됐던 ‘기본연구’ 2년 만에 부활…2496개 과제에 1520억원 지원 - 조선비즈 - Chosunbiz",
+      "published": "2026-08-25T08:13:00+00:00",
+      "summary": "폐지됐던 ‘기본연구’ 2년 만에 부활…2496개 과제에 1520억원 지원 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMXBWLTFwVVpJa05wVWg3dTZXUXpMQXpNbWpoX3FzOG8xVktHTjU5N2RRSUlkdmZTUXdKU2s4Z194VDdzczZEUy1UUVBoMzhBLVFkRzZCbjBWYVpvcUZEdTF3b3lEVTdoY1RJVktHTHU3WENJSkstM3JVNldjLUg2VHM4cjhoTXducHAta9IBoAFBVV95cUxPSWxRT2I1M2hoWWc5dlhhZEtMVWdVNFBhWVhyNDVCbUxBSnY2UG9oYWRxcHdmcVNpLTJsZWJHMGhNV0tCREdqRVRFcV9Eb0k3N05idUJST3pwT0g4WnJUTDRfcC1kRmFEVS04UmpOaTM4NmRyeDlLblhaSXpJbXVNa202RjhBYlNOazU0VXhFcVVwY2wtOU9UWl9jT29RdG9w?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d5400c078a18",
       "title": "위성곤 공약 ‘제주과학기술원’ 빨간불 켜지나 - 제주의소리",
       "published": "2026-08-25T07:14:38+00:00",
@@ -510,14 +510,14 @@
       ]
     },
     {
-      "id": "78ffa1667f9a",
-      "title": "[박찬우 박사 칼럼 15회] 건강기능식품 먹어야하는가? - 캐어유 뉴스",
-      "published": "2026-08-25T00:00:00+00:00",
-      "summary": "[박찬우 박사 칼럼 15회] 건강기능식품 먹어야하는가?&nbsp;&nbsp;캐어유 뉴스",
+      "id": "c393c5db453b",
+      "title": "대장암, 검진만 잘 받아도 사망 위험 낮아진다 - 하이닥",
+      "published": "2026-08-25T03:30:00+00:00",
+      "summary": "대장암, 검진만 잘 받아도 사망 위험 낮아진다&nbsp;&nbsp;하이닥[칼럼] 추석에 확인하는 대장암 가족력, 대장내시경 검진 시기에도 영향&nbsp;&nbsp;스타데일리뉴스‘발생률 3위’ 대장암, 검진만 잘 받아도 사망 막는다&nbsp;&nbsp;헬스조선'아침마당' 한윤대 \"대장용종 증상無, 선종→대장암 진행 기간 5년\"&nbsp;&nbsp;조이뉴스24",
       "sources": [
         {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OZ1dFZzBUYzJELTVMSnQ5eF9YUUxnallZSVFEVlpRcUVDanAzN1hnaDdHckhsZmJKRkJrNzRCQTh1NjRBaDE1LVhITGZ1a0Jwd3VFSWl2RHBvc0luSzEwMDhZTjNnQ0t1aS1LcVNR?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54VV8tV2JQZFJKdVNaWWV5d3FoWlZUb3lMX2p2cWtwT2liT3ZpZlh0blRuRTNheUQ1UklYNWFBcTQ0cGJoeFdxTUVjZFpFQmt0ZGp0eVg0OUJWMGR5OFNITlR4U0t0RUszd3c?oc=5"
         }
       ]
     },
@@ -654,6 +654,18 @@
       ]
     },
     {
+      "id": "9adbbd9c0b73",
+      "title": "[한약제제] 삶의 질 제한하는 파킨슨병 ‘비운동 증상’ - 약사공론",
+      "published": "2026-08-23T20:49:00+00:00",
+      "summary": "[한약제제] 삶의 질 제한하는 파킨슨병 ‘비운동 증상’&nbsp;&nbsp;약사공론[명의에게 듣는 질환 A to Z] 파킨슨병은 ‘전신질환’…신경·재활·정신건강 함께 살펴야&nbsp;&nbsp;헬스경향약국에서 만나는 파킨슨...일반약 A to Z&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVWNFSlN4VVI3cksycFFHZ1dxM0l3TVpTZ3JObUhpS2JYN0FXTUVmdVBRNVlnNmFCNHhhZFRCOWNicmlsdFRGUDB5T1EyZU1TZFAycXdiQk9JTWZMa3VETGQyNXhUYXVqby1HLQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d94c9156408b",
       "title": "세포노화 연구 50여편 신뢰도·재현성 논란…\"잘못된 항체 썼다\" - DongA Science",
       "published": "2026-08-23T02:11:00+00:00",
@@ -666,14 +678,14 @@
       ]
     },
     {
-      "id": "1895a5df4f47",
-      "title": "임신 17주 배 속에 12㎏ 자궁근종… 임신 중 수술 괜찮을까? - 스포츠월드",
-      "published": "2026-08-22T20:17:47+00:00",
-      "summary": "임신 17주 배 속에 12㎏ 자궁근종… 임신 중 수술 괜찮을까?&nbsp;&nbsp;스포츠월드",
+      "id": "286c35398208",
+      "title": "“암세포 증식 막는다”… ‘74세’ 박정수가 먹은 음식, 뭘까? - 헬스조선",
+      "published": "2026-08-23T00:03:00+00:00",
+      "summary": "“암세포 증식 막는다”… ‘74세’ 박정수가 먹은 음식, 뭘까?&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "스포츠월드",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrQ0h1Z3pOWHFOb0dZQno5clJIQ0psRVdtYTNhUkZQMXRhanVvTllLSzNtajhZOVRuSHdXakNpdXNJdUxkZERRdURpMUp2Q3NDTVRKWi02eWN3dDdvWnZQUDVR?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45dWdOQnNmLVNtdE4zbWhHZXNyTjRDZWo1c0VIdThiZ0laUlJ2SXZ1Qnh5bHVFTGg1M3JDY2tKY01XWlBCdTlXZlRNOVdEd1JhRzdqbjV3ZkZ4UUlabXFwMUd1MWh4YWxHZkVnQVpjTU5NMjVfQmlqdXpEalJ5MlU?oc=5"
         }
       ]
     },
@@ -681,7 +693,7 @@
       "id": "307bd3d6d552",
       "title": "위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’ - 헤럴드경제 미주판",
       "published": "2026-08-22T15:59:00+00:00",
-      "summary": "위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’&nbsp;&nbsp;헤럴드경제 미주판자판기 앞에서 캔을 고르며&nbsp;&nbsp;브런치위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’[나우,어스]&nbsp;&nbsp;헤럴드경제위암 위험 3배 높인다는 가당 음료, 대체당은 '연관 없어'[나우,어스]&nbsp;&nbsp;네이트",
+      "summary": "위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’&nbsp;&nbsp;헤럴드경제 미주판자판기 앞에서 캔을 고르며&nbsp;&nbsp;브런치위암 위험 3배 높인다는 가당 음료, 대체당은 ‘연관 없어’[나우,어스]&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
           "name": "헤럴드경제 미주판",
@@ -705,7 +717,7 @@
       "id": "7098c190062f",
       "title": "[포토뉴스] 비침습적 뇌자극 치료효과, 임상시험 설계부터 달라야 - 헬스경향",
       "published": "2026-08-22T07:09:26+00:00",
-      "summary": "[포토뉴스] 비침습적 뇌자극 치료효과, 임상시험 설계부터 달라야&nbsp;&nbsp;헬스경향뇌 자극하는 ‘비침습 신경조절치료’…어디까지 왔나&nbsp;&nbsp;헬스경향[포토뉴스] 전기자극으로 뇌신경조절…관건은 ‘개인 맞춤’&nbsp;&nbsp;헬스경향비침습적 뇌자극 더 정밀하게…AI·로봇 결합한 TMS기술 ‘눈길’&nbsp;&nbsp;헬스경향[포토뉴스] 뇌 신호 읽고 필요한 만큼만 자극…진화하는 ‘파킨슨병 치료’&nbsp;&nbsp;헬스경향",
+      "summary": "[포토뉴스] 비침습적 뇌자극 치료효과, 임상시험 설계부터 달라야&nbsp;&nbsp;헬스경향뇌 자극하는 ‘비침습 신경조절치료’…어디까지 왔나&nbsp;&nbsp;헬스경향[포토뉴스] 비침습적 뇌자극 치료효과, 제대로 평가하려면?&nbsp;&nbsp;헬스경향",
       "sources": [
         {
           "name": "헬스경향",
