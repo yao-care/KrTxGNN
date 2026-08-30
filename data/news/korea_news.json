@@ -1,19 +1,55 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-30T04:26:31.316499+00:00",
-  "total_fetched": 137,
-  "unique_count": 136,
-  "health_related_count": 59,
+  "fetched_at": "2026-08-30T11:30:48.761377+00:00",
+  "total_fetched": 134,
+  "unique_count": 132,
+  "health_related_count": 60,
   "news": [
     {
-      "id": "2029622a774c",
-      "title": "\"어지럼증에 뇌졸중 걱정했더니\"…범인은 '귓속 돌' [헬스톡] - 파이낸셜뉴스",
-      "published": "2026-08-30T04:16:00+00:00",
-      "summary": "\"어지럼증에 뇌졸중 걱정했더니\"…범인은 '귓속 돌' [헬스톡]&nbsp;&nbsp;파이낸셜뉴스\"갑자기 세상이 빙빙”…20분 넘게 어지럽다면 의심해야 할 ‘이 병’&nbsp;&nbsp;뉴시스온병원 “갑자기 세상이 ‘빙글’…뇌졸중 아닌 이석증일 수도”&nbsp;&nbsp;인더스트리뉴스갑자기 '빙글빙글' 어지럽고 귀가 '멍'…\"메니에르병 의심해야\" - 머니투데이&nbsp;&nbsp;머니투데이갑자기 세상이 빙글빙글… 뇌졸중 의심했더니 ‘이석증’ 주의보&nbsp;&nbsp;스포츠동아",
+      "id": "d82008a1aafb",
+      "title": "“유산균이 치매까지?”…24주 복용 후 알츠하이머 ‘타우’ 감소 - 헬스코리아뉴스",
+      "published": "2026-08-30T06:51:23+00:00",
+      "summary": "“유산균이 치매까지?”…24주 복용 후 알츠하이머 ‘타우’ 감소&nbsp;&nbsp;헬스코리아뉴스",
       "sources": [
         {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tTmtiSTN5dVFDa0hFNVBQTFRyTGNLTmNFVmxpNk9qaUI3WnlvbjNSelI5LWhjTE0xWFdaMDhoVG4xc0dyZnZETnpxOFJFUk5QeGtwSDRDVFRtUQ?oc=5"
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OeV9hRjRFenFCLW93Zl9OOUI1Rm5XZGhHdC0xYWNMZE9jMmZTbVZ5NzN0LV9UTmFqNC1KMFhFcklTMVlnRXlOb09xWU5rUEllakNPeFJtT2wzakFvVEl3MWNycFI5ZW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f892ef9d93bb",
+      "title": "‘건강한 단맛’인 줄 알았는데…자일리톨, 심장마비·뇌졸중 위험 높인다 - 매일경제",
+      "published": "2026-08-30T05:59:24+00:00",
+      "summary": "‘건강한 단맛’인 줄 알았는데…자일리톨, 심장마비·뇌졸중 위험 높인다&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54N2NRVVdJTkthMFZkSGdhWUpBN1RvLW1UdUtuN1pjTVpZVTNvTEwzaGRwbS1VMWZScnRhZ2h1cG95RXBWWUJlZ0tqZ1M5UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3dba7840047f",
+      "title": "IBS, 알츠하이머 병리 악순환 핵심 인자 ‘ERBB4’ 규명…Nature 게재 - 산학뉴스",
+      "published": "2026-08-30T04:50:13+00:00",
+      "summary": "IBS, 알츠하이머 병리 악순환 핵심 인자 ‘ERBB4’ 규명…Nature 게재&nbsp;&nbsp;산학뉴스사람과 원숭이에만 있는 DNA 조각에서 시작된 변화, 치매로 이어지는 연결고리 찾았다&nbsp;&nbsp;BRIC알츠하이머 치매 악화시키는 단백질, 국내 연구진이 규명&nbsp;&nbsp;v.daum.netIBS, 알츠하이머 악순환 끊을 핵심 스위치 찾았다…'네이처' 실려&nbsp;&nbsp;뉴스웍스‘알츠하이머 원인’ 진범 찾았다...근본 치료 가능성 열릴 지 세계가 주목&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "산학뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qbU04WHZzakxRZUpFSzF5VE9VZjhUVXhjbGVVRGstcFJSYmYybnhZNjJZaXJzUHM2U0NCc1ZCN0FRZ281dDRmSldPdVNTdVN0d281VVEtaFJXLWdITmk0dG1FWXB0M0lLMGxB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56165bb3692e",
+      "title": "\"어지럼증에 뇌졸중 걱정했더니\"…범인은 '귓속 돌' [헬스톡] - 네이트",
+      "published": "2026-08-30T04:17:00+00:00",
+      "summary": "\"어지럼증에 뇌졸중 걱정했더니\"…범인은 '귓속 돌' [헬스톡]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pMUxpajdtcDFKZm1EY0c2Wl84Qy1wcmtlR2xrTDhpZl9rWGhhUnd5YXFnazJSRElpa3FxeXRSaDZwaE0xTkZOYm1qM2lBVlhfTWdaQjFMaDJlc05QTVExRg?oc=5"
         }
       ]
     },
@@ -26,18 +62,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKWDNQSlFUZ0Mwd2Q4YVVGaENuajY5RUtidGZKQ3NEVkpWaDF5QlBScExiNXBEM1NfYzZ1UDdiUGtQWF9abEwzMTFIWmNucko4VUFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "76ab35678675",
-      "title": "알츠하이머 치료 열쇠 되나.. 뇌 속 '악순환 고리' 정체 > 뉴스 - 지데일리",
-      "published": "2026-08-29T23:22:00+00:00",
-      "summary": "알츠하이머 치료 열쇠 되나.. 뇌 속 '악순환 고리' 정체 > 뉴스&nbsp;&nbsp;지데일리사람과 원숭이에만 있는 DNA 조각에서 시작된 변화, 치매로 이어지는 연결고리 찾았다&nbsp;&nbsp;BRIC알츠하이머 치매 악화시키는 단백질, 국내 연구진이 규명&nbsp;&nbsp;v.daum.netIBS, 알츠하이머 악순환 끊을 핵심 스위치 찾았다…'네이처' 실려&nbsp;&nbsp;뉴스웍스‘알츠하이머 원인’ 진범 찾았다...근본 치료 가능성 열릴 지 세계가 주목&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "지데일리",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OMU5rVzRvSzlQem5wbnYxMExTemJfYkJWbWRCMEhnUGx6Mkp0bU56X3FReGtEZkRvSE5BWXRBcEFMa0lFTVRCdjRsdUo0UEtUV3lFRzIzUTc1akpSckJXRUZLTmJMWllNTWxQWg?oc=5"
         }
       ]
     },
@@ -90,22 +114,10 @@
       ]
     },
     {
-      "id": "262ffaecb579",
-      "title": "암이 노인병이라는 공식이 깨지는 중임. - 네이버 프리미엄콘텐츠",
-      "published": "2026-08-29T11:01:00+00:00",
-      "summary": "암이 노인병이라는 공식이 깨지는 중임.&nbsp;&nbsp;네이버 프리미엄콘텐츠“대장 용종 부추긴다”… ‘채소’도 안심 못 한다는데, 무슨 음식?&nbsp;&nbsp;헬스조선달력 나이는 20대, 세포 나이는 40대&nbsp;&nbsp;사이언스타임즈수박이 대장암 위험 낮춘다?... 장 건강에 도움주는 과일 4가지&nbsp;&nbsp;하이닥대장암 위험 줄이려면 섬유질 섭취 늘려야…어떤 음식 먹어야 좋을까?&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이버 프리미엄콘텐츠",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEpUMXc0MHBJQk9ZcXFUWW5fMXdnME91NDg5c3paSGZFUXhFMXpmWVViUWtYUGNlekswaGhXcDRhU05JRkhRV2Vza2l5RVQ1dGw4ZlBoRG1FaEdtTlZvWE5IVzJRcGtWTnVZTm5LbVpCR2Y1bTkyNXMtNTh4Nllycm9zZ2o?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e1abcfc89034",
       "title": "운동하면 근육이 뇌를 지킨다…치매 위험 낮추는 ‘근육-뇌 연결고리’ - DongA Science",
       "published": "2026-08-29T09:00:00+00:00",
-      "summary": "운동하면 근육이 뇌를 지킨다…치매 위험 낮추는 ‘근육-뇌 연결고리’&nbsp;&nbsp;DongA Science“‘근력운동’ 했더니 치매 위험 74% 낮아”…걷기만큼 ‘근육’도 챙겨야?&nbsp;&nbsp;코메디닷컴\"지옥철도 고역인데\"…출퇴근길 스트레스, 치매 위험까지 높인다?&nbsp;&nbsp;네이트“걷기·체조보다 효과”…어르신들에 열풍 ‘이 운동’ 치매 위험 낮춘다&nbsp;&nbsp;농민신문\"퇴근 후 운동은 약, 노동은 독\"... 같은 땀인데 뇌 건강은 정반대로 갈렸다&nbsp;&nbsp;insight.co.kr",
+      "summary": "운동하면 근육이 뇌를 지킨다…치매 위험 낮추는 ‘근육-뇌 연결고리’&nbsp;&nbsp;DongA Science“‘근력운동’ 했더니 치매 위험 74% 낮아”…걷기만큼 ‘근육’도 챙겨야?&nbsp;&nbsp;코메디닷컴근력부터 균형감각까지, 어르신 뇌 건강 운동으로 지킨다&nbsp;&nbsp;강남내일신문[독립신문 건강기획] 노년기 운동, 치매 위험도 바꾼다…파크골프·게이트볼도 주목&nbsp;&nbsp;ainews1.co.kr\"지옥철도 고역인데\"…출퇴근길 스트레스, 치매 위험까지 높인다?&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "DongA Science",
@@ -138,9 +150,21 @@
       ]
     },
     {
+      "id": "318442167685",
+      "title": "폐렴 위험 높이는 ‘RSV’…고령층·기저질환자 예방접종 중요 [e건강~쏙] - 이투데이",
+      "published": "2026-08-29T05:07:00+00:00",
+      "summary": "폐렴 위험 높이는 ‘RSV’…고령층·기저질환자 예방접종 중요 [e건강~쏙]&nbsp;&nbsp;이투데이베이포투스 도입 후 영아 RSV 입원 25% 감소… “NIP 논의 필요”&nbsp;&nbsp;동아일보감기 비슷한데 폐렴, 사망까지…RSV 백신, 가을 유행 전에 맞아야 [건강한겨레]&nbsp;&nbsp;한겨레신생아들이 위험한 호흡기 세포융합 바이러스(RSV) 발생 직전에 놓여 있습니다.&nbsp;&nbsp;Vietnam.vn[ESC 2026] 화이자 아브리스보, 2년차에도 예방 효과&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNU1JhcWo1ZFlDV19DRmJ6Uk15ckVIdmpURXZCdkwxUU95WExwNWFROXgtd1p4NE5TUm13TjVUWjJrN1JFckduRFlveEJKUFNienFIdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d99892646e5f",
       "title": "알록달록하게 먹었더니 달랐다…자궁경부암 병력 56% 낮춘 식단 - 주간조선",
-      "published": "2026-08-29T05:09:12+00:00",
+      "published": "2026-08-29T05:00:00+00:00",
       "summary": "알록달록하게 먹었더니 달랐다…자궁경부암 병력 56% 낮춘 식단&nbsp;&nbsp;주간조선",
       "sources": [
         {
@@ -150,14 +174,14 @@
       ]
     },
     {
-      "id": "318442167685",
-      "title": "폐렴 위험 높이는 ‘RSV’…고령층·기저질환자 예방접종 중요 [e건강~쏙] - 이투데이",
-      "published": "2026-08-29T05:07:00+00:00",
-      "summary": "폐렴 위험 높이는 ‘RSV’…고령층·기저질환자 예방접종 중요 [e건강~쏙]&nbsp;&nbsp;이투데이베이포투스 도입 후 영아 RSV 입원 25% 감소… “NIP 논의 필요”&nbsp;&nbsp;동아일보감기 비슷한데 폐렴, 사망까지…RSV 백신, 가을 유행 전에 맞아야 [건강한겨레]&nbsp;&nbsp;한겨레신생아들이 위험한 호흡기 세포융합 바이러스(RSV) 발생 직전에 놓여 있습니다.&nbsp;&nbsp;Vietnam.vn[ESC 2026] 화이자 아브리스보, 2년차에도 예방 효과&nbsp;&nbsp;의약뉴스",
+      "id": "aec5bedd7034",
+      "title": "대장암 위험 줄이려면 섬유질 섭취 늘려야…어떤 음식 먹어야 좋을까? - 네이트",
+      "published": "2026-08-29T02:06:00+00:00",
+      "summary": "대장암 위험 줄이려면 섬유질 섭취 늘려야…어떤 음식 먹어야 좋을까?&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNU1JhcWo1ZFlDV19DRmJ6Uk15ckVIdmpURXZCdkwxUU95WExwNWFROXgtd1p4NE5TUm13TjVUWjJrN1JFckduRFlveEJKUFNienFIdw?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yM3Z2UHIyV0I4MHNWRGZJa0pYdVZNUlJnN09ZLU0yeUR2aENMbGFYZlBBeUpQajFHN0hkR1dsYUQxeUZ4TDF4OWtSRWtnNTZHUmhSLVFIS0Mxc2xtM2xXQQ?oc=5"
         }
       ]
     },
@@ -258,18 +282,6 @@
       ]
     },
     {
-      "id": "c530f3ed8d8c",
-      "title": "에스트로겐 치료받은 여성, 알츠하이머병 위험 낮았다… 美 대규모 분석 결과 - 하이닥",
-      "published": "2026-08-28T07:00:00+00:00",
-      "summary": "에스트로겐 치료받은 여성, 알츠하이머병 위험 낮았다… 美 대규모 분석 결과&nbsp;&nbsp;하이닥[건강포커스] \"폐경 후 호르몬 대체요법 사용 여성, 치매 위험 10% 낮아\"&nbsp;&nbsp;v.daum.net폐경 후 HRT, 치매 위험 최대 23% 감소…개인 맞춤 뇌 건강 새 지평 : 최신논문&nbsp;&nbsp;의약일보폐경 후 호르몬 대체요법 사용했더니…\"치매 위험 10% 낮았다\"&nbsp;&nbsp;한국경제호르몬 대체요법, 치매 위험 최대 26% 낮춘다?&nbsp;&nbsp;뉴스;트리",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhYkpHTDJBcDYwU2RJT1FwazFtMmNpUWVPdm4xd2FaQVBhM29nR194UnlnWlptUlBhbnRmelZ0Wl92VkVyMURvOGJIZW1RaXJyZUZEbFY0MlUtbnNFa2tFMk9SNUppdVBhVnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7580d8a63785",
       "title": "초등생·중학생의 이토록 ‘기특한 아이디어’···약자 돕는 현관문 고정장치·휠체어 안장 발명 - 경향신문",
       "published": "2026-08-28T03:54:00+00:00",
@@ -294,10 +306,22 @@
       ]
     },
     {
+      "id": "93972199ecbe",
+      "title": "[건강포커스] \"체중 똑같이 줄어도…케톤식단, 간 지방·혈당 개선 더 커\" - 연합뉴스",
+      "published": "2026-08-28T00:25:50+00:00",
+      "summary": "[건강포커스] \"체중 똑같이 줄어도…케톤식단, 간 지방·혈당 개선 더 커\"&nbsp;&nbsp;연합뉴스살 잘 빠지면서, 혈당·지방간도 개선한다… 방법 뭐야?&nbsp;&nbsp;헬스조선살은 똑같이 10% 뺐는데…3종 식단 중 '간 지방' 줄이는 데 으뜸은?&nbsp;&nbsp;네이트같은 10% 체중 감량해도 대사 효과 달랐다…\"케톤식, 간 인슐린 민감성 개선 더 커\" : 보건·의료&nbsp;&nbsp;의약일보“살은 똑같이 빠졌는데”…케톤식단, 간 건강엔 더 효과&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXbzQ0VkdWdWQtSFVRRTg4NHJRTnRjbDd4M0hnc0ZUWWtZVUNpcDhMVHc1LU1JSEZNMHJZaklLUjFQOHZXUjhSRndwRnpxNER6OXhmVi0tb2pvTzTSAWBBVV95cUxPS3RySkRhTmd4cXVveG1uclh4N2pveEJKTHdfVVVaR01mWkk0alJrQ2l5WFYxNkdDblN4REp2MXZKYU9GV0JrRVpleEtPUFc3djczalQyVmNIelhOX0hNY2k?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d20afe673704",
       "title": "[칼럼] 조기 발견 어렵고 생존율 낮은 췌장암 - 메드월드뉴스",
       "published": "2026-08-28T00:22:46+00:00",
-      "summary": "[칼럼] 조기 발견 어렵고 생존율 낮은 췌장암&nbsp;&nbsp;메드월드뉴스\"갑자기 왜 이렇게 입맛이 없지\" 대수롭지 않게 넘겼는데…암 신호일 수도 [콕!건강]&nbsp;&nbsp;v.daum.net“약 먹어도 소화불량 2주 넘게 그대로? 췌장 검사하라”[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보\"소화불량인 줄 알았는데 췌장암?\"…췌장이 보내는 신호는? [헬스톡]&nbsp;&nbsp;파이낸셜뉴스고난도 췌장암 환자에 담즙길 열고 초음파 시술로 암 제거&nbsp;&nbsp;한국경제",
+      "summary": "[칼럼] 조기 발견 어렵고 생존율 낮은 췌장암&nbsp;&nbsp;메드월드뉴스\"갑자기 왜 이렇게 입맛이 없지\" 대수롭지 않게 넘겼는데…암 신호일 수도 [콕!건강]&nbsp;&nbsp;v.daum.net“약 먹어도 소화불량 2주 넘게 그대로? 췌장 검사하라”[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보고난도 췌장암 환자에 담즙길 열고 초음파 시술로 암 제거&nbsp;&nbsp;한국경제췌장암, 발견 때 70~80% 수술 어려워…선행항암으로 기회 넓힌다&nbsp;&nbsp;네이트",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -378,18 +402,6 @@
       ]
     },
     {
-      "id": "b6560b0c4380",
-      "title": "과기정통부, 기초연구 이끌 대학 선도연구센터 11곳 지정 - 동아일보",
-      "published": "2026-08-27T06:38:00+00:00",
-      "summary": "과기정통부, 기초연구 이끌 대학 선도연구센터 11곳 지정&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44V3h0WXlVSU5LSC1WS1lIMEJ1SkxXUzA3a1d2YlFvWnhVb3N2QkRVZ3JHVTFTRFZVLU9tZGNyeG0zbEVMX19YdDQ4RmFwYnAyc282c001a2d2TkVvUGg3STRJVHA4SFlqcDBQRWxDX0hWcExvNVHSAWZBVV95cUxQVlJuTTdGTFdjOGE2ZF9oR3NBRnFITlY3cnQyaW5Xdkh4emJWTmNlS0dCWEc5V1NRaXBEdU9TSVJmdi0xZDlaLWJUU3p5S19LeWczUjBqeDFIQmRmYS14SzJ3ZEhvU2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9b875ac9411e",
       "title": "“나 헤르페스래” 남친 성병 고백에 “감염 무섭다”…전염력 어느 정도길래[라이프] - 서울신문",
       "published": "2026-08-27T06:21:55+00:00",
@@ -398,6 +410,18 @@
         {
           "name": "서울신문",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4td0tQRDJEb1NKWDhwS292N3V2UGk0ZEV6WHg2bG5aX2RRTnUtSExIZjVmenc3T2lSTk1XUXNEQUtMM25WX00zaUZDM1pBUDFzbzNGTmhpWkFnVWhhalF6dVRNbWswRlNFVjlF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5777e92233a2",
+      "title": "기초연구 개척할 선도연구센터 11곳 선정…7년간 집중 지원 - 뉴스1",
+      "published": "2026-08-27T04:30:00+00:00",
+      "summary": "기초연구 개척할 선도연구센터 11곳 선정…7년간 집중 지원&nbsp;&nbsp;뉴스1",
+      "sources": [
+        {
+          "name": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XSmVxeERrNW9iQ3cyYW8taVRRTzI1Q2NvV1FadWtXOGRfVjFIZThWaWVzTGZBM3I2eEdMQUlDb3NXbEIyV3dJVXFDd2ZUcHo3X2p0Mnp3QmhmMEVESGZLOFpsenJlZ9IBa0FVX3lxTFB3RkFBXzdzMTAxMDE4bVY1Ykh5WlJXRUdudHVZWTdmLVJKVmdlMS1CWTQ1eVZwSjF2OHFGWnhsWk5NUnpHcWE0ck5VUVF3ZEh4bFU3ZXNFbXRiZmZPOGltcnpYajdrYzR5TTFB?oc=5"
         }
       ]
     },
@@ -434,6 +458,18 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sLUlTOGU0TURldnJIS1pFLWt5R09CTEJHSEhYM1A0MFVkMzlJR3dYV2hmbERxYTZkOVF6c2ZsU0d1Szk5RE9sUk0zNXN5Yzg5cVZzSHUwVnZucnF2T3plSXFQSnVIZkRvck9ySXpBZ1V2dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eaf5622f05b0",
+      "title": "[건강포커스] \"폐경 후 호르몬 대체요법 사용 여성, 치매 위험 10% 낮아\" - 연합뉴스",
+      "published": "2026-08-27T00:20:59+00:00",
+      "summary": "[건강포커스] \"폐경 후 호르몬 대체요법 사용 여성, 치매 위험 10% 낮아\"&nbsp;&nbsp;연합뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pX2dvTUZRRjdKR0R4NVdGYno4M3BVWFlYSk9ONWdjeXZaOXJQTDVadWlZUGtVR0NxS2NkRDItNlEwZk84eVNGc2ZVMDJCWW1SREFrcWM5OGNqd3PSAWBBVV95cUxNQ1NQOWJwSGVQZ1ROdVdkdjBJcXJETDZvN2IxSkJtbGdud25ZeVN6bFhSN0J5QzNqR21xalNjZnlrZ0RHMVA4OE9leXd2eG1LMnBSMXFDcklBRW9qMEhCTk4?oc=5"
         }
       ]
     },
@@ -534,18 +570,6 @@
       ]
     },
     {
-      "id": "52aa5b826331",
-      "title": "독감·폐렴구균 백신 맞은 고령층, 치매 위험 최대 63% 낮아 - 디멘시아뉴스",
-      "published": "2026-08-25T10:58:02+00:00",
-      "summary": "독감·폐렴구균 백신 맞은 고령층, 치매 위험 최대 63% 낮아&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HSzVfUmYwNkhFLUE3NXZuLXBnV1JVVTVTMVJQRjRNUXpTc29UTWpRNXByRzNJcy16enYwUVp0ZWEteDlxenctd3ZFeUJsY0pLN3hOMUc1a214WDV2T2xKR3g1M181ZF9tSTB5MlNCampGdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ad5bed8b13db",
       "title": "스페이스X·엔비디아, 우주용 ‘베라 루빈’ 개발…2027년 궤도 투입 - AI타임스",
       "published": "2026-08-25T08:36:07+00:00",
@@ -594,10 +618,22 @@
       ]
     },
     {
+      "id": "ccda3758a967",
+      "title": "쇄빙연구선 아라온호, 북극해서 서울 3분의2 크기 가스하이드레이트 확인 - DongA Science",
+      "published": "2026-08-25T04:45:00+00:00",
+      "summary": "쇄빙연구선 아라온호, 북극해서 서울 3분의2 크기 가스하이드레이트 확인&nbsp;&nbsp;DongA Science",
+      "sources": [
+        {
+          "name": "DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05MWExSUVzdEVUZExHbEhlc1FwcXM0ZE9LLW1tWE56cXpRWUNzcFp6X19BWWpsaG0xWUxhRlhuNHVrU2F1WkRTa3RacVhHNXRSbk9SZg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c393c5db453b",
       "title": "대장암, 검진만 잘 받아도 사망 위험 낮아진다 - 하이닥",
       "published": "2026-08-25T03:30:00+00:00",
-      "summary": "대장암, 검진만 잘 받아도 사망 위험 낮아진다&nbsp;&nbsp;하이닥‘발생률 3위’ 대장암, 검진만 잘 받아도 사망 막는다&nbsp;&nbsp;헬스조선",
+      "summary": "대장암, 검진만 잘 받아도 사망 위험 낮아진다&nbsp;&nbsp;하이닥Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "하이닥",
@@ -630,18 +666,6 @@
       ]
     },
     {
-      "id": "6801c202618a",
-      "title": "임신 중 항경련제 노출, 종류·개수 따라 태아 성장저하 위험 달라져 - 메디칼업저버",
-      "published": "2026-08-24T21:03:13+00:00",
-      "summary": "임신 중 항경련제 노출, 종류·개수 따라 태아 성장저하 위험 달라져&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IdmpOZ3g0T21qSlc4MWx1R2ExNjlEWmRzX3VCQ0lnZUVlVHg2NkFFb2tOR1ZNaVJuQ1RabUJkS2h4Qk9TWXJoQk9XNUdkOS1vUDR3Q3R1RnZNcnRXRWh6ZF85YmVZVVlVSnI4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "24c261456a24",
       "title": "혼자 실험하고 새 이론 발견…상상 속 'AI 과학자' 현실로 - 한국경제",
       "published": "2026-08-24T07:06:29+00:00",
@@ -650,18 +674,6 @@
         {
           "name": "한국경제",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SLUoxV1EtSFd0aVNmeU1OakdBNFF3czNUdHdkbkttZURiZ0E3el82NktmZ0p1UDFBRi1pWDdjcEFLOURVb2VXdHZTdnZjaGlFZzQ3VDc5R0REZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55addf07de47",
-      "title": "“혈우병B 치료핵심, 혈관 넘어 관절속 ‘혈관외 분포’와 맞춤형 예방요법” - 코리아헬스로그",
-      "published": "2026-08-24T07:00:00+00:00",
-      "summary": "“혈우병B 치료핵심, 혈관 넘어 관절속 ‘혈관외 분포’와 맞춤형 예방요법”&nbsp;&nbsp;코리아헬스로그",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EdVdQNm4tTzE0RXdFdzdaeVFMSmxYN3hKSkxqMm1FWjJYdHc1bTRSX04xWHhrWmg0TUpyYUNjcUpUcjR5OHkzUWhYMFVLa3UxLTJYdmgzM09kcmFvZnU4UUd3ZDVKSExfMlFuMTN0M3dlZ9IBdkFVX3lxTE5wVk5CdVNpVnEwc21RLUU1bVVwb2FnRHd2a2NFT2JDWFpZVHFMWF95RFJianNHZG9SS3duZFFvVDRxalpsbWg4UkdmUFVpV3EybkEzUDc4VEZscmhMTzZsa0hucFR6cG95TGRnQWFxUmJLUWVoVGc?oc=5"
         }
       ]
     },
