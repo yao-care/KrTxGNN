@@ -1,19 +1,103 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-08-29T20:38:39.826515+00:00",
-  "total_fetched": 133,
-  "unique_count": 131,
-  "health_related_count": 57,
+  "fetched_at": "2026-08-30T04:26:31.316499+00:00",
+  "total_fetched": 137,
+  "unique_count": 136,
+  "health_related_count": 59,
   "news": [
     {
-      "id": "cba2f4bb374d",
-      "title": "[포커스] 치매 정복 한발짝…새 치료법 개발하고 혈액으로 조기 진단 - TV조선뉴스",
-      "published": "2026-08-29T10:28:29+00:00",
-      "summary": "[포커스] 치매 정복 한발짝…새 치료법 개발하고 혈액으로 조기 진단&nbsp;&nbsp;TV조선뉴스사람과 원숭이에만 있는 DNA 조각에서 시작된 변화, 치매로 이어지는 연결고리 찾았다&nbsp;&nbsp;BRIC알츠하이머 악화시키는 '악순환의 연결고리' 찾았다&nbsp;&nbsp;대한민국 정책브리핑[단독]치매 신약 유전적 부작용 막는 투약법 개발&nbsp;&nbsp;동아비즈니스리뷰 | DBR알츠하이머 치매 악화시키는 단백질, 국내 연구진이 규명&nbsp;&nbsp;v.daum.net",
+      "id": "2029622a774c",
+      "title": "\"어지럼증에 뇌졸중 걱정했더니\"…범인은 '귓속 돌' [헬스톡] - 파이낸셜뉴스",
+      "published": "2026-08-30T04:16:00+00:00",
+      "summary": "\"어지럼증에 뇌졸중 걱정했더니\"…범인은 '귓속 돌' [헬스톡]&nbsp;&nbsp;파이낸셜뉴스\"갑자기 세상이 빙빙”…20분 넘게 어지럽다면 의심해야 할 ‘이 병’&nbsp;&nbsp;뉴시스온병원 “갑자기 세상이 ‘빙글’…뇌졸중 아닌 이석증일 수도”&nbsp;&nbsp;인더스트리뉴스갑자기 '빙글빙글' 어지럽고 귀가 '멍'…\"메니에르병 의심해야\" - 머니투데이&nbsp;&nbsp;머니투데이갑자기 세상이 빙글빙글… 뇌졸중 의심했더니 ‘이석증’ 주의보&nbsp;&nbsp;스포츠동아",
       "sources": [
         {
-          "name": "TV조선뉴스",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05MzlfQ1h0Qm1wS1puS3RSY1Q3dEo4UEJFZVZxMDlpXzhzR2t4Zi1HT213UlFUQWhfYzBkOVFFVW9XQS1YeEpNN1hOa1A2TjdTVjgwbGRRcnRXRjducU5NaUpLNDdDQl84NlpwbHVSUnhTZE9tN0laTERlMWFwbzA?oc=5"
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tTmtiSTN5dVFDa0hFNVBQTFRyTGNLTmNFVmxpNk9qaUI3WnlvbjNSelI5LWhjTE0xWFdaMDhoVG4xc0dyZnZETnpxOFJFUk5QeGtwSDRDVFRtUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9a51dce6152f",
+      "title": "\"휴가만 가면 아픈 이유\"…쉬는 순간 무너지는 면역의 정체 - 네이트",
+      "published": "2026-08-30T02:06:00+00:00",
+      "summary": "\"휴가만 가면 아픈 이유\"…쉬는 순간 무너지는 면역의 정체&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKWDNQSlFUZ0Mwd2Q4YVVGaENuajY5RUtidGZKQ3NEVkpWaDF5QlBScExiNXBEM1NfYzZ1UDdiUGtQWF9abEwzMTFIWmNucko4VUFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "76ab35678675",
+      "title": "알츠하이머 치료 열쇠 되나.. 뇌 속 '악순환 고리' 정체 > 뉴스 - 지데일리",
+      "published": "2026-08-29T23:22:00+00:00",
+      "summary": "알츠하이머 치료 열쇠 되나.. 뇌 속 '악순환 고리' 정체 > 뉴스&nbsp;&nbsp;지데일리사람과 원숭이에만 있는 DNA 조각에서 시작된 변화, 치매로 이어지는 연결고리 찾았다&nbsp;&nbsp;BRIC알츠하이머 치매 악화시키는 단백질, 국내 연구진이 규명&nbsp;&nbsp;v.daum.netIBS, 알츠하이머 악순환 끊을 핵심 스위치 찾았다…'네이처' 실려&nbsp;&nbsp;뉴스웍스‘알츠하이머 원인’ 진범 찾았다...근본 치료 가능성 열릴 지 세계가 주목&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "지데일리",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OMU5rVzRvSzlQem5wbnYxMExTemJfYkJWbWRCMEhnUGx6Mkp0bU56X3FReGtEZkRvSE5BWXRBcEFMa0lFTVRCdjRsdUo0UEtUV3lFRzIzUTc1akpSckJXRUZLTmJMWllNTWxQWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38017c874fb7",
+      "title": "연세대학교 신용 교수팀, 소변 속 암 신호 동시에 분석하는 miRNA 다중 정량 기술 개발 - 한국강사신문",
+      "published": "2026-08-29T23:11:00+00:00",
+      "summary": "연세대학교 신용 교수팀, 소변 속 암 신호 동시에 분석하는 miRNA 다중 정량 기술 개발&nbsp;&nbsp;한국강사신문",
+      "sources": [
+        {
+          "name": "한국강사신문",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TZG5iSVFzaHNCSmlGdHdpYnVOcmU3X2RPVVFmMzJMZ1JjbUNoa1JtVFVlRXBlZFNnck1WNnVabGktR1pHYWlybUt5ejJ2d2UtQU1ibjV0d013SHFQbDZvRzdDMzBDUUdUdUJjbUhkZ1Y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3e63c58f354",
+      "title": "사우나가 치매 막는다?…치매 DNA 이겨낸 76세 남자 비밀 - 네이트",
+      "published": "2026-08-29T21:01:00+00:00",
+      "summary": "사우나가 치매 막는다?…치매 DNA 이겨낸 76세 남자 비밀&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mUmZaNDhQRmNwMV9zSnJVYTVrZ3FPTUQ2NUxQdUk4bWZOTkJZTGgwd1B5NjRIOEVveE43eGxNU2FRTmtIMmx2SF9GX3l2YVlzbVpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4bd3b08e707d",
+      "title": "\"새벽에 자꾸 깨요\"…밤중에 식은땀·두근거림으로 깬다면 '혈당' 확인하세요 [닥터톡] - 파이낸셜뉴스",
+      "published": "2026-08-29T21:00:00+00:00",
+      "summary": "\"새벽에 자꾸 깨요\"…밤중에 식은땀·두근거림으로 깬다면 '혈당' 확인하세요 [닥터톡]&nbsp;&nbsp;파이낸셜뉴스매일 혈당 쟀는데 당뇨 판정... '공복혈당 정상'의 함정&nbsp;&nbsp;OhmyNews“당뇨병인 줄 알고 놀랐는데”… 공복혈당 갑자기 튄 이유 셋&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrbTcxenZFb3Etb0VXSVZBWEwzR2tMd01kVlJId1ZEOG0yRHNFRnhST1IyU2twMW0ybXJBZTViZ1NjYm94NGVuendyekQ4MXEwdUU5MG1EalJIUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "670d5e86ead8",
+      "title": "아무리 몸에 좋아도… 토마토 먹으면 위험한 사람 있다, 누구? - 헬스조선",
+      "published": "2026-08-29T19:30:00+00:00",
+      "summary": "아무리 몸에 좋아도… 토마토 먹으면 위험한 사람 있다, 누구?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SMk45N25vYWhiMkZuLUJpTll6ak9BNnI4RGlQYnp0ZzE4WXBRd0ZtbFQzNXFhLVRBSGgwN0xJRzQ4OWdUZXJrTFhtS2k4dnktbHI0OEpQaWU5VThJLTJtanpIcmF4VFFXVDUtYWVKVG56QzFPU1h1di1zdjlNRG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "262ffaecb579",
+      "title": "암이 노인병이라는 공식이 깨지는 중임. - 네이버 프리미엄콘텐츠",
+      "published": "2026-08-29T11:01:00+00:00",
+      "summary": "암이 노인병이라는 공식이 깨지는 중임.&nbsp;&nbsp;네이버 프리미엄콘텐츠“대장 용종 부추긴다”… ‘채소’도 안심 못 한다는데, 무슨 음식?&nbsp;&nbsp;헬스조선달력 나이는 20대, 세포 나이는 40대&nbsp;&nbsp;사이언스타임즈수박이 대장암 위험 낮춘다?... 장 건강에 도움주는 과일 4가지&nbsp;&nbsp;하이닥대장암 위험 줄이려면 섬유질 섭취 늘려야…어떤 음식 먹어야 좋을까?&nbsp;&nbsp;네이트",
+      "sources": [
+        {
+          "name": "네이버 프리미엄콘텐츠",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEpUMXc0MHBJQk9ZcXFUWW5fMXdnME91NDg5c3paSGZFUXhFMXpmWVViUWtYUGNlekswaGhXcDRhU05JRkhRV2Vza2l5RVQ1dGw4ZlBoRG1FaEdtTlZvWE5IVzJRcGtWTnVZTm5LbVpCR2Y1bTkyNXMtNTh4Nllycm9zZ2o?oc=5"
         }
       ]
     },
@@ -69,23 +153,11 @@
       "id": "318442167685",
       "title": "폐렴 위험 높이는 ‘RSV’…고령층·기저질환자 예방접종 중요 [e건강~쏙] - 이투데이",
       "published": "2026-08-29T05:07:00+00:00",
-      "summary": "폐렴 위험 높이는 ‘RSV’…고령층·기저질환자 예방접종 중요 [e건강~쏙]&nbsp;&nbsp;이투데이감기 비슷한데 폐렴, 사망까지…RSV 백신, 가을 유행 전에 맞아야 [건강한겨레]&nbsp;&nbsp;한겨레베이포투스 도입 후 영아 RSV 입원 25% 감소… “NIP 논의 필요”&nbsp;&nbsp;동아일보[ESC 2026] 화이자 아브리스보, 2년차에도 예방 효과&nbsp;&nbsp;의약뉴스RSV 예방접종 국가 지원, 경제성 있을까&nbsp;&nbsp;아시아경제",
+      "summary": "폐렴 위험 높이는 ‘RSV’…고령층·기저질환자 예방접종 중요 [e건강~쏙]&nbsp;&nbsp;이투데이베이포투스 도입 후 영아 RSV 입원 25% 감소… “NIP 논의 필요”&nbsp;&nbsp;동아일보감기 비슷한데 폐렴, 사망까지…RSV 백신, 가을 유행 전에 맞아야 [건강한겨레]&nbsp;&nbsp;한겨레신생아들이 위험한 호흡기 세포융합 바이러스(RSV) 발생 직전에 놓여 있습니다.&nbsp;&nbsp;Vietnam.vn[ESC 2026] 화이자 아브리스보, 2년차에도 예방 효과&nbsp;&nbsp;의약뉴스",
       "sources": [
         {
           "name": "이투데이",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNU1JhcWo1ZFlDV19DRmJ6Uk15ckVIdmpURXZCdkwxUU95WExwNWFROXgtd1p4NE5TUm13TjVUWjJrN1JFckduRFlveEJKUFNienFIdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd2d3941c48a",
-      "title": "'건강 치트키' 키위는 껍질째 먹어도 될까[이설의 한입 스토리] - 네이트",
-      "published": "2026-08-29T01:01:00+00:00",
-      "summary": "'건강 치트키' 키위는 껍질째 먹어도 될까[이설의 한입 스토리]&nbsp;&nbsp;네이트",
-      "sources": [
-        {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFT2laZWxwb0NfTlJ4WHJDOUhwSzUzMlFVY25tMmZrYlNXb0V5YklDWk13R2ZBMzB4UWpfRm9aTHFZUTVvd0oyWUJqZUNweXJWOUVv?oc=5"
         }
       ]
     },
@@ -98,18 +170,6 @@
         {
           "name": "팜이데일리",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSnBQcll2Y29MdXhsUFFZaTUtM2l2V24xOS1MZ0RTWXhjYVNUX1A5cWFfSGJnUFZSUHRhWGt0d3ZsM3ZSVkpXLXh4bXM5eFdGUS1DSHItLVR1SV9PSHFhZFlZazQ5QWVUWVNwSWZlX0tFckhnU29UcXQzMllWWjE2d1JJWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6072252639d",
-      "title": "“대장 용종 부추긴다”… ‘채소’도 안심 못 한다는데, 무슨 음식? - 헬스조선",
-      "published": "2026-08-28T22:01:00+00:00",
-      "summary": "“대장 용종 부추긴다”… ‘채소’도 안심 못 한다는데, 무슨 음식?&nbsp;&nbsp;헬스조선암이 노인병이라는 공식이 깨지는 중임.&nbsp;&nbsp;네이버 프리미엄콘텐츠\"삼겹살에 소주, 소파에 털썩\"…24년 새 3.3배 뛴 '한국인 3위 암'&nbsp;&nbsp;네이트달력 나이는 20대, 세포 나이는 40대&nbsp;&nbsp;사이언스타임즈수박이 대장암 위험 낮춘다?... 장 건강에 도움주는 과일 4가지&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0QUJ6eFFGN0xmcllBbHVTT0FJaURmS1p5UWRWajROUklieUhEQkxHYlpnMWRHWUJSb2N3eVlKUmxBV2NqWjk5cW1vdzVVWWdCd0RDSnF5eTVjVmJ4eTlLM1JJeE8xSHdNYlotbEVqdWFkS3VjdFpsczgyamsyZTA?oc=5"
         }
       ]
     },
@@ -129,7 +189,7 @@
       "id": "32a2539512cd",
       "title": "[메디컬 인사이트 151회] 면역력이 무너지면 찾아오는 질병 '대상포진' - 네이트",
       "published": "2026-08-28T11:49:00+00:00",
-      "summary": "[메디컬 인사이트 151회] 면역력이 무너지면 찾아오는 질병 '대상포진'&nbsp;&nbsp;네이트\"초기 치료 놓치면 합병증\"... 대상포진, 눈 주위에 발생했다면 [우수한의 우수한스킨노트]&nbsp;&nbsp;v.daum.net여름철 피로가 계속되면, 면역력 점검으로 확인하는 대상포진 위험 신호&nbsp;&nbsp;네이트찌릿한 통증에 붉은 수포, 대상포진 의심…환자 5명 중 3명은 40~60대&nbsp;&nbsp;스포츠조선[Enjoy Life] 여름철 늘어나는 대상포진… 몸 한쪽 ‘찌릿’하면 의심&nbsp;&nbsp;대한경제",
+      "summary": "[메디컬 인사이트 151회] 면역력이 무너지면 찾아오는 질병 '대상포진'&nbsp;&nbsp;네이트\"초기 치료 놓치면 합병증\"... 대상포진, 눈 주위에 발생했다면 [우수한의 우수한스킨노트]&nbsp;&nbsp;v.daum.net찌릿한 통증에 붉은 수포, 대상포진 의심…환자 5명 중 3명은 40~60대&nbsp;&nbsp;스포츠조선면역력이 약한 사람들은 대상포진에 걸릴 위험이 더 높습니다.&nbsp;&nbsp;Vietnam.vn면역 떨어진 여름에 찾아오는 대상포진... 치료 골든타임은 72시간&nbsp;&nbsp;한국일보",
       "sources": [
         {
           "name": "네이트",
@@ -152,7 +212,7 @@
     {
       "id": "2dcbe2178a35",
       "title": "지구 궤도, 의약품 공장으로…'우주 바이오제조' 꿈 커진다 - v.daum.net",
-      "published": "2026-08-28T08:47:00+00:00",
+      "published": "2026-08-28T08:47:49+00:00",
       "summary": "지구 궤도, 의약품 공장으로…'우주 바이오제조' 꿈 커진다&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
@@ -170,6 +230,18 @@
         {
           "name": "헬스코리아뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pY296U2o3aFFlRVYxQXZ1RVhsWUEzeG85c3E0ckZncEJIYnZybVlmSkhHNHZFQWcwT3NCSkhHUF9pSnlLbmNLZHVfWXNUdHU4VzVfeUFlRXRQelRaVDFpVDZUbTd0ME0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "284f4ec8d51e",
+      "title": "[기고] 자돈 장건강 관리의 핵심 질병, 베로독소 증후군(Verotoxigenic associated syndrome) - 돼지와사람",
+      "published": "2026-08-28T08:14:46+00:00",
+      "summary": "[기고] 자돈 장건강 관리의 핵심 질병, 베로독소 증후군(Verotoxigenic associated syndrome)&nbsp;&nbsp;돼지와사람",
+      "sources": [
+        {
+          "name": "돼지와사람",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85VFRyNnRYUTlCMFlpLUNzS3hCYTRBQTFKWDlfdjVGX2dSNDZEb2hZZi1xaXhiX3I1OWkxM1l5ZkdiRDhPTlNSMV9WanJMU3hwcy1SYlQzYlNKNDF5NE5pZVFB?oc=5"
         }
       ]
     },
@@ -210,18 +282,6 @@
       ]
     },
     {
-      "id": "148cb9b95b7c",
-      "title": "당뇨병 환자, 쓰는 약 따라 치매 위험 달랐다 - 헬스조선",
-      "published": "2026-08-28T01:15:00+00:00",
-      "summary": "당뇨병 환자, 쓰는 약 따라 치매 위험 달랐다&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hVm5DV2pWVi1Obm0tZk1ITUY0UF8yM0JWRGhxc0NfQ0JVTmNaTE44ZFdLNHo4eUNhNS1sUWpnUGMyYl9qVlRkN3hPQ0dadExjTk0xZ0V5eEM1aHNpTm50RVlWd0pNNk8tVGFEN2pZcUdDaFpzMFQxN3lHSmt1alE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6a5356ba6333",
       "title": "대상포진 백신 맞았는데 뇌졸중 위험 줄었다고? - 매일경제",
       "published": "2026-08-28T00:50:09+00:00",
@@ -246,14 +306,14 @@
       ]
     },
     {
-      "id": "18f1a789ef8b",
+      "id": "e000361b9dcd",
       "title": "신약 개발 속도 낸다…국내 독자 기술 AI 모델 나왔다 [지금은 과학] - v.daum.net",
       "published": "2026-08-27T23:08:10+00:00",
       "summary": "신약 개발 속도 낸다…국내 독자 기술 AI 모델 나왔다 [지금은 과학]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VZEFnWVByMmhCR1JUWER4OTBfZlhUY3czOFZBM2RBcl9zVU80MWYwWnFsLTJSSVYtblcwbVozR2dHX0pGTjR0LUdMd3AzYU0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5faE1sRG5LQWxLRlR5SXN0Nk41dFVuVHZ3Q3FWNkV1S2RnYlZuc1BPM1oteUhTcWIzWEpRbUc1bmhOc2h1bWc?oc=5"
         }
       ]
     },
@@ -270,6 +330,18 @@
       ]
     },
     {
+      "id": "898f8300cd1b",
+      "title": "당뇨병 환자를 위한 피부 예방 및 관리 방법 - Laodong.vn",
+      "published": "2026-08-27T09:00:00+00:00",
+      "summary": "당뇨병 환자를 위한 피부 예방 및 관리 방법&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHJXY0xrVnkxZ2otUzZjX290dXkzajdDV3FTaFFGdU5WNGhHNWRWYzhJdGJhMTFnOGNHcDEtdEl5YnVpZ0dGc0k2Wmo5NzZsVkhWTUtxUlNCUWJ0b3VGLUNmVF9RcENIU25QWFlzclBVbEVlYktsY1ljS25GS1JYRG1CaHI2Y0tGTHA0eE52OWk1R1piaFJMQVBYazJXQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2a77f4fc7933",
       "title": "[신간] 《나는 수술하는 정신과 의사입니다》 - 톱클래스",
       "published": "2026-08-27T07:59:39+00:00",
@@ -278,18 +350,6 @@
         {
           "name": "톱클래스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00ZF9ZbFRESmtGRzhWbmY2b1RzbEZnODZoOXZOWlFuak9tandwbGZQVjBDRFctZjRSME43Nlk2VXNWVEkzVTExSzFIVDA5bFRLNGo4MHQxLUdFcXhJbW1ocUtUclQ2OWNvTHdRM9IBcEFVX3lxTFBSUFIzQnN3LWp2TnJXQWVNUm9ncm9mVUJjd3VyTURGQVlSY3ZKRmZzeWh2S1JwaXV6MEUzUzVRY1BhNFlnVjVUYnhaS1I5R3VPaGdxT0RNY0JJSC1YeVVDU0ktZWJCNHEwRzh3bVNzZWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd9b8b514b0e",
-      "title": "뎅기열 증가, 호치민시 전염병 발생 위험 경고 - Laodong.vn",
-      "published": "2026-08-27T07:13:30+00:00",
-      "summary": "뎅기열 증가, 호치민시 전염병 발생 위험 경고&nbsp;&nbsp;Laodong.vn하노이시는 32개 동과 면을 대상으로 뎅기열 감시 및 예방 활동을 강화하고 있다.&nbsp;&nbsp;Vietnam.vn탄쑤안 동은 우기 동안 뎅기열 예방 및 통제 노력을 강화합니다.&nbsp;&nbsp;Vietnam.vn오디앙 코뮌은 라이브 스트리밍을 통해 뎅기열 예방 및 통제 활동을 강화하고 있습니다.&nbsp;&nbsp;Vietnam.vn하노이에서는 한 주 동안 300건이 넘는 뎅기열 환자가 발생했습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTJJRmZTZHJyX09ZX0JIbUIzQVJJZFdETlpvVno3dmhTYWp1d2ZGeGxNcFYtYXZxN3JJOWhCbEZsVWI3NUF5d1ViVGV3SDRrY0Z3djdaRXdEUWR2dlhjYk5lWXBVV2FqUkY0eGVLZ3FVb2tqZmV4WU5vb0JiUnNMN0haejAzNnBsUDZFUjlvcVlyNWRxVVQtbWZKSjB4eE9Vb3dXczFnUmdadw?oc=5"
         }
       ]
     },
@@ -390,6 +450,18 @@
       ]
     },
     {
+      "id": "fb3bc1aecbdb",
+      "title": "[건강 칼럼] '천식과 COPD, 숨 가쁨의 원인 찾아 관리해야?' - edaily.co.kr",
+      "published": "2026-08-26T22:03:02+00:00",
+      "summary": "[건강 칼럼] '천식과 COPD, 숨 가쁨의 원인 찾아 관리해야?'&nbsp;&nbsp;edaily.co.kr",
+      "sources": [
+        {
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFZiVS1uN3ZpZmxnQVhVNWU1N2ttaEFVV0E5bWlyT3RJRTFKYl9rcjZ1M2lzZ0Z1YzcyVmpXRG55SUhOVEhMS2p3dVRkYkNEcWVOdHduZHJuMHppd056czZVNC1GNFVFXy0tSWlfU0dkbG1uMXNGVmMtWkRoYWtCOQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c9c8b36d9fc5",
       "title": "출혈 없는데 헤모글로빈 감소?···항응고제 치료 중 암 발생 주의보 - 메디칼업저버",
       "published": "2026-08-26T21:00:05+00:00",
@@ -434,6 +506,18 @@
         {
           "name": "인민넷",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwNXRvUm9fREVpMmR5MWNoLXJHMEx4b0pkQXF2TlYxbElwVjgxdFd0aWEyZ1VLN3JUYk5Jdm9lXzhBek1SaGNuaTVWb1M4LTZBZ21RU0oxOGVUcmRIc1RINTVIU3V0cHNuWFU3XzRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "15afe45d0b0e",
+      "title": "\"피라미드 만든 고대 이집트 측량도구 발견\" - ABC뉴스",
+      "published": "2026-08-26T01:06:43+00:00",
+      "summary": "\"피라미드 만든 고대 이집트 측량도구 발견\"&nbsp;&nbsp;ABC뉴스",
+      "sources": [
+        {
+          "name": "ABC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FaXpIb0ZIaDdoMTlaTE1GQ1NlTGhheWZkMGVWZ1R0SmVDNGhkbTRNcjdFUjJ1RjFuQ3NlbjdTOTlJOWdZOFhWak50dmJwNkQybXJZZXJ0cm9qTEgyRUlNcnNlTQ?oc=5"
         }
       ]
     },
@@ -494,30 +578,6 @@
         {
           "name": "제주의소리",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2OXJMdkR0WDIyZC1WcGxSNktmeVlWa3FHVFZSbjVtRUczMEQ1b0NfVUREbl8zQkRGMWwwTmlHTUx6RHhSdDBRNWlibmFsZy1ieDZsUEd5M2JPcHRjRUZCZnlTZkFKc0tYaERJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "133ec92db0a3",
-      "title": "연세대 신용 교수팀, “소변 속 암 신호를 동시에 읽는다” miRNA 다중 정량 기술 개발 - 한국대학신문",
-      "published": "2026-08-25T07:00:00+00:00",
-      "summary": "연세대 신용 교수팀, “소변 속 암 신호를 동시에 읽는다” miRNA 다중 정량 기술 개발&nbsp;&nbsp;한국대학신문",
-      "sources": [
-        {
-          "name": "한국대학신문",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kR0ZTQjZLNVUwUTgzT0FIejRULTZTakVwd1ZTanJFNEt1dTlfdHR0THdJTTEzZTJxbFBLYXg5aDNvel84Z1UzQk8tVDQtLXp4TDhvcGpoMC1yRi1DQWVoc0RFU0NwUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e33b338bba9",
-      "title": "환절기 A형 간염·백일해 주의보...백신 접종이 '최선' - 파이낸셜뉴스",
-      "published": "2026-08-25T04:59:59+00:00",
-      "summary": "환절기 A형 간염·백일해 주의보...백신 접종이 '최선'&nbsp;&nbsp;파이낸셜뉴스",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tNnBrYTFabTMzWkJnZko3YTlMSWtGSFpsdTJ2R3QtZndDOE9vMFlvNnotVlh2VXlRSlRBTGI0T01DZDV5Vy03d3k4Q0EtQlNpOWFLcHZRYm44UQ?oc=5"
         }
       ]
     },
@@ -650,42 +710,6 @@
         {
           "name": "머니투데이",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81TTZVaHJKbF8zRmtYVms3RENORW5TaFBrMnRKb2ZxYTR5aXo5cjNQc2Q2VURYakFlMHRnd0l0eFBrUjR3TTZrNkpWYldsalV3N3dhZEs5eVZ4azl6SHNDaGUzZm1ReHfSAWxBVV95cUxQbmNhREJmUFlMaHM1dFFpR0NpaFdzbmtOYmhHQ3lySUxVNXAwalItcVMzV25wSWRxT2VjeFBlMC1teHRkSDVOQ0NzV29iazVwWjNBSnNhcE1rMFhPQ3g0ekR1LXJZelJ5cVUyZ3o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4366977f90cb",
-      "title": "당뇨에 좋은 약 복용 중인데 혈당이 안 잡힌다면… 췌장 기능부터 점검할 것 - 바이오타임즈",
-      "published": "2026-08-23T23:00:00+00:00",
-      "summary": "당뇨에 좋은 약 복용 중인데 혈당이 안 잡힌다면… 췌장 기능부터 점검할 것&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02bG45YzZWNlpLUVJZYmFrdElabTdCZjlkbDFyb202MEFneWxLSXBHNU9hN3AtQU93RkZrak02QWQ2WEVOVUkzbFNVR3luaVhuWHNBb25EeGdMT01OWEJaQ1QxRW1NN2Jjbm5nNg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d94c9156408b",
-      "title": "세포노화 연구 50여편 신뢰도·재현성 논란…\"잘못된 항체 썼다\" - DongA Science",
-      "published": "2026-08-23T02:11:00+00:00",
-      "summary": "세포노화 연구 50여편 신뢰도·재현성 논란…\"잘못된 항체 썼다\"&nbsp;&nbsp;DongA Science",
-      "sources": [
-        {
-          "name": "DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVE5KNEtBVFIyWVBpcWpkeVFlOTFyTDVkOFNDNVZmV3hKeUFBa1ZITk1pVTdGeUUxSDJORHhyZFNQdFdaRVIyVUJxY1M5VHJWbThqYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "286c35398208",
-      "title": "“암세포 증식 막는다”… ‘74세’ 박정수가 먹은 음식, 뭘까? - 헬스조선",
-      "published": "2026-08-23T00:03:00+00:00",
-      "summary": "“암세포 증식 막는다”… ‘74세’ 박정수가 먹은 음식, 뭘까?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45dWdOQnNmLVNtdE4zbWhHZXNyTjRDZWo1c0VIdThiZ0laUlJ2SXZ1Qnh5bHVFTGg1M3JDY2tKY01XWlBCdTlXZlRNOVdEd1JhRzdqbjV3ZkZ4UUlabXFwMUd1MWh4YWxHZkVnQVpjTU5NMjVfQmlqdXpEalJ5MlU?oc=5"
         }
       ]
     }
