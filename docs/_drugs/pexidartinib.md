@@ -1,0 +1,107 @@
+---
+layout: default
+title: Pexidartinib
+parent: 僅模型預測 (L5)
+nav_order: 547
+evidence_level: L5
+indication_count: 10
+---
+
+# Pexidartinib
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Pexidartinib: 적응증 정보 부족에서 HER2 양성 유방암으로
+
+## 한 문장 요약
+
+Pexidartinib(DrugBank DB12978)은 한국에서 아직 허가되지 않은 약물로, 기존 적응증 및 작용기전(MOA)에 대한 상세 정보가 확보되지 않았습니다.
+TxGNN 모델은 **HER2 양성 유방암(HER2 Positive Breast Carcinoma)**에 효과가 있을 수 있다고 예측했으나(예측 점수 99.98%),
+현재 관련성이 불확실한 임상시험 1건만이 확인되어 근거가 매우 약합니다. 참고로 본 Evidence Pack에는 pexidartinib의 실제 승인 적응증인
+건막(활막)거대세포종(Tenosynovial Giant Cell Tumor, TGCT) 관련 강한 문헌 근거도 함께 포함되어 있어 별도 확인이 필요합니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (한국 허가 이력 없음, `original_indications` Data Gap) |
+| 예측 신규 적응증 | HER2 양성 유방암 (HER2 Positive Breast Carcinoma) |
+| TxGNN 예측 점수 | 99.98% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | 미출시 (未上市) |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터는 공식적으로 확보되지 않았습니다(Data Gap, DG002). 다만 본 Evidence Pack에 포함된 문헌(PMID 31602563)에 따르면
+pexidartinib은 CSF1 수용체(CSF1R), KIT, FLT3-ITD를 표적으로 하는 경구용 저분자 티로신 키나제 억제제로, 종양 관련 대식세포(TAM)의
+CSF1/CSF1R 신호전달을 차단하는 기전으로 작용하는 것으로 보고됩니다.
+
+HER2 신호전달 경로와 CSF1R 억제 사이의 직접적인 기전적 연결고리는 확인되지 않았습니다. TxGNN이 산출한 높은 예측 점수는 HER2 아형에
+특이적인 관련성보다는 지식그래프 상 '유방암' 상위 노드와의 일반적 인접성을 반영했을 가능성이 있습니다. 유일하게 연계된 임상시험(I-SPY2)은
+다양한 표적 약물과 유방암 아형을 포괄하는 다중군 적응적 플랫폼 시험으로, pexidartinib 특정 치료군의 존재 여부가 확인되지 않아 관련성이 명확하지 않습니다(관련성 등급 B).
+
+## 임상시험 근거
+
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT01042379](https://clinicaltrials.gov/study/NCT01042379) | Phase 2 | 모집 중 | 5000 | 유방암 아형별 최적 신약 후보 및 조기 반응 예측인자를 탐색하는 다중군 적응적 플랫폼 시험(I-SPY2). pexidartinib 특정 치료군 포함 여부는 확인되지 않음 |
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 세포독성
+
+Pexidartinib은 표적치료(kinase inhibitor)로서 종양(TGCT) 치료제로 알려져 있어 세포독성 섹션을 기재합니다.
+
+| 항목 | 내용 |
+|------|------|
+| 세포독성 분류 | 표적치료제 (CSF1R/KIT/FLT3-ITD 선택적 억제 저분자 티로신 키나제 억제제, 문헌 근거: PMID 31602563) |
+| 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- HER2 양성 유방암에 대한 근거는 관련성이 불명확한 단일 다중군 시험(I-SPY2)뿐이며 관련 문헌도 없어 L4 수준에 그치고, 기전적 연결고리도 확인되지 않아 현 시점에서 진행 근거가 부족합니다.
+- 참고로 같은 Evidence Pack 내 다른 예측 항목("synovium cancer" 등)에서는 pexidartinib의 실제 승인 적응증인 건막거대세포종(TGCT)에 대해 Phase 3 RCT(ENLIVEN, PMID 31229240)를 포함한 강한 근거(L2, "Proceed with Guardrails")가 확인되었습니다. 이는 신규 적응증이 아닌 기존 승인 적응증의 재확인으로 판단되므로 별도 트랙에서 검토가 필요합니다.
+
+**진행하려면 필요한 것:**
+- 작용기전(MOA), 한국 허가 현황, 안전성(경고/금기/DDI) 등 Drug-Level Data Gap 해소 (DG001: MFDS/식약처 허가사항 확인, DG002: DrugBank MOA 조회)
+- I-SPY2 시험의 세부 프로토콜 확인을 통해 pexidartinib 특정 치료군 존재 여부 검증
+- 건막거대세포종(TGCT) 관련 예측 항목(rank 6/7/10)을 별도 후보로 분리하여 재평가 진행 여부 결정
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

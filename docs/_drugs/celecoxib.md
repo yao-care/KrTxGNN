@@ -1,0 +1,110 @@
+---
+layout: default
+title: Celecoxib
+parent: 僅模型預測 (L5)
+nav_order: 189
+evidence_level: L5
+indication_count: 10
+---
+
+# Celecoxib
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Celecoxib: 관절염 치료제에서 골관절염 감수성(Osteoarthritis Susceptibility)으로
+
+## 한 문장 요약
+
+Celecoxib는 선택적 COX-2 억제제 계열 NSAID로, 해외 문헌상 골관절염·류마티스 관절염·강직성 척추염 등에 사용되는 것으로 알려져 있으나 현재 이 Evidence Pack에는 한국(당사국) 허가 자료가 없습니다.
+TxGNN 모델은 **골관절염 감수성(Osteoarthritis Susceptibility)**에 효과가 있을 수 있다고 예측했으나(예측 순위 1위), 이는 질병 자체가 아닌 유전적 감수성 표현형이며, 현재 **관련 임상시험은 없고 문헌 2편**만 확인됩니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (한국 허가 자료 없음; 해외 문헌상 골관절염·류마티스 관절염·강직성 척추염 치료제로 알려짐) |
+| 예측 신규 적응증 | 골관절염 감수성 (Osteoarthritis Susceptibility) |
+| TxGNN 예측 점수 | 99.97% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | 미상판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터가 없습니다. 알려진 정보에 따르면, Celecoxib는 선택적 COX-2 억제제 계열 NSAID이며, 관절염 영역(골관절염·류마티스 관절염·강직성 척추염)에서 효능이 입증되어 있습니다.
+
+다만 이번 예측 대상인 "골관절염 감수성(susceptibility)"은 실제 치료 적응증이 아니라 유전적 감수성 표현형 노드입니다. Celecoxib의 COX-2 억제 기전은 이미 발병한 골관절염의 증상 완화에는 기여할 수 있지만, "감수성" 자체(질병 발생 소인)에는 직접적인 기전 연관성이 없습니다. TxGNN의 높은 점수는 지식그래프상 골관절염 노드와의 인접성에서 비롯되었을 가능성이 있어, 해석에 주의가 필요합니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [30860559](https://pubmed.ncbi.nlm.nih.gov/30860559/) | 2019 | Cohort (Tramadol, 非 celecoxib) | JAMA | 무릎 골관절염 환자에서 트라마돌 사용과 전체 사망률의 연관성 분석 (celecoxib 직접 데이터 아님) |
+| [36056857](https://pubmed.ncbi.nlm.nih.gov/36056857/) | 2023 | Review (제형 관련) | Current Drug Delivery | 골관절염 관리를 위한 신규 제형 접근법 리뷰 (유병률 등 배경 정보 위주, 치료 효능 근거 아님) |
+
+---
+
+## 한국 시판 정보
+
+현재 한국 내 허가 정보가 없습니다 (시판 현황: 미상판, 허가증 0건).
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 근거 수준이 L4로, 이 예측 적응증(골관절염 감수성)에 특화된 임상시험이 전혀 없고, 문헌 2편도 celecoxib 직접 효능을 다루지 않습니다.
+- "감수성(susceptibility)" 표현형은 치료 대상이 아닌 유전적 소인 개념이라 임상적 리포지셔닝 대상으로 부적합할 가능성이 높습니다.
+
+**진행하려면 필요한 것:**
+- Celecoxib MOA 상세 데이터(DrugBank) 및 한국 내 허가/안전성(TFDA 수준) 자료 확보
+- "골관절염 감수성"과 실제 임상 골관절염 간의 관계에 대한 전임상/유전학적 근거 보강
+- 관련 전임상 또는 초기 임상시험 등록 확인
+
+> 참고: 동일 Evidence Pack 내 다른 예측 적응증 중 **강직성 척추염**(L1, Proceed with Guardrails, 임상시험 17건·문헌 20편), **골관절염**(L1, Proceed with Guardrails, 임상시험 50건·문헌 20편), **소아특발성관절염**(L1, Proceed with Guardrails, 임상시험 4건·문헌 20편)은 이번 순위 1위 후보보다 훨씬 강한 근거를 보유하고 있어, 우선 검토 대상으로 고려할 수 있습니다.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,0 +1,106 @@
+---
+layout: default
+title: Phentolamine
+parent: 僅模型預測 (L5)
+nav_order: 550
+evidence_level: L5
+indication_count: 10
+---
+
+# Phentolamine
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Phentolamine: 원 적응증 정보 없음에서 내장 칼시필락시스(Visceral Calciphylaxis)로
+
+## 한 문장 요약
+
+Phentolamine은 비선택적 α1/α2-아드레날린 수용체 길항제로, 문헌상 전통적으로 갈색세포종 관련 고혈압 조절, 혈관경련성 질환, 발기부전(해면체 주사) 등에 사용된 이력이 있으나 이 Evidence Pack에는 공식 기존 적응증 및 작용기전(MOA) 데이터가 없습니다(Data Gap). TxGNN 모델은 **내장 칼시필락시스(Visceral Calciphylaxis)**에 효과가 있을 수 있다고 예측했으나, 이를 뒷받침하는 **임상시험과 문헌은 현재 0건**으로, 순수 모델 예측 단계입니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 자료 없음 (한국 미허가, `original_indications` 및 MOA 데이터 갭) |
+| 예측 신규 적응증 | 내장 칼시필락시스 (Visceral Calciphylaxis) |
+| TxGNN 예측 점수 | 99.995% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미상시 (허가 없음) |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용기전(MOA) 데이터가 없습니다(Data Gap). Evidence Pack의 예측 근거(rationale)에 따르면, Phentolamine은 α-아드레날린 수용체 길항 작용을 통해 혈관을 확장시키는 약물로 알려져 있습니다.
+
+칼시필락시스(calciphylaxis)는 혈관벽 석회화와 미세혈관의 허혈성 괴사를 특징으로 하는 질환입니다. 이론적으로는 α-차단제의 혈관 확장 작용이 국소 혈류를 개선시킬 가능성이 제시되지만, **이 연관성을 뒷받침하는 임상시험이나 문헌은 전혀 없으며**, 순수하게 모델이 도출한 기전 유추 수준의 가설입니다.
+
+> 참고: 같은 Evidence Pack 내 예측 순위 2위인 "vascular disease(혈관질환)"는 완료된 발기부전 해면체주사 임상시험(NCT03033537, Grade A)과 20편의 문헌을 확보하고 있어 근거 수준이 L3(S2, Research Question)로 상대적으로 훨씬 강합니다. 내장 칼시필락시스보다 우선 검토할 가치가 있는 후보입니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+---
+
+## 한국 시판 정보
+
+한국 내 허가된 Phentolamine 제품이 없습니다 (시판 현황: 미상시, 허가증 0건).
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요. (TFDA 라벨 경고·금기·DDI 정보 모두 확인되지 않음 — Blocking Data Gap)
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+내장 칼시필락시스 적응증은 TxGNN 예측 점수는 높으나(99.995%), 이를 뒷받침하는 임상시험·문헌이 전무하여 근거 수준 L5(모델 예측만 존재)에 해당합니다. 안전성 데이터(TFDA 라벨, MOA)도 확보되지 않아 S1 안전성 초기 평가 단계에도 진입할 수 없습니다.
+
+**진행하려면 필요한 것:**
+- TFDA 공식 허가 라벨(경고/금기) 확보 — 현재 Blocking 등급 Data Gap (DG001)
+- DrugBank 기반 작용기전(MOA) 확인 — High 등급 Data Gap (DG002)
+- 내장 칼시필락시스에 대한 전임상(동물모델) 또는 기전 연구 확보
+- 대안으로 근거가 더 풍부한 "vascular disease" (순위 2, L3, Research Question) 후보를 별도 평가 대상으로 우선 검토 권장
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,0 +1,105 @@
+---
+layout: default
+title: Olanzapine
+parent: 僅模型預測 (L5)
+nav_order: 517
+evidence_level: L5
+indication_count: 3
+---
+
+# Olanzapine
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **3** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# OLANZAPINE: 기존 적응증 정보 없음에서 영아 양성 발작성 사경으로
+
+## 한 문장 요약
+
+OLANZAPINE(DrugBank ID: DB00334)은 이번 Evidence Pack 상 원 개발 적응증 및 작용기전(MOA) 정보가 확보되지 않은 상태입니다. TxGNN 모델은 **영아 양성 발작성 사경(Benign Paroxysmal Torticollis of Infancy)**에 효과가 있을 수 있다고 예측했으나(점수 99.54%), 이를 뒷받침하는 임상시험이나 문헌은 현재 **전무**합니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 데이터 없음 (원 개발 적응증 정보 미확보) |
+| 예측 신규 적응증 | 영아 양성 발작성 사경 (Benign Paroxysmal Torticollis of Infancy) |
+| TxGNN 예측 점수 | 99.54% (전체 순위 8,023위) |
+| 근거 수준 | L5 (모델 예측만 존재, 실제 연구 없음) |
+| 한국 시판 현황 | 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터가 없습니다. 또한 Evidence Pack에는 이 약물의 원 개발 적응증 정보도 포함되어 있지 않아, 기존 적응증과 예측된 신규 적응증(영아 양성 발작성 사경) 사이의 약리학적 연관성을 설명할 근거가 부족합니다.
+
+이 예측은 TxGNN의 지식그래프 기반 연산 결과에만 의존하고 있으며, 이를 임상적·문헌적으로 뒷받침하는 실제 연구는 현재 확인되지 않았습니다. 따라서 이 적응증에 대해서는 기전상 타당성을 판단하기 위한 추가 조사(DrugBank MOA 조회 등)가 선행되어야 합니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+---
+
+## 한국 시판 정보
+
+현재 한국 내 허가 정보가 없습니다 (미시판, 허가증 0건).
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요. (한국 규제기관의 경고·금기·상호작용 정보가 아직 확보되지 않았습니다.)
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+TxGNN 모델 예측 외에 임상시험·문헌 근거가 전혀 없고, 작용기전(MOA)과 한국 내 허가·안전성 정보(경고, 금기)도 확보되지 않아 현시점에서 판단할 근거가 부족합니다.
+
+**진행하려면 필요한 것:**
+- DrugBank API를 통한 작용기전(MOA) 확보
+- 한국 규제기관 허가사항(경고·금기·DDI) 확보
+- 영아 양성 발작성 사경 관련 임상/전임상 근거 추가 탐색
+
+**참고:** 동일 Evidence Pack 내 다른 예측 적응증 중 **agoraphobia**(문헌 7편, 12주 open-label 병용 시험 포함, PMID 16415705)와 **dysthymic disorder**(문헌 5편, Cochrane 체계적 문헌고찰 포함, PMID 21154393)는 상대적으로 더 많은 문헌 근거를 보유하고 있어, 우선 검토 후보로 고려할 가치가 있습니다.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

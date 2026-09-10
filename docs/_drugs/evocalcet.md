@@ -1,0 +1,106 @@
+---
+layout: default
+title: Evocalcet
+parent: 僅模型預測 (L5)
+nav_order: 309
+evidence_level: L5
+indication_count: 8
+---
+
+# Evocalcet
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **8** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Evocalcet: 속발성 부갑상선기능항진증에서 고인산혈증으로
+
+> ※ `original_indications`/`original_moa` 필드는 데이터 갭이며, 아래 "기존 적응증"은 근거 문헌(rationale) 내 서술된 약물 계열 정보(cinacalcet/etelcalcetide와 동일 계열)에 근거한 것입니다.
+
+## 한 문장 요약
+
+Evocalcet(DB12388)은 제2세대 擬鈣劑(calcimimetic)로, 투석 환자의 속발성 부갑상선기능항진증(PTH 분비 억제) 치료에 쓰이는 계열 약물입니다. TxGNN 모델은 **고인산혈증(Hyperphosphatemia)**에도 효과가 있을 수 있다고 예측하며(점수 99.97%), 현재 관련 임상시험은 없고 **문헌 2편**(전임상 약리 연구 1편, 관련성 불확실 사례보고 1편)만 확인됩니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (한국 미허가, `original_indications` 데이터 갭 — 동일 계열 약물은 속발성 부갑상선기능항진증에 사용) |
+| 예측 신규 적응증 | 고인산혈증 (Hyperphosphatemia) |
+| TxGNN 예측 점수 | 99.97% |
+| 근거 수준 | L4 (전임상/사례보고 수준) |
+| 한국 시판 현황 | 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+`original_moa` 필드는 데이터 갭으로 상세 기전 정보가 확보되지 않았습니다. 다만 근거 문헌에 따르면 Evocalcet은 부갑상선세포의 CaSR(칼슘감지수용체)에 작용해 세포외 칼슘에 대한 민감도를 높여 PTH 분비를 억제하는 제2세대 擬鈣劑입니다.
+
+동일 계열 약물(cinacalcet, etelcalcetide)이 CKD/투석 환자의 속발성 부갑상선기능항진증 치료 시 혈중 인(phosphate) 수치도 함께 낮추는 것은 잘 알려진 계열 효과(class effect)입니다. PTH 억제가 골 흡수를 줄여 인 유리를 감소시키는 기전상, 고인산혈증에 대한 적용 가능성은 기전적으로 설득력이 있습니다.
+
+다만 이번 근거팩에는 이를 직접 뒷받침하는 임상시험이나 고인산혈증 특이적 임상 문헌은 없고, 전임상 약리 연구 1편만 존재해 현 단계에서는 가설적 수준입니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [29614098](https://pubmed.ncbi.nlm.nih.gov/29614098/) | 2018 | 전임상/약리학 | PloS one | Evocalcet(MT-4580/KHK7580)이 소화기 부작용이나 CYP 영향 없이 부갑상선세포 기능을 억제함을 in vivo/in vitro로 확인 — cinacalcet 대비 위장관 내약성 개선 시사 |
+| [40471524](https://pubmed.ncbi.nlm.nih.gov/40471524/) | 2025 | 사례보고 (관련성 불확실) | Clinical Journal of Gastroenterology | 선천성 간섬유증·속발성 부갑상선기능항진증 환자의 급속 간 석회화 사례 — 고인산혈증과의 직접 연관성은 불명확 |
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요. (TFDA/한국 첨부문서 데이터가 확보되지 않은 Blocking 데이터 갭 상태이며, DDI 조회도 결과 없음)
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 안전성 핵심 데이터(경고·금기·DDI)가 전부 확보되지 않은 Blocking 데이터 갭 상태로, 안전성 초기 평가(S1) 진입이 불가능합니다.
+- 한국 미시판(허가증 0건)이며, 고인산혈증에 대한 직접 임상시험이나 임상 연구가 전혀 없어 근거 수준이 L4(전임상/사례보고)에 그칩니다.
+
+**진행하려면 필요한 것:**
+- TFDA(또는 MFDS) 공식 첨부문서 확보 및 경고·금기 사항 파싱 (DG001, Blocking)
+- DrugBank 등에서 상세 작용기전(MOA) 데이터 확보 (DG002, High)
+- 고인산혈증 대상 임상시험 또는 관찰 연구 존재 여부 재조사
+- DDI 데이터베이스 재조회 (현재 not_found)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

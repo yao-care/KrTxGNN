@@ -1,0 +1,89 @@
+---
+layout: default
+title: Erythromycin
+parent: 僅模型預測 (L5)
+nav_order: 294
+evidence_level: L5
+indication_count: 5
+---
+
+# Erythromycin
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **5** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Erythromycin: 세균 감염에서 점상 상피성 각결막염으로
+
+## 한 문장 요약
+
+Erythromycin(DrugBank ID: DB00199)은 마크로라이드계 항생제로, 다양한 세균 감염 치료에 사용되어 온 약물입니다(단, 이번 Evidence Pack에는 상세 기존 적응증 데이터가 없습니다). TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjunctivitis)**에 효과가 있을 수 있다고 예측하지만, 이를 직접 뒷받침하는 임상시험은 없으며 간접적으로 관련된 **문헌 2편**만 확인됩니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 자료 없음 (마크로라이드계 항생제로서 세균 감염 치료 이력은 알려져 있으나, 본 Evidence Pack에 구체적 적응증 데이터 없음) |
+| 예측 신규 적응증 | 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) |
+| TxGNN 예측 점수 | 99.89% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | 미상 (미판매) |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Erythromycin은 마크로라이드계 항생제로서 세균 단백질 합성을 억제하는 광범위 항균 작용을 가지고 있으며, 안과 영역에서는 결막염·각막염 등 안구 감염 치료제로 오랫동안 사용되어 왔습니다.
+
+점상 상피성 각결막염은 세균성·바이러스성 원인이 혼재된 안구 표면 질환으로, Erythromycin 안연고가 관련 감염균(특히 일부 클라미디아성 결막염 포함)에 임상적으로 사용된 배경이 있어 기전상 적용 가능성이 제기됩니다. 다만 제공된 문헌은 소아 만성 안검결막각막염 및 미포자충 각결막염 사례 보고에 초점이 맞춰져 있어, 이 특정 병명을 직접 치료한 근거라기보다는 기전 연장선의 추론에 해당합니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [11495307](https://pubmed.ncbi.nlm.nih.gov/11495307/) | 2001 | Review | J Pediatr Ophthalmol Strabismus | 소아 만성 안검결막각막염의 진단 및 치료에 대한 고찰 |
+| [32826651](https://pubmed.ncbi.nlm.nih.gov/32826651/) | 2021 | Case Report | Cornea | 면역기능 정상 성인에서 조류 매개 미포자충(Encephalitozoon hellem) 각결막염 분자진단 사례 |
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+해당 적응증을 직접 지지하는 임상시험이 없고, 문헌 2편도 병명이 완전히 일치하지 않는 간접적 사례/고찰 수준(L4)에 그칩니다. 또한 한국(원 데이터상 TFDA) 허가사항 경고·금기 정보가 Blocking 등급 데이터 갭으로 확인되어 안전성 초기 평가(S1)조차 진행할 수 없는 상태이며, 한국 내 시판 이력도 없습니다.
+
+**진행하려면 필요한 것:**
+- TFDA/한국 허가 라벨의 경고·금기 정보 확보 (Blocking, DG001)
+- DrugBank 기반 정확한 작용 기전(MOA) 확인 (High, DG002)
+- 점상 상피성 각결막염에 특이적인 전임상 또는 초기 임상 근거 추가 수집
+- DDI 데이터베이스 재조회 (현재 not_found 상태)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

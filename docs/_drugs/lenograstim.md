@@ -1,0 +1,125 @@
+---
+layout: default
+title: Lenograstim
+parent: 僅模型預測 (L5)
+nav_order: 433
+evidence_level: L5
+indication_count: 4
+---
+
+# Lenograstim
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **4** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Lenograstim: 호중구감소증에서 원발성 혈소판 방출 장애로
+
+## 한 문장 요약
+
+Lenograstim은 재조합 인간 G-CSF(과립구 콜로니자극인자)로, 원래 화학요법 유발 호중구감소증 치료와 말초혈액줄기세포 동원에 사용됩니다.
+TxGNN 모델은 **원발성 혈소판 방출 장애(Primary Release Disorder of Platelets)**에 효과가 있을 수 있다고 예측하지만,
+현재 이 예측을 직접 뒷받침하는 임상시험이나 문헌은 없으며, 관련 시험 13건은 모두 조혈모세포이식 지지요법 맥락에서만 G-CSF가 등장합니다.
+
+> ⚠️ 한국 허가 자료(License)와 안전성 정보(경고/금기)가 모두 결손(Data Gap, Blocking)된 상태입니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 호중구감소증(화학요법 유발), 말초혈액줄기세포 동원 — 한국 허가 자료 없음(미출시) |
+| 예측 신규 적응증 | 원발성 혈소판 방출 장애 (Primary Release Disorder of Platelets) |
+| TxGNN 예측 점수 | 99.91% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | ✗ 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+Lenograstim은 재조합 인간 G-CSF로, G-CSF 수용체(G-CSFR)에 작용하여 호중구 전구세포의 증식·분화를 촉진하고 조혈모세포를 동원합니다. 임상적으로는 화학요법 후 호중구감소증과 말초혈액줄기세포 채취를 위한 동원 요법에 사용됩니다.
+
+그러나 원발성 혈소판 방출 장애(혈소판 치밀과립/α과립 방출 기전 이상)와 G-CSF 사이에는 알려진 직접적 생리학적 경로가 없습니다. 혈소판 생성은 주로 트롬보포이에틴(TPO)이 조절하며, G-CSF의 표적이 아닙니다.
+
+TxGNN의 높은 예측 점수는 지식그래프 내 "G-CSF—조혈모세포이식(HSCT)" 노드와 "HSCT—혈소판 질환 공존" 노드 간의 **간접적 연결**에서 비롯된 것으로 추정되며, 약물이 해당 질환에 직접 작용한다는 실질적 기전 근거는 아닙니다. 공식 MOA 상세 자료(DrugBank API)는 현재 확보되지 않은 상태입니다(DG002).
+
+---
+
+## 임상시험 근거
+
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT05170828](https://clinicaltrials.gov/study/NCT05170828) | Phase 1 | 철회 (enrollment 0) | 0 | HLA 불일치 공여자 냉동보존 골수 이식 + PTCy 연구; G-CSF는 동원/지지요법 목적 추정, 혈소판 질환과 직접 관련 없음 |
+| [NCT04047628](https://clinicaltrials.gov/study/NCT04047628) | Phase 3 | 모집중 | 156 | 재발성 다발성경화증에서 자가조혈모세포이식 vs 최선 가용 치료 비교 |
+| [NCT05436418](https://clinicaltrials.gov/study/NCT05436418) | Phase 1/2 | 모집중 | 260 | 말초혈액줄기세포이식 후 이식편대숙주병 예방 목적 PTCy 최소유효용량 탐색 |
+| [NCT01503918](https://clinicaltrials.gov/study/NCT01503918) | Phase 2 | 완료 | 124 | 중환자실 환자의 CMV 재활성화 예방(항바이러스제 비교), 이식 합병증 관리 범주 |
+| [NCT04540120](https://clinicaltrials.gov/study/NCT04540120) | Phase 2 | 중단 | 49 | 중등도 COVID-19에서 Dapansutrile 경구 투여 안전성/유효성 평가 |
+| [NCT01335932](https://clinicaltrials.gov/study/NCT01335932) | Phase 2 | 완료 | 160 | 급성 폐손상/호흡부전 환자 CMV 재활성화 예방(Ganciclovir/Valganciclovir) |
+| [NCT00043979](https://clinicaltrials.gov/study/NCT00043979) | Phase 2 | 완료 | 60 | 고위험 소아육종 환자의 동종/동계 혈액줄기세포이식 파일럿 연구 |
+| [NCT00245037](https://clinicaltrials.gov/study/NCT00245037) | Phase 1/2 | 완료 | 147 | 혈액암 환자의 비골수제거 동종조혈모세포이식(Busulfan+Fludarabine+TBI) |
+| [NCT00923364](https://clinicaltrials.gov/study/NCT00923364) | Phase 2 | 완료 | 19 | GATA2 돌연변이 환자의 감량강도 조혈모세포이식 파일럿/타당성 연구 |
+| [NCT00354172](https://clinicaltrials.gov/study/NCT00354172) | Phase 2 | 중단 | 16 | 미관해 골수성백혈병 환자의 제대혈 이식(Cy/Flu/TBI + UCB NK세포) |
+
+**주의:** 위 10건은 모두 조혈모세포이식 관련 시험으로, G-CSF(Lenograstim)가 등장하더라도 동원/지지요법 역할에 그치며, 원발성 혈소판 방출 장애를 직접 치료 목표로 하는 시험은 없습니다(관련성 등급 모두 C).
+
+---
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+---
+
+## 한국 시판 정보
+
+현재 한국에 시판 중인 허가 제품이 없습니다(미출시, 허가증 0건).
+
+---
+
+## 안전성 고려사항
+
+본 약물은 한국 미출시 상태로 공식 안전성 자료(경고, 금기, 약물상호작용)가 확보되지 않았습니다(DG001, Blocking). DDI 조회 결과도 "not_found"입니다. 안전성 초기평가(S1) 진입 전 원 개발국 허가사항 또는 DrugBank 자료 확보가 필요합니다.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 최상위 예측 적응증(원발성 혈소판 방출 장애)조차 직접적인 임상시험·문헌 근거가 없으며, 관련 시험 13건은 모두 조혈모세포이식 지지요법 맥락으로 간접적입니다. 기전적 연결고리도 TxGNN 지식그래프의 간접 노드 연결(G-CSF–HSCT–혈소판질환 공존)로 추정될 뿐 직접 기전 근거가 아닙니다.
+- 2~4순위 예측(Glanzmann 혈소판무력증, 가성폰빌레브란트병, 중증비증식성당뇨망막병증)은 L5 수준으로 임상시험·문헌이 전무합니다.
+- 한국 미출시 상태로 허가 자료 및 안전성(경고/금기) 정보가 모두 결손(DG001, Blocking)되어 있어 안전성 초기평가(S1) 진입이 불가능합니다.
+
+**진행하려면 필요한 것:**
+- TFDA/식약처 허가사항(경고, 금기, DDI) 확보 — DG001 해소
+- Lenograstim 상세 MOA 자료 재확보(DrugBank API 재조회) — DG002 해소
+- 원발성 혈소판 방출 장애에 특이적인 전임상/기전 연구 문헌 확보
+- 직접 관련 임상시험 등록 여부 지속 모니터링
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

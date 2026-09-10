@@ -1,0 +1,100 @@
+---
+layout: default
+title: Piracetam
+parent: 僅模型預測 (L5)
+nav_order: 555
+evidence_level: L5
+indication_count: 10
+---
+
+# Piracetam
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Piracetam: 적응증 정보 없음(국내 미허가)에서 골관절염(Osteoarthritis)으로
+
+## 한 문장 요약
+
+Piracetam은 국내에 허가되지 않은 약물로 공식 적응증 정보가 없으며, 작용기전(MOA) 데이터도 확보되지 않았습니다. 다만 알려진 정보로는 GABA 유도체 계열의 nootropic 약물로 해외에서 인지장애·근간대경련·현훈 치료에 사용되어 왔습니다. TxGNN 모델은 **골관절염(Osteoarthritis)**에 효과가 있을 수 있다고 예측(98.45%)했지만, 이를 뒷받침하는 **임상시험이나 문헌은 현재 전혀 없습니다**.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (국내 미허가; 해외에서는 인지장애·근간대경련·현훈에 사용된 것으로 알려짐) |
+| 예측 신규 적응증 | 골관절염 (Osteoarthritis) |
+| TxGNN 예측 점수 | 98.45% |
+| 근거 수준 | L5 (모델 예측만 있음, 임상시험·문헌 근거 없음) |
+| 한국 시판 현황 | 미시판 (未上市) |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전 데이터가 없습니다(Data Gap, High severity). 일반적으로 알려진 정보에 따르면 Piracetam은 GABA 유도체 계열의 nootropic 약물로, 해외에서 인지장애·근간대경련·현훈 치료에 사용되어 왔습니다. 그러나 이는 공식 허가 자료가 아닌 일반 문헌 지식 수준의 정보이며, 골관절염과의 기전적 연관성은 확인되지 않았습니다.
+
+Evidence Pack 자체의 분석에서도 "Piracetam은 항염증, 연골보호, 관절 관련 알려진 기전이 없으며, TxGNN의 높은 점수(0.985)는 지식그래프 유사성 추론일 뿐 생물학적 타당성을 뒷받침하지 않는다"고 명시하고 있습니다. 즉, 이 예측은 모델의 통계적 패턴 매칭 결과이며 기전적·임상적 근거가 뒷받침되지 않는 상태입니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+> ⚠️ **데이터 품질 주의**: 본 Evidence Pack의 다른 하위 후보(류마티스관절염, 간성 포르피린증)에 첨부된 문헌은 실제로 Piracetam이 아닌 **Levetiracetam**(별개의 racetam계 약물)을 다룬 것으로 확인되어, 약물명 혼동에 의한 검색 오류로 판단됩니다. 골관절염 예측(1순위) 자체에는 이러한 오염된 문헌조차 연결되어 있지 않으며, 근거가 전무한 상태입니다.
+
+---
+
+## 안전성 고려사항
+
+안전성 정보가 확인되지 않았습니다. Piracetam은 국내 미허가 약물로 공식 허가사항(仿單)이 없으며, TFDA 경고·금기·약물상호작용 정보 확보가 Blocking 등급의 Data Gap으로 분류되어 있습니다(DG001). 이 상태로는 안전성 초기 평가(S1) 자체를 진행할 수 없습니다.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+최상위 예측 후보(골관절염)는 임상시험·문헌 근거가 전혀 없는 L5 수준이며, 작용기전 데이터도 부재합니다. 더불어 안전성 정보(TFDA 경고·금기)가 Blocking 등급 Data Gap 상태여서 안전성 초기 평가조차 시작할 수 없습니다. 하위 후보들에 첨부된 문헌 역시 약물명 혼동(Levetiracetam↔Piracetam)으로 신뢰할 수 없는 것으로 확인되어, 전체 Evidence Pack의 신뢰도가 낮은 상태입니다.
+
+**진행하려면 필요한 것:**
+- TFDA(또는 해당 규제기관) 공식 仿單에서 경고/금기/DDI 정보 확보 (DG001, Blocking)
+- DrugBank 등에서 정확한 Piracetam MOA 데이터 확보 (DG002, High)
+- 골관절염에 특이적인 Piracetam 전임상/임상 근거 재수집 (현재 0건)
+- 검색·매핑 파이프라인의 약물명 혼동 오류(Levetiracetam vs Piracetam) 수정 및 문헌 재검증
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

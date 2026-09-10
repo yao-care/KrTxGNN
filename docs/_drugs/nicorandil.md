@@ -1,0 +1,91 @@
+---
+layout: default
+title: Nicorandil
+parent: 僅模型預測 (L5)
+nav_order: 504
+evidence_level: L5
+indication_count: 10
+---
+
+# Nicorandil
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Nicorandil: 대만 미승인 약물에서 양성전립선비대증(BPH)으로
+
+## 한 문장 요약
+
+Nicorandil은 K-ATP 통로 개방제 겸 NO(산화질소) 공여체로 작용하는 혈관확장제이나, 원 적응증 데이터와 대만 내 허가 정보는 현재 확보되어 있지 않습니다(대만 미상시 상태).
+TxGNN 모델은 **양성전립선비대증(Benign Prostatic Hyperplasia)**에 효과가 있을 수 있다고 예측하며(예측 점수 **99.71%**), 현재 관련 임상시험은 없고 **문헌 3편**(리뷰 1편, 동물모델 연구 1편, 기전 연구 1편)이 전립선 혈류 개선이라는 간접적 기전 가설을 지지합니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 자료 없음 (대만 미승인, 원 적응증 데이터 미확보) |
+| 예측 신규 적응증 | 양성전립선비대증 (Benign Prostatic Hyperplasia) |
+| TxGNN 예측 점수 | 99.71% |
+| 근거 수준 | L3 |
+| 대만 시판 현황 | ✗ 미상시 (미승인) |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+공식 MOA(작용기전) 필드는 현재 데이터가 없습니다. 다만 근거팩 내 기전 근거(repurposing rationale)에 따르면, Nicorandil은 **K-ATP 통로 개방제이자 NO 공여체**로서 혈관평활근 이완/혈관확장 작용을 가진 것으로 기술되어 있습니다.
+
+BPH/LUTS(하부요로증상)의 발병 기전 중 하나로 "전립선 허혈(prostatic ischemia)"에 기반한 혈관성 가설이 문헌상 제기되어 있으며, 동물모델(SHR 랫드) 연구에서 nicorandil 투여가 전립선 혈류를 개선하고 전립선 비대를 억제한 사례가 보고되었습니다. 이는 nicorandil이 전립선 비대 자체(전립선 체적 축소)를 직접 치료한다는 근거라기보다, 혈관성 LUTS 증상 경로에 대한 간접적·기전적 개연성을 시사하는 수준입니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [24448152](https://pubmed.ncbi.nlm.nih.gov/24448152/) | 2014 | 동물모델 연구 (SHR 랫드) | Scientific Reports | 자연발생 고혈압 랫드(SHR)에 6주간 nicorandil 투여 후 전립선 혈류 개선, 산화스트레스 지표 변화 및 배쪽 전립선 비대 억제 확인 (전립선 허혈-비대 기전 규명) |
+| [26165338](https://pubmed.ncbi.nlm.nih.gov/26165338/) | 2015 | 임상/기전 연구 (nicorandil의 LUTS 효과) | Nihon yakurigaku zasshi | 하부요로증상을 혈관성 기능장애로 보고, 혈관확장제 nicorandil의 효과를 검토 (초록 미제공) |
+| [31735753](https://pubmed.ncbi.nlm.nih.gov/31735753/) | 2019 | Review | Nihon yakurigaku zasshi | BPH/BPE는 다인성 증식성 질환으로, 하부요로 혈류장애 및 죽상경화성 질환(고혈압 등)과의 연관성이 보고됨 — 전립선 혈류를 치료 표적으로 제안 |
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요. (대만 미상시 약물로 공식 허가사항이 존재하지 않으며, DDI 조회 결과도 없음(0건))
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+근거 수준이 L3(리뷰·동물모델·기전 연구 수준이며 인체 대상 BPH 임상시험 없음)에 머물러 있고, 대만 내 미승인 상태로 규제·안전성 정보(허가사항, DDI)가 전무합니다. 혈관성 LUTS 가설에 기반한 기전적 개연성은 있으나, BPH 적응증에 대한 직접적 임상 근거가 부족해 즉시 진행하기는 이릅니다.
+
+**진행하려면 필요한 것:**
+- TFDA(대만 식약서) 원 적응증 및 안전성 라벨(경고·금기) 정보 확보 (DG001, Blocking)
+- DrugBank 등을 통한 공식 MOA 데이터 확보 (DG002, High)
+- Nicorandil의 BPH/LUTS 표적 전임상(설치류 이상 종) 또는 초기 인체 시험 설계
+- 대만 내 정식 허가 여부 확인 및 시장 진입 가능성 평가
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -2,7 +2,7 @@
 layout: default
 title: Estradiol Valerate
 parent: 僅模型預測 (L5)
-nav_order: 266
+nav_order: 296
 evidence_level: L5
 indication_count: 10
 ---

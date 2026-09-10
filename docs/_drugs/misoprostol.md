@@ -1,0 +1,115 @@
+---
+layout: default
+title: Misoprostol
+parent: 僅模型預測 (L5)
+nav_order: 485
+evidence_level: L5
+indication_count: 2
+---
+
+# Misoprostol
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Misoprostol: 산부인과 시술(임신종료·자궁경부숙화)에서 무월경(Amenorrhea)으로
+
+## 한 문장 요약
+
+Misoprostol은 PGE1 유사체로, 임상적으로는 mifepristone과 병용하여 임신 종료·계류유산(missed abortion) 처치 등 산부인과 영역에서 사용되어 왔습니다.
+TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예측(점수 99.64%)하지만, 근거로 제시된 문헌 7편은 대부분 "임신 종료를 통한 폐경 상태 해소"를 다룰 뿐 원발성·속발성 무월경 자체를 치료 대상으로 검증한 연구는 아니며, 등록된 임상시험은 없습니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 자료 없음 (허가 적응증 미기재; 문헌상 mifepristone 병용 임신종료·계류유산 처치에 사용됨) |
+| 예측 신규 적응증 | 무월경 (Amenorrhea) |
+| TxGNN 예측 점수 | 99.64% |
+| 근거 수준 | L3 |
+| 한국 시판 현황 | 미상영 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+Misoprostol은 PGE1(prostaglandin E1) 유사체로, 자궁 평활근 수축과 자궁경부 연화를 유발합니다. 이 기전 때문에 mifepristone과 병용하여 조기 임신 종료, 계류유산(missed abortion), 무배아임신(anembryonic pregnancy) 처치에 사용되어 왔습니다.
+
+TxGNN이 "무월경"을 예측 적응증으로 제시한 근거는, 지식그래프상 무월경과 "임신 종료/자궁 내용물 배출" 관련 노드가 연결되어 있기 때문으로 추정됩니다. 즉 misoprostol이 "임신으로 인한 무월경 상태를 임신 종료를 통해 해소"하는 맥락과, "무월경 자체를 치료 대상 질환으로 삼는" 맥락이 모델 내부에서 혼재되어 있을 가능성이 있습니다.
+
+**주의:** 확보된 문헌 7편 중 무월경을 1차 치료 목표로 다룬 연구는 없으며, 대부분 초기임신 종료·계류유산 처치의 유효성/안전성을 평가한 연구입니다. 따라서 이번 예측은 전형적인 약물 재창출 신호라기보다, 지식그래프의 간접 연결에 의한 결과일 가능성이 높습니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [25394644](https://pubmed.ncbi.nlm.nih.gov/25394644/) | 2015 | RCT | Reproductive Sciences | 초기임신(폐경 ≤35일) 여성 2500명 대상, mifepristone 저용량화(150→50mg)+misoprostol 200µg 24시간 후 투여의 용량설정 RCT. 완전유산율을 1차 평가지표로 함 |
+| [27678099](https://pubmed.ncbi.nlm.nih.gov/27678099/) | 2017 | 전향적/코호트 | Reproductive Sciences | 초기임신(폐경 ≤35일) 744명 대상, 저용량 mifepristone+자가투여 misoprostol의 유효성·안전성·수용성 평가 |
+| [26405260](https://pubmed.ncbi.nlm.nih.gov/26405260/) | 2015 | 전향적/코호트 | Human Reproduction | 예상 월경 전 저용량 mifepristone+misoprostol 병용을 통한 원치않는 임신 예방의 타당성·효과 평가 |
+| [29974571](https://pubmed.ncbi.nlm.nih.gov/29974571/) | 2018 | 전향적/코호트 | J Obstet Gynaecol Res | 저용량 mifepristone+자가투여 misoprostol을 이용한 초기 약물적 유산의 안전성·유효성 평가 |
+| [37113350](https://pubmed.ncbi.nlm.nih.gov/37113350/) | 2023 | 증례보고 | Cureus | 임신 35주, 무월경·오심·발열·황달을 주소로 내원한 임신성 급성 지방간(AFLP) 증례. misoprostol 직접 관련 없음 |
+| [1486304](https://pubmed.ncbi.nlm.nih.gov/1486304/) | 1992 | 문헌고찰/증례군 | BMJ | 계류유산 및 무배아임신에 대한 약물적 처치 (초록 미제공, 제목 기준) |
+| [26001691](https://pubmed.ncbi.nlm.nih.gov/26001691/) | 2015 | 문헌고찰 | J Obstet Gynaecol Can | 비정상 자궁출혈(AUB) 관리에서 자궁내막절제술에 대한 리뷰. misoprostol과의 직접적 연관성은 낮음 |
+
+---
+
+## 한국 시판 정보
+
+현재 한국에 시판 중인 허가 제품이 없습니다 (미상영, 허가증 0건).
+
+---
+
+## 안전성 고려사항
+
+안전성 정보(주요 경고, 금기, 약물상호작용)가 확보되지 않았습니다. 한국 내 미상영 상태로 허가사항 자체가 존재하지 않으며, 식약처 첨부문서 확보(DG001, Blocking)가 선행되어야 초기 안전성 평가(S1)가 가능합니다.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+근거 수준은 L3(RCT 1건 포함 문헌 7편)이나, 확보된 문헌은 모두 "임신 종료·계류유산 처치"를 다룰 뿐 원발성/속발성 무월경을 직접 치료 대상으로 검증한 연구가 아닙니다. 등록된 임상시험도 없고, 한국 내 허가·안전성 자료도 전무하여 진행 근거가 부족합니다. 참고로 함께 예측된 두 번째 후보(atypical coarctation of aorta, 점수 99.3%)는 기전적 타당성이 전혀 없어(L5, S0) 순수 지식그래프 노이즈로 판단, 추가 검토 대상에서 제외합니다.
+
+**진행하려면 필요한 것:**
+- 무월경의 병태생리를 세분화(원발성/속발성, 임신 관련 여부)하여 TxGNN 예측이 실제로 겨냥하는 임상 상황을 재정의
+- 식약처 허가·안전성 자료 확보 (Blocking data gap DG001)
+- Misoprostol 상세 작용기전(MOA) 자료 확보 (High data gap DG002)
+- 무월경 자체를 1차 평가지표로 한 임상 근거 부재 확인 → 필요 시 가설검증용 예비연구 설계 검토
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

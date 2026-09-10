@@ -1,0 +1,96 @@
+---
+layout: default
+title: Piroxicam
+parent: 僅模型預測 (L5)
+nav_order: 557
+evidence_level: L5
+indication_count: 10
+---
+
+# Piroxicam
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Piroxicam: 관절염 진통소염제에서 골관절염 감수성(Osteoarthritis Susceptibility)으로
+
+## 한 문장 요약
+
+Piroxicam은 옥시캄(oxicam) 계열 비스테로이드성 소염진통제(NSAID)로 알려져 있으나, 정확한 작용기전(MOA)과 한국 내 허가사항 자료는 현재 확인되지 않았습니다.
+TxGNN 모델은 최고 점수로 **골관절염 감수성(Osteoarthritis Susceptibility)**을 예측했지만, 이는 실제 치료 대상 질환이라기보다 유전적 위험 인자 개념에 가까워 관련 임상시험이나 직접 문헌은 없습니다.
+같은 평가팩 안에는 훨씬 근거가 강한 대체 후보(류마티스 관절염, 골관절염 자체)가 함께 존재합니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 확인되지 않음 (한국 허가 자료 없음; Piroxicam은 통상 NSAID 계열 진통소염제로 분류) |
+| 예측 신규 적응증 | 골관절염 감수성 (Osteoarthritis Susceptibility) |
+| TxGNN 예측 점수 | 99.99% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | ✗ 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Piroxicam은 옥시캄 계열 NSAID로 분류되며, 골관절염·류마티스 관절염 등 관절 통증·염증 질환에서 오랜 임상 사용 경험이 있어 기전상 관련 적응증에 적용 가능성이 있습니다.
+
+다만 이번 최우선 예측인 "골관절염 감수성"은 실제 진단 가능한 질환이 아니라 유전적/위험 인자 개념에 가깝습니다. 평가팩 자체의 분석에서도 "현재 문헌(외용 진통제 Cochrane 리뷰, NSAID 위장관 보호 대조시험)은 NSAID 계열 안전성에 관한 간접 정보일 뿐, '감수성'에 대한 치료·예방 효과를 직접 지지하지 않는다"고 명시하고 있습니다. TxGNN 지식그래프에서 골격/관절 관련 질환 노드가 임베딩상 가까이 위치해 발생한 신호일 가능성이 있습니다.
+
+참고로 같은 평가팩 내 **골관절염(rank 3)**은 6건의 임상시험(Phase 2/3 RCT 포함)과 20편의 문헌으로 L1 근거를 확보했고, **류마티스 관절염(rank 2)**도 다수의 이중맹검 RCT로 L2 근거를 확보해 COX 억제 기전과 직접 연결됩니다. 두 후보가 실질적으로 더 타당한 재창출 방향입니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [28497473](https://pubmed.ncbi.nlm.nih.gov/28497473/) | 2017 | Cochrane 개관 리뷰 | Cochrane Database Syst Rev | 급성·만성 통증에 대한 외용 진통제 효과 개관(골관절염 포함하나 유전적 감수성 언급 없음) |
+| [3142593](https://pubmed.ncbi.nlm.nih.gov/3142593/) | 1988 | 대조군 시험 (GI 보호) | BMJ | Piroxicam 등 NSAID 유발 위십이지장 손상 예방에 라니티딘 효과 평가; 감수성과 직접 관련 없음 |
+
+## 한국 시판 정보
+
+한국 내 허가 정보가 없습니다 (미시판, 허가증 0건).
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+최우선 예측 적응증(골관절염 감수성)은 관련 임상시험·직접 문헌이 전무하고 질환 정의 자체도 모호해 근거 수준이 L4에 불과합니다. 여기에 더해 TFDA/한국 허가사항, 금기, DDI 자료가 모두 확인되지 않아(Blocking 등급 Data Gap) 초기 안전성 평가(S1) 단계조차 진행할 수 없습니다.
+
+**진행하려면 필요한 것:**
+- 규제기관 공식 허가사항(경고·금기·DDI) 확보 — Blocking 등급 결손 해소 필수
+- DrugBank 등에서 정확한 작용기전(MOA) 확보
+- "골관절염 감수성" 대신, 같은 평가팩 내 더 강한 근거를 가진 **골관절염(L1, Proceed with Guardrails)** 또는 **류마티스 관절염(L2, Proceed with Guardrails)**을 별도 후보로 재평가할 것을 권장
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

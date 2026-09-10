@@ -1,0 +1,116 @@
+---
+layout: default
+title: Propylene Glycol
+parent: 僅模型預測 (L5)
+nav_order: 582
+evidence_level: L5
+indication_count: 10
+---
+
+# Propylene Glycol
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Propylene Glycol: 부형제(치료 적응증 없음)에서 기관지염으로
+
+## 한 문장 요약
+
+Propylene Glycol(PG)은 독립적인 치료 적응증이 등록되어 있지 않고, 주로 의약품 제형의 용매·부형제로 사용되어 온 물질입니다.
+TxGNN 모델은 **기관지염(Bronchitis)**에 효과가 있을 수 있다고 예측했으나, 관련 임상시험 4건은 모두 PG가 시험약이 아닌 부형제 역할에 그쳐 관련성이 낮고(Grade C), 오히려 일부 문헌은 PG를 포함한 전자담배 에어로졸 흡입이 만성 기관지염을 **유발**할 수 있다는 상반된 신호를 보이고 있어 근거가 매우 약합니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 데이터 없음 (PG는 독립적 치료 적응증 없이 용매/부형제로 주로 사용됨) |
+| 예측 신규 적응증 | 기관지염 (Bronchitis) |
+| TxGNN 예측 점수 | 99.90% |
+| 근거 수준 | L5 (모델 예측만 있음, 실제 PG 대상 연구 없음) |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 PG의 상세 작용 기전(MOA) 데이터가 없습니다(Data Gap). 알려진 정보에 따르면 PG는 여러 의약품·화장품 제형에서 용매/보습제/삼투압 조절제로 널리 쓰이지만, 그 자체로 항염증이나 기관지 보호 효과가 보고된 활성 성분은 아닙니다.
+
+제공된 근거를 검토한 결과, 기관지염 예측을 뒷받침하는 임상시험은 모두 Cyclosporine Inhalation Solution(CIS)의 폐이식/조혈모세포이식 후 기관지폐쇄증후군 관련 시험이며, PG는 제형 내 보조 성분일 뿐 시험 대상 약물이 아닙니다(관련성 등급 C).
+
+더 나아가 문헌 근거 중 2건(전자담배 관련 리뷰)은 PG를 포함한 에어로졸 성분의 만성 흡입이 만성 기관지염·천식 등 기도 질환을 **악화 또는 유발**할 수 있다는 반대 방향의 신호를 제시하고 있어, 이번 TxGNN 예측은 기전적 근거보다는 지식그래프상의 통계적 연관성에 의존한 것으로 판단됩니다.
+
+---
+
+## 임상시험 근거
+
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT01287078](https://clinicaltrials.gov/study/NCT01287078) | Phase 2 | 완료 | 25 | Cyclosporine 흡입액의 기관지폐쇄증후군 치료 시험 — PG는 시험약 아님, 관련성 낮음(Grade C) |
+| [NCT00938236](https://clinicaltrials.gov/study/NCT00938236) | Phase 3 | 조기종료 | 17 | Cyclosporine 흡입액 장기추적 연장 연구 — PG 무관, 시험 조기 종료 |
+| [NCT00755781](https://clinicaltrials.gov/study/NCT00755781) | Phase 3 | 완료 | 284 | 폐이식 후 Cyclosporine 흡입액 주요 유효성 시험 — PG는 부형제 역할에 그침 |
+| [NCT01273207](https://clinicaltrials.gov/study/NCT01273207) | Phase 2 | 완료 | 7 | Cyclosporine 흡입액 확장 사용 연구 — 표본 수 매우 작음(n=7), PG 무관 |
+
+> 위 시험들은 모두 관련성 등급 C(낮음)로 분류되며, PG를 직접 평가한 임상시험은 확인되지 않았습니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [26408554](https://pubmed.ncbi.nlm.nih.gov/26408554/) | 2015 | Review | Am J Physiol Lung Cell Mol Physiol | 전자담배(PG 함유 에어로졸) 만성 흡입이 만성기관지염 등 폐질환 위험과 연관될 수 있다고 지적 |
+| [28983782](https://pubmed.ncbi.nlm.nih.gov/28983782/) | 2017 | Review | Curr Allergy Asthma Rep | 전자담배 성분(PG 포함)과 천식·기도 자극 간 연관성 검토 |
+| [20920189](https://pubmed.ncbi.nlm.nih.gov/20920189/) | 2010 | 동물모델 연구 | Respir Res | Elastase/LPS 유발 COPD 마우스 모델에서 퀘르세틴 효과 평가 — PG와 직접 관련 없음 |
+
+> 세 문헌 모두 PG를 치료 목적으로 평가한 연구가 아니며, 이 중 2건은 PG 함유 에어로졸 흡입이 기도 질환을 **유발·악화**시킬 수 있다는 반대 방향의 신호를 제시합니다.
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+> 참고: TFDA/식약처 수준의 경고·금기 정보가 확보되지 않아(Blocking Data Gap) 안전성 초기평가(S1)를 진행할 수 없는 상태입니다.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+근거 수준이 L5(모델 예측만 존재, 실제 PG 대상 연구 없음)이며, 확인된 임상시험은 모두 PG가 아닌 다른 활성 성분(Cyclosporine)을 평가한 시험으로 관련성이 낮습니다(Grade C). 오히려 일부 문헌은 PG 함유 에어로킬 흡입이 기관지염을 유발·악화시킬 수 있다는 상반된 신호를 보이고 있어, 현시점에서 기관지염 적응증으로의 진행은 권장되지 않습니다.
+
+**진행하려면 필요한 것:**
+- TFDA/식약처 공식 경고·금기 자료 확보 (DG001, Blocking)
+- DrugBank 등 공식 출처의 작용 기전(MOA) 데이터 확보 (DG002)
+- PG를 활성 성분으로 직접 평가한 전임상/임상 근거 확보 (현재 근거는 모두 부형제 역할 문헌)
+- PG 흡입 노출과 만성 기관지염 간 상반된 신호(유발 가능성)에 대한 별도 위해성 평가
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

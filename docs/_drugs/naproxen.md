@@ -1,0 +1,117 @@
+---
+layout: default
+title: Naproxen
+parent: 僅模型預測 (L5)
+nav_order: 498
+evidence_level: L5
+indication_count: 4
+---
+
+# Naproxen
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **4** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Naproxen: 적응증 미상 → 단지-합지 증후군(Brachydactyly-Syndactyly Syndrome)으로 (예측 평가)
+
+## 한 문장 요약
+
+Naproxen(DrugBank DB00788)은 DrugBank에 원 적응증 정보가 등록되어 있지 않고, 대만에서도 현재 미상 상태입니다(허가증 0건). TxGNN 모델은 **단지-합지 증후군(Brachydactyly-Syndactyly Syndrome)** 등 4개의 희귀 유전성 골격 발달 증후군에 99% 이상의 높은 예측 점수를 부여했으나, 이를 뒷받침하는 **임상시험이나 문헌은 단 1건도 없으며(L5)**, 근거 팩에 포함된 기전 분석 자체가 이 예측들을 지식그래프 희소 노드로 인한 인공적 고점수(spurious correlation)로 판단하고 있습니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 미제공 (DrugBank 원 적응증 데이터 없음, 대만 미상) |
+| 예측 신규 적응증 (1순위) | 단지-합지 증후군 (Brachydactyly-Syndactyly Syndrome) |
+| TxGNN 예측 점수 | 99.35% (그래프 내 순위 10,275위) |
+| 근거 수준 | L5 (모델 예측만 존재, 실제 연구 없음) |
+| 대만 시판 현황 | 미상 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 예측된 적응증 전체 목록
+
+Evidence Pack에는 4건의 예측 적응증이 포함되어 있으며, 모두 동일한 패턴(희귀 유전성 골격/발달 증후군, 근거 없음, L5)을 보입니다.
+
+| 순위 | 예측 적응증 | TxGNN 점수 | 그래프 순위 | 임상시험 | 문헌 | 결정 |
+|-----|------------|-----------|-----------|---------|------|------|
+| 1 | Brachydactyly-syndactyly syndrome | 99.35% | 10,275 | 0건 | 0편 | Hold |
+| 2 | Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.22% | 11,942 | 0건 | 0편 | Hold |
+| 3 | Acromesomelic dysplasia, Hunter-Thompson type | 99.17% | 12,411 | 0건 | 0편 | Hold |
+| 4 | Brachyolmia-amelogenesis imperfecta syndrome | 99.06% | 13,774 | 0건 | 0편 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터는 DrugBank 조회에서 확보되지 않았습니다([Data Gap]). 다만 근거 팩의 기전 분석 텍스트에 따르면 Naproxen은 **비선택적 COX(COX-1/COX-2) 억제제**로, 해열·진통·소염 작용을 가진 약물로 기술되어 있습니다.
+
+4건의 예측 적응증은 모두 **선천성 골격/안구/치아 발달 이상을 동반한 희귀 유전 증후군**(GDF5/BMP 신호전달 경로 이상 등 단일유전자 질환)입니다. 이러한 질환은 배아 발생 단계의 유전적 결함에서 기인하므로, 항염·진통 기전을 가진 NSAID가 이를 교정하거나 개선할 생물학적 경로가 존재하지 않습니다.
+
+근거 팩에 포함된 자체 분석(repurposing_rationale)도 동일한 결론을 내리고 있습니다: 4건 모두 지식그래프 상 데이터가 희소한 초희귀질환 노드이며, TxGNN의 높은 점수는 실제 약리학적 연관성이 아니라 **임베딩 상의 인공적 고점수(그래프 희소성에 따른 노이즈)**로 해석하는 것이 타당합니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다. (4개 예측 적응증 모두 ClinicalTrials.gov, ICTRP 조회 결과 0건)
+
+---
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다. (4개 예측 적응증 모두 PubMed 조회 결과 0편)
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+(TFDA 경고/금기 자료 미확보 — Blocking 등급 Data Gap으로 S1 안전성 초평가 진입 불가)
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 4개 예측 적응증 모두 L5(모델 예측만 존재)로, 임상시험·문헌·전임상 근거가 전무합니다.
+- 근거 팩 자체의 기전 분석이 이 예측들을 지식그래프 희소성에 의한 인공적 신호로 판단하고 있어, 실질적 재창출 가설로 보기 어렵습니다.
+- 대만 내 시판 현황 및 허가증 정보가 없어(0건) 규제 경로 확인도 불가능합니다.
+- TFDA 경고/금기(DG001)가 Blocking 등급 Data Gap으로 남아 있어, 예측 적응증과 무관하게 안전성 초평가(S1) 자체가 진행될 수 없는 상태입니다.
+
+**진행하려면 필요한 것:**
+- TFDA 공식 라벨(경고·금기) 확보 — 현재 S1 진입을 막는 Blocking 항목
+- DrugBank API를 통한 정식 MOA 데이터 확보
+- 예측 적응증에 대한 최소 수준의 전임상/기전 근거(GDF5·BMP 경로 등과의 실제 연관성) 확인 없이는 추가 검증 착수 비권장
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

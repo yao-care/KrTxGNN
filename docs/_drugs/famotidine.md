@@ -1,0 +1,107 @@
+---
+layout: default
+title: Famotidine
+parent: 僅模型預測 (L5)
+nav_order: 314
+evidence_level: L5
+indication_count: 10
+---
+
+# Famotidine
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Famotidine: 데이터 부족 적응증에서 십이지장위역류(Duodenogastric Reflux)로
+
+## 한 문장 요약
+
+Famotidine(DB00927)은 원 적응증 및 작용기전(MOA) 데이터가 현재 확보되지 않았으며, 한국(현지 규제기관)에는 아직 시판 허가가 없는 상태입니다.
+TxGNN 모델은 **십이지장위역류(Duodenogastric Reflux)**에 효과가 있을 수 있다고 예측(점수 99.99%)하며, 현재 임상시험 등록은 없고 **문헌 2편**만이 이 방향을 뒷받침합니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 등재 정보 없음 (한국 미시판, DrugBank 원 적응증 데이터 미확보) |
+| 예측 신규 적응증 | 십이지장위역류 (Duodenogastric Reflux) |
+| TxGNN 예측 점수 | 99.99% |
+| 근거 수준 | L3 |
+| 한국 시판 현황 | 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용기전(MOA) 데이터는 확보되지 않았습니다(Data Gap, High). 다만 근거 팩 내 문헌들(예: PMID 2875864 등)에 따르면 Famotidine은 히스타민 H2 수용체 길항제(H2RA)로, 위산 분비 억제를 통해 소화성궤양·위식도역류 등 산 관련 질환에 사용되어 온 약물로 알려져 있습니다.
+
+십이지장위역류(DGR)는 위산 과다보다는 담즙·췌액의 역류가 주된 병인이므로, H2 길항제의 산분비 억제 효과는 반사적으로 동반되는 산성 손상 성분만 일부 경감시킬 수 있는 **간접적·부분적 기전 연관성**에 그칩니다. 즉 기전상 완전히 들어맞는 예측이라기보다, 산 관련 GI 질환군 내에서의 근연 적응증 확장으로 해석하는 것이 타당합니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [12532466](https://pubmed.ncbi.nlm.nih.gov/12532466/) | 2003 | Cohort(중증환자) | World Journal of Gastroenterology | 중증 환자에서 famotidine이 위식도역류(GER) 및 십이지장위식도역류(DGER)에 미치는 영향과 그 가능한 기전을 조사 |
+| [16259441](https://pubmed.ncbi.nlm.nih.gov/16259441/) | 2004 | Review | Eksperimental'naia i klinicheskaia gastroenterologiia | 십이지장위역류질환(GDRD) 초기 단계(Savary-Miller 0~1도)에서 famotidine 20mg BID 투여의 유효성을 내시경 검사 기반으로 평가 |
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+(주요 경고·금기·DDI 데이터 모두 미확보 상태이며, 특히 TFDA 라벨 경고/금기 정보 미확보는 Blocking 등급 데이터 갭으로 등록되어 있어 안전성 초기평가(S1) 자체가 불가능한 상황입니다.)
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 근거 수준이 L3(관찰연구·문헌고찰 수준)에 그치고, 등록된 임상시험이 전무합니다.
+- 기전 연관성 자체가 근거 팩 내에서도 "간접적·부분적 중첩"으로 평가되어 있어 재창출 근거로서 강도가 약합니다.
+- 안전성 정보(경고/금기)가 Blocking 등급 데이터 갭 상태로, 안전성 초기평가(S1) 진입이 원천적으로 불가능합니다.
+- 참고로 같은 근거 팩 내 "소화성궤양(peptic ulcer disease)" 예측(L1, S3)은 근거 수준은 훨씬 높으나, 이는 famotidine의 기존 핵심 적응증(H2 길항제의 원래 용도) 범주에 가까워 진정한 신규 재창출로 보기 어렵습니다.
+
+**진행하려면 필요한 것:**
+- TFDA(현지 규제기관) 라벨 경고/금기사항 확보 (DG001, Blocking)
+- DrugBank API를 통한 상세 작용기전(MOA) 데이터 확보 (DG002, High)
+- 십이지장위역류를 주 결과지표로 하는 전향적 임상시험 또는 대조군 연구 확보
+- DDI 데이터베이스 재조회 (현재 not_found 상태)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

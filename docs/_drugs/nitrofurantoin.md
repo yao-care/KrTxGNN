@@ -2,7 +2,7 @@
 layout: default
 title: Nitrofurantoin
 parent: 僅模型預測 (L5)
-nav_order: 311
+nav_order: 507
 evidence_level: L5
 indication_count: 10
 ---

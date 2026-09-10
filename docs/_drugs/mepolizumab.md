@@ -1,0 +1,111 @@
+---
+layout: default
+title: Mepolizumab
+parent: 僅模型預測 (L5)
+nav_order: 467
+evidence_level: L5
+indication_count: 5
+---
+
+# Mepolizumab
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **5** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Mepolizumab: 적응증 정보 없음에서 면역성 혈소판감소증으로
+
+## 한 문장 요약
+
+Mepolizumab(DrugBank ID: DB06612)은 현재 평가 데이터 팩에 기존 승인 적응증 및 작용기전(MOA) 정보가 확보되어 있지 않습니다.
+TxGNN 모델은 **면역성 파괴에 의한 혈소판감소증(Thrombocytopenia due to immune destruction)**에 효과가 있을 수 있다고 예측하며(예측 점수 99.66%),
+현재 이를 뒷받침하는 것은 **증례 보고(Case Report) 1편**뿐이고 등록된 임상시험은 없습니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 데이터 없음 (원 적응증 정보 미확보) |
+| 예측 신규 적응증 | 면역성 파괴에 의한 혈소판감소증 (Thrombocytopenia due to immune destruction) |
+| TxGNN 예측 점수 | 99.66% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | 미상영 (허가 제품 없음) |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 mepolizumab의 상세 작용기전(MOA) 데이터가 확보되지 않아, 원 적응증과의 기전적 연관성을 직접 평가할 수 없습니다.
+
+다만 확보된 유일한 문헌 근거에 따르면, 고호산구증후군(Hypereosinophilic syndrome, HES)에서 호산구가 면역 조절 이상을 유발하여 혈소판 파괴로 이어질 수 있으며, mepolizumab이 IL-5/호산구 활성을 억제함으로써 이러한 **호산구 매개성 이차 면역성 혈소판감소증**을 완화할 가능성이 제시되어 있습니다. 다만 이는 혈소판 파괴 경로에 직접 작용하는 기전이 아니라, 호산구가 관여하는 특수 아형에 국한된 간접적 연관성입니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [28648630](https://pubmed.ncbi.nlm.nih.gov/28648630/) | 2018 | Case Report | Blood cells, molecules & diseases | 스테로이드 저항성 고호산구성 면역 질환 및 이에 동반된 혼합형 혈전성 미세혈관병증 환자에서 mepolizumab 투여 후 호전된 사례. 비정형 용혈성 요독증후군(aHUS)에서 보체 활성화로 인한 임상적으로 유의한 호산구증가증이 항-C5 생물학적제제만으로는 조절되지 않는 경우, mepolizumab 병용이 도움이 될 수 있음을 시사 |
+
+---
+
+## 한국 시판 정보
+
+한국(대만 데이터베이스 기준)에 허가된 제품 정보가 없습니다 (미상영).
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 근거 수준이 L4(증례 보고 1편)에 불과하고, 등록된 관련 임상시험이 전혀 없습니다.
+- 제안된 기전적 연관성이 혈소판 파괴 경로 전반이 아닌 호산구 매개성 특수 아형에 국한되어 있어 일반화하기 어렵습니다.
+- 한국 내 허가·시판 정보가 없고, TFDA/식약처 수준의 경고·금기 정보 확보가 차단(Blocking) 상태입니다.
+- 참고로 TxGNN이 동시에 제시한 4개의 하위 순위 후보(원발성 혈소판 방출장애, pseudo-von Willebrand disease, 자가면역성 혈소판감소증, Glanzmann 혈소판무력증)는 문헌·임상 근거가 전무하거나 기전적 타당성이 낮아 모두 Hold로 판정되었습니다.
+
+**진행하려면 필요한 것:**
+- 작용기전(MOA) 데이터 확보 (DrugBank API 등)
+- 한국(또는 대만) 허가사항의 경고·금기·상호작용 정보 확보
+- 면역성 혈소판감소증 대상 전임상 또는 관찰 연구 데이터 추가 확인
+- 호산구 매개성 아형 외 일반 ITP 환자군에서의 기전적 타당성 추가 검토
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

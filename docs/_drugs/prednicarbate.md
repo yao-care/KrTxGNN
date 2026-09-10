@@ -1,0 +1,90 @@
+---
+layout: default
+title: Prednicarbate
+parent: 僅模型預測 (L5)
+nav_order: 571
+evidence_level: L5
+indication_count: 7
+---
+
+# Prednicarbate
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **7** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Prednicarbate: 국소 코르티코스테로이드 치료에서 외음부 함몰성 모낭각화증(Vulvar Inverted Follicular Keratosis)으로
+
+## 한 문장 요약
+
+Prednicarbate(DB01130)는 중등도 효능의 외용 코르티코스테로이드 계열 약물로, 정확한 기존 승인 적응증 정보는 확보되지 않았습니다.
+TxGNN 모델은 **외음부 함몰성 모낭각화증(Vulvar Inverted Follicular Keratosis)**에 효과가 있을 수 있다고 예측(점수 99.88%)했지만,
+이를 뒷받침하는 **임상시험이나 문헌은 현재 전혀 없으며**, 기전 연관성도 약하다고 평가됩니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 자료 없음 (국소 코르티코스테로이드 계열로 추정) |
+| 예측 신규 적응증 | 외음부 함몰성 모낭각화증 (Vulvar Inverted Follicular Keratosis) |
+| TxGNN 예측 점수 | 99.88% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 Prednicarbate의 상세한 작용 기전(MOA) 데이터는 확보되지 않았습니다(Blocking 데이터 갭). 다만 근거팩 내 다른 예측 항목의 서술에 따르면, Prednicarbate는 **중등도 효능의 외용 코르티코스테로이드**로 염증 매개물질 방출 억제 및 T세포 활성화 저하 기전을 가진 것으로 알려져 있습니다.
+
+그러나 외음부 함몰성 모낭각화증은 **양성 모낭 각화 증식성 병변**으로, 염증성·종양성 병변이 아니어서 국소 스테로이드의 항염/면역억제 기전과 직접적인 연관성이 없습니다. 근거팩의 기전 근거(mechanistic_link)도 "기전 연결이 약하며, 임상 또는 문헌 근거가 전혀 없다"고 명시하고 있어, 이 예측은 TxGNN 모델의 통계적 추론에 그치는 것으로 판단됩니다.
+
+> 참고로, 동일 근거팩 내 2·3순위 예측인 **비후성 편평태선(hypertrophic lichen planus)**, **환상 위축성 편평태선(annular atrophic lichen planus)**은 T세포 매개 염증성 피부질환으로 국소 스테로이드의 표준 1차 치료 기전과 더 직접적으로 부합하며, 3순위 항목은 관련 문헌 1편(개인 증례 보고, PMID 35001397)도 확보되어 있어 상대적으로 연구 가치가 높습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+1순위 예측 적응증(외음부 함몰성 모낭각화증)은 TxGNN 모델 예측 외에 뒷받침하는 임상시험이나 문헌이 전무하며, 기전 연관성도 근거팩 자체에서 "약함"으로 평가되고 있습니다. 근거 수준 L5(모델 예측만 존재)로 현 단계에서 진행할 근거가 부족합니다.
+
+**진행하려면 필요한 것:**
+- 한국(TFDA/식약처) 허가사항의 경고 및 금기 정보 확보 (Blocking 데이터 갭, DG001)
+- Prednicarbate의 상세 작용 기전(MOA) 데이터 확보 (High 우선순위 데이터 갭, DG002)
+- 외음부 함몰성 모낭각화증에 대한 전임상 또는 사례 기반 문헌 확보
+- 대안으로, 근거가 상대적으로 더 확보된 **편평태선(Lichen Planus) 변이형** 적응증(2·3순위)에 대한 추가 문헌 검토를 우선 검토 권장
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

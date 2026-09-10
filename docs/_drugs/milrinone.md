@@ -1,0 +1,96 @@
+---
+layout: default
+title: Milrinone
+parent: 僅模型預測 (L5)
+nav_order: 481
+evidence_level: L5
+indication_count: 10
+---
+
+# Milrinone
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Milrinone: 심부전(해외 정맥주사 적응증)에서 탈모증(Alopecia)으로
+
+## 한 문장 요약
+
+Milrinone은 PDE3 억제제로, 해외에서는 급성 대상부전성 심부전 치료에 정맥주사로 사용되어 온 약물입니다. 한국에는 현재 허가된 제품이 없습니다.
+TxGNN 모델은 **탈모증(Alopecia)**에 효과가 있을 수 있다고 예측했으나(예측 점수 **99.91%**), 이를 뒷받침하는 **임상시험이나 문헌은 현재 전혀 없으며**, 순수하게 모델 예측 점수에만 근거한 가설입니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 심부전(급성 대상부전성 심부전, 해외 정맥주사 적응증) — 한국 허가자료 없음 |
+| 예측 신규 적응증 | 탈모증 (Alopecia) |
+| TxGNN 예측 점수 | 99.91% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미상시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 Milrinone의 상세한 작용기전(MOA) 데이터는 확보되지 않았습니다. 알려진 정보에 따르면 Milrinone은 PDE3 억제제로서 심근에서는 강심작용, 혈관에서는 혈관 평활근 이완(혈관확장) 작용을 나타냅니다.
+
+이론상 PDE3 억제로 인한 혈관 확장 작용은 미녹시딜(minoxidil, PDE 억제/K+ 채널 열림 기전)이 모낭 혈류를 촉진해 발모 효과를 내는 기전과 표면적으로 유사성이 있습니다.
+
+그러나 Milrinone 자체가 모낭 성장이나 발모에 작용한다는 실험적·임상적 근거는 현재 전혀 없으며, 이 예측은 순전히 TxGNN 예측 점수에 기반한 이론적 연상에 불과합니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 한국 시판 정보
+
+한국에는 현재 허가된 Milrinone 제품이 없습니다 (허가증 0건, 미상시).
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+탈모증에 대한 예측은 임상시험·문헌 등 실제 근거가 전무한 L5 수준(모델 예측만 존재)이며, 기전적 연관성도 다른 약물(미녹시딜)과의 표면적 유사성에 그칠 뿐 직접 검증되지 않았습니다. 한국 내 허가·안전성 정보도 확보되어 있지 않아 현 단계에서 진행할 근거가 부족합니다.
+
+**진행하려면 필요한 것:**
+- Milrinone의 모낭/피부 조직에 대한 전임상(동물모델·in vitro) 실험 데이터
+- 상세 작용기전(MOA) 데이터 (DrugBank 등 추가 조회)
+- 국내 규제기관 허가사항(경고, 금기, 약물상호작용) 확보 — 현재 Blocking 데이터 갭
+- 위 데이터 확보 전까지 신규 임상시험·문헌 근거 발생 여부 모니터링
+
+---
+**참고**: 본 평가 대상 데이터셋에는 Milrinone에 대해 근거 수준이 더 높은 예측 적응증도 존재합니다 — 예: **congestive heart failure**(L2, Proceed with Guardrails, 다수의 Phase 1–4 임상시험 및 메타분석 존재)와 **acute pulmonary heart disease**(L3, Research Question). 본 보고서는 규정된 규칙(predicted_indications[0])에 따라 TxGNN 1순위 예측인 탈모증을 기준으로 작성되었으며, 위 두 적응증은 별도 평가 대상으로 검토를 권장합니다.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,0 +1,114 @@
+---
+layout: default
+title: Propylthiouracil
+parent: 僅模型預測 (L5)
+nav_order: 583
+evidence_level: L5
+indication_count: 3
+---
+
+# Propylthiouracil
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **3** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Propylthiouracil: 갑상선기능항진증에서 갑상선호르몬수용체 저항성(RTH-β)으로
+
+## 한 문장 요약
+
+Propylthiouracil(PTU)은 thionamide 계열 항갑상선제로, 갑상선기능항진증(Graves병 등) 치료에 널리 사용되어 온 약물입니다.
+TxGNN 모델은 **갑상선호르몬수용체 베타 유전자 돌연변이로 인한 갑상선호르몬 저항성(RTH-β)**에도 효과가 있을 수 있다고 예측하지만,
+현재 이를 뒷받침하는 임상시험은 없고 **6편의 증례보고·동물실험 문헌**만 확인되며, 그중 일부는 오히려 PTU가 이 질환에 효과가 제한적임을 시사합니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 갑상선기능항진증 (Graves병 등, 문헌 근거 — 한국 내 허가 정보 없음) |
+| 예측 신규 적응증 | 갑상선호르몬수용체 저항성 (Resistance to thyroid hormone due to THRB mutation) |
+| TxGNN 예측 점수 | 99.66% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | ✗ 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Propylthiouracil은 thionamide 계열 항갑상선제로 분류되며, 갑상선기능항진증에서의 효능이 오랫동안 임상적으로 활용되어 왔습니다.
+
+다만 문헌을 살펴보면 주의할 점이 있습니다. 갑상선호르몬수용체 베타(THRB) 유전자 돌연변이로 인한 갑상선호르몬 저항성(RTH-β) 환자는 검사상 갑상선기능항진증과 유사한 소견(TSH 억제 없이 T4/T3 상승)을 보이는 경우가 많아 임상에서 오진되기 쉽습니다. 실제로 문헌 중 하나(PMID 10724359)는 RTH-β 환자가 갑상선기능항진증으로 오진되어 9개월간 PTU를 투여받았으나 갑상선종이 오히려 커졌다고 보고합니다. 즉 이 예측은 "두 질환이 검사 소견상 유사하다"는 연관성에서 비롯된 것으로 보이며, PTU가 RTH-β 자체의 병태생리(수용체 저항성)를 교정한다는 직접적 근거는 아직 없습니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [18561095](https://pubmed.ncbi.nlm.nih.gov/18561095/) | 2009 | 증례보고 | Exp Clin Endocrinol Diabetes | 터키 가족에서 THRB P453A 돌연변이로 인한 RTH 사례 |
+| [10724359](https://pubmed.ncbi.nlm.nih.gov/10724359/) | 1999 | 증례보고 | Endocrine Journal | RTH 환자가 갑상선기능항진증으로 오진되어 PTU 투여 후 갑상선종 악화 |
+| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | 증례보고 | Clinical Endocrinology | THRB M313T 돌연변이 가족에서 신생아 갑상선중독증 및 모체 불임 |
+| [14684607](https://pubmed.ncbi.nlm.nih.gov/14684607/) | 2004 | 전임상(동물모델) | Endocrinology | 심장에서 TR-β 돌연변이의 갑상선호르몬 저항성 역할 규명 |
+| [22919057](https://pubmed.ncbi.nlm.nih.gov/22919057/) | 2012 | 전임상(동물모델) | Endocrinology | TR-β 돌연변이 마우스에서 TSH가 갑상선암 발생에 미치는 영향 |
+| [21909131](https://pubmed.ncbi.nlm.nih.gov/21909131/) | 2012 | 전임상(동물모델) | Oncogene | 갑상선암 마우스 모델에서 갑상선호르몬에 의한 종양세포 증식 활성화 |
+
+---
+
+## 한국 시판 정보
+
+한국 내 허가된 품목이 없습니다 (미시판, 총 0건).
+
+---
+
+## 안전성 고려사항
+
+허가사항(경고, 금기, 약물상호작용) 데이터가 확보되지 않았습니다. 이는 안전성 초기 평가(S1)를 진행할 수 없는 **Blocking 수준의 데이터 공백**으로, TFDA(또는 해당 규제기관) 공식 허가사항을 반드시 확인해야 합니다.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- RTH-β에 대한 근거가 증례보고와 동물실험에 국한되며, 오히려 PTU가 RTH-β 환자에서 치료 반응이 제한적이었다는 증례(PMID 10724359)가 존재해 예측 방향과 상반되는 신호가 있습니다.
+- 허가사항 경고/금기 데이터가 전무하여 안전성 초기 평가 자체가 불가능한 Blocking 데이터 공백(DG001)이 있습니다.
+
+**진행하려면 필요한 것:**
+- TFDA(또는 해당 규제기관) 공식 허가 라벨의 경고·금기사항 확보
+- Propylthiouracil의 작용기전(MOA) 데이터 확보
+- RTH-β에서 실제 치료 반응을 평가한 전향적 임상 연구 또는 체계적 문헌고찰
+- 오진 사례로 인한 "가짜 연관성" 가능성에 대한 추가 검토
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

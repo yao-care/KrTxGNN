@@ -1,0 +1,115 @@
+---
+layout: default
+title: Rivaroxaban
+parent: 僅模型預測 (L5)
+nav_order: 608
+evidence_level: L5
+indication_count: 4
+---
+
+# Rivaroxaban
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **4** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Rivaroxaban: 적응증 정보 없음에서 류마티스 관절염(예측)으로
+
+## 한 문장 요약
+
+Rivaroxaban(DB06228)은 한국에 시판되지 않은 약물로, 본 평가 자료에는 기존 적응증과 작용기전(MOA) 정보가 제공되지 않았습니다.
+TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 있을 수 있다고 예측(점수 99.57%)했지만,
+관련 임상시험은 전무하고 문헌 3편도 RA 치료 효능이 아닌 다른 맥락을 다루고 있어 근거 수준은 최하위(L5)입니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 자료 없음 (평가 자료에 미기재) |
+| 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
+| TxGNN 예측 점수 | 99.57% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용기전(MOA) 데이터가 없습니다. 알려진 정보에 따르면 Rivaroxaban은 Xa인자(Factor Xa) 억제제 계열 항응고제이나,
+본 평가 자료에는 원 적응증도 기재되어 있지 않아 기존-신규 적응증 간 연관성을 직접 비교할 근거가 없습니다.
+
+Evidence Pack의 재창출 근거(rationale) 분석에 따르면, Xa인자 억제와 류마티스 관절염의 면역/염증 경로(TNF-α, IL-6, RANKL) 사이에는
+알려진 기전적 상호작용이 없습니다. 문헌에 나타나는 연관성은 "RA 환자가 만성 염증으로 인해 정맥혈전색전증(VTE) 위험이 높아
+항응고 치료가 필요한" 병용 관리(comorbidity management) 맥락일 뿐, RA 자체를 치료하는 근거가 아닙니다.
+높은 TxGNN 점수는 지식그래프 내 RA-VTE-항응고제 간 간접 경로가 혼입된 결과(spurious signal)일 가능성이 큽니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | 하지 정맥혈전색전증(DVT/PE)의 진단·치료 리뷰. RA와 직접 연관 없음 |
+| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Cohort/Biomarker | Rev Med Interne | 자가면역질환(항인지질증후군 등)에서 혈전생성능검사(TGA) 활용 연구. RA 치료 근거 아님 |
+| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Cohort | PLoS ONE | 비판막성 심방세동 환자의 rivaroxaban vs apixaban 복약순응도 비교. RA 무관 |
+
+3편 모두 RA 치료 효능과 무관하며, VTE 관리·자가면역질환 병용 관리·복약순응도 등 다른 주제를 다룹니다.
+
+## 한국 시판 정보
+
+현재 한국 내 허가된 제품이 없습니다 (미시판, 허가증 0건).
+
+## 안전성 고려사항
+
+안전성 정보(경고, 금기, 약물상호작용)가 확인되지 않았습니다. 공식 규제기관 허가사항(TFDA 등) 확보가
+안전성 초기평가(S1) 진입을 위한 필수(Blocking) 선행 조건입니다.
+
+## 기타 검토된 예측 적응증
+
+동일 Evidence Pack에는 류마티스 관절염 외 3건의 예측 적응증이 추가로 포함되어 있으며, 모두 Hold로 판정되었습니다.
+
+| 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 권장 | 사유 |
+|---|---|---|---|---|---|
+| 2 | 통풍 (Gout) | 99.51% | L5 | Hold | 유일한 문헌은 rivaroxaban과 통풍약 benzbromarone 간 CYP450 상호작용 체외연구로, 통풍 치료 근거 아님 |
+| 3 | HIV 감염 | 99.17% | L4 | Hold | Phase 2 시험 포함 전 증거가 ART(ritonavir/cobicistat)-DOAC 상호작용 및 HIV+ 환자의 항응고 안전성 관리에 관한 것으로, HIV 치료 근거 아님 |
+| 4 | 단지증-합지증 증후군 | 99.10% | L5 | Hold | 임상시험·문헌 전무. 응고계와 병태생리학적 연관 없는 희귀 유전질환 |
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 최우선 후보(류마티스 관절염)를 포함한 4건 모두 근거 수준 L4~L5로, 기전적 연관성이 확인되지 않은 예측 전용(spurious) 신호로 판단됩니다.
+- MOA 및 안전성(경고/금기/DDI) 데이터가 전무하여 안전성 초기평가(S1)조차 진행 불가한 Blocking 등급 데이터 공백(DG001)이 존재합니다.
+- 한국 내 미시판 상태로 허가 적응증 비교 대상도 없습니다.
+
+**진행하려면 필요한 것:**
+- TFDA/식약처 등 공식 허가사항(경고·금기·DDI) 확보 (DG001, Blocking)
+- DrugBank 등에서 상세 MOA 데이터 확보 (DG002)
+- 류마티스 관절염에 대한 rivaroxaban의 직접적인 전임상/임상 근거 확보 (현재 0건)
+- 기타 예측 적응증(통풍, HIV 감염, 단지증-합지증 증후군)은 기전적 근거 부족으로 함께 배제 검토 권장
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

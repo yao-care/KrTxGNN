@@ -2,7 +2,7 @@
 layout: default
 title: Rivastigmine
 parent: 僅模型預測 (L5)
-nav_order: 322
+nav_order: 609
 evidence_level: L5
 indication_count: 1
 ---

@@ -1,0 +1,94 @@
+---
+layout: default
+title: Leflunomide
+parent: 僅模型預測 (L5)
+nav_order: 431
+evidence_level: L5
+indication_count: 2
+---
+
+# Leflunomide
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Leflunomide: 적응증 미상에서 단지증-합지증 증후군으로
+
+## 한 문장 요약
+
+Leflunomide(DrugBank ID: DB01097)는 이번 Evidence Pack에 원래 적응증과 작용 기전(MOA) 정보가 모두 확인되지 않은 상태입니다.
+TxGNN 모델은 **단지증-합지증 증후군(Brachydactyly-Syndactyly Syndrome)**에 효과가 있을 수 있다고 99.93% 점수로 예측했지만,
+관련 임상시험 및 문헌은 **0건**이며, Evidence Pack 자체 분석에서도 이 예측을 지식그래프 희소 노드로 인한 **위양성(false positive) 가능성**으로 지목하고 있습니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 확인 불가 (Evidence Pack에 등재 자료 없음) |
+| 예측 신규 적응증 | 단지증-합지증 증후군 (Brachydactyly-Syndactyly Syndrome) |
+| TxGNN 예측 점수 | 99.93% (순위 1993위) |
+| 근거 수준 | L5 (모델 예측만 존재, 실제 연구 없음) |
+| 한국 시판 현황 | 미상시 (미판매) |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터는 Evidence Pack에 등재되어 있지 않습니다. 다만 예측 근거(rationale) 항목에서
+Leflunomide가 DHODH(디하이드로오로테이트 탈수소효소) 억제제로서 피리미딘 합성 및 면역 조절 경로에 작용한다는 참고 정보를 확인할 수 있습니다.
+
+그러나 1순위 예측 적응증인 단지증-합지증 증후군은 HOXD13 유전자 돌연변이로 인한 사지 형태 발생 결함(구조적 선천 기형)이며,
+염증성·증식성 질환이 아니어서 Leflunomide의 면역조절/피리미딘 합성 억제 기전과 생물학적으로 연결되는 지점이 없습니다.
+2순위 후보인 콜로보마 소안구증-근위지단축이형성 증후군(MCSKS, OMIM #615877) 역시 MAB21L2 유전자 돌연변이에 의한 안구·골격 발생 이상으로, 동일하게 기전상 연관성이 확인되지 않습니다.
+
+Evidence Pack의 자체 평가는 두 예측 모두 "지식그래프 상 희귀질환 노드가 데이터가 희소하여 발생한 위양성 가능성"으로 명시하고 있어,
+현재로서는 기전적 타당성을 뒷받침할 근거가 없습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+TxGNN 예측 점수는 높지만(99.93%) 뒷받침하는 임상시험·문헌 근거가 전무하며(L5), Evidence Pack 자체 분석에서도 기전적 연관성이 없고 위양성 가능성이 제기되었습니다. 원 적응증과 MOA 정보조차 확인되지 않아 재창출 타당성을 판단할 최소 근거가 부족합니다.
+
+**진행하려면 필요한 것:**
+- Leflunomide의 원 적응증 및 작용 기전(MOA) 데이터 확보 (DrugBank API 등)
+- 식약처 허가사항(경고·금기·DDI) 확보 — 현재 전량 데이터 미확보 상태
+- 두 예측 적응증에 대한 전임상/기전 수준 연구 존재 여부 재조사
+- 지식그래프 희소 노드 여부에 대한 TxGNN 모델 자체 검증 (위양성 배제)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

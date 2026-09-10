@@ -1,0 +1,86 @@
+---
+layout: default
+title: Carvedilol
+parent: 僅模型預測 (L5)
+nav_order: 178
+evidence_level: L5
+indication_count: 5
+---
+
+# Carvedilol
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **5** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Carvedilol: 원 적응증 정보 부재에서 악성 신혈관성 고혈압(예측)으로
+
+## 한 문장 요약
+
+Carvedilol(DrugBank ID: DB01136)은 이번 Evidence Pack에서 원 적응증과 작용기전(MOA) 정보가 모두 확인되지 않았습니다(자료 공백, MOA는 High 등급 결손). TxGNN 모델은 **악성 신혈관성 고혈압(Malignant Renovascular Hypertension)**에 효과가 있을 수 있다고 예측하며(예측 점수 99.55%), 현재 이를 뒷받침하는 임상시험이나 문헌은 **없습니다**.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 확인되지 않음 (자료 없음) |
+| 예측 신규 적응증 | 악성 신혈관성 고혈압 (Malignant Renovascular Hypertension) |
+| TxGNN 예측 점수 | 99.55% |
+| 근거 수준 | L5 (모델 예측만 있음, 임상시험/문헌 없음) |
+| 한국 시판 현황 | 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용기전(MOA) 데이터가 없습니다. Evidence Pack에 제시된 기전적 가설에 따르면, carvedilol은 비선택적 베타 차단제이자 알파1 차단제로서 혈압 강하 및 혈관 확장 작용을 가지고 있어, 이론적으로는 악성 고혈압 계열 질환에 도움이 될 수 있다고 추정됩니다.
+
+다만 이는 순수한 기전적 추론입니다. 본 데이터셋에서는 carvedilol의 원 적응증 자체가 확인되지 않은 상태이고, "악성 신혈관성 고혈압"이라는 특정 아형에 대해서는 임상시험이나 문헌이 전혀 검색되지 않았습니다(ClinicalTrials.gov, ICTRP, PubMed 모두 0건). 따라서 이 예측은 TxGNN 모델 점수(0.9955)에만 근거하며, 실제 임상적 근거로 뒷받침되지는 않습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+예측 적응증(악성 신혈관성 고혈압)에 대한 임상시험 및 문헌 근거가 전혀 없어 L5(모델 예측만 존재) 수준에 머물러 있습니다. 여기에 더해 약물의 원 적응증, 작용기전, 규제 라벨상 경고·금기·DDI 정보까지 모두 자료 공백 상태이며, 그중 현지 규제기관 라벨 정보(DG001)는 Blocking 등급 결손으로 분류되어 있어 안전성 초기 평가(S1) 단계 진입 자체가 불가능합니다.
+
+**진행하려면 필요한 것:**
+- 현지 규제기관 공식 라벨(경고·금기사항) 확보 (DG001, Blocking)
+- DrugBank API를 통한 정확한 MOA 및 원 적응증 확인 (DG002, High)
+- "악성 신혈관성 고혈압" 및 "악성 고혈압성 신질환"에 특화된 임상시험·문헌 재검색 (현재 0건)
+- 동일 Evidence Pack 내 다른 후보 적응증(예: 폐고혈압 관련, 문헌 20편 검색되었으나 검토 결과 모두 저관련성으로 판정됨)의 relevance 재평가 여부 확인
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

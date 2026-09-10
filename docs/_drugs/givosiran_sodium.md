@@ -2,7 +2,7 @@
 layout: default
 title: Givosiran Sodium
 parent: 僅模型預測 (L5)
-nav_order: 279
+nav_order: 349
 evidence_level: L5
 indication_count: 0
 ---

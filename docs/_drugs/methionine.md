@@ -1,0 +1,94 @@
+---
+layout: default
+title: Methionine
+parent: 僅模型預測 (L5)
+nav_order: 470
+evidence_level: L5
+indication_count: 10
+---
+
+# Methionine
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Methionine: 적응증 정보 없음에서 여드름(Acne)으로
+
+## 한 문장 요약
+
+Methionine은 한국에 허가·시판 이력이 없는 성분으로, 기존 적응증과 작용 기전(MOA) 정보 모두 현재 확보되어 있지 않습니다.
+TxGNN 모델은 **여드름(Acne)**에 효과가 있을 수 있다고 예측하지만, 관련 임상시험은 전무하며 **4편의 문헌**만 존재하고 그마저도 대부분 methionine 대사 경로(호모시스테인, MTHFR)에 대한 간접적 관찰에 그칩니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (허가 자료 미확보, 한국 미시판) |
+| 예측 신규 적응증 | 여드름 (Acne) |
+| TxGNN 예측 점수 | 99.9996% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터가 없습니다. Methionine은 필수 아미노산으로, 체내에서 호모시스테인(homocysteine)·시스테인 대사 경로의 핵심 전구체로 작용한다는 점만 문헌상 확인됩니다.
+
+제시된 문헌들은 여드름을 methionine의 치료 대상으로 직접 연구한 것이 아니라, isotretinoin(여드름 치료제)의 부작용으로 나타나는 고호모시스테인혈증, MTHFR 돌연변이, 호중구 기능 이상 등 methionine 대사 경로의 **부수적 관찰**을 다룹니다. 즉 methionine이 여드름을 치료한다는 직접적 인과관계가 아니라, 여드름 치료 과정에서 methionine 대사가 영향을 받는다는 역방향에 가까운 연관성입니다. 기전상 이 예측을 뒷받침할 근거는 약합니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | 코호트(관찰) | Int J Dermatol | 낭성 여드름에 isotretinoin 치료 시 혈중 호모시스테인 수치 상승 관찰 |
+| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | 사례보고 | BMJ Case Reports | MTHFR 돌연변이 신생아에서 신생아 여드름 등 피부 이상 동반 뇌병증 사례 |
+| [3859500](https://pubmed.ncbi.nlm.nih.gov/3859500/) | 1985 | 기초/기전 | J Am Acad Dermatol | Sweet 증후군 및 낭포결절성 여드름 환자에서 혈장 화학주성 인자 증가 |
+| [3161955](https://pubmed.ncbi.nlm.nih.gov/3161955/) | 1985 | 기초/기전 | J Invest Dermatol | 피부 염증질환(여드름 포함)에서 호중구 C5a 반응 기능 일시적 소실 |
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+근거 수준이 L5로 실제 개입 연구나 임상시험이 전혀 없으며, 제시된 4편의 문헌도 여드름에 대한 methionine의 치료 효과가 아니라 여드름 치료(isotretinoin) 과정에서 발생하는 methionine 대사 이상을 관찰한 것에 불과해 기전적 인과관계가 성립하지 않습니다. 여기에 더해 MOA, 한국 허가 정보, 안전성 데이터가 모두 결측 상태입니다.
+
+**진행하려면 필요한 것:**
+- DrugBank 등을 통한 작용 기전(MOA) 데이터 확보 (DG002)
+- 한국 규제기관 허가사항(경고·금기) 자료 확보 — 현재 Blocking 등급 데이터 갭 (DG001)
+- 여드름을 직접 대상으로 한 전임상/임상 개입 연구
+- DDI(약물상호작용) 데이터베이스 재조회
+
+**참고:** 이번 Evidence Pack에는 여드름 외에도 9건의 추가 예측 적응증이 포함되어 있으며, 그중 10위 **당뇨병성 백내장(diabetic cataract)**은 L3 근거 수준(관찰연구, Research Question 단계)으로 상대적으로 더 유의미한 기전적 단서(MsrB1 효소의 보호적 역할)를 보입니다. 별도 평가가 필요하면 요청해 주세요.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

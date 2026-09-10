@@ -2,7 +2,7 @@
 layout: default
 title: Nitrous Oxide
 parent: 僅模型預測 (L5)
-nav_order: 313
+nav_order: 509
 evidence_level: L5
 indication_count: 1
 ---

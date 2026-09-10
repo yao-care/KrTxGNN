@@ -1,0 +1,86 @@
+---
+layout: default
+title: Letermovir
+parent: 僅模型預測 (L5)
+nav_order: 435
+evidence_level: L5
+indication_count: 1
+---
+
+# Letermovir
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **1** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Letermovir: CMV 감염에서 외음질 칸디다증(Vulvovaginal Candidiasis)으로
+
+## 한 문장 요약
+
+Letermovir는 DrugBank 근거상 CMV(인간거대세포바이러스) terminase complex를 표적으로 하는 항바이러스제로 추정되나, 상세 적응증 및 작용기전 데이터는 확보되지 않았습니다. TxGNN 모델은 **외음질 칸디다증(Vulvovaginal Candidiasis)**에 효과가 있을 수 있다고 예측(점수 99.88%)했지만, 이를 뒷받침하는 임상시험이나 문헌은 **0건**이며, 근거 자체의 기전 분석에서도 이 예측은 지식그래프 상의 허위 양성(false positive) 가능성이 높다고 명시하고 있습니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 데이터 없음 (DrugBank 상 CMV 관련 항바이러스제로 추정되나 승인 적응증 텍스트 미확보) |
+| 예측 신규 적응증 | 외음질 칸디다증 (Vulvovaginal Candidiasis) |
+| TxGNN 예측 점수 | 99.88% (전체 순위 3039위) |
+| 근거 수준 | L5 (모델 예측만 있음, 실제 연구 없음) |
+| 한국 시판 현황 | 미판매 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+Letermovir는 CMV terminase complex(pUL51/pUL56/pUL89로 구성)를 억제하는 것으로 알려진, 바이러스 특이성이 매우 높은 항바이러스제입니다. 이 표적은 진균 감염 치료에 필요한 표적(예: ergosterol 합성 경로, 세포벽 glucan 합성, CYP51 등)과 알려진 교집합이 없습니다.
+
+외음질 칸디다증은 Candida albicans 등 진균에 의한 감염으로, 병원체 계통(바이러스 vs 진균)과 작용 표적이 완전히 다릅니다. 원본 MOA 데이터 자체가 확보되지 않은 상태이며, 현재로서는 이 예측이 TxGNN 지식그래프 상의 위상적 유사성(예: '감염증' 노드 인접성, 임베딩 공간의 우연한 근접성)에서 비롯된 허위 양성일 가능성이 높습니다. 기전적 타당성을 뒷받침할 근거가 없습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+근거 수준이 L5(모델 예측만 존재)로, 이를 지지하는 임상시험이나 문헌이 전혀 없습니다. 또한 예측 자체의 기전 분석에서 항바이러스 표적과 항진균 표적 간 알려진 연관성이 없다고 명시하여, 허위 양성 가능성이 높은 것으로 판단됩니다. 한국 내 시판 이력도 없어 안전성·허가 근거 기반 평가가 불가능합니다.
+
+**진행하려면 필요한 것:**
+- 작용기전(MOA) 상세 데이터 확보 (DrugBank API 재조회 등, DG002 해소)
+- 허가사항 경고·금기 정보 확보 (TFDA/식약처 등 원문 확인, DG001 해소 — S1 안전성 초평가 진입에 필수)
+- 항진균 활성에 대한 최소한의 전임상(in vitro/in vivo) 또는 기전 연구 확보
+- 위 데이터 확보 전까지는 추가 진행 보류 권장
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

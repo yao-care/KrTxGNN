@@ -2,7 +2,7 @@
 layout: default
 title: Ethosuximide
 parent: 僅模型預測 (L5)
-nav_order: 270
+nav_order: 300
 evidence_level: L5
 indication_count: 1
 ---

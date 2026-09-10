@@ -1,0 +1,99 @@
+---
+layout: default
+title: Pimozide
+parent: 僅模型預測 (L5)
+nav_order: 554
+evidence_level: L5
+indication_count: 10
+---
+
+# Pimozide
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Pimozide: 투렛 증후군에서 발모광(Trichotillomania)으로
+
+## 한 문장 요약
+
+Pimozide는 강력한 도파민 D2 수용체 길항제로, 원래 투렛 증후군(미국 승인 적응증)과 정신분열병(해외 사용) 치료에 쓰여 온 항정신병 약물입니다. TxGNN 모델은 **발모광(Trichotillomania)**에 효과가 있을 수 있다고 예측하며, 현재 관련 임상시험 등록은 없으나 **10편의 문헌**(SSRI 저항성 환자 대상 병용요법 연구 포함)이 이 방향을 지지합니다. 다만 근거 수준은 L4(소규모 개방표지 연구·사례보고·기전 문헌)로 아직 초기 연구 질문 단계입니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 투렛 증후군(미국 승인), 정신분열병(해외 사용) — 한국 허가 정보 없음 |
+| 예측 신규 적응증 | 발모광 (Trichotillomania) |
+| TxGNN 예측 점수 | 99.996% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | 미판매 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 DrugBank 등록 MOA(작용기전) 상세 데이터는 확보되지 않았습니다(데이터 공백 DG002). 다만 문헌에 따르면 Pimozide는 diphenylbutylpiperidine 계열의 강력한 도파민 D2 수용체 길항제로, 이 기전이 항정신병 효과의 핵심입니다. 미국에서는 투렛 증후군의 보조 치료제로만 승인되어 있고, 해외에서는 오랫동안 정신분열병 치료에 사용되어 왔습니다.
+
+발모광은 강박스펙트럼/충동조절장애로 분류되며, 투렛 증후군·강박장애와 임상적으로 일부 겹치는 것으로 알려져 있습니다. 문헌(PMID 1532960, 10357517)에 따르면 SSRI에 반응하지 않는 난치성 발모광 환자에서 저용량 pimozide 또는 risperidone 병용요법이 증상을 완화시킨 사례가 보고되어 있어, 선조체 도파민 조절이 반복적 행동 억제에 관여할 가능성을 시사합니다.
+
+다만 이 연관성은 소규모 개방표지 연구와 사례 시리즈에 근거하며, pimozide 단독의 직접적인 항(抗)발모광 기전은 아직 명확히 규명되지 않았습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [1532960](https://pubmed.ncbi.nlm.nih.gov/1532960/) | 1992 | 개방표지 병용요법 연구 | J Clin Psychiatry | SSRI 저항성 발모광 환자에서 저용량 pimozide 병용요법 효과 보고 |
+| [10357517](https://pubmed.ncbi.nlm.nih.gov/10357517/) | 1999 | 사례 시리즈 | J Child Adolesc Psychopharmacol | SSRI 저항성 발모광 3례에서 risperidone 부가요법 효과, pimozide 부가요법 선례 언급 |
+| [15554735](https://pubmed.ncbi.nlm.nih.gov/15554735/) | 2004 | 리뷰 | Am J Clin Dermatol | Pimozide는 미국에서 투렛 증후군 보조치료로만 승인, 해외에서는 정신분열병 치료제로 사용; 피부과에서는 망상성 기생충증 등에 오프라벨 사용 |
+| [36802832](https://pubmed.ncbi.nlm.nih.gov/36802832/) | 2023 | Evidence mapping/리뷰 | J Cutan Med Surg | 일차성 정신피부질환(PPD) 약물치료의 RCT 근거 매핑, 임상 가이드라인 부재 지적 |
+| [30446201](https://pubmed.ncbi.nlm.nih.gov/30446201/) | 2018 | 리뷰 | Clinics in Dermatology | 항정신병 약물의 피부과 활용 리뷰, D2 수용체 차단 기전이 피부 지각·자율신경 반응에 영향 |
+| [27320510](https://pubmed.ncbi.nlm.nih.gov/27320510/) | 2016 | 리뷰 | Tijdschrift voor psychiatrie | 소아 발모광 치료 옵션 리뷰, 약물치료 연구 투자 부족 지적 |
+| [28225970](https://pubmed.ncbi.nlm.nih.gov/28225970/) | 2017 | 증례보고 | An Bras Dermatol | 발모광 증례보고, 원형탈모증과의 피부경검 감별진단 |
+| [11475941](https://pubmed.ncbi.nlm.nih.gov/11475941/) | 2001 | 리뷰 | CNS Drugs | 정신성 표피박탈증의 임상특징·진단기준·치료접근법 리뷰 |
+| [10497682](https://pubmed.ncbi.nlm.nih.gov/10497682/) | 1999 | 리뷰 | Ann Acad Med Singap | 저진단되는 정신과 증후군으로서 발모광의 유병률 및 임상특징 리뷰 |
+| [10900563](https://pubmed.ncbi.nlm.nih.gov/10900563/) | 2000 | 사례 시리즈 | Int J Psychiatry Med | 망상성 기생충증의 임상 프로파일 |
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+안전성 정보(경고, 금기, 약물상호작용)가 전혀 확보되지 않아 S1 안전성 초기평가를 진행할 수 없는 차단 수준의 데이터 공백(DG001)이 존재합니다. 또한 발모광 적응증의 근거 수준이 L4로, 소규모 개방표지 병용요법 연구와 사례보고에 그쳐 대조군 임상시험 근거가 부족합니다.
+
+**진행하려면 필요한 것:**
+- TFDA/식약처 허가사항의 경고·금기 정보 확보 (DG001, Blocking)
+- DrugBank 등에서 상세 작용기전(MOA) 데이터 확보 (DG002, High)
+- 발모광 적응증에 대한 무작위 대조 임상시험 설계 검토
+- 한국 내 시판·수입 경로 확인 (현재 미판매, 허가증 0건)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

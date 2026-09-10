@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-27",
-  "drug_count": 857,
-  "indication_count": 1980,
+  "generated": "2026-09-10",
+  "drug_count": 1152,
+  "indication_count": 2099,
   "drugs": [
     {
       "name": "Abacavir Sulfate",
@@ -5149,6 +5149,236 @@
       "indications": []
     },
     {
+      "name": "Carbimazole",
+      "slug": "carbimazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Carbocisteine",
+      "slug": "carbocisteine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Carboplatin",
+      "slug": "carboplatin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Carfilzomib",
+      "slug": "carfilzomib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Carvedilol",
+      "slug": "carvedilol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cefamandole Nafate",
+      "slug": "cefamandole_nafate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cefazedone",
+      "slug": "cefazedone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cefodizime",
+      "slug": "cefodizime",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cefoperazone",
+      "slug": "cefoperazone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cefpiramide",
+      "slug": "cefpiramide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cefpirome",
+      "slug": "cefpirome",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Osteoarthritis | 98.29% | 연골 퇴행 기전과 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Osteoarthritis susceptibility | 98.13% | 유전적 감수성 표지자, 질환 자체 아님",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Gout | 97.72% | 요산 대사·NLRP3 기전과 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Pseudoachondroplasia | 97.45% | COMP 유전자 돌연변이 질환, 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 97.31% | 희귀 선천 증후군, 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Hemoglobinopathy | 97.23% | 헤모글로빈 유전자 이상, 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Brachyolmia | 97.20% | 골격 발육이상, 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Acromesomelic dysplasia, Hunter-Thompson type | 97.05% | GDF5/CDMP1 돌연변이 질환, 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Myosclerosis | 96.93% | 결합조직 섬유화, 무관",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Cefroxadine",
+      "slug": "cefroxadine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ceftazidime",
+      "slug": "ceftazidime",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ceftezole",
+      "slug": "ceftezole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cefuroxime",
+      "slug": "cefuroxime",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Celecoxib",
+      "slug": "celecoxib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cemiplimab",
+      "slug": "cemiplimab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ceritinib",
+      "slug": "ceritinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cerliponase Alfa",
+      "slug": "cerliponase_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cetuximab",
+      "slug": "cetuximab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Chlorambucil",
+      "slug": "chlorambucil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Chloramphenicol",
+      "slug": "chloramphenicol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Chlorprothixene",
+      "slug": "chlorprothixene",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Chlorthalidone",
       "slug": "chlorthalidone",
       "brands": [],
@@ -5835,6 +6065,14 @@
       ]
     },
     {
+      "name": "Clobetasol Propionate",
+      "slug": "clobetasol_propionate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Clobetasone",
       "slug": "clobetasone",
       "brands": [],
@@ -6498,6 +6736,54 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Cycloserine",
+      "slug": "cycloserine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cyclosporine",
+      "slug": "cyclosporine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cyproterone Acetate",
+      "slug": "cyproterone_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Cytarabine",
+      "slug": "cytarabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dabigatran Etexilate",
+      "slug": "dabigatran_etexilate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Dacarbazine",
+      "slug": "dacarbazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Dactinomycin",
@@ -74343,6 +74629,59 @@
       ]
     },
     {
+      "name": "Epinephrine",
+      "slug": "epinephrine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "폐쇄성 폐질환 | 99.71% | L2 | Proceed with Guardrails",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "식품 유발 운동유발성 아나필락시스 (FDEIA) | 99.57% | L3 | Proceed with Guardrails",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Rienhoff 증후군 | 99.57% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "호흡기 기형 | 99.56% | L4 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Erdafitinib",
+      "slug": "erdafitinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Erythromycin",
+      "slug": "erythromycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Esomeprazole",
+      "slug": "esomeprazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Estradiol Valerate",
       "slug": "estradiol_valerate",
       "brands": [],
@@ -74607,6 +74946,350 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Etoposide",
+      "slug": "etoposide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Etoricoxib",
+      "slug": "etoricoxib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Etravirine",
+      "slug": "etravirine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Everolimus",
+      "slug": "everolimus",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Evocalcet",
+      "slug": "evocalcet",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Evolocumab",
+      "slug": "evolocumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Exemestane",
+      "slug": "exemestane",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ezetimibe",
+      "slug": "ezetimibe",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Famciclovir",
+      "slug": "famciclovir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Famotidine",
+      "slug": "famotidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Febuxostat",
+      "slug": "febuxostat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Felbinac",
+      "slug": "felbinac",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Felodipine",
+      "slug": "felodipine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fenofibrate",
+      "slug": "fenofibrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fentanyl",
+      "slug": "fentanyl",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ferric Maltol",
+      "slug": "ferric_maltol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Plummer-Vinson 증후군 | 99.98% | 835 | Research Question | 정의상 철결핍성빈혈이 병인이므로 기전적 정합성 높음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "비타민B12/엽산 비의존성 선천성 거대적혈모구빈혈 | 99.98% | 847 | Hold | DNA 합성 결함 질환으로 철결핍 기전과 무관, 위양성 의심",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "IRIDA 증후군 | 99.33% | 10,528 | Research Question | 철저항성 빈혈. 비-DMT1 흡수경로 가설은 있으나 불확실",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Ferrous Fumarate",
+      "slug": "ferrous_fumarate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Filgotinib",
+      "slug": "filgotinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Filgrastim",
+      "slug": "filgrastim",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Finasteride",
+      "slug": "finasteride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flomoxef",
+      "slug": "flomoxef",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flubendazole",
+      "slug": "flubendazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluconazole",
+      "slug": "fluconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fludarabine",
+      "slug": "fludarabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flunitrazepam",
+      "slug": "flunitrazepam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluocinonide",
+      "slug": "fluocinonide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluorescein",
+      "slug": "fluorescein",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluorometholone",
+      "slug": "fluorometholone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluorouracil",
+      "slug": "fluorouracil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluoxetine",
+      "slug": "fluoxetine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Flurbiprofen",
+      "slug": "flurbiprofen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fluvastatin",
+      "slug": "fluvastatin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Folic Acid",
+      "slug": "folic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fremanezumab",
+      "slug": "fremanezumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fulvestrant",
+      "slug": "fulvestrant",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Fusidic Acid",
+      "slug": "fusidic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gadoteridol",
+      "slug": "gadoteridol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Galcanezumab",
+      "slug": "galcanezumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gefitinib",
+      "slug": "gefitinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gemcitabine",
+      "slug": "gemcitabine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Gemfibrozil",
+      "slug": "gemfibrozil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     },
     {
       "name": "Gilteritinib Fumarate",
@@ -75181,6 +75864,54 @@
       ]
     },
     {
+      "name": "Golimumab",
+      "slug": "golimumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Granisetron",
+      "slug": "granisetron",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Guaiacol",
+      "slug": "guaiacol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Guaifenesin",
+      "slug": "guaifenesin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Guselkumab",
+      "slug": "guselkumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Haloperidol",
+      "slug": "haloperidol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
       "name": "Hemin",
       "slug": "hemin",
       "brands": [],
@@ -75287,6 +76018,1226 @@
     {
       "name": "Idebenone",
       "slug": "idebenone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ifosfamide",
+      "slug": "ifosfamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ilaprazole",
+      "slug": "ilaprazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iloprost",
+      "slug": "iloprost",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "선천성심질환 관련 PAH | L2 | Proceed with Guardrails | 임상시험 1건(상태 불명) + 문헌 20편, WHO Group 1 PAH 아형",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "결합조직질환 관련 PAH | L3 | Proceed with Guardrails | RCT 없음, 다수 코호트/증례 문헌(경화증 등)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "폐동정맥기형 | L4 | Hold | 구조적 병변으로 기전 연관성 약함, 문헌 1편(간접)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "주혈흡충증 관련 PAH | L4 | Research Question | 질환 특이적 문헌 없음, 소아 PH 일반 연구만 존재",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "만성 용혈성빈혈 관련 PAH | L5 | Hold | 임상/문헌 근거 전무, 이론적 기전 유사성만 존재",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Imatinib",
+      "slug": "imatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Imiglucerase",
+      "slug": "imiglucerase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Imipenem",
+      "slug": "imipenem",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Imiquimod",
+      "slug": "imiquimod",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Inclisiran",
+      "slug": "inclisiran",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Inositol",
+      "slug": "inositol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Aspart",
+      "slug": "insulin_aspart",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Degludec",
+      "slug": "insulin_degludec",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Detemir",
+      "slug": "insulin_detemir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Glargine",
+      "slug": "insulin_glargine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Glulisine",
+      "slug": "insulin_glulisine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Insulin Lispro",
+      "slug": "insulin_lispro",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Interferon Beta-1B",
+      "slug": "interferon_beta-1b",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iodixanol",
+      "slug": "iodixanol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iohexol",
+      "slug": "iohexol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Iopromide",
+      "slug": "iopromide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ioversol",
+      "slug": "ioversol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ipilimumab",
+      "slug": "ipilimumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Irbesartan",
+      "slug": "irbesartan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Isoflurane",
+      "slug": "isoflurane",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "양극성 정동장애 조증(Manic Bipolar Affective Disorder) | 99.57% | L4 | 문헌 3편(주로 증례/전임상), burst-suppression 마취 관련",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "편두통(Migraine Disorder) | 99.06% | L4 | 문헌 13편, 피질확산성탈분극(CSD) 억제 기전 근거 다수, 중증 편두통 중첩상태 증례 보고 존재",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Isoniazid",
+      "slug": "isoniazid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Isosorbide Mononitrate",
+      "slug": "isosorbide_mononitrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Isotretinoin",
+      "slug": "isotretinoin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Itopride",
+      "slug": "itopride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Itraconazole",
+      "slug": "itraconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ivermectin",
+      "slug": "ivermectin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ivosidenib",
+      "slug": "ivosidenib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Kallidinogenase",
+      "slug": "kallidinogenase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ketoconazole",
+      "slug": "ketoconazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ketoprofen",
+      "slug": "ketoprofen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "L-Glutamine",
+      "slug": "l-glutamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lacosamide",
+      "slug": "lacosamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lactic Acid",
+      "slug": "lactic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lamivudine",
+      "slug": "lamivudine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lamotrigine",
+      "slug": "lamotrigine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "삼차신경 종양 (Trigeminal Nerve Neoplasm) | 99.97% | L4 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "**삼차신경통 (Trigeminal Neuralgia)** | 99.89% | **L2** | **Proceed with Guardrails**",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "놀람유발 뇌전증 (Startle Epilepsy) | 99.38% | L3 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "배뇨유발 발작 (Micturition-induced Seizures) | 99.38% | pending | pending",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "음향유발 발작 (Audiogenic Seizures) | 99.38% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "식이유발 발작 (Eating Seizures) | 99.38% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "오르가즘유발 발작 (Orgasm-induced Seizures) | 99.38% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "사고유발 발작 (Thinking Seizures) | 99.38% | L4 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "독서유발 발작 (Reading Seizures) | 99.30% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Lanadelumab",
+      "slug": "lanadelumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lanreotide",
+      "slug": "lanreotide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lansoprazole",
+      "slug": "lansoprazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Laronidase",
+      "slug": "laronidase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Larotrectinib",
+      "slug": "larotrectinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Latanoprost",
+      "slug": "latanoprost",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Latanoprostene Bunod",
+      "slug": "latanoprostene_bunod",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Visceral calciphylaxis | 99.76% | L5 | Hold | 임상시험·문헌 없음, 기전 연결 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Primary hereditary glaucoma | 99.71% | L3 | Proceed with Guardrails | 약리 기전(안압 하강)상 유사 계열 외삽, 유전성 아형 직접 근거는 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Arterial thoracic outlet syndrome | 99.63% | L5 | Hold | 해부학적 압박 질환, 기전 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Venous thoracic outlet syndrome | 99.63% | L5 | Hold | 상동",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Neurogenic thoracic outlet syndrome | 99.56% | L5 | Hold | 상동",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Vascular disease | 99.53% | L3 | Research Question | NCT03949244(Phase 4, 완료, 갑상혈관 미세혈류 측정) 등 인체 시험 존재, 다만 치료 효능시험은 아님",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Idiopathic spontaneous coronary artery dissection | 99.52% | L5 | Hold | 이론상 오히려 위험 증가 가능성, 안전성 우려",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Angiodysplasia of stomach | 99.51% | L5 | Hold | 혈관 이완이 지혈에 불리할 수 있음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Lymphangiectasis | 99.48% | L5 | Hold | 기전 연결 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Hemangioendothelioma | 99.47% | L4 | Hold | 문헌은 치료 근거가 아닌 안전성 경고(망막박리 사례보고)",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Lecanemab",
+      "slug": "lecanemab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Leflunomide",
+      "slug": "leflunomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lenalidomide",
+      "slug": "lenalidomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lenograstim",
+      "slug": "lenograstim",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lenvatinib",
+      "slug": "lenvatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Letermovir",
+      "slug": "letermovir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Letrozole",
+      "slug": "letrozole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levetiracetam",
+      "slug": "levetiracetam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levodopa",
+      "slug": "levodopa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levofloxacin",
+      "slug": "levofloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Levonorgestrel",
+      "slug": "levonorgestrel",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lidocaine",
+      "slug": "lidocaine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lindane",
+      "slug": "lindane",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Liothyronine",
+      "slug": "liothyronine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lipegfilgrastim",
+      "slug": "lipegfilgrastim",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lisinopril",
+      "slug": "lisinopril",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lithium Carbonate",
+      "slug": "lithium_carbonate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lonoctocog Alfa",
+      "slug": "lonoctocog_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lorazepam",
+      "slug": "lorazepam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "삼차신경 종양 (Trigeminal nerve neoplasm) | 99.87% | L5 | Hold | 임상시험/문헌 0건, 기전 연관성 없음 — KG 임베딩 위양성 가능성 높음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "독서 유발 발작 (Reading seizures) | 99.64% | L4 | Research Question | 일반 광과민성 뇌전증 문헌 외삽, 해당 아형 직접 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "오르가즘 유발 발작 | 99.63% | L5 | Hold | 임상시험/문헌 0건",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "청각(음성) 유발 발작 | 99.63% | L4 | Research Question | 대부분 동물 금단증후군 연구, 치료 근거 아님",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "섭식 유발 발작 | 99.63% | L5 | Hold | 관련성 낮은 문헌뿐(가성발작, 세로토닌증후군 등)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "배뇨 유발 발작 | 99.63% | L3 | Proceed with Guardrails | Status epilepticus 표준치료 기전의 합리적 외삽, 해당 아형 직접시험은 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "사고 유발 발작 | 99.63% | L4 | Research Question | 일반 뇌전증중첩증 문헌뿐, 특이적 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "경악 유발 간질 (Startle epilepsy) | 99.63% | L4 | Research Question | 1986년 소아 뇌전증 벤조디아제핀 리뷰 1편뿐",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "이상성 경련 동반 급성 뇌증 (AESD) | 99.47% | L5 | Hold | 임상시험/문헌 0건",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Lorlatinib",
+      "slug": "lorlatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Loteprednol Etabonate",
+      "slug": "loteprednol_etabonate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lovastatin",
+      "slug": "lovastatin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Lurbinectedin",
+      "slug": "lurbinectedin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Luspatercept",
+      "slug": "luspatercept",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mafenide",
+      "slug": "mafenide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Magnesium Carbonate",
+      "slug": "magnesium_carbonate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Magnesium Citrate",
+      "slug": "magnesium_citrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Magnesium Hydroxide",
+      "slug": "magnesium_hydroxide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Magnesium Lactate",
+      "slug": "magnesium_lactate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mannitol",
+      "slug": "mannitol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "신증후군성 항이뇨부적절증후군 (NSIAD) | 99.97% | 0건 | 1편 | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "울혈성심부전 (CHF) | 99.90% | 0건 | 0편 | L5 | **Hold** (기전상 금기 우려)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "급성 폐성심 | 99.88% | 7건(모두 무관/등급C) | 0편 | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "운동유발성 악성고열증 | 99.86% | 0건 | 0편 | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "악성고열증 감수성 | 99.80% | 0건 | 3편 | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "가족성 주기성 마비 | 99.75% | 0건 | 2편 | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "저칼륨성 주기성 마비 | 99.72% | 0건 | 3편 | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "선천성 다심근병증(외안근마비 동반) | 99.72% | 0건 | 0편 | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "중등도 다소핵심근병증(수부 침범) | 99.71% | 0건 | 0편 | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "**가성뇌종양 (특발성 두개내압항진)** | 99.70% | 1건(등급B) | 20편 | **L3** | **Proceed with Guardrails**",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Mecobalamin",
+      "slug": "mecobalamin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Medroxyprogesterone Acetate",
+      "slug": "medroxyprogesterone_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mefenamic Acid",
+      "slug": "mefenamic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Megestrol Acetate",
+      "slug": "megestrol_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Meloxicam",
+      "slug": "meloxicam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Melphalan",
+      "slug": "melphalan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mephenesin",
+      "slug": "mephenesin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mepolizumab",
+      "slug": "mepolizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mercaptopurine",
+      "slug": "mercaptopurine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mesalazine",
+      "slug": "mesalazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methionine",
+      "slug": "methionine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methocarbamol",
+      "slug": "methocarbamol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methotrexate",
+      "slug": "methotrexate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methoxy Polyethylene Glycol-Epoetin Beta",
+      "slug": "methoxy_polyethylene_glycol-epoetin_beta",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methylene Blue",
+      "slug": "methylene_blue",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Methylprednisolone",
+      "slug": "methylprednisolone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Metoclopramide",
+      "slug": "metoclopramide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Metronidazole",
+      "slug": "metronidazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Midazolam",
+      "slug": "midazolam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Miglitol",
+      "slug": "miglitol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Miglustat",
+      "slug": "miglustat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Milrinone",
+      "slug": "milrinone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Minoxidil",
+      "slug": "minoxidil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mirtazapine",
+      "slug": "mirtazapine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mirvetuximab Soravtansine",
+      "slug": "mirvetuximab_soravtansine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Misoprostol",
+      "slug": "misoprostol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mizolastine",
+      "slug": "mizolastine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Modafinil",
+      "slug": "modafinil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mogamulizumab",
+      "slug": "mogamulizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Molsidomine",
+      "slug": "molsidomine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Moxifloxacin",
+      "slug": "moxifloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mupirocin",
+      "slug": "mupirocin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Mycophenolate Mofetil",
+      "slug": "mycophenolate_mofetil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nabumetone",
+      "slug": "nabumetone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nadifloxacin",
+      "slug": "nadifloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nadolol",
+      "slug": "nadolol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Naftopidil",
+      "slug": "naftopidil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nalidixic Acid",
+      "slug": "nalidixic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Naproxen",
+      "slug": "naproxen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Brachydactyly-syndactyly syndrome | 99.35% | 10,275 | 0건 | 0편 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.22% | 11,942 | 0건 | 0편 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Acromesomelic dysplasia, Hunter-Thompson type | 99.17% | 12,411 | 0건 | 0편 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Brachyolmia-amelogenesis imperfecta syndrome | 99.06% | 13,774 | 0건 | 0편 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Natalizumab",
+      "slug": "natalizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nefopam",
+      "slug": "nefopam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nemolizumab",
+      "slug": "nemolizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Neratinib",
+      "slug": "neratinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nicergoline",
+      "slug": "nicergoline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nicorandil",
+      "slug": "nicorandil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Nimodipine",
+      "slug": "nimodipine",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -75417,6 +77368,1028 @@
       "original": "",
       "level": "L5",
       "indications": []
+    },
+    {
+      "name": "Ofloxacin",
+      "slug": "ofloxacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "고아밀라아제혈증 | 99.91% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "다클론성 과점도증후군 | 99.91% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "선천성 무알부민혈증 | 99.90% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "혈액형 부적합 | 99.86% | L4 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "조혈계통 전악성질환 | 99.84% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "단클론감마글로불린병증 | 99.82% | L3 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "후천성 말초신경병증 동반 혈액질환 | 99.80% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "선천성 혈액질환 | 99.72% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "점상 상피성 각결막염 | 99.57% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Olanzapine",
+      "slug": "olanzapine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Olaparib",
+      "slug": "olaparib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Omalizumab",
+      "slug": "omalizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Omeprazole",
+      "slug": "omeprazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Omidenepag Isopropyl",
+      "slug": "omidenepag_isopropyl",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Orlistat",
+      "slug": "orlistat",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Oxaliplatin",
+      "slug": "oxaliplatin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Oxcarbazepine",
+      "slug": "oxcarbazepine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Oxiracetam",
+      "slug": "oxiracetam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Oxybutynin",
+      "slug": "oxybutynin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "하지불안증후군 (RLS) | 99.74% | L5 | 0건 | 0편 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "위십이지장염 (Gastroduodenitis) | 99.62% | L5 | 0건 | 0편 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "소화성궤양 (Peptic Ulcer Disease) | 99.31% | L4 | 0건 | 3편 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Oxymetholone",
+      "slug": "oxymetholone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ozenoxacin",
+      "slug": "ozenoxacin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Paclitaxel",
+      "slug": "paclitaxel",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Palbociclib",
+      "slug": "palbociclib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "갑상선기능항진증 (1위)",
+          "score": 99.44,
+          "level": "L5"
+        },
+        {
+          "name": "혈전성 질환 (3위)",
+          "score": 99.32,
+          "level": "L4"
+        },
+        {
+          "name": "다발성 내분비종양 (7위)",
+          "score": 98.86,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Paliperidone",
+      "slug": "paliperidone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Palivizumab",
+      "slug": "palivizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pancrelipase",
+      "slug": "pancrelipase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Papaverine",
+      "slug": "papaverine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pegaspargase",
+      "slug": "pegaspargase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pegfilgrastim",
+      "slug": "pegfilgrastim",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pegteograstim",
+      "slug": "pegteograstim",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pegvisomant",
+      "slug": "pegvisomant",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pembrolizumab",
+      "slug": "pembrolizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pemigatinib",
+      "slug": "pemigatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Penciclovir",
+      "slug": "penciclovir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pentobarbital",
+      "slug": "pentobarbital",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Peppermint Oil",
+      "slug": "peppermint_oil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Perampanel",
+      "slug": "perampanel",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "시각유발 뇌전증 (Visual Epilepsy) | 99.92% | L4* | S1* | Research Question* | 일반 뇌전증 근거만 존재, 특이적 데이터 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "사고유발발작 (Thinking Seizures) | 99.86% | pending | pending | pending | 미채점",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "섭식유발발작 (Eating Seizures) | 99.86% | L4 | S0 | Hold | 오히려 식욕 저하 부작용 사례 보고, 반대 방향 근거",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "경악유발 뇌전증 (Startle Epilepsy) | 99.86% | L5 | S0 | Hold | 간접 유전학 연구만 존재, 기전 연관성 불명확",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "배뇨유발발작 (Micturition-induced Seizures) | 99.86% | pending | pending | pending | 미채점, 일반 뇌전증 근거만 존재",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "성적흥분유발발작 (Orgasm-induced Seizures) | 99.86% | L5 | S0 | Hold | 임상시험·문헌 전무, TxGNN 위양성 가능성",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "읽기유발발작 (Reading Seizures) | 99.83% | L4 | S1 | Research Question | 일반 근거만 존재 (본 보고서 rank 1과 유사 패턴)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "베타-케토티올라제 결핍증 (Beta-ketothiolase Deficiency) | 99.79% | L5 | S0 | Hold | 대사질환-AMPA 기전 연관성 없음, 근거 전무",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Perphenazine",
+      "slug": "perphenazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pertuzumab",
+      "slug": "pertuzumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pexidartinib",
+      "slug": "pexidartinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Phenobarbital",
+      "slug": "phenobarbital",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Phenol",
+      "slug": "phenol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Phentolamine",
+      "slug": "phentolamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Phenytoin",
+      "slug": "phenytoin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "삼차신경 종양 (trigeminal nerve neoplasm) | 99.99% | L5 | Hold | ⚠ 문헌이 대부분 삼차신경통·Sturge-Weber 등 무관 주제, KG 매핑 오류 추정",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "놀람유발간질 (startle epilepsy) | 99.98% | L4 | Research Question | 개별 사례·동물 행동모델 수준, 일부 문헌은 lamotrigine 주제",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "식사유발발작 (eating seizures) | 99.98% | L4 | Research Question | 유일한 임상시험은 Ginkgo biloba PK 상호작용 연구로 효능시험 아님",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "오르가즘유발발작 (orgasm-induced seizures) | 99.98% | L5 | Hold | 임상시험·문헌 전무",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "배뇨유발발작 (micturition-induced seizures) | 99.98% | L4 | Research Question | 유사 반사성 발작 사례(PMID 21561835, clobazam+phenytoin 성공)는 다른 적응증에 분류됨",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "사고유발발작 (thinking seizures) | 99.98% | L4 | Hold | 제시된 임상시험 3건 모두 이 적응증과 직접 관련 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "음향유발발작 (audiogenic seizures) | 99.98% | **L3** | Research Question | DBA/2 마우스 등 다수 동물모델에서 phenytoin 직접 검증, 인체 근거는 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "독서유발발작 (reading seizures) | 99.97% | L4 | Research Question | 특이적 임상 근거 없음, 일반 뇌전증/phenytoin 문헌만 존재",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "베타-케토티올라아제 결핍증 (beta-ketothiolase deficiency) | 99.95% | L5 | Hold | 대사질환, 나트륨채널 기전과 생물학적 연관성 없음, 근거 전무",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Pidotimod",
+      "slug": "pidotimod",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pimecrolimus",
+      "slug": "pimecrolimus",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pimozide",
+      "slug": "pimozide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Piracetam",
+      "slug": "piracetam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pirfenidone",
+      "slug": "pirfenidone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Piroxicam",
+      "slug": "piroxicam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pitavastatin",
+      "slug": "pitavastatin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Plerixafor",
+      "slug": "plerixafor",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Polatuzumab Vedotin",
+      "slug": "polatuzumab_vedotin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Polmacoxib",
+      "slug": "polmacoxib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Polyethylene Glycol 400",
+      "slug": "polyethylene_glycol_400",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Polysorbate 80",
+      "slug": "polysorbate_80",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Polyvinyl Alcohol",
+      "slug": "polyvinyl_alcohol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Potassium Bicarbonate",
+      "slug": "potassium_bicarbonate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Potassium Chloride",
+      "slug": "potassium_chloride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Potassium Iodide",
+      "slug": "potassium_iodide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Potassium Nitrate",
+      "slug": "potassium_nitrate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Povidone",
+      "slug": "povidone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Prasugrel",
+      "slug": "prasugrel",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Prednicarbate",
+      "slug": "prednicarbate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Prednisolone",
+      "slug": "prednisolone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Prednisolone Acetate",
+      "slug": "prednisolone_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pregabalin",
+      "slug": "pregabalin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pretomanid",
+      "slug": "pretomanid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Primidone",
+      "slug": "primidone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "삼차신경 종양 | 99.99% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Thinking seizures | 99.99% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Audiogenic seizures | 99.99% | L3 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Eating seizures | 99.99% | L4 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Orgasm-induced seizures | 99.99% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Micturition-induced seizures | 99.99% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Startle epilepsy | 99.99% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Reading seizures | 99.99% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "삼차신경통(Trigeminal neuralgia) | 99.98% | L4 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Beta-ketothiolase deficiency | 99.96% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Procyclidine",
+      "slug": "procyclidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Progesterone",
+      "slug": "progesterone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Promestriene",
+      "slug": "promestriene",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Propacetamol",
+      "slug": "propacetamol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Propofol",
+      "slug": "propofol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Propylene Glycol",
+      "slug": "propylene_glycol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Propylthiouracil",
+      "slug": "propylthiouracil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Protamine Sulfate",
+      "slug": "protamine_sulfate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Proxyphylline",
+      "slug": "proxyphylline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Prucalopride",
+      "slug": "prucalopride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Pyrazinamide",
+      "slug": "pyrazinamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Racecadotril",
+      "slug": "racecadotril",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ramipril",
+      "slug": "ramipril",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ramucirumab",
+      "slug": "ramucirumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ranibizumab",
+      "slug": "ranibizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ranolazine",
+      "slug": "ranolazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Rasburicase",
+      "slug": "rasburicase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ravulizumab",
+      "slug": "ravulizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Rebamipide",
+      "slug": "rebamipide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Regorafenib",
+      "slug": "regorafenib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Remdesivir",
+      "slug": "remdesivir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Reslizumab",
+      "slug": "reslizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ribavirin",
+      "slug": "ribavirin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Rifabutin",
+      "slug": "rifabutin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Rifampicin",
+      "slug": "rifampicin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Rifaximin",
+      "slug": "rifaximin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Riluzole",
+      "slug": "riluzole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "양측 두정후두 다소회뇌증 | 99.99% | L5 | Hold | 기전 무관, 노이즈 가능성 높음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "축성 척추간엽이형성증 | 99.99% | L5 | Hold | 기전 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "만발성 하위운동신경세포 증후군 | 99.99% | L5 | Research Question | MND 스펙트럼, 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "모발-망막색소변성-왜소증 증후군 | 99.99% | L5 | Hold | 기전 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "치명적 관절만곡-전각세포병 증후군 | 99.99% | L5 | Hold | 선천성, 기전 상이",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "단일근위축증 (Hirayama병) | 99.99% | L5 | Research Question | MND 스펙트럼, 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Mills 증후군 | 99.98% | L5 | Research Question | MND 스펙트럼, 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "상염색체 우성 미토콘드리아 근병증 | 99.98% | L5 | Hold | 대사질환, 기전 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "ALS 22형 | 99.98% | L5 | Research Question | ALS 아형, 독립 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Risankizumab",
+      "slug": "risankizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Risdiplam",
+      "slug": "risdiplam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Risperidone",
+      "slug": "risperidone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ritonavir",
+      "slug": "ritonavir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Rivaroxaban",
+      "slug": "rivaroxaban",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "통풍 (Gout) | 99.51% | L5 | Hold | 유일한 문헌은 rivaroxaban과 통풍약 benzbromarone 간 CYP450 상호작용 체외연구로, 통풍 치료 근거 아님",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "HIV 감염 | 99.17% | L4 | Hold | Phase 2 시험 포함 전 증거가 ART(ritonavir/cobicistat)-DOAC 상호작용 및 HIV+ 환자의 항응고 안전성 관리에 관한 것으로, HIV 치료 근거 아님",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "단지증-합지증 증후군 | 99.10% | L5 | Hold | 임상시험·문헌 전무. 응고계와 병태생리학적 연관 없는 희귀 유전질환",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
     },
     {
       "name": "Rivastigmine",
@@ -76087,6 +79060,28 @@
       ]
     },
     {
+      "name": "**가성뇌종양 (특발성 두개내압항진)** | 99.70% | 1건(등급B) | 20편 | **L3** | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "**삼차신경통 (Trigeminal Neuralgia)** | 99.89% | **L2** | **Proceed with Guardrails**",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "**여드름 켈로이드 (Acne Keloid)** | 99.48% | L5 | **Research Question** | 섬유아세포 증식 기전 연관",
       "drug_count": 1,
       "drugs": [
@@ -76400,6 +79395,17 @@
       ]
     },
     {
+      "name": "ALS 22형 | 99.98% | L5 | Research Question | ALS 아형, 독립 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Riluzole",
+          "slug": "riluzole",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "ALS, Susceptibility To | 99.991% | L5 | **KG 구조 위양성** — ALS 주노드와 점수 사실상 동일, 노드 중복 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -76439,6 +79445,28 @@
         {
           "drug": "Calcitriol",
           "slug": "calcitriol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Acromesomelic dysplasia, Hunter-Thompson type | 97.05% | GDF5/CDMP1 돌연변이 질환, 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cefpirome",
+          "slug": "cefpirome",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Acromesomelic dysplasia, Hunter-Thompson type | 99.17% | 12,411 | 0건 | 0편 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Naproxen",
+          "slug": "naproxen",
           "score": 99.0
         }
       ]
@@ -76704,12 +79732,45 @@
       ]
     },
     {
+      "name": "Angiodysplasia of stomach | 99.51% | L5 | Hold | 혈관 이완이 지혈에 불리할 수 있음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Apocrine Adenosis of Breast | 99.92% | L5 | Hold (KG 위양성)",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Desogestrel",
           "slug": "desogestrel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Arterial thoracic outlet syndrome | 99.63% | L5 | Hold | 해부학적 압박 질환, 기전 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Audiogenic seizures | 99.99% | L3 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
           "score": 99.0
         }
       ]
@@ -76882,6 +79943,17 @@
       ]
     },
     {
+      "name": "Beta-ketothiolase deficiency | 99.96% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Bilateral Parasagittal Parieto-Occipital Polymicrogyria | 99.992% | L5 | **KG 구조 위양성** — 뇌 구조 발달 기형, 혈소판 경로와 무관 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -76921,6 +79993,39 @@
         {
           "drug": "Desogestrel",
           "slug": "desogestrel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Brachydactyly-syndactyly syndrome | 99.35% | 10,275 | 0건 | 0편 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Naproxen",
+          "slug": "naproxen",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Brachyolmia | 97.20% | 골격 발육이상, 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cefpirome",
+          "slug": "cefpirome",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Brachyolmia-amelogenesis imperfecta syndrome | 99.06% | 13,774 | 0건 | 0편 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Naproxen",
+          "slug": "naproxen",
           "score": 99.0
         }
       ]
@@ -77131,6 +80236,28 @@
         {
           "drug": "SCOPOLAMINE",
           "slug": "db00747",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 97.31% | 희귀 선천 증후군, 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cefpirome",
+          "slug": "cefpirome",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.22% | 11,942 | 0건 | 0편 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Naproxen",
+          "slug": "naproxen",
           "score": 99.0
         }
       ]
@@ -77552,6 +80679,17 @@
       ]
     },
     {
+      "name": "Eating seizures | 99.99% | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Ehlers-Danlos Syndrome, Fibronectinemic Type | 99.8452% | L5 | 없음 (혈관 구조 결함, 혈소판 수와 무관) | Hold",
       "drug_count": 1,
       "drugs": [
@@ -77842,6 +80980,17 @@
       ]
     },
     {
+      "name": "Gout | 97.72% | 요산 대사·NLRP3 기전과 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cefpirome",
+          "slug": "cefpirome",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Graves disease | TxGNN Knowledge Graph",
       "drug_count": 11,
       "drugs": [
@@ -78074,6 +81223,17 @@
       ]
     },
     {
+      "name": "HIV 감염 | 99.17% | L4 | Hold | Phase 2 시험 포함 전 증거가 ART(ritonavir/cobicistat)-DOAC 상호작용 및 HIV+ 환자의 항응고 안전성 관리에 관한 것으로, HIV 치료 근거 아님",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Rivaroxaban",
+          "slug": "rivaroxaban",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "HIV 감염 | 99.95% | L2 | Hold | 역사적 탐색, 신독성으로 개발 포기",
       "drug_count": 1,
       "drugs": [
@@ -78092,6 +81252,28 @@
           "drug": "Dactinomycin",
           "slug": "dactinomycin",
           "score": 9.0
+        }
+      ]
+    },
+    {
+      "name": "Hemangioendothelioma | 99.47% | L4 | Hold | 문헌은 치료 근거가 아닌 안전성 경고(망막박리 사례보고)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Hemoglobinopathy | 97.23% | 헤모글로빈 유전자 이상, 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cefpirome",
+          "slug": "cefpirome",
+          "score": 99.0
         }
       ]
     },
@@ -78433,12 +81615,34 @@
       ]
     },
     {
+      "name": "IRIDA 증후군 | 99.33% | 10,528 | Research Question | 철저항성 빈혈. 비-DMT1 흡수경로 가설은 있으나 불확실",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ferric Maltol",
+          "slug": "ferric_maltol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Idiopathic Localized Lipodystrophy | 99.17% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Acarbose",
           "slug": "acarbose",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Idiopathic spontaneous coronary artery dissection | 99.52% | L5 | Hold | 이론상 오히려 위험 증가 가능성, 안전성 우려",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
           "score": 99.0
         }
       ]
@@ -78931,6 +82135,17 @@
       ]
     },
     {
+      "name": "Lymphangiectasis | 99.48% | L5 | Hold | 기전 연결 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Malan overgrowth syndrome",
       "drug_count": 1,
       "drugs": [
@@ -79049,12 +82264,34 @@
       ]
     },
     {
+      "name": "Micturition-induced seizures | 99.99% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Mills Syndrome | 99.991% | L5 | **KG 구조 위양성** — 전 세계 보고 100건 미만의 ALS 희귀 변이형 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Avatrombopag",
           "slug": "avatrombopag",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Mills 증후군 | 99.98% | L5 | Research Question | MND 스펙트럼, 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Riluzole",
+          "slug": "riluzole",
           "score": 99.0
         }
       ]
@@ -79160,12 +82397,34 @@
       ]
     },
     {
+      "name": "Myosclerosis | 96.93% | 결합조직 섬유화, 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cefpirome",
+          "slug": "cefpirome",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Neurodevelopmental Disorder (ataxic gait, absent speech) | 98.56% | L5 | 0건 | 0편 | Hold | 혈뇌장벽 투과 낮음, 기전 불일치",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Darolutamide",
           "slug": "darolutamide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Neurogenic thoracic outlet syndrome | 99.56% | L5 | Hold | 상동",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
           "score": 99.0
         }
       ]
@@ -79303,6 +82562,39 @@
         {
           "drug": "Acarbose",
           "slug": "acarbose",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Orgasm-induced seizures | 99.99% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Osteoarthritis susceptibility | 98.13% | 유전적 감수성 표지자, 질환 자체 아님",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cefpirome",
+          "slug": "cefpirome",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Osteoarthritis | 98.29% | 연골 퇴행 기전과 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cefpirome",
+          "slug": "cefpirome",
           "score": 99.0
         }
       ]
@@ -79667,6 +82959,17 @@
       ]
     },
     {
+      "name": "Plummer-Vinson 증후군 | 99.98% | 835 | Research Question | 정의상 철결핍성빈혈이 병인이므로 기전적 정합성 높음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ferric Maltol",
+          "slug": "ferric_maltol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Prader-Willi syndrome | TxGNN Knowledge Graph",
       "drug_count": 2,
       "drugs": [
@@ -79700,6 +83003,17 @@
         {
           "drug": "Romiplostim",
           "slug": "romiplostim",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Primary hereditary glaucoma | 99.71% | L3 | Proceed with Guardrails | 약리 기전(안압 하강)상 유사 계열 외삽, 유전성 아형 직접 근거는 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
           "score": 99.0
         }
       ]
@@ -79843,6 +83157,17 @@
         {
           "drug": "Emicizumab",
           "slug": "emicizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Pseudoachondroplasia | 97.45% | COMP 유전자 돌연변이 질환, 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Cefpirome",
+          "slug": "cefpirome",
           "score": 99.0
         }
       ]
@@ -80000,6 +83325,17 @@
           "drug": "Entacapone",
           "slug": "entacapone",
           "score": 99.73
+        }
+      ]
+    },
+    {
+      "name": "Reading seizures | 99.99% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
         }
       ]
     },
@@ -80247,6 +83583,17 @@
       ]
     },
     {
+      "name": "Rienhoff 증후군 | 99.57% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Epinephrine",
+          "slug": "epinephrine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Rocky mountain spotted fever | TxGNN Knowledge Graph",
       "drug_count": 1,
       "drugs": [
@@ -80413,6 +83760,17 @@
       ]
     },
     {
+      "name": "Startle epilepsy | 99.99% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Stevens-Johnson syndrome | TxGNN Knowledge Graph",
       "drug_count": 7,
       "drugs": [
@@ -80520,6 +83878,17 @@
         {
           "drug": "Acarbose",
           "slug": "acarbose",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Thinking seizures | 99.99% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
           "score": 99.0
         }
       ]
@@ -80695,6 +84064,39 @@
         {
           "drug": "Durvalumab",
           "slug": "durvalumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Vascular disease | 99.53% | L3 | Research Question | NCT03949244(Phase 4, 완료, 갑상혈관 미세혈류 측정) 등 인체 시험 존재, 다만 치료 효능시험은 아님",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Venous thoracic outlet syndrome | 99.63% | L5 | Hold | 상동",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Visceral calciphylaxis | 99.76% | L5 | Hold | 임상시험·문헌 없음, 기전 연결 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Latanoprostene Bunod",
+          "slug": "latanoprostene_bunod",
           "score": 99.0
         }
       ]
@@ -121823,6 +125225,17 @@
       ]
     },
     {
+      "name": "가족성 주기성 마비 | 99.75% | 0건 | 2편 | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "가족성 지중해열 (FMF) | 99.41% | L1 | S3 | Proceed with Guardrails",
       "drug_count": 1,
       "drugs": [
@@ -121944,6 +125357,17 @@
       ]
     },
     {
+      "name": "갑상선기능항진증 (1위)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 99.44
+        }
+      ]
+    },
+    {
       "name": "개방각 녹내장 (Open-Angle Glaucoma) | 99.90% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -121988,6 +125412,39 @@
       ]
     },
     {
+      "name": "결합조직질환 관련 PAH | L3 | Proceed with Guardrails | RCT 없음, 다수 코호트/증례 문헌(경화증 등)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Iloprost",
+          "slug": "iloprost",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "경악 유발 간질 (Startle epilepsy) | 99.63% | L4 | Research Question | 1986년 소아 뇌전증 벤조디아제핀 리뷰 1편뿐",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lorazepam",
+          "slug": "lorazepam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "경악유발 뇌전증 (Startle Epilepsy) | 99.86% | L5 | S0 | Hold | 간접 유전학 연구만 존재, 기전 연관성 불명확",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Perampanel",
+          "slug": "perampanel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "경정맥공 신경초종 (Schwannoma of Jugular Foramen) | 99.89% | L5 | 0 | 0 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -122016,6 +125473,17 @@
         {
           "drug": "Nitric Oxide",
           "slug": "nitric_oxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "고아밀라아제혈증 | 99.91% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ofloxacin",
+          "slug": "ofloxacin",
           "score": 99.0
         }
       ]
@@ -122164,6 +125632,17 @@
       ]
     },
     {
+      "name": "급성 폐성심 | 99.88% | 7건(모두 무관/등급C) | 0편 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "급성 후두인두염 (Acute Laryngopharyngitis) | 99.79% | L5 | 0건 | 0편 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -122307,6 +125786,28 @@
       ]
     },
     {
+      "name": "놀람유발 뇌전증 (Startle Epilepsy) | 99.38% | L3 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "놀람유발간질 (startle epilepsy) | 99.98% | L4 | Research Question | 개별 사례·동물 행동모델 수준, 일부 문헌은 lamotrigine 주제",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Phenytoin",
+          "slug": "phenytoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "뇌간 선조 편두통 | 98.83% | L4 | Hold ⛔ | **안전성 신호**: 와파린 유효·Apixaban 무효 직접 비교 증례 (PMID 28960288)",
       "drug_count": 1,
       "drugs": [
@@ -122395,12 +125896,45 @@
       ]
     },
     {
+      "name": "다발성 내분비종양 (7위)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 98.86
+        }
+      ]
+    },
+    {
       "name": "다인성 폐고혈압 | 99.84% | L5 | 0건 | 0편 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Atenolol",
           "slug": "atenolol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "다클론성 과점도증후군 | 99.91% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "단일근위축증 (Hirayama병) | 99.99% | L5 | Research Question | MND 스펙트럼, 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Riluzole",
+          "slug": "riluzole",
           "score": 99.0
         }
       ]
@@ -122417,6 +125951,17 @@
       ]
     },
     {
+      "name": "단지증-합지증 증후군 | 99.10% | L5 | Hold | 임상시험·문헌 전무. 응고계와 병태생리학적 연관 없는 희귀 유전질환",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Rivaroxaban",
+          "slug": "rivaroxaban",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "단클론 감마글로불린병증 (Monoclonal Gammopathy) | L3 | Research Question | 다발성 골수종 환자 감염 예방 관련 RCT/코호트 다수",
       "drug_count": 1,
       "drugs": [
@@ -122428,12 +125973,56 @@
       ]
     },
     {
+      "name": "단클론감마글로불린병증 | 99.82% | L3 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "대두증-안면기형-정신운동지연 | 99.77% | L5 | ⛔ Hold | 신경발육 장애 — 기전적 가양성",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Dipyridamole",
           "slug": "dipyridamole",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "독서 유발 발작 (Reading seizures) | 99.64% | L4 | Research Question | 일반 광과민성 뇌전증 문헌 외삽, 해당 아형 직접 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lorazepam",
+          "slug": "lorazepam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "독서유발 발작 (Reading Seizures) | 99.30% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "독서유발발작 (reading seizures) | 99.97% | L4 | Research Question | 특이적 임상 근거 없음, 일반 뇌전증/phenytoin 문헌만 존재",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Phenytoin",
+          "slug": "phenytoin",
           "score": 99.0
         }
       ]
@@ -122516,6 +126105,17 @@
       ]
     },
     {
+      "name": "만발성 하위운동신경세포 증후군 | 99.99% | L5 | Research Question | MND 스펙트럼, 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Riluzole",
+          "slug": "riluzole",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "만성 C형 간염 바이러스 감염 | 99.97% | L4 | Hold | 기전 불일치, 임상시험 전부 HBV 연구로 오분류",
       "drug_count": 1,
       "drugs": [
@@ -122533,6 +126133,17 @@
         {
           "drug": "Nitric Oxide",
           "slug": "nitric_oxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "만성 용혈성빈혈 관련 PAH | L5 | Hold | 임상/문헌 근거 전무, 이론적 기전 유사성만 존재",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Iloprost",
+          "slug": "iloprost",
           "score": 99.0
         }
       ]
@@ -122577,6 +126188,17 @@
         {
           "drug": "Canakinumab",
           "slug": "canakinumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "모발-망막색소변성-왜소증 증후군 | 99.99% | L5 | Hold | 기전 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Riluzole",
+          "slug": "riluzole",
           "score": 99.0
         }
       ]
@@ -122632,6 +126254,72 @@
         {
           "drug": "Clozapine",
           "slug": "clozapine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "배뇨 유발 발작 | 99.63% | L3 | Proceed with Guardrails | Status epilepticus 표준치료 기전의 합리적 외삽, 해당 아형 직접시험은 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lorazepam",
+          "slug": "lorazepam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "배뇨유발 발작 (Micturition-induced Seizures) | 99.38% | pending | pending",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "배뇨유발발작 (Micturition-induced Seizures) | 99.86% | pending | pending | pending | 미채점, 일반 뇌전증 근거만 존재",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Perampanel",
+          "slug": "perampanel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "배뇨유발발작 (micturition-induced seizures) | 99.98% | L4 | Research Question | 유사 반사성 발작 사례(PMID 21561835, clobazam+phenytoin 성공)는 다른 적응증에 분류됨",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Phenytoin",
+          "slug": "phenytoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "베타-케토티올라아제 결핍증 (beta-ketothiolase deficiency) | 99.95% | L5 | Hold | 대사질환, 나트륨채널 기전과 생물학적 연관성 없음, 근거 전무",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Phenytoin",
+          "slug": "phenytoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "베타-케토티올라제 결핍증 (Beta-ketothiolase Deficiency) | 99.79% | L5 | S0 | Hold | 대사질환-AMPA 기전 연관성 없음, 근거 전무",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Perampanel",
+          "slug": "perampanel",
           "score": 99.0
         }
       ]
@@ -122758,6 +126446,127 @@
       ]
     },
     {
+      "name": "비타민B12/엽산 비의존성 선천성 거대적혈모구빈혈 | 99.98% | 847 | Hold | DNA 합성 결함 질환으로 철결핍 기전과 무관, 위양성 의심",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ferric Maltol",
+          "slug": "ferric_maltol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "사고 유발 발작 | 99.63% | L4 | Research Question | 일반 뇌전증중첩증 문헌뿐, 특이적 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lorazepam",
+          "slug": "lorazepam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "사고유발 발작 (Thinking Seizures) | 99.38% | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "사고유발발작 (Thinking Seizures) | 99.86% | pending | pending | pending | 미채점",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Perampanel",
+          "slug": "perampanel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "사고유발발작 (thinking seizures) | 99.98% | L4 | Hold | 제시된 임상시험 3건 모두 이 적응증과 직접 관련 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Phenytoin",
+          "slug": "phenytoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "삼차신경 종양 (Trigeminal Nerve Neoplasm) | 99.97% | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "삼차신경 종양 (Trigeminal nerve neoplasm) | 99.87% | L5 | Hold | 임상시험/문헌 0건, 기전 연관성 없음 — KG 임베딩 위양성 가능성 높음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lorazepam",
+          "slug": "lorazepam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "삼차신경 종양 (trigeminal nerve neoplasm) | 99.99% | L5 | Hold | ⚠ 문헌이 대부분 삼차신경통·Sturge-Weber 등 무관 주제, KG 매핑 오류 추정",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Phenytoin",
+          "slug": "phenytoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "삼차신경 종양 | 99.99% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "삼차신경통(Trigeminal neuralgia) | 99.98% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Primidone",
+          "slug": "primidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "상염색체 우성 미토콘드리아 근병증 | 99.98% | L5 | Hold | 대사질환, 기전 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Riluzole",
+          "slug": "riluzole",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "생물소 대사 질환 | 99.52% | L4 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -122802,12 +126611,34 @@
       ]
     },
     {
+      "name": "선천성 다심근병증(외안근마비 동반) | 99.72% | 0건 | 0편 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "선천성 모발 희소증-비립종 (Congenital Hypotrichosis Milia) | 99.19% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Chlorthalidone",
           "slug": "chlorthalidone",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "선천성 무알부민혈증 | 99.90% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ofloxacin",
+          "slug": "ofloxacin",
           "score": 99.0
         }
       ]
@@ -122879,12 +126710,67 @@
       ]
     },
     {
+      "name": "선천성 혈액질환 | 99.72% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "선천성심질환 관련 PAH | L2 | Proceed with Guardrails | 임상시험 1건(상태 불명) + 문헌 20편, WHO Group 1 PAH 아형",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Iloprost",
+          "slug": "iloprost",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "섭식 유발 발작 | 99.63% | L5 | Hold | 관련성 낮은 문헌뿐(가성발작, 세로토닌증후군 등)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lorazepam",
+          "slug": "lorazepam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "섭식유발발작 (Eating Seizures) | 99.86% | L4 | S0 | Hold | 오히려 식욕 저하 부작용 사례 보고, 반대 방향 근거",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Perampanel",
+          "slug": "perampanel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "성숙 백내장 | 99.54% | L5 | 0 | 0 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Ginseng",
           "slug": "ginseng",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "성적흥분유발발작 (Orgasm-induced Seizures) | 99.86% | L5 | S0 | Hold | 임상시험·문헌 전무, TxGNN 위양성 가능성",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Perampanel",
+          "slug": "perampanel",
           "score": 99.0
         }
       ]
@@ -122934,6 +126820,17 @@
       ]
     },
     {
+      "name": "소화성궤양 (Peptic Ulcer Disease) | 99.31% | L4 | 0건 | 3편 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Oxybutynin",
+          "slug": "oxybutynin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "순수형 가족성 고콜레스테롤혈증 | 99.18% | L5 | Hold | 대사·유전 질환 — ADC 논리 없음",
       "drug_count": 1,
       "drugs": [
@@ -122945,12 +126842,56 @@
       ]
     },
     {
+      "name": "시각유발 뇌전증 (Visual Epilepsy) | 99.92% | L4* | S1* | Research Question* | 일반 뇌전증 근거만 존재, 특이적 데이터 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Perampanel",
+          "slug": "perampanel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "식도 질환 | 99.90% | L4 | Research Question",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Ascorbic Acid",
           "slug": "ascorbic_acid",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "식사유발발작 (eating seizures) | 99.98% | L4 | Research Question | 유일한 임상시험은 Ginkgo biloba PK 상호작용 연구로 효능시험 아님",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Phenytoin",
+          "slug": "phenytoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "식이유발 발작 (Eating Seizures) | 99.38% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "식품 유발 운동유발성 아나필락시스 (FDEIA) | 99.57% | L3 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Epinephrine",
+          "slug": "epinephrine",
           "score": 99.0
         }
       ]
@@ -123028,6 +126969,17 @@
         {
           "drug": "Atezolizumab",
           "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "신증후군성 항이뇨부적절증후군 (NSIAD) | 99.97% | 0건 | 1편 | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
           "score": 99.0
         }
       ]
@@ -123187,6 +127139,17 @@
       ]
     },
     {
+      "name": "악성고열증 감수성 | 99.80% | 0건 | 3편 | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "안와 영역 질환 | 99.08% | L3 | 선별 필요 | 3편 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -123204,6 +127167,17 @@
         {
           "drug": "Ginseng",
           "slug": "ginseng",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "양극성 정동장애 조증(Manic Bipolar Affective Disorder) | 99.57% | L4 | 문헌 3편(주로 증례/전임상), burst-suppression 마취 관련",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isoflurane",
+          "slug": "isoflurane",
           "score": 99.0
         }
       ]
@@ -123242,6 +127216,17 @@
       ]
     },
     {
+      "name": "양측 두정후두 다소회뇌증 | 99.99% | L5 | Hold | 기전 무관, 노이즈 가능성 높음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Riluzole",
+          "slug": "riluzole",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "여드름 (acne) | 99.87% | L4 | 1건 (저관련성 복방) | 1 (체외) | Hold",
       "drug_count": 1,
       "drugs": [
@@ -123259,6 +127244,39 @@
         {
           "drug": "Colchicine",
           "slug": "colchicine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "오르가즘 유발 발작 | 99.63% | L5 | Hold | 임상시험/문헌 0건",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lorazepam",
+          "slug": "lorazepam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "오르가즘유발 발작 (Orgasm-induced Seizures) | 99.38% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "오르가즘유발발작 (orgasm-induced seizures) | 99.98% | L5 | Hold | 임상시험·문헌 전무",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Phenytoin",
+          "slug": "phenytoin",
           "score": 99.0
         }
       ]
@@ -123374,6 +127392,28 @@
       ]
     },
     {
+      "name": "운동유발성 악성고열증 | 99.86% | 0건 | 0편 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "울혈성심부전 (CHF) | 99.90% | 0건 | 0편 | L5 | **Hold** (기전상 금기 우려)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "원발성 문맥 혈전증 | L5 | Hold | 군집 점수, 문헌 없음",
       "drug_count": 1,
       "drugs": [
@@ -123462,6 +127502,17 @@
       ]
     },
     {
+      "name": "위십이지장염 (Gastroduodenitis) | 99.62% | L5 | 0건 | 0편 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Oxybutynin",
+          "slug": "oxybutynin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "위유문부 암종 | 99.91% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -123539,12 +127590,45 @@
       ]
     },
     {
+      "name": "음향유발 발작 (Audiogenic Seizures) | 99.38% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lamotrigine",
+          "slug": "lamotrigine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "음향유발발작 (audiogenic seizures) | 99.98% | **L3** | Research Question | DBA/2 마우스 등 다수 동물모델에서 phenytoin 직접 검증, 인체 근거는 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Phenytoin",
+          "slug": "phenytoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "이경화증 | 98.19% | L5 | 0 | 0 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Betahistine",
           "slug": "betahistine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "이상성 경련 동반 급성 뇌증 (AESD) | 99.47% | L5 | Hold | 임상시험/문헌 0건",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lorazepam",
+          "slug": "lorazepam",
           "score": 99.0
         }
       ]
@@ -123578,6 +127662,17 @@
         {
           "drug": "Acetylcysteine",
           "slug": "acetylcysteine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "읽기유발발작 (Reading Seizures) | 99.83% | L4 | S1 | Research Question | 일반 근거만 존재 (본 보고서 rank 1과 유사 패턴)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Perampanel",
+          "slug": "perampanel",
           "score": 99.0
         }
       ]
@@ -123660,6 +127755,17 @@
       ]
     },
     {
+      "name": "저칼륨성 주기성 마비 | 99.72% | 0건 | 3편 | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "전립선요도 요로상피암 | 99.98% | L2 | Proceed with Guardrails",
       "drug_count": 1,
       "drugs": [
@@ -123688,6 +127794,17 @@
         {
           "drug": "Acyclovir",
           "slug": "acyclovir",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "점상 상피성 각결막염 | 99.57% | L4 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ofloxacin",
+          "slug": "ofloxacin",
           "score": 99.0
         }
       ]
@@ -123737,12 +127854,34 @@
       ]
     },
     {
+      "name": "조혈계통 전악성질환 | 99.84% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "주요 정동 장애 | 99.48% | L3 | 14건 | 20편 | Proceed with Guardrails",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Clozapine",
           "slug": "clozapine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "주혈흡충증 관련 PAH | L4 | Research Question | 질환 특이적 문헌 없음, 소아 PH 일반 연구만 존재",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Iloprost",
+          "slug": "iloprost",
           "score": 99.0
         }
       ]
@@ -123776,6 +127915,17 @@
         {
           "drug": "Atenolol",
           "slug": "atenolol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "중등도 다소핵심근병증(수부 침범) | 99.71% | 0건 | 0편 | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Mannitol",
+          "slug": "mannitol",
           "score": 99.0
         }
       ]
@@ -123880,12 +128030,45 @@
       ]
     },
     {
+      "name": "청각(음성) 유발 발작 | 99.63% | L4 | Research Question | 대부분 동물 금단증후군 연구, 치료 근거 아님",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Lorazepam",
+          "slug": "lorazepam",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "축성 척추간엽이형성증 | 99.99% | L5 | Hold | 기전 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Riluzole",
+          "slug": "riluzole",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "출혈성 식도 정맥류 (Esophageal Varices w/ Bleeding) | 97.56% | L5 | Hold | 성숙 혈관에 항VEGF 효과 불확실; 출혈 악화 우려",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Aflibercept",
           "slug": "aflibercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "치명적 관절만곡-전각세포병 증후군 | 99.99% | L5 | Hold | 선천성, 기전 상이",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Riluzole",
+          "slug": "riluzole",
           "score": 99.0
         }
       ]
@@ -124001,6 +128184,17 @@
       ]
     },
     {
+      "name": "통풍 (Gout) | 99.51% | L5 | Hold | 유일한 문헌은 rivaroxaban과 통풍약 benzbromarone 간 CYP450 상호작용 체외연구로, 통풍 치료 근거 아님",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Rivaroxaban",
+          "slug": "rivaroxaban",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "특발성 구리 연관 간경변 (Idiopathic Copper-associated Cirrhosis) | L5 | Hold | 군집 점수, 구리 螯合 불가",
       "drug_count": 1,
       "drugs": [
@@ -124078,6 +128272,17 @@
       ]
     },
     {
+      "name": "편두통(Migraine Disorder) | 99.06% | L4 | 문헌 13편, 피질확산성탈분극(CSD) 억제 기전 근거 다수, 중증 편두통 중첩상태 증례 보고 존재",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Isoflurane",
+          "slug": "isoflurane",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "폐 질환/저산소증에 의한 폐고혈압 (PH Group 3) | 99.88% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -124133,6 +128338,17 @@
       ]
     },
     {
+      "name": "폐동정맥기형 | L4 | Hold | 구조적 병변으로 기전 연관성 약함, 문헌 1편(간접)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Iloprost",
+          "slug": "iloprost",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "폐쇄각 녹내장 (Closed-angle Glaucoma) | 99.95% | L5 | 0건 | 0편 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -124150,6 +128366,17 @@
         {
           "drug": "Salbutamol",
           "slug": "salbutamol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "폐쇄성 폐질환 | 99.71% | L2 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Epinephrine",
+          "slug": "epinephrine",
           "score": 99.0
         }
       ]
@@ -124216,6 +128443,17 @@
         {
           "drug": "Bevacizumab",
           "slug": "bevacizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "하지불안증후군 (RLS) | 99.74% | L5 | 0건 | 0편 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Oxybutynin",
+          "slug": "oxybutynin",
           "score": 99.0
         }
       ]
@@ -124364,6 +128602,28 @@
       ]
     },
     {
+      "name": "혈액형 부적합 | 99.86% | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ofloxacin",
+          "slug": "ofloxacin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "혈전성 질환 (3위)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Palbociclib",
+          "slug": "palbociclib",
+          "score": 99.32
+        }
+      ]
+    },
+    {
       "name": "혈전성 질환 (Thrombotic Disease) | 99.07% | 칼슘 이온은 응고 인자(Factor IV)로 작용해 오히려 응고를 촉진할 수 있어, 치료 목표와 **기전 방향이 정반대**임. 안전성 신호로 표기해야 함",
       "drug_count": 1,
       "drugs": [
@@ -124414,6 +128674,17 @@
         {
           "drug": "Acyclovir",
           "slug": "acyclovir",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "호흡기 기형 | 99.56% | L4 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Epinephrine",
+          "slug": "epinephrine",
           "score": 99.0
         }
       ]
@@ -124513,6 +128784,17 @@
         {
           "drug": "Ciprofloxacin",
           "slug": "ciprofloxacin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "후천성 말초신경병증 동반 혈액질환 | 99.80% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Ofloxacin",
+          "slug": "ofloxacin",
           "score": 99.0
         }
       ]

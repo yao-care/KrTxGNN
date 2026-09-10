@@ -1,0 +1,97 @@
+---
+layout: default
+title: Cyproterone Acetate
+parent: 僅模型預測 (L5)
+nav_order: 229
+evidence_level: L5
+indication_count: 10
+---
+
+# Cyproterone Acetate
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Cyproterone Acetate: 기존 적응증 미상에서 편두통(Migraine Disorder)으로
+
+## 한 문장 요약
+
+Cyproterone Acetate(DrugBank ID: DB04839)는 국내 허가 정보와 기존 적응증 자료가 확보되지 않은 약물입니다. TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다고 예측하지만, 현재 **관련 임상시험은 없고** **3편의 문헌**만 확인되며, 이마저도 대부분 폐경 후 호르몬요법의 부작용·위험 관찰에 해당해 치료 효능을 직접 뒷받침하지는 않습니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 자료 없음 (허가 정보 미확보) |
+| 예측 신규 적응증 | 편두통 (Migraine Disorder) |
+| TxGNN 예측 점수 | 99.66% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | ✗ 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용기전(MOA) 데이터가 없습니다. 문헌 근거에 따르면 Cyproterone Acetate 함유 호르몬요법이 폐경 후 여성의 편두통 경과에 미치는 "영향"과 장기 부작용을 기술한 연구가 대부분이며, 이는 **치료 효능 근거가 아니라 위험·안전성 관찰**에 해당합니다. CPA를 편두통 치료 목적으로 사용한 대조 임상시험은 확인되지 않았습니다.
+
+기전 가설로는 프로게스틴류가 GABA-A 수용체 및 도파민 분비, 오피오이드 수용체 결합에 관여한다는 보고가 있어 신경계 작용 가능성이 제시되지만, 이는 편두통 "치료" 효과가 아닌 신경약리학적 관찰 수준에 머물러 있습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [12390622](https://pubmed.ncbi.nlm.nih.gov/12390622/) | 2002 | Cohort | Headache | 폐경 후 여성 대상 3가지 호르몬대체요법(HRT)이 편두통 경과에 미치는 영향 평가 |
+| [14670648](https://pubmed.ncbi.nlm.nih.gov/14670648/) | 2003 | Review | Maturitas | 프로게스틴류가 GABA-A 수용체, 도파민 분비, 오피오이드 수용체에 미치는 영향 고찰. CPA는 도파민성 반응 증가 및 오피오이드 수용체 결합 보고 |
+| [10857213](https://pubmed.ncbi.nlm.nih.gov/10857213/) | 2000 | Case series/Review (부작용) | Zentralblatt für Gynäkologie | CPA 장기 사용의 돌연변이 유발 가능성 논란 검토. 대규모 다기관 연구(2,506명, 7,971 patient-years)에서 유의한 증거는 확인되지 않음 |
+
+## 한국 시판 정보
+
+현재 한국에 시판 중인 허가 제품이 없습니다.
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 편두통 예측의 근거 수준은 L4로, 확인된 문헌 3편이 대부분 치료 효능이 아닌 호르몬요법의 부작용·위험 관찰에 해당하며 대조 임상시험이 전무합니다.
+- 안전성 경고·금기 정보가 전혀 확보되지 않아(Blocking 등급 데이터 갭) 안전성 초기평가(S1) 단계 진입이 불가능합니다.
+- 국내 시판 허가가 없어(미출시, 허가증 0건) 즉각적인 재창출 검토 우선순위가 낮습니다.
+
+**진행하려면 필요한 것:**
+- TFDA(식약처) 공식 첨부문서·경고사항 확보 (Blocking 데이터 갭 해소)
+- DrugBank API 등을 통한 상세 작용기전(MOA) 데이터 확보
+- 편두통에 대한 CPA의 실제 대조 임상시험 또는 전임상 기전 연구 확보
+
+**참고:** 동일 Evidence Pack 내 8순위 예측(무월경/월경불순, amenorrhea)은 근거 수준 **L2**(Phase IV 임상시험 및 다수 코호트 문헌, EE+CPA 복합제의 기존 임상적 사용 이력 포함)로 편두통보다 훨씬 강한 근거를 보유하고 있어, 재창출 우선순위 재검토 시 함께 고려할 가치가 있습니다.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

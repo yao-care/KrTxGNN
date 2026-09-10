@@ -1,0 +1,92 @@
+---
+layout: default
+title: Flomoxef
+parent: 僅模型預測 (L5)
+nav_order: 325
+evidence_level: L5
+indication_count: 10
+---
+
+# Flomoxef
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Flomoxef: 세균 감염증에서 류마티스 관절염(예측)으로
+
+## 한 문장 요약
+
+Flomoxef는 oxacephem/cephamycin 계열 β-lactam 항생제로, 세균 감염 치료에 사용되는 항균제입니다.
+TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 있을 수 있다고 예측했으나,
+관련 **임상시험은 0건**이며, 인용된 **문헌 2편**도 실제로는 이 적응증을 지지하지 않는 것으로 확인되어 근거가 매우 부족합니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 등록된 적응증 정보 없음 (항균제, 세균 감염증 치료용) |
+| 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
+| TxGNN 예측 점수 | 98.48% |
+| 근거 수준 | L5 (인용 문헌 2편은 무관 판정, 실질적 지지 근거 없음) |
+| 한국 시판 현황 | 미출시 (등록된 허가 없음) |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+Flomoxef는 oxacephem/cephamycin 계열 β-lactam 항생제로, 세균의 penicillin-binding protein(PBP)을 억제하여 세포벽 펩티도글리칸 합성을 차단하는 순수 항균 기전을 가집니다. 면역조절이나 항염 경로에 대한 알려진 작용은 없습니다.
+
+류마티스 관절염은 TNF-α, IL-6 등 사이토카인 매개 자가면역·활막염이 핵심 병리이며, Flomoxef의 항균 기전과는 직접적인 연관성이 없습니다.
+
+인용된 문헌 2편도 실제로는 RA 치료 효능을 다루지 않습니다. 하나는 "생물학적제제 치료 중인 RA 환자의 골반 복막염 감염 합병증 사례보고", 다른 하나는 "항생제 관련 약물성 간손상 코호트 연구"로, 둘 다 항생제 안전성/감염관리 맥락에서 RA 키워드가 우연히 공존한 것일 뿐 Flomoxef가 RA를 치료한다는 근거가 아닙니다. 이는 TxGNN 지식그래프 임베딩 상의 예측 신호로 판단됩니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [25332867](https://pubmed.ncbi.nlm.nih.gov/25332867/) | 2014 | Case Report/Review | SpringerPlus | 생물학적제제 치료 중인 RA 환자에서 발생한 골반 복막염 감염 합병증 사례보고 — Flomoxef 치료 효능과 무관 |
+| [33987340](https://pubmed.ncbi.nlm.nih.gov/33987340/) | 2021 | Cohort (안전성/DILI) | Annals of Translational Medicine | 항생제 관련 약물성 간손상(DILI) 유병률 및 임상 특성 연구 — RA 치료와 무관 |
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+TxGNN 예측 점수는 높지만(98.48%), 관련 임상시험이 전무하고 인용된 문헌 2편도 실제로는 무관한 것으로 확인되었습니다. 항균 기전(PBP 억제)과 RA의 자가면역 병리 사이에 기전적 연관성이 없어, 현 시점에서는 진행할 근거가 부족합니다. 나머지 9개 예측 후보(골관절염, 통풍, 희귀 골격 이형성증 등)도 모두 임상/문헌 근거가 전혀 없어 동일하게 Hold 판정입니다.
+
+**진행하려면 필요한 것:**
+- DrugBank를 통한 Flomoxef 작용기전(MOA) 확정 데이터
+- 한국 허가사항(경고·금기·상호작용) 자료 확보 (현재 Blocking 등급 데이터 갭)
+- 류마티스 관절염과 직접 관련된 전임상(항염 효과 등) 또는 임상 데이터 확보 시 재평가
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,0 +1,103 @@
+---
+layout: default
+title: Magnesium Citrate
+parent: 僅模型預測 (L5)
+nav_order: 456
+evidence_level: L5
+indication_count: 2
+---
+
+# Magnesium Citrate
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Magnesium Citrate: 원 적응증 정보 부족 상태에서 Calcium-Alkali Syndrome 가능성 탐색
+
+## 한 문장 요약
+
+Magnesium Citrate은 이번 Evidence Pack에서 원 적응증 및 작용 기전(MOA) 정보가 확보되지 않았고, 한국에는 허가 이력이 없는(미상시) 약물입니다.
+TxGNN 모델은 **Calcium-Alkali Syndrome**에 연관성이 있을 수 있다고 예측했으나(점수 99.51%), 이를 뒷받침하는 임상시험이나 문헌은 **0건**이며, 예측 근거 자체도 "치료적 인과관계보다 공존/연관성 반영 가능성"이 지적되어 있습니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 확보된 정보 없음 (original_indications 미기재) |
+| 예측 신규 적응증 | Calcium-Alkali Syndrome |
+| TxGNN 예측 점수 | 99.51% (rank 8424) |
+| 근거 수준 | L5 (모델 예측만 존재, 실증 연구 없음) |
+| 한국 시판 현황 | 미상시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터가 없습니다. Magnesium Citrate은 일반적으로 마그네슘 보충제 및 삼투성 완하제로 알려져 있으나, 이번 Evidence Pack에는 원 적응증과 MOA가 모두 미확보 상태로 표시되어 있어 해당 정보를 근거로 삼을 수 없습니다.
+
+TxGNN이 제시한 근거(rationale)에 따르면, Calcium-Alkali Syndrome(구 Milk-Alkali Syndrome)은 칼슘/알칼리 과다 섭취로 인한 고칼슘혈증·대사성 알칼리증·신기능 손상을 특징으로 하는 증후군이며, Magnesium Citrate에 이를 **치료**할 수 있는 알려진 약리 경로는 없습니다. 오히려 신기능 저하 환자에서는 마그네슘 함유 완하제가 전해질 불균형을 악화시킬 위험이 지적됩니다. 즉 이 예측은 지식그래프 상의 "약물-전해질-신장" 공존 패턴을 반영한 것일 가능성이 높으며, 방향성이 불분명한 연관성으로 해석해야 하고 치료 후보로 보기는 어렵습니다.
+
+두 번째 예측인 Primary Bone Dysplasia with Defective Bone Mineralization(rank 2, 점수 99.33%)은 마그네슘이 골 미네랄화 과정의 보조인자(알칼리성 인산분해효소 등)로 작용한다는 간접적 생물학적 개연성은 있으나, 이 또한 직접적인 임상 근거는 전무합니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+---
+
+## 안전성 고려사항
+
+한국 내 허가 이력이 없어 참조할 허가사항(라벨 경고/금기)이 존재하지 않습니다. 이번 Evidence Pack에서도 TFDA(해외 허가기관) 라벨 정보가 Blocking 수준의 데이터 갭(DG001)으로 남아 있어, S1 안전성 초평가 자체가 불가능한 상태입니다. DDI 조회 결과도 없음(not_found)으로 확인됩니다.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 두 예측 적응증 모두 근거 수준 L5(모델 예측만 존재)이며, 임상시험·문헌 증거가 전무합니다.
+- 1순위 예측(Calcium-Alkali Syndrome)은 rationale 자체가 "치료적 인과관계보다 공존 패턴 반영 가능성"을 명시하고 있어, 오히려 위험 신호에 가깝습니다.
+- 한국 시판 이력이 없고, 안전성 초평가에 필요한 라벨 정보(DG001, Blocking)가 확보되지 않아 S1 단계 진입 자체가 불가능합니다.
+
+**진행하려면 필요한 것:**
+- TFDA(또는 해당 해외 규제기관) 원 라벨 문서 확보 및 경고/금기 파싱 (DG001 해소)
+- DrugBank API를 통한 작용 기전(MOA) 확인 (DG002 해소)
+- Calcium-Alkali Syndrome 관련 전임상/기전 연구 추가 탐색 — 특히 마그네슘 완하제와 신기능·전해질 안전성에 대한 문헌
+- 원 적응증(정식 승인 용도) 확인 — 현재 데이터로는 어떤 질환에서 재창출을 논하는지조차 특정 불가
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

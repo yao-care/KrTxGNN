@@ -1,0 +1,126 @@
+---
+layout: default
+title: Progesterone
+parent: 僅模型預測 (L5)
+nav_order: 578
+evidence_level: L5
+indication_count: 10
+---
+
+# Progesterone
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Progesterone: 황체 기능 보충에서 무월경(Amenorrhea)으로
+
+## 한 문장 요약
+
+Progesterone은 여성 생식 내분비계에서 자궁내막 분비기 전환과 황체기 유지에 관여하는 천연 스테로이드 호르몬입니다.
+TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예측하며, 현재 **56건의 임상시험**과 **18편의 문헌**이 관련 근거로 확인되었고, 그중 Phase 3 RCT 1건이 직접적으로 이 방향을 지지합니다.
+다만 한국 내 허가 제품은 아직 없어(미출시), 시판 전 안전성 자료 보완이 필요합니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 자료 없음 (한국 미허가) — 일반적으로 황체 기능 보충/호르몬 요법에 사용되는 성분 |
+| 예측 신규 적응증 | 무월경 (Amenorrhea) |
+| TxGNN 예측 점수 | 99.9996% |
+| 근거 수준 | L2 |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Proceed with Guardrails |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터는 확보되지 않았습니다. 다만 일반적으로 알려진 바에 따르면, Progesterone은 자궁내막을 분비기로 전환시키고, 시상하부-뇌하수체-난소(HPO) 축의 되먹임에 관여하는 천연 황체호르몬입니다. 한국 내 허가 제품은 현재 등록되어 있지 않습니다.
+
+무월경, 특히 속발성 무월경의 병태생리는 시상하부성 무배란, 다낭성 난소 증후군, 조기 난소부전 등 다양한 원인에 의한 HPO 축 이상과 관련이 있습니다. 외인성 황체호르몬을 일정 기간 투여한 후 중단하면, 에스트로겐 자극이 충분한 환자에서는 자궁내막 탈락에 의한 **황체호르몬 유발 출혈(progesterone withdrawal bleeding)**이 발생합니다. 이는 임상적으로 이미 "황체호르몬 유발 시험(progesterone challenge test)"으로 확립되어, 속발성 무월경의 병인(에스트로겐 결핍 vs. 유출로 폐쇄 등)을 감별하는 표준 도구로 사용되고 있습니다. 즉, 기전상 연관성이 이미 임상적으로 검증된 영역이라는 점이 이 예측의 신뢰도를 높입니다.
+
+---
+
+## 임상시험 근거
+
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT01185782](https://clinicaltrials.gov/study/NCT01185782) | Phase 3 | 완료 | 300 | 무월경/무배란 주기 환자에서 황체호르몬 계열 제제(SJ-0021)와 정제 뇌하수체 성선자극호르몬을 비교한 확증적 다기관 단일맹검 시험 — 가장 직접적인 지지 근거 |
+| [NCT01674426](https://clinicaltrials.gov/study/NCT01674426) | N/A | 완료 | 17 | 기능성 시상하부성 무월경(스트레스 유발 무배란)의 병태생리 관찰 연구(인지행동치료 vs. 관찰) |
+| [NCT06533865](https://clinicaltrials.gov/study/NCT06533865) | Phase 3 | 모집 중 | 114 | 시상하부성 무월경 청소년/청년 여성에서 romosozumab을 경피 에스트로겐 요법에 병용, 골밀도 개선 평가 |
+| [NCT07204093](https://clinicaltrials.gov/study/NCT07204093) | N/A | 진행 중(비모집) | 138 | 자궁내막증에서 경피 에스트라디올-디에노게스트 vs. 드로스피레논 병용 비교 |
+| [NCT05785507](https://clinicaltrials.gov/study/NCT05785507) | N/A | 완료 | 150 | 다낭성난소증후군(PCOS) 위험 예측 알고리즘 검증을 위한 관찰적 파일럿 연구 |
+
+**참고:** 위 5건은 관련성이 평가(등급 A~C)된 시험이며, 이 중 NCT01185782(등급 A, Phase 3, n=300)이 황체호르몬 계열 제제의 무월경 치료 효능을 직접 검증한 가장 강력한 근거입니다. 나머지 다수 시험(50건 이상)은 관련성 평가가 미완료(pending) 상태로 추가 검토가 필요합니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Review | Rev Endocr Metab Disord | 내분비학에서 경구 미분화 프로게스테론의 진단·치료적 활용, 시상하부 kisspeptin/뉴로키닌B 뉴런을 통한 성선자극호르몬 조절 기전 정리 |
+| [35525789](https://pubmed.ncbi.nlm.nih.gov/35525789/) | 2022 | Review | Curr Probl Pediatr Adolesc Health Care | 청소년·청년 여성 무월경의 병인 및 관리, HPO 축 기능 이상과 에스트로겐/프로게스테론의 역할 정리 |
+| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Review | Rev Endocr Metab Disord | 자궁내막증의 호르몬 치료 배경, 에스트로겐 의존성·프로게스테론 저항성 기전 |
+| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Review | Front Endocrinol | 조기 난소부전(POI)의 병인·증상·치료옵션에 대한 최신 이해 |
+| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Review | Am Fam Physician | 무월경 평가: 임신 배제 후 병력·진찰, 프로락틴/TSH 검사, 프로게스테론 유발 시험의 임상적 활용 정리 |
+| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Review | Climacteric | 폐경 후 여성의 질출혈 임상 관리, 에스트로겐·프로게스테론 감소에 따른 생식기 위축 기전 |
+| [36653588](https://pubmed.ncbi.nlm.nih.gov/36653588/) | 2023 | Review | Reprod Sci | 자궁내막 손상 복구 방법론 리뷰, 자궁강유착(IUA) 등이 유발하는 무월경 관련 논의 |
+| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Review | Semin Reprod Med | 자궁강유착(Asherman 증후군)의 스펙트럼과 무월경 관련성 |
+| [18574215](https://pubmed.ncbi.nlm.nih.gov/18574215/) | 2008 | Case Report | Ann N Y Acad Sci | 청소년 갈락토스혈증과 무월경의 연관성 |
+| [5388335](https://pubmed.ncbi.nlm.nih.gov/5388335/) | 1969 | Review | Clin Obstet Gynecol | 무월경에 대한 고전적 개괄 리뷰 |
+
+---
+
+## 한국 시판 정보
+
+현재 한국 내 Progesterone 허가 제품이 등록되어 있지 않습니다 (미출시, 허가증 0건).
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Proceed with Guardrails**
+
+**사유:**
+Phase 3 RCT(NCT01185782, n=300)를 포함한 L2 수준 근거와, "황체호르몬 유발 시험"이라는 이미 확립된 임상적 기전 근거가 존재하여 무월경 적응증 확장 가능성은 유의미합니다. 다만 한국 내 허가 이력이 없고 TFDA/MFDS 수준의 경고·금기 정보(DG001, Blocking)가 확보되지 않아, 임상적 활용 전 안전성 검토가 선행되어야 합니다.
+
+**진행하려면 필요한 것:**
+- 한국(MFDS) 허가 여부 및 시판 제품 조사 (신규 허가 신청 시 필요)
+- 제품 허가사항의 경고·금기·약물상호작용 정보 확보 (DG001 해소)
+- DrugBank 등에서 상세 작용기전(MOA) 확인 (DG002 해소)
+- 다수의 "관련성 평가 미완료(pending)" 임상시험·문헌에 대한 등급 분류 완료
+- 무월경 외 예측 적응증(섬유낭성 유방질환, 자궁내막증 등, 근거수준 L3~L5)은 현재 근거 부족으로 Hold 상태이며 별도 연구질문으로 관리 권장
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

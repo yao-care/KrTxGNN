@@ -1,0 +1,109 @@
+---
+layout: default
+title: Fremanezumab
+parent: 僅模型預測 (L5)
+nav_order: 338
+evidence_level: L5
+indication_count: 2
+---
+
+# Fremanezumab
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Fremanezumab: 편두통 예방에서 뇌간조짐편두통으로
+
+## 한 문장 요약
+
+Fremanezumab은 CGRP(칼시토닌 유전자 관련 펩타이드)를 표적으로 하는 인간화 단일클론항체로, 원래 만성/삽화성 편두통의 예방 치료에 사용되어 왔습니다. TxGNN 모델은 **뇌간조짐편두통(Migraine with Brainstem Aura)**에 효과가 있을 수 있다고 예측했으나, 현재 이 아형을 직접 겨냥한 임상시험은 없고 **20편의 문헌**(대부분 기전 연구 및 관찰 연구)만이 간접적으로 이 방향을 뒷받침합니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 편두통 예방 (CGRP 억제 기전, 상세 허가 자료 없음) |
+| 예측 신규 적응증 | 뇌간조짐편두통 (Migraine with Brainstem Aura) |
+| TxGNN 예측 점수 | 99.94% |
+| 근거 수준 | L3 |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전 데이터(DrugBank MOA)는 확보되지 않았습니다(Data Gap). 다만 문헌을 통해 알려진 정보에 따르면, Fremanezumab은 CGRP에 결합해 그 활성을 차단하는 항체이며, CGRP는 편두통 병태생리에서 핵심 역할을 하는 것으로 알려져 있습니다(PMID 30725283). 이는 기존 승인 적응증인 편두통 예방의 연장선상에 있는 예측입니다.
+
+그러나 뇌간조짐편두통은 특정 아형으로, 그 조짐(aura) 자체는 피질확산억제(Cortical Spreading Depression, CSD)라는 별도 기전과 연관되어 있습니다. 동물실험 결과는 엇갈립니다 — 한 연구는 Fremanezumab이 CSD로 유발된 동맥 확장 및 혈장단백질 유출에 **영향을 주지 못했다**고 보고했고(PMID 31127003), 다른 연구는 피질 회복 기간을 단축시키지만 CSD 전파 자체는 **막지 못한다**고 보고했습니다(PMID 31895266). 즉, 이 약물은 두통/CGRP 경로에는 작용하지만 조짐 전파 기전 자체에는 제한적으로 작용할 가능성이 있어, 예측의 기전적 타당성은 부분적입니다. 다만 혈관수축 기전이 아니므로, 전통적으로 혈관수축제 금기였던 이 아형에서 이론적으로는 더 안전할 수 있다는 점이 임상적 관심의 근거가 됩니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다 (ClinicalTrials.gov 및 ICTRP 모두 0건).
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [31127003](https://pubmed.ncbi.nlm.nih.gov/31127003/) | 2019 | 동물 기전 연구 | J Neurosci | Fremanezumab이 CSD 유발 동맥 확장·혈장단백 유출에 영향 없음 — 조짐 기전에는 제한적 작용 시사 |
+| [31895266](https://pubmed.ncbi.nlm.nih.gov/31895266/) | 2020 | 동물 기전 연구 | Pain | 혈뇌장벽 손상 쥐에서 피질 회복기간은 단축되나 CSD 발생 자체는 막지 못함 |
+| [30725283](https://pubmed.ncbi.nlm.nih.gov/30725283/) | 2019 | Review | Handb Exp Pharmacol | 편두통에서 CGRP의 역할 총설, 조짐 아형 포함 병태생리 설명 |
+| [35268319](https://pubmed.ncbi.nlm.nih.gov/35268319/) | 2022 | 증례보고+문헌고찰 | J Clin Med | 항CGRP 항체의 편두통 조짐 예방 효과 관련 증례 및 근거 부족 지적 |
+| [41618146](https://pubmed.ncbi.nlm.nih.gov/41618146/) | 2026 | 개별환자 분석 | J Headache Pain | 편마비편두통(조짐 관련 희귀 아형)에서 항CGRP 항체의 유효성·안전성 |
+| [40264646](https://pubmed.ncbi.nlm.nih.gov/40264646/) | 2025 | 증례보고+문헌고찰 | Front Neurol | 편마비편두통에서 항CGRP 항체 효능, RCT에서 배제되는 아형이라 근거 제한적 |
+| [38332541](https://pubmed.ncbi.nlm.nih.gov/38332541/) | 2024 | 관찰 증례군 | CNS Neurosci Ther | 조짐 동반 편두통 예방에 대한 항CGRP 치료 효과 관찰 |
+| [35302681](https://pubmed.ncbi.nlm.nih.gov/35302681/) | 2022 | 코호트(사후분석) | Eur J Neurol | FOCUS 임상시험 사후분석, 조짐/신경학적 이상 동반 환자군에서 효과 평가 |
+| [37638190](https://pubmed.ncbi.nlm.nih.gov/37638190/) | 2023 | 코호트(실사용) | Front Neurol | 만성 편두통 실사용 환경에서 Fremanezumab 유효성·내약성 확인 |
+| [28642283](https://pubmed.ncbi.nlm.nih.gov/28642283/) | 2017 | 동물 기전 연구 | J Neurosci | Fremanezumab이 삼차신경혈관 뉴런을 선택적으로 억제하는 기전 규명 |
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요. (식약처 허가 라벨 및 경고·금기·상호작용 자료 미확보 — Blocking 데이터 공백)
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+한국 내 미출시(허가 0건) 상태이며, 허가사항/경고 자료 확보가 Blocking 등급 공백으로 안전성 초기 평가(S1) 자체가 불가능합니다. 또한 뇌간조짐편두통을 직접 대상으로 한 임상시험이 전무하고, 동물 기전 연구는 오히려 이 약물이 조짐(aura)의 핵심 기전인 CSD 자체에는 제한적으로 작용한다는 결과를 보여 예측의 기전적 근거가 약합니다(근거 수준 L3, 대부분 관찰연구·기전연구).
+
+**진행하려면 필요한 것:**
+- 식약처(또는 원 허가국) 공식 라벨의 경고·금기 정보 확보
+- DrugBank API를 통한 상세 작용기전(MOA) 데이터 확보
+- 뇌간조짐편두통/편마비편두통 등 조짐 아형을 직접 대상으로 한 전향적 임상 자료
+- CGRP 항체의 조짐 전파(CSD) 억제 효과에 대한 추가 기전 검증
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

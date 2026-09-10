@@ -1,0 +1,117 @@
+---
+layout: default
+title: Dabigatran Etexilate
+parent: 僅模型預測 (L5)
+nav_order: 231
+evidence_level: L5
+indication_count: 5
+---
+
+# Dabigatran Etexilate
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **5** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Dabigatran Etexilate: 적응증 정보 없음에서 원발성 혈소판 방출 장애(Primary Release Disorder of Platelets) 후보로
+
+## 한 문장 요약
+
+Dabigatran Etexilate는 한국에는 아직 허가·시판되지 않은 약물로, 원 적응증 및 작용기전(MOA) 데이터가 Evidence Pack에 없습니다. TxGNN은 5개 적응증을 예측했는데, 상위 4건(경화성 담관염, 고지혈증 계열 3건)은 Evidence Pack 자체 분석에서 "기전적 타당성 없음 / 잡음 관련(noise)"으로 판정되었고, 실제 임상시험·문헌 근거가 존재하는 것은 5순위 **원발성 혈소판 방출 장애**(TxGNN 점수 99.06%) 하나뿐입니다. 다만 이 근거조차 관련성이 낮은 시험 1건과 리뷰 위주 문헌 4편(L3)에 그치며, 항응고제가 혈소판 기능 이상 질환에 오히려 출혈 위험을 높일 수 있다는 기전적 우려가 함께 제기되어 있습니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (DrugBank 원 적응증·MOA 데이터 없음, 한국 미허가) |
+| 예측 신규 적응증 | 원발성 혈소판 방출 장애 (Primary Release Disorder of Platelets) |
+| TxGNN 예측 점수 | 99.06% (전체 순위 13,807위) |
+| 근거 수준 | L3 (관찰/코호트 연구 및 문헌고찰 수준) |
+| 한국 시판 현황 | 미상시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+> 참고: TxGNN이 제시한 5개 예측 중 점수가 가장 높은 경화성 담관염(99.82%)을 포함한 상위 4건은 임상시험·문헌이 전무하거나 있어도 기전과 무관하며, Evidence Pack 자체 rationale에서 "합리적 기전 연관성 없음"으로 명시되어 있어 이번 보고서에서는 제외했습니다. 실질적으로 검토 가치가 있는 것은 5순위 예측뿐입니다.
+
+---
+
+## 이 예측이 타당한 이유는?
+
+Drug 레벨의 공식 `original_moa` 필드는 데이터 공백(Data Gap)이지만, 5순위 예측의 repurposing rationale에 기전 정보가 포함되어 있습니다: Dabigatran etexilate는 직접 트롬빈(응고인자 IIa) 억제제의 전구약물로, 활성형 dabigatran이 피브리노겐→피브린 전환과 트롬빈 유발 혈소판 활성화/방출 반응을 차단합니다.
+
+문헌상으로는 dabigatran을 포함한 직접경구항응고제(DOAC)가 헤파린유발혈소판감소증(HIT) 치료에서 헤파린 대체제로 쓰인 실무 사례가 확인됩니다. HIT는 면역 매개성 혈소판 활성화/방출 이상이라는 점에서 TxGNN이 지목한 "원발성 혈소판 방출 장애"(선천성 저장소 질환, storage pool disease)와 병태생리가 다릅니다. 즉 TxGNN이 두 질환을 혼동했을 가능성이 있습니다.
+
+또한 원발성 혈소판 방출 장애는 그 자체로 출혈 경향을 가진 질환이므로, 항응고제 투여가 치료적 이득보다 출혈 위험 증가로 이어질 가능성이 있습니다. 따라서 이 예측은 "기전적으로 그럴듯해 보이지만 질환 정의 불일치와 상반된 임상 방향성이라는 두 가지 리스크를 동시에 안고 있는" 사례로 해석해야 합니다.
+
+---
+
+## 임상시험 근거
+
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT06101667](https://clinicaltrials.gov/study/NCT06101667) | N/A | 모집 중 | 224 | 급성 기저동맥 폐색(발병 24–72시간)에서 혈관내 재개통술 vs 약물치료 효능·안전성 비교(ANGEL-BAO 연구). 주 개입은 기계적 혈전제거술이며 dabigatran이나 혈소판 방출 장애가 연구 대상이 아님. 관련성 등급 C(낮음) — 주술기 항혈전제 사용이 부수적으로만 연관될 수 있음 |
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [28646118](https://pubmed.ncbi.nlm.nih.gov/28646118/) | 2017 | Cohort/Review | Blood | 헤파린유발혈소판감소증(HIT) 치료에 DOAC(dabigatran 포함) 사용 경험 및 문헌고찰 — Hamilton 코호트 |
+| [31505555](https://pubmed.ncbi.nlm.nih.gov/31505555/) | 2019 | Review | Am J Health-Syst Pharm | 심방세동 환자의 관상동맥 스텐트 시술 시 항혈전 병용요법 가이드라인 리뷰 |
+| [39133737](https://pubmed.ncbi.nlm.nih.gov/39133737/) | 2024 | Review | Pain Physician | 중재적 통증관리 시술 주술기 항혈소판/항응고 요법 관리 실태 업데이트 |
+| [19875000](https://pubmed.ncbi.nlm.nih.gov/19875000/) | 2009 | Review | Ann Fr Anesth Reanim | Dabigatran(Pradaxa)의 유효성·안전성 개관 |
+
+---
+
+## 한국 시판 정보
+
+한국에는 허가된 제품이 없습니다 (허가증 0건, 미상시).
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+(TFDA/MFDS 수준의 경고·금기·DDI 데이터가 Evidence Pack에 없으며, 이는 meta.data_gaps에서 "S1 안전성 초기 평가 진입 불가"로 분류된 Blocking 항목입니다.)
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+5순위 예측(원발성 혈소판 방출 장애)만이 L3 수준의 최소 근거를 갖추고 있으나, 근거 문헌 대부분이 다른 질환(HIT)을 다루고 있어 TxGNN의 질환 매핑 정확성이 의심되며, 항응고제가 출혈 경향 질환에 위험을 오히려 높일 수 있다는 기전적 상충이 해소되지 않았습니다. 나머지 4개 예측은 Evidence Pack 자체 분석에서 기전 연관성이 없는 것으로 판정되어 검토 대상에서 제외합니다.
+
+**진행하려면 필요한 것:**
+- 한국(MFDS) 허가사항(경고/금기/DDI) 확보 — 현재 Blocking 데이터 공백(DG001)
+- DrugBank 등 공식 소스를 통한 dabigatran etexilate 원 적응증·MOA 정식 데이터 확보 (DG002)
+- "원발성 혈소판 방출 장애"와 HIT의 질환 정의 차이에 대한 전문가 검증 — TxGNN 매핑 오류 여부 확인
+- 항응고제 투여가 해당 질환에서 순이익(net benefit)인지 출혈 위험 증가인지에 대한 임상 자문
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+
