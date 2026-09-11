@@ -1,18 +1,30 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-09-11T16:06:39.435771+00:00",
-  "total_fetched": 125,
-  "unique_count": 124,
-  "health_related_count": 65,
+  "fetched_at": "2026-09-11T20:40:22.142552+00:00",
+  "total_fetched": 127,
+  "unique_count": 127,
+  "health_related_count": 69,
   "news": [
     {
-      "id": "0e63e00258ff",
-      "title": "치매 앓은 로빈 윌리엄스 돌본 아내 “그림은 제게 약이었어요” - dementianews.co.kr",
-      "published": "2026-09-11T14:38:34+00:00",
-      "summary": "치매 앓은 로빈 윌리엄스 돌본 아내 “그림은 제게 약이었어요”&nbsp;&nbsp;dementianews.co.kr",
+      "id": "db5df5eef9bf",
+      "title": "[이호빈의 건강노트] 초기 증상 없는 간암…“지방간도 방심 금물” - 마이데일리",
+      "published": "2026-09-11T17:00:41+00:00",
+      "summary": "[이호빈의 건강노트] 초기 증상 없는 간암…“지방간도 방심 금물”&nbsp;&nbsp;마이데일리B형 및 C형 간염 검사는 누가 받아야 할까요?&nbsp;&nbsp;Vietnam.vn간암 예방 위한 세계적 선도 기준과 정책 마련한다&nbsp;&nbsp;e-의료정보보건부, '간염 B 임상 관리 지침' 개정… 조기 진단·치료 체계 강화 : 남미동아뉴스 ; Paraguay Times&nbsp;&nbsp;newsk.net주사는 B형 간염 발병 위험을 결정합니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "dementianews.co.kr",
+          "name": "마이데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CMVByQktnNm1sZm13Y1VzaVNlSTZVRkZLZXpVVEtkd1FTX0h1NlBkbjk1b0ZTTXBaYWZhTW9lQlhFYmdxcWdQU2gwdmFTSmJxUm5jc0RiUi1WLWNVZmNjbWhZMkJnUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9865eaf9da8d",
+      "title": "치매 앓은 로빈 윌리엄스 돌본 아내 “그림은 제게 약이었어요” - 디멘시아뉴스",
+      "published": "2026-09-11T14:38:34+00:00",
+      "summary": "치매 앓은 로빈 윌리엄스 돌본 아내 “그림은 제게 약이었어요”&nbsp;&nbsp;디멘시아뉴스",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xeXN5TGFHYmRIWjl1enJtYUo1TnhVU3FWTjZZZVNYNE5yM1EtcklFYmtES244MjRYM0pvRC1QSEIzZTVuS0pzZ0lJMUN6MEZGVzhZQXpsX0Zqc2VCa0oxRWw5UjBmU3Iya0d4Q3AzQmdNQQ?oc=5"
         }
       ]
@@ -42,10 +54,22 @@
       ]
     },
     {
+      "id": "b1b34f9744df",
+      "title": "위암 유발하는 헬리코박터균, 대장암 위험도 높인다? - 하이닥",
+      "published": "2026-09-11T10:00:00+00:00",
+      "summary": "위암 유발하는 헬리코박터균, 대장암 위험도 높인다?&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXeldoNEVvZk5RNnk0a0FXd0U2S0FqOFU0anYzd05lR2djXzVhYjczZVBDVi05b1BILWRHcG1rVU1vOEJOT1V1QXlpR0Y3b19KMHlGeFJ2Tng0dUp1UWd4bnRPYlpzd2dmcHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "efd8beda91aa",
       "title": "미국 연구진, 비만 재발 원인 '지방세포 기억' 규명 - 바이오북미디어",
       "published": "2026-09-11T09:49:00+00:00",
-      "summary": "미국 연구진, 비만 재발 원인 '지방세포 기억' 규명&nbsp;&nbsp;바이오북미디어살 빠지면 스트레스·염증 유전자 줄며 지방조직도 ‘정상화’&nbsp;&nbsp;hnews.kr위고비·마운자로 중단 후 다시 찌는 살, 지방조직 달라질까?&nbsp;&nbsp;hnews.kr",
+      "summary": "미국 연구진, 비만 재발 원인 '지방세포 기억' 규명&nbsp;&nbsp;바이오북미디어살 빠지면 스트레스·염증 유전자 줄며 지방조직도 ‘정상화’&nbsp;&nbsp;현대건강신문위고비·마운자로 중단 후 다시 찌는 살, 지방조직 달라질까?&nbsp;&nbsp;현대건강신문",
       "sources": [
         {
           "name": "바이오북미디어",
@@ -66,14 +90,14 @@
       ]
     },
     {
-      "id": "b2dc6e6e1460",
-      "title": "칩 위에 인간 뇌 환경 구현…뉴로링스, 신약 평가시장 도전 - kukimedi.com",
-      "published": "2026-09-11T07:56:43+00:00",
-      "summary": "칩 위에 인간 뇌 환경 구현…뉴로링스, 신약 평가시장 도전&nbsp;&nbsp;kukimedi.com",
+      "id": "835e0d2fb350",
+      "title": "칩 위에 인간 뇌 환경 구현…뉴로링스, 신약 평가시장 도전 - 네이트",
+      "published": "2026-09-11T07:57:00+00:00",
+      "summary": "칩 위에 인간 뇌 환경 구현…뉴로링스, 신약 평가시장 도전&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "kukimedi.com",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IZnJaUjR4S05HYl9reWh3akxBLWNPN0ZiT05EQVdfRkJaNEtHMHFJcWtLTXdQT3ZFNTVCSHlIX1habjEwckVib3NoNDRpamhzN2x1ek1jVkREaEo3OXVqRURjSQ?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vS1d5QnpuSFM3SWtqbjJsajRpZFU5NGNFNkIyZzl3cDFmN2JXclhFdXlmWHg5RDZlOXpTcm1raV9JNlBiUUxtR0dPMjNDUENYTTBR?oc=5"
         }
       ]
     },
@@ -98,6 +122,18 @@
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWek43Smx3WTlueVg0NFhJVUl5eEhySUp0Y0l1LUh2SW5YRG9yWjhNWXV6MC1MVUJFTGZJLWlVYkJudFdlUGdBX3FRWlNodHlQWEZfQmhOemVKX1o4d3M4ZEMwYnVzZEYtSHlkbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d27e89030fa8",
+      "title": "\"희미해서 괜찮겠지\" 수면등 켜고 잤는데…심장벽 더 두꺼웠다 - 네이트",
+      "published": "2026-09-11T06:30:00+00:00",
+      "summary": "\"희미해서 괜찮겠지\" 수면등 켜고 잤는데…심장벽 더 두꺼웠다&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OV3NKV21vaWxucXJfS3FSdmlqSnVISmhIOEpDU0luVER5R1R2N1g5MzFTS1ByVlBpTzVBdE4yUkhMNlNRazhGbTdNLVVwT0JJbi1EMjM2dlRPS213RTRSMA?oc=5"
         }
       ]
     },
@@ -153,7 +189,7 @@
       "id": "5ae1d4a6702b",
       "title": "장 건강에 좋은 최고의 점심 메뉴 8가지 - Vogue korea",
       "published": "2026-09-11T05:30:19+00:00",
-      "summary": "장 건강에 좋은 최고의 점심 메뉴 8가지&nbsp;&nbsp;Vogue korea[한국인의 100가지 질환-99] 긴장만 하면 배가 아프고 화장실부터 찾는다면… ‘과민성대장증후군’ 의심해야&nbsp;&nbsp;뉴스인“장 염증 막는다”… 자주 먹으면 좋은 ‘10가지 음식’, 뭐야?&nbsp;&nbsp;헬스조선\"내시경 정상인데 배가 아프다?\"… 과민성 대장 증후군 원인과 올바른 치료 방법&nbsp;&nbsp;news.hidoc.co.kr“설사 심해질라” 장 민감한 사람, 피해야 할 영양제 3&nbsp;&nbsp;헬스조선",
+      "summary": "장 건강에 좋은 최고의 점심 메뉴 8가지&nbsp;&nbsp;Vogue korea[한국인의 100가지 질환-99] 긴장만 하면 배가 아프고 화장실부터 찾는다면… ‘과민성대장증후군’ 의심해야&nbsp;&nbsp;뉴스인“장 염증 막는다”… 자주 먹으면 좋은 ‘10가지 음식’, 뭐야?&nbsp;&nbsp;헬스조선\"내시경 정상인데 배가 아프다?\"… 과민성 대장 증후군 원인과 올바른 치료 방법&nbsp;&nbsp;하이닥“설사 심해질라” 장 민감한 사람, 피해야 할 영양제 3&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "Vogue korea",
@@ -177,7 +213,7 @@
       "id": "b7e69fdb6fbd",
       "title": "체중·혈당 잡더니 ’노화 시계’까지 되돌리나…’GLP-1’의 무한 가능성 By EBN - Investing.com 한국어",
       "published": "2026-09-11T05:12:00+00:00",
-      "summary": "체중·혈당 잡더니 ’노화 시계’까지 되돌리나…’GLP-1’의 무한 가능성 By EBN&nbsp;&nbsp;Investing.com 한국어\"위고비 맞으면 10년 더 산다?\"…근력·기억력까지 좋아진다는 '뜻밖의 연구' [헬스톡]&nbsp;&nbsp;v.daum.net살만 빠지는 게 아냐…위고비 맞으면 10년 더 산다&nbsp;&nbsp;munhwa.com다이어트 주사, 천식에도 통할까… “발작 경험 40% 적었다”&nbsp;&nbsp;헬스조선살 빼는 약 넘어선 GLP-1···'노화·정신건강'까지 연구 확장&nbsp;&nbsp;뉴스웨이",
+      "summary": "체중·혈당 잡더니 ’노화 시계’까지 되돌리나…’GLP-1’의 무한 가능성 By EBN&nbsp;&nbsp;Investing.com 한국어\"위고비 맞으면 10년 더 산다?\"…근력·기억력까지 좋아진다는 '뜻밖의 연구' [헬스톡]&nbsp;&nbsp;v.daum.net살만 빠지는 게 아냐…위고비 맞으면 10년 더 산다&nbsp;&nbsp;문화일보다이어트 주사, 천식에도 통할까… “발작 경험 40% 적었다”&nbsp;&nbsp;헬스조선살 빼는 약 넘어선 GLP-1···'노화·정신건강'까지 연구 확장&nbsp;&nbsp;뉴스웨이",
       "sources": [
         {
           "name": "Investing.com 한국어",
@@ -186,25 +222,25 @@
       ]
     },
     {
-      "id": "d155ed63a08f",
-      "title": "건강한 20대도 피할 수 없다… '가벼운 한 잔'도 혈관 내벽 망가뜨린다 - news.hidoc.co.kr",
+      "id": "277964cc92df",
+      "title": "건강한 20대도 피할 수 없다… '가벼운 한 잔'도 혈관 내벽 망가뜨린다 - 하이닥",
       "published": "2026-09-11T05:00:00+00:00",
-      "summary": "건강한 20대도 피할 수 없다… '가벼운 한 잔'도 혈관 내벽 망가뜨린다&nbsp;&nbsp;news.hidoc.co.kr\"식도암 위험 최대 35배\"…술 마셔도 얼굴 안 빨개지는 사람 '반전' 연구결과 [헬스톡]&nbsp;&nbsp;v.daum.net술 마셔도 그대로인 얼굴, 암 위험 낮은 걸까?&nbsp;&nbsp;헬스조선“이젠 주말에 소주 한 병도 안됩니까”...20대도 혈관 염증 수치 치솟는다&nbsp;&nbsp;매일경제술 마실때 ‘이렇게’ 되는 사람…식도암 위험 최대 35배라는데, 연구결과 보니 [헬시타임]&nbsp;&nbsp;sedaily.com",
+      "summary": "건강한 20대도 피할 수 없다… '가벼운 한 잔'도 혈관 내벽 망가뜨린다&nbsp;&nbsp;하이닥\"식도암 위험 최대 35배\"…술 마셔도 얼굴 안 빨개지는 사람 '반전' 연구결과 [헬스톡]&nbsp;&nbsp;v.daum.net술 마셔도 그대로인 얼굴, 암 위험 낮은 걸까?&nbsp;&nbsp;헬스조선“이젠 주말에 소주 한 병도 안됩니까”...20대도 혈관 염증 수치 치솟는다&nbsp;&nbsp;매일경제술 마실때 ‘이렇게’ 되는 사람…식도암 위험 최대 35배라는데, 연구결과 보니 [헬시타임]&nbsp;&nbsp;서울경제",
       "sources": [
         {
-          "name": "news.hidoc.co.kr",
+          "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZSEVYNTM3YjBIRUV2ZTN5M0ZETjl1VldjaW9EUnltTXJoajF5SERXdGxZS1E0dHVmeTdUdUZ3ZkQ0MHNLZHdYRjhjUWQzX2t1NG41U1M3NmM0MTRiOGZtY3pJS2hycEtvWWc?oc=5"
         }
       ]
     },
     {
-      "id": "fbcd51ff43bf",
-      "title": "김영근 교수, \"성인 예방접종, 혈청형·연령·기저질환·이전 접종력 고려해야\" - dailymedipharm.com",
+      "id": "d87bfa1a892c",
+      "title": "김영근 교수, \"성인 예방접종, 혈청형·연령·기저질환·이전 접종력 고려해야\" - 데일리메디팜",
       "published": "2026-09-11T03:19:46+00:00",
-      "summary": "김영근 교수, \"성인 예방접종, 혈청형·연령·기저질환·이전 접종력 고려해야\"&nbsp;&nbsp;dailymedipharm.com\"폐렴구균, 심각한 질환 유발…성인도 백신 접종해야\"&nbsp;&nbsp;v.daum.net‘성인용’ 캡박시브, 소아로 넓힌다…한국MSD 국내 허가 신청&nbsp;&nbsp;팜이데일리소아와 달라진 성인 폐렴균…'성인 맞춤형' 백신 필요성 커져&nbsp;&nbsp;뉴스1\"독감, 코로나 유행…'폐렴구균 백신'도 같이 접종하세요\" - 머니투데이&nbsp;&nbsp;머니투데이",
+      "summary": "김영근 교수, \"성인 예방접종, 혈청형·연령·기저질환·이전 접종력 고려해야\"&nbsp;&nbsp;데일리메디팜\"폐렴구균, 심각한 질환 유발…성인도 백신 접종해야\"&nbsp;&nbsp;v.daum.net‘성인용’ 캡박시브, 소아로 넓힌다…한국MSD 국내 허가 신청&nbsp;&nbsp;팜이데일리소아와 달라진 성인 폐렴균…'성인 맞춤형' 백신 필요성 커져&nbsp;&nbsp;뉴스1\"독감, 코로나 유행…'폐렴구균 백신'도 같이 접종하세요\" - 머니투데이&nbsp;&nbsp;머니투데이",
       "sources": [
         {
-          "name": "dailymedipharm.com",
+          "name": "데일리메디팜",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51RWpzM2M5dmNmajF3VDZ2R2E3d0g0TXVPOUgzS0ZIY3JVTWo5bjZoR3VPUFZDOTJxUklzcEtRY2FMalVESVl5OUZ3MkNyM2d4elZTRDM4X3JtekM5clFpR1gwa3FDYkxZM2xuOTJB?oc=5"
         }
       ]
@@ -234,13 +270,13 @@
       ]
     },
     {
-      "id": "1d6dc9be3c47",
-      "title": "생애 첫 1,000일 설탕 노출, 70년 뒤 치매 위험과 연결될까 - dementianews.co.kr",
+      "id": "848da1dda2d0",
+      "title": "생애 첫 1,000일 설탕 노출, 70년 뒤 치매 위험과 연결될까 - 디멘시아뉴스",
       "published": "2026-09-11T01:55:44+00:00",
-      "summary": "생애 첫 1,000일 설탕 노출, 70년 뒤 치매 위험과 연결될까&nbsp;&nbsp;dementianews.co.kr",
+      "summary": "생애 첫 1,000일 설탕 노출, 70년 뒤 치매 위험과 연결될까&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "dementianews.co.kr",
+          "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YaVFLVjlQLXBmWTNSWmFxQlNaWUszWjRiTnQwMHR5V0hjRk4zSEtJTWF1alJKYm9oRFlKV2VIV0QtMm9KbWpOcVhiU1lmT1VzNG5vVml3UXpTemlQU284Vk1Fbm41cmVuY0RpbmVrQUJfZw?oc=5"
         }
       ]
@@ -306,13 +342,13 @@
       ]
     },
     {
-      "id": "fad4bb3829ea",
-      "title": "지금이 적기, 가을에 운동 시작하면 다이어트에 유리한 진짜 이유 - gqkorea.co.kr",
+      "id": "e793eda5ea66",
+      "title": "지금이 적기, 가을에 운동 시작하면 다이어트에 유리한 진짜 이유 - GQ Korea",
       "published": "2026-09-11T00:10:17+00:00",
-      "summary": "지금이 적기, 가을에 운동 시작하면 다이어트에 유리한 진짜 이유&nbsp;&nbsp;gqkorea.co.kr[영상] \"땀 안 났는데 탈수?\" 가을 운동의 함정&nbsp;&nbsp;약사공론매일 만보면 충분할까…김수연이 권한 근력·균형운동&nbsp;&nbsp;톱스타뉴스“매일 딱 10분이면 된다”…60세 이후 건강을 바꾸는 운동 습관&nbsp;&nbsp;얼리어답터뉴스하루 14분이면 충분?…가을 운동, ‘이렇게’ 섞어야 효과 본다&nbsp;&nbsp;DongA Science",
+      "summary": "지금이 적기, 가을에 운동 시작하면 다이어트에 유리한 진짜 이유&nbsp;&nbsp;GQ Korea[영상] \"땀 안 났는데 탈수?\" 가을 운동의 함정&nbsp;&nbsp;약사공론“매일 딱 10분이면 된다”…60세 이후 건강을 바꾸는 운동 습관&nbsp;&nbsp;얼리어답터뉴스매일 만보면 충분할까…김수연이 권한 근력·균형운동&nbsp;&nbsp;톱스타뉴스하루 14분이면 충분?…가을 운동, ‘이렇게’ 섞어야 효과 본다&nbsp;&nbsp;DongA Science",
       "sources": [
         {
-          "name": "gqkorea.co.kr",
+          "name": "GQ Korea",
           "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPeExOYi01a2dXWWFLTDdySm0td241Ny1tM001VkE1TTJMTi15WWZCa2QwQ1N6Z3dqYnU3a1NxZXBrbDVRaXhGZTFxSTJQRGNaSXk0OXk4SWJXYVJZMGlMZF9nSmRzRG9HQV9RdzhRcHllUFZzck5WLW00Z0ctdExhRDhjWm9oSFI1QktfV21zOXpaM2Fqc2RUN3dxLTdxX3hWU3dKOFE3RFQwZnh0WXViYm9tRXJtcjgzRWxJeWsyczNGZENsczNKbkduZHJiek15aEhNOTNqQUJNNUlhQjhRWE9CVkwycXRHV3k4eHZJM3lfWnBoaDV3aTN5MHZXMnRLcDRNZFRDQ21KT2FlcEFUemxlb2NLTy1jdWFHbWJLb25rdmh0Zk5zY1lHYUI5MjlwdUp4V2gwSi1iV0VoZ1VLbGYyT3lRWmlySUZxVXBIVHkxZ2c?oc=5"
         }
       ]
@@ -342,6 +378,18 @@
       ]
     },
     {
+      "id": "ddf071d67c38",
+      "title": "‘임신 중 경증 빈혈이었는데…’ 아기 뇌 크기 또래보다 작았다 [후암동 논문 연구소] - 헤럴드경제 미주판",
+      "published": "2026-09-10T19:10:00+00:00",
+      "summary": "‘임신 중 경증 빈혈이었는데…’ 아기 뇌 크기 또래보다 작았다 [후암동 논문 연구소]&nbsp;&nbsp;헤럴드경제 미주판",
+      "sources": [
+        {
+          "name": "헤럴드경제 미주판",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96dFZndGswcXJUSDNuZHBtYkNGNTJhaFM4dk9uZ1k5UGFmeHF4NHB6dGEzWkdzRl9oMVBhSDVJaFZCS1VVd3RPeU5yWW1odHM4eW5ield4YXQ1Zk9NZ196eg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "abdf17c57562",
       "title": "앤트로픽 연구원의 섬뜩한 경고… “AI, 10년 내 인류 멸망시킬 수도” - 국민일보",
       "published": "2026-09-10T17:10:00+00:00",
@@ -354,38 +402,26 @@
       ]
     },
     {
-      "id": "d34171124a57",
-      "title": "‘잠·스트레스’ 조절 뇌 회로, 알츠하이머병 초기부터 망가진다 - dementianews.co.kr",
+      "id": "615680a0a3e1",
+      "title": "‘잠·스트레스’ 조절 뇌 회로, 알츠하이머병 초기부터 망가진다 - 디멘시아뉴스",
       "published": "2026-09-10T10:57:49+00:00",
-      "summary": "‘잠·스트레스’ 조절 뇌 회로, 알츠하이머병 초기부터 망가진다&nbsp;&nbsp;dementianews.co.kr알츠하이머, 뇌만 들여다봐선 안 된다…“온몸의 이상이 수십 년간 쌓인 결과”&nbsp;&nbsp;news.hidoc.co.kr기억력엔 아직 이상이 없는 당신에게, 영국이 치매를 막는 신약을 시험합니다&nbsp;&nbsp;캐어유 뉴스英 연구팀 “알츠하이머병, ‘전신 질환’ 관점서 봐야\"...대사·면역장애 '주목'&nbsp;&nbsp;dementianews.co.kr",
+      "summary": "‘잠·스트레스’ 조절 뇌 회로, 알츠하이머병 초기부터 망가진다&nbsp;&nbsp;디멘시아뉴스알츠하이머, 뇌만 들여다봐선 안 된다…“온몸의 이상이 수십 년간 쌓인 결과”&nbsp;&nbsp;하이닥기억력엔 아직 이상이 없는 당신에게, 영국이 치매를 막는 신약을 시험합니다&nbsp;&nbsp;캐어유 뉴스英 연구팀 “알츠하이머병, ‘전신 질환’ 관점서 봐야\"...대사·면역장애 '주목'&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "dementianews.co.kr",
+          "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pNlNJM1AyVnFUTXdObm11RmJONU9tbUpCdjZhQm8tNDFqQldzaWFvSFdLWHU0Wl9SeUxkSmZMRjVtNWs5aVgwckpVRjhCS2FtREtxaElXN0gzajR6Q0Z3OHlqX2VIbDc0OGJmbXhoQUs0QQ?oc=5"
         }
       ]
     },
     {
-      "id": "205d36f7e2ca",
-      "title": "하루 ‘커피 5잔’ 이상 마시면 골밀도↓… 꾸준히 차(茶) 마신 사람은 달랐다? - news.hidoc.co.kr",
+      "id": "5c2c0fed92ce",
+      "title": "하루 ‘커피 5잔’ 이상 마시면 골밀도↓… 꾸준히 차(茶) 마신 사람은 달랐다? - 하이닥",
       "published": "2026-09-10T10:00:00+00:00",
-      "summary": "하루 ‘커피 5잔’ 이상 마시면 골밀도↓… 꾸준히 차(茶) 마신 사람은 달랐다?&nbsp;&nbsp;news.hidoc.co.kr\"커피 한 잔이 세포 노화 늦춘다\"…카페인, 500만년 된 스위치 작동시켜&nbsp;&nbsp;시애틀코리안데일리강배전 커피는 영양가 없다? 장수에 도움 되는 커피 총정리&nbsp;&nbsp;gqkorea.co.kr“하루 5잔 커피 마시는 노년 여성, 골밀도 감소 가능성 커져”&nbsp;&nbsp;v.daum.net커피·차 속 ‘카페인’, 치매 위험 낮춘다는데...“나이·유전자 따라 효과 달라”&nbsp;&nbsp;dementianews.co.kr",
+      "summary": "하루 ‘커피 5잔’ 이상 마시면 골밀도↓… 꾸준히 차(茶) 마신 사람은 달랐다?&nbsp;&nbsp;하이닥\"커피 한 잔이 세포 노화 늦춘다\"…카페인, 500만년 된 스위치 작동시켜&nbsp;&nbsp;시애틀코리안데일리강배전 커피는 영양가 없다? 장수에 도움 되는 커피 총정리&nbsp;&nbsp;GQ Korea“하루 5잔 커피 마시는 노년 여성, 골밀도 감소 가능성 커져”&nbsp;&nbsp;v.daum.net커피·차 속 ‘카페인’, 치매 위험 낮춘다는데...“나이·유전자 따라 효과 달라”&nbsp;&nbsp;디멘시아뉴스",
       "sources": [
         {
-          "name": "news.hidoc.co.kr",
+          "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpZ3hEN3hlZkFIRGFyWlg5Qkc0SjF3bWVYYWpIQUFHeFQxTUc3Z0pfTnZlTENudHFxYlRJWDZSMVFQcU11Qm1ORlQwOHpORG9BQkNwbEhTYUxTZWhTLU14UDVTTW11VzVaVUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1a344dc1ce9",
-      "title": "잠잘 때 폰-알람시계 불빛에도…심부전-뇌졸중 위험 커져 [노화설계] - 동아일보",
-      "published": "2026-09-10T09:19:00+00:00",
-      "summary": "잠잘 때 폰-알람시계 불빛에도…심부전-뇌졸중 위험 커져 [노화설계]&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtbXVPSUE3ZDZSLTVVa0RvaEJVbGNXMTRveW4td3U5Nmx0aTJqZExCZWJnX1d4TWMyN0Q3TDJ5SEN0UUIyV0RKdTBNeGI2aGFfQlJqSzExX3lGVjMxSm1zZk9UeHh4T2c3SGRuNnp0ONIBZkFVX3lxTFB6b0M4emhhem1tX3ZOT0o2ZEZ6ODVUUkY3WmJPdzZlWTBEOE1CUDBralE4eHNtZXZOUmpNOEpJVEh0OWowa29PTFdhTl8yLXhNSHdFS2JITEdMemJWNHE0TC1tQU4tQQ?oc=5"
         }
       ]
     },
@@ -450,13 +486,13 @@
       ]
     },
     {
-      "id": "1bf8c408179f",
-      "title": "내시경 무섭다고 참았다간...검사 필요한 증상은? - 스포츠월드",
+      "id": "b5dc128bdc36",
+      "title": "내시경 무섭다고 참았다간...검사 필요한 증상은? - sportsworldi.com",
       "published": "2026-09-10T06:24:09+00:00",
-      "summary": "내시경 무섭다고 참았다간...검사 필요한 증상은?&nbsp;&nbsp;스포츠월드",
+      "summary": "내시경 무섭다고 참았다간...검사 필요한 증상은?&nbsp;&nbsp;sportsworldi.com",
       "sources": [
         {
-          "name": "스포츠월드",
+          "name": "sportsworldi.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40MGhRaVhRRm1PcW1Sd3ZjZEJBS2c4VTljd2pJLUZsakFQMktDVzYzbVpfckRTNzVuWUJBckVQeFg5M21QMkxzMldEVWxPWlkzUVFGa0hYcjdDVjFYMFNVWEdR?oc=5"
         }
       ]
@@ -498,13 +534,13 @@
       ]
     },
     {
-      "id": "e37770bdf01e",
-      "title": "심방세동 동반 만성콩팥병 환자 뇌졸중 예방에 아픽사반 - 메디칼트리뷴",
+      "id": "80d536494ad1",
+      "title": "심방세동 동반 만성콩팥병 환자 뇌졸중 예방에 아픽사반 - medical-tribune.co.kr",
       "published": "2026-09-09T23:38:26+00:00",
-      "summary": "심방세동 동반 만성콩팥병 환자 뇌졸중 예방에 아픽사반&nbsp;&nbsp;메디칼트리뷴",
+      "summary": "심방세동 동반 만성콩팥병 환자 뇌졸중 예방에 아픽사반&nbsp;&nbsp;medical-tribune.co.kr",
       "sources": [
         {
-          "name": "메디칼트리뷴",
+          "name": "medical-tribune.co.kr",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jY043ZmxuRXo4TzVUcWpPSWFSYU1uNEZSVXNIakU3VjJiYXZESUQtVW50cWx3RUR5Z0ZOclZndThycThWN3A3LTc3eDZlNS1mZHBzX3B4eWpWTGdVak5XSHppendva2J5YzFaY0dycWVUMW9PTlE?oc=5"
         }
       ]
@@ -522,13 +558,13 @@
       ]
     },
     {
-      "id": "e1b90a85ff2e",
-      "title": "파인애플 의외의 효능 6가지… 안질환 예방하고 심혈관질환 위험 낮춰 - news.hidoc.co.kr",
+      "id": "8cc18f019142",
+      "title": "파인애플 의외의 효능 6가지… 안질환 예방하고 심혈관질환 위험 낮춰 - 하이닥",
       "published": "2026-09-09T22:30:00+00:00",
-      "summary": "파인애플 의외의 효능 6가지… 안질환 예방하고 심혈관질환 위험 낮춰&nbsp;&nbsp;news.hidoc.co.kr",
+      "summary": "파인애플 의외의 효능 6가지… 안질환 예방하고 심혈관질환 위험 낮춰&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "news.hidoc.co.kr",
+          "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoUlFIcHdHSDZRZ3F6N05FUVV2eWxSYXhtUmQ0ek1YNGhvRUtQaEd1MHdJNkZTT2ZBc0hmV2JnUEJqejNhVDNLWU1BcWQtR2p5X0I2cVlGdVo3cVlUam96Sjd6NHEwbFJFbUE?oc=5"
         }
       ]
@@ -561,23 +597,11 @@
       "id": "b0f18355bbff",
       "title": "드라이클리닝한 옷, 바로 입나요…간 건강 위협 '뜻밖의 공범' - 지디넷코리아",
       "published": "2026-09-09T05:29:02+00:00",
-      "summary": "드라이클리닝한 옷, 바로 입나요…간 건강 위협 '뜻밖의 공범'&nbsp;&nbsp;지디넷코리아Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "드라이클리닝한 옷, 바로 입나요…간 건강 위협 '뜻밖의 공범'&nbsp;&nbsp;지디넷코리아“드라이 맡긴 명품, 비닐에 고이 넣어뒀는데”…간에 치명적이라고?&nbsp;&nbsp;매일경제드라이클리닝 화학물질 노출, 간섬유화 위험 3배 높여&nbsp;&nbsp;헬스코리아뉴스",
       "sources": [
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9icnZDWWtzT0tySTdielZVQWtxcU1TZ1BHRGRDOEtEUi1wc1RJMy05NEwyWlRZU2V1T2lxR0xBYWloMElEdHRzeldhQS1DTC1wTUg3cXJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ef6ffe801ed",
-      "title": "탄수화물 섭취량 극도로 줄이면 '당뇨병 위험 낮아진다' - 후생신보",
-      "published": "2026-09-09T02:27:00+00:00",
-      "summary": "탄수화물 섭취량 극도로 줄이면 '당뇨병 위험 낮아진다'&nbsp;&nbsp;후생신보“조금만 먹어도 혈당 폭발”… 의사가 ‘공복에 먹지 말라는 음식’, 뭐야?&nbsp;&nbsp;헬스조선혈당 관리에 탁월한 효과… 부모님 건강 선물로 ‘딱’&nbsp;&nbsp;국민일보“출출할 때 야식으로 최고인데”…저녁에 먹으면 혈당 폭등시킨다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;sedaily.com혈당 '쭉' 올리는 의외의 음식들⋯'건강한 대체당' 스테비아 토마토 피해야?&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FcDIxSHRwNTl4NmlXLXZablg3Y3l0T0NCUGJyQ0N4NlBoYnpFVHNYQm5RWGp5Uy1RRlR6YlU4cW9rLUk3VEE?oc=5"
         }
       ]
     },
@@ -606,26 +630,26 @@
       ]
     },
     {
-      "id": "b86c5393927b",
-      "title": "노화로 빠지는 근육을 되살렸다 [언박싱 연구실] - v.daum.net",
-      "published": "2026-09-08T20:58:00+00:00",
-      "summary": "노화로 빠지는 근육을 되살렸다 [언박싱 연구실]&nbsp;&nbsp;v.daum.netGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "616c4c86df57",
+      "title": "“RNA 치료제, 가능성의 시대 끝났다…암·AOC·AI로 확장\" - 약업신문",
+      "published": "2026-09-08T21:05:56+00:00",
+      "summary": "“RNA 치료제, 가능성의 시대 끝났다…암·AOC·AI로 확장\"&nbsp;&nbsp;약업신문",
       "sources": [
         {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11ZGFYcWExNEFMNmNubHlhNmI2emZseXJRd18yaEQ4WmxpaTNtVnlER2dUNkZZNXk1MFJrQWVHVE5YbnRhMUE?oc=5"
+          "name": "약업신문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BSXZ4YkdQYVNsMU1ENERPNmlmUVdjd01WdlRWUnFHd18xUkdfdGxwRnRFWmM0WE5vd2stMDFpNDhDd0VSYUVvR3lRSE0wZTlnMXlOMjljSGpjdWNySTd4UDN5MFVLdw?oc=5"
         }
       ]
     },
     {
-      "id": "cf7408a5fe50",
-      "title": "\"매일 마시는 원두커피, 몸에는?\"…남은 찌꺼기에도 '반전' - 매경헬스",
-      "published": "2026-09-08T20:00:00+00:00",
-      "summary": "\"매일 마시는 원두커피, 몸에는?\"…남은 찌꺼기에도 '반전'&nbsp;&nbsp;매경헬스커피 찌꺼기 ‘반전’…“비타민C 수준 항산화 효과”&nbsp;&nbsp;동아일보버려진 커피 찌꺼기의 반전… 신경세포 보호 물질로 활용될까?&nbsp;&nbsp;news.hidoc.co.kr버려지는 커피박, 신경재생 바이오소재로 변신 … 활성산소 줄이고 성상교세포 분화 촉진&nbsp;&nbsp;헬스오아침에 버린 커피 찌꺼기, 알고 보니 '신경 보호제'? [헬스체크]&nbsp;&nbsp;파이낸셜뉴스",
+      "id": "b86c5393927b",
+      "title": "노화로 빠지는 근육을 되살렸다 [언박싱 연구실] - v.daum.net",
+      "published": "2026-09-08T20:58:00+00:00",
+      "summary": "노화로 빠지는 근육을 되살렸다 [언박싱 연구실]&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ob1VaUHhCTVZxVV81cm1PamI2bTh6WVVvajF1RVpuX2oxZVYyNUs5U0JZYUlSREZISlA3TVlJYjdWZEluODEwdWgxemRpak1Ca2c0eDNxX1V5b1BwZU03XzJjbmoxM2N2YnJuRQ?oc=5"
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11ZGFYcWExNEFMNmNubHlhNmI2emZseXJRd18yaEQ4WmxpaTNtVnlER2dUNkZZNXk1MFJrQWVHVE5YbnRhMUE?oc=5"
         }
       ]
     },
@@ -638,18 +662,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FaTdVUTlSaDZnZlYzMzBGYUJHOWJuVm9SVGk5UEhuOE5EZW9WeTZIZHpxUjY4M2ZQcmVpR1ZiSVJTY1RjdTAzSWtoZUo1bWg5RjYxUHFfZVEwcmRoZ2dxVHBuVTFCbGY5cnlDSEU5NFhzQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f06597abbb80",
-      "title": "국제사회, 엠폭스 상시 백신 비축 체제 가동… “저소득국 소외 방지” - 간호사신문",
-      "published": "2026-09-08T06:48:23+00:00",
-      "summary": "국제사회, 엠폭스 상시 백신 비축 체제 가동… “저소득국 소외 방지”&nbsp;&nbsp;간호사신문",
-      "sources": [
-        {
-          "name": "간호사신문",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QT2wtemd5Q1huUFVNQkNwM1FFbUEybVRSSWtDbXdDdTVWMkpLYjZIbEVGb2Q4YUloZVZiT1hsQUNVXy05Z25mVU1kZXY1SW5PNDhjcGJscTFMQ3VlMzVmY0NoMGJDbjJLR2xEemlR?oc=5"
         }
       ]
     },
@@ -717,7 +729,7 @@
       "id": "2037e86757db",
       "title": "젊은 MASLD, 기존 간섬유화 예측 지표 '제한적' - 의협신문",
       "published": "2026-09-07T01:38:30+00:00",
-      "summary": "젊은 MASLD, 기존 간섬유화 예측 지표 '제한적'&nbsp;&nbsp;의협신문‘검사 결과 믿고 있었는데···’ 딱딱하게 굳는 지방간, 젊은 환자에겐 기존 지표 한계&nbsp;&nbsp;v.daum.net젊은 지방간, 기존 진단으로는 섬유화 위험 놓친다&nbsp;&nbsp;후생신보가톨릭대 성빈센트병원, 젊은 MASLD 환자 간섬유화 예측 지표 한계 확인&nbsp;&nbsp;MEDI:GATE NEWS젊은 지방간 환자, 간섬유화 예측 기존 지표로는 '역부족'&nbsp;&nbsp;서울경제TV",
+      "summary": "젊은 MASLD, 기존 간섬유화 예측 지표 '제한적'&nbsp;&nbsp;의협신문‘검사 결과 믿고 있었는데···’ 딱딱하게 굳는 지방간, 젊은 환자에겐 기존 지표 한계&nbsp;&nbsp;v.daum.net가톨릭대 성빈센트병원, 젊은 MASLD 환자 간섬유화 예측 지표 한계 확인&nbsp;&nbsp;MEDI:GATE NEWS젊은 지방간 환자, 간섬유화 예측 기존 지표로는 '역부족'&nbsp;&nbsp;서울경제TV",
       "sources": [
         {
           "name": "의협신문",
@@ -738,13 +750,49 @@
       ]
     },
     {
-      "id": "cea7dcc3e818",
-      "title": "남성호르몬·비타민D 떨어지면 갱년기 골다공증 위험 증폭 - bokuennews.com",
-      "published": "2026-09-06T01:53:39+00:00",
-      "summary": "남성호르몬·비타민D 떨어지면 갱년기 골다공증 위험 증폭&nbsp;&nbsp;bokuennews.com골다공증은 여성만? 남성도 비타민D 부족하면 위험&nbsp;&nbsp;헬스조선'이것' 부족한 갱년기 남성…\"골감소 위험 1.9배↑\"&nbsp;&nbsp;뉴시스서울성모병원, “남성호르몬·비타민D 부족 시 고관절 골밀도 저하 위험 증가”&nbsp;&nbsp;v.daum.net남성호르몬 적은 남성, 60세 이후 골감소증 위험 1.9배 높았다&nbsp;&nbsp;한국일보",
+      "id": "8eebb20cd2e3",
+      "title": "“머리카락 수백분의 1 오차도 잡아낸다” 韓, 초전도 선재 검사기술 첫 개발 - v.daum.net",
+      "published": "2026-09-06T03:02:15+00:00",
+      "summary": "“머리카락 수백분의 1 오차도 잡아낸다” 韓, 초전도 선재 검사기술 첫 개발&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
-          "name": "bokuennews.com",
+          "name": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0Q1dCd2trNm5paWFweDNtWFhLaUo5OUc4NGFHam42Y3A1TXlYbUtuVU1PTVMtc3ZyRHd2YmVfRHJXaHhzTGhnRlN1MlJLc0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da41856eb493",
+      "title": "차세대 심장약, 임상3상 실패에 학계 충격 - DongA Science",
+      "published": "2026-09-06T02:22:00+00:00",
+      "summary": "차세대 심장약, 임상3상 실패에 학계 충격&nbsp;&nbsp;DongA Science",
+      "sources": [
+        {
+          "name": "DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Kdmd3bXI1bGpFNTkyUUxkdzVvckFhMnlMZVg0QmlmTlQzTVJoZ0tSR1dsZURKVEpqQ21ldDdRX1I0azZJVlcwdWJnMDBzTWtQdDQtXw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e020912807e6",
+      "title": "“식후 혈당 치솟아”…백지연, 닭가슴살·샐러드와 먹은 ‘이것’ 뭐길래? - 코메디닷컴",
+      "published": "2026-09-06T02:04:00+00:00",
+      "summary": "“식후 혈당 치솟아”…백지연, 닭가슴살·샐러드와 먹은 ‘이것’ 뭐길래?&nbsp;&nbsp;코메디닷컴“조금만 먹어도 혈당 폭발”… 의사가 ‘공복에 먹지 말라는 음식’, 뭐야?&nbsp;&nbsp;헬스조선혈당 관리에 탁월한 효과… 부모님 건강 선물로 ‘딱’&nbsp;&nbsp;국민일보“출출할 때 야식으로 최고인데”…저녁에 먹으면 혈당 폭등시킨다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제혈당 '쭉' 올리는 의외의 음식들⋯'건강한 대체당' 스테비아 토마토 피해야?&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE91aG5hcHVHZE1VaVdNN0VlOGF0MnhQYXptREFtS1ZXbUpWdmJKSmRUdV9zREVIQ19CS2Q1bl9mNm9BQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9687fbd941d7",
+      "title": "남성호르몬·비타민D 떨어지면 갱년기 골다공증 위험 증폭 - 보건신문",
+      "published": "2026-09-06T01:53:39+00:00",
+      "summary": "남성호르몬·비타민D 떨어지면 갱년기 골다공증 위험 증폭&nbsp;&nbsp;보건신문골다공증은 여성만? 남성도 비타민D 부족하면 위험&nbsp;&nbsp;헬스조선'이것' 부족한 갱년기 남성…\"골감소 위험 1.9배↑\"&nbsp;&nbsp;뉴시스서울성모병원, “남성호르몬·비타민D 부족 시 고관절 골밀도 저하 위험 증가”&nbsp;&nbsp;v.daum.net남성호르몬 적은 남성, 60세 이후 골감소증 위험 1.9배 높았다&nbsp;&nbsp;한국일보",
+      "sources": [
+        {
+          "name": "보건신문",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IRExFMU1naGdfNkdWUldpNHJQelc1MEhLWnhURUVpTnlNd1U2TGZjWVdBbDY4Yy0yWHQtdVpJNVVmY1dTZ08zZ2I1X08yWERmVkhwTEQtN2hscHdwYlgzaERKYw?oc=5"
         }
       ]
@@ -753,7 +801,7 @@
       "id": "9061d846874a",
       "title": "돼지 신장으로 버티고 인간 신장 이식…'가교 치료' 첫 성공 - DongA Science",
       "published": "2026-09-06T01:24:00+00:00",
-      "summary": "돼지 신장으로 버티고 인간 신장 이식…'가교 치료' 첫 성공&nbsp;&nbsp;DongA Science돼지 신장으로 9개월 버티고, 사람 신장 이식까지 성공&nbsp;&nbsp;v.daum.net돼지 신장을 인간에게 이식하는 데 성공한 최초의 사례.&nbsp;&nbsp;Vietnam.vn돼지 신장으로 ‘9개월’ 살고 다시 인간 신장 이식받아...최초 성공 사례&nbsp;&nbsp;munhwa.com",
+      "summary": "돼지 신장으로 버티고 인간 신장 이식…'가교 치료' 첫 성공&nbsp;&nbsp;DongA Science돼지 신장으로 9개월 버티고, 사람 신장 이식까지 성공&nbsp;&nbsp;v.daum.net돼지 신장을 인간에게 이식하는 데 성공한 최초의 사례.&nbsp;&nbsp;Vietnam.vn돼지 신장으로 ‘9개월’ 살고 다시 인간 신장 이식받아...최초 성공 사례&nbsp;&nbsp;문화일보",
       "sources": [
         {
           "name": "DongA Science",
