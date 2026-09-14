@@ -1,0 +1,88 @@
+---
+layout: default
+title: Ursodeoxycholic Acid
+parent: 僅模型預測 (L5)
+nav_order: 713
+evidence_level: L5
+indication_count: 1
+---
+
+# Ursodeoxycholic Acid
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **1** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Ursodeoxycholic Acid: 담즙정체성 간질환에서 동형접합 가족성 고콜레스테롤혈증(HoFH)으로
+
+## 한 문장 요약
+
+우르소데옥시콜산(UDCA)은 담즙산 대사 조절과 FXR 활성화를 통해 담즙정체성 간질환 치료에 사용되어 온 약물입니다.
+TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Familial Hypercholesterolemia, HoFH)**에 효과가 있을 수 있다고 예측했으나,
+이를 뒷받침하는 임상시험이나 문헌 근거는 현재 확인되지 않으며, 예측 자체도 기전적으로 취약하다는 평가가 함께 제시되어 있습니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 담즙정체성 간질환 (한국 허가 정보 없음) |
+| 예측 신규 적응증 | 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia, HoFH) |
+| TxGNN 예측 점수 | 99.86% |
+| 근거 수준 | L5 (모델 예측만 존재, 실제 연구 없음) |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터는 확보되어 있지 않습니다. 다만 제공된 예측 근거에 따르면, UDCA는 담즙산 풀(pool)의 조성을 변화시키고 FXR을 활성화하며 LXR 관련 지질 합성 경로를 간접적으로 조절하는 방식으로 담즙정체성 간질환에 사용되어 왔습니다.
+
+그러나 HoFH의 병태생리는 LDL 수용체(LDLR)의 기능 상실 또는 결핍이며, 치료 역시 LDLR 비의존적 경로(고용량 스타틴, PCSK9 억제제, lomitapide, evinacumab, 지단백 분리술 등)에 의존합니다. UDCA가 LDLR 발현이나 활성에 직접적으로 관여한다는 근거는 확인되지 않으며, 이번 예측은 TxGNN 지식그래프 상의 연관성 점수(0.9986)에 기반한 추론일 뿐, HoFH 특유의 수용체 결함을 보완할 실질적인 생물학적 경로가 제시되어 있지 않습니다. 따라서 기전적 타당성은 약한 것으로 평가됩니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+근거 수준이 L5(모델 예측만 존재)이며 이를 뒷받침할 임상시험이나 문헌이 전무합니다. 제시된 기전 연관성 분석 자체도 HoFH의 핵심 병태생리(LDLR 결함)와 UDCA의 작용 기전 간 직접적 연결고리가 부족하다고 명시하고 있어, 현 단계에서는 예측의 타당성을 뒷받침할 근거가 충분하지 않습니다.
+
+**진행하려면 필요한 것:**
+- UDCA의 상세 작용 기전(MOA) 데이터 확보
+- 규제기관 발행 안전성 자료(경고, 금기사항) 확보 — 현재 Blocking 등급의 데이터 공백으로 안전성 초기평가(S1) 진입이 불가한 상태
+- HoFH 또는 지질대사 관련 전임상/기전 연구 확인
+- LDLR 비의존적 경로에서 UDCA의 작용 가능성을 뒷받침할 추가 문헌 조사
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

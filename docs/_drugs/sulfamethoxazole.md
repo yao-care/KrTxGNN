@@ -1,0 +1,90 @@
+---
+layout: default
+title: Sulfamethoxazole
+parent: 僅模型預測 (L5)
+nav_order: 649
+evidence_level: L5
+indication_count: 1
+---
+
+# Sulfamethoxazole
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **1** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Sulfamethoxazole: 적응증 정보 없음에서 급성 전염성 결막염으로
+
+## 한 문장 요약
+
+Sulfamethoxazole은 한국에 허가된 제품이 없어 기존 적응증 정보가 확인되지 않습니다.
+TxGNN 모델은 **급성 전염성 결막염(Acute Contagious Conjunctivitis)**에 효과가 있을 수 있다고 예측하며,
+현재 관련 임상시험은 없고 **문헌 1편**만이 이 방향과 간접적으로 관련되어 있습니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (한국 허가 이력 없음) |
+| 예측 신규 적응증 | 급성 전염성 결막염 (Acute Contagious Conjunctivitis) |
+| TxGNN 예측 점수 | 99.63% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터가 없습니다. Sulfamethoxazole은 설파계열(sulfonamide) 항균제로 널리 알려져 있으며, 세균의 엽산 합성 경로를 억제하여 항균 효과를 나타내는 기전을 가집니다.
+
+결막염 중 세균성 결막염은 항균제 치료가 필요한 감염 질환이므로, 항균 기전상 이론적으로는 적용 가능성이 있습니다. 다만 이번 Evidence Pack에는 한국 내 기존 허가 적응증이 전혀 없고, 이 예측을 직접 뒷받침하는 임상시험이나 sulfamethoxazole 자체를 결막염 치료제로 시험한 연구도 확인되지 않아, 기전상 가능성 이상의 근거는 부족한 상태입니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [31788487](https://pubmed.ncbi.nlm.nih.gov/31788487/) | 2019 | 후향적 관찰연구 | Medical Hypothesis, Discovery & Innovation Ophthalmology Journal | 그리스 서부 소아 급성 세균성 결막염의 원인균 및 항생제 감수성 패턴을 후향적으로 분석한 연구. Sulfamethoxazole의 직접적인 치료 효과를 검증한 연구는 아님 |
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+한국 내 허가 및 시판 이력이 없고, 안전성 경고·금기·DDI 정보가 모두 확인되지 않아 초기 안전성 평가(S1) 자체가 불가능합니다. 또한 예측을 뒷받침하는 임상시험이 전무하고, 유일한 문헌도 sulfamethoxazole의 치료 효과를 직접 검증한 연구가 아니어서 근거 수준이 낮습니다(L5).
+
+**진행하려면 필요한 것:**
+- 식약처(MFDS) 원제제 첨부문서 또는 해외 허가국 첨부문서 확보 (경고·금기 정보)
+- DrugBank 등에서 상세 작용 기전(MOA) 데이터 보완
+- Sulfamethoxazole(또는 병용제 co-trimoxazole)의 세균성 결막염 치료 관련 임상시험·증례 문헌 추가 조사
+- 안구 국소 투여 가능 제형 여부 확인 (현재 투여 경로 데이터 없음)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

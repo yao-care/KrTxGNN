@@ -1,0 +1,103 @@
+---
+layout: default
+title: Silodosin
+parent: 僅模型預測 (L5)
+nav_order: 635
+evidence_level: L5
+indication_count: 6
+---
+
+# Silodosin
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **6** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+Using the `writer` domain skill implicitly (no formal skill matched) — proceeding directly with report per prompt spec, since evidence pack shows a clear negative/Hold case.
+
+# Silodosin: 하부요로 질환(추정)에서 Ambras형 선천성 전신 다모증으로
+
+## 한 문장 요약
+
+Silodosin은 α1A 아드레날린 수용체 선택적 길항제로, 전립선과 하부요로 평활근에 작용하는 약물입니다(공식 기존 적응증 기록은 없음 — 아래 참조).
+TxGNN 모델은 **Ambras형 선천성 전신 다모증(Ambras type hypertrichosis universalis congenita)**에 효과가 있을 수 있다고 예측했으나, 이를 뒷받침하는 **임상시험이나 문헌은 전혀 없으며**, 근거 자료 자체가 "생물학적 연관성 없음"이라고 명시하고 있습니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 공식 기록 없음 (한국 미상시, 허가증 0건). 기전 설명상 전립선/하부요로 평활근 관련 약물로 추정 |
+| 예측 신규 적응증 | Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) |
+| TxGNN 예측 점수 | 99.99% (rank 425) |
+| 근거 수준 | L5 (모델 예측만 존재, 임상/문헌 근거 없음) |
+| 한국 시판 현황 | 미상시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 Silodosin의 상세한 작용 기전(MOA) 공식 데이터는 없습니다([Data Gap]). 다만 근거 자료의 기전 설명에 따르면, Silodosin은 선택적 α1A 아드레날린 수용체 길항제로 전립선과 하부요로 평활근에 주로 작용하는 약물로 파악됩니다.
+
+Ambras형 다모증은 8번 염색체 재배열과 관련된 희귀 상염색체 우성 유전 질환으로, 모낭 성장 조절과 관련된 유전자 경로에 의해 발생합니다. **근거 자료 자체가 명시하듯, α1A 수용체 신호전달과 모낭 성장 조절 사이에는 알려진 생물학적 연관성이 없습니다.** 이 예측은 TxGNN의 임베딩 유사도 기반 패턴 매칭 결과이며, 기전적으로 뒷받침되지 않습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 기타 예측 적응증 후보 (참고)
+
+이번 Evidence Pack에는 rank 1 외에 5건의 추가 예측이 포함되어 있으나, 모두 동일하게 근거 수준 L5·권장 Hold이며, 기전적 연관성이 부정되는 소견입니다.
+
+| 순위 | 예측 질환 | TxGNN 점수 | 비고 |
+|------|----------|-----------|------|
+| 2 | Hypertrichosis (disease) | 99.99% | Rank 1과 동일 사유로 기전 근거 없음 |
+| 3 | 치아/치주 발생 이상 동반 기형 증후군 | 99.99% | 문헌 20편 존재하나 전부 일반 치주염 리뷰로, 약물 특이적 근거 아님 (질환 노드 수준의 비특이적 공출현 매칭) |
+| 4 | Dandy-Walker 기형 동반 증후군 | 99.98% | 신경관 발생 경로 관련, α1A 길항작용과 무관 |
+| 5 | 고립성 유전성 모간 이상 | 99.98% | 각질/모낭 구조 유전자 결함 관련, 무관 |
+| 6 | 가족성 고립성 속눈썹비대증 | 99.23% | 순위(rank 11838)가 낮고 기전 근거 없음 |
+
+## 안전성 고려사항
+
+안전성 정보(경고, 금기, 약물상호작용)가 확보되지 않았습니다([Data Gap]). 한국에 미상시 상태이므로 국내 허가사항도 참조할 수 없습니다.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- 6개 예측 적응증 모두 L5(모델 예측만 존재) 근거 수준이며, 임상시험·특이적 문헌이 전무합니다.
+- Rank 1 예측(Ambras형 다모증)은 근거 자료 자체가 "α1A 수용체 경로와 모낭 성장 조절 사이 생물학적 연관성 없음"이라고 명시하고 있어, 기전적으로 진행 불가한 예측입니다.
+- Rank 3에 문헌 20편이 있으나 전부 일반 치주염 리뷰로, 약물 특이적 근거가 아닌 질환 노드 수준의 비특이적 매칭입니다.
+- 한국 미상시(허가증 0건)로 즉시 임상 적용 경로도 없습니다.
+
+**진행하려면 필요한 것:**
+- Silodosin 공식 MOA 및 TFDA/MFDS 수준 안전성 자료(경고·금기) 확보 — 현재 Blocking 수준 데이터 갭(DG001)
+- Ambras형 다모증 및 관련 후보 질환에 대한 α1A 수용체 경로 관련 전임상 문헌 재탐색
+- 이 예측군은 현 시점에서 추가 자원 투입보다 다른 후보 우선 검토 권장
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

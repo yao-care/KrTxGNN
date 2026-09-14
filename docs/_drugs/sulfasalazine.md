@@ -1,0 +1,102 @@
+---
+layout: default
+title: Sulfasalazine
+parent: 僅模型預測 (L5)
+nav_order: 650
+evidence_level: L5
+indication_count: 10
+---
+
+# Sulfasalazine
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Sulfasalazine: 국내 미승인 적응증에서 단지증-합지증 증후군으로
+
+## 한 문장 요약
+
+Sulfasalazine은 해외에서 류마티스 관절염, 염증성 장질환 등에 사용되는 항염증제(DMARD)이나, 국내(한국) 허가 정보는 확인되지 않습니다.
+TxGNN 모델은 **단지증-합지증 증후군(Brachydactyly-Syndactyly Syndrome)**에 효과가 있을 수 있다고 예측했으나,
+현재 이를 뒷받침하는 **임상시험이나 문헌은 전혀 없으며**, 모델 예측 점수만 존재합니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 국내 허가 정보 없음 (해외에서는 류마티스 관절염, 염증성 장질환 등에 사용) |
+| 예측 신규 적응증 | 단지증-합지증 증후군 (Brachydactyly-Syndactyly Syndrome) |
+| TxGNN 예측 점수 | 99.94% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전 데이터가 없습니다. Sulfasalazine은 항염증/면역조절 기전(NF-κB 억제, 프로스타글란딘·류코트리엔 생성 감소 등)으로 잘 알려진 약물이지만, 이는 류마티스 관절염이나 장질환과 같은 만성 염증성 질환에 적용되는 기전입니다.
+
+단지증-합지증 증후군은 골격 발생과 관련된 희귀 유전 질환으로, sulfasalazine의 항염증/면역조절 기전과 생물학적으로 직접 연결되는 지점이 확인되지 않습니다. 이 예측은 TxGNN 모델의 통계적 점수에만 기반하며, 임상적·기전적 근거는 뒷받침되지 않습니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+이 예측은 TxGNN 모델 점수(99.94%) 외에 임상시험, 문헌, 기전적 근거가 전혀 없는 순수 모델 예측(L5)입니다. 예측 대상 질환(희귀 골격 발생 유전질환)과 약물의 알려진 항염증 기전 사이에 생물학적 연결고리도 확인되지 않았습니다.
+
+**진행하려면 필요한 것:**
+- 단지증-합지증 증후군과 sulfasalazine 간 기전적 가설을 뒷받침할 전임상/문헌 근거
+- TFDA(또는 국내 식약처) 허가사항 상 경고·금기 정보 확보 (현재 Blocking 등급 데이터 갭, DG001)
+- Sulfasalazine의 상세 작용 기전(MOA) 데이터 보완 (High 등급 데이터 갭, DG002)
+- 국내 허가·시판 현황 확인 (현재 미시판, 허가증 0건)
+
+> 참고: 동일 Evidence Pack 내 5위 후보인 골관절염(Osteoarthritis, L3, Research Question)과 8위 척추관절병증 감수성(Spondyloarthropathy susceptibility, L3, Proceed with Guardrails)은 상대적으로 문헌·기전 근거가 존재하므로, 별도 평가 시 우선순위가 더 높을 수 있습니다.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

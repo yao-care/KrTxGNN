@@ -1,0 +1,112 @@
+---
+layout: default
+title: Trimethoprim
+parent: 僅模型預測 (L5)
+nav_order: 707
+evidence_level: L5
+indication_count: 2
+---
+
+# Trimethoprim
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **2** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# TRIMETHOPRIM: 세균 감염증에서 점상 상피성 각결막염으로
+
+## 한 문장 요약
+
+Trimethoprim은 dihydrofolate reductase(DHFR) 억제제로 작용하는 항균제 계열 약물입니다.
+TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjunctivitis)**에 효과가 있을 수 있다고 예측했으나,
+현재 이를 뒷받침하는 **임상시험이나 문헌은 전혀 없습니다**.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 데이터 없음 (한국 미출시, 세균 감염증 치료용 항균제로 추정) |
+| 예측 신규 적응증 | 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) |
+| TxGNN 예측 점수 | 99.57% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+DrugBank 상의 상세 작용 기전(MOA) 데이터는 현재 확보되지 않았습니다(데이터 갭). 다만 근거 자료에 따르면 Trimethoprim은 세균의 dihydrofolate reductase를 억제하여 엽산 합성을 차단하는 항균제이며, 항균 스펙트럼은 세균을 표적으로 합니다.
+
+문제는 점상 상피성 각결막염의 흔한 원인이 바이러스성(예: 아데노바이러스) 또는 면역 관련 질환이라는 점입니다. 항균 기전과 이 적응증 사이의 인과관계는 근거가 약하며, 이번 예측은 TxGNN 그래프 유사도에 기반한 추론일 뿐 실험적·임상적 자료의 뒷받침이 없습니다.
+
+즉, 기전상 직접적인 연관성을 설명하기 어려운 예측이며, 추가 검증 없이는 임상적 타당성을 판단할 수 없습니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+---
+
+## 한국 시판 정보
+
+현재 한국에 허가된 Trimethoprim 제품이 없습니다 (미출시).
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+근거 수준이 L5로, TxGNN 모델 예측 외에 임상시험이나 문헌 근거가 전무합니다. 항균 기전과 점상 상피성 각결막염(주로 바이러스성·면역성 원인) 간의 인과관계도 약하여, 현 단계에서는 진행을 보류하는 것이 타당합니다.
+
+**진행하려면 필요한 것:**
+- MOA 데이터 보완 (DrugBank API 조회를 통한 상세 작용 기전 확인)
+- 최소 전임상 또는 기전 연구를 통한 인과적 타당성 검증
+- TFDA/식약처 허가사항 상 경고·금기 정보 확보 (현재 Blocking 데이터 갭)
+- 한국 내 시판 및 허가 현황 확인
+
+---
+
+> **참고:** 동일 Evidence Pack 내 2순위 예측인 **결막염(Conjunctivitis)** 적응증은 근거 수준 **L2**로, Phase 4 head-to-head 임상시험(NCT00581542, trimethoprim+polymyxin B 안약 vs moxifloxacin)과 다수의 문헌(RCT 포함)이 뒷받침하며 권장 결정은 **Proceed with Guardrails**입니다. 세균성 결막염 국소 치료(Polytrim 안약)로서는 이미 여러 국가에서 표준 치료로 사용되고 있어, 재창출 후보로서 실질적으로 더 유망합니다. 별도 보고서 작성을 권장합니다.
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

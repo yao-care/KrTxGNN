@@ -1,0 +1,91 @@
+---
+layout: default
+title: Topiramate
+parent: 僅模型預測 (L5)
+nav_order: 687
+evidence_level: L5
+indication_count: 9
+---
+
+# Topiramate
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **9** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Topiramate: 뇌전증에서 삼차신경 종양으로
+
+## 한 문장 요약
+
+Topiramate는 나트륨 채널 차단, GABA 증강, AMPA/카이네이트 수용체 길항 작용을 가진 광범위 항경련제로, 뇌전증(간질) 치료에 널리 사용되어 온 약물입니다. TxGNN 모델은 **삼차신경 종양(Trigeminal Nerve Neoplasm)**에 효과가 있을 수 있다고 예측(점수 99.70%)했지만, 이를 뒷받침하는 **임상시험이나 문헌은 전무**하며, 예측 근거 자체가 "삼차신경통(통증)"과 "삼차신경 종양(종양)"을 혼동했을 가능성을 지적하고 있어 신뢰도가 매우 낮습니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 뇌전증(간질) — 광범위 항경련제 (한국 허가 정보 없음) |
+| 예측 신규 적응증 | 삼차신경 종양 (Trigeminal Nerve Neoplasm) |
+| TxGNN 예측 점수 | 99.70% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | ✗ 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+TxGNN 모델은 Topiramate가 나트륨 채널 차단, GABA-A 수용체 증강, AMPA/카이네이트 수용체 길항이라는 다중 기전을 가진 광범위 항경련제이며, 뇌전증·편두통·신경병증성 통증에 사용된다는 점에 착안해 이 예측을 산출한 것으로 보입니다. 그러나 이 기전은 신경 흥분성 조절에 관한 것으로, 종양(신생물) 성장 억제와는 직접적인 연관이 확인되지 않습니다.
+
+평가 근거 자료에 명시된 바에 따르면, 이 예측은 지식그래프 임베딩 상에서 **"삼차신경통(trigeminal neuralgia, 통증 증상)"과 "삼차신경 종양(trigeminal nerve neoplasm, 종양성 질환)"이라는 명칭이 유사한 두 개념을 혼동**했을 가능성이 높습니다. 즉, 높은 예측 점수가 실제 약리학적 타당성보다는 언어적 유사성에서 비롯되었을 수 있다는 뜻입니다. 상세 MOA 데이터베이스(DrugBank API 조회 등)가 미비한 상태(Data Gap)라 이 가설을 정량적으로 검증하기는 아직 어렵습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 한국 시판 정보
+
+이 약물은 한국에서 **미시판** 상태이며, 등록된 허가증이 없습니다(허가증 수: 0건).
+
+## 안전성 고려사항
+
+이 약물은 한국 미시판 상태로 국내 허가사항(경고, 금기, 약물 상호작용) 정보가 확보되어 있지 않습니다. 진행 시 TFDA(식약처) 원본 자료 확보가 선행되어야 합니다.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- Rank 1 예측(삼차신경 종양)은 임상시험·문헌 근거가 전무한 L5 수준이며, 기전적으로도 근거가 박약합니다. 평가 근거 자체에 모델이 '신경통'과 '종양'을 혼동했을 가능성이 명시되어 있어, 현시점에서 이 적응증으로 진행할 근거가 없습니다.
+- 참고로 같은 평가 팩 내 다른 예측 후보들(예: Rank 2 visual epilepsy — L3/S2, Rank 5 thinking seizures — L3/S2, Rank 9 reading seizures — L3/S2)은 반사성 뇌전증 아형으로서 Topiramate의 항경련 기전과 부합하며, GAERS/WAG 동물모델 및 광과민성 전신 뇌전증 문헌의 뒷받침을 받고 있어 오히려 "Research Question" 단계로 우선 검토할 가치가 더 높습니다.
+
+**진행하려면 필요한 것:**
+- MFDS(한국 식약처) 허가사항 및 경고/금기 정보 확보 (Blocking 항목, S1 안전성 초평 진입 필수 조건)
+- DrugBank API를 통한 Topiramate 상세 작용기전(MOA) 데이터 확보
+- 삼차신경 종양 적응증에 대해서는 전임상/기전 연구 없이는 추가 진행 보류, KG 예측 재검증 권장
+- 대안으로 반사성 뇌전증 아형(visual epilepsy, thinking seizures, reading seizures) 후보를 우선순위로 재평가할 것을 권장
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

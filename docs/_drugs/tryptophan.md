@@ -1,0 +1,116 @@
+---
+layout: default
+title: Tryptophan
+parent: 僅模型預測 (L5)
+nav_order: 710
+evidence_level: L5
+indication_count: 8
+---
+
+# Tryptophan
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **8** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Tryptophan: 아미노산 보충제에서 하지불안증후군으로
+
+## 한 문장 요약
+
+Tryptophan은 필수 아미노산으로서 세로토닌·멜라토닌의 전구물질이며, 한국 내 정식 허가 제품은 확인되지 않았습니다(미시판).
+TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 있을 수 있다고 예측하며, 현재 관련 임상시험 등록은 없으나 **8편의 문헌**이 이 방향을 부분적으로 지지합니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 확인된 허가 적응증 없음 (필수 아미노산/세로토닌 전구물질로 일반 공지) |
+| 예측 신규 적응증 | 하지불안증후군 (Restless Legs Syndrome) |
+| TxGNN 예측 점수 | 99.72% |
+| 근거 수준 | L3 |
+| 한국 시판 현황 | 미시판 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Tryptophan은 필수 아미노산이자 세로토닌의 전구물질로서 중추신경계의 세로토닌·도파민 시스템 조절에 관여합니다.
+
+하지불안증후군(RLS)의 병태생리에는 세로토닌·도파민 시스템 이상이 관여하는 것으로 알려져 있어, 기전상 Tryptophan이 RLS에 적용될 가능성이 제기됩니다. 실제로 리튬염 및 세로토닌 관련 항우울제가 RLS를 유발한 사례 보고들이 이 경로의 연관성을 간접적으로 뒷받침합니다.
+
+1980~90년대에는 L-tryptophan을 RLS 치료에 직접 시험한 소규모 임상연구가 존재했으나, 이후 최신 무작위대조시험(RCT)이나 임상시험 등록 근거는 확인되지 않아 근거가 오래되고 제한적입니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [3953904](https://pubmed.ncbi.nlm.nih.gov/3953904/) | 1986 | 소규모 임상시험 | Am J Psychiatry | L-tryptophan을 RLS 치료에 사용한 초기 소규모 임상연구 |
+| [3659737](https://pubmed.ncbi.nlm.nih.gov/3659737/) | 1987 | 코호트/임상연구 | Sleep | 주기성 사지운동에서 L-dopa, 5-HTP, L-tryptophan의 비교 연구 |
+| [1305630](https://pubmed.ncbi.nlm.nih.gov/1305630/) | 1992 | Review | Int J Neuroscience | 세로토닌 시스템 이상이 파킨슨병, 좌불안석증 등 운동장애 관련 신경질환 병태생리와 연관됨을 검토 |
+| [32546134](https://pubmed.ncbi.nlm.nih.gov/32546134/) | 2020 | 코호트 (약물감시) | BMC Psychiatry | 세계약물감시 데이터베이스 분석 결과 항우울제(세로토닌 관련) 계열별로 운동장애 유발 위험이 다르게 나타남 |
+| [33836477](https://pubmed.ncbi.nlm.nih.gov/33836477/) | 2021 | Review/메타분석 | Sleep Medicine Reviews | 만성 간질환 환자에서 트립토판 수치 상승 등 대사 변화가 RLS 유발과 연관될 가능성 제시 |
+| [36897462](https://pubmed.ncbi.nlm.nih.gov/36897462/) | 2023 | Case report | Neurological Sciences | DNAJC12 결핍(유전성 대사질환)에서 도파민성·세로토닌성 신경전달 장애와 RLS 발현 사례 |
+| [1777530](https://pubmed.ncbi.nlm.nih.gov/1777530/) | 1991 | Case report | Biological Psychiatry | 리튬 투여로 유발된 RLS 사례 보고 |
+| [2881477](https://pubmed.ncbi.nlm.nih.gov/2881477/) | 1987 | Review (간접 관련) | Am Fam Physician | 불면증 감별진단과 치료에 관한 개괄적 리뷰 |
+
+---
+
+## 한국 시판 정보
+
+한국 내 허가된 제품이 확인되지 않았습니다 (미시판, 허가증 0건).
+
+---
+
+## 안전성 고려사항
+
+안전성 관련 세부 자료(경고, 금기, 약물상호작용)가 확보되지 않았습니다. 한국 내 미시판 약물로 공식 허가사항이 없어, 안전성 평가를 위해서는 별도의 자료 확보가 필요합니다.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+RLS에 대한 기전적 타당성과 1980~90년대 소규모 임상연구는 존재하나, 최신 RCT나 임상시험 등록 근거가 부재합니다. 또한 한국 내 허가 정보(경고·금기)와 작용기전(MOA) 데이터가 모두 확보되지 않아 안전성 초기 평가(S1) 단계로 진행할 수 없는 차단 요인(Blocking data gap)이 존재합니다.
+
+**진행하려면 필요한 것:**
+- 한국 식약처(MFDS) 허가사항 및 경고·금기 정보 확보 (차단 요인)
+- DrugBank 등에서 상세 작용기전(MOA) 데이터 확보
+- 약물상호작용(DDI) 데이터 확인
+- RLS 적응증에 대한 최신 임상시험 계획 또는 등록 여부 확인 (1980년대 소규모 연구 이후 최신 근거 부재)
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

@@ -1,0 +1,128 @@
+---
+layout: default
+title: Temsirolimus
+parent: 僅模型預測 (L5)
+nav_order: 664
+evidence_level: L5
+indication_count: 3
+---
+
+# Temsirolimus
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **3** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Temsirolimus: 적응증 정보 없음에서 지방육종(Liposarcoma)으로
+
+## 한 문장 요약
+
+Temsirolimus는 국내 허가 이력 및 원 적응증 정보가 확인되지 않는 mTOR 억제제 계열 약물입니다.
+TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 예측하며,
+현재 **5건의 임상시험**(그중 2건은 temsirolimus 본제제 직접 근거)과 **1편의 문헌**이 이 방향을 지지합니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (허가 이력 없음, 원 적응증 데이터 미확보) |
+| 예측 신규 적응증 | 지방육종 (Liposarcoma) |
+| TxGNN 예측 점수 | 99.54% |
+| 근거 수준 | L2 |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터는 확보되지 않았습니다(자료 공백, High 심각도). 다만 근거 자료에 포함된 기전적 추론에 따르면, Temsirolimus는 mTOR 억제제 계열 약물로 분류되며, 지방육종(특히 고분화/탈분화형)에서 흔히 관찰되는 PI3K/AKT/mTOR 경로 활성화 및 MDM2/CDK4 증폭과 관련이 있습니다. mTOR 억제는 이러한 종양의 증식과 혈관신생을 억제할 가능성이 있습니다.
+
+이는 단독 추론이 아니라, sirolimus·everolimus·ridaforolimus 등 동일 계열 mTOR 억제제가 이미 연조직육종 치료에서 활발히 탐색되고 있다는 임상 개발 흐름과도 일치합니다. 특히 Temsirolimus(상품명 Torisel) 자체를 직접 사용한 완료된 임상시험이 2건 존재하여, 단순 기전 유추를 넘어선 실제 임상 근거를 일부 확보하고 있습니다.
+
+다만 국내 허가·시판 이력이 전혀 없고(0건), TFDA 수준의 경고/금기 정보 및 상세 MOA 자료가 모두 공백 상태이므로, 기전적 타당성과 별개로 규제·안전성 검토는 초기 단계에 머물러 있습니다.
+
+---
+
+## 임상시험 근거
+
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT01614795](https://clinicaltrials.gov/study/NCT01614795) | Phase 2 | 완료 | 46 | Cixutumumab + Temsirolimus 병용, 재발성/불응성 육종 소아 환자 대상. Temsirolimus 본제제 직접 근거 |
+| [NCT00949325](https://clinicaltrials.gov/study/NCT00949325) | Phase 1/2 | 완료 | 24 | Torisel(Temsirolimus) + 리포좀 독소루비신 병용, 진행성 연조직/골육종 대상 안전 용량 및 유효성 평가. 직접 근거 |
+| [NCT00093080](https://clinicaltrials.gov/study/NCT00093080) | Phase 2 | 완료 | 216 | mTOR 억제제 ridaforolimus(AP23573) 단독요법, 진행성 육종. 동일 기전 계열 근거(간접) |
+| [NCT02821507](https://clinicaltrials.gov/study/NCT02821507) | Phase 2 | 완료 | 70 | Sirolimus + 사이클로포스파마이드 병용, 전이성/절제불가능 점액성 지방육종·연골육종. 동일 기전 계열 근거(간접) |
+| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | 활동 중(모집 종료) | 48 | Ribociclib + Everolimus 병용, 진행성 탈분화 지방육종·평활근육종. 일부 기전 관련(관련성 낮음) |
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [20497911](https://pubmed.ncbi.nlm.nih.gov/20497911/) | 2010 | Review | Bulletin du cancer | 희귀 결합조직 종양 및 육종의 표적치료 개관. 분자·조직학적 아형 분류 및 표적치료 전략 논의 |
+
+---
+
+## 한국 시판 정보
+
+현재 한국에 등재된 허가 정보가 없습니다 (미출시, 허가증 0건).
+
+---
+
+## 세포독성
+
+| 항목 | 내용 |
+|------|------|
+| 세포독성 분류 | 표적치료제 (mTOR 억제제, kinase inhibitor 계열) |
+| 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |
+
+---
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+---
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+지방육종에 대해 Temsirolimus 본제제를 직접 사용한 완료된 임상시험 2건(L2 수준)을 포함해 기전적 타당성은 확인되지만, TFDA 수준의 경고·금기 정보(Blocking 등급 자료 공백)가 전혀 없어 초기 안전성 평가(S1)를 진행할 수 없습니다. 국내 허가·시판 이력도 전무하여(0건), 현 시점에서 진행을 권장하기 어렵습니다.
+
+**진행하려면 필요한 것:**
+- TFDA(또는 식약처) 공식 라벨/경고문 확보 및 파싱 (DG001, Blocking)
+- DrugBank API를 통한 상세 작용 기전(MOA) 데이터 확보 (DG002, High)
+- 약물 상호작용(DDI) 데이터 재조사
+- 국내 허가 가능성 및 원 적응증(해외 승인 현황 포함) 확인
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

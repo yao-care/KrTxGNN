@@ -1,0 +1,107 @@
+---
+layout: default
+title: Trifarotene
+parent: 僅模型預測 (L5)
+nav_order: 703
+evidence_level: L5
+indication_count: 10
+---
+
+# Trifarotene
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **10** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Trifarotene: 적응증 정보 미기재에서 혈장 아연 상승(Zinc, elevated plasma)으로
+
+## 한 문장 요약
+
+Trifarotene(DrugBank DB12808)은 RARγ 선택적 국소 레티노이드 계열 약물로 추정되나, 이번 Evidence Pack에는 기존 승인 적응증 및 작용 기전(MOA) 데이터가 확보되지 않았습니다. TxGNN 모델은 **혈장 아연 상승(Zinc, elevated plasma)**을 최상위 후보로 예측했으나(점수 99.40%), 이를 뒷받침하는 임상시험이나 문헌은 **0건**이며, 모델 자체 근거 검토에서도 "생물학적 타당성이 없다"고 평가되었습니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (drugbank 필드 미기재, 국내 허가 데이터 없음) |
+| 예측 신규 적응증 | 혈장 아연 상승 (Zinc, elevated plasma) |
+| TxGNN 예측 점수 | 99.40% |
+| 근거 수준 | L5 (모델 예측만 존재, 실제 연구 없음) |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전 데이터가 없습니다(Data Gap). Evidence Pack에 포함된 다른 예측 후보들의 기전 설명을 참고하면, Trifarotene은 RARγ에 고도로 선택적인 국소 레티노이드로서 여드름 치료제로 알려져 있는 것으로 보이나, 이는 정식 등록된 `original_indications` 필드가 아닌 부수적 서술에서 확인된 내용이며 공식 규제 승인 정보로 확정할 수 없습니다.
+
+1위 후보인 혈장 아연 상승에 대해서는, 모델 자체의 기전 분석에서 "RARγ 선택적 국소 비타민 A산과 혈장 아연 농도 이상을 연결할 알려진 약리 기전이 없으며, 이 예측은 생물학적 타당성이 결여되어 있다"고 명시하고 있습니다. 즉 이 예측은 지식그래프상의 통계적 연관성에 기반한 것으로, 실제 약리학적 근거는 확인되지 않았습니다.
+
+### 참고: 상위 10개 예측 후보 전체 개요
+
+| 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 기전 타당성 (평가 요약) |
+|------|-----------|-----------|----------|------------------------|
+| 1 | Zinc, elevated plasma | 99.40% | L5 | 없음 — 생물학적 타당성 결여 |
+| 2 | PAPA 증후군 | 99.32% | L5 | 표면적 유사성만 있음, 실제 병인 불일치 |
+| 3 | Demodicidosis of sebaceous gland | 98.42% | L5 | 간접적 기전 가능성, 임상 근거 없음 |
+| 4 | Spondyloarthropathy, susceptibility to | 98.26% | L5 | 없음 — 자가면역 기전과 무관 |
+| 5 | Malaria | 97.57% | L5 | 없음 — 기생충 감염과 무관 |
+| 6 | Zollinger-Ellison syndrome | 95.96% | L5 | 없음 |
+| 7 | Ehlers-Danlos syndrome | 95.53% | L5 | 매우 약함 — 유전적 결합조직 질환 |
+| 8 | Beare-Stevenson cutis gyrata syndrome | 94.26% | L5 | 이론적 가능성만 존재, 근거 없음 |
+| 9 | Isolated congenital adermatoglyphia | 94.14% | L5 | 없음 — 발달성 질환 |
+| 10 | Malignant atrophic papulosis | 93.88% | L5 | 없음 — 혈관병증 기전과 무관 |
+
+10개 후보 모두 임상시험·문헌 근거가 전무하며, 근거 수준 L5·권장 Hold로 동일하게 평가되었습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 한국 시판 정보
+
+이 약물은 현재 한국에 등록된 시판 허가가 없습니다 (허가증 0건, 미출시 상태).
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+최상위 예측 후보(혈장 아연 상승)를 포함한 상위 10개 예측 모두 근거 수준 L5(모델 예측만 존재)이며, 뒷받침하는 임상시험·문헌이 전무합니다. 모델 자체의 기전 분석에서도 대부분의 후보가 생물학적 타당성이 부족하다고 명시하고 있어, 현 단계에서 추가 검토를 진행할 근거가 부족합니다.
+
+**진행하려면 필요한 것:**
+- TFDA/식약처 수준의 원 적응증·경고·금기 정보 확보 (DG001, Blocking)
+- DrugBank API를 통한 정식 작용 기전(MOA) 데이터 확보 (DG002, High)
+- 예측 후보 중 기전적으로 상대적으로 개연성 있는 항목(예: 지루선 모낭충증)에 대한 전임상·기전 문헌 탐색
+- 위 데이터 보강 전까지 임상적 우선순위 재평가 보류
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

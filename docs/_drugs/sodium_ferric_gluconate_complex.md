@@ -1,0 +1,88 @@
+---
+layout: default
+title: Sodium Ferric Gluconate Complex
+parent: 僅模型預測 (L5)
+nav_order: 640
+evidence_level: L5
+indication_count: 6
+---
+
+# Sodium Ferric Gluconate Complex
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **6** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# Sodium Ferric Gluconate Complex: 철결핍성 빈혈 치료제에서 중증 비증식성 당뇨병성 망막병증으로
+
+## 한 문장 요약
+
+Sodium Ferric Gluconate Complex(SFGC, DrugBank ID: DB09517)는 문헌상 만성신장질환·혈액투석 환자의 철결핍성 빈혈 치료에 사용되는 정맥주사용 철분 보충제로 알려져 있습니다. TxGNN 모델은 **중증 비증식성 당뇨병성 망막병증(Severe Nonproliferative Diabetic Retinopathy)**에 효과가 있을 수 있다고 예측(점수 99.76%)하지만, 이를 지지하는 **임상시험이나 문헌 근거는 현재 전무**하며 모델 예측 점수만 존재합니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 정보 없음 (공식 허가 데이터 없음; 문헌상 정맥주사용 철분 보충제로 철결핍성 빈혈에 사용) |
+| 예측 신규 적응증 | 중증 비증식성 당뇨병성 망막병증 (Severe Nonproliferative Diabetic Retinopathy) |
+| TxGNN 예측 점수 | 99.76% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전(MOA) 데이터가 없습니다(Data Gap). 알려진 정보에 따르면, SFGC는 비(非)덱스트란계 정맥주사용 철분 보충제로 주로 만성신장질환 및 혈액투석 환자의 철결핍성 빈혈 치료에 사용됩니다.
+
+제공된 근거 자료에 따르면, 철 과부하와 산화 스트레스가 당뇨병성 망막병증의 병리 기전과 이론적으로 연관될 가능성이 언급되지만, 그 방향성이 불분명합니다. 오히려 철분 보충이 Fenton 반응을 통해 산화 스트레스를 악화시켜 망막 미세혈관 손상을 촉진할 수 있다는 우려가 있으며, 철분 치료가 당뇨병성 망막병증을 개선한다는 기전적 근거는 확인되지 않았습니다.
+
+또한 이번 예측 배치에서 함께 제시된 다른 후보 적응증(anaphylaxis, food-dependent exercise-induced anaphylaxis, bronchitis)의 근거를 검토한 결과, 다수가 **약물-이상반응(ADE) 관계가 약물-적응증 관계로 오인식된 사례**로 판단됩니다. 특히 anaphylaxis 항목의 문헌 12편은 전부 SFGC 투여로 인해 아나필락시스양 반응이 "유발"되었다는 안전성 보고이며, "치료"를 지지하는 근거가 아닙니다. 이는 해당 예측 세트 전반의 신뢰도에 대한 주의가 필요함을 시사하며, 당뇨병성 망막병증 후보 역시 유사한 검증이 요구됩니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 안전성 고려사항
+
+공식 경고 및 금기 사항은 확인되지 않았습니다(Data Gap). 다만 근거 문헌 검토 과정에서, SFGC 정맥 투여 시 과민반응(아나필락시스/아나필락시스양 반응) 사례가 반복적으로 보고된 것이 확인되었습니다([PMID 39070458](https://pubmed.ncbi.nlm.nih.gov/39070458/), [PMID 16140521](https://pubmed.ncbi.nlm.nih.gov/16140521/), [PMID 15855210](https://pubmed.ncbi.nlm.nih.gov/15855210/) 등). 이는 공식 허가사항이 아닌 문헌 기반 안전성 신호이므로, 실제 임상 적용 시에는 반드시 최신 허가사항을 확인해야 합니다.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+당뇨병성 망막병증 예측은 TxGNN 모델 점수(99.76%) 외에 임상시험이나 문헌 근거가 전혀 없는 L5 수준이며, 한국 내 시판 이력도 없습니다(허가 0건). 또한 동일 배치의 다른 예측 후보들에서 약물-이상반응 관계가 약물-적응증 관계로 오인식된 정황이 다수 확인되어, 모델 출력 전반의 신뢰도 검증이 선행되어야 합니다.
+
+**진행하려면 필요한 것:**
+- DrugBank API를 통한 MOA(작용 기전) 데이터 확보 (DG002 해소)
+- TFDA/한국 규제기관 허가사항 및 경고·금기 정보 확보 (DG001 해소, S1 안전성 초평 진입 조건)
+- 당뇨병성 망막병증-철 대사 관련 전임상/기전 연구 확보
+- 동일 예측 배치 내 anaphylaxis 계열 후보들에 대한 약물-이상반응 오탐 여부 재검증
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

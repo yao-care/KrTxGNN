@@ -1,0 +1,94 @@
+---
+layout: default
+title: Tranexamic Acid
+parent: 僅模型預測 (L5)
+nav_order: 692
+evidence_level: L5
+indication_count: 1
+---
+
+# Tranexamic Acid
+{: .fs-9 }
+
+證據等級: **L5** | 預測適應症: **1** 個
+{: .fs-6 .fw-300 }
+
+---
+
+## 目錄
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+<div id="pharmacist">
+
+## 藥師評估報告
+
+</div>
+
+# 트라넥삼산(Tranexamic Acid): 지혈 치료제에서 무월경(Amenorrhea)으로
+
+## 한 문장 요약
+
+트라넥삼산(Tranexamic Acid, DB00302)은 항섬유소용해제로 출혈을 억제하는 약물이며, 국내(한국) 허가 정보는 현재 확인되지 않습니다.
+TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 것으로 예측했으나(예측 점수 99.19%), 제공된 문헌 2편은 오히려 **월경과다 치료 및 월경 억제** 상황을 다루고 있어, 기전상 예측 방향과 상충합니다. 관련 임상시험은 없으며, 현 단계에서는 **보류(Hold)**를 권장합니다.
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 데이터 없음 (한국 허가 정보 없음, 원 적응증 미등록) |
+| 예측 신규 적응증 | 무월경 (Amenorrhea) |
+| TxGNN 예측 점수 | 99.19% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | 미출시 |
+| 허가증 수 | 0건 |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+공식 DrugBank MOA 필드는 비어 있어 상세 기전 데이터를 확인할 수 없습니다. 다만 제공된 재창출 분석에 따르면, 트라넥삼산은 **항섬유소용해제(plasminogen activation 억제제)**로 출혈을 줄이는 방향으로 작용하는 약물입니다.
+
+이는 무월경(월경이 없는 상태)을 유도·회복하는 방향과 **기전상 정반대**입니다. 실제로 제공된 문헌 2편도 모두 "월경과다(abnormal uterine bleeding)" 치료 또는 "월경 억제(menses suppression)" 상황을 다루고 있어, TxGNN이 예측한 "무월경" 질병 노드와는 임상적 맥락이 어긋납니다.
+
+이러한 불일치는 TxGNN 지식그래프에서 질병 노드가 **잘못 라벨링(예: menorrhagia/비정상 자궁출혈과 혼동)** 되었을 가능성을 시사합니다. TxGNN 점수 99.19%는 그래프상 연결 강도를 나타낼 뿐, 기전적 타당성을 보장하지 않습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [21701432](https://pubmed.ncbi.nlm.nih.gov/21701432/) | 2011 | Review | Menopause (New York, N.Y.) | 비정상 자궁 출혈에 대한 약물치료 검토. 비호르몬제제(트라넥삼산 포함)는 출혈량을 25~35% 감소시킴 — 출혈 억제 목적이며 무월경 유도와는 무관 |
+| [39043214](https://pubmed.ncbi.nlm.nih.gov/39043214/) | 2024 | Review/Guideline | Journal of Oncology Pharmacy Practice | 가임기 혈액암 환자에서 월경 예방·억제 전략에 대한 체계적 접근. 여러 약제 중 하나로 언급되나, 무월경 자체를 목표로 한 트라넥삼산 단독 근거는 없음 |
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
+
+## 결론 및 다음 단계
+
+**결정: Hold**
+
+**사유:**
+- TxGNN 예측 점수는 높지만(99.19%), 실제 지지 근거(임상시험 0건, 문헌 2편)는 예측된 적응증과 반대 방향(출혈 억제/월경 억제)을 다루고 있어 기전적 타당성이 부족합니다.
+- 근거 수준 L5(모델 예측 단독)로, 질병 라벨 오류(mislabeling) 가능성이 있는 예측입니다.
+- 안전성(경고·금기) 데이터가 없어 초기 안전성 평가(S1) 진입이 불가능한 차단 등급(Blocking) 데이터 공백이 존재합니다.
+
+**진행하려면 필요한 것:**
+- 한국 규제기관의 공식 허가사항(경고·금기) 확보
+- DrugBank 등에서 공식 작용기전(MOA) 데이터 확보
+- TxGNN 질병 노드 매핑 재검증 (amenorrhea vs. menorrhagia/abnormal uterine bleeding 혼동 여부 확인)
+- 위 재검증 후에도 방향성이 유지될 경우에만 후속 근거 수집 진행
+## Disclaimer
+
+This content is for research purposes only and does not constitute medical advice.
+Clinical validation is required before any clinical application.
+
+---
+

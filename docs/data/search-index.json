@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-10",
-  "drug_count": 1152,
-  "indication_count": 2099,
+  "generated": "2026-09-14",
+  "drug_count": 1254,
+  "indication_count": 2200,
   "drugs": [
     {
       "name": "Abacavir Sulfate",
@@ -79034,6 +79034,1339 @@
           "level": "L5"
         }
       ]
+    },
+    {
+      "name": "Scopolamine",
+      "slug": "scopolamine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Selinexor",
+      "slug": "selinexor",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Selpercatinib",
+      "slug": "selpercatinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Serine",
+      "slug": "serine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Silodosin",
+      "slug": "silodosin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Hypertrichosis (disease) | 99.99% | Rank 1과 동일 사유로 기전 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "치아/치주 발생 이상 동반 기형 증후군 | 99.99% | 문헌 20편 존재하나 전부 일반 치주염 리뷰로, 약물 특이적 근거 아님 (질환 노드 수준의 비특이적 공출현 매칭)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Dandy-Walker 기형 동반 증후군 | 99.98% | 신경관 발생 경로 관련, α1A 길항작용과 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "고립성 유전성 모간 이상 | 99.98% | 각질/모낭 구조 유전자 결함 관련, 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "가족성 고립성 속눈썹비대증 | 99.23% | 순위(rank 11838)가 낮고 기전 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Siltuximab",
+      "slug": "siltuximab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Simvastatin",
+      "slug": "simvastatin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sirolimus",
+      "slug": "sirolimus",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "림프관평활근종증 (LAM) | 99.68% | L1 | Go | MILES 시험(NCT00414648, Phase3 완료, NEJM 2011) 등 다수 완료 임상시험 존재. 해외에서는 이미 승인된 적응증",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Lymphangiomyoma | 99.79% | L1 | Proceed with Guardrails | LAM과 밀접히 연관된 용어, 유사한 Phase 2/3 완료 시험 다수",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "투명세포신세포암 (ccRCC) | 99.84% | L1 | Proceed with Guardrails | Rapalog 계열(everolimus, temsirolimus)이 표준치료 일부이나, sirolimus 분자 자체의 직접 Phase 3 RCT는 부족",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "미분류 신세포암 | 99.66% | L2 | Proceed with Guardrails | Everolimus 대상 다수 완료 Phase 2 RCT(ASPEN, ESPN 등) 존재",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "양성 PEComa | 99.80% | L3 | Proceed with Guardrails | Sirolimus 직접 반응 사례보고 및 전향적 코호트 연구 존재",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "RCC (Xp11.2/TFE3 전좌) | 99.66% | L4 | Hold | 관련 시험은 cabozantinib(비-mTOR 기전) 1건뿐, 직접 근거 부족",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "난소 점액양 지방육종 | 99.85% | L5 | Hold | 임상/문헌 근거 전무, 모델 추론만 존재",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "자궁 PEComa | 99.80% | L5 | Hold | 임상/문헌 근거 전무",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "신경모세포종 관련 RCC | 99.66% | L5 | Hold | 임상/문헌 근거 전무",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Sodium Acetate",
+      "slug": "sodium_acetate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sodium Ferric Gluconate Complex",
+      "slug": "sodium_ferric_gluconate_complex",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sodium Fluoride",
+      "slug": "sodium_fluoride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sofosbuvir",
+      "slug": "sofosbuvir",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sotatercept",
+      "slug": "sotatercept",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "급성 림프모구성 백혈병 | 99.78% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "중증 비증식성 당뇨망막병증 | 99.77% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "당뇨망막병증 | 99.72% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "약물유발 골다공증 | 99.65% | L4 | S1 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "당뇨병성 백내장 | 99.49% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "HER2 양성 유방암 | 99.43% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "이행상피세포암 | 99.39% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "전립선 요도 요로상피암 | 99.36% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "신우 육종양 요로상피암 | 99.36% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "침윤성 방광 요로상피암(육종양 변이형) | 99.34% | L5 | S0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Soybean Oil",
+      "slug": "soybean_oil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Spironolactone",
+      "slug": "spironolactone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Streptokinase",
+      "slug": "streptokinase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Streptomycin",
+      "slug": "streptomycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sucralfate",
+      "slug": "sucralfate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sulfamethoxazole",
+      "slug": "sulfamethoxazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sulfasalazine",
+      "slug": "sulfasalazine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sulindac",
+      "slug": "sulindac",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sulpiride",
+      "slug": "sulpiride",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Sulprostone",
+      "slug": "sulprostone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Susoctocog Alfa",
+      "slug": "susoctocog_alfa",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tadalafil",
+      "slug": "tadalafil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Ambras형 선천성 전신 다모증 | 99.98% | L5 | 근거 없음, 노이즈 가능성",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "다모증 | 99.98% | L5 | 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "치주 병변 동반 기형 증후군 | 99.97% | L5 | 문헌 20편이나 모두 TADALAFIL 무관 (질환 키워드만 중복)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Dandy-Walker 기형 동반 증후군 | 99.97% | L5 | 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "고립성 유전성 모발 이상 | 99.96% | L5 | 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "가족성 고립성 속눈썹 과다증 | 99.65% | L5 | 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "척추측만성 심장질환 | 99.43% | L5 | 근거 없음 (폐동맥고혈압 적응증과의 간접 연관성은 있으나 직접 문헌 없음)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "뇌간 조짐 편두통 | 99.08% | **L4** | 문헌 1건은 **치료 효능이 아닌 부작용 사례보고**(TADALAFIL 유발 편두통 조짐) — 안전성 신호이지 적응증 후보 아님",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Talc",
+      "slug": "talc",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Talniflumate",
+      "slug": "talniflumate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "삼차자율신경두통 | 99.62% | L5 | 기전 개연성 있으나 희귀 증후군, 근거 전무",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "두피 저모증(hypotrichosis simplex) | 99.60% | L5 | 기전 연관성 약함, 위양성 가능성",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "편두통(migraine disorder) | 99.59% | L5 | NSAID 급성기 보조요법 기전 개연성 있음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "선천성 저모증-비립종 | 99.59% | L5 | 기전 연관성 매우 약함",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "뇌간 조짐 편두통 | 99.58% | L5 | 편두통 아형, 근거 전무",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "건염(tendinitis) | 99.57% | L5 | 본 목록 중 기전 개연성 가장 높음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "특발성 육아종성 근염 | 99.54% | L5 | 자가면역질환, NSAID 단독 치료로는 한계",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "섬유성 근염 | 99.54% | L5 | 섬유화 단계엔 NSAID 효과 제한적",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "탈모(alopecia) | 99.52% | L5 | 추정적 연관성, 근거 전무",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Tamoxifen",
+      "slug": "tamoxifen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Taurolidine",
+      "slug": "taurolidine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tegafur",
+      "slug": "tegafur",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Telbivudine",
+      "slug": "telbivudine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Telmisartan",
+      "slug": "telmisartan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Temozolomide",
+      "slug": "temozolomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Temsirolimus",
+      "slug": "temsirolimus",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tenecteplase",
+      "slug": "tenecteplase",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tenofovir Alafenamide",
+      "slug": "tenofovir_alafenamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tenofovir Disoproxil",
+      "slug": "tenofovir_disoproxil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tenoxicam",
+      "slug": "tenoxicam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Teriflunomide",
+      "slug": "teriflunomide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Teriparatide",
+      "slug": "teriparatide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Terlipressin",
+      "slug": "terlipressin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tezepelumab",
+      "slug": "tezepelumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Theophylline",
+      "slug": "theophylline",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Tracheal disease | L3 | Research Question | 기도 평활근 이완 전임상 다수 + 견종 기관 허탈 후향적 연구",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Obstructive lung disease | pending (실질적으로 매우 풍부) | — | COPD/천식 Phase 2-4 RCT 다수(NCT02261727, NCT03984188 등) — theophylline의 **기존** 용도와 사실상 중복 가능성 있음, 원 적응증 데이터 확인 필요",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Pharyngitis | L4 | Hold | 간접적, macrolide 병용 문헌 위주",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Thiocolchicoside",
+      "slug": "thiocolchicoside",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Thiopental",
+      "slug": "thiopental",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Thymol",
+      "slug": "thymol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ticagrelor",
+      "slug": "ticagrelor",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tiemonium Iodide",
+      "slug": "tiemonium_iodide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tinidazole",
+      "slug": "tinidazole",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tobramycin",
+      "slug": "tobramycin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tocilizumab",
+      "slug": "tocilizumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tocopherol",
+      "slug": "tocopherol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tofisopam",
+      "slug": "tofisopam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tolfenamic Acid",
+      "slug": "tolfenamic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tolperisone",
+      "slug": "tolperisone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tolvaptan",
+      "slug": "tolvaptan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Topiramate",
+      "slug": "topiramate",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Topotecan",
+      "slug": "topotecan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trabectedin",
+      "slug": "trabectedin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tralokinumab",
+      "slug": "tralokinumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tramadol",
+      "slug": "tramadol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tranexamic Acid",
+      "slug": "tranexamic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tranilast",
+      "slug": "tranilast",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "지루각화증 (Seborrheic keratosis) | 99.98% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "지루피부염 (Seborrheic dermatitis) | 99.98% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "성대 폴립 (Polyp of vocal cord) | 99.98% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "중이 폴립 (Polyp of middle ear) | 99.98% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "전두동 폴립 (Polyp of frontal sinus) | 99.98% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "외이도 폴립 (Polyp of external auditory canal) | 99.98% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "섬유상피 폴립 (Fibroepithelial polyp) | 99.98% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "요관 폴립 (Polyp of ureter) | 99.98% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "외음부 폴립 (Polyp of vulva) | 99.98% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Trastuzumab",
+      "slug": "trastuzumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trastuzumab Deruxtecan",
+      "slug": "trastuzumab_deruxtecan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trastuzumab Emtansine",
+      "slug": "trastuzumab_emtansine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Travoprost",
+      "slug": "travoprost",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tremelimumab",
+      "slug": "tremelimumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Treprostinil",
+      "slug": "treprostinil",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "폐동정맥기형 (Pulmonary AVM) | 99.70% | L5 | Hold *(위양성 의심)*",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "선천성 심장병 동반 PAH | 99.60% | L2 | Proceed with Guardrails",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "주혈흡충증 동반 PAH | 99.55% | L5 | Hold (근거 전무)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "결합조직질환 동반 PAH | 99.55% | L2 | Proceed with Guardrails",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "HIV 감염 동반 PAH | 99.55% | L3 | Research Question",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "만성 용혈성 빈혈 동반 PAH | 99.55% | L5 | Hold (근거 전무)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "두피 단순 저모증 | 99.48% | L5 | Hold *(기전 무관, 위양성 의심)*",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "선천성 저모증-밀리아 | 99.30% | L5 | Hold *(기전 무관)*",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "치아/치주 기형 증후군 | 99.21% | L5 | Hold *(문헌이 치주염 일반 연구로 무관)*",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Ambras형 선천성 전신 다모증 | 99.17% | L5 | Hold *(기전 무관)*",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Tretinoin",
+      "slug": "tretinoin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "류마티스 결절증 | 99.84% | L5 | 0 / 0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "RF 양성 다관절형 소아 특발성 관절염 | 99.82% | L5 | 0 / 0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "소아 특발성 관절염 | 99.80% | L5 | 0 / 0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "소아 만성 다발성 관절염 (JIA 구칭) | 99.78% | L5 | 0 / 0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "척추관절병증 감수성 (유전자형) | 99.71% | L5 | 0 / 0 | Hold (개념적으로 부적합, 제외 권장)",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "LACC1 결함성 소아 관절염 | 99.55% | L5 | 0 / 0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "위연골무형성증 | 99.35% | L5 | 0 / 0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "지단성이형성증 (Hunter-Thompson형) | 99.30% | L5 | 0 / 0 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Quinquaud 탈모성 모낭염 | 99.30% | L4 | 0 / 1 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Triamcinolone",
+      "slug": "triamcinolone",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Triazolam",
+      "slug": "triazolam",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trifarotene",
+      "slug": "trifarotene",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Zinc, elevated plasma | 99.40% | L5 | 없음 — 생물학적 타당성 결여",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "PAPA 증후군 | 99.32% | L5 | 표면적 유사성만 있음, 실제 병인 불일치",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Demodicidosis of sebaceous gland | 98.42% | L5 | 간접적 기전 가능성, 임상 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Spondyloarthropathy, susceptibility to | 98.26% | L5 | 없음 — 자가면역 기전과 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Malaria | 97.57% | L5 | 없음 — 기생충 감염과 무관",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Zollinger-Ellison syndrome | 95.96% | L5 | 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Ehlers-Danlos syndrome | 95.53% | L5 | 매우 약함 — 유전적 결합조직 질환",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Beare-Stevenson cutis gyrata syndrome | 94.26% | L5 | 이론적 가능성만 존재, 근거 없음",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Isolated congenital adermatoglyphia | 94.14% | L5 | 없음 — 발달성 질환",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Malignant atrophic papulosis | 93.88% | L5 | 없음 — 혈관병증 기전과 무관",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Triflusal",
+      "slug": "triflusal",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trihexyphenidyl",
+      "slug": "trihexyphenidyl",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trimebutine",
+      "slug": "trimebutine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Trimethoprim",
+      "slug": "trimethoprim",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Triptorelin",
+      "slug": "triptorelin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tropicamide",
+      "slug": "tropicamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tryptophan",
+      "slug": "tryptophan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Tulobuterol",
+      "slug": "tulobuterol",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Uridine",
+      "slug": "uridine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ursodeoxycholic Acid",
+      "slug": "ursodeoxycholic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Ustekinumab",
+      "slug": "ustekinumab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Valproic Acid",
+      "slug": "valproic_acid",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Valsartan",
+      "slug": "valsartan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vandetanib",
+      "slug": "vandetanib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vasopressin",
+      "slug": "vasopressin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vecuronium",
+      "slug": "vecuronium",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Venetoclax",
+      "slug": "venetoclax",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Verteporfin",
+      "slug": "verteporfin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vildagliptin",
+      "slug": "vildagliptin",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "강직인간증후군 (Classic Stiff Person Syndrome) | 99.88% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "국소 강직사지증후군 | 99.88% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "티아민반응성 대사이상증후군 | 99.87% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Opsismodysplasia | 99.86% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "약물유발 국소지방위축증 | 99.79% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "원심성 지방위축증 | 99.78% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "압박유발 국소지방위축증 | 99.78% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "특발성 국소지방위축증 | 99.76% | L5 | Hold",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "췌장무형성증 (Pancreatic Agenesis) | 99.75% | L4 | Hold (기전 모순)",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Vinorelbine",
+      "slug": "vinorelbine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Vitamin A",
+      "slug": "vitamin_a",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Voglibose",
+      "slug": "voglibose",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zaltoprofen",
+      "slug": "zaltoprofen",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zanubrutinib",
+      "slug": "zanubrutinib",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zidovudine",
+      "slug": "zidovudine",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zinc Oxide",
+      "slug": "zinc_oxide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zolbetuximab",
+      "slug": "zolbetuximab",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": [
+        {
+          "name": "Diabetic cataract | 98.49% | L5",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Mature cataract | 98.41% | L5",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Diabetes mellitus type 2 associated cataract | 98.41% | L5",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Immature cataract | 98.41% | L5",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Craniostenosis cataract | 98.41% | L5",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Tetanic cataract | 98.41% | L5",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Cortical cataract | 98.39% | L5",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Nuclear senile cataract | 98.39% | L5",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Senile cataract | 98.32% | L5",
+          "score": 99.0,
+          "level": "L5"
+        },
+        {
+          "name": "Diabetic retinopathy | 98.20% | L5",
+          "score": 99.0,
+          "level": "L5"
+        }
+      ]
+    },
+    {
+      "name": "Zolmitriptan",
+      "slug": "zolmitriptan",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
+    },
+    {
+      "name": "Zonisamide",
+      "slug": "zonisamide",
+      "brands": [],
+      "original": "",
+      "level": "L5",
+      "indications": []
     }
   ],
   "indications": [
@@ -79699,6 +81032,28 @@
       ]
     },
     {
+      "name": "Ambras형 선천성 전신 다모증 | 99.17% | L5 | Hold *(기전 무관)*",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Ambras형 선천성 전신 다모증 | 99.98% | L5 | 근거 없음, 노이즈 가능성",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Ambras형 전신 다모증 | 99.55% | L5 | Hold | **잡음** — 근거 전무",
       "drug_count": 1,
       "drugs": [
@@ -79927,6 +81282,17 @@
         {
           "drug": "SPIRONOLACTONE",
           "slug": "db00421",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Beare-Stevenson cutis gyrata syndrome | 94.26% | L5 | 이론적 가능성만 존재, 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
           "score": 99.0
         }
       ]
@@ -80274,6 +81640,17 @@
       ]
     },
     {
+      "name": "Cortical cataract | 98.39% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Craniofacial conodysplasia | 99.78% | L5 | Hold | 극희귀 두개안면 골화 질환, 치료 근거 없음",
       "drug_count": 1,
       "drugs": [
@@ -80291,6 +81668,17 @@
         {
           "drug": "Alpha-Tocopherol Acetate",
           "slug": "alpha-tocopherol_acetate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Craniostenosis cataract | 98.41% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
           "score": 99.0
         }
       ]
@@ -80569,12 +81957,45 @@
       ]
     },
     {
+      "name": "Dandy-Walker 기형 동반 증후군 | 99.97% | L5 | 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Dandy-Walker 기형 동반 증후군 | 99.98% | 신경관 발생 경로 관련, α1A 길항작용과 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Silodosin",
+          "slug": "silodosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Dandy-Walker 기형 증후군 | 99.86% | 없음 | 0 | 0 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Aprepitant",
           "slug": "aprepitant",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Demodicidosis of sebaceous gland | 98.42% | L5 | 간접적 기전 가능성, 임상 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
           "score": 99.0
         }
       ]
@@ -80591,12 +82012,45 @@
       ]
     },
     {
+      "name": "Diabetes mellitus type 2 associated cataract | 98.41% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Diabetic Cataract | 99.993% | L4 | 0 | 11 | Research Question",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Alpha-Tocopherol Acetate",
           "slug": "alpha-tocopherol_acetate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Diabetic cataract | 98.49% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Diabetic retinopathy | 98.20% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
           "score": 99.0
         }
       ]
@@ -80696,6 +82150,17 @@
         {
           "drug": "Romiplostim",
           "slug": "romiplostim",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Ehlers-Danlos syndrome | 95.53% | L5 | 매우 약함 — 유전적 결합조직 질환",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
           "score": 99.0
         }
       ]
@@ -81103,6 +82568,17 @@
       ]
     },
     {
+      "name": "HER2 양성 유방암 | 99.43% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "HHV-8 相關腫瘤 | 99.97% | L5 | Research Question | KS 中 PD-L1 過表達具生物學合理性；HIV 相關 IRIS 風險需審慎",
       "drug_count": 1,
       "drugs": [
@@ -81240,6 +82716,17 @@
         {
           "drug": "Adefovir Dipivoxil",
           "slug": "adefovir_dipivoxil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "HIV 감염 동반 PAH | 99.55% | L3 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
           "score": 99.0
         }
       ]
@@ -81537,6 +83024,17 @@
       ]
     },
     {
+      "name": "Hypertrichosis (disease) | 99.99% | Rank 1과 동일 사유로 기전 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Silodosin",
+          "slug": "silodosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Hypoalphalipoproteinemia | 98.48% | L5 | Hold | 缺乏脂質調節機轉文獻",
       "drug_count": 1,
       "drugs": [
@@ -81670,6 +83168,17 @@
       ]
     },
     {
+      "name": "Immature cataract | 98.41% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Infectious Bovine Rhinotracheitis | 98.18% | L5 | 0건 | 0편 | Hold | ⚠️ 소 질환(BoHV-1), KG 위양성 가능성",
       "drug_count": 1,
       "drugs": [
@@ -81720,6 +83229,17 @@
         {
           "drug": "Digoxin",
           "slug": "digoxin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Isolated congenital adermatoglyphia | 94.14% | L5 | 없음 — 발달성 질환",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
           "score": 99.0
         }
       ]
@@ -81957,6 +83477,17 @@
       ]
     },
     {
+      "name": "LACC1 결함성 소아 관절염 | 99.55% | L5 | 0 / 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tretinoin",
+          "slug": "tretinoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Langerhans cell histiocytosis | TxGNN Knowledge Graph",
       "drug_count": 7,
       "drugs": [
@@ -82146,6 +83677,17 @@
       ]
     },
     {
+      "name": "Lymphangiomyoma | 99.79% | L1 | Proceed with Guardrails | LAM과 밀접히 연관된 용어, 유사한 Phase 2/3 완료 시험 다수",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sirolimus",
+          "slug": "sirolimus",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Malan overgrowth syndrome",
       "drug_count": 1,
       "drugs": [
@@ -82168,6 +83710,17 @@
       ]
     },
     {
+      "name": "Malaria | 97.57% | L5 | 없음 — 기생충 감염과 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Malignant Catarrh | 98.18% | L5 | 0건 | 0편 | Hold | ⚠️ 소 질환(BHV), KG 위양성 가능성",
       "drug_count": 1,
       "drugs": [
@@ -82185,6 +83738,17 @@
         {
           "drug": "Glycyrrhizic Acid",
           "slug": "glycyrrhizic_acid",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Malignant atrophic papulosis | 93.88% | L5 | 없음 — 혈관병증 기전과 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
           "score": 99.0
         }
       ]
@@ -82238,6 +83802,17 @@
         {
           "drug": "Alpha-Tocopherol Acetate",
           "slug": "alpha-tocopherol_acetate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Mature cataract | 98.41% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
           "score": 99.0
         }
       ]
@@ -82524,6 +84099,28 @@
       ]
     },
     {
+      "name": "Nuclear senile cataract | 98.39% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Obstructive lung disease | pending (실질적으로 매우 풍부) | — | COPD/천식 Phase 2-4 RCT 다수(NCT02261727, NCT03984188 등) — theophylline의 **기존** 용도와 사실상 중복 가능성 있음, 원 적응증 데이터 확인 필요",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Theophylline",
+          "slug": "theophylline",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Ohdo syndrome and variants",
       "drug_count": 2,
       "drugs": [
@@ -82562,6 +84159,17 @@
         {
           "drug": "Acarbose",
           "slug": "acarbose",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Opsismodysplasia | 99.86% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vildagliptin",
+          "slug": "vildagliptin",
           "score": 99.0
         }
       ]
@@ -82607,6 +84215,17 @@
           "drug": "Difluprednate",
           "slug": "difluprednate",
           "score": 99.93
+        }
+      ]
+    },
+    {
+      "name": "PAPA 증후군 | 99.32% | L5 | 표면적 유사성만 있음, 실제 병인 불일치",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
+          "score": 99.0
         }
       ]
     },
@@ -82828,6 +84447,17 @@
         {
           "drug": "CEFOTETAN",
           "slug": "db01330",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Pharyngitis | L4 | Hold | 간접적, macrolide 병용 문헌 위주",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Theophylline",
+          "slug": "theophylline",
           "score": 99.0
         }
       ]
@@ -83292,6 +84922,17 @@
       ]
     },
     {
+      "name": "Quinquaud 탈모성 모낭염 | 99.30% | L4 | 0 / 1 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tretinoin",
+          "slug": "tretinoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Quinquaud's folliculitis decalvans",
       "drug_count": 3,
       "drugs": [
@@ -83309,6 +84950,28 @@
           "drug": "Desoximetasone",
           "slug": "desoximetasone",
           "score": 99.89
+        }
+      ]
+    },
+    {
+      "name": "RCC (Xp11.2/TFE3 전좌) | 99.66% | L4 | Hold | 관련 시험은 cabozantinib(비-mTOR 기전) 1건뿐, 직접 근거 부족",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sirolimus",
+          "slug": "sirolimus",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "RF 양성 다관절형 소아 특발성 관절염 | 99.82% | L5 | 0 / 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tretinoin",
+          "slug": "tretinoin",
+          "score": 99.0
         }
       ]
     },
@@ -83649,6 +85312,17 @@
       ]
     },
     {
+      "name": "Senile cataract | 98.32% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Sezary syndrome",
       "drug_count": 1,
       "drugs": [
@@ -83756,6 +85430,17 @@
           "drug": "Cimetidine",
           "slug": "cimetidine",
           "score": 99.8
+        }
+      ]
+    },
+    {
+      "name": "Spondyloarthropathy, susceptibility to | 98.26% | L5 | 없음 — 자가면역 기전과 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
+          "score": 99.0
         }
       ]
     },
@@ -83872,6 +85557,17 @@
       ]
     },
     {
+      "name": "Tetanic cataract | 98.41% | L5",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Zolbetuximab",
+          "slug": "zolbetuximab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "Thiamine-responsive Dysfunction Syndrome | 99.62% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -83967,6 +85663,17 @@
         {
           "drug": "PIMOZIDE",
           "slug": "db01100",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Tracheal disease | L3 | Research Question | 기도 평활근 이완 전임상 다수 + 견종 기관 허탈 후향적 연구",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Theophylline",
+          "slug": "theophylline",
           "score": 99.0
         }
       ]
@@ -84412,6 +86119,28 @@
         {
           "drug": "Axitinib",
           "slug": "axitinib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Zinc, elevated plasma | 99.40% | L5 | 없음 — 생물학적 타당성 결여",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "Zollinger-Ellison syndrome | 95.96% | L5 | 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Trifarotene",
+          "slug": "trifarotene",
           "score": 99.0
         }
       ]
@@ -125192,6 +126921,28 @@
       ]
     },
     {
+      "name": "가족성 고립성 속눈썹 과다증 | 99.65% | L5 | 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "가족성 고립성 속눈썹비대증 | 99.23% | 순위(rank 11838)가 낮고 기전 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Silodosin",
+          "slug": "silodosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "가족성 고인슐린혈증성 저혈당 | 97.32% | L5 | 0 | 0 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -125368,6 +127119,17 @@
       ]
     },
     {
+      "name": "강직인간증후군 (Classic Stiff Person Syndrome) | 99.88% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vildagliptin",
+          "slug": "vildagliptin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "개방각 녹내장 (Open-Angle Glaucoma) | 99.90% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -125401,6 +127163,17 @@
       ]
     },
     {
+      "name": "건염(tendinitis) | 99.57% | L5 | 본 목록 중 기전 개연성 가장 높음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talniflumate",
+          "slug": "talniflumate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "결손 소안구증-근단형 이형성증 | 97.99% | L5 | Hold | 극희귀 선천성 질환, 시각산 신호와 응고계 교집합 없음",
       "drug_count": 1,
       "drugs": [
@@ -125418,6 +127191,17 @@
         {
           "drug": "Iloprost",
           "slug": "iloprost",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "결합조직질환 동반 PAH | 99.55% | L2 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
           "score": 99.0
         }
       ]
@@ -125473,6 +127257,28 @@
         {
           "drug": "Nitric Oxide",
           "slug": "nitric_oxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "고립성 유전성 모간 이상 | 99.98% | 각질/모낭 구조 유전자 결함 관련, 무관",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Silodosin",
+          "slug": "silodosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "고립성 유전성 모발 이상 | 99.96% | L5 | 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tadalafil",
+          "slug": "tadalafil",
           "score": 99.0
         }
       ]
@@ -125599,6 +127405,17 @@
       ]
     },
     {
+      "name": "국소 강직사지증후군 | 99.88% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vildagliptin",
+          "slug": "vildagliptin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "근병변 없는 피부근염 (Amyopathic Dermatomyositis) | 99.43% | L5 | Hold | 면역 기전 위주, 보조 역할만 이론적 가능",
       "drug_count": 1,
       "drugs": [
@@ -125616,6 +127433,17 @@
         {
           "drug": "Alpelisib",
           "slug": "alpelisib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "급성 림프모구성 백혈병 | 99.78% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
           "score": 99.0
         }
       ]
@@ -125764,6 +127592,17 @@
       ]
     },
     {
+      "name": "난소 점액양 지방육종 | 99.85% | L5 | Hold | 임상/문헌 근거 전무, 모델 추론만 존재",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sirolimus",
+          "slug": "sirolimus",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "내사시 (Esotropia) | 99.38% | L5 | Hold | 안과 노드 근접성 효과 추정",
       "drug_count": 1,
       "drugs": [
@@ -125841,6 +127680,28 @@
       ]
     },
     {
+      "name": "뇌간 조짐 편두통 | 99.08% | **L4** | 문헌 1건은 **치료 효능이 아닌 부작용 사례보고**(TADALAFIL 유발 편두통 조짐) — 안전성 신호이지 적응증 후보 아님",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "뇌간 조짐 편두통 | 99.58% | L5 | 편두통 아형, 근거 전무",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talniflumate",
+          "slug": "talniflumate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "뇌경색 (Cerebral Infarction) | 99.23% | L5 | Hold | 혈전/신경손상 — ADC 기전 완전 불일치",
       "drug_count": 1,
       "drugs": [
@@ -125880,6 +127741,17 @@
         {
           "drug": "Aprepitant",
           "slug": "aprepitant",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "다모증 | 99.98% | L5 | 근거 없음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tadalafil",
+          "slug": "tadalafil",
           "score": 99.0
         }
       ]
@@ -125984,6 +127856,28 @@
       ]
     },
     {
+      "name": "당뇨망막병증 | 99.72% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "당뇨병성 백내장 | 99.49% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "대두증-안면기형-정신운동지연 | 99.77% | L5 | ⛔ Hold | 신경발육 장애 — 기전적 가양성",
       "drug_count": 1,
       "drugs": [
@@ -126061,12 +127955,45 @@
       ]
     },
     {
+      "name": "두피 단순 저모증 | 99.48% | L5 | Hold *(기전 무관, 위양성 의심)*",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "두피 저모증(hypotrichosis simplex) | 99.60% | L5 | 기전 연관성 약함, 위양성 가능성",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talniflumate",
+          "slug": "talniflumate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "뚜렛 증후군 | 99.91% | L4 | 0건 | 20편 | Research Question",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Clozapine",
           "slug": "clozapine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "류마티스 결절증 | 99.84% | L5 | 0 / 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tretinoin",
+          "slug": "tretinoin",
           "score": 99.0
         }
       ]
@@ -126089,6 +128016,17 @@
         {
           "drug": "Alpelisib",
           "slug": "alpelisib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "림프관평활근종증 (LAM) | 99.68% | L1 | Go | MILES 시험(NCT00414648, Phase3 완료, NEJM 2011) 등 다수 완료 임상시험 존재. 해외에서는 이미 승인된 적응증",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sirolimus",
+          "slug": "sirolimus",
           "score": 99.0
         }
       ]
@@ -126133,6 +128071,17 @@
         {
           "drug": "Nitric Oxide",
           "slug": "nitric_oxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "만성 용혈성 빈혈 동반 PAH | 99.55% | L5 | Hold (근거 전무)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
           "score": 99.0
         }
       ]
@@ -126221,6 +128170,17 @@
         {
           "drug": "Glycerin",
           "slug": "glycerin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "미분류 신세포암 | 99.66% | L2 | Proceed with Guardrails | Everolimus 대상 다수 완료 Phase 2 RCT(ASPEN, ESPN 등) 존재",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sirolimus",
+          "slug": "sirolimus",
           "score": 99.0
         }
       ]
@@ -126556,6 +128516,17 @@
       ]
     },
     {
+      "name": "삼차자율신경두통 | 99.62% | L5 | 기전 개연성 있으나 희귀 증후군, 근거 전무",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talniflumate",
+          "slug": "talniflumate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "상염색체 우성 미토콘드리아 근병증 | 99.98% | L5 | Hold | 대사질환, 기전 무관",
       "drug_count": 1,
       "drugs": [
@@ -126666,6 +128637,39 @@
       ]
     },
     {
+      "name": "선천성 심장병 동반 PAH | 99.60% | L2 | Proceed with Guardrails",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "선천성 저모증-밀리아 | 99.30% | L5 | Hold *(기전 무관)*",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "선천성 저모증-비립종 | 99.59% | L5 | 기전 연관성 매우 약함",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talniflumate",
+          "slug": "talniflumate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "선천성 프로트롬빈 결핍증 | 99.70% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -126732,6 +128736,28 @@
       ]
     },
     {
+      "name": "섬유상피 폴립 (Fibroepithelial polyp) | 99.98% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tranilast",
+          "slug": "tranilast",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "섬유성 근염 | 99.54% | L5 | 섬유화 단계엔 NSAID 효과 제한적",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talniflumate",
+          "slug": "talniflumate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "섭식 유발 발작 | 99.63% | L5 | Hold | 관련성 낮은 문헌뿐(가성발작, 세로토닌증후군 등)",
       "drug_count": 1,
       "drugs": [
@@ -126749,6 +128775,17 @@
         {
           "drug": "Perampanel",
           "slug": "perampanel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "성대 폴립 (Polyp of vocal cord) | 99.98% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tranilast",
+          "slug": "tranilast",
           "score": 99.0
         }
       ]
@@ -126798,6 +128835,17 @@
       ]
     },
     {
+      "name": "소아 만성 다발성 관절염 (JIA 구칭) | 99.78% | L5 | 0 / 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tretinoin",
+          "slug": "tretinoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "소아 신세포암 | 99.87% | L2 | 2건 | 2편 | **Proceed with Guardrails**",
       "drug_count": 1,
       "drugs": [
@@ -126815,6 +128863,17 @@
         {
           "drug": "Donepezil",
           "slug": "donepezil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "소아 특발성 관절염 | 99.80% | L5 | 0 / 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tretinoin",
+          "slug": "tretinoin",
           "score": 99.0
         }
       ]
@@ -126897,6 +128956,17 @@
       ]
     },
     {
+      "name": "신경모세포종 관련 RCC | 99.66% | L5 | Hold | 임상/문헌 근거 전무",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sirolimus",
+          "slug": "sirolimus",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "신경모세포종 연관 신세포암 | 99.90% | L5 | 0건 | 0편 | **Hold**",
       "drug_count": 1,
       "drugs": [
@@ -126958,6 +129028,17 @@
         {
           "drug": "Atezolizumab",
           "slug": "atezolizumab",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "신우 육종양 요로상피암 | 99.36% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
           "score": 99.0
         }
       ]
@@ -127161,12 +129242,45 @@
       ]
     },
     {
+      "name": "압박유발 국소지방위축증 | 99.78% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vildagliptin",
+          "slug": "vildagliptin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "약물 유발성 골다공증 | 99.95% | L3 | 1건 (완료, 간접) | 0 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Ginseng",
           "slug": "ginseng",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "약물유발 골다공증 | 99.65% | L4 | S1 | Research Question",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "약물유발 국소지방위축증 | 99.79% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vildagliptin",
+          "slug": "vildagliptin",
           "score": 99.0
         }
       ]
@@ -127189,6 +129303,17 @@
         {
           "drug": "Clozapine",
           "slug": "clozapine",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "양성 PEComa | 99.80% | L3 | Proceed with Guardrails | Sirolimus 직접 반응 사례보고 및 전향적 코호트 연구 존재",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sirolimus",
+          "slug": "sirolimus",
           "score": 99.0
         }
       ]
@@ -127348,6 +129473,17 @@
       ]
     },
     {
+      "name": "외음부 폴립 (Polyp of vulva) | 99.98% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tranilast",
+          "slug": "tranilast",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "외음부 함입성 모낭성 각화증 (Vulvar Inverted Follicular Keratosis) | 99.94% | Research Question | 각질세포 분화 기전과 간접 연관, 근거 매우 제한적",
       "drug_count": 1,
       "drugs": [
@@ -127376,6 +129512,28 @@
         {
           "drug": "Calcipotriol",
           "slug": "calcipotriol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "외이도 폴립 (Polyp of external auditory canal) | 99.98% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tranilast",
+          "slug": "tranilast",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "요관 폴립 (Polyp of ureter) | 99.98% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tranilast",
+          "slug": "tranilast",
           "score": 99.0
         }
       ]
@@ -127469,6 +129627,17 @@
       ]
     },
     {
+      "name": "원심성 지방위축증 | 99.78% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vildagliptin",
+          "slug": "vildagliptin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "위印환세포암 (Signet Ring Cell) | 99.94% | L3 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -127508,6 +129677,17 @@
         {
           "drug": "Oxybutynin",
           "slug": "oxybutynin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "위연골무형성증 | 99.35% | L5 | 0 / 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tretinoin",
+          "slug": "tretinoin",
           "score": 99.0
         }
       ]
@@ -127634,6 +129814,17 @@
       ]
     },
     {
+      "name": "이행상피세포암 | 99.39% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "인두염 (Pharyngitis) | 99.80% | L3 | 1건 | 0편 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -127673,6 +129864,17 @@
         {
           "drug": "Perampanel",
           "slug": "perampanel",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "자궁 PEComa | 99.80% | L5 | Hold | 임상/문헌 근거 전무",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sirolimus",
+          "slug": "sirolimus",
           "score": 99.0
         }
       ]
@@ -127761,6 +129963,28 @@
         {
           "drug": "Mannitol",
           "slug": "mannitol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "전두동 폴립 (Polyp of frontal sinus) | 99.98% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tranilast",
+          "slug": "tranilast",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "전립선 요도 요로상피암 | 99.36% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
           "score": 99.0
         }
       ]
@@ -127898,6 +130122,17 @@
       ]
     },
     {
+      "name": "주혈흡충증 동반 PAH | 99.55% | L5 | Hold (근거 전무)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "중격 심근경색 | 99.77% | L2 | 1건 | 13편 | **Proceed with Guardrails**",
       "drug_count": 1,
       "drugs": [
@@ -127942,6 +130177,17 @@
       ]
     },
     {
+      "name": "중이 폴립 (Polyp of middle ear) | 99.98% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tranilast",
+          "slug": "tranilast",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "중증 비증식성 당뇨망막병증 | 99.56% | L5 | Hold | 기전 연결 없음",
       "drug_count": 1,
       "drugs": [
@@ -127959,6 +130205,50 @@
         {
           "drug": "Ginseng",
           "slug": "ginseng",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "중증 비증식성 당뇨망막병증 | 99.77% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "지단성이형성증 (Hunter-Thompson형) | 99.30% | L5 | 0 / 0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tretinoin",
+          "slug": "tretinoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "지루각화증 (Seborrheic keratosis) | 99.98% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tranilast",
+          "slug": "tranilast",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "지루피부염 (Seborrheic dermatitis) | 99.98% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tranilast",
+          "slug": "tranilast",
           "score": 99.0
         }
       ]
@@ -127997,12 +130287,34 @@
       ]
     },
     {
+      "name": "척추관절병증 감수성 (유전자형) | 99.71% | L5 | 0 / 0 | Hold (개념적으로 부적합, 제외 권장)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tretinoin",
+          "slug": "tretinoin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "척추측만 심장병 | 98.86% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Alpelisib",
           "slug": "alpelisib",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "척추측만성 심장질환 | 99.43% | L5 | 근거 없음 (폐동맥고혈압 적응증과의 간접 연관성은 있으나 직접 문헌 없음)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tadalafil",
+          "slug": "tadalafil",
           "score": 99.0
         }
       ]
@@ -128063,6 +130375,17 @@
       ]
     },
     {
+      "name": "췌장무형성증 (Pancreatic Agenesis) | 99.75% | L4 | Hold (기전 모순)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vildagliptin",
+          "slug": "vildagliptin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "치명적 관절만곡-전각세포병 증후군 | 99.99% | L5 | Hold | 선천성, 기전 상이",
       "drug_count": 1,
       "drugs": [
@@ -128085,12 +130408,56 @@
       ]
     },
     {
+      "name": "치아/치주 기형 증후군 | 99.21% | L5 | Hold *(문헌이 치주염 일반 연구로 무관)*",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "치아/치주 발생 이상 동반 기형 증후군 | 99.99% | 문헌 20편 존재하나 전부 일반 치주염 리뷰로, 약물 특이적 근거 아님 (질환 노드 수준의 비특이적 공출현 매칭)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Silodosin",
+          "slug": "silodosin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "치아·치주 동반 기형 증후군 | 99.86% | 낮음 | 0 | 20 ⚠️ | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Aprepitant",
           "slug": "aprepitant",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "치주 병변 동반 기형 증후군 | 99.97% | L5 | 문헌 20편이나 모두 TADALAFIL 무관 (질환 키워드만 중복)",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Tadalafil",
+          "slug": "tadalafil",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "침윤성 방광 요로상피암(육종양 변이형) | 99.34% | L5 | S0 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sotatercept",
+          "slug": "sotatercept",
           "score": 99.0
         }
       ]
@@ -128151,6 +130518,17 @@
       ]
     },
     {
+      "name": "탈모(alopecia) | 99.52% | L5 | 추정적 연관성, 근거 전무",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talniflumate",
+          "slug": "talniflumate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "탈모증 (Alopecia) | 99.55% | L4 | 1건 | 13편 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -128195,6 +130573,17 @@
       ]
     },
     {
+      "name": "투명세포신세포암 (ccRCC) | 99.84% | L1 | Proceed with Guardrails | Rapalog 계열(everolimus, temsirolimus)이 표준치료 일부이나, sirolimus 분자 자체의 직접 Phase 3 RCT는 부족",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Sirolimus",
+          "slug": "sirolimus",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "특발성 구리 연관 간경변 (Idiopathic Copper-associated Cirrhosis) | L5 | Hold | 군집 점수, 구리 螯合 불가",
       "drug_count": 1,
       "drugs": [
@@ -128206,12 +130595,45 @@
       ]
     },
     {
+      "name": "특발성 국소지방위축증 | 99.76% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vildagliptin",
+          "slug": "vildagliptin",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "특발성 육아종성 근염 | 99.54% | L5 | 자가면역질환, NSAID 단독 치료로는 한계",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talniflumate",
+          "slug": "talniflumate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "특발성 호산구성 근염 | L5 | Hold | ⚠️ Allopurinol 자체가 호산구증가증 유발 가능, 역방향 위험",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Allopurinol",
           "slug": "allopurinol",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "티아민반응성 대사이상증후군 | 99.87% | L5 | Hold",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Vildagliptin",
+          "slug": "vildagliptin",
           "score": 99.0
         }
       ]
@@ -128283,6 +130705,17 @@
       ]
     },
     {
+      "name": "편두통(migraine disorder) | 99.59% | L5 | NSAID 급성기 보조요법 기전 개연성 있음",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Talniflumate",
+          "slug": "talniflumate",
+          "score": 99.0
+        }
+      ]
+    },
+    {
       "name": "폐 질환/저산소증에 의한 폐고혈압 (PH Group 3) | 99.88% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
@@ -128333,6 +130766,17 @@
         {
           "drug": "Nitric Oxide",
           "slug": "nitric_oxide",
+          "score": 99.0
+        }
+      ]
+    },
+    {
+      "name": "폐동정맥기형 (Pulmonary AVM) | 99.70% | L5 | Hold *(위양성 의심)*",
+      "drug_count": 1,
+      "drugs": [
+        {
+          "drug": "Treprostinil",
+          "slug": "treprostinil",
           "score": 99.0
         }
       ]
