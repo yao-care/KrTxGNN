@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brigatinib
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 148
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Brigatinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -43,11 +43,11 @@ TxGNN 模型以 **99.89%** 的高分預測其對**牙齦纖維瘤病（Fibromato
 
 | 項目 | 內容 |
 |------|------|
-| 原核准適應症 | ALK 陽性晚期 / 轉移性非小細胞肺癌（美國 FDA 2017 年核准；韓國尚未上市） |
+| 原核准適應症 | ALK 陽性晚期 / 轉移性非小細胞肺癌（美國 FDA 2017 年核准；韓國尚Not marketed） |
 | 預測新適應症 | 牙齦纖維瘤病（Fibromatosis, Gingival） |
 | TxGNN 預測分數 | 99.89% |
 | 證據等級 | L5（純模型預測，無實際研究支持） |
-| 韓國上市狀況 | ✗ 未上市 |
+| 韓國上市狀況 | ✗ Not marketed |
 | 許可證數量 | 0 件 |
 | 建議決策 | **Hold** |
 
@@ -116,10 +116,10 @@ Brigatinib 為抗腫瘤標靶治療藥物（ALK TKI），適用細胞毒性資�
 - 韓國 MFDS 仿單完整安全性資料（警語、禁忌、藥物交互作用）
 
 > 💡 **補充說明**：在本 Evidence Pack 的其他預測中，**NF2 相關神經鞘瘤病**（Rank 10，L3 等級）與**肺炎性肌纖維母細胞瘤亞群**（Rank 5 附帶機轉外推，L4 等級）已有早期臨床或臨床前證據支持 Brigatinib 的再利用潛力，評估優先順序上明顯高於本適應症，建議優先針對該兩項進行深入分析。
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

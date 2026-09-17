@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ciclesonide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 201
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Ciclesonide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ Ciclesonide는 현재 한국 내 허가·시판된 제품이 없습니다.
 - 작용 기전(MOA) 상세 데이터 확인 (DrugBank API DB01410 조회 권장)
 - 한국 MFDS 또는 글로벌 허가사항 경고·금기 정보 확인 (현재 Blocking 데이터 갭, DG001)
 - 아토피 습진에서의 전신성 코르티코스테로이드 흡입 노출 효과에 관한 탐색적 문헌 검색 재실시
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

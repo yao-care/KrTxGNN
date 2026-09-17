@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Armodafinil
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 85
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Armodafinil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L2** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -122,10 +122,10 @@ Armodafinil의 DAT 억제를 통한 각성 촉진 기전은 **원발성 불면�
 - **안전성 데이터 확보**: MFDS 허가사항 및 TFDA 仿單 PDF 파싱 (DG001 해소)
 - **NCT01121536 종료 원인 조사**: 867명 대상 Phase 3 조기 종료의 안전성 신호 여부 확인
 - **마약류 규제 검토**: 국내 향정신성의약품 분류 하 개발 가능 경로 사전 확인
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

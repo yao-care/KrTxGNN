@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Zolmitriptan
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 731
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -97,10 +97,10 @@ Zolmitriptan은 5-HT1B/1D 수용체 작용제(트립탄 계열) 약물로, 일�
 
 ---
 참고: TxGNN이 제시한 하위 순위 예측(atrophoderma vermiculata, ulerythema ophryogenesis)은 임상시험·문헌 근거가 전혀 없어(L5, S0) 모델 노이즈로 판단되며 본 보고서에서 다루지 않았습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

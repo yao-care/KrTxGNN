@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lorazepam
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 448
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Lorazepam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -139,10 +139,10 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 것으로 예측하�
 - 한국 내 허가·시판 현황 재확인 (현재 미출시로 기재됨)
 - 배뇨 유발 발작 등 L3 후보에 대한 추가 문헌/증례 검토
 - 삼차신경 종양 등 L5 후보는 추가 근거 없이는 파이프라인에서 제외 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

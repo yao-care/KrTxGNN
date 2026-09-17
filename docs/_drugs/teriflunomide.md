@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Teriflunomide
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 669
-evidence_level: L5
+evidence_level: L1
 indication_count: 1
 ---
 
 # Teriflunomide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L1** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -117,10 +117,10 @@ Phase 3 완료 시험이며, 최근까지도 여러 신약(오파투무맙, 우�
 - 상세 작용 기전(MOA) 자료 확보 — DrugBank API 조회 필요
 - 국내 허가 여부 및 도입 전략(신약 허가 신청 vs 별도 재창출 경로) 검토
 - 위 데이터 확보 후 S1 안전성 초기평가 재개
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

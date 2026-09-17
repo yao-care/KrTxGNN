@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tenoxicam
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 668
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Tenoxicam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -90,10 +90,10 @@ Tenoxicam은 oxicam 계열 NSAID로, 한국 내 허가 및 규제 데이터가 �
 - DrugBank 등을 통한 정확한 MOA·약물 분류 데이터 확보
 - 국제 허가 현황 비교를 통해 류마티스 관절염이 tenoxicam의 기존 승인 적응증인지 여부 검증 (진정한 재창출 여부 확인)
 - DDI 및 금기 정보 확보 후 정식 안전성 평가 진행
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Brolucizumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Brolucizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -92,10 +92,10 @@ Brolucizumab은 VEGF-A와 그 수용체 VEGFR-1/VEGFR-2의 결합을 차단하�
 - 작용 기전(MOA) 데이터를 지식 그래프에 반영하여 예측 신뢰도 재검증
 - 대만 허가 현황 및 안전성 정보(경고/금기 사항) 확보
 - VEGF와 미토콘드리아 기능 간 직접적 연관성을 입증하는 전임상 데이터가 존재할 경우에 한해 재평가 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

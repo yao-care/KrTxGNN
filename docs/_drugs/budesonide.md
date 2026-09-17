@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Budesonide
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 155
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Budesonide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -112,10 +112,10 @@ Budesonide의 Th2 항염증 기전은 아토피 습진의 병리와 이론적으
 - 기존 외용 코르티코스테로이드(hydrocortisone, mometasone 등)와의 비교 효능 및 안전성 데이터 확보
 - HPA 축 억제 및 피부 위축 관련 장기 안전성 모니터링 계획 수립
 - 한국 내 허가 전략 검토 (현재 미허가 상태)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

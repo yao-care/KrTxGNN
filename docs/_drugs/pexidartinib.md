@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pexidartinib
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 547
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Pexidartinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -46,7 +46,7 @@ TxGNN 모델은 **HER2 양성 유방암(HER2 Positive Breast Carcinoma)**에 효
 | 예측 신규 적응증 | HER2 양성 유방암 (HER2 Positive Breast Carcinoma) |
 | TxGNN 예측 점수 | 99.98% |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | 미출시 (未上市) |
+| 한국 시판 현황 | 미출시 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -98,10 +98,10 @@ Pexidartinib은 표적치료(kinase inhibitor)로서 종양(TGCT) 치료제로 �
 - 작용기전(MOA), 한국 허가 현황, 안전성(경고/금기/DDI) 등 Drug-Level Data Gap 해소 (DG001: MFDS/식약처 허가사항 확인, DG002: DrugBank MOA 조회)
 - I-SPY2 시험의 세부 프로토콜 확인을 통해 pexidartinib 특정 치료군 존재 여부 검증
 - 건막거대세포종(TGCT) 관련 예측 항목(rank 6/7/10)을 별도 후보로 분리하여 재평가 진행 여부 결정
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

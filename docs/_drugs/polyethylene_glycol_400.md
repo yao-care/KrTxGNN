@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Polyethylene Glycol 400
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Polyethylene Glycol 400
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ PEG 400은 현재 한국에서 시판되지 않아(미상시) 허가 정보가 �
 ### 부가 예측 후보 (참고)
 
 TxGNN은 2순위로 **선천성 어린선양 홍피증(Congenital Ichthyosiform Erythroderma)**도 예측했습니다(점수 99.10%, 근거 수준 L5). 관련 임상시험·문헌은 없으며, PEG 400의 친수성 부형제 특성이 피부 보습에 도움이 될 수 있다는 추론적 연결에 불과합니다. 미상시 약물이며 근거가 전혀 없어 **Hold** 권고이며 별도 조사가 필요합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

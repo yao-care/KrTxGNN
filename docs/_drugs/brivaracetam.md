@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Brivaracetam
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 150
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Brivaracetam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -113,10 +113,10 @@ Brivaracetam은 현재 한국에 허가된 제품이 없습니다.
 - 광민감성 모델(PPR) 관련 기존 데이터(PMID 17785672, 32949370)를 근거로 개념증명 연구 계획 수립
 
 > **참고:** 10개 예측 적응증 중 **2위인 뇌전증 중첩증(Status Epilepticus)**은 근거 수준 L2, 권장 결정 **Proceed with Guardrails**로 평가됩니다. IV BRV의 SE 치료 효능을 직접 검증한 소아 대상 비교 임상시험(NCT07163572, N=152, 완료)이 존재하며, 2건의 체계적 문헌고찰(PMID 32278203, 31342405)을 포함한 20편의 문헌이 지지합니다. 한국 시판 허가 취득 후 SE 적응증 확장 연구를 우선 검토할 것을 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

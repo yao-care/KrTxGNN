@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sodium Ferric Gluconate Complex
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 640
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Sodium Ferric Gluconate Complex
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -79,10 +79,10 @@ Sodium Ferric Gluconate Complex(SFGC, DrugBank ID: DB09517)는 문헌상 만성�
 - TFDA/한국 규제기관 허가사항 및 경고·금기 정보 확보 (DG001 해소, S1 안전성 초평 진입 조건)
 - 당뇨병성 망막병증-철 대사 관련 전임상/기전 연구 확보
 - 동일 예측 배치 내 anaphylaxis 계열 후보들에 대한 약물-이상반응 오탐 여부 재검증
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

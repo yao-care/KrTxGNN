@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alpelisib
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 42
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Alpelisib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Alpelisib은 PI3Kα 선택적 억제제로, 글로벌 임상 기준으로는 PIK
 | 예측 신규 적응증 | 폐고혈압 (Pulmonary Hypertension) |
 | TxGNN 예측 점수 | 99.03% |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✗ 미허가 (未上市) |
+| 한국 시판 현황 | ✗ 미허가 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -188,10 +188,10 @@ PIK3CA 돌연변이가 갑상선 유두암(~10%), 부갑상선 선종, 췌장 �
 - PIK3CA 돌연변이 MEN 관련 내분비 종양을 포함하는 바스켓 시험 설계
 - DrugBank API를 통한 Alpelisib MOA 상세 데이터 확보 (현재 데이터 갭 해소)
 - 한국 MFDS 신규 허가를 위한 임상 개발 로드맵 수립
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

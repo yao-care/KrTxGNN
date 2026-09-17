@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teriparatide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 670
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Teriparatide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -97,10 +97,10 @@ TxGNN 예측 점수(99.86%)는 높지만 이를 뒷받침하는 임상시험·�
 - 십이지장궤양에 대한 전임상 또는 기전 연구 착수, 혹은 근거 축적 전까지 재평가 보류
 
 **참고:** 동일 예측 세트 내 8순위 후보인 **임신·수유 관련 골다공증(pregnancy-lactation associated osteoporosis)**은 이미 다수의 임상시험 및 문헌(19편)에서 teriparatide의 실제 치료 사례가 보고되어 있고, 기존 적응증(골다공증)과의 기전적 연결성도 명확합니다. 재창출 후보로서 우선 검토할 가치가 더 높은 것으로 판단됩니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

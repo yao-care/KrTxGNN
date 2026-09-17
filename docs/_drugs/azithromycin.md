@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azithromycin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 114
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Azithromycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -92,10 +92,10 @@ TxGNN 예측 점수(0.998)는 지식 그래프 내 감염성 췌장염 노드와
 - DrugBank MOA 데이터 확보 (기전 연관성 분석 선행 필요)
 - 고아밀라아제혈증 또는 급성 췌장염과 Azithromycin 간 기전적 연관성을 다루는 전임상·기초 연구 식별
 - TFDA(또는 MFDS) 허가사항 원문 확인을 통한 안전성 경고·금기 데이터 보완
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

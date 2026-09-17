@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Milrinone
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Milrinone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -87,10 +87,10 @@ TxGNN 모델은 **탈모증(Alopecia)**에 효과가 있을 수 있다고 예측
 
 ---
 **참고**: 본 평가 대상 데이터셋에는 Milrinone에 대해 근거 수준이 더 높은 예측 적응증도 존재합니다 — 예: **congestive heart failure**(L2, Proceed with Guardrails, 다수의 Phase 1–4 임상시험 및 메타분석 존재)와 **acute pulmonary heart disease**(L3, Research Question). 본 보고서는 규정된 규칙(predicted_indications[0])에 따라 TxGNN 1순위 예측인 탈모증을 기준으로 작성되었으며, 위 두 적응증은 별도 평가 대상으로 검토를 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

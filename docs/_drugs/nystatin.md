@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nystatin
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 513
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Nystatin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -94,10 +94,10 @@ Nystatin의 외음질염(칸디다성) 치료 효과는 20편의 리뷰·코호�
 ---
 
 **참고:** 같은 Evidence Pack에 포함된 나머지 예측 적응증(안와 부위 질환, 낭성 기형종, 척수 유피낭종, 폐경 후 위축성 질염, 비오틴 대사질환, 구각 누공, 하악골 방사선골괴사 등, 순위 2~10위)은 모두 임상시험·문헌 근거가 없고 기전상 연관성도 낮아 근거 수준 L5·**Hold**로 평가되었습니다. 이들은 TxGNN 임베딩 공간상의 간접 연결 가능성이 높아 추가 조사 우선순위가 낮습니다. 다만 순위 8위 "외음염(Vulvitis)"은 외음질염과 임상적으로 중첩되는 동일 계열 질환으로, 위 근거가 함께 적용될 수 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tremelimumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 698
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Tremelimumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -97,10 +97,10 @@ Tremelimumab(anti-CTLA-4 면역관문억제제, DrugBank DB11771)은 이번 Evid
 - 이 예측이 그래프 아티팩트인지 여부에 대한 독립적 검증 (군집 편향 보정 재실행 등)
 - 백내장/망막병증 관련 임상 근거가 실제로 존재하는지 별도 문헌 재조사
 - 대안으로 기전적 타당성이 더 높은 다른 예측 적응증 우선 검토 권고
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

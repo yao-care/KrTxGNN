@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ribavirin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ribavirin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -105,10 +105,10 @@ TxGNN 예측 점수는 높으나(99.86%), 검색된 임상시험 근거 대다�
 - Ribavirin의 상세 작용기전(MOA) 데이터 확보 (DrugBank API 재조회)
 - 해외(TFDA/FDA) 첨부문서를 통한 경고·금기·약물상호작용 정보 확보
 - HBV(DNA 바이러스) 특이적 항바이러스 효과를 뒷받침하는 전임상/기전 연구 확보
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

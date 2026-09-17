@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aluminium Chloride
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Aluminium Chloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Aluminium Chloride 的基本藥物資訊（原始適應證、作用機轉）均�
 | 예측 신규 적응증 | 無（TxGNN 未產生預測） |
 | TxGNN 예측 점수 | 無 |
 | 근거 수준 | L5（僅模型查詢，無實際研究） |
-| 한국 시판 현황 | 未上市 |
+| 한국 시판 현황 | Not marketed |
 | 허가증 수 | 0 件 |
 | 권장 결정 | Hold |
 
@@ -62,8 +62,8 @@ Aluminium Chloride 的基本藥物資訊（原始適應證、作用機轉）均�
 
 | 優先順序 | 缺口 ID | 項目 | 取得方式 |
 |---------|--------|------|---------|
-| 🔴 關鍵 | DG001 | TFDA 仿單（警語 / 禁忌） | 至 TFDA 官網下載 PDF 並解析 |
-| 🟠 高 | DG002 | 作用機轉（MOA）及 DrugBank ID | 查詢 DrugBank API |
+| 🔴 關鍵 | DG001 | TFDA 仿單（警語 / 禁忌） | 至 MFDS website下載 PDF 並解析 |
+| 🟠 高 | DG002 | 作用機轉（MOA）及 DrugBank ID | Query the DrugBank API |
 | — | — | TxGNN 預測結果 | 確認藥物名稱匹配後重跑預測管線 |
 | — | — | 台灣許可証資料（若有） | 確認藥物是否以其他品名上市 |
 
@@ -72,10 +72,10 @@ Aluminium Chloride 的基本藥物資訊（原始適應證、作用機轉）均�
 ---
 
 *本報告僅供研究參考，不構成醫療建議。所有再創出候選需經臨床驗證方可應用。*
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

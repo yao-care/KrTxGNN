@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trimethoprim
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 707
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Trimethoprim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -103,10 +103,10 @@ DrugBank 상의 상세 작용 기전(MOA) 데이터는 현재 확보되지 않�
 ---
 
 > **참고:** 동일 Evidence Pack 내 2순위 예측인 **결막염(Conjunctivitis)** 적응증은 근거 수준 **L2**로, Phase 4 head-to-head 임상시험(NCT00581542, trimethoprim+polymyxin B 안약 vs moxifloxacin)과 다수의 문헌(RCT 포함)이 뒷받침하며 권장 결정은 **Proceed with Guardrails**입니다. 세균성 결막염 국소 치료(Polytrim 안약)로서는 이미 여러 국가에서 표준 치료로 사용되고 있어, 재창출 후보로서 실질적으로 더 유망합니다. 별도 보고서 작성을 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

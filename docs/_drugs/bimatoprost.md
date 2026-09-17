@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bimatoprost
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 141
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Bimatoprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -124,10 +124,10 @@ Bimatoprost는 모낭의 FP 수용체(프로스타글란딘 F2α 수용체) 및 
 - 한국 허가사항 경고·금기 정보 확보 (FDA/EMA Latisse® 및 Lumigan® 허가사항 기반)
 - 한국 MFDS 신규 허가 규제 경로 분석 (국내 임상시험 요건 포함)
 - Phase 3 임상시험 설계 및 목표 적응증(AGA 또는 FPHL) 우선순위 결정
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

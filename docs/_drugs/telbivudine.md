@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Telbivudine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 661
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Telbivudine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -130,10 +130,10 @@ Telbivudine(DrugBank ID: DB01265)은 한국에 허가된 제품이 없어 기존
 
 **참고 — 동일 근거팩 내 대안 후보:**
 같은 근거팩의 2순위 후보인 **만성 B형간염(Hepatitis B virus infection)**은 근거 수준 **L1**, 완료된 대규모 Phase 3 RCT([NCT00142298](https://clinicaltrials.gov/study/NCT00142298), n=1,869 등) 다수를 보유하고 있으며 **"Proceed with Guardrails"** 권고를 받았습니다. 다만 이는 telbivudine의 이미 알려진 작용 영역(HBV DNA 중합효소 억제)과 일치하는 결과로, 진정한 신규 재창출 후보라기보다 모델이 기존 지식을 재확인한 사례로 해석하는 것이 타당합니다. 신규 적응증 발굴이 목적이라면 해당 후보보다는 별도의 낮은 순위 예측(예: HIV, 대사질환 등)에 대한 추가 검증이 필요합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

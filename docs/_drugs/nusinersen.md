@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nusinersen
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 512
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Nusinersen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -87,10 +87,10 @@ TxGNN 모델은 **고알도스테론증(Hyperaldosteronism)**에 효과가 있�
 - 허가사항 수준의 안전성 정보(경고, 금기, DDI) 확보 — 한국 미시판 약물이므로 FDA/EMA 라벨 우선 검토 필요
 - 고알도스테론증을 포함한 예측 적응증에 대한 전임상/기전 연구 존재 여부 재검색(현재 검색 결과 전부 0건)
 - TxGNN score가 0.5(임계값)에 근접한 예측은 통계적으로 유의하지 않을 가능성이 높으므로, 상위 순위(고신뢰도) 예측 후보로 재스코어링 후 재평가 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

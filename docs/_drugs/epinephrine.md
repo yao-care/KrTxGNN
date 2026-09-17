@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Epinephrine
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 292
-evidence_level: L5
+evidence_level: L2
 indication_count: 4
 ---
 
 # Epinephrine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L2** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -127,10 +127,10 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에도 효과�
 - 국내 시판 여부 및 제형별 투여경로 확인 (현재 총 허가 0건)
 - FDEIA(2순위) 적응증은 이미 승인된 아나필락시스 적응증의 직접 연장으로, 임상시험 설계상 윤리적 제약이 있어 실제 진행 시 RCT 대신 관찰연구·레지스트리 활용 검토 필요
 - Rienhoff 증후군(3순위)·호흡기 기형(4순위)은 근거 부재 또는 기전 불일치로 현시점 Hold 유지 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

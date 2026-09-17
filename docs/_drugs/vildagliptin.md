@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vildagliptin
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 722
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Vildagliptin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -119,10 +119,10 @@ TxGNN 상위 8개 예측(강직인간증후군, 지방위축증군 등)은 기�
 - 상세 MOA 데이터 확보 (DrugBank API 조회)
 - 제1형 당뇨병 가설에 대한 전향적 대조군 임상시험(특히 신규 진단/밀월기 환자 대상 β세포 기능 보존 종점) 확보
 - 순위 1~9 예측은 추가 문헌·전임상 근거가 발견되지 않는 한 재평가 대상에서 제외 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

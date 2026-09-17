@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dactinomycin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Dactinomycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -43,11 +43,11 @@ TxGNN 模型預測其對**復發緩解型多發性硬化症（Relapsing-Remittin
 
 | 項目 | 內容 |
 |------|------|
-| 既有適應症 | 橫紋肌肉瘤（RMS）、Wilms tumor 等兒童惡性腫瘤（臺灣未上市，依全球臨床使用記錄推定） |
+| 既有適應症 | 橫紋肌肉瘤（RMS）、Wilms tumor 等兒童惡性腫瘤（臺灣Not marketed，依全球臨床使用記錄推定） |
 | 預測新適應症 | 復發緩解型多發性硬化症（Relapsing-Remitting Multiple Sclerosis） |
 | TxGNN 預測分數 | 99.58%（全候選排名第 7,522） |
 | 根據水準 | L5（僅模型預測，無任何實際研究支持） |
-| 臺灣上市現況 | ❌ 未上市 |
+| 臺灣上市現況 | ❌ Not marketed |
 | 許可證數 | 0 件 |
 | 建議決策 | **Hold** |
 
@@ -77,7 +77,7 @@ TxGNN 模型預測其對**復發緩解型多發性硬化症（Relapsing-Remittin
 
 ## 臺灣上市資訊
 
-DACTINOMYCIN 目前在臺灣**未上市**，無任何藥品許可證資料，無法提取本地許可適應症。
+DACTINOMYCIN 目前在臺灣**Not marketed**，無任何藥品許可證資料，無法提取本地許可適應症。
 
 ---
 
@@ -123,13 +123,13 @@ Evidence Pack 共包含 9 項預測，以下 RMS 相關方向具有較強臨床�
 其中，**parameningeal embryonal RMS**（Rank 5）有多項 IRS Phase 3 RCT（含 PMID 19770373、10856103）直接確認 VAC 方案療效，機轉橋接最為合理，為本批次預測中最具推進價值的方向。
 
 **進行任何方向的進一步評估前，需補充：**
-- 完整 MOA 詳細資料（Data Gap DG002，影響機轉關聯性分析）
+- 完整 MOA 詳細資料（Data Gap DG002，Limits mechanistic-link analysis）
 - TFDA 仿單完整警語及禁忌資訊（Data Gap DG001，Blocking 等級）
 - 完整 DDI 評估（目前查詢無結果）
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

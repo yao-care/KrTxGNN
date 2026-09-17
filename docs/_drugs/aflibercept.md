@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aflibercept
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Aflibercept
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN 모델은 **내사시(Esotropia)**에 효과가 있을 수 있다고 예�
 | 예측 신규 적응증 | 내사시 (Esotropia) |
 | TxGNN 예측 점수 | 99.38% |
 | 근거 수준 | L5 |
-| 대만 시판 현황 | ✗ 미상시 (未上市) |
+| 대만 시판 현황 | ✗ 미상시 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -132,10 +132,10 @@ Aflibercept의 정맥 주사 제형(ziv-aflibercept, Zaltrap)은 전이성 대�
 ---
 
 > **면책 조항**: 본 보고서는 TxGNN 모델 예측 및 공개 데이터베이스 기반 연구 참고 자료로만 활용되어야 하며, 의료 행위의 근거 또는 의학적 조언으로 사용될 수 없습니다. 모든 재창출 후보는 임상 검증을 거쳐야 합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

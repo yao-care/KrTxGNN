@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rifaximin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 602
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Rifaximin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -46,7 +46,7 @@ TxGNN 모델은 **구강 칸디다증(Oral Candidiasis)**에 효과가 있을 �
 | 예측 신규 적응증 | 구강 칸디다증 (Oral Candidiasis) |
 | TxGNN 예측 점수 | 99.75% |
 | 근거 수준 | L4 (코호트 연구 1건, 단 반대 방향 신호) |
-| 한국 시판 현황 | ✗ 미시판 (未上市) |
+| 한국 시판 현황 | ✗ 미시판 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -107,10 +107,10 @@ TxGNN이 1순위로 예측한 구강 칸디다증에 대해 확인 가능한 유
 - 구강 칸디다증에 대한 **치료 목적**의 전임상/임상 연구 확보 (현재는 반대 방향 근거만 존재)
 - 2~6순위 예측 적응증에 대한 별도 문헌·임상시험 검토
 - 위 근거가 보강되지 않는 한 본 후보는 재창출 파이프라인에서 제외 검토 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hemin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 371
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Hemin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -85,10 +85,10 @@ Hemin(DrugBank ID: DB03404)은 국내 허가 정보 및 작용기전(MOA) 자료
 - 허가사항 경고/금기 정보 확보 (TFDA 등 규제기관 라벨 PDF 분석 — DG001, **Blocking** 등급 데이터 갭으로 안전성 초기평가(S1) 진입 자체가 불가능한 상태)
 - 혈소판감소성자반증에 대한 최소한의 전임상·기전 연구 확보 필요 (현재 L4 이상으로 격상할 근거 없음)
 - 참고: 동일 근거팩 내 **혈우병(hemophilia)** 후보(TxGNN 99.72%, L4, S1, "Research Question")는 HO-1 유도를 통한 FVIII 면역내성 보조 가설(동물모델 문헌 1건)이 존재하여 상대적으로 우선순위가 높습니다. 다만 이 역시 직접적 치료 기전이 아닌 보조적 가설이며, 함께 인용된 나머지 문헌 3건은 Givosiran/급성 간성 포르피린증 관련 연구로 혈우병과 무관해 노이즈로 판단되므로 별도 재검증이 필요합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

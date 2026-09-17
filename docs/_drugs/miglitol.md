@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Miglitol
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 479
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Miglitol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -104,10 +104,10 @@ Miglitol은 현재 한국 내 시판 허가 건수가 0건으로 확인되어(�
 - DrugBank API를 통한 공식 MOA 데이터 확인 — High 데이터 갭(DG002)
 - 최근 10년 내 대규모 RCT 부재 — 현대적 검증 임상시험 추가 필요
 - 국내 미시판 상태이므로 신규 허가 신청 경로 및 인슐린 병용요법으로서의 적응증 확대 가능성 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

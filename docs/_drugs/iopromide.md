@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Iopromide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 403
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Iopromide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -85,10 +85,10 @@ TxGNN 모델은 **골관절염 소인(Osteoarthritis Susceptibility)**에 효과
 - 식약처(MFDS) 허가사항 및 경고·금기 정보 확보 (현재 Blocking 등급 데이터 갭)
 - 골관절염 관련 실제 치료적 임상/전임상 근거 추가 확보 여부 재검토
 - 근거 미확보 시 후속 평가 대상에서 제외 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

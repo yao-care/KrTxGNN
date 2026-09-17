@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Doravirine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 270
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Doravirine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -97,10 +97,10 @@ Doravirine의 NNRTI 기전은 SIV RT의 NNIBP 구조적 차이로 인해 활성�
 - 안전성 데이터 확보 (허가기관 허가사항 PDF 파싱, 현재 차단 수준 데이터 갭)
 - SIV RT에 대한 in vitro 결합 활성 데이터 (전임상 근거 부재 확인 필요)
 - 보다 임상적으로 의미 있는 적응증 재탐색 권고 (예: HIV-1의 다른 합병증, 내성 변이주 대응 등)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

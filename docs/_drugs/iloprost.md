@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Iloprost
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 387
-evidence_level: L5
+evidence_level: L1
 indication_count: 9
 ---
 
 # Iloprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+근거 수준: **L1** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -94,7 +94,7 @@ HIV 관련 폐동맥고혈압(HIV-PAH)은 WHO Group 1 PAH의 아형으로, 원�
 
 ## 한국 시판 정보
 
-현재 한국 내 등재된 허가증이 없습니다. 시판 현황: 미상장(未上市).
+현재 한국 내 등재된 허가증이 없습니다. 시판 현황: 미상장(Not marketed).
 
 ---
 
@@ -133,10 +133,10 @@ HIV 관련 PAH에 대해서는 완료된 Phase 3 RCT와 다수의 문헌이 계�
 - DrugBank API 등을 통한 공식 작용기전(MOA) 데이터 보강 (DG002)
 - HIV-PAH 적응증에 특이적인 후속 임상 데이터(대규모/장기 추적) 확인
 - 두피 저모증·선천성 저모증·원형탈모증 등 L5 예측 3건은 추가 조사 우선순위에서 제외 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

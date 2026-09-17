@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Doripenem
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Doripenem
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -106,10 +106,10 @@ TxGNN 모델은 **간문맥 경화증(Hepatoportal Sclerosis)**에 효과가 있
 - 간문맥 경화증 맥락에서 항생제/장-간축 관련 문헌 확장 검색
 - L4 상향 가능 여부 검토를 위한 전임상·기전 연구 탐색
 - 예측 적응증 중 안전성 신호가 있는 항목(간카르포린증, 신생아 간질뇌증)은 진행 대상에서 제외 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

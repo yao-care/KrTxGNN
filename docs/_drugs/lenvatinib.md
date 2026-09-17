@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lenvatinib
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 434
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Lenvatinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -114,10 +114,10 @@ Lenvatinib의 예측·기재 적응증(지방육종, 신세포암 등)이 모두
 - DDI 및 골수억제·구토 유발성 등 세포독성 관련 자료 보완
 
 **참고:** 같은 Evidence Pack 내 다른 후보 적응증인 신세포암(renal carcinoma, rank 7)은 CLEAR 등 다수의 완료된 Phase 3 RCT와 기존 병용요법 승인 이력이 있어 근거 수준 L1로 훨씬 강력합니다. 우선순위 재검토 시 별도 평가를 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

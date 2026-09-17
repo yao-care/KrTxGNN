@@ -1,21 +1,21 @@
 ---
 layout: default
 title: L-Glutamine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 418
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # L-Glutamine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -93,10 +93,10 @@ TxGNN 모델이 제시한 10개 후보 질환을 모두 근거 스크리닝한 �
 - L-글루타민의 DrugBank MOA 상세 데이터 보완 (DG002)
 - TFDA/식약처 허가사항 기반 경고·금기사항 확인 (DG001, Blocking)
 - 한국 내 시판·허가 현황 추가 조사 (현재 0건)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

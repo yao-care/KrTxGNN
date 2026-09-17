@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cefamandole Nafate
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 179
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Cefamandole Nafate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -91,10 +91,10 @@ Cefamandole nafate는 제2세대 세팔로스포린계 항생제 계열 약물�
 - 한국 규제기관 허가사항(경고·금기·상호작용) 데이터 확보 (현재 미출시로 데이터 없음)
 - 최소 L3 수준 이상의 실증 근거(관찰연구, 체계적 문헌고찰 또는 임상시험) 확보 전까지 추가 진행 보류
 - 상위 예측군의 기전적 타당성에 대한 별도 전문가 검토 (현 시점 가양성 가능성 높음으로 판단됨)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

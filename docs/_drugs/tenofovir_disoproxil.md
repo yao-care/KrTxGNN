@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tenofovir Disoproxil
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 667
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Tenofovir Disoproxil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -120,10 +120,10 @@ Tenofovir Disoproxil(DB00300)은 본 Evidence Pack에 원 적응증 및 작용�
 - 식약처(또는 TFDA) 허가사항 PDF 확보 및 경고·금기 파싱 (DG001, Blocking — S1 진입 필수 선행조건)
 - 이 예측을 "SIV 치료"가 아닌 "HIV PrEP/치료 전략의 기전적 타당성 근거"로 재해석할지에 대한 연구 방향 재정의
 - 실제 인간 적응증(HIV 감염 등) 관점에서 재쿼리하여 임상적으로 의미 있는 예측 재도출 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

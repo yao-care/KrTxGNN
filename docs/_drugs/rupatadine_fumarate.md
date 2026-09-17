@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rupatadine Fumarate
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 623
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Rupatadine Fumarate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -64,10 +64,10 @@ TxGNN 예측 적응증이 존재하지 않아 재창출 방향성 자체를 설�
 - **[DG001 해소]** 규제 기관 허가 자료 수집 — MFDS(식약처) 의약품 허가 데이터베이스에서 허가 현황 및 경고/금기 사항 확인
 - **[DG002 해소]** DrugBank API 조회 — Rupatadine Fumarate의 DrugBank ID 확보 후 MOA, 안전성, 약물 상호작용 데이터 수집
 - 허가 데이터 수집 이후 Evidence Pack 재생성 및 본 보고서 업데이트
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

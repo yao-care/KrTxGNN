@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Icodextrin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 382
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Icodextrin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -81,10 +81,10 @@ TxGNN 모델은 **과민성대장증후군(Irritable Bowel Syndrome)**에 효과
 
 **참고 — 함께 평가된 다른 예측 후보(2~10순위)**
 동일 평가에서 non-syndromic esophageal malformation, C1 inhibitor deficiency, potassium deficiency disease, serpinopathy, hereditary angioedema, esophageal disease, familial visceral myopathy, renal tubular acidosis, vitamin deficiency disorder 등 9건이 함께 예측되었으나 모두 임상시험·문헌 근거가 없고(evidence level L5, 단 renal tubular acidosis는 L4) 전부 **Hold** 판정입니다. 특히 potassium deficiency disease(4순위)는 Icodextrin 사용 시 알려진 전해질 손실(저나트륨혈증 등) 부작용과 방향이 상반되어, 단순 근거 부족을 넘어 **잠재적 역방향 위험 신호**로 별도 주의가 필요합니다. non-syndromic esophageal malformation과 familial visceral myopathy는 구조적/유전적 질환으로 약물 재창출 논리 자체가 적용되기 어려운 후보로 추적 우선순위에서 제외를 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

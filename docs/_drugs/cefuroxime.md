@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cefuroxime
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 188
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Cefuroxime
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -109,10 +109,10 @@ TxGNN 모델은 **세균성 관절염(Bacterial Arthritis)**에 효과가 있을
 - DrugBank 등을 통한 작용기전(MOA) 상세 데이터 보완
 - 한국 내 허가·시판 현황 확인
 - 세균성 관절염 적응증에 대한 전향적 임상시험 설계 검토 (현재 등록된 관련 임상시험 없음)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

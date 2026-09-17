@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Itraconazole
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 412
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Itraconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -88,10 +88,10 @@ Itraconazole은 트리아졸계 항진균제로, 전신 진균감염 치료에 �
 - Itraconazole의 상세 작용기전(MOA) 데이터 확보 — High 등급 데이터 갭 (DG002)
 - Pneumocystis jirovecii에 대한 직접적 in vitro/in vivo 항균 활성 데이터
 - 약물상호작용(DDI) 정보 재조회 (현재 not_found)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

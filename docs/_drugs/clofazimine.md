@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clofazimine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 214
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Clofazimine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -100,10 +100,10 @@ TxGNN 모델은 **주폐포자충증(Pneumocystosis)**에 효과가 있을 수 �
 - 작용 기전(MOA) 데이터 보완 (DrugBank API 조회)
 - MFDS·WHO·FDA 처방 정보에서 경고/금기 등 안전성 데이터 확보 (현재 Blocking 데이터 갭)
 - 한국 내 미시판 약물로, 임상 적용 이전 국내 도입 가능성 및 특례수입 검토 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

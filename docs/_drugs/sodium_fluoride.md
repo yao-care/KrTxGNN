@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sodium Fluoride
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 641
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Sodium Fluoride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -89,10 +89,10 @@ Evidence Pack에 포함된 기전 분석(repurposing_rationale)에 따르면, �
 - DrugBank API 등을 통한 Sodium Fluoride 작용기전(MOA) 확인 — High 우선순위(DG002)
 - 후두개염 및 기타 예측 적응증에 대한 최소 전임상/기전 연구 확보 (현재 L4 이상 근거 없음)
 - 위 자료 공백 해소 전까지 추가 개발 자원 투입 보류 권고
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

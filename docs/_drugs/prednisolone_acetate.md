@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Prednisolone Acetate
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 573
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Prednisolone Acetate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -99,10 +99,10 @@ TxGNN 모델은 **기생충성 결막염(Parasitic Conjunctivitis)**에 효과�
 |---|---|---|---|
 | 춘계 각결막염 (Vernal Conjunctivitis, VKC) | L3 | Proceed with Guardrails | Th2/IgE 매개 알레르기성 질환으로 국소 스테로이드가 임상 표준 치료. 비교임상시험 및 동일 계열 약물(loteprednol) 장기 안전성 자료 존재. IOP·백내장 모니터링 필요 |
 | 유두형 결막염 (Papillary Conjunctivitis, GPC) | L3 | Research Question | 알레르기성 발병기전으로 스테로이드 사용이 합리적이나, 근거 대부분이 prednisolone 자체가 아닌 동일 계열 약물(loteprednol)에서 유래 |
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

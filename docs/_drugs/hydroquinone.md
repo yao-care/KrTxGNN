@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Hydroquinone
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 377
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
 # Hydroquinone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L4** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -97,10 +97,10 @@ Hydroquinone은 타이로시나제(tyrosinase)를 억제하여 멜라닌 생성�
 - DrugBank API를 통한 정확한 작용기전(MOA) 데이터 확보 (DG002, High)
 - 지루성 각화증에 특화된 전향적 연구 또는 임상시험 데이터 확보
 - **참고**: 이번 Evidence Pack에 포함된 3순위 예측 적응증 'exanthem'은 첨부된 임상시험 7건이 실제로는 모두 기미(melasma)/색소침착 관련 연구이며 exanthem(발진성 질환)과 임상적으로 무관합니다. TxGNN 질병 매핑 오류 가능성이 있어 별도 데이터 품질 검토가 필요합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

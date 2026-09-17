@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alirocumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Alirocumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ X-연관 어린선과 Alirocumab의 PCSK9 억제 기전 간 생물학적 합리�
 - 허가사항 기반 경고·금기사항 등 안전성 정보 보완
 
 > **참고 — 더 나은 재창출 후보**: 이번 예측 목록 중 **cholesterol catabolic process disease** (예측 순위 5위, 근거 수준 L1, Proceed with Guardrails)는 1건의 완료된 Phase 3 임상시험과 19편의 문헌을 보유하며, Alirocumab의 PCSK9 억제 기전과 직접 부합합니다. 실질적인 재창출 검토는 이 후보를 우선 대상으로 하는 것을 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

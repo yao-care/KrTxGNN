@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Entrectinib
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 289
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Entrectinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -115,10 +115,10 @@ MEN 특이적 임상시험이 전무하고, 유일한 관련 문헌(PMID 3843873
 - MEN2에서 Entrectinib RET 억제 효능에 관한 전임상(세포주/동물 모델) 데이터 탐색
 - 선택적 RET 억제제(Selpercatinib, Pralsetinib)와의 효능 비교 근거 검토
 - 여성 유방암 예측(Rank 8)에 대한 별도 재창출 평가 보고서 작성 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

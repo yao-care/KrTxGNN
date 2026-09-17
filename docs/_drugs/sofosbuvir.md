@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sofosbuvir
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 642
-evidence_level: L5
+evidence_level: L3
 indication_count: 8
 ---
 
 # Sofosbuvir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+근거 수준: **L3** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -106,10 +106,10 @@ Sofosbuvir는 HCV의 NS5B RNA 의존성 RNA 중합효소(RdRp)를 억제하여 �
 - NCT03312023 파일럿 연구의 정식 결과 논문 발표 확인 및 반영
 - HBV 단독감염 대상 무작위대조시험(RCT) 설계 필요성에 대한 전문가 검토
 - NCT03261349의 관련성 등급(B) 재검토 — 근거팩 내 근거(reasoning)와 시험 제목(HCV 연관 림프종) 간 불일치 확인 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

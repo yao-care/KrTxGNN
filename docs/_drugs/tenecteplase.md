@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tenecteplase
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 665
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Tenecteplase
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -82,10 +82,10 @@ DrugBank의 구조화된 작용 기전(MOA) 필드는 현재 데이터 공백(DG
 - 후측벽 심근경색 아형에 특이적인 임상 근거 확보 여부 확인
 
 **참고:** 동일 근거 팩 내 5순위 후보인 "coronary stenosis"(관상동맥 협착)는 완료된 Phase 2 RCT(NCT00604695, ICE-T)와 관련 코호트 문헌을 보유해 L2/S2 단계로 평가되며, 별도 보고서로 다룰 가치가 있는 더 실질적인 신호입니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

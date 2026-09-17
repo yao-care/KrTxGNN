@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Lenograstim
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 433
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 ---
 
 # Lenograstim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L4** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -116,10 +116,10 @@ TxGNN의 높은 예측 점수는 지식그래프 내 "G-CSF—조혈모세포이
 - Lenograstim 상세 MOA 자료 재확보(DrugBank API 재조회) — DG002 해소
 - 원발성 혈소판 방출 장애에 특이적인 전임상/기전 연구 문헌 확보
 - 직접 관련 임상시험 등록 여부 지속 모니터링
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

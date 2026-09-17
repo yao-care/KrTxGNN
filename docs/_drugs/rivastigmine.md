@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Rivastigmine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 609
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Rivastigmine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -108,10 +108,10 @@ Rivastigmine은 선택적 카바메이트계 AChE 억제제로, 뇌에서 아세
 - MOA 상세 자료 확보 (DrugBank API 조회)
 - MFDS 허가 안전성 자료 또는 해외 허가 자료(FDA Label) 준용을 통한 경고·금기 사항 보완
 - 기존 녹내장 치료제(prostaglandin 유사체, β-차단제, pilocarpine)와의 병용 가능성 및 DDI 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Insulin Aspart
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 394
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Insulin Aspart
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -113,10 +113,10 @@ Evidence Pack에는 구조화된 MOA(작용기전) 필드가 채워져 있지 �
 - 공식 MOA 문서화(DrugBank API 조회) — High 심각도 데이터 갭(DG002)
 - 국내 시판 여부 및 허가 전략 검토(현재 허가 0건)
 - 재창출 파이프라인 관점에서는 본 후보보다 permanent neonatal diabetes mellitus(순위 5위, L3) 등 하위 순위 후보를 별도 검토 우선순위로 고려 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

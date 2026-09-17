@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Levonorgestrel
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 440
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 ---
 
 # Levonorgestrel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L3** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -94,10 +94,10 @@ TxGNN 예측 점수는 높지만, 실제 근거를 검토한 결과 여드름 �
 - TFDA 경고·금기사항 확보 — 이것이 해결되지 않으면 S1 진행 자체가 불가 (DG001, Blocking)
 - LNG가 복합제 대비 단독으로 안드로겐 지표(유리 테스토스테론, SHBG)에 미치는 영향을 분리한 대조 연구
 - 이 신호가 TxGNN 지식그래프 내 "프로게스틴 계열" 노드의 뭉뚱그려진 연결에서 비롯된 것인지(다른 항안드로겐성 프로게스틴과의 혼동) 확인 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

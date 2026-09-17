@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ibuprofen
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 381
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Ibuprofen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ Ibuprofen은 COX 억제제로서, 이 질환에 동반될 수 있는 관절 통�
 - DrugBank API 조회를 통한 Ibuprofen 원 적응증 및 상세 MOA 확보 (High Data Gap 해소)
 - 상위 예측 질환에 대한 추가 문헌/전임상 검색 (현재 PubMed·ClinicalTrials.gov·ICTRP 조회 결과 0건 확인됨, 재조회 주기적 필요)
 - 7개 예측이 실제 개별 기전 신호인지, 지식그래프 군집 아티팩트인지 구분하기 위한 정성적 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

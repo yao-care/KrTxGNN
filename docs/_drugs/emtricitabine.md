@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Emtricitabine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 285
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Emtricitabine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -103,10 +103,10 @@ Emtricitabine은 핵산계 역전사효소 억제제(NRTI)로, 세포 내에서 
 - FIV를 직접 대상으로 한 추가 수의학 임상 연구 또는 전향적 동물 연구
 - 수의학적 적응증 여부에 대한 규제기관 자문 및 수입·사용 가능성 검토
 - 인체 적응증 예측(Rank 3: 신경발달장애)에 대한 별도 기전 분석 수행
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

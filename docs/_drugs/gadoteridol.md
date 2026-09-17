@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gadoteridol
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 341
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Gadoteridol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -111,10 +111,10 @@ Gadoteridol은 치료제가 아닌 **MRI 조영제**(마크로사이클릭 비�
 - MFDS(식약처) 허가사항 및 경고·금기 정보 확보 (현재 Blocking 데이터 갭)
 - DrugBank 기반 정확한 MOA 데이터 확보
 - 이 후보는 "치료제 재창출"이 아닌 "진단 영상 활용 확대" 관점으로 재분류할지 여부를 우선 결정 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

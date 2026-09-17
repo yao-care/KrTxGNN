@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phenol
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 549
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Phenol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -84,10 +84,10 @@ TxGNN 모델은 **만성 위축성 선단피부염(Acrodermatitis Chronica Atrop
 - Phenol의 상세 작용 기전(MOA) 자료 확보 — DrugBank API 재조회 필요
 - 만성 위축성 선단피부염에 대한 phenol 특이적 전임상/기전 연구 존재 여부 확인
 - (대안 검토) 5순위 "acne keloid"는 phenol 화학박피의 실제 임상 사용 이력과 L3 문헌 근거가 있어, 별도의 연구 질문(Research Question)으로 좁혀서 재평가할 가치가 있음
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

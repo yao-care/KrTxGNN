@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Azathioprine
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 110
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Azathioprine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -120,10 +120,10 @@ IBD 적응증에 대해 다수의 완료된 Phase 3 RCT, 코크란 체계적 문
 - MFDS/TFDA 허가사항 기반 경고, 금기, 주요 약물 상호작용 정보 수집
 - TPMT 및 NUDT15 약물유전체 검사 프로토콜 수립 (특히 한국인 집단의 NUDT15 R139C 변이 빈도가 서양인 대비 높아 용량 조절 필요)
 - 한국인 IBD 환자에서의 골수억제, 감염 위험 등 이상반응 모니터링 계획 수립
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fremanezumab
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 338
-evidence_level: L5
+evidence_level: L3
 indication_count: 2
 ---
 
 # Fremanezumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L3** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -100,10 +100,10 @@ Fremanezumab은 CGRP(칼시토닌 유전자 관련 펩타이드)를 표적으로
 - DrugBank API를 통한 상세 작용기전(MOA) 데이터 확보
 - 뇌간조짐편두통/편마비편두통 등 조짐 아형을 직접 대상으로 한 전향적 임상 자료
 - CGRP 항체의 조짐 전파(CSD) 억제 효과에 대한 추가 기전 검증
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

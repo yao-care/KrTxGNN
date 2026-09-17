@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Buprenorphine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Buprenorphine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -100,10 +100,10 @@ Buprenorphine은 현재 한국에서 허가된 제품이 없으며, 시판 중�
 - Buprenorphine의 AIP 환자 안전성 평가 (포르피리아 유발 잠재성 문헌 검색)
 - AIP 또는 관련 신경계 증상 관리에서의 오피오이드 사용 사례 보고서 재탐색
 - 전임상 기전 연구 (AIP 동물 모델에서의 오피오이드 수용체 역할 검토)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

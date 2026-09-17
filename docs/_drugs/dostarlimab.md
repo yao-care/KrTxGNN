@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Dostarlimab
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 272
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Dostarlimab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -134,10 +134,10 @@ Dostarlimab은 전통적 세포독성 화학요법이 아닌 면역 관문 억�
 - niraparib 병용 시 혈액독성(혈소판감소증·호중구감소증) 추가 모니터링 계획
 - 환자 선택 전략 수립: dMMR/MSI-H 상태, BRCA1/2 변이, HRD 점수 등 예측 바이오마커 기반 선별 기준
 - NItCHE(MITO 33) 및 FIRST/ENGOT-OV44 최종 결과 업데이트 지속 추적
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Docetaxel
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 267
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Docetaxel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -128,10 +128,10 @@ TxGNN 예측 점수 99.90%는 방대한 지식 그래프 기반 분석 결과로
 - 국내 허가사항(첨부문서) 확보 및 경고·금기 사항 상세 검토
 - 골수억제, 림프부종, 말초 신경병증에 대한 한국인 환자 모니터링 프로토콜 수립
 - 약물 상호작용(DDI) 데이터베이스 재조회 및 주요 상호작용 목록화
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

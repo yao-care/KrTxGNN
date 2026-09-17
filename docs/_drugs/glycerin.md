@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glycerin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 360
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Glycerin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -154,10 +154,10 @@ Glycerin 관장제는 IBS-C(변비형)에 국소 완하 효과를 나타내나, 
 - MFDS(식품의약품안전처) 허가사항 및 안전성 가이드라인 확인
 - AQP3-glycerol 수송 기전과 방수 생성 관련 체계적 문헌 고찰
 - 과민성 장증후군에서 투여 경로별(경구·직장) glycerin 효과 차이에 대한 안전성 재평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

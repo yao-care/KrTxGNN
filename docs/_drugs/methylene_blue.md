@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Methylene Blue
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 474
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Methylene Blue
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ Methylene Blue는 한국 내 허가 및 시판 이력이 없어 기존 적응증
 - Methylene Blue의 상세 작용기전(MOA) 자료 확보
 - 기관지염에 특이적인 전임상 또는 기전 연구, 임상시험 근거 확보
 - (참고) 동일 Evidence Pack 내 2·3순위 예측인 메트헤모글로빈혈증은 기전적 타당성이 뚜렷하고 근거 수준(L3~L4)도 더 높아, 우선순위 재검토를 고려할 만함
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

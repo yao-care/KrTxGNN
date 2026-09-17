@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Difluprednate
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 261
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Difluprednate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -106,10 +106,10 @@ DIFLUPREDNATE 0.05% 안구 유화액은 FDA에서 내인성 전포도막염(홍�
 - 안내압 상승·백내장 유발 등 안구 코르티코이드 장기 투여 관련 안전성 모니터링 계획 수립
 - MFDS 품목 허가 신청을 위한 임상자료 패키지 준비 (NCT00407056 pivotal study 활용 검토)
 - 국내 교차 임상시험 필요 여부에 대한 MFDS 사전 상담
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

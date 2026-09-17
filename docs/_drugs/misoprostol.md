@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Misoprostol
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 485
-evidence_level: L5
+evidence_level: L3
 indication_count: 2
 ---
 
 # Misoprostol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L3** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -106,10 +106,10 @@ TxGNN이 "무월경"을 예측 적응증으로 제시한 근거는, 지식그래
 - 식약처 허가·안전성 자료 확보 (Blocking data gap DG001)
 - Misoprostol 상세 작용기전(MOA) 자료 확보 (High data gap DG002)
 - 무월경 자체를 1차 평가지표로 한 임상 근거 부재 확인 → 필요 시 가설검증용 예비연구 설계 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

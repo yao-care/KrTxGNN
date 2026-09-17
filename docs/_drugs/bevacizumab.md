@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bevacizumab
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 138
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Bevacizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -144,10 +144,10 @@ TxGNN 모델은 **10개의 신규 적응증**에 대한 예측 가능성을 제�
 - 경추 신경모세포종(L3, Research Question)에 대한 전향적 연구 또는 확장 증례 계열 데이터
 - 두경부 양성 종양 적응증에 대한 VEGF 발현 정도 및 항혈관신생 요법 효익-위험 전임상 데이터
 - Bevacizumab 특이 안전성 모니터링 프로토콜 수립 (고혈압, 단백뇨, 혈전색전증 기준)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

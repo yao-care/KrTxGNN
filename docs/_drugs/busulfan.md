@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Busulfan
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 157
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Busulfan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN 모델은 **골수이형성증후군(Myelodysplastic Syndrome)**에 효과
 | 예측 신규 적응증 | 골수이형성증후군 (Myelodysplastic Syndrome) |
 | TxGNN 예측 점수 | 99.62% |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | 미시판 (未上市) |
+| 한국 시판 현황 | 미시판 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -111,10 +111,10 @@ Busulfan은 MDS 환자의 allo-HSCT 전처치에서 이미 표준적 역할을 �
 - Busulfan TDM(치료약물 모니터링) 프로토콜 수립 — 목표 AUC 범위 정의 포함
 - BuCy vs BuFlu 전처치 방안 선택 기준 및 비교 근거 문헌 검토
 - 정맥주사 제형(Busulfex® IV) 국내 공급 체계 및 조달 가능성 확인
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

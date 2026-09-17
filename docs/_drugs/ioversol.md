@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ioversol
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ioversol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ TxGNN 모델은 **골관절염 감수성(Osteoarthritis Susceptibility)**에 효
 | 예측 신규 적응증 | 골관절염 감수성 (Osteoarthritis Susceptibility) |
 | TxGNN 예측 점수 | 99.67% |
 | 근거 수준 | L5 (모델 예측만 존재, 실제 연구 없음) |
-| 한국 시판 현황 | 미상 (未上市) |
+| 한국 시판 현황 | 미상 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -80,10 +80,10 @@ TxGNN 모델은 **골관절염 감수성(Osteoarthritis Susceptibility)**에 효
 - TFDA 등 해외 규제기관의 첨부문서(경고·금기) 확보 (현재 Blocking 데이터 갭)
 - DrugBank 등에서 상세 작용기전(MOA) 확인 (현재 High 데이터 갭)
 - 순위 2위 "골관절염" 예측에 대해 Ioversol 고유의 치료적 관련성을 검증할 수 있는 별도 연구 필요 (현재 증거는 타 조영제 기반 시술 연구에 한정됨)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mogamulizumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 488
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Mogamulizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ Mogamulizumab은 백혈병/림프종 적응증을 가진 항종양 생물학적 
 - 관련 임상시험·문헌 지속 모니터링 (현재 0건)
 
 > 참고: 이번 Evidence Pack에는 순위 2~7위 후보(신장골반 육종양 이행세포암, 방광 요로상피암 육종양 변이형, 신우 유두상 요로상피암, HHV-8 관련 종양, 외배엽간엽종, 악성 피부 과립세포종양)도 함께 포함되어 있으며, 모두 동일하게 **L5·Hold**로 평가되고 임상시험·문헌 근거가 없습니다. 이 중 HHV-8 관련 종양은 바이러스 잠복기 면역조절과 CCR4+ Treg의 간접적 연관 가설이 상대적으로 합리적이나, 이 역시 검증 데이터는 없습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

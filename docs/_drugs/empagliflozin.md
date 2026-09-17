@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Empagliflozin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 284
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Empagliflozin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -43,11 +43,11 @@ TxGNN 模型以 **99.06% 的預測分數**，預測其對**典型僵人症候群
 
 | 項目 | 內容 |
 |------|------|
-| 既有適應症 | 2型糖尿病（全球核准；本地尚未上市） |
+| 既有適應症 | 2型糖尿病（全球核准；本地尚Not marketed） |
 | 預測新適應症 | 典型僵人症候群（Classic Stiff Person Syndrome） |
 | TxGNN 預測分數 | 99.06% |
 | 根據等級 | L5 |
-| 本地上市現況 | ✗ 尚未上市 |
+| 本地上市現況 | ✗ 尚Not marketed |
 | 許可證數量 | 0件 |
 | 建議決策 | Hold |
 
@@ -94,10 +94,10 @@ TxGNN 模型以 **99.06% 的預測分數**，預測其對**典型僵人症候群
 - SGLT2 抑制劑用於神經炎症疾病的早期訊號文獻（即使非 SPS 特定）
 - 評估血腦屏障穿透率是否足以在中樞神經系統達到有效藥物濃度
 - 確認第1名與第2名預測是否確為知識圖譜節點共享評分，以排除偽訊號
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bambuterol Hydrochloride
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 121
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Bambuterol Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -101,10 +101,10 @@ TxGNN 예측 결과가 없고, 한국 내 허가 이력 및 안전성 정보가 
 - **[필수] 허가사항 확인**: 경고, 금기, 주요 부작용 데이터 확보 (DG001 해소)
 - **[권장] 한국(MFDS) 또는 해외 허가 이력 조회**: 원래 적응증 및 시판 현황 확인
 - **[권장] PubMed 배경 문헌 검색**: 베타-2 효능제 계열의 재창출 사례 조사
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

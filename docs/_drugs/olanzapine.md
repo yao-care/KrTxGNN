@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Olanzapine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Olanzapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -96,10 +96,10 @@ TxGNN 모델 예측 외에 임상시험·문헌 근거가 전혀 없고, 작용�
 - 영아 양성 발작성 사경 관련 임상/전임상 근거 추가 탐색
 
 **참고:** 동일 Evidence Pack 내 다른 예측 적응증 중 **agoraphobia**(문헌 7편, 12주 open-label 병용 시험 포함, PMID 16415705)와 **dysthymic disorder**(문헌 5편, Cochrane 체계적 문헌고찰 포함, PMID 21154393)는 상대적으로 더 많은 문헌 근거를 보유하고 있어, 우선 검토 후보로 고려할 가치가 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

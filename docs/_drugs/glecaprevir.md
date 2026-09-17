@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Glecaprevir
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 351
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Glecaprevir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -116,10 +116,10 @@ Glecaprevir의 HCV NS3/4A 세린 단백분해효소 억제 기전은 HIV 복제 
 - Glecaprevir의 HIV 역전사효소 또는 HIV 단백분해효소에 대한 체외(in vitro) 활성 데이터 (현재 없음, 수집 필요)
 - 상세한 작용 기전(MOA) 데이터 보완 — DrugBank API 조회 권장 (DG002 해소)
 - 만약 Flaviviridae 계열 교차 억제 가능성을 탐색한다면, Rank 8(Omsk 출혈열) 및 Rank 9(Kyasanur 산림병)에 대한 in vitro NS3 억제 실험이 보다 기전적으로 타당한 출발점
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ipilimumab
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 405
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 ---
 
 # Ipilimumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L2** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -127,10 +127,10 @@ Ipilimumab의 anti-CTLA-4 기전은 흑색종 면역치료의 확립된 약리�
 - 국내(한국) 허가사항의 경고·금기·DDI 정보 (현재 전부 데이터 갭)
 - 포도막·점막 흑색종 등 비피부형 아형에 특이적인 전향적 임상시험 근거 확보
 - choroideremia 예측 신호는 근거 부재 및 기전 상충으로 별도 조사 없이 Hold 유지 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

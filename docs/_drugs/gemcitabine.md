@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Gemcitabine
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 344
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Gemcitabine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -107,10 +107,10 @@ Gemcitabine은 뉴클레오시드 유사체 계열의 세포독성 항암제로 
 - 기존 승인 적응증 정보 확인 (현재 Evidence Pack에 미기재)
 - 한국(또는 대만) 내 시판/허가 현황 최신화 확인 (현재 미출시)
 - 유방암 적응증에 특화된 전향적 임상시험 설계 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

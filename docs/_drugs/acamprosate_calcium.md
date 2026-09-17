@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acamprosate Calcium
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 15
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Acamprosate Calcium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -66,10 +66,10 @@ ACAMPROSATE CALCIUM은 현재 대만 시장에 미등록된 약물입니다.
 - **DrugBank 데이터 통합**: query_log에 DrugBank 조회 성공(result_count: 1) 기록이 있으나 결과가 Evidence Pack에 누락됨 — DrugBank ID·MOA·카테고리 추출 필요
 - **허가 현황 확인**: 대만 미상市이지만 글로벌(미국 FDA, EMA, 일본 PMDA 등) 허가 여부 확인 필요
 - **안전성 정보 확보**: TFDA 또는 글로벌 허가 기관 공식 라벨에서 경고·금기 내용 파싱
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

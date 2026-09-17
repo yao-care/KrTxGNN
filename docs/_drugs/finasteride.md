@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Finasteride
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 324
-evidence_level: L5
+evidence_level: L4
 indication_count: 6
 ---
 
 # Finasteride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L4** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -104,10 +104,10 @@ Finasteride는 본 Evidence Pack 내에 원 적응증·작용기전(MOA) 데이�
 - 국내 허가사항 경고/금기 자료 확보 — TFDA(현지 규제기관) 원문 PDF 파싱 필요 (Blocking Data Gap, S1 안전성 초평가 진입 전제조건)
 - Finasteride-다모증 관계에 대한 직접적 전임상/기전 연구
 - 나머지 4개 후보(Ambras 다모증, 치주 기형 증후군, Dandy-Walker 증후군, 모발간 구조이상)는 기전적 타당성과 실증 자료가 전무하여 별도 조치 없이 Hold 유지 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

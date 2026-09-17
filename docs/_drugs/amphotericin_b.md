@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amphotericin B
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Amphotericin B
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -73,10 +73,10 @@ TxGNN 모델의 예측 결과가 생성되지 않아 **신규 적응증 후보�
 - **[필수]** TxGNN 예측 재실행: 위 두 데이터를 보완한 뒤 KG·DL 예측 파이프라인 재실행 (`scripts/run_kg_prediction.py`)
 - **[권장]** 안전성 데이터 확보: MFDS 허가사항 PDF 다운로드 및 경고·금기사항 파싱
 - **[권장]** 한국 시판 현황 재확인: MFDS 의약품통합정보시스템(nedrug.mfds.go.kr) 재조회
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

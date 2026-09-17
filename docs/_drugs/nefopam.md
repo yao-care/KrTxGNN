@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nefopam
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 500
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Nefopam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ Nefopam은 단가아민(노르아드레날린/세로토닌/도파민) 재흡수 
 - 대규모·다기관 RCT를 통한 요추관협착증 수술 후 통증에 대한 효능 재현
 - 경련 위험군(뇌전증 병력 등) 배제 기준을 포함한 안전성 모니터링 계획
 - TxGNN 상위 순위(백내장 계열) 예측에 대한 재검토 — 현재는 모델 군집 효과로 판단되어 근거 부족
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

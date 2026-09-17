@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Palivizumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 532
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Palivizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ Palivizumab은 현재 한국에서 **미판매** 상태이며, 등재된 허가�
 - TFDA 공식 사이트에서 허가사항(경고·금기) PDF 확보 및 파싱 (DG001)
 - 혀 양성종양을 포함한 예측 적응증에 대한 전임상/기전 연구 존재 여부 재탐색
 - 예측 상위 10건 전체가 이질적 질환군으로 나타난 점에 대해 TxGNN 모델 임베딩 신뢰도 재검토 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Albendazole
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 30
-evidence_level: L5
+evidence_level: L2
 indication_count: 3
 ---
 
 # Albendazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L2** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -122,10 +122,10 @@ Phase 2 완료 RCT(NCT07182305, n=194)가 조기 폐포성 에키노코쿠스증
 - 한국 내 AE 유병률 및 환자 수 추정 (희귀질환 지정 가능성 및 급여 전략 검토)
 - 장기 albendazole 투여 시 모니터링 프로토콜 수립 (간기능 검사, CBC 포함 혈구 분류, 전해질)
 - 해외 허가 현황(일본 PMDA, 미국 FDA, EMA 등) 비교 분석을 통한 한국 허가 신청 전략 수립
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

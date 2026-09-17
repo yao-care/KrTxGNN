@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vandetanib
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 717
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Vandetanib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -123,10 +123,10 @@ vandetanib을 RCC에 직접 적용한 임상시험 4건 중 2건은 소규모(N=
 - 공식 작용기전(MOA) 자료 확보 — DrugBank API 조회 (DG002)
 - 조기 종료된 NCT02495103·NCT01372813의 종료 사유 및 중간 결과 확인
 - 대규모·무작위 RCC 임상시험 데이터 확보 또는 신규 연구 설계 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Insulin Detemir
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 396
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Insulin Detemir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -107,10 +107,10 @@ Insulin Detemir(DB01307)는 장시간형 인슐린 유사체로, 본 Evidence Pa
 - DG002: DrugBank API를 통한 정식 MOA 데이터 확보
 - `original_indications` 공백 원인 확인 — 데이터 수집 오류인지, 실제 미등재 상태인지 재검증
 - 진정한 신규 적응증 후보를 찾으려면 rank 1(제1형 당뇨병)을 제외하고 rank 7 이하(췌장무형성증 등)처럼 기전적으로 의미 있으나 근거가 부족한 후보에 대해 전임상/기전 연구 우선 확보 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

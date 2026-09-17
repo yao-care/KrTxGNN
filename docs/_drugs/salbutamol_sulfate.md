@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Salbutamol Sulfate
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Salbutamol Sulfate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -67,11 +67,11 @@ TxGNN 예측 결과, 임상시험 근거, 문헌 근거, MOA 데이터가 모두
 1. **TxGNN 예측 파이프라인 재실행** — `predicted_indications` 배열이 비어 있어 예측 결과가 없음. KG 예측 및 DL 예측 스크립트 실행 여부 확인 필요
 2. **DrugBank ID 및 MOA 보완** — DrugBank API 쿼리는 성공(result\_count: 1)했으나 `drugbank_id`가 null인 상태. 매핑 결과를 Evidence Pack에 반영 필요
 3. **허가사항 경고/금기 데이터 확보** — TFDA 또는 MFDS 공식 사이트에서 仿單 PDF 다운로드 후 파싱 (DG001 Blocking 해결)
-4. **시판 현황 재확인** — SALBUTAMOL SULFATE는 전 세계적으로 광범위하게 허가된 기관지확장제로, 시판 현황 "未上市"는 데이터 파이프라인 오류 가능성이 높음. 원시 데이터 재점검 권장
-## Disclaimer
+4. **시판 현황 재확인** — SALBUTAMOL SULFATE는 전 세계적으로 광범위하게 허가된 기관지확장제로, 시판 현황 "Not marketed"는 데이터 파이프라인 오류 가능성이 높음. 원시 데이터 재점검 권장
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

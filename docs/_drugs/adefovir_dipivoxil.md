@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adefovir Dipivoxil
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Adefovir Dipivoxil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -159,10 +159,10 @@ B형 간염 바이러스 감염에 대한 Adefovir Dipivoxil의 효능은 다수
 - 장기 신기능 모니터링 프로토콜 수립 및 한국 환자 특이 신독성 위험인자 분석
 - 국내 HBV 치료 가이드라인(대한간학회)과의 적합성 검토 및 급여 전략 설계
 - 비용효과 분석 — 국내 HBV 표준치료(TDF/ETV)와의 비교 경제성 평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

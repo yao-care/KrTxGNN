@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sacituzumab Govitecan
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 625
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Sacituzumab Govitecan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -105,10 +105,10 @@ TxGNN이 예측한 상위 10개 적응증 전체가 임상시험 및 문헌 근�
 - 한국 MFDS 허가사항(경고, 금기, 주요 이상반응) 수집
 - Trop-2 발현 프로파일을 기반으로 한 종양 적응증 재탐색 (폐암, 자궁경부암, 방광암 등 Trop-2 과발현 암종 우선 검토)
 - ADC 재창출 후보는 비항암 적응증보다 다른 Trop-2 과발현 고형암 적응증 확장을 우선 고려할 것을 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Canakinumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 167
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Canakinumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -134,10 +134,10 @@ FMF, PFAID, Blau 증후군은 모두 **inflammasome(NLRP3/pyrin/NLRC4/NOD2 경�
 - DrugBank API를 통한 상세 작용기전(MOA) 데이터 보강 (DG002)
 - FMF, Blau 증후군, PFAID에 대한 임상시험·문헌 재수집 (현재 0건 표시는 자료 수집 공백일 가능성이 근거 텍스트에 명시됨)
 - 간(肝) 관련 고득점 후보(간경색·간자반증·간혈관육종)에 대해서는 지식그래프 임베딩 아티팩트 여부를 별도 검증
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

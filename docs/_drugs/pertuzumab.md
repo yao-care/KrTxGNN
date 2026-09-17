@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Pertuzumab
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 546
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Pertuzumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -100,10 +100,10 @@ Pertuzumab은 HER2(인간 표피성장인자 수용체 2)를 표적하는 단클
 - 한국 내 허가·유통 현황 재확인
 
 > 참고: 동일 Evidence Pack 내 **progesterone-receptor positive/negative breast cancer** (rank 2, 3)는 각각 다수의 완료된 Phase 3 RCT(예: NCT04629846, NCT03726879, NCT01120184)와 관련 문헌을 보유하여 근거 수준 L1로 평가되며, HER2 표적 기전과의 부합도도 높습니다. 이 적응증들이 더 실행 가능성 높은 대안 후보로 판단됩니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

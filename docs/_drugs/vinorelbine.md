@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Vinorelbine
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 723
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Vinorelbine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -93,10 +93,10 @@ Vinorelbine은 미세관 억제 기전의 빈카 알칼로이드 계열 세포�
 - 유잉육종 특이적 Phase 2/3 확증 임상시험 또는 전향적 코호트 자료 추가 확보
 - 소아 환자군 대상 골수억제 등 독성 모니터링 계획 수립
 - 한국 내 수입/허가 경로 검토 (현재 미출시, 허가증 0건)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

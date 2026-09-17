@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Deoxycholic Acid
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 246
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Deoxycholic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -105,10 +105,10 @@ FXR과 TGR5는 신장 세뇨관 세포에서 높은 발현을 보이며, 활성�
 - 당뇨병성 신증 동물 모델(db/db 마우스 등)에서 DEOXYCHOLIC ACID 직접 투여 전임상 연구 설계
 - UDCA·TUDCA 대비 FXR/TGR5 활성화 효능 비교 검토
 - 경구 투여 시 신장 조직 도달 가능성(생체 이용률·신조직 분포) 평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

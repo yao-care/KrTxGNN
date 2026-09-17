@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Imatinib
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 388
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Imatinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ TxGNN은 10개의 후보 적응증을 예측했으며, 대부분 섬유육종/�
 | 예측 신규 적응증 | Conventional Fibrosarcoma (결합조직형성 섬유육종 계열) |
 | TxGNN 예측 점수 | 99.93% (rank 1906/전체) |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | 미상시 (未上市) |
+| 한국 시판 현황 | 미상시 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -111,10 +111,10 @@ Imatinib은 표적 티로신키나아제 억제제(TKI)로 항종양약에 해�
 - DrugBank 기반 상세 작용기전(MOA) 데이터 확보(DG002 해소)
 - conventional fibrosarcoma vs. DFSP/DFSP-섬유육종화형의 정확한 조직학적 구분에 따른 재평가 — 현재 예측이 PDGFR 구동 아형에만 유효할 가능성
 - heart fibrosarcoma 등 기전 외삽에만 의존하는 후보들은 추가 전임상/사례보고 근거 확보 전까지 우선순위에서 제외 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

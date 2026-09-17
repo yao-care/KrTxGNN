@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Febuxostat
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 315
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Febuxostat
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -87,10 +87,10 @@ Febuxostat(페북소스타트, DrugBank ID DB04854)은 이번 Evidence Pack에 �
 - 작용기전(MOA) 데이터 확보 (DG002)
 - "신장성 저요산혈증" 적응증 레이블이 실제로는 "운동유발 급성신손상 예방" 용법을 지칭하는지 전문가 재검토
 - 대안 트랙 고려: 2순위 HPRT 부분결핍증, 3순위 Lesch-Nyhan 증후군은 기전이 명확하고(퓨린 보수경로 결손 → 요산 과다생성 → XOR 억제로 직접 대응) 각각 "Proceed with Guardrails" 권고 상태이므로, 별도 후보로 우선 검토를 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

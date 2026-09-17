@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Polmacoxib
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 561
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Polmacoxib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -105,10 +105,10 @@ DrugBank 기반의 상세 MOA 데이터는 현재 확보되어 있지 않습니�
 - DrugBank 등을 통한 공식 MOA 데이터 확인 — 현재 High 우선순위 데이터 갭
 - 한국 내 실제 허가·시판 현황 재확인 (문헌상 한국 승인 언급과 현재 등록 데이터 간 불일치 해소 필요)
 - rank 8 "arthropathy", rank 10 "ankylosing spondylitis" 등 관련 적응증에 대한 독립적 임상 근거 확보 여부 추적
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

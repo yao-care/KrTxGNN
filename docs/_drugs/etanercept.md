@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Etanercept
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 298
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 ---
 
 # Etanercept
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L3** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -112,10 +112,10 @@ Etanercept는 두 개의 p75 TNF 수용체(TNFR2)와 IgG1 Fc 영역으로 구성
 - 작용 기전(MOA) 데이터 보완 (현재 Data Gap; DrugBank API 조회 권장)
 - 국내 허가 정보 및 안전성 정보(MFDS 허가사항) 확보 (현재 미시판)
 - Rituximab 등 B세포 표적 치료제와의 류마토이드 혈관염 치료 효능 비교 연구 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

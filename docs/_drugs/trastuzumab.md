@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Trastuzumab
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 694
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Trastuzumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -134,10 +134,10 @@ TxGNN 모델은 **프로게스테론 수용체(PR) 양성 유방암**에도 효�
 ---
 
 *참고: 동일 예측 배치에서 함께 산출된 하위 순위 후보(정상유방형 아형, PR 음성, Luminal A/B 등)는 근거 수준 L3 이하로 확증적 근거가 부족하거나(연구질문 단계), HER2 발현과의 기전적 연관성이 반박되는 신호(Luminal 아형)를 보이고 있어 별도 검토가 필요합니다. 그 외 극희귀 종양(악성 과립세포종, 외배엽간엽종, HHV8 관련 종양 등)에 대한 예측은 모델 예측 점수만 존재하며(L5, Hold), 현 단계에서 실질적 근거가 전무합니다.*
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

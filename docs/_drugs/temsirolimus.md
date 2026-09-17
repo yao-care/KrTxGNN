@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Temsirolimus
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 664
-evidence_level: L5
+evidence_level: L2
 indication_count: 3
 ---
 
 # Temsirolimus
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L2** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -119,10 +119,10 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 - DrugBank API를 통한 상세 작용 기전(MOA) 데이터 확보 (DG002, High)
 - 약물 상호작용(DDI) 데이터 재조사
 - 국내 허가 가능성 및 원 적응증(해외 승인 현황 포함) 확인
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

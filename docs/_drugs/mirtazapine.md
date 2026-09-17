@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mirtazapine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Mirtazapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -79,10 +79,10 @@ Ohdo 증후군은 유전적·후성유전적 병인을 가진 희귀 발달장�
 - TFDA(또는 해당 규제기관) 공식 허가사항의 경고/금기 정보 확보 (현재 Blocking 등급 data gap)
 - Ohdo 증후군 관련 전임상/사례보고 등 실제 연구 근거 축적 여부 모니터링
 - 2·3순위 후보(blepharophimosis-Ohdo type, benign paroxysmal torticollis of infancy)에 대해서도 동일하게 근거 축적 여부 추적
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

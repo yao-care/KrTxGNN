@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clarithromycin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Clarithromycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Clarithromycin 是一種大環內酯類抗生素，廣泛用於細菌性感染�
 | 預測新規適應症 | 多克隆高黏滯症候群 (Polyclonal Hyperviscosity Syndrome) |
 | TxGNN 預測分數 | 99.35% |
 | 根據水準 | L5（僅模型預測，無實際研究） |
-| 台灣上市現況 | 未上市 |
+| 台灣上市現況 | Not marketed |
 | 許可證數 | 0 件 |
 | 建議決定 | **Hold** |
 
@@ -75,7 +75,7 @@ Clarithromycin 是一種大環內酯類抗生素，廣泛用於細菌性感染�
 
 ## 台灣上市資訊
 
-本 Evidence Pack 顯示 Clarithromycin 在台灣為**未上市**狀態，無任何已登錄許可證資料。
+本 Evidence Pack 顯示 Clarithromycin 在台灣為**Not marketed**狀態，無任何已登錄許可證資料。
 
 > ⚠️ **注意**：Clarithromycin 為全球廣泛使用的成熟抗生素，建議確認此筆上市狀態資料的完整性，並核查台灣食藥署資料庫是否有未收錄的現行許可證。
 
@@ -130,10 +130,10 @@ Clarithromycin 是一種大環內酯類抗生素，廣泛用於細菌性感染�
 ---
 
 > 本報告僅供研究參考，不構成醫療建議。所有老藥新用候選需經過臨床驗證方可應用。
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

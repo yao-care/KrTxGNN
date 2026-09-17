@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Talniflumate
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 657
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Talniflumate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -112,10 +112,10 @@ Talniflumate는 현재 한국 내 시판 허가 이력이 없습니다 (허가�
 - 원제조국 규제기관 허가사항(경고·금기) 확보 — 현재 Blocking 등급 공백 (DG001)
 - 두통 질환 또는 건염 등 기전 개연성이 높은 적응증에 대한 전임상/초기 임상 근거 확보
 - 한국 내 시판 계획이 있을 경우 허가 신청 및 국내 임상 데이터 축적 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ferric Maltol
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 320
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Ferric Maltol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -87,10 +87,10 @@ Ferric Maltol(DrugBank ID: DB15598)은 경구용 3가철-말톨 복합체이나,
 - DrugBank API 재조회로 MOA 및 원 적응증 확정 (DG002 해소)
 - Plummer-Vinson 증후군에 대한 전임상 연구·사례보고 수준 문헌 탐색 확대
 - 2순위 후보(거대적혈모구빈혈)는 기전 상충 가능성이 높아 후속 검토에서 우선순위 하향 권고
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

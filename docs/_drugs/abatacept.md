@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Abatacept
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 12
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Abatacept
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Abatacept는 CTLA4-Ig 융합 단백질로, 전 세계적으로 류마티스 관�
 | 예측 신규 적응증 | 류마티스 혈관염 (Rheumatoid Vasculitis) |
 | TxGNN 예측 점수 | 99.91% |
 | 근거 수준 | L4 |
-| 대만 시판 현황 | ✗ 未上市 |
+| 대만 시판 현황 | ✗ Not marketed |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -104,10 +104,10 @@ Abatacept는 CTLA4-Ig 융합 단백질로서 T 세포 공자극(co-stimulation)�
 - 대만 TFDA 허가 경고 및 금기 정보 취득 (仿單 PDF 분석)
 - 류마티스 혈관염 환자 대상 파일럿 전향적 연구 설계 (proof-of-concept 임상시험)
 - Abatacept 치료 중 RV 신규 발생 역설적 반응 기전 규명 연구
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

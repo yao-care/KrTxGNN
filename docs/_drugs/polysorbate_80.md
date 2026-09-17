@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Polysorbate 80
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 563
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Polysorbate 80
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -76,10 +76,10 @@ TxGNN 모델은 **선천성 어린선양 홍피증(Congenital Ichthyosiform Eryt
 - TFDA 등 규제기관의 안전성 정보(경고, 금기) 확보 (현재 Blocking 등급 데이터 갭)
 - 예측이 그래프 위상적 인공물(artifact)인지 실제 생물학적 신호인지 구분하기 위한 전임상/기전 연구
 - 최소 L3 수준(관찰 연구 또는 체계적 문헌고찰) 근거 확보 전까지 추가 검토 보류 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

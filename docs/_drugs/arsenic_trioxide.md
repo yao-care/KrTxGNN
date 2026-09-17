@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Arsenic Trioxide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 87
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Arsenic Trioxide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -41,11 +41,11 @@ ARSENIC TRIOXIDE（三氧化二砷，ATO）是全球核准用於急性前骨髓�
 
 | 項目 | 內容 |
 |------|------|
-| 既有適應症 | 急性前骨髓性白血病 (APL)（全球核准，台灣未上市） |
+| 既有適應症 | 急性前骨髓性白血病 (APL)（全球核准，台灣Not marketed） |
 | 預測新適應症 | 未分類骨髓異生不良症候群 (Unclassified MDS, MDS-U) |
 | TxGNN 預測分數 | 99.93% |
 | 根據等級 | L4（機轉推論；無 MDS-U 直接試驗） |
-| 台灣上市現況 | ✗ 未上市 |
+| 台灣上市現況 | ✗ Not marketed |
 | 許可證數 | 0 件 |
 | 建議決策 | Research Question |
 
@@ -75,7 +75,7 @@ ATO 在急性前骨髓性白血病（APL）的療效機轉已被廣泛研究。�
 
 ## 台灣上市資訊
 
-ARSENIC TRIOXIDE 目前在台灣**未上市**，無任何藥品許可證記錄。如需在台臨床使用，須透過衛福部食藥署（TFDA）的專案核准（恩慈療法）或完整新藥上市申請程序辦理。
+ARSENIC TRIOXIDE 目前在台灣**Not marketed**，無任何藥品許可證記錄。如需在台臨床使用，須透過衛福部食藥署（TFDA）的專案核准（恩慈療法）或完整新藥上市申請程序辦理。
 
 ---
 
@@ -108,13 +108,13 @@ MDS-U 在機轉上高度關聯於 ATO 的已知作用靶點，TxGNN 預測分數
 
 **若要推進，需要：**
 - 系統回顧廣義 MDS 臨床試驗（如 NCT02190695、NCT06778187）中 MDS-U 患者的子族群分析數據
-- 補充 ATO 完整作用機轉資料（MOA，目前為高嚴重度資料缺口，影響機轉關聯性分析）
-- 取得 TFDA 核准仿單警語及禁忌資料（下載仿單 PDF 並解析，目前為 Blocking 嚴重度資料缺口）
+- 補充 ATO 完整作用機轉資料（MOA，目前為高嚴重度資料缺口，Limits mechanistic-link analysis）
+- 取得 TFDA 核准仿單警語及禁忌資料（Download and parse the package insert PDF，目前為 Blocking 嚴重度資料缺口）
 - 評估台灣藥品引進路徑（TFDA 專案核准或完整新藥上市申請）
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

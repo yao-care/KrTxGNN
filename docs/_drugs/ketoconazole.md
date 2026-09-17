@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ketoconazole
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 416
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Ketoconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -79,7 +79,7 @@ Ketoconazole은 이미다졸계 항진균제로, CYP450 효소(lanosterol 14α-d
 **결정: Hold**
 
 **사유:**
-현지 허가 자료가 없어(未上市, 허가증 0건) 안전성 초평가(S1)를 진행할 수 없으며(DG001, Blocking), 근거 수준도 L3(관찰·기전 연구)에 그치고 여드름 적응증을 직접 검증하는 임상시험은 아직 소규모·비정식 단계(NCT07237763)입니다. 경구 ketoconazole의 알려진 간독성·QT 연장 위험을 고려하면 지금 단계에서 진행을 권고하기 어렵습니다.
+현지 허가 자료가 없어(Not marketed, 허가증 0건) 안전성 초평가(S1)를 진행할 수 없으며(DG001, Blocking), 근거 수준도 L3(관찰·기전 연구)에 그치고 여드름 적응증을 직접 검증하는 임상시험은 아직 소규모·비정식 단계(NCT07237763)입니다. 경구 ketoconazole의 알려진 간독성·QT 연장 위험을 고려하면 지금 단계에서 진행을 권고하기 어렵습니다.
 
 **진행하려면 필요한 것:**
 - TFDA(또는 해당 관할 규제기관) 공식 라벨의 경고/금기 정보 확보 (DG001 해소)
@@ -87,10 +87,10 @@ Ketoconazole은 이미다졸계 항진균제로, CYP450 효소(lanosterol 14α-d
 - NCT07237763 결과 발표 대기 및 후속 확증적 RCT 확인
 - 국소(외용) vs 전신 투여 경로별 안전성·효능 데이터 구분 확보
 - 간독성 및 QT 연장 위험에 대한 별도 안전성 평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

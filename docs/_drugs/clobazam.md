@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clobazam
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Clobazam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -99,10 +99,10 @@ FIRES에 대한 Clobazam의 직접적인 임상 근거가 전무하며, 확인�
 - FIRES 또는 NORSE 맥락에서 벤조디아제핀 계열 전반에 관한 체계적 문헌 고찰 수행
 - TFDA 허가사항 PDF 다운로드 및 경고·금기사항 분석 (현재 안전성 데이터 공백)
 - 국제 사례(미국 FDA 승인 LGS 적응증 자료)를 활용한 안전성 프로파일 보완
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ampicillin
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 69
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Ampicillin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -90,7 +90,7 @@ TxGNN 모델은 **후두염(Laryngitis)**에 효과가 있을 수 있다고 예�
 
 ## 한국 시판 정보
 
-규제 데이터베이스 조회 결과, Ampicillin은 현재 등록된 허가 제품이 없습니다 (미허가, 未上市). 한국 내 실제 시판 현황은 식품의약품안전처(MFDS) nedrug 데이터베이스를 통한 별도 확인이 필요합니다.
+규제 데이터베이스 조회 결과, Ampicillin은 현재 등록된 허가 제품이 없습니다 (미허가, Not marketed). 한국 내 실제 시판 현황은 식품의약품안전처(MFDS) nedrug 데이터베이스를 통한 별도 확인이 필요합니다.
 
 ---
 
@@ -113,10 +113,10 @@ Ampicillin의 후두염 재창출을 직접 지지하는 RCT 근거가 없으며
 - 세균성 후두염에서 원인균별 β-lactam 감수성 최신 역학 데이터 검토
 - Ampicillin-Sulbactam 복합제로의 확장 시 근거 재평가 (내성 우회 가능성)
 - 바이러스성 후두염 제외 후 세균성 후두염만을 대상으로 한 하위군 분석 가능성 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

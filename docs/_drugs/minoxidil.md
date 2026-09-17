@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Minoxidil
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 482
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Minoxidil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -85,10 +85,10 @@ Minoxidil은 본래 다른 항고혈압제에 반응하지 않는 중증(난치�
 - DrugBank 등을 통한 상세 작용기전(MOA) 데이터 확보 (DG002)
 - 유전성 두피 단순 저모증에 특화된 전임상 또는 소규모 임상 연구 설계
 - (참고) 동일 근거 팩 내 "alopecia(일반/남성형 탈모)" 적응증은 완료된 Phase 3 RCT를 포함한 L1 수준 근거로 이미 "Proceed with Guardrails" 권고를 받고 있어, 재창출 우선순위를 이쪽과 비교 검토할 필요가 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

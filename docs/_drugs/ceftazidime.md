@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ceftazidime
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 186
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Ceftazidime
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -112,10 +112,10 @@ Ceftazidime(DB00438)은 그람음성균 감염 치료에 사용되어 온 3세�
 - DDI 데이터베이스 재조회 (현재 not_found 상태)
 - 국내 수입/시판 가능성 검토 (현재 허가 0건)
 - 부차 후보인 감염성 중이염(rank 9, L3)에 대한 최신 대조군 연구 존재 여부 추가 확인
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

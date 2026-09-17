@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cyclofenil
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 225
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Cyclofenil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -94,10 +94,10 @@ Cyclofenil은 선택적 에스트로겐 수용체 조절제(SERM) 계열 약물�
 - Cyclofenil의 관상동맥 혈관 평활근 ER 아형(ERα/ERβ) 선택성 및 작용 방향 검증 (전임상 수준)
 - 관상동맥 경련 동물 모델에서의 효과 탐색 연구 설계
 - Rank 6~9 인격장애 군집 예측은 KG topology artifact로 확인되어 추가 연구 대상에서 제외 권고
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

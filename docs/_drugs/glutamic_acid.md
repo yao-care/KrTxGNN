@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Glutamic Acid
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 358
-evidence_level: L5
+evidence_level: L3
 indication_count: 4
 ---
 
 # Glutamic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L3** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -110,10 +110,10 @@ TxGNN 예측 점수(99.34%)는 높으나, 글루탐산 단독 보충제로서 �
 - 허가 안전성 정보(경고, 금기) 확보 — 현재 DG001 데이터 갭
 - 글루탐산 경구 보충의 폐경 후 골다공증에 대한 파일럿 인체 임상시험 설계
 - 비타민 K, 칼슘과의 병용 전략 및 최적 용량 규명
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

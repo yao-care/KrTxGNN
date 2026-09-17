@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rivaroxaban
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 608
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Rivaroxaban
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -106,10 +106,10 @@ Evidence Pack의 재창출 근거(rationale) 분석에 따르면, Xa인자 억�
 - DrugBank 등에서 상세 MOA 데이터 확보 (DG002)
 - 류마티스 관절염에 대한 rivaroxaban의 직접적인 전임상/임상 근거 확보 (현재 0건)
 - 기타 예측 적응증(통풍, HIV 감염, 단지증-합지증 증후군)은 기전적 근거 부족으로 함께 배제 검토 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

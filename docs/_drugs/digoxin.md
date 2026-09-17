@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digoxin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 262
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Digoxin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -116,10 +116,10 @@ Digoxin의 Na⁺/K⁺-ATPase 억제 기전은 세포 내 Ca²⁺를 상승시켜
 | 6 | Hypoalphalipoproteinemia | 99.20% | L5 | **Hold** | Na⁺/K⁺-ATPase 억제와 HDL 대사 경로 간 교집합 없음 |
 
 > **종합 평가**: 이번 Evidence Pack의 6개 예측 적응증은 모두 **기각(Hold)** 권고이며, 일부는 기전적으로 위해 가능성까지 존재합니다. 높은 TxGNN 예측 점수(99.2–99.8%)에도 불구하고, 이는 지식 그래프(KG) 내 공병(comorbidity) 경로를 통한 **간접 연결 artifacts**일 가능성이 높습니다. Digoxin의 기존 적응증(심부전, 심방세동)에서 파생된 KG 연결이 인접 질환으로 전파된 것으로 판단됩니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

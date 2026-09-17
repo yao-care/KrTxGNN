@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oxybutynin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 526
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Oxybutynin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -126,10 +126,10 @@ Oxybutynin은 항콜린성(antimuscarinic) 평활근 이완제로, 방광 배뇨
 - 하지불안증후군에 대한 전임상 또는 기전 연구 확인
 - 소화성궤양 후보에 대한 최신 대조 임상시험 존재 여부 재검토(현재 문헌이 60년 이상 경과)
 - 역류성 식도염 유발 신호(PMID 2360335)에 대한 상부위장관 안전성 재평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

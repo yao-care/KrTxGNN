@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amiloride Hydrochloride
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 55
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Amiloride Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -49,7 +49,7 @@ Amiloride Hydrochloride는 포타슘 보존성 이뇨제 계열 약물로, DrugB
 | 예측 신규 적응증 | 예측 데이터 없음 |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (모델 예측 없음, 실제 연구 데이터 미수집) |
-| 대만 시판 현황 | 미상시 (未上市) |
+| 대만 시판 현황 | 미상시 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 
@@ -100,10 +100,10 @@ TxGNN 예측 적응증 데이터가 없어 재창출 타당성 평가 자체를 
 - **[High]** TxGNN 모델 재실행 — `predicted_indications` 데이터 생성
 - **[Medium]** DDI 데이터베이스 재조회 — 현재 `not_found` 상태로 확인 필요
 - **[참고]** Amiloride는 국제적으로 고혈압·부종 적응증으로 허가된 약물이나, 대만 내 허가 이력이 없으므로 규제 경로 별도 검토 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

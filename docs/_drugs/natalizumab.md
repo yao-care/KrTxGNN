@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Natalizumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 499
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Natalizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -84,10 +84,10 @@ TxGNN 모델은 **기관지염(Bronchitis)**에 효과가 있을 수 있다고 �
 - DrugBank 등에서 정식 작용 기전(MOA) 데이터 확보
 - 기관지염 관련 전임상/기전 연구 또는 파일럿 임상 데이터 확보
 - 순위 2·3·5 후보(피부질환군)는 약물 유발 이상반응 신호로 별도 안전성 검토 필요 (재창출 후보가 아닌 위해성 모니터링 항목으로 재분류 검토)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

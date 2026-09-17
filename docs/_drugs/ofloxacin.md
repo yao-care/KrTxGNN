@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ofloxacin
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 516
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Ofloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -113,10 +113,10 @@ Ofloxacin 자체도 초기 동물모델 연구(1994, 2002)에서 페스트균에
 - 순위 6(단클론감마글로불린병증), 10(점상 각결막염)은 Research Question 단계로 별도 추적 필요
 - 순위 1·2·3·5·7·9는 근거 부재로 현 단계에서 추가 조사 불필요 (Hold 유지)
 - 한국 내 시판 계획 시 정식 허가 신청 경로 확인 (현재 미출시, 허가증 0건)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

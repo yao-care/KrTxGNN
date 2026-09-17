@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Fenofibrate
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 318
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Fenofibrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+근거 수준: **L4** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -93,10 +93,10 @@ TxGNN 예측 점수는 높으나(99.91%), 확보된 임상시험은 fenofibrate�
 - 상세 작용 기전(MOA) 데이터 확보 — DrugBank API 조회 필요(High 등급 데이터 갭)
 - HoFH 환자 대상 FENOFIBRATE 직접 개입 임상시험 또는 최신 관찰 연구
 - 한국 내 허가·시판 현황 재확인(현재 라이선스 0건, 미시판 상태)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

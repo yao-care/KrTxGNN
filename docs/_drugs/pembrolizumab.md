@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pembrolizumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Pembrolizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ TxGNN 모델은 **치은 섬유종증(Fibromatosis, Gingival)**에 효과가 있
 | 예측 신규 적응증 | 치은 섬유종증 (Fibromatosis, Gingival) |
 | TxGNN 예측 점수 | 99.40% |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 미상 (未上市) |
+| 한국 시판 현황 | 미상 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -95,10 +95,10 @@ TxGNN 모델은 **치은 섬유종증(Fibromatosis, Gingival)**에 효과가 있
 - DrugBank API를 통한 MOA 및 기존 적응증 데이터 보강
 - 증거 수집 파이프라인 재검토: 이번 배치의 10개 후보 중 다수(순위 2, 6, 9, 10)에서 질환명과 무관한 문헌이 매칭되는 오류가 확인되어, 검색 로직(질환명 기반이 아닌 약물명 기반 과매칭) 점검이 필요합니다.
 - 참고로 순위 4(폐문암, lung hilum carcinoma)만 L4/Research Question 단계에 도달했으나, 관련 문헌 2건은 효능이 아닌 이상반응(뇌하수체저하증, 초진행) 사례 보고로, 이 역시 별도의 효능 근거 확보가 필요합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

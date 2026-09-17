@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pyrazinamide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 587
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Pyrazinamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -93,10 +93,10 @@ TxGNN이 최상위로 예측한 "감염성 중이염" 적응증은 이를 직접
 - DrugBank API를 통한 Pyrazinamide 상세 작용 기전 데이터 확보 (DG002 해소)
 - "감염성 중이염" 자체를 뒷받침하는 임상시험/문헌 추가 확인
 - 대안으로, 근거 수준이 더 높은(L3) 관련 적응증(중이 질환, 만성 중이염, 화농성 중이염 — 모두 Proceed with Guardrails 권고)을 결핵성 중이염 특이적 하위 집단으로 좁혀 재평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

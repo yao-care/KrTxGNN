@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Golimumab
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 365
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Golimumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L4** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -92,10 +92,10 @@ TxGNN 모델은 **류마티스 혈관염(Rheumatoid Vasculitis)**에 효과가 �
 - 골리무맙의 상세 작용기전(MOA) 데이터 확보 (DG002 해소)
 - 류마티스 혈관염을 1차 종점으로 한 전임상/임상 연구 추가 확보
 - 항-TNF 유발성 혈관염(paradoxical vasculitis) 신호에 대한 별도 안전성 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

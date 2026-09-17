@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ginseng
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 347
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Ginseng
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -116,10 +116,10 @@ Ginseng(인삼, Panax ginseng)은 한국을 포함한 아시아 전통 의학에
 > **★ 주목 — 당뇨망막병증(rank 7):** TxGNN 점수 기준으로는 7위이나, Evidence Pack 전체에서 **문헌 근거가 가장 풍부합니다(20편)**. Ginsenoside Rg1의 VEGF 억제를 통한 항신생혈관 작용(PMID 40033576), AMPK 경로를 통한 자가소화 활성(PMID 41493960), NF-κB 억제를 통한 항염증 효과(PMID 37689326), 전임상 모델에서의 직접 효능 확인(PMID 22566158, 32309379) 등 **다중 기전이 단일 성분 수준에서 보고**되어 있습니다. 임상시험은 아직 없으나, 10개 적응증 중 향후 탐색 우선순위를 높게 둘 만한 후보입니다.
 
 > **⚠️ 주의 — 신생아 출혈성 질환(rank 4):** TxGNN이 5위권 예측 점수를 부여했으나, 이 질환은 **비타민 K 결핍**이 원인이며 Ginseng과의 기전적 관련성이 없습니다. 검색된 임상시험(NCT00719563)도 암 관련 피로를 대상으로 한 것으로 완전히 무관합니다. 지식 그래프의 간접 경로에서 발생한 위양성(false positive)으로 판단되므로 제외가 권고됩니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

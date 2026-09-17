@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Valsartan
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 716
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Valsartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+근거 수준: **L4** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -83,10 +83,10 @@ TxGNN 모델은 **악성 신혈관성 고혈압(Malignant Renovascular Hypertens
 - Valsartan의 상세 작용기전(MOA) 데이터 확보 (DrugBank API 조회, DG002)
 - 악성 신혈관성 고혈압에 대한 사람 대상 연구(사례보고 이상) 존재 여부 확인
 - 국내 시판 여부 및 허가 현황 재확인 (현재 미시판, 허가 0건으로 등록됨)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

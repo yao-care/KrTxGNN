@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Trihexyphenidyl
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 705
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Trihexyphenidyl
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -87,10 +87,10 @@ Trihexyphenidyl은 muscarinic 수용체 길항제(anticholinergic)로 추정되�
 - DrugBank 등에서 작용기전(MOA) 데이터 확보 (DG002)
 - ADHD에 대한 직접적인 임상시험 또는 문헌 확보
 - 참고: 근거팩 내 다른 후보 중 **PARK19A(청소년기 발병 파킨슨병)**, **PLA2G6-associated neurodegeneration**, **atypical juvenile parkinsonism**은 anticholinergic 기전과의 정합성이 상대적으로 높고 decision_stage가 S1(Research Question)으로 평가되어, ADHD보다 우선 검토할 가치가 있음
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

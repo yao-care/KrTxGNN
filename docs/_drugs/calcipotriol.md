@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calcipotriol
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 162
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Calcipotriol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -111,10 +111,10 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 - 1순위 후보(지루각화증)에 대한 전임상·임상 문헌 탐색 확대
 - 골 파젯병 후보는 기전상 상충 가능성이 있어 별도 재검토 없이 후속 조사에서 제외 권장
 - 국내(한국) 시판·허가 현황 재확인
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Papaverine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 534
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Papaverine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -115,10 +115,10 @@ Papaverine은 벤질이소퀴놀린 계열의 오래된 혈관확장제로, 문�
 - PAD 적응증에 대한 최신 전향적 임상연구(가능하면 Phase 2/3 RCT) 존재 여부 재확인
 - 동맥내·해면체내 주사 관련 문헌에서 보고된 부정맥, 음경지속발기증 등 안전 신호에 대한 정밀 검토
 - 한국 내 원료의약품 수입·제조 현황 및 관련 법규 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

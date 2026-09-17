@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Peppermint Oil
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 543
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Peppermint Oil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -92,10 +92,10 @@ Peppermint Oil(페퍼민트 오일)은 한국 내 허가 정보가 없고 DrugBa
 - 한국(또는 해당 관할) 규제기관의 허가사항·경고·금기 정보 확보 (DG001, Blocking)
 - 심혈관 대사 지표를 1차 평가변수로 한 대규모·장기 RCT
 - 나병, 폐포자충증 등 근거가 전혀 없는 나머지 9개 예측 적응증은 추가 문헌·전임상 조사 없이는 평가 불가 상태로 유지
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

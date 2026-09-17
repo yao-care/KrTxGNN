@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azelaic Acid
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 111
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Azelaic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -74,10 +74,10 @@ TxGNN 예측 파이프라인에서 이 약물에 대한 재창출 후보 적응�
 - **[DG001 해소]** MFDS(식품의약품안전처) 또는 TFDA 허가 데이터베이스에서 경고·금기 등 안전성 정보 수집
 - TxGNN 파이프라인에서 DB00548 수동 입력 여부 확인 및 예측 재실행
 - 한국 외 허가국(예: 미국 FDA, EMA) 적응증 정보를 보조 참고 자료로 확보하여 원래 적응증 기반 재창출 방향 탐색
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

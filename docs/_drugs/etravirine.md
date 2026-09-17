@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Etravirine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Etravirine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -79,10 +79,10 @@ Etravirine(DrugBank DB06414)은 근거 자료 내 문헌상 HIV-1 치료경험 �
 - 식약처(또는 원자료 출처) 등재 여부 확인 및 공식 적응증·경고문 확보
 - SIV 동물모델 또는 세포주에서 etravirine 특이적 항바이러스 효력시험
 - (참고) 동일 근거 자료 내 예측 순위 4위 "AIDS related complex", 5위 "congenital human immunodeficiency virus"는 etravirine 특이적 임상시험(NCT04630002, NCT00855335 등)이 존재하여 근거 수준이 L2로 더 높습니다. 우선순위 재검토 시 함께 고려할 가치가 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Zidovudine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 728
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Zidovudine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -90,10 +90,10 @@ TxGNN이 최상위로 예측한 신규 적응증(고양이 후천성면역결핍
 - TFDA/한국 규제기관 공식 허가사항(경고, 금기, DDI) 확보 — 현재 Blocking 수준 Data Gap(DG001)으로 안전성 초기평가(S1) 진입 불가
 - DrugBank 작용 기전(MOA) 데이터 보완(DG002)
 - 참고: 본 Evidence Pack 5위 항목인 "AIDS related complex"는 이미 L1 근거 수준(Phase 3 RCT 다수, n=1,496~3,200 규모 포함)과 "Proceed with Guardrails" 평가를 자체적으로 확보하고 있어, 이는 AZT의 기존 적응증 연장 검토 대상으로 별도 보고서 작성을 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

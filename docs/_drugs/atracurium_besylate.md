@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Atracurium Besylate
-parent: 中證據等級 (L3-L4)
+parent: 중등도 근거 (L3-L4)
 nav_order: 100
 evidence_level: L4
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Atracurium Besylate
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Atracurium Besylate 是一種神經肌肉阻斷劑，在手術麻醉中作為骨
 | 預測新適應症 | 子癇前症（Preeclampsia） |
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L4 |
-| 台灣上市狀況 | ✗ 未上市 |
+| 台灣上市狀況 | ✗ Not marketed |
 | 許可證數量 | 0 件 |
 | 建議決策 | **Hold** |
 
@@ -82,7 +82,7 @@ TxGNN 的高預測分數極可能源自**文獻共現偏差**：子癇前症患�
 
 ## 台灣上市資訊
 
-Atracurium Besylate 目前在台灣**無任何核准許可證**，屬未上市藥品。
+Atracurium Besylate 目前在台灣**無任何核准許可證**，屬Not marketed藥品。
 
 ---
 
@@ -106,10 +106,10 @@ Atracurium Besylate 目前在台灣**無任何核准許可證**，屬未上市�
 - TFDA 仿單警語與禁忌（DG001，Blocking 優先級，為進入安全評估的必要條件）
 - 藥物-藥物相互作用（DDI）資料（目前查詢狀態：not\_found）
 - 台灣上市可行性評估（目前 0 件許可證，需從頭申請）
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

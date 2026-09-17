@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Talc
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 656
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Talc
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -93,10 +93,10 @@ predicted_indications[0](혈전성 질환)은 임상시험·문헌 근거가 전
 - DrugBank 작용기전(MOA) 데이터 확보(DG002)
 - 순위 1위가 아닌 **순위 8위(vein disease, 실제로는 흉막유착술 관련)** 후보를 별도 가설로 재정의하여 올바른 적응증 라벨(예: 악성 흉막삼출/기흉의 흉막유착술)로 재평가 권장 — 이쪽이 기전상 유일하게 실제 임상 근거(ethanolamine oleate 경화제 유사 기전, 관련 임상시험 1건)를 가진 후보임
 - "혈전성 질환" 계열 예측(순위 1, 5, 6, 7)은 활석 미세색전 독성과 지식그래프상 혼동 가능성이 높으므로, 재창출 후보에서 배제하거나 독성 리뷰 트랙으로 전환 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

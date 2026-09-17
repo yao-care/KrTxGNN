@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Mycophenolate Mofetil
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 492
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Mycophenolate Mofetil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -116,10 +116,10 @@ Mycophenolate Mofetil(MMF)은 원래 장기이식 후 거부반응 예방 및 GV
 - DrugBank API를 통한 정식 작용 기전(MOA) 데이터 보완
 - MAN2 연구(NCT00120419/NCT00247494) 결과 보고 여부 재확인 — 완료 후 미보고 상태일 가능성 확인 필요
 - HIV 치료 효과만을 직접 평가하는 완료된 RCT 확보 (현재는 파일럿·PK 연구 수준)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

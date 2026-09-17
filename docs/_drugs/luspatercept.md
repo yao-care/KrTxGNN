@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Luspatercept
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Luspatercept
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -83,10 +83,10 @@ Luspatercept(DB12281)는 대만에 허가된 제품이 없어 원 적응증 정�
 - DrugBank 등을 통한 공식 MOA 확정 (High, DG002)
 - 기전상 더 설득력 있는 후보(thalassemia beta+, PK deficiency, Hb Bart's hydrops fetalis)에 대한 ClinicalTrials.gov·PubMed 외부 재검색
 - Monosomy X 예측이 실제 신호인지 지식그래프 잡음인지 판별할 추가 검증
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

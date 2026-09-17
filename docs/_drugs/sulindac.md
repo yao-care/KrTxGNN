@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sulindac
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 651
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Sulindac
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ DrugBank 기반 상세 작용기전(MOA) 데이터는 현재 확보되지 않았
 - 약물상호작용(DDI) 데이터베이스 조회 결과 확보
 - 류마티스 관절염(rank 3)도 동등한 L1 근거를 보유하므로, 병행 적응증 확대 검토 권장
 - rank 1, 4~8, 10의 희귀 유전/골격 발달 질환 예측은 근거가 전혀 없는 KG 아티팩트로 판단되며 추가 조치 불필요(Hold 유지)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Alteplase
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 47
-evidence_level: L5
+evidence_level: L4
 indication_count: 9
 ---
 
 # Alteplase
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+근거 수준: **L4** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -117,10 +117,10 @@ Alteplase는 세린 프로테아제 계열의 재조합 당단백질로, 피브�
 - 작용 기전(MOA) 데이터 확보 (DrugBank API 조회 권고 — DG002)
 - 허가사항 PDF 파싱을 통한 경고·금기 안전성 정보 확보 (TFDA 또는 현지 허가기관 — DG001)
 - 9개 예측 적응증 중 L2 수준 근거를 보유한 **중격 심근경색(rank 3, TAMI-1 RCT 포함)** 및 **혈전증(rank 8, Phase 2 alteplase 직접 투여 시험 포함)**을 우선 임상 개발 대상으로 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anagrelide Hydrochloride
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Anagrelide Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -49,7 +49,7 @@ TxGNN 모델의 신규 적응증 예측이 아직 생성되지 않아 재창출 
 | 예측 신규 적응증 | 없음 (TxGNN 예측 미생성) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (예측 미생성, 평가 불가) |
-| 시판 현황 | 미상시 (未上市) |
+| 시판 현황 | 미상시 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -73,10 +73,10 @@ TxGNN 신규 적응증 예측이 생성되지 않았으며, 기존 적응증·�
 - DrugBank API 조회를 통한 MOA 및 기존 적응증 확인 (query_log에 DrugBank 조회 성공 기록 존재 — 결과 파싱 필요)
 - 허가 기관(TFDA/MFDS) 허가 정보 수집 (경고, 금기, 세포독성 분류 포함)
 - `data_gaps` DG001(경고/금기, Blocking), DG002(MOA, High) 순서로 우선 해소
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sulfasalazine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 650
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Sulfasalazine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -93,10 +93,10 @@ TxGNN 모델은 **단지증-합지증 증후군(Brachydactyly-Syndactyly Syndrom
 - 국내 허가·시판 현황 확인 (현재 미시판, 허가증 0건)
 
 > 참고: 동일 Evidence Pack 내 5위 후보인 골관절염(Osteoarthritis, L3, Research Question)과 8위 척추관절병증 감수성(Spondyloarthropathy susceptibility, L3, Proceed with Guardrails)은 상대적으로 문헌·기전 근거가 존재하므로, 별도 평가 시 우선순위가 더 높을 수 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

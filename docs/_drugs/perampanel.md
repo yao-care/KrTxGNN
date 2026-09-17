@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Perampanel
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 544
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Perampanel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -134,10 +134,10 @@ TxGNN 모델은 **시각유발 뇌전증(Visual Epilepsy)**에 효과가 있을 
 - 시각유발/광과민성 뇌전증 환자를 대상으로 한 전향적 관찰연구 또는 최소한 photic stimulation 동물모델 데이터 확보
 - 국내 미출시 상태이므로, 반려동물... 아닌 재창출 개발 시 별도의 국내 허가 경로(신약 또는 신규 적응증 추가) 검토 필요
 - 향후 자원 배분 시 시각유발 뇌전증보다 근거 수준이 높은 뇌전증 중첩증(rank 10) 트랙을 우선 검토 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

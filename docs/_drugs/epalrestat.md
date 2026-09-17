@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Epalrestat
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 291
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Epalrestat
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -114,10 +114,10 @@ Epalrestat는 현재 한국에서 허가·시판되지 않습니다 (MFDS 등록
 - DrugBank API를 통한 공식 MOA 데이터 확보 (DG002 해소)
 - TFDA/일본 PMDA 허가 정보 및 안전성 정보 (경고·금기) 확보 (DG001 해소)
 - 확보된 근거를 바탕으로 S1 안전성 초평가 재실시
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

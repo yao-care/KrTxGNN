@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avelumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 106
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Avelumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -35,7 +35,7 @@ indication_count: 10
 
 ## 一句話摘要
 
-Avelumab（商品名 Bavencio）是一種抗 PD-L1 免疫檢查點抑制劑，已獲 FDA/EMA 核准用於 Merkel 細胞癌（MCC）及局部晚期／轉移性尿路上皮癌（UC）一線維持治療，惟**台灣目前尚未上市**。
+Avelumab（商品名 Bavencio）是一種抗 PD-L1 免疫檢查點抑制劑，已獲 FDA/EMA 核准用於 Merkel 細胞癌（MCC）及局部晚期／轉移性尿路上皮癌（UC）一線維持治療，惟**台灣目前尚Not marketed**。
 TxGNN 模型以 **99.97% 的得分**將「**HHV-8 相關腫瘤**（Human Herpesvirus 8-related Tumor）」列為首要預測新適應症，其理論基礎為 Kaposi 肉瘤（KS）腫瘤微環境中 PD-L1 過度表達的生物學信號。
 然而目前**無任何已登錄臨床試驗或支持文獻**，本預測僅屬研究假說層級（L5），建議定位為 **Research Question**。
 
@@ -45,11 +45,11 @@ TxGNN 模型以 **99.97% 的得分**將「**HHV-8 相關腫瘤**（Human Herpesv
 
 | 項目 | 內容 |
 |------|------|
-| 現有適應症 | Merkel 細胞癌、局部晚期／轉移性尿路上皮癌（FDA/EMA 核准；台灣未上市） |
+| 現有適應症 | Merkel 細胞癌、局部晚期／轉移性尿路上皮癌（FDA/EMA 核准；台灣Not marketed） |
 | 預測首要新適應症 | HHV-8 相關腫瘤（Human Herpesvirus 8-related Tumor） |
 | TxGNN 預測得分 | 99.97% |
 | 證據等級 | L5（僅模型預測，無實際研究） |
-| 台灣上市現況 | ✗ 未上市 |
+| 台灣上市現況 | ✗ Not marketed |
 | 許可證數 | 0 件 |
 | 建議決策 | Research Question |
 
@@ -138,10 +138,10 @@ HHV-8 相關腫瘤（尤其 Kaposi 肉瘤）中的 PD-L1 過表達提供機轉�
 - 評估 HIV 相關與非 HIV 相關 KS 患者的 ICI 安全性分層策略
 - 若決定推進，建議設計 Phase 1/2 概念驗證試驗（優先納入非 HIV 相關 KS 患者，同步監測 IRIS 及免疫介導不良反應）
 - 針對排名第 9（前列腺尿道尿路上皮癌，L4 / Proceed with Guardrails）可考慮優先獨立評估，作為近期最具發展潛力的適應症
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

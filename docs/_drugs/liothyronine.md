@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Liothyronine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 443
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Liothyronine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -80,10 +80,10 @@ Liothyronine(DB00279)은 합성 T3 갑상선호르몬 제제이나, 한국에는
 - 작용 기전(MOA) 및 TFDA/식약처 수준 허가사항(경고·금기) 데이터 보강 (Blocking data gap: DG001, DG002)
 - 신장 발달과 갑상선호르몬 신호전달의 연관성을 뒷받침할 전임상/기전 연구
 - 참고: 동일 Evidence Pack 내 **nodular goiter(결절성 갑상선종, rank 3)** 후보는 L2 근거 수준에 임상시험 2건·문헌 20편을 보유하며 "Proceed with Guardrails"로 평가되어, 우선 검토 가치가 더 높습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

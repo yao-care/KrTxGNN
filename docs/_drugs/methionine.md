@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Methionine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 470
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Methionine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -85,10 +85,10 @@ TxGNN 모델은 **여드름(Acne)**에 효과가 있을 수 있다고 예측하�
 - DDI(약물상호작용) 데이터베이스 재조회
 
 **참고:** 이번 Evidence Pack에는 여드름 외에도 9건의 추가 예측 적응증이 포함되어 있으며, 그중 10위 **당뇨병성 백내장(diabetic cataract)**은 L3 근거 수준(관찰연구, Research Question 단계)으로 상대적으로 더 유의미한 기전적 단서(MsrB1 효소의 보호적 역할)를 보입니다. 별도 평가가 필요하면 요청해 주세요.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

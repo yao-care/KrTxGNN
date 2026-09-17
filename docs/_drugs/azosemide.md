@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Azosemide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 115
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Azosemide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -96,10 +96,10 @@ TxGNN 모델은 **간폐증후군(Hepatopulmonary Syndrome)**에 치료 효과�
 - HPS 동물 모델 또는 관찰 연구에서 Loop 이뇨제 사용 데이터 문헌 재검색
 - 국내 허가 가능성 검토 및 관련 규제 전략 수립
 - HPS 환자 특이적 안전성 프로파일(신기능, 전해질, 간신증후군 위험) 모니터링 프로토콜 설계
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

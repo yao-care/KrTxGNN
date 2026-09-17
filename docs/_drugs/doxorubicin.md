@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Doxorubicin
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 274
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Doxorubicin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -47,7 +47,7 @@ Doxorubicin 為蒽環類（Anthracycline）廣譜細胞毒性抗腫瘤藥物，�
 | 예측 신규 적응증 | Ewing 肉瘤（Ewing Sarcoma） |
 | TxGNN 예측 점수 | 99.90% |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | ✗ 未上市 |
+| 한국 시판 현황 | ✗ Not marketed |
 | 허가증 수 | 0 件 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -123,10 +123,10 @@ Doxorubicin 於 Ewing 肉瘤具備充分的 Phase 3 RCT 臨床證據（**L1 等�
 - 確認韓國 Ewing 肉瘤的未滿足醫療需求（Unmet Medical Need）現況，評估特殊許可或同情性使用申請可行性
 - 制定完整累積心毒性監測計畫（定期心臟超音波、最大累積劑量管理方案）
 - 評估與現行韓國兒童腫瘤治療方案（如 VIDE、VAC）的整合可行性及給藥途徑相容性
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

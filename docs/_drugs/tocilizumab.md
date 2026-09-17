@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tocilizumab
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 681
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Tocilizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ TxGNN 예측 점수는 매우 높지만(99.99%), 이를 직접 검증한 두 건
 ---
 
 **참고 — 동일 Evidence Pack 내 더 강한 근거를 가진 예측**: 이번 후보(rank 1, AS)보다 rank 7 **다관절형 소아특발성관절염(polyarticular JIA)**과 rank 10 **RF양성 다관절형 JIA**는 각각 L1 근거 수준에 완료된 Phase 3 핵심시험(WA19977, CHERISH 등)을 보유하며 "Proceed with Guardrails"로 평가되었습니다. 이는 이미 공지된 적응증과 유사하지만, 별도 평가 보고서로 다룰 가치가 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

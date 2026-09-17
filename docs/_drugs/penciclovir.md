@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Penciclovir
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 541
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Penciclovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -81,10 +81,10 @@ Penciclovir는 항헤르페스바이러스 약물로 알려져 있으나, 한국
 - 한국 내 허가 여부 및 시판 현황 재확인
 - 허가사항(경고/금기) 확보 (DG001, Blocking) — 이것이 해결되기 전까지는 어떤 신규 적응증도 안전성 검토 불가
 - 예측된 적응증에 대한 최소한의 전임상/기전 연구 존재 여부 확인 후 재평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

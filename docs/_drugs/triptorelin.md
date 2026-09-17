@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Triptorelin
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 708
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Triptorelin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -84,10 +84,10 @@ TxGNN 모델은 **다모증(Hypertrichosis)**에 효과가 있을 수 있다고 
 - DrugBank 기반 상세 MOA 및 약물 분류 자료 확보
 - 한국 내 허가 현황 및 안전성 자료(경고, 금기, DDI) 확보
 - 다모증 하위 유형(안드로겐 의존성 vs 비의존성)별 반응 차이 규명
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

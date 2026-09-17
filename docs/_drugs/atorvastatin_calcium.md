@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Atorvastatin Calcium
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 95
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Atorvastatin Calcium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Atorvastatin Calcium은 스타틴 계열 약물로 알려져 있으나, 이번 E
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 없음) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (예측 결과 없음, 지지 연구 없음) |
-| 한국 시판 현황 | 미시판 (未上市) |
+| 한국 시판 현황 | 미시판 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -71,11 +71,11 @@ Atorvastatin Calcium은 스타틴 계열 약물로 알려져 있으나, 이번 E
 - 약물명 정규화 재실행: `ATORVASTATIN CALCIUM` → `Atorvastatin` INN 매핑 확인 후 KG 예측 파이프라인 재처리
 - TxGNN 예측 파이프라인 재실행 후 `predicted_indications` 정상 생성 여부 확인
 
-> **참고**: Atorvastatin Calcium은 국제적으로 광범위하게 시판 중인 스타틴 계열 약물(Lipitor 등)입니다. `시판 현황: 未上市`, `허가증 수: 0`은 파이프라인 내 약물명 매핑 오류일 가능성이 높습니다. 데이터 재처리 시 매핑 로직을 우선 점검하세요.
-## Disclaimer
+> **참고**: Atorvastatin Calcium은 국제적으로 광범위하게 시판 중인 스타틴 계열 약물(Lipitor 등)입니다. `시판 현황: Not marketed`, `허가증 수: 0`은 파이프라인 내 약물명 매핑 오류일 가능성이 높습니다. 데이터 재처리 시 매핑 로직을 우선 점검하세요.
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

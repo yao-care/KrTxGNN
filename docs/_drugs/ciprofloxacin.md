@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ciprofloxacin
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 205
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -118,10 +118,10 @@ Ciprofloxacin은 광범위 스펙트럼 플루오로퀴놀론계 항생제로, �
 | 2–7, 9 | 나머지 예측 | L5 | Hold | 기전적 합리성 없거나 대체 치료가 명확히 존재 |
 
 > **특기사항**: **패혈성 페스트(Rank 10)**는 이미 FDA 승인 사용 적응증이며, 완료된 Phase 2 비열등성 RCT(NCT01243437, N=200, Madagascar)와 NEJM 2025년 발표 RCT(PMID 40768716)가 존재합니다. 본 재창출 분석에서 가장 강력한 근거를 가진 적응증으로, 별도 전체 보고서 작성을 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Atropine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 101
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Atropine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L4** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -104,10 +104,10 @@ ATROPINE은 무스카린 수용체 길항제로, 주로 서맥 치료, 유기인
 - 편두통 관련 ATROPINE 전임상 개념 증명(PoC) 연구 설계
 - 말초 부작용 최소화를 위한 선택적 경로 제형(비강 내, 경피) 또는 뇌 선택성 높은 유도체(아니소다민 등) 검토
 - 2차 예측 적응증인 **편두통 뇌간 선행 조짐(migraine with brainstem aura, TxGNN 점수 99.42%)** 또한 현재 L5 수준(모델 예측 단계)으로 별도 전임상 근거 확보가 필요함
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Deferasirox
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 241
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Deferasirox
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L4** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -96,10 +96,10 @@ HIV 감염증에 대한 Deferasirox의 적용 근거는 현재 기초과학 수�
 - 한국 허가 안전성 정보(경고, 금기, DDI) 수집 — 허가사항 PDF 해석 필요
 - HIV 환자 대상 세포 및 동물 모델 전임상 연구 — 철분 감소 시 HIV 복제 억제 vs. 전사 촉진 중 어느 방향이 우세한지 기전 방향성 명확화
 - 기전 방향성이 긍정적으로 확인될 경우 Phase 1/2 탐색 임상시험 설계 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

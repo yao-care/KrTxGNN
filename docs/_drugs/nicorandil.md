@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Nicorandil
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 504
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Nicorandil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -82,10 +82,10 @@ BPH/LUTS(하부요로증상)의 발병 기전 중 하나로 "전립선 허혈(pr
 - DrugBank 등을 통한 공식 MOA 데이터 확보 (DG002, High)
 - Nicorandil의 BPH/LUTS 표적 전임상(설치류 이상 종) 또는 초기 인체 시험 설계
 - 대만 내 정식 허가 여부 확인 및 시장 진입 가능성 평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

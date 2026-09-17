@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chlorzoxazone
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 198
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Chlorzoxazone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -47,7 +47,7 @@ Chlorzoxazone 是一種中樞性骨骼肌鬆弛劑，傳統用於緩解肌肉骨
 | 預測新適應症 | 偏頭痛（Migraine Disorder） |
 | TxGNN 預測分數 | 99.73% |
 | 根據水平 | L4（動物實驗 / 機轉研究） |
-| 韓國市售現況 | ✗ 未上市 |
+| 韓國市售現況 | ✗ Not marketed |
 | 許可證數 | 0 件 |
 | 建議決定 | Hold |
 
@@ -87,7 +87,7 @@ Chlorzoxazone 已知為 **BK channel（大電導鈣依賴性鉀通道）促進�
 
 ## 韓國市售資訊
 
-Chlorzoxazone 在韓國目前**無任何藥品許可證**，市售狀態為未上市。
+Chlorzoxazone 在韓國目前**無任何藥品許可證**，市售狀態為Not marketed。
 
 ---
 
@@ -104,7 +104,7 @@ Chlorzoxazone 在韓國目前**無任何藥品許可證**，市售狀態為未�
 **決定：Hold**
 
 **理由：**
-目前所有根據均屬前臨床 / 機轉研究層級（L4），機轉假說為多步驟間接推論，且僅適用於 FHM1 特定遺傳亞型，無任何人體直接應用根據。藥品在韓國未上市、作用機轉資料缺失、安全性資料（警語與禁忌）尚未完整取得，整體條件尚不足以進入臨床評估。
+目前所有根據均屬前臨床 / 機轉研究層級（L4），機轉假說為多步驟間接推論，且僅適用於 FHM1 特定遺傳亞型，無任何人體直接應用根據。藥品在韓國Not marketed、作用機轉資料缺失、安全性資料（警語與禁忌）尚未完整取得，整體條件尚不足以進入臨床評估。
 
 **若要推進，需要：**
 - 以 FHM1 動物模型（CACNA1A 功能增益突變鼠）**直接驗證** Chlorzoxazone 對偏頭痛相關症狀的抑制效果
@@ -112,10 +112,10 @@ Chlorzoxazone 在韓國目前**無任何藥品許可證**，市售狀態為未�
 - 系統性肝毒性安全評估，明確建立安全治療窗口
 - 取得完整藥品仿單安全資訊（警語、禁忌，目前為資料缺口）
 - **附加評估建議**：類風濕性關節炎（RA，Rank 9）方向有 L3 根據（7 篇文獻），含 1960-70 年代 Predniflex 複方直接臨床使用紀錄及 Cochrane 系統綜述，機轉上屬症狀緩解輔助止痛，可作為次要候選方向另行評估
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

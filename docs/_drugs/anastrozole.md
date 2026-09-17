@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Anastrozole
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 73
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Anastrozole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -138,10 +138,10 @@ Anastrozole은 ATAC, IBIS-II를 포함한 복수의 완료된 대규모 Phase 3 
 - 한국 폐경 후 여성 대상 골밀도 감소 및 관절통 위험 최소화 모니터링 프로토콜 수립
 - ER/PR 수용체 검사 및 폐경 상태 확인을 포함한 환자 선택 기준 명확화
 - 국내 유방암 표준 치료 가이드라인(NCCN Korea 적용 여부) 내 anastrozole 위치 분석
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

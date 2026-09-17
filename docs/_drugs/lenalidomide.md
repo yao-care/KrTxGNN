@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lenalidomide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 432
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Lenalidomide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -132,10 +132,10 @@ MDS와 골수성 백혈병(AML)은 조혈모세포 클론 이상이라는 동일
 - 상세 작용기전(MOA) 자료 확보 (DrugBank 등)
 - 한국 내 임상시험 등록 및 국내 사용 경험 여부 확인
 - 순위 2~6위 예측 적응증(비분류 MDS, 소아 불응성 혈구감소증 등)은 근거 수준이 L3~L5로 낮아 별도 Hold 권고
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

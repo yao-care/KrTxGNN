@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Isotretinoin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 410
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Isotretinoin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -79,10 +79,10 @@ Evidence Pack 자체의 분석에 따르면, TxGNN의 99.01% 점수는 지식그
 - DrugBank API를 통한 원본 적응증 및 작용기전(MOA) 재확인
 - 악성 신혈관성 고혈압 관련 전임상/기전 연구 존재 여부 조사
 - 한국 내 허가·시판 여부 재확인
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

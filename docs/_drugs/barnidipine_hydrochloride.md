@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Barnidipine Hydrochloride
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Barnidipine Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -74,10 +74,10 @@ TxGNN 예측 결과가 없고 기존 적응증·작용 기전·안전성 정보 
 - **DDI 재조회**: DrugBank ID 확보 후 재검색 권장 (현재 drug name 기반 조회 실패)
 
 > **참고**: Evidence Pack 메타데이터의 `data_gaps`에 DG001(TFDA 허가 경고·금기, Blocking) 및 DG002(MOA, High) 가 등록되어 있습니다. 특히 DG001은 안전성 초평가 진입을 차단하는 `Blocking` 등급으로, 우선 해소가 필요합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

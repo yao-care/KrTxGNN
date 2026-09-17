@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aminocaproic Acid
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 56
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Aminocaproic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -94,10 +94,10 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 - 상세한 작용 기전(MOA) 및 안전성 프로파일 데이터 확보 (DrugBank/FDA 라벨 기준)
 - 해당 적응증에 적합한 투여 경로(안내 주사 vs. 전신 투여) 타당성 평가
 - 한국 내 시판 가능성 및 허가 경로 사전 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

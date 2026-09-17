@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Entecavir
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 288
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Entecavir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -117,10 +117,10 @@ Entecavir와 만성 C형 간염 바이러스 감염 사이에는 근본적인 �
 - 한국 MFDS 허가 신청을 위한 안전성 프로파일(경고, 금기, DDI) 확보
 - Entecavir의 HCV NS5B RdRp에 대한 in vitro 억제 활성 데이터 확인 (기전적 가능성 낮음으로 판단)
 - **우선 검토 권장**: TxGNN 예측 2위 **만성 B형 간염 바이러스 감염 (근거 수준 L1, Proceed with Guardrails)** — Entecavir의 전 세계 허가 적응증이며 풍부한 Phase 3 임상 근거를 보유하고 있으므로, 한국 MFDS 허가 신청이 최우선 과제로 판단됩니다
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

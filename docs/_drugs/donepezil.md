@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Donepezil
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 269
-evidence_level: L5
+evidence_level: L3
 indication_count: 8
 ---
 
 # Donepezil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+근거 수준: **L3** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -157,10 +157,10 @@ TxGNN은 총 8개 운동장애 관련 적응증을 예측하였습니다. 아래
 - AChEI 유발 운동장애 위험인자 분석 (PMID 40224553 근거) 및 안전성 모니터링 계획 수립
 - 만성 틱 장애에 대한 소규모 무작위 대조 임상시험 설계 가능성 검토
 - 한국 임상시험 등록 시스템(CRIS) 포함 국내 임상시험 현황 재조회
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

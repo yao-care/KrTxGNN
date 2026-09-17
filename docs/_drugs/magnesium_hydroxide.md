@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Magnesium Hydroxide
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 457
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
 # Magnesium Hydroxide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L1** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -43,7 +43,7 @@ Magnesium Hydroxide(DrugBank DB09104)는 위산을 중화시키는 전통적인 
 | 예측 신규 적응증 | 활동성 소화성 궤양 (Active Peptic Ulcer Disease) |
 | TxGNN 예측 점수 | 99.98% |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | 미시판 (未上市) |
+| 한국 시판 현황 | 미시판 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -88,10 +88,10 @@ Magnesium Hydroxide(DrugBank DB09104)는 위산을 중화시키는 전통적인 
 - 상세 작용기전(MOA) 데이터 확보 — High 항목(DG002)
 - 대만 내 시판·허가 현황 확인 (현재 미시판, 허가증 0건)
 - 최신(2000년 이후) 임상 근거 추가 확보 및 최신 RCT 등록 여부 모니터링
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

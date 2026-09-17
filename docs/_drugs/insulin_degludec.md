@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Insulin Degludec
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 395
-evidence_level: L5
+evidence_level: L1
 indication_count: 6
 ---
 
 # Insulin Degludec
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L1** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -106,10 +106,10 @@ indication_count: 6
 - 한국 시판 현황 모니터링(현재 미시판이므로 향후 허가 여부 추적)
 
 참고: 같은 근거팩에 포함된 나머지 5개 예측 적응증(자가면역 난소염, opsismodysplasia, 티아민 반응성 기능장애 증후군, 전형적/국소형 뻣뻣한 사람 증후군)은 모두 임상시험·문헌 근거가 전무한 근거 수준 L5(모델 예측만 존재)로, 권장 결정은 Hold입니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

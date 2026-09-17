@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Latanoprostene Bunod
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 429
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Latanoprostene Bunod
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ TxGNN 예측 점수는 높지만(99.76%), 이를 뒷받침하는 임상시험·�
 | 10 | Hemangioendothelioma | 99.47% | L4 | Hold | 문헌은 치료 근거가 아닌 안전성 경고(망막박리 사례보고) |
 
 전체적으로 이 약물에 대한 TxGNN 예측군은 근거 수준이 낮으며(대부분 L5), 유일하게 실제 인체 시험 데이터가 존재하는 **6위 Vascular disease**(L3, Research Question)가 추가 탐색 가치가 있는 후보로 판단됩니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

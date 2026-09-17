@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Filgrastim
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Filgrastim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -103,10 +103,10 @@ TxGNN의 높은 예측 점수는 "조혈모세포이식" 임상 맥락에서 fil
 - 한국 허가사항의 경고·금기 정보 확보 (현재 Blocking 등급 Data Gap — S1 안전성 초평가 진행 불가)
 - 혈소판 생성/방출 경로와 G-CSF 축의 직접적 연관성을 뒷받침할 전임상 또는 기전 연구
 - 질환을 직접 표적으로 한 임상시험 등록 여부 지속 모니터링
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

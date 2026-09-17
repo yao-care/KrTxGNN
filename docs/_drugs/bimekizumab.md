@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bimekizumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 142
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Bimekizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -93,10 +93,10 @@ IL-17A/F 억제와 당뇨병성 백내장 간의 기전적 연결은 이론적 �
 - 동일 기전(IL-17A 단독 억제제, 예: secukinumab, ixekizumab)을 이용한 당뇨병성 백내장 관련 문헌 간접 검색으로 기전 가설 보강
 - MOA 상세 데이터 보완 (DrugBank API 재조회)
 - 한국 허가사항 확보를 위한 MFDS 또는 EMA/FDA 허가사항 기반 안전성 정보 수집
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

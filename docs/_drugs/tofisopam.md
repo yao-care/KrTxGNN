@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tofisopam
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Tofisopam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -43,7 +43,7 @@ Tofisopam은 2,3-benzodiazepine 계열의 비정형 항불안제로, 전통적�
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 99.16% |
 | 근거 수준 | L5 (모델 예측만, 실제 연구 없음) |
-| 한국 시판 현황 | 미출시 (未上市) |
+| 한국 시판 현황 | 미출시 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -77,10 +77,10 @@ DrugBank에 등록된 상세 MOA 데이터는 없습니다([Data Gap], DG002). �
 - DrugBank/문헌을 통한 상세 MOA 확인 (DG002)
 - GABA-A 결합 부위 차이에 따른 기전 방향성 재검토
 - 불면증 관련 임상시험/문헌 근거 축적 여부 지속 모니터링
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

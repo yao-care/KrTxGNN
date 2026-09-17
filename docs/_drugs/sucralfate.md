@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sucralfate
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 648
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 ---
 
 # Sucralfate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L2** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -106,10 +106,10 @@ Sucralfate는 황산화 수크로스-알루미늄염으로 손상된 위점막�
 ---
 
 > **참고**: Evidence Pack에는 2순위 예측 적응증으로 **십이지장 폐쇄(Duodenal Obstruction, TxGNN 99.30%)**도 포함되어 있으나, 근거 수준이 L4(전임상/기전 추론 수준)로 낮고 기전적 연관성도 간접적(궤양 치유를 통한 간접적 협착 예방 추정)이어서 현재 우선순위가 낮습니다(권장: Hold).
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

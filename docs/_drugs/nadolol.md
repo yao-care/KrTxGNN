@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nadolol
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 495
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Nadolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ TxGNN 모델은 **악성 신혈관성 고혈압(Malignant Renovascular Hypertens
 | 예측 신규 적응증 | 악성 신혈관성 고혈압 (Malignant Renovascular Hypertension) |
 | TxGNN 예측 점수 | 99.59% (rank 7442) |
 | 근거 수준 | L5 (모델 예측만 있음, 실제 연구 없음) |
-| 대만 시판 현황 | ✗ 미시판 (未上市) |
+| 대만 시판 현황 | ✗ 미시판 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -67,7 +67,7 @@ TxGNN 모델은 **악성 신혈관성 고혈압(Malignant Renovascular Hypertens
 
 ## 대만 시판 정보
 
-대만에서 현재 시판 허가 이력이 없습니다 (총 허가증 0건, market_status: 未上市).
+대만에서 현재 시판 허가 이력이 없습니다 (총 허가증 0건, market_status: Not marketed).
 
 ## 안전성 고려사항
 
@@ -87,10 +87,10 @@ TxGNN 모델은 **악성 신혈관성 고혈압(Malignant Renovascular Hypertens
 - TFDA 공식 경고문/금기사항 확보 (Blocking 데이터 갭, DG001)
 - 악성 신혈관성 고혈압에 특화된 전임상 또는 관찰 연구 확보
 - 대만 시판 여부 재확인 (필요 시 해외 허가 현황으로 대체 검토)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

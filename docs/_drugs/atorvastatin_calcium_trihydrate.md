@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Atorvastatin Calcium Trihydrate
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 96
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Atorvastatin Calcium Trihydrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -51,7 +51,7 @@ DrugBank ID 미확정 및 한국 시판 데이터 부재로 인해 **추가 데�
 | 예측 신규 적응증 | 데이터 없음 (TxGNN 예측 미수행) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (모델 예측 부재) |
-| 한국 시판 현황 | ✗ 미확인 (未上市) |
+| 한국 시판 현황 | ✗ 미확인 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 
@@ -86,10 +86,10 @@ TxGNN 예측 적응증 데이터가 전무하고, DrugBank ID 미확정으로 �
 - **한국 MFDS 허가 데이터 조회**: 약물명 변형(`아토르바스타틴`, `Atorvastatin`) 으로 재검색
 - **MOA 데이터 수집**: DrugBank API 재조회 (`DB01076`)
 - **안전성 정보 확보**: MFDS 허가사항 PDF 다운로드 후 경고·금기 항목 파싱
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

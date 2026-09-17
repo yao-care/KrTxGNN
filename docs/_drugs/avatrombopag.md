@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Avatrombopag
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 104
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Avatrombopag
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -115,10 +115,10 @@ Avatrombopag는 TPO 수용체(c-Mpl)에 비펩타이드성으로 결합하여 �
 - 2순위 예측(유전성 혈소판감소증)에 대한 **엘트롬보팍** 동일 계열 임상 문헌 우선 검토 — 직접 근거로의 전환 가능성 평가
 - Avatrombopag의 전 세계 허가 현황(ITP, CLD 관련 시술 전 혈소판감소증) 문서화하여 기존 적응증 섹션 보완
 - ALS 관련 5개 예측에 대한 KG 노드 구조 점검을 통해 위양성 필터링 로직 개선 권고
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

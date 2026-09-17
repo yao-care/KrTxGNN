@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lacosamide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 419
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Lacosamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -103,10 +103,10 @@ TxGNN 모델은 **양극성 정동장애 조증삽화(Manic Bipolar Affective Di
 **참고:** 이번 Evidence Pack에는 Lacosamide에 대해 10개의 예측 적응증이 포함되어 있는데,
 TxGNN 점수 순위(1위)와 별개로 **5순위 편두통(migraine disorder)**이 실제로는 가장 강한 근거를 보유하고 있습니다
 (L1 수준, 완료된 3상 RCT 다수 포함, 권장 결정 Proceed with Guardrails). 우선순위 재검토 시 참고하시기 바랍니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

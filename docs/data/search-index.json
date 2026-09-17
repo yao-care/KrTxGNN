@@ -80605,7 +80605,7 @@
     },
     {
       "name": "AIDS | TxGNN Knowledge Graph",
-      "drug_count": 30,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TENOFOVIR DISOPROXIL",
@@ -80874,7 +80874,7 @@
     },
     {
       "name": "Alzheimer disease without neurofibrillary tangles | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DONEPEZIL",
@@ -80930,7 +80930,7 @@
     },
     {
       "name": "Alzheimer disease | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DONEPEZIL",
@@ -81165,7 +81165,7 @@
     },
     {
       "name": "B-cell neoplasm | TxGNN Knowledge Graph",
-      "drug_count": 22,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RITUXIMAB",
@@ -81685,7 +81685,7 @@
     },
     {
       "name": "Crohn disease | TxGNN Knowledge Graph",
-      "drug_count": 30,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ADALIMUMAB",
@@ -81752,7 +81752,7 @@
     },
     {
       "name": "Crohn's colitis | TxGNN Knowledge Graph",
-      "drug_count": 21,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ADALIMUMAB",
@@ -82330,7 +82330,7 @@
     },
     {
       "name": "Gaucher disease | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "IMIGLUCERASE",
@@ -82457,7 +82457,7 @@
     },
     {
       "name": "Graves disease | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CARBIMAZOLE",
@@ -82513,7 +82513,7 @@
     },
     {
       "name": "HER2 positive breast carcinoma | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TRASTUZUMAB",
@@ -82633,7 +82633,7 @@
     },
     {
       "name": "HIV infectious disease | TxGNN Knowledge Graph",
-      "drug_count": 30,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TENOFOVIR DISOPROXIL",
@@ -82873,7 +82873,7 @@
     },
     {
       "name": "Hodgkins lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CARMUSTINE",
@@ -83058,7 +83058,7 @@
     },
     {
       "name": "IDDM 1 | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "INSULIN LISPRO",
@@ -83562,7 +83562,7 @@
     },
     {
       "name": "Lennox-Gastaut syndrome | TxGNN Knowledge Graph",
-      "drug_count": 48,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LORAZEPAM",
@@ -83917,7 +83917,7 @@
     },
     {
       "name": "Mycoplasma pneumoniae pneumonia | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -84033,7 +84033,7 @@
     },
     {
       "name": "Norwegian scabies | TxGNN Knowledge Graph",
-      "drug_count": 22,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CROTAMITON",
@@ -84269,7 +84269,7 @@
     },
     {
       "name": "Parkinson disease | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ENTACAPONE",
@@ -84475,7 +84475,7 @@
     },
     {
       "name": "Pick disease | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DONEPEZIL",
@@ -84682,7 +84682,7 @@
     },
     {
       "name": "Prinzmetal angina | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "NIFEDIPINE",
@@ -85037,7 +85037,7 @@
     },
     {
       "name": "Reye syndrome | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DONEPEZIL",
@@ -85368,7 +85368,7 @@
     },
     {
       "name": "Sjogren syndrome | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYCLOSPORINE",
@@ -85613,7 +85613,7 @@
     },
     {
       "name": "Tourette syndrome | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "HALOPERIDOL",
@@ -86047,7 +86047,7 @@
     },
     {
       "name": "X-linked parkinsonism-spasticity syndrome | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ENTACAPONE",
@@ -86147,7 +86147,7 @@
     },
     {
       "name": "Zollinger-Ellison syndrome | TxGNN Knowledge Graph",
-      "drug_count": 27,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMEPRAZOLE",
@@ -86267,7 +86267,7 @@
     },
     {
       "name": "absence epilepsy | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LORAZEPAM",
@@ -86360,7 +86360,7 @@
     },
     {
       "name": "acne (disease) | TxGNN Knowledge Graph",
-      "drug_count": 61,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -86816,7 +86816,7 @@
     },
     {
       "name": "actinic keratosis (disease) | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROURACIL",
@@ -86936,7 +86936,7 @@
     },
     {
       "name": "acute contagious conjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 24,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "AZITHROMYCIN",
@@ -86992,7 +86992,7 @@
     },
     {
       "name": "acute coronary syndrome | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TICAGRELOR",
@@ -87074,7 +87074,7 @@
     },
     {
       "name": "acute gonococcal cervicitis | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -87348,7 +87348,7 @@
     },
     {
       "name": "acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PEGASPARGASE",
@@ -87404,7 +87404,7 @@
     },
     {
       "name": "acute myeloblastic leukemia with maturation | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87460,7 +87460,7 @@
     },
     {
       "name": "acute myeloblastic leukemia without maturation | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87516,7 +87516,7 @@
     },
     {
       "name": "acute myeloid leukemia and myelodysplastic syndromes related to topoisomerase type 2 inhibitor | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87572,7 +87572,7 @@
     },
     {
       "name": "acute myeloid leukemia with CEBPA somatic mutations | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87628,7 +87628,7 @@
     },
     {
       "name": "acute myeloid leukemia with NPM1 somatic mutations | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87710,7 +87710,7 @@
     },
     {
       "name": "acute myeloid leukemia with inv3(p21;q26.2) or t(3;3)(p21;q26.2) | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87766,7 +87766,7 @@
     },
     {
       "name": "acute myeloid leukemia with minimal differentiation | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87822,7 +87822,7 @@
     },
     {
       "name": "acute myeloid leukemia with t(6;9)(p23;q34) | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87878,7 +87878,7 @@
     },
     {
       "name": "acute myeloid leukemia with t(8;16)(p11;p13) translocation | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87934,7 +87934,7 @@
     },
     {
       "name": "acute myeloid leukemia with t(8;21)(q22;q22) translocation | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -87990,7 +87990,7 @@
     },
     {
       "name": "acute myeloid leukemia with t(9;11)(p22;q23) | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -88046,7 +88046,7 @@
     },
     {
       "name": "acute promyelocytic leukemia | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TRETINOIN",
@@ -88451,7 +88451,7 @@
     },
     {
       "name": "allergic asthma | TxGNN Knowledge Graph",
-      "drug_count": 42,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMALIZUMAB",
@@ -88518,7 +88518,7 @@
     },
     {
       "name": "allergic rhinitis | TxGNN Knowledge Graph",
-      "drug_count": 82,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "GLYCINE",
@@ -88685,7 +88685,7 @@
     },
     {
       "name": "alopecia | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MINOXIDIL",
@@ -89235,7 +89235,7 @@
     },
     {
       "name": "ankylosing spondylitis | TxGNN Knowledge Graph",
-      "drug_count": 47,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ETANERCEPT",
@@ -89440,7 +89440,7 @@
     },
     {
       "name": "anxiety disorder | TxGNN Knowledge Graph",
-      "drug_count": 72,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LORAZEPAM",
@@ -89496,7 +89496,7 @@
     },
     {
       "name": "anxiety | TxGNN Knowledge Graph",
-      "drug_count": 46,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LORAZEPAM",
@@ -89705,7 +89705,7 @@
     },
     {
       "name": "arteriosclerosis disorder | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LOVASTATIN",
@@ -89798,7 +89798,7 @@
     },
     {
       "name": "arthropathy | TxGNN Knowledge Graph",
-      "drug_count": 172,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CEFTAZIDIME",
@@ -89854,7 +89854,7 @@
     },
     {
       "name": "ascorbic acid deficiency | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ASCORBIC ACID",
@@ -89977,7 +89977,7 @@
     },
     {
       "name": "asthma | TxGNN Knowledge Graph",
-      "drug_count": 45,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMALIZUMAB",
@@ -90106,7 +90106,7 @@
     },
     {
       "name": "atherosclerosis | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LOVASTATIN",
@@ -90162,7 +90162,7 @@
     },
     {
       "name": "atopic conjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 26,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -90244,7 +90244,7 @@
     },
     {
       "name": "atopic eczema | TxGNN Knowledge Graph",
-      "drug_count": 38,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PIMECROLIMUS",
@@ -90515,7 +90515,7 @@
     },
     {
       "name": "atypical juvenile parkinsonism | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ENTACAPONE",
@@ -90582,7 +90582,7 @@
     },
     {
       "name": "autism (disease) | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RISPERIDONE",
@@ -90638,7 +90638,7 @@
     },
     {
       "name": "autism spectrum disorder | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RISPERIDONE",
@@ -90694,7 +90694,7 @@
     },
     {
       "name": "autism susceptibility 1 | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RISPERIDONE",
@@ -90991,7 +90991,7 @@
     },
     {
       "name": "bacterial arthritis | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CEFTAZIDIME",
@@ -91089,7 +91089,7 @@
     },
     {
       "name": "bacterial pneumonia | TxGNN Knowledge Graph",
-      "drug_count": 32,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -91284,7 +91284,7 @@
     },
     {
       "name": "benign prostatic hyperplasia (disease) | TxGNN Knowledge Graph",
-      "drug_count": 140,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TADALAFIL",
@@ -91367,7 +91367,7 @@
     },
     {
       "name": "beriberi | TxGNN Knowledge Graph",
-      "drug_count": 30,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "NICOTINE",
@@ -91697,7 +91697,7 @@
     },
     {
       "name": "bipolar disorder | TxGNN Knowledge Graph",
-      "drug_count": 31,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OLANZAPINE",
@@ -91902,7 +91902,7 @@
     },
     {
       "name": "blepharoconjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TRIMETHOPRIM",
@@ -92070,7 +92070,7 @@
     },
     {
       "name": "borderline epithelial tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -92582,7 +92582,7 @@
     },
     {
       "name": "breast neoplasm | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BEVACIZUMAB",
@@ -92654,7 +92654,7 @@
     },
     {
       "name": "bronchiectasis | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "EPINEPHRINE",
@@ -92756,7 +92756,7 @@
     },
     {
       "name": "bronchitis | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "THEOPHYLLINE",
@@ -92828,7 +92828,7 @@
     },
     {
       "name": "bullous impetigo | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MUPIROCIN",
@@ -92910,7 +92910,7 @@
     },
     {
       "name": "bursitis | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BETAMETHASONE",
@@ -92966,7 +92966,7 @@
     },
     {
       "name": "candidemia | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUCONAZOLE",
@@ -93033,7 +93033,7 @@
     },
     {
       "name": "candidiasis | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUCONAZOLE",
@@ -93315,7 +93315,7 @@
     },
     {
       "name": "central nervous system origin vertigo | TxGNN Knowledge Graph",
-      "drug_count": 27,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CINNARIZINE",
@@ -93387,7 +93387,7 @@
     },
     {
       "name": "cerebellar degeneration | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DONEPEZIL",
@@ -93454,7 +93454,7 @@
     },
     {
       "name": "cerebral infarction | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RAMIPRIL",
@@ -93532,7 +93532,7 @@
     },
     {
       "name": "cerebrovascular disorder | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RAMIPRIL",
@@ -93787,7 +93787,7 @@
     },
     {
       "name": "cholecystolithiasis | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "URSODEOXYCHOLIC ACID",
@@ -93843,7 +93843,7 @@
     },
     {
       "name": "choledocholithiasis | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "URSODEOXYCHOLIC ACID",
@@ -93899,7 +93899,7 @@
     },
     {
       "name": "cholelithiasis | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "URSODEOXYCHOLIC ACID",
@@ -94036,7 +94036,7 @@
     },
     {
       "name": "chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DESOXIMETASONE",
@@ -94119,7 +94119,7 @@
     },
     {
       "name": "chronic hepatitis B virus infection | TxGNN Knowledge Graph",
-      "drug_count": 76,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TENOFOVIR DISOPROXIL",
@@ -94201,7 +94201,7 @@
     },
     {
       "name": "chronic hepatitis C virus infection | TxGNN Knowledge Graph",
-      "drug_count": 23,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RITONAVIR",
@@ -94284,7 +94284,7 @@
     },
     {
       "name": "chronic myelogenous leukemia, BCR-ABL1 positive | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "HYDROXYUREA",
@@ -94424,7 +94424,7 @@
     },
     {
       "name": "ciliary body disease | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -94569,7 +94569,7 @@
     },
     {
       "name": "classic Hodgkin lymphoma, lymphocyte-rich type | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CARMUSTINE",
@@ -94668,7 +94668,7 @@
     },
     {
       "name": "clear cell renal carcinoma | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SIROLIMUS",
@@ -94973,7 +94973,7 @@
     },
     {
       "name": "common cold | TxGNN Knowledge Graph",
-      "drug_count": 49,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "GLYCINE",
@@ -95040,7 +95040,7 @@
     },
     {
       "name": "congenital alveolar capillary dysplasia | TxGNN Knowledge Graph",
-      "drug_count": 27,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "NITRIC OXIDE",
@@ -95236,7 +95236,7 @@
     },
     {
       "name": "congestive heart failure | TxGNN Knowledge Graph",
-      "drug_count": 36,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CHLORTHALIDONE",
@@ -95318,7 +95318,7 @@
     },
     {
       "name": "conjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 23,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -95374,7 +95374,7 @@
     },
     {
       "name": "constipation disorder | TxGNN Knowledge Graph",
-      "drug_count": 41,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "POTASSIUM CHLORIDE",
@@ -95487,7 +95487,7 @@
     },
     {
       "name": "contact dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 28,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DESOXIMETASONE",
@@ -95606,7 +95606,7 @@
     },
     {
       "name": "coronary thrombosis | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALTEPLASE",
@@ -95780,7 +95780,7 @@
     },
     {
       "name": "cutaneous candidiasis | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CLOTRIMAZOLE",
@@ -95863,7 +95863,7 @@
     },
     {
       "name": "cutis verticis gyrata | TxGNN Knowledge Graph",
-      "drug_count": 49,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LORAZEPAM",
@@ -95919,7 +95919,7 @@
     },
     {
       "name": "cyanide poisoning | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "HYDROXOCOBALAMIN",
@@ -96048,7 +96048,7 @@
     },
     {
       "name": "cystic echinococcosis | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALBENDAZOLE",
@@ -96156,7 +96156,7 @@
     },
     {
       "name": "cysticercosis | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALBENDAZOLE",
@@ -96329,7 +96329,7 @@
     },
     {
       "name": "deficiency anemia | TxGNN Knowledge Graph",
-      "drug_count": 20,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYANOCOBALAMIN",
@@ -96412,7 +96412,7 @@
     },
     {
       "name": "dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 27,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LIDOCAINE",
@@ -96484,7 +96484,7 @@
     },
     {
       "name": "dermatitis, atopic | TxGNN Knowledge Graph",
-      "drug_count": 42,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PIMECROLIMUS",
@@ -96561,7 +96561,7 @@
     },
     {
       "name": "dermatophytosis of groin and perianal area | TxGNN Knowledge Graph",
-      "drug_count": 29,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CLOTRIMAZOLE",
@@ -96680,7 +96680,7 @@
     },
     {
       "name": "diabetes mellitus (disease) | TxGNN Knowledge Graph",
-      "drug_count": 188,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "INSULIN LISPRO",
@@ -96804,7 +96804,7 @@
     },
     {
       "name": "diabetic ketoacidosis | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "INSULIN LISPRO",
@@ -96860,7 +96860,7 @@
     },
     {
       "name": "diabetic macular edema | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RANIBIZUMAB",
@@ -96927,7 +96927,7 @@
     },
     {
       "name": "diabetic nephropathy | TxGNN Knowledge Graph",
-      "drug_count": 29,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "IRBESARTAN",
@@ -97171,7 +97171,7 @@
     },
     {
       "name": "diffuse gastric adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROURACIL",
@@ -97307,7 +97307,7 @@
     },
     {
       "name": "discoid lupus erythematosus | TxGNN Knowledge Graph",
-      "drug_count": 20,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BETAMETHASONE",
@@ -97459,7 +97459,7 @@
     },
     {
       "name": "disseminated candidiasis | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUCONAZOLE",
@@ -97735,7 +97735,7 @@
     },
     {
       "name": "dry eye syndrome | TxGNN Knowledge Graph",
-      "drug_count": 34,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYCLOSPORINE",
@@ -97818,7 +97818,7 @@
     },
     {
       "name": "duodenal ulcer (disease) | TxGNN Knowledge Graph",
-      "drug_count": 30,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMEPRAZOLE",
@@ -97948,7 +97948,7 @@
     },
     {
       "name": "dyspepsia | TxGNN Knowledge Graph",
-      "drug_count": 52,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CIMETIDINE",
@@ -98114,7 +98114,7 @@
     },
     {
       "name": "early-onset parkinsonism-intellectual disability syndrome | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ENTACAPONE",
@@ -98181,7 +98181,7 @@
     },
     {
       "name": "echinococcus granulosus infectious disease | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALBENDAZOLE",
@@ -98328,7 +98328,7 @@
     },
     {
       "name": "endogenous depression | TxGNN Knowledge Graph",
-      "drug_count": 30,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OLANZAPINE",
@@ -98384,7 +98384,7 @@
     },
     {
       "name": "endometrial cancer | TxGNN Knowledge Graph",
-      "drug_count": 22,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MEGESTROL ACETATE",
@@ -98440,7 +98440,7 @@
     },
     {
       "name": "endometrial carcinoma (disease) | TxGNN Knowledge Graph",
-      "drug_count": 22,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MEGESTROL ACETATE",
@@ -98496,7 +98496,7 @@
     },
     {
       "name": "endometriosis (disease) | TxGNN Knowledge Graph",
-      "drug_count": 38,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TRANEXAMIC ACID",
@@ -98552,7 +98552,7 @@
     },
     {
       "name": "endometriosis of uterus | TxGNN Knowledge Graph",
-      "drug_count": 38,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TRANEXAMIC ACID",
@@ -98608,7 +98608,7 @@
     },
     {
       "name": "endometritis | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CEFTAZIDIME",
@@ -98664,7 +98664,7 @@
     },
     {
       "name": "endometrium neoplasm | TxGNN Knowledge Graph",
-      "drug_count": 23,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MEGESTROL ACETATE",
@@ -98858,7 +98858,7 @@
     },
     {
       "name": "epilepsy with generalized tonic-clonic seizures | TxGNN Knowledge Graph",
-      "drug_count": 23,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PHENYTOIN",
@@ -98914,7 +98914,7 @@
     },
     {
       "name": "epilepsy | TxGNN Knowledge Graph",
-      "drug_count": 29,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PHENYTOIN",
@@ -98986,7 +98986,7 @@
     },
     {
       "name": "erectile dysfunction (disease) | TxGNN Knowledge Graph",
-      "drug_count": 33,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SILDENAFIL",
@@ -99099,7 +99099,7 @@
     },
     {
       "name": "escherichia coli infection | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "AMPICILLIN",
@@ -99166,7 +99166,7 @@
     },
     {
       "name": "esophageal candidiasis | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUCONAZOLE",
@@ -99244,7 +99244,7 @@
     },
     {
       "name": "esophagitis (disease) | TxGNN Knowledge Graph",
-      "drug_count": 53,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMEPRAZOLE",
@@ -99337,7 +99337,7 @@
     },
     {
       "name": "exanthem (disease) | TxGNN Knowledge Graph",
-      "drug_count": 33,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BETAMETHASONE",
@@ -99731,7 +99731,7 @@
     },
     {
       "name": "familial hyperlipidemia | TxGNN Knowledge Graph",
-      "drug_count": 29,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LOVASTATIN",
@@ -99877,7 +99877,7 @@
     },
     {
       "name": "familial ovarian cancer | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -100296,7 +100296,7 @@
     },
     {
       "name": "fibromyalgia | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PREGABALIN",
@@ -100373,7 +100373,7 @@
     },
     {
       "name": "folic acid deficiency anemia | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYANOCOBALAMIN",
@@ -100705,7 +100705,7 @@
     },
     {
       "name": "gastric cancer | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROURACIL",
@@ -100777,7 +100777,7 @@
     },
     {
       "name": "gastric carcinoma | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROURACIL",
@@ -100833,7 +100833,7 @@
     },
     {
       "name": "gastric linitis plastica | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROURACIL",
@@ -100889,7 +100889,7 @@
     },
     {
       "name": "gastric neoplasm | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROURACIL",
@@ -100956,7 +100956,7 @@
     },
     {
       "name": "gastric ulcer (disease) | TxGNN Knowledge Graph",
-      "drug_count": 26,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMEPRAZOLE",
@@ -101023,7 +101023,7 @@
     },
     {
       "name": "gastrin secretion abnormality | TxGNN Knowledge Graph",
-      "drug_count": 27,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMEPRAZOLE",
@@ -101079,7 +101079,7 @@
     },
     {
       "name": "gastritis | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "REBAMIPIDE",
@@ -101157,7 +101157,7 @@
     },
     {
       "name": "gastroesophageal reflux disease | TxGNN Knowledge Graph",
-      "drug_count": 57,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMEPRAZOLE",
@@ -101828,7 +101828,7 @@
     },
     {
       "name": "granuloma annulare | TxGNN Knowledge Graph",
-      "drug_count": 21,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BETAMETHASONE",
@@ -101938,7 +101938,7 @@
     },
     {
       "name": "granulomatous slack skin disease | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BETAMETHASONE",
@@ -102101,7 +102101,7 @@
     },
     {
       "name": "headache disorder | TxGNN Knowledge Graph",
-      "drug_count": 35,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ACETAMINOPHEN",
@@ -102283,7 +102283,7 @@
     },
     {
       "name": "hemiparkinsonism-hemiatrophy syndrome | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ENTACAPONE",
@@ -102360,7 +102360,7 @@
     },
     {
       "name": "hemoglobinopathy | TxGNN Knowledge Graph",
-      "drug_count": 22,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALTEPLASE",
@@ -102453,7 +102453,7 @@
     },
     {
       "name": "hemorrhoid | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LIDOCAINE",
@@ -102741,7 +102741,7 @@
     },
     {
       "name": "hepatitis C virus infection | TxGNN Knowledge Graph",
-      "drug_count": 22,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RITONAVIR",
@@ -102972,7 +102972,7 @@
     },
     {
       "name": "hereditary breast ovarian cancer syndrome | TxGNN Knowledge Graph",
-      "drug_count": 22,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BEVACIZUMAB",
@@ -103092,7 +103092,7 @@
     },
     {
       "name": "hereditary late onset Parkinson disease | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ENTACAPONE",
@@ -103148,7 +103148,7 @@
     },
     {
       "name": "hereditary persistence of fetal hemoglobin | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "HYDROXYUREA",
@@ -103204,7 +103204,7 @@
     },
     {
       "name": "hereditary site-specific ovarian cancer syndrome | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -103445,7 +103445,7 @@
     },
     {
       "name": "herpes zoster | TxGNN Knowledge Graph",
-      "drug_count": 59,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FAMCICLOVIR",
@@ -103662,7 +103662,7 @@
     },
     {
       "name": "homozygous familial hypercholesterolemia | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SIMVASTATIN",
@@ -103864,7 +103864,7 @@
     },
     {
       "name": "hypercalcemia disease | TxGNN Knowledge Graph",
-      "drug_count": 42,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CALCITRIOL",
@@ -103920,7 +103920,7 @@
     },
     {
       "name": "hyperinsulinism (disease) | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMEPRAZOLE",
@@ -103976,7 +103976,7 @@
     },
     {
       "name": "hyperlipidemia | TxGNN Knowledge Graph",
-      "drug_count": 28,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LOVASTATIN",
@@ -104032,7 +104032,7 @@
     },
     {
       "name": "hyperlipidemia, familial combined, LPL related | TxGNN Knowledge Graph",
-      "drug_count": 34,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LOVASTATIN",
@@ -104140,7 +104140,7 @@
     },
     {
       "name": "hyperparathyroidism | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALFACALCIDOL",
@@ -104278,7 +104278,7 @@
     },
     {
       "name": "hypertension | TxGNN Knowledge Graph",
-      "drug_count": 245,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "VALSARTAN",
@@ -104334,7 +104334,7 @@
     },
     {
       "name": "hypertensive disorder | TxGNN Knowledge Graph",
-      "drug_count": 243,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "VALSARTAN",
@@ -104406,7 +104406,7 @@
     },
     {
       "name": "hyperthyroidism | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CARBIMAZOLE",
@@ -104520,7 +104520,7 @@
     },
     {
       "name": "hypertriglyceridemia (disease) | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LOVASTATIN",
@@ -104609,7 +104609,7 @@
     },
     {
       "name": "hypoalphalipoproteinemia | TxGNN Knowledge Graph",
-      "drug_count": 23,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LOVASTATIN",
@@ -104665,7 +104665,7 @@
     },
     {
       "name": "hypochromic anemia | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYANOCOBALAMIN",
@@ -104827,7 +104827,7 @@
     },
     {
       "name": "hypoparathyroidism | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CALCITRIOL",
@@ -105051,7 +105051,7 @@
     },
     {
       "name": "idiopathic bronchiectasis | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "EPINEPHRINE",
@@ -105262,7 +105262,7 @@
     },
     {
       "name": "idiopathic urticaria | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMALIZUMAB",
@@ -105318,7 +105318,7 @@
     },
     {
       "name": "idiopathic uveitis | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -105385,7 +105385,7 @@
     },
     {
       "name": "immature ovarian teratoma | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -105452,7 +105452,7 @@
     },
     {
       "name": "impetigo | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MUPIROCIN",
@@ -105620,7 +105620,7 @@
     },
     {
       "name": "infectious anterior uveitis | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -105723,7 +105723,7 @@
     },
     {
       "name": "infectious otitis media | TxGNN Knowledge Graph",
-      "drug_count": 27,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -105801,7 +105801,7 @@
     },
     {
       "name": "inflammatory bowel disease | TxGNN Knowledge Graph",
-      "drug_count": 51,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ADALIMUMAB",
@@ -105971,7 +105971,7 @@
     },
     {
       "name": "inherited acute myeloid leukemia | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -106176,7 +106176,7 @@
     },
     {
       "name": "insomnia (disease) | TxGNN Knowledge Graph",
-      "drug_count": 48,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ESZOPICLONE",
@@ -106232,7 +106232,7 @@
     },
     {
       "name": "intermittent vascular claudication | TxGNN Knowledge Graph",
-      "drug_count": 67,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PENTOXIFYLLINE",
@@ -106430,7 +106430,7 @@
     },
     {
       "name": "intrinsic asthma | TxGNN Knowledge Graph",
-      "drug_count": 50,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMALIZUMAB",
@@ -106543,7 +106543,7 @@
     },
     {
       "name": "iridocyclitis (disease) | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -106610,7 +106610,7 @@
     },
     {
       "name": "iris disease | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -106707,7 +106707,7 @@
     },
     {
       "name": "iron deficiency anemia | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYANOCOBALAMIN",
@@ -106891,7 +106891,7 @@
     },
     {
       "name": "juvenile arthritis due to defect in LACC1 | TxGNN Knowledge Graph",
-      "drug_count": 60,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ETANERCEPT",
@@ -106947,7 +106947,7 @@
     },
     {
       "name": "juvenile idiopathic arthritis | TxGNN Knowledge Graph",
-      "drug_count": 68,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ETANERCEPT",
@@ -107025,7 +107025,7 @@
     },
     {
       "name": "juvenile onset Parkinson disease 19A | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ENTACAPONE",
@@ -107149,7 +107149,7 @@
     },
     {
       "name": "keratitis | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BACITRACIN",
@@ -107251,7 +107251,7 @@
     },
     {
       "name": "keratoconjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BACITRACIN",
@@ -107561,7 +107561,7 @@
     },
     {
       "name": "leukemia, lymphocytic, susceptibility to | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PEGASPARGASE",
@@ -107617,7 +107617,7 @@
     },
     {
       "name": "lichen disease | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DESOXIMETASONE",
@@ -107912,7 +107912,7 @@
     },
     {
       "name": "lung cancer | TxGNN Knowledge Graph",
-      "drug_count": 26,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "GEFITINIB",
@@ -108032,7 +108032,7 @@
     },
     {
       "name": "lupus erythematosus | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DESOXIMETASONE",
@@ -108220,7 +108220,7 @@
     },
     {
       "name": "lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RITUXIMAB",
@@ -108343,7 +108343,7 @@
     },
     {
       "name": "lymphosarcoma | TxGNN Knowledge Graph",
-      "drug_count": 24,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RITUXIMAB",
@@ -108399,7 +108399,7 @@
     },
     {
       "name": "macular degeneration | TxGNN Knowledge Graph",
-      "drug_count": 20,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "VERTEPORFIN",
@@ -108503,7 +108503,7 @@
     },
     {
       "name": "major depressive disorder | TxGNN Knowledge Graph",
-      "drug_count": 29,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OLANZAPINE",
@@ -108638,7 +108638,7 @@
     },
     {
       "name": "maligant granulosa cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -108694,7 +108694,7 @@
     },
     {
       "name": "malignant Sertoli-Leydig cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -108786,7 +108786,7 @@
     },
     {
       "name": "malignant dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -108874,7 +108874,7 @@
     },
     {
       "name": "malignant germ cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -108941,7 +108941,7 @@
     },
     {
       "name": "malignant non-dysgerminomatous germ cell tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -109023,7 +109023,7 @@
     },
     {
       "name": "malignant sex cord stromal tumor of ovary | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -109079,7 +109079,7 @@
     },
     {
       "name": "manic bipolar affective disorder | TxGNN Knowledge Graph",
-      "drug_count": 35,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "VALPROIC ACID",
@@ -109146,7 +109146,7 @@
     },
     {
       "name": "mantle cell lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 22,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RITUXIMAB",
@@ -109282,7 +109282,7 @@
     },
     {
       "name": "maxillary sinusitis | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CIPROFLOXACIN",
@@ -109500,7 +109500,7 @@
     },
     {
       "name": "mental disorder | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "HALOPERIDOL",
@@ -109556,7 +109556,7 @@
     },
     {
       "name": "metastasis from malignant tumor of colon | TxGNN Knowledge Graph",
-      "drug_count": 42,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OXALIPLATIN",
@@ -109633,7 +109633,7 @@
     },
     {
       "name": "metastatic melanoma | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -109722,7 +109722,7 @@
     },
     {
       "name": "microcytic anemia | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYANOCOBALAMIN",
@@ -109789,7 +109789,7 @@
     },
     {
       "name": "migraine disorder",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atracurium Besylate",
@@ -109845,7 +109845,7 @@
     },
     {
       "name": "migraine disorder | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ZOLMITRIPTAN",
@@ -109901,7 +109901,7 @@
     },
     {
       "name": "migraine with brainstem aura",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atracurium Besylate",
@@ -109993,7 +109993,7 @@
     },
     {
       "name": "migraine with or without aura, susceptibility to | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ZOLMITRIPTAN",
@@ -110060,7 +110060,7 @@
     },
     {
       "name": "mite infestation | TxGNN Knowledge Graph",
-      "drug_count": 22,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CROTAMITON",
@@ -110132,7 +110132,7 @@
     },
     {
       "name": "mixed anxiety and depressive disorder | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALPRAZOLAM",
@@ -110220,7 +110220,7 @@
     },
     {
       "name": "monogenic obesity | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ORLISTAT",
@@ -110312,7 +110312,7 @@
     },
     {
       "name": "motion sickness | TxGNN Knowledge Graph",
-      "drug_count": 28,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CINNARIZINE",
@@ -110618,7 +110618,7 @@
     },
     {
       "name": "myelodysplastic syndrome | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LENALIDOMIDE",
@@ -110705,7 +110705,7 @@
     },
     {
       "name": "myeloid leukemia | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -110838,7 +110838,7 @@
     },
     {
       "name": "myocardial infarction (disease) | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALTEPLASE",
@@ -110894,7 +110894,7 @@
     },
     {
       "name": "myocardial infarction | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALTEPLASE",
@@ -110961,7 +110961,7 @@
     },
     {
       "name": "myofascial pain syndrome | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PREGABALIN",
@@ -111190,7 +111190,7 @@
     },
     {
       "name": "nasopharyngitis | TxGNN Knowledge Graph",
-      "drug_count": 40,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "GLYCINE",
@@ -111368,7 +111368,7 @@
     },
     {
       "name": "nephrocalcinosis | TxGNN Knowledge Graph",
-      "drug_count": 43,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CALCITRIOL",
@@ -111601,7 +111601,7 @@
     },
     {
       "name": "neurodermatitis | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DESOXIMETASONE",
@@ -111869,7 +111869,7 @@
     },
     {
       "name": "nicotine dependence | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "NICOTINE",
@@ -111966,7 +111966,7 @@
     },
     {
       "name": "non-Hodgkin lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RITUXIMAB",
@@ -112144,7 +112144,7 @@
     },
     {
       "name": "non-small cell lung carcinoma (disease) | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "GEFITINIB",
@@ -112200,7 +112200,7 @@
     },
     {
       "name": "nonpapillary renal cell carcinoma | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SIROLIMUS",
@@ -112272,7 +112272,7 @@
     },
     {
       "name": "nutritional biotin deficiency | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BIOTIN",
@@ -112339,7 +112339,7 @@
     },
     {
       "name": "obesity disorder | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ORLISTAT",
@@ -112567,7 +112567,7 @@
     },
     {
       "name": "obsolete familial combined hyperlipidemia | TxGNN Knowledge Graph",
-      "drug_count": 31,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LOVASTATIN",
@@ -112623,7 +112623,7 @@
     },
     {
       "name": "obsolete hyperuricemia (disease) | TxGNN Knowledge Graph",
-      "drug_count": 41,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RASBURICASE",
@@ -112738,7 +112738,7 @@
     },
     {
       "name": "obsolete susceptibility to ischemic stroke | TxGNN Knowledge Graph",
-      "drug_count": 20,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALTEPLASE",
@@ -112852,7 +112852,7 @@
     },
     {
       "name": "occupational dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 27,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DESOXIMETASONE",
@@ -112908,7 +112908,7 @@
     },
     {
       "name": "ocular hypertension | TxGNN Knowledge Graph",
-      "drug_count": 36,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TRAVOPROST",
@@ -113018,7 +113018,7 @@
     },
     {
       "name": "open-angle glaucoma | TxGNN Knowledge Graph",
-      "drug_count": 42,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TRAVOPROST",
@@ -113169,7 +113169,7 @@
     },
     {
       "name": "oral candidiasis | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUCONAZOLE",
@@ -113263,7 +113263,7 @@
     },
     {
       "name": "osteitis fibrosa | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALFACALCIDOL",
@@ -113401,7 +113401,7 @@
     },
     {
       "name": "osteoarthritis susceptibility | TxGNN Knowledge Graph",
-      "drug_count": 99,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "NABUMETONE",
@@ -113457,7 +113457,7 @@
     },
     {
       "name": "osteoarthritis | TxGNN Knowledge Graph",
-      "drug_count": 101,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "NABUMETONE",
@@ -113560,7 +113560,7 @@
     },
     {
       "name": "osteoporosis | TxGNN Knowledge Graph",
-      "drug_count": 72,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CHOLECALCIFEROL",
@@ -113683,7 +113683,7 @@
     },
     {
       "name": "ovarian adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -113739,7 +113739,7 @@
     },
     {
       "name": "ovarian cancer | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -113795,7 +113795,7 @@
     },
     {
       "name": "ovarian carcinosarcoma | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -113851,7 +113851,7 @@
     },
     {
       "name": "ovarian clear cell adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -113918,7 +113918,7 @@
     },
     {
       "name": "ovarian endometrioid adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -113990,7 +113990,7 @@
     },
     {
       "name": "ovarian mucinous adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -114089,7 +114089,7 @@
     },
     {
       "name": "ovarian small cell carcinoma | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -114145,7 +114145,7 @@
     },
     {
       "name": "overactive bladder (disease) | TxGNN Knowledge Graph",
-      "drug_count": 29,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OXYBUTYNIN",
@@ -114289,7 +114289,7 @@
     },
     {
       "name": "panuveitis (disease) | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -114356,7 +114356,7 @@
     },
     {
       "name": "papillary conjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 26,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -114575,7 +114575,7 @@
     },
     {
       "name": "parapsoriasis | TxGNN Knowledge Graph",
-      "drug_count": 20,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "METHOTREXATE",
@@ -114750,7 +114750,7 @@
     },
     {
       "name": "parkinsonian-pyramidal syndrome | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ENTACAPONE",
@@ -114923,7 +114923,7 @@
     },
     {
       "name": "partial epilepsy | TxGNN Knowledge Graph",
-      "drug_count": 139,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PHENYTOIN",
@@ -114979,7 +114979,7 @@
     },
     {
       "name": "partial motor epilepsy | TxGNN Knowledge Graph",
-      "drug_count": 66,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PHENYTOIN",
@@ -115161,7 +115161,7 @@
     },
     {
       "name": "pellagra | TxGNN Knowledge Graph",
-      "drug_count": 31,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "NICOTINE",
@@ -115217,7 +115217,7 @@
     },
     {
       "name": "peptic esophagitis | TxGNN Knowledge Graph",
-      "drug_count": 53,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMEPRAZOLE",
@@ -115273,7 +115273,7 @@
     },
     {
       "name": "peptic ulcer disease | TxGNN Knowledge Graph",
-      "drug_count": 86,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OMEPRAZOLE",
@@ -115439,7 +115439,7 @@
     },
     {
       "name": "peripheral arterial disease | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PENTOXIFYLLINE",
@@ -115506,7 +115506,7 @@
     },
     {
       "name": "peripheral vascular disease | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PENTOXIFYLLINE",
@@ -115655,7 +115655,7 @@
     },
     {
       "name": "pernicious anemia | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYANOCOBALAMIN",
@@ -115711,7 +115711,7 @@
     },
     {
       "name": "persistent fetal circulation syndrome | TxGNN Knowledge Graph",
-      "drug_count": 27,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "NITRIC OXIDE",
@@ -115789,7 +115789,7 @@
     },
     {
       "name": "pharyngitis | TxGNN Knowledge Graph",
-      "drug_count": 52,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "GLYCINE",
@@ -115845,7 +115845,7 @@
     },
     {
       "name": "phosphorus metabolism disease | TxGNN Knowledge Graph",
-      "drug_count": 41,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CALCITRIOL",
@@ -116026,7 +116026,7 @@
     },
     {
       "name": "pityriasis simplex | TxGNN Knowledge Graph",
-      "drug_count": 21,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SALICYLIC ACID",
@@ -116082,7 +116082,7 @@
     },
     {
       "name": "pityriasis versicolor | TxGNN Knowledge Graph",
-      "drug_count": 36,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CLOTRIMAZOLE",
@@ -116196,7 +116196,7 @@
     },
     {
       "name": "plasma cell myeloma | TxGNN Knowledge Graph",
-      "drug_count": 37,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CARMUSTINE",
@@ -116380,7 +116380,7 @@
     },
     {
       "name": "pneumonia caused by chlamydia | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -116436,7 +116436,7 @@
     },
     {
       "name": "pneumonia | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "AMPHOTERICIN B",
@@ -116801,7 +116801,7 @@
     },
     {
       "name": "postherpetic neuralgia | TxGNN Knowledge Graph",
-      "drug_count": 44,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PREGABALIN",
@@ -116879,7 +116879,7 @@
     },
     {
       "name": "postmenopausal atrophic vaginitis | TxGNN Knowledge Graph",
-      "drug_count": 20,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PROGESTERONE",
@@ -116951,7 +116951,7 @@
     },
     {
       "name": "postmenopausal osteoporosis | TxGNN Knowledge Graph",
-      "drug_count": 72,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CHOLECALCIFEROL",
@@ -117007,7 +117007,7 @@
     },
     {
       "name": "potassium deficiency disease | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "POTASSIUM CHLORIDE",
@@ -117190,7 +117190,7 @@
     },
     {
       "name": "premature ejaculation (disease) | TxGNN Knowledge Graph",
-      "drug_count": 37,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SILDENAFIL",
@@ -117449,7 +117449,7 @@
     },
     {
       "name": "primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 20,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYCLOPHOSPHAMIDE",
@@ -117516,7 +117516,7 @@
     },
     {
       "name": "primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DESOXIMETASONE",
@@ -117727,7 +117727,7 @@
     },
     {
       "name": "primary non-gestational choriocarcinoma of ovary | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -118327,7 +118327,7 @@
     },
     {
       "name": "psoriasis | TxGNN Knowledge Graph",
-      "drug_count": 20,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "METHOTREXATE",
@@ -118383,7 +118383,7 @@
     },
     {
       "name": "psoriatic arthritis | TxGNN Knowledge Graph",
-      "drug_count": 51,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ETANERCEPT",
@@ -118450,7 +118450,7 @@
     },
     {
       "name": "psychologic dyspareunia | TxGNN Knowledge Graph",
-      "drug_count": 38,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SILDENAFIL",
@@ -118506,7 +118506,7 @@
     },
     {
       "name": "psychotic disorder | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "HALOPERIDOL",
@@ -118617,7 +118617,7 @@
     },
     {
       "name": "pulmonary arterial hypertension | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SILDENAFIL",
@@ -118721,7 +118721,7 @@
     },
     {
       "name": "pulmonary emphysema | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "THEOPHYLLINE",
@@ -118839,7 +118839,7 @@
     },
     {
       "name": "pulmonary hypertension | TxGNN Knowledge Graph",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "NITRIC OXIDE",
@@ -118922,7 +118922,7 @@
     },
     {
       "name": "pulmonary tuberculosis | TxGNN Knowledge Graph",
-      "drug_count": 28,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYCLOSERINE",
@@ -119250,7 +119250,7 @@
     },
     {
       "name": "renal cell adenocarcinoma | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SIROLIMUS",
@@ -119306,7 +119306,7 @@
     },
     {
       "name": "renal cell carcinoma (disease) | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "SIROLIMUS",
@@ -119395,7 +119395,7 @@
     },
     {
       "name": "renal osteodystrophy | TxGNN Knowledge Graph",
-      "drug_count": 23,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CALCITRIOL",
@@ -119489,7 +119489,7 @@
     },
     {
       "name": "respiratory syncytial virus infectious disease | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "PALIVIZUMAB",
@@ -119545,7 +119545,7 @@
     },
     {
       "name": "respiratory tract infectious disease | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CEFIXIME",
@@ -119617,7 +119617,7 @@
     },
     {
       "name": "restless legs syndrome | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "GABAPENTIN",
@@ -119673,7 +119673,7 @@
     },
     {
       "name": "retinal artery occlusion | TxGNN Knowledge Graph",
-      "drug_count": 17,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "RANIBIZUMAB",
@@ -119963,7 +119963,7 @@
     },
     {
       "name": "rheumatoid arthritis | TxGNN Knowledge Graph",
-      "drug_count": 220,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ETANERCEPT",
@@ -120040,7 +120040,7 @@
     },
     {
       "name": "rhinitis | TxGNN Knowledge Graph",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "GLYCINE",
@@ -120096,7 +120096,7 @@
     },
     {
       "name": "rhinoscleroma | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MOXIFLOXACIN",
@@ -120220,7 +120220,7 @@
     },
     {
       "name": "rosacea | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -120403,7 +120403,7 @@
     },
     {
       "name": "scabies | TxGNN Knowledge Graph",
-      "drug_count": 23,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CROTAMITON",
@@ -120511,7 +120511,7 @@
     },
     {
       "name": "schizoaffective disorder | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "HALOPERIDOL",
@@ -120594,7 +120594,7 @@
     },
     {
       "name": "schizophrenia | TxGNN Knowledge Graph",
-      "drug_count": 57,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OLANZAPINE",
@@ -120650,7 +120650,7 @@
     },
     {
       "name": "schizophreniform disorder | TxGNN Knowledge Graph",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "HALOPERIDOL",
@@ -120792,7 +120792,7 @@
     },
     {
       "name": "scurvy | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ASCORBIC ACID",
@@ -120859,7 +120859,7 @@
     },
     {
       "name": "seborrheic dermatitis | TxGNN Knowledge Graph",
-      "drug_count": 45,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "DESOXIMETASONE",
@@ -120931,7 +120931,7 @@
     },
     {
       "name": "seborrheic keratosis | TxGNN Knowledge Graph",
-      "drug_count": 58,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROURACIL",
@@ -121274,7 +121274,7 @@
     },
     {
       "name": "shigellosis | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "AMPICILLIN",
@@ -121609,7 +121609,7 @@
     },
     {
       "name": "skin disease | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "BETAMETHASONE",
@@ -121687,7 +121687,7 @@
     },
     {
       "name": "sleep disorder, initiating and maintaining sleep | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MELATONIN",
@@ -121895,7 +121895,7 @@
     },
     {
       "name": "spondyloarthropathy | TxGNN Knowledge Graph",
-      "drug_count": 62,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ETANERCEPT",
@@ -121982,7 +121982,7 @@
     },
     {
       "name": "spondyloarthropathy, susceptibility to | TxGNN Knowledge Graph",
-      "drug_count": 48,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ETANERCEPT",
@@ -122241,7 +122241,7 @@
     },
     {
       "name": "staphylococcal infection | TxGNN Knowledge Graph",
-      "drug_count": 75,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -122297,7 +122297,7 @@
     },
     {
       "name": "staphylococcal pneumonia | TxGNN Knowledge Graph",
-      "drug_count": 27,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MOXIFLOXACIN",
@@ -122364,7 +122364,7 @@
     },
     {
       "name": "staphylococcus aureus infection | TxGNN Knowledge Graph",
-      "drug_count": 60,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -122478,7 +122478,7 @@
     },
     {
       "name": "status epilepticus | TxGNN Knowledge Graph",
-      "drug_count": 16,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LORAZEPAM",
@@ -122545,7 +122545,7 @@
     },
     {
       "name": "streptococcal infection | TxGNN Knowledge Graph",
-      "drug_count": 63,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -122633,7 +122633,7 @@
     },
     {
       "name": "streptococcal pneumonia | TxGNN Knowledge Graph",
-      "drug_count": 57,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ERYTHROMYCIN",
@@ -122689,7 +122689,7 @@
     },
     {
       "name": "stroke disorder | TxGNN Knowledge Graph",
-      "drug_count": 21,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALTEPLASE",
@@ -123680,7 +123680,7 @@
     },
     {
       "name": "theca steroid-producing cell malignant tumor of ovary, not further specified | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",
@@ -123736,7 +123736,7 @@
     },
     {
       "name": "therapy related acute myeloid leukemia and myelodysplastic syndrome | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -123916,7 +123916,7 @@
     },
     {
       "name": "thyrotoxicosis | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CARBIMAZOLE",
@@ -123993,7 +123993,7 @@
     },
     {
       "name": "tinea corporis | TxGNN Knowledge Graph",
-      "drug_count": 32,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CLOTRIMAZOLE",
@@ -124049,7 +124049,7 @@
     },
     {
       "name": "tinea infection | TxGNN Knowledge Graph",
-      "drug_count": 29,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CLOTRIMAZOLE",
@@ -124126,7 +124126,7 @@
     },
     {
       "name": "tinea pedis | TxGNN Knowledge Graph",
-      "drug_count": 25,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CLOTRIMAZOLE",
@@ -124182,7 +124182,7 @@
     },
     {
       "name": "tinea unguium | TxGNN Knowledge Graph",
-      "drug_count": 31,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "TERBINAFINE",
@@ -124238,7 +124238,7 @@
     },
     {
       "name": "tonsillitis | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CEFIXIME",
@@ -124794,7 +124794,7 @@
     },
     {
       "name": "type 1 diabetes mellitus | TxGNN Knowledge Graph",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "INSULIN LISPRO",
@@ -124850,7 +124850,7 @@
     },
     {
       "name": "type 2 diabetes mellitus | TxGNN Knowledge Graph",
-      "drug_count": 176,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "INSULIN LISPRO",
@@ -125026,7 +125026,7 @@
     },
     {
       "name": "ulcerative colitis (disease) | TxGNN Knowledge Graph",
-      "drug_count": 34,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ADALIMUMAB",
@@ -125082,7 +125082,7 @@
     },
     {
       "name": "ulcerative proctosigmoiditis | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MESALAZINE",
@@ -125164,7 +125164,7 @@
     },
     {
       "name": "unclassified acute myeloid leukemia | TxGNN Knowledge Graph",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "ALDESLEUKIN",
@@ -125317,7 +125317,7 @@
     },
     {
       "name": "unipolar depression | TxGNN Knowledge Graph",
-      "drug_count": 29,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "OLANZAPINE",
@@ -125548,7 +125548,7 @@
     },
     {
       "name": "urinary tract infection (disease) | TxGNN Knowledge Graph",
-      "drug_count": 24,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "AMPICILLIN",
@@ -125604,7 +125604,7 @@
     },
     {
       "name": "uterine corpus cancer | TxGNN Knowledge Graph",
-      "drug_count": 23,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "MEGESTROL ACETATE",
@@ -125671,7 +125671,7 @@
     },
     {
       "name": "uveitis | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -125769,7 +125769,7 @@
     },
     {
       "name": "vasomotor rhinitis | TxGNN Knowledge Graph",
-      "drug_count": 70,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "GLYCINE",
@@ -125877,7 +125877,7 @@
     },
     {
       "name": "vernal conjunctivitis | TxGNN Knowledge Graph",
-      "drug_count": 28,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUOROMETHOLONE",
@@ -126070,7 +126070,7 @@
     },
     {
       "name": "visual epilepsy | TxGNN Knowledge Graph",
-      "drug_count": 29,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "LORAZEPAM",
@@ -126137,7 +126137,7 @@
     },
     {
       "name": "vitamin B12 deficiency | TxGNN Knowledge Graph",
-      "drug_count": 19,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYANOCOBALAMIN",
@@ -126204,7 +126204,7 @@
     },
     {
       "name": "vitamin deficiency disorder | TxGNN Knowledge Graph",
-      "drug_count": 38,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYANOCOBALAMIN",
@@ -126323,7 +126323,7 @@
     },
     {
       "name": "vulvovaginal candidiasis | TxGNN Knowledge Graph",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "FLUCONAZOLE",
@@ -126494,7 +126494,7 @@
     },
     {
       "name": "xerophthalmia | TxGNN Knowledge Graph",
-      "drug_count": 34,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CYCLOSPORINE",
@@ -126591,7 +126591,7 @@
     },
     {
       "name": "yolk sac tumor | TxGNN Knowledge Graph",
-      "drug_count": 26,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "CISPLATIN",

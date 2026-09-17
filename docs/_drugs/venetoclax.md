@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Venetoclax
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 720
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Venetoclax
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ Venetoclax는 항종양약(BCL-2 표적 혈액암 치료제)으로 분류되어 
 - DrugBank API 조회를 통한 상세 MOA·독성 프로파일 확보 (DG002 해소)
 - 프리제르미널센터(IGHV 미변이형) CLL/SLL 아형에 특화된 전향적 임상시험 또는 하위군 분석 데이터 확보
 - 참고: 동일 약물의 "골수성 백혈병(AML)" 적응증(본 Evidence Pack 4순위)은 L1 수준 근거(Phase 2/3 RCT 다수, VIALE-A/C 계열)를 보유하고 있어 별도 후보로 우선순위 검토를 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

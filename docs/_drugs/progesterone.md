@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Progesterone
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 578
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Progesterone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -117,10 +117,10 @@ Phase 3 RCT(NCT01185782, n=300)를 포함한 L2 수준 근거와, "황체호르�
 - DrugBank 등에서 상세 작용기전(MOA) 확인 (DG002 해소)
 - 다수의 "관련성 평가 미완료(pending)" 임상시험·문헌에 대한 등급 분류 완료
 - 무월경 외 예측 적응증(섬유낭성 유방질환, 자궁내막증 등, 근거수준 L3~L5)은 현재 근거 부족으로 Hold 상태이며 별도 연구질문으로 관리 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Estriol
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 297
-evidence_level: L5
+evidence_level: L1
 indication_count: 1
 ---
 
 # Estriol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L1** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -110,10 +110,10 @@ Estradiol(E2)에 비해 자궁내막 증식 효과가 약한 Estriol의 특성�
 - **약물상호작용 데이터 확보**: 공식 데이터베이스(DrugBank, Drugs.com) 기반 DDI 분석
 - **FHA 특화 임상시험 설계 검토**: 현재 근거는 폐경 후 여성 대상이 중심이므로, FHA 환자군 대상 파일럿 연구 계획 필요
 - **Estriol vs Estetrol 구분**: 주요 임상시험(NCT04090957, NCT04209543)이 Estetrol(E4) 대상임을 명확히 하고, Estriol(E3) 직접 근거를 추가 수집
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

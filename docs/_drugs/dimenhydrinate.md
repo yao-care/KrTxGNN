@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Dimenhydrinate
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 263
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Dimenhydrinate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L4** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ DIMENHYDRINATE는 Diphenhydramine과 8-chlorotheophylline의 복합염입니다.
 - 작용 기전 상세 데이터 보완: DrugBank API 조회를 통한 MOA 확인 [DG002 해소]
 - 인체 대상 Diphenhydramine vs. DIMENHYDRINATE 두드러기 치료 효능 비교 문헌 추가 검색
 - 차순위 예측 적응증 **한랭 두드러기(Cold Urticaria, 예측 점수 99.23%)** 에 대한 동반 검토 — 현재 임상시험·문헌 모두 0건으로 근거 수준 L5, 별도 보류 유지
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

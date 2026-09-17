@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ambrisentan
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 51
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Ambrisentan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -41,11 +41,11 @@ Ambrisentan 是選擇性 ET-A 受體拮抗劑，全球批准用於肺動脈高�
 
 | 項目 | 內容 |
 |------|------|
-| 原有適應症 | 肺動脈高壓（PAH）— 全球批准，台灣未上市 |
+| 原有適應症 | 肺動脈高壓（PAH）— 全球批准，台灣Not marketed |
 | 預測新適應症 | 肺動靜脈畸形（Pulmonary Arteriovenous Malformation） |
 | TxGNN 預測分數 | 99.41% |
 | 根據水準 | L4 |
-| 台灣上市現況 | ✗ 未上市 |
+| 台灣上市現況 | ✗ Not marketed |
 | 許可證數量 | 0 件 |
 | 建議決策 | Hold |
 
@@ -77,7 +77,7 @@ PAVM 好發於遺傳性出血性毛細血管擴張症（HHT）患者，部分 HH
 
 ## 台灣上市資訊
 
-Ambrisentan 目前在台灣**無任何藥品許可證**，尚未上市。如需於台灣進行相關臨床研究，須另行申請試驗用藥（IND）核可。
+Ambrisentan 目前在台灣**無任何藥品許可證**，尚Not marketed。如需於台灣進行相關臨床研究，須另行申請試驗用藥（IND）核可。
 
 ---
 
@@ -140,10 +140,10 @@ HIV 病毒蛋白（gp120、Tat）直接刺激肺血管內皮細胞 ET-1 過度�
 
 **結締組織病相關 PAH（Rank 6）**
 自體免疫介導的血管內皮損傷顯著上調 ET-1，ET-A 拮抗機轉直接對應 CTD-PAH 核心病理。共有 3 項臨床試驗（含 2 項 COMPLETED），19 篇文獻（含 2 篇 Tier 1 Meta-analysis），AMBITION 試驗 CTD-PAH 亞群分析（[PMID 32161055](https://pubmed.ncbi.nlm.nih.gov/32161055/)、[PMID 28039187](https://pubmed.ncbi.nlm.nih.gov/28039187/)）提供重要佐證。根據水準 L2，建議 Research Question；欠缺大型 CTD-PAH 專屬 Phase 3 RCT 為主要根據缺口。
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

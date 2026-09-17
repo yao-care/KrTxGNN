@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bacampicillin Hydrochloride
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 117
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Bacampicillin Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -71,10 +71,10 @@ TxGNN 예측 적응증이 존재하지 않아 재창출 가능성을 평가할 �
 - **[필수]** DrugBank API를 통해 작용 기전(MOA) 및 원래 적응증 정보 수집
 - **[권장]** TFDA/MFDS 허가사항 PDF를 다운로드하여 경고 및 금기 항목 파싱
 - **[참고]** 시판이 없는 약물의 경우, PubMed 및 ClinicalTrials.gov에서 직접 문헌/시험 검색 후 수동 Evidence Pack 보완 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

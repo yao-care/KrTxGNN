@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Acetaminophen
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 18
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 ---
 
 # Acetaminophen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L2** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -104,10 +104,10 @@ TxGNN 모델은 **뇌간 조짐 편두통(Migraine with Brainstem Aura)**에 효
 - DrugBank API를 통한 상세 작용 기전(MOA) 데이터 보완
 - 뇌간 조짐 편두통 특이적 임상시험 데이터 (현재 전무)
 - 한국 시판 현황 및 허가 데이터 정확성 별도 검증 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

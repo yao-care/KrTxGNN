@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Mepolizumab
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 467
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Mepolizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L4** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ TxGNN 모델은 **면역성 파괴에 의한 혈소판감소증(Thrombocytopenia
 - 한국(또는 대만) 허가사항의 경고·금기·상호작용 정보 확보
 - 면역성 혈소판감소증 대상 전임상 또는 관찰 연구 데이터 추가 확인
 - 호산구 매개성 아형 외 일반 ITP 환자군에서의 기전적 타당성 추가 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

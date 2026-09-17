@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hydroxocobalamin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 378
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Hydroxocobalamin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -84,7 +84,7 @@ Hydroxocobalamin(DrugBank ID: DB00200)은 이번 Evidence Pack에 원 적응증 
 **사유:**
 - TxGNN 예측 점수는 높으나(99.23%), 이를 뒷받침하는 임상시험·문헌 근거가 전무하여 L5(모델 예측 단독) 수준에 그칩니다.
 - 원 적응증, 작용 기전(MOA), 허가사항(경고·금기) 정보가 모두 확보되지 않아 기전적 타당성 및 안전성을 판단할 수 없습니다.
-- 특히 "TFDA 仿單警語/禁忌" 데이터 갭(DG001)은 **Blocking** 등급으로 지정되어 있어, 현 상태로는 S1 안전성 초평 단계에 진입할 수 없습니다.
+- 특히 "MFDS package insert warnings/contraindications" 데이터 갭(DG001)은 **Blocking** 등급으로 지정되어 있어, 현 상태로는 S1 안전성 초평 단계에 진입할 수 없습니다.
 - 해당 약물은 한국(원 데이터 기준 지역) 내 시판 허가 이력이 없습니다(허가증 0건).
 
 **진행하려면 필요한 것:**
@@ -92,10 +92,10 @@ Hydroxocobalamin(DrugBank ID: DB00200)은 이번 Evidence Pack에 원 적응증 
 - 규제기관 공식 라벨/허가사항(경고, 금기, 상호작용) 확보 — S1 안전성 초평 진입을 위한 필수 선행 조건 (DG001)
 - ClinicalTrials.gov, ICTRP, PubMed에 대한 검색어 확장(동의어·MeSH 용어 포함) 재조회를 통한 근거 재탐색
 - "식도정맥류 출혈" vs "식도정맥류(출혈 없음)" 두 예측이 별개 기전에 의한 것인지, 동일 질환군 연관성의 중복 예측인지에 대한 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

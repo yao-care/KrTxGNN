@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Omidenepag Isopropyl
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 521
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Omidenepag Isopropyl
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ EP2 수용체 작용과 췌장 염증 경로 사이에는 알려진 직접적 �
 - DrugBank 등에서 상세 작용 기전(MOA) 확인 및 췌장염과의 기전적 연관성 검토
 - 최소 수준의 전임상 또는 문헌 근거 확보 (현재 L5 → L4 이상으로 상향 필요)
 - 국내(대만) 시판 여부 및 허가 상태 재확인
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

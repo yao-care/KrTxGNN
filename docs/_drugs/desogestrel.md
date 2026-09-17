@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Desogestrel
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 247
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Desogestrel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -156,10 +156,10 @@ Desogestrel은 제3세대 고나나계(gonane) 프로게스틴으로, 경구 피
 - 단독 제제(POP, 75μg) vs 복합제(EE 포함) 간 여드름 치료 효능 비교 연구 설계
 - VTE 위험 모니터링 계획 및 고위험군 스크리닝 기준 수립
 - "Lactation Disease" 적응증 재정의 필요: 수유기 피임 관리(safe contraception during lactation) vs. 수유 장애(lactation disorder) 여부 명확화 후 별도 평가 진행
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

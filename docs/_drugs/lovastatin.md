@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lovastatin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 451
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Lovastatin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -114,10 +114,10 @@ TFDA/식약처 수준의 경고문, 금기, 약물상호작용 데이터가 모�
 - LDLR 유전형(수용체-음성 vs 수용체-결손)별 반응 계층화 데이터 확보
 - 한국 내 허가/도입 가능성 검토 (현재 0건 허가 상태)
 - 현행 표준요법(PCSK9 억제제 등) 대비 lovastatin 병용의 임상적 부가가치 재평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

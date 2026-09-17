@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Paliperidone
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 531
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Paliperidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ TxGNN 모델은 1순위로 **망막이영양증(retinal dystrophy with or withou
 - 한국 허가사항의 경고문/금기사항 자료 확보 (Blocking, DG001) — 안전성 초기평가 선행 조건
 - 망막이영양증-항정신병 기전 간 실질적 연관성을 뒷받침할 전임상/기전 연구 필요 (현재 전무)
 - **대안 권고**: 본 Evidence Pack 내 10순위 후보인 치료저항성 조현병(L2, Proceed with Guardrails)에 대해 별도의 상세 평가 보고서 작성을 권장함 — 동일 약물 계열 확장 적응증으로 임상시험 근거가 실제로 존재함
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

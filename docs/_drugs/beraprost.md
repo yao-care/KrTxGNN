@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Beraprost
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 135
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Beraprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ TxGNN 모델은 **폐동정맥 기형(Pulmonary Arteriovenous Malformation, PAVM
 - 한국 MFDS 안전성 정보 확보 (경고, 금기, 약물 상호작용)
 - IP receptor 경로와 HHT/PAVM 병태생리의 연관성에 대한 기초 및 전임상 연구 검토
 - PAVM 동반 PAH 환자 대상 탐색적 증례 보고 또는 레지스트리 데이터 수집
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

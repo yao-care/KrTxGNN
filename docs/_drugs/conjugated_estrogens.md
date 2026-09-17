@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Conjugated Estrogens
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 221
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Conjugated Estrogens
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Conjugated estrogens(결합형 에스트로겐)는 폐경 후 증상 완화 및 
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
 | TxGNN 예측 점수 | 99.77% |
 | 근거 수준 | L3 |
-| 시판 현황 | ✗ 미시판 (未上市) |
+| 시판 현황 | ✗ 미시판 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -103,10 +103,10 @@ Conjugated estrogens는 ERα 및 ERβ 에스트로겐 수용체를 통해 작용
 - 무선조(aura-free) 월경성 편두통 환자만을 대상으로 한 연구 대상 선정 기준 명확화
 - 투여 경로 최적화 검토 (경피 패치 vs 경구; 안정적 혈중 농도 유지가 효능의 핵심)
 - Phase 2 무작위배정 임상시험 계획 수립
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thiopental
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 675
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Thiopental
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -111,10 +111,10 @@ Thiopental은 초단시간 작용 바르비투르산염으로, 전신마취 유�
 - 신경중환자의학·마취과 전문가 자문을 통한 바르비투르 혼수 프로토콜 검토
 - 가성뇌종양(특발성 두개내압 상승)에 특이적인 전임상·임상 근거 추가 수집
 - 저혈압·면역억제 등 barbiturate coma 고유 부작용에 대한 모니터링 계획 수립
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

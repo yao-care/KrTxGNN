@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Gemfibrozil
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 345
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Gemfibrozil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
 | TxGNN 예측 점수 | 99.90% |
 | 근거 수준 | L4 |
-| 대만 시판 현황 | 미상 (未上市) |
+| 대만 시판 현황 | 미상 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Research Question (추가 검증 필요) |
 
@@ -80,7 +80,7 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 
 ## 대만 시판 정보
 
-현재 대만에 시판 중인 허가 정보가 없습니다 (未上市, 허가증 0건).
+현재 대만에 시판 중인 허가 정보가 없습니다 (Not marketed, 허가증 0건).
 
 ---
 
@@ -103,10 +103,10 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 - TFDA 仿單 경고/금기사항 확보 (현재 Blocking 등급 Data Gap)
 - 작용기전(MOA) 상세 데이터 확보 (DrugBank API 조회)
 - 대만 시판 여부 및 허가 현황 재확인 (현재 미상 상태)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

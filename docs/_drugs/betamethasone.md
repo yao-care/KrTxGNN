@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Betamethasone
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 137
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Betamethasone은 강효 합성 글루코코르티코이드(부신피질호르몬
 | 예측 신규 적응증 | 斑禿 (Alopecia Areata) |
 | TxGNN 예측 점수 | 99.97% |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | 미시판 (未上市) |
+| 한국 시판 현황 | 미시판 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -119,10 +119,10 @@ Cochrane 네트워크 메타분석, 완료된 Phase 2 RCT(NCT06786689)를 포함
 
 ---
 > **면책 조항**: 본 보고서는 연구 참고용으로만 작성되었으며, 의료 조언을 구성하지 않습니다. 모든 약물 재창출 후보는 임상 검증 후 적용되어야 합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

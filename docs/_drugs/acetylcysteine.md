@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Acetylcysteine
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 20
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Acetylcysteine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -129,10 +129,10 @@ TA-TMA를 직접 대상으로 한 완료된 Phase 3 시험(NCT03252925, n=170)�
 - 소아 및 신기능 저하 환자군 안전성 모니터링 계획 수립
 
 > **참고**: 기관지염(순위 3)도 L1 근거 수준으로 임상시험 13건·문헌 18편이 확보되어 별도 심층 평가를 권장합니다. 건성안 증후군(순위 5, L2, Chitosan-NAC 제제 Lacrimera® 기반)도 독립적 개발 경로로 검토 가치가 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Avatrombopag Maleate
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Avatrombopag Maleate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -47,7 +47,7 @@ Avatrombopag Maleate에 대한 약물 재창출 평가를 시도하였으나, �
 | 예측 신규 적응증 | TxGNN 예측 결과 없음 |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | 미시판 (未上市) |
+| 한국 시판 현황 | 미시판 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 
@@ -70,10 +70,10 @@ TxGNN 예측 적응증이 없고, 약물 기본 정보(허가 적응증·작용 
 - **DG001 (Blocking)** 허가사항 수집: TFDA 관방 사이트에서 仿單 PDF 다운로드 및 파싱 → 허가 적응증·경고·금기사항 확보
 - **DG002 (High)** DrugBank ID 등록: DrugBank API 쿼리 결과(성공 1건)를 바탕으로 `drug.drugbank_id` 확보 및 MOA 입력
 - 위 두 항목 해소 후 TxGNN 모델 예측 재실행 및 Evidence Pack v5 재생성
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cyclophosphamide
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 226
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L1** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,11 +25,11 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
-# Cyclophosphamide：造血幹細胞移植預處理（台灣未上市）→ 骨髓性白血病 (Myeloid Leukemia)
+# Cyclophosphamide：造血幹細胞移植預處理（台灣Not marketed）→ 骨髓性白血病 (Myeloid Leukemia)
 
 ## 一段摘要
 
@@ -41,11 +41,11 @@ Cyclophosphamide 是一種 DNA 烷化劑，全球廣泛應用於血液腫瘤化�
 
 | 項目 | 內容 |
 |------|------|
-| 既有適應症 | 無（台灣未上市；全球用於淋巴瘤、乳癌、自體免疫疾病及 HSCT 預處理） |
+| 既有適應症 | 無（台灣Not marketed；全球用於淋巴瘤、乳癌、自體免疫疾病及 HSCT 預處理） |
 | 預測新適應症 | 骨髓性白血病（Myeloid Leukemia） |
 | TxGNN 預測分數 | 99.47% |
 | 根據等級 | L1 |
-| 台灣上市現況 | ✗ 未上市 |
+| 台灣上市現況 | ✗ Not marketed |
 | 許可證數 | 0 件 |
 | 建議決策 | Proceed with Guardrails |
 
@@ -122,14 +122,14 @@ Cyclophosphamide 是一種前驅藥（prodrug），經肝臟 CYP450 酶系統活
 
 **如需推進，需要：**
 - 取得 TFDA 仿單警語及禁忌症完整資料（目前為 **Blocking Data Gap DG001**，阻斷 S1 安全性初評）
-- 補充完整的作用機轉（MOA）數據（目前為 **High 優先 Data Gap DG002**，影響機轉關聯性分析）
+- 補充完整的作用機轉（MOA）數據（目前為 **High 優先 Data Gap DG002**，Limits mechanistic-link analysis）
 - 評估台灣 AML 臨床治療現況及現有替代方案（FluBu 等）之比較分析
 - 建立特定高風險族群（老年患者、腎功能不全、既有心臟疾病）的安全性監測計畫
 - 若擬申請台灣上市許可，須制定完整的 TFDA 法規策略，包括橋接試驗數據評估及藥品技術文件準備
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

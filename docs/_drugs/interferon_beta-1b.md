@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Interferon Beta-1B
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 400
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Interferon Beta-1B
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L4** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -85,10 +85,10 @@ TxGNN 모델은 **모발세포백혈병(Hairy Cell Leukemia)**에 효과가 있�
 - 안전성 경고·금기·약물상호작용 정보(허가사항 원문) 확보
 - 재조합 beta-1b(현행 제제) 기준의 최신 HCL 임상 데이터 — 기존 문헌은 제제가 다르고 연대가 오래됨
 - Cladribine/Pentostatin 등 현행 표준요법 대비 임상적 이점에 대한 근거
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

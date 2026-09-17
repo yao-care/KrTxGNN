@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Salbutamol
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 626
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Salbutamol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -185,10 +185,10 @@ TxGNN이 가장 높은 점수(99.9964%)로 예측한 유두성 결막염은 임�
 - 과민반응 직접 RCT(NCT05653024) 조기 종료 원인 및 중간 데이터 확인
 - 아토피성 결막염 적응증: 국소 β₂ 작용제 안약(0.1% Salbutamol 점안제) 신규 개발 타당성 탐색
 - 한국 MFDS 허가 경로 사전 검토 (현재 한국 미허가 약물)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lactic Acid
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 420
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Lactic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ Evidence Pack에 기재된 재창출 근거(rationale)에 따르면, 비정형 �
 - DrugBank 기반 작용기전(MOA) 데이터 확보
 - lactic acid의 실제 승인 적응증(원 용도) 확인 — 현재 원본 데이터 자체가 누락되어 있어 재창출 타당성 평가의 기준점이 없음
 - 상기 데이터 미보완 시, 본 후보는 현 단계에서 추가 진행 보류 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

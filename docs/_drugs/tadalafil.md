@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tadalafil
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 655
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Tadalafil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -110,10 +110,10 @@ Repurposing rationale에도 명시되어 있듯이, PDE5 억제와 선천성 전
 - DrugBank API를 통한 MOA 및 기존 적응증 데이터 보완
 - rank 1~7 예측에 대한 최소한의 전임상/기전 문헌 확인, 확인되지 않으면 후보 목록에서 제외 검토
 - rank 8(편두통 조짐)은 치료 후보가 아닌 **약물감시(pharmacovigilance) 이슈**로 별도 관리
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

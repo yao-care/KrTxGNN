@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bromperidol
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 154
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Bromperidol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -100,10 +100,10 @@ Bromperidol의 불면증 예측은 TxGNN 모델의 지식 그래프 내 간접 �
 - 불면증에서의 D2 길항제 관련 전임상/기전 연구 문헌 검색
 - H1 수용체 결합 친화력 데이터로 진정 효과 가능성 정량화
 - 동계열 약물(Haloperidol 등) 대비 차별성 근거 마련 시 재평가 고려
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

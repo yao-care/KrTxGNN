@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Theophylline
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 673
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Theophylline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -43,7 +43,7 @@ Theophylline은 잔틴계 기관지확장제로 전통적으로 천식·COPD 등
 | 예측 신규 적응증 | 혈전성 질환 (Thrombotic Disease) |
 | TxGNN 예측 점수 | 99.62% (rank 7046) |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 미상시 (未上市) |
+| 한국 시판 현황 | 미상시 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -108,10 +108,10 @@ TxGNN 점수는 높지만 임상시험 근거가 전무하고, 인용 문헌 대
 | 6 | Pharyngitis | L4 | Hold | 간접적, macrolide 병용 문헌 위주 |
 
 rank 5(obstructive lung disease)는 evidence가 가장 풍부하지만 original_indications 필드가 비어 있어 "신규 예측"인지 "기존 적응증 재확인"인지 구분이 안 됩니다. 원 적응증 데이터(Data Gap)를 먼저 보완하는 것이 candidate 전체의 재평가에 필요합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

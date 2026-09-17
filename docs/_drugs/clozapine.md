@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clozapine
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 219
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Clozapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -139,10 +139,10 @@ Clozapine은 기존 항정신병약에 반응하지 않는 치료저항성 조�
 **우선 검토 권장 순서:** 정신병적 장애(순위 9, L1) → 양극성 장애(순위 5, L1) → 양극성 조증 장애(순위 1, L2) → 정신분열증형 장애(순위 4, L3) → 주요 정동 장애(순위 6, L3)
 
 > **참고**: 정신병적 장애(순위 9)는 Clozapine의 전 세계 핵심 승인 적응증으로, L1 수준의 가장 강력한 근거를 보유합니다. 한국 시장 도입 시 정신병적 장애(치료저항성 조현병)를 첫 번째 허가 목표 적응증으로 설정하고, 이후 양극성 장애로의 적응증 확장을 순차적으로 검토하는 전략이 효율적입니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

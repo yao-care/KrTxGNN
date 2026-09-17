@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Belimumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 129
 evidence_level: L5
 indication_count: 6
@@ -10,12 +10,12 @@ indication_count: 6
 # Belimumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -97,10 +97,10 @@ TxGNN 모델은 **원발성 혈소판 유리 장애(Primary Release Disorder of 
 - MFDS/TFDA 허가 사항 원문 수집 — 경고·금기 포함 (심각도 Blocking)
 - BLyS/BAFF 축이 혈소판 과립 분비에 미치는 영향에 대한 기초과학 문헌 탐색
 - 기전 연관성이 상대적으로 높은 **FNAIT(4순위, 의사결정 단계 S1: Research Question)** 적응증에 대한 별도 심층 평가 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

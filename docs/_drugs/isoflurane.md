@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Isoflurane
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 407
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Isoflurane
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -107,10 +107,10 @@ Isoflurane은 국제적으로 널리 쓰이는 흡입 전신마취제입니다. 
 | 7 | 편두통(Migraine Disorder) | 99.06% | L4 | 문헌 13편, 피질확산성탈분극(CSD) 억제 기전 근거 다수, 중증 편두통 중첩상태 증례 보고 존재 |
 
 나머지 3개 후보(투렛 증후군, 발모광, 기분저하장애, 신성 항이뇨 부적절 증후군)는 근거 수준 L5(모델 예측만 존재)로 Hold 상태입니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

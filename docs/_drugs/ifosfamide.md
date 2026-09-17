@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ifosfamide
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 385
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Ifosfamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -117,10 +117,10 @@ TxGNN 모델은 **유방암(Female Breast Carcinoma)**에도 효과가 있을 �
 - 한국 내 허가·시판 현황 확인 (현재 미상영)
 
 **참고:** 동일 Evidence Pack 내 예측 순위 7위인 **횡문근육종(rhabdomyosarcoma)**은 다수의 Phase 3 RCT를 포함한 L1 근거 수준으로 이미 표준 화학요법 골격으로 자리잡고 있어(Proceed with Guardrails), 유방암보다 우선순위가 높은 재창출 시그널로 별도 검토할 가치가 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Decitabine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 240
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 ---
 
 # Decitabine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L3** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -116,10 +116,10 @@ TxGNN 예측 점수(99.03%)와 후성유전학적 기전 연관성은 강력하�
 - 상세 작용 기전(MOA) 데이터 확보 (DrugBank API 재조회, 문헌 검색)
 - 소아 약동학/약력학(PK/PD) 데이터 검토 (성인 용량 체계와의 차이 확인)
 - 기존 면역억제 요법 대비 Decitabine 교량 치료의 유효성·안전성 비교 근거 마련
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

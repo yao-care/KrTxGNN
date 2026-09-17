@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tranexamic Acid
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 692
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Tranexamic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -85,10 +85,10 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 것으로 예측�
 - DrugBank 등에서 공식 작용기전(MOA) 데이터 확보
 - TxGNN 질병 노드 매핑 재검증 (amenorrhea vs. menorrhagia/abnormal uterine bleeding 혼동 여부 확인)
 - 위 재검증 후에도 방향성이 유지될 경우에만 후속 근거 수집 진행
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

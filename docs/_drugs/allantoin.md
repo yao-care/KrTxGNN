@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Allantoin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 40
 evidence_level: L5
 indication_count: 8
@@ -10,12 +10,12 @@ indication_count: 8
 # Allantoin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -118,10 +118,10 @@ TxGNN의 높은 예측 점수(99.56%)는 지식 그래프 내 **염증·조직 �
 - **즉시**: 대만 TFDA 仿單 PDF 파싱을 통한 안전성 경고·금기사항 확보 (DG001 해소, Blocking 항목)
 - **차순위**: Exanthem(Rank 8) 심층 평가 — 3건의 기존 임상시험 기반 외용 피부 염증 적응증으로 재평가 권장
 - **차순위**: Acne Keloid(Rank 4) 전임상 타당성 검토 — 섬유아세포 증식 및 켈로이드 형성 억제 기전 연구 설계 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

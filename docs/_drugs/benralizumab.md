@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Benralizumab
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 131
-evidence_level: L5
+evidence_level: L2
 indication_count: 5
 ---
 
 # Benralizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L2** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -128,10 +128,10 @@ Benralizumab은 IL-5Rα(인터류킨-5 수용체 알파)에 결합하는 인간�
 - NCT06734884(DRESS 대상 Phase 2) 진행 상황 모니터링 — 2025년 시작 예정, 1차 결과 시 즉시 재평가
 - DRESS 아형 환자에서 호산구 감소 대리 지표와 임상 결과 간 상관관계 데이터 수집
 - 한국 환자 집단 내 기생충 감염 위험도를 고려한 환자 선별 기준 및 안전성 모니터링 계획 수립
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

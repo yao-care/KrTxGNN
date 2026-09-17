@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Romiplostim
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 613
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Romiplostim
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN 모델은 **혈소판 1차 방출 장애(Primary Release Disorder of Plate
 | 예측 신규 적응증 | 혈소판 1차 방출 장애 (Primary Release Disorder of Platelets) |
 | TxGNN 예측 점수 | 99.9998% |
 | 근거 수준 | L4 (Rank 1 기준) / L1 (Rank 8 기준 — 최고 근거 적응증) |
-| 한국 시판 현황 | ✗ 미허가 (未上市) |
+| 한국 시판 현황 | ✗ 미허가 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Proceed with Guardrails (Rank 8) / Research Question (Rank 1, 4, 9) |
 
@@ -182,10 +182,10 @@ Romiplostim은 ITP를 포함하는 광의의 혈소판형 출혈 장애에 대�
 - Rank 1 (혈소판 방출 장애) 및 Rank 4 (FNAIT) 대상 전향적 임상 연구 설계 검토
 - Rank 8 적응증에 대한 한국 내 현재 off-label 사용 현황 및 보험급여 상황 조사
 - 장기 투여 안전성 모니터링 계획 수립 (CBC 및 골수 검사 주기 프로토콜)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

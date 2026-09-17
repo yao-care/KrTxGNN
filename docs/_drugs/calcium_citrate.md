@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calcium Citrate
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 165
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Calcium Citrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -92,10 +92,10 @@ Evidence Pack에 포함된 기전 분석에 따르면, 혈색소병증(지중해
 - 허가사항(경고/금기) 확보 — 현재 Blocking 등급 Data Gap(DG001)으로 S1 안전성 초평조차 불가능한 상태
 - 혈색소병증 관련 실제 임상시험 또는 문헌 근거 축적 여부 재모니터링
 - 한국 내 시판/허가 현황 확인 (현재 미출시, 허가증 0건)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

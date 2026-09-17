@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cycloserine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 7
@@ -10,12 +10,12 @@ indication_count: 7
 # Cycloserine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -83,10 +83,10 @@ TxGNN 모델은 **과민성대장증후군(Irritable Bowel Syndrome)**에 효과
 - DrugBank API를 통한 정확한 작용기전(MOA) 데이터 확보 — High
 - 과민성대장증후군에 대한 전임상 또는 기전 연구 근거 축적
 - 참고: 같은 근거팩 내 불면증(L3, NCT03395392 등 3건)과 결막염(L4, 문헌 3편)은 상대적으로 근거가 더 있으나, 불면증의 경우 Cycloserine이 오히려 불면증을 부작용으로 유발한다는 문헌(PMID 36712725)이 있어 예측 방향과 상충되므로 별도 정밀 검토가 필요합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

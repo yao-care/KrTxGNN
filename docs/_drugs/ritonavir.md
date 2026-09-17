@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ritonavir
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 607
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Ritonavir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -109,10 +109,10 @@ Ritonavir는 현재 한국에 허가된 제품이 없습니다(미시판, 허가
 - 2순위 예측(고양이 면역결핍증후군)은 유일하게 연결된 임상시험(NCT02770508)이 실제로는 사람 HIV 감염자 대상 4상 시험으로 확인되어 질병 매핑 오류로 판단되며 재검토 불필요
 - 3순위 예측(신경발달장애 표현형)은 근거 문헌·임상시험이 전무(L5)하여 추가 조사 우선순위 낮음
 - 이 candidate 배치(TW-DB00503-multi)는 상위 3개 예측 중 유효한 사람 대상 재창출 가설이 사실상 없어, 전체 재평가 권고
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

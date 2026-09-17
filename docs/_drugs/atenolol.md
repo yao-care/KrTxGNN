@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Atenolol
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 92
-evidence_level: L5
+evidence_level: L3
 indication_count: 9
 ---
 
 # Atenolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+근거 수준: **L3** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -145,10 +145,10 @@ Beta-1 차단제는 심근경색 후 표준 이차 예방 치료제로 이미 �
 - 현지 시판 허가 현황 재검토 (Atenolol은 글로벌 기준 허가 약물; 현지 데이터 부재 가능성 확인 필요)
 - 후하벽 MI 특이 임상시험 직접 검색 (ClinicalTrials.gov에서 "posteroinferior" + "beta-blocker" 확장 쿼리)
 - **만성 폐성심(9순위) 별도 심층 평가 강력 권장**: 임상시험 1건·문헌 15편으로 9개 적응증 중 근거 수준 최고; TxGNN 순위는 낮으나 실제 임상 활용 가능성이 더 높음
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

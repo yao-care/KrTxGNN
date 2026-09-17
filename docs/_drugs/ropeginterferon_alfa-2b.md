@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ropeginterferon Alfa-2B
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 615
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Ropeginterferon Alfa-2B
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -106,10 +106,10 @@ Laubry-Pezzi 증후군은 선천성 심장 구조 기형으로, ropeginterferon 
 - DrugBank API를 통한 상세 MOA 데이터 확보
 - 증거 수집 시스템의 문헌 귀속 오류 수정 (Rank 6 fucoglycosan 항목)
 - 재창출 후보 재탐색 시 PV 관련 적응증(본태성 혈소판증가증, 골수섬유증, 진성 적혈구 증가증 합병증 등) 중심으로 별도 Evidence Pack 구성 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

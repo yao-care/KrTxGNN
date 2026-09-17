@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Diphenhydramine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Diphenhydramine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -94,10 +94,10 @@ Diphenhydramine은 H1 수용체를 차단하는 제1세대 항히스타민제입
 - 항히스타민제 계열의 주사성 결막염 관련 문헌 검토 (2세대 항히스타민제 비교 포함)
 - TFDA/MFDS 허가사항 및 경고·금기 원문 확보
 - MOA 상세 데이터 보강 (DrugBank API 조회)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

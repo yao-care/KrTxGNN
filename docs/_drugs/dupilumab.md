@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Dupilumab
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 275
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Dupilumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ IL-4와 IL-13은 Th2(2형) 면역 반응의 핵심 매개체로서, 기도 내 �
 - 한국 MFDS 허가 현황 및 급여 기준 재확인 (한국 MFDS 데이터베이스 직접 조회 필요)
 - 호산구성 기관지염 / 소성 기관지염 표현형 선별 기준 개발 (혈중 호산구 수 ≥300/μL, FeNO ≥25 ppb, 혈청 IgE 상승 등 Type 2 바이오마커 활용)
 - 기관지염을 직접 대상으로 하는 탐색적 Phase 2 임상시험 설계
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

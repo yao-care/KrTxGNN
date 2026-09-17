@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metoclopramide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 476
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Metoclopramide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -106,10 +106,10 @@ Evidence Pack에 포함된 재창출 근거(rationale)도 같은 결론을 뒷�
 - 위궤양(궤양 치유율 등) 효능을 직접 평가한 전향적 임상 근거 확보
 - 한국 내 시판/허가 현황 재확인 (현재 미출시, 0건)
 - (참고) TxGNN 예측 목록에는 gastroduodenitis, peptic ulcer disease, gastrojejunal ulcer, peptic ulcer perforation 등 4건의 추가 후보가 있으나 모두 임상시험 근거 없이 Hold 등급이며, 마지막 후보는 오히려 상대적 금기 가능성이 제기됨
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

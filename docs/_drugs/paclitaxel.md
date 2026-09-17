@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Paclitaxel
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 529
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -118,10 +118,10 @@ Paclitaxel은 taxane 계열의 대표적 세포독성 화학요법제로, 다음
 - DrugBank API를 통한 공식 MOA·독성 데이터 확보 (DG002, High)
 - 한국 내 실제 허가·시판 여부 재확인 (현재 데이터상 미출시로 표시되었으나 실제 제네릭 유통 여부 교차 검증 필요)
 - 진정한 신규 재창출 신호를 찾기 위해서는 본 Evidence Pack의 다른 예측 적응증(rank 9~10 등 완전 미지 적응증, 현재 L5/Hold)에 대한 추가 전임상 검증이 더 유의미할 수 있음
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

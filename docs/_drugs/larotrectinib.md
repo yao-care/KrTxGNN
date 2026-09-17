@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Larotrectinib
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 427
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Larotrectinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -98,10 +98,10 @@ Larotrectinib은 기존 적응증(고형암) 기준상 항종양약으로 분류
 - 한국(TFDA 상당 기관) 허가사항 경고·금기 정보 확보 — S1 진입 필수 조건
 - PR 음성 유방암 환자군에서의 NTRK 융합 발생률 및 하위군 반응 데이터 확인
 - 비인간 질환·오매칭 문헌으로 의심되는 상위 예측 항목의 지식그래프 결과 재검증
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

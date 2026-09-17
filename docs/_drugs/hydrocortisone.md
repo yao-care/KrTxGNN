@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 374
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -109,10 +109,10 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 것으�
 - 약물상호작용(DDI) 데이터베이스 재조회 (현재 not_found, 0건)
 - 대만 내 시판·허가 현황 확인 (현재 미상영, 허가증 0건)
 - 순위 2~10위 예측 적응증(alopecia mucinosa, telogen effluvium 등)은 대부분 근거 수준 L5로 현재 Hold 권고 상태이며 추가 임상·문헌 근거 확보 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

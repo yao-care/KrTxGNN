@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ropivacaine Hydrochloride
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 617
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Ropivacaine Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -85,10 +85,10 @@ TxGNN 예측 결과가 없고, DrugBank ID·MOA·안전성 데이터가 모두 �
 - **[우선순위 3]** DrugBank ID 확보 후 TxGNN 파이프라인 재실행 → 예측 적응증 생성
 - **[우선순위 4]** 허가 데이터베이스 재조회 → 시판 현황 및 허가 적응증 확인
 - Evidence Pack 재생성 후 본 보고서 재작성
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Carboplatin
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 176
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Carboplatin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -108,10 +108,10 @@ Carboplatin의 상세한 작용기전(MOA) 원본 자료는 이번 Evidence Pack
 - 관계 당국(TFDA 등) 공식 허가사항 및 경고·금기 정보 확보
 - DrugBank 등에서 정확한 작용기전(MOA) 및 독성 프로파일 확인
 - 유방암 아형(TNBC vs HR+/HER2+)별 반응 차이를 반영한 임상 프로토콜 설계
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

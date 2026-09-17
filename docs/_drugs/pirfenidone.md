@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pirfenidone
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Pirfenidone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -82,10 +82,10 @@ DrugBank 상 상세 작용 기전(MOA) 데이터는 확보되지 않았습니다
 - 피부외 비만세포종에 대한 전임상/임상 근거 축적
 
 **참고:** 동일 Evidence Pack 내 다른 예측 적응증 중 **fibroblastic neoplasm**(9순위, TxGNN 99.19%)은 Dupuytren 구축·Desmoid 종양 관련 소규모 임상 선행연구 및 체외 기전 연구(L3, S1, Research Question)를 갖추고 있어, 근거 수준 측면에서 본 후보(피부외 비만세포종)보다 우선 검토할 가치가 있습니다. 다만 해당 후보 역시 미분화 다형성 육종 발생 및 피부섬유종 악화 사례 보고가 존재해 상반된 안전성 신호를 함께 검토해야 합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

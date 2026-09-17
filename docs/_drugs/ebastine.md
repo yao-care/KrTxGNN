@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ebastine
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 2
@@ -10,12 +10,12 @@ indication_count: 2
 # Ebastine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -96,10 +96,10 @@ TxGNN 모델은 **관상동맥 질환(Coronary Artery Disease)**에 효과가 �
 - CYP2J2-EET 경로에서 Ebastine이 억제제인지 단순 기질인지 명확화하는 전임상 실험
 - 관상동맥 질환 또는 심근 허혈 동물 모델에서의 효능 검증
 - 경고, 금기, 약물 상호작용을 포함한 안전성 정보 보충 (MFDS/EMA/FDA 허가사항 참조)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

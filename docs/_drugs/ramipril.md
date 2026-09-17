@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ramipril
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 589
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Ramipril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -48,7 +48,7 @@ TxGNN 모델은 **뇌졸중(Stroke Disorder)**에도 효과가 있을 수 있다
 | 예측 신규 적응증 | 뇌졸중 (Stroke Disorder) |
 | TxGNN 예측 점수 | 99.85% |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | 미상영 (未上市) |
+| 한국 시판 현황 | 미상영 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -104,10 +104,10 @@ HOPE, ONTARGET 등 대규모(N>3만) 완료된 Phase 3/4 RCT가 뇌졸중 위험
 - DrugBank 등에서 상세 MOA 데이터 확보
 - 한국 내 시판/허가 현황 재확인 (현재 미상영으로 등록됨)
 - 뇌졸중 적응증 확장을 위한 별도 임상 프로토콜(1차 vs 2차 예방 대상군 구분) 설계
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

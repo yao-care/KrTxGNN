@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nitrogen
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 508
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Nitrogen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -80,10 +80,10 @@ Nitrogen(질소, DrugBank ID: DB09152)은 기존 적응증과 작용기전(MOA) 
 - 식약처(또는 원 출처) 허가사항/경고·금기 정보 확보 — 현재 Blocking 등급 데이터 갭으로, 이 항목이 해결되기 전에는 안전성 초기 평가를 진행할 수 없습니다.
 - DrugBank API를 통한 작용기전(MOA) 정보 재조회 — 기전 관련성 분석의 최소 전제조건입니다.
 - 위 두 데이터 갭이 해소되지 않는 한, 그리고 16q24.1 미세결실 증후군에 대한 실제 전임상·임상 근거가 새로 확보되지 않는 한 이 후보는 추가 조사 없이 보류(Hold) 상태를 유지하는 것을 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

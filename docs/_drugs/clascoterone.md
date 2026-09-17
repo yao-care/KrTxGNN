@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Clascoterone
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 208
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Clascoterone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -47,7 +47,7 @@ Clascoterone（DB12499）是一種外用雄激素受體（AR）拮抗劑，於�
 | 預測新適應症 | 念珠菌病（Candidiasis） |
 | TxGNN 預測分數 | 94.82% |
 | 根據水準 | L5 |
-| 韓國上市現況 | ✗ 未上市 |
+| 韓國上市現況 | ✗ Not marketed |
 | 許可證數 | 0 件 |
 | 建議決策 | Hold |
 
@@ -101,10 +101,10 @@ Clascoterone 目前在韓國未取得任何藥品上市許可，無許可證記�
 - 補充韓國/TFDA 許可說明書安全性警語及禁忌事項（目前為 Blocking 資料缺口）
 - 重新評估機轉合理性最高的替代適應症，優先考慮 **Rank 9 腎上腺功能亢進（Adrenal Gland Hyperfunction）**（cortexolone 結構-機轉直接連結），並針對該適應症補充文獻與臨床試驗查詢
 - 若考慮皮膚科延伸適應症，**Rank 6 萎縮性蟲蝕性皮膚病（Atrophoderma Vermiculata）**為毛囊角化症變體，具相對較高的局部皮膚科機轉合理性，可列為次優先評估項目
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

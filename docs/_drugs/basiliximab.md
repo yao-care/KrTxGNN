@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Basiliximab
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 124
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Basiliximab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -108,10 +108,10 @@ Basiliximab은 활성화 T 세포 표면에 발현되는 IL-2 수용체의 α �
 - 다발성 골수종 ASCT 또는 allo-HSCT 환경에서 충분한 규모의 무작위 대조 임상시험 설계
 - Treg 고갈 전략이 GvM 효과 및 장기 무사건 생존율에 미치는 영향 측정을 위한 바이오마커 연구
 - 스테로이드 불응성 GvHD 치료에서의 골수종 특이적 치료 결과 데이터 수집
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

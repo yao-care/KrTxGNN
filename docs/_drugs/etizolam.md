@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Etizolam
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 302
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Etizolam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Etizolam 是一種 Thienodiazepine 類藥物，在日本、印度已核准用於
 | 預測新適應症 | 失眠症（Insomnia） |
 | TxGNN 預測分數 | 99.94% |
 | 根據等級 | L4 |
-| 台灣上市狀況 | ✗ 未上市 |
+| 台灣上市狀況 | ✗ Not marketed |
 | 許可證數量 | 0 件 |
 | 建議決策 | Hold |
 
@@ -57,7 +57,7 @@ Etizolam 屬於 Thienodiazepine 類藥物（苯二氮平衍生物），其作用
 
 就直接藥效學證據而言，動物實驗（PMID: 18789918）已明確證實 Etizolam 可顯著縮短入睡潛伏期、增加非快速眼動（non-REM）睡眠時間，並在連續給藥 7 天後停藥時觀察到反彈性失眠現象，顯示其 GABAergic 催眠機轉確實存在且具生理意義。
 
-值得特別注意的是，Etizolam 在日本及印度早已獲得核准，適應症即涵蓋焦慮症與失眠症，TxGNN 的預測與其既有藥理應用高度一致。台灣資料庫中顯示為「未上市」且無正式適應症記錄，係資料庫收錄範圍所致，而非藥物本身缺乏此方向的藥理基礎。
+值得特別注意的是，Etizolam 在日本及印度早已獲得核准，適應症即涵蓋焦慮症與失眠症，TxGNN 的預測與其既有藥理應用高度一致。台灣資料庫中顯示為「Not marketed」且無正式適應症記錄，係資料庫收錄範圍所致，而非藥物本身缺乏此方向的藥理基礎。
 
 ---
 
@@ -80,7 +80,7 @@ Etizolam 屬於 Thienodiazepine 類藥物（苯二氮平衍生物），其作用
 
 ## 台灣上市資訊
 
-Etizolam 目前在台灣**無任何藥品許可證**，屬完全未上市藥物，無可供參考的本地核准適應症。
+Etizolam 目前在台灣**無任何藥品許可證**，屬完全Not marketed藥物，無可供參考的本地核准適應症。
 
 ---
 
@@ -99,14 +99,14 @@ Etizolam 目前在台灣**無任何藥品許可證**，屬完全未上市藥物�
 
 **若要推進，需補充：**
 - 蒐集 Etizolam 用於失眠症的人體臨床試驗資料（優先尋找日本、印度已有的 RCT）
-- 確認台灣法規路徑：Etizolam 是否涉及管制藥品分級（苯二氮平類），以及從未上市到申請許可的完整程序
+- 確認台灣法規路徑：Etizolam 是否涉及管制藥品分級（苯二氮平類），以及從Not marketed到申請許可的完整程序
 - 取得日本 PMDA 或印度藥監局正式仿單，解析警語、禁忌及藥物交互作用資訊（對應 DG001）
-- 補充完整 MOA 資料，查詢 DrugBank API 以確認受體結合特異性與選擇性（對應 DG002）
+- 補充完整 MOA 資料，Query the DrugBank API 以確認受體結合特異性與選擇性（對應 DG002）
 - 評估 Etizolam 相較於已在台上市的 Z-drug（zolpidem）或苯二氮平藥物的差異化價值
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

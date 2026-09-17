@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lanreotide
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 424
 evidence_level: L5
 indication_count: 5
@@ -10,12 +10,12 @@ indication_count: 5
 # Lanreotide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 5
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -81,10 +81,10 @@ TFDA 허가사항(경고·금기) 데이터가 아직 확보되지 않아(Blocki
 - DrugBank 등에서 Lanreotide의 작용 기전(MOA) 확인 (DG002)
 - 다모증 예측이 실제 생물학적 신호인지, 모델의 질환 군집 편향인지 구분하기 위한 추가 검증 (예: 다른 소마토스타틴 유사체의 동일 질환군 예측 여부 비교)
 - 원 적응증 정보 확보 후 재평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

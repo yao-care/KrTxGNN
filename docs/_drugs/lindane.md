@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lindane
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 442
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Lindane
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Lindane(DB00431)은 유기염소계 살충제/옴 치료제로 알려져 있으�
 | 예측 신규 적응증 | 경부 신경모세포종 (Cervical Neuroblastoma) |
 | TxGNN 예측 점수 | 99.91% |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 미판매 (未上市) |
+| 한국 시판 현황 | 미판매 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -95,10 +95,10 @@ Lindane(DB00431)은 유기염소계 살충제/옴 치료제로 알려져 있으�
 - DrugBank/TFDA 원문을 통한 실제 MOA 및 종양생물학 연관 기전 가설 확보
 - 전임상(in vitro/in vivo) 수준의 항종양 활성 근거
 - 나머지 9개 예측 후보(설·구강·인두·후두·내이 종양 등)도 동일하게 L5·무근거·기전 불일치 패턴을 보이므로, 별도 근거가 축적되지 않는 한 전체 후보군에 대해 Hold를 유지하고 우선순위에서 제외 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

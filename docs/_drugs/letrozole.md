@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Letrozole
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 436
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Letrozole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -114,10 +114,10 @@ Letrozole은 방향화효소(aromatase)를 억제하여 안드로스텐디온/�
 - TFDA/MFDS 등 규제기관 공식 허가사항(경고·금기·DDI) 확보 — 현재 Blocking 등급 데이터 공백(DG001)으로 안전성 초기평가(S1) 진행 불가
 - DrugBank 등 공식 소스를 통한 MOA 데이터 보완(DG002) — 현재는 임상시험 근거로부터 유추한 기전 설명에 의존
 - 국내 시장 진입을 위한 정식 허가 신청 경로 및 일정 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

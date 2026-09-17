@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Glutathione
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 359
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Glutathione
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -105,10 +105,10 @@ TxGNN 모델은 **경화성 담관염(Sclerosing Cholangitis)**에 효과가 있
 - 경구·정맥 투여 시 간 분포 및 생체이용률 데이터 검토
 - 한국 식품의약품안전처(MFDS) 허가 가능성 및 규제 경로 검토
 - 안전성 프로파일 확보 (TFDA 또는 MFDS 허가사항 PDF 파싱을 통한 경고·금기 정보 수집)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

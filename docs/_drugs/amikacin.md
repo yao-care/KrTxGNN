@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amikacin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 53
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Amikacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -48,7 +48,7 @@ TxGNN 모델은 **부장티푸스열(Paratyphoid Fever)**에 효과가 있을 �
 | 예측 신규 적응증 | 부장티푸스열 (Paratyphoid Fever) |
 | TxGNN 예측 점수 | 99.82% |
 | 근거 수준 | L4 (기전 연구 + 관찰 데이터) |
-| 시판 현황 | 미등록 (未上市) |
+| 시판 현황 | 미등록 (Not marketed) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 
@@ -106,10 +106,10 @@ Amikacin은 *Salmonella paratyphi*에 대한 기전적 항균 활성이 성립�
 - MDR *Salmonella paratyphi* 감염에서 Amikacin 임상 유효성을 평가하는 전향적 코호트 연구 또는 파일럿 RCT 설계
 - 신독성(nephrotoxicity) 및 이독성(ototoxicity) 모니터링 프로토콜을 포함한 안전성 계획 수립
 - 기존 1선 치료제(fluoroquinolone, 3세대 세팔로스포린) 실패 후 구제 요법으로서의 포지셔닝 전략 수립
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

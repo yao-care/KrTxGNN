@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Levetiracetam
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 437
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ Levetiracetam(LEV)의 상세 작용기전 데이터는 현재 확보되지 않�
 - DrugBank 등 작용기전(MOA) 상세 데이터 확보 — High 등급 데이터 갭(DG002) 해소 필요
 - 국내 미상시판 상태이므로 신규 적응증 추진 시 별도 허가 경로 검토 필요
 - 시각 유발성 뇌전증 아형에 특이적인 대조군 임상시험 추가 확보(현재 근거는 대부분 일반 뇌전증/발작 관련)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

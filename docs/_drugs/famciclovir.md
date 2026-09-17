@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Famciclovir
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 313
-evidence_level: L5
+evidence_level: L4
 indication_count: 9
 ---
 
 # Famciclovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+근거 수준: **L4** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -91,10 +91,10 @@ VZV 복제 억제가 대상포진후신경통 발생률·병정을 낮출 수 �
 - TFDA/식약처 허가사항 기반 안전성 자료(경고, 금기, DDI) 확보
 
 **참고:** 같은 Evidence Pack 내 다른 예측 적응증인 "chickenpox"(실질 내용은 대상포진 관련)의 경우, FAMCICLOVIR 500mg을 직접 시험한 완료된 Phase 3 RCT([NCT01327144](https://clinicaltrials.gov/study/NCT01327144))가 존재해 근거 수준 L2, "Proceed with Guardrails"로 평가되어 있습니다. 대상포진 계열 적응증 전반을 검토할 경우 해당 후보도 함께 참고할 가치가 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

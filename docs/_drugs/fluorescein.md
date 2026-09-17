@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fluorescein
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Fluorescein
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -96,10 +96,10 @@ Fluorescein은 안과 영역에서 형광안저혈관조영, 각막·누액 염�
 - TFDA(또는 해당 규제기관) 공식 첨부문서상 경고/금기사항 확인
 - Prinzmetal 협심증 관련 최소 전임상 또는 기전 연구를 통한 가설 재검증
 - 다른 후보 예측(rank 2~10)도 모두 근거 수준 L4~L5이며 기전 연관성이 부재하므로, 우선순위 재조정 시 함께 재검토 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Galcanezumab
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 342
 evidence_level: L5
 indication_count: 3
@@ -10,12 +10,12 @@ indication_count: 3
 # Galcanezumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -99,10 +99,10 @@ GALCANEZUMAB(DrugBank DB14042)은 항 CGRP 단일클론항체로, 삼차신경�
 - 상세 작용기전(MOA) 데이터 확보 (DG002, High)
 - Heparin Cofactor II 결핍증에 대한 전임상 또는 기전 연구
 - 위 데이터 확보 전까지 추가 조치 보류 권장
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

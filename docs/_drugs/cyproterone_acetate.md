@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cyproterone Acetate
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 229
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Cyproterone Acetate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -88,10 +88,10 @@ Cyproterone Acetate(DrugBank ID: DB04839)는 국내 허가 정보와 기존 적�
 - 편두통에 대한 CPA의 실제 대조 임상시험 또는 전임상 기전 연구 확보
 
 **참고:** 동일 Evidence Pack 내 8순위 예측(무월경/월경불순, amenorrhea)은 근거 수준 **L2**(Phase IV 임상시험 및 다수 코호트 문헌, EE+CPA 복합제의 기존 임상적 사용 이력 포함)로 편두통보다 훨씬 강한 근거를 보유하고 있어, 재창출 우선순위 재검토 시 함께 고려할 가치가 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

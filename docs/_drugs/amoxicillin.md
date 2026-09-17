@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Amoxicillin
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 66
-evidence_level: L5
+evidence_level: L3
 indication_count: 8
 ---
 
 # Amoxicillin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+근거 수준: **L3** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -107,10 +107,10 @@ IPSID(지중해 림프종, Immunoproliferative Small Intestinal Disease)는 *Hel
 - 한국 내 IPSID 환자 접근 가능성 및 유병률 파악 (극희귀 질환이므로 다기관 등록 연구 필요)
 - Amoxicillin 작용 기전(MOA) 및 약동학 데이터 보완 (현재 미확보)
 - 한국 MFDS 허가 현황 재확인 및 시판 경로 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

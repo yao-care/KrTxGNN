@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Granisetron
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 366
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Granisetron
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -93,10 +93,10 @@ TxGNN이 제시한 기전적 연결고리는 다음과 같습니다: ondansetron
 - DrugBank 등에서 정확한 작용 기전(MOA) 데이터 확보
 - 조증/양극성 장애와 관련된 전임상 또는 사례 보고 수준의 문헌 탐색 (현재 PubMed 검색 결과 0건)
 - Granisetron 고유의 중추신경계 작용 관련 약리 데이터 확인 (현재 근거는 타 5-HT3 길항제로부터의 유추에 불과)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Human C1-Esterase Inhibitor
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 372
 evidence_level: L5
 indication_count: 4
@@ -10,12 +10,12 @@ indication_count: 4
 # Human C1-Esterase Inhibitor
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -84,10 +84,10 @@ Evidence Pack에 기록된 예측 근거(rationale)에 따르면, 이 예측은 
 - severe NPDR에 특화된 전임상 또는 초기 임상 근거 확보 (현재 0건)
 - 관련 상위 범주인 당뇨병성 망막병증(PMID 26989329)에 대한 심층 검토를 통해 보체 매개 기전 가설의 타당성 보강
 - 원 적응증 정보 확보 후 기존 적응증-신규 적응증 간 연관성 재평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

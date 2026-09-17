@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prasugrel
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 570
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Prasugrel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -98,10 +98,10 @@ TxGNN 예측 점수는 높으나, 제공된 임상시험 및 문헌 근거가 pr
 ---
 
 **참고:** 동일 Evidence Pack 내 **편두통(migraine disorder, rank 2)** 예측은 근거 수준 L4·S1(Research Question)로, thienopyridine 계열 약물(clopidogrel/prasugrel)이 卵円孔 미閉(PFO) 동반 편두통 환자에서 증상을 완화했다는 파일럿 연구 및 후향적 리뷰가 존재해 폐고혈압 예측보다 상대적으로 근거가 견고합니다. 별도 평가를 권장합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

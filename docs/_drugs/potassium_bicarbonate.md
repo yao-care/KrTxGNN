@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Potassium Bicarbonate
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 565
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Potassium Bicarbonate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -91,10 +91,10 @@ TxGNN 예측 점수는 높으나 이를 뒷받침하는 임상시험, 문헌, �
 - 허가사항 경고·금기 정보 확보 (TFDA 등 관련 규제기관 조회)
 - 위십이지장염 관련 전임상/기전 연구 존재 여부 확인
 - 최소 관찰 연구 또는 체계적 문헌고찰 수준의 근거 확보 전까지 재평가 보류
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

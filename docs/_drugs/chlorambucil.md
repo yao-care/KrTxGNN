@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Chlorambucil
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 194
-evidence_level: L5
+evidence_level: L3
 indication_count: 8
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+근거 수준: **L3** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 8
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -95,10 +95,10 @@ Chlorambucil은 현재 한국에서 시판되지 않고 있으며(미시판), �
 - DrugBank 등을 통한 상세 작용 기전(MOA) 데이터 확보 (DG002 해소)
 - 전생식중추형 CLL/SLL 분자 아형에 특이적인 전임상/임상 데이터 추가 검색
 - 급성 림프모구성 백혈병 후보의 임상시험 3건에 대한 질병 라벨 정합성 재확인
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

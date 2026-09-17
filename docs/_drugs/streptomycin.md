@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Streptomycin
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 647
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Streptomycin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -109,10 +109,10 @@ TxGNN 예측 점수는 높으나(99.87%), 지지 근거가 모두 1940~1970년�
 - DrugBank 등을 통한 상세 작용 기전(MOA) 데이터 확보 (DG002)
 - 결막염 적응증에 대한 현대적 임상시험(가능하면 국소 점안 제형) 근거 확인
 - 아미노글리코사이드계 이독성·신독성 대비 국소 투여 시 전신 흡수 및 안전역 평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

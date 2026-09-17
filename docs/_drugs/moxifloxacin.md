@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Moxifloxacin
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 490
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Moxifloxacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -89,10 +89,10 @@ TxGNN 모델은 **다클론성 과점도 증후군(Polyclonal Hyperviscosity Syn
 - DrugBank API 조회를 통한 작용기전(MOA) 데이터 확보 (High 등급 데이터 갭)
 - 다클론성 과점도 증후군에 대한 최소한의 전임상/기전 연구 확보 — 현재는 전무
 - **참고**: 동일 예측 목록 내 10순위 **선페스트(bubonic plague)** 항목은 L3 근거 수준(전임상 동물모델·PK/PD 연구 6편, "Research Question" 단계)과 명확한 기전적 타당성(fluoroquinolone의 DNA gyrase 억제 → *Yersinia pestis* 살균, 동일 계열 약물의 기허가 사례)을 갖추고 있어, 별도 평가 대상으로 우선 검토할 가치가 있습니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

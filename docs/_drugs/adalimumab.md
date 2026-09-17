@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Adalimumab
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 23
-evidence_level: L5
+evidence_level: L4
 indication_count: 6
 ---
 
 # Adalimumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+근거 수준: **L4** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 6
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -113,10 +113,10 @@ Adalimumab의 TNF-α 중화 기전은 RV의 혈관벽 염증 억제에 이론적
 - 류마티스 혈관염 대상 전향적 파일럿 코호트 연구 또는 국내 레지스트리 기반 후향적 분석 계획 수립
 - 희귀 질환 특성상 국제 다기관 연구 협력 또는 희귀 질환 특례 연구 설계 검토
 - TNFi 유발 역설적 혈관염(paradoxical vasculitis) 감시 체계 및 중단 기준 사전 정의
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

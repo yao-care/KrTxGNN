@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Arginine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 82
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Arginine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -114,10 +114,10 @@ L-아르기닌 → NOS → NO → nitrergic 신경 경로를 통한 위마비 �
 - 안전성 정보 확보 (허가사항 검토, TFDA 仿單 PDF 파싱)
 - 최적 투여 경로 및 치료 용량 결정을 위한 추가 전임상 연구
 - 기존 위장관 운동 촉진제(metoclopramide, domperidone)와의 병용 가능성 검토
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

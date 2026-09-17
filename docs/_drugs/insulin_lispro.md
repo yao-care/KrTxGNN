@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Insulin Lispro
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 9
@@ -10,12 +10,12 @@ indication_count: 9
 # Insulin Lispro
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 9
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -87,10 +87,10 @@ Evidence Pack에 포함된 자체 기전 분석에 따르면, 자가면역성 �
 
 **참고 — 동일 평가군 내 다른 후보:**
 이번 Evidence Pack에는 자가면역성 난소염 외 8개 예측 적응증이 함께 포함되어 있습니다. 그중 **췌장무형성증(pancreatic agenesis, rank 7)**은 L3 근거 수준(문헌 2편)과 S2 단계로 가장 진전된 상태이며, 선천성 인슐린 완전결핍(PNDM)에 대한 인슐린 대체요법이라는 명확한 기전적 근거가 있어 "Proceed with Guardrails"로 평가됩니다. 반면 지방위축증 계열 3건(rank 6·8·9)은 **인슐린이 유발하는 부작용 신호일 가능성**(인과관계 역전)으로 표시되어 있어, 치료 후보가 아닌 안전성 주의 항목으로 별도 관리가 필요합니다.
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

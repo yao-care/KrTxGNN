@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Propylene Glycol
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 582
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Propylene Glycol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -107,10 +107,10 @@ TxGNN 모델은 **기관지염(Bronchitis)**에 효과가 있을 수 있다고 �
 - DrugBank 등 공식 출처의 작용 기전(MOA) 데이터 확보 (DG002)
 - PG를 활성 성분으로 직접 평가한 전임상/임상 근거 확보 (현재 근거는 모두 부형제 역할 문헌)
 - PG 흡입 노출과 만성 기관지염 간 상반된 신호(유발 가능성)에 대한 별도 위해성 평가
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alfentanil Hydrochloride
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 36
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Alfentanil Hydrochloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -66,10 +66,10 @@ TxGNN 예측 적응증이 전혀 생성되지 않았고, 한국 허가 이력이
 - **허가사항 PDF 확보**: TFDA 또는 국내 허가 기관 공식 사이트에서 첨부문서(仿單) 다운로드 후 경고·금기 파싱 (`DG001`)
 - **TxGNN 예측 재실행**: DrugBank ID 확보 후 KG 및 DL 예측 파이프라인 재실행하여 후보 적응증 도출
 - **시판 현황 재확인**: 식품의약품안전처(MFDS) 의약품통합정보시스템에서 alfentanil 관련 수입 허가 여부 재조회
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

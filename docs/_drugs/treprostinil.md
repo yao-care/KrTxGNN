@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Treprostinil
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 699
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Treprostinil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -174,10 +174,10 @@ Treprostinil은 합성 prostacyclin(PGI2) 유사체로 IP 수용체에 작용하
 - 국내 신약 허가(또는 희귀의약품 지정) 절차 검토
 - 선천성 심장병 동반 PAH, 결합조직질환 동반 PAH에 특화된 전향적 임상 데이터(현재는 소규모·조기종료 시험 또는 하위분석에 의존)
 - HIV 감염 동반 PAH는 HIV 하위군 특이적 데이터 부재로 Research Question 단계 유지, 추가 문헌/레지스트리 조사 필요
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

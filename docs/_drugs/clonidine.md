@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Clonidine
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 217
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Clonidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -128,10 +128,10 @@ Clonidine 서방형은 미국 FDA에서 이미 ADHD(6~17세) 치료제로 승인
 - 한국 허가사항 및 경고·금기 문구 확인 (MFDS 또는 FDA 허가 문서 검토, DG001 해소)
 - ADHD 주의력결핍형만을 대상으로 한 하위그룹 분석 또는 독립 임상시험 설계 검토
 - 심혈관 안전성 모니터링 계획 수립 (혈압 저하, 서맥 등 α2 작용제 계열 주요 이상반응 관리)
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

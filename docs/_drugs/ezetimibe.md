@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Ezetimibe
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 312
-evidence_level: L5
+evidence_level: L1
 indication_count: 4
 ---
 
 # Ezetimibe
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+근거 수준: **L1** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 4
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -103,10 +103,10 @@ DrugBank 기반 공식 MOA 필드는 현재 등록되어 있지 않습니다. �
 - DrugBank API를 통한 공식 MOA 데이터 확보 (DG002)
 - 한국 내 실제 허가·시판 현황 재확인 (현재 데이터상 미상장으로 표기됨)
 - 예측이 기존 승인 용도와 중복되는지 여부를 원 적응증 자료 확보 후 재검증
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

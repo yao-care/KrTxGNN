@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Tolvaptan
-parent: 僅模型預測 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 686
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -104,10 +104,10 @@ Tolvaptan(DB06212)은 원 적응증 정보가 확보되지 않은 상태이나, 
 - 한국 내 허가/시판 계획 수립 (현재 미출시, 허가증 0건)
 
 *참고: 예측 순위 2~10위 후보(신장-간-췌장 이형성증, 카리오메갈릭 간질성신염, 흉곽기형 등)는 근거 수준 L4~L5로 문헌·임상 근거가 매우 부족하거나 관련성이 낮아(예: 9위는 치주질환 문헌과의 키워드 오매칭) 모두 Hold로 평가되었습니다.*
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

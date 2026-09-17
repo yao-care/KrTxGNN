@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amlodipine Maleate
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # Amlodipine Maleate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+근거 수준: **L5** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -73,10 +73,10 @@ TxGNN 예측 결과(`predicted_indications`)가 비어 있어 재창출 후보 �
 - DrugBank API를 통한 DrugBank ID 및 작용 기전(MOA) 조회 (`query_log` ID 2는 `success`이나 `drugbank_id`가 여전히 `null` — 매핑 결과 검토 필요)
 - MFDS 또는 TFDA 허가 데이터에서 적응증 및 안전성 정보(경고·금기) 수집
 - Evidence Pack 재생성 후 v5 보고서 재발행
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

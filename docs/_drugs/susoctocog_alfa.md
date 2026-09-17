@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Susoctocog Alfa
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 654
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Susoctocog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -112,10 +112,10 @@ TxGNN 모델은 **후천성 응고인자 결핍(Acquired Coagulation Factor Defi
 - 상세 작용기전(MOA) 데이터 보강 — DrugBank API 조회 필요 (DG002)
 - "후천성 응고인자 결핍" 단독 명칭의 전향적 임상 데이터 확보 (현재는 AHA 명칭 하 연구에 의존)
 - 희귀질환 의약품 특성상 콜드체인·투약 프로토콜 확인
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

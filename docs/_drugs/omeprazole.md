@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Omeprazole
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 520
-evidence_level: L5
+evidence_level: L3
 indication_count: 2
 ---
 
 # Omeprazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+근거 수준: **L3** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 2
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -105,10 +105,10 @@ Omeprazole(DrugBank ID: DB00338)은 이번 Evidence Pack에 기존 승인 적응
 - 십이지장위 역류에 대한 omeprazole의 직접적 치료 효과를 검증하는 전향적/대조 임상시험
 - 한국(해당 시장) 허가 및 유통 현황 확인
 - 위산 억제와 발암 촉진 가능성에 대한 상반된 전임상 신호의 추가 검증
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

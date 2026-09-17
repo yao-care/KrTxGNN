@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Rifampicin
-parent: 僅模型預測 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 601
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Rifampicin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -102,10 +102,10 @@ DrugBank의 정식 작용기전(MOA) 데이터는 아직 수집되지 않았지�
 - DrugBank 등 공식 자료를 통한 상세 작용기전(MOA) 확보
 - 현대적 진단 기준에 따른 세균성/클라미디아성 결막염 대상 전향적 임상시험 설계
 - 국소(점안) 제형 개발 가능성 및 안전성 자료 확보
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

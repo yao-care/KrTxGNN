@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sulprostone
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Sulprostone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -93,10 +93,10 @@ TxGNN 모델은 **긴장성 백내장(Tetanic Cataract)**을 포함해 백내장
 - 안과 조직에서의 PGE2/EP 수용체 발현 및 백내장·망막병증 관련 전임상 연구 확인
 - 식약처(또는 원개발국 규제기관) 허가사항·경고·금기사항 확보 (현재 Blocking 데이터 갭)
 - 백내장/당뇨병성 망막병증 관련 실제 임상 또는 동물 실험 근거 확보 전까지 추가 개발 보류
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 

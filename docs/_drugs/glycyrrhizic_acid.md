@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Glycyrrhizic Acid
-parent: 僅模型預測 (L5)
+parent: 모델 예측만 (L5)
 nav_order: 364
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Glycyrrhizic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 목차
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 약사 평가 보고서
 
 </div>
 
@@ -45,7 +45,7 @@ Glycyrrhizic acid（甘草酸）是從甘草根提取的天然三萜配糖體，
 | 予測新適應症 | 類風濕性關節炎（Rheumatoid Arthritis）|
 | TxGNN 予測分數 | 97.82%（10 項預測中根據最完整者）|
 | 根據水準 | L3（觀察研究 ＋ 系統性臨床前文獻）|
-| 台灣市販現況 | ✗ 未上市 |
+| 台灣市販現況 | ✗ Not marketed |
 | 許可証數 | 0 件 |
 | 権奨決定 | Research Question |
 
@@ -173,10 +173,10 @@ Glycyrrhizic acid 為甘草（*Glycyrrhiza glabra* / *G. uralensis*）的主要�
 - 假性醛固酮增多症風險的安全劑量範圍確認，建立用藥監測計畫
 - 設計 Phase 1 臨床試驗，確認人體安全劑量及 PK/PD 參數
 - 對獸醫疾病（Rank 4、5）及負向效應適應症（Rank 2 Amenorrhea）正式排除，聚焦資源
-## Disclaimer
+## 면책 조항
 
-This content is for research purposes only and does not constitute medical advice.
-Clinical validation is required before any clinical application.
+본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
+임상 적용 전에 임상적 검증이 필요합니다.
 
 ---
 
