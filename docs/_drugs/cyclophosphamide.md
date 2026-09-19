@@ -29,103 +29,104 @@ indication_count: 5
 
 </div>
 
-# Cyclophosphamide：造血幹細胞移植預處理（台灣Not marketed）→ 骨髓性白血病 (Myeloid Leukemia)
+# Cyclophosphamide：조혈모세포이식 전처리（대만 미승인）→ 골수성 백혈병 (Myeloid Leukemia)
 
-## 一段摘要
+## 한 문단 요약
 
-Cyclophosphamide 是一種 DNA 烷化劑，全球廣泛應用於血液腫瘤化療及造血幹細胞移植（HSCT）預處理，但目前在台灣尚無上市許可。TxGNN 模型預測其對**骨髓性白血病（Myeloid Leukemia）**具有治療潛力，預測分數高達 **99.47%**；目前已有超過 **10 項臨床試驗**（含多項已完成 Phase 2/3 試驗）及 **20 篇文獻**（含系統性網絡統合分析）支持此預測方向。
+Cyclophosphamide는 DNA 알킬화제로서 전 세계적으로 혈액종양 화학요법 및 조혈모세포이식(HSCT) 전처리에 광범위하게 사용되고 있으나, 현재 대만에는 상시 허가가 없습니다. TxGNN 모델은 이 약물이 **골수성 백혈병(Myeloid Leukemia)**에 대한 치료 잠재력을 갖고 있음을 예측하며, 예측 점수는 **99.47%**에 달합니다. 현재 이 예측 방향을 지지하는 **10개 이상의 임상시험**(여러 완료된 Phase 2/3 시험 포함) 및 **20개의 문헌**(체계적 네트워크 메타분석 포함)이 있습니다.
 
 ---
 
-## 快速總覽
+## 빠른 개요
 
-| 項目 | 內容 |
+| 항목 | 내용 |
 |------|------|
-| 既有適應症 | 無（台灣Not marketed；全球用於淋巴瘤、乳癌、自體免疫疾病及 HSCT 預處理） |
-| 預測新適應症 | 骨髓性白血病（Myeloid Leukemia） |
-| TxGNN 預測分數 | 99.47% |
-| 根據等級 | L1 |
-| 台灣上市現況 | ✗ Not marketed |
-| 許可證數 | 0 件 |
-| 建議決策 | Proceed with Guardrails |
+| 기존 적응증 | 없음(대만 미승인; 전 세계: 림프종, 유방암, 자가면역질환, HSCT 전처리) |
+| 예측 신규 적응증 | 골수성 백혈병(Myeloid Leukemia) |
+| TxGNN 예측 점수 | 99.47% |
+| 근거 등급 | L1 |
+| 대만 상시 현황 | ✗ 미승인 |
+| 허가 건수 | 0건 |
+| 권장 의사결정 | Proceed with Guardrails |
 
 ---
 
-## 為什麼這個預測合理？
+## 이 예측이 합리적인 이유는?
 
-Cyclophosphamide 是一種前驅藥（prodrug），經肝臟 CYP450 酶系統活化後，其活性代謝物磷醯胺氮芥（phosphoramide mustard）可與 DNA 雙鏈形成共價交叉鏈結，干擾 DNA 複製與轉錄，對快速增殖的惡性細胞具強效殺傷作用。目前台灣雖無上市許可，但 Cyclophosphamide 在全球急性骨髓性白血病（AML）治療中已扮演不可或缺的角色。
+Cyclophosphamide는 전약물(prodrug)로서 간의 CYP450 효소계에 의해 활성화된 후, 그 활성 대사물인 phosphoramide mustard가 DNA 쌍나선과 공유 가교결합(cross-linking)을 형성하여 DNA 복제 및 전사를 방해하며, 빠르게 증식하는 악성세포에 강력한 살상작용을 발휘합니다. 현재 대만에는 상시 허가가 없지만, Cyclophosphamide는 전 세계 급성 골수성 백혈병(AML) 치료에서 불가결한 역할을 하고 있습니다.
 
-在 AML 治療架構中，Cyclophosphamide 主要發揮兩種核心功能：第一，作為**骨髓清除性預處理方案（Myeloablative Conditioning, MAC）**的核心成分——BuCy（Busulfan + Cyclophosphamide）是異體造血幹細胞移植前的標準預處理方案，藉由徹底清除患者自身造血系統，確保供者幹細胞有效植入；第二，作為**移植後環磷醯胺（Post-Transplant Cyclophosphamide, PTCy）**，利用其選擇性耗竭同種反應性 T 細胞的獨特免疫機制，成為目前最受矚目的 GVHD 預防策略，此機轉已在多項大規模隨機對照試驗中獲得充分驗證。
+AML 치료 체계에서 Cyclophosphamide는 두 가지 핵심 기능을 수행합니다. 첫째, **골수제거성 전처리 방안(Myeloablative Conditioning, MAC)**의 핵심 성분으로서 — BuCy(Busulfan + Cyclophosphamide)는 동종 조혈모세포이식 전의 표준 전처리 방안이며, 환자 자신의 조혈계를 완전히 제거하여 공여자 모세포의 효과적인 이식을 보장합니다. 둘째, **이식후 환인산 화학요법(Post-Transplant Cyclophosphamide, PTCy)**로서 그 동종 반응성 T세포의 선택적 소진이라는 독특한 면역 메커니즘을 활용하여 현재 가장 주목받는 GVHD 예방 전략이 되었으며, 이 메커니즘은 다수의 대규모 무작위대조시험에서 충분히 검증되었습니다.
 
-骨髓性白血病的病理生理特徵——DNA 修復通路高度活化、快速分裂的原始細胞群——與 Cyclophosphamide 的 DNA 烷化機轉高度契合。多項已完成的 Phase 2/3 試驗（最大達 431 人之隨機 Phase 3 試驗 NCT03959241）及 2023 年系統性網絡統合分析（PMID 36357773）均確認 Cyclophosphamide 在此適應症中的療效，使 TxGNN 預測具備充分且高等級的臨床支持。
+골수성 백혈병의 병리생리적 특징 — DNA 수선 경로의 고도 활성화 및 빠르게 분열하는 원시세포군 — 은 Cyclophosphamide의 DNA 알킬화 메커니즘과 높은 계약도를 갖습니다. 여러 완료된 Phase 2/3 시험(최대 431명의 무작위 Phase 3 시험 NCT03959241) 및 2023년 체계적 네트워크 메타분석(PMID 36357773)은 이 적응증에서 Cyclophosphamide의 유효성을 확인하여, TxGNN 예측이 충분하고 높은 등급의 임상 지지를 갖도록 합니다.
 
 ---
 
-## 臨床試驗根據
+## 임상시험 근거
 
-| 試驗編號 | 期別 | 狀態 | 受試者數 | 主要發現 |
+| 시험 번호 | 단계 | 상태 | 피험자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT02744742](https://clinicaltrials.gov/study/NCT02744742) | Phase 2/3 | 完成 | 202 | 前瞻性隨機對照試驗，直接比較 G-CSF+Decitabine+BuCy 與標準 BuCy 預處理方案於 AML/MDS 繼發 AML 異體幹細胞移植的安全性與療效，為本報告最高等級直接證據 |
-| [NCT03959241](https://clinicaltrials.gov/study/NCT03959241) | Phase 3 | 完成 | 431 | 多中心隨機 Phase 3 試驗（BMT CTN 1703），比較 Tac/MTX 與 PTCy/Tac/MMF 作為 RIC allo-PBSCT 之 GVHD 預防策略，Cyclophosphamide 為主要評估藥物 |
-| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Phase 2 | 完成 | 213 | Cyclophosphamide/Fludarabine/TBI 骨髓清除性預處理用於非相關臍帶血移植治療血液惡性疾病，213 人完成提供大型安全性數據 |
-| [NCT00134017](https://clinicaltrials.gov/study/NCT00134017) | Phase 2 | 完成 | 142 | 評估 HLA 相合相關與非相關捐贈者骨髓移植中 BuCy 預處理加移植後高劑量 Cyclophosphamide 作為 GVHD 預防的療效 |
-| [NCT07249346](https://clinicaltrials.gov/study/NCT07249346) | Phase 2 | 招募中 | 124 | 多中心試驗直接評估低劑量移植後 Cyclophosphamide（25 mg/kg，第 +3 & +4 天）/Tacrolimus/Ruxolitinib 於 MAC allo-PBSCT 之 GVHD 預防效益 |
-| [NCT00241358](https://clinicaltrials.gov/study/NCT00241358) | Phase 1/2 | 完成 | 92 | 評估含 Cyclophosphamide 預處理之 AMD3100 動員幹細胞移植方案於血液惡性腫瘤的安全性與療效 |
-| [NCT00809276](https://clinicaltrials.gov/study/NCT00809276) | Phase 1/2 | 完成 | 92 | 研究 Fludarabine/IV Busulfan 預處理後移植後高劑量 Cyclophosphamide 免疫抑制，評估預防骨髓移植後 GVHD 的效益 |
-| [NCT00723099](https://clinicaltrials.gov/study/NCT00723099) | Phase 2 | 完成 | 73 | 含 Cyclophosphamide 之減量強度預處理非相關臍帶血移植，支持 Cy 在 AML 異體移植脈絡下的應用 |
-| [NCT06532084](https://clinicaltrials.gov/study/NCT06532084) | Phase 2 | 招募中 | 88 | 單中心隨機試驗，在含 PTCy 之 allo-HSCT 後比較 Sorafenib 維持治療對高危骨髓惡性腫瘤療效，提供現代 AML 移植實踐數據 |
-| [NCT00691015](https://clinicaltrials.gov/study/NCT00691015) | Phase 2 | 完成 | 48 | 評估 Sirolimus/Tacrolimus/Thymoglobulin 於非相關捐贈者 HCT（含 Cyclophosphamide 預處理）之 GVHD 預防方案，提供比較性背景數據 |
+| [NCT02744742](https://clinicaltrials.gov/study/NCT02744742) | Phase 2/3 | 완료 | 202 | 전향적 무작위대조시험으로 G-CSF+Decitabine+BuCy와 표준 BuCy 전처리 방안을 AML/MDS 속발 AML 동종모세포이식의 안전성 및 유효성으로 비교하며, 본 보고서의 최고 등급 직접 근거입니다. |
+| [NCT03959241](https://clinicaltrials.gov/study/NCT03959241) | Phase 3 | 완료 | 431 | 다기관 무작위 Phase 3 시험(BMT CTN 1703)으로 Tac/MTX와 PTCy/Tac/MMF를 RIC allo-PBSCT의 GVHD 예방 전략으로 비교하며, Cyclophosphamide가 주요 평가 약물입니다. |
+| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Phase 2 | 완료 | 213 | Cyclophosphamide/Fludarabine/TBI 골수제거성 전처리를 혈액악성종양 치료의 비혈연 제대혈 이식에 사용하여 213명의 대규모 안전성 데이터를 제공합니다. |
+| [NCT00134017](https://clinicaltrials.gov/study/NCT00134017) | Phase 2 | 완료 | 142 | HLA 상합 혈연 및 혈연 골수이식에서 BuCy 전처리에 추가된 이식후 고용량 Cyclophosphamide를 GVHD 예방으로 사용하는 유효성을 평가합니다. |
+| [NCT07249346](https://clinicaltrials.gov/study/NCT07249346) | Phase 2 | 모집 중 | 124 | 다기관 시험으로 저용량 이식후 Cyclophosphamide(25 mg/kg, +3일 & +4일)/ Tacrolimus/Ruxolitinib을 MAC allo-PBSCT의 GVHD 예방에서 직접 평가합니다. |
+| [NCT00241358](https://clinicaltrials.gov/study/NCT00241358) | Phase 1/2 | 완료 | 92 | Cyclophosphamide가 포함된 전처리의 AMD3100 동원 모세포이식 방안을 혈액악성종양에서 안전성 및 유효성으로 평가합니다. |
+| [NCT00809276](https://clinicaltrials.gov/study/NCT00809276) | Phase 1/2 | 완료 | 92 | Fludarabine/IV Busulfan 전처리 후 이식후 고용량 Cyclophosphamide 면역억제를 연구하여 골수이식후 GVHD 예방 효익을 평가합니다. |
+| [NCT00723099](https://clinicaltrials.gov/study/NCT00723099) | Phase 2 | 완료 | 73 | Cyclophosphamide가 포함된 감량강도 전처리 비혈연 제대혈 이식으로 AML 동종이식 맥락에서 Cy의 응용을 지지합니다. |
+| [NCT06532084](https://clinicaltrials.gov/study/NCT06532084) | Phase 2 | 모집 중 | 88 | 단기관 무작위시험으로 PTCy가 포함된 allo-HSCT 후 Sorafenib 유지 치료를 고위험 골수악성종양의 유효성으로 비교하여 현대 AML 이식 실행 데이터를 제공합니다. |
+| [NCT00691015](https://clinicaltrials.gov/study/NCT00691015) | Phase 2 | 완료 | 48 | Sirolimus/Tacrolimus/Thymoglobulin을 비혈연 공여자 HCT의 GVHD 예방 방안(Cyclophosphamide 전처리 포함)으로 평가하여 비교 배경 데이터를 제공합니다. |
 
 ---
 
-## 文獻根據
+## 문헌 근거
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [36357773](https://pubmed.ncbi.nlm.nih.gov/36357773/) | 2023 | 系統性回顧與網絡統合分析 | Bone Marrow Transplantation | 貝葉斯網絡統合分析比較 AML allo-HSCT 完全緩解患者各 MAC 方案（含 BuCy）之療效，提供目前最高等級統合證據 |
-| [40905088](https://pubmed.ncbi.nlm.nih.gov/40905088/) | 2026 | 前瞻性登記研究 | Haematologica | 分析 217 例 AML 接受 MAC+PTCy GVHD 預防移植之遺傳風險分類與預後，整體 2 年 OS 達 77%（95% CI：71–83） |
-| [40434956](https://pubmed.ncbi.nlm.nih.gov/40434956/) | 2025 | 回溯性比較研究 | Future Oncology | 直接比較標準 BuCy 與 FluBu 骨髓清除性預處理方案於 AML allo-HSCT，評估療效相近性及毒性差異 |
-| [39939431](https://pubmed.ncbi.nlm.nih.gov/39939431/) | 2025 | 回溯性研究 | Bone Marrow Transplantation | 分析 1,823 例中高危 AML（CR1）接受 PTCy allo-HSCT 之預處理強度（MAC vs RIC）與移植預後關係 |
-| [40437709](https://pubmed.ncbi.nlm.nih.gov/40437709/) | 2025 | 回溯性研究 | European Journal of Haematology | 評估 RIC 與 MAC 對 65 歲以下 AML 患者接受 ATG+PTCy+Cyclosporine GVHD 預防方案的存活影響 |
-| [38499049](https://pubmed.ncbi.nlm.nih.gov/38499049/) | 2024 | Phase 2 研究報告 | Transplant Immunology | 探索 Cladribine+BuCy 強化預處理方案用於難治復發 AML allo-HSCT 的療效與安全性，提供 BuCy 基礎方案強化數據 |
-| [38466265](https://pubmed.ncbi.nlm.nih.gov/38466265/) | 2024 | 回溯性研究 | Cytotherapy | 分析半相合 HCT（haplo-HCT with PTCy）治療 AML 之預後因子，確認 PTCy 在有效抑制 GVHD 同時維持移植物抗白血病效應 |
-| [35955881](https://pubmed.ncbi.nlm.nih.gov/35955881/) | 2022 | 回溯性研究 | Int J Molecular Sciences | 首篇報告 PTCy 作為兒科 AML 相合捐贈者 HSCT 之 GVHD 預防策略的專項研究，補充兒科安全性與療效數據 |
-| [31628924](https://pubmed.ncbi.nlm.nih.gov/31628924/) | 2020 | 回溯性研究 | Hematology/Oncology and SCT | 比較 BuCy 與 BuFlu 作為 AML/MDS allo-HCT 骨髓清除性預處理的比較效益，聚焦生活品質影響 |
-| [33325761](https://pubmed.ncbi.nlm.nih.gov/33325761/) | 2021 | 回溯性研究 | Leukemia & Lymphoma | 報告高劑量 Cyclophosphamide（60 mg/kg）用於 AML 高白細胞症（≥50×10⁹/L）或白血球瘀滯症之細胞減量療效（27 例），初步確認緊急情境下的應用價值 |
+| [36357773](https://pubmed.ncbi.nlm.nih.gov/36357773/) | 2023 | 체계적 검토 및 네트워크 메타분석 | Bone Marrow Transplantation | AML allo-HSCT 완전 관해 환자의 다양한 MAC 방안(BuCy 포함)의 유효성을 베이지안 네트워크 메타분석으로 비교하여 현재 최고 등급의 통합 근거를 제공합니다. |
+| [40905088](https://pubmed.ncbi.nlm.nih.gov/40905088/) | 2026 | 전향적 등록연구 | Haematologica | MAC+PTCy GVHD 예방 이식을 받은 217명의 AML 환자의 유전학적 위험 분류 및 예후를 분석하며, 전체 2년 OS는 77%(95% CI: 71–83)에 달합니다. |
+| [40434956](https://pubmed.ncbi.nlm.nih.gov/40434956/) | 2025 | 회고적 비교연구 | Future Oncology | AML allo-HSCT에서 표준 BuCy와 FluBu 골수제거성 전처리 방안을 직접 비교하여 유효성 동등성 및 독성 차이를 평가합니다. |
+| [39939431](https://pubmed.ncbi.nlm.nih.gov/39939431/) | 2025 | 회고적 연구 | Bone Marrow Transplantation | 중고위험 AML(CR1)을 받는 1,823명 환자의 PTCy allo-HSCT에서 전처리 강도(MAC vs RIC)와 이식 후 관계를 분석합니다. |
+| [40437709](https://pubmed.ncbi.nlm.nih.gov/40437709/) | 2025 | 회고적 연구 | European Journal of Haematology | 65세 이하 AML 환자가 ATG+PTCy+Cyclosporine GVHD 예방 방안을 받는 데 있어 RIC과 MAC이 생존에 미치는 영향을 평가합니다. |
+| [38499049](https://pubmed.ncbi.nlm.nih.gov/38499049/) | 2024 | Phase 2 연구 보고서 | Transplant Immunology | 난치성 재발 AML allo-HSCT에서 Cladribine+BuCy 강화 전처리 방안의 유효성 및 안전성을 탐색하여 BuCy 기초 방안 강화 데이터를 제공합니다. |
+| [38466265](https://pubmed.ncbi.nlm.nih.gov/38466265/) | 2024 | 회고적 연구 | Cytotherapy | 반상합 HCT(haplo-HCT with PTCy)로 AML을 치료하는 예후 인자를 분석하여 PTCy가 GVHD를 효과적으로 억제하면서 이식 항백혈병 효과를 유지함을 확인합니다. |
+| [35955881](https://pubmed.ncbi.nlm.nih.gov/35955881/) | 2022 | 회고적 연구 | Int J Molecular Sciences | 소아 AML 상합 공여자 HSCT에서 PTCy를 GVHD 예방 전략으로 사용하는 첫 전문 연구로, 소아 안전성 및 유효성 데이터를 보충합니다. |
+| [31628924](https://pubmed.ncbi.nlm.nih.gov/31628924/) | 2020 | 회고적 연구 | Hematology/Oncology and SCT | AML/MDS allo-HCT 골수제거성 전처리에서 BuCy와 BuFlu를 비교하여 생활 품질 영향에 초점을 맞춥니다. |
+| [33325761](https://pubmed.ncbi.nlm.nih.gov/33325761/) | 2021 | 회고적 연구 | Leukemia & Lymphoma | AML 고백혈구혈증(≥50×10⁹/L) 또는 백혈구 침전증에서 고용량 Cyclophosphamide(60 mg/kg)의 세포감량 유효성(27례)을 보고하여 응급 상황에서의 응용 가치를 초기 확인합니다. |
 
 ---
 
-## 細胞毒性
+## 세포독성
 
-| 項目 | 內容 |
+| 항목 | 내용 |
 |------|------|
-| 細胞毒性分類 | 既有細胞毒性藥物（烷化劑，Alkylating Agent；前驅藥，須經肝臟 CYP2B6/CYP3A4 活化） |
-| 骨髓抑制風險 | **高**（於 MAC 劑量下骨髓清除為預期治療效果；PTCy 劑量下仍顯著，需密切監測全血球計數） |
-| 催吐等級 | 中~高（靜脈，高劑量 >750 mg/m²）；低~中（口服或低劑量靜脈） |
-| 監測項目 | 全血球計數（含白血球分類）、肝腎功能（ALT/AST/Cr）、電解質、尿液分析（含尿潛血，出血性膀胱炎監測）、血尿素氮 |
-| 特殊處置 | 遵循細胞毒性藥物操作及廢棄規範；高劑量靜脈給藥時須搭配 MESNA 預防出血性膀胱炎；充分水化（≥3 L/day）；備妥 G-CSF 及輸血支持；密切監測感染跡象 |
+| 세포독성 분류 | 기존 세포독성 약물(알킬화제, Alkylating Agent; 전약물, 간 CYP2B6/CYP3A4에 의해 활성화 필요) |
+| 골수억제 위험 | **높음**(MAC 용량에서 골수제거는 예상 치료 효과; PTCy 용량에서도 여전히 중대하여 전혈구계산 밀접 모니터링 필요) |
+| 구토 등급 | 중~고(정맥주사, 고용량 >750 mg/m²); 저~중(경구 또는 저용량 정맥주사) |
+| 모니터링 항목 | 전혈구계산(백혈구 분류 포함), 간신기능(ALT/AST/Cr), 전해질, 소변 분석(혈뇨 포함, 출혈성 방광염 모니터링), 혈중요소질소 |
+| 특수 처치 | 세포독성 약물 조작 및 폐기 규범 준수; 고용량 정맥주사 시 MESNA로 출혈성 방광염 예방; 충분한 수분화(≥3 L/day); G-CSF 및 수혈 지지 준비; 감염 징후 밀접 모니터링 |
 
 ---
 
-## 安全性考量
+## 안전성 고려사항
 
-安全性資訊請參照許可說明書。
+안전성 정보는 허가 설명서를 참조하시기 바랍니다.
 
 ---
 
-## 結論與下一步
+## 결론 및 다음 단계
 
-**決策：Proceed with Guardrails（附條件推進）**
+**의사결정: Proceed with Guardrails(조건부 추진)**
 
-**理由：**
-支持 Cyclophosphamide 用於骨髓性白血病（AML）的臨床證據等級高，包含一項 431 人隨機 Phase 3 試驗（NCT03959241，已完成）、一項 202 人 Phase 2/3 試驗（NCT02744742，已完成），及 2023 年貝葉斯系統性網絡統合分析（PMID 36357773），整體根據等級達 **L1**；藥物的雙重應用機轉（BuCy 骨髓清除性預處理及 PTCy GVHD 預防）在機轉上明確，已在全球多個骨髓移植中心廣泛驗證，具備充分推進條件。
+**근거:**
+Cyclophosphamide를 골수성 백혈병(AML)에 사용하기 위한 임상 근거 등급은 높으며, 431명의 무작위 Phase 3 시험(NCT03959241, 완료), 202명의 Phase 2/3 시험(NCT02744742, 완료), 및 2023년 베이지안 체계적 네트워크 메타분석(PMID 36357773)을 포함하여 전체 근거 등급은 **L1**에 달합니다. 약물의 이중 응용 메커니즘(BuCy 골수제거성 전처리 및 PTCy GVHD 예방)은 메커니즘에서 명확하며 전 세계 다수의 골수이식 센터에서 광범위하게 검증되어 충분한 추진 조건을 갖춥니다.
 
-**如需推進，需要：**
-- 取得 TFDA 仿單警語及禁忌症完整資料（目前為 **Blocking Data Gap DG001**，阻斷 S1 安全性初評）
-- 補充完整的作用機轉（MOA）數據（目前為 **High 優先 Data Gap DG002**，Limits mechanistic-link analysis）
-- 評估台灣 AML 臨床治療現況及現有替代方案（FluBu 等）之比較分析
-- 建立特定高風險族群（老年患者、腎功能不全、既有心臟疾病）的安全性監測計畫
-- 若擬申請台灣上市許可，須制定完整的 TFDA 法規策略，包括橋接試驗數據評估及藥品技術文件準備
+**추진이 필요한 경우 필요한 사항:**
+- TFDA 약품 설명서 경고 및 금기사항 완전 데이터 획득(현재 **Blocking Data Gap DG001**, S1 안전성 초평 차단)
+- 완전한 작용 메커니즘(MOA) 데이터 보충(현재 **High 우선 Data Gap DG002**, mechanistic-link 분석 제한)
+- 대만 AML 임상 치료 현황 및 기존 대체 방안(FluBu 등)의 비교 분석 평가
+- 특정 고위험 족군(노령 환자, 신기능 부전, 기존 심장질환)의 안전성 모니터링 계획 수립
+- 대만 상시 허가 신청을 고려하는 경우 완전한 TFDA 규제 전략 수립, 가교 시험 데이터 평가 및 약품 기술 문서 준비 포함
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
