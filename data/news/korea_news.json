@@ -1,19 +1,79 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-09-25T21:15:07.505563+00:00",
-  "total_fetched": 118,
-  "unique_count": 117,
-  "health_related_count": 57,
+  "fetched_at": "2026-09-26T04:10:01.728130+00:00",
+  "total_fetched": 111,
+  "unique_count": 110,
+  "health_related_count": 56,
   "news": [
     {
-      "id": "a2587c5b512e",
-      "title": "\"안 아프면 괜찮다\"더니…샤워중 만져진 가슴 멍울, 암 3기였다 [가족 건강 챙기기] - news.nate.com",
-      "published": "2026-09-25T21:01:00+00:00",
-      "summary": "\"안 아프면 괜찮다\"더니…샤워중 만져진 가슴 멍울, 암 3기였다 [가족 건강 챙기기]&nbsp;&nbsp;news.nate.com“안 아프면 괜찮다”더니…샤워중 만져진 가슴 멍울, 암 3기였다 [가족 건강 챙기기]&nbsp;&nbsp;미주중앙일보\"부자 동네서 많이 걸리고, 가난한 동네서 많이 죽는다\"…유방암의 역설&nbsp;&nbsp;프레시안[건강라이프] 유방에 혹 발견됐는데 ‘6개월 뒤 다시 보자’…괜찮은 걸까?&nbsp;&nbsp;골프타임즈[알립니다]부동의 여성암 1위, 유방암&nbsp;&nbsp;v.daum.net",
+      "id": "c11b1a9e72d2",
+      "title": "돈 관리도 잘하는데, 자꾸 '깜빡깜빡'...전원주도 앓는 이 질환 뭐길래 - supple.kr",
+      "published": "2026-09-25T23:16:00+00:00",
+      "summary": "돈 관리도 잘하는데, 자꾸 '깜빡깜빡'...전원주도 앓는 이 질환 뭐길래&nbsp;&nbsp;supple.kr",
       "sources": [
         {
-          "name": "news.nate.com",
+          "name": "supple.kr",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80ZTZ1cl9QWDViWU5nM0pjWE5EWjBhdlUyTnlPNzhfRU9vSkdrWmU2VFNlWFptWDFIbjlYc0pYcmo0bDBSUDJXcW0zWk5VdUtJQnJXTFMwWnB5NmRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8dc191cf113f",
+      "title": "원인 유전자 1200개 넘는 자폐, 분자 상태는 두 갈래였다 - 조선일보",
+      "published": "2026-09-25T23:10:00+00:00",
+      "summary": "원인 유전자 1200개 넘는 자폐, 분자 상태는 두 갈래였다&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc1QwVXczdTJpbktwVDlLRV9MMUtVZ2psZ2NpZ2dLWEliMnBpSGhGV2RNbU5pbnY1NS14T3lPUS1ISzVBVmRKWC1nejBHalRfSGNjdmdEN2VYTkhsb1pUMmV1aWgwWTlGaXhQcDdqWmhzdEp5TmUwdUh3dDlxcWoyM2txYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5be5a1a02d6f",
+      "title": "알록달록 피망 효능 4가지… “눈 건강 챙기고 염증 완화에 도움” - 하이닥",
+      "published": "2026-09-25T23:00:00+00:00",
+      "summary": "알록달록 피망 효능 4가지… “눈 건강 챙기고 염증 완화에 도움”&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQ21ac2ZFVmlaYlV5NGpEdGlCZ01Hb0hHRVV0bFZXUmdDeWFlei1mN1RrYlB1T0VOcVJZejlxQkJHOXdJZzBEOVZ3SWxjQjNteUhzLXNaR3EzLTc4Q1kzd2ZqOVhpanFRd3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7091634f541",
+      "title": "\"안 아프면 괜찮다\"더니…샤워중 만져진 가슴 멍울, 암 3기였다 [가족 건강 챙기기] - 네이트",
+      "published": "2026-09-25T21:01:00+00:00",
+      "summary": "\"안 아프면 괜찮다\"더니…샤워중 만져진 가슴 멍울, 암 3기였다 [가족 건강 챙기기]&nbsp;&nbsp;네이트“안 아프면 괜찮다”더니…샤워중 만져진 가슴 멍울, 암 3기였다 [가족 건강 챙기기]&nbsp;&nbsp;koreadaily.com\"부자 동네서 많이 걸리고, 가난한 동네서 많이 죽는다\"…유방암의 역설&nbsp;&nbsp;pressian.com[알립니다]부동의 여성암 1위, 유방암&nbsp;&nbsp;v.daum.net유방암, 증상 없다고 안심 못해…정기 검진이 중요한 이유&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vbTA4SWZOMzFKOXJmQjY4U0hnYm1jWTN3SjJZdzA3OVpIbndScDhjNF9VTFhMaUc2dDJZeEx1aW0xTzg3bkJZcnMwNGhQbnU1V2UzZE5nT2ZRMFBXYThXMg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24aecf0dbeb1",
+      "title": "클로자핀 제제, 이상반응 ‘충수염ㆍ혈액암’ 추가 - 의약뉴스",
+      "published": "2026-09-25T20:59:00+00:00",
+      "summary": "클로자핀 제제, 이상반응 ‘충수염ㆍ혈액암’ 추가&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mUnVESmFieFBRTGpjdG4zNVFaMzJrZDFvTmUxd0toWUYySFhjbkk5Q0pLV2JaMk53cmg0U1plV2UzMlBJcVlCbllTNWE2WlFwMjUtWEI4S3oxWms5U1BaYjFrb01iLVdp?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5cf9d900d45a",
+      "title": "초가공식품 가장 많이 먹는 사람, 소화기 질환 위험 31%↑·우울·불안 27%↑ - 시애틀코리안데일리",
+      "published": "2026-09-25T18:50:05+00:00",
+      "summary": "초가공식품 가장 많이 먹는 사람, 소화기 질환 위험 31%↑·우울·불안 27%↑&nbsp;&nbsp;시애틀코리안데일리‘초가공식품’ 많이 먹을수록 심혈관질환·암·당뇨 위험↑&nbsp;&nbsp;v.daum.net“매일 식탁에 올렸는데 암 걸린다고?”…100g 더 먹었다간 위험하다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제‘이 음식’으로 버티는 추석?…막 먹다간 ‘암·조기 사망’ 위험 확 뜁니다&nbsp;&nbsp;서울신문초가공식품이 무릎에 안 좋은 이유?…체중 말고 ‘이것’도 있다 [건강팩트체크]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "시애틀코리안데일리",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0a05hRTBKYlI5bzlGMVJtSUYwR1BiOXU3UzAxLVVOc0Vuc3RMSHBjWFhtX1p1WHpqTmhZNGtEeTVyWFl5ZmtPX1N5dVlyMWx0TDlscmtIQUJkVkljb0hsMWhQMzdRQi11eEtCZERSUjbSAXNBVV95cUxOQjdHWkQwU2NJR3F5VWpaQmNYcVh4YWJqTDFWLWRacEJSYnFxaHJFemFEVzVDMEdrOTlnSXFSOU94bHhkMjFCbzhhcmE2amt5NE5sVjBRUTZ6eTNRTTl6SzQ2ZFZMcFFFc2U4Z0R6SmdqaTZj?oc=5"
         }
       ]
     },
@@ -30,22 +90,10 @@
       ]
     },
     {
-      "id": "c5a062bec055",
-      "title": "“부모님 대상포진 접종 확인했나요”…환자 73%가 50대 이상 - 쿠키뉴스",
-      "published": "2026-09-25T11:04:19+00:00",
-      "summary": "“부모님 대상포진 접종 확인했나요”…환자 73%가 50대 이상&nbsp;&nbsp;쿠키뉴스연휴에 찾아온 예상못한 질환··· 과로·음주 피하세요&nbsp;&nbsp;v.daum.net명절 연휴 피로·스트레스, 대상 포진 주의…발진 발생 72시간 이내 치료 받아야&nbsp;&nbsp;스포츠조선[닥터 김덕규의 건강과 재생의학] 폭염이 부르는 면역력 저하, 여름철 대상포진이 늘어나는 이유&nbsp;&nbsp;youthdaily.co.kr단순 피부병인 줄 알았다가 평생 통증?!! 대상포진 원인과 전염성·신경통&nbsp;&nbsp;대한청년일보",
-      "sources": [
-        {
-          "name": "쿠키뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeGoxX3lEblVZaE1nYlB3WmVTczJxVTlOOVNTVXh6UFRnSXdxMW92aHc2eF8tQmFvbW03YXg0NU1lY3VlVXBMa0dIMHpGc2NtSFVmN1BMLVVaczAyUnhOeTU0aw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "424e42895a8f",
       "title": "30대 이상 여성, 노인 돼 ‘뼈 고생’ 안 하려면 먹어야 할 영양소 - 헬스조선",
       "published": "2026-09-25T11:03:00+00:00",
-      "summary": "30대 이상 여성, 노인 돼 ‘뼈 고생’ 안 하려면 먹어야 할 영양소&nbsp;&nbsp;헬스조선인기 1위 '비타민 D' 보충제, 많이 먹을수록 좋다? ... 英 이코노미스트&nbsp;&nbsp;최보식의언론노년층 뼈 건강 상식 뒤집혔다… 칼슘·비타민D 복용, 골절 예방엔 \"의미 있는 효과 없어\"&nbsp;&nbsp;시애틀코리안데일리대구가톨릭대병원, 비타민D와 고관절 골절 예후 연관성 분석&nbsp;&nbsp;kyongbuk.co.kr엉덩이뼈 부러졌는데 비타민D만 꿀꺽? 대구가톨릭대 의대생들이 찾아낸 '반쪽짜리 치료'의 진실&nbsp;&nbsp;양파티브이뉴스",
+      "summary": "30대 이상 여성, 노인 돼 ‘뼈 고생’ 안 하려면 먹어야 할 영양소&nbsp;&nbsp;헬스조선인기 1위 '비타민 D' 보충제, 많이 먹을수록 좋다? ... 英 이코노미스트&nbsp;&nbsp;최보식의언론대구가톨릭대병원, 비타민D와 고관절 골절 예후 연관성 분석&nbsp;&nbsp;kyongbuk.co.kr엉덩이뼈 부러졌는데 비타민D만 꿀꺽? 대구가톨릭대 의대생들이 찾아낸 '반쪽짜리 치료'의 진실&nbsp;&nbsp;양파티브이뉴스대가대 의대 이혜나 학생·송석균 교수팀, 고관절 골절 비타민D 연구 국제학술지 게재&nbsp;&nbsp;대구신문",
       "sources": [
         {
           "name": "헬스조선",
@@ -66,13 +114,13 @@
       ]
     },
     {
-      "id": "22187aa9ec2b",
-      "title": "‘잠이 보약’… 숙면 원한다면 ‘식물성 식품’ 늘려라 - 미주한국일보",
+      "id": "460e68e63a2f",
+      "title": "‘잠이 보약’… 숙면 원한다면 ‘식물성 식품’ 늘려라 - koreatimes.com",
       "published": "2026-09-25T03:00:00+00:00",
-      "summary": "‘잠이 보약’… 숙면 원한다면 ‘식물성 식품’ 늘려라&nbsp;&nbsp;미주한국일보",
+      "summary": "‘잠이 보약’… 숙면 원한다면 ‘식물성 식품’ 늘려라&nbsp;&nbsp;koreatimes.com",
       "sources": [
         {
-          "name": "미주한국일보",
+          "name": "koreatimes.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xWFFOc0xSTERoOWtabHNxbTBIVjE3eXpZWENjeTlwa2JBbmZQdXpDU2NteXBLN3dkOXVpblNGR2xGYjhYVkotMmNiYlJMWl9ubW11aDVpTC1HQjRpUllr?oc=5"
         }
       ]
@@ -102,13 +150,13 @@
       ]
     },
     {
-      "id": "83f4c6f5fff4",
-      "title": "다른 곳보다 치료 복잡하다…'침묵의 장기' 노리는 암 정체 [가족 건강 챙기기] - news.nate.com",
+      "id": "eb8c715633fe",
+      "title": "다른 곳보다 치료 복잡하다…'침묵의 장기' 노리는 암 정체 [가족 건강 챙기기] - 네이트",
       "published": "2026-09-24T21:01:00+00:00",
-      "summary": "다른 곳보다 치료 복잡하다…'침묵의 장기' 노리는 암 정체 [가족 건강 챙기기]&nbsp;&nbsp;news.nate.com",
+      "summary": "다른 곳보다 치료 복잡하다…'침묵의 장기' 노리는 암 정체 [가족 건강 챙기기]&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "news.nate.com",
+          "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhUHgyWnVYTEZzcFBfYzdBelJYQU9JTFdFQUJPQ0ppUEN6REJiNDR2eTBhMXFSZUNnaU5TTWVIcS04Zk11VU9kdDFRZElYSHdfVDcxMkxn?oc=5"
         }
       ]
@@ -117,23 +165,11 @@
       "id": "bcf47689b8c0",
       "title": "성균관대 서민아 교수 공동연구팀, 뇌 면역 단백질 조절 균형 회복을 통한 알츠하이머병 치료의 새로운 길 열었다 - 국민뉴스",
       "published": "2026-09-24T15:03:00+00:00",
-      "summary": "성균관대 서민아 교수 공동연구팀, 뇌 면역 단백질 조절 균형 회복을 통한 알츠하이머병 치료의 새로운 길 열었다&nbsp;&nbsp;국민뉴스뇌 면역 균형 회복을 통한 알츠하이머병 치료의 새로운 길 열었다&nbsp;&nbsp;BRIC'PD-L1' 억제했더니 알츠하이머 생쥐 뇌 면역 회복&nbsp;&nbsp;YTN 사이언스성균관대 “알츠하이머병, 면역 조절로 치료 가능성 제시”&nbsp;&nbsp;edaily.co.kr성균관대/연세대 공동연구팀 뇌 면역 스위치 조절해 알츠하이머병 치료 새 길 열었다.. 'PD-L1 억제로 뇌 청소세포 회복'&nbsp;&nbsp;베리타스알파",
+      "summary": "성균관대 서민아 교수 공동연구팀, 뇌 면역 단백질 조절 균형 회복을 통한 알츠하이머병 치료의 새로운 길 열었다&nbsp;&nbsp;국민뉴스뇌 면역 균형 회복을 통한 알츠하이머병 치료의 새로운 길 열었다&nbsp;&nbsp;BRIC'PD-L1' 억제했더니 알츠하이머 생쥐 뇌 면역 회복&nbsp;&nbsp;science.ytn.co.kr성균관대 “알츠하이머병, 면역 조절로 치료 가능성 제시”&nbsp;&nbsp;edaily.co.kr성균관대/연세대 공동연구팀 뇌 면역 스위치 조절해 알츠하이머병 치료 새 길 열었다.. 'PD-L1 억제로 뇌 청소세포 회복'&nbsp;&nbsp;베리타스알파",
       "sources": [
         {
           "name": "국민뉴스",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4wT3FuWkg0NVBQT0RDei02akVka0tNUDdsbFo1ZEtOZmtBdVpLQXhDV0o0YlNYVHdUdjF5R19sT3o5NUphOUR6a1J3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ecab2368dde1",
-      "title": "피 한방울로 ‘최악의 암’ 잡는다…조기진단 확률이 무려 - 매일경제",
-      "published": "2026-09-24T10:46:03+00:00",
-      "summary": "피 한방울로 ‘최악의 암’ 잡는다…조기진단 확률이 무려&nbsp;&nbsp;매일경제췌장암 환자 70%에서 ‘이 증상’ 생기더니… 혈당에 어떤 변화가?&nbsp;&nbsp;코메디닷컴조용히 진행되는 ‘침묵의 암’ AI가 잡아낼까&nbsp;&nbsp;국민일보",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TQzBDMG1UbUpRM1ZYbk5BbklYTGdLMWtwUWl4cFNrdVlEMHRINzhsOW54ZzcxOGNlNzJ1Vlh4bjIzVF9PTEQyVHRIbHVLdw?oc=5"
         }
       ]
     },
@@ -162,18 +198,6 @@
       ]
     },
     {
-      "id": "1ddeedf85a4e",
-      "title": "초가공식품 많이 먹는 사람, 사망 위험 18%↑…암·우울과도 연관 - 하이닥",
-      "published": "2026-09-24T07:00:00+00:00",
-      "summary": "초가공식품 많이 먹는 사람, 사망 위험 18%↑…암·우울과도 연관&nbsp;&nbsp;하이닥‘초가공식품’ 많이 먹을수록 심혈관질환·암·당뇨 위험↑&nbsp;&nbsp;v.daum.net“매일 식탁에 올렸는데 암 걸린다고?”…100g 더 먹었다간 위험하다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제‘이 음식’으로 버티는 추석?…막 먹다간 ‘암·조기 사망’ 위험 확 뜁니다&nbsp;&nbsp;서울신문초가공식품이 무릎에 안 좋은 이유?…체중 말고 ‘이것’도 있다 [건강팩트체크]&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UeE9ndkEwWjF2TU5fa3gwcWhkX0tjUWlrQVc3dklzc2ZUNmI0ZWx6Z3NaTlB1bThRN01oR0JWOEhZNy02NVNBOThQX3RPMDJUTWdfTEpMYmtpTkNjZWxvSVZLN3dWWnR5M2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c30d5b84aa07",
       "title": "‘구조적 불일치’가 다분절 경추척수병증 수술 결과 좌우 - edaily.co.kr",
       "published": "2026-09-24T06:02:02+00:00",
@@ -182,30 +206,6 @@
         {
           "name": "edaily.co.kr",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORlBEU1ZrTDNUcmV5bmxHaHAyc2tWRDhYbTcxS3FMSFVkbEdTbklqdTR6cy1iRGZ2SzBRX19CTHZRSXZCS0R6TGxrU0tIdlpuYnp5aVJKd2E1RUp5SUNzWHJqbENESURMRkIxc3NCSHlHQVZhYUFhWVltMUJpT215cQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a21831ed90a",
-      "title": "콜라·핫도그·감자칩 4주간 ‘확’ 줄였더니⋯우울증 57%나 감소? - 코메디닷컴",
-      "published": "2026-09-24T02:01:00+00:00",
-      "summary": "콜라·핫도그·감자칩 4주간 ‘확’ 줄였더니⋯우울증 57%나 감소?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1PNXZQWXpBZzd5V05TcHRURld3bUUyMkp4ZmZKMXpBQXVVbkdMNFFCN25uV1BCU0h0cDN0cnlLNGtiZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "440674d22bac",
-      "title": "\"배 터지게 먹었는데 송편은 또 들어가더니\"…놀라운 결과 [건강!톡] - 한국경제",
-      "published": "2026-09-24T02:00:03+00:00",
-      "summary": "\"배 터지게 먹었는데 송편은 또 들어가더니\"…놀라운 결과 [건강!톡]&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50VlVCUHF4d2M1UDJDR1Z3SmVsZDB1TWpZOTNCdkZxTW5PVTA1THRKc2NNZ1NFTXJrcXlkb1ZpRmVIRFl6Ry1icUMzd3NFcHJGSVFEeGdTQ2NMZw?oc=5"
         }
       ]
     },
@@ -222,14 +222,26 @@
       ]
     },
     {
-      "id": "82b7e4703b1e",
-      "title": "제2형 당뇨병 환자, GLP-1 RA만 뇌경색 위험 감소 - 의약뉴스",
-      "published": "2026-09-23T20:55:00+00:00",
-      "summary": "제2형 당뇨병 환자, GLP-1 RA만 뇌경색 위험 감소&nbsp;&nbsp;의약뉴스",
+      "id": "6de8e5e61785",
+      "title": "“체한 줄 알고 소화제만 먹었는데”… 47세 여성, 난소암 3기 ‘날벼락’ - 헬스조선",
+      "published": "2026-09-23T07:10:00+00:00",
+      "summary": "“체한 줄 알고 소화제만 먹었는데”… 47세 여성, 난소암 3기 ‘날벼락’&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVREJZQ1VWQXBCeDVUczBjdktmdV9jek11WkVWZmNXTzQ5SVZtRExXME44enF2WjBXS0l3NTk2Y3kyeW5qdlppRnJpYzh4LXcycDNBWl9rZkpveUZqLTg1d0JrQ2ZMUEtH?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92V3FYYk9iMFVEcmllZlUwVldBa0hsVWNCUzNuWmZxZkMwZnNGSmEyZ3FxWjdoYkh5NXdROEZSWlcxVmVZLVIteVZzTXZ1cXI3T1IyWUx6bmNNVEhHRDl5eGpid19FQ0NLZ3p3YlRhUENsYlhhVEZrd19fS3UtU2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17a2b0567870",
+      "title": "“주사 한번에 1년치 약효”…‘콜레스테롤약’ 매일 먹는 부담 덜 수 있을까 - 농민신문",
+      "published": "2026-09-23T07:00:00+00:00",
+      "summary": "“주사 한번에 1년치 약효”…‘콜레스테롤약’ 매일 먹는 부담 덜 수 있을까&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55d2tsWGFleFFNeTVpUV9qNWdid0wySHJHR3ctdGxidzN2eGxkcG5RWU9Ed1NYRmtpRnRUb0lZTll3d19ramJ4NmVkRE1pUWJ2V1RHeUNuS2Nldw?oc=5"
         }
       ]
     },
@@ -242,18 +254,6 @@
         {
           "name": "에너지경제신문",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpbUFQbzJiTE0zVEJZSHQ0b0VrdzBicmZGenNDTmdra1EtYnB5a1BNSVFTNjdKQ2EzR1NMdEF3NXRyZmxld0x4eUN2MlF3Nm5jVUhYazV5TGtzckdObWRXOTJKbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c63869a16d65",
-      "title": "어린이 틱장애 증상과 ADHD, 강박증 동반...조기 진단과 원인 치료 중요 [이원우 원장 칼럼] - 하이뉴스",
-      "published": "2026-09-23T06:53:46+00:00",
-      "summary": "어린이 틱장애 증상과 ADHD, 강박증 동반...조기 진단과 원인 치료 중요 [이원우 원장 칼럼]&nbsp;&nbsp;하이뉴스",
-      "sources": [
-        {
-          "name": "하이뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91Q0Vqa2NMMHByeDhSXzdCbmhvSDNJSVo3eFRrZ0lUZXRleUVtelVFWWpFZ0VteGZvZy1CSlhNOGt3SHB1N2RjSWhDRUc0Y3lEb1hST24zQzFlSDZjMzdTeDZkU1pzbDQ1NVlNbUR1eTVPa0Z4?oc=5"
         }
       ]
     },
@@ -282,26 +282,26 @@
       ]
     },
     {
-      "id": "941476db6313",
-      "title": "GIST, 근적외선 비춰 '불면 증상·수면 질' 개선 가능성 확인 - 전자신문",
+      "id": "109f53678309",
+      "title": "GIST, 근적외선 비춰 '불면 증상·수면 질' 개선 가능성 확인 - etnews.com",
       "published": "2026-09-23T00:55:45+00:00",
-      "summary": "GIST, 근적외선 비춰 '불면 증상·수면 질' 개선 가능성 확인&nbsp;&nbsp;전자신문“머리에 근적외선 비췄더니… '수면 물질' 늘었다” 근적외선의 수면 조절 효과 확인&nbsp;&nbsp;BRICGIST, '경두개 광생체조절' 기술로 불면 증상 개선&nbsp;&nbsp;아시아경제\"머리에 근적외선 비춰 불면증 개선한다\"&nbsp;&nbsp;v.daum.net잠들기 전 머리에 근적외선 쐈더니 불면 점수 26% 낮아졌다&nbsp;&nbsp;매일경제",
+      "summary": "GIST, 근적외선 비춰 '불면 증상·수면 질' 개선 가능성 확인&nbsp;&nbsp;etnews.com“머리에 근적외선 비췄더니… '수면 물질' 늘었다” 근적외선의 수면 조절 효과 확인&nbsp;&nbsp;BRICGIST, '경두개 광생체조절' 기술로 불면 증상 개선&nbsp;&nbsp;아시아경제\"머리에 근적외선 비춰 불면증 개선한다\"&nbsp;&nbsp;v.daum.net잠들기 전 머리에 근적외선 쐈더니 불면 점수 26% 낮아졌다&nbsp;&nbsp;매일경제",
       "sources": [
         {
-          "name": "전자신문",
+          "name": "etnews.com",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVC1HWUNwcjBhbkxiX2NHdXJULTRpTU52Q29uVzBYeXVZVzFMelVHUEVoSkMyYWc1UTQ5eDhrTnFra1lyM2I0UExEUQ?oc=5"
         }
       ]
     },
     {
-      "id": "7fac5bfec4d3",
-      "title": "이 증상 있는 노인, 치매 위험 42% 높아… 혈관성 치매는 70%↑ - 금강일보",
-      "published": "2026-09-23T00:29:12+00:00",
-      "summary": "이 증상 있는 노인, 치매 위험 42% 높아… 혈관성 치매는 70%↑&nbsp;&nbsp;금강일보근감소증 있으면 치매 위험 42%↑…혈관성 치매는 70%↑ [노화설계]&nbsp;&nbsp;v.daum.net“체중은 그대로인데 몸이 달라졌다?”…중년 이후 놓치기 쉬운 근육 감소의 신호&nbsp;&nbsp;한국가요예술방송원근육량보다 ‘성능’…잠든 ‘속근’ 깨워야 100세 시대 달린다&nbsp;&nbsp;시사저널[건강칼럼]무거운 덤벨보다 중요한 것은… 중년을 살리는 ‘건강 관련 체력’&nbsp;&nbsp;경인신문",
+      "id": "a6cfbecec740",
+      "title": "근감소증 있으면 치매 위험 42%↑…혈관성 치매는 70%↑ [노화설계] - 동아일보",
+      "published": "2026-09-22T22:30:00+00:00",
+      "summary": "근감소증 있으면 치매 위험 42%↑…혈관성 치매는 70%↑ [노화설계]&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "금강일보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCd1c5YXJyV21JSmpGSXg1YzQ4NThtbnAxTmJZLWNOQWNwOE1BcU4wWTRycHV3SVhTMi1KZDVMNTBnbzk4VTAxWTRrRTlvd0hCZWltU2JnMUJNUkJWSTRFQng1X2hIT0Jh?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNW44c284c3Z6T1JScmxzVTdnM1c4b0hQTXI0dXZSbFJlTndxQW5NY3NOTF9GLXl4dmlrNHJydF85dHV0OVFsU3pCaWtxalB2cnEtdWcyUGtsdzBzTVRwSk5PU0FoM0MyOWJXanZHRdIBZkFVX3lxTFBhM09OMHF1cnNsWHF6YWhVd0tReENwdUc5cVRpNDVESjRhQWxYeXlwR1I2NUZCNG9pVGRwZGlyS3BSZ2g3RnFlZTkyM0Q5WHpWanB6a2FTS09QLW5jMU5VeGN5S1BxQQ?oc=5"
         }
       ]
     },
@@ -314,18 +314,6 @@
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EVktQay1rQk5yS2tmajluYWd6bzhmaldRTi1IdmhmLWxjSDVNWEl6UElIalhBME5MZnBQS3lzSzBfd1J3ZnI0dGhSeGZZOFJ3NlB4REZpVEdNTUJEWS1ucHNaUkhBUUJsc1dQUw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee2ed8839735",
-      "title": "불 끄고 자도 안심 못했다…밤 불빛 노출 많을수록 뇌졸중 위험 33%↑ - 세계일보",
-      "published": "2026-09-22T20:00:00+00:00",
-      "summary": "불 끄고 자도 안심 못했다…밤 불빛 노출 많을수록 뇌졸중 위험 33%↑&nbsp;&nbsp;세계일보속도 조절 외치던 앤트로픽·오픈AI, 새 AI 모델로 가성비 속도전&nbsp;&nbsp;YTN 사이언스밤에 빛 많이 쬘수록 심장 약해진다?…심부전 위험 29% 증가&nbsp;&nbsp;하이닥수면 중 야간 조명 노출은 뇌졸중 위험을 33% 높이는 것과 관련이 있습니다.&nbsp;&nbsp;Vietnam.vn불 끄고 자도 안심 못한다…뇌졸중 위험 낮추는 침실 환경은?&nbsp;&nbsp;조세일보",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZZFFfWUdMbXhWNlZiQlp5dl91UmpGT1E0elozYkt1Q0ZQQWx3Y0haRHBsLVpSTHBtTU9WMFZYX0NRLVYxQ2syOGFkd2NEVm9NZFo5SWViamjSAVRBVV95cUxPS3IzWmI2STM1SXQzaUdMLWJCSHFHbm1FOExLWXBaeWZ0UG83REtoLWpENzNLTlZlb1dlemtVVERMTmdfcmFCTzRBNnFQTWowb3ZZZkY?oc=5"
         }
       ]
     },
@@ -366,6 +354,18 @@
       ]
     },
     {
+      "id": "85f4234e3fa6",
+      "title": "생명연, 난치성 뇌암 '교모세포종' 치료 단서 찾아 - etnews.com",
+      "published": "2026-09-22T10:04:23+00:00",
+      "summary": "생명연, 난치성 뇌암 '교모세포종' 치료 단서 찾아&nbsp;&nbsp;etnews.com난치성 뇌암 ‘교모세포종’의 성장 스위치 끄는 치료법 찾았다&nbsp;&nbsp;BRIC뇌암 키우는 '단백질' 찾고 6331개 물질 뒤져 '치료 후보'까지 발굴&nbsp;&nbsp;헬로디디교모세포종 치료 새 길...생명연, 암 성장 억제 약물 후보 발굴&nbsp;&nbsp;충남일보난치성 뇌암 교모세포종의 성장 스위치 끄는 새로운 치료전략 제시&nbsp;&nbsp;코리아헬스로그",
+      "sources": [
+        {
+          "name": "etnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XTTQ0ZFJ1MHBTUDBkYWNEckhKbC1wQi1KWXF0U0lnd0ZHUmVzNlhlR0pQeFRKM05Eei1QTFJDRDFqRUZTTy1wYTk4alZrZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fbf22f1d2016",
       "title": "뇌를 안정시키는 `뉴로웰니스`…운동 후 회복이 중요한 이유[김태오의 피트니스웰] - 마이데일리",
       "published": "2026-09-22T08:50:25+00:00",
@@ -386,18 +386,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PVW1icWw1RHg0dXdBSU0xMlFBdHRkanY5NldCNGlBcWFDTDdRcm1ZaVJNOVl0Vlh3TWVoWmJwZXl6RkpmOEZteWFzZHl2RUdYZTZ4M0hKal82R3kzZ3I4R3gwUTJKZV9FX1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b967b210fa6b",
-      "title": "“뇌암 스위치 껐다”…생명연, 교모세포종 신약 후보물질 규명 - 매일경제",
-      "published": "2026-09-22T05:56:55+00:00",
-      "summary": "“뇌암 스위치 껐다”…생명연, 교모세포종 신약 후보물질 규명&nbsp;&nbsp;매일경제Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5paUUyQjRZVXBGV0RHMmk3aFRYQk5DVU95ZjlMSXFGWXNEUXhUNjNZb1d4MDR4NnRybkd1ZGY3ZWVKYUNfM2JvRFZlclFvUQ?oc=5"
         }
       ]
     },
@@ -453,7 +441,7 @@
       "id": "892efa445805",
       "title": "서울성모병원, 유방암 수술 후 방사선치료 피부암 위험 연구 발표 - MEDI:GATE NEWS",
       "published": "2026-09-22T02:36:00+00:00",
-      "summary": "서울성모병원, 유방암 수술 후 방사선치료 피부암 위험 연구 발표&nbsp;&nbsp;MEDI:GATE NEWS유방암 수술후 방사선 받으면 피부암?…한국인은 달랐다&nbsp;&nbsp;동아일보\"유방암 수술 후 방사선치료, 피부암 위험 높이지 않았다\"&nbsp;&nbsp;news1.kr서울성모병원, “유방암 방사선치료가 ‘피부암’ 위험 높이진 않아”&nbsp;&nbsp;헤럴드경제\"유방암 방사선치료, 피부암 발생 위험 높이지 않아\"&nbsp;&nbsp;서울경제TV",
+      "summary": "서울성모병원, 유방암 수술 후 방사선치료 피부암 위험 연구 발표&nbsp;&nbsp;MEDI:GATE NEWS유방암 수술후 방사선 받으면 피부암?…한국인은 달랐다&nbsp;&nbsp;동아일보\"유방암 수술 후 방사선치료, 피부암 위험 높이지 않았다\"&nbsp;&nbsp;뉴스1서울성모병원, “유방암 방사선치료가 ‘피부암’ 위험 높이진 않아”&nbsp;&nbsp;헤럴드경제\"유방암 방사선치료, 피부암 발생 위험 높이지 않아\"&nbsp;&nbsp;sentv.co.kr",
       "sources": [
         {
           "name": "MEDI:GATE NEWS",
@@ -489,7 +477,7 @@
       "id": "1c03b156a067",
       "title": "알츠하이머 환자 망상·불안, 뇌에 쌓인 단백질 따라 달랐다 - 청년의사",
       "published": "2026-09-22T01:59:23+00:00",
-      "summary": "알츠하이머 환자 망상·불안, 뇌에 쌓인 단백질 따라 달랐다&nbsp;&nbsp;청년의사알츠하이머병 환자 뇌에 쌓이는 ‘이 단백질’··· 망상·공격성 등과 관련&nbsp;&nbsp;khan.co.kr같은 알츠하이머병인데 왜 다른 증상?…뇌 속 단백질에 단서 [건강한겨레]&nbsp;&nbsp;한겨레“누군가 나를 해치려 한다”…‘치매’ 행동·정신 증상, 뇌 속 단백질과 연관&nbsp;&nbsp;농민신문치매 환자 ‘망상·초조’ 왜 생길까?… 뇌 속 독성 단백질이 좌우&nbsp;&nbsp;nursenews.co.kr",
+      "summary": "알츠하이머 환자 망상·불안, 뇌에 쌓인 단백질 따라 달랐다&nbsp;&nbsp;청년의사알츠하이머병 환자 뇌에 쌓이는 ‘이 단백질’··· 망상·공격성 등과 관련&nbsp;&nbsp;경향신문같은 알츠하이머병인데 왜 다른 증상?…뇌 속 단백질에 단서 [건강한겨레]&nbsp;&nbsp;한겨레“누군가 나를 해치려 한다”…‘치매’ 행동·정신 증상, 뇌 속 단백질과 연관&nbsp;&nbsp;농민신문치매 환자 ‘망상·초조’ 왜 생길까?… 뇌 속 독성 단백질이 좌우&nbsp;&nbsp;간호사신문",
       "sources": [
         {
           "name": "청년의사",
@@ -522,30 +510,6 @@
       ]
     },
     {
-      "id": "bc7d7d419f61",
-      "title": "간암 SBRT 치료 기준 구체화···간기능 보존·치료 후 영상평가 중요성↑ - 메디칼업저버",
-      "published": "2026-09-21T20:58:22+00:00",
-      "summary": "간암 SBRT 치료 기준 구체화···간기능 보존·치료 후 영상평가 중요성↑&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3ZG9oX3RpREpLQldtSDJaYWhhY0VmRV9wMk14dWFlYmpqbktwTEFKV2JaUHdqeTdfOGpYaTQxWDY4aUlnRVkzRjdubV90b3c2SWl0SDNoY19oVjdyOThfNkpPUjhMSE9ZZW9j?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f69e58d89276",
-      "title": "양극성 우울증 치료서 입지 넓힌 라투다···저용량 효과·대사 이점 주목 - 메디칼업저버",
-      "published": "2026-09-21T20:55:06+00:00",
-      "summary": "양극성 우울증 치료서 입지 넓힌 라투다···저용량 효과·대사 이점 주목&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IMVhBRjFzT3o4d1duMFM5VFJ1MHViTDNkZmlwUGtvTC1sU0lkVlZNUDZBZTdhUV9YdkxNai1zdXJXT3dHdHpaaFY5S05QWHdvSExtaUlLeE5yckl2eTFZc1JHa0VZY05lOHFz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e42a1c67bf9d",
       "title": "세마글루티드, 쇠약 수치 상관없이 비만 심혈관 위험 낮춰 - 팜뉴스",
       "published": "2026-09-21T20:55:00+00:00",
@@ -558,74 +522,74 @@
       ]
     },
     {
-      "id": "55c0b6021b6c",
-      "title": "알츠하이머·파킨슨병 우울증서 항우울제 효과 한계···질환별 전략 필요 - 메디칼업저버",
-      "published": "2026-09-21T20:54:51+00:00",
-      "summary": "알츠하이머·파킨슨병 우울증서 항우울제 효과 한계···질환별 전략 필요&nbsp;&nbsp;메디칼업저버",
+      "id": "93a8004f55e3",
+      "title": "패스트푸드 즐기는 한국인…'이 질환' 위험 수준 - 미디어데일",
+      "published": "2026-09-21T05:43:16+00:00",
+      "summary": "패스트푸드 즐기는 한국인…'이 질환' 위험 수준&nbsp;&nbsp;미디어데일“한국은 염증성 장질환 환자 급증 넘어 누적 단계 진입”&nbsp;&nbsp;에너지경제신문“소장 60㎝ 잘라냈다” 윤종신도 30년째 투병…특히 2030서 급증한 ‘이 병’, 이유는? [헬시타임]&nbsp;&nbsp;서울경제중앙대병원 연구팀, 아시아 염증성 장질환 100년 데이터 분석&nbsp;&nbsp;sentv.co.kr아시아 덮친 염증성 장질환… 한국, '환자 폭증' 단계 진입했다&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2MEc0YWFqYnBicmlDWi1EaE9XS0FkVHctaUlxdk5FNGdjNjhSWndQel82QzFLcmZEUU9SM2ZXdk1wLTY2YmI1RkFJaG85dVBKdUVzVUpvMnd2NWpGY0UteUIwYVpWbS1Kei00?oc=5"
+          "name": "미디어데일",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIN0FTeHhUamxwM0tHb2NpU21pNTlER1BiZThqWmRVYlJLMWRBVEc1WHlQbERoa3E5V1IydTN2QnNBTGtqV2VPcDZKNUdJRWVRclk0dXc3Ri15TEFFUnlUYk1wbC1ENmxvWEVz?oc=5"
         }
       ]
     },
     {
-      "id": "4bc81d6b2fbe",
-      "title": "“건강식인 줄 알았는데…” 밥상 위 흔한 보존제, 고혈압·심혈관 질환 키운다 - 매일경제",
-      "published": "2026-09-21T01:47:08+00:00",
-      "summary": "“건강식인 줄 알았는데…” 밥상 위 흔한 보존제, 고혈압·심혈관 질환 키운다&nbsp;&nbsp;매일경제",
+      "id": "20e78c9efc07",
+      "title": "수면등도 건강 악영향? \"심장 내부 좁아지고 유연성↓ - science.ytn.co.kr",
+      "published": "2026-09-21T02:00:03+00:00",
+      "summary": "수면등도 건강 악영향? \"심장 내부 좁아지고 유연성↓&nbsp;&nbsp;science.ytn.co.kr불 끄고 자도 안심 못했다…밤 불빛 노출 많을수록 뇌졸중 위험 33%↑&nbsp;&nbsp;세계일보[TODAY인] 'AI를 보고 만지고 체험'…AI 시대, 과학관의 역할은?&nbsp;&nbsp;science.ytn.co.kr밤에 빛 많이 쬘수록 심장 약해진다?…심부전 위험 29% 증가&nbsp;&nbsp;하이닥수면 중 야간 조명 노출은 뇌졸중 위험을 33% 높이는 것과 관련이 있습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53U2lXSlRrVUhYVjVXM0pqTmdkZWlqVUJSR1UyM09ZY2wyTTdEWW1iYmZtVUtxdHowM2N2V09wX0xxYUh4dXNMZ3N2SGZ4QQ?oc=5"
+          "name": "science.ytn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11d3M3WHg0eVNHaThIdG1Xa2tGOVU0N1AxX3BoSzRpdHl1eHR4WkxFRFNNU01VUEZRTmpxVk4xVFRUZFR6TFV6cTlLLTZWM2FkUUw2bVc5bnp5Y0dKdnBvU3hJS0xfby1nYm52NklCMlNGS05CNk1zM255VzVRSmc?oc=5"
         }
       ]
     },
     {
-      "id": "6ab35916379a",
-      "title": "B형간염, 간수치 정상이어도 ‘바이러스량’ 높으면 치료해야 - 의학신문",
+      "id": "87685c48f1ae",
+      "title": "진씨커 ‘온코딥스캔’, 전국 88개 의료기관으로 확대… 제주에서도 검사 가능 - koreasprint.com",
+      "published": "2026-09-21T01:52:00+00:00",
+      "summary": "진씨커 ‘온코딥스캔’, 전국 88개 의료기관으로 확대… 제주에서도 검사 가능&nbsp;&nbsp;koreasprint.com피 한방울로 ‘최악의 암’ 잡는다…조기진단 확률이 무려&nbsp;&nbsp;v.daum.net췌장암 환자 70%에서 ‘이 증상’ 생기더니… 혈당에 어떤 변화가?&nbsp;&nbsp;코메디닷컴메이요클리닉, AI로 췌장암 발병 3년 전 위험도 예측 성공&nbsp;&nbsp;디지털포커스조용히 진행되는 ‘침묵의 암’ AI가 잡아낼까&nbsp;&nbsp;국민일보",
+      "sources": [
+        {
+          "name": "koreasprint.com",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QeEJDejNEMGEwd1NNaWw5VDZCZl9TLXNtYmFXOFl6Z0w0a1lwZWFHRjE1WUxyaDlYb0JwdGZuWTdwaU9JRlVWcUV0UjZIRTA4emtGa2JtRUw1V0Uxc0pVRE96LWNpZlB2SGxwT0xR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ac670883eef",
+      "title": "B형간염, 간수치 정상이어도 ‘바이러스량’ 높으면 치료해야 - bosa.co.kr",
       "published": "2026-09-21T01:17:53+00:00",
-      "summary": "B형간염, 간수치 정상이어도 ‘바이러스량’ 높으면 치료해야&nbsp;&nbsp;의학신문간수치 정상이면 간암 걱정 없다? '이것' 많은 사람은 올해부터 예외 - 머니투데이&nbsp;&nbsp;머니투데이수년간 아무런 증상이 없었던 간 질환이 갑자기 악화되었다.&nbsp;&nbsp;Vietnam.vnB형 간염 혈액 검사: 결과, 시기 및 다음 단계&nbsp;&nbsp;Kantesti AI Blood Test Analyzer한약 먹으려 B형간염 약 끊어도 될까? ‘간부전 사망’ 사례에 한의원 책임은…&nbsp;&nbsp;헬스조선",
+      "summary": "B형간염, 간수치 정상이어도 ‘바이러스량’ 높으면 치료해야&nbsp;&nbsp;bosa.co.kr\"간수치 정상이라 안심했는데\"…올해부턴 '이것' 많으면 치료 권고 - 머니투데이&nbsp;&nbsp;머니투데이수년간 아무런 증상이 없었던 간 질환이 갑자기 악화되었다.&nbsp;&nbsp;Vietnam.vnB형 간염 혈액 검사: 결과, 시기 및 다음 단계&nbsp;&nbsp;Kantesti AI Blood Test Analyzer한약 먹으려 B형간염 약 끊어도 될까? ‘간부전 사망’ 사례에 한의원 책임은…&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "의학신문",
+          "name": "bosa.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TTE1JM0RvY1FNdU1VT2dfbDhUdC0wb3hHNzFiak5Ma3VZdWV1M2gtRDlYTTBWR3BRNDR2TEhZYVUwSGFVWmpnTmsxSlY0Mi1aSnNPOHVOTmM3X2lVaGppNzFiR0FFX0NpTWc?oc=5"
         }
       ]
     },
     {
-      "id": "d645b63f838d",
-      "title": "염증성 장질환 100년 분석 “한국은 환자 급증 넘어 누적 단계 진입” - doctorstimes.com",
-      "published": "2026-09-21T00:45:34+00:00",
-      "summary": "염증성 장질환 100년 분석 “한국은 환자 급증 넘어 누적 단계 진입”&nbsp;&nbsp;doctorstimes.com“소장 60㎝ 잘라냈다” 윤종신도 30년째 투병…특히 2030서 급증한 ‘이 병’, 이유는? [헬시타임]&nbsp;&nbsp;서울경제아시아 덮친 염증성 장질환… 한국, '환자 폭증' 단계 진입했다&nbsp;&nbsp;하이닥염증성 장질환 100년 분석…“한국, 환자 급증 넘어 누적 단계 진입”&nbsp;&nbsp;후생신보염증성 장질환 100년 추적 … 한국, 환자 급증 넘어 ‘유병률 누적’ 단계 눈앞&nbsp;&nbsp;헬스오",
+      "id": "719518cb5713",
+      "title": "인간 뇌의 설계도가 열리자 드러난 새로운 역설…같은 DNA가 다른 정신을 만드는 이유 - 시사프리즘",
+      "published": "2026-09-20T23:24:00+00:00",
+      "summary": "인간 뇌의 설계도가 열리자 드러난 새로운 역설…같은 DNA가 다른 정신을 만드는 이유&nbsp;&nbsp;시사프리즘[표지로 읽는 과학] 수백만 인간 뇌세포로 그린 '뇌 지도'&nbsp;&nbsp;v.daum.net전전두엽 발달부터 노화까지…‘뇌의 일생’ 유전자지도로 본다&nbsp;&nbsp;서울신문유전자 지도는 알츠하이머병, 파킨슨병, 정신분열증에 대한 단서를 제공한다.&nbsp;&nbsp;Vietnam.vn미세단백질과 뇌 노화에서의 그 역할에 대한 획기적인 발견.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "doctorstimes.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wQllsM3hzb1dSaHRoRnRpVnRxaFRGMldPY1B5UDRtRVhzaHVfYjdLb053bTItbzhUXzBuQjg4amFYcVNXSXVtLU8yaUpfYmZWUHdLTlVjRFJybUFEUXZ6aDVRYm9lSVYzVDBSYllmQQ?oc=5"
+          "name": "시사프리즘",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlaGhhTkhTemxjOEItVXJ3VUQ0YWswelBLYlBqNnprMzlacW5YaHJ5Nk8zRGZ5RW0tNWRsdV9FV0E0bjc4b3ZwLURKZ1VuZVpFZHRHNEdlYnRCTExmZGFsWjlwMmxRaUdf?oc=5"
         }
       ]
     },
     {
-      "id": "552fd1b550b7",
-      "title": "“커피, 뜨거워야 제 맛이지\" 했는데…몇도 이상 올라가면 식도암 위험 높아진다? - 전자신문",
+      "id": "4b882cc4bc8a",
+      "title": "“커피, 뜨거워야 제 맛이지\" 했는데…몇도 이상 올라가면 식도암 위험 높아진다? - etnews.com",
       "published": "2026-09-20T21:00:00+00:00",
-      "summary": "“커피, 뜨거워야 제 맛이지\" 했는데…몇도 이상 올라가면 식도암 위험 높아진다?&nbsp;&nbsp;전자신문",
+      "summary": "“커피, 뜨거워야 제 맛이지\" 했는데…몇도 이상 올라가면 식도암 위험 높아진다?&nbsp;&nbsp;etnews.com",
       "sources": [
         {
-          "name": "전자신문",
+          "name": "etnews.com",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxVXlIYkZTRDlqeFZOSkpNMUtfb0dHZmxjdWZISVRxRGVUZ3A1X3JhaXEyY0ZfRHRUV3IzTzhUeGdreGZZanFiYWF1U0dUUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "105e34b5b692",
-      "title": "소셜미디어에서 찾지 마라… 중년의 건강한 도파민 출구 - 조선일보",
-      "published": "2026-09-20T18:00:00+00:00",
-      "summary": "소셜미디어에서 찾지 마라… 중년의 건강한 도파민 출구&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QbmMxS0tEdkNZc0tJdGQ1VXJ3VGFIaTVNdzd2RzgyUjRRM1ZwYTZ0Sk9DNmtmSmN6QUZaWVgtazZxV0VJanlwWnBlQS11NjhhVEpQNzMxbFhaZDVBSFplU1hRY2pkS2RiWVBEU0c0SjF6Yk9rVDI4NQ?oc=5"
         }
       ]
     },
@@ -645,7 +609,7 @@
       "id": "f239c6a8b784",
       "title": "유명 신혼여행지 피지, HIV 급속 확산에 결국 ‘국가 비상사태’ 선포 - 경기일보",
       "published": "2026-09-20T08:11:18+00:00",
-      "summary": "유명 신혼여행지 피지, HIV 급속 확산에 결국 ‘국가 비상사태’ 선포&nbsp;&nbsp;경기일보\"성인 60명 중 1명이 감염\"…결국 '국가비상사태' 선포한 나라&nbsp;&nbsp;한국경제“60명 중 1명 감염” 국가 비상사태 선언…HIV 비상 걸린 이 나라&nbsp;&nbsp;중앙일보신혼여행 성지에 ‘성매개감염병’ 비상 사태 선언⋯ 무슨 일?&nbsp;&nbsp;코메디닷컴성인 60명 중 1명이 HIV…‘남태평양의 천국’ 피지에 무슨 일이&nbsp;&nbsp;daily25news.com",
+      "summary": "유명 신혼여행지 피지, HIV 급속 확산에 결국 ‘국가 비상사태’ 선포&nbsp;&nbsp;경기일보\"성인 60명 중 1명이 감염\"…결국 '국가비상사태' 선포한 나라&nbsp;&nbsp;한국경제“60명 중 1명 감염” 국가 비상사태 선언…HIV 비상 걸린 이 나라&nbsp;&nbsp;중앙일보신혼여행 성지에 ‘성매개감염병’ 비상 사태 선언⋯ 무슨 일?&nbsp;&nbsp;코메디닷컴성인 60명 중 1명이 HIV…‘남태평양의 천국’ 피지에 무슨 일이&nbsp;&nbsp;데일리25",
       "sources": [
         {
           "name": "경기일보",
@@ -654,14 +618,26 @@
       ]
     },
     {
-      "id": "703e347d8596",
-      "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출 - AI타임스",
+      "id": "1f78345127e2",
+      "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출 - aitimes.com",
       "published": "2026-09-20T07:58:04+00:00",
-      "summary": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출&nbsp;&nbsp;AI타임스",
+      "summary": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출&nbsp;&nbsp;aitimes.com",
       "sources": [
         {
-          "name": "AI타임스",
+          "name": "aitimes.com",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aeEpQWF9pa0F1TWNIQzl6eF90aWFwS0hVM2QtSWN5MlVwUXZZTUlEOFBORU1VWTRlRXhjZFZEdC05ZHZSMFIySnVEMkxyaExnWFluVG43ZUFQYzI4cGxkZklCajhQSWExREE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61b0ea93a1e6",
+      "title": "대기업 병역특례 14년 만에 부활…삼성·LG 등 AI 연구소 9곳 첫 추천 - 지디넷코리아",
+      "published": "2026-09-20T02:33:37+00:00",
+      "summary": "대기업 병역특례 14년 만에 부활…삼성·LG 등 AI 연구소 9곳 첫 추천&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xWVFVN1AtQVFkbk5RSV9IUS1XTk9RMi05M012RnlETVBMRjBCTTVST1M2M1ZaVkw3Qk9PWVJhTEJpdjVjbnpBYkFwNWpWNFM0SWRtcmdR?oc=5"
         }
       ]
     },
@@ -674,6 +650,18 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMRWM5V3J0YmFPZEtkRHQ1OTVBTkZILW5QRGNQdTR3VFctekZwNGltcHN4RWJNSEZrYUgxVlZCZ1BhTjdXYnRnSzdZdmxyMXRGNEJUTDZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "29882a48a1f4",
+      "title": "흡수율 높다는 ‘알티지(rTG) 오메가3’, 심장에도 좋을까 - 헬스코리아뉴스",
+      "published": "2026-09-19T21:36:27+00:00",
+      "summary": "흡수율 높다는 ‘알티지(rTG) 오메가3’, 심장에도 좋을까&nbsp;&nbsp;헬스코리아뉴스추석은 ‘기름 음식’ 천국… 혈관 지킬 ‘기름’은 따로 있다&nbsp;&nbsp;v.daum.net“약 복용하다고 마음껏 먹었다간”…콜레스테롤 낮추려고 할 때 알아야 할 것들&nbsp;&nbsp;코메디닷컴\"콜레스테롤 높다고 고기·계란부터 끊지 마세요\"…박사가 말한 '진짜' 관리법&nbsp;&nbsp;뉴시스[의료칼럼] 혈관은 조용히 병든다&nbsp;&nbsp;v.daum.net",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EWUhOOHFlLUtPR0hzbmlRM3pUNEVjLTFSU0xFWHR6d210WVAtQnQxbWNLNmlzbnJobjJhNGZJQS1QNkN0RVhvX2hVUVdNd0MxR2Vfdm1GYTltSnZ4VGRfMnY3czJwTGM?oc=5"
         }
       ]
     },
