@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-09-26T20:47:50.450008+00:00",
-  "total_fetched": 118,
-  "unique_count": 117,
-  "health_related_count": 57,
+  "fetched_at": "2026-09-27T04:24:47.927931+00:00",
+  "total_fetched": 111,
+  "unique_count": 110,
+  "health_related_count": 55,
   "news": [
+    {
+      "id": "9dc849eeae2e",
+      "title": "알츠하이머병 ‘이상행동’ 원인 규명…타우·루이소체에 주목 - sports.khan.co.kr",
+      "published": "2026-09-27T03:36:00+00:00",
+      "summary": "알츠하이머병 ‘이상행동’ 원인 규명…타우·루이소체에 주목&nbsp;&nbsp;sports.khan.co.kr“누군가 나를 해치려 한다”…‘치매’ 행동·정신 증상, 뇌 속 단백질과 연관&nbsp;&nbsp;농민신문[김태열의 생생건강S펜] “망상·폭력적행동 심한 치매환자, 뇌 속 ‘이것’이 많아서”&nbsp;&nbsp;헤럴드경제일산백병원, 알츠하이머 이상행동 병리 연관 확인…망상 최대 5.5배&nbsp;&nbsp;메디파나뉴스치매 환자 ‘망상·초조’ 왜 생길까?… 뇌 속 독성 단백질이 좌우&nbsp;&nbsp;간호사신문",
+      "sources": [
+        {
+          "name": "sports.khan.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6X3NRS3ZPWHFfMnpfNjlVUHh1eEZEalg0b3pFeHlrc0VLZjlicUZCckZ0UVQ5SENaTnNRWTU0YUlrNG9oUlBOajhVUWRZVGFUUVZYcmJxeG1USkVXcVHSAWNBVV95cUxQdk05VEMyaU1IeWY0YWlibHNQcWNNTGlwVzVCR05BVVlGNERSUnEteXJjTGxKWW54a0czYWNBRE50UFBiYWNNWEw4NlZxay1OY3d2ZjV6VUp1b3FNSlZONFJ6Tnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0c8066f66a4c",
+      "title": "창원파티마병원 내분비대사내과 구대정 과장, 국제 SCI 학술지 연구 논문 게재 - 경남도민일보",
+      "published": "2026-09-27T02:49:11+00:00",
+      "summary": "창원파티마병원 내분비대사내과 구대정 과장, 국제 SCI 학술지 연구 논문 게재&nbsp;&nbsp;경남도민일보증상 없어 더 위험”...심장 전문의가 꼽은 ‘조용한 암살자’&nbsp;&nbsp;radiokorea.com당뇨병 환자, LDL-C 변동 폭 크고 목표 자주 벗어나면 심혈관 위험 ↑&nbsp;&nbsp;의약뉴스“평균값만 보지 마라”… 창원파티마병원, 콜레스테롤 누적 효과 규명&nbsp;&nbsp;간호사신문[동정]SCI 국제학술지에 논문 게재&nbsp;&nbsp;병원신문",
+      "sources": [
+        {
+          "name": "경남도민일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZUHBJanEwZ255X2FKdHcwVUZpdF9WeTA1OHBtRFE4Ul9SX2UxZlRyZzVpdk0zRUwya3gyU3Z3QVN5MEhXNkEtQjFQMEdJbUQ0UkNGTkNLclBBSHN0YkNPQkpaZk5zeHB3dlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b97260e2dd6d",
+      "title": "심장이 빨리 뛰고 잠들기 어려운 상태를 개선하는 4가지 방법 - Laodong.vn",
+      "published": "2026-09-27T02:30:00+00:00",
+      "summary": "심장이 빨리 뛰고 잠들기 어려운 상태를 개선하는 4가지 방법&nbsp;&nbsp;Laodong.vn‘잠이 보약’… 숙면 원한다면 ‘식물성 식품’ 늘려라&nbsp;&nbsp;미주한국일보11분의 기적… 잠 11분·운동 5분·채소 한 줌이 심장을 살린다&nbsp;&nbsp;seattlekdaily.com",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWUw1b3pXc01WdHhRNnRTU3FId1NYSXJaM1N3ZkRYVGVmcWhpbGVEbllPYjFPQXNCVnNHRjVDZDhHTlkzcm01WmxmU2ZfNHRFYndoc0xWNFltQmc4MmFNZGE5TU96TzF4Qlpvem9sblhHNVcxLUV0OTUzWEc0X3lDcl9mSkFtdEc2OGVGTFpKNVQ1OVZFY3ljTmhiNUVTZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd7340eb2363",
+      "title": "“피를 맑게 해준다”… 81세 선우용여가 건강에 좋다고 추천한 '이것' - wikitree.co.kr",
+      "published": "2026-09-26T23:00:00+00:00",
+      "summary": "“피를 맑게 해준다”… 81세 선우용여가 건강에 좋다고 추천한 '이것'&nbsp;&nbsp;wikitree.co.kr",
+      "sources": [
+        {
+          "name": "wikitree.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yMjlGdHFKSFJoNXV5SW52Vy1HVVJnSXl5V0locHZ1aTRRdUdmUnBTNUVXd25sWG9iWXBmcUYwRWp2RUJlWUttS0ZWMjlERURsaEdFR0J3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1cc810c8d986",
+      "title": "성관계 후 돌연 출혈…이런 암 증상 없어도 잡아내는 검사 정체 [가족 건강 챙기기] - 네이트",
+      "published": "2026-09-26T21:01:00+00:00",
+      "summary": "성관계 후 돌연 출혈…이런 암 증상 없어도 잡아내는 검사 정체 [가족 건강 챙기기]&nbsp;&nbsp;네이트Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ITFktR0l6eVJhLXFlU3k5NHFPa252VjEtOXU1Yk1yOGNfWW9ycDhabUY2a1pDZFVSa2k3YThmXzNRb3NVaVBTWWVVYzdxbFpOZC1lZjRvS25Kcmp5VFg2bg?oc=5"
+        }
+      ]
+    },
     {
       "id": "eeffe371f244",
       "title": "“암 충분히 막을 수 있다” 종양내과 의사가 꼭 지키는 5가지 - 헬스조선",
@@ -45,7 +105,7 @@
       "id": "63f7a3844de4",
       "title": "뼈 건강에는 근력운동이 최고?…골밀도 높이는 운동 살펴보니 - 코메디닷컴",
       "published": "2026-09-26T08:05:00+00:00",
-      "summary": "뼈 건강에는 근력운동이 최고?…골밀도 높이는 운동 살펴보니&nbsp;&nbsp;코메디닷컴60대 이후라면, 하루 1만 보보다 '이 숫자'가 더 중요하다&nbsp;&nbsp;v.daum.net“하루 5000보 못 걸어도 빠르게 걸으면 조기 사망 위험 낮아”&nbsp;&nbsp;위키트리걷기 운동: 노년층에게 또 다른 희소식입니다.&nbsp;&nbsp;Vietnam.vn\"80인데 잘 걸으시네\"...또래보다 '인지기능 저하' 위험 50% 낮다&nbsp;&nbsp;하이뉴스",
+      "summary": "뼈 건강에는 근력운동이 최고?…골밀도 높이는 운동 살펴보니&nbsp;&nbsp;코메디닷컴60대 이후라면, 하루 1만 보보다 '이 숫자'가 더 중요하다&nbsp;&nbsp;v.daum.net“하루 5000보 못 걸어도 빠르게 걸으면 조기 사망 위험 낮아”&nbsp;&nbsp;wikitree.co.kr걷기 운동: 노년층에게 또 다른 희소식입니다.&nbsp;&nbsp;Vietnam.vn\"80인데 잘 걸으시네\"...또래보다 '인지기능 저하' 위험 50% 낮다&nbsp;&nbsp;하이뉴스",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -54,14 +114,26 @@
       ]
     },
     {
-      "id": "4ecb2b70ee22",
-      "title": "12세 때 스마트폰 가진 아이, 2년 뒤 폭식 위험 67% 높았다 - 헬스코리아뉴스",
-      "published": "2026-09-26T07:32:31+00:00",
-      "summary": "12세 때 스마트폰 가진 아이, 2년 뒤 폭식 위험 67% 높았다&nbsp;&nbsp;헬스코리아뉴스",
+      "id": "a562af3579c4",
+      "title": "암 치료 끝났는데 운동 줄었다면? 치매 위험 46% 높아졌다…‘케모 브레인’과 신체활동의 관계 - jinju.news",
+      "published": "2026-09-26T08:00:05+00:00",
+      "summary": "암 치료 끝났는데 운동 줄었다면? 치매 위험 46% 높아졌다…‘케모 브레인’과 신체활동의 관계&nbsp;&nbsp;jinju.news",
       "sources": [
         {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LV194VDhxcHNuVzZrWF9ta21LbXg4MDZBSEROdWZlM1ZycmhXU2FLZ1JWYWNtTjlseVAxdkhlSlFBWTVLV2daejNKVzB0b0FEN3lLUUlLY203RDQxaEZmMFVzeVREMTA?oc=5"
+          "name": "jinju.news",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGVGZfLUthMVpEQlZEUXhJa1doYUVvWmdLYURObnRoazlndG05RklqR252Z0xVYlpaYTNTSklfa3hWZzZOcDNBT0d2VFJ2enNrTUNaUHRTMDNNclZvTFNSdFo2MGh6dzB0Z0Nzd25KQ1h0VjBVQ3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3edf758daa11",
+      "title": "12세 때 스마트폰 가진 아이, 2년 뒤 폭식 위험 67% 높았다 - 헬스케어N",
+      "published": "2026-09-26T07:55:35+00:00",
+      "summary": "12세 때 스마트폰 가진 아이, 2년 뒤 폭식 위험 67% 높았다&nbsp;&nbsp;헬스케어N",
+      "sources": [
+        {
+          "name": "헬스케어N",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PaTByc2xWMDBDVU1zOWw5eVBHQzAzQTBKMHpMR3owN3FDR1MzN0ZfcG02Qnh6ei1ZY1JqUFFoejRudEpqT1gzSXMwSC1KbkxoOG9tQk13UVRfOWhKS0NxeEFMdm52X1otXy03MzcxZEJwVXFi?oc=5"
         }
       ]
     },
@@ -90,22 +162,10 @@
       ]
     },
     {
-      "id": "245357ba14f7",
-      "title": "“머릿속에 뇌가 두 개였다고?”…수억 년 전 합쳐진 인간 뇌의 비밀 - 매일경제",
-      "published": "2026-09-26T04:53:35+00:00",
-      "summary": "“머릿속에 뇌가 두 개였다고?”…수억 년 전 합쳐진 인간 뇌의 비밀&nbsp;&nbsp;매일경제[표지로 읽는 과학] 수백만 인간 뇌세포로 그린 '뇌 지도'&nbsp;&nbsp;v.daum.net유전자 지도는 알츠하이머병, 파킨슨병, 정신분열증에 대한 단서를 제공한다.&nbsp;&nbsp;Vietnam.vn뇌는 두 기관이다, 하나가 아니다 — 6억 년 전 분리된 기원&nbsp;&nbsp;Martin Cid Magazine인간 뇌의 설계도가 열리자 드러난 새로운 역설…같은 DNA가 다른 정신을 만드는 이유&nbsp;&nbsp;시사프리즘",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IbjZNWG5uWmVEWGszbnFDdkhNVmVCZWhIMDJzSzVqczlaaXlUMEpaUUpKODZDM3hNemJZVnN6WWxDRDNuN3otdG5VVy1KZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fb228ac78a6e",
       "title": "하루 100g 더 먹을수록…초가공식품, ‘암 위험’ 4% 높게 나타나 - 동아일보",
       "published": "2026-09-26T04:20:43+00:00",
-      "summary": "하루 100g 더 먹을수록…초가공식품, ‘암 위험’ 4% 높게 나타나&nbsp;&nbsp;동아일보추석에도 많이 먹는 과자·음료·소시지…\"뇌졸중·암 위험 높인다\"[이런일이]&nbsp;&nbsp;v.daum.net하루 100g 더 먹을수록…초가공식품, '암 위험' 4% 높게 나타나&nbsp;&nbsp;뉴시스“매일 식탁에 올렸는데 암 걸린다고?”…100g 더 먹었다간 위험하다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제‘초가공식품’ 많이 먹을수록 심혈관질환·암·당뇨 위험↑&nbsp;&nbsp;segye.com",
+      "summary": "하루 100g 더 먹을수록…초가공식품, ‘암 위험’ 4% 높게 나타나&nbsp;&nbsp;동아일보추석에도 많이 먹는 과자·음료·소시지…\"뇌졸중·암 위험 높인다\"[이런일이]&nbsp;&nbsp;v.daum.net하루 100g 더 먹을수록…초가공식품, '암 위험' 4% 높게 나타나&nbsp;&nbsp;뉴시스“매일 식탁에 올렸는데 암 걸린다고?”…100g 더 먹었다간 위험하다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제‘초가공식품’ 많이 먹을수록 심혈관질환·암·당뇨 위험↑&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "동아일보",
@@ -114,38 +174,38 @@
       ]
     },
     {
-      "id": "17ab0a2d7f29",
-      "title": "매일 한 줌 먹었을 뿐인데… 60대 혈관질환 위험 40% 낮춘 ‘보약 음식’ - news-wa.com",
+      "id": "13a1d6cfba9d",
+      "title": "매일 한 줌 먹었을 뿐인데… 60대 혈관질환 위험 40% 낮춘 ‘보약 음식’ - 뉴스와",
       "published": "2026-09-26T03:43:00+00:00",
-      "summary": "매일 한 줌 먹었을 뿐인데… 60대 혈관질환 위험 40% 낮춘 ‘보약 음식’&nbsp;&nbsp;news-wa.com",
+      "summary": "매일 한 줌 먹었을 뿐인데… 60대 혈관질환 위험 40% 낮춘 ‘보약 음식’&nbsp;&nbsp;뉴스와",
       "sources": [
         {
-          "name": "news-wa.com",
+          "name": "뉴스와",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wRndHcmNtYS1UUWZPdG5RMTZHaGVVZzZaeXhBUXRpRkQ2Rklrci11ejFQblI5YVQ3ODJlN1BGQ2I0bmQ5N0lXMFZGYk1UMUttUmlNcHNKMlpmNHl1Q1FoYkx1YjR6Z1Z4MzI3WHhYaUFnaVl4QnhoVw?oc=5"
         }
       ]
     },
     {
-      "id": "dc14ae39c78f",
-      "title": "NASA 로버, 화성 분화구서 고대 지하수 흔적 발견 [우주로 간다] - 지디넷코리아",
+      "id": "c04185002dea",
+      "title": "NASA 로버, 화성 분화구서 고대 지하수 흔적 발견 [우주로 간다] - zdnet.co.kr",
       "published": "2026-09-26T00:00:03+00:00",
-      "summary": "NASA 로버, 화성 분화구서 고대 지하수 흔적 발견 [우주로 간다]&nbsp;&nbsp;지디넷코리아",
+      "summary": "NASA 로버, 화성 분화구서 고대 지하수 흔적 발견 [우주로 간다]&nbsp;&nbsp;zdnet.co.kr",
       "sources": [
         {
-          "name": "지디넷코리아",
+          "name": "zdnet.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ccng1aHIxczRnTVQ4SXJvMEtNaTc2ckFMc0daS1REdEhYdS1qWHVQZHAzbUpKeVFvVXFTb1IwVzBxSjh3MXUxSUFTTWRNb3U1M2daM1dn?oc=5"
         }
       ]
     },
     {
-      "id": "7d009e42f859",
-      "title": "돈 관리도 잘하는데, 자꾸 '깜빡깜빡'…전원주도 앓는 이 질환 뭐길래 - 네이트",
+      "id": "c11b1a9e72d2",
+      "title": "돈 관리도 잘하는데, 자꾸 '깜빡깜빡'...전원주도 앓는 이 질환 뭐길래 - supple.kr",
       "published": "2026-09-25T23:16:00+00:00",
-      "summary": "돈 관리도 잘하는데, 자꾸 '깜빡깜빡'…전원주도 앓는 이 질환 뭐길래&nbsp;&nbsp;네이트",
+      "summary": "돈 관리도 잘하는데, 자꾸 '깜빡깜빡'...전원주도 앓는 이 질환 뭐길래&nbsp;&nbsp;supple.kr",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIYU9UdDhXVVZMUVI2MkNnOU4xMFlaWjVpVWFvU2tqRUxrRHZ0eU0ybzZ2T2Mya2E3OC1PZW9SeUtRWi1DZlpBV0czbmpXY1NVZTJ4YkEybVFvNGNYd0xVcA?oc=5"
+          "name": "supple.kr",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80ZTZ1cl9QWDViWU5nM0pjWE5EWjBhdlUyTnlPNzhfRU9vSkdrWmU2VFNlWFptWDFIbjlYc0pYcmo0bDBSUDJXcW0zWk5VdUtJQnJXTFMwWnB5NmRR?oc=5"
         }
       ]
     },
@@ -222,6 +282,18 @@
       ]
     },
     {
+      "id": "6f328bf6aec0",
+      "title": "MIT, 대장암 간 전이 유발 YAP1 경로 규명…세라마이드 차단이 관건 - 바이오북미디어",
+      "published": "2026-09-25T06:03:47+00:00",
+      "summary": "MIT, 대장암 간 전이 유발 YAP1 경로 규명…세라마이드 차단이 관건&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QX1ZQYW9Scmpqc2Fzdm4zbzRFQWQ2OWhqbFpHaDNUMjM4TVFiVV9RUVM3V1lETWFOVTRmdTVlRmE4RDM4NGd1b1dUd0pIYnRfSmVNSA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "68a260334f0c",
       "title": "독감·코로나19 동시 유행 우려…중증 폐렴 범인은 ‘배신자 면역세포’ [달콤한 사이언스] - 서울신문",
       "published": "2026-09-25T05:00:00+00:00",
@@ -230,18 +302,6 @@
         {
           "name": "서울신문",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13a2tZbUpuWEdOQk1COFphMzhUUTlpYTlCT2VZUTBuY0VQSU9zQmtnX1pHVVBFMUJzTHlNRTBxVWFDNkJVRFRSUnZfeUFUeXEwNG0wVkVla0JOZGJ0dzRlSTNwajN6Rmp6M1dTek95QnR0aVd3UEtwUkNNZlMzdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "22187aa9ec2b",
-      "title": "‘잠이 보약’… 숙면 원한다면 ‘식물성 식품’ 늘려라 - 미주한국일보",
-      "published": "2026-09-25T03:00:00+00:00",
-      "summary": "‘잠이 보약’… 숙면 원한다면 ‘식물성 식품’ 늘려라&nbsp;&nbsp;미주한국일보",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xWFFOc0xSTERoOWtabHNxbTBIVjE3eXpZWENjeTlwa2JBbmZQdXpDU2NteXBLN3dkOXVpblNGR2xGYjhYVkotMmNiYlJMWl9ubW11aDVpTC1HQjRpUllr?oc=5"
         }
       ]
     },
@@ -270,14 +330,14 @@
       ]
     },
     {
-      "id": "eb8c715633fe",
-      "title": "다른 곳보다 치료 복잡하다…'침묵의 장기' 노리는 암 정체 [가족 건강 챙기기] - 네이트",
-      "published": "2026-09-24T21:01:00+00:00",
-      "summary": "다른 곳보다 치료 복잡하다…'침묵의 장기' 노리는 암 정체 [가족 건강 챙기기]&nbsp;&nbsp;네이트",
+      "id": "ecab2368dde1",
+      "title": "피 한방울로 ‘최악의 암’ 잡는다…조기진단 확률이 무려 - 매일경제",
+      "published": "2026-09-24T10:46:03+00:00",
+      "summary": "피 한방울로 ‘최악의 암’ 잡는다…조기진단 확률이 무려&nbsp;&nbsp;매일경제",
       "sources": [
         {
-          "name": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhUHgyWnVYTEZzcFBfYzdBelJYQU9JTFdFQUJPQ0ppUEN6REJiNDR2eTBhMXFSZUNnaU5TTWVIcS04Zk11VU9kdDFRZElYSHdfVDcxMkxn?oc=5"
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TQzBDMG1UbUpRM1ZYbk5BbklYTGdLMWtwUWl4cFNrdVlEMHRINzhsOW54ZzcxOGNlNzJ1Vlh4bjIzVF9PTEQyVHRIbHVLdw?oc=5"
         }
       ]
     },
@@ -294,26 +354,26 @@
       ]
     },
     {
-      "id": "7245b9f6489e",
-      "title": "제 2의 유전자 가위 발견?...앤트로픽 클로드, 새 효소 시스템 발견 - 지디넷코리아",
+      "id": "f2eddbc9cf0c",
+      "title": "제 2의 유전자 가위 발견?...앤트로픽 클로드, 새 효소 시스템 발견 - zdnet.co.kr",
       "published": "2026-09-23T23:50:41+00:00",
-      "summary": "제 2의 유전자 가위 발견?...앤트로픽 클로드, 새 효소 시스템 발견&nbsp;&nbsp;지디넷코리아",
+      "summary": "제 2의 유전자 가위 발견?...앤트로픽 클로드, 새 효소 시스템 발견&nbsp;&nbsp;zdnet.co.kr",
       "sources": [
         {
-          "name": "지디넷코리아",
+          "name": "zdnet.co.kr",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTMENFaG5Sb21DT0xiSS1Jekx3aWRmcWhPdXJHNGE2Ym5xd1pvYy12QTd3VGFjcjI0MWtpUXA1Ukx6X2FqaWdSalNkTWdSdWdHaXY5ZTNn?oc=5"
         }
       ]
     },
     {
-      "id": "374dd33c401c",
-      "title": "비씨월드제약, 이상지질혈증 복합제 ‘스타피노정’ 출시 - MEDI:GATE NEWS",
-      "published": "2026-09-23T07:35:00+00:00",
-      "summary": "비씨월드제약, 이상지질혈증 복합제 ‘스타피노정’ 출시&nbsp;&nbsp;MEDI:GATE NEWSGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "id": "d76bcb3c2276",
+      "title": "“긴 답변 대신 필요한 판단만”… 개발자들 열광한 ‘제브’ 뭐길래 - IT조선",
+      "published": "2026-09-23T21:00:00+00:00",
+      "summary": "“긴 답변 대신 필요한 판단만”… 개발자들 열광한 ‘제브’ 뭐길래&nbsp;&nbsp;IT조선",
       "sources": [
         {
-          "name": "MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxYWdiNGYzSUQ1ZUxzcDlUaGVJX1pGYUx5eHF2Sy1mQS11WkRCMFcxTXNZQ0ZpbVRmVldpWXdYWTEwcVdYX2ItUFFXbnBwMFZNRWc?oc=5"
+          "name": "IT조선",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96WGFlRlh2TFpkQWRWemZYOVhpWG9lU0JVUWpTdUJPNDVMSnVIekZJamM5d3pkMmJuM242LVdtRHhaSWVETEJENHNjUGctYlFVbkRUUTZ6RlhxOFB2NDRxTFZBcEhEdlQweTZ3dDJIU3HSAXRBVV95cUxORGtSMUs1X1lueHk4ZF9hM3gzajlWa2Z6U244ODBNMmVQX0lSY0hrWHhQbGdjejdRNmFxM000ZGRnZ3plR0E3ZDlrQzl4dWUzNUc2LXZGSUVqTGt2NVVwNkl3bWVCUXV0VmxWemxsTlZsLWIwTA?oc=5"
         }
       ]
     },
@@ -333,23 +393,11 @@
       "id": "22dd9babb33f",
       "title": "성균관대, 물속 초음파를 신경 신호로 바꾸는 인공 감각 소자 구현 - 로봇신문",
       "published": "2026-09-23T06:07:06+00:00",
-      "summary": "성균관대, 물속 초음파를 신경 신호로 바꾸는 인공 감각 소자 구현&nbsp;&nbsp;로봇신문성균관대 이내응 교수팀 돌고래 반향정위 본뜬 '늘어나는 인공 초음파 감각 시냅스' 구현.. '50% 늘려도 압전 성능 유지'&nbsp;&nbsp;veritas-a.com성균관대, 초음파 듣고 기억하는 ‘인공 신경’ 개발&nbsp;&nbsp;edaily.co.kr",
+      "summary": "성균관대, 물속 초음파를 신경 신호로 바꾸는 인공 감각 소자 구현&nbsp;&nbsp;로봇신문성균관대 이내응 교수팀 돌고래 반향정위 본뜬 '늘어나는 인공 초음파 감각 시냅스' 구현.. '50% 늘려도 압전 성능 유지'&nbsp;&nbsp;베리타스알파성균관대, 초음파 듣고 기억하는 ‘인공 신경’ 개발&nbsp;&nbsp;edaily.co.kr",
       "sources": [
         {
           "name": "로봇신문",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jeUdnWTRsazFzVklNVi1rbFF2NkQ0SVI4NHROWWZseHVWQm92QlBrY1N0YkpuZVI5dEZUV1I1b3pVOUZIUmRGNkNhZVhyN2NVNVJKNDRTOW1OOU9QMmNIdW1heC14aGM0WEJGSw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f464b323a064",
-      "title": "빛 알갱이 하나 밝기 10배 증폭…고속 양자암호통신 상용화 기반 - v.daum.net",
-      "published": "2026-09-23T04:02:08+00:00",
-      "summary": "빛 알갱이 하나 밝기 10배 증폭…고속 양자암호통신 상용화 기반&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wdTc4dmJYMFhzYUcwUXkzLVJvcVZpNTZTb1k2cG4zYnVuWGJRMlVKbHNlaEl3d3JhdjhrdDI3NGUzelptRHFoRzhzdjFXV28?oc=5"
         }
       ]
     },
@@ -362,6 +410,18 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNW44c284c3Z6T1JScmxzVTdnM1c4b0hQTXI0dXZSbFJlTndxQW5NY3NOTF9GLXl4dmlrNHJydF85dHV0OVFsU3pCaWtxalB2cnEtdWcyUGtsdzBzTVRwSk5PU0FoM0MyOWJXanZHRdIBZkFVX3lxTFBhM09OMHF1cnNsWHF6YWhVd0tReENwdUc5cVRpNDVESjRhQWxYeXlwR1I2NUZCNG9pVGRwZGlyS3BSZ2g3RnFlZTkyM0Q5WHpWanB6a2FTS09QLW5jMU5VeGN5S1BxQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5741066e94ec",
+      "title": "추석 밥상에서 주목할 음식 5가지... \"참깨에 이런 건강 효능이?\" - 하이닥",
+      "published": "2026-09-22T21:30:00+00:00",
+      "summary": "추석 밥상에서 주목할 음식 5가지... \"참깨에 이런 건강 효능이?\"&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sWUhmTl9IbWVZVVg0c3VjMTJZS2lzUTFTbUhVQ1BXQjhubUNJWmhSRHZwQ0NoX2ZNcVRmMU5GcFN5V21ueEstMzJPNlRlMGJqNFk3QVNfNFQ3cWhRSU9tNDFpdlR3QmhOeGc?oc=5"
         }
       ]
     },
@@ -426,18 +486,6 @@
       ]
     },
     {
-      "id": "fbf22f1d2016",
-      "title": "뇌를 안정시키는 `뉴로웰니스`…운동 후 회복이 중요한 이유[김태오의 피트니스웰] - 마이데일리",
-      "published": "2026-09-22T08:50:25+00:00",
-      "summary": "뇌를 안정시키는 `뉴로웰니스`…운동 후 회복이 중요한 이유[김태오의 피트니스웰]&nbsp;&nbsp;마이데일리\"하루 10시간 넘게 앉는 중년 여성, 이명 위험 29% 높아\"&nbsp;&nbsp;IT조선하루에 10시간 이상 앉아 있으면 심장 질환 위험이 높아집니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "마이데일리",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KRXJhemduaURNemlaeVg0Tm9nN0k2S1paLV8tVVB0ZzA5U19XVzdFdEs4RzVjSmZ0UlQ1aU1qRDhXR3U5T0VLMzdYaUwydFFycTZhUTZmXzFreTFRYkJyRURndWgtdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "df79d2ece5b6",
       "title": "독감 백신 접종했더니 심방세동 위험 20%↓…심혈관 질환 위험도 낮아졌다 - 하이닥",
       "published": "2026-09-22T08:00:00+00:00",
@@ -450,6 +498,18 @@
       ]
     },
     {
+      "id": "c938b988f6f7",
+      "title": "비씨월드제약, 이상지질혈증 복합제 '스타피노정' 출시...순환기 라인업 강화 - 팜뉴스",
+      "published": "2026-09-22T07:34:34+00:00",
+      "summary": "비씨월드제약, 이상지질혈증 복합제 '스타피노정' 출시...순환기 라인업 강화&nbsp;&nbsp;팜뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zaXJDelJCcWVUVFVad3VtMEc0TUQ3MWRGb0dfazJOVEpHeTJZbWRjUnJMdTFVNGVkS1duUjVpT3RVaS00ZnRjN21CbDY3bFdycDVLWXNYU3MyelF6MkJ1RzZsNklQZnQ2VEhuTg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2cb42095ebe1",
       "title": "암 말고… 담배 피우는 사람 얼굴에 나타나는 ‘의외의 변화’ - 헬스조선",
       "published": "2026-09-22T05:35:00+00:00",
@@ -458,18 +518,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12WWxKRW91aHFza0lMbVp5MngycU5sdFVBdWUxby1iRXZDcG56QXpiYkthS1VISVNXYV9oQjVZS3lmWXV0S3Buc05LQzJWSGdTRHVWUEoydEZ1NkQzOVhKX2gyV1c5RFZiT0VvZjQ5aWVqdms1OV91aC1pMFpHMFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "64b0cefc0f54",
-      "title": "韓 연구진, 누구나 연결 양자암호통신망 시뮬레이터 세계 첫 개발 - dongascience.com",
-      "published": "2026-09-22T05:13:00+00:00",
-      "summary": "韓 연구진, 누구나 연결 양자암호통신망 시뮬레이터 세계 첫 개발&nbsp;&nbsp;dongascience.com",
-      "sources": [
-        {
-          "name": "dongascience.com",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kdnNJVEtrejU3LXFRby1tWDFVQk5EQWdnR3E0dGsxdG9La194WThwY1pHQ0ZuMURtVFhWbzZJM20tTnlyczY5UUkxU1BXYjIyRG9XRA?oc=5"
         }
       ]
     },
@@ -498,13 +546,13 @@
       ]
     },
     {
-      "id": "33dbe8f86527",
-      "title": "은하, 미지의 ‘암흑 물질’로 탄생…‘중력 밀당’으로 아직 돌고 있다 - hani.co.kr",
+      "id": "b6da4cbda0e3",
+      "title": "은하, 미지의 ‘암흑 물질’로 탄생…‘중력 밀당’으로 아직 돌고 있다 - 한겨레",
       "published": "2026-09-22T02:28:00+00:00",
-      "summary": "은하, 미지의 ‘암흑 물질’로 탄생…‘중력 밀당’으로 아직 돌고 있다&nbsp;&nbsp;hani.co.kr",
+      "summary": "은하, 미지의 ‘암흑 물질’로 탄생…‘중력 밀당’으로 아직 돌고 있다&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "hani.co.kr",
+          "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PME9MNTBLN1gtYi1jYzZVMVB2bkZPVDNESlV5ZmdBNkJWM3p5OVNNTlJqLURNWFlBaVhibE9kTEIwTkl0c2x1ck5IVE5UV0VmWHY1WDFnTXdUM2U1RVEwZ0k3c1dNQUhsRHp3TzgxOTVkZw?oc=5"
         }
       ]
@@ -522,38 +570,26 @@
       ]
     },
     {
-      "id": "1c03b156a067",
-      "title": "알츠하이머 환자 망상·불안, 뇌에 쌓인 단백질 따라 달랐다 - 청년의사",
-      "published": "2026-09-22T01:59:23+00:00",
-      "summary": "알츠하이머 환자 망상·불안, 뇌에 쌓인 단백질 따라 달랐다&nbsp;&nbsp;청년의사알츠하이머병 환자 뇌에 쌓이는 ‘이 단백질’··· 망상·공격성 등과 관련&nbsp;&nbsp;경향신문같은 알츠하이머병인데 왜 다른 증상?…뇌 속 단백질에 단서 [건강한겨레]&nbsp;&nbsp;hani.co.kr“누군가 나를 해치려 한다”…‘치매’ 행동·정신 증상, 뇌 속 단백질과 연관&nbsp;&nbsp;농민신문치매 환자 ‘망상·초조’ 왜 생길까?… 뇌 속 독성 단백질이 좌우&nbsp;&nbsp;간호사신문",
+      "id": "5e6b1e1ccd4a",
+      "title": "[100세 과학] 살 빼려다 근육까지 손실, RNA 치료제로 막는다 - 조선비즈 - Chosunbiz",
+      "published": "2026-09-22T01:46:00+00:00",
+      "summary": "[100세 과학] 살 빼려다 근육까지 손실, RNA 치료제로 막는다 - 조선비즈&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
-          "name": "청년의사",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83QXctTmFhaVpPaEx4MGZuQUt3VmxRU0JKQWFvc2FOYnNEdHV6TEc4VGp6SW9LOGZQMTQtZEt3S3d1bmJYbndVRVJ1bl8yUl9nLTl6S0p5LVZROVE2UUNuVF92QXdtOEs3WHBqQXBvVdIBc0FVX3lxTFB3cWZVekswTVRfZGJWUTZYeGRZVFdYcDVrS1dJSFlFOFhqQjduSWxtUVBTYTJiTUp0bW81TWQ1WGQ0YzhFXzhoX284QlItcHVDczhsSW15UWFFRzRoUjFzMG9PUy1xSmR0ZS1paW1lX2dzb3c?oc=5"
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0h4Q0s5YzJ2RTdVazhXUVpDNlJiRXFMbnh2UWpPOU9NUHVoYmppSHQ5VGt6ZGxYWTlGalE1ck5MWnc4WTRGZ19IWWRmLS1qVUlFdXJrOUNwU0E5ZHh2b1d3MXZOVG1wQW1DeUVtMWtLOWxBZkd2QUFfN3dudEZUZzNRai0wUlFQOVFoNVFuenZyc2p2N1Vv0gGrAUFVX3lxTE5VQ19lYkRYWkR0WmJWM3k1MzFCV1FaZnM5Tk9oUzVteWNCUXJTWno1NUVKeWQ3VDNDUkU1cHZ6Tm1fVW5ETEQ2N2wzRE9aNXFPTjg5MVg1R1Vfa1pCXzBENElta09oWUNEamkxU1NQb2JxRkxfSUtzTEJfNmpDQmlJY2JyY19aMDNBYVFfMkM5dW8xTHMzZzlLTWZLS2VEdXM5aThxQTlkaTUxZw?oc=5"
         }
       ]
     },
     {
-      "id": "40db93429814",
-      "title": "“관절 통증 있다면 주목”… 무릎 건강에 좋은 음식 5가지 - 하이닥",
-      "published": "2026-09-21T22:00:00+00:00",
-      "summary": "“관절 통증 있다면 주목”… 무릎 건강에 좋은 음식 5가지&nbsp;&nbsp;하이닥",
+      "id": "4e45fe15fc21",
+      "title": "\"절망 않고, 받아들이기로\" 간·뇌 전이 폐암 3기를 이겨낸 비결 [아미랑] - 조선일보",
+      "published": "2026-09-22T00:02:00+00:00",
+      "summary": "\"절망 않고, 받아들이기로\" 간·뇌 전이 폐암 3기를 이겨낸 비결 [아미랑]&nbsp;&nbsp;조선일보",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wR1JqYWs4N1VJNHo0eXdFdFVRaVpyd1RZY3ZTenVYdzZzVUdTNHJ1MnZrOVd1dFVQUlZEZEF2NmRtSnRqSXVBMzNRLVFlaEJBSHRsM1ZMVW1oNHVHSW9IZGhJbXdKOEVfMGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc7d7d419f61",
-      "title": "간암 SBRT 치료 기준 구체화···간기능 보존·치료 후 영상평가 중요성↑ - 메디칼업저버",
-      "published": "2026-09-21T20:58:22+00:00",
-      "summary": "간암 SBRT 치료 기준 구체화···간기능 보존·치료 후 영상평가 중요성↑&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3ZG9oX3RpREpLQldtSDJaYWhhY0VmRV9wMk14dWFlYmpqbktwTEFKV2JaUHdqeTdfOGpYaTQxWDY4aUlnRVkzRjdubV90b3c2SWl0SDNoY19oVjdyOThfNkpPUjhMSE9ZZW9j?oc=5"
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWZRY0lrTTVGZnNnS2QxZUtaNG9WTTZXVHYya2o4TE5FNk1IV0J1VkhmYU8zUlZIMVdTUHhRN185NXpEMk01ODdkVUFqakduQXBWVGFoZzhvM3E1UlB3d0hLOHVmU0hNTmVFUnlRanV4OEFocWxCMmU5YnJQTVZSZjVuanBudlVQaUE?oc=5"
         }
       ]
     },
@@ -570,30 +606,6 @@
       ]
     },
     {
-      "id": "55c0b6021b6c",
-      "title": "알츠하이머·파킨슨병 우울증서 항우울제 효과 한계···질환별 전략 필요 - 메디칼업저버",
-      "published": "2026-09-21T20:54:51+00:00",
-      "summary": "알츠하이머·파킨슨병 우울증서 항우울제 효과 한계···질환별 전략 필요&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2MEc0YWFqYnBicmlDWi1EaE9XS0FkVHctaUlxdk5FNGdjNjhSWndQel82QzFLcmZEUU9SM2ZXdk1wLTY2YmI1RkFJaG85dVBKdUVzVUpvMnd2NWpGY0UteUIwYVpWbS1Kei00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ee9f79dafd65",
-      "title": "조용히 진행되는 ‘침묵의 암’ AI가 잡아낼까 - 국민일보",
-      "published": "2026-09-21T15:17:00+00:00",
-      "summary": "조용히 진행되는 ‘침묵의 암’ AI가 잡아낼까&nbsp;&nbsp;국민일보피 한방울로 ‘최악의 암’ 잡는다…조기진단 확률이 무려&nbsp;&nbsp;v.daum.net췌장암 환자 70%에서 ‘이 증상’ 생기더니… 혈당에 어떤 변화가?&nbsp;&nbsp;코메디닷컴메이요클리닉, AI로 췌장암 발병 3년 전 위험도 예측 성공&nbsp;&nbsp;디지털포커스",
-      "sources": [
-        {
-          "name": "국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrQVR6ckJrSUotYlh1VXJVOHV4TmxtVVZfbnVYT0NyQ21waVI0emNZV3kwNGtucy1RY29IWk90Sk9SeklKTm1PX2o5TXpuWmt3ZE5QenJ0cDh3blplSUxUbFUydGREYnfSAWxBVV95cUxNdEtoM2JZWWNONUFEM2F2eHU3VW9wcWMzVExzLU0zbnpOaTA5akJVeVVxSHJFc3RKQ0ZHc2NQcUVCTDY1WXVjS29tTGk2eXo4UDQxMGhrSk9DdkNBc2VlbXUxVzEyam5kZ1ctak4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "93a8004f55e3",
       "title": "패스트푸드 즐기는 한국인…'이 질환' 위험 수준 - 미디어데일",
       "published": "2026-09-21T05:43:16+00:00",
@@ -606,14 +618,14 @@
       ]
     },
     {
-      "id": "4bc81d6b2fbe",
-      "title": "“건강식인 줄 알았는데…” 밥상 위 흔한 보존제, 고혈압·심혈관 질환 키운다 - 매일경제",
-      "published": "2026-09-21T01:47:08+00:00",
-      "summary": "“건강식인 줄 알았는데…” 밥상 위 흔한 보존제, 고혈압·심혈관 질환 키운다&nbsp;&nbsp;매일경제",
+      "id": "7d50b5ae6bf1",
+      "title": "수면등도 건강 악영향? \"심장 내부 좁아지고 유연성↓ - YTN 사이언스",
+      "published": "2026-09-21T02:00:03+00:00",
+      "summary": "수면등도 건강 악영향? \"심장 내부 좁아지고 유연성↓&nbsp;&nbsp;YTN 사이언스불 끄고 자도 안심 못했다…밤 불빛 노출 많을수록 뇌졸중 위험 33%↑&nbsp;&nbsp;세계일보[TODAY인] 'AI를 보고 만지고 체험'…AI 시대, 과학관의 역할은?&nbsp;&nbsp;YTN 사이언스밤에 빛 많이 쬘수록 심장 약해진다?…심부전 위험 29% 증가&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53U2lXSlRrVUhYVjVXM0pqTmdkZWlqVUJSR1UyM09ZY2wyTTdEWW1iYmZtVUtxdHowM2N2V09wX0xxYUh4dXNMZ3N2SGZ4QQ?oc=5"
+          "name": "YTN 사이언스",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11d3M3WHg0eVNHaThIdG1Xa2tGOVU0N1AxX3BoSzRpdHl1eHR4WkxFRFNNU01VUEZRTmpxVk4xVFRUZFR6TFV6cTlLLTZWM2FkUUw2bVc5bnp5Y0dKdnBvU3hJS0xfby1nYm52NklCMlNGS05CNk1zM255VzVRSmc?oc=5"
         }
       ]
     },
@@ -621,7 +633,7 @@
       "id": "36a935e096f8",
       "title": "﻿‘독성물질’이 뇌 청소 돕는다…치매 치료 새 경로 규명 - 데일리메디",
       "published": "2026-09-20T21:15:37+00:00",
-      "summary": "﻿‘독성물질’이 뇌 청소 돕는다…치매 치료 새 경로 규명&nbsp;&nbsp;데일리메디뇌 면역 균형 회복을 통한 알츠하이머병 치료의 새로운 길 열었다&nbsp;&nbsp;BRIC'PD-L1' 억제했더니 알츠하이머 생쥐 뇌 면역 회복&nbsp;&nbsp;YTN 사이언스성균관대 “알츠하이머병, 면역 조절로 치료 가능성 제시”&nbsp;&nbsp;edaily.co.kr성균관대/연세대 공동연구팀 뇌 면역 스위치 조절해 알츠하이머병 치료 새 길 열었다.. 'PD-L1 억제로 뇌 청소세포 회복'&nbsp;&nbsp;veritas-a.com",
+      "summary": "﻿‘독성물질’이 뇌 청소 돕는다…치매 치료 새 경로 규명&nbsp;&nbsp;데일리메디뇌 면역 균형 회복을 통한 알츠하이머병 치료의 새로운 길 열었다&nbsp;&nbsp;BRIC'PD-L1' 억제했더니 알츠하이머 생쥐 뇌 면역 회복&nbsp;&nbsp;YTN 사이언스성균관대 “알츠하이머병, 면역 조절로 치료 가능성 제시”&nbsp;&nbsp;edaily.co.kr성균관대/연세대 공동연구팀 뇌 면역 스위치 조절해 알츠하이머병 치료 새 길 열었다.. 'PD-L1 억제로 뇌 청소세포 회복'&nbsp;&nbsp;베리타스알파",
       "sources": [
         {
           "name": "데일리메디",
@@ -630,62 +642,26 @@
       ]
     },
     {
-      "id": "4c65d6d4af01",
-      "title": "유명 신혼여행지 피지, HIV 급속 확산에 결국 ‘국가 비상사태’ 선포 - kyeonggi.com",
+      "id": "105e34b5b692",
+      "title": "소셜미디어에서 찾지 마라… 중년의 건강한 도파민 출구 - 조선일보",
+      "published": "2026-09-20T18:00:00+00:00",
+      "summary": "소셜미디어에서 찾지 마라… 중년의 건강한 도파민 출구&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QbmMxS0tEdkNZc0tJdGQ1VXJ3VGFIaTVNdzd2RzgyUjRRM1ZwYTZ0Sk9DNmtmSmN6QUZaWVgtazZxV0VJanlwWnBlQS11NjhhVEpQNzMxbFhaZDVBSFplU1hRY2pkS2RiWVBEU0c0SjF6Yk9rVDI4NQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f239c6a8b784",
+      "title": "유명 신혼여행지 피지, HIV 급속 확산에 결국 ‘국가 비상사태’ 선포 - 경기일보",
       "published": "2026-09-20T08:11:18+00:00",
-      "summary": "유명 신혼여행지 피지, HIV 급속 확산에 결국 ‘국가 비상사태’ 선포&nbsp;&nbsp;kyeonggi.com신혼여행 성지에 ‘성매개감염병’ 비상 사태 선언⋯ 무슨 일?&nbsp;&nbsp;코메디닷컴성인 60명 중 1명이 HIV…‘남태평양의 천국’ 피지에 무슨 일이&nbsp;&nbsp;데일리25",
+      "summary": "유명 신혼여행지 피지, HIV 급속 확산에 결국 ‘국가 비상사태’ 선포&nbsp;&nbsp;경기일보신혼여행 성지에 ‘성매개감염병’ 비상 사태 선언⋯ 무슨 일?&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "kyeonggi.com",
+          "name": "경기일보",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0azdvRndOSkctcllvT1lKYnNfdDhXMkx5emdYYUEwMkxYMzRDdjc0dG5IN0tEb3UzQ2VxcUlhd2wwWTJjcV9mbURpZ2EydWRUNDhoUkVPUi01NVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "703e347d8596",
-      "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출 - AI타임스",
-      "published": "2026-09-20T07:58:04+00:00",
-      "summary": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출&nbsp;&nbsp;AI타임스",
-      "sources": [
-        {
-          "name": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aeEpQWF9pa0F1TWNIQzl6eF90aWFwS0hVM2QtSWN5MlVwUXZZTUlEOFBORU1VWTRlRXhjZFZEdC05ZHZSMFIySnVEMkxyaExnWFluVG43ZUFQYzI4cGxkZklCajhQSWExREE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "61b0ea93a1e6",
-      "title": "대기업 병역특례 14년 만에 부활…삼성·LG 등 AI 연구소 9곳 첫 추천 - 지디넷코리아",
-      "published": "2026-09-20T02:33:37+00:00",
-      "summary": "대기업 병역특례 14년 만에 부활…삼성·LG 등 AI 연구소 9곳 첫 추천&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xWVFVN1AtQVFkbk5RSV9IUS1XTk9RMi05M012RnlETVBMRjBCTTVST1M2M1ZaVkw3Qk9PWVJhTEJpdjVjbnpBYkFwNWpWNFM0SWRtcmdR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "29882a48a1f4",
-      "title": "흡수율 높다는 ‘알티지(rTG) 오메가3’, 심장에도 좋을까 - 헬스코리아뉴스",
-      "published": "2026-09-19T21:36:27+00:00",
-      "summary": "흡수율 높다는 ‘알티지(rTG) 오메가3’, 심장에도 좋을까&nbsp;&nbsp;헬스코리아뉴스“약 복용하다고 마음껏 먹었다간”…콜레스테롤 낮추려고 할 때 알아야 할 것들&nbsp;&nbsp;코메디닷컴\"콜레스테롤 높다고 고기·계란부터 끊지 마세요\"…박사가 말한 '진짜' 관리법&nbsp;&nbsp;뉴시스[의료칼럼] 혈관은 조용히 병든다&nbsp;&nbsp;v.daum.net",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EWUhOOHFlLUtPR0hzbmlRM3pUNEVjLTFSU0xFWHR6d210WVAtQnQxbWNLNmlzbnJobjJhNGZJQS1QNkN0RVhvX2hVUVdNd0MxR2Vfdm1GYTltSnZ4VGRfMnY3czJwTGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9e84ec8fd06f",
-      "title": "수면등도 건강 악영향? \"심장 내부 좁아지고 유연성↓ - YTN",
-      "published": "2026-09-19T20:45:00+00:00",
-      "summary": "수면등도 건강 악영향? \"심장 내부 좁아지고 유연성↓&nbsp;&nbsp;YTN불 끄고 자도 안심 못했다…밤 불빛 노출 많을수록 뇌졸중 위험 33%↑&nbsp;&nbsp;segye.com[TODAY인] 'AI를 보고 만지고 체험'…AI 시대, 과학관의 역할은?&nbsp;&nbsp;YTN 사이언스밤에 빛 많이 쬘수록 심장 약해진다?…심부전 위험 29% 증가&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "YTN",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YOXhxS2ZycnZIbl83Y1A1NEU0S1NGX2hCVV9va2FJSXVuTGM0RzJ2YlZKLXBtMVJhRk9uU1AxWUdIbWltOVNwWGJONk5BcUpqcVYyVmxsWF9XR3c5cnc?oc=5"
         }
       ]
     }
