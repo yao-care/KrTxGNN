@@ -1,324 +1,205 @@
-"""韓國 MFDS (식품의약품안전처) 藥品資料收集器
+"""本國藥證收集器（NEW_COUNTRY_SOP Phase 5：collectors/{cc}fda.py）。
 
-從韓國 MFDS 의약품통합정보시스템 搜尋藥品相關資訊。
-資料來源: https://nedrug.mfds.go.kr/
+資料全部走 Phase 1 的標準產物，不寫死任何國家的檔名或欄位：
+- 本國藥證：data/loader.py 的 load_fda_drugs()（本站自己的 {cc}_fda_drugs.json）
+- 欄位對照：config/fields.yaml 的 field_mapping / withdrawn_statuses
+- 藥名 → DrugBank ID → 許可證：data/processed/drug_mapping.csv（Phase 1 對照結果）
+  與 data/external/drugbank_vocab.csv（英文藥名 → DrugBank ID）
+
+藥名對到 DrugBank ID 再回查許可證，所以本國藥證是日文、韓文、泰文也對得上。
+回傳格式與 TwTxGNN 的 TFDACollector 相同（found / records / total_matches / package_insert），
+drug_bundle.py 與 drug_evidence_pack.py 不需要改。
 """
 
+import csv
 import re
-from typing import Optional
-from urllib.parse import quote
-
-import requests
-from bs4 import BeautifulSoup
+import unicodedata
+from pathlib import Path
 
 from .base import BaseCollector, CollectorResult
 
+PROJECT_ROOT = Path(__file__).resolve().parents[3]
 
-class KrFDACollector(BaseCollector):
-    """韓國 MFDS 藥品資料收集器"""
+LICENSE_COLS = ("license_id", "承認番号", "許可證字號", "reg_no")
+INGREDIENT_COLS = ("normalized_ingredient", "標準化成分")
+SUCCESS_COLS = ("mapping_success", "映射成功")
 
-    source_name = "krfda"
-    base_url = "https://nedrug.mfds.go.kr"
 
-    def __init__(self, timeout: int = 30):
-        self.timeout = timeout
-        self.session = requests.Session()
-        self.session.headers.update({
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
-        })
+def _norm(text) -> str:
+    text = unicodedata.normalize("NFKD", str(text or "")).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", " ", text.lower()).strip()
 
-    def search(self, drug: str, disease: Optional[str] = None) -> CollectorResult:
-        """搜尋 MFDS 藥品資訊
 
-        Args:
-            drug: 藥品名稱（英文或韓文）
-            disease: 疾病名稱（可選）
+def _key(text) -> str:
+    """原文（保留非拉丁字母）去空白轉小寫，給日文／韓文等成分名比對用。"""
+    return re.sub(r"\s+", " ", str(text or "")).strip().lower()
 
-        Returns:
-            CollectorResult 包含搜尋結果
-        """
-        evidences = []
 
+# fields.yaml 缺檔或欄名與 loader 輸出不符時（Au/Ca/Dk/Hk/Uk/Za 的 loader 會正規化欄名），改用 loader 實際輸出的欄位
+COLUMN_ALIASES = {
+    "ingredients": ("ingredients", "Active_Ingredients", "Active_Substances", "active_substance", "short_composition1", "INGREDIENT"),
+    "brand_name_local": ("brand_name", "Product_Name", "name", "productName"),
+    "brand_name_en": ("brand_name", "Product_Name", "inn_name", "name"),
+    "license_id": ("license_id", "ARTG_ID", "License_Number", "PL_Number", "regno", "MPR_ID", "id"),
+    "indication": ("indication", "therapeutic_indication"),
+    "dosage_form": ("dosage_form", "Dosage_Form", "pack_size_label"),
+    "manufacturer": ("manufacturer", "Manufacturer", "holder_name", "manufacturer_name"),
+    "approval_date": ("approval_date",),
+    "status": ("status",),
+}
+
+
+def _load_config() -> dict:
+    from ..data import loader
+
+    fn = getattr(loader, "load_config", None) or getattr(loader, "load_field_config", None)
+    try:
+        return (fn() if fn else {}) or {}
+    except (FileNotFoundError, OSError):  # Dk/Za 沒有 config/fields.yaml
+        return {}
+
+
+class LocalFDACollector(BaseCollector):
+    """本國藥證查詢（讀 Phase 1 標準資料）。"""
+
+    source_name = "local_fda"
+
+    def __init__(self):
+        self._ready = False
+
+    def _prepare(self):
+        if self._ready:
+            return
+        from ..data.loader import load_fda_drugs
+
+        cfg = _load_config()
+        self.fm = dict(cfg.get("field_mapping") or {})
+        self.withdrawn = {str(s).strip().lower() for s in (cfg.get("withdrawn_statuses") or []) if str(s).strip()}
+
+        df = load_fda_drugs()
+        cols = set(df.columns)
+        for k, aliases in COLUMN_ALIASES.items():
+            if self.fm.get(k) not in cols:
+                self.fm[k] = next((a for a in aliases if a in cols), self.fm.get(k))
+        self.records = df.to_dict("records")
+        ing_field = self.fm.get("ingredients")
+        for rec in self.records:
+            rec["_ing_norm"] = " " + _norm(rec.get(ing_field, "")) + " " if ing_field else " "
+
+        # drug_mapping.csv：成分名 → DrugBank ID、DrugBank ID → 許可證
+        self.ing_to_db, self.db_to_lic = {}, {}
+        mp = PROJECT_ROOT / "data" / "processed" / "drug_mapping.csv"
+        with open(mp, encoding="utf-8-sig", newline="") as f:
+            reader = csv.DictReader(f)
+            cols = reader.fieldnames or []
+            lic_col = next((c for c in LICENSE_COLS if c in cols), None)
+            ing_col = next((c for c in INGREDIENT_COLS if c in cols), None)
+            ok_col = next((c for c in SUCCESS_COLS if c in cols), None)
+            for row in reader:
+                db = str(row.get("drugbank_id", "") or "").strip().upper()
+                if not db or (ok_col and str(row.get(ok_col)).strip().lower() not in ("true", "1", "yes")):
+                    continue
+                if ing_col:
+                    for k in {_norm(row[ing_col]), _key(row[ing_col])}:
+                        if k:
+                            self.ing_to_db.setdefault(k, set()).add(db)
+                if lic_col and row.get(lic_col):
+                    self.db_to_lic.setdefault(db, set()).add(str(row[lic_col]).strip())
+
+        # 以哪一欄對 drug_mapping 的許可證號：先用 fields.yaml 的 license_id；若重疊太少
+        # （例：Us 的 mapping 存 ProductNDC、fields.yaml 寫 ApplNo），改用重疊最多的欄位
+        sample = {lic for lics in self.db_to_lic.values() for lic in lics}
+        def overlap(col):
+            return sum(1 for r in self.records if str(r.get(col, "") or "").strip() in sample)
+        cols = [self.fm.get("license_id")] + [c for c in (self.records[0].keys() if self.records else []) if c != self.fm.get("license_id")]
+        best = max((c for c in cols if c), key=overlap, default=None)
+        self.join_col = self.fm.get("license_id") if best is None or overlap(self.fm.get("license_id") or "") >= 0.5 * overlap(best) else best
+        self.by_license = {}
+        for rec in self.records:
+            lic = str(rec.get(self.join_col, "") or "").strip()
+            if lic:
+                self.by_license.setdefault(lic, []).append(rec)
+
+        # drugbank_vocab.csv：英文藥名 → DrugBank ID
+        self.name_to_db = {}
+        vocab = PROJECT_ROOT / "data" / "external" / "drugbank_vocab.csv"
+        if vocab.exists():
+            with open(vocab, encoding="utf-8-sig", newline="") as f:
+                for row in csv.DictReader(f):
+                    self.name_to_db.setdefault(_norm(row.get("drug_name")), set()).add(str(row.get("drugbank_id", "")).upper())
+        self._ready = True
+
+    def _drugbank_ids(self, drug: str) -> set:
+        ids = set()
+        m = re.fullmatch(r"\s*(DB\d{5})\s*", str(drug or ""), re.I)
+        if m:
+            ids.add(m.group(1).upper())
+        for k in (_norm(drug), _key(drug)):
+            ids |= self.ing_to_db.get(k, set()) | self.name_to_db.get(k, set())
+        return ids
+
+    def _text_match(self, drug: str) -> list:
+        core = _norm(drug)
+        if len(core) < 4:
+            return []
+        if " " not in core and len(core) >= 6:
+            pat = re.compile(rf" {re.escape(core)}[a-z]{{0,3}} ")  # metformin → metformina / metformine
+            return [r for r in self.records if pat.search(r["_ing_norm"])]
+        return [r for r in self.records if f" {core} " in r["_ing_norm"]]
+
+    def _is_withdrawn(self, rec: dict) -> bool:
+        sf = self.fm.get("status")
+        if not sf or not self.withdrawn:
+            return False
+        val = str(rec.get(sf, "") or "").strip().lower()
+        return any(w and w in val for w in self.withdrawn)
+
+    def search(self, drug: str, disease: str | None = None, drugbank_id: str | None = None) -> CollectorResult:
+        query = {"drug": drug, "disease": disease}
         try:
-            # 搜尋 MFDS 藥品資料庫
-            search_results = self._search_mfds(drug)
-            evidences.extend(search_results)
+            self._prepare()
+            ids = self._drugbank_ids(drug)
+            if drugbank_id:
+                ids.add(str(drugbank_id).upper())
+            recs = []
+            for db in ids:
+                for lic in self.db_to_lic.get(db, ()):
+                    recs.extend(self.by_license.get(lic, []))
+            if not recs:
+                # Phase 1 對照沒對上的成分（例：重音字未正規化）→ 退回比對本國藥證的成分欄
+                recs = self._text_match(drug)
+            active = [r for r in recs if not self._is_withdrawn(r)]
+            return self._make_result(query=query, data=self._format(active, ids), success=True)
+        except Exception as e:  # noqa: BLE001 — 與其他 collector 一致：失敗時回 not found 並帶錯誤
+            return self._make_result(query=query, data={"found": False, "records": []}, success=False, error_message=str(e))
 
-            # 如果有疾病參數，進行適應症匹配
-            if disease:
-                evidences = self._filter_by_indication(evidences, disease)
-
-        except Exception as e:
-            return CollectorResult(
-                source=self.source_name,
-                query=f"{drug} {disease}" if disease else drug,
-                evidences=[],
-                error=str(e)
-            )
-
-        return CollectorResult(
-            source=self.source_name,
-            query=f"{drug} {disease}" if disease else drug,
-            evidences=evidences
-        )
-
-    def _search_mfds(self, drug: str) -> list[Evidence]:
-        """搜尋 MFDS 藥品資料庫"""
-        evidences = []
-
-        # MFDS 搜尋 API 端點
-        search_url = f"{self.base_url}/pbp/CCBBB01/getItemList"
-
-        try:
-            # 嘗試使用 MFDS 公開 API
-            params = {
-                "itemName": drug,
-                "pageNo": 1,
-                "numOfRows": 10
+    def _format(self, records: list, ids: set) -> dict:
+        if not records:
+            return {"found": False, "records": [], "drugbank_ids": sorted(ids)}
+        # 單一成分產品排前面（報告只取前幾筆許可證），複方排後面
+        ing_f = self.fm.get("ingredients")
+        records = sorted(records, key=lambda r: len(re.split(r"[,;+/&]|&&| and | y | e | und | et ", str(r.get(ing_f, "") or ""))) if ing_f else 0)
+        g = lambda r, k: str(r.get(self.fm.get(k) or "", "") or "").strip() if self.fm.get(k) else ""  # noqa: E731
+        out = [
+            {
+                "license_id": g(r, "license_id"),
+                "brand_name_zh": g(r, "brand_name_local"),
+                "brand_name_en": g(r, "brand_name_en"),
+                "ingredients": g(r, "ingredients"),
+                "indication": g(r, "indication"),
+                "dosage_form": g(r, "dosage_form"),
+                "manufacturer": g(r, "manufacturer"),
+                "license_holder": g(r, "manufacturer"),
+                "approval_date": g(r, "approval_date"),
+                "expiry_date": "",
+                "status": g(r, "status"),
             }
-
-            response = self.session.get(
-                search_url,
-                params=params,
-                timeout=self.timeout
-            )
-
-            if response.status_code == 200:
-                # 解析回應（可能是 JSON 或 XML）
-                try:
-                    data = response.json()
-                    items = data.get("body", {}).get("items", [])
-                    for item in items[:5]:
-                        evidence = self._parse_mfds_item(item)
-                        if evidence:
-                            evidences.append(evidence)
-                except:
-                    # 嘗試解析為 HTML
-                    evidences.extend(self._parse_html_results(response.text, drug))
-
-        except requests.RequestException:
-            # 如果 API 失敗，嘗試網頁搜尋
-            evidences.extend(self._web_search(drug))
-
-        return evidences
-
-    def _parse_mfds_item(self, item: dict) -> Optional[Evidence]:
-        """解析 MFDS API 回應項目"""
-        try:
-            item_name = item.get("ITEM_NAME", "")
-            item_seq = item.get("ITEM_SEQ", "")
-            entp_name = item.get("ENTP_NAME", "")
-            efcy_qesitm = item.get("EFCY_QESITM", "")  # 效能效果
-
-            if not item_name:
-                return None
-
-            url = f"{self.base_url}/pbp/CCBBB01/getItemDetail?itemSeq={item_seq}"
-
-            return Evidence(
-                source=self.source_name,
-                title=f"{item_name} ({entp_name})",
-                url=url,
-                snippet=efcy_qesitm[:300] if efcy_qesitm else "MFDS 허가 의약품",
-                date=item.get("ITEM_PERMIT_DATE", ""),
-                metadata={
-                    "item_seq": item_seq,
-                    "manufacturer": entp_name,
-                    "indication": efcy_qesitm,
-                }
-            )
-        except Exception:
-            return None
-
-    def _parse_html_results(self, html: str, drug: str) -> list[Evidence]:
-        """解析 HTML 搜尋結果"""
-        evidences = []
-
-        try:
-            soup = BeautifulSoup(html, "lxml")
-
-            # 尋找搜尋結果列表
-            results = soup.select(".search-result-item, .drug-item, tr[data-item]")
-
-            for result in results[:5]:
-                try:
-                    # 提取標題和連結
-                    title_elem = result.select_one("a, .item-name, td:first-child")
-                    if not title_elem:
-                        continue
-
-                    title = title_elem.get_text(strip=True)
-                    href = title_elem.get("href", "")
-                    url = href if href.startswith("http") else f"{self.base_url}{href}"
-
-                    # 提取摘要
-                    snippet_elem = result.select_one(".description, .efcy, td:nth-child(3)")
-                    snippet = snippet_elem.get_text(strip=True)[:300] if snippet_elem else ""
-
-                    evidences.append(Evidence(
-                        source=self.source_name,
-                        title=title,
-                        url=url,
-                        snippet=snippet or f"MFDS 의약품 정보: {title}",
-                    ))
-                except Exception:
-                    continue
-
-        except Exception:
-            pass
-
-        return evidences
-
-    def _web_search(self, drug: str) -> list[Evidence]:
-        """網頁搜尋備用方案"""
-        evidences = []
-
-        # 建立搜尋 URL
-        encoded_drug = quote(drug)
-        search_url = f"{self.base_url}/searchDrug?searchKeyword={encoded_drug}"
-
-        # 返回一個指向搜尋頁面的證據
-        evidences.append(Evidence(
-            source=self.source_name,
-            title=f"MFDS 의약품 검색: {drug}",
-            url=search_url,
-            snippet=f"한국 식품의약품안전처 의약품통합정보시스템에서 '{drug}' 검색",
-        ))
-
-        return evidences
-
-    def _filter_by_indication(
-        self,
-        evidences: list[Evidence],
-        disease: str
-    ) -> list[Evidence]:
-        """依據適應症過濾結果"""
-        disease_lower = disease.lower()
-
-        filtered = []
-        for ev in evidences:
-            # 檢查適應症是否包含疾病關鍵字
-            indication = ev.metadata.get("indication", "") if ev.metadata else ""
-            snippet = ev.snippet or ""
-
-            if disease_lower in indication.lower() or disease_lower in snippet.lower():
-                ev.relevance_score = 1.0
-                filtered.append(ev)
-            elif any(kw in indication.lower() or kw in snippet.lower()
-                     for kw in disease_lower.split()):
-                ev.relevance_score = 0.7
-                filtered.append(ev)
-
-        # 如果沒有匹配，返回原始結果
-        return filtered if filtered else evidences
-
-
-# CRIS (韓國臨床試驗註冊) 收集器
-class CRISCollector(BaseCollector):
-    """韓國臨床試驗資訊服務 (CRIS) 收集器
-
-    Clinical Research Information Service
-    https://cris.nih.go.kr/
-    """
-
-    source_name = "cris"
-    base_url = "https://cris.nih.go.kr"
-
-    def __init__(self, timeout: int = 30):
-        self.timeout = timeout
-        self.session = requests.Session()
-        self.session.headers.update({
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        })
-
-    def search(self, drug: str, disease: Optional[str] = None) -> CollectorResult:
-        """搜尋 CRIS 臨床試驗
-
-        Args:
-            drug: 藥品名稱
-            disease: 疾病名稱（可選）
-
-        Returns:
-            CollectorResult 包含搜尋結果
-        """
-        evidences = []
-        query = f"{drug} {disease}" if disease else drug
-
-        try:
-            # 建立搜尋 URL
-            encoded_query = quote(query)
-            search_url = f"{self.base_url}/cris/search/search.do?searchTerm={encoded_query}"
-
-            # 添加指向搜尋頁面的證據
-            evidences.append(Evidence(
-                source=self.source_name,
-                title=f"CRIS 임상시험 검색: {query}",
-                url=search_url,
-                snippet=f"한국 임상시험정보서비스에서 '{query}' 관련 임상시험 검색",
-            ))
-
-            # 嘗試獲取實際搜尋結果
-            response = self.session.get(search_url, timeout=self.timeout)
-            if response.status_code == 200:
-                additional = self._parse_cris_results(response.text, query)
-                evidences.extend(additional)
-
-        except Exception as e:
-            return CollectorResult(
-                source=self.source_name,
-                query=query,
-                evidences=[],
-                error=str(e)
-            )
-
-        return CollectorResult(
-            source=self.source_name,
-            query=query,
-            evidences=evidences
-        )
-
-    def _parse_cris_results(self, html: str, query: str) -> list[Evidence]:
-        """解析 CRIS 搜尋結果"""
-        evidences = []
-
-        try:
-            soup = BeautifulSoup(html, "lxml")
-            results = soup.select(".search-result, .trial-item, tr.data-row")
-
-            for result in results[:5]:
-                try:
-                    title_elem = result.select_one("a, .trial-title")
-                    if not title_elem:
-                        continue
-
-                    title = title_elem.get_text(strip=True)
-                    href = title_elem.get("href", "")
-                    url = href if href.startswith("http") else f"{self.base_url}{href}"
-
-                    # 提取試驗狀態和階段
-                    status_elem = result.select_one(".status, .trial-status")
-                    status = status_elem.get_text(strip=True) if status_elem else ""
-
-                    phase_elem = result.select_one(".phase, .trial-phase")
-                    phase = phase_elem.get_text(strip=True) if phase_elem else ""
-
-                    snippet = f"{status} {phase}".strip() or f"CRIS 임상시험: {title}"
-
-                    evidences.append(Evidence(
-                        source=self.source_name,
-                        title=title,
-                        url=url,
-                        snippet=snippet,
-                        metadata={
-                            "status": status,
-                            "phase": phase,
-                        }
-                    ))
-                except Exception:
-                    continue
-
-        except Exception:
-            pass
-
-        return evidences
+            for r in records[:20]
+        ]
+        return {
+            "found": True,
+            "records": out,
+            "total_matches": len(records),
+            "drugbank_ids": sorted(ids),
+            "package_insert": {"warnings": [], "contraindications": [], "dosage": "", "special_populations": []},
+        }
