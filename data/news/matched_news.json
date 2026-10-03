@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-03T11:18:17.503149+00:00",
-  "total_count": 60,
+  "last_updated": "2026-10-03T15:55:59.790852+00:00",
+  "total_count": 61,
   "matched_count": 0,
   "news": [
+    {
+      "id": "e5a11f458706",
+      "title": "잠 못 이루는 밤 반복되면…뇌·정신 건강에도 ‘빨간불’",
+      "published": "2026-10-03T10:43:00+00:00",
+      "summary": "잠 못 이루는 밤 반복되면…뇌·정신 건강에도 ‘빨간불’&nbsp;&nbsp;농민신문불면증 있으면 뇌졸중 위험 26% 높아…치매-우울증과도 연관 [건강팩트체크]&nbsp;&nbsp;동아일보[건강포커스] “불면증 있으면 뇌졸중 위험 26% 높아…치매·우울증과도 연관”&nbsp;&nbsp;미주한국일보“잠이 보약” 과학적 근거 찾았다…불면증, 뇌졸중 위험 26%↑[달콤한 사이언스]&nbsp;&nbsp;서울신문어제도 못 잤다… ‘뇌졸중’ 어쩌나&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PX2lPWFRRNW9NRTdfcTRPLUJ2dU1NcWZWal9oaVNyRnpuX3dISDVZVnUteHotaUV6NkNuM3lNTWpvU1ZtcVVURlN6QlhpNlNrMlRsMXZLUkYyUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "579492d56c58",
       "title": "30대부터 시작되는 노화 대비, 여성이 꼭 챙겨야 할 건강 음식 8선",
@@ -46,7 +59,7 @@
       "id": "0cc96de66c93",
       "title": "[의료영상 AI 국가 인프라 ⑤] 뇌졸중 AI, 영상 분석을 치료와 환자 회복으로 연결한다 - Korea IT Times",
       "published": "2026-10-02T22:31:00+00:00",
-      "summary": "[의료영상 AI 국가 인프라 ⑤] 뇌졸중 AI, 영상 분석을 치료와 환자 회복으로 연결한다&nbsp;&nbsp;Korea IT Times'명의' 박익성 교수의 뇌졸중 치료법&nbsp;&nbsp;v.daum.net제이엘케이, 뇌졸중 환자 2만명 영상 DB 구축…국제학술지 게재&nbsp;&nbsp;뉴스1잠든 사이 찾아온 뇌졸중...AI가 찾아낸 '살릴 수 있는 뇌'의 비밀은? [명의]&nbsp;&nbsp;아이뉴스24[명의] 고지혈증 전단계도 위험하다, 젊은 나이에도 찾아오는 뇌졸중&nbsp;&nbsp;Queen 이코노미퀸",
+      "summary": "[의료영상 AI 국가 인프라 ⑤] 뇌졸중 AI, 영상 분석을 치료와 환자 회복으로 연결한다&nbsp;&nbsp;Korea IT Times'명의' 박익성 교수의 뇌졸중 치료법&nbsp;&nbsp;v.daum.net제이엘케이, 뇌졸중 환자 2만명 영상 DB 구축…국제학술지 게재&nbsp;&nbsp;news1.kr잠든 사이 찾아온 뇌졸중...AI가 찾아낸 '살릴 수 있는 뇌'의 비밀은? [명의]&nbsp;&nbsp;아이뉴스24[명의] 고지혈증 전단계도 위험하다, 젊은 나이에도 찾아오는 뇌졸중&nbsp;&nbsp;Queen 이코노미퀸",
       "sources": [
         {
           "name": "Korea IT Times",
@@ -98,7 +111,7 @@
       "id": "a8f3d5f7d940",
       "title": "뇌 MRI로 본 ‘뇌 나이’, 어떤 질환에서 더 빠르게 노화했나? - VOA 한국어 홈페이지",
       "published": "2026-10-02T17:50:21+00:00",
-      "summary": "뇌 MRI로 본 ‘뇌 나이’, 어떤 질환에서 더 빠르게 노화했나?&nbsp;&nbsp;VOA 한국어 홈페이지60대 이후 급격히 늙는 인간 뇌…전전두엽 생애 지도 첫 완성&nbsp;&nbsp;DongA Science장수 과학 연구에 따르면 심장, 뇌, 간은 각기 다른 속도로 노화될 수 있다는 사실이 밝혀졌습니다.&nbsp;&nbsp;Vietnam.vn인간의 뇌는 24세와 60세에 두 번의 주요 변화를 겪습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "뇌 MRI로 본 ‘뇌 나이’, 어떤 질환에서 더 빠르게 노화했나?&nbsp;&nbsp;VOA 한국어 홈페이지",
       "sources": [
         {
           "name": "VOA 한국어 홈페이지",
@@ -108,27 +121,14 @@
       "matched_keywords": []
     },
     {
-      "id": "95e09391fa30",
+      "id": "f4119cf043a4",
       "title": "고혈압, 관절염 악화시킨다…‘혈압 호르몬’이 연골 보호 신호 꺼",
       "published": "2026-10-02T13:12:00+00:00",
-      "summary": "고혈압, 관절염 악화시킨다…‘혈압 호르몬’이 연골 보호 신호 꺼&nbsp;&nbsp;hani.co.kr",
+      "summary": "고혈압, 관절염 악화시킨다…‘혈압 호르몬’이 연골 보호 신호 꺼&nbsp;&nbsp;한겨레",
       "sources": [
         {
-          "name": "hani.co.kr",
+          "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FMVkyM01jMFlZNHhPbTJRR09TVzdOYW1RdzRkNHROcU8xWkVEYmZFNFkwWjlQcksxNXI5N1JSUjhyLXl4US1JZzdFdDJ5MGh4YWhjR0dPZGZPdkhCWGpTNV9NdDBFa1ZmbmlheGpFbGYxQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "33710f5b7aee",
-      "title": "히틀러가 원자폭탄 못 만든 진짜 이유…나치 독일 원자로, 80여 년 만에 다시 계산했더니 ‘재료 부족’ [후암동 논문 연구소]",
-      "published": "2026-10-02T11:10:00+00:00",
-      "summary": "히틀러가 원자폭탄 못 만든 진짜 이유…나치 독일 원자로, 80여 년 만에 다시 계산했더니 ‘재료 부족’ [후암동 논문 연구소]&nbsp;&nbsp;헤럴드경제",
-      "sources": [
-        {
-          "name": "헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MeUNTY0k1ZlB0ZEVxdWtKU1RjOU9BNDdCeFVTWkhraFZhQlZLM3pEUlJocGxfVi1yTTFxZHlsUXFuSnZncU9kRGFDc1ZqaXV5ejFaTWlPQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -163,7 +163,7 @@
       "id": "e2f856800b4b",
       "title": "소리 없이 찾아오는 담도암…수술 후에도 재발 잦은 이유는?",
       "published": "2026-10-02T08:00:00+00:00",
-      "summary": "소리 없이 찾아오는 담도암…수술 후에도 재발 잦은 이유는?&nbsp;&nbsp;매경헬스분당서울대병원, 담도암 발생부터 재발·전이 '유전체 진화 경로' 규명&nbsp;&nbsp;헬스미디어뉴스수술로 떼어냈는데 왜 또? 담도암 재발의 비밀은 '무리' [헬스체크]&nbsp;&nbsp;파이낸셜뉴스[암 잔화경로 밝혀] 분당서울대병원 연구팀 담도암 발생부터 재발·전이까지, ‘암 진화 경로’ 규명&nbsp;&nbsp;서울뉴스통신분당서울대병원 연구팀, 담도암 발생·재발·전이 ‘진화 경로’ 규명&nbsp;&nbsp;에너지경제신문",
+      "summary": "소리 없이 찾아오는 담도암…수술 후에도 재발 잦은 이유는?&nbsp;&nbsp;매경헬스분당서울대병원, 담도암 발생부터 재발·전이 '유전체 진화 경로' 규명&nbsp;&nbsp;헬스미디어뉴스수술로 떼어냈는데 왜 또? 담도암 재발의 비밀은 '무리' [헬스체크]&nbsp;&nbsp;fnnews.com[암 잔화경로 밝혀] 분당서울대병원 연구팀 담도암 발생부터 재발·전이까지, ‘암 진화 경로’ 규명&nbsp;&nbsp;서울뉴스통신분당서울대병원 연구팀, 담도암 발생·재발·전이 ‘진화 경로’ 규명&nbsp;&nbsp;에너지경제신문",
       "sources": [
         {
           "name": "매경헬스",
@@ -202,24 +202,11 @@
       "id": "b3548def3187",
       "title": "기억력 저하도 노화 탓?… 치매 진행 늦출 기회 놓친다",
       "published": "2026-10-02T06:40:12+00:00",
-      "summary": "기억력 저하도 노화 탓?… 치매 진행 늦출 기회 놓친다&nbsp;&nbsp;백세시대치매, 늦기 전에 막는다…뇌 건강 지키는 '3다3불'&nbsp;&nbsp;매경헬스“50세 넘고 이 음식 끊었다” 치매 명의 꼭 지키는 뇌 건강법&nbsp;&nbsp;중앙일보건망증과 치매 사이, '회색지대'부터 관리해야 [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스노년기의 건망증: 언제 치매 검사를 받아야 할까요?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "기억력 저하도 노화 탓?… 치매 진행 늦출 기회 놓친다&nbsp;&nbsp;백세시대치매, 늦기 전에 막는다…뇌 건강 지키는 '3다3불'&nbsp;&nbsp;매경헬스“50세 넘고 이 음식 끊었다” 치매 명의 꼭 지키는 뇌 건강법&nbsp;&nbsp;중앙일보건망증과 치매 사이, '회색지대'부터 관리해야 [Weekend 헬스]&nbsp;&nbsp;fnnews.com노년기의 건망증: 언제 치매 검사를 받아야 할까요?&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "백세시대",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LNlJNOHAzTmFBUW5VVzZuUlNIQUZGQW9rdzZEcThFWHhBVVpjUkZsV1B1dllUVm9zTGtGemVGaW9CNFVFeHczQV9jU0pjVUhUdng4U2Q1elVHWGU4V25ESjhPSlBJblloWHJj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "43947f0d86d5",
-      "title": "06화 미운자로 남지 않기 위한 부모의 마운자로",
-      "published": "2026-10-02T00:08:51+00:00",
-      "summary": "06화 미운자로 남지 않기 위한 부모의 마운자로&nbsp;&nbsp;브런치“췌장염 걱정 없는 위고비 효과”…아침 ‘단+지+식’ [식탐]&nbsp;&nbsp;v.daum.net[건강 돋보기] “살 빼려고 맞았는데”... 위고비 맞은 사람, 우울장애 위험 3.42배&nbsp;&nbsp;newsa.co.kr살은 빠졌는데 근육도 걱정…위고비·마운자로 시대 달라진 건기식&nbsp;&nbsp;딜사이트",
-      "sources": [
-        {
-          "name": "브런치",
-          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1Sc3Nsem5HZkF5dFdKdjRsRzFfazVHeUVLdVZlUWpISHNseXZhQzBlb3NYUjhQOHU0dlpMTlBBY0ptak0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -251,13 +238,13 @@
       "matched_keywords": []
     },
     {
-      "id": "6664f546cc10",
+      "id": "1628ad16a81e",
       "title": "혈압·콜레스테롤 관리에 도움…심장에 좋은 과일 9가지",
       "published": "2026-10-01T18:54:00+00:00",
-      "summary": "혈압·콜레스테롤 관리에 도움…심장에 좋은 과일 9가지&nbsp;&nbsp;radiokorea.com혈압 관리에 도움되는 의외의 과일 5가지... \"칼륨·폴리페놀 풍부\"&nbsp;&nbsp;하이닥“피가 맑아져요” 약 대신 매일 먹었더니… 놀라운 효능 보인 식재료 3가지&nbsp;&nbsp;뉴스와심뇌혈관 질환 경고등 켜졌다면? 당장 식탁에 올려야 할 '혈관 청소부' 3대장 완벽 분석&nbsp;&nbsp;대한청년일보",
+      "summary": "혈압·콜레스테롤 관리에 도움…심장에 좋은 과일 9가지&nbsp;&nbsp;라디오코리아혈압 관리에 도움되는 의외의 과일 5가지... \"칼륨·폴리페놀 풍부\"&nbsp;&nbsp;하이닥“피가 맑아져요” 약 대신 매일 먹었더니… 놀라운 효능 보인 식재료 3가지&nbsp;&nbsp;뉴스와심뇌혈관 질환 경고등 켜졌다면? 당장 식탁에 올려야 할 '혈관 청소부' 3대장 완벽 분석&nbsp;&nbsp;대한청년일보",
       "sources": [
         {
-          "name": "radiokorea.com",
+          "name": "라디오코리아",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fZDJzeWNrSDk1SGFxYjBzc19LVmtWLTVxQjE4a0JzSVMwMFZpWVZzRGs4cnFsN29lU2htZlVhdHRvVmlyZUJPaURQS3hQM2pFTDd6Wk9TWFY4OTJFaXhKQ1NfLWE?oc=5"
         }
       ],
@@ -303,13 +290,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1131b04174a4",
+      "id": "e99f3dbcdf4f",
       "title": "반도체 성능 저하 ‘계면 결함’ 원인 찾았다… 강원대·하버드대 공동연구",
       "published": "2026-10-01T07:34:00+00:00",
-      "summary": "반도체 성능 저하 ‘계면 결함’ 원인 찾았다… 강원대·하버드대 공동연구&nbsp;&nbsp;chosun.com",
+      "summary": "반도체 성능 저하 ‘계면 결함’ 원인 찾았다… 강원대·하버드대 공동연구&nbsp;&nbsp;조선일보",
       "sources": [
         {
-          "name": "chosun.com",
+          "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR2Y5Vl9ZdzNZQmtYcVF2eFltZnVaWFZVRzNUSWIxXzUzSWh6ZU4tMDlHY21DdmRNU0doOFFORmprWVJIdUJ6MDF6aXAzQXZKRnlFSGxGZmFXRmtXQkxIYWN2aHdoVjJFNDJMejVLZjBWVFNUT1Y3WGp4UGgtcHdVODNpRC1GUQ?oc=5"
         }
       ],
@@ -358,7 +345,7 @@
       "id": "c0ae7bc9f500",
       "title": "단백질C 활성도 낮은 뇌졸중 환자, 중등도 이상 비율 약 2배 높다",
       "published": "2026-10-01T01:39:13+00:00",
-      "summary": "단백질C 활성도 낮은 뇌졸중 환자, 중등도 이상 비율 약 2배 높다&nbsp;&nbsp;메드월드뉴스순천향대 서울병원 박수현 교수팀, 단백질C와 뇌졸중 중증도 연관성 분석&nbsp;&nbsp;메디포뉴스천연 항응고 단백질C 활성도 낮은 뇌졸중 환자, 중등도 이상 비율 약 2배&nbsp;&nbsp;헬스오단백질C 활성도 낮을수록 뇌졸중 중증도 높았다&nbsp;&nbsp;e-의료정보단백질 C 활성 낮은 뇌졸중, 중등도 이상 비율 2배 높아&nbsp;&nbsp;메디칼업저버",
+      "summary": "단백질C 활성도 낮은 뇌졸중 환자, 중등도 이상 비율 약 2배 높다&nbsp;&nbsp;메드월드뉴스순천향대 서울병원 박수현 교수팀, 단백질C와 뇌졸중 중증도 연관성 분석&nbsp;&nbsp;medifonews.com천연 항응고 단백질C 활성도 낮은 뇌졸중 환자, 중등도 이상 비율 약 2배&nbsp;&nbsp;healtho.co.kr단백질C 활성도 낮을수록 뇌졸중 중증도 높았다&nbsp;&nbsp;e-의료정보단백질 C 활성 낮은 뇌졸중, 중등도 이상 비율 2배 높아&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -459,14 +446,40 @@
       "matched_keywords": []
     },
     {
+      "id": "9387e3e50c42",
+      "title": "펜타닐보다 최대 10배 강한 합성마약 ‘사이클로르핀’…하와이도 경고",
+      "published": "2026-09-30T04:04:00+00:00",
+      "summary": "펜타닐보다 최대 10배 강한 합성마약 ‘사이클로르핀’…하와이도 경고&nbsp;&nbsp;KBFD",
+      "sources": [
+        {
+          "name": "KBFD",
+          "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9sTUhPcm9xS3RLNG9ZUnFsOHNIQVVGVG9NSFRqSjdjTlc4MXQwSUtXVDdIY1FXQVlTUHdhY2ZR0gE-QVVfeXFMT2xNSE9yb3FLdEs0b1lScWw4c0hBVUZUb01IVGpKN2NOVzgxdDBJS1dUN0hjUVdBWVNQd2FjZlE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "721d2dcd4b22",
       "title": "\"완벽할 필요 없어\" 심장 전문의가 매일 실천하는 생활",
       "published": "2026-09-30T00:58:00+00:00",
-      "summary": "\"완벽할 필요 없어\" 심장 전문의가 매일 실천하는 생활&nbsp;&nbsp;네이트맨날 ‘이 시간’에 자는데…“심장질환 위험 올라가” 의사가 당장 바꾸라는 습관 [헬시타임]&nbsp;&nbsp;sedaily.com[의사들이 매일 실천하는 건강습관 ㊶] 아침에 일어나도 커튼 닫고 지낸다면…하루의 첫 ‘빛’부터 바꿔보세요&nbsp;&nbsp;전국뉴스5분 투자로 혈전 생성 막는다… 의사도 실천한다는 ‘사소한 습관’&nbsp;&nbsp;헬스조선",
+      "summary": "\"완벽할 필요 없어\" 심장 전문의가 매일 실천하는 생활&nbsp;&nbsp;네이트맨날 ‘이 시간’에 자는데…“심장질환 위험 올라가” 의사가 당장 바꾸라는 습관 [헬시타임]&nbsp;&nbsp;서울경제[의사들이 매일 실천하는 건강습관 ㊶] 아침에 일어나도 커튼 닫고 지낸다면…하루의 첫 ‘빛’부터 바꿔보세요&nbsp;&nbsp;전국뉴스5분 투자로 혈전 생성 막는다… 의사도 실천한다는 ‘사소한 습관’&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45UkpRSkVEcFZWcnhwX2JjSHFfcWZ3TVRaNDVfN1B6emdZSlNXODE5c3l4MFlpU05LNUc0bG9iQkhNS1lTVHdGYll2ZUhNOEhKRHZfdVhYbEh2bk1BZlJIMQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "60508cfaa026",
+      "title": "\"비대성심근병증, 희귀질환으로만 봐선 안 돼…숨은 환자 적극 찾아야\"",
+      "published": "2026-09-30T00:06:28+00:00",
+      "summary": "\"비대성심근병증, 희귀질환으로만 봐선 안 돼…숨은 환자 적극 찾아야\"&nbsp;&nbsp;코리아헬스로그",
+      "sources": [
+        {
+          "name": "코리아헬스로그",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wY1hyWno3ZWZ0S2wzZ2l6cFYwT0lKUUVxVFZycWIzTjJUVkVURmpkcGxDMm9GenZmMHQ0WVIxbllrVDdmRmx3bUFjTWNKenJ2VmE2TTA5RC1qdHhpMU1UenhFT2t5Sld5TWRnazdXQTFTZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -498,40 +511,27 @@
       "matched_keywords": []
     },
     {
-      "id": "1ee7c479055f",
+      "id": "60561254eb71",
       "title": "루테인 오메가3 코큐텐.. 소비기한 임박 건강식품 8종 ‘한 달분 3700원’ 특별전",
       "published": "2026-09-29T20:05:00+00:00",
-      "summary": "루테인 오메가3 코큐텐.. 소비기한 임박 건강식품 8종 ‘한 달분 3700원’ 특별전&nbsp;&nbsp;chosun.com",
+      "summary": "루테인 오메가3 코큐텐.. 소비기한 임박 건강식품 8종 ‘한 달분 3700원’ 특별전&nbsp;&nbsp;조선일보",
       "sources": [
         {
-          "name": "chosun.com",
+          "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcE53UFJIeGlZd1l6U3dfN3BfT1VPVmZ3SWd0bXppMUpYZ2VjeWQ0dklLTUNoRzZVMUlJWXAtV1pqUkZPUFR5eWwwSGl5YXFxM2s0a000Yk1hQWhNMlBzYjBQd3o4Sno0WnFwdUZwQk5MMWdLRmxaOU1xSWthRk5CMkI5YnByLXA0b3hz?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "c17882540c22",
+      "id": "79e9cbf0c7f6",
       "title": "삼성전자, '심장의 날' 맞아 갤럭시 워치 심장 건강 관리 기능 소개…'예방형' 헬스케어 강조",
       "published": "2026-09-29T14:59:20+00:00",
-      "summary": "삼성전자, '심장의 날' 맞아 갤럭시 워치 심장 건강 관리 기능 소개…'예방형' 헬스케어 강조&nbsp;&nbsp;데일리포스트[오늘의 성경말씀·29일] 생명의 근원이 이에서 남이니라&nbsp;&nbsp;서울동북신문심한 코골이·아침 두통 방치했다간…심혈관 건강 위협하는 수면무호흡증&nbsp;&nbsp;뉴스탭[세계 심장의 날] 손목에서 시작되는 일상 속 심장 건강 관리법&nbsp;&nbsp;Samsung Global Newsroom'보이지 않는 장애' 심장장애인의 삶, 건강을 넘어 권리를 말하다&nbsp;&nbsp;헤드라인제주",
+      "summary": "삼성전자, '심장의 날' 맞아 갤럭시 워치 심장 건강 관리 기능 소개…'예방형' 헬스케어 강조&nbsp;&nbsp;thedailypost.kr[오늘의 성경말씀·29일] 생명의 근원이 이에서 남이니라&nbsp;&nbsp;서울동북신문심한 코골이·아침 두통 방치했다간…심혈관 건강 위협하는 수면무호흡증&nbsp;&nbsp;뉴스탭[세계 심장의 날] 손목에서 시작되는 일상 속 심장 건강 관리법&nbsp;&nbsp;Samsung Global Newsroom'보이지 않는 장애' 심장장애인의 삶, 건강을 넘어 권리를 말하다&nbsp;&nbsp;headlinejeju.co.kr",
       "sources": [
         {
-          "name": "데일리포스트",
+          "name": "thedailypost.kr",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wQ0VDVThJSUNjUHp4dzE0WUR5REF4aWRHdEJ6MGYzUDU0MHR4cEdhb3FOQWdfME9JcU9PNU1ZNVBkZy15TVFNMFZMajlKdDZCR1dxenZLUnJoZ05oZlRtY2VWaWVqbTlCT0VsbHFBTdIBc0FVX3lxTE5zUkVfem44Wl9kcTVBbXJRRGNGMGxqRzdLQU1nQm5sT3ZuV2E5d3p5ZTdUaTVYYkk1aWI3OVdCYnI2MEd1dUNPSzhXMGFFTzdkOEkyTl85d2piVmpGSW1DdmVMOUgzZlVJTVNDSy0ydmhTTVU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7f119fec4981",
-      "title": "연구자 22명 “AI가 AI 만드는 ‘지능 폭발’ 대비…인류 멸종 이어질 수도”",
-      "published": "2026-09-29T11:09:00+00:00",
-      "summary": "연구자 22명 “AI가 AI 만드는 ‘지능 폭발’ 대비…인류 멸종 이어질 수도”&nbsp;&nbsp;hani.co.kr",
-      "sources": [
-        {
-          "name": "hani.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOGFLUUZkM0s1dHhfS0JsYUh3aHJIQTMwZEFzc1JnY2F1VTNXRnVZUlF0QVgtWVF1eXllZ25JS0ZsZHdnOXNDbFVMWVAxeHZsOWRhLWtKb2w3bWE4MHRxMkdXUlNZdnVUTWczM2xjYw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -563,13 +563,13 @@
       "matched_keywords": []
     },
     {
-      "id": "18a321bcf956",
+      "id": "8d43bc6a06b0",
       "title": "한국-멕시코, 국가위성망 구축·우주 개발 등 협력 본격화",
       "published": "2026-09-29T08:12:09+00:00",
-      "summary": "한국-멕시코, 국가위성망 구축·우주 개발 등 협력 본격화&nbsp;&nbsp;korea.kr",
+      "summary": "한국-멕시코, 국가위성망 구축·우주 개발 등 협력 본격화&nbsp;&nbsp;정책브리핑",
       "sources": [
         {
-          "name": "korea.kr",
+          "name": "정책브리핑",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WUDd0VlJvbFhXbTRxZ2FHakN2T0hETF9hSkpzMU9CdFVDd1VHRkxLMFJRenI0T0l4X2Y2eDhOTzcyLUczSjVpeWlWVVpPcWhWcUszTllPUm1ITEI3VjVVcnJjY2lHNWpobXl5ZQ?oc=5"
         }
       ],
@@ -605,7 +605,7 @@
       "id": "4f394553651c",
       "title": "SK바이오팜 세노바메이트 투여 뇌전증 환자 진료 데이터 공개 - MTN 머니투데이방송",
       "published": "2026-09-29T05:18:58+00:00",
-      "summary": "SK바이오팜 세노바메이트 투여 뇌전증 환자 진료 데이터 공개&nbsp;&nbsp;MTN 머니투데이방송세노바메이트, 실제 진료서 발작 감소 확인…삶의 질 개선도 주목&nbsp;&nbsp;뉴스1뇌전증약 '세노바메이트' 효과는?…\"발작 절반↓\"&nbsp;&nbsp;뉴시스발작 줄이고 일상 회복까지…세노바메이트 실제 진료 연구 주목&nbsp;&nbsp;팜이데일리세노바메이트, 실제 진료서도 발작 줄였다…\"삶의 질 개선도 확인\"&nbsp;&nbsp;v.daum.net",
+      "summary": "SK바이오팜 세노바메이트 투여 뇌전증 환자 진료 데이터 공개&nbsp;&nbsp;MTN 머니투데이방송세노바메이트, 실제 진료서 발작 감소 확인…삶의 질 개선도 주목&nbsp;&nbsp;news1.kr뇌전증약 '세노바메이트' 효과는?…\"발작 절반↓\"&nbsp;&nbsp;뉴시스발작 줄이고 일상 회복까지…세노바메이트 실제 진료 연구 주목&nbsp;&nbsp;팜이데일리세노바메이트, 실제 진료서도 발작 줄였다…\"삶의 질 개선도 확인\"&nbsp;&nbsp;v.daum.net",
       "sources": [
         {
           "name": "MTN 머니투데이방송",
@@ -654,14 +654,27 @@
       "matched_keywords": []
     },
     {
-      "id": "7a9fa79187af",
+      "id": "f9d82ab40a99",
       "title": "소화불량인 줄 알았는데…췌장암 43%는 발견 때 이미 전이, 생존율 2.4%",
       "published": "2026-09-28T20:00:00+00:00",
-      "summary": "소화불량인 줄 알았는데…췌장암 43%는 발견 때 이미 전이, 생존율 2.4%&nbsp;&nbsp;세계일보신규 당뇨병, 초기 중증도·악화 속도가 췌장암 위험 신호&nbsp;&nbsp;캔서앤서\"신규 당뇨병 초기 중증도·악화 속도, 췌장암 발생 위험 신호\"&nbsp;&nbsp;스포츠조선",
+      "summary": "소화불량인 줄 알았는데…췌장암 43%는 발견 때 이미 전이, 생존율 2.4%&nbsp;&nbsp;segye.com신규 당뇨병, 초기 중증도·악화 속도가 췌장암 위험 신호&nbsp;&nbsp;캔서앤서\"신규 당뇨병 초기 중증도·악화 속도, 췌장암 발생 위험 신호\"&nbsp;&nbsp;스포츠조선",
       "sources": [
         {
-          "name": "세계일보",
+          "name": "segye.com",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04YkFkRVdoR2puRkVRSGdmMG0xUDNLaEVrandIdWlBVzYtdW8wYkNBbWp5NGhlQmFwVDRST24tUnBPTHhLZ1JITmpBSGtsQ214R19aSUF2TXk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0edaf5423c29",
+      "title": "주요 AI연구자 22명 \"AI 지능폭발 임박…통제 못하면 인류멸망\"",
+      "published": "2026-09-28T18:07:50+00:00",
+      "summary": "주요 AI연구자 22명 \"AI 지능폭발 임박…통제 못하면 인류멸망\"&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hLUl2c3ZvdUpVaGFhRUltdDhlcFBLX21nRl9xUVdOcmN4LWNjWXMzWjRJTDFUQ2U4cTBNQkUySnNPREx4VnVVU0VUbGtWcTBlZHZpY3hLMEpOUHfSAWBBVV95cUxNMDRWdXBUVTdjWjhXaHZOTmN3YlJNWUYzblEtUmY1azQ1TEtxcUlBcU9POElYQ2tRd0FDcWRsOGZtTGk1LWxzbTkyTlBqLUFMN3kxX1JjRnBNSlNSQW8zMVM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -675,19 +688,6 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qOWJkS0JKS09vNDM5TEROVHBSRDE5VFZnR0dsSzRlWnVVSXgxMmhXV21rcVd2VXExRGlBZHVDMlNTUVJDS0xsQVo1NWNSQlpxRFZudHNaeDVtYTd3NC1jTDZWWjVkY0lrLWZiOU5jMHZ0clFQaGfSAWZBVV95cUxPRGd6SlNyX0tlOGxoZ0QyMGhpM1hkajB1Wjg3cXhOUVdKMm5SdXFzWmxMM09FNHEtMVZhbF9Ddkp5ZFNsVm5UaUlvQVF4SmVJNEN5ZXZLZFlsZVp0aTRrRnZxdlVOX1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e1a9491c4dc9",
-      "title": "“불면증, 뇌 건강도 위협한다”... 뇌졸중 위험 26% 높이고, 치매·우울증도 연관",
-      "published": "2026-09-28T11:00:00+00:00",
-      "summary": "“불면증, 뇌 건강도 위협한다”... 뇌졸중 위험 26% 높이고, 치매·우울증도 연관&nbsp;&nbsp;하이닥불면증 있으면 뇌졸중 위험 26% 높아…치매-우울증과도 연관 [건강팩트체크]&nbsp;&nbsp;동아일보[건강포커스] “불면증 있으면 뇌졸중 위험 26% 높아…치매·우울증과도 연관”&nbsp;&nbsp;미주한국일보잠 못 이루는 밤 반복되면…뇌·정신 건강에도 ‘빨간불’&nbsp;&nbsp;농민신문“잠이 보약” 과학적 근거 찾았다…불면증, 뇌졸중 위험 26%↑[달콤한 사이언스]&nbsp;&nbsp;서울신문",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ScWVReHlEQUJJc0lxS2h1LU1HYmdhRVpja0trbGVsQ3ZvUTZPcEFHaVExWENBRUd0cnJnQkw0SmlkM1hCNE9qYnVkTlQyWWV4QkUyMjV5WkRLOHZfQkVZaWFUT2JJQnl6TVE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -722,7 +722,7 @@
       "id": "5d8f99a65a66",
       "title": "[보건/사회] \"스치기만 해도 치명적\"…호치민, 물림 사고 10만건·광견병 사망자 6명 '비상'",
       "published": "2026-09-28T03:12:46+00:00",
-      "summary": "[보건/사회] \"스치기만 해도 치명적\"…호치민, 물림 사고 10만건·광견병 사망자 6명 '비상'&nbsp;&nbsp;굿모닝베트남미디어[기고] 그리스의 '매년 의무접종', 한국에도 같은 답일까&nbsp;&nbsp;뉴스펫세계 광견병의 날(9월 28일): 광견병 예방을 위해 개와 고양이에게 백신을 접종하세요.&nbsp;&nbsp;Vietnam.vn호찌민서 올해 10만 명 이상 개·고양이 물림 피해… 광견병 사망자 6명 발생&nbsp;&nbsp;씬짜오베트남광견병으로 인한 사망을 없애기 위해 함께 노력합시다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[보건/사회] \"스치기만 해도 치명적\"…호치민, 물림 사고 10만건·광견병 사망자 6명 '비상'&nbsp;&nbsp;굿모닝베트남미디어[기고] 그리스의 '매년 의무접종', 한국에도 같은 답일까&nbsp;&nbsp;newspet.co.kr세계 광견병의 날(9월 28일): 광견병 예방을 위해 개와 고양이에게 백신을 접종하세요.&nbsp;&nbsp;vietnam.vn호찌민서 올해 10만 명 이상 개·고양이 물림 피해… 광견병 사망자 6명 발생&nbsp;&nbsp;씬짜오베트남광견병으로 인한 사망을 없애기 위해 함께 노력합시다.&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "굿모닝베트남미디어",
@@ -732,14 +732,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e3b57c7ca282",
-      "title": "자궁경부암 검진 결과, 위험도 따라 5단계로 판정한다",
-      "published": "2026-09-27T21:08:00+00:00",
-      "summary": "자궁경부암 검진 결과, 위험도 따라 5단계로 판정한다&nbsp;&nbsp;뉴스더보이스헬스케어성관계 후 돌연 출혈…이런 암 증상 없어도 잡아내는 검사 정체 [가족 건강 챙기기]&nbsp;&nbsp;v.daum.net",
+      "id": "772bad3a8f0b",
+      "title": "[건강 365] 틱장애 치료, 동반된 강박증, 불안장애 증상도 함께 고려해야",
+      "published": "2026-09-28T01:34:46+00:00",
+      "summary": "[건강 365] 틱장애 치료, 동반된 강박증, 불안장애 증상도 함께 고려해야&nbsp;&nbsp;교수신문",
       "sources": [
         {
-          "name": "뉴스더보이스헬스케어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qbTBSMjlVREQ1VEZRNHBxWTJzUGZTVGZRSE9FOF9QaU5IV0JxOTQ0VjVJdGozX0lRYXduT3BfZDZZdmZ3b2tzN2M3a2FzaXAyVThGeXRPckZBZENiYW1Fd2FIZGJTZHNTSktjeExhbw?oc=5"
+          "name": "교수신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QUV9wWktRN0hfLW0wTlpGTHhWdkxrQVhJNWhzYm5EQks1bDVvR3FzNlRzSjVKZmZkMkpfVHR0UUx4SkNmWGVZYjJnLWcycGo2OUF5UTZycU43U1N2eHdGN29QSV9pMHM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -761,7 +761,7 @@
       "id": "e3f6c1bfd563",
       "title": "알츠하이머병 ‘이상행동’ 원인 규명…타우·루이소체에 주목",
       "published": "2026-09-27T03:36:00+00:00",
-      "summary": "알츠하이머병 ‘이상행동’ 원인 규명…타우·루이소체에 주목&nbsp;&nbsp;스포츠경향[의학칼럼]“증상 생기기 전에 찾자”… 혈액검사로 알츠하이머병 알 수 있을까?&nbsp;&nbsp;헬스조선신속 혈액 검사와 MRI 스캔은 알츠하이머 진단 시간을 단축할 수 있는 가능성을 열어줍니다.&nbsp;&nbsp;Vietnam.vn주차 층수를 잊은 날 본 광고 한 편&nbsp;&nbsp;브런치",
+      "summary": "알츠하이머병 ‘이상행동’ 원인 규명…타우·루이소체에 주목&nbsp;&nbsp;스포츠경향[의학칼럼]“증상 생기기 전에 찾자”… 혈액검사로 알츠하이머병 알 수 있을까?&nbsp;&nbsp;헬스조선신속 혈액 검사와 MRI 스캔은 알츠하이머 진단 시간을 단축할 수 있는 가능성을 열어줍니다.&nbsp;&nbsp;vietnam.vn주차 층수를 잊은 날 본 광고 한 편&nbsp;&nbsp;브런치",
       "sources": [
         {
           "name": "스포츠경향",
@@ -774,11 +774,24 @@
       "id": "99f43038fe89",
       "title": "초가공식품을 먹으면서도 건강할 수 있을까? 영양사에게 물어봤다",
       "published": "2026-09-27T02:50:59+00:00",
-      "summary": "초가공식품을 먹으면서도 건강할 수 있을까? 영양사에게 물어봤다&nbsp;&nbsp;BBC너무 짜게 먹으면 노화 빨라져…혈중 나트륨 줄이는 방법은?&nbsp;&nbsp;코메디닷컴심혈관 건강을 보호하려면 소금 섭취량을 줄이고 초가공식품 섭취를 제한하세요.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "초가공식품을 먹으면서도 건강할 수 있을까? 영양사에게 물어봤다&nbsp;&nbsp;BBC너무 짜게 먹으면 노화 빨라져…혈중 나트륨 줄이는 방법은?&nbsp;&nbsp;코메디닷컴심혈관 건강을 보호하려면 소금 섭취량을 줄이고 초가공식품 섭취를 제한하세요.&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "BBC",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iX2ZzRHZ6VlhtZlJDRW9mM25ESnFSZUFZX1AxWTBFcXNhM1JEX0Q1SVQwRl9SbkxidlVGS1E0QlBPZ1g4TUFiWDJlRHhMUlFZYm9QUm9TRUN6aDFLbGfSAWNBVV95cUxPWE4tQTdZLTduSVVXVDJoRUtZVWs3RWtnRE56TmllVENtUFl3bnNLMFlFNFVhTThOZmZWNWQwbE52R0lpMVZHWmx2SWNkZDFVQ053YVVQaWZmSEZnNUZhNTZoRjA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2ac153fed054",
+      "title": "'파충류와 가금류가 옮기는 살모넬라 감염, 어린이 건강 위협'",
+      "published": "2026-09-26T22:34:03+00:00",
+      "summary": "'파충류와 가금류가 옮기는 살모넬라 감염, 어린이 건강 위협'&nbsp;&nbsp;edaily.co.kr",
+      "sources": [
+        {
+          "name": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSzNYVjJBenZpbC1rcUR6aHdoMUF2c21EOWNMMjFSdmg4V3JKQTBDMkNJaExhMWliV0Z3UGR0UlZybTB2Ymo3MWJ5al9DRjJqR0NIM1VTSjFCMHAwQzRMSVFza29hWWZLV0VnRW9fTUdONEx5TXZwdFNtenNVUUpoaA?oc=5"
         }
       ],
       "matched_keywords": []
