@@ -1,8 +1,86 @@
 {
-  "last_updated": "2026-10-07T22:53:02.054858+00:00",
-  "total_count": 51,
+  "last_updated": "2026-10-08T05:12:15.861200+00:00",
+  "total_count": 53,
   "matched_count": 0,
   "news": [
+    {
+      "id": "5ac743fb0e2b",
+      "title": "집고양이 15마리 중 1마리서 기생충 발견…사람에게도 옮을 수 있다?",
+      "published": "2026-10-08T04:08:00+00:00",
+      "summary": "집고양이 15마리 중 1마리서 기생충 발견…사람에게도 옮을 수 있다?&nbsp;&nbsp;레이디경향",
+      "sources": [
+        {
+          "name": "레이디경향",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlX05laV9EczluTlRFR3Ayek1uYXAxTm5qcGZXcWs3ekxSdmFCWXptOElMSFloUXo2cFU5YXkyb1R5Q2pQZk91WjNGSDFxcHFYakJwNG9NV2tDd2dJMVZCNTJ5dTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "636367b10ad0",
+      "title": "부산 온병원, 코피노 소녀에 희망 선물…2000만원 수술비 온정",
+      "published": "2026-10-08T02:05:04+00:00",
+      "summary": "부산 온병원, 코피노 소녀에 희망 선물…2000만원 수술비 온정&nbsp;&nbsp;인더스트리뉴스",
+      "sources": [
+        {
+          "name": "인더스트리뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YTnNHalY4MTh3QU4zcUI2ajE3U3F0eEdVWE84ZjlfVFBOZmRTWE8ySlUyRGpmWV9MczQ1VE9TQVh1emhwZWdPcmFSWEVUX1BBY2tUM1FGRUIxODYybl9IVEkycVZlUVlUZnhMd1RNNTRmZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e5d4caa345d0",
+      "title": "알 옆에 세균을 포장하는 잎벌레…오래된 단백질의 새로운 역할",
+      "published": "2026-10-08T01:47:15+00:00",
+      "summary": "알 옆에 세균을 포장하는 잎벌레…오래된 단백질의 새로운 역할&nbsp;&nbsp;미디어파인",
+      "sources": [
+        {
+          "name": "미디어파인",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xR1BxQnNTRDU5Q1BqTGRnVmVwcjNqT3hUVGd2T0pGanl1Sk43cndlSUx4bzVhUlJfOUV1SVRqQWQ3RVdLcUllbXQ3UmVFVEgzVGpyNlpHRXFDT0w3c3lwQl9kNzJxU0ZmQUNSQUF3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "09170dc119ef",
+      "title": "임산부 10명 중 6명 이상 겪는 치은염…잇몸 출혈 방치 말아야",
+      "published": "2026-10-08T00:58:00+00:00",
+      "summary": "임산부 10명 중 6명 이상 겪는 치은염…잇몸 출혈 방치 말아야&nbsp;&nbsp;ACROFAN잇몸병, 증상 없다고 방심 금물… 당뇨·흡연·치태 방치가 치아 상실 부른다&nbsp;&nbsp;바이오타임즈임신 중 양치할 때 피 난다면…잇몸 출혈 그냥 넘기지 마세요&nbsp;&nbsp;키즈맘“몸에 염증 퍼지고 없던 당뇨병 생긴&nbsp;&nbsp;밴쿠버 조선일보치아만의 문제가 아니다…전신 건강과 연결되는 잇몸 관리&nbsp;&nbsp;이코노미사이언스",
+      "sources": [
+        {
+          "name": "ACROFAN",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zRl9NeXdrUnlFT1pFR0dSRjU1MHVNMEVfVzdaMVhRT25VdDR1VnRtTXhadjZ4U25CUWhjZnU4NXQ3YzUxTE9OcDJPalkyOVNNeUZodi1PTmMxWDg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a4fb596acdf0",
+      "title": "임신 전 HPV 백신 접종, 조산 및 임신 합병증 위험 낮춰",
+      "published": "2026-10-08T00:19:21+00:00",
+      "summary": "임신 전 HPV 백신 접종, 조산 및 임신 합병증 위험 낮춰&nbsp;&nbsp;데일리굿뉴스",
+      "sources": [
+        {
+          "name": "데일리굿뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWdmRGYkhGWjZuRzVVNFA4T0Y3bVg3MmlQTGI3OUIxdkNKOHlKWUFsdkJHWll2OXFvRU4tSEJackhqRWExRDBnLWMzS0NxZzEwTTR3ckQwUnROWm9hN1F6RUFhcWUxM2JUTWN4ZtIBcEFVX3lxTE1uaFdycXFGMVdCbTF3Q3QtbWpaZGZraWVuTW9XUk8xb2ZVQUhsT1I0SnRKeWFrb3R2b0RFLWRGeFljYW16RlRhN285QUphMmxNLTF0bUY5aTVrMmFxVmdONHNNRDBZeldFT1FxbElaOGg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f013db28d2ca",
+      "title": "ADHD 환자, 변비·과민성장증후군 등 위험 높아",
+      "published": "2026-10-08T00:01:23+00:00",
+      "summary": "ADHD 환자, 변비·과민성장증후군 등 위험 높아&nbsp;&nbsp;문화투데이",
+      "sources": [
+        {
+          "name": "문화투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tc1IyakJZSU12V1hQM3lhT24wajhIZFVRWVhtZEhTY014NW8xeTdtVXA3a0ZfV25mbWNvU1dWSWViQjJKcGxWNWt1ZnBGUHdiTHpkc2cyYk9SdXliSEYzenJDS1JoYkcz?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "8eeeea0fb63a",
       "title": "'깜박깜박' 하길래 건망증인줄…10명중 1명 '치매'",
@@ -30,6 +108,19 @@
       "matched_keywords": []
     },
     {
+      "id": "c271d29eec34",
+      "title": "“약으로 없앨 수 있는 유일한 발암물질” 건강 검진할 때 ‘위내시경’ 꼭 해야 하는 이유",
+      "published": "2026-10-07T21:30:00+00:00",
+      "summary": "“약으로 없앨 수 있는 유일한 발암물질” 건강 검진할 때 ‘위내시경’ 꼭 해야 하는 이유&nbsp;&nbsp;헬스조선[장일영의 세월에 장사 있다] 건강검진 중 발견된 헬리코박터… 불편한 제균치료 꼭 해야 할까&nbsp;&nbsp;Daum위암 주범 ‘헬리코박터균’…항생제 내성 탓 치료 14일까지&nbsp;&nbsp;스포츠월드전 세계 암 12%는 감염 탓…헬리코박터·HPV가 150만 건&nbsp;&nbsp;약사공론헬리코박터 감염 경로를 알면 예방이 가능합니다&nbsp;&nbsp;MEDI:GATE NEWS",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kZU1PamxMRlBRR1RzTG5VM05Uc0ZHWG5YNllvYl9ZeUswX2I4QmRrM3dfYllLWUVTYTNDNXNKbWlfT0ZnXzdKLVNOY0wwLWljdV8yUnNSU3VuNFdEQWVXMEdKLXhjMU02blF2Zmtkd3JCYjZjaDIzTGhGN3d4Q3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "2c859b5a4353",
       "title": "[건강 칼럼] 차갑고 건조한 계절, 따뜻한 생강 음식으로 건강한 식습관을 만든다.",
       "published": "2026-10-07T21:23:02+00:00",
@@ -43,14 +134,66 @@
       "matched_keywords": []
     },
     {
-      "id": "5c3b7fff02eb",
-      "title": "‘체한 줄 알았는데 가슴이 꽉 조여’…협심증, 턱·어깨 통증도 살펴야",
-      "published": "2026-10-07T13:00:00+00:00",
-      "summary": "‘체한 줄 알았는데 가슴이 꽉 조여’…협심증, 턱·어깨 통증도 살펴야&nbsp;&nbsp;세계일보아침 산책 중 가슴 조이면 … 쌀쌀한 날씨 '협심증' 의심을&nbsp;&nbsp;매일경제울산엘리야병원 \"흉통을 체기로 오인 말아야…당뇨·고령층은 증상 달라 더 주의\"&nbsp;&nbsp;투어코리아[건강톡톡] 소화불량으로 오인하기 쉬운 ‘협심증’&nbsp;&nbsp;간호사신문[칼럼] 가슴 짓누르는 통증, 단순 체기 아니다&nbsp;&nbsp;메드월드뉴스",
+      "id": "5ad99e2ce74a",
+      "title": "“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’",
+      "published": "2026-10-07T16:30:00+00:00",
+      "summary": "“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’&nbsp;&nbsp;헬스조선50세 미만 암 증가세 더 가팔랐다…英 7종·美 5종·네덜란드 4종↑&nbsp;&nbsp;뉴시스50세 미만 전립선암 22년 새 4배 급증, 신장암은 2배↑…이유는?&nbsp;&nbsp;스포츠조선미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증&nbsp;&nbsp;DongA Science“암 위험 급등”… ‘주말에 흔히 하는’ 행동 3가지&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jUmlCLWI4UGY3VjhUX3lLTTNLY1ZmUTc1cHFvbWhVNXJsd2FHUE1YMVo4Szl0VzlNcVlHaHZDZmRtMnNqUWVuQVNqcDFWVzBKZ0lQZlM4M2vSAVRBVV95cUxOVHlmVVRkeVo5UkUtZkhmMGU4YlAzaFBXbzFRV202VVZpMW5Kc3ZzZTFxRGRnQmVrT2JyZ0Q2WDIyWVJOeFE2M1gwdWNDLXlGaHFHOWw?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMnlxQ3JGenBybTY0OXBYNFdUYjN5UmdMOWY2MVNRUGlRTmVvZG9ycHV6R2dqM1g1UHlUWUp3T0lHWFZYcEdtMTJ1TGIxam1ZUXljU3NrZzBsUlRleUwzOE10c1dIVmJfQnlHeGpWQWZfLVRkREc5UDMwQnFUNzg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "47a4862538d3",
+      "title": "나폴레옹 시대 군사 암호… AI가 217년 만에 풀었다",
+      "published": "2026-10-07T15:31:00+00:00",
+      "summary": "나폴레옹 시대 군사 암호… AI가 217년 만에 풀었다&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZFZCUy0zNnQtXzN4YXJUNjk5Ulg5cE0xTjJ5V21mblBVLU9aRi1XdEk5UU1mZkV5UlQ3UzdnMGtZSnE4QVd1Nm5sQThaSjJlSUNrcm83dmdBUDlnaXNCTnhSTEVnOC01TlZuNWlrWk1Hck5qaVNxWFFmaTZWUnZpTHI4Yw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4d1168d87dcd",
+      "title": "울산엘리야병원 \"흉통을 체기로 오인 말아야…당뇨·고령층은 증상 달라 더 주의\"",
+      "published": "2026-10-07T12:32:54+00:00",
+      "summary": "울산엘리야병원 \"흉통을 체기로 오인 말아야…당뇨·고령층은 증상 달라 더 주의\"&nbsp;&nbsp;투어코리아아침 산책 중 가슴 조이면 … 쌀쌀한 날씨 '협심증' 의심을&nbsp;&nbsp;매일경제‘체한 줄 알았는데 가슴이 꽉 조여’…협심증, 턱·어깨 통증도 살펴야&nbsp;&nbsp;세계일보[건강톡톡] 소화불량으로 오인하기 쉬운 ‘협심증’&nbsp;&nbsp;간호사신문가슴 통증, 체기로 넘겼다간 위험…턱·어깨까지 퍼지면 ‘협심증’ 의심&nbsp;&nbsp;미디어인뉴스",
+      "sources": [
+        {
+          "name": "투어코리아",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CRWtUc2FZMnV0dTQyWVhISmhBRmpSRE1zMXdNcmRRTWJXdFNia3lWZzk4VUUzamhYM0F2MkgwNk9wNHpGTGZTQUZDS25KTEw2UzMxSElXdjF0amNtdEZ6V2NDa29tdkZlOTZjb2pB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7dadbc896776",
+      "title": "[100세 과학] 할머니 14%가 100세까지, 이탈리아 새 장수촌 발견 - 조선비즈",
+      "published": "2026-10-07T11:23:00+00:00",
+      "summary": "[100세 과학] 할머니 14%가 100세까지, 이탈리아 새 장수촌 발견 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY05xMW82VjRvNEd1ZHFPRUI3Y2pVV0ZjTkRxbFVLTG0yeUd6NXhmVGEyRnhTY18tSWE3ODd6dkhBNW0zQlY4TGlXWFE2am1vcUpXUzJ0TEhWVGFDSmlmY3RyUGRTQWlxV0pVLWQ0ZUlJa0FkbTBKeHduSFhBY3puWGU4VmZ2QjgtSzRwMm9FVzN1RE9WQklN0gGrAUFVX3lxTE80amVGWTZCRHlFbWFyN3BNVFgyWmZ5eGJDTlpTakgzX1JZTFZ3Y19iMTdpNWNJS3M0V3FFVkxNdVUycXJvaFI2WEZRMkZUMzUxMXJ4Tnd3Tk9OWm1iWXQwYWwtcm90UFgzQmFnSmdsRFNLNGRGSFZPQjJQZkdNdFFIMVo5a1ZuSTZVTkVWT3hUenVsVWFScHUzWkJMMEJhU0daVFJrS1VlZjZyUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0ca4d1a3d434",
+      "title": "간암, 증상 나타나면 이미 늦다…고위험군 6개월마다 검진받아야",
+      "published": "2026-10-07T11:12:05+00:00",
+      "summary": "간암, 증상 나타나면 이미 늦다…고위험군 6개월마다 검진받아야&nbsp;&nbsp;메드월드뉴스\"증상 없어도 간암 안심 못 해... 고위험군 6개월마다 검진 필요\"&nbsp;&nbsp;한국일보“담 온 줄 알았는데”… 오른쪽 어깨 통증, 알고 보니 ‘암’ 신호였다&nbsp;&nbsp;헬스조선간암, 증상 느낄 때는 이미 늦어..6개월 무료 정기검진 필수&nbsp;&nbsp;글로벌경제신문다치지도 않았는데 오른쪽 어깨 아프다면…‘이 암’ 신호일 수 있다고?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UVDVSenBXYlRQVWFieDlGR1YtSUZSYTJlN1BwVDVxcXA3VGRqV3FtcEVpVTVnQ1VkWlJ2cHZhLTJ1S3FHaUhjUXVIRmZORnIxa3BMWGluMUhHMHZnYTZLOE5nczRwVHdlSmt2aXRn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -64,45 +207,6 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NaUZMOTFJX3Z5cUI3STc3RFdDNDJFT2JDU0JheFByU2h6MzlkWHpCRjNnLURZbURpYjlrcnd6ZmQ0aFZYMERPM29OQ2psUnlBbzhmZEgtNU5ua2NCS0prZ0t2aU01ZWJ2YlBleEVvMEVGZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "62f405b16797",
-      "title": "요거트 꾸준히 먹으면 생기는 변화 4가지… \"당뇨병 위험 17% 낮았다\"",
-      "published": "2026-10-07T11:00:00+00:00",
-      "summary": "요거트 꾸준히 먹으면 생기는 변화 4가지… \"당뇨병 위험 17% 낮았다\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rZGhfNm8zbGYtTUk3eWFaMnpVSXBlSHVCNG5vUHZFR21VTnN6bExpVzdhMkVsRVdyZVcyd1JHQ1BSaUFJQWtWZ1RCbGhxOFQ5SnZ4cGJDWFFKVEs1RFREMDlWeTZmWUp3S1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "28065e668a90",
-      "title": "미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증 - DongA Science",
-      "published": "2026-10-07T09:00:00+00:00",
-      "summary": "미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증&nbsp;&nbsp;DongA Science50세 미만 암 증가세 더 가팔랐다…英 7종·美 5종·네덜란드 4종↑&nbsp;&nbsp;뉴시스“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’&nbsp;&nbsp;헬스조선50세 미만 전립선암 22년 새 4배 급증, 신장암은 2배↑…이유는?&nbsp;&nbsp;스포츠조선“암 위험 급등”… ‘주말에 흔히 하는’ 행동 3가지&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtRjFxT1BqOGZQUDMxellqN3JKN3FTeVZZT3FYN0NxZ2otbF8xMUxRRXU2OFJjTEFoVWVFd3JEblBjR1lqcU0ya0F6RTdCOExBUk9iQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8ff49e7b90d1",
-      "title": "[데스크 칼럼] '치매 백신' 개발국의 조건",
-      "published": "2026-10-07T08:38:35+00:00",
-      "summary": "[데스크 칼럼] '치매 백신' 개발국의 조건&nbsp;&nbsp;한국경제",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sT29xY3ZpN2lPUWhqbnRFZGpYU1dRVXRZampHVDBQcnQzZmNlTnF2Q05TNlBOYTF6SzRaaDQyRUZ4UmY4bGZfNEVNQk9SSGVTOE5weGNPcHFudw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -137,7 +241,7 @@
       "id": "a543a4a944a6",
       "title": "국내 연구진, 비만이 대장암 유발하는 메커니즘 세계 최초 규명",
       "published": "2026-10-07T07:05:12+00:00",
-      "summary": "국내 연구진, 비만이 대장암 유발하는 메커니즘 세계 최초 규명&nbsp;&nbsp;간호사신문길병원 연구팀 \"비만 환자, 대장암 발생 전부터 대장에 흔적\"&nbsp;&nbsp;연합뉴스정상으로 보인 대장점막에 남은 비만의 흔적, 대장암과 연결됐다&nbsp;&nbsp;이데일리\"비만, 대장암 생기기 전부터 '분자적 흔적' 남긴다\"…'2단계 재프로그래밍' 메커니즘 규명&nbsp;&nbsp;스포츠조선비만 환자 정상 대장 점막, 이미 암 시작됐다 : 최신논문&nbsp;&nbsp;의약일보",
+      "summary": "국내 연구진, 비만이 대장암 유발하는 메커니즘 세계 최초 규명&nbsp;&nbsp;간호사신문비만이 새기는 대장 점막 위 흔적··· 대장암으로 이어질 가능성 키운다&nbsp;&nbsp;경향신문길병원 연구팀 \"비만 환자, 대장암 발생 전부터 대장에 흔적\"&nbsp;&nbsp;연합뉴스정상으로 보인 대장점막에 남은 비만의 흔적, 대장암과 연결됐다&nbsp;&nbsp;이데일리\"비만, 대장암 생기기 전부터 '분자적 흔적' 남긴다\"…'2단계 재프로그래밍' 메커니즘 규명&nbsp;&nbsp;스포츠조선",
       "sources": [
         {
           "name": "간호사신문",
@@ -163,63 +267,11 @@
       "id": "f678b9e343f1",
       "title": "'우유=뼈 건강'만은 잘못? 두뇌·인지 기능 발달에도 도움",
       "published": "2026-10-07T06:18:35+00:00",
-      "summary": "'우유=뼈 건강'만은 잘못? 두뇌·인지 기능 발달에도 도움&nbsp;&nbsp;소셜타임스건강에 좋은 우유에 죽염을 넣어 마시면?&nbsp;&nbsp;월간조선우유의 놀라운 효능 4가지… \"고관절 골절・뇌졸중 위험 줄어\"&nbsp;&nbsp;하이닥",
+      "summary": "'우유=뼈 건강'만은 잘못? 두뇌·인지 기능 발달에도 도움&nbsp;&nbsp;소셜타임스",
       "sources": [
         {
           "name": "소셜타임스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0S2tGSDFUdnN0b1BkZFFOSjduY3NER3NzWVNxRjgtV291bjZzRloxcjZhYXRBZkFoVG94MDZDQThUUUsySkpjUzF4YkdTM2xiWEEzY01Bcnd2VmJDRE9DTXF0aDE1Z1BkSXkwMDhpZ9IBc0FVX3lxTE9tSmFEbjNKM25fYzhLaFVJRkl4aE5mZ09feXpfM2VORE5xUTQ0S2M0LU1MR2FBSnBxVnhrZnhMQlU3MEJ3aUtRNDZab2dIQVZRRVo5MEFmN1RRc3JwTjFBblY4ODFNYXBVRTZMSXc4cFhRdVk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0ecbe350f974",
-      "title": "수학 난제부터 217년 묵은 나폴레옹軍 암호까지…인간 지식 넓히는 AI ‘연구 조수’",
-      "published": "2026-10-07T05:31:31+00:00",
-      "summary": "수학 난제부터 217년 묵은 나폴레옹軍 암호까지…인간 지식 넓히는 AI ‘연구 조수’&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVFBCU3hpcHgwUC1sMTdnZWlMSWhxdzUxaGxRNG1CTDZwMXRpZjJ3TjNVckkzSFVPTE02VFB6QkJqRDVla0xoUkoxTE53amlFRGVTSXRjZlNwSVVuempEUVZFY0ZuT0pHZGRibkxxU19MVGRKaERxZS03ZFhBTHNNQUgyQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7daee6b16704",
-      "title": "암 환자, 항우울제 먹었더니 사망 위험 37% 낮았다…연구",
-      "published": "2026-10-07T05:31:30+00:00",
-      "summary": "암 환자, 항우울제 먹었더니 사망 위험 37% 낮았다…연구&nbsp;&nbsp;디지털투데이Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIUk5DN2xmZVZudHJ0UVdkRzlXSFpDaDVKazg2dlJlOFl6R1ZTdGhXOXFyck0tR3pKb0RaUjdCX0hPMjBhOFozaF9ETFFLRGZqd1JKLTNfYTZzZW9FZUVYNzdMVnZDa3JqdUoyaHduNkZVNlk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2ef2de16086a",
-      "title": "누리호 ‘위성 15기’…한국 달 탐사차 부품 개발, 신약 실험도",
-      "published": "2026-10-07T05:08:00+00:00",
-      "summary": "누리호 ‘위성 15기’…한국 달 탐사차 부품 개발, 신약 실험도&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtZE9uMVZnZ19vUWYzVkRHRjRUSmtXUC1uWmpTbWxkemlObDhNZnlqYXZwYnh4LTdEUmJEMkdhbnhmTFROaGQ3X3phbHpGNThtcWY5SG9MWUxiVlNxS2VzNVA1X19USHctUTZJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "20bb10bf53d9",
-      "title": "다낭 병원에서 뎅기열 3배 증가, 의사는 질병 전환 징후 지적",
-      "published": "2026-10-07T04:06:48+00:00",
-      "summary": "다낭 병원에서 뎅기열 3배 증가, 의사는 질병 전환 징후 지적&nbsp;&nbsp;Laodong.vn뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스]&nbsp;&nbsp;서울신문질병 발생을 예방하고 통제하기 위한 사전 예방적 모니터링.&nbsp;&nbsp;Vietnam.vn까우자이 동은 뎅기열 및 전염병의 예방 및 통제에 적극적으로 나서고 있습니다.&nbsp;&nbsp;Vietnam.vn많은 지역에서 뎅기열 환자가 증가하면서 질병이 심각해질 위험에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU5kRzRUdE5jcHZBZXpaRWtkRFoyZUYtazlyeENUNmduWmVQVFlNWFA1bDhxNk9JNWlfSGpoNnRGM1dXRmJMTGZrZHlEam93emVSallvdXNYVmVmOVl5UHBOVUtDOVBUaUtXcGd6WnI2bmpGVFJyNWtsQXVVdXBmOUtnTHBLV21oczNfR2ptcUFNNFJJLWxOYzVwTDNKdWliYkNFcTZ1czNNS3NPbFJKdmdBQVYtamkxSVBITGZubw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -238,14 +290,14 @@
       "matched_keywords": []
     },
     {
-      "id": "17f856d3a067",
-      "title": "휴대폰 둔 곳 또 깜빡… 치매 걱정 전 확인할 ‘두 가지’",
-      "published": "2026-10-07T03:30:00+00:00",
-      "summary": "휴대폰 둔 곳 또 깜빡… 치매 걱정 전 확인할 ‘두 가지’&nbsp;&nbsp;헬스조선",
+      "id": "5c617b1e29a6",
+      "title": "고려대 연구팀, 루게릭병 운동기능 개선 새 후보물질 발굴",
+      "published": "2026-10-07T04:05:00+00:00",
+      "summary": "고려대 연구팀, 루게릭병 운동기능 개선 새 후보물질 발굴&nbsp;&nbsp;라포르시안루게릭병으로 떨어진 운동기능 개선하는 새 후보물질 찾았다&nbsp;&nbsp;BRIC고려대 연구팀, 루게릭병 약물 탐색 플랫폼 구축…TBA 후보물질 발굴&nbsp;&nbsp;더글로벌기빙뉴스고려대 안산병원 신경외과 김명지 교수 연구팀, 루게릭병 치료 후보물질 '트리벤질아민' 발굴…제브라피쉬 300종 탐색&nbsp;&nbsp;더퍼스트미디어루게릭병 치료 후보물질 ‘트리벤질아민’ 발굴&nbsp;&nbsp;간호사신문",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WMXAyZnpHN0ZiOVVzaG1sTEtxYTBsLTZsejIyTG0xT1BNLUxvS1hFY0RjQkEyak1HTlpxZktFejB1QkxvMGpoWFdRR19vMVgtLUtia2tBbUpaSFZZWmwzN01LMThpZ2RoZkxhMk13dF9ReWFFOGxOcVlLaFhpNlU?oc=5"
+          "name": "라포르시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GV1ZHLXVsS1JQZmFicEFHQ2pOdU9WWG9UcVV6OEpSakR2WWlKSFZiNmFza283U2xZMEczUkVkSDNMTWhIcm1pXzlOb2tEalRXR19TSEVRVnpDSlpaNGJJdkJGSjhucDlFdkF2bA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -342,6 +394,19 @@
       "matched_keywords": []
     },
     {
+      "id": "ef98fd7608af",
+      "title": "“약 먹을 땐 단 음식 피하세요”… 장 건강 무너뜨리는 뜻밖의 범인 [헬스픽]",
+      "published": "2026-10-06T22:12:00+00:00",
+      "summary": "“약 먹을 땐 단 음식 피하세요”… 장 건강 무너뜨리는 뜻밖의 범인 [헬스픽]&nbsp;&nbsp;서울신문Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUV9JdEQ0emYyNUlNb2tpanZrWW1qRXZvSzZYdU5peEtRVEtLaHB4Y1ZoaEhET1BMQXZZQmRETHZkYnY4dW9tNXJIRVBKLUs4XzZoVUppZ1c2Rllrcy1GZENjTUVuVnpUS3dxdEsySlZHUFBvOExlRHR5aw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "575fd06d5519",
       "title": "지끈지끈 두통, 약부터 찾았다면?... 편두통 완화에 좋은 식품 4가지",
       "published": "2026-10-06T22:00:00+00:00",
@@ -350,19 +415,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQWUtPU0taNG13S0llMHJRRFhLTmZKVmhQWU1HaDZ3WTRuQ01GTzJ6Z3o4UV9NRU1Uc0dkalV6NzFxQ09vYU1kbHlndUN6WVRydmNiSFBkTWpELWxQLXBOZEpTUlprSHNBOXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8357763cacc2",
-      "title": "끝나지 않는 '신경병증성 통증' 치료 표적 찾았다 - DongA Science",
-      "published": "2026-10-06T20:00:00+00:00",
-      "summary": "끝나지 않는 '신경병증성 통증' 치료 표적 찾았다&nbsp;&nbsp;DongA Science",
-      "sources": [
-        {
-          "name": "DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBybGk2cjFCQ2dzUktueXVyOE1mWUNNYzl5N3FZSng5RnhGRExiM2tkOU5nWDA0dDBBX3hSU0FHZkpkQTFCdVE0UlFsSEdmbERCNkpSNw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -407,19 +459,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7fce5fa6a4b5",
-      "title": "[장일영의 세월에 장사 있다] 건강검진 중 발견된 헬리코박터… 불편한 제균치료 꼭 해야 할까",
-      "published": "2026-10-06T14:45:43+00:00",
-      "summary": "[장일영의 세월에 장사 있다] 건강검진 중 발견된 헬리코박터… 불편한 제균치료 꼭 해야 할까&nbsp;&nbsp;Daum“약으로 없앨 수 있는 유일한 발암물질” 건강 검진할 때 ‘위내시경’ 꼭 해야 하는 이유&nbsp;&nbsp;헬스조선전 세계 암 12%는 감염 탓…헬리코박터·HPV가 150만 건&nbsp;&nbsp;약사공론헬리코박터 감염 경로를 알면 예방이 가능합니다&nbsp;&nbsp;MEDI:GATE NEWS[밴쿠버 조선일보]한국서 익숙한 ‘이 균’··· 전 세계 감염 관련 암 원인 1위 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보",
-      "sources": [
-        {
-          "name": "Daum",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1femlhc3JxMXpvb2xyRWhxTDhDdU9fdUJhOUo1VVg3QTdVOXJ1QlZKYXRZaGxfYXd6ZU8ySUxlcTBBaFJ4d3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "aacc8298df83",
       "title": "“잘 때 이 불빛 켜두지 마세요”…3룩스 넘었더니 심장벽 두꺼워졌다",
       "published": "2026-10-06T14:38:12+00:00",
@@ -459,14 +498,14 @@
       "matched_keywords": []
     },
     {
-      "id": "39212dcdcdd9",
-      "title": "살 빼도 붓고 아픈 다리…문제는 지방세포? 지방부종 치료 새 근거",
-      "published": "2026-10-06T07:12:17+00:00",
-      "summary": "살 빼도 붓고 아픈 다리…문제는 지방세포? 지방부종 치료 새 근거&nbsp;&nbsp;스포츠월드",
+      "id": "d11befbbf3fb",
+      "title": "환절기마다 반복되는 코막힘·재채기, 감기일까 비염일까?",
+      "published": "2026-10-06T08:08:31+00:00",
+      "summary": "환절기마다 반복되는 코막힘·재채기, 감기일까 비염일까?&nbsp;&nbsp;여성소비자신문환절기 '비염' 기승…증상별 비염약은 '이렇게'&nbsp;&nbsp;뉴시스",
       "sources": [
         {
-          "name": "스포츠월드",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50TVRfR1pNSzBUYk8yWGxfc1NnSTZqTHFiaWwtSUxpYl9ZLTYwXzJ0VWx5cXJCaFJqLXdscW1ZUGFWRzYzckllWWFVTHl2UjhVd3dib2JKajNBVVN2cGZDVmVR?oc=5"
+          "name": "여성소비자신문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXdFhvZ1BpNDEteUwxVEtQVDNOaXBGSUZWZTNUMFg5Y2NqYThZT0J4LUFFbUxmNW9HRFh1ekp4ajZwUzNGU3V3blhsLXRhZUg5WXc1RV83eE1Oc09WVTlILXk5U3RMQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -511,58 +550,6 @@
       "matched_keywords": []
     },
     {
-      "id": "52d9edefa123",
-      "title": "덴마크 연구진, 갈색지방 생체시계·추위 통합하는 수송단백질 규명",
-      "published": "2026-10-06T04:07:00+00:00",
-      "summary": "덴마크 연구진, 갈색지방 생체시계·추위 통합하는 수송단백질 규명&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lWFJaVXNtREd2Z2t1dm9fRElUZ3NWS1hFOHhxT253S1dYRUt2MldtZGphdzRKUllIaEFjbFM1STRkNVQwQWUxZU5xcHpmWVJtMzMtUg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b266b81f0329",
-      "title": "'하루 5층'만 걸어 올라가도...계단이 바꾸는 심장 건강",
-      "published": "2026-10-06T03:00:50+00:00",
-      "summary": "'하루 5층'만 걸어 올라가도...계단이 바꾸는 심장 건강&nbsp;&nbsp;하이뉴스심장마비 위험을 줄이기 위해 의사들이 매일 유지하라고 권장하는 습관입니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "하이뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WcjBLa21pMDUxbjI5RWdsYllCc2RKZl9kbXpydzBrbWRHU1gwMXNnZWpzbjJOWmctcXpPejdzVHhUUnpISGxkRjJyb19KM0xqUENqY1Q3eHQ0RjREUUhPTXpRVWM0M200cV9LcWVaQTl1bnlw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a2a837bd8812",
-      "title": "카이노스메드 HIV 신약, 바이러스 억제에 대사 개선까지…中 시판 후 데이터 공개",
-      "published": "2026-10-06T01:33:43+00:00",
-      "summary": "카이노스메드 HIV 신약, 바이러스 억제에 대사 개선까지…中 시판 후 데이터 공개&nbsp;&nbsp;PRESS9",
-      "sources": [
-        {
-          "name": "PRESS9",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qTXVXcXRCREZxdFU1VTNqaWEwRE5sOU92ZHUxanMyZ09MM2VUclpYaWdaUDZGbl9HNXN2RXM4bmVEZl9adHNDcGxMdHZvT3g4bkkwcUVKcWZxN3o0TmNlN05XNWw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9d5fb05a6449",
-      "title": "RNA 치료제, ‘끄는 기술’ vs ‘고쳐 쓰는 기술’…올릭스·알지노믹스의 정면승부",
-      "published": "2026-10-06T01:15:37+00:00",
-      "summary": "RNA 치료제, ‘끄는 기술’ vs ‘고쳐 쓰는 기술’…올릭스·알지노믹스의 정면승부&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zSTlGTndXVVc4cHRlV3dmem5TaFRuUVU1cUMtVnBTcmhCUThqUTREU1h2eGowVlRoVWJiQ2V4eE53WTVSOE1BN2VNbGdDWFdWdnNCVVpRbVdpWkdyTE80cnZBVU1IakU3cWxWZQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5ca489bf1644",
       "title": "혈압 낮추는 운동, '아침 vs 저녁' 언제 효과가 더 좋을까?",
       "published": "2026-10-06T00:05:50+00:00",
@@ -589,14 +576,40 @@
       "matched_keywords": []
     },
     {
-      "id": "ddf53225da86",
-      "title": "“천천히 걷기보단 빠르게 걸어라”…노화 극복을 위한 효과적 운동법 [사이언스 브런치]",
-      "published": "2026-10-04T08:30:00+00:00",
-      "summary": "“천천히 걷기보단 빠르게 걸어라”…노화 극복을 위한 효과적 운동법 [사이언스 브런치]&nbsp;&nbsp;서울신문",
+      "id": "2db7247daf3e",
+      "title": "\"부작용 줄인 RNA 기반 암 백신 개발\"",
+      "published": "2026-10-05T09:10:54+00:00",
+      "summary": "\"부작용 줄인 RNA 기반 암 백신 개발\"&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xTGQ3ZWd5eHVYS05PUVNzaUVfcDJzcmR2VGtLZ1dXaEFyQ3I0OXgyekZHWnY0UzdvZ25KQzB3UFVTWXp4WjM5TEotUE5fTi1YZFpKSkZlb0Vwdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5ad9a3425fd4",
+      "title": "뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스]",
+      "published": "2026-10-05T08:30:00+00:00",
+      "summary": "뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스]&nbsp;&nbsp;서울신문질병 발생을 예방하고 통제하기 위한 사전 예방적 모니터링.&nbsp;&nbsp;Vietnam.vn까우자이 동은 뎅기열 및 전염병의 예방 및 통제에 적극적으로 나서고 있습니다.&nbsp;&nbsp;Vietnam.vn많은 지역에서 뎅기열 환자가 증가하면서 질병이 심각해질 위험에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn경고: 뎅기열 발병률은 우기에 증가합니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUl3cTNlazFBUGxMazNJZGFiRk8zcm01VjluSWRBZU5LQ29KejJhdzNSUXV5YnpyNjl2VG5iTFcySWtWX1JzRUZlc3VVR0tubkZQYXl3N09DYnhRbUt2SWdYNWFqNGpjOGQwWW1SN0d1Q3FwbWpGNFktdHdrR0g2YUw4VllUYXFN?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56Xy15N2VYQkY5YnM4WGdOc0hQaFBQXzFxbG9LVU1OOGFpeU01ZVhqZmpKVHJBRDA5Q3VTSjUtNXZqWkh1X2d6bFVmVmFid3VVSEpNeUhMVWRHNThoLThkMWxYdmNFS1BZX3kybUZIQ3pwMlpGcTFNWEgtYjhnQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bb602fa23b70",
+      "title": "밤에 반복되는 통증, 망원동 정형외과가 말하는 상담 기준",
+      "published": "2026-10-05T02:14:59+00:00",
+      "summary": "밤에 반복되는 통증, 망원동 정형외과가 말하는 상담 기준&nbsp;&nbsp;유스연합오십견으로 인한 어깨통증, 증상과 원인 따라 적절한 진료 필요&nbsp;&nbsp;메디컬투데이[건강 칼럼] 밤마다 아픈 어깨... 모두 오십견은 아닙니다&nbsp;&nbsp;대로미디어강진구 원장 “팔 안 올라가면 오십견? 원인 구분 중요”&nbsp;&nbsp;국민기자뉴스팔 올릴 때 걸리는 어깨, 망원동 정형외과가 짚는 증상 양상&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXZFBYdElVWnZ2RDRKQ2MydFl3UHI2YjVIeVhlV2pkTS1pMUFLQUxyNEp1VXBBTTFfcXhiWW1Oc3FTLXZRYk16LXNYeFBCaDZfd2hF?oc=5"
         }
       ],
       "matched_keywords": []
@@ -615,14 +628,14 @@
       "matched_keywords": []
     },
     {
-      "id": "e5a11f458706",
-      "title": "잠 못 이루는 밤 반복되면…뇌·정신 건강에도 ‘빨간불’",
-      "published": "2026-10-03T10:43:00+00:00",
-      "summary": "잠 못 이루는 밤 반복되면…뇌·정신 건강에도 ‘빨간불’&nbsp;&nbsp;농민신문“단순한 잠 문제가 아니었다” 밤마다 뒤척인다면 주목…불면증, 뇌졸중 위험 26%↑&nbsp;&nbsp;서울신문불면증 있는 사람, 뇌졸중 위험 26% 높아&nbsp;&nbsp;메디컬투데이",
+      "id": "2d2447724ef5",
+      "title": "우유의 놀라운 효능 4가지… \"고관절 골절・뇌졸중 위험 줄어\"",
+      "published": "2026-10-03T22:00:00+00:00",
+      "summary": "우유의 놀라운 효능 4가지… \"고관절 골절・뇌졸중 위험 줄어\"&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PX2lPWFRRNW9NRTdfcTRPLUJ2dU1NcWZWal9oaVNyRnpuX3dISDVZVnUteHotaUV6NkNuM3lNTWpvU1ZtcVVURlN6QlhpNlNrMlRsMXZLUkYyUQ?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ERDZNbElVODZ2eVJPNmZEZVh0bGcxd29JZW9WS21jWm1BVEtoei1xT2hCNVAxU0t1Zk55SVU4RGF6bVlCeFd6RGJobWh1WEhTbFl0dHFQNzJmUllYS3JuSnpTWFoyQklRYkE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -641,27 +654,40 @@
       "matched_keywords": []
     },
     {
-      "id": "f4119cf043a4",
-      "title": "고혈압, 관절염 악화시킨다…‘혈압 호르몬’이 연골 보호 신호 꺼",
-      "published": "2026-10-02T13:12:00+00:00",
-      "summary": "고혈압, 관절염 악화시킨다…‘혈압 호르몬’이 연골 보호 신호 꺼&nbsp;&nbsp;한겨레",
+      "id": "0a0389949c27",
+      "title": "'명의' 박익성 교수가 전하는 젊은 뇌졸중",
+      "published": "2026-10-02T12:50:29+00:00",
+      "summary": "'명의' 박익성 교수가 전하는 젊은 뇌졸중&nbsp;&nbsp;비즈엔터뇌졸중 골든타임 지킨 의료진…환자는 다시 일상으로&nbsp;&nbsp;Daum제이엘케이 뇌졸중 AI 'JLK-CTP', EBS '명의'에 소개&nbsp;&nbsp;뉴스핌[굿클리닉] 2030도 위협하는 뇌혈관 질환…감마나이프로 절개없이 치료&nbsp;&nbsp;이데일리포항세명기독병원, 신속한 혈전제거술로 뇌졸중 환자 일상 회복&nbsp;&nbsp;대구신문",
       "sources": [
         {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FMVkyM01jMFlZNHhPbTJRR09TVzdOYW1RdzRkNHROcU8xWkVEYmZFNFkwWjlQcksxNXI5N1JSUjhyLXl4US1JZzdFdDJ5MGh4YWhjR0dPZGZPdkhCWGpTNV9NdDBFa1ZmbmlheGpFbGYxQQ?oc=5"
+          "name": "비즈엔터",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iVWFjSGd6MnZNS1hDVHZTOUF4LUdVeFFHajk2SEZZaFFFNF9pTXRHcGJuWVI1MEpGSDJaUzM2VXhQYkctZlpJRmFSY1k3bG9OZTVWMGln?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "b3548def3187",
-      "title": "기억력 저하도 노화 탓?… 치매 진행 늦출 기회 놓친다",
-      "published": "2026-10-02T06:40:12+00:00",
-      "summary": "기억력 저하도 노화 탓?… 치매 진행 늦출 기회 놓친다&nbsp;&nbsp;백세시대치매, 늦기 전에 막는다…뇌 건강 지키는 '3다3불'&nbsp;&nbsp;매경헬스",
+      "id": "55e979075f4a",
+      "title": "아이의 시선이 알려주는 우울증 신호 - VOA 한국어 홈페이지",
+      "published": "2026-10-01T17:46:33+00:00",
+      "summary": "아이의 시선이 알려주는 우울증 신호&nbsp;&nbsp;VOA 한국어 홈페이지",
       "sources": [
         {
-          "name": "백세시대",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LNlJNOHAzTmFBUW5VVzZuUlNIQUZGQW9rdzZEcThFWHhBVVpjUkZsV1B1dllUVm9zTGtGemVGaW9CNFVFeHczQV9jU0pjVUhUdng4U2Q1elVHWGU4V25ESjhPSlBJblloWHJj?oc=5"
+          "name": "VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wQVJBV1AzZTVlUDZfMFlmeDR4THRsazQ1SEF1dlRUWWFlSXRLNHZMYlhTSmllbHJzQmxjTkRGM0pHdWtoLW1nTkh5enB0US14VmJFQmNLVU9UbVkxMlZHOHQxVldJSkFwLUVSN2NmNkE5bWdTcUtKVNIBe0FVX3lxTE05QWltTHF3Zy1TMG8zRVV0cDR4cUk1SlF3RndtelFua09QTWNOT09FX1ctV2pydmJMV2cxLUJwa3dFYW5YSHFBWExLQWFiYTg5aDh0WGpodG1xX0h2R3lwdEw0bng1cGx4VXZqcVhCSkFrcWpkeWtlRThfWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3f3ecf51cb41",
+      "title": "중년 이후 뼈 건강 지키는 운동 따로 있다?…1만 8천여 명 분석 결과",
+      "published": "2026-10-01T09:00:00+00:00",
+      "summary": "중년 이후 뼈 건강 지키는 운동 따로 있다?…1만 8천여 명 분석 결과&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zTE9tbFBHTlJBNjN1WloyM3RKY2h1dm5mejBGR0hEbi15Y1R6bnJiOEFOTWFqUGxBR0o2MDJMN0JITG1JWEFuX3Izc3dGQnRVczlrS2JoZkZYeGVyUVZZSFd6UHVCQk5vQ0E?oc=5"
         }
       ],
       "matched_keywords": []
