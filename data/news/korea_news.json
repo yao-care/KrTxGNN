@@ -1,19 +1,79 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-09T05:15:02.044259+00:00",
-  "total_fetched": 108,
-  "unique_count": 108,
-  "health_related_count": 54,
+  "fetched_at": "2026-10-09T12:49:09.983581+00:00",
+  "total_fetched": 106,
+  "unique_count": 106,
+  "health_related_count": 49,
   "news": [
+    {
+      "id": "79d10d3adab5",
+      "title": "과자·핫도그 줄였더니 우울증 개선 - 한국경제",
+      "published": "2026-10-09T08:58:17+00:00",
+      "summary": "과자·핫도그 줄였더니 우울증 개선&nbsp;&nbsp;한국경제",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQcXZOa1ZWNUdCQkZSaE93NURMblRaeTFTZ1Rfdnh5Tk5QRFFubWIwUFc0Sml2SWNoOHRXYnR6MHFURWtqTGotaUlSbjczdDl0ZG51LUQ0RG5Pdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc6323f93c35",
+      "title": "[닥터스 M라운지] 기침 없어 위험한 노인 폐렴…무료 백신은 예방효과 한계 - 매일경제",
+      "published": "2026-10-09T07:55:32+00:00",
+      "summary": "[닥터스 M라운지] 기침 없어 위험한 노인 폐렴…무료 백신은 예방효과 한계&nbsp;&nbsp;매일경제임승관 질병청장 \"고령층 폐렴구균 단백결합 백신 접종, 내년 4월 예상\" - 머니투데이&nbsp;&nbsp;머니투데이65세 이상 사망원인 2위 폐렴 '인플루엔자·폐렴구균 백신 함께 챙겨야'…'75세 이상 고령층 인플루엔자 백신 접종 6일부터 시작' 인플루엔자 백신 접종 시 폐렴구균 백신도 같은날 접종 가능&nbsp;&nbsp;메디컬헤럴드한국화이자 “고령층 독감 접종 때 폐렴구균 접종 이력도 확인해야”&nbsp;&nbsp;전자신문고령층 독감 입원에 건보 수천억 투입되는데…백신 지원 예산은 삭감&nbsp;&nbsp;청년의사",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LcEdYRk5rTi16VVN1a1pISnJEM2ZyNGUwREZYSFBmY1I1S2d0aWp4c3lFME9TajNiUTBDcjNvV29fUW9nMjFsUFZzQkotQkMxcFRIMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0399fa80a46",
+      "title": "“호두 아니다”… 매일 한 줌 먹으니, 기억력·뇌혈류 깨운 ‘식품’ 정체 - 헬스조선",
+      "published": "2026-10-09T05:00:00+00:00",
+      "summary": "“호두 아니다”… 매일 한 줌 먹으니, 기억력·뇌혈류 깨운 ‘식품’ 정체&nbsp;&nbsp;헬스조선30대도 치매 걸렸다…두 치매 명의 “이 음식 안 먹는다”&nbsp;&nbsp;미주중앙일보“50세 이후 이 음식 끊었다” 치매 명의 꼭 지키는 ‘뇌 식단’&nbsp;&nbsp;Daum열량도 탄수화물도 비슷한 두 끼…‘초가공식’ 먹자 몸은 다르게 반응했다&nbsp;&nbsp;코메디닷컴매일 먹는 샌드위치가 치매 위험 높인다?... \"초가공식품이 뇌 노화 앞당겨\"&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TNDFMUlJQSW81YllBbjhmTEQ5MlVDTU4xN2M3Uzl0amVYcmVOVzlPUlVDek5pVzZSMkFldlFaeDRWVjBZdUNaRzJyZUdqX3lNSWVQTGpyQU5RNFpseHVHaHFGRWdScGVwSnd6WndGWERESzVYM2RiVVdZOHktVmc?oc=5"
+        }
+      ]
+    },
     {
       "id": "c7c35554cc86",
       "title": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰 - 하이닥",
       "published": "2026-10-09T04:00:00+00:00",
-      "summary": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥[건강포커스] \"콜레스테롤약 스타틴, 녹내장 위험·추가 치료 가능성 낮춰\"&nbsp;&nbsp;연합뉴스고지혈증약 복용한 사람, 녹내장 위험 낮았다&nbsp;&nbsp;약사공론스타틴 복용자, 녹내장 발생 위험 15% 낮아…치료 필요성도 낮은 것으로 나타나 : 학술·연구&nbsp;&nbsp;의약일보스타틴 복용, 녹내장 발생·추가 치료 위험 감소&nbsp;&nbsp;메디컬투데이",
+      "summary": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥[건강포커스] \"콜레스테롤약 스타틴, 녹내장 위험·추가 치료 가능성 낮춰\"&nbsp;&nbsp;연합뉴스고지혈증약 복용한 사람, 녹내장 위험 낮았다&nbsp;&nbsp;약사공론스타틴 복용, 녹내장 발생·추가 치료 위험 감소&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWanJ6U0ZlSzQwVzZRc05zemhJTXBPaXc4VkdaR1pLcHVkWEZsZUFPVnNkU1FwS0w5SUlqcEFUS29QRnZidGNMRXRweVdiM3dqRU1ybl9BN0NYZ09kUTc4S1VxX0Q2SHBxYmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2bb80a38a175",
+      "title": "NAD 영양제 성분 NR, 1년 임상서 파킨슨병 진행 못 늦췄다…410명 대상 JAMA 연구 - 팸타임스 FAM Times",
+      "published": "2026-10-09T03:09:56+00:00",
+      "summary": "NAD 영양제 성분 NR, 1년 임상서 파킨슨병 진행 못 늦췄다…410명 대상 JAMA 연구&nbsp;&nbsp;팸타임스 FAM Times",
+      "sources": [
+        {
+          "name": "팸타임스 FAM Times",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55Slp5Q1ctOWdJTUxUdHpMWENvSF9fV2M1OVQ2aVEyZU1RLTZmQTcyWThxZXAxRGpaMzJGSkNjeU1JZllIc0gxNndsbFRXbDQ5OURWMGVfRHpwSDdmSkt0Z1N2MXhXbDZvdThPOWJR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3aff22226276",
+      "title": "두 달 빨리 찾아온 독감 벌써 기승… “백신 지금 맞아야” - 미주한국일보",
+      "published": "2026-10-09T03:00:00+00:00",
+      "summary": "두 달 빨리 찾아온 독감 벌써 기승… “백신 지금 맞아야”&nbsp;&nbsp;미주한국일보독감 시즌 벌써 시작됐다… 백신 접종 서둘러야&nbsp;&nbsp;미주중앙일보하와이 호흡기 바이러스 유행…독감 환자 증가세&nbsp;&nbsp;KBFD[밴쿠버 조선일보]BC주, 독감 백신 접종 예약 13일부터 시행 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보가을에는 5가지 유형의 바이러스가 증가할 가능성이 높아지는데, 어떻게 예방할 수 있을까요?&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "미주한국일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sMHpuOWFWbFFXQzF2RGRkSS0zem5Nak5lekhFakk0cmJqV2Y3U09kOGNMMHpISzBiakZYWkFXanJnR3IwN3BuYjBpQVQ3MXNUMGFkXzlUbUpsajZfUFJz?oc=5"
         }
       ]
     },
@@ -66,18 +126,6 @@
       ]
     },
     {
-      "id": "fd4a81ff69b7",
-      "title": "FDA, 티쎈트릭 IV·SC 3기 dMMR 대장암 수술 후 보조요법 승인 - 메디코파마",
-      "published": "2026-10-08T22:20:48+00:00",
-      "summary": "FDA, 티쎈트릭 IV·SC 3기 dMMR 대장암 수술 후 보조요법 승인&nbsp;&nbsp;메디코파마",
-      "sources": [
-        {
-          "name": "메디코파마",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YM2JQcmYyTExlTHBBYVNXQ2V4TTJVUlFIY1BMdjBaSzNBcnFHTXo4NUdwd1N4emxHTTZxNkF6R20wWTItQjh2WlpvSUkyQmVrOFk5NUFPalhOREt3V0p0dTBJVlE3MEdkb2RFSEtTYjRndw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bc5e80d1a3d5",
       "title": "“통증 때문에 병원 갔더니”…14세 소년 요도에서 12cm ‘이것’ 발견 - 코메디닷컴",
       "published": "2026-10-08T22:02:00+00:00",
@@ -93,7 +141,7 @@
       "id": "ec3191b8cecd",
       "title": "건망증과 치매 사이 ‘경도인지장애’… \"회색지대일 때부터 잡아야\" [Weekend 헬스] - 파이낸셜뉴스",
       "published": "2026-10-08T19:00:00+00:00",
-      "summary": "건망증과 치매 사이 ‘경도인지장애’… \"회색지대일 때부터 잡아야\" [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스휴대폰 둔 곳 또 깜빡… 치매 걱정 전 확인할 ‘두 가지’&nbsp;&nbsp;헬스조선\"나이 들면 다 그렇지\" 넘겼는데…'이때' 놓치면 늦는다 [이지현의 생생헬스]&nbsp;&nbsp;한국경제기억력·우울증 문제가 아니라 치매?…'경도행동장애'와 '가성치매' [명의]&nbsp;&nbsp;아이뉴스24'깜박깜박' 하길래 건망증인줄…10명중 1명 '치매'&nbsp;&nbsp;뉴시스",
+      "summary": "건망증과 치매 사이 ‘경도인지장애’… \"회색지대일 때부터 잡아야\" [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스\"나이 들면 다 그렇지\" 넘겼는데…'이때' 놓치면 늦는다 [이지현의 생생헬스]&nbsp;&nbsp;한국경제기억력·우울증 문제가 아니라 치매?…'경도행동장애'와 '가성치매' [명의]&nbsp;&nbsp;아이뉴스24'깜박깜박' 하길래 건망증인줄…10명중 1명 '치매'&nbsp;&nbsp;뉴시스건망증과 경도인지장애, 치매로 가는 길목…65세 이상 10명 중 1명 ‘치매’&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "파이낸셜뉴스",
@@ -150,18 +198,6 @@
       ]
     },
     {
-      "id": "ee2f2d4a3184",
-      "title": "“청소·산책도 효과”… 파킨슨병 악화 늦춘 ‘주 8시간’의 비밀 - 헬스조선",
-      "published": "2026-10-08T08:55:00+00:00",
-      "summary": "“청소·산책도 효과”… 파킨슨병 악화 늦춘 ‘주 8시간’의 비밀&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qb3BMeFR6WUNhSDNTYWdkQnlGal9MbWNySmYzdXZTazRiN09DN2N6QmxUeHJndkZJV1JaOFNNUWI5a3BWamZMNDZiSzZSOW5HVTZyaVB4NURhY0d2bFgtejBTWV9aTlh3U2Fwb2lkVC1ZVUVCLTFBT0FjaTVRX0k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1cbf4a6c79c1",
       "title": "할로윈 사탕은 '포장지'째 보관해 확인해보세요, 알레르기·질식 위험부터 거릅니다 - 위키트리",
       "published": "2026-10-08T08:36:00+00:00",
@@ -186,18 +222,6 @@
       ]
     },
     {
-      "id": "7938452e4df4",
-      "title": "하와이 호흡기 바이러스 유행…독감 환자 증가세 - KBFD",
-      "published": "2026-10-08T05:04:00+00:00",
-      "summary": "하와이 호흡기 바이러스 유행…독감 환자 증가세&nbsp;&nbsp;KBFD독감 시즌 벌써 시작됐다… 백신 접종 서둘러야&nbsp;&nbsp;미주중앙일보가을에는 5가지 유형의 바이러스가 증가할 가능성이 높아지는데, 어떻게 예방할 수 있을까요?&nbsp;&nbsp;Vietnam.vn독감 시즌 예년보다 일찍 시작… \"빨리 백신 맞아야\"&nbsp;&nbsp;미주조선일보독감·코로나·RSV 3대 호흡기 바이러스 시즌…워싱턴주, 2026~27 접종 권고 발표&nbsp;&nbsp;시애틀코리안데일리",
-      "sources": [
-        {
-          "name": "KBFD",
-          "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5hbUdzQktOVTRONy1BWmNYdDhfSTR2aWxtVE04Z20wS1BzR3hlRm9yOVBFN2VmdGRaNGNSRlV30gE-QVVfeXFMTmFtR3NCS05VNE43LUFaY1h0OF9JNHZpbG1UTThnbTBLUHNHeGVGb3I5UEU3ZWZ0ZFo0Y1JGVXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "08c426df1abc",
       "title": "대장암 세포, 아연으로 면역 회피… 세계 최초 규명 - 간호사신문",
       "published": "2026-10-08T05:01:30+00:00",
@@ -213,7 +237,7 @@
       "id": "34b88370bd23",
       "title": "술 마시면 대장암 위험 증가한다...“당뇨·공복혈당장애 더 위험” - 하이닥",
       "published": "2026-10-08T05:00:00+00:00",
-      "summary": "술 마시면 대장암 위험 증가한다...“당뇨·공복혈당장애 더 위험”&nbsp;&nbsp;하이닥혈당 높은데 '적당한 술' 괜찮을까…447만 명 추적했더니&nbsp;&nbsp;SBS 뉴스혈당 높다면 소량의 술도 안심 못 한다…대장암 위험 48% 높아져&nbsp;&nbsp;진주인터넷뉴스혈당 높으면 ‘반주’도 안심 못한다…당뇨에 술 더하자 대장암 위험 48%↑&nbsp;&nbsp;Daum“소주 한 잔쯤은 괜찮겠지” 했는데…이런 사람들은 적게 마셔도 큰일 [헬시타임]&nbsp;&nbsp;서울경제",
+      "summary": "술 마시면 대장암 위험 증가한다...“당뇨·공복혈당장애 더 위험”&nbsp;&nbsp;하이닥혈당 높은데 '적당한 술' 괜찮을까…447만 명 추적했더니&nbsp;&nbsp;SBS 뉴스혈당 높다면 소량의 술도 안심 못 한다…대장암 위험 48% 높아져&nbsp;&nbsp;진주인터넷뉴스“소주 한 잔쯤은 괜찮겠지” 했는데…이런 사람들은 적게 마셔도 큰일 [헬시타임]&nbsp;&nbsp;서울경제혈당 높고 술까지 마신다면…대장암 위험 더 커진다&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "하이닥",
@@ -258,18 +282,6 @@
       ]
     },
     {
-      "id": "b8b266650629",
-      "title": "'치매' 노령견 뇌, 사람 알츠하이머와 닮았다…24마리 전원 신피질서 아밀로이드 침착 - 팸타임스 FAM Times",
-      "published": "2026-10-08T00:51:46+00:00",
-      "summary": "'치매' 노령견 뇌, 사람 알츠하이머와 닮았다…24마리 전원 신피질서 아밀로이드 침착&nbsp;&nbsp;팸타임스 FAM Times",
-      "sources": [
-        {
-          "name": "팸타임스 FAM Times",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WOFNib2c5UDZXc0kzZUl3R29Ob2pieEFvQjB1QVhLYkxUaENoeWFXcU54cmlobEUzUEJxdC1jQmNtaHhhbnNnRXVCYmtNS0lJMDIwRWV2LW9HY0NHTG94ZWtqUW9lM250dHZ1cWhn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7c5f699d220c",
       "title": "루게릭병 운동기능 개선 새 후보물질 찾았다 - 보건신문",
       "published": "2026-10-08T00:51:21+00:00",
@@ -309,7 +321,7 @@
       "id": "66e44f452271",
       "title": "내 암세포를 분석해, 나에게 맞는 암백신을 만든다? - 의학신문",
       "published": "2026-10-07T22:19:02+00:00",
-      "summary": "내 암세포를 분석해, 나에게 맞는 암백신을 만든다?&nbsp;&nbsp;의학신문[포럼] 희망의 문 열린 암백신&nbsp;&nbsp;파이낸셜뉴스암 백신은 수백만 명의 환자들의 삶을 바꿀 수 있습니다.&nbsp;&nbsp;Vietnam.vn변이 맞춰 매년 새롭게…고령층 보호하는 모더나 '스파이크박스'[약전약후]&nbsp;&nbsp;Daum[Editor's Letter]백신의 영토 확장&nbsp;&nbsp;한국경제",
+      "summary": "내 암세포를 분석해, 나에게 맞는 암백신을 만든다?&nbsp;&nbsp;의학신문[포럼] 희망의 문 열린 암백신&nbsp;&nbsp;파이낸셜뉴스암 백신은 수백만 명의 환자들의 삶을 바꿀 수 있습니다.&nbsp;&nbsp;Vietnam.vn변이 맞춰 매년 새롭게…고령층 보호하는 모더나 '스파이크박스'[약전약후]&nbsp;&nbsp;Daum[KISTI의 과학향기]코로나 백신 주역 ‘mRNA’, 이번에 암 정복하나?&nbsp;&nbsp;www.dt.co.kr",
       "sources": [
         {
           "name": "의학신문",
@@ -342,26 +354,26 @@
       ]
     },
     {
-      "id": "a2338d046c67",
-      "title": "日 연구팀, \"고칼로리 식단, 뇌 신경 이상 일으켜 인지기능 저하\" [KDF World] - 한국면세뉴스",
-      "published": "2026-10-07T15:30:00+00:00",
-      "summary": "日 연구팀, \"고칼로리 식단, 뇌 신경 이상 일으켜 인지기능 저하\" [KDF World]&nbsp;&nbsp;한국면세뉴스“50세 이후 이 음식 끊었다” 치매 명의 꼭 지키는 ‘뇌 식단’&nbsp;&nbsp;Daum열량도 탄수화물도 비슷한 두 끼…‘초가공식’ 먹자 몸은 다르게 반응했다&nbsp;&nbsp;코메디닷컴“호두 대신 매일 먹었는데”… 60대 뇌 건강 지킨다는 ‘연어’의 두 얼굴&nbsp;&nbsp;뉴스와장바구니 속 채소와 뇌의 작은 혈관&nbsp;&nbsp;브런치",
+      "id": "d268b93e3a33",
+      "title": "파킨슨병 진행 예측, 임상·영상·병리 지표로 확장 - 메디칼업저버",
+      "published": "2026-10-07T20:57:36+00:00",
+      "summary": "파킨슨병 진행 예측, 임상·영상·병리 지표로 확장&nbsp;&nbsp;메디칼업저버“청소·산책도 효과”… 파킨슨병 악화 늦춘 ‘주 8시간’의 비밀&nbsp;&nbsp;헬스조선파킨슨병 환자, 많이 움직일수록 진행 느렸다&nbsp;&nbsp;메디컬투데이\"얼마나 꾸준히 움직이느냐가 중요\"...주 8시간 이상 신체활동한 파킨슨병 환자, 인지기능 거의 유지&nbsp;&nbsp;센머니",
       "sources": [
         {
-          "name": "한국면세뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PWWF2dUljbUtZVjQtcHJ1b1VTRzA3UXJwR0FhbnJXSElLR0FyaDF2enR4b2g5aXBEa0Y0cWo2aUtMd1Y1S3hfOTFtdWNnQ1dnRXBwQWJBTmotQUtxTHR5d3ZnZDdXMkFJdVE?oc=5"
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94TXFPZC1sWHp0VXlGV2k4VUN0dzFfeTgtYnBQOWI4TVRISzBKT2pnQk5iT0hMRHBDMnVpX2YwNHY3d2hLRjIwU3Z4NzFGTVBqNnpPQjg3M3hZQUg1SHg2S3B0dHZqOHVjVkpR?oc=5"
         }
       ]
     },
     {
-      "id": "7dadbc896776",
-      "title": "[100세 과학] 할머니 14%가 100세까지, 이탈리아 새 장수촌 발견 - 조선비즈 - Chosunbiz",
-      "published": "2026-10-07T11:23:00+00:00",
-      "summary": "[100세 과학] 할머니 14%가 100세까지, 이탈리아 새 장수촌 발견 - 조선비즈&nbsp;&nbsp;Chosunbiz",
+      "id": "5ad99e2ce74a",
+      "title": "“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’ - 헬스조선",
+      "published": "2026-10-07T16:30:00+00:00",
+      "summary": "“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’&nbsp;&nbsp;헬스조선50세 미만 암 증가세 더 가팔랐다…英 7종·美 5종·네덜란드 4종↑&nbsp;&nbsp;뉴시스[충청논단] 30대 男 비만율이 59%라니&nbsp;&nbsp;충청타임즈50세 미만 전립선암 22년 새 4배 급증, 신장암은 2배↑…이유는?&nbsp;&nbsp;스포츠조선미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증&nbsp;&nbsp;DongA Science",
       "sources": [
         {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY05xMW82VjRvNEd1ZHFPRUI3Y2pVV0ZjTkRxbFVLTG0yeUd6NXhmVGEyRnhTY18tSWE3ODd6dkhBNW0zQlY4TGlXWFE2am1vcUpXUzJ0TEhWVGFDSmlmY3RyUGRTQWlxV0pVLWQ0ZUlJa0FkbTBKeHduSFhBY3puWGU4VmZ2QjgtSzRwMm9FVzN1RE9WQklN0gGrAUFVX3lxTE80amVGWTZCRHlFbWFyN3BNVFgyWmZ5eGJDTlpTakgzX1JZTFZ3Y19iMTdpNWNJS3M0V3FFVkxNdVUycXJvaFI2WEZRMkZUMzUxMXJ4Tnd3Tk9OWm1iWXQwYWwtcm90UFgzQmFnSmdsRFNLNGRGSFZPQjJQZkdNdFFIMVo5a1ZuSTZVTkVWT3hUenVsVWFScHUzWkJMMEJhU0daVFJrS1VlZjZyUQ?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMnlxQ3JGenBybTY0OXBYNFdUYjN5UmdMOWY2MVNRUGlRTmVvZG9ycHV6R2dqM1g1UHlUWUp3T0lHWFZYcEdtMTJ1TGIxam1ZUXljU3NrZzBsUlRleUwzOE10c1dIVmJfQnlHeGpWQWZfLVRkREc5UDMwQnFUNzg?oc=5"
         }
       ]
     },
@@ -386,30 +398,6 @@
         {
           "name": "비건뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SmczOHRhN2Z1LVNqZXFRQUpZemM0NVc1LW8zNngwR1U2VXJpMHRPaTF0MEVZNzl6WTNkejdCU05lOWs3R0kwS2NrdnZ2ejBreGlVdm1aRFZhcHNRT3loZm9HZDdXUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28065e668a90",
-      "title": "미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증 - DongA Science",
-      "published": "2026-10-07T09:00:00+00:00",
-      "summary": "미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증&nbsp;&nbsp;DongA Science“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’&nbsp;&nbsp;헬스조선50세 미만 암 증가세 더 가팔랐다…英 7종·美 5종·네덜란드 4종↑&nbsp;&nbsp;뉴시스50세 미만 전립선암 22년 새 4배 급증, 신장암은 2배↑…이유는?&nbsp;&nbsp;스포츠조선“암 위험 급등”… ‘주말에 흔히 하는’ 행동 3가지&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtRjFxT1BqOGZQUDMxellqN3JKN3FTeVZZT3FYN0NxZ2otbF8xMUxRRXU2OFJjTEFoVWVFd3JEblBjR1lqcU0ya0F6RTdCOExBUk9iQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b19521575e24",
-      "title": "65세 이상 폐렴구균 단백결합백신, 빠르면 내년 4월 접종 - 뉴스더보이스헬스케어",
-      "published": "2026-10-07T08:18:39+00:00",
-      "summary": "65세 이상 폐렴구균 단백결합백신, 빠르면 내년 4월 접종&nbsp;&nbsp;뉴스더보이스헬스케어임승관 질병청장 \"고령층 폐렴구균 단백결합 백신 접종, 내년 4월 예상\" - 머니투데이&nbsp;&nbsp;머니투데이한국화이자 “고령층 독감 접종 때 폐렴구균 접종 이력도 확인해야”&nbsp;&nbsp;전자신문65세 이상 사망원인 2위 '이것'…\"백신 꼭 챙겨요\"&nbsp;&nbsp;뉴시스고령층 사망원인 2위 ‘폐렴’…독감 백신 접종 시 폐렴구균 동시 접종해야&nbsp;&nbsp;서울경제TV",
-      "sources": [
-        {
-          "name": "뉴스더보이스헬스케어",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FbXhQUE5pLXQzb0ltQWZROFEyVG16ZGNtWkV1ZWlfWXBvQ3pkcXlzTnpHeUNDOVhrcjFjbzExbmhuYlItcDJOZm5uVUFXb3pxMkEyVUUzUHZBQ1lQMU9hOHQzNXlfRWJaeUJoVmZkQQ?oc=5"
         }
       ]
     },
@@ -450,6 +438,18 @@
       ]
     },
     {
+      "id": "56c62660f91e",
+      "title": "빛 한번 쬐면 4주간 스스로 성장…中 연구진 ‘성장하는 하이드로겔’ 개발 - 매일경제",
+      "published": "2026-10-07T01:27:07+00:00",
+      "summary": "빛 한번 쬐면 4주간 스스로 성장…中 연구진 ‘성장하는 하이드로겔’ 개발&nbsp;&nbsp;매일경제",
+      "sources": [
+        {
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBN1RHX3REYkc4bHhYWV9FMnBhOUc2UDd2Wk56MzhPRl82NWRZRkVlcWt0LUVTQVVGSnNhNzVLS2tXMkNKR0Y3YUl5VkkzalZPRFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0eb06f660d6a",
       "title": "일본은 어떻게 초고령사회에 대응했나…“대사·인지건강 조기 관리 중요” - 현대건강신문",
       "published": "2026-10-07T00:47:00+00:00",
@@ -474,14 +474,14 @@
       ]
     },
     {
-      "id": "7e79931e7530",
-      "title": "中 연구진, '생명체처럼' 스스로 형태 바꾸는 하이드로겔 개발 - 뉴스핌",
-      "published": "2026-10-06T22:27:00+00:00",
-      "summary": "中 연구진, '생명체처럼' 스스로 형태 바꾸는 하이드로겔 개발&nbsp;&nbsp;뉴스핌",
+      "id": "ef98fd7608af",
+      "title": "“약 먹을 땐 단 음식 피하세요”… 장 건강 무너뜨리는 뜻밖의 범인 [헬스픽] - 서울신문",
+      "published": "2026-10-06T22:12:00+00:00",
+      "summary": "“약 먹을 땐 단 음식 피하세요”… 장 건강 무너뜨리는 뜻밖의 범인 [헬스픽]&nbsp;&nbsp;서울신문Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "뉴스핌",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41Y2NYdEgwaHFaY3QwOU11d3RBVXIyX1E2TFB2N09SLW5mQklkN1IwZm5XTFFJODJrYThqWnVPcHdqd3NkRHpFVmY1MGdHMm1ad01FU2c1cm1BcXlH?oc=5"
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUV9JdEQ0emYyNUlNb2tpanZrWW1qRXZvSzZYdU5peEtRVEtLaHB4Y1ZoaEhET1BMQXZZQmRETHZkYnY4dW9tNXJIRVBKLUs4XzZoVUppZ1c2Rllrcy1GZENjTUVuVnpUS3dxdEsySlZHUFBvOExlRHR5aw?oc=5"
         }
       ]
     },
@@ -498,18 +498,6 @@
       ]
     },
     {
-      "id": "d11befbbf3fb",
-      "title": "환절기마다 반복되는 코막힘·재채기, 감기일까 비염일까? - 여성소비자신문",
-      "published": "2026-10-06T08:08:31+00:00",
-      "summary": "환절기마다 반복되는 코막힘·재채기, 감기일까 비염일까?&nbsp;&nbsp;여성소비자신문환절기 '비염' 기승…증상별 비염약은 '이렇게'&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "여성소비자신문",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXdFhvZ1BpNDEteUwxVEtQVDNOaXBGSUZWZTNUMFg5Y2NqYThZT0J4LUFFbUxmNW9HRFh1ekp4ajZwUzNGU3V3blhsLXRhZUg5WXc1RV83eE1Oc09WVTlILXk5U3RMQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "39212dcdcdd9",
       "title": "살 빼도 붓고 아픈 다리…문제는 지방세포? 지방부종 치료 새 근거 - 스포츠월드",
       "published": "2026-10-06T07:12:17+00:00",
@@ -518,18 +506,6 @@
         {
           "name": "스포츠월드",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50TVRfR1pNSzBUYk8yWGxfc1NnSTZqTHFiaWwtSUxpYl9ZLTYwXzJ0VWx5cXJCaFJqLXdscW1ZUGFWRzYzckllWWFVTHl2UjhVd3dib2JKajNBVVN2cGZDVmVR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f026136fb7a9",
-      "title": "“중년의 몸은 다르다”… 무심코 넘겼다간 큰일나는 증상 넷 - 헬스조선",
-      "published": "2026-10-06T05:30:00+00:00",
-      "summary": "“중년의 몸은 다르다”… 무심코 넘겼다간 큰일나는 증상 넷&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FVVlwQ2ROY1pnbll1d3RJT2NjYUM4cXFUV0g5eFFEb3pEM3pIanoyMFBoVEV1Q2pmUURWSzV0eFVEdU81YWhvMkZQQWlsbU1OLWxqTXBEZ1JHOVdmdEhwU1pZLUpaY3dvSTNXNnk0LVc2SzNGang0Mk0zVEVBZU0?oc=5"
         }
       ]
     },
@@ -554,18 +530,6 @@
         {
           "name": "축산신문",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xYUVreE1HUDRCSmVJRmtVYzg4cXhtZkxfZDV3WmZZb2xZS0VqREVMck9jU3JobzZsOXViNE9QVko2LWhmczBrcnVzb3p5eVRNVGJzM2ZGcUpoMU52SDNyalc1Q1Q5WlNo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6ef8cb40f205",
-      "title": "당뇨치료제 복용에도 널뛰는 혈당… 췌장검사가 필요한 이유 - 바이오타임즈",
-      "published": "2026-10-05T23:00:00+00:00",
-      "summary": "당뇨치료제 복용에도 널뛰는 혈당… 췌장검사가 필요한 이유&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "바이오타임즈",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05M0x4M3JUZk5BXzhnRWlDR0tvQWtSZ1lQM2tRUm41QkRVdDlvcnJzRzIteDZEYTFPNDhwU2ZFUEstTVVLbUVuOHFPdmVxSm9uSzJnTmRVQlpvbHIxZkd2TkEweTlXYXl4RWhwVQ?oc=5"
         }
       ]
     },
@@ -597,7 +561,7 @@
       "id": "5ad9a3425fd4",
       "title": "뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스] - 서울신문",
       "published": "2026-10-05T08:30:00+00:00",
-      "summary": "뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스]&nbsp;&nbsp;서울신문경고: 뎅기열 발병률은 우기에 증가합니다.&nbsp;&nbsp;Vietnam.vn질병 발생을 예방하고 통제하기 위한 사전 예방적 모니터링.&nbsp;&nbsp;Vietnam.vn열이 내렸다고 해서 뎅기열의 위험이 사라진 것은 아닙니다.&nbsp;&nbsp;Vietnam.vn많은 지역에서 뎅기열 환자가 증가하면서 질병이 심각해질 위험에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스]&nbsp;&nbsp;서울신문해당 지역에서 뎅기열 환자가 발생하자 보건 당국은 상황을 긴급히 모니터링하고 있습니다.&nbsp;&nbsp;Vietnam.vn계절성 질병을 조기에 예방하고 확산을 막으세요.&nbsp;&nbsp;Vietnam.vn경고: 뎅기열 발병률은 우기에 증가합니다.&nbsp;&nbsp;Vietnam.vn뎅기열은 계절성 질환입니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "서울신문",
@@ -618,18 +582,6 @@
       ]
     },
     {
-      "id": "537ae7438a7b",
-      "title": "심형래 챙긴 ‘현미 누룽지’… 당뇨병 환자 혈당 관리에 도움 될까? - 헬스조선",
-      "published": "2026-10-02T22:00:00+00:00",
-      "summary": "심형래 챙긴 ‘현미 누룽지’… 당뇨병 환자 혈당 관리에 도움 될까?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DRXJMVWRuckRoQ0NMZ2ZacFhSUnVLSDQwaUJsOGlrcE1iQm5JU2wtMjlubTdUbW1OaWU5NTNOTFU2WEVEUWh5LU5TclUyQ2JYTkFiakRQZGYwOVB5eEVmSklGMW9qakZlbHRuRnJPNW1xMnF1RWp0Q1FrWlZaQ0k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a8f3d5f7d940",
       "title": "뇌 MRI로 본 ‘뇌 나이’, 어떤 질환에서 더 빠르게 노화했나? - VOA 한국어 홈페이지",
       "published": "2026-10-02T17:50:21+00:00",
@@ -638,18 +590,6 @@
         {
           "name": "VOA 한국어 홈페이지",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WLW5TczVJYU9tSFFNRU02QXI1ZlRiUjA3WHBTaFNGeTZuN2RkYVlCWlEwQmNNSXFLMUVxVFM3RlBicjRoUFEtYzNNNGhpZ0JD0gFTQVVfeXFMT0RWTkxwTHJQQTdTSmdvUzBWVXU4Q2xRVkZXZHo0aHI2TGZ4NDNiSnJqTER5MjJjNkhOVFNzeGtUSElKVUcwaVRPY2tBR3FleElrcms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4119cf043a4",
-      "title": "고혈압, 관절염 악화시킨다…‘혈압 호르몬’이 연골 보호 신호 꺼 - 한겨레",
-      "published": "2026-10-02T13:12:00+00:00",
-      "summary": "고혈압, 관절염 악화시킨다…‘혈압 호르몬’이 연골 보호 신호 꺼&nbsp;&nbsp;한겨레",
-      "sources": [
-        {
-          "name": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FMVkyM01jMFlZNHhPbTJRR09TVzdOYW1RdzRkNHROcU8xWkVEYmZFNFkwWjlQcksxNXI5N1JSUjhyLXl4US1JZzdFdDJ5MGh4YWhjR0dPZGZPdkhCWGpTNV9NdDBFa1ZmbmlheGpFbGYxQQ?oc=5"
         }
       ]
     }
