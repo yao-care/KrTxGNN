@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-10-08T23:04:38.192843+00:00",
-  "total_count": 53,
+  "last_updated": "2026-10-09T05:15:02.186385+00:00",
+  "total_count": 54,
   "matched_count": 0,
   "news": [
+    {
+      "id": "c7c35554cc86",
+      "title": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰",
+      "published": "2026-10-09T04:00:00+00:00",
+      "summary": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥[건강포커스] \"콜레스테롤약 스타틴, 녹내장 위험·추가 치료 가능성 낮춰\"&nbsp;&nbsp;연합뉴스고지혈증약 복용한 사람, 녹내장 위험 낮았다&nbsp;&nbsp;약사공론스타틴 복용자, 녹내장 발생 위험 15% 낮아…치료 필요성도 낮은 것으로 나타나 : 학술·연구&nbsp;&nbsp;의약일보스타틴 복용, 녹내장 발생·추가 치료 위험 감소&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWanJ6U0ZlSzQwVzZRc05zemhJTXBPaXc4VkdaR1pLcHVkWEZsZUFPVnNkU1FwS0w5SUlqcEFUS29QRnZidGNMRXRweVdiM3dqRU1ybl9BN0NYZ09kUTc4S1VxX0Q2SHBxYmc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "03c699f0e996",
+      "title": "운동만 하면 울렁울렁 토 나오는 이유는?…이런 증상 다스리는 요령",
+      "published": "2026-10-09T02:05:00+00:00",
+      "summary": "운동만 하면 울렁울렁 토 나오는 이유는?…이런 증상 다스리는 요령&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10UThRVFZzLWNJS21YWW1KajF0LV9LNjEwQVE3UGVtQ3JvbUl4WjRaQTM0dGU5bTlQdVQ4V3pNYldpdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f33c819d1220",
+      "title": "[꽁다방의 쌕고양이가 주는 보약 한 문장] 스티븐 호킹",
+      "published": "2026-10-08T23:57:24+00:00",
+      "summary": "[꽁다방의 쌕고양이가 주는 보약 한 문장] 스티븐 호킹&nbsp;&nbsp;한국공공정책신문",
+      "sources": [
+        {
+          "name": "한국공공정책신문",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBETFZ2YnpOX0ZrYUg5OFl5ZXFCM2RkTmRfTjJlZU9Hd1FmV2JubnJEeFkwSm1YcU9DYUhHYy11ZVdMekk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "43b35c7e3027",
       "title": "[콕!건강]간암, 증상 나타나면 늦어…고위험군 6개월마다 검진해야",
@@ -30,6 +69,19 @@
       "matched_keywords": []
     },
     {
+      "id": "fd4a81ff69b7",
+      "title": "FDA, 티쎈트릭 IV·SC 3기 dMMR 대장암 수술 후 보조요법 승인",
+      "published": "2026-10-08T22:20:48+00:00",
+      "summary": "FDA, 티쎈트릭 IV·SC 3기 dMMR 대장암 수술 후 보조요법 승인&nbsp;&nbsp;메디코파마",
+      "sources": [
+        {
+          "name": "메디코파마",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YM2JQcmYyTExlTHBBYVNXQ2V4TTJVUlFIY1BMdjBaSzNBcnFHTXo4NUdwd1N4emxHTTZxNkF6R20wWTItQjh2WlpvSUkyQmVrOFk5NUFPalhOREt3V0p0dTBJVlE3MEdkb2RFSEtTYjRndw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "bc5e80d1a3d5",
       "title": "“통증 때문에 병원 갔더니”…14세 소년 요도에서 12cm ‘이것’ 발견",
       "published": "2026-10-08T22:02:00+00:00",
@@ -43,14 +95,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ee9d3fc3c779",
-      "title": "대화 일부 기억 못하고, 했던 말 반복하면 경도인지장애 의심[이지현의 생생헬스]",
-      "published": "2026-10-08T22:00:03+00:00",
-      "summary": "대화 일부 기억 못하고, 했던 말 반복하면 경도인지장애 의심[이지현의 생생헬스]&nbsp;&nbsp;한국경제'깜박깜박' 하길래 건망증인줄…10명중 1명 '치매'&nbsp;&nbsp;뉴시스휴대폰 둔 곳 또 깜빡… 치매 걱정 전 확인할 ‘두 가지’&nbsp;&nbsp;헬스조선건망증과 치매 사이 ‘경도인지장애’… \"회색지대일 때부터 잡아야\" [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스건망증과 경도인지장애, 치매로 가는 길목…65세 이상 10명 중 1명 ‘치매’&nbsp;&nbsp;세계일보",
+      "id": "ec3191b8cecd",
+      "title": "건망증과 치매 사이 ‘경도인지장애’… \"회색지대일 때부터 잡아야\" [Weekend 헬스]",
+      "published": "2026-10-08T19:00:00+00:00",
+      "summary": "건망증과 치매 사이 ‘경도인지장애’… \"회색지대일 때부터 잡아야\" [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스휴대폰 둔 곳 또 깜빡… 치매 걱정 전 확인할 ‘두 가지’&nbsp;&nbsp;헬스조선\"나이 들면 다 그렇지\" 넘겼는데…'이때' 놓치면 늦는다 [이지현의 생생헬스]&nbsp;&nbsp;한국경제기억력·우울증 문제가 아니라 치매?…'경도행동장애'와 '가성치매' [명의]&nbsp;&nbsp;아이뉴스24'깜박깜박' 하길래 건망증인줄…10명중 1명 '치매'&nbsp;&nbsp;뉴시스",
       "sources": [
         {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CWElRX1FhckRETkFoOXBqcEkwUWowaHlneTlxLTR4UnV4ZThaeldYS1FhM2VMZUMzek1ZeWVOVEJkczRfaWJFVmVqUFdsOW5XQjRfRzFKenNYUQ?oc=5"
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQeUpyQ0FqVjQyR3ktMVowNVAtMk5Fc0ZyZ29VU0JFaE41VVd2U0txVi15UkpwcXNzblZQWHJxLVJ3UElPSmc1Zlg2YmtSbGJNUTFBWGFNMEU1Zw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -82,19 +134,6 @@
       "matched_keywords": []
     },
     {
-      "id": "18c8244298c0",
-      "title": "\"ADHD 있으면 변비·복통도 잦다?\"… 소화기 증상과의 연관성 살펴보니",
-      "published": "2026-10-08T10:30:00+00:00",
-      "summary": "\"ADHD 있으면 변비·복통도 잦다?\"… 소화기 증상과의 연관성 살펴보니&nbsp;&nbsp;하이닥성인 ADHD 환자, 나이 들어 인지장애 위험 4배&nbsp;&nbsp;헬스조선“회의 때 딴생각, 약속도 깜빡”⋯성인 ADHD 앓는 ‘김 부장’, 치매 위험과 무슨 관계?&nbsp;&nbsp;코메디닷컴나도 성인 ADHD 아닐까?\" | 성인 ADHD 1부&nbsp;&nbsp;정신의학신문ADHD 환자, 변비·과민성장증후군 등 위험 높아&nbsp;&nbsp;문화투데이",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Z0hwaHJZQ0lNMXU3d1ZYeVNQQUs5ZFdXNk9KZWp2aWxNT1hhNkZPSU10RTdjNmVqcXdjeUZ6eWdmdzgtNWtodnI0V05feGFNUjNWUVU5bXdDZDYyUXc1Tm9hMG9VY1N1dmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "82659af86002",
       "title": "“치매 예방하려면 마당에 나무 키워라”… 집 주변 100m 녹지가 중요한 이유",
       "published": "2026-10-08T10:00:00+00:00",
@@ -111,7 +150,7 @@
       "id": "1ce7f5232cdb",
       "title": "임산부 치은염…잇몸 출혈·부기 계속되면 검진",
       "published": "2026-10-08T09:47:47+00:00",
-      "summary": "임산부 치은염…잇몸 출혈·부기 계속되면 검진&nbsp;&nbsp;메디포뉴스치아만의 문제가 아니다…전신 건강과 연결되는 잇몸 관리&nbsp;&nbsp;이코노미사이언스“몸에 염증 퍼지고 없던 당뇨병 생긴&nbsp;&nbsp;밴쿠버 조선일보대한구강보건협회 박용덕 회장, 임신 중 잇몸 출혈 지속 땐 치과 검진 권고&nbsp;&nbsp;더임팩트치과의사가 꼽은 잇몸병 예방 습관 5가지… “혈당 관리도 필요”&nbsp;&nbsp;하이닥",
+      "summary": "임산부 치은염…잇몸 출혈·부기 계속되면 검진&nbsp;&nbsp;메디포뉴스치아만의 문제가 아니다…전신 건강과 연결되는 잇몸 관리&nbsp;&nbsp;이코노미사이언스“몸에 염증 퍼지고 없던 당뇨병 생긴&nbsp;&nbsp;밴쿠버 조선일보대한구강보건협회 박용덕 회장, 임신 중 잇몸 출혈 지속 땐 치과 검진 권고&nbsp;&nbsp;더임팩트임신 중 양치할 때 피 난다면…잇몸 출혈 그냥 넘기지 마세요&nbsp;&nbsp;키즈맘",
       "sources": [
         {
           "name": "메디포뉴스",
@@ -147,19 +186,6 @@
       "matched_keywords": []
     },
     {
-      "id": "150ed8891118",
-      "title": "성균관대 \"생체나이 실제보다 2년 많으면 대장암 발병 위험 93% 높아\"",
-      "published": "2026-10-08T06:50:42+00:00",
-      "summary": "성균관대 \"생체나이 실제보다 2년 많으면 대장암 발병 위험 93% 높아\"&nbsp;&nbsp;파이낸셜뉴스성균관대 연구팀 \"생체나이 빠를수록 젊은 대장암 위험 높아\"&nbsp;&nbsp;이투데이성균관대 “실제 나이보다 혈액 나이가 늙었다면”… 50세 미만 ‘조기 대장암’ 경고등&nbsp;&nbsp;스마트경제생체나이 빠를수록 50세 미만 ‘젊은 대장암’ 발병 위험 높아진다&nbsp;&nbsp;한국대학신문성균관대 연구팀, 생체나이 빠른 젊은층 대장암 위험 높아&nbsp;&nbsp;핀포인트뉴스",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5V2t5RHhwMjZRX21MWWdyOTFEWm9CZXp2R0kzNlg4Y1QwWjJ0SVljci0yQ1NDTVdiYzJSelJwczdPYW1jdWJTRUZfZXF4WmdTcE9jcHNkdDJsZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "860ce02dacc0",
       "title": "비만 환자, 대장암 생기기 전부터 정상 점막에 분자적 변화 나타난다 : 보건·의료",
       "published": "2026-10-08T05:21:00+00:00",
@@ -168,6 +194,32 @@
         {
           "name": "의약일보",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SkJrUXZjc0VSU1hVNG0tU2F2QWVXMXRQNWdiX3JJekF4NEdQWGtKd1E2bGlEck83bGJVR2lIa2FKZDNZREIyNEtvYzEwLTE3MlJEUA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7938452e4df4",
+      "title": "하와이 호흡기 바이러스 유행…독감 환자 증가세",
+      "published": "2026-10-08T05:04:00+00:00",
+      "summary": "하와이 호흡기 바이러스 유행…독감 환자 증가세&nbsp;&nbsp;KBFD독감 시즌 벌써 시작됐다… 백신 접종 서둘러야&nbsp;&nbsp;미주중앙일보가을에는 5가지 유형의 바이러스가 증가할 가능성이 높아지는데, 어떻게 예방할 수 있을까요?&nbsp;&nbsp;Vietnam.vn독감 시즌 예년보다 일찍 시작… \"빨리 백신 맞아야\"&nbsp;&nbsp;미주조선일보독감·코로나·RSV 3대 호흡기 바이러스 시즌…워싱턴주, 2026~27 접종 권고 발표&nbsp;&nbsp;시애틀코리안데일리",
+      "sources": [
+        {
+          "name": "KBFD",
+          "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5hbUdzQktOVTRONy1BWmNYdDhfSTR2aWxtVE04Z20wS1BzR3hlRm9yOVBFN2VmdGRaNGNSRlV30gE-QVVfeXFMTmFtR3NCS05VNE43LUFaY1h0OF9JNHZpbG1UTThnbTBLUHNHeGVGb3I5UEU3ZWZ0ZFo0Y1JGVXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "08c426df1abc",
+      "title": "대장암 세포, 아연으로 면역 회피… 세계 최초 규명",
+      "published": "2026-10-08T05:01:30+00:00",
+      "summary": "대장암 세포, 아연으로 면역 회피… 세계 최초 규명&nbsp;&nbsp;간호사신문대장암, ‘아연’ 먹고 면역세포 따돌렸다… 국내 연구진, 회피 원리 규명&nbsp;&nbsp;BRIC고려대·경희대 연구팀,아연 수송체(SLC39) 통한 면역 억제 기전 규명&nbsp;&nbsp;뉴스티앤티“면역세포 눈속임 차단했다”… 고려대·경희대, 대장암 ‘아연 회피’ 기전 규명&nbsp;&nbsp;스마트경제대장암, 아연 이용해 면역세포 속인다…국내 연구진 ‘면역회피’ 원리 규명&nbsp;&nbsp;포인트데일리",
+      "sources": [
+        {
+          "name": "간호사신문",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GYmtDamdhRFJLZWRwallrT3dwU2pfNV9zdXdIblFoWlFfRUpqQVRuZXhOYjBHQlZUTTd1Nlo4ZmRRbEdrNXJZS0Npdm54M2pjdUp6aUY1Q084OGJuOTNLRmJWeHpaYTNiOE1RUTZR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -238,6 +290,19 @@
       "matched_keywords": []
     },
     {
+      "id": "7c5f699d220c",
+      "title": "루게릭병 운동기능 개선 새 후보물질 찾았다",
+      "published": "2026-10-08T00:51:21+00:00",
+      "summary": "루게릭병 운동기능 개선 새 후보물질 찾았다&nbsp;&nbsp;보건신문루게릭병으로 떨어진 운동기능 개선하는 새 후보물질 찾았다&nbsp;&nbsp;BRIC고려대 연구팀, 루게릭병 약물 탐색 플랫폼 구축…TBA 후보물질 발굴&nbsp;&nbsp;더글로벌기빙뉴스고려대 안산병원, 루게릭병 치료 후보물질 ‘트리벤질아민’ 발굴&nbsp;&nbsp;MEDI:GATE NEWS루게릭병 운동기능 개선 후보물질 ‘TBA’ 발굴&nbsp;&nbsp;의학신문",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LMVJrbno4VDR2ZkdCaHFDZ25IOHExUHByZG5mRDBKcnhlWnJXdVJnVEVOclJQR1d0djBNY0lBVHMxVWN0RjFtWGtuU2w0UGFhVXFoT0tKNWNVckpTcDZxeW1B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9f1ac4f4f888",
       "title": "\"피떡이 뇌혈관 막을 수 있는데‥\" 死線 앞 '희귀질환 치료환경' 개선必",
       "published": "2026-10-08T00:13:43+00:00",
@@ -246,6 +311,19 @@
         {
           "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1saFFUV2VnbktpbEJjUXZHV0hzaWt2S2NOb1g2SkJqYzV6RXN5Sy1FbmlOMUpPTkpOTW9lTURsdlNHNGh2d0J3a0ZWbmNSRnBXM0NaZmFfVktfc1hYRnQ1S09iQmgwRVRZekFVV0pFVFRtQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f013db28d2ca",
+      "title": "ADHD 환자, 변비·과민성장증후군 등 위험 높아",
+      "published": "2026-10-08T00:01:23+00:00",
+      "summary": "ADHD 환자, 변비·과민성장증후군 등 위험 높아&nbsp;&nbsp;문화투데이성인 ADHD 환자, 나이 들어 인지장애 위험 4배&nbsp;&nbsp;헬스조선\"ADHD 있으면 변비·복통도 잦다?\"… 소화기 증상과의 연관성 살펴보니&nbsp;&nbsp;하이닥“회의 때 딴생각, 약속도 깜빡”⋯성인 ADHD 앓는 ‘김 부장’, 치매 위험과 무슨 관계?&nbsp;&nbsp;코메디닷컴나도 성인 ADHD 아닐까?\" | 성인 ADHD 1부&nbsp;&nbsp;정신의학신문",
+      "sources": [
+        {
+          "name": "문화투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tc1IyakJZSU12V1hQM3lhT24wajhIZFVRWVhtZEhTY014NW8xeTdtVXA3a0ZfV25mbWNvU1dWSWViQjJKcGxWNWt1ZnBGUHdiTHpkc2cyYk9SdXliSEYzenJDS1JoYkcz?oc=5"
         }
       ],
       "matched_keywords": []
@@ -290,36 +368,10 @@
       "matched_keywords": []
     },
     {
-      "id": "2c859b5a4353",
-      "title": "[건강 칼럼] 차갑고 건조한 계절, 따뜻한 생강 음식으로 건강한 식습관을 만든다.",
-      "published": "2026-10-07T21:23:02+00:00",
-      "summary": "[건강 칼럼] 차갑고 건조한 계절, 따뜻한 생강 음식으로 건강한 식습관을 만든다.&nbsp;&nbsp;이데일리",
-      "sources": [
-        {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPemprdmtKUDRUV0xXQUxhRjJ5ZEFfY1ItNS1hVTc2YlY2ZWNQMkpjWm56WHhfQWN1aVI3Uy1PZlpfN1NIdmlienU2TV9xb3ZJbUhjYUYybTVmX25fU3FNT3lQTkxzcG9lNzROY0l1cV9VTnRBOFZISVdMSzA2bEMzaA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5ad99e2ce74a",
-      "title": "“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’",
-      "published": "2026-10-07T16:30:00+00:00",
-      "summary": "“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’&nbsp;&nbsp;헬스조선50세 미만 암 증가세 더 가팔랐다…英 7종·美 5종·네덜란드 4종↑&nbsp;&nbsp;뉴시스50세 미만 전립선암 22년 새 4배 급증, 신장암은 2배↑…이유는?&nbsp;&nbsp;스포츠조선미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증&nbsp;&nbsp;DongA Science“암 위험 급등”… ‘주말에 흔히 하는’ 행동 3가지&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfMnlxQ3JGenBybTY0OXBYNFdUYjN5UmdMOWY2MVNRUGlRTmVvZG9ycHV6R2dqM1g1UHlUWUp3T0lHWFZYcEdtMTJ1TGIxam1ZUXljU3NrZzBsUlRleUwzOE10c1dIVmJfQnlHeGpWQWZfLVRkREc5UDMwQnFUNzg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a2338d046c67",
       "title": "日 연구팀, \"고칼로리 식단, 뇌 신경 이상 일으켜 인지기능 저하\" [KDF World]",
       "published": "2026-10-07T15:30:00+00:00",
-      "summary": "日 연구팀, \"고칼로리 식단, 뇌 신경 이상 일으켜 인지기능 저하\" [KDF World]&nbsp;&nbsp;한국면세뉴스“50세 이후 이 음식 끊었다” 치매 명의 꼭 지키는 ‘뇌 식단’&nbsp;&nbsp;Daum“아침마다 먹었는데 이럴 줄은”…알츠하이머 위험 무려 52% 높인다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제열량·영양소 똑같이 맞춰도 '초가공 한 끼'는 달랐다…인슐린·혈당·뇌 반응 차이 확인&nbsp;&nbsp;팸타임스 FAM Times“호두 대신 매일 먹었는데”… 60대 뇌 건강 지킨다는 ‘연어’의 두 얼굴&nbsp;&nbsp;뉴스와",
+      "summary": "日 연구팀, \"고칼로리 식단, 뇌 신경 이상 일으켜 인지기능 저하\" [KDF World]&nbsp;&nbsp;한국면세뉴스“50세 이후 이 음식 끊었다” 치매 명의 꼭 지키는 ‘뇌 식단’&nbsp;&nbsp;Daum열량도 탄수화물도 비슷한 두 끼…‘초가공식’ 먹자 몸은 다르게 반응했다&nbsp;&nbsp;코메디닷컴“호두 대신 매일 먹었는데”… 60대 뇌 건강 지킨다는 ‘연어’의 두 얼굴&nbsp;&nbsp;뉴스와장바구니 속 채소와 뇌의 작은 혈관&nbsp;&nbsp;브런치",
       "sources": [
         {
           "name": "한국면세뉴스",
@@ -355,6 +407,32 @@
       "matched_keywords": []
     },
     {
+      "id": "4ca870d073a1",
+      "title": "WHO, 소아·청소년 비만 첫 글로벌 지침 발표",
+      "published": "2026-10-07T10:21:13+00:00",
+      "summary": "WHO, 소아·청소년 비만 첫 글로벌 지침 발표&nbsp;&nbsp;비건뉴스“아이 살 빼려다 덜컥”…WHO, 10세 미만 비만약에 제동&nbsp;&nbsp;마켓인WHO, 아동·청소년 비만 첫 글로벌 지침⋯\"약보다 식생활·운동이 먼저\"&nbsp;&nbsp;포커스온경제WHO 첫 아동·청소년 비만 치료 지침…10세 미만엔 비만약·수술 권하지 않는다&nbsp;&nbsp;팸타임스 FAM TimesWHO, 9세 이하 비만약 사용 제동…GLP-1 소아 적응증 확대 변수&nbsp;&nbsp;메디코파마",
+      "sources": [
+        {
+          "name": "비건뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SmczOHRhN2Z1LVNqZXFRQUpZemM0NVc1LW8zNngwR1U2VXJpMHRPaTF0MEVZNzl6WTNkejdCU05lOWs3R0kwS2NrdnZ2ejBreGlVdm1aRFZhcHNRT3loZm9HZDdXUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "28065e668a90",
+      "title": "미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증 - DongA Science",
+      "published": "2026-10-07T09:00:00+00:00",
+      "summary": "미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증&nbsp;&nbsp;DongA Science“젊은 층 암 환자 늘고 있다”… 전문가들이 지목한 ‘위험한 습관’&nbsp;&nbsp;헬스조선50세 미만 암 증가세 더 가팔랐다…英 7종·美 5종·네덜란드 4종↑&nbsp;&nbsp;뉴시스50세 미만 전립선암 22년 새 4배 급증, 신장암은 2배↑…이유는?&nbsp;&nbsp;스포츠조선“암 위험 급등”… ‘주말에 흔히 하는’ 행동 3가지&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtRjFxT1BqOGZQUDMxellqN3JKN3FTeVZZT3FYN0NxZ2otbF8xMUxRRXU2OFJjTEFoVWVFd3JEblBjR1lqcU0ya0F6RTdCOExBUk9iQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "b19521575e24",
       "title": "65세 이상 폐렴구균 단백결합백신, 빠르면 내년 4월 접종",
       "published": "2026-10-07T08:18:39+00:00",
@@ -368,32 +446,6 @@
       "matched_keywords": []
     },
     {
-      "id": "bb60eab4b09a",
-      "title": "남성확대 재수술 시 고려할 사항은?",
-      "published": "2026-10-07T07:15:42+00:00",
-      "summary": "남성확대 재수술 시 고려할 사항은?&nbsp;&nbsp;스타데일리뉴스",
-      "sources": [
-        {
-          "name": "스타데일리뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zOWdlUk1ybmc3NnQtQ0ZoNDhhMGQ0Q1F5SV9ULVJRLTQtanJaaHlGYVF0TmRTbF9FYVdCUlNYc1N5dUt5cDVsZERBS09NcV8wVWpDbFE4SkNySHdnSm00c04xVTVHM2ZHaGh2TU1BNFlCLWw10gF4QVVfeXFMTU1DcUxicWE1VmtpWWNmel9UZHg1YkdIaGRkWEhIeGJ6VGFpeVVWUVZNdzh4RTg4VElpdlJRTnI1TmM5alVKTUJZRTg3YlNiZUNhYnViMXlpcXNzYXIxd01oWmdjejYzWVFTQk93aUI5TUtxWldJWkgt?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "46bcbaa04791",
-      "title": "'치료 끝나면 다시 자랄까?'… 항암 탈모의 메커니즘과 회복의 시간 [이선민의 헤어리부트]",
-      "published": "2026-10-07T07:00:20+00:00",
-      "summary": "'치료 끝나면 다시 자랄까?'… 항암 탈모의 메커니즘과 회복의 시간 [이선민의 헤어리부트]&nbsp;&nbsp;파이낸셜뉴스",
-      "sources": [
-        {
-          "name": "파이낸셜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JYWhETFV3OWxJMDZFMnVGN0Zsel9ZbW1rb1k0aUlZV29qczRMWHp3a3FEVW82UE4zN2phUzkyajN1N2U2QmRZdWtlekdqSnlPZ2dzYkdEenJKdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7daee6b16704",
       "title": "암 환자, 항우울제 먹었더니 사망 위험 37% 낮았다…연구",
       "published": "2026-10-07T05:31:30+00:00",
@@ -402,32 +454,6 @@
         {
           "name": "디지털투데이",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIUk5DN2xmZVZudHJ0UVdkRzlXSFpDaDVKazg2dlJlOFl6R1ZTdGhXOXFyck0tR3pKb0RaUjdCX0hPMjBhOFozaF9ETFFLRGZqd1JKLTNfYTZzZW9FZUVYNzdMVnZDa3JqdUoyaHduNkZVNlk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6dc67d2c4f77",
-      "title": "스타틴 복용자, 녹내장 발생 위험 15% 낮아…치료 필요성도 낮은 것으로 나타나 : 학술·연구",
-      "published": "2026-10-07T05:19:00+00:00",
-      "summary": "스타틴 복용자, 녹내장 발생 위험 15% 낮아…치료 필요성도 낮은 것으로 나타나 : 학술·연구&nbsp;&nbsp;의약일보[건강포커스] \"콜레스테롤약 스타틴, 녹내장 위험·추가 치료 가능성 낮춰\"&nbsp;&nbsp;연합뉴스스타틴, 녹내장 수술 위험 최대 60% 낮춘다 : 최신논문&nbsp;&nbsp;의약일보스타틴 복용, 녹내장 발생·추가 치료 위험 감소&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "의약일보",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DTGd0VDktRVNmdlZ4NjNHcTBFUy1VVXdvcU5fM2w0bGZYX193TmdhVTdVU0h1dnVWeEpsSEFMTk9XQnpWRHJublllcmRIYnV6MXFJZg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "20bb10bf53d9",
-      "title": "다낭 병원에서 뎅기열 3배 증가, 의사는 질병 전환 징후 지적",
-      "published": "2026-10-07T04:06:48+00:00",
-      "summary": "다낭 병원에서 뎅기열 3배 증가, 의사는 질병 전환 징후 지적&nbsp;&nbsp;Laodong.vn뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스]&nbsp;&nbsp;서울신문질병 발생을 예방하고 통제하기 위한 사전 예방적 모니터링.&nbsp;&nbsp;Vietnam.vn열이 내렸다고 해서 뎅기열의 위험이 사라진 것은 아닙니다.&nbsp;&nbsp;Vietnam.vn많은 지역에서 뎅기열 환자가 증가하면서 질병이 심각해질 위험에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZU5kRzRUdE5jcHZBZXpaRWtkRFoyZUYtazlyeENUNmduWmVQVFlNWFA1bDhxNk9JNWlfSGpoNnRGM1dXRmJMTGZrZHlEam93emVSallvdXNYVmVmOVl5UHBOVUtDOVBUaUtXcGd6WnI2bmpGVFJyNWtsQXVVdXBmOUtnTHBLV21oczNfR2ptcUFNNFJJLWxOYzVwTDNKdWliYkNFcTZ1czNNS3NPbFJKdmdBQVYtamkxSVBITGZubw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -459,58 +485,6 @@
       "matched_keywords": []
     },
     {
-      "id": "cb9a58b3aa14",
-      "title": "강원대 박유경 연구팀, COPD 퇴원 후 관리로 호흡기 증상 개선 - THE MOST(더모스트)",
-      "published": "2026-10-07T01:47:40+00:00",
-      "summary": "강원대 박유경 연구팀, COPD 퇴원 후 관리로 호흡기 증상 개선&nbsp;&nbsp;THE MOST(더모스트)",
-      "sources": [
-        {
-          "name": "THE MOST(더모스트)",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MZ2xyNGhmYlVFUWNzUUlEaU9jZVNCdVE5Zk5KM0FaSUxZUlRiQUFUcjNYcUkyaC0zV1RKWkZjOGY2TWRIczQ0NzV2MDYyV0NtLVpEenFMdEE2TC00YXp4VTlHZlcxWVZVYzBFS3hfaDk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "56c62660f91e",
-      "title": "빛 한번 쬐면 4주간 스스로 성장…中 연구진 ‘성장하는 하이드로겔’ 개발",
-      "published": "2026-10-07T01:27:07+00:00",
-      "summary": "빛 한번 쬐면 4주간 스스로 성장…中 연구진 ‘성장하는 하이드로겔’ 개발&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBN1RHX3REYkc4bHhYWV9FMnBhOUc2UDd2Wk56MzhPRl82NWRZRkVlcWt0LUVTQVVGSnNhNzVLS2tXMkNKR0Y3YUl5VkkzalZPRFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "783494a070e0",
-      "title": "안경으로 알츠하이머병 예방·관리 가능성 제시",
-      "published": "2026-10-07T01:14:19+00:00",
-      "summary": "안경으로 알츠하이머병 예방·관리 가능성 제시&nbsp;&nbsp;시사저널“치매 예방, 안경으로 가능할까”…투명 OLED로 감마파 변화 확인 [노화설계]&nbsp;&nbsp;Daum분당서울대병원-KAIST, 뇌 자극용 '투명 OLED 안경' 개발&nbsp;&nbsp;전자신문안경 쓰고 빛으로 뇌 자극…일상 속 알츠하이머 관리 가능해질까&nbsp;&nbsp;아시아투데이일상서 쓰는 안경이 뇌 자극한다…알츠하이머 예방·관리 새 길&nbsp;&nbsp;중부일보",
-      "sources": [
-        {
-          "name": "시사저널",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoRGJwc29BclVPTGk2OXVTNUdDQVFNeElYelp4T1M5eUNpNmRTbnFCMEhKUmpzMFc5a1k5cHRYeEhsdElrQUpORTA2ZTBhS0Q5eTJhenhSTzZ5dHNvdU5ESGtDQkpZSFlYR3VGNXc5WdIBc0FVX3lxTE5XVmZ0Wk9nOVRwaWJMSnZyR3Vxdm8zWTFIbE82WXZGeEdsc2F2OUtYT1pWQlFkUVFMdWVUcGRhYmxVa3hSLWRILWd5ZWFqYW5vVmdIT0NnS3k3RVRfNTNmaVJFVUt3NEpXM2dJVlhTS19SUmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "76a97eac2415",
-      "title": "루게릭병으로 떨어진 운동기능 개선 새 후보물질 찾았다",
-      "published": "2026-10-07T01:07:15+00:00",
-      "summary": "루게릭병으로 떨어진 운동기능 개선 새 후보물질 찾았다&nbsp;&nbsp;메드월드뉴스고려대 연구팀, 루게릭병 약물 탐색 플랫폼 구축…TBA 후보물질 발굴&nbsp;&nbsp;더글로벌기빙뉴스루게릭병 운동기능 회복할 신약후보물질 ‘트리벤질아민’ 발굴 … 산화스트레스도 감소&nbsp;&nbsp;헬스오고려대 안산병원, 루게릭병 치료 후보물질 ‘트리벤질아민’ 발굴&nbsp;&nbsp;MEDI:GATE NEWS루게릭병 운동기능 개선 후보물질 ‘TBA’ 발굴&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZSzFCTXQ5WEdGWk84ZVN1TWdKdXl2SkpEOVgwYVlHZnI4MDJYcXZ2WG8xSlE5dUVBd3ZhY0EyeGRYaW1FMW5iTWFRWEx6QXA0SFJ3TW9pQ0RhRE5IRFgyMWR5cTlLcy1mUEFBNw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0eb06f660d6a",
       "title": "일본은 어떻게 초고령사회에 대응했나…“대사·인지건강 조기 관리 중요”",
       "published": "2026-10-07T00:47:00+00:00",
@@ -537,14 +511,14 @@
       "matched_keywords": []
     },
     {
-      "id": "20dae331dd59",
-      "title": "페어팩스 카운티, 독감·코로나19 주의 당부",
-      "published": "2026-10-06T22:32:38+00:00",
-      "summary": "페어팩스 카운티, 독감·코로나19 주의 당부&nbsp;&nbsp;미주한국일보독감 시즌 벌써 시작됐다… 백신 접종 서둘러야&nbsp;&nbsp;미주중앙일보독감 시즌 예년보다 일찍 시작… \"빨리 백신 맞아야\"&nbsp;&nbsp;미주조선일보가을에는 5가지 유형의 바이러스가 증가할 가능성이 높아지는데, 어떻게 예방할 수 있을까요?&nbsp;&nbsp;Vietnam.vn독감·코로나·RSV 3대 호흡기 바이러스 시즌…워싱턴주, 2026~27 접종 권고 발표&nbsp;&nbsp;시애틀코리안데일리",
+      "id": "7e79931e7530",
+      "title": "中 연구진, '생명체처럼' 스스로 형태 바꾸는 하이드로겔 개발",
+      "published": "2026-10-06T22:27:00+00:00",
+      "summary": "中 연구진, '생명체처럼' 스스로 형태 바꾸는 하이드로겔 개발&nbsp;&nbsp;뉴스핌",
       "sources": [
         {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMNDR3TGpNd1p1bnpNTTJwMXZ5MVpfOVNDTEFNUTY1UVd6RlFqeUFmbktnQnhGX3d6dmZnVFljcXg2VHpxcElDSDhTdmhXcnBMU29MYVY0MldjZEIyWVNR?oc=5"
+          "name": "뉴스핌",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41Y2NYdEgwaHFaY3QwOU11d3RBVXIyX1E2TFB2N09SLW5mQklkN1IwZm5XTFFJODJrYThqWnVPcHdqd3NkRHpFVmY1MGdHMm1ad01FU2c1cm1BcXlH?oc=5"
         }
       ],
       "matched_keywords": []
@@ -602,6 +576,19 @@
       "matched_keywords": []
     },
     {
+      "id": "dffa84719344",
+      "title": "‘투명 OLED 안경’으로 40Hz 감마파 자극…알츠하이머 일상형 뇌 자극 가능성 제시",
+      "published": "2026-10-06T01:12:23+00:00",
+      "summary": "‘투명 OLED 안경’으로 40Hz 감마파 자극…알츠하이머 일상형 뇌 자극 가능성 제시&nbsp;&nbsp;헬스오“치매 예방, 안경으로 가능할까”…투명 OLED로 감마파 변화 확인 [노화설계]&nbsp;&nbsp;Daum분당서울대병원-KAIST, 뇌 자극용 '투명 OLED 안경' 개발&nbsp;&nbsp;전자신문안경 쓰고 빛으로 뇌 자극…일상 속 알츠하이머 관리 가능해질까&nbsp;&nbsp;아시아투데이일상서 쓰는 안경이 뇌 자극한다…알츠하이머 예방·관리 새 길&nbsp;&nbsp;중부일보",
+      "sources": [
+        {
+          "name": "헬스오",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MM1Z5WnI4YXExdDdIS0hyT3FOUHBKcE9WVEtMQW0zUkFRNUpTMHFvUDhaUThXd2xsV0JUdV9QYXVxVzE4bmNZd0VjTE5ydF9UeUN2bXFtWWk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a427cab34f85",
       "title": "아르헨티나 생산 구제역백신, SAT1형 구제역 방어효과 입증",
       "published": "2026-10-06T00:22:45+00:00",
@@ -644,7 +631,7 @@
       "id": "bfa62e8a2981",
       "title": "[창간 80주년 기획]병원·일터서 차별…HIV·에이즈 구분 않는 법안명도 현실과 괴리",
       "published": "2026-10-05T12:08:00+00:00",
-      "summary": "[창간 80주년 기획]병원·일터서 차별…HIV·에이즈 구분 않는 법안명도 현실과 괴리&nbsp;&nbsp;경향신문‘HIV 감염인’ 장기 생존 시대···두려움에 연 끊어냈으나 서로 돌보며 살아가는 사람들[창간 80주년 기획]&nbsp;&nbsp;Daum[창간 80주년 기획]약으로 바이러스 통제…일상서 전염 안 돼&nbsp;&nbsp;경향신문HIV 감염인 1만7557명…서미화 의원 “치료·돌봄·자립 중심 법체계로 전환해야”&nbsp;&nbsp;투데이신문HIV 감염인 43.5%가 50세 이상…장기생존 맞춰 법체계 전환 요구&nbsp;&nbsp;뉴스더보이스헬스케어",
+      "summary": "[창간 80주년 기획]병원·일터서 차별…HIV·에이즈 구분 않는 법안명도 현실과 괴리&nbsp;&nbsp;경향신문[창간 80주년 기획]약으로 바이러스 통제…일상서 전염 안 돼&nbsp;&nbsp;경향신문HIV 감염인 1만7557명…서미화 의원 “치료·돌봄·자립 중심 법체계로 전환해야”&nbsp;&nbsp;투데이신문HIV 감염인 43.5%가 50세 이상…장기생존 맞춰 법체계 전환 요구&nbsp;&nbsp;뉴스더보이스헬스케어국내 HIV 감염인 1만 7557명, 50세 이상 43.5%…\"예방·지원법 개정 필요\"&nbsp;&nbsp;스포츠조선",
       "sources": [
         {
           "name": "경향신문",
@@ -654,14 +641,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2db7247daf3e",
-      "title": "\"부작용 줄인 RNA 기반 암 백신 개발\"",
-      "published": "2026-10-05T09:10:54+00:00",
-      "summary": "\"부작용 줄인 RNA 기반 암 백신 개발\"&nbsp;&nbsp;한국경제",
+      "id": "5ad9a3425fd4",
+      "title": "뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스]",
+      "published": "2026-10-05T08:30:00+00:00",
+      "summary": "뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스]&nbsp;&nbsp;서울신문경고: 뎅기열 발병률은 우기에 증가합니다.&nbsp;&nbsp;Vietnam.vn질병 발생을 예방하고 통제하기 위한 사전 예방적 모니터링.&nbsp;&nbsp;Vietnam.vn열이 내렸다고 해서 뎅기열의 위험이 사라진 것은 아닙니다.&nbsp;&nbsp;Vietnam.vn많은 지역에서 뎅기열 환자가 증가하면서 질병이 심각해질 위험에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xTGQ3ZWd5eHVYS05PUVNzaUVfcDJzcmR2VGtLZ1dXaEFyQ3I0OXgyekZHWnY0UzdvZ25KQzB3UFVTWXp4WjM5TEotUE5fTi1YZFpKSkZlb0Vwdw?oc=5"
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56Xy15N2VYQkY5YnM4WGdOc0hQaFBQXzFxbG9LVU1OOGFpeU01ZVhqZmpKVHJBRDA5Q3VTSjUtNXZqWkh1X2d6bFVmVmFid3VVSEpNeUhMVWRHNThoLThkMWxYdmNFS1BZX3kybUZIQ3pwMlpGcTFNWEgtYjhnQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -688,6 +675,32 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DRXJMVWRuckRoQ0NMZ2ZacFhSUnVLSDQwaUJsOGlrcE1iQm5JU2wtMjlubTdUbW1OaWU5NTNOTFU2WEVEUWh5LU5TclUyQ2JYTkFiakRQZGYwOVB5eEVmSklGMW9qakZlbHRuRnJPNW1xMnF1RWp0Q1FrWlZaQ0k?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a8f3d5f7d940",
+      "title": "뇌 MRI로 본 ‘뇌 나이’, 어떤 질환에서 더 빠르게 노화했나? - VOA 한국어 홈페이지",
+      "published": "2026-10-02T17:50:21+00:00",
+      "summary": "뇌 MRI로 본 ‘뇌 나이’, 어떤 질환에서 더 빠르게 노화했나?&nbsp;&nbsp;VOA 한국어 홈페이지",
+      "sources": [
+        {
+          "name": "VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WLW5TczVJYU9tSFFNRU02QXI1ZlRiUjA3WHBTaFNGeTZuN2RkYVlCWlEwQmNNSXFLMUVxVFM3RlBicjRoUFEtYzNNNGhpZ0JD0gFTQVVfeXFMT0RWTkxwTHJQQTdTSmdvUzBWVXU4Q2xRVkZXZHo0aHI2TGZ4NDNiSnJqTER5MjJjNkhOVFNzeGtUSElKVUcwaVRPY2tBR3FleElrcms?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f4119cf043a4",
+      "title": "고혈압, 관절염 악화시킨다…‘혈압 호르몬’이 연골 보호 신호 꺼",
+      "published": "2026-10-02T13:12:00+00:00",
+      "summary": "고혈압, 관절염 악화시킨다…‘혈압 호르몬’이 연골 보호 신호 꺼&nbsp;&nbsp;한겨레",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FMVkyM01jMFlZNHhPbTJRR09TVzdOYW1RdzRkNHROcU8xWkVEYmZFNFkwWjlQcksxNXI5N1JSUjhyLXl4US1JZzdFdDJ5MGh4YWhjR0dPZGZPdkhCWGpTNV9NdDBFa1ZmbmlheGpFbGYxQQ?oc=5"
         }
       ],
       "matched_keywords": []
