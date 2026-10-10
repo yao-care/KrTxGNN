@@ -1,19 +1,103 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-10T12:07:08.638245+00:00",
-  "total_fetched": 106,
-  "unique_count": 106,
-  "health_related_count": 43,
+  "fetched_at": "2026-10-10T21:19:36.363538+00:00",
+  "total_fetched": 104,
+  "unique_count": 104,
+  "health_related_count": 46,
   "news": [
+    {
+      "id": "5b61158d6620",
+      "title": "술 마시면서 담배까지 피우면 ‘이 암’ 위험 50배 뛴다 - 헬스조선",
+      "published": "2026-10-10T15:01:00+00:00",
+      "summary": "술 마시면서 담배까지 피우면 ‘이 암’ 위험 50배 뛴다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqRVlLdDVaZmhJdkVFc2w4VU92aUpIR01rSEhqUHZtNTN3QmQzTzlKUWZseXVCLVh4NFJMd1VUMFdtaUtxMkxyMFMxakFua1ZlSFY1UWQ2V0FxVDJRNGczUURTdGIzQzFWZDc0OC1qVEV2Wl8yaFJSaVhwUWdKTWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7221a635b38d",
+      "title": "“피로 풀리고 피부에 광이 나” 미미, 자주 하는 ‘이 습관’이 건강 비결? - 코메디닷컴",
+      "published": "2026-10-10T14:03:00+00:00",
+      "summary": "“피로 풀리고 피부에 광이 나” 미미, 자주 하는 ‘이 습관’이 건강 비결?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vbURSdGM0UUhEbmJ5a0RYQWpyWEkwWndpejZzNEhldEQ2VXY3TjNKZjh2WEFnZjlLa1EwakN5WTZQUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bbb733aa96cf",
+      "title": "“세제 바꾸라는 말만”…유방암 진단받은 33세女, 뜻밖의 증상이? - 코메디닷컴",
+      "published": "2026-10-10T11:05:00+00:00",
+      "summary": "“세제 바꾸라는 말만”…유방암 진단받은 33세女, 뜻밖의 증상이?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tdGJrSVp2US01SFZ0b2ctQU42ZE5ST1VSUDE0MGlIRU5MelVQZ2hGdzN6TGhzTlNBcDBBY1ZsQzdjQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2c54a57a4150",
+      "title": "“아내 엄살 아니었다”… 여성이 남성보다 ‘더 아픈’ 과학적 이유 - 헬스조선",
+      "published": "2026-10-10T11:02:00+00:00",
+      "summary": "“아내 엄살 아니었다”… 여성이 남성보다 ‘더 아픈’ 과학적 이유&nbsp;&nbsp;헬스조선여성, 남성보다 통증 더 많이 경험&nbsp;&nbsp;메디컬투데이“왜 여성이 남성보다 더 아플까?”… 두통 1.7배·복통 1.6배 더 심해&nbsp;&nbsp;하이닥[보건/의료] 글로벌 연구: 여성, 남성보다 신체 11개 전 부위서 더 심한 통증 호소&nbsp;&nbsp;굿모닝베트남미디어여성, 남성보다 통증 더 많이 겪는다…신체 11곳 모두 [노화설계]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJVS03QUtsb19NYnVTbV9OcWU3ZmlJdjNyRjBuSEFrUloxc21kbXhZdl9WeF8tdnpGU1A1V1lDeE9JeUFzMmZMaUo2NkJpTnlrY0ZXMm9TTG1rcHIxd0k5dG8tWHFUM1ZSa3pVTTd6MEFvNFlSd3JhdFIyR0dGVGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fa2e401b0178",
+      "title": "백신 접종해도 감염! 그래도 접종해야 할가?--건강 - 인민넷",
+      "published": "2026-10-10T07:39:00+00:00",
+      "summary": "백신 접종해도 감염! 그래도 접종해야 할가?--건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "인민넷",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsWVRwc1pyU253SGFzRUZQcjlfZGFlbEZrMGU2R1RZc1lRZjktZUMyQXJ0RTRnVmtqUjYzTGJfTHVadzNpWDZKSmY4XzVpamRvUThZaTIwX25tQk1ldldkVjBPVy1ldkZTRDFIOTFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ace17df9836c",
+      "title": "HPV 백신 맞으면 조산 줄어든다?…스웨덴 62만 건 분석으로 따져 본 4가지 주장 - 팸타임스 FAM Times",
+      "published": "2026-10-10T06:10:17+00:00",
+      "summary": "HPV 백신 맞으면 조산 줄어든다?…스웨덴 62만 건 분석으로 따져 본 4가지 주장&nbsp;&nbsp;팸타임스 FAM Times임신 전 HPV 백신 접종했더니…\"조산·임신 합병증 위험 낮아\"&nbsp;&nbsp;한국경제HPV 백신 조산 위험 최대 15% 낮춘다 : 최신논문&nbsp;&nbsp;의약일보임신 전 HPV 백신 접종, 조산 및 임신 합병증 위험 낮춰&nbsp;&nbsp;데일리굿뉴스임신 전 HPV 백신 맞았더니…조산 위험 5%·초조산 15% 낮아&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "팸타임스 FAM Times",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sNHE4M1FHYkMxTVNQN1I3eWlGdlRZRXJlanY0Q2pCTDdleG56aEpKcEozYXk4d0NEZDNCbUxGWWFnaEwtT0p2dVdDTDBXY21FalhIU1l4V01wMDczQkcwNzVreVVTbDdCcjBKTjRn?oc=5"
+        }
+      ]
+    },
     {
       "id": "6a73e237a841",
       "title": "기억력만 살펴선 놓친다…치매 전조 증상 ‘경도행동장애’ 주목 - 현대건강신문",
       "published": "2026-10-10T05:37:00+00:00",
-      "summary": "기억력만 살펴선 놓친다…치매 전조 증상 ‘경도행동장애’ 주목&nbsp;&nbsp;현대건강신문건망증과 치매 사이 ‘경도인지장애’… \"회색지대일 때부터 잡아야\" [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스\"나이 들면 다 그렇지\" 넘겼는데…'이때' 놓치면 늦는다 [이지현의 생생헬스]&nbsp;&nbsp;한국경제기억력·우울증 문제가 아니라 치매?…'경도행동장애'와 '가성치매' [명의]&nbsp;&nbsp;아이뉴스24'깜박깜박' 하길래 건망증인줄…10명중 1명 '치매'&nbsp;&nbsp;뉴시스",
+      "summary": "기억력만 살펴선 놓친다…치매 전조 증상 ‘경도행동장애’ 주목&nbsp;&nbsp;현대건강신문“20년 뒤 치매 위험 뚝”…스도쿠보다 강력한 ‘뇌 훈련법’&nbsp;&nbsp;미주중앙일보\"나이 들면 다 그렇지\" 넘겼는데…'이때' 놓치면 늦는다 [이지현의 생생헬스]&nbsp;&nbsp;한국경제건망증과 치매 사이 ‘경도인지장애’… \"회색지대일 때부터 잡아야\" [Weekend 헬스]&nbsp;&nbsp;파이낸셜뉴스기억력·우울증 문제가 아니라 치매?…'경도행동장애'와 '가성치매' [명의]&nbsp;&nbsp;아이뉴스24",
       "sources": [
         {
           "name": "현대건강신문",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jN2Y1SXMxQWxVckVQbDA5Z3ZyN3k1MjZzS3dmUmo4QVdXTzdTdU5aVDNpLXk2dHpDUkVlUy0tdkNuRXluVHFBT25XQ3ZYUzdY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28d67c5bee73",
+      "title": "스노호미시 카운티 올 시즌 첫 독감 사망…에드먼즈 70대 남성 - 시애틀코리안데일리",
+      "published": "2026-10-10T03:35:49+00:00",
+      "summary": "스노호미시 카운티 올 시즌 첫 독감 사망…에드먼즈 70대 남성&nbsp;&nbsp;시애틀코리안데일리독감 시즌 벌써 시작됐다… 백신 접종 서둘러야&nbsp;&nbsp;미주중앙일보하와이 호흡기 바이러스 유행…독감 환자 증가세&nbsp;&nbsp;KBFD[밴쿠버 조선일보]BC주, 독감 백신 접종 예약 13일부터 시행 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보가을에는 5가지 유형의 바이러스가 증가할 가능성이 높아지는데, 어떻게 예방할 수 있을까요?&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "시애틀코리안데일리",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kY1lrVGRfQjlLUUp5TTN1dXNjaktTQjhwUGNyaEV2MXhzQmpsRThVbDctcVZlVGFvN3hRT2xWbVZkX2dBb1NOa2JCVUhtQ0JxMEpQaGtONWFSS2ViUmRWM2gwcXFaVEFwT3ltUEtrQULSAXNBVV95cUxPR1hWOVYtSTdGSXYzcE8ydVZHR2RHSm5BVmkxTDQ0bEc1SmNXNGQzQ2Z3azVNMTZLM2RSSXFrNGNJaWZabzEyb0JtbXEzTTJtbGk1NUIyNnktZm1ISmRpWlBZVjUxazFCS2k4NDRtc1l5OHEw?oc=5"
         }
       ]
     },
@@ -33,7 +117,7 @@
       "id": "c13584a7b91c",
       "title": "단백질C 활성도 낮은 뇌졸중 환자, 중등도 이상 비율 약 2배 높아 - 이데일리",
       "published": "2026-10-09T23:06:03+00:00",
-      "summary": "단백질C 활성도 낮은 뇌졸중 환자, 중등도 이상 비율 약 2배 높아&nbsp;&nbsp;이데일리Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "단백질C 활성도 낮은 뇌졸중 환자, 중등도 이상 비율 약 2배 높아&nbsp;&nbsp;이데일리",
       "sources": [
         {
           "name": "이데일리",
@@ -54,18 +138,6 @@
       ]
     },
     {
-      "id": "7b8ad7b3acae",
-      "title": "“봄꽃 때문 아니었어?” 가을철 ‘알레르기’ 유발하는 의외의 식물은… - 경향신문",
-      "published": "2026-10-09T23:00:00+00:00",
-      "summary": "“봄꽃 때문 아니었어?” 가을철 ‘알레르기’ 유발하는 의외의 식물은…&nbsp;&nbsp;경향신문[이호빈의 건강노트] 가을만 되면 막히는 코…알레르기 비염 환자 1.7배 ‘껑충’&nbsp;&nbsp;마이데일리",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qcklkQTVOMUZpTDB6V0REaF80U0lyd2ZoWHJ1Y1JEMThtYy1wRUpRT0ZSMXBSX1VPSGVWblJRcklST0lPVmZyNldKZG52bzRkOWQ1RGpaa0VSZ9IBX0FVX3lxTE5Wd0F0dzhvc1FtcEJIM3dCNUJvMGYzZWFHY2FTQVo5aElzLWxHZjRLeUNLeWlwT0hLVXVKYTVfT21sakx4bmtNVkt4VmxWZTlHZ1d4X0l1bndjZWtNMGVr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c24ce2db751a",
       "title": "고령층 사망 절반은 심뇌혈관 질환… 병원비 걱정 줄이려면 - IT조선",
       "published": "2026-10-09T22:30:00+00:00",
@@ -81,7 +153,7 @@
       "id": "3c186a6b5620",
       "title": "임신 중 양치할 때 피가 난다면?…조산·저체중아 출산 위험과 연관 - 뉴스탭",
       "published": "2026-10-09T22:27:56+00:00",
-      "summary": "임신 중 양치할 때 피가 난다면?…조산·저체중아 출산 위험과 연관&nbsp;&nbsp;뉴스탭임산부 치은염…잇몸 출혈·부기 계속되면 검진&nbsp;&nbsp;메디포뉴스대한구강보건협회 박용덕 회장, 임신 중 잇몸 출혈 지속 땐 치과 검진 권고&nbsp;&nbsp;더임팩트“몸에 염증 퍼지고 없던 당뇨병 생긴&nbsp;&nbsp;밴쿠버 조선일보치아만의 문제가 아니다…전신 건강과 연결되는 잇몸 관리&nbsp;&nbsp;이코노미사이언스",
+      "summary": "임신 중 양치할 때 피가 난다면?…조산·저체중아 출산 위험과 연관&nbsp;&nbsp;뉴스탭임산부 치은염…잇몸 출혈·부기 계속되면 검진&nbsp;&nbsp;메디포뉴스대한구강보건협회 박용덕 회장, 임신 중 잇몸 출혈 지속 땐 치과 검진 권고&nbsp;&nbsp;더임팩트치아만의 문제가 아니다…전신 건강과 연결되는 잇몸 관리&nbsp;&nbsp;이코노미사이언스임신 중 양치할 때 피 난다면…잇몸 출혈 그냥 넘기지 마세요&nbsp;&nbsp;키즈맘",
       "sources": [
         {
           "name": "뉴스탭",
@@ -114,6 +186,30 @@
       ]
     },
     {
+      "id": "a06db907f01b",
+      "title": "“혈압 낮아진다” 칼륨·플라보노이드 풍부한 ‘고혈압 완화 음료’ 4가지 - 헬스조선",
+      "published": "2026-10-09T20:00:00+00:00",
+      "summary": "“혈압 낮아진다” 칼륨·플라보노이드 풍부한 ‘고혈압 완화 음료’ 4가지&nbsp;&nbsp;헬스조선이 두가지 과일 자주 먹으면 고혈압 사망위험 낮춰--건강&nbsp;&nbsp;인민넷고혈압약 복용해도 칼륨 풍부한 DASH 식단 안전성 확인&nbsp;&nbsp;메디컬투데이이 음식은 고혈압 위험을 30% 줄이는 데 도움이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSYm50YWZNeDhRNUxDZ3Bwd2hHVk1RamtFOFF5bXA2Z0N4X2xOWkZDQWMyT2xnUmlVbkFlWTVjTU85dXRFVlRyWXhiMGNSdVE2YzZYcnBxeFItUHNhaF9OamVTNi14X1hCV3h0SWNjaTZ5TXB3dlc3WUVhMXIxZVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c5e1fa560e3",
+      "title": "[성장 일기] 아이 코가 막히면 키 성장도 막힌다 - 이데일리",
+      "published": "2026-10-09T15:03:02+00:00",
+      "summary": "[성장 일기] 아이 코가 막히면 키 성장도 막힌다&nbsp;&nbsp;이데일리“봄꽃 때문 아니었어?” 가을철 ‘알레르기’ 유발하는 의외의 식물은…&nbsp;&nbsp;경향신문[이호빈의 건강노트] 가을만 되면 막히는 코…알레르기 비염 환자 1.7배 ‘껑충’&nbsp;&nbsp;마이데일리",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjlBNVdzcS1VTUpVUVR2V0V3U0xxU1VLY2ZGNlJKbVlaeG55WHlBakl1MG9jV0lSN1RyaF80eFd2djY0ajZMV2ExTXVFaXhxZ2RnaGZ4ZXVRSWN6cGNLZ0tOcFBhTmtmaHRraEpvNkxDVzJSelVmMDNYMjNKMWpzeA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "79d10d3adab5",
       "title": "과자·핫도그 줄였더니 우울증 개선 - 한국경제",
       "published": "2026-10-09T08:58:17+00:00",
@@ -129,11 +225,23 @@
       "id": "c0399fa80a46",
       "title": "“호두 아니다”… 매일 한 줌 먹으니, 기억력·뇌혈류 깨운 ‘식품’ 정체 - 헬스조선",
       "published": "2026-10-09T05:00:00+00:00",
-      "summary": "“호두 아니다”… 매일 한 줌 먹으니, 기억력·뇌혈류 깨운 ‘식품’ 정체&nbsp;&nbsp;헬스조선30대도 치매 걸렸다…두 치매 명의 “이 음식 안 먹는다”&nbsp;&nbsp;미주중앙일보“50세 이후 이 음식 끊었다” 치매 명의 꼭 지키는 ‘뇌 식단’&nbsp;&nbsp;Daum열량도 탄수화물도 비슷한 두 끼…‘초가공식’ 먹자 몸은 다르게 반응했다&nbsp;&nbsp;코메디닷컴매일 먹는 샌드위치가 치매 위험 높인다?... \"초가공식품이 뇌 노화 앞당겨\"&nbsp;&nbsp;하이닥",
+      "summary": "“호두 아니다”… 매일 한 줌 먹으니, 기억력·뇌혈류 깨운 ‘식품’ 정체&nbsp;&nbsp;헬스조선건강식인 줄…심혈관질환 사망 위험 최대 65% 높인다는 ‘이 음식’&nbsp;&nbsp;레이디경향30대도 치매 걸렸다…두 치매 명의 “이 음식 안 먹는다”&nbsp;&nbsp;미주중앙일보지중해식·DASH 식단, 인지기능 향상에 영향&nbsp;&nbsp;메디컬투데이【건강백세】 ‘뇌’를 위해 무엇을 먹을 것인가?&nbsp;&nbsp;시사뉴스",
       "sources": [
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TNDFMUlJQSW81YllBbjhmTEQ5MlVDTU4xN2M3Uzl0amVYcmVOVzlPUlVDek5pVzZSMkFldlFaeDRWVjBZdUNaRzJyZUdqX3lNSWVQTGpyQU5RNFpseHVHaHFGRWdScGVwSnd6WndGWERESzVYM2RiVVdZOHktVmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7c35554cc86",
+      "title": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰 - 하이닥",
+      "published": "2026-10-09T04:00:00+00:00",
+      "summary": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥[건강포커스] \"콜레스테롤약 스타틴, 녹내장 위험·추가 치료 가능성 낮춰\"&nbsp;&nbsp;연합뉴스“녹내장 위험 낮춘다”…고지혈증약 ‘이것’ 뜻밖의 효과&nbsp;&nbsp;농민신문고지혈증약 복용한 사람, 녹내장 위험 낮았다&nbsp;&nbsp;약사공론스타틴 복용, 녹내장 발생·추가 치료 위험 감소&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWanJ6U0ZlSzQwVzZRc05zemhJTXBPaXc4VkdaR1pLcHVkWEZsZUFPVnNkU1FwS0w5SUlqcEFUS29QRnZidGNMRXRweVdiM3dqRU1ybl9BN0NYZ09kUTc4S1VxX0Q2SHBxYmc?oc=5"
         }
       ]
     },
@@ -146,42 +254,6 @@
         {
           "name": "팸타임스 FAM Times",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55Slp5Q1ctOWdJTUxUdHpMWENvSF9fV2M1OVQ2aVEyZU1RLTZmQTcyWThxZXAxRGpaMzJGSkNjeU1JZllIc0gxNndsbFRXbDQ5OURWMGVfRHpwSDdmSkt0Z1N2MXhXbDZvdThPOWJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3aff22226276",
-      "title": "두 달 빨리 찾아온 독감 벌써 기승… “백신 지금 맞아야” - 미주한국일보",
-      "published": "2026-10-09T03:00:00+00:00",
-      "summary": "두 달 빨리 찾아온 독감 벌써 기승… “백신 지금 맞아야”&nbsp;&nbsp;미주한국일보독감 시즌 벌써 시작됐다… 백신 접종 서둘러야&nbsp;&nbsp;미주중앙일보하와이 호흡기 바이러스 유행…독감 환자 증가세&nbsp;&nbsp;KBFD[밴쿠버 조선일보]BC주, 독감 백신 접종 예약 13일부터 시행 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보가을에는 5가지 유형의 바이러스가 증가할 가능성이 높아지는데, 어떻게 예방할 수 있을까요?&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "미주한국일보",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sMHpuOWFWbFFXQzF2RGRkSS0zem5Nak5lekhFakk0cmJqV2Y3U09kOGNMMHpISzBiakZYWkFXanJnR3IwN3BuYjBpQVQ3MXNUMGFkXzlUbUpsajZfUFJz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "03c699f0e996",
-      "title": "운동만 하면 울렁울렁 토 나오는 이유는?…이런 증상 다스리는 요령 - 코메디닷컴",
-      "published": "2026-10-09T02:05:00+00:00",
-      "summary": "운동만 하면 울렁울렁 토 나오는 이유는?…이런 증상 다스리는 요령&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10UThRVFZzLWNJS21YWW1KajF0LV9LNjEwQVE3UGVtQ3JvbUl4WjRaQTM0dGU5bTlQdVQ4V3pNYldpdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6671ee183777",
-      "title": "﻿“콜레스테롤약 스타틴, 녹내장 위험·추가치료 가능성 낮춰” - 데일리메디",
-      "published": "2026-10-08T22:52:00+00:00",
-      "summary": "﻿“콜레스테롤약 스타틴, 녹내장 위험·추가치료 가능성 낮춰”&nbsp;&nbsp;데일리메디[건강포커스] \"콜레스테롤약 스타틴, 녹내장 위험·추가 치료 가능성 낮춰\"&nbsp;&nbsp;연합뉴스“녹내장 위험 낮춘다”…고지혈증약 ‘이것’ 뜻밖의 효과&nbsp;&nbsp;농민신문\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥고지혈증약 복용한 사람, 녹내장 위험 낮았다&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "데일리메디",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLQVBXX3RhN2hRX3lnQ25keTRGSnZ1LVhJUG1EaXJ0OEFNWjRSeWNOLW1RVHVyc3FFVjhldDNIbVJhTTUtcUZyV2w4SXZLN1BpOFZhUkkxdXkwOVZhbE1jMGNtTkRTcE1TaGl1U3NkT3VvcWUy?oc=5"
         }
       ]
     },
@@ -206,18 +278,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8waXVwQkpORzZKNGtSSEIwUFhGTktnc2FqN0JhcS1PYklfODBaaFVEWVlpWmR4MzVpSlE3a3l4dFNPQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f2a0e63070d",
-      "title": "임신 전 HPV 백신 접종했더니…\"조산·임신 합병증 위험 낮아\" - 한국경제",
-      "published": "2026-10-08T12:30:01+00:00",
-      "summary": "임신 전 HPV 백신 접종했더니…\"조산·임신 합병증 위험 낮아\"&nbsp;&nbsp;한국경제HPV 백신 조산 위험 최대 15% 낮춘다 : 최신논문&nbsp;&nbsp;의약일보임신 전 HPV 백신 접종, 조산 및 임신 합병증 위험 낮춰&nbsp;&nbsp;데일리굿뉴스임신 전 HPV 백신 맞았더니…조산 위험 5%·초조산 15% 낮아&nbsp;&nbsp;메디컬투데이[건강포커스] \"임신 전 HPV 백신 접종 여성, 조산·임신 합병증 위험 낮아\"&nbsp;&nbsp;연합뉴스 한민족센터",
-      "sources": [
-        {
-          "name": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01TmFGSl95cjhaanlKYzlZNVNINTNFU3RwQWZPTHFzemJ2NFlZeDNGY3JVbXROd1lDMS16SFBhRHExOTIxVEZQa0dVRWNSV0lubFQtLTh2aXBxZw?oc=5"
         }
       ]
     },
@@ -258,6 +318,18 @@
       ]
     },
     {
+      "id": "34b88370bd23",
+      "title": "술 마시면 대장암 위험 증가한다...“당뇨·공복혈당장애 더 위험” - 하이닥",
+      "published": "2026-10-08T05:00:00+00:00",
+      "summary": "술 마시면 대장암 위험 증가한다...“당뇨·공복혈당장애 더 위험”&nbsp;&nbsp;하이닥혈당 높은데 '적당한 술' 괜찮을까…447만 명 추적했더니&nbsp;&nbsp;SBS 뉴스혈당 높다면 소량의 술도 안심 못 한다…대장암 위험 48% 높아져&nbsp;&nbsp;진주인터넷뉴스“소주 한 잔쯤은 괜찮겠지” 했는데…이런 사람들은 적게 마셔도 큰일 [헬시타임]&nbsp;&nbsp;서울경제혈당 높고 술까지 마신다면…대장암 위험 더 커진다&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uWGpUU2hwUEhnOHN2SndfYUh2aTkxeVFydC1kS1NqZkhmVnU5QlBGS2Z0QnpwSWE4LVlCWXZ5SDY4TTFjUFlDTmg2cTV1bllraVZHSlRUaG5nNUNvUk1qU2Z0Tk96SVdqTUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3ff0ef7a04f0",
       "title": "심장 건강 지키는 통곡물…‘황금 섭취량’ 찾았다 - 미주한국일보",
       "published": "2026-10-08T03:00:00+00:00",
@@ -282,6 +354,18 @@
       ]
     },
     {
+      "id": "c1bc9e310bcb",
+      "title": "위암 주범 ‘헬리코박터균’…항생제 내성 탓 치료 14일까지 - 스포츠월드",
+      "published": "2026-10-08T00:16:54+00:00",
+      "summary": "위암 주범 ‘헬리코박터균’…항생제 내성 탓 치료 14일까지&nbsp;&nbsp;스포츠월드",
+      "sources": [
+        {
+          "name": "스포츠월드",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYT2F6NG95Mm42UzB3bS02R0xnTG1UR0hSRXJBc1hCV0stY2ZqWG9KeDd0czF4clBtTE95ZENEZHZ6MFl5R0V6bU00eE5ZT2xFY3hOVzVnT3hwdHlUUEpLTlFB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "66e44f452271",
       "title": "내 암세포를 분석해, 나에게 맞는 암백신을 만든다? - 의학신문",
       "published": "2026-10-07T22:19:02+00:00",
@@ -290,18 +374,6 @@
         {
           "name": "의학신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzbG0za0xEWWw0dEFsT0l5Yk5ZREdnNkpuVXZ6OHBoc1dEcXV5X0pXbFV6SmZtWTJ2S0E4aUtYdG9MX0dBQnVBelZDVGZZb2hiNE9qc1FGQUE1TFN0Z0ZJbU9memtxTnU3WEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c271d29eec34",
-      "title": "“약으로 없앨 수 있는 유일한 발암물질” 건강 검진할 때 ‘위내시경’ 꼭 해야 하는 이유 - 헬스조선",
-      "published": "2026-10-07T21:30:00+00:00",
-      "summary": "“약으로 없앨 수 있는 유일한 발암물질” 건강 검진할 때 ‘위내시경’ 꼭 해야 하는 이유&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kZU1PamxMRlBRR1RzTG5VM05Uc0ZHWG5YNllvYl9ZeUswX2I4QmRrM3dfYllLWUVTYTNDNXNKbWlfT0ZnXzdKLVNOY0wwLWljdV8yUnNSU3VuNFdEQWVXMEdKLXhjMU02blF2Zmtkd3JCYjZjaDIzTGhGN3d4Q3c?oc=5"
         }
       ]
     },
@@ -390,30 +462,6 @@
       ]
     },
     {
-      "id": "cb9a58b3aa14",
-      "title": "강원대 박유경 연구팀, COPD 퇴원 후 관리로 호흡기 증상 개선 - THE MOST(더모스트)",
-      "published": "2026-10-07T01:47:40+00:00",
-      "summary": "강원대 박유경 연구팀, COPD 퇴원 후 관리로 호흡기 증상 개선&nbsp;&nbsp;THE MOST(더모스트)",
-      "sources": [
-        {
-          "name": "THE MOST(더모스트)",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MZ2xyNGhmYlVFUWNzUUlEaU9jZVNCdVE5Zk5KM0FaSUxZUlRiQUFUcjNYcUkyaC0zV1RKWkZjOGY2TWRIczQ0NzV2MDYyV0NtLVpEenFMdEE2TC00YXp4VTlHZlcxWVZVYzBFS3hfaDk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90fe082ab5e0",
-      "title": "GIST, 신장질환자 세뇨관 상피세포서 '후성유전적 노화 가속' 확인 - 전자신문",
-      "published": "2026-10-07T00:04:36+00:00",
-      "summary": "GIST, 신장질환자 세뇨관 상피세포서 '후성유전적 노화 가속' 확인&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80cU1KeGU5YVl2SkQzdXFlV0pJVVZfVnVGbUhMcnpXVHpOcHRudUFSTmpMYzZZNUFsMGgxRnlnSmZ2NUpBSnEtTzVrQU4zZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "532cddf478fc",
       "title": "JW중외제약 ‘리바로브이’, 급성 심근경색 안전성 입증 … 실적 반등 신호탄 쏘나 - 헬스코리아뉴스",
       "published": "2026-10-06T19:26:17+00:00",
@@ -438,26 +486,14 @@
       ]
     },
     {
-      "id": "fbd0b4ba4a31",
-      "title": "김기웅 분당서울대병원 정신건강의학과 교수팀, 일상생활서 뇌 자극하는 ‘투명 OLED 안경’ 개발 - 의사신문",
-      "published": "2026-10-06T01:20:35+00:00",
-      "summary": "김기웅 분당서울대병원 정신건강의학과 교수팀, 일상생활서 뇌 자극하는 ‘투명 OLED 안경’ 개발&nbsp;&nbsp;의사신문분당서울대병원-KAIST, 뇌 자극용 '투명 OLED 안경' 개발&nbsp;&nbsp;전자신문안경 쓰고 빛으로 뇌 자극…일상 속 알츠하이머 관리 가능해질까&nbsp;&nbsp;아시아투데이일상서 쓰는 안경이 뇌 자극한다…알츠하이머 예방·관리 새 길&nbsp;&nbsp;중부일보분당서울대병원, 일상생활서 뇌 자극하는 ‘투명 OLED 안경’ 개발&nbsp;&nbsp;에너지경제신문",
+      "id": "0b020df45975",
+      "title": "“치매 예방, 안경으로 가능할까”…투명 OLED로 감마파 변화 확인 [노화설계] - 동아일보",
+      "published": "2026-10-06T00:42:00+00:00",
+      "summary": "“치매 예방, 안경으로 가능할까”…투명 OLED로 감마파 변화 확인 [노화설계]&nbsp;&nbsp;동아일보분당서울대병원-KAIST, 뇌 자극용 '투명 OLED 안경' 개발&nbsp;&nbsp;전자신문안경 쓰고 빛으로 뇌 자극…일상 속 알츠하이머 관리 가능해질까&nbsp;&nbsp;아시아투데이일상서 쓰는 안경이 뇌 자극한다…알츠하이머 예방·관리 새 길&nbsp;&nbsp;중부일보분당서울대병원, 일상생활서 뇌 자극하는 ‘투명 OLED 안경’ 개발&nbsp;&nbsp;에너지경제신문",
       "sources": [
         {
-          "name": "의사신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90b0JCQXdQMnRTZGU5M2NrOGlDdlp5NDc2YndDRkZWakljbzJsVkxPNlVLa1BYTl9rTWw5LWo2eU9ERTJEVkdHb0RSU0RQaTZBYnl6by1KZDZadW9DTWNXVzZOTUZBSWdJZVdsT2xPZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f76d2d75f004",
-      "title": "혈당 높은데 '적당한 술' 괜찮을까…447만 명 추적했더니 - SBS 뉴스",
-      "published": "2026-10-05T22:01:00+00:00",
-      "summary": "혈당 높은데 '적당한 술' 괜찮을까…447만 명 추적했더니&nbsp;&nbsp;SBS 뉴스술 마시면 대장암 위험 증가한다...“당뇨·공복혈당장애 더 위험”&nbsp;&nbsp;하이닥혈당 높다면 소량의 술도 안심 못 한다…대장암 위험 48% 높아져&nbsp;&nbsp;진주인터넷뉴스“소주 한 잔쯤은 괜찮겠지” 했는데…이런 사람들은 적게 마셔도 큰일 [헬시타임]&nbsp;&nbsp;서울경제혈당 높고 술까지 마신다면…대장암 위험 더 커진다&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "SBS 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83c0JSZktfLWpXbkJibXJ6Z3M3ZWItU1RrRjUzTlNPd1g0bTJVclJGSmJhem9xUjZjUTFkWDN3eWV0VGlWRjQzQWV3bHg1NjNnZmVwNDkxelZQellxc1cwemlxNnp6dFROWkE?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwdVRKNS0yVWNSbnFzaS1nVldVZ1gyWV8yLTdXbHR2RHM4eFJ3bFlOR09aNVI4ZmhleC1PTndIbFNuWmVrQzBVWUJGMFZwUGhlcTUxdVNaLVlvaWRBY0xtZDlHNGprdEoxQUdjVGJnTdIBZkFVX3lxTE1jM2wwREhtVFltSkY2MkRzbno4NUY5cmRjMjdRU091ZFE3TF9hdlB0dzFlbFJJcUtVZThJRS15Z0wyN1hQNm52dUxER3hTOWY0TUI5b0oxUHhKYi1OTElvb0F5bWpoQQ?oc=5"
         }
       ]
     },
@@ -486,14 +522,14 @@
       ]
     },
     {
-      "id": "5ad9a3425fd4",
-      "title": "뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스] - 서울신문",
-      "published": "2026-10-05T08:30:00+00:00",
-      "summary": "뜨거워지는 지구, ‘모기 지도’ 바꾼다…온대 지방 노리는 뎅기열 [달콤한 사이언스]&nbsp;&nbsp;서울신문해당 지역에서 뎅기열 환자가 발생하자 보건 당국은 상황을 긴급히 모니터링하고 있습니다.&nbsp;&nbsp;Vietnam.vn경고: 뎅기열 발병률은 우기에 증가합니다.&nbsp;&nbsp;Vietnam.vn뎅기열은 계절성 질환입니다.&nbsp;&nbsp;Vietnam.vn쯔엉빈 동에서 뎅기열 환자 1명이 내부적으로 발생했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "f8f075e8cc0f",
+      "title": "'독'인 줄 알았더니 '약'…치매 청소 반전 물질 - 네이트",
+      "published": "2026-10-04T22:35:00+00:00",
+      "summary": "'독'인 줄 알았더니 '약'…치매 청소 반전 물질&nbsp;&nbsp;네이트",
       "sources": [
         {
-          "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56Xy15N2VYQkY5YnM4WGdOc0hQaFBQXzFxbG9LVU1OOGFpeU01ZVhqZmpKVHJBRDA5Q3VTSjUtNXZqWkh1X2d6bFVmVmFid3VVSEpNeUhMVWRHNThoLThkMWxYdmNFS1BZX3kybUZIQ3pwMlpGcTFNWEgtYjhnQQ?oc=5"
+          "name": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwOFk1UEJqRXFzZ2tPc2NQd3NHcThpMmJHcmFVRlZhdGNvTk9raTFtWjk1SG5TSGZncWZBNlA3NmN4T2hZUHFKdGx5OEVNMGJJeS1Ydk93?oc=5"
         }
       ]
     },
