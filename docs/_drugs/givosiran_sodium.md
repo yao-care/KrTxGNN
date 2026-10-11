@@ -29,10 +29,6 @@ indication_count: 0
 
 </div>
 
-txgnn-pipeline 스킬은 파이프라인 운영 지침이며, Evidence Pack 보고서 작성은 시스템 프롬프트 규칙을 따릅니다. 이제 Evidence Pack을 분석하여 보고서를 작성합니다.
-
----
-
 **Evidence Pack 분석 결과:**
 
 | 항목 | 값 | 비고 |

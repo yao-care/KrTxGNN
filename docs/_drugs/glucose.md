@@ -29,10 +29,6 @@ indication_count: 0
 
 </div>
 
-`txgnn-pipeline` 스킬은 파이프라인 운영 관련 안내이며, 이 작업(Evidence Pack → 보고서 생성)은 시스템 프롬프트의 보고서 양식이 전면 적용됩니다. Evidence Pack을 분석 후 보고서를 생성합니다.
-
----
-
 **Evidence Pack 분석 결과:**
 
 | 항목 | 상태 |

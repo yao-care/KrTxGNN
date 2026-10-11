@@ -29,10 +29,6 @@ indication_count: 0
 
 </div>
 
-txgnn-pipeline 스킬은 파이프라인 운영 관련이며, 이 보고서 작성 작업에는 직접 적용되지 않습니다. Evidence Pack을 분석하여 지정된 형식으로 보고서를 작성합니다.
-
----
-
 **Evidence Pack 분석:**
 - `predicted_indications`: 빈 배열 → TxGNN 예측 없음
 - `original_indications`: 빈 배열, MOA: [Data Gap]

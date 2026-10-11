@@ -29,10 +29,6 @@ indication_count: 0
 
 </div>
 
-`txgnn-pipeline` 스킬을 확인했습니다. 해당 스킬은 파이프라인 관리용이며, 이 작업(Evidence Pack → 보고서 생성)에 직접 적용되는 지침은 없습니다. Evidence Pack을 분석하여 보고서를 작성합니다.
-
----
-
 **Evidence Pack 분석 결과:**
 
 | 항목 | 상태 |

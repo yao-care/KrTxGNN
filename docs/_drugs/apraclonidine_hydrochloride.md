@@ -29,10 +29,6 @@ indication_count: 0
 
 </div>
 
-`txgnn-pipeline` 스킬을 확인했습니다. 이 작업은 파이프라인 실행이 아닌 Evidence Pack 보고서 생성이므로 v5 프롬프트 형식에 따라 진행합니다.
-
----
-
 Evidence Pack을 분석한 결과:
 
 - `predicted_indications`: 비어 있음 (TxGNN 예측 없음)

@@ -29,8 +29,6 @@ indication_count: 6
 
 </div>
 
-Using the `writer` domain skill implicitly (no formal skill matched) — proceeding directly with report per prompt spec, since evidence pack shows a clear negative/Hold case.
-
 # Silodosin: 하부요로 질환(추정)에서 Ambras형 선천성 전신 다모증으로
 
 ## 한 문장 요약

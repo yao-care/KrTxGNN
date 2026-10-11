@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using superpowers 체크 결과 이 작업은 정의된 프롬프트 템플릿을 그대로 따르는 보고서 생성 작업이라 별도 skill 불필요 — 바로 작성합니다.
-
----
-
 # Tenecteplase: 급성 심근경색(STEMI)에서 후측벽 심근경색(Posterolateral MI)으로
 
 ## 한 문장 요약

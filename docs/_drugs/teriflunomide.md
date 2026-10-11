@@ -29,10 +29,6 @@ indication_count: 1
 
 </div>
 
-Using superpowers 확인 결과 이 작업(정형화된 평가 보고서 작성)에 해당하는 별도 skill은 없어 제공된 프롬프트 v5 템플릿을 그대로 따릅니다.
-
----
-
 # Teriflunomide: 국내 미허가 약물에서 재발-완화형 다발경화증(RRMS)으로
 
 ## 한 문장 요약
