@@ -1,10 +1,94 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-10T21:19:36.363538+00:00",
-  "total_fetched": 104,
-  "unique_count": 104,
-  "health_related_count": 46,
+  "fetched_at": "2026-10-11T04:48:21.821119+00:00",
+  "total_fetched": 100,
+  "unique_count": 100,
+  "health_related_count": 49,
   "news": [
+    {
+      "id": "65026d96f387",
+      "title": "임신 6주차 임산부가 극도로 높은 바이러스 부하를 가진 대상포진에 걸렸습니다 - Laodong.vn",
+      "published": "2026-10-11T02:00:26+00:00",
+      "summary": "임신 6주차 임산부가 극도로 높은 바이러스 부하를 가진 대상포진에 걸렸습니다&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQanIxY1lDN0hXUGhrX1VzQkw2TFFPeEZKWjNfMHVSYUZUeVVQb2Z0dm1DaHNBTU5md0N2NUtFUFo3T2w3ZzVHSV8xVnd3YkFRRnRFb2t6b2Y3UEpjNlBrOFFtWTllaEpjS05qOE4xY2JXT010QXhKVkt2Nmw0akJuXzgzTHBtamVlenkyOHFwTTlvVEI4NDd6VzNDWnpZdXZSZlg1MFZ5UFUwSE5fLWFrbVBKVlFIXzZBRFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d4abac0dee2",
+      "title": "\"신규 암 환자 8명 중 1명은 바이러스·세균 탓\" - 지디넷코리아",
+      "published": "2026-10-11T01:08:14+00:00",
+      "summary": "\"신규 암 환자 8명 중 1명은 바이러스·세균 탓\"&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1INDRhSHJjazdGOW1GTGEzd29Wdl9WazFXdWZvUTR3S1pGSVZrQS1QQ3J0WWl0c2tISk5RcEgteGZuR1RPd1lZQW42Q0x6ZFFRckFEWkJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e4a48ecbd9b",
+      "title": "‘가슴 가려워’ 병원갔더니 “세제 바꿔라?”…결국 ‘이 암’ 진단받은 30대女, 죽음 준비 [월드픽] - 서울신문",
+      "published": "2026-10-10T23:52:18+00:00",
+      "summary": "‘가슴 가려워’ 병원갔더니 “세제 바꿔라?”…결국 ‘이 암’ 진단받은 30대女, 죽음 준비 [월드픽]&nbsp;&nbsp;서울신문",
+      "sources": [
+        {
+          "name": "서울신문",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00VXZOSUZTTmdJdGNNNUVxNXJWZUR0Um5PTklicFdIa1NDQWZ2ZVNPZUh4YjhyZ0FnM3ZXSm5BaVk2eGlPTVdfUWlySWl5Um5SdVJPSnF6NUtfeVJiYXVWcXg2c090ZGZWWHB0NUNoVWp0VHpQSFdLcQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94c0bbc4a6be",
+      "title": "\"슬픔은 바이러스처럼 퍼진다\" 유명인 자살 후 소셜 미디어 감정 전파 경로 분석 - 정신의학신문",
+      "published": "2026-10-10T23:00:00+00:00",
+      "summary": "\"슬픔은 바이러스처럼 퍼진다\" 유명인 자살 후 소셜 미디어 감정 전파 경로 분석&nbsp;&nbsp;정신의학신문",
+      "sources": [
+        {
+          "name": "정신의학신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JRDBvSXpubWtILTFUSUFkUHBTTGtHWm82VnFibTZKeG9UM2NZNng3eUVuV2RQWWZfdjA1UFRIYkwyQmkwUVRKQ2lZdzZGTkJBNk1BR25wSTlSQU5hUVh2b1VRTUFaVGdWalZ5cXFZTFV5Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0fc9a0b3778c",
+      "title": "조현병 연구의 지평을 넓히다, 다양한 인구 집단이 밝혀낸 생물학적 단서 - 정신의학신문",
+      "published": "2026-10-10T23:00:00+00:00",
+      "summary": "조현병 연구의 지평을 넓히다, 다양한 인구 집단이 밝혀낸 생물학적 단서&nbsp;&nbsp;정신의학신문",
+      "sources": [
+        {
+          "name": "정신의학신문",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5haEREQTVFNzJHQlRWRDI2NFRSaGFPUWtiTmQxTDl5aXBCVkpqN253d1pvZk9kcVREQ09VVHVoZ2FuQ3BnRmpqR1N3R2YxZ2JzU0VkMFYtZjhxSVB0aXMybnpJM3EzVVN6LW80cVAtN3F1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "235f46ba5cd7",
+      "title": "“한 해 700만명 목숨 뺏은 뇌졸중…80% 예방법 있다” [Health&] - 미주중앙일보",
+      "published": "2026-10-10T22:21:00+00:00",
+      "summary": "“한 해 700만명 목숨 뺏은 뇌졸중…80% 예방법 있다” [Health&]&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "미주중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hZUVLbGk3cGtMN0VjVjVtLUxFVjlwMjhWSm1iakxQS0x4eTZzNzZmeE1FOEZwbXBNZ1RVMTRHdmVVTFhtMnRSTmRGdEVJNFVzaW1NbTNIOHNlY1UtNFVOR0JR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c111c0f9579a",
+      "title": "[당뇨와 금연] \"당뇨 환자 담배 끊어라\"…8년 금연에 눈·신장 합병증 급감 - CBC뉴스",
+      "published": "2026-10-10T22:00:00+00:00",
+      "summary": "[당뇨와 금연] \"당뇨 환자 담배 끊어라\"…8년 금연에 눈·신장 합병증 급감&nbsp;&nbsp;CBC뉴스[위클리 건강] 당뇨병인데 아직도 흡연?…8년 금연하자 합병증 위험 '뚝'&nbsp;&nbsp;연합뉴스당뇨병 합병증, 금연 오래 유지할수록 위험 낮아진다&nbsp;&nbsp;세계일보당뇨 환자 8년 금연하면 망막병증 위험 41% 급감 : 최신논문&nbsp;&nbsp;의약일보당뇨 환자 8년 금연하면 망막병증 41% 급감 : 건강&nbsp;&nbsp;재경일보",
+      "sources": [
+        {
+          "name": "CBC뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lZUR2S1Q5ZkNiVzNodFRfWFdhT3dKTEY5bG90Y3ZOQmxqcHVQejNqMmV2eHBCWXNWc05DcUNVSjlqYlNlSlhkb2hWeGJUUFptQXM1dFJqVkJaYUtfbGNUNFpLbkd5dUFS?oc=5"
+        }
+      ]
+    },
     {
       "id": "5b61158d6620",
       "title": "술 마시면서 담배까지 피우면 ‘이 암’ 위험 50배 뛴다 - 헬스조선",
@@ -26,18 +110,6 @@
         {
           "name": "코메디닷컴",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1vbURSdGM0UUhEbmJ5a0RYQWpyWEkwWndpejZzNEhldEQ2VXY3TjNKZjh2WEFnZjlLa1EwakN5WTZQUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bbb733aa96cf",
-      "title": "“세제 바꾸라는 말만”…유방암 진단받은 33세女, 뜻밖의 증상이? - 코메디닷컴",
-      "published": "2026-10-10T11:05:00+00:00",
-      "summary": "“세제 바꾸라는 말만”…유방암 진단받은 33세女, 뜻밖의 증상이?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0tdGJrSVp2US01SFZ0b2ctQU42ZE5ST1VSUDE0MGlIRU5MelVQZ2hGdzN6TGhzTlNBcDBBY1ZsQzdjQQ?oc=5"
         }
       ]
     },
@@ -69,7 +141,7 @@
       "id": "ace17df9836c",
       "title": "HPV 백신 맞으면 조산 줄어든다?…스웨덴 62만 건 분석으로 따져 본 4가지 주장 - 팸타임스 FAM Times",
       "published": "2026-10-10T06:10:17+00:00",
-      "summary": "HPV 백신 맞으면 조산 줄어든다?…스웨덴 62만 건 분석으로 따져 본 4가지 주장&nbsp;&nbsp;팸타임스 FAM Times임신 전 HPV 백신 접종했더니…\"조산·임신 합병증 위험 낮아\"&nbsp;&nbsp;한국경제HPV 백신 조산 위험 최대 15% 낮춘다 : 최신논문&nbsp;&nbsp;의약일보임신 전 HPV 백신 접종, 조산 및 임신 합병증 위험 낮춰&nbsp;&nbsp;데일리굿뉴스임신 전 HPV 백신 맞았더니…조산 위험 5%·초조산 15% 낮아&nbsp;&nbsp;메디컬투데이",
+      "summary": "HPV 백신 맞으면 조산 줄어든다?…스웨덴 62만 건 분석으로 따져 본 4가지 주장&nbsp;&nbsp;팸타임스 FAM Times임신 전 HPV 백신 접종했더니…\"조산·임신 합병증 위험 낮아\"&nbsp;&nbsp;한국경제HPV 백신 조산 위험 최대 15% 낮춘다 : 최신논문&nbsp;&nbsp;의약일보[건강포커스] \"임신 전 HPV 백신 접종 여성, 조산·임신 합병증 위험 낮아\"&nbsp;&nbsp;https://spt.co.kr/",
       "sources": [
         {
           "name": "팸타임스 FAM Times",
@@ -93,11 +165,23 @@
       "id": "28d67c5bee73",
       "title": "스노호미시 카운티 올 시즌 첫 독감 사망…에드먼즈 70대 남성 - 시애틀코리안데일리",
       "published": "2026-10-10T03:35:49+00:00",
-      "summary": "스노호미시 카운티 올 시즌 첫 독감 사망…에드먼즈 70대 남성&nbsp;&nbsp;시애틀코리안데일리독감 시즌 벌써 시작됐다… 백신 접종 서둘러야&nbsp;&nbsp;미주중앙일보하와이 호흡기 바이러스 유행…독감 환자 증가세&nbsp;&nbsp;KBFD[밴쿠버 조선일보]BC주, 독감 백신 접종 예약 13일부터 시행 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보가을에는 5가지 유형의 바이러스가 증가할 가능성이 높아지는데, 어떻게 예방할 수 있을까요?&nbsp;&nbsp;Vietnam.vn",
+      "summary": "스노호미시 카운티 올 시즌 첫 독감 사망…에드먼즈 70대 남성&nbsp;&nbsp;시애틀코리안데일리독감 시즌 벌써 시작됐다… 백신 접종 서둘러야&nbsp;&nbsp;미주중앙일보하와이 호흡기 바이러스 유행…독감 환자 증가세&nbsp;&nbsp;KBFD[밴쿠버 조선일보]BC주, 독감 백신 접종 예약 13일부터 시행 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보남가주 독감 시즌 예년보다 빨라져…보건당국 “지금 백신 접종해야”&nbsp;&nbsp;헤럴드경제 미주판",
       "sources": [
         {
           "name": "시애틀코리안데일리",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kY1lrVGRfQjlLUUp5TTN1dXNjaktTQjhwUGNyaEV2MXhzQmpsRThVbDctcVZlVGFvN3hRT2xWbVZkX2dBb1NOa2JCVUhtQ0JxMEpQaGtONWFSS2ViUmRWM2gwcXFaVEFwT3ltUEtrQULSAXNBVV95cUxPR1hWOVYtSTdGSXYzcE8ydVZHR2RHSm5BVmkxTDQ0bEc1SmNXNGQzQ2Z3azVNMTZLM2RSSXFrNGNJaWZabzEyb0JtbXEzTTJtbGk1NUIyNnktZm1ISmRpWlBZVjUxazFCS2k4NDRtc1l5OHEw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "70d73e55b5d3",
+      "title": "[이호빈의 건강노트] 가을만 되면 막히는 코…알레르기 비염 환자 1.7배 ‘껑충’ - 마이데일리",
+      "published": "2026-10-10T00:46:14+00:00",
+      "summary": "[이호빈의 건강노트] 가을만 되면 막히는 코…알레르기 비염 환자 1.7배 ‘껑충’&nbsp;&nbsp;마이데일리“봄꽃 때문 아니었어?” 가을철 ‘알레르기’ 유발하는 의외의 식물은…&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "마이데일리",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rYXBsWUpITDc4UHVBaHRKU3lQcG1ycjRfVzhkYWlOdWpYUWN0VTM3ZEVmbVBVRFZKU21NX2FUMldnQmU3b29XT2RwbmdkaU9Kc3dzZFZjNW9QeEFub1V1b1JNdElHdw?oc=5"
         }
       ]
     },
@@ -126,18 +210,6 @@
       ]
     },
     {
-      "id": "76b8c1d9a8f6",
-      "title": "당뇨 환자 8년 금연하면 망막병증 위험 41% 급감 : 최신논문 - 의약일보",
-      "published": "2026-10-09T23:00:00+00:00",
-      "summary": "당뇨 환자 8년 금연하면 망막병증 위험 41% 급감 : 최신논문&nbsp;&nbsp;의약일보[위클리 건강] 당뇨병인데 아직도 흡연?…8년 금연하자 합병증 위험 '뚝'&nbsp;&nbsp;연합뉴스당뇨 환자 8년 금연하면 망막병증 41% 급감 : 건강&nbsp;&nbsp;재경일보",
-      "sources": [
-        {
-          "name": "의약일보",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fbTFRTkFDVWd4WHJQVEx5WW5QbnhVcUFXX1FjNHg2RDVDSFBCNWN2VlVsS0ViVE1MazV3cEtrbDFTSHpOdG1QaVFjNkRGNk9KRW1ySw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c24ce2db751a",
       "title": "고령층 사망 절반은 심뇌혈관 질환… 병원비 걱정 줄이려면 - IT조선",
       "published": "2026-10-09T22:30:00+00:00",
@@ -153,7 +225,7 @@
       "id": "3c186a6b5620",
       "title": "임신 중 양치할 때 피가 난다면?…조산·저체중아 출산 위험과 연관 - 뉴스탭",
       "published": "2026-10-09T22:27:56+00:00",
-      "summary": "임신 중 양치할 때 피가 난다면?…조산·저체중아 출산 위험과 연관&nbsp;&nbsp;뉴스탭임산부 치은염…잇몸 출혈·부기 계속되면 검진&nbsp;&nbsp;메디포뉴스대한구강보건협회 박용덕 회장, 임신 중 잇몸 출혈 지속 땐 치과 검진 권고&nbsp;&nbsp;더임팩트치아만의 문제가 아니다…전신 건강과 연결되는 잇몸 관리&nbsp;&nbsp;이코노미사이언스임신 중 양치할 때 피 난다면…잇몸 출혈 그냥 넘기지 마세요&nbsp;&nbsp;키즈맘",
+      "summary": "임신 중 양치할 때 피가 난다면?…조산·저체중아 출산 위험과 연관&nbsp;&nbsp;뉴스탭대한구강보건협회 박용덕 회장, 임신 중 잇몸 출혈 지속 땐 치과 검진 권고&nbsp;&nbsp;더임팩트치아만의 문제가 아니다…전신 건강과 연결되는 잇몸 관리&nbsp;&nbsp;이코노미사이언스임신 중 양치할 때 피 난다면…잇몸 출혈 그냥 넘기지 마세요&nbsp;&nbsp;키즈맘",
       "sources": [
         {
           "name": "뉴스탭",
@@ -198,18 +270,6 @@
       ]
     },
     {
-      "id": "4c5e1fa560e3",
-      "title": "[성장 일기] 아이 코가 막히면 키 성장도 막힌다 - 이데일리",
-      "published": "2026-10-09T15:03:02+00:00",
-      "summary": "[성장 일기] 아이 코가 막히면 키 성장도 막힌다&nbsp;&nbsp;이데일리“봄꽃 때문 아니었어?” 가을철 ‘알레르기’ 유발하는 의외의 식물은…&nbsp;&nbsp;경향신문[이호빈의 건강노트] 가을만 되면 막히는 코…알레르기 비염 환자 1.7배 ‘껑충’&nbsp;&nbsp;마이데일리",
-      "sources": [
-        {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVjlBNVdzcS1VTUpVUVR2V0V3U0xxU1VLY2ZGNlJKbVlaeG55WHlBakl1MG9jV0lSN1RyaF80eFd2djY0ajZMV2ExTXVFaXhxZ2RnaGZ4ZXVRSWN6cGNLZ0tOcFBhTmtmaHRraEpvNkxDVzJSelVmMDNYMjNKMWpzeA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "79d10d3adab5",
       "title": "과자·핫도그 줄였더니 우울증 개선 - 한국경제",
       "published": "2026-10-09T08:58:17+00:00",
@@ -222,62 +282,26 @@
       ]
     },
     {
-      "id": "c0399fa80a46",
-      "title": "“호두 아니다”… 매일 한 줌 먹으니, 기억력·뇌혈류 깨운 ‘식품’ 정체 - 헬스조선",
-      "published": "2026-10-09T05:00:00+00:00",
-      "summary": "“호두 아니다”… 매일 한 줌 먹으니, 기억력·뇌혈류 깨운 ‘식품’ 정체&nbsp;&nbsp;헬스조선건강식인 줄…심혈관질환 사망 위험 최대 65% 높인다는 ‘이 음식’&nbsp;&nbsp;레이디경향30대도 치매 걸렸다…두 치매 명의 “이 음식 안 먹는다”&nbsp;&nbsp;미주중앙일보지중해식·DASH 식단, 인지기능 향상에 영향&nbsp;&nbsp;메디컬투데이【건강백세】 ‘뇌’를 위해 무엇을 먹을 것인가?&nbsp;&nbsp;시사뉴스",
+      "id": "6671ee183777",
+      "title": "﻿“콜레스테롤약 스타틴, 녹내장 위험·추가치료 가능성 낮춰” - 데일리메디",
+      "published": "2026-10-08T22:52:00+00:00",
+      "summary": "﻿“콜레스테롤약 스타틴, 녹내장 위험·추가치료 가능성 낮춰”&nbsp;&nbsp;데일리메디[건강포커스] \"콜레스테롤약 스타틴, 녹내장 위험·추가 치료 가능성 낮춰\"&nbsp;&nbsp;연합뉴스“녹내장 위험 낮춘다”…고지혈증약 ‘이것’ 뜻밖의 효과&nbsp;&nbsp;농민신문\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥고지혈증약 복용한 사람, 녹내장 위험 낮았다&nbsp;&nbsp;약사공론",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TNDFMUlJQSW81YllBbjhmTEQ5MlVDTU4xN2M3Uzl0amVYcmVOVzlPUlVDek5pVzZSMkFldlFaeDRWVjBZdUNaRzJyZUdqX3lNSWVQTGpyQU5RNFpseHVHaHFGRWdScGVwSnd6WndGWERESzVYM2RiVVdZOHktVmc?oc=5"
+          "name": "데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLQVBXX3RhN2hRX3lnQ25keTRGSnZ1LVhJUG1EaXJ0OEFNWjRSeWNOLW1RVHVyc3FFVjhldDNIbVJhTTUtcUZyV2w4SXZLN1BpOFZhUkkxdXkwOVZhbE1jMGNtTkRTcE1TaGl1U3NkT3VvcWUy?oc=5"
         }
       ]
     },
     {
-      "id": "c7c35554cc86",
-      "title": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰 - 하이닥",
-      "published": "2026-10-09T04:00:00+00:00",
-      "summary": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥[건강포커스] \"콜레스테롤약 스타틴, 녹내장 위험·추가 치료 가능성 낮춰\"&nbsp;&nbsp;연합뉴스“녹내장 위험 낮춘다”…고지혈증약 ‘이것’ 뜻밖의 효과&nbsp;&nbsp;농민신문고지혈증약 복용한 사람, 녹내장 위험 낮았다&nbsp;&nbsp;약사공론스타틴 복용, 녹내장 발생·추가 치료 위험 감소&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWanJ6U0ZlSzQwVzZRc05zemhJTXBPaXc4VkdaR1pLcHVkWEZsZUFPVnNkU1FwS0w5SUlqcEFUS29QRnZidGNMRXRweVdiM3dqRU1ybl9BN0NYZ09kUTc4S1VxX0Q2SHBxYmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2bb80a38a175",
-      "title": "NAD 영양제 성분 NR, 1년 임상서 파킨슨병 진행 못 늦췄다…410명 대상 JAMA 연구 - 팸타임스 FAM Times",
-      "published": "2026-10-09T03:09:56+00:00",
-      "summary": "NAD 영양제 성분 NR, 1년 임상서 파킨슨병 진행 못 늦췄다…410명 대상 JAMA 연구&nbsp;&nbsp;팸타임스 FAM Times",
-      "sources": [
-        {
-          "name": "팸타임스 FAM Times",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55Slp5Q1ctOWdJTUxUdHpMWENvSF9fV2M1OVQ2aVEyZU1RLTZmQTcyWThxZXAxRGpaMzJGSkNjeU1JZllIc0gxNndsbFRXbDQ5OURWMGVfRHpwSDdmSkt0Z1N2MXhXbDZvdThPOWJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c1a9f3d1665a",
+      "id": "d764cb5659ce",
       "title": "젊다고 안심 못할 지방간…간암 위험 남성 2.39배·여성 2.88배 - 이데일리",
       "published": "2026-10-08T22:26:03+00:00",
       "summary": "젊다고 안심 못할 지방간…간암 위험 남성 2.39배·여성 2.88배&nbsp;&nbsp;이데일리",
       "sources": [
         {
           "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95MnJNcGRaamktYTlUTF9wLVBWa3ExNmQzX3NVbXNCZk5iV2l0dWlIWFpjOHJBR0xBRHVXaF9mbzVzN0tFeThrVFVSRG5sbkgzZHROVnpzZHc0cHhadjZ2Mng3dXhPclZwU2Iw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc5e80d1a3d5",
-      "title": "“통증 때문에 병원 갔더니”…14세 소년 요도에서 12cm ‘이것’ 발견 - 코메디닷컴",
-      "published": "2026-10-08T22:02:00+00:00",
-      "summary": "“통증 때문에 병원 갔더니”…14세 소년 요도에서 12cm ‘이것’ 발견&nbsp;&nbsp;코메디닷컴한 십대 소년이 호기심에 귀지 제거용 막대를 요도에 넣었다.&nbsp;&nbsp;Vietnam.vn의사들은 14세 소년의 생식기에서 12cm 길이의 귀지 제거용 막대가 발견되어 충격을 받았다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8waXVwQkpORzZKNGtSSEIwUFhGTktnc2FqN0JhcS1PYklfODBaaFVEWVlpWmR4MzVpSlE3a3l4dFNPQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVDNkTU9aeDFvQnlRQ0w3Rm80V0tGZ1U2MV9FdVF5N19xckVqRVE1eFM1eHJCUmx4X2ZqYVNMc1dFZTB2dmRtQXJaUkxaWTctcy00bk9YQzU0bC11eUJNSE42ZDJBMlk3SDd1RVNwNzl6a1p2UmpBSFhrZ1puX2tlZA?oc=5"
         }
       ]
     },
@@ -309,7 +333,7 @@
       "id": "08c426df1abc",
       "title": "대장암 세포, 아연으로 면역 회피… 세계 최초 규명 - 간호사신문",
       "published": "2026-10-08T05:01:30+00:00",
-      "summary": "대장암 세포, 아연으로 면역 회피… 세계 최초 규명&nbsp;&nbsp;간호사신문대장암, ‘아연’ 먹고 면역세포 따돌렸다… 국내 연구진, 회피 원리 규명&nbsp;&nbsp;BRIC고려대·경희대 연구팀,아연 수송체(SLC39) 통한 면역 억제 기전 규명&nbsp;&nbsp;뉴스티앤티“면역세포 눈속임 차단했다”… 고려대·경희대, 대장암 ‘아연 회피’ 기전 규명&nbsp;&nbsp;스마트경제대장암, 아연 이용해 면역세포 속인다…국내 연구진 ‘면역회피’ 원리 규명&nbsp;&nbsp;포인트데일리",
+      "summary": "대장암 세포, 아연으로 면역 회피… 세계 최초 규명&nbsp;&nbsp;간호사신문대장암, ‘아연’ 먹고 면역세포 따돌렸다… 국내 연구진, 회피 원리 규명&nbsp;&nbsp;BRIC전이성 대장암 면역치료 저항성 원인 찾았다&nbsp;&nbsp;메디컬투데이고려대·경희대 연구팀,아연 수송체(SLC39) 통한 면역 억제 기전 규명&nbsp;&nbsp;뉴스티앤티",
       "sources": [
         {
           "name": "간호사신문",
@@ -321,7 +345,7 @@
       "id": "34b88370bd23",
       "title": "술 마시면 대장암 위험 증가한다...“당뇨·공복혈당장애 더 위험” - 하이닥",
       "published": "2026-10-08T05:00:00+00:00",
-      "summary": "술 마시면 대장암 위험 증가한다...“당뇨·공복혈당장애 더 위험”&nbsp;&nbsp;하이닥혈당 높은데 '적당한 술' 괜찮을까…447만 명 추적했더니&nbsp;&nbsp;SBS 뉴스혈당 높다면 소량의 술도 안심 못 한다…대장암 위험 48% 높아져&nbsp;&nbsp;진주인터넷뉴스“소주 한 잔쯤은 괜찮겠지” 했는데…이런 사람들은 적게 마셔도 큰일 [헬시타임]&nbsp;&nbsp;서울경제혈당 높고 술까지 마신다면…대장암 위험 더 커진다&nbsp;&nbsp;세계일보",
+      "summary": "술 마시면 대장암 위험 증가한다...“당뇨·공복혈당장애 더 위험”&nbsp;&nbsp;하이닥혈당 높은데 '적당한 술' 괜찮을까…447만 명 추적했더니&nbsp;&nbsp;SBS 뉴스혈당 높다면 소량의 술도 안심 못 한다…대장암 위험 48% 높아져&nbsp;&nbsp;진주인터넷뉴스“소주 한 잔쯤은 괜찮겠지” 했는데…이런 사람들은 적게 마셔도 큰일 [헬시타임]&nbsp;&nbsp;서울경제",
       "sources": [
         {
           "name": "하이닥",
@@ -366,18 +390,6 @@
       ]
     },
     {
-      "id": "66e44f452271",
-      "title": "내 암세포를 분석해, 나에게 맞는 암백신을 만든다? - 의학신문",
-      "published": "2026-10-07T22:19:02+00:00",
-      "summary": "내 암세포를 분석해, 나에게 맞는 암백신을 만든다?&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzbG0za0xEWWw0dEFsT0l5Yk5ZREdnNkpuVXZ6OHBoc1dEcXV5X0pXbFV6SmZtWTJ2S0E4aUtYdG9MX0dBQnVBelZDVGZZb2hiNE9qc1FGQUE1TFN0Z0ZJbU9memtxTnU3WEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d268b93e3a33",
       "title": "파킨슨병 진행 예측, 임상·영상·병리 지표로 확장 - 메디칼업저버",
       "published": "2026-10-07T20:57:36+00:00",
@@ -402,18 +414,6 @@
       ]
     },
     {
-      "id": "4ca870d073a1",
-      "title": "WHO, 소아·청소년 비만 첫 글로벌 지침 발표 - 비건뉴스",
-      "published": "2026-10-07T10:21:13+00:00",
-      "summary": "WHO, 소아·청소년 비만 첫 글로벌 지침 발표&nbsp;&nbsp;비건뉴스“아이 살 빼려다 덜컥”…WHO, 10세 미만 비만약에 제동&nbsp;&nbsp;마켓인WHO는 아동 비만 예방에 관한 글로벌 가이드라인을 발표했습니다.&nbsp;&nbsp;Vietnam.vnWHO, 9세 이하 비만약 사용 제동…GLP-1 소아 적응증 확대 변수&nbsp;&nbsp;메디코파마WHO, 아동·청소년 비만 첫 글로벌 지침⋯\"약보다 식생활·운동이 먼저\"&nbsp;&nbsp;포커스온경제",
-      "sources": [
-        {
-          "name": "비건뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4SmczOHRhN2Z1LVNqZXFRQUpZemM0NVc1LW8zNngwR1U2VXJpMHRPaTF0MEVZNzl6WTNkejdCU05lOWs3R0kwS2NrdnZ2ejBreGlVdm1aRFZhcHNRT3loZm9HZDdXUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "28065e668a90",
       "title": "미국·영국·네덜란드서 50세 미만 암 발병률 20년새 급증 - DongA Science",
       "published": "2026-10-07T09:00:00+00:00",
@@ -426,6 +426,18 @@
       ]
     },
     {
+      "id": "64a4689b7f72",
+      "title": "WHO \"10세 미만 비만치료제 비권고, 안전성 입증 안돼'\" - 이데일리",
+      "published": "2026-10-07T08:15:44+00:00",
+      "summary": "WHO \"10세 미만 비만치료제 비권고, 안전성 입증 안돼'\"&nbsp;&nbsp;이데일리“아이 살 빼려다 덜컥”…WHO, 10세 미만 비만약에 제동&nbsp;&nbsp;마켓인WHO는 아동 비만 예방에 관한 글로벌 가이드라인을 발표했습니다.&nbsp;&nbsp;Vietnam.vnWHO, 9세 이하 비만약 사용 제동…GLP-1 소아 적응증 확대 변수&nbsp;&nbsp;메디코파마WHO, 아동·청소년 비만 첫 글로벌 지침⋯\"약보다 식생활·운동이 먼저\"&nbsp;&nbsp;포커스온경제",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZzlwZHJxWWZPOGxsM043bHVXaFR0MV9LLV9wdG5Mc3RnWndJMXlDMnRwV2pmMmZLdGx3LWQxVlNYVkUzZ29FWXlDRFlVZk9yZWtJSFR3ejl0RUNVeVhNaklMTGVUclI0bllTTjEwdm91Wk9XQV9IcHF6N0I1c1ZrLQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a543a4a944a6",
       "title": "국내 연구진, 비만이 대장암 유발하는 메커니즘 세계 최초 규명 - 간호사신문",
       "published": "2026-10-07T07:05:12+00:00",
@@ -434,6 +446,18 @@
         {
           "name": "간호사신문",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuUjNpSWhhRHBOd3lOT1lwMDg1RHYyRDY0Uk1USHgxZ0sySmFxMnFOTkNINlNNSU4wUDBRQXU0VzV6RWg0aWgzT2Nhbzc1VlJzOEVmV1Z1Wi1qUFhEZWZZRkR2UVRCSTZKTVQzQUN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "921b6a85ecb1",
+      "title": "서울대병원, 비후성 심근증 돌연사 위험 “LARS 21% 미만 시 급사 위험 6배 증가” - 이코노미스트",
+      "published": "2026-10-07T05:34:00+00:00",
+      "summary": "서울대병원, 비후성 심근증 돌연사 위험 “LARS 21% 미만 시 급사 위험 6배 증가”&nbsp;&nbsp;이코노미스트‘이 질환’ 저위험군의 돌연사…원인은 왼쪽 심장&nbsp;&nbsp;동아일보서울대병원, 비후성 심근증 심방세동 위험 가려내는 ‘좌심방 4단계 병기 체계’ 개발&nbsp;&nbsp;데일리메디팜서울대병원 김형관·곽순구 교수팀, 비후성 심근증 저·중간 위험군 LARS 21% 미만서 돌연사 관련 사건 위험 약 6배&nbsp;&nbsp;더임팩트비후성 심근증 돌연사 위험, 심장초음파 ‘좌심방 저장 변형률’로 평가&nbsp;&nbsp;라포르시안",
+      "sources": [
+        {
+          "name": "이코노미스트",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKVUFVRVZuQjJKS1Z4c1psUDJ2cTNYVXpMYkdBczdnQXp2bHZpR3dKbjJzNnVZNWVMdEpwMXYtalBuUDFJRGIxRVhMQnhCZWFJWjdhbzlmT3pPc1pFbzFkZFZn?oc=5"
         }
       ]
     },
@@ -486,6 +510,30 @@
       ]
     },
     {
+      "id": "80411315e187",
+      "title": "[포럼] 희망의 문 열린 암백신 - 부산파이낸셜뉴스",
+      "published": "2026-10-06T09:27:00+00:00",
+      "summary": "[포럼] 희망의 문 열린 암백신&nbsp;&nbsp;부산파이낸셜뉴스내 암세포를 분석해, 나에게 맞는 암백신을 만든다?&nbsp;&nbsp;의학신문암 백신은 수백만 명의 환자들의 삶을 바꿀 수 있습니다.&nbsp;&nbsp;Vietnam.vnmRNA 백신 면역유도 특수 메커니즘 밝혀져&nbsp;&nbsp;의학신문",
+      "sources": [
+        {
+          "name": "부산파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pdTFXSlFYTkRGYW5vNkdjZmhQclpPczN3cEh0dkRhenZqblV4bUN2aHRiRUhRZm1LSWlydWZrYkxBLVNFTlpESzBsY0tmTWNMeGZPMXBFcHdpTk5W?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6925b509dfa",
+      "title": "일주일에 딱 1개 먹었을 뿐인데… 노년층 치매 위험 47% ‘뚝’ - 뉴스와",
+      "published": "2026-10-06T03:50:00+00:00",
+      "summary": "일주일에 딱 1개 먹었을 뿐인데… 노년층 치매 위험 47% ‘뚝’&nbsp;&nbsp;뉴스와Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "뉴스와",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aUTI0MXVGREdsR01md21yN2NKdVhhb2hlRW14bWUxM1g4Z3FoOWpHZjJreXRkRlgxSS1KZERXWFBTZWRUMmFQV1FMZ3E3SEJLTTg0Rl9aUVZiVGk5UDRyY21DM1NLbmVNcmpVbUd1dEhobUpWazV1bw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0b020df45975",
       "title": "“치매 예방, 안경으로 가능할까”…투명 OLED로 감마파 변화 확인 [노화설계] - 동아일보",
       "published": "2026-10-06T00:42:00+00:00",
@@ -494,6 +542,18 @@
         {
           "name": "동아일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwdVRKNS0yVWNSbnFzaS1nVldVZ1gyWV8yLTdXbHR2RHM4eFJ3bFlOR09aNVI4ZmhleC1PTndIbFNuWmVrQzBVWUJGMFZwUGhlcTUxdVNaLVlvaWRBY0xtZDlHNGprdEoxQUdjVGJnTdIBZkFVX3lxTE1jM2wwREhtVFltSkY2MkRzbno4NUY5cmRjMjdRU091ZFE3TF9hdlB0dzFlbFJJcUtVZThJRS15Z0wyN1hQNm52dUxER3hTOWY0TUI5b0oxUHhKYi1OTElvb0F5bWpoQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ef8cb40f205",
+      "title": "당뇨치료제 복용에도 널뛰는 혈당… 췌장검사가 필요한 이유 - 바이오타임즈",
+      "published": "2026-10-05T23:00:00+00:00",
+      "summary": "당뇨치료제 복용에도 널뛰는 혈당… 췌장검사가 필요한 이유&nbsp;&nbsp;바이오타임즈",
+      "sources": [
+        {
+          "name": "바이오타임즈",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05M0x4M3JUZk5BXzhnRWlDR0tvQWtSZ1lQM2tRUm41QkRVdDlvcnJzRzIteDZEYTFPNDhwU2ZFUEstTVVLbUVuOHFPdmVxSm9uSzJnTmRVQlpvbHIxZkd2TkEweTlXYXl4RWhwVQ?oc=5"
         }
       ]
     },
@@ -530,30 +590,6 @@
         {
           "name": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwOFk1UEJqRXFzZ2tPc2NQd3NHcThpMmJHcmFVRlZhdGNvTk9raTFtWjk1SG5TSGZncWZBNlA3NmN4T2hZUHFKdGx5OEVNMGJJeS1Ydk93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8deb4bf4a8e2",
-      "title": "“집에 있는 게 좋은데” 외향적인 사람이 더 행복하다? 연구진이 밝힌 ‘의외의 행복 공식’ - 경향신문",
-      "published": "2026-10-04T02:00:00+00:00",
-      "summary": "“집에 있는 게 좋은데” 외향적인 사람이 더 행복하다? 연구진이 밝힌 ‘의외의 행복 공식’&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wYkVtSTB3akI5VW1WdkhCUnlHSEp3X1ZnV2NiOTdhOHc3WHRwR2QwdUdjblBzV0RyWDJyZDdpVk51QnJLbXdjWnhmZk5Odm1XVm9lRzBvNWFTQdIBX0FVX3lxTE5zc1U1dnJCeWwyRzN2aGxpQmQ1TWlaUHYxOW5wNHlZNE9CNERydllxMUlvSVZFSmVSbWFFdHRSSXA5OGJKLVBMd0ZGdWp4aTF5ZzdveDd0RUJYQnR2NFMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d45dc70dba0e",
-      "title": "우울증 치료하려면 이것부터 끊어야…식탁에서 발견한 건강비결 보니 - 매일경제",
-      "published": "2026-10-03T23:08:06+00:00",
-      "summary": "우울증 치료하려면 이것부터 끊어야…식탁에서 발견한 건강비결 보니&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE51UDBWR3loOGFIUzRfUlFCdHl5ZnpoZ05IZmdhU0p4enVnZVJtRVRYdV85SV9neE1GZWFRelNpRHFxWHVBa2k2QWtxeXhaQQ?oc=5"
         }
       ]
     }
