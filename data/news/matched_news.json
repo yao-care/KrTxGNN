@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-14T16:47:57.776963+00:00",
+  "last_updated": "2026-10-14T21:22:39.296685+00:00",
   "total_count": 62,
   "matched_count": 0,
   "news": [
+    {
+      "id": "fd6966fec5ce",
+      "title": "“고도비만 고위험군부터 비만치료제 건보 적용을”",
+      "published": "2026-10-14T21:06:00+00:00",
+      "summary": "“고도비만 고위험군부터 비만치료제 건보 적용을”&nbsp;&nbsp;뉴스더보이스헬스케어",
+      "sources": [
+        {
+          "name": "뉴스더보이스헬스케어",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZenQxWFVCbi1sa01GQi0zUFg4aE1UTlROUDhTbzd2SzBEaF81aXdrMlQ4NnphWHBtdWxDdkdPV084Q0tsNG11UnpiZEVxd252ZHpKZW1DSDJIcngxR1VCLUlTM0VlWDRWSk5IWWp0Yw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "75b132960793",
       "title": "“신장에 돌 쌓일라”… 의사 경고한 ‘의외의 영양제’",
@@ -17,14 +30,14 @@
       "matched_keywords": []
     },
     {
-      "id": "c00a69520def",
-      "title": "큰 일교차에 면역력 ’뚝’…“백신 빨리 접종해야 예방효과“",
-      "published": "2026-10-14T15:30:00+00:00",
-      "summary": "큰 일교차에 면역력 ’뚝’…“백신 빨리 접종해야 예방효과“&nbsp;&nbsp;연합뉴스TV\"젊은 고지혈증·당뇨병 환자도 폐렴구균 백신 맞아야\" 의사 권고, 왜 - 머니투데이&nbsp;&nbsp;머니투데이건강칼럼-찬바람 불기 시작할 때 필요한 예방접종&nbsp;&nbsp;경남도민신문\"독감 예방접종, 폐렴구균 접종 이력도 살펴야\"&nbsp;&nbsp;서울파이낸스명절 여파로 호흡기 감염유행 주의…백신 접종 미리해야&nbsp;&nbsp;바이오타임즈",
+      "id": "f8f9819a9ef1",
+      "title": "\"어릴 때 운동이 평생의 건강 자산\"...유년기 운동, 평생 '운동 효율' 결정",
+      "published": "2026-10-14T13:16:08+00:00",
+      "summary": "\"어릴 때 운동이 평생의 건강 자산\"...유년기 운동, 평생 '운동 효율' 결정&nbsp;&nbsp;프리진뉴스",
       "sources": [
         {
-          "name": "연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0NnJTSVp4Q3NSQXNSdFJwc3FsQVRkR0N5MG1OV2JxODRNM2E1Y19kSVhlWUxQa3JvWGFhUENuRktzNWJZb2lHSGt1bG0wZ1RXT2JPRnVjUDZIdFM4MHM0QVN1S1lPZ00?oc=5"
+          "name": "프리진뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zV2NLM2NnYkJRWkI5VEJvemVMS25zVWNjWWtoSUdjeU5GWW1ZakwzVG9kdHI4QXluM0VqODRqbVVpUWZCMWlMSTdPek1FVnBWUllSa05TcFdxNkswMC13NUNvY2xsM3JYb0JIRkNlUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -43,6 +56,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e4ef7b1c14da",
+      "title": "65세이상 어르신, 폐렴구균 예방접종으로 노후 건강 지키세요!",
+      "published": "2026-10-14T12:21:02+00:00",
+      "summary": "65세이상 어르신, 폐렴구균 예방접종으로 노후 건강 지키세요!&nbsp;&nbsp;시사뉴스\"젊은 고지혈증·당뇨병 환자도 폐렴구균 백신 맞아야\" 의사 권고, 왜 - 머니투데이&nbsp;&nbsp;머니투데이건강칼럼-찬바람 불기 시작할 때 필요한 예방접종&nbsp;&nbsp;경남도민신문\"독감 예방접종, 폐렴구균 접종 이력도 살펴야\"&nbsp;&nbsp;서울파이낸스명절 여파로 호흡기 감염유행 주의…백신 접종 미리해야&nbsp;&nbsp;바이오타임즈",
+      "sources": [
+        {
+          "name": "시사뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MMk5rMWdtUG9yWlUzdWkyMWdybjZCTHV3WndKdExvRG13MThMWFJOU1lMWHMtRm1WNlkzOTFXMTEyTFMtTjZMcTdwcE1iQnpHclgza052UDJvZ1RBX1lBQmIzSQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "17193438572a",
       "title": "“식후혈당 안정적” 양치승, 제육볶음 먹는 ‘특별한 방법’ 있다는데",
       "published": "2026-10-14T12:00:00+00:00",
@@ -51,6 +77,19 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MVjBISl9GaDBCUkpYTGpWQUV4MGNYNXA4ZzZDd0tzZmV1X1VyNngyVnpzR1BGTVZHdVBFV1RUdGVTYy1hMUtlUWtObDJfWllBYXdyLWxDN1BGbXRxcDYyM2p2SHBwUWpUNHdUYzZzbkdyX0FsLWNHampCSnR4UWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "589c03b68d42",
+      "title": "나테라·트랜스코드, 대장암 2a상 환자 선별 협력",
+      "published": "2026-10-14T11:47:26+00:00",
+      "summary": "나테라·트랜스코드, 대장암 2a상 환자 선별 협력&nbsp;&nbsp;메디포뉴스",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6M0MwUzVBTElQMkZ3YjQ0dVItMDVyeTBwQ09MRFZkMFZnTTdOX2NIWVpTLUVOWGxDQ3ZBVUNtdUxSS1ZGbjZ2NHR5bE11MFdmbnc0SVNLUUVZS1Y0amtrV1MyUjQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -199,6 +238,19 @@
       "matched_keywords": []
     },
     {
+      "id": "5a96c5aaf174",
+      "title": "의사·공중보건 전문가·치과계 리더들, 구강 건강을 일상 헬스케어의 일부로 포함할 것 촉구",
+      "published": "2026-10-14T02:19:00+00:00",
+      "summary": "의사·공중보건 전문가·치과계 리더들, 구강 건강을 일상 헬스케어의 일부로 포함할 것 촉구&nbsp;&nbsp;https://www.koreasprint.com/Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "https://www.koreasprint.com/",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wU1Vfcm5yRTlHdzN6WWJ1VEcwQWNGN0NxRUpOd0pzZzZEc3gzaEhIdjI3clMyQW43WWd2NUpIX3RMTk5fVE9lbHRqSldPS0t6YVdXdkpoZEEzV2hXa1NVR3F2VGJ3N2RXNFRPMHRB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "aac5eb90aee8",
       "title": "콩 식품, 복부비만 위험 낮추고 식욕 조절에 도움",
       "published": "2026-10-14T02:12:07+00:00",
@@ -251,23 +303,10 @@
       "matched_keywords": []
     },
     {
-      "id": "677b00c92caf",
-      "title": "[건강 플러스] 가을 예방접종, 무엇부터 챙겨야 할까",
-      "published": "2026-10-14T01:47:02+00:00",
-      "summary": "[건강 플러스] 가을 예방접종, 무엇부터 챙겨야 할까&nbsp;&nbsp;지이코노미Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "지이코노미",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBia3p4cFJXOXB0MF83c1JidjdIU3JnOVU1eG03ZDBmQW53d2s2MlJEYXhreGRneWg3QW5jX1RFNEJhanJ1VEN6eEE4Y01hTFBsUm1sUGZpNXJHVUJPRG9ySm5KYUpDWFk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0703d41cad3b",
       "title": "치매 단백질이 뭉치는 ‘급소’ 찾았다…한 곳 막자 성장 멈춰 [노화설계]",
       "published": "2026-10-14T01:19:08+00:00",
-      "summary": "치매 단백질이 뭉치는 ‘급소’ 찾았다…한 곳 막자 성장 멈춰 [노화설계]&nbsp;&nbsp;동아일보치매 유발 단백질 응집 '핫스팟' 찾았다&nbsp;&nbsp;DongA Science“듣기만 해도 뇌 격렬히 반응” 치매 위험율 39% 낮춘 이것&nbsp;&nbsp;미주중앙일보알츠하이머병 환자 뇌에서 DNA 조절 변화 발견…새 치료 표적 가능성&nbsp;&nbsp;메디컬투데이도쿄대 등 연구팀, 알츠하이머병 원인물질 줄이는 실험 성공&nbsp;&nbsp;NHKニュース",
+      "summary": "치매 단백질이 뭉치는 ‘급소’ 찾았다…한 곳 막자 성장 멈춰 [노화설계]&nbsp;&nbsp;동아일보",
       "sources": [
         {
           "name": "동아일보",
@@ -345,24 +384,11 @@
       "id": "c5c95697bd15",
       "title": "“치매 위험 39% 낮아졌다”…매일 ‘이것’ 했더니 뇌에 나타난 놀라운 변화",
       "published": "2026-10-13T15:35:00+00:00",
-      "summary": "“치매 위험 39% 낮아졌다”…매일 ‘이것’ 했더니 뇌에 나타난 놀라운 변화&nbsp;&nbsp;데일리25[치매예방주간학습지 뇌똑똑] (449)&nbsp;&nbsp;한라일보“20년 뒤 치매 위험 뚝”…스도쿠보다 강력한 ‘뇌 훈련법’&nbsp;&nbsp;미주중앙일보",
+      "summary": "“치매 위험 39% 낮아졌다”…매일 ‘이것’ 했더니 뇌에 나타난 놀라운 변화&nbsp;&nbsp;데일리25",
       "sources": [
         {
           "name": "데일리25",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wMWlYeFZRaXdvT0JyM1NuWDJnZDdSMV9PaHNWczgtcURUZTJOaG5FYnViY2NqemxtZ3VwZ1NLRGUzcVBTcHpHUnk1UUh4eFFteGVFTmE3U3hJLXZQSzRTOVliUGtGQkRrWkIwNQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "56b34d8bb9ec",
-      "title": "가을 햇살은 자연이 주는 보약이다",
-      "published": "2026-10-13T13:48:50+00:00",
-      "summary": "가을 햇살은 자연이 주는 보약이다&nbsp;&nbsp;뉴스비전eGoogle 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "뉴스비전e",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HWGNQU2lZVjVkVWR2V3VKRGFpRzE0M3pWNW9fY196VGpiQkJLQS0ySmpnY3JBY1ZhVTljNnVZZWpRUVBidG8tdGNwaW9iZG0xTjdfZG5kMlNvcE5RMkczdlplY3hEZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -394,19 +420,6 @@
       "matched_keywords": []
     },
     {
-      "id": "2db99781c101",
-      "title": "의사·공중보건 전문가·치과계 리더들, 구강 건강을 일상 헬스케어의 일부로 포함할 것 촉구",
-      "published": "2026-10-13T10:03:00+00:00",
-      "summary": "의사·공중보건 전문가·치과계 리더들, 구강 건강을 일상 헬스케어의 일부로 포함할 것 촉구&nbsp;&nbsp;https://www.sisakoreanews.kr/Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "https://www.sisakoreanews.kr/",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0bTdCVWY3XzZ5RVNiLWFUYlNBUFJDaWw1MkFOUl9wYVdpY3ZGT2pFcnRPR3lzWGNTbEhyRWhoUVNkSGxvcFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "24e6c4402eb0",
       "title": "\"담배 끊어도 8년은 지나야?\"… 당뇨병 합병증 위험, 금연 기간 길수록 감소",
       "published": "2026-10-13T09:00:00+00:00",
@@ -423,7 +436,7 @@
       "id": "bba4851b1c3f",
       "title": "야식 즐기는 사람, 살만 찌는 게 아니다⋯지방간·간경변 위험 최대 30%↑",
       "published": "2026-10-13T08:01:00+00:00",
-      "summary": "야식 즐기는 사람, 살만 찌는 게 아니다⋯지방간·간경변 위험 최대 30%↑&nbsp;&nbsp;코메디닷컴밤늦게 먹는 습관, 지방간 위험 31%↑…간경변증도 28%↑ [바디플랜]&nbsp;&nbsp;동아일보밤 10시에 라면 한 그릇? 간 힘들게 만든다 [달콤한 사이언스]&nbsp;&nbsp;서울신문“밤에 먹으면 아침까지 혈당 출렁”… 대사 망치는 ‘최악의 야식’&nbsp;&nbsp;헬스조선“어젯밤 먹은 음식이 간 망친다”… 지방간·간경변증 위험 최대 31% 증가&nbsp;&nbsp;하이닥",
+      "summary": "야식 즐기는 사람, 살만 찌는 게 아니다⋯지방간·간경변 위험 최대 30%↑&nbsp;&nbsp;코메디닷컴밤늦게 먹는 습관, 지방간 위험 31%↑…간경변증도 28%↑ [바디플랜]&nbsp;&nbsp;동아일보밤 10시에 라면 한 그릇? 간 힘들게 만든다 [달콤한 사이언스]&nbsp;&nbsp;서울신문자기 전에 이러한 습관을 버리면 지방간 질환 위험을 35% 줄일 수 있습니다.&nbsp;&nbsp;Vietnam.vn“어젯밤 먹은 음식이 간 망친다”… 지방간·간경변증 위험 최대 31% 증가&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -446,6 +459,19 @@
       "matched_keywords": []
     },
     {
+      "id": "12fe67154880",
+      "title": "간 안 좋으면 관절염 위험 커진다… 간–연골 잇는 셀레늄 대사축 최초 규명",
+      "published": "2026-10-13T06:04:09+00:00",
+      "summary": "간 안 좋으면 관절염 위험 커진다… 간–연골 잇는 셀레늄 대사축 최초 규명&nbsp;&nbsp;오아시스뉴스\"간 기능 저하되면 퇴행성관절염 촉진\"&nbsp;&nbsp;YTN 사이언스간이 아프면 관절염에 취약해져... ‘간–연골 연결고리’ 규명&nbsp;&nbsp;BRIC이화여대-서울대 공동연구팀 간질환이 퇴행성관절염 부르는 '간-연골 셀레늄 축' 규명.. '국제학술지 게재'&nbsp;&nbsp;베리타스알파간이 나빠지면 관절도 아플까…'셀레늄 전달'에서 찾은 연결고리&nbsp;&nbsp;간호사신문",
+      "sources": [
+        {
+          "name": "오아시스뉴스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OamhLVDFoQm03b1NQYWNBczM3TUNlaHNmRW5lWmx5UXlaN0FmM0F0UVdseWN0eEZPQmlXMGx0Q20tRHljQVBuMk5mQ3dhS3BaN1FSOFJPOWlqcFdBUGxwWC04MFNnMkI5WUl6NDE4UTjSAXRBVV95cUxPMDBoV2t2U25OclJrc21Pc3dCRnVqZnp5dTYxNVd0cEhpQjlEckd3SHVEbXJpNG5zV2toVEVkeGI0MEVobnhoaG1TZml5Slh4dURPX21pTkphdmFheHpDSVBGSm5SQWtQUjF1VmJRY092Zi1iRw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "89dfb4e94748",
       "title": "고혈압 관리 강화하면 20개국 심혈관질환 사망 연 51만명 예방 가능 : 보건·의료",
       "published": "2026-10-13T05:31:00+00:00",
@@ -459,19 +485,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c92c919ab8fd",
-      "title": "뇌에도 배수관이 있습니다, 잠과 운동과 호흡으로 맑게 가꾸는 세 가지 방법 - 캐어유 뉴스",
-      "published": "2026-10-13T05:00:00+00:00",
-      "summary": "뇌에도 배수관이 있습니다, 잠과 운동과 호흡으로 맑게 가꾸는 세 가지 방법&nbsp;&nbsp;캐어유 뉴스[투데이 건강노트] 뇌 건강을 지키기 위한 지혜&nbsp;&nbsp;이투데이",
-      "sources": [
-        {
-          "name": "캐어유 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqWWtGbi1nUkR3c2lXdkYxZ1Q4UUhpbE9HcG9SRVlZQ2twWGRrdk9fZHBScmNkZk5OVzV2UWhNOVVpdmVOckFLb2JjNmVPZHN0eE5OS0RzT3pwS1J6UmJESE1wbDJIeVhOSHR4Q2pB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "193884c22e29",
       "title": "고려대학교 김성은 교수팀, 경희대와 암세포의 아연 흡수부터 면역회피까지 연결하는 ‘단백질 사슬’ 확인",
       "published": "2026-10-13T04:05:00+00:00",
@@ -480,19 +493,6 @@
         {
           "name": "한국강사신문",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aVW1OQ0FQNXRvZWxWQmtSRV9meG9sREpsQkdGRndYdmVESkZJREQyZjYzTG9SNUxmQ3h6emFOVl9ienFiRUVvRkNuSDRkeHhNRS1YLUFBeE5jUVR4UnZqLVR0em5JdDJqbjZRd2JfTjA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9e69c91f2129",
-      "title": "국내 초미세먼지·오존 오염, 노년층 파킨슨병 위험 높인다 [환경포커스]",
-      "published": "2026-10-13T03:10:02+00:00",
-      "summary": "국내 초미세먼지·오존 오염, 노년층 파킨슨병 위험 높인다 [환경포커스]&nbsp;&nbsp;기후에너지데이터뱅크",
-      "sources": [
-        {
-          "name": "기후에너지데이터뱅크",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NaXQ1TTJsV0VQTnJILTNCcWpJbTZoVGRrNmxha0VSbmtpUXpqenJoeFdiSWs1VW9Femo4UFNCUzRvei01Sm1PRkZ2S2JzX1dyMEFlWjluVkR0WEM4S2c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -537,19 +537,6 @@
       "matched_keywords": []
     },
     {
-      "id": "10c3aa70b321",
-      "title": "이화여대·서울대, ‘간-연골 셀레늄 축’ 규명…간질환, 퇴행성관절염 진행 기전 밝혀",
-      "published": "2026-10-12T23:36:15+00:00",
-      "summary": "이화여대·서울대, ‘간-연골 셀레늄 축’ 규명…간질환, 퇴행성관절염 진행 기전 밝혀&nbsp;&nbsp;교수신문\"간 기능 저하되면 퇴행성관절염 촉진\"&nbsp;&nbsp;YTN 사이언스간이 아프면 관절염에 취약해져... ‘간–연골 연결고리’ 규명&nbsp;&nbsp;BRIC이화여대-서울대 공동연구팀 간질환이 퇴행성관절염 부르는 '간-연골 셀레늄 축' 규명.. '국제학술지 게재'&nbsp;&nbsp;베리타스알파간이 나빠지면 관절도 아플까…'셀레늄 전달'에서 찾은 연결고리&nbsp;&nbsp;간호사신문",
-      "sources": [
-        {
-          "name": "교수신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14R01iQ1V1MktCQlVGVENUcXhTNjRuUllvVlRyUGVYblA5SUp0emhSU3ZpMW1jNU5qYlNEeUNINXZXNlhORnozc3JMUERFVDR6ektxWnBjMWNKRklyX0tNcjZrYmxhdjA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9aa36386cf38",
       "title": "피 뽑다 어지럽다더니 심장 멈춰…건강하던 30대 남성에게 무슨 일이?",
       "published": "2026-10-12T22:05:00+00:00",
@@ -589,19 +576,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c0ba30bc8c58",
-      "title": "KATRD 천식 진료지침 개정…ICS 포함 치료·유지완화요법 강조",
-      "published": "2026-10-12T20:56:17+00:00",
-      "summary": "KATRD 천식 진료지침 개정…ICS 포함 치료·유지완화요법 강조&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFZ2NYQkE3aWRzek1QWWNWeXN5ZXhNZ3hCVVBTSkJCWHlHRU4wMkZBbXU1WmZmQW1JajBSb3psQmZ2NkdLcDlkNUYyVXpQTEg3Q29xdWJyRG8xSFh1dmp2SmtOVkNHcGxEMjEw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "3b5194e444ef",
       "title": "[초록] 돼지 급이횟수 증가에 따른 꼬리물기 발생률 변화: 사례 연구",
       "published": "2026-10-12T11:53:48+00:00",
@@ -623,6 +597,19 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmV19KellpZ3dWeVZkN0JrTkRCbU9JUHZHUVhySXdyZmxVSjg3dkhGUDFuS3U1UDNtT1h3cXNmZXZ5dVlpcllFQ09YUDdxUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f2a3e07b49d6",
+      "title": "치매 위험과 연관된 요인 76개 확인…흡연·수면부터 경제적 어려움까지",
+      "published": "2026-10-12T07:27:23+00:00",
+      "summary": "치매 위험과 연관된 요인 76개 확인…흡연·수면부터 경제적 어려움까지&nbsp;&nbsp;디멘시아뉴스대기오염부터 실업까지… 치매 관련 요인 76개 찾았다&nbsp;&nbsp;헬스조선사회적 환경 취약한 당뇨병 환자, 치매 위험 2.4배 높았다&nbsp;&nbsp;하이닥하버드 연구진, 알츠하이머 환경 위험요인 최대 규모 평가 발표&nbsp;&nbsp;디지털포커스“혈당 관리만으론 부족”… 당뇨병 환자 ‘사회적 취약성’ 겹치면 치매 위험 2.4배&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Rc3hOYy1WWlcweUItTkxfdkVxdy1ZQmxPb3ZuWUlMdUQzMGdqb1d4aTFxd1YzMEU2SzFsUmhzbmx6WXo2RzVwNXp5S3BqTjZsbm05OWFGRHVFUVpOOEpYb2Y1WHpDTWd3ZTNGeGxqTFBBUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -719,6 +706,19 @@
       "matched_keywords": []
     },
     {
+      "id": "91c06b8b2a13",
+      "title": "성균관대 연구팀 \"생체나이 빠를수록 50세 미만 ‘젊은 대장암’ 발병 위험 높아진다\"",
+      "published": "2026-10-11T15:03:00+00:00",
+      "summary": "성균관대 연구팀 \"생체나이 빠를수록 50세 미만 ‘젊은 대장암’ 발병 위험 높아진다\"&nbsp;&nbsp;국민뉴스성균관대 \"생체나이 빠를수록 조기 대장암 발병 위험 높아져\"&nbsp;&nbsp;뉴시스“술·담배보다 나쁘다”…대장암 원인이 우유 탓이라고?&nbsp;&nbsp;미주중앙일보\"대장암 위험 낮추려면?\"... 소화기내과 전문의 추천 식품 4가지&nbsp;&nbsp;하이닥세계는 젊은층의 암 발병률 증가에 대응하고 있다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "국민뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SVlpaNy1iQXBWTUlGU0d6M2FpRVNFRmdxSUhycGVlWmVway0zMlkzNXZucmNxUmtiSTFia2IycVhOUUk2bXZWLXl3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9b1de3c121e5",
       "title": "구미, AI·이차전지 융합으로 첨단제조 거점 도약 추진",
       "published": "2026-10-11T06:47:55+00:00",
@@ -761,7 +761,7 @@
       "id": "c7c35554cc86",
       "title": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰",
       "published": "2026-10-09T04:00:00+00:00",
-      "summary": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥“녹내장 위험 낮춘다”…고지혈증약 ‘이것’ 뜻밖의 효과&nbsp;&nbsp;농민신문고지혈증 치료제 스타틴, 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;메디컬투데이",
+      "summary": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥“녹내장 위험 낮춘다”…고지혈증약 ‘이것’ 뜻밖의 효과&nbsp;&nbsp;농민신문고지혈증 치료제 스타틴, 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;메디컬투데이스타틴 복용, 녹내장 발생·추가 치료 위험 감소&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "하이닥",
@@ -800,7 +800,7 @@
       "id": "c1bc9e310bcb",
       "title": "위암 주범 ‘헬리코박터균’…항생제 내성 탓 치료 14일까지",
       "published": "2026-10-08T00:16:54+00:00",
-      "summary": "위암 주범 ‘헬리코박터균’…항생제 내성 탓 치료 14일까지&nbsp;&nbsp;스포츠월드[의료칼럼] “증상 없는데 꼭 치료해야 할까?”… 헬리코박터 제균치료가 중요한 이유&nbsp;&nbsp;월드코리안뉴스국내 성인 H. pylori 신규 감염 드물어···UBT 기반 연 0.76%&nbsp;&nbsp;메디칼업저버“약으로 없앨 수 있는 유일한 발암물질” 건강 검진할 때 ‘위내시경’ 꼭 해야 하는 이유&nbsp;&nbsp;헬스조선",
+      "summary": "위암 주범 ‘헬리코박터균’…항생제 내성 탓 치료 14일까지&nbsp;&nbsp;스포츠월드헬리코박터, 위암 넘어 대장암 위험 증가와 연관···제균치료 효과 주목&nbsp;&nbsp;메디칼업저버위내시경은 열심히, 위암 원인은 '깜깜'…한인 10명 중 4명 헬리코박터 위험 몰라&nbsp;&nbsp;시애틀코리안데일리[의료칼럼] “증상 없는데 꼭 치료해야 할까?”… 헬리코박터 제균치료가 중요한 이유&nbsp;&nbsp;월드코리안뉴스국내 성인 H. pylori 신규 감염 드물어···UBT 기반 연 0.76%&nbsp;&nbsp;메디칼업저버",
       "sources": [
         {
           "name": "스포츠월드",
