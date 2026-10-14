@@ -1,10 +1,70 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-14T11:26:14.481933+00:00",
-  "total_fetched": 130,
-  "unique_count": 129,
-  "health_related_count": 64,
+  "fetched_at": "2026-10-14T16:47:57.612442+00:00",
+  "total_fetched": 126,
+  "unique_count": 125,
+  "health_related_count": 62,
   "news": [
+    {
+      "id": "75b132960793",
+      "title": "“신장에 돌 쌓일라”… 의사 경고한 ‘의외의 영양제’ - 헬스조선",
+      "published": "2026-10-14T16:00:00+00:00",
+      "summary": "“신장에 돌 쌓일라”… 의사 경고한 ‘의외의 영양제’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MX2VZR0lJdk05ZDdWckdCeUtSdldtMGNsMUpkclRobjV4YmFrOVV1N1EwQmlIdWRwSnYzRGpjT3Q4UE43ZHBCaHlNT08yUy14bGxOOHJ2QWhGNFZacFZLTzJrd2lBdFhzWExNbV80OExUVWR6c0ZkSmN4REhWV2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c00a69520def",
+      "title": "큰 일교차에 면역력 ’뚝’…“백신 빨리 접종해야 예방효과“ - 연합뉴스TV",
+      "published": "2026-10-14T15:30:00+00:00",
+      "summary": "큰 일교차에 면역력 ’뚝’…“백신 빨리 접종해야 예방효과“&nbsp;&nbsp;연합뉴스TV\"젊은 고지혈증·당뇨병 환자도 폐렴구균 백신 맞아야\" 의사 권고, 왜 - 머니투데이&nbsp;&nbsp;머니투데이건강칼럼-찬바람 불기 시작할 때 필요한 예방접종&nbsp;&nbsp;경남도민신문\"독감 예방접종, 폐렴구균 접종 이력도 살펴야\"&nbsp;&nbsp;서울파이낸스명절 여파로 호흡기 감염유행 주의…백신 접종 미리해야&nbsp;&nbsp;바이오타임즈",
+      "sources": [
+        {
+          "name": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0NnJTSVp4Q3NSQXNSdFJwc3FsQVRkR0N5MG1OV2JxODRNM2E1Y19kSVhlWUxQa3JvWGFhUENuRktzNWJZb2lHSGt1bG0wZ1RXT2JPRnVjUDZIdFM4MHM0QVN1S1lPZ00?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d6f488a1e9a",
+      "title": "당근 주스, 대장암 만드는 유전자 억제...베타카로틴ㆍ팔카리놀 등 작용 - 캔서앤서",
+      "published": "2026-10-14T13:11:55+00:00",
+      "summary": "당근 주스, 대장암 만드는 유전자 억제...베타카로틴ㆍ팔카리놀 등 작용&nbsp;&nbsp;캔서앤서매일 ‘이 주스’ 100mL 마셨더니… 대장암 만드는 유전자 억제&nbsp;&nbsp;헬스조선당근주스 섭취 후 대장 선종 조직서 암 관련 유전자 변화 관찰&nbsp;&nbsp;세계일보신선한 당근 착즙으로 마시면...&nbsp;&nbsp;의학신문당근주스 3주 마셨더니…대장암 관련 신호 억제 변화 관찰&nbsp;&nbsp;푸드투데이",
+      "sources": [
+        {
+          "name": "캔서앤서",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KcFF4R05CNV9SSUg3ZTQ3blQ1Z1IxUEhlck1BTGF4cEJZSTh0WldSV3FTb2JZenFiYk9FVW96MWt1VVhza0xKbXREWU5LMWh6YzJIUDE2a0t3Mjk1X3BvOEJuelZiamcxYldzamVFdUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17193438572a",
+      "title": "“식후혈당 안정적” 양치승, 제육볶음 먹는 ‘특별한 방법’ 있다는데 - 헬스조선",
+      "published": "2026-10-14T12:00:00+00:00",
+      "summary": "“식후혈당 안정적” 양치승, 제육볶음 먹는 ‘특별한 방법’ 있다는데&nbsp;&nbsp;헬스조선밥 먹기 전 ‘이것’ 먼저 섭취했더니…혈당 덜 오르는 뜻밖의 효과가?&nbsp;&nbsp;코메디닷컴냉장밥 먹으면 혈당 덜 오른다더니…믿었던 ‘3대 요령’ 따져봤다&nbsp;&nbsp;세계일보밥보다 채소 먼저 먹으면 혈당 덜 오른다?&nbsp;&nbsp;메디컬투데이밥 먹는 순서, 혈당에 중요하다더니…새 연구가 밝혀낸 사실&nbsp;&nbsp;아주경제",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MVjBISl9GaDBCUkpYTGpWQUV4MGNYNXA4ZzZDd0tzZmV1X1VyNngyVnpzR1BGTVZHdVBFV1RUdGVTYy1hMUtlUWtObDJfWllBYXdyLWxDN1BGbXRxcDYyM2p2SHBwUWpUNHdUYzZzbkdyX0FsLWNHampCSnR4UWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14951b757b27",
+      "title": "걷는 속도만 높여도 당뇨병 위험 39% 낮아진다 - 재외동포신문",
+      "published": "2026-10-14T09:33:01+00:00",
+      "summary": "걷는 속도만 높여도 당뇨병 위험 39% 낮아진다&nbsp;&nbsp;재외동포신문만보 걷기가 불안을 자극한 날&nbsp;&nbsp;OhmyNews“1만보에 얽매일 필요 없다”…‘이렇게’ 걸었더니 사망위험 뚝&nbsp;&nbsp;농민신문식사부터 바꾸고 식후에는 걷자&nbsp;&nbsp;뉴스클레임수명연장 1위 운동 공개! --건강&nbsp;&nbsp;인민넷",
+      "sources": [
+        {
+          "name": "재외동포신문",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nOThoLWFPVlpycmxPT212cXJyZnh1bXR1aVdjempTczVJNVpEQWE4cFVlZEJUT0xLVXFWSzV3eGt2ZzZGUGZCQV9laWd1akRCd1N5bkVHQ002TVNQdXdSRWhkNXRjLWZhMzFSVw?oc=5"
+        }
+      ]
+    },
     {
       "id": "45ef8f27db15",
       "title": "[5분 자유발언] 김기상 강동구의회 부의장 “경도인지장애 선제적 대응으로 초고령화 대비해야” - 시정일보",
@@ -14,18 +74,6 @@
         {
           "name": "시정일보",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zQmRxQ2M1MEtDdVQ1MFM2b3JVN19UR1NBQllWNHJzX1plR0dFVlJWZFdCSUNuaFZSUl9tYTFXbVQ4V2RyNjRCenV0OUVrWXdxV3dGYWhEd2ZDRExLZFpXNlNJdUZwQUs5N2pN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "738a2332bf95",
-      "title": "건강칼럼-찬바람 불기 시작할 때 필요한 예방접종 - 경남도민신문",
-      "published": "2026-10-14T09:01:17+00:00",
-      "summary": "건강칼럼-찬바람 불기 시작할 때 필요한 예방접종&nbsp;&nbsp;경남도민신문\"젊은 고지혈증·당뇨병 환자도 폐렴구균 백신 맞아야\" 의사 권고, 왜 - 머니투데이&nbsp;&nbsp;머니투데이\"독감 예방접종, 폐렴구균 접종 이력도 살펴야\"&nbsp;&nbsp;서울파이낸스중구 65세이상 어르신, 폐렴구균 예방접종으로 노후 건강 지키세요!&nbsp;&nbsp;꽁지환경늬우스기운 없고 입맛까지 '뚝'…시니어 위협하는 노인성 폐렴&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "경남도민신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LOGFDYzU2VTVGRklmNUVDXzhtdjV2QjV2NVptVVpZYlNuSzh0RUhDMVJnRlh4MmhSSUdPTGo3Y2RYZ29zNnpfeWwxbmNQMEF4cm5ValpBZ1RLU1JXVy1wQV9MdVFvUVdq?oc=5"
         }
       ]
     },
@@ -42,14 +90,14 @@
       ]
     },
     {
-      "id": "02f73990d3de",
-      "title": "고혈압과 골관절염의 연관성 치의학계 첫 Science 논문 - 치의신보",
-      "published": "2026-10-14T06:34:47+00:00",
-      "summary": "고혈압과 골관절염의 연관성 치의학계 첫 Science 논문&nbsp;&nbsp;치의신보",
+      "id": "7a09dc187236",
+      "title": "K비만약 ‘에페’ 월12만9800원 마운자로 반값인데…주가도 반값될라 - 매일경제",
+      "published": "2026-10-14T06:37:44+00:00",
+      "summary": "K비만약 ‘에페’ 월12만9800원 마운자로 반값인데…주가도 반값될라&nbsp;&nbsp;매일경제",
       "sources": [
         {
-          "name": "치의신보",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHeDFfSlFDaXlvTUFWWDFwRlRUenZFa3BENnU1UkpKOTdHU1dweW9UeVM5SUJhRVgtSC13ZC1Ra2FxRHF4aUlUblFXd1dNUE11SkNhX19rWE96NEJfTFBZbExXTllLX2Jm?oc=5"
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsZEhjM3FSNXV2QmpMTnV5bFYwaHV4eWhrSHQ1djQwVnlHN0dMb2xQTmFJNXVHSWdlVTNYTko2cFFPT3hFVDFMc1R6QWdfdw?oc=5"
         }
       ]
     },
@@ -174,26 +222,26 @@
       ]
     },
     {
-      "id": "6be8a950141f",
+      "id": "c5f8dca462ed",
       "title": "대상포진 백신이 치매 예방?…英서 접종 수요 급증 - 세계일보",
       "published": "2026-10-14T02:03:26+00:00",
       "summary": "대상포진 백신이 치매 예방?…英서 접종 수요 급증&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13clIxTjc2SDRZamY2SWxOVHFtakJNMlB4TlFoeW1FZUZRdlZxWG1VMzlsT3dpMjVMTk9WV2V5a0xCcEJyZlVvSEJoZWE4MjBjUVdmYU9xbTd6aGdLekJmV2swRVYxNlRRamlR0gFUQVVfeXFMUFdlOWRZSWdDRmpPWUtUWWM1Vk10WWU4cHdoMEVYMTVEZXlVNjhONEhVXzNmaTctbWtOa011WTh4Y1p3UlRuMjY4QzJvSHlMT3JXSHhO?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xcUtMTF91WWFabGROVGkyemhLaEpWQ1NCUlR5MUdhMG5QSTBzWE1DMG80N1BZZXRiUThiZmowRF9FQk5ib2hLQTBvSTlVRWw4cndlVV9yTWjSAVRBVV95cUxQV2U5ZFlJZ0NGak9ZS1RZYzVWTXRZZThwd2gwRVgxNURleVU2OE40SFVfM2ZpNy1ta05rTXVZOHhjWndSVG4yNjhDMm9IeUxPcldIeE4?oc=5"
         }
       ]
     },
     {
-      "id": "5ae2c235c806",
+      "id": "677b00c92caf",
       "title": "[건강 플러스] 가을 예방접종, 무엇부터 챙겨야 할까 - 지이코노미",
       "published": "2026-10-14T01:47:02+00:00",
-      "summary": "[건강 플러스] 가을 예방접종, 무엇부터 챙겨야 할까&nbsp;&nbsp;지이코노미코너스톤, 시애틀 한인대상 무료 독감예방접종 실시 > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN하와이 호흡기 바이러스 유행…독감 환자 증가세&nbsp;&nbsp;KBFD[밴쿠버 조선일보]BC주, 독감 백신 접종 예약 13일부터 시행 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보명절 여파로 호흡기 감염유행 주의…백신 접종 미리해야&nbsp;&nbsp;바이오타임즈",
+      "summary": "[건강 플러스] 가을 예방접종, 무엇부터 챙겨야 할까&nbsp;&nbsp;지이코노미Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "지이코노미",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wSVh0SHdWRXJRR2t3c2JLZ2pqUjdsSWdvTHRaZmJ2dC1tLVgycndaSnB6UGpvc0NnaWFSdEl5aTRDVC1xdXJtaHZ6WUF5bS1zelcyekx3eHlHMzVLbEhLZ0lGa3Y?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBia3p4cFJXOXB0MF83c1JidjdIU3JnOVU1eG03ZDBmQW53d2s2MlJEYXhreGRneWg3QW5jX1RFNEJhanJ1VEN6eEE4Y01hTFBsUm1sUGZpNXJHVUJPRG9ySm5KYUpDWFk?oc=5"
         }
       ]
     },
@@ -210,6 +258,18 @@
       ]
     },
     {
+      "id": "e0754af4c42a",
+      "title": "우울증 악화인 줄 알았더니… 60대 여성의 자살 충동 부른 ‘침묵의 뇌종양’ - 코메디닷컴",
+      "published": "2026-10-14T01:17:00+00:00",
+      "summary": "우울증 악화인 줄 알았더니… 60대 여성의 자살 충동 부른 ‘침묵의 뇌종양’&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5HWmlRLV9HWmZ3WlFJYW1ya05iSXBmRXRoUHRoSVpSWm1GQjkwSTVMQUZISGZkd2JnX1poV1c2ZFY5dw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "eac1f4167c2c",
       "title": "난치성뇌질환의 혈관성기능장애 치료에 새 실마리 확인 - 코리아헬스로그",
       "published": "2026-10-14T00:40:20+00:00",
@@ -218,6 +278,18 @@
         {
           "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zMzQyaGtaSS0xbDFQYXhVYlh5ZGlZeWNBSTMzYWJSU3h6UXpNMmUxS2VvYkxHdDc0MTVsMFNid3UxMFJ4QWZYVFRZcVpzTFlmSk1PUHp0OWNXYm85NjZnWHhoUzNOaDQ1X3RwM0dZWGtyd9IBdkFVX3lxTFBkWEFPaGlMejhzMjExM2ZYQ3R6ZUJJZ09CNGpSblRtZHFwdGg3UVhTLUNrWFhJQ2JMdFNLeERxX3dXOEdSLUZoeUJSY09KLVZEVVlYRm95bmM0SDkxdE14cGZFRHF2RW8tQjFRT1A0Nnp3WElxc1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf18db38ba3a",
+      "title": "스타틴 예방효과, 고령자에 일률적용 피해야 - 메디칼트리뷴",
+      "published": "2026-10-13T23:00:00+00:00",
+      "summary": "스타틴 예방효과, 고령자에 일률적용 피해야&nbsp;&nbsp;메디칼트리뷴",
+      "sources": [
+        {
+          "name": "메디칼트리뷴",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vd0R0SlV6MG9rM3R5UkNWckctS3JQcEhVdXZOM1Q4VUdxZEJULUNfdktpMW1QQUJOVGFtc2VsZjd6bEdnX3d1REJBUlBxRlVhNmNOaWtvdV9Gb1FXVGRULXB2N0dwV1hRTWhJWk1HR18xdDAtLWc?oc=5"
         }
       ]
     },
@@ -237,7 +309,7 @@
       "id": "d835325a1667",
       "title": "[건강 돋보기] 간암, 증상 나타나면 이미 늦다… 고위험군은 6개월마다 검진해야 - 뉴스에이",
       "published": "2026-10-13T17:24:42+00:00",
-      "summary": "[건강 돋보기] 간암, 증상 나타나면 이미 늦다… 고위험군은 6개월마다 검진해야&nbsp;&nbsp;뉴스에이“담 온 줄 알았는데”… 오른쪽 어깨 통증, 알고 보니 ‘암’ 신호였다&nbsp;&nbsp;헬스조선간 영양제, 정말 간에 좋을까?...간암 예방 핵심은 따로 있다 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스전 세계적으로 약 85만 명이 간암을 앓고 있으며, 그중 상당수는 예방 가능합니다.&nbsp;&nbsp;Vietnam.vn간암, 증상 나타나면 이미 늦다…고위험군은 6개월마다 검진받아야&nbsp;&nbsp;시사저널",
+      "summary": "[건강 돋보기] 간암, 증상 나타나면 이미 늦다… 고위험군은 6개월마다 검진해야&nbsp;&nbsp;뉴스에이간 영양제, 정말 간에 좋을까?...간암 예방 핵심은 따로 있다 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스전 세계적으로 약 85만 명이 간암을 앓고 있으며, 그중 상당수는 예방 가능합니다.&nbsp;&nbsp;Vietnam.vn간암, 증상 나타나면 이미 늦다…고위험군은 6개월마다 검진받아야&nbsp;&nbsp;시사저널",
       "sources": [
         {
           "name": "뉴스에이",
@@ -282,6 +354,18 @@
       ]
     },
     {
+      "id": "63e2f7206592",
+      "title": "\"초콜릿 원료가 당뇨병 위험 낮춘다?\"… 코코아의 뜻밖의 효능 4가지 - 하이닥",
+      "published": "2026-10-13T11:00:00+00:00",
+      "summary": "\"초콜릿 원료가 당뇨병 위험 낮춘다?\"… 코코아의 뜻밖의 효능 4가지&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlQkVwa2V2ZEZfTEs0VW84U05HWW1hOGdEc21sYk5GNG5rNHM5ZFNRaXJFbTFGWUdISllLSEpCWVk0cHpNTEdseG8xaGY1ZGlnZzR4bHRuaXVNZ3BIcWxDQ3VCQlN6U3RDUmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2db99781c101",
       "title": "의사·공중보건 전문가·치과계 리더들, 구강 건강을 일상 헬스케어의 일부로 포함할 것 촉구 - https://www.sisakoreanews.kr/",
       "published": "2026-10-13T10:03:00+00:00",
@@ -290,18 +374,6 @@
         {
           "name": "https://www.sisakoreanews.kr/",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0bTdCVWY3XzZ5RVNiLWFUYlNBUFJDaWw1MkFOUl9wYVdpY3ZGT2pFcnRPR3lzWGNTbEhyRWhoUVNkSGxvcFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "75d37c9183d7",
-      "title": "만보 걷기가 불안을 자극한 날 - OhmyNews",
-      "published": "2026-10-13T09:13:00+00:00",
-      "summary": "만보 걷기가 불안을 자극한 날&nbsp;&nbsp;OhmyNews“1만보에 얽매일 필요 없다”…‘이렇게’ 걸었더니 사망위험 뚝&nbsp;&nbsp;농민신문식사부터 바꾸고 식후에는 걷자&nbsp;&nbsp;뉴스클레임수명연장 1위 운동 공개! --건강&nbsp;&nbsp;인민넷걸음보다 더 궁금했던 숫자&nbsp;&nbsp;브런치",
-      "sources": [
-        {
-          "name": "OhmyNews",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mSkgtSzcwZWliZF9ZVmtEeGtMVmNiMmpDbjk3WVBId0pkdUNVRlYyZVkwcFR0SERWNm1aLWF4WXJ5N2FEdXVET215MEE5SXdFSmdMMkI4XzQ3OEpmT1Y0MmhfOEdad0JxV1BfZ21Ec1JudEt3T1k0?oc=5"
         }
       ]
     },
@@ -338,6 +410,18 @@
         {
           "name": "DongA Science",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XMGhfTS1OMUEteHkxS2FSeGFEU0Q0U3FScU1HNkRIME91ZzBBYzBqYVFtT2RmaFYtSzBFVVZJeGFTbGZSc0YwVUhqNUpGaHZ3bUFJQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "89dfb4e94748",
+      "title": "고혈압 관리 강화하면 20개국 심혈관질환 사망 연 51만명 예방 가능 : 보건·의료 - 의약일보",
+      "published": "2026-10-13T05:31:00+00:00",
+      "summary": "고혈압 관리 강화하면 20개국 심혈관질환 사망 연 51만명 예방 가능 : 보건·의료&nbsp;&nbsp;의약일보[건강포커스] \"고혈압 관리 강화, 심혈관질환 사망 연 51만여명 예방 가능\"&nbsp;&nbsp;연합뉴스고혈압 조절률 한국 62% vs 중간소득 20개국 5명 중 1명…80%로 높이면 연 51만 명 심혈관 사망 줄어든다는 추정&nbsp;&nbsp;팸타임스 FAM Times고혈압 조절률 80% 달성 시 연간 51만 명 사망 예방 : 인사·동정·부고&nbsp;&nbsp;의약일보\"고혈압 관리 강화, 연 51만 명 심혈관질환 사망 막을 수 있다\"&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "의약일보",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fM1NnVmp6eDBkbVdoNjZ5ekFIM0h0TkRZTi1nWnZXN1pqTlIxQU12NHlFQUIxdG1CYVZUV1JodTktbDEwOXVmRGN3V1ZTb0xzOEFOeg?oc=5"
         }
       ]
     },
@@ -414,30 +498,6 @@
       ]
     },
     {
-      "id": "1e11ea7dab17",
-      "title": "'착즙한 당근' 진행성 대장암에 어떤 변화? - 의학신문",
-      "published": "2026-10-13T01:26:55+00:00",
-      "summary": "'착즙한 당근' 진행성 대장암에 어떤 변화?&nbsp;&nbsp;의학신문매일 ‘이 주스’ 100mL 마셨더니… 대장암 만드는 유전자 억제&nbsp;&nbsp;헬스조선당근주스 섭취 후 대장 선종 조직서 암 관련 유전자 변화 관찰&nbsp;&nbsp;세계일보당근 착즙주스 3주 마셨더니…대장암 진행 관련 신호 ‘억제’&nbsp;&nbsp;스포츠경향당근주스, 건강 효과 있을까?&nbsp;&nbsp;www.realfoods.co.kr",
-      "sources": [
-        {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VYXdfRDhieURjRkNxc2tiZFlYRGNYd3pWZzVXajJPakRLOWQ2a1AyODZ2WkNUY2puakVLT1VOREF1aFJ5WG9pQ2VlTWVDS0lES3JNcjdURmJvWjc0T3VPbXp4TEJMdV9KdUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df1ed7abb265",
-      "title": "고혈압 관리로 심혈관질환 사망 연 51만여명 예방 가능 - 문화투데이",
-      "published": "2026-10-13T00:03:41+00:00",
-      "summary": "고혈압 관리로 심혈관질환 사망 연 51만여명 예방 가능&nbsp;&nbsp;문화투데이[건강포커스] \"고혈압 관리 강화, 심혈관질환 사망 연 51만여명 예방 가능\"&nbsp;&nbsp;연합뉴스고혈압 조절률 한국 62% vs 중간소득 20개국 5명 중 1명…80%로 높이면 연 51만 명 심혈관 사망 줄어든다는 추정&nbsp;&nbsp;팸타임스 FAM Times고혈압 조절률 80% 달성 시 연간 51만 명 사망 예방 : 인사·동정·부고&nbsp;&nbsp;의약일보\"고혈압 관리 강화, 연 51만 명 심혈관질환 사망 막을 수 있다\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "문화투데이",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OdXJEa3hYQ29EVHNReFItM3hNUUlwZ2U4eW5jNldhNUk0bHgtUDlLUXJ0M3M0N0ZQWXh0b1hGUGh2MkNLZFM2SDlFVWRqQ1ZfM19fb25MVV95NmNLVC1IbWFqNE5lb3Mt?oc=5"
-        }
-      ]
-    },
-    {
       "id": "10c3aa70b321",
       "title": "이화여대·서울대, ‘간-연골 셀레늄 축’ 규명…간질환, 퇴행성관절염 진행 기전 밝혀 - 교수신문",
       "published": "2026-10-12T23:36:15+00:00",
@@ -446,18 +506,6 @@
         {
           "name": "교수신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14R01iQ1V1MktCQlVGVENUcXhTNjRuUllvVlRyUGVYblA5SUp0emhSU3ZpMW1jNU5qYlNEeUNINXZXNlhORnozc3JMUERFVDR6ektxWnBjMWNKRklyX0tNcjZrYmxhdjA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "adb61fc5faa6",
-      "title": "저·무열량 감미료, 엇갈리는 건강 효과 - 대한급식신문",
-      "published": "2026-10-12T22:25:00+00:00",
-      "summary": "저·무열량 감미료, 엇갈리는 건강 효과&nbsp;&nbsp;대한급식신문",
-      "sources": [
-        {
-          "name": "대한급식신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lZy1KUnRxN2lPMUR5R25jYmNzUTJfdXlyTTR4T2dVVlc3MnRqc1VHSUJncVJpa05DX2x4aGlrLTFfbHFqbzVLSDUxTlNmU2U4ZkNUa18tWXRObjQza0xGcnBQdFZRX1pFeHc?oc=5"
         }
       ]
     },
@@ -474,14 +522,14 @@
       ]
     },
     {
-      "id": "7a227b1fd3e7",
-      "title": "목에서 발견한 작은 변화, 몸 전체 혈관이 보내는 신호 - 부산일보",
+      "id": "6cbbb4e617ee",
+      "title": "하루 5시간도 못 잔다면…치매 위험 2.57배·파킨슨병 2.37배↑ [바디플랜] - 동아일보",
       "published": "2026-10-12T22:00:00+00:00",
-      "summary": "목에서 발견한 작은 변화, 몸 전체 혈관이 보내는 신호&nbsp;&nbsp;부산일보",
+      "summary": "하루 5시간도 못 잔다면…치매 위험 2.57배·파킨슨병 2.37배↑ [바디플랜]&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uSksyWkZSdGtkX2p1SmlJYzVHdUZuQ2ZNaTJrVWVUT1ExdzFWeDJ2d1FjMWI5N1BBcUdqTS1fRXp1cVJDMXQxRnV0UFZQR2hzZGdMaXhBSXZqV2lsY2VFWWhDUjJROWVPRlJZSDVUY2dKbU44?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GRnRUclNEOVRPdDNERS1WeXNudEpKRDd3STNGVm9MM0E4Q2Z5SDBMRU9GalZ1TnhtM2p4ajZhdlZqUTN0VlY5cm1uNTJPYWwwT0xKcGJXOXZkbmJHcWtWYjFmYWs1OXlDOTh2YUIzY9IBZkFVX3lxTE1OMmdPcWVZOVZrQXVqNWFsem00MmZUSXpISGR1djJveTZZcVVPQmRvZ1lsclE3bVZFWmd1OVYzNkJsbTZtWXJTM3NDdzRlY0RlMm5PcjNqZ0pyMUNSU0pOMHBKMXBpZw?oc=5"
         }
       ]
     },
@@ -510,30 +558,6 @@
       ]
     },
     {
-      "id": "c1fae5a50387",
-      "title": "“식후혈당 상승 늦춘다”… ‘탄수화물’보다 ‘지방’ 먼저 먹어라 - 헬스조선",
-      "published": "2026-10-12T20:00:00+00:00",
-      "summary": "“식후혈당 상승 늦춘다”… ‘탄수화물’보다 ‘지방’ 먼저 먹어라&nbsp;&nbsp;헬스조선밥 먹기 전 ‘이것’ 먼저 섭취했더니…혈당 덜 오르는 뜻밖의 효과가?&nbsp;&nbsp;코메디닷컴밥 먹는 순서, 혈당에 중요하다더니…새 연구가 밝혀낸 사실&nbsp;&nbsp;아주경제냉장밥 먹으면 혈당 덜 오른다더니…믿었던 ‘3대 요령’ 따져봤다&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JaEQydU1RaDdLa0lYTmZmN1pRWWtZR0tGa3FHRjVuekgwU05mTktXY0JQQ3hWam5rVG1JbHJFeHp3d1FsTnFPYzNMQ1M2YWhlWV9CT0dUUlh6Z2cwYkZxM29JT3VNSENNZnNfMlAyMHV4UlpzWGVJSkRxVThpUzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3aabcbf153d1",
-      "title": "멀쩡하던 30대 여성, ‘이 바이러스’ 감염 후 손발가락 절단… 이유는? - 코메디닷컴",
-      "published": "2026-10-12T13:09:00+00:00",
-      "summary": "멀쩡하던 30대 여성, ‘이 바이러스’ 감염 후 손발가락 절단… 이유는?&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1BdGw2bXA3aFdrSGRFNWJRcjJKRTlPUFZlOW1oQ2dUVFRYZmhjQXlJTzg2ZTMyQ0g2Z0VTQjE2WlNpQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3b5194e444ef",
       "title": "[초록] 돼지 급이횟수 증가에 따른 꼬리물기 발생률 변화: 사례 연구 - 돼지와사람",
       "published": "2026-10-12T11:53:48+00:00",
@@ -554,42 +578,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmV19KellpZ3dWeVZkN0JrTkRCbU9JUHZHUVhySXdyZmxVSjg3dkhGUDFuS3U1UDNtT1h3cXNmZXZ5dVlpcllFQ09YUDdxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2a3e07b49d6",
-      "title": "치매 위험과 연관된 요인 76개 확인…흡연·수면부터 경제적 어려움까지 - 디멘시아뉴스",
-      "published": "2026-10-12T07:27:23+00:00",
-      "summary": "치매 위험과 연관된 요인 76개 확인…흡연·수면부터 경제적 어려움까지&nbsp;&nbsp;디멘시아뉴스대기오염부터 실업까지… 치매 관련 요인 76개 찾았다&nbsp;&nbsp;헬스조선사회적 환경 취약한 당뇨병 환자, 치매 위험 2.4배 높았다&nbsp;&nbsp;하이닥하버드 연구진, 알츠하이머 환경 위험요인 최대 규모 평가 발표&nbsp;&nbsp;디지털포커스“혈당 관리만으론 부족”… 당뇨병 환자 ‘사회적 취약성’ 겹치면 치매 위험 2.4배&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "디멘시아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Rc3hOYy1WWlcweUItTkxfdkVxdy1ZQmxPb3ZuWUlMdUQzMGdqb1d4aTFxd1YzMEU2SzFsUmhzbmx6WXo2RzVwNXp5S3BqTjZsbm05OWFGRHVFUVpOOEpYb2Y1WHpDTWd3ZTNGeGxqTFBBUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c68d2a639f1f",
-      "title": "신체 증상을 동반한 주요우울장애 환자에서 치료 효과 및 약물 안전성을 고려한 Milnacipran의 임상적 이점 - 메디칼업저버",
-      "published": "2026-10-12T07:00:00+00:00",
-      "summary": "신체 증상을 동반한 주요우울장애 환자에서 치료 효과 및 약물 안전성을 고려한 Milnacipran의 임상적 이점&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrNDJvR1BMcVF3a2VqQVlkUzJWM0hid01lbFI1a2Z5UDQyQ3dxWUd2Z0FqZk10OVRfSWdwXzFyWFU5LTAxd2NKMFdtTmJNOGNKVnpoZlNGdk1HUkxzRzhodDVTbTExYTFIVHdJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "73ecdbd26d98",
-      "title": "가을철 탈모, 머리 감는 회수 줄이면 좋다?--건강 - 인민넷",
-      "published": "2026-10-12T06:55:00+00:00",
-      "summary": "가을철 탈모, 머리 감는 회수 줄이면 좋다?--건강&nbsp;&nbsp;인민넷서늘해지니 머리카락 우수수…‘탈모’ 느낌일까, 진짜일까&nbsp;&nbsp;농민신문",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pY1ZDRDNwUTlzM08welRWVUMwUGdSdFRvcEpwUUpUdExzVlBiRmpQb3JNakR2dkRhMTJITWpINXpCOXZyVldrbi0wNW1oeVFvZmJ5RGc1QjNESGJvTTVhWUF2cDg1WWE4YjFsUGRB?oc=5"
         }
       ]
     },
@@ -645,23 +633,11 @@
       "id": "c8120ab307c2",
       "title": "비만, 암 생기기 전부터 대장에‘분자적 흔적’ 남긴다 - 기호일보",
       "published": "2026-10-12T00:45:32+00:00",
-      "summary": "비만, 암 생기기 전부터 대장에‘분자적 흔적’ 남긴다&nbsp;&nbsp;기호일보가천대 길병원 연구팀, 비만-대장암 연결하는 ‘2단계 재프로그래밍’ 제시&nbsp;&nbsp;더퍼스트미디어비만 환자 정상 대장 점막, 이미 암 시작됐다 : 최신논문&nbsp;&nbsp;의약일보비만, 대장암 발생 전부터 정상 점막에 ‘분자적 흔적’ 남긴다 … 암 발생 후 면역억제 환경까지 재편&nbsp;&nbsp;헬스오",
+      "summary": "비만, 암 생기기 전부터 대장에‘분자적 흔적’ 남긴다&nbsp;&nbsp;기호일보비만 환자 정상 대장 점막, 이미 암 시작됐다 : 최신논문&nbsp;&nbsp;의약일보비만, 대장암 발생 전부터 정상 점막에 ‘분자적 흔적’ 남긴다 … 암 발생 후 면역억제 환경까지 재편&nbsp;&nbsp;헬스오",
       "sources": [
         {
           "name": "기호일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUUh3MFplT1dEaEFjZHppN0hfNEJUTUFzMjZkMVBvbVRLempGVmItOHYySDd4bldtQ1VVeW9zUV96dzFtMGdJOUh1Xy1wemhFNHIwaU5kUS1FX1h2dXVLRHc2QTBJemQzQVFIc3Nkaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "012d1a9f1c20",
-      "title": "혈액 속 α-시누클레인으로 파킨슨병 진단 가능성···MSA 감별도 주목 - 메디칼업저버",
-      "published": "2026-10-11T20:56:25+00:00",
-      "summary": "혈액 속 α-시누클레인으로 파킨슨병 진단 가능성···MSA 감별도 주목&nbsp;&nbsp;메디칼업저버주 8시간 이상 움직인 파킨슨병 환자…운동·인지기능 저하 더뎠다&nbsp;&nbsp;메디컬투데이“청소·산책도 효과”… 파킨슨병 악화 늦춘 ‘주 8시간’의 비밀&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94OFhwb2NtbWtYQm00ODcyOXlPNFhWS1pQTDI5T2dpQ2N1MWhTRzhjTGxKaThyb1pfdFJMYW95R09MWDdjcm1GblJ3THdCcFlwRVVZLU1DSV91SFc5bzllYnFBc1dBVk9VNzJj?oc=5"
         }
       ]
     },
@@ -726,14 +702,14 @@
       ]
     },
     {
-      "id": "6671ee183777",
-      "title": "﻿“콜레스테롤약 스타틴, 녹내장 위험·추가치료 가능성 낮춰” - 데일리메디",
-      "published": "2026-10-08T22:52:00+00:00",
-      "summary": "﻿“콜레스테롤약 스타틴, 녹내장 위험·추가치료 가능성 낮춰”&nbsp;&nbsp;데일리메디“녹내장 위험 낮춘다”…고지혈증약 ‘이것’ 뜻밖의 효과&nbsp;&nbsp;농민신문고지혈증 치료제 스타틴, 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;메디컬투데이\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥",
+      "id": "c7c35554cc86",
+      "title": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰 - 하이닥",
+      "published": "2026-10-09T04:00:00+00:00",
+      "summary": "\"스타틴, 눈에도 좋다\"... 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;하이닥“녹내장 위험 낮춘다”…고지혈증약 ‘이것’ 뜻밖의 효과&nbsp;&nbsp;농민신문고지혈증 치료제 스타틴, 녹내장 발생 위험 15% 낮춰&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
-          "name": "데일리메디",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLQVBXX3RhN2hRX3lnQ25keTRGSnZ1LVhJUG1EaXJ0OEFNWjRSeWNOLW1RVHVyc3FFVjhldDNIbVJhTTUtcUZyV2w4SXZLN1BpOFZhUkkxdXkwOVZhbE1jMGNtTkRTcE1TaGl1U3NkT3VvcWUy?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWanJ6U0ZlSzQwVzZRc05zemhJTXBPaXc4VkdaR1pLcHVkWEZsZUFPVnNkU1FwS0w5SUlqcEFUS29QRnZidGNMRXRweVdiM3dqRU1ybl9BN0NYZ09kUTc4S1VxX0Q2SHBxYmc?oc=5"
         }
       ]
     },
@@ -762,14 +738,14 @@
       ]
     },
     {
-      "id": "c271d29eec34",
-      "title": "“약으로 없앨 수 있는 유일한 발암물질” 건강 검진할 때 ‘위내시경’ 꼭 해야 하는 이유 - 헬스조선",
-      "published": "2026-10-07T21:30:00+00:00",
-      "summary": "“약으로 없앨 수 있는 유일한 발암물질” 건강 검진할 때 ‘위내시경’ 꼭 해야 하는 이유&nbsp;&nbsp;헬스조선[의료칼럼] “증상 없는데 꼭 치료해야 할까?”… 헬리코박터 제균치료가 중요한 이유&nbsp;&nbsp;월드코리안뉴스국내 성인 H. pylori 신규 감염 드물어···UBT 기반 연 0.76%&nbsp;&nbsp;메디칼업저버위암 주범 ‘헬리코박터균’…항생제 내성 탓 치료 14일까지&nbsp;&nbsp;스포츠월드",
+      "id": "c1bc9e310bcb",
+      "title": "위암 주범 ‘헬리코박터균’…항생제 내성 탓 치료 14일까지 - 스포츠월드",
+      "published": "2026-10-08T00:16:54+00:00",
+      "summary": "위암 주범 ‘헬리코박터균’…항생제 내성 탓 치료 14일까지&nbsp;&nbsp;스포츠월드[의료칼럼] “증상 없는데 꼭 치료해야 할까?”… 헬리코박터 제균치료가 중요한 이유&nbsp;&nbsp;월드코리안뉴스국내 성인 H. pylori 신규 감염 드물어···UBT 기반 연 0.76%&nbsp;&nbsp;메디칼업저버“약으로 없앨 수 있는 유일한 발암물질” 건강 검진할 때 ‘위내시경’ 꼭 해야 하는 이유&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kZU1PamxMRlBRR1RzTG5VM05Uc0ZHWG5YNllvYl9ZeUswX2I4QmRrM3dfYllLWUVTYTNDNXNKbWlfT0ZnXzdKLVNOY0wwLWljdV8yUnNSU3VuNFdEQWVXMEdKLXhjMU02blF2Zmtkd3JCYjZjaDIzTGhGN3d4Q3c?oc=5"
+          "name": "스포츠월드",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYT2F6NG95Mm42UzB3bS02R0xnTG1UR0hSRXJBc1hCV0stY2ZqWG9KeDd0czF4clBtTE95ZENEZHZ6MFl5R0V6bU00eE5ZT2xFY3hOVzVnT3hwdHlUUEpLTlFB?oc=5"
         }
       ]
     }
