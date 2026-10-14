@@ -2,15 +2,15 @@
 layout: default
 title: Entecavir
 parent: 중등도 근거 (L3-L4)
-nav_order: 288
-evidence_level: L4
+nav_order: 311
+evidence_level: L3
 indication_count: 10
 ---
 
 # Entecavir
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,94 @@ indication_count: 10
 
 </div>
 
-# Entecavir: 만성 B형 간염에서 만성 C형 간염 바이러스 감염으로
+# Entecavir: B형 간염에서 만성 C형 간염으로
 
 ## 한 문장 요약
 
-Entecavir는 HBV DNA 중합효소(역전사효소)를 직접 억제하는 뉴클레오시드 유사체로, 전 세계적으로 만성 B형 간염 치료 1차 약제로 허가되어 있으나 한국에는 아직 시판되지 않습니다.
-TxGNN 모델은 **만성 C형 간염 바이러스 감염(Chronic Hepatitis C Virus Infection)**에 효과가 있을 가능성을 예측하지만(점수 99.98%),
-검색된 **40건의 임상시험**과 **20편의 문헌** 중 Entecavir의 HCV 직접 치료 효과를 입증하는 연구는 존재하지 않습니다.
-
----
+Entecavir는 HBV(B형 간염 바이러스) 중합효소를 억제하는 뉴클레오사이드 유사체로, 원래 만성 B형 간염 치료에 사용되어 왔습니다.
+TxGNN 모델은 **만성 C형 간염(chronic hepatitis C virus infection)**에 효과가 있을 수 있다고 예측하지만, 관련 **임상시험 2건**은 모두 HBV/HCV 동시감염 환자의 HBV 재활성화 예방을 다루며, 문헌 20편도 대부분 B형 간염 위주입니다.
+따라서 이 예측은 C형 간염 자체에 대한 효능을 뒷받침하는 근거라기보다, 동시감염 환자에서 HBV를 관리하는 근거에 가깝습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 만성 B형 간염 (전 세계 허가; 한국 허가 없음) |
-| 예측 신규 적응증 | 만성 C형 간염 바이러스 감염 (Chronic HCV Infection) |
+| 기존 적응증 | 허가 적응증 원문은 데이터에 포함되어 있지 않음 (허가증에는 문서 링크만 수록). 만성 B형 간염으로 알려져 있음 |
+| 예측 신규 적응증 | 만성 C형 간염 (chronic hepatitis C virus infection) |
 | TxGNN 예측 점수 | 99.98% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Hold |
-
----
+| 근거 수준 | L3 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 |
+| 권장 결정 | Hold (연구 질문 단계) |
 
 ## 이 예측이 타당한 이유는?
 
-현재 한국 규제 데이터베이스에 Entecavir의 공식 MOA 상세 정보가 수집되지 않은 상태입니다. 알려진 정보에 따르면, Entecavir는 **구아노신 뉴클레오시드 유사체**로 체내에서 삼인산(triphosphate) 형태로 활성화된 후 HBV DNA 중합효소의 세 가지 기능 단계—프라이머 합성, 음성 가닥 역전사, 양성 가닥 DNA 합성—를 경쟁적으로 억제합니다. 내성 장벽이 높고 바이러스 억제력이 강력하여 미국 FDA·EMA 등 전 세계 주요 규제 기관에서 만성 B형 간염 1차 치료제로 허가받았습니다.
+현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 알려진 정보에 따르면 Entecavir는 구아노신 유사체로, 세포 내에서 3인산 형태로 인산화되어 HBV 중합효소의 세 가지 활성(프라이밍, 역전사, DNA 합성)을 경쟁적으로 억제합니다.
 
-반면, C형 간염 바이러스(HCV)는 **양성 단일가닥 RNA 바이러스(Flaviviridae 과)**로서 NS5B RNA 의존성 RNA 중합효소(RdRp)를 사용하여 복제합니다. Entecavir의 표적 효소인 HBV DNA 중합효소(역전사효소)와 HCV NS5B RdRp는 구조·기능·서열에서 근본적으로 다릅니다. **기전적 직접 연결 고리가 존재하지 않으며**, 현재 표준 HCV 치료는 NS5B를 효과적으로 억제하는 DAA(직접 작용 항바이러스제, 예: sofosbuvir)입니다.
+C형 간염 바이러스(HCV)는 NS5B 중합효소로 복제하는 RNA 바이러스이므로, Entecavir가 HCV를 직접 억제한다는 기전적 근거는 없습니다. 모델 예측은 두 질환이 모두 바이러스성 간염이라는 점에서 그래프상 가까이 놓인 결과일 가능성이 큽니다.
 
-TxGNN의 높은 예측 점수는 HBV와 HCV의 강한 역학적 공동 이환(co-morbidity) 관련성에서 비롯된 것으로 추정됩니다. 두 바이러스는 전파 경로를 공유하여 공동감염이 빈번하며, 실제 임상 현장에서 Entecavir는 DAA 치료 중 HBV 재활성화 예방 목적으로 HCV/HBV 공동감염 환자에게 사용됩니다. 이러한 공동 발생 패턴이 지식 그래프 추론에 영향을 미쳐 모델이 과대 평가를 한 것으로 분석됩니다.
-
----
+유일하게 설득력 있는 연결고리는 간접적입니다. HBV/HCV 동시감염 환자에서 직접작용항바이러스제(DAA)로 HCV를 제거하면 HBV가 재활성화될 수 있고, 이때 Entecavir가 HBV를 억제합니다. 이는 C형 간염 치료가 아니라 동시감염 환자의 B형 간염 관리입니다.
 
 ## 임상시험 근거
 
-만성 C형 간염 바이러스 감염 적응증으로 검색된 임상시험 중 가장 관련성이 높은 시험입니다. 검색된 40건 중 Entecavir의 HCV 직접 치료 효능을 평가한 시험은 없으며, 대부분은 HBV 연구이거나 HBV/HCV 공동감염 맥락에서 HBV 관리를 평가한 연구입니다.
-
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT04405011](https://clinicaltrials.gov/study/NCT04405011) | N/A | 불명 | 60 | HCV/HBV 공동감염 환자에서 만성 HCV의 DAA 치료 중 예방적 핵산 유사체(NUC)가 HBV 임상 재활성화를 예방하는지 3군 오픈라벨 무작위 비교; Entecavir는 HBV 예방 성분으로 포함 |
-| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2/3 | 완료 | 23 | 만성 HCV/HBV 공동감염 환자에서 직접 항-HCV 치료(DAA) 중 HBV 복제 재활성화 발생률·이환율·위험 인자 전향적 조사; Entecavir는 HBV 치료 성분으로 포함 |
-| [NCT01018381](https://clinicaltrials.gov/study/NCT01018381) | N/A | 완료 | 130 | Arabinoxylan 쌀겨 추출물(MGN-3/Biobran)을 이용한 간세포암 및 B형·C형 간염 치료 무작위 임상 연구; HCV가 언급되나 Entecavir의 직접적인 HCV 효능 평가 없음 |
-| [NCT03662568](https://clinicaltrials.gov/study/NCT03662568) | Phase 1 | 완료 | 56 | 건강 피험자 대상 Morphothiadine Mesilate/Ritonavir와 Entecavir 또는 TDF의 약물-약물 상호작용(DDI) 및 약동학 평가; HCV 직접 치료 연구 아님 |
+| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2/3 | 완료 | 23 | HCV/HBV 동시감염 환자에서 DAA 치료 중 HBV 재활성화의 발생률·위험요인 평가 |
+| [NCT04405011](https://clinicaltrials.gov/study/NCT04405011) | 해당 없음 | 불명 | 60 | DAA 치료를 받는 동시감염 환자에서 뉴클레오사이드 유사체의 HBV 재활성화 예방 효과 (12주 vs 24주) |
 
-> ⚠️ **Entecavir가 HCV를 직접 치료 목적으로 평가한 임상시험은 현재 등록되어 있지 않습니다.**
-
----
+두 시험 모두 평가변수가 HBV 재활성화이며, Entecavir의 HCV에 대한 효능을 검증하는 시험이 아닙니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [36146665](https://pubmed.ncbi.nlm.nih.gov/36146665/) | 2022 | 임상 연구 | Viruses | 항-HCV 항체 양성 만성 HBV 환자 66명을 대상으로, NUC(핵산 유사체) 치료 중 HCV 재활성화 발생 여부 및 바이러스 부하 변화를 코호트 연구로 분석 |
-| [24773464](https://pubmed.ncbi.nlm.nih.gov/24773464/) | 2014 | Review | Expert Opin Pharmacother | HBV/HCV 공동감염 치료의 최신 발전; 높은 간경변·간세포암 발생 위험과 치료 전략 논의 |
-| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Review | Minerva Gastroenterol Dietol | HBV 및 HCV 치료 항바이러스제(entecavir, lamivudine 등)의 신기능 영향 종합 검토 |
-| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Review | Wien Med Wochenschr | 만성 HBV 및 HCV 치료 현황(pegylated IFN, lamivudine, entecavir 포함) 및 미래 치료 전망 검토 |
-| [32173307](https://pubmed.ncbi.nlm.nih.gov/32173307/) | 2020 | Review | Clin Res Hepatol Gastroenterol | 소아의 HBV 및 HCV 감염 관리 현황과 전망; 수직 감염 경로, 자연 경과, 치료 옵션 비교 |
-| [22959099](https://pubmed.ncbi.nlm.nih.gov/22959099/) | 2013 | 사례 보고/Review | Clin Res Hepatol Gastroenterol | HBV/HCV 공동감염의 역학(유병률 과소 추정), 중증 간 손상·간경변·간세포암 고위험도, 치료 과제 분석 |
-| [28230928](https://pubmed.ncbi.nlm.nih.gov/28230928/) | 2017 | 임상 연구 | J Gastroenterol Hepatol | 만성 HCV 환자가 DAA 치료를 받는 중 HBV 재활성화 위험 조사; 예방적 항바이러스제(NUC 포함)의 역할 논의 |
-| [29194858](https://pubmed.ncbi.nlm.nih.gov/29194858/) | 2018 | 임상 연구 | J Viral Hepat | 인터페론 없는 항-HCV 치료 중 HBV 재활성화 발생 특성 분석; HBV 공동감염자 25명·해소된 HBV 감염자 765명 포함 |
+| [34864158](https://pubmed.ncbi.nlm.nih.gov/34864158/) | 2022 | RCT | Clin Gastroenterol Hepatol | HCV/HBV 이중감염에서 DAA 치료 중 Entecavir가 HBV 재활성화를 예방 |
+| [24773464](https://pubmed.ncbi.nlm.nih.gov/24773464/) | 2014 | Review | Expert Opin Pharmacother | HBV/HCV 동시감염 치료의 진전 |
+| [35327336](https://pubmed.ncbi.nlm.nih.gov/35327336/) | 2022 | Review | Biomedicines | 만성 바이러스성 간염(B·C·D형) 치료 개관 |
+| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Review | Wien Med Wochenschr | 만성 B형·C형 간염의 현재 치료와 전망 |
+| [28230928](https://pubmed.ncbi.nlm.nih.gov/28230928/) | 2017 | 연구 | J Gastroenterol Hepatol | DAA로 치료한 HCV 환자 중 HBV 감염자의 HBV 재활성화 위험 |
+| [35108715](https://pubmed.ncbi.nlm.nih.gov/35108715/) | 2022 | 연구 | Dig Dis | HCV DAA 치료 환자에서 HBV 재활성화 발생률과 경과 |
+| [36146665](https://pubmed.ncbi.nlm.nih.gov/36146665/) | 2022 | 코호트 | Viruses | 항HCV 항체 양성 만성 B형 간염 환자에서 항HBV 치료 후 HCV 재활성화 |
+| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | 문헌 개관 | Minerva Gastroenterol Dietol | B형·C형 간염 항바이러스제가 신장 기능에 미치는 영향 |
 
----
+문헌 중 RCT 1건(PMID 34864158)이 가장 직접적인 근거이지만, 이 역시 HBV 재활성화 예방에 관한 것입니다.
 
 ## 한국 시판 정보
 
-현재 Entecavir는 **한국에 시판 허가된 품목이 없습니다** (총 0건). 전 세계적으로 만성 B형 간염 치료제로 허가되어 있으며(예: 미국 FDA 승인 상품명 Baraclude®), 국내 시판을 위해서는 식품의약품안전처(MFDS)에 별도의 품목 허가 신청이 필요합니다.
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200605263 | 바라크루드정1.0밀리그램 (한국비엠에스제약) | 필름코팅정 | 허가 문서 링크로만 제공됨 |
+| 201206804 | 카비어정1밀리그램 (한미약품) | 필름코팅정 | 허가 문서 링크로만 제공됨 |
+| 201208629 | 엔테카벨정1밀리그램 (종근당) | 필름코팅정 | 허가 문서 링크로만 제공됨 |
+| 201501657 | 엔테카벨구강붕해정1밀리그램 (종근당) | 구강붕해정 | 허가 문서 링크로만 제공됨 |
+| 201403953 | 바카비정0.5밀리그램 (삼진제약) | 필름코팅정 | 허가 문서 링크로만 제공됨 |
 
----
+유효 허가는 단일제 20건이며 취소된 허가는 없습니다. 위는 주요 5건만 나열했습니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **지식 그래프상 금기 관련 질환**: 신기능 장애, 지방간, 비알코올성 지방간염, 젖산산증 (허가 문서가 아닌 지식 그래프 기반 정보)
+- **약물 상호작용**: 총 44건이 확인되었으며, 데이터에 나타난 주요 항목은 모두 중등도(Moderate)입니다.
+  - 신독성 가능성이 있는 약물: Amphotericin B(지질 복합체·리포좀·콜레스테릴 설페이트 제형 포함), Vancomycin, Kanamycin, Neomycin, Polymyxin B
+  - H2 차단제: Famotidine, Ranitidine, Cimetidine
+  - 기타: Metformin, Levofloxacin, Amoxicillin, Orlistat, Mesalazine, Balsalazide, Olsalazine, Sulfasalazine
 
----
+허가사항의 경고 및 금기 내용은 별도로 확인이 필요합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-Entecavir와 만성 C형 간염 바이러스 감염 사이에는 근본적인 기전적 불일치가 있습니다. HBV DNA 중합효소(역전사효소)를 표적으로 하는 Entecavir는 HCV가 사용하는 NS5B RNA 의존성 RNA 중합효소에 대한 직접적인 억제 메커니즘을 갖지 않으며, 현존하는 40건의 임상시험 어디에서도 HCV 자체에 대한 직접 치료 효능이 평가되거나 확인된 바 없습니다.
+Entecavir는 HCV에 직접적인 항바이러스 기전이 없으며, 수집된 임상시험과 문헌은 동시감염 환자의 HBV 재활성화 예방을 다룹니다. 따라서 C형 간염 치료제로서의 재창출 근거는 부족하고, "C형 간염에 대한 효능"이라기보다 "동시감염 시 HBV 관리"라는 기존 용도의 확장으로 보는 것이 타당합니다.
 
 **진행하려면 필요한 것:**
-- 작용 기전(MOA) 상세 데이터 수집 (DrugBank API 조회 권장; 현재 데이터 공백)
-- 한국 MFDS 허가 신청을 위한 안전성 프로파일(경고, 금기, DDI) 확보
-- Entecavir의 HCV NS5B RdRp에 대한 in vitro 억제 활성 데이터 확인 (기전적 가능성 낮음으로 판단)
-- **우선 검토 권장**: TxGNN 예측 2위 **만성 B형 간염 바이러스 감염 (근거 수준 L1, Proceed with Guardrails)** — Entecavir의 전 세계 허가 적응증이며 풍부한 Phase 3 임상 근거를 보유하고 있으므로, 한국 MFDS 허가 신청이 최우선 과제로 판단됩니다
+- 허가사항(경고·금기) 원문 확보 및 파싱 (MFDS 허가 문서)
+- 작용 기전(MOA) 데이터 보완 (DrugBank)
+- 연구 질문을 "HCV 치료"에서 "HCV/HBV 동시감염 환자의 HBV 재활성화 예방"으로 재정의하고, 해당 RCT(PMID 34864158)를 중심으로 근거 재평가
+- 신기능 장애 환자 및 신독성 약물 병용 시 안전성 모니터링 계획 수립
+
+*참고: 동일 약물의 다른 예측 중 B형 간염(근거 수준 L1)은 이미 승인된 적응증의 재확인이며 신규 재창출 기회가 아닙니다.*
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

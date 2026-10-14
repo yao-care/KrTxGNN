@@ -2,7 +2,7 @@
 layout: default
 title: Atomoxetine Hydrochloride
 parent: 모델 예측만 (L5)
-nav_order: 94
+nav_order: 96
 evidence_level: L5
 indication_count: 0
 ---

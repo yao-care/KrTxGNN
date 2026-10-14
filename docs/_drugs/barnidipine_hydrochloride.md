@@ -2,7 +2,7 @@
 layout: default
 title: Barnidipine Hydrochloride
 parent: 모델 예측만 (L5)
-nav_order: 123
+nav_order: 126
 evidence_level: L5
 indication_count: 0
 ---

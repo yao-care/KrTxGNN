@@ -2,7 +2,7 @@
 layout: default
 title: Amlodipine Besylate
 parent: 모델 예측만 (L5)
-nav_order: 62
+nav_order: 64
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Bazedoxifene Acetate
 parent: 모델 예측만 (L5)
-nav_order: 125
+nav_order: 128
 evidence_level: L5
 indication_count: 0
 ---

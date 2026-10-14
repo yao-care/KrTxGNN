@@ -2,7 +2,7 @@
 layout: default
 title: Bedaquiline Fumarate
 parent: 모델 예측만 (L5)
-nav_order: 128
+nav_order: 131
 evidence_level: L5
 indication_count: 0
 ---

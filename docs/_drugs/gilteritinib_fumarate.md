@@ -2,7 +2,7 @@
 layout: default
 title: Gilteritinib Fumarate
 parent: 모델 예측만 (L5)
-nav_order: 346
+nav_order: 374
 evidence_level: L5
 indication_count: 0
 ---

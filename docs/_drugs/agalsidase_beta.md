@@ -2,7 +2,7 @@
 layout: default
 title: Agalsidase Beta
 parent: 모델 예측만 (L5)
-nav_order: 28
+nav_order: 29
 evidence_level: L5
 indication_count: 0
 ---

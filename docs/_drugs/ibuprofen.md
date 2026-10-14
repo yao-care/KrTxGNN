@@ -2,7 +2,7 @@
 layout: default
 title: Ibuprofen
 parent: 모델 예측만 (L5)
-nav_order: 381
+nav_order: 409
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,72 +29,68 @@ indication_count: 7
 
 </div>
 
-# Ibuprofen: 기존 적응증 정보 없음에서 Acromesomelic Dysplasia (Hunter-Thompson type)으로
+# Ibuprofen: 류마티스 관절염·통증·발열에서 말단중간형 이형성증(Hunter-Thompson형)으로
 
 ## 한 문장 요약
 
-Ibuprofen(DrugBank ID: DB01050)은 본 Evidence Pack에 원 적응증 및 작용 기전(MOA) 정보가 제공되지 않았으며, 한국에서도 현재 허가·시판 이력이 확인되지 않습니다. TxGNN 모델은 **Acromesomelic Dysplasia, Hunter-Thompson type**을 포함해 극희귀 골격/발달성 유전질환 7건을 유사한 고득점(약 99.6~99.7%)으로 예측했으나, 관련 임상시험·문헌은 전혀 확인되지 않았고, 예측 근거 자체도 기전적 연관성이 약하다고 평가되고 있습니다.
-
----
+Ibuprofen은 비선택적 COX 억제제(NSAID)로, 원래 류마티양 관절염, 골관절염, 감기로 인한 발열 및 동통, 요통, 생리통 등에 사용되었습니다.
+TxGNN 모델은 **말단중간형 이형성증, Hunter-Thompson형(acromesomelic dysplasia, Hunter-Thompson type)**에 효과가 있을 수 있다고 예측하지만, 이를 지지하는 **임상시험은 0건**, **문헌도 0편**입니다.
+기전상 연관성도 확인되지 않아 모델 예측 수준(L5)에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 (Taiwan/한국 허가 정보 및 DrugBank 원 적응증 데이터 미제공) |
-| 예측 신규 적응증 | Acromesomelic Dysplasia, Hunter-Thompson type |
-| TxGNN 예측 점수 | 99.74% (순위 5,336위) |
-| 근거 수준 | L5 (모델 예측만 있음, 실제 연구 없음) |
-| 한국 시판 현황 | 시판되지 않음 |
-| 허가증 수 | 0건 |
+| 기존 적응증 | 류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증, 수술후 동통 등 |
+| 예측 신규 적응증 | 말단중간형 이형성증, Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) |
+| TxGNN 예측 점수 | 99.74% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 |
 | 권장 결정 | Hold |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-현재 Ibuprofen의 상세 작용 기전(MOA) 데이터는 확보되지 않았습니다 (High severity Data Gap). 다만 Evidence Pack에 포함된 기전 검토(rationale) 내용에 따르면, Acromesomelic Dysplasia, Hunter-Thompson type은 **GDF5 유전자 돌연변이로 인한 연골 발육 부전**이며, 발달성·구조적 질환으로 염증성 질환에 해당하지 않습니다.
+현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 Ibuprofen은 COX-1/COX-2를 비선택적으로 억제해 프로스타글란딘 합성을 줄이는 NSAID이며, 소염·진통·해열 효과로 통증과 염증성 질환에 쓰입니다.
 
-Ibuprofen은 COX 억제제로서, 이 질환에 동반될 수 있는 관절 통증이나 이차적 염증 증상에 대해 증상 완화 효과를 기대할 수는 있으나, 질환의 근본 병리인 골격 형태형성 신호 경로 이상과는 직접적인 기전적 연관성이 없습니다.
+반면 이 질환은 CDMP1/GDF5 유전자의 기능 상실 변이로 BMP 신호와 연골 형성이 손상되는 희귀 유전성 골격 이형성증입니다. Ibuprofen은 GDF5/BMP 경로에 작용하지 않으므로, 질환 자체를 변화시킬 만한 기전적 연결고리는 확인되지 않습니다.
 
-특히 나머지 6개 예측 적응증(brachyolmia-amelogenesis imperfecta syndrome, myosclerosis, brachyolmia, brachydactyly-syndactyly syndrome, pseudoachondroplasia, colobomatous microphthalmia-rhizomelic dysplasia syndrome) 역시 모두 골격·연골·발달성 희귀질환이며, 점수(99.60~99.71%)와 순위(5,336~7,310위)가 서로 근접해 있습니다. 이는 TxGNN 지식그래프 내에서 골격 발육부전 관련 질환 노드들이 서로 군집되어 있는 데서 비롯된 패턴일 가능성이 높으며, Ibuprofen에 대한 특이적 약리학적 연관성을 반영한 결과라고 보기는 어렵습니다.
+TxGNN 점수가 매우 높은 것은 지식 그래프에서 골격·통증·염증 관련 노드를 공유하기 때문일 가능성이 큽니다. 기대할 수 있는 효과는 증상 완화 수준의 진통이며, 이는 이미 허가된 용도에 해당합니다.
 
----
+참고로 같은 모델이 예측한 다른 후보(brachyolmia-amelogenesis imperfecta 증후군, myosclerosis, brachyolmia, brachydactyly-syndactyly 증후군, pseudoachondroplasia 등)도 모두 L5이며 임상시험과 문헌이 없습니다. 이 중 myosclerosis와 pseudoachondroplasia는 근육통·관절통 완화라는 간접적 가능성만 있고, 질환 경과를 바꾼다는 근거는 없습니다.
 
-## 임상시험 근거
+## 한국 시판 정보
 
-현재 관련 임상시험 등록이 없습니다.
-
----
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
-
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200001172 | 디퓨탭서방정 | 서방정 | 류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증... |
+| 201700729 | 이부로엔에스연질캡슐 | 연질캡슐 | 감기로 인한 발열 및 동통(통증), 요(허리)통, 생리통, 류마티양 관절염, 연소성(어리거나 젊은 나이에 나타나는) 류... |
+| 201604402 | 챔프이부펜시럽 | 시럽 | 류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증... |
+| 202302993 | 이지엔6이브정 | 필름코팅정 | 두통, 치통, 발치후 통증, 인후통, 귀의 통증, 관절통, 신경통, 요통, 근육통, 어깨결림, 타박통, 골절통, 삠 통증... |
+| 202006761 | 이부스타플라스타 | 첩부제 | 골관절염, 어깨관절주위염, 건·건초염(힘줄염·힘줄윤활막염), 건주위염(힘줄주위염), 상과염(테니스 엘보우 등), 근육통... |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 데이터에 100건의 상호작용이 있으며, 확인된 주요 항목은 다음과 같습니다.
+  - **Major**: Acetylsalicylic acid(아스피린)
+  - **Moderate**: 코르티코스테로이드(Betamethasone, Budesonide, Dexamethasone, Hydrocortisone), 설포닐우레아계 혈당강하제(Acetohexamide, Chlorpropamide, Glimepiride, Glipizide, Glyburide), Exenatide, Aprepitant, Balsalazide, Kanamycin, Levofloxacin, Fenfluramine, Dexfenfluramine
+  - **Minor**: Famotidine, Ranitidine, Cimetidine
+- **지식 그래프상 금기 관련 질환**(허가사항 문구가 아닌 모델 지식 그래프 기반): 고혈압, 간부전·간질환, 신장질환, 소화성 궤양, 염증성 장질환, 혈소판감소증, 혈액응고 장애, 뇌졸중·뇌혈관 질환, 심근경색, 당뇨병, 간질, 만성폐쇄성폐질환, 전신홍반루푸스 등
 
-(주요 경고, 금기, 약물상호작용 관련 데이터가 확보되지 않았으며, 이는 S1 안전성 초평가 진입을 막는 Blocking 등급 Data Gap으로 분류되어 있습니다.)
-
----
+허가사항의 경고 및 금기 정보는 이번 데이터에 포함되어 있지 않으므로, 상세 내용은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-- 예측 신규 적응증 7건 모두 임상시험·문헌 근거가 전무한 L5 단계(모델 예측만 존재)이며, decision_stage도 최하위 단계인 S0에 머물러 있습니다.
-- 원 적응증·MOA 데이터, 한국 시판/허가 정보, 안전성(경고·금기·DDI) 정보가 모두 확보되지 않아 근거 사슬 자체가 성립하지 않습니다.
-- 예측된 질환들은 모두 극희귀 유전성 골격/발달 질환으로, 제시된 기전 서술 자체가 "직접적 기전 연관성 없음"을 명시하고 있어 재창출 가설로서의 타당성이 낮습니다.
+TxGNN 점수(99.74%)는 높지만 임상시험과 문헌이 전혀 없고, COX 억제와 GDF5/BMP 신호 결손 사이에 기전적 연결고리도 없습니다. 이 예측은 계산상의 산물로 판단되며, 증상 완화 목적의 진통 효과는 이미 허가된 적응증 범위입니다.
 
 **진행하려면 필요한 것:**
-- TFDA/한국 규제기관 공식 라벨(허가사항 PDF) 확보를 통한 경고·금기·DDI 데이터 보완 (Blocking Data Gap 해소)
-- DrugBank API 조회를 통한 Ibuprofen 원 적응증 및 상세 MOA 확보 (High Data Gap 해소)
-- 상위 예측 질환에 대한 추가 문헌/전임상 검색 (현재 PubMed·ClinicalTrials.gov·ICTRP 조회 결과 0건 확인됨, 재조회 주기적 필요)
-- 7개 예측이 실제 개별 기전 신호인지, 지식그래프 군집 아티팩트인지 구분하기 위한 정성적 검토
+- 작용 기전(MOA) 데이터 보완 (DrugBank 조회)
+- 허가사항(경고·금기) 확보: 현재 누락되어 안전성 선별 단계로 진행할 수 없음 (MFDS 허가사항 PDF 다운로드 및 분석)
+- 이 질환에서 Ibuprofen의 효과를 시사하는 전임상·임상 근거 확보 (현재 없음)
+- 필요하다면 증상 완화(통증 관리)로 목표를 한정한 별도의 평가
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

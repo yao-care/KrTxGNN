@@ -2,7 +2,7 @@
 layout: default
 title: Aluminium Chloride
 parent: 모델 예측만 (L5)
-nav_order: 48
+nav_order: 50
 evidence_level: L5
 indication_count: 0
 ---

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Agomelatine
-parent: 높은 근거 (L1-L2)
-nav_order: 29
-evidence_level: L2
+parent: 모델 예측만 (L5)
+nav_order: 30
+evidence_level: L5
 indication_count: 10
 ---
 
 # Agomelatine
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,81 @@ indication_count: 10
 
 </div>
 
-# Agomelatine: 주요 우울 장애에서 불안장애로
+# Agomelatine: 우울증에서 불안장애로
 
 ## 한 문장 요약
 
-Agomelatine은 유럽 및 호주에서 주요 우울 장애(Major Depressive Disorder, MDD) 치료에 승인된 약물로, MT1/MT2 멜라토닌 수용체 작용 및 5-HT2C 세로토닌 수용체 길항이라는 독자적인 이중 기전을 가진 항우울제입니다.
-TxGNN 모델은 **불안장애(Anxiety Disorder)**에 효과가 있을 수 있다고 예측하며, 현재 **0건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다.
-2025년에 발표된 시스템 고찰 및 네트워크 메타분석(PMID 38804215)을 포함한 다수의 고품질 문헌이 광범위 불안장애(GAD)에 대한 Agomelatine의 임상적 효능을 확인하고 있습니다.
-
----
+Agomelatine은 멜라토닌 MT1/MT2 수용체 작용제이자 5-HT2C 수용체 길항제로, 원래 주요우울장애 치료에 사용되는 항우울제입니다.
+TxGNN 모델은 **불안장애(Anxiety Disorder)**에 효과가 있을 수 있다고 예측하며, 현재 **2건의 임상시험**과 **20편의 문헌**이 이 방향과 관련되어 있습니다. 다만 임상시험 중 직접 효능을 평가한 것은 1건(강박장애 Phase 2)뿐입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 주요 우울 장애 (유럽·호주 승인) |
+| 기존 적응증 | 허가증에는 적응증 본문 대신 문서 링크만 등록되어 있어 확인할 수 없음 (문헌상 주요우울장애) |
 | 예측 신규 적응증 | 불안장애 (Anxiety Disorder) |
 | TxGNN 예측 점수 | 99.98% |
-| 근거 수준 | L2 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L3 (완료된 불안장애 Phase 3 RCT 없음, 체계적 문헌고찰·메타분석 존재) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
 | 권장 결정 | Proceed with Guardrails |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-본 Evidence Pack에 공식 MOA 데이터가 포함되지 않았으나, Agomelatine의 약리 기전은 다수의 문헌을 통해 잘 규명되어 있습니다. Agomelatine은 MT1/MT2 멜라토닌 수용체 작용제이자 5-HT2C 세로토닌 수용체 길항제로서, 기존 항우울제(SSRI/SNRI)와 전혀 다른 경로로 작동하는 최초의 멜라토닌 계열 항우울제입니다. 기존 단극성 우울증 치료에 사용된 이 기전이 불안장애에도 적용 가능한 이유는 세 가지 경로로 설명됩니다.
+현재 상세한 작용 기전 데이터(DrugBank)는 확보되지 않았습니다. 다만 문헌에 따르면 agomelatine은 멜라토닌 MT1/MT2 수용체 작용제이자 5-HT2C 수용체 길항제입니다. 수집된 약리 정보에서도 5-HT2A, 5-HT2B, 5-HT2C, MT1, MT2 수용체와의 상호작용이 확인됩니다.
 
-**첫째**, 5-HT2C 수용체 길항 작용은 편도체의 과활성화를 억제하여 직접적인 항불안 효과를 나타냅니다. **둘째**, MT1/MT2 수용체 작용으로 수면의 질이 개선되어 불안 증상을 간접적으로 완화합니다. **셋째**, 전전두엽에서의 노르에피네프린(NE) 및 도파민(DA) 분비 증가가 광범위 불안의 인지-정서 회로 과활성을 억제합니다.
+이 기전은 일주기 리듬과 수면을 조절하고 전전두엽의 도파민·노르에피네프린 방출을 높여 기분과 불안에 긍정적 영향을 줄 수 있습니다. 우울증과 불안은 자주 동반되므로 기전상 불안장애에도 적용될 가능성이 있습니다.
 
-MDD와 광범위 불안장애(GAD)는 공병률이 높고 신경생물학적 공통 기반을 공유하므로, Agomelatine의 이중 기전은 두 질환 모두에 이론적으로 적용 가능합니다. 실제로 유럽에서는 GAD를 대상으로 한 Phase 3 위약 대조 임상시험이 수행된 바 있으며(본 데이터셋 NCT 데이터베이스 미포함), 2025년 발표된 네트워크 메타분석(PMID 38804215)은 GAD 성인 환자에서 Agomelatine이 다수의 승인 약물 대비 우수한 효능과 내약성을 보였음을 확인하였습니다.
-
----
+범불안장애(GAD)에 대해서는 agomelatine 전용 리뷰와 메타분석, 네트워크 메타분석이 여러 편 있고, 위약 및 활성 대조 시험(PMID 24569045)도 보고되었습니다. 다만 이번 자료만으로는 개별 시험의 결과를 검증하지 못했으므로, 효능은 원문 확인이 필요합니다.
 
 ## 임상시험 근거
 
-현재 관련 임상시험 등록이 없습니다.
-
-> **참고:** 유럽에서 수행된 GAD 대상 Phase 3 위약·활성 대조 임상시험(Stein et al., 2014; PMID 24569045 등)이 존재하나, 본 데이터셋의 NCT 데이터베이스에 포함되지 않았습니다. 이 점이 임상시험 건수 0건으로 나타나는 원인이며, 근거 수준 L2 판정의 근거가 됩니다.
-
----
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT01108393](https://clinicaltrials.gov/study/NCT01108393) | Phase 2 | 완료 | 74 | 강박장애에서 agomelatine 25~50 mg/일 vs 위약(16주, 이중맹검). 결과 미공개 |
+| [NCT02374567](https://clinicaltrials.gov/study/NCT02375567) | Phase 3 | 종료 | 407 | 노인정신과 입원환자의 약물 안전성·약물이상반응 조사. 불안장애 효능시험 아님 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|------|------|------|---------|
-| [38804215](https://pubmed.ncbi.nlm.nih.gov/38804215/) | 2025 | Systematic Review + NMA | Int Clin Psychopharmacol | 성인 GAD에서 Agomelatine 대 승인 약물의 효능·내약성 비교 네트워크 메타분석; 관해율 및 이상반응으로 인한 중단율 분석 |
-| [30712879](https://pubmed.ncbi.nlm.nih.gov/30712879/) | 2019 | Systematic Review + NMA | Lancet | GAD 약물치료 비교 시스템 고찰 및 네트워크 메타분석; 다수의 약물 선택지 간 비교 근거 제시 |
-| [33343351](https://pubmed.ncbi.nlm.nih.gov/33343351/) | 2020 | Systematic Review + NMA | Front Pharmacol | GAD 이중맹검 RCT 네트워크 메타분석: HAM-A ≤7 관해율 및 내약성 비교 |
-| [33537871](https://pubmed.ncbi.nlm.nih.gov/33537871/) | 2021 | Meta-analysis | Adv Ther | 위약 대조 3개 연구 통합 데이터셋: Agomelatine 25-50mg의 GAD 불안 증상 및 기능 장애 유의미한 개선 확인 |
-| [35795687](https://pubmed.ncbi.nlm.nih.gov/35795687/) | 2022 | Review | Ther Adv Psychopharmacol | GAD 치료에서 Agomelatine의 독특한 작용 기전(5-HT2C 길항 + MT 촉효) 및 임상 적용 고찰 |
-| [34417992](https://pubmed.ncbi.nlm.nih.gov/34417992/) | 2021 | Review | Adv Ther | GAD 근거 기반 약물치료 고찰; SSRI/SNRI 대안으로서 Agomelatine의 역할 및 네트워크 메타분석 지지 근거 |
-| [32702221](https://pubmed.ncbi.nlm.nih.gov/32702221/) | 2020 | Meta-analysis | Clin Psychopharmacol Neurosci | GAD에서 Agomelatine의 효능 및 안전성 메타분석; 기존 약물 대비 우수한 치료 옵션 가능성 제시 |
-| [24569045](https://pubmed.ncbi.nlm.nih.gov/24569045/) | 2014 | RCT | J Clin Psychiatry | GAD에서 Agomelatine의 단기 위약 대조 및 활성 대조 임상 연구; 규제 기관 요구 추가 시험 |
-| [28730851](https://pubmed.ncbi.nlm.nih.gov/28730851/) | 2017 | Review | Expert Opin Pharmacother | GAD 단기·유지 치료에서 Agomelatine의 임상 효능 및 내약성 평가; 1차 치료 한계 극복 가능성 |
-| [25999720](https://pubmed.ncbi.nlm.nih.gov/25999720/) | 2015 | Review | Neuropsychiatr Dis Treat | 기존 GAD 약물에 반응하지 않는 환자를 위한 Agomelatine의 임상 프로파일 및 부작용 고찰 |
-
----
+|------|-----|------|------|---------|
+| [24569045](https://pubmed.ncbi.nlm.nih.gov/24569045/) | 2014 | 위약·활성대조 시험 | J Clin Psychiatry | GAD에서 agomelatine의 단기 효능 확인을 위한 추가 위약대조 시험 |
+| [32702221](https://pubmed.ncbi.nlm.nih.gov/32702221/) | 2020 | 메타분석 | Clin Psychopharmacol Neurosci | GAD에서 agomelatine의 효능과 안전성 평가 |
+| [38804215](https://pubmed.ncbi.nlm.nih.gov/38804215/) | 2025 | 체계적 문헌고찰·네트워크 메타분석 | Int Clin Psychopharmacol | 성인 GAD에서 agomelatine과 승인된 약물의 관해 및 이상반응 중단 비교 |
+| [33343351](https://pubmed.ncbi.nlm.nih.gov/33343351/) | 2020 | 네트워크 메타분석 | Front Pharmacol | GAD 약물들의 관해율과 내약성 비교 |
+| [30712879](https://pubmed.ncbi.nlm.nih.gov/30712879/) | 2019 | 네트워크 메타분석 | Lancet | GAD 약물치료 간 비교 |
+| [40788541](https://pubmed.ncbi.nlm.nih.gov/40788541/) | 2026 | 네트워크 메타분석 | Eur Arch Psychiatry Clin Neurosci | 항불안제의 효능과 수용성 비교 |
+| [34417992](https://pubmed.ncbi.nlm.nih.gov/34417992/) | 2021 | 리뷰 | Adv Ther | GAD 근거 기반 약물치료, agomelatine 중심 |
+| [35795687](https://pubmed.ncbi.nlm.nih.gov/35795687/) | 2022 | 리뷰 | Ther Adv Psychopharmacol | GAD에서 agomelatine의 독특한 작용 기전 |
+| [28730851](https://pubmed.ncbi.nlm.nih.gov/28730851/) | 2017 | 리뷰 | Expert Opin Pharmacother | GAD의 단기·유지 치료에서 유망함 |
+| [24766542](https://pubmed.ncbi.nlm.nih.gov/24766542/) | 2014 | 리뷰 | Expert Opin Investig Drugs | GAD 치료제로서 agomelatine 검토 |
 
 ## 한국 시판 정보
 
-현재 Agomelatine은 한국에서 시판 허가를 받지 않았습니다 (허가증 0건).
-
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 202403080 | 아고틴정25밀리그램(아고멜라틴) | 장방형 필름코팅정 (진노랑색) | 적응증 본문 없이 허가 문서 링크만 등록되어 있음 (제조사: 환인제약) |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약리학적 표적**: 5-HT2A, 5-HT2B, 5-HT2C, MT1, MT2 수용체와 상호작용합니다. 이는 표적 정보이며 임상적 약물 상호작용 등급은 아닙니다.
 
----
+그 외 경고·금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-GAD에 대한 Agomelatine의 효능을 지지하는 다수의 시스템 고찰, 네트워크 메타분석 및 Phase 3 임상 데이터가 존재하며, 5-HT2C 길항 및 MT1/MT2 작용의 이중 기전은 불안장애의 핵심 병리 기전(편도체 과활성, 수면 장애, 인지-정서 회로 이상)과 합리적으로 연결됩니다.
+GAD에서 agomelatine을 다룬 위약대조 시험, 메타분석, 네트워크 메타분석이 있어 불안장애 방향의 근거가 어느 정도 쌓여 있습니다. 그러나 등록된 임상시험 중 불안장애 효능을 직접 입증한 완료 Phase 3 시험은 없고, 허가사항상의 경고·금기도 확인하지 못했습니다.
 
 **진행하려면 필요한 것:**
-- TFDA 仿單(약품 설명서) PDF 다운로드 및 파싱을 통한 경고·금기 사항 확인 (**블로킹 데이터 갭 해소 필수**)
-- DrugBank API 조회를 통한 공식 MOA 데이터 보완
-- 유럽 Phase 3 GAD 임상시험 원문 확보 및 시험 설계·결과 상세 검토
-- 한국 시판 가능성 검토를 위한 규제 전략 수립 및 품목 허가 신청 가능성 평가
+- 허가사항(첨부문서) 확인: 경고, 금기, 특히 간기능 관련 주의사항 (현재 확보되지 않음)
+- 상세한 약물 작용 기전 데이터 (DrugBank 등)
+- GAD 위약대조 시험(PMID 24569045)과 메타분석(PMID 32702221, 38804215)의 원문 결과 검토
+- 한국 허가 적응증 본문 확인 및 불안장애 적응증 확대를 위한 국내 근거 검토
+
+**참고:** 같은 예측 목록의 주요우울장애·단극성 우울증은 기존 적응증과 동일하거나 거의 같은 질환이므로 재창출 대상이 아닙니다. 멜랑콜리아, 신경증적 우울증, 내인성 우울증은 우울증 근거를 이어받은 항목으로, 해당 아형에 대한 직접 시험은 없습니다. 소아 양성 발작성 사경, 광장공포증, 오도 증후군은 근거가 없거나 기전상 연결이 불분명하여 보류(Hold)가 적절합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

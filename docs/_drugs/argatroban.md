@@ -2,7 +2,7 @@
 layout: default
 title: Argatroban
 parent: 모델 예측만 (L5)
-nav_order: 81
+nav_order: 83
 evidence_level: L5
 indication_count: 0
 ---

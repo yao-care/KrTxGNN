@@ -2,7 +2,7 @@
 layout: default
 title: Glibenclamide
 parent: 모델 예측만 (L5)
-nav_order: 352
+nav_order: 380
 evidence_level: L5
 indication_count: 0
 ---

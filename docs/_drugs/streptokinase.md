@@ -2,7 +2,7 @@
 layout: default
 title: Streptokinase
 parent: 높은 근거 (L1-L2)
-nav_order: 646
+nav_order: 703
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,104 +29,113 @@ indication_count: 10
 
 </div>
 
-# Streptokinase: 원 적응증 자료 공백 상태에서 심근경색(기존 핵심 기전 재확인)으로
+# Streptokinase: 혈전 용해제에서 심근경색으로
 
 ## 한 문장 요약
 
-Streptokinase는 국내 허가 정보와 공식 원 적응증 기록이 확인되지 않는(Data Gap) 약물입니다.
-TxGNN 모델은 1순위로 **심근경색(Myocardial Infarction)**에 효과가 있을 것으로 예측했으며,
-**33건의 임상시험**과 **20편의 문헌**이 이를 뒷받침합니다. 다만 근거 문헌 다수가 1970~1990년대
-스트렙토키나제의 고전적 혈전용해 요법 연구로, 이는 순수한 신규 재창출이라기보다
-**기존에 확립된 핵심 약리기전(혈전용해)의 재확인**에 가깝다는 점에 유의해야 합니다.
-
----
+Streptokinase는 플라스미노겐을 활성화하여 혈전을 용해하는 혈전용해제로, 한국에서 7건의 허가증이 유효한 상태입니다(모두 수출용 허가).
+TxGNN 모델은 **심근경색(myocardial infarction)**에 효과가 있을 것으로 예측하며, 현재 **7건의 임상시험**과 **20편의 문헌**이 이 방향을 다루고 있습니다.
+다만 심근경색은 이 약의 표준적인 사용 분야로 진정한 의미의 재창출이라기보다 기존 용도를 재확인한 예측에 가깝습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 자료 없음 (원 적응증 기록 미확인 — Data Gap) |
+| 기존 적응증 | 허가 적응증 본문이 데이터에 포함되어 있지 않음(허가증 PDF 링크만 제공됨) |
 | 예측 신규 적응증 | 심근경색 (Myocardial Infarction) |
 | TxGNN 예측 점수 | 99.83% |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | 미상시 (한국 내 시판되지 않음) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 7건 |
 | 권장 결정 | Proceed with Guardrails |
 
----
+> 참고: 근거 수준 L1은 완료된 Phase 3 시험이 2건 이상이라는 기준에 따른 판정입니다. 다만 해당 시험 중 일부는 streptokinase 자체가 아닌 다른 혈전용해제(테넥테플라제, 재조합 스타필로키나제)를 다루고 있어 해석에 주의가 필요합니다.
 
 ## 이 예측이 타당한 이유는?
 
-현재 DrugBank 기반의 상세 작용 기전(MOA) 데이터는 확보되지 않았습니다(Data Gap, DG002).
-다만 근거 팩에 포함된 기전 분석에 따르면, Streptokinase는 **plasminogen을 plasmin으로 활성화**시켜
-혈전을 구성하는 fibrin을 분해하는 세균 유래 효소(fibrinolytic agent)입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Streptokinase는 플라스미노겐과 복합체를 형성하여 플라스미노겐을 플라스민으로 전환하고, 플라스민이 피브린 혈전을 분해하여 관상동맥 폐색을 해소하고 혈류를 회복시킵니다.
 
-관상동맥이 혈전으로 폐색되는 것이 심근경색의 핵심 병태생리이므로, 이 약물의 fibrinolysis 기전은
-심근경색 치료와 **직접적이고 명확하게** 연결됩니다. 실제로 근거 팩의 반복 근거(rationale)에서도
-"이는 약물의 원래 핵심 적응증으로, 진정한 의미의 재창출은 아니다"라고 명시하고 있어,
-TxGNN이 확립된 약물-질병 관계를 정확히 재현했다고 해석하는 것이 타당합니다.
+급성 심근경색은 관상동맥 내 피브린이 풍부한 혈전에 의한 폐색이 핵심 병태이므로, 혈전용해 기전이 그대로 적용됩니다. 이는 신규 용도라기보다 표준적인 혈전용해 사용에 해당합니다.
 
-즉, 이번 예측은 **완전히 새로운 적응증 발굴**이라기보다, 국내 허가 자료 공백을 메우기 위한
-**기존 핵심 기전의 근거 재확인**으로 이해하는 것이 정확합니다. 반면 8위(말초혈관질환)·9위(말초동맥질환)
-후보는 동일 기전을 관상동맥 밖으로 확장한 **비교적 진정성 있는 재창출 신호**로 참고할 가치가 있습니다.
-
----
+주의할 점은 출혈 위험, 항스트렙토키나제 항체 및 이전 노출 이력(알레르기 반응, 효능 저하), 그리고 피브린 선택성 약제나 일차 PCI(경피적 관상동맥 중재술)가 선호되는 현재 진료 환경입니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00000507](https://clinicaltrials.gov/study/NCT00000507) | Phase 3 | 완료 | N/A | 급성 관통성 심근경색 초기 정맥내 스트렙토키나제 투여가 심근 손상을 제한하는지 평가한 초기 대규모 RCT |
-| [NCT00000505](https://clinicaltrials.gov/study/NCT00000505) | Phase 3 | 완료 | N/A | TIMI 시험: 정맥내 rt-PA 대 정맥내 스트렙토키나제의 혈전용해 효과 비교, 이후 PTCA 병행 여부 평가 |
-| [NCT00245648](https://clinicaltrials.gov/study/NCT00245648) | Phase 3 | 완료 | N/A | GUSTO-V 시험: 스트렙토키나제·조직플라스미노겐활성제 혈전용해 치료 환자에서 성별에 따른 사망·출혈 차이 분석 |
-| [NCT00302419](https://clinicaltrials.gov/study/NCT00302419) | Phase 4 | 완료 | 95 | 1차 PCI 직후 관상동맥내 스트렙토키나제 추가 투여가 미세혈관 관류 및 후기 경색 크기에 미치는 영향 (등급 A) |
-| [NCT00627809](https://clinicaltrials.gov/study/NCT00627809) | Phase 4 | 완료 | 53 | 저용량 관상동맥내 스트렙토키나제를 1차 PCI에 보조적으로 투여 시 좌심실 경색 크기·용적 개선 효과 평가 |
-| [NCT01305226](https://clinicaltrials.gov/study/NCT01305226) | Phase 3 | 완료 | 120 | 재조합 스타필로키나제(THR-100) 이중볼러스 대 스트렙토키나제 직접 비교 RCT |
-| [NCT02182011](https://clinicaltrials.gov/study/NCT02182011) | Phase 3 | 완료 | 49 | TNK-tPA, rt-PA, 스트렙토키나제 간 응고촉진 효과(TAT 농도) 비교 (등급 B) |
-| [NCT00526474](https://clinicaltrials.gov/study/NCT00526474) | Phase 3 | 완료 | 26,449 | TRA 2°P-TIMI 50: 죽상동맥경화 병력 환자에서 보라팍사르 추가요법의 심근경색·뇌졸중 예방 효과 및 출혈 위험 (등급 A) |
-| [NCT03328156](https://clinicaltrials.gov/study/NCT03328156) | N/A | 불명 | 300 | 급성 STEMI에서 1차 혈관성형술 대 혈전용해요법(스트렙토키나제 포함) 재관류 전략 비교, 발기부전 발생률 평가 (등급 B) |
-| [NCT00968929](https://clinicaltrials.gov/study/NCT00968929) | Phase 4 | 완료 | 83 | 재조합 스트렙토키나제 대 유로키나제의 폐색전증 치료 효능·안전성 비교 (중국 다기관 RCT) |
-
----
+| [NCT00000507](https://clinicaltrials.gov/study/NCT00000507) | Phase 3 | 완료 | 미보고 | 급성 경색 초기 정맥 내 streptokinase가 심근 손상을 줄이는지 평가 |
+| [NCT00000503](https://clinicaltrials.gov/study/NCT00000503) | Phase 3 | 완료 | 미보고 | 비수술적 관상동맥 재관류가 경색 크기에 미치는 영향 평가 |
+| [NCT01305226](https://clinicaltrials.gov/study/NCT01305226) | Phase 3 | 완료 | 120 | 급성 심근경색에서 재조합 스타필로키나제(THR-100) vs streptokinase 비교 |
+| [NCT02182011](https://clinicaltrials.gov/study/NCT02182011) | Phase 3 | 완료 | 49 | 급성 심근경색에서 TNK-tPA, rt-PA, streptokinase의 응고촉진 효과(TAT) 비교 |
+| [NCT00627809](https://clinicaltrials.gov/study/NCT00627809) | Phase 4 | 완료 | 53 | ST 상승 심근경색에서 일차 PCI에 관상동맥 내 저용량 streptokinase 병용 시 경색 크기·좌심실 용적 평가 |
+| [NCT03677466](https://clinicaltrials.gov/study/NCT03677466) | 해당 없음 | 완료 | 60 | 일차 STEMI에서 재관류 전략별 심근 내 출혈 빈도 평가(간접 관련) |
+| [NCT02893280](https://clinicaltrials.gov/study/NCT02893280) | 해당 없음 | 철회 | 0 | 스리랑카 급성 관상동맥 증후군 감사 프로젝트(근거 없음) |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [8028463](https://pubmed.ncbi.nlm.nih.gov/8028463/) | 1994 | Meta-analysis | Medical Decision Making | 경색 부위·발생 가능성에 따른 정맥내 스트렙토키나제의 비용효과성을 메타분석·의사결정분석으로 평가 |
-| [481517](https://pubmed.ncbi.nlm.nih.gov/481517/) | 1979 | RCT | NEJM | 스트렙토키나제와 심근경색 관련 초기 무작위 대조 연구 |
-| [5134571](https://pubmed.ncbi.nlm.nih.gov/5134571/) | 1971 | RCT | BMJ | 스트렙토키나제와 심근경색 관련 무작위 대조 연구 |
-| [2868343](https://pubmed.ncbi.nlm.nih.gov/2868343/) | 1986 | RCT | Lancet | 급성 심근경색에서 스트렙토키나제 효과를 평가한 대규모 무작위 대조 연구(GISSI 계열) |
-| [6823237](https://pubmed.ncbi.nlm.nih.gov/6823237/) | 1983 | RCT | NEJM | 심근경색에서 정맥내 스트렙토키나제 투여 효과 평가 |
-| [2888018](https://pubmed.ncbi.nlm.nih.gov/2888018/) | 1987 | RCT (이중맹검) | NEJM | 발병 4시간 이내 환자 219명 대상, 스트렙토키나제 대 위약 이중맹검 시험 — 좌심실 기능 및 초기 생존율 개선 확인 |
-| [4934187](https://pubmed.ncbi.nlm.nih.gov/4934187/) | 1971 | 다기관 대조 시험 | BMJ | 유럽 다기관 시험(European Working Party): 스트렙토키나제 대 헤파린 무작위 배정, 764명 등록 |
-| [481511](https://pubmed.ncbi.nlm.nih.gov/481511/) | 1979 | RCT | NEJM | 유럽 11개 센터 2,338명 중 512명 대상, 중증도별 계층화 스트렙토키나제 24시간 주입 대 포도당 대조 — 6개월 사망률 유의 감소 |
-| [21070617](https://pubmed.ncbi.nlm.nih.gov/21070617/) | 2012 | Review | Cardiovascular Therapeutics | 스트렙토키나제 발견부터 알테플라제 등 후속 혈전용해제까지의 역사적 개관 |
-| [3312370](https://pubmed.ncbi.nlm.nih.gov/3312370/) | 1987 | Review | JACC | 관상동맥내·정맥내 스트렙토키나제 관련 주요 무작위 시험들에 대한 요약 리뷰 |
+| [8130384](https://pubmed.ncbi.nlm.nih.gov/8130384/) | 1994 | Review | Drugs & Aging | 대규모 무작위 시험(ISIS-2 등)에서 고령 환자의 심근경색 후 정맥 내 streptokinase의 생존 이득 확인 |
+| [2191849](https://pubmed.ncbi.nlm.nih.gov/2191849/) | 1990 | Review | Drugs | GISSI, ISIS-2, ISAM 등 3만 명 이상 대상 시험에서 정맥 내 streptokinase의 효과 입증 |
+| [10572811](https://pubmed.ncbi.nlm.nih.gov/10572811/) | 1999 | 메타분석/Review | J Accid Emerg Med | 가속 alteplase(t-PA)와 streptokinase의 결과 비교 |
+| [3312370](https://pubmed.ncbi.nlm.nih.gov/3312370/) | 1987 | Review | J Am Coll Cardiol | 관상동맥 내·정맥 내 streptokinase 무작위 시험 검토 |
+| [481511](https://pubmed.ncbi.nlm.nih.gov/481511/) | 1979 | 대조 시험 | N Engl J Med | 유럽 11개 센터에서 streptokinase 24시간 주입 시 6개월 사망률 유의하게 감소 |
+| [2146913](https://pubmed.ncbi.nlm.nih.gov/2146913/) | 1990 | 메타분석 | Ann Intern Med | 경색 부위(전벽/하벽)별 정맥 내 streptokinase의 조기 사망률 영향 분석 |
+| [3396164](https://pubmed.ncbi.nlm.nih.gov/3396164/) | 1988 | 무작위 시험 하위 분석 | Circulation | 정맥 내 streptokinase 후 경색 관련 동맥 개통률 68.5%, 좌심실 기능 평가 |
+| [10163575](https://pubmed.ncbi.nlm.nih.gov/10163575/) | 1996 | Review | PharmacoEconomics | 사망률 감소 측면에서 alteplase 등과 동등한 효능, 약물경제학적 평가 |
+| [10611814](https://pubmed.ncbi.nlm.nih.gov/10611814/) | 1999 | 증례 보고 | Rev Esp Cardiol | 투여 6시간 후 발열, 간비대, 황달 발생(streptokinase 유발 황달) |
+| [9339259](https://pubmed.ncbi.nlm.nih.gov/9339259/) | 1997 | Review | Arch Mal Coeur Vaiss | 항스트렙토키나제 항체 생성과 그 임상적 함의 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 199904106 | 에스키나제주1,500,000IU(스트렙토키나제)(수출용) | 바이알 주사제(분말) | 허가 적응증 본문 정보 없음 |
+| 199800042 | 프로키나제주사750,000IU(스트렙토키나제)(수출용) | 바이알(분말) | 허가 적응증 본문 정보 없음 |
+| 199904108 | 에스키나제주250,000IU(스트렙토키나제)(수출용) | 바이알 주사제(분말) | 허가 적응증 본문 정보 없음 |
+| 201502392 | 유유스트렙토키나제주1,500,000IU(수출용) | 바이알 주사제(분말) | 허가 적응증 본문 정보 없음 |
+| 199904107 | 에스키나제주750,000IU(스트렙토키나제)(수출용) | 바이알 주사제(분말) | 허가 적응증 본문 정보 없음 |
+
+7건 모두 단일 성분 제제이며 유효 상태입니다. 제품명에 "(수출용)"이 표기되어 있어 국내 유통 여부는 허가사항에서 확인이 필요합니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 데이터에 100건이 확인되었으며, 주요 항목은 다음과 같습니다.
+  - **Major**: Abciximab, Apixaban, Betrixaban, Bivalirudin, Acalabrutinib, Avapritinib, Deferasirox, Ibritumomab tiuxetan, Tositumomab (I-131). 대부분 출혈 위험 증가와 관련된 항응고·항혈소판 계열입니다.
+  - **Moderate**: Acetylsalicylic acid, Ibuprofen, Ketorolac, Celecoxib, Diclofenac(외용), Aminocaproic acid, Omega-3 지방산, Ginger, Fenfluramine, Sibutramine 등.
+- **문헌에서 확인된 위험**: 출혈, 항스트렙토키나제 항체 형성에 따른 알레르기 반응·효능 저하, 간 손상(황달) 증례 보고.
 
----
+경고·금기 등 허가사항 기반 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-심근경색에 대한 근거는 L1 수준(다수의 완료된 Phase 3 RCT 및 메타분석)으로 매우 견고하지만,
-이는 스트렙토키나제의 **기존 핵심 적응증을 재확인**한 결과에 가깝습니다. 한국 내 허가·시판 이력이
-없고(0건), TFDA/식약처 수준의 안전성 경고·금기 정보가 전혀 확보되지 않은 상태(DG001, Blocking)이므로
-임상 실행 전 안전성 초평가(S1)를 통과할 수 없습니다.
+심근경색에서 streptokinase의 정맥 내 혈전용해는 대규모 무작위 시험과 다수의 문헌으로 확립된 표준 사용입니다. 다만 일부 임상시험은 다른 혈전용해제를 다루고, 현재는 피브린 선택성 약제와 일차 PCI가 선호되며 출혈·면역원성 위험이 있어 조건부 진행이 적절합니다.
 
 **진행하려면 필요한 것:**
-- 국내(또는 원개발국) 허가사항의 경고·금기·용법용량 원문 확보 (DG001, Blocking — S1 진입 필수조건)
-- DrugBank 등을 통한 공식 MOA 및 약물 분류 데이터 확보 (DG002)
-- 출혈 위험·과민반응(항원성) 등 스트렙토키나제 고유의 안전성 프로파일 정리
-- 진정한 재창출 신호로서 8위(말초혈관질환)·9위(말초동맥질환) 후보에 대한 별도 평가 검토
+- 허가사항(경고·금기·적응증 본문) 확보: 현재 허가 적응증 본문과 안전성 정보가 없어 안전성 선별 단계로 진행할 수 없음
+- 작용 기전 데이터 보완(DrugBank 등)
+- 출혈 위험 및 항스트렙토키나제 항체·이전 노출 이력 확인 계획
+- 국내 허가가 수출용이므로 국내 사용 가능성 확인
+- 일차 PCI 및 피브린 선택성 약제와의 비교 위치 설정
+
+## 기타 예측 적응증 요약
+
+| 순위 | 예측 질환 | 예측 점수 | 근거 수준 | 권장 |
+|-----|---------|---------|---------|-----|
+| 2 | 변이형 협심증 (Prinzmetal angina) | 99.80% | L4 | Hold |
+| 3 | 헤모글로빈병증 | 99.76% | L5 | Hold |
+| 4 | 관상동맥 혈전증 | 99.71% | L1 | Proceed with Guardrails |
+| 5 | 중격 심근경색 | 99.71% | L3 | Research Question |
+| 6 | 후하벽 심근경색 | 99.71% | L4 | Hold |
+| 7 | 후측벽 심근경색 | 99.71% | L4 | Hold |
+| 8 | 말초혈관질환 | 99.65% | L3 | Research Question |
+| 9 | 말초동맥질환 | 99.60% | L3 | Research Question |
+| 10 | 16번 염색체 단완 부분 결실 | 99.56% | L5 | Hold |
+
+관상동맥 혈전증의 L1 판정은 인공판막 혈전증 Phase 3 시험에 근거하므로 관상동맥 질환과는 간접적인 관련입니다. 변이형 협심증은 혈관연축이 주 병태여서 혈전용해의 기전적 근거가 약하고, 헤모글로빈병증과 염색체 결실은 임상 근거가 없어 모델 예측만 존재합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -2,7 +2,7 @@
 layout: default
 title: Glatiramer Acetate
 parent: 모델 예측만 (L5)
-nav_order: 350
+nav_order: 378
 evidence_level: L5
 indication_count: 0
 ---

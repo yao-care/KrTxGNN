@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clozapine
-parent: 높은 근거 (L1-L2)
-nav_order: 219
-evidence_level: L2
+parent: 모델 예측만 (L5)
+nav_order: 231
+evidence_level: L5
 indication_count: 10
 ---
 
 # Clozapine
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,116 +29,109 @@ indication_count: 10
 
 </div>
 
-# CLOZAPINE: 치료저항성 조현병에서 양극성 조증 장애로
+# Clozapine: 정신분열병(조현병)에서 조증 양극성 정동장애로
 
 ## 한 문장 요약
 
-Clozapine은 기존 항정신병약에 반응하지 않는 치료저항성 조현병 환자를 위해 전 세계적으로 사용되는 비정형 항정신병약으로, 독보적인 항자살 효과로도 잘 알려져 있습니다. TxGNN 모델은 **양극성 조증 장애(Manic Bipolar Affective Disorder)**를 가장 유망한 신규 적응증으로 예측하며(예측 점수 99.95%), 현재 **6건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다. 한국 내 시판 이력이 전무한 상태로, 임상 도입 전 허가 경로 확보가 선행되어야 합니다.
-
----
+Clozapine은 원래 치료저항성 조현병 등 정신병적 장애 치료에 사용되어 온 비정형 항정신병약입니다.
+TxGNN 모델은 **조증 양극성 정동장애(manic bipolar affective disorder)**에 효과가 있을 수 있다고 예측하며, 해당 예측에 대해 **1건의 임상시험**(Phase 2)과 **20편의 문헌**이 확인되었습니다. 같은 방향의 **양극성 장애(bipolar disorder)** 예측에서는 Phase 3 임상시험까지 확인됩니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 치료저항성 조현병 (한국 허가 없음, 글로벌 승인 기반) |
-| 예측 신규 적응증 | 양극성 조증 장애 (Manic Bipolar Affective Disorder) |
+| 기존 적응증 | 한국 허가사항 문서 링크만 확인되며 적응증 본문은 데이터에 없음 (정신병적 장애, 특히 치료저항성 조현병으로 알려져 있음) |
+| 예측 신규 적응증 | 조증 양극성 정동장애 (Manic bipolar affective disorder) |
 | TxGNN 예측 점수 | 99.95% |
-| 근거 수준 | L2 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Proceed with Guardrails |
-
----
+| 근거 수준 | L2 (조증 예측 기준: 완료된 Phase 2 이중맹검 시험 1건 + 체계적 문헌고찰). 상위 개념인 양극성 장애는 L1 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 6건 |
+| 권장 결정 | Proceed with Guardrails (양극성 장애 전체 기준). 조증 단독 예측은 연구 질문(Research Question) 단계 |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Clozapine은 비정형 항정신병약(atypical antipsychotic)으로서 도파민 D1-D4 수용체, 세로토닌 5-HT2A/2C 수용체, 무스카린 M1-M5 수용체, 히스타민 H1 수용체, 아드레날린 α1/α2 수용체 등에 광범위하게 작용합니다. 다른 항정신병약과 달리 D2 친화력이 상대적으로 낮은 대신 D4 및 5-HT2A에 강한 친화력을 보이며, 이 독특한 다수용체 프로파일이 다른 약제에 반응하지 않는 환자에서의 우월한 효능을 설명합니다.
+이 보고서에 사용된 데이터에는 상세한 작용 기전 정보가 없습니다. 알려진 정보에 따르면 Clozapine은 도파민 D2/D4, 세로토닌 5-HT2A, 무스카린, 아드레날린, 히스타민 수용체를 폭넓게 차단하는 약물입니다. 이런 광범위한 수용체 프로필이 항조증 및 기분 안정화 효과에 기여할 수 있다고 추정됩니다.
 
-조현병과 양극성 조증 장애는 도파민 과활성이라는 공통 병태생리를 공유합니다. Clozapine의 D2/D4 차단 작용은 조증 발작기의 충동 행동을 억제할 수 있으며, 5-HT2C 차단은 기분 안정 효과를 추가적으로 제공합니다. 광범위한 다수용체 차단 패턴은 리튬(lithium) 및 발프로에이트(valproate)와의 병용 시 상호 보완적인 기분 안정 시너지를 기대할 수 있습니다. 또한 FDA가 별도로 승인한 항자살 효과는 자살 위험이 25배 이상 높은 양극성 장애 환자군에 특히 의미 있는 임상적 가치를 제공합니다.
+조현병 등 정신병적 장애와 양극성 장애의 조증은 도파민 신호 이상과 정신병적 증상을 공유합니다. 특히 기존 치료에 반응하지 않거나 부작용으로 약을 쓸 수 없는 치료저항성 조증에서 Clozapine이 대안이 될 수 있습니다. 이 가설은 Phase 2 이중맹검 시험과 체계적 문헌고찰/메타분석으로 뒷받침됩니다.
 
-기전적 근거는 실제 임상 데이터로 뒷받침됩니다. 2020년 체계적 문헌고찰·메타분석(PMID 32182485)과 2015년 체계적 문헌고찰(PMID 25346322)은 치료저항성 양극성 장애에서 Clozapine의 효능을 지지하며, 완료된 Phase 2 이중맹검 RCT(NCT00029458)는 조증 발작기에 대한 가장 직접적인 대조군 근거를 제공합니다. 현재 1,254명 규모의 대형 Phase 3 RCT가 진행 중으로 향후 더 강력한 근거가 확보될 것으로 기대됩니다.
-
----
+다만 시험 규모가 작고(42명), 소아·청소년 대상 Phase 3 시험은 성인에게 그대로 적용하기 어렵습니다. 따라서 근거는 "유망하지만 확정적이지 않음"으로 보는 것이 적절합니다.
 
 ## 임상시험 근거
 
+조증 양극성 정동장애 예측에 직접 연결된 시험은 1건입니다.
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Phase 2 | 완료 | 42 | 치료저항성 조증(양극성 장애 조증기)에서 Clozapine 효능·안전성을 평가한 이중맹검 RCT. 본 적응증에 대한 가장 직접적인 대조군 증거 |
-| [NCT05603104](https://clinicaltrials.gov/study/NCT05603104) | Phase 3 | 모집 중 | 1,254 | 조현병·양극성 우울증·주요 우울증 환자의 1차 치료 실패 후 강화 약물치료 효과를 비교하는 대규모 RCT |
-| [NCT07047651](https://clinicaltrials.gov/study/NCT07047651) | Phase 4 | 모집 중 | 40 | 치료저항성 양극성 장애 환자 대상 회복 지향 프로그램(RECOVERYTRSBDGR)과 약물병합 요법의 효과 평가 |
-| [NCT06993662](https://clinicaltrials.gov/study/NCT06993662) | Phase 1 | 모집 종료(진행 중) | 107 | 정신병성·정동 장애 환자에서 약물치료와 개인 인지행동치료(CBT) 병합 요법 평가 |
-| [NCT03651674](https://clinicaltrials.gov/study/NCT03651674) | N/A | 불명 | 200 | ECT가 조현병·양극성 장애 환자의 뇌 구조·기능 변화에 미치는 영향을 추적한 MRI 종단 연구 |
-| [NCT07398365](https://clinicaltrials.gov/study/NCT07398365) | N/A | 모집 중 | 100 | NHS 성인 정신과 입원환자의 의학적·정신과적 표현형을 특성화하는 관찰 연구 |
+| [NCT00029458](https://clinicaltrials.gov/study/NCT00029458) | Phase 2 | 완료 | 42 | 치료저항성 조증에서 Clozapine의 이중맹검 효능·안전성 평가. 직접 관련되나 규모가 작음 |
 
----
+참고로 상위 개념인 양극성 장애 예측에서는 다음 시험이 추가로 확인됩니다.
+
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT00036582](https://clinicaltrials.gov/study/NCT00036582) | Phase 3 | 완료 | 116 | 소아·청소년 치료불응성 양극성 장애에서 Clozapine vs 위약 |
+| [NCT02562287](https://clinicaltrials.gov/study/NCT02562287) | Phase 4 | 불명 | 54 | 치료저항성 양극성 장애에서 Clozapine vs Olanzapine/Quetiapine/Risperidone |
+| [NCT04580134](https://clinicaltrials.gov/study/NCT04580134) | Phase 4 | 모집 중 | 524 | B-SNIP Biotype-1 정신병에서 Clozapine 반응 (양극성 스펙트럼 환자 포함) |
+| [NCT06011460](https://clinicaltrials.gov/study/NCT06011460) | 해당 없음 | 초청 등록 중 | 30 | 양극성 장애에서 Clozapine 치료 시 이상반응 발생률 관찰 등록 연구 |
+| [NCT05603104](https://clinicaltrials.gov/study/NCT05603104) | Phase 3 | 모집 중 | 1254 | 1차 치료 실패 후 강화 약물치료 RCT (결과 미공개) |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | Systematic Review & Meta-analysis | J Psychiatric Research | 양극성 장애에서 Clozapine의 임상 효능 및 부작용 프로파일을 체계적으로 평가 |
-| [25346322](https://pubmed.ncbi.nlm.nih.gov/25346322/) | 2015 | Systematic Review | Bipolar Disorders | 치료저항성 양극성 장애에서 Clozapine의 효능·안전성에 대한 체계적 문헌고찰 |
-| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Narrative Review | Bipolar Disorders | 양극성 장애에서 Clozapine에 대해 현재까지 알려진 근거와 향후 연구 방향 검토 |
-| [31488793](https://pubmed.ncbi.nlm.nih.gov/31488793/) | 2019 | Clinical Review | Psychiatria Danubina | 양극성 장애 자살 위험에서 Clozapine의 항자살 효과 가능성: 독특한 약리학적 특성 및 항충동 효과 검토 |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Clinical Guideline Review | Acta Psychiatrica Scandinavica | 양극성 조증 치료 근거 기반 가이드라인: 기분안정제 및 항정신병약 선택에 대한 제안 |
-| [40174308](https://pubmed.ncbi.nlm.nih.gov/40174308/) | 2025 | Retrospective Cohort | J Psychiatric Research | **한국** 전국 건강보험 데이터를 활용한 Clozapine·리튬·발프로에이트의 조현병·양극성 장애 환자에서 항자살 효과 비교 |
-| [37068038](https://pubmed.ncbi.nlm.nih.gov/37068038/) | 2023 | Cross-sectional Cohort | J Clinical Psychopharmacology | 아시아 정신과 약물 처방 패턴 컨소시엄의 양극성 장애에서 Clozapine 사용 분석 (한국·대만 포함) |
-| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Review | Molecular Psychiatry | 치료저항성 양극성 장애: 급성 조증·우울·유지 치료 모두에서 불충분한 반응 현황 및 옵션 포괄적 검토 |
-| [11280956](https://pubmed.ncbi.nlm.nih.gov/11280956/) | 2001 | Review | Bulletin of the Menninger Clinic | 치료저항성 양극성 장애에서 Clozapine을 포함한 신규 약물치료 옵션 검토 |
-| [10682225](https://pubmed.ncbi.nlm.nih.gov/10682225/) | 2000 | Case Series Review | Clinical Neuropharmacology | 36명 환자에서 ECT+Clozapine 병합 치료 리뷰: 67% 호전, 대체로 안전하고 내약성 양호 |
-
----
+| [32182485](https://pubmed.ncbi.nlm.nih.gov/32182485/) | 2020 | 체계적 문헌고찰/메타분석 | J Psychiatr Res | 양극성 장애에서 Clozapine의 임상 효능과 이상반응 평가 |
+| [25346322](https://pubmed.ncbi.nlm.nih.gov/25346322/) | 2015 | 체계적 문헌고찰 | Bipolar Disord | 치료저항성 양극성 장애에서 Clozapine의 효능과 안전성 평가 |
+| [41192460](https://pubmed.ncbi.nlm.nih.gov/41192460/) | 2025 | 코호트/효과 연구 | Lancet Psychiatry | 정신병·정동·인격장애 전반에서 Clozapine의 효과와 안전성을 타 항정신병약과 비교 |
+| [33719158](https://pubmed.ncbi.nlm.nih.gov/33719158/) | 2021 | Review | Bipolar Disord | 양극성 장애에서 Clozapine의 현재 지식과 향후 과제 |
+| [16432528](https://pubmed.ncbi.nlm.nih.gov/16432528/) | 2006 | Review | Mol Psychiatry | 치료저항성 양극성 장애의 치료 현황 |
+| [11280956](https://pubmed.ncbi.nlm.nih.gov/11280956/) | 2001 | Review | Bull Menninger Clin | 치료저항성 양극성 장애의 약물 치료 검토 |
+| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | 리뷰 | Acta Psychiatr Scand | 조증의 근거 기반 치료 옵션 정리 |
+| [41262335](https://pubmed.ncbi.nlm.nih.gov/41262335/) | 2025 | 모델 기반 연구 | Drug Des Devel Ther | 양극성 장애에서 Clozapine 약물상호작용과 개인 맞춤 용량 |
+| [10682225](https://pubmed.ncbi.nlm.nih.gov/10682225/) | 2000 | 증례군/Review | Clin Neuropharmacol | ECT와 Clozapine 병용 36례 검토, 67%에서 이득 |
+| [9448668](https://pubmed.ncbi.nlm.nih.gov/9448668/) | 1998 | Review | J Clin Psychiatry | 양극성 장애에서 항정신병약의 역할 |
 
 ## 한국 시판 정보
 
-현재 Clozapine은 한국 내 시판 허가 이력이 없습니다 (허가증 0건). 임상 도입을 위해서는 식품의약품안전처(MFDS)를 통한 신규 품목 허가 신청이 필요하며, 희귀·난치성 정신질환 치료제로의 지정 가능성도 검토할 수 있습니다.
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201804185 | 클자핀정50밀리그램 | 황색의 원형 정제 | 허가사항 문서 참조 |
+| 200307798 | 클로자릴정25밀리그램 | 황색의 원형 정제 | 허가사항 문서 참조 |
+| 201804474 | 클자핀정200밀리그램 | 황색의 장방형 정제 | 허가사항 문서 참조 |
+| 201309789 | 클자핀정100밀리그램 | 황색의 원형정제 | 허가사항 문서 참조 |
+| 200307799 | 클로자릴정100밀리그램 | 황색의 원형 정제 | 허가사항 문서 참조 |
 
----
+그 외 클자핀정25밀리그램(201309790, 동화약품) 1건이 더 있어 총 6건이 모두 유효한 단일제 허가입니다.
+
+## 세포독성
+
+해당 없음 (Clozapine은 항종양약이 아니므로 이 섹션을 생략합니다).
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+허가사항(경고·금기)의 본문은 이번 데이터에 포함되지 않았으므로 허가사항을 참조하세요. 아래는 지식 그래프 기반 금기 질환과 약물 상호작용 정보입니다. 허가 문서 내용이 아닙니다.
 
----
+- **금기로 연결된 질환(지식 그래프 기반)**: 무과립구증, 호중구감소증, 백혈구감소증, 간질(뇌전증), 간질환, 담낭질환, 고혈당, 당뇨병, 당뇨병성 케톤산증, 고지혈증, 관상동맥질환, 비만, 뇌졸중·뇌혈관질환, 폐색전증, 심장 돌연사, 심장 전도질환, 호흡부전, 기립성 저혈압, 저혈압성 질환, 양성 전립선비대증, 폐쇄각 녹내장, 마비성 장폐색 등
+- **약물 상호작용**: 총 100건 확인(상위 20건 표시). 중대(Major) 수준은 Bupropion, Morphine, Potassium citrate입니다. 중등도(Moderate) 수준에는 혈당강하제(Metformin, Pioglitazone, Alogliptin, Acarbose 등), 항콜린제(Atropine, Hyoscyamine, Glycopyrronium), Cimetidine, Omeprazole, Famotidine, Epinephrine, Loperamide 등이 있습니다.
+- **조건부 주의 사항(근거 문헌 기반)**: 절대호중구수(ANC) 모니터링, 심근염·심근병증, 경련 위험, 대사 이상, 변비 및 장폐색, 체중 증가
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Proceed with Guardrails** (양극성 장애 전체 기준). 조증 양극성 정동장애 단독 예측만 보면 근거 수준이 L2이며 연구 질문 단계입니다.
 
 **사유:**
-완료된 Phase 2 이중맹검 RCT(NCT00029458, n=42)와 2건의 체계적 문헌고찰이 치료저항성 양극성 조증에서 Clozapine의 유효성을 지지하며 L2 수준 근거가 확보되어 있습니다. 대규모 Phase 3 RCT(NCT05603104, n=1,254)가 현재 진행 중으로 근거 수준의 추가 상향이 기대됩니다. 단, Clozapine은 무과립구증 등 심각한 부작용 위험이 있어 엄격한 혈액 모니터링 체계가 반드시 수반되어야 합니다.
+조증 예측은 완료된 Phase 2 이중맹검 시험과 체계적 문헌고찰·메타분석이 뒷받침하고, 양극성 장애 전체로는 Phase 3 위약대조 시험(소아·청소년 대상)까지 있습니다. 다만 표본이 작고 성인 대상 대규모 근거가 부족하며, 중대한 안전성 위험(무과립구증, 심근염, 경련 등)이 있어 치료저항성 환자에 한정한 조건부 진행이 적절합니다.
 
 **진행하려면 필요한 것:**
-- MFDS 허가사항 원문 확보 및 안전성 프로파일 완성 (DG001 해소: 무과립구증 모니터링 계획 수립 필수)
-- 상세 작용 기전(MOA) 데이터 보완 (DG002 해소: DrugBank API 조회)
-- 한국 내 허가 경로 확정 (신규 품목허가 또는 희귀의약품 지정)
-- REMS(Risk Evaluation and Mitigation Strategy) 준용 혈액 모니터링 프로토콜 확립
-- 진행 중인 Phase 3 RCT(NCT05603104) 결과 모니터링
+- 한국 허가사항 본문(경고·금기·적응증) 확보 및 분석
+- 상세한 약물 작용 기전(MOA) 데이터 보완
+- 성인 치료저항성 조증 대상의 더 큰 규모 RCT 결과 확인
+- ANC, 대사, 심장 모니터링 및 경련 위험 관리 계획 수립
+- 치료불응 환자로 제한하는 사용 기준 마련
+- 진행 중인 Phase 3(NCT05603104) 및 Phase 4 시험 결과 추적
 
----
-
-## 다중 적응증 요약
-
-본 Evidence Pack(TW-DB00363-multi)은 Clozapine에 대한 TxGNN 상위 10개 예측 적응증을 포함합니다. 아래 표는 전체 예측 결과를 요약합니다.
-
-| 순위 | 적응증 | TxGNN 점수 | 근거 수준 | 임상시험 | 문헌 | 권장 결정 |
-|-----|-------|:----------:|:-------:|:-------:|:---:|---------|
-| 1 | 양극성 조증 장애 | 99.95% | L2 | 6건 | 20편 | Proceed with Guardrails |
-| 2 | 뚜렛 증후군 | 99.91% | L4 | 0건 | 20편 | Research Question |
-| 3 | 발모벽 | 99.90% | L5 | 0건 | 0편 | Hold |
-| 4 | 정신분열증형 장애 | 99.69% | L3 | 6건 | 20편 | Proceed with Guardrails |
-| **5** | **양극성 장애** | **99.62%** | **L1** | **23건** | **20편** | **Proceed with Guardrails** |
-| 6 | 주요 정동 장애 | 99.48% | L3 | 14건 | 20편 | Proceed with Guardrails |
-| 7 | ADHD | 99.31% | L4 | 1건 | 20편 | Hold |
-| 8 | ADHD 주의력결핍형 | 99.21% | L5 | 0건 | 0편 | Hold |
-| **9** | **정신병적 장애** | **99.12%** | **L1** | **50건** | **20편** | **Proceed with Guardrails** |
-| 10 | Malan 과성장 증후군 | 99.02% | L5 | 0건 | 0편 | Hold |
-
-**우선 검토 권장 순서:** 정신병적 장애(순위 9, L1) → 양극성 장애(순위 5, L1) → 양극성 조증 장애(순위 1, L2) → 정신분열증형 장애(순위 4, L3) → 주요 정동 장애(순위 6, L3)
-
-> **참고**: 정신병적 장애(순위 9)는 Clozapine의 전 세계 핵심 승인 적응증으로, L1 수준의 가장 강력한 근거를 보유합니다. 한국 시장 도입 시 정신병적 장애(치료저항성 조현병)를 첫 번째 허가 목표 적응증으로 설정하고, 이후 양극성 장애로의 적응증 확장을 순차적으로 검토하는 전략이 효율적입니다.
+**참고: 다른 예측 신규 적응증 요약**
+- 조현양상장애(schizophreniform disorder), 주요 정동장애: 근거 L1~L2이나 간접적이며 연구 질문 단계
+- 틱장애(Tourette), 발모광, ADHD(주의력결핍 과잉행동장애 및 부주의형), Malan 과성장 증후군: 근거가 약하거나 없고 일부는 Clozapine이 증상을 악화시킬 수 있어 Hold
+- 정신병적 장애: 이미 승인된 핵심 적응증으로, 재창출이 아니라 양성 대조군에 해당
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Brivaracetam
-parent: 중등도 근거 (L3-L4)
-nav_order: 150
-evidence_level: L3
+parent: 모델 예측만 (L5)
+nav_order: 157
+evidence_level: L5
 indication_count: 10
 ---
 
 # Brivaracetam
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,101 @@ indication_count: 10
 
 </div>
 
-# Brivaracetam: 국소 발작에서 시각성 간질로
+# Brivaracetam: 간질(국소 발작 등)에서 시각성 간질로
 
 ## 한 문장 요약
 
-Brivaracetam(BRV)은 SV2A(시냅스 소포 단백질 2A)에 높은 친화력으로 결합하여 신경원의 과도한 방전을 억제하는 3세대 항전간제로, 미국·유럽 등에서 국소 발작(Focal Onset Seizures) 치료에 허가되어 있으나 한국에는 아직 시판되지 않습니다.
-TxGNN 모델은 **시각성 간질(Visual Epilepsy)**에 효과가 있을 것으로 예측하며,
-현재 임상시험 등록은 없으나 **19편의 문헌**이 이 방향을 간접적으로 지지합니다.
-
----
+Brivaracetam은 SV2A(시냅스 소포 단백질 2A)에 결합하는 항경련제로, 한국에서 간질 발작 치료제로 허가·시판되고 있습니다.
+TxGNN 모델은 **시각성 간질(Visual Epilepsy)**에 효과가 있을 수 있다고 예측하지만, 이 적응증을 직접 다룬 임상시험은 없고 문헌 18편도 간질 전반을 다룬 일반 자료입니다.
+한편 2순위 예측인 **간질중첩증(Status Epilepticus)**은 완료된 임상시험 1건과 체계적 문헌고찰 등 상대적으로 더 많은 근거가 있어, 아래에 함께 정리했습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 국소 발작 (Focal Onset Seizures) — 미국 FDA·유럽 EMA 허가 기준, 한국 미허가 |
+| 기존 적응증 | 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문을 확인할 수 없음. 문헌상 국소 발작 치료제로 알려져 있음) |
 | 예측 신규 적응증 | 시각성 간질 (Visual Epilepsy) |
 | TxGNN 예측 점수 | 99.51% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Hold |
+| 근거 수준 | L4 (기전·전임상 수준의 간접 근거) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 |
+| 권장 결정 | Hold (연구 질문 단계) |
 
----
+> 참고: 예측 목록 전체에서는 간질중첩증(L3, Proceed with Guardrails)이 근거가 가장 풍부합니다. 아래 "다른 예측 적응증 요약"을 참조하세요.
 
 ## 이 예측이 타당한 이유는?
 
-시각성 간질(Visual Epilepsy)은 광민감성 간질(Photosensitive Epilepsy)과 후두엽 간질(Occipital Lobe Epilepsy)을 포괄하는 국소 간질의 아형입니다. 빛 자극이나 시각적 패턴이 후두엽 피질의 과도한 신경 방전을 촉발하며, 이는 국소 간질과 동일한 병태생리 기전을 공유합니다.
+현재 상세한 작용 기전 데이터는 이 보고서용 자료에 없습니다. 다만 수집된 문헌에 따르면 Brivaracetam은 levetiracetam보다 SV2A에 15~30배 높은 친화도로 결합하는 항경련제이며, 국소 발작 및 전신 발작에서 항경련 효과가 보고되었습니다. 이는 시냅스 소포 방출과 신경 과흥분을 줄이는 기전으로 이해됩니다.
 
-BRV는 SV2A에 levetiracetam보다 15~30배 높은 친화력으로 결합하고 혈뇌장벽 투과성도 뛰어나, 시냅스 소포의 과도한 신경전달물질 방출을 빠르게 억제합니다. 이 SV2A 조절 기전은 BRV의 허가 적응증인 국소 간질과 완전히 동일한 경로이며, 시각성 간질도 국소 간질의 연장선에 있으므로 기전상 적용 가능성이 충분합니다.
+시각성 간질은 시각 자극으로 유발되는 반사성 간질 아형이어서, 일반적인 항경련 기전이 적용될 가능성은 있습니다. 또한 광과민성(photosensitivity) 모델이 항경련제 평가에 쓰여 왔으며, 관련 문헌(PMID 36528008)이 Brivaracetam과 levetiracetam을 이 모델 관점에서 논의합니다.
 
-특히, 광민감성 모델(Photoparoxysmal Response, PPR)에서의 전임상 연구와 광민감성 간질 환자 대상 초기 임상 연구(PMID 17785672: Neurology 2007; PMID 32949370: CNS Drugs 2020 무작위 이중맹검 교차시험)에서 BRV가 PPR을 억제하는 효과가 직접 검증된 바 있습니다. 이는 TxGNN 예측의 생물학적 타당성을 뒷받침하는 핵심 근거입니다.
-
----
+그러나 수집된 문헌은 간질중첩증 총설, 항경련제 기전, 국소 발작 보조요법 시험 등 일반적 내용이며 시각 유발 발작을 직접 다루지 않습니다. 따라서 기전적 타당성은 "그럴듯하다" 수준이며, 직접 입증된 것은 아닙니다.
 
 ## 임상시험 근거
 
-현재 시각성 간질(Visual Epilepsy)에 대한 Brivaracetam 관련 임상시험 등록이 없습니다.
-
----
+현재 시각성 간질과 관련해 등록된 임상시험이 없습니다.
 
 ## 문헌 근거
 
+시각성 간질에 직접 해당하는 문헌은 없으며, 아래는 간접 근거(우선순위: RCT > Review)입니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [38811492](https://pubmed.ncbi.nlm.nih.gov/38811492/) | 2024 | Narrative Review | Advances in Therapy | BRV 전임상 프로파일 및 임상 효능 종합 검토; SV2A 고친화성 결합, 광민감성 모델 전임상 데이터 포함 |
-| [40568060](https://pubmed.ncbi.nlm.nih.gov/40568060/) | 2025 | Narrative Review | J Epilepsy Res | BRV 약리학·임상 효능·안전성 종합 분석; 고선택적 SV2A 결합 및 혈뇌장벽 신속 투과 특성 확인 |
-| [31195850](https://pubmed.ncbi.nlm.nih.gov/31195850/) | 2019 | Systematic Review | Expert Rev Neurother | 국소 간질에서 BRV 효능·안전성 체계적 고찰; levetiracetam 대비 SV2A 친화력 15~30배 우수 확인 |
-| [38576178](https://pubmed.ncbi.nlm.nih.gov/38576178/) | 2024 | Phase III RCT | Epilepsia Open | 아시아 성인 국소 발작 환자 대상 BRV Phase III 무작위 이중맹검 위약 대조 시험; 효능 및 안전성 확인 |
-| [38970892](https://pubmed.ncbi.nlm.nih.gov/38970892/) | 2024 | Observational / Registry | Epilepsy & Behavior | 고령·청장년 간질 환자에서 BRV 효과 및 내약성 비교 (EXPERIENCE 연구 풀링 분석) |
-| [39664134](https://pubmed.ncbi.nlm.nih.gov/39664134/) | 2024 | Systematic Review | Cureus | 성인·소아 간질 관리에서 BRV 역할, 이전 항전간제 전환 이유 및 효능 체계적 고찰 |
-| [31937513](https://pubmed.ncbi.nlm.nih.gov/31937513/) | 2020 | Pooled Analysis | Epilepsy & Behavior | 국소 발작 보조요법으로 BRV 안전성·내약성 심층 풀링 분석 |
-| [37483441](https://pubmed.ncbi.nlm.nih.gov/37483441/) | 2023 | Systematic Review / Meta-analysis | Front Neurol | 소아 간질에서 BRV 안전성·효능 체계적 고찰 및 메타분석 |
-| [26165169](https://pubmed.ncbi.nlm.nih.gov/26165169/) | 2015 | Meta-analysis | Expert Opin Pharmacother | 부분 발작 보조요법으로 BRV 용량별 효능·안전성 메타분석; 위약 대비 유의한 발작 감소 확인 |
-| [32120063](https://pubmed.ncbi.nlm.nih.gov/32120063/) | 2020 | Mechanistic Review | Neuropharmacology | 현행 항전간제 작용 기전 종합 고찰; SV2A를 통한 신경원 과흥분 억제 기전 상세 기술 |
+| [38576178](https://pubmed.ncbi.nlm.nih.gov/38576178/) | 2024 | RCT (Phase 3) | Epilepsia Open | 조절되지 않는 국소 발작 아시아 성인에서 보조요법 Brivaracetam의 효능·안전성·내약성 평가 |
+| [38811492](https://pubmed.ncbi.nlm.nih.gov/38811492/) | 2024 | Review | Advances in Therapy | Brivaracetam은 SV2A 친화도가 levetiracetam보다 15~30배 높고, 전임상 및 임상적 이점을 정리 |
+| [35061214](https://pubmed.ncbi.nlm.nih.gov/35061214/) | 2022 | 체계적 문헌고찰/네트워크 메타분석 | Drugs | 국소 발작 보조요법으로 쓰이는 3세대 항경련제(Brivaracetam 포함) 비교 |
+| [32120063](https://pubmed.ncbi.nlm.nih.gov/32120063/) | 2020 | Review | Neuropharmacology | 현재 사용되는 항경련제의 작용 기전 정리 |
+| [38117319](https://pubmed.ncbi.nlm.nih.gov/38117319/) | 2024 | Review | Intensive Care Medicine | 중환자실에서의 간질중첩증 관리 |
+| [37684052](https://pubmed.ncbi.nlm.nih.gov/37684052/) | 2023 | Review | BMJ | 임신·수유 중 간질 관리 |
+| [31195850](https://pubmed.ncbi.nlm.nih.gov/31195850/) | 2019 | Review | Expert Rev Neurother | 국소 간질에서 Brivaracetam의 효능과 안전성 |
+| [40568060](https://pubmed.ncbi.nlm.nih.gov/40568060/) | 2025 | Review | J Epilepsy Res | Brivaracetam의 약리, 임상 효능, 안전성 |
+| [37483441](https://pubmed.ncbi.nlm.nih.gov/37483441/) | 2023 | 체계적 문헌고찰/메타분석 | Front Neurol | 소아 간질에서 Brivaracetam의 안전성·효능 |
+| [26664121](https://pubmed.ncbi.nlm.nih.gov/26664121/) | 2015 | Review | Neuropsychiatr Dis Treat | Brivaracetam의 프로파일과 간질 치료 잠재력 |
 
----
+## 다른 예측 적응증 요약
+
+| 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 비고 |
+|------|-----------|-----------|----------|------|
+| 2 | 간질중첩증 (Status Epilepticus) | 99.40% | L3 | 소아 대상 IV Brivaracetam vs levetiracetam 임상시험 [NCT07163572](https://clinicaltrials.gov/study/NCT07163572) (Phase 해당 없음, 완료, 152명). 체계적 문헌고찰 2건([32278203](https://pubmed.ncbi.nlm.nih.gov/32278203/), [41838218](https://pubmed.ncbi.nlm.nih.gov/41838218/))은 대부분 관찰·후향 자료를 요약. Phase 3 RCT 근거는 없음 |
+| 3 | 청각유발 발작 (Audiogenic seizures) | 99.19% | L4 | 마우스 등 전임상 근거만 있음 |
+| 4~8 | 섭식·오르가즘·사고·배뇨 유발 발작, 놀람 간질 | 99.19% | L4~L5 | 직접 근거 없음 (예측만 존재) |
+| 9 | 베타-케토티올라제 결핍증 | 99.14% | L5 | SV2A 기전과의 연관성이 불분명하며, 그래프 기반 인공 예측일 가능성이 높음 |
+| 10 | 청각 증상을 동반한 상염색체 우성 간질 | 99.10% | L5 | 직접 근거 없음 |
 
 ## 한국 시판 정보
 
-Brivaracetam은 현재 한국에 허가된 제품이 없습니다.
+허가 적응증 본문은 PDF 링크로만 제공되어 요약할 수 없습니다. 허가사항은 식약처 의약품안전나라에서 확인하세요.
 
----
+| 허가번호 | 제품명 | 제형 | 제조사 |
+|---------|------|------|-------|
+| 201901308 | 브리비액트정25밀리그램 | 필름코팅정 | 한국유씨비제약 |
+| 201901309 | 브리비액트정50밀리그램 | 필름코팅정 | 한국유씨비제약 |
+| 201901307 | 브리비액트정10밀리그램 | 필름코팅정 | 한국유씨비제약 |
+| 201901306 | 브리비액트액 | 액제 | 한국유씨비제약 |
+| 202502767 | 부리팜정25밀리그램 | 필름코팅정 | 명인제약 |
+
+전체 20건이 모두 유효한 단일제 허가이며, 취소된 허가는 없습니다. 오리지널(브리비액트) 외에 2025년 허가된 다수의 제네릭이 있습니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+**약물 상호작용**: 총 69건이 확인되었으며, 이 중 주요 항목은 다음과 같습니다.
+- **중등도(Moderate)**: Morphine, Opium, Dronabinol, Nabilone, Metoclopramide, Sibutramine, Difenoxin, Diphenoxylate, Ethanol, Promethazine, Clopidogrel 등. 중추신경계 억제가 겹칠 수 있는 약물이 다수 포함됩니다.
+- **경미(Minor)**: Omeprazole, Esomeprazole, Lansoprazole, Pantoprazole, Dexlansoprazole, Chlorpropamide, Tolbutamide, Cilostazol 등
 
----
+그 밖의 경고·금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Hold**
+**결정: Hold** (시각성 간질 기준; 연구 질문 단계)
 
 **사유:**
-시각성 간질은 BRV 허가 적응증인 국소 간질의 아형으로 기전적 타당성은 충분하나, 이 특정 적응증을 직접 대상으로 한 임상시험이 없으며 BRV 자체가 한국에 허가·시판되지 않아 현 단계에서는 탐색적 연구 질문으로 분류됩니다.
+시각성 간질에 대한 임상시험이 없고 문헌도 일반적·간접적이어서 근거 수준은 L4입니다. 기전적으로 그럴듯하나 직접 입증이 없습니다. 참고로 간질중첩증은 L3로 Proceed with Guardrails 수준이므로 우선 검토 대상이 될 수 있습니다.
 
 **진행하려면 필요한 것:**
-- 한국 식품의약품안전처 허가 취득 선행 (미국 FDA/유럽 EMA 허가 자료 기반 신청 검토)
-- 상세 작용 기전(MOA) 데이터 확보 (DrugBank DB05541 API 조회)
-- 허가사항 경고·금기사항 정보 확인 (FDA/EMA 허가 사항 PDF 파싱)
-- 광민감성 간질(Photosensitive Epilepsy) 특화 임상 연구 설계 검토
-- 광민감성 모델(PPR) 관련 기존 데이터(PMID 17785672, 32949370)를 근거로 개념증명 연구 계획 수립
-
-> **참고:** 10개 예측 적응증 중 **2위인 뇌전증 중첩증(Status Epilepticus)**은 근거 수준 L2, 권장 결정 **Proceed with Guardrails**로 평가됩니다. IV BRV의 SE 치료 효능을 직접 검증한 소아 대상 비교 임상시험(NCT07163572, N=152, 완료)이 존재하며, 2건의 체계적 문헌고찰(PMID 32278203, 31342405)을 포함한 20편의 문헌이 지지합니다. 한국 시판 허가 취득 후 SE 적응증 확장 연구를 우선 검토할 것을 권장합니다.
+- 시각 유발 발작·광과민성 간질에서 Brivaracetam을 직접 평가한 연구(예: 광과민성 모델의 광발작 반응 평가) 확보
+- 허가사항(경고, 금기, 적응증 본문) 확보 및 분석. 현재 PDF 링크만 있어 안전성 선별을 진행할 수 없음
+- 작용 기전(MOA) 데이터 보완
+- (간질중첩증 경로) NCT07163572의 설계(무작위·눈가림 여부)와 결과 확인, 성인 대상 Phase 3 RCT 근거 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

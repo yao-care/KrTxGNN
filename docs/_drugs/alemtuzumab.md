@@ -2,7 +2,7 @@
 layout: default
 title: Alemtuzumab
 parent: 모델 예측만 (L5)
-nav_order: 34
+nav_order: 35
 evidence_level: L5
 indication_count: 0
 ---

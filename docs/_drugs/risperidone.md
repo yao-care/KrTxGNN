@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Risperidone
-parent: 높은 근거 (L1-L2)
-nav_order: 606
-evidence_level: L1
+parent: 모델 예측만 (L5)
+nav_order: 659
+evidence_level: L5
 indication_count: 6
 ---
 
 # Risperidone
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **6** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,106 +29,85 @@ indication_count: 6
 
 </div>
 
-# Risperidone: 조현병·양극성 조증에서 정동장애(치료저항성 우울증 보조요법)로
+# Risperidone: 항정신병약(조현병 등)에서 가족성 수평 시선마비 및 진행성 척추측만증으로
 
 ## 한 문장 요약
 
-> Risperidone은 임상시험 근거상 조현병 및 양극성 조증 치료에 사용되어 온 비정형 항정신병제입니다.
-> TxGNN 모델은 이번 Evidence Pack에서 총 6개 적응증을 예측했는데, 이 중 **정동장애(Major Affective Disorder)**가
-> 가장 강력한 실증 근거를 보였습니다 — 현재 **36건의 임상시험**(다수의 완료된 Phase 3 RCT 포함)과
-> **20편의 문헌**(체계적 문헌고찰·메타분석 다수)이 이 방향을 지지합니다.
-> 나머지 5개 예측(안구운동마비 증후군, 아스퍼거 증후군 감수성 등 희귀 유전질환)은
-> TxGNN 점수는 높지만 실제 근거가 없거나(L5) 기전적 타당성이 낮아 모두 보류(Hold) 판정되었으며 본 보고서에서는 다루지 않습니다.
-
----
+Risperidone은 도파민 D2/세로토닌 5-HT2A 수용체 길항제 계열의 비정형 항정신병약으로, 한국에서는 정신질환 치료제로 허가·시판되고 있습니다.
+TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(gaze palsy, familial horizontal, with progressive scoliosis)**에 효과가 있을 수 있다고 예측하며, 예측 점수는 높지만 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다.
+이 예측은 모델 점수에만 근거하고 있어 현재로서는 실제 근거가 없는 가설 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 조현병 및 양극성 조증 (임상시험 자료 기반 확인, 국내 허가 자료는 없음) |
-| 예측 신규 적응증 | 정동장애 / 치료저항성 우울증 보조요법 (Major Affective Disorder) |
-| TxGNN 예측 점수 | 99.11% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Proceed with Guardrails |
-
----
+| 기존 적응증 | 허가증에 적응증 본문 없이 PDF 링크만 있어 본문을 확인할 수 없음 (일반적으로 조현병 등 정신질환에 쓰이는 비정형 항정신병약) |
+| 예측 신규 적응증 | 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) |
+| TxGNN 예측 점수 | 99.76% |
+| 근거 수준 | L5 (모델 예측만 있음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 (모두 유효, 단일제) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-공식 DrugBank 작용기전(MOA) 데이터는 아직 확보되지 않았습니다(Data Gap, 심각도: High). 다만 Evidence Pack에 포함된 임상시험·근거 자료에 따르면, Risperidone은 D2 도파민 수용체와 5-HT2A 세로토닌 수용체를 동시에 길항하는 제2세대(비정형) 항정신병약물로 알려져 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. Risperidone은 D2/5-HT2A 길항 작용을 가진 항정신병약으로 알려져 있습니다.
 
-이 기전은 이미 조현병뿐 아니라 양극성 조증의 핵심 치료 기전으로 확립되어 있으며, 여러 대규모 Phase 3 RCT에서 소아·성인 양극성장애의 급성 조증 및 유지요법에 대한 단독/병용 효능이 입증되었습니다. 나아가 세로토닌-도파민 이중 조절 특성 때문에 치료저항성 주요우울장애(TRD)에서 SSRI/SNRI에 대한 증강요법(augmentation)으로도 폭넓게 연구되어 왔습니다.
-
-즉 "정동장애"로의 확장은 완전히 새로운 가설이라기보다, 이미 임상에서 광범위하게 활용되고 여러 국가에서 부분적으로 허가·가이드라인화된 사용 패턴을 TxGNN이 지식그래프상에서 재확인한 결과에 가깝습니다.
-
----
+예측된 질환은 ROBO3 관련 희귀 유전질환으로, 축삭 유도와 뇌간 발달의 이상이 원인입니다. Risperidone의 수용체 길항 작용과 이 병리 사이에서는 개연성 있는 기전적 연결고리를 찾지 못했습니다. 높은 TxGNN 점수는 지식 그래프 기반 예측일 뿐, 약리학적·임상적 타당성을 입증하지 않습니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00107939](https://clinicaltrials.gov/study/NCT00107939) | Phase 3 | 완료 | 453 | Licarbazepine 부가요법 vs 위약, risperidone 등 비정형 항정신병제 병용 하 양극성 조증 치료 |
-| [NCT00095134](https://clinicaltrials.gov/study/NCT00095134) | Phase 3 | 완료 | 630 | 항우울제 반응 불충분 주요우울장애에서 risperidone 부가요법 vs 위약, 이중맹검 |
-| [NCT00391222](https://clinicaltrials.gov/study/NCT00391222) | Phase 3 | 완료 | 585 | 양극성 I 장애 기분삽화 재발 방지에서 risperidone 지속형 주사제(LAI) vs 위약 |
-| [NCT00057681](https://clinicaltrials.gov/study/NCT00057681) | Phase 3 | 완료 | 379 | TEAM 연구: 소아·청소년 조증에서 lithium/valproate/risperidone 비교 |
-| [NCT00044681](https://clinicaltrials.gov/study/NCT00044681) | Phase 3 | 완료 | 258 | 치료저항성 단극성 우울증에서 SSRI + risperidone 증강요법 장기 유지 효과 |
-| [NCT01888107](https://clinicaltrials.gov/study/NCT01888107) | Phase 3 | 완료 | 347 | 조현병·조현정동장애에서 risperidone LAI 임상반응 유지 |
-| [NCT00277654](https://clinicaltrials.gov/study/NCT00277654) | Phase 3 | 완료 | 111 | 불안 동반 양극성장애 외래환자에서 risperidone 단독요법 vs 위약 |
-| [NCT00176202](https://clinicaltrials.gov/study/NCT00176202) | Phase 3 | 완료 | 65 | 소아 양극성장애에서 risperidone vs divalproex sodium, MRI 회로 분석 병행 |
-| [NCT00221403](https://clinicaltrials.gov/study/NCT00221403) | Phase 3 | 완료 | 46 | 3–7세 양극성장애 소아에서 valproate·risperidone 위약대조 시험 |
-| [NCT01282632](https://clinicaltrials.gov/study/NCT01282632) | Phase 1/2 | 완료 | 42 | 치료저항성 우울증에서 risperidone vs olanzapine, SSRI 부가요법 이중맹검 예비시험 |
-
-*(위 10건 외 총 36건의 관련 임상시험이 등록되어 있으며, 다수가 소아·청소년 양극성장애 및 치료저항성 우울증 영역입니다.)*
-
----
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [17975181](https://pubmed.ncbi.nlm.nih.gov/17975181/) | 2007 | RCT | Annals of Internal Medicine | 치료저항성 주요우울장애에서 risperidone 무작위 대조 시험 |
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | 체계적 문헌고찰/네트워크 메타분석 | J Affect Disord | 치료저항성 우울증 증강요법제 간 효능·중단율 비교 |
-| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | 체계적 문헌고찰/메타분석 | J Psychopharmacol | 초기단계 치료저항성 우울증 부가/병용요법 효능 종합분석 |
-| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | 메타분석 | J Psychopharmacol | 항우울제+2세대 항정신병제 vs esketamine vs lithium 병용요법 비교 |
-| [35510505](https://pubmed.ncbi.nlm.nih.gov/35510505/) | 2023 | 체계적 문헌고찰 | Psychological Medicine | 성인 주요우울장애에서 항정신병제 단독/부가요법 효능·내약성 |
-| [21154393](https://pubmed.ncbi.nlm.nih.gov/21154393/) | 2010 | Cochrane 리뷰 | Cochrane Database Syst Rev | 주요우울장애·기분부전증에서 2세대 항정신병제 효과 |
-| [24919175](https://pubmed.ncbi.nlm.nih.gov/24919175/) | 2014 | 메타분석 | Braz J Med Biol Res | 17개 시험·3,807명 대상 비정형 항정신병제 항우울제 증강요법 메타분석 |
-| [25295435](https://pubmed.ncbi.nlm.nih.gov/25295435/) | 2014 | 전국 인구기반 코호트 | J Clin Psychiatry | Aripiprazole/olanzapine/quetiapine/risperidone 증강요법 실제 효과 비교 |
-| [7545159](https://pubmed.ncbi.nlm.nih.gov/7545159/) | 1995 | 임상연구 | J Clin Psychiatry | Risperidone의 정동질환·강박장애 치료 가능성에 대한 초기 임상 관찰 |
-| [21189367](https://pubmed.ncbi.nlm.nih.gov/21189367/) | 2011 | 문헌고찰 | Annals of Pharmacotherapy | 주요우울장애 증강치료로서 risperidone 효능·안전성 리뷰 |
+현재 관련 문헌이 없습니다.
 
-*(총 20편의 관련 문헌이 확인되었습니다.)*
+## 다른 예측 적응증 참고
 
----
+이 약물에는 다른 예측 적응증도 있으며, 근거 수준은 질환마다 크게 다릅니다.
+
+| 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 권장 결정 | 비고 |
+|------|-----------|-----------|---------|---------|------|
+| 2 | 아스퍼거 증후군 감수성 | 99.74% | L5 | Hold | 자폐 관련 과민성에 대한 허가 사례는 있으나 이 항목 자체의 근거는 없음 |
+| 3 | 아멜로세레브로저한성 증후군 | 99.69% | L5 | Hold | 기전 근거 및 연구 없음 |
+| 4 | Phelan-McDermid 증후군 | 99.59% | L4 | Research Question | 리뷰 1편, 제브라피시 연구 1편. 인체 시험 없음 |
+| 5 | 발모벽 (trichotillomania) | 99.51% | L4 | Research Question | 증례 보고·증례 시리즈 중심. 대조 시험 없음 |
+| 6 | 주요 정동장애 (major affective disorder) | 99.11% | L1 | Proceed with Guardrails | 항우울제 불응성 우울증에서 보조요법 Phase 3 완료 시험 2건(NCT00095134, n=630; NCT00044681, n=258)과 양극성장애 Phase 3 시험 1건(NCT00277654, n=111) |
+
+이 중 근거가 가장 풍부한 것은 6순위(주요 정동장애)입니다. 이 보고서가 다루는 1순위 질환과는 별개의 평가 대상입니다.
 
 ## 한국 시판 정보
 
-현재 한국에서 Risperidone의 허가·시판 이력이 이 Evidence Pack에는 확인되지 않습니다(허가증 0건, 미시판 상태).
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201701456 | 리스펜오디정1밀리그램 | 구강붕해정 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701456/EE) 참조 |
+| 200400317 | 리스프리정2밀리그램 | 필름코팅정 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400317/EE) 참조 |
+| 201707618 | 리스달정2밀리그램 | 필름코팅정 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707618/EE) 참조 |
+| 202102658 | 리스페달정0.5밀리그램 (한국얀센) | 필름코팅정 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102658/EE) 참조 |
+| 202502344 | 유제디원엠주50밀리그램 (한독테바) | 서방형 주사제 | [허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502344/EE) 참조 |
 
----
+전체 20건 중 5건만 표시했습니다. 허가 적응증 본문은 이번 데이터에 텍스트로 수록되어 있지 않고 허가사항 PDF 링크로만 제공됩니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요. (TFDA/식약처 라벨상 경고·금기·상호작용 데이터는 아직 확보되지 않은 Blocking 등급 Data Gap입니다.)
+허가사항의 경고 및 금기 본문은 이번 데이터에 포함되지 않았으므로 허가사항을 참조하세요.
 
----
+- **지식 그래프 기반 금기 질환 (허가 문구가 아님)**: 기립성 저혈압, 다계통 위축증, 간부전·간질환, 간질, 당뇨병·고혈당·당뇨병성 케톤산증, 호중구감소증·무과립구증, 고지혈증, 비만, 뇌졸중·뇌혈관 질환, 심근경색, 심장 전도 질환 등 30개 질환이 연결되어 있습니다. 실제 금기 여부는 허가사항으로 확인해야 합니다.
+- **약물 상호작용**: 총 100건이 조회되었습니다. 이 중 **주요(Major) 상호작용**으로 확인된 약물은 Bupropion, Morphine입니다. 중등도(Moderate) 상호작용에는 Metformin, Epinephrine, Hydrocortisone, Atropine, Canagliflozin, Alogliptin 등이 있습니다. 경미(Minor) 상호작용에는 Ranitidine이 있습니다.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-- 정동장애(양극성 조증, 치료저항성 우울증 증강요법) 방향은 다수의 완료된 Phase 3 RCT와 체계적 문헌고찰/메타분석으로 뒷받침되는 L1 수준 근거를 갖추고 있어, 순수 모델 예측을 넘어선 실질적 임상 활용 근거가 존재합니다.
-- 다만 이 약물은 국내(한국) 시판 이력이 없고, 안전성 라벨(경고/금기)과 공식 MOA 자료가 아직 확보되지 않아(Blocking/High Data Gap) 즉시 진행보다는 안전장치를 두고 진행해야 합니다.
+예측 점수는 높지만 임상시험과 문헌이 전혀 없고, 질환의 병리(ROBO3 관련 축삭 유도 이상)와 risperidone의 약리 작용 사이에서 기전적 연결고리도 찾지 못했습니다. 모델 예측만으로는 진행 근거가 되지 않습니다.
 
 **진행하려면 필요한 것:**
-- 식약처(MFDS) 라벨상 경고·금기사항 확보 (DG001, Blocking — S1 안전성 초평가 진입 전제조건)
-- DrugBank 공식 작용기전(MOA) 데이터 확보 (DG002, High)
-- 한국 내 허가/시판 전략 수립 (현재 미시판 상태이므로 정동장애 적응증 확대 이전에 기본 허가 경로 검토 필요)
-- 정동장애 적응증에 대해 이미 허가한 해외 규제기관 라벨(예: 조증 부가요법 승인국)과의 비교 검토
+- 허가사항 PDF에서 경고·금기·적응증 본문 확보 (현재 안전성 1차 검토의 차단 요소)
+- 상세한 작용 기전(MOA) 데이터 확보
+- 이 질환과 risperidone을 연결하는 전임상·기전 연구 또는 증례 근거
+- 우선순위 재검토: 근거가 더 풍부한 다른 예측 적응증, 특히 주요 정동장애를 먼저 평가하는 방안
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

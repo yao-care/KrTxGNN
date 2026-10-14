@@ -2,7 +2,7 @@
 layout: default
 title: Tegafur
 parent: 높은 근거 (L1-L2)
-nav_order: 660
+nav_order: 719
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,88 +29,114 @@ indication_count: 10
 
 </div>
 
-# Tegafur: 위암에서 대장 종양으로
+# Tegafur: 대장 종양(Colonic Neoplasm)으로의 근거 확인
 
 ## 한 문장 요약
 
-Tegafur는 5-FU(5-fluorouracil)의 경구 전구약물로, UFT(tegafur+uracil)나 S-1(tegafur+gimeracil+oteracil) 등 복합제 형태로 위암 화학요법에 널리 사용되어 온 성분입니다.
-TxGNN 모델은 **대장 종양(Colonic Neoplasm)**에도 효과가 있을 것으로 예측하며,
-현재 **30건의 임상시험**(다수의 완료된 Phase 3 RCT 포함)과 **20편의 문헌**이 이 방향을 강하게 지지합니다.
+Tegafur는 5-FU의 경구 전구약물로, 한국에서 단일제 캡슐 제품으로 허가·시판되고 있습니다.
+TxGNN 모델은 **대장 종양(Colonic Neoplasm)**에 효과가 있을 수 있다고 예측하며, 현재 **17건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다.
+다만 대장암은 tegafur 병용제가 이미 여러 지역에서 사용되는 적응증이므로, 새로운 재창출이라기보다 기존 사용의 근거 확인에 가깝습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 위암 (일반적으로 알려진 사용 — 한국 내 허가 이력 없음) |
+| 기존 적응증 | 확인 불가 (허가 적응증 텍스트가 링크 형태로만 제공되어 내용 확인 불가) |
 | 예측 신규 적응증 | 대장 종양 (Colonic Neoplasm) |
 | TxGNN 예측 점수 | 99.90% |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | 미출시 |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 5건 |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터가 없습니다. 알려진 정보에 따르면, Tegafur는 fluoropyrimidine 계열 세포독성 항암제이며 5-FU의 경구 전구약물로, UFT나 S-1과 같은 복합제의 핵심 성분입니다. 5-FU는 티미딜산 합성효소(thymidylate synthase)를 억제하여 DNA 합성을 차단함으로써 항종양 효과를 나타냅니다.
+현재 상세한 작용 기전 데이터(DrugBank 기준)는 없습니다. 다만 약리학적으로 잘 알려진 바에 따르면, tegafur는 5-fluorouracil(5-FU)의 경구 전구약물로 주로 간 CYP2A6에 의해 5-FU로 전환됩니다. 이후 티미딜레이트 합성효소(thymidylate synthase)를 억제하고 RNA/DNA에 삽입되어 항종양 효과를 나타내며, 이는 대장 선암과 직접 관련됩니다.
 
-위암과 대장 종양은 모두 소화관 상피에서 기원하는 선암으로, 5-FU 계열 약물에 대한 반응 기전이 유사합니다. 실제로 Tegafur 기반 복합제(UFT, S-1)는 이미 대장암 보조/전이성 치료에서 다수의 대규모 Phase 3 RCT를 통해 효능이 입증되어 있어, TxGNN 예측의 기전적 타당성을 뒷받침합니다.
+복합제에서는 보조 성분이 이를 보완합니다. UFT(tegafur-uracil)에서는 uracil이 DPD를 억제해 5-FU 분해를 늦추고, S-1에서는 gimeracil과 oteracil이 유사한 조절 및 소화관 보호 역할을 합니다.
+
+위암과 대장암은 모두 소화관 선암으로 5-FU 계열 약물에 반응하는 공통 기전을 갖습니다. 대장암은 이미 많은 지역에서 tegafur 병용제의 확립된 사용 분야입니다.
 
 ## 임상시험 근거
 
+관련성이 높은 시험 10건을 표로 정리했습니다.
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00392899](https://clinicaltrials.gov/study/NCT00392899) | Phase 3 | 완료 | 2025 | 완치 절제된 Stage II 대장암에서 tegafur-uracil 보조화학요법 vs 관찰 비교 |
-| [NCT00378716](https://clinicaltrials.gov/study/NCT00378716) | Phase 3 | 완료 | 1608 | 절제된 Stage II/III 대장암에서 UFT+LV vs 5-FU+LV 비교 |
-| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | 완료 | 1535 | Stage III 대장암 보조요법으로 UFT+LV vs TS-1 비교, 유전자 발현 기반 예측인자 탐색 |
-| [NCT00898846](https://clinicaltrials.gov/study/NCT00898846) | N/A | 완료 | 1111 | UFT 보조화학요법을 받은 Stage II 대장암 환자의 예후인자 규명 |
-| [NCT00152230](https://clinicaltrials.gov/study/NCT00152230) | Phase 3 | 완료 | 900 | Dukes C 대장직장암에서 UFT 보조요법 vs 수술 단독 비교(NSAS-CC) |
-| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | 불명 | 1191 | Stage III 대장직장암 보조요법으로 SOX(옥살리플라틴+S-1) vs XELOX 비교 |
-| [NCT00209742](https://clinicaltrials.gov/study/NCT00209742) | Phase 3 | 불명 | 340 | Stage III 대장직장암 술후 UFT+LV/UFT+PSK 병용요법 비교 |
-| [NCT00439517](https://clinicaltrials.gov/study/NCT00439517) | Phase 2 | 완료 | 302 | 전이성 대장암 1차 치료로 FOLFOX+Cetuximab vs UFOX(UFT 포함)+Cetuximab 비교 |
-| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | Phase 3 | 완료 | 161 | 전이성 대장직장암 1차 치료로 S-1 vs Capecitabine 안전성 비교(SALTO 연구) |
-| [NCT00905047](https://clinicaltrials.gov/study/NCT00905047) | Phase 3 | 완료 | 89 | 진행성/전이성 대장직장암에서 Xeloda vs UFT+엽산 교차 비교 |
+| [NCT00378716](https://clinicaltrials.gov/study/NCT00378716) | Phase 3 | 완료 | 1,608 | 2~3기 결장암 수술 후 UFT+LV vs 5-FU+LV 비교 |
+| [NCT00152230](https://clinicaltrials.gov/study/NCT00152230) | Phase 3 | 완료 | 900 | Dukes C 대장암에서 수술 후 보조 UFT vs 수술 단독 비교 |
+| [NCT00392899](https://clinicaltrials.gov/study/NCT00392899) | Phase 3 | 완료 | 2,025 | 근치 절제된 2기 결장암에서 UFT vs 관찰 비교 |
+| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | 완료 | 1,535 | 3기 결장암 보조요법으로 UFT+LV vs TS-1 비교 |
+| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | 상태 불명 | 1,191 | 3기 대장암 보조요법으로 SOX vs XELOX 비교 |
+| [NCT00385970](https://clinicaltrials.gov/study/NCT00385970) | Phase 3 | 상태 불명 | 380 | 2B/3기 대장암에서 UFT+PSK vs UFT+LV 비교 (PSK 추가 효과 검증) |
+| [NCT00209742](https://clinicaltrials.gov/study/NCT00209742) | Phase 3 | 상태 불명 | 340 | 3기 대장암 수술 후 UFT+LV, UFT+LV/UFT, UFT+LV+PSK/UFT+PSK 3가지 요법 비교 |
+| [NCT00905047](https://clinicaltrials.gov/study/NCT00905047) | Phase 3 | 완료 | 89 | 진행성·전이성 대장암에서 Xeloda vs UFT 환자 선호도 교차 비교 (효능 평가 아님) |
+| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Phase 2 | 상태 불명 | 40 | 재발성 대장직장암에서 S-1 + 베바시주맙 |
+| [NCT01225744](https://clinicaltrials.gov/study/NCT01225744) | Phase 2 | 완료 | 47 | 전이성 대장직장암 1차 치료로 세툭시맙, 이리노테칸, 옥살리플라틴, UFT 병용 (tegafur 기여도 분리 어려움) |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT (ACTS-CC 02) | Clinical Colorectal Cancer | 고위험 Stage III 대장암에서 S-1+옥살리플라틴(SOX)의 UFT/LV 대비 우월성 검증 Phase 3 시험 |
-| [33714860](https://pubmed.ncbi.nlm.nih.gov/33714860/) | 2021 | RCT (ACTS-CC 02, 업데이트) | ESMO Open | ACTS-CC 02의 5년 생존율 업데이트 및 병기별 하위군 분석 |
-| [16648506](https://pubmed.ncbi.nlm.nih.gov/16648506/) | 2006 | RCT (NSABP C-06) | Journal of Clinical Oncology | Stage II/III 대장암에서 경구 UFT+LV와 정맥 5-FU+LV의 무병생존율·전체생존율 비교 |
-| [26347106](https://pubmed.ncbi.nlm.nih.gov/26347106/) | 2015 | RCT (JFMC33-0502) | Annals of Oncology | Stage IIB/III 대장암 보조화학요법으로서 UFT/LV의 최적 투여 기간 규명 |
-| [33950962](https://pubmed.ncbi.nlm.nih.gov/33950962/) | 2021 | 코호트 연구/메타분석 | Medicine | 대만 국가건강보험 데이터 기반, Stage II/III 대장암에서 UFT vs 5-FU 보조화학요법 효과 비교 |
-| [35168560](https://pubmed.ncbi.nlm.nih.gov/35168560/) | 2022 | 전향적 관찰연구 (JFMC46-1201) | BMC Cancer | 재발 위험인자 보유 Stage II 대장암에서 UFT/LV 효능의 성향점수매칭 분석 |
-| [38833114](https://pubmed.ncbi.nlm.nih.gov/38833114/) | 2024 | 전향적 관찰연구 (JFMC46-1201, 최종분석) | International Journal of Clinical Oncology | 고위험 Stage II 대장암 UFT/LV 보조요법의 5년 전체생존율 최종 결과 |
-| [15108041](https://pubmed.ncbi.nlm.nih.gov/15108041/) | 2004 | RCT | International Journal of Clinical Oncology | 대장직장암에서 OK-432 면역화학요법과 UFT 병용의 효과·안전성 검증 |
-| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Review | Clinical Colorectal Cancer | 아시아 지역 전이성 대장직장암 치료 가이드라인 합의(fluoropyrimidine 계열 포함) |
-| [17952521](https://pubmed.ncbi.nlm.nih.gov/17952521/) | 2007 | Review | Surgery Today | UFT(tegafur+uracil)의 폐암·위암·대장직장암·유방암 보조화학요법 임상 근거 및 기전 총설 |
+| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT | Clin Colorectal Cancer | 고위험 3기 결장암에서 SOX vs UFT/LV 보조요법 비교 (ACTS-CC 02) |
+| [33714860](https://pubmed.ncbi.nlm.nih.gov/33714860/) | 2021 | RCT | ESMO Open | ACTS-CC 02 5년 최종 생존 분석. SOX는 DFS에서 UFT/LV보다 우월하지 않음 |
+| [33950962](https://pubmed.ncbi.nlm.nih.gov/33950962/) | 2021 | 코호트 연구 및 메타분석 | Medicine | 대만 전국 코호트 기반 2~3기 결장암에서 UFT vs 5-FU 보조요법 비교 (원자료의 연구 유형 분류는 RCT) |
+| [27056996](https://pubmed.ncbi.nlm.nih.gov/27056996/) | 2016 | RCT (Phase 3) | Ann Oncol | 2/3기 직장암 보조요법으로 S-1 vs UFT 비교 (ACTS-RC) |
+| [10089948](https://pubmed.ncbi.nlm.nih.gov/10089948/) | 1999 | 메타분석 | Jpn J Clin Oncol | 대장암 근치 절제 후 경구 플루오로피리미딘 보조요법 무작위 시험의 개별 환자 자료 메타분석 |
+| [17952521](https://pubmed.ncbi.nlm.nih.gov/17952521/) | 2007 | Review | Surg Today | 폐, 위, 대장, 유방암에서 UFT 보조화학요법의 임상 근거와 작용 기전 |
+| [16111469](https://pubmed.ncbi.nlm.nih.gov/16111469/) | 2005 | Review | Expert Rev Anticancer Ther | 결장암의 병기별 화학요법 선택지 |
+| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | 합의 가이드라인 | Clin Colorectal Cancer | 전이성 대장암에 대한 아시아 합의 가이드라인 |
+| [3933845](https://pubmed.ncbi.nlm.nih.gov/3933845/) | 1985 | 전임상 (동물) | Bull Tokyo Med Dent Univ | 쥐 대장암 모델에서 levamisole과 tegafur 병용 시 생존 연장 및 전이 감소 |
+| [11320674](https://pubmed.ncbi.nlm.nih.gov/11320674/) | 2001 | Case report | Cancer Chemother Pharmacol | 전이성 결장암에서 UFT 치료 중 용혈성 빈혈 발생 보고 (안전성 신호) |
+
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200300393 | 티에스원캡슐20,25 | 경질 캡슐 | 허가 적응증 텍스트 확인 불가 (허가사항 참조) |
+| 201706903 | 테고캡슐25 | 경질 캡슐 | 허가 적응증 텍스트 확인 불가 (허가사항 참조) |
+| 199700694 | 유에프티캡슐 | 경질 캡슐 | 허가 적응증 텍스트 확인 불가 (허가사항 참조) |
+| 201706904 | 테고캡슐20 | 경질 캡슐 | 허가 적응증 텍스트 확인 불가 (허가사항 참조) |
+| 200612254 | 타그린캡슐[수출용] | 경질 캡슐 | 허가 적응증 텍스트 확인 불가 (허가사항 참조) |
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 약물 (Fluoropyrimidine 계열, 5-FU 전구체) |
-| 골수억제 위험 | 중등도 (호중구감소증, 혈소판감소증이 fluoropyrimidine 계열에서 흔히 보고됨) |
-| 구토 유발성 등급 | 저~중등도 |
-| 모니터링 항목 | CBC(백혈구/호중구/혈소판), 간·신기능, DPD 효소 활성(중증 독성 예방 목적) |
-| 취급 방호 | 세포독성 항암제 취급 규정(개인보호구, 조제 시 생물학적 안전작업대 등) 준수 필요 |
+| 세포독성 분류 | 기존 세포독성 약물 (Fluoropyrimidine 계열, 5-FU 전구약물) |
+| 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 (일반적으로 CBC, 간·신기능 확인) |
+| 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
 
 ## 안전성 고려사항
 
 안전성 정보는 허가사항을 참조하세요.
+
+참고로 수집된 문헌에는 UFT 투여 중 용혈성 빈혈 사례(PMID 11320674), S-1 투여 후 고중성지방혈증 사례(PMID 32936722)가 보고되어 있습니다.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-대장 종양에 대해 다수의 완료된 Phase 3 RCT(NCT00392899, NCT00378716, NCT00660894, NCT00152230 등, 총 참여자 수천 명 규모)가 존재하며, fluoropyrimidine 계열 약물(UFT, S-1)의 대장암 치료 효과는 이미 임상적으로 잘 확립되어 있어 근거 수준은 L1로 매우 강합니다. 다만 한국 내 허가·시판 이력이 전무하고, TFDA 경고/금기 정보(DG001, Blocking)와 작용기전(DG002, High) 데이터가 모두 확보되지 않아 안전성 초기 평가(S1)에 진입할 수 없는 상태입니다.
+대장·결장암에서 tegafur 기반 요법(UFT, S-1)의 효능을 직접 검증한 대규모 완료 Phase 3 RCT가 여러 건 있어 근거 수준은 L1입니다. 다만 이는 이미 확립된 사용에 가까우며, 한국 허가 적응증과 안전성 정보를 아직 확인하지 못한 상태입니다.
 
 **진행하려면 필요한 것:**
-- 한국 식약처(TFDA) 허가사항 PDF 확보 및 경고·금기 정보 파싱 (DG001, Blocking — 최우선)
-- DrugBank API를 통한 상세 작용기전(MOA) 데이터 확보 (DG002)
-- 한국 내 등재/허가 현황 재조사 (UFT, S-1 등 복합제 형태의 등재 여부 확인)
-- 국내 적용 시 DPD 효소 결핍 등 유전형 기반 중증독성 스크리닝 프로토콜 마련
+- 한국 허가사항 문서(5건)의 적응증, 경고, 금기 확인 (대장암이 이미 허가 범위에 포함되는지 포함)
+- DrugBank 기반 작용 기전(MOA) 데이터 보완
+- 허가사항 기반 안전성 선별 (골수억제, DPD 결핍, 약물 상호작용 등)
+
+## 참고: 기타 예측 적응증
+
+원 자료에는 다른 예측 적응증도 포함되어 있습니다.
+
+| 순위 | 예측 질환 | 근거 수준 | 권장 결정 | 비고 |
+|-----|---------|---------|---------|------|
+| 2 | 위암 (Gastric carcinoma) | L1 | Proceed with Guardrails | S-1은 위암 보조·수술 전후·진행성 치료의 기본 요법으로 널리 쓰이며, 이 역시 확립된 사용입니다. |
+| 9 | 직장 S상 결장 접합부 종양 | L4 | Research Question | 직장암 치료 중 이상반응 증례 1건만 있으며 효능 근거는 대장암 시험에 의존합니다. |
+| 6, 8 | 맹장 질환, 맹장 양성 신생물 | L4 | Hold | 대장암 증례·전임상 문헌 위주의 간접 근거입니다. |
+| 3, 4, 5, 7, 10 | 맹장 융모선종, 맹장 신경내분비종양 G1, 결장 지방종, 결장 평활근종, 결장 림프관종 | L5 | Hold | 대부분 양성 병변으로 세포독성 치료의 근거가 없으며, 해부학적 연관성에 의한 예측으로 보입니다. |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

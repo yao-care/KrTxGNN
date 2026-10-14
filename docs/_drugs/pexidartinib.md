@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Pexidartinib
-parent: 중등도 근거 (L3-L4)
-nav_order: 547
-evidence_level: L4
+parent: 모델 예측만 (L5)
+nav_order: 596
+evidence_level: L5
 indication_count: 10
 ---
 
 # Pexidartinib
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,75 +29,80 @@ indication_count: 10
 
 </div>
 
-# Pexidartinib: 적응증 정보 부족에서 HER2 양성 유방암으로
+# Pexidartinib: 건활막 거대세포종에서 HER2 양성 유방암으로
 
 ## 한 문장 요약
 
-Pexidartinib(DrugBank DB12978)은 한국에서 아직 허가되지 않은 약물로, 기존 적응증 및 작용기전(MOA)에 대한 상세 정보가 확보되지 않았습니다.
-TxGNN 모델은 **HER2 양성 유방암(HER2 Positive Breast Carcinoma)**에 효과가 있을 수 있다고 예측했으나(예측 점수 99.98%),
-현재 관련성이 불확실한 임상시험 1건만이 확인되어 근거가 매우 약합니다. 참고로 본 Evidence Pack에는 pexidartinib의 실제 승인 적응증인
-건막(활막)거대세포종(Tenosynovial Giant Cell Tumor, TGCT) 관련 강한 문헌 근거도 함께 포함되어 있어 별도 확인이 필요합니다.
+Pexidartinib은 CSF1R 억제제로, 원래 수술이 어려운 증상성 건활막 거대세포종(TGCT) 치료에 사용되었습니다.
+TxGNN 모델은 **HER2 양성 유방암(HER2 positive breast carcinoma)**에 효과가 있을 수 있다고 예측하지만, 현재 **임상시험은 0건**이고 간접적인 전임상 수준의 **문헌 1편**만 있어 근거가 매우 제한적입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 정보 없음 (한국 허가 이력 없음, `original_indications` Data Gap) |
-| 예측 신규 적응증 | HER2 양성 유방암 (HER2 Positive Breast Carcinoma) |
+| 기존 적응증 | 건활막 거대세포종(TGCT). 한국 허가증에는 적응증 본문 대신 허가 문서 링크만 등록되어 있어, 문헌에 기술된 한국 승인 적응증을 기준으로 함 |
+| 예측 신규 적응증 | HER2 양성 유방암 (HER2 positive breast carcinoma) |
 | TxGNN 예측 점수 | 99.98% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | 미출시 (Not marketed) |
-| 허가증 수 | 0건 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터는 공식적으로 확보되지 않았습니다(Data Gap, DG002). 다만 본 Evidence Pack에 포함된 문헌(PMID 31602563)에 따르면
-pexidartinib은 CSF1 수용체(CSF1R), KIT, FLT3-ITD를 표적으로 하는 경구용 저분자 티로신 키나제 억제제로, 종양 관련 대식세포(TAM)의
-CSF1/CSF1R 신호전달을 차단하는 기전으로 작용하는 것으로 보고됩니다.
+현재 상세한 작용 기전 데이터가 충분하지 않습니다. 알려진 정보에 따르면 Pexidartinib은 CSF1R(집락자극인자-1 수용체)을 억제하는 경구 티로신 키나제 억제제이며, KIT와 FLT3-ITD에도 활성이 있습니다. CSF1R은 종양 관련 대식세포(TAM)의 생존과 면역억제 환경 형성에 관여합니다.
 
-HER2 신호전달 경로와 CSF1R 억제 사이의 직접적인 기전적 연결고리는 확인되지 않았습니다. TxGNN이 산출한 높은 예측 점수는 HER2 아형에
-특이적인 관련성보다는 지식그래프 상 '유방암' 상위 노드와의 일반적 인접성을 반영했을 가능성이 있습니다. 유일하게 연계된 임상시험(I-SPY2)은
-다양한 표적 약물과 유방암 아형을 포괄하는 다중군 적응적 플랫폼 시험으로, pexidartinib 특정 치료군의 존재 여부가 확인되지 않아 관련성이 명확하지 않습니다(관련성 등급 B).
+기존 적응증인 TGCT는 CSF1 과발현이 원인인 종양입니다. 유방암에서도 TAM을 표적으로 삼으면 항종양 면역을 높일 수 있다는 이론적 근거가 있습니다. 다만 연결된 유일한 논문(PMID 41986650)은 CDK4/6 억제제로 유발되는 면역억제를 CSF1R 억제제가 완화한다는 전임상 연구입니다. 이 연구는 HR+/HER2- 유방암을 다루므로 HER2 양성 질환에 특화된 근거가 아니며 Pexidartinib 자체의 임상 자료도 아닙니다. 따라서 이 예측은 타당성은 있으나 간접적인 가설 수준입니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT01042379](https://clinicaltrials.gov/study/NCT01042379) | Phase 2 | 모집 중 | 5000 | 유방암 아형별 최적 신약 후보 및 조기 반응 예측인자를 탐색하는 다중군 적응적 플랫폼 시험(I-SPY2). pexidartinib 특정 치료군 포함 여부는 확인되지 않음 |
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
-현재 관련 문헌이 없습니다.
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [41986650](https://pubmed.ncbi.nlm.nih.gov/41986650/) | 2026 | 전임상/기전 연구 | Oncogene | CSF1R 억제제가 CDK4/6 억제제 유발 면역억제를 완화해 HR+/HER2- 유방암에서 항종양 면역을 높임 (HER2 양성 질환 대상 아님) |
+
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 202108140 | 투랄리오캡슐200밀리그램 (펙시다티닙염산염, 한국다이이찌산쿄) | 캡슐 | 허가 문서 링크로 제공됨 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202108140/EE) |
 
 ## 세포독성
 
-Pexidartinib은 표적치료(kinase inhibitor)로서 종양(TGCT) 치료제로 알려져 있어 세포독성 섹션을 기재합니다.
-
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 표적치료제 (CSF1R/KIT/FLT3-ITD 선택적 억제 저분자 티로신 키나제 억제제, 문헌 근거: PMID 31602563) |
+| 세포독성 분류 | 표적치료제 (CSF1R/KIT/FLT3 티로신 키나제 억제제) |
 | 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
-| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 모니터링 항목 | 간기능 (문헌상 장기 간독성 안전성 분석이 보고됨, PMID 33289960). 그 외 항목은 허가사항 참조 |
 | 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **간독성**: 수집된 문헌과 근거 평가에서 간독성이 주요 위험으로 지적되며, 간기능 모니터링과 REMS 유형의 제한이 필요하다고 평가됩니다.
+- **약물 상호작용**: 상호작용 조회 결과 총 100건이 확인되었고, 아래는 그중 표시된 20건입니다.
+  - **Major**: Acarbose, Rabeprazole, Doxycycline, Pioglitazone, Bupropion, Aprepitant, Omeprazole, Tetracycline, Chenodeoxycholic acid, Clarithromycin, Dexlansoprazole, Minocycline
+  - **Moderate**: Famotidine, Ranitidine, Metformin, Dexamethasone, Budesonide, Cimetidine, Magnesium oxide, Saxagliptin
+  - 위산억제제(PPI, H2 차단제)와의 병용은 특히 주의가 필요합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-- HER2 양성 유방암에 대한 근거는 관련성이 불명확한 단일 다중군 시험(I-SPY2)뿐이며 관련 문헌도 없어 L4 수준에 그치고, 기전적 연결고리도 확인되지 않아 현 시점에서 진행 근거가 부족합니다.
-- 참고로 같은 Evidence Pack 내 다른 예측 항목("synovium cancer" 등)에서는 pexidartinib의 실제 승인 적응증인 건막거대세포종(TGCT)에 대해 Phase 3 RCT(ENLIVEN, PMID 31229240)를 포함한 강한 근거(L2, "Proceed with Guardrails")가 확인되었습니다. 이는 신규 적응증이 아닌 기존 승인 적응증의 재확인으로 판단되므로 별도 트랙에서 검토가 필요합니다.
+HER2 양성 유방암에 대한 예측은 모델 점수에만 의존하며, 임상시험이 없고 간접적인 전임상 논문 1편만 있어 L5 수준입니다. 간독성 위험이 큰 약물이므로 이 근거만으로 진행하기는 어렵습니다.
+
+참고로 예측 목록의 TGCT 관련 항목(synovium cancer, synovium disease, malignant giant cell tumor)은 이미 승인된 기존 적응증에 해당하므로 신규 재창출 후보가 아닙니다. 이 항목들에서 보이는 L1 근거(ENLIVEN 3상)는 HER2 양성 유방암에 대한 근거가 아닙니다.
 
 **진행하려면 필요한 것:**
-- 작용기전(MOA), 한국 허가 현황, 안전성(경고/금기/DDI) 등 Drug-Level Data Gap 해소 (DG001: MFDS/식약처 허가사항 확인, DG002: DrugBank MOA 조회)
-- I-SPY2 시험의 세부 프로토콜 확인을 통해 pexidartinib 특정 치료군 존재 여부 검증
-- 건막거대세포종(TGCT) 관련 예측 항목(rank 6/7/10)을 별도 후보로 분리하여 재평가 진행 여부 결정
+- HER2 양성 유방암 모델에서 Pexidartinib 단독 또는 병용(항HER2 치료 등)의 전임상 효능 자료
+- 유방암 환자 대상 Pexidartinib 임상 자료 (현재 없음)
+- 허가사항(MFDS)의 경고, 금기, 간독성 관리 기준 확인
+- 작용 기전 자료 보완 및 유방암 TAM 표적 가설의 검증
+- 간독성 위험 대비 유방암에서의 기대 이익 평가
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

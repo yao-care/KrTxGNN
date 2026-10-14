@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Carboplatin
-parent: 높은 근거 (L1-L2)
-nav_order: 176
-evidence_level: L1
+parent: 모델 예측만 (L5)
+nav_order: 184
+evidence_level: L5
 indication_count: 10
 ---
 
 # Carboplatin
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,85 +29,119 @@ indication_count: 10
 
 </div>
 
-# Carboplatin: 백금 계열 세포독성 항암제에서 유방암(Female Breast Carcinoma)으로
+# Carboplatin: 기존 허가 적응증에서 여성 유방암으로
 
 ## 한 문장 요약
 
-Carboplatin은 DNA에 교차결합을 형성해 종양세포를 사멸시키는 백금 계열 세포독성 항암제입니다. 한국 내 허가 자료가 없어 정확한 기존 승인 적응증은 확인되지 않지만, TxGNN 모델은 **유방암(Female Breast Carcinoma)**에 효과가 있을 것으로 예측하며, 현재 **다수의 Phase 2/3 임상시험**과 **20편의 문헌**이 이 방향을 뒷받침합니다(근거수준 **L1**).
+Carboplatin은 DNA 교차결합을 일으키는 백금계 항암제로, 국내에 주사제 5개 허가가 유효한 상태로 시판 중입니다.
+TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있을 수 있다고 예측하며, 현재 **45건의 임상시험**과 **20편의 문헌**이 이 방향과 관련되어 있습니다.
+다만 유방암에서 carboplatin은 이미 삼중음성 유방암(TNBC) 등에서 사용·연구되고 있어 완전히 새로운 재창출 신호는 아닙니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 자료 없음 (한국 미상장, MOA·적응증 원본 자료 미확보) |
-| 예측 신규 적응증 | 유방암 (Female Breast Carcinoma) |
+| 기존 적응증 | 허가증에 적응증 본문이 아닌 허가문서(PDF) 링크만 있어 요약할 수 없습니다. 허가사항 원문을 참조하세요. |
+| 예측 신규 적응증 | 여성 유방암 (female breast carcinoma) |
 | TxGNN 예측 점수 | 99.86% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | ✗ 미상장 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L1 (아래 판정 사유 참조) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 5건 (단일 성분, 모두 유효) |
 | 권장 결정 | Proceed with Guardrails |
+
+**근거 수준 판정 사유:** 수집된 데이터에는 유방암 대상의 완료된 Phase 3 시험이 최소 3건 있습니다 (NCT00021255, NCT00047255, NCT02125344). 판정 규칙(완료된 Phase 3 RCT 2건 이상)에 따라 L1로 판정했습니다. 다만 대부분 carboplatin이 병용 요법의 일부로 포함된 시험이어서, carboplatin 단독 기여도를 보여 주는 직접 근거는 제한적입니다.
 
 ## 이 예측이 타당한 이유는?
 
-Carboplatin의 상세한 작용기전(MOA) 원본 자료는 이번 Evidence Pack에서 확보되지 않았습니다. 다만 여러 예측 적응증에 걸쳐 반복적으로 제시된 기전 정보에 따르면, Carboplatin은 백금 화합물로서 DNA에 교차결합(cross-link)을 형성해 DNA 복제·전사를 저해함으로써 세포 사멸을 유도하는 세포독성 항암제입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 carboplatin은 DNA 교차결합을 일으키는 백금계 세포독성 항암제입니다. 이 약은 여러 고형암에서 효능이 입증되어 있어, 기전상 유방암에도 적용 가능할 수 있습니다.
 
-이 기전은 BRCA1/2 등 상동재조합 복구(homologous recombination repair) 결함이 있는 종양, 즉 삼중음성유방암(TNBC)이나 유전성 유방난소암증후군(HBOC) 환자의 종양에서 특히 효과적인 것으로 알려져 있습니다(합성치사 효과). 실제로 Carboplatin과 Paclitaxel 병용요법(또는 Docetaxel/Trastuzumab과의 병용인 TCH 요법)은 TNBC 및 HER2 양성 유방암의 선행보조·전이성 치료에서 이미 널리 쓰이는 요법으로, 이는 TxGNN 예측의 기전적 타당성을 뒷받침합니다.
+특히 상동재조합 결핍(HRD)이 있는 종양, 예컨대 BRCA 변이 유방암이나 삼중음성 유방암은 백금계 약물의 DNA 손상에 민감한 것으로 알려져 있습니다. 이것이 TxGNN 예측을 뒷받침하는 기전적 근거입니다. 무작위 Phase 2 시험(NCT00321633, 전이성 유전성 유방암에서 carboplatin vs docetaxel)과 선행화학요법 연구(GeparSixto, CALGB 40603)가 이 방향을 지지합니다.
+
+주의할 점도 있습니다. 2025년 ASCO 관련 리뷰(PMID 41489230)에 따르면 조기 TNBC에서 carboplatin을 추가해도 생존 이익이 없었다는 결과(NRG-BR003)가 있습니다. HER2 양성 조기 유방암에서는 carboplatin을 생략해도 효능이 유지되고 내약성이 더 좋았다고 합니다. 따라서 유방암 전체가 아니라 아형별(TNBC, BRCA 변이 등)로 근거를 따져야 합니다.
 
 ## 임상시험 근거
 
+유방암 관련 시험은 총 45건이며, 관련성이 높은 10건을 정리했습니다.
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00005963](https://clinicaltrials.gov/study/NCT00005963) | Phase 2 | 완료 | 53 | Docetaxel+Carboplatin 1차 전이성 유방암 치료 |
-| [NCT02978495](https://clinicaltrials.gov/study/NCT02978495) | Phase 2 | 완료 | 154 | NACATRINE: TNBC 선행보조 Carboplatin 전향적 연구 |
-| [NCT04095364](https://clinicaltrials.gov/study/NCT04095364) | Phase 3 | 진행중(비모집) | 450 | Paclitaxel/Carboplatin+Letrozole 유지요법 vs Letrozole 단독 |
-| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | Phase 3 | 완료 | 3222 | AC-T vs AC-TH vs TCH(Docetaxel+Carboplatin+Trastuzumab) 보조요법, HER2+ 유방암 |
-| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | Phase 3 | 완료 | 263 | Docetaxel+Trastuzumab ± Carboplatin 1차 HER2+ 전이성 유방암 |
-| [NCT01445418](https://clinicaltrials.gov/study/NCT01445418) | Phase 1 | 완료 | 103 | PARP억제제(Olaparib)+Carboplatin, BRCA1/2 변이 유방·난소암 |
-| [NCT01237067](https://clinicaltrials.gov/study/NCT01237067) | Phase 1 | 완료 | 77 | Olaparib+Carboplatin PK/PD 연구 |
-| [NCT01618136](https://clinicaltrials.gov/study/NCT01618136) | Phase 1/2 | 완료 | 41 | PARP억제제(E7449)+Carboplatin/Paclitaxel 병용 |
-| [NCT03076372](https://clinicaltrials.gov/study/NCT03076372) | Phase 1 | 상태 미상 | 34 | MM-310(도세탁셀 전구약물) 병용 초기 연구 |
-| [NCT00616967](https://clinicaltrials.gov/study/NCT00616967) | Phase 2 | 진행중(비모집) | 68 | Carboplatin+Nab-paclitaxel ± Vorinostat, HER2 음성 수술전 화학요법 |
+| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | Phase 2 | 완료 | 148 | 전이성 유전성 유방암에서 carboplatin과 docetaxel 직접 비교 (무작위) |
+| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | Phase 3 | 완료 | 263 | HER2 양성 진행성 유방암 1차 치료에서 docetaxel+trastuzumab에 carboplatin 추가 여부 비교 |
+| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | Phase 3 | 완료 | 3,222 | HER2 양성 수술 가능 유방암 보조요법에서 AC-T, AC-TH, TCH(docetaxel+carboplatin+trastuzumab) 비교 |
+| [NCT02125344](https://clinicaltrials.gov/study/NCT02125344) | Phase 3 | 완료 | 961 | 고위험 조기 유방암 선행요법에서 용량 강화 ETC와 PM(Cb) 요법 비교 (GeparOcto) |
+| [NCT01208480](https://clinicaltrials.gov/study/NCT01208480) | Phase 2 | 완료 | 45 | TNBC 선행요법으로 bevacizumab+docetaxel+carboplatin 평가 |
+| [NCT00616967](https://clinicaltrials.gov/study/NCT00616967) | Phase 2 | 활성(모집 종료) | 68 | HER2 음성 수술 가능 유방암에서 carboplatin+nab-paclitaxel ± vorinostat 선행요법의 반응·바이오마커 평가 |
+| [NCT05020860](https://clinicaltrials.gov/study/NCT05020860) | Phase 2 | 모집 중 | 185 | 조기 유방암 선행 전신요법에서 임상 반응과 병리학적 반응의 상관성 평가 (carboplatin은 요법의 일부) |
+| [NCT00003612](https://clinicaltrials.gov/study/NCT00003612) | Phase 2 | 완료 | 92 | HER2 과발현 전이성 유방암 1차 치료로 paclitaxel+carboplatin+trastuzumab 평가 |
+| [NCT00025688](https://clinicaltrials.gov/study/NCT00025688) | Phase 3 | 불명 | 미보고 | 65세 이상 전이성 유방암에서 주 1회 paclitaxel ± carboplatin 비교 |
+| [NCT06291064](https://clinicaltrials.gov/study/NCT06291064) | Phase 2 | 모집 중 | 85 | 나이지리아 TNBC 환자에서 epirubicin+cyclophosphamide 후 docetaxel+carboplatin의 병리학적 완전관해율 평가 |
 
 ## 문헌 근거
 
+20편 중 RCT를 우선하여 10편을 정리했습니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [24794243](https://pubmed.ncbi.nlm.nih.gov/24794243/) | 2014 | RCT | Lancet Oncol | GeparSixto: TNBC·HER2+ 조기유방암 선행보조 Carboplatin 추가 효과 |
-| [33208340](https://pubmed.ncbi.nlm.nih.gov/33208340/) | 2021 | RCT | Clin Cancer Res | NeoSTOP: TNBC 안트라사이클린 유무 Carboplatin 요법 비교 |
-| [39671272](https://pubmed.ncbi.nlm.nih.gov/39671272/) | 2025 | RCT | JAMA | CamRelief: Camrelizumab+화학요법(Carboplatin 포함) 선행보조 TNBC |
-| [40593759](https://pubmed.ncbi.nlm.nih.gov/40593759/) | 2025 | RCT | Nat Commun | ARX788+Pyrotinib vs TCbHP(Carboplatin 포함), HER2+ 유방암 |
-| [33256829](https://pubmed.ncbi.nlm.nih.gov/33256829/) | 2020 | Phase 2 Trial | Breast Cancer Res | Carboplatin+Bevacizumab, 유방암 뇌전이 환자 대상 |
-| [38309017](https://pubmed.ncbi.nlm.nih.gov/38309017/) | 2024 | RCT (Phase 3) | Eur J Cancer | BROCADE3: Veliparib+Carboplatin+Paclitaxel, BRCA변이 유방암 최종 OS 결과 |
-| [16720915](https://pubmed.ncbi.nlm.nih.gov/16720915/) | 2006 | Review | Med Oncol | Paclitaxel-Carboplatin 병용의 시너지·효능·안전성 근거 종합 |
-| [8893899](https://pubmed.ncbi.nlm.nih.gov/8893899/) | 1996 | Cohort | Semin Oncol | Paclitaxel 및 Carboplatin 단독/병용, 진행성 유방암 |
-| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | Cohort | Breast Cancer Res Treat | Carboplatin+Gemcitabine+Mifepristone, 진행성 유방암·난소암 |
-| [25247558](https://pubmed.ncbi.nlm.nih.gov/25247558/) | 2014 | Meta-analysis | PLoS One | Carboplatin·Bevacizumab이 TNBC 선행보조 병리학적 완전관해율 개선 |
+| [24794243](https://pubmed.ncbi.nlm.nih.gov/24794243/) | 2014 | RCT (Phase 2) | Lancet Oncol | TNBC 및 HER2 양성 조기 유방암에서 선행요법에 carboplatin 추가의 효능 평가 (GeparSixto) |
+| [33208340](https://pubmed.ncbi.nlm.nih.gov/33208340/) | 2021 | RCT (Phase 2) | Clin Cancer Res | Stage I-III TNBC에서 안트라사이클린 비포함·포함 carboplatin 선행요법 비교 (NeoSTOP) |
+| [35044810](https://pubmed.ncbi.nlm.nih.gov/35044810/) | 2022 | RCT (Phase 2) | J Clin Oncol | TNBC 선행요법에서 carboplatin·bevacizumab 추가의 장기 성적과 유전체 상관 분석 (CALGB 40603) |
+| [29501363](https://pubmed.ncbi.nlm.nih.gov/29501363/) | 2018 | RCT (Phase 3) | Lancet Oncol | TNBC 선행화학요법에 veliparib+carboplatin 또는 carboplatin 단독 추가 평가 (BrighTNess) |
+| [41436191](https://pubmed.ncbi.nlm.nih.gov/41436191/) | 2025 | RCT (Phase 3) | BMJ | 고위험 조기 TNBC 보조요법에서 carboplatin 강화 요법과 표준 요법의 생존 비교 (CITRINE) |
+| [41115255](https://pubmed.ncbi.nlm.nih.gov/41115255/) | 2026 | RCT (Phase 3) | J Clin Oncol | TNBC에서 taxane-안트라사이클린 선행화학요법에 백금 추가의 생존 영향 평가 |
+| [29175149](https://pubmed.ncbi.nlm.nih.gov/29175149/) | 2018 | RCT (Phase 3) | Lancet Oncol | HER2 양성 유방암 선행요법에서 화학요법 포함 요법과 T-DM1+pertuzumab 비교 (KRISTINE) |
+| [40593759](https://pubmed.ncbi.nlm.nih.gov/40593759/) | 2025 | RCT (Phase 2b) | Nat Commun | HER2 양성 유방암에서 ARX788+pyrotinib과 표준 TCbHP(carboplatin 포함) 선행요법 비교 |
+| [41489230](https://pubmed.ncbi.nlm.nih.gov/41489230/) | 2026 | Review | Cancer Investig | 조기 TNBC에서 carboplatin 추가 시 생존 이익이 없었다는 결과(NRG-BR003), HER2 양성에서 carboplatin 생략 시 효능 유지 |
+| [16720915](https://pubmed.ncbi.nlm.nih.gov/16720915/) | 2006 | Review | Med Oncol | 진행성 유방암에서 paclitaxel-carboplatin 병용의 상승효과, 효능, 안전성 근거 정리 |
+
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 199201568 | 카보티놀주사(카르보플라틴) | 주사제 (갈색 바이알) | [허가문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201568/EE) |
+| 200004907 | 카보틴주(카르보플라틴)(수출용) | 주사제 (갈색 바이알) | [허가문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200004907/EE) |
+| 200905067 | 칸플라틴주(카르보플라틴)(수출용) | 주사제 (갈색 바이알) | [허가문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905067/EE) |
+| 199101108 | 네오플라틴주(카르보플라틴) | 주사액 (갈색 바이알) | [허가문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101108/EE) |
+| 200210228 | 화이자카보플라틴주10mg/ml | 주사액 (투명 바이알) | [허가문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210228/EE) |
+
+5건 중 2건(카보틴주, 칸플라틴주)은 수출용 허가입니다. 제조사는 각각 한국유나이티드제약, 대한뉴팜, 한국코러스, 보령, 한국화이자제약입니다.
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 약물 (백금(Platinum) 계열, DNA 교차결합제) |
-| 골수억제 위험 | 고위험 — 백금 계열 공통적으로 혈소판감소증이 특히 흔하게 발생. 구체적 발생률 자료는 이번 Evidence Pack에 확보되지 않아 허가사항 참조 필요 |
-| 구토 유발성 등급 | 중등도~고위험 |
-| 모니터링 항목 | CBC(혈소판 포함), 신기능(BUN/Cr, GFR), 전해질, 청력검사(이독성 가능성) |
-| 취급 방호 | 세포독성 항암제 취급 규정 준수 필요 (조제·투여 시 개인보호구 착용, 폐기물 별도 처리) |
+| 세포독성 분류 | 기존 세포독성 약물 (백금계 알킬화 유사 DNA 교차결합제) |
+| 골수억제 위험 | 고 (혈소판감소증과 호중구감소증이 용량 제한 독성으로 알려져 있음) |
+| 구토 유발성 등급 | 중~고 (고용량 투여 시 고위험으로 분류되는 경우가 많음) |
+| 모니터링 항목 | CBC (분류 포함), 신기능, 간기능, 전해질 |
+| 취급 방호 | 세포독성 약물 취급 규정 준수 필요 (조제·투여·폐기물 처리 시 보호구 착용) |
+
+수집된 데이터에는 독성 관련 상세 정보가 없어 일반적인 약물 분류에 따라 기재했습니다. 정확한 내용은 허가사항의 경고 및 주의사항을 참조하세요.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+**약물 상호작용**: 조회된 상호작용은 총 100건이며, 상위 20건 중 대부분이 중등도(Moderate)입니다.
+- **양성자 펌프 억제제**: rabeprazole, omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole
+- **아미노글리코사이드 계열**: kanamycin, neomycin, streptomycin
+- **기타 항생제**: vancomycin, metronidazole, tinidazole (모두 중등도)
+- **스타틴**: rosuvastatin, simvastatin (중등도)
+- **경미(Minor)**: levofloxacin
+- **등급 미상(Unknown)**: calcitriol, glimepiride, mesalazine, doxycycline, clotrimazole
+
+경고 및 금기 항목은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-다수의 완료·진행중 Phase 2/3 임상시험과 RCT 문헌이 TNBC 및 HER2 양성 유방암에서 Carboplatin 병용요법의 확립된 임상적 지위를 뒷받침하여(L1) 예측 신뢰도는 높으나, 한국 내 허가·MOA·안전성 원본 자료가 확보되지 않아(Blocking data gap) 곧바로 임상 적용을 권고하기는 어렵습니다.
+유방암에서는 완료된 Phase 3 시험과 다수의 무작위 Phase 2/3 문헌이 있고, 기전(HRD 종양의 백금 감수성)도 타당합니다. 그러나 효과는 아형에 따라 다릅니다. 조기 TNBC에서 carboplatin 추가의 생존 이익이 없었다는 결과와 HER2 양성에서 carboplatin을 생략해도 효능이 유지되었다는 결과가 있어, 무조건적 확대보다는 조건부 진행이 적절합니다.
 
 **진행하려면 필요한 것:**
-- 관계 당국(TFDA 등) 공식 허가사항 및 경고·금기 정보 확보
-- DrugBank 등에서 정확한 작용기전(MOA) 및 독성 프로파일 확인
-- 유방암 아형(TNBC vs HR+/HER2+)별 반응 차이를 반영한 임상 프로토콜 설계
+- 허가문서 원문에서 기존 허가 적응증과 경고·금기 확인
+- 상세 작용 기전(MOA) 데이터 보강
+- 대상 아형 한정(TNBC, BRCA 변이/HRD, HER2 상태)과 병기·치료 단계(선행/보조/전이성)별 근거 재정리
+- carboplatin 추가 효과를 직접 비교한 Phase 3 결과(CITRINE, NRG-BR003 등)에 대한 정밀 검토
+- 골수억제, 구토, 신기능 모니터링 계획과 병용약물(PPI, 아미노글리코사이드 등) 상호작용 관리 방안
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

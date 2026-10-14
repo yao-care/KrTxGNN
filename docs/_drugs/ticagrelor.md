@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ticagrelor
-parent: 높은 근거 (L1-L2)
-nav_order: 677
-evidence_level: L2
+parent: 모델 예측만 (L5)
+nav_order: 736
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,75 +29,86 @@ indication_count: 10
 
 </div>
 
-# Ticagrelor: 급성관상동맥증후군에서 두개내동맥경화증으로
+# Ticagrelor: 급성 관상동맥증후군에서 두개내 동맥경화증으로
 
 ## 한 문장 요약
 
-Ticagrelor는 P2Y12 수용체 억제제 계열 항혈소판제로, 원래 급성관상동맥증후군(ACS) 및 말초동맥질환에서 혈전성 심혈관 사건 예방에 사용되어 왔습니다. TxGNN 모델은 **두개내동맥경화증(Intracranial Arteriosclerosis)**에 효과가 있을 수 있다고 예측하며, 현재 **11건의 임상시험**(이 중 완료된 Phase 3 RCT 1건, 진행 중인 Phase 3 RCT 1건 포함)과 **3편의 문헌**이 이 방향을 지지합니다.
+Ticagrelor는 혈소판 P2Y12 수용체를 가역적으로 차단하는 항혈소판제로, 원래 급성 관상동맥증후군 등 심혈관 허혈성 질환에 사용되었습니다.
+TxGNN 모델은 **두개내 동맥경화증(Intracranial Arteriosclerosis)**에 효과가 있을 수 있다고 예측하며, 현재 **2건의 임상시험**과 **2편의 문헌**이 이 방향과 관련되어 있습니다.
+다만 핵심 Phase 3 시험은 아직 결과가 없어, 직접적으로 효과를 입증한 근거는 부족합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 급성관상동맥증후군(ACS)/말초동맥질환 등 혈전성 심혈관질환 (원 개발사 글로벌 승인 적응증 기준, 한국 미허가) |
-| 예측 신규 적응증 | 두개내동맥경화증 (Intracranial Arteriosclerosis) |
+| 기존 적응증 | 급성 관상동맥증후군, 심근경색 병력 환자의 혈전 예방 등 (허가증은 PDF 링크만 확인되어 본문 대조는 못 했습니다) |
+| 예측 신규 적응증 | 두개내 동맥경화증 (Intracranial Arteriosclerosis) |
 | TxGNN 예측 점수 | 99.97% |
-| 근거 수준 | L2 |
-| 한국 시판 현황 | 미판매 (허가 없음) |
-| 허가증 수 | 0건 |
+| 근거 수준 | L3 (완료된 RCT가 없고, 관찰 연구와 진행 중인 Phase 3 시험만 있음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Ticagrelor의 공식 작용기전(MOA) 데이터는 현재 확보되지 않았습니다(DG002, High). 다만 근거팩 내 예측 근거 설명에 따르면, Ticagrelor는 P2Y12 수용체를 억제하여 혈소판 응집을 차단하는 약물이며, 기존에는 급성관상동맥증후군(ACS) 및 PCI 후 혈전 예방을 위한 핵심 항혈소판제로 사용되어 왔습니다.
+Ticagrelor는 ADP가 매개하는 혈소판 활성화와 응집을 억제하는 가역적 P2Y12 수용체 길항제입니다. 상세한 작용 기전 데이터는 따로 확보하지 못했습니다. 위 내용은 약물의 알려진 약리 특성에 근거한 설명입니다.
 
-두개내동맥경화증(ICAD)은 뇌 내 동맥의 죽상경화반 형성으로 혈류가 감소하고 국소 혈전이 발생하는 질환으로, 병태생리학적으로 혈소판 의존성 혈전 형성이 핵심 기전입니다. 현재 임상 지침에서는 clopidogrel + aspirin 이중항혈소판요법(DAPT)이 증상성 ICAD의 표준 치료로 널리 사용되고 있습니다.
+두개내 동맥경화성 협착은 혈전성·색전성 뇌졸중의 위험을 동반합니다. 관상동맥질환과 마찬가지로 죽상경화 병변 위의 혈소판 의존적 혈전 형성이 재발 허혈 사건의 주요 원인입니다. 따라서 P2Y12 억제로 재발 허혈성 사건을 줄일 수 있다는 기전적 근거는 타당합니다.
 
-Ticagrelor는 clopidogrel과 동일한 P2Y12 억제제 계열이지만, prodrug 대사 과정이 필요 없고 CYP2C19 유전자 변이로 인한 clopidogrel 저반응(resistance) 환자에서도 안정적인 효과를 보이는 것으로 알려져 있습니다. 이는 ICAD 환자군에서 clopidogrel 대체 옵션으로서 기전적 타당성을 뒷받침하며, 실제로 CAPTIVA(NCT05047172) 등 두개내동맥협착 특이적 Phase 3 시험이 이미 진행 중입니다.
+다만 이 방향의 근거는 아직 제한적입니다. 진행 중인 Phase 3 시험(CAPTIVA), 소규모 유전자형 기반 P2Y12 억제제 선택 연구, 신경중재 시술에서의 용량 관련 문헌이 전부입니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT01732822](https://clinicaltrials.gov/study/NCT01732822) | Phase 3 | 완료 | 13,885 | 말초동맥질환 환자에서 ticagrelor vs clopidogrel의 심혈관사망/심근경색/허혈성뇌졸중 예방효과 비교 |
-| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) | Phase 3 | 진행 중(비모집) | 1,683 | CAPTIVA 시험 — 두개내혈관 동맥협착에서 rivaroxaban/ticagrelor 병용 vs clopidogrel 단독의 1년 허혈성뇌졸중·뇌출혈·혈관사망 예방효과 비교, 질환 특이성 최고 |
-| [NCT02605447](https://clinicaltrials.gov/study/NCT02605447) | Phase 4 | 완료 | 2,009 | 출혈 고위험군 PCI 환자에서 3개월 DAPT 안전성 평가 |
-| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | NA | 모집 중 | 100 | 증상성 두개내동맥경화질환에서 유전형 기반 P2Y12 억제제 선택 vs 기존 clopidogrel 치료 비교 |
-| [NCT04948749](https://clinicaltrials.gov/study/NCT04948749) | NA | 모집 중 | 792 | DREAM-PRIDE — 증상성 ICAS에서 약물용출스텐트+적극적 약물치료 vs 표준 약물치료의 재발성 뇌졸중 예방 비교 |
-| [NCT01813435](https://clinicaltrials.gov/study/NCT01813435) | Phase 3 | 완료 | 15,991 | GLOBAL LEADERS — 스텐트 삽입 후 ticagrelor 단독요법 vs 표준 DAPT의 항혈소판 전략 비교 |
-| [NCT06058130](https://clinicaltrials.gov/study/NCT06058130) | NA | 상태 불명 | 2,171 | 급성허혈성뇌졸중+비판막성심방세동+두개내외동맥협착 환자에서 항응고+항혈소판 병용요법 비교 |
-| [NCT07354828](https://clinicaltrials.gov/study/NCT07354828) | N/A | 모집 예정 | 3,500 | 관상동맥 재관류술 DAPT 기반 품질관리지표 최적화 연구 |
-| [NCT06857045](https://clinicaltrials.gov/study/NCT06857045) | NA | 철회됨 | 0 | 두개내 시롤리무스용출스텐트 후 3개월 vs 6개월 DAPT 비교 (철회로 자료 없음) |
-| [NCT03620760](https://clinicaltrials.gov/study/NCT03620760) | Phase 4 | 상태 불명 | 2,036 | 약물용출스텐트 삽입 후 불안정형협심증 환자에서 저용량 vs 표준용량 ticagrelor 효능/안전성 비교 |
+| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) | Phase 3 | 진행 중 (모집 종료) | 1,683 | 두개내 혈관 죽상협착에서 rivaroxaban, ticagrelor 또는 병용이 clopidogrel보다 1년 내 허혈성 뇌졸중·뇌출혈·혈관성 사망을 더 줄이는지 평가 (CAPTIVA, 완료 예정 2027-01, 결과 미공개) |
+| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | 해당 없음 | 모집 중 | 100 | 증상성 두개내 죽상경화증에서 유전자형 기반 P2Y12 억제제 선택과 clopidogrel 표준 요법 비교 (파일럿 연구) |
+
+CAPTIVA는 ticagrelor 단독 비교 시험이 아니므로, 질환과의 관련성은 직접적이지만 ticagrelor 효능에 대해서는 간접적인 근거입니다. 결과가 나오기 전까지는 L1 근거로 인정할 수 없습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Trial Protocol | International Journal of Stroke | CAPTIVA 시험 설계 및 초기 진행상황 — 증상성 두개내동맥경화협착(ICAS)에서 clopidogrel+aspirin 표준요법 대비 다른 이중항혈전요법 조합의 우월성 검증 목적 |
-| [38252758](https://pubmed.ncbi.nlm.nih.gov/38252758/) | 2024 | Review | Stroke | 두개내동맥경화증 최신 개관 — 서론, 주요 소견 및 지식 격차 정리 |
-| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Cohort | Journal of Neurointerventional Surgery | 신경중재시술에서 저용량 ticagrelor(60mg bid)+aspirin 병용요법과 표준 aspirin+clopidogrel 요법 비교 경험 보고 |
+| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | 코호트 연구 | J Neurointerv Surg | 두개내 스텐트 시술에서 ticagrelor 60 mg 하루 2회 + 아스피린 81 mg 병용을 표준 아스피린 + clopidogrel 요법과 비교한 경험 보고 |
+| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | 시험 설계 논문 | Int J Stroke | 증상성 두개내 동맥 협착에서 clopidogrel + 아스피린보다 우수한 이중 항혈전 조합을 찾는 CAPTIVA 시험의 설계와 초기 진행 상황 |
 
 ## 한국 시판 정보
 
-Ticagrelor는 현재 한국에서 허가된 제품이 없습니다(미판매, 허가증 0건). 따라서 국내 공식 허가 적응증 및 라벨 정보를 확인할 수 없습니다.
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201104578 | 브릴린타정90밀리그램 (한국아스트라제네카) | 노란색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104578/EE) |
+| 201604907 | 브릴린타정60밀리그램 (한국아스트라제네카) | 분홍색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604907/EE) |
+| 201801019 | 휴티카정60밀리그램 (휴온스) | 분홍색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801019/EE) |
+| 201901334 | 티카렉스정60밀리그램 (종근당) | 분홍색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901334/EE) |
+| 201800904 | 브릴러정90밀리그램 (국제약품) | 노란색 원형 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800904/EE) |
+
+전체 20건은 모두 단일제이며 60 mg과 90 mg 필름코팅정입니다. 이 중 2건은 수출용입니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요. (한국 미판매로 국내 경고·금기·약물상호작용 자료가 확보되지 않았으며, 이는 안전성 초기 평가(S1) 진입을 막는 Blocking 등급 데이터 공백(DG001)으로 분류되어 있습니다.)
+- **지식그래프 기반 금기 질환** (허가사항 본문이 아닌 약물-질환 관계 데이터): 간부전, 간질환, 담낭질환, 두개내 출혈. 두개내 출혈은 뇌혈관 질환 환자에게 특히 중요한 고려사항입니다.
+- **약물 상호작용** (총 100건 확인, 일부만 기재):
+  - **주요(Major)**: Clarithromycin
+  - **중등도(Moderate)**: Acetylsalicylic acid, Morphine, Aprepitant, Dexamethasone, Budesonide, Simvastatin, Miconazole, Saxagliptin 등
+  - **경미(Minor)**: Naloxegol, Prucalopride
+
+허가사항의 경고 및 금기 본문은 허가증 PDF에서 직접 확인해야 합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-두개내동맥경화증에 대한 근거 수준은 L2(완료된 Phase 3 RCT 1건)로 중간 수준이며, 질환 특이적 Phase 3 시험(CAPTIVA, NCT05047172)이 진행 중이지만 완료 시점은 2028년으로 아직 상당 기간 남아 있습니다. 또한 Ticagrelor는 한국에서 미판매 상태이며, 국내 안전성 경고/금기 정보 부재가 Blocking 등급 데이터 공백으로 지정되어 있어 안전성 초기 평가(S1) 자체에 진입할 수 없는 상태입니다.
+기전상 타당하고 대규모 Phase 3 시험(CAPTIVA)이 진행 중이지만 결과가 아직 없고, 현재 근거는 소규모 관찰 연구와 설계 논문 수준입니다. 두개내 출혈이 지식그래프상 금기 질환으로 나타나는 점도 뇌혈관 질환 적용 시 신중한 평가가 필요합니다.
 
 **진행하려면 필요한 것:**
-- CAPTIVA(NCT05047172) 등 질환 특이적 Phase 3 임상시험 결과 발표 대기
-- 식약처(MFDS) 허가사항 또는 원 개발사 글로벌 라벨의 경고·금기 정보 확보 (DG001, Blocking)
-- DrugBank API를 통한 상세 작용기전(MOA) 데이터 확보 (DG002, High)
-- 약물상호작용(DDI) 데이터베이스 재조회
+- CAPTIVA 시험의 결과 공개 (완료 예정 2027년 1월)와 ticagrelor 투여군의 유효성·출혈 결과 확인
+- 허가증 PDF에서 경고 및 금기 사항을 확인하고 두개내 출혈 위험 평가
+- 상세 작용 기전 데이터 보완
+- 두개내 동맥경화증 환자 대상 ticagrelor 용량과 병용 요법(아스피린 등)의 출혈 위험 평가
+
+참고로 허혈성 질환 전반의 대규모 RCT 근거는 이미 기존 적응증(관상동맥질환)과 대부분 겹치므로 신규 재창출 신호로 보기는 어렵습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

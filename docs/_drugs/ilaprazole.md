@@ -2,7 +2,7 @@
 layout: default
 title: Ilaprazole
 parent: 높은 근거 (L1-L2)
-nav_order: 386
+nav_order: 414
 evidence_level: L1
 indication_count: 5
 ---
@@ -29,73 +29,86 @@ indication_count: 5
 
 </div>
 
-# ILAPRAZOLE: 미시판(개발단계)에서 활동성 소화성궤양으로
+# Ilaprazole: 소화성 궤양에서 활동성 소화성 궤양(Active Peptic Ulcer Disease)으로
 
 ## 한 문장 요약
 
-Ilaprazole은 제3세대 질소펌프억제제(PPI) 계열 약물로, 중국·한국 등에서 진행된 자체 임상개발 프로그램을 통해 원래부터 소화성궤양(특히 십이지장궤양) 치료를 목표로 개발되었으나, 현재 대만(taiwan_regulatory 기준) 내 허가·시판 이력은 없습니다. TxGNN 모델은 **활동성 소화성궤양(Active Peptic Ulcer Disease)**에 대한 효과를 예측하며, 이는 **5건의 임상시험(완료 4건 포함)**과 **6편의 문헌**으로 뒷받침됩니다.
+Ilaprazole은 양성자펌프억제제(PPI)로, 한국에서 위산 관련 질환 치료제로 시판되고 있습니다.
+TxGNN 모델은 **활동성 소화성 궤양(Active Peptic Ulcer Disease)**에 효과가 있을 수 있다고 예측하며, 현재 **2건의 임상시험**과 **6편의 문헌**이 이 방향을 직접 지지합니다.
+다만 이 적응증은 기존 허가 용도와 상당 부분 겹쳐, 엄밀한 의미의 재창출보다는 허가 범위 내 사용에 가깝습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 자료 없음 (현지 허가 이력 없음, 원개발 적응증은 십이지장궤양·소화성궤양으로 추정) |
-| 예측 신규 적응증 | 활동성 소화성궤양 (Active Peptic Ulcer Disease) |
+| 기존 적응증 | 허가 적응증 원문 텍스트는 확인되지 않음 (허가증 링크만 확보). 시판 정보상 위산 관련 질환(소화성 궤양, 역류성 식도염 등) 치료제로 알려져 있음 |
+| 예측 신규 적응증 | 활동성 소화성 궤양 (Active Peptic Ulcer Disease) |
 | TxGNN 예측 점수 | 99.89% |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | ✗ 미출시 |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 4건 |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
 
-DrugBank의 공식 작용기전(MOA) 데이터는 현재 확보되지 않았습니다(Data Gap, High severity). 다만 근거팩 내 예측 근거(rationale)에 따르면 ilaprazole은 위벽세포의 H+/K+-ATPase를 억제하는 제3세대 PPI로, omeprazole·rabeprazole·esomeprazole과 동일한 기전을 공유합니다.
+현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 Ilaprazole은 PPI 계열 약물로, 위벽세포의 H⁺/K⁺-ATPase(ATP4A)를 억제하여 위산 분비를 줄입니다. 이 기전은 PPI 계열에서 잘 확립되어 있으며, 약리학 자료에서도 ATP4A가 표적으로 확인됩니다.
 
-활동성 소화성궤양은 애초에 ilaprazole의 임상개발 프로그램(중국 다기관 Phase 2/3 시험군)의 원 표적 적응증이었습니다. 즉 이번 예측은 완전히 새로운 치료영역 발굴이라기보다, 약물이 이미 확립한 핵심 적응증을 현지(대만) 시장 진입 관점에서 재확인하는 성격이 강합니다. 다만 대만 내 허가·시판 실적이 전무하므로, 이는 "재창출"이라기보다 "미허가 약물의 시장 진입 타당성 검토"에 가깝습니다.
+위산 분비를 강력히 억제하면 궤양 부위의 산 노출이 줄어 점막 치유가 촉진됩니다. 따라서 활동성 소화성 궤양은 기존 용도와 기전상 직접 연결되며, 아래 임상시험과 문헌도 이를 뒷받침합니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00953381](https://clinicaltrials.gov/study/NCT00953381) | Phase 2 | 완료 | 235 | 급성 십이지장궤양에서 ilaprazole 3용량군(5/10/20mg) vs omeprazole 20mg, 4주 궤양치유율이 1차 평가변수 |
-| [NCT02847455](https://clinicaltrials.gov/study/NCT02847455) | Phase 2/3 | 완료 | 408 | 급성 십이지장궤양에서 ilaprazole(5/10mg) vs rabeprazole 10mg, 4주 궤양치유율 비교 |
-| [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Phase 3 | 완료 | 323 | H. pylori 양성 위/십이지장궤양 환자 대상 ilaprazole vs pantoprazole 3제요법 7일 제균효과 비교 |
-| [NCT06284876](https://clinicaltrials.gov/study/NCT06284876) | Phase 3 | 모집 중 | 416 | NSAID 연관 소화성궤양 예방에서 ilaprazole 10mg의 비열등성 평가(24주 시점, 결과 미도출) |
-| [NCT00952978](https://clinicaltrials.gov/study/NCT00952978) | Phase 3 | 완료 | 496 | 급성 십이지장궤양에서 ilaprazole 10mg vs omeprazole 20mg 대규모 3상 시험, 4주 궤양치유율 비교 |
+| [NCT02084420](https://clinicaltrials.gov/study/NCT02084420) | Phase 3 | 완료 | 323 | 위·십이지장 궤양 및 H. pylori 양성 환자에서 Ilaprazole vs Pantoprazole 3제 요법(7일)의 제균 효능·안전성 비교 |
+| [NCT06284876](https://clinicaltrials.gov/study/NCT06284876) | Phase 3 | 모집 중 | 416 | NSAID 연관 소화성 궤양 예방에서 Ilaprazole 10 mg의 비열등성 평가 (24주). 결과 미발표 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [19434360](https://pubmed.ncbi.nlm.nih.gov/19434360/) | 2009 | RCT | Journal of Gastroenterology | 위·십이지장궤양에서 ilaprazole과 omeprazole의 궤양치유 효과 비교 병행군 RCT |
-| [20679904](https://pubmed.ncbi.nlm.nih.gov/20679904/) | 2011 | RCT | Journal of Clinical Gastroenterology | 십이지장궤양 치료에서 신규 PPI ilaprazole과 omeprazole 비교, 용량-반응 관계 규명 |
-| [22070512](https://pubmed.ncbi.nlm.nih.gov/22070512/) | 2012 | RCT | Curr Med Res Opin | 십이지장궤양 3상 RCT, ilaprazole 10mg vs omeprazole 20mg, CYP2C19 대사와의 관계 분석 |
-| [27605258](https://pubmed.ncbi.nlm.nih.gov/27605258/) | 2016 | RCT | Clinical Drug Investigation | 역류성식도염(산 관련 질환) 치료에서 ilaprazole 다기관 활성대조 RCT |
-| [30789856](https://pubmed.ncbi.nlm.nih.gov/30789856/) | 2019 | RCT | Journal of Clinical Gastroenterology | 십이지장궤양 치료에서 ilaprazole과 rabeprazole 비교, 용량-효과 관계 탐색 |
-| [24801687](https://pubmed.ncbi.nlm.nih.gov/24801687/) | 2014 | Animal Study | Digestive Diseases and Sciences | 랫드 모델에서 정맥주사 ilaprazole이 경구제형보다 위병변에 더 강력한 보호효과(전임상) |
+| [22070512](https://pubmed.ncbi.nlm.nih.gov/22070512/) | 2012 | RCT | Curr Med Res Opin | 십이지장 궤양에서 Ilaprazole 10 mg과 오메프라졸 20 mg 비교 Phase 3 시험 |
+| [30789856](https://pubmed.ncbi.nlm.nih.gov/30789856/) | 2019 | RCT | J Clin Gastroenterol | 십이지장 궤양에서 Ilaprazole과 라베프라졸 비교, 용량-효과 관계 탐색 |
+| [20679904](https://pubmed.ncbi.nlm.nih.gov/20679904/) | 2011 | RCT | J Clin Gastroenterol | 십이지장 궤양에서 Ilaprazole과 오메프라졸 비교 다기관 시험 |
+| [19434360](https://pubmed.ncbi.nlm.nih.gov/19434360/) | 2009 | RCT | J Gastroenterol | 위·십이지장 궤양에서 Ilaprazole과 오메프라졸의 궤양 치유 효과 비교 |
+| [27605258](https://pubmed.ncbi.nlm.nih.gov/27605258/) | 2016 | RCT | Clin Drug Investig | 역류성 식도염에서 Ilaprazole의 안전성·효능 평가 |
+| [24801687](https://pubmed.ncbi.nlm.nih.gov/24801687/) | 2014 | 전임상(동물) | Dig Dis Sci | 쥐 위 병변 모델에서 정맥 투여 Ilaprazole이 경구보다 강력함 |
 
 ## 한국 시판 정보
 
-현재 대만(현지 규제기관) 내 허가받은 제품이 없습니다 (시판 현황: 미출시, 허가증 0건).
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200810688 | 놀텍정10밀리그램(일라프라졸) | 주황색의 타원형 장용성 필름코팅정제 | 허가증 원문 참조 |
+| 202500485 | 놀텍플러스정20/500밀리그램(일라프라졸, 탄산수소나트륨) | 주황색의 타원형 필름코팅정제 | 허가증 원문 참조 |
+| 201604386 | 놀텍정20밀리그램(수출용) | 주황색의 원형 장용성 필름코팅정제 | 허가증 원문 참조 |
+| 201701111 | 놀텍정10밀리그램(일라프라졸)(수출용) | 주황색의 타원형 장용성 필름코팅정제 | 허가증 원문 참조 |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 약리학 데이터상 Ilaprazole의 표적은 ATP4A(위 양성자펌프)이며, 그 외 구체적인 약물 간 상호작용 정보는 확인되지 않았습니다.
 
-> ⚠️ 참고: 근거팩에 명시된 데이터 갭(DG001, Blocking) 상 TFDA 수준의 경고·금기 정보 미확보로 안전성 초평가(S1) 자체가 진행되지 못한 상태입니다. 아래 결론의 "진행 조건"을 참조하세요.
+그 외 경고·금기 등 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-활동성 소화성궤양에 대해 완료된 Phase 2/3 RCT 다수(근거 수준 L1)가 ilaprazole의 유효성을 뒷받침하며, 이는 약물의 원 개발 적응증과 기전적으로 완전히 일치합니다. 다만 현지 허가·시판 이력이 전무하고, 안전성 데이터(경고/금기/DDI)가 아직 확보되지 않아 무조건적 진행은 불가하며 안전장치(Guardrails)를 전제로 한 진행이 타당합니다.
+완료된 Phase 3 시험과 여러 RCT가 소화성 궤양에 대한 Ilaprazole의 효능을 뒷받침하며, 이 적응증은 기존 허가 용도와 겹칩니다. 다만 근거 대부분이 십이지장 궤양에 집중되어 있고 허가 안전성 정보가 확보되지 않았습니다.
 
 **진행하려면 필요한 것:**
-- TFDA(현지 식약처) 수준 허가사항 경고·금기 정보 확보 (DG001, Blocking — 안전성 초평가 S1 진입의 선행 조건)
-- 공식 DrugBank MOA 데이터 확보 (DG002, High)
-- 약물상호작용(DDI) 프로파일 조사 (현재 not_found 상태)
-- 미시판 상태이므로 현지 규제기관 대상 허가 신청 또는 가교시험 필요 여부 검토
+- 허가사항(경고·금기·주의사항) 확보 및 안전성 검토
+- 상세 작용 기전(MOA) 데이터 보완
+- 위궤양 등 다른 소화성 궤양 아형에 대한 근거 적용 가능성 확인
+- 진행 중인 NSAID 연관 궤양 예방 시험(NCT06284876) 결과 추적
+
+---
+
+### 참고: 기타 예측 적응증 (간략)
+
+- **위궤양**: 완료된 Phase 3/4 시험과 RCT가 있어 근거 수준 L1(Proceed with Guardrails). 다만 Phase 3 자료 다수가 십이지장 궤양 중심이므로 위궤양에 직접 적용되는지 확인이 필요합니다.
+- **위공장 궤양**: 임상시험 없음, 십이지장 궤양 자료에서 외삽한 간접 근거만 있음 (L4, 연구 과제 수준).
+- **위십이지장염**: 임상시험 없음, 간접 RCT 1건만 있음 (L4, 연구 과제 수준).
+- **소화성 궤양 천공**: 임상시험·문헌 없음 (L5, Hold). 천공은 급성 외과적 합병증으로 산 억제가 직접 치료하지 못합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

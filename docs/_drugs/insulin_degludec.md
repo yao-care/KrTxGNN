@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Insulin Degludec
-parent: 높은 근거 (L1-L2)
-nav_order: 395
-evidence_level: L1
+parent: 모델 예측만 (L5)
+nav_order: 424
+evidence_level: L5
 indication_count: 6
 ---
 
 # Insulin Degludec
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **6** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,83 +29,105 @@ indication_count: 6
 
 </div>
 
-# 인슐린 데글루덱(Insulin Degludec): 당뇨병에서 제1형 당뇨병으로
+# Insulin Degludec: 기존 당뇨병 치료에서 제1형 당뇨병으로
 
 ## 한 문장 요약
 
-인슐린 데글루덱(DrugBank ID: DB09564)은 초장시간 작용형 기저 인슐린 유사체입니다. TxGNN 모델은 **제1형 당뇨병(Type 1 Diabetes Mellitus)**에 효과가 있을 것으로 예측(점수 99.44%)했으며, 현재 **50건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다. 다만 이 사례는 일반적인 "노후 약물의 신규 적응증 발굴"과는 성격이 다릅니다 — 제1형 당뇨병은 인슐린 데글루덱의 이미 확립된 핵심 약리 적응증(외인성 인슐린 보충)이며, TxGNN의 높은 점수는 새로운 가설이 아니라 이미 알려진 약리학적 사실을 반영한 것으로 판단됩니다.
+Insulin degludec은 초지속형 기저 인슐린 유사체로, 한국에서 당뇨병 치료제로 허가·시판되고 있습니다.
+TxGNN 모델은 **제1형 당뇨병(type 1 diabetes mellitus)**에 효과가 있을 것으로 예측하며, 이 예측을 뒷받침하는 **임상시험 40여 건**과 **문헌 19편**이 확인되었습니다.
+다만 제1형 당뇨병은 이 약의 기존 용도와 사실상 같은 영역이므로, 엄밀한 의미의 재창출이라기보다 기존 적응증을 재확인한 결과에 가깝습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 (한국 허가 자료 미확보) |
-| 예측 신규 적응증 | 제1형 당뇨병 (Type 1 Diabetes Mellitus) |
+| 기존 적응증 | 허가 적응증 본문은 이번 자료에 텍스트로 수록되어 있지 않아 확인할 수 없습니다(허가증 3건, 식약처 허가사항 문서 링크만 제공). |
+| 예측 신규 적응증 | 제1형 당뇨병 (type 1 diabetes mellitus) |
 | TxGNN 예측 점수 | 99.44% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Proceed with Guardrails (단, 아래 유의사항 참조) |
+| 근거 수준 | L1 (완료된 Phase 3 RCT 다수) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 3건 |
+| 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터는 확보되지 않았습니다(Drug-level 데이터 갭, 심각도 High). 다만 인슐린 데글루덱이라는 약물의 알려진 분류 정보에 따르면, 이 약물은 초장시간 작용형 기저 인슐린 유사체로, 피하 주사 후 가용성 다중헥사머를 형성하여 서서히 단량체로 분해·흡수되는 방식으로 안정적이고 지속적인 혈당강하 효과를 냅니다.
+현재 상세한 작용 기전(MOA) 데이터가 이번 자료에 없습니다. 알려진 정보에 따르면 Insulin degludec은 인슐린 수용체에 결합하여 부족한 내인성 인슐린을 대체하고 혈당을 낮추는 기저 인슐린 유사체입니다.
 
-이 후보는 일반적인 재창출 사례와 다릅니다. 근거팩의 기전 분석에 따르면, 제1형 당뇨병은 인슐린 데글루덱의 **핵심·기존 약리 적응증** 그 자체(수용체 수준에서 직접 작용하는 외인성 인슐린 보충 요법)이며, TxGNN이 지식그래프 추론을 통해 발견한 간접적 신규 연관성이 아닙니다. 즉 99.44%라는 높은 점수는 "새로운 가설"이 아니라 "이미 확립된 사실"을 재확인한 결과로 해석해야 합니다. 이 때문에 아래 임상 근거는 매우 풍부하지만, 진정한 의미의 "노후 약물 신규 적응증 발굴" 사례로 취급하기보다는 데이터 파이프라인 상 검토·제외 대상 여부를 사람이 확인할 필요가 있습니다.
+제1형 당뇨병은 인슐린이 절대적으로 결핍된 질환이므로, 이 약의 작용 방식이 질환의 병태생리와 직접 일치합니다. 따라서 TxGNN의 높은 예측 점수는 이미 확립된 사용을 반영한 것으로 해석됩니다.
+
+참고로 같은 모델이 예측한 다른 후보(자가면역성 난소염, 옵시스모이형성증, 티아민 반응성 기능장애 증후군, 강직 인간 증후군 등)는 임상시험과 문헌이 전혀 없는 근거 수준 L5로, 모두 보류(Hold) 수준입니다. 이들은 제1형 당뇨병과의 동반 질환 연관성이나 신호 전달 경로의 간접적 유사성에서 나온 계산상의 예측으로 보입니다.
 
 ## 임상시험 근거
 
+제1형 당뇨병 관련 임상시험이 다수 등록되어 있으며, 이 중 대표적인 10건을 정리했습니다. 완료된 Phase 3 시험이 여러 건 포함되어 있습니다.
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT01513473](https://clinicaltrials.gov/study/NCT01513473) | Phase 3 | 완료 | 350 | 소아·청소년 T1DM에서 인슐린 데글루덱 vs 데테미르 비교(BEGIN™ Young 1), 다국가·다기관 RCT |
-| [NCT02030600](https://clinicaltrials.gov/study/NCT02030600) | Phase 3 | 완료 | 721 | 인슐린 데글루덱 vs 글라진 무작위 교차 비교(SWITCH 2) |
-| [NCT02670915](https://clinicaltrials.gov/study/NCT02670915) | Phase 3 | 완료 | 834 | 소아·청소년 T1DM에서 fast-acting 아스파트 병용 데글루덱 효능·안전성 비교 |
-| [NCT06199505](https://clinicaltrials.gov/study/NCT06199505) | Phase 2 | 완료 | 153 | 신약 GZR101과의 head-to-head 비교(적응증 검증이 아닌 약물 간 비교) |
-| [NCT02392117](https://clinicaltrials.gov/study/NCT02392117) | N/A | 완료 | 1,262 | T1DM/T2DM 실사용 환경 안전성·유효성 관찰 연구(Tresiba®) |
-| [NCT00982228](https://clinicaltrials.gov/study/NCT00982228) | Phase 3 | 완료 | 629 | T1DM에서 데글루덱 vs 글라진 52주 비교(BEGIN™: BB T1 LONG/T1) |
-| [NCT03740919](https://clinicaltrials.gov/study/NCT03740919) | Phase 3 | 완료 | 751 | 소아·청소년 T1DM에서 LY900014 vs 인슐린 리스프로 비교 |
-| [NCT04974528](https://clinicaltrials.gov/study/NCT04974528) | Phase 3 | 완료 | 319 | 소아 T1DM/T2DM에서 흡입형 인슐린 vs 속효성 인슐린+기저인슐린 비교(INHALE-1) |
-| [NCT03938740](https://clinicaltrials.gov/study/NCT03938740) | Phase 2 | 완료 | 61 | T1DM에서 간표적 인슐린 리스프로 vs 데글루덱 기저 인슐린 용량 알고리즘 비교 |
-| [NCT06238778](https://clinicaltrials.gov/study/NCT06238778) | Phase 2 | 진행 중 | 227 | 데글루덱 병용 중인 T1DM 성인에서 HDV-인슐린 리스프로 비교 |
+| [NCT02034513](https://clinicaltrials.gov/study/NCT02034513) | Phase 3 | 완료 | 501 | SWITCH 1: 제1형 당뇨병에서 degludec과 glargine의 안전성·효능 비교(교차 시험) |
+| [NCT05463744](https://clinicaltrials.gov/study/NCT05463744) | Phase 3 | 완료 | 692 | 주 1회 기저 인슐린 efsitora와 degludec 비교 |
+| [NCT02500706](https://clinicaltrials.gov/study/NCT02500706) | Phase 3 | 완료 | 1108 | 성인에서 degludec 병용 시 속효성 인슐린 aspart와 NovoRapid 비교 |
+| [NCT02670915](https://clinicaltrials.gov/study/NCT02670915) | Phase 3 | 완료 | 834 | 소아·청소년에서 degludec 병용 시 속효성 aspart와 NovoRapid 비교 |
+| [NCT01835431](https://clinicaltrials.gov/study/NCT01835431) | Phase 3 | 완료 | 362 | 소아·청소년에서 degludec/aspart와 detemir 병용요법 비교 |
+| [NCT00978627](https://clinicaltrials.gov/study/NCT00978627) | Phase 3 | 완료 | 548 | degludec/aspart 복합제와 detemir + aspart 비교(BOOST T1) |
+| [NCT01569841](https://clinicaltrials.gov/study/NCT01569841) | Phase 3 | 완료 | 24 | 지속혈당측정으로 degludec과 glargine의 혈당 조절 비교 |
+| [NCT04075513](https://clinicaltrials.gov/study/NCT04075513) | Phase 4 | 완료 | 343 | Toujeo(glargine 300 U/ml)와 Tresiba(degludec)의 혈당 목표 범위 및 변동성 비교 |
+| [NCT03838783](https://clinicaltrials.gov/study/NCT03838783) | Phase 4 | 불명 | 30 | 운동량이 많은 환자에서 degludec과 인슐린 펌프 병용 요법 평가 |
+| [NCT00612040](https://clinicaltrials.gov/study/NCT00612040) | Phase 2 | 완료 | 178 | degludec 두 제형과 glargine을 기저-식사 인슐린 요법으로 비교 |
+
+이 외에도 약력학·약동학 중심의 Phase 1 시험, 한국 시판 후 조사(NCT03416855, 768명) 등 실제 사용 환경 연구가 다수 등록되어 있습니다. 일부 Phase 3 시험(NCT03740919, NCT03952130 등)은 degludec이 배경 기저 인슐린으로 쓰인 시험이어서 이 약 자체를 검증한 것은 아닙니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes Endocrinol | 임신한 T1DM 여성에서 데글루덱 vs 데테미르 비열등성 시험(EXPECT) |
-| [37863084](https://pubmed.ncbi.nlm.nih.gov/37863084/) | 2023 | Phase 3a RCT | Lancet | 주 1회 인슐린 아이코덱 vs 매일 데글루덱, T1DM 대상 치료목표 도달 시험(ONWARDS 6) |
-| [39270686](https://pubmed.ncbi.nlm.nih.gov/39270686/) | 2024 | Phase 3 RCT | Lancet | 주 1회 efsitora alfa vs 데글루덱, T1DM 비열등성 시험(QWINT-5) |
-| [34643020](https://pubmed.ncbi.nlm.nih.gov/34643020/) | 2022 | RCT | Diabetes Obes Metab | 야간 중증 저혈당 취약 T1DM 환자에서 데글루덱 vs 글라진 U100 교차 비교(HypoDeg) |
-| [36763996](https://pubmed.ncbi.nlm.nih.gov/36763996/) | 2022 | 체계적 문헌고찰/메타분석 | Clin Ther | T1DM·T2DM에서 데글루덱과 타 장시간 기저 인슐린 유효성·내약성 비교 |
-| [35476308](https://pubmed.ncbi.nlm.nih.gov/35476308/) | 2022 | 체계적 문헌고찰 | Int J Clin Pharm | T1DM에서 데글루덱 U100 vs 글라진 U300 안전성·유효성·비용효과 간접비교 |
-| [29477399](https://pubmed.ncbi.nlm.nih.gov/29477399/) | 2018 | 체계적 문헌고찰/네트워크 메타분석 | Value Health | 성인 T1DM 기저 인슐린 요법 비교 |
-| [37290466](https://pubmed.ncbi.nlm.nih.gov/37290466/) | 2023 | Review | Lancet Diabetes Endocrinol | 임신 중 T1DM 관리(생활습관·약물·신기술 포함) |
-| [31055056](https://pubmed.ncbi.nlm.nih.gov/31055056/) | 2020 | Review | Diabetes Metab | RCT 및 관찰연구 기반 T1DM/T2DM에서 데글루덱 현황 |
-| [23890782](https://pubmed.ncbi.nlm.nih.gov/23890782/) | 2014 | Review | Endocrinol Nutr | T1DM/T2DM 치료용 초장시간 기저 인슐린 데글루덱의 임상연구 발전 |
+| [39270686](https://pubmed.ncbi.nlm.nih.gov/39270686/) | 2024 | RCT | Lancet | QWINT-5: 성인 제1형 당뇨병에서 주 1회 efsitora와 degludec의 효능·안전성 비교(비열등성 Phase 3) |
+| [37863084](https://pubmed.ncbi.nlm.nih.gov/37863084/) | 2023 | RCT | Lancet | ONWARDS 6: 주 1회 icodec과 매일 degludec의 기저-식사 요법 비교 |
+| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes Endocrinol | EXPECT: 임신한 제1형 당뇨병 여성에서 degludec과 detemir 비교 |
+| [36763996](https://pubmed.ncbi.nlm.nih.gov/36763996/) | 2022 | 체계적 문헌고찰/메타분석 | Clin Ther | degludec과 다른 장시간 작용 기저 인슐린의 효능·내약성 비교 |
+| [33662147](https://pubmed.ncbi.nlm.nih.gov/33662147/) | 2021 | 체계적 문헌고찰 | Cochrane Database Syst Rev | 제1형 당뇨병에서 (초)장시간 작용 인슐린 유사체 평가 |
+| [40627908](https://pubmed.ncbi.nlm.nih.gov/40627908/) | 2025 | 체계적 문헌고찰/메타분석 | J Diabetes Complications | degludec과 efsitora의 효능·안전성 비교 |
+| [35476308](https://pubmed.ncbi.nlm.nih.gov/35476308/) | 2022 | 체계적 문헌고찰 | Int J Clin Pharm | 제1형 당뇨병에서 degludec U100과 glargine U300의 간접 비교 |
+| [29477399](https://pubmed.ncbi.nlm.nih.gov/29477399/) | 2018 | 네트워크 메타분석 | Value Health | 성인 제1형 당뇨병의 기저 인슐린 요법별 상대적 효능·안전성 |
+| [40903851](https://pubmed.ncbi.nlm.nih.gov/40903851/) | 2025 | 무작위 대조 시험 | Diabetes Obes Metab | 당뇨병성 케톤산증에서 degludec 조기 병용 효과 평가 |
+| [23620200](https://pubmed.ncbi.nlm.nih.gov/23620200/) | 2013 | Review | Drugs | degludec 및 degludec/aspart의 당뇨병 치료 활용 개관 |
 
 ## 한국 시판 정보
 
-현재 한국에 시판 중인 인슐린 데글루덱 제품이 없습니다 (허가증 0건, 미시판).
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201401271 | 리조덱플렉스터치주100단위/밀리리터 | 주사제(펜형, 무색 투명한 액) | 식약처 허가사항 문서 참조 |
+| 201401272 | 트레시바플렉스터치주 100단위/밀리리터(인슐린데글루덱) | 주사제(펜형, 무색 투명한 액) | 식약처 허가사항 문서 참조 |
+| 201905977 | 줄토피플렉스터치주 | 프리필드 펜형 주사제 | 식약처 허가사항 문서 참조 |
+
+3건 모두 노보노디스크제약(주)의 유효한 단일제 허가입니다.
+
+## 세포독성
+
+해당 없음(항종양약이 아님)이므로 이 섹션은 생략합니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 상호작용 조회 결과 100건이 확인되었으며, 대부분 중등도(Moderate)입니다. 대표적으로 다음과 같은 약물이 있습니다.
+  - 베타 작용제·교감신경 작용제: phenylephrine, pseudoephedrine, epinephrine, salbutamol, formoterol
+  - 베타 차단제: acebutolol
+  - 다른 항당뇨제: metformin, pioglitazone, alogliptin, albiglutide
+  - 호르몬제·기타: estradiol, levonorgestrel, norethisterone, hydrocortisone, hydrochlorothiazide, doxycycline, alpelisib, ethanol
+  - 경미(Minor) 수준: 국소 hydrocortisone, 국소 alclometasone
+
+경고 및 금기 사항은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails** *(단, 아래 유의사항 전제)*
+**결정: Proceed with Guardrails**
 
 **사유:**
-- 임상 근거 자체는 매우 강력합니다(완료된 Phase 3 RCT 다수, 근거 수준 L1). 그러나 이 후보는 진정한 "노후 약물 신규 적응증"이 아니라 인슐린 데글루덱의 기존 핵심 적응증(T1DM)을 TxGNN이 재확인한 사례일 가능성이 높습니다. 파이프라인 상 실제 재창출 후보로 분류할지, 아니면 학습 데이터 편향(기존 적응증 재발견)으로 제외할지 사람의 판단이 필요합니다.
-- Blocking 데이터 갭(DG001: 식약처 라벨 경고·금기사항 부재)이 해결되지 않아 안전성 초기평가(S1) 단계를 정식으로 통과하지 못한 상태입니다.
+제1형 당뇨병에서 degludec을 직접 평가한 완료된 Phase 3 RCT(SWITCH 1 등)와 다수의 체계적 문헌고찰이 있어 근거는 충분합니다. 다만 이는 기존 용도의 재확인이며, 허가 적응증 본문과 안전성 정보가 이번 자료에 없어 확인이 필요합니다.
 
 **진행하려면 필요한 것:**
-- 식약처(허가기관) 라벨 PDF 확보 및 경고·금기·DDI 정보 파싱 (DG001, Blocking)
-- DrugBank API를 통한 상세 작용기전(MOA) 데이터 보완 (DG002, High)
-- 이 후보가 "신규 적응증 발굴"인지 "기존 적응증 재확인"인지에 대한 전문가 검토 및 분류
-- 한국 시판 현황 모니터링(현재 미시판이므로 향후 허가 여부 추적)
-
-참고: 같은 근거팩에 포함된 나머지 5개 예측 적응증(자가면역 난소염, opsismodysplasia, 티아민 반응성 기능장애 증후군, 전형적/국소형 뻣뻣한 사람 증후군)은 모두 임상시험·문헌 근거가 전무한 근거 수준 L5(모델 예측만 존재)로, 권장 결정은 Hold입니다.
+- 식약처 허가사항 문서(3건)에서 허가 적응증, 경고, 금기 사항 확보 및 제1형 당뇨병 허가 범위 확인
+- 상세한 작용 기전(MOA) 데이터 보완
+- 저혈당 위험 관리 계획과 병용약물 상호작용(특히 베타 작용제·다른 항당뇨제) 모니터링 방안
+- 자가면역성 난소염 등 다른 예측 후보는 근거가 없으므로 보류하고, 추가 연구 없이는 진행하지 않음
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

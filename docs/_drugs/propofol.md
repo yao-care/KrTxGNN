@@ -2,7 +2,7 @@
 layout: default
 title: Propofol
 parent: 높은 근거 (L1-L2)
-nav_order: 581
+nav_order: 633
 evidence_level: L2
 indication_count: 5
 ---
@@ -29,83 +29,102 @@ indication_count: 5
 
 </div>
 
-# Propofol: 전신마취에서 편두통(Migraine)으로
+# Propofol: 마취·진정에서 편두통으로
 
 ## 한 문장 요약
 
-Propofol은 정맥마취제로서 전신마취 유도 및 진정에 널리 사용되어 온 약물입니다(단, 본 Evidence Pack에는 공식 기존 적응증 데이터가 등록되어 있지 않아 일반적으로 알려진 용도 기준으로 기재).
-TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다고 예측하며, 현재 **5건의 임상시험**과 **20편의 문헌**이 이 방향을 지지하고, 그중 완료된 RCT와 체계적 문헌고찰이 포함되어 있습니다.
-
----
+Propofol은 정맥 투여 전신마취제·진정제로, 한국에서 마취 및 진정 목적으로 널리 허가되어 있습니다.
+TxGNN 모델은 **편두통(Migraine disorder)**에 효과가 있을 수 있다고 예측하며, 현재 **3건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 전신마취/진정 (일반적으로 알려진 용도; Evidence Pack 내 공식 적응증 데이터 없음) |
-| 예측 신규 적응증 | 편두통 (Migraine Disorder) |
+| 기존 적응증 | 전신마취 및 진정 (허가 적응증 원문은 이 보고서용으로 수집된 데이터에 텍스트로 포함되지 않아, 일반적인 약물 용도 기준으로 기재) |
+| 예측 신규 적응증 | 편두통 (Migraine disorder) |
 | TxGNN 예측 점수 | 99.69% |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | 미출시 |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 19건 |
 | 권장 결정 | Proceed with Guardrails |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-현재 Propofol의 상세한 작용 기전(MOA) 데이터는 Evidence Pack에 등록되어 있지 않습니다. 다만 관련 문헌 및 재창출 근거(repurposing_rationale)에 따르면, Propofol은 **GABA-A 수용체 작용제**로서 중추신경 억제 효과를 가지며, 편두통의 병태생리 핵심 기전 중 하나로 알려진 **피질확산억제(cortical spreading depression, CSD)**를 억제하는 작용이 보고되어 있습니다.
+Propofol은 GABA-A 수용체의 양성 알로스테릭 조절제입니다. GABA 신경 억제를 강화하여 대뇌 피질과 삼차신경혈관계의 과흥분을 완화할 수 있습니다. 전임상 연구에서는 propofol hemisuccinate가 편두통 전조와 통증의 기반으로 여겨지는 피질 확산성 억제(cortical spreading depression)를 억제하는 것으로 보고되었습니다.
 
-실제로 저용량(subanesthetic dose) Propofol은 소아·성인 응급실에서 난치성 편두통에 대한 "rescue therapy"로 다년간 임상 실무에서 사용되어 온 이력이 있으며, 관련 기전 연구(PMID 22390898)에서도 Propofol이 CSD를 억제함을 실험적으로 확인한 바 있습니다. 이는 TxGNN 예측의 생물학적 타당성을 뒷받침합니다.
+다만 이 보고서용으로 수집된 데이터에는 상세한 작용 기전 항목이 비어 있습니다. 위 기전 설명은 예측 근거 분석에 기재된 내용에 따른 것입니다.
 
----
+임상적으로는 응급실에서 표준 치료에 반응하지 않는 난치성 급성 발작에 저용량 정맥 투여로 사용하는 방식이 연구되고 있습니다. 마취 용량이 아닌 소량(subanesthetic dose)을 모니터링 환경에서 쓰는 것이 전제입니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT01604785](https://clinicaltrials.gov/study/NCT01604785) | Phase 2/3 | 완료 | 74 | 소아 응급실 편두통 급성발작에 저용량 propofol 투여, 표준치료보다 안전하고 효과적일 가능성 시사 |
-| [NCT02485418](https://clinicaltrials.gov/study/NCT02485418) | N/A | 완료 | 40 | 소아 편두통 급성발작 치료제로서 저용량 propofol 지속주입의 유효성 및 안전 용량 범위 평가 |
-| [NCT02492295](https://clinicaltrials.gov/study/NCT02492295) | N/A | 조기중단 | 12 | 성인 난치성 중증 편두통에 저용량 propofol 투여, 표본 수 부족으로 조기 종료 |
-| [NCT03789370](https://clinicaltrials.gov/study/NCT03789370) | N/A | 불명 | 130 | Sevoflurane 대비 propofol 마취 유지 시 수술 후 두통 발생률 비교(간접 관련) |
-
----
+| [NCT01604785](https://clinicaltrials.gov/study/NCT01604785) | Phase 2/3 | 완료 | 74 | 응급실 소아 편두통에서 저용량 propofol의 급성기 치료 효과 평가 |
+| [NCT02485418](https://clinicaltrials.gov/study/NCT02485418) | 해당 없음 | 완료 | 40 | 소아 편두통에서 저용량 propofol 주입의 효능, 안전 용량 범위 및 지속 시간 평가 |
+| [NCT02492295](https://clinicaltrials.gov/study/NCT02492295) | 해당 없음 | 조기 종료 | 12 | 응급실 중증 난치성 편두통에서 저용량 propofol 평가 (등록 수가 적어 근거 가치 제한적) |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | Guideline/Review | Headache | 미국두통학회(AHS), 응급실 편두통 비경구 약물치료 가이드라인 갱신 |
-| [29456086](https://pubmed.ncbi.nlm.nih.gov/29456086/) | 2018 | RCT | J Emerg Med | 소아 편두통에 저용량 propofol의 전향적 무작위대조시험, 부작용 프로파일 양호 및 재원기간 단축 가능성 |
-| [31621134](https://pubmed.ncbi.nlm.nih.gov/31621134/) | 2020 | 체계적 문헌고찰 | Acad Emerg Med | 응급실 급성 편두통에서 propofol의 안전성·유효성에 대한 제한적 근거 종합 |
-| [35402989](https://pubmed.ncbi.nlm.nih.gov/35402989/) | 2022 | RCT | Arch Acad Emerg Med | Propofol+Granisetron vs Propofol+Metoclopramide 비교, 급성 편두통 증상 관리 |
-| [35573713](https://pubmed.ncbi.nlm.nih.gov/35573713/) | 2022 | RCT | Arch Acad Emerg Med | Sumatriptan 단독 대비 Sumatriptan+Propofol 병용의 급성 편두통 효능 평가 |
-| [32705801](https://pubmed.ncbi.nlm.nih.gov/32705801/) | 2020 | RCT(Pilot) | Emerg Med Australas | 응급실 급성 편두통에서 procedural sedation 용량의 propofol vs 표준치료 비교 |
-| [39364614](https://pubmed.ncbi.nlm.nih.gov/39364614/) | 2024 | 체계적 문헌고찰/네트워크분석 | Headache | 중증 급성 편두통 후 재발 방지를 위한 비경구 약제 효과 비교 |
-| [24875925](https://pubmed.ncbi.nlm.nih.gov/24875925/) | 2015 | 체계적 문헌고찰(가이드라인) | Cephalalgia | 캐나다두통학회, 응급 환경에서 편두통 통증 치료 권고안 |
-| [27454834](https://pubmed.ncbi.nlm.nih.gov/27454834/) | 2016 | 후향적 코호트 | Expert Rev Neurother | 난치성 편두통에서 저용량 propofol의 약물 프로파일 및 임상 경험 정리 |
-| [10759925](https://pubmed.ncbi.nlm.nih.gov/10759925/) | 2000 | 초기 임상 경험 | Headache | 외래 두통클리닉에서 난치성 편두통에 대한 정맥 propofol의 독보적 유효성 최초 보고 |
+| [32705801](https://pubmed.ncbi.nlm.nih.gov/32705801/) | 2020 | RCT (파일럿) | Emerg Med Australas | 응급실 편두통에서 진정 용량 propofol과 표준 치료 비교 |
+| [29456086](https://pubmed.ncbi.nlm.nih.gov/29456086/) | 2018 | RCT | J Emerg Med | 소아 편두통에서 저용량 propofol의 전향적 무작위 대조 시험 |
+| [35402989](https://pubmed.ncbi.nlm.nih.gov/35402989/) | 2022 | RCT | Arch Acad Emerg Med | 급성 편두통에서 propofol+granisetron과 propofol+metoclopramide 비교 |
+| [35573713](https://pubmed.ncbi.nlm.nih.gov/35573713/) | 2022 | RCT | Arch Acad Emerg Med | 급성 편두통에서 sumatriptan 단독과 sumatriptan+propofol 병용 비교 |
+| [31621134](https://pubmed.ncbi.nlm.nih.gov/31621134/) | 2020 | 체계적 문헌고찰 | Acad Emerg Med | 응급실 급성 편두통에서 propofol의 안전성과 효능 검토. 근거가 제한적이라고 평가 |
+| [41321235](https://pubmed.ncbi.nlm.nih.gov/41321235/) | 2026 | 가이드라인 | Headache | 응급실 성인 급성 편두통의 비경구 약물치료에 대한 미국두통학회 가이드라인 업데이트 |
+| [24875925](https://pubmed.ncbi.nlm.nih.gov/24875925/) | 2015 | 체계적 문헌고찰/가이드라인 | Cephalalgia | 캐나다두통학회의 응급 환경 편두통 통증 치료 권고 |
+| [26790849](https://pubmed.ncbi.nlm.nih.gov/26790849/) | 2016 | 체계적 문헌고찰 | Headache | 응급실 소아 편두통 급성기 치료의 안전성과 효능 평가 |
+| [27454834](https://pubmed.ncbi.nlm.nih.gov/27454834/) | 2016 | 리뷰/증례 시리즈 | Expert Rev Neurother | 난치성 편두통에서 subanesthetic 용량 propofol의 약물 프로파일 정리 |
+| [10759925](https://pubmed.ncbi.nlm.nih.gov/10759925/) | 2000 | 관찰 연구 | Headache | 외래 두통센터에서 난치성 편두통에 대한 정맥 propofol의 효과 보고 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201101016 | 비.브라운프로포폴-리푸로1%주(앰플) | 주사제(앰플) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
+| 201100957 | 프리폴-엠시티주 | 주사제(바이알) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
+| 202106888 | 프레조폴엠시티프리필드주2% | 주사제(프리필드시린지) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
+| 201500098 | 프리폴-엠시티주2% | 주사제(바이알) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
+| 201100959 | 아네폴주사 | 주사제(앰플) | 허가 적응증 원문은 허가사항 문서(MFDS) 참조 |
+
+전체 19건이 모두 유효한 단일제 허가이며, 일부는 수출용입니다. 현재 허가된 용도는 편두통이 아니므로, 편두통 사용은 허가 외(off-label) 사용에 해당합니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **금기 관련 지식그래프 신호**: 지식그래프에서 간질, 저혈압성 질환, 호흡부전, 두개내 동맥경화, 유전성 지질대사 장애, 가족성 고지혈증과 연관된 금기 관계가 확인되었습니다. 허가사항 문구가 아닌 모델 지식그래프 기반 정보이므로 허가사항과 대조가 필요합니다.
+- **약물 상호작용**: 총 100건이 확인되었으며, 대부분 중등도(Moderate)입니다. 주요 항목은 다음과 같습니다.
+  - 오피오이드: morphine, 리포좀 morphine, opium
+  - 항구토제(QT 연장 관련 가능): ondansetron, granisetron, dolasetron
+  - 항생제: clarithromycin, levofloxacin (metronidazole은 경미)
+  - 위장관 약물: famotidine, cisapride, loperamide, 완하제류(bisacodyl, castor oil, lactulose, lactitol, glycerin, 마그네슘 제제, mineral oil)
+- **재창출 관련 주의**: 응급실 저용량 정맥 투여 시 호흡 및 혈압 모니터링이 필요합니다. 마취 중 관상동맥 연축이 유발된 증례 보고도 있습니다.
 
----
+허가사항의 경고 및 금기 원문은 현재 수집되지 않았으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-저용량 Propofol의 편두통 치료 효과를 지지하는 완료된 RCT(PMID 29456086 등)와 체계적 문헌고찰이 다수 존재하며, CSD 억제라는 기전적 타당성도 확인됩니다. 다만 대부분의 임상시험이 소규모(n<100)이거나 조기 종료(NCT02492295)된 사례가 있어, 대규모 확증 임상시험 없이 바로 적응증 확대를 진행하기에는 근거가 제한적입니다.
+완료된 Phase 2/3 시험 1건(n=74)과 여러 RCT가 응급실 편두통에서 저용량 propofol의 가능성을 보여 근거 수준은 L2입니다. 다만 검증된 Phase 3 결과가 없고, 소규모 시험이 많으며, 사용은 모니터링되는 응급실 환경으로 제한됩니다.
 
 **진행하려면 필요한 것:**
-- 한국 내 Propofol 허가사항(경고, 금기, DDI) 확보 — 현재 Evidence Pack에 안전성 데이터 부재
-- 상세 작용기전(MOA) 자료 확보 및 편두통 병태생리와의 연관성 정밀 검증
-- 대규모 다기관 RCT를 통한 유효 용량 및 안전 프로파일 재확인
-- 성인/소아 대상별 하위집단 분석(현재 근거는 대부분 소아 응급실 환경에 편중)
+- 허가사항(MFDS)의 경고, 금기, 적응증 원문 확보 및 지식그래프 금기 신호와의 대조
+- 상세한 작용 기전(MOA) 데이터 보완
+- 확증적 Phase 3 RCT 또는 대규모 무작위 시험 근거 확보
+- 조기 종료된 시험(NCT02492295)의 종료 사유 확인
+- 저용량 투여 프로토콜, 대상(소아/성인), 호흡·혈압 모니터링 체계 정의
+
+### 참고: 기타 예측 적응증
+
+| 순위 | 적응증 | TxGNN 점수 | 근거 수준 | 판단 |
+|------|--------|-----------|----------|------|
+| 2 | 뇌간 전조 편두통 | 99.58% | L4 | 아형 특이적 시험이 없고 일반 편두통 근거와 전임상 연구에서 추정한 것이어서, 연구 질문 수준 |
+| 3 | 프린츠메탈 협심증 | 99.23% | L4 | 마취 중 관상동맥 연축 유발 증례만 있어 치료 효과가 아닌 안전성 신호이며 Hold |
+| 4 | 신성 항이뇨호르몬 부적절 분비 증후군 | 99.20% | L5 | 기전적 연결과 문헌이 없고 모델 예측만 있어 Hold |
+| 5 | 뚜렛 증후군 | 99.03% | L4 | 심부뇌자극술 중 진정제로 쓴 연구뿐이며 틱 치료 효과 근거가 없어 Hold |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

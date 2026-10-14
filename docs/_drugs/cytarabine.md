@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cytarabine
-parent: 중등도 근거 (L3-L4)
-nav_order: 230
-evidence_level: L3
+parent: 모델 예측만 (L5)
+nav_order: 244
+evidence_level: L5
 indication_count: 9
 ---
 
 # Cytarabine
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,92 @@ indication_count: 9
 
 </div>
 
-# Cytarabine: 백혈병에서 소세포폐암으로
+# Cytarabine: 허가 적응증에서 소세포폐암으로
 
 ## 한 문장 요약
 
-Cytarabine(Ara-C, DrugBank DB00987)은 S기 특이적 피리미딘계 항대사물질로, 국제적으로는 급성백혈병 등 혈액암 치료의 핵심 약제로 사용되어 왔습니다.
-TxGNN 모델은 **소세포폐암(Small Cell Lung Carcinoma)**에 효과가 있을 수 있다고 예측하며(예측 점수 99.78%), 현재 **3건의 임상시험**과 **20편의 문헌**이 수집되었으나 대부분 조직형이 다른 비소세포폐암(NSCLC) 대상 자료라 근거의 질은 제한적입니다.
-
----
+Cytarabine은 피리미딘 계열 항대사 항종양제로, 한국에서 주사제로 허가·시판되고 있습니다. TxGNN 모델은 **소세포폐암(Small Cell Lung Carcinoma)**에 효과가 있을 수 있다고 예측하지만, 현재 이 적응증과 직접 연결된 임상시험은 없으며 소세포폐암 자체를 다룬 문헌도 매우 제한적입니다. 근거는 사실상 모델 예측과 간접적인 문헌 수준에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 정보 없음(국내 미상장). 국제적으로는 급성 백혈병(AML/ALL) 치료제로 사용 |
+| 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 수록되어 있어 확인할 수 없음 (허가사항 원문 확인 필요) |
 | 예측 신규 적응증 | 소세포폐암 (Small Cell Lung Carcinoma) |
 | TxGNN 예측 점수 | 99.78% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✗ 미상장 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L4 (전임상·기전 수준, 직접적 임상 근거 없음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 5건 |
 | 권장 결정 | Hold |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-Cytarabine(Ara-C)은 S기 특이적 피리미딘계 항대사물질로, DNA 중합효소를 억제하여 세포독성을 나타냅니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 cytarabine은 피리미딘 뉴클레오시드 항대사제로, S기 세포의 DNA 합성을 억제합니다. 소세포폐암은 증식이 빠른 종양이므로 이러한 기전이 이론적으로는 적용될 수 있습니다.
 
-1980~90년대에 cisplatin, vindesine 등과 병용하여 진행성 폐암 화학요법 조합의 일부로 시험된 이력이 있습니다(PMID 2156598, 2157307, 2820740). 실제로 소세포폐암(SCLC)에서도 cyclophosphamide·adriamycin과의 병용요법(PMID 232239, 6095640) 및 재발성 SCLC에서 etoposide와의 병용요법(PMID 2841844) 사례가 보고되어 있어, 기전상 폐암에 적용될 근거는 존재합니다.
-
-다만 수집된 임상시험 3건은 모두 비소세포폐암(NSCLC) 또는 관련성 낮음(등급 C)으로 평가되어, 예측된 "소세포폐암"과 실제 근거 대상 조직형 사이에 불일치 위험이 있습니다. 문헌 증거는 주로 1978~1992년의 소규모 Phase II·증례보고 수준으로, 최신 대규모 무작위 대조군 연구는 확인되지 않았습니다.
-
----
+다만 이 연결은 간접적입니다. 수집된 문헌은 대부분 비소세포폐암(NSCLC), 수막 전이, 다른 항대사제(gemcitabine, decitabine, pemetrexed)를 다루고 있으며, 소세포폐암에서 cytarabine을 직접 평가한 자료는 확인되지 않았습니다. 1987년의 고용량 cytarabine 소세포폐암 보고(PMID 3030547)가 있으나 초록이 없어 결과를 알 수 없습니다. 높은 TxGNN 점수는 모델 예측일 뿐입니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00863512](https://clinicaltrials.gov/study/NCT00863512) | Phase 3 | 조기 종료(n=34) | 34 | 초기 NSCLC 수술 후 보조화학요법 vs 관찰; cytarabine 사용 확인 안 됨, SCLC 대상 아님(등급 C) |
-| [NCT03507244](https://clinicaltrials.gov/study/NCT03507244) | Phase 1/2 | 완료 | 34 | NSCLC 연수막 전이에 intrathecal pemetrexed+방사선; cytarabine 아님(등급 C) |
-| [NCT03101579](https://clinicaltrials.gov/study/NCT03101579) | Phase 1 | 완료 | 13 | NSCLC 재발 연수막 전이에 intrathecal pemetrexed; cytarabine 아님(등급 C) |
-
-**주의:** 위 3건 모두 관련성 등급 C(낮음)로 평가되었으며, cytarabine 직접 투여 근거나 SCLC 특이적 시험은 확인되지 않았습니다.
-
----
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
+소세포폐암과의 관련성이 상대적으로 높은 문헌을 우선 정리했습니다. 대부분 비소세포폐암 연구이므로 간접 근거입니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Phase II trial | Cancer | 미치료 NSCLC 37명, 고용량 cytarabine+cisplatin; 반응률 14%, Grade IV 골수억제 32% |
-| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Phase II trial | Tumori | 진행성 NSCLC 32명, cytarabine+cisplatin+vindesine 병용, 완전관해 18% |
-| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | Phase II (pilot) | Eur J Cancer Clin Oncol | 진행성 NSCLC 대상 cisplatin+cytarabine 병용 예비연구 |
-| [6095640](https://pubmed.ncbi.nlm.nih.gov/6095640/) | 1984 | Case series | Am J Clin Oncol | SCLC에서 고강도 cytosine arabinoside 단독/CAV 병용요법; 단독 시 무반응·중증 독성 |
-| [2841844](https://pubmed.ncbi.nlm.nih.gov/2841844/) | 1988 | Case series | Am J Clin Oncol | 재발성 SCLC 17명, VP-16+지속주입 Ara-C 병용 |
-| [232239](https://pubmed.ncbi.nlm.nih.gov/232239/) | 1979 | Review/case series | Med Pediatr Oncol | SCLC 20명, cyclophosphamide+adriamycin+cytosine arabinoside+방사선 병용 |
-| [6264785](https://pubmed.ncbi.nlm.nih.gov/6264785/) | 1981 | Case report | Am J Med | SCLC의 수막암종증 60명 코호트, 집중 화학요법 반응률 78% |
-| [28223673](https://pubmed.ncbi.nlm.nih.gov/28223673/) | 2017 | Case report | 癌と化学療法 | SCLC 수막암종증 증례, 다학제 접근으로 치료 |
-| [348088](https://pubmed.ncbi.nlm.nih.gov/348088/) | 1978 | Review(약물화학) | Antibiot Chemother | Ara-C 유도체(cyclocytidine, AAFC 등) 개관 |
-| [14653877](https://pubmed.ncbi.nlm.nih.gov/14653877/) | 2002 | Case report | Clin Lung Cancer | Gemcitabine(Ara-C 구조 유사체)+paclitaxel NSCLC 증례, 과민성 폐렴 2례 |
+| [3030547](https://pubmed.ncbi.nlm.nih.gov/3030547/) | 1987 | 미분류 | Cancer Treat Rep | 소세포폐암에서의 고용량 cytarabine (초록 없음, 결과 확인 불가) |
+| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Phase II | Cancer | 진행성 NSCLC에서 고용량 cytarabine + cisplatin. 반응률 14%, 4등급 골수억제 32% |
+| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Phase II | Tumori | NSCLC에서 cytarabine + cisplatin + vindesine 병용 |
+| [2158614](https://pubmed.ncbi.nlm.nih.gov/2158614/) | 1990 | 무작위 Phase II | Med Pediatr Oncol | NSCLC 151명에서 cisplatin-cytarabine과 cisplatin-vinblastine 비교 |
+| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | 예비 연구 | Eur J Cancer Clin Oncol | 진행성 NSCLC에서 cisplatin + cytarabine 병용 |
+| [1332622](https://pubmed.ncbi.nlm.nih.gov/1332622/) | 1992 | 종설 | Gan To Kagaku Ryoho | cytarabine과 구조적으로 유사한 gemcitabine, DMDC. 고형암 다수는 cytarabine에 둔감하다고 언급 |
+| [38377785](https://pubmed.ncbi.nlm.nih.gov/38377785/) | 2024 | Phase II | ESMO Open | EGFR+ NSCLC 연수막 전이에서 척수강 내 pemetrexed (cytarabine 아님, 간접) |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200110136 | 화이자시타라빈주 | 주사제 (바이알) | 허가사항 원문 참조 |
+| 200200232 | 중외시타라빈바이알주사액 | 주사제 (바이알) | 허가사항 원문 참조 |
+| 200108881 | 화이자시타라빈주100mg/5ml | 주사제 (바이알) | 허가사항 원문 참조 |
+| 202204315 | 빅시오스리포좀주 | 리포좀 동결건조 주사제 | 허가사항 원문 참조 |
+| 198900253 | 중외시타라빈주사액100밀리그램(수출용) | 주사제 (앰플) | 허가사항 원문 참조 |
+
+## 세포독성
+
+| 항목 | 내용 |
+|------|------|
+| 세포독성 분류 | 기존 세포독성 약물 (피리미딘 유사체 항대사제) |
+| 골수억제 위험 | 고 (문헌상 고용량 병용 시 4등급 골수억제 32%) |
+| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 모니터링 항목 | CBC(분류 포함), 간·신기능 |
+| 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
+
+## 안전성 고려사항
+
+- **약물 상호작용**: 수집된 상호작용 정보는 총 100건이며, 상위 항목 중 중등도는 naltrexone, 경미는 levofloxacin입니다. 나머지(mannitol, pantoprazole, glimepiride, doxycycline, morphine, metformin, omeprazole 등)는 등급 미상입니다.
+- **지식그래프 기반 금기 관련 질환** (허가사항 원문이 아닌 모델 지식그래프 정보): 신장질환, 간질환, 췌장염, 담낭질환, 혈소판감소증, 빈혈, 백혈구감소증, 호중구감소증, 무과립구증, 말초신경병증, 설사질환, 폐부종, 괴사성 장염 등.
+
+허가사항상 경고·금기는 확인되지 않았으므로 허가사항 원문을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-- 최우선 예측 적응증(소세포폐암)의 근거 수준이 L3에 불과하고, 확보된 임상시험 3건은 모두 관련성 등급 C(낮음)이며 조직형이 비소세포폐암(NSCLC)으로 예측 질환과 불일치할 위험이 있습니다.
-- 안전성 데이터(경고·금기·DDI)가 전부 결측 상태이며, 이 중 TFDA/식약처 라벨 정보 결측(DG001)은 **Blocking 등급**으로 안전성 초기평가(S1) 자체가 불가능합니다.
-- 국내 허가·시판 이력이 전무(0건)하여 실제 처방 가능성도 없습니다.
+소세포폐암에 대한 임상시험이 없고, 문헌도 대부분 비소세포폐암 등 간접 자료입니다. 고용량 병용 시 골수억제가 심하고, 1992년 종설에서도 고형암 다수가 cytarabine에 둔감하다고 지적되어 근거가 부족합니다.
 
 **진행하려면 필요한 것:**
-- TFDA(또는 식약처) 공식 허가사항/경고·금기 문서 확보 (DG001 해소)
-- DrugBank API를 통한 상세 작용기전(MOA) 확인 (DG002 해소)
-- 소세포폐암(SCLC) 특이적 전향적 임상 데이터 확보 (현재는 NSCLC 위주 구증거만 존재)
-- 국내 허가·유통 가능성 검토
+- 소세포폐암에서 cytarabine을 평가한 직접 근거 확보 (특히 1987년 보고 원문 검토)
+- 허가사항 원문(적응증, 경고, 금기)을 내려받아 확인 — 안전성 심사를 진행하려면 필수
+- 작용 기전(MOA) 데이터 보강
+- 소세포폐암 표준요법과 비교한 위험-이익 평가 및 전임상 검증
+
+**참고: 다른 예측 적응증**
+- **신경모세포종(neuroblastoma)**: 점수 99.19%, 근거 수준 L3, 유일하게 "연구 과제" 단계. 세포주에서 cytarabine 감수성이 확인되었으나 환자 대상 효능 자료는 없습니다. 연결된 임상시험 3건은 cytarabine을 직접 평가하지 않습니다.
+- **원발성 폐림프종, 상부 소화호흡기 종양, 후복막 종양**: 근거 수준 L4. 간접 문헌만 있습니다.
+- **고분화 태아형 폐선암, 폐모세포종, 신경절신경모세포종, 척추 이상 및 T세포 기능장애 증후군**: 근거 수준 L5. 모델 예측뿐입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

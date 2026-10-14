@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tolvaptan
-parent: 높은 근거 (L1-L2)
-nav_order: 686
-evidence_level: L1
+parent: 모델 예측만 (L5)
+nav_order: 746
+evidence_level: L5
 indication_count: 10
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,81 +29,88 @@ indication_count: 10
 
 </div>
 
-# Tolvaptan: 적응증 미상에서 다낭성 신장질환(PKD3)으로
+# Tolvaptan: 허가 적응증에서 상염색체 우성 다낭신질환(PKD3 포함 다낭신 질환)으로
 
 ## 한 문장 요약
 
-Tolvaptan(DB06212)은 원 적응증 정보가 확보되지 않은 상태이나, TxGNN 모델은 **다낭성 신장질환 3형(폴리시스틱 간질환 동반 여부 무관, PKD3)**에 효과가 있을 것으로 예측합니다. 현재 등록된 임상시험은 없지만, **20편의 문헌** 중 2건의 대형 Phase 3 RCT(TEMPO 3:4, REPRISE)를 포함한 다수의 근거가 이 방향을 강하게 지지합니다.
-
----
+Tolvaptan은 선택적 바소프레신 V2 수용체 길항제로, 한국에서 4건의 단일제 허가를 받아 시판 중입니다. TxGNN 모델은 **다낭신질환 3형(다낭간질환 동반 또는 비동반)**에 효과가 있을 수 있다고 예측하며, 현재 등록된 임상시험은 없지만 **19편의 문헌**(핵심 Phase 3 RCT 2건 포함)이 이 방향을 지지합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 자료 없음 (원 적응증 미기재) |
-| 예측 신규 적응증 | 다낭성 신장질환 3형, 폴리시스틱 간질환 동반 여부 무관 (PKD3) |
+| 기존 적응증 | 허가증 원문 링크만 제공되어 구체적인 적응증 문구를 확인할 수 없음 (허가사항 참조) |
+| 예측 신규 적응증 | 다낭신질환 3형 (다낭간질환 동반 또는 비동반) |
 | TxGNN 예측 점수 | 99.99% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | 미출시 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L1 (ADPKD 전체 계열 기준의 직접 근거이며, PKD3에는 외삽) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 4건 |
 | 권장 결정 | Proceed with Guardrails |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-공식 MOA(작용 기전) 데이터는 확보되지 않았으나(DrugBank 조회 필요, High severity 데이터 갭), 근거 팩에 포함된 기전 분석에 따르면 Tolvaptan은 **바소프레신 V2 수용체 길항제**로, 신장 집합관에서 cAMP 생성을 억제하여 낭종 증식과 신장 용적 증가를 늦추는 것으로 알려져 있습니다.
+현재 상세한 작용 기전 데이터는 없습니다. 다만 문헌에 따르면 Tolvaptan은 선택적 바소프레신 V2 수용체 길항제입니다. 다낭신질환에서는 cAMP 신호가 높아져 낭종액 분비와 낭종 세포 증식이 촉진되는데, V2 수용체를 차단하면 신장 집합관 세포의 cAMP가 감소하여 낭종 성장과 eGFR 저하가 늦춰집니다.
 
-이 기전은 다낭성 신장질환(ADPKD/PKD)의 병태생리와 직접적으로 연관되며, 실제로 두 건의 대형 Phase 3 RCT(TEMPO 3:4, REPRISE)가 일반 ADPKD 환자군에서 Tolvaptan의 신기능 보호 효과를 입증했습니다.
+PKD3(GANAB 관련 형태)는 ADPKD와 동일한 낭종 형성 경로를 공유합니다. 따라서 기전상 적용 가능성이 있습니다.
 
-다만 예측된 적응증은 **PKD3**라는 특정 유전형 아형을 명시하고 있어, 기존 RCT들이 일반 ADPKD(주로 PKD1/PKD2)를 대상으로 했는지, PKD3 아형을 포함했는지에 대한 별도 확인이 필요합니다.
-
----
+다만 주의할 점이 있습니다. 이번 데이터에는 임상시험 등록 정보가 없고, 핵심 Phase 3 시험(TEMPO 3:4, REPRISE)은 PKD1/PKD2 기반 ADPKD 대상입니다. 즉, 근거는 ADPKD 계열에는 직접적이지만 PKD3에는 외삽된 것입니다.
 
 ## 임상시험 근거
 
 현재 관련 임상시험 등록이 없습니다.
 
----
-
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT (Phase 3, TEMPO 3:4) | NEJM | ADPKD 환자에서 Tolvaptan이 총 신장 용적 증가와 신기능 저하를 유의하게 감소시킴 |
-| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT (Phase 3, REPRISE) | NEJM | 후기 단계 ADPKD 환자에서도 Tolvaptan이 eGFR 감소를 유의하게 늦춤 |
-| [38091246](https://pubmed.ncbi.nlm.nih.gov/38091246/) | 2024 | RCT (소아, NCT02964273) | Pediatr Nephrol | 소아 ADPKD 환자 대상 Tolvaptan 안전성·약력학 평가 및 급속 진행 위험군 기저특성 분석 |
-| [37150675](https://pubmed.ncbi.nlm.nih.gov/37150675/) | 2023 | 체계적 문헌고찰/메타분석 | Nefrologia | ADPKD에서 Tolvaptan의 유효성과 안전성을 종합 평가 |
-| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Cochrane 체계적 문헌고찰 | Cochrane Database Syst Rev | ADPKD 진행 예방을 위한 중재법(Tolvaptan 포함) 비교 평가 |
-| [35134221](https://pubmed.ncbi.nlm.nih.gov/35134221/) | 2022 | 합의문/리뷰 | Nephrol Dial Transplant | ERA 등 국제 학회의 ADPKD에서의 Tolvaptan 사용 최신 합의 권고안 |
-| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Review | JAMA | ADPKD의 전반적 개요 및 치료 동향(Tolvaptan 포함) 리뷰 |
-| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | 진료지침 (EASL) | J Hepatol | 낭성 간질환(다낭성 간질환 포함) 관리에 대한 EASL 임상진료지침 |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | ADPKD와 다낭성 간질환(PCLD)의 임상 경과 및 Tolvaptan의 역할 리뷰 |
-| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Review | Curr Opin Nephrol Hypertens | ADPKD에서 Tolvaptan 이후의 신규 치료제 파이프라인 리뷰 |
+| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT | N Engl J Med | ADPKD 환자 대상 Tolvaptan 시험(TEMPO 3:4). V2 수용체 길항제가 신장 용적 증가와 신기능 저하를 늦춤 |
+| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT | N Engl J Med | 후기 ADPKD에서의 Tolvaptan 효능·안전성(REPRISE). 이전 시험에서 간효소·빌리루빈 상승 보고 |
+| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | 체계적 문헌고찰 | Cochrane Database Syst Rev | ADPKD 진행 예방 중재법 평가 |
+| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Review | JAMA | ADPKD 종설. 가장 흔한 유전성 신질환 |
+| [41771281](https://pubmed.ncbi.nlm.nih.gov/41771281/) | 2026 | Review | Lancet | Tolvaptan이 질병 조절 치료제로서 근거가 탄탄하며, 신부전 고위험군에서 조기 사용 지지 |
+| [40844441](https://pubmed.ncbi.nlm.nih.gov/40844441/) | 2025 | Review | Am J Kidney Dis | ADPKD 핵심 커리큘럼. 위험도 예측으로 질병 조절 치료 대상 선별 |
+| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Review | Curr Opin Nephrol Hypertens | Tolvaptan이 유일한 FDA 승인 질병 진행 억제제이며 신규 치료제 파이프라인 증가 |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | 다낭신/간질환. ADPKD에서 Tolvaptan이 신기능 저하와 낭종 성장을 늦출 수 있음 |
+| [40268755](https://pubmed.ncbi.nlm.nih.gov/40268755/) | 2025 | Review | Ren Fail | ADPKD의 최근 유전학적·임상적 발전 개관 |
+| [32392574](https://pubmed.ncbi.nlm.nih.gov/32392574/) | 2021 | 문헌 | Pediatr Res | 빠르게 진행하는 청소년·젊은 성인 ADPKD에서의 Tolvaptan 사용 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 202203115 | 톨비스정15밀리그램(톨밥탄) | 파란색 원형 정제 | 허가사항 참조 |
+| 202203114 | 톨비스정30밀리그램(톨밥탄) | 파란색 원형 정제 | 허가사항 참조 |
+| 202004774 | 명인톨밥탄정15밀리그램 | 파란색 원형 정제 | 허가사항 참조 |
+| 202202617 | 명인톨밥탄정30밀리그램 | 파란색 원형 정제 | 허가사항 참조 |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **지식그래프 기반 금기 질환** (허가사항 문구가 아닌 TxGNN 지식그래프 기준): 간부전, 간경변, 물질 남용/의존, 활동성 소화성 궤양, 탈수초성 질환
+- **약물 상호작용**: 총 100건이 확인되었으며, 주요 항목은 다음과 같습니다.
+  - Major: Clarithromycin
+  - Moderate: Aprepitant, Dexamethasone, Eliglustat, Empagliflozin, Loperamide, Miconazole, Naltrexone, Rifaximin, Rolapitant, 칼륨 제제(구연산칼륨, 중탄산칼륨, 염화칼륨, 글루콘산칼륨) 등
+  - Minor: Fidaxomicin, Naloxegol, Prucalopride
+- **문헌에서 확인된 주의점**: 간효소 및 빌리루빈 상승(간독성), 아쿠아레시스 관련 이상반응, 다낭간질환 환자에서의 주의
 
----
+허가사항의 경고 및 금기 정보는 이번 데이터에 포함되지 않았으므로 허가사항을 직접 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-두 건의 대형 Phase 3 RCT(TEMPO 3:4, REPRISE)가 일반 ADPKD에서 Tolvaptan의 유효성을 입증했고, 다수의 국제 가이드라인·합의문이 이를 뒷받침하여 근거 수준은 L1입니다. 다만 예측 적응증이 특정 유전형(PKD3)을 명시하고 있어 기존 RCT가 이 아형을 포함했는지 추가 확인이 필요하며, 안전성 자료 확보 전까지는 신중한 진행이 요구됩니다.
+ADPKD에서 Tolvaptan의 효능을 입증한 Phase 3 RCT 2건(TEMPO 3:4, REPRISE)과 다수의 종설이 있고, PKD3는 동일한 cAMP 매개 낭종 형성 경로를 공유합니다. 다만 PKD3 특이적 임상 근거는 없어 외삽에 해당하며, 간독성 관리가 필수입니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고/금기/DDI) 자료 확보 — 현재 Blocking 데이터 갭으로 S1 안전성 초기평가 불가
-- 공식 작용기전(MOA) 자료 확보 (DrugBank API 조회)
-- PKD3 특이 유전형에 대한 하위군 분석 자료 확인
-- 한국 내 허가/시판 계획 수립 (현재 미출시, 허가증 0건)
+- 한국 허가증의 적응증 및 경고·금기 문구 확인 (허가사항 PDF 분석)
+- 상세한 약물 작용 기전(MOA) 데이터 보강
+- PKD3(GANAB 관련) 환자에서의 효능 및 안전성 근거 확보
+- 간효소 모니터링 체계(간독성 감시) 및 다낭간질환 환자 주의 계획
+- Clarithromycin 등 주요 상호작용 약물 관리 방안
 
-*참고: 예측 순위 2~10위 후보(신장-간-췌장 이형성증, 카리오메갈릭 간질성신염, 흉곽기형 등)는 근거 수준 L4~L5로 문헌·임상 근거가 매우 부족하거나 관련성이 낮아(예: 9위는 치주질환 문헌과의 키워드 오매칭) 모두 Hold로 평가되었습니다.*
+**참고: 기타 예측 적응증**
+- 신장-간-췌장 이형성증, 핵거대 간질성 신염, 흉곽 기형 등 나머지 예측은 근거 수준이 L4~L5로, 임상시험이 없거나 간접 근거뿐이어서 현재 보류(Hold) 권고입니다.
+- 주베르 증후군(신장 결손 동반)은 섬모병증으로서 cAMP 신호 이상이 PKD와 공통되나, 직접 근거가 없어 전임상 연구가 우선 필요한 연구 과제 수준입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -2,7 +2,7 @@
 layout: default
 title: Ropivacaine Hydrochloride
 parent: 모델 예측만 (L5)
-nav_order: 617
+nav_order: 670
 evidence_level: L5
 indication_count: 0
 ---

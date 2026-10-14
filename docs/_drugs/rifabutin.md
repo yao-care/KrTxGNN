@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Rifabutin
-parent: 높은 근거 (L1-L2)
-nav_order: 600
-evidence_level: L1
+parent: 중등도 근거 (L3-L4)
+nav_order: 652
+evidence_level: L4
 indication_count: 10
 ---
 
 # Rifabutin
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,110 @@ indication_count: 10
 
 </div>
 
-# Rifabutin: 결핵/MAC 감염 관리에서 HIV 감염 관리로
+# Rifabutin: 비결핵 항산균 감염 치료제에서 HIV 감염증으로
 
 ## 한 문장 요약
 
-> Rifabutin은 리파마이신(rifamycin) 계열 항생제로, 원래 결핵(TB) 치료와 HIV 환자의 Mycobacterium avium complex(MAC) 감염 예방·치료에 사용되어 왔습니다.
-> TxGNN 모델은 **HIV 감염(HIV infectious disease)**에 효과가 있을 수 있다고 예측하며,
-> 현재 **10건 이상의 임상시험**(Phase 3 RCT 포함, n=720·n=400 등)과 **다수의 문헌**이 이 방향을 뒷받침합니다. 다만 이는 HIV 바이러스 자체가 아닌 **HIV 환자의 기회감염 관리**에 대한 근거임을 유의해야 합니다.
-
----
+Rifabutin은 리파마이신 계열 항결핵·항항산균제로, 한국에서 단일제 캡슐로 시판 중입니다.
+TxGNN 모델은 **HIV 감염증(HIV infectious disease)**에 효과가 있을 수 있다고 예측하며, 이 방향과 관련된 **임상시험 35건**과 **문헌 20편**이 확인되었습니다.
+다만 rifabutin은 항레트로바이러스 작용이 없으며, 실제 근거는 HIV 환자의 결핵·MAC(Mycobacterium avium complex) 같은 기회감염 치료와 예방에 집중되어 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 결핵(TB) 치료 및 HIV 환자의 MAC(Mycobacterium avium complex) 감염 예방·치료 (한국 공식 허가 데이터 없음) |
-| 예측 신규 적응증 | HIV 감염 (HIV infectious disease) — 실질적으로는 HIV 환자의 기회감염 관리 |
+| 기존 적응증 | 허가 적응증 본문이 링크 형태로만 확인되어 구체적 내용을 확인할 수 없음 |
+| 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
 | TxGNN 예측 점수 | 99.88% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L1 (HIV 환자의 MAC 감염에 대한 완료된 Phase 3 임상시험 다수; 단, HIV 자체에 대한 효능 근거는 아님) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
 | 권장 결정 | Proceed with Guardrails |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-Rifabutin은 반합성 리파마이신(rifamycin) 계열 항생제로, 세균의 DNA 의존성 RNA 폴리머라제(rpoB)를 표적하여 저해함으로써 *Mycobacterium tuberculosis* 및 MAC에 살균 효과를 나타냅니다. 다만 HIV 바이러스 자체를 직접 억제하는 항바이러스제는 아닙니다.
+Rifabutin은 세균의 DNA 의존성 RNA 중합효소(rpoB)를 억제하는 리파마이신 계열 약물입니다. 이 데이터에는 상세한 작용 기전 자료가 별도로 수록되어 있지 않으며, 위 내용은 약물 분류에 근거한 설명입니다.
 
-HIV 감염 환자에서 Rifabutin의 실제 가치는 다음 세 가지입니다: (1) HIV 양성 환자의 MAC 균혈증 예방·치료, (2) TB/HIV 동시감염 치료, (3) Rifampicin 대비 CYP3A4 유도 작용이 약해 항레트로바이러스제(특히 단백분해효소 억제제·INSTI 계열)와 병용 시 약물 상호작용이 상대적으로 적다는 점입니다. 즉 예측된 적응증명 "HIV infectious disease"는 HIV 바이러스에 대한 직접적 항바이러스 효과가 아니라, **HIV 환자에서의 분감균(mycobacterial) 기회감염 관리**를 의미하는 것으로 해석해야 합니다.
+Rifabutin은 항레트로바이러스제가 아니므로 HIV 바이러스 자체를 치료하지 않습니다. 이 약의 가치는 HIV 감염자에게 흔한 **결핵과 MAC 같은 항산균 기회감염의 치료 및 예방**에 있습니다. 또한 rifampin보다 CYP3A4 유도 효과가 약해, 용량 조절을 전제로 프로테아제 억제제 등 항레트로바이러스 요법과 함께 투여할 수 있습니다.
 
-DrugBank 기반 공식 MOA 데이터는 현재 확보되지 않았습니다(Data Gap). 다만 위 기전은 다수의 완료된 Phase 3 임상시험과 수십 편의 문헌에서 일관되게 지지되고 있어, 예측의 기전적 타당성은 높다고 판단됩니다.
-
----
+따라서 이번 예측은 "HIV 관련 항산균 질환"이라는 의미로 해석하는 것이 타당하며, 진정한 의미의 신규 재창출이라기보다 이미 확립된 사용에 가까운 사례입니다.
 
 ## 임상시험 근거
 
+관련성이 높은 시험 10건을 선별했습니다.
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00002080](https://clinicaltrials.gov/study/NCT00002080) | NA | 완료 | N/A | HIV 양성 환자에서 MAC 균혈증 예방을 위한 Rifabutin 일일 투여 요법 평가 |
-| [NCT00002122](https://clinicaltrials.gov/study/NCT00002122) | Phase 3 | 완료 | 720 | Azithromycin·Rifabutin 단독/병용 요법의 HIV 환자 MAC 감염 예방 효능 비교(RCT) |
-| [NCT00001047](https://clinicaltrials.gov/study/NCT00001047) | Phase 3 | 완료 | 400 | Clarithromycin + Ethambutol + Rifabutin/Clofazimine 4개 치료군 비교, AIDS 환자의 파종성 MAC 질환 치료 |
-| [NCT03478033](https://clinicaltrials.gov/study/NCT03478033) | NA | 불명 | 230 | HIV/폐결핵 동시감염 환자에서 Rifampicin 대 Rifabutin 기반 표준요법의 효능·안전성 전향적 비교 |
-| [NCT01259219](https://clinicaltrials.gov/study/NCT01259219) | Phase 1 | 불명 | 40 | Kaletra(LPV/RTV) 병용 시 소아 HIV 감염환자에서 Rifabutin 용량-PK-안전성 탐색 |
-| [NCT00018083](https://clinicaltrials.gov/study/NCT00018083) | NA | 불명 | N/A | HIV/TB 동시감염 환자에서 Nelfinavir-Rifabutin 약물상호작용 집중 PK 연구 |
-| [NCT00001023](https://clinicaltrials.gov/study/NCT00001023) | NA | 완료 | 91 | HIV 감염환자에서 Rifabutin/Clarithromycin, Rifabutin/Azithromycin 병용 안전성·내약성·PK 평가 |
-| [NCT00651066](https://clinicaltrials.gov/study/NCT00651066) | Phase 2 | 완료 | 47 | 베트남 TB/HIV 동시감염 환자에서 ART 병용 시 Rifabutin PK 평가(Rifampicin 대체 가능성 탐색) |
-| [NCT01663168](https://clinicaltrials.gov/study/NCT01663168) | Phase 2 | 불명 | 140 | LPV/r 2차 ART 복용 중인 HIV 감염 성인·청소년에서 Rifabutin 용량별 독성·PK 평가(EARNEST 하위연구) |
-| [NCT01894776](https://clinicaltrials.gov/study/NCT01894776) | Phase 1 | 완료 | 15 | Rifabutin이 Maraviroc PK에 미치는 영향 평가(DDI 연구) |
+| [NCT00002101](https://clinicaltrials.gov/study/NCT00002101) | Phase 3 | 완료 | 450 | AIDS 환자의 MAC 균혈증에서 clarithromycin/ethambutol에 rifabutin(2개 용량) 또는 위약을 병용하는 3군 비교 |
+| [NCT00001047](https://clinicaltrials.gov/study/NCT00001047) | Phase 3 | 완료 | 400 | AIDS 환자의 파종성 MAC에서 clarithromycin 2개 용량과 rifabutin 또는 clofazimine 병용 4개 요법 비교 |
+| [NCT00001995](https://clinicaltrials.gov/study/NCT00001995) | 해당 없음 | 완료 | 200 | AIDS 환자의 MAC 균혈증에서 rifabutin 포함 요법의 이중맹검 무작위 시험 |
+| [NCT00001030](https://clinicaltrials.gov/study/NCT00001030) | Phase 3 | 완료 | 1100 | CD4 100 이하 HIV 환자에서 clarithromycin, rifabutin, 병용요법의 MAC 예방 효과 비교 |
+| [NCT00002122](https://clinicaltrials.gov/study/NCT00002122) | Phase 3 | 완료 | 720 | azithromycin과 rifabutin 단독·병용의 파종성 MAC 예방 효과 및 fluconazole 용법 비교 |
+| [NCT00002267](https://clinicaltrials.gov/study/NCT00002267) | 해당 없음 | 완료 | 750 | CD4 200 이하 AIDS 환자에서 rifabutin 단독요법의 MAC 균혈증 예방 효과 (이중맹검 위약 대조) |
+| [NCT00001058](https://clinicaltrials.gov/study/NCT00001058) | Phase 2 | 완료 | 246 | AIDS 환자의 파종성 MAC에서 clarithromycin에 rifabutin, ethambutol 또는 둘 다 병용 비교 |
+| [NCT00651066](https://clinicaltrials.gov/study/NCT00651066) | Phase 2 | 완료 | 47 | 베트남 TB/HIV 동시감염 환자에서 rifabutin과 항레트로바이러스 요법 병용 시 약동학 평가 |
+| [NCT00640887](https://clinicaltrials.gov/study/NCT00640887) | Phase 2 | 완료 | 48 | 남아프리카 TB/HIV 동시감염 환자에서의 동일 설계 약동학 시험 |
+| [NCT00023361](https://clinicaltrials.gov/study/NCT00023361) | 해당 없음 | 완료 | 215 | HIV 관련 결핵에서 간헐적 rifabutin 기반 요법의 치료 실패 및 재발률 평가 |
 
----
+그 외 nelfinavir, efavirenz, indinavir, dolutegravir, cabotegravir 등 항레트로바이러스제와의 약물 상호작용 약동학 시험이 다수 등록되어 있습니다. 이들은 효능이 아니라 병용 투여 시 용량 설정을 뒷받침하는 자료입니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [23828580](https://pubmed.ncbi.nlm.nih.gov/23828580/) | 2013 | 체계적 문헌고찰/메타분석 | Cochrane Database Syst Rev | Rifamycin(Rifabutin 포함) vs Isoniazid의 잠복결핵 예방 효능 비교 |
-| [31139825](https://pubmed.ncbi.nlm.nih.gov/31139825/) | 2019 | 코호트(안전성/효능) | J Antimicrob Chemother | LPV/r 기반 ART 중인 TB/HIV 동시감염 소아에서 Rifabutin 안전성·효능 평가 |
-| [33294914](https://pubmed.ncbi.nlm.nih.gov/33294914/) | 2021 | 코호트(PK/안전성) | J Antimicrob Chemother | LPV/r 2차 ART 병용 TB/HIV 동시감염 소아의 Rifabutin PK 및 안전성 |
-| [25281400](https://pubmed.ncbi.nlm.nih.gov/25281400/) | 2015 | 코호트(PK/안전성) | J Antimicrob Chemother | LPV/r 병용 소아 HIV 감염환자에서 Rifabutin PK 및 단기 안전성 |
-| [9459473](https://pubmed.ncbi.nlm.nih.gov/9459473/) | 1998 | 소규모 임상연구 | JAMA | Clarithromycin·Rifabutin의 HIV 환자 크립토스포리디움증 화학예방 가능성(HOPS 연구) |
-| [21726477](https://pubmed.ncbi.nlm.nih.gov/21726477/) | 2009 | Review | BMJ Clin Evid | HIV 감염자의 결핵 치료 전반에 대한 근거 리뷰 |
-| [28233512](https://pubmed.ncbi.nlm.nih.gov/28233512/) | 2017 | Review | Microbiol Spectr | HIV와 결핵의 상호작용 및 치료 전략 리뷰 |
-| [7736687](https://pubmed.ncbi.nlm.nih.gov/7736687/) | 1995 | Review | Clin Pharmacokinet | Rifabutin의 임상 약동학, HIV+ 저CD4 환자에서의 MAC 예방 효능 근거 |
-| [21406051](https://pubmed.ncbi.nlm.nih.gov/21406051/) | 2011 | Review | Infect Disord Drug Targets | HIV 유행 시대의 성인 활동성 결핵 관리 및 ART-항결핵제 상호작용 전반 리뷰 |
-| [40310456](https://pubmed.ncbi.nlm.nih.gov/40310456/) | 2025 | Review | PNAS | 차세대 Rifamycin 계열의 분감균 감염 치료 전망 |
+| [28233512](https://pubmed.ncbi.nlm.nih.gov/28233512/) | 2017 | Review | Microbiology Spectrum | HIV와 결핵은 서로의 위험과 진행을 높이는 상승 관계이며, 치료 시 상호작용 고려가 필요함 |
+| [17181373](https://pubmed.ncbi.nlm.nih.gov/17181373/) | 2006 | Review | Drugs | HIV/결핵 동시감염의 실용적 치료 접근; 리파마이신과 항레트로바이러스제 병용의 한계 |
+| [21819645](https://pubmed.ncbi.nlm.nih.gov/21819645/) | 2012 | Review | Int J Tuberc Lung Dis | 프로테아제 억제제 기반 ART에서 rifampin의 대안으로 rifabutin 활용 가능성 평가 |
+| [10456381](https://pubmed.ncbi.nlm.nih.gov/10456381/) | 1999 | Review | Drug Safety | macrolide와 rifabutin이 MAC 치료 성적을 크게 개선했으나 새로운 치료 관련 문제도 동반 |
+| [8785257](https://pubmed.ncbi.nlm.nih.gov/8785257/) | 1996 | Review | Clin Infect Dis | HIV 감염 결핵 환자에서 rifabutin과 rifampin의 효능과 안전성이 유사한 것으로 보고됨 |
+| [31139825](https://pubmed.ncbi.nlm.nih.gov/31139825/) | 2019 | Cohort | J Antimicrob Chemother | PI 기반 ART를 받는 HIV/TB 동시감염 소아에서 rifabutin의 안전성과 효능 평가; 이전 연구에서 치료 제한적 호중구감소 보고 |
+| [33294914](https://pubmed.ncbi.nlm.nih.gov/33294914/) | 2021 | Cohort | J Antimicrob Chemother | lopinavir/ritonavir ART를 받는 TB/HIV 소아에서 rifabutin의 약동학과 안전성 |
+| [36385424](https://pubmed.ncbi.nlm.nih.gov/36385424/) | 2023 | PK 모델링 | Br J Clin Pharmacol | rifabutin 병용 시 dolutegravir 노출에 대한 집단 약동학 모델 |
+| [11996607](https://pubmed.ncbi.nlm.nih.gov/11996607/) | 2002 | Review | Arch Intern Med | rifampin과 rifabutin의 약물 상호작용 최신 정리 |
+| [21418688](https://pubmed.ncbi.nlm.nih.gov/21418688/) | 2010 | Review | BMJ Clin Evidence | HIV 환자의 기회감염 1차·2차 예방 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200400200 | 유유마이코부틴캡슐(리파부틴) | 경질캡슐제 | 적응증 본문은 링크로만 제공되어 확인 불가 (식약처 허가사항 참조) |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 총 100건의 상호작용이 조회되었습니다. 대표적으로 다음 항목이 있습니다.
+  - 주요(Major): Eliglustat
+  - 중등도(Moderate): Clarithromycin, Doxycycline, Metronidazole, Dexamethasone, Hydrocortisone, Aprepitant, Morphine, Pioglitazone, Saxagliptin, Linagliptin 등
+  - 경미(Minor): Dolasetron
+- **약동학적 고려**: rifabutin은 CYP3A4 유도 작용이 있어 항레트로바이러스제를 비롯한 병용약의 노출에 영향을 줄 수 있으므로 병용 시 용량 조절이 필요합니다.
+- **임상 보고된 위험**: 소아에서 중증 호중구감소가 보고되었고, 안구 위험(포도막염)이 보고되었습니다.
 
-> 한국 내 미시판 상태이며, TFDA/MFDS 급 공식 경고·금기·DDI 데이터가 아직 확보되지 않았습니다(Blocking Data Gap: DG001). 다만 임상시험 근거에서 반복적으로 확인되는 주요 약물상호작용으로 **CYP3A4 관련 항레트로바이러스제(단백분해효소 억제제, INSTI 계열)와의 상호작용**, 그리고 **포도막염(uveitis)** 등 안과적 이상반응이 보고되고 있어(예: PMID 8967681, 30217608), 공식 허가사항 확보 시 우선 확인이 필요합니다.
-
----
+경고 및 금기 항목은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-HIV 환자의 MAC 균혈증 예방·치료 및 TB/HIV 동시감염 치료에 대해서는 Phase 3 RCT(NCT00002122, n=720; NCT00001047, n=400)를 포함한 강력한 임상 근거(L1)가 존재합니다. 다만 "HIV infectious disease"라는 예측 라벨은 HIV 바이러스에 대한 직접적 항바이러스 효과가 아니라 **HIV 환자의 분감균 기회감염 관리**를 의미하므로, 적응증 정의를 명확히 좁혀 진행해야 합니다.
+HIV 환자의 MAC 감염 치료·예방과 HIV 관련 결핵에서 완료된 Phase 3 임상시험을 포함한 충분한 근거가 있습니다. 그러나 rifabutin은 HIV 바이러스 자체를 치료하지 않으므로, 적응증은 "HIV 감염증"이 아니라 "HIV 관련 항산균 질환"으로 한정해야 합니다.
 
 **진행하려면 필요한 것:**
-- MFDS(한국 식약처) 허가사항 확보 — 경고/금기 정보 (현재 Blocking 상태, DG001)
-- DrugBank 기반 공식 MOA 데이터 확보 (DG002)
-- 한국 내 시판·허가 현황 확인 (현재 미시판, 0건)
-- 적응증 라벨을 "HIV 감염" 대신 "HIV 환자의 MAC/TB 기회감염 예방·치료"로 재정의하여 임상 의미 명확화
+- 식약처 허가사항(적응증, 경고, 금기)을 확인하고 국내 허가 범위와 대조
+- 적응증을 HIV 관련 MAC·결핵으로 명확히 규정
+- 병용 항레트로바이러스제별 용량 조절 지침 정리
+- 호중구감소, 포도막염 모니터링 계획 수립 (특히 소아)
+- 상세 작용 기전 데이터 보완
+
+## 참고: 기타 예측 적응증
+
+TxGNN이 예측한 다른 적응증은 대부분 근거가 부족합니다.
+
+| 예측 적응증 | 근거 수준 | 비고 |
+|------------|----------|------|
+| 나병(leprosy) | L4 | 동물·시험관 연구와 2024년 증례 보고 수준이며, rifampin 내성 변이와의 교차내성이 한계. 연구 과제로 분류 |
+| 심내막염(endocarditis) | L4 | 증례 보고만 있어 간접적이며 보류 |
+| 폐포자충증(pneumocystosis) | L4 | 기전적 근거가 없고 동시 출현에 따른 인위적 연관으로 보임. 보류 |
+| 결막염, 경화성 담관염, 다발성 내분비종양 등 | L5 | 모델 예측만 있고 근거 없음. 결막염은 전신 투여 시 포도막염 위험이 있어 부적절. 보류 |
+| 원숭이·고양이 면역결핍 감염 | L5 | 항레트로바이러스 기전 없음. 보류 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

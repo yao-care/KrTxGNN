@@ -2,7 +2,7 @@
 layout: default
 title: Doxorubicin
 parent: 높은 근거 (L1-L2)
-nav_order: 274
+nav_order: 292
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,101 +29,132 @@ indication_count: 10
 
 </div>
 
-# Doxorubicin: 광범위 악성종양 화학요법에서 Ewing 육종으로
-
----
+# Doxorubicin: 원래 항암 화학요법제에서 유잉 육종으로
 
 ## 한 문장 요약
 
-Doxorubicin은 쌍환계(Anthracycline) 광범위 세포독성 항종양 약물로 전 세계적으로 유방암, 림프종 및 연조직 육종 등 다양한 악성종양 치료에 널리 사용되고 있으나, 현재 한국에서는 시판 허가를 획득하지 못했습니다. TxGNN 모델은 **Ewing 육종(Ewing Sarcoma)**에 대한 현저한 치료 효과를 예측하며, 예측 점수는 **99.90%**입니다. 현재 **0건의 ClinicalTrials.gov 등록 임상시험** 및 **20편의 문헌**(6편의 Phase 3 RCT 포함)이 이 방향을 지지하며, 전체 증거 수준은 **L1**입니다.
-
----
+Doxorubicin은 안트라사이클린 계열 항암제로, 한국에서 주사제 형태로 허가·시판되고 있습니다.
+TxGNN 모델은 **유잉 육종(Ewing sarcoma)**에 효과가 있을 수 있다고 예측하며, 이 방향을 지지하는 **임상시험 26건**(Phase 3 포함)과 **문헌 20편**이 확인되었습니다.
+다만 근거는 doxorubicin 단독이 아니라 VDC/IE 등 다제 병용요법 안에서의 사용에 관한 것입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 광범위 악성종양 화학요법 약물(한국 미허가) |
-| 예측 신규 적응증 | Ewing 육종(Ewing Sarcoma) |
+| 기존 적응증 | 허가 적응증 본문이 데이터에 포함되지 않음 (허가증 링크만 제공됨) |
+| 예측 신규 적응증 | 유잉 육종 (Ewing sarcoma) |
 | TxGNN 예측 점수 | 99.90% |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
-| 권고 결정 | Proceed with Guardrails |
-
----
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 12건 (모두 유효, 단일제) |
+| 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
 
-Doxorubicin은 Topoisomerase II(DNA 토포이소머라제 II) 억제제이며, 작용 기전은 DNA 이중 나선 사이에 삽입되어(Intercalation) DNA 복제 및 전사를 차단하고 DNA 이중 가닥 절단(Double-Strand Break, DSB)을 유도하여 빠르게 증식하는 종양 세포에 높은 세포독성을 나타냅니다. 쌍환계 약물 중에서 Doxorubicin은 광범위한 종양 활성 및 성숙한 임상 응용 역사로 인해 다양한 악성종양의 일차 화학요법의 기초 약물로 지정되어 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 다만 이번 평가에 정리된 자료에 따르면 doxorubicin은 topoisomerase II 억제제이자 DNA 삽입제로, 유잉 육종의 표준 다제 요법(VDC/IE, VAC)의 핵심 성분입니다.
 
-Ewing 육종은 소아 및 청소년의 두 번째로 흔한 원발성 골 악성종양으로, EWSR1-FLI1(또는 기타 EWS/ETS 패밀리) 융합 유전자로 인해 발생하며, 종양 세포 증식이 빠르고 DNA 손상 유형의 세포독성 약물에 높은 민감성을 보입니다. Doxorubicin은 VIDE(vincristine, ifosfamide, doxorubicin, etoposide) 및 VAC/VAI 표준 방안의 핵심 구성 요소로서 유럽, 미국 및 일본의 국제 다기관 시험에서 임상적 지위를 확립했으며, 작용 기전과 질병 생물학의 연결이 명확합니다.
+유잉 육종은 소아·청소년과 젊은 성인에게 발생하는 공격적인 뼈·연부조직 악성 종양으로, 다제 항암화학요법에 민감합니다. 간격 압축(interval-compressed) 및 강화 요법을 비교한 무작위 Phase 3 시험들도 doxorubicin 포함 기반 요법을 사용했습니다.
 
-한국에서 현재 Doxorubicin의 허가가 없음에도 불구하고, 여러 완료된 Phase 3 국제 RCT(EE2012, EURO-EWING, AEWS0031, AEWS1221 등)에서 Doxorubicin 함유 복합 방안을 표준 대조군 또는 시험군으로 사용하고 있으며, 이는 치료 효과 및 안전성이 임상 의사결정에 사용할 수 있는 최고 수준의 증거 등급(L1)에 도달했음을 증명합니다. 심독성 누적 위험을 신중히 평가한 후 이 방향은 실제 응용 평가로 진행할 충분한 과학적 근거를 가지고 있습니다.
-
----
+주요 주의점은 누적 심독성이며, 심장 보호제인 dexrazoxane이 연구되어 왔습니다.
 
 ## 임상시험 근거
 
-현재 Doxorubicin + Ewing Sarcoma 조합에 대한 ClinicalTrials.gov 등록 결과는 **0건**입니다.
+관련성 평가가 있는 시험과 대규모 Phase 3 시험 중 대표적인 10건을 정리했습니다.
 
-> **주의**: 이 결과는 검색 전략의 제한을 반영할 수 있습니다. Doxorubicin은 Ewing 육종 시험에서 방안 이름(예: VIDE, VAC/VAI)으로 주로 기록되며, 주요 중재 약물로 별도 등록되지 않은 경우가 많습니다. 아래 문헌에 인용된 여러 Phase 3 RCT는 Doxorubicin 함유 방안의 치료 효과를 직접 평가하고 있으며, 실제 임상시험 수량은 충분합니다.
-
----
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | Phase 3 | 완료 | 587 | 유잉 육종에서 화학요법 압축(intensification) 비교 |
+| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | Phase 3 | 완료 | 642 | 비전이성 유잉 육종에서 표준 5제 요법(doxorubicin 포함)에 VTC 추가 |
+| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | Phase 3 | 완료 | 278 | 비전이성 유잉 육종에서 용량 강화 vs 표준 치료 |
+| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | Phase 3 | 활성, 모집 종료 | 312 | 전이성 유잉 육종에서 다제 화학요법에 ganitumab 추가 |
+| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | Phase 3 | 불명 | 1200 | EURO-E.W.I.N.G.99, 유잉 종양 대규모 유럽 시험 |
+| [NCT00002516](https://clinicaltrials.gov/study/NCT00002516) | Phase 3 | 불명 | 미기재 | EICESS 92, 다양한 병용 화학요법 비교 |
+| [NCT00003667](https://clinicaltrials.gov/study/NCT00003667) | Phase 2 | 완료 | 미기재 | 고위험 유잉 육종에서 VAC+dexrazoxane ± ImmTher 무작위 시험 |
+| [NCT00038142](https://clinicaltrials.gov/study/NCT00038142) | Phase 2 | 조기 종료 | 46 | VACdxr ± ImmTher 무작위 시험, 등록 제한 |
+| [NCT00002466](https://clinicaltrials.gov/study/NCT00002466) | Phase 2 | 완료 | 미기재 | 5제 병용(doxorubicin 포함) 후 절제·방사선 치료 |
+| [NCT00002643](https://clinicaltrials.gov/study/NCT00002643) | Phase 2 | 완료 | 130 | 진단 시 전이성인 유잉 종양에 대한 집중 치료 |
 
 ## 문헌 근거
 
-| PMID | 연도 | 유형 | 저널 | 주요 발현 |
-|------|------|------|------|---------|
-| [12594313](https://pubmed.ncbi.nlm.nih.gov/12594313/) | 2003 | RCT (Phase 3) | N Engl J Med | 새로 진단된 Ewing 육종에서 표준 doxorubicin 함유 방안에 ifosfamide + etoposide 추가, 무사건 생존율 현저히 개선 |
-| [36522207](https://pubmed.ncbi.nlm.nih.gov/36522207/) | 2022 | RCT (Phase 3) | Lancet | EE2012 시험: 유럽(VIDE, doxorubicin 함유) vs 미국(VDC/IE) 표준 방안 비교, VIDE 동등 효과 확립 |
-| [31952545](https://pubmed.ncbi.nlm.nih.gov/31952545/) | 2020 | RCT (Phase 3) | Trials | EURO-EWING 2012 시험 설계: 다국가 협력으로 새로운 유도/공고 화학요법 평가, doxorubicin 함유 방안을 치료 골격으로 사용 |
-| [36669140](https://pubmed.ncbi.nlm.nih.gov/36669140/) | 2023 | RCT (Phase 3) | J Clin Oncol | AEWS1221: IGF-1R 항체 Ganitumab을 전이성 Ewing 육종의 interval-compressed doxorubicin 함유 화학요법에 추가, n=170 |
-| [35427190](https://pubmed.ncbi.nlm.nih.gov/35427190/) | 2022 | RCT (Phase 3) | J Clin Oncol | Ewing 2008R3(12개국): 고위험 Ewing 육종의 Treosulfan/Melphalan 고용량 화학요법 vs doxorubicin 함유 표준 치료 비교 |
-| [31553693](https://pubmed.ncbi.nlm.nih.gov/31553693/) | 2019 | RCT (Phase 3) | J Clin Oncol | R2Pulm 시험: 폐 전이 Ewing 육종의 고용량 화학요법+자가 줄기세포 vs doxorubicin 함유 표준 화학요법+전폐 방사선 치료 |
-| [37403815](https://pubmed.ncbi.nlm.nih.gov/37403815/) | 2023 | 임상 지침/합의 | Cancer | 미국 National Ewing Sarcoma Tumor Board 다기관 합의: doxorubicin 함유 VIDE/VAC 방안을 ES 표준 치료로 확립 |
-| [20152770](https://pubmed.ncbi.nlm.nih.gov/20152770/) | 2010 | Review | Lancet Oncol | Ewing 육종 종합 검토: 화학요법 도입 후 국소 종양 생존율이 10%에서 75%로 증가, 다약물 화학요법 필수 |
-| [26304893](https://pubmed.ncbi.nlm.nih.gov/26304893/) | 2015 | Review | J Clin Oncol | Ewing 육종 다학제 치료 현황 및 국제 협력 최적화 경과, doxorubicin 함유 방안의 진화 상세 설명 |
-| [37093679](https://pubmed.ncbi.nlm.nih.gov/37093679/) | 2023 | 회고적 코호트 | Jpn J Clin Oncol | 원발성 피부/피하 Ewing 육종 임상 특성 분석, doxorubicin 다중양식 치료 전략 평가 |
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [12594313](https://pubmed.ncbi.nlm.nih.gov/12594313/) | 2003 | RCT | N Engl J Med | 표준 요법에 ifosfamide·etoposide 추가가 신규 진단 환자 생존에 미치는 효과 평가 |
+| [23091096](https://pubmed.ncbi.nlm.nih.gov/23091096/) | 2012 | RCT | J Clin Oncol | 국소성 유잉 육종에서 VDC/IE 간격 압축 화학요법 시험 |
+| [36522207](https://pubmed.ncbi.nlm.nih.gov/36522207/) | 2022 | RCT (Phase 3) | Lancet | EE2012, 유럽·미국 표준 화학요법 두 가지 비교 |
+| [36669140](https://pubmed.ncbi.nlm.nih.gov/36669140/) | 2023 | RCT (Phase 3) | J Clin Oncol | 전이성 유잉 육종에서 간격 압축 화학요법에 ganitumab 추가 |
+| [31952545](https://pubmed.ncbi.nlm.nih.gov/31952545/) | 2020 | RCT 프로토콜 | Trials | EURO EWING 2012 국제 무작위 시험 프로토콜 |
+| [37403815](https://pubmed.ncbi.nlm.nih.gov/37403815/) | 2023 | Review | Cancer | 전국 유잉 육종 종양위원회의 관리 합의 권고안 |
+| [26304893](https://pubmed.ncbi.nlm.nih.gov/26304893/) | 2015 | Review | J Clin Oncol | 유잉 육종의 현재 관리와 향후 협력 방향 |
+| [20152770](https://pubmed.ncbi.nlm.nih.gov/20152770/) | 2010 | Review | Lancet Oncol | 유잉 육종 생존율이 화학요법 도입 후 약 10%에서 국소성 약 75%로 개선 |
+| [1833556](https://pubmed.ncbi.nlm.nih.gov/1833556/) | 1991 | 용량 강도 분석 | J Natl Cancer Inst | 골육종·유잉 육종에서 doxorubicin 용량 강도와 반응·결과의 관계 |
+| [30231396](https://pubmed.ncbi.nlm.nih.gov/30231396/) | 2018 | Review | ASCO Educ Book | 안트라사이클린 관련 심독성의 예측과 예방 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 199000353 | 일동아드리아마이신피.에프.에스.주사액10밀리그램 | 주사액 | 허가증 원문 참조 |
+| 199000354 | 일동아드리아마이신피.에프.에스.주사액50밀리그램 | 주사액 | 허가증 원문 참조 |
+| 199806569 | 케릭스주사 (리포좀화 독소루비신염산염) | 리포좀 현탁 주사제 | 허가증 원문 참조 |
+| 199001007 | 에이디마이신주사액 | 주사액 | 허가증 원문 참조 |
+| 199203366 | 독소루빈주사0.2% | 주사액 | 허가증 원문 참조 |
+
+나머지 7건은 대부분 수출용 제품이며(한국유나이티드제약, 한국코러스, 동아에스티 등), 모두 유효 상태입니다.
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 세포독성 약물(쌍환계 항생제, Anthracycline Antibiotic); Topoisomerase II 억제제 분류 |
-| 골수억제 위험 | **높음**(중성구 감소증, 혈소판 감소증이 흔한 용량 제한 독성, 발생률 높음) |
-| 구토 유발성 등급 | **중등도에서 높음**(투여 용량 및 방안 조합에 따라 결정, 예방적 지사제 권고) |
-| 모니터링 항목 | CBC(백혈구 분류 계산 포함), 심장 기능(LVEF, 정기적 심장 초음파), 간신 기능, 누적 용량 추적(권고 최대 누적 용량 ≤550 mg/m², 심장 질환 환자는 더 낮아야 함) |
-| 취급 방호 | 세포독성 약물 취급 규범(NIOSH / ISO 표준)에 따라 엄격히 처리 필요; 이중 장갑, 보안경 및 보호의 착용 필요; 용액 제조는 생물 안전 작업대 내에서 수행; 약액이 피부 및 점막과 접촉하지 않도록 주의 |
+| 세포독성 분류 | 기존 세포독성 약물 (안트라사이클린 계열, topoisomerase II 억제제) |
+| 골수억제 위험 | 고 (병용 화학요법에서 골수억제가 주요 가드레일) |
+| 구토 유발성 등급 | 중~고 |
+| 모니터링 항목 | CBC(분류 포함), 간·신기능, 심기능(심초음파/LVEF), 누적 용량 |
+| 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
 
-> 경고: Doxorubicin은 누적성 심독성(심근병증, 울혈성 심부전)을 가지고 있으며, 임상 사용의 가장 중요한 장기 안전성 고려사항입니다. 자세한 경고 및 금기사항은 원제조사 첨부문서(DG001, Blocking 수준 자료 공백)를 참조하시기 바랍니다.
-
----
+허가사항의 경고 및 주의사항을 함께 참조하세요.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가 사항을 참조하시기 바랍니다.
+- **심독성**: 누적 용량에 비례한 심독성이 가장 중요한 위험입니다. 문헌에서는 누적 용량 550 mg/m²에서 약 7%의 울혈성 심부전 추정치가 보고되었으며, 이를 후향 분석으로 재평가한 연구도 있습니다. 심장 보호를 위해 dexrazoxane이 연구되었습니다.
+- **약물 상호작용**: 상호작용 데이터 100건이 확인되었습니다. 주요(Major) 수준은 다음과 같습니다.
+  - Dolasetron
+  - Cisapride
+  - Papaverine
 
-> 현재 한국 MFDS 첨부문서 경고 및 금기사항은 자료 공백(**DG001, Blocking 수준**)에 해당하며, 원제조사 첨부문서 PDF를 다운로드하여 분석한 후에야 완전한 평가가 가능합니다. 이 자료를 보충하기 전에는 S1 안전성 초기 평가 절차를 완료할 수 없습니다. 약물 교호작용 조회 결과도 not_found(0건)이므로, DrugBank API를 통해 재조회할 것을 권고합니다.
+  중등도(Moderate) 수준에는 aprepitant, ondansetron, granisetron, palonosetron, dexamethasone, clarithromycin, levofloxacin 등이 있습니다. 항구토제 병용이 흔하므로 QT 연장 등에 유의해야 합니다.
 
----
+허가사항의 경고·금기 정보는 이번 자료에 포함되지 않았으므로 허가사항 원문을 확인해야 합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-Doxorubicin은 Ewing 육종에서 충분한 Phase 3 RCT 임상 증거(**L1 수준**)를 가지고 있으며, 여러 완료된 대규모 국제 시험(EE2012, EURO-EWING, AEWS0031, AEWS1221 등)에서 Doxorubicin 함유 VIDE/VAC/VAI 방안을 치료의 기초로 사용하고 있습니다. 작용 기전(Topoisomerase II 억제 × EWSR1-FLI1 구동의 고증식 종양)과 질병 생물학이 높은 수준에서 일치하며, 임상 응용이 성숙합니다.
+유잉 육종에서 doxorubicin 포함 다제 요법을 평가한 완료된 Phase 3 무작위 시험이 여러 건 있고 문헌 근거도 충분합니다. 다만 근거는 병용요법 단위이며 doxorubicin 단독 기여도를 분리하기 어렵고, 누적 심독성과 골수억제 관리가 필요합니다.
 
 **진행하려면 필요한 것:**
-- **[우선]** MFDS 또는 원제조사 첨부문서 획득(DG001 보충), S1 안전성 초기 평가 완료, 심독성 관련 금기사항 및 경고 확인
-- **[우선]** DrugBank API를 통한 완전한 MOA 자료 보충(DG002), 기전 관련성 분석 강화
-- 한국의 Ewing 육종 미충족 의료 필요성(Unmet Medical Need) 현황 확인, 특수 허가 또는 동정적 사용 신청 실행 가능성 평가
-- 완전한 누적 심독성 모니터링 계획 수립(정기적 심장 초음파, 최대 누적 용량 관리 방안)
-- 현행 한국 소아 종양 치료 방안(예: VIDE, VAC)과의 통합 실행 가능성 및 투여 경로 상호 호환성 평가
+- 허가사항 원문(경고·금기·적응증)의 확인 및 정리
+- 작용 기전(MOA) 데이터 보완
+- 누적 용량 한도와 심기능 모니터링 계획(dexrazoxane 사용 여부 포함) 수립
+- 병용 항구토제와의 상호작용(특히 QT 연장) 관리 계획
 
+---
+
+### 참고: 기타 예측 적응증 요약
+
+| 순위 | 예측 적응증 | 점수 | 근거 수준 | 권장 |
+|-----|-----------|------|---------|------|
+| 2 | 소세포폐암 | 99.87% | L1 | Proceed with Guardrails |
+| 3 | 고분화 태아형 폐 선암 | 99.86% | L5 | Hold |
+| 4 | 원발성 폐 림프종 | 99.85% | L3 | Research Question |
+| 5 | 폐모세포종 | 99.85% | L3 | Research Question |
+| 6 | 만성 골수성 백혈병 (BCR-ABL1 양성) | 99.77% | L3 | Research Question |
+| 7 | 유전성 유방·난소암 증후군 | 99.75% | L4 | Research Question |
+| 8 | 단핵구성 백혈병 | 99.74% | L4 | Hold |
+| 9 | 질의 포도상 배아형 횡문근육종 | 99.72% | L4 | Hold |
+| 10 | 부수막 배아형 횡문근육종 | 99.71% | L4 | Hold |
+
+소세포폐암은 Phase 3 시험(NCT02566993, lurbinectedin/doxorubicin vs CAV 또는 topotecan, n=613)이 있으나, 현재 표준인 백금제·etoposide와 면역치료 병용 대비 위치 설정이 필요합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

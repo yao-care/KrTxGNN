@@ -2,15 +2,15 @@
 layout: default
 title: Modafinil
 parent: 중등도 근거 (L3-L4)
-nav_order: 487
-evidence_level: L3
+nav_order: 525
+evidence_level: L4
 indication_count: 1
 ---
 
 # Modafinil
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **1** 건
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,82 +29,85 @@ indication_count: 1
 
 </div>
 
-# Modafinil: 기면증·수면무호흡증·교대근무 수면장애에서 불면증으로
+# Modafinil: 기면증 등 과다졸림증에서 불면증으로
 
 ## 한 문장 요약
 
-Modafinil은 각성을 촉진하는 촉진제(wake-promoting agent)로, 원래 **기면증, 폐쇄성수면무호흡증(OSA) 잔여 졸음, 교대근무 수면장애**의 주간 과다졸림 치료에 사용되었습니다. TxGNN 모델은 **불면증(Insomnia)**에도 효과가 있을 수 있다고 예측(점수 99.85%)하지만, 현재 근거는 **29건의 임상시험**과 **19편의 문헌** 대부분이 불면증을 직접 겨냥하지 않고 암/화학요법 후 피로 관리나 파킨슨병 주간졸림 등 인접 주제를 다루고 있어, 근거 수준은 L3(관찰/전임상 수준)에 그칩니다.
+Modafinil은 원래 낮 시간의 과다졸림증(기면증, 폐쇄성 수면무호흡, 교대근무 수면장애)에 사용되는 각성 촉진제입니다.
+TxGNN 모델은 **불면증(insomnia)**에 효과가 있을 수 있다고 예측하지만, 약리 기전상 각성을 촉진하는 약이 불면증을 치료한다고 보기는 어렵습니다.
+현재 관련 **임상시험 2건**(모두 소규모 또는 조기 종료)과 **문헌 20편**(대부분 간접 근거)이 있으며, 예측을 직접 뒷받침하는 근거는 부족합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 기면증, OSA 잔여 졸림, 교대근무 수면장애 (각성 촉진 목적) |
+| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적 문구를 확인할 수 없음 (허가 문서 참조) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 99.85% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✗ 미판매 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Modafinil은 도파민 재흡수 억제와 시상하부 하이포크레틴/오렉신(orexin) 시스템 조절을 통해 각성 수준을 높이는 촉진제(wake-promoting agent)입니다. 승인된 적응증은 기면증, OSA의 잔여 졸림, 교대근무 수면장애로, 모두 "과도한 졸림"을 줄이는 방향의 치료입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 modafinil은 도파민 수송체 억제와 함께 히스타민, 오렉신, 글루타메이트 계열의 각성 회로에 영향을 주는 각성 촉진제로 알려져 있으며, 낮 시간 졸림을 줄이는 목적으로 사용됩니다.
 
-문제는 불면증 치료는 반대로 진정/수면 유도 방향의 기전을 필요로 한다는 점입니다. 즉 Modafinil의 약리 방향과 불면증 치료 목적이 정반대입니다. TxGNN의 높은 예측 점수는 지식그래프 내 "수면장애" 관련 노드들이 서로 밀접하게 연결되어 나타난 군집 효과일 가능성이 있으며, 모델이 "각성 촉진"과 "수면 유도"라는 방향성 차이를 구분하지 못했을 가능성이 있습니다.
+불면증은 과각성을 줄이고 수면을 개선하는 것이 치료 목표이므로, 각성을 촉진하는 modafinil과는 약리학적 방향이 반대입니다. TxGNN의 매우 높은 점수는 수면-각성 장애 간 지식그래프상의 근접성을 반영했을 가능성이 크며, 실제 치료적 연관성을 의미한다고 보기는 어렵습니다.
 
-실제로 관련 임상시험 대부분은 암 화학요법 후 피로·불면 동반 증상 관리에서 Modafinil을 CBT-I(불면증 인지행동치료)의 보조 역할로 사용하고 있어, Modafinil 자체가 불면증의 1차 치료제로 검증된 근거는 아직 약합니다.
+다만 파킨슨병, 신경계 질환, 고령자에서 동반되는 낮 시간 졸림이나 수면-각성 교란에는 관련 가능성이 있습니다. 이는 불면증과는 다른 임상 목표입니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT01011218](https://clinicaltrials.gov/study/NCT01011218) | Phase 2 | 완료 | 70 | 유방암 환자 불면증 관리 예비 연구. BBT-I/CBT-I ± Armodafinil 병용 비교. 불면증을 직접 대상으로 한 가장 관련성 높은 시험 |
-| [NCT01019187](https://clinicaltrials.gov/study/NCT01019187) | Phase 2 | 완료 | 226 | 화학요법 후 유방암 생존자의 불면증·피로에 CBT ± Armodafinil 효과 평가 |
-| [NCT01091974](https://clinicaltrials.gov/study/NCT01091974) | Phase 2 | 완료 | 138 | 화학요법 후 불면증·피로에 CBT-I ± Armodafinil 효과, Armodafinil은 피로 보조 역할 가능성 |
-| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Phase 4 | 완료 | 40 | 원발성 불면증 환자의 주간 기능·수면에 대한 Modafinil 단독/CBT-I 병용 효과 |
-| [NCT02552303](https://clinicaltrials.gov/study/NCT02552303) | N/A | 완료 | 39 | 수면호흡장애 동반 불면증에 Armodafinil 및/또는 CBT-I 효과 평가 |
-| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Phase 4 | 조기종료 | 2 | 노인 수면/각성 장애에 Modafinil 치료, 등록 부족으로 조기종료 |
-| [NCT01965925](https://clinicaltrials.gov/study/NCT01965925) | Phase 4 | 완료 | 18 | 안정형 양극성장애의 일주기·인지기능 문제에 Modafinil, 불면증이 주요 종점은 아님 |
-| [NCT01305408](https://clinicaltrials.gov/study/NCT01305408) | Phase 3 | 완료 | 399 | 양극성장애 I형 주요우울삽화에 Armodafinil 보조요법, 적응증이 불면증과 직접 관련 없음 |
-| [NCT03620253](https://clinicaltrials.gov/study/NCT03620253) | Phase 3 | 조기종료 | 9 | 우울증 관해 후 잔존 인지기능장애에 Modafinil 효과, 불면증과 직접 관련 없음 |
-| [NCT00481195](https://clinicaltrials.gov/study/NCT00481195) | Phase 2 | 완료 | 257 | 양극성장애 I형 주요우울삽화에 Armodafinil 보조요법 (150mg/day) |
+| [NCT00124384](https://clinicaltrials.gov/study/NCT00124384) | Phase 4 | 완료 | 40 | 일차성 불면증에서 modafinil 단독 또는 인지행동치료(CBT-I) 병용 시 낮 시간 기능과 불면 중증도 변화를 평가. 결과 데이터는 제공되지 않음 |
+| [NCT00626210](https://clinicaltrials.gov/study/NCT00626210) | Phase 4 | 조기 종료 | 2 | 고령자의 수면/각성 교란에서 낮잠 감소 목적으로 평가. 2명만 등록되어 해석 가능한 결과 없음 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | Systematic Review (Tier 1) | Parkinsonism & Related Disorders | 파킨슨병의 주간졸림·수면장애에 대한 약물 중재 체계적 문헌고찰/메타분석 |
-| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | 근거중심 가이드라인 (Tier 1) | Movement Disorders | 파킨슨병 비운동증상 치료에 대한 MDS 근거중심 리뷰 업데이트 |
-| [39535843](https://pubmed.ncbi.nlm.nih.gov/39535843/) | 2024 | Review (Tier 2) | Expert Opin Pharmacother | 파킨슨병 수면장애의 약물/비약물 관리 |
-| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Review (Tier 2) | Drugs | Modafinil의 승인 및 연구 중인 용도에 대한 근거중심 리뷰 |
-| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | Systematic Review/Meta-analysis (Tier 2) | PLoS ONE | 신경계 질환 관련 피로·주간과다졸림에 대한 Modafinil 효능 메타분석 |
-| [20082966](https://pubmed.ncbi.nlm.nih.gov/20082966/) | 2009 | Review (Tier 2) | Parkinsonism & Related Disorders | 파킨슨병의 주간졸림 |
-| [18805301](https://pubmed.ncbi.nlm.nih.gov/18805301/) | 2008 | Review (Tier 3, 주제 이탈) | Revue Neurologique | 탈력발작을 동반한 기면증 리뷰, 불면증과 직접 관련 낮음 |
-| [30214155](https://pubmed.ncbi.nlm.nih.gov/30214155/) | 2018 | Review (Tier 3, Modafinil 무관) | Drug Des Devel Ther | Pitolisant의 기면증 치료 프로파일, Modafinil 근거 아님 |
-| [17060310](https://pubmed.ncbi.nlm.nih.gov/17060310/) | 2006 | Case Series (Tier 3) | Am J Hosp Palliat Care | Charcot-Marie-Tooth병 1A형의 피로에 Modafinil 사례 시리즈 |
-| [26317009](https://pubmed.ncbi.nlm.nih.gov/26317009/) | 2014 | Review (Tier 3, 주제 이탈) | J Neurodegener Dis | 운동신경원병 다학제 관리, 불면증과 관련 낮음 |
+| [18729534](https://pubmed.ncbi.nlm.nih.gov/18729534/) | 2008 | Review | Drugs | modafinil의 승인 및 연구 중 용도에 대한 근거 기반 고찰 (과도한 졸림, 피로, 인지 저하 등) |
+| [24312590](https://pubmed.ncbi.nlm.nih.gov/24312590/) | 2013 | 체계적 문헌고찰/메타분석 | PLoS One | 신경계 질환 관련 피로 및 과다졸림증에 대한 modafinil의 효능과 안전성 평가. 기존 시험 결과가 일관되지 않음 |
+| [27010071](https://pubmed.ncbi.nlm.nih.gov/27010071/) | 2016 | 체계적 문헌고찰/메타분석 | Parkinsonism & Related Disorders | 파킨슨병의 주간 졸림 및 수면장애에 대한 약물 중재 평가 |
+| [22021174](https://pubmed.ncbi.nlm.nih.gov/22021174/) | 2011 | 체계적 문헌고찰 | Movement Disorders | 파킨슨병 비운동 증상 치료에 대한 근거 검토 |
+| [39535843](https://pubmed.ncbi.nlm.nih.gov/39535843/) | 2024 | Review | Expert Opinion on Pharmacotherapy | 파킨슨병 수면장애의 약물 및 비약물 관리 |
+| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Review | Drugs | 교대근무 수면장애의 질병 부담과 관리 방법 |
+| [18805301](https://pubmed.ncbi.nlm.nih.gov/18805301/) | 2008 | Review | Revue Neurologique | 탈력발작을 동반한 기면증의 특징과 치료 |
+| [17060310](https://pubmed.ncbi.nlm.nih.gov/17060310/) | 2006 | 증례 보고 | Am J Hosp Palliat Care | Charcot-Marie-Tooth병 1A형 환자의 피로를 modafinil이 줄인 증례 시리즈 |
+
+위 문헌은 모두 불면증 자체에 대한 직접 근거가 아니며, 졸림, 기면증, 수면 관련 질환에 대한 간접 근거입니다.
 
 ## 한국 시판 정보
 
-현재 한국(대상 레지스트리 기준)에 Modafinil 관련 허가 품목이 없습니다 (허가증 0건, 미판매).
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200200234 | 프로비질정200밀리그램(모다피닐) | 백색 또는 거의 백색의 장방형 정제 | 허가 문서 참조 |
+| 201104024 | 모다닐정200밀리그램(모다피닐) | 흰색 또는 거의 흰색의 장방형 정제 | 허가 문서 참조 |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **금기 질환(지식그래프 기반, 허가 문구 아님)**: 고혈압, 간부전, 불안장애, 정신병적 장애(조현병 스펙트럼 포함), 물질 남용/의존, 급성 관상동맥증후군, 심근경색, 관상동맥질환, 승모판 탈출증, 체위성 기립성 빈맥 증후군 등이 지식그래프에 금기로 연결되어 있습니다.
+- **약물 상호작용**: 조회된 상호작용은 총 100건입니다. 이 중 주요 항목은 다음과 같습니다.
+  - 중등도: Omeprazole, Esomeprazole, Rabeprazole, Dexamethasone, Eliglustat, Linagliptin, Cisapride
+  - 경미: Hydrocortisone, Cimetidine, Clarithromycin, Pioglitazone 등
+
+허가사항의 경고 및 주의사항은 허가 문서를 별도로 확인해야 합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-Modafinil은 각성 촉진 기전을 가진 약물로 불면증 치료 목적과 약리학적 방향이 상반되며, 수집된 임상시험·문헌 대부분이 불면증을 1차 치료 목표가 아닌 암 치료 후 피로 관리나 타 신경계 질환의 주간졸림 관리에서 보조적으로 다루고 있습니다. 근거 수준 L3로 TxGNN의 높은 예측 점수를 뒷받침할 만한 직접적 근거가 부족합니다.
+Modafinil은 각성을 촉진하는 약물로, 불면증 치료 방향과 약리학적으로 상충합니다. 불면증 관련 임상시험은 소규모(n=40) 또는 조기 종료(n=2) 건뿐이며 결과도 확인되지 않았습니다. TxGNN 점수가 높아도 근거 수준은 L4에 그쳐 진행하기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- TFDA/한국 식약처 허가사항의 경고·금기 정보 확보 (현재 Blocking 데이터 갭, S1 안전성 초평가 진입 불가)
-- DrugBank 공식 작용기전(MOA) 데이터 확인 (현재 High 데이터 갭)
-- 불면증을 1차 종점으로 설계한 무작위대조시험 확인 또는 신규 수행 필요
-- Modafinil의 각성 촉진 기전과 불면증 치료 목적 간 상충 여부에 대한 약리 전문가 검토
+- 허가 문서(국내 허가사항)의 적응증, 경고, 금기 확인
+- 작용 기전 데이터 보완 (DrugBank 등)
+- NCT00124384의 결과 확보 및 불면증에 대한 직접 근거 검토
+- 불면증 대신 파킨슨병이나 고령자의 수면-각성 교란 등 동반 졸림 증상으로 목표 적응증을 재설정하는 방안 검토
+- 심혈관 및 정신과 질환 환자에 대한 안전성 평가
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

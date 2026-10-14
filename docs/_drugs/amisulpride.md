@@ -2,7 +2,7 @@
 layout: default
 title: Amisulpride
 parent: 모델 예측만 (L5)
-nav_order: 60
+nav_order: 62
 evidence_level: L5
 indication_count: 0
 ---

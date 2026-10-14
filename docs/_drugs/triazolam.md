@@ -2,7 +2,7 @@
 layout: default
 title: Triazolam
 parent: 모델 예측만 (L5)
-nav_order: 702
+nav_order: 762
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,31 +29,30 @@ indication_count: 1
 
 </div>
 
-# Triazolam: 벤조디아제핀계 수면진정제에서 불면증(수면 개시·유지 장애)으로
+# Triazolam: 허가 적응증(허가 문서 링크로만 확인됨)에서 수면 개시·유지 장애로
 
 ## 한 문장 요약
 
-Triazolam(DrugBank DB00897)은 벤조디아제핀 계열 진정수면제로 알려져 있으나, 이번 Evidence Pack에는 공식 원 적응증·작용기전(MOA) 데이터가 확보되지 않았습니다.
-TxGNN 모델은 **불면증(Sleep disorder, initiating and maintaining sleep)**에 효과가 있을 것으로 예측하며(예측 점수 99.72%),
-현재 등록된 임상시험은 없으나 **21편의 문헌**(가이드라인·체계적 문헌고찰·네트워크 메타분석 포함)이 벤조디아제핀 계열 수면제로서의 효능·안전성을 뒷받침합니다.
+Triazolam은 벤조디아제핀계 약물로, 한국에서 단일제 정제 4개 허가증으로 시판 중입니다. 다만 이번 보고서에 정리된 데이터에는 허가 적응증의 본문이 없고 허가 문서 링크만 있습니다.
+TxGNN 모델은 **수면 개시 및 유지 장애(sleep disorder, initiating and maintaining sleep)**에 효과가 있을 수 있다고 예측하며, 현재 **20편의 문헌**이 이 방향과 관련되어 있습니다. 등록된 임상시험은 없습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 자료 없음 (한국 미허가, DrugBank 원 적응증 데이터 결측 — MOA도 High 등급 Data Gap) |
-| 예측 신규 적응증 | 불면증 — 수면 개시 및 유지 장애 (Sleep disorder, initiating and maintaining sleep) |
+| 기존 적응증 | 허가 적응증 본문 없음 (식약처 허가 문서 링크만 확인됨) |
+| 예측 신규 적응증 | 수면 개시 및 유지 장애 (sleep disorder, initiating and maintaining sleep) |
 | TxGNN 예측 점수 | 99.72% |
-| 근거 수준 | L3 (완료된 임상시험 없음, 체계적 문헌고찰·네트워크 메타분석 등 관찰/종합근거 존재) |
-| 한국 시판 현황 | ✗ 미출시 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용기전(MOA) 데이터는 확보되지 않았습니다(Blocking/High 등급 Data Gap). 다만 문헌 근거에서 반복적으로 확인되듯, Triazolam은 짧은 반감기를 가진 벤조디아제핀 계열 수면제(hypnotic)로, GABA-A 수용체의 벤조디아제핀 결합 부위에 작용하는 것으로 널리 알려져 있는 약물군에 속합니다(예: PMID 1319429, PMID 19682231).
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Triazolam은 벤조디아제핀계 수면제로 분류되며, 이는 수집된 문헌(PMID 1319429, 2567741 등)에서도 단시간 작용 벤조디아제핀 수면제로 다뤄집니다.
 
-TxGNN이 예측한 신규 적응증인 "불면증(수면 개시·유지 장애)"은 이 약물군의 전형적인 임상 활용 영역과 직접적으로 일치합니다. 실제로 수집된 21편의 문헌 대부분이 불면증 약물치료 가이드라인 및 벤조디아제핀 계열 약물(특히 triazolam)의 효능·안전성을 다루고 있어, 예측의 기전적 타당성을 뒷받침합니다. 다만 이는 "신규" 적응증이라기보다 이미 잘 알려진 약물 분류의 전형적 용도에 가까우므로, 한국 내 정식 허가 여부와는 별개로 해석할 필요가 있습니다.
+수집된 문헌은 Triazolam을 포함한 수면제의 불면증 치료를 다루고 있어, 예측된 적응증인 수면 개시·유지 장애와 임상적으로 연관성이 있어 보입니다. 다만 기존 허가 적응증의 본문이 확인되지 않아, 이번 예측이 "새로운" 적응증인지 기존 적응증과 겹치는지는 허가사항을 확인해야 판단할 수 있습니다.
 
 ## 임상시험 근거
 
@@ -61,35 +60,53 @@ TxGNN이 예측한 신규 적응증인 "불면증(수면 개시·유지 장애)"
 
 ## 문헌 근거
 
+수집된 문헌은 모두 분류가 완료되지 않았으며, 아래는 Triazolam과 직접 관련되거나 지침·체계적 문헌고찰 성격인 주요 항목입니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [9161660](https://pubmed.ncbi.nlm.nih.gov/9161660/) | 1997 | Review | The Annals of Pharmacotherapy | Zolpidem과 Triazolam의 효능·안전성 비교 문헌고찰 |
-| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Review | J Clin Psychiatry | Triazolam·Temazepam 등 벤조디아제핀 수면제의 약리학적 특성 정리 |
-| [19682231](https://pubmed.ncbi.nlm.nih.gov/19682231/) | 2010 | Original study | J Sleep Research | Triazolam·Zolpidem이 수면 의존적 운동학습에 미치는 역행성 효과 연구 |
-| [2567741](https://pubmed.ncbi.nlm.nih.gov/2567741/) | 1989 | Review | J Clin Psychopharmacology | Triazolam 등 단기작용 벤조디아제핀 중단 시 반동성 불면증(rebound insomnia) 비평 |
-| [33249496](https://pubmed.ncbi.nlm.nih.gov/33249496/) | 2021 | Network meta-analysis | Sleep | 고령자 불면증 치료제(수면진정제 포함)의 효능·안전성 비교 네트워크 메타분석 |
-| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Clinical guideline | J Clin Sleep Medicine | AASM 성인 만성 불면증 약물치료 임상진료지침 |
-| [40110890](https://pubmed.ncbi.nlm.nih.gov/40110890/) | 2025 | Systematic review/meta-analysis of RCTs | Psychiatry Clin Neurosci | 불면 동반 주요우울장애에서 수면제 병용요법의 효능·안전성 메타분석 |
-| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Review | Drugs & Aging | 고령 불면증 환자 약물치료 권고사항 |
-| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | Clinical Therapeutics | 고령자 대상 수면제의 안전성·효능 문헌고찰 |
-| [39932761](https://pubmed.ncbi.nlm.nih.gov/39932761/) | 2025 | Review | Minerva Medica | 불면증 장애의 정의·역학·치료 개관 |
+| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | 임상 진료지침 | J Clin Sleep Med | 성인 만성 불면증의 개별 약물 치료에 대한 미국수면의학회 권고안 |
+| [32544795](https://pubmed.ncbi.nlm.nih.gov/32544795/) | 2020 | 정량적 비교 연구 | Sleep Med | 불면증 약물 치료제 간 효능을 모델링으로 비교 |
+| [31730011](https://pubmed.ncbi.nlm.nih.gov/31730011/) | 2019 | 리뷰 개관 | Syst Rev | 불면증의 약물·비약물 치료의 효과와 안전성 비교 |
+| [40110890](https://pubmed.ncbi.nlm.nih.gov/40110890/) | 2025 | 체계적 문헌고찰·메타분석 | Psychiatry Clin Neurosci | 우울증 동반 불면증에서 수면제 병용요법의 효능과 안전성 |
+| [38401406](https://pubmed.ncbi.nlm.nih.gov/38401406/) | 2024 | 체계적 문헌고찰·네트워크 메타분석 | Eur Neuropsychopharmacol | 수면제의 운전 수행능력에 대한 잔류 효과 |
+| [2567741](https://pubmed.ncbi.nlm.nih.gov/2567741/) | 1989 | Review | J Clin Psychopharmacol | Triazolam 중단 후 반동성 불면 가능성 |
+| [9161660](https://pubmed.ncbi.nlm.nih.gov/9161660/) | 1997 | Review | Ann Pharmacother | Zolpidem과 Triazolam의 효능·안전성 비교 |
+| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Review | Drugs Aging | 고령 불면증 환자의 약물 치료 권고 |
+| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | Clin Ther | 고령자에서 수면제의 안전성과 효능 |
+| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Review | J Clin Psychiatry | 벤조디아제핀 수면제의 약리 (Triazolam, Temazepam 포함) |
+
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201605409 | 트리람정0.125밀리그램 (환인제약) | 흰색의 타원형 정제 | 허가 문서 링크만 확인됨 (본문 없음) |
+| 198902801 | 졸민정0.125밀리그램 (명인제약) | 보라색의 타원형 정제 | 허가 문서 링크만 확인됨 (본문 없음) |
+| 198902794 | 트리람정0.25밀리그램 (환인제약) | 담청색의 타원형 정제 | 허가 문서 링크만 확인됨 (본문 없음) |
+| 198902802 | 졸민정0.25밀리그램 (명인제약) | 파란색의 타원형 정제 | 허가 문서 링크만 확인됨 (본문 없음) |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **금기 관련 지식그래프 신호** (허가사항이 아닌 지식그래프의 약물-질환 금기 연결 기준): 불안장애, 신경증, 기분부전장애, 신장 질환, 간 질환, 담낭 질환, 정신병적 장애, 조현정동장애, 폐쇄성 수면무호흡증, 선천성 중추성 저환기 증후군, 중증 근무력증, 신경근접합부 질환, 물질 관련 장애 및 물질 남용/의존
+- **약물 상호작용**: 총 100건 중 일부가 확인되었습니다.
+  - 주요(Major): Morphine
+  - 중등도(Moderate): Ranitidine, Bupropion, Aprepitant, Omeprazole, Cimetidine, Clarithromycin, Dronabinol, Eluxadoline, Teduglutide, Nabilone, Metoclopramide, Miconazole, Clotrimazole
+  - 경미(Minor): Dexamethasone, Betamethasone, Magnesium oxide, Prednisone, Aluminum hydroxide, Calcium carbonate
+- **문헌상 안전성 이슈**: 중단 후 반동성 불면(PMID 2567741), 운전 능력에 대한 잔류 효과(PMID 38401406), 벤조디아제핀 남용·의존 문제(PMID 26438969)
+
+허가사항의 경고 및 주의사항은 별도로 확인해야 합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-안전성 관련 핵심 자료(주요 경고, 금기, DDI)가 전부 결측 상태이며, 특히 허가사항/경고 정보 결측(DG001)은 Blocking 등급으로 S1 안전성 초기평가 자체가 불가능합니다. 또한 한국 내 허가증이 0건으로, 이는 기존 허가 약물의 적응증 확장이 아니라 신규 허가 절차가 필요한 상황이라 리스크 프로파일이 다릅니다.
+TxGNN 점수는 높지만 등록된 임상시험이 없고 문헌은 대부분 리뷰·지침 수준이며, 기존 허가 적응증 본문도 확인되지 않아 근거 수준은 L5입니다. 또한 허가사항의 경고·금기 정보가 없어 안전성 검토를 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
-- 한국 식약처(MFDS) 허가사항·경고·금기 정보 확보 (DG001 해결, Blocking)
-- DrugBank 등에서 작용기전(MOA) 데이터 확보 (DG002 해결)
-- DDI(약물상호작용) 데이터베이스 재조회
-- 한국 내 임상시험 등록 현황 및 벤조디아제핀 계열 약물 규제 동향 조사
+- 식약처 허가사항 PDF 4건에서 적응증, 경고, 금기 확인 (예측 적응증이 기존 허가 범위와 겹치는지 판단)
+- 상세한 약물 작용 기전(MOA) 데이터 확보
+- 문헌의 연구 유형 및 관련성 분류 완료
+- 고령자, 호흡기 질환자, 물질 사용 이력이 있는 환자에 대한 안전성 및 의존성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

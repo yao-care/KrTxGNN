@@ -2,7 +2,7 @@
 layout: default
 title: Tramadol
 parent: 모델 예측만 (L5)
-nav_order: 691
+nav_order: 751
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,101 +29,105 @@ indication_count: 10
 
 </div>
 
-# Tramadol: 통증에서 골관절염(Osteoarthritis)으로
-
-> **참고**: TxGNN 예측 순위 1위는 "osteoarthritis susceptibility"(골관절염 유전적 감수성)였으나, 이는 치료 가능한 임상 실체가 아닌 유전적 위험 표지자(OMIM식 감수성 노드)이며 뒷받침하는 근거도 사망률 관련 안전성 문헌 1편뿐이라 보고 대상에서 제외했습니다. 대신 실질적 임상 근거가 풍부한 **순위 2 "osteoarthritis"**를 이 보고서의 핵심 예측으로 다룹니다.
+# Tramadol: 골관절염 통증 치료제에서 골관절염(Osteoarthritis)으로
 
 ## 한 문장 요약
 
-Tramadol은 중추성 아편유사제/SNRI 이중기전을 가진 진통제입니다.
-TxGNN 모델은 **골관절염(Osteoarthritis)**에 효과가 있을 것으로 예측하며,
-현재 **50건 이상의 임상시험**과 **20편 이상의 문헌**(ACR 가이드라인, Cochrane 체계적 고찰 포함)이 이를 뒷받침합니다.
-다만 사망률·골절 위험 증가와 관련된 관찰연구 안전성 신호도 함께 보고되어 있어 주의가 필요합니다.
+Tramadol은 중추성 진통제로, 국내에서 중등도 이상의 통증 치료에 사용되는 약물입니다.
+TxGNN 모델은 **골관절염(Osteoarthritis)**에 효과가 있을 수 있다고 예측하며, 현재 **21건의 임상시험**(Phase 3 완료 시험 다수 포함)과 **20편의 문헌**이 이 방향을 지지합니다.
+다만 이는 질병을 변화시키는 치료가 아니라 기존의 증상 완화 진통 용도에 가깝습니다.
 
----
+> 참고: 예측 점수 1위는 "골관절염 감수성(osteoarthritis susceptibility)"이나, 이는 치료 가능한 임상 상태가 아닌 유전적 감수성 개념이어서 근거가 간접적입니다. 따라서 이 보고서는 임상적으로 의미 있고 근거가 가장 충실한 2위 예측인 **골관절염**을 중심으로 평가합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 (한국 허가 정보 미확보 — Tramadol은 일반적으로 중등도~중증 통증에 사용되는 아편유사 진통제) |
+| 기존 적응증 | 허가증 자료에는 허가 적응증 본문이 아닌 허가사항 문서 링크만 포함되어 있어 구체적 문구를 확인할 수 없음 (중등도 이상의 통증 치료제) |
 | 예측 신규 적응증 | 골관절염 (Osteoarthritis) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 99.99% (골관절염 기준, 1위 골관절염 감수성도 99.99%) |
 | 근거 수준 | L1 (완료된 Phase 3 RCT 다수) |
-| 한국 시판 현황 | 미시판 |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Proceed with Guardrails |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-Tramadol은 μ-opioid 수용체에 대한 약한 효능제 작용과 세로토닌·노르에피네프린 재흡수 억제(SNRI) 작용을 동시에 갖는 이중기전 중추성 진통제입니다. 이 기전은 골관절염의 만성 통증 조절에 직접 대응하는 약리학적 표적으로, 실제로는 완전히 새로운 "재창출" 가설이라기보다 이미 임상적으로 광범위하게 활용되고 있는 진통 옵션입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Tramadol은 약한 mu-오피오이드 수용체 작용제이면서 세로토닌·노르에피네프린 재흡수를 억제하는 이중 작용 진통제입니다. 이 중추성 진통 작용이 만성 골관절염 통증에 적용될 수 있습니다.
 
-미국정형외과학회(AAOS) 가이드라인은 무릎 골관절염 환자에게 tramadol을 권고하고 있으며, 미국류마티스학회(ACR)/관절염재단(Arthritis Foundation) 2019 가이드라인도 NSAID와 함께 tramadol을 1차 치료 옵션으로 조건부 권고합니다. 즉, TxGNN의 예측은 이미 확립된 임상 실무와 일치하며, 이는 모델 예측의 타당성을 뒷받침하는 동시에 "신규성"보다는 "근거 재확인"의 성격이 강함을 시사합니다.
+기존 적응증인 통증 치료와 골관절염의 통증 관리는 직접적으로 연결됩니다. 실제로 ACR/관절염재단 2019 가이드라인은 Tramadol을 조건부로 권고하며, 특히 NSAIDs를 사용할 수 없거나 효과가 부족한 환자에서 고려할 수 있습니다.
 
----
+다만 Tramadol은 이미 증상 완화용 진통제로 쓰이고 있어 엄밀한 의미의 재창출 후보라기보다 기존 용도의 재확인에 가깝습니다. 질병 진행을 늦추는 효과(질병 수정)는 없습니다.
 
 ## 임상시험 근거
 
+골관절염 관련 시험 21건 중 관련성이 높은 상위 10건입니다.
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT04504812](https://clinicaltrials.gov/study/NCT04504812) | Phase 3 | 완료 | 1937 | 무릎 골관절염 통증 완화를 위한 단계적 치료전략 비교(오피오이드 의존도 감소 목적의 대규모 실용임상시험, tramadol 옵션 포함) |
-| [NCT00348452](https://clinicaltrials.gov/study/NCT00348452) | Phase 3 | 완료 | 1000 | Tramadol HCl ER 100/200/300mg vs Celecoxib vs 위약, 무릎·고관절 골관절염 중등도-중증 통증에서 용량별 진통 효과 및 안전성 비교 |
-| [NCT00833794](https://clinicaltrials.gov/study/NCT00833794) | Phase 3 | 완료 | 1028 | Tramadol 1일1회(OAD) vs 위약, 골관절염 통증 진통 효과·안전성·임상적 이익 평가 |
-| [NCT00832416](https://clinicaltrials.gov/study/NCT00832416) | Phase 3 | 완료 | 565 | Tramadol 1일1회 100/200/300mg vs 위약, 무릎 골관절염 통증 4군 비교 |
-| [NCT00950651](https://clinicaltrials.gov/study/NCT00950651) | Phase 3 | 완료 | 431 | Tramadol HCl/Contramid 1일1회 vs Tramadol SR 1일2회, 84일간 효능·안전성 비교 |
-| [NCT00852917](https://clinicaltrials.gov/study/NCT00852917) | Phase 3 | 완료 | 552 | Tramadol 1일1회 100/200/300mg vs 위약, 7일 추적 포함 4군 비교 |
-| [NCT01019265](https://clinicaltrials.gov/study/NCT01019265) | Phase 4 | 완료 | 170 | 부프레노르핀 경피패취(Norspan) vs 경구 Tramadol, 중등도-중증 골관절염 통증 비교 |
-| [NCT00426647](https://clinicaltrials.gov/study/NCT00426647) | Phase 4 | 완료 | 120 | Norspan 패취 vs Tramadol, 고관절·무릎·요추 만성 중등도-중증 통증 동등성 시험 |
-| [NCT01063842](https://clinicaltrials.gov/study/NCT01063842) | Phase 4 | 완료 | 250 | **한국** OA 환자 대상 Tramadol/Acetaminophen(Ultracet) titration 내약성 개선 다기관 연구 |
-| [NCT03850587](https://clinicaltrials.gov/study/NCT03850587) | Phase 2 | 완료 | 261 | YYC301 vs 활성대조군, 무릎 골관절염 (tramadol 직접 비교 여부는 불명확) |
-
----
+| [NCT00348452](https://clinicaltrials.gov/study/NCT00348452) | Phase 3 | 완료 | 1000 | 무릎·고관절 골관절염에서 Tramadol ER 100/200/300 mg vs 위약·셀레콕시브 이중맹검 용량 탐색 |
+| [NCT00325858](https://clinicaltrials.gov/study/NCT00325858) | Phase 3 | 완료 | 1000 | Tramadol ER 100~400 mg vs 위약, 중등도~중증 골관절염 통증 |
+| [NCT00833794](https://clinicaltrials.gov/study/NCT00833794) | Phase 3 | 완료 | 1028 | 1일 1회 Tramadol vs 위약, 골관절염 통증 진통 효과·안전성 |
+| [NCT00852917](https://clinicaltrials.gov/study/NCT00852917) | Phase 3 | 완료 | 552 | 1일 1회 Tramadol 100/200/300 mg vs 위약, 무릎 골관절염 통증 |
+| [NCT00348010](https://clinicaltrials.gov/study/NCT00348010) | Phase 3 | 완료 | 245 | Tramadol ER vs 위약, 무릎 골관절염 이중맹검 용량 적정 |
+| [NCT00950651](https://clinicaltrials.gov/study/NCT00950651) | Phase 3 | 완료 | 431 | 1일 1회 Contramid 제형 vs 1일 2회 SR 제형, 무릎 골관절염 |
+| [NCT00736853](https://clinicaltrials.gov/study/NCT00736853) | Phase 3 | 완료 | 321 | Tramadol/아세트아미노펜(JNS013), NSAIDs로 조절되지 않는 만성 통증(골관절염 또는 요통) |
+| [NCT05362851](https://clinicaltrials.gov/study/NCT05362851) | Phase 3 | 불명 | 692 | YYC301의 무릎 골관절염 대상 활성대조 이중맹검 시험 |
+| [NCT01063842](https://clinicaltrials.gov/study/NCT01063842) | Phase 4 | 완료 | 250 | 한국인 골관절염 환자에서 Tramadol/아세트아미노펜 용량 적정을 통한 내약성 개선 |
+| [NCT01728246](https://clinicaltrials.gov/study/NCT01728246) | Phase 4 | 완료 | 473 | 만성 골관절염에서 Tramadol/파라세타몰 추가요법의 효능·안전성·삶의 질 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [31908149](https://pubmed.ncbi.nlm.nih.gov/31908149/) | 2020 | Guideline | Arthritis Care & Research | ACR/Arthritis Foundation 2019 골관절염 관리 가이드라인, tramadol을 조건부 1차 약물치료로 권고 |
-| [31132298](https://pubmed.ncbi.nlm.nih.gov/31132298/) | 2019 | Cochrane SR | Cochrane Database Syst Rev | Tramadol의 골관절염 통증·기능 개선 효과 및 이상반응 프로파일 체계적 고찰 |
-| [34251756](https://pubmed.ncbi.nlm.nih.gov/34251756/) | 2023 | SR/Network Meta-analysis | Arthritis Care & Research | 무릎·고관절 골관절염에서 Tramadol의 효능·안전성 네트워크 메타분석 |
-| [17343302](https://pubmed.ncbi.nlm.nih.gov/17343302/) | 2007 | SR/Meta-analysis | J Rheumatol | Tramadol의 진통효과·기능·지속시간·안전성에 대한 체계적 고찰 |
-| [22563589](https://pubmed.ncbi.nlm.nih.gov/22563589/) | 2012 | Guideline | Arthritis Care & Research | ACR 2012 손·고관절·무릎 골관절염 비약물/약물요법 권고안 |
-| [30860559](https://pubmed.ncbi.nlm.nih.gov/30860559/) | 2019 | Cohort (안전성) | JAMA | **Tramadol 사용과 골관절염 환자의 전체원인 사망률 증가 연관성** — 중요 안전성 신호 |
-| [39420382](https://pubmed.ncbi.nlm.nih.gov/39420382/) | 2024 | SR/Meta-analysis | Adv Rheumatol | Tramadol vs Codeine, 전체원인 사망률·심혈관질환 위험 비교(성향점수매칭 코호트 메타분석) |
-| [38103456](https://pubmed.ncbi.nlm.nih.gov/38103456/) | 2024 | SR/Meta-analysis | Int J Orthop Trauma Nurs | Tramadol 사용과 고관절골절 위험의 연관성 체계적 고찰·메타분석 |
-| [36414224](https://pubmed.ncbi.nlm.nih.gov/36414224/) | 2023 | Review | Osteoarthritis and Cartilage | 골관절염 약물치료 현황 및 권고사항 종합 리뷰 |
-| [30415598](https://pubmed.ncbi.nlm.nih.gov/30415598/) | 2018 | SR (안전성) | J Orthop Surg (Hong Kong) | 고관절·무릎 골관절염 치료법의 안전성(사망률·중대 합병증) 체계적 비교 |
-
----
+| [31132298](https://pubmed.ncbi.nlm.nih.gov/31132298/) | 2019 | 체계적 문헌고찰 (Cochrane) | Cochrane Database Syst Rev | 골관절염에서 Tramadol의 효과와 이상반응 평가 (NSAIDs 대비 위장관·신장 부작용 가능성 낮음) |
+| [34251756](https://pubmed.ncbi.nlm.nih.gov/34251756/) | 2023 | 체계적 문헌고찰·네트워크 메타분석 | Arthritis Care Res | 무릎·고관절 골관절염 RCT에서 Tramadol의 효능과 안전성 평가 |
+| [31908149](https://pubmed.ncbi.nlm.nih.gov/31908149/) | 2020 | 가이드라인 | Arthritis Care Res | ACR/관절염재단 2019 손·고관절·무릎 골관절염 관리 가이드라인 |
+| [31908163](https://pubmed.ncbi.nlm.nih.gov/31908163/) | 2020 | 가이드라인 | Arthritis Rheumatol | 위 ACR/관절염재단 가이드라인의 동일 게재본 |
+| [16856101](https://pubmed.ncbi.nlm.nih.gov/16856101/) | 2006 | 체계적 문헌고찰 (Cochrane) | Cochrane Database Syst Rev | 골관절염에서 Tramadol 사용 근거 (위장관 출혈·신장 문제 없음) |
+| [17343302](https://pubmed.ncbi.nlm.nih.gov/17343302/) | 2007 | 체계적 문헌고찰·메타분석 | J Rheumatol | 경구 Tramadol의 진통 효과, 신체 기능, 효과 지속 기간, 안전성 평가 |
+| [30860559](https://pubmed.ncbi.nlm.nih.gov/30860559/) | 2019 | 코호트 | JAMA | 골관절염 환자에서 Tramadol과 전체 사망률의 연관성 |
+| [35410440](https://pubmed.ncbi.nlm.nih.gov/35410440/) | 2022 | 인구 기반 연구 | Arthritis Res Ther | 골관절염 환자에서 Tramadol과 사망, 심혈관질환, 정맥혈전색전증, 고관절 골절 위험 |
+| [38937394](https://pubmed.ncbi.nlm.nih.gov/38937394/) | 2024 | 체계적 문헌고찰·메타분석 | Drugs | 요통·골관절염에서 파라세타몰 병용요법의 효과 (효과 불분명) |
+| [40095377](https://pubmed.ncbi.nlm.nih.gov/40095377/) | 2025 | 체계적 문헌고찰 | Drugs | 항골관절염 약물의 시판 후 안전성 감시 연구 검토 |
 
 ## 한국 시판 정보
 
-한국(taiwan_regulatory 데이터 기준) 시판 허가 정보가 없습니다. `market_status`는 "미시판"으로 기록되어 있으며, 등록된 허가증도 0건입니다. 허가 절차 진행 시 별도의 규제 조사가 필요합니다.
+허가증 20건 중 주요 5건입니다. 허가 적응증 본문은 허가사항 문서 링크로만 제공되어 있어 요약하지 않았습니다.
 
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200713092 | 트라칸정 | 필름코팅정 | 허가사항 문서 참조 |
+| 202201142 | 울트라셋세미정 | 필름코팅정 | 허가사항 문서 참조 |
+| 200805389 | 울트라맥세미정 | 필름코팅정 | 허가사항 문서 참조 |
+| 198300327 | 트리돌캡슐50mg | 경질캡슐 | 허가사항 문서 참조 |
+| 198600090 | 타마돌주사 | 주사제(앰플) | 허가사항 문서 참조 |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 데이터상 상호작용 100건이 확인되었습니다. 주요(Major) 등급 예시는 Alvimopan, Bupropion, Cisapride, Dexfenfluramine, Diethylpropion, Dolasetron, Dronabinol, Ephedrine, Fenfluramine 등입니다. 중등도(Moderate) 등급 예시는 Atropine, Bisacodyl, Cimetidine, Clarithromycin, Famotidine 등입니다.
+- **문헌상 안전성 신호**: 골관절염 환자에서 전체 사망률 증가 신호, 낙상, 의존성 위험이 보고되었습니다. 세로토닌 증후군과 경련 발작에 대한 모니터링도 필요합니다.
+- **소아 사용**: 소아에서는 호흡억제와 CYP2D6 초고속 대사 위험으로 사용에 제한이 큽니다.
 
-> 다만 문헌 근거에서 확인된 바, JAMA(2019) 코호트 연구는 골관절염 환자의 tramadol 사용과 **전체원인 사망률 증가**의 연관성을 보고했으며, 2024년 메타분석에서는 **고관절골절 위험** 및 **codeine 대비 심혈관질환·사망률 위험**이 추가로 제기되었습니다. 이는 공식 허가사항 데이터는 아니지만 근거 평가 시 반드시 함께 고려해야 할 관찰연구 기반 안전성 신호입니다.
-
----
+허가사항상의 경고·금기 정보는 이번 데이터에 포함되지 않았으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-골관절염에 대한 Tramadol의 효능은 다수의 완료된 Phase 3 RCT와 ACR/AAOS 가이드라인 권고로 뒷받침되어 근거 수준 L1에 해당합니다. 그러나 동일한 근거 기반(JAMA 코호트, 2024년 메타분석)에서 사망률·골절 위험 증가라는 상반된 안전성 신호가 함께 확인되어, 무조건적 진행보다는 안전장치를 동반한 진행이 타당합니다.
+골관절염 통증에 대해 완료된 대규모 Phase 3 RCT가 다수 있고 Cochrane 리뷰와 ACR 가이드라인이 뒷받침합니다. 다만 사망률 신호, 낙상, 의존성, 약물 상호작용 위험이 있고 질병 수정 효과가 없어 안전 장치를 전제로 한 증상 완화 용도로 제한해야 합니다.
 
 **진행하려면 필요한 것:**
-- 한국 식약처(MFDS) 허가사항의 경고·금기·상호작용 정보 확보 (DG001, Blocking)
-- DrugBank 등에서 상세 작용기전(MOA) 데이터 확보 (DG002, High)
-- 사망률·골절 위험 관련 관찰연구의 인과관계 및 교란변수 평가 (S1 안전성 초평가 필수 선행 조건)
-- 한국 내 실제 시판/허가 현황 재확인 및 허가 신청 전략 수립
+- 허가사항(경고·금기) 확보: 한국 MFDS 허가사항 PDF 내용 확인 (현재 안전성 심사를 막는 핵심 공백)
+- 상세한 작용 기전 데이터 (DrugBank 등)
+- NSAIDs 사용 불가 또는 효과 부족 환자로 대상 제한, 최저 유효 용량·최단 기간 사용
+- 세로토닌 증후군, 경련, 낙상, 의존성, 약물 상호작용에 대한 모니터링 계획
+
+**기타 예측 신규 적응증에 대한 참고:**
+- 관절병증(Arthropathy): 근거는 사실상 골관절염 시험과 중복되며, 골관절염형 통증으로 한정할 때 같은 안전 장치로 Proceed with Guardrails가 가능합니다.
+- 골관절염 감수성, 척추관절병증 감수성: 유전적 감수성 개념이어서 치료 대상이 아니며 Hold입니다.
+- 말단중간이형성증(Hunter-Thompson형), 단지증-법랑질형성부전 증후군, 근경화증, 단지증, 가성무연골형성증, 소아특발성관절염: 기전적 연관성과 임상 근거가 없거나 부적절하여 Hold입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

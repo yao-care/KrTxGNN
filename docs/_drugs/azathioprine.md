@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Azathioprine
-parent: 높은 근거 (L1-L2)
-nav_order: 110
-evidence_level: L1
+parent: 모델 예측만 (L5)
+nav_order: 112
+evidence_level: L5
 indication_count: 10
 ---
 
 # Azathioprine
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,97 +29,72 @@ indication_count: 10
 
 </div>
 
-# Azathioprine: 자가면역질환 치료에서 염증성 장질환으로
+# Azathioprine: 기존 면역억제 적응증에서 콜로보마성 소안구증-근위지단 이형성증 증후군으로
 
 ## 한 문장 요약
 
-Azathioprine은 퓨린 유사체 계열의 면역억제제로, 전 세계적으로 장기이식 거부반응 예방 및 류마티스 관절염 등 자가면역질환 치료에 사용되어 왔습니다.
-TxGNN 모델은 **염증성 장질환(Inflammatory Bowel Disease, IBD)**에 효과가 있을 것으로 예측하며, 이는 약물의 T 림프구 억제 기전과 IBD의 핵심 병태생리가 직접 부합하기 때문입니다.
-현재 **50건 이상의 임상시험**과 **20편의 문헌**(코크란 체계적 문헌고찰 및 Phase 3 RCT 다수 포함)이 이 방향을 강력히 지지합니다.
-
----
+Azathioprine은 퓨린 계열 항대사 면역억제제로, 한국에서 11건의 단일제 허가증으로 시판 중입니다. TxGNN 모델은 희귀 발생 이상 질환인 **콜로보마성 소안구증-근위지단 이형성증 증후군(colobomatous microphthalmia-rhizomelic dysplasia syndrome)**에 효과가 있을 것으로 예측했고 점수는 매우 높았습니다. 그러나 이를 지지하는 **임상시험은 0건, 문헌도 0편**이라 이 예측은 그래프 기반 인공 산출물일 가능성이 큽니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 한국 미허가 (글로벌: 장기이식 거부반응 예방, 자가면역질환) |
-| 예측 신규 적응증 | 염증성 장질환 (Inflammatory Bowel Disease) |
-| TxGNN 예측 점수 | 99.52% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Proceed with Guardrails |
-
----
+| 기존 적응증 | 허가증 본문은 링크로만 확인되어 구체적 문구를 확인하지 못했습니다. 일반적으로 알려진 면역 매개 질환 및 이식 관련 면역억제 용도입니다. |
+| 예측 신규 적응증 | 콜로보마성 소안구증-근위지단 이형성증 증후군 (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
+| TxGNN 예측 점수 | 99.9994% (전체 순위 61위) |
+| 근거 수준 | L5 (모델 예측만 있음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 11건 (모두 단일제, 유효) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Azathioprine은 체내에서 활성 대사체인 6-티오구아닌 뉴클레오타이드(6-TGN)로 전환됩니다. 6-TGN은 DNA에 삽입되어 Rac1/Vav 신호경로를 차단함으로써 T 림프구의 세포자멸사(apoptosis)를 유도하고, 장점막의 과도한 면역 반응을 억제합니다. TPMT 및 NUDT15 약물유전체학적 표현형이 대사 속도를 결정하여 치료 효과와 독성에 영향을 미칩니다.
+현재 상세한 작용 기전 데이터가 없습니다. Azathioprine은 일반적으로 6-mercaptopurine으로 전환되어 퓨린 합성과 림프구 증식을 억제하는 면역억제제로 알려져 있으며, 이는 면역 매개 염증 질환에서 효과를 내는 기전입니다.
 
-IBD(크론병 및 궤양성 대장염)는 T 세포 매개 장점막 면역 과활성이 핵심 병태생리로, azathioprine의 작용 기전이 질환의 근본 원인에 직접 작용합니다. 특히 궤양성 대장염에서는 Th2/Th9 매개 결장 점막 과활성화에 대응하여 IL-13, IL-9 등 염증성 사이토카인을 감소시키고 점막 관해를 유지합니다. 실제로 전 세계 주요 IBD 치료 가이드라인에서 azathioprine은 스테로이드 의존성 또는 저항성 IBD의 1차 면역조절제로 확고히 자리 잡고 있으며, 다수의 Phase 3 RCT와 코크란 체계적 문헌고찰이 그 효과를 뒷받침합니다.
-
----
+이번 예측 질환은 안구와 골격의 발생 이상을 보이는 희귀 증후군입니다. 면역억제나 항대사 작용이 구조적 발달 장애를 교정할 근거는 확인되지 않았습니다. 기존 적응증과의 연관성도, 기전상 적용 가능한 이유도 찾을 수 없습니다. 따라서 매우 높은 TxGNN 점수는 지식 그래프 구조에서 비롯된 인공 산출물일 가능성이 높습니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00094458](https://clinicaltrials.gov/study/NCT00094458) | Phase 3 | 완료 | 508 | 면역조절제·생물학적 제제 미치료 크론병 환자에서 infliximab, azathioprine, 병용 요법의 안전성 및 효과 비교 (SONIC 연구 배경); azathioprine 대조군으로서 높은 직접 증거 |
-| [NCT01536535](https://clinicaltrials.gov/study/NCT01536535) | Phase 4 | 완료 | 431 | 새로 진단된 소아·청소년 궤양성 대장염에서 mesalamine 및 코르티코스테로이드 포함 표준 초기 요법의 안전성·유효성 평가; azathioprine 포함 표준 요법 근거 확인 |
-| [NCT00946946](https://clinicaltrials.gov/study/NCT00946946) | Phase 3 | 완료 | 78 | 수술 후 중등도~중증 내시경 재발 크론병에서 azathioprine 대 mesalazine의 임상 재발 예방 효과 비교 (이중맹검 이중위약 RCT) |
-| [NCT00976690](https://clinicaltrials.gov/study/NCT00976690) | Phase 3 | 완료 | 83 | 크론병 수술 후 재발 예방에서 azathioprine의 mesalazine 대비 우월성 평가 (다기관 무작위 공개 연구) |
-| [NCT00098111](https://clinicaltrials.gov/study/NCT00098111) | Phase 3 | 조기종료 | 31 | 코르티코스테로이드 치료가 필요한 활성 크론병에서 azathioprine의 최적 체중 기반 용량 탐색 (ACORDIS); azathioprine 직접 연구로 설계 적합성 높음 |
-| [NCT03101800](https://clinicaltrials.gov/study/NCT03101800) | Phase 3 | 상태 불명 | 84 | 궤양성 대장염에서 저용량 azathioprine + allopurinol 대 azathioprine 단독 요법의 유효성·안전성 비교; 치료 최적화 전략 근거 |
-| [NCT02852694](https://clinicaltrials.gov/study/NCT02852694) | Phase 4 | 완료 | 192 | 위험도 층화 소아 크론병에서 azathioprine 대 메토트렉세이트(저위험군) 또는 adalimumab(고위험군) 비교 RCT; azathioprine 유지 요법 소아 적용 근거 |
-| [NCT02425852](https://clinicaltrials.gov/study/NCT02425852) | Phase 4 | 완료 | 65 | 급성 중증 궤양성 대장염에서 infliximab + azathioprine 조기 병용 대 스테로이드 + azathioprine의 효과 비교 |
-| [NCT05535946](https://clinicaltrials.gov/study/NCT05535946) | Phase 3 | 진행 중 (모집 완료) | 1,116 | 중등도~중증 활성 궤양성 대장염에서 ABX464 유지 요법 장기 평가; azathioprine 기존 치료 실패 환자 포함, 장기 안전성 비교 데이터 제공 |
-| [NCT01802593](https://clinicaltrials.gov/study/NCT01802593) | Phase 4 | 조기종료 | 20 | 면역조절제 치료 실패 소아 크론병에서 infliximab 단독 전환 시 azathioprine 중단 시기 평가; 유지 치료 내 azathioprine 역할 간접 확인 |
-
----
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [40013523](https://pubmed.ncbi.nlm.nih.gov/40013523/) | 2025 | 코크란 체계적 문헌고찰 | Cochrane Database Syst Rev | 궤양성 대장염에서 azathioprine 및 6-MP의 관해 유지 효과 최신 업데이트; 최고 수준 근거 |
-| [39586616](https://pubmed.ncbi.nlm.nih.gov/39586616/) | 2025 | RCT | Gut | 정맥 스테로이드 반응성 급성 중증 궤양성 대장염에서 infliximab + azathioprine 병용 대 azathioprine 단독 유지 요법 비교 (ACTIVE trial) |
-| [27192092](https://pubmed.ncbi.nlm.nih.gov/27192092/) | 2016 | 코크란 체계적 문헌고찰 | Cochrane Database Syst Rev | 궤양성 대장염에서 azathioprine 및 6-MP의 관해 유지 효과 종합 분석 |
-| [22972046](https://pubmed.ncbi.nlm.nih.gov/22972046/) | 2012 | 코크란 체계적 문헌고찰 | Cochrane Database Syst Rev | 궤양성 대장염에서 azathioprine 관해 유지 효과 코크란 리뷰 (2012년판) |
-| [19392869](https://pubmed.ncbi.nlm.nih.gov/19392869/) | 2009 | 메타분석 | Aliment Pharmacol Ther | 궤양성 대장염에서 azathioprine 및 mercaptopurine 유효성 메타분석; 크론병 대비 UC에서의 효과 비교 |
-| [29293971](https://pubmed.ncbi.nlm.nih.gov/29293971/) | 2018 | 리뷰 | J Crohn's Colitis | IBD에서 thiopurine 치료 최신 동향 및 임상적 시사점 종합; 전문가 합의 기반 실무 지침 |
-| [37586320](https://pubmed.ncbi.nlm.nih.gov/37586320/) | 2023 | 실험연구 | Cell Reports Medicine | IBD에서 장내 세균 Blautia wexlerae가 6-MP 생체이용률 감소를 통해 azathioprine 치료 실패를 유발하는 기전 규명; 치료 최적화에 중요한 임상적 함의 |
-| [19072367](https://pubmed.ncbi.nlm.nih.gov/19072367/) | 2008 | 기전 리뷰 | Expert Rev Gastroenterol Hepatol | Azathioprine의 분자 기전 최신 분석 및 IBD 임상 치료에서의 시사점; 45년 임상 경험 기반 근거 종합 |
-| [22072847](https://pubmed.ncbi.nlm.nih.gov/22072847/) | 2011 | 임상 리뷰 | World J Gastroenterol | IBD 치료에서 6-MP 및 azathioprine 최적화 전략; 6-TGN 농도 모니터링 및 대사 경로 실무 지침 |
-| [16048561](https://pubmed.ncbi.nlm.nih.gov/16048561/) | 2005 | 약물유전체 리뷰 | J Gastroenterol Hepatol | Azathioprine 및 6-MP의 약물유전체학과 IBD에서의 대사체 모니터링; TPMT 다형성과 치료 반응 및 독성의 연관성 |
-
----
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
-현재 Azathioprine은 한국 내 허가된 의약품이 없습니다 (허가증 0건, 미시판 상태).
+총 11건 중 주요 허가 5건입니다. 허가 적응증 본문은 링크로만 제공되어 요약하지 못했고, 허가증 원문 확인이 필요합니다.
 
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201708459 | 아자프린정25밀리그램 (한국유나이티드제약) | 연한 노란색의 원형 정제 | 허가증 본문 미확인 |
+| 202100575 | 이무테라정 (셀트리온제약) | 담황색 원형 정제 | 허가증 본문 미확인 |
+| 201707631 | 아자비오정50밀리그램 (한국팜비오) | 연한 황색의 원형 필름코팅정 | 허가증 본문 미확인 |
+| 199203272 | 이뮤란정 (삼일제약) | 황색의 원형 필름코팅정 | 허가증 본문 미확인 |
+| 201702557 | 테바아자티오프린정 (한독테바) | 노란색의 양면이 볼록한 원형 정제 | 허가증 본문 미확인 |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+허가사항의 경고 및 금기 정보는 확인되지 않았으므로 허가사항을 참조하세요. 아래는 지식그래프와 약물 상호작용 데이터베이스에서 확인된 참고 정보입니다.
 
----
+- **지식그래프상 금기 관련 질환** (라벨 문구가 아닌 그래프 연결 정보): 췌장염, 혈소판감소증, 진균 감염, 피부사상균증, 빈혈(거대적혈구성 빈혈 포함), 신기능 장애, 감염성 질환, 림프종(원발성 중추신경계 림프종, 림프육종, 간비장 T세포 림프종 포함), 간정맥 혈전증, 버드-키아리 증후군
+- **약물 상호작용**: 조회된 100건 중 표시된 20건에서 다음이 확인되었습니다.
+  - 중등도: mesalazine, balsalazide, olsalazine, sulfasalazine
+  - 경미: 아연 제제(zinc acetate, zinc gluconate, zinc sulfate)
+  - 나머지는 등급 미상
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-IBD 적응증에 대해 다수의 완료된 Phase 3 RCT, 코크란 체계적 문헌고찰, 메타분석이 azathioprine의 유효성을 직접 뒷받침하며 근거 수준 L1로 평가됩니다. 그러나 한국 내 미허가 상태이고 허가사항의 경고·금기 정보가 아직 확인되지 않아 안전성 검토 체계 구축이 선행되어야 합니다.
+임상시험과 문헌이 전혀 없고(L5), 면역억제·항대사 작용이 이 발생 이상 질환에 작용할 기전적 근거도 없습니다. 점수는 매우 높지만 실제 근거가 없어 개발을 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
-- 한국 식품의약품안전처(MFDS) 허가 전략 수립 (해외 허가 데이터 기반 직접 허가 신청 검토)
-- DrugBank MOA 데이터 확인을 통한 상세 작용 기전 문서화
-- MFDS/TFDA 허가사항 기반 경고, 금기, 주요 약물 상호작용 정보 수집
-- TPMT 및 NUDT15 약물유전체 검사 프로토콜 수립 (특히 한국인 집단의 NUDT15 R139C 변이 빈도가 서양인 대비 높아 용량 조절 필요)
-- 한국인 IBD 환자에서의 골수억제, 감염 위험 등 이상반응 모니터링 계획 수립
+- 이 질환과 azathioprine 사이의 생물학적 연결 고리를 보여주는 전임상 또는 기전 연구
+- 상세한 약물 작용 기전(MOA) 데이터와 허가증 본문에 기재된 적응증, 경고, 금기 정보 확보
+
+**참고:** 같은 데이터에서 염증성 장질환(IBD)과 궤양성 대장염은 근거 수준 L1이며 "Proceed with Guardrails" 판정을 받았습니다. 다만 이는 이미 확립된 임상 사용에 가까워 신규 재창출 후보라기보다 근거가 충분한 기존 용도로 보아야 합니다. 이 두 질환을 우선 검토 대상으로 삼는 것이 합리적입니다. 이 경우 TPMT/NUDT15 유전자형 검사, 혈구 및 간효소 모니터링, 악성종양·감염 위험 관리가 필요합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

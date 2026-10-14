@@ -2,7 +2,7 @@
 layout: default
 title: Alfentanil Hydrochloride
 parent: 모델 예측만 (L5)
-nav_order: 36
+nav_order: 37
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Arformoterol Tartrate
 parent: 모델 예측만 (L5)
-nav_order: 80
+nav_order: 82
 evidence_level: L5
 indication_count: 0
 ---

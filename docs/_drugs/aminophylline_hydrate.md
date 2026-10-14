@@ -2,7 +2,7 @@
 layout: default
 title: Aminophylline Hydrate
 parent: 모델 예측만 (L5)
-nav_order: 58
+nav_order: 60
 evidence_level: L5
 indication_count: 0
 ---

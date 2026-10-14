@@ -2,7 +2,7 @@
 layout: default
 title: Articaine Hydrochloride
 parent: 모델 예측만 (L5)
-nav_order: 90
+nav_order: 92
 evidence_level: L5
 indication_count: 0
 ---

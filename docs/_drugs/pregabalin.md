@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Pregabalin
-parent: 높은 근거 (L1-L2)
-nav_order: 574
-evidence_level: L2
+parent: 모델 예측만 (L5)
+nav_order: 626
+evidence_level: L5
 indication_count: 6
 ---
 
 # Pregabalin
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **6** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,104 +29,96 @@ indication_count: 6
 
 </div>
 
-# PREGABALIN: 신경병증성 통증에서 편두통 예방으로
+# Pregabalin: 신경병증성 통증 등에서 건염(Tendinitis)으로
 
 ## 한 문장 요약
 
-Pregabalin은 원래 신경병증성 통증 및 부분 발작 치료에 사용되는 약물입니다.
-TxGNN 모델은 여러 적응증을 예측했으나, 그중 **편두통(Migraine Disorder)**이
-**1건의 관련 Phase 3 임상시험**과 **20편의 문헌**으로 가장 근거가 풍부합니다.
-다만 핵심 확증 시험이 조기 종료되어 추가 검증이 필요합니다.
-
----
+Pregabalin은 신경병증성 통증 등에 사용되는 약물입니다. 다만 이번에 정리한 데이터에는 허가 적응증 원문이 링크로만 들어 있어, 이 표현은 일반적으로 알려진 적응증을 기준으로 한 것이며 허가사항에서 확인이 필요합니다.
+TxGNN 모델은 **건염(Tendinitis)**에 효과가 있을 수 있다고 예측합니다(예측 점수 99.71%).
+그러나 건염 자체를 직접 다룬 **임상시험은 0건**이고, 문헌 6편도 대부분 수술 후 진통이나 무관한 주제여서 **직접적인 근거는 없습니다**.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 (한국 미시판) |
-| 예측 신규 적응증 | 편두통 (Migraine Disorder) |
-| TxGNN 예측 점수 | 99.47% |
-| 근거 수준 | L2 |
-| 한국 시판 현황 | 미상장 (한국 미시판) |
-| 허가증 수 | 0건 |
-| 권장 결정 | Hold (Research Question) |
-
-> ⚠️ 이 약물은 현재 한국에 정식 허가·시판되고 있지 않습니다. TFDA 원본 데이터가 대만 기준으로 작성된 Evidence Pack이며, 한국 허가 현황은 별도 확인이 필요합니다.
-
----
+| 기존 적응증 | 허가 적응증 원문은 링크로만 제공됨 (일반적으로 신경병증성 통증 등, 허가사항 확인 필요) |
+| 예측 신규 적응증 | 건염 (Tendinitis) |
+| TxGNN 예측 점수 | 99.71% |
+| 근거 수준 | L5 (모델 예측 중심, 건염에 대한 직접 연구 없음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 (모두 단일제, 유효) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 확보되지 않았습니다 (Data Gap - DrugBank MOA 조회 필요). 다만 문헌 근거에 따르면, Pregabalin은 전위작동 칼슘통로(voltage-gated calcium channel)의 α2δ 소단위에 결합하여 흥분성 신경전달물질 방출을 억제하는 약물로 알려져 있습니다.
+Pregabalin은 전압 의존성 칼슘 채널의 alpha2-delta 소단위에 결합합니다. 이로써 興奮성 신경전달물질의 방출을 줄이고, 신경병증성 통증과 일부 침해수용성 통증 성분을 완화할 수 있습니다. 현재 상세한 작용 기전(MOA) 데이터는 별도로 확보되지 않았으며, 위 설명은 일반적으로 알려진 기전입니다.
 
-이 기전은 편두통의 핵심 병태생리인 피질확산억제(cortical spreading depression, CSD) 및 중추 감작(central sensitization)과 직접 연관됩니다. 전임상 연구(PMID 28223480, 37924146)에서 Pregabalin이 CSD 발생 역치를 높이고 피질하부 구조로의 전파를 억제함이 확인되었습니다. 소아 편두통 예방에서 Pregabalin과 valproate/propranolol을 비교한 여러 RCT도 존재하나, 성인 대상 핵심 Phase 3 확증시험(NCT00447369)은 등록 중단(WITHDRAWN)되어 실질적 유효성 데이터를 얻지 못했습니다.
+건염은 힘줄의 염증과 퇴행에 따른 통증 질환입니다. Pregabalin이 통증 신호 전달을 줄여 증상을 완화할 가능성은 있습니다. 그러나 힘줄 자체의 병태를 개선하는 질환 조절 기전은 확립되어 있지 않습니다.
 
-나머지 4개 예측 적응증(tendinitis, idiopathic granulomatous myositis, myositis fibrosa, inclusion body myositis, migraine with brainstem aura)은 임상시험 근거가 없거나(L5) 통증 완화 기전에 대한 간접적 추론에 그쳐(L4), 편두통 대비 근거 수준이 현저히 낮습니다.
-
----
+현재 문헌은 관절경 회전근개 봉합술 후 진통 같은 수술 후 통증이나 신경병증성 통증을 다룹니다. 건염 자체에 대한 연구는 아닙니다. 따라서 높은 예측 점수는 계산상 유사성에 기반한 가설로 보는 것이 적절합니다.
 
 ## 임상시험 근거
 
-### 편두통 (Migraine Disorder) — Rank 1 근거 수준
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00447369](https://clinicaltrials.gov/study/NCT00447369) | Phase 3 | **중단됨(WITHDRAWN)** | 70 | Pregabalin vs sodium valproate 편두통 예방 비교 — 결과 미산출, 핵심 증거 공백 |
-| [NCT02747940](https://clinicaltrials.gov/study/NCT02747940) | Phase 4 | 완료 | 200 | 만성 편두통/섬유근육통 뇌 신호 연구 (간접 관련) |
-| [NCT02670161](https://clinicaltrials.gov/study/NCT02670161) | Phase 4 | 모집 중(초청 대상) | 3300 | 신경과 10대 질환 EMR 기반 실용적 임상연구 (간접 관련) |
-
-### 기타 예측 적응증
-- **Tendinitis, Myositis 관련 3건**: 현재 관련 임상시험 등록이 없습니다.
-- **Migraine with brainstem aura**: 현재 관련 임상시험 등록이 없습니다.
-
----
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
-### 편두통 (Migraine Disorder) — 우선순위 상위 문헌
-
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [39388181](https://pubmed.ncbi.nlm.nih.gov/39388181/) | 2024 | Review | JAMA Network Open | 소아 편두통 예방약물 네트워크 메타분석 |
-| [37637787](https://pubmed.ncbi.nlm.nih.gov/37637787/) | 2023 | RCT | Iran J Child Neurol | Pregabalin vs sodium valproate 소아 편두통 예방 비교 RCT |
-| [26024701](https://pubmed.ncbi.nlm.nih.gov/26024701/) | 2015 | RCT | Acta Med Iran | Propranolol vs pregabalin 소아 편두통 예방 RCT |
-| [23797674](https://pubmed.ncbi.nlm.nih.gov/23797674/) | 2013 | Review | Cochrane Database Syst Rev | 항간질약(gabapentin/pregabalin/topiramate/valproate 제외) 편두통 예방 체계적 고찰 |
-| [23797675](https://pubmed.ncbi.nlm.nih.gov/23797675/) | 2013 | Review | Cochrane Database Syst Rev | Gabapentin/pregabalin 편두통 예방 Cochrane 리뷰 |
-| [19935409](https://pubmed.ncbi.nlm.nih.gov/19935409/) | 2010 | Cohort | Clin Neuropharmacol | 만성 편두통에서 pregabalin 개방표지 연구 |
-| [21479703](https://pubmed.ncbi.nlm.nih.gov/21479703/) | 2011 | Cohort | J Headache Pain | Pregabalin 편두통 예방 효능·내약성 3개월 추적 연구 |
-| [25669613](https://pubmed.ncbi.nlm.nih.gov/25669613/) | 2015 | Cohort | Int J Clin Pharmacol Ther | Pregabalin의 편두통 중추 감작 완화 효과 |
-| [28223480](https://pubmed.ncbi.nlm.nih.gov/28223480/) | 2017 | Preclinical | PNAS | Pregabalin이 피질확산억제(CSD) 및 피질하 전파를 억제함을 생체영상으로 입증 |
-| [37924146](https://pubmed.ncbi.nlm.nih.gov/37924146/) | 2023 | Preclinical | Molecular Brain | 만성 pregabalin 투여가 가족성 반신마비 편두통 모델에서 확산성 탈분극을 방지 |
-
----
+| [34052386](https://pubmed.ncbi.nlm.nih.gov/34052386/) | 2022 | RCT | Arthroscopy | 관절경 회전근개 봉합술 후 경구 pregabalin의 진통 효과를 interscalene 신경차단술과 비교한 연구. 건염 자체가 아니라 수술 후 통증을 평가함 |
+| [32839073](https://pubmed.ncbi.nlm.nih.gov/32839073/) | 2021 | 후향적 코호트 | J Orthop Sci | 관절경 회전근개 봉합술 후 pregabalin의 진통 및 아편유사제 절감 효과 평가. 건염 직접 근거는 아님 |
+| [40818536](https://pubmed.ncbi.nlm.nih.gov/40818536/) | 2025 | 사설 | Arthroscopy | 이상근 증후군의 진단과 치료에 관한 논평. pregabalin 효능 근거는 아님 |
+| [37051935](https://pubmed.ncbi.nlm.nih.gov/37051935/) | 2023 | 증례 보고 | Pain Pract | 마라톤 후 햄스트링 건염과 연관된 후대퇴피부신경 포착 1례. pregabalin 효능 근거는 아님 |
+| [41017607](https://pubmed.ncbi.nlm.nih.gov/41017607/) | 2025 | 증례/리뷰 | Praxis | 시프로플록사신 복용 후 불릿 장애(건병증 포함) 1례. 건염의 원인(약물 부작용)에 관한 보고 |
+| [39703364](https://pubmed.ncbi.nlm.nih.gov/39703364/) | 2024 | 전임상(동물) | Adv Pharmacol Pharm Sci | 식물 추출물이 쥐의 빈크리스틴 유발 말초신경병증을 완화한 연구. pregabalin 및 건염과 직접 관련 없음 |
 
 ## 한국 시판 정보
 
-한국 시판 정보가 없습니다 (`market_status: 미상장`, `total_licenses: 0`).
+허가 적응증은 각 허가번호의 허가사항 링크로만 제공되어 있어 텍스트로 요약하지 못했습니다. 전체 20건 중 주요 5건입니다.
 
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200511057 | 리리카캡슐75밀리그램 (비아트리스코리아) | 경질캡슐 | 허가사항 링크 참조 |
+| 201800928 | 리리카캡슐25밀리그램 (비아트리스코리아) | 경질캡슐 | 허가사항 링크 참조 |
+| 201802990 | 리리카CR서방정165밀리그램 (비아트리스코리아) | 필름코팅 서방정 | 허가사항 링크 참조 |
+| 201502555 | 카발린캡슐150밀리그램 (에이치케이이노엔) | 경질캡슐 | 허가사항 링크 참조 |
+| 202401341 | 제이가바CR서방정75밀리그램 (제일약품) | 필름코팅 서방성 삼층정 | 허가사항 링크 참조 |
 
 ## 안전성 고려사항
 
 안전성 정보는 허가사항을 참조하세요.
 
-> 참고: 이 Evidence Pack의 안전성 데이터는 미확보 상태(Data Gap DG001, Blocking)이며, S1 안전성 초평가 진입이 불가한 상태입니다. TFDA 원본 자료의 경고/금기 사항 확보가 선행되어야 합니다.
+- **약물 상호작용**: 확인된 상호작용은 총 100건입니다. 조회된 항목 중 **중대(Major)** 등급은 다음과 같습니다.
+  - Morphine
+  - Morphine(리포좀)
 
----
+  이외 **중등도(Moderate)** 등급 약물은 다음과 같습니다.
+  - Pioglitazone
+  - Rosiglitazone
+  - Troglitazone
+  - Difenoxin
+  - Diphenoxylate
+  - Dronabinol
+  - Nabilone
+  - Metoclopramide
+  - Opium
+  - Sibutramine
+- **지식 그래프 기반 금기 질환** (허가 문구가 아닌 TxGNN 지식 그래프 상의 약물-질환 금기 관계입니다): 불안장애, 신경증, 기분부전장애, 혈소판감소증, 혈관부종(후천성, 유전성 등), 근병증, 근육 질환, 횡문근융해증, 가족성 주기성 마비, 결절성 근막염, 신기능 장애, 방실차단
 
 ## 결론 및 다음 단계
 
-**결정: Hold (Research Question)**
+**결정: Hold**
 
 **사유:**
-편두통 적응증은 CSD 억제라는 기전적 타당성과 다수의 소아 대상 RCT·코호트 연구가 존재하지만, 성인 대상 핵심 Phase 3 확증시험(NCT00447369)이 중단되어 결정적 유효성 근거가 없습니다(L2 수준). 나머지 4개 예측 적응증(건염, 근염 계열)은 문헌·임상 근거가 거의 전무하여(L4~L5) 현 단계에서 진행이 부적절합니다. 또한 안전성 데이터(TFDA 경고/금기)가 확보되지 않아 Blocking 데이터 공백이 존재합니다.
+건염에 대한 임상시험이 없고, 문헌도 수술 후 진통 등 간접 근거에 그칩니다. 힘줄 병태에 작용한다는 기전 근거도 없어, 현재는 모델 예측 수준에 머뭅니다.
 
 **진행하려면 필요한 것:**
-- TFDA(또는 국내 식약처) 공식 허가사항 확보 — 경고, 금기, 약물상호작용 (DG001, Blocking)
-- DrugBank API를 통한 상세 작용 기전(MOA) 확인 (DG002, High)
-- 성인 대상 편두통 예방 Phase 2/3 RCT 신규 기획 검토 (기존 시험 중단으로 인한 공백 해소)
-- 한국 내 실제 허가·시판 현황 별도 조사 (현 Evidence Pack은 대만 기준 데이터로 추정됨)
+- 건염 또는 건병증 환자를 대상으로 한 무작위 대조 임상시험 또는 관찰 연구
+- 허가사항(경고, 금기, 적응증 원문) 확인과 안전성 검토
+- 상세 작용 기전 자료와 힘줄 병태와의 연관성 분석
+- 투여 경로와 제형 적합성 검토
+
+**참고:** 같은 약물의 다른 예측 적응증인 편두통(migraine disorder)은 소아 대상 소규모 RCT와 네트워크 메타분석 등 상대적으로 더 많은 근거가 있습니다. 다만 성인 대상 근거는 아직 불충분하므로, 우선순위를 재검토할 때 함께 고려할 만합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

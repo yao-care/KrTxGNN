@@ -2,7 +2,7 @@
 layout: default
 title: Temozolomide
 parent: 높은 근거 (L1-L2)
-nav_order: 663
+nav_order: 722
 evidence_level: L1
 indication_count: 2
 ---
@@ -29,95 +29,110 @@ indication_count: 2
 
 </div>
 
-# Temozolomide: 기존 적응증 정보 없음에서 성인 성상세포종으로
+# Temozolomide: 교모세포종 등 성인 성상세포종양에서의 확인 (기존 적응증 허가문서 미확인)
 
 ## 한 문장 요약
 
-Temozolomide(테모졸로마이드, DrugBank ID: DB00853)는 한국 내 허가·시판 이력이 없어 기존 적응증 데이터가 확보되지 않은 상태입니다.
-TxGNN 모델은 **성인 성상세포종(Adult Astrocytic Tumour)**에 효과가 있을 것으로 **99.36%** 확률로 예측하며,
-현재 **2건의 임상시험**(Phase 3 완료 포함)과 **20편의 문헌**(다수의 완료된 Phase 3 RCT 포함)이 이 방향을 강하게 지지합니다.
-
----
+Temozolomide은 DNA를 메틸화하는 경구 알킬화제로, 한국에서 9건의 단일제 허가를 받아 시판 중입니다. TxGNN 모델은 **성인 성상세포종양(adult astrocytic tumour)**에 효과가 있을 것으로 예측하며(예측 점수 99.4%), 이 방향을 **임상시험 2건**과 **문헌 20편**이 지지합니다. 다만 신경교종 적응증은 이미 허가 범위일 가능성이 높아, 새로운 재창출이라기보다 기존 사용의 확인에 가깝습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 (한국 미출시, 원 적응증 정보 미수집) |
-| 예측 신규 적응증 | 성인 성상세포종 (Adult Astrocytic Tumour) |
+| 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문을 확인하지 못함) |
+| 예측 신규 적응증 | 성인 성상세포종양 (adult astrocytic tumour) |
 | TxGNN 예측 점수 | 99.36% |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | 미출시 |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 9건 |
 | 권장 결정 | Proceed with Guardrails |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-Temozolomide는 경구 알킬화제(alkylating agent) 전구약물로, 혈액뇌장벽을 통과한 뒤 생리적 pH 조건에서 활성대사체 MTIC로 전환됩니다. 이후 구아닌 O6/N7 위치에 DNA 메틸화 손상을 일으켜 종양세포의 apoptosis를 유도하는 기전을 가집니다.
+현재 상세한 작용 기전(MOA) 데이터는 없습니다. 다만 알려진 정보에 따르면 Temozolomide은 경구 알킬화제로, DNA의 O6-구아닌, N7-구아닌, N3-아데닌을 메틸화하여 세포독성 병변과 종양세포 사멸을 일으킵니다. 이 효과는 DNA 복구가 감소하는 MGMT 프로모터 메틸화 종양에서 가장 큽니다.
 
-이 기전은 성상세포종(glioblastoma를 포함)에 대한 표준 화학요법의 근간으로, MGMT 프로모터 메틸화 상태와 약물 반응성 간의 연관성 또한 분자생물학적으로 잘 정립되어 있습니다.
+교모세포종과 역형성 성상세포종을 포함한 성상세포종양은 이 기전이 적용되는 대표적 질환입니다. 실제로 방사선 병용 및 보조요법으로 교모세포종의 표준치료에 사용되고 있어 모델 예측과 임상 현실이 일치합니다.
 
-예측된 신규 적응증인 "성인 성상세포종"은 실제로 Stupp 등의 2005년 NEJM 연구를 시작으로 다수의 완료된 Phase 3 RCT를 통해 방사선치료+TMZ 병용요법의 생존 이익이 반복적으로 입증된 영역입니다. 이는 TxGNN 예측의 기전적 타당성을 강하게 뒷받침합니다.
-
----
+다만 기존 적응증 정보가 허가문서 링크뿐이어서 현재 허가 범위가 이 질환을 포함하는지는 제공된 데이터로 검증하지 못했습니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | 완료 | 500 | 재발성 WHO Grade III/IV 성상세포종에서 TMZ 단독요법 vs PCV(procarbazine/lomustine/vincristine) 비교 |
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | 완료 | 26 | 신규진단 교모세포종에서 XL184(cabozantinib) + TMZ + 방사선치료 병용 용량설정 (TMZ는 표준 병용요법 성분) |
-
----
+| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | 완료 | 500 | 재발성 WHO 3·4등급 성상세포종양에서 Temozolomide vs PCV(프로카르바진·로무스틴·빈크리스틴) 무작위 비교 |
+| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | 완료 | 26 | 교모세포종 1차 치료에서 XL184(카보잔티닙) + Temozolomide + 방사선의 안전 용량 및 약동학 확인 (병용요법의 안전성 자료로, Temozolomide 단독 효능 근거는 아님) |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [40779733](https://pubmed.ncbi.nlm.nih.gov/40779733/) | 2025 | RCT | J Clin Oncol | MGMT 비메틸화 신규진단 교모세포종에서 ipilimumab+nivolumab 이중 면역관문차단 병용 Phase II/III (NRG BN007) |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | MGMT 메틸화 신규진단 교모세포종, lomustine-TMZ 병용 vs TMZ 단독 (CeTeG/NOA-09) |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | Tumor-Treating Fields + TMZ 유지요법 vs TMZ 단독 |
-| [25920709](https://pubmed.ncbi.nlm.nih.gov/25920709/) | 2015 | RCT | J Neurooncol | 신규진단 역형성 성상세포종에서 방사선+TMZ 병용 후 13-cis 레티노산 유지요법 |
-| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | 신규진단 교모세포종에서 bevacizumab 추가요법 무작위 시험 |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | 고령 악성 성상세포종에서 TMZ 단독 vs 방사선치료 단독 (NOA-08) |
-| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | RCT | Lancet Oncol | 방사선+TMZ 병용/유지요법의 5년 생존 분석 (EORTC-NCIC) |
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | 신규진단 교모세포막종에서 방사선+TMZ 병용요법 (Stupp 요법, 표준치료 확립 연구) |
-| [36809318](https://pubmed.ncbi.nlm.nih.gov/36809318/) | 2023 | Review | JAMA | 성인 원발성 뇌종양(교모세포종 등) 전반에 대한 리뷰 |
+| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | 교모세포종에서 방사선 단독 vs 방사선 + Temozolomide(병용·보조)의 효능과 안전성 비교 |
+| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | RCT (장기 추적) | Lancet Oncol | EORTC-NCIC 3상 시험의 5년 생존 분석 |
+| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | 고령 악성 성상세포종에서 Temozolomide 단독 vs 방사선 단독 (NOA-08) |
+| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | MGMT 메틸화 교모세포종에서 로무스틴-Temozolomide 병용 vs 표준 Temozolomide (CeTeG/NOA-09) |
+| [29260225](https://pubmed.ncbi.nlm.nih.gov/29260225/) | 2017 | RCT | JAMA | 유지요법 Temozolomide에 종양치료전기장(TTFields) 추가 시 생존 효과 |
+| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT (중간 분석) | JAMA | TTFields + Temozolomide vs Temozolomide 단독 유지요법 |
+| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | 신규 진단 교모세포종에서 표준 Temozolomide 방사선화학요법에 베바시주맙 추가 |
+| [39480453](https://pubmed.ncbi.nlm.nih.gov/39480453/) | 2024 | RCT | JAMA Oncol | MGMT 메틸화 교모세포종에서 Temozolomide에 벨리파립 추가 |
+| [34898238](https://pubmed.ncbi.nlm.nih.gov/34898238/) | 2022 | 가이드라인 | J Clin Oncol | 성인 미만성 성상세포·희소돌기아교종양 치료 ASCO-SNO 가이드라인 |
+| [18394916](https://pubmed.ncbi.nlm.nih.gov/18394916/) | 2008 | Review | Crit Rev Oncol Hematol | 성인 교모세포종 개관 및 예후 인자, 치료 전략 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201503273 | 테모람캡슐20밀리그램 | 경질캡슐 | 허가문서 링크로만 제공되어 본문 확인 불가 |
+| 201503271 | 테모람캡슐250밀리그램 | 경질캡슐 | 허가문서 링크로만 제공되어 본문 확인 불가 |
+| 201502604 | 테몰드캡슐100밀리그램 | 경질캡슐 | 허가문서 링크로만 제공되어 본문 확인 불가 |
+| 200511107 | 테모달캡슐100밀리그램 | 캡슐 | 허가문서 링크로만 제공되어 본문 확인 불가 |
+| 201502602 | 테몰드캡슐250밀리그램 | 경질캡슐 | 허가문서 링크로만 제공되어 본문 확인 불가 |
+
+이 외에 테모람 100mg, 테몰드 20mg, 테모달 20mg·250mg 등 총 9건이 유효한 단일제 허가입니다(제조사: 일동제약, 신풍제약, 한국엠에스디).
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 약물 (알킬화제, Imidazotetrazine 유도체) |
-| 골수억제 위험 | 중~고 — 알킬화제 계열 특성상 혈소판감소증·호중구감소증 발생 가능하나, 본 Evidence Pack에는 구체적 등급 데이터가 없어 허가사항 확인 필요 |
-| 구토 유발성 등급 | 데이터 없음 — 허가사항의 경고 및 주의사항을 참조하세요 |
-| 모니터링 항목 | CBC(백혈구 분획 포함), 간·신기능 |
-| 취급 방호 | 세포독성 항암제 표준 취급 규정 준수 필요 |
-
----
+| 세포독성 분류 | 기존 세포독성 약물 (알킬화제) |
+| 골수억제 위험 | 높음 가능성 (지식그래프상 혈소판감소증, 호중구감소증, 범혈구감소증, 무과립구증, 재생불량성 빈혈 등과 금기 연관) |
+| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 모니터링 항목 | CBC(분류 포함), 간기능 |
+| 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **금기 연관 질환 (지식그래프 기반, 허가문서 본문 아님)**: 간부전, 혈소판감소증, 호중구감소증, 무과립구증, 빈혈, 거대적혈구성 빈혈, 주폐포자충증(pneumocystosis), 범혈구감소증, 림프구감소증, 골수이형성증후군, 특발성 재생불량성 빈혈, 재생불량성 빈혈
+- **약물 상호작용**: 총 100건이 조회되었으며, 확인된 주요 항목은 다음과 같습니다.
+  - 중등도: Naltrexone
+  - 경미: Levofloxacin
+  - 그 외 Pantoprazole, Omeprazole, Metformin, Morphine, Prednisone 등은 등급 미확인
 
----
+허가사항의 경고·금기 본문은 확보하지 못했으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-성인 성상세포종에 대한 TMZ의 효능은 Stupp 2005(NEJM) 연구를 포함해 다수의 완료된 Phase 3 RCT로 뒷받침되며 근거 수준 L1에 해당합니다. 다만 한국 내 허가·시판 이력이 전무하고, 규제기관 수준의 경고·금기 정보 확보가 Blocking 데이터 갭으로 남아 있어 안전성 초기평가 단계 진입에 제약이 있습니다.
+완료된 Phase 3 RCT(NCT00052455)와 다수의 고품질 RCT 문헌이 성상세포종양에서의 Temozolomide 사용을 지지하여 근거 수준은 L1입니다. 다만 허가 적응증 본문과 MOA, 허가 안전성 정보를 확인하지 못해 보호 장치를 두고 진행해야 합니다.
 
 **진행하려면 필요한 것:**
-- 규제기관(허가) 수준의 경고·금기 정보 확보 — Blocking 데이터 갭
-- DrugBank 기반 상세 작용기전(MOA) 및 독성 프로파일 정식 확인 — High 우선순위 데이터 갭
-- 한국 내 허가/시판 현황 확인 (현재 0건)
-- 참고: 동일 Evidence Pack 내 2순위 후보인 마미신경총 종양(cauda equina neoplasm)은 근거 수준 L4로, 추가 기전·임상 자료 없이는 Hold 상태 유지 권장
+- 식약처 허가문서(PDF) 확인으로 현재 허가 적응증에 성상세포종양이 포함되는지 검증 (포함 시 재창출이 아닌 기존 적응증 확인으로 분류)
+- 허가문서의 경고 및 금기 정보 확보
+- DrugBank 기반 작용 기전(MOA) 데이터 보완
+- 혈액학적 모니터링(CBC) 계획 수립
+
+---
+
+### 참고: 2순위 예측 — 마미총 종양 (cauda equina neoplasm)
+
+| 항목 | 내용 |
+|------|------|
+| TxGNN 예측 점수 | 99.30% |
+| 근거 수준 | L4 |
+| 권장 결정 | Research Question (추가 연구 필요) |
+
+등록된 임상시험은 없고, 재발성 척수 점액유두상 상의세포종에서 Temozolomide의 현저한 효과를 보고한 증례 1건([PMID 29270703](https://pubmed.ncbi.nlm.nih.gov/29270703/), 2018, Eur Spine J)이 유일한 직접 근거입니다. 함께 검색된 다른 두 문헌은 이 질환과 관련성이 낮습니다. 높은 모델 점수는 신경교종 등 중추신경계 종양과의 네트워크 근접성을 반영한 것으로 보이며 임상적 검증은 아닙니다. 이 종양에서의 MGMT 상태도 확립되어 있지 않아 가설 수립 단계로 보는 것이 적절합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

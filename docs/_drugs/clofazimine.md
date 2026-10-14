@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clofazimine
-parent: 중등도 근거 (L3-L4)
-nav_order: 214
-evidence_level: L4
+parent: 모델 예측만 (L5)
+nav_order: 226
+evidence_level: L5
 indication_count: 3
 ---
 
 # Clofazimine
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **3** 건
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,77 +29,83 @@ indication_count: 3
 
 </div>
 
-# Clofazimine: 나병(한센병)/항마이코박테리아 감염 치료에서 주폐포자충증으로
+# Clofazimine: 한센병·결핵 치료제에서 폐포자충증으로
 
 ## 한 문장 요약
 
-Clofazimine은 나병(한센병)과 내성 결핵(MDR-TB) 치료에 사용되어 온 항마이코박테리아 약물로, 한국에는 현재 허가된 제품이 없습니다.
-TxGNN 모델은 **주폐포자충증(Pneumocystosis)**에 효과가 있을 수 있다고 예측하며,
-현재 **1건의 임상시험**과 **4편의 문헌**이 간접적으로 이 방향을 언급하고 있습니다.
-
----
+Clofazimine은 리미노페나진(riminophenazine) 계열 항마이코박테리아제로, 한국에서 허가된 단일제 연질캡슐 제품으로 시판되고 있습니다. TxGNN 모델은 **폐포자충증(pneumocystosis)**에 효과가 있을 수 있다고 예측하지만, 이 예측을 직접 뒷받침하는 임상시험은 **0건**이며 연결된 문헌 3편도 폐포자충증에 대한 효능 근거가 아닙니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 나병(한센병), 항마이코박테리아 감염 (한국 미허가) |
-| 예측 신규 적응증 | 주폐포자충증 (Pneumocystosis) |
+| 기존 적응증 | 허가 적응증 원문이 문서 링크 형태로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조 필요) |
+| 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 99.90% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | 미시판 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L5 (모델 예측 중심, 직접적인 연구 없음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
----
+> 참고: 데이터상 근거 수준은 L4로 제시되어 있으나, 판정 규칙에 따르면 폐포자충증에 대한 전임상·기전 연구가 없으므로 L5가 더 적절합니다.
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터(MOA)가 없습니다. 알려진 정보에 따르면, Clofazimine은 항마이코박테리아 약물로서 병원체 내 활성산소(ROS) 생성을 통해 산화환원 항상성을 교란하는 기전이 제안되어 있으며, 나병 및 내성 결핵(MDR-TB) 치료에서 효능이 입증되어 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. Clofazimine은 리미노페나진 계열 항마이코박테리아제로 알려져 있으며, 결핵 및 한센병 치료 요법에 사용됩니다. 그러나 폐포자충증의 원인균인 *Pneumocystis jirovecii*는 세균이 아니라 진균이며, clofazimine이 이 병원체에 활성이 있다는 근거는 확인되지 않았습니다.
 
-주폐포자충증(Pneumocystosis)은 *Pneumocystis jirovecii*에 의해 발생하는 기회감염으로, HIV/AIDS 환자 등 면역저하자에서 주로 발생합니다. Clofazimine이 주로 표적으로 하는 분지균(Mycobacteria)과 *P. jirovecii*는 생물학적으로 본질적으로 다른 병원체(세균 vs. 진균유사 원생생물)이므로, 기전상 직접적인 연관성은 제한적입니다.
-
-현재 수집된 문헌과 임상시험은 주로 AIDS 환자에서 MAC(Mycobacterium avium complex) 예방·치료 도중 PCP(Pneumocystis carinii pneumonia)가 동반 발생한 사례들을 기술한 것으로, Clofazimine이 *P. jirovecii*에 직접 작용한다는 기전적 또는 임상적 증거라기보다는 동일한 면역저하 환경에서의 공존 감염을 반영한 간접 신호로 보는 것이 적절합니다.
-
----
+TxGNN 점수(99.9%)는 네트워크 기반 예측일 뿐입니다. 연결된 문헌은 AIDS 환자에서의 *Mycobacterium avium* complex(MAC) 예방 연구와, *M. kansasii* 감염에 폐포자충 폐렴이 동반된 증례입니다. 즉, 이 연관성은 HIV/AIDS 환자에서 기회감염이 함께 나타나는 현상을 반영한 것이며, 항폐포자충 효능을 보여주는 것은 아닙니다. 따라서 기전상 연결고리는 확립되지 않았습니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00002058](https://clinicaltrials.gov/study/NCT00002058) | NA | 완료 | N/A | HIV 감염 환자에서 MAC 예방을 위한 Clofazimine 무작위 대조 연구. 1차 목표는 MAC 예방이며, 연구 등록 기준에 PCP 과거력 또는 CD4 ≤100/mm³이 포함되어 환자군이 PCP 고위험군과 겹치나, 연구 설계 및 종료점이 pneumocystosis와 직접적 관련이 없음 (관련성 등급: C) |
-
----
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [8501340](https://pubmed.ncbi.nlm.nih.gov/8501340/) | 1993 | 임상 연구 (MAC) | J Infect Dis | HIV 환자 110명 대상 Clofazimine 50mg의 MAC 예방 효과를 평가한 무작위 공개라벨 시험. 등록 기준에 PCP 과거력(2~4개월 전) 또는 CD4 ≤100/mm³ 포함. MAC을 1차 연구 목적으로 하며 pneumocystosis는 부수적으로 언급됨 |
-| [2714863](https://pubmed.ncbi.nlm.nih.gov/2714863/) | 1989 | Case Report | Infection | AIDS 환자에서 *M. kansasii* 폐질환과 PCP 동반 사례. Clofazimine + 시프로플록사신 + TMP-SMX 복합요법으로 빠른 임상 호전 보고. Clofazimine의 항PCP 직접 기여 여부는 불명확 |
-| [6299154](https://pubmed.ncbi.nlm.nih.gov/6299154/) | 1983 | Case Report | Ann Intern Med | 혈우병 남성에서 PCP 발생 후 MAC 동반 감염 진행 사례 보고. Clofazimine 사용 없이 PCP 진단·경과만 기술 |
-| [11363899](https://pubmed.ncbi.nlm.nih.gov/11363899/) | 1996 | Review | PI perspective | 기회감염 전반에 대한 업데이트 리뷰 (초록 없음, 직접 관련 내용 확인 불가) |
+| [8501340](https://pubmed.ncbi.nlm.nih.gov/8501340/) | 1993 | 무작위 공개label 임상시험 (MAC 예방) | J Infect Dis | HIV 환자 110명 대상으로 clofazimine의 파종성 MAC 감염 예방 효과와 안전성을 평가함. 폐포자충증에 대한 연구는 아님 |
+| [2714863](https://pubmed.ncbi.nlm.nih.gov/2714863/) | 1989 | Case report | Infection | AIDS 환자의 *M. kansasii* 폐질환에 폐포자충 폐렴이 합병된 사례. clofazimine은 병용 항균요법에 포함되었으며, 회복은 TMP-SMX 투여 후 관찰됨 |
+| [11363899](https://pubmed.ncbi.nlm.nih.gov/11363899/) | 1996 | Review | PI Perspective | 기회감염 최신 동향 개괄 (초록 없음) |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201706794 | 람프레민연질캡슐100밀리그램(클로파지민) | 연질캡슐 | 허가사항 문서 참조 |
+| 201105516 | 코러스클로파지민연질캡슐(수출용) | 연질캡슐 | 허가사항 문서 참조 |
+| 198601341 | 라프렌연질캡슐50밀리그램(클로파지민) | 연질캡슐 | 허가사항 문서 참조 |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 데이터상 총 100건이 확인되었으며, 주요 항목은 다음과 같습니다.
+  - **Major**: Cisapride, Dolasetron
+  - **Moderate**: Famotidine, Loperamide, Bisacodyl, Clarithromycin, Levofloxacin, Ondansetron, Granisetron, Palonosetron 및 여러 설사제·완하제(Lactulose, Magnesium citrate, Magnesium hydroxide, Castor oil, Mineral oil 등)
+  - **Minor**: Metronidazole
+- **지식 그래프상 금기 관련 질환** (허가사항이 아닌 TxGNN 지식 그래프 기반): 간질환, 담낭질환, 설사성 질환, 활동성 소화성 궤양, 소화기계 질환, 장질환, 비장 경색, 비장 질환, 비기능항진증
 
----
+그 외 경고 및 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-현재 근거는 AIDS 환자에서 MAC과 PCP가 동시에 관찰된 간접적인 사례 보고와 MAC 예방 임상시험에 국한되며, Clofazimine이 *Pneumocystis jirovecii*에 직접 효과적이라는 기전적·임상적 증거가 없습니다. TxGNN의 높은 예측 점수(99.90%)는 공유 환자군(AIDS/면역저하)에서의 간접 공존 신호를 반영한 것으로 해석될 가능성이 높아, 신규 적응증으로 개발을 추진하기에는 근거가 불충분합니다.
+폐포자충증에 대한 임상시험이 없고, 연결된 문헌은 MAC 예방 연구와 동시 감염 증례일 뿐 항폐포자충 효능을 보여주지 않습니다. 높은 TxGNN 점수 외에는 기전상 근거가 없어 현 단계에서 진행하기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- Clofazimine의 *Pneumocystis jirovecii*에 대한 체외(in vitro) 활성 실험 데이터 확보
-- 작용 기전(MOA) 데이터 보완 (DrugBank API 조회)
-- MFDS·WHO·FDA 처방 정보에서 경고/금기 등 안전성 데이터 확보 (현재 Blocking 데이터 갭)
-- 한국 내 미시판 약물로, 임상 적용 이전 국내 도입 가능성 및 특례수입 검토 필요
+- 작용 기전(MOA) 데이터 확보
+- *Pneumocystis*에 대한 in vitro/in vivo 전임상 활성 검증
+- 한국 허가 적응증 및 허가사항(경고·금기)의 확인과 분석
+- 약물 상호작용(특히 QT 연장 관련 Major 상호작용) 위험 평가
+
+---
+
+### 참고: 기타 예측 적응증
+
+| 순위 | 예측 질환 | TxGNN 점수 | 근거 | 권장 |
+|------|---------|-----------|------|------|
+| 2 | 말라리아 (Malaria) | 99.60% | 임상시험 없음. clofazimine 유사체의 항플라스모디움 활성에 대한 시험관 연구 1편([29026393](https://pubmed.ncbi.nlm.nih.gov/29026393/))이 있으나, 나머지 문헌은 대부분 내성 결핵·한센병 관련으로 말라리아 효능 근거가 아님 | Hold |
+| 3 | 가스트린 분비 이상 | 99.57% | 임상시험 및 문헌 없음. 모델 예측만 존재 | Hold |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

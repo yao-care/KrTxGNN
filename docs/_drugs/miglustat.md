@@ -2,7 +2,7 @@
 layout: default
 title: Miglustat
 parent: 높은 근거 (L1-L2)
-nav_order: 480
+nav_order: 516
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,90 +29,95 @@ indication_count: 10
 
 </div>
 
-# Miglustat: 국내 미시판 상태에서 고셔병(Gaucher Disease)으로
+# Miglustat: 고셔병에서 고셔병(및 GM2 강글리오사이드증 등 인접 질환)으로
 
 ## 한 문장 요약
 
-Miglustat은 글로벌 임상 자료상 이미 1형 고셔병(Type 1 Gaucher Disease) 치료에 쓰이는 경구 기질감소요법(SRT) 약물이나, 국내(한국) 허가 자료는 확보되어 있지 않습니다(허가증 0건, 미시판). TxGNN 모델은 1순위로 **고셔병**을 예측했으며(예측 점수 99.88%), 이는 신규 발견이라기보다는 이미 알려진 적응증을 모델이 재확인한 결과에 가깝습니다. 현재 **4건의 관련 임상시험**과 **18편의 문헌**이 이 방향을 뒷받침합니다.
-
----
+Miglustat은 한국에서 자베스카캡슐100밀리그램으로 시판 중인 경구 약물로, 글루코실세라마이드 합성효소를 억제하는 기질 감소 요법제입니다.
+TxGNN 모델은 **고셔병(Gaucher disease)**에 효과가 있을 것으로 가장 높게 예측했으며, 현재 **2건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다.
+다만 고셔병은 이미 허가된 적응증과 일치하므로 엄밀한 의미의 재창출은 아니며, 실질적인 재창출 후보는 **테이-삭스병(Tay-Sachs disease)** 등 신경병증성 당스핑고지질 축적 질환입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 국내 허가 자료 없음(데이터 갭) — 다만 근거 자료상 해외에서는 이미 1형 고셔병 치료제로 승인되어 있음 |
-| 예측 신규 적응증 | 고셔병 (Gaucher Disease) |
+| 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적 문구를 확인할 수 없음 (근거 문헌상 경증~중등도 제1형 고셔병) |
+| 예측 신규 적응증 | 고셔병 (Gaucher disease) |
 | TxGNN 예측 점수 | 99.88% |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
 | 권장 결정 | Proceed with Guardrails |
 
----
+> 참고: 예측 2~10위에는 테이-삭스병(99.75%), 크라베병, 이염성 백질이영양증 등이 포함됩니다. 이 중 테이-삭스병만 임상시험과 문헌 근거가 있으며(L1), 나머지는 모델 예측만 있는 L5 수준이라 보류(Hold)에 해당합니다.
 
 ## 이 예측이 타당한 이유는?
 
-Miglustat은 이미노당(iminosugar) 계열의 글루코실세라마이드 합성효소(glucosylceramide synthase) 억제제로, 기질감소요법(Substrate Reduction Therapy, SRT)에 해당합니다. 1형 고셔병은 GBA 유전자 결함으로 대식세포 리소좀 내에 글루코세레브로사이드가 축적되는 질환인데, miglustat은 이 기질의 합성 자체를 줄여 축적을 억제합니다.
+현재 DrugBank 기반의 상세 작용 기전 데이터는 없습니다. 다만 약리학 데이터에서 miglustat은 **UDP-글루코스 세라마이드 글루코실트랜스퍼레이스(UGCG)**를 표적으로 하는 합성 이미노당 억제제로 확인됩니다. 글루코실세라마이드 합성을 줄여, 글루코세레브로시다제 결핍으로 쌓이는 기질의 양을 낮추는 기질 감소 요법입니다.
 
-이 기전적 연관성은 우연이 아니라 이미 확립된 사실입니다 — Miglustat(Zavesca)은 효소대체요법(ERT)에 적합하지 않은 경증~중등도 1형 고셔병 환자를 대상으로 해외에서 이미 승인된 적응증입니다. 따라서 이번 예측은 "새로운 가설"이라기보다 TxGNN 모델이 실제 승인 적응증을 정확히 재현했음을 보여주는 양성 대조(positive control) 성격이 강하며, 국내 관점에서는 "국내 미도입 약물의 도입/허가 검토" 성격의 후보로 이해하는 것이 정확합니다.
-
----
+고셔병에서는 이것이 이미 확립된 기전이므로 이번 예측은 사실상 허가 적응증을 재확인한 것입니다. 한편 테이-삭스병에서는 같은 원리로 GM2 강글리오사이드 공급을 줄일 수 있고, miglustat이 혈액뇌장벽을 통과한다는 점이 신경병증성 표현형에 의미가 있습니다. 반면 콜레스테릴 에스터 축적병, 볼만병 등 지질 기질이 다른 질환은 기전적 연관성이 약합니다.
 
 ## 임상시험 근거
 
+**고셔병**
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00319046](https://clinicaltrials.gov/study/NCT00319046) | Phase 3 | 완료 | 42 | ERT에서 miglustat 유지요법으로 전환 후 장기 유효성·안전성·내약성 평가(개방표지, 비교군 없음) |
-| [NCT00041535](https://clinicaltrials.gov/study/NCT00041535) | Phase 1/2 | 완료 | 30 | 신경병증형 고셔병 환자 대상 무작위 대조 연구 |
-| [NCT02520934](https://clinicaltrials.gov/study/NCT02520934) | NA | 상태 불명 | 19 | 고셔병 IIIB형에서 miglustat + ERT 병용요법 평가 |
-| [NCT03822013](https://clinicaltrials.gov/study/NCT03822013) | Phase 3 | 중단 | 30 | 영아형 Sandhoff/Tay-Sachs 병(신경병증형 고셔병 인접군)에서 신경학적·전신 증상에 대한 효과 조사 |
+| [NCT00319046](https://clinicaltrials.gov/study/NCT00319046) | Phase 3 | 완료 | 42 | 안정적 제1형 성인 환자에서 효소대체요법 후 miglustat 유지요법의 장기 효능·안전성·내약성 평가 (비교군 없는 공개 연구) |
+| [NCT02520934](https://clinicaltrials.gov/study/NCT02520934) | 해당 없음 | 불명 | 19 | 고셔병 IIIB형에서 miglustat과 효소대체요법 병용 평가 |
 
----
+**테이-삭스병 / GM2 강글리오사이드증**
+
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT00672022](https://clinicaltrials.gov/study/NCT00672022) | Phase 3 | 완료 | 10 | 영아형 GM2 강글리오사이드증에서 약동학·안전성·내약성 평가 (효능 평가 아님) |
+| [NCT03822013](https://clinicaltrials.gov/study/NCT03822013) | Phase 3 | 조기 종료 | 30 | 영아형 샌드호프병·테이-삭스병에서 신경학적·전신 증상 개선 평가, 종료되어 효능 결론 제한적 |
+| [NCT02030015](https://clinicaltrials.gov/study/NCT02030015) | Phase 4 | 조기 종료 | 16 | miglustat과 케톤 식이 병용(Syner-G), 병용 설계로 miglustat 단독 효과 분리 어려움 |
+| [NCT00418847](https://clinicaltrials.gov/study/NCT00418847) | Phase 2 | 완료 | 5 | 소아·청소년형 GM2 강글리오사이드증에서 약동학 및 내약성 평가 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [16247743](https://pubmed.ncbi.nlm.nih.gov/16247743/) | 2005 | Review/Guideline | American Journal of Hematology | 1형 고셔병에서 miglustat 사용에 대한 가이던스(전문가 패널) |
-| [25812601](https://pubmed.ncbi.nlm.nih.gov/25812601/) | 2015 | Systematic Review | Cochrane Database of Systematic Reviews | 고셔병에서 ERT·SRT 치료 효과 체계적 고찰 |
-| [35815393](https://pubmed.ncbi.nlm.nih.gov/35815393/) | 2023 | Systematic Review/Meta-analysis | Annals of Pharmacotherapy | 고셔병 약물치료에 대한 종단연구 체계적 고찰 및 메타분석 |
-| [14605497](https://pubmed.ncbi.nlm.nih.gov/14605497/) | 2003 | Position Statement | Journal of Inherited Metabolic Disease | 1형(비신경병증형) 고셔병 관리에서 miglustat 역할에 대한 국제 전문가 성명 |
-| [19210136](https://pubmed.ncbi.nlm.nih.gov/19210136/) | 2009 | Cohort | Current Medical Research and Opinion | 1형 고셔병에서 miglustat을 이용한 목표지향적 치료 |
-| [12556220](https://pubmed.ncbi.nlm.nih.gov/12556220/) | 2003 | Review | Expert Opinion on Investigational Drugs | 1형 고셔병 증상 완화를 위한 기질감소요법으로서 miglustat |
-| [12803930](https://pubmed.ncbi.nlm.nih.gov/12803930/) | 2003 | Review | Phil. Trans. R. Soc. B | 고셔병에서 기질감소요법의 임상 경험 |
-| [14609352](https://pubmed.ncbi.nlm.nih.gov/14609352/) | 2003 | Drug Review | Drugs | Miglustat 약물 자체에 대한 종합 리뷰(고셔병 임상시험 결과 포함) |
-| [28218669](https://pubmed.ncbi.nlm.nih.gov/28218669/) | 2017 | Review | Int J Mol Sci | 고셔병 병태생리·임상양상·치료법 전반에 대한 리뷰 |
-| [24259734](https://pubmed.ncbi.nlm.nih.gov/24259734/) | 2013 | Review | Annals of Pharmacotherapy | 고셔병 역학·병태생리 및 치료옵션(ERT/SRT) 검토 |
-
----
+| [19346952](https://pubmed.ncbi.nlm.nih.gov/19346952/) | 2009 | RCT | Genet Med | 후기 발병 테이-삭스병에서 miglustat의 12개월 무작위 대조 연구 및 24개월 연장 투여. 신경학적 평가변수에서 뚜렷한 임상 이득은 확인되지 않음 |
+| [25812601](https://pubmed.ncbi.nlm.nih.gov/25812601/) | 2015 | 체계적 문헌고찰 | Cochrane Database Syst Rev | 고셔병에서 효소대체요법과 기질 감소 요법의 비교 평가 |
+| [35815393](https://pubmed.ncbi.nlm.nih.gov/35815393/) | 2023 | 체계적 문헌고찰·메타분석 | Ann Pharmacother | 고셔병 약물 치료의 효과 평가 |
+| [37209042](https://pubmed.ncbi.nlm.nih.gov/37209042/) | 2023 | 체계적 문헌고찰 | Eur J Neurol | GM2 강글리오사이드증에서 miglustat의 효능·안전성 평가 |
+| [16247743](https://pubmed.ncbi.nlm.nih.gov/16247743/) | 2005 | 가이드라인 | Am J Hematol | 제1형 고셔병에서 miglustat 사용 지침 |
+| [19210136](https://pubmed.ncbi.nlm.nih.gov/19210136/) | 2009 | 코호트 | Curr Med Res Opin | 제1형 고셔병에서 miglustat의 목표 지향적 치료 |
+| [14609352](https://pubmed.ncbi.nlm.nih.gov/14609352/) | 2003 | 리뷰 | Drugs | 제1형 고셔병에서 간·비장 용적을 유의하게 감소시킴 |
+| [42794762](https://pubmed.ncbi.nlm.nih.gov/42794762/) | 2026 | 리뷰 | Int J Mol Sci | 신경병증성 리소좀 축적 질환에서 miglustat의 생물학적 근거, 임상 근거, 재창출의 한계 |
+| [16434676](https://pubmed.ncbi.nlm.nih.gov/16434676/) | 2006 | 증례 | Neurology | 영아형 테이-삭스병 2례에서 신경학적 악화를 막지 못했으나 뇌척수액 내 약물 농도 확인 및 대두증 예방 관찰 |
+| [21779792](https://pubmed.ncbi.nlm.nih.gov/21779792/) | 2011 | 리뷰 | J Inherit Metab Dis | miglustat 치료 환자의 위장관 장애와 관리 방법 |
 
 ## 한국 시판 정보
 
-국내(한국) 허가 자료가 확인되지 않습니다 — 허가증 0건, 미시판 상태입니다.
-
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200902328 | 자베스카캡슐100밀리그램(미글루스타트) | 경질캡슐 (백색~미백색 분말 함유) | 허가 적응증 원문이 링크로만 제공되어 요약 불가 (제조사: 한국얀센) |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 총 2건이 확인되었습니다.
+  - Imiglucerase: 중등도(Moderate) 수준의 상호작용 (효소대체요법 병용 시 유의)
+  - UDP-글루코스 세라마이드 글루코실트랜스퍼레이스(UGCG): 약리학적 표적 정보이며, 임상적 약물 상호작용이 아닌 작용 표적 관계
+- **주요 모니터링 항목** (근거 문헌 기반): 진전, 위장관 증상(설사, 복부 팽만 등), 체중 감소, 말초신경병증
 
-> 참고: 이번 Evidence Pack에서는 국내(식약처 상당 기관) 경고·금기 정보 확보가 **차단(Blocking) 등급 데이터 갭**으로 분류되어 있어(DG001), 안전성 초기 평가(S1) 단계 진입이 불가능한 상태입니다.
-
----
+허가사항의 경고 및 금기 정보는 이번 데이터에 포함되지 않았으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-고셔병에 대한 miglustat의 효능은 다수의 임상시험(Phase 1/2 RCT 포함)과 가이드라인급 문헌(전문가 패널 성명, Cochrane 체계적 고찰 등)으로 뒷받침되며, 해외에서 이미 승인된 적응증입니다. 다만 이는 "신규 발견"이 아니라 모델 검증(positive control) 성격이 강하고, 국내 허가·유통 정보가 전무하여 실제 국내 도입 가능성 검토가 우선 과제입니다.
+고셔병은 이미 허가된 적응증으로 Phase 3 완료 시험과 다수의 체계적 문헌고찰이 있으나, 재창출의 새로운 가치는 제한적입니다. 테이-삭스병은 Phase 3 시험과 RCT가 있지만 후기 발병형 RCT에서 임상 이득이 불분명하고 영아형 시험은 소규모이거나 조기 종료되어 효능이 확립되지 않았으므로 연구 또는 동정적 사용 범위로 제한해야 합니다. 그 외 예측 질환(크라베병, 이염성 백질이영양증, 부신 양성 종양 등)은 모델 예측만 있어 보류가 적절합니다.
 
 **진행하려면 필요한 것:**
-- 국내(식약처 상당 기관) 허가사항/경고·금기 문서 확보 (DG001, Blocking — S1 안전성 초기평가 진입 필수 조건)
-- DrugBank 등에서 상세 작용기전(MOA) 데이터 확보 (DG002, High)
-- 국내 도입 시 필요한 희귀질환 의약품 허가 경로 검토
-- 순위 2~10위 예측 적응증(대부분 L5/Hold, 임상·문헌 근거 없음)은 현 시점에서 우선순위 낮음 — 추가 전임상/기전 검증 선행 필요
+- 허가 적응증 원문과 경고·금기 정보 확보 (식약처 허가사항 PDF 확인)
+- 상세 작용 기전 데이터 보완 (DrugBank 등)
+- 테이-삭스병에 대한 신경학적 효능을 입증할 대규모 대조 임상시험
+- 진전, 위장관 증상, 체중, 말초신경병증을 포함한 안전성 모니터링 계획
+- 효소대체요법 병용 시 상호작용 관리 방안
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

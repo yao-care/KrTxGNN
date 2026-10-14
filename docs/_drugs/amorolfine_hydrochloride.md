@@ -2,7 +2,7 @@
 layout: default
 title: Amorolfine Hydrochloride
 parent: 모델 예측만 (L5)
-nav_order: 65
+nav_order: 67
 evidence_level: L5
 indication_count: 0
 ---

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tolfenamic Acid
-parent: 모델 예측만 (L5)
-nav_order: 684
-evidence_level: L5
+parent: 높은 근거 (L1-L2)
+nav_order: 744
+evidence_level: L2
 indication_count: 10
 ---
 
 # Tolfenamic Acid
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,85 +29,97 @@ indication_count: 10
 
 </div>
 
-Using systematic approach to synthesize the Evidence Pack into the standard report format — no coding/debugging skill applies here, this is a direct content-generation task per the detailed prompt already provided.
-
----
-
-# 톨페남산(Tolfenamic Acid): NSAID 계열 진통·소염제에서 두통 질환(편두통)으로
+# Tolfenamic Acid: 편두통(두통)에서 두통 질환으로
 
 ## 한 문장 요약
 
-톨페남산은 프로스타글란딘 생합성을 억제하는 NSAID(펜아메이트계) 계열 약물로, 해외 문헌상 류마티스 관절염 및 편두통 치료에 사용된 역사가 있습니다(국내 허가 이력은 없음). TxGNN 모델은 **두통 질환(Headache Disorder)**에 효과가 있을 것으로 예측하며(예측 점수 99.74%), 현재 **20편의 문헌**(다수의 이중맹검 RCT 포함)이 이 방향을 지지합니다. 다만 국내 미출시 상태이며 안전성 자료(경고·금기·DDI)가 전무해 별도 확인이 필요합니다.
-
----
+Tolfenamic acid는 fenamate 계열 비스테로이드 소염제(NSAID)로, 한국에서는 수출용 캡슐 1건이 허가되어 있습니다. TxGNN 모델은 **두통 질환(headache disorder)**에 효과가 있을 것으로 예측하며, 이 방향을 지지하는 **임상시험 등록은 0건**이지만 **20편의 문헌**(무작위 이중맹검 시험 포함)이 있습니다. 이 적응증은 이미 여러 국가에서 확립되어 있어 엄밀한 의미의 재창출보다는 허가 범위 내 또는 이에 근접한 용도에 가깝습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 국내 허가 정보 없음 (해외 문헌상 NSAID 계열 진통·소염제로 사용) |
-| 예측 신규 적응증 | 두통 질환 (Headache Disorder) |
+| 기존 적응증 | 허가증에 적응증 본문이 아닌 링크만 기재되어 있어 구체적인 내용을 확인할 수 없음 |
+| 예측 신규 적응증 | 두통 질환 (headache disorder) |
 | TxGNN 예측 점수 | 99.74% |
-| 근거 수준 | L2 (다수의 완료된 이중맹검 RCT, 단 현대적 Phase 표기 이전 시대 연구) |
-| 한국 시판 현황 | 미출시 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Hold |
-
----
+| 근거 수준 | L2 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
+| 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
 
-DrugBank의 공식 작용 기전(MOA) 필드는 현재 데이터 갭 상태이나, 수집된 문헌 자체에서 기전 정보를 확인할 수 있습니다. 톨페남산은 안트라닐산 유도체(펜아메이트계) NSAID로, "프로스타글란딘 생합성을 강력히 억제하는" 약물로 여러 논문에서 설명되며(PMID 6984358), 류코트리엔 생합성 억제 작용도 보고되어 있습니다(PMID 7816786).
+현재 상세한 작용 기전 데이터는 정리되어 있지 않습니다. 다만 문헌에 따르면 Tolfenamic acid는 사이클로옥시게나제(COX)를 억제해 프로스타글란딘 합성을 줄이는 fenamate 계열 NSAID이며, 류코트리엔에도 영향을 준다고 보고되었습니다.
 
-편두통 병태생리에는 프로스타글란딘이 혈관 확장·부종·통각과민을 매개하는 것으로 알려져 있으며(PMID 7816790), 이는 톨페남산의 PG 억제 기전과 직접적으로 연결됩니다. 실제로 톨페남산은 1970~1990년대 북유럽(핀란드·덴마크)에서 Clotam이라는 상품명으로 급성 편두통 치료제 및 예방요법으로 널리 사용된 이력이 있어, TxGNN의 예측은 새로운 가설이라기보다 이미 확립된 약리학적 근거를 정확히 재발견한 결과로 볼 수 있습니다.
+프로스타글란딘은 편두통의 병태생리(신경인성 염증, 혈관 확장, 통각 과민)에 관여합니다. 따라서 이 기전은 급성 편두통 발작 치료와 예방 효과를 설명할 수 있습니다.
 
-류마티스 관절염(rank 3)에서도 같은 COX 억제 기전으로 다수의 RCT가 보고되어 있어, 톨페남산의 핵심 약리 범주(NSAID)와 두통 질환 적응증 사이의 기전적 연결성은 비교적 견고합니다.
-
----
+참고로 약리학 데이터상 AKR1C3를 표적으로 하는 것으로 확인되며, 영국에서는 급성 편두통 치료제로 승인되어 있습니다.
 
 ## 임상시험 근거
 
 현재 관련 임상시험 등록이 없습니다.
 
----
-
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [9563211](https://pubmed.ncbi.nlm.nih.gov/9563211/) | 1998 | RCT | Headache | 이중맹검 무작위 병렬군 연구, 톨페남산과 경구 수마트립탄의 급성 편두통 치료 효과가 유사함을 확인 |
-| [12474702](https://pubmed.ncbi.nlm.nih.gov/12474702/) | 2002 | RCT | Medicina (Kaunas) | 톨페남산 300mg vs 피조티펜, 192명 대상 전향적 이중맹검 병렬군 예방요법 비교 |
-| [7976233](https://pubmed.ncbi.nlm.nih.gov/7976233/) | 1994 | RCT | Acta Neurol Scand | 76명 대상 무작위 이중맹검 교차 연구, 톨페남산과 프로프라놀롤의 편두통 예방 효과 비교 |
-| [2375249](https://pubmed.ncbi.nlm.nih.gov/2375249/) | 1990 | RCT | Acta Neurol Scand | 무작위 이중맹검 교차 연구, 톨페남산과 아세트아미노펜의 편두통 급성기 효과 비교 |
-| [3727918](https://pubmed.ncbi.nlm.nih.gov/3727918/) | 1986 | RCT | Acta Neurol Scand | 31명 대상 무작위 이중맹검 교차 연구, 톨페남산·프로프라놀롤·위약의 편두통 예방 효과 비교, 두 약물 모두 위약 대비 유의한 발작 감소 |
-| [89390](https://pubmed.ncbi.nlm.nih.gov/89390/) | 1979 | RCT | Lancet | 20명 대상 이중맹검 교차 연구, 톨페남산이 에르고타민과 동등한 효과를 보이며 구역 등 부작용이 더 적음 |
-| [7051739](https://pubmed.ncbi.nlm.nih.gov/7051739/) | 1982 | RCT | Acta Neurol Scand | 31명 대상 이중맹검 교차 위약대조 연구, 톨페남산이 발작 횟수·기간·중증도 모두에서 위약보다 유의하게 우수 |
-| [6394143](https://pubmed.ncbi.nlm.nih.gov/6394143/) | 1984 | RCT | Cephalalgia | 톨페남산, 메토클로프라미드, 카페인 및 병용요법의 편두통 발작 치료 효과 비교 |
-| [6984358](https://pubmed.ncbi.nlm.nih.gov/6984358/) | 1982 | RCT | Cephalalgia | 톨페남산과 카페인·메토클로프라미드·피리독신 병용요법의 급성 편두통 60회 발작 치료 결과 |
-| [6691890](https://pubmed.ncbi.nlm.nih.gov/6691890/) | 1984 | Crossover PK | Br J Clin Pharmacol | 편두통 발작 및 메토클로프라미드가 톨페남산 흡수에 미치는 영향을 교차연구로 평가 |
+| [2375249](https://pubmed.ncbi.nlm.nih.gov/2375249/) | 1990 | RCT | Acta Neurol Scand | 편두통에서 tolfenamic acid(200/400 mg)와 paracetamol을 이중맹검 교차 비교 |
+| [3727918](https://pubmed.ncbi.nlm.nih.gov/3727918/) | 1986 | RCT | Acta Neurol Scand | 예방 치료에서 tolfenamic acid와 propranolol 모두 위약 대비 발작 횟수와 지속시간을 유의하게 감소 |
+| [6394143](https://pubmed.ncbi.nlm.nih.gov/6394143/) | 1984 | RCT | Cephalalgia | Tolfenamic acid, metoclopramide, caffeine 및 병용요법의 편두통 발작 치료 비교 |
+| [7816790](https://pubmed.ncbi.nlm.nih.gov/7816790/) | 1994 | Review | Pharmacol Toxicol | 급성 및 예방적 편두통 치료에서 tolfenamic acid 고찰 |
+| [9563211](https://pubmed.ncbi.nlm.nih.gov/9563211/) | 1998 | 무작위 대조 시험 | Headache | 속방형 tolfenamic acid와 sumatriptan의 급성 편두통 치료 효과가 유사 |
+| [12474702](https://pubmed.ncbi.nlm.nih.gov/12474702/) | 2002 | 무작위 이중맹검 시험 | Medicina (Kaunas) | 4~8회/월 편두통 환자 192명에서 tolfenamic acid 300 mg과 pizotifen의 예방 효과 비교 |
+| [7976233](https://pubmed.ncbi.nlm.nih.gov/7976233/) | 1994 | 무작위 이중맹검 교차 시험 | Acta Neurol Scand | 76명 환자에서 tolfenamic acid와 propranolol의 예방 효과 비교 |
+| [89390](https://pubmed.ncbi.nlm.nih.gov/89390/) | 1979 | 이중맹검 교차 시험 | Lancet | 편두통 발작 시 ergotamine과 효과가 비슷하며 오심은 더 적음 |
+| [10234467](https://pubmed.ncbi.nlm.nih.gov/10234467/) | 1999 | 후향 연구 | Cephalalgia | Sumatriptan과 병용 시 편두통 재발 감소 |
+| [7051739](https://pubmed.ncbi.nlm.nih.gov/7051739/) | 1982 | 이중맹검 교차 시험 | Acta Neurol Scand | 위약 대비 발작 횟수, 지속시간, 중증도 개선 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 198601438 | 티날캡슐(톨페남산)(수출용) | 캡슐 (백색 분말) | 허가증에 적응증 본문 없이 링크만 기재됨 |
+
+## 세포독성
+
+해당 약물은 항종양약이 아니므로 이 항목은 적용되지 않습니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 약리학 데이터에서 AKR1C3 표적과의 상호작용이 1건 확인되었으나, 임상적 중증도 등급은 제공되지 않았습니다.
 
-> ⚠️ 참고: 경고·금기·DDI 데이터가 모두 확보되지 않았으며(TFDA/국내 첨부문서 미수집), 이는 안전성 초기평가(S1) 진입을 막는 Blocking 등급 데이터 갭입니다.
-
----
+그 외 안전성 정보는 허가사항을 참조하세요. NSAID 계열이므로 위장관, 신장, 심혈관 위험에 유의해야 합니다.
 
 ## 결론 및 다음 단계
 
-**결정: Hold**
+**결정: Proceed with Guardrails**
 
 **사유:**
-편두통 적응증에 대한 효능 근거(다수의 완료된 이중맹검 RCT, 총 20편 문헌)는 견고하나, 국내 첨부문서 기반 경고·금기·DDI 정보가 전무하여 안전성 초기평가(S1)에 진입할 수 없는 Blocking 데이터 갭이 존재합니다. 한국 내 시판 이력도 전혀 없어(허가 0건) 국내 도입 전 규제·안전성 검토가 선행되어야 합니다.
+편두통 급성 치료와 예방에 대해 위약, paracetamol, propranolol, sumatriptan 등과 비교한 무작위 이중맹검 시험이 다수 있어 근거가 비교적 탄탄합니다. 다만 대부분 1980~1990년대 연구이고 등록된 임상시험이 없으며, 허가사항 기반의 안전성 자료가 부족합니다.
 
 **진행하려면 필요한 것:**
-- TFDA/국내 첨부문서 원문 확보 및 경고·금기 사항 파싱 (DG001, Blocking)
-- DrugBank API를 통한 상세 작용 기전(MOA) 데이터 확보 (DG002)
-- 약물상호작용(DDI) 데이터베이스 재조회 (현재 not_found 상태)
-- 편두통 적응증에 대한 최신 등록 임상시험(ClinicalTrials.gov/ICTRP) 유무 확인
+- 허가증 PDF를 내려받아 허가 적응증과 경고·금기 정보 확보
+- 상세한 작용 기전 데이터 (MOA) 보완
+- 핵심 RCT의 전문(원문)으로 설계, 표본 크기, 결과 확인
+- 현재 진료 지침 기준에서의 효과 재평가와 NSAID 공통 위험(위장관, 신장, 심혈관)에 대한 모니터링 계획
+
+---
+
+### 참고: 다른 예측 적응증
+
+| 순위 | 예측 적응증 | 예측 점수 | 근거 수준 | 권장 결정 |
+|-----|-----------|---------|---------|---------|
+| 2 | 건염 (tendinitis) | 99.71% | L5 | Hold |
+| 3 | 류마티스 관절염 (rheumatoid arthritis) | 99.70% | L2 | Proceed with Guardrails |
+| 4 | 삼차신경 자율신경성 두통 | 99.68% | L5 | Hold |
+| 5 | 섬유성 근염 (myositis fibrosa) | 99.68% | L5 | Hold |
+| 6 | 특발성 육아종성 근염 | 99.68% | L5 | Hold |
+| 7 | 섬유근육통 (fibromyalgia) | 99.65% | L5 | Hold |
+| 8 | 외골증 (exostosis) | 99.62% | L5 | Hold |
+| 9 | 봉입체 근염 | 99.54% | L5 | Hold |
+| 10 | 골관절염 감수성 | 99.48% | L5 | Hold |
+
+류마티스 관절염은 phenylbutazone, ibuprofen 등과 비교한 이중맹검 시험 문헌이 있으나 대부분 1970~1980년대 연구이며, 질병 조절이 아닌 증상 완화 목적의 NSAID 치료로 보아야 합니다. 나머지 적응증은 모델 예측만 있고 임상시험이나 문헌 근거가 없습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

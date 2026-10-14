@@ -2,7 +2,7 @@
 layout: default
 title: Azelnidipine
 parent: 모델 예측만 (L5)
-nav_order: 113
+nav_order: 115
 evidence_level: L5
 indication_count: 0
 ---

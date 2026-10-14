@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Risankizumab
-parent: 높은 근거 (L1-L2)
-nav_order: 604
-evidence_level: L2
+parent: 모델 예측만 (L5)
+nav_order: 657
+evidence_level: L5
 indication_count: 10
 ---
 
 # Risankizumab
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,85 +29,91 @@ indication_count: 10
 
 </div>
 
-# Risankizumab: 건선(Psoriasis)에서 피부염(Dermatitis)으로
+# Risankizumab: 판상 건선 등 IL-23 매개 질환에서 피부염(Dermatitis)으로
 
 ## 한 문장 요약
 
-Risankizumab(Skyrizi)은 IL-23을 표적으로 하는 단클론항체로, 전세계적으로 건선·건선성 관절염·크론병 치료에 승인되어 있으나 한국 내 허가 자료는 확인되지 않았습니다.
-TxGNN 모델은 **피부염(Dermatitis, 아토피피부염 포함)**에도 효과가 있을 수 있다고 예측하며(예측 점수 99.98%), 완료된 Phase 2 RCT 1건과 다수의 관련 문헌이 이를 뒷받침합니다.
-다만 동일 계열 약물에서 "역설적 습진(paradoxical eczema)"이 부작용으로 보고된 문헌도 다수 존재해, 해석에 주의가 필요합니다.
+Risankizumab은 IL-23의 p19 소단위를 선택적으로 차단하는 단클론항체로, 한국에서 스카이리치라는 제품명으로 시판되고 있습니다.
+TxGNN 모델은 **피부염(Dermatitis)**에 효과가 있을 수 있다고 예측하며, 현재 **2건의 임상시험**(아토피 피부염 Phase 2 포함)과 **20편의 문헌**이 이 방향과 관련되어 있습니다. 다만 아토피 피부염 Phase 2 시험의 효능 결과는 이번 데이터에서 확인되지 않았습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 건선(해외 승인 기준, 한국 허가 자료 없음) |
-| 예측 신규 적응증 | 피부염 (Dermatitis, 주로 아토피피부염) |
+| 기존 적응증 | 허가 적응증 본문이 아닌 MFDS 허가문서 링크만 확인되어 구체적 적응증을 기재할 수 없음 (문헌상 판상 건선, 건선성 관절염, 크론병 등으로 알려짐) |
+| 예측 신규 적응증 | 피부염 (Dermatitis) |
 | TxGNN 예측 점수 | 99.98% |
-| 근거 수준 | L2 |
-| 한국 시판 현황 | 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Proceed with Guardrails |
+| 근거 수준 | L2 (완료된 Phase 2 무작위 대조 시험 1건, 아토피 피부염) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 5건 |
+| 권장 결정 | Hold (추가 근거 확인 후 재검토) |
 
 ## 이 예측이 타당한 이유는?
 
-공식 MOA 데이터베이스 조회 결과는 아직 확보되지 않았으나(Data Gap), 수집된 문헌(PMID 38266061 등)에 따르면 Risankizumab은 IL-23의 p19 subunit에 결합하는 인간화 IgG1 단클론항체로, IL-23/Th17 경로를 억제하여 건선 등 염증성 질환의 병태생리를 조절합니다.
+현재 상세한 작용 기전 데이터가 DrugBank 등에서 확보되지 않았습니다. 다만 문헌에 따르면 risankizumab은 IL-23 p19 소단위를 표적으로 하는 인간화 IgG1 단클론항체이며, IL-23/Th17 축이 관여하는 염증성 피부질환에서 효능이 입증되어 있습니다.
 
-아토피피부염(AD)은 전통적으로 Th2 우세 질환으로 알려져 있지만, 최근 연구에서는 Th22와 일부 Th17 경로의 관여도 제시되고 있습니다(PMID 36588137). 이 때문에 IL-23/IL-22 차단이 AD에도 치료 효과를 가질 수 있다는 기전적 가설이 성립하며, 실제로 완료된 Phase 2 RCT(NCT03706040)가 이를 직접 검증했습니다.
-
-**주의할 점**: 동일 계열(IL-23/IL-17 억제제) 약물에서 건선 치료 중 오히려 습진성 발진(paradoxical/eczematous eruption)이 유발된다는 사례 보고 및 리뷰가 다수 확인됩니다(PMID 33185530, 36939506, 41645692 등). 즉 "피부염과의 연관성"이 치료 효과인지, 역설적 부작용인지 문헌상 방향이 혼재되어 있어 추가 검증이 필요합니다.
+피부염 중 아토피 피부염은 주로 Th2 경로가 중심이지만, Th22 및 일부 Th17 경로도 관여하는 것으로 알려져 IL-23/IL-22 차단이 이론적으로 가능합니다. 그러나 건선에 비해 기전적 근거는 약합니다. 또한 건선 환자에서 risankizumab 투여 중 습진양 발진이 나타났다는 증례 보고가 여러 건 있어, 피부염에 대한 효과가 일관되지 않을 수 있습니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT03706040](https://clinicaltrials.gov/study/NCT03706040) | Phase 2 | 완료 | 172 | 중등증~중증 성인/청소년 아토피피부염에서 안전성·유효성 평가 (핵심 근거) |
-| [NCT07021495](https://clinicaltrials.gov/study/NCT07021495) | N/A (관찰) | 모집 중 | 840 | 아토피피부염·건선·화농성한선염 등 만성 면역매개 피부질환 바이오마커 프로파일링 |
-| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Phase 4 | 모집 예정 | 10 | 아토피피부염·건선 대상 피내 마이크로디바이스를 이용한 국소 약물 전달 시험 |
-| [NCT04908475](https://clinicaltrials.gov/study/NCT04908475) | Phase 4 | 완료 | 352 | 중등증 판상건선에서 Risankizumab vs Apremilast 비교(건선 위주, 참고용) |
-| [NCT05969223](https://clinicaltrials.gov/study/NCT05969223) | Phase 4 | 완료 | 214 | 생식기/두피 건선 대상(건선 위주, 참고용) |
-| [NCT04818385](https://clinicaltrials.gov/study/NCT04818385) | N/A (관찰) | 완료 | 240 | 대만 내 중등증~중증 만성 판상건선 코호트(건선 위주, 참고용) |
-| [NCT07041112](https://clinicaltrials.gov/study/NCT07041112) | N/A (관찰) | 완료 | 1000 | 피부건선 생물학적 치료제 10년 생존율 유전-대사 인자 분석(건선 위주, 참고용) |
+| [NCT03706040](https://clinicaltrials.gov/study/NCT03706040) | Phase 2 | 완료 | 172 | 성인·청소년 중등도~중증 아토피 피부염에서 risankizumab의 안전성·효능을 평가한 무작위 이중맹검 위약대조 시험 (결과 수치는 제공 데이터에 없음) |
+| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Phase 4 | 모집 예정 | 10 | 아토피 피부염·건선 약물을 피부에서 직접 시험하는 마이크로디바이스 연구로, 효능 근거는 아님 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [36588137](https://pubmed.ncbi.nlm.nih.gov/36588137/) | 2023 | RCT | Dermatology and Therapy | 중등증~중증 아토피피부염 대상 Phase 2 RCT, IL-23/IL-22 차단 근거 제시 (핵심 근거) |
-| [39668419](https://pubmed.ncbi.nlm.nih.gov/39668419/) | 2025 | Case series | International Journal of Dermatology | 아토피피부염+건선 동반 환자에서 Dupilumab+Risankizumab 병용 효과·안전성 |
-| [33078990](https://pubmed.ncbi.nlm.nih.gov/33078990/) | 2020 | Review | Expert Opinion on Biological Therapy | 소아 아토피피부염 대상 생물학적제제 현황 및 개발 중인 후보 검토 |
-| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | Review | Children (Basel) | 소아 원형탈모·건선·아토피피부염·화농성한선염 생물학적제제/소분자 치료 review |
-| [38607726](https://pubmed.ncbi.nlm.nih.gov/38607726/) | 2024 | Review | Military Medicine | 건선·아토피피부염에서 전신 면역조절제 재평가 |
-| [31098898](https://pubmed.ncbi.nlm.nih.gov/31098898/) | 2019 | Review | Drugs | Risankizumab 최초 글로벌 승인 리뷰(일본, 건선·건선성관절염·농포성건선·홍피성건선) |
-| ⚠️ [33185530](https://pubmed.ncbi.nlm.nih.gov/33185530/) | 2020 | Case report | European Journal of Dermatology | 건선 환자에서 Risankizumab 치료 중 습진성 발진 발생 (역설적 반응) |
-| ⚠️ [36939506](https://pubmed.ncbi.nlm.nih.gov/36939506/) | 2023 | Case report | Ital J Dermatol Venereol | Risankizumab 치료 중 습진성 발진 사례 |
-| ⚠️ [41645692](https://pubmed.ncbi.nlm.nih.gov/41645692/) | 2026 | Case report | Dermatology Reports | IL-23 억제제(Risankizumab 등) 유발 역설적 습진에 Upadacitinib 사용 |
-| ⚠️ [37014149](https://pubmed.ncbi.nlm.nih.gov/37014149/) | 2023 | Case series | J Cutan Med Surg | Brodalumab 유발 습진성 반응을 Risankizumab으로 전환하여 관리 |
-
-⚠️ 표시 문헌은 "치료 효과"가 아닌 "역설적 습진 유발" 방향의 보고입니다.
+| [36588137](https://pubmed.ncbi.nlm.nih.gov/36588137/) | 2023 | RCT (Phase 2) | Dermatol Ther | 중등도~중증 아토피 피부염에서 IL-23·IL-22 차단의 근거를 바탕으로 한 위약대조 시험 (초록에 결과 없음) |
+| [39668419](https://pubmed.ncbi.nlm.nih.gov/39668419/) | 2025 | 증례 보고 | Int J Dermatol | 아토피 피부염과 건선이 동반된 환자에서 dupilumab과 risankizumab 병용 효과 및 안전성 |
+| [40856907](https://pubmed.ncbi.nlm.nih.gov/40856907/) | 2025 | 체계적 문헌고찰 | Am J Clin Dermatol | 홍피성 건선의 전신 치료 관리 |
+| [40794374](https://pubmed.ncbi.nlm.nih.gov/40794374/) | 2025 | 체계적 문헌고찰 | Inflammopharmacology | 편평태선에서 인터루킨 억제제의 치료 효과와 역설적 효과 |
+| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | 리뷰 | Children (Basel) | 소아 원형탈모, 건선, 아토피 피부염, 화농성 한선염의 생물학적 제제 |
+| [33078990](https://pubmed.ncbi.nlm.nih.gov/33078990/) | 2020 | 리뷰 | Expert Opin Biol Ther | 소아 아토피 피부염의 최신·신규 생물학적 제제 |
+| [41645692](https://pubmed.ncbi.nlm.nih.gov/41645692/) | 2026 | 증례 보고 | Dermatol Rep | IL-23 억제제로 유발된 역설적 습진에 upadacitinib 사용 |
+| [33185530](https://pubmed.ncbi.nlm.nih.gov/33185530/) | 2020 | 증례 보고 | Eur J Dermatol | 건선 환자에서 risankizumab 치료 중 습진양 발진 |
+| [36939506](https://pubmed.ncbi.nlm.nih.gov/36939506/) | 2023 | 증례 보고 | Ital J Dermatol Venereol | risankizumab 치료 중 발생한 습진양 발진 |
+| [37014149](https://pubmed.ncbi.nlm.nih.gov/37014149/) | 2023 | 증례 보고 | J Cutan Med Surg | brodalumab 유발 습진양 반응 환자를 risankizumab으로 전환하여 관리 |
 
 ## 한국 시판 정보
 
-현재 한국 내 허가된 Risankizumab 제품 정보가 확인되지 않습니다 (미시판, 허가증 0건).
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201908205 | 스카이리치프리필드시린지주 | 프리필드시린지 주사제 | 허가문서 링크만 확인됨 (적응증 본문 미확인) |
+| 202303132 | 스카이리치주 | 바이알 주사제 | 허가문서 링크만 확인됨 (적응증 본문 미확인) |
+| 202303133 | 스카이리치카트리지주 | 프리필드카트리지·온바디인젝터 주사제 | 허가문서 링크만 확인됨 (적응증 본문 미확인) |
+| 202201668 | 스카이리치프리필드시린지주150mg/mL | 프리필드시린지 주사제 | 허가문서 링크만 확인됨 (적응증 본문 미확인) |
+| 202201669 | 스카이리치프리필드펜주150mg/mL | 프리필드펜 주사제 | 허가문서 링크만 확인됨 (적응증 본문 미확인) |
+
+제조사는 모두 한국애브비(주)입니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
-
-*(별도로, 문헌 근거상 IL-23 억제제 계열에서 역설적 습진/피부염 유발 사례가 보고되어 있어 — 위 임상근거 표 참조 — 신규 적응증 검토 시 이 방향성도 함께 평가해야 합니다.)*
+- **약물 상호작용**: 이번 데이터에서 총 78건의 상호작용이 확인되었으며, 주요(Major) 등급은 다음과 같습니다.
+  - Adalimumab
+  - Baricitinib
+  - Certolizumab pegol
+  - Cladribine
+- 중등도(Moderate) 등급에는 tacrolimus, cyclosporine, azathioprine, roflumilast, anakinra, denosumab 및 일부 백신(파상풍 톡소이드, 탄저 백신, 콜레라 생백신 등)이 포함됩니다. 아연 제제는 경미(Minor) 등급입니다.
+- 면역억제 계열 약물과 병용 시 감염 위험에 유의해야 하며, 생물학적 제제의 일반적 주의사항(결핵 선별검사, 감염 모니터링)이 적용될 수 있습니다.
+- 경고 및 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-아토피피부염을 직접 검증한 완료된 Phase 2 RCT(NCT03706040)와 이를 뒷받침하는 문헌(PMID 36588137)이 존재해 순수 모델 예측 이상의 근거 수준(L2)을 갖추고 있습니다. 다만 동일 기전 약물에서 반대 방향(피부염 유발)의 사례 보고가 다수 확인되어, 적응증 확장 검토 시 반드시 이 역설적 반응 가능성을 함께 평가해야 합니다.
+피부염(특히 아토피 피부염)에 대해 완료된 Phase 2 무작위 시험이 1건 있으나 효능 결과가 확인되지 않았고, 아토피 피부염은 Th2 중심 질환이라 기전적 근거도 건선보다 약합니다. 또한 risankizumab 투여 중 습진양 발진이 발생한 증례가 여러 건 보고되어 있어, 결과 확인 전에는 진행을 권장하기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- TFDA(한국 식약처) 등재 여부 확인 및 허가사항 경고/금기 문서 확보 (DG001, Blocking)
-- DrugBank 등 공식 소스를 통한 MOA 데이터 확보 (DG002, High)
-- Phase 2 RCT(NCT03706040) 이후 Phase 3 후속 시험 진행 여부 확인
-- 역설적 습진 발생률 및 위험군에 대한 체계적 문헌고찰(Systematic Review) 추가 확보
+- NCT03706040 및 PMID 36588137의 1차·2차 평가변수 결과(효능 및 안전성) 확인
+- 허가문서(MFDS 허가사항)의 적응증, 경고, 금기 본문 확보
+- 작용 기전 데이터(DrugBank 등) 보강
+- 습진양 발진 등 역설적 반응의 위험-이익 평가
+- 피부염 중 어떤 아형(아토피 피부염 등)을 목표로 할지 명확화
+
+> 참고: TxGNN 순위 7위인 건선(점수 99.96%)은 완료된 다수의 Phase 3 RCT(UltIMMa-1/2 등)로 뒷받침되는 기존 적응증으로, 새로운 재창출이 아니라 모델 예측의 타당성을 확인해 주는 사례입니다. 나머지 예측(신생아 피부근염, 무근육병성 피부근염, 만성 위축성 말단피부염, 여드름 켈로이드, 소아 간질성 폐질환, 가족성 종두양 수포증, 중증 비증식성 당뇨망막병증, 유건선)은 모델 점수만 있고 임상시험·문헌 근거가 없어 보류(Hold)가 적절합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

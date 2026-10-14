@@ -2,7 +2,7 @@
 layout: default
 title: Rokitamycin
 parent: 모델 예측만 (L5)
-nav_order: 612
+nav_order: 665
 evidence_level: L5
 indication_count: 0
 ---

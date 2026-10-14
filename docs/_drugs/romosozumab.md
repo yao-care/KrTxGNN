@@ -2,7 +2,7 @@
 layout: default
 title: Romosozumab
 parent: 모델 예측만 (L5)
-nav_order: 614
+nav_order: 667
 evidence_level: L5
 indication_count: 0
 ---

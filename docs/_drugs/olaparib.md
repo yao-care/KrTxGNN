@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Olaparib
-parent: 높은 근거 (L1-L2)
-nav_order: 518
-evidence_level: L1
+parent: 모델 예측만 (L5)
+nav_order: 561
+evidence_level: L5
 indication_count: 1
 ---
 
 # Olaparib
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **1** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,104 +29,109 @@ indication_count: 1
 
 </div>
 
-# Olaparib: 난소암에서 유방암으로
+# Olaparib: 난소암 등 BRCA 변이 암에서 여성 유방암으로
 
 ## 한 문장 요약
 
-Olaparib은 PARP1/2 억제제로, 임상시험 근거(NCT05078671)에 따르면 원래 백금 감수성 재발성 BRCA 변이 난소암·나팔관암·복막암의 유지요법으로 개발되었습니다.
-TxGNN 모델은 **유방암(Female Breast Carcinoma)**에도 효과가 있을 것으로 예측하며,
-현재 **50건 이상의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다. 특히 OlympiAD, OlympiA 등 다수의 완료된 Phase 3 무작위대조시험이 BRCA 변이 유방암에서의 효능을 이미 입증했습니다.
-
----
+Olaparib은 PARP 억제제로, 한국에서 린파자정(100mg, 150mg)으로 허가·시판되고 있습니다. TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있을 수 있다고 예측하며, 이 방향을 지지하는 **임상시험 30건**과 **문헌 20편**이 확인되었습니다. 이 중 Phase 3 무작위 대조시험(OlympiAD, OlympiA)이 포함되어 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 난소암 (BRCA 변이, 백금 감수성 재발성 유지요법) — 임상시험 요약(NCT05078671) 근거 |
-| 예측 신규 적응증 | 유방암 (Female Breast Carcinoma) |
+| 기존 적응증 | 허가 적응증 원문은 링크 형태로만 제공되어 본문을 확인할 수 없음 (허가사항 참조 필요) |
+| 예측 신규 적응증 | 여성 유방암 (female breast carcinoma) |
 | TxGNN 예측 점수 | 99.09% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | 미시판 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L1 (문헌상 Phase 3 RCT 다수 확인, 아래 참고) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 2건 |
 | 권장 결정 | Proceed with Guardrails |
 
----
+> 참고: 근거 수준 L1은 문헌으로 확인된 Phase 3 RCT(OlympiAD, OlympiA)에 근거한 판정입니다. 위 임상시험 목록에서 완료된 Phase 3 시험은 난소암 대상 시험(NCT02282020)뿐이므로, 유방암 적응증의 L1 판정은 문헌에 의존합니다.
 
 ## 이 예측이 타당한 이유는?
 
-Olaparib은 PARP1/2(poly ADP-ribose polymerase) 억제제로, 단일가닥 DNA 손상 복구를 차단하고 복제분기점 붕괴를 유도합니다. BRCA1/2 생식세포계열 돌연변이로 상동재조합 복구(HRD)에 결함이 있는 종양세포에서는 이 억제 작용이 "합성치사(synthetic lethality)" 효과로 이어져 선택적으로 암세포를 사멸시킵니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 약리학적 정보에 따르면, Olaparib은 PARP 억제제로서 상동재조합 복구(HRR) 결핍 종양에서 합성 치사(synthetic lethality)를 일으킵니다. BRCA1/2 기능이 소실되면 이중가닥 손상 복구가 어려워지고, PARP 억제로 PARP 포획과 복구되지 않은 DNA 손상이 누적되어 종양세포가 사멸합니다.
 
-BRCA1/2 변이는 난소암뿐 아니라 유방암의 대표적 발암 원인 중 하나이므로, 두 암종은 동일한 기전적 취약점을 공유합니다. 따라서 난소암에서 검증된 PARP 억제 기전이 BRCA 변이 유방암에도 직접 적용 가능하며, 이는 간접 추론이 아니라 기전상 직접적인 연관성입니다.
+이 기전은 생식세포 BRCA1/2 변이 유방암에 직접 적용됩니다. TBCRC 048 연구처럼 PALB2 등 다른 HRR 유전자 변이를 가진 하위군으로도 확장될 가능성이 있습니다. 높은 TxGNN 점수는 이러한 생물학적 근거와 일치합니다.
 
-실제로 이 적응증은 이미 FDA·EMA에서 Lynparza®로 승인된 상태이며, Evidence Pack상 "미시판"은 한국 시장 내 미출시를 의미할 뿐 전 세계적 미승인을 뜻하지 않습니다. 이는 TxGNN 예측의 타당성을 뒷받침하는 강력한 정황입니다.
-
----
+다만 효과는 바이오마커(생식세포 BRCA1/2 변이, HER2 음성)에 의존하므로, 선별되지 않은 유방암 전체로 일반화해서는 안 됩니다. 또한 유방암은 이미 여러 국가에서 olaparib의 승인 적응증일 가능성이 높아, 진정한 재창출이라기보다 적응증 확인에 가까울 수 있습니다. 한국 허가사항과 대조하여 확인해야 합니다.
 
 ## 임상시험 근거
 
+관련성이 높은 시험을 중심으로 정리했습니다.
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT02282020](https://clinicaltrials.gov/study/NCT02282020) | Phase 3 | 완료 | 266 | gBRCA 변이 환자 대상 olaparib vs 의사 선택 화학요법 비교, 핵심 등록 근거 시험 |
-| [NCT04330040](https://clinicaltrials.gov/study/NCT04330040) | Phase 4 | 완료 | 202 | 인도 환자 대상, 재발성 난소암 및 gBRCA1/2 변이 전이성 유방암에서 olaparib 실사용 데이터 |
-| [NCT06580314](https://clinicaltrials.gov/study/NCT06580314) | Phase 3 | 모집 중 | 880 | BRCA1/2 변이·HRD+ 난소암에서 olaparib 유지요법 1년 vs 2년 비교(±bevacizumab) |
-| [NCT01445418](https://clinicaltrials.gov/study/NCT01445418) | Phase 1 | 완료 | 103 | BRCA1/2 변이 유방암·난소암 및 삼중음성유방암에서 olaparib+carboplatin 병용 |
-| [NCT01237067](https://clinicaltrials.gov/study/NCT01237067) | Phase 1 | 완료 | 77 | 유방암·난소암·자궁암·자궁경부암 등 여성암에서 olaparib+carboplatin PK/PD 연구 |
-| [NCT02264678](https://clinicaltrials.gov/study/NCT02264678) | Phase 1/2 | 진행 중(모집 종료) | 357 | 고형암 대상 ceralasertib+olaparib 병용 안전성/PK 대규모 연구 |
-| [NCT05498155](https://clinicaltrials.gov/study/NCT05498155) | Phase 2 | 진행 중(모집 종료) | 50 | BRCA 변이, HER2 음성 조기 유방암에서 olaparib 단독 및 durvalumab 병용 신보조요법 |
-| [NCT06201234](https://clinicaltrials.gov/study/NCT06201234) | Phase 2 | 모집 중 | 176 | HR양성·HER2음성·gBRCA1/2 변이 진행성/전이성 유방암에서 olaparib+elacestrant 병용 |
-| [NCT05358639](https://clinicaltrials.gov/study/NCT05358639) | Phase 1 | 진행 중(모집 종료) | 36 | 고등급 장액성 난소암 및 삼중음성유방암에서 olaparib+navitoclax 병용 |
-| [NCT02418624](https://clinicaltrials.gov/study/NCT02418624) | Phase 1 | 완료 | 25 | BRCA1/2 변이 HER2음성 전이성 유방암 1차 치료에서 carboplatin-olaparib vs capecitabine |
+| [NCT00679783](https://clinicaltrials.gov/study/NCT00679783) | Phase 2 | 완료 | 99 | BRCA 변이 유방암·난소암에서 olaparib(AZD2281)의 반응률을 평가한 비무작위 시험 |
+| [NCT04683679](https://clinicaltrials.gov/study/NCT04683679) | Phase 2 | 모집 중 | 34 | 전이성 삼중음성 유방암에서 펨브롤리주맙+방사선요법에 olaparib 추가 여부 비교 |
+| [NCT04330040](https://clinicaltrials.gov/study/NCT04330040) | Phase 4 | 완료 | 202 | 인도 환자 대상 시판 후 연구(난소암 및 생식세포 BRCA 변이 전이성 유방암) |
+| [NCT01116648](https://clinicaltrials.gov/study/NCT01116648) | Phase 1/2 | 활성(모집 종료) | 155 | 재발성 삼중음성 유방암 등에서 cediranib+olaparib 병용 vs olaparib 단독 |
+| [NCT02418624](https://clinicaltrials.gov/study/NCT02418624) | Phase 1 | 완료 | 25 | BRCA 변이 HER2 음성 진행성 유방암에서 카보플라틴+olaparib 병용의 권장 용량 탐색 |
+| [NCT01623349](https://clinicaltrials.gov/study/NCT01623349) | Phase 1 | 완료 | 118 | 재발성 삼중음성 유방암·고등급 장액성 난소암에서 PI3K 억제제+olaparib 병용 안전성 |
+| [NCT05358639](https://clinicaltrials.gov/study/NCT05358639) | Phase 1 | 활성(모집 종료) | 36 | 삼중음성 유방암 및 난소암에서 olaparib+navitoclax 병용 안전성 |
+| [NCT03109080](https://clinicaltrials.gov/study/NCT03109080) | Phase 1 | 완료 | 24 | 삼중음성 유방암에서 olaparib+방사선요법 |
+| [NCT07695259](https://clinicaltrials.gov/study/NCT07695259) | Phase 4 | 모집 중 | 45 | 고령 HER2 양성 유방암 신보조요법에서 olaparib+트라스투주맙+퍼투주맙 |
+| [NCT01237067](https://clinicaltrials.gov/study/NCT01237067) | Phase 1 | 완료 | 77 | 재발성 여성암에서 olaparib+카보플라틴의 PK/PD 및 안전성 |
 
----
+대부분이 초기 단계 또는 병용요법 시험이며, 일부(NCT04330040 등)는 유방암과의 직접 관련성을 추가 확인해야 합니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [34081848](https://pubmed.ncbi.nlm.nih.gov/34081848/) | 2021 | RCT | NEJM | OlympiA: BRCA1/2 변이 조기 유방암 보조요법에서 olaparib 1년 투여, 무침습질병생존율 유의 개선 |
-| [36228963](https://pubmed.ncbi.nlm.nih.gov/36228963/) | 2022 | RCT | Annals of Oncology | OlympiA 전체생존 분석, 고위험 조기 유방암 보조 olaparib 효과 확인 |
-| [28578601](https://pubmed.ncbi.nlm.nih.gov/28578601/) | 2017 | RCT | NEJM | OlympiAD: 생식세포 BRCA 변이 전이성 유방암에서 olaparib 항종양 활성 입증 |
-| [30689707](https://pubmed.ncbi.nlm.nih.gov/30689707/) | 2019 | RCT | Annals of Oncology | OlympiAD 최종 전체생존 및 내약성 결과 |
-| [36893711](https://pubmed.ncbi.nlm.nih.gov/36893711/) | 2023 | RCT | Eur J Cancer | OlympiAD 연장 추적관찰, 전체생존 및 안전성 재확인 |
-| [33119476](https://pubmed.ncbi.nlm.nih.gov/33119476/) | 2020 | Phase 2 단일군 | J Clin Oncol | TBCRC 048: 체세포 BRCA1/2 및 기타 HR 관련 유전자 변이 전이성 유방암에서 olaparib 반응 평가 |
-| [34143979](https://pubmed.ncbi.nlm.nih.gov/34143979/) | 2021 | Phase 2 병용 | Cancer Cell | I-SPY2: durvalumab+olaparib+paclitaxel 병용이 HER2음성 고위험 유방암 병리학적완전반응률 향상 |
-| [38588696](https://pubmed.ncbi.nlm.nih.gov/38588696/) | 2024 | RCT | Nature | PARTNER: 생식세포 BRCA 야생형 삼중음성유방암 신보조요법에서 olaparib+화학요법 병용 |
-| [33710534](https://pubmed.ncbi.nlm.nih.gov/33710534/) | 2021 | Review | Targeted Oncology | 유방암 치료에서 PARP 억제제(olaparib, talazoparib) 전반 개관 |
-| [39791278](https://pubmed.ncbi.nlm.nih.gov/39791278/) | 2025 | Review | CA Cancer J Clin | PARP 억제제(olaparib 등)의 범종양(pan-tumor) 역할에 대한 종합 리뷰 |
+| [34081848](https://pubmed.ncbi.nlm.nih.gov/34081848/) | 2021 | RCT | N Engl J Med | OlympiA: BRCA1/2 변이 조기 유방암에서 보조요법 olaparib 효과 |
+| [36228963](https://pubmed.ncbi.nlm.nih.gov/36228963/) | 2022 | RCT | Ann Oncol | OlympiA 전체 생존율 분석: 고위험 조기 유방암(생식세포 BRCA1/2 변이)에서 보조 olaparib 평가 |
+| [28578601](https://pubmed.ncbi.nlm.nih.gov/28578601/) | 2017 | RCT | N Engl J Med | OlympiAD: 생식세포 BRCA 변이 전이성 유방암에서 olaparib 효능 |
+| [30689707](https://pubmed.ncbi.nlm.nih.gov/30689707/) | 2019 | RCT | Ann Oncol | OlympiAD 최종 전체 생존 및 내약성 결과(olaparib vs 의사 선택 화학요법) |
+| [36893711](https://pubmed.ncbi.nlm.nih.gov/36893711/) | 2023 | RCT 추적 | Eur J Cancer | OlympiAD 연장 추적: 최종 분석 전체 생존 중앙값 olaparib 19.3개월 vs 17.1개월(P=0.513) |
+| [33119476](https://pubmed.ncbi.nlm.nih.gov/33119476/) | 2020 | Phase 2 | J Clin Oncol | TBCRC 048: 체세포 BRCA1/2 또는 기타 HRR 유전자 변이 전이성 유방암에서 olaparib 반응 평가 |
+| [34143979](https://pubmed.ncbi.nlm.nih.gov/34143979/) | 2021 | Phase 2 | Cancer Cell | I-SPY2: 더발루맙+olaparib+파클리탁셀이 HER2 음성 유방암에서 pCR률 증가 |
+| [25366685](https://pubmed.ncbi.nlm.nih.gov/25366685/) | 2015 | 임상 연구 | J Clin Oncol | 생식세포 BRCA1/2 변이 진행성 암에서 olaparib 단독요법 |
+| [29582690](https://pubmed.ncbi.nlm.nih.gov/29582690/) | 2018 | Review | Expert Rev Anticancer Ther | 유방암에서 olaparib의 기전, 약동학 및 임상 데이터 개관 |
+| [35163586](https://pubmed.ncbi.nlm.nih.gov/35163586/) | 2022 | Review | Int J Mol Sci | 화학요법 저항성 삼중음성 유방암의 기전과 치료 전략 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201907537 | 린파자정100밀리그램(올라파립) | 노란색 내지 어두운 노란색의 양면이 볼록한 타원형의 필름코팅정 | 허가사항 참조 (원문은 MFDS 링크로만 제공) |
+| 201907536 | 린파자정150밀리그램(올라파립) | 초록색 내지 회녹색의 양면이 볼록한 타원형의 필름코팅정 | 허가사항 참조 (원문은 MFDS 링크로만 제공) |
+
+두 제품 모두 한국아스트라제네카(주)가 허가를 보유하고 있습니다.
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 표적치료제 (PARP1/2 억제제, 합성치사 기전) |
+| 세포독성 분류 | 표적치료제 (PARP 억제제) |
 | 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |
 
----
-
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 조회된 상호작용은 총 100건이며, 이 중 일부를 확인했습니다.
+  - **Major**: Aprepitant, Dexamethasone, Clarithromycin
+  - **Moderate**: Metformin, Alosetron, Bupropion, Cimetidine, Eluxadoline, Naldemedine, Metreleptin, Miconazole, Nitisinone, Cisapride, Clotrimazole, Glyburide, Ondansetron, Repaglinide, Rosuvastatin, Simvastatin
+  - **Minor**: Prucalopride
 
----
+주요 경고와 금기는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-OlympiAD, OlympiA 등 완료된 Phase 3 무작위대조시험이 BRCA 변이 유방암에서 olaparib의 효능과 안전성을 직접 입증했으며(근거 수준 L1), 해당 적응증은 이미 FDA·EMA에서 승인되어 있습니다. 다만 한국 내 허가·안전성 데이터가 없어 즉시 진행보다는 안전장치를 갖춘 진행이 적절합니다.
+생식세포 BRCA1/2 변이 유방암에서 Phase 3 RCT(OlympiAD, OlympiA)가 olaparib의 효과를 지지하며, 작용 기전도 타당합니다. 다만 효과가 바이오마커에 의존하므로 환자 선별이 필수입니다.
 
 **진행하려면 필요한 것:**
-- 한국 식약처(MFDS) 허가사항 및 경고·금기 정보 확보 (DG001, Blocking)
-- DrugBank 등에서 상세 작용기전(MOA) 데이터 확인 (DG002, High)
-- 한국 내 허가 신청 현황 및 시판 계획 파악
-- 국내 환자 대상 약물상호작용 및 골수억제 모니터링 계획 수립
+- 한국 허가사항(MFDS 첨부문서) 확인: 유방암이 이미 허가 적응증인지 판단하고, 경고·금기 정보 확보
+- 상세한 약물 작용 기전(MOA) 데이터 보완
+- 생식세포 BRCA1/2 변이 검사 기반의 환자 선별 기준 마련 (HER2 음성 등)
+- 주요 병용금기 약물(Major 수준 상호작용) 관리 계획 수립
+- 유방암과의 관련성이 불분명한 시험(예: NCT04330040)의 적응증 일치 여부 검증
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

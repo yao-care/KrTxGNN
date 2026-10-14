@@ -2,7 +2,7 @@
 layout: default
 title: Amiodarone Hydrochloride
 parent: 모델 예측만 (L5)
-nav_order: 59
+nav_order: 61
 evidence_level: L5
 indication_count: 0
 ---

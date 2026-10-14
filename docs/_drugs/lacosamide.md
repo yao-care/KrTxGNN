@@ -2,7 +2,7 @@
 layout: default
 title: Lacosamide
 parent: 모델 예측만 (L5)
-nav_order: 419
+nav_order: 452
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,80 +29,88 @@ indication_count: 10
 
 </div>
 
-# Lacosamide: 뇌전증에서 양극성 정동장애 조증삽화로
+# Lacosamide: 간질(부분발작)에서 조증 양극성장애로
 
 ## 한 문장 요약
 
-Lacosamide(Vimpat®)는 원래 국소발작(부분발작) 뇌전증 치료제로 개발된 항경련제입니다.
-TxGNN 모델은 **양극성 정동장애 조증삽화(Manic Bipolar Affective Disorder)**에 효과가 있을 수 있다고 예측하며,
-현재 **1건의 3상 임상시험(모집 중)**과 **14편의 관련 문헌**이 이 방향을 뒷받침하지만, 아직 확증적 결과는 없습니다.
+Lacosamide는 전압 의존성 나트륨 채널을 조절하는 항전간제로, 한국에서 18건이 허가되어 시판 중입니다.
+TxGNN 모델은 **조증 양극성장애(manic bipolar affective disorder)**에 효과가 있을 수 있다고 예측합니다.
+다만 이를 직접 뒷받침하는 **임상시험은 0건**이고, 관련 **문헌 14편**도 대부분 소규모 후향 연구, 증례 보고, 리뷰입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 뇌전증(국소발작) — 한국 미시판으로 허가 자료 없음, 임상시험 문헌상 언급되는 국제 정보 기준 |
-| 예측 신규 적응증 | 양극성 정동장애 조증삽화 (Manic Bipolar Affective Disorder) |
-| TxGNN 예측 점수 | 99.96% |
-| 근거 수준 | L3 (관찰 연구/후향적 코호트 수준) |
-| 한국 시판 현황 | 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Hold (Research Question 단계) |
+| 기존 적응증 | 항전간제(간질 발작 치료). 허가 적응증 본문은 링크 형태로만 확인되어 문구를 인용하지 못했습니다 |
+| 예측 신규 적응증 | 조증 양극성장애 (manic bipolar affective disorder) |
+| TxGNN 예측 점수 | 99.96% (전체 순위 1,349위) |
+| 근거 수준 | L3 (관찰 연구 수준) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 18건 (모두 단일제, 유효) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터는 확보되지 않았습니다(DrugBank 조회 결과 [Data Gap]).
-다만 공개된 약리학 정보에 따르면, Lacosamide는 전위-개폐형 나트륨 채널(voltage-gated sodium channel)의
-느린 불활성화(slow inactivation)를 선택적으로 증강시켜 신경세포의 과흥분을 억제하는 항경련제입니다.
+현재 데이터에는 상세한 작용 기전 항목이 비어 있습니다. 다만 수집된 문헌에 따르면 Lacosamide는 전압 의존성 나트륨 채널의 **느린 비활성화(slow inactivation)**를 선택적으로 강화해 세포막을 안정화합니다. 또한 CRMP2 단백질과 상호작용하는 것으로 알려져 있습니다.
 
-같은 나트륨 채널 차단 기전을 가진 다른 항경련제(lamotrigine, carbamazepine 등)는 이미 임상에서
-기분안정제(mood stabilizer)로 사용되고 있어, 기전상 유사한 방식으로 양극성장애에도 적용 가능할 수 있습니다.
-또한 Lacosamide는 CRMP-2 단백질과 결합하는데, 이 단백질은 신경가소성 및 여러 정신질환 병리와 관련이
-있다고 보고되어 있습니다(PMID 32693579). 다만 이는 추론적 연결이며 양극성장애에 특이적인 기전 증거는 아닙니다.
+항전간제는 1950년대부터 정신과에서 기분 안정제로 널리 쓰였습니다. Lamotrigine, carbamazepine 같은 나트륨 채널 작용 약물이 대표적입니다. 신경 과흥분을 낮추는 기전이 조증 증상 조절에도 관련될 수 있다는 것이 예측의 논리적 배경입니다.
 
-## 임상시험 근거
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT07412132](https://clinicaltrials.gov/study/NCT07412132) | Phase 3 | 모집 중 | 40 | 양극성장애 I/II형의 중등도~중증 주요우울 삽화에서 1차/2차 약물치료에 Lacosamide를 부가요법으로 추가했을 때의 효능·안전성·내약성을 평가하는 무작위·이중맹검·병렬군 시험. 관찰연구 및 개방표지 연구에서 우울/조증 증상 개선 가능성이 시사된 데 근거함 |
+그러나 이 연관성은 기전상의 추정일 뿐입니다. 조증 환자를 대상으로 한 임상시험은 없고, 직접 근거는 양극성장애 환자 대상 30일 후향 비교 연구와 양극성 우울증 12주 공개 라벨 파일럿 시험 정도입니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | 후향적 코호트 | Psychiatry Clin Neurosci | 뇌전증이 없는 양극성장애 환자 대상, 30일간 Lacosamide 효과를 다른 항경련제 치료군과 후향적으로 비교 |
-| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | 개방표지 파일럿 시험 | J Clin Psychopharmacol | 양극성 우울증에서 Lacosamide의 12주 개방표지 효능·안전성 평가 |
-| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | 증례 보고 | Acta Biomed | PTSD 및 전두측두엽 뇌전증 동반 기분장애 환자에서 Lacosamide로 임상적 안정화 달성 |
-| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | 증례 보고(이상반응) | Indian J Psychol Med | 양극성장애·뇌전증 동반 환자에서 Lacosamide로 유발된 호중구감소증 사례 |
-| [32693579](https://pubmed.ncbi.nlm.nih.gov/32693579/) | 2020 | 리뷰(기전) | ACS Chem Neurosci | CRMP2 단백질의 신경퇴행성/정신질환 치료 표적 가능성 고찰 (Lacosamide-CRMP2 결합 기전의 근거) |
-| [29253680](https://pubmed.ncbi.nlm.nih.gov/29253680/) | 2018 | 전향적 다기관 연구 | Epilepsy Behav | 국소발작 뇌전증 환자에서 Lacosamide가 우울·불안 증상에 미치는 영향 평가 |
-| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | 리뷰 | Ther Drug Monit | 항경련제의 치료약물모니터링 개관, 통증·양극성장애 등 타 적응증 활용 언급 |
-| [38304661](https://pubmed.ncbi.nlm.nih.gov/38304661/) | 2024 | 증례 보고 | Cureus | 뇌전증/비뇌전증발작 동반 양극성장애 I형 임신 환자의 복합 관리 사례 |
+| [30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/) | 2018 | 후향 코호트 | Psychiatry Clin Neurosci | 간질이 없는 양극성장애 환자에서 Lacosamide를 30일간 사용하고, 다른 항전간제를 쓴 후향 대조군과 비교 |
+| [33666402](https://pubmed.ncbi.nlm.nih.gov/33666402/) | 2021 | 공개 라벨 파일럿 시험 | J Clin Psychopharmacol | 양극성 우울증에서 Lacosamide의 효능과 안전성을 12주간 평가 (조증이 아닌 우울 삽화 대상) |
+| [29253680](https://pubmed.ncbi.nlm.nih.gov/29253680/) | 2018 | 전향 다기관 관찰 연구 | Epilepsy Behav | 난치성 국소 간질 환자에서 Lacosamide가 우울·불안 증상에 미치는 영향 평가 |
+| [28845834](https://pubmed.ncbi.nlm.nih.gov/28845834/) | 2017 | 증례 보고 | Acta Biomed | PTSD 및 전두-측두엽 간질을 동반한 기분장애 환자에서 Lacosamide로 임상적 안정화 |
+| [30275630](https://pubmed.ncbi.nlm.nih.gov/30275630/) | 2018 | 증례 보고 | Indian J Psychol Med | 양극성장애와 간질을 가진 환자에서 Lacosamide로 호중구감소증이 유발된 **안전성 신호** |
+| [29957667](https://pubmed.ncbi.nlm.nih.gov/29957667/) | 2018 | 리뷰 | Ther Drug Monit | 항전간제 약물농도 모니터링 업데이트. 일부 항전간제가 양극성장애에도 사용됨을 언급 |
+| [32693579](https://pubmed.ncbi.nlm.nih.gov/32693579/) | 2020 | 리뷰 | ACS Chem Neurosci | 신경퇴행성 질환에서 CRMP2의 약물 표적 가능성 (기전 배경) |
+| [26220372](https://pubmed.ncbi.nlm.nih.gov/26220372/) | 2015 | 전임상(동물) | Epilepsy Res | 내측 측두엽 간질 모델에서 Lacosamide가 발작간 극파와 고주파 진동을 조절 (조증과 직접 관련 없음) |
+
+## 한국 시판 정보
+
+허가 적응증 본문은 허가사항 링크로만 제공되어 요약하지 못했습니다. 아래 표의 링크에서 확인할 수 있습니다.
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201605711 | 라코정50밀리그램 | 필름코팅정 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605711/EE) |
+| 201700399 | 라코팻정50밀리그램 | 필름코팅정 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700399/EE) |
+| 201605342 | 빔스크정200밀리그램 | 필름코팅정 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605342/EE) |
+| 201901941 | 빔스크주 | 주사제 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901941/EE) |
+| 202000376 | 라코팻시럽 | 시럽제 | [허가사항 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000376/EE) |
+
+이 밖에 네오팻정(환인제약), 라사로틴정(고려제약) 등 총 18건이 허가되어 있습니다. 제형은 정제, 주사제, 시럽제입니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+허가사항의 경고·금기 본문은 이번 데이터에서 확보하지 못했으므로 허가사항을 직접 확인해야 합니다.
+
+- **지식그래프 기반 금기 연관 질환**(허가 문구가 아니라 TxGNN 지식그래프의 약물-질환 금기 연결 정보입니다):
+  - 심장 전도 및 부정맥 관련: 방실차단, 병적 동결절 증후군, 가족성 병적 동결절 증후군, 심방세동, 심방조동
+  - 심혈관·자율신경 관련: 관상동맥질환, 심근허혈, 기립저혈압, 체위성 기립빈맥 증후군, 다계통 위축증
+  - 장기 질환: 간 질환, 담낭 질환
+- **문헌상 안전성 신호**: 양극성장애 환자에서 Lacosamide로 호중구감소증이 유발된 증례 보고가 있습니다(PMID 30275630).
+- **약물 상호작용**: 조회된 상호작용은 총 25건이며, 아래는 그중 데이터에 표시된 20건입니다.
+  - 주요(Major): Dolasetron, Ceritinib, Siponimod
+  - 중등도(Moderate): Clarithromycin, Ethanol, Cobicistat, Chloroquine, Hydroxychloroquine, Mefloquine, Lidocaine, Ketoconazole, Pasireotide, Alectinib, Brigatinib, Crizotinib, Fingolimod, Idelalisib, Imatinib, Ozanimod, Sunitinib
 
 ## 결론 및 다음 단계
 
-**결정: Hold (Research Question 단계)**
+**결정: Hold**
 
 **사유:**
-가장 관련성 높은 3상 임상시험(NCT07412132)이 이제 막 모집을 시작한 소규모(n=40) 시험이며,
-그 외 근거는 후향적 코호트와 개방표지 파일럿 연구 수준(L3)에 그칩니다. 안전성 자료(경고, 금기, DDI)도
-전혀 확보되지 않은 상태(모두 [Data Gap]/not_found)라 임상 적용을 판단하기에는 이릅니다.
+TxGNN 점수는 매우 높지만 조증에 대한 임상시험이 없고, 직접 근거는 소규모 후향 연구와 증례 수준(L3)에 그칩니다. 호중구감소증 증례 같은 안전성 신호와 심장 전도 관련 금기 연결도 있어, 현 단계에서 진행을 권하기는 어렵습니다.
 
 **진행하려면 필요한 것:**
-- TFDA 사용상 주의사항/금기 확보 (data gap DG001, Blocking) — 미확보 시 S1 안전성 초기평가 자체가 불가
-- DrugBank MOA 상세 정보 확보 (data gap DG002)
-- NCT07412132 3상 시험 결과 발표 대기
-- 약물상호작용(DDI) 데이터베이스 재조회 (현재 query_status: not_found)
+- 조증 또는 양극성장애 환자를 대상으로 한 전향적 대조 임상시험 (현재 등록된 시험 없음)
+- 허가사항(MFDS)의 경고·금기 본문 확보 (현재 차단 수준의 데이터 공백)
+- 작용 기전 데이터 보강 및 기분 안정제(lamotrigine, carbamazepine 등)와의 비교 근거
+- 심장 전도, 혈액학적 이상(호중구감소증) 모니터링 계획
 
----
-
-**참고:** 이번 Evidence Pack에는 Lacosamide에 대해 10개의 예측 적응증이 포함되어 있는데,
-TxGNN 점수 순위(1위)와 별개로 **5순위 편두통(migraine disorder)**이 실제로는 가장 강한 근거를 보유하고 있습니다
-(L1 수준, 완료된 3상 RCT 다수 포함, 권장 결정 Proceed with Guardrails). 우선순위 재검토 시 참고하시기 바랍니다.
+**참고:** 같은 평가에서 **편두통(migraine disorder)**은 근거가 더 강합니다. 완료된 Phase 2 위약 대조 시험(NCT00440518, 218명), 완료된 Phase 3 시험(NCT05851781, propranolol 대비, 600명)과 이에 대응하는 RCT 논문(PMID 41863672)이 있습니다. 이 적응증은 별도 보고서로 우선 검토할 가치가 있습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -2,7 +2,7 @@
 layout: default
 title: Amikacin Sulfate
 parent: 모델 예측만 (L5)
-nav_order: 54
+nav_order: 56
 evidence_level: L5
 indication_count: 0
 ---

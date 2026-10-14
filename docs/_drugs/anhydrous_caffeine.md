@@ -2,7 +2,7 @@
 layout: default
 title: Anhydrous Caffeine
 parent: 모델 예측만 (L5)
-nav_order: 74
+nav_order: 76
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Ampicillin Sodium
 parent: 모델 예측만 (L5)
-nav_order: 70
+nav_order: 72
 evidence_level: L5
 indication_count: 0
 ---

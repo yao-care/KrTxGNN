@@ -2,7 +2,7 @@
 layout: default
 title: Rocuronium Bromide
 parent: 모델 예측만 (L5)
-nav_order: 611
+nav_order: 664
 evidence_level: L5
 indication_count: 0
 ---

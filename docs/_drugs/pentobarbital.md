@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Pentobarbital
-parent: 모델 예측만 (L5)
-nav_order: 542
-evidence_level: L5
+parent: 중등도 근거 (L3-L4)
+nav_order: 590
+evidence_level: L4
 indication_count: 10
 ---
 
 # Pentobarbital
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,85 +29,81 @@ indication_count: 10
 
 </div>
 
-# Pentobarbital: 진정·마취 바르비투르산염에서 불면증으로
+# Pentobarbital: 허가 적응증 미확인에서 불면증으로
 
 ## 한 문장 요약
 
-Pentobarbital은 GABA-A 수용체를 정방향 조절하는 전형적인 바르비투르산염 계열 약물로, 진정·최면·항경련 및 마취 유도 목적으로 오랫동안 사용되어 왔습니다.
-TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 것으로 예측했으나(예측 점수 99.9995%), 실제로는 이미 잘 알려진 이 약물의 기존 약리 특성이며, 현재 근거는 **관련 임상시험 0건**과 **동물/기전 연구 위주의 문헌 20편**(대부분 다른 천연물의 수면 효과를 측정할 때 pentobarbital을 "대조 도구"로 사용한 연구)에 그칩니다.
-
----
+Pentobarbital은 바르비투르산계 진정·최면제로, 한국에서는 앰플 주사제로 시판 중입니다. 다만 허가 적응증 본문은 이번에 확보되지 않았습니다.
+TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측하며, 관련 임상시험은 **1건**(효능 데이터 없음), 문헌은 **18편**(대부분 설치류 전임상 연구)입니다. 사람 대상 효능 근거는 없어 **근거 수준은 L4**에 그칩니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 자료 없음 (Evidence Pack 내 허가 정보 미기재, 국내 미시판) |
+| 기존 적응증 | 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 기재되어 있음) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 99.9995% |
-| 근거 수준 | L4 (전임상/기전 연구 수준) |
-| 한국 시판 현황 | 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Hold |
-
----
+| 근거 수준 | L4 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
+| 권장 결정 | Hold (연구 질문 단계) |
 
 ## 이 예측이 타당한 이유는?
 
-공식 DrugBank MOA 데이터는 현재 확보되지 않았습니다([Data Gap], DG002). 다만 Evidence Pack의 재창출 근거 텍스트에 따르면, Pentobarbital은 **GABA-A 수용체 정방향 조절제**로서 중추신경계를 비특이적으로 억제해 진정·수면 유도 효과를 나타내는 것으로 알려져 있습니다. 이는 교과서 수준으로 확립된 약리 기전입니다.
+현재 상세한 작용 기전 데이터는 데이터베이스에 등록되어 있지 않습니다. 일반적으로 알려진 바에 따르면 Pentobarbital은 바르비투르산계 약물로, GABA-A 수용체를 양성 조절해 염소 채널 개방 시간을 늘리고 진정·최면 효과를 냅니다. 이는 단기 불면증 치료와 생물학적으로 일치합니다.
 
-다만 중요한 점은, 이 예측이 **진짜 새로운 재창출 가설이 아니라는 것**입니다. Evidence Pack 자체가 명시하듯, 불면증에 대한 진정·수면 효과는 Pentobarbital의 **원래 약리 특성**이지 새롭게 발견된 적응증이 아닙니다. 실제로 검색된 문헌 대부분은 Pentobarbital 자체를 치료제로 연구한 것이 아니라, 다른 천연물·한약 성분의 수면 효과를 검증할 때 "Pentobarbital 유발 수면시험"의 **대조/도구 약물**로 사용한 연구들입니다. 즉, 근거의 양은 많아 보이지만 실질적으로 이 약물을 새 적응증에 재창출할 근거로서의 가치는 제한적입니다.
+바르비투르산계 약물은 과거에 수면제로 쓰였지만, 치료 지수가 좁고 내성·의존성·호흡억제·약물 상호작용 부담이 커서 벤조디아제핀계와 Z-drug으로 대체되었습니다. 따라서 예측 자체는 기전상 그럴듯하지만, 현재 표준 치료 대비 장점이 있다는 근거는 없습니다.
 
-또한 현대 임상에서는 치료역이 좁고 의존성·호흡억제 위험이 큰 바르비투르산염 대신 벤조디아제핀계·Z-drug이 불면증 표준 치료로 자리잡았다는 점도 고려해야 합니다.
-
----
+또한 검색된 문헌은 대부분 한약재·천연물의 수면 효과를 설치류에서 평가한 연구입니다. 여기서 Pentobarbital은 수면 유도 시험의 양성 대조 또는 도구로 쓰였을 뿐, 불면증 치료제로 평가된 것이 아닙니다.
 
 ## 임상시험 근거
 
-현재 관련 임상시험 등록이 없습니다.
-
----
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | N/A | 완료 | 3,520 | 표준 진료로 투여된 소아 대상 연구 미충족 약물의 약동학 관찰 연구. 불면증에 대한 효능 데이터 없음 |
 
 ## 문헌 근거
 
+모두 전임상 연구이며, 사람 대상 불면증 효능 연구는 없습니다. 대표 문헌은 다음과 같습니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [40023510](https://pubmed.ncbi.nlm.nih.gov/40023510/) | 2025 | 동물시험 | Sleep medicine | Icariin의 진정·최면 효과가 GABA 작용 경로를 통해 나타남을 확인 (Pentobarbital 자체 연구 아님) |
-| [39770888](https://pubmed.ncbi.nlm.nih.gov/39770888/) | 2024 | 동물시험 | Nutrients | 대추씨(Zizyphi Semen) 추출물이 GABA성 전달 조절을 통해 수면 질 개선, Pentobarbital 수면시험을 평가 도구로 사용 |
-| [36288650](https://pubmed.ncbi.nlm.nih.gov/36288650/) | 2023 | 네트워크 약리학/동물시험 | Phytomedicine | Sishen Wan(한약)의 불면증 신규 적응증 기전 규명, Pentobarbital은 평가 모델에 활용 |
-| [34509822](https://pubmed.ncbi.nlm.nih.gov/34509822/) | 2021 | 미분류(동물모델) | Biomedicine & Pharmacotherapy | 변형 Suanzaoren탕이 Orexin-A/HPA축 조절로 수면 유도, PCPA 유발 불면 마우스 모델 |
-| [38403005](https://pubmed.ncbi.nlm.nih.gov/38403005/) | 2024 | 미분류(동물모델) | Journal of Ethnopharmacology | Guhan Yangsheng Jing이 NLRP3/Caspase1/GSDMD 경로 통한 신경보호 및 수면 개선 |
-| [40493075](https://pubmed.ncbi.nlm.nih.gov/40493075/) | 2025 | 미분류(동물모델) | Psychopharmacology | Ginsenoside Rg1이 Nrf2/HO-1 경로로 PCPA 유발 불면 완화 |
-| [32240473](https://pubmed.ncbi.nlm.nih.gov/32240473/) | 2020 | 미분류(동물모델) | Chinese J Integrative Medicine | Polygala tenuifolia의 고령 불면 랫드 모델 진정·최면 효과 및 전사체 분석 |
-| [40347763](https://pubmed.ncbi.nlm.nih.gov/40347763/) | 2025 | 미분류(동물모델) | J Pharm Biomed Analysis | Yiyin Anshen 과립의 진정·최면 효과; Pentobarbital sodium 유발 수면시험을 평가 방법으로 직접 사용 |
-| [40354840](https://pubmed.ncbi.nlm.nih.gov/40354840/) | 2025 | 미분류(동물모델) | Journal of Ethnopharmacology | Jujuboside A가 PVT의 GABA성 조절을 통해 불면 개선 |
-| [30344286](https://pubmed.ncbi.nlm.nih.gov/30344286/) | 2018 | 미분류(동물모델) | Medicina (Kaunas) | Lagenaria vulgaris/Cucurbita pepo 추출물의 수면 연장 효과, Pentobarbital 유발 수면 및 flumazenil/naloxone 길항시험으로 기전 규명 |
+| [34509822](https://pubmed.ncbi.nlm.nih.gov/34509822/) | 2021 | 전임상(마우스) | Biomed Pharmacother | 가미 산조인탕이 Orexin-A·HPA 축 조절로 불면증 모델 마우스에서 수면 개선 |
+| [40354840](https://pubmed.ncbi.nlm.nih.gov/40354840/) | 2025 | 전임상(마우스) | J Ethnopharmacol | Jujuboside A가 GABA 계 조절로 불면증 개선 |
+| [40493075](https://pubmed.ncbi.nlm.nih.gov/40493075/) | 2025 | 전임상(동물) | Psychopharmacology | Ginsenoside Rg1이 NLRP3/Nrf2/HO-1 경로로 PCPA 유발 불면증 완화 |
+| [40367689](https://pubmed.ncbi.nlm.nih.gov/40367689/) | 2025 | 전임상(랫드) | Int Immunopharmacol | Cinnamic acid가 PCPA 유발 불면증 랫드에서 수면 촉진 |
+| [40023510](https://pubmed.ncbi.nlm.nih.gov/40023510/) | 2025 | 전임상 | Sleep Med | Icariin의 GABA 계 경로를 통한 진정·최면 효과 |
+| [39770888](https://pubmed.ncbi.nlm.nih.gov/39770888/) | 2024 | 전임상(설치류) | Nutrients | 산조인이 GABA 전달 조절로 설치류 수면의 질 개선 |
+| [32240473](https://pubmed.ncbi.nlm.nih.gov/32240473/) | 2020 | 전임상(랫드) | Chin J Integr Med | 원지가 고령 불면증 랫드에서 진정·최면 효과 |
 
-> ⚠ 위 문헌 대부분은 **Pentobarbital 자체의 불면증 치료 효능을 검증한 연구가 아니라**, 다른 물질의 수면 유도 효과를 측정할 때 Pentobarbital을 실험 도구(양성 대조군)로 사용한 연구입니다. 이는 이미 확립된 Pentobarbital의 약리학적 특성을 재확인하는 정도의 근거이며, "새로운 적응증"을 지지하는 직접 증거로 보기 어렵습니다.
+## 한국 시판 정보
 
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 198802975 | 엔토발주100밀리그램(펜토바르비탈나트륨) | 무색 액이 든 무색 투명한 앰플제 | 적응증 본문 미확인 (허가증에 문서 링크만 기재) |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
-
-> ⚠ 참고: 본 Evidence Pack에서는 **주요 경고, 금기, DDI 정보가 모두 확보되지 않았으며**(DG001, Blocking 등급), 이는 안전성 초기 평가(S1) 진행 자체를 막는 수준의 데이터 공백입니다. 실제 검토 진행 전 TFDA/허가사항 원문 확보가 필수입니다.
-
----
+- **약물 상호작용**: 데이터베이스에서 총 100건이 확인되었으며, 이 중 일부만 제시됩니다.
+  - **Major**: Morphine (중추신경 억제 및 호흡억제 위험 가중 가능성에 유의)
+  - **Moderate**: Doxycycline, Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone, Bupropion, Aprepitant, Metronidazole, Cholecalciferol, Calcifediol, Calcitriol, Canagliflozin, Saxagliptin, Linagliptin, Dronabinol, Nabilone, Eliglustat 등
+  - **Minor**: Pyridoxine, Cimetidine
+- 그 밖의 경고·금기 정보는 허가사항을 참조하세요. 바르비투르산계 약물의 일반적 한계(의존성, 과량 투여 위험, 호흡억제)에 유의해야 합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-불면증 예측은 Pentobarbital의 **기존에 이미 알려진 약리 특성**을 재확인하는 수준이며, 실제 재창출 가설로서의 신규성이 낮습니다. 또한 뒷받침 근거가 대부분 동물/기전 연구이고 관련 인체 임상시험이 전무하며(임상시험 0건), 무엇보다 허가사항(경고·금기) 자료가 Blocking 등급으로 누락되어 있어 안전성 초기 평가조차 진행할 수 없는 상태입니다.
+불면증 예측은 GABA-A 기전상 타당하지만, 사람 대상 효능 근거가 없고 문헌은 Pentobarbital을 도구로 쓴 전임상 연구뿐입니다. 의존성, 과량 투여 위험, 많은 약물 상호작용 때문에 현행 최면제 대비 우위를 입증하기 전에는 재창출 이점이 불분명합니다.
+
+**참고 (다른 예측 적응증):** 수면 개시·유지 장애는 불면증과 사실상 같은 적응증으로 L4입니다. 일과성 허혈 발작과 주요 정동장애도 간접 근거뿐인 L4이며 Hold입니다. 조증 양극성 장애는 1964년 보고만 있어 L4(Hold)입니다. 비만, 비타민 과잉증, 16p11.2 근위부 미세결실 증후군, 안와간격과대증, 전비증은 L5로 타당한 기전이나 근거가 없는 모델 예측으로 보이며 Hold입니다.
 
 **진행하려면 필요한 것:**
-- TFDA/식약처 허가사항(경고·금기) 원문 확보 — DG001 (Blocking)
-- DrugBank 등 공식 MOA 자료 확보 — DG002 (High)
-- 불면증에 대한 실제 인체 대상 임상시험 자료 확보 (현재 없음)
-- 국내 허가/시판 현황 재확인 (현재 미시판, 허가증 0건)
-- 벤조디아제핀·Z-drug 대비 치료적 차별점 및 안전역 재평가
+- 허가 적응증 본문과 경고·금기 정보 확보 (허가사항 PDF 분석)
+- 작용 기전 데이터 보완 (DrugBank 등)
+- 불면증에서 Pentobarbital 자체를 평가한 사람 대상 임상 근거의 체계적 검토
+- 현행 최면제 대비 임상적 이점과 안전성 우위에 대한 타당성 논증
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

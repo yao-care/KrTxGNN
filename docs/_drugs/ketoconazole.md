@@ -2,7 +2,7 @@
 layout: default
 title: Ketoconazole
 parent: 모델 예측만 (L5)
-nav_order: 416
+nav_order: 448
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,64 +29,86 @@ indication_count: 1
 
 </div>
 
-# Ketoconazole: 항진균 적응증에서 여드름(Acne)으로
+# Ketoconazole: 피부 진균증에서 여드름으로
 
 ## 한 문장 요약
 
-Ketoconazole은 이미다졸계 항진균제입니다. TxGNN 모델은 **여드름(Acne)**에 효과가 있을 수 있다고 예측하며, 현재 **1건의 진행 중인 임상시험**과 **15편의 문헌**(주로 기전 연구·관찰 연구)이 이 방향을 뒷받침하고 있으나, 확증적 RCT는 아직 없습니다.
+Ketoconazole은 아졸계 항진균제로, 한국에서 백선, 피부칸디다증, 어루러기, 지루피부염 등 피부 진균증 치료에 사용되어 왔습니다.
+TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하며, 현재 **1건의 임상시험**(Phase 구분 없음, 진행 중)과 **14편의 문헌**이 이 방향과 관련되어 있으나 대부분 간접 근거입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 자료 없음 (원 적응증 정보 미제공, 일반적으로 항진균제로 알려짐) |
-| 예측 신규 적응증 | 여드름 (Acne) |
+| 기존 적응증 | 백선(체부백선, 완선, 족부백선), 피부칸디다증, 어루러기, 지루피부염 등 피부 진균증 |
+| 예측 신규 적응증 | 여드름 (acne) |
 | TxGNN 예측 점수 | 99.80% |
-| 근거 수준 | L3 (관찰 연구/기전 연구 수준) |
-| 한국 시판 현황 | ✗ 미판매 (허가 없음) |
-| 허가증 수 | 0건 |
+| 근거 수준 | L4 (전임상·기전 연구 수준의 근거만 있음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Ketoconazole은 이미다졸계 항진균제로, CYP450 효소(lanosterol 14α-demethylase 및 부신/성선 스테로이드 합성효소)를 억제합니다. 이 작용은 여드름과 두 가지 경로로 연결될 수 있습니다: (1) 피부 국소적으로 Malassezia(Pityrosporum) furfur를 억제하여, 흔히 심상성 여드름과 혼동되거나 동반되는 진균성 모낭염을 개선할 가능성, (2) 전신 투여 시 부신·성선의 스테로이드 생성을 억제해 안드로겐/코르티솔 농도를 낮춤으로써 고안드로겐 관련 여드름(PCOS, Cushing 증후군 동반 여드름 등)에 이론적 이점이 있을 가능성입니다.
+현재 허가사항 기반의 상세한 작용 기전 데이터는 본 보고서용 자료에 포함되어 있지 않습니다. 다만 알려진 정보에 따르면 Ketoconazole은 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하는 아졸계 항진균제입니다. 고용량에서는 사람의 스테로이드 합성 효소(CYP17A1, CYP11A1)도 억제하여 안드로겐 합성을 낮출 수 있습니다.
 
-다만 두 경로 모두 기전상으로는 타당하지만, 근거 강도와 적응증 정의(진균성 모낭염 vs. 심상성 여드름)가 완전히 일치하지는 않습니다. 또한 경구 ketoconazole은 심각한 간독성 및 QT 연장 위험이 알려져 있어, 효익 추론에 앞서 안전성 재평가가 우선되어야 합니다.
+국소 투여 시에는 Malassezia(Pityrosporum) 집락을 줄여 모낭 염증을 완화할 수 있으며, 이것이 여드름 또는 여드름 유사 발진에 기여할 가능성이 있습니다. 또한 피지가 많은 부위에 생기는 지루피부염에 이미 사용되고 있다는 점도 간접적인 타당성을 더합니다. 실험실 연구에서는 Ketoconazole이 여드름의 원인균인 *P. acnes*의 성장과 리파제 활성을 억제한다고 보고되었습니다.
+
+다만 TxGNN 점수(0.998)는 컴퓨터 예측일 뿐 임상 근거가 아닙니다. 전신 투여는 간독성, 부신 억제 위험, 그리고 CYP3A4 억제에 따른 많은 약물 상호작용으로 제한됩니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT07237763](https://clinicaltrials.gov/study/NCT07237763) | NA (연구자 주도) | 진행 중 (신규 모집 없음) | 52 | 경증 면포성·구진농포성 여드름에서 외용 ketoconazole 2% 크림과 adapalene 2% 크림의 효능을 비교, ketoconazole이 부작용이 적고 순응도가 높은 레티노이드 대체제가 될 수 있는지 평가 중 (결과 미공개) |
+| [NCT07237763](https://clinicaltrials.gov/study/NCT07237763) | 해당 없음(NA) | 진행 중(모집 종료) | 52 | 경증 면포성·구진농포성 여드름에서 2% Ketoconazole 크림과 2% Adapalene 크림을 비교하는 무작위 대조시험. 아직 결과는 공개되지 않았습니다. |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [33216275](https://pubmed.ncbi.nlm.nih.gov/33216275/) | 2021 | RCT (SONICS 3상 하위분석) | Pituitary | Levoketoconazole이 Cushing 증후군 환자의 임상 징후·증상 및 환자보고결과를 개선 |
-| [28111792](https://pubmed.ncbi.nlm.nih.gov/28111792/) | 2017 | 실험연구 (in vitro) | Microbiology and Immunology | Ketoconazole이 여드름 원인균 P. acnes의 리파아제 활성을 억제, 항생제 대체 가능성 시사 |
-| [20045949](https://pubmed.ncbi.nlm.nih.gov/20045949/) | 2010 | 실험연구 (in vitro) | Biological & Pharmaceutical Bulletin | 여드름 환자 유래 P. acnes에 대한 azole계 항진균제의 시험관 내 항균 활성 평가 |
-| [12566804](https://pubmed.ncbi.nlm.nih.gov/12566804/) | 2003 | Review | Dermatology (Basel) | 중등도~중증 여드름의 전신 치료 옵션 개관, 항생제 내성 문제 언급 |
-| [8593718](https://pubmed.ncbi.nlm.nih.gov/8593718/) | 1995 | 관찰 연구 (증례군) | Clinical and Experimental Dermatology | 여드름으로 오진되기 쉬운 Pityrosporum 모낭염 62례 분석 및 치료 경과 |
-| [8090657](https://pubmed.ncbi.nlm.nih.gov/8090657/) | 1993 | Cohort | Polski Tygodnik Lekarski | PCOS 고안드로겐혈증에서 호르몬 병용요법으로 여드름·다모증 감소 |
-| [19445767](https://pubmed.ncbi.nlm.nih.gov/19445767/) | 2009 | Review | BMJ Clinical Evidence | 다낭성난소증후군(PCOS) 개관, 여드름 등 동반 증상 기술 |
-| [8255067](https://pubmed.ncbi.nlm.nih.gov/8255067/) | 1993 | Review | The Keio Journal of Medicine | Pityrosporum ovale와 관련 피부질환(모낭염, 지루피부염 등) 개관 |
-| [8629828](https://pubmed.ncbi.nlm.nih.gov/8629828/) | 1996 | Case Report | Archives of Dermatology | 신생아 Malassezia furfur 농포증과 신생아 여드름의 연관성 보고 |
-| [23600337](https://pubmed.ncbi.nlm.nih.gov/23600337/) | 2013 | Review | FP Essentials | 영유아 흔한 피부발진(신생아 여드름 포함) 개관 |
+| [28111792](https://pubmed.ncbi.nlm.nih.gov/28111792/) | 2017 | 기전(in vitro) 연구 | Microbiol Immunol | Ketoconazole이 *P. acnes* 리파제 활성과 성장을 억제하여 항생제 내성 시대의 대안이 될 수 있음을 시사 |
+| [20045949](https://pubmed.ncbi.nlm.nih.gov/20045949/) | 2010 | 기전(in vitro) 연구 | Biol Pharm Bull | 여드름 환자에서 분리한 *P. acnes*에 대한 아졸계 항진균제의 시험관 내 활성 평가 |
+| [8593718](https://pubmed.ncbi.nlm.nih.gov/8593718/) | 1995 | 임상 관찰 | Clin Exp Dermatol | Pityrosporum 모낭염은 여드름으로 오진되는 경우가 많으며, 62명 환자에서 진단 및 치료 시도를 평가 |
+| [12566804](https://pubmed.ncbi.nlm.nih.gov/12566804/) | 2003 | Review | Dermatology | 중등도~중증 여드름의 전신 치료 현황과 전망 |
+| [8255067](https://pubmed.ncbi.nlm.nih.gov/8255067/) | 1993 | Review | Keio J Med | Pityrosporum ovale가 지루피부염, 어루러기 등 피부질환과 연관됨 |
+| [8629828](https://pubmed.ncbi.nlm.nih.gov/8629828/) | 1996 | Case report | Arch Dermatol | 신생아 구진농포성 발진(신생아 여드름으로 불림)과 Malassezia furfur 감염의 연관성 시사 |
+
+위 문헌은 대부분 간접 근거이며, 여드름에 대한 Ketoconazole의 효능을 직접 입증한 무작위 대조시험은 없습니다. 이 밖에 다낭성 난소 증후군, 영아 피부 발진 등을 다룬 문헌이 포함되어 있으나 관련성이 낮아 생략했습니다.
+
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 199301086 | 태극케토코나졸크림 | 크림제 | 백선(체부백선, 완선, 족부백선), 피부칸디다증, 어루러기, 지루피부염의 피부진균증 |
+| 199702130 | 니트나졸크림 | 크림제 | 백선(체부백선, 완선, 족부백선), 피부칸디다증, 어루러기, 지루피부염의 피부진균증 |
+| 199600829 | 비가졸액 | 액제 | 효모균에 의한 피부질환(비듬, 지루피부염, 어루러기) |
+| 201802157 | 니조랄2%액 | 액제 | 효모균에 의한 비듬, 지루피부염의 치료와 재발방지 및 어루러기의 치료 |
+| 199602425 | 케스나졸크림 | 크림제 | 백선, 피부칸디다증, 어루러기, 지루피부염 등의 피부진균증 |
+
+이 외에도 수출용 정제·크림·액제 등 다수의 허가가 있으며, 총 20건이 유효합니다. 국내 허가 제품은 주로 외용제(크림, 액)이며 모두 단일 성분제입니다.
+
+## 안전성 고려사항
+
+- **주요 경고·금기**: 허가사항의 경고 및 금기 내용은 본 보고서용 자료에 포함되어 있지 않으므로 허가사항을 참조하세요.
+- **지식 그래프상 금기 관련 질환**: QT 연장 증후군(가족성 포함), torsades de pointes, 간질환, 담낭질환, 부신 피질 기능부전(애디슨병), 피부 위축, 말초혈관질환, 무산증 등이 금기와 연관되어 있습니다. 이는 지식 그래프에서 도출된 정보이며 허가 라벨 문구가 아닙니다.
+- **약물 상호작용**: 총 100건이 확인되었습니다(CYP3A4 억제가 주요 원인). 예시는 다음과 같습니다.
+  - **Major**: Loperamide, Triamcinolone, Budesonide
+  - **Moderate**: Famotidine, Ranitidine, Omeprazole, Rabeprazole, Dexamethasone, Hydrocortisone, Aprepitant, Pioglitazone, Alosetron 등
+  - **Minor**: Amphotericin B
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-현지 허가 자료가 없어(Not marketed, 허가증 0건) 안전성 초평가(S1)를 진행할 수 없으며(DG001, Blocking), 근거 수준도 L3(관찰·기전 연구)에 그치고 여드름 적응증을 직접 검증하는 임상시험은 아직 소규모·비정식 단계(NCT07237763)입니다. 경구 ketoconazole의 알려진 간독성·QT 연장 위험을 고려하면 지금 단계에서 진행을 권고하기 어렵습니다.
+여드름에 대한 직접적인 임상 근거가 없고, 유일한 임상시험(NCT07237763)은 소규모이며 결과가 공개되지 않았습니다. 문헌은 대부분 시험관 내 연구와 간접 근거이고, 높은 TxGNN 점수는 컴퓨터 예측일 뿐입니다. 또한 전신 투여 시 간독성과 많은 약물 상호작용 위험이 있어, 국소 제형으로 한정한 검증이 우선입니다.
 
 **진행하려면 필요한 것:**
-- TFDA(또는 해당 관할 규제기관) 공식 라벨의 경고/금기 정보 확보 (DG001 해소)
-- DrugBank API를 통한 정확한 작용기전(MOA) 확인 (DG002 해소)
-- NCT07237763 결과 발표 대기 및 후속 확증적 RCT 확인
-- 국소(외용) vs 전신 투여 경로별 안전성·효능 데이터 구분 확보
-- 간독성 및 QT 연장 위험에 대한 별도 안전성 평가
+- NCT07237763 시험 결과 확인 (2% Ketoconazole 크림 vs Adapalene 크림)
+- 여드름에 대한 국소 Ketoconazole의 추가 무작위 대조시험 또는 체계적 문헌고찰
+- 허가사항(경고·금기) 확보 및 안전성 검토
+- 작용 기전 데이터 보완 (DrugBank 등)
+- 국소 제형으로 한정할지 여부 결정 (전신 투여는 간독성·부신 억제·상호작용 위험으로 부적합 가능성이 큼)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -2,7 +2,7 @@
 layout: default
 title: Theophylline
 parent: 모델 예측만 (L5)
-nav_order: 673
+nav_order: 732
 evidence_level: L5
 indication_count: 7
 ---
@@ -29,29 +29,29 @@ indication_count: 7
 
 </div>
 
-# Theophylline: 호흡기 질환(기관지확장제)에서 혈전성 질환(Thrombotic Disease)으로
+# Theophylline: 기도질환 치료제에서 혈전성 질환으로
 
 ## 한 문장 요약
 
-Theophylline은 잔틴계 기관지확장제로 전통적으로 천식·COPD 등 호흡기 질환에 사용되어 온 약물입니다. TxGNN 모델은 이번 candidate에서 **혈전성 질환(Thrombotic Disease)**을 1순위로 예측(99.62%)했지만, 관련 임상시험은 전무하고 인용된 문헌 19편 중 대부분이 항혈전 기전과 무관한 것으로 분석되어 **위양성 가능성이 높은 예측**입니다.
+Theophylline은 기관지확장 작용을 하는 크산틴계 약물로, 일반적으로 천식과 만성 폐쇄성 폐질환 같은 기도질환 치료에 사용됩니다. TxGNN 모델은 **혈전성 질환(thrombotic disease)**에 효과가 있을 수 있다고 예측합니다(점수 99.62%). 그러나 이 적응증을 직접 검증한 **임상시험은 0건**이고, 검색된 **문헌 18편**도 혈전 치료에 대한 theophylline의 효과를 시험한 연구가 아닙니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 구조화된 데이터 없음 (Data Gap — 일반적으로 기관지천식·COPD 치료제로 알려짐) |
+| 기존 적응증 | 기도질환(천식·COPD 등, 일반적 용도). 한국 허가 적응증 원문은 링크로만 제공되어 본문을 확인하지 못했습니다. |
 | 예측 신규 적응증 | 혈전성 질환 (Thrombotic Disease) |
-| TxGNN 예측 점수 | 99.62% (rank 7046) |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | 미상시 (Not marketed) |
-| 허가증 수 | 0건 |
+| TxGNN 예측 점수 | 99.62% |
+| 근거 수준 | L5 (모델 예측만 있음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터가 없습니다(Data Gap — DG002). Theophylline의 기존 적응증 정보 역시 구조화된 데이터로 제공되지 않았습니다(Data Gap).
+현재 상세한 작용 기전 데이터는 이 보고서용으로 수집된 자료에 없습니다. 알려진 정보에 따르면 theophylline은 비선택적 포스포디에스테라제(PDE) 억제제이자 아데노신 수용체 길항제입니다.
 
-Evidence Pack에 포함된 자체 분석(repurposing_rationale)에 따르면, 이번 예측에는 **직접적인 기전적 연관 증거가 없습니다.** 인용된 19편의 문헌은 대부분 (1) 다른 항혈소판제(ticlopidine)의 약동학 연구, (2) 혈소판 활성 바이오마커 측정 방법론 연구, (3) theophylline 검출용 바이오센서 개발 연구 등으로, theophylline의 실제 항혈전 임상 효과와는 관련이 없습니다. 즉 KG 모델의 그래프 구조상 유사성에 의한 **위양성(false positive) 가능성이 높은 케이스**로 평가됩니다.
+PDE를 억제하면 혈소판 내 cAMP가 올라갑니다. 이론상 혈소판 응집이 줄 수 있어 혈전성 질환과 기전상 연결될 수 있습니다. 다만 이 연결은 약하고 간접적입니다. 기도질환과 혈전성 질환은 임상적 연관성이 크지 않아, 높은 예측 점수는 지식 그래프 기반의 계산적 추정으로 보는 것이 적절합니다.
 
 ## 임상시험 근거
 
@@ -59,55 +59,51 @@ Evidence Pack에 포함된 자체 분석(repurposing_rationale)에 따르면, �
 
 ## 문헌 근거
 
+검색된 문헌은 대부분 혈소판 바이오마커, 검체 처리, 분석법에 관한 것입니다. theophylline을 혈전성 질환 치료에 시험한 연구는 없습니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [8055680](https://pubmed.ncbi.nlm.nih.gov/8055680/) | 1994 | Review (무관 약물) | Clinical Pharmacokinetics | Ticlopidine의 약동학 리뷰 — theophylline과 무관 |
-| [21719422](https://pubmed.ncbi.nlm.nih.gov/21719422/) | 2011 | 관찰 연구 | Rheumatology | Behçet's disease 환자의 혈소판·호중구 활성화 — theophylline 미언급 |
-| [6771102](https://pubmed.ncbi.nlm.nih.gov/6771102/) | 1980 | Review | CRC Crit Rev Biochem | Prostaglandin/혈소판/죽상경화증 일반 기전 리뷰 |
-| [32824700](https://pubmed.ncbi.nlm.nih.gov/32824700/) | 2020 | 방법론 연구 | Cells | 혈액 microRNA 시그니처 정량 방법론 — theophylline 미관련 |
-| [15475744](https://pubmed.ncbi.nlm.nih.gov/15475744/) | 2004 | 관찰 연구 | Inflammatory Bowel Diseases | IBD 환자의 혈소판-백혈구 응집체 형성 |
-| [25856065](https://pubmed.ncbi.nlm.nih.gov/25856065/) | 2015 | 방법론 연구 | Platelets | sCLEC-2 바이오마커 측정법 개발 |
-| [749930](https://pubmed.ncbi.nlm.nih.gov/749930/) | 1978 | 방법론 연구 | Br J Haematol | 혈소판 인자4(PF4) 방사면역측정 — theophylline은 채혈시 항응고 보조제로만 언급 |
-| [197665](https://pubmed.ncbi.nlm.nih.gov/197665/) | 1977 | Review | Stroke | 뇌졸중 관련 뇌부종 리뷰 — theophylline 미관련 |
-| [29254574](https://pubmed.ncbi.nlm.nih.gov/29254574/) | 2018 | 분석화학 (바이오센서) | Analytica Chimica Acta | Theophylline 검출용 금나노입자 전기화학 센서 개발 — 치료 효과와 무관 |
-| [29956444](https://pubmed.ncbi.nlm.nih.gov/29956444/) | 2018 | 기초 연구 | J Thromb Haemost | Weibel-Palade body 분비과립 방출 조절 기전 연구 |
-
-> 위 10편 모두 theophylline의 항혈전 임상 효과를 직접 지지하지 않습니다.
+| [8055680](https://pubmed.ncbi.nlm.nih.gov/8055680/) | 1994 | Review | Clin Pharmacokinet | 항혈소판제 ticlopidine의 약동학 고찰(theophylline 직접 연구 아님) |
+| [6771102](https://pubmed.ncbi.nlm.nih.gov/6771102/) | 1980 | Review | CRC Crit Rev Biochem | 프로스타글란딘, 혈소판, 죽상경화의 관계. 프로스타사이클린이 혈소판 아데닐산 고리화효소를 자극해 응집을 억제함 |
+| [8981060](https://pubmed.ncbi.nlm.nih.gov/8981060/) | 1996 | 미분류 | Gen Pharmacol | milrinone과 아데노신이 cAMP를 높여 인체 혈소판 반응을 억제함(기전적 참고, theophylline 아님) |
+| [4776567](https://pubmed.ncbi.nlm.nih.gov/4776567/) | 1973 | 미분류 | Minerva Cardioangiol | theophylline 유도체(nicotinate)의 만성 폐쇄성 말초동맥질환 치료 관련 보고(초록 없음) |
+| [5136470](https://pubmed.ncbi.nlm.nih.gov/5136470/) | 1971 | 미분류 | Cardiologia Pratica | theophylline 유도체의 뇌·말초 혈관병증 환자 심혈관 효과(초록 없음) |
+| [5605983](https://pubmed.ncbi.nlm.nih.gov/5605983/) | 1967 | 미분류 | Ann Ottalmol Clin Ocul | theophylline nicotinate의 망막 혈관질환 효과를 망막전위도로 평가(초록 없음) |
+| [6241135](https://pubmed.ncbi.nlm.nih.gov/6241135/) | 1984 | 미분류 | Cor Vasa | 심근경색·혈전정맥염 환자에서 theophylline 저항성 T세포 증가 |
+| [19897460](https://pubmed.ncbi.nlm.nih.gov/19897460/) | 2010 | 미분류 | Heart | 관상동맥질환 환자에서 허혈이 운동 시 혈소판 반응성 증가를 완화함 |
+| [749930](https://pubmed.ncbi.nlm.nih.gov/749930/) | 1978 | 미분류 | Br J Haematol | 혈소판 인자 4 측정법. theophylline은 채혈 항응고 용액의 성분일 뿐 치료 목적이 아님 |
+| [29254574](https://pubmed.ncbi.nlm.nih.gov/29254574/) | 2018 | 분석법 | Anal Chim Acta | theophylline 검출용 전기화학 앱타센서 개발 |
 
 ## 한국 시판 정보
 
-Theophylline은 현재 한국(등록 기준) 미상시 상태이며, 허가 정보가 존재하지 않습니다.
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200704931 | 데올론건조시럽20%(수출용) (코오롱제약) | 건조시럽제 | [허가 원문 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704931/EE) 참조 |
+| 200302202 | 데오크레건조시럽20% (알보젠코리아) | 건조시럽제 | [허가 원문 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302202/EE) 참조 |
+
+두 제품 모두 단일제이며 현재 유효한 허가입니다.
 
 ## 안전성 고려사항
 
-TFDA 허가사항 데이터(Data Gap — DG001, Blocking)가 확보되지 않아 안전성 초기 평가(S1)를 진행할 수 없습니다. 주요 경고, 금기, 약물 상호작용 정보 모두 미제공 상태입니다.
+- **약물 상호작용**: 이번에 조회된 상호작용은 총 100건이며, 그중 일부만 상세 목록으로 제공되었습니다.
+  - **Major**: Bupropion
+  - **Moderate**: Famotidine, Ranitidine, Cimetidine, Omeprazole, Rabeprazole, Clarithromycin, Doxycycline, Tetracycline, Minocycline, Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone, Budesonide, Picosulfuric acid, Polyethylene glycol (전해질 포함), Activated charcoal
+  - **Minor**: Ephedrine (경구·비강)
+- **지식 그래프상 금기 관련 질환**(허가 문구가 아닌 모델 지식 그래프 기준): 고혈압, 간부전·간질환, 간질(뇌전증), 불안장애, 정신병적 장애, 포르피린증, 신장질환, 담낭질환, 혈소판감소증, 호중구감소증·무과립구증, 갑상선기능저하증, 소화성 궤양, 개방각 녹내장, 당뇨병·당뇨병성 케톤산증, 양성 전립선 비대증 등.
+- Theophylline은 치료역이 좁고 CYP1A2 관련 상호작용이 많습니다. 비중증 질환이나 혈전 예방 목적으로 사용하려면 이 위험을 고려해야 합니다. 허가사항의 경고·금기는 허가 원문에서 별도로 확인해야 합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 높지만 임상시험 근거가 전무하고, 인용 문헌 대부분이 항혈전 기전과 무관해 위양성 가능성이 높습니다. 또한 국내 미상시 약물로 허가사항·안전성 데이터가 없어 안전성 초기평가(S1)조차 진입할 수 없는 상태입니다.
+혈전성 질환에 대해 임상시험이 없고 문헌도 이 용도를 직접 검증하지 않아 근거는 모델 예측에 그칩니다(L5). 혈소판 cAMP 상승이라는 기전적 연결은 약하며, 좁은 치료역과 높은 상호작용 부담이 이 가설의 부담을 키웁니다.
 
 **진행하려면 필요한 것:**
-- TFDA(또는 MFDS) 허가사항 확보 (경고/금기) — DG001 (Blocking)
-- DrugBank 작용기전(MOA) 데이터 확보 — DG002 (High)
-- 혈전성 질환에 대한 직접적 기전 연구(전임상) — 현재 근거는 방법론/무관 약물 연구뿐
-- 국내 시판 여부 및 허가 경로 재검토
-
----
-
-### 부록: 같은 Candidate 내 상대적으로 근거가 더 강한 예측
-
-이 candidate에는 rank 1 외에도 theophylline 자체의 기관지평활근 이완 기전과 직접 연결되는 예측이 포함되어 있어 참고용으로 병기합니다.
-
-| Rank | 적응증 | 근거 수준 | 권장 | 비고 |
-|------|--------|----------|------|------|
-| 4 | Tracheal disease | L3 | Research Question | 기도 평활근 이완 전임상 다수 + 견종 기관 허탈 후향적 연구 |
-| 5 | Obstructive lung disease | pending (실질적으로 매우 풍부) | — | COPD/천식 Phase 2-4 RCT 다수(NCT02261727, NCT03984188 등) — theophylline의 **기존** 용도와 사실상 중복 가능성 있음, 원 적응증 데이터 확인 필요 |
-| 6 | Pharyngitis | L4 | Hold | 간접적, macrolide 병용 문헌 위주 |
-
-rank 5(obstructive lung disease)는 evidence가 가장 풍부하지만 original_indications 필드가 비어 있어 "신규 예측"인지 "기존 적응증 재확인"인지 구분이 안 됩니다. 원 적응증 데이터(Data Gap)를 먼저 보완하는 것이 candidate 전체의 재평가에 필요합니다.
+- theophylline의 혈소판 응집·혈전 형성에 대한 전임상 및 소규모 임상 근거
+- 한국 허가 원문에서 적응증, 경고, 금기 확인
+- 상세 작용 기전 데이터 확보 및 기존 항혈전제 대비 이점 평가
+- 참고: 같은 모델이 예측한 **폐쇄성 폐질환**은 근거 수준이 L1이지만 이미 확립된 기존 용도에 가까워 신규 재창출 후보로 보기는 어렵습니다. 알레르기성 비염(비강 질환)은 Phase 2 시험 1건과 소규모 연구가 있어 별도 검토 대상입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

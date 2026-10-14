@@ -2,7 +2,7 @@
 layout: default
 title: Atovaquone
 parent: 모델 예측만 (L5)
-nav_order: 99
+nav_order: 101
 evidence_level: L5
 indication_count: 0
 ---

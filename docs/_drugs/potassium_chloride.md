@@ -2,7 +2,7 @@
 layout: default
 title: Potassium Chloride
 parent: 모델 예측만 (L5)
-nav_order: 566
+nav_order: 617
 evidence_level: L5
 indication_count: 1
 ---
@@ -29,105 +29,87 @@ indication_count: 1
 
 </div>
 
-# Potassium Chloride: 저칼륨혈증 전해질 보충에서 신세뇨관성 산증으로
+# Potassium Chloride: 저칼륨혈증 교정에서 신세뇨관 산증으로
 
 ## 한 문장 요약
 
-Potassium Chloride(염화칼륨)는 저칼륨혈증 교정에 사용되는 전해질 보충제입니다.
-TxGNN 모델은 **신세뇨관성 산증(Renal Tubular Acidosis)**에 효과가 있을 것으로 예측했으나(예측 점수 **99.87%**),
-검토된 **9건의 임상시험**과 **20편의 문헌** 중 염화칼륨을 RTA 치료제로 직접 연구한 사례는 하나도 없으며,
-오히려 기전상 우려가 제기되는 상황입니다.
-
----
+염화칼륨(Potassium Chloride)은 한국에서 주사액, 수액 제제, 서방정 등으로 시판되는 칼륨 보충제입니다. TxGNN 모델은 **신세뇨관 산증(Renal Tubular Acidosis)**에 효과가 있을 수 있다고 예측하지만, 현재 등록된 **임상시험은 0건**이며 **문헌 17편**은 대부분 증례 보고와 종설입니다. 근거 수준은 낮아 연구 질문 단계로 보는 것이 적절합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 정보 없음 (한국 허가 데이터 없음; 일반적으로 저칼륨혈증 전해질 보충제로 알려짐) |
-| 예측 신규 적응증 | 신세뇨관성 산증 (Renal Tubular Acidosis) |
+| 기존 적응증 | 허가증에 적응증 원문이 없고 링크만 제공되어 확인할 수 없음 (일반적으로 칼륨 결핍 및 저칼륨혈증 보충) |
+| 예측 신규 적응증 | 신세뇨관 산증 (Renal Tubular Acidosis) |
 | TxGNN 예측 점수 | 99.87% |
-| 근거 수준 | L5 (모델 예측만 있음, 실제 관련 연구 없음) |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L4 (증례 보고, 종설, 기전 근거 위주) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 9건 |
 | 권장 결정 | Hold |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터가 없습니다(DrugBank 조회 필요, DG002). 다만 일반적으로 알려진 정보에 따르면
-Potassium Chloride는 칼륨 이온을 공급하는 전해질 보충제로, 저칼륨혈증 교정에 널리 사용됩니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 염화칼륨은 체내 칼륨을 보충하는 전해질 제제이며, 저칼륨혈증 교정에 표준적으로 쓰입니다.
 
-TxGNN이 산출한 99.87%의 높은 점수는 "**RTA 환자에서 저칼륨혈증이 흔히 동반되어 칼륨 보충이 필요하다**"는
-**증상 차원의 연관성**을 반영한 것으로 보이며, KCl이 RTA의 병리 기전을 직접 치료한다는 근거는 아닙니다.
-RTA(특히 제1형 원위 RTA)의 핵심 병리는 신세뇨관의 산 배출/중탄산염 재흡수 장애로 인한 고염소성 대사성
-산혈증이며, 표준 치료는 알칼리제(중탄산나트륨 또는 구연산칼륨)입니다. 구연산칼륨은 칼륨과 알칼리를
-동시에 공급하지만, KCl은 칼륨만 공급하고 알칼리는 공급하지 않으며 추가되는 염소 이온은 이론적으로
-고염소성 산혈증을 악화시킬 수 있습니다.
+원위부(1형) 신세뇨관 산증은 소변으로 칼륨이 소실되어 저칼륨혈증을 일으키고, 심하면 저칼륨혈증성 주기성 마비로 이어질 수 있습니다. 임신 중 사례 보고와 쇼그렌 증후군 관련 보고에서도 정맥 또는 경구 염화칼륨으로 칼륨을 교정한 경우가 확인됩니다. 따라서 칼륨 보충이라는 연관성은 생리학적으로 타당합니다.
 
-**결론적으로 이 연관성은 "질환 치료"가 아니라 "동반 증상(저칼륨혈증) 대증 처치"로 해석해야 하며,
-기전적 연결고리는 약합니다.**
-
----
+다만 염화칼륨은 **저칼륨혈증이라는 결과**를 교정할 뿐, 근본적인 산-염기 이상을 치료하지는 않습니다. 산증 교정에는 구연산칼륨이나 중탄산염 같은 알칼리 요법이 중심이 됩니다. TxGNN의 매우 높은 점수는 컴퓨터 예측일 뿐 임상적 근거가 아닙니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT03644706](https://clinicaltrials.gov/study/NCT03644706) | Phase 3 | 종료(조기중단) | 3 | dRTA 대상 ADV7103(KCl 아님) 평가, 3명만 등록 후 중단, 근거력 매우 낮음 |
-| [NCT00120731](https://clinicaltrials.gov/study/NCT00120731) | N/A | 철회 | 0 | 소아 고칼슘뇨증에서 구연산칼륨(potassium citrate) 연구, KCl과 약리학적으로 다름 |
-| [NCT06750172](https://clinicaltrials.gov/study/NCT06750172) | N/A | 모집 중 | 33 | 원발성 알도스테론증 진단법 연구, KCl-RTA 치료와 무관 |
-| [NCT07273838](https://clinicaltrials.gov/study/NCT07273838) | Phase 2 | 모집 중 | 130 | SGLT2 억제제와 심신증후군 연구, KCl과 무관 |
-| [NCT01834768](https://clinicaltrials.gov/study/NCT01834768) | Phase 2 | 불명 | 31 | Eplerenone 안전성 연구, KCl과 무관 |
-| [NCT01843309](https://clinicaltrials.gov/study/NCT01843309) | Phase 4 | 종료(조기중단) | 36 | Spironolactone으로 Amphotericin B 유발 전해질 이상 예방, KCl과 무관 |
-| [NCT01894594](https://clinicaltrials.gov/study/NCT01894594) | Phase 1 | 종료(조기중단) | 7 | 겸상적혈구병에서 알칼리 요법(중탄산염 계열 추정) 평가, KCl 아님 |
-| [NCT06867471](https://clinicaltrials.gov/study/NCT06867471) | N/A | 모집 중 | 43 | 외인성 케톤체가 만성신질환 단백뇨에 미치는 영향, KCl과 무관 |
-| [NCT03354507](https://clinicaltrials.gov/study/NCT03354507) | N/A | 불명 | 40 | Topiramate 관련 산혈증에서 중탄산나트륨 사용, KCl 아님 |
-
-**주의**: 위 9건 모두 Potassium Chloride를 RTA 치료제로 직접 평가한 시험이 아닙니다. 대부분 다른 약물(구연산칼륨, 중탄산나트륨, SGLT2 억제제 등)을 다루거나 KCl과 무관한 주제입니다.
-
----
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
+문헌은 대부분 증례 보고와 종설이며 무작위 대조시험은 없습니다. 아래는 관련성이 높은 문헌입니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [33459628](https://pubmed.ncbi.nlm.nih.gov/33459628/) | 2021 | Review (Tier 2) | Arch Esp Urol | dRTA와 신결석 진단/관리 개관, 표준 치료는 알칼리제(구연산칼륨 등) |
-| [21314872](https://pubmed.ncbi.nlm.nih.gov/21314872/) | 2011 | Review (Tier 2) | Int J Clin Pract | 성인 RTA에 대한 임상 접근법, 근위/원위 RTA 유형별 치료 개관 |
-| [17297212](https://pubmed.ncbi.nlm.nih.gov/17297212/) | 2007 | Review | Acta Med Indones | 저칼륨혈증 접근법 개관, 신장/신장외 손실 원인 감별 |
-| [8694660](https://pubmed.ncbi.nlm.nih.gov/8694660/) | 1996 | Review | Arch Intern Med | RTA 병태생리 및 진단 개관 |
-| [20228475](https://pubmed.ncbi.nlm.nih.gov/20228475/) | 2010 | Case Report | Neurol India | 호흡마비로 발현한 dRTA 증례, 중탄산나트륨 + 칼륨 보충으로 호전 |
-| [34748193](https://pubmed.ncbi.nlm.nih.gov/34748193/) | 2022 | Case Report | J Nephrol | 임신 중 dRTA와 저칼륨성 주기성마비 증례 |
-| [38445406](https://pubmed.ncbi.nlm.nih.gov/38445406/) | 2023 | Cohort | La Tunisie Med | 튀니지 dRTA 환자의 유전형-표현형 상관관계 |
-| [783200](https://pubmed.ncbi.nlm.nih.gov/783200/) | 1976 | Cohort | J Clin Invest | 제1형 RTA에서 경구 중탄산칼륨으로 산혈증 교정, 나트륨 보존 장애 평가 |
-| [37081692](https://pubmed.ncbi.nlm.nih.gov/37081692/) | 2023 | Review | Endocr J | PHA2를 제4형 RTA로 분류하는 문헌고찰 |
-| [25377117](https://pubmed.ncbi.nlm.nih.gov/25377117/) | 2014 | Review | Nephron Physiol | 미네랄로코르티코이드가 산-염기 균형에 미치는 영향 |
+| [786013](https://pubmed.ncbi.nlm.nih.gov/786013/) | 1976 | Review | Am J Med Sci | 저칼륨혈증의 원인, 결과, 교정 방법을 정리한 종설 |
+| [6277192](https://pubmed.ncbi.nlm.nih.gov/6277192/) | 1982 | Review | Am J Med | 원위 신단위 기능 장애 종설 |
+| [38445406](https://pubmed.ncbi.nlm.nih.gov/38445406/) | 2023 | Cohort/Genetic study | La Tunisie medicale | 튀니지 원위부 신세뇨관 산증의 유전자형-표현형 상관관계. 고염소성 대사성 산증, 저칼륨혈증, 신석회화증 특징 |
+| [10213645](https://pubmed.ncbi.nlm.nih.gov/10213645/) | 1999 | Cohort | Am J Kidney Dis | 진행성 신부전 환자의 대사성 산증 비교 (당뇨 vs 비당뇨). 직접 관련성은 제한적 |
+| [34748193](https://pubmed.ncbi.nlm.nih.gov/34748193/) | 2022 | Case report | J Nephrol | 임신 중 원위부 신세뇨관 산증과 저칼륨혈증성 주기성 마비 |
+| [40288831](https://pubmed.ncbi.nlm.nih.gov/40288831/) | 2025 | Case report/Review | Nefrologia | 임신 중 원발성 신세뇨관 산증의 주산기 예후 |
+| [37727491](https://pubmed.ncbi.nlm.nih.gov/37727491/) | 2023 | Case report | World J Clin Cases | 임신 중 발견된 불완전 원위부 신세뇨관 산증 |
+| [34595212](https://pubmed.ncbi.nlm.nih.gov/34595212/) | 2021 | Case report | Case Rep Nephrol Dial | 심한 저칼륨혈증(1.6 mEq/L)과 신결석을 보인 1형 RTA. 염화칼륨 정맥 투여로 치료 |
+| [28509102](https://pubmed.ncbi.nlm.nih.gov/28509102/) | 2015 | Case report | CEN Case Rep | 소아 쇼그렌 증후군에 동반된 원위부 RTA |
+| [1468597](https://pubmed.ncbi.nlm.nih.gov/1468597/) | 1992 | Case report | Nihon Naibunpi Gakkai Zasshi | 하시모토 갑상선염, 원위부 RTA, 쇼그렌 증후군 사례. 경구 염화칼륨 투여 |
 
-**주의**: 위 문헌은 모두 RTA 자체 또는 관련 병태생리를 다루지만, **Potassium Chloride를 RTA 치료 약물로 직접 연구한 문헌은 없습니다**. 실제 치료로 언급되는 것은 중탄산나트륨, 구연산칼륨 등 알칼리를 포함한 제제입니다.
+## 한국 시판 정보
 
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201103797 | 멀티빅2칼륨액5L | 플라스틱 백에 든 무색 투명한 액상 제제 | 허가 적응증 원문 확인 필요 (MFDS 허가사항 참조) |
+| 200100252 | 엔에이.케이주20 | 다층필름 플라스틱 용기에 든 무색 투명한 액 | 허가 적응증 원문 확인 필요 (MFDS 허가사항 참조) |
+| 201103798 | 멀티빅4칼륨액5L | 플라스틱 백에 든 무색 투명한 액상 제제 | 허가 적응증 원문 확인 필요 (MFDS 허가사항 참조) |
+| 197000017 | 중외염화칼륨주사액(150㎎/㎖) | 플라스틱 또는 유리 용기에 든 무색의 맑은 용액 | 허가 적응증 원문 확인 필요 (MFDS 허가사항 참조) |
+| 200001783 | 케이콘틴서방정(염화칼륨) | 엷은 오렌지색 제피정 | 허가 적응증 원문 확인 필요 (MFDS 허가사항 참조) |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요. (TFDA 라벨/경고·금기 정보 미확보 — DG001, Blocking)
+- **금기 관련 질환 (지식그래프 기반)**: 허가 문서가 아닌 지식그래프 예측 정보입니다. 고혈압, 신장 질환, 무뇨증, 울혈성 심부전, 심장 질환, 관상동맥 질환, 간 질환, 췌장염, 소화성 궤양, 만성 폐쇄성 폐질환, 간질 등이 연결되어 있습니다. 실제 금기는 허가사항 확인이 필요합니다.
+- **약물 상호작용**: 총 100건이 확인되었습니다. 주요(Major) 상호작용은 다음과 같습니다.
+  - 칼륨보존성 이뇨제: Amiloride
+  - ACE 억제제/ARB: Benazepril, Olmesartan, Valsartan, Azilsartan medoxomil
+  - 항콜린제: Atropine, Hyoscyamine, Homatropine, Benzatropine, Biperiden, Glycopyrronium
+  - 항히스타민제/항우울제: Chlorpheniramine, Acrivastine, Brompheniramine, Phenyltoloxamine, Amitriptyline
+  - 중등도(Moderate): Ketorolac, Ibuprofen, Aliskiren
 
----
+특히 칼륨보존성 이뇨제와 RAAS 억제제는 고칼륨혈증 위험이 있어 신기능이 저하된 RTA 환자에게 주의가 필요합니다. 허가사항의 경고 및 금기는 별도로 확인하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-- TxGNN 예측 점수는 높지만(99.87%), 검토된 임상시험·문헌 중 Potassium Chloride를 RTA 치료제로 직접 연구한 사례가 전무합니다(근거 수준 L5).
-- 기전 분석 결과, 이 예측은 "RTA에 저칼륨혈증이 동반되어 칼륨 보충이 필요하다"는 증상 연관성에 불과하며, KCl은 RTA의 핵심 병리(산 배출 장애)를 교정하지 못하고 오히려 염소 부하로 고염소성 산혈증을 악화시킬 이론적 우려가 있습니다.
-- 한국 내 허가 정보(licenses=0건, 미시판)와 TFDA 경고/금기 데이터가 없어 안전성 초기평가(S1)조차 진행할 수 없습니다(DG001, Blocking).
+염화칼륨이 RTA에 동반된 저칼륨혈증을 교정하는 데 쓰일 수 있다는 점은 생리학적으로 타당합니다. 그러나 근거는 증례 보고와 종설에 그치고, 임상시험은 없으며, 산증 자체를 치료하지 못합니다. 또한 허가사항의 경고·금기 정보가 확보되지 않아 안전성 검토를 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
-- TFDA(또는 국내 규제기관) 라벨 PDF 확보 및 경고·금기 정보 파싱 (DG001 해소)
-- DrugBank API를 통한 상세 작용기전(MOA) 확인 (DG002 해소)
-- Potassium Chloride(구연산칼륨이 아닌)를 RTA 또는 병발 저칼륨혈증 관리에 사용한 실제 임상 데이터/증례 확보
-- 알칼리제 병용 여부 및 염소 부하에 따른 산혈증 악화 위험에 대한 별도 안전성 검토
+- MFDS 허가사항(경고, 금기, 허가 적응증) 확보 및 분석
+- 상세한 약물 작용 기전(MOA) 데이터 확보
+- RTA에서 염화칼륨과 알칼리 요법(구연산칼륨, 중탄산염)의 역할을 구분한 임상 근거 검토
+- 신기능 저하 및 RAAS 억제제 병용 환자에 대한 고칼륨혈증 모니터링 계획
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

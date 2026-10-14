@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Trabectedin
-parent: 높은 근거 (L1-L2)
-nav_order: 689
-evidence_level: L2
+parent: 중등도 근거 (L3-L4)
+nav_order: 749
+evidence_level: L3
 indication_count: 1
 ---
 
 # Trabectedin
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **1** 건
+근거 수준: **L3** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,91 @@ indication_count: 1
 
 </div>
 
-# Trabectedin: 연조직육종·난소암에서 유방암으로
+# Trabectedin: 기존 적응증 정보 부재에서 여성 유방암으로
 
 ## 한 문장 요약
 
-> Trabectedin은 해면동물유래 항암제로, 해외에서는 연조직육종 2차 치료제 및 백금 민감성 재발 난소암(PLD 병용)으로 사용되어 왔으나 **한국에는 아직 허가되지 않았습니다**.
-> TxGNN 모델은 **여성 유방암(Female Breast Carcinoma)**에 효과가 있을 수 있다고 예측하며,
-> 현재 **2건의 임상시험**과 **20편 이상의 문헌**(그중 다수가 유방암 특이적 Phase 1/2 임상 데이터 포함)이 이 방향을 지지합니다.
-
----
+Trabectedin은 한국에서 단일제 주사제(욘델리스주)로 허가·시판 중인 항종양 약물입니다. 다만 이번 보고서에 사용된 허가 적응증 정보는 문서 링크로만 확인되어 구체적인 기존 적응증을 명시할 수 없습니다.
+TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있을 수 있다고 예측하며, 현재 **1건의 임상시험**(약력학/QT 평가 성격, 간접 근거)과 **20편의 문헌**이 이 방향과 관련됩니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 연조직육종(2차 치료), 백금 민감성 재발 난소암(PLD 병용) — *해외 승인, 한국 미승인* |
+| 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
 | 예측 신규 적응증 | 여성 유방암 (Female Breast Carcinoma) |
 | TxGNN 예측 점수 | 99.73% |
-| 근거 수준 | L2 |
-| 한국 시판 현황 | 미상영 (미승인) |
-| 허가증 수 | 0건 |
+| 근거 수준 | L3 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
 | 권장 결정 | Hold |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-Trabectedin은 DNA minor groove alkylating agent로, transcription-coupled nucleotide excision repair(TC-NER)를 억제하고 상동재조합(homologous recombination) 관련 전사 조절을 교란시켜 **BRCA1/2 결손 또는 HR-deficient 종양세포에 선택적 세포독성**을 나타냅니다.
+현재 상세한 작용 기전 데이터가 이번 보고서용 자료에 없습니다. 다만 문헌에 알려진 약리 정보에 따르면, trabectedin은 DNA minor groove에 결합해 DNA 부가체를 형성하고 전사 연계 뉴클레오티드 절제 복구(TC-NER)를 방해하는 해양 유래 세포독성 약물입니다. 또한 종양 관련 대식세포(TAM)를 줄여 종양 미세환경을 조절합니다. 이 내용은 제공된 허가 자료가 아니라 약물의 일반적 약리 지식에 근거합니다.
 
-이 기전은 이미 승인된 적응증인 연조직육종, 백금 민감성 재발 난소암과 동일한 기전적 기반을 공유하며, HR-deficiency는 유방암(특히 BRCA1/2 생식세포 변이 보유 유방암, 삼중음성유방암 일부)에서도 흔히 관찰되는 특성입니다. 실제로 다수의 문헌에서 BRCA1/2 변이 보유 전이성 유방암 환자를 대상으로 한 Phase 2 임상시험 결과가 보고되어 있어, 기전 연장 추론을 넘어 일부 임상적 근거까지 확보된 상태입니다.
+이런 기전은 유방암, 특히 BRCA1/2 결핍이나 상동재조합 결함이 있는 종양에서 민감도가 높을 수 있다는 점과 연결됩니다. 전임상 연구(PMID 39777457)에서는 삼중음성 유방암(TNBC)에서 IL-12와 병용 시 항종양 효과가 강화될 수 있음이 시사되었습니다.
 
-다만 유방암에 특이적인 수용체·경로 표적 근거는 아직 명확하지 않으며, 현재까지의 근거는 BRCA/HR-deficiency라는 공통 분모를 통한 간접적 연결에 가깝습니다.
-
----
+유럽 등에서는 연조직 육종과 난소암(리포솜 독소루비신 병용)에 사용되는 약물로 문헌에 소개되어 있어, 고형암 전반에서의 활성이 유방암 예측의 배경이 됩니다. 다만 한국 허가 적응증은 확인하지 못했으므로 기존 적응증과의 직접 비교는 제한적입니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00786838](https://clinicaltrials.gov/study/NCT00786838) | Phase 2 | 완료 | 76 | 진행성 고형암 환자에서 trabectedin의 QT/QTc 간격 영향을 평가한 단일맹검·다기관·위약대조 시험 |
-| [NCT03470805](https://clinicaltrials.gov/study/NCT03470805) | Phase 2 | 완료 | 9 | 재발성 난소암에서 trabectedin-PLD 반응 후 olaparib 유지요법 평가 — trabectedin은 유도치료 단계로만 포함되어 간접적 근거 |
-
----
+| [NCT00786838](https://clinicaltrials.gov/study/NCT00786838) | Phase 2 | 완료 | 76 | 진행성 고형암 환자에서 단회 투여 시 QT/QTc 간격에 미치는 영향을 평가한 시험. 유방암 효능 근거라기보다 약리·안전성 시험으로 보이며 간접적 지지에 그침 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [27266804](https://pubmed.ncbi.nlm.nih.gov/27266804/) | 2016 | RCT (Phase 2) | Clin Breast Cancer | 호르몬수용체 양성/HER2 음성 진행성 유방암에서 XPG 유전자 발현에 따른 trabectedin 효능 평가 |
-| [24692579](https://pubmed.ncbi.nlm.nih.gov/24692579/) | 2014 | Phase 2 (국제) | Ann Oncol | BRCA1/2 생식세포 변이 전이성 유방암 환자 대상 최초 class Phase 2 시험, 효능·안전성 확인 |
-| [25239225](https://pubmed.ncbi.nlm.nih.gov/25239225/) | 2014 | 다기관 무작위 Phase 2 | Clin Breast Cancer | 안트라사이클린·탁산 치료 후 진행성 유방암에서 두 가지 투여요법 비교 |
-| [19114300](https://pubmed.ncbi.nlm.nih.gov/19114300/) | 2009 | Phase 1 (RCT) | Eur J Cancer | 진행성 연조직육종·유방암에서 trabectedin+doxorubicin 병용 약동학 연구 |
-| [27710871](https://pubmed.ncbi.nlm.nih.gov/27710871/) | 2016 | Review | Cancer Treat Rev | BRCA 결손 환자에서 화학요법 옵션으로서의 trabectedin 정리 |
-| [26592307](https://pubmed.ncbi.nlm.nih.gov/26592307/) | 2016 | Review | Expert Opin Investig Drugs | 유방암 치료제로서의 trabectedin 전반적 리뷰, 종양미세환경 조절 기전 포함 |
-| [33185631](https://pubmed.ncbi.nlm.nih.gov/33185631/) | 2020 | Review | Drugs Today | 난소암·유방암·연조직육종에서의 trabectedin 활용 정리 |
-| [23792433](https://pubmed.ncbi.nlm.nih.gov/23792433/) | 2013 | Preclinical | Toxicol Lett | MCF-7(HER2-/ER+), MDA-MB-453(HER2+/ER-) 유방암 세포주에서 trabectedin의 아포토시스 유도 확인 |
-| [24941346](https://pubmed.ncbi.nlm.nih.gov/24941346/) | 2014 | Preclinical | Eur Cytokine Netw | 인간 유방암 세포 및 HUVEC에서 trabectedin의 항혈관신생 효과 확인 |
-| [39777457](https://pubmed.ncbi.nlm.nih.gov/39777457/) | 2025 | Preclinical | Cancer Immunol Res | 삼중음성유방암(TNBC)에서 IL-12와 병용 시 골수유래억제세포 감소를 통한 항종양 효과 증대 |
+| [25239225](https://pubmed.ncbi.nlm.nih.gov/25239225/) | 2014 | 무작위 Phase 2 | Clin Breast Cancer | 안트라사이클린·탁산 치료 후 진행성 유방암에서 두 가지 투여 요법의 효능과 안전성 비교 |
+| [24692579](https://pubmed.ncbi.nlm.nih.gov/24692579/) | 2014 | Phase 2 | Ann Oncol | 전이성 유방암 중 BRCA1/2 생식세포 변이 보유 환자에서의 활성과 안전성 평가 |
+| [27266804](https://pubmed.ncbi.nlm.nih.gov/27266804/) | 2016 | Phase 2 | Clin Breast Cancer | HR 양성/HER2 음성 진행성 유방암에서 XPG 유전자 발현에 따른 효능 평가 |
+| [26592307](https://pubmed.ncbi.nlm.nih.gov/26592307/) | 2016 | Review | Expert Opin Investig Drugs | 유방암에서의 trabectedin 치료 가능성 개관, 전사 조절 및 TAM 감소 기전 |
+| [27710871](https://pubmed.ncbi.nlm.nih.gov/27710871/) | 2016 | Review | Cancer Treat Rev | BRCA 결핍 환자에서 trabectedin을 화학요법 선택지로 검토 |
+| [18410797](https://pubmed.ncbi.nlm.nih.gov/18410797/) | 2008 | Review | Semin Oncol | 안트라사이클린·탁산 불응성 전이성 유방암의 신규 치료제 검토 |
+| [19114300](https://pubmed.ncbi.nlm.nih.gov/19114300/) | 2009 | Phase 1 | Eur J Cancer | 진행성 연조직 육종 및 유방암에서 trabectedin과 독소루비신 병용의 실현 가능성 및 약동학 (환자 대부분 육종) |
+| [39777457](https://pubmed.ncbi.nlm.nih.gov/39777457/) | 2025 | 전임상 | Cancer Immunol Res | TNBC에서 trabectedin이 IL-12의 항종양 효과를 강화 |
+| [24941346](https://pubmed.ncbi.nlm.nih.gov/24941346/) | 2014 | 전임상 | Eur Cytokine Netw | 유방암 세포주에서 항혈관신생 효과 |
+| [23792433](https://pubmed.ncbi.nlm.nih.gov/23792433/) | 2013 | 전임상 | Toxicol Lett | MCF-7 및 MDA-MB-453 유방암 세포에서 유전형에 따라 다른 세포자멸 유도 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200804451 | 욘델리스주사1.0밀리그램(트라벡테딘) | 용시 조제 주사제(흰색 가루 바이알) | 허가 문서 링크로만 제공되어 본문 확인 불가 |
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 화학요법제 (해양유래 tetrahydroisoquinoline alkaloid, DNA alkylating agent) |
-| 골수억제 위험 | 중등도~고도 — 문헌 보고에 따르면 Grade 3-4 호중구감소증 약 50%, 혈소판감소증 약 20%에서 관찰 |
-| 구토 유발성 등급 | 문헌상 명확한 등급 데이터 없음 — 허가사항 참조 필요 |
-| 모니터링 항목 | CBC(호중구·혈소판 포함), 간기능(간독성 보고 있음), 신기능 |
-| 취급 방호 | 세포독성 항암제 취급 규정(개인보호구, 폐기물 처리 등) 준수 필요 |
-
----
+| 세포독성 분류 | 기존 세포독성 약물 (DNA minor groove 결합제, 해양 유래 알칼로이드) |
+| 골수억제 위험 | 고 (문헌상 3-4등급 호중구감소증 약 50%, 혈소판감소증 약 20%) |
+| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 모니터링 항목 | CBC(분류 포함), 간기능(문헌상 혈액학적·간 독성이 주된 독성), QT 간격 |
+| 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요. 현재 한국 내 허가 자료가 없어 국내 경고·금기·약물상호작용 정보를 확인할 수 없습니다.
+- **약물 상호작용**: 이번 보고서용 자료에서 총 100건의 상호작용이 확인되었으며, 그중 일부를 아래에 정리합니다.
+  - **주의 필요(Major)**: Clarithromycin
+  - **중등도(Moderate)**: Dexamethasone, Aprepitant, Cimetidine, Metronidazole, Levofloxacin, Miconazole, Simvastatin, Rosuvastatin, Pioglitazone, Rosiglitazone 등
 
----
+허가사항의 경고 및 금기 정보는 이번 자료에 없으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-BRCA/HR-deficiency 기전을 매개로 한 유방암 적용 근거는 Phase 2 임상시험 다수(특히 BRCA1/2 변이 보유 전이성 유방암 대상)로 뒷받침되어 L2 수준의 근거를 확보했습니다. 그러나 한국에는 현재 허가·시판 이력이 전혀 없고, 사용설명서(경고·금기) 데이터가 완전히 결측되어 있어 S1 안전성 초기 평가 진입이 불가능한 **Blocking 등급 데이터 갭**이 존재합니다.
+유방암에 대한 Phase 2 연구와 전임상 근거가 있으나, 확인된 임상시험은 효능 시험이 아닌 QT 평가 시험이며 근거 수준은 L3에 머뭅니다. 또한 한국 허가 적응증과 허가사항상 경고·금기를 확인하지 못해 안전성 선별을 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
-- 규제기관 공식 사용설명서(PI) 확보 및 경고·금기·약물상호작용 정보 보완 (Blocking)
-- 한국 내 허가 여부 및 향후 허가 신청 전략 검토
-- 유방암 특이적 바이오마커(BRCA1/2, HR-deficiency) 기반 환자 선별 기준 정립
-- Phase 3 수준의 무작위 대조시험 데이터 확보 (현재 Phase 2 수준에 머물러 있음)
+- 식약처(MFDS) 허가사항 문서를 내려받아 기존 적응증, 경고, 금기 정보 확보
+- DrugBank 등에서 작용 기전(MOA) 데이터 보완
+- 유방암 Phase 2 연구(PMID 25239225, 24692579, 27266804)의 결과 상세 검토 및 BRCA 변이·HR 결핍 환자군 등 반응 예측 집단 정의
+- 유방암 대상 효능 임상시험(특히 Phase 3 RCT) 존재 여부 추가 확인
+- 고위험 약물 상호작용(clarithromycin 등)과 골수억제·간독성에 대한 모니터링 계획 수립
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

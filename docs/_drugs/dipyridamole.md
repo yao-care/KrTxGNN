@@ -2,7 +2,7 @@
 layout: default
 title: Dipyridamole
 parent: 모델 예측만 (L5)
-nav_order: 266
+nav_order: 283
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,18 +29,84 @@ indication_count: 10
 
 </div>
 
-%; 운동 병행 시 87%로 향상 |
-| [8417062](https://pubmed.ncbi.nlm.nih.gov/8417062/) | 1993 | 기타 | JACC | Dipyridamole 유발 허혈 시 심근 에코밀도 증가 관찰: 허혈의 새로운 초음파 마커 |
-| [8634169](https://pubmed.ncbi.nlm.nih.gov/8634169/) | 1996 | 기타 | Rev Port Cardiol | 정상 dipyridamole-탈륨 스캔 환자의 3년 심혈관 예후 |
-| [2022043](https://pubmed.ncbi.nlm.nih.gov/2022043/) | 1991 | Review | Circulation | 관상동맥 협착 비침습적 기능 평가 방법론 검토: dipyridamole 역할 및 한계 |
-| [7628141](https://pubmed.ncbi.nlm.nih.gov/7628141/) | 1995 | 기타 | Clin Nucl Med | 편두통·변이형 협심증 동반 환자에서 dipyridamole 부하 시 후벽 허혈 확인 사례 |
-| [2221701](https://pubmed.ncbi.nlm.nih.gov/2221701/) | 1990 | 기타 | Ann NY Acad Sci | 일과성 심근 허혈의 심전도 진단 민감도·특이도 분석 |
+# 디피리다몰(Dipyridamole): 항혈소판 치료에서 프린츠메탈 협심증으로
+
+## 한 문장 요약
+
+디피리다몰은 혈소판 응집을 억제하고 혈관을 확장하는 약으로, 국내에서는 항혈전 목적의 정제와 아스피린 복합 서방캡슐 형태로 허가·시판되고 있습니다.
+TxGNN 모델은 **프린츠메탈 협심증(Prinzmetal angina)**에 효과가 있을 수 있다고 예측하며 점수는 매우 높습니다(99.99%).
+그러나 이 방향을 지지하는 **임상시험은 0건**이고, 수집된 **10편의 문헌**도 대부분 진단용 부하검사나 증례 보고이며 치료 효과를 입증한 연구는 없습니다. 오히려 연축을 유발할 위험을 시사하는 보고가 있습니다.
+
+---
+
+## 빠른 개요
+
+| 항목 | 내용 |
+|------|------|
+| 기존 적응증 | 허가 적응증 본문은 이번 데이터에 포함되어 있지 않고 허가 문서 링크만 확인됩니다. 항혈전·항혈소판 계열 약물로 알려져 있습니다. |
+| 예측 신규 적응증 | 프린츠메탈 협심증 (Prinzmetal angina) |
+| TxGNN 예측 점수 | 99.99% |
+| 근거 수준 | L4 (기전 수준의 추정과 소규모 관찰 보고만 있고 치료 효과를 확인한 연구 없음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 5건 |
+| 권장 결정 | Hold |
+
+---
+
+## 이 예측이 타당한 이유는?
+
+디피리다몰은 아데노신 재흡수와 포스포디에스테라제(PDE)를 억제합니다. 그 결과 세포 내 cAMP와 cGMP가 증가해 혈소판 응집이 억제되고 관상동맥이 확장됩니다. 모델은 이 혈관확장 작용과 협심증 관련 질환 사이의 연관성을 학습해 높은 점수를 부여한 것으로 보입니다.
+
+그러나 수집된 문헌을 보면 이 기전이 치료 이점으로 이어진다고 보기 어렵습니다. 디피리다몰은 주로 관상동맥질환 진단을 위한 **약물 부하검사 약제**로 연구되었습니다. 변이형 협심증 환자에서는 부하검사를 아미노필린으로 종료할 때 **관상동맥 연축이 유발**될 수 있다는 보고가 있습니다. 또한 혈관확장에 따른 관상동맥 도둑 현상(coronary steal)이 연축성 허혈을 악화시킬 가능성도 있습니다. 즉 기전상 득보다 실이 클 수 있다는 점이 이 예측의 핵심 우려입니다.
+
+이번 데이터에는 상세한 작용 기전 항목이 비어 있어, 위 기전 설명은 수집된 문헌과 일반적인 약리학 지식에 근거했습니다.
+
+---
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+---
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [633593](https://pubmed.ncbi.nlm.nih.gov/633593/) | 1978 | 관찰/리뷰 | Jpn Circ J | 휴식 중 협심증 26명(프린츠메탈 변이형 13명 포함)에게 프로프라놀롤, 딜티아젬, 디피리다몰 등을 투여해 발작 반응을 비교했습니다. 프로프라놀롤은 효과가 없고 오히려 악화 경향을 보였습니다. 제공된 초록에는 디피리다몰의 결과가 나와 있지 않습니다. |
+| [3421166](https://pubmed.ncbi.nlm.nih.gov/3421166/) | 1988 | 증례/관찰 | Am J Cardiol | 변이형 협심증 입원 환자 36명에서, 디피리다몰 부하 후 아미노필린으로 급격히 종료하면 관상동맥 연축이 유발될 수 있음을 검토했습니다. |
+| [3190956](https://pubmed.ncbi.nlm.nih.gov/3190956/) | 1988 | 관찰 | Br Heart J | 운동 유발 ST 상승 환자 25명에서 디피리다몰 심초음파 반응에 따른 운동검사 재현성을 평가했습니다. 진단 연구입니다. |
+| [16630456](https://pubmed.ncbi.nlm.nih.gov/16630456/) | 2006 | 코호트 | Zhonghua Xin Xue Guan Bing Za Zhi | 전형적 관상동맥 연축과 비전형적 관상동맥 연축 환자의 임상 특성을 비교했습니다. 디피리다몰 치료 효과에 대한 내용은 아닙니다. |
+| [7628141](https://pubmed.ncbi.nlm.nih.gov/7628141/) | 1995 | 증례 | Clin Nucl Med | 편두통, 천식, 변이형 협심증 병력이 있는 환자의 흉통과 허혈 소견을 기술한 사례입니다. |
+| [6779029](https://pubmed.ncbi.nlm.nih.gov/6779029/) | 1981 | 진단 연구 | Jpn Circ J | 탈륨-201 심근 영상에서 디피리다몰 부하의 진단 정확도는 66%였습니다. 운동 부하와 병용하면 민감도가 71%에서 87%로 올랐습니다. 치료 연구가 아닙니다. |
+| [2022043](https://pubmed.ncbi.nlm.nih.gov/2022043/) | 1991 | 리뷰 | Circulation | 관상동맥 협착의 비침습적 기능 평가(디피리다몰 등 부하검사)의 병태생리학적 기반을 정리했습니다. |
+| [8417062](https://pubmed.ncbi.nlm.nih.gov/8417062/) | 1993 | 관찰 | J Am Coll Cardiol | 다양한 기전으로 유발한 허혈 중 심근 에코 밀도 증가를 관찰한 진단 연구입니다. |
+| [8634169](https://pubmed.ncbi.nlm.nih.gov/8634169/) | 1996 | 관찰 | Rev Port Cardiol | 탈륨-디피리다몰 심근 스캔이 정상인 환자의 3년 예후를 평가했습니다. |
+| [14060538](https://pubmed.ncbi.nlm.nih.gov/14060538/) | 1963 | 증례 | Naika | 변이형 협심증 증례 보고입니다. 초록이 없어 디피리다몰과의 관련성은 확인할 수 없습니다. |
+
+---
+
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200302190 | 디피라몰정12.5밀리그람(수출용) | 당의정 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302190/EE) 참조 |
+| 200403295 | 디피라몰정25밀리그람(수출용) | 당의정 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403295/EE) 참조 |
+| 201600889 | 아디녹스캡슐 | 캡슐(아스피린 당의정 + 디피리다몰 펠렛) | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600889/EE) 참조 |
+| 201702431 | 스트록스타서방캡슐 | 서방캡슐(아스피린 당의정 + 디피리다몰 펠렛) | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702431/EE) 참조 |
+| 201702432 | 디피아녹스서방캡슐 | 서방캡슐(아스피린 당의정 + 디피리다몰 펠렛) | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702432/EE) 참조 |
+
+5건 모두 유효 허가입니다. 정제 2건은 수출용입니다. 허가 적응증 본문은 이번 데이터에 포함되어 있지 않아 링크로 대신합니다.
 
 ---
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **지식그래프상 금기 질환**(허가사항이 아니라 모델의 지식그래프에 근거한 정보): 신장·간·담낭 질환, 혈소판감소증, 소화성 궤양과 위염, 저혈압, 통풍, 급성 관상동맥증후군, 심근경색, 혈우병, 빈혈, 라이 증후군, 알츠하이머병 등이 포함됩니다. 허가사항과 대조 확인이 필요합니다.
+- **약물 상호작용**: 총 100건이 조회되었습니다. 중등도(Moderate)로 분류된 것은 덱스펜플루라민, 시부트라민, 펜플루라민입니다. 그 외 아스피린, 시메티딘, 오메프라졸, 메트포르민, 시설린 등은 위험 등급이 분류되지 않았습니다.
+- **프린츠메탈 협심증 관련 특이 위험**: 디피리다몰 부하 후 아미노필린으로 종료할 때 관상동맥 연축이 유발될 수 있다는 보고가 있습니다. 혈관확장에 따른 관상동맥 도둑 현상 가능성도 있습니다.
+
+그 외 주요 경고와 금기는 허가사항을 참조하세요.
 
 ---
 
@@ -49,157 +115,13 @@ indication_count: 10
 **결정: Hold**
 
 **사유:**
-15편의 문헌 전체가 dipyridamole이 Prinzmetal 협심증 치료제가 아닌 관상동맥 경련 유발 도구임을 보고하며, 치료 재창출 연구는 부적합합니다.
+모델 점수는 매우 높지만 임상시험이 없고, 문헌은 진단용 부하검사와 증례 보고가 대부분입니다. 일부 문헌은 연축 유발 위험을 시사해 이득보다 안전성 우려가 큽니다.
 
 **진행하려면 필요한 것:**
-- 이 예측은 재창출 연구 대상으로 적합하지 않습니다. 진행 불가.
-- Prinzmetal 협심증 환자에서의 dipyridamole 사용 위험을 의약품 안전 정보에 반영하는 것을 권장합니다.
-
----
-
-## 전체 예측 적응증 요약 (10개 후보)
-
-| 순위 | 적응증 | TxGNN 점수 | 근거 수준 | 권장 결정 | 핵심 내용 |
-|------|--------|-----------|---------|---------|---------|
-| 1 | Prinzmetal 협심증 | 99.99% | L4 | ⛔ Hold | 역방향 증거: 경련 유발 위험 |
-| **2** | **뇌졸중 (Stroke Disorder)** | **99.95%** | **L1** | **✅ Proceed with Guardrails** | ESPS-2, ESPRIT, PRoFESS 대형 RCT |
-| 3 | 혈전성 질환 | 99.94% | L3 | 🔍 Research Question | 기전 타당성 있으나 직접 RCT 부족 |
-| 4 | 병적 동방 결절 증후군 2형 | 99.89% | L5 | ⛔ Hold | 잠재적 유해: 아데노신↑ → 서맥 악화 |
-| **5** | **일과성 허혈 발작 (TIA)** | **99.87%** | **L1** | **✅ Proceed with Guardrails** | ESPRIT 핵심 적응증, 직접 L1 근거 |
-| 6 | 육종당단백병증 | 99.82% | L5 | ⛔ Hold | 근육 구조단백 결함 — 기전적 가양성 |
-| 7 | Wildervanck 증후군 | 99.78% | L5 | ⛔ Hold | 선천성 구조 기형 — 기전적 가양성 |
-| 8 | 대두증-안면기형-정신운동지연 | 99.77% | L5 | ⛔ Hold | 신경발육 장애 — 기전적 가양성 |
-| 9 | 횡정맥동 혈전증 | 99.72% | L5 | ⛔ Hold | 정맥혈전: 항응고 영역, 항혈소판 미적용 |
-| 10 | 해면정맥동 혈전증 | 99.72% | L5 | ⛔ Hold | 감염성 정맥혈전: 항생제+항응고 표준치료 |
-
-> **핵심 요약**: 임상적으로 가장 의미 있는 예측은 **뇌졸중(2위)**과 **TIA(5위)**로, 두 적응증 모두 복수의 대규모 Phase 3/4 RCT와 Cochrane 체계적 문헌고찰로 지지됩니다. 1순위 예측(Prinzmetal 협심증)과 4순위 예측(병적 동방 결절 증후군)은 치료 기회가 아닌 **안전성 주의 대상**입니다.
-
----
-
-## 보충 보고서 A: 뇌졸중 예방 (Rank 2, L1) — Proceed with Guardrails
-
-### 빠른 개요
-
-| 항목 | 내용 |
-|------|------|
-| 예측 적응증 | 뇌졸중 (Stroke Disorder) |
-| TxGNN 예측 점수 | 99.95% |
-| 근거 수준 | **L1** |
-| 임상시험 수 | 31건 |
-| 문헌 수 | 18편 |
-| 권장 결정 | **Proceed with Guardrails** |
-
-### 예측이 타당한 이유
-
-Dipyridamole은 ①PDE 억제(혈소판 내 cAMP/cGMP↑ → 혈소판 응집 억제)와 ②아데노신 재흡수 억제(내피 유래 NO 효과 증강, 항염증)의 이중 기전으로 뇌졸중 예방에 효과적입니다.
-
-ESPS-2(n=6,602)에서 아스피린+서방형 dipyridamole(Aggrenox)이 아스피린 단독 대비 뇌졸중 재발을 **37% 감소**시켰으며, ESPRIT(n=2,763, Phase 4)는 복합 혈관 사건 위험을 **20% 추가 감소**시킴을 확인했습니다. PRoFESS(n=20,332)는 Aggrenox가 클로피도그렐과 동등한 뇌졸중 예방 효과를 갖는다는 직접 비교 근거를 제공합니다. 다수의 Cochrane 체계적 문헌고찰(2003·2006·2007)이 이 효과를 일관되게 지지합니다.
-
-### 임상시험 근거
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00153062](https://clinicaltrials.gov/study/NCT00153062) | Phase 4 | 완료 | 20,332 | PRoFESS: ER-dipyridamole+아스피린 vs 클로피도그렐 — 뇌졸중 재발 이차 예방 직접 비교 |
-| [NCT00161070](https://clinicaltrials.gov/study/NCT00161070) | Phase 4 | 완료 | 4,500 | ESPRIT: 아스피린+dipyridamole vs 아스피린 단독 — 복합 혈관 사건 20% 감소 |
-| [NCT00311402](https://clinicaltrials.gov/study/NCT00311402) | Phase 3 | 완료 | 1,295 | JASAP: Aggrenox vs 아스피린 81mg — 일본인 뇌경색 재발 예방 비교 |
-| [NCT01661322](https://clinicaltrials.gov/study/NCT01661322) | Phase 3 | 조기종료 | 3,096 | 고위험 중풍 환자 삼중 vs 이중 항혈소판(dipyridamole 포함) — 안전성 우려로 종료 |
-| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | 완료 | 664 | PFO 봉합 vs 항응고제 vs 항혈소판(dipyridamole 포함) — 뇌졸중 재발 예방 3군 비교 |
-| [NCT00738894](https://clinicaltrials.gov/study/NCT00738894) | N/A | 완료 | 664 | REDUCE: PFO 봉합기 vs 항혈소판(dipyridamole+아스피린) — 잠재성 뇌졸중 예방 |
-| [NCT00562588](https://clinicaltrials.gov/study/NCT00562588) | Phase 4 | 완료 | 551 | EARLY: 뇌졸중 발생 24시간 이내 Aggrenox 조기 투여 vs 7일 후 투여 비교 |
-| [NCT01295567](https://clinicaltrials.gov/study/NCT01295567) | Phase 4 | 완료 | 95 | Dipyridamole의 CABG 수술 중 허혈-재관류 손상 심근보호 효과 탐색 |
-| [NCT02630862](https://clinicaltrials.gov/study/NCT02630862) | N/A | 완료 | 240 | 경동맥 재혈관화 후 dipyridamole 항산화 활성 및 뇌혈관 산화 스트레스 감소 확인 |
-| [NCT02966119](https://clinicaltrials.gov/study/NCT02966119) | Phase 3 | 조기종료 | 23 | RESTART-FR: 뇌출혈 후 항혈소판제(dipyridamole 포함) 재개 vs 중단 이익/위험 비교 |
-
-### 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|------|------|------|---------|
-| [12535415](https://pubmed.ncbi.nlm.nih.gov/12535415/) | 2003 | Cochrane SR | Cochrane DB | 혈관 위험 환자에서 dipyridamole 혈관 사건 예방 효과; 아스피린 병용 시 추가 이익 |
-| [17636684](https://pubmed.ncbi.nlm.nih.gov/17636684/) | 2007 | Cochrane SR | Cochrane DB | 업데이트: 아스피린+dipyridamole이 아스피린 단독 대비 22% 위험 감소 |
-| [16625549](https://pubmed.ncbi.nlm.nih.gov/16625549/) | 2006 | Cochrane SR | Cochrane DB | Dipyridamole 뇌졸중/혈관 사건 예방 체계적 문헌고찰 (중간 업데이트) |
-| [15569877](https://pubmed.ncbi.nlm.nih.gov/15569877/) | 2005 | Meta-analysis | Stroke | 개인 환자 데이터 메타분석: 재발성 허혈 뇌졸중 예방에서 dipyridamole 단독 및 병용 효과 |
-| [11786451](https://pubmed.ncbi.nlm.nih.gov/11786451/) | 2002 | Meta-analysis | BMJ | 항혈소판 요법 사망·MI·뇌졸중 예방: 고위험 환자 무작위 시험 협력 메타분석 |
-| [8981292](https://pubmed.ncbi.nlm.nih.gov/8981292/) | 1996 | RCT | J Neurol Sci | ESPS-2: 아스피린+dipyridamole 병용이 뇌졸중 이차 예방에서 각 단독 대비 우월 |
-| [20955428](https://pubmed.ncbi.nlm.nih.gov/20955428/) | 2010 | Review | Ann NY Acad Sci | 급성 뇌졸중 중 dipyridamole의 항혈전·신경보호 이중 기전 탐색 |
-| [18174451](https://pubmed.ncbi.nlm.nih.gov/18174451/) | 2008 | Review | Arterioscler Thromb Vasc Biol | Dipyridamole 중개 치료학: PDE 억제, NO 증강, 항염증 기전 종합 |
-| [30649687](https://pubmed.ncbi.nlm.nih.gov/30649687/) | 2019 | Cohort | CNS Drugs | 아스피린 불내용 심근경색+뇌졸중 환자에서 dipyridamole+클로피도그렐 병용의 이차 예방 효과 |
-| [9744826](https://pubmed.ncbi.nlm.nih.gov/9744826/) | 1998 | Review | Neurology | Dipyridamole 뇌졸중 예방 임상시험 역사: ESPS-1, ESPS-2 결과 및 임상적 의의 |
-
-### 결론
-
-**결정: Proceed with Guardrails**
-
-**사유:**
-ESPS-2, ESPRIT, PRoFESS 등 복수의 대규모 Phase 3/4 RCT와 다수의 Cochrane 체계적 문헌고찰이 dipyridamole+아스피린의 뇌졸중 이차 예방 효과를 일관되게 지지합니다. Aggrenox는 미국 FDA 및 유럽에서 뇌졸중 이차 예방 적응증을 보유합니다.
-
-**진행하려면 필요한 것:**
-- 국내 미허가 상태이므로 허가 신청을 위한 규제 전략 수립 필요
-- 약물 작용 기전 데이터(MOA) 보완 (현재 Data Gap)
-- 국내 뇌졸중 표준치료(클로피도그렐) 대비 위치 설정 검토
-- 안전성 경고·금기 사항 (TFDA/MFDS 허가사항) 확인
-
----
-
-## 보충 보고서 B: 일과성 허혈 발작 (TIA) (Rank 5, L1) — Proceed with Guardrails
-
-### 빠른 개요
-
-| 항목 | 내용 |
-|------|------|
-| 예측 적응증 | 일과성 허혈 발작 (TIA) |
-| TxGNN 예측 점수 | 99.87% |
-| 근거 수준 | **L1** |
-| 임상시험 수 | 15건 |
-| 문헌 수 | 20편 |
-| 권장 결정 | **Proceed with Guardrails** |
-
-### 예측이 타당한 이유
-
-TIA는 실제 경색 없이 일시적 신경기능 이상으로 나타나는 허혈 이벤트로, 뇌졸중과 동일한 아테로혈전 기전을 공유합니다. Dipyridamole의 이중 항혈소판 기전은 TIA 재발 방지에 직접 적용됩니다.
-
-**ESPRIT(NCT00161070, Phase 4, n=4,500)**은 TIA 또는 소규모 뇌졸중 환자를 직접 대상으로 아스피린+dipyridamole이 아스피린 단독 대비 복합 혈관 사건을 **20% 감소**시켰음을 증명한 핵심 근거입니다(RR=0.80, 95% CI 0.66–0.98). ESPS-2의 TIA 하위분석도 일관된 효과를 보였으며, 실제 Aggrenox의 전세계 허가 주요 적응증이 TIA 후 이차 예방입니다.
-
-### 임상시험 근거
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00161070](https://clinicaltrials.gov/study/NCT00161070) | Phase 4 | 완료 | 4,500 | **ESPRIT 핵심 근거**: TIA/소규모 뇌졸중 후 아스피린+dipyridamole → 복합 혈관 사건 20% 감소 |
-| [NCT00311402](https://clinicaltrials.gov/study/NCT00311402) | Phase 3 | 완료 | 1,295 | JASAP: Aggrenox vs 아스피린 81mg — 일본인 TIA 포함 뇌경색 재발 예방 비교 |
-| [NCT00153062](https://clinicaltrials.gov/study/NCT00153062) | Phase 4 | 완료 | 20,332 | PRoFESS: ER-dipyridamole+아스피린 vs 클로피도그렐 — TIA 후 뇌졸중 재발 포함 |
-| [NCT01661322](https://clinicaltrials.gov/study/NCT01661322) | Phase 3 | 조기종료 | 3,096 | 고위험 TIA/뇌졸중 환자 항혈소판 강도 비교 (dipyridamole 포함 치료군) |
-| [NCT00738894](https://clinicaltrials.gov/study/NCT00738894) | N/A | 완료 | 664 | REDUCE: PFO 봉합 vs 항혈소판(dipyridamole+아스피린) — TIA 포함 재발 예방 |
-| [NCT00562588](https://clinicaltrials.gov/study/NCT00562588) | Phase 4 | 완료 | 551 | EARLY: TIA/뇌졸중 환자에서 Aggrenox 조기(24시간 내) vs 지연 투여 비교 |
-| [NCT05763862](https://clinicaltrials.gov/study/NCT05763862) | N/A | 모집 중 | 350 | 유전자형 기반 항혈소판 치료: TIA 환자에서 dipyridamole 포함 선택지 포함 |
-| [NCT02630862](https://clinicaltrials.gov/study/NCT02630862) | N/A | 완료 | 240 | TIA 환자 포함 경동맥 재혈관화 후 dipyridamole의 항산화 효과 검증 |
-| [NCT01613755](https://clinicaltrials.gov/study/NCT01613755) | Phase 4 | 완료 | 18 | TIA/뇌졸중 환자에서 dipyridamole이 메트포르민 약동학에 미치는 영향 (hENT4 억제) |
-| [NCT03688815](https://clinicaltrials.gov/study/NCT03688815) | N/A | 완료 | 50 | L-아르기닌 경로 대사물과 dipyridamole 유발 단기 심근 허혈 — TIA 관련 기전 탐색 |
-
-### 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|------|------|------|---------|
-| [34399713](https://pubmed.ncbi.nlm.nih.gov/34399713/) | 2021 | Systematic Review/Meta-analysis | BMC Neurology | 허혈 뇌졸중/TIA 이차 예방 항혈소판 약물 네트워크 메타분석: dipyridamole 병용 효과 확인 |
-| [15569877](https://pubmed.ncbi.nlm.nih.gov/15569877/) | 2005 | Meta-analysis | Stroke | 개인 환자 데이터 메타분석: TIA 포함 허혈 뇌졸중 재발 예방에서 dipyridamole 효과 |
-| [12535415](https://pubmed.ncbi.nlm.nih.gov/12535415/) | 2003 | Cochrane SR | Cochrane DB | TIA 환자의 혈관 사건 예방: dipyridamole의 역할 체계적 검토 |
-| [26304937](https://pubmed.ncbi.nlm.nih.gov/26304937/) | 2015 | Network Meta-analysis | JAHA | 허혈 뇌졸중/TIA 후 장기 항혈소판 단독·병용 요법 계층 분석 |
-| [24157563](https://pubmed.ncbi.nlm.nih.gov/24157563/) | 2014 | Review | Front Neurol Neurosci | TIA 항혈전 치료: 아스피린+dipyridamole 병용의 근거와 한계 |
-| [22277143](https://pubmed.ncbi.nlm.nih.gov/22277143/) | 2012 | Review | J Clin Hypertens | TIA 항혈소판 요법: 아스피린, dipyridamole, 클로피도그렐 비교 임상 근거 |
-| [17389280](https://pubmed.ncbi.nlm.nih.gov/17389280/) | 2007 | Review | Circulation | TIA/뇌졸중 이차 예방에서 더 강력한 혈소판 억제의 필요성: dipyridamole 기전 분석 |
-| [20170841](https://pubmed.ncbi.nlm.nih.gov/20170841/) | 2010 | Review | Lancet Neurology | TIA/허혈 뇌졸중 재발 예방 항혈전 요법: 아스피린+ER-dipyridamole의 위치 |
-| [18343263](https://pubmed.ncbi.nlm.nih.gov/18343263/) | 2008 | Pharmacodynamic | Clin Ther | TIA 병력 당뇨 환자에서 ER-dipyridamole+아스피린 vs 클로피도그렐±아스피린 항혈소판 프로파일 비교 |
-| [35470408](https://pubmed.ncbi.nlm.nih.gov/35470408/) | 2022 | Practice Survey | Acta Neurol Taiwan | 싱가포르 신경과 전문의의 허혈 뇌졸중/TIA 환자 항혈소판·항응고 치료 실제 처방 패턴 |
-
-### 결론
-
-**결정: Proceed with Guardrails**
-
-**사유:**
-ESPRIT(Phase 4, n=4,500)이 TIA 환자에서 dipyridamole+아스피린의 직접적 L1 근거를 제공하며, 이는 Aggrenox의 전세계 허가 주요 적응증입니다. 뇌졸중 보충 보고서와 동일한 규제 경로 접근이 가능합니다.
-
-**진행하려면 필요한 것:**
-- 뇌졸중 예방과 동일 패키지로 국내 허가 신청 검토 가능
-- 아스피린 불내용 TIA 환자에서 dipyridamole 단독 요법 타당성 검토
-- MOA 데이터 및 국내 허가사항 안전성 정보 확보
+- 프린츠메탈 협심증 환자를 대상으로 디피리다몰의 치료 효과를 직접 평가한 임상 자료
+- 연축 유발 위험과 관상동맥 도둑 현상에 대한 안전성 검토
+- 한국 허가사항의 경고·금기·적응증 원문 확보와 대조
+- 같은 데이터에서 근거가 훨씬 강한 **뇌졸중 2차 예방**(L1)과 **일과성 허혈발작**(L1)을 우선 검토 대상으로 고려
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

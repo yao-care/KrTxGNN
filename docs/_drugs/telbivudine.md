@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Telbivudine
-parent: 중등도 근거 (L3-L4)
-nav_order: 661
-evidence_level: L4
+parent: 모델 예측만 (L5)
+nav_order: 720
+evidence_level: L5
 indication_count: 10
 ---
 
 # Telbivudine
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,107 +29,76 @@ indication_count: 10
 
 </div>
 
-Using report-generation instructions directly (no additional skill needed — this is a structured content-authoring task per the provided prompt spec).
-
----
-
-# Telbivudine: 적응증 미상에서 만성 C형 간염 바이러스 감염으로
+# 텔비부딘(Telbivudine): 만성 B형 간염에서 만성 C형 간염으로
 
 ## 한 문장 요약
 
-Telbivudine(DrugBank ID: DB01265)은 한국에 허가된 제품이 없어 기존 적응증 정보가 확인되지 않는 약물입니다. TxGNN 모델은 **만성 C형 간염 바이러스 감염(Chronic Hepatitis C Virus Infection)**에 효과가 있을 수 있다고 예측했으나(예측 점수 99.96%), **10건의 임상시험**과 **10편의 문헌**을 검토한 결과 대부분이 실제로는 B형 간염(HBV) 관련 연구이며, 이 예측을 직접 지지하는 근거는 확인되지 않았습니다.
-
----
+텔비부딘은 B형 간염 바이러스(HBV)의 DNA 중합효소를 억제하는 뉴클레오시드 유사체로, 원래 만성 B형 간염 치료에 사용되었습니다.
+TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C virus infection)**에 효과가 있을 수 있다고 예측합니다. 그러나 **임상시험은 0건**이고, 문헌 6편은 B형·C형 간염을 함께 다룬 총설이 대부분이어서 텔비부딘의 항HCV 효과를 직접 뒷받침하는 근거는 없습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 (한국 허가 정보 미제공) |
-| 예측 신규 적응증 | 만성 C형 간염 바이러스 감염 (Chronic Hepatitis C Virus Infection) |
-| TxGNN 예측 점수 | 99.96% (rank 1,381) |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | 미출시 (한국 내 허가 없음) |
-| 허가증 수 | 0건 |
+| 기존 적응증 | 만성 B형 간염 (허가증의 적응증 원문은 링크로만 제공되어 문헌에 기재된 허가 용도를 기준으로 함) |
+| 예측 신규 적응증 | 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) |
+| TxGNN 예측 점수 | 99.96% |
+| 근거 수준 | L5 (모델 예측만 있고 텔비부딘의 HCV 효과를 직접 다룬 연구 없음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
 | 권장 결정 | Hold |
-
----
 
 ## 이 예측이 타당한 이유는?
 
-작용 기전(MOA) 데이터는 현재 제공되지 않았습니다. 다만 확보된 임상·문헌 근거를 종합하면, Telbivudine은 L-티미딘 뉴클레오사이드 유사체로 인산화 후 **B형 간염 바이러스(HBV) DNA 중합효소(역전사효소)**를 경쟁적으로 억제하고 사슬 종결을 유도하는 약물입니다.
+텔비부딘은 천연 티미딘의 L-거울상 이성질체인 합성 뉴클레오시드 유사체입니다. 체내에서 활성형인 삼인산 형태로 인산화된 뒤 HBV DNA 중합효소(역전사효소)를 경쟁적으로 억제하여 DNA 사슬 연장을 중단시킵니다. 현재 상세한 작용 기전 데이터는 별도로 확보되지 않았으며, 위 설명은 문헌에 기재된 일반적인 기전입니다.
 
-반면 C형 간염 바이러스(HCV)는 RNA 바이러스로 **NS5B RNA 의존성 RNA 중합효소**를 이용해 복제하며, 두 효소는 구조와 기질 특이성이 달라 Telbivudine이 HCV 복제를 억제한다는 기전적 근거는 보고된 바 없습니다.
-
-근거팩에 포함된 임상시험·문헌은 대부분 "B형 및 C형 간염"을 함께 다루는 종설(review)이거나, HBV 환자를 대상으로 한 시험이 "hepatitis"라는 공통 키워드로 인해 이 적응증에 연결된 사례입니다. 즉, TxGNN의 높은 예측 점수는 지식 그래프 상의 위상적 유사성(topological similarity)에서 비롯된 것으로 보이며, 직접적인 항HCV 약리 근거는 확인되지 않았습니다.
-
----
+모델이 B형 간염과 C형 간염을 연결한 것은 둘 다 간을 침범하는 바이러스 감염이고, 문헌에서 함께 언급되는 경우가 많기 때문으로 보입니다. 그러나 HCV는 RNA 바이러스이며 치료 표적은 NS5B RNA 의존성 RNA 중합효소입니다. 텔비부딘은 HBV DNA 중합효소에 특이적이어서 이 표적에 작용한다는 근거가 없습니다. 따라서 높은 점수는 두 질환이 지식 그래프에서 함께 나타난 데서 비롯된 결과로 해석하는 것이 합리적이며, 기전상 타당성은 낮습니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00805675](https://clinicaltrials.gov/study/NCT00805675) | Phase 3 | 완료 | 83 | Telbivudine+Tenofovir 병용 vs 각각 단독요법의 HBV DNA 동태 비교(HBeAg 양성 대상성 만성B형간염 대상, C등급: HBV 시험이 HCV로 오분류) |
-| [NCT01925820](https://clinicaltrials.gov/study/NCT01925820) | Phase 4 | 불명 | 540 | Pegasys+Entecavir vs Entecavir vs Pegasys, HBeAg 음성 만성B형간염 비교 연구 |
-| [NCT00142298](https://clinicaltrials.gov/study/NCT00142298) | Phase 3 | 완료 | 1869 | Idenix 후원 telbivudine 임상시험 참여자 대상 개방표지 확장연구(만성B형간염) |
-| [NCT03181607](https://clinicaltrials.gov/study/NCT03181607) | N/A | 불명 | 300 | 고HBV DNA 부하 임산부에서 TDF/telbivudine을 이용한 모자수직감염(MTCT) 예방 |
-| [NCT00412529](https://clinicaltrials.gov/study/NCT00412529) | Phase 3 | 완료 | 44 | Telbivudine vs Entecavir, HBeAg양성 대상성 만성B형간염에서 HBV DNA 동태 비교 |
-| [NCT00810524](https://clinicaltrials.gov/study/NCT00810524) | Phase 4 | 불명 | 600 | 만성HBV감염 환자 대상 항바이러스 치료의 장기 예후 영향 평가 |
-| [NCT02956850](https://clinicaltrials.gov/study/NCT02956850) | Phase 1 | 완료 | 160 | RO7020531의 안전성·PK/PD 평가(건강인 및 만성B형간염 환자 대상) |
-| [NCT02058108](https://clinicaltrials.gov/study/NCT02058108) | Phase 3 | 중단 | 53 | 소아·청소년 만성B형간염에서 telbivudine 경구용액/정제 효능·안전성 평가(C등급: HBV 시험 오분류) |
-| [NCT01083251](https://clinicaltrials.gov/study/NCT01083251) | N/A | 불명 | 120 | 만성HBV감염자에서 비타민D 보충이 Peg-IFNα2a 또는 telbivudine 단독요법에 미치는 부가효과 |
-| [NCT05466071](https://clinicaltrials.gov/study/NCT05466071) | N/A | 불명 | 200 | 고HBV DNA 부하 임산부에서 TAF의 모자수직감염 예방 효능·안전성 평가 |
-
-> 위 10건 모두 실제로는 HBV(B형 간염) 대상 시험으로, HCV(C형 간염)에 대한 직접적인 유효성 데이터는 포함되어 있지 않습니다.
-
----
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [19344237](https://pubmed.ncbi.nlm.nih.gov/19344237/) | 2009 | Review | Expert Rev Anti Infect Ther | 만성 B형·C형간염 관리에 대한 종설(초록 없음) |
-| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Review | Wien Med Wochenschr | 만성 B형·C형간염의 현재 치료 및 향후 치료전망 |
-| [25233195](https://pubmed.ncbi.nlm.nih.gov/25233195/) | 2014 | Review | J Perinatol | 임신 중 B형·C형간염 리뷰 및 모자수직감염(MTCT) 감소 권고 |
-| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Review | Minerva Gastroenterol Dietol | B형·C형간염 항바이러스제 및 신기능에 미치는 영향 |
-| [28845882](https://pubmed.ncbi.nlm.nih.gov/28845882/) | 2018 | Cohort | J Viral Hepat | HCV DAA 치료 전후 HBV 재활성화 및 간 이상반응 발생률(미국 재향군인 코호트) |
-| [18330099](https://pubmed.ncbi.nlm.nih.gov/18330099/) | 2007 | Guideline | Acta Gastroenterol Belg | 만성B형간염 관리 벨기에 가이드라인(2007) |
-| [18340426](https://pubmed.ncbi.nlm.nih.gov/18340426/) | 2008 | Review | Der Internist | 만성B형·C형간염 항바이러스치료 최신 자료 및 독일 권고안 |
-| [23697556](https://pubmed.ncbi.nlm.nih.gov/23697556/) | 2013 | Clinical study | J Interferon Cytokine Res | Telbivudine 치료 중 HBeAg 혈청전환과 혈청 IL-37 농도 상관관계 |
-| [21964179](https://pubmed.ncbi.nlm.nih.gov/21964179/) | 2011 | Review | Mayo Clin Proc | HIV 이외 바이러스(헤르페스·간염·인플루엔자)에 대한 항바이러스제 총설 |
-| [21999649](https://pubmed.ncbi.nlm.nih.gov/21999649/) | 2011 | Review | Paediatric Drugs | 소아 만성 간질환 관리(1부): 치료 가능 질환 중심 |
-
-> 상기 문헌은 대부분 B형·C형간염을 함께 다루는 종설로, telbivudine의 HCV에 대한 직접적 항바이러스 효능을 보고한 연구는 없습니다.
-
----
+| [25233195](https://pubmed.ncbi.nlm.nih.gov/25233195/) | 2014 | Review | Journal of Perinatology | 임신 중 B형·C형 간염의 영향과 모자 감염 감소 전략 고찰 (텔비부딘 직접 언급 없음) |
+| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Review | Minerva Gastroenterologica e Dietologica | B형·C형 간염 항바이러스제(텔비부딘 포함)와 신기능에 미치는 영향 |
+| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Review | Wiener Medizinische Wochenschrift | 만성 B형·C형 간염의 현재 치료와 향후 전망 |
+| [18340426](https://pubmed.ncbi.nlm.nih.gov/18340426/) | 2008 | Review | Der Internist | 독일 지침에 따른 B형·C형 간염 항바이러스 치료 권고 (B형 간염에서 텔비부딘은 대체 단독요법 후보로 언급) |
+| [21999649](https://pubmed.ncbi.nlm.nih.gov/21999649/) | 2011 | Review | Paediatric Drugs | 소아 만성 간질환의 내과적 관리 |
+| [23697556](https://pubmed.ncbi.nlm.nih.gov/23697556/) | 2013 | Cohort | Journal of Interferon & Cytokine Research | 텔비부딘 치료 중인 만성 B형 간염 환자의 혈청 IL-37 농도와 HBeAg 혈청전환 관련성 (HCV 아님) |
 
 ## 한국 시판 정보
 
-현재 한국에 허가된 Telbivudine 제품이 없습니다(허가증 0건, 미출시).
-
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200611515 | 세비보정(텔비부딘) (부광약품) | 미황색 타원형 필름코팅정 (한쪽 면에 'LDT' 각인) | 허가증 원문 참조 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200611515/EE) |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 총 96건이 확인되었습니다. 이 중 보고서에 수집된 20건은 모두 중등도(Moderate)입니다.
+  - 코르티코스테로이드: 하이드로코르티손, 트리암시놀론, 덱사메타손, 베타메타손, 부데소니드, 프레드니손
+  - 항진균제·항생제: 암포테리신 B(지질 복합체, 콜레스테릴 황산염 제형 포함), 반코마이신, 카나마이신, 네오마이신, 메트로니다졸
+  - 아미노살리실산 계열: 메살라진, 발살라자이드, 올살라진, 설파살라진
+  - 지질 관련 약물: 로수바스타틴, 심바스타틴, 오르리스타트
+- **지식 그래프 기반 금기 질환**(허가사항 원문이 아닌 모델 지식 그래프 기준): 신장 질환, 근병증·근육 질환, 가족성 주기성 마비, 말초신경병증, 지방간 질환, 비알코올성 지방간염, 젖산산증, 피부근염·근염 등이 포함됩니다.
+- **임상적 주의**: HBV 치료 맥락에서는 근병증, 말초신경병증, CK 상승 위험이 알려져 있습니다. 페그인터페론 알파-2a와의 병용은 말초신경병증 위험 때문에 금기입니다.
 
----
+그 밖의 경고 및 금기 사항은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-- 근거 수준 L4로, 확인 가능한 임상시험·문헌이 대부분 HBV(B형 간염) 관련 연구이며 HCV(C형 간염)에 대한 직접적 유효성 데이터가 없습니다.
-- Telbivudine의 작용 표적(HBV DNA 중합효소)과 HCV 복제 효소(NS5B RNA 의존성 RNA 중합효소)가 상이하여 기전적 타당성도 부족합니다.
+C형 간염에 대한 임상시험이 없고, 문헌도 텔비부딘의 항HCV 활성을 보여주지 못합니다. 약물 표적(HBV DNA 중합효소)이 HCV의 표적(NS5B)과 달라 기전상 근거도 약합니다. 높은 예측 점수는 지식 그래프의 B형·C형 간염 동시 출현에서 비롯된 결과로 판단됩니다. 참고로 B형 간염은 이미 허가된 용도이므로 재창출 대상이 아닙니다.
 
 **진행하려면 필요한 것:**
-- Telbivudine의 항HCV in vitro/in vivo 활성 데이터 (현재 전무)
-- 작용기전(MOA) 상세 자료 확보 — DrugBank API 조회 필요 (DG002)
-- 한국 허가사항(경고·금기) 확보 — 안전성 초기평가(S1) 진입을 위한 필수 선결 조건, 현재 Blocking 상태 (DG001)
-
-**참고 — 동일 근거팩 내 대안 후보:**
-같은 근거팩의 2순위 후보인 **만성 B형간염(Hepatitis B virus infection)**은 근거 수준 **L1**, 완료된 대규모 Phase 3 RCT([NCT00142298](https://clinicaltrials.gov/study/NCT00142298), n=1,869 등) 다수를 보유하고 있으며 **"Proceed with Guardrails"** 권고를 받았습니다. 다만 이는 telbivudine의 이미 알려진 작용 영역(HBV DNA 중합효소 억제)과 일치하는 결과로, 진정한 신규 재창출 후보라기보다 모델이 기존 지식을 재확인한 사례로 해석하는 것이 타당합니다. 신규 적응증 발굴이 목적이라면 해당 후보보다는 별도의 낮은 순위 예측(예: HIV, 대사질환 등)에 대한 추가 검증이 필요합니다.
+- HCV 복제 모델(레플리콘 등)에서 텔비부딘의 항바이러스 활성을 확인하는 전임상 데이터
+- 상세한 약물 작용 기전(MOA) 데이터 확보
+- 허가증 원문(PDF)에서 허가 적응증, 경고, 금기 사항을 추출하여 안전성 검토
+- HCV에는 이미 직접작용 항바이러스제(DAA)가 확립되어 있으므로, 이들과 비교한 임상적 필요성 평가
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -2,7 +2,7 @@
 layout: default
 title: Roxatidine Acetate Hydrochloride
 parent: 모델 예측만 (L5)
-nav_order: 619
+nav_order: 672
 evidence_level: L5
 indication_count: 0
 ---

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ifosfamide
-parent: 중등도 근거 (L3-L4)
-nav_order: 385
-evidence_level: L3
+parent: 모델 예측만 (L5)
+nav_order: 413
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ifosfamide
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,94 +29,104 @@ indication_count: 10
 
 </div>
 
-# Ifosfamide: 연부조직육종·고환암에서 유방암으로
+# Ifosfamide: 항암화학요법제에서 여성 유방암으로
 
 ## 한 문장 요약
 
-Ifosfamide는 알킬화제(oxazaphosphorine 계열) 세포독성 항암제로, 국제 문헌상 연부조직육종과 고환암 치료에 주로 사용되어 왔습니다.
-TxGNN 모델은 **유방암(Female Breast Carcinoma)**에도 효과가 있을 수 있다고 예측하며, 현재 관련 임상시험 등록은 없지만 **20편의 문헌**(주로 1990~2000년대 소규모 Phase II 연구)이 이 방향을 지지합니다.
-
----
+Ifosfamide는 DNA를 알킬화하는 항암제로, 한국에서는 홀록산주(1000 mg 주사제)로 시판되고 있습니다. 다만 허가 적응증 문구는 문서 링크로만 확인되어 구체적인 질환명은 이번 자료에서 확인되지 않았습니다.
+TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있을 수 있다고 예측하며, 이 예측에 대해 **6건의 임상시험**과 **20편의 문헌**이 검토되었으나 대부분 2상 이하 또는 복합요법 연구입니다.
+참고로 예측 순위가 더 낮은 **횡문근육종**은 3상 임상시험 근거가 가장 탄탄하여, 별도 검토할 만합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 연부조직육종, 고환암 (해외 문헌 기준 — 한국 허가 정보 없음) |
-| 예측 신규 적응증 | 유방암 (Female Breast Carcinoma) |
+| 기존 적응증 | 확인 불가 (허가증에 문서 링크만 기재되어 있음) |
+| 예측 신규 적응증 | 여성 유방암 (Female Breast Carcinoma) |
 | TxGNN 예측 점수 | 99.91% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | 미상영 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Hold |
-
----
+| 근거 수준 | L2 (3상 RCT 없음, 2상 시험과 문헌 중심) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
+| 권장 결정 | Hold (연구 과제로 분류) |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터는 확보되지 않았습니다(DrugBank 조회 필요, Data Gap). 다만 Ifosfamide는 cyclophosphamide의 유사체(analog)인 알킬화제로, DNA 가교 형성을 통해 종양세포의 증식을 억제하는 것으로 널리 알려져 있습니다.
+현재 상세한 작용 기전 데이터가 이번 자료에 없습니다. 다만 문헌에 따르면 Ifosfamide는 간 CYP450 효소로 활성화되는 알킬화 전구약물입니다. 활성 대사체인 isophosphoramide mustard가 DNA를 교차결합시켜 증식하는 종양세포의 사멸을 유도합니다.
 
-기존 적응증인 연부조직육종·고환암과 유방암은 모두 화학요법 감수성 고형암이라는 공통점이 있으며, 문헌에서는 anthracycline 저항성 전이성 유방암, 화생성 유방암(metaplastic breast cancer) 등 치료 옵션이 제한적인 아형에서 ifosfamide 병용요법이 반복적으로 시도되어 왔습니다. 특히 doxorubicin/epirubicin, paclitaxel, etoposide, vinorelbine 등 기존 유방암 표준 화학요법제와의 병용 연구가 다수 존재하여, 기전상 교차 활용 가능성을 뒷받침합니다.
+이 기전은 유방암 세포에도 적용될 수 있습니다. 실제로 전이성 유방암에서 Ifosfamide 단독 요법의 반응률은 7~30%로 보고되었고, 병용요법에서는 더 높은 반응률이 보고되었습니다. 또한 유방암 조직에서 Ifosfamide를 대사하는 CYP 효소 발현이 확인된 연구도 있습니다.
 
----
+다만 Ifosfamide는 일반적인 유방암 아형의 표준 치료 기반 약물이 아닙니다. 따라서 사용은 불응성 질환이나 화생성 유방암, 엽상종양 같은 특수 조직형으로 제한될 가능성이 큽니다.
 
 ## 임상시험 근거
 
-현재 관련 임상시험 등록이 없습니다.
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT00026078](https://clinicaltrials.gov/study/NCT00026078) | Phase 2 | 불명 | 42 | 전이성 유방암 1차 치료에서 docetaxel + ifosfamide 병용 평가 (관련성 가장 높음) |
+| [NCT00012311](https://clinicaltrials.gov/study/NCT00012311) | Phase 2 | 불명 | 미상 | 전이성 유방암에서 다주기 고용량 화학요법과 최적 표준용량 화학요법 비교 |
+| [NCT00002854](https://clinicaltrials.gov/study/NCT00002854) | Phase 1 | 완료 | 33 | 진행성 암에서 고용량 cisplatin, cyclophosphamide, etoposide, ifosfamide 등 순차 투여 + 자가 줄기세포 지지 |
+| [NCT00006032](https://clinicaltrials.gov/study/NCT00006032) | Phase 2 | 중단 | 미상 | 전이성 유방암에서 고용량 topotecan, ifosfamide/mesna, etoposide + 자가 줄기세포 구제 |
+| [NCT00003086](https://clinicaltrials.gov/study/NCT00003086) | Phase 1/2 | 중단 | 12 | 4기 유방암에서 samarium-153 포함 이중 자가 골수이식 |
+| [NCT00020722](https://clinicaltrials.gov/study/NCT00020722) | Phase 2 | 중단 | 7 | 4기 유방암에서 줄기세포 이식 후 활성화 T세포 치료 |
 
----
+대부분 고용량 병용요법 연구여서 Ifosfamide 단독 효과를 분리해 판단하기 어렵습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [11932893](https://pubmed.ncbi.nlm.nih.gov/11932893/) | 2002 | Phase II | Cancer | Anthracycline 저항성 전이성 유방암에서 paclitaxel 24시간 주입 + ifosfamide 병용요법 효능·내약성 평가 |
-| [8711499](https://pubmed.ncbi.nlm.nih.gov/8711499/) | 1996 | Randomized Phase II | Seminars in Oncology | Epirubicin+ifosfamide 지속 치료 vs 치료 중단 비교, 357명 등록(331명 평가), 완전관해 8%·부분관해 37% |
-| [2347053](https://pubmed.ncbi.nlm.nih.gov/2347053/) | 1990 | Phase II/Cohort | Cancer Chemother Pharmacol | 난치성 유방암 및 기타 전이성 고형암 58명 대상 epirubicin+ifosfamide 병용요법 |
-| [9226029](https://pubmed.ncbi.nlm.nih.gov/9226029/) | 1997 | Phase II | Tumori | 기치료 진행성 유방암 환자에서 ifosfamide+etoposide 반응률 및 독성 평가 |
-| [9708645](https://pubmed.ncbi.nlm.nih.gov/9708645/) | 1998 | Phase II | Am J Clin Oncol | 전이성 유방암 29명 대상 ifosfamide+mesna 단독요법 활성 평가 |
-| [8873839](https://pubmed.ncbi.nlm.nih.gov/8873839/) | 1996 | Phase II (2차 요법) | J Chemother | 진행성 전이성 유방암 16명, ifosfamide+mesna+epirubicin(IMEpi) 2차 화학요법, 반응률 50% |
-| [10602907](https://pubmed.ncbi.nlm.nih.gov/10602907/) | 1999 | Cohort | Cancer Chemother Pharmacol | 전이성·난치성 유방암 25명, ICE(ifosfamide+carboplatin+etoposide) 요법 |
-| [39306877](https://pubmed.ncbi.nlm.nih.gov/39306877/) | 2024 | 최신 사례 연구 | Current Problems in Cancer | 화생성 유방암(triple-negative 아형)에서 ifosfamide 기반 화학요법 경험, 표준요법 반응 불량 아형에 대한 근거 |
-| [8918497](https://pubmed.ncbi.nlm.nih.gov/8918497/) | 1996 | Phase II | J Clin Oncol | 1차 전이성 유방암 화학요법으로서 ifosfamide+vinorelbine 효능·독성 평가 |
-| [3286879](https://pubmed.ncbi.nlm.nih.gov/3286879/) | 1988 | Review | J Natl Cancer Inst | Ifosfamide 종설 — 연부조직육종·고환암에서의 기존 활성 및 비뇨기 독성 관리 관련 기술 |
+| [14586149](https://pubmed.ncbi.nlm.nih.gov/14586149/) | 2003 | Review | Oncology | 진행성 유방암에서 단독 반응률 7~30%, 병용 시 더 높은 반응률. mesna로 요독성 감소 |
+| [39306877](https://pubmed.ncbi.nlm.nih.gov/39306877/) | 2024 | Cohort | Current Problems in Cancer | 화생성 유방암에서 Ifosfamide 기반 1차 화학요법 경험 |
+| [39074497](https://pubmed.ncbi.nlm.nih.gov/39074497/) | 2024 | Cohort | JNCCN | 악성 엽상종양에서 보조 화학요법의 장기 예후 영향 |
+| [8918497](https://pubmed.ncbi.nlm.nih.gov/8918497/) | 1996 | Phase 2 | J Clin Oncol | 전이성 유방암 1차 치료에서 ifosfamide + vinorelbine |
+| [8445421](https://pubmed.ncbi.nlm.nih.gov/8445421/) | 1993 | Phase 2 | J Clin Oncol | 전이성 유방암 1차 치료에서 ifosfamide + mitoxantrone |
+| [11932893](https://pubmed.ncbi.nlm.nih.gov/11932893/) | 2002 | Phase 2 | Cancer | 안트라사이클린 내성 전이성 유방암에서 paclitaxel(24시간 주입) + ifosfamide |
+| [9226029](https://pubmed.ncbi.nlm.nih.gov/9226029/) | 1997 | 임상연구 | Tumori | 기치료 진행성 유방암에서 ifosfamide + etoposide |
+| [1390313](https://pubmed.ncbi.nlm.nih.gov/1390313/) | 1992 | 문헌고찰 | Ann Oncol | 유방암에서 Ifosfamide 사용 개관, 단독 요법 객관적 반응 약 20% |
+| [1720382](https://pubmed.ncbi.nlm.nih.gov/1720382/) | 1991 | Review | Drugs | Ifosfamide/mesna의 항종양 활성, 약동학, 치료 효능 종합 고찰 |
+| [14970873](https://pubmed.ncbi.nlm.nih.gov/14970873/) | 2004 | 기전 연구 | Br J Cancer | 유방암 조직의 CYP3A4, CYP2C9, CYP2B6 발현과 Ifosfamide 대사 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200804588 | 홀록산주1000밀리그람(이포스파마이드) (부광약품) | 흰색의 결정성 가루가 들어있는 바이알 (주사제) | 허가 적응증 본문은 문서 링크로만 제공되어 확인되지 않음 |
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 화학요법 약물 (Oxazaphosphorine계 알킬화제, cyclophosphamide 유사체) |
-| 골수억제 위험 | 고위험 — 문헌 전반에서 호중구감소증·혈소판감소증이 반복 보고되며, 타 적응증(림프종·육종) 치료 후 치료 관련 골수형성이상증후군/백혈병 이차 발생 사례도 다수 확인됨 |
-| 구토 유발성 등급 | 고~중등도 (고용량 알킬화제로서 일반적으로 중등도 이상 구토 유발 위험군에 분류) |
-| 모니터링 항목 | CBC(전혈구 계산), 신기능(BUN/Cr — 신독성 보고), 출혈성 방광염 관련 요검사(mesna 병용 필요), 중추신경계 독성(뇌병증) 관찰 |
+| 세포독성 분류 | 기존 세포독성 약물 (알킬화제, oxazaphosphorine 계열) |
+| 골수억제 위험 | 고 (문헌에서 골수억제가 주요 독성으로 언급됨) |
+| 구토 유발성 등급 | 중~고 (약물 계열 기준의 일반적 평가, 허가사항 확인 필요) |
+| 모니터링 항목 | CBC(분류 포함), 신기능, 간기능, 소변검사(혈뇨), 신경학적 증상 |
 | 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
 
-※ 상기 항목은 ifosfamide의 일반적으로 알려진 세포독성 프로파일에 기반한 요약이며, 한국 내 공식 허가사항(경고·금기) 데이터는 확보되지 않았습니다(Data Gap, Blocking).
-
----
+허가사항의 경고 및 주의사항을 함께 참조하세요.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 이번 조회에서 총 100건이 확인되었고, 아래는 일부입니다.
+  - 중등도: Amphotericin B, Bupropion, Aprepitant, Morphine, Metoclopramide, Scopolamine, Dronabinol, Nabilone, Kanamycin, Neomycin
+  - 중등도(혈당강하제): Chlorpropamide, Glimepiride, Glipizide, Glyburide, Nateglinide, Repaglinide, Tolazamide, Acetohexamide
+  - 경미: Levofloxacin
+- **문헌상 주의점**: mesna 병용 요로독성 예방, 신독성, 신경독성, 골수억제, 이차 백혈병/골수형성이상증후군 위험이 언급되었습니다.
 
----
+주요 경고와 금기는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Hold**
+**결정: Hold (연구 과제로 분류)**
 
 **사유:**
-유방암에 대한 ifosfamide 관련 문헌은 다수 존재하나 대부분 1990년대~2000년대 초 소규모 Phase II/코호트 연구이며, 등록된 진행 중인 임상시험이 전무하고 RCT 근거도 없습니다. 2024년 최신 문헌은 화생성 유방암이라는 희귀 아형에 국한되어 일반화하기 어렵습니다.
+유방암에서 Ifosfamide의 활성은 여러 2상 시험과 문헌으로 뒷받침되지만, 3상 RCT가 없고 표준 치료도 아닙니다. 또한 한국 허가 적응증 본문과 안전성 정보(경고·금기)가 확보되지 않아 안전성 심사를 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
-- 작용기전(MOA) 상세 데이터 확보 (DrugBank API 조회)
-- 한국 내 허가사항 경고·금기 정보 확보 (Blocking data gap — S1 안전성 초평가 진입 불가)
-- 유방암 적응증에 대한 전향적/무작위 대조 임상시험 근거 확보
-- 한국 내 허가·시판 현황 확인 (현재 미상영)
-
-**참고:** 동일 Evidence Pack 내 예측 순위 7위인 **횡문근육종(rhabdomyosarcoma)**은 다수의 Phase 3 RCT를 포함한 L1 근거 수준으로 이미 표준 화학요법 골격으로 자리잡고 있어(Proceed with Guardrails), 유방암보다 우선순위가 높은 재창출 시그널로 별도 검토할 가치가 있습니다.
+- 식약처 허가사항(첨부문서) 확보: 허가 적응증, 경고, 금기
+- 상세한 약물 작용 기전(MOA) 데이터 (DrugBank 조회)
+- 유방암에서 Ifosfamide를 직접 평가한 2상 이상 결과 확인 (예: NCT00026078 결과 확인)
+- 불응성 또는 화생성 유방암 등 특수 조직형으로 대상 인구집단 한정
+- 참고: 순위 7위 **횡문근육종**은 연성조직육종 3상 RCT(예: NCT00061984, NCT00003212) 근거로 L1, Proceed with Guardrails로 평가되었으나, 횡문근육종 특이적 3상 근거는 별도 확인이 필요합니다.
+- 순위 2~6, 8~9위(골수형성이상증후군, 5q 결손, 소아 불응성 혈구감소증, 재생불량성 빈혈 등)는 근거가 없거나 Ifosfamide가 오히려 위험 요인이므로 Hold 권고입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

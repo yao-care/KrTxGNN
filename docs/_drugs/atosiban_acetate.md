@@ -2,7 +2,7 @@
 layout: default
 title: Atosiban Acetate
 parent: 모델 예측만 (L5)
-nav_order: 98
+nav_order: 100
 evidence_level: L5
 indication_count: 0
 ---

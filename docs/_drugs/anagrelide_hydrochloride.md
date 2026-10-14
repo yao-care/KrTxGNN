@@ -2,7 +2,7 @@
 layout: default
 title: Anagrelide Hydrochloride
 parent: 모델 예측만 (L5)
-nav_order: 72
+nav_order: 74
 evidence_level: L5
 indication_count: 0
 ---

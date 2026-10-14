@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Givosiran
-parent: 모델 예측만 (L5)
-nav_order: 348
-evidence_level: L5
+parent: 중등도 근거 (L3-L4)
+nav_order: 376
+evidence_level: L4
 indication_count: 10
 ---
 
 # Givosiran
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,76 +33,77 @@ indication_count: 10
 
 ## 한 문장 요약
 
-Givosiran(Givlaari)은 GalNAc-siRNA 기술로 간 내 ALAS1(ALA 합성효소 1)을 침묵시켜 독성 전구체 ALA·PBG 축적을 예방하는 RNAi 치료제로, 전 세계적으로 급성 간성 포르피린증(AHP) 치료에 허가되어 있으나 한국에서는 미허가 상태입니다. TxGNN 모델은 **ALA 탈수효소 결핍 포르피린증(ALAD Porphyria, Doss 포르피린증)**에 효과가 있을 수 있다고 예측하며, 현재 **8편의 관련 문헌**이 부분적 근거를 제공합니다. 단, 실제 ALAD 포르피린증 환자에서 무반응 증례가 보고되어 있어 현 단계에서는 연구 질문 수준에 머무릅니다.
-
-> ⚠️ **예측 품질 주의**: 상위 1~8번 예측 질환(TxGNN 점수 동일: 99.9999%)은 간 문맥 고혈압, 간경화 관련 질환 등으로 Givosiran의 ALAS1 억제 기전과 병리 경로상 교집합이 없습니다. 동일 점수 클러스터는 지식 그래프의 노드 군집 효과로 판단되며, 이 보고서는 유일하게 기전적 타당성이 확인된 **순위 9번 예측(ALAD 포르피린증)**을 중심으로 분석합니다.
-
----
+Givosiran은 간세포의 ALAS1을 억제하는 siRNA 치료제로, 급성 간성 포르피린증(AHP) 치료에 사용됩니다.
+TxGNN 모델은 **ALA 탈수효소 결핍 포르피린증(Porphyria due to ALA dehydratase deficiency)**에 효과가 있을 수 있다고 예측하며, 현재 **임상시험은 0건**, **문헌은 9편**(대부분 AHP 전반 또는 증례 보고)이 관련되어 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 급성 간성 포르피린증 (AHP) — 해외 허가, 한국 미허가 |
+| 기존 적응증 | 급성 간성 포르피린증 (허가 적응증 원문은 링크 형태로만 제공되어 허가사항 확인 필요) |
 | 예측 신규 적응증 | ALA 탈수효소 결핍 포르피린증 (Porphyria due to ALA dehydratase deficiency) |
-| TxGNN 예측 점수 | 99.91% (전체 순위 #2,378) |
-| 근거 수준 | L4 (기전 연구·사례 보고) |
-| 한국 시판 현황 | ✗ 미허가 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Hold |
+| TxGNN 예측 점수 | 99.91% |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
+| 권장 결정 | Hold (연구 질문 단계) |
 
----
+> 참고: 전체 예측 목록의 1위(TxGNN 점수 99.9986%)는 문헌·임상시험 근거가 전혀 없는 간 질환들입니다. 이들은 서로 점수가 동일하여 일반적인 간 관련 네트워크에서 나온 예측으로 보이며, 본 보고서는 실제 근거가 있는 후보인 ALA 탈수효소 결핍 포르피린증을 중심으로 평가합니다.
 
 ## 이 예측이 타당한 이유는?
 
-Givosiran은 RNA 간섭(RNAi) 기전으로 작동하는 간 표적 치료제입니다. 약물에 결합된 GalNAc(N-아세틸갈락토사민) 리간드가 간세포 표면의 아시아로당단백질 수용체(ASGPR)와 결합하여 선택적으로 세포 내로 전달되고, 세포질에서 RISC(RNA 유도 침묵 복합체)를 통해 ALAS1 mRNA를 분해합니다. 그 결과 혈액·소변 내 ALA(δ-아미노레불린산)와 PBG(포르포빌리노겐) 수치가 저하되어 급성 발작이 예방됩니다.
+Givosiran은 GalNAc가 결합된 siRNA로, 간세포에서 ALAS1 mRNA를 분해합니다. ALAS1은 헴 합성 경로의 첫 단계 효소이며, 급성 포르피린증 발작 때 유도되어 신경독성 중간산물인 ALA와 PBG의 축적을 일으킵니다. 현재 데이터베이스에는 상세한 작용 기전 항목이 비어 있으나, 문헌상 위와 같은 기전이 확인됩니다.
 
-ALA 탈수효소 결핍 포르피린증(ADP)은 헴 합성 경로의 2번째 효소인 ALAD가 심각하게 결핍되어 ALA가 체내에 축적되는 극희귀 상염색체 열성 질환입니다. 이론적으로 Givosiran이 ALAS1을 억제하여 ALA 생성을 상류에서 차단하면 ADP 환자의 ALA 부하도 줄일 수 있습니다. 실제로 FDA는 Givosiran을 ADP를 포함한 광의의 AHP 질환군에 허가하였으며, 이는 예측의 기전적 타당성을 일부 뒷받침합니다.
+ALA 탈수효소 결핍 포르피린증(ADP)은 헴 합성의 두 번째 효소가 결핍되어 ALA가 축적되는 질환으로, AHP의 네 가지 유형 중 하나입니다. ALAS1을 억제해 ALA 생성을 줄이는 givosiran의 기전과 직접 맞닿아 있어, 허가 적응증과 매우 인접한 후보입니다.
 
-그러나 실제 임상 결과는 불확실합니다. ADP에서 ALA의 대사 경로는 급성 간헐성 포르피린증(AIP)과 다를 수 있으며, 납 노출 등 ADP 특유의 촉발 인자는 ALAS1 억제로 영향받지 않을 수 있습니다. PMID 35991568(증례 보고)에서 ADP 환자에게 Givosiran을 투여했을 때 치료 반응이 없었으며, 이는 현재 가장 중요한 임상 근거입니다. 전 세계 ADP 확진 환자 수가 10명 미만이어서 추가 임상 연구 자체가 매우 어려운 상황입니다.
-
----
+다만 근거는 제한적입니다. 핵심 3상 시험(ENVISION)은 주로 급성 간헐성 포르피린증(AIP) 환자를 대상으로 했으며 ADP에서의 효능을 직접 입증하지 못했습니다. 또한 ADP는 간뿐 아니라 적혈구 계열의 ALA 생성(ALAS2)도 관여할 수 있어, 간 표적 치료만으로는 효과가 제한될 가능성이 있습니다.
 
 ## 임상시험 근거
 
-현재 ALA 탈수효소 결핍 포르피린증에 대한 관련 임상시험 등록이 없습니다.
-
----
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [35991568](https://pubmed.ncbi.nlm.nih.gov/35991568/) | 2022 | ⚠️ 증례 보고 | Front Genet | **[핵심]** ALAD 포르피린증 1례에서 Givosiran 무반응 — 재창출 가설에 대한 반박 증거 |
-| [35067977](https://pubmed.ncbi.nlm.nih.gov/35067977/) | 2022 | RCT | J Intern Med | 급성 간헐성 포르피린증(AIP)에서 Givosiran RNAi 치료가 발작률을 유의하게 감소 |
-| [36028858](https://pubmed.ncbi.nlm.nih.gov/36028858/) | 2022 | Phase 3 보조 분석 | Orphanet J Rare Dis | ENVISION Phase 3 시험: AHP 질환 부담 평가 및 Givosiran 치료 효과 확인 |
-| [37027823](https://pubmed.ncbi.nlm.nih.gov/37027823/) | 2023 | Review | Blood | AHP에서 RNA 간섭 치료 기전 및 임상 근거 종합 (ADP 포함 4가지 AHP 아형 다룸) |
-| [39313028](https://pubmed.ncbi.nlm.nih.gov/39313028/) | 2024 | 임상 지침/Review | Rev Clin Esp | 급성 간성 포르피린증 위기 치료 접근법 (ALAD 결핍 포르피린증 아형 포함) |
-| [40312531](https://pubmed.ncbi.nlm.nih.gov/40312531/) | 2025 | Phase 3 부분군 분석 | Sci Rep | 일본 AHP 환자 10명 대상 Givosiran 확장 접근 연구: 피하주사 2.5 mg/kg/월 안전성·유효성 확인 |
-| [35734365](https://pubmed.ncbi.nlm.nih.gov/35734365/) | 2022 | Review | Drug Des Dev Ther | Givosiran의 설계·개발·치료적 위치에 대한 종합 검토 |
-| [36883675](https://pubmed.ncbi.nlm.nih.gov/36883675/) | 2023 | PK/PD 모델링 | CPT Pharmacometrics | Phase I~III 통합 데이터 기반 Givosiran 투여 후 요중 ALA 감소의 반기전적 PK/PD 모델 |
+| [36028858](https://pubmed.ncbi.nlm.nih.gov/36028858/) | 2022 | RCT 사후 분석 (ENVISION 3상) | Orphanet J Rare Dis | 12세 이상 AHP 환자의 질병 부담 평가 |
+| [40312531](https://pubmed.ncbi.nlm.nih.gov/40312531/) | 2025 | 코호트 (일본 환자) | Sci Rep | 일본 AHP 환자 10명 대상 확대 접근 연구에서 givosiran(2.5 mg/kg, 월 1회)의 효능·안전성 탐색 |
+| [35067977](https://pubmed.ncbi.nlm.nih.gov/35067977/) | 2022 | Review | J Intern Med | RNAi 치료(givosiran)가 급성 간헐성 포르피린증의 발작 빈도를 유의하게 감소 |
+| [37027823](https://pubmed.ncbi.nlm.nih.gov/37027823/) | 2023 | Review | Blood | 급성 간성 포르피린증에서 RNA 간섭 치료의 기전과 임상 적용 |
+| [39313028](https://pubmed.ncbi.nlm.nih.gov/39313028/) | 2024 | Review | Rev Clin Esp | 간성 포르피린증 급성 발작의 치료 접근 |
+| [35734365](https://pubmed.ncbi.nlm.nih.gov/35734365/) | 2022 | Review | Drug Des Devel Ther | 성인 AHP 치료 옵션으로서 givosiran의 설계, 개발, 위치 |
+| [36883675](https://pubmed.ncbi.nlm.nih.gov/36883675/) | 2023 | PK/PD 모델링 | CPT Pharmacometrics Syst Pharmacol | givosiran 투여 후 요중 ALA 감소의 PK-PD 모델 |
+| [35991568](https://pubmed.ncbi.nlm.nih.gov/35991568/) | 2022 | 증례 보고 | Front Genet | ALAD 포르피린증 환자에서 givosiran에 반응하지 않음 |
+| [42443962](https://pubmed.ncbi.nlm.nih.gov/42443962/) | 2026 | 증례 보고 | Orphanet J Rare Dis | 간 ALA 생성만 억제한 치료는 효과가 제한적이었고, 간·적혈구 양쪽 ALA 생성을 억제하여 치료 |
 
----
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 202600588 | 기브라리주(기보시란나트륨) | 주사제 (무색~노란색 투명 용액, 유리 바이알) | 허가 적응증 원문은 링크로만 제공됨 (허가사항 참조) |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 총 87건이 확인되었습니다. 이 중 주요(Major) 등급은 **Eliglustat**이며, 나머지는 중등도(Moderate) 등급입니다. 중등도 항목에는 다음이 포함됩니다.
+  - 아미노글리코시드·글리코펩티드 계열: Vancomycin, Kanamycin, Neomycin, Streptomycin
+  - Amphotericin B 제제
+  - 5-ASA 계열: Mesalazine, Balsalazide, Olsalazine, Sulfasalazine
+  - 기타: Metoclopramide, Naltrexone, Exenatide, Fenfluramine, Caffeine 등
 
----
+경고 및 금기 사항은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Hold**
+**결정: Hold (연구 질문 단계)**
 
 **사유:**
-ALA 탈수효소 결핍 포르피린증(ADP)은 Givosiran의 ALAS1 억제 기전과 이론적 연관성이 있으나, 실제 ADP 환자에서 무반응 증례가 보고되었고 전 세계 확진 환자가 10명 미만이어서 임상 개발 가능성이 매우 제한적입니다. 상위 1~8번 TxGNN 예측(간 문맥 고혈압·경화 관련 질환 등)은 기전적 교집합이 전혀 없어 재창출 후보에서 제외합니다.
+기전적 타당성은 있으나, ADP에서의 근거는 상반된 결과의 증례 보고 2건뿐이며 임상시험이 없습니다. 한 증례에서는 반응이 없었고, 다른 증례에서는 적혈구 ALA 생성까지 억제해야 했다는 점에서 효과가 제한적일 가능성이 있습니다. 나머지 예측(간 질환, 바이러스성 간염 등)은 근거와 기전적 연관성이 모두 없어 보류가 적절합니다.
 
 **진행하려면 필요한 것:**
-- ALAD 포르피린증 특이적 ALA 대사 경로 분석 (AIP와의 병리 차이 규명)
-- 전 세계 ADP 환자 레지스트리 데이터 접근 및 추가 증례 수집
-- 작용 기전(MOA) 상세 데이터 확보 (DrugBank DB15066 API 조회 권장)
-- 안전성 자료 확보 (FDA Prescribing Information 또는 한국 식약처 허가사항 참조)
-- 상위 1~8번 예측에 대한 TxGNN 스코어 클러스터 원인 분석 (지식 그래프 노드 검토)
+- 한국 허가사항(적응증, 경고, 금기)의 정확한 확인 — 허가 적응증에 ADP가 포함되는지 포함
+- 작용 기전(MOA) 데이터 보완
+- ADP 환자 대상 추가 증례 또는 레지스트리 자료 수집 및 ALAS2 등 적혈구 경로의 영향 평가
+- 주요 상호작용(Eliglustat 등)을 포함한 안전성 모니터링 계획 수립
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

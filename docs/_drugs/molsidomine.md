@@ -2,15 +2,15 @@
 layout: default
 title: Molsidomine
 parent: 높은 근거 (L1-L2)
-nav_order: 489
-evidence_level: L1
+nav_order: 527
+evidence_level: L2
 indication_count: 10
 ---
 
 # Molsidomine
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,51 +29,60 @@ indication_count: 10
 
 </div>
 
-# Molsidomine: 협심증(관상동맥질환)에서 혈관질환(Vascular Disease)으로
+# Molsidomine: 협심증 등 허혈성 심질환에서 혈관 질환으로
 
 ## 한 문장 요약
 
-Molsidomine은 해외(유럽·아시아)에서 협심증·관상동맥질환 치료에 사용되어 온 일산화질소(NO) 공여체 계열 혈관확장제입니다. TxGNN 모델은 **혈관질환(Vascular Disease)**에 효과가 있을 것으로 예측하며, 현재 **2건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다. 다만 이 예측은 완전히 새로운 영역이라기보다 기존에 알려진 적응증(협심증/관상동맥질환)이 더 넓은 범주로 재확인된 성격에 가깝습니다.
+Molsidomine은 산화질소(NO)를 방출하는 전구약물로, 한국에서 몰시톤정(2mg, 4mg)으로 허가되어 시판 중입니다. TxGNN 모델은 **혈관 질환(vascular disease)**에 효과가 있을 수 있다고 예측하며, 현재 **2건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다. 다만 대부분의 문헌은 리뷰나 소규모 연구입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 협심증/관상동맥질환 (해외 사용 근거, 한국 미허가 — 문헌 기반) |
-| 예측 신규 적응증 | 혈관질환 (Vascular Disease) |
-| TxGNN 예측 점수 | 99.9999% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | 미상 시판 (허가 없음) |
-| 허가증 수 | 0건 |
+| 기존 적응증 | 허가증에 적응증 원문이 없고 문서 링크만 제공되어 확인할 수 없습니다 (문헌상 관상동맥질환·협심증 치료제) |
+| 예측 신규 적응증 | 혈관 질환 (Vascular disease) |
+| TxGNN 예측 점수 | 99.99995% |
+| 근거 수준 | L2 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 2건 |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
 
-Molsidomine은 sydnonimine 계열의 NO 공여 전구약물로, 간에서 대사되어 활성대사체 SIN-1이 되고 NO를 방출합니다. 이 NO가 혈관(특히 정맥 및 관상동맥) 평활근을 이완시켜 전부하를 낮추고 심근 허혈을 개선하는 것이 핵심 기전입니다(PMID 2242448, 8743336).
+현재 상세한 작용 기전 데이터(DrugBank)는 없습니다. 다만 문헌에 따르면 Molsidomine은 linsidomine(SIN-1)으로 전환되는 전구약물이며, NO를 방출해 가용성 구아닐산 고리화효소를 활성화하고 cGMP를 높입니다. 그 결과 혈관 확장, 혈소판 응집 억제, 내피 기능 개선 효과가 나타납니다(PMID 7620515, 8767924).
 
-기존 적응증인 협심증/관상동맥질환과 예측된 신규 적응증 '혈관질환'은 사실상 같은 병태생리 범주에 속합니다. Evidence pack의 재창출 근거에서도 "이 적응증은 본질적으로 유럽/아시아에서 기존에 승인된 용도(협심증/관상동맥질환)이며, 진정한 의미의 신규 재창출이라기보다 '기존 용도의 재확인'에 해당한다"고 명시하고 있어, 기전상 타당성은 높지만 참신성은 제한적입니다.
+이러한 기전은 관상동맥질환, 말초동맥질환, 내피 기능 이상 등 혈관 질환 전반과 부합합니다. 실제로 말초동맥질환 환자에서 프로스타시클린과 병용 시 항혈소판 및 섬유소 용해 작용이 보고되었고, 안정형 협심증 환자의 내피 기능을 평가한 Phase 4 시험도 완료되었습니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT01363661](https://clinicaltrials.gov/study/NCT01363661) | Phase 4 | 완료 | 165 | 안정형 협심증 환자에서 PCI 시행 후 12개월간 molsidomine 병용요법이 내피기능(RH-PAT 지표)을 위약 대비 개선하는지 평가한 이중맹검 무작위대조시험 |
-| [NCT00382421](https://clinicaltrials.gov/study/NCT00382421) | N/A | 완료 | N/A | SWISSI 1 연구 — 무증상 심근허혈 환자에서 항협심증 약물요법(molsidomine 포함)과 위험인자 관리의 장기 예후 평가 개입 연구 |
+| [NCT01363661](https://clinicaltrials.gov/study/NCT01363661) | Phase 4 | 완료 | 165 | 경피적 관상동맥 중재술을 받는 안정형 협심증 환자에서 Molsidomine 추가 투여가 12개월 후 내피 기능(RH-PAT)을 개선하는지 평가한 이중맹검 위약대조 시험. 결과 데이터는 확인 필요 |
+| [NCT00382421](https://clinicaltrials.gov/study/NCT00382421) | 해당 없음 | 완료 | 정보 없음 | SWISSI 1: 무증상 허혈 환자에서 항협심증 약물 치료와 위험인자 관리의 효과를 비교. Molsidomine 단독 위약대조 시험은 아님 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [9475269](https://pubmed.ncbi.nlm.nih.gov/9475269/) | 1998 | RCT (crossover) | J Cardiovasc Pharmacol | 안정형 협심증 90명 대상 다기관 이중맹검 위약대조 교차시험, molsidomine retard가 운동수행능력과 ST분절 하강을 유의하게 개선 |
-| [2598982](https://pubmed.ncbi.nlm.nih.gov/2598982/) | 1989 | RCT | Eur J Clin Pharmacol | 관상동맥질환 24명에서 nifedipine 대비 molsidomine의 혈역학적 효과 비교, 폐동맥압·좌심실이완기말압 유의 감소 |
-| [8438599](https://pubmed.ncbi.nlm.nih.gov/8438599/) | 1993 | Clinical Study (RCT-like) | Wien Klin Wochenschr | 말초동맥질환 20명에서 prostacyclin과 molsidomine 병용 시 섬유소용해·항혈소판 작용의 상승효과 확인 |
-| [2651251](https://pubmed.ncbi.nlm.nih.gov/2651251/) | 1989 | RCT (crossover) | Fortschr Med | 관상동맥질환 20명 무작위 교차시험, gallopamil과 molsidomine 모두 뚜렷한 항허혈 효과, ST분절 하강 유의 감소 |
-| [3665944](https://pubmed.ncbi.nlm.nih.gov/3665944/) | 1987 | Clinical Study | Eur Heart J | 관상동맥질환 11명 대상, molsidomine 급성·만성 투여 시 폐동맥압 및 운동능력에 미치는 효과와 내성 발생 여부 평가 |
-| [6893896](https://pubmed.ncbi.nlm.nih.gov/6893896/) | 1981 | Clinical Study | Am J Cardiol | 운동유발 협심증 10명에서 molsidomine 정맥투여 후 안정시·운동시 혈역학적 효과 분석 |
-| [6393621](https://pubmed.ncbi.nlm.nih.gov/6393621/) | 1984 | RCT (dose-response) | Z Kardiol | 관상동맥질환 12명 무작위 이중맹검 급성시험, 2/4/6mg 용량별 허혈성 ST분절 하강 감소 효과 및 지속시간 평가 |
-| [11082214](https://pubmed.ncbi.nlm.nih.gov/11082214/) | 2000 | Review | Proc Soc Exp Biol Med | NO 공여체 전반의 약리학적 특성 고찰, 심근경색·혈소판기능·혈관신생에 대한 작용 정리 |
-| [8743336](https://pubmed.ncbi.nlm.nih.gov/8743336/) | 1996 | PK Study | Clin Pharmacokinet | Molsidomine의 임상약동학 리뷰 — 빠른 흡수·가수분해, 경구 생체이용률 44–59% |
-| [2242448](https://pubmed.ncbi.nlm.nih.gov/2242448/) | 1990 | Overview | Blood Vessels | 관상동맥질환 치료제로서 확립된 molsidomine의 SIN-1/NO 방출 기전 및 내성 현상 개관 |
+| [2242448](https://pubmed.ncbi.nlm.nih.gov/2242448/) | 1990 | Review | Blood Vessels | Molsidomine은 SIN-1을 통해 NO를 방출하는 관상동맥질환 치료제 |
+| [7914627](https://pubmed.ncbi.nlm.nih.gov/7914627/) | 1994 | Review | Lancet | Molsidomine 개요 (초록 없음) |
+| [7620515](https://pubmed.ncbi.nlm.nih.gov/7620515/) | 1994 | Review | Pol J Pharmacol | 심장질환에서 NO 공여체의 역할과 내성 |
+| [1790782](https://pubmed.ncbi.nlm.nih.gov/1790782/) | 1991 | Review | Eur Heart J | 유기질산염과 sydnonimine의 약력학적 작용이 유사함 |
+| [8743336](https://pubmed.ncbi.nlm.nih.gov/8743336/) | 1996 | 약동학 리뷰 | Clin Pharmacokinet | 경구 생체이용률 44~59%, 최고 농도 도달 1~2시간 |
+| [2651251](https://pubmed.ncbi.nlm.nih.gov/2651251/) | 1989 | 비교 임상시험 | Fortschr Med | 무작위 교차시험(20명)에서 운동 유발 협심증의 ST 하강을 감소시킴 (0.16 → 0.09 mV) |
+| [8438599](https://pubmed.ncbi.nlm.nih.gov/8438599/) | 1993 | 임상연구 | Wien Klin Wochenschr | 말초동맥질환 환자 20명에서 프로스타시클린과 병용 시 섬유소 용해 및 항혈소판 작용이 상승 |
+| [2598982](https://pubmed.ncbi.nlm.nih.gov/2598982/) | 1989 | 임상연구 | Eur J Clin Pharmacol | 관상동맥질환 환자 24명에서 nifedipine과 달리 폐동맥압과 좌심실 확장기말압을 유의하게 낮춤 |
+| [3919549](https://pubmed.ncbi.nlm.nih.gov/3919549/) | 1985 | 전임상 | Am Heart J | 동물 허혈 모델에서 ST 상승 정상화 및 심장 보호·항혈전 작용 |
+| [39316777](https://pubmed.ncbi.nlm.nih.gov/39316777/) | 2024 | 전임상 | ACS Appl Bio Mater | Molsidomine 탑재 액정 나노입자의 니아신 유도 하지정맥류 동물모델 치료 가능성 |
+
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 199802244 | 몰시톤정4밀리그램 (몰시도민) | 연분홍색 원형 정제 | 허가 문서 링크로만 제공되어 적응증 원문 확인 불가 |
+| 199501832 | 몰시톤정2밀리그램 (몰시도민) | 주황색 원형 정제 | 허가 문서 링크로만 제공되어 적응증 원문 확인 불가 |
+
+두 제품 모두 에리슨제약(주)이 제조하며 단일제로 유효 상태입니다.
 
 ## 안전성 고려사항
 
@@ -84,13 +93,16 @@ Molsidomine은 sydnonimine 계열의 NO 공여 전구약물로, 간에서 대사
 **결정: Proceed with Guardrails**
 
 **사유:**
-관상동맥질환/협심증에 대한 molsidomine의 NO 공여 기전은 다수의 RCT와 완료된 Phase 4 시험(NCT01363661, 내피기능 개선)으로 뒷받침되어 근거 수준 L1으로 평가됩니다. 다만 이는 기존에 알려진 적응증의 재확인 성격이 강하고, 안전성 정보(경고·금기·DDI)가 전혀 확보되지 않아(DG001, Blocking) 안전성 초평가(S1) 진입이 불가능한 상태입니다.
+혈관 질환 방향으로는 완료된 Phase 4 위약대조 시험 1건(165명)이 있고, NO 공여체 기전도 문헌에서 잘 확립되어 있습니다. 다만 Phase 3 RCT가 없고 결과 데이터가 확인되지 않았으며, 허가사항 기반 안전성 검토도 이루어지지 않아 조건부 진행을 권장합니다. 혈관 질환은 범위가 넓은 분류이므로, 관상동맥질환·말초동맥질환 등 구체적 적응증으로 좁혀야 합니다.
 
 **진행하려면 필요한 것:**
-- 허가 당국 공식 경고·금기 정보 확보 (DG001, Blocking — S1 안전성 초평가 진입 필수조건)
-- DrugBank 기반 공식 작용기전(MOA) 데이터 확보 (DG002, High)
-- 한국 내 허가/시판 현황 확인 (현재 미상 시판, 허가 0건)
-- 약물상호작용(DDI) 데이터베이스 재조회 (현재 not_found)
+- 허가증 PDF에서 허가 적응증, 경고, 금기 확인 (필수, 현재 안전성 선별 불가)
+- NCT01363661의 주요 결과(내피 기능 개선 여부)와 안전성 결과 확인
+- DrugBank에서 상세 작용 기전 데이터 확보
+- 목표 혈관 질환의 세부 정의 및 대상 환자군 설정
+- PDE5 억제제 등 병용 금기 약물, 저혈압 위험, 질산염 내성에 대한 모니터링 계획
+
+**참고:** 2위 이하 예측 질환(탈모증, 흉곽출구증후군, 특발성 관상동맥 박리 등)은 모두 TxGNN 예측만 있고 임상시험이나 문헌 근거가 없어(L5) 보류(Hold)를 권장합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

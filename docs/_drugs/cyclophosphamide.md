@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cyclophosphamide
-parent: 높은 근거 (L1-L2)
-nav_order: 226
-evidence_level: L1
+parent: 모델 예측만 (L5)
+nav_order: 240
+evidence_level: L5
 indication_count: 5
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,104 +29,120 @@ indication_count: 5
 
 </div>
 
-# Cyclophosphamide：조혈모세포이식 전처리（대만 미승인）→ 골수성 백혈병 (Myeloid Leukemia)
+# 시클로포스파미드: 알킬화 항암제에서 골수성 백혈병으로
 
-## 한 문단 요약
+## 한 문장 요약
 
-Cyclophosphamide는 DNA 알킬화제로서 전 세계적으로 혈액종양 화학요법 및 조혈모세포이식(HSCT) 전처리에 광범위하게 사용되고 있으나, 현재 대만에는 상시 허가가 없습니다. TxGNN 모델은 이 약물이 **골수성 백혈병(Myeloid Leukemia)**에 대한 치료 잠재력을 갖고 있음을 예측하며, 예측 점수는 **99.47%**에 달합니다. 현재 이 예측 방향을 지지하는 **10개 이상의 임상시험**(여러 완료된 Phase 2/3 시험 포함) 및 **20개의 문헌**(체계적 네트워크 메타분석 포함)이 있습니다.
-
----
+시클로포스파미드(Cyclophosphamide)는 체내에서 활성화되어 DNA를 교차결합시키는 알킬화 항암제입니다. TxGNN 모델은 **골수성 백혈병(Myeloid Leukemia)**에 효과가 있을 수 있다고 예측하며, 현재 **34건의 임상시험**과 **20편의 문헌**이 이 방향과 관련되어 있습니다. 다만 이 근거는 대부분 조혈모세포이식의 전처치 요법과 이식 후 GVHD 예방 요법에서 나온 것이며, 단독 백혈병 치료제로서의 근거는 아닙니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 없음(대만 미승인; 전 세계: 림프종, 유방암, 자가면역질환, HSCT 전처리) |
-| 예측 신규 적응증 | 골수성 백혈병(Myeloid Leukemia) |
+| 예측 신규 적응증 | 골수성 백혈병 (Myeloid Leukemia) |
 | TxGNN 예측 점수 | 99.47% |
-| 근거 등급 | L1 |
-| 대만 상시 현황 | ✗ 미승인 |
-| 허가 건수 | 0건 |
-| 권장 의사결정 | Proceed with Guardrails |
+| 근거 수준 | L2 (완료된 Phase 2/3 무작위배정 시험 1건. 규칙상 L2이며, 분석 단계의 사전 판정 L1과는 차이가 있습니다) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 5건 (모두 단일제, 유효) |
+| 권장 결정 | Proceed with Guardrails |
 
----
+## 이 예측이 타당한 이유는?
 
-## 이 예측이 합리적인 이유는?
+시클로포스파미드는 간 CYP450 효소로 활성화되는 전구약물입니다. 활성 대사체인 포스포르아마이드 머스타드가 DNA를 교차결합시켜 빠르게 분열하는 세포에 세포사멸을 유발하므로, 백혈병 세포에도 작용할 수 있습니다. 현재 상세한 작용 기전 데이터는 별도로 확보되지 않았으며, 위 설명은 일반적인 약리 지식과 예측 근거 분석에 따른 것입니다.
 
-Cyclophosphamide는 전약물(prodrug)로서 간의 CYP450 효소계에 의해 활성화된 후, 그 활성 대사물인 phosphoramide mustard가 DNA 쌍나선과 공유 가교결합(cross-linking)을 형성하여 DNA 복제 및 전사를 방해하며, 빠르게 증식하는 악성세포에 강력한 살상작용을 발휘합니다. 현재 대만에는 상시 허가가 없지만, Cyclophosphamide는 전 세계 급성 골수성 백혈병(AML) 치료에서 불가결한 역할을 하고 있습니다.
+골수성 백혈병에서 이 약은 주로 이식 치료의 일부로 쓰입니다. 부설판(busulfan)이나 플루다라빈(fludarabine)과 함께 쓰는 전처치 요법이 있고, 이식 후 시클로포스파미드(PTCy)로 동종반응성 T세포를 선택적으로 제거해 GVHD를 예방하는 용법도 있습니다. 이 때문에 항종양 효과와 면역 조절 효과가 모두 이 적응증과 연결됩니다.
 
-AML 치료 체계에서 Cyclophosphamide는 두 가지 핵심 기능을 수행합니다. 첫째, **골수제거성 전처리 방안(Myeloablative Conditioning, MAC)**의 핵심 성분으로서 — BuCy(Busulfan + Cyclophosphamide)는 동종 조혈모세포이식 전의 표준 전처리 방안이며, 환자 자신의 조혈계를 완전히 제거하여 공여자 모세포의 효과적인 이식을 보장합니다. 둘째, **이식후 환인산 화학요법(Post-Transplant Cyclophosphamide, PTCy)**로서 그 동종 반응성 T세포의 선택적 소진이라는 독특한 면역 메커니즘을 활용하여 현재 가장 주목받는 GVHD 예방 전략이 되었으며, 이 메커니즘은 다수의 대규모 무작위대조시험에서 충분히 검증되었습니다.
-
-골수성 백혈병의 병리생리적 특징 — DNA 수선 경로의 고도 활성화 및 빠르게 분열하는 원시세포군 — 은 Cyclophosphamide의 DNA 알킬화 메커니즘과 높은 계약도를 갖습니다. 여러 완료된 Phase 2/3 시험(최대 431명의 무작위 Phase 3 시험 NCT03959241) 및 2023년 체계적 네트워크 메타분석(PMID 36357773)은 이 적응증에서 Cyclophosphamide의 유효성을 확인하여, TxGNN 예측이 충분하고 높은 등급의 임상 지지를 갖도록 합니다.
-
----
+따라서 이 예측은 "단독 백혈병 치료제"보다는 "이식 기반 치료의 핵심 구성 약물"로 해석하는 것이 현실적입니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 피험자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT02744742](https://clinicaltrials.gov/study/NCT02744742) | Phase 2/3 | 완료 | 202 | 전향적 무작위대조시험으로 G-CSF+Decitabine+BuCy와 표준 BuCy 전처리 방안을 AML/MDS 속발 AML 동종모세포이식의 안전성 및 유효성으로 비교하며, 본 보고서의 최고 등급 직접 근거입니다. |
-| [NCT03959241](https://clinicaltrials.gov/study/NCT03959241) | Phase 3 | 완료 | 431 | 다기관 무작위 Phase 3 시험(BMT CTN 1703)으로 Tac/MTX와 PTCy/Tac/MMF를 RIC allo-PBSCT의 GVHD 예방 전략으로 비교하며, Cyclophosphamide가 주요 평가 약물입니다. |
-| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Phase 2 | 완료 | 213 | Cyclophosphamide/Fludarabine/TBI 골수제거성 전처리를 혈액악성종양 치료의 비혈연 제대혈 이식에 사용하여 213명의 대규모 안전성 데이터를 제공합니다. |
-| [NCT00134017](https://clinicaltrials.gov/study/NCT00134017) | Phase 2 | 완료 | 142 | HLA 상합 혈연 및 혈연 골수이식에서 BuCy 전처리에 추가된 이식후 고용량 Cyclophosphamide를 GVHD 예방으로 사용하는 유효성을 평가합니다. |
-| [NCT07249346](https://clinicaltrials.gov/study/NCT07249346) | Phase 2 | 모집 중 | 124 | 다기관 시험으로 저용량 이식후 Cyclophosphamide(25 mg/kg, +3일 & +4일)/ Tacrolimus/Ruxolitinib을 MAC allo-PBSCT의 GVHD 예방에서 직접 평가합니다. |
-| [NCT00241358](https://clinicaltrials.gov/study/NCT00241358) | Phase 1/2 | 완료 | 92 | Cyclophosphamide가 포함된 전처리의 AMD3100 동원 모세포이식 방안을 혈액악성종양에서 안전성 및 유효성으로 평가합니다. |
-| [NCT00809276](https://clinicaltrials.gov/study/NCT00809276) | Phase 1/2 | 완료 | 92 | Fludarabine/IV Busulfan 전처리 후 이식후 고용량 Cyclophosphamide 면역억제를 연구하여 골수이식후 GVHD 예방 효익을 평가합니다. |
-| [NCT00723099](https://clinicaltrials.gov/study/NCT00723099) | Phase 2 | 완료 | 73 | Cyclophosphamide가 포함된 감량강도 전처리 비혈연 제대혈 이식으로 AML 동종이식 맥락에서 Cy의 응용을 지지합니다. |
-| [NCT06532084](https://clinicaltrials.gov/study/NCT06532084) | Phase 2 | 모집 중 | 88 | 단기관 무작위시험으로 PTCy가 포함된 allo-HSCT 후 Sorafenib 유지 치료를 고위험 골수악성종양의 유효성으로 비교하여 현대 AML 이식 실행 데이터를 제공합니다. |
-| [NCT00691015](https://clinicaltrials.gov/study/NCT00691015) | Phase 2 | 완료 | 48 | Sirolimus/Tacrolimus/Thymoglobulin을 비혈연 공여자 HCT의 GVHD 예방 방안(Cyclophosphamide 전처리 포함)으로 평가하여 비교 배경 데이터를 제공합니다. |
+관련 시험은 총 34건입니다. 시클로포스파미드와의 관련성이 높은 순으로 10건을 나열합니다.
 
----
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT00003187](https://clinicaltrials.gov/study/NCT00003187) | Phase 2/3 | 완료 | 19 | 비혈연 공여자 골수이식에서 T세포 제거 vs 일반 이식 비교. 전처치에 시클로포스파미드 포함 |
+| [NCT04473911](https://clinicaltrials.gov/study/NCT04473911) | Phase 1 | 완료 | 25 | 감소강도 반일치 이식에서 PTCy 기반 GVHD 예방 (AML 포함) |
+| [NCT00315705](https://clinicaltrials.gov/study/NCT00315705) | Phase 1/2 | 완료 | 50 | 소아 불응성·재발성 급성백혈병에서 클로파라빈 + 에토포사이드 + 시클로포스파미드 |
+| [NCT00390793](https://clinicaltrials.gov/study/NCT00390793) | Phase 2 | 완료 | 107 | Ph+ 백혈병에서 Hyper-CVAD + 다사티닙 (림프구성 중심이라 골수성과는 부분적 관련) |
+| [NCT01350245](https://clinicaltrials.gov/study/NCT01350245) | Phase 2 | 완료 | 28 | 혈액암 환자 대상 반일치 동종이식 2단계 접근법 |
+| [NCT02441803](https://clinicaltrials.gov/study/NCT02441803) | Phase 2 | 완료 | 11 | 원발 불응성 AML에서 구제요법으로서의 동종이식 |
+| [NCT00576979](https://clinicaltrials.gov/study/NCT00576979) | Phase 1/2 | 완료 | 51 | IMRT + 에토포사이드 + 시클로포스파미드 전처치 (고위험 ALL/AML) |
+| [NCT04904588](https://clinicaltrials.gov/study/NCT04904588) | Phase 2 | 진행 중 (모집 종료) | 300 | HLA 불일치 비혈연 공여자 이식에서 PTCy 기반 GVHD 예방 |
+| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Phase 2 | 완료 | 213 | 제대혈 이식에서 시클로포스파미드/플루다라빈/TBI 골수파괴적 전처치 |
+| [NCT02724163](https://clinicaltrials.gov/study/NCT02724163) | Phase 3 | 진행 중 (모집 종료) | 700 | 소아 AML 유도요법 및 gemtuzumab 용량 탐색 (시클로포스파미드는 주 실험 변수가 아님) |
+
+규모가 작은 시험이 많고, 시클로포스파미드의 기여가 다른 약물과 분리되지 않는 시험이 대부분입니다.
 
 ## 문헌 근거
 
+20편 중 10편을 나열합니다. 무작위배정 시험(RCT)은 없고 코호트 연구와 종설이 중심입니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [36357773](https://pubmed.ncbi.nlm.nih.gov/36357773/) | 2023 | 체계적 검토 및 네트워크 메타분석 | Bone Marrow Transplantation | AML allo-HSCT 완전 관해 환자의 다양한 MAC 방안(BuCy 포함)의 유효성을 베이지안 네트워크 메타분석으로 비교하여 현재 최고 등급의 통합 근거를 제공합니다. |
-| [40905088](https://pubmed.ncbi.nlm.nih.gov/40905088/) | 2026 | 전향적 등록연구 | Haematologica | MAC+PTCy GVHD 예방 이식을 받은 217명의 AML 환자의 유전학적 위험 분류 및 예후를 분석하며, 전체 2년 OS는 77%(95% CI: 71–83)에 달합니다. |
-| [40434956](https://pubmed.ncbi.nlm.nih.gov/40434956/) | 2025 | 회고적 비교연구 | Future Oncology | AML allo-HSCT에서 표준 BuCy와 FluBu 골수제거성 전처리 방안을 직접 비교하여 유효성 동등성 및 독성 차이를 평가합니다. |
-| [39939431](https://pubmed.ncbi.nlm.nih.gov/39939431/) | 2025 | 회고적 연구 | Bone Marrow Transplantation | 중고위험 AML(CR1)을 받는 1,823명 환자의 PTCy allo-HSCT에서 전처리 강도(MAC vs RIC)와 이식 후 관계를 분석합니다. |
-| [40437709](https://pubmed.ncbi.nlm.nih.gov/40437709/) | 2025 | 회고적 연구 | European Journal of Haematology | 65세 이하 AML 환자가 ATG+PTCy+Cyclosporine GVHD 예방 방안을 받는 데 있어 RIC과 MAC이 생존에 미치는 영향을 평가합니다. |
-| [38499049](https://pubmed.ncbi.nlm.nih.gov/38499049/) | 2024 | Phase 2 연구 보고서 | Transplant Immunology | 난치성 재발 AML allo-HSCT에서 Cladribine+BuCy 강화 전처리 방안의 유효성 및 안전성을 탐색하여 BuCy 기초 방안 강화 데이터를 제공합니다. |
-| [38466265](https://pubmed.ncbi.nlm.nih.gov/38466265/) | 2024 | 회고적 연구 | Cytotherapy | 반상합 HCT(haplo-HCT with PTCy)로 AML을 치료하는 예후 인자를 분석하여 PTCy가 GVHD를 효과적으로 억제하면서 이식 항백혈병 효과를 유지함을 확인합니다. |
-| [35955881](https://pubmed.ncbi.nlm.nih.gov/35955881/) | 2022 | 회고적 연구 | Int J Molecular Sciences | 소아 AML 상합 공여자 HSCT에서 PTCy를 GVHD 예방 전략으로 사용하는 첫 전문 연구로, 소아 안전성 및 유효성 데이터를 보충합니다. |
-| [31628924](https://pubmed.ncbi.nlm.nih.gov/31628924/) | 2020 | 회고적 연구 | Hematology/Oncology and SCT | AML/MDS allo-HCT 골수제거성 전처리에서 BuCy와 BuFlu를 비교하여 생활 품질 영향에 초점을 맞춥니다. |
-| [33325761](https://pubmed.ncbi.nlm.nih.gov/33325761/) | 2021 | 회고적 연구 | Leukemia & Lymphoma | AML 고백혈구혈증(≥50×10⁹/L) 또는 백혈구 침전증에서 고용량 Cyclophosphamide(60 mg/kg)의 세포감량 유효성(27례)을 보고하여 응급 상황에서의 응용 가치를 초기 확인합니다. |
+| [40905088](https://pubmed.ncbi.nlm.nih.gov/40905088/) | 2026 | 코호트 | Haematologica | 관해 상태 AML 217명에서 골수파괴적 전처치 + PTCy 이식 후 2년 전체생존율 77%, 무사건생존율 72% |
+| [38758817](https://pubmed.ncbi.nlm.nih.gov/38758817/) | 2024 | 후향 연구 | Cancer | 반일치 이식 성인 AML에서 PTCy vs ATG vs 병용 비교 (EBMT) |
+| [36357773](https://pubmed.ncbi.nlm.nih.gov/36357773/) | 2023 | 체계적 문헌고찰·네트워크 메타분석 | Bone Marrow Transplant | 관해기 AML 성인의 골수파괴적 전처치 요법 비교 (Bu/Cy 포함) |
+| [40434956](https://pubmed.ncbi.nlm.nih.gov/40434956/) | 2025 | 코호트 | Future Oncol | AML 동종이식에서 부설판-시클로포스파미드 vs 플루다라빈-부설판 비교 |
+| [25345651](https://pubmed.ncbi.nlm.nih.gov/25345651/) | 2015 | 코호트 | Am J Hematol | AML 165명에서 Cy/Flu 비골수파괴적 이식과 골수파괴적 이식의 생존 결과가 유사 |
+| [38466265](https://pubmed.ncbi.nlm.nih.gov/38466265/) | 2024 | 코호트 | Cytotherapy | AML 반일치 이식 + PTCy의 예후 인자 분석 |
+| [41046309](https://pubmed.ncbi.nlm.nih.gov/41046309/) | 2026 | 코호트 | Bone Marrow Transplant | 제1 관해기 AML에서 제대혈 이식과 PTCy 반일치 이식 비교 (등록자료 기반) |
+| [14662323](https://pubmed.ncbi.nlm.nih.gov/14662323/) | 2003 | 종설 | Exp Hematol | AML 이식 전처치에서 Bu-Cy와 TBI-Cy 비교 연구 검토 |
+| [32857869](https://pubmed.ncbi.nlm.nih.gov/32857869/) | 2020 | 종설 | Am J Hematol | PTCy 시대의 AML에서 NK세포 동종반응성 |
+| [35154579](https://pubmed.ncbi.nlm.nih.gov/35154579/) | 2022 | 전임상 | Oncotarget | 베네토클락스가 알킬화제와 플루다라빈의 AML 세포독성을 증강 |
 
----
+## 한국 시판 정보
+
+허가 5건이 모두 유효하며 단일 성분제입니다. 데이터에는 허가 적응증의 본문이 아닌 허가사항 PDF 링크만 포함되어 있어, 적응증은 링크로 확인해야 합니다. 3건은 수출용입니다.
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 197600065 | 알키록산정 (제이더블유중외제약) | 필름코팅정 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197600065/EE) |
+| 199504135 | 엔독산주500mg (부광약품) | 주사제 (결정성 가루 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504135/EE) |
+| 200906637 | 코러스시클로포스파미드주500mg (수출용) | 주사제 (분말 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906637/EE) |
+| 200906638 | 코러스시클로포스파미드주200mg (수출용) | 주사제 (분말 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906638/EE) |
+| 200906639 | 코러스시클로포스파미드주1그람 (수출용) | 주사제 (분말 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906639/EE) |
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 약물(알킬화제, Alkylating Agent; 전약물, 간 CYP2B6/CYP3A4에 의해 활성화 필요) |
-| 골수억제 위험 | **높음**(MAC 용량에서 골수제거는 예상 치료 효과; PTCy 용량에서도 여전히 중대하여 전혈구계산 밀접 모니터링 필요) |
-| 구토 등급 | 중~고(정맥주사, 고용량 >750 mg/m²); 저~중(경구 또는 저용량 정맥주사) |
-| 모니터링 항목 | 전혈구계산(백혈구 분류 포함), 간신기능(ALT/AST/Cr), 전해질, 소변 분석(혈뇨 포함, 출혈성 방광염 모니터링), 혈중요소질소 |
-| 특수 처치 | 세포독성 약물 조작 및 폐기 규범 준수; 고용량 정맥주사 시 MESNA로 출혈성 방광염 예방; 충분한 수분화(≥3 L/day); G-CSF 및 수혈 지지 준비; 감염 징후 밀접 모니터링 |
+| 세포독성 분류 | 기존 세포독성 약물 (알킬화제, 질소 머스타드 계열) |
+| 골수억제 위험 | 높음 (호중구감소증이 흔하며 용량 의존적). 이식 전처치 용량에서는 골수파괴적 |
+| 구토 유발성 등급 | 중등도~고도 (용량에 따라 다름. 고용량에서 높음) |
+| 모니터링 항목 | CBC(분류 포함), 간·신기능, 전해질, 소변검사(출혈성 방광염 확인) |
+| 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
 
----
+위 항목은 이 약물 계열의 일반적 특성에 따른 것으로, 이번에 확보한 데이터에는 독성 수치가 없습니다. 허가사항의 경고 및 주의사항을 참조하세요.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가 설명서를 참조하시기 바랍니다.
+**약물 상호작용**: 이번에 확인된 상호작용은 총 100건이며, 그중 일부를 아래에 정리합니다.
 
----
+- **보통(Moderate) 수준**
+  - 암포테리신 B (일반 제형과 지질복합체, 콜레스테릴 설페이트, 리포좀 제형)
+  - 부프로피온
+  - 아프레피탄트
+  - 메트로니다졸
+  - 니티시논
+  - 설포닐우레아계 혈당강하제 (클로르프로파미드, 아세토헥사미드, 글리메피리드, 글리피지드, 글리부라이드, 톨라자미드, 톨부타미드)
+  - 나테글리니드, 레파글리니드
+  - 트로글리타존
+- **경미(Minor) 수준**: 레보플록사신, 온단세트론
+
+혈당강하제와의 병용은 특히 주의해야 합니다. 전체 목록 확인과 경고·금기 사항은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**의사결정: Proceed with Guardrails(조건부 추진)**
+**결정: Proceed with Guardrails**
 
-**근거:**
-Cyclophosphamide를 골수성 백혈병(AML)에 사용하기 위한 임상 근거 등급은 높으며, 431명의 무작위 Phase 3 시험(NCT03959241, 완료), 202명의 Phase 2/3 시험(NCT02744742, 완료), 및 2023년 베이지안 체계적 네트워크 메타분석(PMID 36357773)을 포함하여 전체 근거 등급은 **L1**에 달합니다. 약물의 이중 응용 메커니즘(BuCy 골수제거성 전처리 및 PTCy GVHD 예방)은 메커니즘에서 명확하며 전 세계 다수의 골수이식 센터에서 광범위하게 검증되어 충분한 추진 조건을 갖춥니다.
+**사유:**
+골수성 백혈병 이식 치료에서 시클로포스파미드의 사용을 뒷받침하는 임상시험과 코호트 연구가 다수 있고, 한국에서 이미 시판 중인 약물입니다. 다만 근거는 대부분 다제 병용 이식 요법 안에서의 사용이며, 시클로포스파미드의 단독 기여를 입증한 무작위배정 시험은 없습니다.
 
-**추진이 필요한 경우 필요한 사항:**
-- TFDA 약품 설명서 경고 및 금기사항 완전 데이터 획득(현재 **Blocking Data Gap DG001**, S1 안전성 초평 차단)
-- 완전한 작용 메커니즘(MOA) 데이터 보충(현재 **High 우선 Data Gap DG002**, mechanistic-link 분석 제한)
-- 대만 AML 임상 치료 현황 및 기존 대체 방안(FluBu 등)의 비교 분석 평가
-- 특정 고위험 족군(노령 환자, 신기능 부전, 기존 심장질환)의 안전성 모니터링 계획 수립
-- 대만 상시 허가 신청을 고려하는 경우 완전한 TFDA 규제 전략 수립, 가교 시험 데이터 평가 및 약품 기술 문서 준비 포함
-
+**진행하려면 필요한 것:**
+- 허가사항 PDF에서 승인 적응증, 경고, 금기 확인 (이번 데이터에는 본문이 없음)
+- 시클로포스파미드의 단독 기여를 분리해 평가할 수 있는 비교 연구 근거 (PTCy와 다른 GVHD 예방법의 비교 등)
+- 이식 전처치용 고용량 사용을 전제로 한 대상 집단 설정과 골수억제·방광·심독성 모니터링 계획
+- 상세한 작용 기전 데이터 보완
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

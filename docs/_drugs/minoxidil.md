@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Minoxidil
-parent: 중등도 근거 (L3-L4)
-nav_order: 482
-evidence_level: L3
+parent: 모델 예측만 (L5)
+nav_order: 518
+evidence_level: L5
 indication_count: 10
 ---
 
 # Minoxidil
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,29 +29,32 @@ indication_count: 10
 
 </div>
 
-# Minoxidil: 중증 고혈압 치료제에서 유전성 두피 단순 저모증(Hypotrichosis Simplex)으로
+# Minoxidil: 남성형 탈모증에서 두피 단순 저모증(Hypotrichosis simplex of the scalp)으로
 
 ## 한 문장 요약
 
-Minoxidil은 본래 다른 항고혈압제에 반응하지 않는 중증(난치성) 고혈압 환자를 위한 경구 혈관확장제로 사용되어 온 약물입니다. TxGNN 모델은 **유전성 두피 단순 저모증(Hypotrichosis Simplex of the Scalp)**에 효과가 있을 수 있다고 예측하며, 현재 등록된 관련 임상시험은 없고 **3건의 사례보고(case report) 수준 문헌**만이 이 방향을 뒷받침합니다.
+Minoxidil은 원래 남성형 탈모증(안드로젠탈모증) 치료에 사용되는 약입니다.
+TxGNN 모델은 **두피 단순 저모증(hypotrichosis simplex of the scalp)**에 효과가 있을 수 있다고 예측합니다. 현재 이를 지지하는 근거는 **임상시험 0건**과 병용요법 증례 중심의 **문헌 3편**뿐입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 중증(난치성) 고혈압 — 경구 혈관확장제 (한국 허가 정보 없음) |
-| 예측 신규 적응증 | 유전성 두피 단순 저모증 (Hypotrichosis Simplex of the Scalp) |
-| TxGNN 예측 점수 | 99.9999% (모델 내 전체 순위 7위) |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | 미허가 (미출시) |
-| 허가증 수 | 0건 |
+| 기존 적응증 | 남성형 탈모증(안드로젠탈모증) |
+| 예측 신규 적응증 | 두피 단순 저모증 (Hypotrichosis simplex of the scalp) |
+| TxGNN 예측 점수 | 99.9999% |
+| 근거 수준 | L4 (증례 보고와 기전 추정 수준) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 약물에 대한 상세 작용기전(MOA) 데이터는 확보되지 않았습니다(Blocking data gap). 다만 근거 팩에 포함된 다른 관련 문헌들을 종합하면, minoxidil은 ATP 민감성 칼륨(K+) 통로 개방제로서 모낭 주변 소동맥을 확장시켜 국소 혈류를 늘리고, 모발 성장기(anagen phase)를 연장하며 VEGF를 상향조절하는 것으로 알려져 있습니다. 이 기전은 남성형 탈모(androgenetic alopecia) 치료에서 이미 확립되어 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 다만 문헌에 따르면 Minoxidil은 K-ATP 채널을 열어 혈관을 확장시킵니다. 또한 성장기(anagen)를 연장하고 위축된 모낭을 키우는 것으로 알려져 있습니다. 남성형 탈모증에서 효능이 입증된 기전입니다.
 
-유전성 두피 단순 저모증은 CDSN 유전자(데스모솜 단백질 corneodesmosin) 변이로 발생하는 희귀 단일유전자 질환으로, 남성형 탈모와는 발병 기전이 다릅니다. 다만 두 질환 모두 모낭 생장주기 이상이라는 공통점이 있어, minoxidil의 anagen기 연장 작용이 이론적으로 확장 적용될 수 있다는 것이 근거 팩의 기전 추론(repurposing rationale)입니다. 그러나 이는 어디까지나 이론적 유추이며, 실제로는 개인 사례보고 3건 외에 체계적 임상 검증이 이루어진 바 없습니다.
+유전성 두피 단순 저모증은 모낭이 점차 작아지는 비반흔성 탈모 질환입니다. 모낭 위축이라는 병태가 남성형 탈모증과 비슷해서, 같은 기전이 적용될 수 있다고 추정됩니다. TxGNN 점수도 매우 높습니다.
+
+다만 이 질환은 *CDSN* 유전자 변이 등 단일 유전자 이상으로 생기는 희귀 질환입니다. 기존 근거는 모두 Minoxidil을 성장인자, 식물 추출물, 혈소판풍부혈장(PRP)과 함께 쓴 소규모 보고여서, Minoxidil 단독 효과는 구분할 수 없습니다.
 
 ## 임상시험 근거
 
@@ -61,30 +64,43 @@ Minoxidil은 본래 다른 항고혈압제에 반응하지 않는 중증(난치�
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case Report | Dermatologic therapy | 유전성 두피 단순 저모증 환자에서 경구 minoxidil과 성장인자 병용 치료 사례 |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case Series | Frontiers in genetics | CDSN 유전자 변이로 진단된 8세 남아 가족성 HSS 사례, 식물추출물+minoxidil 병용요법 보고 |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case Report | The Journal of dermatological treatment | 14세 환자, 혈소판 풍부 혈장(PRP) 주사와 국소 minoxidil 2% 병용으로 성공적 치료 |
+| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | 증례 보고/소규모 증례군 | Dermatologic Therapy | 유전성 두피 단순 저모증에 경구 Minoxidil과 성장인자를 병용해 치료함 |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | 증례 보고 | J Dermatol Treat | 14세 환자에서 PRP 주사와 2% 외용 Minoxidil 병용으로 치료에 성공함. 만족스러운 기존 치료법이 없던 질환임 |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | 증례 보고 | Frontiers in Genetics | *CDSN* 변이로 진단된 8세 남아에게 식물 추출물과 Minoxidil을 병용함. 확립된 치료법이 없는 질환임 |
 
 ## 한국 시판 정보
 
-한국 내 허가 정보가 없습니다 (허가증 0건, 미출시).
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201803770 | 모나이지액 | 액제 | 남성형 탈모증(안드로젠탈모증) |
+| 201905258 | 마이모닉액5% | 액제 | 남성형 탈모증(안드로젠탈모증) |
+| 200710117 | 메디녹실액5% | 액제 | 남성형 탈모증(안드로젠탈모증) |
+| 200811440 | 마이딜액3% | 외용액제 | 남성형 및 여성형 탈모증(안드로젠탈모증) |
+| 201702434 | 마이녹실겔3% | 겔 | 남성형 및 여성형 탈모증(안드로젠탈모증) |
+
+허가증은 총 20건이며 모두 단일제입니다. 이 중 일부 경구 정제는 수출용 허가입니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요. (TFDA 수준의 경고/금기 정보는 아직 수집되지 않았습니다.)
+- **약물 상호작용**: 약물 상호작용 데이터베이스에서 총 100건이 확인되었습니다. 이 중 확인된 항목은 대부분 중등도(Moderate)입니다.
+  - 코르티코스테로이드: Hydrocortisone, Prednisolone, Prednisone, Dexamethasone, Betamethasone, Triamcinolone, Budesonide
+  - SGLT2 억제제: Canagliflozin, Dapagliflozin, Empagliflozin, Ertugliflozin
+  - 그 외: Bupropion, Morphine, Opium, Dronabinol, Nabilone, Sapropterin
+- 등급이 불명(Unknown)인 항목으로 Calcitriol, Clotrimazole, Metformin이 있습니다.
+- 경구 저용량 Minoxidil을 쓰면 다모증, 체액 저류, 빈맥, 심낭삼출이 생길 수 있어 심혈관 질환 환자는 주의해야 합니다. 그 밖의 경고와 금기는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-예측 신규 적응증인 유전성 두피 단순 저모증은 매우 희귀한 단일유전자 질환으로, 관련 임상시험이 전혀 등록되어 있지 않고 근거 수준이 사례보고 3건(L3)에 불과해 재창출 논의를 진전시키기에는 이릅니다. 또한 한국 내 허가 이력이 없고 안전성 경고·금기 정보(Blocking gap)도 확보되지 않아, 안전성 초기 평가(S1) 단계조차 완료되지 않은 상태입니다.
+모델 점수는 매우 높고 기전상 타당성도 있습니다. 그러나 등록된 임상시험이 없고, 근거가 모두 병용요법 증례 3건이라 Minoxidil 단독 효과를 판단할 수 없습니다. 현재는 연구 질문 단계로 보는 것이 적절합니다.
 
 **진행하려면 필요한 것:**
-- TFDA(또는 식약처) 공식 허가사항의 경고/금기 정보 확보 (Blocking data gap, DG001)
-- DrugBank 등을 통한 상세 작용기전(MOA) 데이터 확보 (DG002)
-- 유전성 두피 단순 저모증에 특화된 전임상 또는 소규모 임상 연구 설계
-- (참고) 동일 근거 팩 내 "alopecia(일반/남성형 탈모)" 적응증은 완료된 Phase 3 RCT를 포함한 L1 수준 근거로 이미 "Proceed with Guardrails" 권고를 받고 있어, 재창출 우선순위를 이쪽과 비교 검토할 필요가 있습니다.
+- Minoxidil 단독 또는 대조군을 둔 전향적 연구 (병용 성분의 영향 분리)
+- 상세한 작용 기전 데이터 (DrugBank 등)
+- 허가사항(경고·금기)의 확인 및 정리
+- 소아 환자 대상 용량과 투여 경로(외용/경구) 안전성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

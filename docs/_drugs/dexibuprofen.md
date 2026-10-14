@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dexibuprofen
-parent: 높은 근거 (L1-L2)
-nav_order: 254
-evidence_level: L1
+parent: 모델 예측만 (L5)
+nav_order: 270
+evidence_level: L5
 indication_count: 10
 ---
 
 # Dexibuprofen
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,93 +29,95 @@ indication_count: 10
 
 </div>
 
-# Dexibuprofen: 염증성 통증에서 골관절염으로
+# Dexibuprofen: 만성 다발성 관절염·류마티스관절염 등에서 골관절염 감수성(Osteoarthritis Susceptibility)으로
 
 ## 한 문장 요약
 
-Dexibuprofen은 이부프로펜의 활성 S(+) 거울상이성질체인 NSAID로, 류마티스 관절염·급성 통증·원발성 생리통 등에 사용되어 온 약물이지만 현재 한국에는 미등록 상태입니다. TxGNN 모델은 **골관절염(Osteoarthritis)**에 효과가 있을 수 있다고 예측하며, 현재 **2건의 임상시험**과 **11편의 문헌**(복수의 RCT 포함)이 이 방향을 강력하게 지지합니다. 해당 적응증에 대한 근거 수준은 **L1**로 평가됩니다.
-
-> **선정 근거 안내**: TxGNN Rank 1 예측(osteoarthritis susceptibility, 99.95%)은 실제 치료 가능 표현형이 아닌 유전적 위험 표현형으로, 근거 수준 L5 / Hold 판정. 본 보고서는 임상적으로 가장 유의미한 **Rank 3 골관절염(L1, Proceed with Guardrails)**을 중심으로 기술합니다.
-
----
+Dexibuprofen은 S(+)-ibuprofen 단일 성분 소염진통제로, 한국에서 만성 다발성 관절염, 류마티스관절염, 관절증, 강직척추염 등의 치료와 급성 상기도 감염 시 해열에 사용되어 왔습니다.
+TxGNN 모델은 **골관절염 감수성(Osteoarthritis Susceptibility)**에 효과가 있을 것으로 최상위 예측했지만, 이 질환 항목에 대한 **임상시험은 0건, 문헌은 0편**이라 근거는 모델 예측 수준(L5)에 머뭅니다.
+다만 같은 관절 질환인 일반 **골관절염(Osteoarthritis)**에는 임상시험 2건과 문헌 10편이 있습니다. 이 적응증은 이미 허가 범위(관절증)와 겹치므로 신규 재창출로 보기는 어렵습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 한국 미등록 (류마티스 관절염·급성 통증·생리통에 사용되는 NSAID) |
-| 예측 신규 적응증 | 골관절염 (Osteoarthritis) |
-| TxGNN 예측 점수 | 99.87% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | ✗ 미등록 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Proceed with Guardrails |
-
----
+| 기존 적응증 | 만성 다발성 관절염, 류마티스관절염, 관절증, 강직척추염, 외상 및 수술 후 통증성 부종 또는 염증, 염증·통증·발열을 수반하는 감염증의 치료보조 |
+| 예측 신규 적응증 | 골관절염 감수성 (Osteoarthritis Susceptibility) |
+| TxGNN 예측 점수 | 99.95% |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 20건 |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Dexibuprofen은 이부프로펜의 S(+) 광학이성질체로, COX-1 및 COX-2를 비선택적으로 억제함으로써 아라키돈산으로부터 PGE₂·TXA₂의 생성을 감소시켜 항염·진통 효과를 발휘합니다. 라세미체인 이부프로펜과 달리 비활성 R(-) 이성질체를 포함하지 않으므로, 이론상 동등한 효과를 더 낮은 용량으로 달성하면서 위장관 부담을 줄일 수 있다는 약동학적 이점이 있습니다. 브랜드명 Seractil로 유럽 시장에서 판매된 이력이 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Dexibuprofen은 ibuprofen의 활성 거울상이성질체(S(+)-ibuprofen)인 NSAID입니다. COX-1/COX-2를 억제해 프로스타글란딘 매개 염증과 통증을 줄이는 것으로 알려져 있습니다. 관절염 계열 질환에서 효능이 입증되어 있어, 기전상 관절 질환의 증상 완화에는 적용 가능할 수 있습니다.
 
-골관절염의 핵심 병리는 관절 연골의 퇴행성 분해로 인한 활막 염증과 COX-2 유도성 PGE₂가 매개하는 통증 신호 증폭입니다. 이는 NSAID가 직접 작용할 수 있는 표적 기전과 정확히 일치하며, COX 억제 계열 약물은 골관절염 통증 관리의 1차 약물 중 하나로 이미 광범위하게 사용됩니다. TxGNN의 예측이 기존 약리 기전 및 L1 수준의 임상 근거와 일치한다는 점에서 이번 예측의 신뢰도는 높습니다.
-
-한국에서 Dexibuprofen은 현재 미등록이지만, 동일 COX 억제 기전을 공유하는 이부프로펜은 한국 내 허가·시판 중입니다. 오스트리아를 포함한 유럽 시장에서 고관절·무릎 골관절염 환자를 대상으로 한 Phase 4 완료 RCT(482명)가 이미 존재하므로, 한국 MFDS 진입 시 외국 임상시험 자료 활용(브리징 전략)을 통한 효율적 허가 접근이 가능할 것으로 판단됩니다.
-
----
+그러나 "골관절염 감수성"은 치료 가능한 임상 질환이 아니라 유전적 소인 개념입니다. Dexibuprofen은 증상성 골관절염의 통증과 염증을 완화할 수는 있어도 감수성 자체를 치료하지는 못합니다. 따라서 이 예측은 질환 노드(골관절염)와 그래프상 가까워서 생긴 결과일 가능성이 높습니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT01066676](https://clinicaltrials.gov/study/NCT01066676) | Phase 4 | 완료 | 482 | 고관절·무릎 골관절염 환자에서 Dexibuprofen Gebro 400mg 경구 현탁액 vs Ibuprofen 400mg의 내약성·안전성·효능 비교; 비열등성 설계 |
-| [NCT01638962](https://clinicaltrials.gov/study/NCT01638962) | N/A | 완료 | 93 | 경증~중등도 무릎 골관절염에서 신경근육 운동 지도 vs 진통제 사용 지도의 관절 부하 비교; Dexibuprofen이 대조 약물로 활용됨 |
-
----
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
+현재 관련 문헌이 없습니다.
+
+## 참고: 근거가 있는 인접 예측 후보
+
+상위 10개 예측 중 근거가 확인되는 항목은 아래 두 가지이며, 모두 기존 허가 적응증과 겹칩니다.
+
+### 골관절염 (Osteoarthritis, TxGNN 99.87%)
+
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT01066676](https://clinicaltrials.gov/study/NCT01066676) | Phase 4 | 완료 | 482 | 고관절·슬관절 골관절염에서 Dexibuprofen 400 mg 현탁용 산제와 Ibuprofen 400 mg의 안전성·내약성·효능 비교 |
+| [NCT01638962](https://clinicaltrials.gov/study/NCT01638962) | 해당 없음 | 완료 | 93 | 무릎 골관절염에서 진통제 사용 교육과 신경근 운동의 관절 하중 비교 (약물은 직접 중재 아님, 간접 관련) |
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [24740137](https://pubmed.ncbi.nlm.nih.gov/24740137/) | 2014 | RCT | Wiener klinische Wochenschrift | 고관절·무릎 OA 489명에서 Dexibuprofen vs Ibuprofen 경구 현탁액의 안전성·내약성 비열등성 확인 (14일 치료) |
-| [12708604](https://pubmed.ncbi.nlm.nih.gov/12708604/) | 2003 | RCT | Int J Clin Pharmacol Ther | 고관절 OA에서 Dexibuprofen vs Celecoxib 효능·내약성 직접 비교 |
-| [10667832](https://pubmed.ncbi.nlm.nih.gov/10667832/) | 2000 | RCT | Int J Clin Pharmacol Ther | 고관절 OA에서 Dexibuprofen 용량-반응 연구 (WOMAC 골관절염 지수 활용, vs 라세미체 이부프로펜) |
-| [11771571](https://pubmed.ncbi.nlm.nih.gov/11771571/) | 2001 | RCT / 장기연장 | Clinical Rheumatology | 고관절 OA 178명에서 Dexibuprofen 600/1200mg vs Ibuprofen 2400mg 동등 효능 확인; 류마티스 질환 1년 장기 내약성 연구 병행 |
-| [9123945](https://pubmed.ncbi.nlm.nih.gov/9123945/) | 1997 | RCT | Wiener klinische Wochenschrift | 무릎 골관절염(Gonarthrosis) 110명에서 Dexibuprofen 900mg vs Diclofenac 150mg 이중맹검 동등성 시험; Lequesne 기능 지수 개선 동등 |
-| [9013382](https://pubmed.ncbi.nlm.nih.gov/9013382/) | 1996 | Systematic Review | J Clin Pharmacol | 골관절염·RA·강직성 척추염 포함 이중맹검 RCT 재평가; Mann-Whitney 통계 활용 다질환 종합 분석 |
-| [11771569](https://pubmed.ncbi.nlm.nih.gov/11771569/) | 2001 | Clinical Overview | Clinical Rheumatology | GCP 기준 8건 임상시험(1,463명), 메타분석 5건 포함 종합 임상 데이터 리뷰; OA 포함 다적응증 검토 |
-| [37529187](https://pubmed.ncbi.nlm.nih.gov/37529187/) | 2023 | ML 예측 연구 | Clinics in Orthopedic Surgery | 한국 OA 환자 대상 NSAID 유발 위궤양 예측 모델 개발 (한국 코호트 기반 안전성 참고 자료) |
-| [20361843](https://pubmed.ncbi.nlm.nih.gov/20361843/) | 2010 | 관찰적 안전성 연구 | Rev Esp Enferm Dig | 캡슐 내시경으로 평가한 만성 NSAID 사용 시 소장 점막 손상 빈도·중증도 (NSAID 계열 안전성 참고) |
-| [21175420](https://pubmed.ncbi.nlm.nih.gov/21175420/) | 2010 | Review | Crit Rev Ther Drug Carrier Syst | OA·RA 등 관절염에서 NSAID 미세캡슐 약물 전달 시스템 검토; Dexibuprofen 포함 |
+| [24740137](https://pubmed.ncbi.nlm.nih.gov/24740137/) | 2014 | RCT | Wiener klinische Wochenschrift | 고관절·슬관절 골관절염 489명에서 Dexibuprofen과 Ibuprofen의 안전성·내약성 비열등성 비교 |
+| [12708604](https://pubmed.ncbi.nlm.nih.gov/12708604/) | 2003 | RCT | Int J Clin Pharmacol Ther | 고관절 골관절염에서 Dexibuprofen과 celecoxib의 효능·내약성 비교 |
+| [11771571](https://pubmed.ncbi.nlm.nih.gov/11771571/) | 2001 | RCT | Clin Rheumatol | 고관절 골관절염 178명에서 Dexibuprofen과 2배 용량 ibuprofen의 동등 효능 및 용량-반응 확인, 1년 내약성 연구 포함 |
+| [10667832](https://pubmed.ncbi.nlm.nih.gov/10667832/) | 2000 | RCT | Int J Clin Pharmacol Ther | WOMAC 지표로 Dexibuprofen의 용량-반응 관계와 racemic ibuprofen 대비 효능 평가 |
+| [9123945](https://pubmed.ncbi.nlm.nih.gov/9123945/) | 1997 | RCT | Wiener klinische Wochenschrift | 슬관절 골관절염 110명에서 Dexibuprofen 900 mg과 diclofenac 150 mg의 동등 효능 확인 |
+| [11771569](https://pubmed.ncbi.nlm.nih.gov/11771569/) | 2001 | Review | Clin Rheumatol | Dexibuprofen 임상 자료 개관 (8건 임상시험, 1,463명) |
 
----
+데이터상 이 항목의 근거 수준은 L1이고 권장 결정은 Proceed with Guardrails입니다. 다만 Phase 3 완료 RCT 2건 이상이라는 판정은 이중맹검 비교 연구의 제목에서 추정한 것이므로 원문 확인이 필요합니다. 등록된 임상시험은 Phase 4입니다.
+
+### 류마티스관절염 (Rheumatoid Arthritis, TxGNN 99.92%)
+
+이미 한국 허가 적응증(만성 다발성 관절염, 류마티스관절염)에 포함되어 있어 신규 재창출 후보가 아닙니다. 확인된 문헌은 전반적 개관, 과거 연구 재평가, 제형 연구뿐이며 류마티스관절염 전용 RCT는 확인되지 않습니다. 근거 수준은 L4, 권장 결정은 Hold입니다.
 
 ## 한국 시판 정보
 
-Dexibuprofen은 현재 한국에 등록된 허가증이 없으며 시판되지 않습니다. 동일 약리 계열(이부프로펜 계열 NSAID)인 이부프로펜 및 관련 제제는 한국 내 정식 허가·시판 중입니다.
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 200512203 | 솔루펜연질캡슐 | 연질캡슐 | 만성 다발성 관절염, 류마티스관절염, 관절증, 강직척추염, 외상 및 수술 후 통증성 부종 또는 염증, 염증, 통증 및 발열을 수반하는... |
+| 200100960 | 펜타우드정 | 필름코팅정 | 만성 다발성관절염, 류마티스관절염, 관절증, 강직척추염, 외상 및 수술 후 통증성 부종 또는 염증 그리고 염증, 통증 및 발열을 수반하는... |
+| 201903568 | 독립덱시부펜시럽 | 시럽제 | 급성 상기도 감염으로 인한 발열 시 해열 |
+| 202401446 | 펜다나프로연질캡슐 | 연질캡슐 | 만성 다발성 관절염, 류마티스 관절염, 관절증, 강직척추염 / 외상 및 수술 후 통증성 부종 또는 염증 및 염증, 통증, 발열을 수반하는... |
+| 201308922 | 에스부펜정 | 필름코팅정 | 만성 다발성 관절염, 류마티스관절염, 관절증, 강직척추염, 외상 및 수술 후 통증성 부종 또는 염증 그리고 염증, 통증 및 발열을 수반하는... |
 
----
+전체 20건이 모두 유효한 단일제 허가입니다.
 
 ## 안전성 고려사항
 
-한국 허가 기반 안전성 데이터(경고·금기·약물 상호작용)가 수집되지 않았습니다. 안전성 정보는 Dexibuprofen 제품 허가사항(유럽 Seractil 또는 Dexibuprofen Gebro 제품 정보)을 참조하세요.
-
-NSAID 계열 공통 위험으로는 위장관 출혈·궤양, 심혈관계 위험 증가, 신기능 저하, NSAIDs 과민반응 등이 알려져 있습니다. 한국 코호트(PMID 37529187) 데이터에 따르면 OA 환자의 NSAID 사용 시 위궤양 위험을 사전에 평가하는 것이 권고됩니다.
-
----
+안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-골관절염에 대해 Dexibuprofen의 효능·안전성을 직접 평가한 Phase 4 완료 RCT(482명)와 복수의 이중맹검 RCT가 이미 존재하며, L1 수준의 근거가 재창출 타당성을 강하게 뒷받침합니다. 다만 한국 시장에서 규제 데이터가 전무하여 허가 진입 전 별도의 브리징 전략이 필요합니다.
+1순위 예측인 "골관절염 감수성"은 치료 가능한 질환이 아닌 유전적 소인 개념이고, 임상시험과 문헌이 없는 모델 예측(L5)일 뿐입니다. 근거가 있는 골관절염과 류마티스관절염은 이미 허가 범위와 겹쳐 신규 재창출로 보기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- MFDS 제출용 브리징 데이터 계획 수립 (기존 유럽 Phase 4 RCT 자료 활용 가능성 법적·규제 검토)
-- 상세 안전성 정보 확보: TFDA/MFDS 기준 경고·금기·약물상호작용 데이터
-- Dexibuprofen 공식 작용기전(MOA) 데이터 보완 (DrugBank API 조회)
-- 한국 OA 환자 대상 위장관 안전성 모니터링 계획 수립 (한국 코호트 특성 반영)
-- 이부프로펜 대비 임상적 차별화 포지셔닝 근거 정리 (S(+) 순수 이성질체의 GI 이점)
+- 허가사항(경고·금기) 확인: 안전성 선별 단계로 넘어가기 위한 필수 데이터
+- 작용 기전(MOA) 데이터 확보
+- 골관절염 항목의 L1 판정 검증: Phase 3 RCT 여부를 원문에서 확인
+- 실제 치료 대상이 될 수 있는 임상적 적응증으로 후보 재정의 (감수성 개념 제외)
+- 골관절염 방향으로 진행할 경우 NSAID 공통 심혈관·위장관·신장 주의사항을 반영한 가드레일 마련
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

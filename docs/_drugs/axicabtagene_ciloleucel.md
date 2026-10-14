@@ -2,7 +2,7 @@
 layout: default
 title: Axicabtagene Ciloleucel
 parent: 모델 예측만 (L5)
-nav_order: 107
+nav_order: 109
 evidence_level: L5
 indication_count: 0
 ---

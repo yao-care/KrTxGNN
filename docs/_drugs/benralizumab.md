@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Benralizumab
-parent: 높은 근거 (L1-L2)
-nav_order: 131
-evidence_level: L2
+parent: 모델 예측만 (L5)
+nav_order: 134
+evidence_level: L5
 indication_count: 5
 ---
 
 # Benralizumab
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,103 +31,84 @@ indication_count: 5
 
 # Benralizumab: 중증 호산구성 천식에서 피부염으로
 
----
-
 ## 한 문장 요약
 
-Benralizumab은 IL-5Rα를 표적으로 하는 인간화 단클론항체로, 원래 중증 호산구성 천식 치료에 국제 허가를 받았으나 한국에서는 현재 미시판 상태입니다.
-TxGNN 모델은 **피부염(Dermatitis)**을 근거 기반 우선 예측 적응증으로 제시하며,
-**4건의 임상시험**과 **19편의 문헌**이 이 방향을 탐색하였으나, Phase 2 RCT에서 아토피 피부염 전체 집단 대상 효과는 확인되지 않아 세부 아형 선택이 핵심 과제입니다.
-
----
+Benralizumab(벤라리주맙)은 IL-5 수용체 알파(IL-5Rα)를 표적으로 하는 단클론항체로, 원래 중증 호산구성 천식의 추가 유지치료에 사용되었습니다.
+TxGNN 모델은 **피부염(Dermatitis)**에 효과가 있을 수 있다고 예측하며(예측 점수 99.16%), 현재 **3건의 임상시험**(Phase 2)과 **20편의 문헌**(대부분 리뷰)이 이 방향과 관련되어 있습니다.
+다만 Phase 3 근거는 없고, Phase 2 무작위 대조시험은 조기 종료되어 신중한 해석이 필요합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 중증 호산구성 천식 (국제 승인; 한국 허가 정보 없음) |
+| 기존 적응증 | 중증 호산구성 천식(추가 유지치료) 및 호산구성 육아종증 다발혈관염(EGPA, 미국 FDA 2024년 확대 승인 기준). 한국 허가 적응증 원문은 데이터에 텍스트로 제공되지 않아 허가사항 확인이 필요합니다. |
 | 예측 신규 적응증 | 피부염 (Dermatitis) |
 | TxGNN 예측 점수 | 99.16% |
-| 근거 수준 | L2 |
-| 한국 시판 현황 | ✗ 미시판 |
-| 허가증 수 | 0건 |
-| 권장 결정 | Hold (아토피 피부염) / Research Question (DRESS 아형) |
+| 근거 수준 | L2 (Phase 2 임상시험 존재, 단 Phase 3 없음 및 무작위 대조시험 조기 종료) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 1건 |
+| 권장 결정 | Hold (연구 질문 단계, 추가 확인 필요) |
 
-> **참고**: TxGNN 1순위 예측은 면역성 혈소판감소증(Thrombocytopenia due to immune destruction, 99.34%)이나, 임상시험·문헌 근거가 전무(L5, Hold)합니다. 본 보고서는 근거가 가장 풍부한 피부염(2순위)을 중심으로 서술합니다. 1순위 예측에 대한 기전 분석은 "결론 및 다음 단계" 섹션을 참조하세요.
-
----
+> 참고: 데이터상 1순위 예측은 "면역성 혈소판감소증"(점수 99.34%)이나 임상시험·문헌 근거가 전혀 없어, 근거가 있는 2순위 "피부염"을 중심으로 평가했습니다.
 
 ## 이 예측이 타당한 이유는?
 
-Benralizumab은 IL-5Rα(인터류킨-5 수용체 알파)에 결합하는 인간화 단클론항체입니다. NK 세포를 통한 ADCC(항체 의존성 세포 매개 세포독성) 기전으로 호산구(Eosinophil) 및 호염기구(Basophil)를 혈중과 조직에서 거의 완전히 고갈시킵니다. 작용 기전 상세 데이터는 현재 데이터 갭(DG002)으로, DrugBank API 조회를 통한 보완이 권장됩니다.
+현재 상세한 작용 기전 데이터가 충분히 수집되어 있지 않습니다. 알려진 정보에 따르면, Benralizumab은 IL-5Rα에 결합하여 항체 의존성 세포독성(ADCC)을 통해 호산구와 호염기구를 제거하는 단클론항체입니다. 호산구성 천식에서의 효능이 입증되어 있어, 호산구가 관여하는 다른 질환에도 기전상 적용 가능할 수 있습니다.
 
-아토피 피부염(Atopic Dermatitis, AD)은 Th2 면역 반응이 주도하는 만성 염증성 피부 질환으로, 조직 내 호산구 증가 및 심한 가려움증이 주요 특징입니다. Benralizumab이 AD 피부 병변 내 IL-5Rα 발현 세포를 효과적으로 고갈시킨다는 점은 기전적으로 타당하며(PMID 40781582 확인), 이는 Phase 1/2 탐색 연구의 이론적 근거가 되었습니다.
-
-**그러나 핵심 임상 시그널은 부정적입니다.** AD의 핵심 구동 축은 IL-4/IL-13(Dupilumab의 표적)이며, 호산구는 이 경로의 하류 효과 세포에 불과합니다. HILLIER Phase 2 RCT(NCT04605094, n=194)는 조기 종료되며 중등-중증 AD에서 유의미한 임상 효과가 없음을 확인했습니다(PMID 37178404, 38695680). 반면, **DRESS(Drug Reaction with Eosinophilia and Systemic Symptoms, 약물 반응 동반 호산구 증가 및 전신 증상)**는 호산구가 직접 병리 역할을 하는 아형으로, 기전 적합도가 현저히 높습니다. 해당 아형을 대상으로 한 별도 Phase 2 연구(NCT06734884)가 계획되어 있습니다.
-
----
+아토피피부염 등 2형 염증성 피부질환에서는 호산구, 호염기구, 2형 선천림프구(ILC2)가 염증에 기여합니다. 따라서 이들 세포를 줄이는 Benralizumab이 해당 경로를 조절할 가능성은 있습니다. 그러나 피부염 환자에서 효능이 입증되었다는 직접적 근거는 현재 제공된 자료에 없습니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT04605094](https://clinicaltrials.gov/study/NCT04605094) | Phase 2 | 조기 종료 | 194 | 중등-중증 AD에서 Benralizumab vs. 위약 16주 비교 — **핵심 부정적 결과**: 유의미한 증상 개선 없음 (PMID 37178404, 38695680) |
-| [NCT06734884](https://clinicaltrials.gov/study/NCT06734884) | Phase 2 | 모집 예정 | 96 | DRESS 환자에서 Benralizumab 효능·안전성 평가 (2025.01 시작, 2029.09 완료 예정) — 호산구 구동 아형으로 기전 적합도 높음 |
-| [NCT03563066](https://clinicaltrials.gov/study/NCT03563066) | Phase 2 | 완료 | 20 | AD에서 호산구·호염기구·ILC2에 대한 기전 탐색 연구 (2018~2021) — 피부 내 IL-5Rα 발현 세포 고갈 확인, HILLIER 대형 시험의 전임상 근거 제공 |
-| [NCT04126499](https://clinicaltrials.gov/study/NCT04126499) | N/A | 완료 | 28 | 스페인 개별 접근 프로그램 내 중증 호산구성 천식 환자 Benralizumab 후향 관찰 — 실세계 안전성 참고 데이터 |
-
----
+| [NCT04605094](https://clinicaltrials.gov/study/NCT04605094) | Phase 2 | 조기 종료 | 194 | 중등도~중증 아토피피부염에서 16주 위약 대조, 36주 연장 시험(HILLIER). 가장 엄격한 설계이나 종료 사유 확인 필요(효능 부족 가능성) |
+| [NCT03563066](https://clinicaltrials.gov/study/NCT03563066) | Phase 2 | 완료 | 20 | 아토피피부염에서 호산구·호염기구·ILC2에 대한 작용을 보는 소규모 기전 연구 |
+| [NCT06734884](https://clinicaltrials.gov/study/NCT06734884) | Phase 2 | 모집 예정 | 96 | 호산구증가 동반 약물반응(DRESS)에서 효능·안전성 평가. 시작 예정 2027-01 |
 
 ## 문헌 근거
 
+제공된 문헌은 대부분 생물학적 제제 전반을 다룬 리뷰이며, 피부염에 대한 Benralizumab 효능을 직접 입증하는 연구는 없습니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [37178404](https://pubmed.ncbi.nlm.nih.gov/37178404/) | 2023 | Phase 2 RCT (1차 결과) | JEADV | **핵심**: HILLIER 시험 — 중등-중증 AD에서 Benralizumab 무효 확인, 조기 종료 |
-| [38695680](https://pubmed.ncbi.nlm.nih.gov/38695680/) | 2024 | Phase 2 RCT (전문) | Immunotherapy | HILLIER 시험 평이 언어 전문 요약 — 동일 부정적 결과 재확인 |
-| [40781582](https://pubmed.ncbi.nlm.nih.gov/40781582/) | 2025 | 기전/중개 연구 | Clin Transl Allergy | AD 피부 병변에서 IL-5Rα 발현 세포 고갈 확인 — 생물학적 효과 증명, 그러나 임상 개선 미동반 |
-| [39234416](https://pubmed.ncbi.nlm.nih.gov/39234416/) | 2024 | 기전 연구 | J Allergy Clin Immunol Global | AD 환자 피내 알레르겐 유발 모델에서 Benralizumab의 피부 염증 억제 효과 평가 |
-| [36270814](https://pubmed.ncbi.nlm.nih.gov/36270814/) | 2023 | 이상반응 증례 | Therapie | Benralizumab 유발 간질성 육아종성 피부염 증례 보고 — 피부과 역설적 이상반응 신호 |
-| [38035014](https://pubmed.ncbi.nlm.nih.gov/38035014/) | 2023 | 약물 감시 | Front Pharmacol | FAERS 기반 항제2형 면역 단클론항체(Benralizumab 포함)의 기생충 감염 안전 신호 분석 |
-| [37201737](https://pubmed.ncbi.nlm.nih.gov/37201737/) | 2023 | 검토 | Pharmacol Ther | 알레르기 질환에서 IL-5/IL-5R 길항제 및 병리적 Th2 세포 표적 치료제 총론 |
-| [36355314](https://pubmed.ncbi.nlm.nih.gov/36355314/) | 2023 | 검토 | Dermatol Ther | AD 동반 질환 관리를 위한 Dupilumab과 타 단클론항체(Benralizumab 포함) 병용 안전성 |
-| [36411004](https://pubmed.ncbi.nlm.nih.gov/36411004/) | 2023 | 안전성 검토 | Immunol Allergy Clin North Am | 임신·수유 중 biologics(Benralizumab 포함) 7종 사용 안전성 — 적응증 확장 시 특수 집단 고려 필요 |
-| [35987486](https://pubmed.ncbi.nlm.nih.gov/35987486/) | 2022 | 안전성 검토 | J Allergy Clin Immunol Pract | FDA 승인 아토피 질환 biologics 7종의 임신 중 모체·태아 결과 체계적 검토 |
-
----
+| [35987486](https://pubmed.ncbi.nlm.nih.gov/35987486/) | 2022 | Review | J Allergy Clin Immunol Pract | 임신 중 아토피 질환 생물학적 제제(benralizumab 포함)의 안전성 검토 |
+| [39600395](https://pubmed.ncbi.nlm.nih.gov/39600395/) | 2024 | Review | Allergologie Select | 아토피 질환, 두드러기, 혈관부종 생물학적 제제 최신 동향 및 과민반응 안전성 |
+| [36411004](https://pubmed.ncbi.nlm.nih.gov/36411004/) | 2023 | Review | Immunol Allergy Clin North Am | 임신·수유 중 알레르기 비염, 천식, 아토피피부염 단클론항체 사용 |
+| [34642091](https://pubmed.ncbi.nlm.nih.gov/34642091/) | 2021 | Review | Ann Allergy Asthma Immunol | 천식, 두드러기, 비용종, 아토피피부염 등에서 생물학적 제제 선택 지침 |
+| [31690400](https://pubmed.ncbi.nlm.nih.gov/31690400/) | 2019 | Review | Allergy Asthma Proc | 중증 천식, 아토피피부염, 만성 두드러기의 면역생물학적 치료 |
+| [33236428](https://pubmed.ncbi.nlm.nih.gov/33236428/) | 2020 | Review | Pediatr Allergy Immunol | 소아 알레르기 질환에서 항IL-5 치료 |
+| [37170653](https://pubmed.ncbi.nlm.nih.gov/37170653/) | 2023 | Review | Clin Transl Sci | 천식, 만성 두드러기, 아토피피부염 등 알레르기 질환 면역치료 동향 |
+| [42383238](https://pubmed.ncbi.nlm.nih.gov/42383238/) | 2026 | Review | Curr Ther Res | 소아 아토피피부염 단클론항체의 효능과 안전성 |
+| [38878020](https://pubmed.ncbi.nlm.nih.gov/38878020/) | 2024 | Cohort | J Allergy Clin Immunol | Benralizumab, dupilumab, mepolizumab 투여 환자에서 백신 접종 후 SARS-CoV-2 면역 저하 |
+| [37259416](https://pubmed.ncbi.nlm.nih.gov/37259416/) | 2023 | Review | Pharmaceuticals (Basel) | 천식 및 알레르기 질환 생물학적 치료의 과거·현재·미래 |
 
 ## 한국 시판 정보
 
-현재 Benralizumab의 한국 MFDS 허가 이력이 확인되지 않습니다 (허가증 0건, 시판 현황: 미시판).
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201903766 | 파센라프리필드시린지주30밀리그램(벤라리주맙) | 주사제(프리필드시린지) | 허가사항 원문(식약처 의약품안전나라) 참조 |
 
-> Benralizumab(상품명 **Fasenra®**)은 미국 FDA(2017년), 유럽 EMA(2018년), 일본 PMDA 등에서 **중증 호산구성 천식** 적응증으로 승인되어 있습니다. 한국 MFDS 공식 허가 여부는 MFDS 의약품통합정보시스템(nedrug.mfds.go.kr)을 통한 별도 확인이 필요합니다.
-
----
+제조사는 한국아스트라제네카(주)입니다.
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+- **약물 상호작용**: 약물 간 상호작용은 확인되지 않았으며, 약리학적 표적인 IL-5 수용체 알파 소단위(IL5RA)에 대한 결합 정보만 조회되었습니다.
 
-문헌에서 확인된 주요 안전 신호:
-- **기생충 감염 위험**: FAERS 데이터 분석(PMID 38035014)에서 Benralizumab 사용 시 helminth(기생충) 감염 안전 신호 확인. 기생충 감염 위험 지역 환자에서 투여 전 스크리닝 고려 필요
-- **약물 유발 피부 반응**: 간질성 육아종성 피부염 증례 보고(PMID 36270814) — 피부과 재창출 연구 설계 시 역설적 피부 이상반응 모니터링 항목으로 포함 필요
-
----
+그 외 경고·금기 등 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Hold (아토피 피부염) / Research Question (DRESS 아형)**
+**결정: Hold**
 
 **사유:**
-아토피 피부염에 대해서는 Phase 2 RCT(HILLIER, n=194)가 조기 종료되며 임상적 효과가 없음이 확인된 상태입니다. IL-5/호산구 축이 AD 전체 집단의 핵심 구동 기전이 아님이 임상적으로 결론났습니다. 그러나 호산구가 직접 병리 역할을 하는 **DRESS 아형**은 기전 적합도가 높고 미충족 의료 수요가 존재하여, NCT06734884 시험 결과를 지켜볼 탐색 가치가 있습니다.
-
-**TxGNN 1순위 예측(면역성 혈소판감소증) 요약:** ITP의 주요 병리는 IgG 자가항체 및 T세포 매개 면역 이상이며, IL-5/호산구 축은 핵심 구동 기전이 아닙니다. 임상시험·문헌 근거가 전무(L5)하여 현 단계에서는 Hold를 권장합니다.
+피부염에 대해 Phase 2 시험이 있으나, 가장 엄격한 설계의 무작위 위약 대조시험(NCT04605094)이 조기 종료되었고 Phase 3 근거가 없습니다. 제공된 문헌도 대부분 리뷰로, 피부염에서의 직접적 효능 근거가 부족합니다.
 
 **진행하려면 필요한 것:**
-- MFDS 의약품통합정보시스템에서 Benralizumab(Fasenra®) 한국 허가 현황 공식 확인 및 허가사항 경고·금기 데이터 확보 (DG001 해소)
-- DrugBank API를 통한 작용 기전(MOA) 상세 데이터 보완 (DG002 해소)
-- NCT06734884(DRESS 대상 Phase 2) 진행 상황 모니터링 — 2025년 시작 예정, 1차 결과 시 즉시 재평가
-- DRESS 아형 환자에서 호산구 감소 대리 지표와 임상 결과 간 상관관계 데이터 수집
-- 한국 환자 집단 내 기생충 감염 위험도를 고려한 환자 선별 기준 및 안전성 모니터링 계획 수립
+- NCT04605094의 종료 사유 및 결과 확인(효능 부족 여부 판단)
+- NCT03563066 기전 연구의 결과 확인
+- 허가사항 원문에서 경고·금기 등 안전성 정보 확보
+- 상세한 작용 기전(MOA) 데이터 보완
+- 아토피피부염 등 피부염 하위 유형별 효능을 평가한 근거 확보
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

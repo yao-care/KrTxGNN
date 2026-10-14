@@ -2,7 +2,7 @@
 layout: default
 title: Metronidazole
 parent: 모델 예측만 (L5)
-nav_order: 477
+nav_order: 513
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,86 +29,82 @@ indication_count: 10
 
 </div>
 
-# Metronidazole: 혐기성·원충 감염에서 뉴모시스티스증(Pneumocystosis)으로
+# Metronidazole: 혐기성 세균·원충 감염에서 폐포자충증(Pneumocystosis)으로
 
 ## 한 문장 요약
 
-Metronidazole은 구조화된 `original_indications`/`original_moa` 필드가 모두 데이터 공백 상태이며, 첨부된 문헌 초록들(PMID 7355683, 6835740, 8840708 등)을 통해서만 아메바증·트리코모나스증·혐기성 감염 등에 쓰여온 약물임이 확인됩니다. TxGNN 모델은 **뉴모시스티스증(Pneumocystosis)**에 효과가 있을 수 있다고 예측(점수 99.99%)했지만, 첨부된 임상시험 23건과 문헌 10편을 검토한 결과 실제로 이 예측을 뒷받침하는 근거는 확인되지 않았습니다.
+Metronidazole은 혐기성 세균과 원충 감염 치료에 널리 쓰이는 니트로이미다졸계 항미생물제입니다. TxGNN 모델은 **폐포자충증(Pneumocystosis)**에 효과가 있을 수 있다고 예측했지만, 이를 직접 뒷받침하는 **임상시험은 0건**입니다. 검색된 **문헌 10편**도 대부분 일반 총설이나 증례이고, 폐포자충증에 대한 metronidazole의 효능을 보여주는 것은 없습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 등재된 공식 적응증 정보 없음 (문헌 맥락상 아메바증·트리코모나스증·혐기성 감염 관련 언급만 존재) |
-| 예측 신규 적응증 | 뉴모시스티스증 (Pneumocystosis) |
+| 기존 적응증 | 혐기성 세균 및 원충 감염 (일반적 용도. 한국 허가 적응증 본문은 허가사항 PDF 링크로만 확인되어 별도 확인 필요) |
+| 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 99.99% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | 미출시 |
-| 허가증 수 | 0건 |
+| 근거 수준 | L5 (모델 예측만 있음) |
+| 한국 시판 현황 | ✓ 시판 중 |
+| 허가증 수 | 17건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-작용 기전(MOA) 데이터가 제공되지 않아 공식 근거를 인용할 수 없습니다. 다만 Evidence Pack의 기전 평가(`repurposing_rationale`)에 따르면 이 예측은 기전상 성립하지 않는 것으로 판단됩니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 metronidazole은 혐기성 세균과 원충 내부에서 니트로기가 환원되어 활성화되고, 이 활성 대사체가 DNA를 손상시키는 방식으로 작용합니다.
 
-Pneumocystis jirovecii는 진균이며 표준 치료는 TMP-SMX·pentamidine·atovaquone입니다. Metronidazole의 니트로이미다졸계 항혐기균/항원충 기전은 이 병원체에 대해 알려진 활성이 없습니다. 첨부된 문헌들도 대부분 "항기생충제" 또는 "HIV 기회감염" 관련 총론적 리뷰이며, metronidazole이 뉴모시스티스증을 직접 치료했다는 근거는 없습니다.
-
-또한 첨부된 임상시험 23건 중 상당수(오피오이드 위험관리, 당뇨병 교육, 재택 진료 등)는 metronidazole이나 뉴모시스티스증과 무관한 항목으로, 데이터베이스 매칭 오류로 판단됩니다.
+이 기전은 폐포자충증에는 맞지 않습니다. Pneumocystis는 진균이어서 metronidazole이 의존하는 니트로환원효소 활성화 경로가 없습니다. 표준 치료제는 trimethoprim-sulfamethoxazole입니다. 따라서 99.99%라는 높은 예측 점수는 항원충제·항감염제 등 이웃 약물과의 지식 그래프상 근접성에서 나온 인위적 결과일 가능성이 큽니다. 기전상 타당성은 낮다고 판단합니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT02571673](https://clinicaltrials.gov/study/NCT02571673) | N/A | 완료 | 65 | 두경부암 생존자 자가평가 도구 실현가능성 연구 — **무관 (Grade C)** |
-| [NCT01909076](https://clinicaltrials.gov/study/NCT01909076) | N/A | 완료 | 53 | 1차 진료 내 오피오이드 위험 감소 전략 — 관련성 미평가 |
-| [NCT06160947](https://clinicaltrials.gov/study/NCT06160947) | N/A | 모집 전 | 24 | 척추 만성 비암성 통증에서 카이로프랙틱 치료 병행 — 관련성 미평가 |
-| [NCT06597123](https://clinicaltrials.gov/study/NCT06597123) | N/A | 모집 전 | 150 | AI 기반 동기면담 훈련 프로그램 — 관련성 미평가 |
-| [NCT03466866](https://clinicaltrials.gov/study/NCT03466866) | Phase 3 | 완료 | 156 | 당뇨병 응급실 이용 감소를 위한 교육/원격의료 RCT — **무관 (Grade C)** |
-| [NCT03451630](https://clinicaltrials.gov/study/NCT03451630) | N/A | 완료 | 1400 | 복합 만성질환자 통합 진료모델 연구 — 관련성 미평가 |
-| [NCT05256303](https://clinicaltrials.gov/study/NCT05256303) | N/A | 완료 | 160 | 농촌 지역 재택 병원급 진료 RCT — 관련성 미평가 |
-| [NCT03542084](https://clinicaltrials.gov/study/NCT03542084) | N/A | 완료 | 305 | 내분비내과 자동 이컨설트가 혈당조절에 미치는 영향 — 관련성 미평가 |
-| [NCT02208947](https://clinicaltrials.gov/study/NCT02208947) | Phase 3 | 중단 | 77 | 사전의료계획 참여 유도를 위한 소비자 인센티브 — 관련성 미평가 |
-| [NCT05892666](https://clinicaltrials.gov/study/NCT05892666) | N/A | 모집 중 | 4000 | 워크인 클리닉·1차진료·응급실 간 진료모델 비교 — **무관 (Grade C)** |
-
-**참고**: 위 10건을 포함해 첨부된 23건의 임상시험 중 metronidazole 또는 뉴모시스티스증 치료를 직접 다룬 시험은 없습니다. Grade가 부여된 항목은 모두 "무관"으로 평가되었으며, 나머지는 관련성 평가가 완료되지 않았으나(`pending`) 제목·요약상 뉴모시스티스증과 무관한 주제입니다.
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [1545596](https://pubmed.ncbi.nlm.nih.gov/1545596/) | 1992 | Review | Mayo Clinic Proceedings | 기생충 감염 치료제 총론, metronidazole의 뉴모시스티스증 치료 언급 없음 |
-| [7355683](https://pubmed.ncbi.nlm.nih.gov/7355683/) | 1980 | Review(pending) | American Family Physician | 원충 치료제 선택 가이드 — 뉴모시스티스 폐렴은 trimethoprim-sulfamethoxazole이 표준으로 명시, metronidazole은 아메바증·트리코모나스증에만 해당 |
-| [1782741](https://pubmed.ncbi.nlm.nih.gov/1782741/) | 1991 | Review(pending) | Clinical Pharmacokinetics | 항원충 치료제 약동학 총론 |
-| [26518395](https://pubmed.ncbi.nlm.nih.gov/26518395/) | 2015 | Review | Topics in Antiviral Medicine | HIV 관련 기회감염 전반 리뷰, metronidazole의 역할 언급 없음 |
-| [2996829](https://pubmed.ncbi.nlm.nih.gov/2996829/) | 1985 | Review(pending) | Clinical Pharmacy | AIDS 감염 합병증 치료 총론 |
-| [6282154](https://pubmed.ncbi.nlm.nih.gov/6282154/) | 1982 | Case report | Am Rev Respir Dis | 설사 치료로 metronidazole 복용 중이던 환자가 별개로 뉴모시스티스 폐렴 발병 — 치료 근거 아님 |
-| [2338506](https://pubmed.ncbi.nlm.nih.gov/2338506/) | 1990 | Case report(pending) | 감염증학잡지(일본) | 아메바성 이질에 metronidazole 투여 후 완치, 이후 별도로 뉴모시스티스 폐렴 발병 — 치료 근거 아님 |
-| [16496064](https://pubmed.ncbi.nlm.nih.gov/16496064/) | 2005 | Case report(pending) | J Formos Med Assoc | AIDS 환자의 CMV·아메바성 대장염 증례, 뉴모시스티스증과 무관 |
-| [6771863](https://pubmed.ncbi.nlm.nih.gov/6771863/) | 1980 | Review(pending) | Reviews of Infectious Diseases | 항생제 예방요법 비평 총론 |
-| [2280469](https://pubmed.ncbi.nlm.nih.gov/2280469/) | 1990 | Review(pending) | 日本臨床 | 원충 감염 치료제 총론 (초록 없음) |
-
-**참고**: 10편 모두 metronidazole을 뉴모시스티스증 치료제로 직접 검증한 연구가 아닙니다. 다수는 같은 환자가 별개 사유(아메바증 등)로 metronidazole을 복용 중 뉴모시스티스 폐렴이 발생한 사례일 뿐입니다.
+| [1545596](https://pubmed.ncbi.nlm.nih.gov/1545596/) | 1992 | Review | Mayo Clin Proc | 항기생충제 전반 총설. Metronidazole의 폐포자충증 효능 근거 없음 |
+| [7355683](https://pubmed.ncbi.nlm.nih.gov/7355683/) | 1980 | Review | Am Fam Physician | Metronidazole은 아메바증·트리코모나스증에, 폐포자충 폐렴에는 TMP-SMX를 권고 |
+| [1782741](https://pubmed.ncbi.nlm.nih.gov/1782741/) | 1991 | Review | Clin Pharmacokinet | 항원충 치료의 약동학적 근거 총설. 직접적 근거 없음 |
+| [2996829](https://pubmed.ncbi.nlm.nih.gov/2996829/) | 1985 | Review | Clin Pharm | AIDS 감염 합병증 치료 총설. 폐포자충 폐렴이 가장 흔한 합병증으로 다뤄짐 |
+| [26518395](https://pubmed.ncbi.nlm.nih.gov/26518395/) | 2015 | Review | Top Antivir Med | HIV 관련 기회감염의 현황 개괄. Metronidazole 효능 언급 없음 |
+| [6771863](https://pubmed.ncbi.nlm.nih.gov/6771863/) | 1980 | Review | Rev Infect Dis | 항균제 예방 투여 임상시험 비평. 폐포자충증과 무관 |
+| [6282154](https://pubmed.ncbi.nlm.nih.gov/6282154/) | 1982 | 증례보고 | Am Rev Respir Dis | 건강한 성인의 폐포자충·CMV 폐렴. 이전에 설사로 metronidazole을 복용했을 뿐 치료 효과와 무관 |
+| [2338506](https://pubmed.ncbi.nlm.nih.gov/2338506/) | 1990 | 증례보고 | Kansenshogaku Zasshi | AIDS 환자 2례. 아메바성 이질에 metronidazole을 썼고, 폐포자충 폐렴은 별개 합병증 |
+| [16496064](https://pubmed.ncbi.nlm.nih.gov/16496064/) | 2005 | 증례보고 | J Formos Med Assoc | AIDS 환자의 CMV·아메바성 대장염에 의한 천공. 폐포자충증 근거 아님 |
+| [42178576](https://pubmed.ncbi.nlm.nih.gov/42178576/) | 2026 | 증례보고 | J Med Case Rep | 사코이드증에서 첫 증상으로 나타난 소뇌 농양. 폐포자충증 근거 아님 |
 
 ## 한국 시판 정보
 
-현재 한국에 등록된 허가 정보가 없습니다 (미출시, 허가증 0건).
+한국에는 17건의 유효 허가가 있으며, 이 중 다수는 수출용입니다. 허가 적응증 본문은 허가사항 PDF 링크로만 제공되어 요약하지 못했습니다. 주요 5건은 다음과 같습니다.
+
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 196500004 | 후라시닐정 | 흰색 원형 정제 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196500004/EE) |
+| 199500289 | 메트리날주 | 주사액 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500289/EE) |
+| 199900910 | 후라니졸주 | 주사액 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199900910/EE) |
+| 198400094 | 트리젤주 | 주사액 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198400094/EE) |
+| 199902024 | 메로겔 | 질용 겔 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199902024/EE) |
 
 ## 안전성 고려사항
 
-안전성 정보는 허가사항을 참조하세요.
+허가사항 기반의 경고·금기 정보는 이번 데이터에 포함되지 않았으므로 허가사항을 참조하세요. 참고용 정보는 다음과 같습니다.
+
+- **지식 그래프 기반 금기 관련 질환** (허가 문구가 아니라 TxGNN 지식 그래프의 약물-질환 연결 정보): 간부전·간질환, 간질, 신장질환, 혈액질환(호중구감소증, 무과립구증, 백혈구감소증, 혈액응고질환), 말초신경병증·말초신경계 질환, 뇌질환, 시신경 질환, 울혈성 심부전, 당뇨병·당뇨병성 케톤산증, 통풍, 담낭질환, 물질 남용·의존, 피부염, 비감염성 수막염 등
+- **약물 상호작용**: 조회된 100건 중 상위 20건을 확인했습니다.
+  - **Major**: Ethanol (알코올)
+  - **Moderate**: Paclitaxel, Adalimumab, Trastuzumab emtansine, Ethinylestradiol, Estradiol, Butalbital, Amiodarone, Celecoxib, Amobarbital, Loperamide
+  - 나머지는 Minor 등급입니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-Pneumocystosis는 진균 감염으로 metronidazole의 항혐기균/항원충 기전과 병리학적 연관성이 없으며, 표준요법(TMP-SMX 등)과도 기전이 다릅니다. 첨부된 임상시험·문헌 근거는 대부분 무관하거나 간접적(동일 환자의 별개 질환 치료) 사례로, 이 예측을 직접 지지하는 자료가 아닙니다. Evidence Pack 자체 채점도 근거 수준 L5(모델 예측만 존재), 결정 단계 S0로 분류되어 있습니다.
+폐포자충증에 대한 근거는 모델 예측뿐입니다. 임상시험이 없고 문헌도 효능을 보여주지 못합니다. 또한 Pneumocystis는 진균이어서 metronidazole의 작용 기전이 적용되지 않으며, 표준 치료제(TMP-SMX)가 이미 확립되어 있습니다.
 
 **진행하려면 필요한 것:**
-- 작용 기전(MOA) 데이터 확보 (DG002, High severity)
-- TFDA 허가사항상 경고·금기 정보 확보 — 현재 S1 안전성 초평가 진입 불가 (DG001, Blocking)
-- 뉴모시스티스증에 대한 metronidazole 직접 투여 근거(전임상 또는 임상) 확인
-- 다른 예측 후보(예: rank 9 cap polyposis L3/S2, rank 3·10 L4/S1) 대비 우선순위 재검토 권장
+- 작용 기전 데이터 확보와 Pneumocystis에 대한 in vitro 활성 등 전임상 근거
+- 허가사항 PDF 파싱을 통한 경고·금기·적응증 본문 확인 (현재 안전성 심사 불가)
+- 이 데이터셋의 다른 예측 중 재검토 가치가 있는 후보: **모세포(cap) 폴립증**은 증례 보고와 항염증 기전 가설이 있어 가장 생물학적으로 그럴듯하며, 근거 수준은 L4(Research Question)입니다. 다만 희귀질환이고 대조 시험 자료는 없습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
