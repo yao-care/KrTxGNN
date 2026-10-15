@@ -4,48 +4,43 @@ title: Home
 nav_order: 1
 ---
 
-# KrTxGNN - 韓國藥品老藥新用預測
+# KrTxGNN - 한국 의약품 약물재창출 예측
 
 한국 의약품 약물재창출 예측 시스템
 
 {: .warning }
 > **연구 참고용** - 본 결과는 연구 참고용으로만 사용되며, 의료 조언을 구성하지 않습니다.
->
-> **僅供研究參考** - 本結果僅供研究參考，不構成醫療建議。老藥新用候選需經臨床驗證才能應用。
 
 ---
 
-## 關於 KrTxGNN
+## KrTxGNN 소개
 
-KrTxGNN 使用 [TxGNN](https://github.com/mims-harvard/TxGNN) 知識圖譜方法，對韓國 MFDS（식품의약품안전처）許可藥品進行老藥新用（drug repurposing）預測。
+KrTxGNN은 [TxGNN](https://github.com/mims-harvard/TxGNN) 지식 그래프 방법을 사용하여 식품의약품안전처(MFDS) 허가 의약품의 약물재창출(drug repurposing) 가능성을 예측합니다.
 
-### 資料來源
+### 데이터 출처
 
-| 來源 | 說明 |
+| 출처 | 설명 |
 |------|------|
-| **MFDS** | 韓國食品醫藥品安全處藥品資料 |
-| **DrugBank** | 藥物-靶點-疾病關係 |
-| **TxGNN** | 知識圖譜預測模型 |
-| **PubMed** | 文獻證據 |
-| **ClinicalTrials.gov** | 臨床試驗 |
-| **CRIS** | 韓國臨床試驗資訊服務 |
+| **MFDS** | 식품의약품안전처 의약품 데이터 |
+| **DrugBank** | 약물-표적-질환 관계 |
+| **TxGNN** | 지식 그래프 예측 모델 |
+| **PubMed** | 문헌 근거 |
+| **ClinicalTrials.gov** | 임상시험 |
+| **CRIS** | 한국 임상연구정보서비스 |
 
 ---
 
-## 快速導航
+## 빠른 탐색
 
-- [藥物報告](/drugs/) - 查看個別藥物的老藥新用預測報告
-- [FHIR API](/fhir/metadata) - 以 FHIR R4 格式存取預測資料
-- [新聞監測](/news/) - 相關健康新聞動態
+- [약물 보고서](/drugs/) - 개별 약물의 약물 재창출 예측 보고서 보기
+- [FHIR API](/fhir/metadata) - FHIR R4 형식으로 예측 데이터에 접근
 
 ---
 
-## 免責聲明 / 면책 조항
+## 면책 조항
 
 {: .important }
 본 프로젝트의 결과는 연구 참고용으로만 제공됩니다. 약물재창출 후보는 임상 검증을 거쳐야 적용할 수 있습니다.
-
-本專案結果僅供研究參考，不構成醫療建議。老藥新用候選需經過臨床驗證才能應用。
 
 The results of this project are for research reference only and do not constitute medical advice. Drug repurposing candidates require clinical validation before application.
 

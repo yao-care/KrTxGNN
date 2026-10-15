@@ -1,0 +1,41 @@
+# KrTxGNN AI 판독용 요약
+
+## 플랫폼 개요
+
+KrTxGNN은 藥提醒科技有限公司(yao.care)가 운영하는 대한민국 의약품 대상 약물재창출(drug repurposing) 연구 지원 플랫폼입니다. AI 예측, 임상 근거, 약물 안전성 정보를 공개하며, 내용은 연구 참고용으로만 제공되고 의료 조언이 아닙니다.
+
+## 방법과 근거
+
+Harvard Zitnik Lab이 발표한 TxGNN 방법을 바탕으로 기존 약물과 새로운 적응증 사이의 가능한 연관성을 탐색합니다. 모델 예측을 ClinicalTrials.gov, PubMed, DrugBank, MFDS 데이터 및 DDInter와 결합하여 추적 가능한 보고서로 정리합니다.
+
+근거 수준은 L1(비교적 충분한 임상 근거)부터 L5(모델 예측만)까지이며, 모델 점수는 임상적 효능을 의미하지 않습니다. 모든 약물재창출 후보는 임상시험, 규제 심사, 자격을 갖춘 의료 전문가의 평가를 거쳐야 합니다.
+
+## 주요 내용
+
+- `/` Home
+- `/drugs/` 전체 의약품 — KrTxGNN의 전체 의약품 검증 보고서 및 근거 등급 통계.
+- `/evidence-high/` 높은 근거 (L1-L2) — KrTxGNN의 L1-L2 약물재창출 후보로, 임상시험 또는 체계적 문헌고찰이 뒷받침합니다.
+- `/evidence-medium/` 중등도 근거 (L3-L4) — KrTxGNN의 L3-L4 약물재창출 후보로, 관찰 연구 또는 전임상 근거가 뒷받침합니다.
+- `/evidence-low/` 모델 예측만 (L5) — KrTxGNN의 L5 후보: 모델 예측만 존재하며 아직 임상 또는 문헌 근거가 없습니다.
+- `/methodology/` 방법론 — KrTxGNN이 예측을 생성하고 검증하는 방법: TxGNN 지식 그래프 예측, 근거 수집, L1-L5 등급화, 의사결정 권고.
+- `/guide/` 사용 안내 — KrTxGNN 사용 안내: 의약품 검색 방법, 근거 등급 읽는 법, 권고 해석 방법.
+- `/sources/` 데이터 출처 — KrTxGNN의 데이터 출처: MFDS 허가 데이터, TxGNN, ClinicalTrials.gov, PubMed, DrugBank.
+- `/downloads/` 다운로드 — KrTxGNN 공개 데이터 다운로드: FHIR 리소스, 예측 결과, 검색 인덱스.
+- `/about/` 소개 — KrTxGNN은 藥提醒科技有限公司 (yao.care)가 Harvard TxGNN 모델을 기반으로 개발한 약물재창출 예측 플랫폼으로, 대한민국 MFDS 허가 의약품을 대상으로 합니다.
+
+## 대표 약물 보고서
+
+- Anastrozole (L1): https://krtxgnn.yao.care/drugs/anastrozole/
+- Bromfenac (L1): https://krtxgnn.yao.care/drugs/bromfenac/
+- Doxorubicin (L1): https://krtxgnn.yao.care/drugs/doxorubicin/
+
+## 인용 및 한계
+
+TxGNN 원 논문(https://doi.org/10.1038/s41591-023-02233-x)을 인용해 주십시오. 사이트 내용과 예측은 연구 및 교육 목적으로만 제공되며 의료 조언이 아닙니다. 실제 사용이나 약물재창출 결정은 반드시 자격을 갖춘 전문가, 임상시험, 규제 심사를 통해 확인되어야 합니다.
+
+## 공식 링크
+
+- https://krtxgnn.yao.care/
+- https://www.yao.care/medical/txgnn/
+- https://github.com/yao-care/KrTxGNN
+- https://doi.org/10.1038/s41591-023-02233-x

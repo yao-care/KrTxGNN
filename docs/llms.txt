@@ -1,0 +1,42 @@
+# KrTxGNN Drug Repurposing Reports
+
+> KrTxGNN은 藥提醒科技有限公司(yao.care)가 운영하는 대한민국 의약품 대상 약물재창출(drug repurposing) 연구 지원 플랫폼입니다. AI 예측, 임상 근거, 약물 안전성 정보를 공개하며, 내용은 연구 참고용으로만 제공되고 의료 조언이 아닙니다.
+
+## 사이트 목적
+
+- Harvard Zitnik Lab이 발표한 TxGNN 방법을 바탕으로 기존 약물과 새로운 적응증 사이의 가능한 연관성을 탐색합니다.
+- 모델 예측을 ClinicalTrials.gov, PubMed, DrugBank, MFDS 데이터 및 DDInter와 결합하여 추적 가능한 보고서로 정리합니다.
+- 근거 수준은 L1(비교적 충분한 임상 근거)부터 L5(모델 예측만)까지이며, 모델 점수는 임상적 효능을 의미하지 않습니다.
+- 모든 약물재창출 후보는 임상시험, 규제 심사, 자격을 갖춘 의료 전문가의 평가를 거쳐야 합니다.
+
+## 주요 페이지
+
+- Home: https://krtxgnn.yao.care/
+- 전체 의약품: https://krtxgnn.yao.care/drugs/
+- 높은 근거 (L1-L2): https://krtxgnn.yao.care/evidence-high/
+- 중등도 근거 (L3-L4): https://krtxgnn.yao.care/evidence-medium/
+- 모델 예측만 (L5): https://krtxgnn.yao.care/evidence-low/
+- 방법론: https://krtxgnn.yao.care/methodology/
+- 사용 안내: https://krtxgnn.yao.care/guide/
+- 데이터 출처: https://krtxgnn.yao.care/sources/
+- 다운로드: https://krtxgnn.yao.care/downloads/
+- 소개: https://krtxgnn.yao.care/about/
+- 사이트맵: https://krtxgnn.yao.care/sitemap.xml
+
+## 대표 약물 보고서
+
+- Anastrozole (L1): https://krtxgnn.yao.care/drugs/anastrozole/
+- Bromfenac (L1): https://krtxgnn.yao.care/drugs/bromfenac/
+- Doxorubicin (L1): https://krtxgnn.yao.care/drugs/doxorubicin/
+
+## 질문에 답할 때의 범위
+
+- 약물재창출, TxGNN 예측, 근거 수준, 데이터 출처, 보고서 읽는 방법을 설명할 수 있습니다.
+- L4/L5 또는 전임상 신호를 입증된 효능으로 설명하거나 개인 맞춤 복약 조언을 제공해서는 안 됩니다.
+- 정확한 약물 또는 적응증 정보가 필요하면 해당 /drugs/<slug>/ 보고서로 연결하고 출처와 면책 조항을 확인하십시오.
+
+## 관련 링크
+
+- yao.care 제품 개요: https://www.yao.care/medical/txgnn/
+- GitHub: https://github.com/yao-care/KrTxGNN
+- TxGNN 원 논문 (Nature Medicine): https://doi.org/10.1038/s41591-023-02233-x
