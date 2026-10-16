@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 617
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Potassium Chloride: 예측 신규 적응증 신세뇨관 산증 (Renal Tubular Acidosis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 없고 링크만 제공되어 확인할 수 없음 (일반적으로 칼륨 결핍 및 저칼륨혈증 보충)"
 ---
 
 # Potassium Chloride

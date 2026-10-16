@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 198
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cefuroxime: 예측 신규 적응증 세균성 관절염 (Bacterial Arthritis) (근거 수준 L3). 기존 적응증: 허가증 원문에 적응증 텍스트가 없어 확인 불가 (항생제로서의 세균 감염 치료)"
 ---
 
 # Cefuroxime

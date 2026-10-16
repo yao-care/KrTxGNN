@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 569
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Oxiracetam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트를 확인할 수 없음 (허가증에 PDF 링크만 있음)"
 ---
 
 # Oxiracetam

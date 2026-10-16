@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 552
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Nizatidine: 예측 신규 적응증 활동성 소화성 궤양질환 (Active Peptic Ulcer Disease) (근거 수준 L5). 기존 적응증: 위산과다, 속쓰림, 신트림"
 ---
 
 # Nizatidine

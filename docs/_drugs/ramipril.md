@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 641
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ramipril: 예측 신규 적응증 허혈성 뇌졸중 감수성 (obsolete susceptibility to ischemic stroke) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않아(허가사항 링크만 있음) 확인 불가. 문헌상 고혈압, 심부전, 신병증…"
 ---
 
 # Ramipril

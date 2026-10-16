@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 652
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rifabutin: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 허가 적응증 본문이 링크 형태로만 확인되어 구체적 내용을 확인할 수 없음"
 ---
 
 # Rifabutin

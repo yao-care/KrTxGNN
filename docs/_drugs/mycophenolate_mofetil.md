@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 532
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Mycophenolate Mofetil: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 이식 장기 거부반응 예방 (허가 적응증 원문은 허가증 링크로만 제공되어 문헌 기술을 참고함)"
 ---
 
 # Mycophenolate Mofetil

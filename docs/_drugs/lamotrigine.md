@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Lamotrigine: 예측 신규 적응증 삼차신경 종양 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 뇌전증(항경련 치료). 허가증에는 적응증 본문 없이 원문 링크만 있어 허가 문구는 확인하지 못했습니다"
 ---
 
 # Lamotrigine

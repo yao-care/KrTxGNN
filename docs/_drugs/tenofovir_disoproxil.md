@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 726
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Tenofovir Disoproxil: 예측 신규 적응증 원숭이면역결핍바이러스 감염 (Simian immunodeficiency virus infection) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 데이터에 포함되어 있지 않아 확인 불가 (허가증 PDF 링크만 제공됨)"
 ---
 
 # Tenofovir Disoproxil

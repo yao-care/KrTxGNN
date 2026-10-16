@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 756
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Trastuzumab Emtansine: 예측 신규 적응증 정상 유방형 유방암 (normal breast-like subtype of breast carcinoma) (근거 수준 L5). 기존 적응증: HER2 양성 유방암 (허가 문서는 링크로만 확인되어 본문 확인 불가)"
 ---
 
 # Trastuzumab Emtansine

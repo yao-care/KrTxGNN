@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 454
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Lactulose: 예측 신규 적응증 급성 요산 신병증 (Acute Urate Nephropathy) (근거 수준 L5). 기존 적응증: 변비, 만성변비, 영·유아 및 소아의 변비, 분만 후의 변비"
 ---
 
 # Lactulose

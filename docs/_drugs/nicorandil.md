@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 544
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nicorandil: 예측 신규 적응증 양성 전립선 비대증 (Benign Prostatic Hyperplasia) (근거 수준 L4). 기존 적응증: 협심증 (만성 안정형 협심증)"
 ---
 
 # Nicorandil

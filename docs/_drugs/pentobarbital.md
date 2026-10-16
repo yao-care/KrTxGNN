@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 590
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pentobarbital: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L4). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 기재되어 있음)"
 ---
 
 # Pentobarbital

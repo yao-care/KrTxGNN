@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 643
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ranibizumab: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 없음 (허가증 링크만 제공됨)"
 ---
 
 # Ranibizumab

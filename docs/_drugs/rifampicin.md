@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rifampicin: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 허가증 문서 링크로만 제공되어 확인하지 못했습니다. 일반적으로 알려진 항결핵제 용도를 기준으로 서술했습니다"
 ---
 
 # Rifampicin

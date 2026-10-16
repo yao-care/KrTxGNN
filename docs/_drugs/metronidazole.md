@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Metronidazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 혐기성 세균 및 원충 감염 (일반적 용도. 한국 허가 적응증 본문은 허가사항 PDF 링크로만 확인되어 별도 확인 필요)"
 ---
 
 # Metronidazole

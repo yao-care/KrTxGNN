@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 330
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etoricoxib: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 류마티스 관절염, 골관절염, 만성 요통, 강직성 척추염, 급성 통증, 통풍 (약리학 자료 기준)"
 ---
 
 # Etoricoxib

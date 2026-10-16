@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 656
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Rimegepant: 예측 신규 적응증 뇌줄기 조짐을 동반한 편두통 (Migraine with Brainstem Aura) (근거 수준 L5). 기존 적응증: 편두통 (한국 허가 문서에는 적응증 본문 대신 링크만 기재되어 있어…"
 ---
 
 # Rimegepant

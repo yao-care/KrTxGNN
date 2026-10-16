@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 359
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluorouracil: 예측 신규 적응증 질의 포도상 배아형 횡문근육종 (botryoid-type embryonal rhabdomyosarcoma of the vag… (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 질환명은 확인되지 않음 (허가사항 참조)"
 ---
 
 # Fluorouracil

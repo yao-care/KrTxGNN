@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Mirtazapine: 예측 신규 적응증 Ohdo 증후군 및 변이형 (Ohdo syndrome and variants) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 데이터에 포함되어 있지 않습니다(허가증 PDF 링크만 있음). 허가사항을 참조하세요"
 ---
 
 # Mirtazapine

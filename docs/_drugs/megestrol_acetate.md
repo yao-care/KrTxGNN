@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 498
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Megestrol Acetate: 예측 신규 적응증 자궁체부 자궁내막암 (Uterine corpus endometrial carcinoma) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 없고 허가증 문서 링크만 제공됨)"
 ---
 
 # Megestrol Acetate

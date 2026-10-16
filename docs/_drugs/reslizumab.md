@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 650
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Reslizumab: 예측 신규 적응증 면역 파괴에 의한 혈소판감소증 (Thrombocytopenia due to immune destruction) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 정보에 문서 링크만 등록되어 있음)"
 ---
 
 # Reslizumab

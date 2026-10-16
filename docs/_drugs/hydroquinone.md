@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Hydroquinone: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L5). 기존 적응증: 간반, 흑피증(기미), 주근깨, 노인성 검은반점, 기타 불필요한 부위의 과도한 멜라닌 색소 침착 피부의 점차적인 표백"
 ---
 
 # Hydroquinone

@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 225
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clofarabine: 예측 신규 적응증 골수성 백혈병 (Myeloid Leukemia) (근거 수준 L2). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요)"
 ---
 
 # Clofarabine

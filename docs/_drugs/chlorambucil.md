@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 204
 evidence_level: L3
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Chlorambucil: 예측 신규 적응증 원발성 폐 림프종 (Primary Pulmonary Lymphoma) (근거 수준 L3). 기존 적응증: 허가증에 적응증 원문이 링크로만 제공되어 있어 구체적 문구는 확인할 수 없습니다. 문헌상 CLL 등 림프계 악성종양에 사용됩…"
 ---
 
 # Chlorambucil

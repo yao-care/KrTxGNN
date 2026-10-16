@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 782
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Venetoclax: 예측 신규 적응증 전배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center CLL/SLL) (근거 수준 L4). 기존 적응증: 이번 보고서용으로 수집한 데이터에는 허가 적응증 본문 없이 허가증 PDF 링크만 있어 확인되지 않음 (BCL-2 억제로 CL…"
 ---
 
 # Venetoclax

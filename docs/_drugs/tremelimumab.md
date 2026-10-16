@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 758
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tremelimumab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic cataract) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았으며 허가 문서 링크만 확보됨 (참고: 간세포암 등 항종양 용도로 알려져 있음)"
 ---
 
 # Tremelimumab

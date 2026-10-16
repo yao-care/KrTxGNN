@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 427
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Insulin Glulisine: 예측 신규 적응증 제1형 당뇨병 (type 1 diabetes mellitus) (근거 수준 L1). 기존 적응증: 허가증에 적응증 원문 대신 허가 문서 링크만 제공되어 구체적인 문구는 확인할 수 없음 (당뇨병 혈당 조절용 인슐린)"
 ---
 
 # Insulin Glulisine

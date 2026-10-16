@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 421
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Indomethacin: 예측 신규 적응증 소아특발성관절염 (Juvenile Idiopathic Arthritis, 예측 8위) (근거 수준 L5). 기존 적응증: 퇴행성 관절염(골관절염), 어깨관절주위염, 건(힘줄)·건초염(힘줄윤활막염), 건주위염, 상완골상과염(테니스 엘보우 등)…"
 ---
 
 # Indomethacin

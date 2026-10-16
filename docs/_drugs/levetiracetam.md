@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 471
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Levetiracetam: 예측 신규 적응증 시각 유발 간질 (Visual epilepsy) (근거 수준 L1). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 문구는 확인되지 않음 (항경련제로 사용)"
 ---
 
 # Levetiracetam

@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 108
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Avelumab: 예측 신규 적응증 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 원문은 확인되지 않음 (후보별 근거 설명에서는 메르켈세포암, 요로상피암 유지요법이 언급됨)"
 ---
 
 # Avelumab

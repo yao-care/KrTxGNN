@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Desogestrel: 예측 신규 적응증 유방 섬유낭성 질환 (Breast Fibrocystic Disease) (근거 수준 L5). 기존 적응증: 피임"
 ---
 
 # Desogestrel

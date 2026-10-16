@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 425
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Insulin Detemir: 예측 신규 적응증 제1형 당뇨병 (type 1 diabetes mellitus) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 링크로만 제공되어 구체적 문구를 확인할 수 없음 (당뇨병 치료제로 시판)"
 ---
 
 # Insulin Detemir

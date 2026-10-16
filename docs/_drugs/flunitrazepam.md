@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 355
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Flunitrazepam: 예측 신규 적응증 불면증 (insomnia) (근거 수준 L3). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 확인되지 않음 (불면증 치료제로 알려져 있음)"
 ---
 
 # Flunitrazepam

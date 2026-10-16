@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 223
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Clobetasol Propionate: 예측 신규 적응증 외음부 역전모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 확인할 수 없음 (공개 자료상 피부 염증·가려움증: 알레르기 반응, 습진, 건선)"
 ---
 
 # Clobetasol Propionate

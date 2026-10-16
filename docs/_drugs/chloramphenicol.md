@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 205
 evidence_level: L3
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Chloramphenicol: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L3). 기존 적응증: 허가증에 적응증 원문이 기재되어 있지 않아 확인되지 않음 (허가 제형은 모두 점안액)"
 ---
 
 # Chloramphenicol

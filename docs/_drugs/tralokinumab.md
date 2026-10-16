@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 750
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tralokinumab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: 아토피피부염 (허가증에는 적응증 본문 대신 문서 링크만 기재되어 있어, 항 IL-13 항체의 알려진 적응증을 기준으로 작성)"
 ---
 
 # Tralokinumab

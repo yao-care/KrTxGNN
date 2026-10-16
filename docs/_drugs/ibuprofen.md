@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 409
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Ibuprofen: 예측 신규 적응증 말단중간형 이형성증, Hunter-Thompson형 (acromesomelic dysplasia… (근거 수준 L5). 기존 적응증: 류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증…"
 ---
 
 # Ibuprofen

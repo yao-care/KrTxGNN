@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Isosorbide Mononitrate: 예측 신규 적응증 다모증 (Hypertrichosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다. 허가증에는 문서 링크만 있습니다"
 ---
 
 # Isosorbide Mononitrate

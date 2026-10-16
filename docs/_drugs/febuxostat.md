@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 339
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Febuxostat: 예측 신규 적응증 신성 저요산혈증 (Hypouricemia, renal) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증은 링크로만 제공되어 본문이 없음)"
 ---
 
 # Febuxostat

@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 253
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dasatinib: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L3). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되지 않았고 허가사항 PDF 링크만 있습니다. 문헌상 만성 골수성 백혈병(CML) 및…"
 ---
 
 # Dasatinib

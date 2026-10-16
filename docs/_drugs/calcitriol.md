@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Calcitriol: 예측 신규 적응증 99.96% (근거 수준 L5). 기존 적응증: 비타민 D 결핍 (obsolete vitamin D deficiency, 폐기된 질환 용어)"
 ---
 
 # Calcitriol

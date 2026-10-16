@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 474
 evidence_level: L4
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Levonorgestrel: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 피임"
 ---
 
 # Levonorgestrel

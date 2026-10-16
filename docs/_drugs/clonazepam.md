@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 228
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Clonazepam: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공됨)"
 ---
 
 # Clonazepam

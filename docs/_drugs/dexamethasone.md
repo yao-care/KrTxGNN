@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 268
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dexamethasone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 습진·피부염군, 양진군, 벌레물린데, 건선, 손·발바닥 농포증, 편평태선, 홍피증, 만성원판상홍반…"
 ---
 
 # Dexamethasone

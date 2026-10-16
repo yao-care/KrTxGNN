@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 21
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Acetylsalicylic Acid: 예측 신규 적응증 뇌간 조짐을 동반한 편두통 (Migraine with brainstem aura) (근거 수준 L5). 기존 적응증: 심근경색, 뇌경색, 불안정형 협심증에서의 혈전 생성 억제…"
 ---
 
 # Acetylsalicylic Acid

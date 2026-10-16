@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 134
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Benralizumab: 예측 신규 적응증 피부염 (Dermatitis) (근거 수준 L5). 기존 적응증: 중증 호산구성 천식(추가 유지치료) 및 호산구성 육아종증 다발혈관염(EGPA…"
 ---
 
 # Benralizumab

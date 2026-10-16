@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 360
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluoxetine: 예측 신규 적응증 강박장애 (Obsessive-Compulsive Disorder) (근거 수준 L1). 기존 적응증: 확인 불가 (허가증 적응증 항목에 텍스트 대신 링크만 제공됨)"
 ---
 
 # Fluoxetine

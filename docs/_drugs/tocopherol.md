@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 742
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tocopherol: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 비타민 E 결핍증, 말초순환기능 장애 및 갱년기시 어깨·목 결림, 수족저림(손발저림)·수족냉증(손발이 차가움)…"
 ---
 
 # Tocopherol

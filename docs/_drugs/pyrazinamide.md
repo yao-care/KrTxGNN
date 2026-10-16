@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 639
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pyrazinamide: 예측 신규 적응증 감염성 중이염 (Infectious Otitis Media) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 제공되어 구체적 적응증 텍스트는 확인되지 않음 (항결핵제로 알려져 있음)"
 ---
 
 # Pyrazinamide

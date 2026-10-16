@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 563
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Omalizumab: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 중등증~중증 IgE 매개 지속성 천식…"
 ---
 
 # Omalizumab

@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 461
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Larotrectinib: 예측 신규 적응증 다발성 내분비 종양 (Multiple Endocrine Neoplasia) (근거 수준 L3). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요)"
 ---
 
 # Larotrectinib

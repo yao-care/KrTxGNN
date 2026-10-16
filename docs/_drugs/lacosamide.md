@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 452
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lacosamide: 예측 신규 적응증 조증 양극성장애 (manic bipolar affective disorder) (근거 수준 L5). 기존 적응증: 항전간제(간질 발작 치료). 허가 적응증 본문은 링크 형태로만 확인되어 문구를 인용하지 못했습니다"
 ---
 
 # Lacosamide

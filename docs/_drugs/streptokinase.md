@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 703
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Streptokinase: 예측 신규 적응증 심근경색 (Myocardial Infarction) (근거 수준 L1). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않음(허가증 PDF 링크만 제공됨)"
 ---
 
 # Streptokinase

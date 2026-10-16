@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 549
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nitrogen: 예측 신규 적응증 16q24.1 미세결실 증후군 (16q24.1 microdeletion syndrome) (근거 수준 L5). 기존 적응증: 의료용 질소 (허가 적응증 상세 텍스트는 확인되지 않음)"
 ---
 
 # Nitrogen

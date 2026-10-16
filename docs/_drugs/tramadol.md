@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 751
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tramadol: 예측 신규 적응증 골관절염 (Osteoarthritis) (근거 수준 L5). 기존 적응증: 허가증 자료에는 허가 적응증 본문이 아닌 허가사항 문서 링크만 포함되어 있어 구체적 문구를 확인할 수 없음 (중등도 이상의…"
 ---
 
 # Tramadol

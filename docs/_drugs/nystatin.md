@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 556
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nystatin: 예측 신규 적응증 외음질염 (Vulvovaginitis) (근거 수준 L4). 기존 적응증: 확인 불가 (허가 적응증이 허가증 PDF 링크로만 제공되어 본문을 확인하지 못했습니다)"
 ---
 
 # Nystatin

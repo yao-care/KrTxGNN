@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 542
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Neratinib: 예측 신규 적응증 프로게스테론 수용체 양성 유방암 (Progesterone-receptor positive breast cancer) (근거 수준 L2). 기존 적응증: 허가 적응증 텍스트가 허가사항 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
 ---
 
 # Neratinib

@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 496
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Medroxyprogesterone Acetate: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 확인할 수 없음 (식약처 허가정보 참조)"
 ---
 
 # Medroxyprogesterone Acetate

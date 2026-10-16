@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 475
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Levothyroxine: 예측 신규 적응증 풍토성 갑상선종 (Endemic Goiter) (근거 수준 L3). 기존 적응증: 허가 적응증 원문은 이번에 확보한 데이터에 포함되어 있지 않음 (허가사항 PDF 링크만 확인됨)"
 ---
 
 # Levothyroxine

@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 215
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cinepazide: 예측 신규 적응증 고전적 호지킨 림프종, 림프구 고갈형 (classic Hodgkin lymphoma… (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조)"
 ---
 
 # Cinepazide

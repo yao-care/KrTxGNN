@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 729
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Teriparatide: 예측 신규 적응증 십이지장궤양 (Duodenal Ulcer) (근거 수준 L5). 기존 적응증: 골다공증 (골절 고위험 환자)"
 ---
 
 # Teriparatide

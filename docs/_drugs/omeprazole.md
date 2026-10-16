@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 564
 evidence_level: L3
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Omeprazole: 예측 신규 적응증 십이지장위 역류 (Duodenogastric Reflux) (근거 수준 L3). 기존 적응증: 허가 적응증 원문은 이번 데이터에서 확인되지 않음 (허가사항 링크만 제공됨)"
 ---
 
 # Omeprazole

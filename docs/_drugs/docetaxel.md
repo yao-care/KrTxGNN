@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 284
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Docetaxel: 예측 신규 적응증 여성 유방암 (Female Breast Carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 허가사항 문서 링크만 수록되어 있어 구체적 문구는 확인되지 않음 (허가사항 참조 필요)"
 ---
 
 # Docetaxel

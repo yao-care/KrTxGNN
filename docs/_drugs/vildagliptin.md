@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 784
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vildagliptin: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 제2형 당뇨병 (허가 문서는 링크로만 제공되어 본문 확인 불가, 약리 데이터의 임상 용도 기준)"
 ---
 
 # Vildagliptin

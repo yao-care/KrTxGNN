@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 486
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Lovastatin: 예측 신규 적응증 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) (근거 수준 L5). 기존 적응증: 고콜레스테롤혈증 등 지질 이상 (허가증이 문서 링크로만 제공되어 본문 확인 불가, 약물 계열 기준으로 기재)"
 ---
 
 # Lovastatin

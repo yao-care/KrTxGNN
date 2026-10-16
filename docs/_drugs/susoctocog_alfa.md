@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 712
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Susoctocog Alfa: 예측 신규 적응증 혈우병 (hemophilia) (근거 수준 L3). 기존 적응증: 후천성 혈우병 A의 출혈 에피소드 치료 (허가 문서 링크만 제공되어 있어 문헌 및 기전 정보를 바탕으로 정리)"
 ---
 
 # Susoctocog Alfa

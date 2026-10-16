@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 746
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tolvaptan: 예측 신규 적응증 다낭신질환 3형 (다낭간질환 동반 또는 비동반) (근거 수준 L5). 기존 적응증: 허가증 원문 링크만 제공되어 구체적인 적응증 문구를 확인할 수 없음 (허가사항 참조)"
 ---
 
 # Tolvaptan

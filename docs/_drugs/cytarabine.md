@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 244
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Cytarabine: 예측 신규 적응증 소세포폐암 (Small Cell Lung Carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 수록되어 있어 확인할 수 없음 (허가사항 원문 확인 필요)"
 ---
 
 # Cytarabine

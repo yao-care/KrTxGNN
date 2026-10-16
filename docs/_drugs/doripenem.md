@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Doripenem: 예측 신규 적응증 간문맥경화증 (Hepatoportal Sclerosis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 없고 링크만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
 ---
 
 # Doripenem

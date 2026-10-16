@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 525
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Modafinil: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적 문구를 확인할 수 없음 (허가 문서 참조)"
 ---
 
 # Modafinil

@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 235
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Conjugated Estrogens: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 수록)"
 ---
 
 # Conjugated Estrogens

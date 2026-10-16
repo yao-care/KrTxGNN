@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Aminocaproic Acid: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 눈의 피로, 결막충혈, 수영 후 눈의 불쾌감 또는 먼지나 땀이 눈에 들어갔을 때, 자외선 및 기타광선에 의한 눈의 염증 등"
 ---
 
 # Aminocaproic Acid

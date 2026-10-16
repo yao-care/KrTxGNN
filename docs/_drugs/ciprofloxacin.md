@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 216
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ciprofloxacin: 예측 신규 적응증 미만성 피부경화증 (Diffuse Scleroderma) (근거 수준 L4). 기존 적응증: 세균 감염증 (항균제, 상세 허가 적응증은 허가사항 참조)"
 ---
 
 # Ciprofloxacin

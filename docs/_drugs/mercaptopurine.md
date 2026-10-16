@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 503
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Mercaptopurine: 예측 신규 적응증 급성 림프모구성 백혈병 (Acute Lymphoblastic Leukemia) (근거 수준 L1). 기존 적응증: 허가 적응증 본문은 확인되지 않았고, 허가 문서 링크만 확인됨"
 ---
 
 # Mercaptopurine

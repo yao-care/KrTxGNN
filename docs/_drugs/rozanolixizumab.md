@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rozanolixizumab: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (참고: 해외에서는 항아세틸콜린 수용체 또는 항M…"
 ---
 
 # Rozanolixizumab

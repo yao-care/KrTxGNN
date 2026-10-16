@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 633
 evidence_level: L2
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Propofol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L2). 기존 적응증: 전신마취 및 진정 (허가 적응증 원문은 이 보고서용으로 수집된 데이터에 텍스트로 포함되지 않아…"
 ---
 
 # Propofol

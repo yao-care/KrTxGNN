@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 728
 evidence_level: L1
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Teriflunomide: 예측 신규 적응증 재발 완화형 다발성 경화증 (relapsing-remitting multiple sclerosis) (근거 수준 L1). 기존 적응증: 허가증에 적응증 원문이 제공되지 않음 (허가사항 PDF 링크만 확인됨)"
 ---
 
 # Teriflunomide

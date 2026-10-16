@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 694
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sirolimus: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L3). 기존 적응증: 허가 적응증 원문은 허가사항 링크로만 제공됨 (문헌상 이식 환자의 면역억제제로 사용)"
 ---
 
 # Sirolimus

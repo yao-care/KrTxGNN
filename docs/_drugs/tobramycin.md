@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 740
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tobramycin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L3). 기존 적응증: 확인 불가 (허가 적응증 텍스트가 문서 링크로만 제공됨)"
 ---
 
 # Tobramycin

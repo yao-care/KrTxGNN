@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 329
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etoposide: 예측 신규 적응증 고분화 태아형 폐 선암 (well-differentiated fetal adenocarcinoma of the lung) (근거 수준 L4). 기존 적응증: 항종양 치료 (허가 적응증 본문은 이번 데이터에 포함되지 않음)"
 ---
 
 # Etoposide

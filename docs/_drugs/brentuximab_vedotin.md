@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 154
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Brentuximab Vedotin: 예측 신규 적응증 여포성 림프종 (Follicular Lymphoma) (근거 수준 L3). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 확인 불가 (허가증 참조)"
 ---
 
 # Brentuximab Vedotin

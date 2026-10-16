@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 178
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Capreomycin: 예측 신규 적응증 통풍 (Gout) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않고 외부 문서 링크만 있어 확인 불가 (일반적으로 다제내성 결핵에 사용되는 약물)"
 ---
 
 # Capreomycin

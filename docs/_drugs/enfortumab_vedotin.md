@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 309
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Enfortumab Vedotin: 예측 신규 적응증 나병 (Leprosy) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 허가증 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조)"
 ---
 
 # Enfortumab Vedotin

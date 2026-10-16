@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 281
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Diosmin: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 정맥부전과 관련된 증상(다리 중압감, 통증 등)의 개선, 모세혈관 취약증에 의한 장애의 보조치료, 치질과 관련된 징후의 치료"
 ---
 
 # Diosmin

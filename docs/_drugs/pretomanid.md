@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pretomanid: 예측 신규 적응증 칸디다증 (Candidiasis) (근거 수준 L5). 기존 적응증: 허가증 원문 링크만 제공되어 구체적 문구 확인 불가 (문헌상 BPaL 요법의 광범위 약제내성·치료 불내성/비반응 다제내성 폐…"
 ---
 
 # Pretomanid

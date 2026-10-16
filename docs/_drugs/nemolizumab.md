@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 541
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nemolizumab: 예측 신규 적응증 당뇨병성 백내장 (diabetic cataract) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않았습니다(허가 문서 링크만 확인됨). 참고로 국외에서는 아토피피부염 관련 가려움증(일본)과…"
 ---
 
 # Nemolizumab

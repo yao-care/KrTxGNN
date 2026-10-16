@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 755
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Trastuzumab Deruxtecan: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨)"
 ---
 
 # Trastuzumab Deruxtecan

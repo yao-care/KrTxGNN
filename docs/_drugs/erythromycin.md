@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 317
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Erythromycin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L4). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음)"
 ---
 
 # Erythromycin

@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 714
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Tadalafil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 미확보 (허가증에는 PDF 링크만 포함되어 있어 확인 불가)"
 ---
 
 # Tadalafil

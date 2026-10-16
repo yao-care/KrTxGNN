@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 502
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Mepolizumab: 예측 신규 적응증 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) (근거 수준 L4). 기존 적응증: 허가 적응증 본문은 허가증 링크로만 제공되어 확인되지 않음 (허가사항 참조)"
 ---
 
 # Mepolizumab

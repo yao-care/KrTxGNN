@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 707
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sulfasalazine: 예측 신규 적응증 골관절염 (Osteoarthritis) — 예측 순위 5위 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 확인할 수 없음 (허가사항 PDF 참조)"
 ---
 
 # Sulfasalazine

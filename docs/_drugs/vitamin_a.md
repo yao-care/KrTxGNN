@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 786
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vitamin A: 예측 신규 적응증 선천성 프로트롬빈 결핍증 (congenital prothrombin deficiency) (근거 수준 L5). 기존 적응증: 육체피로 및 체력 저하 시 비타민 A·D·E·B군·C 보급, 눈의 건조감 완화, 야맹증, 피부염·구내염 증상 완화 등"
 ---
 
 # Vitamin A

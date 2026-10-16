@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 390
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Glycol Salicylate: 예측 신규 적응증 Glanzmann 혈소판무력증 (Glanzmann thrombasthenia) (근거 수준 L5). 기존 적응증: 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 근육피로, 관절통, 동창(언 상처)의 진통·소염(항염)"
 ---
 
 # Glycol Salicylate

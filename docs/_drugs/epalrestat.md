@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Epalrestat: 예측 신규 적응증 제2형 당뇨병성 신증 (type 2 diabetes nephropathy) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 한국 허가사항 문서(MFDS 첨부문서)에 수록되어 있으며…"
 ---
 
 # Epalrestat

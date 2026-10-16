@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entrectinib: 예측 신규 적응증 다발성 내분비 종양증 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 텍스트로 포함되어 있지 않습니다. 허가사항(MFDS 허가증)을 확인해야 합니다"
 ---
 
 # Entrectinib

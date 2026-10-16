@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 689
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Sennosides: 예측 신규 적응증 두피 단순 저모발증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 변비와 변비에 동반하는 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질 증상의 완화"
 ---
 
 # Sennosides

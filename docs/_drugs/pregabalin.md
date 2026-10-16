@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 626
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Pregabalin: 예측 신규 적응증 건염 (Tendinitis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 링크로만 제공됨 (일반적으로 신경병증성 통증 등, 허가사항 확인 필요)"
 ---
 
 # Pregabalin

@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 242
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Cyclosporine: 예측 신규 적응증 만성 육아종성 질환, 상염색체 열성 (Chronic Granulomatous Disease) (근거 수준 L4). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없습니다 (이식 면역억제 및 안과용…"
 ---
 
 # Cyclosporine

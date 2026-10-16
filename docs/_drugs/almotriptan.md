@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 43
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Almotriptan: 예측 신규 적응증 뇌간 조짐 편두통 (Migraine with brainstem aura) (근거 수준 L4). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 구체적 문구는 확인되지 않음 (급성 편두통 치료로 알려져 있음)"
 ---
 
 # Almotriptan

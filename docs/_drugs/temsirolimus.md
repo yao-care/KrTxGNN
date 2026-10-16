@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 723
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Temsirolimus: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 아닌 문서 링크만 등록되어 있어 이번 데이터에서는 확인할 수 없음"
 ---
 
 # Temsirolimus

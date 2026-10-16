@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 735
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Thymol: 예측 신규 적응증 심실중격 동맥류 (interventricular septum aneurysm) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
 ---
 
 # Thymol

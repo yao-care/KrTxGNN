@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 511
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methylprednisolone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L2). 기존 적응증: 확인 불가 (허가 적응증 본문이 이번 자료에 포함되지 않음)"
 ---
 
 # Methylprednisolone

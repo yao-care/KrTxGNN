@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 417
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Imiglucerase: 예측 신규 적응증 헐러 증후군 (Hurler syndrome, MPS I) (근거 수준 L4). 기존 적응증: 허가 적응증 원문은 허가증 문서 링크로만 제공되어 구체적인 문구를 확인할 수 없음(고셰병 효소대체요법으로 사용)"
 ---
 
 # Imiglucerase

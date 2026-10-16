@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 443
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Itopride: 예측 신규 적응증 소장 크론병 (small bowel Crohn disease) (근거 수준 L5). 기존 적응증: 위장관 운동 촉진제로 허가됨 (허가 적응증 원문은 이번 데이터에서 확인되지 않아 허가사항 참조 필요)"
 ---
 
 # Itopride

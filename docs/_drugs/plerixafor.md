@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 608
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Plerixafor: 예측 신규 적응증 무증상(저등급) 형질세포 골수종 (Indolent Plasma Cell Myeloma) (근거 수준 L5). 기존 적응증: 자가 조혈모세포 이식을 위한 조혈모세포 동원 (비호지킨 림프종…"
 ---
 
 # Plerixafor

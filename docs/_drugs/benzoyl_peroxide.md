@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 138
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Benzoyl Peroxide: 예측 신규 적응증 외음부 역전성 모낭각화증 (vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 심상성 여드름(보통여드름)"
 ---
 
 # Benzoyl Peroxide

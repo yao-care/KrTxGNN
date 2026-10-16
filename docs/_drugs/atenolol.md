@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 94
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Atenolol: 예측 신규 적응증 후하벽 심근경색 (Posteroinferior Myocardial Infarction) (근거 수준 L4). 기존 적응증: 허가 적응증 원문은 제공되지 않았고 허가증 PDF 링크만 확인됩니다. 허가사항을 참조하세요"
 ---
 
 # Atenolol

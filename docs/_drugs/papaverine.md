@@ -5,6 +5,8 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 579
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Papaverine: 예측 신규 적응증 말초동맥질환 (Peripheral Arterial Disease) (근거 수준 L3). 기존 적응증: 허가증에 적응증 원문 대신 링크만 기재되어 있어 확인 불가 (허가사항 참조)"
 ---
 
 # Papaverine

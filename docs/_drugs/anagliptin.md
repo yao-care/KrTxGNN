@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Anagliptin: 예측 신규 적응증 옵시스모이형성증 (Opsismodysplasia) (근거 수준 L5). 기존 적응증: 제2형 당뇨병 (허가 적응증 원문은 데이터에 없으며, DPP-4 억제제로서의 임상 용도 정보에 근거)"
 ---
 
 # Anagliptin

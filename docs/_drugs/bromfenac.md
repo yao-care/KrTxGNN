@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 160
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bromfenac: 예측 신규 적응증 안질환 (Eye Disease) (근거 수준 L1). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가사항 문서 링크만 확보됨)"
 ---
 
 # Bromfenac

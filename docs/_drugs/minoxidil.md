@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 518
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Minoxidil: 예측 신규 적응증 두피 단순 저모증 (Hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 남성형 탈모증(안드로젠탈모증)"
 ---
 
 # Minoxidil

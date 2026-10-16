@@ -5,6 +5,8 @@ parent: 높은 근거 (L1-L2)
 nav_order: 20
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Acetylcysteine: 예측 신규 적응증 혈전성 질환 (Thrombotic disease) (근거 수준 L2). 기존 적응증: 급·만성 기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증 질환에서의 객담배출곤란"
 ---
 
 # Acetylcysteine

@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 299
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Edaravone: 예측 신규 적응증 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: ALS 및 급성 허혈성 뇌졸중 (허가사항 원문 확인 필요)"
 ---
 
 # Edaravone

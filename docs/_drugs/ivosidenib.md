@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Ivosidenib: 예측 신규 적응증 1순위: 구마비 소아마비 (bulbar polio), 99.31% / 평가 대상 권장: 방사선 관련 AML/MDS… (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 확인할 수 없음 (허가사항 참조 필요)"
 ---
 
 # Ivosidenib

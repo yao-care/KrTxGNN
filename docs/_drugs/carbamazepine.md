@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 180
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Carbamazepine: 예측 신규 적응증 삼차신경 신생물 (Trigeminal Nerve Neoplasm) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 본문 없이 문서 링크만 수록되어 있어 확인 불가 (수집된 근거상 항경련제, 삼차신경통 1차 약제로 사용)"
 ---
 
 # Carbamazepine

@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 365
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Fremanezumab: 예측 신규 적응증 뇌간 조짐 편두통 (migraine with brainstem aura) (근거 수준 L5). 기존 적응증: 편두통 예방 (허가증에는 적응증 본문 대신 허가사항 문서 링크만 등록되어 있음)"
 ---
 
 # Fremanezumab

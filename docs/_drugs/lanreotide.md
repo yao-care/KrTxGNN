@@ -5,6 +5,8 @@ parent: 모델 예측만 (L5)
 nav_order: 458
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Lanreotide: 예측 신규 적응증 다모증 (Hypertrichosis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 수집되지 않았으며, 식약처 문서 링크만 확보됨)"
 ---
 
 # Lanreotide
