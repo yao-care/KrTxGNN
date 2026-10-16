@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: 약물 재창출 예측 — 대한민국
 nav_order: 1
 ---
 

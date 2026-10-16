@@ -68,7 +68,7 @@ TxGNN 모델 자체는 Harvard Medical School의 Zitnik Lab이 개발하여 *Nat
 ## TxGNN이란?
 
 <p class="key-answer" data-question="TxGNN이란 무엇입니까?">
-<a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a>은 Harvard Medical School의
+<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a>은 Harvard Medical School의
 Zitnik Lab이 개발하여 <em>Nature Medicine</em>에 발표한 딥러닝 모델입니다.
 새로운 약물&ndash;질병 연관성을 예측하며, 임상의를 위해 특별히 설계된 최초의 약물재창출
 파운데이션 모델입니다.
@@ -102,7 +102,7 @@ Zitnik Lab이 개발하여 <em>Nature Medicine</em>에 발표한 딥러닝 모�
 ## 학술적 근거
 
 > Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
-> [DOI: 10.1038/s41591-023-02233-x](https://doi.org/10.1038/s41591-023-02233-x)
+> [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
 
