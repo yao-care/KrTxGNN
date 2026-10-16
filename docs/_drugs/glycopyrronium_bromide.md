@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Glycopyrronium Bromide
 parent: 모델 예측만 (L5)

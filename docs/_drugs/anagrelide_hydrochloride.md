@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anagrelide Hydrochloride
 parent: 모델 예측만 (L5)
