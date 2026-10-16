@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aceclofenac: 예측 신규 적응증 골관절염 감수성 (osteoarthritis susceptibility). 실질 평가는 골관절염 (Osteoarthritis… (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 이번 자료에서 확인되지 않았습니다. 문헌상 통증과 염증 질환(골관절염, 류마티스관절염, 강직성척추염…"
+monitor_inn: "Aceclofenac"
+predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "arthropathy", "rheumatoid arthritis"]
 ---
 
 # Aceclofenac

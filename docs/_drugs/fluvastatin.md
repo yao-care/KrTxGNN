@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluvastatin: 예측 신규 적응증 고지단백혈증 (hyperlipoproteinemia) (근거 수준 L5). 기존 적응증: 지질 이상(고콜레스테롤혈증 등). 허가 문서 원문은 링크로만 제공되어 본문은 확인하지 못했습니다"
+monitor_inn: "Fluvastatin"
+predicted_indications: ["hyperlipoproteinemia", "homozygous familial hypercholesterolemia", "obsolete familial combined hyperlipidemia", "hyperlipidemia, familial combined, LPL related", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "familial hypercholesterolemia", "HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection"]
 ---
 
 # Fluvastatin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Salbutamol: 예측 신규 적응증 99.996% (근거 수준 L5). 기존 적응증: 유두성 결막염 (Papillary Conjunctivitis)"
+monitor_inn: "Salbutamol"
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture", "obstructive lung disease"]
 ---
 
 # Salbutamol

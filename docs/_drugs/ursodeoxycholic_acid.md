@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Ursodeoxycholic Acid: 예측 신규 적응증 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) (근거 수준 L5). 기존 적응증: 담즙(쓸개즙) 분비 부전으로 오는 간질환, 담도계 질환의 보조 치료, 만성 간질환의 간기능 개선…"
+monitor_inn: "URSODEOXYCHOLIC ACID"
+predicted_indications: ["homozygous familial hypercholesterolemia"]
 ---
 
 # Ursodeoxycholic Acid

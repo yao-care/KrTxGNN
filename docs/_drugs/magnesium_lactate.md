@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Magnesium Lactate: 예측 신규 적응증 무통성 전신 비만세포증 (Smouldering systemic mastocytosis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 없이 외부 문서 링크만 제공됨)"
+monitor_inn: "MAGNESIUM LACTATE"
+predicted_indications: ["Smouldering systemic mastocytosis", "systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "bacterial arthritis", "peptic esophagitis", "ankylosing spondylitis", "gout", "gastrin secretion abnormality", "rheumatoid vasculitis", "inflammatory spondylopathy"]
 ---
 
 # Magnesium Lactate

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tenecteplase: 예측 신규 적응증 후외측 심근경색 (Posterolateral Myocardial Infarction) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크(MFDS 허가 PDF)로만 제공되어 구체적 문구를 확인할 수 없음"
+monitor_inn: "TENECTEPLASE"
+predicted_indications: ["posterolateral myocardial infarction", "posteroinferior myocardial infarction", "septal myocardial infarction", "congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 ---
 
 # Tenecteplase

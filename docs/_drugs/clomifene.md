@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clomifene: 예측 신규 적응증 46,XY 성분화 장애, 고환 스테로이드 합성 결함에 의한 경우 (46… (근거 수준 L5). 기존 적응증: 배란 장애로 인한 여성 불임 (허가증에는 적응증 원문 대신 식약처 문서 링크만 등록되어 있어…"
+monitor_inn: "Clomifene"
+predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "female infertility", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12"]
 ---
 
 # Clomifene

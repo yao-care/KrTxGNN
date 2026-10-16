@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tolvaptan: 예측 신규 적응증 다낭신질환 3형 (다낭간질환 동반 또는 비동반) (근거 수준 L5). 기존 적응증: 허가증 원문 링크만 제공되어 구체적인 적응증 문구를 확인할 수 없음 (허가사항 참조)"
+monitor_inn: "Tolvaptan"
+predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 ---
 
 # Tolvaptan

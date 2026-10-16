@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Glutathione: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 약물중독"
+monitor_inn: "Glutathione"
+predicted_indications: ["sclerosing cholangitis", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "dry eye syndrome", "aregenerative anemia", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Glutathione

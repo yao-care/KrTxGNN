@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Trastuzumab: 예측 신규 적응증 프로게스테론 수용체 양성 유방암 (progesterone-receptor positive breast cancer) (근거 수준 L1). 기존 적응증: 한국 허가증 8건에 허가 적응증이 PDF 링크 형태로만 제공되어 본문 확인 불가 (HER2 양성 유방암이 표준 사용 영역)"
+monitor_inn: "TRASTUZUMAB"
+predicted_indications: ["progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 ---
 
 # Trastuzumab

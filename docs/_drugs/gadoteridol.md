@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gadoteridol: 예측 신규 적응증 골관절염 감수성 (osteoarthritis susceptibility) (근거 수준 L5). 기존 적응증: MRI 조영제(진단 목적). 허가 적응증 원문은 이 보고서에 사용한 데이터에서 텍스트로 확인되지 않음"
+monitor_inn: "Gadoteridol"
+predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "congestive heart failure", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "myosclerosis"]
 ---
 
 # Gadoteridol

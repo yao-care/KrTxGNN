@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nitrogen: 예측 신규 적응증 16q24.1 미세결실 증후군 (16q24.1 microdeletion syndrome) (근거 수준 L5). 기존 적응증: 의료용 질소 (허가 적응증 상세 텍스트는 확인되지 않음)"
+monitor_inn: "Nitrogen"
+predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia", "benign neoplasm of adrenal gland", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)"]
 ---
 
 # Nitrogen

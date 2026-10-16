@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Zolmitriptan: 예측 신규 적응증 뇌간 조짐 편두통 (Migraine with brainstem aura) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적 문구 확인 불가 (편두통 급성 치료로 알려져 있음)"
+monitor_inn: "ZOLMITRIPTAN"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Zolmitriptan

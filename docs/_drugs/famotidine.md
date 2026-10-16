@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Famotidine: 예측 신규 적응증 십이지장위 역류 (Duodenogastric Reflux) (근거 수준 L5). 기존 적응증: 위산과다, 속쓰림, 신트림"
+monitor_inn: "FAMOTIDINE"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "abnormality of glucagon secretion", "gastroduodenitis", "peptic ulcer disease", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Famotidine

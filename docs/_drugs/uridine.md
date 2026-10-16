@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Uridine: 예측 신규 적응증 광선구순염 (Actinic Cheilitis) (근거 수준 L5). 기존 적응증: 혈관성 뇌질환 후유증, 기억력 장해, 집중력 장해 등의 정신 신경쇠약"
+monitor_inn: "Uridine"
+predicted_indications: ["actinic cheilitis", "squamous cell carcinoma", "dentinogenesis imperfecta", "angular cheilitis", "rectal cloacogenic carcinoma", "dry eye syndrome", "gallbladder adenosquamous carcinoma", "non-keratinizing sinonasal squamous cell carcinoma", "adenosquamous prostate carcinoma", "external ear basal cell carcinoma"]
 ---
 
 # Uridine

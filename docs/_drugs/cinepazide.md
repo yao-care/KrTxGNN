@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cinepazide: 예측 신규 적응증 고전적 호지킨 림프종, 림프구 고갈형 (classic Hodgkin lymphoma… (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조)"
+monitor_inn: "Cinepazide"
+predicted_indications: ["classic Hodgkin lymphoma, lymphocyte-depleted type", "cecum cancer", "classic Hodgkin lymphoma, lymphocyte-rich type", "classic Hodgkin lymphoma, mixed cellularity type", "classic Hodgkin lymphoma, nodular sclerosis type", "lymphomatoid papulosis", "anaplastic large cell lymphoma", "intravascular large B-cell lymphoma", "primary mediastinal large B-cell lymphoma", "acute biphenotypic leukemia"]
 ---
 
 # Cinepazide

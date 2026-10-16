@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Omidenepag Isopropyl: 예측 신규 적응증 췌장염 (Pancreatitis) (근거 수준 L5). 기존 적응증: 녹내장 및 고안압증 (허가 문서 링크만 제공되어 있어 허가 정보와 약물 분류에 근거해 기재)"
+monitor_inn: "Omidenepag isopropyl"
+predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy", "lipase deficiency, combined", "varicose disease", "hiatus hernia (disease)"]
 ---
 
 # Omidenepag Isopropyl

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amorolfine: 예측 신규 적응증 약물유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 족부백선(무좀, 한포상백선), 고부백선(대퇴부백선), 서혜부백선, 체부백선, 수부백선 등 피부사상균증(백선)"
+monitor_inn: "Amorolfine"
+predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
 ---
 
 # Amorolfine

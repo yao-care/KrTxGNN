@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clozapine: 예측 신규 적응증 조증 양극성 정동장애 (Manic bipolar affective disorder) (근거 수준 L5). 기존 적응증: 한국 허가사항 문서 링크만 확인되며 적응증 본문은 데이터에 없음 (정신병적 장애, 특히 치료저항성 조현병으로 알려져 있음)"
+monitor_inn: "CLOZAPINE"
+predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
 ---
 
 # Clozapine

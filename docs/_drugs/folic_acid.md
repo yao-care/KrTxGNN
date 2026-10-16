@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Folic Acid: 예측 신규 적응증 비오틴 대사 질환 (Biotin Metabolic Disease) (근거 수준 L5). 기존 적응증: 폴산결핍증의 예방 및 치료, 소모성 질환, 임부 및 수유부의 폴산 보급, 악성빈혈의 보조요법, 영양결핍성빈혈, 임신성빈혈…"
+monitor_inn: "FOLIC ACID"
+predicted_indications: ["biotin metabolic disease"]
 ---
 
 # Folic Acid

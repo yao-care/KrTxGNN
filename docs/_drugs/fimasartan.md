@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Fimasartan: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (pulmonary hypertension owing to lung disease… (근거 수준 L5). 기존 적응증: 고혈압 (허가 적응증 원문은 허가증 링크로만 제공되어 세부 문구는 확인되지 않음)"
+monitor_inn: "fimasartan"
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
 ---
 
 # Fimasartan

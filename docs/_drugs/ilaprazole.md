@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Ilaprazole: 예측 신규 적응증 활동성 소화성 궤양 (Active Peptic Ulcer Disease) (근거 수준 L1). 기존 적응증: 허가 적응증 원문 텍스트는 확인되지 않음 (허가증 링크만 확보). 시판 정보상 위산 관련 질환(소화성 궤양…"
+monitor_inn: "ILAPRAZOLE"
+predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "gastric ulcer (disease)", "gastroduodenitis"]
 ---
 
 # Ilaprazole

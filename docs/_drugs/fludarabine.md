@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fludarabine: 예측 신규 적응증 형질세포 골수종 (Plasma Cell Myeloma) (근거 수준 L5). 기존 적응증: 허가 적응증 문구가 링크 형태로만 확인되어 구체적인 내용은 허가사항 참조 필요"
+monitor_inn: "Fludarabine"
+predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
 ---
 
 # Fludarabine

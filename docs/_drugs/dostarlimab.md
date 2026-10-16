@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dostarlimab: 예측 신규 적응증 신생물성 용종 (Neoplastic Polyp) (근거 수준 L5). 기존 적응증: dMMR 재발성·진행성 자궁내막암 및 기타 dMMR 고형암 (한국 허가 적응증 원문은 링크로만 제공되어 확인하지 못함. 약리…"
+monitor_inn: "Dostarlimab"
+predicted_indications: ["neoplastic polyp", "paraneoplastic syndrome", "sympathetic paraganglioma", "laryngeal neoplasm", "sublingual gland carcinoma", "unilateral hyperactive labyrinth", "malignant endocrine neoplasm", "ovarian neoplasm", "mediastinal germ cell tumor", "urinary system neoplasm"]
 ---
 
 # Dostarlimab

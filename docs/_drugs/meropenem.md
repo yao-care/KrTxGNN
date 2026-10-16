@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Meropenem: 예측 신규 적응증 세균성 관절염 (Bacterial Arthritis) (근거 수준 L5). 기존 적응증: 중증 세균 감염 (한국 허가 적응증 본문은 허가증 원문 링크로만 확인되어 문헌상 일반 용도로 기재)"
+monitor_inn: "meropenem"
+predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "urinary tract infection (disease)", "Lyme disease", "Peptostreptococcus infectious disease", "Ureaplasma urethritis", "gonococcal urethritis"]
 ---
 
 # Meropenem

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Calcium Citrate: 예측 신규 적응증 혈색소병증 (Hemoglobinopathy) (근거 수준 L5). 기존 적응증: 칼슘 결핍 및 기타 칼슘의 보급, 뼈·치아의 발육 불량, 구루병의 예방, 임신·수유기·발육기·노년기의 비타민 D 보급"
+monitor_inn: "CALCIUM CITRATE"
+predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "thrombotic disease"]
 ---
 
 # Calcium Citrate

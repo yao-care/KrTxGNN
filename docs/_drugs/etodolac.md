@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Etodolac: 예측 신규 적응증 골관절염 감수성 (Osteoarthritis susceptibility) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 본문 대신 허가사항 PDF 링크만 수록되어 있어 구체적 문구를 확인할 수 없음 (NSAID 계열로 관절염·…"
+monitor_inn: "Etodolac"
+predicted_indications: ["osteoarthritis susceptibility", "acromesomelic dysplasia, Hunter-Thompson type", "osteoarthritis", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "spondyloarthropathy, susceptibility to", "brachyolmia", "arthropathy", "ankylosing spondylitis", "pseudoachondroplasia"]
 ---
 
 # Etodolac

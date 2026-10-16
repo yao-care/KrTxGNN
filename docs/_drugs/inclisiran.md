@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Inclisiran: 예측 신규 적응증 칼륨 결핍증 (potassium deficiency disease) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않음 (허가사항 문서 링크만 확인됨)"
+monitor_inn: "Inclisiran"
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 ---
 
 # Inclisiran

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Adalimumab: 예측 신규 적응증 류마티스 혈관염 (Rheumatoid Vasculitis) (근거 수준 L4). 기존 적응증: 허가 적응증 원문은 허가증 PDF 링크로만 제공되어 요약할 수 없음 (허가사항 참조)"
+monitor_inn: "ADALIMUMAB"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
 ---
 
 # Adalimumab

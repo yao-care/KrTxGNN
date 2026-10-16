@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Evolocumab: 예측 신규 적응증 혈우병 여성 보인자의 증상형 (symptomatic form of hemophilia in female carriers) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (PCSK9 억제제로서 LDL-C 저하 치료제로 알려져 있음)"
+monitor_inn: "Evolocumab"
+predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity", "hemorrhagic disease of newborn", "ichthyosis, X-linked, without steroid sulfatase deficiency", "inherited thrombophilia", "disorder of other vitamins and cofactors metabolism and transport"]
 ---
 
 # Evolocumab

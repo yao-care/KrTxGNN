@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tiotropium: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L1). 기존 적응증: 허가증에 적응증 원문이 제공되지 않음 (식약처 허가정보 링크만 확인됨). 흡입용 기관지확장제로서 COPD 유지 치료로 알려져…"
+monitor_inn: "tiotropium"
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "COPD, severe early onset", "chronic obstructive pulmonary disease", "hyperlucent lung", "interstitial emphysema", "compensatory emphysema", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
 ---
 
 # Tiotropium

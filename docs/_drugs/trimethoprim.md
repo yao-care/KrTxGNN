@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Trimethoprim: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 허가 적응증 문구는 확인되지 않았습니다(허가사항 문서 참조). 항균제로서 세균 감염 치료에 사용됩니다"
+monitor_inn: "TRIMETHOPRIM"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "conjunctivitis (disease)"]
 ---
 
 # Trimethoprim

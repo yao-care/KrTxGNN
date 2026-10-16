@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sulindac: 예측 신규 적응증 골관절염 감수성 (Osteoarthritis Susceptibility) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 구체적인 내용을 확인할 수 없음"
+monitor_inn: "Sulindac"
+predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "pseudoachondroplasia", "arthropathy", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Sulindac

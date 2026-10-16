@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Citric Acid: 예측 신규 적응증 위 질환 (Stomach Disease) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트 없음 (허가 문서 링크만 확인됨)"
+monitor_inn: "citric acid"
+predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
 ---
 
 # Citric Acid

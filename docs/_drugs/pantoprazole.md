@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Pantoprazole: 예측 신규 적응증 활동성 소화성 궤양 (Active Peptic Ulcer Disease) (근거 수준 L1). 기존 적응증: 허가 적응증 원문은 첨부 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (산 관련 질환 치료제로 알려져 있음)"
+monitor_inn: "pantoprazole"
+predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
 ---
 
 # Pantoprazole

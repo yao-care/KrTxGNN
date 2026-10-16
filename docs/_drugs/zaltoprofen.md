@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Zaltoprofen: 예측 신규 적응증 류마티스 관절염 (rheumatoid arthritis) (근거 수준 L3). 기존 적응증: 허가증에 적응증 원문이 수록되어 있지 않아 확인되지 않음 (허가사항 PDF 참조 필요)"
+monitor_inn: "Zaltoprofen"
+predicted_indications: ["rheumatoid arthritis", "migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
 ---
 
 # Zaltoprofen

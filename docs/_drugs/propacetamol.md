@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Propacetamol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 확인되어 구체적인 내용은 허가사항을 참조해야 합니다"
+monitor_inn: "Propacetamol"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "headache disorder", "ulerythema ophryogenesis", "trigeminal autonomic cephalalgia", "pulmonary hypertension", "rheumatoid arthritis", "Raynaud disease"]
 ---
 
 # Propacetamol

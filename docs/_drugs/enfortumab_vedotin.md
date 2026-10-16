@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Enfortumab Vedotin: 예측 신규 적응증 나병 (Leprosy) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 허가증 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조)"
+monitor_inn: "Enfortumab vedotin"
+predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "infectious bovine rhinotracheitis", "malignant catarrh", "HER2 positive breast carcinoma"]
 ---
 
 # Enfortumab Vedotin

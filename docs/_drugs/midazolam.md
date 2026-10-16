@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Midazolam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L3). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문 확인 불가)"
+monitor_inn: "MIDAZOLAM"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Midazolam

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Hypromellose: 예측 신규 적응증 간정맥폐쇄성 질환-면역결핍 증후군 (hepatic veno-occlusive disease-immunodeficiency s… (근거 수준 L5). 기존 적응증: 눈물 분비 부족 및 점액 부족에 의한 눈의 건조"
+monitor_inn: "Hypromellose"
+predicted_indications: ["hepatic veno-occlusive disease-immunodeficiency syndrome", "pancytopenia due to IKZF1 mutations", "hepatic veno-occlusive disease", "combined immunodeficiency due to CRAC channel dysfunction", "absent thumb-short stature-immunodeficiency syndrome", "facial dysmorphism-immunodeficiency-livedo-short stature syndrome", "immuno-osseous dysplasia", "psoriasis", "autoinflammatory syndrome with pyogenic bacterial infection and amylopectinosis", "human herpesvirus 8-related tumor"]
 ---
 
 # Hypromellose

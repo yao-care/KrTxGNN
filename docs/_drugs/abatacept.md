@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Abatacept: 예측 신규 적응증 류마티스 혈관염 (Rheumatoid Vasculitis) (근거 수준 L4). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 기재되어 있어 구체적인 문구를 확인할 수 없음 (허가 문서 참조)"
+monitor_inn: "ABATACEPT"
+predicted_indications: ["rheumatoid vasculitis", "ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "spondyloarthropathy, susceptibility to", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Abatacept

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nitric Oxide: 예측 신규 적응증 치아·치주 요소를 동반한 기형 증후군 (malformation syndrome with odontal and/or perio… (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 수록되어 있지 않고 MFDS 허가 문서 링크만 확인됨 (본문 확인 필요)"
+monitor_inn: "NITRIC OXIDE"
+predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with schistosomiasis"]
 ---
 
 # Nitric Oxide

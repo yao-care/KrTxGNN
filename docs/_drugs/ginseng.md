@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ginseng: 예측 신규 적응증 약물 유발 골다공증 (Drug-induced Osteoporosis) (근거 수준 L5). 기존 적응증: 한방 생약 제제(십전대보탕, 인삼패독산…"
+monitor_inn: "Ginseng"
+predicted_indications: ["drug-induced osteoporosis", "acne (disease)", "severe nonproliferative diabetic retinopathy", "hemorrhagic disease of newborn", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy", "amenorrhea (disease)", "craniostenosis cataract", "mature cataract"]
 ---
 
 # Ginseng

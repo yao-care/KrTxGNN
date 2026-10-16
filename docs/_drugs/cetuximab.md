@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cetuximab: 예측 신규 적응증 연골성 과오종 (Chondroid Hamartoma) (근거 수준 L5). 기존 적응증: EGFR 발현 전이성 대장직장암, 두경부 편평세포암 (한국 허가증에는 적응증 본문 대신 허가사항 문서 링크만 확인됨)"
+monitor_inn: "Cetuximab"
+predicted_indications: ["chondroid hamartoma", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
 ---
 
 # Cetuximab

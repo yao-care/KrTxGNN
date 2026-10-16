@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Frovatriptan: 예측 신규 적응증 뇌간 조짐을 동반한 편두통 (Migraine with brainstem aura) (근거 수준 L3). 기존 적응증: 급성 편두통 (허가 문서 링크만 확인되어 세부 허가 문구는 확인하지 못함)"
+monitor_inn: "frovatriptan"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Frovatriptan

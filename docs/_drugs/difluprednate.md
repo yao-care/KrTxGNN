@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Difluprednate: 예측 신규 적응증 LH 결핍을 동반한 가족성 부신 저형성증 (familial adrenal hypoplasia with absent pitui… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가 문서 링크만 제공됨). 참고로 약리 자료에는 안과 수술 후 통증·염증 및 전방…"
+monitor_inn: "DIFLUPREDNATE"
+predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
 ---
 
 # Difluprednate

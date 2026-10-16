@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Alteplase: 예측 신규 적응증 후하벽 심근경색 (Posteroinferior Myocardial Infarction) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트 없음 (허가증에 PDF 링크만 수록, 허가사항 참조 필요)"
+monitor_inn: "ALTEPLASE"
+predicted_indications: ["posteroinferior myocardial infarction", "posterolateral myocardial infarction", "septal myocardial infarction", "heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 ---
 
 # Alteplase

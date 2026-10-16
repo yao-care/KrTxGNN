@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Neratinib: 예측 신규 적응증 프로게스테론 수용체 양성 유방암 (Progesterone-receptor positive breast cancer) (근거 수준 L2). 기존 적응증: 허가 적응증 텍스트가 허가사항 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
+monitor_inn: "Neratinib"
+predicted_indications: ["normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "synovium cancer", "tenosynovial giant cell tumor", "malignant giant cell tumor", "tenosynovial giant cell tumor, localized type", "fibroblastic neoplasm", "kidney fibrosarcoma"]
 ---
 
 # Neratinib

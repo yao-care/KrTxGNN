@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L5). 기존 적응증: 한국 허가 적응증(C형 간염) — 허가 문서 링크만 확인되며 본문 텍스트는 확보되지 않음"
+monitor_inn: "SOFOSBUVIR"
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 ---
 
 # Sofosbuvir

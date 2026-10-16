@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Remdesivir: 예측 신규 적응증 다중 내분비 종양증 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가 문서 링크만 제공됨)"
+monitor_inn: "Remdesivir"
+predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia", "Prinzmetal angina", "leprosy", "antithrombin deficiency type 2", "cytomegalovirus infection"]
 ---
 
 # Remdesivir

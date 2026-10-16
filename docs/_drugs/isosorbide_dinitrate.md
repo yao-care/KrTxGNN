@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Isosorbide Dinitrate: 예측 신규 적응증 1순위 탈모(alopecia, 근거 없음) / 근거 기반 후보: 폐동맥 고혈압, 혈관 질환(당뇨발 궤양 포함) (근거 수준 L5). 기존 적응증: 허가증에 문구 없이 문서 링크만 등재되어 있어 확인 불가 (허가사항 원문 참조 필요)"
+monitor_inn: "isosorbide dinitrate"
+predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "arterial thoracic outlet syndrome"]
 ---
 
 # Isosorbide Dinitrate

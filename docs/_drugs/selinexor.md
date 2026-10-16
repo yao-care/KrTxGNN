@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Selinexor: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트 대신 문서 링크만 제공됨)"
+monitor_inn: "SELINEXOR"
+predicted_indications: ["drug-induced osteoporosis"]
 ---
 
 # Selinexor

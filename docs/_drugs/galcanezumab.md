@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Galcanezumab: 예측 신규 적응증 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: 편두통 예방 및 삽화성 군발두통 (허가증 원문은 첨부 문서 링크로만 제공되어 일반 알려진 적응증 기준)"
+monitor_inn: "GALCANEZUMAB"
+predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Galcanezumab

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Isoniazid: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L4). 기존 적응증: 결핵 (허가증 원문은 링크 형태로만 제공되어 세부 문구는 확인되지 않음)"
+monitor_inn: "ISONIAZID"
+predicted_indications: ["conjunctivitis"]
 ---
 
 # Isoniazid

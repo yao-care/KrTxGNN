@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bacampicillin: 예측 신규 적응증 후두개염 (Epiglottitis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (항생제로서의 세균 감염증 치료로 추정)"
+monitor_inn: "Bacampicillin"
+predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
 ---
 
 # Bacampicillin

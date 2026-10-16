@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Dacarbazine: 예측 신규 적응증 상부 기도·소화관 종양 (Upper Aerodigestive Tract Neoplasm) (근거 수준 L4). 기존 적응증: 확인 불가 (허가증에 허가사항 문서 링크만 있고 적응증 본문이 없음)"
+monitor_inn: "DACARBAZINE"
+predicted_indications: ["upper aerodigestive tract neoplasm"]
 ---
 
 # Dacarbazine

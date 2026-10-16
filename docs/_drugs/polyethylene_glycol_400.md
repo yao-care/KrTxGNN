@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Polyethylene Glycol 400: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증 4건 모두 점안액 제품)"
+monitor_inn: "POLYETHYLENE GLYCOL 400"
+predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
 ---
 
 # Polyethylene Glycol 400

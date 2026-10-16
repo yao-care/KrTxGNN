@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Glycyrrhizic Acid: 예측 신규 적응증 다발성 내분비 종양 (multiple endocrine neoplasia) (근거 수준 L5). 기존 적응증: 감기의 여러 증상(콧물, 코막힘, 재채기, 인후통, 오한, 발열, 두통, 관절통, 근육통) 완화"
+monitor_inn: "Glycyrrhizic acid"
+predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "hypoalphalipoproteinemia", "infectious bovine rhinotracheitis", "malignant catarrh", "cytomegalovirus infection", "acne (disease)", "kyphoscoliotic heart disease", "pulmonary hypertension", "rheumatoid arthritis"]
 ---
 
 # Glycyrrhizic Acid

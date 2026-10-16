@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Golimumab: 예측 신규 적응증 류마티스 혈관염 (Rheumatoid Vasculitis) (근거 수준 L4). 기존 적응증: 허가증에 첨부된 허가사항 문서 링크만 제공되어 있어 적응증 본문은 확인되지 않음 (허가사항 참조)"
+monitor_inn: "GOLIMUMAB"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis"]
 ---
 
 # Golimumab

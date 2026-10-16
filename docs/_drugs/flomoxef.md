@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flomoxef: 예측 신규 적응증 류마티스 관절염 (rheumatoid arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되어 있지 않음 (항생제 주사제로 허가)"
+monitor_inn: "Flomoxef"
+predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "hemoglobinopathy", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis"]
 ---
 
 # Flomoxef

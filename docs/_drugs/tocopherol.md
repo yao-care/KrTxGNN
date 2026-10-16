@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tocopherol: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 비타민 E 결핍증, 말초순환기능 장애 및 갱년기시 어깨·목 결림, 수족저림(손발저림)·수족냉증(손발이 차가움)…"
+monitor_inn: "Tocopherol"
+predicted_indications: ["sclerosing cholangitis", "pulmonary hypertension", "rheumatoid arthritis", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "kyphoscoliotic heart disease", "diffuse alopecia areata", "alopecia", "congestive heart failure", "peripheral vascular disease"]
 ---
 
 # Tocopherol

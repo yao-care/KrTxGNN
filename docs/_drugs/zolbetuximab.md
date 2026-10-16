@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Zolbetuximab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: HER2 음성, CLDN18.2 양성의 절제 불가능한 진행성/재발성 위암 (위식도접합부암 포함)"
+monitor_inn: "Zolbetuximab"
+predicted_indications: ["diabetic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "craniostenosis cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Zolbetuximab

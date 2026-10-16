@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tranilast: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 없이 링크만 있음)"
+monitor_inn: "Tranilast"
+predicted_indications: ["seborrheic keratosis", "seborrheic dermatitis", "polyp of vocal cord", "polyp of middle ear", "polyp of frontal sinus", "polyp of external auditory canal", "epulis", "fibroepithelial polyp", "polyp of ureter", "polyp of vulva"]
 ---
 
 # Tranilast

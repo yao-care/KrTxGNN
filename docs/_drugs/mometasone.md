@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Mometasone: 예측 신규 적응증 원발성 피부 T세포 림프종 (Primary Cutaneous T-cell Lymphoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않았습니다(허가사항 문서 링크만 확인됨). 참고로 약리 자료에는 비강 내 사용 시 천식…"
+monitor_inn: "mometasone"
+predicted_indications: ["primary cutaneous T-cell lymphoma"]
 ---
 
 # Mometasone

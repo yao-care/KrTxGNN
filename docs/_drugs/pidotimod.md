@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pidotimod: 예측 신규 적응증 골관절염 (Osteoarthritis) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 이번 데이터에 포함되지 않음"
+monitor_inn: "Pidotimod"
+predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "hepatic porphyria", "pseudoachondroplasia", "gout", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis"]
 ---
 
 # Pidotimod

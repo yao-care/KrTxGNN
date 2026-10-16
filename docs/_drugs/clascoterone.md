@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clascoterone: 예측 신규 적응증 칸디다증 (Candidiasis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다. 허가 문서 링크만 제공되었으며, FDA 승인 적응증은 심상성 여드름입니다"
+monitor_inn: "Clascoterone"
+predicted_indications: ["candidiasis", "migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "leprosy", "atrophoderma vermiculata", "oral candidiasis", "progeria-short stature-pigmented nevi syndrome", "adrenal gland hyperfunction", "multiple endocrine neoplasia"]
 ---
 
 # Clascoterone

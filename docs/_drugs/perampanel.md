@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Perampanel: 예측 신규 적응증 시각 뇌전증 (Visual epilepsy) (근거 수준 L5). 기존 적응증: 뇌전증 (부분발작, 전신 강직간대발작의 보조요법"
+monitor_inn: "PERAMPANEL"
+predicted_indications: ["visual epilepsy", "thinking seizures", "eating seizures", "startle epilepsy", "audiogenic seizures", "micturation-induced seizures", "orgasm-induced seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
 ---
 
 # Perampanel

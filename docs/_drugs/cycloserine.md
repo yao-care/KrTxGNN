@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cycloserine: 예측 신규 적응증 과민성 장 증후군 (irritable bowel syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가사항 문서 링크만 제공됨). 항결핵제로 알려져 있습니다"
+monitor_inn: "CYCLOSERINE"
+predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
 ---
 
 # Cycloserine

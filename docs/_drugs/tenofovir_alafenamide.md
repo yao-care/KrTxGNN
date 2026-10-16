@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Tenofovir Alafenamide: 예측 신규 적응증 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 데이터에 포함되지 않았습니다(허가사항 링크만 제공). 약물 분류상 만성 B형 간염 치료제로 알려져 있습니다"
+monitor_inn: "TENOFOVIR ALAFENAMIDE"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Tenofovir Alafenamide

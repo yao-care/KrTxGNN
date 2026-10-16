@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Thiopental: 예측 신규 적응증 가성뇌종양 (Pseudotumor cerebri) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음"
+monitor_inn: "Thiopental"
+predicted_indications: ["pseudotumor cerebri", "intracranial hypertension", "trichotillomania", "frontal lobe epilepsy", "Prinzmetal angina", "migraine disorder", "absence epilepsy", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block"]
 ---
 
 # Thiopental

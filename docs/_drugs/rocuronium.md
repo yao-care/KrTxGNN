@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rocuronium: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L5). 기존 적응증: 마취 시 신경근 차단(허가 문서 링크만 제공되어 상세 적응증 문구는 확인되지 않음)"
+monitor_inn: "Rocuronium"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
 ---
 
 # Rocuronium

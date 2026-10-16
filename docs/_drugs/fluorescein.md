@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluorescein: 예측 신규 적응증 Prinzmetal 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 제공되지 않았고 허가증 링크만 확인됩니다 (식약처 의약품안전나라 허가 문서 참조)"
+monitor_inn: "Fluorescein"
+predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
 ---
 
 # Fluorescein

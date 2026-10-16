@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Rimegepant: 예측 신규 적응증 뇌줄기 조짐을 동반한 편두통 (Migraine with Brainstem Aura) (근거 수준 L5). 기존 적응증: 편두통 (한국 허가 문서에는 적응증 본문 대신 링크만 기재되어 있어…"
+monitor_inn: "rimegepant"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Rimegepant

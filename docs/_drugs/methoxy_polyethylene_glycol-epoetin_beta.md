@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Methoxy Polyethylene Glycol-Epoetin Beta: 예측 신규 적응증 일차 혈소판 방출 장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 만성 신장병에 동반된 빈혈 (한국 허가증에는 허가사항 문서 링크만 확인되며…"
+monitor_inn: "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Methoxy Polyethylene Glycol-Epoetin Beta

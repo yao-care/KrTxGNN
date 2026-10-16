@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tolfenamic Acid: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L2). 기존 적응증: 허가증에 적응증 본문이 아닌 링크만 기재되어 있어 구체적인 내용을 확인할 수 없음"
+monitor_inn: "TOLFENAMIC ACID"
+predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis", "trigeminal autonomic cephalalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia", "exostosis", "inclusion body myositis", "osteoarthritis susceptibility"]
 ---
 
 # Tolfenamic Acid

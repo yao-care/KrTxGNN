@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Acyclovir: 예측 신규 적응증 보통 사마귀 (Common Wart) (근거 수준 L5). 기존 적응증: 단순포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진과 구순포진 포함)"
+monitor_inn: "Acyclovir"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
 ---
 
 # Acyclovir

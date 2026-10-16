@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Givosiran: 예측 신규 적응증 ALA 탈수효소 결핍 포르피린증 (Porphyria due to ALA dehydratase deficiency) (근거 수준 L4). 기존 적응증: 급성 간성 포르피린증 (허가 적응증 원문은 링크 형태로만 제공되어 허가사항 확인 필요)"
+monitor_inn: "Givosiran"
+predicted_indications: ["early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "porphyria due to ALA dehydratase deficiency", "disorder of phenylalanine metabolism"]
 ---
 
 # Givosiran

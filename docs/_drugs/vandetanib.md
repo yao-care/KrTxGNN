@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vandetanib: 예측 신규 적응증 신세포암 (Renal Cell Carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인 불가 (허가사항 문서 링크만 제공됨)"
+monitor_inn: "Vandetanib"
+predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
 ---
 
 # Vandetanib

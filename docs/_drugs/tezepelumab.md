@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tezepelumab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 아닌 허가사항 문서 링크만 기재되어 있어 구체적인 적응증 텍스트는 확인되지 않음"
+monitor_inn: "Tezepelumab"
+predicted_indications: ["diabetic cataract", "mature cataract", "tetanic cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Tezepelumab

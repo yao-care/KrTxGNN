@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Lansoprazole: 예측 신규 적응증 십이지장위 역류 (Duodenogastric reflux) (근거 수준 L5). 기존 적응증: 허가증에 링크만 제공되어 적응증 본문을 확인할 수 없음 (허가사항 참조)"
+monitor_inn: "LANSOPRAZOLE"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 ---
 
 # Lansoprazole

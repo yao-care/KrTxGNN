@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Thiocolchicoside: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 수록). 근이완제로 알려져 있음"
+monitor_inn: "THIOCOLCHICOSIDE"
+predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium"]
 ---
 
 # Thiocolchicoside

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Protamine Sulfate: 예측 신규 적응증 중증 지적장애-진행성 출생 후 소두증-정중선 상동 손동작 증후군 (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 기재되어 있지 않고 허가 문서 링크만 제공됨 (허가사항 참조)"
+monitor_inn: "Protamine sulfate"
+predicted_indications: ["severe intellectual disability-progressive postnatal microcephaly- midline stereotypic hand movements syndrome", "neonatal dermatomyositis", "neonatal autoimmune hemolytic anemia", "neonatal antiphospholipid syndrome", "secondary neonatal autoimmune disease", "Prader-Willi-like syndrome due to point mutation", "Prader-Willi-like syndrome", "refractory celiac disease", "squamous cell carcinoma of penis", "adenocarcinoma of penis"]
 ---
 
 # Protamine Sulfate

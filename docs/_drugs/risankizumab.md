@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Risankizumab: 예측 신규 적응증 피부염 (Dermatitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 아닌 MFDS 허가문서 링크만 확인되어 구체적 적응증을 기재할 수 없음 (문헌상 판상 건선…"
+monitor_inn: "Risankizumab"
+predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "psoriasis", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "parapsoriasis"]
 ---
 
 # Risankizumab

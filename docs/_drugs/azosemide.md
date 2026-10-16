@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Azosemide: 예측 신규 적응증 간폐증후군 (Hepatopulmonary Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가증에 링크만 기재되어 있음)"
+monitor_inn: "AZOSEMIDE"
+predicted_indications: ["hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatic porphyria"]
 ---
 
 # Azosemide

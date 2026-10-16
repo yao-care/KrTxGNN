@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Dexchlorpheniramine Maleate: 예측 신규 적응증 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) (근거 수준 L5). 기존 적응증: 코감기(급성비염), 알레르기성 비염 또는 부비강염에 의한 코막힘, 콧물, 재채기, 눈물, 목의 통증, 머리 무거움의 완화"
+monitor_inn: "DEXCHLORPHENIRAMINE MALEATE"
+predicted_indications: ["acute intermittent porphyria"]
 ---
 
 # Dexchlorpheniramine Maleate

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pefloxacin: 예측 신규 적응증 심장 전도 질환 (heart conduction disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않음 (허가사항 PDF 링크만 제공됨)"
+monitor_inn: "pefloxacin"
+predicted_indications: ["heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum", "pericardium disease", "myocardial rupture", "carcinoid heart disease", "heart aneurysm", "cardiac anomalies-heterotaxy syndrome", "cor biloculare"]
 ---
 
 # Pefloxacin

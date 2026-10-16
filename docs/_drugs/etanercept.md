@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Etanercept: 예측 신규 적응증 류마티스 혈관염 (Rheumatoid Vasculitis) (근거 수준 L5). 기존 적응증: 류마티스 관절염 등 (허가증 8건은 적응증 본문이 아닌 허가 문서 링크로만 제공되어, 문헌에 기재된 승인 적응증 기준)"
+monitor_inn: "ETANERCEPT"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
 ---
 
 # Etanercept

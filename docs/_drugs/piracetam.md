@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Piracetam: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문을 확인하지 못함)"
+monitor_inn: "Piracetam"
+predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "pseudoachondroplasia", "hepatic porphyria", "gout", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "hepatoportal sclerosis"]
 ---
 
 # Piracetam

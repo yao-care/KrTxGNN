@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lecanemab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조)"
+monitor_inn: "Lecanemab"
+predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic retinopathy"]
 ---
 
 # Lecanemab

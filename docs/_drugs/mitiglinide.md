@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Mitiglinide: 예측 신규 적응증 오프시스모디스플라시아 (Opsismodysplasia) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 정보가 문서 링크로만 제공되어 구체적 내용을 확인하지 못했습니다)"
+monitor_inn: "mitiglinide"
+predicted_indications: ["opsismodysplasia"]
 ---
 
 # Mitiglinide

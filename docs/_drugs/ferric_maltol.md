@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Ferric Maltol: 예측 신규 적응증 플러머-빈슨 증후군 (Plummer-Vinson syndrome) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 링크만 등록되어 있어 구체적인 문구는 확인되지 않음"
+monitor_inn: "FERRIC MALTOL"
+predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
 ---
 
 # Ferric Maltol

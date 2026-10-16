@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Hydroxocobalamin: 예측 신규 적응증 식도 정맥류 출혈 (esophageal varices with bleeding) (근거 수준 L5). 기존 적응증: 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력 저하 시 비타민 B1, B6의 보급과 신경통, 근육통, 관절통, 구각염, 구순염…"
+monitor_inn: "HYDROXOCOBALAMIN"
+predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding"]
 ---
 
 # Hydroxocobalamin

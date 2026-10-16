@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefpiramide: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 텍스트로 확인되지 않음 (허가사항 문서 링크만 제공됨). 3세대 세팔로스포린 주사제"
+monitor_inn: "Cefpiramide"
+predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "beta-thalassemia with other manifestations"]
 ---
 
 # Cefpiramide

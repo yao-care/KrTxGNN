@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Regorafenib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증에는 식약처 허가사항 문서 링크만 수록되어 있어 적응증 문구를 확인할 수 없음"
+monitor_inn: "Regorafenib"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "vulva sarcoma", "spindle cell liposarcoma", "renal cell carcinoma (disease)"]
 ---
 
 # Regorafenib

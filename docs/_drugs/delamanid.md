@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Delamanid: 예측 신규 적응증 소결핵 (tuberculosis, bovine) (근거 수준 L4). 기존 적응증: 결핵 (허가 적응증 본문은 허가사항 문서 링크로 제공)"
+monitor_inn: "Delamanid"
+predicted_indications: ["tuberculosis, bovine", "inactive tuberculosis", "tuberculoma", "tuberculous ascites", "tuberculosis, avian", "allergic urticaria", "cutaneous tuberculosis", "fascioliasis", "inhalational botulism", "urea cycle disorder"]
 ---
 
 # Delamanid

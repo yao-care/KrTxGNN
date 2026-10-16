@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluoxetine: 예측 신규 적응증 강박장애 (Obsessive-Compulsive Disorder) (근거 수준 L1). 기존 적응증: 확인 불가 (허가증 적응증 항목에 텍스트 대신 링크만 제공됨)"
+monitor_inn: "Fluoxetine"
+predicted_indications: ["obsessive-compulsive disorder", "anxiety disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "endogenous depression", "agoraphobia", "dysthymic disorder"]
 ---
 
 # Fluoxetine

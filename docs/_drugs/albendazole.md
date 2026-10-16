@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Albendazole: 예측 신규 적응증 포충증 (Alveolar echinococcosis) (근거 수준 L5). 기존 적응증: 회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료"
+monitor_inn: "ALBENDAZOLE"
+predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
 ---
 
 # Albendazole

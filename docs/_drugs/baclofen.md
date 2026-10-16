@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Baclofen: 예측 신규 적응증 주의력결핍 과잉행동장애 (Attention Deficit-Hyperactivity Disorder) (근거 수준 L5). 기존 적응증: 근육 경직(spasticity). 허가 문서는 링크로만 확인되었고, 적응증은 문헌의 설명을 따랐습니다"
+monitor_inn: "BACLOFEN"
+predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
 ---
 
 # Baclofen

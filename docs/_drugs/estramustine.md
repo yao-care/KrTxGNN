@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Estramustine: 예측 신규 적응증 전립선암/뇌암 감수성 (prostate cancer/brain cancer susceptibility) (근거 수준 L5). 기존 적응증: 전립선암 (허가 적응증 원문은 링크로만 제공되어 허가사항에서 확인 필요)"
+monitor_inn: "estramustine"
+predicted_indications: ["prostate cancer/brain cancer susceptibility", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "male reproductive organ cancer", "benign prostate phyllodes tumor", "female breast carcinoma", "HIV infectious disease", "breast fibrocystic disease"]
 ---
 
 # Estramustine

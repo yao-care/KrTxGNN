@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Topiramate: 예측 신규 적응증 삼차신경 종양 (Trigeminal Nerve Neoplasm) (근거 수준 L5). 기존 적응증: 항경련제(뇌전증 등). 허가 본문은 확인되지 않았고 허가 문서 링크만 확인됨"
+monitor_inn: "TOPIRAMATE"
+predicted_indications: ["trigeminal nerve neoplasm", "visual epilepsy", "orgasm-induced seizures", "audiogenic seizures", "thinking seizures", "micturation-induced seizures", "startle epilepsy", "eating seizures", "reading seizures"]
 ---
 
 # Topiramate

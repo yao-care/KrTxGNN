@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Kallidinogenase: 예측 신규 적응증 혈색소병증 (Hemoglobinopathy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 데이터에 없음)"
+monitor_inn: "Kallidinogenase"
+predicted_indications: ["hemoglobinopathy", "orofacial clefting syndrome", "Jeune syndrome situs inversus", "interventricular septum aneurysm", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 22"]
 ---
 
 # Kallidinogenase

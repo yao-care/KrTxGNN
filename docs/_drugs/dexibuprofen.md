@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dexibuprofen: 예측 신규 적응증 골관절염 감수성 (Osteoarthritis Susceptibility) (근거 수준 L5). 기존 적응증: 만성 다발성 관절염, 류마티스관절염, 관절증, 강직척추염, 외상 및 수술 후 통증성 부종 또는 염증…"
+monitor_inn: "Dexibuprofen"
+predicted_indications: ["osteoarthritis susceptibility", "rheumatoid arthritis", "osteoarthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia"]
 ---
 
 # Dexibuprofen

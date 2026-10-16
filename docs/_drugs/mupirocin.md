@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mupirocin: 예측 신규 적응증 농흉 (Pleural Empyema) (근거 수준 L5). 기존 적응증: 메치실린 내성균주를 포함한 황색포도상구균, 기타 포도상구균, 연쇄상구균 등에 의한 농가진, 모낭염, 종기증…"
+monitor_inn: "Mupirocin"
+predicted_indications: ["pleural empyema (disease)", "punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "cutaneous candidiasis", "vaginal discharge", "exposure keratitis", "leukoplakia of vagina", "non-human animal disease", "staphylococcal scalded skin syndrome", "bacterial vaginosis"]
 ---
 
 # Mupirocin

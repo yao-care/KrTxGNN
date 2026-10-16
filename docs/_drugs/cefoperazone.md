@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefoperazone: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 세균 감염증 (허가 문서 본문이 확인되지 않아 항생제 계열 기준으로 기재)"
+monitor_inn: "Cefoperazone"
+predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "pneumonia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "bronchitis", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
 ---
 
 # Cefoperazone

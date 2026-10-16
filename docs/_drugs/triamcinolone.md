@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Triamcinolone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 미란(짓무름) 또는 궤양을 수반하는 난치성 구내염 및 설염에 의한 염증의 완화"
+monitor_inn: "Triamcinolone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "nephrotic syndrome", "familial adrenal hypoplasia with absent pituitary luteinizing hormone"]
 ---
 
 # Triamcinolone

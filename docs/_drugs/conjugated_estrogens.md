@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Conjugated Estrogens: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 수록)"
+monitor_inn: "Conjugated estrogens"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "migraine with or without aura, susceptibility to", "thrombophilia"]
 ---
 
 # Conjugated Estrogens

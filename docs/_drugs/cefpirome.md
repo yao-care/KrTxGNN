@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefpirome: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가 정보는 식약처 허가사항 문서 링크로만 제공됨). 4세대 세팔로스포린계 항생제로서…"
+monitor_inn: "Cefpirome"
+predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hemoglobinopathy", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis"]
 ---
 
 # Cefpirome

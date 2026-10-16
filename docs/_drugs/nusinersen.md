@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nusinersen: 예측 신규 적응증 고알도스테론증 (Hyperaldosteronism) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 텍스트로 제공되지 않아(허가 문서 링크만 있음) 허가사항 확인 필요"
+monitor_inn: "Nusinersen"
+predicted_indications: ["hyperaldosteronism", "ophthalmomyiasis", "multilocular clear cell renal cell carcinoma", "galactosemia", "mucinous tubular and spindle renal cell carcinoma", "sarcomatoid renal cell carcinoma", "rhinitis", "malignant peritoneal solitary fibrous tumor", "potassium deficiency disease", "central nervous system angiosarcoma"]
 ---
 
 # Nusinersen

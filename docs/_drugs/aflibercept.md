@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Aflibercept: 예측 신규 적응증 내사시 (Esotropia) (근거 수준 L5). 기존 적응증: 허가증 링크만 제공되어 구체적인 적응증 문구는 확인되지 않음 (허가사항 참조 필요)"
+monitor_inn: "Aflibercept"
+predicted_indications: ["esotropia", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease", "urethral calculus", "adenosine deaminase deficiency", "hemorrhagic disease of newborn", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "middle ear neuroendocrine tumor"]
 ---
 
 # Aflibercept

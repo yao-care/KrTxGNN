@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Hyaluronidase: 예측 신규 적응증 당뇨망막병증 (Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 이번에 확보하지 못함"
+monitor_inn: "Hyaluronidase"
+predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
 ---
 
 # Hyaluronidase

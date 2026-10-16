@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Doravirine: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L5). 기존 적응증: HIV-1 감염 (허가 적응증 원문은 허가증 PDF 링크로만 제공되어 상세 문구는 확인되지 않음)"
+monitor_inn: "DORAVIRINE"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Doravirine

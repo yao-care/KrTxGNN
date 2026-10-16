@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Trimebutine: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: 식도역류 및 열공헤르니아, 위·십이지장염, 위·십이지장궤양에 있어서의 소화기능이상(복통, 소화불량, 구역…"
+monitor_inn: "TRIMEBUTINE"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Trimebutine

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Dantrolene: 예측 신규 적응증 악성 고열증 감수성 (Malignant hyperthermia, susceptibility to) (근거 수준 L3). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조)"
+monitor_inn: "dantrolene"
+predicted_indications: ["malignant hyperthermia, susceptibility to", "moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis, susceptibility to", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
 ---
 
 # Dantrolene

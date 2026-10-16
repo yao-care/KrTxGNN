@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Human C1-Esterase Inhibitor: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 MFDS 허가정보 링크로만 제공되어 구체적인 질환명을 확인할 수 없음"
+monitor_inn: "HUMAN C1-ESTERASE INHIBITOR"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "primary release disorder of platelets", "diabetic retinopathy", "pseudo-von Willebrand disease"]
 ---
 
 # Human C1-Esterase Inhibitor

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Polyvinyl Alcohol: 예측 신규 적응증 선천성 어린선증양 홍색피부증 (Congenital Ichthyosiform Erythroderma) (근거 수준 L5). 기존 적응증: 점안액 제품으로 허가됨 (허가 적응증 본문은 확인되지 않음)"
+monitor_inn: "POLYVINYL ALCOHOL"
+predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
 ---
 
 # Polyvinyl Alcohol

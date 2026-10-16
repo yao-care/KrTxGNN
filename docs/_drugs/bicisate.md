@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bicisate: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 텍스트가 없고 허가사항 문서 링크만 확인됨 (뇌 관류 영상 진단제로 알려져 있음)"
+monitor_inn: "Bicisate"
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "hepatic porphyria", "gout", "pseudoachondroplasia", "brachyolmia", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension"]
 ---
 
 # Bicisate

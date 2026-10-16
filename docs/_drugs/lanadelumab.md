@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lanadelumab: 예측 신규 적응증 C1 억제제 결핍증 (C1 inhibitor deficiency) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 MFDS 문서 링크만 수록되어 있어 구체적 문구 확인 불가 (유전성 혈관부종 발작 예방으로 알려져…"
+monitor_inn: "Lanadelumab"
+predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
 ---
 
 # Lanadelumab

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Tiemonium Iodide: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 대신 문서 링크만 등록되어 있음)"
+monitor_inn: "TIEMONIUM IODIDE"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Tiemonium Iodide

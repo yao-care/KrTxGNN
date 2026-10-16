@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Eliglustat: 예측 신규 적응증 상염색체 어린선 증후군(치명적 경과) (autosomal ichthyosis syndrome with fatal diseas… (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 적응증을 확인할 수 없음 (허가사항 참조)"
+monitor_inn: "Eliglustat"
+predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "benign neoplasm of adrenal gland", "polycystic kidney disease 3 with or without polycystic liver disease", "gastrocutaneous syndrome", "familial generalized lentiginosis", "Moynahan syndrome", "rhabdoid tumor", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis"]
 ---
 
 # Eliglustat

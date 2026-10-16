@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Salmeterol: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않았습니다. 허가사항 링크만 확인되며, 일반적으로 천식·COPD에 사용되는 흡입제입니다"
+monitor_inn: "salmeterol"
+predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "asthma", "asthma-related traits, susceptibility to", "atopic eczema"]
 ---
 
 # Salmeterol

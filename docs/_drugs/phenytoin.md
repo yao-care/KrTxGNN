@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Phenytoin: 예측 신규 적응증 삼차신경 신생물 (Trigeminal Nerve Neoplasm) (근거 수준 L5). 기존 적응증: 허가증 원문 링크만 제공되어 구체적 문구 확인 불가 (일반적으로 항경련제)"
+monitor_inn: "PHENYTOIN"
+predicted_indications: ["trigeminal nerve neoplasm", "startle epilepsy", "eating seizures", "orgasm-induced seizures", "micturation-induced seizures", "thinking seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenytoin

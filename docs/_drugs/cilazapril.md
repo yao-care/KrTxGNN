@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Cilazapril: 예측 신규 적응증 폐질환 및/또는 저산소증으로 인한 폐고혈압 (Pulmonary hypertension owing to lung disease… (근거 수준 L5). 기존 적응증: 고혈압, 울혈성 심부전 (허가증에는 문서 링크만 제공되어 있어, 약리 데이터의 임상 사용 정보를 참고함)"
+monitor_inn: "cilazapril"
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
 ---
 
 # Cilazapril

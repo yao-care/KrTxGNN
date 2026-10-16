@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Letrozole: 예측 신규 적응증 여성 유방암 (Female Breast Carcinoma) (근거 수준 L1). 기존 적응증: 허가 문서 링크만 확인됨 (본문 미확인). 알려진 용도는 호르몬 수용체 양성 유방암"
+monitor_inn: "LETROZOLE"
+predicted_indications: ["female breast carcinoma", "nipple carcinoma", "estrogen-receptor negative breast cancer", "hormone-resistant breast carcinoma", "Ehrlich tumor carcinoma", "estrogen-receptor positive breast cancer", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "breast fibrocystic disease", "benign mammary dysplasia"]
 ---
 
 # Letrozole

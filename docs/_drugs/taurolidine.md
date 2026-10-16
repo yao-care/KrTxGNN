@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Taurolidine: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며, 적응증 본문은 이번 데이터에 포함되지 않음"
+monitor_inn: "Taurolidine"
+predicted_indications: ["diabetic cataract", "cortical cataract", "nuclear senile cataract", "mature cataract", "tetanic cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "diabetic retinopathy", "senile cataract"]
 ---
 
 # Taurolidine

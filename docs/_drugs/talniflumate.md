@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Talniflumate: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 정보가 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음)"
+monitor_inn: "Talniflumate"
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "hypotrichosis simplex of the scalp", "migraine disorder", "congenital hypotrichosis milia", "migraine with brainstem aura", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "alopecia"]
 ---
 
 # Talniflumate

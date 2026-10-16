@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mephenesin: 예측 신규 적응증 전이성 흑색종 (metastatic melanoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가증에 문서 링크만 기재됨)"
+monitor_inn: "Mephenesin"
+predicted_indications: ["metastatic melanoma", "non-cutaneous melanoma", "epithelioid cell melanoma", "choroideremia", "immature cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "craniostenosis cataract", "eyelid melanoma"]
 ---
 
 # Mephenesin

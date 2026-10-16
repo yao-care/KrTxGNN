@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fusidic Acid: 예측 신규 적응증 노출성 각막염 (Exposure Keratitis) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트 없음 (허가 문서 링크만 제공됨)"
+monitor_inn: "FUSIDIC ACID"
+predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
 ---
 
 # Fusidic Acid

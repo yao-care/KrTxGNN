@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Inositol: 예측 신규 적응증 원발성 문맥 혈전증 (Primitive Portal Vein Thrombosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 미확인 (허가사항 문서 링크만 제공됨)"
+monitor_inn: "INOSITOL"
+predicted_indications: ["primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "hepatic porphyria", "congestive heart failure", "hyperlipoproteinemia", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
 ---
 
 # Inositol

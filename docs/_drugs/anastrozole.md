@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Anastrozole: 예측 신규 적응증 여성 유방암 (Female Breast Carcinoma) (근거 수준 L1). 기존 적응증: 허가 적응증 문서는 링크 형태로만 제공되어 본문 확인 불가 (허가사항 참조). 문헌상 폐경 후 호르몬 수용체 양성 유방암"
+monitor_inn: "Anastrozole"
+predicted_indications: ["female breast carcinoma", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia", "rhabdomyosarcoma (disease)", "myeloid leukemia", "collagenopathy", "lymphocytic hypereosinophilic syndrome"]
 ---
 
 # Anastrozole

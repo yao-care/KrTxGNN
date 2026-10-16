@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Nalidixic Acid: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L4). 기존 적응증: 허가 적응증이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
+monitor_inn: "NALIDIXIC ACID"
+predicted_indications: ["conjunctivitis", "sclerosing cholangitis", "rheumatoid arthritis", "infectious otitis media"]
 ---
 
 # Nalidixic Acid

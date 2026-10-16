@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Pimecrolimus: 예측 신규 적응증 지루피부염 (Seborrheic Dermatitis) (근거 수준 L2). 기존 적응증: 허가증에 적응증 원문이 문서 링크 형태로만 등록되어 있어 이번 자료로는 확인되지 않음 (문헌상 승인 적응증은 경증~중등증 아…"
+monitor_inn: "PIMECROLIMUS"
+predicted_indications: ["seborrheic dermatitis", "dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 ---
 
 # Pimecrolimus

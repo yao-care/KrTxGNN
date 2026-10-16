@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefamandole Nafate: 예측 신규 적응증 혈색소병증 (hemoglobinopathy) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확보되지 않았습니다. 세팔로스포린계 항생제로서 세균 감염증 치료에 사용됩니다"
+monitor_inn: "Cefamandole nafate"
+predicted_indications: ["hemoglobinopathy", "myocardial infarction", "posteroinferior myocardial infarction", "posterolateral myocardial infarction", "septal myocardial infarction", "partial deletion of the short arm of chromosome 16", "Prinzmetal angina", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells"]
 ---
 
 # Cefamandole Nafate

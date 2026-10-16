@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Carfilzomib: 예측 신규 적응증 CMM7 (피부 악성 흑색종 아형으로 추정되나 명칭이 모호함) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 확인 불가 (허가사항 참조 필요)"
+monitor_inn: "CARFILZOMIB"
+predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
 ---
 
 # Carfilzomib

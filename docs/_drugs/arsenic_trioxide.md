@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Arsenic Trioxide: 예측 신규 적응증 분류되지 않은 골수이형성증후군 (Unclassified Myelodysplastic Syndrome) (근거 수준 L5). 기존 적응증: 허가증 원문 링크만 제공되어 확인 불가"
+monitor_inn: "ARSENIC TRIOXIDE"
+predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
 ---
 
 # Arsenic Trioxide

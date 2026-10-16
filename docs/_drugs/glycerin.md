@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Glycerin: 예측 신규 적응증 마미증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 점안제 제품(안구 충혈 완화…"
+monitor_inn: "GLYCERIN"
+predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Glycerin

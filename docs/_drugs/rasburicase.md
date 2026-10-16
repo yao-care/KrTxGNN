@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rasburicase: 예측 신규 적응증 신장성 저요산혈증 (hypouricemia, renal) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 미확인 (허가 문서 링크만 확인됨)"
+monitor_inn: "RASBURICASE"
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
 ---
 
 # Rasburicase

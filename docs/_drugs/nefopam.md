@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nefopam: 예측 신규 적응증 미성숙 백내장 (Immature Cataract) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않습니다. 허가 문서 링크만 확인되며, 허가사항을 참조하세요"
+monitor_inn: "Nefopam"
+predicted_indications: ["immature cataract", "tetanic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
 ---
 
 # Nefopam

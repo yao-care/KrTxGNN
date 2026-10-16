@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cyclofenil: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 한국 허가증의 적응증 정보가 링크 형태로만 확인되어 구체적인 허가 적응증 문구는 확인되지 않음 (일반적으로 배란 유도…"
+monitor_inn: "Cyclofenil"
+predicted_indications: ["Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "obsessive-compulsive disorder", "obsolete susceptibility to ischemic stroke", "insomnia (disease)", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "cerebral infarction"]
 ---
 
 # Cyclofenil

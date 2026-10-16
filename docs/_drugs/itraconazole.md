@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Itraconazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 수록되어 있어 확인 불가 (아졸계 항진균제)"
+monitor_inn: "ITRACONAZOLE"
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Itraconazole

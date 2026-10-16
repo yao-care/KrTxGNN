@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Guselkumab: 예측 신규 적응증 약물유발 골다공증 (Drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 본문 대신 문서 링크만 있어 허가 적응증 문구를 확인하지 못했습니다. 문헌상 주 사용 질환은 판상 건선입니다"
+monitor_inn: "Guselkumab"
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "psoriasis", "diabetic retinopathy", "renal osteodystrophy", "ulcerative colitis (disease)", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 ---
 
 # Guselkumab

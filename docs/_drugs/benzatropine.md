@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Benzatropine: 예측 신규 적응증 PLA2G6 연관 신경변성 (PLA2G6-associated neurodegeneration) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 이번 자료에서 확인되지 않았습니다. 허가증에는 문서 링크만 있습니다. 항콜린제로서 파킨슨증과 약물 유발…"
+monitor_inn: "benzatropine"
+predicted_indications: ["PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder"]
 ---
 
 # Benzatropine

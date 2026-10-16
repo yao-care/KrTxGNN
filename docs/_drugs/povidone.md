@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Povidone: 예측 신규 적응증 선천성 어린선증 홍피증 (Congenital Ichthyosiform Erythroderma) (근거 수준 L5). 기존 적응증: 건조한 눈, 하드콘택트렌즈 착용 시 사용"
+monitor_inn: "POVIDONE"
+predicted_indications: ["congenital ichthyosiform erythroderma"]
 ---
 
 # Povidone

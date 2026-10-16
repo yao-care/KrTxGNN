@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Temozolomide: 예측 신규 적응증 성인 성상세포종양 (adult astrocytic tumour) (근거 수준 L1). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문을 확인하지 못함)"
+monitor_inn: "TEMOZOLOMIDE"
+predicted_indications: ["adult astrocytic tumour", "cauda equina neoplasm"]
 ---
 
 # Temozolomide

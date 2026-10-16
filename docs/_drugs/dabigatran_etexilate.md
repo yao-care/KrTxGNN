@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Dabigatran Etexilate: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 한국 허가증에는 허가 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어…"
+monitor_inn: "DABIGATRAN ETEXILATE"
+predicted_indications: ["sclerosing cholangitis", "obsolete familial combined hyperlipidemia", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "primary release disorder of platelets"]
 ---
 
 # Dabigatran Etexilate

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Zanamivir: 예측 신규 적응증 신우신염 (Pyelonephritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 기재). 신경아미니다제 억제제로서 인플루엔자 치료제로 알려져 있음"
+monitor_inn: "zanamivir"
+predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 ---
 
 # Zanamivir

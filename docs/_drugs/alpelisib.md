@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Alpelisib: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 본문이 아닌 허가 문서 링크로만 제공됨)"
+monitor_inn: "Alpelisib"
+predicted_indications: ["pulmonary hypertension", "migraine with or without aura, susceptibility to", "migraine disorder", "kyphoscoliotic heart disease", "rheumatoid arthritis", "leprosy", "migraine with brainstem aura", "thrombotic disease", "amyotrophic lateral sclerosis", "multiple endocrine neoplasia"]
 ---
 
 # Alpelisib

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Metoclopramide: 예측 신규 적응증 위궤양 (gastric ulcer) (근거 수준 L4). 기존 적응증: 허가 적응증 본문은 이번 자료에서 확인되지 않았습니다 (허가사항 PDF 링크만 제공됨)"
+monitor_inn: "METOCLOPRAMIDE"
+predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation"]
 ---
 
 # Metoclopramide

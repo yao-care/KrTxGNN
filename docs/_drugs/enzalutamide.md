@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Enzalutamide: 예측 신규 적응증 전립선암/뇌암 감수성 (prostate cancer/brain cancer susceptibility) (근거 수준 L5). 기존 적응증: 전립선암 (허가 적응증 본문은 허가 문서 링크로만 제공되어 원문 확인 필요)"
+monitor_inn: "ENZALUTAMIDE"
+predicted_indications: ["prostate cancer/brain cancer susceptibility", "prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "male reproductive organ cancer", "benign prostate phyllodes tumor"]
 ---
 
 # Enzalutamide

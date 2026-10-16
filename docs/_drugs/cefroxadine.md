@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefroxadine: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확보되지 않았습니다 (허가증 원문 링크만 확인됨)"
+monitor_inn: "Cefroxadine"
+predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "brachyolmia", "hemoglobinopathy", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "myosclerosis"]
 ---
 
 # Cefroxadine

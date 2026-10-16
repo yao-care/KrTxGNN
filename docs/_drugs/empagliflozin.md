@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Empagliflozin: 예측 신규 적응증 전형적 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되지 않았고, 허가증 링크만 확인됩니다. 제품명과 복합제 구성(메트포르민…"
+monitor_inn: "EMPAGLIFLOZIN"
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
 ---
 
 # Empagliflozin

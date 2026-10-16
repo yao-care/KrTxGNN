@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Dimenhydrinate: 예측 신규 적응증 알레르기성 두드러기 (Allergic Urticaria) (근거 수준 L5). 기존 적응증: 멀미에 의한 어지러움·구토·두통의 예방 및 완화"
+monitor_inn: "DIMENHYDRINATE"
+predicted_indications: ["allergic urticaria", "cold urticaria"]
 ---
 
 # Dimenhydrinate

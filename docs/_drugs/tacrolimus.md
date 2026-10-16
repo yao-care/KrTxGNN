@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Tacrolimus: 예측 신규 적응증 지루피부염 (Seborrheic Dermatitis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 링크로만 제공됨(경구·주사제는 이식 거부반응 억제, 연고제는 아토피피부염이 일반적인 허가 범위)"
+monitor_inn: "tacrolimus"
+predicted_indications: ["seborrheic dermatitis", "parapsoriasis", "dermatitis"]
 ---
 
 # Tacrolimus

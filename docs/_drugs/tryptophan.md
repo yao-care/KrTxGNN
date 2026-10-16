@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Tryptophan: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L3). 기존 적응증: 자양강장, 허약체질, 육체피로, 병중병후, 위장장해, 영양장해, 발열성소모성질환, 임신수유기 등의 영양보급"
+monitor_inn: "TRYPTOPHAN"
+predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 ---
 
 # Tryptophan

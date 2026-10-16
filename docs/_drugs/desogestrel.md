@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Desogestrel: 예측 신규 적응증 유방 섬유낭성 질환 (Breast Fibrocystic Disease) (근거 수준 L5). 기존 적응증: 피임"
+monitor_inn: "Desogestrel"
+predicted_indications: ["breast fibrocystic disease", "amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia", "acne (disease)", "fat necrosis of breast", "breast abscess", "lactation disease", "breast adenosis"]
 ---
 
 # Desogestrel

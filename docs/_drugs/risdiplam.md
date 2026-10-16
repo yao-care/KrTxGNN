@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Risdiplam: 예측 신규 적응증 여드름 (acne) (근거 수준 L5). 기존 적응증: 척수성 근위축증(SMA). 허가 적응증 원문은 허가 문서 링크로만 제공되어 세부 문구는 확인하지 못했습니다"
+monitor_inn: "Risdiplam"
+predicted_indications: ["acne (disease)", "drug-induced osteoporosis", "zinc, elevated plasma", "common wart", "metastatic melanoma", "dermatitis", "non-cutaneous melanoma", "acrodermatitis chronica atrophicans", "epithelioid cell melanoma", "eyelid melanoma"]
 ---
 
 # Risdiplam

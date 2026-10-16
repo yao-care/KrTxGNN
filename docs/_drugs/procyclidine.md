@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Procyclidine: 예측 신규 적응증 소아기 발병 파킨슨병 19A (juvenile onset Parkinson disease 19A) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않고 허가 문서 링크만 제공됨. 항콜린제로서 파킨슨증 증상 치료에 사용되는 약물"
+monitor_inn: "Procyclidine"
+predicted_indications: ["juvenile onset Parkinson disease 19A", "atypical juvenile parkinsonism", "hereditary late onset Parkinson disease", "X-linked parkinsonism-spasticity syndrome", "Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder", "parkinsonian-pyramidal syndrome", "Parkinson disease"]
 ---
 
 # Procyclidine

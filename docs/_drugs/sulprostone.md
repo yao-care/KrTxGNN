@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sulprostone: 예측 신규 적응증 테타니성 백내장 (Tetanic cataract) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조)"
+monitor_inn: "Sulprostone"
+predicted_indications: ["tetanic cataract", "immature cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetic retinopathy"]
 ---
 
 # Sulprostone

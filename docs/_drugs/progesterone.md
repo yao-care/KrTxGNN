@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Progesterone: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 링크로만 제공되어 이번 데이터에서 확인되지 않음 (제품별 허가사항 참조)"
+monitor_inn: "Progesterone"
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "endometriosis of uterus", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis in cutaneous scar", "endometriosis of rectovaginal septum and vagina", "blunt duct adenosis of breast"]
 ---
 
 # Progesterone

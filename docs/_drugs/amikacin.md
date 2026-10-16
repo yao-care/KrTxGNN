@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amikacin: 예측 신규 적응증 파라티푸스열 (Paratyphoid Fever) (근거 수준 L5). 기존 적응증: 그람음성균 등 세균 감염증 (허가 적응증 원문은 허가사항 문서 링크로만 제공되어 확인하지 못했습니다)"
+monitor_inn: "Amikacin"
+predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "bacterial meningitis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
 ---
 
 # Amikacin

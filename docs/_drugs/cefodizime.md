@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefodizime: 예측 신규 적응증 골관절염 (Osteoarthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않음 (허가증 링크만 제공됨). 3세대 세팔로스포린계 항생제로 세균 감염증 치료에…"
+monitor_inn: "Cefodizime"
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "hemoglobinopathy", "myosclerosis"]
 ---
 
 # Cefodizime

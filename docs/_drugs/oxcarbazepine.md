@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Oxcarbazepine: 예측 신규 적응증 시각 뇌전증 (Visual Epilepsy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 정보가 URL 링크로만 제공되어 본문을 확인할 수 없음. 문헌상 부분 발작 및 이차성 전신 발작에…"
+monitor_inn: "OXCARBAZEPINE"
+predicted_indications: ["visual epilepsy", "restless legs syndrome", "thinking seizures", "eating seizures", "orgasm-induced seizures", "micturation-induced seizures", "startle epilepsy", "audiogenic seizures", "status epilepticus", "reading seizures"]
 ---
 
 # Oxcarbazepine

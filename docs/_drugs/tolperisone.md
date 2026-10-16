@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tolperisone: 예측 신규 적응증 라우브리-페치 증후군 (Laubry-Pezzi syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (중추 작용 근이완제로 알려져 있음)"
+monitor_inn: "Tolperisone"
+predicted_indications: ["Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "pulmonary valve disease", "orofacial clefting syndrome", "mitral valve disease", "heart disease", "disorder of fucoglycosan synthesis", "interventricular septum aneurysm"]
 ---
 
 # Tolperisone

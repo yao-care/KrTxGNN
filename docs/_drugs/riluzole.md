@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Riluzole: 예측 신규 적응증 양측 두정-후두 부시상 다소뇌회증 (bilateral parasagittal parieto-occipital polymicr… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 PDF 링크로만 제공되어 확인 불가 (문헌상 ALS 치료제)"
+monitor_inn: "RILUZOLE"
+predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "amyotrophic lateral sclerosis, susceptibility to", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
 ---
 
 # Riluzole

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Glycol Salicylate: 예측 신규 적응증 Glanzmann 혈소판무력증 (Glanzmann thrombasthenia) (근거 수준 L5). 기존 적응증: 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 근육피로, 관절통, 동창(언 상처)의 진통·소염(항염)"
+monitor_inn: "Glycol salicylate"
+predicted_indications: ["Glanzmann thrombasthenia", "autoimmune disease", "primary release disorder of platelets", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "thrombophilia", "pseudo-von Willebrand disease", "heparin-induced thrombocytopenia (disease)", "autoimmune inner ear disease", "autoimmune gastritis"]
 ---
 
 # Glycol Salicylate

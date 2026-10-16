@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Deutetrabenazine: 예측 신규 적응증 만성 틱 장애 (Chronic Tic Disorder) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 제공되어 적응증 원문 확인 불가 (문헌상 미국 허가: 헌팅턴병 무도증, 지연성 이상운동증)"
+monitor_inn: "Deutetrabenazine"
+predicted_indications: ["psychogenic movement disorders", "tremor-nystagmus-duodenal ulcer syndrome", "primary orthostatic tremor", "benign paroxysmal tonic upgaze of childhood with ataxia", "chronic tic disorder", "benign shuddering attacks", "extrapyramidal and movement disease", "polycystic kidney disease 3 with or without polycystic liver disease", "acute intermittent porphyria", "Hirschsprung disease"]
 ---
 
 # Deutetrabenazine

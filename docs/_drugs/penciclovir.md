@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Penciclovir: 예측 신규 적응증 파스시올라증 (Fascioliasis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 단순포진 등 헤르페스바이러스 감염에 사…"
+monitor_inn: "Penciclovir"
+predicted_indications: ["fascioliasis", "cysticercosis", "coenurosis", "intestinal helminthiasis", "malignant pleural mesothelioma", "endomyometritis", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "synovium cancer", "malignant visceral pleura tumor"]
 ---
 
 # Penciclovir

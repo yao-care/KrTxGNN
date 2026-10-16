@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Streptokinase: 예측 신규 적응증 심근경색 (Myocardial Infarction) (근거 수준 L1). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않음(허가증 PDF 링크만 제공됨)"
+monitor_inn: "Streptokinase"
+predicted_indications: ["myocardial infarction", "Prinzmetal angina", "hemoglobinopathy", "coronary thrombosis", "septal myocardial infarction", "posteroinferior myocardial infarction", "posterolateral myocardial infarction", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
 ---
 
 # Streptokinase
