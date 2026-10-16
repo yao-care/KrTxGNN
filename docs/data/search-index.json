@@ -1,16 +1,8 @@
 {
   "generated": "2026-10-16",
-  "drug_count": 784,
-  "indication_count": 3011,
+  "drug_count": 708,
+  "indication_count": 3007,
   "drugs": [
-    {
-      "name": "Abacavir Sulfate",
-      "slug": "abacavir-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
     {
       "name": "Abatacept",
       "slug": "abatacept",
@@ -29,14 +21,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Abciximab",
-      "slug": "abciximab",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Abemaciclib",
@@ -66,14 +50,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Acamprosate Calcium",
-      "slug": "acamprosate-calcium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Acarbose",
@@ -275,14 +251,6 @@
       ]
     },
     {
-      "name": "Acipimox",
-      "slug": "acipimox",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Acyclovir",
       "slug": "acyclovir",
       "brands": [],
@@ -482,14 +450,6 @@
       ]
     },
     {
-      "name": "Agalsidase Beta",
-      "slug": "agalsidase-beta",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Agomelatine",
       "slug": "agomelatine",
       "brands": [],
@@ -577,30 +537,6 @@
       ]
     },
     {
-      "name": "Alcaftadine",
-      "slug": "alcaftadine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aldesleukin",
-      "slug": "aldesleukin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alemtuzumab",
-      "slug": "alemtuzumab",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Alfacalcidol",
       "slug": "alfacalcidol",
       "brands": [],
@@ -653,22 +589,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Alfentanil Hydrochloride",
-      "slug": "alfentanil-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alfuzosin Hydrochloride",
-      "slug": "alfuzosin-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Alirocumab",
@@ -855,14 +775,6 @@
       ]
     },
     {
-      "name": "Alpha-Tocopherol",
-      "slug": "alpha-tocopherol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Alpha-Tocopherol Acetate",
       "slug": "alpha-tocopherol-acetate",
       "brands": [],
@@ -989,30 +901,6 @@
       ]
     },
     {
-      "name": "Aluminium Chloride",
-      "slug": "aluminium-chloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alverine Citrate",
-      "slug": "alverine-citrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amantadine Sulfate",
-      "slug": "amantadine-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Ambrisentan",
       "slug": "ambrisentan",
       "brands": [],
@@ -1057,14 +945,6 @@
       ]
     },
     {
-      "name": "Ambroxol Hydrochloride",
-      "slug": "ambroxol-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Amikacin",
       "slug": "amikacin",
       "brands": [],
@@ -1097,22 +977,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Amikacin Sulfate",
-      "slug": "amikacin-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amiloride Hydrochloride",
-      "slug": "amiloride-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Aminocaproic Acid",
@@ -1198,54 +1062,6 @@
       ]
     },
     {
-      "name": "Aminophylline Hydrate",
-      "slug": "aminophylline-hydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amiodarone Hydrochloride",
-      "slug": "amiodarone-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amisulpride",
-      "slug": "amisulpride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amitriptyline Hydrochloride",
-      "slug": "amitriptyline-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amlodipine Besylate",
-      "slug": "amlodipine-besylate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amlodipine Maleate",
-      "slug": "amlodipine-maleate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Amorolfine",
       "slug": "amorolfine",
       "brands": [],
@@ -1278,14 +1094,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Amorolfine Hydrochloride",
-      "slug": "amorolfine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Amoxicillin",
@@ -1322,22 +1130,6 @@
       ]
     },
     {
-      "name": "Amoxicillin Sodium",
-      "slug": "amoxicillin-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amphotericin B",
-      "slug": "amphotericin-b",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Ampicillin",
       "slug": "ampicillin",
       "brands": [],
@@ -1370,14 +1162,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Ampicillin Sodium",
-      "slug": "ampicillin-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Anagliptin",
@@ -1444,14 +1228,6 @@
       ]
     },
     {
-      "name": "Anagrelide Hydrochloride",
-      "slug": "anagrelide-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Anastrozole",
       "slug": "anastrozole",
       "brands": [],
@@ -1479,22 +1255,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Anhydrous Caffeine",
-      "slug": "anhydrous-caffeine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apalutamide",
-      "slug": "apalutamide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Apixaban",
@@ -1529,14 +1289,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Apraclonidine Hydrochloride",
-      "slug": "apraclonidine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Apremilast",
@@ -1600,22 +1352,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Arformoterol Tartrate",
-      "slug": "arformoterol-tartrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Argatroban",
-      "slug": "argatroban",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Arginine",
@@ -1686,14 +1422,6 @@
       ]
     },
     {
-      "name": "Aripiprazole Monohydrate",
-      "slug": "aripiprazole-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Armodafinil",
       "slug": "armodafinil",
       "brands": [],
@@ -1711,14 +1439,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Arotinolol Hydrochloride",
-      "slug": "arotinolol-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Arsenic Trioxide",
@@ -1827,43 +1547,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Artesunate",
-      "slug": "artesunate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "TxGNN 예측 실행 (`predicted_indications`) | KG/DL 예측 파이프라인 재실행 | Blocking",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "TFDA 허가 경고 및 금기 데이터 | TFDA 공식 사이트에서 PDF 다운로드 후 파싱 | Blocking",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "작용 기전 (MOA) | DrugBank API 조회 | High",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "한국 시판 현황 재확인 | MFDS 허가 DB 조회 (nedrug.mfds.go.kr) | Medium",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Articaine Hydrochloride",
-      "slug": "articaine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Ascorbic Acid",
@@ -2008,30 +1691,6 @@
       ]
     },
     {
-      "name": "Atomoxetine Hydrochloride",
-      "slug": "atomoxetine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Atorvastatin Calcium",
-      "slug": "atorvastatin-calcium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Atorvastatin Calcium Trihydrate",
-      "slug": "atorvastatin-calcium-trihydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Atosiban",
       "slug": "atosiban",
       "brands": [],
@@ -2054,22 +1713,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Atosiban Acetate",
-      "slug": "atosiban-acetate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Atovaquone",
-      "slug": "atovaquone",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Atracurium Besylate",
@@ -2130,22 +1773,6 @@
       ]
     },
     {
-      "name": "Atropine Sulfate",
-      "slug": "atropine-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Atropine Sulfate Hydrate",
-      "slug": "atropine-sulfate-hydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Avatrombopag",
       "slug": "avatrombopag",
       "brands": [],
@@ -2195,14 +1822,6 @@
       ]
     },
     {
-      "name": "Avatrombopag Maleate",
-      "slug": "avatrombopag-maleate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Avelumab",
       "slug": "avelumab",
       "brands": [],
@@ -2240,14 +1859,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Axicabtagene Ciloleucel",
-      "slug": "axicabtagene-ciloleucel",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Axitinib",
@@ -2299,14 +1910,6 @@
       ]
     },
     {
-      "name": "Azacitidine",
-      "slug": "azacitidine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Azathioprine",
       "slug": "azathioprine",
       "brands": [],
@@ -2339,30 +1942,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Azelaic Acid",
-      "slug": "azelaic-acid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Azelastine Hydrochloride",
-      "slug": "azelastine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Azelnidipine",
-      "slug": "azelnidipine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Azithromycin",
@@ -2415,14 +1994,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Bacampicillin Hydrochloride",
-      "slug": "bacampicillin-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Bacitracin",
@@ -2493,14 +2064,6 @@
       ]
     },
     {
-      "name": "Baloxavir Marboxil",
-      "slug": "baloxavir-marboxil",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Balsalazide",
       "slug": "balsalazide",
       "brands": [],
@@ -2513,14 +2076,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Bambuterol Hydrochloride",
-      "slug": "bambuterol-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Baricitinib",
@@ -2547,14 +2102,6 @@
       ]
     },
     {
-      "name": "Barnidipine Hydrochloride",
-      "slug": "barnidipine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Basiliximab",
       "slug": "basiliximab",
       "brands": [],
@@ -2567,14 +2114,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Bazedoxifene Acetate",
-      "slug": "bazedoxifene-acetate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Beclomethasone Dipropionate",
@@ -2655,14 +2194,6 @@
       ]
     },
     {
-      "name": "Bedaquiline Fumarate",
-      "slug": "bedaquiline-fumarate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Belimumab",
       "slug": "belimumab",
       "brands": [],
@@ -2705,14 +2236,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Belotecan",
-      "slug": "belotecan",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Benralizumab",
@@ -10015,14 +9538,6 @@
       ]
     },
     {
-      "name": "Gilteritinib Fumarate",
-      "slug": "gilteritinib-fumarate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Ginseng",
       "slug": "ginseng",
       "brands": [],
@@ -10071,22 +9586,6 @@
       ]
     },
     {
-      "name": "Givosiran Sodium",
-      "slug": "givosiran-sodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Glatiramer Acetate",
-      "slug": "glatiramer-acetate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Glecaprevir",
       "slug": "glecaprevir",
       "brands": [],
@@ -10099,22 +9598,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Glibenclamide",
-      "slug": "glibenclamide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Gliclazide",
-      "slug": "gliclazide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Glimepiride",
@@ -10149,30 +9632,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Glipizide",
-      "slug": "glipizide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Glucose",
-      "slug": "glucose",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Glucose Monohydrate",
-      "slug": "glucose-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Glutamic Acid",
@@ -10348,14 +9807,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Glycopyrronium Bromide",
-      "slug": "glycopyrronium-bromide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Glycyrrhizic Acid",
@@ -18545,22 +17996,6 @@
       ]
     },
     {
-      "name": "Rocuronium Bromide",
-      "slug": "rocuronium-bromide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Rokitamycin",
-      "slug": "rokitamycin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Romiplostim",
       "slug": "romiplostim",
       "brands": [],
@@ -18575,14 +18010,6 @@
       ]
     },
     {
-      "name": "Romosozumab",
-      "slug": "romosozumab",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Ropeginterferon Alfa-2B",
       "slug": "ropeginterferon-alfa-2b",
       "brands": [],
@@ -18595,38 +18022,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Ropinirole Hydrochloride",
-      "slug": "ropinirole-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Ropivacaine Hydrochloride",
-      "slug": "ropivacaine-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Rosuvastatin Calcium",
-      "slug": "rosuvastatin-calcium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Roxatidine Acetate Hydrochloride",
-      "slug": "roxatidine-acetate-hydrochloride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Roxithromycin",
@@ -18721,22 +18116,6 @@
       ]
     },
     {
-      "name": "Rupatadine Fumarate",
-      "slug": "rupatadine-fumarate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Ruxolitinib Phosphate",
-      "slug": "ruxolitinib-phosphate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Sacituzumab Govitecan",
       "slug": "sacituzumab-govitecan",
       "brands": [],
@@ -18807,14 +18186,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Salbutamol Sulfate",
-      "slug": "salbutamol-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Salicylic Acid",
@@ -22700,34 +22071,12 @@
       ]
     },
     {
-      "name": "TFDA 허가 경고 및 금기 데이터 | TFDA 공식 사이트에서 PDF 다운로드 후 파싱 | Blocking",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Artesunate",
-          "slug": "artesunate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Telogen effluvium | 99.99% | L5 | Hold",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Dexamethasone",
           "slug": "dexamethasone",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "TxGNN 예측 실행 (`predicted_indications`) | KG/DL 예측 파이프라인 재실행 | Blocking",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Artesunate",
-          "slug": "artesunate",
           "score": 99.0
         }
       ]
@@ -44777,17 +44126,6 @@
       ]
     },
     {
-      "name": "작용 기전 (MOA) | DrugBank API 조회 | High",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Artesunate",
-          "slug": "artesunate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "잘라콤점안액 | 점안제 | 허가증 원문 참조",
       "drug_count": 1,
       "drugs": [
@@ -53841,17 +53179,6 @@
         {
           "drug": "Hydrocortisone",
           "slug": "hydrocortisone",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "한국 시판 현황 재확인 | MFDS 허가 DB 조회 (nedrug.mfds.go.kr) | Medium",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Artesunate",
-          "slug": "artesunate",
           "score": 99.0
         }
       ]
