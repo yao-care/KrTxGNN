@@ -36,7 +36,7 @@ description: "KrTxGNN의 데이터 출처: MFDS 허가 데이터, TxGNN, Clinica
 
 각 출처에는 고유한 라이선스가 있으므로 인용 전에 반드시 확인하십시오:
 
-- **TxGNN**: 학술 용도; Huang et al. (2023) 인용 필요
+- **TxGNN**: 학술 용도; Huang et al. (2024) 인용 필요
 - **ClinicalTrials.gov / PubMed**: 미국 NIH 공개 데이터
 - **DrugBank**: 해당 라이선스 조건에 따른 비상업적 용도
 - **MFDS**: 대한민국 규제 기관의 공공데이터 이용 약관 적용
@@ -55,7 +55,7 @@ description: "KrTxGNN의 데이터 출처: MFDS 허가 데이터, TxGNN, Clinica
 
 ## 학술 인용
 
-> Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
+> Huang, K., et al. (2024). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
 > [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---

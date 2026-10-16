@@ -101,7 +101,7 @@ Zitnik Lab이 개발하여 <em>Nature Medicine</em>에 발표한 딥러닝 모�
 
 ## 학술적 근거
 
-> Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
+> Huang, K., et al. (2024). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
 > [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
