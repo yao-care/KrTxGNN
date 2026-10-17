@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Indomethacin: 예측 신규 적응증 소아특발성관절염 (Juvenile Idiopathic Arthritis, 예측 8위) (근거 수준 L5). 기존 적응증: 퇴행성 관절염(골관절염), 어깨관절주위염, 건(힘줄)·건초염(힘줄윤활막염), 건주위염, 상완골상과염(테니스 엘보우 등)…"
 monitor_inn: "indomethacin"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "rheumatoid nodulosis"]
 ---
 
 # Indomethacin
