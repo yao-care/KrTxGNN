@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Lamotrigine: 예측 신규 적응증 삼차신경 종양 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 뇌전증(항경련 치료). 허가증에는 적응증 본문 없이 원문 링크만 있어 허가 문구는 확인하지 못했습니다"
 monitor_inn: "LAMOTRIGINE"
-predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "startle epilepsy", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures", "thinking seizures", "reading seizures"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures", "thinking seizures", "reading seizures"]
 ---
 
 # Lamotrigine

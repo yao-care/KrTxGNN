@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Insulin Aspart: 예측 신규 적응증 제1형 당뇨병 (type 1 diabetes mellitus) (근거 수준 L1). 기존 적응증: 한국 허가증에는 허가 문서 링크만 제공되어 있어 적응증 문구를 확인할 수 없음"
 monitor_inn: "INSULIN ASPART"
-predicted_indications: ["type 1 diabetes mellitus", "autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "permanent neonatal diabetes mellitus", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
+predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 ---
 
 # Insulin Aspart

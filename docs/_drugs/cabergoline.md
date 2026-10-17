@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cabergoline: 예측 신규 적응증 뇌하수체 암 (Pituitary cancer) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 확인되지 않음 (허가사항 PDF 링크만 수집됨)"
 monitor_inn: "CABERGOLINE"
-predicted_indications: ["pituitary adenocarcinoma (disease)", "progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
+predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 ---
 
 # Cabergoline

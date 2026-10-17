@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Atenolol: 예측 신규 적응증 후하벽 심근경색 (Posteroinferior Myocardial Infarction) (근거 수준 L4). 기존 적응증: 허가 적응증 원문은 제공되지 않았고 허가증 PDF 링크만 확인됩니다. 허가사항을 참조하세요"
 monitor_inn: "ATENOLOL"
-predicted_indications: ["posteroinferior myocardial infarction", "posterolateral myocardial infarction", "malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "septal myocardial infarction", "Braddock syndrome", "chronic pulmonary heart disease"]
+predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease"]
 ---
 
 # Atenolol

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Desonide: 예측 신규 적응증 아토피 습진 (Atopic Eczema) (근거 수준 L5). 기존 적응증: 한국 허가증에서 적응증 텍스트를 확인할 수 없음 (허가 정보가 링크로만 제공됨)"
 monitor_inn: "Desonide"
-predicted_indications: ["atopic eczema", "polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis"]
+predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis"]
 ---
 
 # Desonide

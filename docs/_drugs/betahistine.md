@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Betahistine: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L5). 기존 적응증: 허가증 본문 텍스트는 이번 데이터에 포함되지 않았습니다(허가 문서 링크만 확인). 문헌상 주 사용 영역은 메니에르병 및 말초…"
 monitor_inn: "Betahistine"
-predicted_indications: ["restless legs syndrome", "active cochleovestibular Meniere disease", "active vestibular Meniere disease", "active cochlear Meniere disease", "otosclerosis", "peripheral vertigo", "age-related hearing impairment", "vertigo, benign recurrent, 2", "autosomal recessive hyperinsulinism due to Kir6.2 deficiency", "hyperinsulinemic hypoglycemia, familial"]
+predicted_indications: ["restless legs syndrome", "otosclerosis", "age-related hearing impairment", "vertigo, benign recurrent, 2", "autosomal recessive hyperinsulinism due to Kir6.2 deficiency", "hyperinsulinemic hypoglycemia, familial"]
 ---
 
 # Betahistine

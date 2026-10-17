@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tamoxifen: 예측 신규 적응증 유방 파제트병 (Mammary Paget Disease) (근거 수준 L5). 기존 적응증: 유방암 (허가증에는 적응증 본문 없이 허가 문서 링크만 연결되어 있어…"
 monitor_inn: "Tamoxifen"
-predicted_indications: ["mammary Paget disease", "intraductal cribriform breast adenocarcinoma", "basal-like breast carcinoma", "breast carcinoma in situ", "sebaceous breast carcinoma", "invasive tubular breast carcinoma", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+predicted_indications: ["mammary Paget disease", "intraductal cribriform breast adenocarcinoma", "breast carcinoma in situ", "sebaceous breast carcinoma", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Tamoxifen

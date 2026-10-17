@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Polmacoxib: 예측 신규 적응증 골관절염 감수성 (osteoarthritis susceptibility) (근거 수준 L5). 기존 적응증: 골관절염 (허가증에 적응증 원문 대신 허가 문서 링크만 수록되어 있어, 문헌과 시판 현황을 근거로 기재)"
 monitor_inn: "Polmacoxib"
-predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "pseudoachondroplasia", "myosclerosis", "brachyolmia", "arthropathy", "spondyloarthropathy, susceptibility to", "ankylosing spondylitis"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "pseudoachondroplasia", "myosclerosis", "brachyolmia", "ankylosing spondylitis"]
 ---
 
 # Polmacoxib

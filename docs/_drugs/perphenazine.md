@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Perphenazine: 예측 신규 적응증 망막 이영양증 (retinal dystrophy with or without extraocular anomalies) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가정보 PDF 링크로만 제공). 약물 분류는 페노티아진계 항정신병약"
 monitor_inn: "PERPHENAZINE"
-predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "atypical glycine encephalopathy", "anxiety disorder"]
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "atypical glycine encephalopathy"]
 ---
 
 # Perphenazine

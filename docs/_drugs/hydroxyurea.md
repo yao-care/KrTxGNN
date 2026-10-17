@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Hydroxyurea: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증 첨부문서 링크만 확인)"
 monitor_inn: "Hydroxyurea"
-predicted_indications: ["female breast carcinoma", "primary non-gestational choriocarcinoma of ovary", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary breast ovarian cancer syndrome", "ovarian mucinous adenocarcinoma", "ovarian clear cell adenocarcinoma"]
+predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome"]
 ---
 
 # Hydroxyurea

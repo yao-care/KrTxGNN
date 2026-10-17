@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Alfacalcidol: 예측 신규 적응증 가족성 고립성 부갑상선기능저하증 (PTH 분비 장애) (근거 수준 L5). 기존 적응증: 만성신부전, 부갑상선기능저하증, 비타민 D 저항성 구루병·골연화증 질환의 비타민 D 대사이상에 수반되는 증상(저칼슘혈증…"
 monitor_inn: "ALFACALCIDOL"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+predicted_indications: ["Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
 ---
 
 # Alfacalcidol

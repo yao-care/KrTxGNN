@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Carvedilol: 예측 신규 적응증 악성 신혈관성 고혈압 (Malignant Renovascular Hypertension) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 포함되어 있지 않아 이번 데이터에서는 확인할 수 없습니다 (허가사항 참조 필요)"
 monitor_inn: "CARVEDILOL"
-predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Carvedilol

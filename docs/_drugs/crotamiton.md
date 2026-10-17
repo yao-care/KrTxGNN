@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Crotamiton: 예측 신규 적응증 털진드기증 (Trombiculiasis) (근거 수준 L5). 기존 적응증: 습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물린데, 두드러기"
 monitor_inn: "Crotamiton"
-predicted_indications: ["trombiculiasis", "lymph node palisaded myofibroblastoma", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "disease of uterine broad ligament", "disease of retroperitoneum", "sacrum chordoma", "urethral disease", "hordeolum"]
+predicted_indications: ["lymph node palisaded myofibroblastoma", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "disease of uterine broad ligament", "disease of retroperitoneum", "sacrum chordoma", "urethral disease", "hordeolum"]
 ---
 
 # Crotamiton

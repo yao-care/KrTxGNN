@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Apremilast: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) — 예측 순위 3위, 근거가 있는 가장 유망한 후보 (근거 수준 L5). 기존 적응증: 한국 허가 문서 링크만 확인되며, 허가 적응증 본문은 이번 데이터에 포함되어 있지 않습니다"
 monitor_inn: "Apremilast"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "rheumatoid arthritis", "pulmonary hypertension", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Apremilast

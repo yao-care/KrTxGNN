@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Luspatercept: 예측 신규 적응증 모노소미 X (monosomy X) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트가 확인되지 않음(허가증 첨부 문서 링크만 제공됨)"
 monitor_inn: "Luspatercept"
-predicted_indications: ["monosomy X", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "pyruvate kinase deficiency of red cells", "thalassemia, beta+, silent allele", "familial apolipoprotein C-II deficiency", "adenosine deaminase deficiency", "Hb Bart's hydrops fetalis"]
+predicted_indications: ["monosomy X", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "pyruvate kinase deficiency of red cells", "familial apolipoprotein C-II deficiency", "adenosine deaminase deficiency", "Hb Bart's hydrops fetalis"]
 ---
 
 # Luspatercept

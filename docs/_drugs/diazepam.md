@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Diazepam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가사항 문서 링크로만 제공되어 이 보고서에서 요약하지 못했습니다"
 monitor_inn: "Diazepam"
-predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "alcohol withdrawal delirium", "sleep disorder, initiating and maintaining sleep", "anxiety", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "antidepressant type abuse", "barbiturate abuse", "specific developmental disorder"]
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "antidepressant type abuse", "barbiturate abuse", "specific developmental disorder"]
 ---
 
 # Diazepam

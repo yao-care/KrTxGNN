@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Felodipine: 예측 신규 적응증 원인 불명확한 다인성 폐고혈압 (pulmonary hypertension with unclear multifactorial… (근거 수준 L5). 기존 적응증: 고혈압 (한국 허가 적응증 원문은 데이터에 텍스트로 포함되지 않아 허가사항 문서 확인 필요)"
 monitor_inn: "FELODIPINE"
-predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina"]
 ---
 
 # Felodipine

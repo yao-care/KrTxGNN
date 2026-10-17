@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pegaspargase: 예측 신규 적응증 전구 림프모구성 림프종/백혈병 (precursor lymphoblastic lymphoma/leukemia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 PDF 참조)"
 monitor_inn: "PEGASPARGASE"
-predicted_indications: ["precursor lymphoblastic lymphoma/leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "acute lymphoblastic leukemia", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
+predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
 ---
 
 # Pegaspargase

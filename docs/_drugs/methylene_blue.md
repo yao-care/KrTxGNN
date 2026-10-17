@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Methylene Blue: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 정보가 문서 링크로만 제공됨)"
 monitor_inn: "METHYLENE BLUE"
-predicted_indications: ["bronchitis", "methemoglobinemia, alpha type", "methemoglobinemia due to deficiency of methemoglobin reductase"]
+predicted_indications: ["bronchitis"]
 ---
 
 # Methylene Blue

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Zidovudine: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (feline acquired immunodeficiency syndrome) (근거 수준 L5). 기존 적응증: HIV 감염 (허가증의 적응증 본문은 허가사항 문서 링크로만 제공되어 일반적인 적응증으로 기재)"
 monitor_inn: "ZIDOVUDINE"
-predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "AIDS related complex", "congenital human immunodeficiency virus"]
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 ---
 
 # Zidovudine

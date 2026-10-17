@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Levonorgestrel: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 피임"
 monitor_inn: "LEVONORGESTREL"
-predicted_indications: ["acne (disease)", "Worth syndrome", "pregnancy associated osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 ---
 
 # Levonorgestrel

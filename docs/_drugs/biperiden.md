@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Biperiden: 예측 신규 적응증 소아 발병 파킨슨병 19A (juvenile onset Parkinson disease 19A) (근거 수준 L5). 기존 적응증: 파킨슨증 (허가 적응증 원문은 링크 형태로만 제공되어 구체적 문구는 확인되지 않음)"
 monitor_inn: "Biperiden"
-predicted_indications: ["juvenile onset Parkinson disease 19A", "atypical juvenile parkinsonism", "hereditary late onset Parkinson disease", "Rasmussen subacute encephalitis", "X-linked parkinsonism-spasticity syndrome", "myelitis", "parkinsonian-pyramidal syndrome", "PLA2G6-associated neurodegeneration", "hemiparkinsonism-hemiatrophy syndrome", "transaldolase deficiency"]
+predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency"]
 ---
 
 # Biperiden

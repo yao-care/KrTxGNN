@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Captopril: 예측 신규 적응증 악성 신혈관성 고혈압 (Malignant Renovascular Hypertension) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 확인되지 않음 (허가 문서 링크만 확인됨). ACE 억제제로서의 항고혈압 용도로 알려져 있음"
 monitor_inn: "CAPTOPRIL"
-predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Captopril

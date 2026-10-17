@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cefprozil: 예측 신규 적응증 요로감염 (Urinary Tract Infection) (근거 수준 L3). 기존 적응증: 허가 적응증 원문이 링크 형태로만 확인되어 구체적 내용을 이번 보고서에서 제시할 수 없음 (참고: 근거 자료상 호흡기, 피부…"
 monitor_inn: "cefprozil"
-predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
+predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
 ---
 
 # Cefprozil

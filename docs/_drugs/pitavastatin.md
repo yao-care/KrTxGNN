@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pitavastatin: 예측 신규 적응증 폐지된 용어로 분류된 가족성 복합 고지혈증 / 고지단백혈증 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 PDF 링크로만 제공됨)"
 monitor_inn: "Pitavastatin"
-predicted_indications: ["obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "hyperlipidemia, familial combined, LPL related", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Pitavastatin

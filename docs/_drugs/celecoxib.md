@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Celecoxib: 예측 신규 적응증 골관절염 감수성 (Osteoarthritis susceptibility) (근거 수준 L5). 기존 적응증: 관절염 통증·염증 (골관절염 포함). 허가증 본문은 링크만 확인되어 적응증 문구는 확인하지 못했습니다"
 monitor_inn: "Celecoxib"
-predicted_indications: ["osteoarthritis susceptibility", "ankylosing spondylitis", "acromesomelic dysplasia, Hunter-Thompson type", "osteoarthritis", "spondyloarthropathy, susceptibility to", "juvenile idiopathic arthritis", "brachyolmia-amelogenesis imperfecta syndrome", "rheumatoid vasculitis", "myosclerosis", "juvenile arthritis due to defect in LACC1"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 ---
 
 # Celecoxib

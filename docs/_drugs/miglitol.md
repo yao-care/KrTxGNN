@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Miglitol: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 2형 당뇨병 (허가 적응증 원문은 링크로만 제공되어 세부 문구는 확인하지 못함)"
 monitor_inn: "MIGLITOL"
-predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "type 1 diabetes mellitus"]
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
 ---
 
 # Miglitol

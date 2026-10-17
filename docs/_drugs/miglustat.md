@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Miglustat: 예측 신규 적응증 고셔병 (Gaucher disease) (근거 수준 L1). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적 문구를 확인할 수 없음 (근거 문헌상 경증~중등도 제1형 고셔병)"
 monitor_inn: "Miglustat"
-predicted_indications: ["Gaucher disease", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis"]
+predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis"]
 ---
 
 # Miglustat

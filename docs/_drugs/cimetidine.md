@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cimetidine: 예측 신규 적응증 지연성 전신 비만세포증 (Smouldering systemic mastocytosis) (근거 수준 L5). 기존 적응증: 위통, 속쓰림, 체함, 구역"
 monitor_inn: "CIMETIDINE"
-predicted_indications: ["Smouldering systemic mastocytosis", "active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "lymphoadenopathic mastocytosis with eosinophilia", "duodenogastric reflux", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
+predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
 ---
 
 # Cimetidine

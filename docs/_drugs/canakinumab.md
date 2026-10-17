@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Canakinumab: 예측 신규 적응증 간 경색 (Hepatic Infarction) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "CANAKINUMAB"
-predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "familial Mediterranean fever, autosomal dominant", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
+predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
 ---
 
 # Canakinumab

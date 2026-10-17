@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lorazepam: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 있음). 불안 관련 적응증은 지식 그래프 금기 정보에서 간접 확인"
 monitor_inn: "LORAZEPAM"
-predicted_indications: ["trigeminal nerve neoplasm", "insomnia (disease)", "reading seizures", "orgasm-induced seizures", "audiogenic seizures", "eating seizures", "micturation-induced seizures", "thinking seizures", "startle epilepsy", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
+predicted_indications: ["trigeminal nerve neoplasm", "reading seizures", "orgasm-induced seizures", "audiogenic seizures", "eating seizures", "micturation-induced seizures", "thinking seizures", "startle epilepsy", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
 ---
 
 # Lorazepam

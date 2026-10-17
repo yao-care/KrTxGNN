@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Phentolamine: 예측 신규 적응증 혈관 질환 (Vascular Disease) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공됨)"
 monitor_inn: "Phentolamine"
-predicted_indications: ["visceral calciphylaxis", "vascular disease", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "blue toe syndrome", "angiodysplasia of stomach", "hemangioendothelioma", "atheroembolism of kidney", "idiopathic spontaneous coronary artery dissection"]
+predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "blue toe syndrome", "angiodysplasia of stomach", "hemangioendothelioma", "atheroembolism of kidney", "idiopathic spontaneous coronary artery dissection"]
 ---
 
 # Phentolamine

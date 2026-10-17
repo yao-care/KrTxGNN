@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Etoposide: 예측 신규 적응증 고분화 태아형 폐 선암 (well-differentiated fetal adenocarcinoma of the lung) (근거 수준 L4). 기존 적응증: 항종양 치료 (허가 적응증 본문은 이번 데이터에 포함되지 않음)"
 monitor_inn: "Etoposide"
-predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma"]
+predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma"]
 ---
 
 # Etoposide

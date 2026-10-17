@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Insulin Glulisine: 예측 신규 적응증 제1형 당뇨병 (type 1 diabetes mellitus) (근거 수준 L1). 기존 적응증: 허가증에 적응증 원문 대신 허가 문서 링크만 제공되어 구체적인 문구는 확인할 수 없음 (당뇨병 혈당 조절용 인슐린)"
 monitor_inn: "INSULIN GLULISINE"
-predicted_indications: ["type 1 diabetes mellitus", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 ---
 
 # Insulin Glulisine

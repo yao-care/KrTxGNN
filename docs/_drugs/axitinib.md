@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Axitinib: 예측 신규 적응증 신경모세포종 관련 신세포암 (renal cell carcinoma associated with neuroblastoma) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 본문 확인 불가 (한국 허가 문서 참조). 문헌상 진행성 신세포암"
 monitor_inn: "Axitinib"
-predicted_indications: ["renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "liposarcoma", "renal carcinoma", "ovarian myxoid liposarcoma", "angiolipoma", "collecting duct carcinoma", "familial spontaneous pneumothorax"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
 ---
 
 # Axitinib

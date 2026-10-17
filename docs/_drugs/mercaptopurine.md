@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Mercaptopurine: 예측 신규 적응증 급성 림프모구성 백혈병 (Acute Lymphoblastic Leukemia) (근거 수준 L1). 기존 적응증: 허가 적응증 본문은 확인되지 않았고, 허가 문서 링크만 확인됨"
 monitor_inn: "Mercaptopurine"
-predicted_indications: ["acute lymphoblastic leukemia (disease)", "myeloid leukemia", "leukemia, lymphocytic, susceptibility to", "acute lymphoblastic/lymphocytic leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma"]
+predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma"]
 ---
 
 # Mercaptopurine

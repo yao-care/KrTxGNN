@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Haloperidol: 예측 신규 적응증 조현병 (Schizophrenia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않음 (허가증 원문 링크만 확인됨)"
 monitor_inn: "Haloperidol"
-predicted_indications: ["schizophrenia", "schizophreniform disorder", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "psychotic disorder", "myopia 26, X-linked, female-limited", "syndromic myopia"]
+predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 ---
 
 # Haloperidol

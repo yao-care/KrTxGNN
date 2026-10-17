@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Susoctocog Alfa: 예측 신규 적응증 혈우병 (hemophilia) (근거 수준 L3). 기존 적응증: 후천성 혈우병 A의 출혈 에피소드 치료 (허가 문서 링크만 제공되어 있어 문헌 및 기전 정보를 바탕으로 정리)"
 monitor_inn: "Susoctocog alfa"
-predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "hemophilia", "acquired coagulation factor deficiency", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor XIII deficiency", "adenosine deaminase deficiency"]
+predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor XIII deficiency", "adenosine deaminase deficiency"]
 ---
 
 # Susoctocog Alfa

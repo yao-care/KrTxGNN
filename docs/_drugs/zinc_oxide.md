@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Zinc Oxide: 예측 신규 적응증 여드름 (Acne) (근거 수준 L5). 기존 적응증: 임신 및 수유기, 발육기, 노년기의 비타민 D 보급"
 monitor_inn: "ZINC OXIDE"
-predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
+predicted_indications: ["anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
 ---
 
 # Zinc Oxide

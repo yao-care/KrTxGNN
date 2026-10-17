@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Insulin Degludec: 예측 신규 적응증 제1형 당뇨병 (type 1 diabetes mellitus) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 자료에 텍스트로 수록되어 있지 않아 확인할 수 없습니다(허가증 3건…"
 monitor_inn: "INSULIN DEGLUDEC"
-predicted_indications: ["type 1 diabetes mellitus", "autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
+predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
 ---
 
 # Insulin Degludec

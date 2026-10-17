@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Plerixafor: 예측 신규 적응증 무증상(저등급) 형질세포 골수종 (Indolent Plasma Cell Myeloma) (근거 수준 L5). 기존 적응증: 자가 조혈모세포 이식을 위한 조혈모세포 동원 (비호지킨 림프종…"
 monitor_inn: "PLERIXAFOR"
-predicted_indications: ["indolent plasma cell myeloma", "CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
+predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 ---
 
 # Plerixafor
