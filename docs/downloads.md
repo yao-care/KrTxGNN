@@ -56,7 +56,7 @@ KrTxGNN은 이 회사의 "TxGNN 약물재창출" 제품군 중 대한민국 사�
 
 TxGNN 모델 자체는 Harvard Medical School의 Zitnik Lab이 개발하여 *Nature Medicine*에
 발표했습니다. 본 플랫폼은 藥提醒科技有限公司가 해당 모델을 기반으로 구축한 운영 시스템으로,
-국가별 의약품 허가 데이터 통합, 지식 그래프와 딥러닝의 이중 예측, PubMed / ClinicalTrials
+국가별 의약품 허가 데이터 통합, 지식 그래프에 이미 기록된 용도를 제외한 딥러닝 예측, PubMed / ClinicalTrials
 근거 등급화, SMART on FHIR 전자의무기록 연동을 포함합니다.
 
 ---
