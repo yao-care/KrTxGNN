@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pertuzumab: 예측 신규 적응증 프로게스테론 수용체 양성 유방암 (Progesterone-receptor positive breast cancer) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 이번 데이터에 포함되어 있지 않음 (HER2 과발현 유방암에 사용되는 것으로 알려져…"
 monitor_inn: "Pertuzumab"
-predicted_indications: ["normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
+predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 ---
 
 # Pertuzumab
@@ -27,7 +27,7 @@ predicted_indications: ["normal breast-like subtype of breast carcinoma", "proge
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

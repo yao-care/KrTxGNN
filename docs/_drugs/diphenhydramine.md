@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Diphenhydramine: 예측 신규 적응증 주사비 결막염 (Rosacea Conjunctivitis) (근거 수준 L5). 기존 적응증: 일시적 불면증의 완화"
-monitor_inn: "DIPHENHYDRAMINE"
-predicted_indications: ["rosacea conjunctivitis"]
 ---
 
 # Diphenhydramine
@@ -27,7 +25,7 @@ predicted_indications: ["rosacea conjunctivitis"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

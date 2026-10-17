@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Primidone: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 없이 문서 링크만 제공됨)"
 monitor_inn: "PRIMIDONE"
-predicted_indications: ["trigeminal nerve neoplasm", "thinking seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures", "micturation-induced seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Primidone
@@ -27,7 +27,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "thinking seizures", "audio
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

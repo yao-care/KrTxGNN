@@ -27,7 +27,7 @@ predicted_indications: ["migraine disorder", "migraine with or without aura, sus
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

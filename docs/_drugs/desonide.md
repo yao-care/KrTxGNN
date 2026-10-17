@@ -27,7 +27,7 @@ predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

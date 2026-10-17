@@ -25,7 +25,7 @@ description: "Ethyl Loflazepate: 예측 신규 적응증 불면증 (Insomnia) (�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

@@ -25,7 +25,7 @@ description: "Sulfamethoxazole: 예측 신규 적응증 급성 전염성 결막�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

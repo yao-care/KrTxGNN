@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Ipilimumab: 예측 신규 적응증 코로이데레미아 (Choroideremia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가 문서 링크로만 제공되어 요약하지 못했습니다. 항종양 면역치료제로 사용됩니다"
 monitor_inn: "IPILIMUMAB"
-predicted_indications: ["choroideremia", "non-cutaneous melanoma"]
+predicted_indications: ["choroideremia"]
 ---
 
 # Ipilimumab
@@ -27,7 +27,7 @@ predicted_indications: ["choroideremia", "non-cutaneous melanoma"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

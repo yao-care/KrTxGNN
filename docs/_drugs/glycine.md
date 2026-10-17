@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Glycine: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 텍스트 대신 식약처 문서 링크만 수록됨)"
+monitor_inn: "GLYCINE"
+predicted_indications: ["acute laryngopharyngitis"]
 ---
 
 # Glycine
@@ -25,7 +27,7 @@ description: "Glycine: 예측 신규 적응증 비강 질환 (Nasal Cavity Disea
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

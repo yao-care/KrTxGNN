@@ -27,7 +27,7 @@ predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficie
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

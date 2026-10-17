@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Acetaminophen: 예측 신규 적응증 뇌간 조짐 편두통 (Migraine with brainstem aura) (근거 수준 L5). 기존 적응증: 감기의 제증상(콧물, 코막힘, 재채기, 인후통, 기침, 가래, 오한, 발열, 두통, 관절통, 근육통)의 완화"
-monitor_inn: "ACETAMINOPHEN"
-predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Acetaminophen
@@ -27,7 +25,7 @@ predicted_indications: ["migraine with brainstem aura"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

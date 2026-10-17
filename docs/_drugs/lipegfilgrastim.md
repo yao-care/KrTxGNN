@@ -27,7 +27,7 @@ predicted_indications: ["primary release disorder of platelets", "severe nonprol
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

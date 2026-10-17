@@ -27,7 +27,7 @@ predicted_indications: ["symptomatic form of fragile X syndrome in female carrie
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

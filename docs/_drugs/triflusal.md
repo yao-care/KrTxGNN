@@ -27,7 +27,7 @@ predicted_indications: ["factor 5 excess with spontaneous thrombosis", "heparin 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

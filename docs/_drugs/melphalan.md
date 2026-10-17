@@ -25,7 +25,7 @@ description: "Melphalan: 예측 신규 적응증 유전성 유방난소암 증�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

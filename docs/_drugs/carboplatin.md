@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Carboplatin: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 아닌 허가문서(PDF) 링크만 있어 요약할 수 없습니다. 허가사항 원문을 참조하세요"
 monitor_inn: "Carboplatin"
-predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma"]
+predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma"]
 ---
 
 # Carboplatin
@@ -27,7 +27,7 @@ predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcino
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

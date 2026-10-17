@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Interferon Beta-1B: 예측 신규 적응증 모발세포 백혈병 (Hairy Cell Leukemia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 미확인 (허가 문서 링크만 확인됨). 관련 근거 자료는 다발성 경화증 중심"
 monitor_inn: "INTERFERON BETA-1B"
-predicted_indications: ["hairy cell leukemia", "autoimmune disease of central nervous system"]
+predicted_indications: ["hairy cell leukemia"]
 ---
 
 # Interferon Beta-1B
@@ -27,7 +27,7 @@ predicted_indications: ["hairy cell leukemia", "autoimmune disease of central ne
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

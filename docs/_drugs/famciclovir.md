@@ -27,7 +27,7 @@ predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hep
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

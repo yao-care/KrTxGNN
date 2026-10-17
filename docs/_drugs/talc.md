@@ -27,7 +27,7 @@ predicted_indications: ["thrombotic disease", "exostosis", "rheumatoid arthritis
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

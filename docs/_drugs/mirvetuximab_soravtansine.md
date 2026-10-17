@@ -27,7 +27,7 @@ predicted_indications: ["antithrombin deficiency type 2", "heparin cofactor 2 de
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

@@ -25,7 +25,7 @@ description: "Magnesium Hydroxide: 예측 신규 적응증 활동성 소화성 �
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

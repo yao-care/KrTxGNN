@@ -27,7 +27,7 @@ predicted_indications: ["homozygous familial hypercholesterolemia", "hypercholes
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

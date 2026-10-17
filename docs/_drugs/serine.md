@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Serine: 예측 신규 적응증 가족성 내장 근병증 (Familial Visceral Myopathy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 문서 링크만 확보되어 적응증 본문 미확인)"
 monitor_inn: "Serine"
-predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "unclassified intestinal pseudoobstruction", "myopathic intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "angle-closure glaucoma", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection", "traumatic glaucoma"]
+predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "unclassified intestinal pseudoobstruction", "myopathic intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
 ---
 
 # Serine
@@ -27,7 +27,7 @@ predicted_indications: ["familial visceral myopathy", "intestinal obstruction", 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

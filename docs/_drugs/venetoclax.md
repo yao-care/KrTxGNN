@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Venetoclax: 예측 신규 적응증 전배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center CLL/SLL) (근거 수준 L4). 기존 적응증: 이번 보고서용으로 수집한 데이터에는 허가 적응증 본문 없이 허가증 PDF 링크만 있어 확인되지 않음 (BCL-2 억제로 CL…"
 monitor_inn: "VENETOCLAX"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "acute myeloid leukemia with t(8;21)(q22;q22) translocation"]
+predicted_indications: ["Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 ---
 
 # Venetoclax
@@ -27,7 +27,7 @@ predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small l
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

@@ -27,7 +27,7 @@ predicted_indications: ["acne (disease)", "drug-induced osteoporosis", "zinc, el
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

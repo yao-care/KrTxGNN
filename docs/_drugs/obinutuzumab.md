@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Obinutuzumab: 예측 신규 적응증 생식중심 이전 CLL/SLL (pregerminal center chronic lymphocytic leukemia/smal… (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음 (CLL 등 B세포 악성종양 허가로 알려져 있음)"
 monitor_inn: "OBINUTUZUMAB"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma"]
+predicted_indications: ["follicular lymphoma"]
 ---
 
 # Obinutuzumab
@@ -27,7 +27,7 @@ predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small l
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

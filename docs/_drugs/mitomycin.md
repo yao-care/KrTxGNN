@@ -27,7 +27,7 @@ predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteocla
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

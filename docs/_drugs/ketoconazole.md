@@ -25,7 +25,7 @@ description: "Ketoconazole: 예측 신규 적응증 여드름 (acne) (근거 수
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

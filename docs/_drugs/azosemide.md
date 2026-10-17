@@ -27,7 +27,7 @@ predicted_indications: ["hepatopulmonary syndrome", "primitive portal vein throm
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

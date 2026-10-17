@@ -27,7 +27,7 @@ predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

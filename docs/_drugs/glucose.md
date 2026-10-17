@@ -26,7 +26,7 @@ last_modified_at: 2026-10-12
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

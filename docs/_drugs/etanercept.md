@@ -27,7 +27,7 @@ predicted_indications: ["inflammatory spondylopathy", "vertebral disease"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

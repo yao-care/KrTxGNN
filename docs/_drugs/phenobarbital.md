@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Phenobarbital: 예측 신규 적응증 시각성 간질 (visual epilepsy) (근거 수준 L5). 기존 적응증: 한국 허가증에 적응증이 문서 링크로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없음 (항경련제로 알려져 있음)"
 monitor_inn: "Phenobarbital"
-predicted_indications: ["trigeminal nerve neoplasm", "eating seizures", "orgasm-induced seizures", "thinking seizures", "micturation-induced seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
 
 # Phenobarbital
@@ -27,7 +27,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "eating seizures", "orgasm-
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

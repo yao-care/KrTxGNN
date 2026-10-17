@@ -27,7 +27,7 @@ predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

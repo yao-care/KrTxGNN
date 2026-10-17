@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Brentuximab Vedotin: 예측 신규 적응증 여포성 림프종 (Follicular Lymphoma) (근거 수준 L3). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 확인 불가 (허가증 참조)"
 monitor_inn: "BRENTUXIMAB VEDOTIN"
-predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lymphoblastic/lymphocytic leukemia", "B-cell neoplasm", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
+predicted_indications: ["follicular lymphoma", "myeloid leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
 ---
 
 # Brentuximab Vedotin
@@ -27,7 +27,7 @@ predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lympho
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

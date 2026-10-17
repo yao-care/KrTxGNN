@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Ketorolac: 예측 신규 적응증 두통 질환 (Headache Disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 원문(PDF 링크)으로만 확인되어 요약하지 못했습니다. 일반적으로 급성 통증의 단기 관리에 사용됩…"
 monitor_inn: "ketorolac"
-predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia"]
 ---
 
 # Ketorolac
@@ -27,7 +27,7 @@ predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigemin
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

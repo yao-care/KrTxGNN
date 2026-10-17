@@ -25,7 +25,7 @@ description: "Teriflunomide: 예측 신규 적응증 재발 완화형 다발성 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

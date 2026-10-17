@@ -27,7 +27,7 @@ predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

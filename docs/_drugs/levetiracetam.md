@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levetiracetam: 예측 신규 적응증 시각 유발 간질 (Visual epilepsy) (근거 수준 L1). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 문구는 확인되지 않음 (항경련제로 사용)"
 monitor_inn: "LEVETIRACETAM"
-predicted_indications: ["visual epilepsy", "thinking seizures", "eating seizures", "audiogenic seizures", "micturation-induced seizures", "startle epilepsy", "orgasm-induced seizures", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam
@@ -27,7 +27,7 @@ predicted_indications: ["visual epilepsy", "thinking seizures", "eating seizures
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

@@ -27,7 +27,7 @@ predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

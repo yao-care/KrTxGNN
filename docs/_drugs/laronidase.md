@@ -25,7 +25,7 @@ description: "Laronidase: 예측 신규 적응증 골격 침범을 동반한 리
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

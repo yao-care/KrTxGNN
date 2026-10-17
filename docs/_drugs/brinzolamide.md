@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Brinzolamide: 예측 신규 적응증 원발성 유전성 녹내장 (primary hereditary glaucoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크 형태로만 확인되어 구체적인 문구는 이 보고서에 수록하지 못했습니다. 허가사항 원문 확인이 필요합니다"
-monitor_inn: "BRINZOLAMIDE"
-predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Brinzolamide
@@ -27,7 +25,7 @@ predicted_indications: ["primary hereditary glaucoma"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

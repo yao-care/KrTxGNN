@@ -75,7 +75,7 @@ Zitnik Lab이 개발하여 <em>Nature Medicine</em>에 발표한 딥러닝 모�
 </p>
 
 <blockquote class="expert-quote">
-"TxGNN은 17,080개 생의학 개체로 이루어진 지식 그래프를 통합하고 그래프 신경망을 사용하여
+"TxGNN은 17,080개 질환을 포괄하는 지식 그래프를 통합하고 그래프 신경망을 사용하여
 노드 간의 복잡한 관계를 학습함으로써, 희귀질환에 대한 약물의 잠재적 효능을 예측합니다."
 <cite>&mdash; Huang et al., Nature Medicine (2024)</cite>
 </blockquote>

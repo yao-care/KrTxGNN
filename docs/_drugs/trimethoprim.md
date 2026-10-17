@@ -25,7 +25,7 @@ description: "Trimethoprim: 예측 신규 적응증 점상 상피성 각결막�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 

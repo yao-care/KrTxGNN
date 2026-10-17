@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Budesonide: 예측 신규 적응증 아토피 피부염 (Atopic Eczema) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트는 확인되지 않음 (허가증은 7건이며, 비강 분무제와 흡입제로 시판 중)"
 monitor_inn: "BUDESONIDE"
-predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
+predicted_indications: ["atopic eczema", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 ---
 
 # Budesonide
@@ -27,7 +27,7 @@ predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "po
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 약사 평가 보고서
 
