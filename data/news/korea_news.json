@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-17T10:20:22.847718+00:00",
-  "total_fetched": 128,
-  "unique_count": 128,
-  "health_related_count": 67,
+  "fetched_at": "2026-10-17T15:12:54.213103+00:00",
+  "total_fetched": 133,
+  "unique_count": 133,
+  "health_related_count": 68,
   "news": [
+    {
+      "id": "03c7bec96f4d",
+      "title": "“여보, 아이 과자 뺏어 먹지마”…중년, 초가공식품서 손떼야 하는 이유 - 농민신문",
+      "published": "2026-10-17T10:49:00+00:00",
+      "summary": "“여보, 아이 과자 뺏어 먹지마”…중년, 초가공식품서 손떼야 하는 이유&nbsp;&nbsp;농민신문'냉동식품' 즐겨먹는 중년, 뇌 MRI 찍었더니…'놀라운 결과'&nbsp;&nbsp;한국경제\"맛있다고 자주 먹었는데\"…뇌혈관 손상 징후 40% 높게 나타난 '이 식습관'&nbsp;&nbsp;아시아경제“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제대장암, 초가공식품 섭취량과 무관?…46만명 연구서 뜻밖 결과 [건강팩트체크]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "농민신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TbWFnNEw3cnhHOUgtX09iV2JBc2lYN2NwS3VMRVFRbEpSc3VLMVBicEdZT2ctakhKT2duTS14WlJsZFFFRENrbl9BVUZkZTFaRDdaNlhiV3ZVZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "b953cb755dd4",
       "title": "손아귀 힘 약하고 걷기 힘들다면…심혈관질환 위험 높이는 근력·신체기능 저하 - 유스연합",
@@ -18,26 +30,26 @@
       ]
     },
     {
-      "id": "3b0d00255ccc",
-      "title": "뇌수막염의 3가지 위험한 합병증 - Laodong.vn",
-      "published": "2026-10-17T04:30:00+00:00",
-      "summary": "뇌수막염의 3가지 위험한 합병증&nbsp;&nbsp;Laodong.vn최근 수막구균 감염 사례가 집단 발생함에 따라, 의사들은 독감과 쉽게 혼동될 수 있는 증상에 대해 경고하고 있습니다.&nbsp;&nbsp;Vietnam.vn베트남 뇌수막구균 감염, 호찌민 학생 3명 발병·1명 사망&nbsp;&nbsp;씬짜오베트남호치민시는 히엡푸옥 지역에서 발생한 수막구균성 뇌수막염 집단 발병 사례를 긴급히 통제하고 있습니다.&nbsp;&nbsp;Vietnam.vnB군 수막구균성 질환은 얼마나 위험하며, 어떻게 예방할 수 있습니까?&nbsp;&nbsp;Vietnam.vn",
+      "id": "34821f4c1beb",
+      "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견 - AI타임스",
+      "published": "2026-10-17T09:06:23+00:00",
+      "summary": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견&nbsp;&nbsp;AI타임스",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTRtMU84cDQ1bW0zOUQ1SFE5OWh3NHZ2eHlPd1lPNjk2dXA1THhjT0pmWnBBSUI4d0lCbU5jaWJQMFJFT2JOREhfS0RVM2xzV0RwNXQtYUJWWVFHa0tBMW83UDJlTGI5anZDZ09oYXdHajlYTl9PUnNQcTdnU2pfTzlXM0hxRDVrV2c?oc=5"
+          "name": "AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WQ0REZHllQzNTUGExTS01R19hOTBVd255cVZFUmxRUzBHUG1tY1lWdElSZnFvNDdjSWJOOTRZSnpVNmxjTXUyTlNNblhZWmgtRS1OeXp1aU80YTA5TU1mY3JwMzdNb294M3c?oc=5"
         }
       ]
     },
     {
-      "id": "24dc85fcdcc4",
-      "title": "초가공식품 많이 먹으면 뇌혈관 손상 위험 40% 높아 - 세계일보",
-      "published": "2026-10-17T04:08:29+00:00",
-      "summary": "초가공식품 많이 먹으면 뇌혈관 손상 위험 40% 높아&nbsp;&nbsp;세계일보\"과자·냉동 식품 많이 먹는 중년, 무증상 뇌혈관 손상 위험\"&nbsp;&nbsp;연합뉴스TV대장암, 초가공식품 섭취량과 무관?…46만명 연구서 뜻밖 결과 [건강팩트체크]&nbsp;&nbsp;동아일보\"마트 안쪽은 위험, 난 절대 안 산다\" 의사가 경고한 3가지 식품은&nbsp;&nbsp;아시아경제“심장 망가진다”… 의사가 ‘마트에서 절대 안 산다’는 음식 3가지&nbsp;&nbsp;헬스조선",
+      "id": "3b0d00255ccc",
+      "title": "뇌수막염의 3가지 위험한 합병증 - Laodong.vn",
+      "published": "2026-10-17T04:30:00+00:00",
+      "summary": "뇌수막염의 3가지 위험한 합병증&nbsp;&nbsp;Laodong.vn",
       "sources": [
         {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xaVI4OHd2R1FXZkdwRHp0MGNST3F2MEFaem9RYUd0N3NnY2dOWWVITDEzb19Ma3JncURMYVh6M1BZZ2k0elJpOWhleDFNTnowcEdod1RSNmU3S0pwcjM1RUQ4dWJtelpMQTRj0gFUQVVfeXFMUEZxUnhQMWNfRHVFUFpuN2E1V0ZDanptY3JObVozQzNmLVUyUmpWN2pjaWk3eVZ2RDlmY0p5T183MW5oV1dEam5pVEtvUzZUMXFWdDR0?oc=5"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTRtMU84cDQ1bW0zOUQ1SFE5OWh3NHZ2eHlPd1lPNjk2dXA1THhjT0pmWnBBSUI4d0lCbU5jaWJQMFJFT2JOREhfS0RVM2xzV0RwNXQtYUJWWVFHa0tBMW83UDJlTGI5anZDZ09oYXdHajlYTl9PUnNQcTdnU2pfTzlXM0hxRDVrV2c?oc=5"
         }
       ]
     },
@@ -93,11 +105,23 @@
       "id": "e0d17b4d89bf",
       "title": "[건강포커스] \"임신 중 우울증 적극 치료해야…아기 뇌 발달에 영향 가능성\" - 연합뉴스",
       "published": "2026-10-16T22:00:02+00:00",
-      "summary": "[건강포커스] \"임신 중 우울증 적극 치료해야…아기 뇌 발달에 영향 가능성\"&nbsp;&nbsp;연합뉴스산전 우울증 치료 필요한 이유 명확해졌다…\"영아 뇌 발달에 도움\"&nbsp;&nbsp;DongA Science아기 반응에 맞춘 육아교육, 산후우울증 위험 낮춰&nbsp;&nbsp;메디컬투데이임신 중 우울증 치료, 아기 뇌 해마 발달 바꾼다 : 건강&nbsp;&nbsp;재경일보임신 중 우울증 치료, 아기 뇌 발달에 긍정적 영향 가능성&nbsp;&nbsp;메디컬투데이",
+      "summary": "[건강포커스] \"임신 중 우울증 적극 치료해야…아기 뇌 발달에 영향 가능성\"&nbsp;&nbsp;연합뉴스산전 우울증 치료 필요한 이유 명확해졌다…\"영아 뇌 발달에 도움\"&nbsp;&nbsp;DongA Science임신 중 우울증 치료, 아기 뇌 해마 발달 바꾼다 : 건강&nbsp;&nbsp;재경일보임신 중 우울증 치료, 아기 뇌 발달에 긍정적 영향 가능성&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "연합뉴스",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWSHlsUWg3RDE2b0hQSTBORndDTnhoRUdJNXNCWlJUeFR1SXJRZ1JTSndabDJxUUZESDdJNkVJR2JRRWptbjZKbE1Ycm1KMnZFTENGaHZhQm8taEXSAWBBVV95cUxPN2RFcWo2c2xCb1N3QTlHd1g1eTJTR2NxaU5pWHZsWG9FNTNERWE1dnlSdUZIREp2NURUOHRrNHlVWERsX3RZczJwY1dmSlpZYVBiTnpENFdEZFNGYmdQT2o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d2abbfa65ad",
+      "title": "나쁜곰팡이→멀쩡하던 사람 뇌까지 침투 치명률 최대 70% - 뉴스줌",
+      "published": "2026-10-16T21:39:00+00:00",
+      "summary": "나쁜곰팡이→멀쩡하던 사람 뇌까지 침투 치명률 최대 70%&nbsp;&nbsp;뉴스줌멀쩡한 사람 뇌 속으로 파고들었다…美서 ‘치사율 70%’ 곰팡이 퍼지는데 “원인 몰라”&nbsp;&nbsp;서울경제‘뇌 녹이는 곰팡이’ 감염 급증에 美 발칵…“치사율 70%인데 원인 몰라” [월드픽]&nbsp;&nbsp;서울신문\"뇌가 녹아내린다\"…원인도 모른 채 번지는 '치명률 70%' 감염병, 2년새 4배 급증 [건강잇슈]&nbsp;&nbsp;파이낸셜뉴스\"뇌 장벽 뚫고 들어가 고름 채운다\"…원인 모른 채 '치사율 70%' 곰팡이에 美 발칵&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "뉴스줌",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1LMURiRl9HVTFDQ25XZ29YQ2Fya2J3MkVnZFQtd1ZKT3d6aW5SM0l5TWJpRDhuQWM5TVVIODVYcGwxeXlo?oc=5"
         }
       ]
     },
@@ -122,18 +146,6 @@
         {
           "name": "이슈투데이",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCcVZCVmZoR2ktajhORGpmUlpBM3JPRC1DYTMzWkt0UWdoYldFdEwwNW4xNUc0VzJseC1oTFZJZVJIQjNicndOY2huNWNfOTNMYS01c3hfc3ZLYVdKRFJrYlhQeExkdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50e5039d907a",
-      "title": "면역, 우리 몸속 작은 우주를 탐험하다 - 일요서울i",
-      "published": "2026-10-16T10:30:41+00:00",
-      "summary": "면역, 우리 몸속 작은 우주를 탐험하다&nbsp;&nbsp;일요서울i",
-      "sources": [
-        {
-          "name": "일요서울i",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82NF9RZWNSZF9LZDlRRFNDTjhka2dEN21zbGpGVk9YV2ZTQlJOclh1elJtbjkxc2VtZ19ZLUt3RnVGbHhqUHA3ZHYtUHl0anFUUDdOZkxGdDN4X2liV201UlRPVnpGVkRFNTZGZkhLcw?oc=5"
         }
       ]
     },
@@ -182,6 +194,18 @@
         {
           "name": "후생신보",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pRmozUU9tOV84NlRTT0FWQXByWUZxNGVfeG5tTFNMVUptWFBXYS1rTTBOcDBNblh2NnhZZmd6Z3NHa1h4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "250a5b5c6331",
+      "title": "DGIST 등 4대 과기원, 260억 들여 초정밀 양자센서 개발 본격화 - 지디넷코리아",
+      "published": "2026-10-16T07:07:06+00:00",
+      "summary": "DGIST 등 4대 과기원, 260억 들여 초정밀 양자센서 개발 본격화&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51VmQ0ZWpRSmxIM0lIVHNXeERnWUtnZ2FXdEdzWEFvam5NY2l3Q1N4U1hfalQ5RTREaHlqYV9lckp0NUpPNW90ZWJGcDk5ZWtxNXRTS3h3?oc=5"
         }
       ]
     },
@@ -330,18 +354,6 @@
       ]
     },
     {
-      "id": "daaec95519a9",
-      "title": "‘뇌 녹이는 곰팡이’ 감염 급증에 美 발칵…“치사율 70%인데 원인 몰라” [월드픽] - 서울신문",
-      "published": "2026-10-15T23:12:54+00:00",
-      "summary": "‘뇌 녹이는 곰팡이’ 감염 급증에 美 발칵…“치사율 70%인데 원인 몰라” [월드픽]&nbsp;&nbsp;서울신문멀쩡한 사람 뇌 속으로 파고들었다…美서 ‘치사율 70%’ 곰팡이 퍼지는데 “원인 몰라”&nbsp;&nbsp;서울경제\"뇌가 녹아내린다\"…원인도 모른 채 번지는 '치명률 70%' 감염병, 2년새 4배 급증 [건강잇슈]&nbsp;&nbsp;파이낸셜뉴스\"뇌 장벽 뚫고 들어가 고름 채운다\"…원인 모른 채 '치사율 70%' 곰팡이에 美 발칵&nbsp;&nbsp;아시아경제미국 질병통제예방센터(CDC): 뇌를 침범하는 치명적인 곰팡이 감염이 미국에서 증가하고 있다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "서울신문",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmVk9yaGtLUUFrWFY5RGZMV09YNGxkZ1RYS0VWRGtFcVFxWU83UW00UDZnVjBlRFRnMEFKcDQyem5sb0VfMDVqQk42Rk0tYU55dW05MklIRm1MSU1iR3N1ODB5aEpIMFFLeEJRdWNqUVV2UXpBbW1F?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b84e1bbd324c",
       "title": "대장 용종 제거 후 내시경 추적 검사, 3년 뒤 vs 5년 뒤… 연구 결과 큰 차이 없어 - 하이닥",
       "published": "2026-10-15T23:00:00+00:00",
@@ -426,30 +438,6 @@
       ]
     },
     {
-      "id": "b9ffc5fa782b",
-      "title": "“간 나쁘면 관절염도 심해진다고?”…‘이것’ 보충하면 도움 돼 - 하이닥",
-      "published": "2026-10-15T12:00:00+00:00",
-      "summary": "“간 나쁘면 관절염도 심해진다고?”…‘이것’ 보충하면 도움 돼&nbsp;&nbsp;하이닥\"간 기능 저하되면 퇴행성관절염 촉진\"&nbsp;&nbsp;YTN 사이언스간이 아프면 관절염에 취약해져... ‘간–연골 연결고리’ 규명&nbsp;&nbsp;BRIC간이 나빠지면 관절도 아플까…'셀레늄 전달'에서 찾은 연결고리&nbsp;&nbsp;간호사신문이화여자대학교 김이준 교수팀, 서울대 김진홍 교수팀과 간질환과 퇴행성관절염 연결하는 전신 대사 기전 밝혀&nbsp;&nbsp;한국강사신문",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSUENHQnB6SjljSDBCd3QwbjROYlc1TTNiZDFrUTdFREZtOVJ4bk0zYnJHd3o3Z0FiMlNsTFlOamJIT3NYOEdwXzZxQXBmSXl4MC1jZGFGelVpcWhRWnNlRW1ZdHJfOERHa0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c9c5fef81f8",
-      "title": "브로콜리의 놀라운 효능 3가지… \"심장병 사망 위험 낮춘다\" - 하이닥",
-      "published": "2026-10-15T11:00:00+00:00",
-      "summary": "브로콜리의 놀라운 효능 3가지… \"심장병 사망 위험 낮춘다\"&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XLVdXQ2dBUGZ0anhoSnhxY1k1VG9kb2E5U2dVdkg4ZXRBclNvdlcwX2d3LXhPaDN4c1FPNVdsaVAwRjFTU0FCbFhwS3BwY09qRXM0eXpCazB3VGpPUk82cFZfcDFpRTZfRlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "01ee24a10f81",
       "title": "대박난 스킨부스터…부작용·안전성 논란 - 매일경제",
       "published": "2026-10-15T08:20:56+00:00",
@@ -458,6 +446,18 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zclB2Q3hOenJWZFBIVjBzMTVnZzlCYUhhTEZySzFzcTRnZTZVTXpJUjB0UjZsekMtWTZ4NnE1TWszNFkwNXY3My1mQWREdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "939517a93a90",
+      "title": "오펠라, 기침 치료를 잘 하면 증상 완화 이상의 효과가 있다는 연구 결과 발표 - 사람의 풍경",
+      "published": "2026-10-15T08:10:00+00:00",
+      "summary": "오펠라, 기침 치료를 잘 하면 증상 완화 이상의 효과가 있다는 연구 결과 발표&nbsp;&nbsp;사람의 풍경",
+      "sources": [
+        {
+          "name": "사람의 풍경",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xMV93bmk4TXpPTERtdTFVRFRfbzR5NEZ5VF9FdTYwRWNjRVdpNzFtQmh3RXJRU19ZWFBQN0hEaUtiaWt6UU1YZ3lsREtTbC1XOGt2M20xMlVPQmE2S3B5dnROZ2lXZw?oc=5"
         }
       ]
     },
@@ -510,6 +510,18 @@
       ]
     },
     {
+      "id": "587f08518edc",
+      "title": "'혈관 막히기 전에 꼭'…전문가 매일 먹으라는 '이 음식' 정체 [건강!톡] - 한국경제",
+      "published": "2026-10-14T21:05:46+00:00",
+      "summary": "'혈관 막히기 전에 꼭'…전문가 매일 먹으라는 '이 음식' 정체 [건강!톡]&nbsp;&nbsp;한국경제매일 먹었을 뿐인데 “나쁜 콜레스테롤 싹 잡았다”…정량 먹어야 효과 있다는 ‘이것’ [헬시타임]&nbsp;&nbsp;서울경제마트서 산 ‘끈적한 콩’의 반전… 60대 혈관 시한폭탄 싹 녹였다&nbsp;&nbsp;뉴스와“매일 한 번 꼭 먹어라”… 막힌 혈관 넓히고 콜레스테롤 싹 낮추는 ‘이것’&nbsp;&nbsp;헬스조선마트 갈 때마다 꼭 사온다는 ‘이 반찬’… 60대 혈관 청소부로 불리는 이유&nbsp;&nbsp;뉴스와",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPN0lXQjZwOVhVbUZqZTRDZGkxNFV5Vzl3WnltbTRYSGQxMjlmbEs2cHZ5aGl2TlllaTJ0WGNENDB4amg0bTlPZTc1TmpKMXJCYVg5Nmpwa3dlQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "00257b321df2",
       "title": "달콤한 바닐라 향에 숨겨진 놀라운 효능…상처 치료에도 활용된다? - VOA 한국어 홈페이지",
       "published": "2026-10-14T18:41:49+00:00",
@@ -518,6 +530,18 @@
         {
           "name": "VOA 한국어 홈페이지",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qWU1yMWJvZkFkbm1wYk1BQ1F4UzlNT3dqb0hpYlFNMVhmYi1reWhadENwZWxsYWg0YkdQU1lNenF3MVRJNWZKVlU1Q0tyS2RmOS11V3NLMGtGRlVKSTItUlRhQkVobkdSUkdRWXJKbzhKTHFMWnJGdHRUYlLSAX9BVV95cUxOYUkzUm5vSFAxaUtrVUhOaFNKWUlzNmJwN1dMVGNxOXBlWFlTaW5QeUxqM05aUmljV2RmUF81UmRvOGJJQm9vakY2Vzk5allyVkZDTmItWnpiTXJMZ1dIaHZxSTdCTUhYekNpa3p0WWZobU1zZlJJc3dBVnFmRzkw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75b132960793",
+      "title": "“신장에 돌 쌓일라”… 의사 경고한 ‘의외의 영양제’ - 헬스조선",
+      "published": "2026-10-14T16:00:00+00:00",
+      "summary": "“신장에 돌 쌓일라”… 의사 경고한 ‘의외의 영양제’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MX2VZR0lJdk05ZDdWckdCeUtSdldtMGNsMUpkclRobjV4YmFrOVV1N1EwQmlIdWRwSnYzRGpjT3Q4UE43ZHBCaHlNT08yUy14bGxOOHJ2QWhGNFZacFZLTzJrd2lBdFhzWExNbV80OExUVWR6c0ZkSmN4REhWV2c?oc=5"
         }
       ]
     },
@@ -570,18 +594,6 @@
       ]
     },
     {
-      "id": "dde252d8789b",
-      "title": "일동제약, 비타민 브랜드 ‘슈퍼라민’ 출시 - e-의료정보",
-      "published": "2026-10-14T01:30:15+00:00",
-      "summary": "일동제약, 비타민 브랜드 ‘슈퍼라민’ 출시&nbsp;&nbsp;e-의료정보일동제약, 비타민제 브랜드 ‘슈퍼라민’ 출시 - 조선비즈&nbsp;&nbsp;Chosunbiz일동제약, 활성비타민 복합제 ‘슈퍼라민’ 출시…약국 비타민 시장 공략&nbsp;&nbsp;팜이데일리일동제약, 신규 비타민제 브랜드 '슈퍼라민' 론칭&nbsp;&nbsp;뉴시스활성비타민·복합 성분으로 제품 차별화…일동제약, 슈퍼라민 론칭&nbsp;&nbsp;스트레이트뉴스",
-      "sources": [
-        {
-          "name": "e-의료정보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82OVFCdElJSEtmd0RPc3ZHZ0JBczg1UmtzTE5rcVhkaHV0M3Z3Z1M2TlBmTnhfTXJ6YU1lOXhrcWJ3UUI1am56UFV3aTIwMkpHOU92M1I3MlZEY1p1RWlBWUxxWGhPNEZ3Q0RHVtIBb0FVX3lxTE82MzhvSEYxVEZybnZpNFVxZHprYmFSa2o1b3JJdmNaM3otTU5LMk1EMHhiYnlPNkdLTWtubjV3d00zdE1oOVhxTmgyTFhnLTdWSDlwcmRTdHJVcVdBQnNwSUdpV0ZodndWU3k4d0JZTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "173309722a28",
       "title": "보약이라더니? 많이 잔 당뇨병 환자 겪은 ‘뜻밖의 신장 문제’ - 헬스조선",
       "published": "2026-10-13T21:00:00+00:00",
@@ -590,18 +602,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1POWV1S3hqM0JJUnpPcnM0VktyNEtkb213dHBvSzh5TFJDVFBHcW1rM2dJR2RMZEF1cnh5cmIyQnN4YUFnRVRqY2NqTndZY2s4TGsyOFd3SlJXcGZfWWVyX2NxejV1SE8ya1B4U3JGNXRMS09wOUl6anh2T0ZVblk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a11af17c4f2d",
-      "title": "IBS·성균관대, 지속적인 감각 자극에 반응하는 별세포의 분자 신호 경로 규명 - 뉴스체크",
-      "published": "2026-10-13T12:49:27+00:00",
-      "summary": "IBS·성균관대, 지속적인 감각 자극에 반응하는 별세포의 분자 신호 경로 규명&nbsp;&nbsp;뉴스체크뇌 활동 돕는‘별세포’, 신경세포와 혈류 반응 함께 조절한다&nbsp;&nbsp;BRIC\"책 읽고 음악 들을 때 뇌에선 무슨 일이?\"…'별세포'의 비밀 풀렸다&nbsp;&nbsp;티제이비난치성뇌질환의 혈관성기능장애 치료에 새 실마리 확인&nbsp;&nbsp;코리아헬스로그[사이언스 리포트] IBS '별세포 신경세포활동+혈류 반응 조절'·포항공대 '지상 암모니아 농도 측정'·KAIST '비틀봇 개발'·김치연 '과냉각 기술 해상운송 실증'&nbsp;&nbsp;뉴스웍스",
-      "sources": [
-        {
-          "name": "뉴스체크",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YRDdmcXFNOU9SS0FqN3RkaS1RU2x0bzJGeXVZeGl1ZzB0dEM0VmctQnBmVnBPOFowLXlkbEdDNTRBQlQ2aXhJYktxbmwzaFhybVpCV1h4bG96N2dZaTIyU2ZBRjktY0FpR09EbNIBcEFVX3lxTE5faURycWRNdU44d3AteWRFOXVXZUNvcVlJbXZkQVo5MnZWdTJrNU9rcXdLTEdUZTl2Z1J4UGV3eUwyUmxUbktKaHJGQ0VOTGpQdW5aQmptNmlJWnBJMGtYQjJoZG5XLWRUODk1UXlJdl8?oc=5"
         }
       ]
     },
@@ -618,10 +618,22 @@
       ]
     },
     {
+      "id": "ed6629023364",
+      "title": "유전자 바꿔 만든 세계 최초 '형광 갑오징어'…새끼도 형광 - DongA Science",
+      "published": "2026-10-13T07:27:00+00:00",
+      "summary": "유전자 바꿔 만든 세계 최초 '형광 갑오징어'…새끼도 형광&nbsp;&nbsp;DongA Science",
+      "sources": [
+        {
+          "name": "DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XMGhfTS1OMUEteHkxS2FSeGFEU0Q0U3FScU1HNkRIME91ZzBBYzBqYVFtT2RmaFYtSzBFVVZJeGFTbGZSc0YwVUhqNUpGaHZ3bUFJQw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ccd54de66c9c",
       "title": "A형 독감 증가, 고위험군에서 위험한 합병증 경고 - Laodong.vn",
       "published": "2026-10-13T05:54:15+00:00",
-      "summary": "A형 독감 증가, 고위험군에서 위험한 합병증 경고&nbsp;&nbsp;Laodong.vn계절이 바뀌는 시기에는 인플루엔자 A로 인한 합병증 위험에 각별히 주의해야 합니다.&nbsp;&nbsp;Vietnam.vn독감이 가족 구성원 전체에 퍼질 때, 누가 주의해야 하며 언제 의사를 만나야 할까요?&nbsp;&nbsp;Vietnam.vn고열이 없더라도 A형 독감 환자는 심각한 호흡곤란을 겪을 수 있습니다.&nbsp;&nbsp;Vietnam.vn하노이에서 A형 독감이 유행하고 있어 어린이들에게 경련 위험이 있다고 의사들이 경고했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "A형 독감 증가, 고위험군에서 위험한 합병증 경고&nbsp;&nbsp;Laodong.vn계절이 바뀌는 시기에는 인플루엔자 A로 인한 합병증 위험에 각별히 주의해야 합니다.&nbsp;&nbsp;Vietnam.vnA형 독감으로 입원하는 환자 수가 증가하고 있습니다.&nbsp;&nbsp;Vietnam.vn인플루엔자 A는 가벼운 발열만으로도 호흡 부전을 일으키고 생명을 위협할 수 있습니다.&nbsp;&nbsp;Vietnam.vn하노이에서 A형 독감이 유행하고 있어 어린이들에게 경련 위험이 있다고 의사들이 경고했습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -662,6 +674,18 @@
         {
           "name": "돼지와사람",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zbE1ScFJNc2dPQllRcFM1RzdHdmRCOTlNMWZMRnJFZlJrRVpEZVRKLTlYX1JLQ0hYOTRZM1RlTjlpWG9ldl85cVZNTU1jVWdETDNUWHY2c2g2akJqQVptbk53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d314ae37224",
+      "title": "암세포에 압력 갑자기 증가하면 전이 빨라진다···IBS, MRI로 원리 규명 - 헬로디디",
+      "published": "2026-10-12T07:50:00+00:00",
+      "summary": "암세포에 압력 갑자기 증가하면 전이 빨라진다···IBS, MRI로 원리 규명&nbsp;&nbsp;헬로디디암세포 퍼지는 이유, '압력 급증' 탓…암 전이 예측 센서 개발&nbsp;&nbsp;DongA Science암세포, 갑자기 압박받으면 더 잘 퍼지게 바뀐다&nbsp;&nbsp;조선일보암세포에 쌓이는‘압력’이 전이 촉진한다&nbsp;&nbsp;서울신문암세포에 압력 빠르게 쌓이면 전이 성향 높아진다[과학을읽다]&nbsp;&nbsp;아시아경제",
+      "sources": [
+        {
+          "name": "헬로디디",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPdS13MUp5U2JELVNMUmZjZFJxNm9rWm41RmsxT0l5TnVhSkgwUG1KRWlnRm4xOUUzWXlKUlFUWVdpQ1Z2Y0JQSjJrRlMxbHhHODR3N3hwSUoybW5uN29QMkJKUFJtQlFmMnc?oc=5"
         }
       ]
     },
@@ -714,14 +738,14 @@
       ]
     },
     {
-      "id": "1c649ebd0835",
-      "title": "IBS, MRI로 암 전이 위험 높이는 종양 내부 압력 측정 기술 개발 - 충남일보",
-      "published": "2026-10-12T05:50:22+00:00",
-      "summary": "IBS, MRI로 암 전이 위험 높이는 종양 내부 압력 측정 기술 개발&nbsp;&nbsp;충남일보암세포 퍼지는 이유, '압력 급증' 탓…암 전이 예측 센서 개발&nbsp;&nbsp;DongA Science암세포에 압력 갑자기 증가하면 전이 빨라진다···IBS, MRI로 원리 규명&nbsp;&nbsp;헬로디디암세포, 갑자기 압박받으면 더 잘 퍼지게 바뀐다&nbsp;&nbsp;조선일보암세포에 쌓이는‘압력’이 전이 촉진한다&nbsp;&nbsp;서울신문",
+      "id": "0dbbf878f9ff",
+      "title": "“간이 병들면 관절도 병든다”…간질환-퇴행성관절염 연결 전신대사 기전 밝혀 - 한국대학신문",
+      "published": "2026-10-12T05:40:00+00:00",
+      "summary": "“간이 병들면 관절도 병든다”…간질환-퇴행성관절염 연결 전신대사 기전 밝혀&nbsp;&nbsp;한국대학신문\"간 기능 저하되면 퇴행성관절염 촉진\"&nbsp;&nbsp;YTN 사이언스간이 아프면 관절염에 취약해져... ‘간–연골 연결고리’ 규명&nbsp;&nbsp;BRIC간이 나빠지면 관절도 아플까…'셀레늄 전달'에서 찾은 연결고리&nbsp;&nbsp;간호사신문“간 나쁘면 관절염도 심해진다고?”…‘이것’ 보충하면 도움 돼&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "충남일보",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tR0d2U1BYNjBjOXE2aTYwanB2ZmZGWUN1VDBYNVhyakxLUU5GMGd5Tzd1WDdzT1FqM2thSTc3ZTN0aUR1NGFzemRLTXViVXhaTlpzcHVMVnJpczZJbnFlN1UxYkVUclNsZ0ZTOE5CUnN4TlE?oc=5"
+          "name": "한국대학신문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iNEpENVZFZFgzVFR6ZE1mcWVoUloyRS12MlRuQXN5WUxHVExLR3h3LXl4VFVldWcxTWVsc3NKdzl0RjhYNHVpM0pRZENSTHZnTXVjZlRnUFF6dXlyczlYNllybl9nZw?oc=5"
         }
       ]
     },
@@ -770,18 +794,6 @@
         {
           "name": "헬로디디",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pSzJKUEwzaWtVSUt2cTRiM2JqRE1jMURuanhRTTMybElsSXR2d1BGTGV3WEpEMjdoVXhIYkJzeDBlUndUQjJDeXd0RzFqM0R5anRCQ3ptdlRYS19ZcG95SVFhbWt1ZWo5RFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a10fc1d6db0",
-      "title": "[단독]이직하려 내부 자료 유출…'근신' 그친 방사청 연구기관 - 노컷뉴스",
-      "published": "2026-10-11T20:00:00+00:00",
-      "summary": "[단독]이직하려 내부 자료 유출…'근신' 그친 방사청 연구기관&nbsp;&nbsp;노컷뉴스",
-      "sources": [
-        {
-          "name": "노컷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QTWF1ZHN2akNpYlRuc2lzdHFCekVGeTJOMkJJU1hnczdwVWx5ZzQtU0FIM2lZOGx6Z184aGswOTF5RlFQbmUtX05JaS10bm8zQXc?oc=5"
         }
       ]
     },
