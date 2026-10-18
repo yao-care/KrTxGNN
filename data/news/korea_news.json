@@ -1,15 +1,39 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-18T15:34:35.748606+00:00",
-  "total_fetched": 136,
-  "unique_count": 136,
-  "health_related_count": 64,
+  "fetched_at": "2026-10-18T20:17:37.296587+00:00",
+  "total_fetched": 134,
+  "unique_count": 134,
+  "health_related_count": 66,
   "news": [
+    {
+      "id": "033bc195818c",
+      "title": "알츠하이머 환자 뇌 신경 보호막… 약물로 다시 만드는 방법 찾았다 - 동아일보",
+      "published": "2026-10-18T15:30:00+00:00",
+      "summary": "알츠하이머 환자 뇌 신경 보호막… 약물로 다시 만드는 방법 찾았다&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TSlU5SlZLZzNPa1JMTGJZbXdkQlRrQ3JzVl9xV0pXOTh0TlZITmxMeEZSZFdwLWlHZXRSSzBVcm5vYmFobnUtc3B1b19vWUVpc0hkTTRYVFRvaE91eHZWT2dVZ0M3WldRUVJWLUtFWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "70f8943f31d0",
+      "title": "국내 초미세먼지·오존 오염, 노년층 파킨슨병 위험 높인다 - 강찬수의 에코파일",
+      "published": "2026-10-18T11:27:47+00:00",
+      "summary": "국내 초미세먼지·오존 오염, 노년층 파킨슨병 위험 높인다&nbsp;&nbsp;강찬수의 에코파일",
+      "sources": [
+        {
+          "name": "강찬수의 에코파일",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQaWZNY0trQlkzMXdjZUFMX2NPV0tVaTNVLXI3dC1DdkRiV1Zfcm5LUG1HM2MzMHF5c0hBUjFwdTJwbmJqdXVUajFrQm5qOEE1ekx5eUVlV0pta0E?oc=5"
+        }
+      ]
+    },
     {
       "id": "f3a4b1dadf2c",
       "title": "뇌수막구균은 빠르게 진행될 수 있으므로 방심해서는 안 됩니다 - Laodong.vn",
       "published": "2026-10-18T08:03:56+00:00",
-      "summary": "뇌수막구균은 빠르게 진행될 수 있으므로 방심해서는 안 됩니다&nbsp;&nbsp;Laodong.vn수막구균성 뇌수막염으로 학생 사망 발생: 긴급 조치 필요.&nbsp;&nbsp;Vietnam.vn호치민시에서 학교 내 수막구균성 질환 환자가 네 번째로 발생했습니다.&nbsp;&nbsp;Vietnam.vn수막구균성 질환: 조용한 살인자, 그리고 시간과의 싸움.&nbsp;&nbsp;Vietnam.vn최근 수막구균 감염 사례가 집단 발생함에 따라, 의사들은 독감과 쉽게 혼동될 수 있는 증상에 대해 경고하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "뇌수막구균은 빠르게 진행될 수 있으므로 방심해서는 안 됩니다&nbsp;&nbsp;Laodong.vn수막구균성 질환의 조기 발견과 시의적절한 치료는 심각한 합병증과 사망률을 줄이는 데 매우 중요합니다.&nbsp;&nbsp;Vietnam.vn수막구균성 뇌수막염으로 학생 사망 발생: 긴급 조치 필요.&nbsp;&nbsp;Vietnam.vn최근 수막구균 감염 사례가 집단 발생함에 따라, 의사들은 독감과 쉽게 혼동될 수 있는 증상에 대해 경고하고 있습니다.&nbsp;&nbsp;Vietnam.vn호치민시에서 학교 내 수막구균성 질환 환자가 네 번째로 발생했습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -126,34 +150,10 @@
       ]
     },
     {
-      "id": "efcf357667ca",
-      "title": "통풍 환자가 요산을 조절하는 데 도움이 되는 올바른 두부 섭취 방법 - Laodong.vn",
-      "published": "2026-10-17T09:00:00+00:00",
-      "summary": "통풍 환자가 요산을 조절하는 데 도움이 되는 올바른 두부 섭취 방법&nbsp;&nbsp;Laodong.vn\"주 1회 먹으면 심장병 위험 감소\"…전문가 권고한 '음식'&nbsp;&nbsp;한국경제“고기 대신 이거 먹었더니”…한국인 밥상 ‘최애 식재료’의 반전 효능 [헬스픽]&nbsp;&nbsp;서울신문몸에 좋은 두부…매일 한 모씩 먹으면 어떤 변화가?&nbsp;&nbsp;코메디닷컴두부·두유 자주 먹는 성인, 복부비만 적었다…콩의 대사건강 가치 주목&nbsp;&nbsp;푸드아이콘",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDdiZ2J3N3Etd016OW5td24xRDB4UUg1QXpLMktENkdneWpjc0Zua3NFZXg3elpTUnpjWGdLZ29KS3VNYXFNaVFXV2NYeWxKTjhVNFVZOHNWbUFyR0dJU3FWZnVJTjdNUTJzZURWUFhMbTRrMTVKeXZGRU5pM2NoUUFoMTBuMlkyVXYyeURndElGMkwxT3hOaXRKOS1xZkZaOXhmNVZTTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b0d00255ccc",
-      "title": "뇌수막염의 3가지 위험한 합병증 - Laodong.vn",
-      "published": "2026-10-17T04:30:00+00:00",
-      "summary": "뇌수막염의 3가지 위험한 합병증&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLTRtMU84cDQ1bW0zOUQ1SFE5OWh3NHZ2eHlPd1lPNjk2dXA1THhjT0pmWnBBSUI4d0lCbU5jaWJQMFJFT2JOREhfS0RVM2xzV0RwNXQtYUJWWVFHa0tBMW83UDJlTGI5anZDZ09oYXdHajlYTl9PUnNQcTdnU2pfTzlXM0hxRDVrV2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "24dc85fcdcc4",
       "title": "초가공식품 많이 먹으면 뇌혈관 손상 위험 40% 높아 - 세계일보",
       "published": "2026-10-17T04:08:29+00:00",
-      "summary": "초가공식품 많이 먹으면 뇌혈관 손상 위험 40% 높아&nbsp;&nbsp;세계일보“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제'냉동식품' 즐겨먹는 중년, 뇌 MRI 찍었더니…'놀라운 결과'&nbsp;&nbsp;한국경제\"과자·냉동 식품 많이 먹는 중년, 무증상 뇌혈관 손상 위험\"&nbsp;&nbsp;연합뉴스TV대장암, 초가공식품 섭취량과 무관?…46만명 연구서 뜻밖 결과 [건강팩트체크]&nbsp;&nbsp;동아일보",
+      "summary": "초가공식품 많이 먹으면 뇌혈관 손상 위험 40% 높아&nbsp;&nbsp;세계일보\"과자·냉동 식품 많이 먹는 중년, 무증상 뇌혈관 손상 위험\"&nbsp;&nbsp;연합뉴스TV“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제“나트륨·포화지방 폭탄 수준”… 영양사 지목한 ‘의외의 음식’ 4가지&nbsp;&nbsp;헬스조선'냉동식품' 즐겨먹는 중년, 뇌 MRI 찍었더니…'놀라운 결과'&nbsp;&nbsp;한국경제",
       "sources": [
         {
           "name": "세계일보",
@@ -174,10 +174,22 @@
       ]
     },
     {
+      "id": "90bd03aeeb9b",
+      "title": "임신 중 우울증 치료, 아기 뇌 해마 발달 바꾼다 : 건강 - 재경일보",
+      "published": "2026-10-17T00:00:25+00:00",
+      "summary": "임신 중 우울증 치료, 아기 뇌 해마 발달 바꾼다 : 건강&nbsp;&nbsp;재경일보[건강포커스] \"임신 중 우울증 적극 치료해야…아기 뇌 발달에 영향 가능성\"&nbsp;&nbsp;연합뉴스산전 우울증 치료 필요한 이유 명확해졌다…\"영아 뇌 발달에 도움\"&nbsp;&nbsp;DongA Science임신부 우울증 심리치료, 아기 뇌 해마 발달 5% 바꾼다 : 최신논문&nbsp;&nbsp;의약일보임신 중 우울증 치료, 아기 뇌 발달에 긍정적 영향 가능성&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "재경일보",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tR3hicjhraC1WZWU2WTdBTXpvUndoTDJENk1Ob052c3lCaXZoMVpCNTFQQ0NWY0NaTWlJbEFCSTk3V2NwUUxpcDJmRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "99d254695cfc",
       "title": "감기인 줄 알았던 영아 기침, 3~4일 안에 살펴야 할 신호 - 이데일리",
       "published": "2026-10-16T23:04:02+00:00",
-      "summary": "감기인 줄 알았던 영아 기침, 3~4일 안에 살펴야 할 신호&nbsp;&nbsp;이데일리화이자, 임산부의 날 임신부 예방접종 통한 영아RSV 하기도 질환 보호 가치 조명&nbsp;&nbsp;데일리메디팜영유아 RSV 예방 필요성 커지는데, 백신 가격 천차만별&nbsp;&nbsp;양산신문\"산후조리원 집단감염 잇따라\"… 치료제 없는 신생아 RSV, 놓치면 안 될 신호는?&nbsp;&nbsp;하이닥임신부 RSV 예방접종으로 출생 즉시 영아 보호&nbsp;&nbsp;메디칼업저버",
+      "summary": "감기인 줄 알았던 영아 기침, 3~4일 안에 살펴야 할 신호&nbsp;&nbsp;이데일리화이자, 임산부의 날 임신부 예방접종 통한 영아RSV 하기도 질환 보호 가치 조명&nbsp;&nbsp;데일리메디팜영유아 RSV 예방 필요성 커지는데, 백신 가격 천차만별&nbsp;&nbsp;양산신문\"산후조리원 집단감염 잇따라\"… 치료제 없는 신생아 RSV, 놓치면 안 될 신호는?&nbsp;&nbsp;하이닥환절기 RSV 비상…산후조리원 신생아 감염 주의보&nbsp;&nbsp;파이낸셜뉴스",
       "sources": [
         {
           "name": "이데일리",
@@ -194,18 +206,6 @@
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5weXZzYm9uNmJQaVJPcnlia21XZWdEU0E2WWFRNzJKRDFLOWp2d2R3ZjRYS09Nc3dlQmhNbXc4MDZKaGp4UXB3dEpwZzV5cmllN1d5RnBIam5FcUxxUVF0QlJvLXA1aUZaVDk4SA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0d17b4d89bf",
-      "title": "[건강포커스] \"임신 중 우울증 적극 치료해야…아기 뇌 발달에 영향 가능성\" - 연합뉴스",
-      "published": "2026-10-16T22:00:02+00:00",
-      "summary": "[건강포커스] \"임신 중 우울증 적극 치료해야…아기 뇌 발달에 영향 가능성\"&nbsp;&nbsp;연합뉴스산전 우울증 치료 필요한 이유 명확해졌다…\"영아 뇌 발달에 도움\"&nbsp;&nbsp;DongA Science임신부 우울증 심리치료, 아기 뇌 해마 발달 5% 바꾼다 : 최신논문&nbsp;&nbsp;의약일보임신 중 우울증 치료, 아기 뇌 발달에 긍정적 영향 가능성&nbsp;&nbsp;메디컬투데이임신 중 우울증 치료, 아기 뇌 해마 발달 바꾼다 : 건강&nbsp;&nbsp;재경일보",
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWSHlsUWg3RDE2b0hQSTBORndDTnhoRUdJNXNCWlJUeFR1SXJRZ1JTSndabDJxUUZESDdJNkVJR2JRRWptbjZKbE1Ycm1KMnZFTENGaHZhQm8taEXSAWBBVV95cUxPN2RFcWo2c2xCb1N3QTlHd1g1eTJTR2NxaU5pWHZsWG9FNTNERWE1dnlSdUZIREp2NURUOHRrNHlVWERsX3RZczJwY1dmSlpZYVBiTnpENFdEZFNGYmdQT2o?oc=5"
         }
       ]
     },
@@ -230,6 +230,18 @@
         {
           "name": "뉴스줌",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1LMURiRl9HVTFDQ25XZ29YQ2Fya2J3MkVnZFQtd1ZKT3d6aW5SM0l5TWJpRDhuQWM5TVVIODVYcGwxeXlo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4eaf1d8be75a",
+      "title": "\"주 1회 먹으면 심장병 위험 감소\"…전문가 권고한 '음식' - 한국경제",
+      "published": "2026-10-16T13:29:03+00:00",
+      "summary": "\"주 1회 먹으면 심장병 위험 감소\"…전문가 권고한 '음식'&nbsp;&nbsp;한국경제“고기 대신 이거 먹었더니”…한국인 밥상 ‘최애 식재료’의 반전 효능 [헬스픽]&nbsp;&nbsp;서울신문몸에 좋은 두부…매일 한 모씩 먹으면 어떤 변화가?&nbsp;&nbsp;코메디닷컴두부·두유 자주 먹는 성인, 복부비만 적었다…콩의 대사건강 가치 주목&nbsp;&nbsp;푸드아이콘뱃살 줄이고 식욕 억제까지…콩, 복부비만·대사증후군 개선 ‘과학적 입증’&nbsp;&nbsp;식품음료신문",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqWF9LdTVpZ09GNUQxRUt6dEZTdWxwVkt0VnA0ak9HZFl4V0FENVMtSlQ2c3RmRGRRU1pXXzNfR1d3NW11T0ZtNC1VM2U5Z2xYU0k5VWtHUTlDdw?oc=5"
         }
       ]
     },
@@ -474,6 +486,30 @@
       ]
     },
     {
+      "id": "18e4dbb1ad98",
+      "title": "“매일 한두 시간씩”… 55세 홍석천, 건강 위해 꼭 한다는 ‘이것’ - 헬스조선",
+      "published": "2026-10-14T18:00:00+00:00",
+      "summary": "“매일 한두 시간씩”… 55세 홍석천, 건강 위해 꼭 한다는 ‘이것’&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oMkxpd3hObEJOc1IzQlhmemdxbjVIZklSSDd5M3dIMUl4cURuZ3FrRVVJeDJtVGp1U3lXc2lDRzlaa3V3Wm8yaGNpaXdpcHRESVYwd3ViNDRTMlNDY29VQ2FPUWM4dTFLR0ozbGR0OG80eVRkWDRnblBVMGlBbjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f8f9819a9ef1",
+      "title": "\"어릴 때 운동이 평생의 건강 자산\"...유년기 운동, 평생 '운동 효율' 결정 - 프리진뉴스",
+      "published": "2026-10-14T13:16:08+00:00",
+      "summary": "\"어릴 때 운동이 평생의 건강 자산\"...유년기 운동, 평생 '운동 효율' 결정&nbsp;&nbsp;프리진뉴스",
+      "sources": [
+        {
+          "name": "프리진뉴스",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zV2NLM2NnYkJRWkI5VEJvemVMS25zVWNjWWtoSUdjeU5GWW1ZakwzVG9kdHI4QXluM0VqODRqbVVpUWZCMWlMSTdPek1FVnBWUllSa05TcFdxNkswMC13NUNvY2xsM3JYb0JIRkNlUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b21a77b0badf",
       "title": "과음에 뇌세포만 상할까… 뇌 지키던 면역세포, ‘파괴자’로 돌변 - 조선일보",
       "published": "2026-10-14T05:34:53+00:00",
@@ -537,7 +573,7 @@
       "id": "7a9a448d8ed9",
       "title": "“매일 한 번 꼭 먹어라”… 막힌 혈관 넓히고 콜레스테롤 싹 낮추는 ‘이것’ - 헬스조선",
       "published": "2026-10-13T16:00:00+00:00",
-      "summary": "“매일 한 번 꼭 먹어라”… 막힌 혈관 넓히고 콜레스테롤 싹 낮추는 ‘이것’&nbsp;&nbsp;헬스조선매일 먹었을 뿐인데 “나쁜 콜레스테롤 싹 잡았다”…정량 먹어야 효과 있다는 ‘이것’ [헬시타임]&nbsp;&nbsp;서울경제'혈관 막히기 전에 꼭'…전문가 매일 먹으라는 '이 음식' 정체 [건강!톡]&nbsp;&nbsp;한국경제마트서 산 ‘끈적한 콩’의 반전… 60대 혈관 시한폭탄 싹 녹였다&nbsp;&nbsp;뉴스와술집서 자주 보던 ‘초록 콩’, 영양제 대신 먹어도 되는 이유&nbsp;&nbsp;뉴스와",
+      "summary": "“매일 한 번 꼭 먹어라”… 막힌 혈관 넓히고 콜레스테롤 싹 낮추는 ‘이것’&nbsp;&nbsp;헬스조선매일 먹었을 뿐인데 “나쁜 콜레스테롤 싹 잡았다”…정량 먹어야 효과 있다는 ‘이것’ [헬시타임]&nbsp;&nbsp;서울경제'혈관 막히기 전에 꼭'…전문가 매일 먹으라는 '이 음식' 정체 [건강!톡]&nbsp;&nbsp;한국경제“호두·아몬드만?” 콜레스테롤 싹 낮추는 ‘뜻밖의 견과류’&nbsp;&nbsp;헬스조선콜레스테롤 낮추는 고단백 간식, 영양사들이 꼽은 1위는&nbsp;&nbsp;조세일보",
       "sources": [
         {
           "name": "헬스조선",
@@ -594,18 +630,6 @@
       ]
     },
     {
-      "id": "70f8943f31d0",
-      "title": "국내 초미세먼지·오존 오염, 노년층 파킨슨병 위험 높인다 - 강찬수의 에코파일",
-      "published": "2026-10-13T02:59:00+00:00",
-      "summary": "국내 초미세먼지·오존 오염, 노년층 파킨슨병 위험 높인다&nbsp;&nbsp;강찬수의 에코파일",
-      "sources": [
-        {
-          "name": "강찬수의 에코파일",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQaWZNY0trQlkzMXdjZUFMX2NPV0tVaTNVLXI3dC1DdkRiV1Zfcm5LUG1HM2MzMHF5c0hBUjFwdTJwbmJqdXVUajFrQm5qOEE1ekx5eUVlV0pta0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "df1ed7abb265",
       "title": "고혈압 관리로 심혈관질환 사망 연 51만여명 예방 가능 - 문화투데이",
       "published": "2026-10-13T00:03:41+00:00",
@@ -614,18 +638,6 @@
         {
           "name": "문화투데이",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OdXJEa3hYQ29EVHNReFItM3hNUUlwZ2U4eW5jNldhNUk0bHgtUDlLUXJ0M3M0N0ZQWXh0b1hGUGh2MkNLZFM2SDlFVWRqQ1ZfM19fb25MVV95NmNLVC1IbWFqNE5lb3Mt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10c3aa70b321",
-      "title": "이화여대·서울대, ‘간-연골 셀레늄 축’ 규명…간질환, 퇴행성관절염 진행 기전 밝혀 - 교수신문",
-      "published": "2026-10-12T23:36:15+00:00",
-      "summary": "이화여대·서울대, ‘간-연골 셀레늄 축’ 규명…간질환, 퇴행성관절염 진행 기전 밝혀&nbsp;&nbsp;교수신문\"간 기능 저하되면 퇴행성관절염 촉진\"&nbsp;&nbsp;YTN 사이언스간이 나빠지면 관절도 아플까…'셀레늄 전달'에서 찾은 연결고리&nbsp;&nbsp;간호사신문“간 나쁘면 관절염도 심해진다고?”…‘이것’ 보충하면 도움 돼&nbsp;&nbsp;하이닥이화여자대학교 김이준 교수팀, 서울대 김진홍 교수팀과 간질환과 퇴행성관절염 연결하는 전신 대사 기전 밝혀&nbsp;&nbsp;한국강사신문",
-      "sources": [
-        {
-          "name": "교수신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14R01iQ1V1MktCQlVGVENUcXhTNjRuUllvVlRyUGVYblA5SUp0emhSU3ZpMW1jNU5qYlNEeUNINXZXNlhORnozc3JMUERFVDR6ektxWnBjMWNKRklyX0tNcjZrYmxhdjA?oc=5"
         }
       ]
     },
@@ -657,7 +669,7 @@
       "id": "0d314ae37224",
       "title": "암세포에 압력 갑자기 증가하면 전이 빨라진다···IBS, MRI로 원리 규명 - 헬로디디",
       "published": "2026-10-12T07:50:00+00:00",
-      "summary": "암세포에 압력 갑자기 증가하면 전이 빨라진다···IBS, MRI로 원리 규명&nbsp;&nbsp;헬로디디암세포 퍼지는 이유, '압력 급증' 탓…암 전이 예측 센서 개발&nbsp;&nbsp;DongA Science암세포, 갑자기 압박받으면 더 잘 퍼지게 바뀐다&nbsp;&nbsp;조선일보암세포에 쌓이는‘압력’이 전이 촉진한다&nbsp;&nbsp;서울신문암세포 내 '압력', 전이 촉진한다...IBS, 정밀 센서 개발해 원리 규명&nbsp;&nbsp;전자신문",
+      "summary": "암세포에 압력 갑자기 증가하면 전이 빨라진다···IBS, MRI로 원리 규명&nbsp;&nbsp;헬로디디암세포 퍼지는 이유, '압력 급증' 탓…암 전이 예측 센서 개발&nbsp;&nbsp;DongA Science암세포, 갑자기 압박받으면 더 잘 퍼지게 바뀐다&nbsp;&nbsp;조선일보[쿠키과학] IBS, 암세포 전이 높이는 ‘압력 변화 속도’ 규명&nbsp;&nbsp;쿠키뉴스암세포에 쌓이는‘압력’이 전이 촉진한다&nbsp;&nbsp;서울신문",
       "sources": [
         {
           "name": "헬로디디",
@@ -722,6 +734,18 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcHo4QVZZSDF6cEh6a28ydE9SaDcya3BuNVowNFdJVW1fMl85WXgwMGhMd2NiekM4OXY0eThTYVA3cHdiUUdSVFpJTFhhZXdKTXBnYXZ0ZnNvMi1lZzlHNGtZd0lmSWUycE9CRnh6NHlhUDZEWGV2d3lQcFZsWmN0VXRqYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0dbbf878f9ff",
+      "title": "“간이 병들면 관절도 병든다”…간질환-퇴행성관절염 연결 전신대사 기전 밝혀 - 한국대학신문",
+      "published": "2026-10-12T05:40:00+00:00",
+      "summary": "“간이 병들면 관절도 병든다”…간질환-퇴행성관절염 연결 전신대사 기전 밝혀&nbsp;&nbsp;한국대학신문\"간 기능 저하되면 퇴행성관절염 촉진\"&nbsp;&nbsp;YTN 사이언스간이 아프면 관절염에 취약해져... ‘간–연골 연결고리’ 규명&nbsp;&nbsp;BRIC간이 나빠지면 관절도 아플까…'셀레늄 전달'에서 찾은 연결고리&nbsp;&nbsp;간호사신문“간 나쁘면 관절염도 심해진다고?”…‘이것’ 보충하면 도움 돼&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "한국대학신문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iNEpENVZFZFgzVFR6ZE1mcWVoUloyRS12MlRuQXN5WUxHVExLR3h3LXl4VFVldWcxTWVsc3NKdzl0RjhYNHVpM0pRZENSTHZnTXVjZlRnUFF6dXlyczlYNllybl9nZw?oc=5"
         }
       ]
     },
