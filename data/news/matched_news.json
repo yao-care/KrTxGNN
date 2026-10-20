@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-20T16:33:07.243323+00:00",
-  "total_count": 64,
+  "last_updated": "2026-10-20T21:22:54.921181+00:00",
+  "total_count": 62,
   "matched_count": 0,
   "news": [
+    {
+      "id": "b7398ebffff0",
+      "title": "뇌졸중, 목 혈관에서 시작된다?… 동맥경화 예방 돕는 식품 4가지",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "뇌졸중, 목 혈관에서 시작된다?… 동맥경화 예방 돕는 식품 4가지&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5faXNzdnJIX1FiX1M0QkNIc3pTTkJ0dDk2VnFGREJUZ2FqZFZGSmdlbktCbzlzalVYRy1JQjNqcHNDWEdJQzBEenhDYk5Rcjd1LVdYa0xYRF8yNHB2TmVMaXhzNy1pWGs3MHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3f2654610a01",
       "title": "“소변 색이 왜 이래?”…40대男 결국 사망, 검사서 ‘이 약물’ 양성 반응",
@@ -30,6 +43,19 @@
       "matched_keywords": []
     },
     {
+      "id": "3f433c9149f0",
+      "title": "\"'자연인' 보면서 감자칩, 삶의 낙인데\"...중년 뇌 MRI 찍어보니, '무증상 손상 징후' [건강잇슈]",
+      "published": "2026-10-20T10:00:00+00:00",
+      "summary": "\"'자연인' 보면서 감자칩, 삶의 낙인데\"...중년 뇌 MRI 찍어보니, '무증상 손상 징후' [건강잇슈]&nbsp;&nbsp;파이낸셜뉴스고혈압 말고도… 짜게 먹으면 악화되는 ‘의외의 질환’&nbsp;&nbsp;헬스조선“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제“당류 매우 많이 들어 있다”… 심장내과 전문의가 줄이라고 당부한 '이 음식'&nbsp;&nbsp;위키트리과자·라면 즐겨 먹는 4060, 뇌 MRI 봤더니…증상 없는 ‘손상 흔적’&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90VHZlaXZ0d3R5OWZ0cnZGaTh4ZGFVbTZfeU94Y3B1S05sbXBLWWFHQVpsX0xoV19PcFE3dld4bERLSUxNcGlGWFNLczBRdlliMnJYOFZNZndlUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c8cebc5455f3",
       "title": "치매 신약 레켐비, 한국인 데이터는 이제 시작... ‘K-LEARN’ 이끄는 강성훈 교수 인터뷰 ② [딥다이브]",
       "published": "2026-10-20T09:00:00+00:00",
@@ -38,6 +64,19 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Q25yM0ZfTEF5algwd1ZKYWtfbU85ZDczdFVGTzhnTnhMRFhqbGNNcmpZLVlZME1pV01fb3A5SS0tZjFUYURhSXk1YzV3N3d3YkJodkRfS3VUV3pmbG5hM0J3MmdfOWZ2RVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "726fdc27fec2",
+      "title": "출출해서 먹은 야식? 간은 퇴근을 못 합니다",
+      "published": "2026-10-20T08:30:01+00:00",
+      "summary": "출출해서 먹은 야식? 간은 퇴근을 못 합니다&nbsp;&nbsp;조세일보야식 습관, 간 질환 위험 최대 30%↑…간경변 위험도 28% 높아&nbsp;&nbsp;뉴시스오늘도 먹었는데 어쩌나…“저녁 식사 후 ‘이것’ 절대 먹지 마세요” 왜? [헬시타임]&nbsp;&nbsp;서울경제\"야식 먹고 바로 잠들었다간\"…무서운 연구 결과 나왔다 [이지현의 생생헬스]&nbsp;&nbsp;한국경제[먹을까? 말까?(149)] 야식 습관, 간도 지친다⋯간질환 위험 최대 30% 높아&nbsp;&nbsp;포커스온경제",
+      "sources": [
+        {
+          "name": "조세일보",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xb3NRWEkyakhaT2J4SUE0NmRVeWhVOXlZZFJtdzhZa1pNNnJ3bFRzNkRmNlpVOFJiYVBJM0syNW85a2EzN3BUMjBFS01nQkFqMUI4bG9UbXUzblVLQjhN?oc=5"
         }
       ],
       "matched_keywords": []
@@ -160,19 +199,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e604fd473a81",
-      "title": "고혈압 말고도… 짜게 먹으면 악화되는 ‘의외의 질환’",
-      "published": "2026-10-20T05:30:00+00:00",
-      "summary": "고혈압 말고도… 짜게 먹으면 악화되는 ‘의외의 질환’&nbsp;&nbsp;헬스조선“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제\"'자연인' 보면서 감자칩, 삶의 낙인데\"...중년 뇌 MRI 찍어보니, '무증상 손상 징후' [건강잇슈]&nbsp;&nbsp;파이낸셜뉴스“당류 매우 많이 들어 있다”… 심장내과 전문의가 줄이라고 당부한 '이 음식'&nbsp;&nbsp;위키트리과자·라면 즐겨 먹는 4060, 뇌 MRI 봤더니…증상 없는 ‘손상 흔적’&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSUGNnV2VtcVRUODAtNGctZ3NoWDdyOFlQMEpsZFRyMk55VXRKemV4ZmFCekdGeExmSWhEb2dQNktEV1Vzc0NEN0hqVHd3RFBRS2NCZUxlWXRkSDVtM19VbTdvb2NvN1N2YkFaVXFVZzBObEoyZHFqRWNUb2pkNTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "3949c2af44da",
       "title": "약물로 인한 피부 반응은 생명을 위협할 수 있습니다",
       "published": "2026-10-20T05:18:07+00:00",
@@ -233,19 +259,6 @@
         {
           "name": "베이비뉴스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSQXFKcXhxOXMxeTlpWFVtaTRQT3BPQzdqSHlrRGFSRTVqY1IwSlZZcFlkZUdPTFVOc2xxLXhPWTN6TDl0UVUwRG5mdmYxTjIyLTNkaVZjOHdFd2x4X0taNUhVWGhIYXpnRldGWg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3fe703fcdb25",
-      "title": "“췌장 기능 서서히 약화”… 신봉선도 꾹 참은 ‘고당질 간식’",
-      "published": "2026-10-20T01:32:51+00:00",
-      "summary": "“췌장 기능 서서히 약화”… 신봉선도 꾹 참은 ‘고당질 간식’&nbsp;&nbsp;헬스조선맨날 먹는 건데 “췌장 다 망가진다”…의사는 절대 안 먹는다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제누우면 등 아프고 살 빠진다면…‘위험 26.5배’ 췌장암 신호 5가지&nbsp;&nbsp;세계일보송재철 원장 건강 칼럼 [침묵의 장기, 췌장을 아껴쓰자.]&nbsp;&nbsp;에듀인뉴스최석재 교수 췌장암 의심 신호와 위험 식습관 경고 : 건강&nbsp;&nbsp;재경일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nYWlFS3c5MmpTNXlVVFFPR18xemV1Y2pVVUVvSC1XNEdkWURXbGUwbjdkc0RQMk9neURMSmExRTE2NGdjVjYzMHU4WVNfOEIydmlUYXJvdlA5bk5peGF3bFFSenpXUnoyc1hPQ1FuRkszWVdWOXlfWlJMbGs2MHc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -394,19 +407,6 @@
       "matched_keywords": []
     },
     {
-      "id": "52502b1a0e05",
-      "title": "뱃속에서 한 아이의 암이 다른 쌍둥이에게⋯DNA로 암세포 전파 확인",
-      "published": "2026-10-19T08:06:00+00:00",
-      "summary": "뱃속에서 한 아이의 암이 다른 쌍둥이에게⋯DNA로 암세포 전파 확인&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Qekd3Y0FadkZ0SWo5UXJITHVGTnhJVVE5TTlZLTdRTFgybmJFSGxnRVRpTUxLOHFXYmZZWHFUdDNwZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f5eb7ac53af9",
       "title": "“염증 줄고 기침 멎는다”⋯ 천식 관리에 탁월한 음식 3가지",
       "published": "2026-10-19T07:28:00+00:00",
@@ -436,24 +436,11 @@
       "id": "f1ac8b95d195",
       "title": "주 150분 운동·하루 1~2잔 이하 음주... 치매 예방 습관 5",
       "published": "2026-10-19T07:00:00+00:00",
-      "summary": "주 150분 운동·하루 1~2잔 이하 음주... 치매 예방 습관 5&nbsp;&nbsp;조세일보",
+      "summary": "주 150분 운동·하루 1~2잔 이하 음주... 치매 예방 습관 5&nbsp;&nbsp;조세일보“무거운 아령 들 필요 없다”… 고령층 근력 지키는 ‘맨몸 운동’ 가이드&nbsp;&nbsp;헬스조선“이대로 그냥 두면 절대 안 돼”…나이 먹고 ‘이 습관’ 못 고치면 후회하는 이유 [헬시타임]&nbsp;&nbsp;서울경제‘초기 노쇠’ 단계에 근력 운동·영양 개선·질환 관리하면 도움&nbsp;&nbsp;부산일보걷기만 하면 충분할까…치매 예방 위한 노년기 운동, 근력·균형도 챙겨야&nbsp;&nbsp;스포츠월드",
       "sources": [
         {
           "name": "조세일보",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yTjlKNXE0dmFxZmsya1ZRVjY4Wl9Gc3JVbXc0UGQxR0xzRGVoRGEwS1BGMEhRTTR4c3pSZExFTTdFLUgyNTBTZi1XemRkSXplLTB2amI4WS0zdXZqZzJv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "26a651268a8b",
-      "title": "[암 생활정보 심층분석] 대장암 항암 끝났는데 손발 저림은 계속…치료 후에도 신경병증 관리 필요",
-      "published": "2026-10-19T06:20:52+00:00",
-      "summary": "[암 생활정보 심층분석] 대장암 항암 끝났는데 손발 저림은 계속…치료 후에도 신경병증 관리 필요&nbsp;&nbsp;유스연합",
-      "sources": [
-        {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KQlBGWEJEaWZMVTNvdFd5TTEwdGRrekVrTzZPbzFZMFJCOTRtY1VTcnV2YnR2cDNDUG41SGEycG9QRTRXWG1iajdhby10Y21mM2k4?oc=5"
         }
       ],
       "matched_keywords": []
@@ -472,27 +459,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a9ed661fa5d3",
-      "title": "“뇌졸중, 젊다고 안심 못 한다”…美 20~54세 발생률 약 83% 증가",
-      "published": "2026-10-19T04:00:00+00:00",
-      "summary": "“뇌졸중, 젊다고 안심 못 한다”…美 20~54세 발생률 약 83% 증가&nbsp;&nbsp;하이닥",
+      "id": "69280a189b5a",
+      "title": "“뇌졸중 치료의 현재와 미래”… 세계 전문가 2500명 서울에 모인다",
+      "published": "2026-10-19T04:41:39+00:00",
+      "summary": "“뇌졸중 치료의 현재와 미래”… 세계 전문가 2500명 서울에 모인다&nbsp;&nbsp;세계일보",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBILWJSdl9SajJqblJQZE9jODYwel9CZHNWVGhXWmNFZ3B6c2FhLUdLZEpMdG5LWkR2UV81VmdYRjdmbDVQZ1R0OWdRVmFmYS16M2U3MG0weWdGT1l2QlAtejdsakFHVnJUVFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f0e9a97972ef",
-      "title": "[분당제생병원과 건강상식] ‘햇빛 비타민’ 비타민 D, 뼈 넘어 면역·만성질환 가르는 핵심 열쇠",
-      "published": "2026-10-19T01:42:25+00:00",
-      "summary": "[분당제생병원과 건강상식] ‘햇빛 비타민’ 비타민 D, 뼈 넘어 면역·만성질환 가르는 핵심 열쇠&nbsp;&nbsp;경기신문",
-      "sources": [
-        {
-          "name": "경기신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SZk8xelB6SjlXM1dRREN2dmRJQ0pUTHpMTUZoWEVzV1ZjLUNXc3paeXJQQTNMN2psaUVkQlRqQ1RGNkNvWDlJbWRzTE5MUXNNMjlpODNuejBOWWR4U3RjMHNB?oc=5"
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWcU5PMWlSbUw1MVJ2T2xJV1BNZnNxQm92OVd4Ym5xTFBINjVDZXlhOHM5ZTZSc3VFLS1ISlUtNDhYczZwZG9GM1pMaHBFYzRrMkFBR0FQX3rSAVRBVV95cUxPY0MwZzlLZXdRVS1xcEtmSTlvUVBnLTVwd2k5QjVkR2VMT2RrdFJCdll5OXBnbHdTamcwcWo4aU9pSVYtUTNXazNaNXNnTFVQbWtleU0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -589,6 +563,19 @@
       "matched_keywords": []
     },
     {
+      "id": "c2faa6055e6f",
+      "title": "엄마 뱃속에서 암이 생겼다?…DNA가 밝혀낸 쌍둥이 자매의 비극",
+      "published": "2026-10-18T00:45:52+00:00",
+      "summary": "엄마 뱃속에서 암이 생겼다?…DNA가 밝혀낸 쌍둥이 자매의 비극&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5U2N5V1BOdGR0MmVjTndicnJSekhTbUd1MlE2OXpnZDZkNFRlQ3hHRWJSZnIzcXBxbW43eFRwS3QwVV9KV1VYR282b2FJZE9TVEJtRHF5eXRKMjc2OHcwT3ZjMlp4Q2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c0d487fb1f10",
       "title": "운동하면 근육 속 노화 유전자 '멈칫' 한다",
       "published": "2026-10-18T00:04:01+00:00",
@@ -610,19 +597,6 @@
         {
           "name": "이데일리",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT1FlSjI1T3ZXdWsxV0xidG1hSlFBbWNqWkVqUnNPWFhjWkxxOUgxUUhUN0owMld3VFNrb0k4VndsOExlbE54VVJkUDNXRUZlaFE4Ml9IUHBvRGlkZmZjbkhPdnB1RnhTV0M5ZlZjd0ZwXzFVNGZjb0N4WXlEeVBLbg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7f43c3da208b",
-      "title": "“심혈관 건강에 치명적”… 40세 넘어서 하지 말아야 할 4가지",
-      "published": "2026-10-17T17:03:00+00:00",
-      "summary": "“심혈관 건강에 치명적”… 40세 넘어서 하지 말아야 할 4가지&nbsp;&nbsp;헬스조선아세안 지역의 심혈관 질환: 치료에서 예방으로의 강력한 전환이 필요합니다.&nbsp;&nbsp;Vietnam.vn손아귀 힘 약하고 걷기 힘들다면…심혈관질환 위험 높이는 근력·신체기능 저하&nbsp;&nbsp;유스연합심혈관 질환은 어릴 때부터 적극적으로 예방해야 합니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BbnFRM3dYVll4RmtYOEZ2dTYwYkpYMnYyVy1UUlRYbmx5QW9vb2tGbG9TbFlyVlhNa21MMzRxM2I1N2kySjV1WkQ4ZEdlZ2VMNzkwOE1hWU9EeXNhTnJ0S2FWblBSN3dQaUt5REVCcS1tUk5oOTFlUWRaQndTdGM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -667,6 +641,19 @@
       "matched_keywords": []
     },
     {
+      "id": "250a5b5c6331",
+      "title": "DGIST 등 4대 과기원, 260억 들여 초정밀 양자센서 개발 본격화",
+      "published": "2026-10-16T07:07:06+00:00",
+      "summary": "DGIST 등 4대 과기원, 260억 들여 초정밀 양자센서 개발 본격화&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51VmQ0ZWpRSmxIM0lIVHNXeERnWUtnZ2FXdEdzWEFvam5NY2l3Q1N4U1hfalQ5RTREaHlqYV9lckp0NUpPNW90ZWJGcDk5ZWtxNXRTS3h3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d0ab521fa546",
       "title": "성인 ADHD 있으면 치매 위험도 높아질까…18만 명 분석해 보니",
       "published": "2026-10-16T02:24:33+00:00",
@@ -680,14 +667,14 @@
       "matched_keywords": []
     },
     {
-      "id": "76c0def7a7b2",
+      "id": "2bd5571b59c3",
       "title": "\"잠들기 몇시간 전엔 먹지 마세요\"…20만명 분석'지방간·간경화 위험 30%↑",
       "published": "2026-10-16T00:45:54+00:00",
-      "summary": "\"잠들기 몇시간 전엔 먹지 마세요\"…20만명 분석'지방간·간경화 위험 30%↑&nbsp;&nbsp;시애틀코리안데일리",
+      "summary": "\"잠들기 몇시간 전엔 먹지 마세요\"…20만명 분석'지방간·간경화 위험 30%↑&nbsp;&nbsp;시애틀코리안데일리Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93Tkg2NDdaeHdUaWQtSjA3OEJBZ3gtYXppdnBhc2Y5WkZhQ0RiN1FsOGVLUVkxbFJ0S21HU21oYmdlVGlOQ1JvWFRqVUxIUnljRlRWX3AxSDNSRkUzSTdsbHVaeGxHdXAxZ0lkdXgwRWQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hLUFlbDBMQWsxb29GQnV4STF6UVJ1UXFrY2cyQ0J5ZUdxcnZnT1I3YWlYNUF6ZjFCSHVRb0dzV3gzWTdLN0F5VDFIN2lGR3NUS0tVZHZmZEZaZ001X1NxX05weUdTSXZGeXc2TWpEMA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -758,19 +745,6 @@
       "matched_keywords": []
     },
     {
-      "id": "8d91feae13c5",
-      "title": "장인의 ‘손맛’과 암묵지, AI·로봇에 전수…용접·요리·서예·수술까지 확산",
-      "published": "2026-10-15T08:10:38+00:00",
-      "summary": "장인의 ‘손맛’과 암묵지, AI·로봇에 전수…용접·요리·서예·수술까지 확산&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWW1TdnQtZWVGNGxsVHVnRkVFa2dyTHZ3MTRUcExkdE9UQktEb1gxaUVGUHdLeTE1UjlRaW1tbm1hTkM3QW1WWU11UVJHYjRMRkpZdkQtaDYzQUtfV1luOXNEQ1E2Tmk0VVBoMGM3WmE2S2p3VVhoOWZSNWE0QWJvaXduUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0043fcbb4502",
       "title": "“매일 ‘이 주스’ 마셨더니”… 대장암 위험 신호 줄었다",
       "published": "2026-10-15T07:00:00+00:00",
@@ -810,6 +784,19 @@
       "matched_keywords": []
     },
     {
+      "id": "00257b321df2",
+      "title": "달콤한 바닐라 향에 숨겨진 놀라운 효능…상처 치료에도 활용된다? - VOA 한국어 홈페이지",
+      "published": "2026-10-14T18:41:49+00:00",
+      "summary": "달콤한 바닐라 향에 숨겨진 놀라운 효능…상처 치료에도 활용된다?&nbsp;&nbsp;VOA 한국어 홈페이지",
+      "sources": [
+        {
+          "name": "VOA 한국어 홈페이지",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qWU1yMWJvZkFkbm1wYk1BQ1F4UzlNT3dqb0hpYlFNMVhmYi1reWhadENwZWxsYWg0YkdQU1lNenF3MVRJNWZKVlU1Q0tyS2RmOS11V3NLMGtGRlVKSTItUlRhQkVobkdSUkdRWXJKbzhKTHFMWnJGdHRUYlLSAX9BVV95cUxOYUkzUm5vSFAxaUtrVUhOaFNKWUlzNmJwN1dMVGNxOXBlWFlTaW5QeUxqM05aUmljV2RmUF81UmRvOGJJQm9vakY2Vzk5allyVkZDTmItWnpiTXJMZ1dIaHZxSTdCTUhYekNpa3p0WWZobU1zZlJJc3dBVnFmRzkw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f8f9819a9ef1",
       "title": "\"어릴 때 운동이 평생의 건강 자산\"...유년기 운동, 평생 '운동 효율' 결정",
       "published": "2026-10-14T13:16:08+00:00",
@@ -818,19 +805,6 @@
         {
           "name": "프리진뉴스",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zV2NLM2NnYkJRWkI5VEJvemVMS25zVWNjWWtoSUdjeU5GWW1ZakwzVG9kdHI4QXluM0VqODRqbVVpUWZCMWlMSTdPek1FVnBWUllSa05TcFdxNkswMC13NUNvY2xsM3JYb0JIRkNlUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "be5518a9a437",
-      "title": "[단독]해킹 막는 국가 연구기관들, 서버 97%가 백신없이 운영",
-      "published": "2026-10-13T19:30:00+00:00",
-      "summary": "[단독]해킹 막는 국가 연구기관들, 서버 97%가 백신없이 운영&nbsp;&nbsp;동아일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1makwwT2ozNTNhdjJuS18yakMxbXlBNzhmb2pIbVV0QXBGT3hsdXU0bl91TDFBN3VrWUdPSlR5R2JhTXdqeXFfbGR3U2l3WFJsd0drcHpsMWJaUzI1NTk3cWtaWGh6cnctWkJsVS1DeDdPVUgwVVHSAWZBVV95cUxQLUw5eGZUc2tpTUxXLTU1bkFRX3RLd2V3QWUxYmtIXzlyWWZsVDFQQmVjVWl1clJDXzhzUzRhdXNYcEJQTWdiZi1nSXg4Wk4tZ3cwUDFvak5EaG9LQ1pUX05GZWx4OGc?oc=5"
         }
       ],
       "matched_keywords": []
