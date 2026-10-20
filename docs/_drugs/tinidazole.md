@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tinidazole: 예측 신규 적응증 폐경 후 위축성 질염 (postmenopausal atrophic vaginitis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 기재되어 있어 이 보고서에서 확인하지 못했습니다. 허가사항 확인이 필요합니다"
 monitor_inn: "TINIDAZOLE"
-predicted_indications: ["ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
+predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
 ---
 
 # Tinidazole

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-15
 description: "Guaiacol: 예측 신규 적응증 급성 후두인두염 (Acute Laryngopharyngitis) (근거 수준 L5). 기존 적응증: 설사, 체함, 묽은 변, 토사"
 monitor_inn: "GUAIACOL"
-predicted_indications: ["acute laryngopharyngitis"]
+predicted_indications: ["acute laryngopharyngitis", "nasal cavity disease"]
 ---
 
 # Guaiacol

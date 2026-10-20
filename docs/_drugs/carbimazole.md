@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Carbimazole: 예측 신규 적응증 갑상선호르몬 수용체 베타 변이에 의한 갑상선호르몬 불응증 (Resistance to thyroid hormone… (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 허가 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없음 (항갑상선제)"
 monitor_inn: "CARBIMAZOLE"
-predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "neonatal thyrotoxicosis", "hyperthyroxinemia"]
 ---
 
 # Carbimazole

@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Ezetimibe: 예측 신규 적응증 고지단백혈증 (Hyperlipoproteinemia) (근거 수준 L1). 기존 적응증: 허가 적응증 원문은 문서 링크로만 제공되어 확인되지 않음 (일차 고콜레스테롤혈증 및 혼합형 고지질혈증으로 추정)"
 monitor_inn: "EZETIMIBE"
-predicted_indications: ["cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 ---
 
 # Ezetimibe

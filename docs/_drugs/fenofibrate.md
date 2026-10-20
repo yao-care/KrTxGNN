@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Fenofibrate: 예측 신규 적응증 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) (근거 수준 L4). 기존 적응증: 이상지질혈증 (허가 적응증 원문은 허가사항 PDF 참조)"
 monitor_inn: "FENOFIBRATE"
-predicted_indications: ["homozygous familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hypercholesterolemia, autosomal dominant"]
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "hypercholesterolemia, autosomal dominant"]
 ---
 
 # Fenofibrate

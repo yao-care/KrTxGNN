@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Prednisolone Acetate: 예측 신규 적응증 기생충성 결막염 (Parasitic Conjunctivitis) (근거 수준 L5). 기존 적응증: 치열·치핵의 아픔, 가려움, 부종(부기), 출혈의 일시적 완화"
 monitor_inn: "PREDNISOLONE ACETATE"
-predicted_indications: ["postinfectious vasculitis"]
+predicted_indications: ["parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
 ---
 
 # Prednisolone Acetate

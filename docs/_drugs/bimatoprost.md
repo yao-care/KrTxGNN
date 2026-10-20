@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bimatoprost: 예측 신규 적응증 탈모증 (Alopecia) — 1순위 예측은 근거 없음으로 근거가 가장 풍부한 항목 선택 (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않아 확인 불가 (허가사항 문서 참조 필요)"
 monitor_inn: "Bimatoprost"
-predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
+predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
 ---
 
 # Bimatoprost

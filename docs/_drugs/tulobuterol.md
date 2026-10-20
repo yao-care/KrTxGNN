@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tulobuterol: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L4). 기존 적응증: 기관지 천식, COPD 등 기도 폐쇄성 질환 (허가증 원문은 링크로만 제공되어 문헌 기준으로 기재)"
 monitor_inn: "TULOBUTEROL"
-predicted_indications: ["bronchitis", "obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "tracheal stenosis"]
+predicted_indications: ["bronchitis", "obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 ---
 
 # Tulobuterol

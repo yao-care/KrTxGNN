@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-15
 description: "Calcifediol: 예측 신규 적응증 비타민 D 의존성 구루병 (Vitamin D-dependent rickets) — 점수 1위는 obsolete vitamin… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에 문서 링크만 등록되어 있음)"
 monitor_inn: "CALCIFEDIOL"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis"]
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "hereditary hypophosphatemic rickets", "vitamin D-dependent rickets"]
 ---
 
 # Calcifediol

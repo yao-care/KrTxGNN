@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Agomelatine: 예측 신규 적응증 불안장애 (Anxiety Disorder) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 본문 대신 문서 링크만 등록되어 있어 확인할 수 없음 (문헌상 주요우울장애)"
 monitor_inn: "Agomelatine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "melancholia", "Ohdo syndrome and variants"]
 ---
 
 # Agomelatine

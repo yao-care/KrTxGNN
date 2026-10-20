@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tocilizumab: 예측 신규 적응증 강직성 척추염 (Ankylosing Spondylitis) (근거 수준 L5). 기존 적응증: 류마티스 관절염 등 (문헌 기준, 한국 허가 적응증 원문은 허가사항 링크로만 제공되어 확인 필요)"
 monitor_inn: "TOCILIZUMAB"
-predicted_indications: ["inflammatory spondylopathy", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
+predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "spondyloarthropathy, susceptibility to", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
 ---
 
 # Tocilizumab

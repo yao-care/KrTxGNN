@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Ethyl Loflazepate: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않아 기재할 수 없음 (허가사항 참조)"
+monitor_inn: "ETHYL LOFLAZEPATE"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Ethyl Loflazepate

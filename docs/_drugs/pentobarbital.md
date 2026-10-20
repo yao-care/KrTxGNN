@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pentobarbital: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L4). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 기재되어 있음)"
 monitor_inn: "Pentobarbital"
-predicted_indications: ["obesity disorder", "manic bipolar affective disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "sleep disorder, initiating and maintaining sleep", "obsolete hypertelorism (disease)", "major affective disorder", "frontorhiny"]
+predicted_indications: ["obesity disorder", "manic bipolar affective disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "major affective disorder", "frontorhiny"]
 ---
 
 # Pentobarbital

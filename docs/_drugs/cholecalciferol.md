@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Cholecalciferol: 예측 신규 적응증 PTH 분비 장애에 의한 가족성 고립성 부갑상선기능저하증 (familial isolated hypoparathyroidism… (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되어 적응증 본문은 확인되지 않음(일반적으로 비타민 D 결핍·보충 관련)"
 monitor_inn: "CHOLECALCIFEROL"
-predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "renal tubular acidosis"]
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
 ---
 
 # Cholecalciferol

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Alpha-Tocopherol Acetate: 예측 신규 적응증 약물유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 노년기의 비타민 E 보급과 말초혈행장애 및 갱년기 시 어깨, 목결림, 수족저림…"
 monitor_inn: "alpha-Tocopherol acetate"
-predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "craniostenosis cataract", "mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "diabetic retinopathy"]
+predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "craniostenosis cataract", "mature cataract", "immature cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "diabetic retinopathy"]
 ---
 
 # Alpha-Tocopherol Acetate

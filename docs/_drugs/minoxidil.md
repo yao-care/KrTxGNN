@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Minoxidil: 예측 신규 적응증 두피 단순 저모증 (Hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 남성형 탈모증(안드로젠탈모증)"
 monitor_inn: "Minoxidil"
-predicted_indications: ["congenital hypotrichosis milia", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis"]
 ---
 
 # Minoxidil

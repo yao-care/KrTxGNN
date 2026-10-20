@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Nizatidine: 예측 신규 적응증 활동성 소화성 궤양질환 (Active Peptic Ulcer Disease) (근거 수준 L5). 기존 적응증: 위산과다, 속쓰림, 신트림"
 monitor_inn: "NIZATIDINE"
-predicted_indications: ["duodenal obstruction", "multiple endocrine neoplasia"]
+predicted_indications: ["duodenal obstruction", "gastroduodenitis", "multiple endocrine neoplasia"]
 ---
 
 # Nizatidine

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flunitrazepam: 예측 신규 적응증 불면증 (insomnia) (근거 수준 L3). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 확인되지 않음 (불면증 치료제로 알려져 있음)"
 monitor_inn: "FLUNITRAZEPAM"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
 ---
 
 # Flunitrazepam

@@ -89,7 +89,7 @@ Zitnik Lab이 개발하여 <em>Nature Medicine</em>에 발표한 딥러닝 모�
 <tr><th>유형</th><th>출처</th><th>설명</th></tr>
 </thead>
 <tbody>
-<tr><td>AI 예측</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>Harvard 지식 그래프 예측 모델</td></tr>
+<tr><td>AI 예측</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>지식 그래프로 학습한 Harvard 그래프 신경망</td></tr>
 <tr><td>임상시험</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>글로벌 임상시험 등록 정보</td></tr>
 <tr><td>문헌</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>생의학 문헌 데이터베이스</td></tr>
 <tr><td>의약품 정보</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>약물 및 표적 데이터베이스</td></tr>

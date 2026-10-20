@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clotrimazole: 예측 신규 적응증 여드름 (Acne) (근거 수준 L5). 기존 적응증: 피부사상균, 효모 곰팡이, 기타 진균에 의한 피부진균증(백선, 어루러기, 피부칸디다증, 칸디다성 외음염 및 칸디다성 귀두염)…"
 monitor_inn: "CLOTRIMAZOLE"
-predicted_indications: ["acne (disease)"]
+predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
 ---
 
 # Clotrimazole

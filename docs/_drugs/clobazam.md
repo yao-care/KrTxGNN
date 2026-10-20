@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clobazam: 예측 신규 적응증 열성 감염 관련 간질 증후군 (Febrile Infection-Related Epilepsy Syndrome, FIRES) (근거 수준 L4). 기존 적응증: 간질 발작 치료 (허가 적응증 원문은 링크로만 제공되어 확인 필요)"
 monitor_inn: "Clobazam"
-predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
+predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
 ---
 
 # Clobazam

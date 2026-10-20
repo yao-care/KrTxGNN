@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Acetylsalicylic Acid: 예측 신규 적응증 뇌간 조짐을 동반한 편두통 (Migraine with brainstem aura) (근거 수준 L5). 기존 적응증: 심근경색, 뇌경색, 불안정형 협심증에서의 혈전 생성 억제…"
 monitor_inn: "acetylsalicylic acid"
-predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombotic disease", "thrombophilia"]
 ---
 
 # Acetylsalicylic Acid

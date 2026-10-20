@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Nadolol: 예측 신규 적응증 악성 신혈관성 고혈압 (malignant renovascular hypertension) (근거 수준 L5). 기존 적응증: 허가증에 링크만 있고 텍스트 확인 불가 (허가사항 참조 필요)"
 monitor_inn: "NADOLOL"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 ---
 
 # Nadolol

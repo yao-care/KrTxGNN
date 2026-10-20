@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Methotrexate: 예측 신규 적응증 폐모세포종 (Pulmonary Blastoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확보되지 않았고, 허가증별 원문 링크만 확인됩니다"
 monitor_inn: "METHOTREXATE"
-predicted_indications: ["pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Methotrexate

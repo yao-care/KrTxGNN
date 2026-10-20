@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Avatrombopag: 예측 신규 적응증 거대혈소판감소증… (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 내용을 확인하지 못함)"
 monitor_inn: "Avatrombopag"
-predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "dense granule disease", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "lower motor neuron syndrome with late-adult onset", "amyotrophic lateral sclerosis, susceptibility to", "Mills syndrome", "monomelic amyotrophy"]
+predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "lower motor neuron syndrome with late-adult onset", "amyotrophic lateral sclerosis, susceptibility to", "Mills syndrome", "monomelic amyotrophy"]
 ---
 
 # Avatrombopag

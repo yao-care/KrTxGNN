@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Magnesium Hydroxide: 예측 신규 적응증 활동성 소화성 궤양 (active peptic ulcer disease) (근거 수준 L3). 기존 적응증: 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질 (제품에 따라 변비, 위·십이지장궤양, 위염, 위산과다 포함)"
+monitor_inn: "MAGNESIUM HYDROXIDE"
+predicted_indications: ["gastroduodenitis", "stomach disease"]
 ---
 
 # Magnesium Hydroxide

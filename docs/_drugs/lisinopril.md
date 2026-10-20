@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lisinopril: 예측 신규 적응증 후하벽 심근경색 (posteroinferior myocardial infarction) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트 대신 허가 문서 링크만 수록됨)"
 monitor_inn: "LISINOPRIL"
-predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 ---
 
 # Lisinopril

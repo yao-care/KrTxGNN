@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lamivudine: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (Feline Acquired Immunodeficiency Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 수록되어 있지 않음(허가증 원문 링크만 확인됨)"
 monitor_inn: "LAMIVUDINE"
-predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 ---
 
 # Lamivudine

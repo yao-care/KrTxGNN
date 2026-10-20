@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vinorelbine: 예측 신규 적응증 Ewing 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조 필요)"
 monitor_inn: "Vinorelbine"
-predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "lung hilum carcinoma", "pulmonary blastoma"]
+predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
 ---
 
 # Vinorelbine

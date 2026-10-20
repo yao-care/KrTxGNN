@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Triazolam: 예측 신규 적응증 수면 개시 및 유지 장애 (sleep disorder, initiating and maintaining sleep) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 없음 (식약처 허가 문서 링크만 확인됨)"
-monitor_inn: "TRIAZOLAM"
-predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 ---
 
 # Triazolam
