@@ -15,7 +15,7 @@ nav_order: 1
 
 ## KrTxGNN 소개
 
-KrTxGNN은 [TxGNN](https://github.com/mims-harvard/TxGNN) 지식 그래프 방법을 사용하여 식품의약품안전처(MFDS) 허가 의약품의 약물재창출(drug repurposing) 가능성을 예측합니다.
+KrTxGNN은 [TxGNN](https://github.com/mims-harvard/TxGNN) 모델(딥러닝)을 사용하여 식품의약품안전처(MFDS) 허가 의약품의 약물재창출(drug repurposing) 가능성을 예측합니다.
 
 ### 데이터 출처
 
@@ -23,7 +23,7 @@ KrTxGNN은 [TxGNN](https://github.com/mims-harvard/TxGNN) 지식 그래프 방�
 |------|------|
 | **MFDS** | 식품의약품안전처 의약품 데이터 |
 | **DrugBank** | 약물-표적-질환 관계 |
-| **TxGNN** | 지식 그래프 예측 모델 |
+| **TxGNN** | 지식 그래프로 학습한 그래프 신경망 모델 |
 | **PubMed** | 문헌 근거 |
 | **ClinicalTrials.gov** | 임상시험 |
 | **CRIS** | 한국 임상연구정보서비스 |

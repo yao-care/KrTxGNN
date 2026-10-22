@@ -3,7 +3,7 @@ layout: default
 title: 방법론
 nav_order: 91
 permalink: /methodology/
-description: "KrTxGNN이 예측을 생성하고 검증하는 방법: TxGNN 지식 그래프 예측, 근거 수집, L1-L5 등급화, 의사결정 권고."
+description: "KrTxGNN이 예측을 생성하고 검증하는 방법: TxGNN 모델(딥러닝) 예측, 근거 수집, L1-L5 등급화, 의사결정 권고."
 ---
 
 # 방법론
@@ -17,13 +17,13 @@ AI 예측에서 근거 등급화까지 — 모든 후보는 등급 판정의 근
 ## 전체 파이프라인
 
 <p class="key-answer" data-question="KrTxGNN은 어떻게 예측을 생성합니까?">
-본 플랫폼은 4단계 파이프라인을 사용합니다. TxGNN 지식 그래프 모델이 잠재적인 약물&ndash;질병
+본 플랫폼은 4단계 파이프라인을 사용합니다. TxGNN 모델(딥러닝)이 잠재적인 약물&ndash;질병
 연관성을 예측하고, 예측된 각 쌍에 대해 근거를 자동으로 수집하며, 그 근거를 L1부터 L5까지
 등급화한 뒤, 최종적으로 의사결정 권고를 제시합니다.
 </p>
 
 <ol class="actionable-steps">
-<li><strong>TxGNN 예측</strong>: 지식 그래프와 그래프 신경망을 결합하여 약물&ndash;질병 관계를 예측합니다.</li>
+<li><strong>TxGNN 예측</strong>: TxGNN 모델(딥러닝: 생의학 지식 그래프로 학습한 그래프 신경망)이 약물&ndash;질병 관계를 예측합니다.</li>
 <li><strong>근거 수집</strong>: 예측된 각 쌍에 대해 ClinicalTrials.gov, PubMed, DrugBank, MFDS에서 근거를 수집합니다.</li>
 <li><strong>근거 등급화</strong>: L1부터 L5까지 등급을 부여하며, L1이 가장 강력하고(다수의 3상 RCT) L5는 모델 예측만 있는 경우입니다.</li>
 <li><strong>의사결정 권고</strong>: 근거 수준에 따라 Go, Proceed, Consider, Explore, Hold 중 하나를 제시합니다.</li>
