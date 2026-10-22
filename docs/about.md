@@ -20,7 +20,7 @@ AI로 약물재창출 근거 검증을 가속화합니다 — 예측부터 근�
 <strong>KrTxGNN</strong>은 Harvard 대학교 Zitnik Lab이 <em>Nature Medicine</em>에 발표한 TxGNN
 모델을 기반으로 구축한 약물재창출 연구 지원 플랫폼입니다. 대한민국 MFDS가 허가한 의약품의
 적응증 확대를 예측합니다. AI 예측 점수뿐만 아니라 ClinicalTrials.gov와 PubMed의 임상 근거를
-통합하여, 연구자가 각 예측의 신뢰도를 신속하게 평가할 수 있도록 합니다.
+통합하여, 연구자가 각 예측의 임상 근거 수준을 신속하게 확인할 수 있도록 합니다.
 </p>
 
 ---
