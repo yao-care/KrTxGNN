@@ -1,27 +1,27 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-23T16:42:27.256139+00:00",
-  "total_fetched": 125,
-  "unique_count": 124,
-  "health_related_count": 71,
+  "fetched_at": "2026-10-23T21:08:56.598836+00:00",
+  "total_fetched": 118,
+  "unique_count": 117,
+  "health_related_count": 68,
   "news": [
     {
-      "id": "90c62d0df8a9",
-      "title": "머리 모양이 치매 위험 가른다?… 뇌 구조로 알츠하이머 수수께끼 푸는 연구 - 시애틀코리안데일리",
-      "published": "2026-10-23T13:04:49+00:00",
-      "summary": "머리 모양이 치매 위험 가른다?… 뇌 구조로 알츠하이머 수수께끼 푸는 연구&nbsp;&nbsp;시애틀코리안데일리",
+      "id": "b6de5ad27c3a",
+      "title": "“차 하루 몇 잔 마실까?”…‘이만큼’ 마신 사람들, 혈관질환 위험 가장 낮아 - 코메디닷컴",
+      "published": "2026-10-23T16:04:00+00:00",
+      "summary": "“차 하루 몇 잔 마실까?”…‘이만큼’ 마신 사람들, 혈관질환 위험 가장 낮아&nbsp;&nbsp;코메디닷컴“매일 마셨더니 혈관 깨끗해졌다”…의사들도 틈틈이 챙긴다는 ‘이 음료’ [헬시타임]&nbsp;&nbsp;서울경제“혈관을 깨끗하고 탄력 있게”… 틈틈이 마시면 좋은 ‘항산화 음료’&nbsp;&nbsp;헬스조선차 즐겨 마시면 혈관질환 위험 낮다…“너무 뜨겁게 마시면 오히려 위험”&nbsp;&nbsp;하이닥차 마시는 습관, 심혈관질환 예방에 도움될까&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90UEZTSFRiUDVtaUdmNDNzUmdZZjdFWHMybEVyVFQtbzcxWE56eHFBLXZnTXc0c01WUUpJWk1oUFhFZ0VUQk52Y3JMaTdRN2ViQnF5bHROODJzZ2pxbnZSaVlINkpFOFdralFNV2ZZTm3SAXNBVV95cUxQS0FSWjRGbWhGOFo1YUJRMWtac0lmMklEbDNZYTVKWDVvSDFQNTRMY1R5cVhuMEQwTHNyWW5JRXdDcHZSYjBLbXQtdF9BS3o3MkF1R25USFpuZWRxbnBQckZ0MmlqQi1hbVRlb2h1V1FwcEo0?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE50RkFPS1VHWFJWN0NNb29rX0hydFFueDhrN1kyT3ZRTEJkR1RlTWNMNW9jLUlkMFZqbzhwdTV1RnpFdw?oc=5"
         }
       ]
     },
     {
       "id": "38cf326558e4",
       "title": "면역세포가 못 찾던 연골육종, ‘표적’ 심어 면역세포 눈앞으로 - 보도자료 - 뉴스 - 서울대 소식 - 서울대학교",
-      "published": "2026-10-23T12:18:50+00:00",
-      "summary": "면역세포가 못 찾던 연골육종, ‘표적’ 심어 면역세포 눈앞으로 - 보도자료 - 뉴스 - 서울대 소식&nbsp;&nbsp;서울대학교\"한쪽에 주사 꽂았더니 반대편 암까지 녹아내려\"…'생존율 30%' 난치암 뚫어낸 반전[과학을읽다]&nbsp;&nbsp;아시아경제표적 없어 못 잡던 난치성 암… 암세포에 '표적' 심어 치료길 열었다&nbsp;&nbsp;파이낸셜뉴스이화여대-서울대 공동연구팀, 유전자 회로로 표적 만들고 면역억제 인자 차단해 원격 종양까지 치료 방법 제시&nbsp;&nbsp;Usline(유스라인)공격성 골육종 새 치료 표적 발견…병용요법, 전임상서 종양 성장 억제&nbsp;&nbsp;메디컬투데이",
+      "published": "2026-10-23T12:28:47+00:00",
+      "summary": "면역세포가 못 찾던 연골육종, ‘표적’ 심어 면역세포 눈앞으로 - 보도자료 - 뉴스 - 서울대 소식&nbsp;&nbsp;서울대학교난치성 암 연골육종...암세포에 표적 심어 공격!&nbsp;&nbsp;YTN 사이언스\"한쪽에 주사 꽂았더니 반대편 암까지 녹아내려\"…'생존율 30%' 난치암 뚫어낸 반전[과학을읽다]&nbsp;&nbsp;아시아경제표적 없어 못 잡던 난치성 암… 암세포에 '표적' 심어 치료길 열었다&nbsp;&nbsp;파이낸셜뉴스이화여대-서울대 공동연구팀, 유전자 회로로 표적 만들고 면역억제 인자 차단해 원격 종양까지 치료 방법 제시&nbsp;&nbsp;Usline(유스라인)",
       "sources": [
         {
           "name": "서울대학교",
@@ -66,14 +66,26 @@
       ]
     },
     {
-      "id": "55b1f5b90c5c",
-      "title": "“혈관 망가지는 지름길” 심장 보는 의사, 절대 안 먹는다는 간식 - 헬스조선",
-      "published": "2026-10-23T03:30:00+00:00",
-      "summary": "“혈관 망가지는 지름길” 심장 보는 의사, 절대 안 먹는다는 간식&nbsp;&nbsp;헬스조선“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제\"과자·냉동 식품 많이 먹는 중년, 무증상 뇌혈관 손상 위험\"&nbsp;&nbsp;연합뉴스TV초가공식품 ‘먹은 양’보다 ‘성분’이 대장암 위험 좌우&nbsp;&nbsp;동아일보“초가공식품 먹더라도”··· 대장암 발생률 2% 낮추는 조리법&nbsp;&nbsp;밴쿠버 조선일보",
+      "id": "b37a3445f4f2",
+      "title": "[우리 존재의 뇌과학] 약이 없다고 속수무책은 아냐 - 브레인미디어",
+      "published": "2026-10-23T06:47:00+00:00",
+      "summary": "[우리 존재의 뇌과학] 약이 없다고 속수무책은 아냐&nbsp;&nbsp;브레인미디어",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sTWxxOE1LcWZQWVc4QnNYXzRGd19sQWJ4OVcwNnVvMW13N0FlTUo2YmprLTJrOVU2NEVrUl9xOHY4V2FWSzE1M1p6aFNRN2ZOTk14SGRIbmpPcm5oMHNvdDN4WVE0bUd0UjdkYS1POXEyYXAtT0ZvYXhrRTA1dG8?oc=5"
+          "name": "브레인미디어",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80Q3NFTW1vSEJpMU03ZElqLVNKTWUzeGRkR0Z2MktlcDNCZWtXamNaUDNQZzAzcGRmejBOX2JORGdpdjlfMkNkMHJ3SXpvMFFvQUlUVG15M21QQW9L?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "950f2f09b248",
+      "title": "가축 바이러스 '샤몬다' 프랑스서 첫 인체 감염 환자 사망 - DongA Science",
+      "published": "2026-10-23T02:45:00+00:00",
+      "summary": "가축 바이러스 '샤몬다' 프랑스서 첫 인체 감염 환자 사망&nbsp;&nbsp;DongA ScienceGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uUWZ0OGw2QjVOYURvaHpvbmxnVS16VjhibWUybWxyRHR1NDR2VDdld1g2Ukc0YndPSHhBREIzd2x2eTJqeU91aURPNVp1dFRZWmVyag?oc=5"
         }
       ]
     },
@@ -86,6 +98,18 @@
         {
           "name": "바이오타임즈",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kdUQtQndscmJHeXhMeEQ2aFpfNlRBYmR5OU0zOW85U25JY1Y3WWo4ZWxLLVJNMS10UjB4eXN2VkhXMzlfS3pwSDZFMm5ZeEFHUFFXN1h2d25yWng4b29QdGptaW95dEpuY2hvYQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c80e0dd14ac8",
+      "title": "스탠퍼드대, AI로 조산 예방 약물 조합 발견…분만 지연 효과 15배, 임상시험 추진 - 인공지능신문",
+      "published": "2026-10-23T02:11:21+00:00",
+      "summary": "스탠퍼드대, AI로 조산 예방 약물 조합 발견…분만 지연 효과 15배, 임상시험 추진&nbsp;&nbsp;인공지능신문",
+      "sources": [
+        {
+          "name": "인공지능신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CY1daSVZiYWtQS1B2QjJqME01TkNJNlFIaFJwU3o2R1pWVlBWZDU2WlZpQTZCVWpNd2M0Yi1nTHhIWE96dlVsYUhjQkZlX0FBRnVLVzdyam9MeVFJVE4xc2pwazVjaE0?oc=5"
         }
       ]
     },
@@ -114,6 +138,30 @@
       ]
     },
     {
+      "id": "6db710b58874",
+      "title": "“HDL 아무리 높아도, 제 기능 안 하면 소용 없어”… ‘세 가지 상황’ 주의를 - 헬스조선",
+      "published": "2026-10-23T01:15:00+00:00",
+      "summary": "“HDL 아무리 높아도, 제 기능 안 하면 소용 없어”… ‘세 가지 상황’ 주의를&nbsp;&nbsp;헬스조선\"운동·식단으로 콜레스테롤 잡을 수 있을까?\"... 콜레스테롤 관리 생활습관 5&nbsp;&nbsp;하이닥뇌졸중 후 LDL-C 낮을수록 좋다?···\"뇌졸중 아형 따라 다르게 접근해야\"&nbsp;&nbsp;메디칼업저버‘좋은 콜레스테롤’도 일 잘해야...“HDL 기능 좋을수록 치매 위험 낮아”&nbsp;&nbsp;디멘시아뉴스매일 먹었을 뿐인데 “나쁜 콜레스테롤 싹 잡았다”…정량 먹어야 효과 있다는 ‘이것’ [헬시타임]&nbsp;&nbsp;서울경제",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42Rk9mV0hZVWVtSjc0OWdURUVyeS1XYUhkZG9MZ1E3aUwyY3cwc3RxRnFQQkVibHpoTlVqc3MtUGczbWdtczg1ZjJwV05QUlJObTZIbHJDcFpJcFgtSDFEa005cElDVEx3cG1SemZyM2pPWDJUd3JvaXd4MmdEVjg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9f3037d29fc1",
+      "title": "대상포진후신경통, 피부 발진 사라져도 이어지는 통증…조기 관리 중요 - livesnews.com",
+      "published": "2026-10-23T00:50:24+00:00",
+      "summary": "대상포진후신경통, 피부 발진 사라져도 이어지는 통증…조기 관리 중요&nbsp;&nbsp;livesnews.com대상포진에 감염된 후 수년간 후유증으로 고통받았습니다.&nbsp;&nbsp;Vietnam.vn겉보기에는 사소해 보이는 이 피부 질환은 마치 전기 충격과 같은 통증을 유발할 수 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "livesnews.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kbVF1Yl9SdVZMR0lBcmN1SVBBRFkyOWNod1ZRa1lJOU12UTU2cEhMVWJQNFp2eDZwUlQ3TTlUUHQ4cHBOYmlaR3FjS2R3VUNTenBUM3hsVjRxN1pq?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7440c3c86bb2",
       "title": "뇌세포 하나가 '초소형 컴퓨터'처럼 작동한다…중국 연구진, AI 학습 원리 뒤집을 단서 발견 - 인공지능신문",
       "published": "2026-10-23T00:40:30+00:00",
@@ -138,6 +186,18 @@
       ]
     },
     {
+      "id": "6fb28dd6413c",
+      "title": "순천향대서울병원 지영민 교수, AOCO 2026서 비만 연구 발표 - 팜뉴스",
+      "published": "2026-10-22T23:30:25+00:00",
+      "summary": "순천향대서울병원 지영민 교수, AOCO 2026서 비만 연구 발표&nbsp;&nbsp;팜뉴스\"몸무게만 보지 말자\"…질환별로 봐야 할 비만 지표 달랐다&nbsp;&nbsp;뉴스1비만은 체질량지수만 보면 된다고? 질환마다 눈여겨봐야 할 지표 달라&nbsp;&nbsp;경향신문BMI 정상인데 심근경색 위협?…120만 명 추적 관찰이 밝혀낸 반전 결과&nbsp;&nbsp;뉴데일리[이효정의 메디컬로드] 비만, BMI 하나로는 부족… 질환 따라 잣대 달리 봐야&nbsp;&nbsp;아주경제",
+      "sources": [
+        {
+          "name": "팜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5meDdOX0drMWJ1LUFyUWF1WVhLT3RlMHRPWHdrZk1YdTlHNzRuY0ljcWxHX2lpSkg3WW5EVmlVeE5vNE9xMG5sSTRwRVBuTW5KZ3BqYVVybEctZlkzN3RJY0V1NGdGcE12RzY5NQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e5eeb3c6d997",
       "title": "[이달의 논문 리뷰]뇌혈관장벽을 여는 열쇠, 트랜스페린 수용체 셔틀: 효소치료 승인에서 알츠하이머 항체까지 - 한국경제",
       "published": "2026-10-22T23:09:50+00:00",
@@ -150,6 +210,18 @@
       ]
     },
     {
+      "id": "c5f33fedbb4c",
+      "title": "“여성 질환 예방까지?”... 두유가 주는 뜻밖의 효능 5가지 - 하이닥",
+      "published": "2026-10-22T23:00:00+00:00",
+      "summary": "“여성 질환 예방까지?”... 두유가 주는 뜻밖의 효능 5가지&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zRG56OXNLSzl3NWU1WVpzM1MyelRWS0VGUm4xV1V6T2s2MTdTMFpIRFdURkYzeDhoU0hVYWRQT2xJOHR4ZWt6ZmNSMjFoNlRHai1BZ3VyUW5tbUhVZ3lBM0t3OC02c19ER1E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e99bf9683a59",
       "title": "무질서 속 질서 유지하는 생명…세포 방향 잃고 따로 놀면 ‘암’ [.txt] - 한겨레",
       "published": "2026-10-22T22:32:00+00:00",
@@ -158,30 +230,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yZ19XcXBwUXJEemVjZDlyNkFMNU45RkJUM0tZWmZERWpvVEhFb2VXMU9NNmx3MHFDN2cyLWIyRVFtWnluOXNxZkl5aGMtMi1ST3lEaVFqX1o3dUpEdnBTdnl5Tmx0cGtH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec183f841ed8",
-      "title": "\"운동·식단으로 콜레스테롤 잡을 수 있을까?\"... 콜레스테롤 관리 생활습관 5 - 하이닥",
-      "published": "2026-10-22T22:00:00+00:00",
-      "summary": "\"운동·식단으로 콜레스테롤 잡을 수 있을까?\"... 콜레스테롤 관리 생활습관 5&nbsp;&nbsp;하이닥“HDL 아무리 높아도, 제 기능 안 하면 소용 없어”… ‘세 가지 상황’ 주의를&nbsp;&nbsp;헬스조선뇌졸중 후 LDL-C 낮을수록 좋다?···\"뇌졸중 아형 따라 다르게 접근해야\"&nbsp;&nbsp;메디칼업저버‘좋은 콜레스테롤’도 일 잘해야...“HDL 기능 좋을수록 치매 위험 낮아”&nbsp;&nbsp;디멘시아뉴스매일 먹었을 뿐인데 “나쁜 콜레스테롤 싹 잡았다”…정량 먹어야 효과 있다는 ‘이것’ [헬시타임]&nbsp;&nbsp;서울경제",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wODFDSm91TG5ZX0dZSWFQMlVLYU1QcUhOR2dDc0ZTS2c2TDh5aml3RUpyTkticG55Nk05QUl2WWJWOU9VOW9SV08wMU5RVFBsa2xJd1VDZGFOeURZQzI2TmU5NUNQY1RFc2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d4fe7d5f5931",
-      "title": "[비만지표] 분당서울대병원 순환기내과 강시혁 교수 연구팀.질환마다 눈여겨봐야 할 비만 지표 다르다 - 서울뉴스통신",
-      "published": "2026-10-22T21:55:57+00:00",
-      "summary": "[비만지표] 분당서울대병원 순환기내과 강시혁 교수 연구팀.질환마다 눈여겨봐야 할 비만 지표 다르다&nbsp;&nbsp;서울뉴스통신\"몸무게만 보지 말자\"…질환별로 봐야 할 비만 지표 달랐다&nbsp;&nbsp;뉴스1비만은 체질량지수만 보면 된다고? 질환마다 눈여겨봐야 할 지표 달라&nbsp;&nbsp;경향신문BMI 정상인데 심근경색 위협?…120만 명 추적 관찰이 밝혀낸 반전 결과&nbsp;&nbsp;뉴데일리[이효정의 메디컬로드] 비만, BMI 하나로는 부족… 질환 따라 잣대 달리 봐야&nbsp;&nbsp;아주경제",
-      "sources": [
-        {
-          "name": "서울뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQYU5WV09LVjVsOVZYMHR3NXJlZDFHbEZYWXRuWklqOEh0NHJHSGJOVWMzUzV1Z043V19xclA5YUllcmQ1UmtoMFNTSm54X3lFb3ZYN3lxTUNlRW95NWtmUVNkRG5CYUt6MmUw?oc=5"
         }
       ]
     },
@@ -225,7 +273,7 @@
       "id": "054b15e99bec",
       "title": "혈변 보이면 치핵으로 넘기지 말아야 하는 이유 - 비건뉴스",
       "published": "2026-10-22T15:00:44+00:00",
-      "summary": "혈변 보이면 치핵으로 넘기지 말아야 하는 이유&nbsp;&nbsp;비건뉴스“대장암 4기 환자도 살려낸다”… ‘원조 다학제’ 진료의 내공&nbsp;&nbsp;조선일보직장암에 걸린 53세 남성이 경고 신호를 무시한 것을 후회하고 있다.&nbsp;&nbsp;Vietnam.vn증상이 없을 때 받는 내시경이 가장 좋은 내시경입니다&nbsp;&nbsp;전라일보혈변과 배변 변화, 직장암 신호일까&nbsp;&nbsp;우먼스토리뉴스",
+      "summary": "혈변 보이면 치핵으로 넘기지 말아야 하는 이유&nbsp;&nbsp;비건뉴스“대장암 4기 환자도 살려낸다”… ‘원조 다학제’ 진료의 내공&nbsp;&nbsp;조선일보직장암에 걸린 53세 남성이 경고 신호를 무시한 것을 후회하고 있다.&nbsp;&nbsp;Vietnam.vn혈변과 배변 변화, 직장암 신호일까&nbsp;&nbsp;우먼스토리뉴스직장암 치료 후, 수술 대신 경과 관찰... \"전반적인 살의 짊 더 양호\"&nbsp;&nbsp;하이닥",
       "sources": [
         {
           "name": "비건뉴스",
@@ -342,22 +390,10 @@
       ]
     },
     {
-      "id": "6b8cdaca4a28",
-      "title": "“혈관을 깨끗하고 탄력 있게”… 틈틈이 마시면 좋은 ‘항산화 음료’ - 헬스조선",
-      "published": "2026-10-22T03:00:00+00:00",
-      "summary": "“혈관을 깨끗하고 탄력 있게”… 틈틈이 마시면 좋은 ‘항산화 음료’&nbsp;&nbsp;헬스조선“매일 마셨더니 혈관 깨끗해졌다”…의사들도 틈틈이 챙긴다는 ‘이 음료’ [헬시타임]&nbsp;&nbsp;서울경제차 즐겨 마시면 혈관질환 위험 낮다…“너무 뜨겁게 마시면 오히려 위험”&nbsp;&nbsp;하이닥“차 하루 몇 잔 마실까?”…‘이만큼’ 마신 사람들, 혈관질환 위험 가장 낮아&nbsp;&nbsp;코메디닷컴차 마시는 습관, 심혈관질환 예방에 도움될까&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJU3lvY2Ixa0M5aXc4SGkyb2llRmY3YVdTNC1LUDZfLUg4WDlFOFlQRWJxVFZiYThGRzBKZmZFS29UeGRSYWFWX0N3VnRMUzQ4QU1HOWY4TDAwVUk1TzM4eF9WQ0RSakRHLWJZaGpIWnZaOE9ZbzZtbmVoVWRrenM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2c2a0d70cca1",
       "title": "[사회] 호찌민시, 수막구균 감염 5건 확인… 학생 1명 사망, 파스퇴르연구소 경고 - 굿모닝베트남미디어",
       "published": "2026-10-22T02:58:34+00:00",
-      "summary": "[사회] 호찌민시, 수막구균 감염 5건 확인… 학생 1명 사망, 파스퇴르연구소 경고&nbsp;&nbsp;굿모닝베트남미디어경고: 간과하기 쉬운 위험한 수막구균성 질환의 징후들.&nbsp;&nbsp;Vietnam.vn호치민시에서 수막구균성 뇌수막염 발생에 대처하기 위해 의료진이 가가호호 방문하고 있습니다.&nbsp;&nbsp;Vietnam.vn수막구균성 질환의 조기 발견 및 예방에 대한 적극적인 접근.&nbsp;&nbsp;Vietnam.vn수막구균성 뇌수막염의 사전 예방.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[사회] 호찌민시, 수막구균 감염 5건 확인… 학생 1명 사망, 파스퇴르연구소 경고&nbsp;&nbsp;굿모닝베트남미디어경고: 간과하기 쉬운 위험한 수막구균성 질환의 징후들.&nbsp;&nbsp;Vietnam.vn베트남 뇌수막구균 감염, 호찌민 학생 3명 발병·1명 사망&nbsp;&nbsp;씬짜오베트남호치민시에서 수막구균성 뇌수막염 발생에 대처하기 위해 의료진이 가가호호 방문하고 있습니다.&nbsp;&nbsp;Vietnam.vn수막구균성 질환의 조기 발견 및 예방에 대한 적극적인 접근.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "굿모닝베트남미디어",
@@ -386,6 +422,18 @@
         {
           "name": "재경일보",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3dDlvNGhfYlhESS1EVzVVNklseTZ5ZWZaZF9Nb21XRWhrZ2M0WkVzS2NkWTBGcm5aZkh5cU94dWd4eVRFYUdSV29TUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e0dd38ebb58",
+      "title": "‘근육 부족’ 요즘 아이들, 성인기 대사질환 위험 커진다... 부모가 살펴야 할 신호는? - 하이닥",
+      "published": "2026-10-22T02:00:00+00:00",
+      "summary": "‘근육 부족’ 요즘 아이들, 성인기 대사질환 위험 커진다... 부모가 살펴야 할 신호는?&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WMGtPWG9qQUVPUlJnMm1oUVR5Q01KeFI4TVRONUVtVnhGMTlGMDVieWx0bDRyS2tLTWNmUzRwLUxOLUlZY1Z0RnRQQ2hwN25BZHU3bGdLSnRFTjB6VG15LXZDZ1FsTV82YVE?oc=5"
         }
       ]
     },
@@ -450,10 +498,22 @@
       ]
     },
     {
+      "id": "e2bc8bc14a73",
+      "title": "“초가공식품 먹더라도”… 대장암 발생률 2% 낮추는 조리법 - 헬스조선",
+      "published": "2026-10-21T15:30:00+00:00",
+      "summary": "“초가공식품 먹더라도”… 대장암 발생률 2% 낮추는 조리법&nbsp;&nbsp;헬스조선“심장 다 망가져, 냉장고서 당장 빼라”…의사들은 마트서 안 산다는 ‘이 음식’ [헬시타임]&nbsp;&nbsp;서울경제“혈관 망가지는 지름길” 심장 보는 의사, 절대 안 먹는다는 간식&nbsp;&nbsp;헬스조선\"과자·냉동 식품 많이 먹는 중년, 무증상 뇌혈관 손상 위험\"&nbsp;&nbsp;연합뉴스TV초가공식품 ‘먹은 양’보다 ‘성분’이 대장암 위험 좌우&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DT0lwRlRxRlNZN0xLNVJObTBxX1hubnZ0Z2NjQlMtNG0xcGZ0UnhWWjVtYjNmQ2djUXI5OVBTR0d0VVM2NV8zS3dzLTQyN2NNNmRLcVB6eUlOWjNfRzRLb2dFQnNjbVZfaUp4SWt3N1B6TFA5TFZnUzNLTkpTUzA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "78417f671c13",
       "title": "성균관대 서민아 교수 · IBS 이창준 단장 연구팀,뇌 속 별세포 감각 자극에 맞춰 신경과 혈류 함께 조절 작동 규명,알츠하이머·뇌졸중 치료길 열어 - 국민뉴스",
       "published": "2026-10-21T15:03:00+00:00",
-      "summary": "성균관대 서민아 교수 · IBS 이창준 단장 연구팀,뇌 속 별세포 감각 자극에 맞춰 신경과 혈류 함께 조절 작동 규명,알츠하이머·뇌졸중 치료길 열어&nbsp;&nbsp;국민뉴스성균관대, 감각 자극 따라 혈류 조절하는 뇌 '별세포' 원리 규명&nbsp;&nbsp;뉴시스뇌 속 별세포의 작동 원리 규명…감각 자극에 맞춰 신경과 혈류 함께 조절한다&nbsp;&nbsp;헬로티“뇌세포 보조하던 별세포의 대반란”… 성균관대·IBS 공동연구팀, 감각 자극에 따른 뇌혈류 조절 ‘4단계 분자 경로’ 세계 최초 규명&nbsp;&nbsp;스마트경제",
+      "summary": "성균관대 서민아 교수 · IBS 이창준 단장 연구팀,뇌 속 별세포 감각 자극에 맞춰 신경과 혈류 함께 조절 작동 규명,알츠하이머·뇌졸중 치료길 열어&nbsp;&nbsp;국민뉴스성균관대, 감각 자극 따라 혈류 조절하는 뇌 '별세포' 원리 규명&nbsp;&nbsp;뉴시스뇌 속 별세포의 작동 원리 규명…감각 자극에 맞춰 신경과 혈류 함께 조절한다&nbsp;&nbsp;헬로티",
       "sources": [
         {
           "name": "국민뉴스",
@@ -470,18 +530,6 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sSE9RWTc4YzlaZ0VYbmVBMDFiUGZwQzRzZURHR01WTUszWXA4UVduT1F0Ym94TDNRSmpLdnZpRzVxMUpkOFRnVGQzUGdBZGZwTDk5WllCRWZYb0YyR0I2T0sybmdiVi1Cd0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "834e2a264be2",
-      "title": "“과로인 줄 알았지”… 패혈증 숨어있는 ‘익숙한 증상’ 3가지 - 헬스조선",
-      "published": "2026-10-21T11:00:00+00:00",
-      "summary": "“과로인 줄 알았지”… 패혈증 숨어있는 ‘익숙한 증상’ 3가지&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1a25uSDRrQlNlTmFnaUthbTZCQnlSbjI0Y2NZa2JFeGpEenhySVY5d1Jaa0RXTy05bEFXbF9uNlJkYXIzWkZHR2VKSGJlc0NHbXJqMnpXYnlMTlNLb09Ia3p1X19xYmhsbXRzNTQ5dWtHMEFJcklpZ0NpYWZEdW8?oc=5"
         }
       ]
     },
@@ -546,18 +594,6 @@
       ]
     },
     {
-      "id": "59250b406e85",
-      "title": "포스파티딜세린에 아연까지… 하루 한 포로 두뇌 건강 챙긴다 - 동아일보",
-      "published": "2026-10-20T19:30:00+00:00",
-      "summary": "포스파티딜세린에 아연까지… 하루 한 포로 두뇌 건강 챙긴다&nbsp;&nbsp;동아일보노화로 저하된 기억력·인지력 동시에 개선&nbsp;&nbsp;조선일보바이오셀틱, 건강기능식품 ‘비타팜PS 브레인케어’ 출시 - 조선비즈&nbsp;&nbsp;Chosunbiz",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNVZRc1ltOHVoQXZTY0VfMzZ5Qk5oSjkzb0tUUUREZjFNTlhWRnJycEpKakRfNXE1MjRseW95dzRIR2FjWlFoU0NUZTV5VEdlMFhpaHJpenh6QTVmdnRHdU9rTDRHMEJEWTVUN2h1WdIBZkFVX3lxTE5pczBiNEV2NUg1VXRPSjZrbXhEN1JOZVllZEl6aWlKTEFsY0tfZUgtb0RiZExXZlRyMHpPR19YOFp3dFM2NURLMzQwUm1TNnh6a2JLMTVXVUdFV1VTWnRKTmdENkRxdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dad53492ecbc",
       "title": "뇌에 ‘치매 단백질’ 쌓인 노인, 매일 3000보 걸으니 나타난 ‘반전’ - 헬스조선",
       "published": "2026-10-20T14:00:00+00:00",
@@ -578,6 +614,18 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LR3U5VW9WV1pfcXoycHlSS1Y5bGIxVlVmSjFlUlJPVjdIYUx6bC1ZakRxMjZWZk9Ka0IwSzl1MFFwTEl1YWRzNGhnamZlRzVuSnRueHdGTWNIcHBFTVBZLTRvT0lWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "062121220fbf",
+      "title": "\"당뇨병 위험 낮추는 지방이 있다?\"… 주목받는 '갈색지방'의 정체 - 하이닥",
+      "published": "2026-10-20T10:00:00+00:00",
+      "summary": "\"당뇨병 위험 낮추는 지방이 있다?\"… 주목받는 '갈색지방'의 정체&nbsp;&nbsp;하이닥“넌 지방 많아서 좋겠다”…당뇨·우울증 잡아준다는 ‘착한 지방’의 정체&nbsp;&nbsp;매일경제'갈색지방' 활발한 사람, 당뇨·우울증 위험 낮았다&nbsp;&nbsp;약사공론",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WNG5kTTRjVVVmQWlqUGV4UVo3VGpQLUJfUUl0WHFTWC1UemVUSmlELXdRbUpza3JlX05fYmwwNEJmeklNSmlxUnVUNFljaEo1TlRtTkZxdW4zNUNfR3VSbEh6aUduT1Z5UUE?oc=5"
         }
       ]
     },
@@ -630,18 +678,6 @@
       ]
     },
     {
-      "id": "a4fede518265",
-      "title": "암 진단 후 뇌졸중 위험 80% 높아… “첫 3개월 특히 주의” - 헬스조선",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": "암 진단 후 뇌졸중 위험 80% 높아… “첫 3개월 특히 주의”&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CM1ZabWNydkpmamU5b1dVdERuMG1HWmItT01LeHRCdWVSOVMwV0pqRW9fNmpBR0tWS1J0VWtIeHY2bEdOdlNWZmRPMktUWGQtSVg3bTlINTE5eXRsU0lONGt6WUdKMTBNUDRIMGI5VGk2YUxPMjlNMktseHl6TUk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c68c2434a3d4",
       "title": "\"초록·핑크 별은 처음\"…백색왜성에서 발견된 뜻밖 색깔 [우주로 간다] - 지디넷코리아",
       "published": "2026-10-19T08:06:27+00:00",
@@ -678,50 +714,14 @@
       ]
     },
     {
-      "id": "a8a80d4edf1b",
-      "title": "신장에 암 생기면, ‘생각지도 못한 곳’ 아프다… 어디? - 헬스조선",
-      "published": "2026-10-19T02:08:39+00:00",
-      "summary": "신장에 암 생기면, ‘생각지도 못한 곳’ 아프다… 어디?&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XczBNdmxRV2tpOVkteXptblppTEJNQlRQbmJlWkxxM2FfTUFpdm5HZEh6S2t1VFdEOWlqalJvcFFubmdjZ2RfRnJfSlJIV3RsclJUM2MzWFpDUjFvMkc0NmhrN3dLdHkxOHVDYlNUcTJJWmVneFJrNjV4ZUlqZmM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5db743d65f2e",
-      "title": "“넌 지방 많아서 좋겠다”…당뇨·우울증 잡아준다는 ‘착한 지방’의 정체 - 매일경제",
-      "published": "2026-10-19T01:30:20+00:00",
-      "summary": "“넌 지방 많아서 좋겠다”…당뇨·우울증 잡아준다는 ‘착한 지방’의 정체&nbsp;&nbsp;매일경제\"당뇨병 위험 낮추는 지방이 있다?\"… 주목받는 '갈색지방'의 정체&nbsp;&nbsp;하이닥'갈색지방' 활발한 사람, 당뇨·우울증 위험 낮았다&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBubDhpQmZ3SDBhdDlXSEJvX0lBcHFhZTR5RnpEUWF2dnFFY21jUnlUUm5WT2xnWWNacWZNZ0lydGxlN2NfeUV2YTlJNFFZdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3414b8a15801",
       "title": "\"당뇨병약, 혈전제거술 받은 뇌경색 환자 회복에 기여\" - 사이언스타임즈",
       "published": "2026-10-18T22:00:30+00:00",
-      "summary": "\"당뇨병약, 혈전제거술 받은 뇌경색 환자 회복에 기여\"&nbsp;&nbsp;사이언스타임즈당뇨병 동반 뇌경색 환자, 당뇨병 치료제 처방 시 장애 적어&nbsp;&nbsp;세계일보혈전제거술 받은 당뇨 뇌경색 환자, 이 치료제로 일상생활 도움&nbsp;&nbsp;한국일보[의료 연구 브리프] SGLT2 억제제 처방 / 뇌경색 재발 / 용종절제술 중 출혈&nbsp;&nbsp;경기메디뉴스SGLT2 억제제, 뇌졸중 환자 기능 회복 돕는 새로운 치료 전략 제시&nbsp;&nbsp;헬스미디어뉴스",
+      "summary": "\"당뇨병약, 혈전제거술 받은 뇌경색 환자 회복에 기여\"&nbsp;&nbsp;사이언스타임즈당뇨병 동반 뇌경색 환자, 당뇨병 치료제 처방 시 장애 적어&nbsp;&nbsp;세계일보혈전제거술 받은 당뇨 뇌경색 환자, 이 치료제로 일상생활 도움&nbsp;&nbsp;한국일보[의료 연구 브리프] SGLT2 억제제 처방 / 뇌경색 재발 / 용종절제술 중 출혈&nbsp;&nbsp;경기메디뉴스SGLT2 억제제, 뇌경색 후 독립생활 65%로 끌어올려 : 최신논문&nbsp;&nbsp;의약일보",
       "sources": [
         {
           "name": "사이언스타임즈",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmNtUUlpRmh6X3IwOEFhanBtTnNBa2wzQjhlMmtXXzVrWWJ1V0hEWVdKMlFaZk9YRzFXaXdGcDFjbHNYb05pLTBkLUZXQmhGdnhhdjhwaTl3V1Ffb2drU3hMb1FLX1ItQVZJU2kxTlBPLVZWWVJaZG0teWpGcVJyanlvNFIwVXZvQms3ZHByNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "374c6f79b2f7",
-      "title": "MIT 연구진, 알츠하이머 관련 뇌 수초 손상 회복 가능성 제시 : 테크/과학 - 재경일보",
-      "published": "2026-10-18T21:55:00+00:00",
-      "summary": "MIT 연구진, 알츠하이머 관련 뇌 수초 손상 회복 가능성 제시 : 테크/과학&nbsp;&nbsp;재경일보ALS 환자의 알츠하이머병 관련 뇌 변화, 예후에도 영향 가능성&nbsp;&nbsp;메디컬투데이알츠하이머 새 원인 후보 나왔다···아밀로이드·타우 다음은 ‘유전체 접힘’&nbsp;&nbsp;더메디컬알츠하이머 환자 '망가진 신호 전달' 되살릴 열쇠 찾았다&nbsp;&nbsp;DongA Science",
-      "sources": [
-        {
-          "name": "재경일보",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wbGs2NTRHRDdkRzI4STlfT2R5MEZCOUVNWHZodzdPdEdGSGs2cjZ4WVM2LXVmSGdzRW8tUHk5UG9Ic0hQRUNmd2UtNA?oc=5"
         }
       ]
     },
@@ -746,18 +746,6 @@
         {
           "name": "강찬수의 에코파일",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FZ2hXbXY1OF9mRjV4V3pzRldPOFlpanRkOTZPWmxRQ1h3Y0Vyd2pRc2x0dzEyM3ZVdGdXVDV5Y3J6Z2Vhc1RodzZxZFJjOWplY3pyaHB3OHN3WFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25e9921d1b1b",
-      "title": "‘만병의 근원’ 미세 염증… 앉아 있는 시간을 줄여라[베스트 닥터의 베스트 건강법] - 동아일보",
-      "published": "2026-10-18T07:00:00+00:00",
-      "summary": "‘만병의 근원’ 미세 염증… 앉아 있는 시간을 줄여라[베스트 닥터의 베스트 건강법]&nbsp;&nbsp;동아일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11Q295aGl5Q0ZTSklPc2RMMHZsdGR2ejA1YWQ0V2xseFQyc1dtTFEtdUkzclprRmg2UE5LRk15ZEl4TWdxY1h5dXQ5UEhkd1lJYjRWYmV3bWEtQm9BaHIyRGN2WGZaYkhzazY2MGJoQdIBZkFVX3lxTE12ZllMR1RscEY4bUlLSUJSY0VkV3QzM2g5UjM0emd0Q04yZ0V5UHY5M1U1X2NuMXhxS3VyMUdkbHhJTUllQTJmZWZvaVBzWWFIcDdGUUx0SU4yQkNqTkIwYVBNNFRNdw?oc=5"
         }
       ]
     },
@@ -789,7 +777,7 @@
       "id": "9d591bc19b54",
       "title": "\"폐경기 우울감, 운동으로 날려라\" - 마음건강 길",
       "published": "2026-10-17T20:40:00+00:00",
-      "summary": "\"폐경기 우울감, 운동으로 날려라\"&nbsp;&nbsp;마음건강 길운동 자주 할수록 폐경이행기 증상 부담 낮아&nbsp;&nbsp;메디컬투데이폐경기 우울감, 운동으로 덜어낼 수 있을까…효과 가장 큰 운동은?&nbsp;&nbsp;약사공론",
+      "summary": "\"폐경기 우울감, 운동으로 날려라\"&nbsp;&nbsp;마음건강 길운동화 끈을 다시 묶는 날, 갱년기의 마음&nbsp;&nbsp;브런치운동 자주 할수록 폐경이행기 증상 부담 낮아&nbsp;&nbsp;메디컬투데이폐경기 우울감, 운동으로 덜어낼 수 있을까…효과 가장 큰 운동은?&nbsp;&nbsp;약사공론",
       "sources": [
         {
           "name": "마음건강 길",
@@ -830,30 +818,6 @@
         {
           "name": "비건뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XNFlxbktLeXdJTUhic08ySUNiWl9sbVFUc2JxbnVsUk51bDhWbnJ0RlMzbXVhNXhWa0QwSnljQXJ3bEZVdk5DLTZRa1VNYXc0QXVBSnk4THZzUklzcURXMFVlZHdzUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aa832be4f5dd",
-      "title": "미주 홍역 5만5792명…전년 동기의 4.8배 - 메디포뉴스",
-      "published": "2026-10-16T21:42:17+00:00",
-      "summary": "미주 홍역 5만5792명…전년 동기의 4.8배&nbsp;&nbsp;메디포뉴스미국 홍역 30년만에 최대 확산 … \"해외 나갈 땐 MMR 접종력 확인부터\"&nbsp;&nbsp;매일경제美 펜실베이니아 홍역 환자 1286명으로 증가…사망 5명&nbsp;&nbsp;메디컬투데이미국 홍역 확진자 4,410명…일주일 새 330명 증가, 어린이·청소년 감염 확산&nbsp;&nbsp;라디오코리아",
-      "sources": [
-        {
-          "name": "메디포뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LMnhLTUFTRTgwb1BnNDE3OFFtNWNUUFVKWjNsS2Jnbi1XenUtYUo1QmlzNEc2Y2dZVTdsLWx6cVdrZ2FJRXRvdzEwS1hkelplX1JpajgxaEJHMlVPZG1fUnJtVW4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56ec29c6de0d",
-      "title": "대장염이 뇌 신경세포까지 손상…크레아틴 먹고 달라졌다 - 약사공론",
-      "published": "2026-10-16T20:50:00+00:00",
-      "summary": "대장염이 뇌 신경세포까지 손상…크레아틴 먹고 달라졌다&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpWW1IVndWZk10OUVJSFhyNEl4VE00QWdERWI4amkyN1hldFNiMDRJREVzRGcyQmptYTNDM0ZNNmZBUTN5UnMzVFNzbkV3SjBrMXZTOUVjLTRHRzVLQWFETDZrZEpNR3M5MFo0WQ?oc=5"
         }
       ]
     }
