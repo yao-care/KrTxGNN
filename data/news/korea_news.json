@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-25T10:57:57.811061+00:00",
-  "total_fetched": 115,
-  "unique_count": 114,
-  "health_related_count": 67,
+  "fetched_at": "2026-10-25T15:46:08.551989+00:00",
+  "total_fetched": 114,
+  "unique_count": 113,
+  "health_related_count": 66,
   "news": [
+    {
+      "id": "b6826533e477",
+      "title": "\"AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다\"...구글, 의료 AI로 글로벌 진단 격차 줄여 - 인공지능신문",
+      "published": "2026-10-25T12:51:47+00:00",
+      "summary": "\"AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다\"...구글, 의료 AI로 글로벌 진단 격차 줄여&nbsp;&nbsp;인공지능신문",
+      "sources": [
+        {
+          "name": "인공지능신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vN3AyOUVHTThmR09iSzhETWtYc2pCVHpHN3JWcldPcDNXZkdwdHpHSGtfUjFiaHV6eFlKQTJZNVctX2U2d0RUWVRYbzh6WVg0aE9zc05PX1J4ZEEyc3czLUxERTBqNEE?oc=5"
+        }
+      ]
+    },
     {
       "id": "68ecf8708124",
       "title": "[보건/의료] 췌장암 환자 80% 이상 수술 어려워…조기 진단과 정밀검사 중요 - 굿모닝베트남미디어",
@@ -54,6 +66,18 @@
       ]
     },
     {
+      "id": "2cf94a4820f6",
+      "title": "출산 뒤 재임신하면 노화 회복 방해받을 수 있다…여성 130명 추적 - 팸타임스 FAM Times",
+      "published": "2026-10-25T06:19:49+00:00",
+      "summary": "출산 뒤 재임신하면 노화 회복 방해받을 수 있다…여성 130명 추적&nbsp;&nbsp;팸타임스 FAM Times\"출산 후 회복 전 또 임신하면 노화 누적될 가능성\"&nbsp;&nbsp;DongA Science[\"출산이 노화 시계를 멈춘다?\"…산후 회복이 평생 노화 좌우한다는 가설] 30만 건이 넘는 임신을 분석한 결과, 일상 검사 지표 76개 중 약 절반이 기준선으로 돌아오는 데 3개월에서 1년이&nbsp;&nbsp;AI넷출산 후 너무 빨리 다시 임신하면 생물학적 노화에 영향&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "팸타임스 FAM Times",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJXzRMX0lBZnJvcWR1UlhwQ3laUDAzZlZXcEpJeU5KVnhhWEdTZnBtZm5hajlXTTdmVFdUR2ctSDloTU4tUmdqaXlkVXVVQXU4UnJQcHFYajY2eVZ4cGwyMTlCRW1UcXZDMW9FbzNn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "296e57a65abe",
       "title": "하루 6~8잔 차 마시면 심장 건강에 도움…종류·첨가물 따져야 [연구] - 세계일보",
       "published": "2026-10-25T03:32:01+00:00",
@@ -69,11 +93,23 @@
       "id": "9c452fb5b533",
       "title": "손라, 여성 노동조합원 150명에게 무료 집중 암 검진 및 검진 제공 - Laodong.vn",
       "published": "2026-10-25T02:18:36+00:00",
-      "summary": "손라, 여성 노동조합원 150명에게 무료 집중 암 검진 및 검진 제공&nbsp;&nbsp;Laodong.vn2026년부터 2031년까지 노동조합원 및 노동자의 건강을 돌보고 향상시키는 것&nbsp;&nbsp;Vietnam.vn여성 노동조합원 및 근로자를 위한 종합 암 검진.&nbsp;&nbsp;Vietnam.vn손라: 공장 여성 근로자 200명 대상 무료 암 검진.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "손라, 여성 노동조합원 150명에게 무료 집중 암 검진 및 검진 제공&nbsp;&nbsp;Laodong.vn2026년부터 2031년까지 노동조합원 및 노동자의 건강을 돌보고 향상시키는 것&nbsp;&nbsp;Vietnam.vn손라: 공장 여성 근로자 200명 대상 무료 암 검진.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODhfUXk4SXJIRm14aHZ2VzdHUDdFWkZmTjBjSlpvX1VQQllGbXZXaDBxaEJyaUZ0bVVMVkhtMjhITGRFbnhZS1MtR1R3TzJoQnhHME5jTFFWbUtodjM5WnlxTzlFUUVMdU1xalpYYU9mTnpodVUycVZOUjRYNXdESW1EZEpwSDRhcHhNams4V2MyM2lTT2prd2RMZlU5TkNlTXEzdWlsbWlhbExYVGlRbjRYM1FFYzFWZGRmbEFYTU8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9802dd6580cc",
+      "title": "ADHD 덕분에 성공한 여성들 - 한겨레21",
+      "published": "2026-10-24T23:46:00+00:00",
+      "summary": "ADHD 덕분에 성공한 여성들&nbsp;&nbsp;한겨레21ADHD 진단의 증가가 의미하는 것은?&nbsp;&nbsp;가톨릭대학보“소아 질환인 줄만 알았는데”… 20대 여성서 급증한 ADHD, 그 이유는?&nbsp;&nbsp;하이닥﻿성인 ADHD가 늘어나는 진짜 이유&nbsp;&nbsp;정신의학신문“ADHD는 어린이 질환인 줄 알았는데”⋯20대 여성 진단 급증했다&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "한겨레21",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44cnZlSGJMWW0wRmg4MXcwTU5NTmRVRU1tTkQtbnlpcHpwQjdoT2NHWk9iNUhrYnNIVHNfekczdTJXWWh6a0JlWWhna2FzMlFhampCV1dTMFBoREkzY0o0MWhYVEN6VGltNnBHQWNKSQ?oc=5"
         }
       ]
     },
@@ -174,18 +210,6 @@
       ]
     },
     {
-      "id": "1cebcda46c0b",
-      "title": "전립선암 조기 예측 가능성 열리나…단서는 혈액 속 단백질 - 아시아경제",
-      "published": "2026-10-24T05:01:05+00:00",
-      "summary": "전립선암 조기 예측 가능성 열리나…단서는 혈액 속 단백질&nbsp;&nbsp;아시아경제‘이 암’ 잘 걸리는 남성 따로 있다?…발병 10년 전 핏속 신호 포착 [헬스픽]&nbsp;&nbsp;서울신문[이윤수의 성] 증상 없는 전립선암, 혈액 PSA 검사로 조기 발견 돕는다&nbsp;&nbsp;이데일리유전체 검사, 고위험 전립선암 치료 강도 결정에 도움 가능&nbsp;&nbsp;메디컬투데이전립선암 발생 10여년 전부터 혈액 단백질 변화 나타난다&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02eTBaZ0tRaV9rb2d2Mlk1U0UtS0dIblRIME1lSWZma3F4U0tMRnRtVEZSdFVsazA5ZzhrNlozSzJiekVrd3QzQ0RvSkdkR2RmWC15WVg1V2hiRDdBc0dGYg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c229775e11ea",
       "title": "‘만보 걷기’ 정답 아니었네…나이 들수록 건강 지키는 걸음 수, 따로 있다 - 레이디경향",
       "published": "2026-10-24T02:00:00+00:00",
@@ -194,18 +218,6 @@
         {
           "name": "레이디경향",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY3hnQWFIZnA3dTBIQmFXc3pvUWFRdnlVMkNFc2dHUzl2SlRwNW1zQUdyTmw3NFN1WTQtNlNuODltOEd1eFcxdWZSZzJjbEk4YlBUbU56X0VVS3EwMENDQk1UUkM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "247278f267ce",
-      "title": "\"카레에 후추를 툭툭 쳐서 먹었더니\"…건강 향상에 도움 되는 향신료 - 코메디닷컴",
-      "published": "2026-10-24T01:05:00+00:00",
-      "summary": "\"카레에 후추를 툭툭 쳐서 먹었더니\"…건강 향상에 도움 되는 향신료&nbsp;&nbsp;코메디닷컴",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VaGQxMnRMeTM2ZldfWDdBWGhrZTR3cmJrRjIxeU9fRU5qd2R0ckttWnpLWFJiMzB2R2d2UlNtTG1qdw?oc=5"
         }
       ]
     },
@@ -237,7 +249,7 @@
       "id": "99deced0d7ac",
       "title": "[톡톡 30초 건강학]“치질인 줄 알았는데…” 직장암 신호 놓치기 쉬워 - 경향신문",
       "published": "2026-10-24T00:00:00+00:00",
-      "summary": "[톡톡 30초 건강학]“치질인 줄 알았는데…” 직장암 신호 놓치기 쉬워&nbsp;&nbsp;경향신문“2030 젊은 대장암 늘었다”… 혈변부터 가족력까지, 대장 내시경 필요한 경우는?&nbsp;&nbsp;하이닥증상이 없을 때 받는 내시경이 가장 좋은 내시경입니다&nbsp;&nbsp;전라일보혈변 보이면 치핵으로 넘기지 말아야 하는 이유&nbsp;&nbsp;비건뉴스2주 동안 이상 증상을 겪은 후, 그 남성은 직장암에 걸렸다는 사실을 알게 되었습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "[톡톡 30초 건강학]“치질인 줄 알았는데…” 직장암 신호 놓치기 쉬워&nbsp;&nbsp;경향신문“2030 젊은 대장암 늘었다”… 혈변부터 가족력까지, 대장 내시경 필요한 경우는?&nbsp;&nbsp;하이닥혈변 보이면 치핵으로 넘기지 말아야 하는 이유&nbsp;&nbsp;비건뉴스2주 동안 이상 증상을 겪은 후, 그 남성은 직장암에 걸렸다는 사실을 알게 되었습니다.&nbsp;&nbsp;Vietnam.vn“대장암 4기 환자도 살려낸다”… ‘원조 다학제’ 진료의 내공&nbsp;&nbsp;조선일보",
       "sources": [
         {
           "name": "경향신문",
@@ -266,18 +278,6 @@
         {
           "name": "연합뉴스TV",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sRnRVZDJBMnNvVW5CcXhEU0tFd1ltUVdJSl9WVzVwSkFLcWJkVW9VbDlkSWFSTWtnVWYtSmhJLWhpdlZpSmlUX1dRNDJxQUNDb3BHdDAweVVHRXNVLUU3aFlEWkI3czQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f19089b903be",
-      "title": "머리 모양이 치매 위험 가른다?… 뇌 구조로 알츠하이머 수수께끼 푸는 연구 - 시애틀코리안데일리",
-      "published": "2026-10-23T13:04:49+00:00",
-      "summary": "머리 모양이 치매 위험 가른다?… 뇌 구조로 알츠하이머 수수께끼 푸는 연구&nbsp;&nbsp;시애틀코리안데일리",
-      "sources": [
-        {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10MjFyMmI0WEctd0Z4S29zbjJtcVJrM2Q2OW5zcnZSYXdnZ2JMYUkwTlg0Nkc3YkkxcUx3Vm9rSHlib2tzNnhKR1IwSjhnWEU0WU0wRl9xVmVlUGxFZ1I4aTRLUFpYaHA5dWpBM2xtQdIBc0FVX3lxTFBLQVJaNEZtaEY4WjVhQlExa1pzSWYySURsM1lhNUpYNW9IMVA1NExjVHlxWG4wRDBMc3JZbklFd0NwdlJiMEttdC10X0FLejcyQXVHblRIWm5lZHFucFByRnQyaWpCLWFtVGVvaHVXUXBwSjQ?oc=5"
         }
       ]
     },
@@ -486,18 +486,6 @@
       ]
     },
     {
-      "id": "16a3c67f5128",
-      "title": "“ADHD는 어린이 질환인 줄 알았는데”⋯20대 여성 진단 급증했다 - 코메디닷컴",
-      "published": "2026-10-21T21:30:00+00:00",
-      "summary": "“ADHD는 어린이 질환인 줄 알았는데”⋯20대 여성 진단 급증했다&nbsp;&nbsp;코메디닷컴ADHD 덕분에 성공한 여성들&nbsp;&nbsp;한겨레21ADHD 진단의 증가가 의미하는 것은?&nbsp;&nbsp;가톨릭대학보“소아 질환인 줄만 알았는데”… 20대 여성서 급증한 ADHD, 그 이유는?&nbsp;&nbsp;하이닥﻿성인 ADHD가 늘어나는 진짜 이유&nbsp;&nbsp;정신의학신문",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QQzBHeldJR1lnb2dxMnJHZ1daczFway10T2lVUkl0N2xTam5MUHRpVkxZSkdwcjBKSXR5bGZiSFUxdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fec453017f9c",
       "title": "[단독] ‘노벨상’ 아이스큐브 연구, 韓 청년들도 ‘한 팀’ - 조선일보",
       "published": "2026-10-21T21:29:53+00:00",
@@ -554,6 +542,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1a25uSDRrQlNlTmFnaUthbTZCQnlSbjI0Y2NZa2JFeGpEenhySVY5d1Jaa0RXTy05bEFXbF9uNlJkYXIzWkZHR2VKSGJlc0NHbXJqMnpXYnlMTlNLb09Ia3p1X19xYmhsbXRzNTQ5dWtHMEFJcklpZ0NpYWZEdW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a0966da9f01b",
+      "title": "“출산한 엄마 입 ‘이것’에 감염”…태어난지 10일 만에 숨진 아기, 무슨 일? - 코메디닷컴",
+      "published": "2026-10-21T03:04:00+00:00",
+      "summary": "“출산한 엄마 입 ‘이것’에 감염”…태어난지 10일 만에 숨진 아기, 무슨 일?&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE15aXZ3UnBWdG9ndm1hT3FiazFuc25UbDBZYWQ0ZFZqdHdyZmNQRVJWMmhzMGlFSnMzSmtJdE5VZ1FIUQ?oc=5"
         }
       ]
     },
@@ -618,6 +618,18 @@
       ]
     },
     {
+      "id": "3f2654610a01",
+      "title": "“소변 색이 왜 이래?”…40대男 결국 사망, 검사서 ‘이 약물’ 양성 반응 - 코메디닷컴",
+      "published": "2026-10-20T11:04:00+00:00",
+      "summary": "“소변 색이 왜 이래?”…40대男 결국 사망, 검사서 ‘이 약물’ 양성 반응&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBZZGpJY1ZlUzJnRk9TZG1hOTlaYjZVbjl0UzlrLTBOMGk0NXA4b2JqWXd1YXNxbWdlN2ZaZmFCdmhjQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "086c7b311cdb",
       "title": "학생 정신건강, 검사가 아니라 사람이 지킨다 [기고] - 한겨레",
       "published": "2026-10-20T10:58:00+00:00",
@@ -626,18 +638,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LR3U5VW9WV1pfcXoycHlSS1Y5bGIxVlVmSjFlUlJPVjdIYUx6bC1ZakRxMjZWZk9Ka0IwSzl1MFFwTEl1YWRzNGhnamZlRzVuSnRueHdGTWNIcHBFTVBZLTRvT0lWZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "771609f75dbe",
-      "title": "장내 충치균 대사물질 파킨슨병 유발 확인 : 건강 - 재경일보",
-      "published": "2026-10-20T10:15:11+00:00",
-      "summary": "장내 충치균 대사물질 파킨슨병 유발 확인 : 건강&nbsp;&nbsp;재경일보Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "재경일보",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zUl9RdzYyRDc5VWpEb3JERHlqdmZHb2pyZF94VHdzRUJzUXNQUzNXVXBCbTJsUHEwTlRlWmdmV0JvNDRkNncyZ2xzMA?oc=5"
         }
       ]
     },
@@ -702,6 +702,30 @@
       ]
     },
     {
+      "id": "a4fede518265",
+      "title": "암 진단 후 뇌졸중 위험 80% 높아… “첫 3개월 특히 주의” - 헬스조선",
+      "published": "2026-10-20T00:00:00+00:00",
+      "summary": "암 진단 후 뇌졸중 위험 80% 높아… “첫 3개월 특히 주의”&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CM1ZabWNydkpmamU5b1dVdERuMG1HWmItT01LeHRCdWVSOVMwV0pqRW9fNmpBR0tWS1J0VWtIeHY2bEdOdlNWZmRPMktUWGQtSVg3bTlINTE5eXRsU0lONGt6WUdKMTBNUDRIMGI5VGk2YUxPMjlNMktseHl6TUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca8ac5523648",
+      "title": "임신 중 우울증 심리치료 받았더니…아기 '뇌'에 나타난 변화 - 약사공론",
+      "published": "2026-10-19T20:50:00+00:00",
+      "summary": "임신 중 우울증 심리치료 받았더니…아기 '뇌'에 나타난 변화&nbsp;&nbsp;약사공론“임신·출산기 우울증 재발 44%→33%”…온라인 심리훈련의 효과&nbsp;&nbsp;동아일보임신 중 우울증 심리치료, 아기 뇌 발달·정서 조절과 연관&nbsp;&nbsp;세계일보",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJVXhKdjlWN1NlRUtWNjM4THYtVW1tcWhJS21LdE1tM2NtSzJNQWR0OExSamVxRTlEcno5X2tOUzl3RURTRnMwNlJ3Q3FlRHUtaU9aVUZIMmFYYVRoeUlSY3VFSUw0d1JnTnlzTg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "41209bf7117e",
       "title": "[칼럼] 2026 노벨 생리·의학상 Ⅲ: 빛 반응 조류 단백질을 신경세포에 - 팜뉴스",
       "published": "2026-10-19T05:00:00+00:00",
@@ -750,18 +774,6 @@
       ]
     },
     {
-      "id": "f88f0068d9d2",
-      "title": "임신 중 우울증 심리치료, 아기 뇌 발달·정서 조절과 연관 - 세계일보",
-      "published": "2026-10-19T01:16:05+00:00",
-      "summary": "임신 중 우울증 심리치료, 아기 뇌 발달·정서 조절과 연관&nbsp;&nbsp;세계일보“임신·출산기 우울증 재발 44%→33%”…온라인 심리훈련의 효과&nbsp;&nbsp;동아일보임신 중 우울증 심리치료 받았더니…아기 '뇌'에 나타난 변화&nbsp;&nbsp;약사공론",
-      "sources": [
-        {
-          "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oUkNpdHBFcmFqZDQ1RUZRTkhtbXBIWld5d1Zvdkk2WFhJMGNSS1B4eFR4bzBkaG1yME4tdTFNcm15cjdraVA3dlRZbThuV3ZoWXFDVW1UWWPSAVRBVV95cUxNTkYyWnlVS3EtV2trV3pHTGdDWXQ1azMwU1RMTVVobko1amF0SHZMN3dSYy1UQjg0aDdnTDB3Y2NJVVdET0Y0VzRwNy10SG9tdTlsMkw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fb8c4786cdda",
       "title": "폐경기 우울감, 운동으로 덜어낼 수 있을까…효과 가장 큰 운동은? - 약사공론",
       "published": "2026-10-18T20:47:00+00:00",
@@ -782,30 +794,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1SSU56ckRpSm1LUXExbmc5U2tXbGFqeG5jWENjVWZKMWhmYlFkWTFWM2JUcks5RTdtWUwyck0yVGJ2SUg2LXZjcEM3MXFkU0wyQ1ExSHVXSlZhbDNmY0tnaWVvZkljWFg1MU5WT3pXa0ctZUo2MWFCRFgtODB6SjNfN2lpdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ada50f4722e2",
-      "title": "알츠하이머 환자 뇌 신경 보호막… 약물로 다시 만드는 방법 찾았다 - 동아일보",
-      "published": "2026-10-18T15:30:00+00:00",
-      "summary": "알츠하이머 환자 뇌 신경 보호막… 약물로 다시 만드는 방법 찾았다&nbsp;&nbsp;동아일보ALS 환자의 알츠하이머병 관련 뇌 변화, 예후에도 영향 가능성&nbsp;&nbsp;메디컬투데이알츠하이머 새 원인 후보 나왔다···아밀로이드·타우 다음은 ‘유전체 접힘’&nbsp;&nbsp;더메디컬알츠하이머 환자 '망가진 신호 전달' 되살릴 열쇠 찾았다&nbsp;&nbsp;DongA ScienceMIT 연구진, 알츠하이머 관련 뇌 수초 손상 회복 가능성 제시 : 테크/과학&nbsp;&nbsp;재경일보",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TSlU5SlZLZzNPa1JMTGJZbXdkQlRrQ3JzVl9xV0pXOTh0TlZITmxMeEZSZFdwLWlHZXRSSzBVcm5vYmFobnUtc3B1b19vWUVpc0hkTTRYVFRvaE91eHZWT2dVZ0M3WldRUVJWLUtFWdIBZkFVX3lxTE83VEdzVTFlenVHaG1WX0pxalM0aTVnTmV0QXhOMjlnV0o5Snh6cFdYMVZFMGQ5NDYzZ1E4X3V2MjA4V2EzRl9wNzdoTUlpVENvODlMOXpEZ0lCcTdkRHFnWXVfRzJhdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1dddbd2e48bb",
-      "title": "국내 초미세먼지·오존 오염, 노년층 파킨슨병 위험 높인다 - 강찬수의 에코파일",
-      "published": "2026-10-18T11:27:47+00:00",
-      "summary": "국내 초미세먼지·오존 오염, 노년층 파킨슨병 위험 높인다&nbsp;&nbsp;강찬수의 에코파일Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "강찬수의 에코파일",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FZ2hXbXY1OF9mRjV4V3pzRldPOFlpanRkOTZPWmxRQ1h3Y0Vyd2pRc2x0dzEyM3ZVdGdXVDV5Y3J6Z2Vhc1RodzZxZFJjOWplY3pyaHB3OHN3WFU?oc=5"
         }
       ]
     }
