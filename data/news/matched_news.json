@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-10-25T15:46:08.690618+00:00",
-  "total_count": 66,
+  "last_updated": "2026-10-25T20:33:49.973826+00:00",
+  "total_count": 65,
   "matched_count": 0,
   "news": [
+    {
+      "id": "b9060a44b849",
+      "title": "“독감 벌써 퍼진다”…서부 지역 빠르게 확산, 전국 44개 주 증가세",
+      "published": "2026-10-25T18:22:00+00:00",
+      "summary": "“독감 벌써 퍼진다”…서부 지역 빠르게 확산, 전국 44개 주 증가세&nbsp;&nbsp;라디오코리아LA카운티서 독감 사망자 2명 발생…보건당국 “백신 접종 서둘러야”&nbsp;&nbsp;라디오코리아“독감 조심하세요”··· BC주 독감 환자 전국 최고&nbsp;&nbsp;밴쿠버 조선일보\"건강하다 방심했다\"… 美 서부지역으로 부터 번지는 10년 만의 독감 공포&nbsp;&nbsp;글로벌이코노믹시애틀 독감 벌써 기승…응급실 환자 급증에 9명 사망 > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN",
+      "sources": [
+        {
+          "name": "라디오코리아",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNLW55WlJoZ1Z0Rm81Wkg0el9HNHRPSkZPV1dHUWJlNTdoWUdFUks5djh6Y2kzMWJqYy0tTDBybmtmQ1hkUE9zQUY1Y3AzbUN0SHd1OS1Hd3ZDdnlWTVFGV21kS3M?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f7b9f321c5f4",
+      "title": "[\"출산이 노화 시계를 멈춘다?\"…산후 회복이 평생 노화 좌우한다는 가설] 30만 건이 넘는 임신을 분석한 결과, 일상 검사 지표 76개 중 약 절반이 기준선으로 돌아오는 데 3개월에서 1년이",
+      "published": "2026-10-25T14:39:56+00:00",
+      "summary": "[\"출산이 노화 시계를 멈춘다?\"…산후 회복이 평생 노화 좌우한다는 가설] 30만 건이 넘는 임신을 분석한 결과, 일상 검사 지표 76개 중 약 절반이 기준선으로 돌아오는 데 3개월에서 1년이&nbsp;&nbsp;AI넷\"출산 후 회복 전 또 임신하면 노화 누적될 가능성\"&nbsp;&nbsp;DongA Science출산 후 너무 빨리 다시 임신하면 생물학적 노화에 영향&nbsp;&nbsp;메디컬투데이출산 뒤 재임신하면 노화 회복 방해받을 수 있다…여성 130명 추적&nbsp;&nbsp;팸타임스 FAM Times",
+      "sources": [
+        {
+          "name": "AI넷",
+          "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1Zc0xFdURISnZqeDB3THNTR0Z6Y2ljNkFzSVpPUEY0ODY2dDRnbFhFSWcydTJ3aUdjOEtsWTRaODI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b6826533e477",
       "title": "\"AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다\"...구글, 의료 AI로 글로벌 진단 격차 줄여",
@@ -64,19 +90,6 @@
         {
           "name": "DongA Science",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wS1ZTUTE4YzcxaFNMMTJxaGJLU1FkXzc0aGRDcHZHQnoxcS1KRjZ2NFBOZE9BRjFLZ3h4Y1phSXU4UmdYdHhjT1ZNRzNFbG9CUjZYSA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2cf94a4820f6",
-      "title": "출산 뒤 재임신하면 노화 회복 방해받을 수 있다…여성 130명 추적 - 팸타임스 FAM Times",
-      "published": "2026-10-25T06:19:49+00:00",
-      "summary": "출산 뒤 재임신하면 노화 회복 방해받을 수 있다…여성 130명 추적&nbsp;&nbsp;팸타임스 FAM Times\"출산 후 회복 전 또 임신하면 노화 누적될 가능성\"&nbsp;&nbsp;DongA Science[\"출산이 노화 시계를 멈춘다?\"…산후 회복이 평생 노화 좌우한다는 가설] 30만 건이 넘는 임신을 분석한 결과, 일상 검사 지표 76개 중 약 절반이 기준선으로 돌아오는 데 3개월에서 1년이&nbsp;&nbsp;AI넷출산 후 너무 빨리 다시 임신하면 생물학적 노화에 영향&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "팸타임스 FAM Times",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJXzRMX0lBZnJvcWR1UlhwQ3laUDAzZlZXcEpJeU5KVnhhWEdTZnBtZm5hajlXTTdmVFdUR2ctSDloTU4tUmdqaXlkVXVVQXU4UnJQcHFYajY2eVZ4cGwyMTlCRW1UcXZDMW9FbzNn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -225,27 +238,27 @@
       "matched_keywords": []
     },
     {
-      "id": "c229775e11ea",
-      "title": "‘만보 걷기’ 정답 아니었네…나이 들수록 건강 지키는 걸음 수, 따로 있다",
-      "published": "2026-10-24T02:00:00+00:00",
-      "summary": "‘만보 걷기’ 정답 아니었네…나이 들수록 건강 지키는 걸음 수, 따로 있다&nbsp;&nbsp;레이디경향나이 드니 기억력 떨어졌다고 느낀다면 평소에 얼마나 걷고 움직이는지 살펴야&nbsp;&nbsp;조선일보[허프 US] '하루 1만 보' 부담스럽다면? 3천 보만 걷자 : 치매 진행 3년 늦춘다&nbsp;&nbsp;허프포스트코리아美심장학회 “운동도 약처럼 처방해야”…심혈관질환 치료 핵심으로 권고&nbsp;&nbsp;메디컬투데이[근거에 기반한 시대건강 120] ② 하루 1만보, 꼭 채워야 할까&nbsp;&nbsp;동행미디어 시대",
+      "id": "6f58edfd060b",
+      "title": "간에 좋고 콜레스테롤 감소를 돕고 충분한 영양소를 공급하는 3가지 식품군",
+      "published": "2026-10-24T03:30:00+00:00",
+      "summary": "간에 좋고 콜레스테롤 감소를 돕고 충분한 영양소를 공급하는 3가지 식품군&nbsp;&nbsp;Laodong.vn“HDL 아무리 높아도, 제 기능 안 하면 소용 없어”… ‘세 가지 상황’ 주의를&nbsp;&nbsp;헬스조선[생활 메디] 먹는 건 그대로인데 콜레스테롤이 껑충?&nbsp;&nbsp;우먼센스뇌졸중 후 LDL-C 낮을수록 좋다?···\"뇌졸중 아형 따라 다르게 접근해야\"&nbsp;&nbsp;메디칼업저버\"운동·식단으로 콜레스테롤 잡을 수 있을까?\"... 콜레스테롤 관리 생활습관 5&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "레이디경향",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY3hnQWFIZnA3dTBIQmFXc3pvUWFRdnlVMkNFc2dHUzl2SlRwNW1zQUdyTmw3NFN1WTQtNlNuODltOEd1eFcxdWZSZzJjbEk4YlBUbU56X0VVS3EwMENDQk1UUkM?oc=5"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGV2LTdIRGhlSlhTb3pmZ0RTbERHNkhOakZ2eUV4U29mYkc2Si1aUXQxVy1xSXFoRmQtVTNKc3pPa2hDenJNQ2VwUU1Wc2hxb2NqYlBxUFV3VFpsVFlNdEE3Nlp5aHhCa0VsXzd3Zm82cF93dHRxMFl3Q3JpMjRnRVprSjVwcTk1S1c2VE5UYjRWSFZucmZiRUpNTC1jbHlkczAzT2dTaVgzN05EcHNzT0pJYmFENEhU?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "2a8be17b2536",
-      "title": "어린이 발열, 무기력증: 수막구균 질환에 대한 경계 신호",
-      "published": "2026-10-24T00:30:00+00:00",
-      "summary": "어린이 발열, 무기력증: 수막구균 질환에 대한 경계 신호&nbsp;&nbsp;Laodong.vn경고: 간과하기 쉬운 위험한 수막구균성 질환의 징후들.&nbsp;&nbsp;Vietnam.vn수막구균성 뇌수막염의 사전 예방.&nbsp;&nbsp;Vietnam.vn[사회] 호찌민시, 수막구균 감염 5건 확인… 학생 1명 사망, 파스퇴르연구소 경고&nbsp;&nbsp;굿모닝베트남미디어수막구균성 질환의 조기 발견 및 예방에 대한 적극적인 접근.&nbsp;&nbsp;Vietnam.vn",
+      "id": "c229775e11ea",
+      "title": "‘만보 걷기’ 정답 아니었네…나이 들수록 건강 지키는 걸음 수, 따로 있다",
+      "published": "2026-10-24T02:00:00+00:00",
+      "summary": "‘만보 걷기’ 정답 아니었네…나이 들수록 건강 지키는 걸음 수, 따로 있다&nbsp;&nbsp;레이디경향나이 드니 기억력 떨어졌다고 느낀다면 평소에 얼마나 걷고 움직이는지 살펴야&nbsp;&nbsp;조선일보[허프 US] '하루 1만 보' 부담스럽다면? 3천 보만 걷자 : 치매 진행 3년 늦춘다&nbsp;&nbsp;허프포스트코리아[HEALTH] 하루 3000보만 걸어도 알츠하이머병 진행 늦출 가능성 높아&nbsp;&nbsp;와이드스포츠[근거에 기반한 시대건강 120] ② 하루 1만보, 꼭 채워야 할까&nbsp;&nbsp;동행미디어 시대",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLUVTT2NxS1FNWTZQa3hiekZWb0Q2Z2F6Q0hyMWotek9vNDdSS29EVEtTcGd4V3I5OTVQYlRQeXJGLTdPZHVmbFY0U1YyemFncXZKbDIyUmcwWmlsTDVnSlNHRXVQVUZTSnhOYUh3bi1jdUZXdXRFNm03VE9fekUtTnNybnkxV0RkSENvLUVDMEtVelM1TTBDd2lwUkV4UEp3?oc=5"
+          "name": "레이디경향",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yY3hnQWFIZnA3dTBIQmFXc3pvUWFRdnlVMkNFc2dHUzl2SlRwNW1zQUdyTmw3NFN1WTQtNlNuODltOEd1eFcxdWZSZzJjbEk4YlBUbU56X0VVS3EwMENDQk1UUkM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -329,19 +342,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ee43a899f800",
-      "title": "항생제도 소용없는 슈퍼세균, AI가 만든 바이러스로 잡는다?",
-      "published": "2026-10-23T07:00:00+00:00",
-      "summary": "항생제도 소용없는 슈퍼세균, AI가 만든 바이러스로 잡는다?&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUVGellWMHVmcU9tcWRBUHBCby1GSU5lRno2SmRuMEhfa1E1dHRUYWhBcHlVTFU1MWFsWDEwandkdDQ1UHhRTU5EMEFCUHI3TzRYc1BycVFjOG9WVzZhMDZNQVBtVk91WnNkc3duRlRMOEtfdU03SVNfTjJiLVdNb3ItMDR4RzIxdERzTHlhaXBMQXJj?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1df35cfc1175",
       "title": "암요양 중 산책, 몸 상태에 맞는 가벼운 움직임이 중요하다 [이창곤 대표원장 칼럼]",
       "published": "2026-10-23T02:26:39+00:00",
@@ -363,19 +363,6 @@
         {
           "name": "대구MBC",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pSll4S1E0YktxTlJaVTZOMFhBRnRnNnQ5a19XYmhkY3M2c0QtbWVjZWE5N2lFZV91WXY2QV9MNTdTRXR1eEFvMTkyVGU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9c494be7af93",
-      "title": "\"한쪽에 주사 꽂았더니 반대편 암까지 녹아내려\"…'생존율 30%' 난치암 뚫어낸 반전[과학을읽다]",
-      "published": "2026-10-23T00:00:00+00:00",
-      "summary": "\"한쪽에 주사 꽂았더니 반대편 암까지 녹아내려\"…'생존율 30%' 난치암 뚫어낸 반전[과학을읽다]&nbsp;&nbsp;아시아경제",
-      "sources": [
-        {
-          "name": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jZUlmQUNvbHh3MHdTbVZiMEJtNlo5Y1dzZktuTWVOZjlZeXJ0bG5haVFRMkcwbkppY191eEVLam5HODZ0QUd0c0ZQQTVlZ2owTTRCOEJiWHdIMnEyVHluUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -472,14 +459,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4ae711c6975e",
-      "title": "뇌졸중 후 LDL-C 낮을수록 좋다?···\"뇌졸중 아형 따라 다르게 접근해야\"",
-      "published": "2026-10-22T03:15:37+00:00",
-      "summary": "뇌졸중 후 LDL-C 낮을수록 좋다?···\"뇌졸중 아형 따라 다르게 접근해야\"&nbsp;&nbsp;메디칼업저버“HDL 아무리 높아도, 제 기능 안 하면 소용 없어”… ‘세 가지 상황’ 주의를&nbsp;&nbsp;헬스조선\"운동·식단으로 콜레스테롤 잡을 수 있을까?\"... 콜레스테롤 관리 생활습관 5&nbsp;&nbsp;하이닥‘좋은 콜레스테롤’도 일 잘해야...“HDL 기능 좋을수록 치매 위험 낮아”&nbsp;&nbsp;디멘시아뉴스‘LDL’은 담배와 같아… 빨리 낮출수록 건강에 이득&nbsp;&nbsp;조선일보",
+      "id": "ead968428b5e",
+      "title": "“임신·출산기 우울증 재발 44%→33%”…온라인 심리훈련의 효과",
+      "published": "2026-10-22T02:55:27+00:00",
+      "summary": "“임신·출산기 우울증 재발 44%→33%”…온라인 심리훈련의 효과&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3QjJtcDVmWHNQd2NBdk1Ed3A1LTNoSGpxX011aTVOMl9VY3Zxd1RwQjR4bEVjbjhIM05MOVhXa3ppY1Z5Uzl2OEwxYkF3ZG8yX3VaNG5QUHFkUHF5d1QtV0dpUlBRMUxWT3kw?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Yc0VzeEZ5Y2NRdzBIZUFBOFRsM1JWQlpRUzFxUGJhUkQ2N1gzaUZSVHJ3dXRjZVJ6bG14Wk5fTjctTFRtRDNxNGlBNjQxczVtN2xydndZU2dLUUhjRUNCN1JUa2ZSRWExYVk0ZkRSVdIBZkFVX3lxTE1ySjU2U1hUWlN3Q1VGNE5EeUVMSERjSnZlSGNWelZ3TWRpNllxZ3FWakFHRFdNUkJSOXZqQ0tKVHNSZ2FScDdYdlNBMHN2Rk9rNXd5N3lkYVAwMmVoR2c4Q0FUcUFlQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -654,6 +641,19 @@
       "matched_keywords": []
     },
     {
+      "id": "4d184675392e",
+      "title": "미국 심장학계 \"운동도 약처럼 처방해야\" 유산소·근력운동 병행 권고",
+      "published": "2026-10-20T23:01:12+00:00",
+      "summary": "미국 심장학계 \"운동도 약처럼 처방해야\" 유산소·근력운동 병행 권고&nbsp;&nbsp;와이드스포츠",
+      "sources": [
+        {
+          "name": "와이드스포츠",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xcG0zS3FQWl93WVMtZWlMMjlScEM1VF9OSl9odnZFYW1BUFBmdjRydlVFNkxDTGZWSk1LYnBBT0dJay1UbWY5c05KbC1CZXB1bUpfd3MyTVI1RVZIckNQdlVXY2d4X1IwN28tMzBYdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c654ddf62f41",
       "title": "[10월20일] AI는 과학 연구를 얼마나 잘할까…일반 업무와 달랐던 성능 순위",
       "published": "2026-10-20T22:00:00+00:00",
@@ -688,6 +688,19 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LR3U5VW9WV1pfcXoycHlSS1Y5bGIxVlVmSjFlUlJPVjdIYUx6bC1ZakRxMjZWZk9Ka0IwSzl1MFFwTEl1YWRzNGhnamZlRzVuSnRueHdGTWNIcHBFTVBZLTRvT0lWZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "771609f75dbe",
+      "title": "장내 충치균 대사물질 파킨슨병 유발 확인 : 건강",
+      "published": "2026-10-20T10:15:11+00:00",
+      "summary": "장내 충치균 대사물질 파킨슨병 유발 확인 : 건강&nbsp;&nbsp;재경일보여드름·탈모 잡으려면 얼굴 아닌 '장' 봐야… 장내 미생물의 과학 [똑똑한 웰니스]&nbsp;&nbsp;파이낸셜뉴스“식이섬유, 많이 먹을수록 좋을까?”⋯장 건강 지키려면 ‘이렇게’&nbsp;&nbsp;코메디닷컴고구마 vs 브로콜리 vs 키위... 변비 개선에 도움 되는 식품은?&nbsp;&nbsp;하이닥파킨슨병 10년 전, 변비 생긴다…채소보다 장 살리는 음식 1위&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "재경일보",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zUl9RdzYyRDc5VWpEb3JERHlqdmZHb2pyZF94VHdzRUJzUXNQUzNXVXBCbTJsUHEwTlRlWmdmV0JvNDRkNncyZ2xzMA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -735,7 +748,7 @@
       "id": "915dc9fcf939",
       "title": "전염병 겹쳐 닥락에서 소아 환자 입원 급증",
       "published": "2026-10-20T02:37:39+00:00",
-      "summary": "전염병 겹쳐 닥락에서 소아 환자 입원 급증&nbsp;&nbsp;Laodong.vn호흡기 질환 환자가 급증하면서 병원들은 복도에 추가 병상을 마련해야 했습니다.&nbsp;&nbsp;Vietnam.vn호치민시의 어린이 병원들이 호흡기 질환 환자로 넘쳐나고 있습니다.&nbsp;&nbsp;Vietnam.vn후에 지역에서 소아 입원 환자가 급증하면서, 해열이 어려운 고열에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "전염병 겹쳐 닥락에서 소아 환자 입원 급증&nbsp;&nbsp;Laodong.vn호흡기 질환 환자가 급증하면서 병원들은 복도에 추가 병상을 마련해야 했습니다.&nbsp;&nbsp;Vietnam.vn후에 지역에서 소아 입원 환자가 급증하면서, 해열이 어려운 고열에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn호치민시의 어린이 병원들이 호흡기 질환 환자로 넘쳐나고 있습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -758,27 +771,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a4fede518265",
-      "title": "암 진단 후 뇌졸중 위험 80% 높아… “첫 3개월 특히 주의”",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": "암 진단 후 뇌졸중 위험 80% 높아… “첫 3개월 특히 주의”&nbsp;&nbsp;헬스조선",
+      "id": "9b9beb182bbd",
+      "title": "세계 폐경의 날 맞아 중년 여성 골 건강 주목…푸룬 섭취 관련 연구 이어져",
+      "published": "2026-10-19T13:37:39+00:00",
+      "summary": "세계 폐경의 날 맞아 중년 여성 골 건강 주목…푸룬 섭취 관련 연구 이어져&nbsp;&nbsp;뉴스N연합",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CM1ZabWNydkpmamU5b1dVdERuMG1HWmItT01LeHRCdWVSOVMwV0pqRW9fNmpBR0tWS1J0VWtIeHY2bEdOdlNWZmRPMktUWGQtSVg3bTlINTE5eXRsU0lONGt6WUdKMTBNUDRIMGI5VGk2YUxPMjlNMktseHl6TUk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ca8ac5523648",
-      "title": "임신 중 우울증 심리치료 받았더니…아기 '뇌'에 나타난 변화",
-      "published": "2026-10-19T20:50:00+00:00",
-      "summary": "임신 중 우울증 심리치료 받았더니…아기 '뇌'에 나타난 변화&nbsp;&nbsp;약사공론“임신·출산기 우울증 재발 44%→33%”…온라인 심리훈련의 효과&nbsp;&nbsp;동아일보임신 중 우울증 심리치료, 아기 뇌 발달·정서 조절과 연관&nbsp;&nbsp;세계일보",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJVXhKdjlWN1NlRUtWNjM4THYtVW1tcWhJS21LdE1tM2NtSzJNQWR0OExSamVxRTlEcno5X2tOUzl3RURTRnMwNlJ3Q3FlRHUtaU9aVUZIMmFYYVRoeUlSY3VFSUw0d1JnTnlzTg?oc=5"
+          "name": "뉴스N연합",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mZThCYVRTeG1vUHkxQlFGM1FXNnZlQkJaWXk0cE9QUGJGOUxoZGxkOF9pUE9MYk9Jc2pvQ0pmNkNLRU5pNDhoTHBR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -787,7 +787,7 @@
       "id": "41209bf7117e",
       "title": "[칼럼] 2026 노벨 생리·의학상 Ⅲ: 빛 반응 조류 단백질을 신경세포에",
       "published": "2026-10-19T05:00:00+00:00",
-      "summary": "[칼럼] 2026 노벨 생리·의학상 Ⅲ: 빛 반응 조류 단백질을 신경세포에&nbsp;&nbsp;팜뉴스[기고] 노벨 과학상, 내년을 기약하며&nbsp;&nbsp;전자신문[단독] ‘노벨상’ 아이스큐브 연구, 韓 청년들도 ‘한 팀’&nbsp;&nbsp;조선일보천진우 연세대 언더우드 특훈교수, 빛 대신 자기장으로 뇌 회로를 켜다&nbsp;&nbsp;피플투데이새로운 천문학의 시대: 거대 중성미자 검출기의 작동 원리와 노벨상 이후의 전망&nbsp;&nbsp;참세상",
+      "summary": "[칼럼] 2026 노벨 생리·의학상 Ⅲ: 빛 반응 조류 단백질을 신경세포에&nbsp;&nbsp;팜뉴스[단독] ‘노벨상’ 아이스큐브 연구, 韓 청년들도 ‘한 팀’&nbsp;&nbsp;조선일보노벨생리의학상에 칼 다이서로스 등 3명 — The Korea Times Daily&nbsp;&nbsp;The Korea Times Daily천진우 연세대 언더우드 특훈교수, 빛 대신 자기장으로 뇌 회로를 켜다&nbsp;&nbsp;피플투데이새로운 천문학의 시대: 거대 중성미자 검출기의 작동 원리와 노벨상 이후의 전망&nbsp;&nbsp;참세상",
       "sources": [
         {
           "name": "팜뉴스",
@@ -844,19 +844,6 @@
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EVnpRd1pYRFFRd29RQkx2YVB5VDlubXNhZC1FRUU2NTR4UlZiQ1puUWVXd2FzUjhuZVhKOEx2MURvbWN3ZldPVS1wSWxURHZMTkZtT0UzdERWclUxazkxbjk5eDdxb1g2TzE5Yg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "be8b0bb2ba9d",
-      "title": "\"AI가 노벨상급 발견? 충분히 가능… AI의 노예 아닌 주인이 돼라\"",
-      "published": "2026-10-18T18:00:00+00:00",
-      "summary": "\"AI가 노벨상급 발견? 충분히 가능… AI의 노예 아닌 주인이 돼라\"&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdm1SSU56ckRpSm1LUXExbmc5U2tXbGFqeG5jWENjVWZKMWhmYlFkWTFWM2JUcks5RTdtWUwyck0yVGJ2SUg2LXZjcEM3MXFkU0wyQ1ExSHVXSlZhbDNmY0tnaWVvZkljWFg1MU5WT3pXa0ctZUo2MWFCRFgtODB6SjNfN2lpdw?oc=5"
         }
       ],
       "matched_keywords": []
