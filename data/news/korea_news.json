@@ -1,10 +1,82 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-25T03:49:10.684214+00:00",
-  "total_fetched": 122,
-  "unique_count": 121,
-  "health_related_count": 65,
+  "fetched_at": "2026-10-25T10:57:57.811061+00:00",
+  "total_fetched": 115,
+  "unique_count": 114,
+  "health_related_count": 67,
   "news": [
+    {
+      "id": "68ecf8708124",
+      "title": "[보건/의료] 췌장암 환자 80% 이상 수술 어려워…조기 진단과 정밀검사 중요 - 굿모닝베트남미디어",
+      "published": "2026-10-25T10:09:47+00:00",
+      "summary": "[보건/의료] 췌장암 환자 80% 이상 수술 어려워…조기 진단과 정밀검사 중요&nbsp;&nbsp;굿모닝베트남미디어",
+      "sources": [
+        {
+          "name": "굿모닝베트남미디어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjZzJEa01GV2Mwb1NseG1UZHgwbE83YWhSUFhtZkZ4MDJZcXRvN0p1ZVBjTW5Ya2xWM3F4UzBmTW9OSDJZUmkyanFMQWdhOEkwZHNBNUFqbXIwM3hEaEpJbzZudzdmYVlILTc1WHU5Yzc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8065e82366ee",
+      "title": "[사회/보건] 자라이성 뎅기열 환자 9,000명 넘어, 사망자 1명 발생 - 굿모닝베트남미디어",
+      "published": "2026-10-25T09:56:07+00:00",
+      "summary": "[사회/보건] 자라이성 뎅기열 환자 9,000명 넘어, 사망자 1명 발생&nbsp;&nbsp;굿모닝베트남미디어아시아발 '독한 모기' 비상 — The Korea Times Daily&nbsp;&nbsp;The Korea Times Daily하띤성에서 발생한 3건의 뎅기열 발병 사태를 통제하는 데 집중해야 합니다.&nbsp;&nbsp;Vietnam.vn호치민시에서는 이번 주에 1,800건이 넘는 수족구병 환자가 발생했습니다.&nbsp;&nbsp;Vietnam.vn푸꾸옥에서 뎅기열 환자가 1,000명 이상 발생하면서 백신 접종 수요가 증가하고 있다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "굿모닝베트남미디어",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uYVlRNFdIRk5rRUM0cTN1dUpWZF8ybGt0QXZjaVFDM3dUQ3h0U3pacldyU1ktNzI5RVBoMlM5dGRYcXVyTXFFVEh6TEJqa25sQ3lsVGNOMzl3clFaOWNrSFBfV3ZJNEZ0VjRNbWFfMVc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db94bd77ff3e",
+      "title": "레타트루타이드, 수면무호흡 3상서 AHI 개선…아직 연구용 약물 - 메디포뉴스",
+      "published": "2026-10-25T08:13:57+00:00",
+      "summary": "레타트루타이드, 수면무호흡 3상서 AHI 개선…아직 연구용 약물&nbsp;&nbsp;메디포뉴스",
+      "sources": [
+        {
+          "name": "메디포뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sZ1dKVUd4cGFLQVlGRzA2emo0cnRxclE5dmM3a2tBMWtGZWdOWUtqSjVZdmlHVW5yUnVGZno4MFZiZWJWR0JKWlp1bmNiRmVIX1lCUDRqTnhWZFJ1UGdGYXN1REo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ad474c16f03a",
+      "title": "첫 감염자 사망 가축 바이러스 '샤몬다', 인체 영향 거의 몰라 - DongA Science",
+      "published": "2026-10-25T07:49:00+00:00",
+      "summary": "첫 감염자 사망 가축 바이러스 '샤몬다', 인체 영향 거의 몰라&nbsp;&nbsp;DongA Science소에서 돌던 ‘샤몬다 바이러스’, 프랑스서 첫 인체 감염 사망&nbsp;&nbsp;동아일보소 감염병 ‘샤모다 바이러스’ 첫 인체 감염 사망…변종 감염병 경고등&nbsp;&nbsp;서울신문프랑스서 가축 바이러스 샤몬다 첫 인체 감염…환자 사망&nbsp;&nbsp;연합뉴스가축 바이러스가 사람에게...프랑스서 첫 인체 감염 사례&nbsp;&nbsp;데일리안",
+      "sources": [
+        {
+          "name": "DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wS1ZTUTE4YzcxaFNMMTJxaGJLU1FkXzc0aGRDcHZHQnoxcS1KRjZ2NFBOZE9BRjFLZ3h4Y1phSXU4UmdYdHhjT1ZNRzNFbG9CUjZYSA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "296e57a65abe",
+      "title": "하루 6~8잔 차 마시면 심장 건강에 도움…종류·첨가물 따져야 [연구] - 세계일보",
+      "published": "2026-10-25T03:32:01+00:00",
+      "summary": "하루 6~8잔 차 마시면 심장 건강에 도움…종류·첨가물 따져야 [연구]&nbsp;&nbsp;세계일보매일 마시는 차 “잘못 고르면 독 된다”…심장에 좋은 차는&nbsp;&nbsp;동아일보건강에 좋다던 차, ‘앗뜨뜨’ 뜨겁게 마셨더니 오히려 독됐다&nbsp;&nbsp;경향신문차 꾸준히 마시면 혈관질환 위험 11% 낮아진다…카페인 과다는 주의&nbsp;&nbsp;세계일보차 마시는 습관, 심혈관질환 예방에 도움될까&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tczlLTl9KRFVhakl4eGdNRjZwVzhQeG5FS0dyM2E5eExIRjdrekNTN0IyVFpkeFdieHRuZGZ0NkcwcGZyTWJ2TUZtQ1VTdHZtb0JwS1F1RUfSAVRBVV95cUxOSEFGano1U09jLVNjaDBDV090dWpTT1hCWTFBUXk1LW40Z0NtN0NGdzdjMHZXZWlqSGlRemM0Nmo1ZmRwb0lmMnB3TzV5UXBhUXN6MVA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c452fb5b533",
+      "title": "손라, 여성 노동조합원 150명에게 무료 집중 암 검진 및 검진 제공 - Laodong.vn",
+      "published": "2026-10-25T02:18:36+00:00",
+      "summary": "손라, 여성 노동조합원 150명에게 무료 집중 암 검진 및 검진 제공&nbsp;&nbsp;Laodong.vn2026년부터 2031년까지 노동조합원 및 노동자의 건강을 돌보고 향상시키는 것&nbsp;&nbsp;Vietnam.vn여성 노동조합원 및 근로자를 위한 종합 암 검진.&nbsp;&nbsp;Vietnam.vn손라: 공장 여성 근로자 200명 대상 무료 암 검진.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNODhfUXk4SXJIRm14aHZ2VzdHUDdFWkZmTjBjSlpvX1VQQllGbXZXaDBxaEJyaUZ0bVVMVkhtMjhITGRFbnhZS1MtR1R3TzJoQnhHME5jTFFWbUtodjM5WnlxTzlFUUVMdU1xalpYYU9mTnpodVUycVZOUjRYNXdESW1EZEpwSDRhcHhNams4V2MyM2lTT2prd2RMZlU5TkNlTXEzdWlsbWlhbExYVGlRbjRYM1FFYzFWZGRmbEFYTU8?oc=5"
+        }
+      ]
+    },
     {
       "id": "be18e4e74052",
       "title": "“심장에 피떡 생길 수도”…응급의학과 교수가 무조건 말리는 두 가지 - 세계일보",
@@ -66,42 +138,6 @@
       ]
     },
     {
-      "id": "3ef7209205a2",
-      "title": "“눈 딱 감고 끊으세요”…매일 찾던 ‘이것’, 췌장암 위험 높였다 - 데일리25",
-      "published": "2026-10-24T10:19:09+00:00",
-      "summary": "“눈 딱 감고 끊으세요”…매일 찾던 ‘이것’, 췌장암 위험 높였다&nbsp;&nbsp;데일리25“담배처럼 경고문 붙여야”…건강식인 줄 알았던 아침 식단의 함정&nbsp;&nbsp;세계일보췌장암 1년 만에 완치? “아닙니다”…5년 이상 몸 살펴야, 어떻게 일찍 발견할까?&nbsp;&nbsp;코메디닷컴“췌장 기능 서서히 약화”… 신봉선도 꾹 참은 ‘고당질 간식’&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "데일리25",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xcGg0RXBHTkp2OUVnR3FoenlpY01WTWhWaUNaZnRvSnc1NlNxdUhzY2dLeWpXTlN4cWs3aU5qR28zSGt5ck91aWVRWEUybzhlUDNuSHRsYlpYTVgzcUdPelhGRUh6SElGRXM0aQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "adca664fbd4a",
-      "title": "매일 마시는 차 “잘못 고르면 독 된다”…심장에 좋은 차는 - 동아일보",
-      "published": "2026-10-24T09:40:01+00:00",
-      "summary": "매일 마시는 차 “잘못 고르면 독 된다”…심장에 좋은 차는&nbsp;&nbsp;동아일보건강에 좋다던 차, ‘앗뜨뜨’ 뜨겁게 마셨더니 오히려 독됐다&nbsp;&nbsp;경향신문차 꾸준히 마시면 혈관질환 위험 11% 낮아진다…카페인 과다는 주의&nbsp;&nbsp;세계일보“매일 마셨더니 혈관 깨끗해졌다”…의사들도 틈틈이 챙긴다는 ‘이 음료’ [헬시타임]&nbsp;&nbsp;서울경제차 섭취 습관과 혈관질환 위험 연관성 분석&nbsp;&nbsp;메디포뉴스",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pa2hVVlA0ZGxSWVJKMHlXMlBDVVlaU2tfR1RGZVZNNnZkNlJFa25TMHhqQ01VNzUtLWdGVlRjaGY5d3VXdlhGZkNJSG5zeEtZbF9qbkRlSlR0dUg2ejlaZUpaOExqYnpIZk9wVzZEY1cwaFpJWWfSAWZBVV95cUxOSGlMV09aLWxnRmtQZmhTNGE3cWRCMzZvdG5mOXdZYUNrYzJPaHYxZnFpamdvSzlacHJVVWlQSDUzQm5US0JFV29nMVA3LVJKV1VvbzhwWWNqcUIxd0tWeTB0MGJaQ3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abab33380bd4",
-      "title": "“당뇨병약, 혈전제거술 받은 뇌경색 환자 회복에 기여”…국내 연구 결과 관심 - 위키트리",
-      "published": "2026-10-24T07:00:00+00:00",
-      "summary": "“당뇨병약, 혈전제거술 받은 뇌경색 환자 회복에 기여”…국내 연구 결과 관심&nbsp;&nbsp;위키트리\"당뇨병약, 혈전제거술 받은 뇌경색 환자 회복에 기여\"&nbsp;&nbsp;사이언스타임즈",
-      "sources": [
-        {
-          "name": "위키트리",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mTzZzQkROYjVvcXJhTVRrMHVjc2hPcnRmdVFoM0o4R1lFZE9MWmsyUVpKTXBIQlJEUEQza3FQVkZZV0lJdzF3bnprWW9uYjR5UG1KejRB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a688dedb5db8",
       "title": "대장염 예방 및 소화기 건강 보호에 도움이 되는 방법 - Laodong.vn",
       "published": "2026-10-24T06:00:00+00:00",
@@ -126,10 +162,22 @@
       ]
     },
     {
+      "id": "1cd522aedcbf",
+      "title": "가벼운 낙상에도 부러질 수 있다…골다공증 예방하려면? - 이데일리",
+      "published": "2026-10-24T05:07:02+00:00",
+      "summary": "가벼운 낙상에도 부러질 수 있다…골다공증 예방하려면?&nbsp;&nbsp;이데일리‘조용한 뼈 도둑’ 막는 일상 속 예방법...우유·두부 먹고 일주일 2~3회 운동&nbsp;&nbsp;경기일보[건강칼럼] 신성재 교수 \"고령 여성 5명 중 1명 골다공증...골절 전 선제 관리 필수\"&nbsp;&nbsp;팜뉴스좋은병원들, ‘세계 골다공증의 날’ 기념 건강 캠페인&nbsp;&nbsp;의학신문소리 없이 약해지는 뼈…골다공증, 골절 전에 잡아야 [e건강~쏙]&nbsp;&nbsp;이투데이",
+      "sources": [
+        {
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeDdpYVBFZU9ROXV3T2lPMnNOTnF2alVRNW42RHU2aU1FSlZaQ3hLV1k1WTZPV3JTc3hSTkxoemdyaktxQ0hhU19qdm1YR1BQNHlFNUZaNVV2aWNsWGtfZDF0Z3p2U0ZybEkzS25vZk9uTVFDWUZwQVJ3bWNnWVB1Rg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1cebcda46c0b",
       "title": "전립선암 조기 예측 가능성 열리나…단서는 혈액 속 단백질 - 아시아경제",
       "published": "2026-10-24T05:01:05+00:00",
-      "summary": "전립선암 조기 예측 가능성 열리나…단서는 혈액 속 단백질&nbsp;&nbsp;아시아경제‘이 암’ 잘 걸리는 남성 따로 있다?…발병 10년 전 핏속 신호 포착 [헬스픽]&nbsp;&nbsp;서울신문[이윤수의 성] 증상 없는 전립선암, 혈액 PSA 검사로 조기 발견 돕는다&nbsp;&nbsp;이데일리전립선암 발생 10여년 전부터 혈액 단백질 변화 나타난다&nbsp;&nbsp;메디컬투데이",
+      "summary": "전립선암 조기 예측 가능성 열리나…단서는 혈액 속 단백질&nbsp;&nbsp;아시아경제‘이 암’ 잘 걸리는 남성 따로 있다?…발병 10년 전 핏속 신호 포착 [헬스픽]&nbsp;&nbsp;서울신문[이윤수의 성] 증상 없는 전립선암, 혈액 PSA 검사로 조기 발견 돕는다&nbsp;&nbsp;이데일리유전체 검사, 고위험 전립선암 치료 강도 결정에 도움 가능&nbsp;&nbsp;메디컬투데이전립선암 발생 10여년 전부터 혈액 단백질 변화 나타난다&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "아시아경제",
@@ -141,7 +189,7 @@
       "id": "c229775e11ea",
       "title": "‘만보 걷기’ 정답 아니었네…나이 들수록 건강 지키는 걸음 수, 따로 있다 - 레이디경향",
       "published": "2026-10-24T02:00:00+00:00",
-      "summary": "‘만보 걷기’ 정답 아니었네…나이 들수록 건강 지키는 걸음 수, 따로 있다&nbsp;&nbsp;레이디경향“심근경색 위험 확 오른다”… 이른 아침, 조심해야 할 ‘흔한 운동’&nbsp;&nbsp;헬스조선미국 심장학계 \"운동도 약처럼 처방해야\" 유산소·근력운동 병행 권고&nbsp;&nbsp;와이드스포츠美심장학회 “운동도 약처럼 처방해야”…심혈관질환 치료 핵심으로 권고&nbsp;&nbsp;메디컬투데이",
+      "summary": "‘만보 걷기’ 정답 아니었네…나이 들수록 건강 지키는 걸음 수, 따로 있다&nbsp;&nbsp;레이디경향나이 드니 기억력 떨어졌다고 느낀다면 평소에 얼마나 걷고 움직이는지 살펴야&nbsp;&nbsp;조선일보[허프 US] '하루 1만 보' 부담스럽다면? 3천 보만 걷자 : 치매 진행 3년 늦춘다&nbsp;&nbsp;허프포스트코리아美심장학회 “운동도 약처럼 처방해야”…심혈관질환 치료 핵심으로 권고&nbsp;&nbsp;메디컬투데이[근거에 기반한 시대건강 120] ② 하루 1만보, 꼭 채워야 할까&nbsp;&nbsp;동행미디어 시대",
       "sources": [
         {
           "name": "레이디경향",
@@ -150,14 +198,14 @@
       ]
     },
     {
-      "id": "b0e9ae0f9971",
-      "title": "LA카운티서 독감 사망자 2명 발생…보건당국 “백신 접종 서둘러야” - 라디오코리아",
-      "published": "2026-10-24T00:41:00+00:00",
-      "summary": "LA카운티서 독감 사망자 2명 발생…보건당국 “백신 접종 서둘러야”&nbsp;&nbsp;라디오코리아“독감 조심하세요”··· BC주 독감 환자 전국 최고&nbsp;&nbsp;밴쿠버 조선일보시애틀 독감 벌써 기승…응급실 환자 급증에 9명 사망 > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleN\"건강하다 방심했다\"… 美 서부지역으로 부터 번지는 10년 만의 독감 공포&nbsp;&nbsp;글로벌이코노믹미국 독감 유행 이례적으로 빨라…새 H1N1 변이, 젊은층 위험 우려&nbsp;&nbsp;메디컬투데이",
+      "id": "247278f267ce",
+      "title": "\"카레에 후추를 툭툭 쳐서 먹었더니\"…건강 향상에 도움 되는 향신료 - 코메디닷컴",
+      "published": "2026-10-24T01:05:00+00:00",
+      "summary": "\"카레에 후추를 툭툭 쳐서 먹었더니\"…건강 향상에 도움 되는 향신료&nbsp;&nbsp;코메디닷컴",
       "sources": [
         {
-          "name": "라디오코리아",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YWTB1M1lQTldNc0NRbWhLNER2QUZ2QS13OV9jWkFHeExLY21Ka19rZFNRWFFkZ2JvR1A2SWJLQmRSZ0JTTGExVm5zZlhLQ1ZVSUxzVG1iUVpucVB4WnMyb0RoY2k?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VaGQxMnRMeTM2ZldfWDdBWGhrZTR3cmJrRjIxeU9fRU5qd2R0ckttWnpLWFJiMzB2R2d2UlNtTG1qdw?oc=5"
         }
       ]
     },
@@ -174,14 +222,14 @@
       ]
     },
     {
-      "id": "54d061a919d4",
-      "title": "소리 없이 약해지는 뼈…골다공증, 골절 전에 잡아야 [e건강~쏙] - 이투데이",
-      "published": "2026-10-24T00:00:00+00:00",
-      "summary": "소리 없이 약해지는 뼈…골다공증, 골절 전에 잡아야 [e건강~쏙]&nbsp;&nbsp;이투데이‘조용한 뼈 도둑’ 막는 일상 속 예방법...우유·두부 먹고 일주일 2~3회 운동&nbsp;&nbsp;경기일보가벼운 낙상에도 부러질 수 있다…골다공증 예방하려면?&nbsp;&nbsp;이데일리증상 없이 진행되는 골다공증...골절 전 관리가 중요&nbsp;&nbsp;로이슈[오늘의 성경말씀·20일] 여호와는 나의 힘과 방패시니&nbsp;&nbsp;서울동북신문",
+      "id": "335d6f5abbe4",
+      "title": "[김연수의 식탁이야기(105)] 폐기능검사 국가검진 도입했지만, 정작 호흡기 전문의는 부족 - 뉴스투데이",
+      "published": "2026-10-24T00:01:11+00:00",
+      "summary": "[김연수의 식탁이야기(105)] 폐기능검사 국가검진 도입했지만, 정작 호흡기 전문의는 부족&nbsp;&nbsp;뉴스투데이“올해부터 무료인데”… 10명 중 8명 모르는 건강검진 ‘COPD’&nbsp;&nbsp;헬스조선“기침, 가래가 계속되고 숨까지 찬다면?”...중년 이후 주의해야 할 만성폐쇄성폐질환 COPD&nbsp;&nbsp;바이오타임즈[매일건강] “감기인 줄 알았는데”…환절기 기침·가래, COPD 악화 신호일 수도&nbsp;&nbsp;울산매일 - 울산최초, 최고의 조간신문",
       "sources": [
         {
-          "name": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03WFRoUTlzRUludjRpU2dSOHN3eEN6ZDdfdWRMNjRsTW5TLUpDRUU5bkk0c2w3akh6c29idWZZcmpTUWc4VF8zYm9mZGpfQmQ1WnF6Vl9GR3ZDMzVrU3lfOV9VUGJscl9iUG1TbjdSY3l1a1Vr?oc=5"
+          "name": "뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BeVplN2tDM3VPRDRmNTMwVU10MmF4bGxVSlhKQk02VnY3SDJSdEk0cGY3alB0UzdfdHUzVXlBWjYwVDFwbm42WnZ5dHhSNjBHRHJEQU5KUUNyUWc?oc=5"
         }
       ]
     },
@@ -246,30 +294,6 @@
       ]
     },
     {
-      "id": "ef525adf5eb0",
-      "title": "[5060 인생2막-신중년 건강백서] ③“평생 콜레스테롤 걱정 없었는데”…폐경 후 혈관 건강 ‘빨간불’ - 한양경제",
-      "published": "2026-10-23T09:22:05+00:00",
-      "summary": "[5060 인생2막-신중년 건강백서] ③“평생 콜레스테롤 걱정 없었는데”…폐경 후 혈관 건강 ‘빨간불’&nbsp;&nbsp;한양경제“HDL 아무리 높아도, 제 기능 안 하면 소용 없어”… ‘세 가지 상황’ 주의를&nbsp;&nbsp;헬스조선\"운동·식단으로 콜레스테롤 잡을 수 있을까?\"... 콜레스테롤 관리 생활습관 5&nbsp;&nbsp;하이닥뇌졸중 후 LDL-C 낮을수록 좋다?···\"뇌졸중 아형 따라 다르게 접근해야\"&nbsp;&nbsp;메디칼업저버‘좋은 콜레스테롤’도 일 잘해야...“HDL 기능 좋을수록 치매 위험 낮아”&nbsp;&nbsp;디멘시아뉴스",
-      "sources": [
-        {
-          "name": "한양경제",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tRGFWVjhwTldWaGNFZzFLOEVad3dmWHAwcFUwci1qZGY5VklRUWEzR3JvUnpHNGZDZFl1RWtFSk13Rkl6LTZadThXYXVlaENTTmtteDRNYXRVRkNtWFlYanhQNVlsNTBicEpNUm1SZHNtZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b45afc96ba24",
-      "title": "AI가 설계한 바이러스의 첫 인체 투여 - 디일렉",
-      "published": "2026-10-23T08:17:24+00:00",
-      "summary": "AI가 설계한 바이러스의 첫 인체 투여&nbsp;&nbsp;디일렉항생제도 소용없는 슈퍼세균, AI가 만든 바이러스로 잡는다?&nbsp;&nbsp;조선일보AI가 치료용 바이러스 설계, ‘인간에게 투여’&nbsp;&nbsp;애플경제AI 설계 바이러스 환자에 첫 투여 : 테크/과학&nbsp;&nbsp;재경일보항생제 내성균 잡는 바이러스, AI로 설계해 환자에 첫 투여&nbsp;&nbsp;DongA Science",
-      "sources": [
-        {
-          "name": "디일렉",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1adVZzWlNCbFhnU0YybG1xR1hpREc4RDlSeEN0OGRCLThIN19qYktuUjdha0ZZVkFEWERfU1RfYV9mZUxzU244OTJ4QjhZOG8tb3V0Ym1GQlprdE43UWhLYkdxbUtVZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5da9df1e8214",
       "title": "우주에서 초록색 별 처음 발견됐어요! - 조선일보",
       "published": "2026-10-23T07:24:38+00:00",
@@ -294,26 +318,14 @@
       ]
     },
     {
-      "id": "71e5d4b971ab",
-      "title": "[암 생활정보 심층분석] “운동했으니 계속 앉아 있어도 괜찮을까?”…암 연구가 주목하는 ‘나머지 시간’ - 유스연합",
-      "published": "2026-10-23T05:22:38+00:00",
-      "summary": "[암 생활정보 심층분석] “운동했으니 계속 앉아 있어도 괜찮을까?”…암 연구가 주목하는 ‘나머지 시간’&nbsp;&nbsp;유스연합암요양 중 산책, 몸 상태에 맞는 가벼운 움직임이 중요하다 [이창곤 대표원장 칼럼]&nbsp;&nbsp;미디어파인",
+      "id": "1df35cfc1175",
+      "title": "암요양 중 산책, 몸 상태에 맞는 가벼운 움직임이 중요하다 [이창곤 대표원장 칼럼] - 미디어파인",
+      "published": "2026-10-23T02:26:39+00:00",
+      "summary": "암요양 중 산책, 몸 상태에 맞는 가벼운 움직임이 중요하다 [이창곤 대표원장 칼럼]&nbsp;&nbsp;미디어파인[암 생활정보 심층분석] “운동했으니 계속 앉아 있어도 괜찮을까?”…암 연구가 주목하는 ‘나머지 시간’&nbsp;&nbsp;유스연합",
       "sources": [
         {
-          "name": "유스연합",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03YzNSSExLRlltTW91d3dud1lUbjdaX2hlLTJnMlY0Y0lTaEYtTW8wSTE4TkpUSXlwSFBTZmxrSzM4RkN5OEJxUmpFSkNzeWJwMVc4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e456584004a5",
-      "title": "“소아 질환인 줄만 알았는데”… 20대 여성서 급증한 ADHD, 그 이유는? - 하이닥",
-      "published": "2026-10-23T04:00:00+00:00",
-      "summary": "“소아 질환인 줄만 알았는데”… 20대 여성서 급증한 ADHD, 그 이유는?&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83WnJDWk9TRDBMUXQ5b1NfbkgwNlp0MEVFOVloeUtpbXNIZHdKMkNjX1o2Ry10RzVVd2h3R19JWlJGZnZvUTZWZmhtcmtRaXl0bnNST1BuTTgtc09rcFdWVEx5MjJjYUl0RkE?oc=5"
+          "name": "미디어파인",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iZm9vUVd4c1JYTXM0VkFoVUZmMTE5TUZvSmd5LTVPMFFGUmh0WFBQWkI3QkpCYzNrVW8tVXdQcldpcTNkZzN1S1NWRHQtM3hXZHlOYzR2Y2g4eFdNcDNMZG1LRjBYcExuTWktMkNR?oc=5"
         }
       ]
     },
@@ -326,18 +338,6 @@
         {
           "name": "대구MBC",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pSll4S1E0YktxTlJaVTZOMFhBRnRnNnQ5a19XYmhkY3M2c0QtbWVjZWE5N2lFZV91WXY2QV9MNTdTRXR1eEFvMTkyVGU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7440c3c86bb2",
-      "title": "뇌세포 하나가 '초소형 컴퓨터'처럼 작동한다…중국 연구진, AI 학습 원리 뒤집을 단서 발견 - 인공지능신문",
-      "published": "2026-10-23T00:40:30+00:00",
-      "summary": "뇌세포 하나가 '초소형 컴퓨터'처럼 작동한다…중국 연구진, AI 학습 원리 뒤집을 단서 발견&nbsp;&nbsp;인공지능신문",
-      "sources": [
-        {
-          "name": "인공지능신문",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PUjNMMUJ1c2ZSbzB0X256T1RoZXdHeDFiekJTeWJfa2dZdnVETDRTell4S1RmOEUwSEFrVUV6RlBPLU9XZ205VS1IVWV5VHlVbzk1XzJac3hNZEJXamJrX0pEQ2NpTGs?oc=5"
         }
       ]
     },
@@ -366,14 +366,14 @@
       ]
     },
     {
-      "id": "50319dc91a88",
-      "title": "닌빈에서 뎅기열이 복잡하게 진행되고 위험이 증가하고 있습니다 - Laodong.vn",
-      "published": "2026-10-22T08:33:38+00:00",
-      "summary": "닌빈에서 뎅기열이 복잡하게 진행되고 위험이 증가하고 있습니다&nbsp;&nbsp;Laodong.vn호치민시에서는 이번 주에 1,800건이 넘는 수족구병 환자가 발생했습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 발병 사례가 거의 7배 가까이 증가하면서 특정 지역에서 대규모 발병 위험이 높아지고 있습니다.&nbsp;&nbsp;Vietnam.vn푸꾸옥에서 뎅기열 환자가 1,000명 이상 발생하면서 백신 접종 수요가 증가하고 있다.&nbsp;&nbsp;Vietnam.vn안장성은 뎅기열과 수족구병을 적극적으로 예방 및 통제하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "79276b848d68",
+      "title": "신경세포 뇌 수초 유지 체계 규명...뇌질환 치료 기대 [헬스LAB] - 파이낸셜뉴스",
+      "published": "2026-10-22T20:00:00+00:00",
+      "summary": "신경세포 뇌 수초 유지 체계 규명...뇌질환 치료 기대 [헬스LAB]&nbsp;&nbsp;파이낸셜뉴스신경세포가 뇌 수초를 유지하는 새로운 분자 신호체계 찾았다&nbsp;&nbsp;BRIC신경세포가 뇌 '수초' 유지하는 신호체계 찾았다&nbsp;&nbsp;뉴시스“뇌 신경 보호막 유지하는 열쇠 찾았다”… 한국뇌연구원 연구 성과&nbsp;&nbsp;한국일보한국뇌연구원, 성체 뇌 수초 유지하는 새 신호체계 규명&nbsp;&nbsp;BBS불교방송",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1hPejQ4SzVnZGZOM3RjQW5uNjM1N0t2X1hOTXJmYXJTZ2hIY1FjaS1qMHNfWjFRQk9zak13eGV2dm8tblNwYURCbUtMQjFyTURPWDZuX1dIUXJQd2RyNk9fbS1XOExUdU1jbGRWWHIwbFg0RzBlaTJMWklJVEtCWWlmTTVuRUlYWU43dm9adUJqYUhZaUVLSlJrRVBxRE9nRkQtZVdJaXd5NXM?oc=5"
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11dTUzeGVnZmpHT0QxQzVYb2Y3T1dWb1I4Tm1TTVZCc2I5Tk1MaUt1dlk3X1oxazNzTWZSdWVwTGlWdFF3cndCQXd4dzh6UXg3TGxkbEFiX3VKZw?oc=5"
         }
       ]
     },
@@ -438,6 +438,18 @@
       ]
     },
     {
+      "id": "4ae711c6975e",
+      "title": "뇌졸중 후 LDL-C 낮을수록 좋다?···\"뇌졸중 아형 따라 다르게 접근해야\" - 메디칼업저버",
+      "published": "2026-10-22T03:15:37+00:00",
+      "summary": "뇌졸중 후 LDL-C 낮을수록 좋다?···\"뇌졸중 아형 따라 다르게 접근해야\"&nbsp;&nbsp;메디칼업저버“HDL 아무리 높아도, 제 기능 안 하면 소용 없어”… ‘세 가지 상황’ 주의를&nbsp;&nbsp;헬스조선\"운동·식단으로 콜레스테롤 잡을 수 있을까?\"... 콜레스테롤 관리 생활습관 5&nbsp;&nbsp;하이닥‘좋은 콜레스테롤’도 일 잘해야...“HDL 기능 좋을수록 치매 위험 낮아”&nbsp;&nbsp;디멘시아뉴스‘LDL’은 담배와 같아… 빨리 낮출수록 건강에 이득&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3QjJtcDVmWHNQd2NBdk1Ed3A1LTNoSGpxX011aTVOMl9VY3Zxd1RwQjR4bEVjbjhIM05MOVhXa3ppY1Z5Uzl2OEwxYkF3ZG8yX3VaNG5QUHFkUHF5d1QtV0dpUlBRMUxWT3kw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "911d75903d9d",
       "title": "[건강포커스] \"결핵 백신 BCG, 치매 병리 생쥐 뇌 손상·기억력 저하 완화\" - 연합뉴스",
       "published": "2026-10-22T00:50:02+00:00",
@@ -474,6 +486,18 @@
       ]
     },
     {
+      "id": "16a3c67f5128",
+      "title": "“ADHD는 어린이 질환인 줄 알았는데”⋯20대 여성 진단 급증했다 - 코메디닷컴",
+      "published": "2026-10-21T21:30:00+00:00",
+      "summary": "“ADHD는 어린이 질환인 줄 알았는데”⋯20대 여성 진단 급증했다&nbsp;&nbsp;코메디닷컴ADHD 덕분에 성공한 여성들&nbsp;&nbsp;한겨레21ADHD 진단의 증가가 의미하는 것은?&nbsp;&nbsp;가톨릭대학보“소아 질환인 줄만 알았는데”… 20대 여성서 급증한 ADHD, 그 이유는?&nbsp;&nbsp;하이닥﻿성인 ADHD가 늘어나는 진짜 이유&nbsp;&nbsp;정신의학신문",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QQzBHeldJR1lnb2dxMnJHZ1daczFway10T2lVUkl0N2xTam5MUHRpVkxZSkdwcjBKSXR5bGZiSFUxdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fec453017f9c",
       "title": "[단독] ‘노벨상’ 아이스큐브 연구, 韓 청년들도 ‘한 팀’ - 조선일보",
       "published": "2026-10-21T21:29:53+00:00",
@@ -486,14 +510,14 @@
       ]
     },
     {
-      "id": "2196edfe5f7f",
-      "title": "[전문의 칼럼]‘GLP-1 계열’ 비만 치료제, 살 빠지며 힘줄 파열 부작용 우려 - 동아일보",
-      "published": "2026-10-21T19:30:00+00:00",
-      "summary": "[전문의 칼럼]‘GLP-1 계열’ 비만 치료제, 살 빠지며 힘줄 파열 부작용 우려&nbsp;&nbsp;동아일보살 빼려다 돌 얹혔다, 비만치료제 ‘담석’ 주의보 — The Korea Times Daily&nbsp;&nbsp;The Korea Times Daily비만치료제 맞고 머리 빠진다면···약보다 ‘급격한 감량’이 원인일 수 있어&nbsp;&nbsp;메디컬투데이GLP-1 관련 약물 중증 부작용 7종 근거 분석&nbsp;&nbsp;메디칼트리뷴비만약 맞으면 실명? 너무 나간 우려[내 생각은/김동욱]&nbsp;&nbsp;동아일보",
+      "id": "78e33155e0ec",
+      "title": "항생제 내성균 잡는 바이러스, AI로 설계해 환자에 첫 투여 - DongA Science",
+      "published": "2026-10-21T20:00:00+00:00",
+      "summary": "항생제 내성균 잡는 바이러스, AI로 설계해 환자에 첫 투여&nbsp;&nbsp;DongA Science항생제도 소용없는 슈퍼세균, AI가 만든 바이러스로 잡는다?&nbsp;&nbsp;조선일보AI가 치료용 바이러스 설계, ‘인간에게 투여’&nbsp;&nbsp;애플경제AI가 설계한 바이러스의 첫 인체 투여&nbsp;&nbsp;디일렉AI 설계 바이러스 환자에 첫 투여 : 테크/과학&nbsp;&nbsp;재경일보",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhaWF0SEl1OXBZclJkNTdvQllGejE2RjlHSGhDb2t1YXZtbkdGVkFScm55VVQxWlhRQ2VhWFZJbkh0bVEwbVVKUk9oVjhxYjVwWmdDblh4QS0wMTJ0WlliamFvT2o2Tmg2Zk9XRHd1ONIBZkFVX3lxTE9OT0NWblppZ0txbWFEOTJXMlMyYVd4Y0xHQUJoQm9SazhWWnh4cmVSUHZzUHQ1NVEzam9oaHBZaXdiQnhqcjJUZnZIeDctMWRJdzlWWlRfc2VUVGxJWmRDQ1U0MUwzQQ?oc=5"
+          "name": "DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLTW11ck1ud0xnMklpaUN1WU9rb0s0VTJuRUZsa0k1MzdLRmthVUlvTFhtX1JXblI0Y1N6UlFoUDBPQ1B3VmgzYWxhZWtqTHFuV2dEdQ?oc=5"
         }
       ]
     },
@@ -506,18 +530,6 @@
         {
           "name": "국민뉴스",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE80bjdzZnZ3bDl4UjBTV3Y4QldfYzBEb1p0dGVkd3pXY2xRNHNxX1lFbUlRazRva3FFQ01IMU9udVAwb19TeGRjWVZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b4bd3ba89657",
-      "title": "아이도, 노인도 벅벅…이젠 긁지 마세요 - 헬스경향",
-      "published": "2026-10-21T12:48:00+00:00",
-      "summary": "아이도, 노인도 벅벅…이젠 긁지 마세요&nbsp;&nbsp;헬스경향\"10점 만점에 10점 통증\"… 노년기 극심한 가려움, 단순 피부 노화 아니다&nbsp;&nbsp;국제뉴스KBS1 생로병사의 비밀…지독한 가려움, 긁을수록 위험한 노인소양증&nbsp;&nbsp;위키트리'생로병사의 비밀' 긁을수록 위험하다, 노인소양증&nbsp;&nbsp;KBS연예",
-      "sources": [
-        {
-          "name": "헬스경향",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NalJxd0cyS0g1VlZTZk1kYWpTVW5KYVRLa2tGcmtOYThZTWxrMXdRSWg3U2NNT054SUEwY0IyVWZvRmZmTy1ZbmFBQkR5Uy1aa3gwWWlaekktVm9oSnpPVzVhQVAyZElLX0Yw?oc=5"
         }
       ]
     },
@@ -537,7 +549,7 @@
       "id": "834e2a264be2",
       "title": "“과로인 줄 알았지”… 패혈증 숨어있는 ‘익숙한 증상’ 3가지 - 헬스조선",
       "published": "2026-10-21T11:00:00+00:00",
-      "summary": "“과로인 줄 알았지”… 패혈증 숨어있는 ‘익숙한 증상’ 3가지&nbsp;&nbsp;헬스조선“기침, 가래가 계속되고 숨까지 찬다면?”...중년 이후 주의해야 할 만성폐쇄성폐질환 COPD&nbsp;&nbsp;바이오타임즈환절기 기침, 무심코 넘겼다간…감기와 폐렴 구별하는 법&nbsp;&nbsp;약사공론감기 끝 다시 감기?…38도 이상 고열 지속될 때 '폐렴' 의심해봐야&nbsp;&nbsp;코리아헬스로그\"단순 감기인 줄 알았는데 방치하면 패혈증까지\"…환절기 폐렴 주의보[헬스톡]&nbsp;&nbsp;부산파이낸셜뉴스",
+      "summary": "“과로인 줄 알았지”… 패혈증 숨어있는 ‘익숙한 증상’ 3가지&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "헬스조선",
@@ -554,6 +566,18 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vS3dQNUxBUWVKcmhkalVwVE40MEQzVzV6Q0JTNmJteFNFdV9BSlhRdXk4T25oZ3duZWNkd1BGS3d3Y2NNWFc2akNpNFhwVW5CR0ZocWRTTXk0bGVWSWtzMW04WkI4YUYyN2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4769ad22124b",
+      "title": "레메디, NASA 우주 임무 장비 선정 이어 스페이스X 우주선 탑재 기대…美 의료시장까지 영토 확장 - 파이낸셜포스트",
+      "published": "2026-10-21T01:48:21+00:00",
+      "summary": "레메디, NASA 우주 임무 장비 선정 이어 스페이스X 우주선 탑재 기대…美 의료시장까지 영토 확장&nbsp;&nbsp;파이낸셜포스트",
+      "sources": [
+        {
+          "name": "파이낸셜포스트",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42QnBGcXM3TkFyaFZXZFprQmZETFFHZGlDM0ZQVHlGXzl5dXRlTjV1dkdIaHRmeXpHV1BkQnlwTjFDX3dRMFVnNTBHY041NXRSSTVwZEV3Ym5IdWMwRkpwT2FTdFRQX09CQXhWcnNqZWpWZkxz?oc=5"
         }
       ]
     },
@@ -594,18 +618,6 @@
       ]
     },
     {
-      "id": "dad53492ecbc",
-      "title": "뇌에 ‘치매 단백질’ 쌓인 노인, 매일 3000보 걸으니 나타난 ‘반전’ - 헬스조선",
-      "published": "2026-10-20T14:00:00+00:00",
-      "summary": "뇌에 ‘치매 단백질’ 쌓인 노인, 매일 3000보 걸으니 나타난 ‘반전’&nbsp;&nbsp;헬스조선나이 드니 기억력 떨어졌다고 느낀다면 평소에 얼마나 걷고 움직이는지 살펴야&nbsp;&nbsp;조선일보걷기가 뇌에 주는 예상치 못한 이점들.&nbsp;&nbsp;Vietnam.vn하루 걸음 수 많을수록 주의력·의사결정 능력 우수&nbsp;&nbsp;메디컬투데이[HEALTH] 하루 3000보만 걸어도 알츠하이머병 진행 늦출 가능성 높아&nbsp;&nbsp;와이드스포츠",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16ZjdCanlwWFFOZUtjXzZDN0RfcDM2V0RIRC1jM3hyU3RCZzROY2k5OUk0anBDSjJfU1hBV1ByYnVlOU90WTRmNFliOFRpMFlYRlotX0ZMbE84MXBJbjVsaTMzbXlmanFWVXoyLVBiZUwtR3lPSUJ4em9zMHpUYWs?oc=5"
-        }
-      ]
-    },
-    {
       "id": "086c7b311cdb",
       "title": "학생 정신건강, 검사가 아니라 사람이 지킨다 [기고] - 한겨레",
       "published": "2026-10-20T10:58:00+00:00",
@@ -618,6 +630,18 @@
       ]
     },
     {
+      "id": "771609f75dbe",
+      "title": "장내 충치균 대사물질 파킨슨병 유발 확인 : 건강 - 재경일보",
+      "published": "2026-10-20T10:15:11+00:00",
+      "summary": "장내 충치균 대사물질 파킨슨병 유발 확인 : 건강&nbsp;&nbsp;재경일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "재경일보",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zUl9RdzYyRDc5VWpEb3JERHlqdmZHb2pyZF94VHdzRUJzUXNQUzNXVXBCbTJsUHEwTlRlWmdmV0JvNDRkNncyZ2xzMA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d79fcbb67436",
       "title": "건져 올린 심해 암석이 말해주는 것 [오철우의 과학풍경] - 한겨레",
       "published": "2026-10-20T09:47:00+00:00",
@@ -626,6 +650,18 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93a2hYYi11X2ozSEszZGRCaDhwLWtTSngwbGZ4ZWxObmY0ZEc0ZkV6YXhJcnJuTXVSTlFyZEdQc3NQNWp0QmlLTmtJVUYwOW10VnRtbUkydEx6eVhpclVGTkZmUEVUZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "79da3ce6dc0c",
+      "title": "두피부터 발까지 가려움에 몸부림…노인소양증의 실체 조명 (생로병사의 비밀) - 조선비즈 - Chosunbiz",
+      "published": "2026-10-20T09:10:00+00:00",
+      "summary": "두피부터 발까지 가려움에 몸부림…노인소양증의 실체 조명 (생로병사의 비밀) - 조선비즈&nbsp;&nbsp;Chosunbiz아이도, 노인도 벅벅…이젠 긁지 마세요&nbsp;&nbsp;헬스경향\"10점 만점에 10점 통증\"… 노년기 극심한 가려움, 단순 피부 노화 아니다&nbsp;&nbsp;국제뉴스KBS1 생로병사의 비밀…지독한 가려움, 긁을수록 위험한 노인소양증&nbsp;&nbsp;위키트리'생로병사의 비밀' 긁을수록 위험하다, 노인소양증&nbsp;&nbsp;KBS연예",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHA0Nng2VjNoVW5DU1FJeExuSUtlNERjZkU5UWpJZzZIUzNlZ1ZoN0l1WVF0Wl9Oc0hKRjgxYV9XcmtVVktYblRSc2htY2FoX1V4S0JSSEQxZUsteXhkQzdlY253bVRGVjMzek5tOUdkbXhMUWlwQzRlV002QW1ENU9QLU3SAZgBQVVfeXFMUFdaNXFPa1B2Z05uYlcwM01ZVklXZHVGOXhJa0hmMlUxRHZFVUhqUXBHRWhNekpnelRITWxoTmVlaEtmTzUwb3lNSEZac0QxdEQ1NE5jNHh0Z2dkYS13dXFkSjZGUzBTaExoa2V2TE9tNjdUcW1iVVdBdmZzRjJERUlNT09aVFFaeWh6R0xUY2FxZ1J0VjNpN3Y?oc=5"
         }
       ]
     },
@@ -645,7 +681,7 @@
       "id": "915dc9fcf939",
       "title": "전염병 겹쳐 닥락에서 소아 환자 입원 급증 - Laodong.vn",
       "published": "2026-10-20T02:37:39+00:00",
-      "summary": "전염병 겹쳐 닥락에서 소아 환자 입원 급증&nbsp;&nbsp;Laodong.vn호흡기 질환 환자가 급증하면서 병원들은 복도에 추가 병상을 마련해야 했습니다.&nbsp;&nbsp;Vietnam.vn호치민시의 어린이 병원들이 호흡기 질환 환자로 넘쳐나고 있습니다.&nbsp;&nbsp;Vietnam.vn후에 지역에서 소아 입원 환자가 급증하면서, 해열이 어려운 고열에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn날씨 변화에 따라 어린이의 호흡기 질환을 사전에 예방하십시오.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "전염병 겹쳐 닥락에서 소아 환자 입원 급증&nbsp;&nbsp;Laodong.vn호흡기 질환 환자가 급증하면서 병원들은 복도에 추가 병상을 마련해야 했습니다.&nbsp;&nbsp;Vietnam.vn호치민시의 어린이 병원들이 호흡기 질환 환자로 넘쳐나고 있습니다.&nbsp;&nbsp;Vietnam.vn후에 지역에서 소아 입원 환자가 급증하면서, 해열이 어려운 고열에 대한 우려가 커지고 있습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -693,7 +729,7 @@
       "id": "d9a95fcb52f8",
       "title": "기존 폐렴구균 백신 접종자 PCV 추가 지원 '중장기 검토' - 의학신문",
       "published": "2026-10-19T03:00:00+00:00",
-      "summary": "기존 폐렴구균 백신 접종자 PCV 추가 지원 '중장기 검토'&nbsp;&nbsp;의학신문한국MSD·광동제약 “독감 시즌, 폐렴구균 질환 함께 예방하세요”&nbsp;&nbsp;에너지경제신문[제약브리핑] 한국MSD, 광동제약과 성인 폐렴구균 질환 예방 위한 연중 캠페인 전개 외&nbsp;&nbsp;서울파이낸스폐렴구균 백신 무료 23가냐 15만원 20가냐…20가가 먼저다&nbsp;&nbsp;매일신문",
+      "summary": "기존 폐렴구균 백신 접종자 PCV 추가 지원 '중장기 검토'&nbsp;&nbsp;의학신문한국MSD·광동제약 “독감 시즌, 폐렴구균 질환 함께 예방하세요”&nbsp;&nbsp;에너지경제신문[제약브리핑] 한국MSD, 광동제약과 성인 폐렴구균 질환 예방 위한 연중 캠페인 전개 외&nbsp;&nbsp;서울파이낸스",
       "sources": [
         {
           "name": "의학신문",
@@ -770,18 +806,6 @@
         {
           "name": "강찬수의 에코파일",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FZ2hXbXY1OF9mRjV4V3pzRldPOFlpanRkOTZPWmxRQ1h3Y0Vyd2pRc2x0dzEyM3ZVdGdXVDV5Y3J6Z2Vhc1RodzZxZFJjOWplY3pyaHB3OHN3WFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5750cbf2391b",
-      "title": "中, 암 공격하는 ‘탄소·철 주사’ 개발… “4기 암 환자 19명 중 16명 효과” - 조선일보",
-      "published": "2026-10-18T04:57:00+00:00",
-      "summary": "中, 암 공격하는 ‘탄소·철 주사’ 개발… “4기 암 환자 19명 중 16명 효과”&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVkNBSXFmSjNKcG1NZHRNbVU5YzV5V1ZzQ3MyUGcwZTVJa1p5bUFrVWhnaGhaRDFZRjltNnR6UmEwX0RmSWZWQVFQTXF5SnNoMExxQWExSEFvam9XTmJCXzIzVF9YV01fOWpNNlhnQlRQUWRPTDlCVnR3UnFGSW4wY1g4UQ?oc=5"
         }
       ]
     }
