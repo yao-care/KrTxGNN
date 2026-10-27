@@ -382,7 +382,7 @@ window.TXGNN_ANALYTICS = {
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "KrTxGNN 약물 근거 보고서",
       "description": "대한민국에서 승인된 의약품의 약물 재창출 근거 보고서",
-      "numberOfItems": {{ site.drugs.size }},
+      "numberOfItems": {{ site.data.drug_stats.total_drugs }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {
