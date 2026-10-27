@@ -49,7 +49,8 @@ last_modified_at: 2026-10-12
 
 ---
 
-# GIVOSIRAN SODIUM: 핵심 데이터 부재로 평가 보류
+## GIVOSIRAN SODIUM: 핵심 데이터 부재로 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

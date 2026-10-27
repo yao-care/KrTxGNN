@@ -33,7 +33,8 @@ predicted_indications: ["congenital ichthyosiform erythroderma"]
 
 </div>
 
-# Polysorbate 80: 안구 건조증에서 선천성 어린선양 홍피증으로
+## Polysorbate 80: 안구 건조증에서 선천성 어린선양 홍피증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

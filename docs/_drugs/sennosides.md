@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# Sennosides: 변비에서 두피 단순 저모발증으로
+## Sennosides: 변비에서 두피 단순 저모발증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

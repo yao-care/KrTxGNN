@@ -33,7 +33,8 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 
 </div>
 
-# Teriparatide: 골다공증에서 십이지장궤양으로
+## Teriparatide: 골다공증에서 십이지장궤양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

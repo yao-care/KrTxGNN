@@ -33,7 +33,8 @@ predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "abdomina
 
 </div>
 
-# Bacampicillin: 세균 감염증에서 후두개염으로
+## Bacampicillin: 세균 감염증에서 후두개염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

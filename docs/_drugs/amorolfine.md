@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum
 
 </div>
 
-# Amorolfine: 피부사상균증·조갑진균증에서 약물유발 골다공증으로
+## Amorolfine: 피부사상균증·조갑진균증에서 약물유발 골다공증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

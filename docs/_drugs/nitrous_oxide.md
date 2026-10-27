@@ -33,7 +33,8 @@ predicted_indications: ["benign prostatic hyperplasia (disease)"]
 
 </div>
 
-# Nitrous Oxide: 마취·진통에서 양성 전립선 비대증으로
+## Nitrous Oxide: 마취·진통에서 양성 전립선 비대증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

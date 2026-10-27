@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydri
 
 </div>
 
-# Dexlansoprazole: 위산 관련 질환에서 활동성 소화성 궤양으로
+## Dexlansoprazole: 위산 관련 질환에서 활동성 소화성 궤양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesotheli
 
 </div>
 
-# Pemetrexed: 기존 항암 적응증에서 악성 복막 중피종으로
+## Pemetrexed: 기존 항암 적응증에서 악성 복막 중피종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

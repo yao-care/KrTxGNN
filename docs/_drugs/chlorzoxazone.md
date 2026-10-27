@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropri
 
 </div>
 
-# Chlorzoxazone: 신경통·요통에서 편두통으로
+## Chlorzoxazone: 신경통·요통에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Polmacoxib: 골관절염에서 골관절염 감수성(예측 신규 적응증)으로
+## Polmacoxib: 골관절염에서 골관절염 감수성(예측 신규 적응증)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

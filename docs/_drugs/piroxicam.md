@@ -33,7 +33,8 @@ predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndro
 
 </div>
 
-# Piroxicam: 퇴행성관절염에서 골관절염 susceptibility로 (검토 후 실질 후보: 관절병증·골관절염 근거 확인)
+## Piroxicam: 퇴행성관절염에서 골관절염 susceptibility로 (검토 후 실질 후보: 관절병증·골관절염 근거 확인)
+{: .text-alpha }
 
 > 참고: 예측 1순위(osteoarthritis susceptibility)는 치료 가능한 임상 질환이 아닌 유전적 소인 개념입니다. 아래 보고서는 요청된 첫 번째 예측을 기준으로 작성하되, 근거가 가장 충실한 후보(골관절염, 관절병증)를 함께 평가합니다.
 

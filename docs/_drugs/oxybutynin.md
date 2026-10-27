@@ -33,7 +33,8 @@ predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ul
 
 </div>
 
-# Oxybutynin: 과민성 방광 계열 항무스카린제에서 하지불안증후군으로
+## Oxybutynin: 과민성 방광 계열 항무스카린제에서 하지불안증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

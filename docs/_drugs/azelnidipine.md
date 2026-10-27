@@ -41,7 +41,8 @@ Evidence Pack를 분석합니다. 핵심 상황:
 
 ---
 
-# AZELNIDIPINE: 예측 데이터 부족으로 평가 보류
+## AZELNIDIPINE: 예측 데이터 부족으로 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
 
 </div>
 
-# Carbetocin: 자궁 이완증 관련 산후출혈 예방에서 이소트레티노인 유사 증후군으로
+## Carbetocin: 자궁 이완증 관련 산후출혈 예방에서 이소트레티노인 유사 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

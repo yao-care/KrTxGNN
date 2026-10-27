@@ -36,7 +36,8 @@ Evidence Pack을 분석했습니다. 이 케이스는 예측 적응증·기존 �
 
 ---
 
-# ATOSIBAN ACETATE: 평가 불가 — 필수 데이터 부재
+## ATOSIBAN ACETATE: 평가 불가 — 필수 데이터 부재
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 
 </div>
 
-# Domperidone: 오심·구토에서 신장성 항이뇨호르몬 부적절 분비 증후군으로
+## Domperidone: 오심·구토에서 신장성 항이뇨호르몬 부적절 분비 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

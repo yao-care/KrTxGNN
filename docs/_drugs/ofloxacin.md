@@ -33,7 +33,8 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-# Ofloxacin: 세균 감염증에서 고아밀라아제혈증으로
+## Ofloxacin: 세균 감염증에서 고아밀라아제혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

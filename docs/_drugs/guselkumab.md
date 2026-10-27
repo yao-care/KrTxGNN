@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative di
 
 </div>
 
-# Guselkumab: 건선(IL-23 억제제)에서 약물유발 골다공증으로
+## Guselkumab: 건선(IL-23 억제제)에서 약물유발 골다공증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

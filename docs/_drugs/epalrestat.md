@@ -33,7 +33,8 @@ predicted_indications: ["Tay-Sachs disease", "mitochondrial oxidative phosphoryl
 
 </div>
 
-# Epalrestat: 당뇨병성 신경병증에서 제2형 당뇨병성 신증으로
+## Epalrestat: 당뇨병성 신경병증에서 제2형 당뇨병성 신증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

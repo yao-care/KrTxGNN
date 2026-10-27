@@ -33,7 +33,8 @@ predicted_indications: ["hepatoportal sclerosis", "primitive portal vein thrombo
 
 </div>
 
-# Doripenem: 세균 감염증에서 간문맥경화증으로
+## Doripenem: 세균 감염증에서 간문맥경화증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["salivary gland large cell carcinoma", "salivary gland s
 
 </div>
 
-# Efinaconazole: 조갑진균증에서 침샘 대세포암종으로
+## Efinaconazole: 조갑진균증에서 침샘 대세포암종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

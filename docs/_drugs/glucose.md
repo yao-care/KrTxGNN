@@ -47,7 +47,8 @@ last_modified_at: 2026-10-12
 
 ---
 
-# GLUCOSE: 약물 재창출 평가 불가 — 예측 적응증 없음
+## GLUCOSE: 약물 재창출 평가 불가 — 예측 적응증 없음
+{: .text-alpha }
 
 ## 한 문장 요약
 

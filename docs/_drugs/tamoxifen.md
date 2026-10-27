@@ -33,7 +33,8 @@ predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "bot
 
 </div>
 
-# Tamoxifen: 유방암에서 유방 파제트병(Mammary Paget Disease)으로
+## Tamoxifen: 유방암에서 유방 파제트병(Mammary Paget Disease)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

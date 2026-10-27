@@ -33,7 +33,8 @@ predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", 
 
 </div>
 
-# Etoposide: 항종양제에서 고분화 태아형 폐 선암으로
+## Etoposide: 항종양제에서 고분화 태아형 폐 선암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

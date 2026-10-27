@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 
 </div>
 
-# Valproic Acid: 간질(뇌전증)에서 삼차신경 신생물로
+## Valproic Acid: 간질(뇌전증)에서 삼차신경 신생물로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin 
 
 </div>
 
-# Proxyphylline: 기관지 확장 계열 약물에서 심장 질환으로
+## Proxyphylline: 기관지 확장 계열 약물에서 심장 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

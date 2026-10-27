@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder"]
 
 </div>
 
-# Bromazepam: 불안 장애 계열 약물에서 편두통으로
+## Bromazepam: 불안 장애 계열 약물에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["amenorrhea (disease)"]
 
 </div>
 
-# Estriol: 폐경 증상 치료에서 무월경으로
+## Estriol: 폐경 증상 치료에서 무월경으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

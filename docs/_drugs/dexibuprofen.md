@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# Dexibuprofen: 만성 다발성 관절염·류마티스관절염 등에서 골관절염 감수성(Osteoarthritis Susceptibility)으로
+## Dexibuprofen: 만성 다발성 관절염·류마티스관절염 등에서 골관절염 감수성(Osteoarthritis Susceptibility)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

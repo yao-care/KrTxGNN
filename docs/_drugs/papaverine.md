@@ -33,7 +33,8 @@ predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "no
 
 </div>
 
-# Papaverine: 혈관 경련 완화제에서 말초동맥질환으로
+## Papaverine: 혈관 경련 완화제에서 말초동맥질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

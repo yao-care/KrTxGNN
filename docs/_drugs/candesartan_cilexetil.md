@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Candesartan Cilexetil: 고혈압에서 악성 고혈압성 신질환으로
+## Candesartan Cilexetil: 고혈압에서 악성 고혈압성 신질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

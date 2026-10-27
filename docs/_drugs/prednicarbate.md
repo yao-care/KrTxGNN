@@ -33,7 +33,8 @@ predicted_indications: ["vulvar inverted follicular keratosis", "hypertrophic li
 
 </div>
 
-# Prednicarbate: 국소 피부 염증 질환에서 외음부 역전성 모낭각화증으로
+## Prednicarbate: 국소 피부 염증 질환에서 외음부 역전성 모낭각화증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

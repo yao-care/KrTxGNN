@@ -36,7 +36,8 @@ last_modified_at: 2026-09-17
 
 ---
 
-# Ropivacaine Hydrochloride: 약물 재창출 평가 보류 — 예측 결과 없음
+## Ropivacaine Hydrochloride: 약물 재창출 평가 보류 — 예측 결과 없음
+{: .text-alpha }
 
 ## 한 문장 요약
 

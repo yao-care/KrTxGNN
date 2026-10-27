@@ -33,7 +33,8 @@ predicted_indications: ["tetanic cataract", "immature cataract", "mature catarac
 
 </div>
 
-# Sulprostone: 분만 관련 적응증에서 백내장(tetanic cataract)으로
+## Sulprostone: 분만 관련 적응증에서 백내장(tetanic cataract)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

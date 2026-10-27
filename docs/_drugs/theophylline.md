@@ -33,7 +33,8 @@ predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotr
 
 </div>
 
-# Theophylline: 기도질환 치료제에서 혈전성 질환으로
+## Theophylline: 기도질환 치료제에서 혈전성 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

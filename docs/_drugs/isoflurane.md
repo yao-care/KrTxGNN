@@ -33,7 +33,8 @@ predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar
 
 </div>
 
-# Isoflurane: 마취제에서 프린츠메탈 협심증으로
+## Isoflurane: 마취제에서 프린츠메탈 협심증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

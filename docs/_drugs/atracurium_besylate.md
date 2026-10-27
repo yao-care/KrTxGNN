@@ -33,7 +33,8 @@ predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm"
 
 </div>
 
-# Atracurium besylate: 근이완(신경근 차단)에서 자간전증으로
+## Atracurium besylate: 근이완(신경근 차단)에서 자간전증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

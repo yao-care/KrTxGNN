@@ -33,7 +33,8 @@ predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with 
 
 </div>
 
-# 펨브롤리주맙(Pembrolizumab): 여러 암종에서 치은 섬유종증으로
+## 펨브롤리주맙(Pembrolizumab): 여러 암종에서 치은 섬유종증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

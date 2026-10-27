@@ -33,7 +33,8 @@ predicted_indications: ["obstructive lung disease", "food-dependent exercise-ind
 
 </div>
 
-# Epinephrine: 기관지 확장·아나필락시스 응급 치료제에서 폐쇄성 폐질환으로
+## Epinephrine: 기관지 확장·아나필락시스 응급 치료제에서 폐쇄성 폐질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

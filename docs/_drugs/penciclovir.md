@@ -33,7 +33,8 @@ predicted_indications: ["fascioliasis", "cysticercosis", "coenurosis", "intestin
 
 </div>
 
-# Penciclovir: 단순포진 치료제에서 파스시올라증(Fascioliasis) 예측으로
+## Penciclovir: 단순포진 치료제에서 파스시올라증(Fascioliasis) 예측으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

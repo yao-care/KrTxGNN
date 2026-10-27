@@ -33,7 +33,8 @@ predicted_indications: ["psychogenic movement disorders", "tremor-nystagmus-duod
 
 </div>
 
-# Deutetrabenazine: 헌팅턴병 무도증·지연성 이상운동증에서 만성 틱 장애로
+## Deutetrabenazine: 헌팅턴병 무도증·지연성 이상운동증에서 만성 틱 장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

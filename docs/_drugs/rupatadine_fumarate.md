@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Rupatadine Fumarate: 평가 데이터 부족으로 결론 보류
+## Rupatadine Fumarate: 평가 데이터 부족으로 결론 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

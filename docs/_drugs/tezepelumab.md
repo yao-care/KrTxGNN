@@ -33,7 +33,8 @@ predicted_indications: ["diabetic cataract", "mature cataract", "tetanic catarac
 
 </div>
 
-# Tezepelumab: 허가 적응증에서 당뇨병성 백내장으로
+## Tezepelumab: 허가 적응증에서 당뇨병성 백내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "a
 
 </div>
 
-# Ivermectin: 구충·항기생충 치료에서 외음질 칸디다증으로
+## Ivermectin: 구충·항기생충 치료에서 외음질 칸디다증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

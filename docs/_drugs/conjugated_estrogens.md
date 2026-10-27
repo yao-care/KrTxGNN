@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "an
 
 </div>
 
-# Conjugated estrogens: 폐경 관련 치료제에서 편두통으로
+## Conjugated estrogens: 폐경 관련 치료제에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

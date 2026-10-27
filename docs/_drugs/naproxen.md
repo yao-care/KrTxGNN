@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# Naproxen: 염증·통증 질환에서 단지증-합지증 증후군으로
+## Naproxen: 염증·통증 질환에서 단지증-합지증 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

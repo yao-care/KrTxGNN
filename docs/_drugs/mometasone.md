@@ -33,7 +33,8 @@ predicted_indications: ["primary cutaneous T-cell lymphoma"]
 
 </div>
 
-# Mometasone: 알레르기 비염 등 비강 질환에서 원발성 피부 T세포 림프종으로
+## Mometasone: 알레르기 비염 등 비강 질환에서 원발성 피부 T세포 림프종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Amitriptyline Hydrochloride: 예측 적응증 없음 — 데이터 불충분으로 평가 불가
+## Amitriptyline Hydrochloride: 예측 적응증 없음 — 데이터 불충분으로 평가 불가
+{: .text-alpha }
 
 ---
 

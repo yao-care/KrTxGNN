@@ -33,7 +33,8 @@ predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-
 
 </div>
 
-# Venetoclax: 허가 적응증에서 전배중심 만성 림프구성 백혈병/소림프구성 림프종(CLL/SLL) 아형으로
+## Venetoclax: 허가 적응증에서 전배중심 만성 림프구성 백혈병/소림프구성 림프종(CLL/SLL) 아형으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

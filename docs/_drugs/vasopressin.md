@@ -33,7 +33,8 @@ predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteo
 
 </div>
 
-# Vasopressin: 허가 적응증 정보 미확인에서 선천성 프로트롬빈 결핍증으로
+## Vasopressin: 허가 적응증 정보 미확인에서 선천성 프로트롬빈 결핍증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

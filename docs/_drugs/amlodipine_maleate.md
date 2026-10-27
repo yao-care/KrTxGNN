@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# AMLODIPINE MALEATE: 평가 보류 — 예측 적응증 데이터 없음
+## AMLODIPINE MALEATE: 평가 보류 — 예측 적응증 데이터 없음
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "fau
 
 </div>
 
-# Guaifenesin: 기침·가래에서 비강 질환으로
+## Guaifenesin: 기침·가래에서 비강 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

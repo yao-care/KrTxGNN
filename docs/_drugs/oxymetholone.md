@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic dermatitis"]
 
 </div>
 
-# Oxymetholone: 적혈구 생성 부전 빈혈에서 지루성 피부염으로
+## Oxymetholone: 적혈구 생성 부전 빈혈에서 지루성 피부염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

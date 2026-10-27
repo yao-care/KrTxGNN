@@ -33,7 +33,8 @@ predicted_indications: ["metastatic melanoma", "non-cutaneous melanoma", "epithe
 
 </div>
 
-# Mephenesin: 근육 이완제에서 전이성 흑색종으로
+## Mephenesin: 근육 이완제에서 전이성 흑색종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

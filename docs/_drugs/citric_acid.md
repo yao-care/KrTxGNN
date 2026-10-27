@@ -33,7 +33,8 @@ predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngi
 
 </div>
 
-# Citric Acid: 한국 허가 적응증에서 위 질환(Stomach Disease)으로
+## Citric Acid: 한국 허가 적응증에서 위 질환(Stomach Disease)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

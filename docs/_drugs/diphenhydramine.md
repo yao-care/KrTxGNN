@@ -33,7 +33,8 @@ predicted_indications: ["rosacea conjunctivitis"]
 
 </div>
 
-# Diphenhydramine: 일시적 불면증·피부 가려움에서 주사비 결막염으로
+## Diphenhydramine: 일시적 불면증·피부 가려움에서 주사비 결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

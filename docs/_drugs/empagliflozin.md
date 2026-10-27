@@ -33,7 +33,8 @@ predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndr
 
 </div>
 
-# Empagliflozin: 제2형 당뇨병에서 강직인간증후군으로
+## Empagliflozin: 제2형 당뇨병에서 강직인간증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

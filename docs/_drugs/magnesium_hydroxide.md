@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis", "stomach disease"]
 
 </div>
 
-# Magnesium Hydroxide: 변비·제산제에서 활동성 소화성 궤양으로
+## Magnesium Hydroxide: 변비·제산제에서 활동성 소화성 궤양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

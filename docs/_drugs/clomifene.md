@@ -33,7 +33,8 @@ predicted_indications: ["46,XY disorder of sex development due to testicular ste
 
 </div>
 
-# Clomifene: 배란 장애성 불임에서 46,XY 성분화 장애(고환 스테로이드 합성 결함)로
+## Clomifene: 배란 장애성 불임에서 46,XY 성분화 장애(고환 스테로이드 합성 결함)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

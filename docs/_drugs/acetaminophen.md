@@ -31,7 +31,8 @@ description: "Acetaminophen: 예측 신규 적응증 뇌간 조짐 편두통 (Mi
 
 </div>
 
-# Acetaminophen: 감기 증상·통증에서 뇌간 조짐 편두통으로
+## Acetaminophen: 감기 증상·통증에서 뇌간 조짐 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

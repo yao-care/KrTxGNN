@@ -31,7 +31,8 @@ description: "Melphalan: 예측 신규 적응증 유전성 유방난소암 증�
 
 </div>
 
-# Melphalan: 허가 적응증에서 유전성 유방·난소암 증후군으로
+## Melphalan: 허가 적응증에서 유전성 유방·난소암 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

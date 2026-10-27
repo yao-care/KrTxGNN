@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive poly
 
 </div>
 
-# Tretinoin: 허가 적응증 정보 미확인 상태에서 류마티스 결절증으로
+## Tretinoin: 허가 적응증 정보 미확인 상태에서 류마티스 결절증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

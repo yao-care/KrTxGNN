@@ -33,7 +33,8 @@ predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal muc
 
 </div>
 
-# Imiquimod: 국소 면역조절제에서 전암성 신생물로
+## Imiquimod: 국소 면역조절제에서 전암성 신생물로
+{: .text-alpha }
 
 ## 한 문장 요약
 

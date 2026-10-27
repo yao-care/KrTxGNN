@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheu
 
 </div>
 
-# Cefpodoxime: 세균 감염증에서 골관절염 감수성으로
+## Cefpodoxime: 세균 감염증에서 골관절염 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

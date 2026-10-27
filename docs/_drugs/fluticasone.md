@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with
 
 </div>
 
-# Fluticasone: 허가 적응증 정보 미확인 상태에서 편두통으로
+## Fluticasone: 허가 적응증 정보 미확인 상태에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

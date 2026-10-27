@@ -33,7 +33,8 @@ predicted_indications: ["primary cutaneous T-cell lymphoma", "cystic teratoma", 
 
 </div>
 
-# Fludrocortisone: 허가 적응증 정보 미확인에서 원발성 피부 T세포 림프종으로
+## Fludrocortisone: 허가 적응증 정보 미확인에서 원발성 피부 T세포 림프종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

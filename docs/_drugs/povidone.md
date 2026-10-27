@@ -33,7 +33,8 @@ predicted_indications: ["congenital ichthyosiform erythroderma"]
 
 </div>
 
-# Povidone: 건조한 눈에서 선천성 어린선증 홍피증으로
+## Povidone: 건조한 눈에서 선천성 어린선증 홍피증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

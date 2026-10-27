@@ -33,7 +33,8 @@ predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "ur
 
 </div>
 
-# Sodium Acetate: 전해질 보충·복막투석에서 선천성 프로트롬빈 결핍증으로
+## Sodium Acetate: 전해질 보충·복막투석에서 선천성 프로트롬빈 결핍증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

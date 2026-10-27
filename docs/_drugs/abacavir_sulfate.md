@@ -36,7 +36,8 @@ Evidence Pack을 분석했습니다. `predicted_indications` 배열이 비어 �
 
 ---
 
-# Abacavir Sulfate: TxGNN 예측 결과 없음 — 평가 보류
+## Abacavir Sulfate: TxGNN 예측 결과 없음 — 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

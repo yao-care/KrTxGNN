@@ -33,7 +33,8 @@ predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's f
 
 </div>
 
-# Triamcinolone: 구내염·설염에서 원형탈모증으로
+## Triamcinolone: 구내염·설염에서 원형탈모증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

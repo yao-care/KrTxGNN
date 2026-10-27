@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Arotinolol Hydrochloride: 예측 적응증 데이터 없음 — 평가 보류
+## Arotinolol Hydrochloride: 예측 적응증 데이터 없음 — 평가 보류
+{: .text-alpha }
 
 ---
 

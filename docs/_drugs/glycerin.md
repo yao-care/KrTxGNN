@@ -33,7 +33,8 @@ predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary
 
 </div>
 
-# Glycerin: 점안제 적응증에서 마미증후군(Cauda Equina Syndrome)으로
+## Glycerin: 점안제 적응증에서 마미증후군(Cauda Equina Syndrome)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

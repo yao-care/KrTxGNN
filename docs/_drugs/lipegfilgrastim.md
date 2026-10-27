@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "severe nonprol
 
 </div>
 
-# Lipegfilgrastim: 호중구감소증 치료제에서 혈소판 분비 장애로
+## Lipegfilgrastim: 호중구감소증 치료제에서 혈소판 분비 장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

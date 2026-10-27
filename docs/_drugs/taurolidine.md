@@ -33,7 +33,8 @@ predicted_indications: ["diabetic cataract", "cortical cataract", "nuclear senil
 
 </div>
 
-# Taurolidine: 감염 관련 용도에서 당뇨병성 백내장으로
+## Taurolidine: 감염 관련 용도에서 당뇨병성 백내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

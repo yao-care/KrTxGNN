@@ -33,7 +33,8 @@ predicted_indications: ["atypical coarctation of aorta", "aortic malformation", 
 
 </div>
 
-# Lactic acid: 기존 적응증 불명에서 비정형 대동맥 협착증(예측)으로
+## Lactic acid: 기존 적응증 불명에서 비정형 대동맥 협착증(예측)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease"
 
 </div>
 
-# Rivaroxaban: 혈전·색전증 치료에서 류마티스 관절염으로
+## Rivaroxaban: 혈전·색전증 치료에서 류마티스 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

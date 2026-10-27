@@ -33,7 +33,8 @@ predicted_indications: ["feline acquired immunodeficiency syndrome", "simian imm
 
 </div>
 
-# Emtricitabine: HIV 감염에서 고양이 면역결핍증후군(feline acquired immunodeficiency syndrome)으로
+## Emtricitabine: HIV 감염에서 고양이 면역결핍증후군(feline acquired immunodeficiency syndrome)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

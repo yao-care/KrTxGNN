@@ -33,7 +33,8 @@ predicted_indications: ["hypervitaminosis"]
 
 </div>
 
-# Orlistat: 비만에서 비타민 과잉증으로
+## Orlistat: 비만에서 비타민 과잉증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

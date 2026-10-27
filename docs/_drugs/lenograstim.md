@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "Glanzmann thro
 
 </div>
 
-# Lenograstim: 기존 적응증에서 혈소판 분비 장애로
+## Lenograstim: 기존 적응증에서 혈소판 분비 장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# Iloprost: 기존 적응증에서 폐동맥 고혈압(선천성 심장질환 동반)으로
+## Iloprost: 기존 적응증에서 폐동맥 고혈압(선천성 심장질환 동반)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["urinary bladder carcinoma", "urinary bladder neoplasm",
 
 </div>
 
-# Flubendazole: 장내 기생충 감염에서 방광암으로
+## Flubendazole: 장내 기생충 감염에서 방광암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# ANAGRELIDE HYDROCHLORIDE: 평가 보류 — TxGNN 예측 미생성
+## ANAGRELIDE HYDROCHLORIDE: 평가 보류 — TxGNN 예측 미생성
+{: .text-alpha }
 
 ---
 

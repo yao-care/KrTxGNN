@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 
 </div>
 
-# 독시사이클린(Doxycycline): 세균 감염 치료제에서 점상 상피성 각결막염으로
+## 독시사이클린(Doxycycline): 세균 감염 치료제에서 점상 상피성 각결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

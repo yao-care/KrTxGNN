@@ -33,7 +33,8 @@ predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", 
 
 </div>
 
-# Alprostadil: 허가 적응증에서 대동맥 기형으로
+## Alprostadil: 허가 적응증에서 대동맥 기형으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

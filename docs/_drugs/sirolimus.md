@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine co
 
 </div>
 
-# Sirolimus: 이식 면역억제제에서 지방육종으로
+## Sirolimus: 이식 면역억제제에서 지방육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

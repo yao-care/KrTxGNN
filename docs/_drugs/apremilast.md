@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pu
 
 </div>
 
-# Apremilast: 건선성 관절염에서 류마티스 관절염으로
+## Apremilast: 건선성 관절염에서 류마티스 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["pneumocystosis"]
 
 </div>
 
-# Dapsone: 허가 적응증 미확인에서 주폐포자충증(Pneumocystosis)으로
+## Dapsone: 허가 적응증 미확인에서 주폐포자충증(Pneumocystosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "obsolete familial combined hy
 
 </div>
 
-# Cholic Acid: 담즙산 합성 장애에서 HIV 감염증으로
+## Cholic Acid: 담즙산 합성 장애에서 HIV 감염증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

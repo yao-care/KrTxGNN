@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "hyperthyroidism", "multiple end
 
 </div>
 
-# Abemaciclib: 유방암에서 류마티스 관절염으로
+## Abemaciclib: 유방암에서 류마티스 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

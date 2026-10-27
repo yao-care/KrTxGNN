@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopha
 
 </div>
 
-# 이프라트로퓸: 기관지 확장제에서 폐쇄성 폐질환으로
+## 이프라트로퓸: 기관지 확장제에서 폐쇄성 폐질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

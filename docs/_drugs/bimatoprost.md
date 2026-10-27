@@ -33,7 +33,8 @@ predicted_indications: ["malformation syndrome with odontal and/or periodontal c
 
 </div>
 
-# Bimatoprost: 녹내장·안압 조절에서 탈모증으로
+## Bimatoprost: 녹내장·안압 조절에서 탈모증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 
 </div>
 
-# 타크로리무스(Tacrolimus): 장기이식 면역억제 및 아토피피부염에서 지루피부염으로
+## 타크로리무스(Tacrolimus): 장기이식 면역억제 및 아토피피부염에서 지루피부염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

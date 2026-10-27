@@ -33,7 +33,8 @@ predicted_indications: ["Laubry-Pezzi syndrome", "Pierre Robin syndrome associat
 
 </div>
 
-# Tolperisone: 근육 이완 용도에서 라우브리-페치 증후군으로
+## Tolperisone: 근육 이완 용도에서 라우브리-페치 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

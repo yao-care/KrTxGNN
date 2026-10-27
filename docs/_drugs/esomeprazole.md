@@ -33,7 +33,8 @@ predicted_indications: ["duodenal obstruction"]
 
 </div>
 
-# Esomeprazole: 산 관련 위장관 질환에서 십이지장위 역류로
+## Esomeprazole: 산 관련 위장관 질환에서 십이지장위 역류로
+{: .text-alpha }
 
 ## 한 문장 요약
 

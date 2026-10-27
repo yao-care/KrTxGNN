@@ -33,7 +33,8 @@ predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis
 
 </div>
 
-# Mogamulizumab: 기존 적응증 확인 필요에서 전립선 요도 요로상피암으로
+## Mogamulizumab: 기존 적응증 확인 필요에서 전립선 요도 요로상피암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

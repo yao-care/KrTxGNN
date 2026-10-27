@@ -33,7 +33,8 @@ predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", 
 
 </div>
 
-# Pemigatinib: 허가 적응증에서 다발성 내분비 종양(MEN)으로
+## Pemigatinib: 허가 적응증에서 다발성 내분비 종양(MEN)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

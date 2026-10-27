@@ -33,7 +33,8 @@ predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndro
 
 </div>
 
-# Ciprofloxacin: 세균 감염증에서 미만성 피부경화증으로
+## Ciprofloxacin: 세균 감염증에서 미만성 피부경화증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

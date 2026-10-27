@@ -33,7 +33,8 @@ predicted_indications: ["renal tubular acidosis"]
 
 </div>
 
-# Potassium Chloride: 저칼륨혈증 교정에서 신세뇨관 산증으로
+## Potassium Chloride: 저칼륨혈증 교정에서 신세뇨관 산증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

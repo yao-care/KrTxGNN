@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "drug-induced osteoporosis", "zinc, el
 
 </div>
 
-# Risdiplam: 척수성 근위축증에서 여드름으로
+## Risdiplam: 척수성 근위축증에서 여드름으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

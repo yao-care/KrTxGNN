@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# ARTICAINE HYDROCHLORIDE: 예측 불가 — 입력 데이터 부족
+## ARTICAINE HYDROCHLORIDE: 예측 불가 — 입력 데이터 부족
+{: .text-alpha }
 
 ## 한 문장 요약
 

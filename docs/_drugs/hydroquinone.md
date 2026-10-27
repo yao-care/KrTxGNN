@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular kera
 
 </div>
 
-# Hydroquinone: 기미·과색소침착에서 지루각화증으로
+## Hydroquinone: 기미·과색소침착에서 지루각화증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

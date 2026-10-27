@@ -33,7 +33,8 @@ predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe cong
 
 </div>
 
-# Eculizumab: 발작성 야간 혈색소뇨증 등 보체 매개 질환에서 주기성 조혈(cyclic hematopoiesis)로
+## Eculizumab: 발작성 야간 혈색소뇨증 등 보체 매개 질환에서 주기성 조혈(cyclic hematopoiesis)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

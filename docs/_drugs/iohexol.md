@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)", "anxiety", "rheumatoid arthritis",
 
 </div>
 
-# Iohexol: 방사선 조영 진단에서 불면증으로
+## Iohexol: 방사선 조영 진단에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "ca
 
 </div>
 
-# Rocuronium: 신경근 차단에서 편두통으로?
+## Rocuronium: 신경근 차단에서 편두통으로?
+{: .text-alpha }
 
 ## 한 문장 요약
 

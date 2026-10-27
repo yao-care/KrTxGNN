@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronc
 
 </div>
 
-# Cabotegravir: HIV 감염에서 류마티스 관절염으로
+## Cabotegravir: HIV 감염에서 류마티스 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

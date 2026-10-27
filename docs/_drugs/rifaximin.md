@@ -33,7 +33,8 @@ predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteorad
 
 </div>
 
-# Rifaximin: 간성뇌증 등 장관 질환에서 구강 칸디다증으로
+## Rifaximin: 간성뇌증 등 장관 질환에서 구강 칸디다증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

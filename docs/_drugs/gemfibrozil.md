@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", 
 
 </div>
 
-# Gemfibrozil: 고지혈증 치료제에서 류마티스 관절염으로
+## Gemfibrozil: 고지혈증 치료제에서 류마티스 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["hypoalphalipoproteinemia", "homozygous familial hyperch
 
 </div>
 
-# Prucalopride: 만성 변비에서 저알파지단백혈증으로
+## Prucalopride: 만성 변비에서 저알파지단백혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

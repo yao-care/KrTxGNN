@@ -33,7 +33,8 @@ predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis
 
 </div>
 
-# Calcifediol: 비타민 D 결핍 관련 질환에서 비타민 D 의존성 구루병으로
+## Calcifediol: 비타민 D 결핍 관련 질환에서 비타민 D 의존성 구루병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

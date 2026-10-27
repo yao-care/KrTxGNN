@@ -33,7 +33,8 @@ predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp
 
 </div>
 
-# Olmesartan: 고혈압에서 프린츠메탈 협심증으로
+## Olmesartan: 고혈압에서 프린츠메탈 협심증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

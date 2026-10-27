@@ -33,7 +33,8 @@ predicted_indications: ["gastroparesis (disease)"]
 
 </div>
 
-# Arginine: 간질환 보조 치료에서 위마비(Gastroparesis)로
+## Arginine: 간질환 보조 치료에서 위마비(Gastroparesis)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

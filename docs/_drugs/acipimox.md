@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# ACIPIMOX: 데이터 부족으로 평가 불가 — 보완 필요
+## ACIPIMOX: 데이터 부족으로 평가 불가 — 보완 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

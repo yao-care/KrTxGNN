@@ -33,7 +33,8 @@ predicted_indications: ["obsessive-compulsive disorder", "schizoid personality d
 
 </div>
 
-# Desvenlafaxine: 주요우울장애에서 강박장애로
+## Desvenlafaxine: 주요우울장애에서 강박장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

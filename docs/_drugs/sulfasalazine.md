@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# Sulfasalazine: 염증성 질환에서 골관절염으로
+## Sulfasalazine: 염증성 질환에서 골관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

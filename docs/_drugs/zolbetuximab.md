@@ -33,7 +33,8 @@ predicted_indications: ["diabetic cataract", "mature cataract", "diabetes mellit
 
 </div>
 
-# Zolbetuximab: 위암에서 당뇨병성 백내장으로
+## Zolbetuximab: 위암에서 당뇨병성 백내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

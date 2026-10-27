@@ -33,7 +33,8 @@ predicted_indications: ["myofascial pain syndrome", "manic bipolar affective dis
 
 </div>
 
-# Morphine: 통증 치료제에서 하지불안증후군으로
+## Morphine: 통증 치료제에서 하지불안증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

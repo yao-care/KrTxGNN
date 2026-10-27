@@ -42,7 +42,8 @@ last_modified_at: 2026-10-12
 
 ---
 
-# Alemtuzumab: 예측 적응증 없음 — 데이터 보완 후 재평가 필요
+## Alemtuzumab: 예측 적응증 없음 — 데이터 보완 후 재평가 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

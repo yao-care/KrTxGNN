@@ -33,7 +33,8 @@ predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated ost
 
 </div>
 
-# Glutamic Acid: 전립선비대 증상에서 폐경 후 골다공증으로
+## Glutamic Acid: 전립선비대 증상에서 폐경 후 골다공증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

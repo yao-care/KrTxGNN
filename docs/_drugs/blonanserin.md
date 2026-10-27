@@ -33,7 +33,8 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 
 </div>
 
-# Blonanserin: 조현병에서 망막 이영양증으로
+## Blonanserin: 조현병에서 망막 이영양증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

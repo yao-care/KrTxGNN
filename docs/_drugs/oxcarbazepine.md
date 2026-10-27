@@ -33,7 +33,8 @@ predicted_indications: ["restless legs syndrome"]
 
 </div>
 
-# Oxcarbazepine: 부분 발작(뇌전증)에서 시각 뇌전증으로
+## Oxcarbazepine: 부분 발작(뇌전증)에서 시각 뇌전증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

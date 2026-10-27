@@ -33,7 +33,8 @@ predicted_indications: ["opsismodysplasia"]
 
 </div>
 
-# Mitiglinide: 제2형 당뇨병에서 오프시스모디스플라시아(Opsismodysplasia)로
+## Mitiglinide: 제2형 당뇨병에서 오프시스모디스플라시아(Opsismodysplasia)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

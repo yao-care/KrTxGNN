@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Nabumetone: 골관절염·류마티스 관절염 치료제에서 골관절염 감수성으로
+## Nabumetone: 골관절염·류마티스 관절염 치료제에서 골관절염 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Glycopyrronium Bromide: 데이터 부족으로 재창출 평가 보류
+## Glycopyrronium Bromide: 데이터 부족으로 재창출 평가 보류
+{: .text-alpha }
 
 ---
 

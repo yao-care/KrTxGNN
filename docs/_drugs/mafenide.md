@@ -33,7 +33,8 @@ predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "pa
 
 </div>
 
-# Mafenide: 화상 창상 감염에서 과민성 장 증후군으로
+## Mafenide: 화상 창상 감염에서 과민성 장 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

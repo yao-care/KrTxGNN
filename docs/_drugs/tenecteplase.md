@@ -33,7 +33,8 @@ predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis
 
 </div>
 
-# Tenecteplase: 급성 심근경색(ST 상승 심근경색)에서 후외측 심근경색으로
+## Tenecteplase: 급성 심근경색(ST 상승 심근경색)에서 후외측 심근경색으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

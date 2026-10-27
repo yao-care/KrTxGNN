@@ -33,7 +33,8 @@ predicted_indications: ["diabetic cataract", "diabetes mellitus type 2 associate
 
 </div>
 
-# Nemolizumab: 기존 적응증에서 당뇨병성 백내장으로
+## Nemolizumab: 기존 적응증에서 당뇨병성 백내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

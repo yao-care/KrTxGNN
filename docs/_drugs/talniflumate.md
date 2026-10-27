@@ -33,7 +33,8 @@ predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia",
 
 </div>
 
-# Talniflumate: 허가 적응증에서 두통 질환으로
+## Talniflumate: 허가 적응증에서 두통 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

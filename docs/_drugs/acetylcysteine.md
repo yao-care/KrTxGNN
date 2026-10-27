@@ -33,7 +33,8 @@ predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal ca
 
 </div>
 
-# Acetylcysteine: 객담배출곤란(기관지염 등)에서 혈전성 질환으로
+## Acetylcysteine: 객담배출곤란(기관지염 등)에서 혈전성 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 
 </div>
 
-# 라모트리진: 뇌전증에서 삼차신경 종양으로
+## 라모트리진: 뇌전증에서 삼차신경 종양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

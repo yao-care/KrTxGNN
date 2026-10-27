@@ -33,7 +33,8 @@ predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia",
 
 </div>
 
-# Clarithromycin: 세균 감염증에서 다클론성 과점도 증후군으로
+## Clarithromycin: 세균 감염증에서 다클론성 과점도 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

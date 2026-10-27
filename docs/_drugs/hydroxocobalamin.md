@@ -33,7 +33,8 @@ predicted_indications: ["esophageal varices with bleeding", "esophageal varices 
 
 </div>
 
-# Hydroxocobalamin: 비타민 보급 및 신경통 완화에서 식도 정맥류 출혈로
+## Hydroxocobalamin: 비타민 보급 및 신경통 완화에서 식도 정맥류 출혈로
+{: .text-alpha }
 
 ## 한 문장 요약
 

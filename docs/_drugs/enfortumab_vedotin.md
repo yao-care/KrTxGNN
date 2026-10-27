@@ -33,7 +33,8 @@ predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovi
 
 </div>
 
-# Enfortumab vedotin: 요로상피암에서 나병으로
+## Enfortumab vedotin: 요로상피암에서 나병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

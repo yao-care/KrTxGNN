@@ -33,7 +33,8 @@ predicted_indications: ["iris disease"]
 
 </div>
 
-# Hydrocortisone Probutate: 피부 염증 질환에서 홍채 질환으로
+## Hydrocortisone Probutate: 피부 염증 질환에서 홍채 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

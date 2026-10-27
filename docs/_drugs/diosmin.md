@@ -33,7 +33,8 @@ predicted_indications: ["amenorrhea (disease)"]
 
 </div>
 
-# Diosmin: 정맥부전에서 무월경으로
+## Diosmin: 정맥부전에서 무월경으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

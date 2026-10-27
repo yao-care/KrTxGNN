@@ -33,7 +33,8 @@ predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protu
 
 </div>
 
-# Pirfenidone: 허가 적응증 정보 미확인에서 외피 외 비만세포종으로
+## Pirfenidone: 허가 적응증 정보 미확인에서 외피 외 비만세포종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

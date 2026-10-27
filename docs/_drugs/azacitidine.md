@@ -36,7 +36,8 @@ Evidence Pack에 예측 적응증이 없고 핵심 데이터가 모두 미수집
 
 ---
 
-# Azacitidine: 평가 보류 — 예측 적응증 미수집
+## Azacitidine: 평가 보류 — 예측 적응증 미수집
+{: .text-alpha }
 
 ## 한 문장 요약
 

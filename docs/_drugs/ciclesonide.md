@@ -33,7 +33,8 @@ predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitizat
 
 </div>
 
-# Ciclesonide: 천식 등 호흡기 질환에서 아토피 습진으로
+## Ciclesonide: 천식 등 호흡기 질환에서 아토피 습진으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

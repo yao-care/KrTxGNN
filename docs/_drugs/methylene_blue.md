@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "methemoglobinemia, alpha type", "methemog
 
 </div>
 
-# Methylene Blue: 기존 적응증에서 기관지염으로
+## Methylene Blue: 기존 적응증에서 기관지염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

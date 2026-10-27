@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Pr
 
 </div>
 
-# 시프로테론 아세테이트(Cyproterone Acetate): 항안드로겐 호르몬 요법에서 편두통으로
+## 시프로테론 아세테이트(Cyproterone Acetate): 항안드로겐 호르몬 요법에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

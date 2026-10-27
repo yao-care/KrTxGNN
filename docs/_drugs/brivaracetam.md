@@ -33,7 +33,8 @@ predicted_indications: ["beta-ketothiolase deficiency"]
 
 </div>
 
-# Brivaracetam: 간질(국소 발작 등)에서 시각성 간질로
+## Brivaracetam: 간질(국소 발작 등)에서 시각성 간질로
+{: .text-alpha }
 
 ## 한 문장 요약
 

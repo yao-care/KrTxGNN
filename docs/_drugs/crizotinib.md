@@ -33,7 +33,8 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 
 </div>
 
-# Crizotinib: 비소세포폐암에서 치은 섬유종증으로
+## Crizotinib: 비소세포폐암에서 치은 섬유종증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

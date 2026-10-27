@@ -33,7 +33,8 @@ predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", 
 
 </div>
 
-# Fluorometholone: 안구 표면 염증에서 감염성 전방 포도막염으로
+## Fluorometholone: 안구 표면 염증에서 감염성 전방 포도막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

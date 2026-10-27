@@ -33,7 +33,8 @@ predicted_indications: ["hereditary breast ovarian cancer syndrome", "borderline
 
 </div>
 
-# Megestrol acetate: 한국 허가 적응증에서 자궁체부 자궁내막암으로
+## Megestrol acetate: 한국 허가 적응증에서 자궁체부 자궁내막암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["autosomal recessive severe congenital neutropenia due t
 
 </div>
 
-# Ravulizumab: 보체 매개 질환에서 G6PC3 결핍 선천성 중증 호중구감소증으로
+## Ravulizumab: 보체 매개 질환에서 G6PC3 결핍 선천성 중증 호중구감소증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -36,7 +36,8 @@ Evidence Pack을 분석합니다. `predicted_indications`가 비어 있고 대�
 
 ---
 
-# Amiloride Hydrochloride: 예측 적응증 데이터 없음 — 재평가 필요
+## Amiloride Hydrochloride: 예측 적응증 데이터 없음 — 재평가 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

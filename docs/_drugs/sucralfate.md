@@ -33,7 +33,8 @@ predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 
 </div>
 
-# Sucralfate: 위·십이지장 궤양 계열 질환에서 십이지장위 역류로
+## Sucralfate: 위·십이지장 궤양 계열 질환에서 십이지장위 역류로
+{: .text-alpha }
 
 ## 한 문장 요약
 

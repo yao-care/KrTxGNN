@@ -33,7 +33,8 @@ predicted_indications: ["duodenal obstruction"]
 
 </div>
 
-# Pantoprazole: 산 관련 위장관 질환에서 활동성 소화성 궤양으로
+## Pantoprazole: 산 관련 위장관 질환에서 활동성 소화성 궤양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

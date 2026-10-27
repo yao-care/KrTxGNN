@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "crani
 
 </div>
 
-# Alpha-Tocopherol acetate: 비타민 E 보급·말초혈행장애에서 약물유발 골다공증으로
+## Alpha-Tocopherol acetate: 비타민 E 보급·말초혈행장애에서 약물유발 골다공증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

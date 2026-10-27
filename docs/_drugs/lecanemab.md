@@ -33,7 +33,8 @@ predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immatur
 
 </div>
 
-# Lecanemab: 알츠하이머병 항아밀로이드 치료제에서 당뇨병성 백내장으로
+## Lecanemab: 알츠하이머병 항아밀로이드 치료제에서 당뇨병성 백내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

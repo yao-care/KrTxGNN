@@ -33,7 +33,8 @@ predicted_indications: ["hemoglobinopathy", "rheumatoid arthritis", "partial del
 
 </div>
 
-# Idarucizumab: 다비가트란 역전에서 혈색소병증으로
+## Idarucizumab: 다비가트란 역전에서 혈색소병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

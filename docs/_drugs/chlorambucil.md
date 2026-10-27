@@ -33,7 +33,8 @@ predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small l
 
 </div>
 
-# Chlorambucil: 만성 림프구성 백혈병에서 원발성 폐 림프종으로
+## Chlorambucil: 만성 림프구성 백혈병에서 원발성 폐 림프종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

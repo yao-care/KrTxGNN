@@ -33,7 +33,8 @@ predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 
 </div>
 
-# Topotecan: 허가 적응증에서 여성 유방암으로
+## Topotecan: 허가 적응증에서 여성 유방암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

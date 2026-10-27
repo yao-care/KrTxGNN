@@ -33,7 +33,8 @@ predicted_indications: ["non-syndromic esophageal malformation", "esophageal dis
 
 </div>
 
-# Ascorbic Acid(아스코르브산): 치주염 보조치료에서 비증후군성 식도 기형으로
+## Ascorbic Acid(아스코르브산): 치주염 보조치료에서 비증후군성 식도 기형으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

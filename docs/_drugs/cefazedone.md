@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthriti
 
 </div>
 
-# Cefazedone: 세균 감염에서 골관절염으로
+## Cefazedone: 세균 감염에서 골관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arterioscle
 
 </div>
 
-# Ticagrelor: 급성 관상동맥증후군에서 두개내 동맥경화증으로
+## Ticagrelor: 급성 관상동맥증후군에서 두개내 동맥경화증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

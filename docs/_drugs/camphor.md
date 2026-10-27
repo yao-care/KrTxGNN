@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "er
 
 </div>
 
-# Camphor: 근육통·관절통(진통·소염)에서 편두통으로
+## Camphor: 근육통·관절통(진통·소염)에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

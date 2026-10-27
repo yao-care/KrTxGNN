@@ -33,7 +33,8 @@ predicted_indications: ["faciodigitogenital syndrome", "specific developmental d
 
 </div>
 
-# Clonidine: 고혈압에서 주의력결핍 과잉행동장애(ADHD)로
+## Clonidine: 고혈압에서 주의력결핍 과잉행동장애(ADHD)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,15 +33,18 @@ predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (d
 
 </div>
 
-# Tropicamide: 산동·조절마비 안약에서 马미 마미총 증후군으로
+## Tropicamide: 산동·조절마비 안약에서 马미 마미총 증후군으로
+{: .text-alpha }
 
 **수정:** 제목을 아래와 같이 바로잡습니다.
 
-# Tropicamide: 안과 산동 검사에서 马미등 증후군(Cauda Equina Syndrome)으로
+## Tropicamide: 안과 산동 검사에서 马미등 증후군(Cauda Equina Syndrome)으로
+{: .text-alpha }
 
 죄송합니다. 제목 표기에 오류가 있어 다시 작성합니다.
 
-# Tropicamide: 안과 산동제에서 마미 증후군(Cauda Equina Syndrome)으로
+## Tropicamide: 안과 산동제에서 마미 증후군(Cauda Equina Syndrome)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

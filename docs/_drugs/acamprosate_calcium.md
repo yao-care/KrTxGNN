@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# ACAMPROSATE CALCIUM: 평가 보류 — TxGNN 예측 데이터 부재
+## ACAMPROSATE CALCIUM: 평가 보류 — TxGNN 예측 데이터 부재
+{: .text-alpha }
 
 ## 한 문장 요약
 

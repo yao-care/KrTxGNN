@@ -33,7 +33,8 @@ predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary ar
 
 </div>
 
-# Alteplase: 급성 심근경색 등 혈전성 질환에서 후하벽 심근경색으로
+## Alteplase: 급성 심근경색 등 혈전성 질환에서 후하벽 심근경색으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

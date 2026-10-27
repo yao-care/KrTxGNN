@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis"]
 
 </div>
 
-# 탄산수소칼륨(Potassium Bicarbonate): 기존 적응증 미확인에서 위십이지장염으로
+## 탄산수소칼륨(Potassium Bicarbonate): 기존 적응증 미확인에서 위십이지장염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

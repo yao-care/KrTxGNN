@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofib
 
 </div>
 
-# Everolimus: 항암·면역억제 치료제에서 지방육종으로
+## Everolimus: 항암·면역억제 치료제에서 지방육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

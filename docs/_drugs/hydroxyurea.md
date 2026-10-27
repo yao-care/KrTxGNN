@@ -33,7 +33,8 @@ predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin c dis
 
 </div>
 
-# Hydroxyurea: 기존 항종양 치료에서 여성 유방암으로
+## Hydroxyurea: 기존 항종양 치료에서 여성 유방암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

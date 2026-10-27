@@ -33,7 +33,8 @@ predicted_indications: ["congenital disorder of glycosylation with defective fuc
 
 </div>
 
-# Bromocriptine: 허가 적응증 정보 미확인에서 선천성 당화 장애(예측 1순위)로
+## Bromocriptine: 허가 적응증 정보 미확인에서 선천성 당화 장애(예측 1순위)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

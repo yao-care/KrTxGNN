@@ -33,7 +33,8 @@ predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 
 </div>
 
-# Frovatriptan: 편두통에서 뇌간 조짐을 동반한 편두통으로
+## Frovatriptan: 편두통에서 뇌간 조짐을 동반한 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

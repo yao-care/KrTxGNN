@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Amiodarone Hydrochloride: 데이터 부족 — 평가 보류
+## Amiodarone Hydrochloride: 데이터 부족 — 평가 보류
+{: .text-alpha }
 
 ---
 

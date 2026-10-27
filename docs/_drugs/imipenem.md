@@ -33,7 +33,8 @@ predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellos
 
 </div>
 
-# Imipenem: 세균 감염증에서 미분류 신규 적응증으로 — 황색포도알균 감염(MRSA) 병용요법 중심 평가
+## Imipenem: 세균 감염증에서 미분류 신규 적응증으로 — 황색포도알균 감염(MRSA) 병용요법 중심 평가
+{: .text-alpha }
 
 ## 한 문장 요약
 

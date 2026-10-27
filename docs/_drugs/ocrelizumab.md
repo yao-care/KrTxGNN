@@ -33,7 +33,8 @@ predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor
 
 </div>
 
-# Ocrelizumab: 다발성 경화증에서 HER2 양성 유방암으로
+## Ocrelizumab: 다발성 경화증에서 HER2 양성 유방암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

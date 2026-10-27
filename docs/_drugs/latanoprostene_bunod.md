@@ -33,7 +33,8 @@ predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet synd
 
 </div>
 
-# Latanoprostene Bunod: 녹내장·고안압증에서 내장 칼시필락시스로
+## Latanoprostene Bunod: 녹내장·고안압증에서 내장 칼시필락시스로
+{: .text-alpha }
 
 ## 한 문장 요약
 

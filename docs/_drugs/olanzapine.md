@@ -33,7 +33,8 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 </div>
 
-# Olanzapine: 정신과 질환에서 광장공포증으로
+## Olanzapine: 정신과 질환에서 광장공포증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

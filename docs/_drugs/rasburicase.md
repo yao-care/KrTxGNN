@@ -33,7 +33,8 @@ predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribo
 
 </div>
 
-# Rasburicase: 허가 적응증 정보 미확인에서 신장성 저요산혈증으로
+## Rasburicase: 허가 적응증 정보 미확인에서 신장성 저요산혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

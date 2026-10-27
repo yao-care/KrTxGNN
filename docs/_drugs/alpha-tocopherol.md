@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Alpha-Tocopherol: 예측 적응증 없음 — 평가 불가
+## Alpha-Tocopherol: 예측 적응증 없음 — 평가 불가
+{: .text-alpha }
 
 ## 한 줄 요약
 

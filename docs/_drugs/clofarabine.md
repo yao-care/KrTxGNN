@@ -33,7 +33,8 @@ predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "n
 
 </div>
 
-# Clofarabine: 재발성·불응성 급성 백혈병에서 골수성 백혈병으로
+## Clofarabine: 재발성·불응성 급성 백혈병에서 골수성 백혈병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

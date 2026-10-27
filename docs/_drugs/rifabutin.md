@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia"
 
 </div>
 
-# Rifabutin: 비결핵 항산균 감염 치료제에서 HIV 감염증으로
+## Rifabutin: 비결핵 항산균 감염 치료제에서 HIV 감염증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

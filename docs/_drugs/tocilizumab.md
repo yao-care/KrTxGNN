@@ -33,7 +33,8 @@ predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "sp
 
 </div>
 
-# Tocilizumab: 류마티스 관절염에서 강직성 척추염으로
+## Tocilizumab: 류마티스 관절염에서 강직성 척추염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

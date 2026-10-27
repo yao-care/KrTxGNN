@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Methylprednisolone: 허가 적응증에서 원형탈모증으로
+## Methylprednisolone: 허가 적응증에서 원형탈모증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

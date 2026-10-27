@@ -33,7 +33,8 @@ predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunctio
 
 </div>
 
-# Insulin Glargine: 당뇨병에서 자가면역성 난소염으로
+## Insulin Glargine: 당뇨병에서 자가면역성 난소염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

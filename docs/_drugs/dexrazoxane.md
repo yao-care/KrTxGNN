@@ -33,7 +33,8 @@ predicted_indications: ["sclerosing cholangitis", "bronchitis", "paratyphoid fev
 
 </div>
 
-# Dexrazoxane: 허가 적응증 미확인 상태에서 경화성 담관염으로
+## Dexrazoxane: 허가 적응증 미확인 상태에서 경화성 담관염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

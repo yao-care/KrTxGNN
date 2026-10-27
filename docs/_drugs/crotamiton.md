@@ -33,7 +33,8 @@ predicted_indications: ["trombiculiasis", "lymph node palisaded myofibroblastoma
 
 </div>
 
-# Crotamiton: 피부 가려움증에서 털진드기증(Trombiculiasis)으로
+## Crotamiton: 피부 가려움증에서 털진드기증(Trombiculiasis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

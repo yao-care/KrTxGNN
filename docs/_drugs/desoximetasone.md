@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Desoximetasone: 국소 코르티코스테로이드 피부 염증 질환에서 원형탈모증으로
+## Desoximetasone: 국소 코르티코스테로이드 피부 염증 질환에서 원형탈모증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease"
 
 </div>
 
-# Erdafitinib: 기존 적응증에서 폐고혈압으로
+## Erdafitinib: 기존 적응증에서 폐고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

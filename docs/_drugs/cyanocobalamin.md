@@ -33,7 +33,8 @@ predicted_indications: ["biotin metabolic disease"]
 
 </div>
 
-# Cyanocobalamin: 비타민 B12 보충에서 비오틴 대사 질환으로
+## Cyanocobalamin: 비타민 B12 보충에서 비오틴 대사 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

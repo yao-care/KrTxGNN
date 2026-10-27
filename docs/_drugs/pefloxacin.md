@@ -33,7 +33,8 @@ predicted_indications: ["heart conduction disease", "heart neoplasm", "heart val
 
 </div>
 
-# Pefloxacin: 세균 감염에서 심장 전도 질환으로
+## Pefloxacin: 세균 감염에서 심장 전도 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

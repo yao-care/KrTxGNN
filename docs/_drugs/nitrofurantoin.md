@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hem
 
 </div>
 
-# Nitrofurantoin: 요로감염 치료제에서 류마티스 관절염으로 (예측)
+## Nitrofurantoin: 요로감염 치료제에서 류마티스 관절염으로 (예측)
+{: .text-alpha }
 
 ## 한 문장 요약
 

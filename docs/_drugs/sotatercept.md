@@ -33,7 +33,8 @@ predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonpro
 
 </div>
 
-# Sotatercept: 폐동맥 고혈압에서 급성 림프모구성 백혈병으로
+## Sotatercept: 폐동맥 고혈압에서 급성 림프모구성 백혈병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

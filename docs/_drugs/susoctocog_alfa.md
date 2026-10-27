@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "pseudo-von Wil
 
 </div>
 
-# Susoctocog alfa: 후천성 혈우병 A에서 혈우병(hemophilia)으로
+## Susoctocog alfa: 후천성 혈우병 A에서 혈우병(hemophilia)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

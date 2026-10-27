@@ -33,7 +33,8 @@ predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus a
 
 </div>
 
-# Meropenem: 중증 세균 감염에서 세균성 관절염으로
+## Meropenem: 중증 세균 감염에서 세균성 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

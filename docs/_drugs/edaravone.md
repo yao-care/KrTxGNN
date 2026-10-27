@@ -33,7 +33,8 @@ predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with s
 
 </div>
 
-# Edaravone: ALS·급성 허혈성 뇌졸중에서 헤파린 보조인자 2 결핍증으로
+## Edaravone: ALS·급성 허혈성 뇌졸중에서 헤파린 보조인자 2 결핍증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

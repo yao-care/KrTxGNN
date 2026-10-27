@@ -33,7 +33,8 @@ predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "pneum
 
 </div>
 
-# Cefoperazone: 세균 감염증에서 경화성 담관염으로
+## Cefoperazone: 세균 감염증에서 경화성 담관염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["esotropia", "esophageal varices with bleeding", "esopha
 
 </div>
 
-# Aflibercept: 안과 혈관 질환에서 사시(내사시)로
+## Aflibercept: 안과 혈관 질환에서 사시(내사시)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

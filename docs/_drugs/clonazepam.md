@@ -33,7 +33,8 @@ predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigemi
 
 </div>
 
-# Clonazepam: 약물 정보 부족으로 기존 적응증 미확인, 하지불안증후군으로의 재창출 평가
+## Clonazepam: 약물 정보 부족으로 기존 적응증 미확인, 하지불안증후군으로의 재창출 평가
+{: .text-alpha }
 
 ## 한 문장 요약
 

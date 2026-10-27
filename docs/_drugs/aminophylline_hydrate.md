@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# AMINOPHYLLINE HYDRATE: 평가 불가 — 핵심 데이터 부재
+## AMINOPHYLLINE HYDRATE: 평가 불가 — 핵심 데이터 부재
+{: .text-alpha }
 
 ## 한 문장 요약
 

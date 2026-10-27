@@ -33,7 +33,8 @@ predicted_indications: ["interventricular septum aneurysm", "pulmonary valve dis
 
 </div>
 
-# Thymol: 기존 적응증 정보 불명에서 심실중격 동맥류로
+## Thymol: 기존 적응증 정보 불명에서 심실중격 동맥류로
+{: .text-alpha }
 
 ## 한 문장 요약
 

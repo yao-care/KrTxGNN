@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "plasma cell myeloma", "indolent plasma ce
 
 </div>
 
-# Rozanolixizumab: 중증 근무력증 계열 적응증에서 기관지염으로
+## Rozanolixizumab: 중증 근무력증 계열 적응증에서 기관지염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

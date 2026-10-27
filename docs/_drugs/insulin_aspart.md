@@ -33,7 +33,8 @@ predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-r
 
 </div>
 
-# Insulin Aspart: 제1형 당뇨병에서 제1형 당뇨병으로 (기존 적응증과 일치하는 예측)
+## Insulin Aspart: 제1형 당뇨병에서 제1형 당뇨병으로 (기존 적응증과 일치하는 예측)
+{: .text-alpha }
 
 ## 한 문장 요약
 

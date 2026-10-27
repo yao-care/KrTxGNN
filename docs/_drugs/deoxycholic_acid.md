@@ -33,7 +33,8 @@ predicted_indications: ["autosomal dominant familial hematuria-retinal arteriola
 
 </div>
 
-# Deoxycholic Acid: 주사용 지방 감소제에서 상염색체 우성 가족성 혈뇨-망막 세동맥 사행-구축 증후군으로
+## Deoxycholic Acid: 주사용 지방 감소제에서 상염색체 우성 가족성 혈뇨-망막 세동맥 사행-구축 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

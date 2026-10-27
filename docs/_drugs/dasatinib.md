@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival"
 
 </div>
 
-# Dasatinib: 만성 골수성 백혈병에서 유잉 육종으로
+## Dasatinib: 만성 골수성 백혈병에서 유잉 육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

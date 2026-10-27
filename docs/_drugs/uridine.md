@@ -33,7 +33,8 @@ predicted_indications: ["actinic cheilitis", "squamous cell carcinoma", "dentino
 
 </div>
 
-# Uridine: 혈관성 뇌질환 후유증·정신 신경쇠약에서 광선구순염(Actinic Cheilitis)으로
+## Uridine: 혈관성 뇌질환 후유증·정신 신경쇠약에서 광선구순염(Actinic Cheilitis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

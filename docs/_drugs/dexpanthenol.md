@@ -33,7 +33,8 @@ predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp",
 
 </div>
 
-# Dexpanthenol: 상처·피부염에서 항문직장 협착으로
+## Dexpanthenol: 상처·피부염에서 항문직장 협착으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

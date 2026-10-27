@@ -33,7 +33,8 @@ predicted_indications: ["thrombocytopenia due to immune destruction", "primary r
 
 </div>
 
-# Mepolizumab: 허가 적응증에서 면역성 혈소판감소증으로
+## Mepolizumab: 허가 적응증에서 면역성 혈소판감소증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to
 
 </div>
 
-# Brolucizumab: 신생혈관성 안질환에서 미토콘드리아 산화적 인산화 장애로
+## Brolucizumab: 신생혈관성 안질환에서 미토콘드리아 산화적 인산화 장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

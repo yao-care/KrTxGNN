@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)"]
 
 </div>
 
-# Armodafinil: 기면증·교대근무 수면장애 관련 치료제에서 불면증으로
+## Armodafinil: 기면증·교대근무 수면장애 관련 치료제에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", 
 
 </div>
 
-# Colistin: 감염 치료제에서 감염 후 혈관염으로
+## Colistin: 감염 치료제에서 감염 후 혈관염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["factor 5 excess with spontaneous thrombosis", "heparin 
 
 </div>
 
-# Triflusal: 혈소판 응집 관련 질환에서 인자 V 과다 혈전증으로
+## Triflusal: 혈소판 응집 관련 질환에서 인자 V 과다 혈전증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

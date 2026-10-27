@@ -36,7 +36,8 @@ TxGNN 파이프라인 스킬은 데이터 파이프라인 관리용으로, 이 �
 
 ---
 
-# Anhydrous Caffeine: 기존 적응증 미확인 / 예측 적응증 없음
+## Anhydrous Caffeine: 기존 적응증 미확인 / 예측 적응증 없음
+{: .text-alpha }
 
 ## 한 문장 요약
 

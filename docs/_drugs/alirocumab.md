@@ -33,7 +33,8 @@ predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficie
 
 </div>
 
-# Alirocumab: 고콜레스테롤혈증에서 X-연관 어린선(ichthyosis)으로
+## Alirocumab: 고콜레스테롤혈증에서 X-연관 어린선(ichthyosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

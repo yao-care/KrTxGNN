@@ -33,7 +33,8 @@ predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with 
 
 </div>
 
-# Magnesium Citrate: 마그네슘 결핍성 근육경련에서 칼슘-알칼리 증후군으로
+## Magnesium Citrate: 마그네슘 결핍성 근육경련에서 칼슘-알칼리 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

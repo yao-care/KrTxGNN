@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)"]
 
 </div>
 
-# Tiemonium Iodide: 기존 적응증에서 불면증으로
+## Tiemonium Iodide: 기존 적응증에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

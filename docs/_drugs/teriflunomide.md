@@ -31,7 +31,8 @@ description: "Teriflunomide: 예측 신규 적응증 재발 완화형 다발성 
 
 </div>
 
-# Teriflunomide: 재발 완화형 다발성 경화증에서 재발 완화형 다발성 경화증으로 (기존 적응증 확인)
+## Teriflunomide: 재발 완화형 다발성 경화증에서 재발 완화형 다발성 경화증으로 (기존 적응증 확인)
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infect
 
 </div>
 
-# Sofosbuvir: C형 간염에서 B형 간염으로
+## Sofosbuvir: C형 간염에서 B형 간염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

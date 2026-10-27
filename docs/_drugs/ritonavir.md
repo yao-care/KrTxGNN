@@ -33,7 +33,8 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-# Ritonavir: HIV 감염에서 원숭이 면역결핍 바이러스(SIV) 감염으로
+## Ritonavir: HIV 감염에서 원숭이 면역결핍 바이러스(SIV) 감염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

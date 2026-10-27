@@ -33,7 +33,8 @@ predicted_indications: ["interventricular septum aneurysm", "heart disease", "La
 
 </div>
 
-# Pegteograstim: 호중구감소증 예방에서 심실중격 동맥류로
+## Pegteograstim: 호중구감소증 예방에서 심실중격 동맥류로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina"
 
 </div>
 
-# Fluorouracil: 항암 화학요법에서 횡문근육종으로
+## Fluorouracil: 항암 화학요법에서 횡문근육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

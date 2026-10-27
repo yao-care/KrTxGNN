@@ -33,7 +33,8 @@ predicted_indications: ["allergic urticaria", "cold urticaria"]
 
 </div>
 
-# Dimenhydrinate: 멀미에서 알레르기성 두드러기로
+## Dimenhydrinate: 멀미에서 알레르기성 두드러기로
+{: .text-alpha }
 
 ## 한 문장 요약
 

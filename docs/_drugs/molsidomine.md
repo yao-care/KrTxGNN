@@ -33,7 +33,8 @@ predicted_indications: ["vascular disease", "alopecia", "hypotrichosis simplex o
 
 </div>
 
-# Molsidomine: 협심증 등 허혈성 심질환에서 혈관 질환으로
+## Molsidomine: 협심증 등 허혈성 심질환에서 혈관 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

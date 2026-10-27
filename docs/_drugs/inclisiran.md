@@ -33,7 +33,8 @@ predicted_indications: ["potassium deficiency disease", "esophageal disease", "a
 
 </div>
 
-# Inclisiran: 이상지질혈증 치료에서 칼륨 결핍증으로
+## Inclisiran: 이상지질혈증 치료에서 칼륨 결핍증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

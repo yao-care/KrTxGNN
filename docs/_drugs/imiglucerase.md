@@ -33,7 +33,8 @@ predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm o
 
 </div>
 
-# Imiglucerase: 고셰병에서 헐러 증후군으로
+## Imiglucerase: 고셰병에서 헐러 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

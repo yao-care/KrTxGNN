@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease"]
 
 </div>
 
-# Eltrombopag: 혈소판감소증 치료제에서 HIV 감염 질환으로
+## Eltrombopag: 혈소판감소증 치료제에서 HIV 감염 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

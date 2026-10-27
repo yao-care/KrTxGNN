@@ -33,7 +33,8 @@ predicted_indications: ["conjunctivitis"]
 
 </div>
 
-# Isoniazid: 결핵에서 결막염으로
+## Isoniazid: 결핵에서 결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

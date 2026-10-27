@@ -33,7 +33,8 @@ predicted_indications: ["exposure keratitis", "non-human animal disease", "otiti
 
 </div>
 
-# Tobramycin: 세균 감염 치료제에서 점상 상피성 각결막염으로
+## Tobramycin: 세균 감염 치료제에서 점상 상피성 각결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

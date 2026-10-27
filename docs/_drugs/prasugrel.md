@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine
 
 </div>
 
-# Prasugrel: 허가 적응증에서 폐고혈압으로
+## Prasugrel: 허가 적응증에서 폐고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "mi
 
 </div>
 
-# Etoricoxib: 근골격계 통증·염증에서 편두통으로
+## Etoricoxib: 근골격계 통증·염증에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

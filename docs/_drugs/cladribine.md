@@ -33,7 +33,8 @@ predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-ty
 
 </div>
 
-# Cladribine: 기존 적응증에서 횡문근육종으로
+## Cladribine: 기존 적응증에서 횡문근육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

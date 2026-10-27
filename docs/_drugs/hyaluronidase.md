@@ -33,7 +33,8 @@ predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonprolifer
 
 </div>
 
-# Hyaluronidase: 마취 보조·확산 촉진제에서 당뇨망막병증으로
+## Hyaluronidase: 마취 보조·확산 촉진제에서 당뇨망막병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthriti
 
 </div>
 
-# Cefpiramide: 세균 감염증에서 류마티스 관절염으로
+## Cefpiramide: 세균 감염증에서 류마티스 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

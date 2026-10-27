@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 
 </div>
 
-# Sorafenib: 신세포암·간세포암 치료제에서 지방육종으로
+## Sorafenib: 신세포암·간세포암 치료제에서 지방육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

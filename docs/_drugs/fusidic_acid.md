@@ -33,7 +33,8 @@ predicted_indications: ["exposure keratitis", "non-human animal disease", "otiti
 
 </div>
 
-# Fusidic Acid: 감염 치료제에서 노출성 각막염으로
+## Fusidic Acid: 감염 치료제에서 노출성 각막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

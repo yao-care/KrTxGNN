@@ -33,7 +33,8 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "h
 
 </div>
 
-# Aprepitant: 항구토 적응증에서 신장성 항이뇨호르몬 부적절 분비 증후군으로
+## Aprepitant: 항구토 적응증에서 신장성 항이뇨호르몬 부적절 분비 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

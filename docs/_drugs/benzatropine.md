@@ -33,7 +33,8 @@ predicted_indications: ["PLA2G6-associated neurodegeneration", "attention defici
 
 </div>
 
-# Benzatropine: 파킨슨증 치료제에서 PLA2G6 연관 신경변성으로
+## Benzatropine: 파킨슨증 치료제에서 PLA2G6 연관 신경변성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

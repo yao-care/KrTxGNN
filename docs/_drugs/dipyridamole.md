@@ -33,7 +33,8 @@ predicted_indications: ["stroke disorder", "thrombotic disease", "sick sinus syn
 
 </div>
 
-# 디피리다몰(Dipyridamole): 항혈소판 치료에서 프린츠메탈 협심증으로
+## 디피리다몰(Dipyridamole): 항혈소판 치료에서 프린츠메탈 협심증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

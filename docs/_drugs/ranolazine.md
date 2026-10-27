@@ -33,7 +33,8 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 
 </div>
 
-# Ranolazine: 허가 적응증에서 신성 항이뇨호르몬 부적절 분비 증후군(NSIAD)으로
+## Ranolazine: 허가 적응증에서 신성 항이뇨호르몬 부적절 분비 증후군(NSIAD)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

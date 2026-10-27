@@ -33,7 +33,8 @@ predicted_indications: ["gaze palsy, familial horizontal, with progressive scoli
 
 </div>
 
-# Risperidone: 항정신병약(조현병 등)에서 가족성 수평 시선마비 및 진행성 척추측만증으로
+## Risperidone: 항정신병약(조현병 등)에서 가족성 수평 시선마비 및 진행성 척추측만증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

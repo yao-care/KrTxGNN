@@ -33,7 +33,8 @@ predicted_indications: ["primary cutaneous T-cell lymphoma", "Sezary syndrome", 
 
 </div>
 
-# Clobetasone: 피부 국소 스테로이드에서 원발성 피부 T세포 림프종으로
+## Clobetasone: 피부 국소 스테로이드에서 원발성 피부 T세포 림프종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

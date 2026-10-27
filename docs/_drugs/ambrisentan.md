@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malfo
 
 </div>
 
-# Ambrisentan: 폐동맥 고혈압에서 결합조직질환 연관 폐동맥 고혈압으로
+## Ambrisentan: 폐동맥 고혈압에서 결합조직질환 연관 폐동맥 고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

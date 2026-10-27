@@ -33,7 +33,8 @@ predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia
 
 </div>
 
-# Salicylic acid: 여드름·티눈·사마귀에서 유두결막염(papillary conjunctivitis)으로
+## Salicylic acid: 여드름·티눈·사마귀에서 유두결막염(papillary conjunctivitis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

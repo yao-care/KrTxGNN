@@ -33,7 +33,8 @@ predicted_indications: ["obstructive lung disease", "respiratory malformation", 
 
 </div>
 
-# Norepinephrine: 승압 치료제에서 폐쇄성 폐질환으로
+## Norepinephrine: 승압 치료제에서 폐쇄성 폐질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-a
 
 </div>
 
-# Safinamide: 파킨슨병 치료제에서 라스무센 아급성 뇌염으로
+## Safinamide: 파킨슨병 치료제에서 라스무센 아급성 뇌염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

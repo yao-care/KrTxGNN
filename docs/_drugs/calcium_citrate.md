@@ -33,7 +33,8 @@ predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial de
 
 </div>
 
-# Calcium Citrate: 칼슘 결핍에서 혈색소병증으로
+## Calcium Citrate: 칼슘 결핍에서 혈색소병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["chronic hepatitis B virus infection", "idiopathic coppe
 
 </div>
 
-# Ribavirin: 바이러스성 감염증에서 만성 B형 간염으로
+## Ribavirin: 바이러스성 감염증에서 만성 B형 간염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

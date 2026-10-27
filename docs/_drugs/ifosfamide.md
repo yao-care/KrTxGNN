@@ -33,7 +33,8 @@ predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic
 
 </div>
 
-# Ifosfamide: 항암화학요법제에서 여성 유방암으로
+## Ifosfamide: 항암화학요법제에서 여성 유방암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

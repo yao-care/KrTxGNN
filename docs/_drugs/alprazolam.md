@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of 
 
 </div>
 
-# Alprazolam: 불안장애에서 불면증으로
+## Alprazolam: 불안장애에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

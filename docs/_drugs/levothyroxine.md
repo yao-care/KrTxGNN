@@ -33,7 +33,8 @@ predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodula
 
 </div>
 
-# Levothyroxine: 갑상선 기능 저하증 치료에서 풍토성 갑상선종으로
+## Levothyroxine: 갑상선 기능 저하증 치료에서 풍토성 갑상선종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

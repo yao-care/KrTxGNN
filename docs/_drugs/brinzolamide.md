@@ -31,7 +31,8 @@ description: "Brinzolamide: 예측 신규 적응증 원발성 유전성 녹내�
 
 </div>
 
-# Brinzolamide: 녹내장·고안압증에서 원발성 유전성 녹내장으로
+## Brinzolamide: 녹내장·고안압증에서 원발성 유전성 녹내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

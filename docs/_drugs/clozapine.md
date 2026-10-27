@@ -33,7 +33,8 @@ predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome",
 
 </div>
 
-# Clozapine: 정신분열병(조현병)에서 조증 양극성 정동장애로
+## Clozapine: 정신분열병(조현병)에서 조증 양극성 정동장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

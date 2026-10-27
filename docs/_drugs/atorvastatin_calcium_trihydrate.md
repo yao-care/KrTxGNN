@@ -36,7 +36,8 @@ Evidence Pack 분석 완료. `predicted_indications`가 비어 있고 대부분�
 
 ---
 
-# Atorvastatin Calcium Trihydrate: TxGNN 예측 없음 — 평가 보류
+## Atorvastatin Calcium Trihydrate: TxGNN 예측 없음 — 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

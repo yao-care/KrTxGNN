@@ -33,7 +33,8 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 
 </div>
 
-# Sulpiride: 조현병 등 정신질환에서 망막 이영양증으로
+## Sulpiride: 조현병 등 정신질환에서 망막 이영양증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

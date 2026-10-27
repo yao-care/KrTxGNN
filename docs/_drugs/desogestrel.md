@@ -33,7 +33,8 @@ predicted_indications: ["breast fibrocystic disease", "amenorrhea (disease)", "a
 
 </div>
 
-# Desogestrel: 피임에서 유방 섬유낭성 질환으로
+## Desogestrel: 피임에서 유방 섬유낭성 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

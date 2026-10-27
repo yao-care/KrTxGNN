@@ -33,7 +33,8 @@ predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma ga
 
 </div>
 
-# Trifarotene: 여드름에서 혈장 아연 상승으로
+## Trifarotene: 여드름에서 혈장 아연 상승으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

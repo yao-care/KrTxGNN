@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell
 
 </div>
 
-# Regorafenib: 대장암 등 기존 적응증에서 지방육종으로
+## Regorafenib: 대장암 등 기존 적응증에서 지방육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["synovium cancer", "tenosynovial giant cell tumor", "ten
 
 </div>
 
-# Trastuzumab emtansine: HER2 양성 유방암에서 정상 유방형(normal breast-like) 유방암으로
+## Trastuzumab emtansine: HER2 양성 유방암에서 정상 유방형(normal breast-like) 유방암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

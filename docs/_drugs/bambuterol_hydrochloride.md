@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Bambuterol Hydrochloride: 평가 불가 (예측 데이터 없음)
+## Bambuterol Hydrochloride: 평가 불가 (예측 데이터 없음)
+{: .text-alpha }
 
 ## 한 문장 요약
 

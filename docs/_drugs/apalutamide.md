@@ -36,7 +36,8 @@ Evidence Pack을 분석했습니다. `predicted_indications`가 비어 있고 �
 
 ---
 
-# APALUTAMIDE: 예측 적응증 데이터 수집 필요
+## APALUTAMIDE: 예측 적응증 데이터 수집 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

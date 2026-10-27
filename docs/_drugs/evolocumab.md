@@ -33,7 +33,8 @@ predicted_indications: ["symptomatic form of hemophilia in female carriers", "fa
 
 </div>
 
-# Evolocumab: 고콜레스테롤혈증에서 혈우병 보인자의 증상형으로?
+## Evolocumab: 고콜레스테롤혈증에서 혈우병 보인자의 증상형으로?
+{: .text-alpha }
 
 ## 한 문장 요약
 

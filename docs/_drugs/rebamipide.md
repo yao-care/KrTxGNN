@@ -33,7 +33,8 @@ predicted_indications: ["achlorhydria", "hiatus hernia (disease)", "cascade stom
 
 </div>
 
-# Rebamipide: 위점막 보호(위·십이지장 질환)에서 위산결핍증으로
+## Rebamipide: 위점막 보호(위·십이지장 질환)에서 위산결핍증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

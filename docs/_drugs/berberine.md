@@ -33,7 +33,8 @@ predicted_indications: ["severe pre-eclampsia", "mild pre-eclampsia", "monocytic
 
 </div>
 
-# Berberine: 설사·복통에서 중증 자간전증으로
+## Berberine: 설사·복통에서 중증 자간전증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["adult astrocytic tumour", "cauda equina neoplasm"]
 
 </div>
 
-# Temozolomide: 교모세포종 등 성인 성상세포종양에서의 확인 (기존 적응증 허가문서 미확인)
+## Temozolomide: 교모세포종 등 성인 성상세포종양에서의 확인 (기존 적응증 허가문서 미확인)
+{: .text-alpha }
 
 ## 한 문장 요약
 

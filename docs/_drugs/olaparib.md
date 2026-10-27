@@ -31,7 +31,8 @@ description: "Olaparib: 예측 신규 적응증 여성 유방암 (female breast 
 
 </div>
 
-# Olaparib: 난소암 등 BRCA 변이 암에서 여성 유방암으로
+## Olaparib: 난소암 등 BRCA 변이 암에서 여성 유방암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

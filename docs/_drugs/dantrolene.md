@@ -33,7 +33,8 @@ predicted_indications: ["moderate multiminicore disease with hand involvement", 
 
 </div>
 
-# Dantrolene: 근육 이완제로서의 기존 적응증에서 악성 고열증으로
+## Dantrolene: 근육 이완제로서의 기존 적응증에서 악성 고열증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

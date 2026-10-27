@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Arformoterol Tartrate: 데이터 부족으로 재창출 평가 불가
+## Arformoterol Tartrate: 데이터 부족으로 재창출 평가 불가
+{: .text-alpha }
 
 ## 한 문장 요약
 

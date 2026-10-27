@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 
 </div>
 
-# Metoclopramide: 구역·구토 및 위장관 운동 질환에서 위궤양으로
+## Metoclopramide: 구역·구토 및 위장관 운동 질환에서 위궤양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

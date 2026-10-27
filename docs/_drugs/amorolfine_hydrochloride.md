@@ -36,7 +36,8 @@ Evidence Pack을 분석합니다. `predicted_indications`가 비어 있고, 기�
 
 ---
 
-# Amorolfine Hydrochloride: 예측 신규 적응증 없음
+## Amorolfine Hydrochloride: 예측 신규 적응증 없음
+{: .text-alpha }
 
 ## 한 문장 요약
 

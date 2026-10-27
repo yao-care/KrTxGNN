@@ -33,7 +33,8 @@ predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipopr
 
 </div>
 
-# Pitavastatin: 이상지질혈증에서 고지단백혈증(HIV 환자의 심혈관 예방 포함)으로
+## Pitavastatin: 이상지질혈증에서 고지단백혈증(HIV 환자의 심혈관 예방 포함)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

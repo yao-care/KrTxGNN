@@ -33,7 +33,8 @@ predicted_indications: ["brain stem infarction", "cholesterol-ester transfer pro
 
 </div>
 
-# Simvastatin: 고지혈증에서 가족성 고콜레스테롤혈증으로
+## Simvastatin: 고지혈증에서 가족성 고콜레스테롤혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

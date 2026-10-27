@@ -33,7 +33,8 @@ predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast ca
 
 </div>
 
-# Larotrectinib: NTRK 융합 양성 고형암에서 다발성 내분비 종양으로
+## Larotrectinib: NTRK 융합 양성 고형암에서 다발성 내분비 종양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

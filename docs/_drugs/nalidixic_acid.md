@@ -33,7 +33,8 @@ predicted_indications: ["conjunctivitis", "sclerosing cholangitis", "rheumatoid 
 
 </div>
 
-# Nalidixic Acid: 요로 감염에서 결막염으로
+## Nalidixic Acid: 요로 감염에서 결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cyt
 
 </div>
 
-# Arsenic Trioxide: 급성 전골수성백혈병에서 골수이형성증후군으로
+## Arsenic Trioxide: 급성 전골수성백혈병에서 골수이형성증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

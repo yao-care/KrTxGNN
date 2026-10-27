@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of l
 
 </div>
 
-# Vinorelbine: 기존 적응증에서 Ewing 육종으로
+## Vinorelbine: 기존 적응증에서 Ewing 육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

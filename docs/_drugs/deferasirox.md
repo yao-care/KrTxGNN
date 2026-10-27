@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus inf
 
 </div>
 
-# Deferasirox: 철 과다증에서 HIV 감염증으로
+## Deferasirox: 철 과다증에서 HIV 감염증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

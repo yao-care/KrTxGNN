@@ -33,7 +33,8 @@ predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intell
 
 </div>
 
-# Mirtazapine: 우울증 치료제에서 Ohdo 증후군으로
+## Mirtazapine: 우울증 치료제에서 Ohdo 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

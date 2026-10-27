@@ -33,7 +33,8 @@ predicted_indications: ["pneumocystosis"]
 
 </div>
 
-# Itraconazole: 진균 감염에서 폐포자충증(Pneumocystosis)으로
+## Itraconazole: 진균 감염에서 폐포자충증(Pneumocystosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

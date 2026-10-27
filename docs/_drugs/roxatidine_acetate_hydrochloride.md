@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Roxatidine Acetate Hydrochloride: 파이프라인 재실행 필요
+## Roxatidine Acetate Hydrochloride: 파이프라인 재실행 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

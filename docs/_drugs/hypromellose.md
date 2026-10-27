@@ -33,7 +33,8 @@ predicted_indications: ["hepatic veno-occlusive disease-immunodeficiency syndrom
 
 </div>
 
-# Hypromellose: 안구건조증에서 간정맥폐쇄성 질환-면역결핍 증후군으로
+## Hypromellose: 안구건조증에서 간정맥폐쇄성 질환-면역결핍 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

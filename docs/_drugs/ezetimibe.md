@@ -33,7 +33,8 @@ predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer prot
 
 </div>
 
-# Ezetimibe: 고콜레스테롤혈증에서 고지단백혈증으로
+## Ezetimibe: 고콜레스테롤혈증에서 고지단백혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["restless legs syndrome", "otosclerosis", "peripheral ve
 
 </div>
 
-# Betahistine: 메니에르병 어지럼증에서 하지불안증후군으로
+## Betahistine: 메니에르병 어지럼증에서 하지불안증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

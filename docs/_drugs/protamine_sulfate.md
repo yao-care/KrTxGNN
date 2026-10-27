@@ -33,7 +33,8 @@ predicted_indications: ["severe intellectual disability-progressive postnatal mi
 
 </div>
 
-# Protamine sulfate: 헤파린 중화제에서 중증 지적장애-소두증 증후군으로
+## Protamine sulfate: 헤파린 중화제에서 중증 지적장애-소두증 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

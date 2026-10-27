@@ -33,7 +33,8 @@ predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia",
 
 </div>
 
-# Moxifloxacin: 세균 감염증에서 폴리클로날 과점성 증후군으로
+## Moxifloxacin: 세균 감염증에서 폴리클로날 과점성 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", 
 
 </div>
 
-# Entrectinib: NTRK/ROS1 양성 고형암에서 다발성 내분비 종양증으로
+## Entrectinib: NTRK/ROS1 양성 고형암에서 다발성 내분비 종양증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

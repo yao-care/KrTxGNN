@@ -33,7 +33,8 @@ predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating 
 
 </div>
 
-# Durvalumab: 기존 적응증 정보 미확인에서 전립선 요도 요로상피암으로
+## Durvalumab: 기존 적응증 정보 미확인에서 전립선 요도 요로상피암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

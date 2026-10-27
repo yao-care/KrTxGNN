@@ -33,7 +33,8 @@ predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "blu
 
 </div>
 
-# Danazol: 허가 적응증에서 유방 섬유낭성 질환으로
+## Danazol: 허가 적응증에서 유방 섬유낭성 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

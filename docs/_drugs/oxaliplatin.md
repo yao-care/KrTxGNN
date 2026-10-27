@@ -33,7 +33,8 @@ predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid
 
 </div>
 
-# Oxaliplatin: 대장암에서 악성 흉막 중피종으로
+## Oxaliplatin: 대장암에서 악성 흉막 중피종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

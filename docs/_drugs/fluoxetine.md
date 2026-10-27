@@ -33,7 +33,8 @@ predicted_indications: ["paranoid personality disorder", "histrionic personality
 
 </div>
 
-# Fluoxetine: 우울증에서 강박장애로
+## Fluoxetine: 우울증에서 강박장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

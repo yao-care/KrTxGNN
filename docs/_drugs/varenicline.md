@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "co
 
 </div>
 
-# Varenicline: 금연 치료제에서 편두통으로 (예측 단계)
+## Varenicline: 금연 치료제에서 편두통으로 (예측 단계)
+{: .text-alpha }
 
 ## 한 문장 요약
 

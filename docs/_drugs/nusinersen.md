@@ -33,7 +33,8 @@ predicted_indications: ["hyperaldosteronism", "ophthalmomyiasis", "multilocular 
 
 </div>
 
-# Nusinersen: 척수성 근위축증에서 고알도스테론증으로
+## Nusinersen: 척수성 근위축증에서 고알도스테론증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

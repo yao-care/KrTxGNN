@@ -33,7 +33,8 @@ predicted_indications: ["small bowel Crohn disease", "venous insufficiency (dise
 
 </div>
 
-# Itopride: 기능성 소화불량(상부 위장관 운동 장애)에서 소장 크론병으로
+## Itopride: 기능성 소화불량(상부 위장관 운동 장애)에서 소장 크론병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

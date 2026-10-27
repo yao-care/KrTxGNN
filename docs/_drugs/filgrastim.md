@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "pseudo-von Wil
 
 </div>
 
-# Filgrastim: 호중구감소증에서 혈소판 기능 질환으로
+## Filgrastim: 호중구감소증에서 혈소판 기능 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

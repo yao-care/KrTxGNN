@@ -33,7 +33,8 @@ predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular 
 
 </div>
 
-# Balsalazide: 궤양성 대장염에서 통풍으로
+## Balsalazide: 궤양성 대장염에서 통풍으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

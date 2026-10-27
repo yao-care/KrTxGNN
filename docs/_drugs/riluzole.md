@@ -33,7 +33,8 @@ predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria
 
 </div>
 
-# Riluzole: 근위축성 측삭경화증에서 양측 두정-후두 부시상 다소뇌회증으로
+## Riluzole: 근위축성 측삭경화증에서 양측 두정-후두 부시상 다소뇌회증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course
 
 </div>
 
-# Eliglustat: 고셔병에서 상염색체 어린선 증후군(치명적 경과)으로
+## Eliglustat: 고셔병에서 상염색체 어린선 증후군(치명적 경과)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

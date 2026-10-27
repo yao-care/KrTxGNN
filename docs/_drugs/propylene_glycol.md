@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopa
 
 </div>
 
-# Propylene Glycol: 점안제 첨가제·보습제에서 기관지염으로
+## Propylene Glycol: 점안제 첨가제·보습제에서 기관지염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

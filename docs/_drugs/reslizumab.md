@@ -33,7 +33,8 @@ predicted_indications: ["thrombocytopenia due to immune destruction", "primary r
 
 </div>
 
-# Reslizumab: 호산구성 질환에서 면역성 혈소판 감소증으로
+## Reslizumab: 호산구성 질환에서 면역성 혈소판 감소증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "conge
 
 </div>
 
-# Milrinone: 울혈성 심부전에서 탈모로
+## Milrinone: 울혈성 심부전에서 탈모로
+{: .text-alpha }
 
 ## 한 문장 요약
 

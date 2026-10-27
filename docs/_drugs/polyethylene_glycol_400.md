@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
 
 </div>
 
-# Polyethylene Glycol 400: 점안제(안구 건조 관련)에서 기관지염으로
+## Polyethylene Glycol 400: 점안제(안구 건조 관련)에서 기관지염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

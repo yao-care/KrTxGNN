@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheu
 
 </div>
 
-# Cefroxadine: 세균 감염 치료제에서 골관절염으로
+## Cefroxadine: 세균 감염 치료제에서 골관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

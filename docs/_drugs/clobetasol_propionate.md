@@ -33,7 +33,8 @@ predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis 
 
 </div>
 
-# Clobetasol Propionate: 국소 코르티코스테로이드 적응증에서 외진(Exanthem)으로
+## Clobetasol Propionate: 국소 코르티코스테로이드 적응증에서 외진(Exanthem)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

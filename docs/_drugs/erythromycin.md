@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute conta
 
 </div>
 
-# Erythromycin: 국소 제형 항생제에서 점상 상피성 각결막염으로
+## Erythromycin: 국소 제형 항생제에서 점상 상피성 각결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

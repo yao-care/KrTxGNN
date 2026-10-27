@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Artesunate: 데이터 보완 필요 — 예측 생성 전 단계
+## Artesunate: 데이터 보완 필요 — 예측 생성 전 단계
+{: .text-alpha }
 
 ---
 

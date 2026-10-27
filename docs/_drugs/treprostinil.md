@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypot
 
 </div>
 
-# Treprostinil: 폐동맥 고혈압에서 폐동정맥 기형으로
+## Treprostinil: 폐동맥 고혈압에서 폐동정맥 기형으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

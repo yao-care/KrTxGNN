@@ -33,7 +33,8 @@ predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusit
 
 </div>
 
-# Cilastatin: 세균성 관절염으로의 재창출 평가 (기존 적응증 정보 확인 필요)
+## Cilastatin: 세균성 관절염으로의 재창출 평가 (기존 적응증 정보 확인 필요)
+{: .text-alpha }
 
 ## 한 문장 요약
 

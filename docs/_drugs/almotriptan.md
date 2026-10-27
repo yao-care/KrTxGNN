@@ -33,7 +33,8 @@ predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 
 </div>
 
-# Almotriptan: 편두통에서 뇌간 조짐 편두통으로
+## Almotriptan: 편두통에서 뇌간 조짐 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

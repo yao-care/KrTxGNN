@@ -33,7 +33,8 @@ predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic d
 
 </div>
 
-# Palbociclib: 유방암에서 갑상선기능항진증으로
+## Palbociclib: 유방암에서 갑상선기능항진증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

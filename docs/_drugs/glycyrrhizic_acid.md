@@ -33,7 +33,8 @@ predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", 
 
 </div>
 
-# Glycyrrhizic acid: 감기 증상 완화에서 다발성 내분비 종양으로
+## Glycyrrhizic acid: 감기 증상 완화에서 다발성 내분비 종양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy",
 
 </div>
 
-# Adalimumab: 기존 적응증에서 류마티스 혈관염으로
+## Adalimumab: 기존 적응증에서 류마티스 혈관염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", 
 
 </div>
 
-# 아세틸살리실산(Acetylsalicylic acid): 통증·해열 및 혈전 예방에서 뇌간 조짐을 동반한 편두통으로
+## 아세틸살리실산(Acetylsalicylic acid): 통증·해열 및 혈전 예방에서 뇌간 조짐을 동반한 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

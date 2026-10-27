@@ -33,7 +33,8 @@ predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial 
 
 </div>
 
-# Nitrogen: 의료용 가스에서 16q24.1 미세결실 증후군으로
+## Nitrogen: 의료용 가스에서 16q24.1 미세결실 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

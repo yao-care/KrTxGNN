@@ -33,7 +33,8 @@ predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioi
 
 </div>
 
-# Plerixafor: 조혈모세포 동원제에서 무증상(저등급) 형질세포 골수종으로
+## Plerixafor: 조혈모세포 동원제에서 무증상(저등급) 형질세포 골수종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

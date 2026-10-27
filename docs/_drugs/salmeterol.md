@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "respiratory malformation", "obstructive l
 
 </div>
 
-# Salmeterol: 천식·만성 폐쇄성 폐질환에서 기관지염으로
+## Salmeterol: 천식·만성 폐쇄성 폐질환에서 기관지염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

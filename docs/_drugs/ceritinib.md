@@ -33,7 +33,8 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 
 </div>
 
-# Ceritinib: 허가 적응증에서 치은 섬유종증으로
+## Ceritinib: 허가 적응증에서 치은 섬유종증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulv
 
 </div>
 
-# Tinidazole: 원충·혐기성균 감염에서 폐경 후 위축성 질염으로
+## Tinidazole: 원충·혐기성균 감염에서 폐경 후 위축성 질염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

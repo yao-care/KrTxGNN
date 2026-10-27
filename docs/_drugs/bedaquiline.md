@@ -33,7 +33,8 @@ predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle 
 
 </div>
 
-# Bedaquiline: 다제내성 결핵에서 잠복 결핵(비활동성 결핵)으로
+## Bedaquiline: 다제내성 결핵에서 잠복 결핵(비활동성 결핵)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

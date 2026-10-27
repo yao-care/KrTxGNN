@@ -33,7 +33,8 @@ predicted_indications: ["classic Hodgkin lymphoma, lymphocyte-depleted type", "c
 
 </div>
 
-# Cinepazide: 기존 혈관 질환 치료제에서 고전적 호지킨 림프종(림프구 고갈형)으로
+## Cinepazide: 기존 혈관 질환 치료제에서 고전적 호지킨 림프종(림프구 고갈형)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

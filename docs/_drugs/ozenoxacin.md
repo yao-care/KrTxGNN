@@ -33,7 +33,8 @@ predicted_indications: ["malaria", "pyogenic arthritis-pyoderma gangrenosum-acne
 
 </div>
 
-# Ozenoxacin: 국소 항균 치료에서 말라리아로
+## Ozenoxacin: 국소 항균 치료에서 말라리아로
+{: .text-alpha }
 
 ## 한 문장 요약
 

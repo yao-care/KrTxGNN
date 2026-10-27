@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 
 </div>
 
-# Fluconazole: 진균 감염에서 점상 상피성 각결막염으로
+## Fluconazole: 진균 감염에서 점상 상피성 각결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

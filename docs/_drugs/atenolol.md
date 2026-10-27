@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Atenolol: 고혈압·협심증에서 후하벽 심근경색으로
+## Atenolol: 고혈압·협심증에서 후하벽 심근경색으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

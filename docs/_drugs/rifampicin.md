@@ -33,7 +33,8 @@ predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne 
 
 </div>
 
-# Rifampicin: 결핵 등 감염증에서 결막염으로
+## Rifampicin: 결핵 등 감염증에서 결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

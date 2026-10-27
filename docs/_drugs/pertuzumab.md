@@ -33,7 +33,8 @@ predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell s
 
 </div>
 
-# Pertuzumab: HER2 양성 유방암에서 프로게스테론 수용체 양성 유방암으로
+## Pertuzumab: HER2 양성 유방암에서 프로게스테론 수용체 양성 유방암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

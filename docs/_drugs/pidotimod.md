@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheu
 
 </div>
 
-# Pidotimod: 면역 조절 보조제에서 골관절염으로
+## Pidotimod: 면역 조절 보조제에서 골관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

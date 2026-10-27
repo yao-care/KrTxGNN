@@ -33,7 +33,8 @@ predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hep
 
 </div>
 
-# Famciclovir: 헤르페스 바이러스 감염에서 수두(Chickenpox)로
+## Famciclovir: 헤르페스 바이러스 감염에서 수두(Chickenpox)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

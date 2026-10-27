@@ -33,7 +33,8 @@ predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease"
 
 </div>
 
-# Lurbinectedin: 소세포폐암에서 다발성 내분비 종양으로
+## Lurbinectedin: 소세포폐암에서 다발성 내분비 종양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

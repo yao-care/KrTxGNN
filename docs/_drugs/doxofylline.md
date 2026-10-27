@@ -33,7 +33,8 @@ predicted_indications: ["Pierre Robin syndrome associated with a chromosomal ano
 
 </div>
 
-# Doxofylline: 기관지 질환(천식·COPD)에서 피에르 로뱅 증후군(염색체 이상 동반)으로
+## Doxofylline: 기관지 질환(천식·COPD)에서 피에르 로뱅 증후군(염색체 이상 동반)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

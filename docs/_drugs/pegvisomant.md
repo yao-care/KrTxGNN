@@ -33,7 +33,8 @@ predicted_indications: ["borderline ovarian serous tumor", "rete ovarii cystaden
 
 </div>
 
-# Pegvisomant: 말단비대증에서 경계성 난소 장액성 종양으로
+## Pegvisomant: 말단비대증에서 경계성 난소 장액성 종양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

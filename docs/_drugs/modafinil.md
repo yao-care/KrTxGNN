@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)"]
 
 </div>
 
-# Modafinil: 기면증 등 과다졸림증에서 불면증으로
+## Modafinil: 기면증 등 과다졸림증에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

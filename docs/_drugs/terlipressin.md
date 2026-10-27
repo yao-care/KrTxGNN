@@ -33,7 +33,8 @@ predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "p
 
 </div>
 
-# Terlipressin: 문맥 고혈압 관련 질환에서 폐고혈압으로
+## Terlipressin: 문맥 고혈압 관련 질환에서 폐고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

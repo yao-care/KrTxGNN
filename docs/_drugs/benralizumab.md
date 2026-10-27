@@ -33,7 +33,8 @@ predicted_indications: ["thrombocytopenia due to immune destruction", "dermatiti
 
 </div>
 
-# Benralizumab: 중증 호산구성 천식에서 피부염으로
+## Benralizumab: 중증 호산구성 천식에서 피부염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

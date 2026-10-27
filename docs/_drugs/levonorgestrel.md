@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant 
 
 </div>
 
-# Levonorgestrel: 피임에서 여드름으로
+## Levonorgestrel: 피임에서 여드름으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

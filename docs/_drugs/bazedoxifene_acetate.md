@@ -46,7 +46,8 @@ last_modified_at: 2026-10-12
 
 ---
 
-# Bazedoxifene Acetate: 예측 데이터 없음 — 평가 보류
+## Bazedoxifene Acetate: 예측 데이터 없음 — 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# Minoxidil: 남성형 탈모증에서 두피 단순 저모증(Hypotrichosis simplex of the scalp)으로
+## Minoxidil: 남성형 탈모증에서 두피 단순 저모증(Hypotrichosis simplex of the scalp)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

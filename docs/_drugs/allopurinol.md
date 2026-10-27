@@ -33,7 +33,8 @@ predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "idiopath
 
 </div>
 
-# Allopurinol: 통풍·고요산혈증에서 간성 포르피린증으로
+## Allopurinol: 통풍·고요산혈증에서 간성 포르피린증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

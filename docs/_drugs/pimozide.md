@@ -33,7 +33,8 @@ predicted_indications: ["trichotillomania", "manic bipolar affective disorder", 
 
 </div>
 
-# Pimozide: 허가 적응증 확인 불가 상태에서 발모광(Trichotillomania)으로
+## Pimozide: 허가 적응증 확인 불가 상태에서 발모광(Trichotillomania)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

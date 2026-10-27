@@ -33,7 +33,8 @@ predicted_indications: ["antithrombin deficiency type 2", "heparin cofactor 2 de
 
 </div>
 
-# Mirvetuximab Soravtansine: 난소암에서 항트롬빈 결핍증 2형으로
+## Mirvetuximab Soravtansine: 난소암에서 항트롬빈 결핍증 2형으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

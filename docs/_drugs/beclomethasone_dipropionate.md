@@ -33,7 +33,8 @@ predicted_indications: ["atopic eczema"]
 
 </div>
 
-# Beclomethasone Dipropionate: 천식·호흡기 질환에서 아토피 피부염으로
+## Beclomethasone Dipropionate: 천식·호흡기 질환에서 아토피 피부염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

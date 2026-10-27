@@ -33,7 +33,8 @@ predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-ty
 
 </div>
 
-# Paclitaxel: 항암 화학요법제에서 여성 유방암(Female Breast Carcinoma)으로
+## Paclitaxel: 항암 화학요법제에서 여성 유방암(Female Breast Carcinoma)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

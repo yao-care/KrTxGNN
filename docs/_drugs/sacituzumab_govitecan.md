@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative di
 
 </div>
 
-# Sacituzumab govitecan: 허가 적응증에서 약인성 골다공증으로
+## Sacituzumab govitecan: 허가 적응증에서 약인성 골다공증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucino
 
 </div>
 
-# Hydrocortisone Acetate: 습진·피부 염증에서 원형탈모증으로
+## Hydrocortisone Acetate: 습진·피부 염증에서 원형탈모증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

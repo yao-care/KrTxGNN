@@ -33,7 +33,8 @@ predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "brea
 
 </div>
 
-# Dienogest: 기존 적응증에서 무월경으로
+## Dienogest: 기존 적응증에서 무월경으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (d
 
 </div>
 
-# Scopolamine: 멀미에서 마미 증후군(Cauda Equina Syndrome)으로
+## Scopolamine: 멀미에서 마미 증후군(Cauda Equina Syndrome)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

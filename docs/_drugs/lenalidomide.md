@@ -33,7 +33,8 @@ predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood",
 
 </div>
 
-# Lenalidomide: 다발골수종·골수이형성증후군에서 골수성 백혈병으로
+## Lenalidomide: 다발골수종·골수이형성증후군에서 골수성 백혈병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

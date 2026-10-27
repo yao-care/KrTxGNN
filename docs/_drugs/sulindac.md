@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Sulindac: 관절염 계열 질환에서 골관절염 예측으로
+## Sulindac: 관절염 계열 질환에서 골관절염 예측으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

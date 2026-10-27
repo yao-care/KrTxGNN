@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 
 </div>
 
-# Atropine: 점안·주사 적응증에서 편두통으로
+## Atropine: 점안·주사 적응증에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

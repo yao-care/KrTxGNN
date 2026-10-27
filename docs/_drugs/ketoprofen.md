@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Ketoprofen: 퇴행성관절염 등 근골격계 통증·염증에서 골관절염 감수성(Osteoarthritis Susceptibility)으로
+## Ketoprofen: 퇴행성관절염 등 근골격계 통증·염증에서 골관절염 감수성(Osteoarthritis Susceptibility)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

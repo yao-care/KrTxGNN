@@ -33,7 +33,8 @@ predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteocla
 
 </div>
 
-# Mitomycin: 허가 적응증에서 췌장 고형 가성유두암으로
+## Mitomycin: 허가 적응증에서 췌장 고형 가성유두암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

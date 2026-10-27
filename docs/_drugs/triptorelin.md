@@ -33,7 +33,8 @@ predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis 
 
 </div>
 
-# Triptorelin: GnRH 작용제 치료에서 다모증(Hypertrichosis)으로
+## Triptorelin: GnRH 작용제 치료에서 다모증(Hypertrichosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

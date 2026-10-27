@@ -33,7 +33,8 @@ predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "
 
 </div>
 
-# Fluorescein: 진단 목적 사용에서 Prinzmetal 협심증으로 (예측)
+## Fluorescein: 진단 목적 사용에서 Prinzmetal 협심증으로 (예측)
+{: .text-alpha }
 
 ## 한 문장 요약
 

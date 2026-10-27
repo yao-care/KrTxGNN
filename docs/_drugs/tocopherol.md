@@ -33,7 +33,8 @@ predicted_indications: ["sclerosing cholangitis", "pulmonary hypertension", "rhe
 
 </div>
 
-# Tocopherol: 말초순환 장애·비타민 E 결핍증에서 경화성 담관염으로
+## Tocopherol: 말초순환 장애·비타민 E 결핍증에서 경화성 담관염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

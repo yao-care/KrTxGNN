@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary arteriovenous malformation (disease)", "pulmo
 
 </div>
 
-# Beraprost: 순환기계 질환에서 선천성 심장질환 동반 폐동맥 고혈압으로
+## Beraprost: 순환기계 질환에서 선천성 심장질환 동반 폐동맥 고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

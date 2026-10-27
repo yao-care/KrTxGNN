@@ -33,7 +33,8 @@ predicted_indications: ["biotin metabolic disease"]
 
 </div>
 
-# Folic Acid: 폴산 결핍증에서 비오틴 대사 질환으로
+## Folic Acid: 폴산 결핍증에서 비오틴 대사 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

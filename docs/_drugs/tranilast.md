@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic keratosis", "seborrheic dermatitis", "polyp 
 
 </div>
 
-# Tranilast: 기존 허가 적응증에서 지루각화증으로
+## Tranilast: 기존 허가 적응증에서 지루각화증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

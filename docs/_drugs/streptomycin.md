@@ -33,7 +33,8 @@ predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bac
 
 </div>
 
-# Streptomycin: 결핵 등 감염증에서 결막염으로
+## Streptomycin: 결핵 등 감염증에서 결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 
 </div>
 
-# Paliperidone: 조현병에서 망막이영양증으로
+## Paliperidone: 조현병에서 망막이영양증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

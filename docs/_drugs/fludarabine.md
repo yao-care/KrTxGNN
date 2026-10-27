@@ -33,7 +33,8 @@ predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dom
 
 </div>
 
-# Fludarabine: 만성 림프구성 백혈병 등 혈액암에서 다발골수종으로
+## Fludarabine: 만성 림프구성 백혈병 등 혈액암에서 다발골수종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

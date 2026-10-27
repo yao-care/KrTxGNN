@@ -33,7 +33,8 @@ predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with 
 
 </div>
 
-# Lanreotide: 기존 적응증 정보 미확인에서 다모증(Hypertrichosis)으로
+## Lanreotide: 기존 적응증 정보 미확인에서 다모증(Hypertrichosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

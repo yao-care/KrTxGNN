@@ -33,7 +33,8 @@ predicted_indications: ["Scheie syndrome", "Hurler syndrome", "lysosomal storage
 
 </div>
 
-# Cerliponase alfa: 기존 적응증 미확인에서 Scheie 증후군으로
+## Cerliponase alfa: 기존 적응증 미확인에서 Scheie 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

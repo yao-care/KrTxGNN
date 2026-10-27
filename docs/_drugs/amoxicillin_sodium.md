@@ -36,7 +36,8 @@ Evidence Pack을 분석합니다. `predicted_indications`가 비어 있고 허�
 
 ---
 
-# AMOXICILLIN SODIUM: 예측 적응증 없음 — 평가 보류
+## AMOXICILLIN SODIUM: 예측 적응증 없음 — 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

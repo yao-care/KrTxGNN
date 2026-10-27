@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheu
 
 </div>
 
-# Piracetam: 허가 적응증 확인 불가에서 골관절염으로
+## Piracetam: 허가 적응증 확인 불가에서 골관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

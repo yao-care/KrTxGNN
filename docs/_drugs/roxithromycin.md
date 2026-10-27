@@ -33,7 +33,8 @@ predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syn
 
 </div>
 
-# Roxithromycin: 세균 감염증에서 나병(한센병)으로
+## Roxithromycin: 세균 감염증에서 나병(한센병)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

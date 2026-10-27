@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart
 
 </div>
 
-# Acyclovir: 단순포진 감염증에서 보통 사마귀(Common Wart)로
+## Acyclovir: 단순포진 감염증에서 보통 사마귀(Common Wart)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

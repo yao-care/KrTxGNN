@@ -33,7 +33,8 @@ predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid",
 
 </div>
 
-# Ustekinumab: 건선·크론병 등 기존 적응증에서 피부염으로
+## Ustekinumab: 건선·크론병 등 기존 적응증에서 피부염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

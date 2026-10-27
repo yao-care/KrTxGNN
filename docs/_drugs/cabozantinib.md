@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophi
 
 </div>
 
-# Cabozantinib: 신세포암에서 지방육종(Liposarcoma)으로
+## Cabozantinib: 신세포암에서 지방육종(Liposarcoma)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

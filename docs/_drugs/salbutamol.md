@@ -33,7 +33,8 @@ predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pha
 
 </div>
 
-# Salbutamol: 기관지 확장제에서 유두성 결막염(Papillary Conjunctivitis)으로
+## Salbutamol: 기관지 확장제에서 유두성 결막염(Papillary Conjunctivitis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

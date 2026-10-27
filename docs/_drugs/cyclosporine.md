@@ -33,7 +33,8 @@ predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "
 
 </div>
 
-# Cyclosporine: 장기이식 거부반응 억제에서 만성 육아종성 질환으로
+## Cyclosporine: 장기이식 거부반응 억제에서 만성 육아종성 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndro
 
 </div>
 
-# Bosentan: 폐동맥 고혈압에서 류마티스 관절염으로
+## Bosentan: 폐동맥 고혈압에서 류마티스 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

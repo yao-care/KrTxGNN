@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 
 </div>
 
-# Ramipril: 고혈압·심혈관 질환에서 허혈성 뇌졸중 감수성으로
+## Ramipril: 고혈압·심혈관 질환에서 허혈성 뇌졸중 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

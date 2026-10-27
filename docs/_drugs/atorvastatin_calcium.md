@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Atorvastatin Calcium: 데이터 미완성으로 평가 보류
+## Atorvastatin Calcium: 데이터 미완성으로 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

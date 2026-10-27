@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atro
 
 </div>
 
-# Clotrimazole: 피부·질 진균증에서 급성 여드름(Acne)으로
+## Clotrimazole: 피부·질 진균증에서 급성 여드름(Acne)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

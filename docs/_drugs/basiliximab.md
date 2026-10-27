@@ -33,7 +33,8 @@ predicted_indications: ["plasma cell myeloma", "bronchitis", "indolent plasma ce
 
 </div>
 
-# Basiliximab: 이식 거부반응 예방에서 형질세포 골수종으로
+## Basiliximab: 이식 거부반응 예방에서 형질세포 골수종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

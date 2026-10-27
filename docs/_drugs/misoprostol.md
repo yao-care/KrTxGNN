@@ -33,7 +33,8 @@ predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
 
 </div>
 
-# Misoprostol: 소화성 궤양 계열 약물에서 무월경으로
+## Misoprostol: 소화성 궤양 계열 약물에서 무월경으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

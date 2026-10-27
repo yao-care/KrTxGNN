@@ -33,7 +33,8 @@ predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable en
 
 </div>
 
-# Zanubrutinib: B세포 악성 종양에서 골수성 백혈병으로
+## Zanubrutinib: B세포 악성 종양에서 골수성 백혈병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

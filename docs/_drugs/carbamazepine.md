@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm"]
 
 </div>
 
-# Carbamazepine: 항경련제에서 삼차신경 신생물로
+## Carbamazepine: 항경련제에서 삼차신경 신생물로
+{: .text-alpha }
 
 ## 한 문장 요약
 

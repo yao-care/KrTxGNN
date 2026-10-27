@@ -33,7 +33,8 @@ predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", 
 
 </div>
 
-# Canakinumab: 크리오피린 관련 주기열 증후군(CAPS)에서 간 경색(Hepatic Infarction)으로
+## Canakinumab: 크리오피린 관련 주기열 증후군(CAPS)에서 간 경색(Hepatic Infarction)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

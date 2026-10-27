@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofib
 
 </div>
 
-# Sunitinib: 신세포암 등 고형종양에서 지방육종으로
+## Sunitinib: 신세포암 등 고형종양에서 지방육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

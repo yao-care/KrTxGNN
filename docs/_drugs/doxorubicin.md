@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 
 </div>
 
-# Doxorubicin: 원래 항암 화학요법제에서 유잉 육종으로
+## Doxorubicin: 원래 항암 화학요법제에서 유잉 육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

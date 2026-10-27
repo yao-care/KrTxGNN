@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "an
 
 </div>
 
-# Flunitrazepam: 불면증에서 불면증(및 기타 신경정신계 질환)으로
+## Flunitrazepam: 불면증에서 불면증(및 기타 신경정신계 질환)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

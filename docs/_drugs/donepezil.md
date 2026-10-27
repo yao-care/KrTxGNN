@@ -33,7 +33,8 @@ predicted_indications: ["psychogenic movement disorders", "chronic tic disorder"
 
 </div>
 
-# Donepezil: 알츠하이머형 치매에서 심인성 운동장애로
+## Donepezil: 알츠하이머형 치매에서 심인성 운동장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

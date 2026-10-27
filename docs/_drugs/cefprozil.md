@@ -33,7 +33,8 @@ predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "go
 
 </div>
 
-# Cefprozil: 호흡기·피부 감염에서 요로감염으로
+## Cefprozil: 호흡기·피부 감염에서 요로감염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

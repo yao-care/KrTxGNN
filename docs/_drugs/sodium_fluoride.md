@@ -33,7 +33,8 @@ predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ur
 
 </div>
 
-# Sodium Fluoride: 방사성의약품 진단 및 치아 미백에서 후두염(Laryngitis)으로
+## Sodium Fluoride: 방사성의약품 진단 및 치아 미백에서 후두염(Laryngitis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

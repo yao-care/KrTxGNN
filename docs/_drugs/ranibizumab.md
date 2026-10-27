@@ -33,7 +33,8 @@ predicted_indications: ["mature cataract", "immature cataract", "diabetes mellit
 
 </div>
 
-# Ranibizumab: 안과 질환에서 중증 비증식성 당뇨망막병증으로
+## Ranibizumab: 안과 질환에서 중증 비증식성 당뇨망막병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

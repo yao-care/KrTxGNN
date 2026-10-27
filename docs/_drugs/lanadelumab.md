@@ -33,7 +33,8 @@ predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serp
 
 </div>
 
-# Lanadelumab: 유전성 혈관부종에서 C1 억제제 결핍증으로
+## Lanadelumab: 유전성 혈관부종에서 C1 억제제 결핍증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

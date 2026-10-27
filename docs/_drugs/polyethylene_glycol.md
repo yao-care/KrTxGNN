@@ -33,7 +33,8 @@ predicted_indications: ["congenital ichthyosiform erythroderma"]
 
 </div>
 
-# 폴리에틸렌글리콜: 만성 변비에서 선천성 어린선양 홍피증으로
+## 폴리에틸렌글리콜: 만성 변비에서 선천성 어린선양 홍피증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

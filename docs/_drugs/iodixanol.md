@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheu
 
 </div>
 
-# Iodixanol: 조영 진단에서 골관절염 감수성으로
+## Iodixanol: 조영 진단에서 골관절염 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

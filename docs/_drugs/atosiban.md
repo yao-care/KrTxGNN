@@ -33,7 +33,8 @@ predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "c
 
 </div>
 
-# Atosiban: 조기진통(자궁수축 억제)에서 원발성 유전성 녹내장으로
+## Atosiban: 조기진통(자궁수축 억제)에서 원발성 유전성 녹내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

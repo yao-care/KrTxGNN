@@ -33,7 +33,8 @@ predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 
 </div>
 
-# Ebastine: 알레르기 질환에서 관상동맥질환으로
+## Ebastine: 알레르기 질환에서 관상동맥질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

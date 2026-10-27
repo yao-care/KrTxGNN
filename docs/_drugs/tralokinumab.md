@@ -33,7 +33,8 @@ predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immatur
 
 </div>
 
-# Tralokinumab: 아토피피부염에서 당뇨병성 백내장으로
+## Tralokinumab: 아토피피부염에서 당뇨병성 백내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

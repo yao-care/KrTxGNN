@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Avatrombopag Maleate: 필수 데이터 미수집으로 평가 보류
+## Avatrombopag Maleate: 필수 데이터 미수집으로 평가 보류
+{: .text-alpha }
 
 ---
 

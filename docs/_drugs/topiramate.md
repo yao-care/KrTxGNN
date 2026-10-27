@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm"]
 
 </div>
 
-# Topiramate: 뇌전증에서 삼차신경 종양으로
+## Topiramate: 뇌전증에서 삼차신경 종양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

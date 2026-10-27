@@ -33,7 +33,8 @@ predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable e
 
 </div>
 
-# Daunorubicin: 원발성 급성 백혈병 치료제에서 급성 림프모구성 백혈병으로
+## Daunorubicin: 원발성 급성 백혈병 치료제에서 급성 림프모구성 백혈병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

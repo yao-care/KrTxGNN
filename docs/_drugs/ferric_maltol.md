@@ -33,7 +33,8 @@ predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-inde
 
 </div>
 
-# Ferric Maltol: 철분 보충제에서 플러머-빈슨 증후군으로
+## Ferric Maltol: 철분 보충제에서 플러머-빈슨 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

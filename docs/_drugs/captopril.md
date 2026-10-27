@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Captopril: 고혈압에서 악성 신혈관성 고혈압으로
+## Captopril: 고혈압에서 악성 신혈관성 고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

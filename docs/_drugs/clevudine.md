@@ -33,7 +33,8 @@ predicted_indications: ["chronic hepatitis C virus infection", "hepatitis C viru
 
 </div>
 
-# 클레부딘: 만성 B형 간염에서 만성 C형 간염으로
+## 클레부딘: 만성 B형 간염에서 만성 C형 간염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

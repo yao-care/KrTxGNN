@@ -33,7 +33,8 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 
 </div>
 
-# 클로르프로틱센(Chlorprothixene): 항정신병약에서 망막 이영양증으로
+## 클로르프로틱센(Chlorprothixene): 항정신병약에서 망막 이영양증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

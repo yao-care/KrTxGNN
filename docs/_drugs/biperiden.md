@@ -33,7 +33,8 @@ predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-a
 
 </div>
 
-# Biperiden: 파킨슨증에서 소아 발병 파킨슨병 19A로
+## Biperiden: 파킨슨증에서 소아 발병 파킨슨병 19A로
+{: .text-alpha }
 
 ## 한 문장 요약
 

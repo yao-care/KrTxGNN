@@ -33,7 +33,8 @@ predicted_indications: ["hemoglobinopathy", "myocardial infarction", "posteroinf
 
 </div>
 
-# Cefamandole nafate: 세균 감염증에서 혈색소병증으로
+## Cefamandole nafate: 세균 감염증에서 혈색소병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

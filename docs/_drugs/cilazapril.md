@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 
 </div>
 
-# Cilazapril: 고혈압에서 저산소증/폐질환 관련 폐고혈압으로
+## Cilazapril: 고혈압에서 저산소증/폐질환 관련 폐고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["monosomy X", "hepatic infarction", "hepatic veno-occlus
 
 </div>
 
-# Luspatercept: 이분형 빈혈 치료제에서 모노소미 X(터너 증후군)로
+## Luspatercept: 이분형 빈혈 치료제에서 모노소미 X(터너 증후군)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

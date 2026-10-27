@@ -33,7 +33,8 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabeti
 
 </div>
 
-# Pegfilgrastim: 허가 적응증 확인 필요에서 중증 비증식성 당뇨망막병증으로
+## Pegfilgrastim: 허가 적응증 확인 필요에서 중증 비증식성 당뇨망막병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

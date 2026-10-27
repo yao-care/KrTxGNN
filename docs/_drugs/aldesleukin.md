@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Aldesleukin: 예측 적응증 없음 — 평가 보류
+## Aldesleukin: 예측 적응증 없음 — 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

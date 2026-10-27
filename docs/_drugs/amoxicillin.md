@@ -33,7 +33,8 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-# Amoxicillin: 세균 감염에서 고아밀라아제혈증으로
+## Amoxicillin: 세균 감염에서 고아밀라아제혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

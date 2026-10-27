@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Salsalate: 허가 적응증 정보 미확인에서 급성 말단중간이형성증(Hunter-Thompson형)으로
+## Salsalate: 허가 적응증 정보 미확인에서 급성 말단중간이형성증(Hunter-Thompson형)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

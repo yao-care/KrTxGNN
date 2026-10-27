@@ -33,7 +33,8 @@ predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventi
 
 </div>
 
-# Imatinib: 만성 골수성 백혈병 등 기존 적응증에서 심장 섬유육종으로
+## Imatinib: 만성 골수성 백혈병 등 기존 적응증에서 심장 섬유육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

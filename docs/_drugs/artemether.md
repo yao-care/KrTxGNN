@@ -33,7 +33,8 @@ predicted_indications: ["acquired angioedema", "Plasmodium falciparum malaria", 
 
 </div>
 
-# Artemether: 말라리아에서 후천성 혈관부종으로
+## Artemether: 말라리아에서 후천성 혈관부종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis
 
 </div>
 
-# Calcitriol: 활성형 비타민 D에서 비타민 D 결핍(폐기된 질환 용어)으로
+## Calcitriol: 활성형 비타민 D에서 비타민 D 결핍(폐기된 질환 용어)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

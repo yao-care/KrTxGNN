@@ -33,7 +33,8 @@ predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "salmonellos
 
 </div>
 
-# Bismuth subsalicylate: 위장관 질환에서 파라티푸스열로
+## Bismuth subsalicylate: 위장관 질환에서 파라티푸스열로
+{: .text-alpha }
 
 ## 한 문장 요약
 

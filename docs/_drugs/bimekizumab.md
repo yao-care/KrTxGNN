@@ -33,7 +33,8 @@ predicted_indications: ["diabetic cataract", "tetanic cataract", "mature catarac
 
 </div>
 
-# Bimekizumab: 기존 적응증 미확인에서 당뇨병성 백내장으로
+## Bimekizumab: 기존 적응증 미확인에서 당뇨병성 백내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

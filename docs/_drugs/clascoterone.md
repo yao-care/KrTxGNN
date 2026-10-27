@@ -33,7 +33,8 @@ predicted_indications: ["candidiasis", "migraine disorder", "migraine with brain
 
 </div>
 
-# Clascoterone: 여드름에서 칸디다증으로
+## Clascoterone: 여드름에서 칸디다증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysp
 
 </div>
 
-# Insulin glulisine: 제1형 당뇨병에서 제1형 당뇨병(TxGNN 상위 예측)으로
+## Insulin glulisine: 제1형 당뇨병에서 제1형 당뇨병(TxGNN 상위 예측)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

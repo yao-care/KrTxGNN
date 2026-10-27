@@ -33,7 +33,8 @@ predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast f
 
 </div>
 
-# Letrozole: 유방암(허가 적응증)에서 여성 유방암으로 — 기존 적응증과 거의 일치하는 예측
+## Letrozole: 유방암(허가 적응증)에서 여성 유방암으로 — 기존 적응증과 거의 일치하는 예측
+{: .text-alpha }
 
 ## 한 문장 요약
 

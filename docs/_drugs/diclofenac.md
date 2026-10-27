@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dys
 
 </div>
 
-# Diclofenac: 구강인두 염증·근골격계 통증에서 골관절염(Osteoarthritis)으로
+## Diclofenac: 구강인두 염증·근골격계 통증에서 골관절염(Osteoarthritis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

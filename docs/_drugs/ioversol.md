@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheu
 
 </div>
 
-# Ioversol: 조영 검사에서 골관절염(감수성)으로
+## Ioversol: 조영 검사에서 골관절염(감수성)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

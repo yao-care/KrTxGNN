@@ -33,7 +33,8 @@ predicted_indications: ["thrombotic disease", "exostosis", "rheumatoid arthritis
 
 </div>
 
-# Talc: 흉막 질환 치료제에서 혈전성 질환으로 (예측 신뢰도 낮음)
+## Talc: 흉막 질환 치료제에서 혈전성 질환으로 (예측 신뢰도 낮음)
+{: .text-alpha }
 
 ## 한 문장 요약
 

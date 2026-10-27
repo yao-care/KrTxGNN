@@ -33,7 +33,8 @@ predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prost
 
 </div>
 
-# 엔잘루타미드(Enzalutamide): 전립선암에서 전립선암/뇌암 감수성으로
+## 엔잘루타미드(Enzalutamide): 전립선암에서 전립선암/뇌암 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

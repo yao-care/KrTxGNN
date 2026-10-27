@@ -33,7 +33,8 @@ predicted_indications: ["obstructive lung disease", "respiratory malformation", 
 
 </div>
 
-# Tiotropium: 만성 폐쇄성 폐질환에서 폐쇄성 폐질환으로
+## Tiotropium: 만성 폐쇄성 폐질환에서 폐쇄성 폐질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

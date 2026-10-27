@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# Leflunomide: 류마티스 질환에서 brachydactyly-syndactyly 증후군으로
+## Leflunomide: 류마티스 질환에서 brachydactyly-syndactyly 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

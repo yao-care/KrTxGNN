@@ -33,7 +33,8 @@ predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endoc
 
 </div>
 
-# Anastrozole: 유방암(기존 적응증)에서 여성 유방암 확인(예측 신규 적응증)으로
+## Anastrozole: 유방암(기존 적응증)에서 여성 유방암 확인(예측 신규 적응증)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

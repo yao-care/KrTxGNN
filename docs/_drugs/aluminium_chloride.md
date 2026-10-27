@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Aluminium Chloride：資料不足，無法完成再創出評估
+## Aluminium Chloride：資料不足，無法完成再創出評估
+{: .text-alpha }
 
 ## 한 문장 요약
 

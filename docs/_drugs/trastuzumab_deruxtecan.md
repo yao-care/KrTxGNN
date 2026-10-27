@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis"]
 
 </div>
 
-# Trastuzumab Deruxtecan: HER2 양성 종양에서 약물 유발 골다공증으로
+## Trastuzumab Deruxtecan: HER2 양성 종양에서 약물 유발 골다공증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Rosuvastatin Calcium: 예측 적응증 없음 — 데이터 부족으로 평가 불가
+## Rosuvastatin Calcium: 예측 적응증 없음 — 데이터 부족으로 평가 불가
+{: .text-alpha }
 
 ---
 

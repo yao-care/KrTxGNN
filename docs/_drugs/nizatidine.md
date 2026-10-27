@@ -33,7 +33,8 @@ predicted_indications: ["duodenal obstruction", "gastroduodenitis", "multiple en
 
 </div>
 
-# Nizatidine: 소화성 궤양(기존 적응증)에서 활동성 소화성 궤양질환으로
+## Nizatidine: 소화성 궤양(기존 적응증)에서 활동성 소화성 궤양질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

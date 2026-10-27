@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Atomoxetine Hydrochloride: ADHD 치료제 — TxGNN 예측 후보 없음
+## Atomoxetine Hydrochloride: ADHD 치료제 — TxGNN 예측 후보 없음
+{: .text-alpha }
 
 ## 한 문장 요약
 

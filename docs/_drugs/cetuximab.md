@@ -33,7 +33,8 @@ predicted_indications: ["chondroid hamartoma", "ductal or ductular proliferation
 
 </div>
 
-# Cetuximab: 대장직장암·두경부암에서 연골성 과오종(Chondroid Hamartoma)으로
+## Cetuximab: 대장직장암·두경부암에서 연골성 과오종(Chondroid Hamartoma)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -46,7 +46,8 @@ Evidence Pack 핵심 파악:
 
 ---
 
-# Rokitamycin: 예측 데이터 부재로 평가 보류
+## Rokitamycin: 예측 데이터 부재로 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

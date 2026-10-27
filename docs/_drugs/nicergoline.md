@@ -33,7 +33,8 @@ predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis 
 
 </div>
 
-# Nicergoline: 기존 적응증 정보 미확인에서 편두통으로
+## Nicergoline: 기존 적응증 정보 미확인에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

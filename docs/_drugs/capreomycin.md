@@ -33,7 +33,8 @@ predicted_indications: ["gout", "rheumatoid arthritis", "osteoarthritis", "osteo
 
 </div>
 
-# Capreomycin: 결핵에서 통풍으로
+## Capreomycin: 결핵에서 통풍으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

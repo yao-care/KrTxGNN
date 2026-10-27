@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "pseudo-von Wil
 
 </div>
 
-# Belimumab: 허가 적응증에서 원발성 혈소판 방출장애로
+## Belimumab: 허가 적응증에서 원발성 혈소판 방출장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

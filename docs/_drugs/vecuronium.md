@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)", "irritable bowel syndrome", "neuro
 
 </div>
 
-# Vecuronium: 근이완(신경근 차단)에서 불면증으로
+## Vecuronium: 근이완(신경근 차단)에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

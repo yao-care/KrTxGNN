@@ -33,7 +33,8 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy"]
 
 </div>
 
-# Aminocaproic Acid: 눈 피로·결막충혈에서 중증 비증식성 당뇨망막병증으로
+## Aminocaproic Acid: 눈 피로·결막충혈에서 중증 비증식성 당뇨망막병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

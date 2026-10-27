@@ -33,7 +33,8 @@ predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral
 
 </div>
 
-# Clobazam: 간질 발작 치료제에서 열성 감염 관련 간질 증후군(FIRES)으로
+## Clobazam: 간질 발작 치료제에서 열성 감염 관련 간질 증후군(FIRES)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

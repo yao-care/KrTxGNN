@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheu
 
 </div>
 
-# Gadoteridol: MRI 조영에서 골관절염으로
+## Gadoteridol: MRI 조영에서 골관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

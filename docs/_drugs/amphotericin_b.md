@@ -36,7 +36,8 @@ Evidence Pack 분석 완료. `predicted_indications: []`이고 `original_indicat
 
 ---
 
-# AMPHOTERICIN B: 예측 데이터 부족으로 재창출 평가 대기 중
+## AMPHOTERICIN B: 예측 데이터 부족으로 재창출 평가 대기 중
+{: .text-alpha }
 
 ---
 

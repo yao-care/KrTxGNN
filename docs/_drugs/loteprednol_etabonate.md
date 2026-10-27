@@ -33,7 +33,8 @@ predicted_indications: ["serous conjunctivitis except viral", "conjunctival foll
 
 </div>
 
-# Loteprednol Etabonate: 안과 염증 질환에서 장액성 결막염(비바이러스성)으로
+## Loteprednol Etabonate: 안과 염증 질환에서 장액성 결막염(비바이러스성)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 </div>
 
-# Finasteride: 안드로겐성 탈모에서 다모증(Hypertrichosis)으로
+## Finasteride: 안드로겐성 탈모에서 다모증(Hypertrichosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

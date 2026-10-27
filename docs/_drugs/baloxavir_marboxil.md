@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Baloxavir Marboxil: 재창출 평가 불가 — 핵심 데이터 보완 필요
+## Baloxavir Marboxil: 재창출 평가 불가 — 핵심 데이터 보완 필요
+{: .text-alpha }
 
 ---
 

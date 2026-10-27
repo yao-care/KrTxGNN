@@ -33,7 +33,8 @@ predicted_indications: ["allergic urticaria", "fascioliasis", "inhalational botu
 
 </div>
 
-# Delamanid: 결핵 치료제에서 소결핵(Bovine Tuberculosis)으로
+## Delamanid: 결핵 치료제에서 소결핵(Bovine Tuberculosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

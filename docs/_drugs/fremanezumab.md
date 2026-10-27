@@ -33,7 +33,8 @@ predicted_indications: ["atrophoderma vermiculata"]
 
 </div>
 
-# Fremanezumab: 편두통 예방에서 뇌간 조짐 편두통으로
+## Fremanezumab: 편두통 예방에서 뇌간 조짐 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonp
 
 </div>
 
-# Natalizumab: 기존 적응증에서 기관지염으로
+## Natalizumab: 기존 적응증에서 기관지염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma 
 
 </div>
 
-# Vandetanib: 한국 허가 적응증에서 신세포암(Renal Cell Carcinoma)으로
+## Vandetanib: 한국 허가 적응증에서 신세포암(Renal Cell Carcinoma)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

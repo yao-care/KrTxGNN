@@ -33,7 +33,8 @@ predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 
 </div>
 
-# Zanamivir: 인플루엔자에서 신우신염으로
+## Zanamivir: 인플루엔자에서 신우신염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

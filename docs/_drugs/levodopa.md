@@ -33,7 +33,8 @@ predicted_indications: ["Rasmussen subacute encephalitis"]
 
 </div>
 
-# Levodopa: 파킨슨병에서 라스무센 아급성 뇌염으로
+## Levodopa: 파킨슨병에서 라스무센 아급성 뇌염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

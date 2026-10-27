@@ -33,7 +33,8 @@ predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of chi
 
 </div>
 
-# Busulfan: 기존 적응증에서 골수이형성증후군으로
+## Busulfan: 기존 적응증에서 골수이형성증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogen
 
 </div>
 
-# Cemiplimab: 허가 적응증에서 담낭 선편평상피암으로
+## Cemiplimab: 허가 적응증에서 담낭 선편평상피암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

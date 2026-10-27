@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "severe nonproliferative diabetic reti
 
 </div>
 
-# Methionine: 영양보급에서 여드름으로
+## Methionine: 영양보급에서 여드름으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["vulvovaginal candidiasis"]
 
 </div>
 
-# Letermovir: 거대세포바이러스 감염에서 외음질 칸디다증으로
+## Letermovir: 거대세포바이러스 감염에서 외음질 칸디다증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

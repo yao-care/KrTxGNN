@@ -33,7 +33,8 @@ predicted_indications: ["congenital hypotrichosis with juvenile macular dystroph
 
 </div>
 
-# Mesalazine: 염증성 장질환에서 선천성 저모발증 및 연소성 황반 이영양증으로
+## Mesalazine: 염증성 장질환에서 선천성 저모발증 및 연소성 황반 이영양증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

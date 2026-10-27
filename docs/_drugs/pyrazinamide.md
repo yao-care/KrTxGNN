@@ -33,7 +33,8 @@ predicted_indications: ["infectious otitis media", "middle ear disease", "otosal
 
 </div>
 
-# Pyrazinamide: 결핵에서 감염성 중이염으로
+## Pyrazinamide: 결핵에서 감염성 중이염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

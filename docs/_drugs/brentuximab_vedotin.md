@@ -33,7 +33,8 @@ predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lympho
 
 </div>
 
-# Brentuximab Vedotin: CD30 양성 림프종에서 여포성 림프종으로
+## Brentuximab Vedotin: CD30 양성 림프종에서 여포성 림프종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

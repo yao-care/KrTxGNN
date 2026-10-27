@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Meloxicam: 비스테로이드 소염진통제에서 말단중간이형성증(Hunter-Thompson형)으로
+## Meloxicam: 비스테로이드 소염진통제에서 말단중간이형성증(Hunter-Thompson형)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

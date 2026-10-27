@@ -33,7 +33,8 @@ predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)"
 
 </div>
 
-# Exemestane: 유방암 치료제에서 항트롬빈 결핍증 2형으로 (예측)
+## Exemestane: 유방암 치료제에서 항트롬빈 결핍증 2형으로 (예측)
+{: .text-alpha }
 
 ## 한 문장 요약
 

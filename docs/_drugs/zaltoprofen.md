@@ -33,7 +33,8 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 
 </div>
 
-# Zaltoprofen: 류마티스 관절염 등 소염진통 적응증에서 류마티스 관절염(RA)으로
+## Zaltoprofen: 류마티스 관절염 등 소염진통 적응증에서 류마티스 관절염(RA)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

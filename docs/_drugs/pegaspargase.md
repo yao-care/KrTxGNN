@@ -33,7 +33,8 @@ predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma
 
 </div>
 
-# Pegaspargase: 급성 림프모구성 백혈병에서 전구 림프모구성 림프종/백혈병으로
+## Pegaspargase: 급성 림프모구성 백혈병에서 전구 림프모구성 림프종/백혈병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

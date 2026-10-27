@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Romosozumab (DB11866): 증거 팩 불완전 — 재평가 필요
+## Romosozumab (DB11866): 증거 팩 불완전 — 재평가 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

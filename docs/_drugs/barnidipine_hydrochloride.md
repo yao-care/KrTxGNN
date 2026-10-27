@@ -36,7 +36,8 @@ Evidence Pack를 분석했습니다. `predicted_indications`가 빈 배열이고
 
 ---
 
-# Barnidipine Hydrochloride: TxGNN 예측 없음 — 재창출 평가 불가
+## Barnidipine Hydrochloride: TxGNN 예측 없음 — 재창출 평가 불가
+{: .text-alpha }
 
 ## 한 문장 요약
 

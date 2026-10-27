@@ -33,7 +33,8 @@ predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with 
 
 </div>
 
-# Calcium Acetate: 고인산혈증 치료제에서 칼슘-알칼리 증후군으로
+## Calcium Acetate: 고인산혈증 치료제에서 칼슘-알칼리 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

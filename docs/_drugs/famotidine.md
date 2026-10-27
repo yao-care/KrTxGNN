@@ -33,7 +33,8 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 </div>
 
-# Famotidine: 위산과다·속쓰림에서 십이지장위 역류(Duodenogastric Reflux)로
+## Famotidine: 위산과다·속쓰림에서 십이지장위 역류(Duodenogastric Reflux)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

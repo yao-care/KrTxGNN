@@ -33,7 +33,8 @@ predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastropar
 
 </div>
 
-# Cycloserine: 결핵 치료제에서 과민성 장 증후군으로
+## Cycloserine: 결핵 치료제에서 과민성 장 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

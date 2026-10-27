@@ -33,7 +33,8 @@ predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "b
 
 </div>
 
-# Etonogestrel: 피임에서 무월경으로
+## Etonogestrel: 피임에서 무월경으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

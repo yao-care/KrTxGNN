@@ -33,7 +33,8 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabeti
 
 </div>
 
-# Sodium Ferric Gluconate Complex: 철 결핍성 빈혈에서 중증 비증식성 당뇨망막병증으로
+## Sodium Ferric Gluconate Complex: 철 결핍성 빈혈에서 중증 비증식성 당뇨망막병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["choroideremia"]
 
 </div>
 
-# Ipilimumab: 항종양 면역치료에서 코로이데레미아로
+## Ipilimumab: 항종양 면역치료에서 코로이데레미아로
+{: .text-alpha }
 
 ## 한 문장 요약
 

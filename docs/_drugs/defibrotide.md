@@ -33,7 +33,8 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 
 </div>
 
-# Defibrotide: 허가 적응증에서 가성 폰 빌레브란트병으로
+## Defibrotide: 허가 적응증에서 가성 폰 빌레브란트병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

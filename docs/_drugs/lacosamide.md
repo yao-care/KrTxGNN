@@ -33,7 +33,8 @@ predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome",
 
 </div>
 
-# Lacosamide: 간질(부분발작)에서 조증 양극성장애로
+## Lacosamide: 간질(부분발작)에서 조증 양극성장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

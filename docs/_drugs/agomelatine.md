@@ -33,7 +33,8 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 </div>
 
-# Agomelatine: 우울증에서 불안장애로
+## Agomelatine: 우울증에서 불안장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

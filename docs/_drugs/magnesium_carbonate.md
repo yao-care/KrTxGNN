@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach 
 
 </div>
 
-# Magnesium Carbonate: 위산과다·소화불량에서 활동성 소화성 궤양으로
+## Magnesium Carbonate: 위산과다·소화불량에서 활동성 소화성 궤양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to
 
 </div>
 
-# Verteporfin: 맥락막 신생혈관(허가 적응증 원문 미확인)에서 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애로
+## Verteporfin: 맥락막 신생혈관(허가 적응증 원문 미확인)에서 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabeti
 
 </div>
 
-# Denosumab: 골다공증 등 뼈 질환에서 중증 비증식성 당뇨망막병증으로
+## Denosumab: 골다공증 등 뼈 질환에서 중증 비증식성 당뇨망막병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

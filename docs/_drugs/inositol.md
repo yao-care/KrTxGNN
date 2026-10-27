@@ -33,7 +33,8 @@ predicted_indications: ["primitive portal vein thrombosis", "early-onset familia
 
 </div>
 
-# Inositol: 기존 허가 적응증에서 원발성 문맥 혈전증으로
+## Inositol: 기존 허가 적응증에서 원발성 문맥 혈전증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

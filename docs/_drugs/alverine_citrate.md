@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# ALVERINE CITRATE: 재창출 평가 보류 — 핵심 데이터 부재
+## ALVERINE CITRATE: 재창출 평가 보류 — 핵심 데이터 부재
+{: .text-alpha }
 
 ## 한 문장 요약
 

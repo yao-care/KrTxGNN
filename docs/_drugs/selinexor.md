@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis"]
 
 </div>
 
-# Selinexor: 허가 적응증 정보 미확인에서 약물 유발 골다공증으로
+## Selinexor: 허가 적응증 정보 미확인에서 약물 유발 골다공증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

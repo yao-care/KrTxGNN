@@ -33,7 +33,8 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 
 </div>
 
-# Ethosuximide: 소발작(결신발작)에서 신인성 항이뇨호르몬 부적절 분비 증후군으로
+## Ethosuximide: 소발작(결신발작)에서 신인성 항이뇨호르몬 부적절 분비 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

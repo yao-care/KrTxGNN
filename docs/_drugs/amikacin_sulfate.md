@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Amikacin Sulfate: 재창출 평가 불가 — TxGNN 예측 적응증 없음
+## Amikacin Sulfate: 재창출 평가 불가 — TxGNN 예측 적응증 없음
+{: .text-alpha }
 
 ---
 

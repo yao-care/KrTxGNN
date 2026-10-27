@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 
 </div>
 
-# Primidone: 기존 적응증에서 삼차신경 신생물로
+## Primidone: 기존 적응증에서 삼차신경 신생물로
+{: .text-alpha }
 
 ## 한 문장 요약
 

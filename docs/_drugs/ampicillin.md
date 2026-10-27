@@ -33,7 +33,8 @@ predicted_indications: ["laryngitis", "gonococcal urethritis", "Ureaplasma ureth
 
 </div>
 
-# Ampicillin: 세균 감염 치료제에서 후두염으로
+## Ampicillin: 세균 감염 치료제에서 후두염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

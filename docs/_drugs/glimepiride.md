@@ -33,7 +33,8 @@ predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndr
 
 </div>
 
-# Glimepiride: 제2형 당뇨병에서 국소 경직 사지 증후군으로
+## Glimepiride: 제2형 당뇨병에서 국소 경직 사지 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

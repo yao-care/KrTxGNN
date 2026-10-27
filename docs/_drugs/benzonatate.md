@@ -33,11 +33,13 @@ predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (d
 
 </div>
 
-# Benzonatate: 기침(진해)에서 马미 마미 척수 관련 질환 예측으로
+## Benzonatate: 기침(진해)에서 马미 마미 척수 관련 질환 예측으로
+{: .text-alpha }
 
 > 제목 수정: 아래가 올바른 제목입니다.
 
-# Benzonatate: 기침 치료제에서 마미증후군으로
+## Benzonatate: 기침 치료제에서 마미증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

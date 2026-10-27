@@ -33,7 +33,8 @@ predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the 
 
 </div>
 
-# Latanoprost: 녹내장·안압 상승에서 원발성 유전성 녹내장으로
+## Latanoprost: 녹내장·안압 상승에서 원발성 유전성 녹내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

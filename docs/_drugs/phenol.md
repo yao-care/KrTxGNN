@@ -33,7 +33,8 @@ predicted_indications: ["acrodermatitis chronica atrophicans", "secondary inters
 
 </div>
 
-# Phenol: 허가 적응증 미확인에서 만성 위축성 말단피부염으로
+## Phenol: 허가 적응증 미확인에서 만성 위축성 말단피부염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

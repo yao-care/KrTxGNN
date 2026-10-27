@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Nadolol: 기존 적응증에서 악성 신혈관성 고혈압으로
+## Nadolol: 기존 적응증에서 악성 신혈관성 고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coar
 
 </div>
 
-# Alitretinoin: 허가 적응증에서 무월경(Amenorrhea)으로
+## Alitretinoin: 허가 적응증에서 무월경(Amenorrhea)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

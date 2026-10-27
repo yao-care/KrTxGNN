@@ -33,7 +33,8 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 
 </div>
 
-# Perphenazine: 페노티아진계 항정신병약에서 망막 이영양증 예측으로
+## Perphenazine: 페노티아진계 항정신병약에서 망막 이영양증 예측으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

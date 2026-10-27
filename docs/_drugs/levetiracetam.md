@@ -33,7 +33,8 @@ predicted_indications: ["beta-ketothiolase deficiency"]
 
 </div>
 
-# Levetiracetam: 간질(항경련제 적응증)에서 시각 유발 간질로
+## Levetiracetam: 간질(항경련제 적응증)에서 시각 유발 간질로
+{: .text-alpha }
 
 ## 한 문장 요약
 

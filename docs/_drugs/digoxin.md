@@ -33,7 +33,8 @@ predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal u
 
 </div>
 
-# Digoxin: 심부전·심방세동에서 프린츠메탈 협심증으로
+## Digoxin: 심부전·심방세동에서 프린츠메탈 협심증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

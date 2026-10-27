@@ -33,7 +33,8 @@ predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficienc
 
 </div>
 
-# Galcanezumab: 편두통 예방에서 헤파린 보조인자 2 결핍증으로
+## Galcanezumab: 편두통 예방에서 헤파린 보조인자 2 결핍증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

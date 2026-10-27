@@ -33,7 +33,8 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 
 </div>
 
-# Albutrepenonacog alfa: 혈우병 B형 치료제에서 가성 폰 빌레브란트병으로
+## Albutrepenonacog alfa: 혈우병 B형 치료제에서 가성 폰 빌레브란트병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

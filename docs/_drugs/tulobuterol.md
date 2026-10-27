@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "obstructive lung disease", "respiratory m
 
 </div>
 
-# Tulobuterol: 기도 폐쇄성 질환(천식·COPD)에서 기관지염으로
+## Tulobuterol: 기도 폐쇄성 질환(천식·COPD)에서 기관지염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious d
 
 </div>
 
-# 아데포비어 디피복실(Adefovir Dipivoxil): 만성 B형 간염에서 만성 C형 간염으로
+## 아데포비어 디피복실(Adefovir Dipivoxil): 만성 B형 간염에서 만성 C형 간염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

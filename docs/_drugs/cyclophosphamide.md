@@ -33,7 +33,8 @@ predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "v
 
 </div>
 
-# 시클로포스파미드: 알킬화 항암제에서 골수성 백혈병으로
+## 시클로포스파미드: 알킬화 항암제에서 골수성 백혈병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

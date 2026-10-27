@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "pseudo-von Wil
 
 </div>
 
-# Romiplostim: 면역혈소판감소증에서 혈소판 방출 장애로
+## Romiplostim: 면역혈소판감소증에서 혈소판 방출 장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

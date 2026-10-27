@@ -36,7 +36,8 @@ Evidence Pack을 분석하겠습니다. `predicted_indications`가 비어 있고
 
 ---
 
-# Bedaquiline Fumarate: 예측 신규 적응증 미결정 — 데이터 수집 필요
+## Bedaquiline Fumarate: 예측 신규 적응증 미결정 — 데이터 수집 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

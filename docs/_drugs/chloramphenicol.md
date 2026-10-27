@@ -33,7 +33,8 @@ predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious
 
 </div>
 
-# Chloramphenicol: 점안제 세균성 감염에서 결막염으로
+## Chloramphenicol: 점안제 세균성 감염에서 결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# Indomethacin: 근골격계 염증·통증에서 소아특발성관절염으로
+## Indomethacin: 근골격계 염증·통증에서 소아특발성관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

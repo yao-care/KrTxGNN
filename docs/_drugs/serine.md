@@ -33,7 +33,8 @@ predicted_indications: ["familial visceral myopathy", "intestinal obstruction", 
 
 </div>
 
-# Serine: 허가 적응증 정보 미확인에서 가족성 내장 근병증으로
+## Serine: 허가 적응증 정보 미확인에서 가족성 내장 근병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

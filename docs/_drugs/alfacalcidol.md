@@ -33,7 +33,8 @@ predicted_indications: ["familial isolated hypoparathyroidism due to impaired PT
 
 </div>
 
-# Alfacalcidol: 비타민 D 대사이상 질환에서 가족성 고립성 부갑상선기능저하증으로
+## Alfacalcidol: 비타민 D 대사이상 질환에서 가족성 고립성 부갑상선기능저하증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

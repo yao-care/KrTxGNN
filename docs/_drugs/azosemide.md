@@ -33,7 +33,8 @@ predicted_indications: ["hepatopulmonary syndrome", "primitive portal vein throm
 
 </div>
 
-# Azosemide: 기존 적응증에서 간폐증후군으로
+## Azosemide: 기존 적응증에서 간폐증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

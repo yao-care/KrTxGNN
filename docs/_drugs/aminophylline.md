@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "mi
 
 </div>
 
-# Aminophylline: 기관지 질환 치료제에서 편두통으로
+## Aminophylline: 기관지 질환 치료제에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia",
 
 </div>
 
-# Norfloxacin: 세균 감염에서 다클론성 과점성 증후군으로
+## Norfloxacin: 세균 감염에서 다클론성 과점성 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

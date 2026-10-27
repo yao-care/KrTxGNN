@@ -33,7 +33,8 @@ predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "po
 
 </div>
 
-# Budesonide: 알레르기·기도 염증 질환에서 아토피 피부염으로
+## Budesonide: 알레르기·기도 염증 질환에서 아토피 피부염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["pleural empyema (disease)", "punctate epithelial kerato
 
 </div>
 
-# Mupirocin: 세균성 피부 감염증에서 농흉(Pleural Empyema)으로
+## Mupirocin: 세균성 피부 감염증에서 농흉(Pleural Empyema)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

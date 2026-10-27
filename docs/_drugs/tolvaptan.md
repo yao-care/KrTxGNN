@@ -33,7 +33,8 @@ predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic inte
 
 </div>
 
-# Tolvaptan: 허가 적응증에서 상염색체 우성 다낭신질환(PKD3 포함 다낭신 질환)으로
+## Tolvaptan: 허가 적응증에서 상염색체 우성 다낭신질환(PKD3 포함 다낭신 질환)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

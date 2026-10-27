@@ -33,7 +33,8 @@ predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacu
 
 </div>
 
-# Entacapone: 파킨슨병에서 PLA2G6 관련 신경변성으로
+## Entacapone: 파킨슨병에서 PLA2G6 관련 신경변성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

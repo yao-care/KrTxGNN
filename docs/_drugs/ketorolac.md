@@ -33,7 +33,8 @@ predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigemin
 
 </div>
 
-# 케토롤락(Ketorolac): 급성 통증에서 두통 질환으로
+## 케토롤락(Ketorolac): 급성 통증에서 두통 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

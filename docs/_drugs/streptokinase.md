@@ -33,7 +33,8 @@ predicted_indications: ["myocardial infarction", "Prinzmetal angina", "hemoglobi
 
 </div>
 
-# Streptokinase: 혈전 용해제에서 심근경색으로
+## Streptokinase: 혈전 용해제에서 심근경색으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

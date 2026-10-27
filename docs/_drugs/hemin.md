@@ -33,7 +33,8 @@ predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor 
 
 </div>
 
-# Hemin: 급성 간성 포르피린증에서 혈소판감소성 자반증으로
+## Hemin: 급성 간성 포르피린증에서 혈소판감소성 자반증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

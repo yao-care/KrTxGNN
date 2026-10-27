@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# AMANTADINE SULFATE: 약물 재창출 평가 보류
+## AMANTADINE SULFATE: 약물 재창출 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

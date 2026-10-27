@@ -33,7 +33,8 @@ predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myos
 
 </div>
 
-# Pregabalin: 신경병증성 통증 등에서 건염(Tendinitis)으로
+## Pregabalin: 신경병증성 통증 등에서 건염(Tendinitis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

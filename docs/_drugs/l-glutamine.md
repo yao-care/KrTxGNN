@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis", "hemorrhagic disease of new
 
 </div>
 
-# L-Glutamine: 소화불량·식욕감퇴에서 피부염으로
+## L-Glutamine: 소화불량·식욕감퇴에서 피부염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

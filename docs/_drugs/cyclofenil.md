@@ -33,7 +33,8 @@ predicted_indications: ["Prinzmetal angina", "nephrogenic syndrome of inappropri
 
 </div>
 
-# Cyclofenil: 배란 유도·폐경 증상에서 프린츠메탈 협심증으로
+## Cyclofenil: 배란 유도·폐경 증상에서 프린츠메탈 협심증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

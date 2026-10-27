@@ -33,7 +33,8 @@ predicted_indications: ["acute intermittent porphyria"]
 
 </div>
 
-# Dexchlorpheniramine Maleate: 코감기·알레르기성 비염에서 급성 간헐성 포르피린증으로
+## Dexchlorpheniramine Maleate: 코감기·알레르기성 비염에서 급성 간헐성 포르피린증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

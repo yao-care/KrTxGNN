@@ -33,7 +33,8 @@ predicted_indications: ["meningococcal infection", "sclerosing cholangitis"]
 
 </div>
 
-# Potassium Nitrate: 기존 적응증 정보 미확인에서 수막구균 감염으로
+## Potassium Nitrate: 기존 적응증 정보 미확인에서 수막구균 감염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

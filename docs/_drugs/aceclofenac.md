@@ -33,7 +33,8 @@ predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromes
 
 </div>
 
-# Aceclofenac: 소염·진통제에서 골관절염으로
+## Aceclofenac: 소염·진통제에서 골관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

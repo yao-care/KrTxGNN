@@ -33,7 +33,8 @@ predicted_indications: ["diabetic cataract", "craniostenosis cataract", "mature 
 
 </div>
 
-# Promestriene: 질 위축 치료제에서 당뇨병성 백내장으로
+## Promestriene: 질 위축 치료제에서 당뇨병성 백내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

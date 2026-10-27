@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Betamethasone: 2차 감염된 알레르기성·염증성 피부질환에서 원형탈모증으로
+## Betamethasone: 2차 감염된 알레르기성·염증성 피부질환에서 원형탈모증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

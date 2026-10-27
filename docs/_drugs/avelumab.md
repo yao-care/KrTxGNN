@@ -33,7 +33,8 @@ predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroen
 
 </div>
 
-# Avelumab: 허가 적응증에서 인간 헤르페스바이러스 8형 관련 종양으로
+## Avelumab: 허가 적응증에서 인간 헤르페스바이러스 8형 관련 종양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

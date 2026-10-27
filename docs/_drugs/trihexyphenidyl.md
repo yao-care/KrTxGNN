@@ -33,7 +33,8 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigito
 
 </div>
 
-# Trihexyphenidyl: 파킨슨증·근긴장이상에서 주의력결핍 과잉행동장애(ADHD)로
+## Trihexyphenidyl: 파킨슨증·근긴장이상에서 주의력결핍 과잉행동장애(ADHD)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

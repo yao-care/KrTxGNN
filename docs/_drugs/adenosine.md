@@ -33,7 +33,8 @@ predicted_indications: ["obsolete bundle branch block"]
 
 </div>
 
-# Adenosine: 기존 허가 적응증에서 각차단(구 분류 용어)으로
+## Adenosine: 기존 허가 적응증에서 각차단(구 분류 용어)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

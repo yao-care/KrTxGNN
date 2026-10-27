@@ -33,7 +33,8 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-# Tenofovir Alafenamide: 만성 B형 간염 및 HIV에서 원숭이 면역결핍바이러스 감염으로
+## Tenofovir Alafenamide: 만성 B형 간염 및 HIV에서 원숭이 면역결핍바이러스 감염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

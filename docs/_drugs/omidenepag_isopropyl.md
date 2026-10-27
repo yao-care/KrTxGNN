@@ -33,7 +33,8 @@ predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophage
 
 </div>
 
-# Omidenepag isopropyl: 녹내장·고안압증에서 췌장염으로
+## Omidenepag isopropyl: 녹내장·고안압증에서 췌장염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

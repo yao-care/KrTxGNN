@@ -33,7 +33,8 @@ predicted_indications: ["non-syndromic esophageal malformation"]
 
 </div>
 
-# Ferrous Fumarate: 철 결핍성 빈혈에서 비증후군성 식도 기형으로
+## Ferrous Fumarate: 철 결핍성 빈혈에서 비증후군성 식도 기형으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

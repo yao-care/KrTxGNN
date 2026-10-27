@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthriti
 
 </div>
 
-# Ceftezole: 세균 감염증에서 류마티스 관절염으로
+## Ceftezole: 세균 감염증에서 류마티스 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-r
 
 </div>
 
-# Insulin Detemir: 제1형 당뇨병에서 제1형 당뇨병으로 (기존 적응증 재확인)
+## Insulin Detemir: 제1형 당뇨병에서 제1형 당뇨병으로 (기존 적응증 재확인)
+{: .text-alpha }
 
 ## 한 문장 요약
 

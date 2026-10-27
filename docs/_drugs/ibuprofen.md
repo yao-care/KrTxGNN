@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Ibuprofen: 류마티스 관절염·통증·발열에서 말단중간형 이형성증(Hunter-Thompson형)으로
+## Ibuprofen: 류마티스 관절염·통증·발열에서 말단중간형 이형성증(Hunter-Thompson형)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

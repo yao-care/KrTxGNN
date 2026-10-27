@@ -33,7 +33,8 @@ predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma",
 
 </div>
 
-# Tryptophan: 영양보급에서 하지불안증후군으로
+## Tryptophan: 영양보급에서 하지불안증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

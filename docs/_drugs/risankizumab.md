@@ -33,7 +33,8 @@ predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic de
 
 </div>
 
-# Risankizumab: 판상 건선 등 IL-23 매개 질환에서 피부염(Dermatitis)으로
+## Risankizumab: 판상 건선 등 IL-23 매개 질환에서 피부염(Dermatitis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

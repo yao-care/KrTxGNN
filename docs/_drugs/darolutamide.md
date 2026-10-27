@@ -33,7 +33,8 @@ predicted_indications: ["homozygous familial hypercholesterolemia", "multiple en
 
 </div>
 
-# Darolutamide: 전이성 전립선암에서 동형접합 가족성 고콜레스테롤혈증으로
+## Darolutamide: 전이성 전립선암에서 동형접합 가족성 고콜레스테롤혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

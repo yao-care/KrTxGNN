@@ -33,7 +33,8 @@ predicted_indications: ["obesity disorder", "manic bipolar affective disorder", 
 
 </div>
 
-# Pentobarbital: 허가 적응증 미확인에서 불면증으로
+## Pentobarbital: 허가 적응증 미확인에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -31,7 +31,8 @@ description: "Capecitabine: 예측 신규 적응증 위 선암 및 위 근위부
 
 </div>
 
-# Capecitabine: 위암에서 위 선암(관상 선암)으로
+## Capecitabine: 위암에서 위 선암(관상 선암)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

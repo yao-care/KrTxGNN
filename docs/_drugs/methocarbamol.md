@@ -33,7 +33,8 @@ predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "pa
 
 </div>
 
-# Methocarbamol: 근골격계 질환에서 마미 증후군으로
+## Methocarbamol: 근골격계 질환에서 마미 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 
 </div>
 
-# Phenytoin: 간질 발작에서 삼차신경 신생물로
+## Phenytoin: 간질 발작에서 삼차신경 신생물로
+{: .text-alpha }
 
 ## 한 문장 요약
 

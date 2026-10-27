@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Glipizide (DB01067): 평가 보류 — 핵심 데이터 미수집
+## Glipizide (DB01067): 평가 보류 — 핵심 데이터 미수집
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia area
 
 </div>
 
-# Fluocinonide: 국소 코르티코스테로이드 피부 질환에서 알로페시아 뮤시노사로
+## Fluocinonide: 국소 코르티코스테로이드 피부 질환에서 알로페시아 뮤시노사로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)"]
 
 </div>
 
-# Midazolam: 수술 전 진정·마취 유도에서 불면증으로
+## Midazolam: 수술 전 진정·마취 유도에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

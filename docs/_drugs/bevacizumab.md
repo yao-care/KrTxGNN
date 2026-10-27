@@ -33,7 +33,8 @@ predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tum
 
 </div>
 
-# Bevacizumab: 기존 항암 적응증에서 후두개 종양(Epiglottis Neoplasm)으로
+## Bevacizumab: 기존 항암 적응증에서 후두개 종양(Epiglottis Neoplasm)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

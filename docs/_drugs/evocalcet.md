@@ -33,7 +33,8 @@ predicted_indications: ["hyperphosphatemia (disease)", "tumoral calcinosis, hype
 
 </div>
 
-# Evocalcet: 이차성 부갑상선기능항진증에서 고인산혈증으로
+## Evocalcet: 이차성 부갑상선기능항진증에서 고인산혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder w
 
 </div>
 
-# 미코페놀레이트 모페틸(Mycophenolate Mofetil): 장기이식 거부반응 예방에서 HIV 감염으로
+## 미코페놀레이트 모페틸(Mycophenolate Mofetil): 장기이식 거부반응 예방에서 HIV 감염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

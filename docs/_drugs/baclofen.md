@@ -33,7 +33,8 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine de
 
 </div>
 
-# Baclofen: 근육 경직에서 주의력결핍 과잉행동장애(ADHD)로
+## Baclofen: 근육 경직에서 주의력결핍 과잉행동장애(ADHD)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

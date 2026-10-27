@@ -33,7 +33,8 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy", "primary
 
 </div>
 
-# 사람 C1-에스테라제 억제제(Human C1-Esterase Inhibitor): 유전성 혈관부종 계열 약물에서 중증 비증식성 당뇨망막병증으로
+## 사람 C1-에스테라제 억제제(Human C1-Esterase Inhibitor): 유전성 혈관부종 계열 약물에서 중증 비증식성 당뇨망막병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

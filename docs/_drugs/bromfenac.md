@@ -33,7 +33,8 @@ predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly",
 
 </div>
 
-# Bromfenac: 안과 염증 치료제에서 안질환(Eye Disease)으로
+## Bromfenac: 안과 염증 치료제에서 안질환(Eye Disease)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

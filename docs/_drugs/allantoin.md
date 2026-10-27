@@ -33,7 +33,8 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy", "acroder
 
 </div>
 
-# Allantoin: 치핵·여드름에서 중증 비증식성 당뇨망막병증으로
+## Allantoin: 치핵·여드름에서 중증 비증식성 당뇨망막병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivi
 
 </div>
 
-# Metronidazole: 혐기성 세균·원충 감염에서 폐포자충증(Pneumocystosis)으로
+## Metronidazole: 혐기성 세균·원충 감염에서 폐포자충증(Pneumocystosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia"
 
 </div>
 
-# Fulvestrant: 유방암에서 HIV 감염증으로
+## Fulvestrant: 유방암에서 HIV 감염증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 </div>
 
-# Dutasteride: 안드로겐성 질환 치료제에서 Ambras형 범발성 선천성 다모증으로
+## Dutasteride: 안드로겐성 질환 치료제에서 Ambras형 범발성 선천성 다모증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

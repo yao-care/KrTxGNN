@@ -33,7 +33,8 @@ predicted_indications: ["feline acquired immunodeficiency syndrome", "simian imm
 
 </div>
 
-# Lamivudine: HIV·B형 간염에서 고양이 후천성 면역결핍 증후군으로
+## Lamivudine: HIV·B형 간염에서 고양이 후천성 면역결핍 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

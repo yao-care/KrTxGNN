@@ -33,7 +33,8 @@ predicted_indications: ["lysosomal storage disease with skeletal involvement", "
 
 </div>
 
-# Laronidase: 점액다당증 I형에서 골격 침범을 동반한 리소좀 축적질환으로
+## Laronidase: 점액다당증 I형에서 골격 침범을 동반한 리소좀 축적질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

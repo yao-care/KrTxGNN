@@ -33,7 +33,8 @@ predicted_indications: ["upper aerodigestive tract neoplasm"]
 
 </div>
 
-# Dacarbazine: 허가 적응증 확인 불가에서 상부 기도·소화관 종양으로
+## Dacarbazine: 허가 적응증 확인 불가에서 상부 기도·소화관 종양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

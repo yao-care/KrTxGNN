@@ -33,7 +33,8 @@ predicted_indications: ["resistance to thyroid hormone due to a mutation in thyr
 
 </div>
 
-# Carbimazole: 갑상선기능항진증에서 갑상선호르몬 불응증으로
+## Carbimazole: 갑상선기능항진증에서 갑상선호르몬 불응증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-# Tenofovir Disoproxil: HIV-1 감염에서 원숭이면역결핍바이러스 감염으로
+## Tenofovir Disoproxil: HIV-1 감염에서 원숭이면역결핍바이러스 감염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

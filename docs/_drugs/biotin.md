@@ -33,7 +33,8 @@ predicted_indications: ["dyspepsia", "gastroparesis (disease)"]
 
 </div>
 
-# Biotin: 비오틴 결핍성 손·발톱/모발 장애에서 소화불량으로
+## Biotin: 비오틴 결핍성 손·발톱/모발 장애에서 소화불량으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

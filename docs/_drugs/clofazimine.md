@@ -33,7 +33,8 @@ predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormal
 
 </div>
 
-# Clofazimine: 한센병·결핵 치료제에서 폐포자충증으로
+## Clofazimine: 한센병·결핵 치료제에서 폐포자충증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

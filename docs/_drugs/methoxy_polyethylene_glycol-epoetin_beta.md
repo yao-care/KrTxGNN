@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "Glanzmann thro
 
 </div>
 
-# Methoxy Polyethylene Glycol-Epoetin Beta: 신장병성 빈혈에서 일차 혈소판 방출 장애로
+## Methoxy Polyethylene Glycol-Epoetin Beta: 신장병성 빈혈에서 일차 혈소판 방출 장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

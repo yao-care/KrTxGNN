@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Rocuronium Bromide: 재창출 평가 — 데이터 보완 필요
+## Rocuronium Bromide: 재창출 평가 — 데이터 보완 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

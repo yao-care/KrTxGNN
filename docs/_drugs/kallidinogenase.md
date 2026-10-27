@@ -33,7 +33,8 @@ predicted_indications: ["hemoglobinopathy", "orofacial clefting syndrome", "Jeun
 
 </div>
 
-# Kallidinogenase: 허가 적응증 정보 미확인에서 혈색소병증(Hemoglobinopathy)으로
+## Kallidinogenase: 허가 적응증 정보 미확인에서 혈색소병증(Hemoglobinopathy)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

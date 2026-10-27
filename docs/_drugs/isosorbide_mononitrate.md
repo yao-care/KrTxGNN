@@ -33,7 +33,8 @@ predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis 
 
 </div>
 
-# Isosorbide mononitrate: 협심증 치료제에서 털 관련 질환으로 (예측 1순위)
+## Isosorbide mononitrate: 협심증 치료제에서 털 관련 질환으로 (예측 1순위)
+{: .text-alpha }
 
 ## 한 문장 요약
 

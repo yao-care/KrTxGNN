@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis"]
 
 </div>
 
-# Ilaprazole: 소화성 궤양에서 활동성 소화성 궤양(Active Peptic Ulcer Disease)으로
+## Ilaprazole: 소화성 궤양에서 활동성 소화성 궤양(Active Peptic Ulcer Disease)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

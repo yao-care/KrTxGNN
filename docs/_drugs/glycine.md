@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 
 </div>
 
-# Glycine: 기존 허가 적응증에서 비강 질환으로
+## Glycine: 기존 허가 적응증에서 비강 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

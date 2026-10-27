@@ -33,7 +33,8 @@ predicted_indications: ["relapsing-remitting multiple sclerosis", "botryoid-type
 
 </div>
 
-# Dactinomycin: 항종양 치료 적응증에서 재발-완화형 다발성 경화증으로
+## Dactinomycin: 항종양 치료 적응증에서 재발-완화형 다발성 경화증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

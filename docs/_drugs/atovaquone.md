@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Atovaquone: 예측 결과 없음 — 데이터 보완 후 재평가 필요
+## Atovaquone: 예측 결과 없음 — 데이터 보완 후 재평가 필요
+{: .text-alpha }
 
 ---
 

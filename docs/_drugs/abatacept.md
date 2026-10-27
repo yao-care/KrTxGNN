@@ -33,7 +33,8 @@ predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "in
 
 </div>
 
-# Abatacept: 류마티스 관절염에서 류마티스 혈관염으로
+## Abatacept: 류마티스 관절염에서 류마티스 혈관염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

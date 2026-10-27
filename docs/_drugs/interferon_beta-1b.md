@@ -33,7 +33,8 @@ predicted_indications: ["hairy cell leukemia", "autoimmune disease of central ne
 
 </div>
 
-# Interferon beta-1b: 다발성 경화증에서 모발세포 백혈병으로
+## Interferon beta-1b: 다발성 경화증에서 모발세포 백혈병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

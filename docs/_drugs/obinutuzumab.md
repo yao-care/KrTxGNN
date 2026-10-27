@@ -31,7 +31,8 @@ description: "Obinutuzumab: 예측 신규 적응증 생식중심 이전 CLL/SLL 
 
 </div>
 
-# Obinutuzumab: 만성 림프구성 백혈병에서 CLL/SLL 하위유형(생식중심 이전)으로
+## Obinutuzumab: 만성 림프구성 백혈병에서 CLL/SLL 하위유형(생식중심 이전)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

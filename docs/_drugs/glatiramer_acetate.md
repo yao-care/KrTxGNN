@@ -36,7 +36,8 @@ Evidence Pack을 분석합니다. `predicted_indications`가 완전히 비어 �
 
 ---
 
-# Glatiramer Acetate: 재창출 평가 보류 — 예측 적응증 데이터 없음
+## Glatiramer Acetate: 재창출 평가 보류 — 예측 적응증 데이터 없음
+{: .text-alpha }
 
 ## 한 문장 요약
 

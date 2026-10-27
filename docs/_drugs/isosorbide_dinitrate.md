@@ -33,7 +33,8 @@ predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrich
 
 </div>
 
-# Isosorbide Dinitrate: 협심증 계열 혈관 질환에서 폐동맥 고혈압으로
+## Isosorbide Dinitrate: 협심증 계열 혈관 질환에서 폐동맥 고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

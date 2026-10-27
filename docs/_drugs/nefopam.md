@@ -33,7 +33,8 @@ predicted_indications: ["immature cataract", "tetanic cataract", "mature catarac
 
 </div>
 
-# Nefopam: 허가 적응증에서 미성숙 백내장(Immature Cataract)으로
+## Nefopam: 허가 적응증에서 미성숙 백내장(Immature Cataract)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

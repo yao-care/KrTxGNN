@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Alfentanil Hydrochloride: 재창출 후보 평가 불가 (데이터 부족)
+## Alfentanil Hydrochloride: 재창출 후보 평가 불가 (데이터 부족)
+{: .text-alpha }
 
 ## 한 문장 요약
 

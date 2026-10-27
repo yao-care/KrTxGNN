@@ -33,7 +33,8 @@ predicted_indications: ["Glanzmann thrombasthenia", "autoimmune disease", "prima
 
 </div>
 
-# Glycol salicylate: 근육통·관절통 등 진통·소염에서 Glanzmann 혈소판무력증으로
+## Glycol salicylate: 근육통·관절통 등 진통·소염에서 Glanzmann 혈소판무력증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

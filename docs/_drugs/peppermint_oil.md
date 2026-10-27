@@ -33,7 +33,8 @@ predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", 
 
 </div>
 
-# Peppermint oil: 기존 적응증 정보 미확인에서 나병(Leprosy)으로
+## Peppermint oil: 기존 적응증 정보 미확인에서 나병(Leprosy)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

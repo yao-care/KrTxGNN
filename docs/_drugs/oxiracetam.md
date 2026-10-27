@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)"]
 
 </div>
 
-# Oxiracetam: 인지기능 개선제에서 불면증으로
+## Oxiracetam: 인지기능 개선제에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

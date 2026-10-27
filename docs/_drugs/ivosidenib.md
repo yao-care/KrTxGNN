@@ -33,7 +33,8 @@ predicted_indications: ["bulbar polio"]
 
 </div>
 
-# Ivosidenib: 기존 적응증에서 급성 골수성 백혈병/골수이형성증후군(방사선 관련)으로
+## Ivosidenib: 기존 적응증에서 급성 골수성 백혈병/골수이형성증후군(방사선 관련)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

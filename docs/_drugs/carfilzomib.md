@@ -33,7 +33,8 @@ predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioi
 
 </div>
 
-# Carfilzomib: 다발골수종에서 흑색종(Melanoma)으로
+## Carfilzomib: 다발골수종에서 흑색종(Melanoma)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

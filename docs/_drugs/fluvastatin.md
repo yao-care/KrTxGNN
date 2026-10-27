@@ -33,7 +33,8 @@ predicted_indications: ["hyperlipoproteinemia", "homozygous familial hypercholes
 
 </div>
 
-# Fluvastatin: 지질강하제(스타틴)에서 고지단백혈증으로
+## Fluvastatin: 지질강하제(스타틴)에서 고지단백혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

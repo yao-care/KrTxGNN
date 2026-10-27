@@ -33,7 +33,8 @@ predicted_indications: ["familial isolated hypoparathyroidism due to impaired PT
 
 </div>
 
-# 콜레칼시페롤: 비타민 D 보충제에서 가족성 고립성 부갑상선기능저하증으로
+## 콜레칼시페롤: 비타민 D 보충제에서 가족성 고립성 부갑상선기능저하증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["gout"]
 
 </div>
 
-# Carbocisteine: 가래 및 기관지 질환에서 통풍으로
+## Carbocisteine: 가래 및 기관지 질환에서 통풍으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

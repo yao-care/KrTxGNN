@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease"]
 
 </div>
 
-# Isotretinoin: 여드름 계열 적응증에서 악성 신혈관성 고혈압으로
+## Isotretinoin: 여드름 계열 적응증에서 악성 신혈관성 고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

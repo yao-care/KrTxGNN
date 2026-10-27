@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndro
 
 </div>
 
-# Tenoxicam: 류마티스 관절염(기허가 적응증)에서 류마티스 관절염으로 — 재창출이 아닌 기존 적응증 확인
+## Tenoxicam: 류마티스 관절염(기허가 적응증)에서 류마티스 관절염으로 — 재창출이 아닌 기존 적응증 확인
+{: .text-alpha }
 
 ## 한 문장 요약
 

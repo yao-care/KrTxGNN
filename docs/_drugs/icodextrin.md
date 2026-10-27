@@ -33,7 +33,8 @@ predicted_indications: ["irritable bowel syndrome", "non-syndromic esophageal ma
 
 </div>
 
-# Icodextrin: 복막투석 용액에서 과민성 장 증후군으로
+## Icodextrin: 복막투석 용액에서 과민성 장 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

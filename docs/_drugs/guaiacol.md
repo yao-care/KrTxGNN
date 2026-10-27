@@ -33,7 +33,8 @@ predicted_indications: ["acute laryngopharyngitis", "nasal cavity disease"]
 
 </div>
 
-# Guaiacol: 설사·체함에서 급성 후두인두염으로
+## Guaiacol: 설사·체함에서 급성 후두인두염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

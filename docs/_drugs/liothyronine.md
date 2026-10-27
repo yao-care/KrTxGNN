@@ -33,7 +33,8 @@ predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis
 
 </div>
 
-# Liothyronine: 갑상선호르몬 보충에서 신장 저형성/무형성으로
+## Liothyronine: 갑상선호르몬 보충에서 신장 저형성/무형성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

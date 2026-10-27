@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Argatroban: 항혈전 치료제 — 예측 적응증 없음
+## Argatroban: 항혈전 치료제 — 예측 적응증 없음
+{: .text-alpha }
 
 ## 한 문장 요약
 

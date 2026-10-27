@@ -33,7 +33,8 @@ predicted_indications: ["refractory cytopenia of childhood"]
 
 </div>
 
-# Decitabine: 골수이형성증후군에서 소아 불응성 혈구감소증으로
+## Decitabine: 골수이형성증후군에서 소아 불응성 혈구감소증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

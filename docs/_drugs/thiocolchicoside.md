@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)", "alcohol withdrawal delirium"]
 
 </div>
 
-# Thiocolchicoside: 근골격계 근이완제에서 불면증으로
+## Thiocolchicoside: 근골격계 근이완제에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

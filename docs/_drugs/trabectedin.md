@@ -33,7 +33,8 @@ predicted_indications: ["female breast carcinoma"]
 
 </div>
 
-# Trabectedin: 기존 적응증 정보 부재에서 여성 유방암으로
+## Trabectedin: 기존 적응증 정보 부재에서 여성 유방암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

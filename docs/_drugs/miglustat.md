@@ -33,7 +33,8 @@ predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course
 
 </div>
 
-# Miglustat: 고셔병에서 고셔병(및 GM2 강글리오사이드증 등 인접 질환)으로
+## Miglustat: 고셔병에서 고셔병(및 GM2 강글리오사이드증 등 인접 질환)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

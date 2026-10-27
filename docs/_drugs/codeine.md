@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "tri
 
 </div>
 
-# Codeine: 통증·기침 완화에서 비강 질환으로
+## Codeine: 통증·기침 완화에서 비강 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "osteoarthritis susceptibility",
 
 </div>
 
-# Mefenamic Acid: 비스테로이드 소염진통제에서 류마티스 관절염으로
+## Mefenamic Acid: 비스테로이드 소염진통제에서 류마티스 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

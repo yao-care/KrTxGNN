@@ -33,7 +33,8 @@ predicted_indications: ["glaucoma"]
 
 </div>
 
-# Rivastigmine: 알츠하이머형 치매에서 녹내장으로
+## Rivastigmine: 알츠하이머형 치매에서 녹내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

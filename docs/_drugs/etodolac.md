@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Etodolac: 골관절염 관련 질환으로의 재창출 평가
+## Etodolac: 골관절염 관련 질환으로의 재창출 평가
+{: .text-alpha }
 
 ## 한 문장 요약
 

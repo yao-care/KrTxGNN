@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neon
 
 </div>
 
-# Dupilumab: 아토피 피부염 등 제2형 염증 질환에서 기관지염으로
+## Dupilumab: 아토피 피부염 등 제2형 염증 질환에서 기관지염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

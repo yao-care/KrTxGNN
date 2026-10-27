@@ -33,7 +33,8 @@ predicted_indications: ["peptic ulcer perforation", "lymphoadenopathic mastocyto
 
 </div>
 
-# Cimetidine: 위산 관련 질환에서 비만세포증으로
+## Cimetidine: 위산 관련 질환에서 비만세포증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

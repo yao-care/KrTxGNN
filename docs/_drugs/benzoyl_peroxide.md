@@ -33,7 +33,8 @@ predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl 
 
 </div>
 
-# Benzoyl Peroxide: 심상성 여드름에서 외음부 역전성 모낭각화증으로
+## Benzoyl Peroxide: 심상성 여드름에서 외음부 역전성 모낭각화증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

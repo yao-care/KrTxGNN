@@ -36,7 +36,8 @@ Evidence Pack을 분석했습니다. 해당 약물은 예측 적응증, 허가 �
 
 ---
 
-# SALBUTAMOL SULFATE: 데이터 부재로 재창출 평가 보류
+## SALBUTAMOL SULFATE: 데이터 부재로 재창출 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

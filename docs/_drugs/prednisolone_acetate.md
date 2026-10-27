@@ -33,7 +33,8 @@ predicted_indications: ["parasitic conjunctivitis", "chronic follicular conjunct
 
 </div>
 
-# Prednisolone Acetate: 치열·치핵 및 안과 염증에서 기생충성 결막염으로
+## Prednisolone Acetate: 치열·치핵 및 안과 염증에서 기생충성 결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

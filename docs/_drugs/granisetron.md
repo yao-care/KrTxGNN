@@ -33,7 +33,8 @@ predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome",
 
 </div>
 
-# Granisetron: 구토 억제에서 조증 양극성 정동장애로
+## Granisetron: 구토 억제에서 조증 양극성 정동장애로
+{: .text-alpha }
 
 ## 한 문장 요약
 

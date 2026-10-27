@@ -33,7 +33,8 @@ predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pitui
 
 </div>
 
-# Cabergoline: 고프로락틴혈증·프로락틴종에서 뇌하수체 암으로
+## Cabergoline: 고프로락틴혈증·프로락틴종에서 뇌하수체 암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

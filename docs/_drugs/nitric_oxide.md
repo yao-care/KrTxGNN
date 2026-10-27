@@ -33,7 +33,8 @@ predicted_indications: ["malformation syndrome with odontal and/or periodontal c
 
 </div>
 
-# Nitric Oxide(산화질소): 흡입용 가스에서 치아·치주 이상을 동반한 기형 증후군으로
+## Nitric Oxide(산화질소): 흡입용 가스에서 치아·치주 이상을 동반한 기형 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

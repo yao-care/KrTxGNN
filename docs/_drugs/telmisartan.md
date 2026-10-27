@@ -33,7 +33,8 @@ predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyl
 
 </div>
 
-# Telmisartan: 고혈압에서 허혈성 뇌졸중 감수성으로
+## Telmisartan: 고혈압에서 허혈성 뇌졸중 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Celecoxib: 관절염 통증 치료에서 골관절염 감수성으로
+## Celecoxib: 관절염 통증 치료에서 골관절염 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

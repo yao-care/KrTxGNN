@@ -33,7 +33,8 @@ predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndro
 
 </div>
 
-# Phentolamine: 허가 적응증 정보 미확인에서 혈관 질환으로
+## Phentolamine: 허가 적응증 정보 미확인에서 혈관 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -31,7 +31,8 @@ description: "Emedastine: 예측 신규 적응증 알레르기성 두드러기 (
 
 </div>
 
-# Emedastine: 알레르기성 두드러기로의 재창출 평가
+## Emedastine: 알레르기성 두드러기로의 재창출 평가
+{: .text-alpha }
 
 ## 한 문장 요약
 

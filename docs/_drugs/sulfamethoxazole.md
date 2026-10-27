@@ -33,7 +33,8 @@ predicted_indications: ["acute contagious conjunctivitis"]
 
 </div>
 
-# Sulfamethoxazole: 결막염 등 안과 감염에서 급성 전염성 결막염으로
+## Sulfamethoxazole: 결막염 등 안과 감염에서 급성 전염성 결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

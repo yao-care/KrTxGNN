@@ -33,7 +33,8 @@ predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneury
 
 </div>
 
-# Ropeginterferon alfa-2b: 기존 적응증 정보 미확인에서 라우브리-페치 증후군으로
+## Ropeginterferon alfa-2b: 기존 적응증 정보 미확인에서 라우브리-페치 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

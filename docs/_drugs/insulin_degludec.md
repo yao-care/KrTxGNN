@@ -33,7 +33,8 @@ predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-r
 
 </div>
 
-# Insulin Degludec: 기존 당뇨병 치료에서 제1형 당뇨병으로
+## Insulin Degludec: 기존 당뇨병 치료에서 제1형 당뇨병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

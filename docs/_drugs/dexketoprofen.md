@@ -33,7 +33,8 @@ predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiop
 
 </div>
 
-# 덱스케토프로펜(Dexketoprofen): 기존 진통 적응증에서 건염(Tendinitis)으로
+## 덱스케토프로펜(Dexketoprofen): 기존 진통 적응증에서 건염(Tendinitis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["resistance to thyroid hormone due to a mutation in thyr
 
 </div>
 
-# 프로필티오우라실(Propylthiouracil): 갑상선 질환 치료제에서 갑상선호르몬 저항성(TRβ 변이)으로
+## 프로필티오우라실(Propylthiouracil): 갑상선 질환 치료제에서 갑상선호르몬 저항성(TRβ 변이)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

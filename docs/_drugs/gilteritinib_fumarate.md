@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Gilteritinib Fumarate: 예측 데이터 부재 — 평가 보류
+## Gilteritinib Fumarate: 예측 데이터 부재 — 평가 보류
+{: .text-alpha }
 
 ## 한 문장 요약
 

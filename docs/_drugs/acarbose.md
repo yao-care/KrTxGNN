@@ -33,7 +33,8 @@ predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndr
 
 </div>
 
-# Acarbose: 제2형 당뇨병에서 classic stiff person syndrome으로
+## Acarbose: 제2형 당뇨병에서 classic stiff person syndrome으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "al
 
 </div>
 
-# Nitroprusside: 고혈압성 응급 치료에서 편두통으로
+## Nitroprusside: 고혈압성 응급 치료에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

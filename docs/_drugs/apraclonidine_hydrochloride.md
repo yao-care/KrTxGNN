@@ -43,7 +43,8 @@ Evidence Pack을 분석한 결과:
 
 ---
 
-# Apraclonidine Hydrochloride: 재창출 평가 불가 — 데이터 보완 후 재실행 필요
+## Apraclonidine Hydrochloride: 재창출 평가 불가 — 데이터 보완 후 재실행 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

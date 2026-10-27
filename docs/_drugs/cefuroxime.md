@@ -33,7 +33,8 @@ predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia",
 
 </div>
 
-# Cefuroxime: 세균 감염증에서 세균성 관절염으로
+## Cefuroxime: 세균 감염증에서 세균성 관절염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

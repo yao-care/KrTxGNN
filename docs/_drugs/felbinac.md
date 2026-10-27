@@ -33,7 +33,8 @@ predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromes
 
 </div>
 
-# Felbinac: 퇴행성관절염 등 근골격계 통증에서 골관절염 감수성으로
+## Felbinac: 퇴행성관절염 등 근골격계 통증에서 골관절염 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

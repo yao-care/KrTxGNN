@@ -44,7 +44,8 @@ last_modified_at: 2026-09-17
 
 ---
 
-# Alcaftadine: 재창출 후보 미생성 — 추가 데이터 필요
+## Alcaftadine: 재창출 후보 미생성 — 추가 데이터 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

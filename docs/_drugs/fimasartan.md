@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-# Fimasartan: 고혈압에서 폐고혈압으로
+## Fimasartan: 고혈압에서 폐고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndro
 
 </div>
 
-# Azathioprine: 기존 면역억제 적응증에서 콜로보마성 소안구증-근위지단 이형성증 증후군으로
+## Azathioprine: 기존 면역억제 적응증에서 콜로보마성 소안구증-근위지단 이형성증 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

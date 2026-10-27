@@ -33,7 +33,8 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 
 </div>
 
-# Emicizumab: 혈우병 A에서 후천성 응고인자 결핍증으로
+## Emicizumab: 혈우병 A에서 후천성 응고인자 결핍증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

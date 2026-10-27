@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure ke
 
 </div>
 
-# Bacitracin: 경미한 상처·화상의 감염 방지에서 점상 상피성 각결막염으로
+## Bacitracin: 경미한 상처·화상의 감염 방지에서 점상 상피성 각결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 </div>
 
-# Naftopidil: 허가 적응증 정보 미확인에서 Ambras형 선천성 전신 다모증으로
+## Naftopidil: 허가 적응증 정보 미확인에서 Ambras형 선천성 전신 다모증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

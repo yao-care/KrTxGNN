@@ -33,7 +33,8 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 
 </div>
 
-# Lonoctocog alfa: 혈액응고인자 VIII 보충에서 가성 폰빌레브란트병으로
+## Lonoctocog alfa: 혈액응고인자 VIII 보충에서 가성 폰빌레브란트병으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

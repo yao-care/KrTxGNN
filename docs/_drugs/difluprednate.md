@@ -33,7 +33,8 @@ predicted_indications: ["familial adrenal hypoplasia with absent pituitary lutei
 
 </div>
 
-# Difluprednate: 안과·피부 염증에서 가족성 부신 저형성증(LH 결핍 동반)으로
+## Difluprednate: 안과·피부 염증에서 가족성 부신 저형성증(LH 결핍 동반)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

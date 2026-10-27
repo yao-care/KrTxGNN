@@ -33,7 +33,8 @@ predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobine
 
 </div>
 
-# Zonisamide: 뇌전증 치료제에서 투렛 증후군으로
+## Zonisamide: 뇌전증 치료제에서 투렛 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

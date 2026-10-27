@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheu
 
 </div>
 
-# Iopromide: 영상 진단(조영)에서 골관절염 감수성으로
+## Iopromide: 영상 진단(조영)에서 골관절염 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

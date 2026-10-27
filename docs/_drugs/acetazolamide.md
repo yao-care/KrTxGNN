@@ -33,7 +33,8 @@ predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic
 
 </div>
 
-# Acetazolamide: 허가 적응증에서 운동 유발성 악성 고열증으로
+## Acetazolamide: 허가 적응증에서 운동 유발성 악성 고열증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

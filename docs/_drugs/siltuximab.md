@@ -33,7 +33,8 @@ predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hep
 
 </div>
 
-# Siltuximab: 특발성 다중심성 캐슬만병에서 골외 비만세포종으로
+## Siltuximab: 특발성 다중심성 캐슬만병에서 골외 비만세포종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)"]
 
 </div>
 
-# Ketoconazole: 피부 진균증에서 여드름으로
+## Ketoconazole: 피부 진균증에서 여드름으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

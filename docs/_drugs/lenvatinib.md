@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 
 </div>
 
-# Lenvatinib: 다중 키나제 억제 항암제에서 지방육종으로
+## Lenvatinib: 다중 키나제 억제 항암제에서 지방육종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

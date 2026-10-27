@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 
 </div>
 
-# 펠로디핀: 고혈압에서 폐고혈압(원인 불명확한 다인성)으로
+## 펠로디핀: 고혈압에서 폐고혈압(원인 불명확한 다인성)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

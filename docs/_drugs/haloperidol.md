@@ -33,7 +33,8 @@ predicted_indications: ["congenital disorder of glycosylation with defective fuc
 
 </div>
 
-# Haloperidol: 조현병 치료제로서의 기존 적응증과 TxGNN 예측 신규 적응증 (조현병)
+## Haloperidol: 조현병 치료제로서의 기존 적응증과 TxGNN 예측 신규 적응증 (조현병)
+{: .text-alpha }
 
 ## 한 문장 요약
 

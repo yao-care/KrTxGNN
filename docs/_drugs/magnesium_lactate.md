@@ -33,7 +33,8 @@ predicted_indications: ["Smouldering systemic mastocytosis", "systemic mastocyto
 
 </div>
 
-# Magnesium Lactate: 기존 적응증 정보 미확인에서 비만세포증(Smouldering Systemic Mastocytosis)으로
+## Magnesium Lactate: 기존 적응증 정보 미확인에서 비만세포증(Smouldering Systemic Mastocytosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

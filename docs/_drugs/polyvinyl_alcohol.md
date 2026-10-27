@@ -33,7 +33,8 @@ predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing c
 
 </div>
 
-# Polyvinyl Alcohol: 점안제 성분에서 선천성 어린선증양 홍색피부증으로
+## Polyvinyl Alcohol: 점안제 성분에서 선천성 어린선증양 홍색피부증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

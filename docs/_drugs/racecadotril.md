@@ -33,7 +33,8 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-# Racecadotril: 설사 치료제에서 고아밀라아제혈증으로
+## Racecadotril: 설사 치료제에서 고아밀라아제혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

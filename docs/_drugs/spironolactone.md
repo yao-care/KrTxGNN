@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# Spironolactone: 한국 허가 적응증에서 두피 단순 모발저하증(Hypotrichosis Simplex of the Scalp)으로
+## Spironolactone: 한국 허가 적응증에서 두피 단순 모발저하증(Hypotrichosis Simplex of the Scalp)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

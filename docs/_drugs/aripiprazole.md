@@ -33,7 +33,8 @@ predicted_indications: ["major affective disorder", "gaze palsy, familial horizo
 
 </div>
 
-# Aripiprazole: 허가 적응증에서 주요 우울장애(Major Affective Disorder)로
+## Aripiprazole: 허가 적응증에서 주요 우울장애(Major Affective Disorder)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

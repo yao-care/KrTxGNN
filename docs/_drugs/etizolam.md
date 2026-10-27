@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)"]
 
 </div>
 
-# Etizolam: 허가 적응증 미확인 상태에서 불면증으로
+## Etizolam: 허가 적응증 미확인 상태에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

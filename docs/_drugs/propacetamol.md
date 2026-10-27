@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "mi
 
 </div>
 
-# Propacetamol: 정맥 진통·해열제에서 편두통으로
+## Propacetamol: 정맥 진통·해열제에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

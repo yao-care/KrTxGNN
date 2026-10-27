@@ -33,7 +33,8 @@ predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcino
 
 </div>
 
-# Ramucirumab: 기존 적응증에서 자궁인대 선암으로
+## Ramucirumab: 기존 적응증에서 자궁인대 선암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

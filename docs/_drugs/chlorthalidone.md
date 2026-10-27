@@ -33,7 +33,8 @@ predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "m
 
 </div>
 
-# Chlorthalidone: 고혈압에서 녹내장으로
+## Chlorthalidone: 고혈압에서 녹내장으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

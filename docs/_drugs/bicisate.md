@@ -33,7 +33,8 @@ predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthriti
 
 </div>
 
-# Bicisate: 진단용 뇌 관류 영상제에서 골관절염으로(예측)
+## Bicisate: 진단용 뇌 관류 영상제에서 골관절염으로(예측)
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 
 </div>
 
-# Docetaxel: 유방암 등 기허가 항종양 적응증에서 여성 유방암(Female Breast Carcinoma)으로
+## Docetaxel: 유방암 등 기허가 항종양 적응증에서 여성 유방암(Female Breast Carcinoma)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

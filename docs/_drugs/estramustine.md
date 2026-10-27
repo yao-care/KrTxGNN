@@ -33,7 +33,8 @@ predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproduc
 
 </div>
 
-# Estramustine: 전립선암에서 전립선암/뇌암 감수성으로
+## Estramustine: 전립선암에서 전립선암/뇌암 감수성으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

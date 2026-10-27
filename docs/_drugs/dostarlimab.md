@@ -33,7 +33,8 @@ predicted_indications: ["neoplastic polyp", "paraneoplastic syndrome", "sympathe
 
 </div>
 
-# Dostarlimab: dMMR 자궁내막암에서 신생물성 용종으로
+## Dostarlimab: dMMR 자궁내막암에서 신생물성 용종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["cervical neuroblastoma", "benign neoplasm of tongue", "
 
 </div>
 
-# Lindane: 외부 기생충 감염 치료제에서 경부 신경모세포종으로
+## Lindane: 외부 기생충 감염 치료제에서 경부 신경모세포종으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

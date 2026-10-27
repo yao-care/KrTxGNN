@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "
 
 </div>
 
-# Zinc Oxide: 기저 적응증에서 여드름(Acne)으로
+## Zinc Oxide: 기저 적응증에서 여드름(Acne)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

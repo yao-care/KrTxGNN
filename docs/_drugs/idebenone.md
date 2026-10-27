@@ -33,7 +33,8 @@ predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic 
 
 </div>
 
-# Idebenone: 기존 적응증 정보 미확인에서 간성 포르피린증으로
+## Idebenone: 기존 적응증 정보 미확인에서 간성 포르피린증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

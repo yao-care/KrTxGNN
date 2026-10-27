@@ -33,7 +33,8 @@ predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "h
 
 </div>
 
-# Nicorandil: 협심증에서 양성 전립선 비대증으로
+## Nicorandil: 협심증에서 양성 전립선 비대증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

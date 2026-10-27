@@ -33,7 +33,8 @@ predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency",
 
 </div>
 
-# Avatrombopag: 만성 간질환 관련 혈소판감소증에서 거대혈소판감소증(승모판 폐쇄부전 동반)으로
+## Avatrombopag: 만성 간질환 관련 혈소판감소증에서 거대혈소판감소증(승모판 폐쇄부전 동반)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

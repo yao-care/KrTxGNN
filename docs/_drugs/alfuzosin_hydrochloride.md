@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Alfuzosin Hydrochloride: 평가 보류 — 필수 데이터 누락
+## Alfuzosin Hydrochloride: 평가 보류 — 필수 데이터 누락
+{: .text-alpha }
 
 ---
 

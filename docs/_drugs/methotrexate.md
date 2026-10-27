@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 
 </div>
 
-# 메토트렉세이트: 허가 적응증에서 폐모세포종(Pulmonary Blastoma)으로
+## 메토트렉세이트: 허가 적응증에서 폐모세포종(Pulmonary Blastoma)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

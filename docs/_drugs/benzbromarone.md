@@ -33,7 +33,8 @@ predicted_indications: ["hypouricemia, renal"]
 
 </div>
 
-# Benzbromarone: 통풍·고요산혈증에서 신성 저요산혈증으로
+## Benzbromarone: 통풍·고요산혈증에서 신성 저요산혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

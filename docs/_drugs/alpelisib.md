@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension", "migraine with or without aura
 
 </div>
 
-# Alpelisib: 기존 적응증에서 폐고혈압으로
+## Alpelisib: 기존 적응증에서 폐고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

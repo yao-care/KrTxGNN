@@ -33,7 +33,8 @@ predicted_indications: ["early-onset familial noncirrhotic portal hypertension",
 
 </div>
 
-# Givosiran: 급성 간성 포르피린증에서 ALA 탈수효소 결핍 포르피린증으로
+## Givosiran: 급성 간성 포르피린증에서 ALA 탈수효소 결핍 포르피린증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

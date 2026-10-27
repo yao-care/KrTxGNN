@@ -33,7 +33,8 @@ predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma
 
 </div>
 
-# Cytarabine: 허가 적응증에서 소세포폐암으로
+## Cytarabine: 허가 적응증에서 소세포폐암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

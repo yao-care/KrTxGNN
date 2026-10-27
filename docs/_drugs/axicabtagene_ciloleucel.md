@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# AXICABTAGENE CILOLEUCEL: TxGNN 예측 없음 — 평가 보류
+## AXICABTAGENE CILOLEUCEL: TxGNN 예측 없음 — 평가 보류
+{: .text-alpha }
 
 ---
 

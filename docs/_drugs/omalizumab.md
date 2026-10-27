@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease
 
 </div>
 
-# Omalizumab: 알레르기성 천식에서 기관지염으로
+## Omalizumab: 알레르기성 천식에서 기관지염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

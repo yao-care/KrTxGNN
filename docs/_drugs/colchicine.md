@@ -33,7 +33,8 @@ predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma pr
 
 </div>
 
-# Colchicine: 허가 적응증 확인 불가에서 열대열 말라리아로
+## Colchicine: 허가 적응증 확인 불가에서 열대열 말라리아로
+{: .text-alpha }
 
 ## 한 문장 요약
 

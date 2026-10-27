@@ -33,7 +33,8 @@ predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neopla
 
 </div>
 
-# 니라파립(Niraparib): 난소암에서 후두개 종양으로
+## 니라파립(Niraparib): 난소암에서 후두개 종양으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

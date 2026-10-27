@@ -33,7 +33,8 @@ predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small 
 
 </div>
 
-# Mercaptopurine: 허가 적응증에서 급성 림프모구성 백혈병(ALL)으로
+## Mercaptopurine: 허가 적응증에서 급성 림프모구성 백혈병(ALL)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

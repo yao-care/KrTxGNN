@@ -36,7 +36,8 @@ Evidence Pack을 분석한 결과, `predicted_indications`가 빈 배열이고 `
 
 ---
 
-# Abciximab: 예측 적응증 없음 — 데이터 보완 필요
+## Abciximab: 예측 적응증 없음 — 데이터 보완 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

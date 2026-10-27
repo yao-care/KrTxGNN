@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 
 </div>
 
-# Phenobarbital: 간질 발작 치료에서 시각성 간질로
+## Phenobarbital: 간질 발작 치료에서 시각성 간질로
+{: .text-alpha }
 
 ## 한 문장 요약
 

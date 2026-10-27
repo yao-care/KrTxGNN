@@ -33,7 +33,8 @@ predicted_indications: ["perioral myoclonia with absences"]
 
 </div>
 
-# Rufinamide: 항전간제에서 열성 감염 관련 뇌전증 증후군으로
+## Rufinamide: 항전간제에서 열성 감염 관련 뇌전증 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

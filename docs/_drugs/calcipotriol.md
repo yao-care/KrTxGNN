@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular kera
 
 </div>
 
-# Calcipotriol: 건선에서 지루각화증으로
+## Calcipotriol: 건선에서 지루각화증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndro
 
 </div>
 
-# Upadacitinib: 허가 적응증에서 콜로보마성 소안구증-근위부 단축형 이형성 증후군으로
+## Upadacitinib: 허가 적응증에서 콜로보마성 소안구증-근위부 단축형 이형성 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

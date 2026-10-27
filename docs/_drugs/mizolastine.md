@@ -33,7 +33,8 @@ predicted_indications: ["acute intermittent porphyria", "psychogenic movement di
 
 </div>
 
-# Mizolastine: 알레르기 질환에서 급성 간헐성 포르피린증으로
+## Mizolastine: 알레르기 질환에서 급성 간헐성 포르피린증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

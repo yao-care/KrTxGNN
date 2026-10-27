@@ -33,7 +33,8 @@ predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic d
 
 </div>
 
-# Vitamin A: 비타민 보급·야맹증 등에서 선천성 프로트롬빈 결핍증으로
+## Vitamin A: 비타민 보급·야맹증 등에서 선천성 프로트롬빈 결핍증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

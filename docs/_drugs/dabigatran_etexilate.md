@@ -33,7 +33,8 @@ predicted_indications: ["sclerosing cholangitis", "obsolete familial combined hy
 
 </div>
 
-# Dabigatran etexilate: 항응고 치료에서 경화성 담관염으로
+## Dabigatran etexilate: 항응고 치료에서 경화성 담관염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

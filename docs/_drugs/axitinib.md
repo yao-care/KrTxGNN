@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 
 </div>
 
-# Axitinib: 신세포암(RCC)에서 신세포암 희귀 아형으로
+## Axitinib: 신세포암(RCC)에서 신세포암 희귀 아형으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

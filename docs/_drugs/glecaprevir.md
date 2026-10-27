@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "hepatitis B virus infection",
 
 </div>
 
-# Glecaprevir: C형 간염에서 HIV 감염으로 (모델 예측)
+## Glecaprevir: C형 간염에서 HIV 감염으로 (모델 예측)
+{: .text-alpha }
 
 ## 한 문장 요약
 

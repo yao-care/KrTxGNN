@@ -33,7 +33,8 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "a
 
 </div>
 
-# Mannitol: 수액·삼투압 이뇨제에서 저나트륨혈증 관련 질환(신인성 항이뇨 부적절 증후군)으로
+## Mannitol: 수액·삼투압 이뇨제에서 저나트륨혈증 관련 질환(신인성 항이뇨 부적절 증후군)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

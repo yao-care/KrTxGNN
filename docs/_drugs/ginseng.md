@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis", "acne (disease)", "severe n
 
 </div>
 
-# Ginseng(인삼): 한방 생약 제제에서 약물 유발 골다공증으로
+## Ginseng(인삼): 한방 생약 제제에서 약물 유발 골다공증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

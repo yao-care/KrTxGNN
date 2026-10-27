@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# ATROPINE SULFATE: TxGNN 예측 적응증 없음 — 약물 재창출 평가 보류
+## ATROPINE SULFATE: TxGNN 예측 적응증 없음 — 약물 재창출 평가 보류
+{: .text-alpha }
 
 ---
 

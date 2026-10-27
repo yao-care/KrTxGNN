@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# AMBROXOL HYDROCHLORIDE: 재창출 평가 불가 — 데이터 미흡으로 Hold 권고
+## AMBROXOL HYDROCHLORIDE: 재창출 평가 불가 — 데이터 미흡으로 Hold 권고
+{: .text-alpha }
 
 ## 한 문장 요약
 

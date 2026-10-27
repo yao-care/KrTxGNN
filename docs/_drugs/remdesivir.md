@@ -33,7 +33,8 @@ predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease"
 
 </div>
 
-# Remdesivir: 바이러스 감염증에서 다중 내분비 종양증으로
+## Remdesivir: 바이러스 감염증에서 다중 내분비 종양증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

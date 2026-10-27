@@ -33,7 +33,8 @@ predicted_indications: ["pneumocystosis", "mycetoma"]
 
 </div>
 
-# Isavuconazonium: 침습성 진균 감염에서 폐포자충증으로
+## Isavuconazonium: 침습성 진균 감염에서 폐포자충증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

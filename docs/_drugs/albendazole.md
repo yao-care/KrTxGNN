@@ -33,7 +33,8 @@ predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infect
 
 </div>
 
-# Albendazole: 장내 선충 감염에서 포충증(알veolar echinococcosis)으로
+## Albendazole: 장내 선충 감염에서 포충증(알veolar echinococcosis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

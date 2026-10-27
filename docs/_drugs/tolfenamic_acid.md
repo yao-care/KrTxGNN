@@ -33,7 +33,8 @@ predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis
 
 </div>
 
-# Tolfenamic Acid: 편두통(두통)에서 두통 질환으로
+## Tolfenamic Acid: 편두통(두통)에서 두통 질환으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

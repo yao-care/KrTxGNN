@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Tramadol: 골관절염 통증 치료제에서 골관절염(Osteoarthritis)으로
+## Tramadol: 골관절염 통증 치료제에서 골관절염(Osteoarthritis)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with 
 
 </div>
 
-# Bicalutamide: 전립선암 치료제에서 털과다증으로
+## Bicalutamide: 전립선암 치료제에서 털과다증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

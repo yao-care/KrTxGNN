@@ -33,7 +33,8 @@ predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "my
 
 </div>
 
-# Pretomanid: 약제내성 결핵에서 칸디다증으로
+## Pretomanid: 약제내성 결핵에서 칸디다증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

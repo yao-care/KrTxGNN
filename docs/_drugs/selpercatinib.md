@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine
 
 </div>
 
-# Selpercatinib: 허가 적응증 정보 미확인에서 폐동맥 고혈압으로
+## Selpercatinib: 허가 적응증 정보 미확인에서 폐동맥 고혈압으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

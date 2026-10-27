@@ -33,7 +33,8 @@ predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenoc
 
 </div>
 
-# Gemcitabine: 허가 적응증에서 여성 유방암으로
+## Gemcitabine: 허가 적응증에서 여성 유방암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

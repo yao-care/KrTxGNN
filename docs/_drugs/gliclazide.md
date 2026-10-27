@@ -36,7 +36,8 @@ last_modified_at: 2026-09-17
 
 ---
 
-# GLICLAZIDE: 예측 신규 적응증 없음 — 데이터 보완 후 재평가 필요
+## GLICLAZIDE: 예측 신규 적응증 없음 — 데이터 보완 후 재평가 필요
+{: .text-alpha }
 
 ## 한 문장 요약
 

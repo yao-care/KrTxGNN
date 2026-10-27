@@ -33,7 +33,8 @@ predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter
 
 </div>
 
-# 탄산리튬: 허가 적응증 정보 미확인에서 가성무형성증(Pseudoachondroplasia)으로
+## 탄산리튬: 허가 적응증 정보 미확인에서 가성무형성증(Pseudoachondroplasia)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

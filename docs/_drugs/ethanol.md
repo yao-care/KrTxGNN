@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 
 </div>
 
-# Ethanol: 수술 시 손 소독에서 편두통으로
+## Ethanol: 수술 시 손 소독에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

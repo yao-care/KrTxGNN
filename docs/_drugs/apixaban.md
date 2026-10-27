@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with or without aura, sus
 
 </div>
 
-# Apixaban: 혈전·색전증 예방 치료제에서 편두통으로
+## Apixaban: 혈전·색전증 예방 치료제에서 편두통으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

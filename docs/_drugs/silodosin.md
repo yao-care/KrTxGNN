@@ -33,7 +33,8 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 </div>
 
-# Silodosin: 양성 전립선 비대증에서 Ambras형 범발성 선천성 다모증으로
+## Silodosin: 양성 전립선 비대증에서 Ambras형 범발성 선천성 다모증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["beta-ketothiolase deficiency"]
 
 </div>
 
-# Perampanel: 뇌전증에서 시각 뇌전증으로
+## Perampanel: 뇌전증에서 시각 뇌전증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acroderm
 
 </div>
 
-# Pimecrolimus: 아토피피부염에서 지루피부염으로
+## Pimecrolimus: 아토피피부염에서 지루피부염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

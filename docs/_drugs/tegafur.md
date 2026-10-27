@@ -33,7 +33,8 @@ predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neur
 
 </div>
 
-# Tegafur: 대장 종양(Colonic Neoplasm)으로의 근거 확인
+## Tegafur: 대장 종양(Colonic Neoplasm)으로의 근거 확인
+{: .text-alpha }
 
 ## 한 문장 요약
 

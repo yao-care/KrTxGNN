@@ -33,7 +33,8 @@ predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal d
 
 </div>
 
-# Buprenorphine: 통증·오피오이드 치료에서 급성 간헐성 포르피린증으로
+## Buprenorphine: 통증·오피오이드 치료에서 급성 간헐성 포르피린증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

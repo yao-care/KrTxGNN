@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylas
 
 </div>
 
-# Levofloxacin: 세균 감염증에서 점상 상피성 각결막염으로
+## Levofloxacin: 세균 감염증에서 점상 상피성 각결막염으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating 
 
 </div>
 
-# Atezolizumab: 요로상피암에서 전립선 요도 요로상피암으로
+## Atezolizumab: 요로상피암에서 전립선 요도 요로상피암으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

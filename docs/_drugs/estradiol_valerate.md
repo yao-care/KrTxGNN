@@ -33,7 +33,8 @@ predicted_indications: ["symptomatic form of fragile X syndrome in female carrie
 
 </div>
 
-# Estradiol Valerate: 폐경 관련 증상 치료에서 무배란(Anovulation)으로
+## Estradiol Valerate: 폐경 관련 증상 치료에서 무배란(Anovulation)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

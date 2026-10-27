@@ -33,7 +33,8 @@ predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disor
 
 </div>
 
-# Thiopental: 마취·진정에서 두개내압 항진으로
+## Thiopental: 마취·진정에서 두개내압 항진으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

@@ -33,7 +33,8 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "T
 
 </div>
 
-# Fentanyl: 통증 치료에서 신원성 항이뇨 부적절 증후군으로
+## Fentanyl: 통증 치료에서 신원성 항이뇨 부적절 증후군으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

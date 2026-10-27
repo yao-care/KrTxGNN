@@ -33,7 +33,8 @@ predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of 
 
 </div>
 
-# Desonide: 국소 코르티코스테로이드에서 아토피 습진으로
+## Desonide: 국소 코르티코스테로이드에서 아토피 습진으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

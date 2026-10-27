@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-# Lisinopril: 고혈압 등 기존 적응증에서 후하벽 심근경색으로
+## Lisinopril: 고혈압 등 기존 적응증에서 후하벽 심근경색으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

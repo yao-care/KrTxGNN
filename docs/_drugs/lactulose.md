@@ -33,7 +33,8 @@ predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructi
 
 </div>
 
-# Lactulose: 변비에서 급성 요산 신병증으로
+## Lactulose: 변비에서 급성 요산 신병증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

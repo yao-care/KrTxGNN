@@ -33,7 +33,8 @@ predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic
 
 </div>
 
-# Nimodipine: 뇌혈관 질환용 칼슘채널 차단제에서 동형접합 가족성 고콜레스테롤혈증으로
+## Nimodipine: 뇌혈관 질환용 칼슘채널 차단제에서 동형접합 가족성 고콜레스테롤혈증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

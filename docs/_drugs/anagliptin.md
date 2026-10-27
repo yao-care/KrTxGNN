@@ -33,7 +33,8 @@ predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syn
 
 </div>
 
-# Anagliptin: 제2형 당뇨병에서 옵시스모이형성증(Opsismodysplasia)으로
+## Anagliptin: 제2형 당뇨병에서 옵시스모이형성증(Opsismodysplasia)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

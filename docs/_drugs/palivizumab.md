@@ -33,7 +33,8 @@ predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cer
 
 </div>
 
-# Palivizumab: RSV 예방에서 설소 양성 종양(Benign Neoplasm of Tongue)으로
+## Palivizumab: RSV 예방에서 설소 양성 종양(Benign Neoplasm of Tongue)으로
+{: .text-alpha }
 
 ## 한 문장 요약
 

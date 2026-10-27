@@ -33,7 +33,8 @@ predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate ep
 
 </div>
 
-# Amikacin: 그람음성균 감염에서 파라티푸스열(Paratyphoid Fever)로
+## Amikacin: 그람음성균 감염에서 파라티푸스열(Paratyphoid Fever)로
+{: .text-alpha }
 
 ## 한 문장 요약
 

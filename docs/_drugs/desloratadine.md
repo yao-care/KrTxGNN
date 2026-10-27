@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "rec
 
 </div>
 
-# Desloratadine: 알레르기 질환에서 한랭 두드러기로
+## Desloratadine: 알레르기 질환에서 한랭 두드러기로
+{: .text-alpha }
 
 ## 한 문장 요약
 

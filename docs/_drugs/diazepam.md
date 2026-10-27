@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep di
 
 </div>
 
-# Diazepam: 기존 허가 적응증에서 불면증으로
+## Diazepam: 기존 허가 적응증에서 불면증으로
+{: .text-alpha }
 
 ## 한 문장 요약
 
