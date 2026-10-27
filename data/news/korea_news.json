@@ -1,10 +1,22 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-10-27T17:42:13.991469+00:00",
-  "total_fetched": 113,
-  "unique_count": 113,
-  "health_related_count": 56,
+  "fetched_at": "2026-10-27T21:56:35.657840+00:00",
+  "total_fetched": 115,
+  "unique_count": 115,
+  "health_related_count": 57,
   "news": [
+    {
+      "id": "a19ca36ec5db",
+      "title": "[사이테크+] \"모기 수컷이 암컷 날갯짓 소리에 끌리는 이유 찾았다\" - 연합뉴스",
+      "published": "2026-10-27T18:00:01+00:00",
+      "summary": "[사이테크+] \"모기 수컷이 암컷 날갯짓 소리에 끌리는 이유 찾았다\"&nbsp;&nbsp;연합뉴스",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11ZHZuRUtxSDFIS3ZRNk5JcG1iTG5tNHROT2JnbHJpMlNuekUza2JFY05WNG04U2FBY3FQVldiUW04NFN5d1RiY2doYjdXY0xZQkpVSGppZ2YzMVXSAWBBVV95cUxOamdCVG5zZk80ZFpYdDJ2Ukc5WWRsX0FRV1loT2cyMFdRaWtGbEVGU3hXY1pkcjVmT3ltWGRyRzVNNnd4YkNxQWtqaXhEc05fRWNwTE1kV3dnUWVCV21tai0?oc=5"
+        }
+      ]
+    },
     {
       "id": "00e7689036b2",
       "title": "MF59 면역증강 백신, NIP 도입 시 질병부담·재정 부담 완화 - 메디칼업저버",
@@ -14,6 +26,18 @@
         {
           "name": "메디칼업저버",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KbEZlc1BOZlJUNnJNeG1iYndkV2xNQ3dZZE5rRmswc3owdWFjMlZOTzUxQThBWVM2d2FaTDg3Q1JOMlU3UjRBcVlFcTI2NkhFdzVvMVRlUC1DYlBpNEJUSXBXS3ZaS0V3SU5V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22165e7ab46a",
+      "title": "[김철중의 생로병사] 성인 둘 중 한 명은 당뇨… 식당에 ‘탄수화물 선택제’ 도입하자 - 조선일보",
+      "published": "2026-10-27T14:47:00+00:00",
+      "summary": "[김철중의 생로병사] 성인 둘 중 한 명은 당뇨… 식당에 ‘탄수화물 선택제’ 도입하자&nbsp;&nbsp;조선일보“식후 ‘이 행동’ 안 하면 혈당 폭탄 맞는다”…의사 경고 나왔다 [헬시타임]&nbsp;&nbsp;서울경제“담배처럼 경고문 붙여야”…건강식인 줄 알았던 아침 식단의 함정&nbsp;&nbsp;세계일보“혈당 쭉 오른다”… 당뇨병 전문의 경고한 ‘최악의 식습관’&nbsp;&nbsp;헬스조선“혈당 급등한다”… 영양사들 꼽은 ‘최악의’ 식후 습관&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmJhVU83Z3RxX0hZbkx3UE51YjdoRW13TXlZTDEzVnRmSVNyUzJKWWFjdVRxdHFPc3lsdEM4TG9HVFBlOGtjS2JxeGxMc2xFT0VTdTBUd1VpdUdyV250UzFLN0UwNjZGNm1DcDNnVllfSy0tcUdtWVJEb3N6bER2Mw?oc=5"
         }
       ]
     },
@@ -42,14 +66,26 @@
       ]
     },
     {
-      "id": "06947dbd1c35",
-      "title": "연세암병원, PET 검사로 소세포폐암 환자 뇌 전이 예방치료 효과 예측 - 팍스경제TV",
-      "published": "2026-10-27T09:16:30+00:00",
-      "summary": "연세암병원, PET 검사로 소세포폐암 환자 뇌 전이 예방치료 효과 예측&nbsp;&nbsp;팍스경제TV폐암환자 방사선 치료 효과는?…‘이 검사’로 예측&nbsp;&nbsp;동아일보소세포폐암, 치료 전 PET으로 예방적 뇌방사선치료 효과 예측&nbsp;&nbsp;쿠키뉴스연세암병원 김혜련 교수팀, PET 기반 뇌방사선치료 선별 가능성 제시&nbsp;&nbsp;메디포뉴스소세포폐암 뇌전이 예방 방사선치료 효과 PET으로 예측&nbsp;&nbsp;메디칼트리뷴",
+      "id": "68b0222f0934",
+      "title": "간병인은 어떻게 돌봐야 할까? NCCN, 암 환자인 가족과 지인을 돌보기 위한 필수 가이드 첫 발간 - 사람의 풍경",
+      "published": "2026-10-27T11:07:00+00:00",
+      "summary": "간병인은 어떻게 돌봐야 할까? NCCN, 암 환자인 가족과 지인을 돌보기 위한 필수 가이드 첫 발간&nbsp;&nbsp;사람의 풍경",
       "sources": [
         {
-          "name": "팍스경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wQlFRZEZBRWRjZWVjUDBaNWtqcGRkRU5GUWx0bDJoOUpRamhza1BKTFBvQjlrYkgxUXd2Z2F1SGZTNGpkNF82ZDBBRE5TSGpIejk2Z1VYeUQ2WjNWaFVyWEh3OHFRVWtI?oc=5"
+          "name": "사람의 풍경",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oZHhqc1lpSkN2eG91LTRzSkltLUNDSTRQd3FjTnh3ZlJiVEJTNjZPQXhWRXRINENwYjVRbzN6RFY1MDV5NnNFdlJpNkFTS3E5NXVkOHZXaEMxRXBpcFdhektndlp6dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6874c4782341",
+      "title": "연세암병원, PET 검사로 소세포폐암 예방적 뇌방사선치료 효과 예측 가능성 확인 外 - 의약뉴스",
+      "published": "2026-10-27T10:09:41+00:00",
+      "summary": "연세암병원, PET 검사로 소세포폐암 예방적 뇌방사선치료 효과 예측 가능성 확인 外&nbsp;&nbsp;의약뉴스폐암환자 방사선 치료 효과는?…‘이 검사’로 예측&nbsp;&nbsp;동아일보소세포폐암, 치료 전 PET으로 예방적 뇌방사선치료 효과 예측&nbsp;&nbsp;쿠키뉴스치료 전 PET 검사로 소세포폐암 예방적 뇌방사선치료 효과 예측 가능&nbsp;&nbsp;헬스오연세암병원 김혜련 교수팀, PET 기반 뇌방사선치료 선별 가능성 제시&nbsp;&nbsp;메디포뉴스",
+      "sources": [
+        {
+          "name": "의약뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QVEY4WVAyd3hSN2ttTFZFcGRFLWpDOTRKR29UUzVqeGFfVDZ3YV85LS0wUVRvMmZGYi13QzFET3dvd0M1UVdQa0VQNU93VHljMklwY2kybnNRc25VX3pkcU03R2g5eHFu?oc=5"
         }
       ]
     },
@@ -74,6 +110,18 @@
         {
           "name": "서울뉴스통신",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yZnFkd2Ixc3B1RnBhTjNtZUFsSmVOaDB6Q3VaNW5UZ1ZXdU9JWWJTRWpERHVZOEMtYk9kWlRtb2MtWlZCaFNlaXZvZjBRdktRZVdsWEhlejNWa1NhMTBuWjdqVFpRTnVLR0hz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2fccad14d212",
+      "title": "감기인 줄 알았던 RSV 바이러스, 영아 중증 진행 위험… 초기 증상 주시해야 [박병성 원장 칼럼] - 미디어파인",
+      "published": "2026-10-27T05:35:54+00:00",
+      "summary": "감기인 줄 알았던 RSV 바이러스, 영아 중증 진행 위험… 초기 증상 주시해야 [박병성 원장 칼럼]&nbsp;&nbsp;미디어파인엄마가 맞으면 아기도 보호…화이자 RSV 백신 '아브리스보' 내달 출시&nbsp;&nbsp;뉴스1영아 3명 중 2명 감염되는 RSV… 중증화 막으려면 예방 중요&nbsp;&nbsp;헬스조선계절 변화 시기에 어린이의 호흡기 질환 위험에 대해 경고합니다.&nbsp;&nbsp;Vietnam.vnGSK 고령·고위험군 RSV 백신 아렉스비&nbsp;&nbsp;의학신문",
+      "sources": [
+        {
+          "name": "미디어파인",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjZEZLQkhQaUZDMTJsRno5OTFZLWRzdFhLdzV4MXNrZURtTW1wOVJINE93emhsX3VMZ2Rpd05KZlFVQjZRTzJ0aHpNcHZXVm5SMUpwbjc4RDBuU052TUVqcHc2NHEzQnUyZWplUW1R?oc=5"
         }
       ]
     },
@@ -138,6 +186,18 @@
       ]
     },
     {
+      "id": "cbab1195ea1f",
+      "title": "“만성 염증 줄이는 데 도움”.. 영양사가 꼽은 식품 1위는? - 라디오코리아",
+      "published": "2026-10-27T01:43:00+00:00",
+      "summary": "“만성 염증 줄이는 데 도움”.. 영양사가 꼽은 식품 1위는?&nbsp;&nbsp;라디오코리아“살 조금만 쪄도 위험”… 비만 초기부터 몸속 염증 수치 높았다&nbsp;&nbsp;헬스조선몸속 염증 키우는 음식 5가지… 매일 먹는 '이것'도 포함&nbsp;&nbsp;금강일보“염증 잡으려 4년 먹었는데…” 영양제보다 효과 본 식단 따로 있었다&nbsp;&nbsp;뉴스와“살 찌는 순간부터 몸속 염증 증가한다”... 심혈관·신장·대사 질환 위험 신호&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "라디오코리아",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBUVM4NF93TXVZdlZMUXkxTHNTVXk0b1ROZ2NaNlRXZmFHWXhsbW5QcC0waGpYZnBza0JaSFlUb1FvQjNQcy1KaXR3Z1c5T29zMWVOQ1lSX2tIMzE0NUNJ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7144d74adc58",
       "title": "KAIST, 뇌 속 약물 반응 실시간 측정 무선 신경칩 개발 - 충청뉴스",
       "published": "2026-10-27T01:35:03+00:00",
@@ -146,18 +206,6 @@
         {
           "name": "충청뉴스",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YV2ZaQndlbjQ2RFkydmpFUlU2WTI1LUxwdXFsb2ZZaTAzSUpnRGZPNHN5N1FHWVI4MGpReFZ0N1dFeFZydTRzVDg0emJQanl6akhMZklRYlZOQUhPZGQtOVBmTTM1c2RIOFNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "47e2dc753525",
-      "title": "2030세대에 찾아오는 통풍, 심혈관 질환까지 부른다…심혈관 위험요인 관리 철저해야 - 중부일보",
-      "published": "2026-10-27T01:14:00+00:00",
-      "summary": "2030세대에 찾아오는 통풍, 심혈관 질환까지 부른다…심혈관 위험요인 관리 철저해야&nbsp;&nbsp;중부일보",
-      "sources": [
-        {
-          "name": "중부일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBUzZ6RW5laDRhWTgwYjF3WTlWTXljQTdYbG1HdWFwenIybV9CdTY2ZTVuemtFTnpVemZaTlF3T1NDU0hEaTZWU182eDVwOTFPbnJpbGJSLWlaOFZ5NWtTZ3F5YUJXLVVOQjRBYjhONA?oc=5"
         }
       ]
     },
@@ -222,42 +270,6 @@
       ]
     },
     {
-      "id": "aee3480c3579",
-      "title": "[인터뷰] RSV 입원환자 절반이 65세 이상…“고위험군 백신 지원해야” - Chosunbiz",
-      "published": "2026-10-26T22:07:00+00:00",
-      "summary": "[인터뷰] RSV 입원환자 절반이 65세 이상…“고위험군 백신 지원해야”&nbsp;&nbsp;Chosunbiz엄마가 맞으면 아기도 보호…화이자 RSV 백신 '아브리스보' 내달 출시&nbsp;&nbsp;뉴스1영아 3명 중 2명 감염되는 RSV… 중증화 막으려면 예방 중요&nbsp;&nbsp;헬스조선계절 변화 시기에 어린이의 호흡기 질환 위험에 대해 경고합니다.&nbsp;&nbsp;Vietnam.vnGSK 고령·고위험군 RSV 백신 아렉스비&nbsp;&nbsp;의학신문",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2xxZHVqcGtucmVGZmtxM0lEMFpXMzRSMWJMekt6dW1PbkJJZ050MlJpcXJpSWZ3eWxEYjQyWHA1WS15QjM1aGZzVzc3WGNyZG9oRTdzVWp3eEo4MkdWSndacFllRjdpejR5UldPemRfd3UwYWxSQVRzN05hMzNWbXBONjdwWGVhdHNUS3NvbC0yRThUUzlr0gGrAUFVX3lxTE12YjBKeno3OFViRklFMkJ6MTF3WmtZQXFoRUZlSGF1WWh6eXhNbnFMczRzWEpRdzB1NEg2MTh0cXdmQzdOWmUxdHZKTzVGb19mRDBDQlkzNzN0QXlfV2NhOWdYTUZEeTJOOVlSZ1JCSi1zRXRKWFBrNjdaWURYQXp6ZTFrVVZmdy1xNzUtN2NOUS1qY2hNWi1GajdkSktsRmZYRUFWbnRKZ0kwUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c557d688eea9",
-      "title": "[하이뮨의 그림자/①] 일동후디스, 변경 계약서 없이 수수료 세 번 깎았다…대표 \"3% 그냥 깎아라\" - 비즈니스플러스",
-      "published": "2026-10-26T22:00:00+00:00",
-      "summary": "[하이뮨의 그림자/①] 일동후디스, 변경 계약서 없이 수수료 세 번 깎았다…대표 \"3% 그냥 깎아라\"&nbsp;&nbsp;비즈니스플러스",
-      "sources": [
-        {
-          "name": "비즈니스플러스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FZGl1MHBWTzFIQXlBT0xRZTI4emtNaXVxSlBuVmZEMldSTGVjQk4wODU4YUFSekZ2TFVkZDAtODkyUmIxT3BhaENaYTdaOTRseFpnQldPeFd3QldpR3JaaThnRlhiYzdlVG9oQy1B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d453693fe33a",
-      "title": "[김길원의 헬스노트] 피 한 방울로 치매 진행 정도 알 수 있다 - 연합뉴스",
-      "published": "2026-10-26T21:13:01+00:00",
-      "summary": "[김길원의 헬스노트] 피 한 방울로 치매 진행 정도 알 수 있다&nbsp;&nbsp;연합뉴스항체 전처리 추가하자 알츠하이머 혈액검사 정확도 향상&nbsp;&nbsp;메디컬투데이알츠하이머병 진행 단계, 혈액검사로 구분할까? 국내 연구팀 타우 지표 확인&nbsp;&nbsp;진주인터넷뉴스머리 모양이 치매 위험 가른다?… 뇌 구조로 알츠하이머 수수께끼 푸는 연구&nbsp;&nbsp;시애틀코리안데일리알츠하이머 새 원인 후보 나왔다···아밀로이드·타우 다음은 ‘유전체 접힘’&nbsp;&nbsp;더메디컬",
-      "sources": [
-        {
-          "name": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bUlwS3V3V3Fnd2RBTG40dnJyMWlpUnk4bWoxeHp3Ylgtb3BnM09nOWdSWHpqMWRWSnRvdnV1Wl9EcEJwR3FhSTd0NTk1S0FwQjNqZFhLNmpVRHPSAWBBVV95cUxNZUpRWFBrUFhJTFQzS0tDaFBVRGdWU1hRR2lacmlfYk8zdG1GVHdxM1gzS3B6RTNOYUZSTWs4XzlkcHFMZV9iZ0RJM041aVlIeENScXYxalI2Z1VFdGdsc00?oc=5"
-        }
-      ]
-    },
-    {
       "id": "080828df7977",
       "title": "혈압약 먹다 두통약 한 알 더했을 뿐인데…콩팥 손상 위험 커진다 - 세계일보",
       "published": "2026-10-26T20:00:00+00:00",
@@ -273,7 +285,7 @@
       "id": "3a69920fc712",
       "title": "“간 혹사하는 습관”… 간 이식하는 의사가 지적한 ‘4가지’ - 헬스조선",
       "published": "2026-10-26T16:30:00+00:00",
-      "summary": "“간 혹사하는 습관”… 간 이식하는 의사가 지적한 ‘4가지’&nbsp;&nbsp;헬스조선[비바100] 비만 관리가 간암 예방의 시작?⋯간 건강 좌우하는 ‘지방간’ 주목&nbsp;&nbsp;브릿지경제밀크시슬·다슬기 믿고 술? 소화기내과 교수 \"간 건강 개선 근거 부족\"&nbsp;&nbsp;YTN20·30대 여성도 간경변증 진단…반복 폭음 주의&nbsp;&nbsp;이데일리",
+      "summary": "“간 혹사하는 습관”… 간 이식하는 의사가 지적한 ‘4가지’&nbsp;&nbsp;헬스조선[비바100] 비만 관리가 간암 예방의 시작?⋯간 건강 좌우하는 ‘지방간’ 주목&nbsp;&nbsp;브릿지경제밀크시슬·다슬기 믿고 술? 소화기내과 교수 \"간 건강 개선 근거 부족\"&nbsp;&nbsp;YTN\"당뇨환자 10명 중 7명 지방간 동반…혈당·간 함께 관리를\"&nbsp;&nbsp;데일리팜",
       "sources": [
         {
           "name": "헬스조선",
@@ -285,7 +297,7 @@
       "id": "c03703f90bd5",
       "title": "차 마시는 방법에 따라 심장 건강에 득과 실…녹차보다 홍차가 효과적 - 한국면세뉴스",
       "published": "2026-10-26T15:20:00+00:00",
-      "summary": "차 마시는 방법에 따라 심장 건강에 득과 실…녹차보다 홍차가 효과적&nbsp;&nbsp;한국면세뉴스매일 마시는 차 “잘못 고르면 독 된다”…심장에 좋은 차는&nbsp;&nbsp;동아일보건강에 좋다던 차, ‘앗뜨뜨’ 뜨겁게 마셨더니 오히려 독됐다&nbsp;&nbsp;경향신문차 꾸준히 마시면 혈관질환 위험 11% 낮아진다…카페인 과다는 주의&nbsp;&nbsp;세계일보“혈관을 깨끗하고 탄력 있게”… 틈틈이 마시면 좋은 ‘항산화 음료’&nbsp;&nbsp;헬스조선",
+      "summary": "차 마시는 방법에 따라 심장 건강에 득과 실…녹차보다 홍차가 효과적&nbsp;&nbsp;한국면세뉴스“심혈관 건강해진다”… 의사도 마신다는 ‘세 가지 음료’&nbsp;&nbsp;헬스조선“매일 마셨더니 혈관 깨끗해졌다”…의사들도 틈틈이 챙긴다는 ‘이 음료’ [헬시타임]&nbsp;&nbsp;서울경제매일 무심코 마시는 '이 물', 온도 잘못 맞추면 심장혈관 망친다? 홍차와 녹차의 충격적 진실&nbsp;&nbsp;한국공공정책신문혈관 건강에 도움이 되도록 차를 어떻게 마셔야 할까요?&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "한국면세뉴스",
@@ -330,6 +342,18 @@
       ]
     },
     {
+      "id": "213b43e9deb1",
+      "title": "알츠하이머병 진행 단계, 혈액검사로 구분할까? 국내 연구팀 타우 지표 확인 - 진주인터넷뉴스",
+      "published": "2026-10-26T08:00:05+00:00",
+      "summary": "알츠하이머병 진행 단계, 혈액검사로 구분할까? 국내 연구팀 타우 지표 확인&nbsp;&nbsp;진주인터넷뉴스[김길원의 헬스노트] 피 한 방울로 치매 진행 정도 알 수 있다&nbsp;&nbsp;연합뉴스항체 전처리 추가하자 알츠하이머 혈액검사 정확도 향상&nbsp;&nbsp;메디컬투데이머리 모양이 치매 위험 가른다?… 뇌 구조로 알츠하이머 수수께끼 푸는 연구&nbsp;&nbsp;시애틀코리안데일리알츠하이머 새 원인 후보 나왔다···아밀로이드·타우 다음은 ‘유전체 접힘’&nbsp;&nbsp;더메디컬",
+      "sources": [
+        {
+          "name": "진주인터넷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkUy1RX0RwM240R3NfTktSa3IzZ3ZoSG5zUTd5dDM1c0VxdDdLWENfMTktNnU5cklkU3NUamxYR3MtQnI4a3U1X3lPUTR1U2dnaVhXd29XZUk2VHZVZGI0XzVSV3ViWHBKQW1wbktxV05oZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "01a8cbdfe564",
       "title": "몸속 DNA 오타 직접 고친다… 차세대 유전자 편집 첫 임상 - 조선일보",
       "published": "2026-10-26T06:54:02+00:00",
@@ -338,18 +362,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb21ZTjRYcVVkN2tVY3BNZ0xYREllV1hiSXA4VS13WTVBVUtCaDdycXZxOGZncFctT0pOaTNqcW5DWDlaSWtkRThEWUxEZXA2aFRhd1pzbEFvTDU1T3JiWi1GYXU0RHJoYVhiSkNzNXVKb0c5OUdDYjJkZXQtYjZMNmlvMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "440c08083b75",
-      "title": "혈압약...복약 순응도 떨어지면 큰 효과 없어... - 후생신보",
-      "published": "2026-10-26T06:05:00+00:00",
-      "summary": "혈압약...복약 순응도 떨어지면 큰 효과 없어...&nbsp;&nbsp;후생신보",
-      "sources": [
-        {
-          "name": "후생신보",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5zdVRkczdUTTBSejBEUDEwd242eTJmNUtaUE9uY2UxTWFCX2NnUTBvT09OZWNWS2NDNTNQd3ZWdmlCdXpj?oc=5"
         }
       ]
     },
@@ -390,14 +402,14 @@
       ]
     },
     {
-      "id": "66bcac20a488",
-      "title": "“우울증 환자 23%는 생체리듬형”… 계절·수면 변화 무시하면 안 돼 - 헬스조선",
-      "published": "2026-10-26T04:36:04+00:00",
-      "summary": "“우울증 환자 23%는 생체리듬형”… 계절·수면 변화 무시하면 안 돼&nbsp;&nbsp;헬스조선잠 많이 자도 아침마다 피곤하다면?…“우울증의 특정 유형일 수도”&nbsp;&nbsp;하이닥밤엔 말똥말똥, 낮엔 기진맥진…우울증 환자 4명 중 1명 보인 특징&nbsp;&nbsp;코메디닷컴“푹 잤는데도 왜 이렇게 피곤할까”…우울증, 기분보다 먼저 달라지는 것들&nbsp;&nbsp;포커스타임즈‘일주기성 우울증’ 새로운 아형 제시…항우울제 반응도 낮아&nbsp;&nbsp;메디컬투데이",
+      "id": "92c2ae8c635b",
+      "title": "잠 많이 자도 아침마다 피곤하다면?…“우울증의 특정 유형일 수도” - 하이닥",
+      "published": "2026-10-26T05:00:00+00:00",
+      "summary": "잠 많이 자도 아침마다 피곤하다면?…“우울증의 특정 유형일 수도”&nbsp;&nbsp;하이닥“우울증 환자 23%는 생체리듬형”… 계절·수면 변화 무시하면 안 돼&nbsp;&nbsp;헬스조선밤엔 말똥말똥, 낮엔 기진맥진…우울증 환자 4명 중 1명 보인 특징&nbsp;&nbsp;코메디닷컴“푹 잤는데도 왜 이렇게 피곤할까”…우울증, 기분보다 먼저 달라지는 것들&nbsp;&nbsp;포커스타임즈‘일주기성 우울증’ 새로운 아형 제시…항우울제 반응도 낮아&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUnFzQ01paVo5d3BVQ0JDYXdvZWRKRnBaQVdyTGo3ZUNEdDNvUEpSTUtzeGlaM2hoc0tLYU9rME9rMnR1Z3ExVmFrb0RhVjhPdU01eUNEUWhJcE5ZSlU5U2h2bUQ4YURBNWF1bWlvelFlcXNidkxMbmlYT2k1U1E?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92U3RNY29uT1g5Vk1aR191ZVJrRVNhUTBieVk3RkJ5N1JGSlF1cDVHYWE0Sl8xZVNSUW5FeVhCdlhCMkx6YjlaeVB0VUpTdFFfbnVEbHhsS2Q2WjdlRzA4RHVhMXFLVDR5Z0E?oc=5"
         }
       ]
     },
@@ -417,7 +429,7 @@
       "id": "b798f87fdace",
       "title": "한독, 폐경 호르몬 치료 패러다임 변화 조명 - 메드월드뉴스",
       "published": "2026-10-26T01:11:46+00:00",
-      "summary": "한독, 폐경 호르몬 치료 패러다임 변화 조명&nbsp;&nbsp;메드월드뉴스“억지로 견디지 마세요”…‘폐경기’ 호르몬 치료, 美 임상지침 살펴보니&nbsp;&nbsp;농민신문폐경 호르몬 치료, FDA 경고 완화 이후 ‘맞춤형 치료’로 패러다임 전환&nbsp;&nbsp;헬스오한독, '대한산부인과의사회 학술대회서 FDA 블랙박스 경고 삭제 이후 폐경 호르몬 치료 패러다임 변화' 조명…'FDA의 폐경 호르몬 치료제 블랙박스 경고 삭제 1년, 달라진 폐경 호르몬 치료 인식과 환경' 조망&nbsp;&nbsp;메디컬헤럴드한독, 대한산부인과의사회 학술대회서 ‘듀아비브’ 심포지엄 개최&nbsp;&nbsp;MEDI:GATE NEWS",
+      "summary": "한독, 폐경 호르몬 치료 패러다임 변화 조명&nbsp;&nbsp;메드월드뉴스“억지로 견디지 마세요”…‘폐경기’ 호르몬 치료, 美 임상지침 살펴보니&nbsp;&nbsp;농민신문폐경 호르몬 치료, FDA 경고 완화 이후 ‘맞춤형 치료’로 패러다임 전환&nbsp;&nbsp;헬스오한독, 폐경 호르몬 치료 변화 조명…'듀아비브' 임상적 가치 공유&nbsp;&nbsp;메디컬투데이한독, '대한산부인과의사회 학술대회서 FDA 블랙박스 경고 삭제 이후 폐경 호르몬 치료 패러다임 변화' 조명…'FDA의 폐경 호르몬 치료제 블랙박스 경고 삭제 1년, 달라진 폐경 호르몬 치료 인식과 환경' 조망&nbsp;&nbsp;메디컬헤럴드",
       "sources": [
         {
           "name": "메드월드뉴스",
@@ -462,14 +474,14 @@
       ]
     },
     {
-      "id": "2e322b1c1510",
-      "title": "[AI신약브리핑] 2026년 10월 3째 주 AI 신약개발 동향 : AI 설계 박테리오파지 세계 첫 인체 투여, 오픈AI 오케스트라 바이오 인수, 릴리-메티스 11억 달러 전달 기술 계약 - 한국데이터경제신문",
-      "published": "2026-10-25T21:00:00+00:00",
-      "summary": "[AI신약브리핑] 2026년 10월 3째 주 AI 신약개발 동향 : AI 설계 박테리오파지 세계 첫 인체 투여, 오픈AI 오케스트라 바이오 인수, 릴리-메티스 11억 달러 전달 기술 계약&nbsp;&nbsp;한국데이터경제신문항생제도 소용없는 슈퍼세균, AI가 만든 바이러스로 잡는다?&nbsp;&nbsp;조선일보AI가 치료용 바이러스 설계, ‘인간에게 투여’&nbsp;&nbsp;애플경제AI가 설계한 바이러스의 첫 인체 투여&nbsp;&nbsp;디일렉AI 설계 바이러스 환자에 첫 투여 : 테크/과학&nbsp;&nbsp;재경일보",
+      "id": "4185a12c1ec0",
+      "title": "전립선암 치료 5년 뒤 성기능, 방사선치료가 수술보다 우수 - 헬스코리아뉴스",
+      "published": "2026-10-25T10:18:34+00:00",
+      "summary": "전립선암 치료 5년 뒤 성기능, 방사선치료가 수술보다 우수&nbsp;&nbsp;헬스코리아뉴스",
       "sources": [
         {
-          "name": "한국데이터경제신문",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xN2ZQQlh4RUN5aTZWaDV2Z093TlR6M3RYdVpaUEdORmRjZjFQQWFRc1EyZkxjYWkxR2tPbjNnUjFUempCSW9sWlZmMUNfMEFONW1TeE1vQkF3WUhKZUR1dUZySlF2dzJZdFpMSFlIaVjSAXRBVV95cUxNdFU0emVTd2dpUFZCMHpZVEhCNnRxRl9xMjR4bEtVUmo5d1paTUhTc1VJS2laT1B4SXJJeTlGVXZQTnp3bG5Ec3ItTnNTbk5WREllR0UwTkJiMTN2ZmVxUkFhRDRhZmY1eXhKbWotRE5OQXR6Mg?oc=5"
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOcWI4NU1FUW0wQUJxai1Nc0F3SFF0MVJtVWlNNEdRV0ZYS0ZpSE5GQnpSTmtISVc5RXdaMjZoeGdkZXZoOXh0VUVQb2ZfZU5EbER3bFAyYVR4ZmR2Yk1sMmpDdXRGdXM?oc=5"
         }
       ]
     },
@@ -618,6 +630,18 @@
       ]
     },
     {
+      "id": "78e33155e0ec",
+      "title": "항생제 내성균 잡는 바이러스, AI로 설계해 환자에 첫 투여 - DongA Science",
+      "published": "2026-10-21T20:00:00+00:00",
+      "summary": "항생제 내성균 잡는 바이러스, AI로 설계해 환자에 첫 투여&nbsp;&nbsp;DongA Science항생제도 소용없는 슈퍼세균, AI가 만든 바이러스로 잡는다?&nbsp;&nbsp;조선일보[AI신약브리핑] 2026년 10월 3째 주 AI 신약개발 동향 : AI 설계 박테리오파지 세계 첫 인체 투여, 오픈AI 오케스트라 바이오 인수, 릴리-메티스 11억 달러 전달 기술 계약&nbsp;&nbsp;한국데이터경제신문AI가 치료용 바이러스 설계, ‘인간에게 투여’&nbsp;&nbsp;애플경제AI가 설계한 바이러스의 첫 인체 투여&nbsp;&nbsp;디일렉",
+      "sources": [
+        {
+          "name": "DongA Science",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLTW11ck1ud0xnMklpaUN1WU9rb0s0VTJuRUZsa0k1MzdLRmthVUlvTFhtX1JXblI0Y1N6UlFoUDBPQ1B3VmgzYWxhZWtqTHFuV2dEdQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b4bd3ba89657",
       "title": "아이도, 노인도 벅벅…이젠 긁지 마세요 - 헬스경향",
       "published": "2026-10-21T12:48:00+00:00",
@@ -638,18 +662,6 @@
         {
           "name": "의협신문",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pWEU1V1hFbGhtUHQzR0xPTkNKb010YkhwZXJDYU42V2ExdzJ1Tlk4WUNlY2VJbnlMMHFoejhpTkNXTFFpMl9GTzdLNHJnZ1ZRTVdCeUpTVTVfWHhJSkN2Zk9WQVdBMU1iME1zejJRalZHdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3611b1bdb3a8",
-      "title": "[사이언스샷] 멸종 도도새 복원에도 AI, 얼굴 결정하는 유전자 스위치 발견 - Chosunbiz",
-      "published": "2026-10-21T01:01:00+00:00",
-      "summary": "[사이언스샷] 멸종 도도새 복원에도 AI, 얼굴 결정하는 유전자 스위치 발견&nbsp;&nbsp;Chosunbiz",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjNaTFhNTy1zcTc5aWgzS2VteC1zVWwzaTJTamp4cE9fblZrTjdlbFhMMHZmbHBlenNkV2E2X3J0cUhjNnJ5bE1naERBQ3NmRXNnZ3JjXzN6VlVSaTFtallwc19JMFBxSlhhYTF6M0Z5LTNuTUpib1ZRVjJqV092WGZTaG9UWXp6N21TSdIBoAFBVV95cUxQVXVJektIUldVOTRDdlpTMzdFb1pNNTJuSmJtbGs2YWFXY0NRdzZmcUlGMVhfWmN4UFpLU2FEZE45cmRYc2JsanYtUGUwM09nZjZRUWR6SUpXT0JtVjdRbHFaaEpDYXBrQjFfVW1Qem1DY2ZhbTZQRi1IT3JJUURzUFpYSmFKLWJwNUMwR2JlQzZlUXRmTlA3RkN2SFphWldn?oc=5"
         }
       ]
     },
