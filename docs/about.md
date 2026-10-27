@@ -23,6 +23,10 @@ AI로 약물재창출 근거 검증을 가속화합니다 — 예측부터 근�
 통합하여, 연구자가 각 예측의 임상 근거 수준을 신속하게 확인할 수 있도록 합니다.
 </p>
 
+<a href="{{ '/drugs/' | relative_url }}">전체 의약품 보고서</a>, <a href="{{ '/methodology/' | relative_url }}">방법론</a>,
+<a href="{{ '/guide/' | relative_url }}">사용 안내</a>, <a href="{{ '/sources/' | relative_url }}">데이터 출처</a>,
+<a href="{{ '/downloads/' | relative_url }}">다운로드</a> 페이지에서 근거 등급별 보고서와 원본 데이터를 확인할 수 있습니다.
+
 ---
 
 ## 개발사 소개
