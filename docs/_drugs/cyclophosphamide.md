@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 240
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Cyclophosphamide: 예측 신규 적응증 골수성 백혈병 (Myeloid Leukemia) (근거 수준 L5)."
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Axitinib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206553/EE"
 ---
 

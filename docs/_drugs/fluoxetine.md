@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluoxetine"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Fluoxetine: 예측 신규 적응증 편집성 인격장애 (Paranoid Personality Disorder) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 없이 허가사항 PDF 링크만 있음)"
 ---
 

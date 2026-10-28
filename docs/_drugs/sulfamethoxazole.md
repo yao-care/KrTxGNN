@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 706
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Sulfamethoxazole: 예측 신규 적응증 급성 전염성 결막염 (Acute Contagious Conjunctivitis) (근거 수준 L5). 기존 적응증: 결막염(유행성 안염), 다래끼, 안검염(눈꺼풀의 짓무름), 눈의 가려움증"
 monitor_inn: "SULFAMETHOXAZOLE"
 predicted_indications: ["acute contagious conjunctivitis"]

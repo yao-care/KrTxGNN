@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 658
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Risdiplam: 예측 신규 적응증 여드름 (acne) (근거 수준 L5). 기존 적응증: 척수성 근위축증(SMA). 허가 적응증 원문은 허가 문서 링크로만 제공되어 세부 문구는 확인하지 못했습니다"
 monitor_inn: "Risdiplam"
 predicted_indications: ["acne (disease)"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Omalizumab: 예측 신규 적응증 기관지염 (근거 수준 L5). 기존 적응증: 허가증에는 적응증 본문 없이 허가 문서 링크만 있어 한국 허가 적응증은 확인되지 않았습니다. 약리학 자료상 사용례는 알레르기…"
 ---
 

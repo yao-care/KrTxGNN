@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Trihexyphenidyl"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Trihexyphenidyl: 예측 신규 적응증 주의력결핍 과잉행동장애 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 본문 대신 링크만 기재됨)"
 ---
 

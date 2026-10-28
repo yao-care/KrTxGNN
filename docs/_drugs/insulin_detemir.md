@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "INSULIN DETEMIR"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Insulin Detemir: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603934/EE"
 ---
 

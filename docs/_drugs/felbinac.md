@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Felbinac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "combined immunodeficiency due to moesin deficiency", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Felbinac: 예측 신규 적응증 브라키올미아-법랑질형성부전 증후군 (근거 수준 L5). 기존 적응증: 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통…"
 ---
 

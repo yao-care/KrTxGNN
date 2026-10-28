@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Progesterone: 예측 신규 적응증 무월경 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았고 허가사항 문서 링크만 있어 허가사항 원문 확인이 필요합니다"
 ---
 

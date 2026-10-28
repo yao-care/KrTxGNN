@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Cemiplimab: 예측 신규 적응증 담낭 선편평상피암 (gallbladder adenosquamous carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 있어 본문을 확인할 수 없습니다. 참고로 약리학 자료에는 피부 편평…"
 monitor_inn: "Cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]

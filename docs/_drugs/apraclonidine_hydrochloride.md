@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 79
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-12
+last_modified_at: 2026-10-28
 predicted_indications: []
 ---
 

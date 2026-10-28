@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tenoxicam"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tenoxicam: 예측 신규 적응증 합지증·단지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 이 보고서용으로 수집된 데이터에 허가 적응증 본문이 없고 허가증 링크만 있어 확인할 수 없음"
 ---
 

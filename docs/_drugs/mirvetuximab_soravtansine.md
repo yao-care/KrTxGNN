@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 520
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Mirvetuximab Soravtansine: 한국의 기존 용도 및 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---

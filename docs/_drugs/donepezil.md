@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 287
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Donepezil: 예측 신규 적응증 심인성 운동장애 (Psychogenic Movement Disorders) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트 미확인 (허가증은 PDF 링크로만 제공됨. 일반적으로 알츠하이머형 치매 치료제로 알려져 있음)"
 monitor_inn: "DONEPEZIL"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]

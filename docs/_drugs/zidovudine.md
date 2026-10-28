@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Zidovudine: 예측 신규 적응증 원숭이면역결핍바이러스 감염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가증에는 문서 링크만 있음)"
 ---
 

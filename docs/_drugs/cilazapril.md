@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "cilazapril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cilazapril: 예측 신규 적응증 원인이 불분명한 다요인성 폐고혈압 (pulmonary hypertension with unclear multifactorial mechanism) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300660/EE"
 ---
 

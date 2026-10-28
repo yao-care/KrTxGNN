@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 553
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Norepinephrine: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 확인 불가 (허가사항 참조)"
 monitor_inn: "norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "GOLIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Golimumab: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308672/EE"
 ---
 

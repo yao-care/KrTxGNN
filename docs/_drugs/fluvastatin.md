@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Fluvastatin: 예측 신규 적응증 HIV 감염증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
 ---
 

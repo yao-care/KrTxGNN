@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "frovatriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Frovatriptan: 예측 신규 적응증 위축피부증 벌레모양 (atrophoderma vermiculata) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200903830/EE"
 ---
 

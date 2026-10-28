@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 699
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Sorafenib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 PDF 링크로만 제공되어 이번 데이터에서 확인할 수 없습니다"
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]

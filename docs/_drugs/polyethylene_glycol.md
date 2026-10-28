@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 611
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Polyethylene Glycol: 예측 신규 적응증 선천성 어린선양 홍피증 (Congenital Ichthyosiform Erythroderma) (근거 수준 L5). 기존 적응증: 소아의 변비 증상 치료"
 monitor_inn: "polyethylene glycol"
 predicted_indications: ["congenital ichthyosiform erythroderma"]

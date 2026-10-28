@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "eosinophilic angiocentric fibrosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ribavirin: 예측 신규 적응증 만성 B형 간염 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트 없이 원문 링크만 제공됨)"
 ---
 

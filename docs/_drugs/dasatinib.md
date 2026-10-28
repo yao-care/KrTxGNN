@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Dasatinib: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606317/EE"
 ---
 

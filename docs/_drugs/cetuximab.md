@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "non-seminomatous lesion", "chondroid hamartoma", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Cetuximab: 예측 신규 적응증 관 또는 세관 증식 (근거 수준 L5). 기존 적응증: 한국 허가증에는 적응증 본문 없이 링크만 있어 확인되지 않음. 약리학 자료상 임상 용도는 EGFR 발현 전이성 대장직장암과…"
 ---
 

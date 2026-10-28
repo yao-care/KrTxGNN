@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Doxorubicin: 예측 신규 적응증 유잉육종 (근거 수준 L1). 기존 적응증: 확인 불가 (허가 적응증 본문 없음, 허가 문서 링크만 제공됨)"
 ---
 

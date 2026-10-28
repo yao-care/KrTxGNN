@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 356
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Fluocinonide: 예측 신규 적응증 알로페시아 뮤시노사 (Alopecia Mucinosa) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트는 데이터에 포함되지 않았습니다(허가증 문서 링크만 제공됨)"
 monitor_inn: "FLUOCINONIDE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"]

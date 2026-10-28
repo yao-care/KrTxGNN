@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 352
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Fluconazole: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되지 않음 (허가사항 참조)"
 monitor_inn: "FLUCONAZOLE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]

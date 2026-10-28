@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Methylprednisolone: 예측 신규 적응증 원형탈모증 (근거 수준 L3). 기존 적응증: 확인 불가 (허가 적응증 본문이 아닌 허가 문서 링크만 제공됨)"
 ---
 

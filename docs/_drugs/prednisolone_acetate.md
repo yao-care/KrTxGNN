@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PREDNISOLONE ACETATE"
 predicted_indications: ["chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Prednisolone Acetate: 예측 신규 적응증 만성 여포성 결막염 (근거 수준 L5). 기존 적응증: 치열·치핵의 아픔, 가려움, 부종(부기)…"
 ---
 

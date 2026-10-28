@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 304
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Elvitegravir: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 문구를 확인할 수 없음 (HIV-1 인테그라제 억제제로 알…"
 monitor_inn: "elvitegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]

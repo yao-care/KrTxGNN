@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Haloperidol: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 없음(허가증에는 허가사항 문서 링크만 있음)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "salmeterol"
 predicted_indications: ["respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Salmeterol: 예측 신규 적응증 호흡기 기형 (respiratory malformation) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400305/EE"
 ---
 

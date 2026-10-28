@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Aprepitant: 예측 신규 적응증 신장성 항이뇨 부적절 증후군 (nephrogenic syndrome of inappropriate antidiuresis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트 없음 (허가증 링크만 확인됨)"
 monitor_inn: "Aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]

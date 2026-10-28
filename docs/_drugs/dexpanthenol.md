@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 273
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Dexpanthenol: 예측 신규 적응증 항문직장 협착 (Anorectal Stricture) (근거 수준 L5). 기존 적응증: 감염 위험이 있는 상처(긁힌 상처, 베인 상처, 찢긴 상처, 화상, 피부염), 다리궤양, 욕창, 이차감염된 습진…"
 monitor_inn: "DEXPANTHENOL"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]

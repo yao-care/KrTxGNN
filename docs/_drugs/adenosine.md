@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Adenosine: 예측 신규 적응증 각차단 (obsolete bundle branch block) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 제공되어 본문 확인 불가 (한국 허가증 참조 필요)"
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block"]

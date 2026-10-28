@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 779
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Varenicline: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트 없음 (허가증에는 PDF 링크만 제공됨)"
 monitor_inn: "varenicline"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "alopecia", "open-angle glaucoma", "primary hereditary glaucoma", "headache disorder", "pulmonary hypertension"]

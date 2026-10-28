@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 326
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Etizolam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 아닌 허가 문서 링크만 확보됨)"
 monitor_inn: "ETIZOLAM"
 predicted_indications: ["insomnia (disease)"]

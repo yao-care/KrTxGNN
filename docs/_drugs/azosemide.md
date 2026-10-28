@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "AZOSEMIDE"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Azosemide: 예측 신규 적응증 특발성 구리 관련 간경변 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 본문 대신 링크만 있음)"
 ---
 

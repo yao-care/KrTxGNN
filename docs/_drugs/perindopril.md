@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 593
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Perindopril: 예측 신규 적응증 악성 고혈압성 신장질환 (Malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 원문이 이번 데이터에 수록되지 않음)"
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]

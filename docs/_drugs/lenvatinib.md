@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 468
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Lenvatinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증 문서 링크만 확인되고 본문 텍스트는 확보되지 않았습니다"
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]

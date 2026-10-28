@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TEMOZOLOMIDE"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Temozolomide: 예측 신규 적응증 마미총 종양 (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 문서 링크만 수록)"
 ---
 

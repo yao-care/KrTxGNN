@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 759
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Treprostinil: 예측 신규 적응증 폐동정맥 기형 (Pulmonary Arteriovenous Malformation) (근거 수준 L5). 기존 적응증: 폐동맥 고혈압(PAH). 허가증에는 원문 링크만 연결되어 있어 구체적 문구는 허가사항 원문에서 확인해야 합니다"
 monitor_inn: "TREPROSTINIL"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]

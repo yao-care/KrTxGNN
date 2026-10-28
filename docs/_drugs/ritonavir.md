@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "RITONAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ritonavir: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (근거 수준 L5). 기존 적응증: 허가 적응증 문구가 PDF 링크로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없음"
 ---
 

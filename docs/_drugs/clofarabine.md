@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 225
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Clofarabine: 예측 신규 적응증 골수성 백혈병 (Myeloid Leukemia) (근거 수준 L2). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요)"
 monitor_inn: "CLOFARABINE"
 predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation"]

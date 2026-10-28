@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Magnesium Carbonate: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501043/EE"
 ---
 

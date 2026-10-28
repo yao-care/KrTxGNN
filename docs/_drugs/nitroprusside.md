@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 550
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Nitroprusside: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 문구 확인 불가 (허가 문서 링크만 확인됨)"
 monitor_inn: "nitroprusside"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "alopecia", "congenital hypotrichosis milia", "diffuse alopecia areata", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease"]

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "LENALIDOMIDE"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Lenalidomide: 예측 신규 적응증 골수성 백혈병 (myeloid leukemia) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706896/EE"
 ---
 

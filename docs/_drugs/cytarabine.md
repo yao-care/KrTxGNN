@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CYTARABINE"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Cytarabine: 예측 신규 적응증 원발성 폐 림프종 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 원문이 링크로만 제공됨)"
 ---
 

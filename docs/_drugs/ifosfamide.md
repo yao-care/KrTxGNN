@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ifosfamide"
 predicted_indications: ["unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ifosfamide: 예측 신규 적응증 미분류 골수이형성증후군 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트 없이 허가사항 링크만 확인됨)"
 ---
 

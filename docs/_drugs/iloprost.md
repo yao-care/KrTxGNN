@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Iloprost: 예측 신규 적응증 단순 두피 박모증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801539/EE"
 ---
 

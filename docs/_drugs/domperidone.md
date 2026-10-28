@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 286
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Domperidone: 예측 신규 적응증 신장성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiur… (근거 수준 L5). 기존 적응증: 오심, 구토 증상의 완화"
 monitor_inn: "DOMPERIDONE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]

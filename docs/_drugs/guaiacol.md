@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GUAIACOL"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Guaiacol: 예측 신규 적응증 비강 질환 (근거 수준 L5). 기존 적응증: 설사, 체함, 묽은 변, 토사"
 ---
 

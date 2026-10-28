@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "dantrolene"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Dantrolene: 예측 신규 적응증 중등도 손 침범을 동반한 다중미세코어병 (moderate multiminicore disease with hand involvement) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199903365/EE"
 ---
 

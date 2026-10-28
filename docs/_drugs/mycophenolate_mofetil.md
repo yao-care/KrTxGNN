@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 532
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Mycophenolate Mofetil: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 이식 장기 거부반응 예방 (허가 적응증 원문은 허가증 링크로만 제공되어 문헌 기술을 참고함)"
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Pembrolizumab: 예측 신규 적응증 치은 섬유종증 (Gingival Fibromatosis) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 원문이 링크로만 제공되어 본문 확인이 불가합니다. 약리학 자료상 흑색종, 비소세포폐암…"
 monitor_inn: "PEMBROLIZUMAB"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]

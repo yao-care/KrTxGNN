@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 787
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Voglibose: 예측 신규 적응증 두피 단순 저모발증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 당뇨병 식후 고혈당 조절 (허가증 본문은 링크로만 확인되어 일반적으로 알려진 적응증 기준)"
 monitor_inn: "VOGLIBOSE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]

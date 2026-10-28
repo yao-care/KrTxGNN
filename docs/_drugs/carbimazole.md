@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 182
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Carbimazole: 예측 신규 적응증 갑상선호르몬 수용체 β 변이에 의한 갑상선호르몬 저항성 (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 허가 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없음 (항갑상선제)"
 monitor_inn: "CARBIMAZOLE"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]

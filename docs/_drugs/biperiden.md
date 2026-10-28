@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Biperiden"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Biperiden: 예측 신규 적응증 라스무센 아급성 뇌염 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 문구 대신 링크만 기재되어 있음)"
 ---
 

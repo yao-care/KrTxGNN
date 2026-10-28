@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Phenobarbital: 예측 신규 적응증 삼차신경 신생물 (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 문서 링크만 수록)"
 ---
 

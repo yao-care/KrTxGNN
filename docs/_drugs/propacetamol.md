@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 632
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Propacetamol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 확인되어 구체적인 내용은 허가사항을 참조해야 합니다"
 monitor_inn: "Propacetamol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "headache disorder"]

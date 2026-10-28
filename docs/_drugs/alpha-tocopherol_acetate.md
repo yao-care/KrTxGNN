@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "alpha-Tocopherol acetate"
 predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "immature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Alpha-Tocopherol Acetate: 예측 신규 적응증 약물 유발 골다공증 (근거 수준 L5). 기존 적응증: 노년기의 비타민 E 보급, 말초혈행장애 및 갱년기 시 어깨·목결림, 수족저림, 수족냉증 증상의 완화…"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Sulindac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "pseudoachondroplasia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome", "hypermobility of coccyx"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Sulindac: 예측 신규 적응증 말단중간이형성증 헌터-톰슨형 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문 없이 허가 문서 링크만 제공됨)"
 ---
 

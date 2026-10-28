@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 551
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Nitrous Oxide: 예측 신규 적응증 양성 전립선 비대증 (Benign Prostatic Hyperplasia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 허가사항 문서 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 의료용 마취·진통 가스…"
 monitor_inn: "NITROUS OXIDE"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]

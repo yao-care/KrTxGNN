@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Levothyroxine: 예측 신규 적응증 신장 저형성/무형성증 (근거 수준 L5). 기존 적응증: 이번 보고서에 정리된 데이터에는 허가 적응증 본문이 없고 허가사항 문서 링크만 있어 확인할 수 없습니다"
 ---
 

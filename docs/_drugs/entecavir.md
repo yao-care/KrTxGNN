@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 311
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Entecavir: 예측 신규 적응증 만성 C형 간염 (chronic hepatitis C virus infection) (근거 수준 L3). 기존 적응증: 허가 적응증 원문은 데이터에 포함되어 있지 않음 (허가증에는 문서 링크만 수록). 만성 B형 간염으로 알려져 있음"
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 316
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Erdafitinib: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트는 확인되지 않았습니다(허가증 링크만 제공됨). 허가사항 참조 필요"
 monitor_inn: "Erdafitinib"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]

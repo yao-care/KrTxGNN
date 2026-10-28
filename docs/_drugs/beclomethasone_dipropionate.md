@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 129
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Beclomethasone Dipropionate: 예측 신규 적응증 아토피 피부염 (Atopic Eczema) (근거 수준 L3). 기존 적응증: 확인 불가 (허가 적응증이 링크로만 제공되어 허가사항 원문 참조 필요)"
 monitor_inn: "BECLOMETHASONE DIPROPIONATE"
 predicted_indications: ["atopic eczema"]

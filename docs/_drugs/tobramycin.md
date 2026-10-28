@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tobramycin: 예측 신규 적응증 노출성 각막염 (근거 수준 L5). 기존 적응증: 허가 문서 링크만 있고 적응증 본문은 확인되지 않음 (제형은 점안액·주사제)"
 ---
 

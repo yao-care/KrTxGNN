@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "acetylsalicylic acid"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombotic disease", "thrombophilia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Acetylsalicylic Acid: 예측 신규 적응증 벌레먹은 모양 위축피부증 (atrophoderma vermiculata) (근거 수준 L5). 기존 적응증: 이 약은 심근경색, 뇌경색…"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Tegafur"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tegafur: 예측 신규 적응증 대장 종양 (근거 수준 L5). 기존 적응증: 허가 적응증 문구 확인 불가 (허가증에 PDF 링크만 수록)"
 ---
 

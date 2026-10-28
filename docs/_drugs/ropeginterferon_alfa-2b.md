@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 668
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ropeginterferon Alfa-2B: 예측 신규 적응증 라우브리-페치 증후군 (Laubry-Pezzi syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
 monitor_inn: "ROPEGINTERFERON ALFA-2B"
 predicted_indications: ["Laubry-Pezzi syndrome", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "partial deletion of the long arm of chromosome 22", "orofacial clefting syndrome", "pulmonary valve disease"]

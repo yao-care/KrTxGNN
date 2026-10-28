@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ferrous Fumarate: 예측 신규 적응증 비증후군성 식도 기형 (non-syndromic esophageal malformation) (근거 수준 L5). 기존 적응증: 철 결핍성 빈혈"
 monitor_inn: "FERROUS FUMARATE"
 predicted_indications: ["non-syndromic esophageal malformation"]

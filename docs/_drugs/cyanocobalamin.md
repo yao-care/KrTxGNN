@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Cyanocobalamin: 예측 신규 적응증 비오틴 대사 질환 (Biotin Metabolic Disease) (근거 수준 L5). 기존 적응증: 임신·수유기, 발육기, 노년기의 비타민 D 보급, 뼈·이의 발육불량, 구루병의 예방 (마이칼큐정 허가 기준)"
 monitor_inn: "CYANOCOBALAMIN"
 predicted_indications: ["biotin metabolic disease"]

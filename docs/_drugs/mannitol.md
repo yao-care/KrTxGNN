@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Mannitol: 예측 신규 적응증 신성 항이뇨 부적절 증후군 (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문 대신 식약처 문서 링크만 수록되어 있어 구체적인 적응증 문구는 확인되지 않음"
 ---
 

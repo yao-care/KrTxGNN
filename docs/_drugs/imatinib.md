@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 416
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Imatinib: 예측 신규 적응증 심장 섬유육종 (heart fibrosarcoma) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트는 확인되지 않음 (허가증에 문서 링크만 수록)"
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]

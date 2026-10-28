@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 224
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Clobetasone: 예측 신규 적응증 원발성 피부 T세포 림프종 (primary cutaneous T-cell lymphoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았으며, 허가 문서 링크만 확인됨"
 monitor_inn: "Clobetasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "Sezary syndrome", "primary cutaneous B-cell lymphoma", "granulomatous slack skin disease", "Crohn's colitis", "adrenocortical insufficiency", "primary cutaneous T-cell non-Hodgkin lymphoma", "nephrotic syndrome", "cystic teratoma", "spinal cord dermoid cyst"]

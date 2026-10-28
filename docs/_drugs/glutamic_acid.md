@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 386
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Glutamic Acid: 예측 신규 적응증 폐경 후 골다공증 (postmenopausal osteoporosis) (근거 수준 L5). 기존 적응증: 전립선비대에 의한 배뇨곤란, 잔뇨 및 잔뇨감, 빈뇨"
 monitor_inn: "GLUTAMIC ACID"
 predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated osteoporosis", "primary hereditary glaucoma", "gastroparesis (disease)"]

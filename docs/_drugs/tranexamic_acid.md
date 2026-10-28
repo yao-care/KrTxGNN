@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 752
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Tranexamic Acid: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 기미"
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]

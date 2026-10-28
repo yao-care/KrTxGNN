@@ -5,7 +5,7 @@ layout: default
 title: Bimekizumab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 148
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Bimekizumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Bimekizumab"
 predicted_indications: []

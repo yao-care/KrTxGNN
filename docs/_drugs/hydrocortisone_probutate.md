@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 404
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Hydrocortisone Probutate: 예측 신규 적응증 홍채 질환 (Iris Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가 문서 링크만 확보됨). 피부 외용 크림제로 허가됨"
 monitor_inn: "HYDROCORTISONE PROBUTATE"
 predicted_indications: ["iris disease"]

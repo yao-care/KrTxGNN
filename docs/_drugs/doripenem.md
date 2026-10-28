@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Doripenem"
 predicted_indications: ["primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Doripenem: 예측 신규 적응증 원발성 문맥 혈전증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 정보에는 문서 링크만 있음)"
 ---
 

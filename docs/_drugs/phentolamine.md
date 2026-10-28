@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Phentolamine"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "blue toe syndrome", "angiodysplasia of stomach", "hemangioendothelioma", "atheroembolism of kidney", "idiopathic spontaneous coronary artery dissection"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Phentolamine: 예측 신규 적응증 내장 석회화 방어 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200196/EE"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Sulprostone"
 predicted_indications: ["immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetic retinopathy"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Sulprostone: 예측 신규 적응증 미성숙 백내장 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 본문 없이 링크만 기재됨)"
 ---
 

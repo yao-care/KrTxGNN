@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Cefuroxime"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Cefuroxime: 예측 신규 적응증 다클론성 과점성 증후군 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았고 허가사항 문서 링크만 있습니다. 이 보고서에서는 기존 적응증을 확정하지 않습니다"
 ---
 

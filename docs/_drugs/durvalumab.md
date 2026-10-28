@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Durvalumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Durvalumab: 예측 신규 적응증 자궁인대 선암종 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 문서 링크만 제공되고 적응증 본문이 없음)"
 ---
 

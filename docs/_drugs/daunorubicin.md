@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Daunorubicin"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Daunorubicin: 예측 신규 적응증 호지킨 림프종 (근거 수준 L5). 기존 적응증: 허가 적응증 본문을 확인할 수 없음 (허가증에는 식약처 문서 링크만 수록)"
 ---
 

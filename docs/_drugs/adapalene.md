@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Adapalene: 예측 신규 적응증 혈장 아연 상승 (zinc, elevated plasma) (근거 수준 L5). 기존 적응증: 여드름(심상성 좌창) (허가증에는 적응증 본문 대신 문서 링크만 수록되어 있어, 약물의 일반적 용도를 기준으로 기재)"
 monitor_inn: "ADAPALENE"
 predicted_indications: ["zinc, elevated plasma"]

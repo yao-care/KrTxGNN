@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "OXCARBAZEPINE"
 predicted_indications: ["restless legs syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Oxcarbazepine: 예측 신규 적응증 하지불안 증후군 (restless legs syndrome) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008778/EE"
 ---
 

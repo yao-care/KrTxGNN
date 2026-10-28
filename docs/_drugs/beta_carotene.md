@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 141
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Beta Carotene: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 육체피로, 임신·수유기, 병중·병후의 체력 저하 시 비타민 A, B1, B2, B6, C의 보급과 신경통, 근육통, 관절통…"
 monitor_inn: "beta carotene"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "immature cataract"]

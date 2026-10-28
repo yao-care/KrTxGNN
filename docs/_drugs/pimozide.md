@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 603
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Pimozide: 예측 신규 적응증 발모광 (Trichotillomania) (근거 수준 L3). 기존 적응증: 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문 확인 필요)"
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]

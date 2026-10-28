@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 103
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Atropine: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 확인되어 구체적 내용을 요약할 수 없음 (주사제 및 점안제로 허가)"
 monitor_inn: "ATROPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]

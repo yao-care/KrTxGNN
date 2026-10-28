@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Molsidomine"
 predicted_indications: ["alopecia", "vascular disease", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "idiopathic spontaneous coronary artery dissection", "venous thoracic outlet syndrome", "visceral calciphylaxis", "neurogenic thoracic outlet syndrome", "hemangioendothelioma", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Molsidomine: 예측 신규 적응증 탈모 (근거 수준 L5). 기존 적응증: 허가 문서가 링크로만 제공되어 허가 적응증 문구를 확인하지 못했습니다. 문헌상으로는 관상동맥질환 치료제로 기술됩니다"
 ---
 

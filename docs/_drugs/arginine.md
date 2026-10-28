@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 84
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Arginine: 예측 신규 적응증 위마비 (Gastroparesis) (근거 수준 L5). 기존 적응증: 간질환의 보조 치료"
 monitor_inn: "ARGININE"
 predicted_indications: ["gastroparesis (disease)"]

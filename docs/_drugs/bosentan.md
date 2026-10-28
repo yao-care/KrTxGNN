@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 153
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Bosentan: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에 PDF 링크만 있음). 문헌상 폐동맥 고혈압(PAH)에 사용되는 약물임"
 monitor_inn: "bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]

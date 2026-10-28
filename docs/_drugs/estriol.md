@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 321
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Estriol: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가증 문서 링크만 제공됨)"
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]

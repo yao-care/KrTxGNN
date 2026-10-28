@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Desloratadine: 예측 신규 적응증 비강 질환 (nasal cavity disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008952/EE"
 ---
 

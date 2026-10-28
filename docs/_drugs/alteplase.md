@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ALTEPLASE"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Alteplase: 예측 신규 적응증 헤파린 보조인자 2 결핍 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504213/EE"
 ---
 

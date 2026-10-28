@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 720
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Telbivudine: 예측 신규 적응증 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 만성 B형 간염 (허가증의 적응증 원문은 링크로만 제공되어 문헌에 기재된 허가 용도를 기준으로 함)"
 monitor_inn: "TELBIVUDINE"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "disorder of phenylalanine metabolism", "disorder of tyrosine metabolism", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"]

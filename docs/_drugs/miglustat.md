@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Miglustat: 예측 신규 적응증 치명적 경과의 상염색체 어린선 증후군 (근거 수준 L5). 기존 적응증: 허가 문서가 링크로만 제공되어 적응증 본문을 확인할 수 없습니다. 약리 데이터베이스에는 고셰병 치료에 사용된다고 기재되어 있…"
 ---
 

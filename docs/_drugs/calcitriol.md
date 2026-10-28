@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Calcitriol: 예측 신규 적응증 비타민 D 결핍 (obsolete vitamin D deficiency, 폐기된 질환 용어) (근거 수준 L5)."
 monitor_inn: "CALCITRIOL"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]

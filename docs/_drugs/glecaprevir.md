@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 379
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Glecaprevir: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L5). 기존 적응증: C형 간염 (허가증에는 적응증 본문 대신 허가 문서 링크만 기재되어 있음)"
 monitor_inn: "GLECAPREVIR"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]

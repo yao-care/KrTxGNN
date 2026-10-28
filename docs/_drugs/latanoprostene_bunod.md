@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Latanoprostene Bunod: 예측 신규 적응증 내장 칼시필락시스 (Visceral calciphylaxis) (근거 수준 L5). 기존 적응증: 개방각 녹내장 및 고안압증 (허가증에는 문서 링크만 기재되어 있어, 약물 정보에 근거해 요약함)"
 monitor_inn: "LATANOPROSTENE BUNOD"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]

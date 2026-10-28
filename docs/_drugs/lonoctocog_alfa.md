@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 482
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Lonoctocog Alfa: 예측 신규 적응증 가성 폰빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가증에 첨부 문서 링크만 등록됨). 제품 특성상 혈액응고인자 VIII 제제입니다"
 monitor_inn: "LONOCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]

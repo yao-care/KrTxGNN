@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "tiotropium"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Tiotropium: 예측 신규 적응증 호흡기 기형 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문 없이 허가문서 링크만 제공됨)"
 ---
 

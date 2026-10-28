@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 196
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ceftazidime: 예측 신규 적응증 고아밀라제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
 monitor_inn: "CEFTAZIDIME"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "blood group incompatibility", "Peptostreptococcus infectious disease"]

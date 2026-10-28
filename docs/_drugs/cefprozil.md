@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 9
 monitor_inn: "cefprozil"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cefprozil: 예측 신규 적응증 요로감염 (urinary tract infection (disease)) (근거 수준 L1). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404706/EE"
 ---
 

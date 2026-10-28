@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 618
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Potassium Iodide: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 이번 자료에 포함되지 않아 확인할 수 없음 (허가증 9건 모두 허가정보 링크만 제공)"
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]

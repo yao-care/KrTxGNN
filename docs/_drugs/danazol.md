@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Danazol: 예측 신규 적응증 무월경 (amenorrhea (disease)) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401028/EE"
 ---
 

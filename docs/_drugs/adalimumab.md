@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ADALIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Adalimumab: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402438/EE"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Lidocaine: 예측 신규 적응증 점상 상피성 각결막염 (근거 수준 L5). 기존 적응증: 남성 성기 촉각의 예민성 감소 (그 외 접촉피부염 가려움, 치열·치핵 증상 완화 등)"
 ---
 

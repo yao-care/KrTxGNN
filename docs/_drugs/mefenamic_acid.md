@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 497
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Mefenamic Acid: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며, 적응증 본문 텍스트는 확인되지 않음"
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]

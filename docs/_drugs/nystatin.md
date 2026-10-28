@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 556
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Nystatin: 예측 신규 적응증 외음질염 (Vulvovaginitis) (근거 수준 L4). 기존 적응증: 확인 불가 (허가 적응증이 허가증 PDF 링크로만 제공되어 본문을 확인하지 못했습니다)"
 monitor_inn: "Nystatin"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]

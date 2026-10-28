@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ramipril: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 데이터에 포함되지 않음)"
 ---
 

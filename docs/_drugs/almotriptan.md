@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "almotriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Almotriptan: 예측 신규 적응증 위축성 벌레 모양 피부증 (atrophoderma vermiculata) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802188/EE"
 ---
 

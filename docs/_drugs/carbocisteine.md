@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Carbocisteine: 예측 신규 적응증 통풍 (Gout) (근거 수준 L5). 기존 적응증: 급·만성기관지염, 기관지천식, 기관지확장증, 인두염의 객담(가래) 배출곤란 및 만성부비동염의 배농"
 monitor_inn: "CARBOCISTEINE"
 predicted_indications: ["gout"]

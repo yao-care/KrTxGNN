@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 461
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Larotrectinib: 예측 신규 적응증 다발성 내분비 종양 (Multiple Endocrine Neoplasia) (근거 수준 L3). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요)"
 monitor_inn: "Larotrectinib"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]

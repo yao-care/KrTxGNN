@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Procyclidine"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "transaldolase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "fructose-1,6-bisphosphatase deficiency"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Procyclidine: 예측 신규 적응증 라스무센 아급성 뇌염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문을 확인할 수 없음 (허가 문서 링크만 제공됨)"
 ---
 

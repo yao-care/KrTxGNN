@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Ezetimibe: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없습니다"
 ---
 

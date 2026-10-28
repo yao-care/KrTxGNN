@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 697
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Sodium Fluoride: 예측 신규 적응증 후두개염 (Epiglottitis) (근거 수준 L5). 기존 적응증: 치아의 미백 (F-18 주사제는 허가 문서 링크만 제공되어 적응증 본문 확인 불가)"
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]

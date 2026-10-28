@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Hemin: 예측 신규 적응증 혈소판감소성 자반증 (Thrombocytopenic Purpura) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 구체적인 문구를 확인할 수 없음 (MFDS 허가 문서 참조)"
 monitor_inn: "Hemin"
 predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]

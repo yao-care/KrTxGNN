@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Diclofenac: 예측 신규 적응증 두피 단순 저모발증 (근거 수준 L5). 기존 적응증: 치은염, 구내염, 인두염 등 구강인두의 염증, 치과 보존치료 또는 발치 후 염증 완화 (그 밖에 골관절염, 힘줄염…"
 ---
 

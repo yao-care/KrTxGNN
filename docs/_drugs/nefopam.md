@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Nefopam: 예측 신규 적응증 두개골 유합증 백내장 (craniostenosis cataract) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601070/EE"
 ---
 

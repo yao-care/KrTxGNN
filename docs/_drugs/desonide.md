@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desonide"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Desonide: 예측 신규 적응증 성대 용종 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 문서 링크만 있고 본문 텍스트가 없음)"
 ---
 

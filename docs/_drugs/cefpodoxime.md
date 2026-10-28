@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "cefpodoxime"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Cefpodoxime: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 첨부 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조)"
 ---
 
