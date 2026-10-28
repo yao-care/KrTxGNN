@@ -4,17 +4,17 @@ title: Chlorthalidone
 parent: 모델 예측만 (L5)
 nav_order: 207
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Chlorthalidone: 예측 신규 적응증 원발성 유전성 녹내장 (Primary hereditary glaucoma) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문이 없음. 일반적으로 고혈압·부종 치료제)"
 monitor_inn: "CHLORTHALIDONE"
-predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
+predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
 ---
 
 # Chlorthalidone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "m
 
 </div>
 
-## Chlorthalidone: 고혈압에서 녹내장으로
+## Chlorthalidone: 고혈압에서 원발성 유전성 녹내장으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **원발성 유전성 녹내장(Primary hereditary glaucoma)**�
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문이 없음. 일반적으로 고혈압·부종 치료제) |
 | 예측 신규 적응증 | 원발성 유전성 녹내장 (Primary hereditary glaucoma) |
-| TxGNN 예측 점수 | 99.92% |
+| TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 모델은 **원발성 유전성 녹내장(Primary hereditary glaucoma)**�
 
 녹내장과의 연관성은 안압 조절에 관여하는 방수 역학이나 이온·체액 수송을 통한 간접 영향 정도로만 추정할 수 있습니다. 이는 가설 수준이며, 티아지드 유사 이뇨제는 확립된 녹내장 치료제가 아닙니다. 점수가 높더라도 이는 모델 예측일 뿐, 실제 근거로 이어지지 않았습니다.
 
-참고로 같은 예측 목록에서 상대적으로 가장 근거가 있는 항목은 **만성 폐성심(chronic pulmonary heart disease)**입니다(점수 99.82%, 근거 수준 L4). 울혈성 심부전에서 이뇨 효과를 보고한 1967년 문헌이 있으나, 간접적이고 오래된 자료입니다.
+참고로 같은 예측 목록에서 상대적으로 가장 근거가 있는 항목은 **만성 폐성심(chronic pulmonary heart disease)**입니다(점수 0.9982, 근거 수준 L4). 울혈성 심부전에서 이뇨 효과를 보고한 1967년 문헌이 있으나, 간접적이고 오래된 자료입니다.
 
 ## 임상시험 근거
 

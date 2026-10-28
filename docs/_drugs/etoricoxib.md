@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Etoricoxib
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 330
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Etoricoxib: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 류마티스 관절염, 골관절염, 만성 요통, 강직성 척추염, 급성 통증, 통풍 (약리학 자료 기준)"
 monitor_inn: "Etoricoxib"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "benign prostatic hyperplasia (disease)", "kyphoscoliotic heart disease", "headache disorder", "trigeminal autonomic cephalalgia"]
 ---
 
 # Etoricoxib
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 |------|------|
 | 기존 적응증 | 류마티스 관절염, 골관절염, 만성 요통, 강직성 척추염, 급성 통증, 통풍 (약리학 자료 기준) |
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
-| TxGNN 예측 점수 | 99.90% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9990 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 11건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -111,7 +111,7 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 **결정: Hold (연구 질문 단계)**
 
 **사유:**
-편두통 예측은 TxGNN 점수(99.90%)가 높지만, 직접적인 임상시험이 없고 문헌도 간접적이거나 전임상 수준입니다. 허가사항의 경고·금기 정보도 확보되지 않아 안전성 검토를 진행할 수 없습니다.
+편두통 예측은 TxGNN 점수(0.9990)가 높지만, 직접적인 임상시험이 없고 문헌도 간접적이거나 전임상 수준입니다. 허가사항의 경고·금기 정보도 확보되지 않아 안전성 검토를 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
 - 식약처 허가사항(경고, 금기, 적응증) 확인 및 분석

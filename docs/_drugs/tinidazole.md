@@ -48,9 +48,9 @@ TxGNN 모델은 **폐경 후 위축성 질염(postmenopausal atrophic vaginitis)
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 기재되어 있어 이 보고서에서 확인하지 못했습니다. 허가사항 확인이 필요합니다. |
 | 예측 신규 적응증 | 폐경 후 위축성 질염 (postmenopausal atrophic vaginitis) |
-| TxGNN 예측 점수 | 99.93% |
+| TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 

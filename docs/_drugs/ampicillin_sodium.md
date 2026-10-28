@@ -8,6 +8,7 @@ nav_order: 72
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ampicillin Sodium
@@ -53,7 +54,7 @@ Ampicillin Sodium은 페니실린계 광역항생제로, 세균 감염 치료에
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 미포함) |
 | TxGNN 예측 점수 | 없음 |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | ✗ 미시판 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

@@ -4,17 +4,17 @@ title: Epinephrine
 parent: 모델 예측만 (L5)
 nav_order: 315
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Epinephrine: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 포함되어 있지 않아 확인 불가 (허가사항 PDF 링크만 제공됨)"
 monitor_inn: "EPINEPHRINE"
-predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
+predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 ---
 
 # Epinephrine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **4** 건
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 포함되어 있지 않아 확인 불가 (허가사항 PDF 링크만 제공됨) |
 | 예측 신규 적응증 | 폐쇄성 폐질환 (Obstructive Lung Disease) |
-| TxGNN 예측 점수 | 99.71% |
-| 근거 수준 | L1 (완료된 Phase 3 임상시험 4건 있음. 단, 아래 참고) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9971 |
+| 근거 수준 | L5 (완료된 Phase 3 임상시험 4건 있음. 단, 아래 참고) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 8건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -132,9 +132,9 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 
 | 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 권장 |
 |------|-----------|-----------|----------|------|
-| 2 | 음식 의존성 운동 유발 아나필락시스 | 99.57% | L4 | Research Question |
-| 3 | Rienhoff 증후군 | 99.57% | L5 | Hold |
-| 4 | 호흡기 기형 | 99.56% | L3 | Research Question |
+| 2 | 음식 의존성 운동 유발 아나필락시스 | 0.9957 | L5 | Research Question |
+| 3 | Rienhoff 증후군 | 0.9957 | L5 | Hold |
+| 4 | 호흡기 기형 | 0.9956 | L3 | Research Question |
 
 - **음식 의존성 운동 유발 아나필락시스**: 아나필락시스의 1차 응급 치료제라는 점에서 기전 연관성이 강하나, 해당 아형에 대한 임상시험은 없고 문헌은 리뷰와 증례 중심입니다.
 - **Rienhoff 증후군**: 임상시험과 문헌이 없고 기전적 근거도 불분명하여 모델 예측만 존재합니다.

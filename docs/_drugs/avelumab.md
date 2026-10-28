@@ -4,17 +4,17 @@ title: Avelumab
 parent: 모델 예측만 (L5)
 nav_order: 108
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Avelumab: 예측 신규 적응증 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 원문은 확인되지 않음 (후보별 근거 설명에서는 메르켈세포암, 요로상피암 유지요법이 언급됨)"
+indication_count: 9
 monitor_inn: "Avelumab"
-predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
+predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
+last_modified_at: 2026-10-27
+description: "Avelumab: 예측 신규 적응증 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901720/EE"
 ---
 
 # Avelumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +33,60 @@ predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroen
 
 </div>
 
-## Avelumab: 허가 적응증에서 인간 헤르페스바이러스 8형 관련 종양으로
+## Avelumab: PD-L1 항체 → 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Avelumab은 항 PD-L1 항체로, 한국에서 허가를 받아 시판 중입니다. 다만 허가증에 기재된 적응증은 원문이 아닌 허가 문서 링크로만 제공되어 구체적인 적응증 문구는 확인되지 않았습니다.
-TxGNN 모델은 **인간 헤르페스바이러스 8형 관련 종양(human herpesvirus 8-related tumor)**에 효과가 있을 수 있다고 예측하지만(점수 99.97%), 현재 이를 직접 지지하는 **임상시험은 0건, 문헌도 0편**입니다.
+Avelumab은 PD-L1을 표적으로 하는 항체 의약품입니다. TxGNN 모델은 **인간 헤르페스바이러스 8형 관련 종양(human herpesvirus 8-related tumor)**에 효과가 있을 수 있다고 예측합니다. 다만 현재 이를 직접 뒷받침하는 임상시험이나 문헌은 확인되지 않았으며, 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되며 적응증 원문은 확인되지 않음 (후보별 근거 설명에서는 메르켈세포암, 요로상피암 유지요법이 언급됨) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901720/EE |
 | 예측 신규 적응증 | 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor) |
-| TxGNN 예측 점수 | 99.97% |
+| TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 Avelumab은 PD-L1을 표적으로 하는 항체 의약품이며, 면역관문 차단을 통해 T세포의 항종양 반응을 회복시키는 방식으로 작용합니다.
+현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 Avelumab은 PD-L1을 차단하는 항체로, 종양이 면역 반응을 회피하는 경로를 풀어주는 면역관문억제제입니다.
 
-HHV-8 관련 종양(카포시 육종, 원발성 삼출 림프종 등)은 PD-L1 발현과 바이러스 유래 면역 회피를 보일 수 있어, 면역관문 차단이 생물학적으로 가능성 있는 접근입니다. 다른 PD-1/PD-L1 계열 약물에서 카포시 육종에 대한 활성이 보고된 바 있습니다.
+인간 헤르페스바이러스 8형 관련 종양(카포시 육종, 원발성 삼출액 림프종 등)은 PD-L1 발현과 바이러스에 의한 면역 회피가 관찰될 수 있습니다. 따라서 면역관문 차단이 생물학적으로 가능성이 있는 접근입니다. 다른 PD-1/PD-L1 계열 약물에서 카포시 육종에 대한 활성이 보고된 바도 있습니다.
 
-다만 이번에 정리된 자료에는 Avelumab 자체의 임상시험이나 문헌이 없습니다. 높은 TxGNN 점수는 모델 예측일 뿐이므로 해석에 주의가 필요합니다.
+그러나 이번에 정리한 데이터에는 Avelumab에 대한 임상시험이나 문헌이 없습니다. 높은 TxGNN 점수(0.9997)는 모델 예측일 뿐이며, 실제 효능을 입증하는 근거가 아닙니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201901720 | 바벤시오주(아벨루맙) | 주사제 (바이알) | 허가 문서 링크로만 제공되어 적응증 원문 확인 불가 |
-
-제조사는 머크(주)입니다.
+| 201901720 | 바벤시오주(아벨루맙) | 주사제 (바이알, 맑고 무색 내지 미황색 액체) | 적응증 본문 미기재 (허가 문서 링크만 확인됨) |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 아래 3종과 Major 등급 상호작용이 보고되었습니다 (DDInter).
+- **약물 상호작용**: 다음 3개 약물과 주요(Major) 등급 상호작용이 보고되어 있습니다.
   - Lenalidomide
   - Pomalidomide
   - Thalidomide
 
-그 외 안전성 정보(경고, 금기)는 허가사항을 참조하세요.
-
-## 기타 예측 후보 요약
-
-상위 후보들도 모두 직접적인 임상시험과 문헌이 없습니다.
-
-| 순위 | 예측 질환 | TxGNN 점수 | 근거 수준 | 평가 |
-|------|---------|-----------|---------|------|
-| 2 | 중이 신경내분비종양 | 99.97% | L5 | 메르켈세포암과 느슨한 개념적 연관만 있고 기전적 연결은 약함 |
-| 3 | 악성 피부 과립세포종 | 99.97% | L5 | 피부 악성종양이라는 점에서 느슨한 근거만 있음. PD-L1 의존성은 불명확 |
-| 4 | 외배엽중간엽종 | 99.97% | L5 | 면역관문 관련성이 확립되지 않음 |
-| 5–8 | 아데노신 탈아미노효소 결핍, 망상 이형성증, 면역적혈구골수 형성부전, 비중증 복합 면역결핍 | 99.92–99.95% | L5 | 선천성 면역결핍/조혈 질환으로, 기전상 타당성이 낮고 면역 관련 이상반응 우려가 있어 그래프 기반 인공 신호일 가능성이 높음 |
-| 9 | 전립선 요도 요로상피암 | 99.92% | L4 | 요로상피암 유지요법(JAVELIN Bladder 100, 3상)에서 외삽한 간접 근거. 해당 부위가 임상시험 대상에 포함되었는지 확인 필요 |
-| 10 | 신우 육종양 이행세포암 | 99.91% | L4 | 상부 요로상피암 범주로 외삽 가능하고 육종양 변이는 PD-L1 발현이 높을 수 있으나, 해당 조직형에 대한 근거는 없음 |
-
-9순위와 10순위는 기존 허가 적응증과 기전이 직접 연결되어, 1순위 후보보다 후속 연구 우선순위가 높을 수 있습니다.
+그 밖의 경고 및 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-1순위 후보인 HHV-8 관련 종양은 기전상 가능성은 있으나, 임상시험과 문헌이 없어 모델 예측에만 의존하고 있습니다(L5). 허가사항의 경고·금기와 작용 기전 데이터가 확보되지 않아 안전성 검토 단계로 넘어갈 수 없습니다.
+이 예측을 직접 뒷받침하는 임상시험과 문헌이 없어 근거 수준이 L5(모델 예측만 존재)입니다. 기전상 가능성은 있으나 아직 검증된 바가 없습니다.
 
 **진행하려면 필요한 것:**
-- 허가증 문서(MFDS 첨부문서)를 내려받아 적응증, 경고, 금기 정보 확보
-- 작용 기전 데이터 보완 (DrugBank 조회)
-- HHV-8 관련 종양(카포시 육종, 원발성 삼출 림프종 등)에 대한 PD-1/PD-L1 억제제 임상시험 및 문헌 검색
-- 요로상피암 하위 유형(전립선 요도, 신우 육종양 변이)은 JAVELIN Bladder 100 시험 대상군에 포함되었는지 확인
-- 렌날리도마이드, 포말리도마이드, 탈리도마이드와의 병용 가능성 검토
+- 인간 헤르페스바이러스 8형 관련 종양(카포시 육종 등)에서 Avelumab을 직접 평가한 임상시험 및 문헌 확보
+- 허가 적응증 본문, 경고 및 금기 등 허가사항 정보 확보
+- 상세한 작용 기전(MOA) 데이터 보완
+- 면역 관련 이상반응을 포함한 안전성 모니터링 계획 수립
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

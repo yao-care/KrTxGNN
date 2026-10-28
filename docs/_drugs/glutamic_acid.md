@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Glutamic Acid
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 386
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Glutamic Acid: 예측 신규 적응증 폐경 후 골다공증 (postmenopausal osteoporosis) (근거 수준 L5). 기존 적응증: 전립선비대에 의한 배뇨곤란, 잔뇨 및 잔뇨감, 빈뇨"
@@ -14,7 +14,7 @@ predicted_indications: ["postmenopausal osteoporosis", "pregnancy associated ost
 # Glutamic Acid
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **4** 건
+근거 수준: **L4** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **폐경 후 골다공증(postmenopausal osteoporosis)**에 효�
 |------|------|
 | 기존 적응증 | 전립선비대에 의한 배뇨곤란, 잔뇨 및 잔뇨감, 빈뇨 |
 | 예측 신규 적응증 | 폐경 후 골다공증 (postmenopausal osteoporosis) |
-| TxGNN 예측 점수 | 99.34% |
+| TxGNN 예측 점수 | 0.9934 |
 | 근거 수준 | L4 (전임상·기전 수준의 간접 근거만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 10건 |
 | 권장 결정 | Hold (추가 연구가 필요한 연구 질문 단계) |
 

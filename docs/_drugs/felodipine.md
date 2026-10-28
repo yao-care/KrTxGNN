@@ -4,7 +4,7 @@ title: Felodipine
 parent: 모델 예측만 (L5)
 nav_order: 341
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Felodipine: 예측 신규 적응증 원인 불명확한 다인성 폐고혈압 (pulmonary hypertension with unclear multifactorial… (근거 수준 L5). 기존 적응증: 고혈압 (한국 허가 적응증 원문은 데이터에 텍스트로 포함되지 않아 허가사항 문서 확인 필요)"
 monitor_inn: "FELODIPINE"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 # Felodipine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **7** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 
 </div>
 
-## 펠로디핀: 고혈압에서 폐고혈압(원인 불명확한 다인성)으로
+## 펠로디핀: 고혈압에서 원인 불명확한 다인성 폐고혈압으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -48,9 +48,9 @@ TxGNN 모델은 **원인이 불명확한 다인성 폐고혈압(pulmonary hypert
 |------|------|
 | 기존 적응증 | 고혈압 (한국 허가 적응증 원문은 데이터에 텍스트로 포함되지 않아 허가사항 문서 확인 필요) |
 | 예측 신규 적응증 | 원인 불명확한 다인성 폐고혈압 (pulmonary hypertension with unclear multifactorial mechanism) |
-| TxGNN 예측 점수 | 99.91% |
+| TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -107,7 +107,6 @@ TxGNN 모델은 **원인이 불명확한 다인성 폐고혈압(pulmonary hypert
 - 폐동맥 혈류역학을 평가한 임상시험 또는 임상 문헌
 
 **참고: 같은 약물의 다른 예측 적응증**
-- **프린츠메탈 협심증(Prinzmetal angina)**: 이 약물의 예측 중 근거가 가장 강합니다(근거 수준 L2, 권장 결정 Proceed with Guardrails). 펠로디핀 대 니페디핀 비교 연구와 에르고노빈 유발 허혈 예방 연구 등 임상 연구가 있습니다. 다만 소규모의 1989~1995년 연구이고 Phase 3 RCT로 확인되지 않았으며 등록 임상시험도 없어, 현대적 확증 연구가 필요합니다.
 - **폐질환·저산소증에 의한 폐고혈압**: 근거 수준 L4로, 전임상·기전 연구만 있어 Hold입니다.
 - **만성 폐성심**: 근거 수준 L3로, 소규모 혈역학 연구만 있어 추가 연구가 필요합니다.
 ## 면책 조항

@@ -8,6 +8,7 @@ nav_order: 74
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Anagrelide Hydrochloride
@@ -53,7 +54,7 @@ TxGNN 모델의 신규 적응증 예측이 아직 생성되지 않아 재창출 
 | 예측 신규 적응증 | 없음 (TxGNN 예측 미생성) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (예측 미생성, 평가 불가) |
-| 시판 현황 | 미상시 (Not marketed) |
+| 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 

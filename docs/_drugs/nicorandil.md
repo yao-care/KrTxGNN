@@ -4,17 +4,17 @@ title: Nicorandil
 parent: 중등도 근거 (L3-L4)
 nav_order: 544
 evidence_level: L4
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Nicorandil: 예측 신규 적응증 양성 전립선 비대증 (Benign Prostatic Hyperplasia) (근거 수준 L4). 기존 적응증: 협심증 (만성 안정형 협심증)"
+description: "Nicorandil: 예측 신규 적응증 양성 전립선 비대증 (benign prostatic hyperplasia) (근거 수준 L4). 기존 적응증: 협심증 (만성 안정형 협심증)"
 monitor_inn: "Nicorandil"
-predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "osteoarthritis susceptibility", "osteoarthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome"]
+predicted_indications: ["benign prostatic hyperplasia (disease)", "alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "osteoarthritis"]
 ---
 
 # Nicorandil
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **양성 전립선 비대증(Benign Prostatic Hyperplasia)**에 
 |------|------|
 | 기존 적응증 | 협심증 (만성 안정형 협심증) |
 | 예측 신규 적응증 | 양성 전립선 비대증 (Benign Prostatic Hyperplasia) |
-| TxGNN 예측 점수 | 99.71% |
+| TxGNN 예측 점수 | 0.9971 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold (연구 과제 단계) |
 
@@ -95,7 +95,7 @@ TxGNN 모델은 **양성 전립선 비대증(Benign Prostatic Hyperplasia)**에 
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 높지만(99.71%) 등록된 임상시험이 없고, 문헌도 리뷰와 동물 실험 수준에 그쳐 근거 수준은 L4입니다. 허가사항 기반 안전성 검토도 아직 이루어지지 않아 현 단계에서는 연구 과제로 두는 것이 적절합니다.
+TxGNN 점수는 높지만(0.9971) 등록된 임상시험이 없고, 문헌도 리뷰와 동물 실험 수준에 그쳐 근거 수준은 L4입니다. 허가사항 기반 안전성 검토도 아직 이루어지지 않아 현 단계에서는 연구 과제로 두는 것이 적절합니다.
 
 **진행하려면 필요한 것:**
 - MFDS 허가사항(경고, 금기) 확보 및 안전성 검토. 특히 혈압 저하 가능성을 고려해야 합니다.

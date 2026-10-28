@@ -48,9 +48,9 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 |------|------|
 | 기존 적응증 | 기미 |
 | 예측 신규 적응증 | 무월경 (Amenorrhea) |
-| TxGNN 예측 점수 | 99.19% |
+| TxGNN 예측 점수 | 0.9919 |
 | 근거 수준 | L5 (모델 예측 위주, 직접적인 임상 연구 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

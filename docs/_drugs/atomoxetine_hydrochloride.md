@@ -8,6 +8,7 @@ nav_order: 96
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Atomoxetine Hydrochloride
@@ -51,7 +52,7 @@ Atomoxetine Hydrochloride는 선택적 노르에피네프린 재흡수 억제제
 | 예측 신규 적응증 | 없음 (예측 미생성) |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | L5 이하 — 예측 자체 없음 |
-| 시판 현황 | 미시판 |
+| 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

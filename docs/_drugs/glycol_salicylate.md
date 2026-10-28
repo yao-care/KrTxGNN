@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Glycol Salicylate
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 390
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Glycol Salicylate: 예측 신규 적응증 Glanzmann 혈소판무력증 (Glanzmann thrombasthenia) (근거 수준 L5). 기존 적응증: 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 근육피로, 관절통, 동창(언 상처)의 진통·소염(항염)"
+description: "Glycol Salicylate: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Glycol salicylate"
-predicted_indications: ["Glanzmann thrombasthenia", "autoimmune disease", "primary release disorder of platelets", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "thrombophilia", "pseudo-von Willebrand disease", "heparin-induced thrombocytopenia (disease)", "autoimmune inner ear disease", "autoimmune gastritis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Glycol Salicylate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,47 +35,16 @@ predicted_indications: ["Glanzmann thrombasthenia", "autoimmune disease", "prima
 
 </div>
 
-## Glycol salicylate: 근육통·관절통 등 진통·소염에서 Glanzmann 혈소판무력증으로
+## Glycol Salicylate
 {: .text-alpha }
-
-## 한 문장 요약
-
-Glycol salicylate는 살리실산계 외용 소염진통제로, 타박상·삠·요통·어깨결림·근육통·관절통 등의 진통·소염에 사용되어 왔습니다.
-TxGNN 모델은 **Glanzmann 혈소판무력증(Glanzmann thrombasthenia)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 지지하는 **임상시험 0건**, **문헌 0편**으로 모델 예측만 존재합니다.
-기전상으로도 치료 근거가 약하고 오히려 출혈 위험을 높일 수 있어 **보류(Hold)**를 권장합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 근육피로, 관절통, 동창(언 상처)의 진통·소염(항염) |
-| 예측 신규 적응증 | Glanzmann 혈소판무력증 (Glanzmann thrombasthenia) |
-| TxGNN 예측 점수 | 98.17% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | 이 약은 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 근육피로, 관절통, 동창(언 상처)의 진통ㆍ소염(항염)에 사용합니다.; 이 약은 요통, 타박상, 삠, 어깨결림, 관절통, 근육통, 근육피로, 동창(언 상처), 골절통의 진통·소염(항염)에 사용합니다.; 이 약은 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 동창(언 상처)의 진통ㆍ소염에 사용합니다.; 이 약은 어깨결림, 요(허리)통, 근육통 근육피로, 타박, 염좌(삠), 관절통 가벼운 동상에 사용합니다.; 이 약은 삠, 타박상, 근육통, 관절통, 골절통,  |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 18건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Glycol salicylate는 외용 살리실산계 NSAID로, 카타플라스마제·첩부제·겔제 형태로 시판되고 있으며 근골격계 통증과 염증에서의 사용이 허가되어 있습니다.
-
-살리실산계 약물은 혈소판 COX-1을 비가역적으로 억제할 수 있어 혈소판 기능을 떨어뜨립니다. Glanzmann 혈소판무력증은 GPIIb/IIIa 결핍으로 인한 혈소판 기능 질환이므로, 이 약이 질환을 치료하기보다 출혈 위험을 악화시킬 가능성이 큽니다. 따라서 높은 TxGNN 점수는 그래프상 연관성에서 비롯된 인공적 결과일 가능성이 높으며, 치료 기전으로서의 생물학적 근거는 확인되지 않습니다.
-
-참고로 2~10위 예측도 같은 양상입니다.
-- **자가면역질환**: COX 억제로 증상(통증, 국소 염증)을 완화할 이론적 가능성은 있으나, 외용 약물은 질병 조절 효과가 없습니다.
-- **혈소판 방출 장애, 가성 폰빌레브란트병, 헤파린 유발 혈소판감소증**: 혈소판 기능을 억제해 출혈 위험이 우려됩니다.
-- **항트롬빈 결핍 2형, 제5인자 과잉 혈전증, 혈전성향증**: 직접적인 기전이 없고, 외용제의 전신 노출도 낮습니다.
-- **자가면역 내이질환**: 살리실산은 고용량 전신 투여 시 이독성이 있고, 외용제는 내이에 도달하지 못합니다.
-- **자가면역 위염**: NSAID가 위점막 손상을 악화시킬 수 있습니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
@@ -90,23 +61,9 @@ TxGNN 모델은 **Glanzmann 혈소판무력증(Glanzmann thrombasthenia)**에 �
 안전성 정보는 허가사항을 참조하세요.
 
 다만 예측된 적응증과 관련해 다음 기전상 우려가 있습니다.
-- 살리실산계 약물의 혈소판 COX-1 억제로 혈소판 기능 질환(Glanzmann 혈소판무력증, 혈소판 방출 장애, 가성 폰빌레브란트병)에서 출혈 위험이 악화될 수 있습니다.
 - 헤파린 유발 혈소판감소증처럼 혈소판감소가 동반된 환자에서는 출혈 위험이 더해질 수 있습니다.
 - 자가면역 위염에서는 NSAID 계열의 위점막 자극이 문제가 될 수 있습니다.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-상위 10개 예측 모두 임상시험과 문헌 근거가 없는 모델 예측(L5)에 그칩니다. 특히 상위 예측인 Glanzmann 혈소판무력증은 살리실산계 약물의 혈소판 억제 작용 때문에 치료 근거가 없고 오히려 안전성 우려가 있습니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고·금기·상호작용)의 확보 및 분석
-- 상세한 작용 기전(MOA) 데이터 확인
-- 예측 적응증에 대한 전임상 또는 임상 근거 (현재 전무)
-- 외용 투여 경로로 해당 질환에 도달 가능한지에 대한 투여 경로 적합성 평가
-- 출혈성·혈전성 질환 환자에서의 안전성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

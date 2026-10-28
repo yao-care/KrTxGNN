@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Cinepazide
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 215
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Cinepazide: 예측 신규 적응증 고전적 호지킨 림프종, 림프구 고갈형 (classic Hodgkin lymphoma… (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조)"
+description: "Cinepazide: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Cinepazide"
-predicted_indications: ["classic Hodgkin lymphoma, lymphocyte-depleted type", "cecum cancer", "classic Hodgkin lymphoma, lymphocyte-rich type", "classic Hodgkin lymphoma, mixed cellularity type", "classic Hodgkin lymphoma, nodular sclerosis type", "lymphomatoid papulosis", "anaplastic large cell lymphoma", "intravascular large B-cell lymphoma", "primary mediastinal large B-cell lymphoma", "acute biphenotypic leukemia"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Cinepazide
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +35,17 @@ predicted_indications: ["classic Hodgkin lymphoma, lymphocyte-depleted type", "c
 
 </div>
 
-## Cinepazide: 기존 혈관 질환 치료제에서 고전적 호지킨 림프종(림프구 고갈형)으로
+## Cinepazide
 {: .text-alpha }
-
-## 한 문장 요약
-
-Cinepazide는 말레산염 주사제 형태로 한국에서 허가·시판되고 있는 혈관 확장 계열 약물입니다.
-TxGNN 모델은 **고전적 호지킨 림프종(림프구 고갈형)**에 효과가 있을 수 있다고 예측하지만, 예측 점수는 정보력이 없는 수준(50%)이며 이를 지지하는 **임상시험은 0건**, **문헌도 0편**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조) |
-| 예측 신규 적응증 | 고전적 호지킨 림프종, 림프구 고갈형 (classic Hodgkin lymphoma, lymphocyte-depleted type) |
-| TxGNN 예측 점수 | 50.0% |
-| 근거 수준 | L5 (모델 예측만 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803159/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
-| 권장 결정 | Hold |
 
-> 참고: 같은 약물에 대해 호지킨 림프종의 다른 아형, 맹장암, 림프종양 구진증, 역형성 대세포 림프종, 혈관내 대B세포 림프종, 원발성 종격동 대B세포 림프종, 급성 이표현형 백혈병 등 총 10개의 예측이 있으며, 모두 점수 50%, 근거 수준 L5, 권장 결정 Hold로 동일합니다.
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. Cinepazide는 뇌혈관 및 말초혈관 질환에 사용되는 혈관 확장제로 알려져 있으나, 이것이 호지킨 림프종의 종양 생물학과 연결된다는 알려진 생물학적 근거는 없습니다.
-
-TxGNN 점수 0.5는 모델이 의미 있는 구분을 하지 못한 값으로 해석되며, 기존 적응증과 신규 적응증 간의 연관성도 아직 평가되지 않았습니다. 따라서 기전상 타당성을 뒷받침할 수 있는 정보가 부족합니다.
 
 ## 한국 시판 정보
 
@@ -71,19 +57,6 @@ TxGNN 점수 0.5는 모델이 의미 있는 구분을 하지 못한 값으로 �
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-예측은 정보력이 없는 모델 점수(50%)에만 근거하며, 임상시험·문헌·기전 근거가 모두 없습니다. 또한 안전성 정보와 작용 기전 데이터도 확보되지 않아 진행할 수 있는 단계가 아닙니다.
-
-**진행하려면 필요한 것:**
-- 식약처(MFDS) 허가사항(경고·금기 포함) 확보 및 분석
-- DrugBank 등에서 작용 기전(MOA) 데이터 확보
-- 호지킨 림프종 등 예측 질환과의 기전적 연관성에 대한 전임상 또는 문헌 근거
-- 허가 적응증 본문의 구체적 내용 확인
-- 우선순위가 높은 질환에 대한 재검토 (현재 10개 예측 모두 동일한 근거 수준)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

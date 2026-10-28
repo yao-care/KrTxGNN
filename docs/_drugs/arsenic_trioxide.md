@@ -33,7 +33,7 @@ predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cyt
 
 </div>
 
-## Arsenic Trioxide: 급성 전골수성백혈병에서 골수이형성증후군으로
+## Arsenic Trioxide: 급성 전골수성백혈병에서 미분류 골수이형성증후군으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -48,9 +48,9 @@ Arsenic trioxide(삼산화비소)는 국내에서 주사제로 허가된 항종�
 |------|------|
 | 기존 적응증 | 허가증 원문 링크만 제공되어 확인 불가 |
 | 예측 신규 적응증 | 분류되지 않은 골수이형성증후군 (Unclassified Myelodysplastic Syndrome) |
-| TxGNN 예측 점수 | 99.93% (전체 순위 1,863위) |
+| TxGNN 예측 점수 | 0.9993 (전체 순위 1,863위) |
 | 근거 수준 | L5 (분류되지 않은 MDS). 참고: 골수이형성증후군 전체는 L2 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold (분류되지 않은 MDS). 참고: 골수이형성증후군 전체는 Proceed with Guardrails |
 
@@ -58,16 +58,16 @@ Arsenic trioxide(삼산화비소)는 국내에서 주사제로 허가된 항종�
 
 | 순위 | 예측 질환 | 점수 | 근거 수준 | 권장 |
 |-----|---------|------|---------|------|
-| 1 | 분류되지 않은 골수이형성증후군 | 99.93% | L5 | Hold |
-| 2 | 소아 불응성 혈구감소증 | 99.93% | L4 | Hold |
-| 3 | 중증 선천성 저색소성 빈혈(고리철적아구 동반) | 99.93% | L5 | Hold |
-| 4 | 재생불량성 빈혈(Aregenerative anemia) | 99.92% | L2 | Research Question |
-| 5 | 5번 염색체 장완 부분 결실 | 99.92% | L5 | Hold |
-| 6 | 골수이형성증후군 | 99.91% | L2 | Proceed with Guardrails |
-| 7 | 유잉 육종 | 99.89% | L3 | Research Question |
-| 8 | 융기성 피부섬유육종 | 99.77% | L5 | Hold |
-| 9 | 지방육종 | 99.75% | L5 | Hold |
-| 10 | 난소 점액성 지방육종 | 99.70% | L5 | Hold |
+| 1 | 분류되지 않은 골수이형성증후군 | 0.9993 | L5 | Hold |
+| 2 | 소아 불응성 혈구감소증 | 0.9993 | L5 | Hold |
+| 3 | 중증 선천성 저색소성 빈혈(고리철적아구 동반) | 0.9993 | L5 | Hold |
+| 4 | 재생불량성 빈혈(Aregenerative anemia) | 0.9992 | L5 | Research Question |
+| 5 | 5번 염색체 장완 부분 결실 | 0.9992 | L5 | Hold |
+| 6 | 골수이형성증후군 | 0.9991 | L2 | Proceed with Guardrails |
+| 7 | 유잉 육종 | 0.9989 | L3 | Research Question |
+| 8 | 융기성 피부섬유육종 | 0.9977 | L5 | Hold |
+| 9 | 지방육종 | 0.9975 | L5 | Hold |
+| 10 | 난소 점액성 지방육종 | 0.9970 | L5 | Hold |
 
 ## 이 예측이 타당한 이유는?
 

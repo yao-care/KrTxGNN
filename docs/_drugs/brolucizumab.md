@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 158
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Brolucizumab: 예측 신규 적응증 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (mitochondrial oxidative phosphorylati… (근거 수준 L5). 기존 적응증: 허가 적응증 본문 데이터가 확인되지 않음 (허가증에는 문서 링크만 제공됨)"
+last_modified_at: 2026-10-28
 monitor_inn: "BROLUCIZUMAB"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices without bleeding", "esophageal varices with bleeding", "exocrine pancreatic insufficiency"]
+description: "Brolucizumab: 예측 신규 적응증 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownloa…"
 ---
 
 # Brolucizumab
@@ -33,7 +33,7 @@ predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to
 
 </div>
 
-## Brolucizumab: 신생혈관성 안질환에서 미토콘드리아 산화적 인산화 장애로
+## Brolucizumab: 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,21 +46,21 @@ TxGNN 모델은 **핵 DNA 이상에 의한 미토콘드리아 산화적 인산�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 데이터가 확인되지 않음 (허가증에는 문서 링크만 제공됨) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004402/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202005466/EE |
 | 예측 신규 적응증 | 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
-| TxGNN 예측 점수 | 99.67% |
+| TxGNN 예측 점수 | 0.9967 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
-> 참고: 같은 약물에 대해 다음 예측도 있었으나 모두 근거가 없습니다: 식도 정맥류(출혈 없음/출혈 동반, 각 99.12%), 외분비 췌장 기능부전(99.07%).
+> 참고: 같은 약물에 대해 다음 예측도 있었으나 모두 근거가 없습니다: 식도 정맥류(출혈 없음/출혈 동반, 각 0.9912), 외분비 췌장 기능부전(0.9907).
 
 ## 이 예측이 타당한 이유는?
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 brolucizumab은 VEGF-A를 표적으로 하는 항체 절편이며, 안구 내 투여용으로 허가된 단일 성분 제제입니다.
 
-핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애는 호흡사슬의 조립 또는 기능 결손이 원인이며, VEGF 신호와는 직접적인 관련이 없습니다. 따라서 **현재까지 확립된 기전적 연결고리는 없습니다.** 0.997이라는 높은 점수는 지식 그래프상의 연관성에 기반한 예측일 뿐, 생물학적 근거나 연구가 뒷받침하지 않습니다.
+핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애는 호흡사슬의 조립 또는 기능 결손이 원인이며, VEGF 신호와는 직접적인 관련이 없습니다. 따라서 **현재까지 확립된 기전적 연결고리는 없습니다.** 0.9967이라는 높은 점수는 TxGNN 모델(딥러닝)에서 나온 값으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있으며 생물학적 근거가 아닙니다.
 
 ## 한국 시판 정보
 

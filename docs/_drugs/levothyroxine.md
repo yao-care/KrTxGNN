@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Levothyroxine
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 475
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Levothyroxine: 예측 신규 적응증 풍토성 갑상선종 (Endemic Goiter) (근거 수준 L3). 기존 적응증: 허가 적응증 원문은 이번에 확보한 데이터에 포함되어 있지 않음 (허가사항 PDF 링크만 확인됨)"
+evidence_level: L5
+indication_count: 4
 monitor_inn: "levothyroxine"
-predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "nontoxic goiter", "lingual goiter", "substernal goiter", "dyshormonogenic goiter", "Potter sequence", "Carney complex"]
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
+last_modified_at: 2026-10-23
+description: "Levothyroxine: 예측 신규 적응증 신장 저형성/무형성증 (근거 수준 L5). 기존 적응증: 이번 보고서에 정리된 데이터에는 허가 적응증 본문이 없고 허가사항 문서 링크만 있어 확인할 수 없습니다"
 ---
 
 # Levothyroxine
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,92 +33,67 @@ predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodula
 
 </div>
 
-## Levothyroxine: 갑상선 기능 저하증 치료에서 풍토성 갑상선종으로
+## Levothyroxine: 갑상선 질환 치료제에서 신장 저형성/무형성증으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Levothyroxine은 합성 갑상선 호르몬(T4) 제제로, 한국에서 갑상선 호르몬 보충을 위해 널리 허가·시판되고 있습니다.
-TxGNN 모델은 **풍토성 갑상선종(Endemic Goiter)**에 효과가 있을 수 있다고 예측하며, 현재 이 예측을 직접 뒷받침하는 등록 임상시험은 없고 **약 20편의 문헌**(주로 1988~1998년 유럽 연구)이 이 방향을 지지합니다.
+Levothyroxine은 한국에서 19건의 단일제 허가증이 확인된 갑상선호르몬 제제입니다. TxGNN 모델은 **신장 저형성/무형성증(renal hypodysplasia/aplasia)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 따라서 이 예측은 모델 예측 수준에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 이번에 확보한 데이터에 포함되어 있지 않음 (허가사항 PDF 링크만 확인됨) |
-| 예측 신규 적응증 | 풍토성 갑상선종 (Endemic Goiter) |
-| TxGNN 예측 점수 | 99.81% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 19건 |
-| 권장 결정 | Hold (연구 질문 단계) |
+| 기존 적응증 | 이번 보고서에 정리된 데이터에는 허가 적응증 본문이 없고 허가사항 문서 링크만 있어 확인할 수 없습니다 |
+| 예측 신규 적응증 | 신장 저형성/무형성증 |
+| TxGNN 예측 점수 | 0.9967 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가 건수 | 19건 (모두 단일제, 유효) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, levothyroxine은 단일 성분 갑상선 호르몬 제제이며, 갑상선 호르몬 보충에서의 효능이 확립되어 있어 기전상 갑상선 비대 질환에도 적용 가능할 수 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 levothyroxine은 갑상선호르몬 수용체를 통해 대사와 발달을 조절하며, 갑상선호르몬은 태아 장기 형성에도 전반적인 역할을 합니다.
 
-풍토성 갑상선종은 요오드 결핍으로 TSH가 상승하고 갑상선이 커지는 질환입니다. Levothyroxine은 TSH를 억제해 갑상선 부피를 줄일 수 있으며, 요오드와 병용하는 경우가 많습니다. 다만 현재는 요오드 단독 또는 요오드와 levothyroxine 병용이 표준 접근이며, 근거 대부분이 오래된 연구라 "타당하지만 시기가 지난 적응증"으로 평가됩니다.
+그러나 신장 저형성/무형성증은 주로 PAX2, HNF1B, RET 등 발달 유전자의 변이로 생기는 구조적 선천 기형입니다. 갑상선호르몬을 보충해도 형성이 잘못되었거나 없는 신장 조직을 되돌리기는 어렵습니다. 따라서 확립된 기전적 연결은 없으며, 높은 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있고 생물학적 근거는 아닙니다.
 
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-참고로, 예측 순위 3위인 결절성 갑상선종(Nodular goiter)에는 완료된 시험 2건(NCT00277589, 1,024명 규모 4상 위약대조 시험 등)이 있습니다. 이는 별도의 후보 적응증입니다.
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [2515973](https://pubmed.ncbi.nlm.nih.gov/2515973/) | 1989 | 다기관 무작위 시험 | Eur J Clin Invest | 166명을 levothyroxine, 요오드, 병용군으로 배정해 12개월간 비교 |
-| [3278876](https://pubmed.ncbi.nlm.nih.gov/3278876/) | 1988 | 다기관 임상연구 | Dtsch Med Wochenschr | 74명에서 levothyroxine 단독 대 levothyroxine+요오드 병용을 6개월 비교 |
-| [7900936](https://pubmed.ncbi.nlm.nih.gov/7900936/) | 1993 | 임상연구 | Clin Endocrinol | levothyroxine 또는 요오드가 갑상선 크기와 성장 자극 면역글로불린에 미치는 영향 평가 |
-| [1789063](https://pubmed.ncbi.nlm.nih.gov/1789063/) | 1991 | 이중맹검 연구 | Acta Endocrinol | 요오드 단독 대 병용요법에서 갑상선 내 요오드 농도 변화 비교 |
-| [8676600](https://pubmed.ncbi.nlm.nih.gov/8676600/) | 1996 | 임상연구 | Klin Padiatr | 청소년 106명에서 요오드 단독 대 병용요법 비교, 지질 지표 포함 |
-| [9011485](https://pubmed.ncbi.nlm.nih.gov/9011485/) | 1996 | 임상연구 | Dtsch Med Wochenschr | 중장년·고령 환자에서 요오드 대 levothyroxine 효능 비교 |
-| [11256036](https://pubmed.ncbi.nlm.nih.gov/11256036/) | 2001 | 임상연구 | Dtsch Med Wochenschr | 두 가지 용량의 levothyroxine-요오드 병용요법 비교 |
-| [24393641](https://pubmed.ncbi.nlm.nih.gov/24393641/) | 1998 | 보충 연구 | Asia Pac J Clin Nutr | 요오드 결핍 지역 원주민에서 levothyroxine 100 µg/일을 1.5년간 투여 후 추적 |
-| [8147031](https://pubmed.ncbi.nlm.nih.gov/8147031/) | 1993 | 리뷰 | Z Gesamte Inn Med | 요오드는 항상 치료에 포함되어야 하며, levothyroxine 단독은 갑상선 내 요오드 결핍을 해소하지 못함 |
-| [15035314](https://pubmed.ncbi.nlm.nih.gov/15035314/) | 2004 | 리뷰 | MMW Fortschr Med | 양성 갑상선종의 진단과 치료, 병용요법 중심 |
+같은 순위권의 다른 예측(양측 신장 무형성, Potter 연속체, Carney 복합체)도 모두 L5이며 근거가 없습니다. 그중 Carney 복합체는 갑상선 병변 관리 차원에서 간접적 연관성만 추정됩니다.
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201903264 | 씬지로이드정0.025밀리그램 | 연보라색 원형 정제 | 허가사항 참조 |
-| 197400278 | 씬지로이드정0.1밀리그램 | 황색 정제 | 허가사항 참조 |
-| 200301116 | 씬지록신정100마이크로그램 | 황색 타원형 정제 | 허가사항 참조 |
-| 201706645 | 씬지록신정125마이크로그램 | 청색 타원형 정제 | 허가사항 참조 |
-| 200501664 | 씬지로이드정0.15밀리그램 | 흰색 타원형 정제 | 허가사항 참조 |
+허가 19건은 모두 단일제이며 유효 상태입니다. 허가 적응증 본문은 문서 링크로만 제공되어 내용을 요약하지 못했습니다. 아래는 주요 5건입니다.
 
-위 5건은 전체 19건 중 일부이며, 모두 단일 성분 제제로 유효 상태입니다. 일부는 수출용 허가입니다.
+| 허가번호 | 제품명 | 제형 | 제조사 |
+|---------|------|------|------|
+| 201903264 | 씬지로이드정0.025밀리그램 | 연보라색의 원형 정제 | 부광약품(주) |
+| 201700462 | 엘지로이드정 (수출용) | 황색의 원형 정제 | 삼남제약(주) |
+| 201804237 | 씬지로이드정0.2밀리그램 | 연두색의 타원형 정제 | 부광약품(주) |
+| 200301116 | 씬지록신정100마이크로그램 | 황색의 타원형 정제 | (주)다림바이오텍 |
+| 201706645 | 씬지록신정125마이크로그램 | 청색의 타원형 정제 | (주)다림바이오텍 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 666건이 확인되었으며, 이 중 일부는 다음과 같습니다.
-  - 당뇨병 치료제: metformin, pioglitazone, acarbose, canagliflozin, dapagliflozin, empagliflozin 등 (중등도)
-  - 위산 억제제: omeprazole, rabeprazole, dexlansoprazole (중등도), cimetidine (경미)
-  - 미네랄 제제: calcium acetate, calcium phosphate, magnesium oxide (중등도)
-  - 기타: epinephrine, isometheptene, diethylpropion (중등도)
-- **지식그래프 기반 금기 연관 질환**: 허가사항 문구가 아니라 모델 지식그래프의 연관 정보입니다. 고혈압, 뇌하수체기능저하증, 골다공증, 당뇨병·당뇨병성 케톤산증, 관상동맥질환, 심근경색 등이 포함됩니다. 장기 TSH 억제 시 골 소실과 심장 영향 우려와도 맥락이 일치합니다.
+허가사항의 경고·금기 정보는 확보하지 못했으며, 안전성 정보는 허가사항을 참조하세요.
 
-허가사항의 경고 및 금기 문구는 이번 데이터에 없으므로, 상세 안전성 정보는 허가사항을 참조하세요.
+참고로 지식 그래프에는 고혈압, 뇌하수체 기능저하증, 골다공증, 당뇨병, 당뇨병성 케톤산증, 관상동맥질환, 심근경색 등과 금기 관계가 기록되어 있습니다. 이는 허가 문서의 금기가 아니라 지식 그래프상의 관계이므로 참고용으로만 보아야 합니다.
+
+**약물 상호작용:** 총 666건이 확인되었습니다. 조회된 주요 항목은 다음과 같습니다.
+- 중등도: 혈당강하제(acarbose, metformin, pioglitazone, alogliptin, canagliflozin, dapagliflozin, empagliflozin, chlorpropamide), GLP-1 계열(albiglutide, dulaglutide), 위산억제제(omeprazole, rabeprazole, dexlansoprazole), 칼슘·마그네슘 제제(calcium acetate, calcium phosphate, magnesium oxide), epinephrine, isometheptene, diethylpropion
+- 경미: cimetidine
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-풍토성 갑상선종에 대한 근거는 1988~1998년 유럽 연구 중심이며 등록 임상시험이 없습니다. 현재는 요오드 단독 또는 병용요법이 표준이고, 허가사항 기반 안전성 정보도 확보되지 못했습니다. 따라서 연구 질문 단계로 보류를 권장합니다.
+신장 저형성/무형성증에 대한 임상시험과 문헌이 전혀 없고, 기전상으로도 갑상선호르몬 보충이 선천적 신장 구조 이상을 개선할 가능성이 낮습니다. 근거 수준은 L5이며, 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있을 뿐 생물학적 근거는 아닙니다.
 
 **진행하려면 필요한 것:**
-- 허가사항 PDF에서 허가 적응증, 경고, 금기 확인 (현재 안전성 선별 진행을 막는 항목)
-- 작용 기전(MOA) 데이터 보완
-- 최근 가이드라인과 요오드 충분 지역 기준의 현행 근거 재검토
-- 한국 내 요오드 섭취 상황에서의 대상 인구집단 적합성 평가
-
-**참고 – 다른 후보 적응증:**
-- **결절성 갑상선종**: 근거 수준 L2로 가장 근거가 많습니다(4상 무작위 위약대조 시험 1,024명 포함). 다만 장기 TSH 억제의 위험-이익 균형 논란이 있어 우선 검토할 후보입니다.
-- **신장 저형성/무형성, 양측 신장 무형성, Potter 연쇄, 설갑상선종, Carney 복합증후군**: 근거 없이 모델 예측만 있어 보류 대상입니다.
+- 약물 작용 기전(MOA) 데이터 확보
+- 허가사항 문서에서 적응증, 경고, 금기 확인
+- 신장 발달과 갑상선호르몬의 관련성을 다룬 전임상 또는 임상 문헌 확인
+- 시판 현황(취소 여부) 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

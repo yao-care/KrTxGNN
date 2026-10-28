@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Eliglustat
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 302
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Eliglustat: 예측 신규 적응증 상염색체 어린선 증후군(치명적 경과) (autosomal ichthyosis syndrome with fatal diseas… (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 적응증을 확인할 수 없음 (허가사항 참조)"
-monitor_inn: "Eliglustat"
-predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "benign neoplasm of adrenal gland", "polycystic kidney disease 3 with or without polycystic liver disease", "gastrocutaneous syndrome", "familial generalized lentiginosis", "Moynahan syndrome", "rhabdoid tumor", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis"]
+last_modified_at: 2026-10-23
+description: "Eliglustat: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Eliglustat
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,38 +32,44 @@ predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course
 
 </div>
 
-## Eliglustat: 고셔병에서 상염색체 어린선 증후군(치명적 경과)으로
+<!-- known-uses-page -->
+<!-- description: Eliglustat: 대한민국의 알려진 용도 및 시장 현황; 현재 새로운 후보 적응증 없음 -->
+## Eliglustat
 {: .text-alpha }
 
-## 한 문장 요약
+## 요약
+TxGNN 딥러닝 모델은 Eliglustat에 대해 점수 0.99 이상인 후보 적응증을 내놓지 않았으므로, 현재 새롭게 예측된 적응증은 없습니다. 아래에는 이 약물에 기록된 용도를 정리했습니다.
 
-Eliglustat은 글루코실세라마이드 합성효소를 억제하는 약물로, 한국에서 단일제 캡슐로 허가되어 시판되고 있습니다. TxGNN 모델은 **상염색체 어린선 증후군(치명적 경과)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 지지하는 **임상시험은 0건, 문헌도 0편**입니다. 따라서 이 예측은 모델 단독 예측 단계에 머물러 있습니다.
-
-## 빠른 개요
-
+## 한눈에 보기
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 적응증을 확인할 수 없음 (허가사항 참조) |
-| 예측 신규 적응증 | 상염색체 어린선 증후군(치명적 경과) (autosomal ichthyosis syndrome with fatal disease course) |
-| TxGNN 예측 점수 | 98.42% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 1건 |
-| 권장 결정 | Hold |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 새로운 예측 적응증 | 없음 (점수 0.99 이상인 모델 후보 없음) |
+| 이 약물에 기록된 알려진 용도 | 1 |
+| 대한민국 시장 현황 | Unknown (source lacks cancellation status) |
 
-## 이 예측이 타당한 이유는?
+## 이 약물에 기록된 알려진 용도
 
-현재 상세한 작용 기전 데이터는 이번 보고서에 수집되지 않았습니다. 다만 Eliglustat은 글루코실세라마이드 합성효소를 억제하여 글루코실세라마이드 생성을 줄이는 약물로 알려져 있습니다.
+### 승인됨 (허가 또는 label로 뒷받침)
+| 적응증 | 출처 |
+|------|------|
+| 고셔병 (gaucher disease) | 다른 국가의 허가 |
 
-어린선(ichthyosis)은 표피의 세라마이드와 지질 장벽 대사 이상과 관련이 있어, 스핑고지질 경로를 통한 연관성은 생각해 볼 수 있습니다. 그러나 세라마이드 전구체의 합성을 억제하면 오히려 피부 장벽 결함이 악화될 수 있다는 우려도 있습니다.
+### 승인된 적응증과 관련됨 (같은 질환 범주)
+| 적응증 | 승인된 범주 |
+|------|------|
+| 없음 | 없음 |
 
-이 예측을 뒷받침하는 임상시험이나 문헌이 없어, 현재 연관성은 TxGNN 예측에만 의존합니다.
+### 지식 그래프에 기록된 관계 (승인 근거 없음)
+| 적응증 |
+|------|
+| 없음 |
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201507691 | 세레델가캡슐84밀리그램(엘리글루스타트타르타르산염) | 경질 캡슐 | 허가사항 참조 |
+| 허가번호 | 제품명 | 제형 | 상태 |
+|------|------|------|------|
+| 201507691 | Cerdelga capsule 84mg(Eliglustat tartrate) | 흰색 또는 회백색의 가루가 든 상부 탁한 청록색, 하부 회백색의 'GZ0 | 유효 |
 
 ## 안전성 고려사항
 
@@ -74,24 +79,6 @@ Eliglustat은 글루코실세라마이드 합성효소를 억제하는 약물로
 
 경고 및 금기 등 그 외 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-TxGNN 예측 점수는 높지만 관련 임상시험과 문헌이 전혀 없고, 기전상으로도 세라마이드 합성 억제가 어린선의 장벽 결함을 악화시킬 가능성이 있습니다. 현 단계에서는 재창출을 진행할 근거가 부족합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(허가 적응증, 경고, 금기) 확보 및 분석
-- 상세한 작용 기전 데이터(MOA) 확보
-- 어린선 모델에서의 전임상 연구 등 기전 검증 근거
-- 투여 경로 적합성 평가 (피부 질환 대상 시 현재 경구 캡슐 제형만 존재)
-
----
-
-**참고: 다른 예측 후보**
-
-TxGNN이 예측한 다른 후보 중에는 **다낭신 질환 3형(polycystic kidney disease 3, 점수 96.91%)**이 기전상 가장 그럴듯한 근거를 가집니다. 글루코실세라마이드 합성효소 억제제가 이 질환의 전임상 모델에서 연구된 바 있기 때문입니다. 다만 현재 확인된 문헌은 2013년 글리코스핑고지질 합성 억제제 개발에 관한 리뷰 1편([23874009](https://pubmed.ncbi.nlm.nih.gov/23874009/))뿐이며 직접적인 임상 근거는 아니고 임상시험도 없어, 근거 수준은 L5이며 "연구 질문(Research Question)" 단계로 평가됩니다. 나머지 후보들은 뚜렷한 기전적 연관성이 확인되지 않았습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

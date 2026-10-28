@@ -33,7 +33,7 @@ predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis 
 
 </div>
 
-## Clobetasol Propionate: 국소 코르티코스테로이드 적응증에서 외진(Exanthem)으로
+## Clobetasol Propionate: 국소 코르티코스테로이드 적응증에서 외음부 역전모낭각화증으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -50,9 +50,9 @@ TxGNN 모델은 가장 높은 점수 순으로 **외부 발진(Exanthem)**을 �
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 확인할 수 없음 (공개 자료상 피부 염증·가려움증: 알레르기 반응, 습진, 건선) |
 | 예측 신규 적응증 (1순위) | 외음부 역전모낭각화증 (Vulvar inverted follicular keratosis) |
-| TxGNN 예측 점수 | 99.46% |
+| TxGNN 예측 점수 | 0.9946 |
 | 근거 수준 | L5 (1순위) / 외진(3순위)은 L2 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 유효, 단일 성분) |
 | 권장 결정 | Hold (1순위) / 외진(3순위): Research Question |
 
@@ -60,13 +60,13 @@ TxGNN 모델은 가장 높은 점수 순으로 **외부 발진(Exanthem)**을 �
 
 | 순위 | 예측 신규 적응증 | 점수 | 근거 수준 | 임상시험 | 문헌 | 권장 |
 |-----|--------------|------|---------|--------|-----|-----|
-| 1 | 외음부 역전모낭각화증 | 99.46% | L5 | 0 | 0 | Hold |
-| 2 | 만성 위축성 말단피부염 | 99.30% | L5 | 0 | 0 | Hold |
-| 3 | 외진 (Exanthem) | 99.26% | L2 | 7 | 0 | Research Question |
-| 4 | 여드름켈로이드 | 99.21% | L3 | 0 | 1 | Research Question |
-| 5 | 신생아 피부근염 | 99.16% | L5 | 0 | 0 | Hold |
-| 6 | 소아 결합조직질환 연관 이차성 간질성 폐질환 | 99.07% | L5 | 0 | 0 | Hold |
-| 7 | 무근병증 피부근염 | 99.05% | L5 | 0 | 0 | Hold |
+| 1 | 외음부 역전모낭각화증 | 0.9946 | L5 | 0 | 0 | Hold |
+| 2 | 만성 위축성 말단피부염 | 0.9930 | L5 | 0 | 0 | Hold |
+| 3 | 외진 (Exanthem) | 0.9926 | L5 | 7 | 0 | Research Question |
+| 4 | 여드름켈로이드 | 0.9921 | L5 | 0 | 1 | Research Question |
+| 5 | 신생아 피부근염 | 0.9916 | L5 | 0 | 0 | Hold |
+| 6 | 소아 결합조직질환 연관 이차성 간질성 폐질환 | 0.9907 | L5 | 0 | 0 | Hold |
+| 7 | 무근병증 피부근염 | 0.9905 | L5 | 0 | 0 | Hold |
 
 ## 이 예측이 타당한 이유는?
 

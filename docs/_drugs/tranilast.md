@@ -47,9 +47,9 @@ TxGNN 모델은 **지루각화증(seborrheic keratosis)**에 효과가 있을 �
 |------|------|
 | 기존 적응증 | 확인 불가 (허가증에 적응증 본문 없이 링크만 있음) |
 | 예측 신규 적응증 | 지루각화증 (Seborrheic Keratosis) |
-| TxGNN 예측 점수 | 99.98% |
+| TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 

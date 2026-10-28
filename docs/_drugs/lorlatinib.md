@@ -4,17 +4,17 @@ title: Lorlatinib
 parent: 모델 예측만 (L5)
 nav_order: 484
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Lorlatinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: ALK 양성 비소세포폐암 (허가 문서 링크만 제공되어 상세 문구는 확인되지 않음)"
 monitor_inn: "LORLATINIB"
-predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 ---
 
 # Lorlatinib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 |------|------|
 | 기존 적응증 | ALK 양성 비소세포폐암 (허가 문서 링크만 제공되어 상세 문구는 확인되지 않음) |
 | 예측 신규 적응증 | 치은 섬유종증 (fibromatosis, gingival) |
-| TxGNN 예측 점수 | 99.81% |
+| TxGNN 예측 점수 | 0.9981 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
@@ -58,9 +58,9 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Lorlatinib은 뇌 투과성이 있는 3세대 ALK/ROS1 티로신 키나제 억제제이며, ALK 양성 비소세포폐암에서 효능이 입증되어 있습니다.
 
-그러나 치은 섬유종증은 ALK나 ROS1 신호 전달에 의해 유발되는 질환으로 알려져 있지 않습니다. 기존 적응증과 신규 적응증 사이에서 확인된 기전적 연결고리는 없습니다. 높은 TxGNN 점수(99.81%)는 지식 그래프에서 나온 모델 예측일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다.
+그러나 치은 섬유종증은 ALK나 ROS1 신호 전달에 의해 유발되는 질환으로 알려져 있지 않습니다. 기존 적응증과 신규 적응증 사이에서 확인된 기전적 연결고리는 없습니다. 높은 TxGNN 점수(0.9981)는 TxGNN 모델(딥러닝)이 산출한 값으로, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아니며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다.
 
-참고로 같은 예측 목록의 다른 후보들도 대부분 같은 한계를 보입니다. 폐 관련 후보(폐문부 암종 등)는 승인된 폐암 적응증의 연장선에 가깝고, 신경모세포종 등은 다른 ALK 의존 종양에 대한 간접 근거만 있습니다. 이들은 엄밀한 의미의 재창출로 보기 어렵습니다.
+참고로 같은 예측 목록의 다른 후보들도 대부분 같은 한계를 보입니다. 폐 관련 후보는 승인된 폐암 적응증의 연장선에 가깝고, 신경모세포종 등은 다른 ALK 의존 종양에 대한 간접 근거만 있습니다. 이들은 엄밀한 의미의 재창출로 보기 어렵습니다.
 
 ## 한국 시판 정보
 

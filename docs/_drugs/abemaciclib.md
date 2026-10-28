@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Abemaciclib
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 14
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Abemaciclib: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 제공되어 구체적 적응증을 확인할 수 없음 (허가 문서 참조)"
-monitor_inn: "Abemaciclib"
-predicted_indications: ["rheumatoid arthritis", "hyperthyroidism", "multiple endocrine neoplasia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "homozygous familial hypercholesterolemia", "heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "Jeune syndrome situs inversus", "amyotrophic lateral sclerosis"]
+last_modified_at: 2026-10-23
+description: "Abemaciclib: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Abemaciclib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,51 +32,47 @@ predicted_indications: ["rheumatoid arthritis", "hyperthyroidism", "multiple end
 
 </div>
 
-## Abemaciclib: 유방암에서 류마티스 관절염으로
+<!-- known-uses-page -->
+<!-- description: Abemaciclib: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음 -->
+## Abemaciclib
 {: .text-alpha }
 
-## 한 문장 요약
+## 요약
+TxGNN 모델은 Abemaciclib에 대해 점수 0.99 이상의 후보 적응증을 내지 않았으므로, 현재 새로 예측된 적응증은 없습니다. 아래에는 이 약물에 기록된 기존 용도를 정리했습니다.
 
-Abemaciclib은 CDK4/6 억제제 계열의 항암제로, 한국에서 허가된 제품(버제니오정)이 시판 중이며 주로 유방암 치료에 사용됩니다.
-TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 지지하는 **임상시험은 0건**이고 관련 **문헌 2편**도 치료 효과를 입증하는 수준이 아닙니다.
-
-## 빠른 개요
-
+## 한눈에 보기
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 제공되어 구체적 적응증을 확인할 수 없음 (허가 문서 참조) |
-| 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
-| TxGNN 예측 점수 | 97.32% |
-| 근거 수준 | L4 (전임상·기전 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 4건 |
-| 권장 결정 | Hold |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 새로 예측된 적응증 | 없음 (점수 0.99 이상의 모델 후보 없음) |
+| 이 약물에 기록된 기존 용도 | 1 |
+| 대한민국 시장 현황 | Unknown (source lacks cancellation status) |
 
-## 이 예측이 타당한 이유는?
+## 이 약물에 기록된 기존 용도
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Abemaciclib은 CDK4/6 억제제 계열의 단일제이며, 세포주기 조절을 통해 종양 세포 증식을 억제하는 것으로 알려져 있습니다.
+### 승인됨 (허가 또는 라벨로 뒷받침됨)
+| 적응증 | 출처 |
+|------|------|
+| 유방 신생물 (breast neoplasms) | 다른 나라의 허가 |
 
-류마티스 관절염에서는 섬유모세포양 활막세포(FLS)의 과증식이 병리의 핵심입니다. CDK4/6 억제가 이 세포의 증식을 줄이고 면역세포 활성을 조절할 가능성은 이론적으로 제시될 수 있습니다. 다만 Abemaciclib 자체의 직접적인 임상 데이터는 없으며, 이는 가설 수준의 기전 연결입니다.
+### 승인된 적응증과 관련됨 (같은 질환 범주)
+| 적응증 | 승인된 범주 |
+|------|------|
+| 없음 | 없음 |
 
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [40504547](https://pubmed.ncbi.nlm.nih.gov/40504547/) | 2025 | 코호트 | The Oncologist | CDK4/6 억제제와 내분비 요법을 받는 유방암 환자에서 기존·신규 면역매개 질환의 유병률을 조사한 연구. 치료 효과가 아닌 안전성·역학적 맥락 |
-| [42289719](https://pubmed.ncbi.nlm.nih.gov/42289719/) | 2026 | 전임상 | Journal of Nanobiotechnology | 세포주기 정지와 세포자멸사를 유도하여 FLS를 억제하는 pH 반응형 나노플랫폼 연구. Abemaciclib과의 직접적 관련성은 제목만으로 확립되지 않음 |
+### 지식 그래프에 기록된 관계 (승인 근거 없음)
+| 적응증 |
+|------|
+| 없음 |
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201902828 | 버제니오정200밀리그램 | 필름코팅정 (베이지색 타원형, 200 음각) | 허가 문서 참조 |
-| 201902825 | 버제니오정50밀리그램 | 필름코팅정 (베이지색 타원형, 50 음각) | 허가 문서 참조 |
-| 201902826 | 버제니오정100밀리그램 | 필름코팅정 (흰색 타원형, 100 음각) | 허가 문서 참조 |
-| 201902827 | 버제니오정150밀리그램 | 필름코팅정 (노란색 타원형, 150 음각) | 허가 문서 참조 |
+| 허가번호 | 제품명 | 제형 | 상태 |
+|------|------|------|------|
+| 201902828 | nan | 한 면에는 “Lilly”, 다른 면에는 “200”이 음각된 베이지색의 변 | 유효 |
+| 201902825 | nan | 한 면에는 “Lilly”, 다른 면에는 “50”이 음각된 베이지색의 변형 | 유효 |
+| 201902826 | nan | 한 면에는 “Lilly”, 다른 면에는 “100”이 음각된 흰색 내지 거 | 유효 |
+| 201902827 | nan | 한 면에는 “Lilly”, 다른 면에는 “150”이 음각된 노란색의 변형 | 유효 |
 
 ## 세포독성
 
@@ -97,25 +92,6 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 
 경고·금기 항목은 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-류마티스 관절염에 대한 예측 점수는 높지만 직접적인 임상시험이 없고, 문헌도 안전성 맥락 연구와 전임상 연구뿐입니다. 현재 근거만으로는 임상 개발을 진행하기 어렵습니다.
-
-**진행하려면 필요한 것:**
-- Abemaciclib의 류마티스 관절염 모델(FLS 증식, 관절염 동물 모델)에서의 직접적 전임상 근거
-- 상세한 약물 작용 기전 데이터 (MOA)
-- 허가 적응증 및 경고·금기를 포함한 허가사항(첨부문서) 확보
-- 면역 억제 환자군에서의 안전성 평가 계획 (감염, 호중구 감소 등 고려)
-
----
-
-**참고: 다른 예측 적응증**
-순위가 더 낮은 예측 중 근거가 있는 항목은 다음과 같습니다.
-- **근위축성 측삭경화증(ALS)**: 세포 기반 전임상 연구에서 TDP-43 응집 감소가 보고되어 추가 연구 질문으로 검토할 수 있으나, 임상 근거는 없고 중추신경계 투과성과 용량은 확인되지 않았습니다.
-- **심장 질환**: 문헌이 대부분 심혈관 독성(QTc 연장, 혈전, 부정맥) 신호를 보고하고 있어 재창출에는 부적합하며 오히려 위해 신호로 해석됩니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

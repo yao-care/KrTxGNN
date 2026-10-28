@@ -4,17 +4,17 @@ title: Vecuronium
 parent: 모델 예측만 (L5)
 nav_order: 781
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Vecuronium: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 마취 시 근이완 (신경근 차단제)"
 monitor_inn: "Vecuronium"
-predicted_indications: ["insomnia (disease)", "irritable bowel syndrome", "neurocirculatory asthenia", "benign prostatic hyperplasia (disease)", "cauda equina syndrome", "headache disorder", "rhinitis", "anxiety", "trigeminal autonomic cephalalgia", "migraine disorder"]
+predicted_indications: ["insomnia (disease)", "irritable bowel syndrome"]
 ---
 
 # Vecuronium
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 |------|------|
 | 기존 적응증 | 마취 시 근이완 (신경근 차단제) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
-| TxGNN 예측 점수 | 99.34% |
+| TxGNN 예측 점수 | 0.9934 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 |
 | 권장 결정 | Hold |
 

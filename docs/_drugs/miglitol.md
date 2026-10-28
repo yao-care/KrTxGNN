@@ -4,7 +4,7 @@ title: Miglitol
 parent: 모델 예측만 (L5)
 nav_order: 515
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Miglitol: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 2형 당뇨병 (허가 적응증 원문은 링크로만 제공되어 세부 문구는 확인하지 못함)"
 monitor_inn: "MIGLITOL"
@@ -14,7 +14,7 @@ predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndr
 # Miglitol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Miglitol은 장관 알파-글루코시다제 억제제로, 한국에서 당뇨�
 |------|------|
 | 기존 적응증 | 2형 당뇨병 (허가 적응증 원문은 링크로만 제공되어 세부 문구는 확인하지 못함) |
 | 예측 신규 적응증 | 고전형 강직인간증후군 (Classic Stiff Person Syndrome) |
-| TxGNN 예측 점수 | 99.87% |
+| TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 8건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ Miglitol은 장관 알파-글루코시다제 억제제로, 한국에서 당뇨�
 
 강직인간증후군은 항-GAD65 항체와 GABA 신호 이상이 관여하는 자가면역성 신경계 질환입니다. 장관에서 국소적으로 작용하는 Miglitol과는 약리학적 연결고리가 뚜렷하지 않습니다. 중추신경계에 작용한다고 보기도 어렵습니다.
 
-점수가 높게 나온 것은 직접적인 약리 기전보다 지식그래프 안에서의 근접성 때문일 가능성이 큽니다. 예를 들어 당뇨병 동반질환이나 GAD 자가면역과 얽힌 연결이 원인일 수 있습니다. 같은 점수를 받은 국소 강직사지증후군(Focal Stiff Limb Syndrome)도 같은 이유로 인공적 산물로 보입니다. 따라서 이 예측은 임상적으로 활용하기 어렵습니다.
+점수는 TxGNN 모델(딥러닝)이 산출한 것이며, 직접적인 약리 기전보다 모델이 관련 질환 사이에서 학습한 유사성을 반영한 결과일 가능성이 큽니다. 생물학적 근거는 아닙니다. 예를 들어 당뇨병 동반질환이나 GAD 자가면역과 얽힌 질환 간 유사성이 원인일 수 있습니다. 같은 점수(0.9987)를 받은 국소 강직사지증후군(Focal Stiff Limb Syndrome)도 같은 이유일 수 있습니다. 따라서 이 예측은 임상적으로 활용하기 어렵습니다.
 
 ## 임상시험 근거
 

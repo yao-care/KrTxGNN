@@ -4,17 +4,17 @@ title: Prasugrel
 parent: 모델 예측만 (L5)
 nav_order: 622
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Prasugrel: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 텍스트로 제공되지 않아 확인할 수 없음 (허가사항 문서 링크만 존재)"
 monitor_inn: "Prasugrel"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 ---
 
 # Prasugrel
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Prasugrel은 한국에서 에피언트정(5mg, 10mg)으로 허가·시판 중인
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 데이터에 텍스트로 제공되지 않아 확인할 수 없음 (허가사항 문서 링크만 존재) |
 | 예측 신규 적응증 | 폐고혈압 (Pulmonary Hypertension) |
-| TxGNN 예측 점수 | 99.88% |
+| TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ Prasugrel은 한국에서 에피언트정(5mg, 10mg)으로 허가·시판 중인
 
 혈소판 활성화와 폐혈관 내 국소 혈전 형성은 폐혈관 리모델링에 기여할 수 있어, 기전상 그럴듯한 연관성은 있습니다. 다만 이는 입증되지 않은 가설입니다. TxGNN 점수는 매우 높지만 이를 뒷받침하는 임상시험은 없습니다.
 
-참고로 같은 모델이 예측한 다른 후보 중 **편두통**(2순위, 점수 99.88%)은 근거가 더 많습니다. 아래 "결론 및 다음 단계"에서 함께 다룹니다.
+참고로 같은 모델이 예측한 다른 후보 중 **편두통**(2순위, 점수 0.9988)은 근거가 더 많습니다. 아래 "결론 및 다음 단계"에서 함께 다룹니다.
 
 ## 임상시험 근거
 

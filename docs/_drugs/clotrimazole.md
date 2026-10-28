@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Clotrimazole
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 230
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clotrimazole: 예측 신규 적응증 여드름 (Acne) (근거 수준 L5). 기존 적응증: 피부사상균, 효모 곰팡이, 기타 진균에 의한 피부진균증(백선, 어루러기, 피부칸디다증, 칸디다성 외음염 및 칸디다성 귀두염)…"
@@ -14,7 +14,7 @@ predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atro
 # Clotrimazole
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atro
 ## 한 문장 요약
 
 Clotrimazole은 아졸계 항진균제로, 원래 피부진균증(백선, 어루러기, 피부칸디다증)과 칸디다성 질염 치료에 사용되었습니다.
-TxGNN 모델은 상위 예측 질환으로 **여드름(Acne)**을 제시하며(예측 점수 99.86%), 이를 직접 뒷받침하는 근거는 **1건의 임상시험**(3제 복합제, 중단 상태)뿐이고 문헌은 없습니다.
+TxGNN 모델은 상위 예측 질환으로 **여드름(Acne)**을 제시하며(예측 점수 0.9986), 이를 직접 뒷받침하는 근거는 **1건의 임상시험**(3제 복합제, 중단 상태)뿐이고 문헌은 없습니다.
 참고로 2순위 예측인 외음질염(vulvovaginitis)은 이미 허가된 적응증이며 임상시험 12건과 문헌 20편이 있어, 새로운 재창출이라기보다 모델 예측의 타당성을 확인해 주는 사례입니다.
 
 ## 빠른 개요
@@ -48,13 +48,13 @@ TxGNN 모델은 상위 예측 질환으로 **여드름(Acne)**을 제시하며(�
 |------|------|
 | 기존 적응증 | 피부사상균, 효모 곰팡이, 기타 진균에 의한 피부진균증(백선, 어루러기, 피부칸디다증, 칸디다성 외음염 및 칸디다성 귀두염), 중복감염된 피부질환, 코리네박테륨에 의한 홍색음선 |
 | 예측 신규 적응증 | 여드름 (Acne) |
-| TxGNN 예측 점수 | 99.86% |
+| TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L4 (여드름 기준, 직접 근거 매우 제한적) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold (여드름) |
 
-> 참고: 2순위 예측인 외음질염(점수 99.59%)은 근거 수준 L1, 권장 결정 Proceed with Guardrails이나 기허가 적응증입니다. 3순위 위축성 질염(점수 99.46%)은 근거 수준 L5, Hold입니다.
+> 참고: 2순위 예측인 외음질염(점수 0.9959)은 근거 수준 L1, 권장 결정 Proceed with Guardrails이나 기허가 적응증입니다. 3순위 위축성 질염(점수 0.9946)은 근거 수준 L5, Hold입니다.
 
 ## 이 예측이 타당한 이유는?
 

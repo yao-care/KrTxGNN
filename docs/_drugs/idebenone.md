@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Idebenone: 예측 신규 적응증 간성 포르피린증 (Hepatic Porphyria) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "Idebenone"
-predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
+predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
 ---
 
 # Idebenone
@@ -48,9 +48,9 @@ TxGNN 모델은 **간성 포르피린증(Hepatic Porphyria)**에 효과가 있�
 |------|------|
 | 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조) |
 | 예측 신규 적응증 | 간성 포르피린증 (Hepatic Porphyria) |
-| TxGNN 예측 점수 | 99.92% |
+| TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **간성 포르피린증(Hepatic Porphyria)**에 효과가 있�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Idebenone은 합성 단쇄 CoQ10 유사체로, 미토콘드리아 호흡 사슬에서 전자 전달체 및 항산화제로 작용합니다.
 
-간세포의 산화 스트레스를 줄일 수 있다는 점에서 간 질환에 대한 가설적 연결고리는 생각해 볼 수 있습니다. 그러나 이 작용이 헴(heme) 생합성 결함과 연결된다는 근거는 현재 데이터에 없습니다. 따라서 이 예측은 지식 그래프 기반 예측일 뿐, 기전적으로 검증되지 않았습니다.
+간세포의 산화 스트레스를 줄일 수 있다는 점에서 간 질환에 대한 가설적 연결고리는 생각해 볼 수 있습니다. 그러나 이 작용이 헴(heme) 생합성 결함과 연결된다는 근거는 현재 데이터에 없습니다. 따라서 이 예측은 TxGNN 모델(딥러닝)이 산출한 점수이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니고, 기전적으로 검증되지 않았습니다.
 
 참고로 같은 모델이 예측한 다른 후보(상위 10건)에는 간문맥 관련 질환(비경화성 문맥압항진증, 일차성 문맥 혈전증, 간문맥 경화증), 구리 관련 간경변, 간폐증후군, 근염 계열 질환 등이 있으며, 모두 임상시험·문헌 근거가 없는 L5 단계입니다.
 

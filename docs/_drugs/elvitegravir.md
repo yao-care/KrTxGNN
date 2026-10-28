@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Elvitegravir
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 304
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Elvitegravir: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 문구를 확인할 수 없음 (HIV-1 인테그라제 억제제로 알…"
@@ -14,7 +14,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 # Elvitegravir
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-## Elvitegravir: HIV 감염에서 원숭이 면역결핍 바이러스(SIV) 감염으로
+## Elvitegravir: HIV 감염에서 원숭이면역결핍바이러스 감염으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -48,9 +48,9 @@ TxGNN 모델은 **원숭이 면역결핍 바이러스 감염(simian immunodefici
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 문구를 확인할 수 없음 (HIV-1 인테그라제 억제제로 알려져 있음) |
 | 예측 신규 적응증 | 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) |
-| TxGNN 예측 점수 | 99.89% |
+| TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L4 (전임상 및 기전 연구) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 

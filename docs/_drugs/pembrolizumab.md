@@ -4,17 +4,17 @@ title: Pembrolizumab
 parent: 모델 예측만 (L5)
 nav_order: 585
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Pembrolizumab: 예측 신규 적응증 치은 섬유종증 (Gingival Fibromatosis) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 원문이 링크로만 제공되어 본문 확인이 불가합니다. 약리학 자료상 흑색종, 비소세포폐암…"
 monitor_inn: "PEMBROLIZUMAB"
-predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 ---
 
 # Pembrolizumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **치은 섬유종증(Gingival Fibromatosis)**에 효과가 있�
 |------|------|
 | 기존 적응증 | 허가증에는 적응증 원문이 링크로만 제공되어 본문 확인이 불가합니다. 약리학 자료상 흑색종, 비소세포폐암, 두경부암 등 다수 항암 적응증이 있습니다. |
 | 예측 신규 적응증 | 치은 섬유종증 (Gingival Fibromatosis) |
-| TxGNN 예측 점수 | 99.40% |
+| TxGNN 예측 점수 | 0.9940 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **치은 섬유종증(Gingival Fibromatosis)**에 효과가 있�
 
 펨브롤리주맙은 T세포 표면의 PD-1(PDCD1, CD279) 수용체에 결합하는 단클론항체입니다. PD-1 신호를 차단해 종양에 대한 면역 반응을 되살리는 방식으로 작용합니다. 다만 허가사항에서 작용 기전 항목은 별도로 확보되지 않았고, 위 내용은 약리학 데이터의 표적 정보를 근거로 한 설명입니다.
 
-치은 섬유종증은 잇몸 조직이 섬유성으로 과증식하는 양성 질환입니다. 이 질환에서 PD-1 차단이 어떤 역할을 한다는 근거는 알려져 있지 않으며, 기존 암 적응증과의 기전적 연관성도 확인되지 않았습니다. 높은 TxGNN 점수는 지식 그래프상의 근접성에서 나온 계산 결과로 보이며, 실제 생물학적 타당성을 입증하는 것은 아닙니다.
+치은 섬유종증은 잇몸 조직이 섬유성으로 과증식하는 양성 질환입니다. 이 질환에 대한 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
 ## 임상시험 근거
 

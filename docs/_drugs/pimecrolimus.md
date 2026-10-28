@@ -4,17 +4,17 @@ title: Pimecrolimus
 parent: 높은 근거 (L1-L2)
 nav_order: 602
 evidence_level: L2
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Pimecrolimus: 예측 신규 적응증 지루피부염 (Seborrheic Dermatitis) (근거 수준 L2). 기존 적응증: 허가증에 적응증 원문이 문서 링크 형태로만 등록되어 있어 이번 자료로는 확인되지 않음 (문헌상 승인 적응증은 경증~중등증 아…"
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
+description: "Pimecrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209697/EE"
 ---
 
 # Pimecrolimus
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **4** 건
+근거 수준: **L2** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acroderm
 
 </div>
 
-## Pimecrolimus: 아토피피부염에서 지루피부염으로
+## Pimecrolimus: 지루피부염 (seborrheic dermatitis)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -45,11 +45,11 @@ TxGNN 모델은 **지루피부염(Seborrheic Dermatitis)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 문서 링크 형태로만 등록되어 있어 이번 자료로는 확인되지 않음 (문헌상 승인 적응증은 경증~중등증 아토피피부염의 2차 치료) |
-| 예측 신규 적응증 | 지루피부염 (Seborrheic Dermatitis) |
-| TxGNN 예측 점수 | 99.73% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209697/EE |
+| 예측 신규 적응증 | 지루피부염 (seborrheic dermatitis) |
+| TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -113,9 +113,8 @@ TxGNN 모델은 **지루피부염(Seborrheic Dermatitis)**에 효과가 있을 �
 
 | 순위 | 예측 질환 | TxGNN 점수 | 근거 수준 | 권장 | 비고 |
 |------|---------|-----------|---------|------|------|
-| 2 | 피부염 (Dermatitis) | 99.37% | L1 | Proceed with Guardrails | 대부분 아토피피부염 연구로, 사실상 기존 적응증의 확인에 가까움. 장기 안전성(악성종양), 영유아 사용, 스테로이드 이후 2차 치료로서의 위치가 가드레일 |
-| 3 | 발진 (Exanthem) | 99.32% | L2 | Research Question | 구강 편평태선, 외음부 경화태선, EGFR 억제제 발진 등 이질적인 질환이 섞여 있으며 소규모 시험이 대부분 |
-| 4 | 만성 위축성 말단피부염 | 99.01% | L5 | Hold | 근거 없음. 보렐리아 감염(라임병) 후기 병변으로 항생제가 표준치료이고, 면역억제는 오히려 해로울 수 있음 |
+| 3 | 발진 (Exanthem) | 0.9932 | L5 | Research Question | 구강 편평태선, 외음부 경화태선, EGFR 억제제 발진 등 이질적인 질환이 섞여 있으며 소규모 시험이 대부분 |
+| 4 | 만성 위축성 말단피부염 | 0.9901 | L5 | Hold | 근거 없음. 보렐리아 감염(라임병) 후기 병변으로 항생제가 표준치료이고, 면역억제는 오히려 해로울 수 있음 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -8,6 +8,7 @@ nav_order: 107
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Avatrombopag Maleate
@@ -51,7 +52,7 @@ Avatrombopag Maleate에 대한 약물 재창출 평가를 시도하였으나, �
 | 예측 신규 적응증 | TxGNN 예측 결과 없음 |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | 미시판 (Not marketed) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

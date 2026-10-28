@@ -39,7 +39,7 @@ predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter
 ## 한 문장 요약
 
 탄산리튬(Lithium Carbonate)은 한국에서 4건의 단일제 허가를 받아 시판 중인 약물이지만, 이번 데이터에는 허가 적응증의 본문 내용이 포함되어 있지 않습니다.
-TxGNN 모델은 **가성무형성증(Pseudoachondroplasia)**에 효과가 있을 수 있다고 예측하며, 예측 점수는 매우 높습니다(99.98%).
+TxGNN 모델은 **가성무형성증(Pseudoachondroplasia)**에 효과가 있을 수 있다고 예측하며, 예측 점수는 매우 높습니다(0.9998).
 그러나 이를 지지하는 **임상시험은 0건**이고, 1순위 질환에 대한 **문헌도 0건**이어서 모델 예측 수준의 근거에 머물러 있습니다.
 
 ## 빠른 개요
@@ -48,9 +48,9 @@ TxGNN 모델은 **가성무형성증(Pseudoachondroplasia)**에 효과가 있을
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문을 확인하지 못함) |
 | 예측 신규 적응증 | 가성무형성증 (Pseudoachondroplasia) |
-| TxGNN 예측 점수 | 99.98% |
+| TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 

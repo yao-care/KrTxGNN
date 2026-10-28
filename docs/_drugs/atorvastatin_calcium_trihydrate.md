@@ -8,6 +8,7 @@ nav_order: 98
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Atorvastatin Calcium Trihydrate
@@ -55,7 +56,7 @@ DrugBank ID 미확정 및 한국 시판 데이터 부재로 인해 **추가 데�
 | 예측 신규 적응증 | 데이터 없음 (TxGNN 예측 미수행) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (모델 예측 부재) |
-| 한국 시판 현황 | ✗ 미확인 (Not marketed) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

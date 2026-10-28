@@ -33,7 +33,7 @@ predicted_indications: ["factor 5 excess with spontaneous thrombosis", "heparin 
 
 </div>
 
-## Triflusal: 혈소판 응집 관련 질환에서 인자 V 과다 혈전증으로
+## Triflusal: 인자 V 과다에 의한 자발성 혈전증
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,9 +46,9 @@ Triflusal은 항혈소판제로, 한국에서 단일 성분 캡슐제로 허가�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 링크로만 제공되어 있어 이 보고서에서 확인하지 못했습니다. 허가사항을 참조하세요. |
 | 예측 신규 적응증 | 인자 V 과다에 의한 자발성 혈전증 (factor 5 excess with spontaneous thrombosis) |
-| TxGNN 예측 점수 | 99.60% |
+| TxGNN 예측 점수 | 0.9960 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 7건 |
 | 권장 결정 | Hold |
 

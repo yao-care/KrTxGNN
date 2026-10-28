@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dolutegravir
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 285
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Dolutegravir: 예측 신규 적응증 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 문구를 확인할 수 없습니다(HIV 감염 치료제로 알려져 있음)"
@@ -14,7 +14,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 # Dolutegravir
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-## Dolutegravir: HIV 감염에서 원숭이 면역결핍바이러스(SIV) 감염으로
+## Dolutegravir: HIV 감염에서 원숭이면역결핍바이러스 감염으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **원숭이 면역결핍바이러스 감염(simian immunodeficie
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적인 문구를 확인할 수 없습니다(HIV 감염 치료제로 알려져 있음) |
 | 예측 신규 적응증 | 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) |
-| TxGNN 예측 점수 | 99.85% |
+| TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L4 (전임상·기전 연구) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -111,8 +111,8 @@ SIV 감염은 사람의 새로운 질환이 아니라 HIV의 동물 모델이며
 
 ### 참고: 순위 2·3위 예측
 
-- **고양이 후천성 면역결핍 증후군(feline AIDS, 점수 99.85%)**: 문헌은 병용 항레트로바이러스 요법(dolutegravir 포함)을 FIV 감염 고양이에 적용한 수의학 연구 1편뿐이며, dolutegravir 단독 기여도는 불분명합니다. 수의학적 적응증이어서 인체 재창출 관련성이 낮으며 근거 수준은 L4, 권장 결정은 Hold입니다.
-- **운동실조 보행·언어 소실·피질 백질 감소를 동반한 신경발달장애(점수 99.80%)**: 임상시험과 문헌이 모두 없고, 인테그라제 억제와의 기전적 연관성도 확인되지 않아 그래프 기반 계산상의 산물일 가능성이 큽니다. 근거 수준은 L5, 권장 결정은 Hold이며, 표적·경로 검증 전에는 고려하지 않는 것이 좋습니다.
+- **고양이 후천성 면역결핍 증후군(feline AIDS, 점수 0.9985)**: 문헌은 병용 항레트로바이러스 요법(dolutegravir 포함)을 FIV 감염 고양이에 적용한 수의학 연구 1편뿐이며, dolutegravir 단독 기여도는 불분명합니다. 수의학적 적응증이어서 인체 재창출 관련성이 낮으며 근거 수준은 L4, 권장 결정은 Hold입니다.
+- **운동실조 보행·언어 소실·피질 백질 감소를 동반한 신경발달장애(점수 0.9980)**: 임상시험과 문헌이 모두 없고, 인테그라제 억제와의 기전적 연관성도 확인되지 않았습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 학습한 관련 질환 간 유사성을 반영한 것일 수 있으며 생물학적 근거는 아닙니다. 근거 수준은 L5, 권장 결정은 Hold이며, 표적·경로 검증 전에는 고려하지 않는 것이 좋습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Pidotimod
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 601
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pidotimod: 예측 신규 적응증 골관절염 (Osteoarthritis) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 이번 데이터에 포함되지 않음"
+description: "Pidotimod: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Pidotimod"
-predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "hepatic porphyria", "pseudoachondroplasia", "gout", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Pidotimod
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheu
 
 </div>
 
-## Pidotimod: 면역 조절 보조제에서 골관절염으로
+## Pidotimod
 {: .text-alpha }
-
-## 한 문장 요약
-
-Pidotimod는 합성 디펩타이드 계열의 면역조절제로, 한국에서 단일제로 허가되어 시판되고 있습니다.
-TxGNN 모델은 **골관절염(Osteoarthritis)**에 효과가 있을 수 있다고 예측하지만,
-현재 이 방향을 지지하는 **임상시험 0건, 문헌 0편**으로 모델 예측만 존재합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되며 적응증 본문은 이번 데이터에 포함되지 않음 |
-| 예측 신규 적응증 | 골관절염 (Osteoarthritis) |
-| TxGNN 예측 점수 | 98.56% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502367/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502351/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605960/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Pidotimod는 선천 및 적응 면역 반응을 강화하는 합성 디펩타이드 면역조절제입니다. 수지상세포 성숙 촉진, TLR-2 발현 증가, Th1 분극화 등이 보고되어 있습니다.
-
-골관절염에는 경미한 염증 요소가 있지만, Pidotimod와의 직접적이거나 그럴듯한 기전적 연결은 확인되지 않았습니다. 98.56%라는 높은 점수는 지식 그래프 기반의 계산상 예측일 뿐이며, 임상시험이나 문헌으로 뒷받침되지 않습니다.
-
-같은 맥락에서 상위 예측 질환 대부분(류마티스 관절염, 통풍, 골격 이형성증, 간 포르피린증, 문맥 질환 등)도 기전상 근거가 부족합니다. 특히 면역을 자극하는 약물이 류마티스 관절염 같은 자가면역질환에서는 오히려 질환 활성을 악화시킬 가능성이 있어 방향성 자체가 의문입니다.
 
 ## 한국 시판 정보
 
@@ -75,22 +59,8 @@ TxGNN 모델은 **골관절염(Osteoarthritis)**에 효과가 있을 수 있다�
 안전성 정보는 허가사항을 참조하세요.
 
 다만 예측 질환과 관련하여 다음 사항은 주의가 필요합니다.
-- **류마티스 관절염**: 면역 자극이 자가면역 질환 활성을 악화시킬 수 있어 안전성 우려가 있습니다.
 - **간 포르피린증**: 일부 약물은 급성 발작을 유발할 수 있으나, Pidotimod의 포르피린 유발성 데이터는 확인되지 않았습니다.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-골관절염 예측은 모델 점수에만 의존하며 임상시험과 문헌 근거가 전혀 없습니다. 기전적 연결도 불분명하여 근거 수준은 L5입니다. 상위 10개 예측 모두 같은 수준(L5, Hold)입니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(허가증 PDF)에서 기존 적응증, 경고, 금기 정보 확보
-- 상세한 약물 작용 기전(MOA) 데이터 확보
-- 골관절염에서 Pidotimod의 염증 조절 가능성을 보여주는 전임상 또는 기전 연구
-- 관련 임상시험 및 문헌 검색 결과 확인
-- 자가면역 질환 및 포르피린증 관련 안전성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

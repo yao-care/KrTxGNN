@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Sorafenib
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 699
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Sorafenib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 PDF 링크로만 제공되어 이번 데이터에서 확인할 수 없습니다"
 monitor_inn: "sorafenib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 # Sorafenib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Sorafenib은 다중 키나아제 억제제로, 한국에서 넥사바정(바이�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 허가증 PDF 링크로만 제공되어 이번 데이터에서 확인할 수 없습니다. |
 | 예측 신규 적응증 | 지방육종 (Liposarcoma) |
-| TxGNN 예측 점수 | 99.82% |
+| TxGNN 예측 점수 | 0.9982 |
 | 근거 수준 | L2 (연조직육종 대상 Phase 2 시험 있음, 지방육종 특이 근거는 제한적) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Imatinib
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 416
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Imatinib: 예측 신규 적응증 심장 섬유육종 (heart fibrosarcoma) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트는 확인되지 않음 (허가증에 문서 링크만 수록)"
@@ -14,7 +14,7 @@ predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventi
 # Imatinib
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **심장 섬유육종(heart fibrosarcoma)**에 효과가 있을 
 |------|------|
 | 기존 적응증 | 허가 적응증 텍스트는 확인되지 않음 (허가증에 문서 링크만 수록) |
 | 예측 신규 적응증 | 심장 섬유육종 (heart fibrosarcoma) |
-| TxGNN 예측 점수 | 99.94% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9994 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

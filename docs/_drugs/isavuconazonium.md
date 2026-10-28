@@ -46,9 +46,9 @@ Isavuconazonium은 한국에서 크레셈바(캡슐·주사제)로 시판 중인
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 제공되지 않아 확인할 수 없음 (허가사항 PDF 링크만 제공됨) |
 | 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
-| TxGNN 예측 점수 | 99.56% |
+| TxGNN 예측 점수 | 0.9956 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Isavuconazonium은 한국에서 크레셈바(캡슐·주사제)로 시판 중인
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Isavuconazonium은 isavuconazole의 전구약물인 광범위 트리아졸계 항진균제로, 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하여 ergosterol 합성을 차단합니다.
 
-다만 이 기전은 폐포자충증에는 잘 맞지 않습니다. *Pneumocystis jirovecii*는 세포막에 ergosterol이 거의 없고 콜레스테롤 등 다른 스테롤을 사용하므로, 아졸계 약물이 효과적이라고 보기 어렵습니다. 99.56%라는 높은 점수는 검증된 기전보다는 지식 그래프상의 일반적인 항진균제 연관성을 반영했을 가능성이 큽니다. 1차 치료제인 trimethoprim-sulfamethoxazole이 이미 확립되어 있다는 점도 고려해야 합니다.
+다만 이 기전은 폐포자충증에는 잘 맞지 않습니다. *Pneumocystis jirovecii*는 세포막에 ergosterol이 거의 없고 콜레스테롤 등 다른 스테롤을 사용하므로, 아졸계 약물이 효과적이라고 보기 어렵습니다. 0.9956라는 높은 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있으며 생물학적 근거는 아닙니다. 1차 치료제인 trimethoprim-sulfamethoxazole이 이미 확립되어 있다는 점도 고려해야 합니다.
 
 참고로 2순위 예측인 균종(Mycetoma)은 기전상 더 설득력이 있습니다. 진균성 균종(eumycetoma)의 원인균은 아졸계 약물에 감수성이 있고, itraconazole이 현재 표준 치료입니다. 반면 방선균성 균종(actinomycetoma)은 세균 감염이어서 항진균제에 반응하지 않습니다.
 

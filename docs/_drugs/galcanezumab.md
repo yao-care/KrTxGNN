@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 370
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Galcanezumab: 예측 신규 적응증 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: 편두통 예방 및 삽화성 군발두통 (허가증 원문은 첨부 문서 링크로만 제공되어 일반 알려진 적응증 기준)"
+last_modified_at: 2026-10-28
 monitor_inn: "GALCANEZUMAB"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
+description: "Galcanezumab: 예측 신규 적응증 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906307/EE"
 ---
 
 # Galcanezumab
@@ -33,7 +33,7 @@ predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficienc
 
 </div>
 
-## Galcanezumab: 편두통 예방에서 헤파린 보조인자 2 결핍증으로
+## Galcanezumab: 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -45,11 +45,11 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍증(heparin cofactor 2 deficien
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 편두통 예방 및 삽화성 군발두통 (허가증 원문은 첨부 문서 링크로만 제공되어 일반 알려진 적응증 기준) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906307/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906308/EE |
 | 예측 신규 적응증 | 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) |
-| TxGNN 예측 점수 | 99.50% |
+| TxGNN 예측 점수 | 0.9950 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
@@ -57,9 +57,9 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍증(heparin cofactor 2 deficien
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 galcanezumab은 CGRP 리간드를 중화하는 단클론항체이며, 편두통 예방과 군발두통에서 효능이 입증되어 있습니다.
 
-헤파린 보조인자 2 결핍증은 트롬빈 억제를 담당하는 세르핀(serpin) 기능이 유전적으로 떨어지는 질환입니다. CGRP 중화와 더마탄 황산 의존적 트롬빈 억제 사이에서 타당한 기전적 연결고리는 확인되지 않았습니다. 따라서 높은 TxGNN 점수는 지식 그래프 기반 예측일 뿐이며, 현 시점에서 기전상 적용 가능성을 뒷받침하기 어렵습니다.
+헤파린 보조인자 2 결핍증은 트롬빈 억제를 담당하는 세르핀(serpin) 기능이 유전적으로 떨어지는 질환입니다. CGRP 중화와 더마탄 황산 의존적 트롬빈 억제 사이에서 타당한 기전적 연결고리는 확인되지 않았습니다. 따라서 높은 점수(0.9950)는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있으나 생물학적 근거는 아니며, 현 시점에서 기전상 적용 가능성을 뒷받침하기 어렵습니다.
 
-같은 모델이 예측한 다른 후보(antithrombin 결핍증 2형 99.41%, 인자 V 과잉에 의한 자발성 혈전증 99.41%)도 모두 응고 계통 질환으로, 마찬가지로 임상시험이나 문헌 근거가 없습니다.
+같은 모델이 예측한 다른 후보(antithrombin 결핍증 2형 0.9941, 인자 V 과잉에 의한 자발성 혈전증 0.9941)도 모두 응고 계통 질환으로, 마찬가지로 임상시험이나 문헌 근거가 없습니다.
 
 ## 한국 시판 정보
 
@@ -81,7 +81,7 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍증(heparin cofactor 2 deficien
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 높지만(99.50%) 임상시험과 문헌이 전혀 없고, CGRP 중화와 헤파린 보조인자 2 기능 사이의 기전적 연관성도 확인되지 않았습니다. 근거 수준은 L5(모델 예측만 존재)입니다.
+TxGNN 점수는 높지만(0.9950) 임상시험과 문헌이 전혀 없고, CGRP 중화와 헤파린 보조인자 2 기능 사이의 기전적 연관성도 확인되지 않았습니다. 근거 수준은 L5(모델 예측만 존재)입니다.
 
 **진행하려면 필요한 것:**
 - 허가사항(경고, 금기)의 확보 및 분석

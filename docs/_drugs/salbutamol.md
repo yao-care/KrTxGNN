@@ -4,17 +4,17 @@ title: Salbutamol
 parent: 모델 예측만 (L5)
 nav_order: 680
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Salbutamol: 예측 신규 적응증 유두성 결막염 (Papillary Conjunctivitis) (근거 수준 L5)."
 monitor_inn: "Salbutamol"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture", "obstructive lung disease"]
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
 ---
 
 # Salbutamol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,16 +38,16 @@ predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pha
 
 ## 한 문장 요약
 
-Salbutamol은 베타-2 작용제 계열의 약물로, 한국에서는 정제와 흡입제 형태로 시판되고 있습니다. TxGNN 모델은 **유두성 결막염(Papillary Conjunctivitis)**에 효과가 있을 수 있다고 예측하지만(예측 점수 99.996%), 이 예측을 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 따라서 현재는 모델 예측만 있는 초기 단계입니다.
+Salbutamol은 베타-2 작용제 계열의 약물로, 한국에서는 정제와 흡입제 형태로 시판되고 있습니다. TxGNN 모델은 **유두성 결막염(Papillary Conjunctivitis)**에 효과가 있을 수 있다고 예측하지만(예측 점수 1.0000), 이 예측을 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 따라서 현재는 모델 예측만 있는 초기 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 예측 신규 적응증 | 유두성 결막염 (Papillary Conjunctivitis) |
-| TxGNN 예측 점수 | 99.996% |
+| TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
@@ -100,7 +100,7 @@ Salbutamol은 베타-2 작용제 계열의 약물로, 한국에서는 정제와 
 - 점안 등 안구용 제형의 필요성 및 실현 가능성 검토
 - 약물 상호작용(100건)과 심혈관·저칼륨혈증 위험 검토
 
-**참고:** 이번 자료에는 같은 약물에 대한 다른 예측 적응증도 포함되어 있습니다. 그중 폐쇄성 폐질환(Obstructive lung disease)은 근거 수준 L1(완료된 Phase 3 시험 NCT02177253, 1,118명)로 가장 강하지만, 기존 허가 범위와 사실상 겹쳐 엄밀한 의미의 재창출은 아닙니다. 아나필락시스는 Phase 3 시험이 24명 등록 후 조기 종료되어 근거 수준이 L3에 머뭅니다. 이들은 별도 평가가 필요합니다.
+**참고:** 이번 자료에는 같은 약물에 대한 다른 예측 적응증도 포함되어 있습니다. 아나필락시스는 Phase 3 시험이 24명 등록 후 조기 종료되어 근거 수준이 L3에 머뭅니다. 이는 별도 평가가 필요합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

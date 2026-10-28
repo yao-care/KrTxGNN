@@ -4,17 +4,17 @@ title: Tolvaptan
 parent: 모델 예측만 (L5)
 nav_order: 746
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Tolvaptan: 예측 신규 적응증 다낭신질환 3형 (다낭간질환 동반 또는 비동반) (근거 수준 L5). 기존 적응증: 허가증 원문 링크만 제공되어 구체적인 적응증 문구를 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+description: "Tolvaptan: 예측 신규 적응증 Renal-hepatic-pancreatic dysplasia (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203115/EE"
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic inte
 
 </div>
 
-## Tolvaptan: 허가 적응증에서 상염색체 우성 다낭신질환(PKD3 포함 다낭신 질환)으로
+## Tolvaptan: Renal-hepatic-pancreatic dysplasia
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -44,11 +44,11 @@ Tolvaptan은 선택적 바소프레신 V2 수용체 길항제로, 한국에서 4
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증 원문 링크만 제공되어 구체적인 적응증 문구를 확인할 수 없음 (허가사항 참조) |
-| 예측 신규 적응증 | 다낭신질환 3형 (다낭간질환 동반 또는 비동반) |
-| TxGNN 예측 점수 | 99.99% |
-| 근거 수준 | L1 (ADPKD 전체 계열 기준의 직접 근거이며, PKD3에는 외삽) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203115/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203114/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004774/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202617/EE |
+| 예측 신규 적응증 | Renal-hepatic-pancreatic dysplasia |
+| TxGNN 예측 점수 | 0.9998 |
+| 근거 수준 | L5 (ADPKD 전체 계열 기준의 직접 근거이며, PKD3에는 외삽) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Proceed with Guardrails |
 

@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 696
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Sodium Ferric Gluconate Complex: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 철 결핍성 빈혈"
+last_modified_at: 2026-10-28
 monitor_inn: "SODIUM FERRIC GLUCONATE COMPLEX"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "anaphylaxis", "bronchitis", "food-dependent exercise-induced anaphylaxis", "diabetic cataract"]
+description: "Sodium Ferric Gluconate Complex: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: 이 약은 철 결핍성 빈혈에 사용합니다"
 ---
 
 # Sodium Ferric Gluconate Complex
@@ -33,24 +33,24 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabeti
 
 </div>
 
-## Sodium Ferric Gluconate Complex: 철 결핍성 빈혈에서 중증 비증식성 당뇨망막병증으로
+## Sodium Ferric Gluconate Complex: 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy)
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Sodium Ferric Gluconate Complex는 철분 보충제로, 원래 철 결핍성 빈혈 치료에 사용되었습니다.
 TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative Diabetic Retinopathy)**에 효과가 있을 수 있다고 예측하지만, 이를 지지하는 **임상시험과 문헌은 한 건도 없습니다**.
-따라서 이 예측은 모델 계산 결과에 그치며, 현재로서는 지식그래프상의 우연한 연관일 가능성이 높습니다.
+따라서 이 예측은 TxGNN 모델(딥러닝)의 계산 결과에 그치며, 관련 질환 간에 모델이 학습한 유사성을 반영할 뿐 생물학적 근거는 아니므로, 현재로서는 우연한 연관일 가능성이 높습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 철 결핍성 빈혈 |
-| 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) |
-| TxGNN 예측 점수 | 99.76% |
+| 기존 적응증 | 이 약은 철 결핍성 빈혈에 사용합니다.; 이 약은 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력 저하 시 비타민 B6의 보급과 구각염(입꼬리염), 구순염(입술염), 구내염(입안염), 설염(혀염), 습진, 피부염의 완화와 철 결핍성 빈혈의 예방 및 치료에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200000570/EE |
+| 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) |
+| TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -58,9 +58,9 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, 이 약은 철분 보충제로서 철 결핍성 빈혈의 치료와 예방에 허가되어 있습니다.
 
-그러나 철분 보충이 당뇨망막병증에서 치료 역할을 한다고 알려진 바는 없습니다. 오히려 과량의 철은 이론적으로 망막에 산화 스트레스를 더할 수 있습니다. 기존 적응증과 예측 적응증 사이에 확립된 기전적 연결고리가 없으므로, 높은 예측 점수에도 불구하고 이 예측은 지식그래프의 인공적 산물일 가능성이 큽니다.
+그러나 철분 보충이 당뇨망막병증에서 치료 역할을 한다고 알려진 바는 없습니다. 오히려 과량의 철은 이론적으로 망막에 산화 스트레스를 더할 수 있습니다. 기존 적응증과 예측 적응증 사이에 확립된 기전적 연결고리가 없으므로, 이 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영할 뿐 생물학적 근거는 아니며, 높은 예측 점수에도 불구하고 이 예측은 신뢰하기 어렵습니다.
 
-같은 방식으로 상위 예측인 당뇨망막병증(99.67%)과 당뇨병성 백내장(99.20%)도 동일한 당뇨 합병증 신호를 공유하는 것으로 보이며, 마찬가지로 근거가 없습니다.
+같은 방식으로 상위 예측인 당뇨망막병증(0.9967)과 당뇨병성 백내장(0.9920)도 동일한 당뇨 합병증 신호를 공유하는 것으로 보이며, 마찬가지로 근거가 없습니다.
 
 ## 임상시험 근거
 

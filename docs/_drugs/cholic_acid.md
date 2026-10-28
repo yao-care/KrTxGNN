@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Cholic Acid
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 210
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cholic Acid: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 담즙산 합성 장애 (EMA·FDA 승인 기준). 한국 허가 적응증 원문은 허가사항 링크로만 제공되어 별도 확인이 필요합니다"
@@ -14,7 +14,7 @@ predicted_indications: ["HIV infectious disease", "obsolete familial combined hy
 # Cholic Acid
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **HIV 감염증(HIV infectious disease)**에 효과가 있을 �
 |------|------|
 | 기존 적응증 | 담즙산 합성 장애 (EMA·FDA 승인 기준). 한국 허가 적응증 원문은 허가사항 링크로만 제공되어 별도 확인이 필요합니다. |
 | 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
-| TxGNN 예측 점수 | 99.79% |
+| TxGNN 예측 점수 | 0.9979 |
 | 근거 수준 | L4 (전임상·기전 수준의 간접 근거만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -99,7 +99,7 @@ HIV 감염증과의 연결 고리는 약합니다. 1993년 연구에서 콜산�
 **결정: Hold**
 
 **사유:**
-HIV 감염증에 대한 임상시험이 없고, 문헌은 오래된 시험관·피임제 연구와 관찰 연구뿐입니다. 콜산 유도체가 HIV 복제를 오히려 촉진했다는 보고도 있어, 99.79%라는 TxGNN 점수만으로 진행하기는 어렵습니다.
+HIV 감염증에 대한 임상시험이 없고, 문헌은 오래된 시험관·피임제 연구와 관찰 연구뿐입니다. 콜산 유도체가 HIV 복제를 오히려 촉진했다는 보고도 있어, 0.9979라는 TxGNN 점수만으로 진행하기는 어렵습니다.
 
 **진행하려면 필요한 것:**
 - 한국 허가사항(적응증, 경고, 금기) 원문 확인 및 정리

@@ -4,17 +4,17 @@ title: Olanzapine
 parent: 모델 예측만 (L5)
 nav_order: 560
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Olanzapine: 예측 신규 적응증 영아 양성 발작성 사경 (Benign paroxysmal torticollis of infancy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 허가 문서 링크만 수록됨)"
 monitor_inn: "OLANZAPINE"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 </div>
 
-## Olanzapine: 정신과 질환에서 광장공포증으로
+## Olanzapine: 정신과 질환에서 영아 양성 발작성 사경으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,12 +46,11 @@ Olanzapine은 한국에서 단일 성분제로 20건이 허가된 비정형 항�
 |------|------|
 | 기존 적응증 | 확인 불가 (허가증에 적응증 본문이 아닌 허가 문서 링크만 수록됨) |
 | 예측 신규 적응증 (1순위) | 영아 양성 발작성 사경 (Benign paroxysmal torticollis of infancy) |
-| TxGNN 예측 점수 (1순위) | 99.54% |
+| TxGNN 예측 점수 (1순위) | 0.9954 |
 | 근거 수준 (1순위) | L5 |
 | 권장 결정 (1순위) | Hold |
-| 주요 검토 대상 (2순위) | 광장공포증 (Agoraphobia), 예측 점수 99.47%, 근거 수준 L3, 권장 결정 Research Question |
-| 3순위 | 기분부전장애 (Dysthymic disorder), 예측 점수 99.28%, 근거 수준 L3, 권장 결정 Research Question |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 주요 검토 대상 (2순위) | 광장공포증 (Agoraphobia), 예측 점수 0.9947, 근거 수준 L3, 권장 결정 Research Question |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 유효, 단일 성분제) |
 
 > 1순위 예측은 근거가 전혀 없어 보류하며, 이하 임상시험·문헌 근거는 근거가 있는 2순위(광장공포증)를 기준으로 정리합니다.
@@ -111,7 +110,7 @@ Olanzapine은 한국에서 단일 성분제로 20건이 허가된 비정형 항�
 **결정: 1순위(영아 양성 발작성 사경) Hold / 2순위(광장공포증)·3순위(기분부전장애) Research Question 단계**
 
 **사유:**
-- 1순위 예측은 그래프 기반 점수만 있고 임상시험과 문헌이 없으며, 영아에게 항정신병약을 쓰는 위험 대비 이익 우려가 커서 보류합니다.
+- 1순위 예측은 TxGNN 모델(딥러닝)의 점수만 있고(이 점수는 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으며, 생물학적 근거는 아닙니다) 임상시험과 문헌이 없으며, 영아에게 항정신병약을 쓰는 위험 대비 이익 우려가 커서 보류합니다.
 - 광장공포증은 공황장애 증강 요법에 대한 소규모 공개 라벨 시험과 증례 보고만 있어 연구 질문 단계(L3)입니다.
 
 **진행하려면 필요한 것:**

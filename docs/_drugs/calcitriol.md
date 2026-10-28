@@ -4,17 +4,17 @@ title: Calcitriol
 parent: 모델 예측만 (L5)
 nav_order: 171
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Calcitriol: 예측 신규 적응증 비타민 D 결핍 (obsolete vitamin D deficiency, 폐기된 질환 용어) (근거 수준 L5)."
 monitor_inn: "CALCITRIOL"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hereditary hypophosphatemic rickets"]
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
 ---
 
 # Calcitriol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **7** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ TxGNN 모델은 **비타민 D 결핍(obsolete vitamin D deficiency)**에 효과�
 | 항목 | 내용 |
 |------|------|
 | 예측 신규 적응증 | 비타민 D 결핍 (obsolete vitamin D deficiency, 폐기된 질환 용어) |
-| TxGNN 예측 점수 | 99.96% |
+| TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 모델은 **비타민 D 결핍(obsolete vitamin D deficiency)**에 효과�
 다만 이 예측에는 한계가 큽니다.
 - 예측된 질환명이 **폐기된(obsolete) 용어**로 분류되어 있습니다.
 - 영양성 비타민 D 결핍의 표준 치료는 calcitriol이 아니라 cholecalciferol이나 ergocalciferol입니다.
-- 높은 점수는 지식 그래프 구조에서 나온 예측일 뿐, 실제 임상 근거가 뒷받침하지 않습니다.
+- 높은 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며, 실제 임상 근거가 뒷받침하지 않습니다.
 
 ## 임상시험 근거
 
@@ -102,7 +102,7 @@ TxGNN 모델은 **비타민 D 결핍(obsolete vitamin D deficiency)**에 효과�
 - 상세한 작용 기전(MOA) 데이터: DrugBank 조회로 보완
 - 현행 질환 분류 기준에 맞는 적응증 재정의와 calcitriol의 임상적 필요성(cholecalciferol 등 대비) 검토
 
-**참고:** 이번 데이터에 포함된 다른 예측 중 **유전성 저인산혈증 구루병**(TxGNN 점수 99.28%)은 근거가 가장 충실합니다. calcitriol 단독요법의 Early Phase 1 시험(NCT03748966, 16명, 완료)과 고용량·저용량 활성 비타민 D 병용 Phase 4 시험(NCT03820518, 100명, 상태 불명)이 있고, 근거 수준은 L2, 권장 결정은 Proceed with Guardrails입니다. 우선 검토할 후보로는 비타민 D 결핍보다 이 적응증이 더 적합합니다.
+**참고:** 이번 데이터에 포함된 다른 예측 중 **유전성 저인산혈증 구루병**(TxGNN 점수 0.9928)은 근거가 가장 충실합니다. calcitriol 단독요법의 Early Phase 1 시험(NCT03748966, 16명, 완료)과 고용량·저용량 활성 비타민 D 병용 Phase 4 시험(NCT03820518, 100명, 상태 불명)이 있고, 근거 수준은 L2, 권장 결정은 Proceed with Guardrails입니다. 우선 검토할 후보로는 비타민 D 결핍보다 이 적응증이 더 적합합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

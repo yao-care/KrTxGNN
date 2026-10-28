@@ -4,17 +4,17 @@ title: Inclisiran
 parent: 모델 예측만 (L5)
 nav_order: 420
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Inclisiran: 예측 신규 적응증 칼륨 결핍증 (potassium deficiency disease) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않음 (허가사항 문서 링크만 확인됨)"
 monitor_inn: "Inclisiran"
-predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 ---
 
 # Inclisiran
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **칼륨 결핍증(potassium deficiency disease)**에 효과가 
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 제공되지 않음 (허가사항 문서 링크만 확인됨) |
 | 예측 신규 적응증 | 칼륨 결핍증 (potassium deficiency disease) |
-| TxGNN 예측 점수 | 99.93% |
+| TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 

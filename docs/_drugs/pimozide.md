@@ -39,7 +39,7 @@ predicted_indications: ["trichotillomania", "manic bipolar affective disorder", 
 ## 한 문장 요약
 
 Pimozide는 D2 도파민 수용체 길항제인 항정신병약으로, 한국에서 2건의 허가증으로 시판 중입니다. 다만 허가 적응증 텍스트는 이번에 정리된 데이터에서 확인되지 않았습니다.
-TxGNN 모델은 **발모광(Trichotillomania)**에 효과가 있을 수 있다고 예측하며(예측 점수 99.996%), 등록된 임상시험은 없고 **9편의 문헌**(대부분 리뷰와 소규모 연구)이 이 방향을 부분적으로 지지합니다.
+TxGNN 모델은 **발모광(Trichotillomania)**에 효과가 있을 수 있다고 예측하며(예측 점수 1.0000), 등록된 임상시험은 없고 **9편의 문헌**(대부분 리뷰와 소규모 연구)이 이 방향을 부분적으로 지지합니다.
 
 ## 빠른 개요
 
@@ -47,9 +47,9 @@ TxGNN 모델은 **발모광(Trichotillomania)**에 효과가 있을 수 있다�
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문 확인 필요) |
 | 예측 신규 적응증 | 발모광 (Trichotillomania) |
-| TxGNN 예측 점수 | 99.996% |
+| TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Proceed with Guardrails (연구 질문 단계) |
 

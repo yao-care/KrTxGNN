@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 203
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cetuximab: 예측 신규 적응증 연골성 과오종 (Chondroid Hamartoma) (근거 수준 L5). 기존 적응증: EGFR 발현 전이성 대장직장암, 두경부 편평세포암 (한국 허가증에는 적응증 본문 대신 허가사항 문서 링크만 확인됨)"
 monitor_inn: "Cetuximab"
-predicted_indications: ["chondroid hamartoma", "ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
+predicted_indications: ["ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "non-seminomatous lesion", "chondroid hamartoma", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
+last_modified_at: 2026-10-23
+description: "Cetuximab: 예측 신규 적응증 관 또는 세관 증식 (근거 수준 L5). 기존 적응증: 한국 허가증에는 적응증 본문 없이 링크만 있어 확인되지 않음. 약리학 자료상 임상 용도는 EGFR 발현 전이성 대장직장암과…"
 ---
 
 # Cetuximab
@@ -33,31 +33,30 @@ predicted_indications: ["chondroid hamartoma", "ductal or ductular proliferation
 
 </div>
 
-## Cetuximab: 대장직장암·두경부암에서 연골성 과오종(Chondroid Hamartoma)으로
+## Cetuximab: 대장직장암·두경부암 치료(약리학 자료상 임상 용도)에서 관 또는 세관 증식으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Cetuximab은 EGFR(상피성장인자 수용체)을 표적으로 하는 항체 의약품으로, 원래 EGFR 발현 전이성 대장직장암과 두경부 편평세포암 치료에 사용됩니다.
-TxGNN 모델은 **연골성 과오종(Chondroid Hamartoma)**에 효과가 있을 수 있다고 예측하지만(예측 점수 99.95%), 이 질환에 대한 **임상시험은 0건, 문헌도 0편**입니다. 따라서 모델 예측만 있는 단계입니다.
+Cetuximab은 항EGFR(상피성장인자수용체) 단클론항체로, 약리학 자료상 EGFR 발현 전이성 대장직장암과 두경부 편평세포암 치료에 쓰입니다. TxGNN 모델은 **관 또는 세관 증식(ductal or ductular proliferation)**에 효과가 있을 수 있다고 예측하지만, 직접 연구한 임상시험은 **0건**입니다. 검색된 **20편의 문헌**도 대부분 췌장관선암 관련 연구여서 이 예측을 직접 뒷받침하지 못합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | EGFR 발현 전이성 대장직장암, 두경부 편평세포암 (한국 허가증에는 적응증 본문 대신 허가사항 문서 링크만 확인됨) |
-| 예측 신규 적응증 | 연골성 과오종 (Chondroid Hamartoma) |
-| TxGNN 예측 점수 | 99.95% |
-| 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | 한국 허가증에는 적응증 본문 없이 링크만 있어 확인되지 않음. 약리학 자료상 임상 용도는 EGFR 발현 전이성 대장직장암과 두경부 편평세포암 |
+| 예측 신규 적응증 | 관 또는 세관 증식 |
+| TxGNN 예측 점수 | 0.9995 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Cetuximab은 EGFR에 결합하는 단일클론항체입니다. EGFR 신호를 차단해 EGFR을 많이 발현하는 종양의 성장을 억제합니다. 이 약의 상세 작용 기전 설명은 이번 보고서용 데이터에 없으며, 위 내용은 표적 정보에 근거합니다.
+현재 상세한 작용 기전 데이터는 없습니다. 약리학 자료에 따르면 Cetuximab은 EGFR(유전자명 EGFR)에 결합하는 단클론항체입니다. EGFR 신호가 과도하게 활성화된 종양에서 이를 차단해 증식을 억제하는 것이 기본 원리입니다.
 
-연골성 과오종은 양성 병변입니다. 이 질환에서 EGFR이 병태 생리를 이끈다는 근거는 확인되지 않았습니다. 기존 적응증인 대장직장암·두경부암은 EGFR 의존성 악성 종양이므로, 기전적 연관성은 약합니다. 지금의 높은 예측 점수는 지식 그래프상의 연결에서 나온 것이며, 실제 연구로 뒷받침되지 않았습니다.
+예측된 "관 또는 세관 증식"은 특정 질환이 아니라 조직학적으로 모호한 용어입니다. 검색된 문헌은 주로 췌장관선암(PDAC)에서 EGFR과 KRAS 신호를 다룹니다. 그러나 KRAS 변이가 있는 췌장 종양은 Cetuximab에 내성을 보일 것으로 예상되므로, 기전상 연결은 추측에 가깝습니다. 현재로서는 모델 예측 외에 이를 확인해 줄 근거가 없습니다.
 
 ## 임상시험 근거
 
@@ -65,44 +64,63 @@ Cetuximab은 EGFR에 결합하는 단일클론항체입니다. EGFR 신호를 �
 
 ## 문헌 근거
 
-현재 관련 문헌이 없습니다.
+아래 문헌은 모두 췌장관선암 등 관련 질환을 다루며, "관 또는 세관 증식" 자체를 연구한 문헌은 없습니다.
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [35300246](https://pubmed.ncbi.nlm.nih.gov/35300246/) | 2022 | 2상 RCT | Clin Transl Radiat Oncol | 국소 진행성 췌장암에서 Cetuximab+젬시타빈+방사선 병합요법(PARC)의 장기 결과 |
+| [22571859](https://pubmed.ncbi.nlm.nih.gov/22571859/) | 2012 | 임상시험 | Ann Oncol | 췌장선암 수술 전 Cetuximab+젬시타빈+IMRT 병합 평가 |
+| [21552097](https://pubmed.ncbi.nlm.nih.gov/21552097/) | 2012 | 2상 | Am J Clin Oncol | 진행성 췌장암에서 젬시타빈·옥살리플라틴·Cetuximab 병합의 임상 활성 평가 |
+| [26862857](https://pubmed.ncbi.nlm.nih.gov/26862857/) | 2016 | 임상시험 탐색 분석 | Oncotarget | 국소 진행성 췌장암(PERU 시험)에서 miR-21 발현과 임상 결과의 관계 |
+| [23992319](https://pubmed.ncbi.nlm.nih.gov/23992319/) | 2014 | 리뷰 | Curr Med Chem | 췌장암의 표적치료(단클론항체, 소분자 억제제) 개관 |
+| [32699558](https://pubmed.ncbi.nlm.nih.gov/32699558/) | 2020 | 리뷰 | Ther Adv Med Oncol | 전이성 췌장관선암의 정밀의학 적용 |
+| [36383067](https://pubmed.ncbi.nlm.nih.gov/36383067/) | 2022 | 리뷰 | Mol Oncol | 비공유결합 KRAS G12D 억제제 개발 |
+| [27797376](https://pubmed.ncbi.nlm.nih.gov/27797376/) | 2017 | 전임상 | Oncogene | 췌장관선암에서 인테그린 β1 매개 우회 신호가 Cetuximab 내성을 유발 |
+| [30921351](https://pubmed.ncbi.nlm.nih.gov/30921351/) | 2019 | 전임상 | PLoS One | 췌장암 세포주에서 메소텔린·TGF-α가 EGFR 억제제 감수성을 예측 |
+| [31025257](https://pubmed.ncbi.nlm.nih.gov/31025257/) | 2019 | 전임상 | Cell Oncol | ERBB 억제제 다코미티닙이 췌장관선암 세포의 증식과 침윤을 억제 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 200901952 | 얼비툭스주 5mg/mL (세툭시맙) | 주사제 (무색투명한 액이 든 바이알) | 허가사항 문서 참조 (제조사: 머크(주)) |
+| 200901952 | 얼비툭스주 5mg/mL (세툭시맙) | 주사제 (무색투명한 액, 바이알) | 허가증에 적응증 본문이 없고 링크만 제공되어 확인할 수 없음 |
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 표적치료제 (항EGFR 단일클론항체) |
+| 세포독성 분류 | 표적치료제 (항EGFR 단클론항체) |
 | 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
-| 모니터링 항목 | 이번 데이터에서는 피부 발진, 주입 반응, 저마그네슘혈증이 이 약의 주요 독성으로 언급됩니다. 구체적인 모니터링 항목은 허가사항을 참조하세요 |
+| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 이번 데이터에서 총 20건이 확인되었습니다.
-  - **Major**: Aminolevulinic acid, Thalidomide
-  - **Moderate**: 프로톤펌프억제제(Rabeprazole, Omeprazole, Dexlansoprazole, Esomeprazole, Lansoprazole, Pantoprazole), 백금계 항암제(Carboplatin, Cisplatin, Oxaliplatin), 플루오로피리미딘계(Capecitabine, Fluorouracil), Idelalisib, Omacetaxine mepesuccinate, Methoxsalen, Verteporfin, Aminolevulinic acid(외용), Methyl aminolevulinate(외용)
+허가증 경고·금기 정보는 확보되지 않았습니다. 이 부분은 허가사항을 참조하세요.
 
-주요 경고와 금기는 허가사항을 참조하세요.
+**약물 상호작용**: 19건이 확인되었습니다.
+- **주의 등급(Major)**: 아미노레불린산, 탈리도마이드
+- **보통 등급(Moderate)**:
+  - 프로톤펌프억제제: 라베프라졸, 오메프라졸, 덱스란소프라졸, 에소메프라졸, 란소프라졸, 판토프라졸
+  - 항암제: 카페시타빈, 카보플라틴, 시스플라틴, 옥살리플라틴, 플루오로우라실, 이델라리십, 오마세탁신
+  - 광감작 관련 약물: 메톡살렌, 국소 아미노레불린산, 국소 메틸아미노레불리네이트, 베르테포르핀
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-연골성 과오종은 임상시험과 문헌이 모두 없고, EGFR 의존성을 시사하는 기전적 근거도 없는 양성 병변입니다. 높은 예측 점수만으로는 항체 항암제의 독성 부담(발진, 주입 반응, 저마그네슘혈증)을 감수하며 진행할 근거가 부족합니다.
+- 예측된 질환은 조직학적으로 모호한 용어입니다.
+- 이 질환을 직접 연구한 임상시험과 문헌이 없어 근거가 모델 예측에 한정됩니다(L5).
+- 췌장관선암에서는 KRAS 변이에 따른 내성 가능성도 있어 기전 근거도 약합니다.
 
 **진행하려면 필요한 것:**
-- 연골성 과오종에서 EGFR 발현·의존성을 보여주는 전임상 또는 병리 근거
-- 한국 허가사항(경고, 금기, 적응증 본문)의 확보와 안전성 검토
-- 세부 작용 기전 데이터 보완
-- 참고: 같은 약물의 다른 예측 적응증인 낭성 신생물(선양낭성암 등 침샘암 관련)과 전암성 병변(상부 호흡소화관 전암성 병변 대상 2상 시험 NCT00524017 포함)은 관련 임상시험과 문헌이 있어 우선 검토 대상이 될 수 있습니다.
+- 예측 질환의 구체적 정의, 즉 어떤 실제 질환(예: 췌장관선암, 담관 병변)에 해당하는지 명확화
+- 해당 질환에서 EGFR 의존성과 KRAS 상태를 확인하는 전임상·바이오마커 데이터
+- 한국 허가증의 적응증 본문, 경고·금기 정보(식약처 허가사항 원문 확보)
+- 작용 기전(MOA) 데이터 보완
+- 같은 점수대의 다른 예측(예: 낭성 신생물, 전암성 신생물)에 관련 시험과 문헌이 더 많은지 별도 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

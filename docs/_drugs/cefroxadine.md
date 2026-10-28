@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Cefroxadine
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 195
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Cefroxadine: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확보되지 않았습니다 (허가증 원문 링크만 확인됨)"
+description: "Cefroxadine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Cefroxadine"
-predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "brachyolmia", "hemoglobinopathy", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "myosclerosis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Cefroxadine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheu
 
 </div>
 
-## Cefroxadine: 세균 감염 치료제에서 골관절염으로
+## Cefroxadine
 {: .text-alpha }
-
-## 한 문장 요약
-
-Cefroxadine은 1세대 경구용 세팔로스포린 계열 항생제로, 세균의 세포벽 합성을 억제하여 감염 치료에 사용되는 약물입니다.
-TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다.
-따라서 이 예측은 모델 점수에만 근거한 가설 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 확보되지 않았습니다 (허가증 원문 링크만 확인됨) |
-| 예측 신규 적응증 | 골관절염 (osteoarthritis) |
-| TxGNN 예측 점수 | 98.32% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 (수출용 허가) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701577/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201101027/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Cefroxadine은 1세대 경구용 세팔로스포린으로, 세균 세포벽 합성을 억제하는 항균제입니다.
-
-골관절염은 관절 연골이 퇴행하는 비감염성 질환이며, 항균 기전으로 이를 설명할 수 있는 근거는 확인되지 않았습니다. 높은 예측 점수(98.3%)는 지식 그래프에서 근접한 질환·약물 관계가 반영된 결과로 보이며, 실제 치료 효과를 의미하지는 않습니다.
-
-같은 방식으로 예측된 다른 후보(골관절염 감수성, 류마티스 관절염, 통풍, 가성연골무형성증 등)도 모두 기전적 연결고리와 임상·문헌 근거가 없습니다. 특히 골관절염 감수성은 치료 가능한 임상 적응증이 아니라 유전적 감수성 개념입니다.
 
 ## 한국 시판 정보
 
@@ -71,18 +55,6 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 
 두 제품 모두 수출용 허가이며, 현재 유효한 단일제입니다.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-골관절염을 포함한 상위 10개 예측 모두 임상시험과 문헌 근거가 없고(L5), 세균 세포벽 합성 억제라는 기전으로는 비감염성 퇴행성 관절질환에 대한 효과를 설명하기 어렵습니다. 현 단계에서는 재창출 개발을 진행할 근거가 부족합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고, 금기, 상호작용 등)을 확보하여 안전성을 검토
-- 작용 기전(MOA) 데이터를 보완하고, 골관절염과의 기전적 연관성을 검증
-- 전임상 또는 문헌 수준에서 항염·연골 보호 효과 등 관련 근거를 탐색
-- 허가 적응증 본문을 확보하여 기존 적응증과의 연관성을 평가
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

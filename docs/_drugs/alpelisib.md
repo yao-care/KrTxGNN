@@ -4,17 +4,17 @@ title: Alpelisib
 parent: 모델 예측만 (L5)
 nav_order: 44
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Alpelisib: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 본문이 아닌 허가 문서 링크로만 제공됨)"
+indication_count: 1
 monitor_inn: "Alpelisib"
-predicted_indications: ["pulmonary hypertension", "migraine with or without aura, susceptibility to", "migraine disorder", "kyphoscoliotic heart disease", "rheumatoid arthritis", "leprosy", "migraine with brainstem aura", "thrombotic disease", "amyotrophic lateral sclerosis", "multiple endocrine neoplasia"]
+predicted_indications: ["pulmonary hypertension"]
+last_modified_at: 2026-10-27
+description: "Alpelisib: 예측 신규 적응증 폐고혈압 (pulmonary hypertension) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103823/EE"
 ---
 
 # Alpelisib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,30 +33,31 @@ predicted_indications: ["pulmonary hypertension", "migraine with or without aura
 
 </div>
 
-## Alpelisib: 기존 적응증에서 폐고혈압으로
+## Alpelisib: PI3K 억제제 → 폐고혈압 (pulmonary hypertension)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Alpelisib(제품명 피크레이정)은 PI3K-alpha 억제제로, 한국에서 단일제로 허가되어 시판 중입니다. TxGNN 모델은 **폐고혈압(Pulmonary Hypertension)**에 효과가 있을 수 있다고 예측하지만, 이를 지지하는 문헌은 **약물 유발 간질성 폐질환 증례보고 1편**뿐이며 이는 치료 효과가 아닌 이상반응에 관한 보고입니다. 임상시험은 없고 예측 점수 외의 근거가 사실상 없습니다.
+Alpelisib은 PI3K 경로를 표적으로 하는 약물로, 한국에서 단일 성분 제제로 허가되어 있습니다.
+TxGNN 모델은 **폐고혈압(pulmonary hypertension)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 뒷받침하는 임상시험은 없으며 관련 문헌 1편도 치료 효과가 아닌 약물 유발 간질성 폐질환 사례 보고입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 본문이 아닌 허가 문서 링크로만 제공됨) |
-| 예측 신규 적응증 | 폐고혈압 (Pulmonary Hypertension) |
-| TxGNN 예측 점수 | 99.03% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103823/EE |
+| 예측 신규 적응증 | 폐고혈압 (pulmonary hypertension) |
+| TxGNN 예측 점수 | 0.9903 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 alpelisib은 PI3K-alpha 억제제 계열의 항종양 약물입니다. 이 보고서에 정리된 자료에서도 PI3K 경로의 활성화가 폐혈관 리모델링에 관여한다는 이론적 근거는 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. Alpelisib은 PI3K 경로를 표적으로 하는 약물로 알려져 있으며, PI3K 경로 활성화는 폐혈관 리모델링과 관련이 있어 이론적으로는 기전상 연결 고리가 있을 수 있습니다.
 
-그러나 유일한 문헌은 alpelisib 투여 후 간질성 폐질환이 발생한 유방암 환자의 증례보고입니다. 이는 치료 신호가 아니라 폐독성 신호이므로, 폐 질환에 대한 사용에 오히려 불리한 정보입니다. 높은 예측 점수(0.990)는 모델의 예측일 뿐 실제 근거가 아닙니다.
+그러나 이는 가설 수준입니다. 폐고혈압에서 alpelisib의 치료 효과를 직접 검증한 연구는 확인되지 않았습니다. 오히려 확인된 유일한 문헌은 alpelisib 투여 후 간질성 폐질환이 발생한 사례로, 폐 독성 신호가 있어 사용에 신중해야 합니다. 높은 TxGNN 점수는 모델의 예측일 뿐 임상적 근거가 아닙니다.
 
 ## 임상시험 근거
 
@@ -66,52 +67,43 @@ Alpelisib(제품명 피크레이정)은 PI3K-alpha 억제제로, 한국에서 �
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [35730191](https://pubmed.ncbi.nlm.nih.gov/35730191/) | 2023 | 증례보고 (이상반응) | Journal of Oncology Pharmacy Practice | 진행성 유방암 환자에서 alpelisib 유발 간질성 폐질환 보고 (치료 효과 근거 아님) |
+| [35730191](https://pubmed.ncbi.nlm.nih.gov/35730191/) | 2023 | 증례 보고 (이상반응) | Journal of Oncology Pharmacy Practice | 진행성 유방암 환자에서 alpelisib 유발 간질성 폐질환 사례. 치료 효과가 아닌 이상반응 보고 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 202103823 | 피크레이정 50·150·200밀리그램 (알펠리십, 한국노바티스) | 필름코팅정 (50mg 밝은 분홍색 원형, 150mg 연한 빨강색 타원형, 200mg 밝은 빨강색 타원형) | 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 |
+| 202103823 | 피크레이정 50·150·200밀리그램 (한국노바티스) | 필름코팅정 | 허가 적응증 텍스트는 로컬 자료에 기재되어 있지 않음 |
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 표적치료제 (PI3K-alpha 억제제) |
-| 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
-| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
-| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요. 다만 유방암 대상 시험에서 고혈당이 문제로 보고되어 혈당 모니터링이 필요할 수 있습니다. |
+| 세포독성 분류 | 표적치료제 (PI3K 억제제) |
+| 골수억제 위험 | 관련 데이터 없음. 허가사항의 경고 및 주의사항을 참조하세요 |
+| 구토 유발성 등급 | 관련 데이터 없음. 허가사항의 경고 및 주의사항을 참조하세요 |
+| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건이 조회되었으며, 표시된 상호작용은 모두 중등도(Moderate)입니다. 주로 혈당강하제가 해당합니다.
-  - 당뇨병 치료제: acarbose, albiglutide, alogliptin, metformin, pioglitazone, acetohexamide, canagliflozin, chlorpropamide, dapagliflozin, empagliflozin, ertugliflozin, exenatide, dulaglutide, glimepiride, glipizide
+- **주요 신호**: 문헌에서 alpelisib 유발 간질성 폐질환 사례가 보고되었습니다. 폐 질환 대상 사용 시 특히 유의해야 합니다.
+- **약물 상호작용**: 총 100건이 확인되었으며, 일부 목록은 모두 중등도(Moderate) 수준입니다. 주요 항목은 다음과 같습니다.
+  - 당뇨병 치료제: acarbose, albiglutide, alogliptin, metformin, pioglitazone, acetohexamide, canagliflozin, chlorpropamide, dapagliflozin, dulaglutide, empagliflozin, ertugliflozin, exenatide, glimepiride, glipizide
   - 기타: alosetron, bupropion, dexamethasone, dronabinol, fidaxomicin
-- **폐독성**: 문헌에서 alpelisib 유발 간질성 폐질환이 보고되었습니다. 폐 질환 대상 사용 시 중요한 고려사항입니다.
-- **고혈당**: 관련 임상시험(NCT04300790)에서 alpelisib 연관 고혈당 예방을 위한 metformin 연구가 수행되었습니다.
-
-경고·금기 항목은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-폐고혈압에 대한 임상시험이 없고, 유일한 문헌은 치료 효과가 아닌 폐독성(간질성 폐질환) 보고입니다. 근거는 모델 예측뿐(L5)이며 안전성 측면에서 오히려 부정적 신호가 있습니다.
+폐고혈압에 대한 alpelisib의 효능을 직접 연구한 임상시험이나 문헌이 없어 근거 수준은 L5(모델 예측만 존재)입니다. 유일한 문헌은 폐 독성 이상반응 보고로, 치료 가능성보다 안전성 우려를 시사합니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고, 금기, 적응증) 원문 확보 및 분석
-- 작용 기전(MOA) 데이터 보완
-- PI3K-alpha 억제와 폐혈관 리모델링의 연관성을 보여주는 전임상 연구
-- 폐독성 위험(간질성 폐질환)에 대한 위험-편익 평가
-
----
-
-**참고: 다른 예측 적응증 현황**
-
-이 보고서는 1순위 예측(폐고혈압)을 기준으로 작성되었습니다. 나머지 예측 중에는 류마티스 관절염(L4, 기전상 개연성 있으나 간접 근거만 존재)과 혈전성 질환(L4, PIK3CA 관련 혈관 기형 문헌에 근거한 간접 지지)이 상대적으로 근거가 있으나, 모두 별도의 검증이 필요한 연구 질문 수준입니다. 다발성 내분비종양 예측에 연결된 4건의 시험은 유방암·난소암 대상이며 해당 질환의 직접 근거가 아닙니다.
+- 폐고혈압 모델에서의 전임상 연구 등 직접적인 기전·효능 근거
+- 상세한 작용 기전(MOA) 데이터
+- 허가사항(경고·금기) 확인 및 폐 독성에 대한 안전성 평가
+- 한국 허가 적응증 및 시판 상태의 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

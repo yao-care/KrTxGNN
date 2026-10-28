@@ -4,17 +4,17 @@ title: Trifarotene
 parent: 모델 예측만 (L5)
 nav_order: 763
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Trifarotene: 예측 신규 적응증 혈장 아연 상승 (zinc, elevated plasma) (근거 수준 L5). 기존 적응증: 여드름 (허가증에는 적응증 본문 대신 문서 링크만 기재되어 있어, 약물 정보와 약리 자료를 근거로 기재)"
 monitor_inn: "Trifarotene"
-predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome", "demodicidosis of sebaceous gland", "spondyloarthropathy, susceptibility to", "malaria", "Zollinger-Ellison syndrome", "Ehlers-Danlos syndrome", "Beare-Stevenson cutis gyrata syndrome", "isolated congenital adermatoglyphia", "malignant atrophic papulosis"]
+predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
 ---
 
 # Trifarotene
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **혈장 아연 상승(zinc, elevated plasma)**에 효과가 있
 |------|------|
 | 기존 적응증 | 여드름 (허가증에는 적응증 본문 대신 문서 링크만 기재되어 있어, 약물 정보와 약리 자료를 근거로 기재) |
 | 예측 신규 적응증 | 혈장 아연 상승 (zinc, elevated plasma) |
-| TxGNN 예측 점수 | 99.40% |
+| TxGNN 예측 점수 | 0.9940 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -57,9 +57,8 @@ TxGNN 모델은 **혈장 아연 상승(zinc, elevated plasma)**에 효과가 있
 
 현재 상세한 작용 기전 데이터는 이 보고서에 정리된 자료에 없습니다. 다만 약리 자료에 따르면 Trifarotene은 레티노산 수용체(RARα, RARβ, RARγ)와 상호작용하며, 특히 RAR-γ 작용제로 알려져 있습니다. 피부 모낭 각질화와 염증을 조절하여 여드름에 사용됩니다. 대사 안정성이 매우 낮아 국소 사용 시 전신 노출이 제한적일 것으로 보입니다.
 
-반면 혈장 아연 상승은 피부 질환이 아닌 생화학적 이상 소견입니다. RAR-γ 신호전달이 이를 교정한다는 그럴듯한 기전적 연결고리는 확인되지 않았습니다. 따라서 TxGNN 점수는 지식 그래프 상의 연관성에 기반한 계산적 예측일 뿐이며, 치료적 타당성은 뒷받침되지 않습니다.
+반면 혈장 아연 상승은 피부 질환이 아닌 생화학적 이상 소견입니다. RAR-γ 신호전달이 이를 교정한다는 그럴듯한 기전적 연결고리는 확인되지 않았습니다. 따라서 TxGNN 점수(0.9940)는 TxGNN 모델(딥러닝)이 산출한 계산적 예측일 뿐이며, 관련 질환 간에 모델이 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아니고, 치료적 타당성은 뒷받침되지 않습니다.
 
-참고로 다른 예측 후보 중에서는 피지선 모낭충증(demodicidosis of sebaceous gland, 점수 98.42%)이 국소 피부질환 약물로서 생물학적으로 가장 일관성 있다고 평가되었습니다. 다만 이 역시 항진드기 활성이 없어 추측 수준이며, 임상시험과 문헌 근거도 없습니다.
 
 ## 한국 시판 정보
 

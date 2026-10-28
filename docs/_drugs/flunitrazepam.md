@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Flunitrazepam
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 355
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Flunitrazepam: 예측 신규 적응증 불면증 (insomnia) (근거 수준 L3). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 확인되지 않음 (불면증 치료제로 알려져 있음)"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "FLUNITRAZEPAM"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+last_modified_at: 2026-10-27
+description: "Flunitrazepam: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198301310/EE"
 ---
 
 # Flunitrazepam
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,31 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "an
 
 </div>
 
-## Flunitrazepam: 불면증에서 불면증(및 기타 신경정신계 질환)으로
+## Flunitrazepam: 벤조디아제핀계 GABA-A 수용체 조절제 → 편두통 (migraine disorder)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Flunitrazepam은 벤조디아제핀계 수면제로, 한국에서 이미 시판되고 있으며 불면증 치료에 사용됩니다.
-TxGNN 모델은 상위 예측으로 **불면증(insomnia)**을 제시했으나, 이는 이미 확립된 용도이므로 진정한 의미의 재창출이 아닙니다.
-이 예측을 직접 지지하는 **임상시험은 0건**이며, 본 보고서에 정리된 **문헌은 10편**(대부분 리뷰·비교연구·전임상)입니다.
+Flunitrazepam은 GABA-A 수용체의 벤조디아제핀 결합 부위에 작용하는 벤조디아제핀계 약물입니다.
+TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다고 예측하지만, 이 예측을 직접 뒷받침하는 임상시험과 문헌은 **0건**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 확인되지 않음 (불면증 치료제로 알려져 있음) |
-| 예측 신규 적응증 | 불면증 (insomnia) |
-| TxGNN 예측 점수 | 99.89% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198301310/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501814/EE |
+| 예측 신규 적응증 | 편두통 (migraine disorder) |
+| TxGNN 예측 점수 | 0.9971 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
-| 권장 결정 | Proceed with Guardrails |
-
-> 참고: 불면증은 기존 용도와 사실상 동일합니다. 실질적인 재창출 후보는 아래 "다른 예측 적응증 요약"에 정리했습니다.
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 약리학 데이터에 따르면 flunitrazepam은 GABA-A 수용체의 α1, α2, α3, α5 소단위체에 작용하는 벤조디아제핀계 약물이며, 중증 불면증 치료에 사용될 수 있는 것으로 기재되어 있습니다. 일반적으로 GABA-A 수용체 양성 조절을 통해 진정·최면 효과를 나타냅니다.
+현재 상세한 작용 기전 데이터가 없습니다. 다만 약리학 자료에 따르면 flunitrazepam은 GABA-A 수용체의 α1, α2, α3, α5 소단위에 작용합니다. GABA 신경 억제를 강화하면 신경 흥분성이 낮아지므로, 편두통에도 간접적으로 관련될 가능성은 이론적으로 있습니다.
 
-불면증은 이 약의 기존 용도이므로 예측은 기전상 타당하지만 새로운 발견은 아닙니다. 문헌에서도 반동성 불면, 다음 날 기능 저하, 의존 위험이 잘 알려져 있습니다.
+그러나 이는 가능성 있는 추정일 뿐 입증된 것이 아닙니다. 편두통과 flunitrazepam을 연결하는 임상시험이나 문헌이 없고, 벤조디아제핀은 표준 편두통 치료제도 아닙니다. 이 예측은 TxGNN 점수에만 근거합니다.
 
 ## 임상시험 근거
 
@@ -68,54 +65,34 @@ TxGNN 모델은 상위 예측으로 **불면증(insomnia)**을 제시했으나, 
 
 ## 문헌 근거
 
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [8519370](https://pubmed.ncbi.nlm.nih.gov/8519370/) | 1993 | 임상 비교연구 | Eur Respir J | 중증 COPD 환자에서 졸피뎀·트리아졸람·flunitrazepam의 동맥혈 가스와 호흡 조절에 대한 급성 영향 비교 |
-| [430730](https://pubmed.ncbi.nlm.nih.gov/430730/) | 1979 | 임상 관찰 | JAMA | 단·중간 반감기 벤조디아제핀(flunitrazepam 포함) 중단 후 반동성 불면 발생 |
-| [2883822](https://pubmed.ncbi.nlm.nih.gov/2883822/) | 1986 | Review | Acta Psychiatr Scand Suppl | 고령자에서 flunitrazepam 등 벤조디아제핀에 대한 반응이 증가 |
-| [20171127](https://pubmed.ncbi.nlm.nih.gov/20171127/) | 2010 | 임상 연구 | Sleep Med Rev | 수면제 사용 후 신체 균형 및 자세 안정성 저하, 낙상·고관절 골절 위험 |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Review | Acta Psychiatr Scand Suppl | 불면증 유형별 수면제의 임상적 사용 및 다양한 수면제의 필요성 |
-| [40195](https://pubmed.ncbi.nlm.nih.gov/40195/) | 1979 | 임상 연구 | Nouv Presse Med | 기질성·기능성 수면장애에 대한 flunitrazepam의 작용 |
-| [14722706](https://pubmed.ncbi.nlm.nih.gov/14722706/) | 2004 | 전임상 | Psychopharmacology | 수면장애 모델 쥐에서 수면제 3종의 수면-각성 주기 영향 |
-| [6114852](https://pubmed.ncbi.nlm.nih.gov/6114852/) | 1981 | Review | Drugs | 트리아졸람(다른 약물)의 불면증 효능 리뷰, flunitrazepam은 비교 대상으로만 언급 |
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 198301310 | 라제팜정(플루니트라제팜) | 백색의 원형 정제 | 허가사항 문서 참조 |
-| 198501814 | 루나팜정(플루니트라제팜) | 흰색의 원형 정제 | 허가사항 문서 참조 |
+| 198301310 | 라제팜정(플루니트라제팜) | 백색의 원형 정제 | 허가 적응증 텍스트는 문서 링크로만 제공됨 |
+| 198501814 | 루나팜정(플루니트라제팜) | 흰색의 원형 정제 | 허가 적응증 텍스트는 문서 링크로만 제공됨 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 약리학 데이터상 GABA-A 수용체 α1·α2·α3·α5 소단위체와 상호작용합니다(상대 약물 간 상호작용 등급 정보는 없음).
-- **문헌상 확인된 위험**: 반동성 불면, 다음 날 정신운동·기억 장애, 낙상 위험, 고령자 감수성 증가, 남용 및 의존 위험, 호흡 억제 가능성(COPD 환자 연구 대상).
+- **약물 상호작용(약리학 표적)**: GABA-A 수용체 α1, α2, α3, α5 소단위에 결합합니다. 중추신경 억제 작용이 있는 다른 약물과 병용할 때 주의가 필요합니다.
+- **남용 가능성**: 편두통 외 다른 예측 질환의 문헌에서 반복적으로 보고된 바에 따르면 flunitrazepam은 남용 가능성이 높고, 기억 장애(전향성 기억상실), 정신운동 장애, 역설 반응, 알코올과의 상가 작용이 보고되어 있습니다.
 
-허가사항상 경고 및 금기는 허가사항을 참조하세요.
-
-## 다른 예측 적응증 요약
-
-| 순위 | 적응증 | 점수 | 근거 수준 | 비고 |
-|-----|-------|-----|---------|-----|
-| 4 | 불안 (anxiety) | 99.63% | L3 | 불안 특이적 시험 없음, 남용 위험이 높아 부정적 |
-| 5 | 불안장애 (anxiety disorder) | 99.58% | L4 | 문헌 대부분이 안전성·남용 관련, 효능 데이터 없음 |
-| 6 | 알코올 금단 섬망 | 99.50% | L3 | 1979~1993년 소규모 비통제 임상 보고(정맥 투여 flunitrazepam 25명 개방 시험 등). 이미 확립된 벤조디아제핀이 있어 추가 가치 불분명 |
-| 2, 3, 7 | 편두통 계열 | 99.71%, 99.63%, 99.49% | L5 | 임상·문헌 근거 없음 또는 무관 |
-| 8 | 광장공포증 | 99.39% | L4 | 바이오마커 연구 1건뿐 |
-| 9, 10 | 영아 양성 발작성 사경, 위축성 피부증 | 99.36%, 99.20% | L5 | 근거 없음, 후자는 그래프 인공물 가능성 |
+허가사항의 경고 및 금기는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails** (불면증 기준). 그 외 신규 적응증은 대부분 Hold 또는 Research Question 수준입니다.
+**결정: Hold**
 
 **사유:**
-불면증은 이미 시판 중인 기존 적응증이어서 재창출 가치가 제한적이며, 직접적인 임상시험 근거도 없습니다. 알코올 금단 섬망만 소규모 임상 보고가 있으나 현대적 RCT가 없고, 나머지는 근거가 없거나 남용·의존 위험이 커 신중해야 합니다.
+편두통 예측은 TxGNN 점수만 높을 뿐, 직접 연구가 전혀 없어 근거 수준이 L5입니다. 벤조디아제핀은 표준 편두통 치료가 아니며 의존성과 남용 위험도 큽니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·허가 적응증) 원문 확보 및 정리
-- 상세한 작용 기전(MOA) 데이터
-- 알코올 금단 섬망에 대한 현대적 비교 임상시험 설계 검토
-- 남용·의존, 호흡 억제, 고령자 안전성 모니터링 계획
+- 편두통에서 flunitrazepam 또는 GABA-A 조절의 효과를 보여주는 전임상 또는 임상 연구
+- 상세한 약물 작용 기전(MOA) 데이터
+- 허가사항(경고, 금기)의 전체 내용 확보
+- 의존성, 남용, 호흡억제 위험을 고려한 위험-이익 평가
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

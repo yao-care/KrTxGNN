@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Bosentan
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 153
-evidence_level: L5
-indication_count: 9
+evidence_level: L4
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Bosentan: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에 PDF 링크만 있음). 문헌상 폐동맥 고혈압(PAH)에 사용되는 약물임"
 monitor_inn: "bosentan"
@@ -14,7 +14,7 @@ predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndro
 # Bosentan
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **9** 건
+근거 수준: **L4** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가증에 PDF 링크만 있음). 문헌상 폐동맥 고혈압(PAH)에 사용되는 약물임 |
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
-| TxGNN 예측 점수 | 99.80% |
+| TxGNN 예측 점수 | 0.9980 |
 | 근거 수준 | L4 (전임상 연구 중심) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 
@@ -112,9 +112,8 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 
 | 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 비고 |
 |-----|-----------|-----------|----------|------|
-| 3 | 국한형 전신 경화증 (Limited Systemic Sclerosis) | 99.65% | L3 | 수부 궤양 체계적 문헌고찰·메타분석(2023, PMID [36974107](https://pubmed.ncbi.nlm.nih.gov/36974107/)), 시험관 내 EndoMT 억제 연구, 2024년 포르투갈 권고안 등. 이 데이터에는 등록 임상시험이 없어 근거 등급은 보수적으로 산정되었으며, 기반 RCT가 확인되면 상향될 수 있음. 권장: 연구 과제(Research Question) |
-| 8 | 통풍 | 99.21% | L5 | 효능 근거 없음 (안전성 신호 분석 1건뿐) |
-| 2, 4, 5, 6, 7, 9 | 갈래손가락-합지증 증후군, 결손성 소안구증-근위부 단축 이형성 증후군, 탄성섬유성 가성황색종(경미형), 척추후만측만성 심장질환, 탄력종, 다모증 | 99.04~99.74% | L5 | 모델 예측만 있고 임상시험·문헌 없음, 기전적 연결 불명확. 권장: Hold |
+| 8 | 통풍 | 0.9921 | L5 | 효능 근거 없음 (안전성 신호 분석 1건뿐) |
+| 2, 4, 5, 6, 7, 9 | 갈래손가락-합지증 증후군, 결손성 소안구증-근위부 단축 이형성 증후군, 탄성섬유성 가성황색종(경미형), 척추후만측만성 심장질환, 탄력종, 다모증 | 99.04~0.9974 | L5 | 모델 예측만 있고 임상시험·문헌 없음, 기전적 연결 불명확. 권장: Hold |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

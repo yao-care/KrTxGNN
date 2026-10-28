@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Omeprazole
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 564
-evidence_level: L3
-indication_count: 2
-last_modified_at: 2026-10-15
-description: "Omeprazole: 예측 신규 적응증 십이지장위 역류 (Duodenogastric Reflux) (근거 수준 L3). 기존 적응증: 허가 적응증 원문은 이번 데이터에서 확인되지 않음 (허가사항 링크만 제공됨)"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+last_modified_at: 2026-10-27
+description: "Omeprazole: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301653/EE"
 ---
 
 # Omeprazole
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **2** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,90 +33,81 @@ predicted_indications: ["duodenal obstruction"]
 
 </div>
 
-## Omeprazole: 위산 관련 질환에서 십이지장위 역류로
+## Omeprazole: 양성자펌프 억제제 → 십이지장 폐쇄 (duodenal obstruction)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Omeprazole은 프로톤 펌프 억제제(PPI)로, 한국에서 위산 분비 억제가 필요한 질환 치료에 사용되고 있습니다.
-TxGNN 모델은 **십이지장위 역류(Duodenogastric Reflux)**에 효과가 있을 수 있다고 예측하며, 현재 **1건의 임상시험**(간접 관련)과 **15편의 문헌**이 있으나 직접적인 치료 효과를 입증한 근거는 제한적입니다.
+Omeprazole은 위산 분비를 억제하는 양성자펌프 억제제 계열 약물입니다. TxGNN 모델은 **십이지장 폐쇄(duodenal obstruction)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 연구한 임상시험이나 문헌은 확인되지 않았습니다. 현재 간접적으로 관련된 **1건의 임상시험**과 **5편의 문헌**만 있어 근거는 매우 제한적입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 이번 데이터에서 확인되지 않음 (허가사항 링크만 제공됨) |
-| 예측 신규 적응증 | 십이지장위 역류 (Duodenogastric Reflux) |
-| TxGNN 예측 점수 | 99.64% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301653/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202074/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504046/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199302187/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504045/EE;  |
+| 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
+| TxGNN 예측 점수 | 0.9964 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 10건 |
-| 권장 결정 | Hold (연구 질문 단계) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 omeprazole은 위산 분비를 억제하는 프로톤 펌프 억제제이며, 위산 관련 점막 손상과 증상을 완화합니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 omeprazole은 위산 분비를 줄이는 약물로 알려져 있습니다.
 
-십이지장위 역류(담즙 역류)에서는 위산 억제가 위·식도 점막 손상과 증상을 줄일 수 있습니다. 바렛 식도 환자와 소아 담즙 역류 환자를 대상으로 한 소규모 임상연구에서 담즙 역류 감소 또는 증상 개선이 보고되었습니다.
+십이지장 폐쇄는 대개 소화성 궤양의 흉터·협착, 크론병, 악성 종양 등으로 생기는 기계적 질환입니다. 궤양 치유와 염증성 부종 감소를 통해 궤양 관련 협착에는 간접적으로 도움이 될 수 있습니다. 그러나 이미 섬유화되었거나 구조적으로 굳어진 폐쇄는 해소하지 못하며, 이 경우 내시경 확장술이나 수술이 필요합니다.
 
-다만 omeprazole은 십이지장 내용물의 역류 자체를 차단하지 못합니다. 또한 동물실험에서는 위산 차단과 십이지장위 역류가 겹치면 위 발암과 점막 증식이 촉진될 수 있다는 결과가 있어, 장기 사용의 안전성 문제가 제기됩니다. 즉 증상 조절 목적의 기전적 연결은 그럴듯하지만, 질병 경과 자체를 바꾼다고 보기는 어렵습니다.
+높은 예측 점수는 소화성 궤양과의 네트워크상 근접성을 반영했을 가능성이 크며, 폐쇄 자체에 대한 직접적인 치료 효과를 뜻하지는 않습니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT02685150](https://clinicaltrials.gov/study/NCT02685150) | 해당 없음 | 완료 | 157 | 기능성 소화불량과 역류질환을 구별하기 위한 내시경 3중 영상 진단 연구. omeprazole을 평가한 시험이 아니며 간접 관련성만 있음 |
+| [NCT00557921](https://clinicaltrials.gov/study/NCT00557921) | Phase 3 | 조기 종료 | 5000 | 아스피린 병용 환경에서 clopidogrel+omeprazole 복합제와 clopidogrel을 비교해 위장관 출혈·궤양 질환 감소를 평가한 시험. 십이지장 폐쇄를 직접 평가한 근거는 없음 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [9824338](https://pubmed.ncbi.nlm.nih.gov/9824338/) | 1998 | 임상연구 | Gut | 바렛 식도 환자에서 omeprazole 20 mg 1일 2회가 십이지장위·위식도 담즙 역류에 미치는 영향 평가 |
-| [10994616](https://pubmed.ncbi.nlm.nih.gov/10994616/) | 2000 | 임상연구 | Scand J Gastroenterol | 바렛 식도에서 omeprazole이 전정부 십이지장위 역류를 줄일 수 있다는 보고 |
-| [16641575](https://pubmed.ncbi.nlm.nih.gov/16641575/) | 2006 | 전향적 코호트 | J Pediatr Gastroenterol Nutr | 소아 식도 담즙 역류에서 omeprazole 치료 효과 평가 |
-| [12836018](https://pubmed.ncbi.nlm.nih.gov/12836018/) | 2003 | 증례 시리즈 | Eur J Pediatr | 소아·청소년 원발성 십이지장위 역류. 일반 제산 치료에 반응하지 않은 6명 보고 |
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | 리뷰 | Eur J Clin Pharmacol | PPI의 임상 사용과 약동학 개관 |
-| [33027361](https://pubmed.ncbi.nlm.nih.gov/33027361/) | 2020 | 동물연구(래트) | Acta Cir Bras | 십이지장위 역류 래트에서 omeprazole의 위 선암 보호 효과 여부 탐색 (안전성 신호) |
-| [10389684](https://pubmed.ncbi.nlm.nih.gov/10389684/) | 1999 | 동물연구(래트) | Dig Dis Sci | 위산 차단이 십이지장위 역류로 유발되는 위 발암을 촉진 |
-| [8943968](https://pubmed.ncbi.nlm.nih.gov/8943968/) | 1996 | 동물연구(래트) | Dig Dis Sci | 십이지장위 역류가 전장 점막 증식을 유발하고 위산 차단이 이를 강화 |
-| [8076761](https://pubmed.ncbi.nlm.nih.gov/8076761/) | 1994 | 생리학 연구 | Gastroenterology | 십이지장위식도 역류와 pH의 관계, 바렛 식도에서의 중요성 |
+| [7795284](https://pubmed.ncbi.nlm.nih.gov/7795284/) | 1995 | 임상/관찰 (증례) | Ital J Gastroenterol | 십이지장 구부 협착을 동반한 궤양 환자에서 omeprazole 4개월은 내시경 소견을 바꾸지 못했고, H. pylori 제균 치료 후 궤양과 협착이 호전됨 |
+| [1475769](https://pubmed.ncbi.nlm.nih.gov/1475769/) | 1992 | Review | Ther Umsch | 소화성 궤양 진단 리뷰. 위출구 폐쇄가 의심될 때 상부 위장관 조영술이 유용할 수 있음 |
+| [9005711](https://pubmed.ncbi.nlm.nih.gov/9005711/) | 1996 | Review (증례 포함) | Acta Med Port | 위십이지장 크론병 사례. prednisolone과 omeprazole이 효과가 없어 위출구 폐쇄 해소에 수술이 필요했음 |
+| [9306611](https://pubmed.ncbi.nlm.nih.gov/9306611/) | 1997 | Case report | Surg Today | 십이지장 크론병으로 지속적인 위출구 폐쇄가 생겨 수술로 치료한 사례 |
+| [8165479](https://pubmed.ncbi.nlm.nih.gov/8165479/) | 1994 | Case report | Surg Endosc | 위장문합술 후 거대 변연 궤양 사례. 폐쇄 등의 합병증이 보고됨 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 199202074 | 라메졸캡슐20밀리그램 | 장용성 과립 경질캡슐 | 허가사항 참조 |
-| 199302187 | 오메드정20밀리그램 | 장용제피정제 | 허가사항 참조 |
-| 199200236 | 오엠피정20밀리그램 | 장용필름코팅정제 | 허가사항 참조 |
-| 201504045 | 가나플럭스정40/1100밀리그램 (omeprazole + 탄산수소나트륨) | 삼층정 | 허가사항 참조 |
-| 201504046 | 제로시드정40/1100밀리그램 | 삼층정 | 허가사항 참조 |
+| 199202074 | 라메졸캡슐20밀리그램 | 장용성 과립 충진 경질캡슐 | 허가 적응증 텍스트 미기재 |
+| 199302187 | 오메드정20밀리그램 | 장용제피정제 | 허가 적응증 텍스트 미기재 |
+| 199900120 | 오엠피정40밀리그램 | 장용필름코팅정제 | 허가 적응증 텍스트 미기재 |
+| 199200236 | 오엠피정20밀리그램 | 장용필름코팅정제 | 허가 적응증 텍스트 미기재 |
+| 199902308 | 오메드정10밀리그램 | 장용제피정제 | 허가 적응증 텍스트 미기재 |
 
-이 외에 오메드정 10 mg·40 mg(수출용), 오엠피정 40 mg, 제로시드정 20/1100 mg, 가나플럭스정 20/1100 mg 등 총 10건이 유효 허가 상태입니다.
+허가 10건의 목록이며 위에는 주요 5건만 제시했습니다.
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건이 조회되었으며, 주요(Major) 등급으로 **Acalabrutinib**, **Atazanavir**가 확인되었습니다. 중등도(Moderate) 항목에는 Alprazolam, Amphotericin B 제제, Atorvastatin, Fenofibrate, Hydrochlorothiazide, Amikacin, Amphetamine, Anagrelide, Apalutamide, Armodafinil 등이 있습니다.
-- **지식그래프 기반 금기 연관 질환** (허가사항 문구가 아닌 모델 지식그래프 정보): 간부전, 간질환, 담낭질환, 울혈성 심부전, 골다공증, 폐경 후 골다공증, 골절, 만성 위축성 위염
-- **동물실험 안전성 신호**: 위산 차단과 십이지장위 역류의 병용이 위 발암 및 점막 증식을 촉진할 수 있다는 결과가 있어, 장기 사용 시 주의가 필요합니다.
+- **약물 상호작용**: 조회 결과 총 100건이 확인되었으며, 주요 항목으로는 다음이 있습니다.
+  - 중대(Major): Acalabrutinib, Atazanavir
+  - 중등도(Moderate): Hydrochlorothiazide, Alprazolam, Amphotericin B, Amikacin, Amphetamine, Anagrelide, Fenofibrate, Apalutamide, Armodafinil, Atorvastatin 등
+  - 경미(Minor): Lidocaine, Nifedipine, Ambrisentan, Acetylsalicylic acid
 
-허가사항의 경고·금기 원문은 이번 데이터에서 확인되지 않았으므로 허가사항을 직접 참조하세요.
+주요 경고와 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Hold (연구 질문 단계)**
+**결정: Hold**
 
 **사유:**
-증상 조절에 대한 기전적 타당성과 소규모 임상연구(바렛 식도, 소아 담즙 역류)는 있으나, 십이지장위 역류 자체를 대상으로 한 무작위 대조시험은 없습니다. 연결된 임상시험도 omeprazole을 평가한 것이 아니며, 동물실험에서 장기 위산 차단의 발암 가능성이 제기되어 안전성 검증이 선행되어야 합니다.
+십이지장 폐쇄를 직접 연구한 임상시험이나 문헌이 없어 근거 수준은 L5입니다. 폐쇄는 기계적 질환이어서 omeprazole은 궤양 관련 부종을 줄이는 정도의 간접적 역할에 그칠 가능성이 높고, 사례 보고에서는 효과가 없었습니다.
 
 **진행하려면 필요한 것:**
-- 십이지장위 역류 환자를 직접 대상으로 한 omeprazole의 무작위 대조 임상시험
-- 장기 위산 억제 시 위 점막 변화와 발암 위험에 대한 인체 안전성 데이터
-- 한국 허가사항 원문(적응증, 경고, 금기)의 확보 및 분석
-- 상세한 작용 기전(MOA) 데이터 보완
-
----
-
-참고: 두 번째 예측인 **십이지장 폐쇄(Duodenal Obstruction, TxGNN 99.64%)**는 근거 수준 L4, 권장 결정 Hold입니다. 십이지장 폐쇄는 궤양 흉터나 크론병 등으로 인한 구조적 질환이어서 omeprazole은 간접적 효과만 기대할 수 있으며, 직접적인 임상 근거는 없습니다. 높은 점수는 소화성 궤양과의 네트워크 근접성을 반영한 것으로 보입니다.
+- 십이지장 폐쇄 환자를 직접 대상으로 한 임상 또는 관찰 연구 근거
+- 궤양 관련 협착과 기타 원인(크론병, 악성 종양)을 구분한 대상군 정의
+- 허가사항의 경고·금기 정보 확보 및 작용 기전 자료 보완
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

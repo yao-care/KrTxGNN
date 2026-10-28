@@ -8,6 +8,7 @@ nav_order: 88
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arotinolol Hydrochloride
@@ -52,7 +53,7 @@ Arotinolol Hydrochloride는 베타차단·알파차단 계열 약물로 알려�
 | 예측 신규 적응증 | 예측 결과 없음 |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | L5 (예측 미실행) |
-| 한국 시판 현황 | 미시판 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 

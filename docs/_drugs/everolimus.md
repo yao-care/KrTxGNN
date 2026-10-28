@@ -4,17 +4,17 @@ title: Everolimus
 parent: 모델 예측만 (L5)
 nav_order: 332
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Everolimus: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 링크만 수록되어 있어 확인 불가 (허가사항 참조)"
+indication_count: 8
+last_modified_at: 2026-10-28
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
+description: "Everolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804620/EE"
 ---
 
 # Everolimus
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofib
 
 </div>
 
-## Everolimus: 항암·면역억제 치료제에서 지방육종으로
+## Everolimus: 지방육종 (liposarcoma)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,11 +46,11 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 대신 링크만 수록되어 있어 확인 불가 (허가사항 참조) |
-| 예측 신규 적응증 | 지방육종 (Liposarcoma) |
-| TxGNN 예측 점수 | 99.88% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804620/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004977/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002237/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904234/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004979/EE;  |
+| 예측 신규 적응증 | 지방육종 (liposarcoma) |
+| TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 (엄격한 판정 기준 적용 시: 완료된 Phase 2/3 RCT 없음, 진행 중인 단일군 Phase 2만 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 16건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -130,8 +130,8 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 ### 참고: 다른 예측 적응증
 
-- **투명세포 신세포암**(예측 점수 99.81%): 다수의 Phase 3 임상시험과 RCT 문헌이 있으나, 이미 허가된 적응증과 일치하는 기존 사용이며 새로운 재창출 발견이 아닙니다. 최근 근거에서는 후발 약제가 everolimus를 능가한 사례가 많아 주로 비교군 또는 기반 요법 역할입니다.
-- **횡문근육종**(99.74%): 소아 고형암 Phase 1 및 Phase 1/2(lenvatinib 병용) 시험이 있으나 횡문근육종에서의 효능은 확립되지 않았습니다.
+- **투명세포 신세포암**: 다수의 Phase 3 임상시험과 RCT 문헌이 있으나, 이미 허가된 적응증과 일치하는 기존 사용이며 새로운 재창출 발견이 아닙니다. 최근 근거에서는 후발 약제가 everolimus를 능가한 사례가 많아 주로 비교군 또는 기반 요법 역할입니다.
+- **횡문근육종**(0.9974): 소아 고형암 Phase 1 및 Phase 1/2(lenvatinib 병용) 시험이 있으나 횡문근육종에서의 효능은 확립되지 않았습니다.
 - **그 외**(난소 점액양 지방육종, 피부섬유육종, 횡문근육종 하위 유형, 신경모세포종 연관 신세포암): 임상시험과 직접 근거가 없어 모델 예측 수준(L5)이며 보류가 적절합니다.
 ## 면책 조항
 

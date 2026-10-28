@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Decitabine
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 255
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Decitabine: 예측 신규 적응증 소아 불응성 혈구감소증 (Refractory Cytopenia of Childhood) (근거 수준 L3). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (골수이형성증후군으로 알려져 있으나 이번 데이터로는…"
@@ -14,7 +14,7 @@ predicted_indications: ["refractory cytopenia of childhood"]
 # Decitabine
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **1** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **소아 불응성 혈구감소증(Refractory Cytopenia of Child
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (골수이형성증후군으로 알려져 있으나 이번 데이터로는 확인되지 않음) |
 | 예측 신규 적응증 | 소아 불응성 혈구감소증 (Refractory Cytopenia of Childhood) |
-| TxGNN 예측 점수 | 99.03% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9903 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 

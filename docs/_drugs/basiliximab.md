@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Basiliximab
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 127
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Basiliximab: 예측 신규 적응증 형질세포 골수종 (Plasma Cell Myeloma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 텍스트가 없고 링크만 제공되어 확인 불가 (허가사항 PDF 참조)"
-monitor_inn: "Basiliximab"
-predicted_indications: ["plasma cell myeloma", "bronchitis", "indolent plasma cell myeloma", "hemoglobinopathy", "gastric carcinoma", "diffuse gastric adenocarcinoma", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "Jeune syndrome situs inversus"]
+last_modified_at: 2026-10-23
+description: "Basiliximab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Basiliximab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +32,45 @@ predicted_indications: ["plasma cell myeloma", "bronchitis", "indolent plasma ce
 
 </div>
 
-## Basiliximab: 이식 거부반응 예방에서 형질세포 골수종으로
+<!-- known-uses-page -->
+<!-- description: Basiliximab: 대한민국 내 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음 -->
+## Basiliximab
 {: .text-alpha }
 
-## 한 문장 요약
+## 요약
+TxGNN 딥러닝 모델은 Basiliximab에 대해 점수 0.99 이상인 후보 적응증을 내놓지 않았으므로, 현재 새로 예측된 적응증은 없습니다. 아래에는 이 약물에 기록된 기존 용도를 정리했습니다.
 
-Basiliximab은 항 CD25(IL-2 수용체 알파) 단클론항체로, 한국에서 허가된 이식 관련 면역억제 치료제입니다. TxGNN 모델은 **형질세포 골수종(plasma cell myeloma)**에 효과가 있을 수 있다고 예측하며, 현재 **3건의 임상시험**과 **4편의 문헌**이 이 방향을 간접적으로 지지합니다. 다만 이 근거는 골수종 세포 자체에 대한 효능이 아니라 이식 상황에서의 면역 조절에 관한 것입니다.
-
-## 빠른 개요
-
+## 한눈에 보기
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 텍스트가 없고 링크만 제공되어 확인 불가 (허가사항 PDF 참조) |
-| 예측 신규 적응증 | 형질세포 골수종 (Plasma Cell Myeloma) |
-| TxGNN 예측 점수 | 95.61% |
-| 근거 수준 | L3 (아래 설명 참조) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 1건 |
-| 권장 결정 | Hold (연구 질문 단계) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 새로 예측된 적응증 | 없음 (점수 0.99 이상인 모델 후보 없음) |
+| 이 약물에 기록된 기존 용도 | 2 |
+| 대한민국 내 시장 현황 | Unknown (source lacks cancellation status) |
 
-> 근거 수준 참고: 이번 데이터에서 자동 부여된 수준은 L2였으나, 근거가 되는 시험은 소규모 Phase 2 단일군 시험(GVHD 예방이 목적)이며 골수종 치료 효능을 검증한 RCT가 아닙니다. 따라서 이 보고서의 판정 규칙에 따라 관찰 연구·소규모 시험 수준인 L3로 보수적으로 평가했습니다.
+## 이 약물에 기록된 기존 용도
 
-## 이 예측이 타당한 이유는?
+### 승인됨 (허가 또는 라벨로 뒷받침됨)
+| 적응증 | 출처 |
+|------|------|
+| 이식편 거부반응 (graft rejection) | 다른 국가의 허가 |
+| 신장 이식 (kidney transplantation) | 다른 국가의 허가 |
 
-현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 basiliximab은 활성화된 T세포 표면의 IL-2 수용체 알파 사슬(CD25)을 차단하는 키메라 단클론항체로, 이식 거부반응 예방에 사용됩니다.
+### 승인된 적응증과 관련됨 (같은 질환 범주)
+| 적응증 | 승인된 범주 |
+|------|------|
+| 없음 | 없음 |
 
-골수종과의 연관성은 간접적입니다. 골수종 환자의 동종 조혈모세포이식 후에는 활성화 T세포를 제거하여 이식편대숙주병(GVHD)을 예방할 수 있고, 자가 조혈모세포이식 후에는 CD25 양성 조절 T세포(Treg)를 줄여 항종양 면역을 높일 가능성이 탐구되었습니다. 즉, 약물은 골수종 형질세포가 아니라 이식 면역 환경을 표적으로 합니다.
-
-따라서 TxGNN의 높은 점수는 "골수종 치료제"로서의 가능성보다는 이식 맥락의 면역 조절 가능성을 반영하는 것으로 해석하는 것이 적절합니다.
-
-## 임상시험 근거
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00975975](https://clinicaltrials.gov/study/NCT00975975) | Phase 2 | 완료 | 17 | 비골수제거 동종이식 후 basiliximab + cyclosporine의 GVHD 예방 효과 평가. 소규모 단일군으로 항골수종 효능은 평가 대상이 아님 |
-| [NCT01526096](https://clinicaltrials.gov/study/NCT01526096) | Phase 1 | 완료 | 30 | 골수종 환자의 자가조혈모세포이식 시 조절 T세포 감소의 가능성과 안전성 탐색 |
-| [NCT00594308](https://clinicaltrials.gov/study/NCT00594308) | 해당 없음 | 조기 종료 | 10 | basiliximab + cyclosporine vs cyclosporine 단독의 GVHD 예방 비교. 조기 종료 및 극소규모로 해석에 한계 |
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [31940591](https://pubmed.ncbi.nlm.nih.gov/31940591/) | 2020 | 임상시험 (Phase 1 보고) | Journal for Immunotherapy of Cancer | 골수종 자가이식 후 Treg 재구성이 골수종 세포에 대한 면역을 억제할 수 있다는 배경 하에 Treg 제거를 시험한 파일럿 연구 |
-| [12476283](https://pubmed.ncbi.nlm.nih.gov/12476283/) | 2002 | 코호트 | Bone Marrow Transplantation | 동종이식 후 스테로이드 불응성 급성 GVHD 17례에서 basiliximab의 내약성과 효과 보고 (대상자에 다발골수종 포함) |
-| [42379467](https://pubmed.ncbi.nlm.nih.gov/42379467/) | 2026 | 증례/리뷰 | American Journal of Kidney Diseases | 골수종에서 CAR T 치료 후 신장이식의 가능성 논의 |
-| [28320553](https://pubmed.ncbi.nlm.nih.gov/28320553/) | 2017 | 증례 보고 | American Journal of Kidney Diseases | 골수종으로 인한 신부전 환자 4명의 신장이식 사례 |
+### 지식 그래프에 기록된 관계 (승인 근거 없음)
+| 적응증 |
+|------|
+| 없음 |
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200410069 | 씨뮬렉트주사(바실릭시맙) (한국노바티스) | 동결건조 주사제 (바이알) | 허가사항 PDF 참조 (적응증 원문 텍스트 미확보) |
+| 허가번호 | 제품명 | 제형 | 상태 |
+|------|------|------|------|
+| 200410069 | Simulect injection | 무색 바이알에 충전된 동결건조한 백색가루 또는 덩어리. 멸균주사용수로 녹 | 유효 |
 
 ## 안전성 고려사항
 
@@ -98,24 +85,6 @@ Basiliximab은 항 CD25(IL-2 수용체 알파) 단클론항체로, 한국에서 
 
 경고 및 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold (연구 질문 단계)**
-
-**사유:**
-모든 관련 시험이 소규모 Phase 1~2이거나 조기 종료되었고, 목적도 골수종 치료가 아닌 GVHD 예방 또는 Treg 제거 탐색입니다. 골수종에 대한 직접적인 항종양 효능 근거가 없어, 높은 TxGNN 점수(95.61%)만으로 진행하기는 어렵습니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증) 원문 확보 및 안전성 검토
-- 상세한 작용 기전 데이터 확보 (DrugBank 등)
-- 골수종에서 항종양 효능(반응률, 무진행 생존 등)을 평가한 비교 시험 근거
-- NCT01526096 등 Treg 제거 시험의 상세 결과 검토 및 면역억제로 인한 감염·재발 위험 평가
-
-**참고 (다른 예측 적응증):**
-- 이식 관련 근거는 있으나 기저 질환 치료와는 무관합니다.
-  - 헤모글로빈병증(근거 수준 L3): 지중해빈혈 동종이식에서 GVHD 예방 목적의 Phase 4 시험 (NCT02342145, 205명)이 있으나 질환 자체에 대한 치료 효과는 아닙니다.
-  - 기관지염: 폐이식 후 폐쇄성 세기관지염 문헌을 용어 유사성으로 잘못 연결했을 가능성이 높습니다.
-- 위암 및 그 밖의 희귀 질환 예측은 근거가 없거나 매우 약해 보류가 적절합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

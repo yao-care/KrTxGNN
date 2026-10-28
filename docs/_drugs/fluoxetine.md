@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fluoxetine
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 360
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluoxetine: 예측 신규 적응증 강박장애 (Obsessive-Compulsive Disorder) (근거 수준 L1). 기존 적응증: 확인 불가 (허가증 적응증 항목에 텍스트 대신 링크만 제공됨)"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Fluoxetine"
-predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia"]
+predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
+last_modified_at: 2026-10-23
+description: "Fluoxetine: 예측 신규 적응증 편집성 인격장애 (Paranoid Personality Disorder) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 없이 허가사항 PDF 링크만 있음)"
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,117 +33,83 @@ predicted_indications: ["paranoid personality disorder", "histrionic personality
 
 </div>
 
-## Fluoxetine: 우울증에서 강박장애로
+## Fluoxetine: 기존 허가 적응증에서 편집성 인격장애(Paranoid Personality Disorder)로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Fluoxetine은 선택적 세로토닌 재흡수 억제제(SSRI)로, 한국에서 20건의 단일제 허가를 받아 시판 중인 약물입니다.
-TxGNN 모델은 **강박장애(Obsessive-Compulsive Disorder)**에 효과가 있을 것으로 예측하며(예측 점수 99.96%), 이 방향을 지지하는 **임상시험 13건**과 **문헌 20편**이 확인되었습니다.
-다만 강박장애는 이미 가이드라인에서 인정되는 사용처일 가능성이 높아, 새로운 재창출이라기보다 기존 용도의 재확인에 가깝습니다.
+Fluoxetine은 한국에서 단일 성분 제제로 다수 허가되어 시판 중인 약물입니다. 다만 이번 보고서에 사용된 데이터에는 허가 적응증의 본문이 없고 허가사항 PDF 링크만 있습니다.
+TxGNN 모델은 **편집성 인격장애(Paranoid Personality Disorder)**에 효과가 있을 수 있다고 예측하며 예측 점수는 매우 높습니다(0.9992).
+그러나 이 질환을 직접 다룬 임상시험은 없고, 문헌 7편도 대부분 다른 질환이나 인격장애 전반을 다루므로 **직접적인 근거는 확인되지 않습니다.**
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증 적응증 항목에 텍스트 대신 링크만 제공됨) |
-| 예측 신규 적응증 | 강박장애 (Obsessive-Compulsive Disorder) |
-| TxGNN 예측 점수 | 99.96% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 20건 |
-| 권장 결정 | Proceed with Guardrails |
-
-> 근거 수준 참고: 목록의 완료된 Phase 3 시험은 소아 강박장애에서 CBT를 병용한 NCT00074815 1건뿐이며, fluoxetine 단독 효과를 분리해 볼 수 없습니다. 엄격한 판정 규칙을 적용하면 L1 요건(완료된 Phase 3 RCT 2건 이상)은 충족하지 못하고, 체계적 문헌고찰·메타분석(PMID 32242450 등)과 무작위 대조 시험(PMID 11437015)이 근거를 보완합니다. 위 L1은 데이터에 부여된 등급이며, 해석 시 이 점을 감안해야 합니다.
+| 기존 적응증 | 확인 불가 (허가증에 적응증 본문 없이 허가사항 PDF 링크만 있음) |
+| 예측 신규 적응증 | 편집성 인격장애 (Paranoid Personality Disorder) |
+| TxGNN 예측 점수 | 0.9992 |
+| 근거 수준 | L5 (이 질환을 직접 연구한 임상시험·문헌 없음) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가 건수 | 최소 20건 (단일 성분 품목허가, 목록은 일부일 수 있음) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 fluoxetine은 SSRI 계열로 시냅스 내 세로토닌 농도를 높이며, 이 기전이 강박장애의 항강박 효과의 핵심으로 알려진 피질-선조체-시상-피질 회로의 세로토닌 조절과 연결됩니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 Fluoxetine은 세로토닌 재흡수를 억제하는 약물(SSRI)로 알려져 있습니다. 세로토닌 조절이 충동성, 불안, 동반 우울 증상에 영향을 줄 가능성은 있습니다.
 
-강박장애에서 세로토닌 재흡수 억제제의 효과는 수십 년간 반복적으로 확인되었습니다. 소아 대상 위약 대조 시험(PMID 11437015), 메타분석(PMID 8263222, 32242450), sertraline과의 이중맹검 비교(PMID 11910259)가 이를 뒷받침합니다.
+그러나 편집성 인격장애 같은 A군(Cluster A) 인격장애의 핵심 증상이 SSRI의 확립된 치료 표적이라는 근거는 이번 데이터에서 확인되지 않습니다. 수집된 문헌은 대부분 경계성 인격장애, 동반 우울증, 기타 질환을 다루고 있습니다. A군 인격장애 약물치료 리뷰(PMID 29955451)도 Fluoxetine의 편집성 인격장애 효능을 입증하지는 않습니다.
 
-높은 예측 점수는 임상 근거와 일치합니다. 다만 한국 허가 적응증을 확인할 수 없어, 강박장애가 이미 허가된 적응증인지는 허가사항에서 직접 확인해야 합니다.
+따라서 이 예측은 높은 모델 점수에 비해 기전적·임상적 뒷받침이 부족한 계산 기반 예측으로 보아야 합니다. 이득이 있다 해도 동반 우울증을 통한 간접적인 효과일 가능성이 큽니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Phase 3 | 완료 | 124 | SRI 부분 반응 소아 강박장애에서 CBT 병용 효과 평가 |
-| [NCT00680602](https://clinicaltrials.gov/study/NCT00680602) | Phase 4 | 완료 | 158 | 집단 CBT와 fluoxetine의 무작위 공개 비교 |
-| [NCT02022709](https://clinicaltrials.gov/study/NCT02022709) | Phase 4 | 완료 | 78 | ERP와 SSRI 단독·병용 효과 및 반응 예측인자 |
-| [NCT00466609](https://clinicaltrials.gov/study/NCT00466609) | Phase 4 | 완료 | 54 | 1차 약물 비반응 환자에서 fluoxetine 유지 vs quetiapine/clomipramine 병용 |
-| [NCT00592852](https://clinicaltrials.gov/study/NCT00592852) | Phase 4 | 조기 종료 | 13 | 양극성장애 동반 소아 강박장애 fluoxetine 파일럿 (표본 작음) |
-| [NCT00758966](https://clinicaltrials.gov/study/NCT00758966) | Phase 2 | 조기 종료 | 8 | naltrexone SR 및/또는 fluoxetine 개념증명 시험 |
-| [NCT04899687](https://clinicaltrials.gov/study/NCT04899687) | Phase 2 | 모집 중 | 60 | fluoxetine/dextromethorphan 병용 공개 교차 파일럿 |
-| [NCT04131829](https://clinicaltrials.gov/study/NCT04131829) | Phase 1/2 | 모집 중 | 100 | 약물치료 반응의 뇌 네트워크 변화 영상 연구 |
-| [NCT00000373](https://clinicaltrials.gov/study/NCT00000373) | Phase 4 | 완료 | 74 | 뚜렛 스펙트럼 강박장애 치료 (주로 fluvoxamine) |
-| [NCT01148316](https://clinicaltrials.gov/study/NCT01148316) | 해당 없음 | 완료 | 144 | 소아·청소년 적응형 치료 전략 연구 |
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [32242450](https://pubmed.ncbi.nlm.nih.gov/32242450/) | 2020 | 체계적 문헌고찰/메타분석 | Nord J Psychiatry | 소아·청소년 강박장애에서 fluoxetine의 효능·수용성·내약성 평가 |
-| [11437015](https://pubmed.ncbi.nlm.nih.gov/11437015/) | 2001 | 위약 대조 시험 | J Am Acad Child Adolesc Psychiatry | 소아·청소년 강박장애 13주 이중맹검 시험 |
-| [11910259](https://pubmed.ncbi.nlm.nih.gov/11910259/) | 2002 | 이중맹검 비교 시험 | J Clin Psychopharmacol | sertraline vs fluoxetine 24주 비교 |
-| [8263222](https://pubmed.ncbi.nlm.nih.gov/8263222/) | 1993 | 메타분석 | J Behav Ther Exp Psychiatry | clomipramine, fluoxetine, 행동치료 모두 유의한 효과 |
-| [28477500](https://pubmed.ncbi.nlm.nih.gov/28477500/) | 2017 | 메타분석 | J Affect Disord | 강박장애는 다른 불안장애보다 위약 및 항우울제 반응이 낮음 |
-| [38703743](https://pubmed.ncbi.nlm.nih.gov/38703743/) | 2024 | Review | Compr Psychiatry | 강박장애에서 SRI 허가 외 고용량의 안전성·내약성 |
-| [8277151](https://pubmed.ncbi.nlm.nih.gov/8277151/) | 1993 | 임상 경험 보고 | Int Clin Psychopharmacol | 위약 대조 2건 통합 분석에서 임상적으로 유의한 효과 |
-| [2140372](https://pubmed.ncbi.nlm.nih.gov/2140372/) | 1990 | 후향적 비교 | J Clin Psychopharmacol | clomipramine과 fluoxetine 모두 유효, 부작용 비교 |
-| [11488259](https://pubmed.ncbi.nlm.nih.gov/11488259/) | 2001 | Review | L'Encephale | 성인 강박장애에서 fluoxetine의 가치 문헌 고찰 |
-| [22305974](https://pubmed.ncbi.nlm.nih.gov/22305974/) | 2012 | Review | BMJ Clin Evid | 강박장애 역학 및 치료 개요 |
+| [29955451](https://pubmed.ncbi.nlm.nih.gov/29955451/) | 2016 | Review | The Mental Health Clinician | 편집성·분열성·분열형 인격장애를 포함한 A군 인격장애의 약물치료 리뷰. Fluoxetine의 편집성 인격장애 효능을 확립하지는 않음 |
+| [36853245](https://pubmed.ncbi.nlm.nih.gov/36853245/) | 2023 | Review | JAMA | 경계성 인격장애 리뷰. 편집성 인격장애와 직접 관련 없음 |
+| [12524634](https://pubmed.ncbi.nlm.nih.gov/12524634/) | 2003 | Cohort | Comprehensive Psychiatry | 우울증 환자 183명 대상 Fluoxetine·Nortriptyline 장기 치료 시험 중 경계성 인격장애 하위군 분석. 편집성 인격장애는 대상이 아님 |
+| [12214786](https://pubmed.ncbi.nlm.nih.gov/12214786/) | 2002 | Review | Psychological Medicine | 우울증 외래환자에서 Fluoxetine 치료 전후 인격장애 진단 변화 평가. 우울 증상과의 관련성 중심 |
+| [21371699](https://pubmed.ncbi.nlm.nih.gov/21371699/) | 2011 | Cohort | Comprehensive Psychiatry | 소아·청소년·성인 발병 우울증의 임상 특성 비교. 직접 관련성 낮음 |
+| [17637578](https://pubmed.ncbi.nlm.nih.gov/17637578/) | 2000 | Cohort | CNS Spectrums | Clozapine으로 치료받는 편집형 조현병 환자의 사회불안과 병전 인격장애. 직접 관련성 낮음 |
+| [26703328](https://pubmed.ncbi.nlm.nih.gov/26703328/) | 2016 | Review | J Dev Behav Pediatr | 다낭성 난소 증후군과 정신과 진단에 대한 사례 논의. 직접 관련성 낮음 |
 
 ## 한국 시판 정보
 
+단일 성분 제제 허가가 최소 20건 확인되며, 전부 유효 상태입니다. 아래는 주요 5건이며 전체 목록은 일부일 수 있습니다. 허가 적응증은 본문 없이 허가사항 PDF 링크만 제공되어 요약할 수 없습니다.
+
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201907013 | 유니작캡슐20밀리그램 | 경질캡슐 | 허가사항 참조 |
-| 201500735 | 디프렌캡슐10mg | 캡슐 | 허가사항 참조 |
-| 201805198 | 플록센캡슐 | 경질캡슐 | 허가사항 참조 |
-| 199801099 | 푸로세틴캡슐 | 경질캡슐 | 허가사항 참조 |
-| 200700022 | 로랑캡슐10밀리그램 | 캡슐 | 허가사항 참조 |
-
-전체 20건이 모두 단일제이며 유효 상태입니다. 허가 적응증은 텍스트가 아닌 MFDS 허가정보 링크로만 제공되어 내용을 요약할 수 없었습니다.
+| 201907013 | 유니작캡슐20밀리그램 | 경질캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907013/EE) |
+| 201500735 | 디프렌캡슐10mg | 캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500735/EE) |
+| 201805198 | 플록센캡슐 | 경질캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805198/EE) |
+| 199801099 | 푸로세틴캡슐 | 경질캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801099/EE) |
+| 200700022 | 로랑캡슐10밀리그램 | 캡슐 | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200700022/EE) |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 상호작용 100건이 조회되었습니다. 주요(Major) 등급 예시는 다음과 같습니다.
-  - Bupropion
-  - Lorcaserin
-  - Diethylpropion
-  - Dolasetron
-  - Eliglustat
-  - Palonosetron
-  - Cisapride
-- **중등도(Moderate) 상호작용 예시**: Famotidine, Loperamide, Morphine, Acetylsalicylic acid, Clarithromycin 등
-- **관련 안전 신호**: 소아·청소년 투여 시 자살 관련 사고·행동 모니터링이 필요합니다. 그 외 경고·금기는 허가사항을 참조하세요.
+- **약물 상호작용**: 총 100건이 조회되었으며, 이 중 확인된 일부 항목은 다음과 같습니다.
+  - **Major(중대)**: Bupropion, Lorcaserin, Diethylpropion, Dolasetron, Eliglustat, Palonosetron, Cisapride
+  - **Moderate(중등도)**: Famotidine, Loperamide, Morphine, Acetylsalicylic acid(아스피린), Clarithromycin, Chlorpropamide 등
+
+주요 경고와 금기 정보는 이번 데이터에 포함되어 있지 않으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-강박장애에서 fluoxetine의 효능은 소아 위약 대조 시험과 메타분석 등으로 폭넓게 뒷받침됩니다. 다만 이는 기존 용도의 재확인에 가깝고, Phase 3 근거는 CBT 병용 설계라 fluoxetine 단독 효과를 분리하기 어렵습니다.
+TxGNN 예측 점수는 매우 높지만, 편집성 인격장애에서 Fluoxetine을 직접 평가한 임상시험이나 문헌이 없고 기전적 근거도 불충분합니다. 따라서 근거 수준은 L5이며, 현재 단계에서는 추가 개발을 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
-- 한국 허가 적응증에 강박장애가 포함되는지 허가사항 원문 확인
-- 허가사항의 경고·금기 정보 확보 (현재 안전성 검토를 진행하기엔 부족)
-- 상세 작용 기전(MOA) 데이터 보완
-- 주요 상호작용 약물(bupropion, QT 연장 가능 약물 등) 병용 관리 방안
-- 소아·청소년 대상 자살 관련 모니터링 계획
-
-### 참고: 기타 예측 적응증 요약
-
-| 예측 적응증 | 점수 | 근거 수준 | 권장 결정 |
-|------------|------|----------|----------|
-| 불안장애 | 99.94% | L1 | Proceed with Guardrails (소아 불안 Phase 3 근거 있으나 일부 시험은 강박장애 시험이 중복 매핑됨) |
-| 광장공포증 | 99.86% | L2 | Proceed with Guardrails (공황장애 근거에서 간접 추정) |
-| 기분부전장애 | 99.83% | L2 | Proceed with Guardrails (기분부전장애 특이적 Phase 3 근거는 확인되지 않음) |
-| 내인성 우울증 | 99.87% | L1 | Proceed with Guardrails (기존 적응증 재확인) |
-| 분열형 성격장애 | 99.92% | L4 | 연구 질문 단계 (소규모 오래된 연구, 일과성 정신증 사례 보고) |
-| 편집성·연극성·분열성 성격장애 | 99.92% | L5 | Hold (근거 없음) |
-| 영아 양성 발작성 사경 | 99.89% | L5 | Hold (근거 없음, 영아 SSRI 투여 안전성 우려) |
+- 허가사항 PDF에서 기존 적응증, 경고, 금기 정보 확보 (현재 안전성 검토를 진행할 수 없는 상태)
+- 작용 기전(MOA) 데이터 확보 (DrugBank 조회 등)
+- 편집성 인격장애에서 Fluoxetine을 평가한 임상 연구 또는 체계적 문헌고찰 탐색
+- 동일 데이터에서 근거가 상대적으로 더 많은 다른 예측 적응증(공포증, 광장공포증 등)과의 우선순위 비교
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

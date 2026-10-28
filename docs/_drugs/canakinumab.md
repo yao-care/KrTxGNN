@@ -4,7 +4,7 @@ title: Canakinumab
 parent: 모델 예측만 (L5)
 nav_order: 175
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Canakinumab: 예측 신규 적응증 간 경색 (Hepatic Infarction) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "CANAKINUMAB"
@@ -14,7 +14,7 @@ predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", 
 # Canakinumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **간 경색(hepatic infarction)**에 효과가 있을 수 있�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조) |
 | 예측 신규 적응증 | 간 경색 (Hepatic Infarction) |
-| TxGNN 예측 점수 | 99.86% |
+| TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **간 경색(hepatic infarction)**에 효과가 있을 수 있�
 
 현재 상세한 작용 기전 데이터는 없습니다. 다만 Canakinumab은 IL-1β를 중화하는 항체로 알려져 있어, 이론상 허혈과 관련된 염증 반응을 조절할 가능성은 있습니다.
 
-그러나 간 경색에 대해 IL-1β 차단이 효과가 있다는 직접적인 근거나 데이터는 없습니다. 기존 적응증인 자가염증 질환과 간 경색은 병태생리가 크게 달라, 기전상 연관성도 약합니다. 이 예측은 지식 그래프 기반 모델의 출력으로만 해석해야 합니다.
+그러나 간 경색에 대해 IL-1β 차단이 효과가 있다는 직접적인 근거나 데이터는 없습니다. 기존 적응증인 자가염증 질환과 간 경색은 병태생리가 크게 달라, 기전상 연관성도 약합니다. 이 예측 점수는 TxGNN 모델(딥러닝)의 출력이며, 관련 질환 간에 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
 ## 안전성 고려사항
 

@@ -4,17 +4,17 @@ title: Sacituzumab Govitecan
 parent: 모델 예측만 (L5)
 nav_order: 678
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Sacituzumab Govitecan: 예측 신규 적응증 약인성 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 텍스트로 포함되어 있지 않고 식약처 허가 문서 링크만 제공됨 (허가사항 참조)"
 monitor_inn: "Sacituzumab govitecan"
-predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "mature cataract"]
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
 ---
 
 # Sacituzumab Govitecan
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **약인성 골다공증(drug-induced osteoporosis)**에 효과�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 데이터에 텍스트로 포함되어 있지 않고 식약처 허가 문서 링크만 제공됨 (허가사항 참조) |
 | 예측 신규 적응증 | 약인성 골다공증 (drug-induced osteoporosis) |
-| TxGNN 예측 점수 | 99.78% |
+| TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -58,9 +58,9 @@ TxGNN 모델은 **약인성 골다공증(drug-induced osteoporosis)**에 효과�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Sacituzumab govitecan은 Trop-2 표적 항체에 토포이소머라제 I 억제제인 SN-38을 연결한 ADC이며, 세포독성 약물을 종양 세포에 전달하는 방식으로 작동합니다.
 
-이 기전과 뼈 대사 사이에서 뚜렷한 연결고리는 확인되지 않습니다. 오히려 세포독성 항암화학요법은 골 소실과 관련되는 경우가 더 흔하며, 골다공증을 치료한다는 근거는 없습니다. TxGNN 점수(99.78%)는 지식 그래프 기반 예측일 뿐이며, 이를 뒷받침하는 임상 또는 문헌 근거가 없습니다.
+이 기전과 뼈 대사 사이에서 뚜렷한 연결고리는 확인되지 않습니다. 오히려 세포독성 항암화학요법은 골 소실과 관련되는 경우가 더 흔하며, 골다공증을 치료한다는 근거는 없습니다. TxGNN 점수(0.9978)는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 학습한 관련 질환 간 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며, 이를 뒷받침하는 임상 또는 문헌 근거도 없습니다.
 
-참고로 예측 순위 상위 10개 중에는 당뇨망막병증(중증 비증식성 포함)과 여러 유형의 백내장이 다수 포함되어 있습니다. 백내장 하위 유형들은 점수가 동일하거나 거의 같아, 독립적인 근거가 아니라 그래프 내 유사 질환 군집의 영향일 가능성이 큽니다. 세포독성 ADC가 이런 만성 비종양성 안과 질환에 적합하다고 볼 근거도 없습니다.
+참고로 예측 순위 상위 10개 중에는 당뇨망막병증(중증 비증식성 포함)과 당뇨병성 백내장이 포함되어 있습니다. 이들은 점수가 동일하거나 거의 같아, 독립적인 근거가 아니라 모델이 학습한 유사 질환 간 유사성의 영향일 가능성이 큽니다. 세포독성 ADC가 이런 만성 비종양성 안과 질환에 적합하다고 볼 근거도 없습니다.
 
 ## 한국 시판 정보
 

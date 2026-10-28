@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Bicalutamide
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 145
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bicalutamide: 예측 신규 적응증 털과다증 (Hypertrichosis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 데이터에 포함되어 있지 않아 확인되지 않음 (허가사항 참조 필요)"
@@ -14,7 +14,7 @@ predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with 
 # Bicalutamide
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Bicalutamide는 비스테로이드성 안드로겐 수용체 길항제로, 한�
 |------|------|
 | 기존 적응증 | 허가 적응증 원문은 데이터에 포함되어 있지 않아 확인되지 않음 (허가사항 참조 필요) |
 | 예측 신규 적응증 | 털과다증 (Hypertrichosis) |
-| TxGNN 예측 점수 | 99.69% |
+| TxGNN 예측 점수 | 0.9969 |
 | 근거 수준 | L4 (기전 연구·간접 문헌 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 13건 |
 | 권장 결정 | Hold |
 
@@ -105,7 +105,7 @@ Bicalutamide는 비스테로이드성 안드로겐 수용체 길항제로, 한�
 **결정: Hold**
 
 **사유:**
-털과다증 예측은 점수(99.69%)는 높지만 직접적인 임상시험이 없고, 문헌도 약물 유발 상황에 대한 논평 1편뿐이어서 근거가 부족합니다. 상위 10개 예측 중 대부분은 기전적 연관성이 불분명하거나 근거가 전혀 없습니다.
+털과다증 예측은 점수(0.9969)는 높지만 직접적인 임상시험이 없고, 문헌도 약물 유발 상황에 대한 논평 1편뿐이어서 근거가 부족합니다. 상위 10개 예측 중 대부분은 기전적 연관성이 불분명하거나 근거가 전혀 없습니다.
 
 **진행하려면 필요한 것:**
 - 털과다증(특히 안드로겐 의존형)에 대한 Bicalutamide의 전향적 임상 근거

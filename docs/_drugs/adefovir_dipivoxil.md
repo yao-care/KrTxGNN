@@ -4,7 +4,7 @@ title: Adefovir Dipivoxil
 parent: 모델 예측만 (L5)
 nav_order: 26
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Adefovir Dipivoxil: 예측 신규 적응증 만성 C형 간염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 만성 B형 간염 (한국 허가 문서는 링크로만 제공되어 본문은 확인하지 못했으며…"
 monitor_inn: "ADEFOVIR DIPIVOXIL"
@@ -14,7 +14,7 @@ predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious d
 # Adefovir Dipivoxil
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **만성 C형 간염(chronic hepatitis C virus infection)**에 �
 |------|------|
 | 기존 적응증 | 만성 B형 간염 (한국 허가 문서는 링크로만 제공되어 본문은 확인하지 못했으며, 이 항목은 문헌과 임상시험 정보를 근거로 기재) |
 | 예측 신규 적응증 | 만성 C형 간염 (chronic hepatitis C virus infection) |
-| TxGNN 예측 점수 | 99.97% |
+| TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 (모델 예측만 있고 직접 근거 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 9건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **만성 C형 간염(chronic hepatitis C virus infection)**에 �
 
 현재 상세한 작용 기전 데이터가 이 보고서용 자료에 없습니다. 알려진 정보에 따르면 아데포비어는 세포 안에서 활성형인 아데포비어 이인산으로 바뀌어 B형 간염 바이러스(HBV)의 DNA 중합효소(역전사효소)를 억제하고 바이러스 DNA 사슬 합성을 중단시킵니다.
 
-그러나 C형 간염 바이러스(HCV)는 DNA 중간체 없이 RNA 의존성 RNA 중합효소로 복제하는 RNA 바이러스입니다. 따라서 아데포비어가 HCV에 활성을 가질 기전적 근거는 확인되지 않습니다. 예측 점수가 매우 높은 이유는 B형 간염과 C형 간염이 지식 그래프에서 '바이러스성 간염'이라는 맥락을 공유하기 때문으로 보이며, 실제 약리 연관성을 반영한 결과로 보기는 어렵습니다. C형 간염은 현재 직접작용항바이러스제(DAA)가 표준 치료입니다.
+그러나 C형 간염 바이러스(HCV)는 DNA 중간체 없이 RNA 의존성 RNA 중합효소로 복제하는 RNA 바이러스입니다. 따라서 아데포비어가 HCV에 활성을 가질 기전적 근거는 확인되지 않습니다. 예측 점수가 매우 높은 것은 TxGNN 모델(딥러닝)이 B형 간염과 C형 간염 같은 관련 질환 사이에서 학습한 유사성을 반영한 결과일 수 있으며, 생물학적 근거를 뜻하지는 않습니다. C형 간염은 현재 직접작용항바이러스제(DAA)가 표준 치료입니다.
 
 ## 임상시험 근거
 

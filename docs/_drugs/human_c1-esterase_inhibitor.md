@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Human C1-Esterase Inhibitor: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 MFDS 허가정보 링크로만 제공되어 구체적인 질환명을 확인할 수 없음"
+last_modified_at: 2026-10-28
 monitor_inn: "HUMAN C1-ESTERASE INHIBITOR"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "primary release disorder of platelets", "diabetic retinopathy", "pseudo-von Willebrand disease"]
+description: "Human C1-Esterase Inhibitor: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201109899/EE"
 ---
 
 # Human C1-Esterase Inhibitor
@@ -33,7 +33,7 @@ predicted_indications: ["severe nonproliferative diabetic retinopathy", "primary
 
 </div>
 
-## 사람 C1-에스테라제 억제제(Human C1-Esterase Inhibitor): 유전성 혈관부종 계열 약물에서 중증 비증식성 당뇨망막병증으로
+## Human C1-Esterase Inhibitor: 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -45,11 +45,11 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 MFDS 허가정보 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 |
-| 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) |
-| TxGNN 예측 점수 | 99.61% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201109899/EE |
+| 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) |
+| TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -59,11 +59,11 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 
 가설적 연결고리는 다음과 같습니다. 혈장 칼리크레인에 의한 혈관 투과성 증가와 염증이 당뇨망막병증의 망막 혈관 누출에 관여한다고 알려져 있습니다. C1-에스테라제 억제제가 이 경로를 억제한다면 이론상 적용 가능성이 있습니다.
 
-다만 이는 검증되지 않은 가설입니다. 전신 투여된 혈장 유래 단백질이 혈액-망막 장벽을 통과해 망막에 도달할 수 있는지도 불분명합니다. 이 예측은 그래프 기반 모델 결과일 뿐입니다.
+다만 이는 검증되지 않은 가설입니다. 전신 투여된 혈장 유래 단백질이 혈액-망막 장벽을 통과해 망막에 도달할 수 있는지도 불분명합니다. 이 예측은 TxGNN 모델(딥러닝)의 결과일 뿐이며, 모델이 학습한 관련 질환 간의 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다.
 
 같이 예측된 다른 질환의 성격은 다음과 같습니다.
-- **당뇨망막병증(상위 질환)**: 위와 동일한 가설이 적용되며 독립적인 근거가 아닙니다. (점수 99.25%)
-- **혈소판 분비 장애 및 슈도 폰빌레브란트병**: 기전적으로 뚜렷한 연결고리가 없어 매우 추측적입니다. (각각 99.31%, 99.09%)
+- **당뇨망막병증(상위 질환)**: 위와 동일한 가설이 적용되며 독립적인 근거가 아닙니다. (점수 0.9925)
+- **혈소판 분비 장애 및 슈도 폰빌레브란트병**: 기전적으로 뚜렷한 연결고리가 없어 매우 추측적입니다. (각각 0.9931, 0.9909)
 
 ## 임상시험 근거
 
@@ -92,7 +92,7 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 **결정: Hold**
 
 **사유:**
-높은 TxGNN 점수(99.61%)에도 불구하고, 뒷받침하는 임상시험과 문헌이 전혀 없는 모델 예측 단계(L5)입니다. 작용 기전 데이터도 없어 기전적 타당성을 확인할 수 없고, 혈액-망막 장벽 통과 문제 등 약동학적 의문도 남아 있습니다.
+높은 TxGNN 점수(0.9961)에도 불구하고, 뒷받침하는 임상시험과 문헌이 전혀 없는 모델 예측 단계(L5)입니다. 작용 기전 데이터도 없어 기전적 타당성을 확인할 수 없고, 혈액-망막 장벽 통과 문제 등 약동학적 의문도 남아 있습니다.
 
 **진행하려면 필요한 것:**
 - 작용 기전(MOA) 데이터 확보

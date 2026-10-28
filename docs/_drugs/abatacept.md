@@ -3,18 +3,18 @@ layout: default
 title: Abatacept
 parent: 중등도 근거 (L3-L4)
 nav_order: 12
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Abatacept: 예측 신규 적응증 류마티스 혈관염 (Rheumatoid Vasculitis) (근거 수준 L4). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 기재되어 있어 구체적인 문구를 확인할 수 없음 (허가 문서 참조)"
+evidence_level: L3
+indication_count: 7
 monitor_inn: "ABATACEPT"
-predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "spondyloarthropathy, susceptibility to", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+last_modified_at: 2026-10-27
+description: "Abatacept: 예측 신규 적응증 강직성 척추염 (ankylosing spondylitis) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307568/EE"
 ---
 
 # Abatacept
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L3** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,80 +33,91 @@ predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "in
 
 </div>
 
-## Abatacept: 류마티스 관절염에서 류마티스 혈관염으로
+## Abatacept: T세포 공동자극 차단제 → 강직성 척추염 (ankylosing spondylitis)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Abatacept는 CTLA-4 기반 융합단백질로, 한국에서 류마티스 관절염 등에 사용되는 약입니다. TxGNN 모델은 **류마티스 혈관염(rheumatoid vasculitis)**에 효과가 있을 수 있다고 예측했지만, 이를 뒷받침하는 근거는 증례 보고 수준의 문헌뿐이며 직접 검증한 임상시험은 없습니다. 또한 같은 약 계열의 다른 예측 질환(소아 다관절형 특발성 관절염, 건선성 관절염 등)에서는 Phase 3 근거가 확인됩니다.
+Abatacept는 T세포 공동자극을 차단하는 생물학적 제제로, 한국에서 유효한 허가증 2건이 확인됩니다.
+TxGNN 모델은 **강직성 척추염(ankylosing spondylitis)**에 효과가 있을 수 있다고 예측했습니다. 이 질환에는 **임상시험 3건**과 **문헌 18편**이 검색되었지만 효능을 뒷받침하는 결과는 없습니다. 이 질환을 직접 다룬 연구는 소규모 공개 라벨 시험과 연구 2건뿐이며, 그중 한 연구는 효능 부족을 보고했습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 기재되어 있어 구체적인 문구를 확인할 수 없음 (허가 문서 참조) |
-| 예측 신규 적응증 | 류마티스 혈관염 (Rheumatoid Vasculitis) |
-| TxGNN 예측 점수 | 99.91% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307568/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002332/EE |
+| 예측 신규 적응증 | 강직성 척추염 (ankylosing spondylitis) |
+| TxGNN 예측 점수 | 0.9991 |
+| 근거 수준 | L3 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 abatacept는 CD28-CD80/86 T세포 공동자극을 차단하는 약물입니다. 류마티스 관절염에서 효능이 입증되어 있어, T세포가 관여하는 혈관염에도 기전상 적용 가능할 수 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. Abatacept는 T세포 공동자극 신호를 차단하는 약물로 알려져 있습니다. 이 기전은 면역 매개 염증성 관절 질환 전반에서 이론적으로 타당하며, 척추관절염에서도 기전상 가능성이 있습니다.
 
-류마티스 혈관염은 류마티스 관절염의 관절 외 합병증입니다. 따라서 기저 질환이 같다는 점에서 연관성은 있습니다. 다만 문헌에는 abatacept 투여 중 새로 류마티스 혈관염이 발생하고 rituximab 투여 후 호전된 사례도 보고되어 있어, 효능에 반하는 신호도 있습니다.
+그러나 임상 자료는 기전적 가능성과 다른 방향을 가리킵니다.
+- TNF 억제제에 반응하지 않던 축성 척추관절병증 환자에서 abatacept의 효능이 없었다는 연구가 있습니다.
+- 2016년 리뷰도 T세포를 표적으로 하는 abatacept가 축성 척추관절염에서 효과적이지 않다고 정리했습니다.
+- 이 질환에서 abatacept를 직접 평가한 연구는 소규모 파일럿 수준에 그칩니다.
+
+따라서 높은 예측 점수에도 불구하고 현재 임상 근거는 부정적 신호가 우세합니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | 모집 중 | 80 | 어깨 관절 전치환술을 받는 류마티스 환자의 면역억제제 중단 기간 비교 연구. abatacept의 혈관염 효능을 검증하는 시험이 아님 |
+| [NCT00558506](https://clinicaltrials.gov/study/NCT00558506) | Phase 2 | 불명 | 30 | 강직성 척추염 환자 30명을 대상으로 abatacept를 최대 30주간 정맥 투여하는 공개 라벨 파일럿 시험. 소규모 비대조 시험이며 결과는 확인되지 않음 |
+| [NCT01965132](https://clinicaltrials.gov/study/NCT01965132) | 해당 없음 | 모집 중 | 10,000 | 한국 류마티스학회 생물학제제 등록 연구. 실사용 안전성 관찰 목적이며 효능 시험이 아님 |
+| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | 모집 중 | 80 | 어깨 관절 치환술 전후 면역억제제 관리 시험. abatacept의 이 질환 효능을 검증하지 않음 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [29930884](https://pubmed.ncbi.nlm.nih.gov/29930884/) | 2018 | 증례 보고 | Cureus | 류마티스 관절염과 common variable immunodeficiency를 가진 환자의 류마티스 혈관염에 abatacept를 치료 옵션으로 보고 |
-| [22124545](https://pubmed.ncbi.nlm.nih.gov/22124545/) | 2012 | 증례 보고 | Modern Rheumatology | MTX, TNF 억제제 등에 반응하지 않던 류마티스 혈관염 환자에서 abatacept 투여 후 빠른 증상 호전 |
-| [27052429](https://pubmed.ncbi.nlm.nih.gov/27052429/) | 2016 | 증례 보고 | Joint Bone Spine | abatacept 투여 중 류마티스 혈관염이 새로 발생했고 rituximab 후 호전 |
-| [30119075](https://pubmed.ncbi.nlm.nih.gov/30119075/) | 2018 | 증례 보고 | Ophthalmic Plast Reconstr Surg | abatacept 투여 중인 류마티스 관절염 환자에서 안와 혈관염 발생, cyclophosphamide에 초기 호전 후 진행 |
-| [36418100](https://pubmed.ncbi.nlm.nih.gov/36418100/) | 2023 | 증례 보고 | Internal Medicine | abatacept와 adalimumab 투여 중 ANCA 연관 신염이 발생, tocilizumab으로 완화 |
-| [24840285](https://pubmed.ncbi.nlm.nih.gov/24840285/) | 2014 | 체계적 문헌고찰 | Autoimmunity Reviews | 생물학적 제제에 의한 자가면역 신장 질환의 특징 분석 |
-| [23557513](https://pubmed.ncbi.nlm.nih.gov/23557513/) | 2013 | 리뷰 | BMC Medicine | 자가면역 질환에 대한 생물학적 치료 최신 동향 |
+| [21497538](https://pubmed.ncbi.nlm.nih.gov/21497538/) | 2012 | 코호트/공개 라벨 연구 | Joint Bone Spine | TNF 억제제에 실패한 축성 척추관절병증에서 abatacept 효능 부족 보고 |
+| [21415053](https://pubmed.ncbi.nlm.nih.gov/21415053/) | 2011 | 공개 라벨 파일럿 | Ann Rheum Dis | 활동성 강직성 척추염에서 abatacept의 단기(24주) 효능과 안전성을 탐색 |
+| [27856659](https://pubmed.ncbi.nlm.nih.gov/27856659/) | 2016 | 리뷰 | Rheumatology (Oxford) | TNF 차단제는 매우 효과적이지만, T세포를 표적으로 하는 abatacept 등 비TNF 생물학제제는 효과적이지 않다고 정리 |
+| [25488787](https://pubmed.ncbi.nlm.nih.gov/25488787/) | 2014 | 리뷰 | Best Pract Res Clin Rheumatol | TNF 차단을 넘어서는 척추관절염 치료 전략 |
+| [31171316](https://pubmed.ncbi.nlm.nih.gov/31171316/) | 2018 | 리뷰 | Best Pract Res Clin Rheumatol | TNF 억제제 외에 척추관절염의 새로운 치료 옵션 정리 |
+| [29278210](https://pubmed.ncbi.nlm.nih.gov/29278210/) | 2017 | 리뷰 | Curr Pharm Biotechnol | 염증성 관절염에서 생물학제제의 역할 |
+| [21624184](https://pubmed.ncbi.nlm.nih.gov/21624184/) | 2011 | 리뷰 | Arthritis Res Ther | 류마티스 질환의 새로운 표적 치료제 개관 |
+| [39963138](https://pubmed.ncbi.nlm.nih.gov/39963138/) | 2025 | 리뷰/가이드라인 | Front Immunol | 생물학제제 투여 중인 자가면역 관절염 환자의 결핵 위험 관리 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201307568 | 오렌시아서브큐프리필드시린지125밀리그램 | 피하주사용 프리필드시린지 | 허가 문서 참조 (원문 링크만 제공됨) |
-| 201002332 | 오렌시아주250밀리그램 | 정맥주사용 바이알(동결건조) | 허가 문서 참조 (원문 링크만 제공됨) |
+| 201307568 | 오렌시아서브큐프리필드시린지125밀리그램(아바타셉트) | 프리필드시린지 주사제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307568/EE) |
+| 201002332 | 오렌시아주250밀리그램(아바타셉트) | 바이알 주사제(동결건조) | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002332/EE) |
+
+두 허가증 모두 단일 성분 제품이며 현재 유효합니다. 제조·판매사는 (유)한국비엠에스제약입니다.
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 수집된 데이터에서 총 73건의 상호작용이 확인되었습니다. 주요 항목은 다음과 같습니다.
-  - 중대(Major): adalimumab, baricitinib, certolizumab pegol, BCG 생백신
-  - 중등도(Moderate): anakinra, azathioprine, alemtuzumab, canakinumab, roflumilast, 일부 생백신 등
-  - 경미(Minor): 아연 제제(acetate, gluconate, sulfate, chloride)
-- TNF 억제제 등 다른 면역억제 생물학적 제제와 병용할 때 특히 주의가 필요합니다.
-
-경고 및 금기 사항은 허가사항을 참조하세요.
+- **약물 상호작용**: 총 73건이 보고되었습니다. 주요(Major) 등급은 다음과 같습니다.
+  - adalimumab
+  - baricitinib
+  - certolizumab pegol
+  - BCG 생균 백신
+- **중등도(Moderate) 등급 예시**: anakinra, alemtuzumab, azathioprine, canakinumab, roflumilast, 일부 생백신
+- **경미(Minor) 등급**: 아연 제제
+- 다른 생물학제제나 JAK 억제제와의 병용은 신중해야 하며, 생백신 접종 전에는 확인이 필요합니다.
+- 경고·금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-류마티스 혈관염에 대한 근거는 소수의 증례 보고에 한정되고, 직접 검증한 임상시험이 없습니다. 오히려 abatacept 투여 중 혈관염이 발생한 사례도 있어 근거가 상충합니다. TxGNN 예측 점수는 높지만 이것만으로 진행을 정당화하기는 어렵습니다.
+이 질환을 직접 평가한 근거는 소규모 비대조 공개 라벨 시험과 연구뿐입니다. 그중 한 연구는 TNF 억제제 불응 환자에서 효능 부족을 보고했고, 리뷰들도 abatacept가 효과적이지 않다고 정리합니다. 따라서 높은 예측 점수(0.9991)보다 임상적 부정 신호가 더 무겁습니다.
 
 **진행하려면 필요한 것:**
-- 류마티스 혈관염에서 abatacept의 효능을 평가하는 전향적 임상시험 또는 코호트 연구
-- 허가증의 적응증 원문과 경고·금기 사항 확인 (허가사항 PDF 분석)
-- 상세한 작용 기전(MOA) 데이터 확보
-- 기존 치료(rituximab 등)와의 비교 근거
-
-참고로 같은 약물의 다른 예측 질환 중 **소아 다관절형 특발성 관절염**은 Phase 3 시험 근거(L1)가 있어 "Proceed with Guardrails"로 평가됩니다. 다만 이는 이미 여러 국가에서 허가된 적응증에 가까우며, 한국 허가 적응증 여부를 확인해야 합니다. **건선성 관절염 등 염증성 척추병증** 범주는 Phase 3 RCT(NCT01860976)가 있어 L2로 평가되지만, 축성 척추관절염에서는 효능이 부족하다는 보고가 있습니다.
+- 파일럿 시험(NCT00558506)의 결과 확인과 상태 업데이트
+- 이 질환에서 효능을 시사하는 무작위 대조 임상 근거
+- 상세한 작용 기전(MOA) 자료
+- 허가사항 기반의 경고·금기 정보 확보
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -47,9 +47,9 @@ TxGNN 모델은 **선천성 어린선양 홍피증(Congenital Ichthyosiform Eryt
 |------|------|
 | 기존 적응증 | 눈의 건조 증상의 완화, 자극의 일시적 경감 |
 | 예측 신규 적응증 | 선천성 어린선양 홍피증 (Congenital Ichthyosiform Erythroderma) |
-| TxGNN 예측 점수 | 99.43% |
+| TxGNN 예측 점수 | 0.9943 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 

@@ -4,7 +4,7 @@ title: Paliperidone
 parent: 모델 예측만 (L5)
 nav_order: 575
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Paliperidone: 예측 신규 적응증 망막이영양증 (retinal dystrophy with or without extraocular anomalies) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가 문서 링크만 수록되어 있어 원문은 확인하지 못했습니다. 일반적으로 알려진 적응증은 조현병입니다"
 monitor_inn: "PALIPERIDONE"
@@ -14,7 +14,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 # Paliperidone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **유전성 망막이영양증(retinal dystrophy with or without
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문 대신 허가 문서 링크만 수록되어 있어 원문은 확인하지 못했습니다. 일반적으로 알려진 적응증은 조현병입니다. |
 | 예측 신규 적응증 | 망막이영양증 (retinal dystrophy with or without extraocular anomalies) |
-| TxGNN 예측 점수 | 99.92% |
+| TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 6건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **유전성 망막이영양증(retinal dystrophy with or without
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Paliperidone은 도파민 D2 및 세로토닌 5-HT2A 수용체를 차단하는 비정형 항정신병약이며, 증상 조절 약물입니다.
 
-이 약의 수용체 약리와 유전성 망막 변성 사이에서 알려진 기전적 연결고리는 없습니다. 예측 점수는 매우 높지만 지식 그래프 기반 예측일 뿐, 이를 뒷받침하는 임상 또는 전임상 자료가 제공되지 않았습니다. 높은 점수는 그래프 구조상의 연관성에서 나왔을 가능성이 큽니다. 실제로 상위 예측에는 근시 관련 질환이 여러 개 포함되어 있어, 서로 인접한 그래프 이웃이 점수를 함께 끌어올렸을 수 있습니다.
+이 약의 수용체 약리와 유전성 망막 변성 사이에서 알려진 기전적 연결고리는 없습니다. 예측 점수는 매우 높지만 TxGNN 모델(딥러닝)이 산출한 값일 뿐, 이를 뒷받침하는 임상 또는 전임상 자료가 제공되지 않았습니다. 높은 점수는 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 크며, 생물학적 근거는 아닙니다. 실제로 상위 예측에는 근시 관련 질환이 여러 개 포함되어 있어, 서로 유사한 질환들이 점수를 함께 끌어올렸을 수 있습니다.
 
 ## 임상시험 근거
 
@@ -107,7 +107,7 @@ TxGNN 모델은 **유전성 망막이영양증(retinal dystrophy with or without
 - 허가사항(MFDS 첨부문서)의 경고·금기 원문 확보 및 분석
 - 상세한 작용 기전(MOA) 확인 (DrugBank 조회)
 - 망막이영양증과의 기전적 연관성을 뒷받침하는 전임상 또는 문헌 근거 (현재 없음)
-- 유전성 망막 질환 및 근시 계열 예측 간 그래프 상관성 점검 (독립 근거 여부 확인)
+- 유전성 망막 질환 및 근시 계열 예측 간 TxGNN 모델이 학습한 질환 유사성의 영향 점검 (독립 근거 여부 확인)
 - 안구 질환 적응증 시 경로 적합성 검토 (현재 경구 서방정만 존재)
 ## 면책 조항
 

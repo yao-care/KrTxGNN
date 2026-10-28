@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Meropenem
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 504
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Meropenem: 예측 신규 적응증 세균성 관절염 (Bacterial Arthritis) (근거 수준 L5). 기존 적응증: 중증 세균 감염 (한국 허가 적응증 본문은 허가증 원문 링크로만 확인되어 문헌상 일반 용도로 기재)"
 monitor_inn: "meropenem"
@@ -14,7 +14,7 @@ predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus a
 # Meropenem
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **세균성 관절염(Bacterial Arthritis)**에 효과가 있을
 |------|------|
 | 기존 적응증 | 중증 세균 감염 (한국 허가 적응증 본문은 허가증 원문 링크로만 확인되어 문헌상 일반 용도로 기재) |
 | 예측 신규 적응증 | 세균성 관절염 (Bacterial Arthritis) |
-| TxGNN 예측 점수 | 99.92% |
+| TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L4 (직접 임상시험 없음, 간접 문헌·기전 근거 위주) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 
@@ -104,7 +104,7 @@ Meropenem은 세균 세포벽 합성을 억제하는 광범위 카바페넴계 �
 **결정: Hold**
 
 **사유:**
-예측 점수는 매우 높지만(99.92%) 세균성 관절염에 대한 직접 임상시험이 없고, 문헌도 증례·후향 연구와 간접 자료 위주입니다. 전신 감염에 쓰는 약물이어서 기전상 타당성은 있으나, 광범위 카바페넴이므로 내성 관리 측면의 신중함도 필요합니다.
+예측 점수는 매우 높지만(0.9992) 세균성 관절염에 대한 직접 임상시험이 없고, 문헌도 증례·후향 연구와 간접 자료 위주입니다. 전신 감염에 쓰는 약물이어서 기전상 타당성은 있으나, 광범위 카바페넴이므로 내성 관리 측면의 신중함도 필요합니다.
 
 **진행하려면 필요한 것:**
 - 세균성 관절염과 골관절 감염에서 meropenem의 효능을 평가한 비교 연구 또는 전향적 임상 근거

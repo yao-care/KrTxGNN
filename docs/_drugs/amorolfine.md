@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amorolfine: 예측 신규 적응증 약물유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 족부백선(무좀, 한포상백선), 고부백선(대퇴부백선), 서혜부백선, 체부백선, 수부백선 등 피부사상균증(백선)"
 monitor_inn: "Amorolfine"
-predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "abdominal ectopic pregnancy", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
+predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "abdominal cystic lymphangioma", "sacrum chordoma", "lymph node palisaded myofibroblastoma", "urethral disease"]
 ---
 
 # Amorolfine
@@ -48,9 +48,9 @@ TxGNN 모델은 **약물유발 골다공증(drug-induced osteoporosis)**에 효�
 |------|------|
 | 기존 적응증 | 족부백선(무좀, 한포상백선), 고부백선(대퇴부백선), 서혜부백선, 체부백선, 수부백선 등 피부사상균증(백선) |
 | 예측 신규 적응증 | 약물유발 골다공증 (drug-induced osteoporosis) |
-| TxGNN 예측 점수 | 99.998% |
+| TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -58,9 +58,9 @@ TxGNN 모델은 **약물유발 골다공증(drug-induced osteoporosis)**에 효�
 
 현재 상세한 작용 기전 데이터는 입력 자료에 없습니다. 알려진 정보에 따르면 Amorolfine은 모르폴린계 외용 항진균제로, 진균의 에르고스테롤 생합성 경로(sterol delta-14 reductase 및 delta-7/delta-8 isomerase)를 억제합니다.
 
-그러나 이 기전과 골 대사 경로를 연결할 근거는 확인되지 않았습니다. 예측 점수가 매우 높지만 이는 지식 그래프 구조에 기반한 예측일 뿐이며, 임상시험이나 문헌의 뒷받침이 없습니다. 또한 외용제는 전신 흡수가 적어, 뼈 조직에 유효한 농도로 도달할 가능성도 낮습니다.
+그러나 이 기전과 골 대사 경로를 연결할 근거는 확인되지 않았습니다. 예측 점수가 매우 높지만 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 임상시험이나 문헌의 뒷받침도 없습니다. 또한 외용제는 전신 흡수가 적어, 뼈 조직에 유효한 농도로 도달할 가능성도 낮습니다.
 
-참고로 같은 모델이 예측한 상위 10개 질환(후복막 질환, 자궁광인대 질환, 요추 척추관 협착증, 복부 낭성 림프관종, 복강동맥 압박 증후군, 복부 자궁외임신, 림프절 책상형 근섬유모세포종, 천골 척삭종, 요도 질환)도 모두 L5 수준이며 뚜렷한 기전적 연결이 확인되지 않습니다. 이들 대부분은 수술적 질환이거나 범주가 넓어, 그래프 위상(topology)에 따른 인위적 결과일 가능성이 있습니다.
+참고로 같은 모델이 예측한 상위 10개 질환(후복막 질환, 자궁광인대 질환, 요추 척추관 협착증, 복부 낭성 림프관종, 복강동맥 압박 증후군, 복부 자궁외임신, 림프절 책상형 근섬유모세포종, 천골 척삭종, 요도 질환)도 모두 L5 수준이며 뚜렷한 기전적 연결이 확인되지 않습니다. 이들 대부분은 수술적 질환이거나 범주가 넓어, 모델이 관련 질환 간에 학습한 유사성이 반영된 결과일 가능성이 있습니다.
 
 ## 한국 시판 정보
 

@@ -47,9 +47,9 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 |------|------|
 | 기존 적응증 | 눈의 피로, 결막충혈, 수영 후 눈의 불쾌감 또는 먼지나 땀이 눈에 들어갔을 때, 자외선 및 기타광선에 의한 눈의 염증 등 |
 | 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) |
-| TxGNN 예측 점수 | 99.27% |
+| TxGNN 예측 점수 | 0.9927 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 18건 |
 | 권장 결정 | Hold |
 

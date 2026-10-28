@@ -4,7 +4,7 @@ title: Clevudine
 parent: 모델 예측만 (L5)
 nav_order: 221
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Clevudine: 예측 신규 적응증 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 만성 B형 간염 (허가증에는 적응증 본문 없이 문서 링크만 등록되어 있어, 임상시험·문헌 자료를 근거로 기재)"
 monitor_inn: "CLEVUDINE"
@@ -14,7 +14,7 @@ predicted_indications: ["chronic hepatitis C virus infection", "hepatitis C viru
 # Clevudine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **8** 건
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C vir
 |------|------|
 | 기존 적응증 | 만성 B형 간염 (허가증에는 적응증 본문 없이 문서 링크만 등록되어 있어, 임상시험·문헌 자료를 근거로 기재) |
 | 예측 신규 적응증 | 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) |
-| TxGNN 예측 점수 | 99.96% |
+| TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C vir
 
 C형 간염 바이러스(HCV)는 DNA가 아닌 RNA 바이러스로, NS5B RNA 의존성 RNA 중합효소를 통해 복제합니다. 클레부딘이 억제하는 HBV 중합효소와는 표적 계열이 다르므로, 기전상 C형 간염에 효과가 있다고 볼 근거는 확인되지 않았습니다.
 
-이 높은 예측 점수는 검증된 기전이 아니라, 지식 그래프에서 항바이러스제와 간염 질환이 서로 가깝게 연결되어 있는 데서 나온 것으로 보입니다. 즉 지금은 "간염 관련 항바이러스제"라는 연관성만 있을 뿐, HCV에 대한 직접 근거는 없습니다.
+이 높은 예측 점수는 TxGNN 모델(딥러닝)이 산출한 값이며, 검증된 기전이 아니라 모델이 관련 질환들 사이에서 학습한 유사성을 반영한 것일 수 있습니다. 즉 지금은 "간염 관련 항바이러스제"라는 연관성만 있을 뿐, HCV에 대한 직접 근거는 없습니다.
 
 ## 임상시험 근거
 
@@ -91,7 +91,7 @@ C형 간염 바이러스(HCV)는 DNA가 아닌 RNA 바이러스로, NS5B RNA 의
 **결정: Hold**
 
 **사유:**
-HCV는 HBV와 복제 기전과 표적 효소가 달라 기전적 근거가 없고, 이 적응증을 직접 검증한 임상시험이나 문헌도 없습니다. 예측 점수(99.96%)는 높지만 모델 예측일 뿐이므로 지금은 개발을 진행할 수 없습니다.
+HCV는 HBV와 복제 기전과 표적 효소가 달라 기전적 근거가 없고, 이 적응증을 직접 검증한 임상시험이나 문헌도 없습니다. 예측 점수(0.9996)는 높지만 모델 예측일 뿐이므로 지금은 개발을 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
 - HCV 복제 모델(레플리콘 등)에서 클레부딘의 항바이러스 활성을 확인하는 전임상(in vitro) 연구

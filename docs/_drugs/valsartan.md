@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Valsartan
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 777
-evidence_level: L5
-indication_count: 7
+evidence_level: L4
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Valsartan: 예측 신규 적응증 악성 신혈관성 고혈압 (Malignant Renovascular Hypertension) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트가 제공되지 않아 확인할 수 없음 (허가증 링크만 있음). 약물 계열상 고혈압 등 심혈관계 질환으로…"
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+description: "Valsartan: 예측 신규 적응증 Malignant hypertensive renal disease (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404025/EE"
 ---
 
 # Valsartan
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **7** 건
+근거 수준: **L4** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-## Valsartan: 고혈압에서 악성 신혈관성 고혈압으로
+## Valsartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Valsartan은 안지오텐신 II 제1형 수용체(AT1R)를 차단하는 약물로, 한국에서 고혈압 치료제 및 암로디핀 등과의 복합제 성분으로 널리 허가되어 있습니다.
-TxGNN 모델은 **악성 신혈관성 고혈압(Malignant Renovascular Hypertension)**에 효과가 있을 수 있다고 예측하지만, 현재 임상시험은 없고 **전임상 연구 1편**만 간접적으로 이를 지지합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문 텍스트가 제공되지 않아 확인할 수 없음 (허가증 링크만 있음). 약물 계열상 고혈압 등 심혈관계 질환으로 추정 |
-| 예측 신규 적응증 | 악성 신혈관성 고혈압 (Malignant Renovascular Hypertension) |
-| TxGNN 예측 점수 | 99.97% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404025/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001707/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602312/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002136/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805550/EE;  |
+| 예측 신규 적응증 | Malignant hypertensive renal disease |
+| TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L4 (전임상 연구만 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -105,12 +104,12 @@ TxGNN 점수는 높으나 임상시험이 없고, 근거는 AT1R 차단의 간�
 
 | 순위 | 질환 | 예측 점수 | 근거 수준 | 비고 |
 |------|------|----------|----------|------|
-| 2 | 악성 고혈압성 신질환 | 99.97% | L4 | 유일한 문헌이 다른 약물(avosentan) 연구여서 valsartan 직접 근거 없음 |
-| 3 | 원인 불명확한 다인성 폐고혈압 | 99.97% | L5 | 모델 예측만 존재 |
-| 4 | 폐질환/저산소증에 의한 폐고혈압 | 99.97% | L4 | 저산소·HIF-1α 관련 전임상 연구 위주, 임상시험 없음 |
-| 5 | Braddock 증후군 | 99.96% | L5 | 모델 예측만 존재 |
-| 6 | 만성 폐성심 | 99.58% | L4 | 사쿠비트릴/발사르탄의 우심실 재형성 개선 전임상 신호, 후속 연구 질문으로 고려 가능 |
-| 7 | 프린츠메탈 협심증 | 99.45% | L5 | 관련 근거 거의 없음 |
+| 2 | 악성 고혈압성 신질환 | 0.9997 | L4 | 유일한 문헌이 다른 약물(avosentan) 연구여서 valsartan 직접 근거 없음 |
+| 3 | 원인 불명확한 다인성 폐고혈압 | 0.9997 | L5 | 모델 예측만 존재 |
+| 4 | 폐질환/저산소증에 의한 폐고혈압 | 0.9997 | L4 | 저산소·HIF-1α 관련 전임상 연구 위주, 임상시험 없음 |
+| 5 | Braddock 증후군 | 0.9996 | L5 | 모델 예측만 존재 |
+| 6 | 만성 폐성심 | 0.9958 | L4 | 사쿠비트릴/발사르탄의 우심실 재형성 개선 전임상 신호, 후속 연구 질문으로 고려 가능 |
+| 7 | 프린츠메탈 협심증 | 0.9945 | L5 | 관련 근거 거의 없음 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

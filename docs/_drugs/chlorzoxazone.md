@@ -4,17 +4,17 @@ title: Chlorzoxazone
 parent: 모델 예측만 (L5)
 nav_order: 208
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Chlorzoxazone: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 신경통, 요통(허리통), 어깨결림"
 monitor_inn: "Chlorzoxazone"
-predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis", "headache disorder"]
+predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
 ---
 
 # Chlorzoxazone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 |------|------|
 | 기존 적응증 | 신경통, 요통(허리통), 어깨결림 |
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
-| TxGNN 예측 점수 | 99.73% |
+| TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 
 편두통과 이어지는 유일한 연결고리는 이 이온 채널 조절 가능성입니다. 편두통의 일부 유전형(예: CACNA1A 변이)은 채널 이상과 관련되며, 마우스 모델 연구(PMID 23115190)에서 칼슘 의존성 칼륨 채널 활성화제가 CaV2.1 채널 이상으로 인한 운동실조를 완화했습니다. 다만 이는 운동실조 모델이며 편두통 자체에 대한 근거는 아닙니다.
 
-따라서 현재 편두통에 대한 직접적인 기전적 근거는 확립되어 있지 않습니다. 0.997이라는 높은 예측 점수는 계산 모델의 결과일 뿐 임상적 뒷받침이 없습니다.
+따라서 현재 편두통에 대한 직접적인 기전적 근거는 확립되어 있지 않습니다. 0.9973이라는 높은 예측 점수는 계산 모델의 결과일 뿐 임상적 뒷받침이 없습니다.
 
 ## 임상시험 근거
 

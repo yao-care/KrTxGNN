@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Arginine
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 84
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Arginine: 예측 신규 적응증 위마비 (Gastroparesis) (근거 수준 L5). 기존 적응증: 간질환의 보조 치료"
@@ -14,7 +14,7 @@ predicted_indications: ["gastroparesis (disease)"]
 # Arginine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **1** 건
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **위마비(Gastroparesis)**에 효과가 있을 수 있다고 �
 |------|------|
 | 기존 적응증 | 간질환의 보조 치료 |
 | 예측 신규 적응증 | 위마비 (Gastroparesis) |
-| TxGNN 예측 점수 | 99.42% |
+| TxGNN 예측 점수 | 0.9942 |
 | 근거 수준 | L4 (전임상·기전 연구 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 19건 |
 | 권장 결정 | Hold |
 

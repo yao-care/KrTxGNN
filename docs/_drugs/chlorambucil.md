@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chlorambucil
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 204
-evidence_level: L3
-indication_count: 8
-last_modified_at: 2026-10-15
-description: "Chlorambucil: 예측 신규 적응증 원발성 폐 림프종 (Primary Pulmonary Lymphoma) (근거 수준 L3). 기존 적응증: 허가증에 적응증 원문이 링크로만 제공되어 있어 구체적 문구는 확인할 수 없습니다. 문헌상 CLL 등 림프계 악성종양에 사용됩…"
+evidence_level: L5
+indication_count: 7
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-10-27
+description: "Chlorambucil: 예측 신규 적응증 사전 배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201…"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **8** 건
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,33 @@ predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small l
 
 </div>
 
-## Chlorambucil: 만성 림프구성 백혈병에서 원발성 폐 림프종으로
+## Chlorambucil: 알킬화제(질소 머스터드 계열) → 사전 배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Chlorambucil은 DNA를 알킬화하는 질소 머스타드 계열 항암제로, 원래 만성 림프구성 백혈병(CLL) 등 림프계 악성종양 치료에 사용되었습니다. TxGNN 모델은 **원발성 폐 림프종(Primary Pulmonary Lymphoma)**에 효과가 있을 수 있다고 예측하며, 현재 **11편의 문헌**(증례 보고, 후향적 연구, 가이드라인 등)이 이 방향과 관련되어 있으나 등록된 임상시험은 없습니다.
+Chlorambucil은 DNA를 알킬화하는 질소 머스터드 계열 항암제입니다.
+TxGNN 모델은 **사전 배중심 만성 림프구성 백혈병/소림프구성 림프종(pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험은 없고 간접적인 **문헌 1편**(2003년 종설)만 확인됩니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 링크로만 제공되어 있어 구체적 문구는 확인할 수 없습니다. 문헌상 CLL 등 림프계 악성종양에 사용됩니다. |
-| 예측 신규 적응증 | 원발성 폐 림프종 (Primary Pulmonary Lymphoma) |
-| TxGNN 예측 점수 | 99.42% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007562/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008737/EE |
+| 예측 신규 적응증 | 사전 배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
+| TxGNN 예측 점수 | 0.9972 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
-| 권장 결정 | Proceed with Guardrails (연구 질문 단계) |
-
-> 참고: 전체 예측 1순위는 CLL/SLL의 한 아형(예측 점수 99.72%)이지만, 이는 이미 기존 적응증에 해당하는 질환입니다. 따라서 이 보고서는 기존 적응증과 구별되는 신규 후보 중 문헌 근거가 가장 풍부한 4순위 원발성 폐 림프종을 중심으로 평가했습니다.
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, chlorambucil은 DNA 알킬화 작용을 하는 질소 머스타드 계열 약물이며 CLL/SLL 등에서 오랜 사용 이력이 있습니다. 이러한 알킬화제 계열의 효능이 입증되어 있어 기전상 저등급 B세포 림프종에도 적용 가능할 수 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Chlorambucil은 DNA 알킬화를 통해 림프구성 악성종양 세포를 손상시키는 오래된 세포독성 약물입니다.
 
-원발성 폐 림프종은 대부분 MALT형 변연부 림프종으로, 진행이 느린 B세포 악성종양이며 알킬화제에 반응성이 있는 것으로 알려져 있습니다. 이는 CLL과 같은 저등급 B세포 질환과 생물학적 특성이 유사하다는 점에서 예측의 타당성을 뒷받침합니다. 다만 검색된 문헌 중 일부는 치료 후 이차 암 위험을 다룬 것으로, 효능을 지지하지 않습니다.
+예측된 질환은 면역글로불린 중쇄 가변부위 유전자가 변이되지 않은 유형의 만성 림프구성 백혈병/소림프구성 림프종입니다. 림프구성 악성종양은 알킬화제에 민감한 편이어서 기전상 적용 가능성은 있습니다.
+
+다만 제공된 문헌은 2003년의 위험도 적응형 치료 접근에 관한 종설 한 편뿐이며, 이 아형을 직접 평가한 시험은 없습니다. 또한 현재 표준 치료는 표적치료제 중심으로 옮겨가, Chlorambucil은 주로 고령·허약 환자에서 의미가 있습니다. 직접 연구가 없으므로 근거 수준은 L5로 판정했습니다.
 
 ## 임상시험 근거
 
@@ -68,58 +69,45 @@ Chlorambucil은 DNA를 알킬화하는 질소 머스타드 계열 항암제로, 
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [18603558](https://pubmed.ncbi.nlm.nih.gov/18603558/) | 2008 | 가이드라인 | Haematologica | 이탈리아 혈액학회의 결절외 비호지킨 림프종 진료지침 중 원발성 폐·종격동 림프종 관리 |
-| [19541720](https://pubmed.ncbi.nlm.nih.gov/19541720/) | 2009 | 후향적 코호트 | Eur Respir J | 파리 소재 병원의 폐 MALT 림프종 63례의 임상 특성 및 예후 인자 분석 |
-| [3307632](https://pubmed.ncbi.nlm.nih.gov/3307632/) | 1987 | Phase II | Gan To Kagaku Ryoho | 다양한 혈액 악성종양 8명에 chlorambucil 투여. 폐 가성림프종 1례 포함 4례에서 부분 관해, 골수억제 등 부작용 보고 |
-| [25452791](https://pubmed.ncbi.nlm.nih.gov/25452791/) | 2015 | 증례 보고/리뷰 | Exp Ther Med | 19세 환자의 폐 MALT 림프종 증례와 문헌 고찰 |
-| [11289295](https://pubmed.ncbi.nlm.nih.gov/11289295/) | 2001 | 증례 보고 | Dis Colon Rectum | 대장과 폐에 동시 발생한 MALT 림프종 증례. 치료에 mitoxantrone과 chlorambucil 사용 |
-| [3699123](https://pubmed.ncbi.nlm.nih.gov/3699123/) | 1986 | 증례 시리즈 | Eur J Respir Dis | 폐 원발성 비호지킨 림프종 환자에게 chlorambucil을 5개월간 투여 |
-| [6248988](https://pubmed.ncbi.nlm.nih.gov/6248988/) | 1980 | 증례 보고 | Sem Hop | 면역글로불린 분비 폐 원발성 림프육종에서 chlorambucil 지속 투여로 3년간 임상적 관해 |
-| [36672456](https://pubmed.ncbi.nlm.nih.gov/36672456/) | 2023 | 코호트 | Cancers | CLL/SLL에서 ibrutinib이 chlorambucil보다 우월했음을 보인 RESONATE-2 장기 추적 (간접 근거) |
-| [14654083](https://pubmed.ncbi.nlm.nih.gov/14654083/) | 2004 | 전임상/기전 | Leuk Res | 림프종 발생에서 COX-2 증가의 역할 (간접 근거) |
+| [12577769](https://pubmed.ncbi.nlm.nih.gov/12577769/) | 2003 | Review | Nederlands tijdschrift voor geneeskunde | 만성 림프구성 백혈병의 두 아형(배중심 전 유형 등)을 구분하고 위험도 적응형 접근의 필요성을 논의한 종설 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201007562 | 클로람정(클로람부실)(수출용) | 황색의 원형 필름코팅 정제 | 허가사항 원문 링크 참조 (nedrug.mfds.go.kr) |
-| 200008737 | 류케란정(클로람부실) | 갈색의 양면이 볼록한 원형 필름코팅정 | 허가사항 원문 링크 참조 (nedrug.mfds.go.kr) |
+| 201007562 | 클로람정(클로람부실)(수출용) | 황색의 원형 필름코팅 정제 | 허가 문서 링크만 제공되어 적응증 텍스트 없음 |
+| 200008737 | 류케란정(클로람부실) | 갈색의 양면이 볼록한 원형 필름코팅정 | 허가 문서 링크만 제공되어 적응증 텍스트 없음 |
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 약물 (알킬화제, 질소 머스타드 계열) |
-| 골수억제 위험 | 높음 (호중구감소, 혈소판감소, 빈혈 등이 지식그래프상 금기 질환으로 나타남. 문헌에서도 골수억제 보고) |
+| 세포독성 분류 | 기존 세포독성 약물 (알킬화제, 질소 머스터드 계열) |
+| 골수억제 위험 | 고 (호중구감소증, 혈소판감소증, 빈혈, 백혈구감소증 등이 금기 관련 질환으로 기록됨) |
 | 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
-| 모니터링 항목 | CBC(분류 포함), 간기능, 신기능 |
+| 모니터링 항목 | CBC(분획 포함), 간·신기능 |
 | 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
 
 ## 안전성 고려사항
 
-- **지식그래프 기반 금기 관련 질환** (허가 문구가 아닌 예측 모델 지식그래프 정보): 간질, 혈소판감소증, 신증후군, 호중구감소증, 무과립구증, 빈혈, 간질성 폐질환, 약물 유발 간손상, 백혈구감소증, 림프구감소증, 폐섬유화, 급성 백혈병
-- **약물 상호작용** (총 100건 중 일부):
+- **약물 상호작용**: 총 100건이 조회되었으며, 주요 항목은 다음과 같습니다.
   - 중대(Major): Deferiprone, Samarium (153Sm) lexidronam
-  - 보통(Moderate): Amphotericin B 제제, Palifermin, Strontium chloride Sr-89, Mercaptopurine, Roflumilast, Chloramphenicol
+  - 중등도(Moderate): Amphotericin B(지질 복합체·콜레스테릴 설페이트·리포솜 제형 포함), Palifermin, Strontium chloride Sr-89, Mercaptopurine, Roflumilast, Chloramphenicol
   - 경미(Minor): Levofloxacin
-- 폐 질환 환자에서는 간질성 폐질환·폐섬유화가 금기 관련 질환으로 나타나 특히 주의가 필요합니다.
-- 허가사항의 경고·금기 원문은 별도로 확인해야 합니다.
+- 허가사항상의 경고 및 금기 정보는 이 보고서에 확보되지 않았으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails (연구 질문 단계)**
+**결정: Hold**
 
 **사유:**
-폐 MALT 림프종에서 chlorambucil 사용을 보여주는 증례와 후향적 연구, 혼합 혈액 악성종양 대상 소규모 Phase II가 있어 생물학적으로 합리적입니다. 그러나 질환 특이적 임상시험이 없고 근거가 오래된 소규모 연구에 한정되며, 현재는 표적 치료제가 표준으로 자리잡고 있어 즉각적인 임상 적용(Go)은 이릅니다.
+이 아형을 직접 연구한 임상시험이나 문헌이 없고, 간접적인 종설 1편만 있어 근거 수준이 L5입니다. 최신 표준 치료가 표적치료제로 이동한 점도 고려해야 합니다.
 
 **진행하려면 필요한 것:**
-- 허가사항 원문(경고·금기)을 내려받아 확인 (현재 안전성 검토 차단 항목)
-- 상세한 약물 작용 기전(MOA) 데이터 보완
-- 폐 MALT 림프종에서 chlorambucil 단독 또는 병용요법의 효능을 다룬 문헌 정밀 검토 및 현행 표준 치료와의 비교
-- 간질성 폐질환·폐섬유화 등 폐 관련 위험과 골수억제를 고려한 안전성 모니터링 계획 수립
-- 질환 특이적 임상시험 설계 가능성 검토
-
-**기타 예측 후보 요약:** 급성 림프모구성 백혈병과 소세포폐암은 문헌이 있으나 효능을 지지하는 근거가 부족하여 Hold로 평가되었습니다. 알려진 기전 근거가 없는 ALK 양성 대세포 B세포 림프종, 폐 태아형 선암, 폐 모세포종 역시 Hold입니다.
+- 해당 아형(IGHV 비변이형 CLL/SLL)을 직접 평가한 임상시험 또는 문헌
+- 허가사항(경고, 금기, 적응증 텍스트) 확보
+- 작용 기전(MOA) 데이터 보완
+- 현재 표준 치료(표적치료제) 대비 허약 환자군에서의 위치 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

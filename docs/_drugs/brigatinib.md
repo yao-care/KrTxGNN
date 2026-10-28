@@ -4,17 +4,17 @@ title: Brigatinib
 parent: 모델 예측만 (L5)
 nav_order: 155
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Brigatinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번에 확보한 데이터에 없고 허가증 문서 링크만 있습니다. 근거 문헌 기준으로는 ALK 양성 비소세포폐암…"
 monitor_inn: "BRIGATINIB"
-predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 ---
 
 # Brigatinib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Brigatinib(한국 제품명 알룬브릭)은 ALK 양성 비소세포폐암 치�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 이번에 확보한 데이터에 없고 허가증 문서 링크만 있습니다. 근거 문헌 기준으로는 ALK 양성 비소세포폐암(NSCLC)입니다. |
 | 예측 신규 적응증 | 치은 섬유종증 (fibromatosis, gingival) |
-| TxGNN 예측 점수 | 99.89% |
+| TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Brigatinib(한국 제품명 알룬브릭)은 ALK 양성 비소세포폐암 치�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 brigatinib은 ALK, ROS1, EGFR 등을 억제하는 키나아제 억제제로 ALK 양성 비소세포폐암에서 효능이 입증되어 있습니다. 다만 이 정보는 이번에 정리한 데이터의 기전 항목이 아니라 분석 단계의 해석입니다.
 
-ALK 등 키나아제 억제와 치은 섬유종증 사이에 확립된 연관성은 확인되지 않았습니다. 따라서 이 예측은 지식 그래프상의 네트워크 근접성에서 나온 통계적 신호일 가능성이 높고, 기전상 타당성은 현재 입증되지 않았습니다.
+ALK 등 키나아제 억제와 치은 섬유종증 사이에 확립된 연관성은 확인되지 않았습니다. 따라서 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 간에 학습한 유사성을 반영했을 수 있으나 생물학적 근거는 아닙니다. 기전상 타당성은 현재 입증되지 않았습니다.
 
 참고로 같은 후보 목록에서 다른 예측 질환에 대한 간접 신호가 있습니다. NF2 관련 신경초종증(NF2-SWN)에서 brigatinib이 종양을 줄였다는 전임상 결과와 소규모 임상 보고가 있습니다. 이는 치은 섬유종증에 대한 근거가 아닙니다.
 
@@ -104,7 +104,7 @@ ALK 등 키나아제 억제와 치은 섬유종증 사이에 확립된 연관성
 **결정: Hold**
 
 **사유:**
-치은 섬유종증에 대해서는 모델 예측 점수(99.89%)만 있고 임상시험과 문헌이 모두 없으며, 기전적 연결고리도 확인되지 않습니다. 허가사항의 경고·금기 정보도 확보되지 않아 안전성 검토를 시작할 수 없습니다.
+치은 섬유종증에 대해서는 모델 예측 점수(0.9989)만 있고 임상시험과 문헌이 모두 없으며, 기전적 연결고리도 확인되지 않습니다. 허가사항의 경고·금기 정보도 확보되지 않아 안전성 검토를 시작할 수 없습니다.
 
 **진행하려면 필요한 것:**
 - 식약처(MFDS) 허가사항(첨부문서)에서 기존 적응증, 경고, 금기 확인

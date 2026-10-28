@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Nalidixic Acid
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 537
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Nalidixic Acid: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L4). 기존 적응증: 허가 적응증이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
@@ -14,7 +14,7 @@ predicted_indications: ["conjunctivitis", "sclerosing cholangitis", "rheumatoid 
 # Nalidixic Acid
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **4** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Nalidixic acid(날리딕스산)는 1세대 퀴놀론계 항균제로, 한국에�
 |------|------|
 | 기존 적응증 | 허가 적응증이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 |
 | 예측 신규 적응증 | 결막염 (Conjunctivitis) |
-| TxGNN 예측 점수 | 99.83% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 (수출용) |
+| TxGNN 예측 점수 | 0.9983 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Nalidixic acid(날리딕스산)는 1세대 퀴놀론계 항균제로, 한국에�
 
 현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 일반적으로 nalidixic acid는 세균의 DNA gyrase(topoisomerase II)와 topoisomerase IV를 억제하는 1세대 퀴놀론계 항균제로 알려져 있어, 감수성 그람음성균에 의한 세균성 결막염에 이론상 적용될 가능성은 있습니다.
 
-그러나 현실적인 제약이 큽니다. 이후 개발된 불소퀴놀론계(ofloxacin, moxifloxacin 등)가 이미 안과 영역에서 더 나은 조직 투과성과 항균 범위를 제공합니다. Nalidixic acid는 내성률이 높고 조직 투과성도 낮습니다. 0.998이라는 높은 TxGNN 점수는 항균제 계열 간의 일반적 관계를 반영한 것일 가능성이 크며, 결막염에 특화된 근거를 의미하지는 않습니다.
+그러나 현실적인 제약이 큽니다. 이후 개발된 불소퀴놀론계(ofloxacin, moxifloxacin 등)가 이미 안과 영역에서 더 나은 조직 투과성과 항균 범위를 제공합니다. Nalidixic acid는 내성률이 높고 조직 투과성도 낮습니다. 0.9983이라는 높은 TxGNN 점수는 항균제 계열 간의 일반적 관계를 반영한 것일 가능성이 크며, 결막염에 특화된 근거를 의미하지는 않습니다.
 
 ## 임상시험 근거
 

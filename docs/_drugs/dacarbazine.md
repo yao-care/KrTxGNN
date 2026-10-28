@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dacarbazine
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 246
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Dacarbazine: 예측 신규 적응증 상부 기도·소화관 종양 (Upper Aerodigestive Tract Neoplasm) (근거 수준 L4). 기존 적응증: 확인 불가 (허가증에 허가사항 문서 링크만 있고 적응증 본문이 없음)"
@@ -14,7 +14,7 @@ predicted_indications: ["upper aerodigestive tract neoplasm"]
 # Dacarbazine
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **1** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ predicted_indications: ["upper aerodigestive tract neoplasm"]
 ## 한 문장 요약
 
 Dacarbazine은 알킬화 계열 세포독성 항암제로, 한국에서 단일 성분 주사제로 허가·시판 중입니다. 다만 허가 적응증 본문은 이 보고서용으로 수집된 데이터에 포함되지 않았습니다.
-TxGNN 모델은 **상부 기도·소화관 종양(Upper Aerodigestive Tract Neoplasm)**에 효과가 있을 것으로 예측합니다(예측 점수 99.26%).
+TxGNN 모델은 **상부 기도·소화관 종양(Upper Aerodigestive Tract Neoplasm)**에 효과가 있을 것으로 예측합니다(예측 점수 0.9926).
 그러나 등록된 임상시험은 **0건**이며, 수집된 **20편의 문헌**은 대부분 흑색종, 수질성 갑상선암, 호지킨 림프종 등 다른 질환에 관한 간접 근거입니다.
 
 ## 빠른 개요
@@ -48,9 +48,9 @@ TxGNN 모델은 **상부 기도·소화관 종양(Upper Aerodigestive Tract Neop
 |------|------|
 | 기존 적응증 | 확인 불가 (허가증에 허가사항 문서 링크만 있고 적응증 본문이 없음) |
 | 예측 신규 적응증 | 상부 기도·소화관 종양 (Upper Aerodigestive Tract Neoplasm) |
-| TxGNN 예측 점수 | 99.26% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9926 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 

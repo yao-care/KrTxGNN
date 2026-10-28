@@ -4,17 +4,17 @@ title: Latanoprostene Bunod
 parent: 모델 예측만 (L5)
 nav_order: 463
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Latanoprostene Bunod: 예측 신규 적응증 내장 칼시필락시스 (Visceral calciphylaxis) (근거 수준 L5). 기존 적응증: 개방각 녹내장 및 고안압증 (허가증에는 문서 링크만 기재되어 있어, 약물 정보에 근거해 요약함)"
 monitor_inn: "LATANOPROSTENE BUNOD"
-predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
+predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
 ---
 
 # Latanoprostene Bunod
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 |------|------|
 | 기존 적응증 | 개방각 녹내장 및 고안압증 (허가증에는 문서 링크만 기재되어 있어, 약물 정보에 근거해 요약함) |
 | 예측 신규 적응증 | 내장 칼시필락시스 (Visceral calciphylaxis) |
-| TxGNN 예측 점수 | 99.76% |
+| TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -99,10 +99,8 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 
 | 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 비고 |
 |------|-----------|-----------|----------|------|
-| 2 | 원발성 유전성 녹내장 | 99.71% | L5 | 기존 적응증의 연장선으로 기전상 타당하나, 소아·유전자 아형 데이터 필요 (연구 과제) |
-| 6 | 혈관 질환 | 99.53% | L4 | 관련 시험(NCT03931317, 완료, 70명)은 녹내장 환자의 망막 혈관 밀도를 보는 연구로 간접 근거에 그침 |
-| 10 | 혈관내피종 | 99.47% | L4 | 유일한 문헌(PMID 38113361)은 프로스타글란딘 유사체 사용 중 포도주색 반점 환자의 장액성 망막박리 사례로, 효능이 아닌 안전성 신호임 |
-| 3–5, 7–9 | 흉곽출구증후군(동맥·정맥·신경), 특발성 자발 관상동맥 박리, 위 혈관이형성증, 림프관확장증 | 99.4–99.6% | L5 | 신뢰할 만한 기전적 연결 없음. 흉곽출구증후군 동맥형·정맥형의 점수가 동일해 그래프 구조에 따른 인공적 결과일 가능성 있음 |
+| 6 | 혈관 질환 | 0.9953 | L5 | 관련 시험(NCT03931317, 완료, 70명)은 녹내장 환자의 망막 혈관 밀도를 보는 연구로 간접 근거에 그침 |
+| 10 | 혈관내피종 | 0.9947 | L5 | 유일한 문헌(PMID 38113361)은 프로스타글란딘 유사체 사용 중 포도주색 반점 환자의 장액성 망막박리 사례로, 효능이 아닌 안전성 신호임 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

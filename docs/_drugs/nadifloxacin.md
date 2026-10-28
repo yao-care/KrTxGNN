@@ -4,17 +4,17 @@ title: Nadifloxacin
 parent: 모델 예측만 (L5)
 nav_order: 534
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Nadifloxacin: 예측 신규 적응증 말라리아 (Malaria) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 기재되지 않아 확인할 수 없음 (허가 문서 링크만 제공됨)"
 monitor_inn: "Nadifloxacin"
-predicted_indications: ["malaria", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome", "spondyloarthropathy, susceptibility to", "relapsing fever", "zinc, elevated plasma", "demodicidosis of sebaceous gland", "Zollinger-Ellison syndrome", "sterile multifocal osteomyelitis with periostitis and pustulosis", "leishmaniasis", "rheumatoid vasculitis"]
+predicted_indications: ["malaria"]
 ---
 
 # Nadifloxacin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **말라리아(malaria)**에 효과가 있을 수 있다고 예�
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 기재되지 않아 확인할 수 없음 (허가 문서 링크만 제공됨) |
 | 예측 신규 적응증 | 말라리아 (Malaria) |
-| TxGNN 예측 점수 | 99.16% |
+| TxGNN 예측 점수 | 0.9916 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -68,11 +68,6 @@ TxGNN이 예측한 상위 후보 중 일부는 다음과 같습니다. 모두 L5
 
 | 순위 | 예측 질환 | 예측 점수 | 비고 |
 |-----|---------|---------|------|
-| 2 | 화농성 관절염-괴저성 농피증-여드름 증후군 (PAPA) | 98.44% | 피부 여드름 증상과의 연관성만 희박하게 존재 |
-| 3 | 척추관절병증 감수성 | 98.43% | 뚜렷한 기전적 연결 없음 |
-| 4 | 재귀열 | 97.90% | 전신 감염으로 국소제 부적합 |
-| 6 | 피지선 모낭충증 | 97.48% | 가장 생물학적으로 타당한 피부과 후보이나 근거 없음 (연구 과제로 분류) |
-| 9 | 리슈마니아증 | 94.35% | 시험관 내 제한적 효과만 보고 |
 
 ## 임상시험 근거
 

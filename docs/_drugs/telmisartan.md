@@ -4,17 +4,17 @@ title: Telmisartan
 parent: 모델 예측만 (L5)
 nav_order: 721
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Telmisartan: 예측 신규 적응증 허혈성 뇌졸중 감수성 (obsolete susceptibility to ischemic stroke) (근거 수준 L5). 기존 적응증: 고혈압 (허가 적응증 원문은 링크로만 제공되어 있어, 약물 분류와 평가 자료를 근거로 요약)"
+indication_count: 9
 monitor_inn: "Telmisartan"
-predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
+last_modified_at: 2026-10-23
+description: "Telmisartan: 예측 신규 적응증 변이형 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 이번 보고서용으로 정리된 자료에는 허가 적응증 본문이 없고 허가 문서 링크만 있어 확인할 수 없음"
 ---
 
 # Telmisartan
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,31 +33,31 @@ predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyl
 
 </div>
 
-## Telmisartan: 고혈압에서 허혈성 뇌졸중 감수성으로
+## Telmisartan: 한국 허가 제품에서 변이형 협심증(Prinzmetal angina)으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Telmisartan은 안지오텐신 II 1형(AT1) 수용체 차단제(ARB)로, 한국에서 고혈압 계열 단일제 및 복합제로 시판되고 있습니다.
-TxGNN 모델은 **허혈성 뇌졸중 감수성(obsolete susceptibility to ischemic stroke)** 에 효과가 있을 수 있다고 예측하지만, 이 용어 자체로 확인된 **임상시험은 0건, 문헌도 0건**입니다. 현재는 모델 예측 단계에 머물러 있습니다.
+Telmisartan은 안지오텐신 II 1형(AT1) 수용체 차단제로, 한국에서 단일제와 복합제 형태로 다수 허가되어 있습니다.
+TxGNN 모델은 **변이형 협심증(Prinzmetal angina)**에 효과가 있을 수 있다고 예측하지만(점수 0.9998), 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 현재는 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 고혈압 (허가 적응증 원문은 링크로만 제공되어 있어, 약물 분류와 평가 자료를 근거로 요약) |
-| 예측 신규 적응증 | 허혈성 뇌졸중 감수성 (obsolete susceptibility to ischemic stroke) |
-| TxGNN 예측 점수 | 99.99% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 20건 |
+| 기존 적응증 | 이번 보고서용으로 정리된 자료에는 허가 적응증 본문이 없고 허가 문서 링크만 있어 확인할 수 없음 |
+| 예측 신규 적응증 | 변이형 협심증 (Prinzmetal angina) |
+| TxGNN 예측 점수 | 0.9998 |
+| 근거 수준 | L5 (모델 예측만 있음) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 정리되어 있지 않습니다. 다만 평가 자료에 따르면 Telmisartan은 AT1 수용체를 차단해 혈압을 낮추는 약물입니다. 혈압 조절은 뇌졸중 예방의 가장 중요한 요인이므로, 고혈압에서의 효능이 뇌졸중 위험 감소로 이어질 수 있다는 기전상 연결이 가능합니다.
+현재 상세한 작용 기전 데이터는 없습니다. 다만 Telmisartan은 AT1 수용체 차단제이면서 PPAR-gamma를 부분적으로 활성화하는 것으로 알려져 있습니다. 이 두 작용이 혈관 내피 기능을 개선하고 혈관 연축을 줄일 가능성이 있어, 변이형 협심증의 병태(관상동맥 연축)와 이론상 연결됩니다.
 
-다만 해당 질환명은 이미 폐기된(obsolete) 용어이며, 치료 대상이 되는 임상 질환이라기보다 "감수성(susceptibility)"이라는 위험 개념에 가깝습니다. 이 정확한 용어로는 시험이나 문헌이 확인되지 않았습니다. 뇌졸중 관련 근거는 별도의 유사 적응증 항목(뇌졸중, 뇌혈관 질환 등)에서 따로 평가되었습니다.
+그러나 이는 가설 수준의 설명입니다. 이 질환과 Telmisartan을 직접 연구한 임상시험이나 문헌이 확인되지 않았습니다. 기존 적응증과 신규 적응증의 유사성도 아직 평가되지 않았습니다. 높은 TxGNN 점수만으로 효능을 기대하기는 어렵습니다.
 
 ## 임상시험 근거
 
@@ -69,37 +69,34 @@ TxGNN 모델은 **허혈성 뇌졸중 감수성(obsolete susceptibility to ische
 
 ## 한국 시판 정보
 
-허가증은 총 20건(모두 유효, 취소 0건)입니다. 아래는 주요 5건이며, 허가 적응증 원문은 각 허가사항 링크로만 제공됩니다.
+확인된 허가는 최소 20건이며 목록이 일부일 수 있습니다. 제품명에 암로디핀, 히드로클로로티아지드 등 병용 성분이 드러나는 복합제는 단일 성분 Telmisartan의 허가 근거로 쓰지 않으므로 아래 표에서 제외했습니다. 단일 성분으로 확인되는 제품은 다음과 같습니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201605614 | 투탑스정80/10밀리그램 (일동제약) | 이중정 | [허가사항 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605614/EE) |
-| 201606795 | 텔미더블정40/10밀리그램 (녹십자) | 이중정 | [허가사항 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606795/EE) |
-| 201802585 | 트레블정80/5/10밀리그램 (셀트리온제약) | 필름코팅정 | [허가사항 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802585/EE) |
-| 201701432 | 티살탄플러스정80/12.5밀리그램 (서울제약) | 정제 | [허가사항 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701432/EE) |
-| 202101318 | 텔로바틴정40/10밀리그램 (제뉴파마) | 필름코팅정 | [허가사항 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101318/EE) |
+| [201701087](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701087/EE) | 미르텔정80밀리그램 (삼천당제약) | 백색 또는 미백색의 양쪽이 볼록한 원형 정제 | 허가 문서 링크 참조 (적응증 본문 미확인) |
+| [201209572](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201209572/EE) | 텔미칸정80밀리그램 (제일약품) | 흰색 또는 거의 흰색의 양면이 볼록한 원형 정제 | 허가 문서 링크 참조 (적응증 본문 미확인) |
+| [201605171](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605171/EE) | 텔미카르정40밀리그램 (경보제약) | 흰색의 장타원형 정제 | 허가 문서 링크 참조 (적응증 본문 미확인) |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건이 조회되었고, 그중 20건이 데이터에 수록되어 있습니다.
-  - **Major**: 칼륨 보충제(Potassium citrate, Potassium bicarbonate). 고칼륨혈증 위험에 유의해야 합니다.
-  - **Moderate**: 코르티코스테로이드(Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone, Budesonide), SGLT2 억제제(Canagliflozin, Dapagliflozin, Empagliflozin), 인슐린(Insulin human, Insulin aspart), Exenatide, 아세틸살리실산, Morphine, Bupropion, Dronabinol, 장정결제(Picosulfuric acid, Polyethylene glycol, Sodium sulfate) 등.
+허가사항의 경고 및 금기 정보는 확인되지 않았으므로 허가사항을 참조하세요.
 
-경고와 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
+**약물 상호작용** (총 100건 중 일부 확인)
+- **Major**: Potassium citrate, Potassium bicarbonate
+- **Moderate**: Hydrocortisone, Dexamethasone, Betamethasone, Budesonide, Triamcinolone, Acetylsalicylic acid, Bupropion, Morphine, Dronabinol, Canagliflozin, Dapagliflozin, Empagliflozin, Exenatide, Insulin human, Insulin aspart, Picosulfuric acid, Sodium sulfate, Polyethylene glycol (3350 with electrolytes 포함)
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 매우 높지만(99.99%), 예측된 질환명이 폐기된 용어이자 치료 대상이 아닌 감수성 개념입니다. 이 용어로 확인된 임상시험과 문헌도 없어 모델 예측 외의 근거가 없습니다.
+변이형 협심증에 대해 Telmisartan을 직접 연구한 임상시험이나 문헌이 없고 모델 예측만 있어 근거 수준이 L5입니다. 허가사항의 경고와 금기 정보도 확인되지 않아 안전성 검토를 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
-- 질환 정의를 정리하고, 실제 임상 질환(뇌졸중, 뇌혈관 질환)으로 평가 대상을 재설정
-  - 같은 예측 목록의 "stroke disorder"와 "cerebrovascular disorder"는 TRIDENT 3상(NCT02699645)과 ONTARGET 등으로 근거 수준 L1로 평가되었습니다. 이 항목들로 평가를 옮기는 것이 현실적입니다.
-  - 다만 이 효과는 혈압 강하와 복합제 효과에 크게 기인해 Telmisartan 단독 효과로 분리되지 않았고, 두 항목은 서로 겹치므로 독립된 근거로 계산하면 안 됩니다.
-- 허가사항 PDF에서 경고·금기와 허가 적응증 원문을 확인해 안전성 선별 수행
-- 상세한 작용 기전(MOA) 데이터 보완
+- 변이형 협심증 또는 관상동맥 연축에 대한 Telmisartan의 전임상·임상 연구 확보
+- 작용 기전(MOA) 데이터 보강 (예: DrugBank)
+- 식약처 허가사항(적응증, 경고, 금기)의 내용 확인
+- 동일 약물의 다른 예측 질환(예: 뇌내출혈)은 별도 평가 필요
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -4,17 +4,17 @@ title: Irbesartan
 parent: 모델 예측만 (L5)
 nav_order: 436
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Irbesartan: 예측 신규 적응증 악성 고혈압성 신질환 (Malignant Hypertensive Renal Disease) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인 불가 (허가 문서 링크만 확인됨)"
 monitor_inn: "IRBESARTAN"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **4** 건
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **악성 고혈압성 신질환(Malignant Hypertensive Renal Dis
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인 불가 (허가 문서 링크만 확인됨) |
 | 예측 신규 적응증 | 악성 고혈압성 신질환 (Malignant Hypertensive Renal Disease) |
-| TxGNN 예측 점수 | 99.31% |
+| TxGNN 예측 점수 | 0.9931 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **악성 고혈압성 신질환(Malignant Hypertensive Renal Dis
 
 현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 Irbesartan은 AT1 수용체 길항제로, 고혈압과 당뇨병성 신병증에 사용됩니다. 레닌-안지오텐신계(RAS)를 차단하면 사구체 내압과 신장 손상을 줄일 수 있어, 악성 고혈압에 따른 신장 손상에도 기전상 적용 가능할 수 있습니다.
 
-다만 악성 고혈압은 응급 상황으로 보통 정맥 투여 약물로 관리하며, ARB는 일반적으로 1차 치료제가 아닙니다. 이 예측 점수(0.993)는 모델 예측일 뿐 임상 근거가 아닙니다.
+다만 악성 고혈압은 응급 상황으로 보통 정맥 투여 약물로 관리하며, ARB는 일반적으로 1차 치료제가 아닙니다. 이 예측 점수(0.9931)는 모델 예측일 뿐 임상 근거가 아닙니다.
 
 같은 점수대의 다른 예측도 있습니다.
 - **악성 신혈관성 고혈압**: RAS 활성화가 원인이므로 기전상 관련이 있습니다. 그러나 양측 신동맥 협착이나 단일 신장의 협착에서는 ARB가 사구체 여과율을 급격히 떨어뜨릴 수 있어 주의가 필요합니다.
@@ -109,7 +109,7 @@ TxGNN 모델은 **악성 고혈압성 신질환(Malignant Hypertensive Renal Dis
 **결정: Hold**
 
 **사유:**
-악성 고혈압성 신질환에 대한 임상시험과 문헌이 전혀 없고 근거는 모델 점수(99.31%)뿐입니다. 악성 고혈압은 정맥 투여 약물로 관리하는 응급 질환이어서 경구 ARB의 역할도 불분명합니다. 저산소증 관련 폐고혈압은 전임상 근거(L4)가 있어 연구 과제로 검토할 수 있으나, 인체 데이터는 없습니다.
+악성 고혈압성 신질환에 대한 임상시험과 문헌이 전혀 없고 근거는 모델 점수(0.9931)뿐입니다. 악성 고혈압은 정맥 투여 약물로 관리하는 응급 질환이어서 경구 ARB의 역할도 불분명합니다. 저산소증 관련 폐고혈압은 전임상 근거(L4)가 있어 연구 과제로 검토할 수 있으나, 인체 데이터는 없습니다.
 
 **진행하려면 필요한 것:**
 - 허가사항(MFDS 첨부문서)의 경고·금기·적응증 원문 확보 (현재 안전성 심사 진행이 불가능한 차단 수준의 데이터 공백)

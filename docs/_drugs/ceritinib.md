@@ -4,17 +4,17 @@ title: Ceritinib
 parent: 모델 예측만 (L5)
 nav_order: 201
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ceritinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 이번 데이터에서 확인되지 않음 (허가 적응증 정보가 문서 링크로만 제공됨)"
+indication_count: 9
 monitor_inn: "CERITINIB"
-predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
+last_modified_at: 2026-10-27
+description: "Ceritinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500142/EE"
 ---
 
 # Ceritinib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,43 +33,51 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 
 </div>
 
-## Ceritinib: 허가 적응증에서 치은 섬유종증으로
+## Ceritinib: ALK/ROS1 키나아제 억제제 → 치은 섬유종증 (fibromatosis, gingival)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Ceritinib은 한국에서 자이카디아캡슐150밀리그램(한국노바티스)으로 허가된 ALK 억제제입니다. 허가 적응증 문구는 이번 데이터에 텍스트가 아닌 허가 문서 링크로만 들어 있어 확인하지 못했습니다.
-TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있을 수 있다고 예측하지만, 이를 지지하는 **임상시험은 0건, 문헌도 0편**입니다. 모델 예측만 있는 단계입니다.
+Ceritinib은 ALK/IGF-1R/ROS1을 억제하는 키나아제 억제제 계열의 항암제입니다.
+TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험과 문헌은 **0건**입니다. 현재는 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이번 데이터에서 확인되지 않음 (허가 적응증 정보가 문서 링크로만 제공됨) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500142/EE |
 | 예측 신규 적응증 | 치은 섬유종증 (fibromatosis, gingival) |
-| TxGNN 예측 점수 | 99.86% |
+| TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 1건 (단일제 1건, 유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ceritinib은 ALK, IGF-1R, ROS1을 억제하는 키나아제 억제제이며, ALK 양성 비소세포폐암 치료에 사용되는 항종양제입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 ceritinib은 ALK, IGF-1R, ROS1을 표적으로 하는 키나아제 억제제입니다.
 
-그러나 이 키나아제 표적들과 치은 섬유종증의 발병 기전 사이에서 확인된 연관성은 없습니다. 높은 TxGNN 점수는 계산상의 예측일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다. 따라서 기전상 타당성은 현재 입증되지 않았습니다.
+그러나 이러한 표적 억제와 치은 섬유종증의 발병 기전 사이에서 확인된 연관성은 없습니다. 높은 예측 점수는 계산 모델의 결과일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌이 없어 기전상 타당성을 주장하기 어렵습니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201500142 | 자이카디아캡슐150밀리그램(세리티닙) | 경질 캡슐 (상부 파랑색, 하부 흰색 불투명) | 허가 문서 참조 (https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500142/EE) |
+| 201500142 | 자이카디아캡슐150밀리그램(세리티닙) | 상부 파랑색 하부 흰색의 불투명 경질 캡슐 | 허가 문서 링크만 기재되어 있어 적응증 텍스트는 확인되지 않음 |
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 표적치료제 (ALK 키나아제 억제제) |
+| 세포독성 분류 | 표적치료제 (키나아제 억제제) |
 | 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 |
@@ -77,35 +85,24 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 이번 데이터에서 총 100건의 상호작용이 확인되었으며, 이 중 20건이 제시되어 있습니다.
-  - **Major 등급**: Triamcinolone, Budesonide
-  - **Moderate 등급**: Acarbose, Famotidine, Ranitidine, Rabeprazole, Omeprazole, Hydrocortisone, Dexamethasone, Betamethasone, Albiglutide, Alogliptin, Metformin, Pioglitazone, Canagliflozin, Loperamide, Aprepitant, Bisacodyl 등
-- 허가사항의 경고 및 금기 정보는 이번 데이터에 포함되지 않았으므로 허가사항을 참조하세요.
+- **약물 상호작용**: 이번 조회에서 총 100건의 상호작용이 확인되었으며, 이 중 일부를 아래에 정리했습니다.
+  - 주요(Major) 등급: triamcinolone, budesonide
+  - 중등도(Moderate) 등급: acarbose, famotidine, ranitidine, rabeprazole, omeprazole, hydrocortisone, dexamethasone, betamethasone, metformin, pioglitazone, alogliptin, albiglutide, canagliflozin, loperamide, aprepitant, bisacodyl 등
+
+경고와 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-치은 섬유종증에 대한 예측은 모델 점수만 있을 뿐 임상시험과 문헌이 전혀 없고, ceritinib의 기전과 이 질환 사이의 연관성도 확인되지 않았습니다. 허가 적응증 및 안전성(경고·금기) 정보도 확보되지 않아 안전성 검토 단계로 넘어갈 수 없습니다.
+치은 섬유종증에 대한 임상시험과 문헌이 전혀 없고, 기전상 연결고리도 확인되지 않았습니다. 높은 예측 점수만으로는 진행을 정당화하기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- 식약처(MFDS) 허가사항 문서를 내려받아 허가 적응증, 경고, 금기 정보 확보
-- DrugBank 등에서 상세 작용 기전(MOA) 데이터 확보
-- ALK/IGF-1R/ROS1 억제와 치은 섬유종증 병태생리 사이의 기전적 연결고리 규명
-- 전임상 연구 등 최소한의 근거 확보
-
-### 참고: 다른 예측 적응증
-
-상위 10개 예측은 모두 Hold이며, 치은 섬유종증은 그중 1위입니다. 일부는 간접 근거만 있습니다.
-
-| 순위 | 예측 질환 | 점수 | 근거 수준 | 비고 |
-|-----|---------|------|---------|------|
-| 4 | 폐문부 암종 (lung hilum carcinoma) | 99.80% | L5 | ALK 양성 비소세포폐암에서의 기전적 개연성은 있으나 해당 질환 특이 근거 없음 |
-| 5 | 폐 양성 신생물 (lung benign neoplasm) | 99.80% | L4 | 문헌은 악성 ALK 양성 비소세포폐암에 관한 것이며, ASCEND-4(Phase 3 RCT)도 양성 종양에 대한 직접 근거가 아님 |
-| 6 | 폐 배세포종양 (lung germ cell tumor) | 99.80% | L4 | 신경모세포종 증례, 교모세포종 Phase 0 시험 등 간접 근거뿐 |
-
-나머지 순위(폐 섬유종, 폐 과오종, 폐구 신생물, 봉입체 근병증 등)는 근거가 없거나 기전 연관성이 없는 예측입니다.
+- ALK/IGF-1R/ROS1 억제와 치은 섬유종증 병태생리 간 연관성에 대한 기전 연구
+- 전임상 연구 등 이 질환을 직접 다루는 근거
+- 한국 허가사항(경고, 금기, 적응증)의 확보 및 검토
+- 상세한 약물 작용 기전(MOA) 데이터
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

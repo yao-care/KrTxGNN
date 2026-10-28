@@ -47,9 +47,9 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 데이터에 포함되어 있지 않습니다(허가증 링크만 확인됨). 약물 특성상 파킨슨병 치료제로 알려져 있습니다. |
 | 예측 신규 적응증 | 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) |
-| TxGNN 예측 점수 | 99.06% |
+| TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 17건 |
 | 권장 결정 | Hold |
 

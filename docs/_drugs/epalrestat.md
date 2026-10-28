@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Epalrestat
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 314
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Epalrestat: 예측 신규 적응증 제2형 당뇨병성 신증 (type 2 diabetes nephropathy) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 한국 허가사항 문서(MFDS 첨부문서)에 수록되어 있으며…"
-monitor_inn: "Epalrestat"
-predicted_indications: ["Tay-Sachs disease", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "Gaucher disease", "adult Krabbe disease", "cholesterol metabolism disease", "infantile neuronal ceroid lipofuscinosis", "autosomal ichthyosis syndrome with fatal disease course", "familial generalized lentiginosis"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Epalrestat: 대한민국의 기존 용도와 시판 현황; 현재 새로운 후보 적응증 없음"
+predicted_indications: []
 ---
 
 # Epalrestat
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,48 +32,45 @@ predicted_indications: ["Tay-Sachs disease", "mitochondrial oxidative phosphoryl
 
 </div>
 
-## Epalrestat: 당뇨병성 신경병증에서 제2형 당뇨병성 신증으로
+<!-- known-uses-page -->
+<!-- description: Epalrestat: 대한민국의 기존 용도와 시판 현황; 현재 새로운 후보 적응증 없음 -->
+## Epalrestat: 대한민국 내 기존 용도 및 시판 현황
 {: .text-alpha }
 
-## 한 문장 요약
+## 요약
+TxGNN 딥러닝 모델이 Epalrestat에 대해 제시한 후보 중 출처를 추적할 수 있는 항목은 모두 이미 알려진 용도입니다. 따라서 현재 새로 예측된 적응증은 없습니다. 아래에서 기존 용도와 그 근거를 확인하실 수 있습니다.
 
-Epalrestat은 알도스 환원효소(aldose reductase) 억제제로, 당뇨병성 신경병증 치료에 사용되는 약물입니다.
-TxGNN 모델은 **제2형 당뇨병성 신증(type 2 diabetes nephropathy)**에 효과가 있을 수 있다고 예측하며, 현재 임상시험 등록은 없고 **3편의 문헌**(코호트 연구 2편, 리뷰 1편)이 이 방향을 부분적으로 지지합니다.
-
-## 빠른 개요
-
+## 한눈에 보기
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 한국 허가사항 문서(MFDS 첨부문서)에 수록되어 있으며, 이번 보고서용 데이터에는 본문이 포함되지 않았습니다. 다른 국가에서는 당뇨병성 신경병증에 사용됩니다. |
-| 예측 신규 적응증 | 제2형 당뇨병성 신증 (type 2 diabetes nephropathy) |
-| TxGNN 예측 점수 | 99.16% |
-| 근거 수준 | L3 (관찰 연구 수준의 근거) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 2건 |
-| 권장 결정 | Hold (추가 연구가 필요한 연구 과제 단계) |
+| 새로 예측된 적응증 | 없음 (출처를 추적할 수 있는 모델 후보는 모두 기존 용도) |
+| 모델 후보 중 기존 용도 수 | 1 |
+| 근거 수준 | 해당 없음 |
+| 대한민국 내 시판 현황 | Unknown (source lacks cancellation status) |
 
-## 이 예측이 타당한 이유는?
+## 모델 후보 중 기존 용도
 
-현재 상세한 작용 기전 데이터는 보고서용 데이터에 포함되어 있지 않습니다. 다만 Epalrestat은 알도스 환원효소를 억제하는 약물로 알려져 있으며, 이 효소는 폴리올 경로(polyol pathway)의 속도 제한 효소입니다.
+### 승인됨 (허가 또는 라벨로 뒷받침됨)
+| 적응증 | 출처 |
+|------|------|
+| 제2형 당뇨병성 신증 (type 2 diabetes nephropathy) | 다른 국가의 허가; 승인된 적응증: diabetes |
 
-만성 고혈당이 지속되면 포도당이 이 경로로 많이 흘러 소르비톨이 축적되고, NADPH가 고갈되며 산화 스트레스가 생겨 신장 조직 손상으로 이어질 수 있습니다. 이는 당뇨병성 신증의 발생 기전과 직접 연결되는 생물학적으로 일관된 고리입니다.
+### 승인된 적응증과 관련됨 (같은 질환 범주)
+| 적응증 | 승인된 범주 |
+|------|------|
+| 없음 | 없음 |
 
-또한 Epalrestat은 이미 당뇨병성 신경병증에 사용되고 있어 표적과 안전성 프로파일이 어느 정도 확립되어 있습니다. 같은 고혈당 유래 합병증이라는 점에서 신증으로의 확장은 합리적인 가설입니다.
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [11522497](https://pubmed.ncbi.nlm.nih.gov/11522497/) | 2001 | 코호트 | J Diabetes Complications | 미세알부민뇨를 보이는 제2형 당뇨병 환자 35명에서 Epalrestat 150 mg/일을 5년간 투여하여 초기 당뇨병성 신증 진행에 미치는 장기 효과를 평가 |
-| [39423107](https://pubmed.ncbi.nlm.nih.gov/39423107/) | 2024 | 코호트 | Iran J Kidney Dis | 제2형 당뇨병 환자의 당뇨병성 신증 위험 예측 모델을 구축하고 Epalrestat-Dapagliflozin 병용 요법의 치료 효과를 관찰 |
-| [41830794](https://pubmed.ncbi.nlm.nih.gov/41830794/) | 2026 | 리뷰 | Med Gas Res | 만성 고혈당이 기능적 저산소증을 유발한다는 "glycohypoxia" 가설을 제시하고 당뇨병 합병증을 저산소 관점에서 재해석 (Epalrestat에 대한 직접 근거는 아님) |
+### 지식그래프에 기록된 관계 (승인 근거 없음)
+| 적응증 |
+|------|
+| 없음 |
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202102567 | 에팔레트정50밀리그램(에팔레스타트)(수출용) | 흰색의 원형 필름코팅정 | 허가사항 문서 참조 (MFDS 첨부문서) |
-| 202102055 | 에팔정(에팔레스타트) | 흰색의 원형 필름코팅정 | 허가사항 문서 참조 (MFDS 첨부문서) |
+| 허가번호 | 제품명 | 제형 | 상태 |
+|------|------|------|------|
+| 202102567 | Eparlet Tab. 50mg | 흰색의 원형 필름코팅정 | 유효 |
+| 202102055 | Epal Tab. | 흰색의 원형 필름코팅정 | 유효 |
 
 ## 안전성 고려사항
 
@@ -82,20 +78,6 @@ TxGNN 모델은 **제2형 당뇨병성 신증(type 2 diabetes nephropathy)**에 
 
 그 외 경고 및 금기 등 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-기전적 연결고리는 타당하나, 등록된 임상시험이 없고 근거가 소규모 코호트 연구 수준에 머물러 있습니다. 또한 한국 허가사항의 경고·금기 정보를 확인하지 못해 안전성 검토를 진행할 수 없는 상태입니다.
-
-**진행하려면 필요한 것:**
-- 한국 허가사항(첨부문서) 확인을 통한 경고, 금기 등 안전성 정보 확보
-- 상세한 약물 작용 기전(MOA) 데이터 보완
-- 당뇨병성 신증에 대한 무작위 대조 임상시험 근거 또는 새로운 임상시험 설계
-- CYP4A11 관련 상호작용의 임상적 의미 평가
-
-참고로 다른 예측 적응증(Tay-Sachs병, Gaucher병 등)은 모두 근거가 없는 모델 예측 수준(L5)이며, 콜레스테롤 대사 질환은 다른 화합물에 대한 전임상 문헌 1편만 있어 우선순위가 낮습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

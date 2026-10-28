@@ -8,6 +8,7 @@ nav_order: 105
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Atropine Sulfate Hydrate
@@ -51,7 +52,7 @@ Atropine Sulfate Hydrate는 항콜린성 약물 계열로 알려진 성분이나
 | 예측 신규 적응증 | 데이터 없음 (TxGNN 예측 미생성) |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | L5 (실제 연구 없음, 모델 예측조차 없음) |
-| 한국 시판 현황 | 미허가 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 

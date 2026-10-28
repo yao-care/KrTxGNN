@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Lenvatinib
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 468
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lenvatinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증 문서 링크만 확인되고 본문 텍스트는 확보되지 않았습니다"
 monitor_inn: "Lenvatinib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 # Lenvatinib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 |------|------|
 | 기존 적응증 | 허가증 문서 링크만 확인되고 본문 텍스트는 확보되지 않았습니다 |
 | 예측 신규 적응증 | 지방육종 (Liposarcoma) |
-| TxGNN 예측 점수 | 99.51% |
+| TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L2 (단일군 Phase Ib/II 1건 기준이며 무작위 대조시험은 아님) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 

@@ -4,17 +4,17 @@ title: Tamoxifen
 parent: 모델 예측만 (L5)
 nav_order: 717
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
-description: "Tamoxifen: 예측 신규 적응증 유방 파제트병 (Mammary Paget Disease) (근거 수준 L5). 기존 적응증: 유방암 (허가증에는 적응증 본문 없이 허가 문서 링크만 연결되어 있어…"
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Tamoxifen: 예측 신규 적응증 유방 파제트병 (mammary Paget disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403106/EE"
 ---
 
 # Tamoxifen
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "bot
 
 </div>
 
-## Tamoxifen: 유방암에서 유방 파제트병(Mammary Paget Disease)으로
+## Tamoxifen: 유방 파제트병 (mammary Paget disease)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -44,11 +44,11 @@ Tamoxifen은 에스트로겐 수용체(ER)를 차단하는 항에스트로겐제
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 유방암 (허가증에는 적응증 본문 없이 허가 문서 링크만 연결되어 있어, 허가 본문이 아니라 일반적인 사용 범위를 기준으로 기재) |
-| 예측 신규 적응증 | 유방 파제트병 (Mammary Paget Disease) |
-| TxGNN 예측 점수 | 99.69% |
-| 근거 수준 | L4 (기전적 타당성과 증례 수준의 간접 근거) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403106/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199302443/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402432/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904114/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203344/EE;  |
+| 예측 신규 적응증 | 유방 파제트병 (mammary Paget disease) |
+| TxGNN 예측 점수 | 0.9969 |
+| 근거 수준 | L5 (기전적 타당성과 증례 수준의 간접 근거) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 11건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
@@ -102,7 +102,6 @@ Tamoxifen은 일반적인 세포독성 화학요법제가 아니라 내분비 �
 | 항목 | 내용 |
 |------|------|
 | 세포독성 분류 | 내분비 치료제 (SERM, 비세포독성) |
-| 골수억제 위험 | 일반적으로 낮음 (다만 백혈구감소증·혈소판감소증이 관련 질환으로 지식그래프에 보고됨) |
 | 구토 유발성 등급 | 저 |
 | 모니터링 항목 | CBC, 간기능, 자궁내막 이상 증상, 혈전 증상 |
 | 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |

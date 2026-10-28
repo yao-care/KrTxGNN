@@ -8,6 +8,7 @@ nav_order: 664
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Rocuronium Bromide
@@ -51,7 +52,7 @@ Rocuronium Bromide는 신경근 차단제(Non-depolarizing Neuromuscular Blockin
 | 예측 신규 적응증 | TxGNN 예측 미실행 |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (모델 예측 데이터 없음) |
-| 한국 시판 현황 | 데이터 오류 의심 — Not marketed로 기재되었으나 재확인 필요 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 (데이터 미수집) |
 | 권장 결정 | Hold |
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Insulin Glargine: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 문구를 확인할 수 없음 (인슐린 제제로서 당뇨병 치료제)"
 monitor_inn: "INSULIN GLARGINE"
-predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
+predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
 ---
 
 # Insulin Glargine
@@ -47,9 +47,9 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 문구를 확인할 수 없음 (인슐린 제제로서 당뇨병 치료제) |
 | 예측 신규 적응증 | 자가면역성 난소염 (autoimmune oophoritis) |
-| TxGNN 예측 점수 | 99.88% |
+| TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 7건 |
 | 권장 결정 | Hold |
 
@@ -106,7 +106,7 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 상위 10개 예측 가운데 대부분은 근거가 없는 L5(Hold)입니다. 주목할 점은 다음과 같습니다.
 
-- **췌장 무형성(pancreatic agenesis, 점수 99.43%)**: 인슐린 결핍성 당뇨병에 대한 인슐린 보충은 생리학적으로 타당하고 표준 지지요법입니다. 다만 검색된 문헌 4편은 모두 간접 근거(제2형 당뇨병 인슐린 치료, 이차성 당뇨병, 당뇨 고양이, MODY5 증례)이며, 이는 재창출이 아니라 결핍 호르몬의 보충입니다. 근거 수준 L4, 연구 질문(Research Question) 단계입니다.
+- **췌장 무형성(pancreatic agenesis, 점수 0.9943)**: 인슐린 결핍성 당뇨병에 대한 인슐린 보충은 생리학적으로 타당하고 표준 지지요법입니다. 다만 검색된 문헌 4편은 모두 간접 근거(제2형 당뇨병 인슐린 치료, 이차성 당뇨병, 당뇨 고양이, MODY5 증례)이며, 이는 재창출이 아니라 결핍 호르몬의 보충입니다. 근거 수준 L4, 연구 질문(Research Question) 단계입니다.
 - **약물 유발 국소 지방이영양증 등 국소 지방이영양증 계열(순위 7~10)**: 인슐린 주사 자체가 주사 부위 지방이영양증의 알려진 원인이므로 치료 후보가 아니라 안전성 문제입니다.
 - **경직인간증후군, 티아민 반응성 기능장애 증후군**: 동반된 당뇨병 관리에만 해당하며, 신경학적 병리나 SLC19A2 수송체 결함에는 효과가 기대되지 않습니다.
 ## 면책 조항

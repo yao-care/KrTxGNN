@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Prednisolone
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 624
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Prednisolone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 염증성 피부질환, 지루성 피부염"
 monitor_inn: "Prednisolone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Prednisolone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 |------|------|
 | 기존 적응증 | 염증성 피부질환, 지루성 피부염 |
 | 예측 신규 적응증 | 원형탈모증 (Alopecia Areata) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L2 (잠정) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 9건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -120,7 +120,7 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 
 | 순위 | 예측 질환 | 근거 수준 | 권장 결정 | 비고 |
 |------|---------|---------|---------|------|
-| 2 | 알로페시아 뮤시노사 (모낭 점액증) | L4 | Hold | prednisolone이 아닌 cyclosporine 증례만 있음 |
+| 2 | 알로페시아 뮤시노사 (모낭 점액증) | L5 | Hold | prednisolone이 아닌 cyclosporine 증례만 있음 |
 | 3 | 휴지기 탈모 | L5 | Hold | 비염증성, 자연 회복성 질환으로 면역억제 근거 부족 |
 | 4 | 탈모성 모낭염 (Quinquaud) | L4 | Hold | 병합요법 보고만 있어 prednisolone 단독 효과 불명 |
 | 10 | 특발성 스테로이드 감수성 신증후군 | L1 | Proceed with Guardrails | 이미 표준 치료인 적응증으로, 대부분의 검색 문헌은 스테로이드 저항성 질환 대상 |

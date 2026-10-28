@@ -8,6 +8,7 @@ nav_order: 384
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-10-12
+predicted_indications: []
 ---
 
 # Glucose
@@ -66,7 +67,7 @@ GLUCOSE(포도당)는 DrugBank 조회에서 인식되었으나, 이번 평가 �
 | 예측 신규 적응증 | 예측 결과 없음 |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | N/A |
-| 시판 현황 | ✗ 미시판 (Not marketed) |
+| 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

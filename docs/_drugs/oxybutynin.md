@@ -48,9 +48,9 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 텍스트가 없음) |
 | 예측 신규 적응증 | 하지불안증후군 (Restless Legs Syndrome) |
-| TxGNN 예측 점수 | 99.74% |
+| TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 

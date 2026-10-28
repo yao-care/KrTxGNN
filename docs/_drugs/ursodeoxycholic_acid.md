@@ -48,9 +48,9 @@ TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Fam
 |------|------|
 | 기존 적응증 | 담즙(쓸개즙) 분비 부전으로 오는 간질환, 담도계 질환의 보조 치료, 만성 간질환의 간기능 개선, 소장절제 후유증 및 염증성 소장 질환의 소화불량 |
 | 예측 신규 적응증 | 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) |
-| TxGNN 예측 점수 | 99.86% |
+| TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

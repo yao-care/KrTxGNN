@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tacrolimus
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 713
-evidence_level: L5
-indication_count: 3
+evidence_level: L2
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Tacrolimus: 예측 신규 적응증 지루피부염 (Seborrheic Dermatitis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 링크로만 제공됨(경구·주사제는 이식 거부반응 억제, 연고제는 아토피피부염이 일반적인 허가 범위)"
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
+description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500213/EE"
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L2** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 
 </div>
 
-## 타크로리무스(Tacrolimus): 장기이식 면역억제 및 아토피피부염에서 지루피부염으로
+## Tacrolimus: 지루피부염 (seborrheic dermatitis)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,11 +46,11 @@ predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 링크로만 제공됨(경구·주사제는 이식 거부반응 억제, 연고제는 아토피피부염이 일반적인 허가 범위) |
-| 예측 신규 적응증 | 지루피부염 (Seborrheic Dermatitis) |
-| TxGNN 예측 점수 | 99.26% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500213/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400102/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500517/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500518/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901683/EE;  |
+| 예측 신규 적응증 | 지루피부염 (seborrheic dermatitis) |
+| TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L2 (완료된 3상 1건, 4상 1건. 3상이 1건뿐이라 L1 기준 미충족) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 유효, 단일제) |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -58,7 +58,7 @@ predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 
 타크로리무스는 칼시뉴린을 억제해 NFAT 의존적 T세포 활성화를 차단하고, IL-2, IFN-γ, TNF-α 같은 염증성 사이토카인의 분비를 줄입니다. 이 보고서에 취합된 데이터에는 약물 수준의 상세한 작용 기전 항목이 비어 있습니다. 위 기전은 예측 근거 분석에 기재된 내용과 알려진 약리 정보를 따랐습니다.
 
-지루피부염은 *Malassezia* 효모에 대한 염증 반응과 피부 장벽 손상이 관여하는 만성 염증성 피부질환입니다. 외용 칼시뉴린 억제는 홍반, 인설, 소양감을 줄일 수 있다고 추정됩니다. *Malassezia*에 대한 일부 항진균 활성도 보고되어 있습니다. 같은 약물이 이미 아토피피부염 외용제로 허가되어 있어 약물의 피부 적용 경험이 축적되어 있습니다. 또한 높은 TxGNN 점수(99%)는 아래 임상시험 결과와 방향이 일치합니다.
+지루피부염은 *Malassezia* 효모에 대한 염증 반응과 피부 장벽 손상이 관여하는 만성 염증성 피부질환입니다. 외용 칼시뉴린 억제는 홍반, 인설, 소양감을 줄일 수 있다고 추정됩니다. *Malassezia*에 대한 일부 항진균 활성도 보고되어 있습니다. 같은 약물이 이미 아토피피부염 외용제로 허가되어 있어 약물의 피부 적용 경험이 축적되어 있습니다. 또한 높은 TxGNN 점수(0.9926)는 아래 임상시험 결과와 방향이 일치합니다.
 
 ## 임상시험 근거
 

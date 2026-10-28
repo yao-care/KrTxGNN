@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 559
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ofloxacin: 예측 신규 적응증 고아밀라아제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 허가증별 적응증 본문이 확인되지 않아 구체적 기재 불가 (허가사항 참조)"
 monitor_inn: "OFLOXACIN"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-10-23
+description: "Ofloxacin: 예측 신규 적응증 다발성 과점성 증후군 (근거 수준 L5). 기존 적응증: 허가 문서가 링크로만 제공되어 적응증 본문을 확인할 수 없음 (항균제로 분류)"
 ---
 
 # Ofloxacin
@@ -33,72 +33,81 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-## Ofloxacin: 세균 감염증에서 고아밀라아제혈증으로
+## Ofloxacin: 세균 감염 치료(항균제)에서 다발성 과점성 증후군으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Ofloxacin은 플루오로퀴놀론계 항생제로, 원래 세균 감염 치료(정제 및 점안·안연고 제형)에 사용되어 왔습니다.
-TxGNN 모델은 **고아밀라아제혈증(Hyperamylasemia)**에 효과가 있을 수 있다고 예측하지만, 이 예측을 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다.
-이 예측은 약리학적 근거가 아닌 네트워크 기반의 인위적 결과로 보이며, 모델 예측만 있는 단계(L5)입니다.
+Ofloxacin은 플루오로퀴놀론계 항균제로, 한국에서 점안액·안연고·정제 등으로 시판되는 단일 성분 의약품입니다. TxGNN 모델은 **다발성 과점성 증후군(polyclonal hyperviscosity syndrome)**에 효과가 있을 수 있다고 예측했지만, 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 이 예측은 모델 점수에만 근거한 가설 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증별 적응증 본문이 확인되지 않아 구체적 기재 불가 (허가사항 참조) |
-| 예측 신규 적응증 | 고아밀라아제혈증 (Hyperamylasemia) |
-| TxGNN 예측 점수 | 99.91% |
+| 기존 적응증 | 허가 문서가 링크로만 제공되어 적응증 본문을 확인할 수 없음 (항균제로 분류) |
+| 예측 신규 적응증 | 다발성 과점성 증후군 |
+| TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 20건 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ofloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 플루오로퀴놀론계 항생제입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 Ofloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 항균제로 알려져 있습니다.
 
-고아밀라아제혈증은 감염이 아닌 다양한 원인으로 나타나는 검사실 소견입니다. 항균제가 이 상태를 개선할 기전적 연결고리는 확인되지 않습니다. 따라서 높은 TxGNN 점수는 약리학적 근거라기보다 지식 그래프상의 네트워크 구조에서 비롯된 결과로 해석됩니다.
+다발성 과점성 증후군은 면역글로불린 과다로 혈액 점도가 높아지는 상태로, 세균 증식과 관련된 질환이 아닙니다. 따라서 항균 기전과 이 질환 사이에서 설득력 있는 연결고리를 찾기 어렵습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 산출한 계산상의 예측일 뿐이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. 이를 지지하는 임상시험이나 문헌은 없습니다.
 
-참고로 같은 예측 목록에서는 **패혈성 페스트(septicemic plague)**가 상대적으로 타당성이 있는 후보입니다. 시험관 내 활성과 마우스·원숭이 동물 실험 근거가 있으나(L4), 사람 대상 임상시험은 없고 ciprofloxacin·levofloxacin이 더 확립된 선택지입니다. 점수 1위 후보보다는 이쪽이 후속 검토 가치가 큽니다.
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
-허가 적응증 본문은 데이터에 포함되어 있지 않아 허가사항 문서를 참조해야 합니다. 주요 허가 5건은 다음과 같습니다.
+이 보고서를 위해 수집한 데이터에는 단일 성분 허가 20건(모두 유효)이 있으며, 이 중 주요 5건을 아래에 정리했습니다. 허가 적응증 본문은 허가 문서 링크로만 제공되어 요약할 수 없었습니다. 전체 목록은 일부일 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 비고 |
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 199203288 | 타리비드점안액 | 점안액 | 한국산텐제약 |
-| 200404693 | 제뉴원오플록사신정 | 필름코팅정 | 제뉴원사이언스 |
-| 201803948 | 오라록신점안액 | 점안액 | 한국휴텍스제약 |
-| 199703570 | 안플레임정 | 필름코팅정 | 한국프라임제약 |
-| 201708371 | 오페란안연고 | 안연고 | 국제약품 |
-
-전체 20건은 모두 유효한 단일제이며, 정제·점안액·안연고 제형이 포함됩니다. 일부는 수출용입니다.
+| 199203288 | 타리비드점안액 | 점안액 | 허가 문서 링크로만 제공됨 |
+| 200404693 | 제뉴원오플록사신정 | 필름코팅정 | 허가 문서 링크로만 제공됨 |
+| 201803948 | 오라록신점안액 | 점안액 | 허가 문서 링크로만 제공됨 |
+| 199703570 | 안플레임정 | 필름코팅정 | 허가 문서 링크로만 제공됨 |
+| 201708371 | 오페란안연고 | 안연고 | 허가 문서 링크로만 제공됨 |
 
 ## 안전성 고려사항
 
-- **금기 관련 질환(지식 그래프 기반, 허가 문구 아님)**: QT 연장 증후군, 심실빈맥(torsades de pointes), 간부전, 간질, 신장 질환, 말초신경병증, 근무력증, 힘줄염, 횡문근융해증, 당뇨병 및 당뇨병성 케톤산증, 백혈구감소증, 혈소판감소증, *Clostridium difficile* 대장염 등
-- **약물 상호작용**: 총 100건이 확인되었으며, 이 중 주요(Major) 등급은 다음과 같습니다.
-  - 코르티코스테로이드: hydrocortisone, triamcinolone, dexamethasone, betamethasone
-  - bupropion
-  - chlorpropamide
-- 중등도(Moderate) 상호작용으로는 혈당강하제(metformin, pioglitazone, acarbose, alogliptin, canagliflozin, albiglutide), famotidine, loperamide, aspirin, balsalazide, bisacodyl, 칼슘·칼륨 제제가 있습니다.
+허가사항(첨부문서)의 경고·금기 정보는 이번 데이터에 포함되지 않았습니다. 상세 내용은 허가사항을 참조하세요.
 
-허가사항의 경고 및 금기 문구는 확인되지 않았으므로 허가사항을 참조하세요.
+- **지식 그래프상 금기 관계**: 아래는 라벨 문구가 아니라 지식 그래프(PrimeKG)에 기록된 관계입니다.
+  - QT 연장 증후군, torsades de pointes
+  - 간부전·간질환, 신장질환·신기능 장애
+  - 간질
+  - 말초신경병증, 중증 근무력증
+  - 건염, 횡문근융해
+  - 당뇨병, 당뇨병성 케톤산증
+  - 혈소판감소증, 백혈구감소증
+  - *Clostridium difficile* 대장염
+- **약물 상호작용**: 총 100건이 조회되었고, 이 중 20건을 확인했습니다.
+  - 주요(Major) 등급: hydrocortisone, dexamethasone, betamethasone, triamcinolone, bupropion, chlorpropamide
+  - 중등도(Moderate) 등급: metformin, pioglitazone, acarbose 등 혈당강하제, 칼슘·칼륨 제제, 아스피린 등
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-고아밀라아제혈증에 대한 임상시험과 문헌이 전혀 없고 기전적 연결고리도 확인되지 않아, 모델 점수만으로는 진행할 근거가 없습니다. 지식 그래프상 금기 질환이 많은 점도 신중한 접근이 필요한 이유입니다.
+- 다발성 과점성 증후군에 대한 임상시험과 문헌이 전혀 없고, 항균 기전과 질환의 병태생리 사이에 타당한 연결고리도 확인되지 않아 근거 수준은 L5입니다.
+- 지식 그래프에는 말초신경병증 등의 금기 관계도 기록되어 있어, 근거 없이 진행하기에는 안전성 부담이 큽니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증) 원문 확보 및 분석
-- 상세한 약물 작용 기전(MOA) 데이터
-- 점수 1위 예측보다 근거가 있는 후보(예: 페스트)에 대한 우선 검토
-- 고아밀라아제혈증과의 생물학적 연관성을 입증할 전임상 또는 관찰 연구
+- 작용 기전(MOA) 자료 확보 및 이 질환과의 기전적 연관성 검토
+- 한국 허가사항(적응증, 경고, 금기) 본문의 확보와 분석
+- 이 질환을 직접 다룬 전임상 또는 임상 근거
+- 참고로 같은 데이터에서 예측된 다른 후보인 **패혈성 페스트(septicemic plague)**는 시험관 내 감수성 연구와 동물 실험이 있어 L4로 평가되었습니다. 우선순위를 높여 별도로 검토할 가치가 있습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

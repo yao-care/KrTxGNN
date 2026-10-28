@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Cefpirome
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 192
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Cefpirome: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가 정보는 식약처 허가사항 문서 링크로만 제공됨). 4세대 세팔로스포린계 항생제로서…"
+description: "Cefpirome: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Cefpirome"
-predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hemoglobinopathy", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Cefpirome
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +35,16 @@ predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthriti
 
 </div>
 
-## Cefpirome: 세균 감염증에서 류마티스 관절염으로
+## Cefpirome
 {: .text-alpha }
-
-## 한 문장 요약
-
-Cefpirome은 4세대 세팔로스포린계 항생제(베타락탐)로, 한국에서 주사용 항생제로 허가되어 시판되고 있습니다.
-TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 있을 수 있다고 예측하지만, 이를 지지하는 **임상시험은 0건**, **문헌도 0편**입니다. 현재로서는 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가 정보는 식약처 허가사항 문서 링크로만 제공됨). 4세대 세팔로스포린계 항생제로서 세균 감염증 치료에 사용 |
-| 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
-| TxGNN 예측 점수 | 98.31% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200605485/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607856/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201200378/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Cefpirome은 세균 세포벽 합성을 억제하는 4세대 세팔로스포린계 항생제입니다. 이 기전은 세균에 대한 작용이며, 류마티스 관절염의 병태생리(자가면역성 관절 염증)와 직접 연결되는 항염증·면역조절 기전은 알려져 있지 않습니다.
-
-따라서 기존 적응증과 예측 신규 적응증 사이에 뚜렷한 기전적 연관성을 제시하기 어렵습니다. 높은 TxGNN 점수(98.31%)는 지식 그래프 상의 연결에 기반한 모델 추론일 뿐이며, 생물학적 타당성이나 임상적 검증을 의미하지 않습니다.
-
-참고로 TxGNN은 같은 약물에 대해 골관절염(98.29%), 골관절염 감수성(98.13%), 통풍(97.72%) 등 다른 근골격계 질환도 비슷하게 높은 점수로 예측했습니다. 이 예측들 역시 임상시험이나 문헌 근거가 없으며, 기전적 연관성도 확인되지 않았습니다.
 
 ## 한국 시판 정보
 
@@ -73,19 +58,6 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-류마티스 관절염에 대한 임상시험과 문헌이 전혀 없고, 항생제인 Cefpirome과 이 질환 사이에 알려진 기전적 연관성도 없습니다. 높은 TxGNN 점수는 모델 예측에 불과하므로 현 단계에서 재창출 진행을 권장하기 어렵습니다.
-
-**진행하려면 필요한 것:**
-- 식약처 허가사항(적응증, 경고, 금기)의 확인 및 정리
-- 상세한 약물 작용 기전(MOA) 데이터 확보
-- 항염증·면역조절 가능성을 뒷받침하는 전임상 또는 기전 연구
-- 류마티스 관절염과의 연관성을 보여주는 문헌 및 임상 근거
-- 투여 경로(주사제) 적합성 평가
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

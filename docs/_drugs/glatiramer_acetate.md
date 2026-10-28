@@ -8,6 +8,7 @@ nav_order: 378
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Glatiramer Acetate
@@ -53,7 +54,7 @@ DrugBank 조회는 성공(결과 1건)하였으나, 예측 적응증 목록(`pre
 | 예측 신규 적응증 | 데이터 없음 |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | 평가 불가 (예측 결과 없음) |
-| 한국 시판 현황 | 미시판 (허가 0건) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

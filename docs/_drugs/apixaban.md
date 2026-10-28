@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Apixaban
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 78
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Apixaban: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 포함되어 있지 않아(허가 문서 링크만 확인됨) 확인할 수 없음"
 monitor_inn: "Apixaban"
-predicted_indications: ["migraine disorder", "migraine with or without aura, susceptibility to", "leprosy", "rheumatoid arthritis", "migraine with brainstem aura", "Prinzmetal angina", "brachydactyly-syndactyly syndrome", "pulmonary hypertension", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "kyphoscoliotic heart disease"]
+predicted_indications: ["migraine disorder"]
 ---
 
 # Apixaban
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ predicted_indications: ["migraine disorder", "migraine with or without aura, sus
 ## 한 문장 요약
 
 Apixaban은 Xa 인자를 억제하는 경구 항응고제로, 한국에서 20건의 단일제 허가를 받아 시판 중입니다.
-TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다고 예측하지만(점수 99.02%), 직접적인 임상시험 근거는 없고 **증례 보고 위주의 문헌 3편**만 있으며 그마저도 서로 상반됩니다.
+TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다고 예측하지만(점수 0.9902), 직접적인 임상시험 근거는 없고 **증례 보고 위주의 문헌 3편**만 있으며 그마저도 서로 상반됩니다.
 
 ## 빠른 개요
 
@@ -47,9 +47,9 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 포함되어 있지 않아(허가 문서 링크만 확인됨) 확인할 수 없음 |
 | 예측 신규 적응증 | 편두통 (Migraine disorder) |
-| TxGNN 예측 점수 | 99.02% |
+| TxGNN 예측 점수 | 0.9902 |
 | 근거 수준 | L4 (직접 근거 없는 모델 예측 수준에 가까움) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -111,7 +111,6 @@ Phase 3 시험이지만 편두통과 직접 관련이 없어 근거 수준 상�
 - 항인지질항체 양성 또는 난원공 개존 동반 편두통 등 특정 하위 집단에 대한 탐색적 전향 연구
 - 편두통 악화 가능성을 다룬 안전성 신호 추가 평가
 
-**참고(다른 예측 후보):** 같은 약물의 다른 예측 중 류마티스 관절염(전임상에서 JAK2/STAT3·MAPK 경로를 통한 항관절염 효과, L4)과 폐고혈압(혈전성 기전 가능성, L4)은 "연구 과제" 수준으로 평가되며, 둘 다 임상 근거는 아직 없습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

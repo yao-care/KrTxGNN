@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Norepinephrine
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 553
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Norepinephrine: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 확인 불가 (허가사항 참조)"
@@ -14,7 +14,7 @@ predicted_indications: ["obstructive lung disease", "respiratory malformation", 
 # Norepinephrine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L4** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 |------|------|
 | 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 확인 불가 (허가사항 참조) |
 | 예측 신규 적응증 | 폐쇄성 폐질환 (Obstructive Lung Disease) |
-| TxGNN 예측 점수 | 99.84% |
+| TxGNN 예측 점수 | 0.9984 |
 | 근거 수준 | L4 (기전 연구 수준, 직접적인 임상 근거 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 |
 | 권장 결정 | Hold |
 
@@ -118,7 +118,7 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 - 폐쇄성 폐질환에서의 norepinephrine 치료 효과를 직접 평가한 전임상·임상 근거
 - 투여 경로 적합성 검토 (현재 주사제만 있고, 폐질환 치료에 적합한 경로인지 불명확)
 
-**참고:** 같은 약물의 다른 예측 적응증인 호흡기 기형(Respiratory malformation, 99.84%)과 Rienhoff 증후군(99.83%)도 근거 수준 L5로 모두 Hold입니다. 임상시험이 없고 문헌은 치료 효과와 무관하거나(호흡기 기형은 약물 노출 위험 연구 위주, Rienhoff 증후군은 문헌 없음), 기전적 연결도 확인되지 않아 그래프 기반 산출물로 판단됩니다.
+**참고:** 같은 약물의 다른 예측 적응증인 호흡기 기형(Respiratory malformation, 0.9984)과 Rienhoff 증후군(0.9983)도 근거 수준 L5로 모두 Hold입니다. 임상시험이 없고 문헌은 치료 효과와 무관하거나(호흡기 기형은 약물 노출 위험 연구 위주, Rienhoff 증후군은 문헌 없음), 기전적 연결도 확인되지 않습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 생물학적 근거가 아니라 모델이 학습한 관련 질환 간 유사성을 반영할 수 있습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

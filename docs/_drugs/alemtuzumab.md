@@ -8,6 +8,7 @@ nav_order: 35
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-10-12
+predicted_indications: []
 ---
 
 # Alemtuzumab
@@ -57,7 +58,7 @@ Alemtuzumab(DrugBank ID: DB00087)은 현재 한국 미시판 의약품으로, �
 | 예측 신규 적응증 | 예측 없음 |
 | TxGNN 예측 점수 | N/A |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | ✗ 미시판 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

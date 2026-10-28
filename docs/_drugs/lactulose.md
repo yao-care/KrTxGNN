@@ -47,9 +47,9 @@ TxGNN 모델은 **급성 요산 신병증(Acute Urate Nephropathy)**에 효과�
 |------|------|
 | 기존 적응증 | 변비, 만성변비, 영·유아 및 소아의 변비, 분만 후의 변비 |
 | 예측 신규 적응증 | 급성 요산 신병증 (Acute Urate Nephropathy) |
-| TxGNN 예측 점수 | 99.89% |
+| TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 17건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Metoclopramide
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 512
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Metoclopramide: 예측 신규 적응증 위궤양 (gastric ulcer) (근거 수준 L4). 기존 적응증: 허가 적응증 본문은 이번 자료에서 확인되지 않았습니다 (허가사항 PDF 링크만 제공됨)"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
+last_modified_at: 2026-10-27
+description: "Metoclopramide: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197200484/EE"
 ---
 
 # Metoclopramide
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,96 +33,79 @@ predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 
 </div>
 
-## Metoclopramide: 구역·구토 및 위장관 운동 질환에서 위궤양으로
+## Metoclopramide: 위장관 운동 촉진제(D2 길항·5-HT4 작용) → 위십이지장염 (gastroduodenitis)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Metoclopramide는 도파민 D2 수용체 길항 및 5-HT4 작용을 가진 위장관 운동 촉진제로, 한국에서 맥페란정 등으로 시판되고 있습니다.
-TxGNN 모델은 **위궤양(gastric ulcer)**에 효과가 있을 수 있다고 예측하지만, 이 약은 궤양 치유나 산분비 억제 작용이 없어 증상 완화·보조 용도에 그칠 가능성이 큽니다.
-현재 **1건의 임상시험**(상부 위장관 출혈 내시경 전처치, 간접 근거)과 **20편의 문헌**(대부분 일반 리뷰)이 확인되었습니다.
+Metoclopramide는 도파민 D2 수용체 길항과 5-HT4 수용체 작용을 통해 위장관 운동을 촉진하는 약물입니다.
+TxGNN 모델은 **위십이지장염(gastroduodenitis)**에 효과가 있을 수 있다고 예측하지만, 이 질환 자체를 직접 연구한 임상시험이나 문헌은 확인되지 않았습니다. 현재 근거는 모델 예측 수준(L5)입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 이번 자료에서 확인되지 않았습니다 (허가사항 PDF 링크만 제공됨) |
-| 예측 신규 적응증 | 위궤양 (gastric ulcer) |
-| TxGNN 예측 점수 | 99.93% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197200484/EE |
+| 예측 신규 적응증 | 위십이지장염 (gastroduodenitis) |
+| TxGNN 예측 점수 | 0.9990 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
-> 같은 방식으로 예측된 다른 질환: 위십이지장염(99.90%, L3), 소화성 궤양(99.85%, L4), 위공장 궤양(99.78%, L4), 소화성 궤양 천공(99.78%, L5).
-
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 이번 자료에 포함되어 있지 않습니다. 알려진 정보에 따르면 metoclopramide는 D2 수용체 길항과 5-HT4 작용을 통해 위 배출과 상부 위장관 운동을 촉진하는 약물입니다.
+현재 상세한 작용 기전 데이터는 데이터에 없습니다. 다만 수집된 문헌에 따르면 metoclopramide는 도파민 D2 길항, 5-HT4 작용, 콜린성 전달 강화를 통해 위-십이지장 협응과 위 배출을 개선하는 위장관 운동 촉진제로 알려져 있습니다.
 
-다만 이 약은 **산분비 억제나 점막 치유 작용이 없어** 궤양 자체를 치료하지 않습니다. 가능한 역할은 궤양에 동반되는 위 배출 지연이나 구역을 완화하는 증상 조절·보조 요법, 또는 출혈 시 내시경 전 위 내용물 정리 정도입니다. 연구 자료상 건강인 대상 이중맹검 연구에서도 위산 분비와 가스트린 수치에 유의한 변화가 없었습니다(PMID 6782467).
+위십이지장염에는 운동 장애와 오심·구토가 동반될 수 있어, 이러한 증상 완화 측면에서 기전상 연관성을 생각해 볼 수 있습니다. 다만 이는 항염증 효과가 아니라 증상 완화 목적의 가설입니다.
 
-TxGNN 점수가 매우 높은 것은 위장관 운동·소화불량과의 네트워크 연관성을 반영한 것으로 보이며, 질환 개선 효과를 뜻하지는 않습니다.
+수집된 근거는 사람의 위십이지장 운동 연구(PMID 7886398, 8179003)와 상부위장관 출혈 환자의 내시경 시야 확보 RCT(PMID 38059896, 42259699)입니다. 이들은 위십이지장염 치료가 아니라 운동 기능 또는 시술 보조를 다룬 연구이므로, 증상 완화나 질병 조절에 대한 근거는 간접적입니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT05746377](https://clinicaltrials.gov/study/NCT05746377) | Phase 4 | 불명 | 60 | 상부 위장관 출혈에서 metoclopramide 전처치가 재내시경·중재시술·수술 필요성을 줄이고 위벽 시야를 개선하는지 평가 (이중맹검, 결과 미보고) |
-
-이 시험은 궤양 치료가 아닌 내시경 시야 확보를 평가하므로 간접 근거에 해당합니다.
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
+위십이지장염 자체를 직접 다룬 문헌은 없었으며, 아래는 관련성이 있는 주요 문헌입니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [38059896](https://pubmed.ncbi.nlm.nih.gov/38059896/) | 2024 | RCT | Am J Gastroenterol | 활동성 상부 위장관 출혈에서 metoclopramide의 내시경 위 시야 개선 효능 평가 (위십이지장염 항목에서 확인된 문헌) |
-| [42259699](https://pubmed.ncbi.nlm.nih.gov/42259699/) | 2026 | RCT | Rev Gastroenterol Mex | 급성 상부 위장관 출혈에서 고용량 metoclopramide vs 위약의 내시경 시야 비교 (위십이지장염 항목에서 확인된 문헌) |
-| [42127996](https://pubmed.ncbi.nlm.nih.gov/42127996/) | 2026 | Guideline | Endoscopy | ESGE 소화성 궤양 출혈 내시경 진단·치료 지침 2026 개정판 (metoclopramide 권고 여부는 원문 확인 필요) |
-| [786607](https://pubmed.ncbi.nlm.nih.gov/786607/) | 1976 | Review | Drugs | Metoclopramide의 약리 특성과 임상 사용 개관, 상부 위장관 출혈 시 응급 내시경 보조 언급 |
-| [6336644](https://pubmed.ncbi.nlm.nih.gov/6336644/) | 1983 | Review | Ann Intern Med | 제토 작용 및 위장관 평활근 자극 효과 등 약리·임상 적용 |
-| [2730234](https://pubmed.ncbi.nlm.nih.gov/2730234/) | 1989 | 동물 연구 | Arch Int Pharmacodyn Ther | 흰쥐 아스피린·유문결찰 궤양 모델에서 궤양 보호 효과 보고 (전임상) |
-| [6782467](https://pubmed.ncbi.nlm.nih.gov/6782467/) | 1981 | 무작위 이중맹검(건강인 12명) | MMW | Domperidone·metoclopramide 모두 혈청 가스트린과 위산 분비에 유의한 변화 없음 |
-| [12825960](https://pubmed.ncbi.nlm.nih.gov/12825960/) | 2003 | Review | Drugs | 당뇨병성 위마비 개관 |
-| [8686797](https://pubmed.ncbi.nlm.nih.gov/8686797/) | 1996 | Review | Am J Surg | 위 수술 후 위 배출 지연 |
-| [579607](https://pubmed.ncbi.nlm.nih.gov/579607/) | 1978 | Review | Can J Surg | 소화성 궤양 약물치료 심포지엄, metoclopramide의 위 배출 촉진 언급 |
-
-위궤양 항목의 문헌은 주로 위 운동, 위마비, 역류성 식도염, 기능성 소화불량에 대한 일반 리뷰이며, 위궤양 특이적 임상 연구는 없습니다. 위 표의 PMID 38059896, 42259699, 42127996은 위궤양 항목이 아닌 다른 예측 질환(위십이지장염, 소화성 궤양)에서 확인된 문헌입니다.
+| [38059896](https://pubmed.ncbi.nlm.nih.gov/38059896/) | 2024 | RCT | Am J Gastroenterol | 활동성 상부위장관 출혈 환자에서 내시경 위 시야 확보를 위한 정맥 metoclopramide의 효과 평가 |
+| [42259699](https://pubmed.ncbi.nlm.nih.gov/42259699/) | 2026 | RCT | Rev Gastroenterol Mex | 상부위장관 출혈에서 고용량 metoclopramide 대 위약의 위십이지장 시야 확보 비교 |
+| [7886398](https://pubmed.ncbi.nlm.nih.gov/7886398/) | 1994 | 생리학 연구 | Scand J Gastroenterol | cisapride와 metoclopramide가 사람의 식후·공복기 antroduodenal 운동에 미치는 영향 |
+| [8179003](https://pubmed.ncbi.nlm.nih.gov/8179003/) | 1994 | 기전 연구 | Am J Physiol | 개에서 cisapride, metoclopramide, domperidone의 위십이지장 배출 수축 기전 비교 |
+| [7072665](https://pubmed.ncbi.nlm.nih.gov/7072665/) | 1982 | 임상 관찰 | Am J Dis Child | 소아의 위정체·원인 불명 구토에서 metoclopramide가 위십이지장 운동을 증가시킴 |
+| [6382574](https://pubmed.ncbi.nlm.nih.gov/6382574/) | 1984 | 리뷰 | Scand J Gastroenterol Suppl | 도파민 길항제가 상부위장관 운동에 미치는 영향 |
+| [18321441](https://pubmed.ncbi.nlm.nih.gov/18321441/) | 2008 | Review | Curr Treat Options Gastroenterol | 오심·구토의 원인과 관리 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 197200484 | 맥페란정(메토클로프라미드) | 흰색의 원형 필름코팅정 | 허가사항 문서 참조 (동화약품(주)) |
+| 197200484 | 맥페란정(메토클로프라미드) | 흰색의 원형 필름코팅정 | 적응증 텍스트가 기록되어 있지 않음 |
 
 ## 안전성 고려사항
 
-- **금기 (지식그래프 기반, 허가사항 아님)**: 지식그래프상 다음 질환과 금기 연관이 있습니다. 실제 금기는 허가사항 확인이 필요합니다.
-  - 신경계: 간질, 파킨슨병·파킨슨 증후군, 지연성 운동이상증, 근긴장이상, 신경이완제 악성 증후군
-  - 순환·내분비: 고혈압, 갈색세포종 및 부신·교감신경 부신경절종
-  - 정신: 불안 장애, 신경증, 기분부전 장애
-  - 대사·장기: 포르피린증, 간경변, 신기능 장애, 활동성 소화성 궤양
-  - 기타: 메트헤모글로빈혈증(효소 결핍), 피루브산 탈수소효소 E3 결핍 등
-- **약물 상호작용**: 총 100건이 조회되었으며 일부는 다음과 같습니다.
-  - 중대(Major): Tramadol, Amisulpride
-  - 중등도(Moderate): Fentanyl, Codeine, Dihydrocodeine, Alprazolam, Amitriptyline, Amantadine, Ethanol, Cetirizine, Chlorpheniramine 등
+- **약물 상호작용**: 조회된 상호작용은 총 100건이며, 이 중 주요 등급은 다음과 같습니다.
+  - 주요(Major): Tramadol, Amisulpride
+  - 중등도(Moderate): Fentanyl, Codeine, Dihydrocodeine, Alprazolam, Amitriptyline, Amantadine, Ethanol, Cetirizine 등 중추신경억제 및 진정 작용과 관련된 약물이 다수 포함됨
   - 경미(Minor): Acetaminophen
 
-지식그래프에 "활동성 소화성 궤양"이 금기로 올라 있다는 점은 이번 예측과 상충할 수 있어 허가사항에서 확인해야 합니다. 허가사항상의 경고·금기 정보는 이번 자료에 없으므로 허가사항을 참조하세요.
+허가사항의 경고 및 금기 정보는 데이터에 없으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-위궤양에 대한 직접적인 임상 근거가 없고(근거 수준 L4), 이 약은 산분비 억제나 점막 치유 작용이 없어 궤양 치료제로서의 기전적 근거도 약합니다. 높은 TxGNN 점수는 위장관 운동 관련 네트워크 연관성을 반영한 것으로 보입니다. 소화성 궤양 천공은 프로키네틱의 치료 근거가 없어 부적절합니다.
+위십이지장염을 직접 연구한 임상시험이나 문헌이 없고, 확인된 연구는 운동 기능과 내시경 시야 확보에 관한 간접적 근거뿐입니다. 이 약의 효과는 증상 완화에 국한될 것으로 보이며, 질병 조절 근거는 없습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증)을 확보하고, 활동성 소화성 궤양 금기 여부 확인
-- 작용 기전 데이터 보완
-- 증상 보조요법 또는 내시경 전처치 등으로 목표 용도를 재정의
-- 상부 위장관 출혈 내시경 전처치 RCT(PMID 38059896, 42259699)와 ESGE 2026 지침(PMID 42127996) 원문을 검토하고, NCT05746377 결과 확인
-- 위궤양 환자 대상 증상 개선 평가 임상 연구 설계 검토
+- 위십이지장염 환자를 대상으로 한 증상 개선 임상 근거
+- 허가사항(경고·금기) 확보 및 안전성 검토
+- 상세한 작용 기전(MOA) 데이터 보충
+- 한국 허가 적응증 텍스트 및 시판 상태 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

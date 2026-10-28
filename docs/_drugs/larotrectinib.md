@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Larotrectinib
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 461
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Larotrectinib: 예측 신규 적응증 다발성 내분비 종양 (Multiple Endocrine Neoplasia) (근거 수준 L3). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요)"
 monitor_inn: "Larotrectinib"
-predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "progesterone-receptor negative breast cancer", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "thrombocytopenia"]
+predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
 ---
 
 # Larotrectinib
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Larotrectinib은 선택적 TRK 억제제로, 한국에서 비트락비(Vitrakvi)
 |------|------|
 | 기존 적응증 | 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요) |
 | 예측 신규 적응증 | 다발성 내분비 종양 (Multiple Endocrine Neoplasia) |
-| TxGNN 예측 점수 | 99.24% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9924 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -117,10 +117,7 @@ TxGNN 점수는 높지만, 다발성 내분비 종양은 RET 구동 질환으로
 
 | 순위 | 예측 질환 | 점수 | 근거 수준 | 비고 |
 |------|---------|------|---------|------|
-| 2 | HER2 양성 유방암 | 99.14% | L4 | 다른 TRK 억제제(entrectinib)의 전임상 연구와 분비성 유방암 증례뿐. Hold |
-| 9 | 루미널 A/B 유방 종양 | 98.61% | L4 | NTRK 융합 관련 종설 위주. NTRK 융합 검사를 전제로 한 연구 질문 |
-| 10 | 혈소판감소증 | 98.56% | L4 | 치료 근거 없음. Hold |
-| 3~8 | 거대세포바이러스 감염, 소 전염성 비기관염, 악성 카타르열, 기타 유방암 아형 | 98.6~99.0% | L5 | 임상시험·문헌 없음. 지식 그래프 산출물일 가능성. Hold |
+| 2 | HER2 양성 유방암 | 0.9914 | L4 | 다른 TRK 억제제(entrectinib)의 전임상 연구와 분비성 유방암 증례뿐. Hold |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

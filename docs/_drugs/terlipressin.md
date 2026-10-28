@@ -4,17 +4,17 @@ title: Terlipressin
 parent: 모델 예측만 (L5)
 nav_order: 730
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Terlipressin: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) — 근거 기준 선정. 모델 1순위는 개방각 녹내장 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않음(허가 문서 링크만 확인됨). 문헌상 간신증후군, 식도정맥류 출혈 등에 사용"
 monitor_inn: "Terlipressin"
-predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder", "hyperthyroidism", "glaucoma", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
+description: "Terlipressin: 예측 신규 적응증 Open-angle glaucoma (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402420/EE"
 ---
 
 # Terlipressin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "p
 
 </div>
 
-## Terlipressin: 문맥 고혈압 관련 질환에서 폐고혈압으로
+## Terlipressin: Open-angle glaucoma
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입니다. 이번 평가에서 TxGNN 모델이 가장 높게 예측한 신규 적응증은 녹내장 계열이지만, 이를 뒷받침하는 자료가 전혀 없습니다. 근거가 실제로 존재하는 후보는 **폐고혈압(Pulmonary Hypertension)**이며, 이에 대해 **임상시험 0건**과 **문헌 20편**(그중 관련성이 있는 것은 소규모 혈역학 연구와 증례 보고 위주)이 확인되었습니다.
+Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입니다. 근거가 실제로 존재하는 후보는 **폐고혈압(Pulmonary Hypertension)**이며, 이에 대해 **임상시험 0건**과 **문헌 20편**(그중 관련성이 있는 것은 소규모 혈역학 연구와 증례 보고 위주)이 확인되었습니다.
 
-> 참고: 순위 1위인 개방각 녹내장(open-angle glaucoma, 예측 점수 99.78%)은 임상시험과 문헌이 모두 없는 모델 예측뿐입니다. 이 보고서는 근거가 가장 풍부한 3위 폐고혈압(예측 점수 99.56%)을 중심으로 평가하고, 나머지 후보는 마지막에 간략히 정리했습니다.
+> 참고: 순위 1위인 개방각 녹내장(open-angle glaucoma, 예측 점수 0.9978)은 임상시험과 문헌이 모두 없는 모델 예측뿐입니다. 이 보고서는 근거가 가장 풍부한 3위 폐고혈압(예측 점수 0.9956)을 중심으로 평가하고, 나머지 후보는 마지막에 간략히 정리했습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 데이터에 포함되어 있지 않음(허가 문서 링크만 확인됨). 문헌상 간신증후군, 식도정맥류 출혈 등에 사용 |
-| 예측 신규 적응증 | 폐고혈압 (Pulmonary Hypertension) — 근거 기준 선정. 모델 1순위는 개방각 녹내장 |
-| TxGNN 예측 점수 | 99.56% (폐고혈압) / 99.78% (개방각 녹내장) |
-| 근거 수준 | L3 (폐고혈압) / L5 (녹내장 등 나머지) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402420/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302307/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200708881/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604918/EE |
+| 예측 신규 적응증 | Open-angle glaucoma |
+| TxGNN 예측 점수 | 0.9978 |
+| 근거 수준 | L5 (폐고혈압) / L5 (녹내장 등 나머지) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold (폐고혈압은 후속 연구 질문으로 유지 가능) |
 
@@ -60,7 +60,7 @@ Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입�
 
 폐고혈압의 경우, 일부 소규모 연구에서 Terlipressin이 전신 혈관은 수축시키면서 폐혈관 저항은 낮추거나 유지하는 차별적 효과를 보였습니다. 간경변 환자에서 폐동맥압이 개선되었다는 보고(PMID 22893473, 21733953)와 신생아 지속성 폐고혈압에서 구조 요법으로 사용한 증례(PMID 32999121)가 있습니다. 다만 근거는 대부분 생리학적 관찰이고 간경변 환경에 치우쳐 있습니다.
 
-반면 녹내장, 사시(esotropia), 갑상선기능항진증 등 다른 예측 후보는 기전적 연결고리가 확인되지 않습니다. 높은 점수는 지식 그래프 상의 이웃 노드가 비슷해서 나온 계산상 결과일 가능성이 큽니다.
+반면 녹내장, 사시(esotropia), 갑상선기능항진증 등 다른 예측 후보는 기전적 연결고리가 확인되지 않습니다.
 
 ## 임상시험 근거
 
@@ -82,7 +82,6 @@ Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입�
 | [30971593](https://pubmed.ncbi.nlm.nih.gov/30971593/) | 2019 | 임상 연구 | Annals of Cardiac Anaesthesia | 폐고혈압 환자의 심장수술에서 밀리논 유발 저혈압에 Terlipressin과 노르에피네프린 비교 |
 | [34179513](https://pubmed.ncbi.nlm.nih.gov/34179513/) | 2021 | 체계적 문헌고찰 프로토콜 | BMJ Paediatrics Open | 미숙아에서 바소프레신·Terlipressin의 효능과 안전성 검토 계획 |
 
-녹내장 후보에 연결된 문헌 1편(PMID 31841026)은 간신증후군 환경의 도부타민 연구로, 녹내장과 무관합니다.
 
 ## 한국 시판 정보
 
@@ -104,7 +103,7 @@ Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입�
 **결정: Hold**
 
 **사유:**
-TxGNN 상위 후보 대부분(녹내장, 유전성 녹내장, 사시, 갑상선기능항진증 등)은 임상시험과 문헌이 없는 모델 예측에 그칩니다(L5). 폐고혈압만 소규모 혈역학 연구와 증례 보고(L3)가 있으나, 대규모 임상시험이 없고 간경변 환자에 치우쳐 있어 아직 진행 결정을 내리기 어렵습니다.
+폐고혈압만 소규모 혈역학 연구와 증례 보고(L3)가 있으나, 대규모 임상시험이 없고 간경변 환자에 치우쳐 있어 아직 진행 결정을 내리기 어렵습니다.
 
 **진행하려면 필요한 것:**
 - 허가사항(경고·금기·적응증) 확보: 현재 안전성 데이터가 비어 있어 안전성 1차 심사를 진행할 수 없음

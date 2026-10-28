@@ -47,9 +47,9 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문을 확인하지 못함) |
 | 예측 신규 적응증 | 두피 단순 모발저하증 (Hypotrichosis Simplex of the Scalp) |
-| TxGNN 예측 점수 | 99.26% |
+| TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 8건 |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 
 그러나 두피 단순 모발저하증은 CDSN, APCDD1, RPL21 등의 유전자 변이와 연관된 희귀 유전성 탈모질환으로, 안드로겐이 주된 원인이 아닙니다. 따라서 기전상 연결고리는 간접적이고 추측에 가깝습니다. 높은 TxGNN 점수는 탈모 관련 표현형과의 네트워크 근접성을 반영한 계산상의 예측일 가능성이 크며, 실제 연구로 확인된 것은 아닙니다.
 
-참고로 2순위 예측인 **선천성 모발저하증 구진(congenital hypotrichosis milia, 점수 99.04%)**도 모낭 발생 결함에 해당하는 유전질환이어서 직접적인 기전 근거가 없고, 임상시험과 문헌도 모두 0건입니다.
+참고로 2순위 예측인 **선천성 모발저하증 구진(congenital hypotrichosis milia, 점수 0.9904)**도 모낭 발생 결함에 해당하는 유전질환이어서 직접적인 기전 근거가 없고, 임상시험과 문헌도 모두 0건입니다.
 
 ## 한국 시판 정보
 

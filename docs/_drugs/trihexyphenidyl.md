@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 765
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Trihexyphenidyl: 예측 신규 적응증 주의력결핍 과잉행동장애 (Attention Deficit-Hyperactivity Disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 파킨슨증, 근긴장이상)"
 monitor_inn: "Trihexyphenidyl"
-predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation"]
+predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
+last_modified_at: 2026-10-23
+description: "Trihexyphenidyl: 예측 신규 적응증 주의력결핍 과잉행동장애 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 본문 대신 링크만 기재됨)"
 ---
 
 # Trihexyphenidyl
@@ -33,34 +33,33 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigito
 
 </div>
 
-## Trihexyphenidyl: 파킨슨증·근긴장이상에서 주의력결핍 과잉행동장애(ADHD)로
+## Trihexyphenidyl: 한국 허가 적응증 정보 미확인 상태에서 주의력결핍 과잉행동장애(ADHD)로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Trihexyphenidyl은 항콜린제로, 한국에서 단일제로 허가·시판 중이며 파킨슨증 및 근긴장이상의 증상 치료에 사용되는 약물입니다(허가 적응증 원문은 이번 자료에서 확인되지 않아 일반적 용도로 기술).
-TxGNN 모델은 **주의력결핍 과잉행동장애(ADHD)**에 효과가 있을 수 있다고 예측하지만, 현재 **임상시험은 0건**이며 간접적으로 관련된 **문헌 1편**(틱 장애와 근긴장이상 증례 시리즈)만 확인되었습니다.
-모델 점수는 매우 높지만 실제 임상 근거는 없는 상태입니다.
+Trihexyphenidyl은 중추 무스카린 계열 항콜린제로, 한국에는 단일제 허가증 2건이 있습니다. 다만 이번 보고서에 사용된 데이터에는 허가 적응증 본문이 담겨 있지 않아 기존 적응증을 확인할 수 없습니다.
+TxGNN 모델은 **주의력결핍 과잉행동장애(ADHD)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 연구한 임상시험이나 문헌은 없습니다. 근거 수준은 **L5(모델 예측만 있음)**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 파킨슨증, 근긴장이상) |
-| 예측 신규 적응증 | 주의력결핍 과잉행동장애 (Attention Deficit-Hyperactivity Disorder) |
-| TxGNN 예측 점수 | 99.92% |
-| 근거 수준 | L5 (실제 연구 없이 모델 예측 중심. 간접 문헌 1편만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 2건 |
+| 기존 적응증 | 확인 불가 (허가 적응증 항목에 본문 대신 링크만 기재됨) |
+| 예측 신규 적응증 | 주의력결핍 과잉행동장애 |
+| TxGNN 예측 점수 | 0.9992 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가 건수 | 2건 (허가증 기준, 모두 유효·단일제) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 Trihexyphenidyl은 중추 무스카린 M1 선택적 길항제로, 선조체의 콜린성-도파민성 균형을 조절합니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 trihexyphenidyl은 M1 수용체 선호성의 중추 항콜린제로 알려져 있으며, 선조체의 콜린성-도파민성 균형을 조절한다는 점이 ADHD와의 가능한 연결고리로 거론됩니다.
 
-ADHD와의 연결 고리는 선조체의 도파민·콜린 조절 이상이라는 간접적 가설에 근거합니다. 다만 이를 뒷받침하는 임상 자료는 없습니다. 오히려 항콜린제는 주의력과 인지 기능을 저하시킬 수 있어 ADHD 치료 효과에 반하는 요소로 작용합니다.
+그러나 이 연결은 가설 수준입니다. 검색된 유일한 문헌(PMID 21506147)은 근긴장이상을 동반한 일차성 틱 장애의 임상 사례군으로, ADHD 치료 근거가 아닙니다. 또한 항콜린제는 주의력과 기억력을 떨어뜨릴 수 있어 ADHD에서의 이득을 기전상 기대하기 어렵습니다. 매우 높은 예측 점수는 계산상의 예측일 뿐입니다.
 
-따라서 매우 높은 TxGNN 점수는 계산상의 예측일 뿐 임상적 근거가 아니며, 기전적 타당성은 제한적입니다.
+같은 ADHD 계열인 ADHD, 부주의형(점수 0.9975)도 TxGNN 모델(딥러닝)의 예측이며, 이 점수는 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
 ## 임상시험 근거
 
@@ -70,38 +69,53 @@ ADHD와의 연결 고리는 선조체의 도파민·콜린 조절 이상이라�
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [21506147](https://pubmed.ncbi.nlm.nih.gov/21506147/) | 2011 | 증례 시리즈 | Movement Disorders | 틱 장애와 근긴장이상이 동반된 증후군의 임상 특성 보고. ADHD에 대한 Trihexyphenidyl 효과를 직접 다루지 않아 간접적 관련성만 있음 |
+| [21506147](https://pubmed.ncbi.nlm.nih.gov/21506147/) | 2011 | 코호트(임상 사례군) | Movement Disorders | 틱과 지속성 근긴장이상이 함께 나타나는 환자군의 임상 특징을 보고. ADHD 치료 근거는 아님 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 199301084 | 트리헥신정(트리헥시페니딜염산염) | 연한 노란색의 원형 필름코팅정 (태극제약) | 허가 적응증 원문은 첨부 문서 링크로만 제공됨 |
-| 202501896 | 파킨정(트리헥시페니딜염산염)(수출용) | 연한 노란색의 원형 필름코팅정 (유니메드제약) | 허가 적응증 원문은 첨부 문서 링크로만 제공됨 |
+| 199301084 | 트리헥신정(트리헥시페니딜염산염) | 연한 노란색의 원형 필름코팅정 | 본문 미확인 (허가사항 문서 링크만 제공됨) |
+| 202501896 | 파킨정(트리헥시페니딜염산염)(수출용) | 연한 노란색의 원형 필름코팅정 | 본문 미확인 (허가사항 문서 링크만 제공됨) |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건의 상호작용이 조회되었으며, 아래는 일부입니다.
-  - **주요(Major)**: Potassium chloride, Potassium citrate
-  - **중등도(Moderate)**: 다른 항콜린제 및 항무스카린제(Atropine, Hyoscyamine, Scopolamine, Glycopyrronium, Dicyclomine, Trospium, Propantheline 등), Loperamide, Morphine, Metoclopramide, Prucalopride, Pramlintide, Dronabinol, Nabilone, Eluxadoline, Magnesium hydroxide
-- **소아 관련 주의**: 소아 항콜린 독성에 대한 주의가 필요합니다. 관련 문헌에도 Trihexyphenidyl 중독 시 섬망이 보고되어 있습니다.
+- **약물 상호작용**: 이번 조회에서 상호작용 100건이 확인되었으며, 그중 일부를 아래에 정리합니다.
+  - **주요(Major)**: 염화칼륨, 구연산칼륨
+  - **중등도(Moderate)**: 항콜린제 및 유사 약물(히오시아민, 아트로핀, 글리코피롤레이트, 디사이클로민, 스코폴라민, 트로스퓸 등), 오피오이드(모르핀), 위장관 운동 관련 약물(로페라마이드, 메토클로프라미드, 프루칼로프라이드, 엘룩사돌린), 카나비노이드(드로나비놀, 나빌론), 프람린타이드, 수산화마그네슘
+- 항콜린 작용이 겹치는 약물과 병용하면 부작용이 커질 수 있으므로 주의가 필요합니다.
+- 항콜린제는 주의력·기억력 저하를 일으킬 수 있어 ADHD 환자에서 특히 고려해야 합니다.
 
-주요 경고 및 금기는 허가사항을 참조하세요.
+경고 및 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-ADHD에 대한 임상시험이 없고 간접 문헌 1편만 있어 근거가 모델 예측에 거의 전적으로 의존합니다. 항콜린제의 인지·주의력 저하 가능성은 기대 효과와 상충하므로 현 단계에서 진행하기 어렵습니다.
+ADHD를 직접 연구한 임상시험이나 문헌이 없고, 예측은 모델 점수에만 의존합니다. 항콜린제의 인지 부작용을 고려하면 기전상 이득도 불확실합니다. 한국 허가 적응증과 허가사항 경고·금기 정보도 확인되지 않은 상태입니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기 포함) 확인: 현재 안전성 스크리닝을 진행할 수 없는 상태
-- 작용 기전(MOA) 데이터 보완
-- ADHD에 대한 전임상 또는 소규모 탐색적 임상 근거
-- 인지·주의력 부작용에 대한 위험-편익 평가
+- 식약처 허가사항 문서에서 허가 적응증, 경고, 금기 확인 (현재 안전성 선별을 진행할 수 없는 상태)
+- 작용 기전 데이터 확보 (DrugBank 등)
+- ADHD에서 trihexyphenidyl을 평가한 임상 또는 전임상 연구 검색
+- 인지 기능에 미치는 항콜린성 부작용에 대한 위험-이득 평가
 
-**참고(다른 예측 적응증):** 상위 10개 예측 중 소아·유전성 파킨슨증 계열(젊은 발병 파킨슨병 19A, 비정형 소아 파킨슨증, PLA2G6 관련 신경변성 등)은 기존 항콜린 증상 치료와 기전상 연결 가능성이 있으나, 모두 질환 특이적 근거가 없어 Hold입니다. 안면지간생식기 증후군, 후시화 결함 당화 이상 선천성 질환 등은 뚜렷한 기전적 연결이 없습니다.
+### 참고: 다른 예측 질환
+
+상위 10개 예측 중 ADHD를 포함한 대부분은 질환을 직접 다룬 연구가 없어 L5로 평가됩니다. 아래는 간단한 정리입니다.
+
+| 순위 | 예측 질환 | TxGNN 점수 | 비고 |
+|-----|---------|-----------|------|
+| 2 | 안면지판생식기 증후군 | 0.9986 | 근거 없음 |
+| 3 | 부주의형 ADHD | 0.9975 | 근거 없음 |
+| 4 | 라스무센 아급성 뇌염 | 0.9966 | 근거 없음, 항콜린제가 경련 역치를 낮출 수 있음 |
+| 5 | PLA2G6 연관 신경퇴행 | 0.9958 | 증례 보고 1건(PMID 41769496)이 있으나 trihexyphenidyl 효능을 다루지 않음. 증상 완화 목적의 간접 연관만 있음 |
+| 6 | 푸코실화 결함 선천성 당화 장애 | 0.9956 | 근거 없음 |
+| 7 | 소뇌 저형성·관절구축을 동반한 다소뇌회증 | 0.9956 | 근거 없음 |
+| 8 | 안외 이상 동반 또는 비동반 망막 이영양증 | 0.9954 | 증례 1건(PMID 7826714)은 비타민 E 결핍 사례로 직접 관련 없음 |
+| 9 | 척수염 | 0.9954 | 근거 없음 |
+| 10 | 샤르코-마리-투스병 1G형 | 0.9954 | 근거 없음 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

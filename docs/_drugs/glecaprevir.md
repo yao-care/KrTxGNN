@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glecaprevir
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 379
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Glecaprevir: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L5). 기존 적응증: C형 간염 (허가증에는 적응증 본문 대신 허가 문서 링크만 기재되어 있음)"
 monitor_inn: "GLECAPREVIR"
-predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Glecaprevir
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **HIV 감염(HIV infectious disease)**에 효과가 있을 수 �
 |------|------|
 | 기존 적응증 | C형 간염 (허가증에는 적응증 본문 대신 허가 문서 링크만 기재되어 있음) |
 | 예측 신규 적응증 | HIV 감염 (HIV infectious disease) |
-| TxGNN 예측 점수 | 99.87% |
+| TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L4 (HIV 자체에 대한 직접 근거 없음, 실질적으로는 모델 예측 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **HIV 감염(HIV infectious disease)**에 효과가 있을 수 �
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 glecaprevir는 HCV의 NS3/4A 프로테아제를 억제하는 직접작용 항바이러스제(DAA)로, pibrentasvir(NS5A 억제제)와 복합제로 사용됩니다.
 
-HIV는 레트로바이러스로 역전사를 통해 복제하며, HCV NS3/4A와 같은 프로테아제 표적에 대한 직접적인 항HIV 활성은 확립되어 있지 않습니다. 높은 TxGNN 점수는 바이러스 프로테아제 간 유사성이나 지식 그래프상의 근접성을 반영했을 가능성이 큽니다.
+HIV는 레트로바이러스로 역전사를 통해 복제하며, HCV NS3/4A와 같은 프로테아제 표적에 대한 직접적인 항HIV 활성은 확립되어 있지 않습니다. 높은 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 관련 질환 간에 모델이 학습한 유사성을 반영했을 수 있으며 생물학적 근거를 뜻하지는 않습니다.
 
 임상 자료는 HIV/HCV 동반감염 환자에서 HCV를 치료하는 것을 뒷받침합니다. 이는 이미 허가된 사용 범위이며, HIV 치료를 위한 재창출이 아닙니다. 따라서 이 예측은 기전상 타당성이 낮다고 판단됩니다.
 

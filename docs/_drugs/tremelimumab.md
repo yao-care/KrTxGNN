@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Tremelimumab
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 758
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tremelimumab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic cataract) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았으며 허가 문서 링크만 확보됨 (참고: 간세포암 등 항종양 용도로 알려져 있음)"
+description: "Tremelimumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Tremelimumab"
-predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immature cataract", "mature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic retinopathy"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Tremelimumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +35,16 @@ predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immatur
 
 </div>
 
-## Tremelimumab: 허가 적응증에서 당뇨병성 백내장으로
+## Tremelimumab
 {: .text-alpha }
-
-## 한 문장 요약
-
-Tremelimumab은 항 CTLA-4 단클론항체(면역관문억제제)로, 한국에서는 '이뮤도주'라는 제품명으로 허가되어 시판 중입니다. TxGNN 모델은 **당뇨병성 백내장(diabetic cataract)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 지지하는 **임상시험은 0건**, **문헌도 0편**이며 모델 예측만 있는 상태입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았으며 허가 문서 링크만 확보됨 (참고: 간세포암 등 항종양 용도로 알려져 있음) |
-| 예측 신규 적응증 | 당뇨병성 백내장 (Diabetic cataract) |
-| TxGNN 예측 점수 | 98.49% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301925/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 다만 약리 정보에 따르면 Tremelimumab은 T세포 표면의 CTLA-4(CD152)에 결합해 CD80/CD86과의 결합을 막는 항체로, 면역 억제 신호를 해제해 항종양 면역반응을 높입니다. 이 약은 악성 중피종, 포도막 흑색종 등에서 임상 평가를 받았고, 두경부 외 간세포암(HCC)에서는 durvalumab과의 병용요법이 FDA 승인을 받았습니다.
-
-반면 당뇨병성 백내장은 고혈당에 의한 polyol 경로 활성화와 산화 스트레스로 수정체가 혼탁해지는 질환이며, CTLA-4를 통한 T세포 조절과 연결되는 기전은 확인되지 않습니다. 이번 예측은 지식 그래프상 백내장 계열 질환 간의 유사성을 반영한 결과일 가능성이 높고, 생물학적 근거로 뒷받침되지는 않습니다.
-
-같은 이유로 순위 2~10위의 다른 예측(크래니오스테노시스성, 미성숙, 성숙, 강직성, 제2형 당뇨병 연관, 핵성 노인성, 피질성, 노인성 백내장, 당뇨병성 망막병증)도 모두 점수는 0.98 안팎으로 높지만 임상시험과 문헌이 없는 L5 수준이며 권장 결정은 모두 Hold입니다. 당뇨병성 망막병증은 염증과 연결되는 느슨한 개념적 연관이 있으나 표준치료는 항 VEGF, 레이저, 코르티코스테로이드입니다.
 
 ## 한국 시판 정보
 
@@ -75,18 +61,6 @@ Tremelimumab은 항 CTLA-4 단클론항체(면역관문억제제)로, 한국에�
 
 그 밖의 경고 및 금기는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-예측 점수는 높지만 임상시험과 문헌이 전혀 없고 기전상 연결고리도 확인되지 않습니다. 또한 수술로 치료 가능한 비치명적 질환에 전신 면역관문억제제를 쓰면 면역관련 이상반응(안구 독성 포함) 위험이 커서 이득 대비 위험이 불리합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고 및 금기 포함)과 허가 적응증 본문 확보
-- 작용 기전(MOA) 데이터 보완 및 CTLA-4 차단과 수정체 혼탁 간의 기전적 연결 근거 확인
-- 백내장 및 당뇨병성 안질환에 대한 전임상 또는 임상 근거 확보
-- 투여 경로 적합성 검토 (현재 전신 주사제만 허가되어 있음)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

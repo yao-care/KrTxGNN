@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rifabutin
-parent: 중등도 근거 (L3-L4)
+parent: 높은 근거 (L1-L2)
 nav_order: 652
-evidence_level: L4
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rifabutin: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 허가 적응증 본문이 링크 형태로만 확인되어 구체적 내용을 확인할 수 없음"
 monitor_inn: "Rifabutin"
-predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 ---
 
 # Rifabutin
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **HIV 감염증(HIV infectious disease)**에 효과가 있을 �
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 링크 형태로만 확인되어 구체적 내용을 확인할 수 없음 |
 | 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
-| TxGNN 예측 점수 | 99.88% |
+| TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L1 (HIV 환자의 MAC 감염에 대한 완료된 Phase 3 임상시험 다수; 단, HIV 자체에 대한 효능 근거는 아님) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Proceed with Guardrails |
 

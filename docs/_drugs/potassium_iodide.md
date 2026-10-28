@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Potassium Iodide
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 618
-evidence_level: L5
-indication_count: 2
+evidence_level: L4
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Potassium Iodide: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 이번 자료에 포함되지 않아 확인할 수 없음 (허가증 9건 모두 허가정보 링크만 제공)"
 monitor_inn: "POTASSIUM IODIDE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Potassium Iodide
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **2** 건
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Potassium iodide(요오드화칼륨)는 한국에서 정제와 점안액 형태�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 이번 자료에 포함되지 않아 확인할 수 없음 (허가증 9건 모두 허가정보 링크만 제공) |
 | 예측 신규 적응증 | 비강 질환 (Nasal Cavity Disease) |
-| TxGNN 예측 점수 | 99.95% |
+| TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L4 (전임상·기전 수준의 증례 보고만 존재, 임상시험 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 9건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ Potassium iodide(요오드화칼륨)는 한국에서 정제와 점안액 형태�
 
 이번에 확인된 문헌은 양의 비안면부 피티움증, 말의 아스페르길루스성 비염, 말의 *Pseudallescheria boydii* 비강 감염, 사람의 비안면부 접합균증 등 **비강의 진균성(감염성) 질환**에 집중되어 있습니다. 따라서 예측의 타당성은 비강 질환 전반이 아니라 **진균성 비강 감염**으로 한정해서 해석해야 합니다.
 
-TxGNN 점수(99.95%)는 컴퓨터 예측값이며 임상적 근거를 대체하지 않습니다.
+TxGNN 점수(0.9995)는 컴퓨터 예측값이며 임상적 근거를 대체하지 않습니다.
 
 ## 임상시험 근거
 
@@ -106,7 +106,7 @@ TxGNN 점수(99.95%)는 컴퓨터 예측값이며 임상적 근거를 대체하�
 - DrugBank 등을 통한 작용 기전(MOA) 데이터 보충
 - 사람 대상 비강 진균 감염에서의 임상 근거(관찰 연구, 체계적 문헌고찰 등) 추가 조사
 - 투여 경로 적합성 검토 (현재 허가 제형은 정제와 점안액이며, 비강 적응증에 맞는 경로는 확인되지 않음)
-- 차순위 예측인 급성 후두인두염은 TxGNN 점수(99.95%)만 있고 임상시험·문헌이 없어 L5 수준이므로 별도 근거 확보 전까지 보류
+- 차순위 예측인 급성 후두인두염은 TxGNN 점수(0.9995)만 있고 임상시험·문헌이 없어 L5 수준이므로 별도 근거 확보 전까지 보류
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

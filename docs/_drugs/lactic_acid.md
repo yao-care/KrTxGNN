@@ -4,17 +4,17 @@ title: Lactic Acid
 parent: 모델 예측만 (L5)
 nav_order: 453
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lactic Acid: 예측 신규 적응증 비정형 대동맥 협착증 (atypical coarctation of aorta) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트가 문서 링크로만 제공됨)"
 monitor_inn: "Lactic acid"
-predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome", "esophageal disease", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "excretory apparatus of the lacrimal system anomaly", "eye disease", "cauda equina syndrome"]
+predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]
 ---
 
 # Lactic Acid
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **비정형 대동맥 협착증(atypical coarctation of aorta)**
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증 텍스트가 문서 링크로만 제공됨) |
 | 예측 신규 적응증 | 비정형 대동맥 협착증 (atypical coarctation of aorta) |
-| TxGNN 예측 점수 | 99.59% |
+| TxGNN 예측 점수 | 0.9959 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **비정형 대동맥 협착증(atypical coarctation of aorta)**
 
 현재 상세한 작용 기전 데이터가 없습니다. 젖산은 체내에서 생성되는 내인성 대사산물이며, 한국에서는 헤모졸비제로액이라는 액상제제의 성분으로 허가되어 있습니다.
 
-비정형 대동맥 협착증은 선천성 구조 이상입니다. 저분자 대사산물이 이런 구조적 결함을 교정한다고 보기는 어렵습니다. 이번 예측은 지식 그래프의 연결 구조에서 생긴 인공적 결과일 가능성이 높으며, 기전상 연결고리는 확인되지 않았습니다.
+비정형 대동맥 협착증은 선천성 구조 이상입니다. 저분자 대사산물이 이런 구조적 결함을 교정한다고 보기는 어렵습니다. 이번 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 학습한 관련 질환 간 유사성을 반영했을 수 있을 뿐 생물학적 근거는 아닙니다. 기전상 연결고리도 확인되지 않았습니다.
 
 참고로 2순위 이하 예측(대동맥 기형, 식도 기형, 무월경, 안구건조증, 식도 질환 등)도 검토했지만 타당한 기전은 확인되지 않았습니다. 일부 문헌은 젖산이 오히려 질환을 악화시킬 수 있다고 시사합니다. 예를 들어 젖산이 VEGF 발현을 높여 맥락막 신생혈관을 촉진한다는 전임상 연구가 있고, 식도 편평세포암에서 항PD-1 효과를 저해한다는 보고도 있습니다.
 
@@ -106,7 +106,7 @@ TxGNN 모델은 **비정형 대동맥 협착증(atypical coarctation of aorta)**
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 99.59%로 높지만 임상시험과 직접 관련 문헌이 없고, 구조적 선천 기형을 대사산물로 치료한다는 기전도 성립하기 어렵습니다. 상위 10개 예측 모두 보류가 적절하며, 일부는 젖산이 해로울 수 있다는 방향의 문헌을 포함합니다.
+TxGNN 점수는 0.9959로 높지만 임상시험과 직접 관련 문헌이 없고, 구조적 선천 기형을 대사산물로 치료한다는 기전도 성립하기 어렵습니다. 상위 10개 예측 모두 보류가 적절하며, 일부는 젖산이 해로울 수 있다는 방향의 문헌을 포함합니다.
 
 **진행하려면 필요한 것:**
 - 허가 적응증 텍스트 확보 (허가증 PDF 내려받아 분석)

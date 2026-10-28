@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cefprozil
-parent: 중등도 근거 (L3-L4)
+parent: 높은 근거 (L1-L2)
 nav_order: 194
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cefprozil: 예측 신규 적응증 요로감염 (Urinary Tract Infection) (근거 수준 L3). 기존 적응증: 허가 적응증 원문이 링크 형태로만 확인되어 구체적 내용을 이번 보고서에서 제시할 수 없음 (참고: 근거 자료상 호흡기, 피부…"
+evidence_level: L1
+indication_count: 9
 monitor_inn: "cefprozil"
-predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
+predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
+last_modified_at: 2026-10-27
+description: "Cefprozil: 예측 신규 적응증 요로감염 (urinary tract infection (disease)) (근거 수준 L1). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404706/EE"
 ---
 
 # Cefprozil
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L1** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,97 +33,84 @@ predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "go
 
 </div>
 
-## Cefprozil: 호흡기·피부 감염에서 요로감염으로
+## Cefprozil: 2세대 경구용 세팔로스포린 계열 항생제 → 요로감염 (urinary tract infection (disease))
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Cefprozil은 2세대 경구용 세팔로스포린 항생제로, 한국에서 단일 성분제로 널리 시판되고 있습니다.
-TxGNN 모델은 **요로감염(Urinary Tract Infection)**에 효과가 있을 수 있다고 예측하며, 현재 **9편의 문헌**(무작위 대조시험 3편 포함)이 이 방향을 지지합니다. 이 예측 항목에 연계된 임상시험 등록은 없습니다.
+Cefprozil은 세균 세포벽 합성을 억제하는 2세대 경구용 세팔로스포린 계열 항생제입니다.
+TxGNN 모델은 **요로감염(urinary tract infection (disease))**에 효과가 있을 수 있다고 예측하며, 이 질환을 직접 다룬 무작위 대조 시험(RCT) 문헌이 포함된 **9편의 문헌**이 이 방향을 지지합니다. 등록된 임상시험은 없습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크 형태로만 확인되어 구체적 내용을 이번 보고서에서 제시할 수 없음 (참고: 근거 자료상 호흡기, 피부, 중이염 감염으로 언급됨) |
-| 예측 신규 적응증 | 요로감염 (Urinary Tract Infection) |
-| TxGNN 예측 점수 | 99.99% |
-| 근거 수준 | L1 (아래 참고) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 20건 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404706/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402305/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400642/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707994/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402965/EE;  |
+| 예측 신규 적응증 | 요로감염 (urinary tract infection (disease)) |
+| TxGNN 예측 점수 | 0.9999 |
+| 근거 수준 | L1 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 최소 20건 (목록은 일부일 수 있음) |
 | 권장 결정 | Proceed with Guardrails |
-
-> **근거 수준 참고:** 판정 규칙의 L1은 완료된 Phase 3 RCT 2건 이상을 요구합니다. 이번 데이터에는 등록된 임상시험이 없고, 문헌상 비교 무작위 시험 3편(1991~1992년)이 있습니다. 따라서 L1은 문헌 기반의 잠정 판정이며, 엄격한 기준으로는 보수적으로 해석해야 합니다.
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 수집되어 있지 않습니다. 알려진 정보에 따르면 cefprozil은 2세대 경구 세팔로스포린으로, 페니실린 결합 단백질(PBP)에 결합하여 세균 세포벽 합성을 억제합니다. 대장균(*E. coli*), *Proteus mirabilis* 등 요로감염의 주요 원인균에 활성을 보입니다.
+Cefprozil은 페니실린 결합 단백질(PBP)에 결합하여 세균 세포벽 합성을 억제하는 2세대 경구용 세팔로스포린입니다. 대장균(E. coli), Klebsiella pneumoniae, Proteus mirabilis 등 요로감염의 주요 원인균에 대해 시험관 내 활성이 보고되어 있습니다. 대만 임상 분리균 637주를 대상으로 한 연구에서도 대장균과 K. pneumoniae에 대해 우수한 활성이 확인되었습니다.
 
-기존 적응증인 호흡기·피부 감염과 요로감염은 모두 세포벽을 가진 일반 세균 감염이라는 공통점이 있어, 기전상 확장이 자연스럽습니다. 다만 기존 허가 적응증이 이번 자료에서 명시적으로 확인되지 않았으므로, 기전에 근거한 확장으로 해석해야 합니다.
+급성 비합병증성 요로감염에서 cefprozil을 cefaclor와 비교한 RCT가 여러 편 있습니다. 한 연구에서는 임상 및 세균학적 치료율이 각각 94%, 93%로 cefaclor와 차이가 없었습니다. 따라서 기전과 직접적인 임상 비교 자료가 모두 이 예측을 뒷받침합니다.
+
+다만 현재 데이터에는 상세한 작용 기전(MOA) 항목이 비어 있어, 위 기전 설명은 문헌 내용에 근거한 것입니다.
 
 ## 임상시험 근거
 
-현재 요로감염과 관련하여 등록된 임상시험이 없습니다.
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [1611652](https://pubmed.ncbi.nlm.nih.gov/1611652/) | 1992 | RCT | Clin Ther | 급성 비복합성 요로감염에서 cefprozil 1일 1회와 cefaclor 1일 3회 비교 다기관 시험 |
-| [1952874](https://pubmed.ncbi.nlm.nih.gov/1952874/) | 1991 | RCT | Antimicrob Agents Chemother | 여대생 급성 요로감염 108명에서 임상 치유율 cefprozil 94%, cefaclor 94%로 차이 없음 |
-| [1761453](https://pubmed.ncbi.nlm.nih.gov/1761453/) | 1991 | RCT | J Antimicrob Chemother | 급성 비복합성 요로감염에서 cefprozil 500 mg 1일 1회와 cefaclor 비교 공개 무작위 시험 |
-| [7681376](https://pubmed.ncbi.nlm.nih.gov/7681376/) | 1993 | Review | Drugs | 항균 활성, 약동학, 치료적 잠재력 종합 고찰 |
-| [8464648](https://pubmed.ncbi.nlm.nih.gov/8464648/) | 1993 | Review | Pediatr Ann | 호흡기, 피부·연조직 감염에 대한 활성 및 낮은 위장관·피부 부작용 |
-| [8042575](https://pubmed.ncbi.nlm.nih.gov/8042575/) | 1994 | Review | Am Fam Physician | 피부, 호흡기, 요로 감염에서 신규 경구 세팔로스포린의 위치 |
-| [8529432](https://pubmed.ncbi.nlm.nih.gov/8529432/) | 1995 | In vitro | Chemotherapy | 대만 임상분리주 637건에서 대장균·폐렴막대균에 우수한 활성(8 mg/L에서 80% 이상 억제) |
-| [1494237](https://pubmed.ncbi.nlm.nih.gov/1494237/) | 1992 | Cohort | Jpn J Antibiot | 소아과 영역 약동학 및 임상 연구 |
-| [1289583](https://pubmed.ncbi.nlm.nih.gov/1289583/) | 1992 | Cohort | Jpn J Antibiot | 소아 급성 세균 감염 21명(요로감염 3명 포함)에서 19명 양호~우수 반응 |
+| [1611652](https://pubmed.ncbi.nlm.nih.gov/1611652/) | 1992 | RCT | Clinical Therapeutics | 급성 비합병증성 요로감염에서 cefprozil 1일 1회와 cefaclor 1일 3회를 10일간 비교한 다기관 무작위 시험 |
+| [1952874](https://pubmed.ncbi.nlm.nih.gov/1952874/) | 1991 | RCT | Antimicrob Agents Chemother | 여대생 108명 급성 요로감염에서 임상·세균학적 치료율이 cefprozil 94%/93%, cefaclor 94%/94%로 유사 |
+| [1761453](https://pubmed.ncbi.nlm.nih.gov/1761453/) | 1991 | RCT | J Antimicrob Chemother | 급성 비합병증성 요로감염에서 cefprozil 500 mg 1일 1회와 cefaclor 250 mg 1일 3회를 비교한 공개 무작위 시험 |
+| [7681376](https://pubmed.ncbi.nlm.nih.gov/7681376/) | 1993 | Review | Drugs | 항균 활성, 약동학, 치료적 잠재력에 대한 종설 |
+| [8464648](https://pubmed.ncbi.nlm.nih.gov/8464648/) | 1993 | Review | Pediatric Annals | 호흡기, 피부·연조직 감염에 대한 활성과 1일 1~2회 투여 가능성 정리 |
+| [8042575](https://pubmed.ncbi.nlm.nih.gov/8042575/) | 1994 | Review | Am Fam Physician | 신규 경구 세팔로스포린이 피부, 호흡기, 요로 감염의 대안이 될 수 있음 |
+| [8529432](https://pubmed.ncbi.nlm.nih.gov/8529432/) | 1995 | In vitro | Chemotherapy | 대만 분리균 637주 대상, 대장균과 K. pneumoniae에 우수한 활성 |
+| [1494237](https://pubmed.ncbi.nlm.nih.gov/1494237/) | 1992 | Cohort | Jpn J Antibiot | 소아 대상 검사실 및 임상 연구 |
+| [1289583](https://pubmed.ncbi.nlm.nih.gov/1289583/) | 1992 | Cohort | Jpn J Antibiot | 급성 세균 감염 소아 21명 중 19명에서 양호~우수한 반응 (요로감염 3건 포함) |
 
 ## 한국 시판 정보
 
+한국에는 단일제 허가증이 20건 있으며 모두 유효합니다. 아래는 주요 5건입니다. 허가 적응증 문구는 데이터에 텍스트로 기재되어 있지 않아 허가사항 원문을 참조해야 합니다.
+
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 200404706 | 세파질건조시럽 | 분말시럽제 | 허가 문서 링크로만 확인됨 (본문 미수록) |
-| 200402305 | 세로프건조시럽 | 분말시럽제 | 허가 문서 링크로만 확인됨 |
-| 200400642 | 킹세프정 | 필름코팅정 | 허가 문서 링크로만 확인됨 |
-| 200400510 | 로지세프정250밀리그램 | 필름코팅정 | 허가 문서 링크로만 확인됨 |
-| 200710957 | 프로세질정250밀리그램 | 필름코팅정 | 허가 문서 링크로만 확인됨 |
-
-총 20건 중 주요 5건만 표시했습니다. 모두 유효한 단일 성분제입니다.
+| 200404706 | 세파질건조시럽(세프프로질수화물) | 분말시럽제 | 허가사항 참조 |
+| 200402305 | 세로프건조시럽(세프프로질) | 분말시럽제 | 허가사항 참조 |
+| 200400642 | 킹세프정(세프프로질수화물) | 필름코팅정 | 허가사항 참조 |
+| 200402965 | 세란트건조시럽125mg/5mL(세프프로질수화물) | 분말시럽제 | 허가사항 참조 |
+| 200400786 | 삼아세프프로질건조시럽125mg/5mL(세프프로질수화물) | 분말시럽제 | 허가사항 참조 |
 
 ## 안전성 고려사항
 
-- **지식 그래프상 금기 질환** (허가사항이 아닌 모델 지식 그래프 기반): *Clostridium difficile* 대장염, 신생아 괴사성 장염, 선천성 프로트롬빈 결핍
-- **약물 상호작용**: 총 55건이 확인되었습니다. 중등도로 분류된 항목은 balsalazide, kanamycin, neomycin, streptomycin, picosulfuric acid입니다. 그 외 일부 항목(amoxicillin, 프로톤펌프억제제, 스테로이드 등)은 등급이 불명입니다.
+- **약물 상호작용**: 총 55건이 확인되었으며, 주요 항목은 다음과 같습니다.
+  - 중등도: balsalazide, kanamycin, neomycin, streptomycin, picosulfuric acid
+  - 등급 미상: acetylsalicylic acid, amoxicillin, pantoprazole, omeprazole, lansoprazole, cimetidine, metformin, prednisone 등
 
-허가사항상 경고 및 금기는 허가사항을 참조하세요.
+그 외 경고 및 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-급성 비복합성 요로감염에서 cefaclor와 비교한 무작위 시험 3편이 효능과 안전성을 지지하며, 기전도 타당합니다. 다만 시험이 1990년대 초반 자료이고 등록 임상시험이 없어 현재 내성 양상을 반영하지 못합니다.
+요로감염에서 cefprozil을 cefaclor와 비교한 RCT가 3편 있고 효능이 동등하게 보고되었습니다. 다만 모두 1990년대 연구이고 등록된 임상시험이 없으며, 안전성 정보가 충분하지 않습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기)과 기존 허가 적응증 원문 확인 (한국 MFDS 허가문서)
-- 상세한 작용 기전 데이터 확보
-- 최근 국내 요로 병원균 내성 데이터 반영
-- 비복합성 요로감염에 한정하여 사용하는 가이드라인 마련
-- *C. difficile* 대장염 병력 환자 및 상호작용 약물 병용 시 모니터링 계획
-
-## 참고: 다른 예측 적응증
-
-| 질환 | 근거 수준 | 권장 | 비고 |
-|------|----------|------|------|
-| 폐렴 | L1 (문헌 기반) | Proceed with Guardrails | 하기도 감염 비교시험 문헌 있음. 경증~중등도에 한정. 관련 소아 폐렴 Phase 4 시험(NCT06494072, 모집 중)은 cefprozil 특이적이지 않아 간접 근거 |
-| 후두염 | L3 | Research Question | 소규모 소아 임상 사례만 있음. 후두염 효과율 0%인 보고도 있음 |
-| 후두개염 | L5 | Hold | 기도 응급 질환으로 주사제 치료 필요 |
-| 임균성 요도염 | L5 | Hold | 경구 세팔로스포린 내성 증가, ceftriaxone 주사 선호 |
-| *Ureaplasma* 요도염 | L5 | Hold | 세포벽이 없어 기전상 비활성, 위양성 가능성 |
-| 황색육아종성 신우신염 | L5 | Hold | 주로 수술 치료, 근거 없음 |
-| 자궁 염증성 질환 | L5 | Hold | 혐기성균·클라미디아 커버 불가 |
-| 비뇨생식기 결핵 / 복부 결핵 | L5 | Hold | 결핵균은 세팔로스포린에 본질적 내성, 위양성 가능성 |
+- 허가사항(첨부문서)의 경고·금기 및 허가 적응증 확인
+- 현재 지역 내성 양상을 반영한 최신 감수성 데이터
+- 상세한 작용 기전(MOA) 데이터 보완
+- 특정 인구집단(소아, 신기능 저하 환자 등)에 대한 안전성 모니터링 계획
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

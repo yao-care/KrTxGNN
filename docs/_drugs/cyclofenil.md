@@ -4,17 +4,17 @@ title: Cyclofenil
 parent: 모델 예측만 (L5)
 nav_order: 239
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cyclofenil: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 한국 허가증의 적응증 정보가 링크 형태로만 확인되어 구체적인 허가 적응증 문구는 확인되지 않음 (일반적으로 배란 유도…"
 monitor_inn: "Cyclofenil"
-predicted_indications: ["Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "obsessive-compulsive disorder", "obsolete susceptibility to ischemic stroke", "insomnia (disease)", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "cerebral infarction"]
+predicted_indications: ["Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "obsessive-compulsive disorder", "insomnia (disease)", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "cerebral infarction"]
 ---
 
 # Cyclofenil
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **프린츠메탈 협심증(Prinzmetal angina)**에 효과가 �
 |------|------|
 | 기존 적응증 | 한국 허가증의 적응증 정보가 링크 형태로만 확인되어 구체적인 허가 적응증 문구는 확인되지 않음 (일반적으로 배란 유도, 폐경 증상에 사용되는 SERM) |
 | 예측 신규 적응증 | 프린츠메탈 협심증 (Prinzmetal angina) |
-| TxGNN 예측 점수 | 99.97% |
+| TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -58,9 +58,9 @@ TxGNN 모델은 **프린츠메탈 협심증(Prinzmetal angina)**에 효과가 �
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Cyclofenil은 SERM 계열 약물로, 에스트로겐 수용체를 조절하여 배란 유도와 폐경 증상 완화에 쓰입니다.
 
-프린츠메탈 협심증(혈관경련성 협심증)과의 연결 고리는 확립되어 있지 않습니다. 에스트로겐이 혈관 내피 기능과 혈관 긴장도에 영향을 줄 수 있다는 가설은 가능하나, 이는 추측일 뿐 이번에 수집된 데이터로는 뒷받침되지 않습니다. 따라서 0.9997이라는 높은 점수는 지식 그래프 기반의 계산 예측으로만 해석해야 합니다.
+프린츠메탈 협심증(혈관경련성 협심증)과의 연결 고리는 확립되어 있지 않습니다. 에스트로겐이 혈관 내피 기능과 혈관 긴장도에 영향을 줄 수 있다는 가설은 가능하나, 이는 추측일 뿐 이번에 수집된 데이터로는 뒷받침되지 않습니다. 따라서 0.9997이라는 높은 점수는 TxGNN 모델(딥러닝)의 계산 예측으로만 해석해야 하며, 이 점수는 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
-참고로 같은 약물에 대해 신장성 항이뇨호르몬 부적절 분비 증후군, 강박장애, 불면증, 뇌경색, 여러 성격장애 등도 예측되었으나, 모두 임상시험과 문헌이 없고 기전적 연결도 확인되지 않았습니다. 특히 성격장애 4종은 점수가 동일하여 그래프 구조에서 비롯된 인공적 결과일 가능성이 있습니다.
+참고로 같은 약물에 대해 신장성 항이뇨호르몬 부적절 분비 증후군, 강박장애, 불면증, 뇌경색, 여러 성격장애 등도 예측되었으나, 모두 임상시험과 문헌이 없고 기전적 연결도 확인되지 않았습니다. 특히 성격장애 4종은 점수가 동일하여 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성이 반영된 결과일 가능성이 있으며, 이는 생물학적 근거가 아닙니다.
 
 ## 한국 시판 정보
 

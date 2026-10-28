@@ -4,17 +4,17 @@ title: Capreomycin
 parent: 모델 예측만 (L5)
 nav_order: 178
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Capreomycin: 예측 신규 적응증 통풍 (Gout) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않고 외부 문서 링크만 있어 확인 불가 (일반적으로 다제내성 결핵에 사용되는 약물)"
+indication_count: 9
 monitor_inn: "Capreomycin"
-predicted_indications: ["gout", "rheumatoid arthritis", "osteoarthritis", "osteoarthritis susceptibility", "sclerosing cholangitis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "meningococcal infection", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type"]
+predicted_indications: ["gout", "rheumatoid arthritis", "osteoarthritis", "sclerosing cholangitis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "meningococcal infection", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type"]
+last_modified_at: 2026-10-27
+description: "Capreomycin: 예측 신규 적응증 통풍 (gout) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104025/EE"
 ---
 
 # Capreomycin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,75 +33,62 @@ predicted_indications: ["gout", "rheumatoid arthritis", "osteoarthritis", "osteo
 
 </div>
 
-## Capreomycin: 결핵에서 통풍으로
+## Capreomycin: 고리형 펩타이드 항결핵 항생제 → 통풍 (gout)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Capreomycin은 환자에게 투여하는 주사용 항결핵 항생제로, 한국에서는 수출용 제품으로 허가되어 있습니다. TxGNN 모델은 **통풍(gout)**에 효과가 있을 수 있다고 예측하지만, 현재 이 방향을 지지하는 **임상시험은 0건**, **문헌도 0편**입니다. 따라서 모델 예측만 있는 단계로, 보류(Hold)를 권고합니다.
+Capreomycin은 다제내성 결핵 치료에 쓰이는 고리형 펩타이드 계열 주사용 항생제입니다.
+TxGNN 모델은 **통풍(gout)**에 효과가 있을 수 있다고 예측했지만, 현재 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 제공되지 않고 외부 문서 링크만 있어 확인 불가 (일반적으로 다제내성 결핵에 사용되는 약물) |
-| 예측 신규 적응증 | 통풍 (Gout) |
-| TxGNN 예측 점수 | 99.91% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104025/EE |
+| 예측 신규 적응증 | 통풍 (gout) |
+| TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 (수출용) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Capreomycin은 고리형 펩타이드 계열의 항생제로, 세균의 단백질 합성을 억제하여 다제내성 결핵 치료에 사용됩니다. 현재 이 약의 상세한 작용 기전 데이터는 확보되지 않았습니다.
+현재 상세한 작용 기전 데이터가 없습니다. Capreomycin은 세균의 단백질 합성을 억제하는 것으로 알려진 항생제이며, 다제내성 결핵 치료에 사용됩니다.
 
-통풍은 요산 대사 이상과 결정에 의한 염증이 원인인 질환입니다. 제공된 데이터만으로는 Capreomycin과 요산 대사 또는 통풍성 염증 사이의 타당한 연결고리를 찾을 수 없습니다. 99.91%라는 높은 점수는 지식 그래프상의 근접성에 기반한 예측일 뿐, 생물학적 근거로 뒷받침되지 않습니다.
+통풍은 요산 대사 이상과 이로 인한 염증성 관절염이 핵심입니다. 이번 자료에서는 capreomycin과 요산 대사 또는 통풍성 염증을 연결할 만한 기전을 찾을 수 없었습니다. 예측 점수가 높더라도 이는 모델의 계산 결과일 뿐, 생물학적 근거로 확인된 것은 아닙니다.
 
-또한 이 약은 신독성과 이독성 우려가 있는 주사제입니다. 만성적이고 생명을 위협하지 않는 통풍에 사용하기에는 위험 대비 이익이 불리합니다.
-
-### 참고: 기타 예측 적응증
-
-데이터에 포함된 다른 예측 적응증도 모두 L5 수준이며, 임상시험과 문헌 근거가 없어 Hold로 판정되었습니다.
-
-| 순위 | 예측 적응증 | TxGNN 점수 | 비고 |
-|-----|-----------|-----------|------|
-| 2 | 류마티스 관절염 | 99.85% | 면역조절 기전 근거 없음 |
-| 3 | 골관절염 | 99.74% | 연골 퇴행과의 기전적 연관성 불분명 |
-| 4 | 골관절염 감수성 | 99.74% | 유전적 감수성 표현형으로, 치료 적응증이 아님 |
-| 5 | 경화성 담관염 | 99.65% | 관련 기전 없음 |
-| 6 | 단지증-합지증 증후군 | 99.63% | 선천성 기형, 항생제로 병리 변화 기대 어려움 |
-| 7 | 결손성 소안구증-근위지단 이형성 증후군 | 99.63% | 선천성 발달 증후군, 기전 불명 |
-| 8 | 수막구균 감염 | 99.57% | 유일하게 항균제로서 명목상 근거가 있으나, 기존 치료제가 충분하고 중추신경계 투과가 불량함 |
-| 9 | 가성연골무형성증 | 99.53% | COMP 변이 질환, 연관 근거 없음 |
-| 10 | 말단중간형 이형성증 (Hunter-Thompson형) | 99.52% | GDF5 경로 질환, 연관 근거 없음 |
+또한 신독성과 이독성이 알려진 주사제이므로, 만성이면서 생명을 위협하지 않는 질환인 통풍에는 위험 대비 이익이 불리할 것으로 보입니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201104025 | 카프레신주(카프레오마이신황산염)(수출용) | 백색~엷은 황백색 분말이 들어 있는 무색 바이알제 | 허가증에 적응증 원문 없음 (외부 문서 링크만 제공) |
+| 201104025 | 카프레신주(카프레오마이신황산염)(수출용) | 백색~엷은 황백색 분말이 들어 있는 무색 바이알제 | 적응증 텍스트 미기재 |
+
+허가증은 1건이며 단일 성분 제제로 유효 상태입니다. 수출용 제품입니다.
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 58건이 확인되었으며, 주요 항목은 다음과 같습니다.
-  - **Major(중대)**: Kanamycin, Neomycin (아미노글리코side 계열과의 병용 시 신독성·이독성 위험 가중 가능)
-  - **Moderate(중등도)**: Amphotericin B 제제 (일반, 지질 복합체, 콜레스테릴 황산염, 리포좀), 코르티코스테로이드 (Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone, Beclomethasone), 양성자펌프억제제 (Omeprazole, Esomeprazole, Lansoprazole, Dexlansoprazole, Rabeprazole), 5-ASA 계열 (Mesalazine, Balsalazide, Olsalazine), Exenatide
+**약물 상호작용**: 조회 결과 총 58건이 확인되었습니다. 이 중 주요 항목은 다음과 같습니다.
+- **Major(중대)**: Kanamycin, Neomycin. 둘 다 아미노글리코시드 계열로, 신독성·이독성이 겹칠 수 있습니다.
+- **Moderate(중등도)**: Amphotericin B 제제(일반, 지질복합체, 콜레스테릴황산염, 리포좀), 스테로이드(Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone, Beclomethasone), 프로톤펌프억제제(Omeprazole, Esomeprazole, Lansoprazole, Rabeprazole, Dexlansoprazole), 5-ASA 계열(Mesalazine, Balsalazide, Olsalazine), Exenatide
 
-경고 및 금기 사항은 허가사항을 참조하세요.
+그 밖의 경고 및 금기는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-모든 예측 적응증에서 임상시험과 문헌 근거가 없고(L5), 기전적 연결고리도 확인되지 않습니다. 신독성과 이독성 우려가 있는 주사제라는 점도 만성 질환 적용에 불리합니다.
+통풍에 대한 임상시험과 문헌이 전혀 없고, 기전상 연결고리도 확인되지 않아 근거는 모델 예측뿐입니다(L5). 신독성·이독성 우려가 있는 주사제라는 점도 불리합니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고, 금기, 기존 적응증)의 확보 및 분석 (현재는 외부 문서 링크만 확인됨)
-- 작용 기전(MOA) 데이터 확보
-- 통풍 등 예측 적응증과의 생물학적 연관성을 뒷받침하는 전임상 또는 문헌 근거
-- 수막구균 감염을 추가 검토한다면, 시험관 내 감수성 자료를 우선 확보
+- 허가사항(경고·금기) 확보 및 분석
+- 작용 기전(MOA) 데이터 보완
+- 통풍과의 생물학적 연관성을 보여 주는 전임상 또는 기전 연구
+- 통풍 대상의 임상시험 또는 문헌 근거
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

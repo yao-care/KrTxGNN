@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 660
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Ritonavir: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며, 적응증 본문 텍스트는 확보되지 않았습니다"
 monitor_inn: "RITONAVIR"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-23
+description: "Ritonavir: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (근거 수준 L5). 기존 적응증: 허가 적응증 문구가 PDF 링크로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없음"
 ---
 
 # Ritonavir
@@ -33,81 +33,69 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-## Ritonavir: HIV 감염에서 원숭이 면역결핍 바이러스(SIV) 감염으로
+## Ritonavir: HIV 감염에서 고양이 후천성 면역결핍 증후군으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Ritonavir는 HIV-1 프로테아제 억제제로, 한국에서 '노비르정'으로 허가되어 시판되고 있습니다.
-TxGNN 모델은 **원숭이 면역결핍 바이러스 감염(Simian Immunodeficiency Virus Infection)**에 효과가 있을 수 있다고 예측하며, 현재 **임상시험은 0건**이고 **문헌 10편**(대부분 동물 모델·시험관 연구)이 있습니다.
-다만 이 예측은 이미 알려진 항레트로바이러스 관계를 반영한 것이어서, 사람 대상의 새로운 재창출 신호로 보기는 어렵습니다.
+Ritonavir는 HIV-1 단백분해효소 억제제로 알려진 약물이며, 한국에는 단일 성분 제제로 허가되어 있습니다. TxGNN 모델은 **고양이 후천성 면역결핍 증후군(feline acquired immunodeficiency syndrome)**에 효과가 있을 수 있다고 예측하지만, 이 질환에 대한 임상시험과 문헌은 **0건**입니다. 이 예측은 모델 예측 수준(L5)에 머무르며, 수의학 적응증이라 인체 약물 재창출 범위 밖입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되며, 적응증 본문 텍스트는 확보되지 않았습니다 |
-| 예측 신규 적응증 | 원숭이 면역결핍 바이러스 감염 (Simian Immunodeficiency Virus Infection) |
-| TxGNN 예측 점수 | 99.92% |
-| 근거 수준 | L4 (전임상·기전 연구만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 1건 |
+| 기존 적응증 | 허가 적응증 문구가 PDF 링크로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없음 |
+| 예측 신규 적응증 | 고양이 후천성 면역결핍 증후군 |
+| TxGNN 예측 점수 | 0.9992 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가 건수 | 1건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ritonavir는 HIV-1 프로테아제 억제제이며, 한국에서 단일제로 허가되어 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 다만 일반적으로 ritonavir는 HIV-1 단백분해효소 억제제로 알려져 있으며, 고양이 면역결핍 바이러스(FIV)도 구조적으로 관련된 단백분해효소를 가지고 있어 기전상 연관성을 생각해 볼 수 있습니다.
 
-SIV는 HIV와 유사한 렌티바이러스로, 프로테아제도 서로 상동성이 있습니다. 시험관 연구에서 SIVmac239는 ritonavir에 의해 억제되었고(50% 유효농도 약 13 nM, HIV-1은 약 25 nM), 원숭이 모델에서도 프로테아제 억제제를 포함한 복합 항레트로바이러스 요법이 연구되었습니다. 이는 생물학적 타당성을 뒷받침합니다.
+그러나 FIV 단백분해효소는 HIV-1과 기질 특이성 및 억제제 감수성이 다르며, HIV 단백분해효소 억제제에 대한 FIV의 감수성 저하가 보고된 바 있습니다. 0.9992의 TxGNN 점수는 모델 예측일 뿐 실제 연구로 뒷받침되지 않습니다. 또한 이 질환은 동물(수의학) 적응증입니다.
 
-그러나 SIV 감염은 사람의 질병이 아니라 HIV의 수의학·전임상 모델입니다. 높은 예측 점수는 새로운 재창출 신호라기보다 기존 항레트로바이러스 관계를 반영한 결과로 보는 것이 합리적입니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/) | 2003 | 시험관 감수성 연구 | Antimicrob Agents Chemother | SIVmac239가 ritonavir(약 13 nM)를 포함한 프로테아제 억제제에 의해 억제되며, HIV-1과 유사한 감수성을 보임 |
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | 시험관 감수성 연구 | Antivir Ther | HIV-2, SIV, SHIV에 대한 승인 항HIV 약물 16종의 활성 평가 |
-| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | 전임상(동물, 복합 ART) | J Virol | SIV 감염 마카크에서 4제 항레트로바이러스 요법 시 빠른 바이러스 감소 |
-| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | 전임상(동물, 강화 ART) | PLoS Pathog | SIVmac251 감염 마카크에서 강화 ART가 장기 바이러스 억제와 저장소 제한을 유도 |
-| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | 전임상(동물, ART+HDAC 억제제) | PLoS One | SIV 감염 붉은털원숭이에서 ART와 SAHA 병용 효과 평가 |
-| [12951220](https://pubmed.ncbi.nlm.nih.gov/12951220/) | 2003 | 전임상(동물, 경구 HAART) | J Virol Methods | SHIV 감염 원숭이에서 AZT, 3TC, lopinavir/ritonavir 경구 투여가 CD8 하위집단에 미치는 영향 |
-| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | 전임상(동물 모델) | mBio | 효과적인 ART에도 렌티바이러스가 뇌에 지속됨 |
-| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | 전임상(SHIV 모델 구축) | Microbes Infect | HIV-1 유래 프로테아제를 가진 SHIV 제작, 프로테아제 억제제의 생체 내 효능 평가 도구로 활용 가능 |
+참고로 같은 점수대에서 다음 후보도 예측되었습니다.
+- **시미안 면역결핍 바이러스 감염(SIV)**: 마카크 원숭이 전임상 연구와 시험관 감수성 연구 문헌이 있으나, SIV는 HIV의 동물 모델이어서 새로운 인체 적응증이라기보다 연구 도구로서의 가치가 큽니다. (예: PMID 12709355는 SIV가 ritonavir 등 단백분해효소 억제제에 의해 억제됨을 보고했습니다.)
+- **운동실조 보행·언어 소실·피질 백질 감소를 동반한 신경발달장애**: 단백분해효소 억제와의 기전적 연관성이 확인되지 않아 모델 산물일 가능성이 높습니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201106064 | 노비르정(리토나비르) | 흰색의 장방형 필름코팅정 | 허가 문서 링크만 확인되며 적응증 본문은 확보되지 않았습니다 |
+| 201106064 | 노비르정(리토나비르) | 흰색의 장방형 필름코팅정 | 적응증 텍스트가 PDF 링크로만 제공됨 |
+
+허가 정보는 단일 성분 제제 1건(한국애브비)이며, 시판 여부(취소 상태)는 확인되지 않았습니다.
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건의 상호작용이 확인되었습니다. 주요(Major) 등급 예시는 loperamide, triamcinolone, budesonide이며, 중등도(Moderate) 등급에는 acarbose, metformin, hydrocortisone, dexamethasone, clarithromycin, bupropion, aprepitant 등이 포함됩니다.
-- **지식그래프 기반 금기 질환 (허가사항이 아닌 모델 데이터)**: QT 연장 증후군, 심실빈발성 부정맥(torsades de pointes), 췌장염, 간질환·간경변, 담낭질환, 고혈당·당뇨병, 고중성지방혈증, 통풍, 고빌리루빈혈증, 심장 전도장애, 관상동맥질환, 심근병증, 혈우병 등이 연결되어 있습니다.
+허가사항의 경고 및 금기 정보는 이번에 수집된 자료에 없으므로 허가사항을 참조하세요.
 
-정확한 경고 및 금기는 허가사항을 참조하세요.
+**지식그래프에 기록된 금기 관계** (허가 문서가 아닌 TxGNN 지식그래프 기반):
+- 심장·전도계: QT 연장 증후군, 가족성 QT 연장 증후군, torsades de pointes, 급성 심정지, 심장 전도 질환, 방실 차단, 심근 허혈, 관상동맥 질환, 심근병증
+- 간·담도·췌장: 췌장염, 간 질환, 간경변, 담낭 질환, 고빌리루빈혈증, 길버트 증후군, 만성 B형 간염
+- 대사: 고혈당, 당뇨병, 당뇨병성 케톤산증, 고중성지방혈증, 고지혈증, 통풍, 칼륨 결핍
+- 기타: 혈우병
+
+**약물 상호작용** (DDInter 기준, 총 100건 중 일부):
+- 주요(Major): Loperamide, Triamcinolone, Budesonide
+- 중등도(Moderate): Acarbose, Hydrocortisone, Metformin, Alosetron, Bupropion, Aprepitant, Dexamethasone, Clarithromycin, Metronidazole 등
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-SIV 감염은 사람의 질병이 아닌 HIV의 동물 모델이며, 임상시험이 없고 문헌도 전임상·시험관 연구에 한정됩니다. 높은 예측 점수(99.92%)는 기존 항HIV 관계를 반영한 것으로 보이며, 사람 대상의 새로운 적응증으로서의 가치는 제한적입니다.
-
-**참고 (기타 예측 적응증):**
-- 고양이 후천성 면역결핍 증후군은 근거가 전혀 없고 FIV 프로테아제가 HIV-1과 달라 교차 활성을 가정할 수 없어, 예측 단계(L5)에 머뭅니다.
-- 희귀 신경발달 장애(운동실조 보행, 언어 상실, 대뇌 백질 감소)는 기전상 연관성이 확인되지 않아 모델 산출물일 가능성이 높습니다.
+고양이 후천성 면역결핍 증후군에 대한 임상시험과 문헌이 전혀 없고 점수는 모델 예측에 불과합니다. 또한 수의학 적응증이어서 인체 약물 재창출 범위를 벗어나며, FIV 단백분해효소의 감수성 차이도 우려됩니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(PDF)을 확보하여 적응증, 경고, 금기 확인
-- DrugBank에서 작용 기전(MOA) 데이터 보충
-- 사람 질환 대상의 재창출 후보 재검토 (SIV는 전임상 모델로서의 활용 목적에 한정하여 평가)
-- 방대한 약물 상호작용(100건)을 고려한 안전성 평가 계획 수립
+- 허가사항(경고·금기·적응증) 확보: 식약처(MFDS) 허가 PDF를 내려받아 분석
+- 작용 기전(MOA) 데이터 보충: DrugBank 조회
+- FIV 단백분해효소에 대한 ritonavir의 시험관/동물 효능 자료
+- 인체 재창출이 목적이라면 인체 질환 중심의 후보 재선정 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

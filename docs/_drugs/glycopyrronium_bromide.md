@@ -8,6 +8,7 @@ nav_order: 391
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Glycopyrronium Bromide
@@ -53,7 +54,7 @@ Glycopyrronium Bromide는 항콜린성 약물로 알려진 성분입니다.
 | 예측 신규 적응증 | TxGNN 예측 결과 없음 |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (예측 없음, 실제 연구 근거 미확인) |
-| 한국 시판 현황 | 미시판 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

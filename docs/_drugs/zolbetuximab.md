@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Zolbetuximab
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 793
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Zolbetuximab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: HER2 음성, CLDN18.2 양성의 절제 불가능한 진행성/재발성 위암 (위식도접합부암 포함)"
+description: "Zolbetuximab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Zolbetuximab"
-predicted_indications: ["diabetic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "craniostenosis cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic retinopathy"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Zolbetuximab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +35,16 @@ predicted_indications: ["diabetic cataract", "mature cataract", "diabetes mellit
 
 </div>
 
-## Zolbetuximab: 위암에서 당뇨병성 백내장으로
+## Zolbetuximab
 {: .text-alpha }
-
-## 한 문장 요약
-
-Zolbetuximab은 Claudin 18.2(CLDN18.2)를 표적으로 하는 단클론항체로, 원래 CLDN18.2 양성 진행성 위암 및 위식도접합부암 치료에 사용되었습니다.
-TxGNN 모델은 **당뇨병성 백내장(Diabetic Cataract)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다. 모델 예측만 존재하는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | HER2 음성, CLDN18.2 양성의 절제 불가능한 진행성/재발성 위암 (위식도접합부암 포함) |
-| 예측 신규 적응증 | 당뇨병성 백내장 (Diabetic Cataract) |
-| TxGNN 예측 점수 | 98.49% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600619/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402279/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-Zolbetuximab은 밀착연접(tight junction) 단백질인 CLDN18.2를 표적으로 하는 단클론항체입니다. CLDN18.2는 위 점막과 위·위식도접합부 종양에서 발현됩니다. 이 약은 2024년 일본에서 처음 승인되었고, 이후 유럽과 미국에서도 승인되었습니다. 현재 상세한 작용 기전 데이터는 이번 보고서용으로 수집된 자료에 포함되어 있지 않습니다.
-
-기존 적응증(위암)과 예측 신규 적응증(당뇨병성 백내장) 사이에서 확립된 기전적 연관성은 확인되지 않았습니다. CLDN18.2 표적화가 수정체 혼탁이나 당뇨병성 안구 합병증과 연결된다는 알려진 생물학적 근거가 없습니다. 당뇨병성 백내장은 고혈당에 따른 폴리올 경로 등 대사성 기전과 관련되어 있어 CLDN18.2 표적화와 무관합니다.
-
-따라서 0.985라는 높은 점수는 생물학적 근거보다 지식 그래프 수준의 연관성에서 비롯되었을 가능성이 큽니다. 실제로 여러 백내장 아형이 동일한 점수(0.9841)를 보이는데, 이는 그래프 전파에 따른 인위적 결과일 가능성을 시사합니다. 상위 10개 예측은 모두 백내장 아형 또는 당뇨병성 망막병증으로, 이들 모두 같은 한계를 가집니다.
 
 ## 한국 시판 정보
 
@@ -83,22 +68,10 @@ Zolbetuximab은 밀착연접(tight junction) 단백질인 CLDN18.2를 표적으�
 ## 안전성 고려사항
 
 - **약물 상호작용**: 이번 보고서용으로 수집된 데이터에서는 약리학적 표적 상호작용으로 CLDN18(claudin 18)만 확인되었습니다. 이는 약물 간 상호작용이 아니라 이 약의 작용 표적에 해당합니다.
-- **기타 우려**: 위 조직에 한정된 표적에 작용하는 세포 파괴성 항체이므로, 안구 질환에서 이득 없이 오심·구토, 과민반응 등의 위험만 부담할 수 있습니다. 특히 당뇨병성 망막병증 예측에도 해당합니다.
+- **기타 우려**: 위 조직에 한정된 표적에 작용하는 세포 파괴성 항체이므로, 안구 질환에서 이득 없이 오심·구토, 과민반응 등의 위험만 부담할 수 있습니다.
 
 그 외 경고 및 금기 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-당뇨병성 백내장에 대한 예측은 모델 점수에만 근거하며(L5), 임상시험과 문헌이 전혀 없고 생물학적 연관성도 확인되지 않습니다. 안구 질환에서 이 약의 이득이 불분명한 반면, 전신 투여 시 위장관 이상반응과 과민반응 같은 위험은 존재합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고·금기) 확보: MFDS 허가사항 PDF를 내려받아 분석 (현재 안전성 검토 진행을 막는 항목)
-- 상세한 작용 기전(MOA) 데이터 확보 (DrugBank 조회)
-- CLDN18.2와 수정체 또는 당뇨병성 안구 합병증 사이의 생물학적 연관성을 입증하는 전임상 근거
-- 전신 투여 외 투여 경로 적합성 검토 (현재 미평가)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

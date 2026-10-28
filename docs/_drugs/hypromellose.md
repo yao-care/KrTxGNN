@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Hypromellose
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 408
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Hypromellose: 예측 신규 적응증 간정맥폐쇄성 질환-면역결핍 증후군 (hepatic veno-occlusive disease-immunodeficiency s… (근거 수준 L5). 기존 적응증: 눈물 분비 부족 및 점액 부족에 의한 눈의 건조"
+description: "Hypromellose: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Hypromellose"
-predicted_indications: ["hepatic veno-occlusive disease-immunodeficiency syndrome", "pancytopenia due to IKZF1 mutations", "hepatic veno-occlusive disease", "combined immunodeficiency due to CRAC channel dysfunction", "absent thumb-short stature-immunodeficiency syndrome", "facial dysmorphism-immunodeficiency-livedo-short stature syndrome", "immuno-osseous dysplasia", "psoriasis", "autoinflammatory syndrome with pyogenic bacterial infection and amylopectinosis", "human herpesvirus 8-related tumor"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Hypromellose
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,42 +35,16 @@ predicted_indications: ["hepatic veno-occlusive disease-immunodeficiency syndrom
 
 </div>
 
-## Hypromellose: 안구건조증에서 간정맥폐쇄성 질환-면역결핍 증후군으로
+## Hypromellose
 {: .text-alpha }
-
-## 한 문장 요약
-
-Hypromellose는 셀룰로오스 유래 점도 증강 물질로, 원래 눈물 분비 부족 및 점액 부족에 의한 눈의 건조 치료(인공눈물)에 사용되었습니다.
-TxGNN 모델은 **간정맥폐쇄성 질환-면역결핍 증후군(hepatic veno-occlusive disease-immunodeficiency syndrome)**에 효과가 있을 수 있다고 예측하지만, 현재 이 방향을 지지하는 **임상시험은 0건, 문헌도 0편**입니다.
-이 예측은 모델 점수에만 근거하며, 기전적으로도 타당한 연결 고리가 확인되지 않습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 눈물 분비 부족 및 점액 부족에 의한 눈의 건조 |
-| 예측 신규 적응증 | 간정맥폐쇄성 질환-면역결핍 증후군 (hepatic veno-occlusive disease-immunodeficiency syndrome) |
-| TxGNN 예측 점수 | 98.30% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | 이 약은 눈물 분비 부족 및 점액부족에 의한 눈의 건조에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903256/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903257/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204637/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903255/EE; https://nedrug.mfds. |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 12건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Hypromellose는 안구 표면에 국소 적용되는 점도 증강제 겸 윤활제이며, 전신 흡수가 거의 없습니다. 눈물막을 안정화하여 건조로 인한 자극감과 작열감을 완화하는 물리적 작용이 중심입니다.
-
-반면 예측된 신규 적응증은 SP110 변이와 관련된 희귀 유전성 면역결핍 질환으로, 간 침범을 동반합니다. 안구 건조와는 병태생리상 접점이 없고, 국소 윤활제가 유전적 원인이나 면역 이상을 교정할 수 있다고 볼 근거도 없습니다.
-
-따라서 이 예측의 높은 점수는 생물학적 관련성보다 지식 그래프의 네트워크 구조에서 비롯된 인위적 결과일 가능성이 큽니다. 상위 10개 예측(범혈구감소증, 간정맥폐쇄성 질환, 복합 면역결핍 등) 모두 같은 한계를 보이며, 건선만 부형제 또는 수화제로서의 약한 간접 연관성이 언급되지만 치료 효과를 뒷받침하지는 않습니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
@@ -86,19 +62,6 @@ TxGNN 모델은 **간정맥폐쇄성 질환-면역결핍 증후군(hepatic veno-
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-TxGNN 점수는 높지만(98.30%), 임상시험과 문헌이 전혀 없고 기전적 연결도 확인되지 않아 근거 수준이 L5에 머뭅니다. Hypromellose는 전신 노출이 거의 없는 국소 안과용 윤활제여서, 전신 유전 질환에 대한 재창출 가능성은 매우 낮습니다.
-
-**진행하려면 필요한 것:**
-- 예측 질환과 Hypromellose를 잇는 생물학적 기전 가설 및 전임상 근거
-- 상세한 약물 작용 기전(MOA) 데이터
-- 허가사항(경고, 금기, 상호작용) 확보 후 안전성 검토
-- 투여 경로 적합성 평가(국소 점안제 대 전신 치료 필요성)
-- 현재로서는 추가 자원 투입보다 다른 후보를 우선 검토할 것을 권장
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

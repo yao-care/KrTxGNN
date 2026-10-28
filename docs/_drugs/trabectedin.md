@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Trabectedin
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 749
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Trabectedin: 예측 신규 적응증 여성 유방암 (Female Breast Carcinoma) (근거 수준 L3). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
@@ -14,7 +14,7 @@ predicted_indications: ["female breast carcinoma"]
 # Trabectedin
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **1** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
 | 예측 신규 적응증 | 여성 유방암 (Female Breast Carcinoma) |
-| TxGNN 예측 점수 | 99.73% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9973 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 

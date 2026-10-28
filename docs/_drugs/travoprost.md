@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Travoprost: 예측 신규 적응증 내장 칼시필락시스 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: 녹내장 및 고안압증 (허가 적응증 원문은 허가증 링크로만 제공되어 일반적인 허가 용도로 기재)"
 monitor_inn: "Travoprost"
-predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
+predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
 ---
 
 # Travoprost
@@ -48,9 +48,9 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 |------|------|
 | 기존 적응증 | 녹내장 및 고안압증 (허가 적응증 원문은 허가증 링크로만 제공되어 일반적인 허가 용도로 기재) |
 | 예측 신규 적응증 | 내장 칼시필락시스 (visceral calciphylaxis) |
-| TxGNN 예측 점수 | 99.99998% |
+| TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Travoprost는 프로스타글란딘 F2-알파 유사체로 FP 수용체를 활성화하며, 안구 조직에서 혈관 확장 작용을 보입니다. 안압 하강은 포도막공막 유출 증가로 일어나는 것으로 알려져 있습니다.
 
-칼시필락시스(석회화 요독성 세동맥병증)와의 연결은 지식 그래프에 기반한 계산적 예측일 뿐입니다. 전신 혈관 석회화는 안구 국소 투여 약물과 기전상 거리가 멀고, 전임상·임상·문헌 근거가 없습니다. 따라서 이 예측은 현재로서는 가설 수준입니다.
+칼시필락시스(석회화 요독성 세동맥병증)와의 연결은 TxGNN 모델(딥러닝)의 계산적 예측일 뿐이며, 이 점수는 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 전신 혈관 석회화는 안구 국소 투여 약물과 기전상 거리가 멀고, 전임상·임상·문헌 근거가 없습니다. 따라서 이 예측은 현재로서는 가설 수준입니다.
 
 상위 예측 질환(흉곽출구증후군, 혈관 질환, 위 혈관이형성증, 청색 발가락 증후군, 림프관확장증, 자발성 관상동맥 박리, 혈관내피종 등)도 대부분 혈관 질환 연관성에서 비롯된 것으로 보이며, 실제 근거는 없습니다. 위 혈관이형성증에서는 전신 혈관 확장이 출혈을 악화시킬 가능성도 이론적으로 제기됩니다.
 

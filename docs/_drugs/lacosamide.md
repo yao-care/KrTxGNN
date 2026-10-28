@@ -48,9 +48,9 @@ TxGNN 모델은 **조증 양극성장애(manic bipolar affective disorder)**에 
 |------|------|
 | 기존 적응증 | 항전간제(간질 발작 치료). 허가 적응증 본문은 링크 형태로만 확인되어 문구를 인용하지 못했습니다 |
 | 예측 신규 적응증 | 조증 양극성장애 (manic bipolar affective disorder) |
-| TxGNN 예측 점수 | 99.96% (전체 순위 1,349위) |
-| 근거 수준 | L3 (관찰 연구 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9996 (전체 순위 1,349위) |
+| 근거 수준 | L5 (관찰 연구 수준) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 18건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 

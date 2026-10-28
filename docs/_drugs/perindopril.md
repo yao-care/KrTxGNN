@@ -4,7 +4,7 @@ title: Perindopril
 parent: 모델 예측만 (L5)
 nav_order: 593
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Perindopril: 예측 신규 적응증 악성 고혈압성 신장질환 (Malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 원문이 이번 데이터에 수록되지 않음)"
 monitor_inn: "perindopril"
@@ -14,7 +14,7 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 # Perindopril
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **악성 고혈압성 신장질환(Malignant hypertensive renal 
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증 원문이 이번 데이터에 수록되지 않음) |
 | 예측 신규 적응증 | 악성 고혈압성 신장질환 (Malignant hypertensive renal disease) |
-| TxGNN 예측 점수 | 99.77% |
+| TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 (임상시험 없음, 직접 관련 문헌 없음, 모델 예측과 기전적 추론 위주) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 6건 |
 | 권장 결정 | Hold |
 
@@ -101,7 +101,7 @@ ACE 억제제는 고혈압성 신장질환과 단백뇨성 신장질환에서 �
 **결정: Hold**
 
 **사유:**
-TxGNN 점수(99.77%)는 높지만 해당 적응증에 대한 임상시험이 없고 직접 관련된 문헌도 없습니다. 안전성 측면에서도 신장 관련 위험(급성 신손상, 고칼륨혈증, 신동맥 협착)이 있어 현 단계에서는 연구 질문 수준으로 보는 것이 적절합니다.
+TxGNN 점수(0.9977)는 높지만 해당 적응증에 대한 임상시험이 없고 직접 관련된 문헌도 없습니다. 안전성 측면에서도 신장 관련 위험(급성 신손상, 고칼륨혈증, 신동맥 협착)이 있어 현 단계에서는 연구 질문 수준으로 보는 것이 적절합니다.
 
 **진행하려면 필요한 것:**
 - 한국 허가사항(첨부문서)의 적응증, 경고, 금기 확인 (MFDS 허가 PDF 확보 및 분석)

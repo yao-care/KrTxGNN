@@ -4,17 +4,17 @@ title: Cilazapril
 parent: 모델 예측만 (L5)
 nav_order: 213
 evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-15
-description: "Cilazapril: 예측 신규 적응증 폐질환 및/또는 저산소증으로 인한 폐고혈압 (Pulmonary hypertension owing to lung disease… (근거 수준 L5). 기존 적응증: 고혈압, 울혈성 심부전 (허가증에는 문서 링크만 제공되어 있어, 약리 데이터의 임상 사용 정보를 참고함)"
+indication_count: 3
 monitor_inn: "cilazapril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
+last_modified_at: 2026-10-27
+description: "Cilazapril: 예측 신규 적응증 원인이 불분명한 다요인성 폐고혈압 (pulmonary hypertension with unclear multifactorial mechanism) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300660/EE"
 ---
 
 # Cilazapril
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **4** 건
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,61 +33,46 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 
 </div>
 
-## Cilazapril: 고혈압에서 저산소증/폐질환 관련 폐고혈압으로
+## Cilazapril: ACE 억제제 → 원인이 불분명한 다요인성 폐고혈압 (pulmonary hypertension with unclear multifactorial mechanism)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Cilazapril은 ACE 억제제로, 원래 고혈압과 울혈성 심부전 치료에 사용되는 약물입니다.
-TxGNN 모델은 **폐질환 및/또는 저산소증으로 인한 폐고혈압(Pulmonary hypertension owing to lung disease and/or hypoxia)**에 효과가 있을 수 있다고 예측하지만, 현재 임상시험은 없고 **전임상·세포 연구 문헌 4편**만 이 방향을 지지합니다.
+Cilazapril은 안지오텐신 전환효소(ACE)를 억제하는 약물로, 고혈압과 울혈성 심부전 치료에 사용됩니다.
+TxGNN 모델은 **원인이 불분명한 다요인성 폐고혈압(pulmonary hypertension with unclear multifactorial mechanism)**에 효과가 있을 수 있다고 예측합니다.
+다만 이 예측을 직접 뒷받침하는 임상시험이나 문헌은 현재 확인되지 않았습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 고혈압, 울혈성 심부전 (허가증에는 문서 링크만 제공되어 있어, 약리 데이터의 임상 사용 정보를 참고함) |
-| 예측 신규 적응증 | 폐질환 및/또는 저산소증으로 인한 폐고혈압 (Pulmonary hypertension owing to lung disease and/or hypoxia) |
-| TxGNN 예측 점수 | 99.20% |
-| 근거 수준 | L4 (전임상 연구) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300660/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300654/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199300655/EE |
+| 예측 신규 적응증 | 원인이 불분명한 다요인성 폐고혈압 (pulmonary hypertension with unclear multifactorial mechanism) |
+| TxGNN 예측 점수 | 0.9920 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
-> 참고: 이 보고서는 근거가 가장 많은 두 번째 예측 적응증을 중심으로 작성했습니다. 1순위 예측인 "기전이 불분명한 다인성 폐고혈압"은 동일한 점수(99.20%)이지만 임상시험과 문헌이 전혀 없습니다(근거 수준 L5, Hold).
-
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 cilazapril은 ACE 억제제로, 안지오텐신 II 생성을 줄여 혈관 수축과 혈관 리모델링을 완화할 수 있습니다. 이는 고혈압과 심부전에서의 효능과 같은 약리 원리입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 ACE 억제제의 약리에 따르면, cilazapril은 안지오텐신 II의 생성을 줄여 혈관 수축과 혈관 리모델링을 완화할 수 있습니다.
 
-폐동맥에도 국소 레닌-안지오텐신계가 존재하며, 저산소 폐고혈압의 발생에 폐동맥 ACE가 관여한다고 보고되었습니다. 따라서 안지오텐신 II에 의한 폐혈관 수축과 중膜 비후를 억제하면 저산소 폐고혈압에 도움이 될 수 있다는 기전적 가설이 성립합니다.
+폐동맥에서도 이러한 혈관 긴장도와 구조 변화가 병태에 관여할 수 있어, 기전상 폐고혈압에 적용될 가능성은 있습니다. 그러나 이는 일반적인 약리 원리에 근거한 추정일 뿐이며, 이 질환을 직접 다룬 연구로 확인된 바는 없습니다.
 
-다만 근거는 모두 동물 또는 세포 수준의 간접 근거입니다. 사람을 대상으로 한 효능·안전성 자료는 없으며, 저산소 폐고혈압 환자에서 ACE 억제제로 인한 전신 저혈압 위험도 평가해야 합니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [1708054](https://pubmed.ncbi.nlm.nih.gov/1708054/) | 1991 | 전임상 (동물) | J Cardiovasc Pharmacol | 만성 저산소증에 노출된 쥐에서 cilazapril이 폐동맥 구조(중膜 비후)에 미치는 영향 평가 |
-| [7712584](https://pubmed.ncbi.nlm.nih.gov/7712584/) | 1994 | 전임상 (동물) | Zhonghua Jie He He Hu Xi Za Zhi | 쥐의 만성 저산소 폐고혈압에서 cilazapril이 평균 폐동맥압 상승과 PaO2 저하를 억제 |
-| [10072805](https://pubmed.ncbi.nlm.nih.gov/10072805/) | 1997 | 전임상 (동물/기전) | Zhonghua Jie He He Hu Xi Za Zhi | 저산소 폐고혈압 발생에서 폐동맥 ACE의 역할 연구 |
-| [1378120](https://pubmed.ncbi.nlm.nih.gov/1378120/) | 1992 | 세포 배양 연구 | J Cardiovasc Pharmacol | cilazapril과 captopril이 배양 심근세포 집합체의 저산소 회복을 촉진 |
+참고로 이 데이터에는 폐고혈압의 다른 하위 유형(저산소증·폐질환 동반형)에 대한 전임상 연구가 있으나, 이는 본 예측 질환을 직접 연구한 것이 아니므로 근거 수준 판정에는 반영하지 않았습니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 199300660 | 제일실라자프릴정1.0밀리그램(실라자프릴수화물) | 미황색의 원형필름코팅정 | 허가사항 문서 참조 (MFDS 링크 제공) |
-| 199300654 | 제일실라자프릴정2.5밀리그램(실라자프릴수화물) | 담홍색의 원형필름코팅정 | 허가사항 문서 참조 (MFDS 링크 제공) |
-| 199300655 | 제일실라자프릴정0.5밀리그램(실라자프릴수화물) | 백색의 원형필름코팅정 | 허가사항 문서 참조 (MFDS 링크 제공) |
+| 199300660 | 제일실라자프릴정1.0밀리그램(실라자프릴수화물) | 미황색의 원형 필름코팅정 | 허가사항 문서 링크만 제공됨 |
+| 199300654 | 제일실라자프릴정2.5밀리그램(실라자프릴수화물) | 담홍색의 원형 필름코팅정 | 허가사항 문서 링크만 제공됨 |
+| 199300655 | 제일실라자프릴정0.5밀리그램(실라자프릴수화물) | 백색의 원형 필름코팅정 | 허가사항 문서 링크만 제공됨 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 약리학 데이터상 cilazapril의 표적은 안지오텐신 전환효소(ACE)이며, 등급이 지정된 약물 간 상호작용 항목은 확인되지 않았습니다.
-- **예측 적응증 관련 유의점**: 저산소 폐고혈압에서는 ACE 억제제 사용 시 전신 저혈압 위험을 평가해야 합니다. 또한 ACE 억제제 일반의 특성상 신기능 및 혈중 칼륨 모니터링이 필요합니다.
+- **약물 상호작용**: 약리학 데이터상 표적은 안지오텐신 전환효소(ACE)이며, 개별 약물 간 상호작용 등급 정보는 없습니다.
 
 그 외 안전성 정보는 허가사항을 참조하세요.
 
@@ -96,13 +81,13 @@ TxGNN 모델은 **폐질환 및/또는 저산소증으로 인한 폐고혈압(Pu
 **결정: Hold**
 
 **사유:**
-저산소 폐고혈압에 대한 근거는 1991~1997년의 동물·세포 연구뿐이며, 사람 대상 임상시험이나 임상 문헌이 없습니다. 예측 점수는 높지만 근거 수준이 L4로 낮아 임상 개발을 진행하기에는 부족합니다.
+TxGNN 점수는 높지만 이 질환을 직접 다룬 임상시험이나 문헌이 없어 모델 예측만 존재하는 L5 단계입니다. 허가사항의 경고·금기 정보와 작용 기전 데이터도 확보되지 않았습니다.
 
 **진행하려면 필요한 것:**
-- 폐고혈압 환자에서의 임상 효능·안전성 자료 (예: 탐색적 Phase 2 시험)
-- 상세한 약물 작용 기전(MOA) 데이터
-- 허가사항(경고·금기)의 확인 및 정리. 현재는 문서 링크만 확보되어 있어 안전성 검토를 진행할 수 없습니다.
-- 저산소 환경에서의 전신 저혈압 및 신기능 위험 평가 계획
+- 허가사항(경고·금기) 문서 확보 및 분석
+- DrugBank 등에서 작용 기전(MOA) 데이터 확보
+- 해당 폐고혈압 유형에 대한 전임상·임상 연구 탐색
+- 전신 저혈압, 신기능, 고칼륨혈증 등 ACE 억제제 관련 안전성 평가 계획
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

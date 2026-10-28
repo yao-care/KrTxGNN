@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Clonazepam
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 228
-evidence_level: L5
+evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clonazepam: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공됨)"
@@ -14,7 +14,7 @@ predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigemi
 # Clonazepam
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L3** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigemi
 ## 한 문장 요약
 
 Clonazepam은 벤조디아제핀 계열 약물로, 한국에서 3건의 허가를 받아 시판 중입니다. 다만 이번 보고서에 사용한 데이터에는 허가 적응증의 본문이 없어 기존 적응증은 확인하지 못했습니다.
-TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 있을 수 있다고 예측합니다(점수 99.65%).
+TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 있을 수 있다고 예측합니다(점수 0.9965).
 관련 임상시험 등록은 없으며, **20편의 문헌**(가이드라인, Cochrane 체계적 문헌고찰, 소규모 임상연구 등)이 이 방향을 간접적으로 지지합니다.
 
 ## 빠른 개요
@@ -48,9 +48,9 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증 본문이 링크로만 제공됨) |
 | 예측 신규 적응증 | 하지불안증후군 (Restless Legs Syndrome) |
-| TxGNN 예측 점수 | 99.65% |
+| TxGNN 예측 점수 | 0.9965 |
 | 근거 수준 | L3 (체계적 문헌고찰 및 소규모 임상연구 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -107,7 +107,7 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 **결정: Hold (연구 질문 단계)**
 
 **사유:**
-하지불안증후군에서 clonazepam의 사용을 뒷받침하는 문헌은 있으나 대부분 오래되었거나 소규모이며, 등록된 임상시험이 없습니다. 최신 지침은 다른 약제를 우선 권장하는 경향이 있고, 의존성과 진정 관련 안전성 우려가 큽니다. 같은 예측 목록의 다른 후보인 불면증은 간접 근거만 있어 보류(Hold)가 적절하며, 삼차신경 종양은 지식그래프 예측뿐이라 실행 가능한 적응증으로 보기 어렵습니다.
+하지불안증후군에서 clonazepam의 사용을 뒷받침하는 문헌은 있으나 대부분 오래되었거나 소규모이며, 등록된 임상시험이 없습니다. 최신 지침은 다른 약제를 우선 권장하는 경향이 있고, 의존성과 진정 관련 안전성 우려가 큽니다. 같은 예측 목록의 다른 후보인 불면증은 간접 근거만 있어 보류(Hold)가 적절하며, 삼차신경 종양은 TxGNN 모델(딥러닝)의 예측 점수일 뿐 생물학적 근거가 아니어서 실행 가능한 적응증으로 보기 어렵습니다.
 
 **진행하려면 필요한 것:**
 - 2025 AASM 지침에서 clonazepam의 권고 등급과 방향 확인

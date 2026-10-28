@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Pegvisomant
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 584
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Pegvisomant: 예측 신규 적응증 경계성 난소 장액성 종양 (borderline ovarian serous tumor) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 텍스트를 확인할 수 없음"
+description: "Pegvisomant: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Pegvisomant"
-predicted_indications: ["borderline ovarian serous tumor", "rete ovarii cystadenoma", "ovarian papillary cystadenoma", "pyelonephritis", "malignant ovarian Brenner tumor", "aleukemic mast cell leukemia", "ovarian mucinous cystadenofibroma", "ovarian benign neoplasm", "mucinous ovarian cystadenoma", "ovarian surface papilloma"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Pegvisomant
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,49 +35,16 @@ predicted_indications: ["borderline ovarian serous tumor", "rete ovarii cystaden
 
 </div>
 
-## Pegvisomant: 말단비대증에서 경계성 난소 장액성 종양으로
+## Pegvisomant
 {: .text-alpha }
-
-## 한 문장 요약
-
-Pegvisomant는 성장호르몬 수용체 길항제로, 한국에서 소마버트주라는 이름으로 시판 중인 약물입니다.
-TxGNN 모델은 **경계성 난소 장액성 종양(borderline ovarian serous tumor)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다. 따라서 이 예측은 모델 계산에만 근거한 가설 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적인 텍스트를 확인할 수 없음 |
-| 예측 신규 적응증 | 경계성 난소 장액성 종양 (borderline ovarian serous tumor) |
-| TxGNN 예측 점수 | 98.63% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006404/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006406/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006403/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006407/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006405/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Pegvisomant는 성장호르몬(GH) 수용체 길항제로, 혈중 IGF-1 수치를 낮추는 약물입니다. 기존 적응증에서의 효능이 허가를 통해 확인된 약물이라는 점에서 GH/IGF-1 축을 억제하는 작용이 핵심으로 보입니다.
-
-GH/IGF-1 축은 난소 상피세포의 증식과 관련이 있다고 알려져 있어, 이론적으로는 IGF-1 감소가 난소 상피성 종양의 증식을 억제할 가능성이 있습니다. 다만 이는 어디까지나 추측성 근거입니다. 기존 적응증과 신규 적응증의 유사성 평가도 아직 이루어지지 않았습니다.
-
-TxGNN의 높은 점수(98.63%)는 그래프 기반 계산 예측일 뿐이며, 이를 지지하는 임상시험이나 문헌은 확인되지 않았습니다.
-
-### 참고: 기타 예측 적응증
-
-같은 예측 목록에서 상위 10위 안에 든 다른 질환들도 모두 L5(모델 예측만 있음)이며 Hold로 판정되었습니다.
-
-| 순위 | 질환 | TxGNN 점수 | 비고 |
-|-----|------|-----------|------|
-| 2 | 난소 망상 낭선종 (rete ovarii cystadenoma) | 98.60% | 양성 난소 상피성 종양, 기전 추측 수준 |
-| 3 | 난소 유두상 낭선종 (ovarian papillary cystadenoma) | 98.60% | 양성 난소 상피성 종양, 기전 추측 수준 |
-| 4 | 신우신염 (pyelonephritis) | 98.57% | GH 수용체 길항과의 타당한 기전 없음, 네트워크 인공물 가능성 |
-| 5 | 악성 난소 브레너 종양 | 98.56% | 이론적 기전만 있고 특이적 근거 없음 |
-| 6 | 비백혈병성 비만세포 백혈병 | 98.56% | KIT 변이 주도 질환, 연관 기전 없음 |
-| 7 | 난소 점액성 낭선섬유종 | 98.54% | 양성 종양, 기전 추측 수준 |
-| 8 | 난소 양성 신생물 | 98.54% | 양성 병변은 주로 수술·관찰로 관리, 전신 생물학적 제제의 위험 대비 이익 불리 |
-| 9 | 점액성 난소 낭선종 | 98.53% | 양성 종양, 기전 추측 수준 |
-| 10 | 난소 표면 유두종 | 98.51% | 양성 병변, 기전 추측 수준 |
 
 ## 한국 시판 정보
 
@@ -99,19 +68,6 @@ TxGNN의 높은 점수(98.63%)는 그래프 기반 계산 예측일 뿐이며, �
 
 경고 및 금기 사항은 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-TxGNN 점수는 높지만 근거 수준이 L5로, 뒷받침하는 임상시험과 문헌이 전혀 없습니다. 작용 기전 데이터도 비어 있고 허가사항의 경고·금기 정보를 확보하지 못해 안전성 검토도 진행할 수 없습니다.
-
-**진행하려면 필요한 것:**
-- 식약처 허가사항(첨부문서)의 경고·금기 정보 확보 (필수)
-- 상세한 약물 작용 기전(MOA) 데이터 확보
-- 난소 상피성 종양에서 GH/IGF-1 축의 역할을 보여주는 전임상 또는 기전 연구
-- 기존 적응증과 신규 적응증 간 유사성 평가 및 투여 경로 적합성 검토
-- 경계성 난소 장액성 종양에 대한 임상시험 또는 관찰 연구 근거
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

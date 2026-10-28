@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ustekinumab
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 775
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ustekinumab: 예측 신규 적응증 피부염 (Dermatitis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (MFDS 허가 문서 참조)"
@@ -14,7 +14,7 @@ predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid",
 # Ustekinumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid",
 
 ## 한 문장 요약
 
-Ustekinumab은 IL-12/IL-23의 공통 p40 소단위를 차단하는 단클론항체로, 한국에서 여러 제품으로 허가·시판되고 있습니다. TxGNN 모델은 **피부염(dermatitis)**에 효과가 있을 수 있다고 예측하며(점수 99.99%), 현재 **6건의 임상시험**과 **20편의 문헌**이 검토되었습니다. 다만 직접 관련된 근거는 아토피피부염 대상 Phase 2 시험 2건에 한정되며, 효능은 설득력 있게 입증되지 않았습니다.
+Ustekinumab은 IL-12/IL-23의 공통 p40 소단위를 차단하는 단클론항체로, 한국에서 여러 제품으로 허가·시판되고 있습니다. TxGNN 모델은 **피부염(dermatitis)**에 효과가 있을 수 있다고 예측하며(점수 0.9999), 현재 **6건의 임상시험**과 **20편의 문헌**이 검토되었습니다. 다만 직접 관련된 근거는 아토피피부염 대상 Phase 2 시험 2건에 한정되며, 효능은 설득력 있게 입증되지 않았습니다.
 
 ## 빠른 개요
 
@@ -46,9 +46,9 @@ Ustekinumab은 IL-12/IL-23의 공통 p40 소단위를 차단하는 단클론항�
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (MFDS 허가 문서 참조) |
 | 예측 신규 적응증 | 피부염 (Dermatitis) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L2 (완료된 Phase 2 무작위 시험이 있으나 효능이 불충분하여 보수적으로 해석) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 8건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 

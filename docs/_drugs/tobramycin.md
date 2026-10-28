@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tobramycin
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 740
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tobramycin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L3). 기존 적응증: 확인 불가 (허가 적응증 텍스트가 문서 링크로만 제공됨)"
 monitor_inn: "Tobramycin"
-predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome"]
+predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
+last_modified_at: 2026-10-23
+description: "Tobramycin: 예측 신규 적응증 노출성 각막염 (근거 수준 L5). 기존 적응증: 허가 문서 링크만 있고 적응증 본문은 확인되지 않음 (제형은 점안액·주사제)"
 ---
 
 # Tobramycin
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,34 @@ predicted_indications: ["exposure keratitis", "non-human animal disease", "otiti
 
 </div>
 
-## Tobramycin: 세균 감염 치료제에서 점상 상피성 각결막염으로
+## Tobramycin: 허가 문서상 점안제·주사제에서 노출성 각막염(예측)으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Tobramycin은 아미노글리코사이드 계열 항생제로, 한국에서 점안액과 주사제 형태로 시판되고 있습니다.
-TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjunctivitis)**에 효과가 있을 수 있다고 예측하지만, 현재 등록된 임상시험은 **0건**이며 관련 문헌은 **1편**(고정용량 복합제 비교 연구)뿐입니다.
+Tobramycin은 아미노글리코사이드 계열 항생제로, 한국에서 점안액과 주사제 등 단일제 허가증이 다수 있습니다.
+TxGNN 모델은 **노출성 각막염(Exposure keratitis)**에 효과가 있을 수 있다고 예측합니다(점수 0.9993).
+그러나 이 질환을 직접 다룬 임상시험은 **0건**이고 직접 연구한 문헌도 없어, 근거는 모델 예측 수준(L5)입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 텍스트가 문서 링크로만 제공됨) |
-| 예측 신규 적응증 | 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) |
-| TxGNN 예측 점수 | 99.99% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 20건 |
-| 권장 결정 | Hold (연구 질문 단계) |
-
-> 참고: 근거 수준은 규칙상 L3(관찰 연구 수준)에 해당하나, 해당 문헌은 tobramycin 단독 효과를 분리하지 못하는 복합제 비교 연구이므로 보수적으로 해석해야 합니다.
+| 기존 적응증 | 허가 문서 링크만 있고 적응증 본문은 확인되지 않음 (제형은 점안액·주사제) |
+| 예측 신규 적응증 | 노출성 각막염 |
+| TxGNN 예측 점수 | 0.9993 |
+| 근거 수준 | L5 (이 질환을 직접 연구한 시험·문헌 없음) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 tobramycin은 아미노글리코사이드 계열 항생제로, 이미 안과 영역에서 점안제로 사용되고 있으며 주로 코르티코스테로이드와 병용됩니다. 세균에 의한 안구 표면 염증을 다루는 데 적합하므로 기전상 안구 표면 질환에 적용 가능할 수 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Tobramycin은 그람음성균과 포도상구균에 활성이 있는 아미노글리코사이드 항생제이며, 점안제 형태로 세균성 각막염 등 안구 감염에 쓰입니다. 국내에는 점안액 허가증이 많습니다.
 
-다만 이번 데이터에서 확인된 문헌은 tobramycin/dexamethasone과 tobramycin/loteprednol 복합제를 비교한 연구 1건이며, 두 복합제의 염증 조절 효과를 본 것이어서 tobramycin 자체의 기여도를 구분할 수 없습니다. 또한 이 적응증에 대한 Phase 3 RCT는 없습니다.
+노출성 각막염은 눈꺼풀이 제대로 닫히지 않아 각막 표면이 마르면서 손상되는 질환입니다. 감염은 이차적으로 생기는 문제입니다. 따라서 Tobramycin이 도움이 된다면 이차 세균 감염의 예방이나 치료에 한정될 것입니다. 건조 손상 자체를 치료하는 기전은 아닙니다.
+
+또한 시험관 연구에서 Tobramycin을 포함한 아미노글리코사이드가 각막 상피세포에 독성을 보였습니다. 이미 손상된 안구 표면에는 오히려 불리할 수 있어, 예측의 타당성은 제한적입니다.
 
 ## 임상시험 근거
 
@@ -69,57 +70,52 @@ TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjun
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [17526462](https://pubmed.ncbi.nlm.nih.gov/17526462/) | 2007 | 비교 임상시험 (무작위, 이중맹검) | Advances in Therapy | 안검각결막염 환자 40명(40안)에서 tobramycin 0.3%/dexamethasone 0.1%와 tobramycin 0.3%/loteprednol 0.5%의 염증 조절 효과 비교 |
+| [2707046](https://pubmed.ncbi.nlm.nih.gov/2707046/) | 1989 | 시험관 연구 | Current Eye Research | 토끼 각막 상피세포에서 네오마이신, 겐타마이신, 토브라마이신, 아미카신의 세포독성 비교 |
+| [42842711](https://pubmed.ncbi.nlm.nih.gov/42842711/) | 2026 | 후향적 코호트 | Cornea | 메티실린 내성/감수성 황색포도상구균 각막염의 임상 특성, 항생제 감수성, 치료 결과 비교 |
+| [17228760](https://pubmed.ncbi.nlm.nih.gov/17228760/) | 2006 | 시험관 연구 | Nippon Ganka Gakkai Zasshi | 일본 감염성 각막염 분리균에 대한 항생제 점안액의 최소억제농도(MIC) 및 항생제 후효과 비교 |
+| [34987857](https://pubmed.ncbi.nlm.nih.gov/34987857/) | 2021 | 증례 보고 | Oxford Medical Case Reports | 눈을 스스로 감지 못하는 환자에서 다제내성 Shewanella algae 세균성 각막염 1례 |
+| [11581057](https://pubmed.ncbi.nlm.nih.gov/11581057/) | 2001 | 증례 보고 | Ophthalmology | 콘택트렌즈 관련 Bacillus cereus 각막염 1례 |
+| [12861116](https://pubmed.ncbi.nlm.nih.gov/12861116/) | 2003 | 증례 보고 | Eye & Contact Lens | 굴절교정각막절제술 후 양안 MRSA 각막염 1례 |
+| [14574976](https://pubmed.ncbi.nlm.nih.gov/14574976/) | 2003 | 증례 보고 | Yan Ke Xue Bao | 그레이브스 안병증에서 나타난 중심부 주변 각막 델렌 1례 |
+| [42358321](https://pubmed.ncbi.nlm.nih.gov/42358321/) | 2026 | 시험관 연구(수의학) | Frontiers in Veterinary Science | 개 안구 병원균에서 플루오로메톨론이 항생제 감수성에 미치는 영향 |
+
+위 문헌 중 노출성 각막염에서 Tobramycin의 효과를 직접 평가한 연구는 없습니다. 대부분 다른 원인의 각막염이나 항생제 독성·감수성을 다룹니다.
 
 ## 한국 시판 정보
 
-허가 적응증 텍스트는 문서 링크로만 제공되어 요약할 수 없습니다. 아래는 주요 허가 5건입니다.
+허가증 목록은 일부일 수 있으며, 아래는 그중 5건입니다. 허가 적응증 본문은 데이터에 포함되어 있지 않고 허가 문서 링크만 있어, 해당 문서를 참조해야 합니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201803990 | 토브점안액 | 점안액 | 허가사항 문서 참조 |
-| 200401647 | 토프라신주 (바이알) | 주사제 | 허가사항 문서 참조 |
-| 199400547 | 오큐라신점안액 | 점안액 | 허가사항 문서 참조 |
-| 202002921 | 휴토신점안액 | 점안액 | 허가사항 문서 참조 |
-| 199900195 | 중외토브라마이신황산염프리믹스주 | 주사제 | 허가사항 문서 참조 |
-
-총 20건이 유효하며, 점안액과 주사제가 있고 일부는 수출용입니다.
+| 201803990 | 토브점안액 | 점안액 | 허가 문서 참조 |
+| 201403504 | 태극토브라마이신점안액(수출용) | 점안액 | 허가 문서 참조 |
+| 200401647 | 토프라신주(바이알) | 주사제 | 허가 문서 참조 |
+| 201504139 | 토브카디점안액(수출용) | 현탁성 점안액 | 허가 문서 참조 |
+| 199904140 | 대한뉴팜황산토브라마이신주(수출용) | 주사제(앰플) | 허가 문서 참조 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건이 조회되었으며, 주요 항목은 다음과 같습니다.
-  - **Major**: Magnesium sulfate, Mannitol
-  - **Moderate**: Amphotericin B, Vancomycin, Kanamycin, Neomycin, 아스피린(Acetylsalicylic acid), 프로톤펌프억제제(omeprazole, lansoprazole, pantoprazole 등), 메살라진 계열 등
-- **각막 상피 독성**: 시험관 내 연구에서 아미노글리코사이드의 각막 상피 독성이 보고되어, 노출되거나 손상된 각막에서는 주의가 필요합니다.
+- **약물 상호작용**: 조회된 상호작용은 총 100건입니다. 이 중 확인된 **중대(Major)** 수준은 다음과 같습니다.
+  - 황산마그네슘
+  - 만니톨
+- **중등도(Moderate) 수준 예시**: 암포테리신 B, 반코마이신, 카나마이신, 네오마이신, 아세틸살리실산, 메살라진, 설파살라진, 프로톤펌프억제제(오메프라졸, 판토프라졸, 란소프라졸 등)
+- **눈 표면 관련 우려**: 시험관 연구에서 아미노글리코사이드의 각막 상피 독성이 보고되어, 손상된 안구 표면에는 주의가 필요합니다.
 
-그 외 경고 및 금기 정보는 허가사항을 참조하세요.
+그 밖의 경고·금기는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Hold (연구 질문 단계)**
+**결정: Hold**
 
 **사유:**
-점상 상피성 각결막염에 대한 직접 근거는 복합제 비교 연구 1건뿐이며, tobramycin 단독 효과를 입증하지 못합니다. 등록된 임상시험도 없고 각막 상피 독성 우려가 있어 현 단계에서는 추가 검증이 필요합니다.
+- 노출성 각막염을 직접 연구한 임상시험과 문헌이 없어 근거는 모델 예측뿐(L5)입니다.
+- 질환의 본질이 건조 손상이어서 항생제의 기전적 연결이 약하고, 각막 상피 독성 우려가 있습니다.
 
 **진행하려면 필요한 것:**
-- 허가 적응증 및 경고·금기 정보 (MFDS 허가사항 문서 확인)
-- 작용 기전 데이터 (DrugBank 등)
-- tobramycin 단독 투여군을 포함한 이 적응증 대상 비교 임상시험
-- 각막 상피 독성에 대한 안전성 평가
-
----
-
-### 참고: 다른 예측 적응증
-
-| 순위 | 예측 적응증 | 근거 수준 | 권장 |
-|------|-----------|---------|------|
-| 4 | 외이도염 (otitis externa) | L3 | Proceed with Guardrails |
-| 2 | 노출성 각막염 | L4 | Hold |
-| 6 | 세균 감염 후 장애 | L4 | Research Question |
-| 8 | 감염성 요도 협착 | L4 | Hold |
-
-- **외이도염**은 주요 원인균(녹농균, 황색포도상구균)에 tobramycin이 활성을 가지며 국소 아미노글리코사이드 이용 접근이 확립되어 있어 가장 현실적인 후보입니다. 고막 천공 시 이독성 위험이 있어 사용을 피하고 내성 모니터링이 필요합니다. 다만 등록된 임상시험은 없고, 문헌 상당수가 수의학 연구 또는 내성 감시 연구입니다.
-- 비특이적 범주(비인간 동물 질환, 감염 후 증후군 등)와 기전상 타당성이 낮은 항목(Chagas 심근병증, 감염 관련 용혈성 요독 증후군)은 근거가 없거나 안전성 우려가 있어 보류를 권고합니다.
+- 노출성 각막염에서 이차 감염 예방·치료 효과를 직접 평가한 임상 또는 관찰 연구
+- 손상된 각막 상피에 대한 Tobramycin 점안제의 안전성 평가
+- 국내 허가 문서(허가사항)에서 적응증, 경고, 금기 확인
+- 작용 기전 데이터 보완
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -46,9 +46,9 @@ Deferasirox는 철 킬레이트제로, 한국에서 만성 철 과다 상태 치
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 확인할 수 없음 (철 킬레이트제로 분류) |
 | 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
-| TxGNN 예측 점수 | 99.40% |
+| TxGNN 예측 점수 | 0.9940 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 15건 |
 | 권장 결정 | Hold (연구 과제로 분류) |
 

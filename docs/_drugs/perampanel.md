@@ -4,17 +4,17 @@ title: Perampanel
 parent: 모델 예측만 (L5)
 nav_order: 592
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Perampanel: 예측 신규 적응증 시각 뇌전증 (Visual epilepsy) (근거 수준 L5). 기존 적응증: 뇌전증 (부분발작, 전신 강직간대발작의 보조요법"
+indication_count: 1
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
+last_modified_at: 2026-10-27
+description: "Perampanel: 예측 신규 적응증 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504770/EE"
 ---
 
 # Perampanel
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,92 +33,69 @@ predicted_indications: ["beta-ketothiolase deficiency"]
 
 </div>
 
-## Perampanel: 뇌전증에서 시각 뇌전증으로
+## Perampanel: AMPA 수용체 길항제 → 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Perampanel은 AMPA 수용체 길항제로, 원래 부분발작과 전신 강직간대발작 등 뇌전증 치료에 사용되었습니다.
-TxGNN 모델은 **시각 뇌전증(Visual epilepsy)**에 효과가 있을 수 있다고 예측하지만, 이 질환에 직접 해당하는 **임상시험은 0건**입니다. 지지 문헌 **19편**도 일반 뇌전증 문헌이며 시각 뇌전증을 직접 다룬 연구는 없습니다.
+Perampanel은 AMPA 수용체를 길항하는 항경련제 계열의 약물입니다. TxGNN 모델은 **베타-케토티올라제 결핍증(beta-ketothiolase deficiency)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 뇌전증 (부분발작, 전신 강직간대발작의 보조요법; 허가증에는 문서 링크만 있어 문헌 기준으로 기재) |
-| 예측 신규 적응증 | 시각 뇌전증 (Visual epilepsy) |
-| TxGNN 예측 점수 | 99.92% |
-| 근거 수준 | L4 (기전 및 전임상 수준, 직접 근거 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 19건 (모두 유효, 단일 성분) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504770/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300747/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201453/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201450/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201600/EE;  |
+| 예측 신규 적응증 | 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) |
+| TxGNN 예측 점수 | 0.9979 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 19건 (단일 성분 제제 19건, 유효 19건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 확보된 자료에는 상세 작용 기전 항목이 비어 있습니다. 다만 문헌에 따르면 Perampanel은 선택적·비경쟁적 AMPA 수용체 길항제로, 글루탐산에 의한 흥분성 신경전달을 줄입니다. 이 기전으로 시각 자극이 유발하는 광과민성 발작을 억제할 수 있다고 추정됩니다.
+현재 상세한 작용 기전 데이터가 없습니다. 다만 Perampanel은 AMPA 수용체 길항 계열의 항경련제로 알려져 있습니다.
 
-기존 적응증과 신규 적응증의 연결은 모두 "뇌전증"이라는 상위 질환군을 통해 이루어집니다. 시각 뇌전증은 반사성 뇌전증의 하나로 피질 과흥분이 관여하므로, 기전상 적용 가능성은 있습니다. 그러나 TxGNN의 높은 점수는 뇌전증 표현형이 비슷하다는 점을 반영한 것일 수 있습니다. 시각 뇌전증에 특화된 연구는 확인되지 않았습니다.
+베타-케토티올라제 결핍증은 케톤체와 이소류신 대사에 관여하는 대사 질환입니다. AMPA 길항 작용과의 뚜렷한 기전적 연결 고리는 확인되지 않으며, 대사 위기 시 나타날 수 있는 발작 증상 정도가 접점일 수 있습니다. 따라서 이 예측은 모델의 인공적 산물(artifact)일 가능성이 높습니다.
 
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-19편 중 대표 10편입니다. 무작위 대조시험(RCT)은 없고, 모두 일반 뇌전증이나 Perampanel 전반에 관한 문헌입니다.
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | 체계적 문헌고찰/네트워크 메타분석 | J Neurol | 특발성 전신 뇌전증에서 항발작약의 효능·안전성 비교 |
-| [35061214](https://pubmed.ncbi.nlm.nih.gov/35061214/) | 2022 | 체계적 문헌고찰/네트워크 메타분석 | Drugs | 성인 국소발작 보조요법으로 3세대 항발작약(Perampanel 포함) 비교 |
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | 진료지침 | Neurology | 신규 발병 뇌전증에서 신약 항뇌전증약의 효능·내약성 지침 갱신 |
-| [29953584](https://pubmed.ncbi.nlm.nih.gov/29953584/) | 2019 | Review | Epilepsia | Perampanel의 광범위 항뇌전증 가능성 검토 (전임상·3상·관찰 연구) |
-| [24559052](https://pubmed.ncbi.nlm.nih.gov/24559052/) | 2014 | Review | Expert Opin Drug Discov | Perampanel의 개발 과정과 AMPA 수용체 억제 기전 |
-| [28577562](https://pubmed.ncbi.nlm.nih.gov/28577562/) | 2017 | Review | Ital J Pediatr | 소아 뇌전증에서 Perampanel의 역할, 권장 용량 4~12 mg/일 |
-| [36734057](https://pubmed.ncbi.nlm.nih.gov/36734057/) | 2023 | Review | Epilepsia | 희귀 유전성 뇌전증에서 정밀치료제로서의 가능성 |
-| [36034267](https://pubmed.ncbi.nlm.nih.gov/36034267/) | 2022 | 실제 임상 경험 | Front Neurol | 소아 소발작 뇌전증에서 Perampanel의 효과·내약성 평가 |
-| [34335252](https://pubmed.ncbi.nlm.nih.gov/34335252/) | 2021 | 전임상 | Front Pharmacol | Dravet 증후군 마우스에서 열 유발 발작 감소 |
-| [37684052](https://pubmed.ncbi.nlm.nih.gov/37684052/) | 2023 | Review | BMJ | 임신·수유기 뇌전증 관리 |
+이 질환을 직접 다룬 임상시험이나 문헌이 확인되지 않았으므로, 근거 수준은 모델 예측만 있는 L5로 판정했습니다.
 
 ## 한국 시판 정보
 
-19건 중 주요 5건입니다. 허가 적응증은 허가 문서 링크로만 제공되어 본문 요약이 불가능합니다.
+한국에는 단일 성분 Perampanel 허가가 총 19건 있으며, 모두 유효 상태입니다. 아래는 주요 5건입니다. 허가 적응증 텍스트는 허가 문서 링크로만 기록되어 있어 요약하지 못했습니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 201504770 | 파이콤파필름코팅정4밀리그램 (한국에자이) | 필름코팅정 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504770/EE) 참조 |
-| 201504769 | 파이콤파필름코팅정2밀리그램 (한국에자이) | 필름코팅정 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504769/EE) 참조 |
-| 202003991 | 파이콤파현탁액0.5mg/mL (한국에자이) | 현탁액 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003991/EE) 참조 |
-| 202201453 | 페리콤파정8밀리그램 (명인제약) | 필름코팅정 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201453/EE) 참조 |
-| 202300747 | 페라넬정8밀리그램 (환인제약) | 필름코팅정 | [허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300747/EE) 참조 |
+| 허가번호 | 제품명 | 제형 | 제조사 |
+|---------|------|------|------|
+| 201504770 | 파이콤파필름코팅정4밀리그램 | 필름코팅정 | 한국에자이(주) |
+| 202300747 | 페라넬정8밀리그램 | 필름코팅정 | 환인제약(주) |
+| 202201453 | 페리콤파정8밀리그램 | 필름코팅정 | 명인제약(주) |
+| 202003991 | 파이콤파현탁액0.5mg/mL | 현탁액제 | 한국에자이(주) |
+| 202201600 | 페라넬정2밀리그램 | 필름코팅정 | 환인제약(주) |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 56건이 확인되었습니다. 주요 항목은 다음과 같습니다.
-  - 중등도(Moderate): Morphine, Codeine, Hydrocodone, Dexamethasone, Metoclopramide, Promethazine, Chloroquine, Hydroxychloroquine, Chlorpheniramine, Dextromethorphan, Dronabinol, Nabilone, Ethanol 등. 중추신경 억제나 진정 효과가 겹칠 수 있는 약물이 다수입니다.
+- **약물 상호작용**: 총 56건이 조회되었습니다. 이 중 확인된 항목은 대부분 중등도(Moderate)이며, 주요 항목은 다음과 같습니다.
+  - 오피오이드 계열: Morphine, Codeine, Hydrocodone, Opium, Diphenoxylate, Difenoxin
+  - 카나비노이드: Dronabinol, Nabilone
+  - 기타 중추신경 억제 가능 약물: Ethanol, Promethazine, Chlorpheniramine, Dextromethorphan, Metoclopramide, Sibutramine
+  - 항말라리아제: Chloroquine, Hydroxychloroquine
+  - 코르티코스테로이드: Dexamethasone
   - 경미(Minor): Clarithromycin
-- **정신과적 이상반응**: 수집된 문헌(PMID 38978526)에 따르면 공격성, 과민성 등 심각한 정신·행동 이상반응에 대한 블랙박스 경고가 있습니다. 정신병적 증상도 드물게 보고되었습니다.
 
-그 밖의 경고 및 금기 사항은 허가사항을 참조하세요.
+경고 및 금기 등 그 외 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-시각 뇌전증에 대한 임상시험이 없고 직접 연구도 없어, 근거는 AMPA 길항이라는 기전적 타당성과 일반 뇌전증 문헌에 그칩니다. 점수는 높지만 근거 수준은 L4로 연구 질문 단계입니다.
+이 질환을 직접 연구한 임상시험과 문헌이 없고, AMPA 길항 작용과의 기전적 연결도 불분명하여 모델 예측만 존재하는 L5 수준입니다. 현 단계에서는 진행을 보류하는 것이 적절합니다.
 
 **진행하려면 필요한 것:**
-- 시각 뇌전증 또는 광과민성 발작 환자를 대상으로 한 증례 보고, 관찰 연구, 전임상 연구
-- 허가증 적응증 본문과 허가사항의 경고·금기 정보 확인
-- 정신과적 이상반응과 약물 상호작용을 고려한 안전성 모니터링 계획
-
-**참고:** 이번 데이터에서 근거가 가장 강한 예측은 **지속성 뇌전증 상태(status epilepticus)**입니다 (TxGNN 99.77%, L3).
-- 임상시험 4건이 등록되어 있습니다. 후향 코호트 1건(완료, 84명), 3상 1건과 4상 1건(각각 1명 등록 후 조기 종료), 2상 1건(모집 중, 52명)입니다.
-- 체계적 문헌고찰과 증례 시리즈도 있습니다.
-- 다만 대조시험 수준의 근거는 아직 없습니다.
-
-이 적응증은 별도로 평가하는 것을 권장합니다.
+- 상세한 약물 작용 기전(MOA) 데이터 확보
+- 허가사항(MFDS 첨부문서)의 경고 및 금기 정보 확인
+- 베타-케토티올라제 결핍증과 AMPA 경로의 연관성을 보여주는 전임상 또는 기전 연구
+- 이 질환 환자를 대상으로 한 임상 또는 관찰 연구 근거
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bacampicillin: 예측 신규 적응증 후두개염 (Epiglottitis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (항생제로서의 세균 감염증 치료로 추정)"
 monitor_inn: "Bacampicillin"
-predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
+predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
 ---
 
 # Bacampicillin
@@ -46,9 +46,9 @@ Bacampicillin은 암피실린의 전구약물(prodrug)인 아미노페니실린�
 |------|------|
 | 기존 적응증 | 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (항생제로서의 세균 감염증 치료로 추정) |
 | 예측 신규 적응증 | 후두개염 (Epiglottitis) |
-| TxGNN 예측 점수 | 99.92% |
+| TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 (수출용 허가) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -94,7 +94,7 @@ Bacampicillin은 암피실린의 전구약물(prodrug)인 아미노페니실린�
 **결정: Hold**
 
 **사유:**
-후두개염 예측은 TxGNN 점수(99.92%)만 있고 임상시험과 문헌이 전혀 없습니다. 또한 베타락타마제 생성 *H. influenzae* 문제로 현재 표준 치료를 대체하기 어렵고, 암피실린 계열의 기존 용도 범위에 가까워 재창출로서의 새로움도 제한적입니다.
+후두개염 예측은 TxGNN 점수(0.9992)만 있고 임상시험과 문헌이 전혀 없습니다. 또한 베타락타마제 생성 *H. influenzae* 문제로 현재 표준 치료를 대체하기 어렵고, 암피실린 계열의 기존 용도 범위에 가까워 재창출로서의 새로움도 제한적입니다.
 
 **진행하려면 필요한 것:**
 - 허가사항(PDF) 확보를 통한 기존 적응증, 경고 및 금기 정보 확인
@@ -102,7 +102,7 @@ Bacampicillin은 암피실린의 전구약물(prodrug)인 아미노페니실린�
 - 후두개염에서 Bacampicillin 또는 암피실린의 효능을 평가한 임상·문헌 근거 수집
 - 원인균(*H. influenzae*)의 국내 베타락타마제 내성률 확인 및 표준 치료 대비 이점 검토
 
-> 참고: 상위 10개 예측 중 요로 질환(urethral disease)만 1989년 소규모 예비 연구 1건(PMID 2921050, 비임질성 요도염 남성 84명 대상)이 있으나, 클라미디아 등 원인균에 대한 아미노페니실린의 감수성이 제한적이어서 기전상 의문이 있으며 테트라사이클린·마크로라이드가 표준 치료입니다. 나머지 예측(복강 내 자궁외임신, 척삭종 등)은 타당한 기전적 연결이 없어 그래프 기반 인공 산물일 가능성이 높습니다.
+> 참고: 상위 10개 예측 중 요로 질환(urethral disease)만 1989년 소규모 예비 연구 1건(PMID 2921050, 비임질성 요도염 남성 84명 대상)이 있으나, 클라미디아 등 원인균에 대한 아미노페니실린의 감수성이 제한적이어서 기전상 의문이 있으며 테트라사이클린·마크로라이드가 표준 치료입니다. 나머지 예측(복강 내 자궁외임신, 척삭종 등)은 타당한 기전적 연결이 없으며, 이 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있고 생물학적 근거는 아닙니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

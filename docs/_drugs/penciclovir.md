@@ -4,17 +4,17 @@ title: Penciclovir
 parent: 모델 예측만 (L5)
 nav_order: 588
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Penciclovir: 예측 신규 적응증 파스시올라증 (Fascioliasis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 단순포진 등 헤르페스바이러스 감염에 사…"
 monitor_inn: "Penciclovir"
-predicted_indications: ["fascioliasis", "cysticercosis", "coenurosis", "intestinal helminthiasis", "malignant pleural mesothelioma", "endomyometritis", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "synovium cancer", "malignant visceral pleura tumor"]
+predicted_indications: ["fascioliasis"]
 ---
 
 # Penciclovir
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Penciclovir는 헤르페스바이러스 감염 치료에 사용되는 뉴클레�
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 단순포진 등 헤르페스바이러스 감염에 사용) |
 | 예측 신규 적응증 | 파스시올라증 (Fascioliasis) |
-| TxGNN 예측 점수 | 99.06% |
+| TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 

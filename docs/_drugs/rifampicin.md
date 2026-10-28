@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rifampicin
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 653
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rifampicin: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 허가증 문서 링크로만 제공되어 확인하지 못했습니다. 일반적으로 알려진 항결핵제 용도를 기준으로 서술했습니다"
@@ -14,7 +14,7 @@ predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne 
 # Rifampicin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Rifampicin은 항결핵 항생제로, 국내에서는 단일 성분 경구제(�
 |------|------|
 | 기존 적응증 | 허가 적응증 원문은 허가증 문서 링크로만 제공되어 확인하지 못했습니다. 일반적으로 알려진 항결핵제 용도를 기준으로 서술했습니다. |
 | 예측 신규 적응증 | 결막염 (Conjunctivitis) |
-| TxGNN 예측 점수 | 99.95% |
+| TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L3 (소규모 임상 연구, 관찰 연구, 감수성 조사 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 14건 (모두 유효, 단일 성분) |
 | 권장 결정 | Hold |
 

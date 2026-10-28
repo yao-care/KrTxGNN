@@ -4,17 +4,17 @@ title: Erdafitinib
 parent: 모델 예측만 (L5)
 nav_order: 316
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Erdafitinib: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트는 확인되지 않았습니다(허가증 링크만 제공됨). 허가사항 참조 필요"
 monitor_inn: "Erdafitinib"
-predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome", "amyotrohpic lateral sclerosis type 22", "amyotrophic lateral sclerosis, susceptibility to", "axial spondylometaphyseal dysplasia", "Mills syndrome"]
+predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Erdafitinib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Erdafitinib은 FGFR(섬유아세포성장인자 수용체) 1~4를 억제하는 �
 |------|------|
 | 기존 적응증 | 허가 적응증 원문 텍스트는 확인되지 않았습니다(허가증 링크만 제공됨). 허가사항 참조 필요 |
 | 예측 신규 적응증 | 폐고혈압 (Pulmonary Hypertension) |
-| TxGNN 예측 점수 | 99.38% |
+| TxGNN 예측 점수 | 0.9938 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Erdafitinib은 FGFR(섬유아세포성장인자 수용체) 1~4를 억제하는 �
 
 현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 알려진 정보에 따르면 erdafitinib은 pan-FGFR(FGFR1-4) 티로신 키나제 억제제입니다. FGF/FGFR 신호전달은 폐혈관 리모델링과 평활근·내피세포 증식에 관여하는 것으로 보고되어 있어, 생물학적으로 일정한 연결 가능성이 있습니다.
 
-다만 이 연결은 가설 수준입니다. 이 적응증을 직접 뒷받침하는 임상시험이나 문헌이 없고, 높은 TxGNN 점수(0.994)는 계산 모델의 예측일 뿐입니다. 또한 FGFR 억제의 계열 독성인 고인산혈증 등이 해당 환자군에서 문제가 될 수 있습니다.
+다만 이 연결은 가설 수준입니다. 이 적응증을 직접 뒷받침하는 임상시험이나 문헌이 없고, 높은 TxGNN 점수(0.9938)는 계산 모델의 예측일 뿐입니다. 또한 FGFR 억제의 계열 독성인 고인산혈증 등이 해당 환자군에서 문제가 될 수 있습니다.
 
 ## 한국 시판 정보
 

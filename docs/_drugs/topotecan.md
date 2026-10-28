@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Topotecan
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 748
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Topotecan: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L3). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
 monitor_inn: "Topotecan"
@@ -14,7 +14,7 @@ predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 # Topotecan
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
 | 예측 신규 적응증 | 여성 유방암 (female breast carcinoma) |
-| TxGNN 예측 점수 | 99.92% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9992 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 

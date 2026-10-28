@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 554
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Norfloxacin: 예측 신규 적응증 다클론성 과점성 증후군 (Polyclonal Hyperviscosity Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 텍스트는 확인되지 않음(허가증 PDF 링크만 있음). 약물 분류상 항균제"
 monitor_inn: "NORFLOXACIN"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+last_modified_at: 2026-10-23
+description: "Norfloxacin: 예측 신규 적응증 고아밀라아제혈증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨)"
 ---
 
 # Norfloxacin
@@ -33,33 +33,32 @@ predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia",
 
 </div>
 
-## Norfloxacin: 세균 감염에서 다클론성 과점성 증후군으로
+## Norfloxacin: 세균 감염에서 고아밀라아제혈증으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Norfloxacin은 플루오로퀴놀론계 항균제로, 한국에서 허가를 받아 시판되고 있습니다(현재 확인되는 허가는 모두 수출용입니다).
-TxGNN 모델은 **다클론성 과점성 증후군(Polyclonal Hyperviscosity Syndrome)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다. 기전상 연결고리도 확인되지 않아 모델 예측 단계에 머물러 있습니다.
+Norfloxacin은 플루오로퀴놀론 계열 항균제로, 한국에서 단일 성분 제품으로 허가되어 있습니다. TxGNN 모델은 **고아밀라아제혈증(hyperamylasemia)**에 효과가 있을 수 있다고 예측하지만, 이를 직접 뒷받침하는 임상시험과 문헌은 **0건**입니다. 따라서 현재로서는 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 텍스트는 확인되지 않음(허가증 PDF 링크만 있음). 약물 분류상 항균제 |
-| 예측 신규 적응증 | 다클론성 과점성 증후군 (Polyclonal Hyperviscosity Syndrome) |
-| TxGNN 예측 점수 | 99.70% |
+| 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨) |
+| 예측 신규 적응증 | 고아밀라아제혈증 |
+| TxGNN 예측 점수 | 0.9970 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 9건 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 9건 (모두 단일 성분, 유효, 수출용) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 정보에 따르면 Norfloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 플루오로퀴놀론계 항균제입니다.
+현재 상세한 작용 기전 데이터는 보고서 작성에 사용한 자료에 없습니다. 일반적으로 norfloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 항균제로 알려져 있습니다.
 
-다클론성 과점성 증후군은 혈청 면역글로불린이 증가하여 생기는 질환입니다. 항균제는 이 과정에 알려진 영향이 없으므로, 기존 적응증과 신규 적응증 사이에 타당한 기전적 연관성이 없습니다. 0.997이라는 높은 점수는 지식 그래프에 기반한 계산상 예측일 뿐, 임상시험이나 문헌의 뒷받침이 없습니다.
+고아밀라제혈증은 췌장, 침샘, 신장 등 여러 원인으로 나타나는 검사실 소견이며, 감염 자체를 적응증으로 하는 질환이 아닙니다. 항균제의 작용 기전과 이 질환 사이에서 뚜렷한 연결고리는 확인되지 않습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)에서 나온 예측일 뿐이며, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. 이를 지지하는 데이터는 없습니다.
 
-참고로 상위 예측 10건 중 대부분(고아밀라제혈증, 선천성 무알부민혈증, 혈액형 부적합, 미만성 피부경화증 등)도 같은 이유로 기전적 근거가 없습니다. 그나마 연결 가능성이 있는 것은 패혈성 페스트입니다. 페스트균(*Yersinia pestis*)은 일반적으로 플루오로퀴놀론에 감수성이 있기 때문입니다. 다만 Norfloxacin은 경구 생체이용률이 낮고 혈중 노출이 제한적이어서 전신 감염에는 적합하지 않으며, 더 적합한 다른 퀴놀론계 약물이 있습니다.
+참고로 순위 2~10위의 다른 예측(다클론성 과점성 증후군, 선천성 무알부민혈증, 확산형 피부경화증, 단클론감마병증 등)도 기전적 근거가 없거나 약합니다. 패혈성 페스트는 플루오로퀴놀론 계열의 항균 근거가 일부 있으나, norfloxacin은 전신 노출이 낮아 부적합할 가능성이 큽니다.
 
 ## 임상시험 근거
 
@@ -67,63 +66,43 @@ TxGNN 모델은 **다클론성 과점성 증후군(Polyclonal Hyperviscosity Syn
 
 ## 문헌 근거
 
-예측 1순위(다클론성 과점성 증후군)에 대한 관련 문헌이 없습니다.
-
-참고로 하위 예측 질환에서 검색된 문헌은 다음과 같으며, 모두 Norfloxacin의 치료 효과를 입증하지 못합니다.
-
-| PMID | 연도 | 유형 | 저널 | 관련 예측 질환 | 주요 발견 |
-|------|-----|------|------|------|---------|
-| [12867402](https://pubmed.ncbi.nlm.nih.gov/12867402/) | 2003 | 증례 시리즈 | Ophthalmology | 점상 상피성 각결막염 | 건강한 사람에서 발생한 미포자충 각결막염 6례 보고. Norfloxacin 효과는 제시되지 않음 |
-| [22959880](https://pubmed.ncbi.nlm.nih.gov/22959880/) | 2012 | 증례 시리즈 | Am J Ophthalmol | 점상 상피성 각결막염 | 반복적 각막 면봉 처치의 효과 보고. Norfloxacin 효과는 제시되지 않음 |
-| [8834911](https://pubmed.ncbi.nlm.nih.gov/8834911/) | 1996 | 관찰 연구 | Antimicrob Agents Chemother | 단클론성 감마병증 | 혈액암 환자에서 Norfloxacin 예방 투여 중 퀴놀론 내성 대장균이 40%에서 출현 |
-| [10987101](https://pubmed.ncbi.nlm.nih.gov/10987101/) | 2000 | 전임상 | Antibiot Khimioter | 패혈성 페스트 | 마우스 실험에서 Norfloxacin의 백신 후 면역 영향은 시프로플록사신 등보다 낮음 |
-| [11057367](https://pubmed.ncbi.nlm.nih.gov/11057367/) | 2000 | 전임상 | Antibiot Khimioter | 패혈성 페스트 | 콜레라균의 퀴놀론 내성에 관한 실험 연구로 페스트와는 무관 |
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
+허가 적응증 본문은 확인되지 않았고 허가 문서 링크만 제공되어, 적응증 칸에는 "허가 문서 참조"로 표기합니다. 모든 허가는 수출용입니다.
+
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 199701631 | 파마노르플록사신캡슐200밀리그람(수출용) | 캡슐 | 허가증 PDF 참조 |
-| 199703360 | 노플록신정400밀리그람(수출용) | 필름코팅정 | 허가증 PDF 참조 |
-| 199702940 | 휴온스노르플록사신정400mg(수출용) | 필름코팅정 | 허가증 PDF 참조 |
-| 198601049 | 유리스코정400밀리그람(수출용) | 제피정 | 허가증 PDF 참조 |
-| 199701632 | 파마노르플록사신캡슐400밀리그람(수출용) | 캡슐 | 허가증 PDF 참조 |
-
-위 5건 외에 4건의 허가가 더 있으며, 총 9건이 모두 유효한 단일제입니다.
-
-## 세포독성
-
-해당 약물은 항종양약이 아니므로 이 항목은 적용되지 않습니다.
+| 199701631 | 파마노르플록사신캡슐200밀리그람(수출용) | 캡슐 | 허가 문서 참조 |
+| 199703360 | 노플록신정400밀리그람(수출용) | 필름코팅정 | 허가 문서 참조 |
+| 199702940 | 휴온스노르플록사신정400mg(수출용) | 필름코팅정 | 허가 문서 참조 |
+| 198601049 | 유리스코정400밀리그람(수출용) | 제피정 | 허가 문서 참조 |
+| 199701632 | 파마노르플록사신캡슐400밀리그람(수출용) | 캡슐 | 허가 문서 참조 |
 
 ## 안전성 고려사항
 
-허가사항의 경고 및 금기 정보는 확보되지 않았으므로 허가사항을 참조하세요.
+- **약물 상호작용**: 총 100건이 조회되었으며, 주요(Major) 상호작용으로 다음 약물이 확인되었습니다.
+  - 스테로이드: hydrocortisone, triamcinolone, dexamethasone, betamethasone
+  - 기타: bupropion, chlorpropamide
+- 중등도(Moderate) 상호작용으로는 혈당강하제(acarbose, metformin, pioglitazone, alogliptin, albiglutide, canagliflozin), famotidine, loperamide, 아스피린, 칼슘 제제 등이 있습니다.
+- **지식 그래프상 금기 관계**: 허가사항이 아닌 지식 그래프에 기록된 관계입니다. QT 연장 증후군, torsades de pointes, 간부전·간질환, 신장질환, 간질(epilepsy), 정신질환, 말초신경병증, 힘줄염, 당뇨병, 횡문근융해증, 혈소판감소증, 빈혈 등이 포함됩니다.
 
-**약물 상호작용**(총 100건 검색, 일부 표시)
-- **Major 등급**: Hydrocortisone, Dexamethasone, Betamethasone, Triamcinolone(코르티코스테로이드), Bupropion, Chlorpropamide
-- **Moderate 등급**: Acarbose, Famotidine, Metformin, Pioglitazone, Loperamide, Acetylsalicylic acid 등
-
-**지식 그래프상 금기 관련 질환**(허가 문구가 아닌 모델 데이터)
-- 심혈관: QT 연장 증후군, 다형성 심실빈맥(torsades de pointes)
-- 간·신장: 간부전, 간경변, 신장 질환
-- 신경·정신: 간질, 말초신경병증, 불안·정신 질환
-- 근골격: 건염, 횡문근융해
-- 대사·혈액: 당뇨병, 당뇨병성 케톤산증, 혈소판감소증, 빈혈, 저칼륨혈증
-
-특히 예측 9순위(말초신경병증 관련 혈액 질환)는 플루오로퀴놀론의 말초신경병증 위험 때문에 오히려 사용에 불리합니다.
+허가사항의 경고 및 금기 정보는 확보되지 않았으므로 허가 문서를 직접 확인해야 합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 높지만 임상시험과 문헌이 없고 기전적 연결고리도 확인되지 않아 근거 수준은 L5입니다. 항균제가 면역글로불린 증가에 따른 과점성에 작용한다고 볼 근거가 없습니다.
+고아밀라아제혈증에 대한 임상시험과 문헌이 전혀 없고 기전적 연결고리도 확인되지 않아, 근거 수준은 L5(모델 예측만 존재)입니다. 안전성 면에서도 지식 그래프상 금기 관계가 많아 신중한 검토가 필요합니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증 본문)의 확보. 현재는 PDF 링크만 있어 안전성 선별을 진행할 수 없음
-- 작용 기전(MOA) 데이터의 보완(DrugBank 조회)
-- 다클론성 과점성 증후군과 Norfloxacin의 연관성을 설명하는 기전 가설 또는 전임상 근거
-- 신규 적응증 후보를 재검토. 패혈성 페스트는 연구 질문으로 가능하나, Norfloxacin은 전신 노출이 낮아 다른 퀴놀론계 약물이 더 적합함
+- 한국 허가 문서(PDF)에서 적응증, 경고, 금기 정보 확보
+- DrugBank 등에서 작용 기전(MOA) 데이터 확보
+- 고아밀라아제혈증과 norfloxacin의 연관성을 직접 다룬 연구 탐색
+- 시판 및 취소 상태 확인
+- 대안으로 근거가 상대적으로 있는 순위 10위(패혈성 페스트)는 연구 질문 수준에서 검토 가능하나, norfloxacin의 낮은 전신 노출이 한계임
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

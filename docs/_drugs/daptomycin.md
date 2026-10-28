@@ -4,17 +4,17 @@ title: Daptomycin
 parent: 모델 예측만 (L5)
 nav_order: 251
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Daptomycin: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 기재되어 있어 확인할 수 없음 (허가사항 참조 필요)"
 monitor_inn: "Daptomycin"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
 ---
 
 # Daptomycin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 기재되어 있어 확인할 수 없음 (허가사항 참조 필요) |
 | 예측 신규 적응증 | 골관절염 (osteoarthritis) |
-| TxGNN 예측 점수 | 99.86% |
+| TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 (모델 예측 중심. 관련 문헌은 감염 관련 코호트 연구로 골관절염 자체에 대한 근거가 아님) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 6건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 
 현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 daptomycin은 그람양성균의 세포막에 작용하는 항생제로 알려져 있으며, 한국에서는 주사제로 시판되고 있습니다.
 
-TxGNN의 높은 점수는 지식 그래프에서 '관절염'과 '관절 감염' 개념이 가까이 위치하기 때문일 가능성이 큽니다. 검색된 문헌은 인공관절 감염, 화농성 관절염, 골·관절 감염에서 daptomycin을 사용한 경험으로, 퇴행성 골관절염에 대한 질환 조절 효과를 보여주지 않습니다. 따라서 이것은 진정한 의미의 약물 재창출이라고 보기 어렵습니다.
+TxGNN 모델(딥러닝)의 높은 점수는 모델이 '관절염'과 '관절 감염'처럼 관련된 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다. 검색된 문헌은 인공관절 감염, 화농성 관절염, 골·관절 감염에서 daptomycin을 사용한 경험으로, 퇴행성 골관절염에 대한 질환 조절 효과를 보여주지 않습니다. 따라서 이것은 진정한 의미의 약물 재창출이라고 보기 어렵습니다.
 
 참고로 같은 예측 목록의 2순위인 류마티스 관절염에서는 마우스 콜라겐 유발 관절염 모델에서 염증성 사이토카인과 NF-κB 경로를 억제했다는 전임상 연구(PMID 39571268)가 있어, 후속 검토 가치가 상대적으로 더 있습니다. 다만 사람 대상 자료는 없습니다.
 

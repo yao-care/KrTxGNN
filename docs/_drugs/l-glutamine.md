@@ -33,7 +33,7 @@ predicted_indications: ["drug-induced osteoporosis", "hemorrhagic disease of new
 
 </div>
 
-## L-Glutamine: 소화불량·식욕감퇴에서 피부염으로
+## L-Glutamine: 소화불량·식욕감퇴에서 약인성 골다공증으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -49,9 +49,9 @@ TxGNN 모델은 **약물유발 골다공증(drug-induced osteoporosis)**을 최�
 |------|------|
 | 기존 적응증 | 소화불량, 식욕감퇴, 과식, 체함, 소화촉진, 소화불량으로 인한 위부팽만감 |
 | 예측 신규 적응증 | 약물유발 골다공증 (drug-induced osteoporosis) — 1위, 근거 없음 / 피부염 (dermatitis) — 3위, 근거 있음 |
-| TxGNN 예측 점수 | 약물유발 골다공증 99.98% / 피부염 99.85% |
+| TxGNN 예측 점수 | 약물유발 골다공증 0.9998 / 피부염 0.9985 |
 | 근거 수준 | 약물유발 골다공증 L5 / 피부염 L3 (간접·전임상 위주) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | 약물유발 골다공증: Hold / 피부염: 추가 연구 필요 (Research Question) |
 

@@ -4,17 +4,17 @@ title: Remdesivir
 parent: 모델 예측만 (L5)
 nav_order: 649
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Remdesivir: 예측 신규 적응증 다중 내분비 종양증 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가 문서 링크만 제공됨)"
 monitor_inn: "Remdesivir"
-predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia", "Prinzmetal angina", "leprosy", "antithrombin deficiency type 2", "cytomegalovirus infection"]
+predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 ---
 
 # Remdesivir
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **다중 내분비 종양증(Multiple Endocrine Neoplasia)**에 
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가 문서 링크만 제공됨). |
 | 예측 신규 적응증 | 다중 내분비 종양증 (Multiple Endocrine Neoplasia) |
-| TxGNN 예측 점수 | 99.50% |
+| TxGNN 예측 점수 | 0.9950 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -64,11 +64,9 @@ TxGNN 모델은 **다중 내분비 종양증(Multiple Endocrine Neoplasia)**에 
 
 | 순위 | 예측 질환 | 점수 | 근거 수준 | 평가 |
 |------|---------|------|---------|------|
-| 2 | HIV 감염증 | 99.32% | L4 | 관련 시험(NCT04385719)은 약동학 연구로, HIV에서의 효능 근거는 없습니다. 문헌은 대부분 COVID-19 관련입니다. |
-| 3 | 원숭이 면역결핍 바이러스 감염 | 99.07% | L5 | 시험·문헌 근거 없음 |
-| 4 | 고양이 후천성 면역결핍 증후군 | 99.07% | L5 | 수의학 질환으로 인체 적용과 무관 |
-| 8 | 나병 | 97.37% | L5 | 세균 감염으로 항균 활성이 알려져 있지 않음 |
-| 10 | 거대세포바이러스 감염 | 97.08% | L4 | CMV는 DNA 바이러스로 직접 효능을 기대하기 어렵고, 문헌은 COVID-19 환자의 CMV 재활성화 관련입니다. |
+| 2 | HIV 감염증 | 0.9932 | L4 | 관련 시험(NCT04385719)은 약동학 연구로, HIV에서의 효능 근거는 없습니다. 문헌은 대부분 COVID-19 관련입니다. |
+| 3 | 원숭이 면역결핍 바이러스 감염 | 0.9907 | L5 | 시험·문헌 근거 없음 |
+| 4 | 고양이 후천성 면역결핍 증후군 | 0.9907 | L5 | 수의학 질환으로 인체 적용과 무관 |
 
 ## 임상시험 근거
 

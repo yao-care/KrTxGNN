@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tolfenamic Acid
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 744
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Tolfenamic Acid: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L2). 기존 적응증: 허가증에 적응증 본문이 아닌 링크만 기재되어 있어 구체적인 내용을 확인할 수 없음"
 monitor_inn: "TOLFENAMIC ACID"
-predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis", "trigeminal autonomic cephalalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia", "exostosis", "inclusion body myositis", "osteoarthritis susceptibility"]
+predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis", "trigeminal autonomic cephalalgia", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "exostosis", "inclusion body myositis"]
 ---
 
 # Tolfenamic Acid
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Tolfenamic acid는 fenamate 계열 비스테로이드 소염제(NSAID)로, 한�
 |------|------|
 | 기존 적응증 | 허가증에 적응증 본문이 아닌 링크만 기재되어 있어 구체적인 내용을 확인할 수 없음 |
 | 예측 신규 적응증 | 두통 질환 (headache disorder) |
-| TxGNN 예측 점수 | 99.74% |
-| 근거 수준 | L2 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9974 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -114,15 +114,14 @@ Tolfenamic acid는 fenamate 계열 비스테로이드 소염제(NSAID)로, 한�
 
 | 순위 | 예측 적응증 | 예측 점수 | 근거 수준 | 권장 결정 |
 |-----|-----------|---------|---------|---------|
-| 2 | 건염 (tendinitis) | 99.71% | L5 | Hold |
-| 3 | 류마티스 관절염 (rheumatoid arthritis) | 99.70% | L2 | Proceed with Guardrails |
-| 4 | 삼차신경 자율신경성 두통 | 99.68% | L5 | Hold |
-| 5 | 섬유성 근염 (myositis fibrosa) | 99.68% | L5 | Hold |
-| 6 | 특발성 육아종성 근염 | 99.68% | L5 | Hold |
-| 7 | 섬유근육통 (fibromyalgia) | 99.65% | L5 | Hold |
-| 8 | 외골증 (exostosis) | 99.62% | L5 | Hold |
-| 9 | 봉입체 근염 | 99.54% | L5 | Hold |
-| 10 | 골관절염 감수성 | 99.48% | L5 | Hold |
+| 2 | 건염 (tendinitis) | 0.9971 | L5 | Hold |
+| 3 | 류마티스 관절염 (rheumatoid arthritis) | 0.9970 | L2 | Proceed with Guardrails |
+| 4 | 삼차신경 자율신경성 두통 | 0.9968 | L5 | Hold |
+| 5 | 섬유성 근염 (myositis fibrosa) | 0.9968 | L5 | Hold |
+| 6 | 특발성 육아종성 근염 | 0.9968 | L5 | Hold |
+| 7 | 섬유근육통 (fibromyalgia) | 0.9965 | L5 | Hold |
+| 8 | 외골증 (exostosis) | 0.9962 | L5 | Hold |
+| 9 | 봉입체 근염 | 0.9954 | L5 | Hold |
 
 류마티스 관절염은 phenylbutazone, ibuprofen 등과 비교한 이중맹검 시험 문헌이 있으나 대부분 1970~1980년대 연구이며, 질병 조절이 아닌 증상 완화 목적의 NSAID 치료로 보아야 합니다. 나머지 적응증은 모델 예측만 있고 임상시험이나 문헌 근거가 없습니다.
 ## 면책 조항

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Venetoclax
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 782
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Venetoclax: 예측 신규 적응증 전배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center CLL/SLL) (근거 수준 L4). 기존 적응증: 이번 보고서용으로 수집한 데이터에는 허가 적응증 본문 없이 허가증 PDF 링크만 있어 확인되지 않음 (BCL-2 억제로 CL…"
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
+description: "Venetoclax: 예측 신규 적응증 Hodgkins lymphoma (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE"
 ---
 
 # Venetoclax
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-
 
 </div>
 
-## Venetoclax: 허가 적응증에서 전배중심 만성 림프구성 백혈병/소림프구성 림프종(CLL/SLL) 아형으로
+## Venetoclax: Hodgkins lymphoma
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,11 +46,11 @@ TxGNN 모델은 **전배중심 CLL/SLL(pregerminal center CLL/SLL, IGHV 비돌�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이번 보고서용으로 수집한 데이터에는 허가 적응증 본문 없이 허가증 PDF 링크만 있어 확인되지 않음 (BCL-2 억제로 CLL/SLL이 허가되어 있다고 알려져 있으나 한국 허가사항에서 확인 필요) |
-| 예측 신규 적응증 | 전배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center CLL/SLL) |
-| TxGNN 예측 점수 | 99.55% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903543/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903542/EE |
+| 예측 신규 적응증 | Hodgkins lymphoma |
+| TxGNN 예측 점수 | 0.9951 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
@@ -113,7 +113,7 @@ TxGNN 모델은 **전배중심 CLL/SLL(pregerminal center CLL/SLL, IGHV 비돌�
 **결정: Hold**
 
 **사유:**
-이 예측은 이미 허가된 CLL/SLL의 하위 아형이어서 새로운 재창출 신호가 아니며, 아형 특이적 임상시험이 없고 연관 문헌도 venetoclax를 직접 다루지 않습니다. 높은 TxGNN 점수(99.55%)는 상위 질환과의 연관성을 반영한 것으로 보이며 독립적 근거는 아닙니다.
+이 예측은 이미 허가된 CLL/SLL의 하위 아형이어서 새로운 재창출 신호가 아니며, 아형 특이적 임상시험이 없고 연관 문헌도 venetoclax를 직접 다루지 않습니다.
 
 **진행하려면 필요한 것:**
 - 한국 허가사항에서 CLL/SLL 적응증 포함 여부를 확인해야 합니다. 이번 데이터에는 허가증 링크만 있어 본문을 확인하지 못했습니다.

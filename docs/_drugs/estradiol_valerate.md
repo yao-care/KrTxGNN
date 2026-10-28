@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 319
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Estradiol Valerate: 예측 신규 적응증 무배란 (Anovulation) — 1위 예측은 취약 X 증후군 여성 보인자 증상형(근거 없음) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조 필요)"
 monitor_inn: "ESTRADIOL VALERATE"
-predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "anovulation", "ovarian remnant syndrome", "luteoma of pregnancy", "ovarian dysfunction"]
+predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
+last_modified_at: 2026-10-27
+description: "Estradiol Valerate: 예측 신규 적응증 취약 X 증후군 여성 보인자의 증상형 (symptomatic form of fragile X syndrome in female carrier) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800966/EE"
 ---
 
 # Estradiol Valerate
@@ -33,98 +33,62 @@ predicted_indications: ["symptomatic form of fragile X syndrome in female carrie
 
 </div>
 
-## Estradiol Valerate: 폐경 관련 증상 치료에서 무배란(Anovulation)으로
+## Estradiol Valerate: 에스트로겐 제제 → 취약 X 증후군 여성 보인자의 증상형 (symptomatic form of fragile X syndrome in female carrier)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Estradiol valerate는 에스트로겐 제제로, 한국에서 경구 당의정(프로기노바)과 주사제(에스트라디올-데포)로 허가·시판되고 있습니다. TxGNN 모델은 **무배란(Anovulation)**에 효과가 있을 수 있다고 예측하지만, 현재 근거는 **1건의 임상시험(Phase 4, 상태 불명)**과 주로 동물 모델 중심의 문헌에 그치며, 문헌 다수는 이 약이 오히려 무배란을 유발하는 방향을 보여줍니다.
-
-> 참고: 가장 높은 예측 점수(1위)는 "취약 X 증후군 여성 보인자의 증상형"이었으나 뒷받침하는 임상시험·문헌이 전혀 없습니다. 이 보고서는 근거가 실제로 존재하는 7위(무배란)를 중심으로 평가하고, 나머지 후보는 마지막에 간략히 정리합니다.
+Estradiol valerate는 에스트로겐 계열 호르몬제입니다. TxGNN 모델은 **취약 X 증후군 여성 보인자의 증상형(symptomatic form of fragile X syndrome in female carrier)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험이나 문헌은 현재 확인되지 않았습니다. 따라서 이 예측은 모델 점수에만 의존하는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조 필요) |
-| 예측 신규 적응증 | 무배란 (Anovulation) — 1위 예측은 취약 X 증후군 여성 보인자 증상형(근거 없음) |
-| TxGNN 예측 점수 | 99.91% (무배란 기준, 1위 후보는 99.94%) |
-| 근거 수준 | L3 (무배란 기준, 인체 근거는 Phase 4 시험 1건 및 소규모 임상연구 1건뿐이며 결과 미제공) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 3건 |
-| 권장 결정 | Hold (연구 질문 단계) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800966/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800965/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109171/EE |
+| 예측 신규 적응증 | 취약 X 증후군 여성 보인자의 증상형 (symptomatic form of fragile X syndrome in female carrier) |
+| TxGNN 예측 점수 | 0.9994 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 3건 (모두 단일 성분 제제, 유효) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 estradiol valerate는 에스트라디올의 에스테르 전구약물로, 시상하부-뇌하수체-난소 축과 자궁내막 및 자궁경부 점액의 수용성에 영향을 주는 에스트로겐입니다.
+현재 상세한 작용 기전 데이터가 없습니다. Estradiol valerate는 에스트라디올의 에스테르 전구약물로, 에스트로겐 보충 목적으로 쓰이는 호르몬제입니다.
 
-무배란 치료에서 클로미펜 시트르산염(CC)은 항에스트로겐 작용으로 자궁내막과 경부 점액에 불리한 영향을 줄 수 있습니다. 에스트라디올을 병용하면 이를 상쇄할 수 있다는 가설이 있으며, 이것이 아래 임상시험의 근거입니다.
-
-다만 중요한 주의점이 있습니다. 검색된 문헌 대부분은 estradiol valerate를 **쥐·생쥐·소에서 다낭성 난소 모델을 유도하는 물질**로 사용한 연구입니다. 즉, 이 약이 무배란을 치료하기보다 **유발할 수 있음**을 보여주므로 효과의 방향성에 대한 우려가 있습니다.
+취약 X 증후군의 FMR1 전변이(premutation) 여성 보인자 중 일부는 조기 난소 기능 부전(FXPOI)을 겪을 수 있습니다. 이 경우 에스트로겐 보충이 기전상 고려될 수 있습니다. 다만 이는 가능성에 대한 추정일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌은 이번 데이터에서 확인되지 않았습니다. 또한 에스트로겐 보충은 난소 관련 증상에만 해당할 수 있고, 취약 X 증후군의 신경인지 증상을 다루지는 못할 것으로 보입니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT02186782](https://clinicaltrials.gov/study/NCT02186782) | Phase 4 | 불명 | 600 | 불임 여성의 배란 유도에서 클로미펜 단독 대비 클로미펜+에스트라디올 병용 효과를 비교하는 무작위 대조시험(결과 미제공, 사용된 에스트라디올 제형 불명확) |
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
-검색된 문헌 중 인체 관련 또는 리뷰 위주로 정리했습니다. 대부분은 동물 모델 연구입니다.
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [36063826](https://pubmed.ncbi.nlm.nih.gov/36063826/) | 2022 | 무작위 임상연구 | Gynecol Endocrinol | 원인불명 반복 유산 환자 88명에서 에스트라디올 발레레이트 용량(4/6/9 mg)별 자궁내막 ER 발현 및 난소 기능 비교 |
-| [40774400](https://pubmed.ncbi.nlm.nih.gov/40774400/) | 2025 | Review | J Steroid Biochem Mol Biol | PCOS 동물 모델에서 사용되는 유도 물질에 대한 종합 분석 |
-| [1472813](https://pubmed.ncbi.nlm.nih.gov/1472813/) | 1992 | 임상 보고 | J Assist Reprod Genet | 난자 공여 프로그램에서 경구 estradiol valerate 6 mg/일 호르몬 대체 후 임신율 평가(13명, 17주기) |
-| [12960066](https://pubmed.ncbi.nlm.nih.gov/12960066/) | 2003 | 동물 연구 | Endocrinology | 사춘기 전 쥐에 투여 시 주기 교란 및 낭성 난소 형태 유발 |
-| [34370943](https://pubmed.ncbi.nlm.nih.gov/34370943/) | 2021 | 동물 연구 | Clin Exp Reprod Med | EV 유도 다낭성 난소 생쥐 모델에서 무배란 및 유전자 발현 변화 |
-| [16727693](https://pubmed.ncbi.nlm.nih.gov/16727693/) | 1995 | 동물 연구 | Theriogenology | 암송아지에서 EV로 낭성 난소 변성 유도 |
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 200800966 | 프로기노바28정1밀리그램 (바이엘코리아) | 베이지색 원형 당의정 | 허가사항 참조 (문서 링크만 제공됨) |
-| 200800965 | 프로기노바28정2밀리그램 (바이엘코리아) | 흰색 원형 당의정 | 허가사항 참조 (문서 링크만 제공됨) |
-| 200109171 | 에스트라디올-데포주10mg (제이텍바이오젠) | 갈색 앰플 주사(미황색 유성액) | 허가사항 참조 (문서 링크만 제공됨) |
+| 200800966 | 프로기노바28정1밀리그램 | 당의정 | 허가 문서 링크만 기재되어 있음 |
+| 200800965 | 프로기노바28정2밀리그램 | 당의정 | 허가 문서 링크만 기재되어 있음 |
+| 200109171 | 에스트라디올-데포주10mg | 주사(앰플) | 허가 문서 링크만 기재되어 있음 |
 
 ## 안전성 고려사항
 
-허가사항의 경고·금기 정보는 확보되지 않았으므로 허가사항을 참조하세요.
-
-참고로 지식그래프(PrimeKG)에서는 다음 질환이 이 약의 금기 관련 항목으로 연결되어 있습니다. 이는 허가 문서가 아닌 모델 기반 정보이므로 참고용으로만 활용해야 합니다.
-- 심혈관·대사: 고혈압, 울혈성 심부전, 당뇨병, 당뇨병성 케톤산증, 고중성지방혈증, 고칼슘혈증
-- 간·담도·신장: 간질환, 담낭질환, 신장질환
-- 신경·정신: 간질, 불안장애, 신경증, 기분부전장애
-- 기타: 포르피린증, 갑상선기능저하증, 전신 홍반성 루푸스, 천식, 양성 전립선비대증, 여성형 유방
-
-약물 상호작용 데이터는 조회되지 않았습니다.
+안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-무배란에 대한 인체 근거는 결과가 공개되지 않은 Phase 4 시험 1건과 간접적인 소규모 임상연구뿐이며, 검색된 문헌 대부분은 이 약이 무배란·다낭성 난소를 *유발*하는 동물 모델입니다. 예측 점수는 높지만 효과 방향이 불확실하고, 허가사항 기반 안전성 검토도 이루어지지 않았습니다.
+예측 점수는 높지만(0.9994) 이 질환을 직접 다룬 임상시험이나 문헌이 없어 근거 수준은 L5입니다. 기전상의 연결 고리도 추정 단계에 머물러 있습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(PDF) 파싱을 통한 적응증·경고·금기 확인 (필수, 현재 안전성 검토 진행 불가)
-- 작용 기전(MOA) 데이터 보완 (DrugBank)
-- NCT02186782의 결과 확인 및 사용된 에스트라디올 제형 확인
-- 에스트라디올 병용이 배란 유도에 실제로 이로운지 판단할 인체 대조연구 근거 확보
-
-## 부록: 기타 예측 후보 요약
-
-| 순위 | 예측 질환 | 점수 | 근거 수준 | 비고 |
-|-----|---------|------|---------|------|
-| 1 | 취약 X 증후군 여성 보인자의 증상형 | 99.94% | L5 | 조기 난소부전(FXPOI)에 대한 에스트로겐 보충은 개념상 타당하나 근거 없음 |
-| 2 | BPES (안검열소·안검하수·역내안각췌피) | 99.92% | L5 | 난소 표현형에만 개념적 관련, 안검 기형은 해결 불가 |
-| 3, 4, 6 | 5p·12p·18p 부분 삼염색체/사염색체 | 99.92% | L5 | 뚜렷한 기전 없음, 그래프 유사성 가능성 |
-| 5 | BPES (3q23 재배열) | 99.92% | L5 | BPES와 동일 논리, 직접 근거 없음 |
-| 8 | 난소 잔존 증후군 | 99.91% | L5 | 확립된 치료 아님 |
-| 9 | 임신성 황체종 | 99.91% | L5 | 치료 근거 불분명, 임신 중 에스트로겐 안전성 우려 |
-| 10 | 난소 기능 이상 | 99.91% | L4 | 문헌 대부분이 동물 모델에서의 난소 기능 이상 유발 연구 |
+- FMR1 전변이 여성 보인자 및 FXPOI에서 에스트로겐 보충의 효과를 평가한 임상 연구 또는 문헌 확인
+- 상세한 약물 작용 기전(MOA) 데이터 보완
+- 허가사항(경고, 금기)의 안전성 정보 확보
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

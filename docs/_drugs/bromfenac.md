@@ -48,9 +48,9 @@ TxGNN 모델은 **안질환(Eye Disease)**에 효과가 있을 수 있다고 예
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가사항 문서 링크만 확보됨) |
 | 예측 신규 적응증 | 안질환 (Eye Disease) |
-| TxGNN 예측 점수 | 99.80% |
+| TxGNN 예측 점수 | 0.9980 |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 17건 |
 | 권장 결정 | Proceed with Guardrails |
 

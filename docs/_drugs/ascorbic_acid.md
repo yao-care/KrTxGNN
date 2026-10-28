@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ascorbic Acid: 예측 신규 적응증 비증후군성 식도 기형 (non-syndromic esophageal malformation) (근거 수준 L5). 기존 적응증: 치주치료 후 치은염, 경·중등도 치주염의 보조치료"
 monitor_inn: "ASCORBIC ACID"
-predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
+predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
 ---
 
 # Ascorbic Acid
@@ -47,9 +47,9 @@ TxGNN 모델은 **비증후군성 식도 기형(non-syndromic esophageal malform
 |------|------|
 | 기존 적응증 | 치주치료 후 치은염, 경·중등도 치주염의 보조치료 |
 | 예측 신규 적응증 | 비증후군성 식도 기형 (non-syndromic esophageal malformation) |
-| TxGNN 예측 점수 | 99.96% |
+| TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **비증후군성 식도 기형(non-syndromic esophageal malform
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ascorbic Acid는 항산화 작용과 콜라겐 합성 보조에 관여하는 필수 영양소입니다. 국내에서는 단일제 형태의 주사제, 정제, 캡슐제로 널리 허가되어 있습니다.
 
-다만 이번 예측 질환과의 기전상 연결고리는 확인되지 않습니다. 식도 기형은 태생기 발달 과정의 구조적 결손입니다. 비타민 C 보충으로 교정되기는 어렵다고 판단됩니다. 높은 TxGNN 점수는 지식 그래프상의 연관성에서 나온 예측일 뿐, 임상적 근거로 해석해서는 안 됩니다.
+다만 이번 예측 질환과의 기전상 연결고리는 확인되지 않습니다. 식도 기형은 태생기 발달 과정의 구조적 결손입니다. 비타민 C 보충으로 교정되기는 어렵다고 판단됩니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거가 아니므로 임상적 근거로 해석해서는 안 됩니다.
 
 ## 임상시험 근거
 

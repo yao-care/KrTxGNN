@@ -8,6 +8,7 @@ nav_order: 111
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Azacitidine
@@ -53,7 +54,7 @@ Azacitidine(DrugBank ID: DB00928)은 현재 한국 내 허가 이력이 없으�
 | 예측 신규 적응증 | 없음 (TxGNN 예측 미실행) |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | L5 이하 (예측 결과 없음) |
-| 한국 시판 현황 | 미시판 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 

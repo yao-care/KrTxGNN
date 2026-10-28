@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flubendazole: 예측 신규 적응증 방광 암종 (urinary bladder carcinoma) (근거 수준 L5). 기존 적응증: 회충, 요충, 편충, 십이지장충의 감염 및 이들 혼합감염의 치료"
 monitor_inn: "Flubendazole"
-predicted_indications: ["urinary bladder carcinoma", "urinary bladder neoplasm", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder squamous papilloma", "bladder signet ring cell adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma", "bladder mixed adenocarcinoma"]
+predicted_indications: ["urinary bladder carcinoma", "urinary bladder neoplasm", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder squamous papilloma", "bladder signet ring cell adenocarcinoma", "bladder mixed adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma"]
 ---
 
 # Flubendazole
@@ -33,7 +33,7 @@ predicted_indications: ["urinary bladder carcinoma", "urinary bladder neoplasm",
 
 </div>
 
-## Flubendazole: 장내 기생충 감염에서 방광암으로
+## Flubendazole: 장내 기생충 감염에서 방광 암종으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,19 +47,19 @@ TxGNN 모델은 **방광 암종(urinary bladder carcinoma)**에 효과가 있을
 |------|------|
 | 기존 적응증 | 회충, 요충, 편충, 십이지장충의 감염 및 이들 혼합감염의 치료 |
 | 예측 신규 적응증 | 방광 암종 (urinary bladder carcinoma) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 |
 | 권장 결정 | Hold |
 
-> 참고: 예측 순위 2위인 방광 신생물(점수 99.99%)은 간접적인 전임상 문헌이 있어 L4로 평가되며, 별도로 "연구 과제(Research Question)"로 분류됩니다.
+> 참고: 예측 순위 2위인 방광 신생물(점수 0.9999)은 간접적인 전임상 문헌이 있어 L4로 평가되며, 별도로 "연구 과제(Research Question)"로 분류됩니다.
 
 ## 이 예측이 타당한 이유는?
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 flubendazole은 벤즈이미다졸계 구충제입니다. 이 계열은 전임상 연구에서 튜불린에 결합해 미세소관 중합을 방해하는 것으로 알려져 있으며, 이는 빠르게 증식하는 종양세포에도 영향을 줄 수 있습니다.
 
-다만 이는 계열 수준의 추론이며, 방광암에 대한 flubendazole 고유의 근거는 아닙니다. 구충 적응증과 방광암 사이에 직접적인 임상적 연관성은 확인되지 않았습니다. 상위 예측이 방광암의 여러 아형(침윤성, 비침윤성, 요막관, 인환세포 선암 등)에 집중된 점은 실제 생물학적 특이성보다 지식 그래프에서 방광암 노드들이 인접해 있기 때문일 가능성이 높습니다.
+다만 이는 계열 수준의 추론이며, 방광암에 대한 flubendazole 고유의 근거는 아닙니다. 구충 적응증과 방광암 사이에 직접적인 임상적 연관성은 확인되지 않았습니다. 상위 예측이 방광암의 여러 아형(침윤성, 비침윤성, 요막관, 인환세포 선암 등)에 집중된 점은 실제 생물학적 특이성보다는, TxGNN 모델(딥러닝)이 관련 질환들 사이에서 학습한 유사성을 반영한 결과일 가능성이 높으며, 생물학적 근거는 아닙니다.
 
 ## 임상시험 근거
 
@@ -95,7 +95,7 @@ TxGNN 모델은 **방광 암종(urinary bladder carcinoma)**에 효과가 있을
 **결정: Hold**
 
 **사유:**
-방광암 예측은 TxGNN 점수만 높고(99.99%) 임상시험과 직접 문헌이 없어 L5 수준입니다. 방광 신생물에서 확인된 문헌 2편도 fenbendazole의 전임상 병용 연구라서 flubendazole의 근거로 쓸 수 없습니다.
+방광암 예측은 TxGNN 점수만 높고(0.9999) 임상시험과 직접 문헌이 없어 L5 수준입니다. 방광 신생물에서 확인된 문헌 2편도 fenbendazole의 전임상 병용 연구라서 flubendazole의 근거로 쓸 수 없습니다.
 
 **진행하려면 필요한 것:**
 - Flubendazole 단독의 방광암 세포주 및 동물모델 전임상 데이터

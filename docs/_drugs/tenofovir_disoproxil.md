@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tenofovir Disoproxil
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 726
-evidence_level: L5
+evidence_level: L4
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Tenofovir Disoproxil: 예측 신규 적응증 원숭이면역결핍바이러스 감염 (Simian immunodeficiency virus infection) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 데이터에 포함되어 있지 않아 확인 불가 (허가증 PDF 링크만 제공됨)"
@@ -14,7 +14,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 # Tenofovir Disoproxil
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **4** 건
+근거 수준: **L4** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **원숭이면역결핍바이러스 감염(Simian immunodeficien
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 데이터에 포함되어 있지 않아 확인 불가 (허가증 PDF 링크만 제공됨) |
 | 예측 신규 적응증 | 원숭이면역결핍바이러스 감염 (Simian immunodeficiency virus infection) |
-| TxGNN 예측 점수 | 99.95% |
+| TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L4 (전임상 연구 중심) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -115,7 +115,7 @@ SIV와 SHIV는 HIV와 매우 가까운 렌티바이러스로, 동일한 효소�
 
 **참고: 다른 예측 적응증**
 - 고양이 후천성면역결핍증(feline AIDS): 문헌 1편(수의학 전임상)뿐이며 인체 적응증이 아니어서 Hold입니다.
-- 운동실조 보행·언어 소실을 동반한 신경발달장애: 예측 점수(99.95%)만 있고 임상시험과 문헌이 없으며 기전적 연관성도 보이지 않아 Hold입니다.
+- 운동실조 보행·언어 소실을 동반한 신경발달장애: 예측 점수(0.9995)만 있고 임상시험과 문헌이 없으며 기전적 연관성도 보이지 않아 Hold입니다.
 - 폐기된 가족성 복합 고지혈증: 질환 용어가 폐기(obsolete)된 것으로 표시되어 예측 신뢰도가 낮고 근거가 없어 Hold입니다.
 ## 면책 조항
 

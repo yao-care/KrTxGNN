@@ -4,17 +4,17 @@ title: Famotidine
 parent: 모델 예측만 (L5)
 nav_order: 338
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Famotidine: 예측 신규 적응증 십이지장위 역류 (Duodenogastric Reflux) (근거 수준 L5). 기존 적응증: 위산과다, 속쓰림, 신트림"
+indication_count: 4
 monitor_inn: "FAMOTIDINE"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+last_modified_at: 2026-10-27
+description: "Famotidine: 예측 신규 적응증 십이지장 폐색 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700535/EE"
 ---
 
 # Famotidine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,31 +33,32 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 </div>
 
-## Famotidine: 위산과다·속쓰림에서 십이지장위 역류(Duodenogastric Reflux)로
+## Famotidine: H2 수용체 길항제 → 십이지장 폐색 (duodenal obstruction)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Famotidine은 H2 수용체 길항제로, 한국에서 위산과다, 속쓰림, 신트림 등에 사용되어 왔습니다.
-TxGNN 모델은 **십이지장위 역류(duodenogastric reflux)**에 효과가 있을 수 있다고 예측하지만, 현재 이 방향을 지지하는 **임상시험은 0건**이고 **문헌은 2편**뿐입니다. 이 문헌 2편도 직접적인 효능 입증으로 보기는 어렵습니다.
+Famotidine은 위산 분비를 억제하는 H2 수용체 길항제 계열의 약물입니다.
+TxGNN 모델은 **십이지장 폐색(duodenal obstruction)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 연구한 임상시험은 **0건**이며 관련 문헌 **2편**도 수술 증례 보고에 그칩니다.
+따라서 현재는 모델 예측 단계의 가설로 보는 것이 적절합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 위산과다, 속쓰림, 신트림 |
-| 예측 신규 적응증 | 십이지장위 역류 (Duodenogastric Reflux) |
-| TxGNN 예측 점수 | 99.99% |
-| 근거 수준 | L4 (모델 예측 외에 소규모 임상 연구 2편이 있으나 효능 입증에는 미흡) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 20건 (모두 유효, 단일제) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700535/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105231/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401404/EE; 이 약은 위산과다, 속쓰림, 신트림에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002958/EE; 이 약은 위산과다 및 속쓰림과 관련된 가슴앓이의 경감에  |
+| 예측 신규 적응증 | 십이지장 폐색 (duodenal obstruction) |
+| TxGNN 예측 점수 | 0.9999 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 최소 20건 (목록은 일부일 수 있음) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 보고서에 사용된 데이터에는 상세한 작용 기전 정보가 없습니다. 알려진 정보에 따르면 famotidine은 위벽 세포의 H2 수용체를 차단해 위산 분비를 줄이는 약물이며, 위산과다와 속쓰림에서 효능이 확립되어 있습니다. 이 때문에 기전상 위산 관련 점막 손상이 있는 질환에도 적용 가능할 수 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보로는 famotidine은 H2 수용체 길항제로 위산 분비를 줄이는 약물이며, 이 때문에 위·십이지장 궤양 관련 질환과 연관되어 예측 점수가 높게 나온 것으로 보입니다.
 
-다만 연결 고리는 간접적입니다. 십이지장위 역류는 십이지장 내용물(담즙 등)이 위로 거꾸로 흐르는 질환입니다. Famotidine은 산을 줄여 역류물에 의한 점막 손상을 완화할 수는 있지만, 담즙 역류 자체를 직접 치료하지는 않습니다. 따라서 TxGNN의 높은 점수는 "산 억제 → 상부 소화관 점막 보호"라는 약물-질환 네트워크상의 연관성을 반영한 것으로 보는 것이 합리적입니다.
+그러나 십이지장 폐색은 대개 구조적·기계적 원인(궤양 흉터, 크론병, 종양 등)으로 생기며, 산 억제만으로 폐색 자체가 해결된다는 근거는 없습니다. 검색된 문헌은 famotidine을 이 질환에 평가한 것이 아니라, 문합부 궤양과 십이지장 크론병의 수술 사례입니다. 따라서 뚜렷한 기전적 연결 고리는 확인되지 않았습니다.
 
 ## 임상시험 근거
 
@@ -67,42 +68,39 @@ TxGNN 모델은 **십이지장위 역류(duodenogastric reflux)**에 효과가 �
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [12532466](https://pubmed.ncbi.nlm.nih.gov/12532466/) | 2003 | 임상 연구 | World J Gastroenterol | 중환자에서 famotidine이 위식도 역류 및 십이지장-위-식도 역류에 미치는 영향과 가능한 기전을 조사 (확보된 초록에는 결과 수치 없음) |
-| [16259441](https://pubmed.ncbi.nlm.nih.gov/16259441/) | 2004 | 임상 연구/리뷰 | Eksp Klin Gastroenterol | 초기 위십이지장 역류 질환(Savary-Miller 0~1단계)에서 famotidine 20 mg 1일 2회의 임상·내시경 효능 평가 (확보된 초록에는 결과 수치 없음) |
+| [8165479](https://pubmed.ncbi.nlm.nih.gov/8165479/) | 1994 | 증례 보고 | Surgical Endoscopy | 위공장문합술 후 발생한 거대 문합부 궤양. 폐색 등 합병증 가능성을 기술하며 famotidine 평가는 아님 |
+| [9306611](https://pubmed.ncbi.nlm.nih.gov/9306611/) | 1997 | 증례 보고(수술) | Surgery Today | 십이지장 크론병으로 인한 위 출구 폐색의 수술 치료 1례. famotidine 평가는 아님 |
 
 ## 한국 시판 정보
 
-한국에는 20건의 허가증이 있으며 모두 유효합니다. 이 중 2건은 수출용입니다. 정제, 구강붕해정, 주사제 등 다양한 제형이 있습니다.
+허가 자료는 최소 20건이며 목록은 일부일 수 있습니다. 대부분의 적응증 항목은 문서 링크로만 기재되어 있어, 텍스트가 확인되는 주요 허가만 표시합니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 202001760 | 파모텍스정10밀리그램 | 필름코팅정 | 위산과다, 속쓰림, 신트림 |
-| 202105229 | 듀얼파모정 | 필름코팅정 | 위산과다 및 속쓰림과 관련된 가슴앓이의 경감 |
-| 202000704 | 티파딘정10mg | 필름코팅정 | 위산과다, 속쓰림, 신트림 |
-| 202002541 | 파모타제정10밀리그램 | 필름코팅정 | 위산과다, 속쓰림, 신트림 |
-| 202502157 | 모틴주사액 | 주사제 | 허가사항 문서 참조 |
+| 202001760 | 파모텍스정10밀리그램 | 녹색의 원형 필름코팅정 | 위산과다, 속쓰림, 신트림 |
+| 202105229 | 듀얼파모정 | 연두색의 장방형 필름코팅정 | 위산과다 및 속쓰림과 관련된 가슴앓이의 경감 |
+| 202000704 | 티파딘정10mg | 연녹색의 원형 필름코팅정 | 위산과다, 속쓰림, 신트림 |
+| 202002541 | 파모타제정10밀리그램 | 연녹색의 원형 필름코팅정제 | 위산과다, 속쓰림, 신트림 |
+| 202502157 | 모틴주사액 | 주사제 | 허가 문서 링크로만 제공됨 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 이 보고서에 사용된 데이터에서 총 100건의 상호작용이 확인되었습니다. 열람 가능한 20건은 대부분 중등도(Moderate)이며, 일부는 경미(Minor)입니다.
-  - 중등도: abiraterone, acalabrutinib, tramadol, amiodarone, amitriptyline, aripiprazole, aminophylline, salbutamol 등
-  - 경미: alendronic acid, aluminum hydroxide
-- **지식그래프 기반 금기 연관 질환** (허가 문구가 아니라 TxGNN 지식그래프의 약물-질환 연결 정보): 신장 질환, 간 질환, 담낭 질환, 신기능 장애, 신결석, 고칼슘혈증, 설사, 변비, 위암·위종양 등이 연결되어 있습니다. 실제 금기 여부는 허가사항 확인이 필요합니다.
-- 허가사항 기준의 주요 경고와 금기는 이번 데이터에 포함되지 않았습니다. 해당 내용은 허가사항을 참조하세요.
+- **약물 상호작용**: 총 100건이 조회되었으며, 대부분 중등도(Moderate) 수준입니다. 예: abiraterone, acalabrutinib, tramadol, amiodarone, amitriptyline, aripiprazole 등. 알루미늄 수산화물, alendronic acid는 경미(Minor) 수준입니다.
+
+그 외 경고 및 금기는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-십이지장위 역류에 대한 근거는 등록된 임상시험이 없고, 기전상 연결도 간접적(산 억제는 담즙 역류를 직접 해결하지 못함)입니다. 문헌 2편은 소규모 임상 연구로 효능을 입증하지 못합니다. 참고로 같은 예측 목록의 소화성 궤양(peptic ulcer disease)은 근거가 더 풍부하지만, 이미 기존 허가 범위에 해당하는 용도라 재창출의 의미는 크지 않습니다.
+십이지장 폐색을 직접 연구한 임상시험이나 문헌이 없고, 확인된 문헌은 famotidine과 무관한 수술 증례 2건뿐입니다. 높은 TxGNN 점수(0.9999)만으로는 근거가 부족하며 뚜렷한 기전적 연결도 없습니다.
 
 **진행하려면 필요한 것:**
-- 십이지장위 역류 환자를 대상으로 한 famotidine 대조 임상시험 또는 상세한 결과 데이터
-- 위식도 역류·위십이지장 역류 관련 문헌 2편의 전문 검토 (결과, 대조군, 평가변수 확인)
-- 상세한 작용 기전 데이터 (담즙 역류에 대한 영향 포함)
-- 허가사항의 경고·금기 정보 확보 및 안전성 검토
-- 담즙 역류 치료에 쓰이는 기존 약제와의 비교 근거
+- famotidine의 상세 작용 기전 데이터 보완
+- 십이지장 폐색에서 famotidine을 평가한 임상 또는 전임상 연구 확인
+- 한국 허가 문서(PDF)에서 경고·금기 및 적응증 텍스트 확보
+- 시판 상태(취소 여부) 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

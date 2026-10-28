@@ -4,17 +4,17 @@ title: Salmeterol
 parent: 모델 예측만 (L5)
 nav_order: 683
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Salmeterol: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않았습니다. 허가사항 링크만 확인되며, 일반적으로 천식·COPD에 사용되는 흡입제입니다"
+indication_count: 4
 monitor_inn: "salmeterol"
-predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
+predicted_indications: ["respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
+last_modified_at: 2026-10-27
+description: "Salmeterol: 예측 신규 적응증 호흡기 기형 (respiratory malformation) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400305/EE"
 ---
 
 # Salmeterol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **7** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,105 +33,83 @@ predicted_indications: ["bronchitis", "respiratory malformation", "obstructive l
 
 </div>
 
-## Salmeterol: 천식·만성 폐쇄성 폐질환에서 기관지염으로
+## Salmeterol: 장기지속형 β2 작용제 → 호흡기 기형 (respiratory malformation)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Salmeterol은 지속성 β2 작용제로, 한국에서는 플루티카손프로피오네이트와의 흡입 복합제 형태로 허가·시판되고 있습니다. TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 예측하며, 현재 **9건의 임상시험**과 **20편의 문헌**이 이 방향을 다룹니다. 다만 여기서 기관지염은 급성이 아닌 만성 기관지염/COPD를 뜻하므로, 새로운 적응증이라기보다 기존 사용 범위의 연장에 가깝습니다.
+Salmeterol은 기관지 평활근의 β2 수용체를 활성화하는 장기지속형 β2 작용제입니다.
+TxGNN 모델은 **호흡기 기형(respiratory malformation)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 연구한 임상시험이나 문헌은 확인되지 않았습니다.
+관련 임상시험 2건은 낭성 섬유증과 임신 중 천식을 다룬 간접 근거일 뿐입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 제공되지 않았습니다. 허가사항 링크만 확인되며, 일반적으로 천식·COPD에 사용되는 흡입제입니다. |
-| 예측 신규 적응증 | 기관지염 (Bronchitis) |
-| TxGNN 예측 점수 | 99.92% |
-| 근거 수준 | L1 (완료된 Phase 3 임상시험이 여러 건 있으나, 일부는 간접 근거) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400305/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400307/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900814/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400306/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900815/EE;  |
+| 예측 신규 적응증 | 호흡기 기형 (respiratory malformation) |
+| TxGNN 예측 점수 | 0.9991 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 6건 |
-| 권장 결정 | Proceed with Guardrails |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 salmeterol은 지속성 β2 아드레날린 수용체 작용제로, cAMP를 매개로 기도 평활근을 이완시켜 기관지를 확장합니다. 또한 점액섬모 청소율을 높일 수 있어 만성 기관지염의 증상(기침, 객담)과 관련이 있습니다.
+현재 상세한 작용 기전 데이터는 없습니다. 일반적으로 salmeterol은 β2 수용체 활성화로 세포 내 cAMP를 높여 기관지 평활근을 이완시키고, 섬모 운동과 점액섬모 청소를 촉진할 가능성이 있습니다. 이 때문에 일부 기도 질환에서 기도 청소에 도움이 될 수 있다는 가설이 가능합니다.
 
-기관지염은 COPD의 한 표현형(만성 기관지염)에 해당하며, COPD 환자를 대상으로 한 Phase 3 임상시험에서 salmeterol 또는 salmeterol/fluticasone의 효능이 여러 차례 평가되었습니다. 따라서 이 예측은 완전히 새로운 용도가 아니라 이미 확립된 호흡기 질환 적응증의 연장으로 보는 것이 적절합니다.
+다만 "호흡기 기형"은 매우 넓은 범주이며, 제시된 근거는 선천성 구조 이상을 다루지 않습니다. 매우 높은 예측 점수는 질환 특이적 근거보다 이 약의 일반적인 호흡기 약리를 반영했을 가능성이 큽니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT02173691](https://clinicaltrials.gov/study/NCT02173691) | Phase 3 | 완료 | 584 | COPD에서 tiotropium, salmeterol, 위약의 6개월 기관지확장 효능·안전성 비교 |
-| [NCT00269087](https://clinicaltrials.gov/study/NCT00269087) | Phase 3 | 완료 | 122 | 만성 기관지염·폐기종 포함 COPD에서 salmeterol/fluticasone 50/500µg 56주 장기 안전성 평가 |
-| [NCT00268177](https://clinicaltrials.gov/study/NCT00268177) | Phase 3 | 완료 | 130 | COPD에서 salmeterol/fluticasone 대 위약의 13주 기관지 항염증 효과 비교 |
-| [NCT00269126](https://clinicaltrials.gov/study/NCT00269126) | Phase 3 | 완료 | 150 | COPD에서 두 약물 효과 비교 (상세 비교 내용은 확인되지 않음) |
-| [NCT00064415](https://clinicaltrials.gov/study/NCT00064415) | Phase 3 | 완료 | 799 | arformoterol 12개월 장기 안전성 연구 (salmeterol은 간접 비교 대상으로 추정) |
-| [NCT00064402](https://clinicaltrials.gov/study/NCT00064402) | Phase 3 | 완료 | 741 | arformoterol의 12주 기관지확장 효과 (salmeterol은 비교 대상으로 추정, 간접 근거) |
-| [NCT00403286](https://clinicaltrials.gov/study/NCT00403286) | Phase 2 | 완료 | 457 | fluticasone/formoterol 용량 탐색 (salmeterol 복합제 대비, 간접 근거) |
-| [NCT01361984](https://clinicaltrials.gov/study/NCT01361984) | Phase 4 | 불명 | 20 | 분무 arformoterol과 salmeterol 건조분말 흡입기의 흡기용량 비교 |
-| [NCT00233051](https://clinicaltrials.gov/study/NCT00233051) | 해당 없음 | 조기 종료 | 20 | COPD에서 유도 객담 염증 매개물질을 약물 반응 바이오마커로 평가 |
+| [NCT00005110](https://clinicaltrials.gov/study/NCT00005110) | 해당 없음 | 중단(보류) | 정보 없음 | 낭성 섬유증에서 salmeterol과 albuterol의 6개월 장기 효과를 비교하는 연구. 낭성 섬유증은 구조적 기형이 아니어서 간접 근거에 그침 |
+| [NCT01681979](https://clinicaltrials.gov/study/NCT01681979) | 해당 없음 | 완료 | 1 | 임신 중 천식 치료와 불량한 임신 결과의 빈도를 본 안전성 연구. 호흡기 기형의 치료 연구가 아님 |
 
 ## 문헌 근거
 
+이 질환을 직접 다룬 문헌은 없으며, 아래는 관련 호흡기 주제의 문헌입니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [17557771](https://pubmed.ncbi.nlm.nih.gov/17557771/) | 2007 | RCT | Thorax | COPD에서 salmeterol/fluticasone의 기도 염증 영향 평가 |
-| [17196106](https://pubmed.ncbi.nlm.nih.gov/17196106/) | 2006 | 메타분석 | Respir Res | COPD에서 salmeterol 50µg 1일 2회가 위약/통상 치료보다 임상 지표 개선 |
-| [15970448](https://pubmed.ncbi.nlm.nih.gov/15970448/) | 2006 | 임상시험 | Pulm Pharmacol Ther | 경증~중등도 만성 기관지염 환자 14명 대상 salmeterol의 점액섬모·기침 청소 효과 평가 |
-| [15329047](https://pubmed.ncbi.nlm.nih.gov/15329047/) | 2004 | Review | Drugs | 만성 기관지염 관련 COPD에서 salmeterol/fluticasone 사용 검토 |
-| [12970006](https://pubmed.ncbi.nlm.nih.gov/12970006/) | 2003 | 임상시험 | Chest | COPD에서 fluticasone 250µg/salmeterol 50µg 복합제와 위약·단독제 비교 |
-| [19210134](https://pubmed.ncbi.nlm.nih.gov/19210134/) | 2009 | 코호트 | Curr Med Res Opin | 만성 기관지염 환자에서 fluticasone/salmeterol 시작 후 의료 이용 및 비용 비교 |
-| [19124357](https://pubmed.ncbi.nlm.nih.gov/19124357/) | 2008 | 임상시험 | Ther Adv Respir Dis | COPD에서 arformoterol과 salmeterol의 12개월 안전성·내약성 평가 |
-| [9916607](https://pubmed.ncbi.nlm.nih.gov/9916607/) | 1998 | 임상시험 | Clin Ther | 경증~중등도 COPD에서 흡입 salmeterol과 경구 theophylline 비교 |
-| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | 가이드라인 | Basic Clin Pharmacol Toxicol | 핀란드 안정형 COPD 진단·약물치료 가이드라인 |
-| [12236842](https://pubmed.ncbi.nlm.nih.gov/12236842/) | 2002 | Review | Br J Clin Pharmacol | 지속성 β2 작용제의 길항 작용 및 ICS 절감 효과 검토 |
+| [34902004](https://pubmed.ncbi.nlm.nih.gov/34902004/) | 2022 | RCT | JAMA Pediatrics | 조산아의 폐기능 저하에 대한 흡입 스테로이드 단독 또는 LABA 병용 평가 |
+| [15293609](https://pubmed.ncbi.nlm.nih.gov/15293609/) | 2004 | RCT | Eur Respir J | COPD에서 salmeterol의 운동 중 환기 반응에 대한 효과 |
+| [20528601](https://pubmed.ncbi.nlm.nih.gov/20528601/) | 2010 | Review | J Asthma | 지속성 천식에서 ICS/LABA 병용 흡입제 검토 |
+| [26229457](https://pubmed.ncbi.nlm.nih.gov/26229457/) | 2015 | Review | Int J Chron Obstruct Pulmon Dis | COPD에서 이중 기관지 확장 요법의 역할 |
+| [20703071](https://pubmed.ncbi.nlm.nih.gov/20703071/) | 2010 | Case report | Arerugi | 천식으로 치료받던 원발성 섬모 운동 이상증 1례 |
+| [37327273](https://pubmed.ncbi.nlm.nih.gov/37327273/) | 2023 | Case report | Medicine | 오말리주맙으로 치료된 폐 아스페르길루스 감염 1례 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201400305 | 플루테롤흡입용캡슐500/50 (한미약품) | 흡입용 캡슐 | 허가사항 문서 링크 참조 |
-| 201400307 | 플루테롤흡입용캡슐250/50 (한미약품) | 흡입용 캡슐 | 허가사항 문서 링크 참조 |
-| 201400306 | 플루테롤흡입용캡슐100/50 (한미약품) | 흡입용 캡슐 | 허가사항 문서 링크 참조 |
-| 201900814 | 콤포나콤팩트에어100/50 (대원제약) | 흡입제 | 허가사항 문서 링크 참조 |
-| 201900815 | 콤포나콤팩트에어250/50 (대원제약) | 흡입제 | 허가사항 문서 링크 참조 |
+| 201400305 | 플루테롤흡입용캡슐500/50(플루티카손프로피오네이트,살메테롤) | 흡입용 캡슐 | 허가 적응증 텍스트 미기재 |
+| 201400307 | 플루테롤흡입용캡슐250/50(플루티카손프로피오네이트,살메테롤) | 흡입용 캡슐 | 허가 적응증 텍스트 미기재 |
+| 201400306 | 플루테롤흡입용캡슐100/50(플루티카손프로피오네이트,살메테롤) | 흡입용 캡슐 | 허가 적응증 텍스트 미기재 |
+| 201900814 | 콤포나콤팩트에어100/50 | 흡입제 | 허가 적응증 텍스트 미기재 |
+| 201900815 | 콤포나콤팩트에어250/50 | 흡입제 | 허가 적응증 텍스트 미기재 |
+
+허가증은 총 6건이며, 위 표에는 5건만 나열했습니다.
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 600건이 조회되었으며, 주요 항목은 다음과 같습니다.
-  - Major: Clarithromycin
-  - Moderate: Epinephrine, Famotidine, Acarbose, Isometheptene, Dolasetron, 일부 혈당강하제(Canagliflozin, Dapagliflozin, Empagliflozin, Alogliptin, Albiglutide, Dulaglutide, Chlorpropamide) 등
-  - Minor: Hydrocortisone, Dexamethasone, Budesonide 등 코르티코스테로이드
-- **지식그래프 기반 금기 관련 질환**: 고혈압, QT 연장 증후군, 간질, 고혈당, 단순포진 각막염, 뇌하수체 기능저하증, 골다공증 등이 연관되어 있습니다. 이는 허가사항 문구가 아닌 지식그래프 정보이므로 허가사항에서 확인이 필요합니다.
-- **사용상 주의**: 천식에서는 LABA 단독요법을 피하고 흡입 코르티코스테로이드와 병용해야 하며, 심혈관계 영향을 모니터링해야 합니다.
+- **약물 상호작용**: 총 600건의 상호작용이 조회되었습니다. 주요 등급(Major)으로는 clarithromycin이 있습니다. 중등도(Moderate)로는 epinephrine, acarbose, famotidine, canagliflozin, dapagliflozin 등이 있고, 경미(Minor)로는 hydrocortisone, dexamethasone, budesonide 등 코르티코스테로이드가 있습니다.
+
+그 외 경고와 금기 등 허가사항 기반 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-COPD/만성 기관지염 환자를 대상으로 한 여러 Phase 3 임상시험과 메타분석, RCT가 salmeterol 및 salmeterol/fluticasone의 효능과 안전성을 뒷받침합니다. 다만 이는 기존 적응증의 연장이며, 일부 시험은 비교약으로만 salmeterol을 포함해 간접 근거입니다. 급성 기관지염에 대한 근거는 아닙니다.
+호흡기 기형을 직접 연구한 임상시험이나 문헌이 없어 근거 수준은 L5입니다. 높은 예측 점수는 모델 예측일 뿐이며, 제시된 시험은 낭성 섬유증과 임신 중 천식을 다룬 간접 근거에 그칩니다.
 
 **진행하려면 필요한 것:**
-- 한국 허가사항(적응증, 경고, 금기)의 확인 및 정리
-- 상세 작용 기전 데이터 확보
-- 적용 대상을 만성 기관지염/COPD로 명확히 한정
-- 심혈관계 및 QT 연장 위험 환자에 대한 안전성 모니터링 계획
-- 병용 시 Clarithromycin 등 Major 상호작용 관리 지침
-
----
-
-**참고: 다른 예측 적응증 요약**
-
-| 순위 | 예측 질환 | 근거 수준 | 권장 결정 | 비고 |
-|----|---------|---------|---------|------|
-| 3 | 폐쇄성 폐질환 | L1 | Proceed with Guardrails | 기존 적응증과 중복, 확인 성격 |
-| 5 | 천식 | L1 | Proceed with Guardrails | 기존 적응증, ICS 병용 필수 |
-| 2 | 호흡기 기형 | L4 | Hold | 구조적 기형에 대한 근거 없음 |
-| 7 | 아토피 피부염 | L4 | Hold | 전임상·기전 근거만 있고 임상시험 없음 |
-| 4 | Rienhoff 증후군 | L5 | Hold | 모델 예측만 존재 |
-| 6 | 천식 관련 형질(감수성) | L5 | Hold | 유전적 감수성 형질로 치료 대상이 아님 |
+- 구체적인 호흡기 기형 아형을 정의하고, 해당 질환을 직접 다룬 임상 또는 전임상 근거 확보
+- 작용 기전(MOA) 데이터 보완
+- 허가 적응증 텍스트와 경고·금기 등 허가사항 안전성 정보 확보
+- 병용 약물(특히 강력한 CYP3A4 억제제)과 심혈관계 영향에 대한 안전성 모니터링 계획 수립
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

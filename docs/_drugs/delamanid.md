@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Delamanid
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 259
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Delamanid: 예측 신규 적응증 소결핵 (tuberculosis, bovine) (근거 수준 L4). 기존 적응증: 결핵 (허가 적응증 본문은 허가사항 문서 링크로 제공)"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "Delamanid"
-predicted_indications: ["allergic urticaria", "fascioliasis", "inhalational botulism", "urea cycle disorder"]
+predicted_indications: ["allergic urticaria"]
+last_modified_at: 2026-10-27
+description: "Delamanid: 예측 신규 적응증 알레르기성 두드러기 (allergic urticaria) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405029/EE"
 ---
 
 # Delamanid
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,31 @@ predicted_indications: ["allergic urticaria", "fascioliasis", "inhalational botu
 
 </div>
 
-## Delamanid: 결핵 치료제에서 소결핵(Bovine Tuberculosis)으로
+## Delamanid: 항결핵제(항마이코박테리아제) → 알레르기성 두드러기 (allergic urticaria)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Delamanid는 한국에서 결핵 치료제로 허가·시판 중인 니트로이미다졸계 약물입니다. TxGNN 모델은 **소결핵(tuberculosis, bovine)**에 효과가 있을 수 있다고 예측하지만, 현재 이 방향을 직접 지지하는 **임상시험은 0건**이고 **문헌은 1편**뿐입니다. 이 문헌도 치료 연구가 아니라 *M. bovis* 균주의 유전적 다양성과 약제 내성을 분석한 연구입니다.
+Delamanid는 항마이코박테리아 계열의 약물입니다.
+TxGNN 모델은 **알레르기성 두드러기(allergic urticaria)**에 효과가 있을 수 있다고 예측하지만(예측 점수 0.9956), 이를 직접 뒷받침하는 임상시험은 **0건**이고 문헌도 이 약물과 무관한 증례 보고 **1편**뿐입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 결핵 (허가 적응증 본문은 허가사항 문서 링크로 제공) |
-| 예측 신규 적응증 | 소결핵 (tuberculosis, bovine) |
-| TxGNN 예측 점수 | 99.91% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405029/EE |
+| 예측 신규 적응증 | 알레르기성 두드러기 (allergic urticaria) |
+| TxGNN 예측 점수 | 0.9956 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 보고서용으로 정리된 데이터에는 상세한 작용 기전 항목이 없습니다. 다만 평가 과정에서 확인된 정보에 따르면, Delamanid는 Ddn(Rv3547)에 의해 활성화되는 니트로이미다졸계 전구약물이며 결핵균군(*Mycobacterium tuberculosis* complex)의 미콜산 합성을 억제합니다.
+현재 상세한 작용 기전 데이터가 없습니다. Delamanid는 항마이코박테리아 계열 약물로 알려져 있으며, 항히스타민 작용이나 비만세포 관련 활성은 알려져 있지 않습니다.
 
-소결핵의 원인균인 *M. bovis*도 같은 결핵균군에 속합니다. 따라서 기존 적응증인 결핵과 병원체가 가까워 기전상 활성이 있을 가능성은 있습니다.
-
-다만 *M. bovis*는 피라진아미드에 본질적으로 내성이어서 치료 선택지가 제한적이라는 점은 참고할 만합니다. 그렇더라도 Delamanid를 소결핵에 사용한 직접적인 임상 데이터는 없습니다. 이 예측은 기전적 개연성과 모델 점수에 근거한 가설 단계입니다.
+따라서 알레르기성 두드러기와의 기전상 연결고리를 찾기 어렵습니다. 이 예측은 모델 점수에 근거한 것이며, 기전적·임상적 뒷받침은 확인되지 않았습니다.
 
 ## 임상시험 근거
 
@@ -68,13 +67,13 @@ Delamanid는 한국에서 결핵 치료제로 허가·시판 중인 니트로이
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [39487429](https://pubmed.ncbi.nlm.nih.gov/39487429/) | 2024 | Cohort | BMC Genomics | 전장 유전체 분석(WGS)으로 인체 인수공통 결핵의 *M. bovis* 분리주 유전형, 병독성, 약제 내성 특성을 조사한 분자역학 연구. Delamanid 치료 효과를 평가한 연구는 아님 |
+| [38800261](https://pubmed.ncbi.nlm.nih.gov/38800261/) | 2024 | 증례 보고 | Cureus | 피페라실린-타조박탐 유발 두드러기·혈관부종 증례. Delamanid와는 무관하며 이 예측의 근거가 되지 않음 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201405029 | 델티바정50밀리그램(델라마니드) (한국오츠카제약) | 노란색의 원형 필름코팅정 (각인 DLM, 50) | [허가사항 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405029/EE) |
+| 201405029 | 델티바정50밀리그램(델라마니드) | 노란색의 원형 필름코팅정(각인 DLM, 50) | 적응증 본문 미기재(허가 문서 링크만 존재) |
 
 ## 안전성 고려사항
 
@@ -85,15 +84,12 @@ Delamanid는 한국에서 결핵 치료제로 허가·시판 중인 니트로이
 **결정: Hold**
 
 **사유:**
-Delamanid는 결핵균군에 작용하는 기전이 있어 소결핵에서도 활성이 있을 가능성은 있습니다. 그러나 직접적인 임상시험이 없고, 유일한 문헌도 치료 근거가 아닌 분자역학 연구입니다. 근거는 모델 점수와 기전적 추정에 머물러 있어 현 단계에서는 진행 결정을 내리기 어렵습니다.
+직접적인 임상시험이나 관련 문헌이 없고 기전상 연결고리도 확인되지 않아, 모델 예측(근거 수준 L5)만 존재합니다. 현 단계에서 진행을 뒷받침할 근거가 부족합니다.
 
 **진행하려면 필요한 것:**
-- *M. bovis* 분리주에 대한 Delamanid의 시험관내 감수성(MIC) 및 전임상 효능 데이터
-- Delamanid의 상세한 작용 기전 데이터와 *M. bovis*에서의 Ddn 활성화 경로 확인
-- 허가사항(경고, 금기, 상호작용)의 검토를 통한 안전성 평가
-- 소결핵 또는 인수공통 결핵 환자 대상의 임상 근거 확보 가능성 검토
-
-참고로 같은 약물의 다른 예측 적응증인 "비활동성 결핵"에서는 폐결핵 단기 복합요법을 평가하는 Phase 2/3 시험(NCT05766267, 진행 중)이 확인됩니다. 다만 이 시험은 활동성 폐결핵 환자를 대상으로 하므로, 소결핵 예측의 직접 근거로 볼 수는 없습니다.
+- 작용 기전(MOA) 데이터 확보 및 알레르기성 두드러기와의 기전적 연관성 검토
+- 알레르기성 두드러기를 직접 다룬 전임상 또는 임상 연구
+- 허가사항(경고·금기) 확인을 통한 안전성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

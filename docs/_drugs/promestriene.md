@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Promestriene
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 631
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Promestriene: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (알려진 용도: 질 위축)"
+description: "Promestriene: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Promestriene"
-predicted_indications: ["diabetic cataract", "craniostenosis cataract", "mature cataract", "tetanic cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "diabetic retinopathy", "senile cataract"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Promestriene
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,36 +35,16 @@ predicted_indications: ["diabetic cataract", "craniostenosis cataract", "mature 
 
 </div>
 
-## Promestriene: 질 위축 치료제에서 당뇨병성 백내장으로
+## Promestriene
 {: .text-alpha }
-
-## 한 문장 요약
-
-Promestriene은 국소 에스트로겐(estradiol diether) 계열 약물로, 크림 제형으로 시판되고 있으며 질 위축 치료에 사용되는 것으로 알려져 있습니다.
-TxGNN 모델은 **당뇨병성 백내장(Diabetic Cataract)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다.
-따라서 이 예측은 지식 그래프 기반 모델 예측 단계에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (알려진 용도: 질 위축) |
-| 예측 신규 적응증 | 당뇨병성 백내장 (Diabetic Cataract) |
-| TxGNN 예측 점수 | 97.44% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501695/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Promestriene은 국소 투여하는 에스트로겐 제제로, 전신 흡수가 매우 적은 약물입니다.
-
-역학 연구에서 에스트로겐 신호와 수정체 상피세포 보호 사이에 느슨한 연관성이 보고된 바는 있습니다. 그러나 전신 호르몬 요법과 백내장 위험 사이의 관련성은 연구마다 일관되지 않습니다. 또한 이런 관찰이 전신 노출이 거의 없는 질 국소제에 그대로 적용된다고 보기는 어렵습니다.
-
-당뇨병성 백내장은 폴리올 경로와 산화 스트레스가 주된 기전인데, Promestriene이 혈당 조절이나 이 경로에 영향을 준다는 근거는 없습니다. 이번 점수는 백내장 하위 유형 간 그래프 유사성에서 비롯된 것으로 보이며, 기전적 연결고리는 확립되지 않았습니다.
-
-같은 방식으로 예측된 다른 상위 후보(미성숙·성숙·핵성 노인성·피질성·노인성 백내장, 당뇨병성 망막병증 등)도 모두 L5 수준이며 임상시험과 문헌이 없습니다.
 
 ## 한국 시판 정보
 
@@ -74,18 +56,6 @@ TxGNN 모델은 **당뇨병성 백내장(Diabetic Cataract)**에 효과가 있�
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-임상시험과 문헌 근거가 전혀 없고 모델 예측(L5)만 있으며, 국소 질 투여제라는 특성상 전신 노출이 낮아 안과 질환에 대한 기전적 타당성도 확인되지 않습니다.
-
-**진행하려면 필요한 것:**
-- 허가 문서(허가번호 202501695)에서 허가 적응증, 경고 및 금기 정보 확보
-- 작용 기전(MOA) 데이터 보완
-- 에스로겐과 수정체·망막 보호 효과에 대한 전임상 또는 관찰 연구 근거 확보
-- 투여 경로 적합성 검토 (질 국소제 vs. 안과 투여 필요성)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

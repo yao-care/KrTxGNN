@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-15
 description: "Anagliptin: 예측 신규 적응증 옵시스모이형성증 (Opsismodysplasia) (근거 수준 L5). 기존 적응증: 제2형 당뇨병 (허가 적응증 원문은 데이터에 없으며, DPP-4 억제제로서의 임상 용도 정보에 근거)"
 monitor_inn: "ANAGLIPTIN"
-predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
+predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
 ---
 
 # Anagliptin
@@ -47,9 +47,9 @@ TxGNN 모델은 **옵시스모이형성증(Opsismodysplasia)**에 효과가 있�
 |------|------|
 | 기존 적응증 | 제2형 당뇨병 (허가 적응증 원문은 데이터에 없으며, DPP-4 억제제로서의 임상 용도 정보에 근거) |
 | 예측 신규 적응증 | 옵시스모이형성증 (Opsismodysplasia) |
-| TxGNN 예측 점수 | 99.43% |
+| TxGNN 예측 점수 | 0.9943 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 
@@ -63,13 +63,13 @@ TxGNN 모델은 **옵시스모이형성증(Opsismodysplasia)**에 효과가 있�
 
 | 순위 | 예측 질환 | TxGNN 점수 | 기전 연관성 |
 |------|---------|-----------|-----------|
-| 2 | 티아민 반응성 기능장애 증후군 | 99.40% | 확립된 연관성 없음 |
-| 3 | 국소 강직 사지 증후군 | 99.38% | CD26/DPP-4의 면역 조절 역할에 근거한 간접적·추측적 가설 |
-| 4 | 고전적 강직인간 증후군 | 99.38% | 위와 동일한 추측적 가설. 당뇨병 동반이 흔해 안전성 고려는 필요하나 효능 신호는 아님 |
-| 5 | 약물 유발 국소 지방이영양증 | 99.14% | 대사·지방 신호전달에 근거한 약한 간접 가설 |
-| 6 | 원심성 지방이영양증 | 99.11% | 약한 간접 가설 |
-| 7 | 압력 유발 국소 지방위축증 | 99.08% | 확립된 연관성 없음 |
-| 8 | 특발성 국소 지방이영양증 | 99.02% | 약한 간접 가설 |
+| 2 | 티아민 반응성 기능장애 증후군 | 0.9940 | 확립된 연관성 없음 |
+| 3 | 국소 강직 사지 증후군 | 0.9938 | CD26/DPP-4의 면역 조절 역할에 근거한 간접적·추측적 가설 |
+| 4 | 고전적 강직인간 증후군 | 0.9938 | 위와 동일한 추측적 가설. 당뇨병 동반이 흔해 안전성 고려는 필요하나 효능 신호는 아님 |
+| 5 | 약물 유발 국소 지방이영양증 | 0.9914 | 대사·지방 신호전달에 근거한 약한 간접 가설 |
+| 6 | 원심성 지방이영양증 | 0.9911 | 약한 간접 가설 |
+| 7 | 압력 유발 국소 지방위축증 | 0.9908 | 확립된 연관성 없음 |
+| 8 | 특발성 국소 지방이영양증 | 0.9902 | 약한 간접 가설 |
 
 ## 한국 시판 정보
 

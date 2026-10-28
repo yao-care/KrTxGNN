@@ -8,6 +8,7 @@ nav_order: 385
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Glucose Monohydrate
@@ -50,7 +51,7 @@ TxGNN 모델이 예측한 신규 적응증이 없으며, 임상시험 및 문헌
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 없음) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 미만 (예측 결과 자체 없음) |
-| 한국 시판 현황 | 미상 (대만 기준 미상시) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 

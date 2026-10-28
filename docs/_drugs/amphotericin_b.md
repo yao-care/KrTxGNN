@@ -8,6 +8,7 @@ nav_order: 70
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amphotericin B
@@ -57,7 +58,7 @@ TxGNN 모델의 예측 결과가 생성되지 않아 **신규 적응증 후보�
 | 예측 신규 적응증 | 없음 (TxGNN 예측 미생성) |
 | TxGNN 예측 점수 | 없음 |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | 미시판 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Potassium Chloride
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 617
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Potassium Chloride: 예측 신규 적응증 신세뇨관 산증 (Renal Tubular Acidosis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 없고 링크만 제공되어 확인할 수 없음 (일반적으로 칼륨 결핍 및 저칼륨혈증 보충)"
@@ -14,7 +14,7 @@ predicted_indications: ["renal tubular acidosis"]
 # Potassium Chloride
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **1** 건
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ predicted_indications: ["renal tubular acidosis"]
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 없고 링크만 제공되어 확인할 수 없음 (일반적으로 칼륨 결핍 및 저칼륨혈증 보충) |
 | 예측 신규 적응증 | 신세뇨관 산증 (Renal Tubular Acidosis) |
-| TxGNN 예측 점수 | 99.87% |
+| TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L4 (증례 보고, 종설, 기전 근거 위주) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 9건 |
 | 권장 결정 | Hold |
 

@@ -4,17 +4,17 @@ title: Iohexol
 parent: 모델 예측만 (L5)
 nav_order: 431
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Iohexol: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (비이온성 요오드 조영제, 영상 진단용)"
 monitor_inn: "Iohexol"
-predicted_indications: ["insomnia (disease)", "anxiety", "rheumatoid arthritis", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "sleep disorder, initiating and maintaining sleep", "heparin cofactor 2 deficiency", "fibromyalgia", "conjunctivitis", "tendinitis"]
+predicted_indications: ["insomnia (disease)", "anxiety"]
 ---
 
 # Iohexol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ predicted_indications: ["insomnia (disease)", "anxiety", "rheumatoid arthritis",
 
 Iohexol은 비이온성 요오드 방사선 조영제로, 원래 영상 진단 목적으로 사용되어 왔습니다.
 TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측하지만, 이를 지지하는 **임상시험은 0건**이고 **문헌도 0편**입니다.
-이 예측은 약리학적 근거가 없는 지식 그래프상의 인위적 결과로 판단됩니다.
+이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질병 간에 학습한 유사성을 반영했을 수 있을 뿐 생물학적 근거는 아닙니다.
 
 ## 빠른 개요
 
@@ -48,9 +48,9 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (비이온성 요오드 조영제, 영상 진단용) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
-| TxGNN 예측 점수 | 99.87% |
+| TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -58,9 +58,8 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Iohexol은 비이온성 요오드 조영제로, 약리학적으로 불활성이며 체내에서 대사되지 않고 신장을 통해 변하지 않은 형태로 배설됩니다.
 
-수면 조절 경로(GABA, 오렉신, 멜라토닌 계통)에 대한 알려진 활성이 없어, 기존 용도(영상 진단)와 불면증 사이에 타당한 기전적 연관성을 찾기 어렵습니다. 높은 TxGNN 점수는 생물학적 신호가 아니라 지식 그래프의 인위적 산물로 보입니다.
+수면 조절 경로(GABA, 오렉신, 멜라토닌 계통)에 대한 알려진 활성이 없어, 기존 용도(영상 진단)와 불면증 사이에 타당한 기전적 연관성을 찾기 어렵습니다. 높은 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질병 간에 학습한 유사성을 반영했을 수 있을 뿐 생물학적 근거는 아닙니다.
 
-같은 맥락에서 수면 장애(입면·수면 유지 장애, 점수 98.61%)도 불면증 예측과 사실상 중복되는 결과입니다.
 
 ## 한국 시판 정보
 
@@ -97,7 +96,7 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 - 작용 기전(MOA) 데이터 확보
 - 허가 적응증 및 경고·금기 등 허가사항 원문 확보
 - 불면증에 대한 전임상 또는 임상 근거 (현재는 없음)
-- 예측이 지식 그래프의 인위적 결과인지 확인하는 추가 검증
+- 점수가 TxGNN 모델(딥러닝)이 관련 질병 간에 학습한 유사성을 반영한 것인지 확인하는 추가 검증
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

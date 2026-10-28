@@ -4,17 +4,17 @@ title: Salsalate
 parent: 모델 예측만 (L5)
 nav_order: 684
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-15
-description: "Salsalate: 예측 신규 적응증 말단중간이형성증 Hunter-Thompson형 (acromesomelic dysplasia… (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 텍스트가 없고 허가사항 PDF 링크만 제공되어 확인 불가"
 monitor_inn: "SALSALATE"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia"]
+description: "Salsalate: 예측 신규 적응증 말단중간이형성증 Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710658/EE"
 ---
 
 # Salsalate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **8** 건
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## Salsalate: 허가 적응증 정보 미확인에서 급성 말단중간이형성증(Hunter-Thompson형)으로
+## Salsalate: 말단중간이형성증 Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -44,11 +44,11 @@ Salsalate는 비아세틸화 살리실산염 계열 약물로, 한국에서 단�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 텍스트가 없고 허가사항 PDF 링크만 제공되어 확인 불가 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710658/EE |
 | 예측 신규 적응증 | 말단중간이형성증 Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 예측 점수 | 99.92% |
+| TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Salsalate는 비아세틸화 살리실산염 계열 약물로, 한국에서 단�
 
 현재 상세한 작용 기전 데이터는 이 보고서용으로 수집된 자료에 없습니다. 일반적으로 알려진 바에 따르면 Salsalate는 비아세틸화 살리실산염으로, NF-κB 억제, AMPK 활성화, 약한 COX 억제 작용을 가집니다.
 
-Hunter-Thompson형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로 생기는 희귀 골격 질환입니다. Salsalate의 작용이 GDF5/BMP 신호 회복으로 이어질 만한 기전적 경로는 없습니다. 높은 예측 점수는 생물학적 근거보다 지식 그래프상의 근접성을 반영했을 가능성이 큽니다.
+Hunter-Thompson형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로 생기는 희귀 골격 질환입니다. Salsalate의 작용이 GDF5/BMP 신호 회복으로 이어질 만한 기전적 경로는 없습니다.
 
 ## 다른 예측 후보
 
@@ -64,16 +64,15 @@ Hunter-Thompson형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로
 
 | 순위 | 예측 질환 | TxGNN 점수 | 근거 수준 | 평가 |
 |-----|---------|-----------|---------|------|
-| 1 | 말단중간이형성증 Hunter-Thompson형 | 99.92% | L5 | 기전 연결 없음 |
-| 2 | 단신증-법랑질형성부전 증후군 | 99.91% | L5 | 기전 연결 없음 |
-| 3 | 근경화증 (myosclerosis) | 99.90% | L5 | 염증성 섬유화에 대한 이론적 가능성만 있음 |
-| 4 | 안구결손 소안구증-근위부 단축 이형성 증후군 | 99.89% | L5 | 발달 이상으로 기전 연결 없음 |
-| 5 | 단신증 (brachyolmia) | 99.89% | L5 | 유전적 원인을 다루지 못함 |
-| 6 | 단지증-합지증 증후군 | 99.89% | L5 | 선천 기형으로 출생 후 약물로 교정하기 어려움 |
-| 7 | 가성연골무형성증 | 99.78% | L5 | 염증과 ER 스트레스 관련 추측만 있으며 증상(관절통) 완화 가능성만 존재 |
-| 8 | 척추관절병증 감수성 | 99.55% | L5 | 가장 생물학적 타당성이 높음 (연구 질문 단계) |
+| 1 | 말단중간이형성증 Hunter-Thompson형 | 0.9992 | L5 | 기전 연결 없음 |
+| 2 | 단신증-법랑질형성부전 증후군 | 0.9991 | L5 | 기전 연결 없음 |
+| 3 | 근경화증 (myosclerosis) | 0.9990 | L5 | 염증성 섬유화에 대한 이론적 가능성만 있음 |
+| 4 | 안구결손 소안구증-근위부 단축 이형성 증후군 | 0.9989 | L5 | 발달 이상으로 기전 연결 없음 |
+| 5 | 단신증 (brachyolmia) | 0.9989 | L5 | 유전적 원인을 다루지 못함 |
+| 6 | 단지증-합지증 증후군 | 0.9989 | L5 | 선천 기형으로 출생 후 약물로 교정하기 어려움 |
+| 7 | 가성연골무형성증 | 0.9978 | L5 | 염증과 ER 스트레스 관련 추측만 있으며 증상(관절통) 완화 가능성만 존재 |
 
-**척추관절병증 감수성(spondyloarthropathy, susceptibility to)**은 염증성 질환이고 NSAID가 1차 증상 치료제라는 점에서 가장 타당한 후보입니다. 다만 Salsalate는 표준 NSAID보다 COX 억제가 약하고 직접 근거도 없어, 계열 수준의 간접 추론에 의존합니다. 추가 검토 전에 문헌 조사가 필요합니다.
+다만 Salsalate는 표준 NSAID보다 COX 억제가 약하고 직접 근거도 없어, 계열 수준의 간접 추론에 의존합니다. 추가 검토 전에 문헌 조사가 필요합니다.
 
 ## 한국 시판 정보
 
@@ -100,8 +99,6 @@ Hunter-Thompson형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로
 **진행하려면 필요한 것:**
 - 허가사항 PDF에서 적응증, 경고, 금기 정보 확보
 - DrugBank 등에서 상세 작용 기전(MOA) 데이터 확보
-- 가장 타당한 후보인 척추관절병증 감수성에 대한 문헌 검토 (살리실산염·NSAID 계열의 근거 포함)
-- 상위 희귀 유전질환 예측에 대한 기전적 타당성 재검토 (지식 그래프 근접성에 의한 위양성 가능성 점검)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

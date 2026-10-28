@@ -4,17 +4,17 @@ title: Serine
 parent: 모델 예측만 (L5)
 nav_order: 690
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Serine: 예측 신규 적응증 가족성 내장 근병증 (Familial Visceral Myopathy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 문서 링크만 확보되어 적응증 본문 미확인)"
 monitor_inn: "Serine"
-predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "unclassified intestinal pseudoobstruction", "myopathic intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
+predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
 ---
 
 # Serine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **가족성 내장 근병증(Familial Visceral Myopathy)**에 �
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 문서 링크만 확보되어 적응증 본문 미확인) |
 | 예측 신규 적응증 | 가족성 내장 근병증 (Familial Visceral Myopathy) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **가족성 내장 근병증(Familial Visceral Myopathy)**에 �
 
 현재 상세한 작용 기전 데이터가 없습니다. Serine은 아미노산으로 영양 수액 제제 등에 사용되는 성분이지만, 허가 적응증 본문이 확보되지 않아 기존 적응증과 신규 적응증 사이의 연관성을 평가할 수 없습니다.
 
-가족성 내장 근병증은 소화관 평활근 기능 이상(예: ACTG2 관련 근병증)으로 발생하는 희귀 질환입니다. 그러나 이 질환과 세린 보충 사이의 기전적 연결고리는 현재 자료로 확인되지 않습니다. 이 예측은 지식 그래프상의 네트워크 근접성에서 비롯된 것일 가능성이 있으며, 검증된 기전으로 보기는 어렵습니다.
+가족성 내장 근병증은 소화관 평활근 기능 이상(예: ACTG2 관련 근병증)으로 발생하는 희귀 질환입니다. 그러나 이 질환과 세린 보충 사이의 기전적 연결고리는 현재 자료로 확인되지 않습니다. 이 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으며 생물학적 근거는 아닙니다.
 
 같은 방식으로 예측된 다른 질환(장폐색, 만성 가성장폐색, 신경성 장 이형성증, 폐쇄각 녹내장 등)도 모두 L5 수준입니다. 장폐색과 폐쇄각 녹내장에 대해 검색된 문헌은 대부분 "serine"이라는 용어(세린 단백분해효소 PRSS56, STK11 세린/트레오닌 키나제 등)에 따른 키워드 일치로 보이며, 아미노산 세린의 치료 효과를 다룬 연구가 아닙니다.
 

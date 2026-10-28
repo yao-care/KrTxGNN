@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Clascoterone
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 220
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Clascoterone: 예측 신규 적응증 칸디다증 (Candidiasis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다. 허가 문서 링크만 제공되었으며, FDA 승인 적응증은 심상성 여드름입니다"
+description: "Clascoterone: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Clascoterone"
-predicted_indications: ["candidiasis", "migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "leprosy", "atrophoderma vermiculata", "oral candidiasis", "progeria-short stature-pigmented nevi syndrome", "adrenal gland hyperfunction", "multiple endocrine neoplasia"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Clascoterone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +35,16 @@ predicted_indications: ["candidiasis", "migraine disorder", "migraine with brain
 
 </div>
 
-## Clascoterone: 여드름에서 칸디다증으로
+## Clascoterone
 {: .text-alpha }
-
-## 한 문장 요약
-
-Clascoterone은 국소 안드로겐 수용체 억제제로, 한국에서 크림제로 허가되어 시판 중입니다. 미국 FDA는 이 약을 12세 이상 환자의 심상성 여드름 국소 치료제로 승인했습니다.
-TxGNN 모델은 **칸디다증(Candidiasis)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다. 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다. 허가 문서 링크만 제공되었으며, FDA 승인 적응증은 심상성 여드름입니다. |
-| 예측 신규 적응증 | 칸디다증 (Candidiasis) |
-| TxGNN 예측 점수 | 94.82% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502573/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 약리학 자료에 따르면 Clascoterone(cortexolone 17α-propionate)은 안드로겐 수용체(AR)를 표적으로 하는 국소 억제제이며, 피지선 단위(모낭-피지선)에 국소 작용하는 것으로 알려져 있습니다.
-
-이 기전과 칸디다증 사이에서 뚜렷한 연결 고리는 확인되지 않습니다. Clascoterone에는 알려진 항진균 활성이 없습니다. 94.82%라는 높은 점수는 지식 그래프상의 이웃 관계에서 나온 계산상의 신호일 뿐이며, 생물학적 타당성을 입증하지 않습니다.
-
-참고로 같은 약에 대한 예측 중 상위 10건은 칸디다증, 편두통 계열, 나병, 위축성 피부증(atrophoderma vermiculata), 구강 칸디다증, 부신기능항진, 다발성 내분비종양 등이며, 모두 임상시험과 문헌 근거가 없습니다. 구강 칸디다증은 칸디다증의 하위 질환이고, 이 약은 피부 도포용으로 제형화되어 구강 점막에는 맞지 않습니다.
 
 ## 한국 시판 정보
 
@@ -75,19 +60,6 @@ TxGNN 모델은 **칸디다증(Candidiasis)**에 효과가 있을 수 있다고 
 
 그 외 경고 및 금기 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-칸디다증 예측은 TxGNN 점수(94.82%)만 있고 임상시험과 문헌 근거가 전혀 없으며, 항진균 기전도 알려져 있지 않아 근거 수준은 L5입니다. 허가 적응증과 안전성 정보 확보도 아직 미흡하여 현 단계에서는 보류가 적절합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(적응증, 경고, 금기) 원문 확보 및 분석
-- 상세한 약물 작용 기전(MOA) 데이터 확보
-- 칸디다증과의 기전적 연결을 설명하는 전임상 연구(예: 항진균 활성 in vitro 시험)
-- 피부 도포제형과 칸디다증(피부·점막 감염) 사이의 투여 경로 적합성 평가
-- 관련 임상시험 또는 문헌 근거 탐색
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

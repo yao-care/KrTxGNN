@@ -47,9 +47,9 @@ TxGNN 모델은 **망막 이영양증(retinal dystrophy with or without extraocu
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 수록되어 있지 않아 확인 불가 (조현병, 우울증, 불안 등에 사용되는 약물로 알려져 있음) |
 | 예측 신규 적응증 | 망막 이영양증 (retinal dystrophy with or without extraocular anomalies) |
-| TxGNN 예측 점수 | 99.95% |
-| 근거 수준 | L4 (전임상 연구만 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9995 |
+| 근거 수준 | L5 (전임상 연구만 존재) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold (추가 연구 질문 단계) |
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chloramphenicol
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 205
-evidence_level: L3
-indication_count: 9
-last_modified_at: 2026-10-15
-description: "Chloramphenicol: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L3). 기존 적응증: 허가증에 적응증 원문이 기재되어 있지 않아 확인되지 않음 (허가 제형은 모두 점안액)"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "CHLORAMPHENICOL"
-predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-10-27
+description: "Chloramphenicol: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501443/EE"
 ---
 
 # Chloramphenicol
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,98 +33,74 @@ predicted_indications: ["conjunctivitis", "diffuse scleroderma", "postinfectious
 
 </div>
 
-## Chloramphenicol: 점안제 세균성 감염에서 결막염으로
+## Chloramphenicol: 항균제(단백질 합성 억제) → 미만성 피부경화증 (diffuse scleroderma)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Chloramphenicol은 광범위 항생제로, 한국에서는 점안액(수출용) 형태로 허가되어 있습니다.
-TxGNN 모델은 **결막염(Conjunctivitis)**에 효과가 있을 수 있다고 예측하며(점수 99.66%), 현재 등록된 임상시험은 없고 **19편의 문헌**이 이 방향과 관련됩니다.
-다만 결막염은 이미 항생제 점안제의 통상적 사용 영역에 가까워, 엄밀한 의미의 재창출이라기보다 기존 용도에 가까운 예측입니다.
+Chloramphenicol은 광범위 항균제로, 한국에서는 점안액(수출용) 제품으로 허가되어 있습니다.
+TxGNN 모델은 **미만성 피부경화증(diffuse scleroderma)**에 효과가 있을 수 있다고 예측하지만, 이 질환에 대한 임상시험은 없고 문헌 4편은 모두 피부경화증 섬유아세포를 다룬 기초 연구로 chloramphenicol을 직접 검증하지 않았습니다.
+따라서 현재는 모델 예측 수준의 근거에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 기재되어 있지 않아 확인되지 않음 (허가 제형은 모두 점안액) |
-| 예측 신규 적응증 | 결막염 (Conjunctivitis) |
-| TxGNN 예측 점수 | 99.66% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501443/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301046/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001531/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403384/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202903/EE |
+| 예측 신규 적응증 | 미만성 피부경화증 (diffuse scleroderma) |
+| TxGNN 예측 점수 | 0.9965 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 |
-| 권장 결정 | Proceed with Guardrails |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 약물의 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 알려진 정보에 따르면 chloramphenicol은 세균 50S 리보솜 소단위에 결합해 단백질 합성을 억제하는 정균성 광범위 항생제입니다. 이는 세균성 결막염의 흔한 원인균을 폭넓게 포괄합니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 chloramphenicol은 세균의 단백질 합성을 억제하는 항균제로 알려져 있으나, 이 보고서에 정리된 자료에서는 확인되지 않았습니다.
 
-특히 영국 등에서는 결막염 치료에 chloramphenicol 점안제가 널리 쓰이고 있습니다. 한국에서 허가된 제품도 모두 점안액 제형이므로, 이번 예측은 새로운 적응증 발굴보다는 기존 점안 사용을 재확인하는 성격이 강합니다.
-
-한편 점안제 사용 시 재생불량성 빈혈과의 연관성이 논란이 되어 왔습니다(PMID 8800624). 따라서 효능 근거와 별도로 안전성 검토가 필요합니다.
+검색된 문헌 4편(1996~2006년)은 피부경화증 섬유아세포에서의 콜라겐 유전자 조절(α1(I) 프로콜라겐 프로모터, Smad3/Sp1/p300, TGF-β 신호)을 다룹니다. 이 연구들은 chloramphenicol을 시험하지 않았습니다. 미토콘드리아 단백질 합성 억제가 섬유아세포 활동에 영향을 줄 수 있다는 추정은 가능하지만 이를 뒷받침하는 자료는 없는 가설 단계입니다.
 
 ## 문헌 근거
 
-등록된 임상시험은 없고, 문헌 중 관련성이 높은 항목은 다음과 같습니다.
+이 질환을 직접 연구한 임상시험은 없습니다. 아래 문헌은 모두 기초 연구(시험관 내)이며 chloramphenicol의 효능을 평가한 것이 아닙니다.
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [32959365](https://pubmed.ncbi.nlm.nih.gov/32959365/) | 2020 | 체계적 문헌고찰 (Cochrane) | Cochrane Database Syst Rev | 신생아 안염(결막염) 예방을 위한 항균·항생제 중재 평가 |
-| [38511104](https://pubmed.ncbi.nlm.nih.gov/38511104/) | 2024 | 비교 임상연구 | Curr Ther Res | 세균성 안구 감염 치료에서 moxifloxacin과 chloramphenicol 비교 |
-| [3554881](https://pubmed.ncbi.nlm.nih.gov/3554881/) | 1987 | 무작위 단일맹검 비교 | Acta Ophthalmol | 급성 화농성 결막염에서 fusidic acid 임상 성공률 84%, chloramphenicol 81%. chloramphenicol군에서 자극감 등 경미한 부작용이 더 많음 |
-| [3300139](https://pubmed.ncbi.nlm.nih.gov/3300139/) | 1987 | 공개 무작위 비교 | Acta Ophthalmol | 탄자니아 연구에서 fusidic acid 93%, framycetin 74%, chloramphenicol 48%의 임상 성공률. chloramphenicol은 내성률이 높았음 |
-| [11270936](https://pubmed.ncbi.nlm.nih.gov/11270936/) | 2001 | 리뷰 | Drugs | 상용 안과용 항균제 16종의 비교 검토 |
-| [10589371](https://pubmed.ncbi.nlm.nih.gov/10589371/) | 1999 | 리뷰 | Clin Pharmacokinet | 국소 항균제를 이용한 안구 감염 치료 |
-| [8800624](https://pubmed.ncbi.nlm.nih.gov/8800624/) | 1996 | 리뷰/안전성 논평 | Drug Saf | 안구 국소 chloramphenicol과 재생불량성 빈혈의 연관성 논쟁 정리 |
-| [7498557](https://pubmed.ncbi.nlm.nih.gov/7498557/) | 1995 | 리뷰/논평 | Eye (Lond) | 국소 chloramphenicol의 적정 사용 여부 논의 |
-| [7153511](https://pubmed.ncbi.nlm.nih.gov/7153511/) | 1982 | 관찰 연구 | J Hyg | 신생아 클라미디아 결막염에서 chloramphenicol 점안은 증상 발현을 늦추었으나 85%에서 균 양성이 지속됨 |
-| [22186318](https://pubmed.ncbi.nlm.nih.gov/22186318/) | 2012 | 동물 실험 | Pak J Pharm Sci | 토끼 실험적 결막염에서 chloramphenicol niosome과 0.5% 점안액 비교 |
+| [11229480](https://pubmed.ncbi.nlm.nih.gov/11229480/) | 2001 | 기초 연구 | Arthritis Rheum | 내인성 TGF-β 신호 차단이 피부경화증 섬유아세포의 콜라겐 합성 증가를 억제 |
+| [16319104](https://pubmed.ncbi.nlm.nih.gov/16319104/) | 2006 | 기초 연구 | Rheumatology (Oxford) | 인산화된 Smad3가 Sp1, p300과 상호작용하여 콜라겐 발현에 관여 |
+| [9811061](https://pubmed.ncbi.nlm.nih.gov/9811061/) | 1998 | 기초 연구 | Arthritis Rheum | α1(I) 프로콜라겐 프로모터의 조절 요소와 전사인자 규명 |
+| [8702443](https://pubmed.ncbi.nlm.nih.gov/8702443/) | 1996 | 기초 연구 | Arthritis Rheum | 미만성 전신 경화증 섬유아세포에서 COL1A1 전사 조절과 인트론 서열의 역할 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201501443 | 클리어에프점안액(수출용) | 점안액 | 허가 적응증 원문 확인 불가 |
-| 199301046 | 신폴점안액(수출용) | 점안액 | 허가 적응증 원문 확인 불가 |
-| 201001531 | 쿠이로점안액(수출용)(수출명: QUIROW) | 점안액 | 허가 적응증 원문 확인 불가 |
-| 199403384 | 다클점안액(수출용) | 점안액 | 허가 적응증 원문 확인 불가 |
-| 199202903 | 참클로람페니콜점안액(수출명: 게라펜점안액) | 점안액 | 허가 적응증 원문 확인 불가 |
+| 201501443 | 클리어에프점안액(수출용) | 점안액 | 적응증 텍스트 미기재 |
+| 199301046 | 신폴점안액(수출용) | 점안액 | 적응증 텍스트 미기재 |
+| 201001531 | 쿠이로점안액(수출용) | 점안액 | 적응증 텍스트 미기재 |
+| 199403384 | 다클점안액(수출용) | 점안액 | 적응증 텍스트 미기재 |
+| 199202903 | 참클로람페니콜점안액 | 점안액 | 적응증 텍스트 미기재 |
 
 ## 안전성 고려사항
 
-- **허가사항 경고·금기**: 이번 보고서에 취합된 데이터에는 허가사항의 경고 및 금기 정보가 없습니다. 안전성 정보는 허가사항을 참조하세요.
-- **지식 그래프 기반 금기 질환**(허가 문구가 아닌 모델 지식 그래프 정보): 신장 질환, 간 질환, 담낭 질환, 혈소판감소증, 빈혈(거대적혈구성 포함), 재생불량성 빈혈, 무과립구증, 호중구감소증(선천성 포함), 말초신경병증, 시신경염, 급성 간헐성 포르피린증, 발작성 야간 혈색소뇨증 등이 연결되어 있습니다. 혈액학적 독성이 핵심 우려입니다.
-- **약물 상호작용**: 총 100건이 조회되었으며, 그중 상위 항목에는 다음이 있습니다.
-  - **Major**: Cisapride, Naloxegol
-  - **Moderate**: 설포닐우레아계 혈당강하제(Glimepiride, Glipizide, Glyburide, Chlorpropamide, Acetohexamide), Repaglinide, Saxagliptin, Rosuvastatin, Simvastatin, Metronidazole, Budesonide, Aprepitant, Iron, Eliglustat, Nitisinone, Naldemedine, Balsalazide
-  - 점안제는 전신 노출이 적지만, 상호작용 중요도는 투여 경로별로 별도 평가가 필요합니다.
+- **약물 상호작용**: 중대(Major) 수준으로 cisapride, naloxegol이 확인되었습니다. 중등도(Moderate) 수준으로는 metronidazole, 설포닐우레아계 혈당강하제(glipizide, glimepiride, glyburide, chlorpropamide, acetohexamide), repaglinide, simvastatin, rosuvastatin, saxagliptin, budesonide, aprepitant, 철분 등이 있습니다. 조회된 상호작용은 총 100건이며 이 중 일부만 나열했습니다.
+- **주의가 필요한 질환(참고)**: 신장 질환, 간 질환, 혈소판감소증, 빈혈, 무과립구증, 호중구감소증, 재생불량성 빈혈, 말초신경병증, 시신경염, 급성 간헐성 포르피린증, 발작성 야간 혈색소뇨증 등에서 주의가 필요한 것으로 확인되었으나, 이는 허가 문서의 기재 내용이 아닙니다.
+- 특히 골수 독성(재생불량성 빈혈)은 만성 섬유성 질환에 사용하기에 큰 안전성 장벽입니다.
+
+허가사항의 경고 및 금기 정보는 이번 자료에서 확보되지 않았으므로 허가사항을 직접 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-결막염에 대해서는 비교 임상연구와 체계적 문헌고찰 등 L3 수준의 근거가 있고, 점안 사용은 이미 확립된 관행입니다. 다만 재생불량성 빈혈 우려와 일부 연구에서의 낮은 임상 성공률·내성 문제가 있어 안전장치가 필요합니다.
+미만성 피부경화증을 직접 다룬 임상시험이나 chloramphenicol 투여 연구가 없고, 모델 점수(0.9965)만 근거로 남아 있습니다. 골수 독성이라는 안전성 문제도 만성 질환 적용에 큰 걸림돌입니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(MFDS 첨부문서)의 경고·금기 및 적응증 원문 확보
-- 상세한 약물 작용 기전(MOA) 데이터 보완
-- 현지 내성 양상을 반영한 최신 감수성 자료 확인
-- 점안 사용 시 혈액학적 이상 이력이 있는 환자에 대한 사용 제한 및 모니터링 방침 수립
-
-## 참고: 기타 예측 적응증
-
-나머지 예측은 근거가 부족해 모두 **Hold**로 판단합니다.
-
-| 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 비고 |
-|------|-----------|-----------|---------|------|
-| 2 | 미만성 경피증 | 99.65% | L4 | 문헌은 콜라겐 유전자 조절에 관한 전임상 연구뿐이며, chloramphenicol의 치료 효과를 보여주지 않습니다. 보고자 분석(CAT assay)에 따른 간접적 연관일 가능성이 큽니다. |
-| 3 | 감염 후 혈관염 | 99.58% | L5 | 면역 매개 질환으로 기전적 근거 부족, 임상시험·문헌 없음 |
-| 4 | 세균 감염 후 질환 | 99.57% | L5 | 유일한 시험(NCT05106803, 24명)은 항생제 감수성 관찰 연구로 효능 근거가 아님 |
-| 5 | 감염 후 증후군 | 99.56% | L5 | 항생제의 기전적 역할 불분명, 근거 없음 |
-| 6 | 감염성 요도 협착 | 99.52% | L5 | 구조적·섬유화 질환이며 검색된 문헌(1964년 증례)은 관련 없음 |
-| 7 | 샤가스 심근병증 | 99.51% | L5 | 원충 질환으로 기전 근거 없고 골수억제 독성 우려 |
-| 8 | 감염 관련 용혈성 요독 증후군 | 99.50% | L5 | 항생제가 독소 방출을 늘릴 수 있고 혈액독성 우려로 기전상 불리 |
-| 9 | 점상 상피성 각결막염 | 99.17% | L5 | 문헌은 미포자충 각결막염 증례이며 chloramphenicol 효능 근거 없음 |
+- chloramphenicol의 작용 기전(MOA) 자료 확보 및 섬유화 관련 기전 연결 검증
+- 섬유아세포 모델 등 전임상 연구를 통한 효과 확인
+- 허가 문서의 경고·금기 사항 확보 및 골수 독성 위험-이익 평가
+- 한국 허가 제품이 모두 점안액(수출용)이므로, 전신 투여가 필요한 경우 투여 경로 적합성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

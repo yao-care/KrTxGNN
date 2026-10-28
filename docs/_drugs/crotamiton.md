@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Crotamiton
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 237
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Crotamiton: 예측 신규 적응증 털진드기증 (Trombiculiasis) (근거 수준 L5). 기존 적응증: 습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물린데, 두드러기"
+description: "Crotamiton: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Crotamiton"
-predicted_indications: ["trombiculiasis", "lymph node palisaded myofibroblastoma", "abdominal ectopic pregnancy", "abdominal cystic lymphangioma", "celiac trunk compression syndrome", "disease of uterine broad ligament", "disease of retroperitoneum", "sacrum chordoma", "urethral disease", "hordeolum"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Crotamiton
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ predicted_indications: ["trombiculiasis", "lymph node palisaded myofibroblastoma
 
 </div>
 
-## Crotamiton: 피부 가려움증에서 털진드기증(Trombiculiasis)으로
+## Crotamiton
 {: .text-alpha }
-
-## 한 문장 요약
-
-Crotamiton은 외용 항소양제이자 옴 치료제로, 원래 습진, 피부염, 땀띠, 벌레 물림, 두드러기 등에 따른 피부 가려움 치료에 사용되었습니다.
-TxGNN 모델은 **털진드기증(Trombiculiasis)**에 효과가 있을 수 있다고 예측하지만, 현재 이 방향을 직접 지지하는 **임상시험은 0건, 문헌도 0편**입니다.
-따라서 이 예측은 허가 적응증과의 중복에 근거한 간접적 지지에 머뭅니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물린데, 두드러기 |
-| 예측 신규 적응증 | 털진드기증 (Trombiculiasis) |
-| TxGNN 예측 점수 | 96.24% |
-| 근거 수준 | L4 (기전상 개연성만 있음, 직접 연구 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | 이 약은 습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물린데, 두드러기에 사용합니다.; 이 약은 습진, 피부염, 가려움, 두드러기, 땀띠, 벌레물린데에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204538/EE; 이 약은 피부가려움에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701274/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 12건 |
-| 권장 결정 | Hold (추가 근거 확보 시 재평가) |
-
-## 이 예측이 타당한 이유는?
-
-털진드기증은 털진드기 유충에 물려 생기는 외부기생충성 피부질환으로, 극심한 가려움이 특징입니다. Crotamiton은 이미 국내에서 벌레 물림에 따른 가려움과 피부염 증상 완화로 허가된 외용제이므로, 기존 적응증과 신규 적응증은 증상 완화 측면에서 겹칩니다.
-
-작용 기전은 아직 명확하지 않습니다. 이 약은 옴 치료제(scabicide)로 알려져 있으나 정확한 기전은 밝혀지지 않았습니다. 일반적인 항소양 작용으로는 피부와 일차 감각 신경에 발현되는 TRPV4 채널을 억제한다는 보고가 있습니다. 따라서 가려움 완화는 기전상 설명 가능하며, 진드기 구제 효과 가능성도 있으나 확인된 바는 없습니다.
-
-다만 이 연결성은 허가 적응증과의 중복과 높은 예측 점수에 기반한 간접적 추론이며, 털진드기증에 대한 직접적인 임상 또는 문헌 근거는 제공되지 않았습니다.
 
 ## 한국 시판 정보
 
@@ -81,24 +65,6 @@ TxGNN 모델은 **털진드기증(Trombiculiasis)**에 효과가 있을 수 있�
 
 경고 및 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-털진드기증은 Crotamiton의 허가 적응증(벌레 물림에 따른 가려움)과 증상 면에서 겹쳐 개연성은 있습니다. 그러나 관련 임상시험과 문헌이 전혀 없고 작용 기전 데이터도 부족하여, 현 단계에서는 모델 예측과 간접 추론에 의존합니다. 또한 허가사항의 경고·금기 정보가 확보되지 않아 안전성 검토를 진행할 수 없습니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(식약처 첨부문서)의 경고·금기 정보 확보 및 안전성 검토
-- 상세한 작용 기전(MOA) 데이터 확보
-- 털진드기증에서 Crotamiton의 효과를 다룬 임상시험 또는 문헌 탐색
-- 지식그래프상 피부염 금기 표시와 허가 적응증 간의 불일치 확인
-- 약물 투여 경로(외용) 적합성 평가
-
----
-
-**참고: 기타 예측 적응증**
-2~10위 예측(림프절 책상 모양 근섬유모세포종, 복강 내 자궁외임신, 복부 낭성 림프관종 등)은 기전상 연관성이 확인되지 않고 임상 근거가 없어 모두 L5(Hold)로 평가되며, 지식그래프상 우연한 근접성에 따른 예측으로 보입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

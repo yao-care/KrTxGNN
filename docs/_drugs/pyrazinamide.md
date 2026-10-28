@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 639
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pyrazinamide: 예측 신규 적응증 감염성 중이염 (Infectious Otitis Media) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 제공되어 구체적 적응증 텍스트는 확인되지 않음 (항결핵제로 알려져 있음)"
+last_modified_at: 2026-10-28
 monitor_inn: "PYRAZINAMIDE"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
+description: "Pyrazinamide: 예측 신규 적응증 감염성 중이염 (infectious otitis media) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800131/EE"
 ---
 
 # Pyrazinamide
@@ -33,7 +33,7 @@ predicted_indications: ["infectious otitis media", "middle ear disease", "otosal
 
 </div>
 
-## Pyrazinamide: 결핵에서 감염성 중이염으로
+## Pyrazinamide: 감염성 중이염 (infectious otitis media)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,11 +46,11 @@ TxGNN 모델은 **감염성 중이염(Infectious Otitis Media)**에 효과가 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 제공되어 구체적 적응증 텍스트는 확인되지 않음 (항결핵제로 알려져 있음) |
-| 예측 신규 적응증 | 감염성 중이염 (Infectious Otitis Media) |
-| TxGNN 예측 점수 | 99.96% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800131/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800132/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199402351/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199402370/EE |
+| 예측 신규 적응증 | 감염성 중이염 (infectious otitis media) |
+| TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN 모델은 **감염성 중이염(Infectious Otitis Media)**에 효과가 �
 
 따라서 이 예측은 **결핵성 중이염**이라는 드문 아형에 한해서만 기전상 의미가 있습니다. 일반적인 세균성·바이러스성 중이염 병원체에는 활성이 없어, 높은 TxGNN 점수는 임상적·문헌적 뒷받침이 없는 모델 예측일 뿐입니다.
 
-상위 10개 예측 중 대부분이 중이·내이 질환이며, 그중 중이질환(99.92%), 만성 중이염, 화농성 중이염은 결핵성 중이염 증례 보고가 있어 간접적으로만 연결됩니다. 이는 새로운 재창출 신호라기보다 기존 항결핵 요법의 범위 안에 있는 사용입니다.
+상위 10개 예측 중 대부분이 중이·내이 질환이며, 그중 중이질환(0.9992), 만성 중이염, 화농성 중이염은 결핵성 중이염 증례 보고가 있어 간접적으로만 연결됩니다. 이는 새로운 재창출 신호라기보다 기존 항결핵 요법의 범위 안에 있는 사용입니다.
 
 ## 임상시험 근거
 

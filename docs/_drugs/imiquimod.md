@@ -47,9 +47,9 @@ TxGNN 모델은 **전암성 신생물(pre-malignant neoplasm)**에 효과가 있
 |------|------|
 | 기존 적응증 | 허가 적응증 원문 텍스트가 확보되지 않음 (식약처 허가정보 링크만 확인됨) |
 | 예측 신규 적응증 | 전암성 신생물 (pre-malignant neoplasm) |
-| TxGNN 예측 점수 | 99.92% |
-| 근거 수준 | L1 (아래 참고) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9992 |
+| 근거 수준 | L5 (아래 참고) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Proceed with Guardrails |
 

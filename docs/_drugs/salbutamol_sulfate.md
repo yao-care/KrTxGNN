@@ -8,6 +8,7 @@ nav_order: 681
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Salbutamol Sulfate
@@ -53,7 +54,7 @@ SALBUTAMOL SULFATE는 국제일반명(INN)으로 등록된 약물이나, 이번 
 | 예측 신규 적응증 | 없음 |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | L5 이하 (예측 결과 없음) |
-| 시판 현황 | ✗ 미시판 |
+| 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

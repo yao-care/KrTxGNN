@@ -4,17 +4,17 @@ title: Itopride
 parent: 모델 예측만 (L5)
 nav_order: 443
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Itopride: 예측 신규 적응증 소장 크론병 (small bowel Crohn disease) (근거 수준 L5). 기존 적응증: 위장관 운동 촉진제로 허가됨 (허가 적응증 원문은 이번 데이터에서 확인되지 않아 허가사항 참조 필요)"
 monitor_inn: "Itopride"
-predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)", "esophageal ulcer", "cascade stomach", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "hemorrhagic duodenitis"]
+predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)"]
 ---
 
 # Itopride
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **소장 크론병(small bowel Crohn disease)**에 효과가 있
 |------|------|
 | 기존 적응증 | 위장관 운동 촉진제로 허가됨 (허가 적응증 원문은 이번 데이터에서 확인되지 않아 허가사항 참조 필요) |
 | 예측 신규 적응증 | 소장 크론병 (small bowel Crohn disease) |
-| TxGNN 예측 점수 | 99.90% |
+| TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **소장 크론병(small bowel Crohn disease)**에 효과가 있
 
 현재 상세한 작용 기전 데이터는 데이터베이스에 등록되어 있지 않습니다. 다만 알려진 정보에 따르면 Itopride는 도파민 D2 길항제이자 아세틸콜린에스테라제 억제제로, 주로 상부 위장관의 운동성을 높입니다.
 
-크론병은 장관 벽의 만성 염증이 본질인 질환입니다. Itopride에는 항염증 작용이 확립되어 있지 않아, 두 질환 사이에 설득력 있는 기전적 연결 고리가 없습니다. TxGNN 점수(0.999)가 매우 높더라도 이는 지식 그래프 기반의 계산적 예측일 뿐입니다. 또한 협착형 질환에서는 장 운동 촉진제가 폐색 위험을 높일 수 있어 오히려 주의가 필요할 수 있습니다.
+크론병은 장관 벽의 만성 염증이 본질인 질환입니다. Itopride에는 항염증 작용이 확립되어 있지 않아, 두 질환 사이에 설득력 있는 기전적 연결 고리가 없습니다. TxGNN 점수(0.9990)가 매우 높더라도 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 또한 협착형 질환에서는 장 운동 촉진제가 폐색 위험을 높일 수 있어 오히려 주의가 필요할 수 있습니다.
 
 ## 임상시험 근거
 

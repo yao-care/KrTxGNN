@@ -4,17 +4,17 @@ title: Moxifloxacin
 parent: 모델 예측만 (L5)
 nav_order: 530
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Moxifloxacin: 예측 신규 적응증 폴리클로날 과점성 증후군 (Polyclonal Hyperviscosity Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가증에 문서 링크만 수록). 플루오로퀴놀론계 항균제로 사용"
 monitor_inn: "MOXIFLOXACIN"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm", "bubonic plague"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 ---
 
 # Moxifloxacin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **폴리클로날 과점성 증후군(Polyclonal Hyperviscosity 
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가증에 문서 링크만 수록). 플루오로퀴놀론계 항균제로 사용 |
 | 예측 신규 적응증 | 폴리클로날 과점성 증후군 (Polyclonal Hyperviscosity Syndrome) |
-| TxGNN 예측 점수 | 99.98% |
+| TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **폴리클로날 과점성 증후군(Polyclonal Hyperviscosity 
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Moxifloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 플루오로퀴놀론계 항균제입니다.
 
-그러나 이 기전은 혈청 점도나 다클론성 감마글로불린혈증과 연결되지 않습니다. 기존 적응증(세균 감염)과 예측 질환 사이에 기전상 타당한 연관성을 찾기 어렵습니다. 높은 TxGNN 점수는 지식 그래프 기반의 계산 결과일 뿐, 임상적·문헌적 뒷받침이 없습니다.
+그러나 이 기전은 혈청 점도나 다클론성 감마글로불린혈증과 연결되지 않습니다. 기존 적응증(세균 감염)과 예측 질환 사이에 기전상 타당한 연관성을 찾기 어렵습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며, 임상적·문헌적 뒷받침도 없습니다.
 
 참고로 다른 상위 예측들도 같은 양상입니다. 고아밀라아제혈증, 선천성 무알부민혈증, 혈액형 부적합 등은 근거가 없거나 간접적입니다. 상위 10개 예측 중 기전상 가장 설득력 있는 것은 **선페스트(bubonic plague)**로, 항균 활성에 기반한 전임상 근거가 있으나 이는 기존 항균제 용도의 연장선입니다.
 
@@ -100,7 +100,6 @@ TxGNN 모델은 **폴리클로날 과점성 증후군(Polyclonal Hyperviscosity 
 - 허가사항(경고·금기·적응증) 원문 확보 및 분석
 - 작용 기전 데이터 보완
 - 예측 질환과의 생물학적 연관성에 대한 가설 및 전임상 근거
-- 신규 적응증 후보를 재선정할 경우, 전임상 근거가 있는 선페스트를 우선 검토(단, 기존 항균 용도의 연장이라는 점을 고려)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

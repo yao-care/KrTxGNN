@@ -8,6 +8,7 @@ nav_order: 11
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Abacavir Sulfate
@@ -55,7 +56,7 @@ Abacavir Sulfate는 HIV-1 감염 치료에 사용되는 항바이러스제로, �
 | 예측 신규 적응증 | 없음 (TxGNN 파이프라인 예측 결과 없음) |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | 평가 불가 (예측 없음) |
-| 한국 시판 현황 | ✗ 미시판 (데이터 파이프라인 재확인 필요) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

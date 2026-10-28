@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aminophylline
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 59
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Aminophylline: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에는 문서 링크만 수록)"
 monitor_inn: "AMINOPHYLLINE"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
 ---
 
 # Aminophylline
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가증에는 문서 링크만 수록) |
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
-| TxGNN 예측 점수 | 99.88% |
+| TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L4 (전임상·기전 수준의 근거) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 7건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -114,10 +114,9 @@ TxGNN 점수는 높지만 편두통에 대한 임상시험이 없고, 근거는 
 
 | 순위 | 예측 적응증 | 점수 | 근거 수준 | 비고 |
 |------|-----------|------|---------|------|
-| 7 | 폐고혈압 | 99.23% | L3 | Phase 1 안전성 시험 1건(NCT01530464, ambrisentan 병용, 효능 평가 없음)과 소규모 혈역학 연구. 가장 근거가 많으나 RCT 근거 없음 |
-| 6 | 프린츠메탈 협심증 | 99.33% | L4 | 관상동맥 연축 유발 보고가 있어 이득보다 위해 가능성 시사 |
-| 9 | 갑상선기능항진증 | 99.06% | L4 | 약동학·생리학적 상호작용 연구뿐이며 치료 근거 없음. 빈맥·진전 악화 우려 |
-| 2, 4, 5, 8, 10 | 기타(전조 증상 있는 뇌간 편두통, 위축성 피부증 등) | 99.0~99.8% | L5 | 모델 예측만 있고 근거 부족 |
+| 7 | 폐고혈압 | 0.9923 | L3 | Phase 1 안전성 시험 1건(NCT01530464, ambrisentan 병용, 효능 평가 없음)과 소규모 혈역학 연구. 가장 근거가 많으나 RCT 근거 없음 |
+| 6 | 프린츠메탈 협심증 | 0.9933 | L5 | 관상동맥 연축 유발 보고가 있어 이득보다 위해 가능성 시사 |
+| 9 | 갑상선기능항진증 | 0.9906 | L4 | 약동학·생리학적 상호작용 연구뿐이며 치료 근거 없음. 빈맥·진전 악화 우려 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

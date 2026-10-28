@@ -48,9 +48,9 @@ TxGNN 모델은 **골격 침범을 동반한 리소좀 축적질환(lysosomal st
 |------|------|
 | 기존 적응증 | 점액다당증 I형(MPS I) (한국 허가증에는 적응증 본문 대신 허가사항 문서 링크만 기재되어 있어, 문헌 및 약물 정보에 근거해 기재) |
 | 예측 신규 적응증 | 골격 침범을 동반한 리소좀 축적질환 (lysosomal storage disease with skeletal involvement) |
-| TxGNN 예측 점수 | 99.31% |
-| 근거 수준 | L4 (전임상·기전 수준 근거만 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9931 |
+| 근거 수준 | L5 (전임상·기전 수준 근거만 존재) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -106,7 +106,7 @@ TxGNN 모델은 **골격 침범을 동반한 리소좀 축적질환(lysosomal st
 
 ### 참고: 두 번째 예측 (Sanfilippo 증후군)
 
-TxGNN 점수 99.22%로 예측된 Sanfilippo 증후군(MPS III)은 **Hold**를 권고합니다.
+TxGNN 점수 0.9922로 예측된 Sanfilippo 증후군(MPS III)은 **Hold**를 권고합니다.
 
 - Sanfilippo 증후군은 헤파란 황산 분해 경로의 다른 효소(SGSH, NAGLU, HGSNAT, GNS) 결핍으로 발생하며, laronidase가 보정하는 알파-L-이두로니다제와는 무관합니다.
 - 주로 신경계 질환인데 정맥 투여 laronidase는 혈액-뇌 장벽을 효과적으로 통과하지 못합니다.

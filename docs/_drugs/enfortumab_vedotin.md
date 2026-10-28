@@ -4,17 +4,17 @@ title: Enfortumab Vedotin
 parent: 모델 예측만 (L5)
 nav_order: 309
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Enfortumab Vedotin: 예측 신규 적응증 나병 (Leprosy) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 허가증 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조)"
+indication_count: 9
 monitor_inn: "Enfortumab vedotin"
-predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "infectious bovine rhinotracheitis", "malignant catarrh"]
+predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
+last_modified_at: 2026-10-27
+description: "Enfortumab Vedotin: 예측 신규 적응증 나병 (leprosy) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300822/EE"
 ---
 
 # Enfortumab Vedotin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,40 @@ predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovi
 
 </div>
 
-## Enfortumab vedotin: 요로상피암에서 나병으로
+## Enfortumab vedotin: Nectin-4 표적 항체-약물 접합체 → 나병 (leprosy)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Enfortumab vedotin은 Nectin-4를 표적으로 하는 항체-약물 접합체(ADC)로, 한국에서 항종양제로 허가·시판되고 있습니다. TxGNN 모델은 **나병(leprosy)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 지지하는 **임상시험은 0건**, **문헌도 0편**입니다. 이 예측은 모델 계산 결과일 뿐이며 근거는 사실상 없습니다.
+Enfortumab vedotin은 Nectin-4를 표적으로 하는 항체-약물 접합체(ADC)로, 미세소관 억제제 MMAE를 종양 세포에 전달하는 항암제입니다.
+TxGNN 모델은 **나병(leprosy)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험과 문헌은 0건**입니다.
+이 예측은 컴퓨터 모델 결과일 뿐이며, 현재로서는 근거가 매우 부족합니다.
+
+---
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 허가증 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조) |
-| 예측 신규 적응증 | 나병 (Leprosy) |
-| TxGNN 예측 점수 | 99.53% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300822/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300823/EE |
+| 예측 신규 적응증 | 나병 (leprosy) |
+| TxGNN 예측 점수 | 0.9953 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
+
+---
 
 ## 이 예측이 타당한 이유는?
 
-현재 데이터상 작용 기전 정보가 공식적으로 정리되어 있지 않습니다. 다만 일반적으로 알려진 바에 따르면, enfortumab vedotin은 Nectin-4를 표적으로 하는 항체에 미세소관 억제제 MMAE를 결합한 ADC로, Nectin-4를 발현하는 종양세포에 세포독성 물질을 전달합니다.
+현재 상세한 작용 기전 데이터가 충분하지 않습니다. 알려진 정보에 따르면 이 약은 Nectin-4를 표적으로 하는 ADC이며, 미세소관 억제제인 MMAE를 Nectin-4 발현 종양 세포에 전달합니다.
 
-이 기전과 *Mycobacterium leprae* 감염(나병)을 연결할 근거는 확인되지 않았습니다. 항바이러스·항균 활성에 대한 자료도 없습니다. 따라서 높은 TxGNN 점수는 지식 그래프에서 나온 계산상의 예측으로만 해석해야 하며, 기전상 타당성은 현재 뒷받침되지 않습니다.
+이 기전과 나병(*Mycobacterium leprae* 감염) 사이를 연결하는 근거는 이번에 수집된 데이터에서 확인되지 않습니다. 세포독성 항암 기전이 항미생물 효과로 이어진다는 자료도 없습니다.
 
-참고로 예측 상위 10개 중 다른 항목도 대부분 같은 상황입니다. 거대세포바이러스 감염, 칸디다증은 문헌이 1편씩 있으나 치료 효과가 아니라 이상반응 보고입니다. 소 전염성 비기관염, 악성 카타르열은 수의학 질환으로 지식 그래프 인공물일 가능성이 높습니다. 유방암(HER2 양성)만 Nectin-4 발현이라는 생물학적 근거가 있어 추가 연구 질문이 될 수 있습니다.
+따라서 높은 예측 점수는 계산상의 결과일 뿐이며, 기전상 타당성은 현재 입증되지 않았습니다.
+
+---
 
 ## 임상시험 근거
 
@@ -68,45 +76,52 @@ Enfortumab vedotin은 Nectin-4를 표적으로 하는 항체-약물 접합체(AD
 
 현재 관련 문헌이 없습니다.
 
+---
+
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 202300822 | 파드셉주20밀리그램(엔포투맙베도틴) | 주사제 (동결건조 분말, 용해 후 투명~옅은 유백색 액체) | 허가사항 참조 |
-| 202300823 | 파드셉주30밀리그램(엔포투맙베도틴) | 주사제 (동결건조 분말, 용해 후 투명~옅은 유백색 액체) | 허가사항 참조 |
+| 202300822 | 파드셉주20밀리그램(엔포투맙베도틴) | 동결건조 분말 주사제 | 허가 문서 링크만 제공됨 |
+| 202300823 | 파드셉주30밀리그램(엔포투맙베도틴) | 동결건조 분말 주사제 | 허가 문서 링크만 제공됨 |
 
-두 제품 모두 한국아스텔라스제약(주)이 보유한 단일제 허가입니다.
+---
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | ADC 계열 항종양제 (Nectin-4 표적 항체 + 미세소관 억제제 MMAE) |
+| 세포독성 분류 | 표적치료제 (항체-약물 접합체, 미세소관 억제제 MMAE 탑재) |
 | 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
 
+---
+
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건이 확인되었으며, 이 중 일부는 다음과 같습니다.
-  - **주요(Major)**: Clarithromycin
-  - **중등도(Moderate)**: 혈당강하제 계열(Metformin, Pioglitazone, Acarbose, Glimepiride, Glipizide, Glyburide, Chlorpropamide, Acetohexamide), DPP-4 억제제(Alogliptin, Saxagliptin, Linagliptin), SGLT2 억제제(Canagliflozin, Dapagliflozin, Empagliflozin, Ertugliflozin), GLP-1 작용제(Albiglutide, Dulaglutide, Exenatide), Aprepitant
+- **약물 상호작용**: 데이터에서 100건이 확인되었으며, 대부분 중등도(Moderate)입니다. 주요 항목은 다음과 같습니다.
+  - 중대(Major): Clarithromycin
+  - 중등도: Aprepitant, Metformin, Pioglitazone, Glimepiride, Glipizide, Glyburide, Dapagliflozin, Empagliflozin 등 (혈당강하제 계열이 다수)
 
-주요 경고와 금기는 허가사항을 참조하세요.
+그 외 경고 및 금기 정보는 허가사항을 참조하세요.
+
+---
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-나병에 대한 예측은 TxGNN 점수(99.53%)만 높을 뿐 임상시험과 문헌이 전혀 없고(L5), 약물의 작용 기전과 연결되는 근거도 없습니다. 현 시점에서 재창출 연구로 진행할 근거가 부족합니다.
+- 나병에 대한 임상시험과 문헌이 전혀 없고, 기전적 연결고리도 확인되지 않아 근거 수준은 L5(모델 예측만 존재)입니다.
+- 세포독성 항암제를 감염병에 적용할 근거가 없으므로 현 단계에서 진행하기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·기존 적응증) 원문 확보 및 정리
-- 상세한 작용 기전(MOA) 데이터 확보 (DrugBank 조회)
-- 나병에서 Nectin-4 발현 또는 표적 관련성에 대한 전임상 근거
-- 근거가 상대적으로 있는 HER2 양성 유방암 등 다른 후보의 우선 검토 (EV-202 시험의 유방암 코호트 포함 여부 확인 필요)
+- 허가사항(경고·금기·적응증) 원문 확보 및 분석
+- 상세한 작용 기전(MOA) 데이터 보충
+- 나병과의 기전적 연관성을 보여주는 전임상 연구 또는 문헌
+- 안전성 검토(세포독성 항암제의 감염 위험 등)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

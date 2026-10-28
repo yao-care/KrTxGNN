@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Simvastatin
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 693
-evidence_level: L1
-indication_count: 8
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Simvastatin: 예측 신규 적응증 가족성 고콜레스테롤혈증 (Familial Hypercholesterolemia) (근거 수준 L1). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Simvastatin: 예측 신규 적응증 Brain stem infarction (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301131/EE"
 ---
 
 # Simvastatin
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **8** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ predicted_indications: ["brain stem infarction", "cholesterol-ester transfer pro
 
 </div>
 
-## Simvastatin: 고지혈증에서 가족성 고콜레스테롤혈증으로
+## Simvastatin: Brain stem infarction
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Simvastatin은 HMG-CoA 환원효소를 억제하는 스타틴 계열 약물로, 한국에서 이상지질혈증 치료제로 널리 시판되고 있습니다.
-TxGNN 모델은 **가족성 고콜레스테롤혈증(Familial Hypercholesterolemia)**에 효과가 있을 수 있다고 예측하며, 현재 **8건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다.
 다만 이 예측은 이미 확립된 지질 강하 용도에 가까워, 엄밀한 의미의 새로운 재창출은 아닙니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조) |
-| 예측 신규 적응증 | 가족성 고콜레스테롤혈증 (Familial Hypercholesterolemia) |
-| TxGNN 예측 점수 | 99.63% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301131/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308855/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800820/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707670/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300551/EE;  |
+| 예측 신규 적응증 | Brain stem infarction |
+| TxGNN 예측 점수 | 0.9941 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Proceed with Guardrails |
 

@@ -8,6 +8,7 @@ nav_order: 38
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alfuzosin Hydrochloride
@@ -52,7 +53,7 @@ Alfuzosin Hydrochloride는 알파-1 차단제 계열로 알려진 약물이나, 
 | 예측 신규 적응증 | 데이터 없음 (TxGNN 예측 미제공) |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | L5 (예측 결과 없음, 실증 연구 미확인) |
-| 한국 시판 현황 | 미시판 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

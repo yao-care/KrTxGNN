@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Bimekizumab
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 148
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Bimekizumab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인할 수 없음 (허가사항 PDF 링크만 있음)"
+description: "Bimekizumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Bimekizumab"
-predicted_indications: ["diabetic cataract", "tetanic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "immature cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "antithrombin deficiency type 2"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Bimekizumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ predicted_indications: ["diabetic cataract", "tetanic cataract", "mature catarac
 
 </div>
 
-## Bimekizumab: 기존 적응증 미확인에서 당뇨병성 백내장으로
+## Bimekizumab
 {: .text-alpha }
-
-## 한 문장 요약
-
-Bimekizumab은 IL-17A, IL-17F, IL-17AF를 선택적으로 중화하는 단클론항체로, 한국에서 주사제(빔젤릭스오토인젝터주)로 허가되어 시판 중입니다.
-TxGNN 모델은 **당뇨병성 백내장(diabetic cataract)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 지지하는 **임상시험은 0건**, **문헌도 0편**입니다.
-따라서 이 예측은 모델 계산 결과에 그치며, 실제 근거는 없는 상태입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인할 수 없음 (허가사항 PDF 링크만 있음) |
-| 예측 신규 적응증 | 당뇨병성 백내장 (Diabetic Cataract) |
-| TxGNN 예측 점수 | 98.23% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402086/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 알려진 약물 계열 정보에 따르면 Bimekizumab은 IL-17A, IL-17F, IL-17AF를 동시에 중화하는 단클론항체이며, 이 경로는 염증 매개 질환과 관련이 깊습니다.
-
-당뇨병성 백내장은 주로 수정체의 폴리올 경로 활성화, 산화 스트레스, 최종당화산물(AGE)에 의해 발생합니다. IL-17 매개 염증이 당뇨병 합병증에 관여할 가능성은 제기되어 있으나, 수정체 혼탁과의 직접적인 연관성은 확립되지 않았습니다. 즉 기전적 연결은 추측 수준입니다.
-
-같은 상위 예측에는 노인성, 피질성, 핵성, 성숙, 미성숙 백내장 등 다양한 백내장 아형과 함께 항트롬빈 결핍증 2형도 포함되어 있습니다. 이들 대부분은 IL-17 차단과 타당한 기전적 연결이 없어, 높은 점수는 그래프 내 연관성에 따른 계산 결과일 가능성이 큽니다.
 
 ## 한국 시판 정보
 
@@ -72,18 +56,6 @@ TxGNN 모델은 **당뇨병성 백내장(diabetic cataract)**에 효과가 있�
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-예측 점수는 높지만 임상시험과 문헌이 모두 없고 기전적 연결도 불분명합니다. 또한 전신 투여 생물학적 제제를 백내장에 적용하는 것은 타당성이 낮아 근거 수준은 L5입니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(MFDS 첨부문서)에서 기존 적응증, 경고 및 금기 정보 확보
-- 상세한 약물 작용 기전(MOA) 데이터 확보
-- IL-17 경로와 수정체 혼탁(당뇨병성 백내장) 사이의 전임상 또는 기전 연구 근거
-- 관련 임상시험 및 문헌 검색 보강, 투여 경로(전신 vs 안구 국소) 적합성 평가
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

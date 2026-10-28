@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Sofosbuvir
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 698
-evidence_level: L5
+evidence_level: L2
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L5). 기존 적응증: 한국 허가 적응증(C형 간염) — 허가 문서 링크만 확인되며 본문 텍스트는 확보되지 않음"
@@ -14,7 +14,7 @@ predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infect
 # Sofosbuvir
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **8** 건
+근거 수준: **L2** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infect
 
 </div>
 
-## Sofosbuvir: C형 간염에서 B형 간염으로
+## Sofosbuvir: C형 간염에서 B형 간염 바이러스 감염으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Sofosbuvir는 한국에서 C형 간염 바이러스(HCV) 치료제로 허가·시판 중인 뉴클레오타이드 유사체 약물입니다.
-TxGNN 모델은 **B형 간염 바이러스 감염(hepatitis B virus infection)**에 효과가 있을 수 있다고 예측했습니다(예측 점수 99.77%).
+TxGNN 모델은 **B형 간염 바이러스 감염(hepatitis B virus infection)**에 효과가 있을 수 있다고 예측했습니다(예측 점수 0.9977).
 다만 관련 임상시험 대부분은 HCV/HBV 동시감염 환자 대상이며, B형 간염에 대한 직접적인 항바이러스 효능이 아니라 HBV 재활성화 같은 안전성 신호를 다룹니다. 따라서 이 예측은 실제 효능 근거가 약한 **모델 예측 중심**입니다.
 
 ## 빠른 개요
@@ -48,9 +48,9 @@ TxGNN 모델은 **B형 간염 바이러스 감염(hepatitis B virus infection)**
 |------|------|
 | 기존 적응증 | 한국 허가 적응증(C형 간염) — 허가 문서 링크만 확인되며 본문 텍스트는 확보되지 않음 |
 | 예측 신규 적응증 | B형 간염 바이러스 감염 (hepatitis B virus infection) |
-| TxGNN 예측 점수 | 99.77% |
+| TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L2 (이 예측 후보에 대한 평가 결과. 단, 아래 설명처럼 HBV 효능 근거는 간접적이므로 해석에 주의) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -129,12 +129,12 @@ Sofosbuvir는 HBV에 대한 기전적 근거가 없고, 임상 근거도 대부�
 
 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 비고 |
 |------------|-----------|----------|------|
-| E형 간염 바이러스 감염 | 99.49% | L2 | 소규모 Phase 2(n=10)와 시험관 내 근거가 있으나 지속 바이러스 반응은 달성하지 못했고 내성 변이가 보고됨. 가장 기전적 타당성이 높은 후보 |
-| 만성 B형 간염 | 99.46% | L2 | 위와 동일하게 동시감염 맥락의 안전성 근거 |
-| A형 간염 | 99.48% | L4 | 시험관 내 연구만 있음 |
-| Kyasanur 삼림병 | 99.45% | L4 | 효소 수준 생화학 연구만 있음 |
-| 옴스크 출혈열 | 99.47% | L5 | 모델 예측만 있음 |
-| HIV 감염 | 99.23% | L1 | HIV 치료 효능이 아니라 HIV/HCV 동시감염자에서의 HCV 치료 근거이므로 재창출이 아님 |
+| E형 간염 바이러스 감염 | 0.9949 | L2 | 소규모 Phase 2(n=10)와 시험관 내 근거가 있으나 지속 바이러스 반응은 달성하지 못했고 내성 변이가 보고됨. 가장 기전적 타당성이 높은 후보 |
+| 만성 B형 간염 | 0.9946 | L2 | 위와 동일하게 동시감염 맥락의 안전성 근거 |
+| A형 간염 | 0.9948 | L4 | 시험관 내 연구만 있음 |
+| Kyasanur 삼림병 | 0.9945 | L4 | 효소 수준 생화학 연구만 있음 |
+| 옴스크 출혈열 | 0.9947 | L5 | 모델 예측만 있음 |
+| HIV 감염 | 0.9923 | L1 | HIV 치료 효능이 아니라 HIV/HCV 동시감염자에서의 HCV 치료 근거이므로 재창출이 아님 |
 
 이 표에서는 모델 점수나 근거 수준 수치보다 실제 근거의 성격이 더 중요합니다. 현재 데이터상 E형 간염이 가장 우선적으로 추가 검토할 만한 방향입니다.
 ## 면책 조항

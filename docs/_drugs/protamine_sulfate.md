@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Protamine Sulfate
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 636
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Protamine Sulfate: 예측 신규 적응증 중증 지적장애-진행성 출생 후 소두증-정중선 상동 손동작 증후군 (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 기재되어 있지 않고 허가 문서 링크만 제공됨 (허가사항 참조)"
+description: "Protamine Sulfate: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Protamine sulfate"
-predicted_indications: ["severe intellectual disability-progressive postnatal microcephaly- midline stereotypic hand movements syndrome", "neonatal dermatomyositis", "neonatal autoimmune hemolytic anemia", "neonatal antiphospholipid syndrome", "secondary neonatal autoimmune disease", "Prader-Willi-like syndrome due to point mutation", "Prader-Willi-like syndrome", "refractory celiac disease", "squamous cell carcinoma of penis", "adenocarcinoma of penis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Protamine Sulfate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ predicted_indications: ["severe intellectual disability-progressive postnatal mi
 
 </div>
 
-## Protamine sulfate: 헤파린 중화제에서 중증 지적장애-소두증 증후군으로
+## Protamine Sulfate
 {: .text-alpha }
-
-## 한 문장 요약
-
-Protamine sulfate(프로타민황산염)는 한국에서 주사제로 허가되어 시판 중인 약물입니다.
-TxGNN 모델은 **중증 지적장애-진행성 출생 후 소두증-정중선 상동 손동작 증후군**에 효과가 있을 수 있다고 예측하지만, 점수는 50%로 변별력이 없습니다.
-현재 이 방향을 지지하는 **임상시험은 0건**, **문헌도 0편**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 기재되어 있지 않고 허가 문서 링크만 제공됨 (허가사항 참조) |
-| 예측 신규 적응증 | 중증 지적장애-진행성 출생 후 소두증-정중선 상동 손동작 증후군 |
-| TxGNN 예측 점수 | 50.0% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110834/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201111151/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200869/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Protamine sulfate는 양이온성 폴리펩타이드로, 정전기적 결합을 통해 헤파린을 중화하는 약물입니다. 이는 헤파린 과량 투여 시 항응고 효과를 되돌리는 데 사용됩니다.
-
-이 약의 작용(헤파린 중화)은 해당 유전성 신경발달 증후군의 병태생리와 연관된 기전적 고리를 찾기 어렵습니다. 예측을 뒷받침하는 것은 변별력이 없는 TxGNN 점수 0.5뿐입니다.
-
-같은 점수(0.5)를 받은 다른 예측 질환(신생아 피부근염, 신생아 자가면역 용혈성 빈혈, 신생아 항인지질 증후군, 불응성 셀리악병, 음경 편평세포암 및 선암 등)도 모두 기전적 근거, 임상시험, 문헌이 없어 우선순위를 두기 어렵습니다.
 
 ## 한국 시판 정보
 
@@ -74,18 +58,6 @@ TxGNN 모델은 **중증 지적장애-진행성 출생 후 소두증-정중선 �
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-임상시험과 문헌 근거가 전혀 없고, 기전적 연관성도 확인되지 않았으며, TxGNN 점수 0.5는 변별력이 없습니다. 현재 데이터로는 재창출을 진행할 근거가 부족합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고, 금기, 적응증)의 확보 및 분석: 식약처(MFDS) 허가 문서 PDF 내려받기
-- 약물의 작용 기전(MOA) 데이터 보완: DrugBank 조회
-- 예측 질환과의 기전적 연관성을 뒷받침하는 전임상 또는 임상 근거
-- 더 높은 변별력을 가진 예측 결과 또는 다른 후보 적응증의 재검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

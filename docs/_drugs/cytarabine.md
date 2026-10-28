@@ -4,17 +4,17 @@ title: Cytarabine
 parent: 모델 예측만 (L5)
 nav_order: 244
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-15
-description: "Cytarabine: 예측 신규 적응증 소세포폐암 (Small Cell Lung Carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 수록되어 있어 확인할 수 없음 (허가사항 원문 확인 필요)"
+indication_count: 8
 monitor_inn: "CYTARABINE"
-predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
+predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
+last_modified_at: 2026-10-23
+description: "Cytarabine: 예측 신규 적응증 원발성 폐 림프종 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 원문이 링크로만 제공됨)"
 ---
 
 # Cytarabine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,30 +33,32 @@ predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma
 
 </div>
 
-## Cytarabine: 허가 적응증에서 소세포폐암으로
+## 시타라빈(Cytarabine): 허가 적응증 원문 미확인에서 원발성 폐 림프종으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Cytarabine은 피리미딘 계열 항대사 항종양제로, 한국에서 주사제로 허가·시판되고 있습니다. TxGNN 모델은 **소세포폐암(Small Cell Lung Carcinoma)**에 효과가 있을 수 있다고 예측하지만, 현재 이 적응증과 직접 연결된 임상시험은 없으며 소세포폐암 자체를 다룬 문헌도 매우 제한적입니다. 근거는 사실상 모델 예측과 간접적인 문헌 수준에 머물러 있습니다.
+시타라빈은 피리미딘 계열 핵산 유사체(항대사제)로, 한국에는 주사제 5건이 허가되어 있습니다. 다만 이번 보고서에 수집된 데이터에는 허가 적응증 원문이 링크로만 들어 있어 기존 적응증을 확인하지 못했습니다.
+TxGNN 모델은 **원발성 폐 림프종(Primary Pulmonary Lymphoma)**에 효과가 있을 수 있다고 예측합니다(점수 0.9978).
+그러나 이 질환을 직접 다룬 임상시험은 **0건**이고, 문헌 18편은 모두 중추신경계 림프종 등 인접 질환이나 이식 상황을 다룬 것이어서 간접 근거에 그칩니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 수록되어 있어 확인할 수 없음 (허가사항 원문 확인 필요) |
-| 예측 신규 적응증 | 소세포폐암 (Small Cell Lung Carcinoma) |
-| TxGNN 예측 점수 | 99.78% |
-| 근거 수준 | L4 (전임상·기전 수준, 직접적 임상 근거 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 5건 |
+| 기존 적응증 | 확인 불가 (허가 적응증 원문이 링크로만 제공됨) |
+| 예측 신규 적응증 | 원발성 폐 림프종 |
+| TxGNN 예측 점수 | 0.9978 |
+| 근거 수준 | L5 (이 질환을 직접 연구한 시험·문헌 없음) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가 건수 | 5건 (모두 단일 성분 제제, 유효 상태) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 cytarabine은 피리미딘 뉴클레오시드 항대사제로, S기 세포의 DNA 합성을 억제합니다. 소세포폐암은 증식이 빠른 종양이므로 이러한 기전이 이론적으로는 적용될 수 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 시타라빈은 S기 DNA 합성을 억제하는 피리미딘 핵산 유사체 항대사제입니다. 공격적 림프종 치료에서 고용량 시타라빈 요법, 이식 전처치, 구제요법 등에 쓰이는 약물이므로, 림프계 악성종양에는 기전상 적용 가능할 수 있습니다.
 
-다만 이 연결은 간접적입니다. 수집된 문헌은 대부분 비소세포폐암(NSCLC), 수막 전이, 다른 항대사제(gemcitabine, decitabine, pemetrexed)를 다루고 있으며, 소세포폐암에서 cytarabine을 직접 평가한 자료는 확인되지 않았습니다. 1987년의 고용량 cytarabine 소세포폐암 보고(PMID 3030547)가 있으나 초록이 없어 결과를 알 수 없습니다. 높은 TxGNN 점수는 모델 예측일 뿐입니다.
+다만 이 연결은 간접적입니다. 수집된 문헌은 중추신경계 림프종, CD30 양성 림프종, 이식 상황을 다룰 뿐 원발성 폐 림프종 자체를 다루지 않습니다. 따라서 이 예측은 기전적 개연성에 TxGNN 점수를 더한 가설 수준으로 보아야 합니다.
 
 ## 임상시험 근거
 
@@ -64,62 +66,62 @@ Cytarabine은 피리미딘 계열 항대사 항종양제로, 한국에서 주사
 
 ## 문헌 근거
 
-소세포폐암과의 관련성이 상대적으로 높은 문헌을 우선 정리했습니다. 대부분 비소세포폐암 연구이므로 간접 근거입니다.
+아래 문헌 중 원발성 폐 림프종을 직접 연구한 것은 없습니다. 모두 인접 질환의 근거입니다.
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [3030547](https://pubmed.ncbi.nlm.nih.gov/3030547/) | 1987 | 미분류 | Cancer Treat Rep | 소세포폐암에서의 고용량 cytarabine (초록 없음, 결과 확인 불가) |
-| [2156598](https://pubmed.ncbi.nlm.nih.gov/2156598/) | 1990 | Phase II | Cancer | 진행성 NSCLC에서 고용량 cytarabine + cisplatin. 반응률 14%, 4등급 골수억제 32% |
-| [2157307](https://pubmed.ncbi.nlm.nih.gov/2157307/) | 1990 | Phase II | Tumori | NSCLC에서 cytarabine + cisplatin + vindesine 병용 |
-| [2158614](https://pubmed.ncbi.nlm.nih.gov/2158614/) | 1990 | 무작위 Phase II | Med Pediatr Oncol | NSCLC 151명에서 cisplatin-cytarabine과 cisplatin-vinblastine 비교 |
-| [2820740](https://pubmed.ncbi.nlm.nih.gov/2820740/) | 1987 | 예비 연구 | Eur J Cancer Clin Oncol | 진행성 NSCLC에서 cisplatin + cytarabine 병용 |
-| [1332622](https://pubmed.ncbi.nlm.nih.gov/1332622/) | 1992 | 종설 | Gan To Kagaku Ryoho | cytarabine과 구조적으로 유사한 gemcitabine, DMDC. 고형암 다수는 cytarabine에 둔감하다고 언급 |
-| [38377785](https://pubmed.ncbi.nlm.nih.gov/38377785/) | 2024 | Phase II | ESMO Open | EGFR+ NSCLC 연수막 전이에서 척수강 내 pemetrexed (cytarabine 아님, 간접) |
+| [42486133](https://pubmed.ncbi.nlm.nih.gov/42486133/) | 2026 | 무작위 3상 | Lancet | 새로 진단된 원발성 중추신경계 림프종에서 티오테파 기반 고용량 화학요법+자가줄기세포이식과 비골수제거 공고요법 비교 |
+| [41117344](https://pubmed.ncbi.nlm.nih.gov/41117344/) | 2025 | 무작위 2상 | Hematological Oncology | CD30 양성 림프종에서 고용량 화학요법(BeEAM, 시타라빈 포함)에 브렌툭시맙 베도틴 추가 |
+| [38024477](https://pubmed.ncbi.nlm.nih.gov/38024477/) | 2023 | 무작위 2상 | EClinicalMedicine | 재발 림프종 자가이식 전처치에서 BendaEAM과 BEAM 비교 |
+| [12860951](https://pubmed.ncbi.nlm.nih.gov/12860951/) | 2003 | 2상 | J Clin Oncol | 60세 초과 원발성 중추신경계 림프종에서 화학요법 단독의 효능과 독성 |
+| [12241119](https://pubmed.ncbi.nlm.nih.gov/12241119/) | 2002 | 2상 | J Neurooncol | 원발성 중추신경계 림프종에서 고용량 메토트렉세이트+시타라빈 병용(14명) |
+| [11244328](https://pubmed.ncbi.nlm.nih.gov/11244328/) | 2001 | 임상 연구 | Oncology | 원발성 중추신경계 림프종에서 고용량 메토트렉세이트 기반 병용 후 방사선 공고요법 |
+| [38555923](https://pubmed.ncbi.nlm.nih.gov/38555923/) | 2024 | 1상 | Lancet Haematol | 고위험 CD30 양성 림프종에서 자가이식 후 항CD30 CAR-T 공고요법의 안전성 |
+| [6381657](https://pubmed.ncbi.nlm.nih.gov/6381657/) | 1984 | 임상 연구 | J Clin Oncol | 재발 소아 림프종에서 시타라빈 포함 고용량 병용화학요법+골수이식, 16명 중 11명 완전관해 |
+| [29217775](https://pubmed.ncbi.nlm.nih.gov/29217775/) | 2018 | 전임상 | Haematologica | 시타라빈 등에 의한 B세포 림프종의 세포주기 정지 양상 차이와 Wee1 억제제 감수성 |
+| [32922862](https://pubmed.ncbi.nlm.nih.gov/32922862/) | 2018 | 증례 보고 | Chin Neurosurg J | 리툭시맙 포함 화학요법(R-MAD) 중 발생한 간질성 폐렴 |
 
 ## 한국 시판 정보
 
+허가 적응증은 원문 링크로만 제공되어 내용을 요약할 수 없습니다. 5건 모두 단일 성분 제제입니다.
+
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 200110136 | 화이자시타라빈주 | 주사제 (바이알) | 허가사항 원문 참조 |
-| 200200232 | 중외시타라빈바이알주사액 | 주사제 (바이알) | 허가사항 원문 참조 |
-| 200108881 | 화이자시타라빈주100mg/5ml | 주사제 (바이알) | 허가사항 원문 참조 |
-| 202204315 | 빅시오스리포좀주 | 리포좀 동결건조 주사제 | 허가사항 원문 참조 |
-| 198900253 | 중외시타라빈주사액100밀리그램(수출용) | 주사제 (앰플) | 허가사항 원문 참조 |
+| 200110136 | 화이자시타라빈주 | 주사제 (바이알) | 원문 링크로만 제공 |
+| 200200232 | 중외시타라빈바이알주사액 | 주사제 (바이알) | 원문 링크로만 제공 |
+| 200108881 | 화이자시타라빈주100mg/5ml | 주사제 (바이알) | 원문 링크로만 제공 |
+| 202204315 | 빅시오스리포좀주 | 리포좀 동결건조 주사제 (바이알) | 원문 링크로만 제공 |
+| 198900253 | 중외시타라빈주사액100밀리그램(수출용) | 주사액 (앰플) | 원문 링크로만 제공 |
 
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 약물 (피리미딘 유사체 항대사제) |
-| 골수억제 위험 | 고 (문헌상 고용량 병용 시 4등급 골수억제 32%) |
-| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
-| 모니터링 항목 | CBC(분류 포함), 간·신기능 |
+| 세포독성 분류 | 기존 세포독성 약물 (피리미딘 핵산 유사체 항대사제) |
+| 골수억제 위험 | 고 (일반적으로 알려진 위험이며, 허가 문서에서 직접 확인된 내용은 아님) |
+| 구토 유발성 등급 | 용량에 따라 달라지므로 허가사항 참조 |
+| 모니터링 항목 | 일반혈액검사(CBC, 분획 포함), 간기능, 신기능 |
 | 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
+
+허가사항의 경고 및 주의사항을 참조하세요.
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 수집된 상호작용 정보는 총 100건이며, 상위 항목 중 중등도는 naltrexone, 경미는 levofloxacin입니다. 나머지(mannitol, pantoprazole, glimepiride, doxycycline, morphine, metformin, omeprazole 등)는 등급 미상입니다.
-- **지식그래프 기반 금기 관련 질환** (허가사항 원문이 아닌 모델 지식그래프 정보): 신장질환, 간질환, 췌장염, 담낭질환, 혈소판감소증, 빈혈, 백혈구감소증, 호중구감소증, 무과립구증, 말초신경병증, 설사질환, 폐부종, 괴사성 장염 등.
-
-허가사항상 경고·금기는 확인되지 않았으므로 허가사항 원문을 참조하세요.
+- **지식그래프상 금기 관계**: 아래는 허가 문서가 아니라 지식그래프(PrimeKG)에 기록된 관계입니다. 허가된 금기로 확정된 내용이 아닙니다. 신장 질환, 간 질환, 췌장염, 담낭 질환, 혈소판감소증, 빈혈, 백혈구감소증, 호중구감소증 및 무과립구증, 말초신경병증, 설사 질환, 폐부종, 진균 감염 등이 기록되어 있습니다.
+- **약물 상호작용**: 조회된 상호작용은 총 100건입니다. 이 중 중등도는 날트렉손, 경미는 레보플록사신입니다. 만니톨, 판토프라졸, 글리메피리드, 독시사이클린, 모르핀, 메트포르민, 오메프라졸 등 나머지는 등급이 불명입니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-소세포폐암에 대한 임상시험이 없고, 문헌도 대부분 비소세포폐암 등 간접 자료입니다. 고용량 병용 시 골수억제가 심하고, 1992년 종설에서도 고형암 다수가 cytarabine에 둔감하다고 지적되어 근거가 부족합니다.
+원발성 폐 림프종을 직접 연구한 임상시험과 문헌이 없어 근거 수준은 L5이며, 근거는 TxGNN 예측 점수와 림프종 전반에 대한 간접적 기전 개연성뿐입니다. 또한 허가 적응증과 안전성 정보를 허가 문서에서 확인하지 못해 안전성 검토 단계로 넘어갈 수 없습니다.
 
 **진행하려면 필요한 것:**
-- 소세포폐암에서 cytarabine을 평가한 직접 근거 확보 (특히 1987년 보고 원문 검토)
-- 허가사항 원문(적응증, 경고, 금기)을 내려받아 확인 — 안전성 심사를 진행하려면 필수
-- 작용 기전(MOA) 데이터 보강
-- 소세포폐암 표준요법과 비교한 위험-이익 평가 및 전임상 검증
-
-**참고: 다른 예측 적응증**
-- **신경모세포종(neuroblastoma)**: 점수 99.19%, 근거 수준 L3, 유일하게 "연구 과제" 단계. 세포주에서 cytarabine 감수성이 확인되었으나 환자 대상 효능 자료는 없습니다. 연결된 임상시험 3건은 cytarabine을 직접 평가하지 않습니다.
-- **원발성 폐림프종, 상부 소화호흡기 종양, 후복막 종양**: 근거 수준 L4. 간접 문헌만 있습니다.
-- **고분화 태아형 폐선암, 폐모세포종, 신경절신경모세포종, 척추 이상 및 T세포 기능장애 증후군**: 근거 수준 L5. 모델 예측뿐입니다.
+- 식약처 허가 문서(첨부문서) 확보 및 분석: 허가 적응증, 경고, 금기 확인
+- 상세 작용 기전 데이터 보완
+- 원발성 폐 림프종(예: 폐 MALT 림프종, 원발성 폐 미만성 거대 B세포 림프종)에서 시타라빈 단독 또는 병용 요법을 직접 다룬 문헌과 시험 검색
+- 해당 질환에서 시타라빈이 표준 치료의 일부로 쓰이는지, 용량과 투여 경로는 어떠한지 임상 전문가 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

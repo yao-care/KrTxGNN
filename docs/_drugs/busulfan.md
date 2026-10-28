@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Busulfan
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 165
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Busulfan: 예측 신규 적응증 골수이형성증후군 (Myelodysplastic Syndrome) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 정보가 문서 링크로만 제공되어 본문을 확인하지 못함)"
@@ -14,7 +14,7 @@ predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of chi
 # Busulfan
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **골수이형성증후군(Myelodysplastic Syndrome, MDS)**에 �
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증 정보가 문서 링크로만 제공되어 본문을 확인하지 못함) |
 | 예측 신규 적응증 | 골수이형성증후군 (Myelodysplastic Syndrome) |
-| TxGNN 예측 점수 | 99.62% |
+| TxGNN 예측 점수 | 0.9962 |
 | 근거 수준 | L1 (완료된 Phase 3 RCT 2건 이상: NCT00822393, NCT00005866) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -142,13 +142,12 @@ MDS 이식 전처치에서 busulfan의 사용을 지지하는 Phase 3 시험이 
 
 | 순위 | 질환 | 점수 | 근거 수준 | 권장 |
 |------|------|------|----------|------|
-| 2 | 소아 불응성 혈구감소증 | 99.54% | L2 | Proceed with Guardrails |
-| 3 | 분류불능 MDS | 99.53% | L3 | Research Question |
-| 4 | 5번 염색체 장완 부분 결손 | 99.51% | L4 | Hold |
-| 5 | 재생불량성 빈혈 유형 | 99.49% | L1 | Proceed with Guardrails |
-| 6 | 고리철적모구를 동반한 선천성 저색소성 빈혈 | 99.49% | L5 | Hold |
-| 7 | HIV 감염 | 99.44% | L3 | Research Question |
-| 8~10 | 신경발달장애, 지루성 각화증, 고양이 면역결핍증 | 99.2~99.1% | L5 | Hold |
+| 2 | 소아 불응성 혈구감소증 | 0.9954 | L2 | Proceed with Guardrails |
+| 3 | 분류불능 MDS | 0.9953 | L5 | Research Question |
+| 4 | 5번 염색체 장완 부분 결손 | 0.9951 | L5 | Hold |
+| 5 | 재생불량성 빈혈 유형 | 0.9949 | L5 | Proceed with Guardrails |
+| 6 | 고리철적모구를 동반한 선천성 저색소성 빈혈 | 0.9949 | L5 | Hold |
+| 7 | HIV 감염 | 0.9944 | L3 | Research Question |
 
 순위 5번(재생불량성 빈혈 유형)의 L1 판정은 광범위한 이식 집단을 대상으로 한 Phase 3 시험에 근거하므로, 해당 질환에 대한 직접 근거로 보기는 어렵습니다. 순위 8~10번은 기전적 근거가 없는 모델 예측일 뿐입니다.
 ## 면책 조항

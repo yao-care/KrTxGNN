@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Regorafenib
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 648
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Regorafenib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증에는 식약처 허가사항 문서 링크만 수록되어 있어 적응증 문구를 확인할 수 없음"
 monitor_inn: "Regorafenib"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "vulva sarcoma", "spindle cell liposarcoma", "renal cell carcinoma (disease)"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
 ---
 
 # Regorafenib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L1** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 |------|------|
 | 기존 적응증 | 허가증에는 식약처 허가사항 문서 링크만 수록되어 있어 적응증 문구를 확인할 수 없음 |
 | 예측 신규 적응증 | 지방육종 (Liposarcoma) |
-| TxGNN 예측 점수 | 99.76% |
+| TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | 규칙상 L1 (RCT 존재), 단 효능 근거는 부정적이므로 해석에 주의 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold (보수적 재해석, 아래 결론 참조) |
 
@@ -127,9 +127,7 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 | 예측 적응증 | 예측 점수 | 근거 수준 | 비고 |
 |------|------|------|------|
-| 투명세포 신장암 | 99.47% | L2 | 미치료 전이성 신장암 2상(PMID 22959186), Avelumab 병용 시험(NCT03475953, 상태 불명) |
-| 신장세포암 (일반) | 98.67% | L2 | 완료된 단일군 2상(NCT00664326, n=49), 소규모 2상(NCT03890731, n=6) |
-| 난소 점액성 지방육종, 방추세포 지방육종, 외음부 육종, 미분류 신장세포암, 소아 신장세포암 등 | 98.8~99.7% | L5 | 직접 근거 없음, 모델 예측만 존재 |
+| 투명세포 신장암 | 0.9947 | L2 | 미치료 전이성 신장암 2상(PMID 22959186), Avelumab 병용 시험(NCT03475953, 상태 불명) |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

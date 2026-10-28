@@ -4,17 +4,17 @@ title: Esomeprazole
 parent: 모델 예측만 (L5)
 nav_order: 318
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-15
-description: "Esomeprazole: 예측 신규 적응증 십이지장위 역류 (Duodenogastric reflux) (근거 수준 L5). 기존 적응증: 산 관련 위장관 질환 (허가 적응증 원문은 허가사항 PDF 참조)"
+indication_count: 1
 monitor_inn: "ESOMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+last_modified_at: 2026-10-27
+description: "Esomeprazole: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410324/EE"
 ---
 
 # Esomeprazole
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +33,62 @@ predicted_indications: ["duodenal obstruction"]
 
 </div>
 
-## Esomeprazole: 산 관련 위장관 질환에서 십이지장위 역류로
+## Esomeprazole: 양성자 펌프 억제제 → 십이지장 폐쇄 (duodenal obstruction)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Esomeprazole은 위산 분비를 억제하는 양성자펌프억제제(PPI)로, 위식도역류질환·소화성 궤양 등 산 관련 질환 치료에 사용되어 왔습니다.
-TxGNN 모델은 **십이지장위 역류(Duodenogastric reflux)**에 효과가 있을 수 있다고 예측합니다(예측 점수 99.53%).
-다만 이 적응증을 직접 지지하는 **임상시험은 0건**이고 **일반적인 PPI 리뷰 문헌은 1편**뿐이어서, 근거는 매우 제한적입니다.
+Esomeprazole은 위산 분비를 억제하는 양성자 펌프 억제제 계열의 약물입니다.
+TxGNN 모델은 **십이지장 폐쇄(duodenal obstruction)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건**, **문헌은 0편**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 산 관련 위장관 질환 (허가 적응증 원문은 허가사항 PDF 참조) |
-| 예측 신규 적응증 | 십이지장위 역류 (Duodenogastric reflux) |
-| TxGNN 예측 점수 | 99.53% |
-| 근거 수준 | L4 (직접적인 임상시험 없음, 일반 리뷰 문헌과 기전적 추정만 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 8건 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410324/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403894/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403728/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403085/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606894/EE;  |
+| 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
+| TxGNN 예측 점수 | 0.9945 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 8건 (유효 8건, 취소 0건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Esomeprazole은 위벽세포의 H+/K+-ATPase(양성자펌프)를 비가역적으로 억제하는 PPI이며, 위산 관련 질환에서 효능이 확립되어 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 esomeprazole은 위산 분비를 줄이는 계열의 약물이며, 산 관련 상부 위장관 질환에서 사용됩니다.
 
-십이지장위 역류에서 위점막을 손상시키는 주된 요인은 산이 아니라 담즙과 췌액입니다. 따라서 산 억제는 동반된 증상이나 점막 손상을 완화할 수는 있어도 근본 원인을 해결하지는 못합니다. 기전상 연관성은 있지만 간접적입니다. 모델 점수는 매우 높으나 이를 뒷받침하는 임상 근거는 아직 없습니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Review | Eur J Clin Pharmacol | PPI의 임상 사용과 약동학 개관. 소화성 궤양, H. pylori 감염, 위식도역류질환, NSAID 유발 위장관 병변, 졸링거-엘리슨 증후군의 1차 약제로 정리하며, 십이지장위 역류를 직접 다루지는 않음 |
+다만 십이지장 폐쇄는 종양, 협착, 윤상 췌장 등 기계적 원인으로 생기는 경우가 많아, 위산 억제만으로 치료되기 어렵습니다. 궤양과 연관된 협착처럼 이차적인 소화성 합병증에서만 보조적 도움이 될 가능성이 있습니다. 따라서 뚜렷한 기전적 연결고리는 확인되지 않으며, 높은 모델 점수는 어디까지나 예측값일 뿐입니다.
 
 ## 한국 시판 정보
 
-허가 적응증 원문은 이번에 확보된 자료에 텍스트로 포함되어 있지 않고 허가사항 PDF 링크로만 제공되므로, 아래 표에는 링크로 안내합니다.
-
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 200410324 | 넥시움주 (에스오메프라졸나트륨) | 주사제 (바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410324/EE) |
-| 201403894 | 나프라졸정 | 필름코팅정 (3층 구조) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403894/EE) |
-| 201403728 | 에소록센정 (나프록센, 에스오메프라졸) | 필름코팅정 (3층 구조) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403728/EE) |
-| 201403085 | 나프메드정500/20밀리그램 | 필름코팅정 (3층 구조) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403085/EE) |
-| 201606894 | 오엠피에스주40밀리그램 (에스오메프라졸나트륨) | 주사제 (동결건조 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606894/EE) |
+| 200410324 | 넥시움주(에스오메프라졸나트륨) | 주사용 바이알(다공성 덩어리 또는 분말) | 허가 문서 링크만 제공됨 |
+| 201403894 | 나프라졸정 | 필름코팅정(3층) | 허가 문서 링크만 제공됨 |
+| 201403728 | 에소록센정(나프록센, 에스오메프라졸) | 필름코팅정(3층) | 허가 문서 링크만 제공됨 |
+| 201403085 | 나프메드정500/20밀리그램 | 필름코팅정(3층) | 허가 문서 링크만 제공됨 |
+| 201606894 | 오엠피에스주40밀리그램(에스오메프라졸나트륨) | 주사용 바이알(동결건조물) | 허가 문서 링크만 제공됨 |
+
+위 표는 주요 5건만 나열한 것이며, 전체 허가증은 8건입니다.
 
 ## 안전성 고려사항
 
-- **금기(지식그래프 기반)**: 허가사항이 아니라 TxGNN 지식그래프의 약물-질환 금기 관계에서 추출한 참고 정보입니다. 간부전, 골다공증, 폐경 후 골다공증, 골절, 만성 위축성 위염이 해당합니다.
-- **약물 상호작용**: 총 100건이 기록되어 있습니다. 주요 항목은 다음과 같습니다.
-  - 중대(Major): Acalabrutinib, Atazanavir
-  - 중등도(Moderate): Hydrochlorothiazide, Amphotericin B, Amikacin, Amphetamine, Fenofibrate, Apalutamide, Armodafinil, Atorvastatin, Bendamustine, Bosutinib, Bumetanide 등
-  - 경미(Minor): Acetylsalicylic acid, Axitinib, Bortezomib, Brivaracetam, Cyanocobalamin 등
+- **약물 상호작용**: 총 100건이 조회되었으며, 그중 주요(Major) 등급으로는 acalabrutinib, atazanavir 등이 있습니다. 중등도(Moderate) 등급으로는 hydrochlorothiazide, amphotericin B, amikacin, amphetamine, fenofibrate, apalutamide, armodafinil, atorvastatin, bendamustine, bosutinib, bumetanide 등이 있습니다. 경미(Minor) 등급으로는 acetylsalicylic acid, axitinib, bortezomib, brivaracetam, cyanocobalamin 등이 있습니다.
 
-주요 경고와 금기 등 허가사항 기반 안전성 정보는 허가사항을 참조하세요.
+허가사항상의 경고 및 금기는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-모델 예측 점수는 매우 높지만 십이지장위 역류에 대한 임상시험이 없고 문헌도 일반적인 PPI 리뷰 1편뿐입니다. 담즙 역류가 주된 원인인 질환이어서 산 억제만으로는 기전적 근거도 간접적입니다.
-
-참고로 같은 약물의 다른 예측 적응증인 십이지장 궤양은 완료된 Phase 3 시험이 다수 있습니다(예: NCT00633932, NCT00542789). 이쪽은 근거가 훨씬 강하지만 사실상 기존 적응증에 가까워 별도 검토가 필요합니다.
+십이지장 폐쇄에 대한 임상시험과 문헌이 전혀 없고, 기전상으로도 연결고리가 불분명하여 근거 수준은 L5(모델 예측만 있음)입니다.
 
 **진행하려면 필요한 것:**
-- 십이지장위 역류(담즙 역류)에서 Esomeprazole의 증상·점막 개선 효과를 직접 평가한 임상시험 또는 관찰 연구
-- 작용 기전(MOA) 데이터 보완 (DrugBank 조회)
-- 허가사항(경고, 금기, 허가 적응증) 원문 확보 및 파싱 (식약처 허가사항 PDF)
-- 약물 상호작용(특히 Major 등급) 관리 방안 마련
+- 십이지장 폐쇄(특히 궤양성 협착 등 산 관련 원인)에 대한 임상 또는 관찰 연구 근거
+- 상세한 작용 기전(MOA) 데이터
+- 허가사항(경고·금기)의 확인 및 정리
+- 적용 가능한 투여 경로(주사/경구)에 대한 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

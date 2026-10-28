@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Fludarabine
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 353
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fludarabine: 예측 신규 적응증 형질세포 골수종 (Plasma Cell Myeloma) (근거 수준 L5). 기존 적응증: 허가 적응증 문구가 링크 형태로만 확인되어 구체적인 내용은 허가사항 참조 필요"
@@ -14,7 +14,7 @@ predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dom
 # Fludarabine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dom
 
 </div>
 
-## Fludarabine: 만성 림프구성 백혈병 등 혈액암에서 다발골수종으로
+## Fludarabine: 만성 림프구성 백혈병 등 혈액암에서 형질세포 골수종으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **형질세포 골수종(다발골수종, Plasma Cell Myeloma)**
 |------|------|
 | 기존 적응증 | 허가 적응증 문구가 링크 형태로만 확인되어 구체적인 내용은 허가사항 참조 필요 |
 | 예측 신규 적응증 | 형질세포 골수종 (Plasma Cell Myeloma) |
-| TxGNN 예측 점수 | 99.82% |
+| TxGNN 예측 점수 | 0.9982 |
 | 근거 수준 | L2 (조건부 해석, 아래 참조) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -142,10 +142,10 @@ Fludarabine은 다발골수종에서 동종이식 전처치와 CAR-T 림프구 �
 
 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 평가 |
 |------|------|------|------|
-| 무통성 형질세포 골수종 | 99.76% | L2 | 전임상 항골수종 활성과 이식 전처치 근거가 있으나 혼합 질환 대상 시험이 대부분 |
-| 골수이형성증후군 | 99.75% | L2 | 이식 전처치 기반 요법으로 근거 풍부(무작위 Phase 3 비교 포함), 단독 치료 근거는 아님 |
-| 분류되지 않은 골수이형성증후군 | 99.69% | L3 | 단일 Phase 2 연구(treosulfan/fludarabine)만 존재 |
-| 갑상선기능항진증 외 5개 질환(유전성 희귀질환, 당뇨병성 신증 등) | 99.68~99.82% | L5 | 기전적 연관성이 확인되지 않아 보류(Hold). 모델 예측만 존재 |
+| 무통성 형질세포 골수종 | 0.9976 | L5 | 전임상 항골수종 활성과 이식 전처치 근거가 있으나 혼합 질환 대상 시험이 대부분 |
+| 골수이형성증후군 | 0.9975 | L2 | 이식 전처치 기반 요법으로 근거 풍부(무작위 Phase 3 비교 포함), 단독 치료 근거는 아님 |
+| 분류되지 않은 골수이형성증후군 | 0.9969 | L5 | 단일 Phase 2 연구(treosulfan/fludarabine)만 존재 |
+| 갑상선기능항진증 외 5개 질환(유전성 희귀질환, 당뇨병성 신증 등) | 99.68~0.9982 | L5 | 기전적 연관성이 확인되지 않아 보류(Hold). 모델 예측만 존재 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

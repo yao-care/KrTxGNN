@@ -4,17 +4,17 @@ title: Glycyrrhizic Acid
 parent: 모델 예측만 (L5)
 nav_order: 392
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Glycyrrhizic Acid: 예측 신규 적응증 다발성 내분비 종양 (multiple endocrine neoplasia) (근거 수준 L5). 기존 적응증: 감기의 여러 증상(콧물, 코막힘, 재채기, 인후통, 오한, 발열, 두통, 관절통, 근육통) 완화"
 monitor_inn: "Glycyrrhizic acid"
-predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "hypoalphalipoproteinemia", "infectious bovine rhinotracheitis", "malignant catarrh", "cytomegalovirus infection", "acne (disease)", "kyphoscoliotic heart disease", "pulmonary hypertension", "rheumatoid arthritis"]
+predicted_indications: ["multiple endocrine neoplasia"]
 ---
 
 # Glycyrrhizic Acid
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Glycyrrhizic acid(감초의 주성분)는 국내에서 주로 감기 증상 완�
 |------|------|
 | 기존 적응증 | 감기의 여러 증상(콧물, 코막힘, 재채기, 인후통, 오한, 발열, 두통, 관절통, 근육통) 완화 |
 | 예측 신규 적응증 | 다발성 내분비 종양 (multiple endocrine neoplasia) |
-| TxGNN 예측 점수 | 99.28% |
+| TxGNN 예측 점수 | 0.9928 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 유효, 단일 성분 분류) |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Glycyrrhizic acid(감초의 주성분)는 국내에서 주로 감기 증상 완�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Glycyrrhizic acid는 감초 추출물이 들어가는 한방 생약 제제의 성분이며, 감기·소화기 증상 등에서 사용 경험이 있습니다. 다만 이것이 신규 적응증으로 이어진다는 근거는 확인되지 않았습니다.
 
-다발성 내분비 종양은 MEN1, RET 같은 생식세포 돌연변이가 원인인 유전성 종양 증후군입니다. Glycyrrhizic acid가 이 경로에 작용한다는 알려진 근거는 없습니다. 이 예측은 지식 그래프에서 생긴 인공적 연관(artifact)일 가능성이 높습니다. 점수가 높아도 기전상 설명이 되지 않고 뒷받침하는 연구도 없습니다.
+다발성 내분비 종양은 MEN1, RET 같은 생식세포 돌연변이가 원인인 유전성 종양 증후군입니다. Glycyrrhizic acid가 이 경로에 작용한다는 알려진 근거는 없습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으며 생물학적 근거는 아닙니다. 점수가 높아도 기전상 설명이 되지 않고 뒷받침하는 연구도 없습니다.
 
 ## 임상시험 근거
 
@@ -87,13 +87,12 @@ Glycyrrhizic acid(감초의 주성분)는 국내에서 주로 감기 증상 완�
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 높지만(99.28%) 임상시험과 문헌이 전혀 없고, 유전성 종양 증후군에 대한 기전적 연결고리도 확인되지 않습니다. 현 시점에서는 근거 수준 L5의 모델 예측일 뿐이므로 진행을 보류합니다.
+TxGNN 점수는 높지만(0.9928) 임상시험과 문헌이 전혀 없고, 유전성 종양 증후군에 대한 기전적 연결고리도 확인되지 않습니다. 현 시점에서는 근거 수준 L5의 모델 예측일 뿐이므로 진행을 보류합니다.
 
 **진행하려면 필요한 것:**
 - 작용 기전(MOA) 데이터 확보 (DrugBank 조회)
 - 허가사항(경고, 금기 등 안전성 정보) 확보 (식약처 허가사항 PDF 분석)
 - 다발성 내분비 종양과 관련된 전임상·임상 근거 탐색
-- 참고: 같은 약물의 다른 예측 적응증 중에서는 류마티스 관절염(문헌 20건, 모두 전임상·복합제 중심), 폐고혈압, 여드름이 간접적인 전임상 근거를 갖고 있어(L4) 대안 연구 후보로 검토할 수 있습니다. 다만 임상시험은 없으며, 감초 성분의 미네랄코르티코이드 작용(고혈압, 체액 저류)이 안전성 쟁점이 될 수 있습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Difluprednate: 예측 신규 적응증 LH 결핍을 동반한 가족성 부신 저형성증 (familial adrenal hypoplasia with absent pitui… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가 문서 링크만 제공됨). 참고로 약리 자료에는 안과 수술 후 통증·염증 및 전방…"
+last_modified_at: 2026-10-28
 monitor_inn: "DIFLUPREDNATE"
 predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
+description: "Difluprednate: 예측 신규 적응증 LH 결핍을 동반한 가족성 부신 저형성증 (familial adrenal hypoplasia with absent pituitary luteinizing hormone) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501565/EE"
 ---
 
 # Difluprednate
@@ -33,7 +33,7 @@ predicted_indications: ["familial adrenal hypoplasia with absent pituitary lutei
 
 </div>
 
-## Difluprednate: 안과·피부 염증에서 가족성 부신 저형성증(LH 결핍 동반)으로
+## Difluprednate: LH 결핍을 동반한 가족성 부신 저형성증 (familial adrenal hypoplasia with absent pituitary luteinizing hormone)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -44,11 +44,11 @@ Difluprednate는 합성 부신피질호르몬(글루코코르티코이드 수용
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가 문서 링크만 제공됨). 참고로 약리 자료에는 안과 수술 후 통증·염증 및 전방 포도막염 치료로 기재되어 있습니다. |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501565/EE |
 | 예측 신규 적응증 | LH 결핍을 동반한 가족성 부신 저형성증 (familial adrenal hypoplasia with absent pituitary luteinizing hormone) |
-| TxGNN 예측 점수 | 99.96% |
+| TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -95,7 +95,7 @@ Difluprednate는 합성 부신피질호르몬(글루코코르티코이드 수용
 
 상위 10개 예측 중 대부분은 근거가 없는 L5 수준이며 권장 결정은 Hold입니다. 예외는 다음과 같습니다.
 
-- **홍채 질환(iris disease, 10위, 99.16%)**: 근거 수준 L4, 권장 결정 Research Question. 연관 문헌은 토끼 대상 전임상 약동학 연구 1편(PMID [21182429](https://pubmed.ncbi.nlm.nih.gov/21182429/), 2011, J Ocul Pharmacol Ther)뿐이며, 안구 조직 분포를 다룹니다. 이 적응증은 전방 포도막염 등 기존 안과 적응증과 크게 겹치므로 새로운 재창출 기회라기보다 허가 범위와의 중복으로 보는 것이 적절합니다. 허가사항 및 포도막염 임상시험과의 대조 확인이 필요합니다.
+- **홍채 질환(iris disease, 10위, 0.9916)**: 근거 수준 L4, 권장 결정 Research Question. 연관 문헌은 토끼 대상 전임상 약동학 연구 1편(PMID [21182429](https://pubmed.ncbi.nlm.nih.gov/21182429/), 2011, J Ocul Pharmacol Ther)뿐이며, 안구 조직 분포를 다룹니다. 이 적응증은 전방 포도막염 등 기존 안과 적응증과 크게 겹치므로 새로운 재창출 기회라기보다 허가 범위와의 중복으로 보는 것이 적절합니다. 허가사항 및 포도막염 임상시험과의 대조 확인이 필요합니다.
 - **지루피부염(seborrheic dermatitis), 괴사성 지방유전증(necrobiosis lipoidica)**: 국소 스테로이드의 항염증 효과라는 계열 수준의 간접 근거만 있고, difluprednate 자체의 연구는 없습니다.
 ## 면책 조항
 

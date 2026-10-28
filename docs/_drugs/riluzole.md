@@ -4,7 +4,7 @@ title: Riluzole
 parent: 모델 예측만 (L5)
 nav_order: 655
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Riluzole: 예측 신규 적응증 양측 두정-후두 부시상 다소뇌회증 (bilateral parasagittal parieto-occipital polymicr… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 PDF 링크로만 제공되어 확인 불가 (문헌상 ALS 치료제)"
 monitor_inn: "RILUZOLE"
@@ -14,7 +14,7 @@ predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria
 # Riluzole
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria
 ## 한 문장 요약
 
 Riluzole은 한국에서 근위축성 측삭경화증(ALS) 치료제로 시판 중인 약물입니다(허가 적응증 원문은 데이터에 링크로만 제공되어 있어 ALS는 문헌 근거에 따른 설명입니다).
-TxGNN 모델은 **양측 두정-후두 부시상 다소뇌회증(bilateral parasagittal parieto-occipital polymicrogyria)**에 효과가 있을 수 있다고 예측하지만(점수 99.99%), 이 예측을 지지하는 **임상시험은 0건, 문헌도 0편**입니다.
+TxGNN 모델은 **양측 두정-후두 부시상 다소뇌회증(bilateral parasagittal parieto-occipital polymicrogyria)**에 효과가 있을 수 있다고 예측하지만(점수 0.9999), 이 예측을 지지하는 **임상시험은 0건, 문헌도 0편**입니다.
 따라서 근거 수준은 L5(모델 예측만 존재)이며, 현재로서는 보류가 적절합니다.
 
 ## 빠른 개요
@@ -48,9 +48,9 @@ TxGNN 모델은 **양측 두정-후두 부시상 다소뇌회증(bilateral paras
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 PDF 링크로만 제공되어 확인 불가 (문헌상 ALS 치료제) |
 | 예측 신규 적응증 | 양측 두정-후두 부시상 다소뇌회증 (bilateral parasagittal parieto-occipital polymicrogyria) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **양측 두정-후두 부시상 다소뇌회증(bilateral paras
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Riluzole은 글루타메이트 조절 약물로, 글루타메이트 방출 억제와 나트륨 채널 조절을 통해 흥분독성을 줄이는 것으로 이해됩니다. 이 기전은 ALS 치료의 근거가 됩니다.
 
-반면 다소뇌회증은 신경세포 이동 장애로 생기는 대뇌 피질 기형입니다. Riluzole의 기전과 이 질환 사이의 연관성은 추측 수준이며, 이를 뒷받침하는 임상·문헌 자료도 없습니다. 예측은 그래프 모델 점수에만 의존합니다.
+반면 다소뇌회증은 신경세포 이동 장애로 생기는 대뇌 피질 기형입니다. Riluzole의 기전과 이 질환 사이의 연관성은 추측 수준이며, 이를 뒷받침하는 임상·문헌 자료도 없습니다. 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 관련 질환 간에 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
 참고로 예측 순위 2위 이하에는 ALS 아형(ALS 22형 등), 하위운동신경원 증후군, 단지성 근위축증, Mills 증후군처럼 기존 적응증과 개념적으로 더 가까운 질환이 있습니다. 반면 축성 척추골간단단 이형성증처럼 기전상 연관이 없어 보이는 질환도 있습니다. 이 보고서는 1순위 예측을 다룹니다.
 

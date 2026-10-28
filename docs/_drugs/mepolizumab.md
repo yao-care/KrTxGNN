@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Mepolizumab
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 502
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Mepolizumab: 예측 신규 적응증 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) (근거 수준 L4). 기존 적응증: 허가 적응증 본문은 허가증 링크로만 제공되어 확인되지 않음 (허가사항 참조)"
@@ -14,7 +14,7 @@ predicted_indications: ["thrombocytopenia due to immune destruction", "primary r
 # Mepolizumab
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["thrombocytopenia due to immune destruction", "primary r
 
 </div>
 
-## Mepolizumab: 허가 적응증에서 면역성 혈소판감소증으로
+## Mepolizumab: 허가 적응증에서 면역 파괴에 의한 혈소판감소증으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **면역 파괴에 의한 혈소판감소증(thrombocytopenia du
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 허가증 링크로만 제공되어 확인되지 않음 (허가사항 참조) |
 | 예측 신규 적응증 | 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) |
-| TxGNN 예측 점수 | 99.66% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9966 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 모델은 **면역 파괴에 의한 혈소판감소증(thrombocytopenia du
 
 신규 적응증과의 연관성은 제한적입니다. 면역성 혈소판감소증이 호산구증가증과 동반되는 경우에만 기전상 가능성이 있습니다. 반면 호산구가 없는 원발성 면역성 혈소판감소증에서 IL-5 차단이 효과가 있다는 근거는 없습니다.
 
-참고로 유일한 문헌(PMID 28648630)은 스테로이드 불응성 호산구증가성 면역 이상이 mepolizumab과 병용 요법으로 호전된 증례 보고입니다. 병용 치료가 있었으므로 mepolizumab 단독 효과로 해석할 수 없습니다. 0.997이라는 높은 점수는 컴퓨터 예측일 뿐, 임상시험 데이터로 뒷받침되지 않습니다.
+참고로 유일한 문헌(PMID 28648630)은 스테로이드 불응성 호산구증가성 면역 이상이 mepolizumab과 병용 요법으로 호전된 증례 보고입니다. 병용 치료가 있었으므로 mepolizumab 단독 효과로 해석할 수 없습니다. 0.9966이라는 높은 점수는 컴퓨터 예측일 뿐, 임상시험 데이터로 뒷받침되지 않습니다.
 
 ## 임상시험 근거
 

@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Piracetam
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 604
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Piracetam: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문을 확인하지 못함)"
+description: "Piracetam: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Piracetam"
-predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheumatoid arthritis", "pseudoachondroplasia", "hepatic porphyria", "gout", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "hepatoportal sclerosis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Piracetam
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ predicted_indications: ["osteoarthritis", "osteoarthritis susceptibility", "rheu
 
 </div>
 
-## Piracetam: 허가 적응증 확인 불가에서 골관절염으로
+## Piracetam
 {: .text-alpha }
-
-## 한 문장 요약
-
-Piracetam은 한국에서 20건의 허가증이 등록된 단일 성분 약물이며, 허가 적응증 원문은 이번 데이터에 포함되지 않았습니다.
-TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험은 0건**, **문헌은 0편**입니다.
-현재로서는 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문을 확인하지 못함) |
-| 예측 신규 적응증 | 골관절염 (osteoarthritis) |
-| TxGNN 예측 점수 | 98.45% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507554/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906708/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202848/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201299/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503836/EE;  |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Piracetam은 고리형 GABA 유도체 계열의 nootropic(인지 기능 개선제)로, 세포막 유동성, 신경전달, 미세순환 및 혈액 유동성에 영향을 주는 것으로 보고됩니다. 약리학 데이터에는 AMPA형 글루탐산 수용체 서브유닛(GluA1~GluA4)과의 연관성이 기록되어 있습니다. 또한 영국에서는 근간대경련(myoclonus)에, 유럽 일부 국가와 아시아·남미에서는 다른 용도로 사용되는 것으로 기재되어 있습니다.
-
-그러나 이러한 기전이 골관절염의 병리(연골 퇴행, 관절 염증 등)와 연결된다는 근거는 이번 데이터에서 확인되지 않습니다. 높은 TxGNN 점수는 지식 그래프상의 근접성에 기반한 계산 결과일 뿐, 임상 또는 문헌 근거의 뒷받침이 없습니다.
-
-참고로 상위 예측 10건은 골관절염 감수성, 류마티스 관절염, 가성연골무형성증, 간성 포르피린증, 통풍, 단지증(brachyolmia), 말단중간형성이상(Hunter-Thompson형), 근경화증, 간문맥경화증이며, 모두 L5 수준이고 기전적 연결고리가 확인되지 않습니다. 특히 "골관절염 감수성"은 치료 가능한 임상 질환이라기보다 유전적 감수성 표현형으로, 골관절염 예측과 가까운 그래프 이웃에서 나온 결과로 보입니다.
 
 ## 한국 시판 정보
 
@@ -80,19 +64,6 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 
 경고 및 금기 등 그 외 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-골관절염 예측은 TxGNN 점수(98.45%)만 높고, 임상시험과 문헌이 모두 없으며 기전적 연결고리도 확인되지 않습니다. 또한 허가사항의 경고·금기 정보가 확보되지 않아 안전성 심사 단계로 진행할 수 없습니다.
-
-**진행하려면 필요한 것:**
-- 식품의약품안전처(MFDS) 허가사항 원문(적응증, 경고, 금기) 확보 및 분석
-- 상세한 약물 작용 기전(MOA) 데이터 보완
-- 골관절염과의 기전적 연관성을 검토하는 전임상 또는 문헌 조사
-- 골관절염 대상 임상시험 및 문헌 검색 재수행
-- 투여 경로 적합성(현재 미확인) 평가
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

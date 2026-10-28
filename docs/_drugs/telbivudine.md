@@ -4,17 +4,17 @@ title: Telbivudine
 parent: 모델 예측만 (L5)
 nav_order: 720
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Telbivudine: 예측 신규 적응증 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 만성 B형 간염 (허가증의 적응증 원문은 링크로만 제공되어 문헌에 기재된 허가 용도를 기준으로 함)"
 monitor_inn: "TELBIVUDINE"
-predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "disorder of phenylalanine metabolism", "disorder of tyrosine metabolism", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"]
+predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "disorder of phenylalanine metabolism", "disorder of tyrosine metabolism", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"]
 ---
 
 # Telbivudine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C vir
 |------|------|
 | 기존 적응증 | 만성 B형 간염 (허가증의 적응증 원문은 링크로만 제공되어 문헌에 기재된 허가 용도를 기준으로 함) |
 | 예측 신규 적응증 | 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) |
-| TxGNN 예측 점수 | 99.96% |
+| TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 (모델 예측만 있고 텔비부딘의 HCV 효과를 직접 다룬 연구 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C vir
 
 텔비부딘은 천연 티미딘의 L-거울상 이성질체인 합성 뉴클레오시드 유사체입니다. 체내에서 활성형인 삼인산 형태로 인산화된 뒤 HBV DNA 중합효소(역전사효소)를 경쟁적으로 억제하여 DNA 사슬 연장을 중단시킵니다. 현재 상세한 작용 기전 데이터는 별도로 확보되지 않았으며, 위 설명은 문헌에 기재된 일반적인 기전입니다.
 
-모델이 B형 간염과 C형 간염을 연결한 것은 둘 다 간을 침범하는 바이러스 감염이고, 문헌에서 함께 언급되는 경우가 많기 때문으로 보입니다. 그러나 HCV는 RNA 바이러스이며 치료 표적은 NS5B RNA 의존성 RNA 중합효소입니다. 텔비부딘은 HBV DNA 중합효소에 특이적이어서 이 표적에 작용한다는 근거가 없습니다. 따라서 높은 점수는 두 질환이 지식 그래프에서 함께 나타난 데서 비롯된 결과로 해석하는 것이 합리적이며, 기전상 타당성은 낮습니다.
+모델이 B형 간염과 C형 간염을 연결한 것은 둘 다 간을 침범하는 바이러스 감염이고, 문헌에서 함께 언급되는 경우가 많기 때문으로 보입니다. 그러나 HCV는 RNA 바이러스이며 치료 표적은 NS5B RNA 의존성 RNA 중합효소입니다. 텔비부딘은 HBV DNA 중합효소에 특이적이어서 이 표적에 작용한다는 근거가 없습니다. 따라서 높은 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 결과일 수 있으며 생물학적 근거는 아닌 것으로 해석하는 것이 합리적이고, 기전상 타당성은 낮습니다.
 
 ## 임상시험 근거
 
@@ -97,7 +97,7 @@ TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C vir
 **결정: Hold**
 
 **사유:**
-C형 간염에 대한 임상시험이 없고, 문헌도 텔비부딘의 항HCV 활성을 보여주지 못합니다. 약물 표적(HBV DNA 중합효소)이 HCV의 표적(NS5B)과 달라 기전상 근거도 약합니다. 높은 예측 점수는 지식 그래프의 B형·C형 간염 동시 출현에서 비롯된 결과로 판단됩니다. 참고로 B형 간염은 이미 허가된 용도이므로 재창출 대상이 아닙니다.
+C형 간염에 대한 임상시험이 없고, 문헌도 텔비부딘의 항HCV 활성을 보여주지 못합니다. 약물 표적(HBV DNA 중합효소)이 HCV의 표적(NS5B)과 달라 기전상 근거도 약합니다. 높은 예측 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다. 참고로 B형 간염은 이미 허가된 용도이므로 재창출 대상이 아닙니다.
 
 **진행하려면 필요한 것:**
 - HCV 복제 모델(레플리콘 등)에서 텔비부딘의 항바이러스 활성을 확인하는 전임상 데이터

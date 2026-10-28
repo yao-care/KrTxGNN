@@ -4,17 +4,17 @@ title: Carvedilol
 parent: 모델 예측만 (L5)
 nav_order: 186
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Carvedilol: 예측 신규 적응증 악성 신혈관성 고혈압 (Malignant Renovascular Hypertension) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 포함되어 있지 않아 이번 데이터에서는 확인할 수 없습니다 (허가사항 참조 필요)"
+indication_count: 4
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Carvedilol: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905581/EE"
 ---
 
 # Carvedilol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,38 +33,30 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-## Carvedilol: 고혈압에서 악성 신혈관성 고혈압으로
+## Carvedilol: 알파/베타 차단제 → 악성 고혈압성 신질환 (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Carvedilol은 알파-1 차단 작용을 가진 비선택적 베타차단제로, 한국에서 고혈압 등 심혈관 질환 치료에 사용되고 있습니다.
-TxGNN 모델은 **악성 신혈관성 고혈압(Malignant Renovascular Hypertension)**에 효과가 있을 수 있다고 예측하지만, 이 적응증을 직접 지지하는 임상시험과 문헌은 **0건**으로, 모델 예측 단계에 머물러 있습니다.
+Carvedilol은 알파-1/베타 차단 작용을 가진 약물입니다. TxGNN 모델은 **악성 고혈압성 신질환(malignant hypertensive renal disease)**에 효과가 있을 수 있다고 예측하며, 예측 점수는 0.9955입니다. 이 예측을 직접 뒷받침하는 임상시험과 문헌은 **0건**이어서 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 포함되어 있지 않아 이번 데이터에서는 확인할 수 없습니다 (허가사항 참조 필요) |
-| 예측 신규 적응증 | 악성 신혈관성 고혈압 (Malignant Renovascular Hypertension) |
-| TxGNN 예측 점수 | 99.55% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905581/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701226/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805248/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100858/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201200186/EE;  |
+| 예측 신규 적응증 | 악성 고혈압성 신질환 (malignant hypertensive renal disease) |
+| TxGNN 예측 점수 | 0.9955 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 20건 (모두 단일제, 유효) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 20건 (목록은 일부일 수 있음) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 carvedilol은 알파-1 차단 활성을 가진 비선택적 베타차단제입니다. 혈관 확장과 레닌 분비 감소를 통해 혈압을 낮출 수 있어, 레닌-안지오텐신계가 크게 관여하는 신혈관성 고혈압에서도 기전상 적용 가능성이 있습니다.
+현재 이 보고서를 위해 수집된 데이터에는 상세한 작용 기전 정보가 없습니다. 알려진 약리 특성상 carvedilol은 알파-1 및 베타 수용체를 함께 차단하므로, 이론적으로는 혈압을 낮추어 고혈압에 의한 신장 손상을 줄일 가능성이 있습니다.
 
-다만 TxGNN 점수(0.995)는 지식그래프 기반의 모델 예측일 뿐입니다. 본態 고혈압에서의 사용 경험이 악성 신혈관성 고혈압에 대한 직접 근거가 되지는 않습니다. 악성 고혈압은 응급 상황으로, 통상 용량 조절이 가능한 정맥 약제로 관리하므로 경구 베타차단제의 적합성은 불확실합니다.
-
-같은 점수대의 다른 예측 후보도 참고로 확인했습니다.
-
-- **악성 고혈압성 신질환**: 근거 없음(L5), Hold
-- **폐고혈압(저산소증·폐질환 동반)**: 전임상 수준의 간접 근거(L4)가 있습니다. 만성 간헐적 저산소증 유발 고혈압 쥐 모델에서 carvedilol이 고혈압을 되돌린 연구(PMID 26291659)와, 폐고혈압 쥐에서 아드레날린 수용체 차단이 우심장 리모델링을 되돌린 연구(PMID 20508210) 등이 있습니다. 다만 환자 대상 근거는 없고, 베타차단이 저산소증이나 운동 능력을 악화시킬 수 있습니다.
-- **원인 불명 다인성 폐고혈압**: 근거 없음(L5), Hold
-- **Braddock 증후군**: 기전적 근거를 확립할 수 없어 전문가 검토가 필요합니다.
+다만 이는 이론적 추정일 뿐입니다. 이 예측을 지지하는 임상시험이나 문헌이 제공되지 않았습니다. 악성 고혈압은 임상적 응급 상황이며, 보통 용량 조절이 쉬운 정맥 주사제로 관리합니다. 따라서 경구 베타 차단제가 이 상황에 적합한지는 불확실합니다.
 
 ## 임상시험 근거
 
@@ -72,43 +64,42 @@ TxGNN 모델은 **악성 신혈관성 고혈압(Malignant Renovascular Hypertens
 
 ## 문헌 근거
 
-현재 이 적응증(악성 신혈관성 고혈압)에 대한 관련 문헌이 없습니다.
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
-허가증 20건 중 주요 5건을 나열합니다. 허가 적응증 원문은 데이터에 포함되어 있지 않아 식약처 허가사항 문서에서 확인해야 합니다.
+유효 허가가 20건 확인되었으며, 아래는 그중 일부입니다. 허가 적응증은 각 허가사항 문서에서 확인할 수 있습니다.
 
-| 허가번호 | 제품명 | 제형 | 제조사 |
-|---------|------|------|------|
-| 201905581 | 카베씨티정25mg | 흰색의 원형 정제 | (주)씨티씨바이오 |
-| 200701226 | 카베날정12.5밀리그램 | 적갈색의 원형 정제 | 신풍제약(주) |
-| 201805248 | 카르베타정25밀리그램 | 흰색의 원형 정제 | 에이치엘비제약(주) |
-| 201404426 | 카르베롤서방캡슐32밀리그램 | 속방성 및 서방성 과립이 들어있는 경질캡슐 | 한미약품(주) |
-| 199800086 | 딜라트렌정12.5mg | 적갈색의 원형정제 | (주)종근당 |
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 201905581 | 카베씨티정25mg | 흰색의 원형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905581/EE) 참조 |
+| 200701226 | 카베날정12.5밀리그램 | 적갈색의 원형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701226/EE) 참조 |
+| 201805248 | 카르베타정25밀리그램 | 흰색의 원형 정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805248/EE) 참조 |
+| 200100858 | 알보젠카베디롤정25밀리그램 | 흰색의 원형정제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100858/EE) 참조 |
+| 201404426 | 카르베롤서방캡슐32밀리그램 | 속방성 및 서방성 과립이 들어있는 경질캡슐제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404426/EE) 참조 |
 
 ## 안전성 고려사항
 
-허가사항 기반의 경고·금기 정보는 이번 데이터에 포함되지 않았습니다. 상세 내용은 허가사항을 참조하세요.
+- **약물 상호작용**: 수집된 상호작용 100건 중 일부를 아래에 정리했습니다.
+  - 주요(Major): Epinephrine
+  - 중등도(Moderate): Hydrocortisone, Hyoscyamine, Bupropion, Triamcinolone, Morphine, Atropine, Dexamethasone, Lorcaserin, Betamethasone, Budesonide, Canagliflozin, Acetohexamide, 칼슘 제제(Calcium Phosphate, Calcium acetate, Calcium carbonate, Calcium citrate)
+  - 경미(Minor): Acetylsalicylic acid, Aluminum hydroxide, Attapulgite
 
-- **지식그래프 기반 금기 질환(참고용, 허가 문구 아님)**: 간부전, 천식 및 기관지염 등 기관지 질환, 폐기종, 당뇨병 및 당뇨병성 케토산증, 저혈압, 말초혈관질환(간헐성 파행 포함), 방실차단, 동기능부전증후군, 프린츠메탈 협심증, 아나필락시스, 수술 중 홍채이완증후군
-- **약물 상호작용**: 총 100건이 조회되었으며, 아래는 일부입니다.
-  - **중대(Major)**: Epinephrine
-  - **중등도(Moderate)**: Hydrocortisone, Hyoscyamine, Bupropion, Triamcinolone, Morphine, Atropine, Dexamethasone, Lorcaserin, Betamethasone, Budesonide, Canagliflozin, Acetohexamide, 칼슘 제제(Calcium phosphate, acetate, carbonate, citrate)
-  - **경미(Minor)**: Acetylsalicylic acid, Aluminum hydroxide, Attapulgite
+경고 및 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-악성 신혈관성 고혈압에 대한 임상시험과 문헌이 모두 없어 근거 수준이 L5(모델 예측만 존재)입니다. 악성 고혈압이 응급 질환이라는 점도 경구 베타차단제의 적합성에 의문을 남깁니다.
+- 예측 점수는 높지만 임상시험과 문헌이 없어 근거 수준이 L5(모델 예측만 있음)입니다.
+- 악성 고혈압은 정맥 주사제로 관리하는 응급 상황이어서 경구 베타 차단제의 적합성도 불확실합니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증) 문서 확보 및 분석
-- 상세한 약물 작용 기전(MOA) 데이터 보완
-- 신혈관성 고혈압에서 carvedilol의 효과와 안전성을 다룬 문헌 및 임상시험 체계적 검색
-- 신동맥 협착 환자에서 베타차단제 사용 시 신기능 영향 등 안전성 검토
-- 폐고혈압 계열 예측은 별도의 연구 질문으로 두고, 임상 근거 확인 전까지 보류
+- 이 질환에서의 carvedilol 효과를 직접 평가한 임상 또는 전임상 연구
+- 상세한 작용 기전(MOA) 데이터
+- 허가사항(경고·금기) 원문 확인 및 안전성 검토
+- 악성 고혈압 상황에서의 투여 경로·용량 적합성에 대한 전문가 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

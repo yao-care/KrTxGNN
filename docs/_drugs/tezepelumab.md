@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Tezepelumab
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 731
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tezepelumab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 아닌 허가사항 문서 링크만 기재되어 있어 구체적인 적응증 텍스트는 확인되지 않음"
+description: "Tezepelumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Tezepelumab"
-predicted_indications: ["diabetic cataract", "mature cataract", "tetanic cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic retinopathy"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Tezepelumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ predicted_indications: ["diabetic cataract", "mature cataract", "tetanic catarac
 
 </div>
 
-## Tezepelumab: 허가 적응증에서 당뇨병성 백내장으로
+## Tezepelumab
 {: .text-alpha }
-
-## 한 문장 요약
-
-Tezepelumab은 한국에서 한국아스트라제네카가 허가받아 시판 중인 단일 성분 주사제 항체의약품입니다. TxGNN 모델은 **당뇨병성 백내장(diabetic cataract)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 따라서 모델 예측만 존재하는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 본문이 아닌 허가사항 문서 링크만 기재되어 있어 구체적인 적응증 텍스트는 확인되지 않음 |
-| 예측 신규 적응증 | 당뇨병성 백내장 (Diabetic Cataract) |
-| TxGNN 예측 점수 | 98.40% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303399/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303400/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Tezepelumab은 TSLP(흉선 기질 림포포이에틴)를 표적으로 하는 항체 의약품이며, TSLP가 매개하는 제2형 염증 경로를 차단하는 것으로 이해됩니다.
-
-그러나 이 기전과 당뇨병성 백내장 사이에서 확인된 연관성은 없습니다. 백내장은 주로 폴리올 경로 활성화, 산화 스트레스, 수정체 단백질 당화에 의해 발생하며, TSLP 매개 염증과의 관련성은 확립되어 있지 않습니다. 98.4%라는 높은 점수는 계산 모델의 예측일 뿐, 생물학적 근거를 의미하지 않습니다.
-
-같은 점수대에서 성숙 백내장, 미성숙 백내장, 피질 백내장, 노인성 백내장 등 여러 백내장 하위 유형이 거의 동일한 점수로 예측되었습니다. 이는 백내장 계열 질환이 그래프상에서 이웃해 있기 때문에 나타난 결과일 가능성이 있습니다.
-
-참고로 당뇨병성 망막병증(예측 점수 98.12%)은 염증과 사이토카인 신호가 병태에 관여하므로 상위 예측 중 생물학적으로 가장 개연성이 있으나, 이 역시 뒷받침하는 근거는 없습니다. 또한 노인성 백내장의 경우, 천식에서 경구 스테roid 사용이 줄면 스테로이드 유발 백내장 위험이 낮아질 수 있다는 간접적 가설이 있으나, 이는 다른 환자군에서의 위험 감소 가설이며 치료 효과의 근거는 아닙니다.
 
 ## 한국 시판 정보
 
@@ -75,18 +59,6 @@ Tezepelumab은 한국에서 한국아스트라제네카가 허가받아 시판 �
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-당뇨병성 백내장 예측은 TxGNN 점수 외에 임상시험과 문헌 근거가 전혀 없고(L5), TSLP 차단과 백내장 병태 사이의 기전적 연결고리도 확인되지 않았습니다. 허가사항의 경고·금기 정보와 작용 기전 데이터도 확보되지 않아 안전성 검토 단계로 진행할 수 없습니다.
-
-**진행하려면 필요한 것:**
-- 허가사항 문서(식약처 의약품안전나라)에서 적응증, 경고, 금기 정보 확보
-- DrugBank 등에서 작용 기전(MOA) 데이터 확보
-- TSLP 차단과 수정체 병변 또는 당뇨병성 안질환 간의 전임상·기전 연구 검토
-- 당뇨병성 망막병증 등 기전적으로 더 개연성 있는 대안 적응증에 대한 문헌 및 임상시험 탐색
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

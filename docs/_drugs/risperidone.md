@@ -4,17 +4,17 @@ title: Risperidone
 parent: 모델 예측만 (L5)
 nav_order: 659
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Risperidone: 예측 신규 적응증 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal… (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문 없이 PDF 링크만 있어 본문을 확인할 수 없음 (일반적으로 조현병 등 정신질환에 쓰이는 비정형 항정신…"
 monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 ---
 
 # Risperidone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **6** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 |------|------|
 | 기존 적응증 | 허가증에 적응증 본문 없이 PDF 링크만 있어 본문을 확인할 수 없음 (일반적으로 조현병 등 정신질환에 쓰이는 비정형 항정신병약) |
 | 예측 신규 적응증 | 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) |
-| TxGNN 예측 점수 | 99.76% |
+| TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 
 현재 상세한 작용 기전 데이터가 없습니다. Risperidone은 D2/5-HT2A 길항 작용을 가진 항정신병약으로 알려져 있습니다.
 
-예측된 질환은 ROBO3 관련 희귀 유전질환으로, 축삭 유도와 뇌간 발달의 이상이 원인입니다. Risperidone의 수용체 길항 작용과 이 병리 사이에서는 개연성 있는 기전적 연결고리를 찾지 못했습니다. 높은 TxGNN 점수는 지식 그래프 기반 예측일 뿐, 약리학적·임상적 타당성을 입증하지 않습니다.
+예측된 질환은 ROBO3 관련 희귀 유전질환으로, 축삭 유도와 뇌간 발달의 이상이 원인입니다. Risperidone의 수용체 길항 작용과 이 병리 사이에서는 개연성 있는 기전적 연결고리를 찾지 못했습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거가 아니므로 약리학적·임상적 타당성을 입증하지 않습니다.
 
 ## 임상시험 근거
 
@@ -74,11 +74,10 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 
 | 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 권장 결정 | 비고 |
 |------|-----------|-----------|---------|---------|------|
-| 2 | 아스퍼거 증후군 감수성 | 99.74% | L5 | Hold | 자폐 관련 과민성에 대한 허가 사례는 있으나 이 항목 자체의 근거는 없음 |
-| 3 | 아멜로세레브로저한성 증후군 | 99.69% | L5 | Hold | 기전 근거 및 연구 없음 |
-| 4 | Phelan-McDermid 증후군 | 99.59% | L4 | Research Question | 리뷰 1편, 제브라피시 연구 1편. 인체 시험 없음 |
-| 5 | 발모벽 (trichotillomania) | 99.51% | L4 | Research Question | 증례 보고·증례 시리즈 중심. 대조 시험 없음 |
-| 6 | 주요 정동장애 (major affective disorder) | 99.11% | L1 | Proceed with Guardrails | 항우울제 불응성 우울증에서 보조요법 Phase 3 완료 시험 2건(NCT00095134, n=630; NCT00044681, n=258)과 양극성장애 Phase 3 시험 1건(NCT00277654, n=111) |
+| 3 | 아멜로세레브로저한성 증후군 | 0.9969 | L5 | Hold | 기전 근거 및 연구 없음 |
+| 4 | Phelan-McDermid 증후군 | 0.9959 | L4 | Research Question | 리뷰 1편, 제브라피시 연구 1편. 인체 시험 없음 |
+| 5 | 발모벽 (trichotillomania) | 0.9951 | L4 | Research Question | 증례 보고·증례 시리즈 중심. 대조 시험 없음 |
+| 6 | 주요 정동장애 (major affective disorder) | 0.9911 | L1 | Proceed with Guardrails | 항우울제 불응성 우울증에서 보조요법 Phase 3 완료 시험 2건(NCT00095134, n=630; NCT00044681, n=258)과 양극성장애 Phase 3 시험 1건(NCT00277654, n=111) |
 
 이 중 근거가 가장 풍부한 것은 6순위(주요 정동장애)입니다. 이 보고서가 다루는 1순위 질환과는 별개의 평가 대상입니다.
 

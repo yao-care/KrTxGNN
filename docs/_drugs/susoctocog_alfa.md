@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Susoctocog Alfa
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 712
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Susoctocog Alfa: 예측 신규 적응증 혈우병 (hemophilia) (근거 수준 L3). 기존 적응증: 후천성 혈우병 A의 출혈 에피소드 치료 (허가 문서 링크만 제공되어 있어 문헌 및 기전 정보를 바탕으로 정리)"
 monitor_inn: "Susoctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor XIII deficiency", "adenosine deaminase deficiency"]
+description: "Susoctocog Alfa: 예측 신규 적응증 Primary release disorder of platelets (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300956/EE"
 ---
 
 # Susoctocog Alfa
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,23 @@ predicted_indications: ["primary release disorder of platelets", "pseudo-von Wil
 
 </div>
 
-## Susoctocog alfa: 후천성 혈우병 A에서 혈우병(hemophilia)으로
+## Susoctocog Alfa: Primary release disorder of platelets
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Susoctocog alfa는 B-도메인 결손 재조합 돼지 서열 혈액응고 VIII인자로, 원래 출혈 에피소드 치료(후천성 혈우병 A)에 사용되는 약입니다.
-TxGNN 모델은 **혈우병(hemophilia)**에 효과가 있을 수 있다고 예측하지만, 근거는 거의 모두 이미 허가된 후천성 혈우병 A에 관한 것입니다. 관련 임상시험은 **1건**(시판 후 조사), 문헌은 **20편**입니다.
+관련 임상시험은 **1건**(시판 후 조사), 문헌은 **20편**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 후천성 혈우병 A의 출혈 에피소드 치료 (허가 문서 링크만 제공되어 있어 문헌 및 기전 정보를 바탕으로 정리) |
-| 예측 신규 적응증 | 혈우병 (hemophilia) |
-| TxGNN 예측 점수 | 99.74% |
-| 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300956/EE |
+| 예측 신규 적응증 | Primary release disorder of platelets |
+| TxGNN 예측 점수 | 0.9994 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Proceed with Guardrails |
 

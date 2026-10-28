@@ -4,17 +4,17 @@ title: Iopromide
 parent: 모델 예측만 (L5)
 nav_order: 432
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Iopromide: 예측 신규 적응증 골관절염 감수성 (Osteoarthritis Susceptibility) (근거 수준 L5). 기존 적응증: 조영제로서의 영상 진단 (허가 적응증 원문은 데이터에 텍스트로 포함되어 있지 않고 허가사항 문서 링크만 제공됨)"
+indication_count: 9
 monitor_inn: "Iopromide"
-predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
+last_modified_at: 2026-10-28
+description: "Iopromide: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400622/EE"
 ---
 
 # Iopromide
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,72 +33,66 @@ predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheu
 
 </div>
 
-## Iopromide: 영상 진단(조영)에서 골관절염 감수성으로
+## Iopromide: 골관절염 (osteoarthritis)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Iopromide는 요오드화 비이온성 방사선 조영제로, 원래 영상 진단 목적으로 사용되어 왔습니다.
-TxGNN 모델은 **골관절염 감수성(Osteoarthritis Susceptibility)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다.
-현재로서는 모델 예측만 있는 단계입니다.
+Iopromide는 요오드화 비이온성 방사선 조영제로, 한국에서 주사제 형태로 허가되어 있습니다. TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다고 예측하지만, 이 방향을 지지하는 **임상시험은 0건**, **문헌도 0편**입니다. 따라서 이 예측은 모델 점수에만 의존하며 근거 수준은 L5입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 조영제로서의 영상 진단 (허가 적응증 원문은 데이터에 텍스트로 포함되어 있지 않고 허가사항 문서 링크만 제공됨) |
-| 예측 신규 적응증 | 골관절염 감수성 (Osteoarthritis Susceptibility) |
-| TxGNN 예측 점수 | 99.57% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400622/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802934/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804420/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804419/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400621/EE |
+| 예측 신규 적응증 | 골관절염 (osteoarthritis) |
+| TxGNN 예측 점수 | 0.9953 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Iopromide는 요오드화 비이온성 조영제로, 질병을 치료하는 약이 아니라 영상 진단을 돕는 약물입니다.
+현재 상세한 작용 기전 데이터가 없습니다. Iopromide는 요오드화 비이온성 방사선 조영제로, 항염증 작용이나 연골 보호 작용이 알려져 있지 않습니다. 관절 조영술에 쓰일 수 있으나 이는 진단 목적이며 치료 효과가 아닙니다.
 
-예측된 "골관절염 감수성"은 치료 대상이 되는 질환이라기보다 유전적 소인을 나타내는 표현형입니다. 따라서 약물 치료의 적응증으로 보기에는 개념적으로 근거가 약합니다. 관절 조영술에 쓰이는 것은 진단 목적이며 치료 효과를 뜻하지 않습니다.
+TxGNN 점수(0.9953)는 TxGNN 모델(딥러닝)에서 나온 값이며, 관련 질환 간에 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 기전적 연결고리는 확인되지 않았으며, 이를 뒷받침하는 임상시험이나 문헌도 없습니다.
 
-TxGNN 점수(99.57%)는 그래프 기반 계산 결과로, 관절 관련 질환 노드 간의 네트워크 근접성을 반영했을 가능성이 있습니다. 실제 치료 효과를 보여주는 근거로 해석해서는 안 됩니다.
+참고로 같은 약물에 대해 류마티스 관절염(0.9937), 알로페시아(탈모, 0.9911), 헤모글로빈병증(0.9908), 가성연골무형성증(0.9906) 등 여러 질환이 예측되었습니다. 이들 역시 모두 L5이며 Hold 판정입니다. 이 중 일부는 희귀 유전성 골격 이형성증으로, 조영제의 약리와 연결되지 않습니다. 헤모글로빈병증의 경우 일부 혈액 질환(예: 겸상적혈구병)에서 조영제의 삼투압 영향으로 오히려 안전성 우려가 있을 수 있어, 치료 사용에 불리합니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201400622 | 레이프로주370 (수출용) | 주사액 (병/바이알) | 허가사항 문서 참조 |
-| 201802934 | 울트라비스트300주 프리필드카트리지 | 주사제 (플라스틱 카트리지) | 허가사항 문서 참조 |
-| 201804420 | 울트라비스트듀300주사 | 주사제 (유리병/바이알) | 허가사항 문서 참조 |
-| 201804419 | 울트라비스트듀370주사 | 주사제 (유리병/바이알) | 허가사항 문서 참조 |
-| 201400621 | 레이프로주300 (수출용) | 주사액 (병/바이알) | 허가사항 문서 참조 |
+| 201400622 | 레이프로주370 (수출용) | 무색투명한 주사액 (병 또는 바이알) | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
+| 201802934 | 울트라비스트300주 프리필드카트리지 | 투명한 액이 든 플라스틱 카트리지 주사제 | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
+| 201804420 | 울트라비스트듀300주사 | 투명한 액이 든 유리병/바이알 주사제 | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
+| 201804419 | 울트라비스트듀370주사 | 투명한 액이 든 유리병/바이알 주사제 | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
+| 201400621 | 레이프로주300 (수출용) | 무색투명한 주사액 (병 또는 바이알) | 허가 적응증 텍스트는 외부 링크로만 제공됨 |
+
+모두 단일 성분 제품이며 유효한 허가입니다.
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건의 상호작용이 확인되었으며, 주요(Major) 등급 항목은 다음과 같습니다.
-  - Metformin
-  - Amphotericin B (일반형, 지질 복합체, 콜레스테릴 황산염, 리포좀 제형)
-  - Mesalazine, Balsalazide, Olsalazine, Sulfasalazine
-  - Vancomycin
-  - 아미노글리코시드계: Kanamycin, Neomycin, Streptomycin
-  - Polymyxin B
-- 중등도(Moderate) 등급으로는 Mannitol이 확인되었습니다.
-- 위 목록에는 신독성 관련 약물이 다수 포함되어 있습니다. 다만 상호작용의 구체적 기전은 데이터에 포함되어 있지 않습니다.
-- 혈색소병증(hemoglobinopathy) 같은 혈액 질환에서는 요오드화 조영제 사용에 주의가 필요할 수 있습니다.
+- **약물 상호작용**: 데이터에서 총 100건이 확인되었으며, 이 중 일부를 나열합니다.
+  - 주요(Major) 등급: 메트포르민, 암포테리신 B(지질 복합체, 콜레스테릴 설페이트, 리포좀 제형 포함), 메살라진, 발살라자이드, 올살라진, 설파살라진, 반코마이신, 카나마이신, 네오마이신, 스트렙토마이신, 폴리믹신 B
+  - 보통(Moderate) 등급: 만니톨
+  - 등급 미상: 클로트리마졸, 아세틸살리실산, 부프로피온, 덱사메타손, 판토프라졸
 
-그 외 경고 및 금기 정보는 허가사항을 참조하세요.
+허가사항의 경고 및 금기 정보는 이번 데이터에 포함되어 있지 않으므로, 상세 내용은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-예측 점수는 높지만 임상시험과 문헌 근거가 전혀 없고 기전적 연관성도 확인되지 않습니다. 또한 예측된 적응증이 유전적 감수성 표현형이라 치료 목표로 삼기 어렵습니다. 상위 10개 예측(골관절염, 류마티스 관절염, 탈모, 여러 희귀 골격 이형성증 등) 모두 같은 L5, Hold 수준입니다.
+골관절염에 대한 임상시험과 문헌이 전혀 없고, 약리학적 기전상으로도 연결고리가 없습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며, 이것만으로 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증)의 확보 및 분석. 현재 허가사항 원문이 없어 안전성 1차 검토를 진행할 수 없는 상태입니다.
-- 작용 기전(MOA) 데이터 보충
-- 골관절염 등 구체적 질환(감수성 표현형 제외)에 대한 전임상 또는 문헌 근거 탐색
-- 투여 경로 적합성 검토 (현재 미확인)
+- 허가사항의 경고 및 금기 정보 확보 (한국 MFDS 허가사항 PDF 분석)
+- 작용 기전(MOA) 데이터 확보 (DrugBank 조회)
+- 골관절염과 Iopromide의 연관성을 보여주는 전임상 또는 임상 연구
+- 치료 목적의 투여 경로 및 용량 타당성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

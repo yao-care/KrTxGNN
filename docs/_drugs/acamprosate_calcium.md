@@ -8,6 +8,7 @@ nav_order: 15
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acamprosate Calcium
@@ -51,7 +52,7 @@ ACAMPROSATE CALCIUM은 현재 대만 시장에 미등록된 약물입니다.
 | 예측 신규 적응증 | 없음 (TxGNN 예측 미실행) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (모델 예측 없음, 실제 연구 확인 불가) |
-| 대만 시판 현황 | 미상市 (허가증 0건) |
+| 대만 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Betamethasone
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 143
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Betamethasone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 2차 감염된 알레르기성 또는 염증성 피부질환(습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진…"
 monitor_inn: "BETAMETHASONE"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Betamethasone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 |------|------|
 | 기존 적응증 | 2차 감염된 알레르기성 또는 염증성 피부질환(습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선), 1도 화상 |
 | 예측 신규 적응증 | 원형탈모증 (Alopecia Areata) |
-| TxGNN 예측 점수 | 99.97% |
+| TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L2 (※ 아래 참고) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Proceed with Guardrails |
 

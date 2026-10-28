@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Deutetrabenazine
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 267
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Deutetrabenazine: 예측 신규 적응증 만성 틱 장애 (Chronic Tic Disorder) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 제공되어 적응증 원문 확인 불가 (문헌상 미국 허가: 헌팅턴병 무도증, 지연성 이상운동증)"
-monitor_inn: "Deutetrabenazine"
-predicted_indications: ["psychogenic movement disorders", "tremor-nystagmus-duodenal ulcer syndrome", "primary orthostatic tremor", "benign paroxysmal tonic upgaze of childhood with ataxia", "chronic tic disorder", "benign shuddering attacks", "extrapyramidal and movement disease", "polycystic kidney disease 3 with or without polycystic liver disease", "acute intermittent porphyria", "Hirschsprung disease"]
+last_modified_at: 2026-10-23
+description: "Deutetrabenazine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Deutetrabenazine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,60 +32,52 @@ predicted_indications: ["psychogenic movement disorders", "tremor-nystagmus-duod
 
 </div>
 
-## Deutetrabenazine: 헌팅턴병 무도증·지연성 이상운동증에서 만성 틱 장애로
+<!-- known-uses-page -->
+<!-- description: Deutetrabenazine: 대한민국 내 알려진 용도 및 시장 현황, 현재 신규 후보 적응증 없음 -->
+## Deutetrabenazine
 {: .text-alpha }
 
-## 한 문장 요약
+## 요약
+TxGNN 딥러닝 모델은 이 약물에 대해 점수 0.99 이상의 후보 적응증을 도출하지 못했으며, 따라서 현재 새롭게 예측된 적응증은 없습니다. 아래에는 이 약물에 대해 기록된 기존 용도를 정리했습니다.
 
-Deutetrabenazine은 VMAT2(소포성 모노아민 수송체 2)를 억제하는 약물로, 한국에서 오스테도정 3종(6mg, 9mg, 12mg)으로 허가되어 시판 중입니다. 허가 적응증 원문은 데이터에 텍스트로 포함되어 있지 않고 허가증 문서 링크만 있습니다.
-TxGNN 모델은 **만성 틱 장애(Chronic Tic Disorder)**에 효과가 있을 수 있다고 예측하며, 투온 문헌 **19편**(투렛 증후군 대상 deutetrabenazine 임상시험 보고와 2026년 메타분석 포함)이 이 방향을 지지합니다. 다만 등록된 임상시험 정보는 없습니다.
-
-## 빠른 개요
-
+## 한눈에 보기
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 제공되어 적응증 원문 확인 불가 (문헌상 미국 허가: 헌팅턴병 무도증, 지연성 이상운동증) |
-| 예측 신규 적응증 | 만성 틱 장애 (Chronic Tic Disorder) |
-| TxGNN 예측 점수 | 98.31% |
-| 근거 수준 | L2 (문헌 기반 잠정 판정, 전문 확인 필요) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 3건 |
-| 권장 결정 | Hold (추가 근거 확인 후 재평가) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 새로운 예측 적응증 | 없음 (점수 0.99 이상의 모델 후보 없음) |
+| 이 약물에 기록된 기존 용도 | 8 |
+| 대한민국 시장 현황 | Unknown (source lacks cancellation status) |
 
-## 이 예측이 타당한 이유는?
+## 이 약물에 기록된 기존 용도
 
-현재 상세한 작용 기전 데이터는 데이터에 없습니다. 알려진 정보에 따르면 deutetrabenazine은 가역적 VMAT2 억제제로, 시냅스 전 말단의 모노아민(주로 도파민)을 고갈시켜 과운동성 움직임을 줄입니다.
+### 허가됨 (허가 또는 라벨로 뒷받침)
+| 적응증 | 출처 |
+|------|------|
+| 지연성 운동이상증 (tardive dyskinesia) | 다른 국가의 허가 |
+| 성인의 중등도~중증 지연성 운동이상증 치료 (treatment of moderate to severe tardive dyskinesia in adults) | 다른 국가의 허가 |
 
-틱은 피질-선조체-시상-피질 회로의 도파민 신호 이상과 관련이 있습니다. VMAT2 억제로 도파민 방출을 줄이는 것은 틱 억제에 대한 직접적인 기전상 근거가 됩니다. 문헌에는 투렛 증후군 청소년·소아 대상 deutetrabenazine 연구(고정 용량, 유연 용량, 공개 연장 연구)가 보고되어 있습니다.
+### 허가된 적응증과 관련됨 (같은 질환 범주)
+| 적응증 | 허가된 범주 |
+|------|------|
+| 해당 없음 | 해당 없음 |
 
-다만 문헌 제목과 초록이 일부 잘려 있어 시험 단계와 주요 평가변수 결과는 확인되지 않았습니다. 2026년 메타분석 초록은 개별 연구 결과가 "엇갈린다"고 언급하므로, 효능이 확정된 것은 아닙니다.
-
-## 문헌 근거
-
-등록된 임상시험 정보는 없어 문헌만 제시합니다. 우선순위(RCT/임상시험 > 메타분석 > 리뷰)에 따라 선별했습니다.
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [34661664](https://pubmed.ncbi.nlm.nih.gov/34661664/) | 2021 | RCT (고정 용량, 소아) | JAMA Netw Open | 투렛 증후군 소아·청소년의 틱에 대한 고정 용량 deutetrabenazine 효능·안전성 평가 (주요 평가변수 결과는 초록에서 확인 불가) |
-| [34609495](https://pubmed.ncbi.nlm.nih.gov/34609495/) | 2021 | 임상시험 (유연 용량, 소아) | JAMA Netw Open | 투렛 증후군 소아·청소년에서 유연 용량 deutetrabenazine의 안전성·효능 평가 |
-| [42267238](https://pubmed.ncbi.nlm.nih.gov/42267238/) | 2026 | 체계적 문헌고찰/메타분석 | Psychopharmacol Bull | 투렛 증후군에서 deutetrabenazine RCT를 위약과 비교 분석, 개별 연구 결과는 엇갈림 |
-| [27917309](https://pubmed.ncbi.nlm.nih.gov/27917309/) | 2016 | 공개 라벨 임상시험 | Tremor Other Hyperkinet Mov | 청소년 투렛 증후군 틱에서 안전성·내약성·예비 효능 탐색 |
-| [37772282](https://pubmed.ncbi.nlm.nih.gov/37772282/) | 2023 | 공개 라벨 연장 연구 | Mov Disord Clin Pract | 소아·청소년 투렛 증후군에서 장기 사용 안전성·효능 |
-| [37301806](https://pubmed.ncbi.nlm.nih.gov/37301806/) | 2023 | 실제 임상 경험 | J Neurol | 투렛 증후군에서 VMAT2 억제제의 오프라벨 사용 경험 |
-| [30870235](https://pubmed.ncbi.nlm.nih.gov/30870235/) | 2019 | 관찰 연구 | Clin Neuropharmacol | 과운동성 질환에서 VMAT2 억제제의 실제 임상 경험 |
-| [28387387](https://pubmed.ncbi.nlm.nih.gov/28387387/) | 2017 | Review | Drugs Today | 헌팅턴병, 지연성 이상운동증, 투렛 증후군에서 deutetrabenazine 개요 |
-| [32454050](https://pubmed.ncbi.nlm.nih.gov/32454050/) | 2020 | Review | Pharmacol Ther | 과운동성 운동질환에서 VMAT2 억제제 고찰 |
-| [29335879](https://pubmed.ncbi.nlm.nih.gov/29335879/) | 2018 | Review | CNS Drugs | 투렛 증후군의 약물치료 현황과 신약 개발 |
+### 지식 그래프에 기록된 관계 (허가 근거 없음)
+| 적응증 |
+|------|
+| 헌팅턴병 (huntington disease) |
+| 헌팅턴병 유사 질환 (huntington disease-like) |
+| C9orf72 반복 확장에 의한 헌팅턴병 유사 증후군 (huntington disease-like syndrome due to c9orf72 expansions) |
+| 소아 헌팅턴병 (juvenile huntington disease) |
+| 설-안면-구강 운동이상증 (lingual-facial-buccal dyskinesia) |
+| 맥레오드 신경유극적혈구증 증후군 (mcleod neuroacanthocytosis syndrome) |
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202006401 | 오스테도정6밀리그램(듀테트라베나진) | 보라색 원형 필름코팅정 | 허가 문서 링크만 제공됨 (원문 확인 필요) |
-| 202006400 | 오스테도정9밀리그램(듀테트라베나진) | 파란색 원형 필름코팅정 | 허가 문서 링크만 제공됨 (원문 확인 필요) |
-| 202006402 | 오스테도정12밀리그램(듀테트라베나진) | 베이지색 원형 필름코팅정 | 허가 문서 링크만 제공됨 (원문 확인 필요) |
-
-제조·판매사는 (주)한독테바이며, 3건 모두 단일제로 유효합니다.
+| 허가번호 | 제품명 | 제형 | 상태 |
+|------|------|------|------|
+| 202006401 | Austedo tablet 6mg (Deutetrabenazine) | 보라색의 원형 필름코팅정 | 유효 |
+| 202006400 | Austedo tablet 9mg (Deutetrabenazine) | 파란색의 원형 필름코팅정 | 유효 |
+| 202006402 | Austedo tablet 12mg (Deutetrabenazine) | 베이지색의 원형 필름코팅정 | 유효 |
 
 ## 안전성 고려사항
 
@@ -97,22 +88,6 @@ TxGNN 모델은 **만성 틱 장애(Chronic Tic Disorder)**에 효과가 있을 
 
 경고·금기 등 허가사항 항목은 데이터에 포함되지 않았으므로 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-만성 틱 장애(투렛 증후군)에 대해서는 기전상 타당성과 deutetrabenazine 연구 문헌이 있어 다른 예측들보다 근거가 뚜렷합니다. 그러나 등록 임상시험 정보가 없고, 문헌의 시험 단계와 주요 평가변수 결과가 확인되지 않았으며, 메타분석은 결과가 엇갈린다고 보고합니다. 또한 한국 허가사항의 경고·금기 정보가 없어 안전성 검토를 진행할 수 없습니다.
-
-**진행하려면 필요한 것:**
-- 문헌 전문 확인: 소아 고정 용량·유연 용량 시험의 시험 단계 및 주요 평가변수 결과, 메타분석 결론 (확인 후 근거 수준 재판정)
-- 임상시험 등록 정보(ClinicalTrials.gov 등) 보완
-- MFDS 허가사항(경고, 금기, 적응증 원문) 확보 및 파싱
-- DrugBank에서 작용 기전(MOA) 데이터 확보
-- 소아·청소년 대상 우울증·자살 위험을 포함한 안전성 모니터링 계획 수립
-
-**참고: 그 외 예측 적응증**
-나머지 9개 예측(심인성 운동장애, 원발성 기립성 떨림, 급성 간헐성 포르피린증, 히르슈스프룽병 등)은 임상시험·문헌 근거가 없는 모델 예측만 있어(L5) 모두 Hold입니다. 특히 포르피린증은 CYP2D6 대사와 관련한 안전성 확립이 안 되었고, 히르슈스프룽병은 모노아민 고갈이 위장관 운동을 악화시킬 수 있어 주의가 필요합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

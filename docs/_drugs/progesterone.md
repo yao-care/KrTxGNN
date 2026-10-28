@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 630
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Progesterone: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 링크로만 제공되어 이번 데이터에서 확인되지 않음 (제품별 허가사항 참조)"
+evidence_level: L2
+indication_count: 7
 monitor_inn: "Progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis in cutaneous scar", "endometriosis of rectovaginal septum and vagina", "blunt duct adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+last_modified_at: 2026-10-23
+description: "Progesterone: 예측 신규 적응증 무월경 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았고 허가사항 문서 링크만 있어 허가사항 원문 확인이 필요합니다"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,91 +33,92 @@ predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "b
 
 </div>
 
-## Progesterone: 한국 허가 적응증에서 무월경(Amenorrhea)으로
+## 프로게스테론: 기존 허가 적응증에서 무월경으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Progesterone은 천연 여성 호르몬으로, 한국에서 질좌제·겔·주사제 등 7건의 단일제 허가로 시판되고 있습니다. TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예측하며, 이와 관련해 **4건의 임상시험**과 **19편의 문헌**이 수집되었습니다. 다만 임상시험은 대부분 progesterone이 직접 시험 대상이 아니어서 근거는 간접적입니다.
+프로게스테론은 한국에서 질좌제·주사제·겔 등 단일 성분 제제 7건이 허가된 천연 여성 호르몬입니다. TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예측하며, 이 질환 환자군을 다룬 **4건의 임상시험**과 **18편의 문헌**이 검토되었습니다. 다만 이 시험들은 대부분 에스트로겐 중심이어서 프로게스테론 자체의 효과를 직접 입증하지는 않습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 허가증 링크로만 제공되어 이번 데이터에서 확인되지 않음 (제품별 허가사항 참조) |
-| 예측 신규 적응증 | 무월경 (Amenorrhea) |
-| TxGNN 예측 점수 | 99.9996% |
-| 근거 수준 | L2 (아래 설명 참조) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 7건 (모두 단일제, 유효) |
+| 기존 적응증 | 허가 적응증 본문은 확인되지 않았고 허가사항 문서 링크만 있어 허가사항 원문 확인이 필요합니다 |
+| 예측 신규 적응증 | 무월경 |
+| TxGNN 예측 점수 | 1.0000 |
+| 근거 수준 | L2 (잠정): 완료된 Phase 3 임상시험이 있으나 프로게스테론 자체를 평가한 시험은 아닙니다 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 7건 (모두 단일 성분 제제, 유효) |
 | 권장 결정 | Proceed with Guardrails |
-
-> 근거 수준 참고: 완료된 Phase 2/3 시험(NCT00088153)이 1건 있어 L2 기준에 형식상 부합하지만, 이 시험은 estrogen 투여가 중심이며 progesterone은 주 시험약이 아닌 것으로 보입니다. 실제 직접 근거는 L2보다 낮게 해석해야 합니다.
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 progesterone은 내인성 여성 성호르몬으로, 자궁내막을 분비기로 전환시키고 시상하부-뇌하수체-난소 축의 조절에 관여합니다.
+현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 프로게스테론은 황체기 신호를 대신하는 호르몬으로, 에스트로겐으로 자극된 자궁내막을 분비기로 전환시킵니다. 이 때문에 내인성 에스트로겐이 충분한 속발성 무월경에서는 진단적 프로게스틴 투여와 소퇴성 출혈 유도에 쓰이는 확립된 방법입니다.
 
-무월경에서는 progesterone(또는 progestin)이 두 가지 방식으로 사용됩니다. 첫째, 프로게스틴 위약출혈 검사로 내인성 에스트로겐 상태를 진단합니다. 둘째, 속발성 무월경에서 위약출혈을 유도하고, 에스트로겐으로 자극된 자궁내막을 보호합니다. 운동선수나 신경성 식욕부진증 등 저에스트로겐성 기능성 시상하부 무월경은 주로 에스트로겐 보충으로 관리하며, 자궁내막 보호를 위해 progesterone을 병용합니다. 경구 미분화 progesterone의 내분비 영역 진단·치료 활용은 2024년 리뷰(PMID 38652231)에 정리되어 있습니다.
+무월경은 이러한 부인과적 호르몬 사용과 직접 겹치는 질환이어서 기전상 적용 가능성이 높습니다. 문헌에서도 프로게스테론 단독 투여 후 소퇴성 출혈 여부가 무월경의 진단 단서로 소개됩니다(PMID 7457308).
+
+다만 확인된 임상시험은 대부분 운동선수나 신경성 식욕부진증처럼 에스트로겐이 부족한 상태를 다룹니다. 이 경우 주된 치료는 에스트로겐이고, 프로게스테론은 자궁내막 보호를 위한 보조 역할입니다. 따라서 "프로게스테론이 무월경을 치료한다"는 직접 근거는 제한적입니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Phase 3 | 완료 | 121 | 월경이 멈춘 젊은 운동선수에서 경피·경구 에스트로겐의 골밀도 개선 효과 평가. progesterone의 역할은 불명확 |
-| [NCT00088153](https://clinicaltrials.gov/study/NCT00088153) | Phase 2/3 | 완료 | 110 | 신경성 식욕부진증 청소년에서 에스트로겐 투여가 골 발달 유지에 도움이 되는지 평가. progesterone은 주기적 병용 성분으로 추정 |
-| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Phase 2 | 활성, 모집 종료 | 120 | 저에스트로겐 섭식장애 여성에서 경피 estradiol + 주기적 progesterone vs 위약의 인지 유연성·보상 처리 평가 |
-| [NCT03018366](https://clinicaltrials.gov/study/NCT03018366) | Phase 2 | 완료 | 29 | 기능성 시상하부 무월경 여성의 심혈관 위험 인자 평가. 무월경은 대상 집단이며 치료 목표가 아님 |
+| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Phase 3 | 완료 | 121 | 월경이 멈춘 젊은 운동선수에서 경피·경구 에스트로겐 대 무투여가 골밀도와 골미세구조에 미치는 효과 평가 (관련성 B) |
+| [NCT00088153](https://clinicaltrials.gov/study/NCT00088153) | Phase 2/3 | 완료 | 110 | 신경성 식욕부진증 청소년에서 에스트로겐이 골 발달 유지에 도움이 되는지 평가 (관련성 B) |
+| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Phase 2 | 활성(모집 종료) | 120 | 저에스트로겐 섭식장애 여성에서 경피 에스트라디올과 주기적 프로게스테론 병용이 인지 유연성과 보상 처리에 미치는 효과 (관련성 C) |
+| [NCT03018366](https://clinicaltrials.gov/study/NCT03018366) | Phase 2 | 완료 | 29 | 기능성 시상하부성 무월경 젊은 여성의 심혈관·염증 위험 요인 평가 (관련성 C) |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Review | Rev Endocr Metab Disord | 내분비 영역에서 경구 미분화 progesterone의 진단·치료적 사용 |
-| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Review | Rev Endocr Metab Disord | 자궁내막증 호르몬 치료의 내분비학적 배경 |
-| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Review | Front Endocrinol | 조기난소부전(POI)의 병인, 증상, 치료 |
-| [22283375](https://pubmed.ncbi.nlm.nih.gov/22283375/) | 2012 | 리뷰성 논문 | Gynecol Endocrinol | 배란의 신경내분비 조절과 시상하부성 무월경 |
-| [28257537](https://pubmed.ncbi.nlm.nih.gov/28257537/) | 2017 | 리뷰성 논문 | South Med J | 원발성 난소부전 개념, 속발성 무월경과 호르몬 대체요법 |
-| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Review | Am Fam Physician | 무월경 평가 방법 |
-| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Review | Climacteric | 폐경 후 질출혈의 임상 관리 |
+| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Review | Rev Endocr Metab Disord | 내분비 영역에서 경구 미분화 프로게스테론의 진단적·치료적 사용 정리 |
+| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Review | Front Endocrinol | 조기 난소 부전의 원인, 증상, 치료 옵션 |
+| [28257537](https://pubmed.ncbi.nlm.nih.gov/28257537/) | 2017 | 유형 미분류 | South Med J | 항암화학요법 후 일차성 난소 기능부전과 속발성 무월경, 호르몬 대체요법 필요성 |
+| [24157186](https://pubmed.ncbi.nlm.nih.gov/24157186/) | 2013 | 유형 미분류 | Presse Med | 무월경으로 의심하는 조기 난소 부전의 진단과 원인 |
+| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Review | Am Fam Physician | 임신 배제 후 프롤락틴·TSH 검사를 포함한 무월경 진단 평가 |
+| [7457308](https://pubmed.ncbi.nlm.nih.gov/7457308/) | 1980 | 유형 미분류 | Am Fam Physician | 프로게스테론 단독 투여 후 소퇴성 출혈 여부를 진단 단서로 활용 |
+| [22283375](https://pubmed.ncbi.nlm.nih.gov/22283375/) | 2012 | 유형 미분류 | Gynecol Endocrinol | 시상하부 기능 이상에 따른 무배란·무월경의 신경내분비 조절 |
+| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Review | Climacteric | 폐경 후 질 출혈의 임상 관리 |
+| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Review | Semin Reprod Med | 자궁내 유착(Asherman 증후군)과 무월경 |
+| [36653588](https://pubmed.ncbi.nlm.nih.gov/36653588/) | 2023 | Review | Reprod Sci | 손상된 자궁내막의 복구·재생 방법 |
 
 ## 한국 시판 정보
 
+한국 허가증은 모두 7건이며 전부 단일 성분 제제입니다. 아래는 그중 5건입니다.
+
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 200705309 | 예나트론 질좌제 | 질좌제 | 허가증 원문 참조 |
-| 200711790 | 크리논겔 8% | 겔 | 허가증 원문 참조 |
-| 202600485 | 유티프로주 25밀리그램 | 주사제 | 허가증 원문 참조 |
-| 200706721 | 타이유프로게스테론주 | 주사제(유성액) | 허가증 원문 참조 |
-| 202008202 | 사이클로제스트 질좌제 400밀리그램 | 질좌제 | 허가증 원문 참조 |
-
-이 외에 프롤루텍스주 25밀리그램(201805378), 사이클로제스트 질좌제 200밀리그램(201108835)이 있어 총 7건입니다.
+| 200705309 | 예나트론 질좌제 | 질좌제 | 허가사항 문서 참조 |
+| 200711790 | 크리논겔8% | 겔 | 허가사항 문서 참조 |
+| 202600485 | 유티프로주25밀리그램 | 주사제 | 허가사항 문서 참조 |
+| 200706721 | 타이유프로게스테론주 | 주사제(유성액) | 허가사항 문서 참조 |
+| 202008202 | 사이클로제스트질좌제400밀리그램 | 질좌제 | 허가사항 문서 참조 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 당뇨병 치료제와의 중등도(Moderate) 상호작용이 다수 보고되었습니다(총 100건 중 일부 확인). 대표 항목은 다음과 같습니다.
-  - 혈당강하제: acarbose, metformin, pioglitazone, glimepiride, repaglinide, chlorpropamide
-  - DPP-4 억제제 및 SGLT2 억제제: alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin
-  - GLP-1 계열 및 인슐린: albiglutide, dulaglutide, liraglutide, semaglutide, insulin aspart, insulin degludec, insulin detemir
-  - 기타: aprepitant, clarithromycin
+- **약물 상호작용**: 총 100건이 조회되었으며, 확인된 항목은 모두 중등도(Moderate)입니다. 대표적으로 당뇨병 치료제가 많습니다.
+  - 당뇨병 치료제: 메트포르민, 피오글리타존, 아카보스, 알로글립틴, 카나글리플로진, 다파글리플로진, 엠파글리플로진, 글리메피리드, 레파글리니드, 세마글루타이드, 리라글루타이드, 둘라글루타이드, 인슐린 제제 등
+  - 기타: 아프레피탄트, 클래리스로마이신
 
-경고 및 금기 사항은 허가사항을 참조하세요.
+주요 경고와 금기는 이번에 수집한 자료에 없으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Proceed with Guardrails**
 
 **사유:**
-무월경에서 progesterone은 진단(위약출혈 검사)과 치료(자궁내막 보호, 출혈 유도)에 이미 임상적으로 쓰이고 있어 기전적 타당성이 높습니다. 다만 수집된 임상시험은 모두 에스트로겐 중심이거나 무월경 집단을 대상으로 한 연구여서 progesterone 단독 효과를 입증하는 직접 근거는 부족합니다.
+- 프로게스테론은 무월경의 진단적 프로게스틴 투여와 소퇴성 출혈 유도에 쓰이는 확립된 기전을 갖고 있고, 무월경 환자군을 대상으로 한 완료된 Phase 3 시험이 존재합니다.
+- 그러나 해당 시험들은 에스트로겐 평가가 중심이어서 프로게스테론 단독 효과를 입증하지 못하므로, 근거 수준은 잠정적입니다.
 
 **진행하려면 필요한 것:**
-- 허가사항 PDF에서 경고·금기·허가 적응증 확인 (현재 안전성 검토 진행을 막는 핵심 공백)
-- 작용 기전(MOA) 데이터 보완 (DrugBank 등)
-- 무월경 유형(원발성/속발성, 저에스트로겐성 등)별 progesterone 사용 근거 정리
-- 투여 경로 적합성 검토 (질좌제, 주사제, 겔 중 무월경에 적합한 제형)
+- 허가사항(경고·금기·적응증) 원문을 확인해 안전성 검토를 완료하고, 기존 허가 적응증을 명확히 할 것
+- 작용 기전 데이터(DrugBank 등)를 보완할 것
+- 무월경 유형(속발성, 에스트로겐 충분 여부)별로 프로게스테론의 역할을 구분하는 근거를 확보할 것
+- 병용 당뇨병 치료제 등 상호작용 대상 환자에 대한 모니터링 계획을 수립할 것
 
-**참고: 다른 예측 적응증**
-유방 섬유낭성 질환(L4), 자궁내막증(L4), 양성 유방 이형성증(L4)은 근거가 오래되었거나 간접적이며 Hold 또는 연구 과제 수준입니다. 양측 신형성부전, 자궁경부 자궁내막증, 피부 흉터 자궁내막증, 직장질중격 자궁내막증, 유방 둔성관 선증은 L5로, 모델 예측만 있고 임상 근거가 없어 Hold를 권장합니다.
+참고로 TxGNN이 함께 예측한 다른 후보 중 섬유낭성 유방질환, 양성 유방 이형성증은 임상시험이 없어 연구 질문 단계입니다. 신장 저형성, 둔성 관선증, 아포크린 선증은 근거 수준 L5로 보류가 적절합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

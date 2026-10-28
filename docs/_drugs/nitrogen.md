@@ -4,17 +4,17 @@ title: Nitrogen
 parent: 모델 예측만 (L5)
 nav_order: 549
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Nitrogen: 예측 신규 적응증 16q24.1 미세결실 증후군 (16q24.1 microdeletion syndrome) (근거 수준 L5). 기존 적응증: 의료용 질소 (허가 적응증 상세 텍스트는 확인되지 않음)"
 monitor_inn: "Nitrogen"
-predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia", "benign neoplasm of adrenal gland", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)"]
+predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
 ---
 
 # Nitrogen
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **16q24.1 미세결실 증후군(16q24.1 microdeletion syndrome)
 |------|------|
 | 기존 적응증 | 의료용 질소 (허가 적응증 상세 텍스트는 확인되지 않음) |
 | 예측 신규 적응증 | 16q24.1 미세결실 증후군 (16q24.1 microdeletion syndrome) |
-| TxGNN 예측 점수 | 99.73% |
+| TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 모델은 **16q24.1 미세결실 증후군(16q24.1 microdeletion syndrome)
 
 16q24.1 미세결실 증후군은 FOXF1 영역의 결실과 관련된 유전 질환으로, 폐포 모세혈관 이형성증 등을 동반합니다. 기체 흡입으로는 이러한 유전적 결손을 교정할 수 없습니다. 따라서 기전상 타당한 연결고리를 찾기 어렵습니다.
 
-높은 TxGNN 점수(99.73%)는 생물학적 신호가 아니라 지식 그래프상의 인위적 결과로 판단됩니다. 같은 이유로 다른 예측 질환(소아 특발성 간질성 폐질환, 폐 모세혈관염, 선천성 폐림프관확장증, 부신 양성 신생물 등)도 모두 뒷받침되는 근거가 없습니다.
+높은 TxGNN 점수(0.9973)는 딥러닝 모델인 TxGNN에서 나온 값이며, 생물학적 근거가 아니라 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있습니다. 같은 이유로 다른 예측 질환(소아 특발성 간질성 폐질환, 폐 모세혈관염, 선천성 폐림프관확장증)도 모두 뒷받침되는 근거가 없습니다.
 
 ## 임상시험 근거
 

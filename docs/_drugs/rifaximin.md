@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rifaximin
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 654
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Rifaximin: 예측 신규 적응증 구강 칸디다증 (Oral candidiasis) (근거 수준 L4). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "RIFAXIMIN"
-predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "burning mouth syndrome", "oral leukoedema", "candidiasis"]
+predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
 ---
 
 # Rifaximin
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **6** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **구강 칸디다증(oral candidiasis)**에 효과가 있을 �
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조) |
 | 예측 신규 적응증 | 구강 칸디다증 (Oral candidiasis) |
-| TxGNN 예측 점수 | 99.75% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9975 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN 모델은 **구강 칸디다증(oral candidiasis)**에 효과가 있을 �
 
 기존 적응증(장관 관련 감염 및 관련 질환)과 구강 칸디다증 사이에는 직접적인 기전 연관성이 확인되지 않습니다. 오히려 유일한 문헌(PMID 34180023)은 Rifaximin 사용이 동종 조혈모세포이식 환자에서 미카펀진 내성 Candida 감염을 **조장**했다고 보고합니다. 장내 미생물총 교란이 진균 과증식을 촉진했을 가능성이 있습니다.
 
-따라서 높은 TxGNN 점수(0.997)는 임상 근거로 뒷받침되지 않으며, 그래프 구조상의 인공적 결과일 가능성이 큽니다.
+따라서 높은 TxGNN 점수(0.9975)는 임상 근거로 뒷받침되지 않습니다. 이 점수는 TxGNN 모델(딥러닝)이 산출한 값이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
 ## 문헌 근거
 

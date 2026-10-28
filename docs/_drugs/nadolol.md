@@ -4,17 +4,17 @@ title: Nadolol
 parent: 모델 예측만 (L5)
 nav_order: 535
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-15
-description: "Nadolol: 예측 신규 적응증 악성 신혈관성 고혈압 (malignant renovascular hypertension) (근거 수준 L5). 기존 적응증: 허가증에 링크만 있고 텍스트 확인 불가 (허가사항 참조 필요)"
+indication_count: 4
 monitor_inn: "NADOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Nadolol: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604248/EE"
 ---
 
 # Nadolol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,89 +33,57 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-## Nadolol: 기존 적응증에서 악성 신혈관성 고혈압으로
+## Nadolol: 비선택적 베타차단제 → 악성 고혈압성 신장질환 (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Nadolol은 비선택적 베타차단제로, 한국에서 "나도가드정40밀리그램"으로 허가되어 시판 중입니다. 다만 허가 적응증 원문은 이번 데이터에 텍스트로 포함되지 않았습니다.
-TxGNN 모델은 **악성 신혈관성 고혈압(malignant renovascular hypertension)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 모델 예측만 존재하는 단계입니다.
+Nadolol은 비선택적 베타아드레날린 차단제 계열의 약물입니다. TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal disease)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 뒷받침하는 **임상시험은 0건, 문헌도 0편**으로 모델 예측 단계에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 링크만 있고 텍스트 확인 불가 (허가사항 참조 필요) |
-| 예측 신규 적응증 | 악성 신혈관성 고혈압 (malignant renovascular hypertension) |
-| TxGNN 예측 점수 | 99.59% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604248/EE |
+| 예측 신규 적응증 | 악성 고혈압성 신장질환 (malignant hypertensive renal disease) |
+| TxGNN 예측 점수 | 0.9959 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 정보에 따르면, nadolol은 비선택적 베타차단제로 심박수와 심박출량을 낮추고, 신장 사구체옆장치(juxtaglomerular apparatus)의 레닌 분비를 억제합니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 nadolol은 베타 수용체를 차단하여 심박수와 혈압을 낮추는 약물입니다. 이 혈압 강하 작용과 레닌-안지오텐신 축 억제를 통해 고혈압성 신장 손상을 줄일 가능성이 이론적으로 제기됩니다.
 
-신혈관성 고혈압은 레닌 의존적 기전이 크기 때문에, 레닌 억제가 기전상 타당할 수 있습니다. 다만 이는 일반적인 약리 지식에 근거한 추정이며, 이번 데이터로 확인된 것은 아닙니다.
-
-주의할 점도 있습니다.
-- 악성 고혈압은 대개 신속한 다제 병용요법이나 주사제 치료가 필요하며, 베타차단제 단독은 1차 치료로 적절하지 않습니다.
-- 일반 고혈압에 이미 쓰이는 약이라면, 이번 예측은 새로운 재창출 신호라기보다 중증 아형으로의 확장에 가깝습니다.
-- 같은 점수(99.59%)를 가진 "악성 고혈압성 신장질환"과 신호가 독립적이지 않을 가능성이 있습니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-예측 1순위인 악성 신혈관성 고혈압에 대한 문헌은 없습니다. 아래는 3순위 예측인 "폐질환/저산소증에 의한 폐고혈압"에서 검색된 문헌 중 일부이며, 모두 전임상 연구이거나 주제와 거리가 있어 참고용으로만 제시합니다.
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [6488695](https://pubmed.ncbi.nlm.nih.gov/6488695/) | 1984 | 전임상(개) | Clin Physiol Biochem | 프로프라놀롤 만성 투여 시 폐동맥압 감소. nadolol도 유사한 감소 효과를 보임 |
-| [39252618](https://pubmed.ncbi.nlm.nih.gov/39252618/) | 2025 | 전임상(쥐) | CNS Neurol Disord Drug Targets | 허혈성 뇌졸중 쥐 모델에서 nadolol이 HOIL-1/IRP2 경로를 통해 뇌세포 철분사멸(ferroptosis)을 완화 |
-| [25350545](https://pubmed.ncbi.nlm.nih.gov/25350545/) | 2014 | 전임상(쥐) | PLoS One | 간헐적 저산소 쥐에서 β2 수용체 의존적으로 저산소성 폐혈관 수축이 약화되어 폐동맥고혈압 진행 방지 |
-| [2566504](https://pubmed.ncbi.nlm.nih.gov/2566504/) | 1989 | 전임상 | Eur J Pharmacol | 베타차단제의 부수적 특성이 무산소 상태 기니피그 심장 보호에 미치는 역할 |
+다만 이 예측은 근거가 독립적이지 않습니다. 같은 계열의 신혈관성 질환 항목과 거의 같은 점수(약 0.9959)를 보여, 서로 밀접하게 관련된 질환 분류에서 비롯된 신호일 가능성이 큽니다. 또한 nadolol은 신장으로 배설되므로 신장 기능이 저하된 환자에게는 용량 조절이 필요하며, 이는 추가적인 안전성 고려 사항입니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201604248 | 나도가드정40밀리그램(나도롤) | 흰색의 장방형 정제 | 허가사항 참조 (제조사: 주식회사큐엘파마) |
+| 201604248 | 나도가드정40밀리그램(나도롤) | 흰색의 장방형 정제 | 허가 적응증 텍스트가 기재되어 있지 않음 |
 
 ## 안전성 고려사항
 
-허가사항의 경고·금기 정보는 이번 데이터에 포함되지 않았습니다. 상세 내용은 허가사항을 참조하세요. 아래는 지식그래프와 상호작용 데이터베이스에서 확인된 정보입니다.
-
-- **지식그래프상 금기 관련 질환** (허가문서 기반이 아니라 모델 지식그래프 기준): 
-  - 호흡기·심장: 폐기종, 기관지 질환, 방실차단
-  - 대사·내분비: 당뇨병, 당뇨병성 케톤산증, 저칼륨혈증, 통풍, 고칼슘혈증, 부갑상선기능항진증
-  - 간·신장: 간질환, 간성혼수, 신장질환, 무뇨, 췌장염
-  - 신경근: 중증근무력증
-  - 기타: 전신홍반루푸스, 불안장애
-- **약물 상호작용**: 조회된 100건 중 일부를 확인했습니다.
-  - Major: Epinephrine
-  - Moderate: Hydrocortisone, Dexamethasone, Bupropion, Morphine, Cimetidine, Atropine, Canagliflozin, Dapagliflozin 등
-  - Minor: Acetylsalicylic acid, Clarithromycin, Magnesium oxide
-- **예측 질환별 유의점**:
-  - nadolol은 신장으로 배설되므로 신장 손상 시 용량 조절이 필요합니다.
-  - 비선택적 베타차단제는 폐질환 관련 폐고혈압 환자에서 기관지수축과 심박출량 저하를 악화시킬 수 있습니다.
+- **약물 상호작용**: 이번 보고서에 편집된 자료에서 총 100건의 상호작용이 확인되었으며, 그중 주요 항목은 다음과 같습니다.
+  - 주의 필요(Major): Epinephrine
+  - 중등도(Moderate): Hydrocortisone, Methscopolamine, Hyoscyamine, Bupropion, Triamcinolone, Morphine, Atropine, Dexamethasone, Betamethasone, Budesonide, Cimetidine, Canagliflozin, Dapagliflozin, Chlorpropamide 등
+  - 경미(Minor): Acetylsalicylic acid, Clarithromycin, Magnesium oxide
+- 허가사항의 경고 및 금기 정보는 이번 자료에 없으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 높지만(99.59%) 임상시험과 문헌이 전혀 없는 L5 단계입니다. 악성 고혈압에서 베타차단제 단독요법은 표준 치료와 맞지 않아, 현재로서는 진행을 뒷받침할 근거가 부족합니다.
+악성 고혈압성 신장질환에 대한 임상시험과 문헌이 전혀 없고 모델 예측 점수만 있어 근거 수준이 L5입니다. 인접 질환 항목과 점수가 동일하여 독립적인 신호로 보기도 어렵습니다.
 
 **진행하려면 필요한 것:**
-- 허가증 PDF에서 허가 적응증과 경고·금기 원문 확보 (안전성 선별의 선행 조건)
-- DrugBank 등에서 작용 기전(MOA) 데이터 보완
-- 신혈관성 및 악성 고혈압에서 베타차단제 사용에 관한 임상시험·문헌 추가 검색
-- 기존 고혈압 적응증과 이번 예측의 차별성 검토 (신규 재창출 신호인지, 기존 적응증의 하위 유형인지)
-- 신장 기능 저하, 폐질환 동반 환자에 대한 안전성 평가
+- 해당 질환에서 nadolol 또는 베타차단제를 직접 평가한 임상 및 전임상 연구
+- 허가사항(경고, 금기)의 확보 및 분석
+- 상세한 작용 기전(MOA) 데이터
+- 신장 기능 저하 환자에 대한 용량 및 안전성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

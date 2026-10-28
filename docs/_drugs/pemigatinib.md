@@ -4,17 +4,17 @@ title: Pemigatinib
 parent: 모델 예측만 (L5)
 nav_order: 587
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Pemigatinib: 예측 신규 적응증 다발성 내분비 종양 (multiple endocrine neoplasia) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 허가사항 링크만 수록됨)"
 monitor_inn: "Pemigatinib"
-predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "amyotrophic lateral sclerosis, susceptibility to", "axial spondylometaphyseal dysplasia"]
+predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
 ---
 
 # Pemigatinib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **다발성 내분비 종양(multiple endocrine neoplasia)**에 
 |------|------|
 | 기존 적응증 | 확인 불가 (허가증에 적응증 본문 대신 허가사항 링크만 수록됨) |
 | 예측 신규 적응증 | 다발성 내분비 종양 (multiple endocrine neoplasia) |
-| TxGNN 예측 점수 | 99.71% |
+| TxGNN 예측 점수 | 0.9971 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **다발성 내분비 종양(multiple endocrine neoplasia)**에 
 
 현재 상세한 작용 기전(MOA) 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 Pemigatinib은 FGFR1-3을 억제하는 키나아제 억제제입니다. FGF/FGFR 신호전달은 일부 내분비 종양에서 연구된 바 있어 생물학적으로 전혀 근거가 없지는 않습니다.
 
-그러나 이번에 수집된 자료에는 FGFR 억제와 다발성 내분비 종양을 직접 연결하는 임상시험이나 문헌이 없습니다. 기존 적응증과의 유사성 분석도 아직 진행되지 않았습니다. 높은 TxGNN 점수(99.71%)는 지식 그래프 기반 예측일 뿐, 효능의 증거로 해석해서는 안 됩니다.
+그러나 이번에 수집된 자료에는 FGFR 억제와 다발성 내분비 종양을 직접 연결하는 임상시험이나 문헌이 없습니다. 기존 적응증과의 유사성 분석도 아직 진행되지 않았습니다. 높은 TxGNN 점수(0.9971)는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거가 아니며, 효능의 증거로 해석해서는 안 됩니다.
 
 ## 한국 시판 정보
 

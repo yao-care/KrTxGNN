@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ketorolac
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 450
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Ketorolac: 예측 신규 적응증 두통 질환 (Headache Disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 원문(PDF 링크)으로만 확인되어 요약하지 못했습니다. 일반적으로 급성 통증의 단기 관리에 사용됩…"
@@ -14,7 +14,7 @@ predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigemin
 # Ketorolac
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L1** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigemin
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 허가증 원문(PDF 링크)으로만 확인되어 요약하지 못했습니다. 일반적으로 급성 통증의 단기 관리에 사용됩니다. |
 | 예측 신규 적응증 | 두통 질환 (Headache Disorder) |
-| TxGNN 예측 점수 | 99.43% |
+| TxGNN 예측 점수 | 0.9943 |
 | 근거 수준 | L1 (아래 유의사항 참조) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -131,7 +131,7 @@ RCT를 우선하고 이어서 체계적 문헌고찰과 가이드라인 순으�
 - 단독요법 효과와 병용요법 효과를 구분할 수 있는 근거 보완
 - 시험 결과 수치와 메타분석 결과를 포함한 상세 검토
 
-**참고:** 같은 약물의 다른 예측 적응증 중 "주사비 결막염"(TxGNN 99.40%)은 시험과 문헌이 없어 Hold, "삼차신경 자율신경성 두통"(99.39%)은 간접 근거만 있어 추가 연구가 필요한 질문 수준입니다.
+**참고:** 같은 약물의 다른 예측 적응증 중 "주사비 결막염"(TxGNN 0.9940)은 시험과 문헌이 없어 Hold, "삼차신경 자율신경성 두통"(0.9939)은 간접 근거만 있어 추가 연구가 필요한 질문 수준입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

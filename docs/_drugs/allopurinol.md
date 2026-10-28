@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Allopurinol: 예측 신규 적응증 간성 포르피린증 (Hepatic Porphyria) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없음"
 monitor_inn: "Allopurinol"
-predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
+predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
 ---
 
 # Allopurinol
@@ -46,9 +46,9 @@ Allopurinol은 잔틴 산화효소 억제제로, 한국에서 자이로릭정 �
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없음 |
 | 예측 신규 적응증 | 간성 포르피린증 (Hepatic Porphyria) |
-| TxGNN 예측 점수 | 99.95% |
-| 근거 수준 | L4 (전임상·기전 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9995 |
+| 근거 수준 | L5 (전임상·기전 수준) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -95,7 +95,7 @@ Allopurinol은 잔틴 산화효소 억제제로, 한국에서 자이로릭정 �
 **결정: Hold**
 
 **사유:**
-간성 포르피린증 예측은 TxGNN 점수가 높지만(99.95%) 임상시험이 없고, 문헌도 allopurinol을 직접 평가하지 않은 가설·동물 연구에 한정됩니다. 약물이 포르피린증을 악화시킬 수 있다는 점과, 지식그래프상 간 질환 금기 연결도 고려해야 합니다.
+간성 포르피린증 예측은 TxGNN 점수가 높지만(0.9995) 임상시험이 없고, 문헌도 allopurinol을 직접 평가하지 않은 가설·동물 연구에 한정됩니다. 약물이 포르피린증을 악화시킬 수 있다는 점과, 지식그래프상 간 질환 금기 연결도 고려해야 합니다.
 
 **진행하려면 필요한 것:**
 - 허가사항 원문(경고·금기·적응증)의 확보 및 분석

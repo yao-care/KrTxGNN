@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Etravirine
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 331
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Etravirine: 예측 신규 적응증 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L4). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 (HIV-1 감염 치료제로 알려져 있음)"
 monitor_inn: "ETRAVIRINE"
@@ -14,7 +14,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 # Etravirine
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **원숭이 면역결핍바이러스 감염(Simian Immunodeficie
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 (HIV-1 감염 치료제로 알려져 있음) |
 | 예측 신규 적응증 | 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) |
-| TxGNN 예측 점수 | 99.98% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9998 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 모델은 **원숭이 면역결핍바이러스 감염(Simian Immunodeficie
 
 SIV는 HIV와 밀접하게 관련된 렌티바이러스이므로 역전사효소를 표적으로 하는 기전상 연관성은 상정할 수 있습니다. 다만 SIV의 역전사효소는 일반적으로 NNRTI에 본질적으로 덜 민감한 것으로 알려져 있어, 이 연결은 그럴듯하지만 간접적인 수준입니다.
 
-또한 SIV 감염은 동물 모델 질환이어서, 기존 HIV-1 적응증을 넘어서는 인체 임상적 의미는 크지 않습니다. 높은 예측 점수는 HIV 관련 질환과의 지식 그래프상 유사성을 반영했을 가능성이 있습니다.
+또한 SIV 감염은 동물 모델 질환이어서, 기존 HIV-1 적응증을 넘어서는 인체 임상적 의미는 크지 않습니다. 높은 예측 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 있으며, 생물학적 근거는 아닙니다.
 
 ## 임상시험 근거
 
@@ -100,7 +100,7 @@ SIV는 HIV와 밀접하게 관련된 렌티바이러스이므로 역전사효소
 - 상세한 약물 작용 기전(MOA) 데이터
 - SIV에 대한 Etravirine의 활성을 직접 평가한 전임상 연구
 
-**참고:** 순위 4번 "AIDS 관련 복합증후군"과 5번 "선천성 HIV"는 근거 수준 L3로 상대적으로 근거가 있으나, 전자는 기존 HIV-1 적응증의 구식 용어에 해당하여 실질적 재창출이 아니며, 후자는 임신 중 사용 사례 보고 수준의 후향적 경험에 그칩니다. 나머지 예측(양성 종양류, 신경발달장애 등)은 기전적 근거와 임상 근거가 모두 없어 지식 그래프상의 인위적 결과일 가능성이 높습니다.
+**참고:** 나머지 예측(양성 종양류, 신경발달장애 등)은 기전적 근거와 임상 근거가 모두 없습니다. 이들의 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 높으며, 생물학적 근거는 아닙니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

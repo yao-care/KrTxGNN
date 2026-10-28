@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Ceftezole
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 197
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Ceftezole: 예측 신규 적응증 류마티스 관절염 (rheumatoid arthritis) (근거 수준 L5). 기존 적응증: 허가증에 구체적인 적응증 텍스트가 없고 허가사항 문서 링크만 제공됨 (1세대 세팔로스포린계 항생제)"
+description: "Ceftezole: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Ceftezole"
-predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Ceftezole
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,56 +35,16 @@ predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthriti
 
 </div>
 
-## Ceftezole: 세균 감염증에서 류마티스 관절염으로
+## Ceftezole
 {: .text-alpha }
-
-## 한 문장 요약
-
-Ceftezole은 1세대 세팔로스포린계 항생제로, 세균 세포벽 합성을 억제하는 주사제입니다. 한국에서는 수출용 주사제로 허가되어 있습니다.
-TxGNN 모델은 **류마티스 관절염(rheumatoid arthritis)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다. 모델 예측만 존재하는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 구체적인 적응증 텍스트가 없고 허가사항 문서 링크만 제공됨 (1세대 세팔로스포린계 항생제) |
-| 예측 신규 적응증 | 류마티스 관절염 (rheumatoid arthritis) |
-| TxGNN 예측 점수 | 98.39% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 (수출용 허가) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402995/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308077/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200102261/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402996/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ceftezole은 1세대 세팔로스포린계 항생제로, 세균 세포벽 합성을 억제하는 것으로 이해됩니다.
-
-류마티스 관절염은 자가면역성 염증 질환입니다. 이번에 정리한 데이터에는 Ceftezole의 항염증 또는 면역조절 작용이 확인된 바 없으며, 두 질환 사이의 기전적 연결고리도 확립되어 있지 않습니다. 0.984라는 높은 점수는 지식 그래프 기반 추론 결과일 뿐 실제 약리학적 근거는 아닙니다.
-
-참고로 TxGNN이 예측한 상위 10개 질환은 다음과 같습니다. 모두 임상시험과 문헌 근거가 없고(L5), 권고는 Hold입니다.
-
-| 순위 | 예측 질환 | 점수 | 비고 |
-|------|---------|------|------|
-| 1 | 류마티스 관절염 | 98.39% | 기전적 연결 없음 |
-| 2 | 골관절염 | 98.34% | 타당한 기전 근거 없음 |
-| 3 | 골관절염 감수성 | 98.17% | 유전적 감수성 표현형으로, 항생제의 치료 적응증이 아니며 골관절염 노드와 중복될 가능성 |
-| 4 | 통풍 | 97.75% | 요산 대사·염증 경로와의 연관 근거 없음 |
-| 5 | 가성연골무형성증 | 97.51% | COMP 변이 희귀 골격 이형성증 |
-| 6 | 헤모글로빈병증 | 97.43% | 글로빈 발현과의 연관 근거 없음 |
-| 7 | 안구결손 소안구증-근위지절 단축 이형성 증후군 | 97.41% | 초희귀 발달 증후군 |
-| 8 | 단지증(Brachyolmia) | 97.26% | 유전성 골격 이형성증 |
-| 9 | 말단중간부 이형성증, Hunter-Thompson형 | 97.12% | GDF5 경로 관련 희귀 유전질환 |
-| 10 | 근경화증(Myosclerosis) | 97.00% | 희귀 결합조직/근육 질환 |
-
-순위 5, 7~9는 골격 이형성증 노드 간 그래프 이웃 공유에서 비롯된 인공물일 가능성이 높습니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
@@ -99,19 +61,6 @@ TxGNN 모델은 **류마티스 관절염(rheumatoid arthritis)**에 효과가 �
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-류마티스 관절염 예측은 지식 그래프 추론에만 기반하며, 임상시험과 문헌 근거가 전혀 없고 기전적 연결도 확인되지 않았습니다. 또한 한국 허가가 수출용으로 한정되어 있고 안전성 데이터도 확인되지 않아 현 단계에서 진행하기 어렵습니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고, 금기 등) 확보 및 안전성 검토
-- 상세한 약물 작용 기전(MOA) 데이터 확보
-- Ceftezole과 류마티스 관절염 사이의 항염증·면역조절 기전에 대한 전임상 근거
-- 관련 임상시험 및 문헌 근거 탐색
-- 국내 내수용 투여 경로 및 제형의 적합성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

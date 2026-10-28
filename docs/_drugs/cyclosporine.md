@@ -6,7 +6,7 @@ nav_order: 242
 evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-15
-description: "Cyclosporine: 예측 신규 적응증 만성 육아종성 질환, 상염색체 열성 (Chronic Granulomatous Disease) (근거 수준 L4). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없습니다 (이식 면역억제 및 안과용…"
+description: "Cyclosporine: 예측 신규 적응증 만성 육아종성 질환, 상염색체 열성 (근거 수준 L4). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없습니다 (이식 면역억제 및 안과용…"
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "
 
 </div>
 
-## Cyclosporine: 장기이식 거부반응 억제에서 만성 육아종성 질환으로
+## Cyclosporine: 만성 육아종성 질환, 상염색체 열성
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **만성 육아종성 질환, 상염색체 열성(Chronic Granul
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없습니다 (이식 면역억제 및 안과용 점안제 제형이 시판 중) |
 | 예측 신규 적응증 | 만성 육아종성 질환, 상염색체 열성 (Chronic Granulomatous Disease) |
-| TxGNN 예측 점수 | 99.68% |
+| TxGNN 예측 점수 | 0.9968 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -59,18 +59,18 @@ TxGNN 모델은 **만성 육아종성 질환, 상염색체 열성(Chronic Granul
 
 CGD에서의 역할은 제한적입니다. 이 약은 CGD의 근본 결함인 NADPH 산화효소 이상을 치료하지 못합니다. 다만 CGD의 근치적 치료인 조혈모세포이식에서 이식편대숙주병(GVHD) 예방 요법의 일부로 사용될 수 있습니다.
 
-따라서 높은 예측 점수는 직접적인 치료 기전보다 지식 그래프 상의 네트워크 근접성에서 비롯된 것으로 보이며, 기전상 타당성은 낮은 편입니다.
+따라서 높은 예측 점수는 직접적인 치료 기전보다 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다. 기전상 타당성은 낮은 편입니다.
 
 참고로 이 약물의 다른 예측 후보(순위 2~7)는 다음과 같습니다.
 
 | 순위 | 질환 | 점수 | 근거 수준 | 비고 |
 |------|------|------|----------|------|
-| 2 | 뇌동맥류 | 99.50% | L3 | 거미막하출혈 후 혈관연축 예방에 관한 오래된 소규모 임상 보고가 있으나, T세포 기능이 동맥류 형성에 불필요하다는 전임상 연구가 기전적 근거를 약화시킴 |
-| 3 | 안구결손 소안구증-근위지단 이형성 증후군 | 99.39% | L5 | 기전적 연관성 없음 |
-| 4 | 선천성 어린선양 홍피증 | 99.38% | L5 | 염증성 피부질환과 느슨한 개념적 연관만 존재 |
-| 5 | 태아 적아세포증 | 99.37% | L5 | 임신·신생아 사용 안전성 우려 |
-| 6 | 합지증-단지증 증후군 | 99.31% | L5 | 기전적 연관성 없음 |
-| 7 | 눈물샘 탈출 | 99.08% | L5 | 구조적 질환으로 수술적 치료 대상 |
+| 2 | 뇌동맥류 | 0.9950 | L5 | 거미막하출혈 후 혈관연축 예방에 관한 오래된 소규모 임상 보고가 있으나, T세포 기능이 동맥류 형성에 불필요하다는 전임상 연구가 기전적 근거를 약화시킴 |
+| 3 | 안구결손 소안구증-근위지단 이형성 증후군 | 0.9939 | L5 | 기전적 연관성 없음 |
+| 4 | 선천성 어린선양 홍피증 | 0.9938 | L5 | 염증성 피부질환과 느슨한 개념적 연관만 존재 |
+| 5 | 태아 적아세포증 | 0.9937 | L5 | 임신·신생아 사용 안전성 우려 |
+| 6 | 합지증-단지증 증후군 | 0.9931 | L5 | 기전적 연관성 없음 |
+| 7 | 눈물샘 탈출 | 0.9908 | L5 | 구조적 질환으로 수술적 치료 대상 |
 
 ## 문헌 근거
 

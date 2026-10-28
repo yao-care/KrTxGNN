@@ -4,7 +4,7 @@ title: Cemiplimab
 parent: 모델 예측만 (L5)
 nav_order: 200
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Cemiplimab: 예측 신규 적응증 담낭 선편평상피암 (gallbladder adenosquamous carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 있어 본문을 확인할 수 없습니다. 참고로 약리학 자료에는 피부 편평…"
 monitor_inn: "Cemiplimab"
@@ -14,7 +14,7 @@ predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogen
 # Cemiplimab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Cemiplimab은 항 PD-1 항체로, 한국에서는 리브타요주로 허가되�
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 있어 본문을 확인할 수 없습니다. 참고로 약리학 자료에는 피부 편평세포암(CSCC)과 비소세포폐암이 기재되어 있습니다. |
 | 예측 신규 적응증 | 담낭 선편평상피암 (gallbladder adenosquamous carcinoma) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Cemiplimab은 항 PD-1 항체로, 한국에서는 리브타요주로 허가되�
 
 현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 약리학 자료에 따르면 cemiplimab은 사람 PD-1(PDCD1, CD279)에 결합하는 항체로, PD-1/PD-L1 상호작용을 차단합니다(ELISA에서 IC50 1 nM 미만). 이 차단으로 종양에 대한 T세포 면역 반응이 회복될 수 있습니다.
 
-담낭 선편평상피암은 편평세포 성분을 포함하는 종양입니다. 이 편평세포 성분이 PD-L1을 발현할 가능성이 있어, 피부 편평세포암에서 입증된 효능과 연결 지을 수 있습니다. 그러나 이는 TxGNN 지식 그래프 예측에서 추론한 가설일 뿐, 이 적응증에서 PD-L1 발현이나 반응을 확인한 자료는 없습니다.
+담낭 선편평상피암은 편평세포 성분을 포함하는 종양입니다. 이 편평세포 성분이 PD-L1을 발현할 가능성이 있어, 피부 편평세포암에서 입증된 효능과 연결 지을 수 있습니다. 그러나 이 예측은 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 이 적응증에서 PD-L1 발현이나 반응을 확인한 자료는 없습니다.
 
 ## 한국 시판 정보
 

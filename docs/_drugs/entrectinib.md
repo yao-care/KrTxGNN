@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Entrectinib
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 312
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Entrectinib: 예측 신규 적응증 다발성 내분비 종양증 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 텍스트로 포함되어 있지 않습니다. 허가사항(MFDS 허가증)을 확인해야 합니다"
-monitor_inn: "Entrectinib"
-predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "thrombocytopenia", "cytomegalovirus infection", "pulmonary hypertension", "marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "female breast carcinoma", "transient neonatal thrombocytopenia", "infectious bovine rhinotracheitis"]
+last_modified_at: 2026-10-23
+description: "Entrectinib: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Entrectinib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,53 +32,45 @@ predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", 
 
 </div>
 
-## Entrectinib: NTRK/ROS1 양성 고형암에서 다발성 내분비 종양증으로
+<!-- known-uses-page -->
+<!-- description: Entrectinib: 대한민국의 기존 용도 및 시장 현황. 현재 새로운 후보 적응증 없음 -->
+## Entrectinib
 {: .text-alpha }
 
-## 한 문장 요약
+## 요약
+TxGNN 모델은 Entrectinib에 대해 점수 0.99 이상인 후보 적응증을 내놓지 않았으므로, 현재 새롭게 예측된 적응증은 없습니다. 아래에는 이 약물에 기록된 기존 용도를 정리했습니다.
 
-Entrectinib은 TRK, ROS1, ALK를 억제하는 표적항암제로, 한국에서 로슈의 로즐리트렉캡슐로 시판되고 있습니다.
-TxGNN 모델은 **다발성 내분비 종양증(Multiple Endocrine Neoplasia)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 근거는 조기 종료된 **임상시험 1건**과 **간접적인 문헌 1편**뿐입니다.
-따라서 현재는 실제 효능 근거가 아니라 연구 가설 수준입니다.
-
-## 빠른 개요
-
+## 한눈에 보기
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 이번 데이터에 텍스트로 포함되어 있지 않습니다. 허가사항(MFDS 허가증)을 확인해야 합니다. |
-| 예측 신규 적응증 | 다발성 내분비 종양증 (Multiple Endocrine Neoplasia) |
-| TxGNN 예측 점수 | 98.58% |
-| 근거 수준 | L4 (기전·전임상 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 2건 |
-| 권장 결정 | Hold (연구 질문 단계) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 새로운 예측 적응증 | 없음 (점수 0.99 이상인 모델 후보 없음) |
+| 이 약물에 기록된 기존 용도 | 1 |
+| 대한민국 내 시장 현황 | Unknown (source lacks cancellation status) |
 
-## 이 예측이 타당한 이유는?
+## 이 약물에 기록된 기존 용도
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Entrectinib은 TRK A/B/C, ROS1, ALK를 억제하는 키나제 억제제이며, RET 신호전달에도 일부 활성이 있는 것으로 보입니다.
+### 승인됨 (허가 또는 라벨로 뒷받침)
+| 적응증 | 출처 |
+|------|------|
+| 비소세포폐암 (non-small-cell lung carcinoma) | 다른 국가의 허가 |
 
-다발성 내분비 종양증 2형(MEN2)은 RET 유전자의 활성화 생식세포 변이로 발생하며, 수질성 갑상선암과 갈색세포종이 대표적입니다. RET 신호를 일부 억제한다는 점에서 생물학적으로 그럴듯한 연결고리는 있습니다.
+### 승인된 적응증과 관련됨 (동일 질환 범주)
+| 적응증 | 승인된 범주 |
+|------|------|
+| 없음 | 없음 |
 
-그러나 이 질환에는 selpercatinib, pralsetinib 같은 선택적 RET 억제제가 훨씬 적합합니다. 확인된 문헌도 Entrectinib의 효능이 아니라 선택적 RET 억제제에 대한 내성 기전을 다룬 연구입니다. 따라서 기전적 타당성은 제한적입니다.
-
-## 임상시험 근거
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT03878524](https://clinicaltrials.gov/study/NCT03878524) | Phase 1 | 조기 종료 | 2 | 환자 종양 샘플로 효과적인 약물 조합을 찾는 정밀종양학 플랫폼 시험(SMMART PRIME). MEN이나 Entrectinib에 특화되지 않았고 해석 가능한 효능 데이터가 없습니다. |
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [38438731](https://pubmed.ncbi.nlm.nih.gov/38438731/) | 2024 | 전임상/기전 연구 | NPJ Precision Oncology | RET 변이 수질성 갑상선암 환자에서 selpercatinib 사용 후 나타난 내성 기전을 분석한 연구로, Entrectinib의 효능과는 직접 관련이 없습니다. |
+### 지식 그래프에 기록된 관계 (승인 근거 없음)
+| 적응증 |
+|------|
+| 없음 |
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202002807 | 로즐리트렉캡슐100밀리그램(엔트렉티닙) | 경질캡슐 (황색) | 허가증 원문 참조 |
-| 202002808 | 로즐리트렉캡슐200밀리그램(엔트렉티닙) | 경질캡슐 (주황색) | 허가증 원문 참조 |
+| 허가번호 | 제품명 | 제형 | 상태 |
+|------|------|------|------|
+| 202002807 | Rozlytrek capsule 100mg (Entrectinib) | 흰색-황백색-연분홍 또는 연주황 가루 또는 덩어리진 가루가 든 불투명한  | 유효 |
+| 202002808 | Rozlytrek capsule 200mg (Entrectinib) | 흰색-황백색-연분홍 또는 연주황 가루 또는 덩어리진 가루가 든 불투명한  | 유효 |
 
 ## 세포독성
 
@@ -101,26 +92,6 @@ TxGNN 모델은 **다발성 내분비 종양증(Multiple Endocrine Neoplasia)**�
 
 경고 및 금기 사항은 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-다발성 내분비 종양증에 대한 근거는 2명만 등록 후 종료된 비특이적 Phase 1 시험 1건과 간접적인 전임상 문헌 1편뿐입니다. 더 적합한 선택적 RET 억제제가 이미 존재하므로, 현재로서는 연구 질문 단계로 두는 것이 타당합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고·금기·허가 적응증) 원문 확보 및 분석
-- 상세한 약물 작용 기전(MOA) 데이터, 특히 RET 억제 활성의 정량 자료
-- RET 변이 MEN2/수질성 갑상선암에서 Entrectinib의 전임상 또는 임상 효능 근거
-- 선택적 RET 억제제 대비 Entrectinib의 차별점(예: 중추신경계 침투성) 검토
-
----
-
-**참고: 다른 예측 적응증 요약**
-
-- **여성 유방암** (점수 97.76%, L2): 유일하게 실질적 근거가 있으나, NTRK 융합 양성 아형(예: 분비성 암종)에 국한됩니다. 이미 종양 비특이적 허가 범위에 포함되는 부분이 커서 진정한 재창출로 보기 어렵습니다. 근거로는 Phase 2 바스켓 시험 NCT02568267(534명)이 있으며, 권장 결정은 Proceed with Guardrails입니다.
-- **혈소판감소증, 폐고혈압**: 근거가 치료 효과가 아닌 이상반응·합병증 신호에 해당하여 Hold입니다.
-- **무월경, 거대세포바이러스 감염, 소 전염성 비기관염 등**: 근거와 기전이 없는 모델 예측뿐이며, 소 전염성 비기관염은 수의학 질환이므로 인체 재창출 대상에서 제외해야 합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

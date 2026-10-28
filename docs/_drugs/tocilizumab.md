@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tocilizumab
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 741
-evidence_level: L5
-indication_count: 10
+evidence_level: L3
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Tocilizumab: 예측 신규 적응증 강직성 척추염 (Ankylosing Spondylitis) (근거 수준 L5). 기존 적응증: 류마티스 관절염 등 (문헌 기준, 한국 허가 적응증 원문은 허가사항 링크로만 제공되어 확인 필요)"
 monitor_inn: "TOCILIZUMAB"
-predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "spondyloarthropathy, susceptibility to", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
+predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 ---
 
 # Tocilizumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L3** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **강직성 척추염(Ankylosing Spondylitis)**에 효과가 있
 |------|------|
 | 기존 적응증 | 류마티스 관절염 등 (문헌 기준, 한국 허가 적응증 원문은 허가사항 링크로만 제공되어 확인 필요) |
 | 예측 신규 적응증 | 강직성 척추염 (Ankylosing Spondylitis) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L3 (완료된 Phase 3 RCT 없음. 조기 종료된 RCT와 체계적 문헌고찰 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 (모두 유효) |
 | 권장 결정 | Hold |
 

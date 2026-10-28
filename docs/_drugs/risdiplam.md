@@ -4,17 +4,17 @@ title: Risdiplam
 parent: 모델 예측만 (L5)
 nav_order: 658
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Risdiplam: 예측 신규 적응증 여드름 (acne) (근거 수준 L5). 기존 적응증: 척수성 근위축증(SMA). 허가 적응증 원문은 허가 문서 링크로만 제공되어 세부 문구는 확인하지 못했습니다"
 monitor_inn: "Risdiplam"
-predicted_indications: ["acne (disease)", "drug-induced osteoporosis", "zinc, elevated plasma", "common wart", "metastatic melanoma", "dermatitis", "non-cutaneous melanoma", "acrodermatitis chronica atrophicans", "epithelioid cell melanoma", "eyelid melanoma"]
+predicted_indications: ["acne (disease)"]
 ---
 
 # Risdiplam
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acne (disease)", "drug-induced osteoporosis", "zinc, el
 
 </div>
 
-## Risdiplam: 척수성 근위축증에서 여드름으로
+## Risdiplam: 척수성 근위축증에서 여드름 (Acne)으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 |------|------|
 | 기존 적응증 | 척수성 근위축증(SMA). 허가 적응증 원문은 허가 문서 링크로만 제공되어 세부 문구는 확인하지 못했습니다. |
 | 예측 신규 적응증 | 여드름 (acne) |
-| TxGNN 예측 점수 | 99.45% |
+| TxGNN 예측 점수 | 0.9945 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
@@ -57,9 +57,8 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 risdiplam은 SMN2 exon 7 포함을 촉진하는 스플라이싱 조절제로, SMA에서 SMN 단백질 발현을 늘리는 약물입니다.
 
-SMA는 신경근 질환이고 여드름은 피지선·모낭의 염증성 피부질환이어서 두 질환 사이에 뚜렷한 기전적 연결고리가 확인되지 않습니다. 이번 점수는 지식 그래프 기반의 계산적 예측일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌이 없어 기전적 타당성을 검증할 수 없습니다.
+SMA는 신경근 질환이고 여드름은 피지선·모낭의 염증성 피부질환이어서 두 질환 사이에 뚜렷한 기전적 연결고리가 확인되지 않습니다. 이번 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 모델이 학습한 관련 질환 간 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. 이를 뒷받침하는 임상시험이나 문헌이 없어 기전적 타당성을 검증할 수 없습니다.
 
-참고로 같은 모델이 예측한 다른 후보(약물 유발 골다공증, 흑색종 계열, 사마귀, 피부염 등)도 모두 L5이며 Hold 판정입니다. 특히 피부염의 경우 risdiplam 안전성 프로파일에 발진 등 피부 관련 이상반응이 있어, 치료 효과에 반하는 방향으로 해석될 수 있습니다.
 
 ## 한국 시판 정보
 
@@ -83,7 +82,7 @@ SMA는 신경근 질환이고 여드름은 피지선·모낭의 염증성 피부
 **결정: Hold**
 
 **사유:**
-여드름 예측은 TxGNN 점수(99.45%)가 높지만 임상시험과 문헌이 전혀 없고 기전적 연결고리도 불분명한 L5 단계입니다. 현 시점에서는 재창출 개발을 진행할 근거가 부족합니다.
+여드름 예측은 TxGNN 점수(0.9945)가 높지만 임상시험과 문헌이 전혀 없고 기전적 연결고리도 불분명한 L5 단계입니다. 현 시점에서는 재창출 개발을 진행할 근거가 부족합니다.
 
 **진행하려면 필요한 것:**
 - 허가사항(MFDS 첨부문서)의 경고·금기 정보 확보 및 안전성 검토

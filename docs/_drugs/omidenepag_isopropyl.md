@@ -4,17 +4,17 @@ title: Omidenepag Isopropyl
 parent: 모델 예측만 (L5)
 nav_order: 565
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Omidenepag Isopropyl: 예측 신규 적응증 췌장염 (Pancreatitis) (근거 수준 L5). 기존 적응증: 녹내장 및 고안압증 (허가 문서 링크만 제공되어 있어 허가 정보와 약물 분류에 근거해 기재)"
 monitor_inn: "Omidenepag isopropyl"
-predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy", "lipase deficiency, combined", "varicose disease", "hiatus hernia (disease)"]
+predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
 ---
 
 # Omidenepag Isopropyl
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **췌장염(Pancreatitis)**에 효과가 있을 수 있다고 �
 |------|------|
 | 기존 적응증 | 녹내장 및 고안압증 (허가 문서 링크만 제공되어 있어 허가 정보와 약물 분류에 근거해 기재) |
 | 예측 신규 적응증 | 췌장염 (Pancreatitis) |
-| TxGNN 예측 점수 | 99.76% |
+| TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -78,7 +78,7 @@ EP2 신호전달은 염증 반응에 관여하는 것으로 알려져 있으나,
 **결정: Hold**
 
 **사유:**
-췌장염 예측은 모델 점수(99.76%)만 있고 임상시험과 문헌 근거가 전혀 없으며, EP2 작용제와 췌장 질환을 잇는 기전적 근거도 확인되지 않습니다. 점안 투여로 인한 낮은 전신 노출도 신규 적응증 가능성을 더욱 제한합니다.
+췌장염 예측은 모델 점수(0.9976)만 있고 임상시험과 문헌 근거가 전혀 없으며, EP2 작용제와 췌장 질환을 잇는 기전적 근거도 확인되지 않습니다. 점안 투여로 인한 낮은 전신 노출도 신규 적응증 가능성을 더욱 제한합니다.
 
 **진행하려면 필요한 것:**
 - 허가사항(경고, 금기, 허가 적응증 본문) 확보

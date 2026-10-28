@@ -4,7 +4,7 @@ title: Fimasartan
 parent: 모델 예측만 (L5)
 nav_order: 348
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Fimasartan: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (pulmonary hypertension owing to lung disease… (근거 수준 L5). 기존 적응증: 고혈압 (허가 적응증 원문은 허가증 링크로만 제공되어 세부 문구는 확인되지 않음)"
 monitor_inn: "fimasartan"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 # Fimasartan
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **4** 건
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-## Fimasartan: 고혈압에서 폐고혈압으로
+## Fimasartan: 폐질환 및/또는 저산소증에 의한 폐고혈압
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압(pulmo
 |------|------|
 | 기존 적응증 | 고혈압 (허가 적응증 원문은 허가증 링크로만 제공되어 세부 문구는 확인되지 않음) |
 | 예측 신규 적응증 | 폐질환 및/또는 저산소증에 의한 폐고혈압 (pulmonary hypertension owing to lung disease and/or hypoxia) |
-| TxGNN 예측 점수 | 99.20% |
-| 근거 수준 | L4 (전임상·간접 근거만 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9920 |
+| 근거 수준 | L5 (전임상·간접 근거만 존재) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -94,7 +94,7 @@ TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압(pulmo
 **결정: Hold**
 
 **사유:**
-폐고혈압에 대한 예측은 TxGNN 점수(99.20%)와 기전적 타당성에 의존하며, 직접적인 임상시험이나 문헌이 없습니다. 유일한 문헌은 심근 허혈/재관류 손상 동물 연구로 간접 근거에 불과합니다.
+폐고혈압에 대한 예측은 TxGNN 점수(0.9920)와 기전적 타당성에 의존하며, 직접적인 임상시험이나 문헌이 없습니다. 유일한 문헌은 심근 허혈/재관류 손상 동물 연구로 간접 근거에 불과합니다.
 
 **진행하려면 필요한 것:**
 - 허가증 원문(MFDS 허가사항)에서 경고·금기 정보를 확보하여 안전성 1차 평가 수행

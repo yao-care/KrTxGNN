@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Trastuzumab
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 754
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
-description: "Trastuzumab: 예측 신규 적응증 프로게스테론 수용체 양성 유방암 (progesterone-receptor positive breast cancer) (근거 수준 L1). 기존 적응증: 한국 허가증 8건에 허가 적응증이 PDF 링크 형태로만 제공되어 본문 확인 불가 (HER2 양성 유방암이 표준 사용 영역)"
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
+description: "Trastuzumab: 예측 신규 적응증 Malignant cutaneous granular cell skin tumor (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302082/EE"
 ---
 
 # Trastuzumab
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomes
 
 </div>
 
-## Trastuzumab: 유방암(HER2 양성)에서 프로게스테론 수용체 양성 유방암으로
+## Trastuzumab: Malignant cutaneous granular cell skin tumor
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Trastuzumab은 HER2를 표적으로 하는 단클론항체로, 원래 HER2 양성 유방암 치료에 사용되어 왔습니다.
-TxGNN 모델은 **프로게스테론 수용체 양성 유방암(progesterone-receptor positive breast cancer)**에 효과가 있을 수 있다고 예측하며, 현재 **14건의 임상시험**과 **20편의 문헌**이 이 방향과 관련되어 있습니다.
 다만 이 적응증은 이미 승인된 HER2 양성 유방암 중 수용체 특성으로 구분한 하위 집단이어서, 엄밀한 의미의 재창출은 아닙니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 한국 허가증 8건에 허가 적응증이 PDF 링크 형태로만 제공되어 본문 확인 불가 (HER2 양성 유방암이 표준 사용 영역) |
-| 예측 신규 적응증 | 프로게스테론 수용체 양성 유방암 (progesterone-receptor positive breast cancer) |
-| TxGNN 예측 점수 | 99.90% |
-| 근거 수준 | L1 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302082/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302083/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707851/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400158/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400159/EE;  |
+| 예측 신규 적응증 | Malignant cutaneous granular cell skin tumor |
+| TxGNN 예측 점수 | 0.9948 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 8건 |
 | 권장 결정 | Proceed with Guardrails |
 
@@ -144,11 +143,6 @@ Trastuzumab은 세포독성 화학요법제가 아닌 HER2 표적 단클론항�
 
 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 권장 |
 |---|---|---|---|
-| 프로게스테론 수용체 음성 유방암 | 99.90% | L1 | Proceed with Guardrails (HER2 양성 확진 시에만, 삼중음성은 제외) |
-| 루미널 A/B 유방 종양 | 99.90% | L1 | Proceed with Guardrails (HER2 양성 luminal B에 한정) |
-| 정상 유방 유사형 유방암종 | 99.90% | L4 | Hold (기전적 근거 불명확) |
-| 악성 피부 과립세포 종양, 외배엽중간엽종, HHV-8 관련 종양, 중이 신경내분비 종양 | 99.4~99.5% | L5 | Hold (모델 예측만 존재) |
-| 신우 육종양 이행세포암, 전립선 요도 요로상피암 | 99.0% | L5 | Hold (요로상피암의 HER2 과발현 가능성은 있으나 근거 없음) |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

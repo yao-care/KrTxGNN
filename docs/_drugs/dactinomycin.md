@@ -4,17 +4,17 @@ title: Dactinomycin
 parent: 모델 예측만 (L5)
 nav_order: 247
 evidence_level: L5
-indication_count: 9
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Dactinomycin: 예측 신규 적응증 재발-완화형 다발성 경화증 (Relapsing-Remitting Multiple Sclerosis) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되어 구체적인 적응증 문구는 확인되지 않음 (허가사항 참조)"
 monitor_inn: "DACTINOMYCIN"
-predicted_indications: ["relapsing-remitting multiple sclerosis", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "extrahepatic bile duct rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
+predicted_indications: ["relapsing-remitting multiple sclerosis", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
 ---
 
 # Dactinomycin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **재발-완화형 다발성 경화증(Relapsing-Remitting Multi
 |------|------|
 | 기존 적응증 | 허가 문서 링크만 확인되어 구체적인 적응증 문구는 확인되지 않음 (허가사항 참조) |
 | 예측 신규 적응증 | 재발-완화형 다발성 경화증 (Relapsing-Remitting Multiple Sclerosis) |
-| TxGNN 예측 점수 | 99.58% |
+| TxGNN 예측 점수 | 0.9958 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **재발-완화형 다발성 경화증(Relapsing-Remitting Multi
 
 현재 이 보고서를 위해 수집한 자료에는 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바에 따르면 Dactinomycin은 DNA 삽입(intercalation)을 통해 전사를 억제하는 세포독성 항종양제입니다. 빠르게 분열하는 종양세포를 겨냥하는 약이며, 골수억제와 간독성 같은 전신 독성이 뚜렷합니다.
 
-다발성 경화증은 면역 매개 중추신경계 탈수초 질환입니다. 이 약의 기존 적응증인 종양 치료와는 질환 특성이 크게 다릅니다. 현재 자료에서는 두 질환을 잇는 기전적 연결고리를 뒷받침할 근거가 없습니다. 0.996이라는 높은 예측 점수는 지식그래프 기반의 계산 결과일 뿐입니다. 임상시험과 문헌 근거가 전혀 없으므로 약리학적 타당성을 별도로 검증해야 합니다.
+다발성 경화증은 면역 매개 중추신경계 탈수초 질환입니다. 이 약의 기존 적응증인 종양 치료와는 질환 특성이 크게 다릅니다. 현재 자료에서는 두 질환을 잇는 기전적 연결고리를 뒷받침할 근거가 없습니다. 0.9958이라는 높은 예측 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. 임상시험과 문헌 근거가 전혀 없으므로 약리학적 타당성을 별도로 검증해야 합니다.
 
 참고로 같은 모델이 예측한 다른 후보 중에는 횡문근육종(rhabdomyosarcoma) 계열 질환이 여럿 있습니다. Dactinomycin은 이들 질환의 표준 복합 화학요법(VAC/VA)에 포함되는 약입니다. 다발성 경화증보다 기전적 타당성이 훨씬 높습니다.
 

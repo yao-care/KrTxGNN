@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Oxcarbazepine
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 568
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Oxcarbazepine: 예측 신규 적응증 시각 뇌전증 (Visual Epilepsy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 정보가 URL 링크로만 제공되어 본문을 확인할 수 없음. 문헌상 부분 발작 및 이차성 전신 발작에…"
+evidence_level: L4
+indication_count: 1
 monitor_inn: "OXCARBAZEPINE"
 predicted_indications: ["restless legs syndrome"]
+last_modified_at: 2026-10-27
+description: "Oxcarbazepine: 예측 신규 적응증 하지불안 증후군 (restless legs syndrome) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008778/EE"
 ---
 
 # Oxcarbazepine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,31 @@ predicted_indications: ["restless legs syndrome"]
 
 </div>
 
-## Oxcarbazepine: 부분 발작(뇌전증)에서 시각 뇌전증으로
+## Oxcarbazepine: 나트륨 채널 차단 항경련제 → 하지불안 증후군 (restless legs syndrome)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Oxcarbazepine은 한국에서 이미 시판 중인 항경련제로, 원래 뇌전증 치료에 사용되어 왔습니다.
-TxGNN 모델은 **시각 뇌전증(visual epilepsy)**에 효과가 있을 수 있다고 예측하지만, 현재 **등록된 임상시험은 0건**이며 **일반적인 항경련제 문헌 16편**만 간접적으로 관련되어 있습니다.
-따라서 이 예측은 모델 예측에 기전적 개연성이 더해진 수준의 가설 단계입니다.
+Oxcarbazepine은 나트륨 채널을 차단하여 신경 흥분성을 조절하는 항경련제 계열의 약물입니다.
+TxGNN 모델은 **하지불안 증후군(restless legs syndrome)**에 효과가 있을 수 있다고 예측하며, 현재 등록된 임상시험은 없고 **4편의 문헌**(증례 보고 2편, 리뷰 2편)이 관련되어 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 정보가 URL 링크로만 제공되어 본문을 확인할 수 없음. 문헌상 부분 발작 및 이차성 전신 발작에 사용) |
-| 예측 신규 적응증 | 시각 뇌전증 (Visual Epilepsy) |
-| TxGNN 예측 점수 | 99.95% |
-| 근거 수준 | L4 (전임상·기전 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 8건 (모두 유효, 단일제) |
-| 권장 결정 | Hold (추가 연구 질문으로 유지) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008778/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008777/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309501/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403783/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008776/EE;  |
+| 예측 신규 적응증 | 하지불안 증후군 (restless legs syndrome) |
+| TxGNN 예측 점수 | 0.9989 |
+| 근거 수준 | L4 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 8건 (모두 단일 성분 제제, 유효) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 알려진 정보에 따르면, oxcarbazepine은 활성 대사체(MHD)를 통해 전압 의존성 나트륨 채널을 차단하여 과흥분된 신경세포막을 안정화합니다. 이미 부분 발작 치료에 승인된 약물입니다.
+현재 상세한 작용 기전 데이터는 확보되어 있지 않습니다. 다만 oxcarbazepine은 나트륨 채널 차단을 통해 신경 흥분성과 감각-운동 회로를 조절하는 것으로 알려진 항경련제이며, 하지불안 증후군에 쓰이는 다른 항경련제(가바펜티노이드, carbamazepine 등)와 기전상 유사한 점이 있습니다.
 
-시각 자극으로 유발되는 발작(광과민성 또는 시각 유발 국소 발작)은 새로운 질환 기전이라기보다 발작 하위 유형에 가깝습니다. 그래서 기존 적응증과 신규 적응증 사이의 연관성은 비교적 높습니다.
-
-다만 수집된 문헌은 일반적인 항경련제 리뷰와 가이드라인이며, 시각 유발 발작만을 다룬 연구는 없습니다. 이 예측은 직접 근거가 아닌 기전적 추론에 기반합니다.
+직접적인 근거는 증례 보고에 한정됩니다. 3례의 하지불안 증후군을 oxcarbazepine으로 치료한 보고(PMID 19483488)와 paroxetine 유발 하지불안 증후군에 대한 치료 보고(PMID 16675374)가 있습니다. 또한 한 리뷰 논문에서 잘 알려지지 않은 하지불안 증후군 치료제 중 하나로 언급되었습니다. 대조 임상시험은 없어 증례 보고만으로 효능을 확립할 수 없습니다.
 
 ## 임상시험 근거
 
@@ -70,58 +67,43 @@ TxGNN 모델은 **시각 뇌전증(visual epilepsy)**에 효과가 있을 수 �
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [35380580](https://pubmed.ncbi.nlm.nih.gov/35380580/) | 2022 | Review | JAMA | 성인 뇌전증에서 항경련제의 효과와 부작용 최소화에 관한 종설 |
-| [39899099](https://pubmed.ncbi.nlm.nih.gov/39899099/) | 2025 | Review | Continuum | 항경련제별 약동학 특성, 적응증, 사용법 업데이트 |
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Guideline | Neurology | 신규 발병 뇌전증에서 신세대 항경련제의 효능·내약성 가이드라인 |
-| [11772334](https://pubmed.ncbi.nlm.nih.gov/11772334/) | 2002 | Review | Expert Opin Pharmacother | 부분 발작 보조·단독요법에서의 효능, 삼차신경통·양극성 장애에서의 초기 결과 |
-| [33334546](https://pubmed.ncbi.nlm.nih.gov/33334546/) | 2020 | 종설 | Seizure | 뇌전증 관리에서 carbamazepine 및 oxcarbazepine의 현재 역할 |
-| [17560495](https://pubmed.ncbi.nlm.nih.gov/17560495/) | 2007 | 종설 | Pediatr Neurol | 항경련제와 시기능의 관계 (시각 부작용 중심) |
-| [35431799](https://pubmed.ncbi.nlm.nih.gov/35431799/) | 2022 | Review | Front Mol Neurosci | SCN2A 관련 뇌전증 72명의 표현형, 치료, 예후 |
-
-시각 뇌전증에 특화된 연구는 확인되지 않았습니다.
+| [19483488](https://pubmed.ncbi.nlm.nih.gov/19483488/) | 2009 | Case report | Clin Neuropharmacol | 하지불안 증후군 3례를 oxcarbazepine으로 성공적으로 치료 |
+| [16675374](https://pubmed.ncbi.nlm.nih.gov/16675374/) | 2006 | Case report | Gen Hosp Psychiatry | paroxetine 유발 하지불안 증후군에 oxcarbazepine 치료 보고 |
+| [36873914](https://pubmed.ncbi.nlm.nih.gov/36873914/) | 2023 | Review | Tremor Other Hyperkinet Mov | 잘 알려지지 않은 하지불안 증후군 치료 약물에 대한 서술적 리뷰 |
+| [26369919](https://pubmed.ncbi.nlm.nih.gov/26369919/) | 2015 | Review | CNS Drugs | 2세대 항경련제의 서방형 제제에 관한 약동학·임상 리뷰 (하지불안 증후군에 대한 직접 근거는 제한적) |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 200008778 | 트리렙탈필름코팅정 600mg | 필름코팅정 | 허가 문서 링크로만 제공됨 |
-| 200008777 | 트리렙탈필름코팅정 300mg | 필름코팅정 | 허가 문서 링크로만 제공됨 |
-| 200008776 | 트리렙탈필름코팅정 150mg | 필름코팅정 | 허가 문서 링크로만 제공됨 |
-| 200611514 | 트리렙탈현탁액 6% | 현탁액 | 허가 문서 링크로만 제공됨 |
-| 201309501 | 옥사제핀정 300mg | 필름코팅정 | 허가 문서 링크로만 제공됨 |
-
-이 밖에 유니렙시정(200403783), 옥사제핀정 150mg(201405474), 옥사제핀정 600mg(201604015)이 있어 총 8건이 유효합니다.
+| 200008778 | 트리렙탈필름코팅정600밀리그램 | 필름코팅정 | 허가 적응증 텍스트 없음 |
+| 200008777 | 트리렙탈필름코팅정300밀리그램 | 필름코팅정 | 허가 적응증 텍스트 없음 |
+| 201309501 | 옥사제핀정300밀리그램 | 필름코팅정 | 허가 적응증 텍스트 없음 |
+| 200403783 | 유니렙시정 | 필름코팅정 | 허가 적응증 텍스트 없음 |
+| 200008776 | 트리렙탈필름코팅정150밀리그램 | 필름코팅정 | 허가 적응증 텍스트 없음 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 조사 결과 총 100건의 상호작용이 확인되었으며, 표본으로 확인된 항목은 모두 중등도(Moderate)입니다. 주요 항목은 코르티코스테roid(hydrocortisone, dexamethasone, betamethasone, triamcinolone), 비타민 D 계열(cholecalciferol, calcifediol, calcitriol), 당뇨병약(pioglitazone, saxagliptin, linagliptin, chlorpropamide), clarithromycin, omeprazole, aprepitant, morphine 등입니다.
-- **지식그래프 기반 금기 질환**: 불안장애, 신경증, 기분부전장애, 신기능 저하, 항이뇨호르몬 부적절 분비 증후군(SIADH), 신성 항이뇨호르몬 부적절 증후군이 표시되었습니다. 이는 라벨 문구가 아닌 지식그래프 정보이므로 허가사항으로 확인해야 합니다.
-- **후보 적응증 관련 안전성 신호**: 나트륨 채널 차단제는 일부 뇌전증 증후군(드라벳 증후군, 전신 뇌전증)에서 발작을 악화시킬 수 있으며, 유전성 전신 뇌전증에서 oxcarbazepine 유발 근간대성 간질중첩증 사례도 보고되었습니다.
+- **약물 상호작용**: 데이터에 100건의 상호작용이 있으며, 확인된 주요 항목은 모두 중등도(Moderate)입니다. 예시는 다음과 같습니다.
+  - 코르티코스테로이드: hydrocortisone, dexamethasone, betamethasone, triamcinolone
+  - 비타민 D 계열: cholecalciferol, calcifediol, calcitriol
+  - 혈당강하제: pioglitazone, chlorpropamide, saxagliptin, linagliptin
+  - 기타: aprepitant, morphine, omeprazole, clarithromycin, dronabinol, eliglustat
 
-허가사항의 경고 및 금기 내용은 이번 자료에 포함되지 않았으므로 허가사항을 참조하세요.
+허가사항의 경고 및 주의사항은 별도로 확인하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-시각 뇌전증에 대한 임상시험이 없고 문헌도 일반적인 항경련제 종설에 그쳐 근거 수준은 L4입니다. 안전성 평가의 기반이 되는 허가사항 경고·금기 정보도 확보되지 않아 안전성 심사 단계로 넘어갈 수 없습니다.
+하지불안 증후군에 대한 직접 근거는 소수의 증례 보고뿐이며, 등록된 임상시험이 없습니다. 이 때문에 근거 수준은 L5 상한 규칙에 따라 엄격히 보면 증례 보고 수준에 그치므로 효능을 뒷받침하기에 부족합니다. 높은 모델 점수만으로 진행을 결정하기는 어렵습니다.
 
 **진행하려면 필요한 것:**
-- 식약처 허가사항(경고, 금기) 확보 및 분석
-- 작용 기전(MOA) 상세 데이터 보강 (DrugBank)
-- 시각 유발 발작 환자를 대상으로 한 oxcarbazepine 사례 보고, 관찰 연구 등 직접 근거 검색
-- 나트륨 채널 차단제로 악화될 수 있는 뇌전증 증후군을 배제하는 환자 선정 기준 설계
-
-## 참고: 기타 예측 적응증 요약
-
-| 순위 | 예측 적응증 | 점수 | 근거 수준 | 비고 |
-|-----|-----------|------|---------|------|
-| 2 | 하지불안증후군 | 99.89% | L4 | 증례 보고 3건 및 파록세틴 유발 사례 1건 있음 (PMID 19483488, 16675374), 대조 시험은 없음 |
-| 9 | 간질중첩증 | 99.87% | L4 | 난치성 사례 보고(PMID 24295895)가 있으나 주사제형이 없고 근간대성 중첩증 유발 사례도 있어 위험이 큼 |
-| 8 | 청각 유발 발작 | 99.89% | L4 | DBA/2 마우스 전임상 연구만 있음 |
-| 3 | 사고 유발 발작 | 99.89% | L4 | 마우스 최대 전기충격 모델 등 간접 근거만 있음 |
-| 4, 5, 6, 7, 10 | 식사·오르가슴·배뇨 유발 발작, 놀람 뇌전증, 읽기 발작 | 99.84~99.89% | L5 | 직접 근거 없음 |
+- 하지불안 증후군 환자 대상의 대조 임상시험(예: 소규모 Phase 2 RCT)
+- 허가사항(경고·금기) 확인 및 안전성 검토
+- 상세한 약물 작용 기전 데이터 확보
+- 하지불안 증후군 환자군에서의 저나트륨혈증 등 안전성 모니터링 계획
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Propylthiouracil
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 635
-evidence_level: L5
-indication_count: 3
+evidence_level: L4
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Propylthiouracil: 예측 신규 적응증 갑상선호르몬 수용체 β 변이에 의한 갑상선호르몬 저항성 (Resistance to thyroid hormone due to… (근거 수준 L5). 기존 적응증: 항갑상선제(갑상선 기능 항진 관련). 허가 적응증 원문은 이번 자료에 수록되지 않아 허가사항 문서 확인이 필요합니다"
 monitor_inn: "PROPYLTHIOURACIL"
-predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "neonatal thyrotoxicosis", "hyperthyroxinemia"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 ---
 
 # Propylthiouracil
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L4** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["resistance to thyroid hormone due to a mutation in thyr
 
 </div>
 
-## 프로필티오우라실(Propylthiouracil): 갑상선 질환 치료제에서 갑상선호르몬 저항성(TRβ 변이)으로
+## 프로필티오우라실(Propylthiouracil): 갑상선 질환 치료제에서 갑상선호르몬 수용체 β 변이에 의한 갑상선호르몬 저항성으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -48,9 +48,9 @@ TxGNN 모델은 **갑상선호르몬 수용체 β 변이에 의한 갑상선호�
 |------|------|
 | 기존 적응증 | 항갑상선제(갑상선 기능 항진 관련). 허가 적응증 원문은 이번 자료에 수록되지 않아 허가사항 문서 확인이 필요합니다. |
 | 예측 신규 적응증 | 갑상선호르몬 수용체 β 변이에 의한 갑상선호르몬 저항성 (Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta) |
-| TxGNN 예측 점수 | 99.66% |
+| TxGNN 예측 점수 | 0.9966 |
 | 근거 수준 | L4 (동물 모델·증례 수준의 간접 근거) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 

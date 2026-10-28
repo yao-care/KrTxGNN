@@ -26,7 +26,7 @@
     },
     {
       "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.5
+      "valueDecimal": 0.9971
     },
     {
       "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/prediction-source",

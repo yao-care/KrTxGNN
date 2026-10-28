@@ -38,7 +38,7 @@ predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease"
 
 ## 한 문장 요약
 
-Rivaroxaban은 경구용 Xa 인자 억제 항응고제로, 한국에서 20건의 단일제 허가증으로 시판 중입니다. TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 있을 수 있다고 예측하지만(점수 99.57%), 현재 이를 직접 검증한 **임상시험은 0건**이며 문헌 4편도 치료 효과를 검증한 연구가 아닙니다.
+Rivaroxaban은 경구용 Xa 인자 억제 항응고제로, 한국에서 20건의 단일제 허가증으로 시판 중입니다. TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 있을 수 있다고 예측하지만(점수 0.9957), 현재 이를 직접 검증한 **임상시험은 0건**이며 문헌 4편도 치료 효과를 검증한 연구가 아닙니다.
 
 ## 빠른 개요
 
@@ -46,9 +46,9 @@ Rivaroxaban은 경구용 Xa 인자 억제 항응고제로, 한국에서 20건의
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (항응고제로 사용) |
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
-| TxGNN 예측 점수 | 99.57% |
+| TxGNN 예측 점수 | 0.9957 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 
@@ -111,9 +111,9 @@ TxGNN 점수는 매우 높지만 임상시험이 없고 문헌도 치료 효과�
 
 ### 참고: 다른 예측 적응증
 
-- **통풍(Gout)**, 점수 99.51%: 임상시험이 없고, 문헌은 CYP 상호작용 in vitro 연구와 정맥류 사례 보고뿐이어서 효능 근거가 없습니다(L5, Hold).
-- **HIV 감염**, 점수 99.17%: HIV 자체에 대한 치료 근거는 없습니다. 근거는 ritonavir·cobicistat 병용 시 CYP3A4/P-gp 억제로 rivaroxaban 노출과 출혈 위험이 증가한다는 안전성·상호작용 관련 자료입니다. 재창출 효능 신호가 아니라 상호작용 안전성 연구 과제입니다(L4, Research Question).
-- **합지증-단지증 증후군(Brachydactyly-syndactyly syndrome)**, 점수 99.10%: 임상시험과 문헌이 모두 없고 타당한 기전도 확인되지 않았습니다(L5, Hold).
+- **통풍(Gout)**, 점수 0.9951: 임상시험이 없고, 문헌은 CYP 상호작용 in vitro 연구와 정맥류 사례 보고뿐이어서 효능 근거가 없습니다(L5, Hold).
+- **HIV 감염**, 점수 0.9917: HIV 자체에 대한 치료 근거는 없습니다. 근거는 ritonavir·cobicistat 병용 시 CYP3A4/P-gp 억제로 rivaroxaban 노출과 출혈 위험이 증가한다는 안전성·상호작용 관련 자료입니다. 재창출 효능 신호가 아니라 상호작용 안전성 연구 과제입니다(L4, Research Question).
+- **합지증-단지증 증후군(Brachydactyly-syndactyly syndrome)**, 점수 0.9910: 임상시험과 문헌이 모두 없고 타당한 기전도 확인되지 않았습니다(L5, Hold).
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

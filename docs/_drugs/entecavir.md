@@ -4,17 +4,17 @@ title: Entecavir
 parent: 중등도 근거 (L3-L4)
 nav_order: 311
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Entecavir: 예측 신규 적응증 만성 C형 간염 (chronic hepatitis C virus infection) (근거 수준 L3). 기존 적응증: 허가 적응증 원문은 데이터에 포함되어 있지 않음 (허가증에는 문서 링크만 수록). 만성 B형 간염으로 알려져 있음"
 monitor_inn: "ENTECAVIR"
-predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
+predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
 ---
 
 # Entecavir
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **10** 건
+근거 수준: **L3** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **만성 C형 간염(chronic hepatitis C virus infection)**에 �
 |------|------|
 | 기존 적응증 | 허가 적응증 원문은 데이터에 포함되어 있지 않음 (허가증에는 문서 링크만 수록). 만성 B형 간염으로 알려져 있음 |
 | 예측 신규 적응증 | 만성 C형 간염 (chronic hepatitis C virus infection) |
-| TxGNN 예측 점수 | 99.98% |
+| TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **만성 C형 간염(chronic hepatitis C virus infection)**에 �
 
 현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 알려진 정보에 따르면 Entecavir는 구아노신 유사체로, 세포 내에서 3인산 형태로 인산화되어 HBV 중합효소의 세 가지 활성(프라이밍, 역전사, DNA 합성)을 경쟁적으로 억제합니다.
 
-C형 간염 바이러스(HCV)는 NS5B 중합효소로 복제하는 RNA 바이러스이므로, Entecavir가 HCV를 직접 억제한다는 기전적 근거는 없습니다. 모델 예측은 두 질환이 모두 바이러스성 간염이라는 점에서 그래프상 가까이 놓인 결과일 가능성이 큽니다.
+C형 간염 바이러스(HCV)는 NS5B 중합효소로 복제하는 RNA 바이러스이므로, Entecavir가 HCV를 직접 억제한다는 기전적 근거는 없습니다. 이 점수는 TxGNN 모델(딥러닝)이 산출한 값이며, 관련된 질환 사이에서 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
 유일하게 설득력 있는 연결고리는 간접적입니다. HBV/HCV 동시감염 환자에서 직접작용항바이러스제(DAA)로 HCV를 제거하면 HBV가 재활성화될 수 있고, 이때 Entecavir가 HBV를 억제합니다. 이는 C형 간염 치료가 아니라 동시감염 환자의 B형 간염 관리입니다.
 

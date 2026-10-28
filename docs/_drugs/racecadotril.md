@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Racecadotril
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 640
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Racecadotril: 예측 신규 적응증 고아밀라아제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 이번 자료에 포함되지 않았습니다(허가증 문서 링크만 확인됨)"
+description: "Racecadotril: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Racecadotril"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "septicemic plague", "acute cystitis (disease)"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Racecadotril
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +35,16 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-## Racecadotril: 설사 치료제에서 고아밀라아제혈증으로
+## Racecadotril
 {: .text-alpha }
-
-## 한 문장 요약
-
-Racecadotril은 한국에서 시판 중인 단일 성분 제제로, 원래 설사 치료에 쓰이는 약으로 알려져 있습니다. TxGNN 모델은 **고아밀라아제혈증(hyperamylasemia)**에 효과가 있을 수 있다고 예측하지만, 현재 이 방향을 지지하는 **임상시험과 문헌은 없으며** 모델 예측만 존재합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 이번 자료에 포함되지 않았습니다(허가증 문서 링크만 확인됨) |
-| 예측 신규 적응증 | 고아밀라아제혈증 (Hyperamylasemia) |
-| TxGNN 예측 점수 | 97.72% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300287/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405412/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405411/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900291/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Racecadotril은 프로드럭으로, 활성 대사체 thiorphan이 엔케팔리나제(neprilysin, 중성 엔도펩티다제)를 억제하는 것으로 알려져 있습니다. 이를 통해 장내 과분비를 줄이는 항분비 작용을 나타냅니다.
-
-이 기전과 혈청 아밀라아제 상승 사이에는 확립된 연관성이 없습니다. 또한 고아밀라아제혈증은 췌장이나 침샘 질환을 반영하는 검사실 소견이지, 그 자체로 치료 대상이 되는 독립 질환으로 보기 어렵습니다. 따라서 TxGNN의 높은 점수(0.977)는 계산상 예측일 뿐, 약리학적 근거로 뒷받침되지 않습니다.
-
-### 참고: 다른 예측 후보
-
-상위 10개 예측은 모두 근거 수준 L5, 권장 결정 Hold입니다. 대부분 지식 그래프상 근접성에서 비롯된 것으로 보이며, 기전적 근거가 뚜렷하지 않습니다.
-
-| 순위 | 예측 질환 | 예측 점수 |
-|-----|---------|---------|
-| 1 | 고아밀라아제혈증 | 97.72% |
-| 2 | 다클론성 과점도 증후군 | 97.72% |
-| 3 | 선천성 무알부민혈증 | 97.53% |
-| 4 | 혈액형 부적합 | 96.88% |
-| 5 | 전악성 혈액계 질환 | 96.61% |
-| 6 | 단클론감마병증 | 96.56% |
-| 7 | 후천성 말초신경병증을 동반한 혈액 질환 | 96.25% |
-| 8 | 선천성 혈액 질환 | 95.40% |
-| 9 | 패혈성 페스트 | 95.29% |
-| 10 | 급성 방광염 | 94.29% |
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
@@ -96,19 +59,6 @@ Racecadotril은 한국에서 시판 중인 단일 성분 제제로, 원래 설�
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-고아밀라아제혈증 예측은 모델 점수만 높을 뿐 임상시험과 문헌이 전혀 없고, 기전적 연관성도 확인되지 않습니다. 대상이 치료 가능한 독립 질환인지도 불분명합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고, 금기, 기존 적응증) 확보 및 분석
-- 상세한 약물 작용 기전(MOA) 데이터
-- 엔케팔리나제 억제와 아밀라아제 대사 사이의 기전적 연관성에 대한 전임상 또는 문헌 근거
-- 고아밀라아제혈증을 치료 대상 질환으로 볼 수 있는지에 대한 임상적 검토
-- 다른 상위 예측 후보를 재검토하기 전, 기전적으로 더 타당한 적응증 후보의 재선정
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

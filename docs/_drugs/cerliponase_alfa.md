@@ -4,17 +4,17 @@ title: Cerliponase Alfa
 parent: 모델 예측만 (L5)
 nav_order: 202
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cerliponase Alfa: 예측 신규 적응증 Scheie 증후군 (Scheie syndrome, MPS I 완화형) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 링크로만 제공되어 구체적 내용을 확인할 수 없습니다 (허가 문서 참조)"
 monitor_inn: "Cerliponase alfa"
-predicted_indications: ["Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "cholesteryl ester storage disease", "Gaucher disease", "familial encephalopathy with neuroserpin inclusion bodies", "Wolman disease with hypolipoproteinemia and acanthocytosis", "myoclonic epilepsy, juvenile, susceptibility to", "proximal myopathy with extrapyramidal signs", "autosomal ichthyosis syndrome with fatal disease course"]
+predicted_indications: ["Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "cholesteryl ester storage disease", "Gaucher disease", "familial encephalopathy with neuroserpin inclusion bodies", "Wolman disease with hypolipoproteinemia and acanthocytosis", "proximal myopathy with extrapyramidal signs", "autosomal ichthyosis syndrome with fatal disease course"]
 ---
 
 # Cerliponase Alfa
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Cerliponase alfa는 재조합 인간 TPP1(tripeptidyl peptidase 1) 효소를 뇌
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 링크로만 제공되어 구체적 내용을 확인할 수 없습니다 (허가 문서 참조) |
 | 예측 신규 적응증 | Scheie 증후군 (Scheie syndrome, MPS I 완화형) |
-| TxGNN 예측 점수 | 99.98% |
+| TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Cerliponase alfa는 재조합 인간 TPP1(tripeptidyl peptidase 1) 효소를 뇌
 
 현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 이 약은 CLN2 질환(TPP1 결핍)에 대해 뇌실 내 투여하는 재조합 TPP1 효소대체요법제로 알려져 있습니다.
 
-Scheie 증후군은 알파-L-이두로니다제(alpha-L-iduronidase) 결핍으로 생기는 MPS I의 완화형입니다. 두 질환 모두 리소좀 저장 질환이라는 점에서 지식 그래프상 가까이 위치하여 점수가 높게 나온 것으로 보입니다. 그러나 TPP1은 글리코사미노글리칸을 분해하지 않으므로 **직접적인 기전상 근거는 없습니다.** 또한 MPS I의 전신 증상은 뇌실 내 투여로는 해결되기 어렵습니다.
+Scheie 증후군은 알파-L-이두로니다제(alpha-L-iduronidase) 결핍으로 생기는 MPS I의 완화형입니다. 이 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 모델이 학습한 관련 질환 간 유사성(두 질환 모두 리소좀 저장 질환)을 반영한 것일 수 있으며 생물학적 근거는 아닙니다. 그러나 TPP1은 글리코사미노글리칸을 분해하지 않으므로 **직접적인 기전상 근거는 없습니다.** 또한 MPS I의 전신 증상은 뇌실 내 투여로는 해결되기 어렵습니다.
 
 ## 한국 시판 정보
 
@@ -73,7 +73,7 @@ Scheie 증후군은 알파-L-이두로니다제(alpha-L-iduronidase) 결핍으�
 **결정: Hold**
 
 **사유:**
-Scheie 증후군에 대한 임상시험과 문헌 근거가 전혀 없고, TPP1이 MPS I의 원인 효소(알파-L-이두로니다제)와 다르기 때문에 기전상 근거도 없습니다. 높은 TxGNN 점수는 리소좀 질환군 내 그래프 근접성을 반영한 것으로 보입니다. 이 질환에는 이미 라로니다제(laronidase)와 조혈모세포이식 같은 대안도 있습니다.
+Scheie 증후군에 대한 임상시험과 문헌 근거가 전혀 없고, TPP1이 MPS I의 원인 효소(알파-L-이두로니다제)와 다르기 때문에 기전상 근거도 없습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 학습한 관련 질환 간 유사성을 반영한 것일 수 있으며 생물학적 근거는 아닙니다. 이 질환에는 이미 라로니다제(laronidase)와 조혈모세포이식 같은 대안도 있습니다.
 
 **진행하려면 필요한 것:**
 - 허가사항 원문(적응증, 경고, 금기)을 확보하여 안전성 검토

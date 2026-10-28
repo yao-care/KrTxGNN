@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Lecanemab
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 464
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Lecanemab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조)"
+description: "Lecanemab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Lecanemab"
-predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic retinopathy"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Lecanemab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,46 +35,16 @@ predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immatur
 
 </div>
 
-## Lecanemab: 알츠하이머병 항아밀로이드 치료제에서 당뇨병성 백내장으로
+## Lecanemab
 {: .text-alpha }
-
-## 한 문장 요약
-
-Lecanemab(레켐비주)은 항아밀로이드-베타 프로토피브릴 단클론항체로, 한국에서 허가를 받아 시판 중입니다. TxGNN 모델은 **당뇨병성 백내장(Diabetic Cataract)**에 효과가 있을 수 있다고 예측했으나, 현재 이 방향을 지지하는 **임상시험은 0건**, **문헌도 0편**입니다. 모델 예측만 존재하는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조) |
-| 예측 신규 적응증 | 당뇨병성 백내장 (Diabetic Cataract) |
-| TxGNN 예측 점수 | 98.48% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401277/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Lecanemab은 항아밀로이드-베타 프로토피브릴 단클론항체입니다. 이 점에서 아밀로이드 응집체를 표적으로 하는 약물이라는 정도만 말할 수 있습니다.
-
-신규 적응증과의 연관성은 가설 수준입니다. 수정체 조직에서 아밀로이드-베타 응집이 보고된 바 있고, 당뇨병에서의 단백질 응집 및 당화가 이 경로와 겹칠 가능성이 있습니다. 그러나 전신 투여되는 대분자 항체는 수정체로의 침투가 제한적이며, 이를 뒷받침하는 임상시험이나 문헌이 제공되지 않았습니다. 따라서 이 연관성은 **근거가 부족한 추정**입니다.
-
-### 함께 예측된 기타 적응증
-
-상위 10개 예측은 대부분 백내장 관련 질환이며, 모두 L5(모델 예측만 존재), 권장 결정 Hold입니다. 높은 점수는 생물학적 근거보다 네트워크상 백내장 용어 간 근접성을 반영했을 가능성이 있습니다.
-
-| 순위 | 질환 | TxGNN 점수 | 비고 |
-|------|------|-----------|------|
-| 2 | 두개골유합증 백내장 (Craniostenosis Cataract) | 98.40% | 유전/발달성 질환으로 아밀로이드 연관성 불분명 |
-| 3 | 미성숙 백내장 (Immature Cataract) | 98.40% | 병기 기술어로 별도 병인이 아님 |
-| 4 | 제2형 당뇨병 연관 백내장 | 98.40% | 단백질 응집 측면의 추정적 중복 |
-| 5 | 성숙 백내장 (Mature Cataract) | 98.40% | 확립된 혼탁은 주로 수술로 치료 |
-| 6 | 테타니성 백내장 (Tetanic Cataract) | 98.40% | 저칼슘혈증 등 대사 기전으로 무관 |
-| 7 | 피질 백내장 (Cortical Cataract) | 98.38% | 알츠하이머병에서 수정체 피질 아밀로이드 침착 가설 |
-| 8 | 핵성 노인성 백내장 | 98.38% | 산화 손상과 크리스탈린 응집이 주 원인 |
-| 9 | 노인성 백내장 (Senile Cataract) | 98.32% | ARIA 위험과 투여 부담 대비 수술이라는 효과적 치료 존재 |
-| 10 | 당뇨병성 망막병증 (Diabetic Retinopathy) | 98.19% | 망막 아밀로이드 가설은 있으나 미입증, 항VEGF 치료 존재 |
 
 ## 한국 시판 정보
 
@@ -86,21 +58,8 @@ Lecanemab(레켐비주)은 항아밀로이드-베타 프로토피브릴 단클�
 
 안전성 정보는 허가사항을 참조하세요.
 
-참고로, 이번 데이터 수집에서는 약물상호작용 정보가 확인되지 않았습니다. 다만 일부 예측 항목의 검토 과정에서 Lecanemab의 알려진 위험인 **ARIA(아밀로이드 관련 영상 이상)**와 정기 정맥 주입의 부담이 언급되었으며, 혈관 질환인 당뇨병성 망막병증이나 수술로 효과적 치료가 가능한 백내장에서는 이를 정당화하기 어렵습니다.
+참고로, 이번 데이터 수집에서는 약물상호작용 정보가 확인되지 않았습니다.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-예측 점수는 높지만(98.48%) 임상시험과 문헌 근거가 전혀 없고(L5), 작용 기전 데이터와 허가 안전성 정보도 확보되지 않았습니다. 또한 전신 투여 항체의 수정체 침투 한계와 ARIA 위험을 고려하면 현재로서는 진행할 근거가 부족합니다.
-
-**진행하려면 필요한 것:**
-- MFDS 허가사항(적응증, 경고, 금기)을 내려받아 확인 (안전성 선별 진행의 필수 조건)
-- DrugBank 등에서 작용 기전(MOA) 데이터 확보
-- 수정체·망막에서의 아밀로이드-베타 역할 및 항체의 안구 조직 전달 가능성에 대한 전임상/문헌 근거 확보
-- 투여 경로 적합성(전신 투여 vs 국소 안구 투여) 평가
-- 관련 임상시험 또는 문헌 검색 재실시
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

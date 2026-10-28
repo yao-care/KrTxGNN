@@ -4,7 +4,7 @@ title: Trimethoprim
 parent: 모델 예측만 (L5)
 nav_order: 767
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Trimethoprim: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 허가 적응증 문구는 확인되지 않았습니다(허가사항 문서 참조). 항균제로서 세균 감염 치료에 사용됩니다"
 monitor_inn: "TRIMETHOPRIM"
@@ -14,7 +14,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 # Trimethoprim
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **2** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,15 +47,15 @@ TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjun
 |------|------|
 | 기존 적응증 | 허가 적응증 문구는 확인되지 않았습니다(허가사항 문서 참조). 항균제로서 세균 감염 치료에 사용됩니다. |
 | 예측 신규 적응증 | 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) |
-| TxGNN 예측 점수 | 99.57% |
+| TxGNN 예측 점수 | 0.9957 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Trimethoprim은 세균의 DHFR을 억제해 테트라하이드로엽산 합성을 차단하고, 이를 통해 세균 증식을 막습니다. 안과 영역에서는 polymyxin B와의 복합 점안액이 세균성 안구 표면 감염에 쓰이고 있습니다. 모델의 매우 높은 점수는 이처럼 결막염 등 안구 표면 감염 질환과 지식 그래프상 거리가 가깝기 때문으로 보입니다.
+Trimethoprim은 세균의 DHFR을 억제해 테트라하이드로엽산 합성을 차단하고, 이를 통해 세균 증식을 막습니다. 안과 영역에서는 polymyxin B와의 복합 점안액이 세균성 안구 표면 감염에 쓰이고 있습니다. 모델의 매우 높은 점수는 TxGNN 모델(딥러닝)이 산출한 값이며, 결막염 등 관련 질환 사이에서 모델이 학습한 유사성을 반영했을 수 있으나 생물학적 근거를 뜻하지는 않습니다.
 
 그러나 기전상 연결은 약합니다. 점상 상피성 각결막염은 아데노바이러스 같은 **바이러스성 원인**이나 **면역 매개 기전**이 흔합니다. 항균 기전의 약물이 이런 원인에 직접 작용한다고 보기 어렵습니다. 따라서 높은 예측 점수는 근거가 충분하다는 뜻이 아니라, 유사 질환(세균성 결막염)과의 연관성이 반영된 결과로 해석하는 편이 안전합니다.
 

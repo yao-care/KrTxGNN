@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## Ibuprofen: 류마티스 관절염·통증·발열에서 말단중간형 이형성증(Hunter-Thompson형)으로
+## Ibuprofen: 류마티스 관절염·통증·발열에서 말단중간이형성증 헌터-톰슨형으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -48,9 +48,9 @@ TxGNN 모델은 **말단중간형 이형성증, Hunter-Thompson형(acromesomelic
 |------|------|
 | 기존 적응증 | 류마티양 관절염, 연소성 류마티양 관절염, 골관절염(퇴행성 관절질환), 감기로 인한 발열 및 동통, 요통, 월경곤란증, 수술후 동통 등 |
 | 예측 신규 적응증 | 말단중간형 이형성증, Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 예측 점수 | 99.74% |
+| TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN 모델은 **말단중간형 이형성증, Hunter-Thompson형(acromesomelic
 
 반면 이 질환은 CDMP1/GDF5 유전자의 기능 상실 변이로 BMP 신호와 연골 형성이 손상되는 희귀 유전성 골격 이형성증입니다. Ibuprofen은 GDF5/BMP 경로에 작용하지 않으므로, 질환 자체를 변화시킬 만한 기전적 연결고리는 확인되지 않습니다.
 
-TxGNN 점수가 매우 높은 것은 지식 그래프에서 골격·통증·염증 관련 노드를 공유하기 때문일 가능성이 큽니다. 기대할 수 있는 효과는 증상 완화 수준의 진통이며, 이는 이미 허가된 용도에 해당합니다.
+TxGNN 점수가 매우 높은 것은 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영한 결과일 수 있으며, 생물학적 근거를 의미하지는 않습니다. 기대할 수 있는 효과는 증상 완화 수준의 진통이며, 이는 이미 허가된 용도에 해당합니다.
 
 참고로 같은 모델이 예측한 다른 후보(brachyolmia-amelogenesis imperfecta 증후군, myosclerosis, brachyolmia, brachydactyly-syndactyly 증후군, pseudoachondroplasia 등)도 모두 L5이며 임상시험과 문헌이 없습니다. 이 중 myosclerosis와 pseudoachondroplasia는 근육통·관절통 완화라는 간접적 가능성만 있고, 질환 경과를 바꾼다는 근거는 없습니다.
 
@@ -89,7 +89,7 @@ TxGNN 점수가 매우 높은 것은 지식 그래프에서 골격·통증·염�
 **결정: Hold**
 
 **사유:**
-TxGNN 점수(99.74%)는 높지만 임상시험과 문헌이 전혀 없고, COX 억제와 GDF5/BMP 신호 결손 사이에 기전적 연결고리도 없습니다. 이 예측은 계산상의 산물로 판단되며, 증상 완화 목적의 진통 효과는 이미 허가된 적응증 범위입니다.
+TxGNN 점수(0.9974)는 높지만 임상시험과 문헌이 전혀 없고, COX 억제와 GDF5/BMP 신호 결손 사이에 기전적 연결고리도 없습니다. 이 예측은 계산상의 산물로 판단되며, 증상 완화 목적의 진통 효과는 이미 허가된 적응증 범위입니다.
 
 **진행하려면 필요한 것:**
 - 작용 기전(MOA) 데이터 보완 (DrugBank 조회)

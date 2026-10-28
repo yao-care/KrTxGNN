@@ -4,17 +4,17 @@ title: Methylene Blue
 parent: 모델 예측만 (L5)
 nav_order: 510
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Methylene Blue: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 정보가 문서 링크로만 제공됨)"
 monitor_inn: "METHYLENE BLUE"
-predicted_indications: ["bronchitis", "methemoglobinemia, alpha type", "methemoglobinemia due to deficiency of methemoglobin reductase"]
+predicted_indications: ["bronchitis"]
 ---
 
 # Methylene Blue
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Methylene blue(메틸렌블루)는 국내에서 주사제(프로베블루주 0.5
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가 정보가 문서 링크로만 제공됨) |
 | 예측 신규 적응증 | 기관지염 (Bronchitis) |
-| TxGNN 예측 점수 | 99.97% |
+| TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Methylene blue(메틸렌블루)는 국내에서 주사제(프로베블루주 0.5
 
 현재 상세한 작용 기전 데이터가 없습니다. 이론적으로 methylene blue는 일산화질소 합성효소와 구아닐산 고리화효소를 억제하는 것으로 알려져 있어 기도 염증과 평활근 긴장도에 영향을 줄 가능성이 있습니다. 다만 이는 추측 수준입니다.
 
-검색된 문헌에서 methylene blue는 기관지 내시경 검사의 진단용 염색제로만 등장합니다. 기관지염 치료 효과를 시사하는 자료는 없습니다. 이 예측은 치료 근거보다는 지식 그래프의 네트워크 연관성에서 비롯되었을 가능성이 큽니다.
+검색된 문헌에서 methylene blue는 기관지 내시경 검사의 진단용 염색제로만 등장합니다. 기관지염 치료 효과를 시사하는 자료는 없습니다. 이 예측(점수 0.9997)은 치료 근거보다는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 크며, 생물학적 근거는 아닙니다.
 
 참고로 같은 약물의 예측 목록에는 메트헤모글로빈혈증(알파형 및 메트헤모글로빈 환원효소 결핍형)도 있습니다. 이쪽은 기전적 타당성이 높지만, 기관지염과는 별개의 예측입니다.
 
@@ -103,7 +103,7 @@ Methylene blue(메틸렌블루)는 국내에서 주사제(프로베블루주 0.5
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 매우 높지만(99.97%) 임상시험이 없고, 검색된 문헌에도 기관지염 치료 효과를 뒷받침하는 자료가 없습니다. 근거 수준은 L5이며, 안전성 측면에서도 금기 가능 질환과 Major 상호작용이 많습니다.
+TxGNN 점수는 매우 높지만(0.9997) 임상시험이 없고, 검색된 문헌에도 기관지염 치료 효과를 뒷받침하는 자료가 없습니다. 근거 수준은 L5이며, 안전성 측면에서도 금기 가능 질환과 Major 상호작용이 많습니다.
 
 **진행하려면 필요한 것:**
 - 허가사항(MFDS 첨부문서)의 적응증, 경고, 금기 확인

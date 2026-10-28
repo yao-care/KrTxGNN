@@ -4,17 +4,17 @@ title: Etanercept
 parent: 모델 예측만 (L5)
 nav_order: 322
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-15
-description: "Etanercept: 예측 신규 적응증 류마티스 혈관염 (Rheumatoid Vasculitis) (근거 수준 L5). 기존 적응증: 류마티스 관절염 등 (허가증 8건은 적응증 본문이 아닌 허가 문서 링크로만 제공되어, 문헌에 기재된 승인 적응증 기준)"
+indication_count: 3
 monitor_inn: "ETANERCEPT"
-predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
+predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
+last_modified_at: 2026-10-27
+description: "Etanercept: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210511/EE"
 ---
 
 # Etanercept
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **6** 건
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,92 +33,74 @@ predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy",
 
 </div>
 
-## 에타너셉트(Etanercept): 류마티스 관절염에서 류마티스 혈관염으로
+## Etanercept: TNF 억제 융합단백질 → 꼬리뼈 과가동성 (hypermobility of coccyx)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-에타너셉트는 TNF를 억제하는 융합단백질로, 류마티스 관절염 등 자가면역 관절 질환 치료에 사용되어 왔습니다.
-TxGNN 모델은 **류마티스 혈관염(Rheumatoid Vasculitis)**에 효과가 있을 수 있다고 예측하지만, 현재 **1건의 임상시험**(직접 관련성 낮음)과 **20편의 문헌**이 있을 뿐 직접적인 치료 효능 근거는 부족합니다. 오히려 에타너셉트 연관 혈관염 발생을 보고한 문헌이 여러 편 있습니다.
+Etanercept는 종양괴사인자(TNF)를 차단하는 재조합 융합단백질 주사제입니다.
+TxGNN 모델은 **꼬리뼈 과가동성(hypermobility of coccyx)**에 효과가 있을 수 있다고 예측하지만, 이 예측을 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 따라서 현재는 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 류마티스 관절염 등 (허가증 8건은 적응증 본문이 아닌 허가 문서 링크로만 제공되어, 문헌에 기재된 승인 적응증 기준) |
-| 예측 신규 적응증 | 류마티스 혈관염 (Rheumatoid Vasculitis) |
-| TxGNN 예측 점수 | 99.71% |
-| 근거 수준 | L3 (체계적 문헌고찰 및 증례 수준의 근거, RCT 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210511/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801194/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905857/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300768/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506388/EE;  |
+| 예측 신규 적응증 | 꼬리뼈 과가동성 (hypermobility of coccyx) |
+| TxGNN 예측 점수 | 0.9963 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 8건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 에타너셉트는 TNF 수용체와 IgG Fc를 결합한 융합단백질로, TNF-알파를 중화하여 염증 신호를 차단합니다.
+이 보고서를 위해 수집한 데이터에는 etanercept의 상세한 작용 기전 정보가 기록되어 있지 않습니다. 일반적으로 etanercept는 가용성 TNF 수용체 융합단백질로 TNF 신호를 차단하는 약물로 알려져 있습니다.
 
-류마티스 혈관염은 류마티스 관절염의 가장 중증인 관절 외 합병증 중 하나입니다. 이 질환은 TNF-알파와 면역복합체 매개 염증이 관여하므로, TNF 차단은 생물학적으로 타당한 접근입니다. 기존 적응증인 류마티스 관절염과 병리 경로를 공유한다는 점이 예측을 뒷받침합니다.
-
-다만 주의할 점이 있습니다. 문헌에는 에타너셉트 사용 후 피부 혈관염, 신장병증, 대혈관 혈관염이 발생한 사례가 보고되어 있습니다. 즉 이 약은 혈관염을 치료할 수도 있고 유발할 수도 있습니다. 현재 근거는 생물학적 제제의 류마티스 혈관염 치료에 관한 체계적 문헌고찰과 증례 수준의 안전성 신호가 전부입니다.
+그러나 꼬리뼈 과가동성은 주로 외상이나 기계적 요인과 관련된 상태입니다. TNF가 이 질환의 병태에 관여한다는 근거는 확인되지 않았습니다. 이 예측은 높은 모델 점수(0.9963)에만 의존하며, 기전상 연결고리나 기존 적응증과의 유사성을 뒷받침하는 자료가 없습니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | 모집 중 | 80 | 류마티스 환자의 어깨 관절 전치환술 전후 면역억제제 중단 기간별 류마티스 악화·수술 합병증 비교. 혈관염 치료 시험이 아니라 주술기 약물 관리 연구여서 간접적 근거에 그칩니다. |
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [33058033](https://pubmed.ncbi.nlm.nih.gov/33058033/) | 2021 | 체계적 문헌고찰 | Clin Rheumatol | 류마티스 혈관염에서 생물학적 제제 사용을 PRISMA 방식으로 고찰 |
-| [28391344](https://pubmed.ncbi.nlm.nih.gov/28391344/) | 2017 | Review | Nephrol Dial Transplant | ANCA 관련 혈관염·사구체신염에서 TNF 차단의 역할 검토 |
-| [16624928](https://pubmed.ncbi.nlm.nih.gov/16624928/) | 2006 | Review | J Am Soc Nephrol | 다른 만성 염증 질환의 경험을 바탕으로 ANCA 관련 혈관염에서의 TNF-알파 역할 검토 |
-| [28123776](https://pubmed.ncbi.nlm.nih.gov/28123776/) | 2017 | 코호트 | RMD Open | 류마티스 관절염 환자에서 TNF 억제제별 루푸스 유사·혈관염 유사 사건 위험 비교 (BSRBR-RA) |
-| [15853915](https://pubmed.ncbi.nlm.nih.gov/15853915/) | 2005 | Review | Scand J Immunol | 에타너셉트·인플릭시맙 연관 피부 혈관염의 면역학적 기전 |
-| [10955351](https://pubmed.ncbi.nlm.nih.gov/10955351/) | 2000 | 증례 | J Rheumatol | 에타너셉트 연관 백혈구파괴성 혈관염 첫 증례 |
-| [12209493](https://pubmed.ncbi.nlm.nih.gov/12209493/) | 2002 | 증례 | Arthritis Rheum | 류마티스 관절염 환자에서 에타너셉트 치료 후 결절증 가속 및 혈관염 |
-| [25544845](https://pubmed.ncbi.nlm.nih.gov/25544845/) | 2014 | 증례 | Case Rep Med | 항-TNF 치료 중인 류마티스 관절염 환자에서 발생한 대혈관 혈관염 |
-| [31632872](https://pubmed.ncbi.nlm.nih.gov/31632872/) | 2019 | 증례 | Cureus | 에타너셉트 연관 신장병증 |
-| [19648728](https://pubmed.ncbi.nlm.nih.gov/19648728/) | 2009 | 증례 | Dermatology | 에타너셉트 투여 중 류마티스 혈관염으로 오인된 파종성 대상포진 |
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
-허가 적응증은 본문이 아닌 허가 문서 링크로만 제공되어, 해당 링크를 표시했습니다.
+허가 8건이 모두 유효 상태이며, 아래는 주요 5건입니다. 8건 모두 단일 성분 제제입니다.
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200210511 | 엔브렐주사25밀리그램 (한국화이자제약) | 동결건조 주사제(바이알) + 프리필드시린지 첨부용제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210511/EE) |
-| 201801194 | 유셉트오토인젝터주 (엘지화학) | 오토인젝터 주사제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801194/EE) |
-| 201905857 | 에톨로체50밀리그램프리필드펜주 (삼성바이오에피스) | 프리필드펜 주사제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905857/EE) |
-| 202300768 | 엔브렐도스디스펜서카트리지50밀리그램 (한국화이자제약) | 일회용 카세트(프리필드시린지 장착) | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300768/EE) |
-| 201506388 | 에톨로체50밀리그램프리필드시린지 (삼성바이오에피스) | 프리필드시린지 주사제 | [허가 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506388/EE) |
-
-이 외에 엔브렐마이클릭펜주, 엔브렐50밀리그램프리필드주, 유셉트프리필드시린지주를 포함해 총 8건이 유효합니다.
+| 허가번호 | 제품명 | 제형 | 제조사 |
+|---------|------|------|------|
+| 200210511 | 엔브렐주사25밀리그램 | 동결건조 주사제 (바이알, 첨부용제 프리필드시린지) | 한국화이자제약 |
+| 201801194 | 유셉트오토인젝터주 | 오토인젝터 주사제 | 엘지화학 |
+| 201905857 | 에톨로체50밀리그램프리필드펜주 | 프리필드펜 주사제 | 삼성바이오에피스 |
+| 202300768 | 엔브렐도스디스펜서카트리지50밀리그램 | 일회용 카세트 주사제 | 한국화이자제약 |
+| 201506388 | 에톨로체50밀리그램프리필드시린지 | 프리필드시린지 주사제 | 삼성바이오에피스 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 확인된 상호작용은 총 100건이며, 이 중 20건을 확인했습니다.
-  - **주요(Major)**: 코르티코스테로이드(hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, budesonide, triamcinolone 전신·안과용), deferiprone, 방사성의약품(iobenguane I-131, ibritumomab tiuxetan, tositumomab 및 I-131 tositumomab)
-  - **중등도(Moderate)**: metronidazole, tinidazole, rosuvastatin, simvastatin
-  - **경미(Minor)**: 아연 제제(sulfate, acetate, gluconate)
-- **문헌에서 확인된 안전성 신호**: 에타너셉트 연관 피부 혈관염, 신장병증, 대상포진 등 감염 위험이 보고되어 있습니다.
+- **약물 상호작용**: 총 100건이 조회되었으며, 주요 항목은 다음과 같습니다.
+  - **Major**: 전신 및 국소 코르티코스테로이드(hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, triamcinolone, budesonide), deferiprone, iobenguane (I-131), ibritumomab tiuxetan, tositumomab
+  - **Moderate**: metronidazole, tinidazole, rosuvastatin, simvastatin
+  - **Minor**: 아연 제제(zinc sulfate, zinc acetate, zinc gluconate)
 
-허가사항의 경고·금기 사항은 허가 문서를 직접 참조하세요.
+경고 및 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 매우 높지만(99.71%), 류마티스 혈관염에서 에타너셉트의 치료 효능을 직접 검증한 임상시험이 없습니다. 유일한 시험은 주술기 약물 관리 연구입니다. 오히려 에타너셉트 연관 혈관염·신장병증 보고가 있어 치료와 유발 가능성이 공존하므로, 현 단계에서는 연구 가설 수준으로 보류하는 것이 적절합니다.
+- 예측 점수는 높지만(0.9963) 임상시험과 문헌이 모두 없어 근거 수준이 L5입니다.
+- 꼬리뼈 과가동성은 주로 기계적·외상성 질환이어서 TNF 억제와의 기전적 연결이 확인되지 않습니다.
 
 **진행하려면 필요한 것:**
-- 류마티스 혈관염 환자에서 에타너셉트의 효능·안전성을 평가하는 전향적 연구 또는 RCT
-- 체계적 문헌고찰(PMID 33058033)에서 에타너셉트 관련 하위 결과 상세 검토
-- 에타너셉트 연관 혈관염 사례와 치료 반응 사례를 구분하는 인과성 분석
-- 허가사항의 경고·금기 및 작용 기전 정보 확보
-- 코르티코스테로이드 병용 시 감염 위험 등 상호작용 모니터링 계획
+- 꼬리뼈 과가동성에서 TNF 관여 여부를 보여주는 전임상 또는 기전 연구
+- 이 질환을 직접 다룬 임상 또는 관찰 연구
+- etanercept의 상세한 작용 기전 데이터
+- 허가사항(첨부문서)의 경고·금기 정보 확보 후 안전성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

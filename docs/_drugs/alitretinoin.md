@@ -33,7 +33,7 @@ predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coar
 
 </div>
 
-## Alitretinoin: 허가 적응증에서 무월경(Amenorrhea)으로
+## Alitretinoin: 무월경 (Amenorrhea)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -48,9 +48,9 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문 확인 불가 (허가증에는 식약처 문서 링크만 수록). 참고: 해외에서는 중증 만성 수부 습진 및 카포시 육종에 사용 |
 | 예측 신규 적응증 | 무월경 (Amenorrhea) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

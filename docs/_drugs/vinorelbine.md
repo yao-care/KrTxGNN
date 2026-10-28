@@ -4,7 +4,7 @@ title: Vinorelbine
 parent: 높은 근거 (L1-L2)
 nav_order: 785
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Vinorelbine: 예측 신규 적응증 Ewing 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조 필요)"
 monitor_inn: "Vinorelbine"
@@ -14,7 +14,7 @@ predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of l
 # Vinorelbine
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **L2** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Vinorelbine은 빈카 알칼로이드 계열의 항암제로, 한국에서는 �
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조 필요) |
 | 예측 신규 적응증 | Ewing 육종 (Ewing sarcoma) |
-| TxGNN 예측 점수 | 99.999% |
+| TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Proceed with Guardrails |
 

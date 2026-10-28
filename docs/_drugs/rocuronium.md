@@ -4,17 +4,17 @@ title: Rocuronium
 parent: 모델 예측만 (L5)
 nav_order: 663
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Rocuronium: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L5). 기존 적응증: 마취 시 신경근 차단(허가 문서 링크만 제공되어 상세 적응증 문구는 확인되지 않음)"
 monitor_inn: "Rocuronium"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
 ---
 
 # Rocuronium
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Rocuronium은 비탈분극성 신경근 차단제로, 마취 시 근이완을 �
 |------|------|
 | 기존 적응증 | 마취 시 신경근 차단(허가 문서 링크만 제공되어 상세 적응증 문구는 확인되지 않음) |
 | 예측 신규 적응증 | 편두통 (Migraine disorder) |
-| TxGNN 예측 점수 | 99.90% |
+| TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 11건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ Rocuronium은 신경근접합부의 니코틴성 아세틸콜린 수용체를 �
 
 편두통의 병태생리는 CGRP, 삼차신경혈관 활성화, 피질 확산성 억제와 관련이 있고, rocuronium의 작용 기전과는 직접적인 연결고리가 없습니다. 이론적으로는 두개주위 근육 긴장을 줄일 가능성을 생각해 볼 수 있으나, 이는 추측일 뿐 데이터로 뒷받침되지 않습니다. 또한 치료 용량에서 혈액뇌장벽을 의미 있게 통과하지 못하므로 중추신경계 작용도 기대하기 어렵습니다.
 
-따라서 0.999에 가까운 높은 점수는 지식 그래프 내 편두통 관련 노드의 근접성에서 비롯된 인공적 결과일 가능성이 큽니다. 같은 편두통 계열의 다른 예측(뇌간 조짐 동반 편두통, 편두통 감수성 등)과 두통 질환도 같은 맥락으로 해석됩니다.
+따라서 0.9990에 가까운 높은 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다. 같은 편두통 계열의 다른 예측(뇌간 조짐 편두통 등)과 두통 질환도 같은 맥락으로 해석됩니다.
 
 ## 임상시험 근거
 
@@ -99,7 +99,7 @@ Rocuronium은 신경근접합부의 니코틴성 아세틸콜린 수용체를 �
 **결정: Hold**
 
 **사유:**
-편두통 예측은 모델 점수만 있을 뿐 직접적인 임상시험이나 문헌이 없고, 기전상 연결고리도 없어 지식 그래프의 인공적 결과일 가능성이 높습니다. 전신 신경근 차단은 호흡 마비 위험이 있어 만성 질환 치료로 적합하지 않습니다.
+편두통 예측은 TxGNN 모델(딥러닝)의 점수만 있을 뿐 직접적인 임상시험이나 문헌이 없고, 기전상 연결고리도 없습니다. 이 점수는 모델이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다. 전신 신경근 차단은 호흡 마비 위험이 있어 만성 질환 치료로 적합하지 않습니다.
 
 **진행하려면 필요한 것:**
 - 편두통에 대한 기전적 근거 또는 전임상 데이터

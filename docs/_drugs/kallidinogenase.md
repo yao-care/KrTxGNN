@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Kallidinogenase
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 447
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Kallidinogenase: 예측 신규 적응증 혈색소병증 (Hemoglobinopathy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 데이터에 없음)"
+description: "Kallidinogenase: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Kallidinogenase"
-predicted_indications: ["hemoglobinopathy", "orofacial clefting syndrome", "Jeune syndrome situs inversus", "interventricular septum aneurysm", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 22"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Kallidinogenase
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,42 +35,16 @@ predicted_indications: ["hemoglobinopathy", "orofacial clefting syndrome", "Jeun
 
 </div>
 
-## Kallidinogenase: 허가 적응증 정보 미확인에서 혈색소병증(Hemoglobinopathy)으로
+## Kallidinogenase
 {: .text-alpha }
-
-## 한 문장 요약
-
-Kallidinogenase(조직 칼리크레인)는 한국에서 20건의 단일제 허가를 받아 시판 중인 경구 장용정 약물입니다. 다만 이번 보고서에 사용된 데이터에는 허가 적응증 본문이 포함되어 있지 않습니다.
-TxGNN 모델은 **혈색소병증(hemoglobinopathy)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다.
-현재로서는 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문이 데이터에 없음) |
-| 예측 신규 적응증 | 혈색소병증 (Hemoglobinopathy) |
-| TxGNN 예측 점수 | 98.78% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198902108/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506175/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405998/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603473/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402865/EE;  |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Kallidinogenase는 조직 칼리크레인 계열 효소로, 키닌을 생성해 혈관을 확장하고 미세순환을 개선하는 것으로 알려져 있습니다.
-
-이 특성이 겸상적혈구병의 혈관폐쇄 같은 혈색소병증의 혈관 합병증과 느슨하게 연결될 가능성은 있습니다. 그러나 이는 추측일 뿐 제공된 데이터로는 뒷받침되지 않습니다. 높은 TxGNN 점수(98.78%)는 계산상의 예측값이며, 실제 연구 근거가 아닙니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 혈색소병증과 직접 관련된 문헌이 없습니다.
-
-참고로 다른 예측 질환(당단백질 합성 장애)에 연결된 문헌 11편이 있으나, 모두 전임상 연구(망막 허혈, 뇌허혈/뇌졸중, 신경염증, 혈관신생, 내피 손상 등)입니다. 혈색소병증과는 관련이 없으며, 이 약이 허혈성 뇌졸중과 망막 허혈 쪽에서 더 많은 지지를 받고 있음을 보여줄 뿐입니다.
 
 ## 한국 시판 정보
 
@@ -86,19 +62,6 @@ TxGNN 모델은 **혈색소병증(hemoglobinopathy)**에 효과가 있을 수 �
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-혈색소병증에 대한 임상시험과 문헌이 전혀 없고, 근거 수준은 L5(모델 예측만 존재)입니다. 기전 연결도 추측 단계이며, 안전성 및 허가 적응증 정보도 확보되지 않았습니다.
-
-**진행하려면 필요한 것:**
-- 한국 허가사항(적응증, 경고, 금기) 확인
-- 상세한 약물 작용 기전(MOA) 데이터
-- 혈색소병증과 칼리크레인-키닌 경로를 연결하는 전임상 또는 기전 연구
-- 관련 임상시험 및 문헌 재검색
-- 다른 예측 질환의 우선순위 재검토: 상위 10개 중 대부분은 구조적 기형이나 염색체 이상으로 기전상 타당성이 낮아, 혈색소병증이 상대적으로 가장 개연성이 있습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

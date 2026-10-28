@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Uridine
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 773
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Uridine: 예측 신규 적응증 광선구순염 (Actinic Cheilitis) (근거 수준 L5). 기존 적응증: 혈관성 뇌질환 후유증, 기억력 장해, 집중력 장해 등의 정신 신경쇠약"
+description: "Uridine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Uridine"
-predicted_indications: ["actinic cheilitis", "squamous cell carcinoma", "dentinogenesis imperfecta", "angular cheilitis", "rectal cloacogenic carcinoma", "dry eye syndrome", "gallbladder adenosquamous carcinoma", "non-keratinizing sinonasal squamous cell carcinoma", "adenosquamous prostate carcinoma", "external ear basal cell carcinoma"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Uridine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,39 +35,16 @@ predicted_indications: ["actinic cheilitis", "squamous cell carcinoma", "dentino
 
 </div>
 
-## Uridine: 혈관성 뇌질환 후유증·정신 신경쇠약에서 광선구순염(Actinic Cheilitis)으로
+## Uridine
 {: .text-alpha }
-
-## 한 문장 요약
-
-Uridine은 한국에서 혈관성 뇌질환 후유증, 기억력 장해, 집중력 장해 등 정신 신경쇠약에 허가된 성분입니다.
-TxGNN 모델은 **광선구순염(Actinic Cheilitis)**에 효과가 있을 수 있다고 예측하지만, 이 예측을 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 혈관성 뇌질환 후유증, 기억력 장해, 집중력 장해 등의 정신 신경쇠약 |
-| 예측 신규 적응증 | 광선구순염 (Actinic Cheilitis) |
-| TxGNN 예측 점수 | 98.63% |
-| 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | 이 약은 혈관성 뇌질환 후유증, 기억력 장해, 집중력 장해 등의 정신 신경쇠약에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007983/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200553/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Uridine은 피리미딘 계열 뉴클레오사이드로, 단일 성분 제제로 허가되어 있습니다. 기존 적응증인 정신 신경쇠약에서의 사용 경험은 있으나, 이것이 광선구순염에 직접 적용된다고 볼 근거는 없습니다.
-
-가능한 가설은 Uridine이 피리미딘 대사와 당화(glycosylation)에 의존하는 상피 조직 복구를 돕는다는 것입니다. 다만 광선구순염에서 이를 뒷받침하는 연구는 확인되지 않았습니다. 기존 적응증(신경계 증상)과 신규 적응증(입술 점막의 광노화성 병변)은 질환 영역이 크게 달라 연관성도 뚜렷하지 않습니다. 따라서 이 예측은 모델 점수에 기반한 탐색적 가설로 보는 것이 적절합니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
@@ -81,19 +60,6 @@ TxGNN 모델은 **광선구순염(Actinic Cheilitis)**에 효과가 있을 수 �
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-광선구순염에 대해 임상시험과 문헌이 모두 없고 TxGNN 예측 점수만 있어 근거 수준이 L5입니다. 작용 기전 데이터와 안전성 정보도 부족해 현 단계에서는 진행을 권고하기 어렵습니다.
-
-**진행하려면 필요한 것:**
-- 작용 기전(MOA) 데이터 확보 및 광선구순염과의 기전적 연관성 분석
-- 허가사항(경고, 금기)을 확인해 안전성 검토
-- 광선구순염에서의 전임상 또는 탐색적 임상 근거 확인
-- 투여 경로(경구 제형만 확인됨)가 신규 적응증에 적합한지 평가
-- 참고: 같은 약물의 다른 예측 적응증인 **안구건조증(Dry Eye Syndrome)**은 토끼 모델 연구와 경구 Uridine의 소규모 예비 임상연구가 있어(L3), 후속 재창출 검토 대상으로 우선 고려할 수 있습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

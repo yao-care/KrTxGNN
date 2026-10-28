@@ -4,7 +4,7 @@ title: Levonorgestrel
 parent: 중등도 근거 (L3-L4)
 nav_order: 474
 evidence_level: L4
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Levonorgestrel: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 피임"
 monitor_inn: "LEVONORGESTREL"
@@ -14,7 +14,7 @@ predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant 
 # Levonorgestrel
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **6** 건
+근거 수준: **L4** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 |------|------|
 | 기존 적응증 | 피임 |
 | 예측 신규 적응증 | 여드름 (acne) |
-| TxGNN 예측 점수 | 99.88% |
+| TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -121,11 +121,10 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 
 | 순위 | 예측 적응증 | TxGNN 점수 | 비고 |
 |-----|-----------|-----------|------|
-| 2 | Worth 증후군 | 99.61% | 기전상 연관성 없음 |
-| 3 | 임신 연관 골다공증 | 99.45% | 프로게스틴 단독 피임은 일반적으로 뼈 보호 효과가 없고, 임신 중 사용은 금기 |
-| 4 | 상염색체 우성 신생혈관성 염증성 유리체망막병증 | 99.39% | 초희귀 유전성 안질환, 기전상 연관성 불명 |
-| 5 | 유방 둔관 선증(blunt duct adenosis) | 99.02% | 프로게스틴은 유방 조직 증식과 연관될 수 있어 반대 방향 효과 가능성 |
-| 6 | 유방 아포크린 선증(apocrine adenosis) | 99.02% | 위와 동일 |
+| 2 | Worth 증후군 | 0.9961 | 기전상 연관성 없음 |
+| 4 | 상염색체 우성 신생혈관성 염증성 유리체망막병증 | 0.9939 | 초희귀 유전성 안질환, 기전상 연관성 불명 |
+| 5 | 유방 둔관 선증(blunt duct adenosis) | 0.9902 | 프로게스틴은 유방 조직 증식과 연관될 수 있어 반대 방향 효과 가능성 |
+| 6 | 유방 아포크린 선증(apocrine adenosis) | 0.9902 | 위와 동일 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

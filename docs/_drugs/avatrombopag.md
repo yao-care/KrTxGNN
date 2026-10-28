@@ -4,17 +4,17 @@ title: Avatrombopag
 parent: 모델 예측만 (L5)
 nav_order: 106
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
-description: "Avatrombopag: 예측 신규 적응증 거대혈소판감소증… (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 내용을 확인하지 못함)"
+description: "Avatrombopag: 예측 신규 적응증 거대혈소판감소증, 승모판 폐쇄부전 동반 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 내용을 확인하지 못함)"
 monitor_inn: "Avatrombopag"
-predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "lower motor neuron syndrome with late-adult onset", "amyotrophic lateral sclerosis, susceptibility to", "Mills syndrome", "monomelic amyotrophy"]
+predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "monomelic amyotrophy"]
 ---
 
 # Avatrombopag
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency",
 
 </div>
 
-## Avatrombopag: 만성 간질환 관련 혈소판감소증에서 거대혈소판감소증(승모판 폐쇄부전 동반)으로
+## Avatrombopag: 만성 간질환 관련 혈소판감소증에서 거대혈소판감소증, 승모판 폐쇄부전 동반으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,9 +46,9 @@ Avatrombopag은 트롬보포이에틴 수용체(c-Mpl) 작용제로, 한국에�
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 내용을 확인하지 못함) |
 | 예측 신규 적응증 | 거대혈소판감소증, 승모판 폐쇄부전 동반 (marcothrombocytopenia with mitral valve insufficiency) |
-| TxGNN 예측 점수 | 99.995% |
+| TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ Avatrombopag은 트롬보포이에틴 수용체(c-Mpl) 작용제로, 한국에�
 
 다만 유전성 거대혈소판감소증은 거핵구 성숙, 세포골격 유전자, 혈소판 방출 이상 등 원인이 다양해 TPO 수용체 작용제가 효과적일지는 원인에 따라 달라질 수 있습니다. 승모판 폐쇄부전은 구조적 심장 이상이므로 이 약이 개선할 것으로 기대하기 어렵습니다.
 
-높은 TxGNN 점수는 지식그래프상 혈소판감소증 관련 질환과의 근접성을 반영한 것으로, 임상적 근거는 아닙니다.
+높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 혈소판감소증 관련 질환 사이에서 학습한 유사성을 반영할 수 있으나, 이는 생물학적 근거가 아니며 임상적 근거도 아닙니다.
 
 ### 기타 예측 적응증 (참고)
 
@@ -66,14 +66,14 @@ Avatrombopag은 트롬보포이에틴 수용체(c-Mpl) 작용제로, 한국에�
 
 | 순위 | 예측 질환 | 점수 | 기전 연관성 평가 |
 |------|---------|------|--------------|
-| 2 | 정상 혈소판을 동반한 유전성 혈소판감소증 | 99.995% | 질환명이 모호하여 연관성이 약하고 불확실함 |
-| 3 | 일과성 신생아 혈소판감소증 | 99.995% | 기전상 관련은 있으나 자연 회복되는 질환이며, 신생아 안전성·용량 자료가 없음 |
-| 4 | 치밀과립 질환 | 99.995% | 혈소판 수가 아닌 기능 결함이 핵심이라 연관성이 약하고 혈전 위험 고려 필요 |
-| 5, 8 | 근위축성 측삭경화증(ALS) 및 ALS 감수성 | 99.993%, 99.991% | 뚜렷한 기전 연결이 없으며 네트워크 기반 인공물로 판단됨 |
-| 6 | 양측 시상부 두정-후두엽 다소뇌회증 | 99.992% | 선천성 뇌 피질 기형으로 연관성이 없음 |
-| 7 | 성인 후기 발병 하위운동뉴런 증후군 | 99.992% | 운동뉴런질환과의 그래프 유사성에 기인한 것으로 보임 |
-| 9 | Mills 증후군 | 99.991% | 기전상 연결이 알려져 있지 않음 |
-| 10 | 단지성 근위축증 | 99.990% | 기전상 근거가 없으며 그래프 기반 인공물로 보임 |
+| 2 | 정상 혈소판을 동반한 유전성 혈소판감소증 | 1.0000 | 질환명이 모호하여 연관성이 약하고 불확실함 |
+| 3 | 일과성 신생아 혈소판감소증 | 1.0000 | 기전상 관련은 있으나 자연 회복되는 질환이며, 신생아 안전성·용량 자료가 없음 |
+| 4 | 치밀과립 질환 | 1.0000 | 혈소판 수가 아닌 기능 결함이 핵심이라 연관성이 약하고 혈전 위험 고려 필요 |
+| 5, 8 | 근위축성 측삭경화증(ALS) 및 ALS 감수성 | 1.0000, 1.0000 | 뚜렷한 기전 연결이 없으며 네트워크 기반 인공물로 판단됨 |
+| 6 | 양측 시상부 두정-후두엽 다소뇌회증 | 1.0000 | 선천성 뇌 피질 기형으로 연관성이 없음 |
+| 7 | 성인 후기 발병 하위운동뉴런 증후군 | 0.9999 | TxGNN 모델(딥러닝)이 운동뉴런질환 사이에서 학습한 유사성에 기인한 것으로, 생물학적 근거는 아닙니다 |
+| 9 | Mills 증후군 | 1.0000 | 기전상 연결이 알려져 있지 않음 |
+| 10 | 단지성 근위축증 | 0.9999 | 기전상 근거가 없으며, TxGNN 모델(딥러닝)이 학습한 유사 질환 간 유사성을 반영한 결과로 보입니다 |
 
 ## 한국 시판 정보
 
@@ -101,7 +101,7 @@ Avatrombopag은 트롬보포이에틴 수용체(c-Mpl) 작용제로, 한국에�
 **결정: Hold**
 
 **사유:**
-예측 점수는 매우 높지만 이를 뒷받침하는 임상시험과 문헌이 전혀 없는 L5 단계입니다. 1순위 질환은 승모판 폐쇄부전이라는 구조적 이상이 포함되어 있어 약물이 해결할 수 없는 부분이 있으며, 상위 예측 중 상당수(ALS, 다소뇌회증 등)는 기전상 근거가 없는 그래프 인공물로 보입니다.
+예측 점수는 매우 높지만 이를 뒷받침하는 임상시험과 문헌이 전혀 없는 L5 단계입니다. 1순위 질환은 승모판 폐쇄부전이라는 구조적 이상이 포함되어 있어 약물이 해결할 수 없는 부분이 있으며, 상위 예측 중 상당수(다소뇌회증 등)는 기전상 근거가 없고 TxGNN 모델(딥러닝)이 학습한 유사 질환 간 유사성을 반영한 것으로 보입니다.
 
 **진행하려면 필요한 것:**
 - 허가 적응증 및 경고·금기 정보 확보 (허가사항 PDF 내용 확인)

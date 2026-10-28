@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vitamin A: 예측 신규 적응증 선천성 프로트롬빈 결핍증 (congenital prothrombin deficiency) (근거 수준 L5). 기존 적응증: 육체피로 및 체력 저하 시 비타민 A·D·E·B군·C 보급, 눈의 건조감 완화, 야맹증, 피부염·구내염 증상 완화 등"
 monitor_inn: "Vitamin A"
-predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease", "disease by subcellular system affected", "radiation or chemically induced disorder"]
+predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "segmental odontomaxillary dysplasia", "florid cemento-osseous dysplasia", "perinatal disease", "disease by subcellular system affected", "radiation or chemically induced disorder"]
 ---
 
 # Vitamin A
@@ -47,9 +47,9 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(congenital prothrombin def
 |------|------|
 | 기존 적응증 | 육체피로 및 체력 저하 시 비타민 A·D·E·B군·C 보급, 눈의 건조감 완화, 야맹증, 피부염·구내염 증상 완화 등 |
 | 예측 신규 적응증 | 선천성 프로트롬빈 결핍증 (congenital prothrombin deficiency) |
-| TxGNN 예측 점수 | 99.97% (전체 순위 996위) |
+| TxGNN 예측 점수 | 0.9997 (전체 순위 996위) |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(congenital prothrombin def
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Vitamin A는 시각 회로, 상피세포 분화, 면역 기능에 관여하는 필수 영양소입니다. 국내에서는 다른 비타민과 함께 영양 보급 목적의 제품으로 허가되어 있습니다.
 
-그러나 신규 적응증과의 기전적 연관성은 약합니다. 프로트롬빈(응고인자 II) 합성은 **비타민 K 의존적 감마-카르복실화**에 의존하며, Vitamin A가 이 과정에 관여한다는 근거는 알려져 있지 않습니다. 선천성 프로트롬빈 결핍증은 유전적 원인으로 생기는 응고인자 결핍입니다. 따라서 이 높은 점수는 비타민·영양소 계열 약물이 지식 그래프에서 서로 가까운 이웃으로 연결되어 나온 결과일 가능성이 큽니다. 현 시점에서 치료적 타당성을 뒷받침하는 근거는 없습니다.
+그러나 신규 적응증과의 기전적 연관성은 약합니다. 프로트롬빈(응고인자 II) 합성은 **비타민 K 의존적 감마-카르복실화**에 의존하며, Vitamin A가 이 과정에 관여한다는 근거는 알려져 있지 않습니다. 선천성 프로트롬빈 결핍증은 유전적 원인으로 생기는 응고인자 결핍입니다. 따라서 이 높은 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있지만 생물학적 근거는 아닙니다. 현 시점에서 치료적 타당성을 뒷받침하는 근거는 없습니다.
 
 ## 임상시험 근거
 

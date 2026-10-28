@@ -8,6 +8,7 @@ nav_order: 60
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aminophylline Hydrate
@@ -51,7 +52,7 @@ AMINOPHYLLINE HYDRATE는 Xanthine 계열 기관지 확장제로, 기존에 천�
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 미포함) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (모델 예측 없음, 실제 연구 미확인) |
-| 한국 시판 현황 | 미상 (한국 허가 현황 미포함) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 (데이터 부재) |
 | 권장 결정 | **Hold** |
 

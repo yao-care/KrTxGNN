@@ -4,17 +4,17 @@ title: Calcifediol
 parent: 모델 예측만 (L5)
 nav_order: 169
 evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-15
-description: "Calcifediol: 예측 신규 적응증 비타민 D 의존성 구루병 (Vitamin D-dependent rickets) — 점수 1위는 obsolete vitamin… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에 문서 링크만 등록되어 있음)"
+indication_count: 2
 monitor_inn: "CALCIFEDIOL"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "hereditary hypophosphatemic rickets", "vitamin D-dependent rickets"]
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis"]
+last_modified_at: 2026-10-27
+description: "Calcifediol: 예측 신규 적응증 폐기된 비타민 D 결핍 (obsolete vitamin D deficiency) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE"
 ---
 
 # Calcifediol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **4** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,78 +33,64 @@ predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis
 
 </div>
 
-## Calcifediol: 비타민 D 결핍 관련 질환에서 비타민 D 의존성 구루병으로
+## Calcifediol: 비타민 D 대사체 → 폐기된 비타민 D 결핍 (obsolete vitamin D deficiency)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Calcifediol(25-하이드록시비타민 D3)은 순환 혈액 내 주요 비타민 D 대사체로, 한국에서는 수출용 연질캡슐로 허가되어 있습니다.
-TxGNN 모델은 여러 질환을 예측했으며, 그중 근거가 가장 구체적인 후보는 **비타민 D 의존성 구루병(Vitamin D-dependent rickets)**입니다.
-다만 이 후보를 직접 지지하는 임상시험은 없고 **문헌은 1편(증례/리뷰)**뿐이어서 근거는 제한적입니다.
-
-> 참고: TxGNN 점수 1위 후보는 "obsolete vitamin D deficiency"(99.99%)이지만, 폐기된 질환 용어로 기존 적응증과 중복될 가능성이 높아 신규 재창출 기회로 보기 어렵습니다. 본 보고서는 실질적 검토 가치가 가장 큰 4위 후보(비타민 D 의존성 구루병)를 중심으로 평가하되, 다른 후보도 함께 제시합니다.
+Calcifediol은 25-하이드록시비타민 D3로, 순환 혈중 비타민 D의 주요 대사체이자 칼시트리올의 직접적인 전구체입니다.
+TxGNN 모델은 **폐기된 비타민 D 결핍(obsolete vitamin D deficiency)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**이어서 모델 예측 단계에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가증에 문서 링크만 등록되어 있음) |
-| 예측 신규 적응증 | 비타민 D 의존성 구루병 (Vitamin D-dependent rickets) — 점수 1위는 obsolete vitamin D deficiency |
-| TxGNN 예측 점수 | 99.18% (비타민 D 의존성 구루병) / 1위 후보: 99.99% |
-| 근거 수준 | L4 (비타민 D 의존성 구루병), 1위 후보는 L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 1건 |
-| 권장 결정 | Hold (비타민 D 의존성 구루병 1B형은 추가 임상 평가가 필요한 연구 과제) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE |
+| 예측 신규 적응증 | 폐기된 비타민 D 결핍 (obsolete vitamin D deficiency) |
+| TxGNN 예측 점수 | 0.9999 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 1건 (단일제 1건, 유효) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 calcifediol은 간에서 비타민 D가 25-수산화되어 생성되는 주요 순환 대사체이며, 신장의 1α-수산화효소에 의해 활성형인 칼시트리올(1,25-디하이드록시비타민 D)로 전환되는 직접 전구체입니다.
+현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 Calcifediol은 간에서 만들어지는 비타민 D3의 25-수산화 대사체로, 활성형인 칼시트리올의 직접 전구체입니다. 따라서 비타민 D 결핍 상태를 교정하는 데 기전상 적용 가능성이 있습니다.
 
-비타민 D 의존성 구루병 1B형은 간의 25-수산화효소(CYP2R1) 결핍으로 비타민 D가 calcifediol로 전환되지 못해 발생합니다. Calcifediol을 직접 공급하면 결손된 단계를 우회할 수 있어 기전상 근거가 강합니다. 반면 1A형(1α-수산화효소 결핍)과 2형(VDR 결함)에서는 같은 효과를 기대하기 어려워, 이점은 아형에 따라 달라집니다.
-
-다른 후보의 기전적 타당성은 다음과 같습니다.
-- **신세뇨관 산증**: 만성 산증, 고칼슘뇨, 비타민 D 활성화 장애로 인한 이차성 대사성 골질환 관리에 도움이 될 수 있으나, 산-염기 이상 자체를 교정하지는 못하는 간접적 연관입니다.
-- **유전성 저인산혈증 구루병**: FGF23 과다로 신장 1α-수산화가 억제되므로, calcifediol은 활성형 비타민 D 제제(칼시트리올, 알파칼시돌)보다 기전상 역할이 약합니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [28548312](https://pubmed.ncbi.nlm.nih.gov/28548312/) | 2017 | 리뷰/증례 | J Bone Miner Res | 25-수산화효소 결핍(비타민 D 의존성 구루병 1B형)이 드문 질환인지 오진되는 질환인지 검토. 2개 가족 7명의 환자 보고 |
-| [38337700](https://pubmed.ncbi.nlm.nih.gov/38337700/) | 2024 | 리뷰 | Nutrients | 구루병 유형별 비타민 D 및 유사체 치료 개관 (유전성 저인산혈증 구루병 관련, calcifediol 특이적이지 않음) |
+다만 이 질환명은 온톨로지에서 폐기(obsolete) 처리된 용어입니다. 높은 예측 점수는 현재 사용되는 비타민 D 결핍 관련 용어와 겹치는 과거 명칭을 반영했을 가능성이 크며, 진정한 의미의 새로운 재창출 기회라고 보기는 어렵습니다. 이 예측을 뒷받침하는 임상시험이나 문헌도 확인되지 않았습니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 202301717 | 칼디올연질캡슐20마이크로그램(칼시페디올)(수출용) | 연질캡슐 (연한 살색 타원형, 무색~미황색 투명 내용액) | 적응증 본문 미확인 (허가 문서 링크만 등록) |
+| 202301717 | 칼디올연질캡슐20마이크로그램(칼시페디올)(수출용) | 연한 살색의 타원형 연질캡슐 (무색~미황색 투명 내용액) | 적응증 텍스트 미기재 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 57건이 확인되었습니다. 주요(Major) 상호작용 약물은 다음과 같습니다.
-  - Cholecalciferol, Calcitriol (비타민 D 계열 중복 투여에 따른 고칼슘혈증 위험)
+- **약물 상호작용**: 총 57건이 확인되었으며, 주요(Major) 등급은 다음과 같습니다.
+  - Cholecalciferol
+  - Calcitriol
   - Burosumab
-- 중등도(Moderate) 상호작용 약물에는 티아지드계 이뇨제(hydrochlorothiazide, chlorothiazide, chlorthalidone 등), 항경련제 및 바르비투르산계(fosphenytoin, carbamazepine, amobarbital, butalbital, butabarbital), 담즙산 결합제(cholestyramine, colesevelam, colestipol), 알루미늄 수산화물, 디지톡신, 칼시포트리올/칼시트리올 외용제가 포함됩니다.
-- **지식그래프 기반 금기 질환** (허가사항이 아닌 TxGNN 지식그래프 정보): 신장 질환, 신석회화증, 신결석증, 고칼슘혈증, 고인산혈증, 인 대사 질환, 사르코이드증, 비타민 과다증, 급성 요산 신병증, 폐쇄성 동맥경화증, 농뇨관(pyoureter) 등.
+- 중등도(Moderate) 등급 상호작용에는 다음이 포함됩니다.
+  - 항경련제: fosphenytoin, carbamazepine, 바르비튜레이트계(amobarbital, butalbital, butabarbital)
+  - 티아지드계 이뇨제: hydrochlorothiazide, chlorothiazide, chlorthalidone 등
+  - 담즙산 결합제: cholestyramine, colesevelam, colestipol
+  - 기타: 수산화알루미늄, 국소 칼시포트리올, digitoxin
+
+허가사항의 경고 및 금기는 이번 자료에서 확인되지 않았으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 높지만 직접적인 임상시험이 없고, 문헌도 간접적인 리뷰·증례 수준(L4)에 그칩니다. 1위 후보는 폐기된 질환 용어로 기존 적응증과 중복될 가능성이 높습니다. 비타민 D 의존성 구루병 1B형은 기전상 근거가 강해 추가 연구 가치는 있으나, 안전성 검토가 선행되어야 합니다.
+예측 질환명이 폐기된 용어이고, 직접 연구한 임상시험과 문헌이 없어 근거가 모델 예측뿐(L5)입니다. 기존 비타민 D 결핍 관련 용도와 중복되는 개념일 가능성이 높습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증 본문) 확보: 안전성 1차 검토를 위한 필수 선행 자료
-- 상세한 약물 작용 기전(MOA) 데이터 보완
-- 비타민 D 의존성 구루병 1B형에서 calcifediol의 효과를 평가한 증례 보고 및 임상 문헌의 체계적 검토
-- 고칼슘혈증·신장 질환 관련 안전성 모니터링 계획 (칼슘, 인, 신기능 추적)
-- 아형(1A, 1B, 2형)별 적용 가능성 정리
-- 수출용 허가 제품이므로 국내 사용 가능한 제형·경로 확인
+- 허가사항(경고·금기·적응증)의 확보 및 분석
+- 상세한 약물 작용 기전(MOA) 데이터
+- 현행 질환 용어와의 대응 관계 정리 및 해당 질환을 직접 다룬 임상시험·문헌 확인
+- 한국 시판·허가 상태 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

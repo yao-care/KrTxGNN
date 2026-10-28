@@ -4,17 +4,17 @@ title: Roxithromycin
 parent: 모델 예측만 (L5)
 nav_order: 673
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Roxithromycin: 예측 신규 적응증 나병 (Leprosy) (근거 수준 L5). 기존 적응증: 호흡기·요로·연조직 감염 (DrugBank/약리학 자료 기준. 한국 허가 적응증 원문은 이번 자료에 텍스트로 포함되지 않음)"
 monitor_inn: "Roxithromycin"
-predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension", "migraine disorder", "female breast carcinoma"]
+predicted_indications: ["leprosy", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "pulmonary hypertension"]
 ---
 
 # Roxithromycin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Roxithromycin은 마크로라이드계 항생제로, 호흡기·요로·연조�
 |------|------|
 | 기존 적응증 | 호흡기·요로·연조직 감염 (DrugBank/약리학 자료 기준. 한국 허가 적응증 원문은 이번 자료에 텍스트로 포함되지 않음) |
 | 예측 신규 적응증 | 나병 (Leprosy) |
-| TxGNN 예측 점수 | 99.70% |
-| 근거 수준 | L3 (체외·동물 연구 및 리뷰만 존재. 판정 규칙의 L4에 더 가까우나 데이터 분류상 L3로 기재됨) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9970 |
+| 근거 수준 | L5 (체외·동물 연구 및 리뷰만 존재. 판정 규칙의 L4에 더 가까우나 데이터 분류상 L3로 기재됨) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Hold (추가 연구 질문 단계) |
 
@@ -106,7 +106,7 @@ Roxithromycin은 마크로라이드계 항생제로, 호흡기·요로·연조�
 - 나병 환자 대상 roxithromycin 임상 데이터 또는 시험 설계 (clarithromycin 및 기존 다제요법과의 비교 포함)
 - 기존 항나병제와의 병용 시 상호작용 평가
 
-**참고:** 나머지 예측 적응증(다모증, 폐동맥고혈압, 편두통, 여성 유방암 등)은 임상시험·직접 근거가 없거나 매우 간접적이어서 모두 Hold로 평가되며, 특히 유방암은 T-DM1 효과를 약화시킬 수 있다는 점에서 재창출에 불리한 방향입니다.
+**참고:** 나머지 예측 적응증(다모증, 폐동맥고혈압 등)은 임상시험·직접 근거가 없거나 매우 간접적이어서 모두 Hold로 평가됩니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

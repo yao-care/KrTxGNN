@@ -4,17 +4,17 @@ title: Tretinoin
 parent: 모델 예측만 (L5)
 nav_order: 760
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Tretinoin: 예측 신규 적응증 류마티스 결절증 (rheumatoid nodulosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않았습니다 (허가증에 PDF 링크만 있음)"
 monitor_inn: "TRETINOIN"
-predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "spondyloarthropathy, susceptibility to", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 ---
 
 # Tretinoin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허�
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 확인되지 않았습니다 (허가증에 PDF 링크만 있음) |
 | 예측 신규 적응증 | 류마티스 결절증 (rheumatoid nodulosis) |
-| TxGNN 예측 점수 | 99.84% |
+| TxGNN 예측 점수 | 0.9984 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 7건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 tretinoin은 레티노이드 계열 약물로, 레티노산 수용체(RAR) 신호를 통해 세포 분화와 면역 반응에 관여할 수 있습니다.
 
-이를 근거로 T세포 분화와 염증성 사이토카인에 영향을 주어 류마티스 질환에 작용할 가능성을 생각해 볼 수 있습니다. 다만 이는 이론적 추정일 뿐이며, 류마티스 결절증에 대한 직접적인 근거는 없습니다. 높은 그래프 기반 점수만으로 효능이 입증되지는 않습니다.
+이를 근거로 T세포 분화와 염증성 사이토카인에 영향을 주어 류마티스 질환에 작용할 가능성을 생각해 볼 수 있습니다. 다만 이는 이론적 추정일 뿐이며, 류마티스 결절증에 대한 직접적인 근거는 없습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 따라서 높은 점수만으로 효능이 입증되지는 않습니다.
 
 예측 순위 상위 10개 중 대부분(류마티스 결절증, 소아 특발성 관절염 계열, 척추관절병증 감수성 등)은 관절·면역 질환군에 속합니다. 소아 관절염 계열 항목들은 서로 동의어이거나 중복되는 개념이어서 독립적인 근거로 볼 수 없습니다. 이 외에 골이형성증과 모낭염 항목도 있으며, 모낭염(Quinquaud 탈모성 모낭염)이 피부과적으로는 가장 그럴듯하지만 이 역시 근거가 없습니다.
 
@@ -109,7 +109,7 @@ Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허�
 **결정: Hold**
 
 **사유:**
-TxGNN 예측 점수는 높지만(99.84%) 임상시험과 직접 관련 문헌이 없어 근거 수준이 L5에 머뭅니다. 허가 적응증 본문과 허가사항 안전성 정보도 확인되지 않아 안전성 1차 검토를 진행할 수 없습니다.
+TxGNN 예측 점수는 높지만(0.9984) 임상시험과 직접 관련 문헌이 없어 근거 수준이 L5에 머뭅니다. 허가 적응증 본문과 허가사항 안전성 정보도 확인되지 않아 안전성 1차 검토를 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
 - 식약처 허가증(PDF)에서 적응증, 경고, 금기 정보 확보

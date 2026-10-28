@@ -6,7 +6,7 @@ nav_order: 161
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
-description: "Bromocriptine: 예측 신규 적응증 선천성 당화 장애… (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
+description: "Bromocriptine: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증… (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
 monitor_inn: "Bromocriptine"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "syndromic myopia"]
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["congenital disorder of glycosylation with defective fuc
 
 </div>
 
-## Bromocriptine: 허가 적응증 정보 미확인에서 선천성 당화 장애(예측 1순위)로
+## Bromocriptine: 허가 적응증 정보 미확인에서 푸코실화 결함을 동반한 선천성 당화 이상증(예측 1순위)로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -48,9 +48,9 @@ TxGNN 모델은 **선천성 당화 장애(fucosylation 결함형)**를 1순위 �
 |------|------|
 | 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
 | 예측 신규 적응증 | 선천성 당화 장애, fucosylation 결함형 (congenital disorder of glycosylation with defective fucosylation) |
-| TxGNN 예측 점수 | 99.83% |
+| TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **선천성 당화 장애(fucosylation 결함형)**를 1순위 �
 
 현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 일반적으로 알려진 바로는 bromocriptine은 도파민 D2 수용체 작용제입니다. 이 작용은 프로락틴 분비 조절과 도파민 신호 전달에 관여합니다.
 
-1순위 예측인 fucosylation 결함형 선천성 당화 장애는 당 사슬 부착 과정의 유전적 결함이며, 도파민 D2 작용과 연결되는 기전은 확인되지 않았습니다. 이 높은 점수는 지식 그래프 기반 예측일 뿐이며, 생물학적·임상적 근거가 없습니다.
+1순위 예측인 fucosylation 결함형 선천성 당화 장애는 당 사슬 부착 과정의 유전적 결함이며, 도파민 D2 작용과 연결되는 기전은 확인되지 않았습니다. 이 높은 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적·임상적 근거가 아닙니다.
 
 참고로 상위 10개 예측 중 일부는 약리학적으로 느슨한 연관성이 있습니다.
 - **망막 이영양증(3순위)**: 망막 생리에 도파민 신호가 관여합니다. 2024년 전임상 연구(PMID 39009597)에서 tamsulosin, metoprolol, bromocriptine 병용이 여러 망막병증 모델에서 효과를 보였습니다.

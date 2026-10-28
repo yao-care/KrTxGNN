@@ -4,17 +4,17 @@ title: Guaifenesin
 parent: 모델 예측만 (L5)
 nav_order: 396
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Guaifenesin: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 기침, 가래, 콧물, 코막힘, 재채기"
 monitor_inn: "GUAIFENESIN"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 ---
 
 # Guaifenesin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **비강 질환(Nasal Cavity Disease)**에 효과가 있을 수 
 |------|------|
 | 기존 적응증 | 기침, 가래, 콧물, 코막힘, 재채기 |
 | 예측 신규 적응증 | 비강 질환 (Nasal Cavity Disease) |
-| TxGNN 예측 점수 | 99.98% |
-| 근거 수준 | L4 (간접 문헌 1편, 임상시험 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9998 |
+| 근거 수준 | L5 (간접 문헌 1편, 임상시험 없음) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 8건 |
 | 권장 결정 | Hold |
 

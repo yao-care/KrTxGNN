@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 227
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Clomifene: 예측 신규 적응증 46,XY 성분화 장애, 고환 스테로이드 합성 결함에 의한 경우 (46… (근거 수준 L5). 기존 적응증: 배란 장애로 인한 여성 불임 (허가증에는 적응증 원문 대신 식약처 문서 링크만 등록되어 있어…"
 monitor_inn: "Clomifene"
-predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12"]
+predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "longitudinal vaginal septum", "transverse vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "ovarian remnant syndrome"]
+last_modified_at: 2026-10-23
+description: "Clomifene: 예측 신규 적응증 46,XY disorder of sex development due to testicular steroidogenesis defect (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 확인됨)"
 ---
 
 # Clomifene
@@ -33,95 +33,60 @@ predicted_indications: ["46,XY disorder of sex development due to testicular ste
 
 </div>
 
-## Clomifene: 배란 장애성 불임에서 46,XY 성분화 장애(고환 스테로이드 합성 결함)로
+## Clomifene: 기존 적응증 정보 확인 불가에서 46,XY disorder of sex development due to testicular steroidogenesis defect로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Clomifene은 선택적 에스트로겐 수용체 조절제(SERM)로, 배란이 일어나지 않아 생기는 여성 불임을 치료하는 데 사용되어 왔습니다.
-TxGNN 모델은 **46,XY 성분화 장애(고환 스테로이드 합성 결함에 의한 경우)**에 효과가 있을 수 있다고 예측하지만, 이 적응증을 직접 뒷받침하는 **임상시험과 문헌은 없습니다**. 모델 예측만 있는 단계입니다.
+Clomifene은 한국에서 허가된 단일 성분 제제(영풍클로미펜시트르산염정)가 있으나, 이번 보고서용으로 정리된 데이터에는 허가 적응증의 본문이 포함되어 있지 않습니다(링크 주소만 확인됨). TxGNN 모델은 **46,XY 성분화 이상(고환 스테로이드 생성 결함)**에 효과가 있을 수 있다고 예측하지만, 이를 직접 뒷받침하는 **임상시험과 문헌은 각각 0건**입니다. 따라서 근거 수준은 L5(모델 예측만 존재)입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 배란 장애로 인한 여성 불임 (허가증에는 적응증 원문 대신 식약처 문서 링크만 등록되어 있어, 약리학 자료의 임상 용도를 기준으로 기재) |
-| 예측 신규 적응증 | 46,XY 성분화 장애, 고환 스테로이드 합성 결함에 의한 경우 (46,XY disorder of sex development due to testicular steroidogenesis defect) |
-| TxGNN 예측 점수 | 99.90% |
-| 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 1건 |
+| 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 확인됨) |
+| 예측 신규 적응증 | 46,XY 성분화 이상(고환 스테로이드 생성 결함 기인) |
+| TxGNN 예측 점수 | 0.9990 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 1건 (단일 성분 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 확보되어 있지 않습니다. 알려진 약리 정보에 따르면 Clomifene은 에스트로겐 수용체 알파(ESR1)에 작용하는 SERM입니다. 시상하부의 에스트로겐 음성 되먹임을 차단해 황체형성호르몬(LH)과 난포자극호르몬(FSH)의 분비를 늘리고, 이를 통해 배란을 유도합니다.
+현재 상세한 작용 기전 데이터는 DrugBank 등에서 확보되지 않았습니다. 다만 약리학 데이터에는 Clomifene이 에스트로겐 수용체 알파(ESR1)에 작용하는 선택적 에스트로겐 수용체 조절제로 기록되어 있습니다. 이 약은 시상하부의 에스트로겐 음성 되먹임을 차단하여 GnRH, LH, FSH 분비를 높이며, 배란 장애에 의한 여성 불임(예: 다낭성 난소 증후군) 치료에 쓰이는 것으로 알려져 있습니다.
 
-성선자극호르몬이 늘면 이론적으로 성호르몬 합성 경로에 영향을 줄 수 있어, 스테로이드 합성과의 연관성이 예측의 배경으로 보입니다. 그러나 이 질환은 고환 스테로이드 합성 효소 자체의 선천적 결함이 원인입니다. 성선자극호르몬 자극을 늘려도 효소 결함이 교정되기는 어렵습니다. 따라서 높은 점수는 지식 그래프상의 근접성을 반영한 계산상 예측으로 보는 것이 안전하며, 기전적 타당성은 제한적입니다.
+이론적으로는 높아진 성선자극호르몬이 잔존 라이디히 세포의 스테로이드 생성을 자극할 수 있습니다. 그러나 이 질환은 스테로이드 합성 효소 자체의 결함이므로 성선자극호르몬을 늘려도 반응하기 어렵습니다. 예측 점수는 높지만 기전은 추측 수준입니다.
 
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
-
-## 참고: 다른 예측 적응증 중 근거가 있는 항목
-
-예측 상위 10건 중 근거 자료가 있는 것은 **여성 불임(female infertility, 점수 99.81%, 근거 수준 L1)** 하나뿐입니다. 이는 Clomifene의 기존 용도와 사실상 같아서 진정한 의미의 재창출로 보기 어렵습니다. 나머지 예측은 모두 L5이며 근거 자료가 없습니다.
-
-| 순위 | 예측 적응증 | 점수 | 평가 |
-|-----|-----------|------|------|
-| 2 | 가로 질중격 | 99.87% | 구조적 선천 기형으로 수술적 치료 대상입니다. 약물 효과의 근거가 없고 그래프상 우연한 연관일 가능성이 큽니다. |
-| 3 | 세로 질중격 | 99.87% | 위와 동일합니다. |
-| 4 | 여성 불임 | 99.81% | 기존 용도와 일치하며 근거가 있습니다. |
-| 5 | 여성 보인자의 증상성 취약 X 증후군 | 99.69% | 조기 난소 기능 부전을 통한 간접적 연관일 뿐 추측 수준입니다. |
-| 6~7 | 안검열소·내안각췌피·안검하수 증후군(BPES) 및 3q23 재배열형 | 99.61%, 99.58% | 난소 표현형과의 연관 때문으로 보이며, 안검 기형에는 효과를 기대하기 어렵습니다. |
-| 8~10 | 염색체 5p·12p·18p 부분 삼염색체/사염색체 | 약 99.54% | SERM 기전과 무관한 염색체 이상으로, 그래프상 유사성에 의한 예측입니다. |
-
-여성 불임 관련 주요 근거는 다음과 같습니다.
-
-**임상시험**
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00478504](https://clinicaltrials.gov/study/NCT00478504) | Phase 4 | 완료 | 159 | 다낭성 난소 증후군 여성에서 배란 유도 시 letrozole과 clomifene citrate를 비교한 이중맹검 교차 무작위 시험 (결과 데이터는 확인되지 않음) |
-| [NCT02544776](https://clinicaltrials.gov/study/NCT02544776) | 해당 없음 | 완료 | 60 | 다낭성 난소 환자에서 amlodipine 병용 시 난포 혈류와 임신 결과가 개선될 가능성 (Clomifene 자체의 효능 시험은 아님) |
-
-**문헌**
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [29273245](https://pubmed.ncbi.nlm.nih.gov/29273245/) | 2018 | 무작위 대조시험 (M-OVIN) | Lancet | Clomifene 실패 정상성선자극호르몬성 무배란 여성에서 성선자극호르몬과 clomifene 지속 요법 비교 |
-| [18687718](https://pubmed.ncbi.nlm.nih.gov/18687718/) | 2008 | 무작위 대조시험 | BMJ | 원인불명 불임에서 clomifene citrate 또는 자궁내 인공수정을 경과 관찰과 비교 |
-| [21127355](https://pubmed.ncbi.nlm.nih.gov/21127355/) | 2011 | 경제성 평가 (RCT 연계) | Hum Reprod | 원인불명 불임의 1차 치료로서 clomifene과 자궁내 인공수정의 비용 효과 분석 |
-| [22554175](https://pubmed.ncbi.nlm.nih.gov/22554175/) | 2012 | 리뷰 | Women's Health | 다낭성 난소 증후군 불임에서 생활습관 교정과 약물 치료 |
+참고로 2~10위 예측(세로 질중격, 가로 질중격, 취약 X 증후군 여성 보인자, BPES 및 하위형, 염색체 부분 삼염색체/사염색체, 난소 잔존 증후군)도 모두 L5이며 Hold입니다. 대부분 구조 이상이나 염색체 이상으로 약물 기전과 연결되지 않으며, 이 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영한 것일 수 있고 생물학적 근거는 아닙니다. 특히 난소 잔존 증후군은 잔존 조직을 자극해 증상을 악화시킬 수 있어 안전성 우려가 큽니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 199502153 | 영풍클로미펜시트르산염정 (영풍제약) | 등황색 원형 정제 | 적응증 원문은 [식약처 허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199502153/EE)에서 확인 필요 |
+| 199502153 | 영풍클로미펜시트르산염정 | 등황색 원형 정제 | 적응증 본문 확인 불가 (허가 문서 링크만 확인됨) |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: Bexarotene과 병용 시 **Major(중대)** 등급의 상호작용이 보고되어 있습니다.
+- **약물 상호작용**: 총 3건이 조회되었습니다.
+  - Bexarotene: 주요(Major) 등급 상호작용 (DDInter)
+  - 에스트로겐 수용체 알파(ESR1) 및 VRAC: 약리학적 표적 정보이며 등급은 제시되지 않았습니다.
+- 난소 잔존 증후군 예측에 대해서는 성선자극호르몬 자극으로 통증이나 낭종 등 증상이 악화될 수 있다는 우려가 있습니다.
 
-그 밖의 경고 및 금기 정보는 허가사항을 참조하세요.
+허가사항의 경고 및 금기는 확보되지 않았으므로 허가사항(패키지 인서트)을 직접 확인해야 합니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-46,XY 성분화 장애(고환 스테로이드 합성 결함)에 대한 임상시험과 문헌이 없고, 예측 점수가 높아도 모델 예측일 뿐입니다. 이 질환은 효소 결함이 원인이어서 성선자극호르몬을 자극하는 Clomifene의 기전과 맞지 않을 가능성이 큽니다.
+예측 질환에 대한 임상시험과 문헌이 모두 없고 기전도 추측 수준이어서 L5에 해당합니다. 또한 허가 적응증 본문과 경고·금기 정보가 없어 안전성 1차 검토도 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
-- 허가 적응증 원문과 허가사항의 경고·금기 정보 확보 (현재는 문서 링크만 확인됨)
-- 상세한 작용 기전 데이터 확보
-- 해당 질환에서 Clomifene 반응을 평가한 전임상 또는 증례 근거
-- 여성 불임은 기존 적응증이므로 재창출 대상에서 제외하고, 허가 적응증과의 일치 여부만 확인
+- MFDS 허가사항(PDF)에서 적응증, 경고, 금기 정보 확보
+- DrugBank 등에서 작용 기전(MOA) 데이터 확보
+- 상위 예측 질환(고환 스테로이드 생성 결함 등)에 대한 직접적인 임상시험 및 문헌 조사
+- 시판 상태(허가 취소 여부) 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

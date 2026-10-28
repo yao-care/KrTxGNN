@@ -4,17 +4,17 @@ title: Palbociclib
 parent: 모델 예측만 (L5)
 nav_order: 574
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Palbociclib: 예측 신규 적응증 갑상선기능항진증 (Hyperthyroidism) (근거 수준 L5). 기존 적응증: 유방암 (허가 적응증 원문은 링크 형태로만 확인되어, 일반적으로 알려진 적응증을 기재)"
 monitor_inn: "Palbociclib"
-predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brachydactyly-syndactyly syndrome", "myeloid leukemia", "multiple endocrine neoplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hyperthyroxinemia", "Prinzmetal angina"]
+predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 ---
 
 # Palbociclib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **갑상선기능항진증(Hyperthyroidism)**에 효과가 있�
 |------|------|
 | 기존 적응증 | 유방암 (허가 적응증 원문은 링크 형태로만 확인되어, 일반적으로 알려진 적응증을 기재) |
 | 예측 신규 적응증 | 갑상선기능항진증 (Hyperthyroidism) |
-| TxGNN 예측 점수 | 99.44% |
+| TxGNN 예측 점수 | 0.9944 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 12건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **갑상선기능항진증(Hyperthyroidism)**에 효과가 있�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Palbociclib은 CDK4/6(사이클린 의존성 키나제 4/6)을 억제하는 세포주기 조절 약물이며, 유방암에서 효능이 입증되어 있습니다.
 
-다만 이번에 정리한 자료에서는 CDK4/6 억제와 갑상선 호르몬 과잉 사이의 기전적 연결고리를 확인하지 못했습니다. 99.44%라는 높은 점수는 지식 그래프 상의 연관성에서 나온 예측일 뿐입니다. 갑상선기능항진증은 호르몬 과잉 분비를 조절해야 하는 질환이어서, 세포 증식을 억제하는 항종양 기전과는 치료 논리가 다릅니다. 따라서 이 예측은 현재로서는 타당성을 설명하기 어렵습니다.
+다만 이번에 정리한 자료에서는 CDK4/6 억제와 갑상선 호르몬 과잉 사이의 기전적 연결고리를 확인하지 못했습니다. 0.9944라는 높은 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있으며 생물학적 근거를 의미하지는 않습니다. 갑상선기능항진증은 호르몬 과잉 분비를 조절해야 하는 질환이어서, 세포 증식을 억제하는 항종양 기전과는 치료 논리가 다릅니다. 따라서 이 예측은 현재로서는 타당성을 설명하기 어렵습니다.
 
 ## 임상시험 근거
 

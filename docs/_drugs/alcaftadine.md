@@ -8,6 +8,7 @@ nav_order: 33
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alcaftadine
@@ -61,7 +62,7 @@ Alcaftadine(DB06766)은 현재 한국 미시판 약물로, 이번 TxGNN 파이�
 | 예측 신규 적응증 | 없음 (TxGNN 후보 미생성) |
 | TxGNN 예측 점수 | N/A |
 | 근거 수준 | N/A |
-| 한국 시판 현황 | 미시판 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 

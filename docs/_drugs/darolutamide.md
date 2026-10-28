@@ -4,17 +4,17 @@ title: Darolutamide
 parent: 모델 예측만 (L5)
 nav_order: 252
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Darolutamide: 예측 신규 적응증 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 링크 형태로만 제공되어 구체적인 문구를 확인할 수 없음 (안드로겐 수용체 길항제로서 전립선암 영역에…"
 monitor_inn: "Darolutamide"
-predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "cytomegalovirus infection", "thrombotic disease", "malignant catarrh", "infectious bovine rhinotracheitis"]
+predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease"]
 ---
 
 # Darolutamide
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Fam
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 링크 형태로만 제공되어 구체적인 문구를 확인할 수 없음 (안드로겐 수용체 길항제로서 전립선암 영역에 사용) |
 | 예측 신규 적응증 | 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) |
-| TxGNN 예측 점수 | 99.11% |
+| TxGNN 예측 점수 | 0.9911 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Fam
 
 반면 동형접합 가족성 고콜레스테롤혈증은 LDL 수용체 경로의 결함으로 발생하는 유전성 질환입니다. 안드로겐 수용체 차단과 이 질환의 병태생리 사이에서 타당한 기전적 연결고리는 확인되지 않았습니다.
 
-따라서 높은 예측 점수는 지식 그래프 기반의 네트워크 예측 결과일 뿐이며, 임상적·문헌적 뒷받침이 없습니다. 기전상 적용 가능하다고 보기 어렵습니다.
+따라서 높은 예측 점수는 TxGNN 모델(딥러닝)의 예측 결과일 뿐이며, 모델이 학습한 관련 질환 간 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. 임상적·문헌적 뒷받침이 없으며, 기전상 적용 가능하다고 보기 어렵습니다.
 
 ## 한국 시판 정보
 
@@ -94,7 +94,7 @@ TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Fam
 **결정: Hold**
 
 **사유:**
-예측 점수는 높지만(99.11%) 임상시험과 문헌 근거가 없고 기전적 연결고리도 확인되지 않아 L5 수준에 머뭅니다. 게다가 스타틴계와의 주요 상호작용이 보고되어 있어 이 적응증으로 진행할 근거가 부족합니다.
+예측 점수는 높지만(0.9911) 임상시험과 문헌 근거가 없고 기전적 연결고리도 확인되지 않아 L5 수준에 머뭅니다. 게다가 스타틴계와의 주요 상호작용이 보고되어 있어 이 적응증으로 진행할 근거가 부족합니다.
 
 **진행하려면 필요한 것:**
 - 안드로겐 수용체 신호와 LDL 수용체 경로 간 연관성을 보여주는 전임상·기전 연구
@@ -109,13 +109,8 @@ TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Fam
 
 | 순위 | 예측 적응증 | 점수 | 근거 수준 | 비고 |
 |-----|-----------|------|---------|------|
-| 2 | 다발성 내분비 종양 (Multiple Endocrine Neoplasia) | 99.06% | L4 | 연결된 임상시험 2건은 전립선암 대상이며 MEN과 직접 관련 없음 |
-| 3 | HIV 감염 | 99.04% | L5 | 항바이러스 기전 없음 |
-| 4–5 | 고양이 후천성 면역결핍증, 원숭이 면역결핍바이러스 감염 | 98.70% | L5 | 그래프 전파 산물로 추정 |
-| 6 | 신경발달장애(운동실조 보행, 언어 상실 동반) | 98.56% | L5 | 안드로겐 수용체 신호와 연관 없음 |
-| 7 | 거대세포바이러스 감염 | 98.33% | L5 | 항바이러스 기전 없음 |
-| 8 | 혈전성 질환 | 98.29% | L4 | 증례 보고 1편뿐이며 치료 효과가 아니라 안전성 신호일 가능성이 더 큼 |
-| 9–10 | 악성 카타르열, 소 전염성 비기관염 | 98.18% | L5 | 수의학 질환으로 인체 관련성 없음 |
+| 2 | 다발성 내분비 종양 (Multiple Endocrine Neoplasia) | 0.9906 | L5 | 연결된 임상시험 2건은 전립선암 대상이며 MEN과 직접 관련 없음 |
+| 3 | HIV 감염 | 0.9904 | L5 | 항바이러스 기전 없음 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

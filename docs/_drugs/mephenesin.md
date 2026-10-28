@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Mephenesin
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 501
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Mephenesin: 예측 신규 적응증 전이성 흑색종 (metastatic melanoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가증에 문서 링크만 기재됨)"
+description: "Mephenesin: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Mephenesin"
-predicted_indications: ["metastatic melanoma", "non-cutaneous melanoma", "epithelioid cell melanoma", "choroideremia", "immature cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "craniostenosis cataract", "eyelid melanoma"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Mephenesin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +35,16 @@ predicted_indications: ["metastatic melanoma", "non-cutaneous melanoma", "epithe
 
 </div>
 
-## Mephenesin: 근육 이완제에서 전이성 흑색종으로
+## Mephenesin
 {: .text-alpha }
-
-## 한 문장 요약
-
-Mephenesin은 한국에서 허가된 단일 성분 제제로, 중추성 근육 이완제로 알려져 있습니다. 다만 허가 적응증은 문서 링크 형태로만 확인되어 구체적인 내용은 확인하지 못했습니다.
-TxGNN 모델은 **전이성 흑색종(metastatic melanoma)**에 효과가 있을 수 있다고 예측하지만, 이 방향을 지지하는 **임상시험은 0건, 문헌도 0편**입니다. 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 확인 불가 (허가증에 문서 링크만 기재됨) |
-| 예측 신규 적응증 | 전이성 흑색종 (metastatic melanoma) |
-| TxGNN 예측 점수 | 96.26% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704993/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. Mephenesin은 중추성 근육 이완제로 분류되는 단일 성분 약물이며, 이 분류의 약리 작용은 흑색종과 직접적인 연관이 확인되지 않습니다.
-
-이번 평가에서 기전상 연결고리는 확립되지 않았습니다. 높은 예측 점수(0.963)는 지식 그래프에서 흑색종 관련 노드와의 근접성을 반영한 결과일 가능성이 큽니다. 생물학적 근거로 해석하기는 어렵습니다.
-
-같은 모델이 예측한 다른 후보에는 다른 유형의 흑색종(비피부 흑색종, 상피양세포 흑색종, 안검 흑색종)이 있습니다. 또한 맥락막결손증(choroideremia)과 여러 백내장 아형도 포함되어 있습니다. 백내장 아형들은 점수가 동일(0.9547)하여, 질환별 근거가 아닌 그래프 구조에서 비롯된 결과로 보입니다.
 
 ## 한국 시판 정보
 
@@ -71,19 +56,6 @@ TxGNN 모델은 **전이성 흑색종(metastatic melanoma)**에 효과가 있을
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-예측된 신규 적응증을 지지하는 임상시험과 문헌이 없고, 기전상 연결고리도 확인되지 않아 근거 수준은 L5(모델 예측만 존재)입니다. 허가 적응증과 안전성 정보도 확인되지 않아 현 단계에서 진행하기 어렵습니다.
-
-**진행하려면 필요한 것:**
-- 허가사항 문서(허가번호 200704993)에서 허가 적응증, 경고, 금기 정보 확보
-- 약물의 상세 작용 기전(MOA) 확인
-- 흑색종과 관련된 전임상 연구(세포·동물 모델) 또는 기전 연구 근거 확보
-- 관련 임상시험 및 문헌 재검색
-- 투여 경로 적합성 평가(현재 제형은 경구 당의정이며, 신규 적응증에 필요한 경로는 미정)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

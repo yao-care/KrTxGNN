@@ -4,17 +4,17 @@ title: Rimegepant
 parent: 모델 예측만 (L5)
 nav_order: 656
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-15
-description: "Rimegepant: 예측 신규 적응증 뇌줄기 조짐을 동반한 편두통 (Migraine with Brainstem Aura) (근거 수준 L5). 기존 적응증: 편두통 (한국 허가 문서에는 적응증 본문 대신 링크만 기재되어 있어…"
 monitor_inn: "rimegepant"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
+description: "Rimegepant: 예측 신규 적응증 Atrophoderma vermiculata (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500678/EE"
 ---
 
 # Rimegepant
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **6** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", 
 
 </div>
 
-## Rimegepant: 편두통에서 뇌줄기 조짐을 동반한 편두통으로
+## Rimegepant: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Rimegepant는 CGRP 수용체 길항제로, 원래 성인의 편두통 치료에 사용되는 약물입니다.
-TxGNN 모델은 **뇌줄기 조짐을 동반한 편두통(Migraine with Brainstem Aura)**에 효과가 있을 수 있다고 예측합니다.
 다만 이 아형만을 대상으로 한 임상시험은 없고, 편두통 전반을 다룬 **문헌 15편**이 간접적으로 뒷받침하는 수준입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 편두통 (한국 허가 문서에는 적응증 본문 대신 링크만 기재되어 있어, 문헌상 승인 적응증인 조짐 유무와 관계없는 편두통의 급성 치료 기준으로 기재) |
-| 예측 신규 적응증 | 뇌줄기 조짐을 동반한 편두통 (Migraine with Brainstem Aura) |
-| TxGNN 예측 점수 | 99.94% |
-| 근거 수준 | L3 (아형 특이적 연구는 없고 편두통 전반에 대한 체계적 문헌고찰·메타분석이 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500678/EE |
+| 예측 신규 적응증 | Atrophoderma vermiculata |
+| TxGNN 예측 점수 | 0.9976 |
+| 근거 수준 | L5 (아형 특이적 연구는 없고 편두통 전반에 대한 체계적 문헌고찰·메타분석이 있음) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold (추가 연구 질문으로 유지) |
 

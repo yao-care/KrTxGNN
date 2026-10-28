@@ -8,6 +8,7 @@ nav_order: 670
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ropivacaine Hydrochloride
@@ -55,7 +56,7 @@ DrugBank ID·작용 기전·안전성 데이터가 모두 부재하여 **정식 
 | 예측 신규 적응증 | 해당 없음 — TxGNN 예측 결과 없음 |
 | TxGNN 예측 점수 | N/A |
 | 근거 수준 | 평가 불가 |
-| 시판 현황 | 미시판 |
+| 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

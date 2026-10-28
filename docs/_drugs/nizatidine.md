@@ -4,17 +4,17 @@ title: Nizatidine
 parent: 모델 예측만 (L5)
 nav_order: 552
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-15
-description: "Nizatidine: 예측 신규 적응증 활동성 소화성 궤양질환 (Active Peptic Ulcer Disease) (근거 수준 L5). 기존 적응증: 위산과다, 속쓰림, 신트림"
+indication_count: 2
 monitor_inn: "NIZATIDINE"
-predicted_indications: ["duodenal obstruction", "gastroduodenitis", "multiple endocrine neoplasia"]
+predicted_indications: ["duodenal obstruction", "multiple endocrine neoplasia"]
+last_modified_at: 2026-10-27
+description: "Nizatidine: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403769/EE"
 ---
 
 # Nizatidine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **7** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,100 +33,63 @@ predicted_indications: ["duodenal obstruction", "gastroduodenitis", "multiple en
 
 </div>
 
-## Nizatidine: 소화성 궤양(기존 적응증)에서 활동성 소화성 궤양질환으로
+## Nizatidine: H2 수용체 길항제 → 십이지장 폐쇄 (duodenal obstruction)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Nizatidine은 히스타민 H2 수용체 길항제로, 위산 분비를 억제하여 위산 관련 질환(위산과다, 속쓰림, 신트림 등)에 사용되어 왔습니다.
-TxGNN 모델은 **활동성 소화성 궤양(active peptic ulcer disease)**에 효과가 있을 수 있다고 예측하며, 현재 **등록된 임상시험은 없고** 이 방향을 지지하는 **문헌 19편**이 있습니다. 다만 이 예측은 사실상 기존 적응증과 겹치는 것으로, 엄밀한 의미의 재창출은 아닙니다.
+Nizatidine은 위산 분비를 억제하는 H2 수용체 길항제 계열의 약물입니다. TxGNN 모델은 **십이지장 폐쇄(duodenal obstruction)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 뒷받침하는 **임상시험은 0건, 문헌도 0편**이며 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 위산과다, 속쓰림, 신트림 |
-| 예측 신규 적응증 | 활동성 소화성 궤양질환 (Active Peptic Ulcer Disease) |
-| TxGNN 예측 점수 | 99.96% |
-| 근거 수준 | L1 (아래 참고) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 20건 |
-| 권장 결정 | Proceed with Guardrails |
-
-> 근거 수준 참고: 등록된 임상시험은 없습니다. L1은 위 판정 규칙(완료된 Phase 3 RCT 2건 이상)을 엄밀히 적용한 결과가 아니라, 위약 대조 무작위 이중맹검 시험(위궤양 8주 시험, 십이지장궤양 치유 시험 등)이 문헌으로 존재한다는 점을 반영한 잠정 판정입니다. 시험 단계가 명시되어 있지 않아 보수적으로 해석해야 합니다.
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403769/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600879/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404671/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403124/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400450/EE;  |
+| 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
+| TxGNN 예측 점수 | 0.9986 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 20건 (단일제, 모두 유효). 일부 기록만 포함되었을 수 있어 목록이 불완전할 수 있습니다. |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 데이터베이스에 수록되어 있지 않습니다. 다만 문헌에 따르면 Nizatidine은 H2 수용체 길항제로서 기저·야간·자극 위산 분비를 강하게 억제합니다. 이는 십이지장궤양과 위궤양 치유의 확립된 기전입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 nizatidine은 H2 수용체 길항제 계열로, 위산 분비를 줄이는 방식으로 작용합니다.
 
-기존 적응증(위산과다, 속쓰림, 신트림)과 활동성 소화성 궤양은 모두 위산 과다 및 점막 손상과 관련된 질환입니다. 따라서 이 예측은 새로운 질환으로의 확장이라기보다 기존 적응증의 연장선에 가깝습니다.
+다만 십이지장 폐쇄는 주로 궤양 흉터 등으로 생기는 기계적 문제이므로 산 억제만으로 직접 호전되기는 어렵습니다. 기저에 궤양이나 염증 요소가 있는 경우에 한해 보조적 도움이 될 가능성이 있는 정도입니다.
 
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다. 따라서 근거는 출판된 문헌에 의존합니다.
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [1526089](https://pubmed.ncbi.nlm.nih.gov/1526089/) | 1992 | RCT | Clin Pharmacol Ther | 활동성 양성 위궤양에서 nizatidine 150 mg 1일 2회 또는 300 mg 취침 시 vs 위약, 8주 다기관 이중맹검 비교 |
-| [2570656](https://pubmed.ncbi.nlm.nih.gov/2570656/) | 1989 | 임상시험 (위약 대조, 무작위) | Clin Pharmacol Ther | 십이지장궤양 치유 및 재발: 2단계 위약 대조 시험 |
-| [7960687](https://pubmed.ncbi.nlm.nih.gov/7960687/) | 1994 | RCT (이중맹검) | Isr J Med Sci | 활동성 십이지장궤양 55명에서 nizatidine 300 mg vs 위약 4주, 궤양 치유 및 점막 염증 매개체 평가 |
-| [2892259](https://pubmed.ncbi.nlm.nih.gov/2892259/) | 1987 | 임상시험 (유지요법) | Scand J Gastroenterol Suppl | 치유된 십이지장궤양 513명, 1년 재발률 nizatidine 34% vs 위약 64% |
-| [7863254](https://pubmed.ncbi.nlm.nih.gov/7863254/) | 1994 | 임상시험 (공개, 유지요법) | Scand J Gastroenterol Suppl | 치유된 십이지장궤양에서 12개월 유지요법의 효능과 삶의 질 |
-| [2905640](https://pubmed.ncbi.nlm.nih.gov/2905640/) | 1988 | Review | Drugs | 약력학·약동학 및 소화성 궤양 치료 효과 개관 |
-| [2184124](https://pubmed.ncbi.nlm.nih.gov/2184124/) | 1990 | Review | Gastroenterol Clin North Am | 소화성 궤양 약물치료 개관, nizatidine은 안전하고 효과적이나 임상적으로 새로운 특성은 없음 |
-| [26883979](https://pubmed.ncbi.nlm.nih.gov/26883979/) | 2016 | 전임상 (래트) | Life Sci | 여러 H2RA의 이부프로펜 유발 위궤양 보호 효과 |
+이 예측을 지지하는 임상시험이나 문헌이 없어, 현재 근거는 모델 예측에 한정됩니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 200200502 | 프로틴정 | 필름코팅정 | 위산과다, 속쓰림, 신트림에 사용 |
-| 201403769 | 니자딘엠캡슐 | 경질캡슐 | 허가 적응증 상세는 허가사항 문서 참조 |
-| 201600879 | 니자액스캡슐150mg | 경질캡슐 | 허가 적응증 상세는 허가사항 문서 참조 |
-| 200404671 | 빅시딘캡슐150밀리그램 | 경질캡슐 | 허가 적응증 상세는 허가사항 문서 참조 |
-| 201400450 | 틴자정150밀리그램 | 필름코팅정 | 허가 적응증 상세는 허가사항 문서 참조 |
+| 201403769 | 니자딘엠캡슐 | 경질캡슐 | 허가사항 문서 참조 |
+| 201600879 | 니자액스캡슐150mg | 경질캡슐 | 허가사항 문서 참조 |
+| 200404671 | 빅시딘캡슐150밀리그램 | 경질캡슐 | 허가사항 문서 참조 |
+| 201400450 | 틴자정150밀리그램 | 필름코팅정 | 허가사항 문서 참조 |
+| 200200502 | 프로틴정 | 필름코팅정 | 이 약은 위산과다, 속쓰림, 신트림에 사용합니다. |
 
-위 표는 전체 20건 중 일부이며, 모두 단일제로 유효 상태입니다. 일부 제품은 수출용입니다.
+전체 20건 중 주요 5건만 나열했으며, 대부분의 허가 적응증은 문서 링크로만 제공되어 요약하지 못했습니다.
 
 ## 안전성 고려사항
 
-- **금기(지식그래프 기반, 허가사항 아님)**: 간질환, 담낭질환, 신기능 저하, 위암 관련 질환(위종양, 미만형 위선암, 위 연성암, 위암종)
-- **약물 상호작용**: 총 100건이 조회되었으며, 주요 항목은 다음과 같습니다.
-  - Major: Atazanavir, Dasatinib
-  - Moderate: Acalabrutinib, Bosutinib, Brigatinib, Ceritinib, Dabrafenib, Dacomitinib, Cefditoren, Cefpodoxime, Cefuroxime, Chlorpropamide
-  - Minor: Ketorolac, Ibuprofen, Diclofenac, Alendronic acid, Axitinib 등
+- **약물 상호작용**: 총 100건이 조회되었으며, 주요 등급 상호작용으로 atazanavir, dasatinib이 확인되었습니다. 중등도 상호작용에는 acalabrutinib, bosutinib, brigatinib, ceritinib, dabrafenib, dacomitinib 등이 있습니다. 일부 cephalosporin계(cefditoren, cefpodoxime, cefuroxime)와 chlorpropamide도 중등도입니다.
 
-  이는 위산 억제로 인한 흡수 변화가 원인일 가능성이 있으나, 구체적 기전은 이번 자료에 포함되어 있지 않습니다. 상세 내용은 허가사항을 참조하세요.
-
-허가사항의 경고 및 금기 정보는 이번 자료에 포함되어 있지 않으므로, 반드시 허가사항을 직접 확인해야 합니다.
-
-## 다른 예측 적응증 요약
-
-| 순위 | 예측 질환 | 점수 | 근거 수준 | 권장 |
-|-----|---------|------|---------|------|
-| 2 | 소화성 궤양 천공 | 99.94% | L5 | Hold |
-| 3 | 위공장 궤양 | 99.94% | L4 | Research Question |
-| 4 | 십이지장 폐쇄 | 99.86% | L5 | Hold |
-| 5 | 십이지장위 역류 | 99.85% | L5 | Hold |
-| 6 | 위십이지장염 | 99.58% | L3 | Research Question |
-| 7 | 다발성 내분비 종양 | 99.27% | L5 | Hold |
-
-이들은 임상시험이 없고 문헌도 간접적이거나 없어, 현재로서는 추가 연구 질문 수준입니다.
+그 외 경고 및 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-활동성 소화성 궤양은 H2 수용체 길항제의 확립된 적응증으로, 위약 대조 RCT 문헌이 존재합니다. 다만 등록된 임상시험이 없고 시험 단계가 불명확하며, 안전성 데이터에 공백이 있어 조건부로 진행하는 것이 적절합니다.
+십이지장 폐쇄는 기계적 질환이어서 산 억제제의 직접 효과를 기대하기 어렵고, 지지하는 임상시험과 문헌이 없어 근거 수준이 L5(모델 예측만 존재)입니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·주의사항) 확보 및 검토 (MFDS 허가 문서 PDF 확인)
-- 상세 작용 기전(MOA) 데이터 보완 (DrugBank)
-- 한국 허가 적응증에 소화성 궤양이 포함되는지 확인
-- 약물 상호작용 중 Major 항목(Atazanavir, Dasatinib) 및 간·신장 기능 저하 환자에 대한 모니터링 계획 수립
+- 십이지장 폐쇄에 대한 직접적인 임상시험 또는 문헌 근거
+- 상세한 약물 작용 기전(MOA) 데이터
+- 허가사항(경고·금기) 확인 및 안전성 검토
+- 한국 시판 상태(취소 여부) 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

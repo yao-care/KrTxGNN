@@ -4,17 +4,17 @@ title: Meloxicam
 parent: 모델 예측만 (L5)
 nav_order: 499
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Meloxicam: 예측 신규 적응증 말단중간이형성증, Hunter-Thompson형 (acromesomelic dysplasia… (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 이번 데이터에 포함되어 있지 않아 확인할 수 없음 (허가 문서 링크만 제공됨)"
 monitor_inn: "MELOXICAM"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Meloxicam
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## Meloxicam: 비스테로이드 소염진통제에서 말단중간이형성증(Hunter-Thompson형)으로
+## Meloxicam: 비스테로이드 소염진통제에서 말단중간이형성증 헌터-톰슨형으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **말단중간이형성증, Hunter-Thompson형(acromesomelic dys
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 이번 데이터에 포함되어 있지 않아 확인할 수 없음 (허가 문서 링크만 제공됨) |
 | 예측 신규 적응증 | 말단중간이형성증, Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 예측 점수 | 99.92% |
+| TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
@@ -57,9 +57,8 @@ TxGNN 모델은 **말단중간이형성증, Hunter-Thompson형(acromesomelic dys
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Meloxicam은 COX-2 선호적 NSAID로, 프로스타글란딘 매개 염증과 통증을 줄이는 약물입니다.
 
-Hunter-Thompson형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로 골격 발달이 저해되는 희귀 유전질환입니다. Meloxicam은 GDF5/BMP 신호전달이나 연골 형성과 알려진 연관성이 없습니다. 따라서 높은 예측 점수는 생물학적 근거라기보다 지식 그래프상 네트워크 근접성에서 비롯된 결과일 가능성이 큽니다.
+헌터-톰슨형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로 골격 발달이 저해되는 희귀 유전질환입니다. Meloxicam은 GDF5/BMP 신호전달이나 연골 형성과 알려진 연관성이 없습니다. 따라서 높은 예측 점수는 TxGNN 모델(딥러닝)에서 나온 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
-참고로 상위 10개 예측 중 생물학적으로 가장 그럴듯한 항목은 6위 **척추관절병증 감수성(spondyloarthropathy, susceptibility to)**입니다. NSAID는 축성 척추관절염의 1차 치료제이지만, 이번 데이터에는 해당 항목의 임상시험이나 문헌이 없습니다. 8위 **류마티스인자 양성 다관절 연소성 특발성 관절염**에는 NSAID 안전성 코호트 연구 1편이 있으나, celecoxib와 비선택적 NSAID에 대한 간접 근거입니다.
 
 ## 임상시험 근거
 

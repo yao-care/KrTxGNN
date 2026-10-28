@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Emicizumab
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 306
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Emicizumab: 예측 신규 적응증 가성 폰빌레브란트병 (pseudo-von Willebrand disease) — 1순위 예측 (근거 수준 L2). 기존 적응증: 허가증에는 적응증 원문 대신 허가 문서 링크만 기재되어 있어 구체적인 적응증 문구를 확인할 수 없습니다 (혈우병 A 예방요법…"
@@ -14,7 +14,7 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 # Emicizumab
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 
 </div>
 
-## Emicizumab: 혈우병 A에서 후천성 응고인자 결핍증으로
+## Emicizumab: 혈우병 A에서 가성 폰빌레브란트병으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,13 +47,13 @@ TxGNN 모델은 여러 출혈성 질환에 효과가 있을 것으로 예측했�
 |------|------|
 | 기존 적응증 | 허가증에는 적응증 원문 대신 허가 문서 링크만 기재되어 있어 구체적인 적응증 문구를 확인할 수 없습니다 (혈우병 A 예방요법으로 알려져 있음) |
 | 예측 신규 적응증 | 가성 폰빌레브란트병 (pseudo-von Willebrand disease) — 1순위 예측 |
-| TxGNN 예측 점수 | 99.99% (1순위 기준) |
+| TxGNN 예측 점수 | 0.9999 (1순위 기준) |
 | 근거 수준 | 1순위: L5 / 근거가 가장 풍부한 후보(후천성 응고인자 결핍증): L2 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | 1순위 예측: Hold / 후천성 응고인자 결핍증(후천성 혈우병 A): Proceed with Guardrails |
 
-> **참고:** TxGNN 점수 순위 1위인 가성 폰빌레브란트병은 임상시험과 문헌이 전혀 없습니다. 반면 5순위인 후천성 응고인자 결핍증은 점수(99.90%)는 낮지만 실질적 근거가 가장 풍부하므로, 이 보고서는 두 후보를 함께 평가합니다.
+> **참고:** TxGNN 점수 순위 1위인 가성 폰빌레브란트병은 임상시험과 문헌이 전혀 없습니다. 반면 5순위인 후천성 응고인자 결핍증은 점수(0.9990)는 낮지만 실질적 근거가 가장 풍부하므로, 이 보고서는 두 후보를 함께 평가합니다.
 
 ## 이 예측이 타당한 이유는?
 
@@ -61,7 +61,7 @@ TxGNN 모델은 여러 출혈성 질환에 효과가 있을 것으로 예측했�
 
 후천성 혈우병 A는 FVIII에 대한 자가항체가 내인성 FVIII를 중화하여 발생합니다. emicizumab은 FVIII를 우회하므로 기전상 직접적이고 강한 연관성이 있습니다. 이는 기존 적응증(FVIII 억제인자를 가진 혈우병 A에서의 예방요법)과 같은 병태생리적 논리를 공유합니다.
 
-반면 상위 예측 질환 대부분(가성 폰빌레브란트병, 혈소판 분비 장애, Scott 증후군, 콜라겐 수용체 결손 등)은 혈소판 기능 또는 수치의 결함이 원인으로, emicizumab이 작용하는 tenase 단계와 무관하거나 연관성이 약합니다. 높은 TxGNN 점수는 그래프 기반 예측일 뿐 기전적 지지가 아닙니다. 혈전성 혈소판감소성 자반증(TTP)은 오히려 응고 촉진이 해로울 수 있어 안전성 우려 대상입니다.
+반면 상위 예측 질환 대부분(가성 폰빌레브란트병, 혈소판 분비 장애, Scott 증후군, 콜라겐 수용체 결손 등)은 혈소판 기능 또는 수치의 결함이 원인으로, emicizumab이 작용하는 tenase 단계와 무관하거나 연관성이 약합니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐, 생물학적 근거나 기전적 지지가 아닙니다. 혈전성 혈소판감소성 자반증(TTP)은 오히려 응고 촉진이 해로울 수 있어 안전성 우려 대상입니다.
 
 ## 임상시험 근거
 
@@ -109,8 +109,8 @@ TxGNN 모델은 여러 출혈성 질환에 효과가 있을 것으로 예측했�
 
 | 후보 질환 | 근거 수준 | 결정 |
 |-----------|----------|------|
-| 후천성 응고인자 결핍증 (후천성 혈우병 A) | L2 | Proceed with Guardrails |
-| Glanzmann 혈소판무력증 | L4 | 연구 과제 (Research Question) |
+| 후천성 응고인자 결핍증 (후천성 혈우병 A) | L5 | Proceed with Guardrails |
+| Glanzmann 혈소판무력증 | L5 | 연구 과제 (Research Question) |
 | 가성 폰빌레브란트병 등 나머지 대부분 | L5 | Hold |
 | 혈전성 혈소판감소성 자반증 (TTP) | L5 | Hold (안전성 우려로 진행 부적합) |
 

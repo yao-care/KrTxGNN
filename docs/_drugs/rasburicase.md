@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rasburicase: 예측 신규 적응증 신장성 저요산혈증 (hypouricemia, renal) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 미확인 (허가 문서 링크만 확인됨)"
 monitor_inn: "RASBURICASE"
-predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
 ---
 
 # Rasburicase
@@ -47,9 +47,9 @@ TxGNN 모델은 **신장성 저요산혈증(hypouricemia, renal)**에 효과가 
 |------|------|
 | 기존 적응증 | 허가 적응증 본문 미확인 (허가 문서 링크만 확인됨) |
 | 예측 신규 적응증 | 신장성 저요산혈증 (hypouricemia, renal) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -57,12 +57,12 @@ TxGNN 모델은 **신장성 저요산혈증(hypouricemia, renal)**에 효과가 
 
 현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 Rasburicase는 요산 산화효소 계열 약물로, 요산을 알란토인으로 전환하여 혈중 요산 농도를 낮추는 것으로 알려져 있습니다.
 
-신장성 저요산혈증은 URAT1/GLUT9 기능 소실 등으로 혈중 요산이 비정상적으로 낮은 상태입니다. 여기에 요산을 더 줄이는 약물을 쓰는 것은 약리학적으로 역행하며 해로울 수 있습니다. 따라서 높은 TxGNN 점수는 요산 대사 경로와의 그래프상 연관성이 만든 인공적 결과일 가능성이 높고, 실제 치료적 연결로 보기 어렵습니다.
+신장성 저요산혈증은 URAT1/GLUT9 기능 소실 등으로 혈중 요산이 비정상적으로 낮은 상태입니다. 여기에 요산을 더 줄이는 약물을 쓰는 것은 약리학적으로 역행하며 해로울 수 있습니다. 따라서 높은 점수(0.9999)는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거로 보기는 어렵습니다.
 
 같은 방식으로 상위 10개 예측 중 다른 질환도 검토했습니다.
 - **HPRT 부분 결핍증**: 급성 고요산혈증 위기에서 요산을 빠르게 낮춘다는 간접적 근거는 있습니다. 그러나 만성 관리는 allopurinol이나 febuxostat이 일반적이며, Rasburicase는 면역원성 때문에 반복 사용이 제한됩니다.
 - **간성 포르피린증, 간폐증후군 등**: 뚜렷한 기전적 연결이 확인되지 않았습니다.
-- **비경화성 문맥압항진증, 간문맥 경화증, 특발성 구리 연관 간경변, 원발성 문맥 혈전증**: 뚜렷한 기전적 연결이 확인되지 않았습니다. 앞의 세 질환은 점수가 동일해 그래프 구조에 따른 인공적 결과로 보입니다.
+- **비경화성 문맥압항진증, 간문맥 경화증, 특발성 구리 연관 간경변, 원발성 문맥 혈전증**: 뚜렷한 기전적 연결이 확인되지 않았습니다. 앞의 세 질환은 점수가 동일하며(0.9997), 이는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있고 생물학적 근거는 아닙니다.
 - **신세뇨관 산증, 페닐알라닌 대사 장애**: 뚜렷한 기전적 연결이 확인되지 않았습니다.
 
 ## 한국 시판 정보

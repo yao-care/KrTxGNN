@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Cefazedone
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 188
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Cefazedone: 예측 신규 적응증 골관절염 (Osteoarthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 확보되지 않아 확인 불가 (허가증에는 문서 링크만 수록)"
+description: "Cefazedone: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Cefazedone"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "brachyolmia", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Cefazedone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthriti
 
 </div>
 
-## Cefazedone: 세균 감염에서 골관절염으로
+## Cefazedone
 {: .text-alpha }
-
-## 한 문장 요약
-
-Cefazedone은 1세대 세파로스포린계 항생제로, 원래 세균 감염 치료에 사용되었습니다.
-TxGNN 모델은 **골관절염(Osteoarthritis)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다.
-현재로서는 모델 예측만 존재하는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 확보되지 않아 확인 불가 (허가증에는 문서 링크만 수록) |
-| 예측 신규 적응증 | 골관절염 (Osteoarthritis) |
-| TxGNN 예측 점수 | 98.47% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199102788/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400158/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403020/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501403/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200000528/EE;  |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Cefazedone은 1세대 세파로스포린계 항생제로, 세균 세포벽 합성을 억제하여 항균 작용을 나타냅니다.
-
-골관절염은 연골 퇴행과 관절 염증이 핵심인 질환입니다. Cefazedone에는 항염증 또는 연골 보호 기전이 알려져 있지 않아, 기존 적응증과 신규 적응증 사이에 기전상 연결고리가 확인되지 않습니다. 98%가 넘는 높은 점수는 지식 그래프상 질환 노드 간의 근접성에서 비롯된 계산상 예측일 가능성이 큽니다.
-
-같은 상위권 예측인 류마티스 관절염(98.35%), 골관절염 감수성(98.34%), 통풍(97.90%) 등도 모두 임상시험과 문헌 근거가 없고 기전 연결도 확인되지 않았습니다. 그 외 위軟골무형성증 유사 질환, 단지증(brachyolmia), 혈색소병증 등 희귀 골격·혈액 질환이 상위 10위에 포함되어 있습니다. 특히 혈색소병증은 세파로스포린계 약물의 면역 매개 용혈 위험이 있어 안전성 측면에서 주의가 필요합니다.
 
 ## 한국 시판 정보
 
@@ -80,19 +64,6 @@ TxGNN 모델은 **골관절염(Osteoarthritis)**에 효과가 있을 수 있다�
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-상위 10개 예측 모두 임상시험과 문헌 근거가 없는 L5(모델 예측만 존재) 수준이며, 항생제인 Cefazedone과 골관절염 사이에 알려진 기전 연결도 없습니다. 근거가 확보되기 전까지는 보류가 적절합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고, 금기, 허가 적응증)의 확보와 분석
-- 상세한 작용 기전(MOA) 데이터 확보
-- 골관절염에 대한 항염증·연골 보호 기전을 뒷받침하는 전임상 근거
-- 관련 임상시험 및 문헌 검색 보완
-- 장기 투여 가능성에 대한 안전성 검토 (주사제 단독 제형이라는 투여 경로 한계 포함)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

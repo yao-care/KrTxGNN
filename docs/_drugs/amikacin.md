@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 55
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Amikacin: 예측 신규 적응증 파라티푸스열 (Paratyphoid Fever) (근거 수준 L5). 기존 적응증: 그람음성균 등 세균 감염증 (허가 적응증 원문은 허가사항 문서 링크로만 제공되어 확인하지 못했습니다)"
 monitor_inn: "Amikacin"
-predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
+predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
+last_modified_at: 2026-10-23
+description: "Amikacin: 예측 신규 적응증 파라티푸스 (근거 수준 L4). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (아미노글리코시드계 항균제)"
 ---
 
 # Amikacin
@@ -33,85 +33,80 @@ predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate ep
 
 </div>
 
-## Amikacin: 그람음성균 감염에서 파라티푸스열(Paratyphoid Fever)로
+## Amikacin: 아미노글리코시드계 항생제에서 파라티푸스로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Amikacin은 그람음성균에 넓게 작용하는 아미노글리코사이드 계열 항생제로, 한국에서는 주사제로 널리 시판되고 있습니다.
-TxGNN 모델은 **파라티푸스열**에 효과가 있을 수 있다고 예측합니다(예측 점수 99.82%).
-그러나 현재 **임상시험은 0건**이고, 문헌 8편은 대부분 역학·내성 감시 연구입니다. Amikacin의 치료 효과를 직접 검증한 자료는 사례 보고 수준에 그칩니다.
+Amikacin은 그람음성균 감염에 쓰이는 아미노글리코시드계 주사 항생제입니다. TxGNN 모델은 **파라티푸스(Paratyphoid Fever)**에 효과가 있을 수 있다고 예측했습니다. 다만 관련 임상시험은 **0건**이고, 문헌 **8편**은 대부분 역학·항생제 감수성 조사와 증례 보고여서 Amikacin의 임상 효능을 직접 입증하지 못합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 그람음성균 등 세균 감염증 (허가 적응증 원문은 허가사항 문서 링크로만 제공되어 확인하지 못했습니다) |
-| 예측 신규 적응증 | 파라티푸스열 (Paratyphoid Fever) |
-| TxGNN 예측 점수 | 99.82% |
-| 근거 수준 | L4 (기전·시험관 수준의 간접 근거만 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 20건 |
+| 기존 적응증 | 허가 적응증 본문이 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (아미노글리코시드계 항균제) |
+| 예측 신규 적응증 | 파라티푸스 |
+| TxGNN 예측 점수 | 0.9982 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Amikacin은 세균의 30S 리보솜 소단위체에 결합해 단백질 합성을 억제하는 아미노글리코사이드입니다. 이 약의 상세한 작용 기전 데이터는 별도로 확보되지 않았으며, 위 내용은 계열 특성에 근거한 설명입니다. 파라티푸스열의 원인균인 *Salmonella* Paratyphi는 그람음성균이므로, 항균 스펙트럼상 예측은 생물학적으로 그럴듯합니다.
+현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 알려진 정보에 따르면 Amikacin은 세균의 30S 리보솜 소단위에 결합하는 아미노글리코시드계 항생제입니다. 살모넬라를 포함한 그람음성 간균에 시험관 내 활성이 있습니다. 파라티푸스는 살모넬라(Salmonella Paratyphi)가 일으키는 감염이므로, 균에 대한 항균 활성만 보면 모델의 예측은 이해할 만합니다.
 
-다만 임상적 관련성은 제한적입니다. *Salmonella*는 세포 내부에서 생존하는데, 아미노글리코사이드는 세포 내 침투가 불량합니다. 그래서 장티푸스·파라티푸스(장열)의 1차 치료로 권고되지 않습니다. 이 근거는 *S.* Typhi 시험관 연구, 사례 보고, 내성 감시 자료에 그치며, Amikacin 치료 효과를 직접 검증한 대조 임상 자료는 없습니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
+그러나 임상 적용에는 큰 한계가 있습니다. 살모넬라는 세포 내에 존재하는데 아미노글리코시드는 세포 내 침투가 약해, 시험관 내 감수성이 생체 내 효능으로 이어지지 않는 것으로 알려져 있습니다. Amikacin은 장티푸스·파라티푸스(장열)의 표준 치료제가 아니며, 이번에 수집한 문헌에도 Amikacin의 효능을 보여주는 대조 연구는 없습니다.
 
 ## 문헌 근거
 
+파라티푸스를 직접 다룬 문헌은 있지만, Amikacin의 치료 효능을 평가한 연구는 없습니다. 임상시험 등록도 없습니다. 아래 표에는 RCT나 체계적 문헌고찰이 없어 코호트와 증례 보고를 연도순으로 정리했습니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | Case report | Pediatr Hematol Oncol | 급성 림프모구성 백혈병 소아의 *S.* Paratyphi B 무결석성 담낭염을 cefepime, amikacin, G-CSF로 치료하여 호전 |
-| [8354556](https://pubmed.ncbi.nlm.nih.gov/8354556/) | 1993 | 감시 연구 | Indian J Pathol Microbiol | 다제내성 *S.* Typhi 균주가 아미노글리코사이드와 ciprofloxacin에 감수성 (장티푸스균 대상) |
-| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | 임상 보고 | Mikrobiyol Bul | 파라티푸스 B 감염 48례의 항생제 치료 및 항생제 감수성 결과 |
-| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | 코호트/감시 | Med J Armed Forces India | 인도 북부 장열 45례에서 클로람페니콜 감수성 재출현 |
-| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | 코호트 | J Indian Med Assoc | 소아 장열 145례의 임상 양상과 항생제 감수성 |
-| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | 감시 | Pak J Biol Sci | 파키스탄 퀘타 지역 환자의 *S.* Paratyphi 분리·동정 |
-| [14596347](https://pubmed.ncbi.nlm.nih.gov/14596347/) | 2003 | 역학 | New Microbiol | 요르단의 *S.* Typhi 및 *S.* Paratyphi 발생 현황 |
-| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | 감시 | JNMA | 교육병원 혈액배양 분리균 빈도 및 항생제 감수성 |
+| [10505326](https://pubmed.ncbi.nlm.nih.gov/10505326/) | 1999 | 증례 보고 | Pediatr Hematol Oncol | 급성 전구 B세포 백혈병 소아의 Paratyphi B 무결석성 담낭염을 cefepime, amikacin, 과립구 집락자극인자로 치료해 성공 |
+| [2516600](https://pubmed.ncbi.nlm.nih.gov/2516600/) | 1989 | 코호트 | Mikrobiyoloji Bulteni | 기존 치료에 내성인 Paratyphi B 감염 소아 48명의 항생제 치료 및 감수성 결과 보고 |
+| [14596347](https://pubmed.ncbi.nlm.nih.gov/14596347/) | 2003 | 코호트 | New Microbiologica | 요르단의 S. typhi·S. paratyphi 발생 현황 역학 조사 |
+| [27407999](https://pubmed.ncbi.nlm.nih.gov/27407999/) | 2007 | 코호트 | Med J Armed Forces India | 장열 45례에서 Typhi·Paratyphi A의 시험관 내 항생제 감수성 패턴 확인 (chloramphenicol 감수성 재출현) |
+| [18383953](https://pubmed.ncbi.nlm.nih.gov/18383953/) | 2007 | 코호트 | J Indian Med Assoc | 소아 장열 145례의 임상상과 Typhi·Paratyphi 항생제 감수성 조사 |
+| [26905550](https://pubmed.ncbi.nlm.nih.gov/26905550/) | 2014 | 코호트 | JNMA | 교육병원 혈액배양 분리균의 빈도와 항생제 감수성 조사 |
+| [30724049](https://pubmed.ncbi.nlm.nih.gov/30724049/) | 2018 | 코호트 | Pak J Biol Sci | 파키스탄 퀘타의 장열 환자에서 S. Paratyphi 분리·동정 |
+| [16410091](https://pubmed.ncbi.nlm.nih.gov/16410091/) | 2006 | 코호트 | J Pediatr Surg | 소아 비장 농양을 천자 배농과 항생제로 치료한 4례 보고 |
 
 ## 한국 시판 정보
 
-한국에는 단일제 20건이 모두 유효하게 허가되어 있습니다. 대부분 앰플·바이알 주사제이고, 일부는 수출용입니다. 아래는 주요 5건입니다.
+한국에는 Amikacin 단일 성분 주사제 허가가 최소 20건 확인되며, 모두 단일 성분이고 유효 상태입니다. 목록은 일부일 수 있습니다. 제품명에 "수출용"이 붙은 허가가 다수 포함되어 있어, 국내 실제 유통 여부는 별도 확인이 필요합니다. 허가 적응증 본문은 첨부 문서 링크로만 제공되어 내용을 요약하지 못했습니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 201002333 | 제일제약아미카신황산염주500mg (수출용) | 앰플 주사제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002333/EE) 참조 |
-| 198900080 | 신풍아미카신황산염주사액500밀리그램 | 바이알/프리필드 주사제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900080/EE) 참조 |
-| 201502807 | 동광아미카신주250mg | 앰플 주사제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502807/EE) 참조 |
-| 199202953 | 아디칸주사액500밀리그램 | 앰플/바이알 주사제 | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202953/EE) 참조 |
-| 200200253 | 중외아미카신황산염프리믹스주 | 프리믹스 주사제 (플라스틱/유리 용기) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200253/EE) 참조 |
+| 201002333 | 제일제약아미카신황산염주500mg (수출용) | 앰플 주사제 | 허가 문서 링크 참조 |
+| 198900080 | 신풍아미카신황산염주사액500밀리그램 | 바이알/프리필드 주사제 | 허가 문서 링크 참조 |
+| 201502807 | 동광아미카신주250mg | 앰플 주사제 | 허가 문서 링크 참조 |
+| 199202953 | 아디칸주사액500밀리그램 | 앰플/바이알 주사제 | 허가 문서 링크 참조 |
+| 200200253 | 중외아미카신황산염프리믹스주 | 플라스틱/유리 용기 주사제 | 허가 문서 링크 참조 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건이 확인되었고, 그중 확인된 주요 항목은 다음과 같습니다.
-  - **Major(중대)**: Magnesium sulfate, Mannitol
-  - **Moderate(중등도)**: Amphotericin B 및 그 지질 제제, Kanamycin, Neomycin, 프로톤펌프억제제(Omeprazole, Esomeprazole, Lansoprazole, Pantoprazole, Rabeprazole, Dexlansoprazole), Acetylsalicylic acid, Mesalazine 계열(Mesalazine, Balsalazide, Olsalazine), Exenatide
+- **약물 상호작용**: 상호작용 조사에서 총 100건이 확인되었고, 그중 상위 20건을 검토했습니다.
+  - **주요(Major) 등급**: 황산마그네슘(Magnesium sulfate), 만니톨(Mannitol)
+  - **중등도(Moderate) 등급**: 암포테리신 B 제제(일반·지질 복합체·리포좀·콜레스테릴 설페이트), 카나마이신, 네오마이신, 아스피린, 메살라진 계열(Mesalazine, Balsalazide, Olsalazine), 프로톤펌프억제제(Omeprazole, Esomeprazole, Lansoprazole, Dexlansoprazole, Pantoprazole, Rabeprazole), 엑세나타이드
 
-경고·금기 등 그 외 안전성 정보는 허가사항을 참조하세요.
+경고와 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-항균 스펙트럼상 가능성은 있으나, 파라티푸스열에서 Amikacin의 효능을 입증한 임상시험이 없고 문헌도 감시 연구와 단일 사례 보고뿐입니다. 아미노글리코사이드는 세포 내 *Salmonella*에 대한 침투가 불량해 표준 치료로 쓰이지 않으므로, 현 단계에서 진행할 근거가 부족합니다.
+- 파라티푸스에서 Amikacin의 효능을 보여주는 임상시험이나 대조 연구가 없고, 문헌은 감수성 조사와 증례 보고에 그칩니다.
+- 아미노글리코시드는 세포 내 감염에 효과가 제한적이며, 이미 확립된 표준 치료제(플루오로퀴놀론, 아지트로마이신, 3세대 세팔로스포린)가 있습니다.
+- TxGNN 점수는 높지만 계산상 예측일 뿐이어서 임상 개발을 정당화하기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- *S.* Paratyphi에 대한 Amikacin의 시험관·동물 모델 효능 자료 (세포 내 균에 대한 활성 포함)
-- 기존 표준 치료(예: 3세대 세팔로스포린, 퀴놀론, azithromycin)와 비교한 임상 근거
-- 다제내성 증례에서의 구제요법 가능성 평가
-- 허가사항 원문에서 경고·금기·적응증 확인 (이번 자료에서는 확보되지 않음)
-- 상세 작용 기전 자료 보완
-
-**참고:** 같은 *Salmonella* 계열의 장티푸스 예측(순위 4)에서도 시험관 감수성 자료는 있으나 임상 근거가 부족합니다. 세균성 수막염 예측(순위 7)은 임상시험 2건과 뇌척수액 침투 자료가 있어, 연구 과제로 검토할 수 있는 수준(L3)입니다.
+- 작용 기전 데이터 확보 (DrugBank 등)
+- 허가사항(경고·금기·적응증 본문) 확보 및 분석
+- 파라티푸스 환자에서 Amikacin의 임상 효능을 평가한 연구, 또는 표준 치료제 대비 이점을 보여주는 근거
+- 한국 시판 현황(취소 여부, 수출 전용 여부) 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

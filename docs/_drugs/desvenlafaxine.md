@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Desvenlafaxine
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 266
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 8
 last_modified_at: 2026-10-15
 description: "Desvenlafaxine: 예측 신규 적응증 강박장애 (Obsessive-Compulsive Disorder) (근거 수준 L5). 기존 적응증: 주요우울장애 (허가 적응증 원문은 제공되지 않아 허가 문서 링크만 확인됨)"
 monitor_inn: "DESVENLAFAXINE"
-predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "melancholia"]
+predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Desvenlafaxine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **강박장애(Obsessive-Compulsive Disorder)**에 효과가 있
 |------|------|
 | 기존 적응증 | 주요우울장애 (허가 적응증 원문은 제공되지 않아 허가 문서 링크만 확인됨) |
 | 예측 신규 적응증 | 강박장애 (Obsessive-Compulsive Disorder) |
-| TxGNN 예측 점수 | 99.91% |
+| TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L4 (기전·리뷰 문헌 수준, 직접 연구 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -111,8 +111,6 @@ Desvenlafaxine 자체의 강박장애 데이터는 확인되지 않았습니다.
 
 이번 보고서는 TxGNN 점수 최상위인 강박장애를 기준으로 작성했습니다. 데이터에는 근거가 더 탄탄한 후보가 있습니다.
 
-- **기분부전장애(Dysthymic Disorder)**: 점수 99.73%, 근거 수준 L2. Desvenlafaxine 위약대조 Phase 4 시험(NCT01537068, 59명, 완료)과 공개라벨 시험(NCT01948895, 30명, 완료), 항우울제 메타분석(PMID 21527126)이 있습니다. 다만 결과 데이터는 제공되지 않았고 규모가 작습니다.
-- **멜랑콜리아(Melancholia)**: 점수 99.64%, 근거 수준 L2. 기존 적응증인 주요우울장애의 하위 유형에 가까워 진정한 재창출로 보기는 어렵습니다.
 - 성격장애군(조현성·조현형·편집성·연극성), Ohdo 증후군, 영아기 양성 발작성 사경은 모델 예측만 있고 근거가 없습니다. 광장공포증도 직접 근거는 없으나 SSRI/SNRI 치료 틀 안에서 기전적 개연성은 있습니다.
 ## 면책 조항
 

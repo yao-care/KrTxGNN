@@ -4,7 +4,7 @@ title: Teriparatide
 parent: 모델 예측만 (L5)
 nav_order: 729
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Teriparatide: 예측 신규 적응증 십이지장궤양 (Duodenal Ulcer) (근거 수준 L5). 기존 적응증: 골다공증 (골절 고위험 환자)"
 monitor_inn: "TERIPARATIDE"
@@ -14,7 +14,7 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 # Teriparatide
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 
 </div>
 
-## Teriparatide: 골다공증에서 십이지장궤양으로
+## Teriparatide: 골다공증에서 십이지장궤양 (Duodenal Ulcer)으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **십이지장궤양(Duodenal Ulcer)**에 효과가 있을 수 �
 |------|------|
 | 기존 적응증 | 골다공증 (골절 고위험 환자) |
 | 예측 신규 적응증 | 십이지장궤양 (Duodenal Ulcer) |
-| TxGNN 예측 점수 | 99.86% |
+| TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 모델은 **십이지장궤양(Duodenal Ulcer)**에 효과가 있을 수 �
 
 Teriparatide는 PTH1 수용체(PTH1R)와 PTH2 수용체(PTH2R)에 결합하는 펩타이드입니다. 간헐적으로 투여하면 골형성을 촉진하는 것으로 알려져 있습니다. 다만 허가 정보에 기재된 상세 작용 기전은 이번 데이터에 없습니다. 위 내용은 수용체 표적 정보에 근거한 것입니다.
 
-십이지장궤양은 소화관 점막 손상 질환입니다. 골형성 촉진이라는 teriparatide의 기전과 궤양 치유 사이에서 타당한 연결 고리는 현재 데이터에서 확인되지 않습니다. 0.9986이라는 높은 점수는 지식 그래프 기반 예측일 뿐, 임상적 또는 기전적 검증을 거치지 않았습니다. 이 예측은 가설 수준으로 보아야 합니다.
+십이지장궤양은 소화관 점막 손상 질환입니다. 골형성 촉진이라는 teriparatide의 기전과 궤양 치유 사이에서 타당한 연결 고리는 현재 데이터에서 확인되지 않습니다. 0.9986이라는 높은 점수는 TxGNN 모델(딥러닝)이 산출한 값이며, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 임상적 또는 기전적 검증을 거치지 않았으므로 이 예측은 가설 수준으로 보아야 합니다.
 
 ## 임상시험 근거
 
@@ -100,7 +100,6 @@ Teriparatide는 PTH1 수용체(PTH1R)와 PTH2 수용체(PTH2R)에 결합하는 �
 - 허가사항(경고, 금기)의 확인과 상세 작용 기전 데이터 보완
 - 고칼슘혈증 및 디곡신 병용 위험 등 안전성 검토
 
-**참고:** 이번 예측 목록에는 근거가 더 충실한 후보가 있습니다. 임신·수유 관련 골다공증(Pregnancy Associated Osteoporosis, 예측 점수 99.55%)은 teriparatide 중심의 코호트 연구, 체계적 문헌고찰 등 문헌 20편이 확인되어 L3, Proceed with Guardrails로 평가되었습니다. 다만 등록된 임상시험은 없고 연구 유형은 제목 기준으로 판단한 것이므로 원문 확인이 필요합니다. 재창출 우선순위를 정할 때는 이 후보를 먼저 검토하는 것이 합리적입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

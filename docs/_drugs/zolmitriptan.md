@@ -4,17 +4,17 @@ title: Zolmitriptan
 parent: 모델 예측만 (L5)
 nav_order: 794
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
-description: "Zolmitriptan: 예측 신규 적응증 뇌간 조짐 편두통 (Migraine with brainstem aura) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적 문구 확인 불가 (편두통 급성 치료로 알려져 있음)"
 monitor_inn: "ZOLMITRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Zolmitriptan: 예측 신규 적응증 Atrophoderma vermiculata (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907046/EE"
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 
 </div>
 
-## Zolmitriptan: 편두통에서 뇌간 조짐 편두통으로
+## Zolmitriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Zolmitriptan은 선택적 5-HT1B/1D 수용체 작용제(트립탄 계열)로, 원래 급성 편두통 치료에 사용되었습니다.
-TxGNN 모델은 **뇌간 조짐 편두통(Migraine with brainstem aura)**에 효과가 있을 수 있다고 예측하지만, 현재 이 질환을 직접 검증한 **임상시험은 0건**이며 문헌 20편은 대부분 일반 편두통 또는 다른 트립탄에 관한 것입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적 문구 확인 불가 (편두통 급성 치료로 알려져 있음) |
-| 예측 신규 적응증 | 뇌간 조짐 편두통 (Migraine with brainstem aura) |
-| TxGNN 예측 점수 | 99.99% |
-| 근거 수준 | L4 (전임상·기전 및 리뷰 수준의 근거만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907046/EE |
+| 예측 신규 적응증 | Atrophoderma vermiculata |
+| TxGNN 예측 점수 | 0.9990 |
+| 근거 수준 | L5 (전임상·기전 및 리뷰 수준의 근거만 있음) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 
@@ -106,7 +105,7 @@ TxGNN 모델은 **뇌간 조짐 편두통(Migraine with brainstem aura)**에 효
 **결정: Hold (연구 질문 단계)**
 
 **사유:**
-TxGNN 점수는 매우 높지만(99.99%), 뇌간 조짐 편두통에서 zolmitriptan을 직접 검증한 임상시험이나 문헌이 없습니다. 또한 트립탄은 이 아형에서 혈관수축 위험에 대한 이론적 우려가 있어, 안전성 검토 없이 진행하기 어렵습니다.
+또한 트립탄은 이 아형에서 혈관수축 위험에 대한 이론적 우려가 있어, 안전성 검토 없이 진행하기 어렵습니다.
 
 **진행하려면 필요한 것:**
 - 식약처 허가사항(경고·금기·적응증 문구) 확보 및 분석

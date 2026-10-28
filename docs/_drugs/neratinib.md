@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Neratinib
-parent: 높은 근거 (L1-L2)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 542
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Neratinib: 예측 신규 적응증 프로게스테론 수용체 양성 유방암 (Progesterone-receptor positive breast cancer) (근거 수준 L2). 기존 적응증: 허가 적응증 텍스트가 허가사항 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
-monitor_inn: "Neratinib"
-predicted_indications: ["synovium cancer", "tenosynovial giant cell tumor", "malignant giant cell tumor", "tenosynovial giant cell tumor, localized type", "fibroblastic neoplasm", "kidney fibrosarcoma"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Neratinib: 한국의 알려진 용도 및 시판 현황; 현재 새로운 후보 적응증 없음"
+predicted_indications: []
 ---
 
 # Neratinib
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,63 +32,46 @@ predicted_indications: ["synovium cancer", "tenosynovial giant cell tumor", "mal
 
 </div>
 
-## Neratinib: HER2 양성 유방암에서 프로게스테론 수용체 양성 유방암으로
+<!-- known-uses-page -->
+<!-- description: Neratinib: 한국의 알려진 용도 및 시판 현황; 현재 새로운 후보 적응증 없음 -->
+## Neratinib: 한국의 알려진 용도 및 시판 현황
 {: .text-alpha }
 
-## 한 문장 요약
+## 요약
+TxGNN 딥러닝 모델이 Neratinib에 대해 제시한 후보(점수 0.99 이상)는 출처를 확인할 수 있는 범위에서 모두 이미 알려진 용도입니다. 따라서 현재 새로 예측된 적응증은 없습니다. 아래 표에는 모델 후보 중 허가 근거가 있는 항목과 같은 질환 범주에 속하는 항목을 구분하여 정리했습니다.
 
-Neratinib은 비가역적 pan-HER(EGFR/HER2/HER4) 티로신 키나제 억제제로, 한국에서 허가되어 시판 중입니다.
-TxGNN 모델은 **프로게스테론 수용체 양성 유방암(Progesterone-receptor positive breast cancer)**에 효과가 있을 수 있다고 예측하며, 현재 **2건의 임상시험**(1건은 모집 중, 1건은 철회)과 **12편의 문헌**이 이 방향을 지지합니다. 다만 이 적응증은 이미 유방암에서 사용되는 용도와 크게 겹치므로 엄밀한 의미의 재창출 발견은 아닙니다.
-
-## 빠른 개요
-
+## 한눈에 보기
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 허가사항 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 |
-| 예측 신규 적응증 | 프로게스테론 수용체 양성 유방암 (Progesterone-receptor positive breast cancer) |
-| TxGNN 예측 점수 | 99.68% |
-| 근거 수준 | L2 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 1건 |
-| 권장 결정 | Proceed with Guardrails |
+| 새로 예측된 적응증 | 없음 (출처를 확인할 수 있는 모델 후보는 모두 알려진 용도) |
+| 모델 후보 중 알려진 용도 | 4 |
+| 근거 수준 | 해당 없음 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 
-> 참고: 예측 순위 1위인 "정상 유방 유사 아형 유방암"은 근거가 없어 보류(Hold) 대상이며, 이 보고서는 임상시험과 문헌 근거가 있는 가장 상위 항목(순위 2)을 중심으로 작성했습니다.
+## 모델 후보 중 알려진 용도
 
-## 이 예측이 타당한 이유는?
+### 허가 근거가 있는 적응증 (허가 또는 label로 뒷받침)
+| 적응증 | 출처 |
+|------|------|
+| 프로게스테론 수용체 양성 유방암 (progesterone-receptor positive breast cancer) | 한국 허가 (licence in South Korea); 승인 적응증: 유방암 (breast cancer) |
+| 프로게스테론 수용체 음성 유방암 (progesterone-receptor negative breast cancer) | 한국 허가 (licence in South Korea); 승인 적응증: 유방암 (breast cancer) |
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 Neratinib은 EGFR, HER2, HER4를 비가역적으로 억제하는 pan-HER 티로신 키나제 억제제입니다. HER2 양성 조기 유방암에서 트라스투주맙 기반 보조요법 이후 연장 보조요법으로 사용되며, 호르몬 수용체(HR) 양성 환자도 포함됩니다(ExteNET, PMID 26874901).
+### 허가 적응증과 관련된 항목 (같은 질환 범주)
+| 적응증 | 허가 범주 |
+|------|------|
+| 유방암의 정상 유방 유사형 하위 유형 (normal breast-like subtype of breast carcinoma) | 유방암 (breast cancer) |
+| 루미날 A형 또는 B형 유방 종양 (breast tumor luminal A or B) | 유방암 (breast cancer) |
 
-HR 양성/HER2 양성 질환에서는 HER2 경로와 에스트로겐 수용체 경로 간 상호작용이 있어, Neratinib과 내분비요법을 병용하는 접근이 뒷받침됩니다. 따라서 프로게스테론 수용체 양성 유방암은 기존 적응증과 연관성이 높습니다.
-
-다만 HR 양성/HER2 음성 질환에 대한 근거는 2상 시험 수준에 그칩니다(1건 모집 중, 1건 철회). ExteNET 3상 자료는 문헌으로만 제공되었고 등록된 임상시험 항목으로는 제공되지 않아, 근거 수준을 L1이 아닌 L2로 보수적으로 설정했습니다.
-
-## 임상시험 근거
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT04886531](https://clinicaltrials.gov/study/NCT04886531) | Phase 2 | 모집 중 | 30 | ER 양성/HER2 양성 암에서 수술 전 Neratinib + 내분비요법 + 트라스투주맙 24주 투여. 아직 결과 없음 |
-| [NCT04901299](https://clinicaltrials.gov/study/NCT04901299) | Phase 2 | 철회 | 0 | 기존 치료받은 HR 양성/HER2 음성 전이성 유방암에서 Neratinib + Fulvestrant. 등록 환자가 없어 근거 불가 |
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [26874901](https://pubmed.ncbi.nlm.nih.gov/26874901/) | 2016 | RCT (3상) | Lancet Oncol | 트라스투주맙 보조요법 후 HER2 양성 조기 유방암에서 Neratinib 12개월 투여(ExteNET)의 효능과 안전성 |
-| [27406346](https://pubmed.ncbi.nlm.nih.gov/27406346/) | 2016 | 임상시험 (적응적 무작위배정) | N Engl J Med | I-SPY 2 시험에서 고위험 2~3기 유방암 수술 전 치료에 Neratinib 추가 평가 |
-| [39153126](https://pubmed.ncbi.nlm.nih.gov/39153126/) | 2024 | 코호트 | Breast Cancer Res Treat | HR 양성/HER2 양성 조기 유방암에서 보조 Neratinib 사용 양상과 내약성. 위장관 부작용으로 중단이 흔함 |
-| [41499317](https://pubmed.ncbi.nlm.nih.gov/41499317/) | 2026 | 코호트 | Oncology | 현재 진료 환경에서 HR 양성/HER2 양성 유방암 보조 Neratinib 처방 경향 |
-| [35640077](https://pubmed.ncbi.nlm.nih.gov/35640077/) | 2022 | 가이드라인 | J Clin Oncol | 진행성 HER2 양성 유방암 전신요법 ASCO 가이드라인 개정 |
-| [29784737](https://pubmed.ncbi.nlm.nih.gov/29784737/) | 2018 | 가이드라인 | J Natl Compr Canc Netw | NCCN 유방암 가이드라인 개정, CDK4/6 억제제 도입에 따른 치료 알고리즘 변화 |
-| [33726508](https://pubmed.ncbi.nlm.nih.gov/33726508/) | 2021 | Review | Future Oncol | HR 양성/HER2 양성 유방암 치료 동향. 화학요법 없는 호르몬 + 항HER2 병용으로 장기 질병 조절 가능 |
-| [32139271](https://pubmed.ncbi.nlm.nih.gov/32139271/) | 2020 | 전문가 라운드테이블 | Clin Breast Cancer | HER2 양성 유방암의 임상 발전과 진료 지침 |
-| [41886605](https://pubmed.ncbi.nlm.nih.gov/41886605/) | 2026 | 전임상 | Cancer Res | HR 양성/HER2 양성 유방암에서 BRD8/EP400이 항HER2 반응을 매개 |
-| [35251981](https://pubmed.ncbi.nlm.nih.gov/35251981/) | 2022 | 증례 보고 | Front Oncol | 연수막 전이를 동반한 HER2 양성 유방암에서 피로티닙 + 메트로노믹 비노렐빈의 지속 효과 |
+### 지식 그래프에 기록된 관계 (허가 근거 없음)
+| 적응증 |
+|------|
+| 없음 |
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 202107016 | 너링스정(네라티닙말레산염) | 빨간색의 타원형 필름코팅정제 | 허가사항 문서 참조 (적응증 본문 미확보) |
+| 허가번호 | 제품명 | 제형 | 상태 |
+|------|------|------|------|
+| 202107016 | Nerlynx Tablet (neratinib maleate) | 빨간색의 타원형 필름코팅정제 | 유효 |
 
 ## 세포독성
 
@@ -111,21 +93,6 @@ HR 양성/HER2 양성 질환에서는 HER2 경로와 에스트로겐 수용체 �
 
 경고 및 금기 사항은 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Proceed with Guardrails**
-
-**사유:**
-HER2 양성 조기 유방암에서 ExteNET 3상 결과가 있고 HR 양성/HER2 양성 대상 2상 시험이 진행 중입니다. 다만 이 적응증은 기존 유방암 사용과 대부분 겹치며, HR 양성/HER2 음성 질환에 대한 근거는 아직 부족합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고, 금기, 허가 적응증 본문) 확보 및 분석. 현재 안전성 선별을 진행할 수 없는 차단 수준의 데이터 공백입니다.
-- 상세한 약물 작용 기전(MOA) 데이터
-- ExteNET 3상 시험의 등록 임상시험 정보 확인으로 근거 수준 재평가
-- NCT04886531 결과 추적
-- 위산 억제제 병용 및 설사 등 위장관 부작용에 대한 관리 계획
-
-> 참고: 같은 약물의 다른 예측 중 "프로게스테론 수용체 음성 유방암"과 "유방 종양 루미널 A 또는 B"도 L2로 평가됩니다(전자는 NCT04886531 부분 적용, 후자는 HER2 변이 HR 양성 전이성 유방암 대상 SUMMIT 등 2상 시험 문헌에 기반). 반면 정상 유방 유사 아형, 활막암, 건초 거대세포종, 악성 거대세포종, 섬유모세포성 신생물, 신장 섬유육종은 모델 예측만 있고(L5) 기전적 연결도 약해 **Hold**를 권장합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

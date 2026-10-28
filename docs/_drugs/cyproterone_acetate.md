@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cyproterone Acetate
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 243
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Cyproterone Acetate: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 확인되지 않았습니다. 약리 정보상 안드로겐 의존성 질환(전립선암, 여드름…"
 monitor_inn: "CYPROTERONE ACETATE"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "migraine with or without aura, susceptibility to", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
 ---
 
 # Cyproterone Acetate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **편두통(Migraine disorder)**에 효과가 있을 수 있다�
 |------|------|
 | 기존 적응증 | 허가 적응증 원문은 확인되지 않았습니다. 약리 정보상 안드로겐 의존성 질환(전립선암, 여드름, 다모증 등)과 호르몬 요법에 사용됩니다. |
 | 예측 신규 적응증 | 편두통 (Migraine disorder) |
-| TxGNN 예측 점수 | 99.66% |
+| TxGNN 예측 점수 | 0.9966 |
 | 근거 수준 | L4 (직접 근거 없이 기전·간접 문헌만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 

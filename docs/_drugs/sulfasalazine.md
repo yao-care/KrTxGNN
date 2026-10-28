@@ -4,17 +4,17 @@ title: Sulfasalazine
 parent: 모델 예측만 (L5)
 nav_order: 707
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-15
-description: "Sulfasalazine: 예측 신규 적응증 골관절염 (Osteoarthritis) — 예측 순위 5위 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 확인할 수 없음 (허가사항 PDF 참조)"
 monitor_inn: "SULFASALAZINE"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+description: "Sulfasalazine: 예측 신규 적응증 Brachydactyly-syndactyly syndrome (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803482/EE"
 ---
 
 # Sulfasalazine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-## Sulfasalazine: 염증성 질환에서 골관절염으로
+## Sulfasalazine: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,11 +46,11 @@ Sulfasalazine은 한국에서 장용정 형태로 허가·시판 중인 단일 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 링크로만 제공되어 확인할 수 없음 (허가사항 PDF 참조) |
-| 예측 신규 적응증 | 골관절염 (Osteoarthritis) — 예측 순위 5위 |
-| TxGNN 예측 점수 | 99.64% |
-| 근거 수준 | L4 (전임상·기전 연구만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803482/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806926/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403301/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201209552/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110251/EE |
+| 예측 신규 적응증 | Brachydactyly-syndactyly syndrome |
+| TxGNN 예측 점수 | 0.9994 |
+| 근거 수준 | L5 (전임상·기전 연구만 있음) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 (모두 유효, 단일제) |
 | 권장 결정 | Hold (추가 연구 질문으로 분류) |
 
@@ -58,18 +58,16 @@ Sulfasalazine은 한국에서 장용정 형태로 허가·시판 중인 단일 �
 
 | 순위 | 예측 질환 | 점수 | 근거 수준 |
 |-----|---------|------|---------|
-| 1 | Brachydactyly-syndactyly syndrome | 99.94% | L5 |
-| 2 | Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.94% | L5 |
-| 3 | Osteoarthritis susceptibility | 99.88% | L5 |
-| 4 | Congenital hypotrichosis with juvenile macular dystrophy | 99.66% | L5 |
-| 5 | **Osteoarthritis** | 99.64% | L4 |
-| 6 | WHIM syndrome | 99.62% | L5 |
-| 7 | Acromesomelic dysplasia, Hunter-Thompson type | 99.61% | L5 |
-| 8 | Spondyloarthropathy, susceptibility to | 99.53% | L4 |
-| 9 | Brachyolmia-amelogenesis imperfecta syndrome | 99.49% | L5 |
-| 10 | Myosclerosis | 99.43% | L5 |
+| 1 | Brachydactyly-syndactyly syndrome | 0.9994 | L5 |
+| 2 | Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 0.9994 | L5 |
+| 4 | Congenital hypotrichosis with juvenile macular dystrophy | 0.9966 | L5 |
+| 5 | **Osteoarthritis** | 0.9964 | L4 |
+| 6 | WHIM syndrome | 0.9962 | L5 |
+| 7 | Acromesomelic dysplasia, Hunter-Thompson type | 0.9961 | L5 |
+| 9 | Brachyolmia-amelogenesis imperfecta syndrome | 0.9949 | L5 |
+| 10 | Myosclerosis | 0.9943 | L5 |
 
-희귀 유전 질환 위주인 L5 항목(1, 2, 4, 6, 7, 9, 10위)은 기전적 연관성이 없고 연구도 없어 모두 Hold입니다. 3위는 유전적 감수성 항목으로, 골관절염 항목과의 그래프상 근접성에서 나온 산물로 보입니다.
+희귀 유전 질환 위주인 L5 항목(1, 2, 4, 6, 7, 9, 10위)은 기전적 연관성이 없고 연구도 없어 모두 Hold입니다.
 
 ## 이 예측이 타당한 이유는?
 
@@ -145,7 +143,7 @@ Sulfasalazine은 한국에서 장용정 형태로 허가·시판 중인 단일 �
 **결정: Hold**
 
 **사유:**
-골관절염 예측은 TxGNN 점수(99.64%)가 높지만 근거는 전임상 연구뿐이며 임상시험이 없습니다(L4). 나머지 상위 예측은 대부분 희귀 유전 질환으로, 기전적 연결이나 근거가 전혀 없습니다. 안전성 데이터(허가사항 경고·금기)도 확보되지 않아 안전성 선별 단계로 진행할 수 없습니다.
+골관절염 예측은 TxGNN 점수(0.9964)가 높지만 근거는 전임상 연구뿐이며 임상시험이 없습니다(L4). 나머지 상위 예측은 대부분 희귀 유전 질환으로, 기전적 연결이나 근거가 전혀 없습니다. 안전성 데이터(허가사항 경고·금기)도 확보되지 않아 안전성 선별 단계로 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
 - MFDS 허가사항(경고·금기) 확보 및 분석: 안전성 선별의 필수 선행 조건

@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Nemolizumab
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 541
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Nemolizumab: 예측 신규 적응증 당뇨병성 백내장 (diabetic cataract) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않았습니다(허가 문서 링크만 확인됨). 참고로 국외에서는 아토피피부염 관련 가려움증(일본)과…"
+description: "Nemolizumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Nemolizumab"
-predicted_indications: ["diabetic cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "craniostenosis cataract", "immature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic retinopathy"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Nemolizumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,40 +35,16 @@ predicted_indications: ["diabetic cataract", "diabetes mellitus type 2 associate
 
 </div>
 
-## Nemolizumab: 기존 적응증에서 당뇨병성 백내장으로
+## Nemolizumab
 {: .text-alpha }
-
-## 한 문장 요약
-
-Nemolizumab은 IL-31 수용체 알파(IL-31RA)를 표적으로 하는 항체 의약품으로, 한국에서 허가되어 시판 중입니다. TxGNN 모델은 **당뇨병성 백내장(diabetic cataract)**에 효과가 있을 수 있다고 예측했지만, 현재 이 방향을 지지하는 **임상시험과 문헌은 없습니다**. 따라서 이 예측은 모델 점수에만 의존하는 가설 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 제공되지 않았습니다(허가 문서 링크만 확인됨). 참고로 국외에서는 아토피피부염 관련 가려움증(일본)과 결절성 양진(미국)에 승인된 것으로 알려져 있습니다. |
-| 예측 신규 적응증 | 당뇨병성 백내장 (diabetic cataract) |
-| TxGNN 예측 점수 | 98.55% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600210/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 약리학 자료에 따르면 Nemolizumab은 IL-31RA를 차단하는 단클론항체입니다. IL-31 신호를 억제해 가려움증과 제2형 염증을 줄이는 약물입니다.
-
-이 기전은 당뇨병성 백내장의 주요 원인과 연결되지 않습니다. 당뇨병성 백내장은 폴리올 경로, 산화 스트레스, 당화 과정이 수정체 혼탁을 일으키는 질환인데, IL-31 경로가 여기에 관여한다는 근거는 없습니다. TxGNN 점수(98.55%)는 그래프상의 근접성에 기반한 계산 결과일 뿐이며, 백내장 하위 유형 간 유사성에서 비롯된 것으로 보입니다.
-
-같은 방식으로 예측된 다른 백내장 유형(2형 당뇨병 관련 백내장, 성숙·미성숙 백내장, 노인성 백내장 등)에서도 기전적 연결은 확인되지 않았습니다. 상위 10개 예측 중에서는 당뇨병성 망막병증이 염증과 사이토카인 관여 가능성 측면에서 생물학적으로 가장 그럴듯하지만, 이 역시 IL-31 관여에 대한 구체적 근거가 없어 추측 수준입니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
@@ -82,19 +60,6 @@ Nemolizumab은 IL-31 수용체 알파(IL-31RA)를 표적으로 하는 항체 의
 
 참고로 약리학 자료에는 1상 시험에서 중대한 이상반응이 없었다고 기재되어 있으나, 이는 허가사항의 경고·금기를 대체하지 않습니다. 이 보고서에 사용된 데이터에서는 허가사항 경고·금기 정보를 확보하지 못했습니다.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-당뇨병성 백내장에 대한 임상시험과 문헌이 없고 근거 수준이 L5이며, IL-31RA 차단과 백내장 병태생리 사이에 알려진 기전적 연결이 없습니다. 높은 TxGNN 점수만으로는 개발을 진행할 수 없습니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증)을 식약처 허가 문서에서 확보하여 안전성 1차 검토 수행
-- 작용 기전(MOA) 데이터 보완(DrugBank 등)
-- IL-31/IL-31RA가 수정체 혼탁 또는 당뇨병성 안질환에 관여하는지 보여주는 전임상 또는 기전 근거
-- 필요 시 당뇨병성 망막병증 등 기전적으로 더 가능성 있는 적응증을 우선 검토
-- 안과 적응증에 대한 투여 경로 적합성 평가 (현재 주사제 형태만 확인됨)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -40,7 +40,7 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 Tadalafil은 PDE5 억제제로, 한국에서 20건의 단일제 허가증이 유효한 시판 약물입니다. 다만 이번 데이터에는 허가 적응증 본문이 확보되지 않아 기존 적응증을 텍스트로 확인할 수 없습니다.
 TxGNN 모델은 **Ambras형 선천성 전신 다모증(Ambras type hypertrichosis universalis congenita)**에 효과가 있을 수 있다고 예측하지만, 이를 지지하는 **임상시험은 0건, 문헌도 0편**입니다.
-이 예측은 그래프 기반 추론에 그치며, 현재로서는 보류(Hold)가 타당합니다.
+이 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 현재로서는 보류(Hold)가 타당합니다.
 
 ## 빠른 개요
 
@@ -48,9 +48,9 @@ TxGNN 모델은 **Ambras형 선천성 전신 다모증(Ambras type hypertrichosi
 |------|------|
 | 기존 적응증 | 허가 적응증 본문 미확보 (허가증에는 PDF 링크만 포함되어 있어 확인 불가) |
 | 예측 신규 적응증 | Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) |
-| TxGNN 예측 점수 | 99.98% |
+| TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

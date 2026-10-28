@@ -4,17 +4,17 @@ title: Metronidazole
 parent: 모델 예측만 (L5)
 nav_order: 513
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Metronidazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 혐기성 세균 및 원충 감염 (일반적 용도. 한국 허가 적응증 본문은 허가사항 PDF 링크로만 확인되어 별도 확인 필요)"
 monitor_inn: "Metronidazole"
-predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
+predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
 ---
 
 # Metronidazole
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Metronidazole은 혐기성 세균과 원충 감염 치료에 널리 쓰이는 �
 |------|------|
 | 기존 적응증 | 혐기성 세균 및 원충 감염 (일반적 용도. 한국 허가 적응증 본문은 허가사항 PDF 링크로만 확인되어 별도 확인 필요) |
 | 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 17건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Metronidazole은 혐기성 세균과 원충 감염 치료에 널리 쓰이는 �
 
 현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 metronidazole은 혐기성 세균과 원충 내부에서 니트로기가 환원되어 활성화되고, 이 활성 대사체가 DNA를 손상시키는 방식으로 작용합니다.
 
-이 기전은 폐포자충증에는 맞지 않습니다. Pneumocystis는 진균이어서 metronidazole이 의존하는 니트로환원효소 활성화 경로가 없습니다. 표준 치료제는 trimethoprim-sulfamethoxazole입니다. 따라서 99.99%라는 높은 예측 점수는 항원충제·항감염제 등 이웃 약물과의 지식 그래프상 근접성에서 나온 인위적 결과일 가능성이 큽니다. 기전상 타당성은 낮다고 판단합니다.
+이 기전은 폐포자충증에는 맞지 않습니다. Pneumocystis는 진균이어서 metronidazole이 의존하는 니트로환원효소 활성화 경로가 없습니다. 표준 치료제는 trimethoprim-sulfamethoxazole입니다. 따라서 0.9999라는 높은 예측 점수는 TxGNN 모델(딥러닝)이 산출한 값이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 기전상 타당성은 낮다고 판단합니다.
 
 ## 임상시험 근거
 

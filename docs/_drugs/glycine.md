@@ -4,17 +4,17 @@ title: Glycine
 parent: 모델 예측만 (L5)
 nav_order: 389
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Glycine: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 텍스트 대신 식약처 문서 링크만 수록됨)"
 monitor_inn: "GLYCINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Glycine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **2** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **비강 질환(Nasal Cavity Disease)**에 효과가 있을 수 
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증 항목에 텍스트 대신 식약처 문서 링크만 수록됨) |
 | 예측 신규 적응증 | 비강 질환 (Nasal Cavity Disease) |
-| TxGNN 예측 점수 | 99.85% |
+| TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 |
 | 권장 결정 | Hold |
 
@@ -59,7 +59,6 @@ TxGNN 모델은 **비강 질환(Nasal Cavity Disease)**에 효과가 있을 수 
 
 기존 적응증과 신규 적응증의 연관성 역시 아직 평가되지 않았습니다. 점막 보호나 항염 효과를 통한 연결 가능성은 추정일 뿐입니다. 따라서 TxGNN 점수가 매우 높아도 모델이 도출한 연관성일 뿐, 기전적으로 검증된 것은 아닙니다.
 
-참고로 두 번째 예측 질환인 급성 후두인두염(Acute Laryngopharyngitis, 점수 99.84%)도 임상시험과 문헌이 전혀 없고 L5 수준으로 보류 상태입니다.
 
 ## 임상시험 근거
 
@@ -108,7 +107,7 @@ TxGNN 모델은 **비강 질환(Nasal Cavity Disease)**에 효과가 있을 수 
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 매우 높지만(99.85%) 이를 뒷받침하는 임상시험과 문헌이 없고, 확인된 시험 1건과 문헌 2건은 모두 관련성이 없습니다. 작용 기전과 허가 적응증 텍스트, 안전성 정보도 확보되지 않아 현 단계에서는 진행 근거가 부족합니다.
+TxGNN 점수는 매우 높지만(0.9985) 이를 뒷받침하는 임상시험과 문헌이 없고, 확인된 시험 1건과 문헌 2건은 모두 관련성이 없습니다. 작용 기전과 허가 적응증 텍스트, 안전성 정보도 확보되지 않아 현 단계에서는 진행 근거가 부족합니다.
 
 **진행하려면 필요한 것:**
 - 식약처 허가사항(첨부문서) PDF를 내려받아 허가 적응증, 경고, 금기 확인 (안전성 심사의 선행 조건)

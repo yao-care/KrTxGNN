@@ -8,6 +8,7 @@ nav_order: 671
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Rosuvastatin Calcium
@@ -53,7 +54,7 @@ Rosuvastatin Calcium은 HMG-CoA 환원효소 억제제(스타틴) 계열 약물�
 | 예측 신규 적응증 | 예측 없음 |
 | TxGNN 예측 점수 | N/A |
 | 근거 수준 | 평가 불가 (예측 결과 없음) |
-| 한국 시판 현황 | 미등록 (데이터 파이프라인 확인 필요) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

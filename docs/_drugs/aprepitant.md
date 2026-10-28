@@ -47,9 +47,9 @@ TxGNN 모델은 **신장성 항이뇨 부적절 증후군(nephrogenic syndrome o
 |------|------|
 | 기존 적응증 | 허가 적응증 텍스트 없음 (허가증 링크만 확인됨) |
 | 예측 신규 적응증 | 신장성 항이뇨 부적절 증후군 (nephrogenic syndrome of inappropriate antidiuresis) |
-| TxGNN 예측 점수 | 99.97% |
+| TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 

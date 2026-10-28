@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Tralokinumab
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 750
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Tralokinumab: 예측 신규 적응증 당뇨병성 백내장 (Diabetic Cataract) (근거 수준 L5). 기존 적응증: 아토피피부염 (허가증에는 적응증 본문 대신 문서 링크만 기재되어 있어, 항 IL-13 항체의 알려진 적응증을 기준으로 작성)"
+description: "Tralokinumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Tralokinumab"
-predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic retinopathy"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Tralokinumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,42 +35,16 @@ predicted_indications: ["diabetic cataract", "craniostenosis cataract", "immatur
 
 </div>
 
-## Tralokinumab: 아토피피부염에서 당뇨병성 백내장으로
+## Tralokinumab
 {: .text-alpha }
-
-## 한 문장 요약
-
-Tralokinumab은 항 IL-13 단클론항체로, 원래 아토피피부염 치료에 사용되었습니다.
-TxGNN 모델은 **당뇨병성 백내장(Diabetic Cataract)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다.
-따라서 이 예측은 모델 예측 단계(L5)에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 아토피피부염 (허가증에는 적응증 본문 대신 문서 링크만 기재되어 있어, 항 IL-13 항체의 알려진 적응증을 기준으로 작성) |
-| 예측 신규 적응증 | 당뇨병성 백내장 (Diabetic Cataract) |
-| TxGNN 예측 점수 | 98.69% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302602/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 이 약물의 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Tralokinumab은 IL-13을 표적으로 하는 단클론항체이며, 제2형 염증이 관여하는 아토피피부염에서 효능이 확인되어 있습니다.
-
-신규 적응증과의 연관성은 가설 수준입니다. 수정체나 안구 표면의 제2형 염증에 IL-13이 관여할 가능성을 생각해 볼 수는 있으나, 당뇨병성 백내장은 주로 고혈당, 폴리올 경로 활성화, 산화 스트레스로 진행되는 질환입니다. 이 연관성을 뒷받침하는 자료는 이번에 정리된 데이터에 없습니다.
-
-참고로 같은 점수대(약 98.5~98.7%)에서 예측된 다른 항목도 대부분 백내장 계열입니다(미성숙, 성숙, 피질, 핵성, 노인성, 제2형 당뇨병 연관 백내장 등). 당뇨병성 망막병증(98.4%)은 염증과 혈관 투과성이 관여해 상대적으로 생물학적 근거가 더 그럴듯하지만, 이 역시 가설 수준입니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
@@ -82,19 +58,6 @@ TxGNN 모델은 **당뇨병성 백내장(Diabetic Cataract)**에 효과가 있�
 
 그 외 안전성 정보(경고, 금기, 약물 상호작용)는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-당뇨병성 백내장에 대한 예측 점수는 높지만 임상시험과 문헌이 전혀 없고, 작용 기전 데이터도 확보되지 않았습니다. 또한 안구 표면 이상반응 가능성이 있어 현재로서는 진행할 근거가 부족합니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(경고·금기) 확보 및 안전성 검토
-- 작용 기전(MOA) 데이터 보강 (DrugBank 등)
-- IL-13 신호와 수정체 혼탁 또는 당뇨병성 안질환 간의 연관성을 보여주는 전임상·문헌 근거
-- 당뇨병성 백내장과 당뇨병성 망막병증 중 우선 탐색 대상 재검토
-- 안구 안전성 평가 계획
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-15
 description: "Insulin Lispro: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 당뇨병 혈당 조절 (허가 적응증 원문은 링크 형태로만 제공되어 상세 문구 확인 불가)"
 monitor_inn: "INSULIN LISPRO"
-predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 ---
 
 # Insulin Lispro
@@ -48,9 +48,9 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 |------|------|
 | 기존 적응증 | 당뇨병 혈당 조절 (허가 적응증 원문은 링크 형태로만 제공되어 상세 문구 확인 불가) |
 | 예측 신규 적응증 | 자가면역성 난소염 (autoimmune oophoritis) |
-| TxGNN 예측 점수 | 99.78% |
+| TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 6건 |
 | 권장 결정 | Hold |
 
@@ -109,14 +109,14 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 | 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 비고 |
 |-----|-----------|-----------|---------|------|
-| 2 | 티아민 반응성 기능장애 증후군 | 99.37% | L5 | 동반 당뇨병에 대한 대증 치료일 뿐, 새로운 적응증이 아닙니다. |
-| 3 | 국소 강직 사지 증후군 | 99.36% | L5 | 동반 당뇨병과 연관되며 신경학적 증상에는 효과가 없습니다. |
-| 4 | 전형적 강직인간증후군 | 99.36% | L5 | 항 GAD65 항체 및 제1형 당뇨병과의 연관성 때문으로 보입니다. |
-| 5 | 옵시스모이형성증 | 99.34% | L5 | INPPL1(SHIP2)을 통한 인슐린 신호 연관성은 추측 수준입니다. |
-| 6 | 약물 유발 국소 지방이영양증 | 99.09% | L5 | 인슐린 주사가 원인이 될 수 있어 연관성이 역전된 것으로 보이며, 오히려 해로울 수 있습니다. |
-| 7 | 췌장 무형성증 | 99.09% | L4 | 인슐린 보충은 표준 치료이나 인슐린 계열의 기존 용도이며, 확보된 문헌 1편(2형 당뇨병 인슐린 치료 리뷰, 2002)은 간접적으로만 관련됩니다. |
-| 8 | 원심성 지방이영양증 | 99.04% | L5 | 인슐린 치료와의 연관성이 확립되지 않았습니다. |
-| 9 | 압박 유발 국소 지방위축증 | 99.03% | L5 | 인슐린 주사 부위 지방위축과의 연관성으로 인한 모델상의 착시일 가능성이 있습니다. |
+| 2 | 티아민 반응성 기능장애 증후군 | 0.9937 | L5 | 동반 당뇨병에 대한 대증 치료일 뿐, 새로운 적응증이 아닙니다. |
+| 3 | 국소 강직 사지 증후군 | 0.9936 | L5 | 동반 당뇨병과 연관되며 신경학적 증상에는 효과가 없습니다. |
+| 4 | 전형적 강직인간증후군 | 0.9936 | L5 | 항 GAD65 항체 및 제1형 당뇨병과의 연관성 때문으로 보입니다. |
+| 5 | 옵시스모이형성증 | 0.9934 | L5 | INPPL1(SHIP2)을 통한 인슐린 신호 연관성은 추측 수준입니다. |
+| 6 | 약물 유발 국소 지방이영양증 | 0.9909 | L5 | 인슐린 주사가 원인이 될 수 있어 연관성이 역전된 것으로 보이며, 오히려 해로울 수 있습니다. |
+| 7 | 췌장 무형성증 | 0.9909 | L5 | 인슐린 보충은 표준 치료이나 인슐린 계열의 기존 용도이며, 확보된 문헌 1편(2형 당뇨병 인슐린 치료 리뷰, 2002)은 간접적으로만 관련됩니다. |
+| 8 | 원심성 지방이영양증 | 0.9904 | L5 | 인슐린 치료와의 연관성이 확립되지 않았습니다. |
+| 9 | 압박 유발 국소 지방위축증 | 0.9903 | L5 | 인슐린 주사 부위 지방위축과의 연관성으로 인한 모델상의 착시일 가능성이 있습니다. |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -5,10 +5,10 @@ parent: 모델 예측만 (L5)
 nav_order: 614
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Polyvinyl Alcohol: 예측 신규 적응증 선천성 어린선증양 홍색피부증 (Congenital Ichthyosiform Erythroderma) (근거 수준 L5). 기존 적응증: 점안액 제품으로 허가됨 (허가 적응증 본문은 확인되지 않음)"
+last_modified_at: 2026-10-28
 monitor_inn: "POLYVINYL ALCOHOL"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
+description: "Polyvinyl Alcohol: 예측 신규 적응증 선천성 어린선증양 홍색피부증 (congenital ichthyosiform erythroderma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503557/EE"
 ---
 
 # Polyvinyl Alcohol
@@ -33,7 +33,7 @@ predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing c
 
 </div>
 
-## Polyvinyl Alcohol: 점안제 성분에서 선천성 어린선증양 홍색피부증으로
+## Polyvinyl Alcohol: 선천성 어린선증양 홍색피부증 (congenital ichthyosiform erythroderma)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -45,15 +45,15 @@ TxGNN 모델은 **선천성 어린선증양 홍색피부증(Congenital Ichthyosi
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 점안액 제품으로 허가됨 (허가 적응증 본문은 확인되지 않음) |
-| 예측 신규 적응증 | 선천성 어린선증양 홍색피부증 (Congenital Ichthyosiform Erythroderma) |
-| TxGNN 예측 점수 | 99.90% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503557/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200908143/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201101693/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500494/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004679/EE;  |
+| 예측 신규 적응증 | 선천성 어린선증양 홍색피부증 (congenital ichthyosiform erythroderma) |
+| TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 6건 |
 | 권장 결정 | Hold |
 
-기타 예측 후보: 자연 치유성 콜로디온 아기(99.83%), 층판 어린선증(99.72%), 수영복 어린선증(99.54%). 모두 L5, Hold입니다.
+기타 예측 후보: 자연 치유성 콜로디온 아기(0.9983), 층판 어린선증(0.9972), 수영복 어린선증(0.9954). 모두 L5, Hold입니다.
 
 ## 이 예측이 타당한 이유는?
 

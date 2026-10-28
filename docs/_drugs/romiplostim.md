@@ -48,9 +48,9 @@ TxGNN 모델은 **혈소판 방출 장애(primary release disorder of platelets)
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가 정보는 링크로만 제공됨). 약리 자료상 만성 특발성 혈소판감소성 자반증(ITP) |
 | 예측 신규 적응증 | 혈소판 방출 장애 (primary release disorder of platelets) |
-| TxGNN 예측 점수 | 99.99983% |
+| TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 

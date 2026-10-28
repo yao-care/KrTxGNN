@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Gemfibrozil
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 373
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Gemfibrozil: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "Gemfibrozil"
-predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "obsolete familial combined hyperlipidemia", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
+predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 ---
 
 # Gemfibrozil
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L4** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Gemfibrozil은 PPAR-alpha 작용제 계열의 지질 저하제로, 한국에서 
 |------|------|
 | 기존 적응증 | 허가 적응증 원문이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조) |
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
-| TxGNN 예측 점수 | 99.90% |
+| TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L4 (전임상·기전 연구 수준) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -110,10 +110,10 @@ Gemfibrozil은 PPAR-alpha 작용제 계열의 지질 저하제로, 한국에서 
 
 | 순위 | 예측 질환 | TxGNN 점수 | 근거 수준 | 비고 |
 |----|---------|-----------|---------|------|
-| 3 | HIV 감염 질환 | 99.80% | L3 | 임상 근거는 HIV 감염 자체가 아닌 단백분해효소억제제 관련 고중성지방혈증 관리에 관한 것 (무작위 이중맹검 연구 [PMID 12409741](https://pubmed.ncbi.nlm.nih.gov/12409741/) 포함) |
-| 4 | 저알파지단백혈증 | 99.77% | L3 | HDL 수치를 지표로 한 소규모 연구들이며, 기존 지질 적응증과 중복 |
-| 9 | 경화성 담관염 | 99.70% | L4 | 피브레이트 계열의 안전성 고찰 등 간접 근거만 있음 |
-| 2, 5, 6, 7, 10 | 다발성 내분비 종양, 짧은손가락-합지증 증후군 등 | 99.70~99.83% | L5 | 모델 예측만 있고 근거 없음 |
+| 3 | HIV 감염 질환 | 0.9980 | L3 | 임상 근거는 HIV 감염 자체가 아닌 단백분해효소억제제 관련 고중성지방혈증 관리에 관한 것 (무작위 이중맹검 연구 [PMID 12409741](https://pubmed.ncbi.nlm.nih.gov/12409741/) 포함) |
+| 4 | 저알파지단백혈증 | 0.9977 | L3 | HDL 수치를 지표로 한 소규모 연구들이며, 기존 지질 적응증과 중복 |
+| 9 | 경화성 담관염 | 0.9970 | L5 | 피브레이트 계열의 안전성 고찰 등 간접 근거만 있음 |
+| 2, 5, 6, 7, 10 | 다발성 내분비 종양, 짧은손가락-합지증 증후군 등 | 99.70~0.9983 | L5 | 모델 예측만 있고 근거 없음 |
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

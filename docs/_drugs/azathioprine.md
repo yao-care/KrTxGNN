@@ -4,17 +4,17 @@ title: Azathioprine
 parent: 모델 예측만 (L5)
 nav_order: 112
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Azathioprine: 예측 신규 적응증 콜로보마성 소안구증-근위지단 이형성증 증후군 (colobomatous microphthalmia-rhizomelic dysp… (근거 수준 L5). 기존 적응증: 허가증 본문은 링크로만 확인되어 구체적 문구를 확인하지 못했습니다. 일반적으로 알려진 면역 매개 질환 및 이식 관련 면역억제…"
 monitor_inn: "AZATHIOPRINE"
-predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "osteoarthritis susceptibility", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
 ---
 
 # Azathioprine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndro
 
 ## 한 문장 요약
 
-Azathioprine은 퓨린 계열 항대사 면역억제제로, 한국에서 11건의 단일제 허가증으로 시판 중입니다. TxGNN 모델은 희귀 발생 이상 질환인 **콜로보마성 소안구증-근위지단 이형성증 증후군(colobomatous microphthalmia-rhizomelic dysplasia syndrome)**에 효과가 있을 것으로 예측했고 점수는 매우 높았습니다. 그러나 이를 지지하는 **임상시험은 0건, 문헌도 0편**이라 이 예측은 그래프 기반 인공 산출물일 가능성이 큽니다.
+Azathioprine은 퓨린 계열 항대사 면역억제제로, 한국에서는 시판되지 않습니다. TxGNN 모델은 희귀 발생 이상 질환인 **콜로보마성 소안구증-근위지단 이형성증 증후군(colobomatous microphthalmia-rhizomelic dysplasia syndrome)**에 효과가 있을 것으로 예측했고 점수는 매우 높았습니다. 그러나 이를 지지하는 **임상시험은 0건, 문헌도 0편**이라 이 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다.
 
 ## 빠른 개요
 
@@ -46,9 +46,9 @@ Azathioprine은 퓨린 계열 항대사 면역억제제로, 한국에서 11건�
 |------|------|
 | 기존 적응증 | 허가증 본문은 링크로만 확인되어 구체적 문구를 확인하지 못했습니다. 일반적으로 알려진 면역 매개 질환 및 이식 관련 면역억제 용도입니다. |
 | 예측 신규 적응증 | 콜로보마성 소안구증-근위지단 이형성증 증후군 (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
-| TxGNN 예측 점수 | 99.9994% (전체 순위 61위) |
+| TxGNN 예측 점수 | 1.0000 (전체 순위 61위) |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 11건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Azathioprine은 퓨린 계열 항대사 면역억제제로, 한국에서 11건�
 
 현재 상세한 작용 기전 데이터가 없습니다. Azathioprine은 일반적으로 6-mercaptopurine으로 전환되어 퓨린 합성과 림프구 증식을 억제하는 면역억제제로 알려져 있으며, 이는 면역 매개 염증 질환에서 효과를 내는 기전입니다.
 
-이번 예측 질환은 안구와 골격의 발생 이상을 보이는 희귀 증후군입니다. 면역억제나 항대사 작용이 구조적 발달 장애를 교정할 근거는 확인되지 않았습니다. 기존 적응증과의 연관성도, 기전상 적용 가능한 이유도 찾을 수 없습니다. 따라서 매우 높은 TxGNN 점수는 지식 그래프 구조에서 비롯된 인공 산출물일 가능성이 높습니다.
+이번 예측 질환은 안구와 골격의 발생 이상을 보이는 희귀 증후군입니다. 면역억제나 항대사 작용이 구조적 발달 장애를 교정할 근거는 확인되지 않았습니다. 기존 적응증과의 연관성도, 기전상 적용 가능한 이유도 찾을 수 없습니다. 따라서 매우 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다.
 
 ## 임상시험 근거
 

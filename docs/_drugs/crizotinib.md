@@ -4,17 +4,17 @@ title: Crizotinib
 parent: 모델 예측만 (L5)
 nav_order: 236
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Crizotinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 한국 허가증에는 적응증 본문 대신 허가사항 문서 링크만 확인됩니다. 문헌상 ALK 양성 비소세포폐암(NSCLC)에 사용됩니다"
 monitor_inn: "CRIZOTINIB"
-predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 ---
 
 # Crizotinib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 |------|------|
 | 기존 적응증 | 한국 허가증에는 적응증 본문 대신 허가사항 문서 링크만 확인됩니다. 문헌상 ALK 양성 비소세포폐암(NSCLC)에 사용됩니다. |
 | 예측 신규 적응증 | 치은 섬유종증 (fibromatosis, gingival) |
-| TxGNN 예측 점수 | 99.81% |
+| TxGNN 예측 점수 | 0.9981 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Crizotinib은 ALK, ROS1, MET 수용체 티로신 키나제를 억제하는 약물이며, ALK 또는 ROS1 변이가 있는 비소세포폐암에서 효능이 확인되어 있습니다.
 
-그러나 치은 섬유종증과 ALK/ROS1/MET 억제 사이에 타당한 기전적 연결고리는 현재 데이터로 확인되지 않습니다. 예측 점수는 높지만(99.81%) 뒷받침하는 임상시험이나 문헌이 없어, 기전상 적용 가능하다고 판단하기 어렵습니다.
+그러나 치은 섬유종증과 ALK/ROS1/MET 억제 사이에 타당한 기전적 연결고리는 현재 데이터로 확인되지 않습니다. 예측 점수는 높지만(0.9981) 뒷받침하는 임상시험이나 문헌이 없어, 기전상 적용 가능하다고 판단하기 어렵습니다.
 
 참고로 다른 예측 질환 중에는 근거가 더 있는 것도 있습니다. 다만 다음과 같은 한계가 있습니다.
 - **폐 양성 신생물(lung benign neoplasm)**: ALK 양성 NSCLC의 3상 RCT 문헌이 많지만, 이는 이미 허가된 적응증의 근거입니다. 질환 분류 체계의 매핑 결과일 뿐 새로운 적응증의 신호는 아닙니다.

@@ -4,7 +4,7 @@ title: Methotrexate
 parent: 모델 예측만 (L5)
 nav_order: 508
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Methotrexate: 예측 신규 적응증 폐모세포종 (Pulmonary Blastoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확보되지 않았고, 허가증별 원문 링크만 확인됩니다"
 monitor_inn: "METHOTREXATE"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 # Methotrexate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 
 ## 한 문장 요약
 
-메토트렉세이트는 한국에서 20건의 허가증으로 시판 중인 항엽산제 계열 약물입니다. TxGNN 모델은 이 약이 **폐모세포종(pulmonary blastoma)**에 효과가 있을 수 있다고 예측합니다(점수 99.45%). 다만 이번에 정리한 자료에는 이 질환에 대한 **임상시험 0건, 문헌 0편**이어서 모델 예측만 있는 상태입니다.
+메토트렉세이트는 한국에서 20건의 허가증으로 시판 중인 항엽산제 계열 약물입니다. TxGNN 모델은 이 약이 **폐모세포종(pulmonary blastoma)**에 효과가 있을 수 있다고 예측합니다(점수 0.9945). 다만 이번에 정리한 자료에는 이 질환에 대한 **임상시험 0건, 문헌 0편**이어서 모델 예측만 있는 상태입니다.
 
 ## 빠른 개요
 
@@ -46,9 +46,9 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 |------|------|
 | 기존 적응증 | 허가 적응증 본문은 확보되지 않았고, 허가증별 원문 링크만 확인됩니다. |
 | 예측 신규 적응증 | 폐모세포종 (Pulmonary Blastoma) |
-| TxGNN 예측 점수 | 99.45% |
+| TxGNN 예측 점수 | 0.9945 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 유효, 단일 성분) |
 | 권장 결정 | Hold |
 
@@ -102,7 +102,7 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 **결정: Hold**
 
 **사유:**
-폐모세포종에 대한 예측은 TxGNN 점수(99.45%)뿐이며 임상시험과 문헌이 모두 없어 근거 수준이 L5입니다. 기전적 타당성은 일반적인 항증식 작용에 근거한 추론에 그칩니다.
+폐모세포종에 대한 예측은 TxGNN 점수(0.9945)뿐이며 임상시험과 문헌이 모두 없어 근거 수준이 L5입니다. 기전적 타당성은 일반적인 항증식 작용에 근거한 추론에 그칩니다.
 
 **진행하려면 필요한 것:**
 - 폐모세포종에서 메토트렉세이트 사용에 관한 전임상·증례·문헌 근거 확보

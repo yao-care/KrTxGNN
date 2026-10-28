@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cyclophosphamide
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 240
-evidence_level: L5
-indication_count: 5
+evidence_level: L2
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Cyclophosphamide: 예측 신규 적응증 골수성 백혈병 (Myeloid Leukemia) (근거 수준 L5)."
 monitor_inn: "CYCLOPHOSPHAMIDE"
-predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
+predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **5** 건
+근거 수준: **L2** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -45,9 +45,9 @@ predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "v
 | 항목 | 내용 |
 |------|------|
 | 예측 신규 적응증 | 골수성 백혈병 (Myeloid Leukemia) |
-| TxGNN 예측 점수 | 99.47% |
+| TxGNN 예측 점수 | 0.9947 |
 | 근거 수준 | L2 (완료된 Phase 2/3 무작위배정 시험 1건. 규칙상 L2이며, 분석 단계의 사전 판정 L1과는 차이가 있습니다) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 5건 (모두 단일제, 유효) |
 | 권장 결정 | Proceed with Guardrails |
 

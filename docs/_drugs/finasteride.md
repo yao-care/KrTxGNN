@@ -33,7 +33,7 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 </div>
 
-## Finasteride: 안드로겐성 탈모에서 다모증(Hypertrichosis)으로
+## Finasteride: 안드로겐성 탈모에서 Ambras형 선천성 전신 다모증으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -48,9 +48,9 @@ TxGNN 모델은 **Ambras형 전신 선천성 다모증(Ambras type hypertrichosi
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 수록되어 있지 않아 확인할 수 없음 (허가사항 참조) |
 | 예측 신규 적응증 | Ambras형 전신 선천성 다모증 (Ambras type hypertrichosis universalis congenita) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (1순위 기준) / L4 (2순위 다모증 기준) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **Ambras형 전신 선천성 다모증(Ambras type hypertrichosi
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Finasteride는 제2형 5-알파 환원효소를 억제해 DHT를 낮추며, 안드로겐성 탈모 치료에 확립되어 있고 다모증(hirsutism)에는 오프라벨로 사용됩니다. 이 기전은 모낭에 작용하는 약물이라는 점에서 모발 관련 질환과 느슨하게 연결됩니다.
 
-그러나 1순위인 Ambras 증후군은 TRPS1 조절에 영향을 주는 유전체 재배열과 관련된 선천성 질환으로, 안드로겐에 의해 유발되는 질환이 아닙니다. 따라서 기전상 근거가 약하며, 매우 높은 예측 점수는 지식 그래프상 모발 관련 표현형과의 근접성을 반영했을 가능성이 있습니다.
+그러나 1순위인 Ambras 증후군은 TRPS1 조절에 영향을 주는 유전체 재배열과 관련된 선천성 질환으로, 안드로겐에 의해 유발되는 질환이 아닙니다. 따라서 기전상 근거가 약하며, 매우 높은 예측 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 있을 뿐, 생물학적 근거는 아닙니다.
 
 2순위인 다모증(hypertrichosis)은 일반적으로 안드로겐 비의존적이어서 기전이 부분적으로만 들어맞습니다. 안드로겐 의존성인 hirsutism과 구분해서 해석해야 합니다.
 

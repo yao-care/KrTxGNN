@@ -4,17 +4,17 @@ title: Ceftazidime
 parent: 모델 예측만 (L5)
 nav_order: 196
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Ceftazidime: 예측 신규 적응증 고아밀라제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
 monitor_inn: "CEFTAZIDIME"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "blood group incompatibility", "Peptostreptococcus infectious disease"]
 ---
 
 # Ceftazidime
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 Ceftazidime은 3세대 세ファロ스포린계 항생제로, 한국에서 수출용 주사제로 허가되어 시판 중입니다.
 TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 수 있다고 가장 높게 예측했으나, 이를 뒷받침하는 임상시험과 문헌은 **없습니다**.
-다만 예측 순위 하위 항목 중 **요로감염**(임상시험 4건, 문헌 20편)과 **감염성 중이염**(문헌 15편)은 상대적으로 근거가 있습니다.
+다만 예측 순위 하위 항목 중 **요로감염**(임상시험 4건, 문헌 20편)은 상대적으로 근거가 있습니다.
 
 ## 빠른 개요
 
@@ -48,9 +48,9 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 |------|------|
 | 기존 적응증 | 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 |
 | 예측 신규 적응증 | 고아밀라제혈증 (Hyperamylasemia) |
-| TxGNN 예측 점수 | 99.51% |
+| TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L5 (모델 예측만 존재) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ceftazidime은 Pseudomonas aeruginosa를 포함한 그람음성균에 활성을 보이는 3세대 세팔로스포린으로, 세균 세포벽 합성을 억제합니다.
 
-1순위인 고아밀라제혈증은 감염이 아니라 검사실 소견이며, 세포벽 합성 억제 기전과 연결되는 합리적인 설명이 없습니다. 2~3순위(다클론성 과점성 증후군, 선천성 무알부민혈증)와 7순위(Ureaplasma 요도염, 세포벽이 없어 베타락탐이 본질적으로 효과 없음)도 마찬가지로 기전상 타당성이 낮아, 그래프 기반 예측의 인공물일 가능성이 높습니다.
+1순위인 고아밀라제혈증은 감염이 아니라 검사실 소견이며, 세포벽 합성 억제 기전과 연결되는 합리적인 설명이 없습니다. 2~3순위(다클론성 과점성 증후군, 선천성 무알부민혈증)도 마찬가지로 기전상 타당성이 낮으며, 이 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영한 것일 수 있고 생물학적 근거는 아닙니다.
 
 반면 요로감염과 Pseudomonas에 의한 만성 화농성 중이염은 항균 스펙트럼과 부합합니다. 다만 요로감염은 이미 허가 범위에 포함되었을 가능성이 높아 진정한 재창출이라기보다 기존 적응증에 가깝습니다.
 

@@ -4,17 +4,17 @@ title: Ivosidenib
 parent: 모델 예측만 (L5)
 nav_order: 446
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-15
-description: "Ivosidenib: 예측 신규 적응증 1순위: 구마비 소아마비 (bulbar polio), 99.31% / 평가 대상 권장: 방사선 관련 AML/MDS… (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 확인할 수 없음 (허가사항 참조 필요)"
+indication_count: 1
+last_modified_at: 2026-10-28
 monitor_inn: "IVOSIDENIB"
 predicted_indications: ["bulbar polio"]
+description: "Ivosidenib: 예측 신규 적응증 1순위: 구마비 소아마비 (bulbar polio), 0.9931 / 평가 대상 권장: 방사선 관련 AML/MDS, 99.26% (bulbar polio) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401253/EE"
 ---
 
 # Ivosidenib
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["bulbar polio"]
 
 </div>
 
-## Ivosidenib: 기존 적응증에서 급성 골수성 백혈병/골수이형성증후군(방사선 관련)으로
+## Ivosidenib: 1순위: 구마비 소아마비 (bulbar polio), 0.9931 / 평가 대상 권장: 방사선 관련 AML/MDS, 99.26% (bulbar polio)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,11 +46,11 @@ TxGNN 모델은 첫 번째 예측으로 **구마비 소아마비(bulbar polio)**
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 확인할 수 없음 (허가사항 참조 필요) |
-| 예측 신규 적응증 | 1순위: 구마비 소아마비 (bulbar polio), 99.31% / 평가 대상 권장: 방사선 관련 AML/MDS, 99.26% |
-| TxGNN 예측 점수 | 99.31% (구마비 소아마비), 99.26% (방사선 관련 AML/MDS), 99.26% (알킬화제 관련 AML/MDS) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401253/EE |
+| 예측 신규 적응증 | 1순위: 구마비 소아마비 (bulbar polio), 0.9931 / 평가 대상 권장: 방사선 관련 AML/MDS, 99.26% (bulbar polio) |
+| TxGNN 예측 점수 | 0.9931 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | 구마비 소아마비: Hold / 방사선·알킬화제 관련 AML/MDS: Hold (추가 연구 질문으로 유지) |
 
@@ -58,9 +58,8 @@ TxGNN 모델은 첫 번째 예측으로 **구마비 소아마비(bulbar polio)**
 
 현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 ivosidenib은 변이형 IDH1을 억제하여 종양대사산물인 2-하이드록시글루타레이트(2-HG)를 낮추고, IDH1 변이 악성종양에서 분화 차단을 해제하는 약물입니다.
 
-**구마비 소아마비**는 폴리오바이러스가 운동신경세포를 감염시키는 질환입니다. IDH1과 관련된 병리나 ivosidenib의 항바이러스 활성은 보고된 바 없어, 기전상 연결고리가 확인되지 않습니다. 0.993이라는 높은 점수는 그래프 기반 예측일 뿐 임상시험이나 문헌의 뒷받침이 없으므로 모델 아티팩트일 가능성이 높고, 근거로 취급해서는 안 됩니다.
+**구마비 소아마비**는 폴리오바이러스가 운동신경세포를 감염시키는 질환입니다. IDH1과 관련된 병리나 ivosidenib의 항바이러스 활성은 보고된 바 없어, 기전상 연결고리가 확인되지 않습니다. 0.9931이라는 높은 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 임상시험이나 문헌의 뒷받침이 없으므로 모델 아티팩트일 가능성이 높고, 근거로 취급해서는 안 됩니다.
 
-**방사선 또는 알킬화제 관련 AML/MDS**(치료 관련 골수성 신생물)는 기전상 개연성이 있습니다. Ivosidenib은 IDH1 변이 AML에 승인되어 있고, 일부 국가에서는 IDH1 변이 MDS에도 사용됩니다. 치료 관련 골수성 신생물 중 일부는 IDH1 변이를 가지므로, 변이가 있으면 같은 기전으로 작용할 수 있습니다. 다만 효과는 원인(방사선·알킬화제 노출)이 아니라 IDH1 변이 확인 여부에 좌우됩니다. 두 항목의 점수가 동일하여 같은 그래프 노드 또는 인접 영역에 대응할 가능성이 있으므로, 독립된 두 개의 신호로 볼 수 없습니다.
 
 ## 임상시험 근거
 

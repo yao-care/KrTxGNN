@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ciprofloxacin
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 216
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ciprofloxacin: 예측 신규 적응증 미만성 피부경화증 (Diffuse Scleroderma) (근거 수준 L4). 기존 적응증: 세균 감염증 (항균제, 상세 허가 적응증은 허가사항 참조)"
 monitor_inn: "CIPROFLOXACIN"
-predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **미만성 피부경화증(Diffuse Scleroderma)**에 효과가 
 |------|------|
 | 기존 적응증 | 세균 감염증 (항균제, 상세 허가 적응증은 허가사항 참조) |
 | 예측 신규 적응증 | 미만성 피부경화증 (Diffuse Scleroderma) |
-| TxGNN 예측 점수 | 99.87% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| TxGNN 예측 점수 | 0.9987 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -63,7 +63,7 @@ TxGNN 모델은 **미만성 피부경화증(Diffuse Scleroderma)**에 효과가 
 - **항섬유화 가능성**: 2010년 연구가 피부경화증 환자의 피부에서 시프로플록사신의 항섬유화 효과를 평가했습니다. 피부경화증은 미세혈관 손상과 피부 및 장기의 과도한 섬유화가 특징이며, 현재 효과적인 약물 치료가 확립되어 있지 않습니다.
 - **소장 세균 과증식(SIBO) 치료**: 전신 경화증(systemic sclerosis)에 흔한 위장관 합병증인 SIBO에 항균 작용이 도움이 될 수 있습니다. 이 경우는 질환 자체의 치료가 아니라 합병증 관리에 해당합니다.
 
-TxGNN 점수(99.87%)는 매우 높지만, 이를 뒷받침할 임상 데이터는 아직 충분하지 않습니다.
+TxGNN 점수(0.9987)는 매우 높지만, 이를 뒷받침할 임상 데이터는 아직 충분하지 않습니다.
 
 ## 임상시험 근거
 
@@ -107,7 +107,7 @@ TxGNN 점수(99.87%)는 매우 높지만, 이를 뒷받침할 임상 데이터�
 **결정: Hold**
 
 **사유:**
-미만성 피부경화증에 대한 근거는 문헌 2편뿐이며, 효능을 직접 검토한 연구는 1편이고 그 결과도 확인되지 않았습니다. 등록된 임상시험이 없고 기전적 연결도 간접적이어서, 높은 TxGNN 점수(99.87%)만으로 진행을 권장하기 어렵습니다.
+미만성 피부경화증에 대한 근거는 문헌 2편뿐이며, 효능을 직접 검토한 연구는 1편이고 그 결과도 확인되지 않았습니다. 등록된 임상시험이 없고 기전적 연결도 간접적이어서, 높은 TxGNN 점수(0.9987)만으로 진행을 권장하기 어렵습니다.
 
 **진행하려면 필요한 것:**
 - PMID 20507401 전문을 확인하여 시험 설계, 표본 크기, 평가변수, 결과 검증

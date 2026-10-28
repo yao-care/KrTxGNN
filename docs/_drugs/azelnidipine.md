@@ -8,6 +8,7 @@ nav_order: 115
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Azelnidipine
@@ -60,7 +61,7 @@ TxGNN 모델의 신규 적응증 예측 결과가 생성되지 않았으며, 작
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 미생성) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (예측 결과 없음) |
-| 한국 시판 현황 | 미허가 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 

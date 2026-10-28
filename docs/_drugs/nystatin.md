@@ -48,9 +48,9 @@ TxGNN 모델은 **외음질염(Vulvovaginitis)**에 효과가 있을 수 있다�
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증이 허가증 PDF 링크로만 제공되어 본문을 확인하지 못했습니다) |
 | 예측 신규 적응증 | 외음질염 (Vulvovaginitis) |
-| TxGNN 예측 점수 | 99.92% |
+| TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Proceed with Guardrails |
 

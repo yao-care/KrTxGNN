@@ -48,9 +48,9 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(Congenital Prothrombin Def
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문 확인 필요) |
 | 예측 신규 적응증 | 선천성 프로트롬빈 결핍증 (Congenital Prothrombin Deficiency) |
-| TxGNN 예측 점수 | 99.63% |
+| TxGNN 예측 점수 | 0.9963 |
 | 근거 수준 | L5 (모델 예측 중심, 직접 근거 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(Congenital Prothrombin Def
 
 현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 vasopressin과 유사체인 desmopressin(DDAVP)은 V2 수용체를 통해 혈장 factor VIII과 von Willebrand factor 수치를 높이는 것으로 알려져 있습니다. 이는 일부 출혈성 질환에서 타당한 기전입니다.
 
-그러나 이 기전은 프로트롬빈(factor II)을 직접 증가시키지 않습니다. 따라서 매우 높은 TxGNN 점수(99.63%)는 계산상 예측일 뿐, 프로트롬빈 결핍증에 대한 직접적인 기전으로 뒷받침되지 않습니다. 검색된 문헌도 factor VIII/factor V 결핍증과 후천성 혈우병 A를 다루고 있어 간접적, 계열 수준의 관련성만 지지합니다. 또한 DDAVP 보고는 vasopressin이 아닌 desmopressin에 관한 것입니다.
+그러나 이 기전은 프로트롬빈(factor II)을 직접 증가시키지 않습니다. 따라서 매우 높은 TxGNN 점수(0.9963)는 계산상 예측일 뿐, 프로트롬빈 결핍증에 대한 직접적인 기전으로 뒷받침되지 않습니다. 검색된 문헌도 factor VIII/factor V 결핍증과 후천성 혈우병 A를 다루고 있어 간접적, 계열 수준의 관련성만 지지합니다. 또한 DDAVP 보고는 vasopressin이 아닌 desmopressin에 관한 것입니다.
 
 ## 임상시험 근거
 
@@ -109,7 +109,7 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(Congenital Prothrombin Def
 
 ## 참고: 두 번째 예측 적응증 (약인성 골다공증)
 
-두 번째 예측인 **약인성 골다공증(Drug-induced Osteoporosis)**은 TxGNN 점수 99.62%이지만, 제공된 임상시험과 문헌이 모두 없어 근거 수준은 L5이며 권장 결정은 Hold입니다. Vasopressin 수용체가 골세포에서 보고되었고 저나트륨혈증과 골 손실의 연관성도 제기되었으나, 이는 이번에 평가되지 않은 가설 수준입니다.
+두 번째 예측인 **약인성 골다공증(Drug-induced Osteoporosis)**은 TxGNN 점수 0.9962이지만, 제공된 임상시험과 문헌이 모두 없어 근거 수준은 L5이며 권장 결정은 Hold입니다. Vasopressin 수용체가 골세포에서 보고되었고 저나트륨혈증과 골 손실의 연관성도 제기되었으나, 이는 이번에 평가되지 않은 가설 수준입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

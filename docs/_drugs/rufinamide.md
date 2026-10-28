@@ -4,17 +4,17 @@ title: Rufinamide
 parent: 모델 예측만 (L5)
 nav_order: 675
 evidence_level: L5
-indication_count: 5
+indication_count: 1
 last_modified_at: 2026-10-15
-description: "Rufinamide: 예측 신규 적응증 열성 감염 관련 뇌전증 증후군 (Febrile Infection-Related Epilepsy Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
+description: "Rufinamide: 예측 신규 적응증 Perioral myoclonia with absences (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905916/EE"
 ---
 
 # Rufinamide
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,22 @@ predicted_indications: ["perioral myoclonia with absences"]
 
 </div>
 
-## Rufinamide: 항전간제에서 열성 감염 관련 뇌전증 증후군으로
+## Rufinamide: Perioral myoclonia with absences
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Rufinamide는 한국에서 항전간제로 허가·시판 중인 단일 성분 약물입니다. TxGNN 모델은 **열성 감염 관련 뇌전증 증후군(Febrile Infection-Related Epilepsy Syndrome, FIRES)**에 효과가 있을 수 있다고 예측합니다. 다만 이 예측을 지지하는 **임상시험과 문헌은 현재 0건**이며, 모델 예측만 있는 단계입니다.
+Rufinamide는 한국에서 항전간제로 허가·시판 중인 단일 성분 약물입니다. 다만 이 예측을 지지하는 **임상시험과 문헌은 현재 0건**이며, 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조) |
-| 예측 신규 적응증 | 열성 감염 관련 뇌전증 증후군 (Febrile Infection-Related Epilepsy Syndrome) |
-| TxGNN 예측 점수 | 99.57% |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905916/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905915/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905917/EE |
+| 예측 신규 적응증 | Perioral myoclonia with absences |
+| TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 3건 |
 | 권장 결정 | Hold |
 
@@ -56,16 +56,13 @@ Rufinamide는 한국에서 항전간제로 허가·시판 중인 단일 성분 �
 
 현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바에 따르면, Rufinamide는 전압 의존성 나트륨 채널의 비활성 상태를 연장하는 항전간제로 알려져 있습니다. 이는 데이터 수집 결과가 아니라 일반 지식에 근거한 설명입니다.
 
-FIRES는 치료가 어려운 뇌전증성 뇌병증으로, 신경염증이 주요 원인으로 거론됩니다. 나트륨 채널 차단은 발작의 일부에만 도움이 될 가능성이 있어, 기전상 연관성은 부분적입니다. 높은 TxGNN 점수(0.996)는 계산 기반 예측일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌은 확인되지 않았습니다.
+FIRES는 치료가 어려운 뇌전증성 뇌병증으로, 신경염증이 주요 원인으로 거론됩니다. 나트륨 채널 차단은 발작의 일부에만 도움이 될 가능성이 있어, 기전상 연관성은 부분적입니다.
 
 TxGNN은 같은 약물에 대해 다음 질환도 높은 점수로 예측했습니다. 모두 근거 수준 L5이며 권장 결정은 Hold입니다.
 
 | 순위 | 예측 질환 | TxGNN 점수 | 기전상 참고 사항 |
 |------|----------|-----------|----------------|
-| 2 | 구주위 근간대경련을 동반한 결신 (Perioral myoclonia with absences) | 99.51% | 나트륨 채널 차단제가 일부 전신 결신 발작을 악화시킬 수 있음 |
-| 3 | 비정형 소아 중심측두엽 극파 뇌전증 | 99.44% | 수면 중 지속적 극서파 같은 비정형 특징을 악화시킬 수 있음 |
-| 4 | 광과민성 후두엽 뇌전증 | 99.44% | 국소 발작 억제 활성에 따른 기전상 연관 가능성 |
-| 5 | 잠재성 후기 발병 뇌전증성 경련 | 99.44% | 레녹스-가스토 증후군의 다양한 발작 유형에 대한 활성과 느슨한 연관성만 있음 |
+| 2 | 구주위 근간대경련을 동반한 결신 (Perioral myoclonia with absences) | 0.9951 | 나트륨 채널 차단제가 일부 전신 결신 발작을 악화시킬 수 있음 |
 
 ## 한국 시판 정보
 

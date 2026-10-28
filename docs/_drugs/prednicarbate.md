@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-15
 description: "Prednicarbate: 예측 신규 적응증 외음부 역전성 모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 기재되어 있지 않아 확인할 수 없음 (허가 문서 링크만 제공됨)"
 monitor_inn: "PREDNICARBATE"
-predicted_indications: ["vulvar inverted follicular keratosis", "hypertrophic lichen planus", "annular atrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
+predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
 ---
 
 # Prednicarbate
@@ -48,9 +48,9 @@ TxGNN 모델은 **외음부 역전성 모낭각화증(vulvar inverted follicular
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 기재되어 있지 않아 확인할 수 없음 (허가 문서 링크만 제공됨) |
 | 예측 신규 적응증 | 외음부 역전성 모낭각화증 (Vulvar inverted follicular keratosis) |
-| TxGNN 예측 점수 | 99.88% |
+| TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 유효, 단일 성분) |
 | 권장 결정 | Hold |
 
@@ -58,18 +58,18 @@ TxGNN 모델은 **외음부 역전성 모낭각화증(vulvar inverted follicular
 
 | 순위 | 예측 질환 | TxGNN 점수 | 근거 수준 |
 |-----|---------|-----------|---------|
-| 2 | 비후성 편평태선 (Hypertrophic lichen planus) | 99.64% | L5 |
-| 3 | 환상 위축성 편평태선 (Annular atrophic lichen planus) | 99.64% | L5 |
-| 4 | 색소성 편평태선 (Lichen planus pigmentosus) | 99.64% | L5 |
-| 5 | 편평태선 유사천포창 (Lichen planus pemphigoides) | 99.53% | L5 |
-| 6 | 2-hydroxyethyl methacrylate 감작 | 99.47% | L5 |
-| 7 | 원발성 피부 B세포 림프종 | 99.40% | L5 |
+| 2 | 비후성 편평태선 (Hypertrophic lichen planus) | 0.9964 | L5 |
+| 3 | 환상 위축성 편평태선 (Annular atrophic lichen planus) | 0.9964 | L5 |
+| 4 | 색소성 편평태선 (Lichen planus pigmentosus) | 0.9964 | L5 |
+| 5 | 편평태선 유사천포창 (Lichen planus pemphigoides) | 0.9953 | L5 |
+| 6 | 2-hydroxyethyl methacrylate 감작 | 0.9947 | L5 |
+| 7 | 원발성 피부 B세포 림프종 | 0.9940 | L5 |
 
 ## 이 예측이 타당한 이유는?
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Prednicarbate는 항염증 및 항증식 작용을 가진 중등도 효력의 국소 코르티코스테로이드이며, 한국에서는 외용제로만 허가되어 있습니다.
 
-1순위 예측인 외음부 역전성 모낭각화증은 지루각화증의 변형인 양성 상피 병변으로, 보통 절제나 파괴적 방법으로 치료합니다. 따라서 코르티코스테로이드 기전과의 연관성은 약합니다. 99.88%라는 높은 점수는 일반적인 피부질환·코르티코스테로이드 연관성에서 비롯된 모델 예측일 가능성이 있습니다.
+1순위 예측인 외음부 역전성 모낭각화증은 지루각화증의 변형인 양성 상피 병변으로, 보통 절제나 파괴적 방법으로 치료합니다. 따라서 코르티코스테로이드 기전과의 연관성은 약합니다. 0.9988라는 높은 점수는 일반적인 피부질환·코르티코스테로이드 연관성에서 비롯된 모델 예측일 가능성이 있습니다.
 
 반면 2~5순위인 편평태선 계열은 T세포 매개 염증성 피부질환으로, 국소 코르티코스테로이드가 표준 1차 치료입니다. 기전상 타당성은 더 높습니다. 다만 비후성 병변에는 보통 고효력 이상의 제제가 쓰이므로 중등도 효력의 Prednicarbate는 효과가 부족할 수 있습니다. 환상 위축성 편평태선은 코르티코스테로이드의 피부 위축 위험 때문에 주의가 필요합니다.
 

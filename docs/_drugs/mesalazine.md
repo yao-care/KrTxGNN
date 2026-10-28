@@ -4,17 +4,17 @@ title: Mesalazine
 parent: 모델 예측만 (L5)
 nav_order: 505
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Mesalazine: 예측 신규 적응증 선천성 저모발증 동반 연소성 황반 이영양증 (congenital hypotrichosis with juvenile macul… (근거 수준 L5). 기존 적응증: 허가 문서 링크만 제공되어 구체적인 적응증 텍스트는 확인되지 않음"
 monitor_inn: "MESALAZINE"
-predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "osteoarthritis susceptibility", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 ---
 
 # Mesalazine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **7** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["congenital hypotrichosis with juvenile macular dystroph
 
 </div>
 
-## Mesalazine: 염증성 장질환에서 선천성 저모발증 및 연소성 황반 이영양증으로
+## Mesalazine: 염증성 장질환에서 선천성 저모발증 동반 연소성 황반 이영양증으로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -47,9 +47,9 @@ TxGNN 모델은 **선천성 저모발증 동반 연소성 황반 이영양증(co
 |------|------|
 | 기존 적응증 | 허가 문서 링크만 제공되어 구체적인 적응증 텍스트는 확인되지 않음 |
 | 예측 신규 적응증 | 선천성 저모발증 동반 연소성 황반 이영양증 (congenital hypotrichosis with juvenile macular dystrophy) |
-| TxGNN 예측 점수 | 99.65% |
+| TxGNN 예측 점수 | 0.9965 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 14건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **선천성 저모발증 동반 연소성 황반 이영양증(co
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Mesalazine은 장관 염증 치료에 쓰이는 5-아미노살리실산 계열 약물이며, COX/LOX 억제, PPAR-gamma 활성화, NF-kB 조절 등 항염증 작용이 보고되어 있습니다.
 
-그러나 이 질환은 CDH3 유전자 이상과 관련된 희귀 유전성 질환으로, Mesalazine의 항염증 작용과의 기전적 연결고리는 제공된 데이터에서 확인되지 않습니다. 예측 점수는 매우 높지만 지식 그래프 기반의 계산적 예측일 뿐입니다.
+그러나 이 질환은 CDH3 유전자 이상과 관련된 희귀 유전성 질환으로, Mesalazine의 항염증 작용과의 기전적 연결고리는 제공된 데이터에서 확인되지 않습니다. 예측 점수는 매우 높지만 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
 참고로 다른 예측 후보 중에서는 류마티스 관절염(L4)이 상대적으로 많은 문헌을 갖고 있으나, 이는 주로 sulfasalazine 관련 문헌이며 항류마티스 효과는 5-ASA보다 sulfapyridine 성분에 기인하는 것으로 보여 Mesalazine 단독과의 연관성은 간접적입니다.
 
@@ -81,7 +81,7 @@ TxGNN 모델은 **선천성 저모발증 동반 연소성 황반 이영양증(co
 **결정: Hold**
 
 **사유:**
-임상시험과 문헌이 전혀 없고 기전적 연결고리도 확인되지 않아, 높은 TxGNN 점수(99.65%)만으로는 진행 근거가 부족합니다. 허가사항의 경고·금기 정보도 확보되지 않았습니다.
+임상시험과 문헌이 전혀 없고 기전적 연결고리도 확인되지 않아, 높은 TxGNN 점수(0.9965)만으로는 진행 근거가 부족합니다. 허가사항의 경고·금기 정보도 확보되지 않았습니다.
 
 **진행하려면 필요한 것:**
 - Mesalazine의 작용 기전(MOA) 데이터 확보 (DrugBank 조회)

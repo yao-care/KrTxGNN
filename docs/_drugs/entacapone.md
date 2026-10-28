@@ -39,7 +39,7 @@ predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacu
 ## 한 문장 요약
 
 Entacapone은 COMT 억제제로, 한국에서 levodopa/carbidopa의 보조 요법(파킨슨병)으로 허가되어 사용되는 약물입니다.
-TxGNN 모델은 **PLA2G6 관련 신경변성(PLA2G6-associated neurodegeneration)**에 효과가 있을 수 있다고 예측하지만(점수 99.76%), 이 질환에 대한 **임상시험과 문헌은 0건**으로 모델 예측만 존재합니다.
+TxGNN 모델은 **PLA2G6 관련 신경변성(PLA2G6-associated neurodegeneration)**에 효과가 있을 수 있다고 예측하지만(점수 0.9976), 이 질환에 대한 **임상시험과 문헌은 0건**으로 모델 예측만 존재합니다.
 상위 10개 예측 중 임상시험이나 문헌이 연결된 것은 Lewy소체 치매와 진행성 핵상마비-피질기저핵증후군 두 건뿐이며, 그마저도 간접적인 근거입니다.
 
 ## 빠른 개요
@@ -48,9 +48,9 @@ TxGNN 모델은 **PLA2G6 관련 신경변성(PLA2G6-associated neurodegeneration
 |------|------|
 | 기존 적응증 | 파킨슨병에서 levodopa/carbidopa 보조 요법 (한국 허가 문서 링크만 제공되어 허가 본문은 확인하지 못했으며, 위 내용은 약물 분류에 근거함) |
 | 예측 신규 적응증 | PLA2G6 관련 신경변성 (PLA2G6-associated neurodegeneration) |
-| TxGNN 예측 점수 | 99.76% |
+| TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 8건 (모두 유효) |
 | 권장 결정 | Hold |
 

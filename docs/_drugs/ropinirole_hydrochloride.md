@@ -8,6 +8,7 @@ nav_order: 669
 evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Ropinirole Hydrochloride
@@ -51,7 +52,7 @@ Ropinirole Hydrochloride는 현재 한국에 허가 이력이 없는 약물입�
 | 예측 신규 적응증 | 없음 (예측 데이터 미수집) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | 미시판 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 

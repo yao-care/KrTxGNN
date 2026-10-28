@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-15
 description: "Donepezil: 예측 신규 적응증 심인성 운동장애 (Psychogenic Movement Disorders) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트 미확인 (허가증은 PDF 링크로만 제공됨. 일반적으로 알츠하이머형 치매 치료제로 알려져 있음)"
 monitor_inn: "DONEPEZIL"
-predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
+predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
 ---
 
 # Donepezil
@@ -39,7 +39,7 @@ predicted_indications: ["psychogenic movement disorders", "chronic tic disorder"
 ## 한 문장 요약
 
 Donepezil은 아세틸콜린에스테라제 억제제로, 한국에서 20건의 단일제 허가증이 유효하며 시판 중입니다. 다만 허가 적응증 원문은 이 보고서용으로 수집된 데이터에 텍스트로 포함되지 않았습니다.
-TxGNN 모델은 **심인성 운동장애(Psychogenic Movement Disorders)**에 효과가 있을 수 있다고 예측하지만(점수 99.23%), 이 질환을 직접 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다.
+TxGNN 모델은 **심인성 운동장애(Psychogenic Movement Disorders)**에 효과가 있을 수 있다고 예측하지만(점수 0.9923), 이 질환을 직접 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다.
 따라서 예측은 모델 수준에 머물러 있으며, 같은 운동 질환 범주에서는 만성 틱 장애(문헌 5편), 추체외로 및 운동 질환(문헌 4편), 설-안면-협부 이상운동증(문헌 20편)이 상대적으로 더 많은 근거를 갖고 있습니다.
 
 ## 빠른 개요
@@ -48,9 +48,9 @@ TxGNN 모델은 **심인성 운동장애(Psychogenic Movement Disorders)**에 �
 |------|------|
 | 기존 적응증 | 허가 적응증 텍스트 미확인 (허가증은 PDF 링크로만 제공됨. 일반적으로 알츠하이머형 치매 치료제로 알려져 있음) |
 | 예측 신규 적응증 | 심인성 운동장애 (Psychogenic Movement Disorders) |
-| TxGNN 예측 점수 | 99.23% |
+| TxGNN 예측 점수 | 0.9923 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **심인성 운동장애(Psychogenic Movement Disorders)**에 �
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 donepezil은 아세틸콜린에스테라제를 억제하여 뇌 내 콜린성 신호를 강화하는 약물입니다. 콜린성 신호는 기저핵 등 운동 조절 회로와 관련이 있어 운동 질환에 대한 접근 자체는 생각해 볼 수 있습니다.
 
-그러나 심인성 운동장애는 기능성(functional) 기원의 질환이어서, 콜린성 기전이 직접 관여한다는 근거는 뚜렷하지 않습니다. 이번 예측은 지식 그래프에서 다른 운동 질환과 가깝게 위치한 데서 비롯되었을 가능성이 높습니다.
+그러나 심인성 운동장애는 기능성(functional) 기원의 질환이어서, 콜린성 기전이 직접 관여한다는 근거는 뚜렷하지 않습니다. 이번 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있으며 생물학적 근거를 뜻하지는 않습니다.
 
 ## 임상시험 근거
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sodium Acetate: 예측 신규 적응증 선천성 프로트롬빈 결핍증 (congenital prothrombin deficiency) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 텍스트가 아닌 허가사항 문서 링크만 확인되어 구체적인 적응증을 기재할 수 없음 (제품 구성상 복막투석액…"
 monitor_inn: "SODIUM ACETATE"
-predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "Ureaplasma urethritis", "gonococcal urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
+predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
 ---
 
 # Sodium Acetate
@@ -48,9 +48,9 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(congenital prothrombin def
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문 텍스트가 아닌 허가사항 문서 링크만 확인되어 구체적인 적응증을 기재할 수 없음 (제품 구성상 복막투석액 및 아세트산나트륨 주사제) |
 | 예측 신규 적응증 | 선천성 프로트롬빈 결핍증 (congenital prothrombin deficiency) |
-| TxGNN 예측 점수 | 99.98% |
+| TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 4건 |
 | 권장 결정 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(congenital prothrombin def
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Sodium acetate는 전해질·알칼리화 제제로, 체내에서 대사되어 중탄산염을 생성하는 나트륨 공급원입니다.
 
-선천성 프로트롬빈 결핍증은 응고인자 II의 유전적 결핍으로 생기는 출혈성 질환입니다. 이 약은 프로트롬빈 합성이나 응고인자 보충과 관련된 알려진 역할이 없으므로 기전상 연결고리를 찾을 수 없습니다. 높은 TxGNN 점수는 지식 그래프에서 생긴 인공적 결과일 가능성이 큽니다.
+선천성 프로트롬빈 결핍증은 응고인자 II의 유전적 결핍으로 생기는 출혈성 질환입니다. 이 약은 프로트롬빈 합성이나 응고인자 보충과 관련된 알려진 역할이 없으므로 기전상 연결고리를 찾을 수 없습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)에서 나온 값이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있고 생물학적 근거는 아닙니다.
 
 ## 임상시험 근거
 

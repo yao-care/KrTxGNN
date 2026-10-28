@@ -48,9 +48,9 @@ TxGNN 모델은 **신성 저요산혈증(Hypouricemia, renal)**에 효과가 있
 |------|------|
 | 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적 내용을 확인할 수 없음 |
 | 예측 신규 적응증 | 신성 저요산혈증 (Hypouricemia, renal) |
-| TxGNN 예측 점수 | 99.07% |
+| TxGNN 예측 점수 | 0.9907 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 

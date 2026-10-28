@@ -4,7 +4,7 @@ title: Primidone
 parent: 모델 예측만 (L5)
 nav_order: 628
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Primidone: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 없이 문서 링크만 제공됨)"
 monitor_inn: "PRIMIDONE"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 # Primidone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **3** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 |------|------|
 | 기존 적응증 | 확인 불가 (허가 정보에 적응증 본문 없이 문서 링크만 제공됨) |
 | 예측 신규 적응증 | 삼차신경 신생물 (trigeminal nerve neoplasm) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 1건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Primidone은 항경련제이며 체내에서 phenobarbital과 PEMA로 대사됩니다. 따라서 경련성 질환에서의 효능을 바탕으로 한 신경계 약물로 분류할 수 있습니다.
 
-그러나 삼차신경 신생물과의 기전적 연관성은 뚜렷하지 않습니다. Primidone에는 알려진 항종양 활성이 없습니다. 매우 높은 예측 점수는 "삼차신경"이나 신경계 관련 노드를 공유하면서 나타난 그래프 전파의 부산물일 가능성이 큽니다. 즉, 실제 생물학적 신호로 보기 어렵습니다.
+그러나 삼차신경 신생물과의 기전적 연관성은 뚜렷하지 않습니다. Primidone에는 알려진 항종양 활성이 없습니다. 매우 높은 예측 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다.
 
 ## 임상시험 근거
 
@@ -93,7 +93,7 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 **결정: Hold**
 
 **사유:**
-삼차신경 신생물에 대한 임상시험과 문헌이 전혀 없고 기전적 근거도 없어, 모델 예측만 존재하는 L5 수준입니다. 예측 점수는 높지만 그래프 전파의 부산물일 가능성이 큽니다.
+삼차신경 신생물에 대한 임상시험과 문헌이 전혀 없고 기전적 근거도 없어, 모델 예측만 존재하는 L5 수준입니다. 예측 점수는 높지만 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다.
 
 **진행하려면 필요한 것:**
 - 한국 허가사항 문서(경고, 금기, 적응증)의 확보와 분석

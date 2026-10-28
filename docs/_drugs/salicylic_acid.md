@@ -4,17 +4,17 @@ title: Salicylic Acid
 parent: 모델 예측만 (L5)
 nav_order: 682
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Salicylic Acid: 예측 신규 적응증 유두결막염 (Papillary Conjunctivitis) (근거 수준 L5). 기존 적응증: 여드름 치료"
 monitor_inn: "Salicylic acid"
-predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to"]
+predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
 ---
 
 # Salicylic Acid
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **유두결막염(Papillary Conjunctivitis)**에 효과가 있�
 |------|------|
 | 기존 적응증 | 여드름 치료 |
 | 예측 신규 적응증 | 유두결막염 (Papillary Conjunctivitis) |
-| TxGNN 예측 점수 | 99.88% |
+| TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN 모델은 **유두결막염(Papillary Conjunctivitis)**에 효과가 있�
 
 항염 작용은 알레르기성 또는 염증성 안구 표면 질환과 이론적으로 연관될 수 있습니다. 그러나 각질용해 외용제는 안구 사용을 전제로 설계되지 않았으며, 자극과 각막 손상 우려가 있습니다. 기존 적응증(여드름, 티눈, 사마귀)과 유두결막염의 병태 생리도 직접적인 연관성이 약합니다.
 
-참고로 예측 상위 10개 중 대부분은 유전성 골격 이형성증 등 희귀 선천성 질환으로, 기전상 연결고리가 확인되지 않아 지식그래프상 근접성이 반영된 결과로 보입니다. 비교적 가능성이 있는 후보는 안구 질환(유두결막염, 주사비 결막염)과 척추관절병증이나, 이들도 근거가 간접적이거나 약합니다.
+참고로 예측 상위 10개 중 대부분은 유전성 골격 이형성증 등 희귀 선천성 질환으로, 기전상 연결고리가 확인되지 않아 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성이 반영된 결과일 수 있으며 생물학적 근거는 아닙니다. 비교적 가능성이 있는 후보는 안구 질환(유두결막염, 주사비 결막염)이나, 이들도 근거가 간접적이거나 약합니다.
 
 ## 한국 시판 정보
 
@@ -86,7 +86,7 @@ TxGNN 모델은 **유두결막염(Papillary Conjunctivitis)**에 효과가 있�
 **결정: Hold**
 
 **사유:**
-유두결막염 예측은 TxGNN 점수(99.88%)만 있고 임상시험과 문헌이 없어 근거 수준이 L5입니다. 또한 기존 제형이 안구 사용에 적합하지 않아 안전성 우려가 있습니다.
+유두결막염 예측은 TxGNN 점수(0.9988)만 있고 임상시험과 문헌이 없어 근거 수준이 L5입니다. 또한 기존 제형이 안구 사용에 적합하지 않아 안전성 우려가 있습니다.
 
 **진행하려면 필요한 것:**
 - 허가사항(경고·금기)의 확보 및 분석

@@ -48,9 +48,9 @@ TxGNN 모델은 **급성 전염성 결막염(Acute Contagious Conjunctivitis)**�
 |------|------|
 | 기존 적응증 | 결막염(유행성 안염), 다래끼, 안검염(눈꺼풀의 짓무름), 눈의 가려움증 |
 | 예측 신규 적응증 | 급성 전염성 결막염 (Acute Contagious Conjunctivitis) |
-| TxGNN 예측 점수 | 99.63% |
+| TxGNN 예측 점수 | 0.9963 |
 | 근거 수준 | L5 (모델 예측 중심, 직접 효능을 검증한 연구 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 15건 |
 | 권장 결정 | Hold |
 

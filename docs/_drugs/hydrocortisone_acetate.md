@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Hydrocortisone Acetate
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 403
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Hydrocortisone Acetate: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상"
 monitor_inn: "HYDROCORTISONE ACETATE"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucino
 # Hydrocortisone Acetate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L1** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 |------|------|
 | 기존 적응증 | 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 |
 | 예측 신규 적응증 | 원형탈모증 (Alopecia Areata) |
-| TxGNN 예측 점수 | 99.94% |
+| TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L1 (설계상 Phase 3 RCT 1건이나, 효능 입증은 아님. 아래 설명 참조) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 7건 |
 | 권장 결정 | Hold |
 

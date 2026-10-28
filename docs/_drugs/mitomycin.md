@@ -39,7 +39,7 @@ predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteocla
 ## 한 문장 요약
 
 Mitomycin은 DNA 교차결합을 일으키는 세포독성 항종양제로, 한국에서 주사제(동결건조 분말)로 허가되어 시판 중입니다.
-TxGNN 모델은 **췌장 고형 가성유두암(solid pseudopapillary carcinoma of pancreas)**에 효과가 있을 수 있다고 예측하지만(99.86%), 이 질환을 직접 뒷받침하는 **임상시험은 0건, 문헌도 0편**으로 모델 예측 수준에 머물러 있습니다.
+TxGNN 모델은 **췌장 고형 가성유두암(solid pseudopapillary carcinoma of pancreas)**에 효과가 있을 수 있다고 예측하지만(0.9986), 이 질환을 직접 뒷받침하는 **임상시험은 0건, 문헌도 0편**으로 모델 예측 수준에 머물러 있습니다.
 
 ## 빠른 개요
 
@@ -47,9 +47,9 @@ TxGNN 모델은 **췌장 고형 가성유두암(solid pseudopapillary carcinoma 
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문이 아닌 허가사항 문서 링크만 연결되어 있어 구체적 적응증 텍스트는 확인되지 않음 |
 | 예측 신규 적응증 | 췌장 고형 가성유두암 (solid pseudopapillary carcinoma of pancreas) |
-| TxGNN 예측 점수 | 99.86% |
+| TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 

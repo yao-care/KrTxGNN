@@ -4,7 +4,7 @@ title: Perphenazine
 parent: 모델 예측만 (L5)
 nav_order: 594
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Perphenazine: 예측 신규 적응증 망막 이영양증 (retinal dystrophy with or without extraocular anomalies) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가정보 PDF 링크로만 제공). 약물 분류는 페노티아진계 항정신병약"
 monitor_inn: "PERPHENAZINE"
@@ -14,7 +14,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 # Perphenazine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 모델은 **망막 이영양증(retinal dystrophy with or without extraocu
 |------|------|
 | 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가정보 PDF 링크로만 제공). 약물 분류는 페노티아진계 항정신병약 |
 | 예측 신규 적응증 | 망막 이영양증 (retinal dystrophy with or without extraocular anomalies) |
-| TxGNN 예측 점수 | 99.96% |
+| TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 (모델 예측만 있고 치료 효과를 지지하는 연구 없음) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 모델은 **망막 이영양증(retinal dystrophy with or without extraocu
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 perphenazine은 도파민 D2 수용체를 차단하는 페노티아진계 항정신병약입니다. 그러나 이 기전과 유전성 망막 이영양증을 연결할 수 있는 근거는 확인되지 않았습니다.
 
-수집된 문헌에서 망막과 관련된 내용은 thioridazine(다른 페노티아진계 약물)에 의한 색소성 망막병증 사례뿐입니다. 이는 치료 효과가 아니라 **계열 약물의 망막 독성 신호**에 해당합니다. 따라서 높은 예측 점수는 치료적 관련성보다는 지식 그래프상의 네트워크 근접성을 반영했을 가능성이 큽니다.
+수집된 문헌에서 망막과 관련된 내용은 thioridazine(다른 페노티아진계 약물)에 의한 색소성 망막병증 사례뿐입니다. 이는 치료 효과가 아니라 **계열 약물의 망막 독성 신호**에 해당합니다. 따라서 높은 예측 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영했을 가능성이 있으며, 생물학적 근거를 의미하지는 않습니다.
 
 ## 임상시험 근거
 
@@ -105,7 +105,6 @@ TxGNN 모델은 **망막 이영양증(retinal dystrophy with or without extraocu
 - 작용 기전 데이터 확보 (DrugBank 등)
 - 망막 이영양증에 대한 전임상 또는 기전 연구와 망막 독성 위험 평가
 
-**참고:** 예측 순위 10위인 **불안장애(anxiety disorder)**는 점수가 99.53%로 더 낮지만, 근거 수준은 L3입니다. 항정신병약의 불안 증상 효능 리뷰(PMID 17017818)와 1960~70년대 perphenazine-amitriptyline 복합제 연구가 있습니다. 다만 단독 perphenazine에 대한 현대적 대조 시험이 없고, 임상시험 NCT02374567은 종결된 약물감시 연구라서 효능을 검증하지 못합니다. 별도의 연구 질문으로 검토할 만합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

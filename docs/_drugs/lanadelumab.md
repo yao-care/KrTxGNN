@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Lanadelumab
-parent: 모델 예측만 (L5)
+parent: 높은 근거 (L1-L2)
 nav_order: 457
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lanadelumab: 예측 신규 적응증 C1 억제제 결핍증 (C1 inhibitor deficiency) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 MFDS 문서 링크만 수록되어 있어 구체적 문구 확인 불가 (유전성 혈관부종 발작 예방으로 알려져…"
@@ -14,7 +14,7 @@ predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serp
 # Lanadelumab
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L1** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 모델은 **C1 억제제 결핍증(C1 inhibitor deficiency)**에 효과가
 |------|------|
 | 기존 적응증 | 허가증에 적응증 원문 대신 MFDS 문서 링크만 수록되어 있어 구체적 문구 확인 불가 (유전성 혈관부종 발작 예방으로 알려져 있음) |
 | 예측 신규 적응증 | C1 억제제 결핍증 (C1 inhibitor deficiency) |
-| TxGNN 예측 점수 | 99.996% |
+| TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L1 (데이터 기준 판정, 아래 참고) |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
 | 권장 결정 | Proceed with Guardrails |
 

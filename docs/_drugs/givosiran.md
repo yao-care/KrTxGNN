@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Givosiran
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 376
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-15
-description: "Givosiran: 예측 신규 적응증 ALA 탈수효소 결핍 포르피린증 (Porphyria due to ALA dehydratase deficiency) (근거 수준 L4). 기존 적응증: 급성 간성 포르피린증 (허가 적응증 원문은 링크 형태로만 제공되어 허가사항 확인 필요)"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Givosiran"
-predicted_indications: ["early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
+predicted_indications: ["primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
+last_modified_at: 2026-10-23
+description: "Givosiran: 예측 신규 적응증 원발성 문맥혈전증 (근거 수준 L5). 기존 적응증: 한국 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 알려진 용도: 급성 간포르피린증)"
 ---
 
 # Givosiran
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,82 +33,76 @@ predicted_indications: ["early-onset familial noncirrhotic portal hypertension",
 
 </div>
 
-## Givosiran: 급성 간성 포르피린증에서 ALA 탈수효소 결핍 포르피린증으로
+## Givosiran: 급성 간포르피린증에서 원발성 문맥혈전증으로
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Givosiran은 간세포의 ALAS1을 억제하는 siRNA 치료제로, 급성 간성 포르피린증(AHP) 치료에 사용됩니다.
-TxGNN 모델은 **ALA 탈수효소 결핍 포르피린증(Porphyria due to ALA dehydratase deficiency)**에 효과가 있을 수 있다고 예측하며, 현재 **임상시험은 0건**, **문헌은 9편**(대부분 AHP 전반 또는 증례 보고)이 관련되어 있습니다.
+Givosiran은 간세포의 ALAS1을 표적으로 하는 GalNAc 결합 siRNA로, 급성 간포르피린증 치료에 사용되는 약물입니다. TxGNN 모델은 **원발성 문맥혈전증(primitive portal vein thrombosis)**에 효과가 있을 수 있다고 예측하지만, 이 방향을 직접 지지하는 **임상시험과 문헌은 한 건도 없습니다**. 따라서 이 예측은 모델 점수에만 의존하는 가설 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 급성 간성 포르피린증 (허가 적응증 원문은 링크 형태로만 제공되어 허가사항 확인 필요) |
-| 예측 신규 적응증 | ALA 탈수효소 결핍 포르피린증 (Porphyria due to ALA dehydratase deficiency) |
-| TxGNN 예측 점수 | 99.91% |
-| 근거 수준 | L4 |
-| 한국 시판 현황 | ✓ 시판 중 |
-| 허가증 수 | 1건 |
-| 권장 결정 | Hold (연구 질문 단계) |
-
-> 참고: 전체 예측 목록의 1위(TxGNN 점수 99.9986%)는 문헌·임상시험 근거가 전혀 없는 간 질환들입니다. 이들은 서로 점수가 동일하여 일반적인 간 관련 네트워크에서 나온 예측으로 보이며, 본 보고서는 실제 근거가 있는 후보인 ALA 탈수효소 결핍 포르피린증을 중심으로 평가합니다.
+| 기존 적응증 | 한국 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 알려진 용도: 급성 간포르피린증) |
+| 예측 신규 적응증 | 원발성 문맥혈전증 |
+| TxGNN 예측 점수 | 1.0000 |
+| 근거 수준 | L5 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 허가 건수 | 1건 (단일제) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-Givosiran은 GalNAc가 결합된 siRNA로, 간세포에서 ALAS1 mRNA를 분해합니다. ALAS1은 헴 합성 경로의 첫 단계 효소이며, 급성 포르피린증 발작 때 유도되어 신경독성 중간산물인 ALA와 PBG의 축적을 일으킵니다. 현재 데이터베이스에는 상세한 작용 기전 항목이 비어 있으나, 문헌상 위와 같은 기전이 확인됩니다.
+현재 상세한 작용 기전 데이터가 수집되지 않았습니다. 일반적으로 알려진 바에 따르면 Givosiran은 간세포의 ALAS1 발현을 억제하여 포르피린 전구체(ALA, PBG)를 줄이는 siRNA입니다.
 
-ALA 탈수효소 결핍 포르피린증(ADP)은 헴 합성의 두 번째 효소가 결핍되어 ALA가 축적되는 질환으로, AHP의 네 가지 유형 중 하나입니다. ALAS1을 억제해 ALA 생성을 줄이는 givosiran의 기전과 직접 맞닿아 있어, 허가 적응증과 매우 인접한 후보입니다.
+문맥혈전증은 응고 및 혈관 병리와 관련된 질환으로, 헴 생합성 조절과의 기전적 연결고리가 확립되어 있지 않습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영했을 가능성이 있으며, 생물학적 근거는 아니고 이를 뒷받침하는 임상 또는 전임상 근거도 없습니다.
 
-다만 근거는 제한적입니다. 핵심 3상 시험(ENVISION)은 주로 급성 간헐성 포르피린증(AIP) 환자를 대상으로 했으며 ADP에서의 효능을 직접 입증하지 못했습니다. 또한 ADP는 간뿐 아니라 적혈구 계열의 ALA 생성(ALAS2)도 관여할 수 있어, 간 표적 치료만으로는 효과가 제한될 가능성이 있습니다.
+## 다른 상위 예측 질환
 
-## 임상시험 근거
+동일한 점수대 및 하위 순위에서 다음 질환들도 예측되었으나, 모두 임상시험과 문헌이 없고 기전적 근거도 부족합니다(모두 L5, Hold).
 
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [36028858](https://pubmed.ncbi.nlm.nih.gov/36028858/) | 2022 | RCT 사후 분석 (ENVISION 3상) | Orphanet J Rare Dis | 12세 이상 AHP 환자의 질병 부담 평가 |
-| [40312531](https://pubmed.ncbi.nlm.nih.gov/40312531/) | 2025 | 코호트 (일본 환자) | Sci Rep | 일본 AHP 환자 10명 대상 확대 접근 연구에서 givosiran(2.5 mg/kg, 월 1회)의 효능·안전성 탐색 |
-| [35067977](https://pubmed.ncbi.nlm.nih.gov/35067977/) | 2022 | Review | J Intern Med | RNAi 치료(givosiran)가 급성 간헐성 포르피린증의 발작 빈도를 유의하게 감소 |
-| [37027823](https://pubmed.ncbi.nlm.nih.gov/37027823/) | 2023 | Review | Blood | 급성 간성 포르피린증에서 RNA 간섭 치료의 기전과 임상 적용 |
-| [39313028](https://pubmed.ncbi.nlm.nih.gov/39313028/) | 2024 | Review | Rev Clin Esp | 간성 포르피린증 급성 발작의 치료 접근 |
-| [35734365](https://pubmed.ncbi.nlm.nih.gov/35734365/) | 2022 | Review | Drug Des Devel Ther | 성인 AHP 치료 옵션으로서 givosiran의 설계, 개발, 위치 |
-| [36883675](https://pubmed.ncbi.nlm.nih.gov/36883675/) | 2023 | PK/PD 모델링 | CPT Pharmacometrics Syst Pharmacol | givosiran 투여 후 요중 ALA 감소의 PK-PD 모델 |
-| [35991568](https://pubmed.ncbi.nlm.nih.gov/35991568/) | 2022 | 증례 보고 | Front Genet | ALAD 포르피린증 환자에서 givosiran에 반응하지 않음 |
-| [42443962](https://pubmed.ncbi.nlm.nih.gov/42443962/) | 2026 | 증례 보고 | Orphanet J Rare Dis | 간 ALA 생성만 억제한 치료는 효과가 제한적이었고, 간·적혈구 양쪽 ALA 생성을 억제하여 치료 |
+| 순위 | 질환 | TxGNN 점수 | 평가 |
+|------|------|-----------|------|
+| 2 | 특발성 구리 연관 간경변 | 1.0000 | 구리 대사와 ALAS1 억제 간 연관성 없음 |
+| 3 | 간폐증후군 | 1.0000 | 폐내 혈관 확장 병리로 ALAS1과 무관 |
+| 4 | 조기 발병 가족성 비경변성 문맥압항진증 | 1.0000 | 문맥 혈역학 질환으로 기전적 근거 없음 |
+| 5 | 간문맥 경화증 | 1.0000 | 문맥 섬유화 병리를 다루지 못함 |
+| 6 | 만성 C형 간염 바이러스 감염 | 0.9997 | 숙주 ALAS1 표적이며 항바이러스 활성 없음 |
+| 7 | 간 글리코겐 합성효소 결핍 글리코겐 저장병 | 0.9996 | GYS2 결손과 직접적 대사 연결 없음 |
+| 8 | 만성 B형 간염 바이러스 감염 | 0.9994 | HBV 전사체를 표적하지 않음 |
+| 9 | 페닐알라닌 대사 장애 | 0.9990 | PAH 결핍과 헴 합성 조절 간 연관 없음 |
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 202600588 | 기브라리주(기보시란나트륨) | 주사제 (무색~노란색 투명 용액, 유리 바이알) | 허가 적응증 원문은 링크로만 제공됨 (허가사항 참조) |
+| 202600588 | 기브라리주(기보시란나트륨) | 주사제 (무색~노란색 투명 용액, 유리 바이알) | 허가 적응증 본문은 링크로만 제공됨 ([허가 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600588/EE)) |
+
+제조사는 (주)메디팁이며, 단일 성분 제제입니다.
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 87건이 확인되었습니다. 이 중 주요(Major) 등급은 **Eliglustat**이며, 나머지는 중등도(Moderate) 등급입니다. 중등도 항목에는 다음이 포함됩니다.
-  - 아미노글리코시드·글리코펩티드 계열: Vancomycin, Kanamycin, Neomycin, Streptomycin
-  - Amphotericin B 제제
-  - 5-ASA 계열: Mesalazine, Balsalazide, Olsalazine, Sulfasalazine
-  - 기타: Metoclopramide, Naltrexone, Exenatide, Fenfluramine, Caffeine 등
+- **약물 상호작용**: 총 87건이 확인되었으며, 그중 주요(Major) 등급은 **Eliglustat**입니다. 나머지 대부분은 중등도(Moderate) 등급입니다. 대표 항목은 다음과 같습니다.
+  - 항진균제: Amphotericin B (일반, 지질 복합체, 콜레스테릴 황산염, 리포좀 제형)
+  - 아미노글리코사이드·글리코펩타이드계 항생제: Vancomycin, Kanamycin, Neomycin, Streptomycin
+  - 염증성 장질환 치료제: Mesalazine, Balsalazide, Olsalazine, Sulfasalazine
+  - 기타: Alosetron, Naltrexone, Metoclopramide, Exenatide, Fenfluramine, Dexfenfluramine, Caffeine
 
-경고 및 금기 사항은 허가사항을 참조하세요.
+주요 경고와 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Hold (연구 질문 단계)**
+**결정: Hold**
 
 **사유:**
-기전적 타당성은 있으나, ADP에서의 근거는 상반된 결과의 증례 보고 2건뿐이며 임상시험이 없습니다. 한 증례에서는 반응이 없었고, 다른 증례에서는 적혈구 ALA 생성까지 억제해야 했다는 점에서 효과가 제한적일 가능성이 있습니다. 나머지 예측(간 질환, 바이러스성 간염 등)은 근거와 기전적 연관성이 모두 없어 보류가 적절합니다.
+원발성 문맥혈전증에 대한 임상시험과 문헌이 전혀 없고, 헴 생합성 억제와 혈전 병리 사이에 기전적 연결도 확인되지 않습니다. TxGNN 점수가 매우 높지만 이는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영한 것일 뿐 생물학적 근거가 아니므로 근거 수준은 L5입니다.
 
 **진행하려면 필요한 것:**
-- 한국 허가사항(적응증, 경고, 금기)의 정확한 확인 — 허가 적응증에 ADP가 포함되는지 포함
-- 작용 기전(MOA) 데이터 보완
-- ADP 환자 대상 추가 증례 또는 레지스트리 자료 수집 및 ALAS2 등 적혈구 경로의 영향 평가
-- 주요 상호작용(Eliglustat 등)을 포함한 안전성 모니터링 계획 수립
+- 허가 적응증 본문 및 경고·금기 정보 확보 (한국 허가 문서 분석)
+- 상세 작용 기전(MOA) 데이터 확보
+- ALAS1 억제와 문맥혈전증 간 연관성을 보여주는 전임상 또는 기전 연구
+- 한국 시판 상태(취소 여부) 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

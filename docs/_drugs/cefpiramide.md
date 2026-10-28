@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Cefpiramide
-parent: 모델 예측만 (L5)
+parent: 기존 용도만 (신규 예측 없음)
 nav_order: 191
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-15
-description: "Cefpiramide: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 텍스트로 확인되지 않음 (허가사항 문서 링크만 제공됨). 3세대 세팔로스포린 주사제"
+description: "Cefpiramide: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Cefpiramide"
-predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "beta-thalassemia with other manifestations"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Cefpiramide
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **N/A** | 예측 적응증: **0** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +35,16 @@ predicted_indications: ["rheumatoid arthritis", "osteoarthritis", "osteoarthriti
 
 </div>
 
-## Cefpiramide: 세균 감염증에서 류마티스 관절염으로
+## Cefpiramide
 {: .text-alpha }
-
-## 한 문장 요약
-
-Cefpiramide는 항녹농균 활성을 가진 3세대 세팔로스포린계 항생제로, 세균 세포벽 합성을 억제하여 감염 치료에 사용되어 왔습니다.
-TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다.
-따라서 이 예측은 모델 계산 결과일 뿐이며, 현재로서는 보류가 적절합니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 텍스트로 확인되지 않음 (허가사항 문서 링크만 제공됨). 3세대 세팔로스포린 주사제 |
-| 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
-| TxGNN 예측 점수 | 98.15% |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198800424/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198800142/EE |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 2건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Cefpiramide는 단일 성분의 3세대 세팔로스포린계 항생제이며, 세균 세포벽 합성을 억제하는 방식으로 작용합니다.
-
-류마티스 관절염은 자가면역 기전에 의한 만성 관절 염증 질환입니다. 이번 데이터에서는 Cefpiramide가 항염증 또는 면역조절 작용을 가진다는 근거가 확인되지 않았습니다. 기존 적응증(세균 감염)과 류마티스 관절염 사이에 기전상 연관성도 정립되어 있지 않습니다.
-
-TxGNN 점수(98.15%)는 지식 그래프상 근접성에서 나온 계산 결과이며, 약리학적 관계를 입증하는 것은 아닙니다. 같은 약물에 대해 골관절염(98.07%), 통풍(97.61%), 골격 이형성증 및 혈색소병증 등 서로 무관한 질환들이 비슷한 점수로 예측된 점도 이 점수의 특이성이 낮다는 것을 시사합니다.
 
 ## 한국 시판 정보
 
@@ -73,19 +57,6 @@ TxGNN 점수(98.15%)는 지식 그래프상 근접성에서 나온 계산 결과
 
 안전성 정보는 허가사항을 참조하세요.
 
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-류마티스 관절염에 대한 임상시험과 문헌이 전혀 없고, 기전상 연관성도 확인되지 않아 모델 예측만 존재하는 L5 수준입니다. 세균 세포벽 합성을 억제하는 항생제가 자가면역성 관절 염증에 작용한다고 볼 근거가 현재 데이터에는 없습니다.
-
-**진행하려면 필요한 것:**
-- 허가사항(MFDS 첨부문서) 확보 및 분석: 적응증, 경고, 금기 확인
-- 작용 기전(MOA) 데이터 보완 (DrugBank 조회)
-- 류마티스 관절염과의 기전적 연관성에 대한 전임상 근거 (예: 항염증·면역조절 효과)
-- 관련 임상시험 및 문헌 탐색 결과
-- 투여 경로 적합성 검토 (현재 시판 제형은 주사제만 존재)
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

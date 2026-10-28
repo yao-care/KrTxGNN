@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pancrelipase: 예측 신규 적응증 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (mitochondrial oxidative phosphorylati… (근거 수준 L5). 기존 적응증: 소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부 팽만감"
 monitor_inn: "Pancrelipase"
-predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices without bleeding", "esophageal varices with bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices with bleeding", "esophageal varices without bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
 ---
 
 # Pancrelipase
@@ -33,7 +33,7 @@ predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to
 
 </div>
 
-## Pancrelipase: 소화불량에서 미토콘드리아 산화적 인산화 장애로
+## Pancrelipase: 소화불량에서 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애로
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,9 +46,9 @@ Pancrelipase는 리파아제, 프로테아제, 아밀라아제로 구성된 췌�
 |------|------|
 | 기존 적응증 | 소화불량, 식욕감퇴(식욕부진), 과식, 체함, 소화촉진, 소화불량으로 인한 위부 팽만감 |
 | 예측 신규 적응증 | 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
-| TxGNN 예측 점수 | 99.99% |
+| TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | ✓ 시판 중 |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 
@@ -56,7 +56,7 @@ Pancrelipase는 리파아제, 프로테아제, 아밀라아제로 구성된 췌�
 
 현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Pancrelipase는 장관 내에서 작용하는 흡수되지 않는 췌장 소화효소 혼합제(리파아제, 프로테아제, 아밀라아제)이며, 소화불량 및 췌외분비 기능 보조에 사용됩니다.
 
-반면 예측된 질환은 세포 내 미토콘드리아 기능 이상으로, 두 영역 사이에서 타당한 기전적 연결고리는 확인되지 않았습니다. 높은 점수(0.9999)는 지식 그래프상의 네트워크 근접성에서 비롯되었을 가능성이 크며, 생물학적 근거를 반영한 것으로 보기는 어렵습니다.
+반면 예측된 질환은 세포 내 미토콘드리아 기능 이상으로, 두 영역 사이에서 타당한 기전적 연결고리는 확인되지 않았습니다. 높은 점수(0.9999)는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 학습한 관련 질환 간 유사성을 반영할 수 있으며 생물학적 근거를 반영한 것으로 보기는 어렵습니다.
 
 참고로 2~10순위 예측(뇌하수체성 왜소증, 시토크롬 c 산화효소 결핍증, 일차성 골이형성증, 폐 편평세포암, 식도 정맥류, 피부 리슈마니아증, 흉선·췌장 대세포 신경내분비암종)도 모두 근거 수준 L5이며, 임상시험과 문헌이 없고 기전적 연결도 확인되지 않았습니다. 췌장 신경내분비암종의 경우 췌외분비 부전에 대한 보조요법으로서만 관련되며, 항종양 효과로 해석해서는 안 됩니다.
 
@@ -92,7 +92,7 @@ Pancrelipase는 리파아제, 프로테아제, 아밀라아제로 구성된 췌�
 - 상세한 약물 작용 기전(MOA) 데이터 확보
 - 허가사항(첨부문서)의 경고 및 금기 정보 확보
 - 예측 질환과 약물 간 기전적 연결을 설명하는 전임상 또는 문헌 근거
-- 지식 그래프 예측이 네트워크 근접성에 의한 것인지 검증하는 추가 분석
+- TxGNN 모델(딥러닝) 예측이 관련 질환 간 학습된 유사성에 의한 것인지 검증하는 추가 분석
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
