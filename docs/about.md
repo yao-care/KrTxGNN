@@ -26,6 +26,8 @@ AI로 약물재창출 근거 검증을 가속화합니다 — 예측부터 근�
 <a href="{{ '/drugs/' | relative_url }}">전체 의약품 보고서</a>, <a href="{{ '/methodology/' | relative_url }}">방법론</a>,
 <a href="{{ '/guide/' | relative_url }}">사용 안내</a>, <a href="{{ '/sources/' | relative_url }}">데이터 출처</a>,
 <a href="{{ '/downloads/' | relative_url }}">다운로드</a> 페이지에서 근거 등급별 보고서와 원본 데이터를 확인할 수 있습니다.
+근거 등급별로는 <a href="{{ '/evidence-high/' | relative_url }}">높음</a>, <a href="{{ '/evidence-medium/' | relative_url }}">중등도</a>,
+<a href="{{ '/evidence-low/' | relative_url }}">모델 예측만</a> 페이지에서 바로 살펴볼 수 있습니다.
 
 ---
 
