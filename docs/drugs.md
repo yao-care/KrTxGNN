@@ -31,6 +31,11 @@ description: "KrTxGNN의 전체 의약품 검증 보고서 및 근거 등급 통
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+이 목록은 [MFDS](https://www.mfds.go.kr/) 허가 정보(대한민국)를 바탕으로 합니다.
+
+<!-- local-home:end -->
+
 ## 근거 등급별 분포
 
 | 근거 등급 | 의약품 수 | 설명 |

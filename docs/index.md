@@ -13,6 +13,50 @@ nav_order: 1
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## 대한민국: 이 사이트의 수록 범위
+
+이 사이트는 [MFDS](https://www.mfds.go.kr/) 허가 정보(대한민국)에 수록된 의약품 **{{ site.data.drug_stats.total_drugs }}**개 품목의 보고서를 공개합니다.
+
+근거 수준별 보고서 수: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### 이 사이트에서 근거 수준이 가장 높은 의약품
+
+| 의약품 | 근거 수준 |
+|---|---|
+| [Bromfenac](/drugs/bromfenac/) | L1 |
+| [Busulfan](/drugs/busulfan/) | L1 |
+| [Lanadelumab](/drugs/lanadelumab/) | L1 |
+| [Rifabutin](/drugs/rifabutin/) | L1 |
+| [Tegafur](/drugs/tegafur/) | L1 |
+| [Cefprozil](/drugs/cefprozil/) | L1 |
+| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
+| [Hydrocortisone Acetate](/drugs/hydrocortisone-acetate/) | L1 |
+| [Clofarabine](/drugs/clofarabine/) | L1 |
+| [Doxorubicin](/drugs/doxorubicin/) | L1 |
+
+### 30개 TxGNN 사이트 중 이 사이트에만 수록된 의약품
+
+| 의약품 | 근거 수준 |
+|---|---|
+| [Propacetamol](/drugs/propacetamol/) | L3 |
+| [Pranlukast](/drugs/pranlukast/) | L4 |
+| [Cefamandole Nafate](/drugs/cefamandole-nafate/) | L5 |
+| [Magnesium Lactate](/drugs/magnesium-lactate/) | L5 |
+| [Pegteograstim](/drugs/pegteograstim/) | L5 |
+| [Proxyphylline](/drugs/proxyphylline/) | L5 |
+| [Talniflumate](/drugs/talniflumate/) | L5 |
+| [Cyclofenil](/drugs/cyclofenil/) | L5 |
+| [Polmacoxib](/drugs/polmacoxib/) | L5 |
+| [Anagliptin](/drugs/anagliptin/) | L5 |
+| [Clevudine](/drugs/clevudine/) | L5 |
+| [Ethyl Loflazepate](/drugs/ethyl-loflazepate/) | L5 |
+| [Hydrocortisone Probutate](/drugs/hydrocortisone-probutate/) | L5 |
+| [Oxiracetam](/drugs/oxiracetam/) | L5 |
+| [Tiemonium Iodide](/drugs/tiemonium-iodide/) | L5 |
+
+<!-- local-home:end -->
+
 ## KrTxGNN 소개
 
 KrTxGNN은 [TxGNN](https://github.com/mims-harvard/TxGNN) 모델(딥러닝)을 사용하여 식품의약품안전처(MFDS) 허가 의약품의 약물재창출(drug repurposing) 가능성을 예측합니다.
