@@ -127,6 +127,7 @@ Zitnik Lab이 개발하여 <em>Nature Medicine</em>에 발표한 딥러닝 모�
 - **GitHub Issues**: <https://github.com/yao-care/KrTxGNN/issues>
 - **개발사**: 藥提醒科技有限公司 (<https://www.yao.care>, service@yao.care)
 - **제품 개요**: <https://www.yao.care/medical/txgnn/>
+- **개인정보 처리방침**: <a href="{{ '/privacy-policy/' | relative_url }}">개인정보 처리방침</a> (본 사이트는 정적 사이트이며 개인정보를 수집하지 않습니다)
 
 ---
 
