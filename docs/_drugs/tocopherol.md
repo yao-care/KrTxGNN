@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 742
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tocopherol: 대한민국의 기존 용도 및 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---
@@ -71,7 +71,7 @@ TxGNN 모델은 이 약물에 대해 점수 0.99 이상의 후보 적응증을 �
 |------|------|------|------|
 | 201405294 | Suheung Vitamin E 400 I.U. Soft Capsule(for export)(export N | 미황색의 내용물을 함유하는 투명의 장방형 연질캡슐제 | 유효 |
 | 200901729 | Suheung Vitamin E 1000 I.U. Soft Capsule(for export)(export  | 미황색-황갈색의 투명 내용물이 든 투명한 장방형 연질캡슐제 | 유효 |
-| 198800193 | Hanobac Soft Cap. 1000IU | 미황색유상내용물이 들어있는 투명한 장방형 연질캡슐 | 유효 |
+| 198800193 | Hanobac Soft Cap. 1000IU | 미황색유상내용물이 들어있는 투명한 장방형 연질캡슐 | 유효기간만료 |
 | 200612045 | Etex Tocopherol 400 Soft Cap. | 미황색의 점조성 내용물이 든 투명한 타원형 연질캡슐제 | 유효 |
 | 200301060 | Urenon Tablet | 백색의 원형 당의정 | 유효 |
 | 200600338 | Union Vitamin E Soft Cap. (for export) | 투명한 유상액이 충진된 투명한 타원형 연질캡슐 | 유효 |
