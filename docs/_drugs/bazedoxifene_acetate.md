@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 128
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -66,7 +66,7 @@ TxGNN 파이프라인에서 신규 적응증 예측이 생성되지 않았으며
 | 예측 신규 적응증 | 없음 (예측 미생성) |
 | TxGNN 예측 점수 | N/A |
 | 근거 수준 | L5 (예측 없음) |
-| 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 | 권장 결정 | **Hold** |
 

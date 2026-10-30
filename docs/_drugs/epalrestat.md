@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 314
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Epalrestat: 대한민국의 기존 용도와 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ TxGNN 딥러닝 모델이 Epalrestat에 대해 제시한 후보 중 출처를 �
 | 새로 예측된 적응증 | 없음 (출처를 추적할 수 있는 모델 후보는 모두 기존 용도) |
 | 모델 후보 중 기존 용도 수 | 1 |
 | 근거 수준 | 해당 없음 |
-| 대한민국 내 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 
 ## 모델 후보 중 기존 용도
 

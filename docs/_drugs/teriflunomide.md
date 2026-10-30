@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 728
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Teriflunomide: 대한민국의 기존 사용 및 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ TxGNN 딥러닝 모델(점수 0.99 이상)이 이 약물에 대해 제시한 후
 | 새로운 예측 적응증 | 없음 (출처를 추적할 수 있는 모든 모델 후보가 기존 사용) |
 | 모델 후보 중 기존 사용 | 1 |
 | 근거 수준 | 해당 없음 |
-| 대한민국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 
 ## 모델 후보 중 기존 사용
 

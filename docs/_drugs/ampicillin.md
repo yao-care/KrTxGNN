@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "AMPICILLIN"
 predicted_indications: ["chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ampicillin: 예측 신규 적응증 만성 비부비동염 (근거 수준 L4). 기존 적응증: 허가 문서 링크만 제공되어 적응증 문구 확인 불가 (항균제)"
 ---
 
@@ -51,7 +51,7 @@ TxGNN 모델은 **만성 비부비동염(chronic rhinosinusitis)**에 효과가 
 | TxGNN 예측 점수 | 0.9934 |
 | 근거 수준 | L4 |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 최소 20건 (목록이 일부일 수 있음) |
+| 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

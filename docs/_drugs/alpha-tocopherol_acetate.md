@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "alpha-Tocopherol acetate"
 predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "immature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Alpha-Tocopherol Acetate: 예측 신규 적응증 약물 유발 골다공증 (근거 수준 L5). 기존 적응증: 노년기의 비타민 E 보급, 말초혈행장애 및 갱년기 시 어깨·목결림, 수족저림, 수족냉증 증상의 완화…"
 ---
 
@@ -51,7 +51,7 @@ TxGNN 모델은 **약물 유발 골다공증(drug-induced osteoporosis)**에 효
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 최소 20건 (목록이 일부일 수 있음) |
+| 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

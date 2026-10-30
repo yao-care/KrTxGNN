@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ramipril: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 데이터에 포함되지 않음)"
 ---
 
@@ -51,7 +51,7 @@ TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압**에 
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 (쥐 전임상 연구 1편이 해당 질환을 직접 다룸) |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 4건 (모두 단일제, 유효) |
+| 허가증 수 | 4건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

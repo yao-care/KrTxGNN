@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Sulindac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "pseudoachondroplasia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome", "hypermobility of coccyx"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sulindac: 예측 신규 적응증 말단중간이형성증 헌터-톰슨형 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문 없이 허가 문서 링크만 제공됨)"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **말단중간이형성증 헌터-톰슨형(acromesomelic dyspla
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 1건 (단일 성분 1건, 유효) |
+| 허가증 수 | 1건 (단일 성분 1건, 유효) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

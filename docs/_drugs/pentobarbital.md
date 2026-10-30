@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Pentobarbital"
 predicted_indications: ["obesity disorder", "manic bipolar affective disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "major affective disorder", "frontorhiny", "monogenic obesity", "trichotillomania"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pentobarbital: 예측 신규 적응증 비만 (obesity disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 문서 링크로만 제공되어 구체적인 적응증을 확인할 수 없음"
 ---
 
@@ -49,7 +49,7 @@ Pentobarbital은 한국에서 주사용 앰플제(엔토발주100밀리그램)�
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 1건 (단일 성분 1건) |
+| 허가증 수 | 1건 (단일 성분 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

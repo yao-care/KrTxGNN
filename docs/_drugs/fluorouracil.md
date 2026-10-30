@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fluorouracil: 예측 신규 적응증 질의 포도상 배아형 횡문근육종 (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 적응증을 확인할 수 없음"
 ---
 
@@ -49,7 +49,7 @@ Fluorouracil은 항대사 계열 세포독성 항암제로, 한국에서 단일�
 | TxGNN 예측 점수 | 0.9975 (최상위 예측 기준) |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 7건 (모두 유효, 단일제) |
+| 허가증 수 | 7건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

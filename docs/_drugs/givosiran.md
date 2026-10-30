@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Givosiran"
 predicted_indications: ["primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Givosiran: 예측 신규 적응증 원발성 문맥혈전증 (근거 수준 L5). 기존 적응증: 한국 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 알려진 용도: 급성 간포르피린증)"
 ---
 
@@ -49,7 +49,7 @@ Givosiran은 간세포의 ALAS1을 표적으로 하는 GalNAc 결합 siRNA로, �
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 1건 (단일제) |
+| 허가증 수 | 1건 (단일제) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ layout: default
 title: Salbutamol Sulfate
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 681
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -45,7 +45,7 @@ Evidence Pack을 분석했습니다. 해당 약물은 예측 적응증, 허가 �
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900576/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607690/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209634/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199906869/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907319/EE |
-| 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 | 허가증 수 | 0건 |
 
 ---

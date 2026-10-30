@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "LOTEPREDNOL ETABONATE"
 predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Loteprednol Etabonate: 예측 신규 적응증 결막 여포증 (Conjunctival Folliculosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크 형태로만 제공되어 구체적인 내용을 확인할 수 없음 (점안현탁액으로 허가)"
 ---
 
@@ -49,7 +49,7 @@ Loteprednol etabonate는 국소 스테로이드(코르티코스테로이드) 점
 | TxGNN 예측 점수 | 0.9969 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 3건 (모두 단일 성분 제제, 유효) |
+| 허가증 수 | 3건 (모두 단일 성분 제제, 유효) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

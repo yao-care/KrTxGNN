@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "TENOFOVIR ALAFENAMIDE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tenofovir Alafenamide: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트가 데이터에 없습니다(허가증 링크만 확인됨). 참고로 약리 데이터에는 만성 B형 간염 바이러스(HBV…"
 ---
 
@@ -49,7 +49,7 @@ Tenofovir alafenamide는 한국에서 단일 성분 제제 3건이 허가된 뉴
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 3건 (단일 성분 3건, 유효 3건) |
+| 허가증 수 | 3건 (단일 성분 3건, 유효 3건) |
 | 권장 결정 | Hold |
 
 > 근거 수준 참고: 이 질환 자체를 직접 연구한 임상시험이나 문헌이 없으므로 규칙상 L5로 판정했습니다.

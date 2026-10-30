@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "Mercaptopurine"
 predicted_indications: ["myeloid leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Mercaptopurine: 예측 신규 적응증 골수성 백혈병 (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 없이 문서 링크만 기재)"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **골수성 백혈병(myeloid leukemia)**에 효과가 있을 �
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L3 (골수성 백혈병을 직접 다룬 관찰 연구 수준) |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 1건 (단일 성분, 수출용 제품) |
+| 허가증 수 | 1건 (단일 성분, 수출용 제품) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

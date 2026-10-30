@@ -46,7 +46,7 @@ TxGNN 모델은 이 약물에 대해 점수 0.99 이상의 후보 적응증을 �
 | 새로운 예측 적응증 | 없음 (점수 0.99 이상의 모델 후보 없음) |
 | 이 약물에 기록된 기존 용도 | 1 |
 | 근거 수준 | 해당 없음 |
-| 대한민국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | Unknown (source lacks cancellation status) |
 
 ## 이 약물에 기록된 기존 용도
 

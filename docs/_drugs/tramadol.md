@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tramadol: 예측 신규 적응증 Hunter-Thompson형 말단중간부 이형성증 (근거 수준 L5). 기존 적응증: 이 보고서용으로 정리된 데이터에는 허가 적응증 본문이 없고 허가 문서 링크만 있어 확인할 수 없습니다"
 ---
 
@@ -51,7 +51,7 @@ TxGNN 모델은 **Hunter-Thompson형 말단중간부 이형성증(acromesomelic 
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가 건수 | 최소 20건 (목록은 일부일 수 있음) |
+| 허가증 수 | 최소 20건 (목록은 일부일 수 있음) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
