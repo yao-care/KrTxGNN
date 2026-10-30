@@ -38,7 +38,7 @@ def fetch():
     s = requests.Session()
     s.headers["User-Agent"] = "Mozilla/5.0 (compatible; TxGNN/1.0; research)"
     s.get(BASE + "/searchDrug", timeout=60)
-    out, start = [], 0
+    out, start, short_retry, empty = [], 0, 0, 0
     while True:
         ws = openpyxl.load_workbook(io.BytesIO(_batch(s, start)), read_only=True).active
         ws.reset_dimensions()  # 檔內的 dimension 只寫 A1，不重設會只讀到第一欄
@@ -52,10 +52,19 @@ def fetch():
             k = str(rec.get("품목기준코드") or "").strip()
             if k:
                 out.append({"item_seq": k, "status": str(rec.get("취소/취하") or "").strip()}); n += 1
-        if n < BATCH or start > 300000:
+        # 2026-10-30：GitHub runner 上某批會被限流、回傳不滿 1 萬筆就提早結束（只抓到七成）。
+        # 不滿一批時先重抓同一批；連續兩批都是 0 筆才算到底
+        if n < BATCH and short_retry < 2 and n > 0:
+            short_retry += 1
+            out = out[: len(out) - n]
+            time.sleep(30)
+            continue
+        short_retry = 0
+        empty = empty + 1 if n == 0 else 0
+        if empty >= 2 or start > 300000:
             break
         start += BATCH
-        time.sleep(2)
+        time.sleep(3)
     return out
 
 
