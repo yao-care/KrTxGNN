@@ -50,7 +50,7 @@ TxGNN 모델은 **전형적 강직인간증후군(Classic Stiff Person Syndrome)
 | TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
-| 허가증 수 | 20건 |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
 > 같은 점수(0.9906)로 국소 강직사지증후군(focal stiff limb syndrome), 0.9903로 옵시스모이형성증(opsismodysplasia)도 예측되었습니다. 이 둘도 근거는 모델 예측뿐입니다.

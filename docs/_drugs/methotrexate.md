@@ -49,7 +49,7 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 | TxGNN 예측 점수 | 0.9945 |
 | 근거 수준 | L5 (모델 예측만 있음) |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
-| 허가증 수 | 20건 (모두 유효, 단일 성분) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

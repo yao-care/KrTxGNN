@@ -50,7 +50,7 @@ TxGNN 모델은 **요로감염(urinary tract infection (disease))**에 효과가
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L1 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
-| 허가증 수 | 최소 20건 (목록은 일부일 수 있음) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

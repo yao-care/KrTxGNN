@@ -49,7 +49,7 @@ predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigemin
 | TxGNN 예측 점수 | 0.9943 |
 | 근거 수준 | L1 (아래 유의사항 참조) |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
-| 허가증 수 | 20건 |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Proceed with Guardrails |
 
 > **유의사항:** L1 판정은 완료된 Phase 3 시험(예: 소아 편두통에서 비강 vs 정맥 케토롤락 시험 NCT02358681)과 다수의 Phase 4 시험, 체계적 문헌고찰을 종합한 것입니다. 일부 시험은 케토롤락이 병용요법의 일부이거나 비교군이어서 케토롤락 단독 효과를 판단하기 어렵습니다.
