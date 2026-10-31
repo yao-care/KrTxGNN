@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 160
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bromfenac: 예측 신규 적응증 안질환 (Eye Disease) (근거 수준 L1). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가사항 문서 링크만 확보됨)"
 monitor_inn: "bromfenac"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **안질환(Eye Disease)**에 효과가 있을 수 있다고 예
 | 예측 신규 적응증 | 안질환 (Eye Disease) |
 | TxGNN 예측 점수 | 0.9980 |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 17건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 17건 / 전체 17건) |
+| 허가증 수 | 17건 (유효 17건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

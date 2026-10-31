@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 419
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Imiquimod: 예측 신규 적응증 전암성 신생물 (pre-malignant neoplasm) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트가 확보되지 않음 (식약처 허가정보 링크만 확인됨)"
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **전암성 신생물(pre-malignant neoplasm)**에 효과가 있
 | 예측 신규 적응증 | 전암성 신생물 (pre-malignant neoplasm) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 (아래 참고) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Proceed with Guardrails |
 
 > **근거 수준에 대한 참고**: 완료된 Phase 3 시험은 1건(NCT00175643, 20명, 단일군)뿐이며, 다른 Phase 3 시험은 9명 등록 후 조기 종료되었습니다. 엄격한 판정 규칙(완료된 Phase 3 RCT 2건 이상)으로는 L1 요건을 충족하지 못하므로, 실제 근거 강도는 L1보다 낮게 해석해야 합니다. 이 점이 가드레일을 두고 진행해야 하는 주된 이유입니다.

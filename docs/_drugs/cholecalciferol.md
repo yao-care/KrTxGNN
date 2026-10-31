@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cholecalciferol: 예측 신규 적응증 말단중간이형성증, Campailla Martinelli형 (근거 수준 L5). 기존 적응증: 이 보고서의 데이터에는 허가 적응증 본문이 없고 허가 문서 링크만 있어 확인할 수 없습니다"
 ---
 
@@ -48,7 +48,7 @@ description: "Cholecalciferol: 예측 신규 적응증 말단중간이형성증,
 | 예측 신규 적응증 | 말단중간이형성증, Campailla Martinelli형 |
 | TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 최소 20건 (단일 성분 허가, 목록은 일부일 수 있음) |
 | 권장 결정 | Hold |
 

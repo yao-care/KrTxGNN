@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 648
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Regorafenib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증에는 식약처 허가사항 문서 링크만 수록되어 있어 적응증 문구를 확인할 수 없음"
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 | 예측 신규 적응증 | 지방육종 (Liposarcoma) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | 규칙상 L1 (RCT 존재), 단 효능 근거는 부정적이므로 해석에 주의 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold (보수적 재해석, 아래 결론 참조) |
 
 > 참고: 데이터상 자동 판정은 "Proceed with Guardrails"이나, 지방육종 코호트에서 효능이 확인되지 않은 점을 반영하여 본 보고서는 Hold를 권고합니다.

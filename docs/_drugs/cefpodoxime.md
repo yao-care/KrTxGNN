@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "cefpodoxime"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Cefpodoxime: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 첨부 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조)"
 ---
 
@@ -48,7 +48,7 @@ Cefpodoxime(세프포독심 프록세틸)은 경구용 3세대 세페임계 항�
 | 예측 신규 적응증 | 골관절염 |
 | TxGNN 예측 점수 | 0.9925 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

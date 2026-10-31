@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "NADOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nadolol: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604248/EE"
 ---
 
@@ -48,7 +48,7 @@ Nadolol은 비선택적 베타아드레날린 차단제 계열의 약물입니�
 | 예측 신규 적응증 | 악성 고혈압성 신장질환 (malignant hypertensive renal disease) |
 | TxGNN 예측 점수 | 0.9959 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
 | 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 

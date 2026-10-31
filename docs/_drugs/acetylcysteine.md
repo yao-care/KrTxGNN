@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Acetylcysteine: 예측 신규 적응증 혈전성 질환 (근거 수준 L3). 기존 적응증: 급·만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증 질환에서의 객담배출곤란"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **혈전성 질환(thrombotic disease)**에 효과가 있을 수
 | 예측 신규 적응증 | 혈전성 질환 |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (단일 성분 허가, 목록은 일부일 수 있음) |
 | 권장 결정 | Hold |
 

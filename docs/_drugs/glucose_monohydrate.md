@@ -5,7 +5,7 @@ layout: default
 title: Glucose Monohydrate
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 385
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,7 +41,7 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700161/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197000013/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206825/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908667/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511366/EE;  |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 0건 |
 
 ---

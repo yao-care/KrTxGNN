@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Hyaluronidase: 예측 신규 적응증 내사시 (esotropia) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201201593/EE"
 ---
 
@@ -48,7 +48,7 @@ Hyaluronidase는 히알루론산을 분해하는 효소 약물로, 한국에서 
 | 예측 신규 적응증 | 내사시 (esotropia) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록은 일부일 수 있음) |
 | 권장 결정 | Hold |
 

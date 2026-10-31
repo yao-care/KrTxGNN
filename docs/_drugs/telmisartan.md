@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Telmisartan: 예측 신규 적응증 변이형 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 이번 보고서용으로 정리된 자료에는 허가 적응증 본문이 없고 허가 문서 링크만 있어 확인할 수 없음"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **변이형 협심증(Prinzmetal angina)**에 효과가 있을 �
 | 예측 신규 적응증 | 변이형 협심증 (Prinzmetal angina) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

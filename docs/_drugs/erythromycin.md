@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 317
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Erythromycin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L4). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음)"
 monitor_inn: "ERYTHROMYCIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **점상 상피성 각결막염(punctate epithelial keratoconjun
 | 예측 신규 적응증 | 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

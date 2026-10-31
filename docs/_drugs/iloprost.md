@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Iloprost: 예측 신규 적응증 단순 두피 박모증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801539/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **단순 두피 박모증(hypotrichosis simplex of the scalp)**�
 | 예측 신규 적응증 | 단순 두피 박모증 (hypotrichosis simplex of the scalp) |
 | TxGNN 예측 점수 | 0.9945 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

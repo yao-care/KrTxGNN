@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 583
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pegteograstim: 예측 신규 적응증 심실중격 동맥류 (Interventricular septum aneurysm) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 정보 없음 (허가증에는 문서 링크만 기재)"
 monitor_inn: "PEGTEOGRASTIM"
 predicted_indications: ["interventricular septum aneurysm", "heart disease", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 22", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "partial deletion of the long arm of chromosome 7"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **심실중격 동맥류(interventricular septum aneurysm)**에 
 | 예측 신규 적응증 | 심실중격 동맥류 (Interventricular septum aneurysm) |
 | TxGNN 예측 점수 | 0.9938 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

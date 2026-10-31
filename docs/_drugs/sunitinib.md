@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 711
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Sunitinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L2). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 PDF 참조)"
 monitor_inn: "sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 | 예측 신규 적응증 | 지방육종 (Liposarcoma) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 > 참고: 임상시험 2건은 모두 비-GIST 육종을 대상으로 한 Phase 2 시험이며, 지방육종만을 별도로 분석한 결과가 아닙니다. 따라서 L2는 상한선으로 해석해야 합니다.

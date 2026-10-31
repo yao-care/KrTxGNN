@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 504
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Meropenem: 예측 신규 적응증 세균성 관절염 (Bacterial Arthritis) (근거 수준 L5). 기존 적응증: 중증 세균 감염 (한국 허가 적응증 본문은 허가증 원문 링크로만 확인되어 문헌상 일반 용도로 기재)"
 monitor_inn: "meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "Lyme disease", "Peptostreptococcus infectious disease", "Ureaplasma urethritis", "gonococcal urethritis"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **세균성 관절염(Bacterial Arthritis)**에 효과가 있을
 | 예측 신규 적응증 | 세균성 관절염 (Bacterial Arthritis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L4 (직접 임상시험 없음, 간접 문헌·기전 근거 위주) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 795
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Zonisamide: 예측 신규 적응증 투렛 증후군 (Tourette syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨). 시판 품목은 항경련제로 분류됨"
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
@@ -48,8 +48,8 @@ Zonisamide는 항경련제(뇌전증 치료제)로 한국에서 허가·시판�
 | 예측 신규 적응증 | 투렛 증후군 (Tourette syndrome) |
 | TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

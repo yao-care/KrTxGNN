@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 691
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Silodosin: 예측 신규 적응증 Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 링크 형태로만 제공되어 확인할 수 없습니다. 이 약은 양성 전립선 비대증 치료제로 알려져 있습니다"
 monitor_inn: "SILODOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -48,8 +48,8 @@ Silodosin은 선택적 알파-1A 아드레날린 수용체 길항제로, 한국�
 | 예측 신규 적응증 | Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 12건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 12건) |
+| 허가증 수 | 12건 (유효 12건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

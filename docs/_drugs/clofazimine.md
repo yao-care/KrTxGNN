@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 226
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clofazimine: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 문서 링크 형태로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조 필요)"
 monitor_inn: "CLOFAZIMINE"
 predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormality"]
@@ -48,8 +48,8 @@ Clofazimine은 리미노페나진(riminophenazine) 계열 항마이코박테리�
 | 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 (모델 예측 중심, 직접적인 연구 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 > 참고: 데이터상 근거 수준은 L4로 제시되어 있으나, 판정 규칙에 따르면 폐포자충증에 대한 전임상·기전 연구가 없으므로 L5가 더 적절합니다.

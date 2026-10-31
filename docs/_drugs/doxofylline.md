@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Doxofylline: 예측 신규 적응증 염색체 이상을 동반한 피에르 로뱅 증후군 (Pierre Robin syndrome associated with a chrom… (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문을 확인하지 못함. 문헌상 천식·COPD 등 호흡기 질환에 사용)"
 monitor_inn: "DOXOFYLLINE"
 predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]
@@ -48,8 +48,8 @@ Doxofylline은 잔틴계 기관지확장제로, 한국에서 단일제 정제로
 | 예측 신규 적응증 | 염색체 이상을 동반한 피에르 로뱅 증후군 (Pierre Robin syndrome associated with a chromosomal anomaly) |
 | TxGNN 예측 점수 | 0.9954 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

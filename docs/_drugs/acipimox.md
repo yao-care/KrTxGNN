@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 22
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ ACIPIMOX(DB09055)는 Evidence Pack에 기존 적응증 및 TxGNN 예측 결과�
 | 예측 신규 적응증 | 예측 결과 없음 |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | L5 (모델 예측 없음, 실제 연구 확인 불가) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | **Hold** |
 
 ---

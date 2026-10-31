@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Daunorubicin"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Daunorubicin: 예측 신규 적응증 호지킨 림프종 (근거 수준 L5). 기존 적응증: 허가 적응증 본문을 확인할 수 없음 (허가증에는 식약처 문서 링크만 수록)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **호지킨 림프종(Hodgkin's lymphoma)**에 효과가 있을 
 | 예측 신규 적응증 | 호지킨 림프종 |
 | TxGNN 예측 점수 | 0.9981 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 (단일 성분 3건, 모두 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 근거 수준을 L5로 판정한 이유는 다음과 같습니다. 호지킨 림프종 항목의 임상시험 2건은 비호지킨 림프종 또는 급성 B림프모구성 백혈병을 다룹니다. 문헌 중 호지킨 림프종을 언급한 자료는 안트라사이클린 전반을 다룬 리뷰와 혈액종양 총설이며, daunorubicin의 호지킨 림프종 효능을 직접 연구한 자료는 없습니다.

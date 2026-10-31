@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 379
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glecaprevir: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L5). 기존 적응증: C형 간염 (허가증에는 적응증 본문 대신 허가 문서 링크만 기재되어 있음)"
 monitor_inn: "GLECAPREVIR"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **HIV 감염(HIV infectious disease)**에 효과가 있을 수 �
 | 예측 신규 적응증 | HIV 감염 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L4 (HIV 자체에 대한 직접 근거 없음, 실질적으로는 모델 예측 수준) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

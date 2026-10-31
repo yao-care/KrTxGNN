@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 713
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500213/EE"
@@ -50,7 +50,7 @@ description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic de
 | 예측 신규 적응증 | 지루피부염 (seborrheic dermatitis) |
 | TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L2 (완료된 3상 1건, 4상 1건. 3상이 1건뿐이라 L1 기준 미충족) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 (모두 유효, 단일제) |
 | 권장 결정 | Proceed with Guardrails |
 

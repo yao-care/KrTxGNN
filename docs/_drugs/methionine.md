@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Methionine"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "nuclear senile cataract", "tetanic cataract", "diabetic cataract"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Methionine: 예측 신규 적응증 여드름 (acne) (근거 수준 L5). 기존 적응증: 자양강장, 허약체질, 육체피로, 병중병후 발열성 소모성 질환, 임신ㆍ수유기 등의 영양보급"
 ---
 
@@ -48,8 +48,8 @@ Methionine은 한국에서 자양강장, 허약체질, 육체피로 등의 영�
 | 예측 신규 적응증 | 여드름 (acne) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 6건 (모두 단일 성분, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

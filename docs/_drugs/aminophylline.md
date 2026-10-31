@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 59
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Aminophylline: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에는 문서 링크만 수록)"
 monitor_inn: "AMINOPHYLLINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L4 (전임상·기전 수준의 근거) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 7건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 261
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Deoxycholic Acid: 예측 신규 적응증 상염색체 우성 가족성 혈뇨-망막 세동맥 사행-구축 증후군 (autosomal dominant familial hematuri… (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트 없음 (허가증 PDF 링크만 확인됨)"
 monitor_inn: "DEOXYCHOLIC ACID"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **상염색체 우성 가족성 혈뇨-망막 세동맥 사행-�
 | 예측 신규 적응증 | 상염색체 우성 가족성 혈뇨-망막 세동맥 사행-구축 증후군 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome) |
 | TxGNN 예측 점수 | 0.9949 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 8건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
+| 허가증 수 | 8건 (유효 8건) |
 | 권장 결정 | Hold |
 
 > 참고: 같은 약물에 대해 예측된 다른 후보로 "뇌 소혈관병 1형(안구 이상 동반 또는 비동반)"(점수 0.9949, L5, Hold)과 "당뇨병성 신증"(점수 0.9932, L4, Research Question)이 있습니다. 아래 상세 분석은 1순위 예측을 기준으로 하며, 다른 후보는 결론에서 간략히 다룹니다.

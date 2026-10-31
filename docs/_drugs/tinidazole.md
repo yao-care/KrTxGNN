@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 738
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tinidazole: 예측 신규 적응증 폐경 후 위축성 질염 (postmenopausal atrophic vaginitis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 기재되어 있어 이 보고서에서 확인하지 못했습니다. 허가사항 확인이 필요합니다"
 monitor_inn: "TINIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **폐경 후 위축성 질염(postmenopausal atrophic vaginitis)
 | 예측 신규 적응증 | 폐경 후 위축성 질염 (postmenopausal atrophic vaginitis) |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 786
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Vitamin A: 예측 신규 적응증 선천성 프로트롬빈 결핍증 (congenital prothrombin deficiency) (근거 수준 L5). 기존 적응증: 육체피로 및 체력 저하 시 비타민 A·D·E·B군·C 보급, 눈의 건조감 완화, 야맹증, 피부염·구내염 증상 완화 등"
 monitor_inn: "Vitamin A"
 predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "segmental odontomaxillary dysplasia", "florid cemento-osseous dysplasia", "perinatal disease", "disease by subcellular system affected", "radiation or chemically induced disorder"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(congenital prothrombin def
 | 예측 신규 적응증 | 선천성 프로트롬빈 결핍증 (congenital prothrombin deficiency) |
 | TxGNN 예측 점수 | 0.9997 (전체 순위 996위) |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 미시판 (취소된 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 0건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

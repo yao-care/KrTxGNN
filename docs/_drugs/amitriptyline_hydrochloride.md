@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Amitriptyline Hydrochloride에 대한 이번 Evidence Pack은 핵심 데이터�
 | 예측 신규 적응증 | 정보 없음 (predicted_indications 비어 있음) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | 해당 없음 (예측 결과 자체가 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | **Hold** |
 
 ---

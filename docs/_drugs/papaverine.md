@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Papaverine"
 predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "venous thromboembolism", "fibrocartilaginous embolism", "vascular insufficiency disorder", "angiodysplasia", "Raynaud disease", "Monckeberg arteriosclerosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Papaverine: 예측 신규 적응증 허혈성 질환 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 문서 링크만 있고 적응증 본문이 없음)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **허혈성 질환**에 효과가 있을 수 있다고 예측합
 | 예측 신규 적응증 | 허혈성 질환 |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L4 (진단·생리학 연구, 증례, 전임상 연구 수준이며 치료 효과를 입증한 시험은 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 (모두 단일성분, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

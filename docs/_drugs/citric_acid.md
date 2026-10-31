@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 217
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Citric Acid: 예측 신규 적응증 위 질환 (Stomach Disease) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트 없음 (허가 문서 링크만 확인됨)"
 monitor_inn: "citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
@@ -50,8 +50,8 @@ TxGNN 모델(딥러닝)은 **위 질환(Stomach Disease)**에 효과가 있을 �
 | 예측 신규 적응증 | 위 질환 (Stomach Disease) |
 | TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 9건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 9건) |
+| 허가증 수 | 9건 (유효 9건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

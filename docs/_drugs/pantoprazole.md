@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pantoprazole: 예측 신규 적응증 십이지장 폐색 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201208632/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **십이지장 폐색(duodenal obstruction)**에 효과가 있�
 | 예측 신규 적응증 | 십이지장 폐색 (duodenal obstruction) |
 | TxGNN 예측 점수 | 0.9921 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

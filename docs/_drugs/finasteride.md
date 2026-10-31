@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Finasteride: 예측 신규 적응증 Ambras형 전신 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 수록되어 있지 않아 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
@@ -50,7 +50,7 @@ TxGNN 모델은 **Ambras형 전신 선천성 다모증(Ambras type hypertrichosi
 | 예측 신규 적응증 | Ambras형 전신 선천성 다모증 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (1순위 기준) / L4 (2순위 다모증 기준) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

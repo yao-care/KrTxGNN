@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Clobazam"
 predicted_indications: ["perioral myoclonia with absences", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clobazam: 예측 신규 적응증 구순주위 근간대발작 동반 absence (근거 수준 L5). 기존 적응증: 이 보고서용으로 정리된 자료에는 허가 적응증 문구가 없습니다(허가증에는 식약처 문서 링크만 있음)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **구순주위 근간대발작 동반 absence(perioral myoclonia
 | 예측 신규 적응증 | 구순주위 근간대발작 동반 absence |
 | TxGNN 예측 점수 | 0.9979 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 (모두 유효, 단일성분) |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Molsidomine"
 predicted_indications: ["alopecia", "vascular disease", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "idiopathic spontaneous coronary artery dissection", "venous thoracic outlet syndrome", "visceral calciphylaxis", "neurogenic thoracic outlet syndrome", "hemangioendothelioma", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Molsidomine: 예측 신규 적응증 탈모 (근거 수준 L5). 기존 적응증: 허가 문서가 링크로만 제공되어 허가 적응증 문구를 확인하지 못했습니다. 문헌상으로는 관상동맥질환 치료제로 기술됩니다"
 ---
 
@@ -48,8 +48,8 @@ Molsidomine은 체내에서 산화질소(NO)를 방출하는 전구약물로, �
 | 예측 신규 적응증 | 탈모 |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 (모두 단일 성분제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

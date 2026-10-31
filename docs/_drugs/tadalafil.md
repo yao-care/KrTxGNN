@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 714
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tadalafil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 미확보 (허가증에는 PDF 링크만 포함되어 있어 확인 불가)"
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
@@ -50,7 +50,7 @@ TxGNN 모델은 **Ambras형 선천성 전신 다모증(Ambras type hypertrichosi
 | 예측 신규 적응증 | Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

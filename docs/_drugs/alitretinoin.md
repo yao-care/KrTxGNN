@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 40
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Alitretinoin: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가증에는 식약처 문서 링크만 수록). 참고: 해외에서는 중증 만성 수부 습진 및 카포시 육종…"
 monitor_inn: "Alitretinoin"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 | 예측 신규 적응증 | 무월경 (Amenorrhea) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 20건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 18건 / 전체 20건) |
+| 허가증 수 | 20건 (유효 18건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

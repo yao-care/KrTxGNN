@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 520
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Mirvetuximab Soravtansine: 한국의 기존 용도 및 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---
@@ -46,7 +46,8 @@ TxGNN 모델은 이 약물에 대해 점수 0.99 이상의 후보를 내지 못�
 | 새로운 예측 적응증 | 없음 (점수 0.99 이상의 모델 후보 없음) |
 | 이 약물에 기록된 기존 용도 | 3 |
 | 근거 수준 | 해당 없음 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 
 ## 이 약물에 기록된 기존 용도
 

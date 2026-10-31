@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 190
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cefoperazone: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 세균 감염증 (허가 문서 본문이 확인되지 않아 항생제 계열 기준으로 기재)"
 monitor_inn: "Cefoperazone"
 predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **경화성 담관염(Sclerosing Cholangitis)**에 효과가 있
 | 예측 신규 적응증 | 경화성 담관염 (Sclerosing Cholangitis) |
 | TxGNN 예측 점수 | 0.9998 (전체 순위 743위) |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 19건 (모두 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 18건 / 전체 19건) |
+| 허가증 수 | 19건 (유효 18건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

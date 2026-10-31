@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 208
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Chlorzoxazone: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 신경통, 요통(허리통), 어깨결림"
 monitor_inn: "Chlorzoxazone"
 predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
 | TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

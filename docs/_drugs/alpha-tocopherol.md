@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 45
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -52,7 +52,7 @@ Alpha-Tocopherol(비타민 E)은 항산화 효과가 잘 알려진 지용성 비
 | 예측 신규 적응증 | 예측 데이터 없음 |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | — (예측 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 16건) |
 | 허가증 수 | 0건 |
 | 권장 결정 | Hold |
 

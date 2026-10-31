@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "antidepressant type abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Diazepam: 예측 신규 적응증 불면증 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공되어 내용을 확인할 수 없음)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **불면증(insomnia)**에 효과가 있을 수 있다고 예측
 | 예측 신규 적응증 | 불면증 |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 8건 (모두 유효, 단일 성분제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
+| 허가증 수 | 8건 (유효 8건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

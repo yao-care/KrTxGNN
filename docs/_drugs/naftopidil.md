@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Naftopidil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 문서 링크만 제공됨)"
 monitor_inn: "NAFTOPIDIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **Ambras형 선천성 전신 다모증(Ambras type hypertrichosi
 | 예측 신규 적응증 | Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 18건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 18건 / 전체 18건) |
+| 허가증 수 | 18건 (유효 18건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

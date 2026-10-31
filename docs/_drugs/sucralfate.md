@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SUCRALFATE"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Sucralfate: 예측 신규 적응증 십이지장 폐쇄 (Duodenal Obstruction) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공됨)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **십이지장 폐쇄(Duodenal Obstruction)**에 효과가 있�
 | 예측 신규 적응증 | 십이지장 폐쇄 (Duodenal Obstruction) |
 | TxGNN 예측 점수 | 0.9930 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 (단일 성분 1건) |
+| 한국 시판 현황 | 미시판 (취소된 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 0건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

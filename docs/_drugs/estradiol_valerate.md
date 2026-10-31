@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Estradiol Valerate: 예측 신규 적응증 취약 X 증후군 여성 보인자의 증상형 (symptomatic form of fragile X syndrome in female carrier) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800966/EE"
 ---
 
@@ -48,8 +48,8 @@ Estradiol valerate는 에스트로겐 계열 호르몬제입니다. TxGNN 모델
 | 예측 신규 적응증 | 취약 X 증후군 여성 보인자의 증상형 (symptomatic form of fragile X syndrome in female carrier) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 (모두 단일 성분 제제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

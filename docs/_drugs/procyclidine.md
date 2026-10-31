@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Procyclidine"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "transaldolase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "fructose-1,6-bisphosphatase deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Procyclidine: 예측 신규 적응증 라스무센 아급성 뇌염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문을 확인할 수 없음 (허가 문서 링크만 제공됨)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 | 예측 신규 적응증 | 라스무센 아급성 뇌염 |
 | TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 (모두 단일 성분 제제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

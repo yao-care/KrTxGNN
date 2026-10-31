@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ ALVERINE CITRATE는 현재 허가 이력이 없어 기존 적응증을 확인할
 | 예측 신규 적응증 | 없음 (TxGNN 예측 부재) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 — 예측 없음, 실제 근거 없음 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 10건) |
 | 권장 결정 | **Hold** |
 
 ---

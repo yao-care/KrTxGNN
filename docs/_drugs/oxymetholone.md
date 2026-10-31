@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 571
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Oxymetholone: 예측 신규 적응증 지루성 피부염 (Seborrheic Dermatitis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 텍스트로 수록되어 있지 않음(허가 문서 링크만 확인됨). 일반적으로 적혈구 생성 부전에 의한 빈혈에…"
 monitor_inn: "OXYMETHOLONE"
 predicted_indications: ["seborrheic dermatitis"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **지루성 피부염(Seborrheic Dermatitis)**에 효과가 있�
 | 예측 신규 적응증 | 지루성 피부염 (Seborrheic Dermatitis) |
 | TxGNN 예측 점수 | 0.9905 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

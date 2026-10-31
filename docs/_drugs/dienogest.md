@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 277
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dienogest: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보가 문서 링크로만 제공되어 적응증 본문을 확인하지 못함)"
 monitor_inn: "Dienogest"
 predicted_indications: ["amenorrhea (disease)", "primary ovarian failure", "breast fibrocystic disease", "isolated growth hormone deficiency", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "hypogonadotropic hypogonadism with or without anosmia", "partial trisomy/tetrasomy of the short arm of chromosome 5", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **무월경(amenorrhea)**에 효과가 있을 수 있다고 예�
 | 예측 신규 적응증 | 무월경 (Amenorrhea) |
 | TxGNN 예측 점수 | 0.9971 |
 | 근거 수준 | L5 (기전 수준의 근거만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 7건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 ## 이 예측이 타당한 이유는?

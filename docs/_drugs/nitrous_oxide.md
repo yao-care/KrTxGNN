@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 551
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nitrous Oxide: 예측 신규 적응증 양성 전립선 비대증 (Benign Prostatic Hyperplasia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 허가사항 문서 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 의료용 마취·진통 가스…"
 monitor_inn: "NITROUS OXIDE"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **양성 전립선 비대증(Benign Prostatic Hyperplasia, BPH)*
 | 예측 신규 적응증 | 양성 전립선 비대증 (Benign Prostatic Hyperplasia) |
 | TxGNN 예측 점수 | 0.9952 |
 | 근거 수준 | L5 (모델 예측 중심, BPH 치료를 직접 뒷받침하는 연구 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 15건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 15건 / 전체 15건) |
+| 허가증 수 | 15건 (유효 15건) |
 | 권장 결정 | Hold |
 
 > 참고: 데이터 상의 근거 수준은 L4로 기재되어 있으나, 전임상·기전 연구가 확인되지 않고 모델 예측만 있으므로 판정 규칙에 따라 L5로 평가했습니다.

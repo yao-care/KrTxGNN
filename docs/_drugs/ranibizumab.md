@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "RANIBIZUMAB"
 predicted_indications: ["immature cataract", "tetanic cataract", "mature cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ranibizumab: 예측 신규 적응증 미성숙 백내장 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되지 않았습니다(허가 문서 링크만 확인됨)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **미성숙 백내장(Immature Cataract)**에 효과가 있을 �
 | 예측 신규 적응증 | 미성숙 백내장 |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 6건 (모두 단일 성분 제제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

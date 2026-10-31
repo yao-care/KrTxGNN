@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PREDNISOLONE ACETATE"
 predicted_indications: ["chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Prednisolone Acetate: 예측 신규 적응증 만성 여포성 결막염 (근거 수준 L5). 기존 적응증: 치열·치핵의 아픔, 가려움, 부종(부기)…"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **만성 여포성 결막염(chronic follicular conjunctivitis)*
 | 예측 신규 적응증 | 만성 여포성 결막염 |
 | TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 허가 16건 (모두 단일 성분, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 16건 / 전체 16건) |
+| 허가증 수 | 16건 (유효 16건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

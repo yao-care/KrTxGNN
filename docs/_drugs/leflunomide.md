@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 465
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Leflunomide: 예측 신규 적응증 단지증-합지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가증 링크만 제공됨)"
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -48,8 +48,8 @@ Leflunomide는 한국에서 단일제 정제로 19건이 허가·시판 중인 �
 | 예측 신규 적응증 | 단지증-합지증 증후군 (brachydactyly-syndactyly syndrome) |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 19건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 19건 / 전체 19건) |
+| 허가증 수 | 19건 (유효 19건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

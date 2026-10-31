@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 747
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Topiramate: 예측 신규 적응증 삼차신경 종양 (Trigeminal Nerve Neoplasm) (근거 수준 L5). 기존 적응증: 항경련제(뇌전증 등). 허가 본문은 확인되지 않았고 허가 문서 링크만 확인됨"
 monitor_inn: "TOPIRAMATE"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **삼차신경 종양(Trigeminal Nerve Neoplasm)**에 효과가 
 | 예측 신규 적응증 | 삼차신경 종양 (Trigeminal Nerve Neoplasm) |
 | TxGNN 예측 점수 | 0.9970 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 20건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 

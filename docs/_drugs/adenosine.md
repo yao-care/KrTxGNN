@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Adenosine: 예측 신규 적응증 각차단 (obsolete bundle branch block) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 제공되어 본문 확인 불가 (한국 허가증 참조 필요)"
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **각차단(Bundle Branch Block, 현재는 폐기된 용어로 �
 | 예측 신규 적응증 | 각차단 (obsolete bundle branch block) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 (모두 유효, 단일제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

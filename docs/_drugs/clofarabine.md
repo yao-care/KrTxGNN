@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 225
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clofarabine: 예측 신규 적응증 골수성 백혈병 (Myeloid Leukemia) (근거 수준 L2). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요)"
 monitor_inn: "CLOFARABINE"
 predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **골수성 백혈병(Myeloid Leukemia)**에 효과가 있을 �
 | 예측 신규 적응증 | 골수성 백혈병 (Myeloid Leukemia) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L1 (완료된 Phase 3 RCT 2건: NCT02085408, NCT00317642) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Proceed with Guardrails |
 
 > 참고: 기존 적응증 본문이 데이터에 없어, 근거 문헌에 기재된 해외 승인 적응증(소아 재발·불응성 급성 림프모구성 백혈병)을 참고 정보로만 활용했습니다. 한국 허가 적응증은 허가사항에서 확인해야 합니다.

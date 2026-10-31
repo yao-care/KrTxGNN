@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "eosinophilic angiocentric fibrosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ribavirin: 예측 신규 적응증 만성 B형 간염 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트 없이 원문 링크만 제공됨)"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **만성 B형 간염(chronic hepatitis B virus infection)**에 �
 | 예측 신규 적응증 | 만성 B형 간염 |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L2 (B형 간염을 직접 다룬 완료된 Phase 3 시험 1건, Phase 2/3 파일럿 1건) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 20건 (모두 단일성분, 유효 상태) |
+| 한국 시판 현황 | 시판 중 (유효 허가 20건 / 전체 20건) |
+| 허가증 수 | 20건 (유효 20건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

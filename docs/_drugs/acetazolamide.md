@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 19
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Acetazolamide: 예측 신규 적응증 운동 유발성 악성 고열증 (exercise-induced malignant hyperthermia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가 문서 링크만 제공됨)"
 monitor_inn: "Acetazolamide"
 predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
@@ -48,8 +48,8 @@ Acetazolamide는 한국에서 주사제와 정제로 허가·시판 중인 탄�
 | 예측 신규 적응증 | 운동 유발성 악성 고열증 (exercise-induced malignant hyperthermia) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

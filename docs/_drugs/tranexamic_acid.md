@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 752
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tranexamic Acid: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 기미"
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
@@ -50,7 +50,7 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 | 예측 신규 적응증 | 무월경 (Amenorrhea) |
 | TxGNN 예측 점수 | 0.9919 |
 | 근거 수준 | L5 (모델 예측 위주, 직접적인 임상 연구 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

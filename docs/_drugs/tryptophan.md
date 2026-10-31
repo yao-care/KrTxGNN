@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 770
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tryptophan: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L3). 기존 적응증: 자양강장, 허약체질, 육체피로, 병중병후, 위장장해, 영양장해, 발열성소모성질환, 임신수유기 등의 영양보급"
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 | 예측 신규 적응증 | 하지불안증후군 (Restless Legs Syndrome) |
 | TxGNN 예측 점수 | 0.9972 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 > 참고: 이번 데이터에는 예측 순위 8개가 포함되어 있습니다. 이 보고서는 순위 1위인 하지불안증후군을 중심으로 작성했으며, 다른 예측 적응증은 결론에서 간단히 언급합니다.

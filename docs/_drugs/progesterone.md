@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Progesterone: 예측 신규 적응증 무월경 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았고 허가사항 문서 링크만 있어 허가사항 원문 확인이 필요합니다"
 ---
 
@@ -48,8 +48,8 @@ description: "Progesterone: 예측 신규 적응증 무월경 (근거 수준 L5)
 | 예측 신규 적응증 | 무월경 |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L2 (잠정): 완료된 Phase 3 임상시험이 있으나 프로게스테론 자체를 평가한 시험은 아닙니다 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 7건 (모두 단일 성분 제제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

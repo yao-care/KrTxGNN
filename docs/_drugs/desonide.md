@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desonide"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Desonide: 예측 신규 적응증 성대 용종 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 문서 링크만 있고 본문 텍스트가 없음)"
 ---
 
@@ -48,8 +48,8 @@ Desonide는 한국에서 크림과 로션 형태의 외용제로 허가된 저�
 | 예측 신규 적응증 | 성대 용종 |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 16건 (모두 단일 성분 제제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 15건 / 전체 16건) |
+| 허가증 수 | 16건 (유효 15건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

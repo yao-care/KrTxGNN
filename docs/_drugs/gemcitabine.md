@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Gemcitabine: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공되어 내용 미확인)"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 | 예측 신규 적응증 | 직장 점액성 선암 |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

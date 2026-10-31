@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 124
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Bambuterol Hydrochloride는 terbutaline의 전구약물(prodrug)로, 베타-2 �
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 없음) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | **Hold** |
 
 ---

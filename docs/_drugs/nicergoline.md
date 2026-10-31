@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 543
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nicergoline: 예측 신규 적응증 1순위: 다모증 (Hypertrichosis) / 근거 기준 가장 유망: 편두통 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보가 문서 링크로만 제공됨)"
 monitor_inn: "NICERGOLINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "benign prostatic hyperplasia (disease)", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
@@ -49,7 +49,7 @@ TxGNN 모델의 최상위 예측은 **다모증(Hypertrichosis)**이지만 이�
 | 예측 신규 적응증 | 1순위: 다모증 (Hypertrichosis) / 근거 기준 가장 유망: 편두통 (Migraine disorder, 8순위) |
 | TxGNN 예측 점수 | 1순위 다모증 0.9957 / 편두통 0.9912 |
 | 근거 수준 | 다모증 L5 / 편두통 L4 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold (다모증). 편두통은 추가 연구 과제 |
 

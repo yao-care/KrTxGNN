@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lidocaine: 예측 신규 적응증 점상 상피성 각결막염 (근거 수준 L5). 기존 적응증: 남성 성기 촉각의 예민성 감소 (그 외 접촉피부염 가려움, 치열·치핵 증상 완화 등)"
 ---
 
@@ -48,7 +48,7 @@ Lidocaine은 나트륨 채널 차단 작용을 가진 국소마취제로, 한국
 | 예측 신규 적응증 | 점상 상피성 각결막염 |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 85
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Aripiprazole: 예측 신규 적응증 주요 우울장애 (major affective disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크 형태로만 제공되어 확인 불가 (허가사항 참조 필요)"
 monitor_inn: "ARIPIPRAZOLE"
 predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
@@ -48,7 +48,7 @@ Aripiprazole은 D2/5-HT1A 부분 작용제이자 5-HT2A 길항제로, 한국에�
 | 예측 신규 적응증 | 주요 우울장애 (major affective disorder) |
 | TxGNN 예측 점수 | 0.9962 |
 | 근거 수준 | L5 (완료된 Phase 3 RCT 다수) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Proceed with Guardrails |
 

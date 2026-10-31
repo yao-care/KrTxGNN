@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lamotrigine: 예측 신규 적응증 삼차신경 종양 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 뇌전증(항경련 치료). 허가증에는 적응증 본문 없이 원문 링크만 있어 허가 문구는 확인하지 못했습니다"
 monitor_inn: "LAMOTRIGINE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **삼차신경 종양(trigeminal nerve neoplasm)**에 효과가 
 | 예측 신규 적응증 | 삼차신경 종양 (trigeminal nerve neoplasm) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 20건 (모두 단일제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 20건 / 전체 20건) |
+| 허가증 수 | 20건 (유효 20건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

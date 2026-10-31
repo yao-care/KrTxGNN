@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Camphor: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 삠, 타박, 근육통, 골절통, 어깨결림, 동상, 관절통, 허리통, 근육피로의 진통·소염"
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
 | TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L5 (임상시험 없음, 모델 예측과 간접 문헌만 존재. 편두통 관련 동물 연구는 5순위 예측 항목에서 확인됨) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 16건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 14건 / 전체 16건) |
+| 허가증 수 | 16건 (유효 14건) |
 | 권장 결정 | Hold (추가 기초·전임상 근거 확보 시 연구 과제로 검토) |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 306
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Emicizumab: 예측 신규 적응증 가성 폰빌레브란트병 (pseudo-von Willebrand disease) — 1순위 예측 (근거 수준 L2). 기존 적응증: 허가증에는 적응증 원문 대신 허가 문서 링크만 기재되어 있어 구체적인 적응증 문구를 확인할 수 없습니다 (혈우병 A 예방요법…"
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
@@ -49,8 +49,8 @@ TxGNN 모델은 여러 출혈성 질환에 효과가 있을 것으로 예측했�
 | 예측 신규 적응증 | 가성 폰빌레브란트병 (pseudo-von Willebrand disease) — 1순위 예측 |
 | TxGNN 예측 점수 | 0.9999 (1순위 기준) |
 | 근거 수준 | 1순위: L5 / 근거가 가장 풍부한 후보(후천성 응고인자 결핍증): L2 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | 1순위 예측: Hold / 후천성 응고인자 결핍증(후천성 혈우병 A): Proceed with Guardrails |
 
 > **참고:** TxGNN 점수 순위 1위인 가성 폰빌레브란트병은 임상시험과 문헌이 전혀 없습니다. 반면 5순위인 후천성 응고인자 결핍증은 점수(0.9990)는 낮지만 실질적 근거가 가장 풍부하므로, 이 보고서는 두 후보를 함께 평가합니다.

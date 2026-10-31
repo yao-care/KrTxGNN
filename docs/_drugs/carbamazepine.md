@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Carbamazepine: 예측 신규 적응증 삼차신경 신생물 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 데이터에 없고 허가 문서 링크만 제공됨)"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **삼차신경 신생물**에 효과가 있을 수 있다고 예
 | 예측 신규 적응증 | 삼차신경 신생물 |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 13건 (모두 단일 성분 제제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 13건 / 전체 13건) |
+| 허가증 수 | 13건 (유효 13건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

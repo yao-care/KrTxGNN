@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Medroxyprogesterone Acetate: 예측 신규 적응증 무월경 (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 수록되어 있음)"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **무월경(amenorrhea)**에 효과가 있을 수 있다고 예�
 | 예측 신규 적응증 | 무월경 |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 (모두 단일제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

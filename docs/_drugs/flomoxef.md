@@ -3,7 +3,7 @@ layout: default
 title: Flomoxef
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 350
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Flomoxef: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -43,7 +43,8 @@ TxGNN 딥러닝 모델은 Flomoxef에 대해 점수 0.99 이상인 후보 적응
 ## 한눈에 보기
 | 항목 | 내용 |
 |------|------|
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 새로운 예측 적응증 | 없음 (점수 0.99 이상인 모델 후보 없음) |
 | 이 약물에 기록된 알려진 용도 | 0 |
 | 대한민국 내 시장 현황 | Unknown (source lacks cancellation status) |

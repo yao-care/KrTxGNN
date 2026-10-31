@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ebastine: 예측 신규 적응증 관상동맥질환 (Coronary Artery Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증 링크만 확보)"
 monitor_inn: "EBASTINE"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **관상동맥질환(Coronary Artery Disease)**에 효과가 있
 | 예측 신규 적응증 | 관상동맥질환 (Coronary Artery Disease) |
 | TxGNN 예측 점수 | 0.9918 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 9건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 9건) |
+| 허가증 수 | 9건 (유효 9건) |
 | 권장 결정 | Hold |
 
 참고로 두 번째 예측 적응증은 심근허혈(Myocardial Ischemia, 예측 점수 0.9910)이며, 마찬가지로 L5 수준으로 Hold 권고입니다.

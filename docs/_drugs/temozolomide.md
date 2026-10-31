@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TEMOZOLOMIDE"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Temozolomide: 예측 신규 적응증 마미총 종양 (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 문서 링크만 수록)"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **마미총 종양(Cauda Equina Neoplasm)**에 효과가 있을 
 | 예측 신규 적응증 | 마미총 종양 |
 | TxGNN 예측 점수 | 0.9930 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 9건 (유효 단일성분 9건, 취소 0건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 9건) |
+| 허가증 수 | 9건 (유효 9건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

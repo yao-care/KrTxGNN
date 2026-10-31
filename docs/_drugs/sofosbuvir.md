@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 698
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L5). 기존 적응증: 한국 허가 적응증(C형 간염) — 허가 문서 링크만 확인되며 본문 텍스트는 확보되지 않음"
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **B형 간염 바이러스 감염(hepatitis B virus infection)**
 | 예측 신규 적응증 | B형 간염 바이러스 감염 (hepatitis B virus infection) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L2 (이 예측 후보에 대한 평가 결과. 단, 아래 설명처럼 HBV 효능 근거는 간접적이므로 해석에 주의) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 2건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 47
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Alprazolam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 불안 관련 질환(허가증 문서 링크만 확인되어 적응증 본문은 확인하지 못함)"
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -48,7 +48,7 @@ Alprazolam은 벤조디아제핀계 약물로, 불안·공황 증상 치료에 �
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 0.9981 |
 | 근거 수준 | L4 (기전적 타당성만 있고 직접적 임상 근거 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 

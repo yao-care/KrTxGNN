@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 670
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -56,8 +56,8 @@ DrugBank ID·작용 기전·안전성 데이터가 모두 부재하여 **정식 
 | 예측 신규 적응증 | 해당 없음 — TxGNN 예측 결과 없음 |
 | TxGNN 예측 점수 | N/A |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | **Hold** |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Haloperidol: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 없음(허가증에는 허가사항 문서 링크만 있음)"
 ---
 
@@ -48,8 +48,8 @@ Haloperidol은 도파민 D2 수용체를 차단하는 약물로, 한국에서 �
 | 예측 신규 적응증 | 푸코실화 결함을 동반한 선천성 당화 이상증 |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 12건(모두 단일 성분제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 12건) |
+| 허가증 수 | 12건 (유효 12건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

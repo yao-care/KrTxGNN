@@ -5,7 +5,7 @@ layout: default
 title: Cefodizime
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 189
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cefodizime: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Cefodizime"
 predicted_indications: []
@@ -43,8 +43,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199900501/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800693/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711621/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711651/EE |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 (모두 유효, 단일제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 3건) |
 
 ## 한국 시판 정보
 

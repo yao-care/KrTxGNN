@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Atosiban: 예측 신규 적응증 원발성 유전성 녹내장 (primary hereditary glaucoma) (근거 수준 L5). 기존 적응증: 조기진통 시 분만 지연(tocolysis). 허가증에는 적응증 본문 대신 허가 문서 링크만 제공되어 있어…"
 monitor_inn: "Atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **원발성 유전성 녹내장(primary hereditary glaucoma)**�
 | 예측 신규 적응증 | 원발성 유전성 녹내장 (primary hereditary glaucoma) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

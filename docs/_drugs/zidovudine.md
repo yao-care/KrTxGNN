@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Zidovudine: 예측 신규 적응증 원숭이면역결핍바이러스 감염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가증에는 문서 링크만 있음)"
 ---
 
@@ -50,8 +50,8 @@ SIV 감염은 동물 모델 질환이므로 새로운 인체 적응증이라기�
 | 예측 신규 적응증 | 원숭이면역결핍바이러스 감염 |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 (모두 단일성분, 유효, 수출용) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 근거 수준 설명: 인용된 문헌은 모두 원숭이 동물실험, 시험관 연구, 총설입니다. 예측 질환인 SIV 감염을 직접 다룬 연구는 있으나 이는 인체 질환이 아닌 동물 모델 연구이고 임상시험은 없습니다. 이번 데이터에서 자동 산정된 L3(관찰 연구 또는 체계적 문헌고찰)에 해당하는 연구는 확인되지 않아 보수적으로 L5로 판정했습니다.

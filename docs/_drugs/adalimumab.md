@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ADALIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Adalimumab: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402438/EE"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **꼬리뼈 과가동성 (hypermobility of coccyx)**에 효과�
 | 예측 신규 적응증 | 꼬리뼈 과가동성 (hypermobility of coccyx) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 19건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 19건 / 전체 19건) |
+| 허가증 수 | 19건 (유효 19건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

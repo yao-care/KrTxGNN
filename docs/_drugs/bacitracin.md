@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bacitracin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 경미한 베인 상처, 긁힌 상처, 화상의 감염 방지"
 monitor_inn: "Bacitracin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "infective urethral stricture", "post-infectious syndrome", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **점상 상피성 각결막염(punctate epithelial keratoconjun
 | 예측 신규 적응증 | 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 8건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
+| 허가증 수 | 8건 (유효 8건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

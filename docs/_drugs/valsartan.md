@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 777
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 description: "Valsartan: 예측 신규 적응증 Malignant hypertensive renal disease (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404025/EE"
@@ -48,7 +48,7 @@ Valsartan은 안지오텐신 II 제1형 수용체(AT1R)를 차단하는 약물�
 | 예측 신규 적응증 | Malignant hypertensive renal disease |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L4 (전임상 연구만 존재) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

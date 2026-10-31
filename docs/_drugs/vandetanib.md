@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 778
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Vandetanib: 예측 신규 적응증 신세포암 (Renal Cell Carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인 불가 (허가사항 문서 링크만 제공됨)"
 monitor_inn: "Vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
@@ -48,8 +48,8 @@ Vandetanib은 VEGFR-2, EGFR, RET 티로신 키나제를 억제하는 경구 항�
 | 예측 신규 적응증 | 신세포암 (Renal Cell Carcinoma) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L2 (3상 근거 없음, 완료된 2상 시험이 있으나 소규모·단일군 또는 간접적 모집단) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold (연구 질문 단계로 추가 근거 필요) |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Docetaxel: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001267/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **유잉 육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 유잉 육종 (Ewing sarcoma) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 6건 (모두 유효, 단일제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

@@ -3,7 +3,7 @@ layout: default
 title: Obinutuzumab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 557
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Obinutuzumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -43,7 +43,8 @@ TxGNN 딥러닝 모델이 Obinutuzumab에 대해 제시한 후보(점수 0.99 �
 ## 한눈에 보기
 | 항목 | 내용 |
 |------|------|
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 새로 예측된 적응증 | 없음 (출처를 추적할 수 있는 모든 모델 후보가 알려진 용도임) |
 | 모델 후보 중 알려진 용도 | 2 |
 | 대한민국 시장 현황 | Unknown (source lacks cancellation status) |

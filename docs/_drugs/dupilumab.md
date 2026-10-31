@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "DUPILUMAB"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dupilumab: 예측 신규 적응증 기관지염 (bronchitis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202110/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 �
 | 예측 신규 적응증 | 기관지염 (bronchitis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

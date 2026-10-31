@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 206
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Chlorprothixene: 예측 신규 적응증 망막 이영양증 (retinal dystrophy with or without extraocular anomalies) (근거 수준 L5). 기존 적응증: 항정신병약(정신병 치료). 허가 적응증 문구는 허가증 문서 링크로만 제공되어 세부 내용을 확인하지 못했습니다"
 monitor_inn: "CHLORPROTHIXENE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "myopia X-linked", "syndromic myopia", "manic bipolar affective disorder"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **망막 이영양증(안구 외 이상 동반 또는 비동반)
 | 예측 신규 적응증 | 망막 이영양증 (retinal dystrophy with or without extraocular anomalies) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 (모델 예측만 존재) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dasatinib: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606317/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **유잉 육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 유잉 육종 (Ewing sarcoma) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 10건 (모두 유효, 단일 성분) |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 9건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

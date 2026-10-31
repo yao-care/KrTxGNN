@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 457
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lanadelumab: 예측 신규 적응증 C1 억제제 결핍증 (C1 inhibitor deficiency) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 MFDS 문서 링크만 수록되어 있어 구체적 문구 확인 불가 (유전성 혈관부종 발작 예방으로 알려져…"
 monitor_inn: "Lanadelumab"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **C1 억제제 결핍증(C1 inhibitor deficiency)**에 효과가
 | 예측 신규 적응증 | C1 억제제 결핍증 (C1 inhibitor deficiency) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L1 (데이터 기준 판정, 아래 참고) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Proceed with Guardrails |
 
 > **근거 수준 참고:** 완료된 Phase 3 시험은 3건(NCT05460325, NCT04070326, NCT04180163)이나 모두 소규모 단일군 공개 시험입니다. 무작위 대조 시험(RCT)으로는 JAMA 2018 HELP 연구가 있어 L1로 판정되었지만, 엄밀히는 RCT 기준의 L1보다 근거 설계가 약한 부분이 있습니다.

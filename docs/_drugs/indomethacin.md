@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Indomethacin: 예측 신규 적응증 브라키닥틸리-합지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 이 약은 퇴행성 관절염(골관절염), 어깨관절주위염, 건(힘줄)•건초염(힘줄윤활막염), 건주위염…"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **브라키닥틸리-합지증 증후군(brachydactyly-syndactyl
 | 예측 신규 적응증 | 브라키닥틸리-합지증 증후군 (brachydactyly-syndactyly syndrome) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 10건 (단일 성분 제제 10건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 9건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

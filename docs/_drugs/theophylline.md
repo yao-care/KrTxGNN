@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "THEOPHYLLINE"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Theophylline: 예측 신규 적응증 혈전성 질환 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 문서 링크만 있고 구체적 문구 없음)"
 ---
 
@@ -48,8 +48,8 @@ Theophylline은 한국에서 건조시럽 단일제로 허가된 약물입니다
 | 예측 신규 적응증 | 혈전성 질환 |
 | TxGNN 예측 점수 | 0.9962 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 (단일제 2건, 모두 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

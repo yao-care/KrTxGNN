@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 529
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Morphine: 예측 신규 적응증 근막통증증후군 (Myofascial Pain Syndrome) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적 내용을 확인할 수 없음"
 monitor_inn: "morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
@@ -50,8 +50,8 @@ TxGNN 모델은 여러 질환 중 **근막통증증후군(Myofascial Pain Syndro
 | TxGNN 예측 점수 | 0.9975 |
 | 근거 수준 (1순위) | L4 |
 | 근거가 가장 충실한 후보 | 하지불안증후군 (점수 0.9947, 근거 수준 L3) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 18건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 18건 / 전체 18건) |
+| 허가증 수 | 18건 (유효 18건) |
 | 권장 결정 | Hold (전체) / 하지불안증후군은 불응성 환자 대상 연구 과제로 검토 |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 621
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pranlukast: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되어 구체적 문구 확인 불가 (허가사항 참조)"
 monitor_inn: "pranlukast"
 predicted_indications: ["bronchitis"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **기관지염(Bronchitis)**에 효과가 있을 수 있다고 �
 | 예측 신규 적응증 | 기관지염 (Bronchitis) |
 | TxGNN 예측 점수 | 0.9969 |
 | 근거 수준 | L4 (전임상·기전 연구 수준) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 20건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 19건 / 전체 20건) |
+| 허가증 수 | 20건 (유효 19건) |
 | 권장 결정 | Hold (추가 연구 필요) |
 
 ## 이 예측이 타당한 이유는?

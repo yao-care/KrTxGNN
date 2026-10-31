@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Brigatinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번에 확보한 데이터에 없고 허가증 문서 링크만 있습니다. 근거 문헌 기준으로는 ALK 양성 비소세포폐암…"
 monitor_inn: "BRIGATINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -48,8 +48,8 @@ Brigatinib(한국 제품명 알룬브릭)은 ALK 양성 비소세포폐암 치�
 | 예측 신규 적응증 | 치은 섬유종증 (fibromatosis, gingival) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "NIZATIDINE"
 predicted_indications: ["duodenal obstruction", "multiple endocrine neoplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nizatidine: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403769/EE"
 ---
 
@@ -48,7 +48,7 @@ Nizatidine은 위산 분비를 억제하는 H2 수용체 길항제 계열의 약
 | 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 20건 (단일제, 모두 유효). 일부 기록만 포함되었을 수 있어 목록이 불완전할 수 있습니다. |
 | 권장 결정 | Hold |
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Imipenem: 예측 신규 적응증 전신 피부경화증 (Diffuse scleroderma) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 문서 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 PDF 참조)"
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
@@ -51,8 +51,8 @@ Imipenem은 카바페넴계 광범위 베타락탐 항생제로, 한국에서 �
 | TxGNN 예측 점수 (1순위) | 0.9999 |
 | 근거 수준 (1순위) | L5 (모델 예측만 있음) |
 | 근거가 가장 풍부한 후보 | 황색포도알균 감염 (TxGNN 0.9995, 임상시험 2건, 근거 수준 L2 판정) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | 1순위(전신 피부경화증): Hold / 황색포도알균 감염: Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

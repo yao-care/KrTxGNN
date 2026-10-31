@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 706
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Sulfamethoxazole: 예측 신규 적응증 급성 전염성 결막염 (Acute Contagious Conjunctivitis) (근거 수준 L5). 기존 적응증: 결막염(유행성 안염), 다래끼, 안검염(눈꺼풀의 짓무름), 눈의 가려움증"
 monitor_inn: "SULFAMETHOXAZOLE"
 predicted_indications: ["acute contagious conjunctivitis"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **급성 전염성 결막염(Acute Contagious Conjunctivitis)**�
 | 예측 신규 적응증 | 급성 전염성 결막염 (Acute Contagious Conjunctivitis) |
 | TxGNN 예측 점수 | 0.9963 |
 | 근거 수준 | L5 (모델 예측 중심, 직접 효능을 검증한 연구 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 15건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 15건 / 전체 15건) |
+| 허가증 수 | 15건 (유효 15건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

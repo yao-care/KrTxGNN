@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 144
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bevacizumab: 예측 신규 적응증 후두개 종양 (Epiglottis Neoplasm) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 제공되어 본문은 확인하지 못했습니다. 허가 원문 확인이 필요합니다"
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **후두개 종양(Epiglottis Neoplasm)**에 효과가 있을 �
 | 예측 신규 적응증 | 후두개 종양 (Epiglottis Neoplasm) |
 | TxGNN 예측 점수 | 0.9990 (전체 순위 2,682위) |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 (모두 유효, 단일제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

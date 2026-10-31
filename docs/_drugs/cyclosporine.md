@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 242
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cyclosporine: 예측 신규 적응증 만성 육아종성 질환, 상염색체 열성 (근거 수준 L4). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없습니다 (이식 면역억제 및 안과용…"
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **만성 육아종성 질환, 상염색체 열성(Chronic Granul
 | 예측 신규 적응증 | 만성 육아종성 질환, 상염색체 열성 (Chronic Granulomatous Disease) |
 | TxGNN 예측 점수 | 0.9968 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

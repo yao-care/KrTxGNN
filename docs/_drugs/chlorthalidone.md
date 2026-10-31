@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 207
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Chlorthalidone: 예측 신규 적응증 원발성 유전성 녹내장 (Primary hereditary glaucoma) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문이 없음. 일반적으로 고혈압·부종 치료제)"
 monitor_inn: "CHLORTHALIDONE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "congenital hypotrichosis milia"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **원발성 유전성 녹내장(Primary hereditary glaucoma)**�
 | 예측 신규 적응증 | 원발성 유전성 녹내장 (Primary hereditary glaucoma) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 665
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -64,8 +64,8 @@ Rokitamycin(DB13409)은 DrugBank에 등재된 약물이나, 현재 Evidence Pack
 | 예측 신규 적응증 | 데이터 없음 (TxGNN 예측 미실행 또는 결과 없음) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | 평가 불가 (L5 미만 — 모델 예측 자체 부재) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | **Hold** |
 
 ---

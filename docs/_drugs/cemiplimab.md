@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cemiplimab: 예측 신규 적응증 담낭 선편평상피암 (gallbladder adenosquamous carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 있어 본문을 확인할 수 없습니다. 참고로 약리학 자료에는 피부 편평…"
 monitor_inn: "Cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
@@ -38,7 +38,7 @@ predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogen
 
 ## 한 문장 요약
 
-Cemiplimab은 항 PD-1 항체로, 한국에서는 리브타요주로 허가되어 시판 중입니다. TxGNN 모델은 **담낭 선편평상피암(gallbladder adenosquamous carcinoma)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다. 따라서 모델 예측만 있는 단계입니다.
+Cemiplimab은 항 PD-1 항체로, 한국에서는 리브타요주로 허가되었으나 현재 유효한 허가는 없습니다. TxGNN 모델은 **담낭 선편평상피암(gallbladder adenosquamous carcinoma)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다. 따라서 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
@@ -48,8 +48,8 @@ Cemiplimab은 항 PD-1 항체로, 한국에서는 리브타요주로 허가되�
 | 예측 신규 적응증 | 담낭 선편평상피암 (gallbladder adenosquamous carcinoma) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 미시판 (취소된 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 0건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

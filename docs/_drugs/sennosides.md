@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 689
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Sennosides: 예측 신규 적응증 두피 단순 저모발증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 변비와 변비에 동반하는 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질 증상의 완화"
 monitor_inn: "sennosides"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **두피 단순 저모발증(hypotrichosis simplex of the scalp)
 | 예측 신규 적응증 | 두피 단순 저모발증 (hypotrichosis simplex of the scalp) |
 | TxGNN 예측 점수 | 0.9929 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

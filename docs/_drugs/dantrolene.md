@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "dantrolene"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dantrolene: 예측 신규 적응증 중등도 손 침범을 동반한 다중미세코어병 (moderate multiminicore disease with hand involvement) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199903365/EE"
 ---
 
@@ -48,8 +48,8 @@ Dantrolene은 국내에서 단일 성분 캡슐제로 허가된 약물입니다.
 | 예측 신규 적응증 | 중등도 손 침범을 동반한 다중미세코어병 (moderate multiminicore disease with hand involvement) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

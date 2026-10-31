@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 392
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glycyrrhizic Acid: 예측 신규 적응증 다발성 내분비 종양 (multiple endocrine neoplasia) (근거 수준 L5). 기존 적응증: 감기의 여러 증상(콧물, 코막힘, 재채기, 인후통, 오한, 발열, 두통, 관절통, 근육통) 완화"
 monitor_inn: "Glycyrrhizic acid"
 predicted_indications: ["multiple endocrine neoplasia"]
@@ -48,7 +48,7 @@ Glycyrrhizic acid(감초의 주성분)는 국내에서 주로 감기 증상 완�
 | 예측 신규 적응증 | 다발성 내분비 종양 (multiple endocrine neoplasia) |
 | TxGNN 예측 점수 | 0.9928 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 20건 (모두 유효, 단일 성분 분류) |
 | 권장 결정 | Hold |
 

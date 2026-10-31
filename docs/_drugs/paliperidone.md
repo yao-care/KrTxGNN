@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 575
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Paliperidone: 예측 신규 적응증 망막이영양증 (retinal dystrophy with or without extraocular anomalies) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가 문서 링크만 수록되어 있어 원문은 확인하지 못했습니다. 일반적으로 알려진 적응증은 조현병입니다"
 monitor_inn: "PALIPERIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **유전성 망막이영양증(retinal dystrophy with or without
 | 예측 신규 적응증 | 망막이영양증 (retinal dystrophy with or without extraocular anomalies) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 6건 (모두 단일제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

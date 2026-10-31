@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 477
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lindane: 예측 신규 적응증 경부 신경모세포종 (Cervical Neuroblastoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 기재되어 있지 않고 문서 링크만 제공되어 확인할 수 없음 (일반적으로 옴·이 등 외부 기생충 감염에…"
 monitor_inn: "Lindane"
 predicted_indications: ["cervical neuroblastoma", "benign neoplasm of tongue", "epiglottis neoplasm", "odontogenic cyst", "pre-malignant neoplasm", "benign neoplasm of hypopharynx", "schwannoma of jugular foramen", "cystic neoplasm", "benign neoplasm of buccal mucosa", "inner ear neoplasm"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **경부 신경모세포종(Cervical Neuroblastoma)**에 효과�
 | 예측 신규 적응증 | 경부 신경모세포종 (Cervical Neuroblastoma) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 미시판 (취소된 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 0건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -54,8 +54,8 @@ Abciximab(DrugBank ID: DB00054)은 한국에 허가된 이력이 없는 약물�
 | 예측 신규 적응증 | 예측 결과 없음 |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ---
@@ -82,7 +82,7 @@ TxGNN 예측 적응증이 없고, 기존 적응증·작용 기전(MOA)·안전�
 **진행하려면 필요한 것:**
 - TxGNN 예측 파이프라인 실행 및 `predicted_indications` 데이터 생성
 - DrugBank API에서 기존 적응증·작용 기전(MOA) 보완 (DG002, High)
-- 한국 허가사항(경고, 금기) 확인 — 현재 미시판이므로 원산지국 허가사항(ReoPro 미국/유럽 SmPC) 대체 적용 검토 (DG001, Blocking)
+- 한국 허가사항(경고, 금기) 확인 (DG001, Blocking)
 - 위 데이터 수집 후 Evidence Pack v5 이상으로 재생성하여 본 평가 재개
 ## 면책 조항
 

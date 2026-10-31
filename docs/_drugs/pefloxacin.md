@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pefloxacin: 예측 신규 적응증 심장 전도 질환 (heart conduction disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않음 (허가사항 PDF 링크만 제공됨)"
 monitor_inn: "pefloxacin"
 predicted_indications: ["heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum", "pericardium disease", "myocardial rupture", "carcinoid heart disease", "heart aneurysm", "cardiac anomalies-heterotaxy syndrome", "cor biloculare"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **심장 전도 질환(heart conduction disease)**에 효과가 
 | 예측 신규 적응증 | 심장 전도 질환 (heart conduction disease) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

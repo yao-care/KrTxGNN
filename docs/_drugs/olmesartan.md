@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 562
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Olmesartan: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 원문 대신 허가문서 링크만 수록되어 있어 구체적인 문구를 확인할 수 없습니다. 제품 구성상 고혈압 치료제(…"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
@@ -48,7 +48,7 @@ Olmesartan은 안지오텐신 II 수용체 차단제(ARB)로, 한국에서는 �
 | 예측 신규 적응증 | 프린츠메탈 협심증 (Prinzmetal angina) |
 | TxGNN 예측 점수 | 0.9984 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

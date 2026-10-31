@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FAMOTIDINE"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Famotidine: 예측 신규 적응증 십이지장 폐색 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700535/EE"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **십이지장 폐색(duodenal obstruction)**에 효과가 있�
 | 예측 신규 적응증 | 십이지장 폐색 (duodenal obstruction) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 최소 20건 (목록은 일부일 수 있음) |
 | 권장 결정 | Hold |
 

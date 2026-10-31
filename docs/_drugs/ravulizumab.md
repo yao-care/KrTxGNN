@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 646
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ravulizumab: 예측 신규 적응증 G6PC3 결핍에 의한 상염색체 열성 중증 선천성 호중구감소증 (autosomal recessive severe congen… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 링크로만 제공되어 구체적인 질환명을 확인할 수 없습니다"
 monitor_inn: "Ravulizumab"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **G6PC3 결핍에 의한 상염색체 열성 중증 선천성 �
 | 예측 신규 적응증 | G6PC3 결핍에 의한 상염색체 열성 중증 선천성 호중구감소증 (autosomal recessive severe congenital neutropenia due to G6PC3 deficiency) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

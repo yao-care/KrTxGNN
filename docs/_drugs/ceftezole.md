@@ -5,7 +5,7 @@ layout: default
 title: Ceftezole
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 197
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ceftezole: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Ceftezole"
 predicted_indications: []
@@ -43,8 +43,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402995/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308077/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200102261/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402996/EE |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 
 ## 한국 시판 정보
 

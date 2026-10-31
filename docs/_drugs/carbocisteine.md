@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Carbocisteine: 예측 신규 적응증 통풍 (Gout) (근거 수준 L5). 기존 적응증: 급·만성기관지염, 기관지천식, 기관지확장증, 인두염의 객담(가래) 배출곤란 및 만성부비동염의 배농"
 monitor_inn: "CARBOCISTEINE"
 predicted_indications: ["gout"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **통풍(Gout)**에 효과가 있을 수 있다고 예측하지�
 | 예측 신규 적응증 | 통풍 (Gout) |
 | TxGNN 예측 점수 | 0.9967 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

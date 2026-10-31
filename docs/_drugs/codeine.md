@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Codeine: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크 형태로만 제공되어 구체적인 효능·효과를 확인할 수 없음"
 monitor_inn: "codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
@@ -48,8 +48,8 @@ Codeine(코데인)은 오피오이드 계열 약물로, 한국에서 인산코�
 | 예측 신규 적응증 | 비강 질환 (Nasal Cavity Disease) |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 (모델 예측만 있고 치료 효과를 보여주는 연구 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 7건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Hold |
 
 > 참고: 데이터 상 이 예측의 근거 수준은 L4로 표기되어 있으나, 유일한 문헌이 치료 효과나 기전 연구가 아닌 부작용성 증례 보고이므로 본 보고서에서는 판정 규칙에 따라 L5로 평가했습니다.

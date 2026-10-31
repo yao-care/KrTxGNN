@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 164
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Buprenorphine: 예측 신규 적응증 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) (근거 수준 L4). 기존 적응증: 허가 적응증 본문이 확인되지 않았습니다. 허가 문서 링크만 확보되어 있습니다"
 monitor_inn: "BUPRENORPHINE"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **급성 간헐성 포르피린증(Acute Intermittent Porphyria)
 | 예측 신규 적응증 | 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) |
 | TxGNN 예측 점수 | 0.9941 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 6건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Triamcinolone: 예측 신규 적응증 알로페시아 뮤시노사 (모낭 점액증) (근거 수준 L5). 기존 적응증: 미란(짓무름) 또는 궤양을 수반하는 난치성 구내염(입안염) 및 설염(혀염)에 의한 염증의 완화"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **알로페시아 뮤시노사(Alopecia Mucinosa, 모낭 점액�
 | 예측 신규 적응증 | 알로페시아 뮤시노사 (모낭 점액증) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

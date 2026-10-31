@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Salbutamol: 예측 신규 적응증 유두성 결막염 (Papillary Conjunctivitis) (근거 수준 L5)."
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
@@ -47,8 +47,8 @@ Salbutamol은 베타-2 작용제 계열의 약물로, 한국에서는 정제와 
 | 예측 신규 적응증 | 유두성 결막염 (Papillary Conjunctivitis) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 (모두 유효, 단일제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

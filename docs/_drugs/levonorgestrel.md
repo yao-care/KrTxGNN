@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 474
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Levonorgestrel: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 피임"
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 | 예측 신규 적응증 | 여드름 (acne) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

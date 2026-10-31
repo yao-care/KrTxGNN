@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Doripenem"
 predicted_indications: ["primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Doripenem: 예측 신규 적응증 원발성 문맥 혈전증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 정보에는 문서 링크만 있음)"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **원발성 문맥 혈전증(primitive portal vein thrombosis)**
 | 예측 신규 적응증 | 원발성 문맥 혈전증 |
 | TxGNN 예측 점수 | 0.9900 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 > 참고: 동일 점수(0.9900)로 예측된 다른 후보는 조기발병 가족성 비간경변성 문맥압항진증, 특발성 구리 관련 간경변, 간폐증후군, 간문맥 경화증입니다. 모두 근거 수준은 L5이며 권장 결정은 Hold입니다.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Captopril: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198600630/EE"
 ---
 
@@ -48,8 +48,8 @@ Captopril은 안지오텐신 전환효소(ACE)를 억제하는 약물입니다. 
 | 예측 신규 적응증 | 악성 고혈압성 신질환 (malignant hypertensive renal disease) |
 | TxGNN 예측 점수 | 0.9928 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 12건 (모두 단일 성분 제제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 12건) |
+| 허가증 수 | 12건 (유효 12건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

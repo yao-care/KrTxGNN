@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 78
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Apixaban: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 포함되어 있지 않아(허가 문서 링크만 확인됨) 확인할 수 없음"
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 편두통 (Migraine disorder) |
 | TxGNN 예측 점수 | 0.9902 |
 | 근거 수준 | L4 (직접 근거 없는 모델 예측 수준에 가까움) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

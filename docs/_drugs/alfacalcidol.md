@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ALFACALCIDOL"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Alfacalcidol: 예측 신규 적응증 두개안면 원뼈이형성증 (Craniofacial Conodysplasia) (근거 수준 L5). 기존 적응증: 만성신부전, 부갑상선기능저하증, 비타민 D 저항성 구루병·골연화증 질환의 비타민 D 대사이상에 수반되는 증상(저칼슘혈증…"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **두개안면 원뼈이형성증(Craniofacial Conodysplasia)**�
 | 예측 신규 적응증 | 두개안면 원뼈이형성증 (Craniofacial Conodysplasia) |
 | TxGNN 예측 점수 | 0.9955 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 135
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Benzatropine: 예측 신규 적응증 PLA2G6 연관 신경변성 (PLA2G6-associated neurodegeneration) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 이번 자료에서 확인되지 않았습니다. 허가증에는 문서 링크만 있습니다. 항콜린제로서 파킨슨증과 약물 유발…"
 monitor_inn: "benzatropine"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder"]
@@ -48,8 +48,8 @@ Benzatropine은 항콜린제로, 한국에서 4건의 단일제 허가를 받아
 | 예측 신규 적응증 | PLA2G6 연관 신경변성 (PLA2G6-associated neurodegeneration) |
 | TxGNN 예측 점수 | 0.9917 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 > 참고: 두 번째 예측 적응증은 주의력결핍 과잉행동장애(ADHD, 점수 0.9903)이며, 마찬가지로 L5, Hold입니다. 이 보고서는 1순위 예측을 중심으로 작성했습니다.

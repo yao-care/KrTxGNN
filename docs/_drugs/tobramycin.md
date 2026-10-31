@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tobramycin: 예측 신규 적응증 노출성 각막염 (근거 수준 L5). 기존 적응증: 허가 문서 링크만 있고 적응증 본문은 확인되지 않음 (제형은 점안액·주사제)"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **노출성 각막염(Exposure keratitis)**에 효과가 있을 
 | 예측 신규 적응증 | 노출성 각막염 |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 (이 질환을 직접 연구한 시험·문헌 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

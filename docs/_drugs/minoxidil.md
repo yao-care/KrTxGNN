@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with chronic hemolytic anemia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Minoxidil: 예측 신규 적응증 두피 단순 저모발증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 남성형 탈모증(안드로젠탈모증)"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **두피 단순 저모발증(hypotrichosis simplex of the scalp)
 | 예측 신규 적응증 | 두피 단순 저모발증 (hypotrichosis simplex of the scalp) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록은 일부일 수 있음) |
 | 권장 결정 | Hold |
 

@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 677
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -42,7 +42,7 @@ Evidence Pack을 분석했습니다. `predicted_indications`가 비어 있고 �
 
 ## 한 문장 요약
 
-Ruxolitinib Phosphate는 이번 Evidence Pack에 기존 적응증 정보가 포함되어 있지 않으며, TxGNN 모델의 신규 적응증 예측 결과도 없습니다. 한국에서 현재 **미시판 상태**로 허가 내역이 없고, 작용 기전(MOA)과 안전성 데이터가 모두 확보되지 않아 재창출 타당성 평가가 불가능한 상태입니다.
+Ruxolitinib Phosphate는 이번 Evidence Pack에 기존 적응증 정보가 포함되어 있지 않으며, TxGNN 모델의 신규 적응증 예측 결과도 없습니다. 작용 기전(MOA)과 안전성 데이터가 모두 확보되지 않아 재창출 타당성 평가가 불가능한 상태입니다.
 
 ## 빠른 개요
 
@@ -52,8 +52,8 @@ Ruxolitinib Phosphate는 이번 Evidence Pack에 기존 적응증 정보가 포�
 | 예측 신규 적응증 | 예측 결과 없음 |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | 해당 없음 (예측 결과 미포함) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | **Hold** |
 
 ## 누락 데이터 현황

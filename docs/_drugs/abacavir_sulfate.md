@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -56,8 +56,8 @@ Abacavir Sulfate는 HIV-1 감염 치료에 사용되는 항바이러스제로, �
 | 예측 신규 적응증 | 없음 (TxGNN 파이프라인 예측 결과 없음) |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | 평가 불가 (예측 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | **Hold** |
 
 > ⚠️ **데이터 정합성 주의**: Abacavir Sulfate는 국제적으로 Ziagen, Kivexa, Triumeq 등 복합제로 광범위하게 시판되고 있습니다. 한국 MFDS 허가가 0건으로 조회된 것은 데이터 수집 파이프라인 오류일 가능성이 있습니다. MFDS 원본 데이터를 재확인하시기 바랍니다.

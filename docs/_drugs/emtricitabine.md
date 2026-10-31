@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Emtricitabine: 예측 신규 적응증 고양이 후천성 면역결핍증후군 (feline acquired immunodeficiency syndrome) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 허가사항 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **고양이 후천성 면역결핍증후군(feline acquired immu
 | 예측 신규 적응증 | 고양이 후천성 면역결핍증후군 (feline acquired immunodeficiency syndrome) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 (전임상·수의학 연구 수준) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

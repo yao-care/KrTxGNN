@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 545
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nimodipine: 예측 신규 적응증 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다. 허가증에는 식약처 허가사항 PDF 링크만 포함되어 있습니다"
 monitor_inn: "NIMODIPINE"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
@@ -48,8 +48,8 @@ Nimodipine은 디히드로피리딘계 L형 칼슘채널 차단제로, 한국에
 | 예측 신규 적응증 | 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) |
 | TxGNN 예측 점수 | 0.9929 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 7건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

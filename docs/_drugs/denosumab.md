@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 260
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Denosumab: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 확인 불가 (허가증에 링크만 제공됨)"
 monitor_inn: "DENOSUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 | 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) |
 | TxGNN 예측 점수 | 0.9963 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 10건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 10건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

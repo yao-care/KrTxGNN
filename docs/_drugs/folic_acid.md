@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 364
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Folic Acid: 예측 신규 적응증 비오틴 대사 질환 (Biotin Metabolic Disease) (근거 수준 L5). 기존 적응증: 폴산결핍증의 예방 및 치료, 소모성 질환, 임부 및 수유부의 폴산 보급, 악성빈혈의 보조요법, 영양결핍성빈혈, 임신성빈혈…"
 monitor_inn: "FOLIC ACID"
 predicted_indications: ["biotin metabolic disease"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **비오틴 대사 질환(Biotin Metabolic Disease)**에 효과�
 | 예측 신규 적응증 | 비오틴 대사 질환 (Biotin Metabolic Disease) |
 | TxGNN 예측 점수 | 0.9949 |
 | 근거 수준 | L4 (모델 예측과 기전적 인접성 수준의 간접 근거) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

@@ -5,7 +5,7 @@ layout: default
 title: Alcaftadine
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 33
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -38,7 +38,6 @@ evidence_level: N/A
 **분석 결과:**
 - `predicted_indications: []` → TxGNN 예측 후보 없음
 - `original_indications: []`, `original_moa: "[Data Gap]"` → 기본 약물 정보 부재
-- `taiwan_regulatory.market_status: "Not marketed"` → 한국 미시판
 - `safety` 전체 [Data Gap]
 
 예측 적응증이 없으므로 보고서 구조를 해당 상황에 맞게 조정하겠습니다.
@@ -53,8 +52,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201205983/EE |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 
 ---
 

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 228
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clonazepam: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공됨)"
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 | 예측 신규 적응증 | 하지불안증후군 (Restless Legs Syndrome) |
 | TxGNN 예측 점수 | 0.9965 |
 | 근거 수준 | L3 (체계적 문헌고찰 및 소규모 임상연구 수준) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 > 참고: 이 데이터 기준으로는 완료된 Phase 2/3 RCT가 없어 L1/L2에 해당하지 않습니다. 문헌은 Cochrane 체계적 문헌고찰과 소규모 교차 임상시험이 중심이므로 L3으로 판정했습니다.

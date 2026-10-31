@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 693
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: 예측 신규 적응증 Brain stem infarction (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301131/EE"
@@ -49,7 +49,7 @@ Simvastatin은 HMG-CoA 환원효소를 억제하는 스타틴 계열 약물로, 
 | 예측 신규 적응증 | Brain stem infarction |
 | TxGNN 예측 점수 | 0.9941 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Proceed with Guardrails |
 

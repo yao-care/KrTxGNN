@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Atezolizumab: 예측 신규 적응증 자궁인대 선암 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음"
 ---
 
@@ -48,8 +48,8 @@ Atezolizumab은 PD-L1을 표적으로 하는 항체 의약품으로, 한국에�
 | 예측 신규 적응증 | 자궁인대 선암 |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

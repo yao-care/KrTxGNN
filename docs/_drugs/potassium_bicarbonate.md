@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 616
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Potassium Bicarbonate: 예측 신규 적응증 위십이지장염 (Gastroduodenitis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트를 확인할 수 없음 (허가증에는 문서 링크만 기재되어 있음)"
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **위십이지장염(Gastroduodenitis)**에 효과가 있을 수
 | 예측 신규 적응증 | 위십이지장염 (Gastroduodenitis) |
 | TxGNN 예측 점수 | 0.9972 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 613
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Polysorbate 80: 예측 신규 적응증 선천성 어린선양 홍피증 (Congenital Ichthyosiform Erythroderma) (근거 수준 L5). 기존 적응증: 눈의 건조 증상의 완화, 자극의 일시적 경감"
 monitor_inn: "POLYSORBATE 80"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **선천성 어린선양 홍피증(Congenital Ichthyosiform Eryt
 | 예측 신규 적응증 | 선천성 어린선양 홍피증 (Congenital Ichthyosiform Erythroderma) |
 | TxGNN 예측 점수 | 0.9943 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

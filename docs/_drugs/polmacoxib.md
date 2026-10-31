@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Polmacoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "pseudoachondroplasia", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "juvenile idiopathic arthritis", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Polmacoxib: 예측 신규 적응증 말단중간형 이형성증, Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 허가 적응증 문구는 확인되지 않음 (허가 문서 링크만 수록됨)"
 ---
 
@@ -48,8 +48,8 @@ Polmacoxib은 COX-2 억제제로, 한국에서 골관절염 치료제로 시판�
 | 예측 신규 적응증 | 말단중간형 이형성증, Hunter-Thompson형 |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 10건 (단일 성분 10건, 모두 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 10건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

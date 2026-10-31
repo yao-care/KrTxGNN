@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Arsenic Trioxide: 예측 신규 적응증 분류되지 않은 골수이형성증후군 (Unclassified Myelodysplastic Syndrome) (근거 수준 L5). 기존 적응증: 허가증 원문 링크만 제공되어 확인 불가"
 monitor_inn: "ARSENIC TRIOXIDE"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
@@ -50,8 +50,8 @@ Arsenic trioxide(삼산화비소)는 국내에서 주사제로 허가된 항종�
 | 예측 신규 적응증 | 분류되지 않은 골수이형성증후군 (Unclassified Myelodysplastic Syndrome) |
 | TxGNN 예측 점수 | 0.9993 (전체 순위 1,863위) |
 | 근거 수준 | L5 (분류되지 않은 MDS). 참고: 골수이형성증후군 전체는 L2 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold (분류되지 않은 MDS). 참고: 골수이형성증후군 전체는 Proceed with Guardrails |
 
 ### 상위 10개 예측 후보 요약

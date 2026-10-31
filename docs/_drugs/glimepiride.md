@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Glimepiride: 예측 신규 적응증 고전형 전신 경직 증후군 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 자료에 없음)"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **고전형 전신 경직 증후군(Classic Stiff Person Syndrom
 | 예측 신규 적응증 | 고전형 전신 경직 증후군 |
 | TxGNN 예측 점수 | 0.9975 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

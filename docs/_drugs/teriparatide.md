@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 729
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Teriparatide: 예측 신규 적응증 십이지장궤양 (Duodenal Ulcer) (근거 수준 L5). 기존 적응증: 골다공증 (골절 고위험 환자)"
 monitor_inn: "TERIPARATIDE"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **십이지장궤양(Duodenal Ulcer)**에 효과가 있을 수 �
 | 예측 신규 적응증 | 십이지장궤양 (Duodenal Ulcer) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 > 기존 적응증은 허가 문서 본문이 아니라 약리 데이터의 임상 용도 설명을 기준으로 기재했습니다. 허가증에는 적응증 본문 대신 문서 링크만 확인됩니다.

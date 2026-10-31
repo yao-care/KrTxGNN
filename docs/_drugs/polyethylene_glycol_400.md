@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 612
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Polyethylene Glycol 400: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증 4건 모두 점안액 제품)"
 monitor_inn: "POLYETHYLENE GLYCOL 400"
 predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **기관지염(Bronchitis)**에 효과가 있을 수 있다고 �
 | 예측 신규 적응증 | 기관지염 (Bronchitis) |
 | TxGNN 예측 점수 | 0.9958 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

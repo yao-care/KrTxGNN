@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 495
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mecobalamin: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 말초성 신경장애"
 monitor_inn: "MECOBALAMIN"
 predicted_indications: ["sclerosing cholangitis", "multiple endocrine neoplasia", "bone Paget disease"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **경화성 담관염(Sclerosing Cholangitis)**에 효과가 있
 | 예측 신규 적응증 | 경화성 담관염 (Sclerosing Cholangitis) |
 | TxGNN 예측 점수 | 0.9950 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 17건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 15건 / 전체 17건) |
+| 허가증 수 | 17건 (유효 15건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

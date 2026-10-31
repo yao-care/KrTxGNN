@@ -5,7 +5,7 @@ layout: default
 title: Kallidinogenase
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 447
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Kallidinogenase: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Kallidinogenase"
 predicted_indications: []
@@ -43,7 +43,7 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198902108/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506175/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405998/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603473/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402865/EE;  |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 
 ## 한국 시판 정보

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Desogestrel: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 피임"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **무월경(amenorrhea)**에 효과가 있을 수 있다고 예�
 | 예측 신규 적응증 | 무월경 |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 8건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
+| 허가증 수 | 8건 (유효 8건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

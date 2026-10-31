@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 129
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Beclomethasone Dipropionate: 예측 신규 적응증 아토피 피부염 (Atopic Eczema) (근거 수준 L3). 기존 적응증: 확인 불가 (허가 적응증이 링크로만 제공되어 허가사항 원문 참조 필요)"
 monitor_inn: "BECLOMETHASONE DIPROPIONATE"
 predicted_indications: ["atopic eczema"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **아토피 피부염(Atopic Eczema)**에 효과가 있을 수 �
 | 예측 신규 적응증 | 아토피 피부염 (Atopic Eczema) |
 | TxGNN 예측 점수 | 0.9941 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

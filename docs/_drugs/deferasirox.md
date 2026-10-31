@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 256
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Deferasirox: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 확인할 수 없음 (철 킬레이트제로 분류)"
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
@@ -48,8 +48,8 @@ Deferasirox는 철 킬레이트제로, 한국에서 만성 철 과다 상태 치
 | 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9940 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 15건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 15건 / 전체 15건) |
+| 허가증 수 | 15건 (유효 15건) |
 | 권장 결정 | Hold (연구 과제로 분류) |
 
 ## 이 예측이 타당한 이유는?

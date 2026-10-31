@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 548
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nitrofurantoin: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
@@ -48,8 +48,8 @@ Nitrofurantoin은 항균제로, 한국에서 단일제 캡슐로 허가되어 �
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

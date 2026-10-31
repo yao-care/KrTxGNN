@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 556
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Nystatin: 예측 신규 적응증 외음질염 (Vulvovaginitis) (근거 수준 L4). 기존 적응증: 확인 불가 (허가 적응증이 허가증 PDF 링크로만 제공되어 본문을 확인하지 못했습니다)"
 monitor_inn: "Nystatin"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **외음질염(Vulvovaginitis)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 외음질염 (Vulvovaginitis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

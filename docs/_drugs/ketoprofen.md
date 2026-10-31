@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ketoprofen: 예측 신규 적응증 말단중간형 이형성증, Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염, 건주위염, 상완골상과염(테니스 엘보우 등), 근육통…"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **말단중간형 이형성증, Hunter-Thompson형(acromesomelic
 | 예측 신규 적응증 | 말단중간형 이형성증, Hunter-Thompson형 |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 최소 20건 (목록은 일부일 수 있음) |
 | 권장 결정 | Hold |
 

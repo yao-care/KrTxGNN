@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 744
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tolfenamic Acid: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L2). 기존 적응증: 허가증에 적응증 본문이 아닌 링크만 기재되어 있어 구체적인 내용을 확인할 수 없음"
 monitor_inn: "TOLFENAMIC ACID"
 predicted_indications: ["headache disorder", "tendinitis", "rheumatoid arthritis", "trigeminal autonomic cephalalgia", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "exostosis", "inclusion body myositis"]
@@ -48,8 +48,8 @@ Tolfenamic acid는 fenamate 계열 비스테로이드 소염제(NSAID)로, 한�
 | 예측 신규 적응증 | 두통 질환 (headache disorder) |
 | TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

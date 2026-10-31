@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Alfentanil Hydrochloride는 단시간 작용형 합성 오피오이드 계열 �
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 없음) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (모델 예측조차 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ---

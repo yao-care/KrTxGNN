@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Darolutamide: 예측 신규 적응증 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 링크 형태로만 제공되어 구체적인 문구를 확인할 수 없음 (안드로겐 수용체 길항제로서 전립선암 영역에…"
 monitor_inn: "Darolutamide"
 predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Fam
 | 예측 신규 적응증 | 동형접합 가족성 고콜레스테롤혈증 (Homozygous Familial Hypercholesterolemia) |
 | TxGNN 예측 점수 | 0.9911 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

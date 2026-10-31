@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CERITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ceritinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500142/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 | 예측 신규 적응증 | 치은 섬유종증 (fibromatosis, gingival) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 (단일제 1건, 유효 1건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DIGOXIN"
 predicted_indications: ["duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Digoxin: 예측 신규 적응증 십이지장 폐쇄 (근거 수준 L5). 기존 적응증: 허가 적응증 문구 확인 불가 (한국 허가 문서 링크만 확인됨)"
 ---
 
@@ -48,8 +48,8 @@ description: "Digoxin: 예측 신규 적응증 십이지장 폐쇄 (근거 수�
 | 예측 신규 적응증 | 십이지장 폐쇄 |
 | TxGNN 예측 점수 | 0.9970 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 (단일 성분 4건, 모두 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

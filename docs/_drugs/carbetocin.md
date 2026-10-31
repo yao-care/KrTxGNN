@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Carbetocin: 예측 신규 적응증 이소트레티노인 유사 증후군 (isotretinoin-like syndrome) (근거 수준 L5). 기존 적응증: 자궁 무력증으로 인한 산후출혈 예방 (한국 허가증에는 적응증 본문 대신 허가사항 문서 링크만 확인되어…"
 monitor_inn: "CARBETOCIN"
 predicted_indications: ["isotretinoin-like syndrome", "Goodman syndrome"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **이소트레티노인 유사 증후군(isotretinoin-like syndr
 | 예측 신규 적응증 | 이소트레티노인 유사 증후군 (isotretinoin-like syndrome) |
 | TxGNN 예측 점수 | 0.9915 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 참고: 같은 모델이 두 번째로 예측한 적응증은 Goodman 증후군(점수 0.9906)이며, 이 역시 임상시험과 문헌 근거가 없어 보류 대상입니다.

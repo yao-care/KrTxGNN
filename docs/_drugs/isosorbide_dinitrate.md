@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "isosorbide dinitrate"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "arterial thoracic outlet syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Isosorbide Dinitrate: 예측 신규 적응증 탈모증 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공되어 구체적 내용을 알 수 없음)"
 ---
 
@@ -48,8 +48,8 @@ Isosorbide dinitrate는 산화질소(NO)를 방출하는 혈관확장제로, 한
 | 예측 신규 적응증 | 탈모증 |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 (단일 성분, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

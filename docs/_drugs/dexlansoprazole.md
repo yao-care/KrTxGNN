@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dexlansoprazole: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802449/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **위십이지장염(gastroduodenitis)**에 효과가 있을 수
 | 예측 신규 적응증 | 위십이지장염 (gastroduodenitis) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

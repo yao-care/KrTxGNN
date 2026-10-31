@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 266
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Desvenlafaxine: 예측 신규 적응증 강박장애 (Obsessive-Compulsive Disorder) (근거 수준 L5). 기존 적응증: 주요우울장애 (허가 적응증 원문은 제공되지 않아 허가 문서 링크만 확인됨)"
 monitor_inn: "DESVENLAFAXINE"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **강박장애(Obsessive-Compulsive Disorder)**에 효과가 있
 | 예측 신규 적응증 | 강박장애 (Obsessive-Compulsive Disorder) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L4 (기전·리뷰 문헌 수준, 직접 연구 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

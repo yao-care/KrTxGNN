@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cyclofenil: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 한국 허가증의 적응증 정보가 링크 형태로만 확인되어 구체적인 허가 적응증 문구는 확인되지 않음 (일반적으로 배란 유도…"
 monitor_inn: "Cyclofenil"
 predicted_indications: ["Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "obsessive-compulsive disorder", "insomnia (disease)", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "cerebral infarction"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **프린츠메탈 협심증(Prinzmetal angina)**에 효과가 �
 | 예측 신규 적응증 | 프린츠메탈 협심증 (Prinzmetal angina) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

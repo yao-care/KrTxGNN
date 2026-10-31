@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 31
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Albendazole: 예측 신규 적응증 포충증 (Alveolar echinococcosis) (근거 수준 L5). 기존 적응증: 회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료"
 monitor_inn: "ALBENDAZOLE"
 predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
@@ -50,7 +50,7 @@ TxGNN 모델은 **포충증(알veolar echinococcosis, 다포조충증)**에 효�
 | 예측 신규 적응증 | 포충증 (Alveolar echinococcosis) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L2 (완료된 Phase 2 시험 1건; 무작위·대조 설계 여부는 시험 기록 확인 필요) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Proceed with Guardrails |
 

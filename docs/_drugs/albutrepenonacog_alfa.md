@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Albutrepenonacog Alfa: 예측 신규 적응증 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 식약처 첨부문서 링크만 등록되어 있음)"
 monitor_inn: "ALBUTREPENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **가성 폰 빌레브란트병(pseudo-von Willebrand disease)**
 | 예측 신규 적응증 | 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

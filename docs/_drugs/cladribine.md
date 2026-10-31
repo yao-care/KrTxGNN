@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 218
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cladribine: 예측 신규 적응증 수막주위 배아형 횡문근육종 (parameningeal embryonal rhabdomyosarcoma) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 데이터에 포함되어 있지 않아 확인할 수 없습니다(허가사항 원문 참조 필요)"
 monitor_inn: "CLADRIBINE"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **배아형 횡문근육종(parameningeal embryonal rhabdomyosar
 | 예측 신규 적응증 | 수막주위 배아형 횡문근육종 (parameningeal embryonal rhabdomyosarcoma) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 > 참고: 상위 예측 6건(횡문근육종 및 그 하위 유형)은 점수가 99.74~0.9977로 서로 매우 비슷합니다. 질환 분류 체계의 구조에서 비롯된 신호로 보이므로 독립된 예측 여러 건이 아니라 **하나의 예측 군집**으로 해석하는 것이 적절합니다.

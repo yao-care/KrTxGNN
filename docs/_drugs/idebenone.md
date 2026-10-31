@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 412
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Idebenone: 예측 신규 적응증 간성 포르피린증 (Hepatic Porphyria) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "Idebenone"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **간성 포르피린증(Hepatic Porphyria)**에 효과가 있�
 | 예측 신규 적응증 | 간성 포르피린증 (Hepatic Porphyria) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

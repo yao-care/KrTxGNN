@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 730
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Terlipressin"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
 description: "Terlipressin: 예측 신규 적응증 Open-angle glaucoma (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402420/EE"
@@ -50,8 +50,8 @@ Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입�
 | 예측 신규 적응증 | Open-angle glaucoma |
 | TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 (폐고혈압) / L5 (녹내장 등 나머지) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold (폐고혈압은 후속 연구 질문으로 유지 가능) |
 
 ## 이 예측이 타당한 이유는?

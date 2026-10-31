@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "DIPYRIDAMOLE"
 predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Dipyridamole: 예측 신규 적응증 혈전성 질환 (근거 수준 L5). 기존 적응증: 확인 불가 (허가증 문서 링크만 있고 적응증 본문이 없음)"
 ---
 
@@ -48,8 +48,8 @@ Dipyridamole은 혈소판 응집을 억제하는 항혈소판 계열 약물로, 
 | 예측 신규 적응증 | 혈전성 질환 |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 (허가 유형 미기재) |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

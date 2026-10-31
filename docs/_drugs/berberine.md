@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Berberine: 예측 신규 적응증 중증 자간전증 (Severe Pre-eclampsia) (근거 수준 L5). 기존 적응증: 설사, 복통(배아픔)을 수반하는 설사, 체함, 묽은 변, 토사"
 monitor_inn: "berberine"
 predicted_indications: ["severe pre-eclampsia", "mild pre-eclampsia", "monocytic leukemia", "multiple endocrine neoplasia", "preeclampsia/eclampsia", "spermatocytic seminoma", "placental hemangioma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm", "toxemia of pregnancy"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **중증 자간전증(Severe Pre-eclampsia)**에 효과가 있�
 | 예측 신규 적응증 | 중증 자간전증 (Severe Pre-eclampsia) |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

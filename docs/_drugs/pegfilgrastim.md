@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 582
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pegfilgrastim: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가증에는 문서 링크만 있음)"
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(severe nonproliferative
 | 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

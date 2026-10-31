@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 9
 monitor_inn: "cefprozil"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cefprozil: 예측 신규 적응증 요로감염 (urinary tract infection (disease)) (근거 수준 L1). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404706/EE"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **요로감염(urinary tract infection (disease))**에 효과가
 | 예측 신규 적응증 | 요로감염 (urinary tract infection (disease)) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록은 일부일 수 있음) |
 | 권장 결정 | Proceed with Guardrails |
 

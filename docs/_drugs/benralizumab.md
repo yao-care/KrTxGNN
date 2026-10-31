@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Benralizumab: 예측 신규 적응증 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903766/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **면역 파괴에 의한 혈소판감소증(thrombocytopenia du
 | 예측 신규 적응증 | 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) |
 | TxGNN 예측 점수 | 0.9934 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 (단일 성분 제제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

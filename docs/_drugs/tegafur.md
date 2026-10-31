@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "Tegafur"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tegafur: 예측 신규 적응증 대장 종양 (근거 수준 L5). 기존 적응증: 허가 적응증 문구 확인 불가 (허가증에 PDF 링크만 수록)"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **대장 종양(Colonic Neoplasm)**에 효과가 있을 수 있�
 | 예측 신규 적응증 | 대장 종양 |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L1 (완료된 Phase 3 RCT 다수) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 (모두 유효, 단일 성분) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

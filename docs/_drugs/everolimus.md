@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 332
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 description: "Everolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804620/EE"
@@ -50,8 +50,8 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 | 예측 신규 적응증 | 지방육종 (liposarcoma) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 (엄격한 판정 기준 적용 시: 완료된 Phase 2/3 RCT 없음, 진행 중인 단일군 Phase 2만 존재) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 16건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 16건 / 전체 16건) |
+| 허가증 수 | 16건 (유효 16건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 > 참고: 이 예측 적응증에 대한 사전 평가 등급은 L2였으나, 해당 시험은 무작위배정이 아닌 단일군 시험이고 아직 진행 중이므로 본 보고서의 판정 기준에서는 L2 조건(완료된 Phase 2/3 RCT)을 충족하지 않습니다.

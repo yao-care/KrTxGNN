@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 736
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ticagrelor: 예측 신규 적응증 두개내 동맥경화증 (Intracranial Arteriosclerosis) (근거 수준 L5). 기존 적응증: 급성 관상동맥증후군, 심근경색 병력 환자의 혈전 예방 등 (허가증은 PDF 링크만 확인되어 본문 대조는 못 했습니다)"
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **두개내 동맥경화증(Intracranial Arteriosclerosis)**에 
 | 예측 신규 적응증 | 두개내 동맥경화증 (Intracranial Arteriosclerosis) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 (완료된 RCT가 없고, 관찰 연구와 진행 중인 Phase 3 시험만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 20건 (모두 단일제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 18건 / 전체 20건) |
+| 허가증 수 | 20건 (유효 18건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

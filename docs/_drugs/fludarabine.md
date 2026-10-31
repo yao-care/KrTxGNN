@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 353
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fludarabine: 예측 신규 적응증 형질세포 골수종 (Plasma Cell Myeloma) (근거 수준 L5). 기존 적응증: 허가 적응증 문구가 링크 형태로만 확인되어 구체적인 내용은 허가사항 참조 필요"
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **형질세포 골수종(다발골수종, Plasma Cell Myeloma)**
 | 예측 신규 적응증 | 형질세포 골수종 (Plasma Cell Myeloma) |
 | TxGNN 예측 점수 | 0.9982 |
 | 근거 수준 | L2 (조건부 해석, 아래 참조) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Proceed with Guardrails |
 
 > **근거 수준 참고:** 이 보고서에 정리된 자료 기준으로 완료된 Phase 2/3 RCT는 확인되지 않았습니다. 다발골수종에서 fludarabine을 직접 평가한 완료 Phase 2 시험(NCT01008462 등)은 단일군 연구이며, 이식 전처치의 일부입니다. 따라서 L2는 상한선으로 보아야 하며, 엄밀하게 적용하면 L3~L4에 가깝습니다.

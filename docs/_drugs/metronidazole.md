@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Metronidazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 혐기성 세균 및 원충 감염 (일반적 용도. 한국 허가 적응증 본문은 허가사항 PDF 링크로만 확인되어 별도 확인 필요)"
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
@@ -48,8 +48,8 @@ Metronidazole은 혐기성 세균과 원충 감염 치료에 널리 쓰이는 �
 | 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 17건 (모두 유효, 단일제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 17건 / 전체 17건) |
+| 허가증 수 | 17건 (유효 17건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

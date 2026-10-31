@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 109
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -40,7 +40,6 @@ predicted_indications: []
 
 ## 한 문장 요약
 
-Axicabtagene ciloleucel(DB13915)은 현재 한국에 시판되지 않은 약물입니다.
 이번 Evidence Pack에는 **TxGNN 예측 적응증이 없으며**, 작용 기전·안전성 데이터도 모두 누락되어 있어 표준 약물 재창출 평가를 수행할 수 없습니다.
 데이터 보완 후 재평가가 필요합니다.
 
@@ -54,8 +53,8 @@ Axicabtagene ciloleucel(DB13915)은 현재 한국에 시판되지 않은 약물�
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 미수신) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 이하 (예측 자체 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | **Hold** |
 
 ---

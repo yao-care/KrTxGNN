@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "TULOBUTEROL"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tulobuterol: 예측 신규 적응증 폐쇄성 폐질환 (근거 수준 L3). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 허가 문서 PDF 링크만 수록됨)"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 | 예측 신규 적응증 | 폐쇄성 폐질환 |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Proceed with Guardrails |
 

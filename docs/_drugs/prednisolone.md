@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 624
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Prednisolone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 염증성 피부질환, 지루성 피부염"
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 | 예측 신규 적응증 | 원형탈모증 (Alopecia Areata) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L2 (잠정) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 9건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 9건) |
+| 허가증 수 | 9건 (유효 9건) |
 | 권장 결정 | Proceed with Guardrails |
 
 > 참고: 근거 수준 L2는 잠정적입니다. 가장 강력한 문헌(PMID 15692475, 위약 대조 경구 pulse prednisolone 시험)의 시험 단계, 규모, 결과를 직접 확인하지 못했습니다. 또한 이 보고서의 판정 규칙(완료된 Phase 2/3 RCT 1건)을 엄격히 적용하면 등록된 임상시험이 없어 더 낮은 수준이 될 수 있습니다.

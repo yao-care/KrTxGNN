@@ -5,7 +5,7 @@ layout: default
 title: Zolbetuximab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 793
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Zolbetuximab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Zolbetuximab"
 predicted_indications: []
@@ -43,8 +43,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600619/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402279/EE |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 
 ## 한국 시판 정보
 

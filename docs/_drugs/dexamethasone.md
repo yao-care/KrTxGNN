@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Dexamethasone: 예측 신규 적응증 원형탈모증 (근거 수준 L2). 기존 적응증: 습진·피부염군, 양진군, 벌레물린데, 건선, 손·발바닥 농포증, 편평태선, 홍피증, 만성원판상홍반, 약진·중독진…"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **원형탈모증(alopecia areata)**에 효과가 있을 수 있
 | 예측 신규 적응증 | 원형탈모증 |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 17건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Proceed with Guardrails |
 

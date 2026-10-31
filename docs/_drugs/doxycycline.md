@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 293
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Doxycycline: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L4). 기존 적응증: 허가증별 적응증 원문은 문서 링크로만 확인되어 구체적 내용을 확인하지 못했습니다(항생제로 세균 감염 치료에 사용)"
 monitor_inn: "doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
@@ -48,8 +48,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 | 예측 신규 적응증 | 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) |
 | TxGNN 예측 점수 | 0.9994 (모델 순위 509위) |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 20건 (모두 유효, 단일제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 19건 / 전체 20건) |
+| 허가증 수 | 20건 (유효 19건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

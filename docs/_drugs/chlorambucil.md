@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Chlorambucil: 예측 신규 적응증 사전 배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201…"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **사전 배중심 만성 림프구성 백혈병/소림프구성
 | 예측 신규 적응증 | 사전 배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
 | TxGNN 예측 점수 | 0.9972 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

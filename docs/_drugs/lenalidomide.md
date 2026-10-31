@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "LENALIDOMIDE"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lenalidomide: 예측 신규 적응증 골수성 백혈병 (myeloid leukemia) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706896/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **골수성 백혈병(myeloid leukemia)**에 효과가 있을 �
 | 예측 신규 적응증 | 골수성 백혈병 (myeloid leukemia) |
 | TxGNN 예측 점수 | 0.9949 |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 12건 (단일 성분) |
+| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 12건) |
+| 허가증 수 | 12건 (유효 12건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

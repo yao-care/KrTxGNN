@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 383
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -38,7 +38,7 @@ predicted_indications: []
 
 ## 한 문장 요약
 
-Glipizide(DrugBank ID: DB01067)는 현재 한국 미시판 약물로, 본 Evidence Pack에 기존 적응증·TxGNN 예측 적응증·안전성 정보가 모두 포함되어 있지 않습니다.
+Glipizide(DrugBank ID: DB01067)는 본 Evidence Pack에 기존 적응증·TxGNN 예측 적응증·안전성 정보가 모두 포함되어 있지 않습니다.
 작용 기전(MOA)을 포함한 핵심 항목이 수집되지 않아 재창출 가능성 평가를 진행할 수 없는 상태입니다.
 **데이터 수집 완료 후 재평가**가 필요합니다.
 
@@ -52,8 +52,8 @@ Glipizide(DrugBank ID: DB01067)는 현재 한국 미시판 약물로, 본 Eviden
 | 예측 신규 적응증 | 예측 결과 없음 |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ---

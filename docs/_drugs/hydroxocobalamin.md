@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 406
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Hydroxocobalamin: 예측 신규 적응증 식도 정맥류 출혈 (esophageal varices with bleeding) (근거 수준 L5). 기존 적응증: 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력 저하 시 비타민 B1, B6의 보급과 신경통, 근육통, 관절통, 구각염, 구순염…"
 monitor_inn: "HYDROXOCOBALAMIN"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **식도 정맥류 출혈(esophageal varices with bleeding)**에
 | 예측 신규 적응증 | 식도 정맥류 출혈 (esophageal varices with bleeding) |
 | TxGNN 예측 점수 | 0.9923 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 15건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 13건 / 전체 15건) |
+| 허가증 수 | 15건 (유효 13건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

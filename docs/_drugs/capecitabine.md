@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Capecitabine: 예측 신규 적응증 위 선암 및 위 근위부 용종증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가문서 링크만 제공됨)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **위 선암 및 위 근위부 용종증(gastric adenocarcinoma 
 | 예측 신규 적응증 | 위 선암 및 위 근위부 용종증 |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 7건 (단일 성분 제제 7건, 유효 7건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "FLUNITRAZEPAM"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Flunitrazepam: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198301310/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 편두통 (migraine disorder) |
 | TxGNN 예측 점수 | 0.9971 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

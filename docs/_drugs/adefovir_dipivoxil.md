@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Adefovir Dipivoxil: 예측 신규 적응증 만성 C형 간염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 만성 B형 간염 (한국 허가 문서는 링크로만 제공되어 본문은 확인하지 못했으며…"
 monitor_inn: "ADEFOVIR DIPIVOXIL"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **만성 C형 간염(chronic hepatitis C virus infection)**에 �
 | 예측 신규 적응증 | 만성 C형 간염 (chronic hepatitis C virus infection) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 (모델 예측만 있고 직접 근거 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 9건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 9건) |
+| 허가증 수 | 9건 (유효 9건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

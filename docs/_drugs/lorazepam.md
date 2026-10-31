@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lorazepam: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 있음). 불안 관련 적응증은 지식 그래프 금기 정보에서 간접 확인"
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
@@ -50,8 +50,8 @@ Lorazepam은 GABA-A 수용체에 작용하는 벤조디아제핀 계열 약물�
 | 예측 신규 적응증 | 삼차신경 신생물 (trigeminal nerve neoplasm) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 7건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

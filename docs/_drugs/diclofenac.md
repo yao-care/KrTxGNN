@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Diclofenac: 예측 신규 적응증 두피 단순 저모발증 (근거 수준 L5). 기존 적응증: 치은염, 구내염, 인두염 등 구강인두의 염증, 치과 보존치료 또는 발치 후 염증 완화 (그 밖에 골관절염, 힘줄염…"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **두피 단순 저모발증(hypotrichosis simplex of the scalp)
 | 예측 신규 적응증 | 두피 단순 저모발증 |
 | TxGNN 예측 점수 | 0.9969 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 최소 20건 (단일 성분 제제 기준이며, 목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

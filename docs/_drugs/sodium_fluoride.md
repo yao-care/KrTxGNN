@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 697
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Sodium Fluoride: 예측 신규 적응증 후두개염 (Epiglottitis) (근거 수준 L5). 기존 적응증: 치아의 미백 (F-18 주사제는 허가 문서 링크만 제공되어 적응증 본문 확인 불가)"
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **후두염(Laryngitis)**을 포함한 여러 감염·염증성 
 | 예측 신규 적응증 | 후두개염 (Epiglottitis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 참고: 예측 순위 1위는 후두개염이며, 7위인 후두염은 문헌이 검색된 유일한 예측입니다. 다만 두 항목 모두 근거 수준은 L5입니다.

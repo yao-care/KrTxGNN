@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 766
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Trimebutine: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: 식도역류 및 열공헤르니아, 위·십이지장염, 위·십이지장궤양에 있어서의 소화기능이상(복통, 소화불량, 구역…"
 monitor_inn: "TRIMEBUTINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 편두통 (migraine disorder) |
 | TxGNN 예측 점수 | 0.9964 |
 | 근거 수준 | L5 (완료된 Phase 2/3 RCT는 없고, 소규모 교차 RCT 1편만 존재) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

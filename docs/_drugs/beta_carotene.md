@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 141
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Beta Carotene: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 육체피로, 임신·수유기, 병중·병후의 체력 저하 시 비타민 A, B1, B2, B6, C의 보급과 신경통, 근육통, 관절통…"
 monitor_inn: "beta carotene"
 predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "tetanic cataract", "immature cataract"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 | 예측 신규 적응증 | 여드름 (acne) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

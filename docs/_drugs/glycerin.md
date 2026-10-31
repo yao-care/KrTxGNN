@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 388
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glycerin: 예측 신규 적응증 마미증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 점안제 제품(안구 충혈 완화…"
 monitor_inn: "GLYCERIN"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **마미증후군(Cauda Equina Syndrome)**에 효과가 있을 �
 | 예측 신규 적응증 | 마미증후군 (Cauda Equina Syndrome) |
 | TxGNN 예측 점수 | 0.9960 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

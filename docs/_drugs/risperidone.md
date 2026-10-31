@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 659
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Risperidone: 예측 신규 적응증 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal… (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문 없이 PDF 링크만 있어 본문을 확인할 수 없음 (일반적으로 조현병 등 정신질환에 쓰이는 비정형 항정신…"
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
@@ -50,7 +50,7 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 | 예측 신규 적응증 | 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 20건 (모두 유효, 단일제) |
 | 권장 결정 | Hold |
 

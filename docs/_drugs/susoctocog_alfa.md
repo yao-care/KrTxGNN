@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 712
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Susoctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor XIII deficiency", "adenosine deaminase deficiency"]
 description: "Susoctocog Alfa: 예측 신규 적응증 Primary release disorder of platelets (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300956/EE"
@@ -49,8 +49,8 @@ Susoctocog alfa는 B-도메인 결손 재조합 돼지 서열 혈액응고 VIII�
 | 예측 신규 적응증 | Primary release disorder of platelets |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Proceed with Guardrails |
 
 > 참고: 예측 순위 1~3위(혈소판 방출 장애, 가성 폰빌레브란트병, 글란츠만 혈소판무력증)는 TxGNN 점수가 더 높지만, 임상시험과 문헌이 전혀 없고 기전적 근거도 없어 보류(Hold) 대상입니다. 이 보고서는 근거가 존재하는 "혈우병"을 중심으로 평가했습니다.

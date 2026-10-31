@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 704
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Streptomycin: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L4). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 적응증 텍스트는 확인되지 않음 (허가사항 참조)"
 monitor_inn: "Streptomycin"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
@@ -48,8 +48,8 @@ Streptomycin은 아미노글리코사이드 계열 항생제로, 한국에서 �
 | 예측 신규 적응증 | 결막염 (Conjunctivitis) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

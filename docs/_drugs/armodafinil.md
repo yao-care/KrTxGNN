@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 87
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Armodafinil: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 확인되지 않음 (허가증에는 문서 링크만 수록)"
 monitor_inn: "ARMODAFINIL"
 predicted_indications: ["insomnia (disease)"]
@@ -48,8 +48,8 @@ Armodafinil은 각성 촉진제인 modafinil의 R-이성질체로, 한국에서 
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L2 (아래 설명 참조) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 > 근거 수준 참고: 판정 규칙상 L2는 "완료된 Phase 2/3 RCT 1건"이 조건입니다. 완료된 Phase 2 시험이 2건 있으나, 불면증 자체에 대한 armodafinil의 효과를 보여주는 결과 데이터가 없어 L2의 하한 수준으로 봐야 합니다.

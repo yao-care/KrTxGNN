@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 57
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -54,8 +54,8 @@ Amiloride Hydrochloride는 포타슘 보존성 이뇨제 계열 약물로, DrugB
 | 예측 신규 적응증 | 예측 데이터 없음 |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (모델 예측 없음, 실제 연구 데이터 미수집) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | **Hold** |
 
 ---

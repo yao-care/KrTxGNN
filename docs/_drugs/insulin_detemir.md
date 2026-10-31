@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "INSULIN DETEMIR"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Insulin Detemir: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603934/EE"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 | 예측 신규 적응증 | 자가면역성 난소염 (autoimmune oophoritis) |
 | TxGNN 예측 점수 | 0.9967 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

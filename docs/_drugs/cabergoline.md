@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CABERGOLINE"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Cabergoline: 예측 신규 적응증 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800320/EE"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **조로증-저신장-색소성 모반 증후군(progeria-short 
 | 예측 신규 적응증 | 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) |
 | TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 6건 (모두 단일제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

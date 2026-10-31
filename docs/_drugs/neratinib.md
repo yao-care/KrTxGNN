@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 542
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Neratinib: 한국의 알려진 용도 및 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---
@@ -46,7 +46,8 @@ TxGNN 딥러닝 모델이 Neratinib에 대해 제시한 후보(점수 0.99 이�
 | 새로 예측된 적응증 | 없음 (출처를 확인할 수 있는 모델 후보는 모두 알려진 용도) |
 | 모델 후보 중 알려진 용도 | 4 |
 | 근거 수준 | 해당 없음 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 
 ## 모델 후보 중 알려진 용도
 

@@ -5,7 +5,7 @@ layout: default
 title: Crotamiton
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 237
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Crotamiton: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Crotamiton"
 predicted_indications: []
@@ -43,8 +43,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | 이 약은 습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물린데, 두드러기에 사용합니다.; 이 약은 습진, 피부염, 가려움, 두드러기, 땀띠, 벌레물린데에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204538/EE; 이 약은 피부가려움에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701274/EE |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 12건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 12건) |
+| 허가증 수 | 12건 (유효 9건) |
 
 ## 한국 시판 정보
 

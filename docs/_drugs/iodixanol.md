@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Iodixanol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Iodixanol: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 텍스트로 포함되어 있지 않음 (허가증에는 첨부문서 링크만 있음)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 골관절염 |
 | TxGNN 예측 점수 | 0.9907 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 6건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

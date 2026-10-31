@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "Cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Cilastatin: 예측 신규 적응증 황색포도알균 감염 (근거 수준 L3). 기존 적응증: 허가 적응증 본문을 확인할 수 없음(허가 문서 링크만 확인됨). 약리학적으로는 이미페넴의 신장 분해를 막는 보조 성분"
 ---
 
@@ -48,8 +48,8 @@ Cilastatin은 신장의 디하이드로펩티다아제-I(DHP-I)을 억제해 카
 | 예측 신규 적응증 | 황색포도알균 감염 |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

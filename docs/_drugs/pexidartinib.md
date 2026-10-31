@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pexidartinib: 예측 신규 적응증 HER2 양성 유방암 (HER2 positive breast carcinoma) (근거 수준 L5). 기존 적응증: 건활막 거대세포종(TGCT). 한국 허가증에는 적응증 본문 대신 허가 문서 링크만 등록되어 있어…"
 monitor_inn: "Pexidartinib"
 predicted_indications: ["HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "synovium cancer", "synovium disease", "dermatofibrosarcoma protuberans", "multifocal choroiditis", "malignant giant cell tumor"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **HER2 양성 유방암(HER2 positive breast carcinoma)**에 효
 | 예측 신규 적응증 | HER2 양성 유방암 (HER2 positive breast carcinoma) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

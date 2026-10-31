@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "FAMCICLOVIR"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Famciclovir: 예측 신규 적응증 사후 감염성 신경통 (post-infectious neuralgia) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306322/EE"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **사후 감염성 신경통(post-infectious neuralgia)**에 효
 | 예측 신규 적응증 | 사후 감염성 신경통 (post-infectious neuralgia) |
 | TxGNN 예측 점수 | 0.9975 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 단일제 허가 20건 (일부 기록만 포함되었을 수 있음) |
 | 권장 결정 | Hold |
 

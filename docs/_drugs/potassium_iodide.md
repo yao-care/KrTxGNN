@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 618
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Potassium Iodide: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 이번 자료에 포함되지 않아 확인할 수 없음 (허가증 9건 모두 허가정보 링크만 제공)"
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]
@@ -48,8 +48,8 @@ Potassium iodide(요오드화칼륨)는 한국에서 정제와 점안액 형태�
 | 예측 신규 적응증 | 비강 질환 (Nasal Cavity Disease) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L4 (전임상·기전 수준의 증례 보고만 존재, 임상시험 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 9건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 9건) |
+| 허가증 수 | 9건 (유효 9건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

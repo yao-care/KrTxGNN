@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clomifene"
 predicted_indications: ["46,XY disorder of sex development due to testicular steroidogenesis defect", "longitudinal vaginal septum", "transverse vaginal septum", "symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "ovarian remnant syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clomifene: 예측 신규 적응증 46,XY disorder of sex development due to testicular steroidogenesis defect (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 확인됨)"
 ---
 
@@ -48,8 +48,8 @@ Clomifene은 한국에서 허가된 단일 성분 제제(영풍클로미펜시�
 | 예측 신규 적응증 | 46,XY 성분화 이상(고환 스테로이드 생성 결함 기인) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 (단일 성분 1건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

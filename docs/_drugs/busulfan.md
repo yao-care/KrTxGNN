@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 165
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Busulfan: 예측 신규 적응증 골수이형성증후군 (Myelodysplastic Syndrome) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 정보가 문서 링크로만 제공되어 본문을 확인하지 못함)"
 monitor_inn: "BUSULFAN"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "feline acquired immunodeficiency syndrome"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **골수이형성증후군(Myelodysplastic Syndrome, MDS)**에 �
 | 예측 신규 적응증 | 골수이형성증후군 (Myelodysplastic Syndrome) |
 | TxGNN 예측 점수 | 0.9962 |
 | 근거 수준 | L1 (완료된 Phase 3 RCT 2건 이상: NCT00822393, NCT00005866) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

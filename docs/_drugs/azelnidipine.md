@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 115
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -36,7 +36,6 @@ predicted_indications: []
 Evidence Pack를 분석합니다. 핵심 상황:
 
 - `predicted_indications: []` — TxGNN 예측 결과 없음
-- `taiwan_regulatory.market_status: "Not marketed"` — 미허가
 - `original_moa: "[Data Gap]"` — MOA 없음
 - 안전성 데이터 전체 부재
 
@@ -61,8 +60,8 @@ TxGNN 모델의 신규 적응증 예측 결과가 생성되지 않았으며, 작
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 미생성) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (예측 결과 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 10건) |
 | 권장 결정 | Hold |
 
 ---

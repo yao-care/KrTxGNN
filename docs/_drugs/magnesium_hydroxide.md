@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (근거 수준 L3). 기존 적응증: 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질 (일부 제품은 위·십이지장궤양, 위염, 위산과다, 변비 포함)"
 ---
 
@@ -48,7 +48,7 @@ description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (근거 �
 | 예측 신규 적응증 | 위 질환 |
 | TxGNN 예측 점수 | 0.9923 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 
@@ -111,7 +111,7 @@ description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (근거 �
 - DrugBank 등에서 작용 기전(MOA) 데이터 보완
 - "위 질환" 중 기존 허가 적응증과 구분되는 구체적 신규 질환 정의
 - 수산화마그네슘 단독제를 대상으로 한 현대적 임상 근거 확인
-- 한국 시판 상태(취소·미시판 여부) 확인
+- 한국 허가 상태 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

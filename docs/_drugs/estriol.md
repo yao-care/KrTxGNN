@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 321
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Estriol: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가증 문서 링크만 제공됨)"
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 | 예측 신규 적응증 | 무월경 (Amenorrhea) |
 | TxGNN 예측 점수 | 0.9918 |
 | 근거 수준 | L3 (소규모 임상·관찰 연구와 리뷰 수준, Phase 3 RCT 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

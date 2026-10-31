@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Calcitriol: 예측 신규 적응증 비타민 D 결핍 (obsolete vitamin D deficiency, 폐기된 질환 용어) (근거 수준 L5)."
 monitor_inn: "CALCITRIOL"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "hereditary hypophosphatemic rickets"]
@@ -48,7 +48,7 @@ TxGNN 모델은 **비타민 D 결핍(obsolete vitamin D deficiency)**에 효과�
 | 예측 신규 적응증 | 비타민 D 결핍 (obsolete vitamin D deficiency, 폐기된 질환 용어) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 

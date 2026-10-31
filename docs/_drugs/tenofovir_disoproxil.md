@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 726
 evidence_level: L4
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tenofovir Disoproxil: 예측 신규 적응증 원숭이면역결핍바이러스 감염 (Simian immunodeficiency virus infection) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 데이터에 포함되어 있지 않아 확인 불가 (허가증 PDF 링크만 제공됨)"
 monitor_inn: "TENOFOVIR DISOPROXIL"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
@@ -50,7 +50,7 @@ TxGNN 모델은 **원숭이면역결핍바이러스 감염(Simian immunodeficien
 | 예측 신규 적응증 | 원숭이면역결핍바이러스 감염 (Simian immunodeficiency virus infection) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L4 (전임상 연구 중심) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold (연구 질문 단계) |
 

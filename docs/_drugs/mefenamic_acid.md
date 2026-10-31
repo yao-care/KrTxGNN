@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 497
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mefenamic Acid: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며, 적응증 본문 텍스트는 확인되지 않음"
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
 | TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L3 (소규모 이중맹검 교차시험 등 문헌 위주, 임상시험 등록 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 8건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
+| 허가증 수 | 8건 (유효 8건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 > 참고: 같은 약물의 다른 예측 중 **편두통(점수 0.9923, 근거 L2)**과 **두통 질환(점수 0.9964, 근거 L2)**은 Proceed with Guardrails 수준입니다. 아래 "결론"에서 함께 정리했습니다.

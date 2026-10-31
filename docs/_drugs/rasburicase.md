@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 645
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Rasburicase: 예측 신규 적응증 신장성 저요산혈증 (hypouricemia, renal) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 미확인 (허가 문서 링크만 확인됨)"
 monitor_inn: "RASBURICASE"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "renal tubular acidosis", "disorder of phenylalanine metabolism"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **신장성 저요산혈증(hypouricemia, renal)**에 효과가 
 | 예측 신규 적응증 | 신장성 저요산혈증 (hypouricemia, renal) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

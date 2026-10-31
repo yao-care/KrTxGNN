@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Capreomycin"
 predicted_indications: ["gout", "rheumatoid arthritis", "osteoarthritis", "sclerosing cholangitis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "meningococcal infection", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Capreomycin: 예측 신규 적응증 통풍 (gout) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104025/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **통풍(gout)**에 효과가 있을 수 있다고 예측했지�
 | 예측 신규 적응증 | 통풍 (gout) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

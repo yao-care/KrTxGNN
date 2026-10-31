@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 354
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fludrocortisone: 예측 신규 적응증 원발성 피부 T세포 림프종 (primary cutaneous T-cell lymphoma) (근거 수준 L5). 기존 적응증: 허가 적응증 문구는 링크 형태로만 제공되어 확인 불가 (식약처 의약품안전나라 허가 문서 참조)"
 monitor_inn: "fludrocortisone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "cystic teratoma", "spinal cord dermoid cyst", "dermoid cyst of ovary", "disease of orbital part of eye adnexa", "eye disease", "disease of orbital region", "exostosis"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **원발성 피부 T세포 림프종(primary cutaneous T-cell ly
 | 예측 신규 적응증 | 원발성 피부 T세포 림프종 (primary cutaneous T-cell lymphoma) |
 | TxGNN 예측 점수 | 0.9958 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

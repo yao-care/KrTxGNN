@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 532
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mycophenolate Mofetil: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 이식 장기 거부반응 예방 (허가 적응증 원문은 허가증 링크로만 제공되어 문헌 기술을 참고함)"
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **HIV 감염(HIV infectious disease)**에 효과가 있을 수 �
 | 예측 신규 적응증 | HIV 감염 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L2 (완료된 Phase 2 무작위 임상시험 1건 및 RCT 문헌 1편, 다만 효과는 제한적) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 6건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

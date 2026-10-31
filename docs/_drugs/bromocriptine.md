@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bromocriptine: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증… (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
 monitor_inn: "Bromocriptine"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "syndromic myopia"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **선천성 당화 장애(fucosylation 결함형)**를 1순위 �
 | 예측 신규 적응증 | 선천성 당화 장애, fucosylation 결함형 (congenital disorder of glycosylation with defective fucosylation) |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

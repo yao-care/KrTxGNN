@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Metoclopramide: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197200484/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **위십이지장염(gastroduodenitis)**에 효과가 있을 수
 | 예측 신규 적응증 | 위십이지장염 (gastroduodenitis) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Acarbose: 예측 신규 적응증 classic stiff person syndrome (전형적 강직인간증후군) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (허가증 링크 참조). 알파-글루코시다제 억제제의…"
 monitor_inn: "ACARBOSE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -48,8 +48,8 @@ Acarbose는 알파-글루코시다제 억제제로, 한국에서 혈당 조절(�
 | 예측 신규 적응증 | classic stiff person syndrome (전형적 강직인간증후군) |
 | TxGNN 예측 점수 | 0.9965 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

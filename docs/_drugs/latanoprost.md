@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Latanoprost: 예측 신규 적응증 내장 칼시필락시스 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803532/EE"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 | 예측 신규 적응증 | 내장 칼시필락시스 (visceral calciphylaxis) |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 20건 (모두 유효, 단일제) |
+| 한국 시판 현황 | 시판 중 (유효 허가 20건 / 전체 20건) |
+| 허가증 수 | 20건 (유효 20건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

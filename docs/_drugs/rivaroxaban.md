@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 661
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Rivaroxaban: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (항응고제로 사용)"
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -48,7 +48,7 @@ Rivaroxaban은 경구용 Xa 인자 억제 항응고제로, 한국에서 20건의
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
 | TxGNN 예측 점수 | 0.9957 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 11건) |
 | 허가증 수 | 20건 (모두 단일제, 유효) |
 | 권장 결정 | Hold |
 

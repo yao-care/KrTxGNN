@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 351
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Flubendazole: 예측 신규 적응증 방광 암종 (urinary bladder carcinoma) (근거 수준 L5). 기존 적응증: 회충, 요충, 편충, 십이지장충의 감염 및 이들 혼합감염의 치료"
 monitor_inn: "Flubendazole"
 predicted_indications: ["urinary bladder carcinoma", "urinary bladder neoplasm", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder squamous papilloma", "bladder signet ring cell adenocarcinoma", "bladder mixed adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **방광 암종(urinary bladder carcinoma)**에 효과가 있을
 | 예측 신규 적응증 | 방광 암종 (urinary bladder carcinoma) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 > 참고: 예측 순위 2위인 방광 신생물(점수 0.9999)은 간접적인 전임상 문헌이 있어 L4로 평가되며, 별도로 "연구 과제(Research Question)"로 분류됩니다.

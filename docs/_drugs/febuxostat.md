@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 339
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Febuxostat: 예측 신규 적응증 신성 저요산혈증 (Hypouricemia, renal) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증은 링크로만 제공되어 본문이 없음)"
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
@@ -49,7 +49,7 @@ TxGNN 모델은 **신성 저요산혈증(Hypouricemia, renal)**에 효과가 있
 | 예측 신규 적응증 | 신성 저요산혈증 (Hypouricemia, renal) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L4 (기전 연구·증례 수준, 근거 약함) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

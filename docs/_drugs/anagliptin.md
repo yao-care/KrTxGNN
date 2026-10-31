@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Anagliptin: 예측 신규 적응증 옵시스모이형성증 (Opsismodysplasia) (근거 수준 L5). 기존 적응증: 제2형 당뇨병 (허가 적응증 원문은 데이터에 없으며, DPP-4 억제제로서의 임상 용도 정보에 근거)"
 monitor_inn: "ANAGLIPTIN"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **옵시스모이형성증(Opsismodysplasia)**에 효과가 있�
 | 예측 신규 적응증 | 옵시스모이형성증 (Opsismodysplasia) |
 | TxGNN 예측 점수 | 0.9943 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 4건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

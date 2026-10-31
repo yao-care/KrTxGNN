@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 62
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -48,8 +48,8 @@ Amisulpride(DrugBank ID: DB06288)는 현재 대만 미허가 약물로, 이번 E
 | 예측 신규 적응증 | 예측 결과 없음 |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | 평가 불가 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 10건) |
 | 권장 결정 | Hold |
 
 ## 데이터 갭 현황

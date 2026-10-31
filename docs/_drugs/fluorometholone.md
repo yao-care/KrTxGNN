@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fluorometholone: 예측 신규 적응증 감염 후 혈관염 (postinfectious vasculitis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707502/EE"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **감염 후 혈관염(postinfectious vasculitis)**에 효과가
 | 예측 신규 적응증 | 감염 후 혈관염 (postinfectious vasculitis) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

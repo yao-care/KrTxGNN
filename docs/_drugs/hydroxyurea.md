@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Hydroxyurea: 예측 신규 적응증 여성 유방암 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 자료에 적응증 본문 없이 문서 링크만 있음)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 | 예측 신규 적응증 | 여성 유방암 |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 (유방암 세포·인실리코 연구 수준) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 (단일 성분, 모두 유효 상태) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

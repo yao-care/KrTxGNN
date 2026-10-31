@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Phenobarbital: 예측 신규 적응증 삼차신경 신생물 (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 문서 링크만 수록)"
 ---
 
@@ -48,8 +48,8 @@ Phenobarbital은 국내에 단일성분 제제(정제 및 주사제) 7건이 허
 | 예측 신규 적응증 | 삼차신경 신생물 |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 7건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 7건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

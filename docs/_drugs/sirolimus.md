@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Sirolimus: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음(허가 문서 링크만 제공)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 | 예측 신규 적응증 | 지방육종 (Liposarcoma) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L3 (완료된 Phase 2 단일군 시험 1건이 있으나 RCT가 아니고 결과 미공개) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 (단일 성분, 모두 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

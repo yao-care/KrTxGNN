@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "OFLOXACIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ofloxacin: 예측 신규 적응증 다발성 과점성 증후군 (근거 수준 L5). 기존 적응증: 허가 문서가 링크로만 제공되어 적응증 본문을 확인할 수 없음 (항균제로 분류)"
 ---
 
@@ -48,7 +48,7 @@ Ofloxacin은 플루오로퀴놀론계 항균제로, 한국에서 점안액·안�
 | 예측 신규 적응증 | 다발성 과점성 증후군 |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

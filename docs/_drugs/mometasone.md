@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 528
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mometasone: 예측 신규 적응증 원발성 피부 T세포 림프종 (Primary Cutaneous T-cell Lymphoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않았습니다(허가사항 문서 링크만 확인됨). 참고로 약리 자료에는 비강 내 사용 시 천식…"
 monitor_inn: "mometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **원발성 피부 T세포 림프종(Primary Cutaneous T-cell Ly
 | 예측 신규 적응증 | 원발성 피부 T세포 림프종 (Primary Cutaneous T-cell Lymphoma) |
 | TxGNN 예측 점수 | 0.9936 |
 | 근거 수준 | L5 (기전적 타당성만 있으며, 이 약물에 특이적인 연구는 없음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 10건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 10건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

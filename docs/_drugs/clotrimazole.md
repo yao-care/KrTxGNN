@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 230
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clotrimazole: 예측 신규 적응증 여드름 (Acne) (근거 수준 L5). 기존 적응증: 피부사상균, 효모 곰팡이, 기타 진균에 의한 피부진균증(백선, 어루러기, 피부칸디다증, 칸디다성 외음염 및 칸디다성 귀두염)…"
 monitor_inn: "CLOTRIMAZOLE"
 predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
@@ -50,7 +50,7 @@ TxGNN 모델은 상위 예측 질환으로 **여드름(Acne)**을 제시하며(�
 | 예측 신규 적응증 | 여드름 (Acne) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L4 (여드름 기준, 직접 근거 매우 제한적) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold (여드름) |
 

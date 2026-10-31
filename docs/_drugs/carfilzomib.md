@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Carfilzomib: 예측 신규 적응증 CMM7 (피부 악성 흑색종 아형으로 추정되나 명칭이 모호함) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 확인 불가 (허가사항 참조 필요)"
 monitor_inn: "CARFILZOMIB"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
@@ -48,8 +48,8 @@ Carfilzomib은 비가역적 프로테아좀 억제제로, 한국에서 키프롤
 | 예측 신규 적응증 | CMM7 (피부 악성 흑색종 아형으로 추정되나 명칭이 모호함) |
 | TxGNN 예측 점수 | 0.9937 |
 | 근거 수준 | L5 (CMM7 기준) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 참고: 상위 5개 예측은 모두 흑색종 계열입니다 (CMM7, 소아 연수막 흑색종, 상피양 세포 포도막 흑색종, 외음부 흑색종, 흑색종). 문헌 근거가 있는 항목은 5순위 "흑색종(점수 0.9903)"뿐이며, 이 항목의 근거 수준은 L4입니다. 아래 근거 섹션은 이 항목을 기준으로 작성했습니다.

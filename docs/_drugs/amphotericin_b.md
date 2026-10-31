@@ -5,7 +5,7 @@ layout: default
 title: Amphotericin B
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 70
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -46,8 +46,8 @@ Evidence Pack 분석 완료. `predicted_indications: []`이고 `original_indicat
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199704225/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500709/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308660/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199304444/EE |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 4건) |
 
 ---
 

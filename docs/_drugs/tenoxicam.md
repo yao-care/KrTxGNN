@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tenoxicam"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tenoxicam: 예측 신규 적응증 합지증·단지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 이 보고서용으로 수집된 데이터에 허가 적응증 본문이 없고 허가증 링크만 있어 확인할 수 없음"
 ---
 
@@ -48,8 +48,8 @@ Tenoxicam은 COX 억제 계열의 비스테로이드 소염진통제(NSAID)입�
 | 예측 신규 적응증 | 합지증·단지증 증후군 (brachydactyly-syndactyly syndrome) |
 | TxGNN 예측 점수 | 0.9980 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 (모두 수출용 제품) |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Omalizumab: 예측 신규 적응증 기관지염 (근거 수준 L5). 기존 적응증: 허가증에는 적응증 본문 없이 허가 문서 링크만 있어 한국 허가 적응증은 확인되지 않았습니다. 약리학 자료상 사용례는 알레르기…"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 �
 | 예측 신규 적응증 | 기관지염 |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 6건 (모두 단일 성분, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

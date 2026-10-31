@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 373
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Gemfibrozil: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
 monitor_inn: "Gemfibrozil"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
@@ -48,8 +48,8 @@ Gemfibrozil은 PPAR-alpha 작용제 계열의 지질 저하제로, 한국에서 
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L4 (전임상·기전 연구 수준) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 775
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ustekinumab: 예측 신규 적응증 피부염 (Dermatitis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (MFDS 허가 문서 참조)"
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
@@ -48,8 +48,8 @@ Ustekinumab은 IL-12/IL-23의 공통 p40 소단위를 차단하는 단클론항�
 | 예측 신규 적응증 | 피부염 (Dermatitis) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L2 (완료된 Phase 2 무작위 시험이 있으나 효능이 불충분하여 보수적으로 해석) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 8건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
+| 허가증 수 | 8건 (유효 8건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 ## 이 예측이 타당한 이유는?

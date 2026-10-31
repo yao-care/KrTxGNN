@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 405
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Hydroquinone: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L5). 기존 적응증: 간반, 흑피증(기미), 주근깨, 노인성 검은반점, 기타 불필요한 부위의 과도한 멜라닌 색소 침착 피부의 점차적인 표백"
 monitor_inn: "HYDROQUINONE"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 | 예측 신규 적응증 | 지루각화증 (Seborrheic Keratosis) |
 | TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L5 (직접 임상시험 없음, 간접 관찰 연구 1건 및 기전적 추정만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 15건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 15건 / 전체 15건) |
+| 허가증 수 | 15건 (유효 15건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

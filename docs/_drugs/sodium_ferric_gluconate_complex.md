@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 696
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "SODIUM FERRIC GLUCONATE COMPLEX"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "anaphylaxis", "bronchitis", "food-dependent exercise-induced anaphylaxis", "diabetic cataract"]
 description: "Sodium Ferric Gluconate Complex: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: 이 약은 철 결핍성 빈혈에 사용합니다"
@@ -50,8 +50,8 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 | 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

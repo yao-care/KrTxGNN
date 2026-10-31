@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 41
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Allantoin: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) (근거 수준 L5). 기존 적응증: 치열·치핵의 아픔·가려움·부종(부기)·출혈의 일시적인 완화"
 monitor_inn: "ALLANTOIN"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 | 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (Severe Nonproliferative Diabetic Retinopathy) |
 | TxGNN 예측 점수 | 0.9956 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

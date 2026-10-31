@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 560
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Olanzapine: 예측 신규 적응증 영아 양성 발작성 사경 (Benign paroxysmal torticollis of infancy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 허가 문서 링크만 수록됨)"
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -50,7 +50,7 @@ Olanzapine은 한국에서 단일 성분제로 20건이 허가된 비정형 항�
 | 근거 수준 (1순위) | L5 |
 | 권장 결정 (1순위) | Hold |
 | 주요 검토 대상 (2순위) | 광장공포증 (Agoraphobia), 예측 점수 0.9947, 근거 수준 L3, 권장 결정 Research Question |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 (모두 유효, 단일 성분제) |
 
 > 1순위 예측은 근거가 전혀 없어 보류하며, 이하 임상시험·문헌 근거는 근거가 있는 2순위(광장공포증)를 기준으로 정리합니다.

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 102
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Atracurium Besylate: 예측 신규 적응증 자간전증 (Preeclampsia) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 아닌 허가 문서 링크만 등재되어 있어 구체적 문구를 확인할 수 없음 (신경근 차단제로서 마취 시 근이…"
 monitor_inn: "Atracurium besylate"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **자간전증(preeclampsia)**에 효과가 있을 수 있다고
 | 예측 신규 적응증 | 자간전증 (Preeclampsia) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

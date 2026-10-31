@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 519
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Mirtazapine: 예측 신규 적응증 Ohdo 증후군 및 변이형 (Ohdo syndrome and variants) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 데이터에 포함되어 있지 않습니다(허가증 PDF 링크만 있음). 허가사항을 참조하세요"
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
@@ -48,7 +48,7 @@ Mirtazapine은 한국에서 항우울제로 허가되어 시판 중인 단일성
 | 예측 신규 적응증 | Ohdo 증후군 및 변이형 (Ohdo syndrome and variants) |
 | TxGNN 예측 점수 | 0.9942 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 (모두 유효, 단일성분) |
 | 권장 결정 | Hold |
 

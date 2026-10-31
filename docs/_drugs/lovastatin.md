@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "LOVASTATIN"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Lovastatin: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공되어 내용 확인 불가)"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **콜레스테롤 에스테르 전달 단백질 결핍증(choles
 | 예측 신규 적응증 | 콜레스테롤 에스테르 전달 단백질 결핍증 |
 | TxGNN 예측 점수 | 0.9942 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 3건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

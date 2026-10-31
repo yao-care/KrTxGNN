@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 138
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Benzoyl Peroxide: 예측 신규 적응증 외음부 역전성 모낭각화증 (vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 심상성 여드름(보통여드름)"
 monitor_inn: "BENZOYL PEROXIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **외음부 역전성 모낭각화증(vulvar inverted follicular
 | 예측 신규 적응증 | 외음부 역전성 모낭각화증 (vulvar inverted follicular keratosis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 미시판 (취소된 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 0건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

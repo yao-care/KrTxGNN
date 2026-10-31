@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Acyclovir: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 이 약은 재발성 구순포진의 초기 치료에 사용합니다"
 ---
 
@@ -50,7 +50,7 @@ TxGNN 모델은 **점상 상피성 각결막염(punctate epithelial keratoconjun
 | 예측 신규 적응증 | 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) |
 | TxGNN 예측 점수 | 0.9967 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 17건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

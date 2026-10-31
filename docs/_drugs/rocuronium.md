@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 663
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Rocuronium: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L5). 기존 적응증: 마취 시 신경근 차단(허가 문서 링크만 제공되어 상세 적응증 문구는 확인되지 않음)"
 monitor_inn: "Rocuronium"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
@@ -48,8 +48,8 @@ Rocuronium은 비탈분극성 신경근 차단제로, 마취 시 근이완을 �
 | 예측 신규 적응증 | 편두통 (Migraine disorder) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 11건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 11건 / 전체 11건) |
+| 허가증 수 | 11건 (유효 11건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 286
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Domperidone: 예측 신규 적응증 신장성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiur… (근거 수준 L5). 기존 적응증: 오심, 구토 증상의 완화"
 monitor_inn: "DOMPERIDONE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
@@ -50,7 +50,7 @@ TxGNN 모델은 **신장성 항이뇨호르몬 부적절 분비 증후군(Nephro
 | 예측 신규 적응증 | 신장성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
 | TxGNN 예측 점수 | 0.9908 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 | 권장 결정 | Hold |
 

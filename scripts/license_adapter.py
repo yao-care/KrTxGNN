@@ -4,8 +4,7 @@
 先 GET /searchDrug 取 cookie，每批 10,000 筆，以 ExcelRowdata／ExcelRowdata2 位移）。xlsx 欄位：품목기준코드（唯一鍵，＝證據包 license_id）、
 취소/취하（정상／취하／폐업／유효기간만료／행정(취소)…）。
 寫回：status＝취소/취하 原文（정상 寫成空白以外的「정상」）；license_status：정상→valid，其他→cancelled（韓文字樣不在 reviewer 的註銷字樣裡）。
-注意：Kr 頁面的狀態列目前依規則固定寫「Unknown (source lacks cancellation status)」（舊來源沒有註銷狀態）；
-這份新來源有註銷狀態，要不要改掉這條規則另案決定，排程先只更新證據包。新檔沒有的品目保留原狀態。
+2026-10-31（用戶決定）：Kr 頁面狀態列改依這份資料的註銷狀態，與其他站相同（原本固定寫 Unknown）。新檔沒有的品目保留原狀態。
 """
 import io
 import time

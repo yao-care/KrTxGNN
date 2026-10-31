@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Perampanel: 예측 신규 적응증 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504770/EE"
 ---
 
@@ -48,8 +48,8 @@ Perampanel은 AMPA 수용체를 길항하는 항경련제 계열의 약물입니
 | 예측 신규 적응증 | 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) |
 | TxGNN 예측 점수 | 0.9979 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 19건 (단일 성분 제제 19건, 유효 19건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 19건 / 전체 19건) |
+| 허가증 수 | 19건 (유효 19건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

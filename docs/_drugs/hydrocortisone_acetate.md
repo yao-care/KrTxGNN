@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 403
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Hydrocortisone Acetate: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상"
 monitor_inn: "HYDROCORTISONE ACETATE"
 predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucinosa", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "seborrheic keratosis"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 | 예측 신규 적응증 | 원형탈모증 (Alopecia Areata) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L1 (설계상 Phase 3 RCT 1건이나, 효능 입증은 아님. 아래 설명 참조) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 7건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 7건) |
+| 허가증 수 | 7건 (유효 6건) |
 | 권장 결정 | Hold |
 
 > **근거 수준 관련 참고:** 완료된 Phase 3 RCT가 1건 있으나 L1 기준(≥2건)에는 못 미치며, 이 시험은 hydrocortisone을 시험 대상이 아닌 비교 대조약으로 사용했습니다. 따라서 실질적인 근거 수준은 L1보다 낮게 보는 것이 타당하며, 데이터 파일상의 L1 표기는 시험 설계만 반영한 것입니다.

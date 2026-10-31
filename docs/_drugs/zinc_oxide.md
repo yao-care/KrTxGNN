@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 792
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Zinc Oxide: 예측 신규 적응증 여드름 (Acne) (근거 수준 L5). 기존 적응증: 임신 및 수유기, 발육기, 노년기의 비타민 D 보급"
 monitor_inn: "ZINC OXIDE"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 | 예측 신규 적응증 | 여드름 (Acne) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L4 (전임상·기전 수준의 간접 근거) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold (추가 연구 질문 단계) |
 
 ## 이 예측이 타당한 이유는?

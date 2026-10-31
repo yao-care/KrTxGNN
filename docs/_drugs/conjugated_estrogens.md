@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 235
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Conjugated Estrogens: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 수록)"
 monitor_inn: "Conjugated estrogens"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 편두통 (Migraine disorder) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 2건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Proceed with Guardrails (연구 질문 단계) |
 
 ## 이 예측이 타당한 이유는?

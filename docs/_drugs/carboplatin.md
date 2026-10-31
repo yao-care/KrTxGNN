@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Carboplatin: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확보되지 않음"
 ---
 
@@ -49,8 +49,8 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 | 예측 신규 적응증 | 직장 점액성 선암 |
 | TxGNN 예측 점수 | 0.9928 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 5건 (모두 단일 성분, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

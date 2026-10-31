@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Dexibuprofen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Dexibuprofen: 예측 신규 적응증 짧은손가락증-합지증 증후군 (근거 수준 L5). 기존 적응증: 만성 다발성 관절염, 류마티스관절염, 관절증, 강직척추염, 외상 및 수술 후 통증성 부종 또는 염증…"
 ---
 
@@ -49,7 +49,7 @@ TxGNN 모델은 **짧은손가락증-합지증 증후군(brachydactyly-syndactyl
 | 예측 신규 적응증 | 짧은손가락증-합지증 증후군 |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

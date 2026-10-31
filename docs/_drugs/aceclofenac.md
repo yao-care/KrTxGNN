@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Aceclofenac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Aceclofenac: 예측 신규 적응증 brachyolmia-amelogenesis imperfecta syndrome (근거 수준 L5). 기존 적응증: 허가 문서가 링크로만 제공되어 구체적인 적응증 문구를 확인할 수 없음"
 ---
 
@@ -48,7 +48,7 @@ Aceclofenac은 한국에서 단일 성분 제제로 다수 허가된 비스테�
 | 예측 신규 적응증 | brachyolmia-amelogenesis imperfecta syndrome |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 최소 20건 (목록이 일부일 수 있음) |
 | 권장 결정 | Hold |
 

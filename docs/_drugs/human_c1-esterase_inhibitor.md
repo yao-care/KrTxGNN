@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 400
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "HUMAN C1-ESTERASE INHIBITOR"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "primary release disorder of platelets", "diabetic retinopathy", "pseudo-von Willebrand disease"]
 description: "Human C1-Esterase Inhibitor: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201109899/EE"
@@ -49,8 +49,8 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 | 예측 신규 적응증 | 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) |
 | TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 (모델 예측만 있음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 1건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

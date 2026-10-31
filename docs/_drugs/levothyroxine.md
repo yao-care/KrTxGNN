@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Levothyroxine: 예측 신규 적응증 신장 저형성/무형성증 (근거 수준 L5). 기존 적응증: 이번 보고서에 정리된 데이터에는 허가 적응증 본문이 없고 허가사항 문서 링크만 있어 확인할 수 없습니다"
 ---
 
@@ -48,8 +48,8 @@ Levothyroxine은 한국에서 19건의 단일제 허가증이 확인된 갑상�
 | 예측 신규 적응증 | 신장 저형성/무형성증 |
 | TxGNN 예측 점수 | 0.9967 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 19건 (모두 단일제, 유효) |
+| 한국 시판 현황 | 시판 중 (유효 허가 19건 / 전체 19건) |
+| 허가증 수 | 19건 (유효 19건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

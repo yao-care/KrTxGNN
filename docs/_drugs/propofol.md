@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 633
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Propofol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L2). 기존 적응증: 전신마취 및 진정 (허가 적응증 원문은 이 보고서용으로 수집된 데이터에 텍스트로 포함되지 않아…"
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **편두통(Migraine disorder)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 편두통 (Migraine disorder) |
 | TxGNN 예측 점수 | 0.9969 |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 19건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 19건 / 전체 19건) |
+| 허가증 수 | 19건 (유효 19건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

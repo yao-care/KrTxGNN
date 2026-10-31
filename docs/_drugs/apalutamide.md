@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 77
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 predicted_indications: []
 ---
 
@@ -55,8 +55,8 @@ APALUTAMIDE(DrugBank ID: DB11901)는 현재 한국 미허가 약물로, 이번 E
 | 예측 신규 적응증 | 데이터 없음 |
 | TxGNN 예측 점수 | 데이터 없음 |
 | 근거 수준 | — (예측 결과 미생성) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 0건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
+| 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | **Hold** |
 
 ---

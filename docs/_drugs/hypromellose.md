@@ -5,7 +5,7 @@ layout: default
 title: Hypromellose
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 408
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Hypromellose: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Hypromellose"
 predicted_indications: []
@@ -43,8 +43,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | 이 약은 눈물 분비 부족 및 점액부족에 의한 눈의 건조에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903256/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903257/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204637/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903255/EE; https://nedrug.mfds. |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 12건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 12건) |
+| 허가증 수 | 12건 (유효 12건) |
 
 ## 한국 시판 정보
 

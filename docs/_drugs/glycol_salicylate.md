@@ -5,7 +5,7 @@ layout: default
 title: Glycol Salicylate
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 390
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glycol Salicylate: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Glycol salicylate"
 predicted_indications: []
@@ -43,8 +43,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | 이 약은 타박상, 삠, 요(허리)통, 어깨결림, 근육통, 근육피로, 관절통, 동창(언 상처)의 진통ㆍ소염(항염)에 사용합니다.; 이 약은 요통, 타박상, 삠, 어깨결림, 관절통, 근육통, 근육피로, 동창(언 상처), 골절통의 진통·소염(항염)에 사용합니다.; 이 약은 삠, 타박상, 근육통, 관절통, 골절통, 요(허리)통, 어깨결림, 동창(언 상처)의 진통ㆍ소염에 사용합니다.; 이 약은 어깨결림, 요(허리)통, 근육통 근육피로, 타박, 염좌(삠), 관절통 가벼운 동상에 사용합니다.; 이 약은 삠, 타박상, 근육통, 관절통, 골절통,  |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 18건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 18건 / 전체 18건) |
+| 허가증 수 | 18건 (유효 18건) |
 
 ## 한국 시판 정보
 

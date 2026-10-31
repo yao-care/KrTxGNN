@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 265
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Desoximetasone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 피부 염증성 질환 (알레르기 반응, 습진, 건선 등"
 monitor_inn: "DESOXIMETASONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "primary cutaneous B-cell lymphoma", "atrichia with papular lesions", "vulvar inverted follicular keratosis"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 | 예측 신규 적응증 | 원형탈모증 (Alopecia Areata) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L2 (RCT 1건, 다만 Phase 및 완료 여부는 확인되지 않음) |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 11건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 11건) |
+| 허가증 수 | 11건 (유효 10건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Omeprazole: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301653/EE"
 ---
 
@@ -48,8 +48,8 @@ Omeprazole은 위산 분비를 억제하는 양성자펌프 억제제 계열 약
 | 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
 | TxGNN 예측 점수 | 0.9964 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
-| 허가증 수 | 10건 |
+| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 10건) |
+| 허가증 수 | 10건 (유효 9건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

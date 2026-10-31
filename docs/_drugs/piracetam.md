@@ -5,7 +5,7 @@ layout: default
 title: Piracetam
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 604
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Piracetam: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 monitor_inn: "Piracetam"
 predicted_indications: []
@@ -43,7 +43,7 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507554/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906708/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202848/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201299/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503836/EE;  |
-| 한국 시판 현황 | Unknown (source lacks cancellation status) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 20건 |
 
 ## 한국 시판 정보
