@@ -87,6 +87,9 @@ TxGNN 모델 자체는 Harvard Medical School의 Zitnik Lab이 개발하여 *Nat
 국가별 의약품 허가 데이터 통합, 지식 그래프에 이미 기록된 용도를 제외한 딥러닝 예측, PubMed / ClinicalTrials
 근거 등급화, SMART on FHIR 전자의무기록 연동을 포함합니다.
 
+플랫폼에 대한 더 자세한 소개와 학술적 근거는 <a href="{{ '/about/' | relative_url }}">소개</a> 페이지에서
+확인할 수 있습니다.
+
 ---
 
 <div class="disclaimer">
