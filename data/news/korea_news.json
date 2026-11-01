@@ -1,10 +1,82 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-11-01T05:02:57.651655+00:00",
-  "total_fetched": 116,
-  "unique_count": 116,
-  "health_related_count": 60,
+  "fetched_at": "2026-11-01T12:52:31.889385+00:00",
+  "total_fetched": 115,
+  "unique_count": 115,
+  "health_related_count": 57,
   "news": [
+    {
+      "id": "a4f43b60a0e4",
+      "title": "질 건조·성교통 치료제, 처방 없이 살 수 있을까? - 헬스코리아뉴스",
+      "published": "2026-11-01T10:22:53+00:00",
+      "summary": "질 건조·성교통 치료제, 처방 없이 살 수 있을까?&nbsp;&nbsp;헬스코리아뉴스",
+      "sources": [
+        {
+          "name": "헬스코리아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yS3p3bHgyY0xQX0RPekF4ZmtPeWJMREMtQ2RKTk40UmlEZzRhZVQyMU53eTdTN1ZCU3ExdlFsOWNNQ1Y2TVRLWUVkYzhEODNISU8tRlpkWkpiT2ZDNGZ2MGZ1R0lrYWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "542d91d940ac",
+      "title": "독감 후 위독한 어린이, 의사는 부모가 절대 간과해서는 안 될 징후를 경고합니다 - Laodong.vn",
+      "published": "2026-11-01T09:31:50+00:00",
+      "summary": "독감 후 위독한 어린이, 의사는 부모가 절대 간과해서는 안 될 징후를 경고합니다&nbsp;&nbsp;Laodong.vn독감 A형 환자가 증가하고 있으며, 많은 어린이들이 입원하고 있는 가운데, 의사들은 육아에서 흔히 저지르는 실수에 대해 경고하고 있습니다.&nbsp;&nbsp;Vietnam.vn[카드뉴스] 아이 독감 걸렸다면 언제부터 등원할까요?&nbsp;&nbsp;베이비뉴스독감 류행시즌, 청소년 어린이 과학적 예방법→--건강&nbsp;&nbsp;인민넷인플루엔자 A의 유병률 증가에 따른 합병증 위험 관리.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVpCZEI4RG1XdnlYWExHUzQ1Rm9lSi15bHJKeU1UNklFZDEtVGpCMUhRYm9BTTByendPOGMxc3Y3LWExWjVjY0ladGxoMmRfcDQ5MGsxWm9OZ21NSVRPVEVWMjZpTnZmeVlMNXh0eUVLY1ltMXctWnVJNU90WW9qTVJMVlZtVWpsNEtqNHhMQko5a0FjdmtKV09UT1FVVk0tdFdTMEtvalZ5Y2w0TlVCdU96R2FHMnRwVTBZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36cfb1da33fb",
+      "title": "수족구병 65% 이상 증가, 호치민시 전염병 예방 및 통제 강화 - Laodong.vn",
+      "published": "2026-11-01T07:32:34+00:00",
+      "summary": "수족구병 65% 이상 증가, 호치민시 전염병 예방 및 통제 강화&nbsp;&nbsp;Laodong.vn호치민시, 수족구병 환자 급증세…10월까지 4.2만 명 전년동기比 64.5%↑&nbsp;&nbsp;인사이드비나계절이 바뀌는 시기에 어린이들의 호흡기 질환 발생률이 증가합니다.&nbsp;&nbsp;Vietnam.vn베트남 호치민 덮친 ‘트윈데믹’ 공포… 수족구·뎅기열 동시 확산에 비상!&nbsp;&nbsp;유스연합[사회] 호찌민시 수족구병 4만2315명 발생…4주 연속 5년 평균 초과&nbsp;&nbsp;굿모닝베트남미디어",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEhEcnZtRlhEa3Ezek8yOFVxV1c5UmVtOHhvV3hXZWUtNjNNU19yRU1fYW8xeF9tenNQUDV1Z243TzNnUUpTZVRnTFZNSVhlM3d5TWh6bXh1dGVBVHNSU256Y0hRRVFxX0pEc2hGUGNCbm9qOEhxX2tuLWRQWWtNWnFjSTVPQzBMcUMwUktIZ1JjaEpxaUpyY3l3M2R4QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7aceb2d66579",
+      "title": "자궁경부암만?…HPV 감염이 구인두암 위험도 높인다 - 매경헬스",
+      "published": "2026-11-01T07:00:00+00:00",
+      "summary": "자궁경부암만?…HPV 감염이 구인두암 위험도 높인다&nbsp;&nbsp;매경헬스흔치 않은 HPV 유전자형, 국내 구인두암서 다수 발견…“이를 어째~”&nbsp;&nbsp;스포츠경향분당서울대병원, 국내 구인두암 환자 25.3% 비16형 HPV 감염 확인&nbsp;&nbsp;MEDI:GATE NEWSHPV 원인 구인두암 급증…희귀 '이 유형' 생존율↓&nbsp;&nbsp;뉴시스9가 백신에도 없는 'HPV 35형'…구인두암 환자서 낮은 생존율 관찰&nbsp;&nbsp;간호사신문",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16Rk9EMlNQWU9vZHJQVExTb3lBTTljLUxkODVtYmFqemlrZkIwLTJ4cjdLUVo1dDg4SHFtV1duVGU1aXRRTXJFNEpTMXdGSnVJSHRTdFVncmdUTDZpR3dfNHJPem9VNlZGLTZSdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a491b6a8312b",
+      "title": "따로 시간 내지 않고 운동량 늘리는 법 - BBC",
+      "published": "2026-11-01T02:29:56+00:00",
+      "summary": "따로 시간 내지 않고 운동량 늘리는 법&nbsp;&nbsp;BBC[움직이지 않는 일상①] 하루 86% 움직이지 않는 현대인, 오래 앉는 생활이 바꾼 건강&nbsp;&nbsp;케이트렌디뉴스“운동할 시간 없다는 건 핑계”… 하루 5분 ‘운동 스낵’의 의외의 효과&nbsp;&nbsp;하이닥다리떨면 복 달아난다?…‘4분 떨고 건강 지켜주는 습관’ 증명됐다는데&nbsp;&nbsp;매일경제[김희진 교수의 수면의학] 졸린데도 휴대폰을 놓지 못하고 계속 보는 이유는?&nbsp;&nbsp;헬스경향",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kU1BGQjNUS3puZUR1Tnk4U1VwT2tmTDZjRFZUWDFBZW40Y0xpYjB2VHNxbE5EWlQ1R0lFcG9nMjItVHlXUEpHT2RDYmJPTzRUaFpWdk5LY2R2OVBmc0HSAWNBVV95cUxOc1BKajBtdmFCOV8yanVGZjhIeXZGMC14Z2tOaFlKaEYzenVKdDlKdDlZcmtxUW54R0lvaVRSNDEzeXpnUV9CSG9mcXQzOUVOdUJYMml1VVY1dm9mQjNBOGtOQUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e834fc0fc29f",
+      "title": "미국 홍역 4,852명, 지난해 전체의 2.1배…한국은 10명 - 팸타임스 FAM Times",
+      "published": "2026-10-31T23:58:00+00:00",
+      "summary": "미국 홍역 4,852명, 지난해 전체의 2.1배…한국은 10명&nbsp;&nbsp;팸타임스 FAM Times美 홍역 확산에 공화당 셈법 복잡… 중간선거 ‘복병’된 백신 논쟁&nbsp;&nbsp;ChosunbizLAX에 홍역환자 또 다녀가&nbsp;&nbsp;미주한국일보MAHA는 2024년 트럼프의 대선 승리를 도왔다. 이제 RFK 주니어는 공화당 중간선거의 부담이 될 수 있다&nbsp;&nbsp;Mezha.net미국 내 홍역 환자 수가 4,800명을 넘어섰습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "팸타임스 FAM Times",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mQkMzQ3ExcnJDVzFCd0VyMGhpcEIzZjBVNnVCblNTWmNmTlNDemVpeUlXcVBnUmV1ZjlBcFFfOGduWVVhaXZDZzlIOUtjMkVlMDltaGRFVnVxUkNzZTNCVjFVSnEwYkxaNHRnU0F3?oc=5"
+        }
+      ]
+    },
     {
       "id": "ffb36b25bb5c",
       "title": "젊으니 괜찮다? 낮은 골밀도, 체중만 아닌 영양·월경도 살핀다 - 이데일리",
@@ -14,6 +86,18 @@
         {
           "name": "이데일리",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb21TbWVsbjdWRmJyZkptbU9odmdOczBqSDBtMERrNk5FN1JHSUtyXzFZVmtad3RNX1JIVlB4V0xZWF83TnktSnlEQ2VNZlBBLVd3a1lwNEJpbW9NQ1lGVDA1TTZLNUR1OHFSWXRWMkpucVRUZldFWTJDWTZqQk5Cbg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6cfc4e4382f9",
+      "title": "노벨상까지 받은 분자 연구, 왜 과학자들은 재앙을 걱정할까 - 조선일보",
+      "published": "2026-10-31T20:49:24+00:00",
+      "summary": "노벨상까지 받은 분자 연구, 왜 과학자들은 재앙을 걱정할까&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVE3YjRPV3ZVRk9QcHFhR091X3ZpT3ExZ1pUWERkVGxpNjc3bWpIZjBGTTl3Rm1PVHlrVkhIZ3NmLVhrc0VGbjh0dEtLbGcwREFCQmRWYTRTeERaNTdhQkY1cHFPdEU1TEJSWlNmMklKcFlZNFpBcURFU09JVUk2bjRyeHU?oc=5"
         }
       ]
     },
@@ -45,7 +129,7 @@
       "id": "380f591b7107",
       "title": "“2030 여성도 간경화 진단”...매일 안 마셔도 간이 파괴되는 이유 [건강칼럼] - 경기일보",
       "published": "2026-10-31T12:00:00+00:00",
-      "summary": "“2030 여성도 간경화 진단”...매일 안 마셔도 간이 파괴되는 이유 [건강칼럼]&nbsp;&nbsp;경기일보“술 안 마시는데 지방간이라고?”…간 건강 위해 줄여야 할 음식 4가지&nbsp;&nbsp;코메디닷컴“간 혹사하는 습관”… 간 이식하는 의사가 지적한 ‘4가지’&nbsp;&nbsp;헬스조선\"당뇨환자 10명 중 7명 지방간 동반…혈당·간 함께 관리를\"&nbsp;&nbsp;데일리팜[비바100] 비만 관리가 간암 예방의 시작?⋯간 건강 좌우하는 ‘지방간’ 주목&nbsp;&nbsp;브릿지경제",
+      "summary": "“2030 여성도 간경화 진단”...매일 안 마셔도 간이 파괴되는 이유 [건강칼럼]&nbsp;&nbsp;경기일보“술 안 마시는데 지방간이라고?”…간 건강 위해 줄여야 할 음식 4가지&nbsp;&nbsp;코메디닷컴“간 혹사하는 습관”… 간 이식하는 의사가 지적한 ‘4가지’&nbsp;&nbsp;헬스조선[비바100] 비만 관리가 간암 예방의 시작?⋯간 건강 좌우하는 ‘지방간’ 주목&nbsp;&nbsp;브릿지경제초가공식품 섭취 증가가 부른 ‘음주 없는 지방간’… 정부, 신선 원물 지원으로 보건 위기 정면 대응&nbsp;&nbsp;https://www.koreasprint.com/",
       "sources": [
         {
           "name": "경기일보",
@@ -93,23 +177,11 @@
       "id": "62af553df4c5",
       "title": "계절성 독감 조기 발견 징후, 합병증에 걸리기 쉬운 대상 그룹 - Laodong.vn",
       "published": "2026-10-31T07:11:25+00:00",
-      "summary": "계절성 독감 조기 발견 징후, 합병증에 걸리기 쉬운 대상 그룹&nbsp;&nbsp;Laodong.vnVNVC는 노인 및 기저질환자를 위한 특별 독감 예방접종 프로그램을 시행하고 있습니다.&nbsp;&nbsp;Vietnam.vn\"독감, 심근경색·뇌졸중 위험 높여\"… 감염 막으려면 '이곳'부터 지켜야&nbsp;&nbsp;하이닥베트남은 이제 스프레이 형태의 독감 백신을 최초로 개발했습니다.&nbsp;&nbsp;Vietnam.vnA형 독감 유행으로 많은 노인들이 독감 예방 접종을 받기 위해 VNVC를 찾았습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "계절성 독감 조기 발견 징후, 합병증에 걸리기 쉬운 대상 그룹&nbsp;&nbsp;Laodong.vn노인들이 독감 백신을 접종받았는데도 심각한 질병에 걸릴 수 있는 이유는 무엇일까요?&nbsp;&nbsp;Vietnam.vn\"독감, 심근경색·뇌졸중 위험 높여\"… 감염 막으려면 '이곳'부터 지켜야&nbsp;&nbsp;하이닥A형 독감 유행으로 많은 노인들이 독감 예방 접종을 받기 위해 VNVC를 찾았습니다.&nbsp;&nbsp;Vietnam.vnVNVC는 노인 및 기저질환자를 위한 특별 독감 예방접종 프로그램을 시행하고 있습니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWh1bEppMUxGQ3liaHlkQ1E5aVVVWl9uaHBJRFVKeE5pLW5HMEk5X2pnZE4xbnI2cUx2cjJVREtjUVJBbEpYZjhucHhIdF9pM01DYVZKSjlvRnJKOUgycnRDNDNWX3R4WllfX2VqYWhOcWdlc0RPUnc2dkQtd2JRVEtFSWNxSjhNWkNrNmszQkg4d3VSMENPVHhJMWlNVDZCZkpqZFZ0Ymx1Z3RiV3FkU0tmTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bd782c5f835f",
-      "title": "한인생활상담소, 11월 14일 린우드서 무료 독감 예방접종 - 시애틀코리안데일리",
-      "published": "2026-10-31T05:22:37+00:00",
-      "summary": "한인생활상담소, 11월 14일 린우드서 무료 독감 예방접종&nbsp;&nbsp;시애틀코리안데일리LA한인회, 200명 대상 무료 독감 예방접종 실시&nbsp;&nbsp;라디오코리아한인생활상담소, 11월14일 무료 독감예방접종…\"예약없이 방문하세요\" > 시애틀 뉴스/핫이슈&nbsp;&nbsp;SeattleNLA한인회 11월 20일 독감백신 무료접종&nbsp;&nbsp;헤럴드경제 미주판",
-      "sources": [
-        {
-          "name": "시애틀코리안데일리",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GTXRUdFg5ZGFiYVZBNzlsWDlNM21ZWnRtdlpsNi14OXVOdUR6WWlqS0F0VFZGbG5wRmVsR245QVZXcy1zSGRzQ3Vrb3JLNVdLN1lSd0owdzR6WGszRE5XUUdYOWwtTjlhOWxuVF8xcUjSAXNBVV95cUxNMDVqdVozS2ZacW03T1FSdjZUT1BCXzR2bjdVeXN4VUVseUxQQk5FZk03dTJ0aFNKb3NCYTVKakNqQjZfdDVDNDBJcnFFNDlvWE05ekhSNDRUSlROMm12SHp5UklpejVOQlY2d3JwN2ZFZ1Jv?oc=5"
         }
       ]
     },
@@ -134,6 +206,18 @@
         {
           "name": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00MVIzLUZueVVCQ0JWdDhDVk1PWWk0VUtoUFJjYXFZR29Qcm5JcTlUcEN0TjVhV0pQMm85UlZNaDBHdU93Q2FVTF83clZuSlgxbXFUMEg0NGdaZ9IBX0FVX3lxTFBhcE4xYXJGUW1pRnowNnVsNlJhV3B3Y0RGU0ZEdGxmVlVqRnhJVVJkRHhrci0zUHUwNEFtaEtHUzE2aGxaNl9NdzRtVWF4TVZzMy1ibjZEQ3d3bXhNSjVF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7fe8bb6369d5",
+      "title": "하노이에 정신 질환자 돌봄 및 재활 복합 시설이 있습니다 - Laodong.vn",
+      "published": "2026-10-31T04:50:01+00:00",
+      "summary": "하노이에 정신 질환자 돌봄 및 재활 복합 시설이 있습니다&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3VuY1RweHlDUTM3UXo2VlptellYYUNVZmRGekxXQ2hjYVlmd3RzaWsxWll4NVI2UkV4R3RDV05CUEtMVzJvbGs2NUFDMnZSSlRxSWd0ZHZOYXFyd1pqYWtpWjZCM2kxSzZLRjRyQXZsMkZkbjhLVHZnN2VVUFRmNTFHN3ZCMFllZWkyYUhpUkZrc2R2QUZUbmxzWURpeS12VklxZHQ0eUg?oc=5"
         }
       ]
     },
@@ -186,18 +270,6 @@
       ]
     },
     {
-      "id": "bc8b78a206e4",
-      "title": "많은 사람들이 모르는 뼈와 관절 건강에 도움이 되는 친숙한 과일 - Laodong.vn",
-      "published": "2026-10-31T01:00:00+00:00",
-      "summary": "많은 사람들이 모르는 뼈와 관절 건강에 도움이 되는 친숙한 과일&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUVRczhnNWl5THBCRXlkYzFoVm5zUkU0OU51aTRqdEJqRjlwNXM2Wk11RDNRTk8wR21iT2dnNThaaVhOWUdBd1NLYWQxQ19wRFo4Y1dMRVVid2pSa3ZyaFJSeFd6ZTkzRUppNGtMb1dwMHQwX05nUGNRVC1LaWVzekNmaWx2SHZPcDM5alAydzBrZ2psa0xwdko2Q1hsR1c4NjZLdGRJS0s0SC1wZWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "33174d20a4a5",
       "title": "추위가 늦춘 노화…연구진은 왜 근육에 주목했나 - 시사프리즘",
       "published": "2026-10-31T00:37:00+00:00",
@@ -206,30 +278,6 @@
         {
           "name": "시사프리즘",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3MnRGWUQtZndGTFk2R0wxNGsxejloOC1LdkZ0R3lMTmdrRmxqX2FRbXBIb3R0R1h3bU5pMVUxY01tWmJYODVLWUxPRDJxRjJHS3JOTDg4SE56ZEdSTmd5ckY5RmhZTjNO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "41726f0bccdb",
-      "title": "HPV 양성 구인두암, 바이러스 유전자형에 따라 생존율 다르다 - 시사저널",
-      "published": "2026-10-30T21:30:00+00:00",
-      "summary": "HPV 양성 구인두암, 바이러스 유전자형에 따라 생존율 다르다&nbsp;&nbsp;시사저널흔치 않은 HPV 유전자형, 국내 구인두암서 다수 발견...생존율에도 영향&nbsp;&nbsp;BRIC흔치 않은 'HPV 유전자형', 구인두암 국내 환자서 다수 발견 - 머니투데이&nbsp;&nbsp;머니투데이HPV 감염이 주요 원인인 ‘이 암’···바이러스 유전자형 따라 생존율도 차이&nbsp;&nbsp;경향신문HPV 원인 구인두암 급증…희귀 '이 유형' 생존율↓&nbsp;&nbsp;뉴시스",
-      "sources": [
-        {
-          "name": "시사저널",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LUHJrRWtQbDUzU1FodHg5TlZrQkdZaWtsQXhrZFQyQVRPanlRTzl5T2J4c2g0VEZjMjc0YnFYRXFMY2NJVE5QQlRJSlFFSm1YY25pbnlNVERrOFJmNFdnejFBLUdjaHNlaUhCOEh2MNIBc0FVX3lxTE5LME9TRzhYSlpEN1A1cVhDLVJOT0NiTVp3cWpkd2xFVTkzRFQxc2lGa2xUOVVZWF9qUjBQVTRnTXNLV004RG1xRi1VTWtTOTRaZHRVMmNlSGsteDRQRmhCWjlNVnpyU3dZRUtHR3pTUWJYT00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6cfc4e4382f9",
-      "title": "노벨상까지 받은 분자 연구, 왜 과학자들은 재앙을 걱정할까 - 조선일보",
-      "published": "2026-10-30T15:30:00+00:00",
-      "summary": "노벨상까지 받은 분자 연구, 왜 과학자들은 재앙을 걱정할까&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVE3YjRPV3ZVRk9QcHFhR091X3ZpT3ExZ1pUWERkVGxpNjc3bWpIZjBGTTl3Rm1PVHlrVkhIZ3NmLVhrc0VGbjh0dEtLbGcwREFCQmRWYTRTeERaNTdhQkY1cHFPdEU1TEJSWlNmMklKcFlZNFpBcURFU09JVUk2bjRyeHU?oc=5"
         }
       ]
     },
@@ -246,42 +294,6 @@
       ]
     },
     {
-      "id": "ef627660f840",
-      "title": "두 번째 뇌수막구균 사망 사례, 까마우는 거의 90명의 접촉자를 포위했습니다 - Laodong.vn",
-      "published": "2026-10-30T09:23:44+00:00",
-      "summary": "두 번째 뇌수막구균 사망 사례, 까마우는 거의 90명의 접촉자를 포위했습니다&nbsp;&nbsp;Laodong.vn베트남 까마우성 수막구균 감염 2명 발생…1명 사망&nbsp;&nbsp;씬짜오베트남송독시는 수막구균성 질환 확산 방지를 위해 감시를 강화하고 있다.&nbsp;&nbsp;Vietnam.vn수막구균성 질환: 건강한 사람조차도 자신도 모르게 감염원이 될 수 있습니다.&nbsp;&nbsp;Vietnam.vn까마우시는 수막구균성 질환 예방 및 통제를 강화합니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR25PNU0zOU5EQWlWN3FBZWRQcXhUYzFKbVVXd05kQmUwaklLMHZ6dE9QRzVlTjlPRng0ZzUtMnk2MGJqQzlHRHlHWWZlVDFhV0paRndmdkNMLVhZUmtyZ2E0YlZVbE5oVFRpTlFYTGZoRnpBak00RlFvQXZKUEdncVJyT2hMSmtJV0NDMktOdGZlbXhYSzRwSmdXN1gxZ0xTR1dDeS1uNlBQSU9TbC1QNXI4OA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c4a7f044319",
-      "title": "스텐트 3개를 삽입한 남자, 관상 동맥 협착증 계속 발견 - Laodong.vn",
-      "published": "2026-10-30T08:57:16+00:00",
-      "summary": "스텐트 3개를 삽입한 남자, 관상 동맥 협착증 계속 발견&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGNqZXUxYXRiaXIyVFg2aEF4ODJmWTREbnNtdFBkcVFCU3NqSHlUMU10Y2hBcWpCSWpGeEM0SHdQS0t4eTZEdWZuZlFwTVF3V0ZDb0ZGcXZHanhmTTFKVFJRREd4dWd4bXhPSlZGYlVVemdYRUdYaDBaSXpNUzNmcWdaSlB5WWZSblB6dW1ZNmItME9KdkIzRDc3NDF5Rk1pNVA0RmdJb3JZUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ed60710206a3",
-      "title": "루푸스 환자 호중구서 돌연변이…면역세포 자가공격 유발 - 바이오북미디어",
-      "published": "2026-10-30T08:35:00+00:00",
-      "summary": "루푸스 환자 호중구서 돌연변이…면역세포 자가공격 유발&nbsp;&nbsp;바이오북미디어",
-      "sources": [
-        {
-          "name": "바이오북미디어",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mMUFSYWxmM0cxV19hZXppNy1yTTJfYTJzbWNlOGRuVjdpb0dsOVBrVnpldzc3eWlmNUxpWTc4dzlPUmRQZFlXSlh3dkpiaURWWG9DWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0d6ee2983a2e",
       "title": "명왕성 너머 ‘거대 얼음 천체’ 발견…태양계 6번째 왜소행성 될까 - 지디넷코리아",
       "published": "2026-10-30T07:40:52+00:00",
@@ -294,26 +306,14 @@
       ]
     },
     {
-      "id": "349186e6e461",
-      "title": "‘레켐비 치료 임상 경과’와 ‘신체적 노쇠·근감소증’ 연관성 밝혀 - 병원신문",
-      "published": "2026-10-30T07:03:41+00:00",
-      "summary": "‘레켐비 치료 임상 경과’와 ‘신체적 노쇠·근감소증’ 연관성 밝혀&nbsp;&nbsp;병원신문노쇠·근감소증 이미 나타난 알츠하이머 환자, 치료제 투여해도 실생활 속 기능 저하 더 빨라&nbsp;&nbsp;경향신문고가 치매약 레켐비, 효과는?…판단 기준은 '이것'&nbsp;&nbsp;뉴시스레켐비 투여 환자, 신체 노쇠 땐 주입 반응 2배 이상&nbsp;&nbsp;아시아투데이\"노쇠·근감소증과 레켐비 치료 중 임상 경과 연관성 확인\"&nbsp;&nbsp;아시아경제",
+      "id": "c480ec7a9093",
+      "title": "까마우, 수막구균성 뇌수막염 발생지 감시 및 처리 강화 - Laodong.vn",
+      "published": "2026-10-30T07:27:54+00:00",
+      "summary": "까마우, 수막구균성 뇌수막염 발생지 감시 및 처리 강화&nbsp;&nbsp;Laodong.vn의사들은 건강한 사람이라도 수막구균성 질환에 감염되면 몇 시간 안에 위독한 상태에 빠질 수 있다고 경고합니다.&nbsp;&nbsp;Vietnam.vn베트남 까마우성 수막구균 감염 2명 발생…1명 사망&nbsp;&nbsp;씬짜오베트남수막구균성 질환: 적극적인 예방을 통해 질병 감염 위험을 줄입니다.&nbsp;&nbsp;Vietnam.vn국립아동병원 의사가 수막구균성 뇌수막염이 쉽게 집단 발병을 일으키는 이유를 설명합니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "병원신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KUlF1TzMteHVMN19UZnB2aWVJSmdLZGFaXzBIUUtob0E0WFcyZ1dMY0ZnNFRlWVdhbUxOUEJlOW1YZFRZa3ZkREFOaHVyczJYWGJSZ1FXMlFDLW53R19iN3BVYmhhSms2NVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9daebab7c7a3",
-      "title": "“영유아만 위험한 줄 알았는데”⋯고령층도 위협하는 RSV, 백신 접종 왜 중요할까 - 코메디닷컴",
-      "published": "2026-10-30T06:38:00+00:00",
-      "summary": "“영유아만 위험한 줄 알았는데”⋯고령층도 위협하는 RSV, 백신 접종 왜 중요할까&nbsp;&nbsp;코메디닷컴[건강포커스] \"mRNA 기반 RSV 백신, 50세 이상서 감염 위험 60% 낮춰\"&nbsp;&nbsp;연합뉴스어린이들 사이에서 호흡기세포융합바이러스(RSV) 감염 사례가 증가하고 있다.&nbsp;&nbsp;Vietnam.vn\"숨조차 쉬기 힘든 영유아 RSV…베이포투스 1회 접종으로 예방 가능\"&nbsp;&nbsp;히트뉴스신생아 RSV 보편 예방, 영아 입원 최대 61% 줄일 수 있어&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5sSy1qTWJlXzdwa3BMbzRUNzZtUDhmNnhCUU9BWU9QRFh2b2xfYmFWMVJockVwZU05enhCaUtoV2JlZw?oc=5"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0p1d1V2SVpJNGNQc0xMa2lHQmU5dl9OdlZqZkFPN0tZVkp5dndyeWJzcHBNU005T0hoZ1NmY2IyLUI5OTZrWVVRN0lxeEV4dGtFUmI2cWpYZ2lwN3RWcXViWTZ0TnBEelZDdjlfdlRzT3AxYUJ6d0lVU3NmVk4zejl5bkZ4Y2JXNG9Jd1QtZVNPdE9GQ25wam5SLTdnSzg?oc=5"
         }
       ]
     },
@@ -326,18 +326,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWd4YXA5SkZORHZlRzNSRmp0NFM0WXF6TTJRM2tHSmVRcVhrMng5RmNYeHNaUjJJSUdsZ05nbC1iLXEydDBOd0p3R1J4ZHVvRV8weHYxcld0Mk9hdVBOZ25tTzdXb0VUbzZJdFFpN3hSemM2WFU2dWRwMGRmMGlXNGZ3MA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a544a03255a9",
-      "title": "호치민시, 수족구병 환자 급증세…10월까지 4.2만 명 전년동기比 64.5%↑ - 인사이드비나",
-      "published": "2026-10-30T04:11:48+00:00",
-      "summary": "호치민시, 수족구병 환자 급증세…10월까지 4.2만 명 전년동기比 64.5%↑&nbsp;&nbsp;인사이드비나계절이 바뀌는 시기에 어린이들의 호흡기 질환 발생률이 증가합니다.&nbsp;&nbsp;Vietnam.vn[사회] 호찌민시 수족구병 4만2315명 발생…4주 연속 5년 평균 초과&nbsp;&nbsp;굿모닝베트남미디어베트남 호치민 덮친 ‘트윈데믹’ 공포… 수족구·뎅기열 동시 확산에 비상!&nbsp;&nbsp;유스연합어린이 수족구병의 적극적인 예방 및 관리.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "인사이드비나",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3Mm1EVGgtaC1CdGV2dHNfa1dGeUZCZV8tUHptVFhocmpnOE5vd1NOaVYzbXlYWWduZEd4QnExdXFyaFdBcGI4N0pwclVqVlV6WmNUeUlpN2FyN1haMlFaaUxZWW5Wb2g3b0I3YQ?oc=5"
         }
       ]
     },
@@ -362,18 +350,6 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaZ3JmTVRXZHk2RXZEeTg2Sk40bnpGVzJnWFF1SXlBaVpNazBtZUZBNGFfdGlHa19GZW9pN2UyMWQ2aDEwbnIzc0xXY05fa2pndnR6Q3N4ajNtdmRTbjdTcU9DZlItV1hlb2l3T0xPaUE5X3pTS0xtZVd1V0hHNXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5143d858ff77",
-      "title": "바바리안 노르딕, 엠폭스 백신 7.5만 회분 제공 - 약업닷컴",
-      "published": "2026-10-29T20:59:00+00:00",
-      "summary": "바바리안 노르딕, 엠폭스 백신 7.5만 회분 제공&nbsp;&nbsp;약업닷컴",
-      "sources": [
-        {
-          "name": "약업닷컴",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xb21VaU03anNhZDdGaElLckxDUmNlTGFsN3Z4SGRyYmpBb3p5ODdHVFpkbjBzUmRDbjR4c0s5RjlvN3Y3aE9kTUpQVnN0TFQ1Y0d3ZVVrZ3VCR3hpYmpqeHk5U0o2cDFwS01Ra0dVcw?oc=5"
         }
       ]
     },
@@ -422,6 +398,18 @@
         {
           "name": "DongA Science",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qTi1BSE5IUlE3UDdlajFHdXJtdVN4dWJoUlYzWmt5cXMtc3VsRFB5eVNvdkJVYnVoNzloVzAzZ1JYX2xyeTA1REpNZ09NYWhoVjU3SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "77c9c1d0282a",
+      "title": "신체적 노쇠·근감소증, 레카네맙 치료 중 임상 악화와 연관성 확인 - 의학신문",
+      "published": "2026-10-29T01:56:34+00:00",
+      "summary": "신체적 노쇠·근감소증, 레카네맙 치료 중 임상 악화와 연관성 확인&nbsp;&nbsp;의학신문신체적 노쇠·근감소증, 알츠하이머병 ‘레켐비’ 치료 중 상태 악화시킨다&nbsp;&nbsp;에너지경제신문레켐비 투여 환자, 신체 노쇠 땐 주입 반응 2배 이상&nbsp;&nbsp;아시아투데이알츠하이머 치료제 ‘레켐비’ 효과 높이려면 신체 상태 함께 살펴야&nbsp;&nbsp;브레인미디어몸 약하고 근육 줄어든 노인, 치매 치료 받더라도 상태 악화 가능성 높아&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFcGUtc3ZKQXlzLUM4YU9YZWxsQTVwWkxNMF9RRnQ0WU9QT0FkcEhydWkteHVsNnJNVlZVelpQV3FtMXpkaU5TbDBSUWgxUThlZ2RvSExqQ3JxdF9DNENjdWJOUDc4T0ZiM3c?oc=5"
         }
       ]
     },
@@ -482,18 +470,6 @@
         {
           "name": "디멘시아뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WOS1EeGo3eDJ3Mk5LcG5tanhYdmpQQi0wcUE4Zmc1NVNaSE1yQjJxVWJTT1NrcDlYTXpyVjd5Y0l0aElJNGNVVjQ3S1d4cWhuUW9rbFZqVDhBNEx4VTBYMEg0bFlwTTkzZjhEdjBLOEstUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2038ccb917d8",
-      "title": "천문연, 암흑물질 새 가설 제시…\"표준 우주론 다시 쓸까\" - 지디넷코리아",
-      "published": "2026-10-28T10:56:54+00:00",
-      "summary": "천문연, 암흑물질 새 가설 제시…\"표준 우주론 다시 쓸까\"&nbsp;&nbsp;지디넷코리아",
-      "sources": [
-        {
-          "name": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsSno0Z25yTHMzc1FjZW8yM1Y4TGxEWjRYSHNNVHpDSVZDWXVhSk5ITDRpMldrbXFBY3EyWm8wQzhGSDZjYjhQaVZkQlprYVZ0bURZbFVB?oc=5"
         }
       ]
     },
@@ -561,7 +537,7 @@
       "id": "3a8b74f0cf99",
       "title": "‘첫째 낳고 바로 둘째 임신’이 여성 노화 가속화… 24개월 간격 둬라 - 헬스조선",
       "published": "2026-10-27T11:30:00+00:00",
-      "summary": "‘첫째 낳고 바로 둘째 임신’이 여성 노화 가속화… 24개월 간격 둬라&nbsp;&nbsp;헬스조선출산 후 회복기, 산모의 생물학적 노화·장기 건강 좌우&nbsp;&nbsp;메디컬투데이출산 뒤 재임신하면 노화 회복 방해받을 수 있다…여성 130명 추적&nbsp;&nbsp;팸타임스 FAM Times",
+      "summary": "‘첫째 낳고 바로 둘째 임신’이 여성 노화 가속화… 24개월 간격 둬라&nbsp;&nbsp;헬스조선출산 후 회복기, 산모의 생물학적 노화·장기 건강 좌우&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "헬스조선",
@@ -630,6 +606,18 @@
       ]
     },
     {
+      "id": "fff1c862b2c7",
+      "title": "[한윤대 교수의 대장장인] “변 색깔이 이상해요”…검은변·혈변·회백색변, 언제 병원에 가야 할까 - 유스연합",
+      "published": "2026-10-27T01:22:34+00:00",
+      "summary": "[한윤대 교수의 대장장인] “변 색깔이 이상해요”…검은변·혈변·회백색변, 언제 병원에 가야 할까&nbsp;&nbsp;유스연합",
+      "sources": [
+        {
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBOWF3a0pYNGZ1VjUwUThrWm5Bbk1HbW5BYmFOS2RMVERtb2pRY09OSFpSNHllVm4ycHUyOUM2NG1WaFprbXRZRUR3V2J3RmgwTGJF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6b31b89f4d7f",
       "title": "정낭 주변 일괄절제 로봇수술, 전립선암 잔존율 '대폭' 낮춰 - 메디칼업저버",
       "published": "2026-10-27T00:55:41+00:00",
@@ -666,42 +654,6 @@
       ]
     },
     {
-      "id": "c90647083e7f",
-      "title": "美 홍역 확산에 공화당 셈법 복잡… 중간선거 ‘복병’된 백신 논쟁 - Chosunbiz",
-      "published": "2026-10-26T05:53:00+00:00",
-      "summary": "美 홍역 확산에 공화당 셈법 복잡… 중간선거 ‘복병’된 백신 논쟁&nbsp;&nbsp;Chosunbiz미국 내 홍역 환자 수가 4,800명을 넘어섰습니다.&nbsp;&nbsp;Vietnam.vn미국 홍역 환자 4852명으로 증가…96% 미접종·접종력 불명&nbsp;&nbsp;메디컬투데이2026년 미국 홍역 재유행 역학 동향 과 위기&nbsp;&nbsp;브런치미국 올해 홍역 확진 4852명…96%는 집단발생 연관&nbsp;&nbsp;메디포뉴스",
-      "sources": [
-        {
-          "name": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU0JIc01lQmlNZ1hVVkE4bUd4bkZsUHI5VVc1UW5oTjE2WnllRGp5T3l4ZGJBYWpjY0FaRkJBTWlKVDZLTm9XcWdXVnZicUdyV0ZFcEhUU2FrNF9GNmViWmp2bHBWNGJ2a0ZRQmJlRDZjZUZLTEFES29MM1hRQXlMdlh1MC05MHBSZlZjekZreFJtUC0taGJwYjNtN3h5d9IBsgFBVV95cUxQNTRIdHRSM21lN3ROZWpfRVpyMzhucEJXMGoyNmM0OVVfZV9GSDNTcHFBdDdYdER3WU5wYmsyMDlHS0l1azk5VzNkbUF6N25qVk1zaUlLb3BWVUNQT1J5SmRMWFlURW9TTmdrd0ZFaUVyR3BqamNydnFNcmxtZE45OWR5SUoyX2lmTEl2bm1OWXFibmo1YllUU0p0eWs4MkVHMjRueFlaX1VXUlFGUGttNTBR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "be0621f50eb0",
-      "title": "독감 류행시즌, 청소년 어린이 과학적 예방법→--건강 - 인민넷",
-      "published": "2026-10-26T05:46:00+00:00",
-      "summary": "독감 류행시즌, 청소년 어린이 과학적 예방법→--건강&nbsp;&nbsp;인민넷독감 A형 환자가 증가하고 있으며, 많은 어린이들이 입원하고 있는 가운데, 의사들은 육아에서 흔히 저지르는 실수에 대해 경고하고 있습니다.&nbsp;&nbsp;Vietnam.vn[카드뉴스] 아이 독감 걸렸다면 언제부터 등원할까요?&nbsp;&nbsp;베이비뉴스인플루엔자 A의 유병률 증가에 따른 합병증 위험 관리.&nbsp;&nbsp;Vietnam.vn어린이에게 발생하는 인플루엔자 A의 위험한 합병증을 조기에 발견하는 것.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "인민넷",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EWS1TZlhjQWJXUTNWcV9ieDhnTGdUdmhzZjAzWGtMNUZncEw0bDhqbEV3ek9xN2RrTmlnV09Ldm1uY0pSNnVLNEhNc2h3NkppX0lsRGo4WGxmSDdMLVRGVVpINlJneG1rYjZKclNn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "86e56a2004dc",
-      "title": "매일 무심코 마시는 '이 물', 온도 잘못 맞추면 심장혈관 망친다? 홍차와 녹차의 충격적 진실 - 뉴스N연합",
-      "published": "2026-10-26T01:25:00+00:00",
-      "summary": "매일 무심코 마시는 '이 물', 온도 잘못 맞추면 심장혈관 망친다? 홍차와 녹차의 충격적 진실&nbsp;&nbsp;뉴스N연합“심혈관 건강해진다”… 의사도 마신다는 ‘세 가지 음료’&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "뉴스N연합",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrcGZVaXItZHdZQlFQVmFaNjBIeWctUGRUcnBFMkNNVS10c18tYlRPTGFRZllHZEtTU1kydFQ4QWpzWDRLOGJyZFk4MmRpdEU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0bf02e1d5f0e",
       "title": "POSTECH 한세광 교수팀, 실과 바늘 없이 빛으로 피부 상처 접합한다 - 한국대학신문",
       "published": "2026-10-25T23:47:29+00:00",
@@ -714,14 +666,26 @@
       ]
     },
     {
-      "id": "2f4f4cbc34f5",
-      "title": "항암제에도 살아남는 ‘좀비 암세포’…면역세포 속여 암 키운다 - 조선일보",
-      "published": "2026-10-25T06:34:49+00:00",
-      "summary": "항암제에도 살아남는 ‘좀비 암세포’…면역세포 속여 암 키운다&nbsp;&nbsp;조선일보",
+      "id": "cde8fc0100cf",
+      "title": "“마운자로보다 강력하다” 릴리 차세대 비만약 …3상 관건은 ‘부작용과의 싸움’ - Chosunbiz",
+      "published": "2026-10-25T22:03:00+00:00",
+      "summary": "“마운자로보다 강력하다” 릴리 차세대 비만약 …3상 관건은 ‘부작용과의 싸움’&nbsp;&nbsp;Chosunbiz",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVFqLUFIM29rQTRwUUlEMXNSNFFJbHlvbEZHcTFyR0wzOXM5c1RkYXlYLVBjSENnUy1MVld2SDBiNjllaEtLdnJKSWZ3QXNLdlFfLWVLNVNocDZCWk5ybzV0ekRJR1BOQ3VrN2F6VkwxekduQmNTOHhhMU5rbHZZZkxtVQ?oc=5"
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXc0UTI0WXpjWTZlaEdLNmJTNGMwRTE5YW15U1dyRzB6NXJhZ3ByLWszelBIak5laVF6bWhKNUF2b1N0Q0UtekJId3JaamJLb1ZzQWNWSUN1ODNyT2luVDNXeHhjS1RmRzVrRmtzRERSblJRTmx0R3RGanBqU3pXa1k3QTNaYjDSAZsBQVVfeXFMTkdMdWhXcFlCa3pGWEZOOVVmUm1rTmN2NmgxeXFBNzdwSkZDS3VidkFmWHlZUHBxT2VIM1pLQ1hMTWtVS3NvTXZ0dDhhNTB1ZUJmQTZrWng4di16V1ZRYUJWSFdwMWpOaGUzVGVjYmhGUm9mSkllalBDS3JWNzNXZjJLM0E1blc3WllSbDRuNjhxOWF2NEVXbDBYYWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1a711aca8e49",
+      "title": "GSK 고령·고위험군 RSV 백신 아렉스비 - 의학신문",
+      "published": "2026-10-25T21:00:00+00:00",
+      "summary": "GSK 고령·고위험군 RSV 백신 아렉스비&nbsp;&nbsp;의학신문[건강포커스] \"mRNA 기반 RSV 백신, 50세 이상서 감염 위험 60% 낮춰\"&nbsp;&nbsp;연합뉴스어린이들 사이에서 호흡기세포융합바이러스(RSV) 감염 사례가 증가하고 있다.&nbsp;&nbsp;Vietnam.vn\"숨조차 쉬기 힘든 영유아 RSV…베이포투스 1회 접종으로 예방 가능\"&nbsp;&nbsp;히트뉴스신생아 RSV 보편 예방, 영아 입원 최대 61% 줄일 수 있어&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vTkpwb1lMS25YdkNxaW01MFFNOUpTX0RlQVhhN0J2a3pHQklGY25hdGJHOWlBVk5rOHJDRUR0aE4xZEVNdVdxTFZNYWVVdExQT1A1ZjgxT241aHNMWlZiSVcxbm1jMTE2d3c?oc=5"
         }
       ]
     }
