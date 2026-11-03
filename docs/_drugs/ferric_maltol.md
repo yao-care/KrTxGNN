@@ -4,17 +4,17 @@ title: Ferric Maltol
 parent: 모델 예측만 (L5)
 nav_order: 344
 evidence_level: L5
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Ferric Maltol: 예측 신규 적응증 플러머-빈슨 증후군 (Plummer-Vinson syndrome) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 링크만 등록되어 있어 구체적인 문구는 확인되지 않음"
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "FERRIC MALTOL"
-predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
+description: "Ferric Maltol: 예측 신규 적응증 Vitamin B12- and folate-independent constitutional megaloblastic anemia (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502868/EE"
 ---
 
 # Ferric Maltol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **3** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,19 @@ predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-inde
 
 </div>
 
-## Ferric Maltol: 철분 보충제에서 플러머-빈슨 증후군으로
+## Ferric Maltol: Vitamin B12- and folate-independent constitutional megaloblastic anemia
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Ferric Maltol(제이철말톨)은 경구 철분 보충제로, 한국에서는 아크루퍼캡슐로 허가되어 시판 중입니다.
-TxGNN 모델은 **플러머-빈슨 증후군(Plummer-Vinson syndrome)**에 효과가 있을 수 있다고 예측하지만, 현재 이 예측을 뒷받침하는 **임상시험과 문헌은 각각 0건**으로 모델 예측 단계에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 대신 허가사항 링크만 등록되어 있어 구체적인 문구는 확인되지 않음 |
-| 예측 신규 적응증 | 플러머-빈슨 증후군 (Plummer-Vinson syndrome) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502868/EE |
+| 예측 신규 적응증 | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
@@ -85,7 +84,7 @@ TxGNN 점수는 매우 높지만 이를 검증한 임상시험이나 문헌이 �
 **결정: Hold**
 
 **사유:**
-플러머-빈슨 증후군에 대한 예측은 점수가 매우 높지만 임상시험과 문헌이 전혀 없는 L5(모델 예측만 존재) 단계입니다. 철결핍 교정이라는 기전은 그럴듯하나 식도 막에 대한 직접 효과는 기대하기 어렵습니다. 또한 허가사항 기반 안전성 정보가 확보되지 않아 안전성 선별을 진행할 수 없습니다.
+철결핍 교정이라는 기전은 그럴듯하나 식도 막에 대한 직접 효과는 기대하기 어렵습니다. 또한 허가사항 기반 안전성 정보가 확보되지 않아 안전성 선별을 진행할 수 없습니다.
 
 **진행하려면 필요한 것:**
 - 한국 허가사항(첨부문서) 내 적응증, 경고, 금기 정보 확보 (식약처 사이트에서 PDF 다운로드 및 분석)

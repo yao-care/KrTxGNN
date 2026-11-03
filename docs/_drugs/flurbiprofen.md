@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: 모델 예측만 (L5)
 nav_order: 361
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Flurbiprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
-last_modified_at: 2026-10-31
-description: "Flurbiprofen: 예측 신규 적응증 말단중간이형성증, Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염, 상완골상과염(테니스 엘보우 등), 근육통…"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
+last_modified_at: 2026-11-03
+description: "Flurbiprofen: 예측 신규 적응증 말단중간이형성증, Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) (근거 수준 L5). 기존 적응증: 이 약은 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)ㆍ건초염(힘줄윤활막염)…"
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Flurbiprofen: 예측 신규 적응증 말단중간이형성증, Hu
 
 </div>
 
-## Flurbiprofen: 퇴행성관절염 등 근골격계 통증·염증에서 말단중간이형성증 헌터-톰슨형으로
+## Flurbiprofen: 말단중간이형성증, Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,8 +46,8 @@ TxGNN 모델은 **말단중간이형성증 Hunter-Thompson형(acromesomelic dysp
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 퇴행성관절염(골관절염), 어깨관절주위염, 건·건초염, 상완골상과염(테니스 엘보우 등), 근육통, 외상 후 종창·동통의 진통·소염 |
-| 예측 신규 적응증 | 말단중간이형성증, Hunter-Thompson형 |
+| 기존 적응증 | 이 약은 퇴행성관절염(골(뼈)관절염), 어깨관절주위염, 건(힘줄)ㆍ건초염(힘줄윤활막염), 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)ㆍ동통(통증)의 진통ㆍ소염(항염)에 사용합니다.; 이 약은 인후염의 단기 증상 완화에 사용합니다.; 이 약은 인후염의 단기 증상 치료에 사용합니다.; 이 약은 퇴행성관절염(골관절염), 어깨관절주위염, 건(힘줄)ㆍ건초염(힘줄윤활막염), 상완골(위팔뼈)상과염(테니스 엘보우 등), 근육통, 외상(상처)후의 종창(부기)ㆍ동통(통증)의 진통ㆍ소염(항염)에 사용합니다.; htt |
+| 예측 신규 적응증 | 말단중간이형성증, Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (모델 예측만 있고 실제 연구 없음) |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
@@ -109,7 +109,7 @@ TxGNN 모델(딥러닝)의 높은 점수는 모델이 관련 질환 사이에서
 - 약물의 상세한 작용 기전(MOA) 데이터
 - 허가사항의 경고·금기 정보 확보
 - 이 질환에서 기대하는 목표가 근본 치료인지 증상(통증) 완화인지 구분하고, 후자라면 기존 NSAID 사용 근거를 별도로 검토
-- 참고: 같은 모델의 다른 예측인 강직성 척추염(ankylosing spondylitis)에는 Flurbiprofen의 무작위 대조 연구 문헌이 있습니다. 다만 이는 NSAID 계열의 기존 사용에 가까워 새로운 재창출 신호로 보기 어렵고, 별도 평가가 필요합니다.
+- 다만 이는 NSAID 계열의 기존 사용에 가까워 새로운 재창출 신호로 보기 어렵고, 별도 평가가 필요합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

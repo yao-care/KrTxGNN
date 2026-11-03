@@ -4,17 +4,17 @@ title: Erythromycin
 parent: 모델 예측만 (L5)
 nav_order: 317
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-11-03
 description: "Erythromycin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L4). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음)"
 monitor_inn: "ERYTHROMYCIN"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---
 
 # Erythromycin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -104,7 +104,6 @@ TxGNN 모델은 **점상 상피성 각결막염(punctate epithelial keratoconjun
 
 | 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 비고 |
 |-----|-----------|-----------|---------|------|
-| 2 | 급성 전염성 결막염 | 0.9955 | L5 | 임상시험·문헌 없음, 모델 예측만 존재 (Hold) |
 | 3 | 노출성 각막염 | 0.9950 | L5 | 연결된 문헌이 대부분 무관 (Hold) |
 | 4 | 성병성 림프육아종 (LGV) | 0.9905 | L4 | 클라미디아 감염에 대한 마크로라이드의 활성과 역사적 사용을 다룬 리뷰 다수. 1차 치료는 doxycycline이며 erythromycin은 대체 요법 (추가 연구 과제) |
 | 5 | 괴사성 궤양성 치은염 | 0.9900 | L5 | 1950~80년대 오래된 보고뿐 (Hold) |

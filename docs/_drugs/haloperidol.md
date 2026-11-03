@@ -4,17 +4,17 @@ title: Haloperidol
 parent: 모델 예측만 (L5)
 nav_order: 398
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Haloperidol"
-predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-31
-description: "Haloperidol: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 없음(허가증에는 허가사항 문서 링크만 있음)"
+predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
+last_modified_at: 2026-11-03
+description: "Haloperidol: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증 (congenital disorder of glycosylation with defective fucosylation) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500618/EE"
 ---
 
 # Haloperidol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Haloperidol: 예측 신규 적응증 푸코실화 결함을 동반
 
 </div>
 
-## Haloperidol: 도파민 D2 수용체 길항제에서 푸코실화 결함을 동반한 선천성 당화 이상증으로
+## Haloperidol: 푸코실화 결함을 동반한 선천성 당화 이상증 (congenital disorder of glycosylation with defective fucosylation)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -44,8 +44,8 @@ Haloperidol은 도파민 D2 수용체를 차단하는 약물로, 한국에서 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 이번 데이터에 없음(허가증에는 허가사항 문서 링크만 있음) |
-| 예측 신규 적응증 | 푸코실화 결함을 동반한 선천성 당화 이상증 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500618/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500715/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198400475/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198301325/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200323/EE;  |
+| 예측 신규 적응증 | 푸코실화 결함을 동반한 선천성 당화 이상증 (congenital disorder of glycosylation with defective fucosylation) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 12건) |
@@ -81,7 +81,7 @@ D2 차단과 푸코실화 경로를 잇는 기전적 연결 고리는 확인되�
 
 **사유:**
 - 이 적응증을 직접 다룬 임상시험과 문헌이 없고, 기전적 연결 고리도 확인되지 않았습니다. 근거는 TxGNN 예측뿐이므로 L5이며, 현 단계에서 진행하기는 어렵습니다.
-- 참고로 같은 약물의 다른 예측 적응증인 조증(manic bipolar affective disorder)은 Haloperidol 대조군이 포함된 3상 시험과 메타분석이 있습니다. 다만 이는 기존에 알려진 항정신병약 용도에 가까워 신규 재창출로 보기 어렵습니다.
+- 다만 이는 기존에 알려진 항정신병약 용도에 가까워 신규 재창출로 보기 어렵습니다.
 
 **진행하려면 필요한 것:**
 - 허가사항 본문(적응증, 경고, 금기) 확보

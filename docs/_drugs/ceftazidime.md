@@ -4,17 +4,17 @@ title: Ceftazidime
 parent: 모델 예측만 (L5)
 nav_order: 196
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-31
-description: "Ceftazidime: 예측 신규 적응증 고아밀라제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "CEFTAZIDIME"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "blood group incompatibility", "Peptostreptococcus infectious disease"]
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "epiglottitis", "blood group incompatibility", "Peptostreptococcus infectious disease"]
+description: "Ceftazidime: 예측 신규 적응증 고아밀라제혈증 (hyperamylasemia) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202147/EE"
 ---
 
 # Ceftazidime
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **7** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-## Ceftazidime: 세균 감염에서 고아밀라제혈증으로
+## Ceftazidime: 고아밀라제혈증 (hyperamylasemia)
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Ceftazidime은 3세대 세ファロ스포린계 항생제로, 한국에서 수출용 주사제로 허가되어 시판 중입니다.
 TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 수 있다고 가장 높게 예측했으나, 이를 뒷받침하는 임상시험과 문헌은 **없습니다**.
-다만 예측 순위 하위 항목 중 **요로감염**(임상시험 4건, 문헌 20편)은 상대적으로 근거가 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 |
-| 예측 신규 적응증 | 고아밀라제혈증 (Hyperamylasemia) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202147/EE |
+| 예측 신규 적응증 | 고아밀라제혈증 (hyperamylasemia) |
 | TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L5 (모델 예측만 존재) |
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
@@ -68,7 +67,7 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 
 1순위 예측(고아밀라제혈증)에 대한 임상시험은 없습니다. 현재 관련 임상시험 등록이 없습니다.
 
-참고로 4순위 예측인 요로감염에는 아래 시험이 있습니다. 대부분 ceftazidime 단독이 아닌 avibactam 복합제 또는 비교약 시험입니다.
+대부분 ceftazidime 단독이 아닌 avibactam 복합제 또는 비교약 시험입니다.
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|

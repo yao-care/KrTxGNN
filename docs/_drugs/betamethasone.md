@@ -4,17 +4,17 @@ title: Betamethasone
 parent: 높은 근거 (L1-L2)
 nav_order: 143
 evidence_level: L2
-indication_count: 8
-last_modified_at: 2026-10-31
-description: "Betamethasone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 2차 감염된 알레르기성 또는 염증성 피부질환(습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진…"
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "BETAMETHASONE"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
+description: "Betamethasone: 예측 신규 적응증 Alopecia mucinosa (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301576/EE"
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **8** 건
+근거 수준: **L2** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-## Betamethasone: 2차 감염된 알레르기성·염증성 피부질환에서 원형탈모증으로
+## Betamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Betamethasone은 강력한 글루코코르티코이드로, 한국에서는 2차 감염된 알레르기성 또는 염증성 피부질환과 1도 화상 치료에 허가되어 있습니다.
-TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있다고 예측하며, 현재 **6건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다.
 다만 임상시험 대부분은 betamethasone을 대조약으로 사용했거나 소규모 연구여서, 근거의 직접성에는 한계가 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 2차 감염된 알레르기성 또는 염증성 피부질환(습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진, 박탈피부염, 가려움, 건선), 1도 화상 |
-| 예측 신규 적응증 | 원형탈모증 (Alopecia Areata) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301576/EE; 이 약은 2차 감염된 알레르기성 또는 염증성 피부질환 (습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선(마른비늘증)), 1도 화상에 사용합니다.; 이 약은 2차 감염된 알레르기성 또는 염증성 피부질환 (습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선)과 1도 화상에 사용합니다.; htt |
+| 예측 신규 적응증 | Alopecia mucinosa |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L2 (※ 아래 참고) |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
@@ -70,7 +69,6 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 |---------|------|------|----------|---------|
 | [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Phase 2 | 완료 | 60 | 중등도~중증 원형탈모증에서 주 1회 azathioprine 펄스 vs betamethasone 경구 미니펄스 비교 |
 | [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Phase 4 | 완료 | 50 | 국소 원형탈모증에서 latanoprost vs 국소 코르티코스테로이드(betamethasone) 무작위 비교 |
-| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | 해당 없음 | 불명 | 59 | 국소 원형탈모증에서 cetirizine 1% vs betamethasone valerate 0.1% 효능·안전성 비교 |
 | [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Phase 1 | 불명 | 60 | pentoxifylline·metformin 겔 vs betamethasone valerate 0.1% 크림 비교 |
 | [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | 해당 없음 | 모집 예정 | 60 | metformin 30%·simvastatin 2%·betamethasone valerate 0.1% 국소 치료(결과 없음, betamethasone 단독 효과 분리 불가) |
 | [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Phase 4 | 모집 중 | 250 | 중심원심성 흉터성 탈모증 치료 결과 비교(원형탈모증과 다른 질환으로 간접적 근거) |

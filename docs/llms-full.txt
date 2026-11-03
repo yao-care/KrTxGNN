@@ -19,7 +19,7 @@ Harvard Zitnik Lab이 발표한 TxGNN 방법을 바탕으로 기존 약물과 �
 - `/evidence-low/` 모델 예측만 (L5) — KrTxGNN의 L5 후보: 모델 예측만 존재하며 아직 임상 또는 문헌 근거가 없습니다.
 - `/methodology/` 방법론 — KrTxGNN이 예측을 생성하고 검증하는 방법: TxGNN 모델(딥러닝) 예측, 근거 수집, L1-L5 등급화, 의사결정 권고.
 - `/guide/` 사용 안내 — KrTxGNN 사용 안내: 의약품 검색 방법, 근거 등급 읽는 법, 권고 해석 방법.
-- `/sources/` 데이터 출처 — KrTxGNN의 데이터 출처: MFDS 허가 데이터, TxGNN, ClinicalTrials.gov, PubMed, DrugBank.
+- `/sources/` 데이터 출처 — KrTxGNN의 데이터 출처: MFDS 의약품안전나라(nedrug) 의약품 허가 정보, TxGNN, ClinicalTrials.gov, PubMed, DrugBank.
 - `/downloads/` 다운로드 — KrTxGNN 공개 데이터 다운로드: FHIR 리소스, 예측 결과, 검색 인덱스.
 - `/about/` 소개 — KrTxGNN은 藥提醒科技有限公司 (yao.care)가 Harvard TxGNN 모델을 기반으로 개발한 약물재창출 예측 플랫폼으로, 대한민국 MFDS 허가 의약품을 대상으로 합니다.
 

@@ -4,17 +4,17 @@ title: Cefuroxime
 parent: 모델 예측만 (L5)
 nav_order: 198
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Cefuroxime"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-10-31
-description: "Cefuroxime: 예측 신규 적응증 다클론성 과점성 증후군 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았고 허가사항 문서 링크만 있습니다. 이 보고서에서는 기존 적응증을 확정하지 않습니다"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-11-03
+description: "Cefuroxime: 예측 신규 적응증 다클론성 과점성 증후군 (polyclonal hyperviscosity syndrome) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201607370/EE"
 ---
 
 # Cefuroxime
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Cefuroxime: 예측 신규 적응증 다클론성 과점성 증후�
 
 </div>
 
-## Cefuroxime: 항균제(2세대 세팔로스포린)에서 다클론성 과점성 증후군으로
+## Cefuroxime: 다클론성 과점성 증후군 (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -44,8 +44,8 @@ Cefuroxime은 세균 세포벽 합성을 억제하는 2세대 세팔로스포린
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았고 허가사항 문서 링크만 있습니다. 이 보고서에서는 기존 적응증을 확정하지 않습니다. |
-| 예측 신규 적응증 | 다클론성 과점성 증후군 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201607370/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700175/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307089/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004046/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001792/EE;  |
+| 예측 신규 적응증 | 다클론성 과점성 증후군 (polyclonal hyperviscosity syndrome) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 (모델 예측만 있음) |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
@@ -102,7 +102,7 @@ Cefuroxime은 세균 세포벽 합성을 억제하는 2세대 세팔로스포린
 - 허가사항에 기재된 경고 및 금기 정보 확보
 - 상세한 작용 기전(MOA) 데이터 확보
 
-**참고:** 같은 예측 목록의 요로감염(점수 0.9962)은 Cefuroxime을 직접 다룬 임상시험과 문헌이 있습니다. 다만 이는 세균 감염이라는 약물의 기존 사용 범위와 가까운 질환이어서 새로운 재창출 신호로 보기 어렵습니다. 첫 번째 예측인 다클론성 과점성 증후군과는 별개로 평가해야 합니다.
+다만 이는 세균 감염이라는 약물의 기존 사용 범위와 가까운 질환이어서 새로운 재창출 신호로 보기 어렵습니다. 첫 번째 예측인 다클론성 과점성 증후군과는 별개로 평가해야 합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

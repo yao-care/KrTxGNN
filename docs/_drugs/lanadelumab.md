@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lanadelumab
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 457
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Lanadelumab: 예측 신규 적응증 C1 억제제 결핍증 (C1 inhibitor deficiency) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 MFDS 문서 링크만 수록되어 있어 구체적 문구 확인 불가 (유전성 혈관부종 발작 예방으로 알려져…"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Lanadelumab"
-predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
+predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
+description: "Lanadelumab: 예측 신규 적응증 Serpinopathy with toxic serpin polymerization (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303213/EE"
 ---
 
 # Lanadelumab
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,21 @@ predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serp
 
 </div>
 
-## Lanadelumab: 유전성 혈관부종에서 C1 억제제 결핍증으로
+## Lanadelumab: Serpinopathy with toxic serpin polymerization
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Lanadelumab은 혈장 칼리크레인(plasma kallikrein)을 억제하는 단클론항체로, 유전성 혈관부종(HAE) 발작 예방에 사용되어 왔습니다.
-TxGNN 모델은 **C1 억제제 결핍증(C1 inhibitor deficiency)**에 효과가 있을 수 있다고 예측하며, 현재 **5건의 임상시험**과 **20편의 문헌**이 이 방향을 지지합니다.
-다만 C1 억제제 결핍증은 HAE의 원인 질환이므로, 이 예측은 새로운 적응증이라기보다 이미 승인된 핵심 적응증과 사실상 같은 영역입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 대신 MFDS 문서 링크만 수록되어 있어 구체적 문구 확인 불가 (유전성 혈관부종 발작 예방으로 알려져 있음) |
-| 예측 신규 적응증 | C1 억제제 결핍증 (C1 inhibitor deficiency) |
-| TxGNN 예측 점수 | 1.0000 |
-| 근거 수준 | L1 (데이터 기준 판정, 아래 참고) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303213/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101922/EE |
+| 예측 신규 적응증 | Serpinopathy with toxic serpin polymerization |
+| TxGNN 예측 점수 | 0.9999 |
+| 근거 수준 | L5 (데이터 기준 판정, 아래 참고) |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
 | 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Proceed with Guardrails |

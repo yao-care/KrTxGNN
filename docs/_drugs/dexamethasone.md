@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 268
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Dexamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-31
-description: "Dexamethasone: 예측 신규 적응증 원형탈모증 (근거 수준 L2). 기존 적응증: 습진·피부염군, 양진군, 벌레물린데, 건선, 손·발바닥 농포증, 편평태선, 홍피증, 만성원판상홍반, 약진·중독진…"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+last_modified_at: 2026-11-03
+description: "Dexamethasone: 예측 신규 적응증 Alopecia mucinosa (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196300064/EE"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ description: "Dexamethasone: 예측 신규 적응증 원형탈모증 (근거 수
 
 </div>
 
-## Dexamethasone: 피부 염증성 질환에서 원형탈모증으로
+## Dexamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Dexamethasone은 강력한 글루코코르티코이드 계열 약물로, 한국 허가 정보상 피부염·건선 등 피부 질환의 치료에 사용됩니다.
-TxGNN 모델은 **원형탈모증(alopecia areata)**에 효과가 있을 수 있다고 예측하며, 현재 임상시험 등록은 없으나 **20편의 문헌**(무작위 대照시험 1편 포함)이 이 방향을 다룹니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 습진·피부염군, 양진군, 벌레물린데, 건선, 손·발바닥 농포증, 편평태선, 홍피증, 만성원판상홍반, 약진·중독진, 원형탈모증 (덱사톱크림 허가 문구) |
-| 예측 신규 적응증 | 원형탈모증 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196300064/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200559/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201111067/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199602981/EE; 이 약은 습진·피부염군(진행성 지장각피증, 만성단순태선, 일광피부염 포함), 양진군(구진두드러기 포함), 벌 |
+| 예측 신규 적응증 | Alopecia mucinosa |
 | TxGNN 예측 점수 | 0.9999 |
-| 근거 수준 | L2 |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 17건) |
 | 허가증 수 | 최소 20건 |
 | 권장 결정 | Proceed with Guardrails |

@@ -4,17 +4,17 @@ title: Calcifediol
 parent: 모델 예측만 (L5)
 nav_order: 169
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 monitor_inn: "CALCIFEDIOL"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis"]
-last_modified_at: 2026-10-31
-description: "Calcifediol: 예측 신규 적응증 폐기된 비타민 D 결핍 (obsolete vitamin D deficiency) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE"
+predicted_indications: ["renal tubular acidosis"]
+last_modified_at: 2026-11-03
+description: "Calcifediol: 예측 신규 적응증 Renal tubular acidosis (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE"
 ---
 
 # Calcifediol
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **2** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ description: "Calcifediol: 예측 신규 적응증 폐기된 비타민 D 결핍 
 
 </div>
 
-## Calcifediol: 비타민 D 대사체 → 폐기된 비타민 D 결핍 (obsolete vitamin D deficiency)
+## Calcifediol: Renal tubular acidosis
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Calcifediol은 25-하이드록시비타민 D3로, 순환 혈중 비타민 D의 주요 대사체이자 칼시트리올의 직접적인 전구체입니다.
-TxGNN 모델은 **폐기된 비타민 D 결핍(obsolete vitamin D deficiency)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**이어서 모델 예측 단계에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE |
-| 예측 신규 적응증 | 폐기된 비타민 D 결핍 (obsolete vitamin D deficiency) |
-| TxGNN 예측 점수 | 0.9999 |
+| 예측 신규 적응증 | Renal tubular acidosis |
+| TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
 | 허가증 수 | 1건 (유효 1건) |
@@ -57,7 +56,7 @@ TxGNN 모델은 **폐기된 비타민 D 결핍(obsolete vitamin D deficiency)**�
 
 현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 Calcifediol은 간에서 만들어지는 비타민 D3의 25-수산화 대사체로, 활성형인 칼시트리올의 직접 전구체입니다. 따라서 비타민 D 결핍 상태를 교정하는 데 기전상 적용 가능성이 있습니다.
 
-다만 이 질환명은 온톨로지에서 폐기(obsolete) 처리된 용어입니다. 높은 예측 점수는 현재 사용되는 비타민 D 결핍 관련 용어와 겹치는 과거 명칭을 반영했을 가능성이 크며, 진정한 의미의 새로운 재창출 기회라고 보기는 어렵습니다. 이 예측을 뒷받침하는 임상시험이나 문헌도 확인되지 않았습니다.
+다만 이 질환명은 온톨로지에서 폐기(obsolete) 처리된 용어입니다. 이 예측을 뒷받침하는 임상시험이나 문헌도 확인되지 않았습니다.
 
 ## 한국 시판 정보
 

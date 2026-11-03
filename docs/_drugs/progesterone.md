@@ -4,17 +4,17 @@ title: Progesterone
 parent: 높은 근거 (L1-L2)
 nav_order: 630
 evidence_level: L2
-indication_count: 7
+indication_count: 6
 monitor_inn: "Progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-last_modified_at: 2026-10-31
-description: "Progesterone: 예측 신규 적응증 무월경 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았고 허가사항 문서 링크만 있어 허가사항 원문 확인이 필요합니다"
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+last_modified_at: 2026-11-03
+description: "Progesterone: 예측 신규 적응증 Breast fibrocystic disease (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **7** 건
+근거 수준: **L2** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,20 @@ description: "Progesterone: 예측 신규 적응증 무월경 (근거 수준 L5)
 
 </div>
 
-## 프로게스테론: 기존 허가 적응증에서 무월경으로
+## Progesterone: Breast fibrocystic disease
 {: .text-alpha }
 
 ## 한 문장 요약
 
-프로게스테론은 한국에서 질좌제·주사제·겔 등 단일 성분 제제 7건이 허가된 천연 여성 호르몬입니다. TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예측하며, 이 질환 환자군을 다룬 **4건의 임상시험**과 **18편의 문헌**이 검토되었습니다. 다만 이 시험들은 대부분 에스트로겐 중심이어서 프로게스테론 자체의 효과를 직접 입증하지는 않습니다.
+프로게스테론은 한국에서 질좌제·주사제·겔 등 단일 성분 제제 7건이 허가된 천연 여성 호르몬입니다. 다만 이 시험들은 대부분 에스트로겐 중심이어서 프로게스테론 자체의 효과를 직접 입증하지는 않습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았고 허가사항 문서 링크만 있어 허가사항 원문 확인이 필요합니다 |
-| 예측 신규 적응증 | 무월경 |
-| TxGNN 예측 점수 | 1.0000 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711790/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600485/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706721/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202008202/EE;  |
+| 예측 신규 적응증 | Breast fibrocystic disease |
+| TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L2 (잠정): 완료된 Phase 3 임상시험이 있으나 프로게스테론 자체를 평가한 시험은 아닙니다 |
 | 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
 | 허가증 수 | 7건 (유효 7건) |

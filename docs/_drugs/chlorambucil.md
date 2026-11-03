@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: 모델 예측만 (L5)
 nav_order: 204
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "CHLORAMBUCIL"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-10-31
-description: "Chlorambucil: 예측 신규 적응증 사전 배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201…"
+predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+last_modified_at: 2026-11-03
+description: "Chlorambucil: 예측 신규 적응증 ALK-positive large B-cell lymphoma (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007562/EE"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **7** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ description: "Chlorambucil: 예측 신규 적응증 사전 배중심 만성 림�
 
 </div>
 
-## Chlorambucil: 알킬화제(질소 머스터드 계열) → 사전 배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)
+## Chlorambucil: ALK-positive large B-cell lymphoma
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Chlorambucil은 DNA를 알킬화하는 질소 머스터드 계열 항암제입니다.
-TxGNN 모델은 **사전 배중심 만성 림프구성 백혈병/소림프구성 림프종(pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험은 없고 간접적인 **문헌 1편**(2003년 종설)만 확인됩니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007562/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008737/EE |
-| 예측 신규 적응증 | 사전 배중심 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
-| TxGNN 예측 점수 | 0.9972 |
+| 예측 신규 적응증 | ALK-positive large B-cell lymphoma |
+| TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
 | 허가증 수 | 2건 (유효 2건) |

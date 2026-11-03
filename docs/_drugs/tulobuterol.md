@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tulobuterol
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 771
-evidence_level: L3
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 monitor_inn: "TULOBUTEROL"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
-last_modified_at: 2026-10-31
-description: "Tulobuterol: 예측 신규 적응증 폐쇄성 폐질환 (근거 수준 L3). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 허가 문서 PDF 링크만 수록됨)"
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+last_modified_at: 2026-11-03
+description: "Tulobuterol: 예측 신규 적응증 Respiratory malformation (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310337/EE"
 ---
 
 # Tulobuterol
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ description: "Tulobuterol: 예측 신규 적응증 폐쇄성 폐질환 (근거 �
 
 </div>
 
-## 툴로부테롤: 서방성 경피흡수제(기관지 확장제)에서 폐쇄성 폐질환으로
+## Tulobuterol: Respiratory malformation
 {: .text-alpha }
 
 ## 한 문장 요약
 
 툴로부테롤(Tulobuterol)은 장시간 작용형 베타-2 작용제로, 한국에서 서방성 경피흡수제(패취) 형태의 단일 성분 제품으로 허가되어 있습니다. 다만 이번 자료에는 허가 적응증 본문이 없어 정확한 허가 적응증은 확인하지 못했습니다.
-TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 있을 수 있다고 예측하며, 현재 **2건의 임상시험**과 **20편의 문헌**이 이 방향을 다룹니다.
 다만 완료된 Phase 3 RCT는 없어 근거 수준은 L3로 판정했습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증에 적응증 본문 대신 허가 문서 PDF 링크만 수록됨) |
-| 예측 신규 적응증 | 폐쇄성 폐질환 |
-| TxGNN 예측 점수 | 0.9999 |
-| 근거 수준 | L3 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310337/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003161/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003180/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003158/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003174/EE;  |
+| 예측 신규 적응증 | Respiratory malformation |
+| TxGNN 예측 점수 | 0.9995 |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 |
 | 권장 결정 | Proceed with Guardrails |

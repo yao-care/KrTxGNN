@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cyclophosphamide
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 240
-evidence_level: L2
-indication_count: 4
-last_modified_at: 2026-10-31
-description: "Cyclophosphamide: 예측 신규 적응증 골수성 백혈병 (Myeloid Leukemia) (근거 수준 L5)."
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "CYCLOPHOSPHAMIDE"
-predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+description: "Cyclophosphamide: 예측 신규 적응증 Vertebral anomalies and variable endocrine and T-cell dysfunction (근거 수준 L5)."
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **4** 건
+근거 수준: **L5** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,20 @@ predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable en
 
 </div>
 
-## 시클로포스파미드: 알킬화 항암제에서 골수성 백혈병으로
+## Cyclophosphamide: Vertebral anomalies and variable endocrine and T-cell dysfunction
 {: .text-alpha }
 
 ## 한 문장 요약
 
-시클로포스파미드(Cyclophosphamide)는 체내에서 활성화되어 DNA를 교차결합시키는 알킬화 항암제입니다. TxGNN 모델은 **골수성 백혈병(Myeloid Leukemia)**에 효과가 있을 수 있다고 예측하며, 현재 **34건의 임상시험**과 **20편의 문헌**이 이 방향과 관련되어 있습니다. 다만 이 근거는 대부분 조혈모세포이식의 전처치 요법과 이식 후 GVHD 예방 요법에서 나온 것이며, 단독 백혈병 치료제로서의 근거는 아닙니다.
+시클로포스파미드(Cyclophosphamide)는 체내에서 활성화되어 DNA를 교차결합시키는 알킬화 항암제입니다. 다만 이 근거는 대부분 조혈모세포이식의 전처치 요법과 이식 후 GVHD 예방 요법에서 나온 것이며, 단독 백혈병 치료제로서의 근거는 아닙니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 예측 신규 적응증 | 골수성 백혈병 (Myeloid Leukemia) |
-| TxGNN 예측 점수 | 0.9947 |
-| 근거 수준 | L2 (완료된 Phase 2/3 무작위배정 시험 1건. 규칙상 L2이며, 분석 단계의 사전 판정 L1과는 차이가 있습니다) |
+| 예측 신규 적응증 | Vertebral anomalies and variable endocrine and T-cell dysfunction |
+| TxGNN 예측 점수 | 0.9938 |
+| 근거 수준 | L5 (완료된 Phase 2/3 무작위배정 시험 1건. 규칙상 L2이며, 분석 단계의 사전 판정 L1과는 차이가 있습니다) |
 | 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
 | 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Proceed with Guardrails |

@@ -4,17 +4,17 @@ title: Ciprofloxacin
 parent: 모델 예측만 (L5)
 nav_order: 216
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
+indication_count: 9
+last_modified_at: 2026-11-03
 description: "Ciprofloxacin: 예측 신규 적응증 미만성 피부경화증 (Diffuse Scleroderma) (근거 수준 L4). 기존 적응증: 세균 감염증 (항균제, 상세 허가 적응증은 허가사항 참조)"
 monitor_inn: "CIPROFLOXACIN"
-predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -114,7 +114,6 @@ TxGNN 점수(0.9987)는 매우 높지만, 이를 뒷받침할 임상 데이터�
 - 상세한 약물 작용 기전(MOA) 데이터 확보 및 항섬유화 기전의 전임상 근거 보강
 - 허가사항의 경고·금기 정보 확보 (현재 확인되지 않아 안전성 사전 검토를 진행할 수 없음)
 - 건·신경 독성 위험을 고려한 피부경화증 환자 대상 안전성 평가 계획 수립
-- 이 후보와 같은 약물에서 예측된 다른 질환 중 패혈성 페스트(septicemic plague)는 무작위 대조시험(RCT) 근거가 더 많습니다. 다만 이는 기존 항감염 용도의 확장에 가까워 별도 평가가 필요합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

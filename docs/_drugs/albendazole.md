@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Albendazole
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 31
-evidence_level: L2
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Albendazole: 예측 신규 적응증 포충증 (Alveolar echinococcosis) (근거 수준 L5). 기존 적응증: 회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료"
+evidence_level: L5
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "ALBENDAZOLE"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
+predicted_indications: ["coenurosis"]
+description: "Albendazole: 예측 신규 적응증 Coenurosis (근거 수준 L5). 기존 적응증: 이 약은 회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료에 사용합니다"
 ---
 
 # Albendazole
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **3** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,30 +33,29 @@ predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infect
 
 </div>
 
-## Albendazole: 장내 선충 감염에서 포충증(알veolar echinococcosis)으로
+## Albendazole: Coenurosis
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Albendazole은 회충, 요충, 십이지장충, 편충, 구충, 분선충 감염 치료에 사용되어 온 구충제입니다.
-TxGNN 모델은 **포충증(알veolar echinococcosis, 다포조충증)**에 효과가 있을 수 있다고 예측하며, 이 질환에 대해 **3건의 임상시험**과 **20편의 문헌**이 확인되었습니다.
 이 중 Phase 2 시험 1건(완료, 194명)이 직접 근거이며, 세계보건기구 비공식 작업반(WHO-IWGE) 전문가 합의에서도 표준 치료로 권고됩니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료 |
-| 예측 신규 적응증 | 포충증 (Alveolar echinococcosis) |
-| TxGNN 예측 점수 | 0.9997 |
-| 근거 수준 | L2 (완료된 Phase 2 시험 1건; 무작위·대조 설계 여부는 시험 기록 확인 필요) |
+| 기존 적응증 | 이 약은 회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002981/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199502401/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403206/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900053/ |
+| 예측 신규 적응증 | Coenurosis |
+| TxGNN 예측 점수 | 0.9983 |
+| 근거 수준 | L5 (완료된 Phase 2 시험 1건; 무작위·대조 설계 여부는 시험 기록 확인 필요) |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 최소 20건 |
 | 권장 결정 | Proceed with Guardrails |
 
 참고: 같은 약물에서 예측된 다른 적응증은 다음과 같습니다.
 - 코에누루스증(coenurosis, 점수 0.9983): 근거 수준 L1. 다만 연결된 시험은 대부분 신경낭미충증 시험이며 진짜 코에누루스증에 대한 직접 시험 근거는 제한적입니다.
-- 조충 감염성 질환(Cestode infectious disease, 점수 0.9974): 근거 수준 L3. 여러 조충 질환을 아우르는 포괄적 분류입니다.
+- 여러 조충 질환을 아우르는 포괄적 분류입니다.
 
 ## 이 예측이 타당한 이유는?
 

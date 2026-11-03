@@ -4,17 +4,17 @@ title: Fluoxetine
 parent: 모델 예측만 (L5)
 nav_order: 360
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Fluoxetine"
-predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-10-31
-description: "Fluoxetine: 예측 신규 적응증 편집성 인격장애 (Paranoid Personality Disorder) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 없이 허가사항 PDF 링크만 있음)"
+predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
+last_modified_at: 2026-11-03
+description: "Fluoxetine: 예측 신규 적응증 편집성 인격장애 (paranoid personality disorder) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907013/EE"
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Fluoxetine: 예측 신규 적응증 편집성 인격장애 (Parano
 
 </div>
 
-## Fluoxetine: 기존 허가 적응증에서 편집성 인격장애(Paranoid Personality Disorder)로
+## Fluoxetine: 편집성 인격장애 (paranoid personality disorder)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,8 +46,8 @@ TxGNN 모델은 **편집성 인격장애(Paranoid Personality Disorder)**에 효
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증에 적응증 본문 없이 허가사항 PDF 링크만 있음) |
-| 예측 신규 적응증 | 편집성 인격장애 (Paranoid Personality Disorder) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907013/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500735/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805198/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801099/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200700022/EE;  |
+| 예측 신규 적응증 | 편집성 인격장애 (paranoid personality disorder) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 (이 질환을 직접 연구한 임상시험·문헌 없음) |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
@@ -109,7 +109,6 @@ TxGNN 예측 점수는 매우 높지만, 편집성 인격장애에서 Fluoxetine
 - 허가사항 PDF에서 기존 적응증, 경고, 금기 정보 확보 (현재 안전성 검토를 진행할 수 없는 상태)
 - 작용 기전(MOA) 데이터 확보 (DrugBank 조회 등)
 - 편집성 인격장애에서 Fluoxetine을 평가한 임상 연구 또는 체계적 문헌고찰 탐색
-- 동일 데이터에서 근거가 상대적으로 더 많은 다른 예측 적응증(공포증, 광장공포증 등)과의 우선순위 비교
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

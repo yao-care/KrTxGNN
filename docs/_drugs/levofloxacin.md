@@ -4,17 +4,17 @@ title: Levofloxacin
 parent: 모델 예측만 (L5)
 nav_order: 473
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Levofloxacin: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 데이터에서 확인되지 않음 (허가 적응증 본문 없이 허가 문서 링크만 제공됨)"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Levofloxacin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
+description: "Levofloxacin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705151/EE"
 ---
 
 # Levofloxacin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal 
 
 </div>
 
-## Levofloxacin: 세균 감염증에서 점상 상피성 각결막염으로
+## Levofloxacin: 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -45,8 +45,8 @@ TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjun
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터에서 확인되지 않음 (허가 적응증 본문 없이 허가 문서 링크만 제공됨) |
-| 예측 신규 적응증 | 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705151/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306830/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404008/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003822/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905257/EE;  |
+| 예측 신규 적응증 | 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |

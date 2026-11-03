@@ -4,17 +4,17 @@ title: Laronidase
 parent: 모델 예측만 (L5)
 nav_order: 460
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-31
-description: "Laronidase: 예측 신규 적응증 골격 침범을 동반한 리소좀 축적질환 (lysosomal storage disease with skeletal involvem… (근거 수준 L5). 기존 적응증: 점액다당증 I형(MPS I) (한국 허가증에는 적응증 본문 대신 허가사항 문서 링크만 기재되어 있어…"
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "LARONIDASE"
-predicted_indications: ["lysosomal storage disease with skeletal involvement", "Sanfilippo syndrome"]
+predicted_indications: ["Sanfilippo syndrome"]
+description: "Laronidase: 예측 신규 적응증 Sanfilippo syndrome (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210159/EE"
 ---
 
 # Laronidase
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **2** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ predicted_indications: ["lysosomal storage disease with skeletal involvement", "
 
 </div>
 
-## Laronidase: 점액다당증 I형에서 골격 침범을 동반한 리소좀 축적질환으로
+## Laronidase: Sanfilippo syndrome
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Laronidase는 재조합 인간 알파-L-이두로니다제(alpha-L-iduronidase) 효소 대체 요법제로, 원래 점액다당증 I형(MPS I) 치료에 사용되었습니다.
-TxGNN 모델은 **골격 침범을 동반한 리소좀 축적질환(lysosomal storage disease with skeletal involvement)**에 효과가 있을 수 있다고 예측합니다.
 이 방향을 직접 지지하는 임상시험은 **0건**이며, **4편의 문헌**(리뷰, 시험관 연구, 증례 보고)이 간접적으로 관련됩니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 점액다당증 I형(MPS I) (한국 허가증에는 적응증 본문 대신 허가사항 문서 링크만 기재되어 있어, 문헌 및 약물 정보에 근거해 기재) |
-| 예측 신규 적응증 | 골격 침범을 동반한 리소좀 축적질환 (lysosomal storage disease with skeletal involvement) |
-| TxGNN 예측 점수 | 0.9931 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210159/EE |
+| 예측 신규 적응증 | Sanfilippo syndrome |
+| TxGNN 예측 점수 | 0.9922 |
 | 근거 수준 | L5 (전임상·기전 수준 근거만 존재) |
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
 | 허가증 수 | 1건 (유효 1건) |

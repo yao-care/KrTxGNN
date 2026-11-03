@@ -4,17 +4,17 @@ title: Risperidone
 parent: 모델 예측만 (L5)
 nav_order: 659
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-31
-description: "Risperidone: 예측 신규 적응증 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal… (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문 없이 PDF 링크만 있어 본문을 확인할 수 없음 (일반적으로 조현병 등 정신질환에 쓰이는 비정형 항정신…"
+indication_count: 4
+last_modified_at: 2026-11-03
 monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
+description: "Risperidone: 예측 신규 적응증 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701456/EE"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **5** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["gaze palsy, familial horizontal, with progressive scoli
 
 </div>
 
-## Risperidone: 항정신병약(조현병 등)에서 가족성 수평 시선마비 및 진행성 척추측만증으로
+## Risperidone: 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,7 +46,7 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 본문 없이 PDF 링크만 있어 본문을 확인할 수 없음 (일반적으로 조현병 등 정신질환에 쓰이는 비정형 항정신병약) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701456/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707618/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102658/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502344/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701458/EE;  |
 | 예측 신규 적응증 | 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 (모델 예측만 있음) |
@@ -77,9 +77,8 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 | 3 | 아멜로세레브로저한성 증후군 | 0.9969 | L5 | Hold | 기전 근거 및 연구 없음 |
 | 4 | Phelan-McDermid 증후군 | 0.9959 | L4 | Research Question | 리뷰 1편, 제브라피시 연구 1편. 인체 시험 없음 |
 | 5 | 발모벽 (trichotillomania) | 0.9951 | L4 | Research Question | 증례 보고·증례 시리즈 중심. 대조 시험 없음 |
-| 6 | 주요 정동장애 (major affective disorder) | 0.9911 | L1 | Proceed with Guardrails | 항우울제 불응성 우울증에서 보조요법 Phase 3 완료 시험 2건(NCT00095134, n=630; NCT00044681, n=258)과 양극성장애 Phase 3 시험 1건(NCT00277654, n=111) |
 
-이 중 근거가 가장 풍부한 것은 6순위(주요 정동장애)입니다. 이 보고서가 다루는 1순위 질환과는 별개의 평가 대상입니다.
+이 보고서가 다루는 1순위 질환과는 별개의 평가 대상입니다.
 
 ## 한국 시판 정보
 
@@ -111,7 +110,6 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 - 허가사항 PDF에서 경고·금기·적응증 본문 확보 (현재 안전성 1차 검토의 차단 요소)
 - 상세한 작용 기전(MOA) 데이터 확보
 - 이 질환과 risperidone을 연결하는 전임상·기전 연구 또는 증례 근거
-- 우선순위 재검토: 근거가 더 풍부한 다른 예측 적응증, 특히 주요 정동장애를 먼저 평가하는 방안
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

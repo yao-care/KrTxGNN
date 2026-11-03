@@ -4,17 +4,17 @@ title: Medroxyprogesterone Acetate
 parent: 모델 예측만 (L5)
 nav_order: 496
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 monitor_inn: "Medroxyprogesterone acetate"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-10-31
-description: "Medroxyprogesterone Acetate: 예측 신규 적응증 무월경 (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 수록되어 있음)"
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+last_modified_at: 2026-11-03
+description: "Medroxyprogesterone Acetate: 예측 신규 적응증 Breast fibrocystic disease (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803107/EE"
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **7** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,20 @@ description: "Medroxyprogesterone Acetate: 예측 신규 적응증 무월경 (�
 
 </div>
 
-## Medroxyprogesterone acetate: 기존 허가 적응증에서 무월경으로
+## Medroxyprogesterone Acetate: Breast fibrocystic disease
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Medroxyprogesterone acetate(MPA)는 합성 프로게스틴 계열 약물로, 한국에서 5건의 단일제 허가증이 확인됩니다. 다만 이번 데이터에는 허가 적응증의 구체적인 본문이 포함되어 있지 않습니다.
-TxGNN 모델은 **무월경(amenorrhea)**에 효과가 있을 수 있다고 예측합니다.
-이 예측을 직접 검증한 임상시험은 없고, 문헌 19편은 대부분 피임 관련 총설이며 무월경을 치료 적응증으로 다룬 연구는 확인되지 않았습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 수록되어 있음) |
-| 예측 신규 적응증 | 무월경 |
-| TxGNN 예측 점수 | 1.0000 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803107/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200409932/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200409933/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203279/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803108/EE |
+| 예측 신규 적응증 | Breast fibrocystic disease |
+| TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
 | 허가증 수 | 5건 (유효 5건) |
@@ -105,7 +103,7 @@ TxGNN 모델은 **무월경(amenorrhea)**에 효과가 있을 수 있다고 예�
 **결정: Hold**
 
 **사유:**
-무월경 예측은 점수가 매우 높지만, 직접 검증한 임상시험과 문헌이 없어 근거 수준은 L5입니다. 또한 허가 적응증 본문과 경고·금기 정보를 확인하지 못해 안전성 검토 단계로 넘어갈 수 없습니다.
+또한 허가 적응증 본문과 경고·금기 정보를 확인하지 못해 안전성 검토 단계로 넘어갈 수 없습니다.
 
 **진행하려면 필요한 것:**
 - MFDS 허가사항 원문(적응증, 경고, 금기) 확보 및 분석: 무월경이 이미 허가 범위인지 확인

@@ -4,17 +4,17 @@ title: Dipyridamole
 parent: 모델 예측만 (L5)
 nav_order: 283
 evidence_level: L5
-indication_count: 8
+indication_count: 6
 monitor_inn: "DIPYRIDAMOLE"
-predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-10-31
-description: "Dipyridamole: 예측 신규 적응증 혈전성 질환 (근거 수준 L5). 기존 적응증: 확인 불가 (허가증 문서 링크만 있고 적응증 본문이 없음)"
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
+last_modified_at: 2026-11-03
+description: "Dipyridamole: 예측 신규 적응증 Sick sinus syndrome 2, autosomal dominant (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302190/EE"
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **8** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,20 @@ description: "Dipyridamole: 예측 신규 적응증 혈전성 질환 (근거 수
 
 </div>
 
-## Dipyridamole: 허가 적응증 문서 미확인 상태에서 혈전성 질환으로
+## Dipyridamole: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Dipyridamole은 혈소판 응집을 억제하는 항혈소판 계열 약물로, 한국에서 5건의 허가증이 확인됩니다. 다만 허가 적응증 본문은 이번 데이터에 포함되지 않았습니다. TxGNN 모델은 **혈전성 질환(thrombotic disease)** 에 효과가 있을 수 있다고 예측합니다. 이 질환을 직접 다룬 임상시험은 없고, 문헌도 대부분 항혈소판제 전반을 다룬 오래된 종설이어서 근거는 **모델 예측 수준(L5)** 입니다.
+Dipyridamole은 혈소판 응집을 억제하는 항혈소판 계열 약물로, 한국에서 5건의 허가증이 확인됩니다. 다만 허가 적응증 본문은 이번 데이터에 포함되지 않았습니다. 이 질환을 직접 다룬 임상시험은 없고, 문헌도 대부분 항혈소판제 전반을 다룬 오래된 종설이어서 근거는 **모델 예측 수준(L5)** 입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증 문서 링크만 있고 적응증 본문이 없음) |
-| 예측 신규 적응증 | 혈전성 질환 |
-| TxGNN 예측 점수 | 0.9994 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302190/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600889/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403295/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702432/EE |
+| 예측 신규 적응증 | Sick sinus syndrome 2, autosomal dominant |
+| TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 5건) |
 | 허가증 수 | 5건 (유효 4건) |

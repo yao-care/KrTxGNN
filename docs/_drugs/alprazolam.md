@@ -4,17 +4,17 @@ title: Alprazolam
 parent: 중등도 근거 (L3-L4)
 nav_order: 47
 evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Alprazolam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 불안 관련 질환(허가증 문서 링크만 확인되어 적응증 본문은 확인하지 못함)"
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "ALPRAZOLAM"
-predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
+description: "Alprazolam: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309193/EE"
 ---
 
 # Alprazolam
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **3** 건
+근거 수준: **L4** | 예측 적응증: **2** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of 
 
 </div>
 
-## Alprazolam: 불안장애에서 불면증으로
+## Alprazolam: 불면증 (insomnia (disease))
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -44,8 +44,8 @@ Alprazolam은 벤조디아제핀계 약물로, 불안·공황 증상 치료에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 불안 관련 질환(허가증 문서 링크만 확인되어 적응증 본문은 확인하지 못함) |
-| 예측 신규 적응증 | 불면증 (Insomnia) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309193/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604965/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198702209/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500559/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198802986/EE;  |
+| 예측 신규 적응증 | 불면증 (insomnia (disease)) |
 | TxGNN 예측 점수 | 0.9981 |
 | 근거 수준 | L4 (기전적 타당성만 있고 직접적 임상 근거 없음) |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
@@ -109,7 +109,6 @@ Alprazolam은 벤조디아제핀계 약물로, 불안·공황 증상 치료에 �
 **사유:**
 알프라졸람의 불면증 효능을 직접 입증한 임상시험이 없고, 문헌도 대부분 간접 근거입니다. 모델 점수가 매우 높고 GABA-A 기전상 타당성은 있지만, 의존·내성·낙상 위험 등 안전성 부담이 큽니다. 현재 근거만으로는 진행을 권고하기 어렵습니다.
 
-참고로 같은 약물의 다른 예측 적응증인 광장공포증(공황장애 동반)은 다수의 대조 임상시험이 있어 근거가 훨씬 강하며, 기존 사용 범위와 겹치는 영역입니다.
 
 **진행하려면 필요한 것:**
 - 알프라졸람의 불면증에 대한 무작위 대조 임상시험이나 체계적 문헌고찰 등 직접 근거

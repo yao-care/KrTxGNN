@@ -4,17 +4,17 @@ title: Mefenamic Acid
 parent: 중등도 근거 (L3-L4)
 nav_order: 497
 evidence_level: L3
-indication_count: 7
-last_modified_at: 2026-10-31
-description: "Mefenamic Acid: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며, 적응증 본문 텍스트는 확인되지 않음"
+indication_count: 6
+last_modified_at: 2026-11-03
 monitor_inn: "MEFENAMIC ACID"
-predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+description: "Mefenamic Acid: 예측 신규 적응증 Headache disorder (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908188/EE"
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **7** 건
+근거 수준: **L3** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal
 
 </div>
 
-## Mefenamic Acid: 비스테로이드 소염진통제에서 류마티스 관절염으로
+## Mefenamic Acid: Headache disorder
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Mefenamic acid(메페남산)는 비스테로이드성 소염진통제(NSAID)로, 한국에서 8건의 허가(모두 수출용)가 유효한 약물입니다.
-TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 있을 수 있다고 예측하며, 현재 **20편의 문헌**이 이 방향을 다루지만 등록된 임상시험은 없습니다.
 다만 같은 데이터에서 근거가 가장 탄탄한 후보는 **편두통(Migraine disorder)**과 **두통 질환(Headache disorder)**이며, 각각 이중맹검 RCT 문헌이 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되며, 적응증 본문 텍스트는 확인되지 않음 |
-| 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
-| TxGNN 예측 점수 | 0.9973 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908188/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199100581/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199903201/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507851/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507854/EE;  |
+| 예측 신규 적응증 | Headache disorder |
+| TxGNN 예측 점수 | 0.9964 |
 | 근거 수준 | L3 (소규모 이중맹검 교차시험 등 문헌 위주, 임상시험 등록 없음) |
 | 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
 | 허가증 수 | 8건 (유효 8건) |

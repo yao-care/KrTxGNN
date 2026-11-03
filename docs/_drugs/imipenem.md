@@ -4,17 +4,17 @@ title: Imipenem
 parent: 모델 예측만 (L5)
 nav_order: 418
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Imipenem: 예측 신규 적응증 전신 피부경화증 (Diffuse scleroderma) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 문서 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 PDF 참조)"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Imipenem"
-predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
+description: "Imipenem: 예측 신규 적응증 전신 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703652/EE"
 ---
 
 # Imipenem
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellos
 
 </div>
 
-## Imipenem: 세균 감염증에서 미분류 신규 적응증으로 — 전신 피부경화증 평가
+## Imipenem: 전신 피부경화증 (diffuse scleroderma)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -46,8 +46,8 @@ Imipenem은 카바페넴계 광범위 베타락탐 항생제로, 한국에서 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 문서 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 PDF 참조) |
-| 예측 신규 적응증 (1순위) | 전신 피부경화증 (Diffuse scleroderma) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703652/EE |
+| 예측 신규 적응증 (1순위) | 전신 피부경화증 (diffuse scleroderma) |
 | TxGNN 예측 점수 (1순위) | 0.9999 |
 | 근거 수준 (1순위) | L5 (모델 예측만 있음) |
 | 근거가 가장 풍부한 후보 | 황색포도알균 감염 (TxGNN 0.9995, 임상시험 2건, 근거 수준 L2 판정) |

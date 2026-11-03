@@ -4,17 +4,17 @@ title: Triptorelin
 parent: 모델 예측만 (L5)
 nav_order: 768
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Triptorelin: 예측 신규 적응증 다모증 (Hypertrichosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 링크로만 제공되어 확인할 수 없음 (허가사항 원문 참조)"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Triptorelin"
-predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
+description: "Triptorelin: 예측 신규 적응증 Hypertrichosis (disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109188/EE"
 ---
 
 # Triptorelin
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis 
 
 </div>
 
-## Triptorelin: GnRH 작용제 치료에서 다모증 (hypertrichosis)으로
+## Triptorelin: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -44,8 +44,8 @@ Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 링크로만 제공되어 확인할 수 없음 (허가사항 원문 참조) |
-| 예측 신규 적응증 | 다모증 (Hypertrichosis) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109188/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604919/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604920/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100197/EE |
+| 예측 신규 적응증 | Hypertrichosis (disease) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 (모델 예측 수준) |
 | 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
@@ -90,7 +90,6 @@ Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내�
 
 ## 참고: 다른 예측 적응증
 
-이번 평가의 1순위 예측은 다모증이지만, 이번 데이터에서 가장 근거가 강한 예측은 8순위인 **중추성 성조숙증(Precocious puberty)**입니다.
 
 - 완료된 Phase 3 시험이 NCT01278290, NCT04736602, NCT00564850, NCT00909844, NCT01467882, NCT05029622 등 6건입니다.
 - 3개월 제형과 6개월 제형의 효능이 확인되었습니다.

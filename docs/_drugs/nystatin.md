@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nystatin
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 556
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Nystatin: 예측 신규 적응증 외음질염 (Vulvovaginitis) (근거 수준 L4). 기존 적응증: 확인 불가 (허가 적응증이 허가증 PDF 링크로만 제공되어 본문을 확인하지 못했습니다)"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Nystatin"
-predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: 예측 신규 적응증 Disease of orbital region (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107502/EE"
 ---
 
 # Nystatin
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease 
 
 </div>
 
-## Nystatin: 진균 감염 치료제에서 외음질염으로
+## Nystatin: Disease of orbital region
 {: .text-alpha }
 
 ## 한 문장 요약
 
 Nystatin은 폴리엔계 항진균제로, 국내에서 단일제 시럽과 정제(수출용)로 허가되어 시판 중입니다.
-TxGNN 모델은 **외음질염(Vulvovaginitis)**에 효과가 있을 수 있다고 예측하며, 현재 임상시험은 없고 **20편의 문헌**(대부분 리뷰와 관찰·실험 연구)이 이 방향을 간접적으로 지지합니다.
 다만 칸디다성 외음질염에는 이미 질 내 투여로 쓰이고 있어, 엄밀한 의미의 재창출보다는 기존 용도에 가깝습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 허가증 PDF 링크로만 제공되어 본문을 확인하지 못했습니다) |
-| 예측 신규 적응증 | 외음질염 (Vulvovaginitis) |
-| TxGNN 예측 점수 | 0.9992 |
-| 근거 수준 | L4 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107502/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501317/EE |
+| 예측 신규 적응증 | Disease of orbital region |
+| TxGNN 예측 점수 | 0.9990 |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
 | 허가증 수 | 2건 (유효 2건) |
 | 권장 결정 | Proceed with Guardrails |
@@ -72,7 +71,6 @@ TxGNN 모델은 **외음질염(Vulvovaginitis)**에 효과가 있을 수 있다�
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Review | BMJ Clinical Evidence | 칸디다성 외음질염은 세균성 질증 다음으로 흔한 질염 원인이며, 칸디다 알비칸스가 85~90%를 차지 |
 | [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Review | Pharmaceutics | 플루코나졸 내성 외음질 칸디다증의 대체 요법으로 붕산, Nystatin, 신약 검토 |
 | [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Review | Journal of Women's Health | 재발성 외음질 칸디다증에서 비알비칸스 칸디다의 아졸 내성과 붕산 요법 |
 | [21718579](https://pubmed.ncbi.nlm.nih.gov/21718579/) | 2010 | Review | BMJ Clinical Evidence | 칸디다성 외음질염 치료 근거 요약 |
