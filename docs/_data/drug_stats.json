@@ -3,10 +3,10 @@
   "total_drugs": 673,
   "level_counts": {
     "L1": 11,
-    "L2": 22,
+    "L2": 21,
     "L3": 20,
     "L4": 45,
-    "L5": 548
+    "L5": 549
   },
   "all_drugs": [
     {
@@ -462,7 +462,7 @@
     {
       "name": "Betamethasone",
       "slug": "betamethasone",
-      "level": "L2",
+      "level": "L4",
       "indication_count": 7
     },
     {
@@ -930,7 +930,7 @@
     {
       "name": "Clotrimazole",
       "slug": "clotrimazole",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 2
     },
     {

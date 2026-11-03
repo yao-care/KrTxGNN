@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Betamethasone
-parent: 높은 근거 (L1-L2)
+parent: 중등도 근거 (L3-L4)
 nav_order: 143
-evidence_level: L2
+evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "BETAMETHASONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-description: "Betamethasone: 예측 신규 적응증 Alopecia mucinosa (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301576/EE"
+description: "Betamethasone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301576/EE"
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **7** 건
+근거 수준: **L4** | 예측 적응증: **7** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,62 +33,46 @@ description: "Betamethasone: 예측 신규 적응증 Alopecia mucinosa (근거 �
 
 </div>
 
-## Betamethasone: Alopecia mucinosa
+## Betamethasone: 점액성 탈모증 (alopecia mucinosa)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Betamethasone은 강력한 글루코코르티코이드로, 한국에서는 2차 감염된 알레르기성 또는 염증성 피부질환과 1도 화상 치료에 허가되어 있습니다.
-다만 임상시험 대부분은 betamethasone을 대조약으로 사용했거나 소규모 연구여서, 근거의 직접성에는 한계가 있습니다.
+Betamethasone은 한국에서 시판 중인 글루코코르티코이드 계열 약물입니다. TxGNN 모델은 **점액성 탈모증(alopecia mucinosa)**에 효과가 있을 수 있다고 예측합니다. 다만 이를 지지하는 근거는 **임상시험 0건**, **1964년 증례 3건 보고 및 치료 고찰 1편**뿐이어서 근거가 매우 제한적입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301576/EE; 이 약은 2차 감염된 알레르기성 또는 염증성 피부질환 (습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선(마른비늘증)), 1도 화상에 사용합니다.; 이 약은 2차 감염된 알레르기성 또는 염증성 피부질환 (습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선)과 1도 화상에 사용합니다.; htt |
-| 예측 신규 적응증 | Alopecia mucinosa |
+| 예측 신규 적응증 | 점액성 탈모증 (alopecia mucinosa) |
 | TxGNN 예측 점수 | 0.9997 |
-| 근거 수준 | L2 (※ 아래 참고) |
+| 근거 수준 | L4 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
 | 허가증 수 | 최소 20건 |
-| 권장 결정 | Proceed with Guardrails |
-
-※ 완료된 Phase 2 시험(NCT06786689, 60명)이 1건 있어 L2로 판정했습니다. 다만 이 시험은 비교 연구이며 대규모 Phase 3 RCT는 확인되지 않았습니다.
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 알려진 정보에 따르면 betamethasone은 강력한 글루코코르티코이드이며, 염증성·알레르기성 피부질환에서 효능이 입증되어 있어 면역 매개 모발 질환에도 적용될 수 있습니다.
+현재 수집된 데이터에는 상세한 작용 기전(MOA) 정보가 없습니다. 다만 betamethasone은 강력한 항염증 작용을 가진 코르티코스테로이드 계열로 알려져 있습니다. 모낭 주위 염증이 병태의 일부인 질환에서는 염증 완화를 기대할 수 있습니다.
 
-원형탈모증은 모낭의 면역 특권이 무너지면서 T세포가 모낭을 공격하는 자가면역 질환입니다(IFN-γ/JAK-STAT 신호 관여). Betamethasone은 이 T세포 매개 면역 반응을 억제할 수 있어, 기존의 염증성 피부질환 적응증과 면역·염증 억제라는 공통 기전을 갖습니다. 국소 도포, 병변 내 주사, 경구 미니펄스 요법은 원형탈모증에서 이미 확립된 코르티코스테로이드 치료 방식과도 일치합니다.
+점액성 탈모증(모낭 점액증)은 모낭 주위 염증과 점액 침착을 특징으로 합니다. 이 점에서 코르티코스테로이드가 염증을 줄일 가능성이 있습니다. 그러나 이 질환은 드물고 이질적이어서 특발성 형태와 림프종 연관 형태가 있습니다. 병형에 따라 치료 반응이 다를 수 있습니다.
 
-그러나 근거 대부분은 betamethasone을 활성 대조약으로 쓴 연구이거나 소규모·이질적인 용법의 연구입니다. Betamethasone 자체를 주 평가 대상으로 한 대규모 Phase 3 RCT는 확인되지 않았습니다.
+이 가능성을 뒷받침하는 자료는 1964년의 증례 보고와 치료 고찰이 전부입니다. 현대적 대조 연구는 없으므로, 기전상 가능성은 있으나 임상적 입증은 되지 않았습니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Phase 2 | 완료 | 60 | 중등도~중증 원형탈모증에서 주 1회 azathioprine 펄스 vs betamethasone 경구 미니펄스 비교 |
-| [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Phase 4 | 완료 | 50 | 국소 원형탈모증에서 latanoprost vs 국소 코르티코스테로이드(betamethasone) 무작위 비교 |
-| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Phase 1 | 불명 | 60 | pentoxifylline·metformin 겔 vs betamethasone valerate 0.1% 크림 비교 |
-| [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | 해당 없음 | 모집 예정 | 60 | metformin 30%·simvastatin 2%·betamethasone valerate 0.1% 국소 치료(결과 없음, betamethasone 단독 효과 분리 불가) |
-| [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Phase 4 | 모집 중 | 250 | 중심원심성 흉터성 탈모증 치료 결과 비교(원형탈모증과 다른 질환으로 간접적 근거) |
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | 네트워크 메타분석 | Cochrane Database Syst Rev | 면역억제제, 모발 성장 촉진제, 접촉 면역요법 등 원형탈모증 치료법 비교 |
-| [39393548](https://pubmed.ncbi.nlm.nih.gov/39393548/) | 2025 | RCT | J Am Acad Dermatol | 복합 betamethasone의 마이크로니들 경피 전달(병변 내 주사의 통증 완화 목적) |
-| [34400956](https://pubmed.ncbi.nlm.nih.gov/34400956/) | 2021 | RCT | Iran J Pharm Res | 중증 원형탈모증에서 경구 betamethasone 펄스, methotrexate, 병용요법의 이중맹검 위약대조 비교 |
-| [40510104](https://pubmed.ncbi.nlm.nih.gov/40510104/) | 2025 | RCT | Cureus | 60명 대상 경구 cyclosporine vs betamethasone 미니펄스 비교 |
-| [36257912](https://pubmed.ncbi.nlm.nih.gov/36257912/) | 2022 | RCT | Dermatol Ther | latanoprost vs minoxidil, betamethasone 및 병용요법의 이중맹검 무작위 비교 |
-| [32594786](https://pubmed.ncbi.nlm.nih.gov/32594786/) | 2022 | RCT | J Dermatolog Treat | 국소 원형탈모증에서 병변 내 betamethasone vs triamcinolone의 환자 내 무작위 비교 |
-| [28521549](https://pubmed.ncbi.nlm.nih.gov/28521549/) | 2018 | 비교 시험 | J Dermatolog Treat | 국소 latanoprost vs minoxidil 및 betamethasone valerate 비교 |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | 리뷰 | Dermatol Pract Concept | 원형탈모증 코르티코스테로이드 펄스 요법의 효능, 재발률, 부작용 고찰 |
-| [40519428](https://pubmed.ncbi.nlm.nih.gov/40519428/) | 2025 | 임상 연구 | Cureus | 중등도~중증 원형탈모증에서 경구 betamethasone 미니펄스의 효능·안전성 평가 |
-| [27746635](https://pubmed.ncbi.nlm.nih.gov/27746635/) | 2016 | 비교 연구 | Ann Dermatol | 경구 cyclosporine vs betamethasone 미니펄스 비교 |
+| [14164963](https://pubmed.ncbi.nlm.nih.gov/14164963/) | 1964 | 증례 시리즈/고찰 | Archives of Dermatology | 모낭 점액증(점액성 탈모증) 3례 보고와 치료법 고찰. 초록 정보는 제공되지 않음 |
 
 ## 한국 시판 정보
+
+한국 시판 현황은 시판 중이며, 전체 20건 중 19건이 유효하고 1건이 취소 상태입니다. 아래는 주요 허가 5건입니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
@@ -98,33 +82,29 @@ Betamethasone은 강력한 글루코코르티코이드로, 한국에서는 2차 
 | 200902987 | 쎄레톤크림 | 크림제 | 2차 감염된 알레르기성 또는 염증성 피부질환(습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염... |
 | 199302063 | 셀톤크림 | 크림제 | 2차 감염된 알레르기성 또는 염증성 피부질환(습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염... |
 
-이 외에도 정제(경구제) 허가 다수가 있으나(예: 신일베타메타손정), 허가 적응증 본문은 별도 문서로만 제공되어 위 표에서는 제외했습니다. 일부 제품은 수출용입니다.
-
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건의 상호작용이 조회되었으며, 이 중 주요 항목은 다음과 같습니다.
-  - **Major(중대)**: Adalimumab
-  - **Moderate(중등도)**: Zidovudine, Isotretinoin, Acarbose, Acebutolol, Acetazolamide, Ketorolac, Nifedipine, Ibuprofen, Ethinylestradiol, Albiglutide, Aldesleukin, Alefacept, Alemtuzumab, Fluvoxamine, Fosamprenavir 등
-  - **Minor(경미)**: Formoterol, Salbutamol
-- **지식그래프 기반 금기 관련 질환**(허가 문서가 아닌 모델 지식그래프 기준): 고혈압, 간질, 고혈당, 홍역, 울혈성 심부전, 단순포진 각막염, 뇌하수체 기능저하증 및 관련 성장호르몬 결핍 질환군 등. 실제 금기는 허가사항으로 확인해야 합니다.
+- **약물 상호작용**: 조회된 상호작용은 총 100건이며, 이 중 일부를 확인했습니다.
+  - 주요(Major): Adalimumab
+  - 중등도(Moderate): Zidovudine, Isotretinoin, Acarbose, Acebutolol, Acetazolamide, Ketorolac, Nifedipine, Ibuprofen, Ethinylestradiol, Albiglutide, Aldesleukin, Alefacept, Alemtuzumab, Fluvoxamine, Fosamprenavir 등
+  - 경미(Minor): Formoterol, Salbutamol
 
-경고 및 금기 등 허가사항 기반 안전성 정보는 허가사항을 참조하세요.
+경고 및 금기 사항은 허가사항(첨부문서)을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-원형탈모증에서 betamethasone의 국소·병변 내·경구 미니펄스 사용을 다룬 완료된 Phase 2 시험과 다수의 RCT·비교 연구가 있고, 코르티코스테로이드의 면역 억제 기전이 이 질환에 부합합니다. 다만 betamethasone을 주 평가 대상으로 한 대규모 Phase 3 RCT가 없고, 다수 연구가 대조약 사용이거나 소규모여서 조건부 진행이 적절합니다.
+- 근거 수준은 L4입니다. 지지 근거는 1964년 증례 3건 보고와 치료 고찰이 전부이고, 임상시험이나 현대적 대조 연구는 없습니다.
+- 질환이 드물고 병형이 이질적이어서 betamethasone의 효과를 판단하기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기) 확인 및 안전성 검토: 현재 허가 문서 기반 안전성 데이터가 없어 이 항목이 가장 시급합니다.
-- 상세한 약물 작용 기전(MOA) 데이터 보강
-- 투여 경로 결정(국소, 병변 내, 경구 미니펄스)과 해당 경로의 한국 허가 제형 확인
-- 경구 미니펄스 장기 사용 시 부작용 및 재발률 모니터링 계획(고혈압, 고혈당 등 기저질환자 주의)
-- Betamethasone 단독 효과를 평가하는 대규모 대조 시험 또는 체계적 문헌고찰
+- 점액성 탈모증에서 코르티코스테로이드의 효과를 평가한 최근 증례 시리즈나 코호트 연구
+- 병형(특발성 대 림프종 연관)에 따른 치료 반응 자료
+- 허가사항 기반 경고·금기 정보
+- 상세한 작용 기전(MOA) 데이터
 
-**기타 예측 적응증 참고:** 2~10순위 예측(알로페시아 뮤시노사, 휴지기 탈모, 모낭염 데칼반스, 특발성 스테로이드 감수성 신증후군 등)은 임상시험이 없고 문헌도 매우 제한적이어서(L3~L5) 현재는 보류(Hold) 수준입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
