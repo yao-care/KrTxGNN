@@ -215,7 +215,7 @@ window.TXGNN_ANALYTICS = {
         "@id": "https://www.yao.care/#organization"
       },
       "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
       "mainEntityOfPage": "https://krtxgnn.yao.care/",
       "isAccessibleForFree": true
     },
@@ -248,7 +248,7 @@ window.TXGNN_ANALYTICS = {
       "description": "KrTxGNN 약물 재창출 근거 보고서 소개: 프로젝트 개요, 데이터 출처, 인용 방법",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
       "mainEntity": {
         "@id": "https://www.yao.care/#organization"
       }
@@ -467,7 +467,7 @@ window.TXGNN_ANALYTICS = {
       "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-21",
-      "dateModified": "2026-02-21",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-21' | date: '%Y-%m-%d' }}",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
