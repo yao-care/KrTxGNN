@@ -30,7 +30,7 @@
     },
     {
       "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/prediction-source",
-      "valueString": "TxGNN Knowledge Graph"
+      "valueString": "TxGNN deep learning model"
     }
   ]
 }
