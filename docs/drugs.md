@@ -36,6 +36,8 @@ description: "KrTxGNN의 전체 의약품 검증 보고서 및 근거 등급 통
 
 <!-- local-home:end -->
 
+선별 목록: [새 적응증에 임상시험 근거가 있는 국내 의약품]({{ '/clinical-trial-evidence/' | relative_url }}) (L1–L2, 예측 적응증과 인용된 등록 임상시험 수 포함).
+
 ## 근거 등급별 분포
 
 | 근거 등급 | 의약품 수 | 설명 |

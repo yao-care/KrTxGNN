@@ -169,7 +169,7 @@
       "name": "Alprostadil",
       "slug": "alprostadil",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Alteplase",
@@ -283,7 +283,7 @@
       "name": "Ascorbic Acid",
       "slug": "ascorbic_acid",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Atenolol",
@@ -763,7 +763,7 @@
       "name": "Cemiplimab",
       "slug": "cemiplimab",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 5
     },
     {
       "name": "Ceritinib",
@@ -937,7 +937,7 @@
       "name": "Clozapine",
       "slug": "clozapine",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Codeine",
@@ -1033,7 +1033,7 @@
       "name": "Danazol",
       "slug": "danazol",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Dantrolene",
@@ -1909,7 +1909,7 @@
       "name": "Hydroxyurea",
       "slug": "hydroxyurea",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 6
     },
     {
       "name": "Ibuprofen",
@@ -2454,8 +2454,8 @@
     {
       "name": "Meropenem",
       "slug": "meropenem",
-      "level": "L4",
-      "indication_count": 9
+      "level": "L3",
+      "indication_count": 7
     },
     {
       "name": "Mesalazine",
@@ -2569,7 +2569,7 @@
       "name": "Mitomycin",
       "slug": "mitomycin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 7
     },
     {
       "name": "Mizolastine",
@@ -3313,7 +3313,7 @@
       "name": "Riluzole",
       "slug": "riluzole",
       "level": "L5",
-      "indication_count": 9
+      "indication_count": 8
     },
     {
       "name": "Rimegepant",
@@ -3474,8 +3474,8 @@
     {
       "name": "Sirolimus",
       "slug": "sirolimus",
-      "level": "L3",
-      "indication_count": 7
+      "level": "L4",
+      "indication_count": 6
     },
     {
       "name": "Sodium Acetate",

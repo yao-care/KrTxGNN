@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "CLOTRIMAZOLE"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
-description: "Clotrimazole: 예측 신규 적응증 여드름 (acne (disease)) (acne (disease)) (근거 수준 L5). 기존 적응증: 이 약은 피부사상균, 효모 곰팡이, 기타 진균에 의한 피부진균증(백선, 어루러기, 피부칸디다증…"
+description: "Clotrimazole: 예측 신규 적응증 여드름 (acne (disease)) (근거 수준 L5). 기존 적응증: 이 약은 피부사상균, 효모 곰팡이, 기타 진균에 의한 피부진균증(백선, 어루러기, 피부칸디다증…"
 ---
 
 # Clotrimazole
@@ -33,7 +33,7 @@ description: "Clotrimazole: 예측 신규 적응증 여드름 (acne (disease)) (
 
 </div>
 
-## Clotrimazole: 여드름 (acne (disease)) (acne (disease))
+## Clotrimazole: 여드름 (acne (disease))
 {: .text-alpha }
 
 ## 한 문장 요약
@@ -45,7 +45,7 @@ Clotrimazole은 아졸계 항진균제로, 한국에서 국소·질 투여 제�
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | 이 약은 피부사상균, 효모 곰팡이, 기타 진균에 의한 피부진균증(백선, 어루러기, 피부칸디다증, 칸디다성 외음염 및 칸디다성 귀두염), 상기 진균류에 중복감염된 피부질환, 코리네박테륨에 의한 홍색음선에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197500236/EE; 이 약은 칸디다성 질염에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198400021/EE; 이 약은 무좀, 완선(사타구니백선), 체부백선에 사용합니다.; ht |
-| 예측 신규 적응증 | 여드름 (acne (disease)) (acne (disease)) |
+| 예측 신규 적응증 | 여드름 (acne (disease)) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |

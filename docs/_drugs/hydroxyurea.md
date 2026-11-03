@@ -4,17 +4,17 @@ title: Hydroxyurea
 parent: 모델 예측만 (L5)
 nav_order: 407
 evidence_level: L5
-indication_count: 9
+indication_count: 6
 monitor_inn: "Hydroxyurea"
-predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
-last_modified_at: 2026-10-31
-description: "Hydroxyurea: 예측 신규 적응증 여성 유방암 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 자료에 적응증 본문 없이 문서 링크만 있음)"
+predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
+last_modified_at: 2026-11-03
+description: "Hydroxyurea: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501440/EE"
 ---
 
 # Hydroxyurea
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,33 @@ description: "Hydroxyurea: 예측 신규 적응증 여성 유방암 (근거 수�
 
 </div>
 
-## 히드록시우레아(Hydroxyurea): 허가 적응증 확인 필요에서 여성 유방암으로
+## Hydroxyurea: 여성 유방암 (female breast carcinoma)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-히드록시우레아는 리보뉴클레오타이드 환원효소(RNR)를 억제하는 항종양 계열 약물입니다. 이번 평가에 사용된 한국 허가 자료는 적응증 본문 없이 허가 문서 링크만 제공되어, 기존 허가 적응증은 확인하지 못했습니다.
-TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있을 수 있다고 예측합니다. 다만 이를 지지하는 근거는 전임상·인실리코 연구와 1990년대 초 소규모 병용 항암요법 연구뿐이며, 등록된 임상시험은 **0건**입니다.
+Hydroxyurea는 리보뉴클레오타이드 환원효소를 억제하는 항대사제 계열의 약물입니다.
+TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 연구한 임상시험은 없고 문헌도 대부분 전임상 연구이거나 간접적인 자료입니다. 따라서 근거 수준은 **L5**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 자료에 적응증 본문 없이 문서 링크만 있음) |
-| 예측 신규 적응증 | 여성 유방암 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501440/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301690/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607038/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501759/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606000/EE |
+| 예측 신규 적응증 | 여성 유방암 (female breast carcinoma) |
 | TxGNN 예측 점수 | 0.9997 |
-| 근거 수준 | L5 (유방암 세포·인실리코 연구 수준) |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
 | 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 평가 과정에서 확인된 기전 요약에 따르면, 히드록시우레아는 RNR을 억제하여 dNTP 풀을 고갈시키고 복제 스트레스를 유발합니다.
+Hydroxyurea는 리보뉴클레오타이드 환원효소를 억제하여 dNTP 풀을 고갈시키고 DNA 복제 스트레스를 유발합니다. 현재 상세한 작용 기전 데이터는 별도로 확보되어 있지 않으며, 위 내용은 수집된 문헌에 근거한 설명입니다.
 
-일부 유방암 세포는 복제 스트레스 대응 경로(ATR/RPA2 등)에 의존합니다. 이 때문에 복제 스트레스를 유발하는 약물이 이런 암세포에 영향을 줄 가능성이 있다는 것이 기전상의 연결 고리입니다. 실제로 발프로산이 RPA2 과인산화를 통한 DNA 복구를 억제해 유방암 세포를 히드록시우레아에 민감하게 만든다는 연구가 있습니다.
+복제 스트레스 반응 경로(ATR/RPA2 등)에 의존하는 유방암 세포에서는 이러한 기전이 관련될 수 있습니다. 다만 수집된 연구에서 hydroxyurea는 대부분 치료제가 아니라 복제 스트레스를 유도하는 도구 화합물로 사용되었습니다.
 
-그러나 이 연구들에서 히드록시우레아는 복제 스트레스를 유도하는 **실험 도구 물질**로 쓰인 경우가 많고, 치료제로서의 효능을 입증한 것은 아닙니다. 임상 자료도 1990~1992년의 오래된 병용 항암요법 예비 연구가 전부입니다.
+임상 자료는 1990~1992년의 오래된 병용 화학요법 소규모 연구가 전부이고, 그 외에는 나노입자 및 in silico 전임상 연구입니다. 따라서 기전상 가능성은 있으나 유방암 치료 효과를 입증하는 근거로는 부족합니다.
 
 ## 임상시험 근거
 
@@ -67,24 +67,20 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 
 ## 문헌 근거
 
-유방암과 직접 관련된 문헌 중 대표적인 10편을 정리했습니다. 무작위 대조시험(RCT)은 없습니다.
+유방암을 직접 다룬 hydroxyurea 임상 문헌은 확인되지 않았습니다. 아래는 관련성이 있는 주요 문헌입니다.
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [38211596](https://pubmed.ncbi.nlm.nih.gov/38211596/) | 2024 | 인실리코/전임상 | Drug Research | 친수성이 높아 효능이 제한되는 히드록시우레아를 지질과 결합시켜 PI3K/AKT/mTOR 경로를 표적으로 하는 유방암 치료 후보를 설계 |
-| [28837865](https://pubmed.ncbi.nlm.nih.gov/28837865/) | 2017 | 전임상 | DNA Repair | 발프로산이 RPA2 과인산화 매개 DNA 복구를 억제하여 유방암 세포의 히드록시우레아 감수성을 높임 |
-| [32795962](https://pubmed.ncbi.nlm.nih.gov/32795962/) | 2020 | 전임상 | DNA Repair | 발프로산 대안 물질(2-hexyl-4-pentynoic acid)이 RPA2 과인산화에 영향을 주어 유방암 치료제로 가능성이 있음을 보고 |
-| [1957839](https://pubmed.ncbi.nlm.nih.gov/1957839/) | 1991 | Phase 1 | Am J Clin Oncol | 대장·췌장·위·유방의 진행성 암 환자 20명 대상, 5-FU/류코보린 후 히드록시우레아 순차 투여(알로푸리놀 보호) 병용요법의 1상 연구 |
-| [34661718](https://pubmed.ncbi.nlm.nih.gov/34661718/) | 2022 | 전임상(약물전달) | Naunyn-Schmiedeberg's Arch Pharmacol | 히드록시우레아 탑재 나노입자의 pH 의존적 약물 방출, 세포주기 정지, p53 및 lincRNA-p21 발현 변화 평가 |
-| [25814515](https://pubmed.ncbi.nlm.nih.gov/25814515/) | 2015 | 전임상 | Mol Pharmacol | 히드록시우레아와 같은 RNR 표적 신규 약물 COH29가 BRCA-1 결손 유방암 세포에서 DNA 복구를 억제 |
-| [21730979](https://pubmed.ncbi.nlm.nih.gov/21730979/) | 2011 | 전임상 | Br J Cancer | 신규 ATR 억제제 NU6027을 유방암·난소암 세포주에서 평가 (복제 스트레스 반응 경로 관련) |
-| [37777742](https://pubmed.ncbi.nlm.nih.gov/37777742/) | 2023 | 전임상 | Mol Cancer | EYA4가 복제 스트레스 회피를 통해 유방암 진행과 전이를 촉진 |
-| [27504932](https://pubmed.ncbi.nlm.nih.gov/27504932/) | 2017 | 전임상 | J Cell Physiol | 장기간 혈청 결핍 조건에서 자란 폐암·유방암(MCF-7) 세포의 항암제 내성 특성 분석 |
-| [30159181](https://pubmed.ncbi.nlm.nih.gov/30159181/) | 2018 | 증례 보고 | Case Rep Hematol | 유방암과 본태성 혈소판증가증이 함께 있는 환자의 치료 접근 사례 |
+| [1957839](https://pubmed.ncbi.nlm.nih.gov/1957839/) | 1991 | 1상 임상 | Am J Clin Oncol | 대장, 췌장, 위, 유방의 진행성 암 환자 20명에서 5-FU·류코보린 후 hydroxyurea를 allopurinol 보호하에 투여하는 요법의 1상 연구 |
+| [1733549](https://pubmed.ncbi.nlm.nih.gov/1733549/) | 1992 | 1/2상 병용 화학요법 | Cancer Chemother Pharmacol | 5-FU, 류코보린, hydroxyurea, 시스플라틴과 방사선 병용 연구 (유방암 특이적이지 않음) |
+| [2245491](https://pubmed.ncbi.nlm.nih.gov/2245491/) | 1990 | 파일럿 임상 | Cancer Chemother Pharmacol | 시스플라틴 전 사이타라빈·hydroxyurea 병용의 독성 평가 |
+| [38211596](https://pubmed.ncbi.nlm.nih.gov/38211596/) | 2024 | In silico/전임상 | Drug Research | PI3K/AKT/mTOR 경로를 표적으로 한 hydroxyurea 지질 접합체 설계 |
+| [34661718](https://pubmed.ncbi.nlm.nih.gov/34661718/) | 2022 | 전임상 | Naunyn-Schmiedeberg's Arch Pharmacol | Hydroxyurea 탑재 나노입자의 pH 의존적 약물 방출 및 세포주기 정지 평가 |
+| [28837865](https://pubmed.ncbi.nlm.nih.gov/28837865/) | 2017 | 전임상 | DNA Repair | 발프로산이 RPA2 과인산화 DNA 복구 경로를 억제하여 유방암 세포의 hydroxyurea 감수성을 높임 |
+| [32795962](https://pubmed.ncbi.nlm.nih.gov/32795962/) | 2020 | 전임상 | DNA Repair | 2-hexyl-4-pentynoic acid가 RPA2 과인산화를 통해 유방암 세포의 DNA 복구에 영향 |
+| [30159181](https://pubmed.ncbi.nlm.nih.gov/30159181/) | 2018 | 증례 보고 | Case Rep Hematol | 유방암과 본태성 혈소판증가증이 동반된 환자의 치료 경험 |
 
 ## 한국 시판 정보
-
-5건 모두 단일 성분 제제이며 유효 상태입니다. 허가 적응증은 본문 대신 허가 문서 링크만 제공되어 요약할 수 없습니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
@@ -94,38 +90,35 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 | 201501759 | 하이드린캡슐250밀리그램 | 경질캡슐 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501759/EE) 참조 |
 | 201606000 | 제일히드록시우레아캡슐(수출용) | 캡슐 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606000/EE) 참조 |
 
-5건 중 3건은 제품명에 "수출용"이 표기되어 있어, 국내 실제 유통 여부는 별도 확인이 필요합니다.
-
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 약물 (RNR 억제 항대사제) |
+| 세포독성 분류 | 기존 세포독성 약물 (항대사제, 리보뉴클레오타이드 환원효소 억제제) |
 | 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
-| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 (일반적으로 혈구 수치 모니터링 필요) |
+| 모니터링 항목 | 혈구 수치(CBC), 간·신기능 등 (허가사항 참조) |
 | 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 이번 평가에서 상호작용 후보 100건이 확인되었습니다. 이 중 목록이 제시된 20건은 대부분 중증도가 분류되지 않은 상태("Unknown")입니다. 레보플록사신만 경미(Minor)로 분류되었습니다. 그 외 목록에는 독시사이클린, 암포테리신 B, 하이드로코르티손, 파모티딘, 아스피린, 판토프라졸, 모르핀, 메트포르민, 오메프라졸, 프레드니손, 심바스타틴 등이 포함됩니다. 중증도가 분류되지 않았으므로 임상적 의미는 개별 확인이 필요합니다.
+- **약물 상호작용**: 수집된 상호작용 정보는 총 100건이며, 대부분 중증도가 분류되지 않았습니다(Unknown). 확인된 항목 중 레보플록사신은 경미한(Minor) 수준입니다. 그 밖에 독시사이클린, 암포테리신 B, 하이드로코르티손, 파모티딘, 아스피린, 판토프라졸, 메트포르민, 오메프라졸 등이 목록에 포함되어 있으나, 중증도는 확인되지 않았습니다.
 
-경고 및 금기는 허가사항을 참조하세요.
+경고 및 금기 사항은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-유방암에 대한 근거는 세포·인실리코 연구와 1990년대 초 소규모 병용요법 연구에 한정되며, 등록된 임상시험이 없습니다. 문헌 속 히드록시우레아는 치료제보다 복제 스트레스 유도 도구로 쓰인 경우가 많아, 현재 근거로는 유방암 치료 목적의 개발을 진행하기 어렵습니다.
+여성 유방암을 직접 연구한 임상시험이 없고, 문헌도 대부분 전임상 연구이거나 1990년대 초의 소규모 병용 요법 연구입니다. TxGNN 점수가 높지만 이를 뒷받침할 직접적인 근거가 부족하여 근거 수준은 L5입니다.
 
 **진행하려면 필요한 것:**
-- 한국 허가 문서의 적응증, 경고, 금기 본문 확인 (허가 문서 PDF 내려받아 분석)
-- 상세 작용 기전 데이터 확보 (DrugBank 조회)
-- 유방암 아형별 전임상 효능 자료와 현대적 병용 요법에서의 타당성 검토
-- 임상적 효능 가능성이 확인될 경우 소규모 탐색 임상시험 설계 검토
+- 유방암에서 hydroxyurea의 치료 효과를 직접 평가한 임상시험 또는 임상 연구
+- 허가사항(경고, 금기) 및 허가 적응증 텍스트 확보
+- 작용 기전 데이터 보완
+- 유방암 환자에서의 안전성 및 골수억제 모니터링 계획
 
-**참고:** 같은 약물의 다른 예측 중에서는 헤모글로빈 SC형 겸상적혈구병(HbSC)이 임상시험(NCT00532883, 2상, 조기 종료)과 2025년 임상 연구 논문까지 있어 근거가 더 두텁습니다. 이 방향의 별도 평가를 우선 검토할 만합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
