@@ -3,7 +3,7 @@ layout: default
 title: Entrectinib
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 312
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Entrectinib: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN 모델은 Entrectinib에 대해 점수 0.99 이상인 후보 적응증을 내놓지 않았으므로, 현재 새롭게 예측된 적응증은 없습니다. 아래에는 이 약물에 기록된 기존 용도를 정리했습니다.
 
 ## 한눈에 보기
+
 | 항목 | 내용 |
 |------|------|
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
@@ -52,16 +53,19 @@ TxGNN 모델은 Entrectinib에 대해 점수 0.99 이상인 후보 적응증을 
 ## 이 약물에 기록된 기존 용도
 
 ### 승인됨 (허가 또는 라벨로 뒷받침)
+
 | 적응증 | 출처 |
 |------|------|
 | 비소세포폐암 (non-small-cell lung carcinoma) | 다른 국가의 허가 |
 
 ### 승인된 적응증과 관련됨 (동일 질환 범주)
+
 | 적응증 | 승인된 범주 |
 |------|------|
 | 없음 | 없음 |
 
 ### 지식 그래프에 기록된 관계 (승인 근거 없음)
+
 | 적응증 |
 |------|
 | 없음 |

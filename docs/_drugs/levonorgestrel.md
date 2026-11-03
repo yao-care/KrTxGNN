@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 474
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Levonorgestrel: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 피임"
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
@@ -125,6 +125,7 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 | 4 | 상염색체 우성 신생혈관성 염증성 유리체망막병증 | 0.9939 | 초희귀 유전성 안질환, 기전상 연관성 불명 |
 | 5 | 유방 둔관 선증(blunt duct adenosis) | 0.9902 | 프로게스틴은 유방 조직 증식과 연관될 수 있어 반대 방향 효과 가능성 |
 | 6 | 유방 아포크린 선증(apocrine adenosis) | 0.9902 | 위와 동일 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 77
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 predicted_indications: []
 ---
 
@@ -83,6 +83,7 @@ TxGNN 예측 적응증 목록(`predicted_indications`)이 비어 있어 재창�
 | 🟠 High | 작용 기전 (MOA) 확보 | DrugBank API 조회 (`/drugs/DB11901`) |
 | 🟠 High | 원래 적응증 텍스트 확보 | DrugBank categories 및 국내외 허가 정보 참조 |
 | 🟡 Medium | 안전성 정보 (경고·금기·DDI) 확보 | 허가 주의사항(SPC) PDF 다운로드 후 파싱 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

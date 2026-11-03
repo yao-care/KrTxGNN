@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 602
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209697/EE"
@@ -115,6 +115,7 @@ TxGNN 모델은 **지루피부염(Seborrheic Dermatitis)**에 효과가 있을 �
 |------|---------|-----------|---------|------|------|
 | 3 | 발진 (Exanthem) | 0.9932 | L5 | Research Question | 구강 편평태선, 외음부 경화태선, EGFR 억제제 발진 등 이질적인 질환이 섞여 있으며 소규모 시험이 대부분 |
 | 4 | 만성 위축성 말단피부염 | 0.9901 | L5 | Hold | 근거 없음. 보렐리아 감염(라임병) 후기 병변으로 항생제가 표준치료이고, 면역억제는 오히려 해로울 수 있음 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

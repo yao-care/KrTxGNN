@@ -3,7 +3,7 @@ layout: default
 title: Obinutuzumab
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 557
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Obinutuzumab: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN 딥러닝 모델이 Obinutuzumab에 대해 제시한 후보(점수 0.99 이상)는 출처를 추적할 수 있는 범위에서 모두 이미 알려진 용도입니다. 따라서 현재 새롭게 예측된 적응증은 없습니다. 아래에 알려진 용도 2건을 승인 적응증과의 관계에 따라 정리했습니다.
 
 ## 한눈에 보기
+
 | 항목 | 내용 |
 |------|------|
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
@@ -52,17 +53,20 @@ TxGNN 딥러닝 모델이 Obinutuzumab에 대해 제시한 후보(점수 0.99 �
 ## 모델 후보 중 알려진 용도
 
 ### 승인됨 (허가 또는 라벨로 뒷받침)
+
 | 적응증 | 출처 |
 |------|------|
 | 해당 없음 | 해당 없음 |
 
 ### 승인된 적응증과 관련됨 (동일 질환 범주)
+
 | 적응증 | 승인 범주 |
 |------|------|
 | 배중심 전 단계 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) | cll |
 | 면역글로불린 중쇄 가변부위 유전자 체세포 과돌연변이를 동반한 만성 림프구성 백혈병/소림프구성 림프종 (chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation) | cll |
 
 ### 지식 그래프에 기록된 관계 (승인 근거 없음)
+
 | 적응증 |
 |------|
 | 해당 없음 |

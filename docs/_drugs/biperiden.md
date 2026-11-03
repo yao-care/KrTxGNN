@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Biperiden"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Biperiden: 예측 신규 적응증 라스무센 아급성 뇌염 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 문구 대신 링크만 기재되어 있음)"
 ---
 
@@ -106,6 +106,7 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 | 8 | 루이소체 치매 | 0.9973 | 건강한 고령자 대상 연구 1편(PMID 16041534). 항콜린제가 인지를 저하시킬 수 있어 안전성 우려 |
 | 9 | 주의력결핍 과잉행동장애 | 0.9972 | 메틸페니데이트 유발 이상운동 증례 등 간접 문헌만 있음 (PMID 28328695 등) |
 | 10 | X-연관 지적장애-운동실조-실행증 증후군 | 0.9969 | 근거 없음 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

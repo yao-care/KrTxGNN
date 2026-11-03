@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Codeine: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크 형태로만 제공되어 구체적인 효능·효과를 확인할 수 없음"
 monitor_inn: "codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
@@ -114,6 +114,7 @@ Codeine(코데인)은 오피오이드 계열 약물로, 한국에서 인산코�
 |------|-----------|-----------|------|------|
 | 3 | 삼차자율신경두통 | 0.9943 | 소아 군발두통 증례군, 코카인 오남용 증례 (치료 효과 근거 없음) | Hold. 군발두통에서 오피오이드는 일반적으로 권장되지 않음 |
 | 4 | 알레르기성 두드러기 | 0.9937 | 문헌 다수이나 코데인이 두드러기를 유발·악화시키는 내용 | 방향상 부적합. 코데인은 비만세포 히스타민 유리제로 증상을 악화시킬 수 있음 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

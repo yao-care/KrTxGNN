@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 539
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Natalizumab: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가 적응증 문구가 텍스트가 아닌 허가증 링크로만 확인되어 구체적인 적응증을 기재할 수 없음"
 monitor_inn: "NATALIZUMAB"
 predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis"]
@@ -97,6 +97,7 @@ Natalizumab은 알파-4 인테그린을 차단하는 단클론항체로, 한국�
 | 3 | 건선 (Psoriasis) | 0.9919 | L4 | 다발성 경화증 환자의 동반 건선 개선 사례(18명, PMID 33589543)가 있으나, 건선 유발·악화 증례(PMID 35646438, 28905124, 30323758)도 있어 근거가 상충. 임상시험 없음. 연구 질문 단계(Research Question) |
 | 4 | 중증 비증식성 당뇨망막병증 | 0.9918 | L5 | 임상시험·문헌 없음. 전신 투여 시 PML·감염 위험 |
 | 5 | 급성 태선양 비강진 | 0.9904 | L5 | 순위 2와 동일한 증례 1건만 존재하며 독립적인 근거가 아님 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

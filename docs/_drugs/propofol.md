@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 633
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Propofol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L2). 기존 적응증: 전신마취 및 진정 (허가 적응증 원문은 이 보고서용으로 수집된 데이터에 텍스트로 포함되지 않아…"
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -130,6 +130,7 @@ Propofol은 GABA-A 수용체의 양성 알로스테릭 조절제입니다. GABA 
 | 3 | 프린츠메탈 협심증 | 0.9923 | L5 | 마취 중 관상동맥 연축 유발 증례만 있어 치료 효과가 아닌 안전성 신호이며 Hold |
 | 4 | 신성 항이뇨호르몬 부적절 분비 증후군 | 0.9920 | L5 | 기전적 연결과 문헌이 없고 모델 예측만 있어 Hold |
 | 5 | 뚜렛 증후군 | 0.9903 | L4 | 심부뇌자극술 중 진정제로 쓴 연구뿐이며 틱 치료 효과 근거가 없어 Hold |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

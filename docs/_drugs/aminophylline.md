@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 59
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Aminophylline: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에는 문서 링크만 수록)"
 monitor_inn: "AMINOPHYLLINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
@@ -117,6 +117,7 @@ TxGNN 점수는 높지만 편두통에 대한 임상시험이 없고, 근거는 
 | 7 | 폐고혈압 | 0.9923 | L3 | Phase 1 안전성 시험 1건(NCT01530464, ambrisentan 병용, 효능 평가 없음)과 소규모 혈역학 연구. 가장 근거가 많으나 RCT 근거 없음 |
 | 6 | 프린츠메탈 협심증 | 0.9933 | L5 | 관상동맥 연축 유발 보고가 있어 이득보다 위해 가능성 시사 |
 | 9 | 갑상선기능항진증 | 0.9906 | L4 | 약동학·생리학적 상호작용 연구뿐이며 치료 근거 없음. 빈맥·진전 악화 우려 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

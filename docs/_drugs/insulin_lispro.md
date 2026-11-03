@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 428
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Insulin Lispro: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 당뇨병 혈당 조절 (허가 적응증 원문은 링크 형태로만 제공되어 상세 문구 확인 불가)"
 monitor_inn: "INSULIN LISPRO"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
@@ -117,6 +117,7 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 | 7 | 췌장 무형성증 | 0.9909 | L5 | 인슐린 보충은 표준 치료이나 인슐린 계열의 기존 용도이며, 확보된 문헌 1편(2형 당뇨병 인슐린 치료 리뷰, 2002)은 간접적으로만 관련됩니다. |
 | 8 | 원심성 지방이영양증 | 0.9904 | L5 | 인슐린 치료와의 연관성이 확립되지 않았습니다. |
 | 9 | 압박 유발 국소 지방위축증 | 0.9903 | L5 | 인슐린 주사 부위 지방위축과의 연관성으로 인한 모델상의 착시일 가능성이 있습니다. |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

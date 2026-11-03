@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 463
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Latanoprostene Bunod: 예측 신규 적응증 내장 칼시필락시스 (Visceral calciphylaxis) (근거 수준 L5). 기존 적응증: 개방각 녹내장 및 고안압증 (허가증에는 문서 링크만 기재되어 있어, 약물 정보에 근거해 요약함)"
 monitor_inn: "LATANOPROSTENE BUNOD"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
@@ -101,6 +101,7 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 |------|-----------|-----------|----------|------|
 | 6 | 혈관 질환 | 0.9953 | L5 | 관련 시험(NCT03931317, 완료, 70명)은 녹내장 환자의 망막 혈관 밀도를 보는 연구로 간접 근거에 그침 |
 | 10 | 혈관내피종 | 0.9947 | L5 | 유일한 문헌(PMID 38113361)은 프로스타글란딘 유사체 사용 중 포도주색 반점 환자의 장액성 망막박리 사례로, 효능이 아닌 안전성 신호임 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

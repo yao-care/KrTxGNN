@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 652
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Rifabutin: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 허가 적응증 본문이 링크 형태로만 확인되어 구체적 내용을 확인할 수 없음"
 monitor_inn: "Rifabutin"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
@@ -138,6 +138,7 @@ TxGNN이 예측한 다른 적응증은 대부분 근거가 부족합니다.
 | 폐포자충증(pneumocystosis) | L4 | 기전적 근거가 없고 동시 출현에 따른 인위적 연관으로 보임. 보류 |
 | 결막염, 경화성 담관염, 다발성 내분비종양 등 | L5 | 모델 예측만 있고 근거 없음. 결막염은 전신 투여 시 포도막염 위험이 있어 부적절. 보류 |
 | 원숭이·고양이 면역결핍 감염 | L5 | 항레트로바이러스 기전 없음. 보류 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

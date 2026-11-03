@@ -5,7 +5,7 @@ parent: 기존 용도만 (신규 예측 없음)
 nav_order: 542
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Neratinib: 한국의 알려진 용도 및 시판 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 ---
@@ -41,6 +41,7 @@ predicted_indications: []
 TxGNN 딥러닝 모델이 Neratinib에 대해 제시한 후보(점수 0.99 이상)는 출처를 확인할 수 있는 범위에서 모두 이미 알려진 용도입니다. 따라서 현재 새로 예측된 적응증은 없습니다. 아래 표에는 모델 후보 중 허가 근거가 있는 항목과 같은 질환 범주에 속하는 항목을 구분하여 정리했습니다.
 
 ## 한눈에 보기
+
 | 항목 | 내용 |
 |------|------|
 | 새로 예측된 적응증 | 없음 (출처를 확인할 수 있는 모델 후보는 모두 알려진 용도) |
@@ -52,18 +53,21 @@ TxGNN 딥러닝 모델이 Neratinib에 대해 제시한 후보(점수 0.99 이�
 ## 모델 후보 중 알려진 용도
 
 ### 허가 근거가 있는 적응증 (허가 또는 label로 뒷받침)
+
 | 적응증 | 출처 |
 |------|------|
 | 프로게스테론 수용체 양성 유방암 (progesterone-receptor positive breast cancer) | 한국 허가 (licence in South Korea); 승인 적응증: 유방암 (breast cancer) |
 | 프로게스테론 수용체 음성 유방암 (progesterone-receptor negative breast cancer) | 한국 허가 (licence in South Korea); 승인 적응증: 유방암 (breast cancer) |
 
 ### 허가 적응증과 관련된 항목 (같은 질환 범주)
+
 | 적응증 | 허가 범주 |
 |------|------|
 | 유방암의 정상 유방 유사형 하위 유형 (normal breast-like subtype of breast carcinoma) | 유방암 (breast cancer) |
 | 루미날 A형 또는 B형 유방 종양 (breast tumor luminal A or B) | 유방암 (breast cancer) |
 
 ### 지식 그래프에 기록된 관계 (허가 근거 없음)
+
 | 적응증 |
 |------|
 | 없음 |

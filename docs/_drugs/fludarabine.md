@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 353
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Fludarabine: 예측 신규 적응증 형질세포 골수종 (Plasma Cell Myeloma) (근거 수준 L5). 기존 적응증: 허가 적응증 문구가 링크 형태로만 확인되어 구체적인 내용은 허가사항 참조 필요"
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
@@ -146,6 +146,7 @@ Fludarabine은 다발골수종에서 동종이식 전처치와 CAR-T 림프구 �
 | 골수이형성증후군 | 0.9975 | L2 | 이식 전처치 기반 요법으로 근거 풍부(무작위 Phase 3 비교 포함), 단독 치료 근거는 아님 |
 | 분류되지 않은 골수이형성증후군 | 0.9969 | L5 | 단일 Phase 2 연구(treosulfan/fludarabine)만 존재 |
 | 갑상선기능항진증 외 5개 질환(유전성 희귀질환, 당뇨병성 신증 등) | 99.68~0.9982 | L5 | 기전적 연관성이 확인되지 않아 보류(Hold). 모델 예측만 존재 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

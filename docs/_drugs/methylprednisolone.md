@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Methylprednisolone: 예측 신규 적응증 원형탈모증 (근거 수준 L3). 기존 적응증: 확인 불가 (허가 적응증 본문이 아닌 허가 문서 링크만 제공됨)"
 ---
 
@@ -132,6 +132,7 @@ TxGNN 모델은 **원형탈모증(alopecia areata)**에 효과가 있을 수 있
 | 7 | alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome | L5 | 유전 증후군, 기전 근거 없음 |
 | 8 | atrichia with papular lesions | L5 | 유전성, 자가면역 아님 |
 | 9 | alopecia universalis onychodystrophy vitiligo | L5 | 자가면역 특성은 있으나 직접 근거 없음 (추가 연구 과제) |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 153
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Bosentan: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에 PDF 링크만 있음). 문헌상 폐동맥 고혈압(PAH)에 사용되는 약물임"
 monitor_inn: "bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -114,6 +114,7 @@ TxGNN 모델은 **류마티스 관절염(Rheumatoid Arthritis)**에 효과가 �
 |-----|-----------|-----------|----------|------|
 | 8 | 통풍 | 0.9921 | L5 | 효능 근거 없음 (안전성 신호 분석 1건뿐) |
 | 2, 4, 5, 6, 7, 9 | 갈래손가락-합지증 증후군, 결손성 소안구증-근위부 단축 이형성 증후군, 탄성섬유성 가성황색종(경미형), 척추후만측만성 심장질환, 탄력종, 다모증 | 99.04~0.9974 | L5 | 모델 예측만 있고 임상시험·문헌 없음, 기전적 연결 불명확. 권장: Hold |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

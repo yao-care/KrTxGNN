@@ -3,7 +3,7 @@ layout: default
 title: Trastuzumab Emtansine
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 756
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Trastuzumab Emtansine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN 딥러닝 모델이 이 약물에 대해 제시한 후보(점수 0.99 이상)는 출처를 추적할 수 있는 범위에서 모두 이미 알려진 용도입니다. 따라서 현재 새로운 예측 적응증은 없습니다. 아래에는 후보 4건을 허가 여부와 질환 범주에 따라 구분하여 정리했습니다.
 
 ## 한눈에 보기
+
 | 항목 | 내용 |
 |------|------|
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
@@ -52,18 +53,21 @@ TxGNN 딥러닝 모델이 이 약물에 대해 제시한 후보(점수 0.99 이�
 ## 모델 후보 중 알려진 용도
 
 ### 허가됨 (허가 또는 라벨로 뒷받침됨)
+
 | 적응증 | 출처 |
 |------|------|
 | 프로게스테론 수용체 양성 유방암 (progesterone-receptor positive breast cancer) | 대한민국 허가 (허가 적응증: 유방암 (breast cancer)) |
 | 프로게스테론 수용체 음성 유방암 (progesterone-receptor negative breast cancer) | 대한민국 허가 (허가 적응증: 유방암 (breast cancer)) |
 
 ### 허가된 적응증과 관련됨 (동일 질환 범주)
+
 | 적응증 | 허가된 범주 |
 |------|------|
 | 정상 유방 유사형 유방암종 (normal breast-like subtype of breast carcinoma) | 유방암 (breast cancer) |
 | 루미널 A 또는 B형 유방 종양 (breast tumor luminal A or B) | 유방암 (breast cancer) |
 
 ### 지식 그래프에 기록된 관계 (허가 근거 없음)
+
 | 적응증 |
 |------|
 | 없음 |

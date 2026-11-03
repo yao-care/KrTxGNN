@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 predicted_indications: []
 ---
 
@@ -79,6 +79,7 @@ TxGNN 예측 적응증 데이터가 없고, 기존 적응증·작용 기전(MOA)
 > |----|------|--------|----------|
 > | DG001 | 허가사항 경고/금기 | Blocking | MFDS 허가사항 PDF 다운로드 및 파싱 |
 > | DG002 | 작용 기전 (MOA) | High | DrugBank API 조회 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

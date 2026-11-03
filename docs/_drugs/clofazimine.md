@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 226
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Clofazimine: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 문서 링크 형태로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조 필요)"
 monitor_inn: "CLOFAZIMINE"
 predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormality"]
@@ -111,6 +111,7 @@ TxGNN 점수(0.9990)는 네트워크 기반 예측일 뿐입니다. 연결된 �
 |------|---------|-----------|------|------|
 | 2 | 말라리아 (Malaria) | 0.9960 | 임상시험 없음. clofazimine 유사체의 항플라스모디움 활성에 대한 시험관 연구 1편([29026393](https://pubmed.ncbi.nlm.nih.gov/29026393/))이 있으나, 나머지 문헌은 대부분 내성 결핵·한센병 관련으로 말라리아 효능 근거가 아님 | Hold |
 | 3 | 가스트린 분비 이상 | 0.9957 | 임상시험 및 문헌 없음. 모델 예측만 존재 | Hold |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

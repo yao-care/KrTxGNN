@@ -3,7 +3,7 @@ layout: default
 title: Brinzolamide
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 156
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Brinzolamide: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN 딥러닝 모델이 Brinzolamide에 대해 제시한 후보는 출처를 추적할 수 있는 것이 모두 이미 알려진 용도입니다. 따라서 현재 새롭게 예측된 적응증은 없습니다. 아래 표에서 모델 후보 중 기존 용도에 해당하는 항목과 그 근거를 확인할 수 있습니다.
 
 ## 한눈에 보기
+
 | 항목 | 내용 |
 |------|------|
 | 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
@@ -52,16 +53,19 @@ TxGNN 딥러닝 모델이 Brinzolamide에 대해 제시한 후보는 출처를 �
 ## 모델 후보 중 기존 용도
 
 ### 허가됨 (허가 또는 라벨로 뒷받침)
+
 | 적응증 | 출처 |
 |------|------|
 | 원발성 유전성 녹내장 (primary hereditary glaucoma) | 대한민국 허가 (licence in South Korea); 허가 적응증: glaucoma |
 
 ### 허가된 적응증과 관련 (동일 질환 범주)
+
 | 적응증 | 허가된 범주 |
 |------|------|
 | 해당 없음 | 해당 없음 |
 
 ### 지식 그래프에 기록된 관계 (허가 근거 없음)
+
 | 적응증 |
 |------|
 | 해당 없음 |

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 782
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax: 예측 신규 적응증 Hodgkins lymphoma (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE"
@@ -129,6 +129,7 @@ TxGNN 모델은 **전배중심 CLL/SLL(pregerminal center CLL/SLL, IGHV 비돌�
 | 여포성 림프종 | L2 | Proceed with Guardrails | 단독요법의 효과는 제한적이고, 병용요법 Phase 2 근거가 있습니다. |
 | 호지킨 림프종, 전이성 종양 | L3 | Research Question | 직접 근거가 없고 다른 질환 시험이 넓은 분류로 매칭된 결과입니다. |
 | Ewing 육종, 악성 나선선종, t(8;21) AML, CLL/SLL 돌연변이 아형 | L4–L5 | Hold | 임상 근거가 없거나 간접적입니다. |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

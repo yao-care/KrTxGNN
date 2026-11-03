@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 777
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 description: "Valsartan: 예측 신규 적응증 Malignant hypertensive renal disease (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404025/EE"
@@ -110,6 +110,7 @@ TxGNN 점수는 높으나 임상시험이 없고, 근거는 AT1R 차단의 간�
 | 5 | Braddock 증후군 | 0.9996 | L5 | 모델 예측만 존재 |
 | 6 | 만성 폐성심 | 0.9958 | L4 | 사쿠비트릴/발사르탄의 우심실 재형성 개선 전임상 신호, 후속 연구 질문으로 고려 가능 |
 | 7 | 프린츠메탈 협심증 | 0.9945 | L5 | 관련 근거 거의 없음 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

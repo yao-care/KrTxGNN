@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 64
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 predicted_indications: []
 ---
 
@@ -74,6 +74,7 @@ TxGNN 예측 결과가 없고, 기존 적응증·작용 기전·안전성 데이
 | 🟠 High | DrugBank ID 미연결 문제 해결 | 조회 키워드 검토 — `AMLODIPINE BESYLATE` → `amlodipine` 으로 정규화 후 재시도 |
 | 🟡 Medium | 한국 시판 현황 재확인 | 조회 약물명 정규화 후 MFDS 허가 DB 재조회 |
 | 🟡 Medium | TxGNN 예측 재실행 | DrugBank ID 확보 후 KG·DL 예측 파이프라인 재구동 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

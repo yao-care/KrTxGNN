@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Trihexyphenidyl"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Trihexyphenidyl: 예측 신규 적응증 주의력결핍 과잉행동장애 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 본문 대신 링크만 기재됨)"
 ---
 
@@ -116,6 +116,7 @@ ADHD를 직접 연구한 임상시험이나 문헌이 없고, 예측은 모델 �
 | 8 | 안외 이상 동반 또는 비동반 망막 이영양증 | 0.9954 | 증례 1건(PMID 7826714)은 비타민 E 결핍 사례로 직접 관련 없음 |
 | 9 | 척수염 | 0.9954 | 근거 없음 |
 | 10 | 샤르코-마리-투스병 1G형 | 0.9954 | 근거 없음 |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

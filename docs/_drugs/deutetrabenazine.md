@@ -3,7 +3,7 @@ layout: default
 title: Deutetrabenazine
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 267
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Deutetrabenazine: 대한민국의 기존 용도 및 시장 현황; 현재 새로운 후보 적응증 없음"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN 딥러닝 모델은 이 약물에 대해 점수 0.99 이상의 후보 적응증을 도출하지 못했으며, 따라서 현재 새롭게 예측된 적응증은 없습니다. 아래에는 이 약물에 대해 기록된 기존 용도를 정리했습니다.
 
 ## 한눈에 보기
+
 | 항목 | 내용 |
 |------|------|
 | 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
@@ -52,17 +53,20 @@ TxGNN 딥러닝 모델은 이 약물에 대해 점수 0.99 이상의 후보 적�
 ## 이 약물에 기록된 기존 용도
 
 ### 허가됨 (허가 또는 라벨로 뒷받침)
+
 | 적응증 | 출처 |
 |------|------|
 | 지연성 운동이상증 (tardive dyskinesia) | 다른 국가의 허가 |
 | 성인의 중등도~중증 지연성 운동이상증 치료 (treatment of moderate to severe tardive dyskinesia in adults) | 다른 국가의 허가 |
 
 ### 허가된 적응증과 관련됨 (같은 질환 범주)
+
 | 적응증 | 허가된 범주 |
 |------|------|
 | 해당 없음 | 해당 없음 |
 
 ### 지식 그래프에 기록된 관계 (허가 근거 없음)
+
 | 적응증 |
 |------|
 | 헌팅턴병 (huntington disease) |

@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 648
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Regorafenib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증에는 식약처 허가사항 문서 링크만 수록되어 있어 적응증 문구를 확인할 수 없음"
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
@@ -128,6 +128,7 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 | 예측 적응증 | 예측 점수 | 근거 수준 | 비고 |
 |------|------|------|------|
 | 투명세포 신장암 | 0.9947 | L2 | 미치료 전이성 신장암 2상(PMID 22959186), Avelumab 병용 시험(NCT03475953, 상태 불명) |
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
