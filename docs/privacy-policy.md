@@ -56,18 +56,8 @@ description: "KrTxGNN 개인정보 처리방침: 본 사이트는 정적 사이�
 
 ## 개발사 소개
 
-본 플랫폼은 **藥提醒科技有限公司** (yao.care, 사업자등록번호 83620786, 12F, No. 220, Sec. 2,
-Taiwan Blvd., West Dist., Taichung City, Taiwan)가 개발하고 운영합니다.
-
-KrTxGNN은 이 회사의 "TxGNN 약물재창출" 제품군 중 대한민국 사이트입니다.
-동일한 시스템이 30개 국가 및 지역에 배포되어 있으며, 각각 `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN 등)으로 명명되어 `{cc}txgnn.yao.care`에서 운영됩니다.
-제품 개요: <https://www.yao.care/medical/txgnn/>.
-
-TxGNN 모델 자체는 Harvard Medical School의 Zitnik Lab이 개발하여 *Nature Medicine*에
-발표했습니다. 본 플랫폼은 藥提醒科技有限公司가 해당 모델을 기반으로 구축한 운영 시스템으로,
-국가별 의약품 허가 데이터 통합, 지식 그래프에 이미 기록된 용도를 제외한 딥러닝 예측, PubMed / ClinicalTrials
-근거 등급화, SMART on FHIR 전자의무기록 연동을 포함합니다.
+본 플랫폼은 **藥提醒科技有限公司** (yao.care)가 개발하고 운영합니다. 회사 정보, TxGNN 모델의 배경,
+제품군 전체 사이트 목록은 <a href="{{ '/about/' | relative_url }}">소개</a> 페이지에서 확인할 수 있습니다.
 
 ---
 
