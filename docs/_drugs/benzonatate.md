@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 137
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Benzonatate: 예측 신규 적응증 마미증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에는 문서 링크만 등록되어 있으며, 진해제로 알려져 있음)"
 monitor_inn: "BENZONATATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
@@ -32,11 +32,6 @@ predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (d
 ## 약사 평가 보고서
 
 </div>
-
-## Benzonatate: 기침(진해)에서 马미 마미 척수 관련 질환 예측으로
-{: .text-alpha }
-
-> 제목 수정: 아래가 올바른 제목입니다.
 
 ## Benzonatate: 기침 치료제에서 마미증후군으로
 {: .text-alpha }
