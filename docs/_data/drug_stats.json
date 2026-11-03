@@ -2,11 +2,11 @@
   "generated": "2026-11-03",
   "total_drugs": 673,
   "level_counts": {
-    "L1": 11,
+    "L1": 10,
     "L2": 21,
     "L3": 20,
     "L4": 45,
-    "L5": 549
+    "L5": 550
   },
   "all_drugs": [
     {
@@ -3294,7 +3294,7 @@
     {
       "name": "Rifabutin",
       "slug": "rifabutin",
-      "level": "L1",
+      "level": "L5",
       "indication_count": 10
     },
     {

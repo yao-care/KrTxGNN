@@ -7,8 +7,8 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-10-31
-description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (근거 수준 L3). 기존 적응증: 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질 (일부 제품은 위·십이지장궤양, 위염, 위산과다, 변비 포함)"
+last_modified_at: 2026-11-03
+description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (stomach disease) (근거 수준 L3). 기존 적응증: 이 약은 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질에 사용합니다"
 ---
 
 # Magnesium Hydroxide
@@ -33,19 +33,20 @@ description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (근거 �
 
 </div>
 
-## Magnesium Hydroxide: 제산제·변비 치료에서 위 질환으로
+## Magnesium Hydroxide: 위 질환 (stomach disease)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-수산화마그네슘은 한국에서 위·십이지장궤양, 위염, 위산과다의 제산 및 변비 치료에 허가된 약물입니다. TxGNN 모델은 **위 질환(Stomach disease)**에 효과가 있을 수 있다고 예측하지만, 이는 이미 허가된 제산 용도와 크게 겹치는 범주입니다. 이 방향을 뒷받침하는 근거는 **20편의 문헌**(대부분 오래된 약력학·리뷰 문헌)이며, 등록된 임상시험은 없습니다.
+Magnesium Hydroxide는 위산을 중화하는 알칼리성 제산제 계열 약물입니다.
+TxGNN 모델은 **위 질환(stomach disease)**에 효과가 있을 수 있다고 예측하며, 현재 등록된 임상시험은 없고 **20편의 문헌**이 이 방향과 관련되어 있습니다. 근거 수준은 **L3**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질 (일부 제품은 위·십이지장궤양, 위염, 위산과다, 변비 포함) |
-| 예측 신규 적응증 | 위 질환 |
+| 기존 적응증 | 이 약은 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질에 사용합니다.; 이 약은 변비, 식욕부진(식욕감퇴), 복부팽만, 장내이상발효, 치질에 사용합니다.; 이 약은 위.십이지장궤양, 위염, 위산과다의 제산작용 및 증상의 개선, 변비증에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107279/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402385/EE; 이 약은 변비와 변비에 따른 식욕부진(식욕감퇴), 복부팽만, 장내 |
+| 예측 신규 적응증 | 위 질환 (stomach disease) |
 | TxGNN 예측 점수 | 0.9923 |
 | 근거 수준 | L3 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 19건) |
@@ -54,9 +55,9 @@ description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (근거 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, 수산화마그네슘은 알칼리성 제산제로 위산(염산)을 중화해 위 내 pH를 높이고 펩신 활성을 낮추는 것으로 알려져 있습니다. 이는 허가된 용도(위·십이지장궤양, 위염, 위산과다)와 일치합니다.
+현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 문헌상 Magnesium Hydroxide는 위산을 중화해 위 내 pH를 높이고 펩신 활성을 낮추는 제산제로 알려져 있습니다. 쥐 실험에서는 내인성 프로스타노이드가 관여하는 위 점막 보호 효과가 보고되었고(PMID 2595273), 위 pH에 대한 영향도 관찰되었습니다(PMID 8641951, 말 대상 연구).
 
-문헌에서도 래트에서 위 보호 효과(PMID 2595273)가, 말을 대상으로 한 연구에서 위 pH에 미치는 영향(PMID 8641951)이 보고되었습니다. 다만 "위 질환"은 범위가 넓은 분류로 이미 허가된 제산 적응증과 대부분 겹칩니다. 따라서 0.9923의 높은 점수는 새로운 재창출 신호라기보다 기존 용도를 반영한 결과로 보는 것이 합리적입니다.
+'위 질환'은 범위가 넓은 분류입니다. 제산 작용으로 설명 가능한 위염, 위산 관련 질환 등과 크게 겹치므로, 높은 예측 점수가 새로운 재창출 신호를 뜻한다고 보기는 어렵습니다. 근거는 주로 약력학 연구와 오래된 문헌이며, 위 질환 전체를 대상으로 한 무작위 대조 임상시험(RCT)은 없습니다.
 
 ## 임상시험 근거
 
@@ -66,16 +67,16 @@ description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (근거 �
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [7267678](https://pubmed.ncbi.nlm.nih.gov/7267678/) | 1981 | 이중맹검 무작위 시험 | Pharmatherapeutica | 증상성 위염 환자 36명에서 수산화마그네슘/수산화알루미늄 현탁액이 하이드로탈사이트/디메티콘보다 증상 및 조직학적 염증 점수 개선이 더 컸음 |
-| [8520743](https://pubmed.ncbi.nlm.nih.gov/8520743/) | 1995 | 무작위 이중맹검 시험 | Am J Respir Crit Care Med | 인공호흡 중환자에서 스트레스 궤양 예방 시 수크랄페이트와 제산제의 위 산도·세균 집락·폐렴 발생 비교 |
+| [7267678](https://pubmed.ncbi.nlm.nih.gov/7267678/) | 1981 | 이중맹검 무작위 시험 | Pharmatherapeutica | 증상성 위염 36명에서 수산화마그네슘/수산화알루미늄 현탁액이 hydrotalcite/dimethicone보다 증상 개선이 유의하게 많았음 |
+| [8520743](https://pubmed.ncbi.nlm.nih.gov/8520743/) | 1995 | 무작위 이중맹검 시험 | Am J Respir Crit Care Med | 인공호흡 중환자에서 sucralfate와 제산제의 위 산도 및 폐렴 발생 비교 |
 | [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | 임상 연구 | J Clin Gastroenterol | 십이지장궤양 환자에서 탄산수소나트륨과 알루미늄-마그네슘 수산화물의 식후 위산 완충 효과 비교 |
-| [9305482](https://pubmed.ncbi.nlm.nih.gov/9305482/) | 1997 | 임상 연구 | Aliment Pharmacol Ther | H2 수용체 길항제와 제산제가 십이지장궤양 환자의 H. pylori 위염을 악화시킬 수 있음 |
-| [236651](https://pubmed.ncbi.nlm.nih.gov/236651/) | 1975 | Review | Am J Hosp Pharm | 제산제의 약리와 산-펩신 질환 임상 사용 정리 |
-| [6755653](https://pubmed.ncbi.nlm.nih.gov/6755653/) | 1982 | Review | Scand J Gastroenterol Suppl | 제산제의 궤양 치유 촉진, 스트레스 궤양 출혈 예방, 가스트린 방출과 산 반동 |
-| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | 동물 연구 | Scand J Gastroenterol | 래트에서 알루미늄·마그네슘 수산화물 제산제가 급성 위 병변을 용량 의존적으로 예방 |
-| [8641951](https://pubmed.ncbi.nlm.nih.gov/8641951/) | 1996 | 약력학 연구 (말) | J Am Vet Med Assoc | 알루미늄/마그네슘 수산화물 제산제가 건강한 말의 위 pH에 미치는 영향 평가 |
-| [6613216](https://pubmed.ncbi.nlm.nih.gov/6613216/) | 1983 | 임상 연구 | Z Gastroenterol | 소화성 궤양 환자에서 제산제와 시메티딘 사이에 유의한 상호작용 없음 |
-| [20278299](https://pubmed.ncbi.nlm.nih.gov/20278299/) | 1947 | 미분류 | Am J Dig Dis | 소화성 궤양 관리에서 콜로이드 수산화알루미늄 겔과 수산화마그네슘 (초록 없음) |
+| [6613216](https://pubmed.ncbi.nlm.nih.gov/6613216/) | 1983 | 임상 연구 | Z Gastroenterol | 소화성궤양 환자에서 제산제가 cimetidine 약동학에 영향을 주지 않음 |
+| [6959250](https://pubmed.ncbi.nlm.nih.gov/6959250/) | 1982 | 임상 생리 연구 | Scand J Gastroenterol Suppl | 위 분비·배출 정량법으로 제산제의 작용 평가 |
+| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | 동물 연구 | Scand J Gastroenterol | 알루미늄·마그네슘 수산화물 제산제가 쥐에서 급성 위 병변을 용량 의존적으로 예방 |
+| [8641951](https://pubmed.ncbi.nlm.nih.gov/8641951/) | 1996 | 임상 약력학 연구 | J Am Vet Med Assoc | 정상 말에서 제산제의 위 pH 영향 평가 |
+| [236651](https://pubmed.ncbi.nlm.nih.gov/236651/) | 1975 | 리뷰 | Am J Hosp Pharm | 산-펩신성 질환 치료에서 제산제의 약리와 임상 사용 |
+| [6755653](https://pubmed.ncbi.nlm.nih.gov/6755653/) | 1982 | 리뷰 | Scand J Gastroenterol Suppl | 제산제의 궤양 치유 촉진, 위산 반동 및 가스트린 분비 |
+| [1500660](https://pubmed.ncbi.nlm.nih.gov/1500660/) | 1992 | 리뷰 | J Clin Gastroenterol | 칼슘과 위산 반동 현상 재평가 |
 
 ## 한국 시판 정보
 
@@ -87,31 +88,27 @@ description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (근거 �
 | 201403328 | 쾌락스정 | 연분홍색의 장방형 필름코팅정 | 변비와 변비에 따른 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질 |
 | 202303360 | 마로씬정 | 흰색의 타원형 필름코팅정 | 변비 및 변비에 따른 식욕부진, 복부팽만, 장내이상발효, 치질 증상의 완화 |
 
-확인된 허가는 20건이며 모두 단일 성분 제품입니다. 허가 건수가 "최소 20건"이므로 목록은 일부일 수 있습니다.
+허가 목록은 일부만 포함되었을 수 있습니다.
 
 ## 안전성 고려사항
 
-허가사항의 경고·금기 정보는 이번 자료에 포함되지 않았으므로 허가사항을 참조하세요.
+- **약물 상호작용**: 상호작용 조회 결과 100건이 확인되었습니다. 주요 항목으로 Dolutegravir(Major)가 있으며, Doxycycline, Alendronic acid, Hydrochlorothiazide, Amiodarone, Tramadol, Acetazolamide 등은 Moderate 수준입니다.
 
-- **지식 그래프상 금기 관계** (허가 문서가 아닌 TxGNN 지식 그래프에 기록된 관계): 신장 질환, 신기능 장애, 간 질환, 담낭 질환, 고칼슘혈증, 신석회증, 신결석, 만성 설사 질환, 충수염, 장 매복(분변 매복), 저인산혈증, 치질 등. 위암 관련 질환도 포함되어 있으나, 라벨에서 확인된 내용은 아니므로 해석에 주의가 필요합니다.
-- **약물 상호작용** (DDInter, 총 100건 중 일부): 
-  - 주요(Major): Dolutegravir
-  - 중등도(Moderate): Abiraterone, Acalabrutinib, Tramadol, Acetazolamide, Doxycycline, Hydrocortisone, Salbutamol, Alendronic acid, Alfuzosin, Hydrochlorothiazide, Amiloride, Amiodarone, Amisulpride, Dextroamphetamine
-  - 경미(Minor): Acebutolol, Famotidine, Ranitidine, Ibuprofen, Alprazolam
+허가사항의 경고 및 금기는 허가 문서를 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-"위 질환"은 이미 허가된 제산 적응증(위·십이지장궤양, 위염, 위산과다)과 대부분 겹치므로 새로운 재창출 가능성으로 보기 어렵습니다. 또한 위 질환 자체를 직접 다룬 연구로는 위염 환자 대상 무작위 시험(PMID 7267678) 등이 있으나 오래된 복합제(수산화알루미늄 병용) 연구이며, 등록된 임상시험은 없습니다. 안전성 허가 정보와 작용 기전 데이터도 부족합니다.
+위 질환은 범위가 넓고 제산제의 기존 사용과 크게 겹치므로, 높은 예측 점수가 새로운 재창출 가능성을 뜻하지는 않습니다. 소규모 임상 연구와 약력학 연구는 있으나 위 질환 전체에 대한 RCT와 임상시험 등록이 없어 근거 수준은 L3에 머뭅니다.
 
 **진행하려면 필요한 것:**
-- 식약처 허가사항(경고·금기) 확보 및 분석
-- DrugBank 등에서 작용 기전(MOA) 데이터 보완
-- "위 질환" 중 기존 허가 적응증과 구분되는 구체적 신규 질환 정의
-- 수산화마그네슘 단독제를 대상으로 한 현대적 임상 근거 확인
-- 한국 허가 상태 확인
+- 허가사항(경고·금기) 확인 및 안전성 검토
+- 상세한 작용 기전(MOA) 데이터 확보
+- 구체적인 위 질환 하위 질환으로 범위를 좁힌 임상 근거 검토
+- 병용 약물(특히 Dolutegravir 등)에 대한 상호작용 관리 계획
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
