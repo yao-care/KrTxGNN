@@ -5,8 +5,8 @@
     "L1": 11,
     "L2": 22,
     "L3": 20,
-    "L4": 44,
-    "L5": 549
+    "L4": 45,
+    "L5": 548
   },
   "all_drugs": [
     {
@@ -2412,13 +2412,13 @@
     {
       "name": "Medroxyprogesterone Acetate",
       "slug": "medroxyprogesterone_acetate",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 6
     },
     {
       "name": "Mefenamic Acid",
       "slug": "mefenamic_acid",
-      "level": "L3",
+      "level": "L2",
       "indication_count": 6
     },
     {
@@ -3180,7 +3180,7 @@
     {
       "name": "Progesterone",
       "slug": "progesterone",
-      "level": "L2",
+      "level": "L4",
       "indication_count": 6
     },
     {

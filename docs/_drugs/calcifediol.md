@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "CALCIFEDIOL"
 predicted_indications: ["renal tubular acidosis"]
 last_modified_at: 2026-11-03
-description: "Calcifediol: 예측 신규 적응증 Renal tubular acidosis (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE"
+description: "Calcifediol: 예측 신규 적응증 신세뇨관 산증 (renal tubular acidosis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE"
 ---
 
 # Calcifediol
@@ -33,19 +33,20 @@ description: "Calcifediol: 예측 신규 적응증 Renal tubular acidosis (근�
 
 </div>
 
-## Calcifediol: Renal tubular acidosis
+## Calcifediol: 신세뇨관 산증 (renal tubular acidosis)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Calcifediol은 25-하이드록시비타민 D3로, 순환 혈중 비타민 D의 주요 대사체이자 칼시트리올의 직접적인 전구체입니다.
+Calcifediol은 비타민 D의 대사체(25-하이드록시비타민 D) 계열 약물입니다.
+TxGNN 모델은 **신세뇨관 산증(renal tubular acidosis)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 직접 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE |
-| 예측 신규 적응증 | Renal tubular acidosis |
+| 예측 신규 적응증 | 신세뇨관 산증 (renal tubular acidosis) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
@@ -54,9 +55,11 @@ Calcifediol은 25-하이드록시비타민 D3로, 순환 혈중 비타민 D의 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 다만 Calcifediol은 간에서 만들어지는 비타민 D3의 25-수산화 대사체로, 활성형인 칼시트리올의 직접 전구체입니다. 따라서 비타민 D 결핍 상태를 교정하는 데 기전상 적용 가능성이 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 calcifediol은 비타민 D 계열 약물로, 체내에서 활성형 비타민 D로 전환되는 전구 물질입니다.
 
-다만 이 질환명은 온톨로지에서 폐기(obsolete) 처리된 용어입니다. 이 예측을 뒷받침하는 임상시험이나 문헌도 확인되지 않았습니다.
+신세뇨관 산증에서는 만성 산증, 고칼슘뇨증, 비타민 D 활성화 장애로 인해 구루병이나 골연화증 같은 이차성 대사성 골질환이 생길 수 있습니다. 비타민 D 대사체가 이러한 뼈 합병증 관리에 도움이 될 가능성이 있다는 것이 기전상의 연결 고리입니다.
+
+다만 이 연결은 간접적입니다. Calcifediol이 산-염기 이상 자체를 교정하지는 못하며, 이 질환을 직접 다룬 임상시험이나 문헌도 확인되지 않았습니다. 높은 예측 점수는 임상적 뒷받침이 없는 모델 예측일 뿐입니다.
 
 ## 한국 시판 정보
 
@@ -66,30 +69,27 @@ Calcifediol은 25-하이드록시비타민 D3로, 순환 혈중 비타민 D의 �
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 57건이 확인되었으며, 주요(Major) 등급은 다음과 같습니다.
+- **약물 상호작용**: 총 57건의 상호작용이 확인되었으며, 주요(Major) 등급은 다음과 같습니다.
   - Cholecalciferol
-  - Calcitriol
   - Burosumab
-- 중등도(Moderate) 등급 상호작용에는 다음이 포함됩니다.
-  - 항경련제: fosphenytoin, carbamazepine, 바르비튜레이트계(amobarbital, butalbital, butabarbital)
-  - 티아지드계 이뇨제: hydrochlorothiazide, chlorothiazide, chlorthalidone 등
-  - 담즙산 결합제: cholestyramine, colesevelam, colestipol
-  - 기타: 수산화알루미늄, 국소 칼시포트리올, digitoxin
+  - Calcitriol
+- 중등도(Moderate) 등급에는 티아지드계 이뇨제(hydrochlorothiazide, chlorothiazide 등), 항경련제(carbamazepine, fosphenytoin), 바르비투르산계 약물, 알루미늄 수산화물, 담즙산 결합 수지(cholestyramine, colesevelam, colestipol), digitoxin 등이 있습니다.
 
-허가사항의 경고 및 금기는 이번 자료에서 확인되지 않았으므로 허가사항을 참조하세요.
+그 외 경고 및 금기 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-예측 질환명이 폐기된 용어이고, 직접 연구한 임상시험과 문헌이 없어 근거가 모델 예측뿐(L5)입니다. 기존 비타민 D 결핍 관련 용도와 중복되는 개념일 가능성이 높습니다.
+신세뇨관 산증에 대한 예측 점수는 높지만(0.9986), 직접 뒷받침하는 임상시험과 문헌이 없고 기전 연결도 간접적이어서 근거 수준은 L5입니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증)의 확보 및 분석
-- 상세한 약물 작용 기전(MOA) 데이터
-- 현행 질환 용어와의 대응 관계 정리 및 해당 질환을 직접 다룬 임상시험·문헌 확인
-- 한국 시판·허가 상태 확인
+- 신세뇨관 산증 환자에서 calcifediol을 평가한 임상시험 또는 문헌 확보
+- 작용 기전(MOA) 데이터 보완
+- 허가사항의 경고 및 금기 정보 확보
+- 고칼슘혈증, 신석회화증, 신결석 등 칼슘 대사 관련 위험에 대한 안전성 평가 (산증 환자 대상)
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

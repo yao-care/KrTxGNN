@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "TULOBUTEROL"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 last_modified_at: 2026-11-03
-description: "Tulobuterol: 예측 신규 적응증 Respiratory malformation (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310337/EE"
+description: "Tulobuterol: 예측 신규 적응증 호흡기 기형 (respiratory malformation) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310337/EE"
 ---
 
 # Tulobuterol
@@ -33,59 +33,47 @@ description: "Tulobuterol: 예측 신규 적응증 Respiratory malformation (근
 
 </div>
 
-## Tulobuterol: Respiratory malformation
+## Tulobuterol: 호흡기 기형 (respiratory malformation)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-툴로부테롤(Tulobuterol)은 장시간 작용형 베타-2 작용제로, 한국에서 서방성 경피흡수제(패취) 형태의 단일 성분 제품으로 허가되어 있습니다. 다만 이번 자료에는 허가 적응증 본문이 없어 정확한 허가 적응증은 확인하지 못했습니다.
-다만 완료된 Phase 3 RCT는 없어 근거 수준은 L3로 판정했습니다.
+Tulobuterol은 베타-2 아드레날린 수용체 작용제 계열의 경피흡수제 성분입니다.
+TxGNN 모델은 **호흡기 기형(respiratory malformation)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험이나 문헌은 확인되지 않았습니다. 현재 근거는 모델 예측 수준(L5)에 머뭅니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310337/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003161/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003180/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003158/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003174/EE;  |
-| 예측 신규 적응증 | Respiratory malformation |
+| 예측 신규 적응증 | 호흡기 기형 (respiratory malformation) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 |
-| 권장 결정 | Proceed with Guardrails |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-툴로부테롤은 장시간 작용형 베타-2 아드레날린 작용제입니다. 베타-2 수용체를 활성화하면 기관지 평활근이 이완되어 기관지가 확장되며, 이것이 천식과 만성폐쇄성폐질환(COPD) 치료의 기본 원리입니다. 패취 제형은 혈중 농도가 최고에 이르는 시점을 새벽의 폐기능 저하 시간대에 맞추고, 혈중 농도가 지나치게 오르는 것을 막아 전신 부작용을 줄이도록 설계되었습니다(PMID 22270072). 현재 상세한 작용 기전 데이터는 따로 확보되지 않았으며, 위 설명은 문헌에 기반한 것입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Tulobuterol은 베타-2 작용제 계열로, 기관지 평활근 이완을 통한 기관지 확장 작용이 기대됩니다.
 
-폐쇄성 폐질환은 기도 폐쇄가 핵심 병태이므로 기관지 확장제의 작용과 직접 맞닿아 있습니다. 문헌에서도 툴로부테롤은 COPD와 천식 환자의 기관지 확장제로 연구되어 왔고, 일본·한국·중국 등에서 사용된다고 보고됩니다(PMID 37746980). 따라서 이 예측은 완전히 새로운 용도 발굴이라기보다 기존 사용 영역과 매우 가까운 용도로 보입니다.
-
-같은 모델이 예측한 다른 질환(호흡기 기형, Rienhoff 증후군, 과투과성 폐, 기관 협착)은 이번 자료에서 직접 근거가 없거나 기전상 연결이 약합니다. 이 질환들은 구조적 결함이 원인이거나 매우 드문 질환이어서 기관지 확장 작용으로 치료되기 어렵습니다.
-
-## 임상시험 근거
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT01465906](https://clinicaltrials.gov/study/NCT01465906) | Phase 4 | 불명 | 160 | COPD 환자의 호흡곤란 완화를 위해 툴로부테롤 패취와 티오트로퓸을 병용했을 때의 효능·안전성 평가 (다기관 무작위 대조) |
-| [NCT00950794](https://clinicaltrials.gov/study/NCT00950794) | Phase 4 | 완료 | 367 | 성인 기관지 천식에서 살메테롤과 툴로부테롤 패취(호쿠날린)를 비교한 비열등성 시험. 툴로부테롤은 대조약이며 평가 지표는 최대호기유량(PEF) |
+다만 호흡기 기형은 구조적인 선천성 결함입니다. 기관지 확장은 증상을 일시적으로 완화할 수는 있어도 해부학적 결함 자체를 교정하지는 못합니다. 따라서 기전상 뚜렷한 연결고리는 확인되지 않으며, 높은 예측 점수는 호흡기 질환과 관련된 노드와의 근접성을 반영했을 가능성이 큽니다.
 
 ## 문헌 근거
 
+이 질환을 직접 다룬 문헌은 없습니다. 아래 1편은 소아 천식 연구로, 약물의 기관지 확장 작용에 대한 참고 자료일 뿐입니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [1974678](https://pubmed.ncbi.nlm.nih.gov/1974678/) | 1990 | RCT | Lung | 만성 폐쇄성 폐질환 환자 36명에서 툴로부테롤 흡입제와 페노테롤 흡입제를 비교한 이중맹검 교차시험. 모든 시점에서 툴로부테롤 투여 후 FEV1 증가가 더 컸음 |
-| [18983928](https://pubmed.ncbi.nlm.nih.gov/18983928/) | 2008 | RCT | Pulm Pharmacol Ther | 경증~중등도 COPD에서 테오필린과 툴로부테롤 패취의 기도 염증 및 임상 효과 비교 |
-| [2876775](https://pubmed.ncbi.nlm.nih.gov/2876775/) | 1986 | RCT | Clin Ther | 입원 중인 COPD 남성 40명에서 툴로부테롤(경구)과 살부타몰을 비교한 이중맹검 시험 |
-| [22270072](https://pubmed.ncbi.nlm.nih.gov/22270072/) | 2012 | Review | Allergol Int | 툴로부테롤 패취의 약동학적 특징과 임상적 의의를 정리한 리뷰 |
-| [2861899](https://pubmed.ncbi.nlm.nih.gov/2861899/) | 1985 | Review | Clin Ther | 성인 폐쇄성 기도질환 관리에서 툴로부테롤의 역할 |
-| [37746980](https://pubmed.ncbi.nlm.nih.gov/37746980/) | 2023 | Cohort | Medicine | 급성 뇌졸중과 COPD가 있는 입원 환자에서 경피 툴로부테롤 사용과 단기 결과의 연관성을 본 후향 코호트 연구 (흡입기 사용이 어려운 환자의 대안 가능성) |
-| [16336029](https://pubmed.ncbi.nlm.nih.gov/16336029/) | 2005 | 비교 임상연구 | Treat Respir Med | 안정 COPD에서 경피 툴로부테롤과 흡입 살메테롤을 비교한 공개라벨 연구 |
-| [41234762](https://pubmed.ncbi.nlm.nih.gov/41234762/) | 2025 | 임상연구 | Ann Thorac Med | 천식·COPD 환자에서 툴로부테롤 패취의 안전성·내약성·효능을 평가한 Phase 4 연구 |
-| [12390295](https://pubmed.ncbi.nlm.nih.gov/12390295/) | 2002 | 임상연구 | Clin Exp Pharmacol Physiol | 흡입 스테로이드 사용 중에도 아침 PEF 저하가 있는 천식 환자 7명에게 8주간 적용한 결과 천식 조절과 베타 수용체 기능 평가 |
-| [17331388](https://pubmed.ncbi.nlm.nih.gov/17331388/) | 2007 | 임상연구 | Zhonghua Nei Ke Za Zhi | 경증·중등도 지속성 천식 환자에서 툴로부테롤 테이프의 효능과 안전성 평가 |
+| [2876923](https://pubmed.ncbi.nlm.nih.gov/2876923/) | 1986 | 임상 연구 | The Journal of International Medical Research | 소아 천식 환자 대상 용량 탐색 및 terbutaline 비교 연구. Tulobuterol은 빠르고 지속적인 기관지 확장 작용을 보임 |
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
 
 ## 한국 시판 정보
 
-허가증은 최소 20건이며, 모두 단일 성분 제품입니다. 목록은 일부일 수 있습니다. 아래는 주요 5건입니다.
+현재 확인된 허가는 최소 20건이며, 목록이 일부일 수 있습니다. 모두 단일 성분 경피흡수제입니다. 주요 5건은 다음과 같습니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
@@ -101,17 +89,17 @@ description: "Tulobuterol: 예측 신규 적응증 Respiratory malformation (근
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-COPD를 직접 다룬 RCT 3건과 코호트 연구, 그리고 COPD 대상 Phase 4 시험이 있어 이 예측은 약리학적으로 충분히 타당합니다. 다만 완료된 Phase 3 RCT가 없고, COPD 시험은 상태가 불명입니다. 또한 허가 적응증 본문과 안전성 정보가 확보되지 않아 근거 수준은 L3에 머뭅니다.
+호흡기 기형을 직접 다룬 임상시험이나 문헌이 없고, 구조적 결함에 대해 기관지 확장제가 작용할 기전적 근거도 불분명합니다. 현재는 모델 예측만 있는 L5 단계입니다.
 
 **진행하려면 필요한 것:**
-- 식약처 허가사항(적응증, 경고, 금기)을 내려받아 확인하고, 현재 허가 적응증에 폐쇄성 폐질환이 포함되는지 검토
-- 상세한 약물 작용 기전(MOA) 데이터 보완
-- 시판 및 허가 취소 여부 확인
-- 완료된 대규모 RCT, 특히 COPD 대상 시험 결과 확인 (NCT01465906의 현황 포함)
-- 베타-2 작용제 계열의 심혈관계 부작용 등을 고려한 대상 환자 안전성 모니터링 계획
+- 호흡기 기형 환자를 대상으로 한 임상 또는 전임상 근거
+- 상세한 작용 기전(MOA) 데이터
+- 허가사항(경고, 금기)에 대한 확인 및 안전성 검토
+- 호흡기 기형 병태에서 증상 완화 목적의 사용이 타당한지에 대한 임상 전문가 검토
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

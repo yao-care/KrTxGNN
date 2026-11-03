@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
-description: "Nystatin: 예측 신규 적응증 Disease of orbital region (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107502/EE"
+description: "Nystatin: 예측 신규 적응증 안와 부위 질환 (disease of orbital region) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107502/EE"
 ---
 
 # Nystatin
@@ -33,53 +33,38 @@ description: "Nystatin: 예측 신규 적응증 Disease of orbital region (근�
 
 </div>
 
-## Nystatin: Disease of orbital region
+## Nystatin: 안와 부위 질환 (disease of orbital region)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Nystatin은 폴리엔계 항진균제로, 국내에서 단일제 시럽과 정제(수출용)로 허가되어 시판 중입니다.
-다만 칸디다성 외음질염에는 이미 질 내 투여로 쓰이고 있어, 엄밀한 의미의 재창출보다는 기존 용도에 가깝습니다.
+Nystatin은 폴리엔계 항진균제로, 한국에서 단일제 2건이 허가되어 시판 중입니다.
+TxGNN 모델은 **안와 부위 질환(disease of orbital region)**에 효과가 있을 수 있다고 예측하며, 예측 점수는 0.9990입니다.
+그러나 이 질환을 직접 다룬 임상시험이나 문헌은 없습니다. 연결된 임상시험 1건은 Nystatin과 무관한 다른 질환 연구여서 실질적인 근거가 없습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107502/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501317/EE |
-| 예측 신규 적응증 | Disease of orbital region |
+| 예측 신규 적응증 | 안와 부위 질환 (disease of orbital region) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
 | 허가증 수 | 2건 (유효 2건) |
-| 권장 결정 | Proceed with Guardrails |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Nystatin은 폴리엔계 항진균제로, 칸디다 세포막의 에르고스테롤에 결합해 구멍을 만들고 세포 내용물을 누출시켜 효과를 냅니다.
+현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 Nystatin은 진균 세포막의 에르고스테롤에 결합해 항진균 작용을 나타내는 폴리엔계 약물로 알려져 있습니다.
 
-외음질염에서 가장 흔한 감염 원인은 칸디다성 외음질염이므로 이 기전이 직접 관련됩니다. 문헌에서도 Nystatin은 1950년대부터 칸디다성 외음질염에 사용되어 왔고, 이후 아졸계 약제가 1차 선택이 되었다고 기술합니다.
-
-다만 세균성, 트리코모나스성, 위축성 외음질염 등 칸디다가 아닌 외음질염에는 효과를 기대하기 어렵습니다.
+안와 부위 질환과의 기전적 연결고리는 확인되지 않았습니다. 연결된 유일한 임상시험은 지도 위축(망막 질환)에 대한 다른 약물 연구입니다. 안와 질환과는 질환 부위도 다르고 Nystatin과도 관련이 없어, 우연한 연관으로 보입니다. 높은 예측 점수는 모델 예측일 뿐 임상적 뒷받침이 아닙니다.
 
 ## 임상시험 근거
 
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-제공된 문헌은 대부분 리뷰이며, 제2상/3상 RCT 수준의 근거는 확인되지 않습니다. 주요 문헌은 다음과 같습니다.
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Review | Pharmaceutics | 플루코나졸 내성 외음질 칸디다증의 대체 요법으로 붕산, Nystatin, 신약 검토 |
-| [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Review | Journal of Women's Health | 재발성 외음질 칸디다증에서 비알비칸스 칸디다의 아졸 내성과 붕산 요법 |
-| [21718579](https://pubmed.ncbi.nlm.nih.gov/21718579/) | 2010 | Review | BMJ Clinical Evidence | 칸디다성 외음질염 치료 근거 요약 |
-| [1436934](https://pubmed.ncbi.nlm.nih.gov/1436934/) | 1992 | Review | Obstet Gynecol Clin North Am | Nystatin은 1950년대에 도입되었으나 이미다졸·트리아졸계가 1차 선택으로 대체 |
-| [18729533](https://pubmed.ncbi.nlm.nih.gov/18729533/) | 2008 | 미분류 | Drugs | 국소 치료와 경구 치료가 비합병증성 외음질 칸디다증에서 동등하게 효과적 |
-| [10796183](https://pubmed.ncbi.nlm.nih.gov/10796183/) | 2000 | 미분류 | Cochrane Database Syst Rev | 임신 중 질 칸디다증의 국소 치료 |
-| [2212172](https://pubmed.ncbi.nlm.nih.gov/2212172/) | 1990 | Review | J Am Acad Dermatol | 질 칸디다증의 개별화 치료, 국소제형 간 결과 차이는 근거가 적음 |
-| [20406393](https://pubmed.ncbi.nlm.nih.gov/20406393/) | 2011 | 미분류 | Mycoses | 합병증성 외음질 칸디다증 환자 283명에서 플루코나졸·Nystatin 감수성과 임상 결과의 상관성 분석 |
-| [36588489](https://pubmed.ncbi.nlm.nih.gov/36588489/) | 2022 | 미분류 | Rom J Morphol Embryol | Nystatin 국소 치료 전 임신·비임신 칸디다 질염 환자의 임상·미생물·조직병리 비교 |
+| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
+|---------|------|------|----------|---------|
+| [NCT03178149](https://clinicaltrials.gov/study/NCT03178149) | Phase 1 | 모집 중 | 42 | 연령관련 황반변성에 따른 지도 위축에서 ASP7317의 안전성·내약성 평가. Nystatin 및 안와 질환과 무관 |
 
 ## 한국 시판 정보
 
@@ -88,30 +73,25 @@ Nystatin은 폴리엔계 항진균제로, 국내에서 단일제 시럽과 정�
 | 202107502 | 제이티니스타틴시럽(니스타틴) | 현탁시럽 | 허가증 PDF 링크로만 제공되어 본문 확인 불가 |
 | 200501317 | 니스틴정(니스타틴)(수출용) | 당의정 | 허가증 PDF 링크로만 제공되어 본문 확인 불가 |
 
-국내 허가 제형은 시럽과 정제로, 질 내 투여 제형은 확인되지 않았습니다. 질염에 사용하려면 투여 경로 적합성 검토가 필요합니다.
-
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건이 조회되었으나 등급은 모두 미분류(Unknown)입니다. 일부 예시로 Cyclosporine, Fluconazole, Erythromycin, Azithromycin, Tramadol, Lorazepam, Bortezomib 등이 있습니다.
-- **지식 그래프상 금기 관련 질환** (허가 문서가 아닌 모델의 지식 그래프 기준): 부신피질 기능부전, 애디슨병, 피부 위축, 모세혈관 확장증, 모세혈관 질환, 유전성 출혈성 모세혈관 확장증
+- **약물 상호작용**: 총 100건의 상호작용 기록이 있으나 위험 등급은 분류되어 있지 않습니다. 주요 항목은 Cyclosporine, Fluconazole, Erythromycin, Azithromycin, Bortezomib, Tramadol, Lorazepam, Sildenafil, Pantoprazole 등입니다.
 
-허가사항의 경고 및 금기 정보는 확인하지 못했으므로 허가사항을 참조하세요.
+경고 및 금기 사항은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-Nystatin은 칸디다성 외음질염에 기전상 직접 적용되며 이미 해당 용도로 사용된 이력이 있습니다. 다만 제공된 근거는 주로 리뷰와 소규모 연구이고 임상시험 등록이 없어 근거 수준은 L4입니다. 또한 칸디다가 아닌 외음질염에는 효과를 기대하기 어렵습니다.
+- 안와 부위 질환을 직접 다룬 임상시험이나 문헌이 없고, 기전적 근거도 확인되지 않아 근거 수준은 L5입니다. 높은 예측 점수만으로는 개발을 진행하기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- 허가증 PDF에서 국내 허가 적응증, 경고, 금기 확인 (필수)
-- 상세한 작용 기전 데이터 확보
-- 질 내 투여 제형 및 투여 경로 적합성 검토
-- 대상 범위를 칸디다성 외음질염으로 한정하고, 진단 시 균 확인
-- 지식 그래프상 금기 질환(부신피질 기능부전, 피부 위축 등)을 가진 환자에 대한 모니터링 계획
+- 안와 부위 질환과 Nystatin의 관련성을 직접 검증하는 전임상 또는 임상 연구
+- 작용 기전 데이터 확보 및 안와 질환에서의 기전적 타당성 검토
+- 허가사항(경고·금기) 확보 후 안전성 검토
+- 안와 부위 투여 경로 및 제형의 적합성 검토
 
-**참고:** 예측 순위 2위인 안와 부위 질환 등 나머지 예측 질환 대부분은 기전적 근거나 임상 근거가 없어 보류(Hold)가 적절합니다. 외음염(Vulvitis)은 칸디다 관련 경우에 한해 외음질염과 동일한 근거를 간접적으로 공유합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

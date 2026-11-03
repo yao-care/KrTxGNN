@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-description: "Cyclophosphamide: 예측 신규 적응증 Vertebral anomalies and variable endocrine and T-cell dysfunction (근거 수준 L5)."
+description: "Cyclophosphamide: 예측 신규 적응증 척추 이상 및 가변적 내분비·T세포 기능장애 (vertebral anomalies and variable endocrine and T-cell dysfunction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906639/EE"
 ---
 
 # Cyclophosphamide
@@ -33,71 +33,41 @@ description: "Cyclophosphamide: 예측 신규 적응증 Vertebral anomalies and 
 
 </div>
 
-## Cyclophosphamide: Vertebral anomalies and variable endocrine and T-cell dysfunction
+## Cyclophosphamide: 척추 이상 및 가변적 내분비·T세포 기능장애 (vertebral anomalies and variable endocrine and T-cell dysfunction)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-시클로포스파미드(Cyclophosphamide)는 체내에서 활성화되어 DNA를 교차결합시키는 알킬화 항암제입니다. 다만 이 근거는 대부분 조혈모세포이식의 전처치 요법과 이식 후 GVHD 예방 요법에서 나온 것이며, 단독 백혈병 치료제로서의 근거는 아닙니다.
+Cyclophosphamide는 세포독성과 면역억제 작용을 가진 알킬화 항종양제입니다.
+TxGNN 모델은 **척추 이상 및 가변적 내분비·T세포 기능장애(vertebral anomalies and variable endocrine and T-cell dysfunction)**에 효과가 있을 수 있다고 예측합니다. 다만 이 질환을 직접 다룬 **임상시험과 문헌은 한 건도 없어** 모델 예측만 있는 상태입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 예측 신규 적응증 | Vertebral anomalies and variable endocrine and T-cell dysfunction |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906639/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906637/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504135/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197600065/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906638/EE |
+| 예측 신규 적응증 | 척추 이상 및 가변적 내분비·T세포 기능장애 (vertebral anomalies and variable endocrine and T-cell dysfunction) |
 | TxGNN 예측 점수 | 0.9938 |
-| 근거 수준 | L5 (완료된 Phase 2/3 무작위배정 시험 1건. 규칙상 L2이며, 분석 단계의 사전 판정 L1과는 차이가 있습니다) |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
 | 허가증 수 | 5건 (유효 5건) |
-| 권장 결정 | Proceed with Guardrails |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-시클로포스파미드는 간 CYP450 효소로 활성화되는 전구약물입니다. 활성 대사체인 포스포르아마이드 머스타드가 DNA를 교차결합시켜 빠르게 분열하는 세포에 세포사멸을 유발하므로, 백혈병 세포에도 작용할 수 있습니다. 현재 상세한 작용 기전 데이터는 별도로 확보되지 않았으며, 위 설명은 일반적인 약리 지식과 예측 근거 분석에 따른 것입니다.
+현재 상세한 작용 기전 데이터가 없습니다. Cyclophosphamide는 알킬화 항종양제이자 면역억제제로 알려져 있습니다. 이 질환과 연결되는 뚜렷한 기전적 근거는 확인되지 않았습니다.
 
-골수성 백혈병에서 이 약은 주로 이식 치료의 일부로 쓰입니다. 부설판(busulfan)이나 플루다라빈(fludarabine)과 함께 쓰는 전처치 요법이 있고, 이식 후 시클로포스파미드(PTCy)로 동종반응성 T세포를 선택적으로 제거해 GVHD를 예방하는 용법도 있습니다. 이 때문에 항종양 효과와 면역 조절 효과가 모두 이 적응증과 연결됩니다.
-
-따라서 이 예측은 "단독 백혈병 치료제"보다는 "이식 기반 치료의 핵심 구성 약물"로 해석하는 것이 현실적입니다.
+이 질환은 척추 기형과 내분비 이상, T세포 기능 이상을 보이는 드문 선천성 증후군입니다. T세포 기능이 이미 저하된 환자에게 세포독성·면역억제 약물을 쓰면 오히려 해로울 수 있습니다. 높은 예측 점수는 계산상의 결과일 뿐이며, 임상적·기전적 타당성을 뒷받침하는 자료는 아닙니다.
 
 ## 임상시험 근거
 
-관련 시험은 총 34건입니다. 시클로포스파미드와의 관련성이 높은 순으로 10건을 나열합니다.
-
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00003187](https://clinicaltrials.gov/study/NCT00003187) | Phase 2/3 | 완료 | 19 | 비혈연 공여자 골수이식에서 T세포 제거 vs 일반 이식 비교. 전처치에 시클로포스파미드 포함 |
-| [NCT04473911](https://clinicaltrials.gov/study/NCT04473911) | Phase 1 | 완료 | 25 | 감소강도 반일치 이식에서 PTCy 기반 GVHD 예방 (AML 포함) |
-| [NCT00315705](https://clinicaltrials.gov/study/NCT00315705) | Phase 1/2 | 완료 | 50 | 소아 불응성·재발성 급성백혈병에서 클로파라빈 + 에토포사이드 + 시클로포스파미드 |
-| [NCT00390793](https://clinicaltrials.gov/study/NCT00390793) | Phase 2 | 완료 | 107 | Ph+ 백혈병에서 Hyper-CVAD + 다사티닙 (림프구성 중심이라 골수성과는 부분적 관련) |
-| [NCT01350245](https://clinicaltrials.gov/study/NCT01350245) | Phase 2 | 완료 | 28 | 혈액암 환자 대상 반일치 동종이식 2단계 접근법 |
-| [NCT02441803](https://clinicaltrials.gov/study/NCT02441803) | Phase 2 | 완료 | 11 | 원발 불응성 AML에서 구제요법으로서의 동종이식 |
-| [NCT00576979](https://clinicaltrials.gov/study/NCT00576979) | Phase 1/2 | 완료 | 51 | IMRT + 에토포사이드 + 시클로포스파미드 전처치 (고위험 ALL/AML) |
-| [NCT04904588](https://clinicaltrials.gov/study/NCT04904588) | Phase 2 | 진행 중 (모집 종료) | 300 | HLA 불일치 비혈연 공여자 이식에서 PTCy 기반 GVHD 예방 |
-| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Phase 2 | 완료 | 213 | 제대혈 이식에서 시클로포스파미드/플루다라빈/TBI 골수파괴적 전처치 |
-| [NCT02724163](https://clinicaltrials.gov/study/NCT02724163) | Phase 3 | 진행 중 (모집 종료) | 700 | 소아 AML 유도요법 및 gemtuzumab 용량 탐색 (시클로포스파미드는 주 실험 변수가 아님) |
-
-규모가 작은 시험이 많고, 시클로포스파미드의 기여가 다른 약물과 분리되지 않는 시험이 대부분입니다.
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
-20편 중 10편을 나열합니다. 무작위배정 시험(RCT)은 없고 코호트 연구와 종설이 중심입니다.
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [40905088](https://pubmed.ncbi.nlm.nih.gov/40905088/) | 2026 | 코호트 | Haematologica | 관해 상태 AML 217명에서 골수파괴적 전처치 + PTCy 이식 후 2년 전체생존율 77%, 무사건생존율 72% |
-| [38758817](https://pubmed.ncbi.nlm.nih.gov/38758817/) | 2024 | 후향 연구 | Cancer | 반일치 이식 성인 AML에서 PTCy vs ATG vs 병용 비교 (EBMT) |
-| [36357773](https://pubmed.ncbi.nlm.nih.gov/36357773/) | 2023 | 체계적 문헌고찰·네트워크 메타분석 | Bone Marrow Transplant | 관해기 AML 성인의 골수파괴적 전처치 요법 비교 (Bu/Cy 포함) |
-| [40434956](https://pubmed.ncbi.nlm.nih.gov/40434956/) | 2025 | 코호트 | Future Oncol | AML 동종이식에서 부설판-시클로포스파미드 vs 플루다라빈-부설판 비교 |
-| [25345651](https://pubmed.ncbi.nlm.nih.gov/25345651/) | 2015 | 코호트 | Am J Hematol | AML 165명에서 Cy/Flu 비골수파괴적 이식과 골수파괴적 이식의 생존 결과가 유사 |
-| [38466265](https://pubmed.ncbi.nlm.nih.gov/38466265/) | 2024 | 코호트 | Cytotherapy | AML 반일치 이식 + PTCy의 예후 인자 분석 |
-| [41046309](https://pubmed.ncbi.nlm.nih.gov/41046309/) | 2026 | 코호트 | Bone Marrow Transplant | 제1 관해기 AML에서 제대혈 이식과 PTCy 반일치 이식 비교 (등록자료 기반) |
-| [14662323](https://pubmed.ncbi.nlm.nih.gov/14662323/) | 2003 | 종설 | Exp Hematol | AML 이식 전처치에서 Bu-Cy와 TBI-Cy 비교 연구 검토 |
-| [32857869](https://pubmed.ncbi.nlm.nih.gov/32857869/) | 2020 | 종설 | Am J Hematol | PTCy 시대의 AML에서 NK세포 동종반응성 |
-| [35154579](https://pubmed.ncbi.nlm.nih.gov/35154579/) | 2022 | 전임상 | Oncotarget | 베네토클락스가 알킬화제와 플루다라빈의 AML 세포독성을 증강 |
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
-
-허가 5건이 모두 유효하며 단일 성분제입니다. 데이터에는 허가 적응증의 본문이 아닌 허가사항 PDF 링크만 포함되어 있어, 적응증은 링크로 확인해야 합니다. 3건은 수출용입니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
@@ -107,47 +77,44 @@ description: "Cyclophosphamide: 예측 신규 적응증 Vertebral anomalies and 
 | 200906638 | 코러스시클로포스파미드주200mg (수출용) | 주사제 (분말 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906638/EE) |
 | 200906639 | 코러스시클로포스파미드주1그람 (수출용) | 주사제 (분말 바이알) | [허가사항 PDF 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906639/EE) |
 
+5건 모두 단일 성분 제제이며 유효 상태입니다. 허가 적응증 본문은 식약처 허가사항 문서에서 확인할 수 있습니다.
+
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 기존 세포독성 약물 (알킬화제, 질소 머스타드 계열) |
-| 골수억제 위험 | 높음 (호중구감소증이 흔하며 용량 의존적). 이식 전처치 용량에서는 골수파괴적 |
-| 구토 유발성 등급 | 중등도~고도 (용량에 따라 다름. 고용량에서 높음) |
+| 세포독성 분류 | 기존 세포독성 약물 (알킬화제, 질소 머스터드 계열) |
+| 골수억제 위험 | 고 (호중구감소증 등 혈구감소 가능) |
+| 구토 유발성 등급 | 중~고 (용량에 따라 다름) |
 | 모니터링 항목 | CBC(분류 포함), 간·신기능, 전해질, 소변검사(출혈성 방광염 확인) |
-| 취급 방호 | 세포독성 약물 취급 규정 준수 필요 |
+| 취급 방호 | 세포독성 약물 취급 규정 준수 필요 (조제·투여 시 보호장비 착용) |
 
-위 항목은 이 약물 계열의 일반적 특성에 따른 것으로, 이번에 확보한 데이터에는 독성 수치가 없습니다. 허가사항의 경고 및 주의사항을 참조하세요.
+자세한 내용은 허가사항의 경고 및 주의사항을 참조하세요.
 
 ## 안전성 고려사항
 
-**약물 상호작용**: 이번에 확인된 상호작용은 총 100건이며, 그중 일부를 아래에 정리합니다.
+- **약물 상호작용**: 총 100건이 조회되었으며, 대부분 중등도(Moderate) 수준입니다. 주요 항목은 다음과 같습니다.
+  - 항진균제: Amphotericin B (일반 제형, 지질복합체, 콜레스테릴 설페이트, 리포좀 제형)
+  - 혈당강하제: Chlorpropamide, Acetohexamide, Glimepiride, Glipizide, Glyburide, Nateglinide, Repaglinide, Tolazamide, Tolbutamide, Troglitazone
+  - 기타: Bupropion, Aprepitant, Metronidazole, Nitisinone
+  - 경미(Minor) 수준: Levofloxacin, Ondansetron
 
-- **보통(Moderate) 수준**
-  - 암포테리신 B (일반 제형과 지질복합체, 콜레스테릴 설페이트, 리포좀 제형)
-  - 부프로피온
-  - 아프레피탄트
-  - 메트로니다졸
-  - 니티시논
-  - 설포닐우레아계 혈당강하제 (클로르프로파미드, 아세토헥사미드, 글리메피리드, 글리피지드, 글리부라이드, 톨라자미드, 톨부타미드)
-  - 나테글리니드, 레파글리니드
-  - 트로글리타존
-- **경미(Minor) 수준**: 레보플록사신, 온단세트론
-
-혈당강하제와의 병용은 특히 주의해야 합니다. 전체 목록 확인과 경고·금기 사항은 허가사항을 참조하세요.
+허가사항상의 경고·금기 정보는 이번 데이터에 없으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-골수성 백혈병 이식 치료에서 시클로포스파미드의 사용을 뒷받침하는 임상시험과 코호트 연구가 다수 있고, 한국에서 이미 시판 중인 약물입니다. 다만 근거는 대부분 다제 병용 이식 요법 안에서의 사용이며, 시클로포스파미드의 단독 기여를 입증한 무작위배정 시험은 없습니다.
+- 이 질환을 직접 다룬 임상시험이나 문헌이 없고 모델 점수만 있어 근거 수준이 L5입니다.
+- 면역억제 약물이 T세포 기능장애 환자에게 해로울 수 있다는 우려도 있습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항 PDF에서 승인 적응증, 경고, 금기 확인 (이번 데이터에는 본문이 없음)
-- 시클로포스파미드의 단독 기여를 분리해 평가할 수 있는 비교 연구 근거 (PTCy와 다른 GVHD 예방법의 비교 등)
-- 이식 전처치용 고용량 사용을 전제로 한 대상 집단 설정과 골수억제·방광·심독성 모니터링 계획
-- 상세한 작용 기전 데이터 보완
+- 이 질환에서 cyclophosphamide의 작용 기전을 뒷받침하는 전임상·기전 연구
+- 이 질환의 병태생리(T세포 기능장애)와 면역억제 작용의 상충 여부에 대한 검토
+- 질환을 직접 다룬 증례 보고나 임상 근거
+- 허가사항(경고·금기)의 확인과 안전성 검토
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

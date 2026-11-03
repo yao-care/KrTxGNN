@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Medroxyprogesterone Acetate
-parent: 모델 예측만 (L5)
+parent: 중등도 근거 (L3-L4)
 nav_order: 496
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 last_modified_at: 2026-11-03
-description: "Medroxyprogesterone Acetate: 예측 신규 적응증 Breast fibrocystic disease (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803107/EE"
+description: "Medroxyprogesterone Acetate: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803107/EE"
 ---
 
 # Medroxyprogesterone Acetate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **6** 건
+근거 수준: **L3** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,30 +33,30 @@ description: "Medroxyprogesterone Acetate: 예측 신규 적응증 Breast fibroc
 
 </div>
 
-## Medroxyprogesterone Acetate: Breast fibrocystic disease
+## Medroxyprogesterone Acetate: 유방 섬유낭성 질환 (breast fibrocystic disease)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Medroxyprogesterone acetate(MPA)는 합성 프로게스틴 계열 약물로, 한국에서 5건의 단일제 허가증이 확인됩니다. 다만 이번 데이터에는 허가 적응증의 구체적인 본문이 포함되어 있지 않습니다.
+Medroxyprogesterone acetate는 합성 프로게스틴 계열의 호르몬제입니다. TxGNN 모델은 **유방 섬유낭성 질환(breast fibrocystic disease)**에 효과가 있을 수 있다고 예측하며(예측 점수 0.9995), 이 질환을 직접 다룬 소규모 임상 보고 2건을 포함해 **문헌 9편**이 관련되어 있으나 등록된 임상시험은 없습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803107/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200409932/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200409933/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203279/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803108/EE |
-| 예측 신규 적응증 | Breast fibrocystic disease |
+| 예측 신규 적응증 | 유방 섬유낭성 질환 (breast fibrocystic disease) |
 | TxGNN 예측 점수 | 0.9995 |
-| 근거 수준 | L5 |
+| 근거 수준 | L3 |
 | 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
 | 허가증 수 | 5건 (유효 5건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 MPA는 합성 프로게스틴입니다. 에스트로겐이 충분한 속발성 무월경에서는 프로게스틴을 투여한 뒤 끊으면 자궁내막이 탈락하며 출혈이 유발됩니다. 이 점에서 생물학적 연관성은 그럴듯합니다.
+현재 상세한 작용 기전 데이터가 없습니다. 다만 섬유낭성 유방 질환은 에스트로겐 우세와 프로게스테론 결핍으로 결합조직과 상피가 과증식하는 것이 병태생리의 핵심으로 알려져 있습니다. 프로게스틴은 이러한 에스트로겐 주도의 유방 상피 증식을 상쇄할 수 있어, 기전상 적용 가능성이 있습니다.
 
-다만 검색된 문헌의 대부분은 1975~1993년의 피임 총설입니다. 이 문헌들은 무월경을 치료 대상이 아니라 MPA 사용(예: 데포-프로베라)에 따른 효과로 기술합니다. 따라서 이 문헌들이 예측 적응증을 직접 뒷받침한다고 보기는 어렵습니다.
+직접적인 임상 근거는 1983년 중증 섬유낭성 유방 질환에 대한 치료 시험과 1988년 청소년 대상 보고, 두 건의 오래된 소규모 연구뿐입니다. 반면 폐경 후 호르몬 요법 연구에서는 프로게스틴 병용이 유방 밀도와 상피 증식을 높일 수 있다는 상반된 신호가 있어, 유방 조직에 대한 안전성 우려가 있습니다.
 
 ## 임상시험 근거
 
@@ -64,17 +64,17 @@ Medroxyprogesterone acetate(MPA)는 합성 프로게스틴 계열 약물로, 한
 
 ## 문헌 근거
 
-무월경 자체를 직접 연구한 문헌은 없고, 피임 총설이 주를 이룹니다. 아래는 비교적 관련성이 있는 문헌입니다. 초록이 없는 경우가 많아 내용은 제목과 일부 초록을 기준으로 요약했습니다.
-
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [8178904](https://pubmed.ncbi.nlm.nih.gov/8178904/) | 1994 | 총설 | Am J Obstet Gynecol | 데포 MPA 150 mg을 3개월마다 근주하는 장기 지속형 주사 피임법 |
-| [8725701](https://pubmed.ncbi.nlm.nih.gov/8725701/) | 1996 | 총설 | J Reprod Med | 데포 MPA 피임 시 상담 및 부작용 관리 |
-| [23641480](https://pubmed.ncbi.nlm.nih.gov/23641480/) | 2013 | 체계적 문헌고찰 | Cochrane Database Syst Rev | 복합 주사 피임제의 피임 효과와 출혈 양상 변화 |
-| [8829701](https://pubmed.ncbi.nlm.nih.gov/8829701/) | 1996 | 총설 | Int J Fertil Menopausal Stud | 장기 지속형 피임법 비교 |
-| [6119259](https://pubmed.ncbi.nlm.nih.gov/6119259/) | 1981 | 총설 | Int J Gynaecol Obstet | 산후 무월경 기간에도 배란 복귀를 예측할 수 없어 조기 피임이 필요함 |
-| [6141923](https://pubmed.ncbi.nlm.nih.gov/6141923/) | 1984 | 총설 | Drug Intell Clin Pharm | 약물에 의한 불임 |
-| [120837](https://pubmed.ncbi.nlm.nih.gov/120837/) | 1979 | 총설 | IARC Monographs | MPA 발암 위험 평가 |
+| [6241963](https://pubmed.ncbi.nlm.nih.gov/6241963/) | 1983 | 임상시험(소규모, 비대조 추정) | Rev Chil Obstet Ginecol | 중증 섬유낭성 유방 질환에서 medroxyprogesterone acetate 치료 시험 (초록 없음) |
+| [2978834](https://pubmed.ncbi.nlm.nih.gov/2978834/) | 1988 | 임상 연구 | Rev Chil Pediatr | 청소년 섬유낭성 유방 질환에서 medroxyprogesterone acetate 사용 (초록 없음) |
+| [12841885](https://pubmed.ncbi.nlm.nih.gov/12841885/) | 2003 | 임상 연구 | Climacteric | 폐경 후 양성 섬유낭성 유방증에서 5가지 호르몬 대체 요법의 효과 비교 |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Review | Am J Obstet Gynecol | 에스트로겐 우세·프로게스테론 결핍이 병태생리를 결정하며, 유방암 위험이 2~4배 증가 |
+| [3657597](https://pubmed.ncbi.nlm.nih.gov/3657597/) | 1987 | Review | Maturitas | 경구피임제는 섬유낭성 질환 발생을 줄이지만, 일부 프로게스틴은 비글견에서 근상피 과증식을 유발 |
+| [10576236](https://pubmed.ncbi.nlm.nih.gov/10576236/) | 1999 | 영상 연구 | Int J Gynaecol Obstet | 호르몬 대체 요법 중 유방 촬영 밀도 및 새로운 고형·낭성 병변 변화 평가 |
+| [11379380](https://pubmed.ncbi.nlm.nih.gov/11379380/) | 2001 | 세포학 연구 | Climacteric | 호르몬 요법 중 폐경 후 유방 상피 증식을 세침흡인 세포검사로 평가 |
+| [11379377](https://pubmed.ncbi.nlm.nih.gov/11379377/) | 2001 | 영상 연구 | Climacteric | 여러 호르몬 요법에 따른 유방 촬영 밀도 영향 |
+| [8603031](https://pubmed.ncbi.nlm.nih.gov/8603031/) | 1996 | 전임상/기전 | J Steroid Biochem Mol Biol | 항안드로겐 및 안드로겐 유사 스테로이드에 의한 유방암·자궁내막암 성장 조절 |
 
 ## 한국 시판 정보
 
@@ -86,43 +86,29 @@ Medroxyprogesterone acetate(MPA)는 합성 프로게스틴 계열 약물로, 한
 | 199203279 | 파루탈정 | 백색 캡슐 모양의 정제 | 적응증 본문 확인 불가 |
 | 199803108 | 프로젠정5밀리그람(수출용) | 옥색의 원형정제 | 적응증 본문 확인 불가 |
 
-허가 건수는 5건이며 모두 단일제입니다. 허가증에서 확인된 적응증 본문이 없으므로, 무월경이 이미 허가 범위에 포함되는지는 허가사항 원문으로 확인해야 합니다.
-
 ## 안전성 고려사항
 
-**약물 상호작용**: 총 100건이 조회되었으며, 이 중 확인된 주요 항목은 모두 중등도(Moderate)입니다.
-- 혈당강하제: acarbose, metformin, glimepiride, chlorpropamide, 인슐린 제제(aspart, degludec, detemir), GLP-1 계열(albiglutide, dulaglutide, liraglutide, semaglutide), DPP-4 억제제(alogliptin, saxagliptin), SGLT2 억제제(canagliflozin, dapagliflozin, empagliflozin)
-- 기타: aprepitant, dexamethasone, clarithromycin, pegvaliase
+- **약물 상호작용**: 총 100건이 확인되었으며, 제시된 주요 항목은 모두 중등도 수준입니다.
+  - 혈당강하제: acarbose, metformin, glimepiride, chlorpropamide, alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin
+  - GLP-1 계열 및 인슐린: albiglutide, dulaglutide, liraglutide, semaglutide, insulin aspart, insulin degludec, insulin detemir
+  - 기타: aprepitant, dexamethasone, clarithromycin, pegvaliase
+- **유방 조직 관련 우려**: 호르몬 요법 연구에서 프로게스틴 병용 시 유방 밀도와 상피 증식이 증가할 수 있습니다.
 
-그 밖의 경고 및 금기 정보는 허가사항을 참조하세요.
-
-참고로 7개 예측 적응증 중 유방 섬유낭성 질환 관련 문헌에서는 병용 호르몬 요법이 유방 밀도와 상피 증식을 높일 수 있다는 신호가 있어, 유방 조직에 대한 안전성 우려가 있습니다.
+경고 및 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-또한 허가 적응증 본문과 경고·금기 정보를 확인하지 못해 안전성 검토 단계로 넘어갈 수 없습니다.
+직접적인 근거는 1980년대의 소규모 연구 2건뿐이며 등록된 임상시험이 없습니다. 또한 프로게스틴이 유방 상피 증식을 높일 수 있다는 상반된 신호가 있어 현 단계에서는 연구 질문 수준으로 보는 것이 적절합니다.
 
 **진행하려면 필요한 것:**
-- MFDS 허가사항 원문(적응증, 경고, 금기) 확보 및 분석: 무월경이 이미 허가 범위인지 확인
-- 작용 기전(MOA) 데이터 보완 (DrugBank 등)
-- 무월경 치료 효과를 직접 평가한 임상 문헌 검색 (예: 프로게스틴 유발 출혈 검사)
-- 시판 현황(취소 여부) 확인
+- 1983년·1988년 연구 원문 확인 및 효과 크기 평가
+- 현대적 설계의 대조 임상시험 근거
+- 작용 기전(MOA) 데이터 보충
+- 허가사항의 경고·금기 정보 확인 및 유방 안전성 평가 계획
 
-## 참고: 다른 예측 적응증
-
-| 순위 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 비고 |
-|------|-----------|-----------|----------|------|
-| 2 | 유방 섬유낭성 질환 | 0.9995 | L3 | 소규모 구형 임상 보고 2건(1983, 1988)이 있으나 HRT 연구에서는 유방 증식 우려 신호가 있음 |
-| 3 | 양성 유방 이형성증 | 0.9992 | L5 | 간접 근거뿐이며 유방 섬유낭성 질환 항목과 중복됨 |
-| 4 | 양측 신장 저형성증 | 0.9991 | L5 | 기전상 연관성이 없고 문헌이 없음 |
-| 5 | 신장 저형성증 | 0.9991 | L5 | 위 항목과 중복, 문헌 없음 |
-| 6 | 유방 아포크린 선증 | 0.9989 | L5 | 문헌 없음 |
-| 7 | 유방 blunt duct 선증 | 0.9989 | L5 | 문헌 없음 |
-
-위 항목 중 유방 섬유낭성 질환은 직접 연구가 일부 있으나 모두 제목 기준으로 확인된 소규모 연구이며, 초록과 설계 정보가 부족해 증거 수준을 높게 평가하기 어렵습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

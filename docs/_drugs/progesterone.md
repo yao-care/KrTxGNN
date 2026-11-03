@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: 높은 근거 (L1-L2)
+parent: 중등도 근거 (L3-L4)
 nav_order: 630
-evidence_level: L2
+evidence_level: L4
 indication_count: 6
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 last_modified_at: 2026-11-03
-description: "Progesterone: 예측 신규 적응증 Breast fibrocystic disease (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE"
+description: "Progesterone: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **6** 건
+근거 수준: **L4** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,60 +33,55 @@ description: "Progesterone: 예측 신규 적응증 Breast fibrocystic disease (
 
 </div>
 
-## Progesterone: Breast fibrocystic disease
+## Progesterone: 유방 섬유낭성 질환 (breast fibrocystic disease)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-프로게스테론은 한국에서 질좌제·주사제·겔 등 단일 성분 제제 7건이 허가된 천연 여성 호르몬입니다. 다만 이 시험들은 대부분 에스트로겐 중심이어서 프로게스테론 자체의 효과를 직접 입증하지는 않습니다.
+Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황체호르몬 약물입니다. TxGNN 모델은 **유방 섬유낭성 질환(breast fibrocystic disease)**에 효과가 있을 수 있다고 예측하며(예측 점수 0.9998), 이 질환을 직접 다룬 **문헌 19편**이 있습니다. 그러나 **임상시험은 0건**이고 프로게스테론의 치료 효과를 보인 문헌도 없어, 근거는 아직 가설 수준입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711790/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600485/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706721/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202008202/EE;  |
-| 예측 신규 적응증 | Breast fibrocystic disease |
+| 예측 신규 적응증 | 유방 섬유낭성 질환 (breast fibrocystic disease) |
 | TxGNN 예측 점수 | 0.9998 |
-| 근거 수준 | L2 (잠정): 완료된 Phase 3 임상시험이 있으나 프로게스테론 자체를 평가한 시험은 아닙니다 |
+| 근거 수준 | L4 |
 | 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
 | 허가증 수 | 7건 (유효 7건) |
-| 권장 결정 | Proceed with Guardrails |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 프로게스테론은 황체기 신호를 대신하는 호르몬으로, 에스트로겐으로 자극된 자궁내막을 분비기로 전환시킵니다. 이 때문에 내인성 에스트로겐이 충분한 속발성 무월경에서는 진단적 프로게스틴 투여와 소퇴성 출혈 유도에 쓰이는 확립된 방법입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Progesterone은 여성 호르몬계에 속하는 황체호르몬 제제입니다.
 
-무월경은 이러한 부인과적 호르몬 사용과 직접 겹치는 질환이어서 기전상 적용 가능성이 높습니다. 문헌에서도 프로게스테론 단독 투여 후 소퇴성 출혈 여부가 무월경의 진단 단서로 소개됩니다(PMID 7457308).
+섬유낭성 변화는 월경 주기에 따른 에스트로겐·프로게스테론 변화에 반응해 유방 조직이 과증식하는 호르몬 반응성 질환입니다. 1986년 종설은 에스트로겐 우세와 프로게스테론 결핍이 결합조직 과증식을 일으키는 것으로 설명합니다. 2018년 연구도 황체기 에스트라디올/프로게스테론 비율과 이 질환의 발생을 연관 지어 분석했습니다.
 
-다만 확인된 임상시험은 대부분 운동선수나 신경성 식욕부진증처럼 에스트로겐이 부족한 상태를 다룹니다. 이 경우 주된 치료는 에스트로겐이고, 프로게스테론은 자궁내막 보호를 위한 보조 역할입니다. 따라서 "프로게스테론이 무월경을 치료한다"는 직접 근거는 제한적입니다.
+다만 이 연관성은 "상대적 프로게스테론 부족"이라는 가설일 뿐입니다. 프로게스테론을 투여해 증상이나 병변이 호전된다는 직접 근거는 현재 확인되지 않았습니다. 나머지 문헌은 오래된 종설, 역학 연구, 병리 보고, 그리고 2025년 다낭성 난소 증후군(PCOS) 표현형과의 단면 연구입니다.
 
 ## 임상시험 근거
 
-| 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
-|---------|------|------|----------|---------|
-| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Phase 3 | 완료 | 121 | 월경이 멈춘 젊은 운동선수에서 경피·경구 에스트로겐 대 무투여가 골밀도와 골미세구조에 미치는 효과 평가 (관련성 B) |
-| [NCT00088153](https://clinicaltrials.gov/study/NCT00088153) | Phase 2/3 | 완료 | 110 | 신경성 식욕부진증 청소년에서 에스트로겐이 골 발달 유지에 도움이 되는지 평가 (관련성 B) |
-| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Phase 2 | 활성(모집 종료) | 120 | 저에스트로겐 섭식장애 여성에서 경피 에스트라디올과 주기적 프로게스테론 병용이 인지 유연성과 보상 처리에 미치는 효과 (관련성 C) |
-| [NCT03018366](https://clinicaltrials.gov/study/NCT03018366) | Phase 2 | 완료 | 29 | 기능성 시상하부성 무월경 젊은 여성의 심혈관·염증 위험 요인 평가 (관련성 C) |
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Review | Rev Endocr Metab Disord | 내분비 영역에서 경구 미분화 프로게스테론의 진단적·치료적 사용 정리 |
-| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Review | Front Endocrinol | 조기 난소 부전의 원인, 증상, 치료 옵션 |
-| [28257537](https://pubmed.ncbi.nlm.nih.gov/28257537/) | 2017 | 유형 미분류 | South Med J | 항암화학요법 후 일차성 난소 기능부전과 속발성 무월경, 호르몬 대체요법 필요성 |
-| [24157186](https://pubmed.ncbi.nlm.nih.gov/24157186/) | 2013 | 유형 미분류 | Presse Med | 무월경으로 의심하는 조기 난소 부전의 진단과 원인 |
-| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Review | Am Fam Physician | 임신 배제 후 프롤락틴·TSH 검사를 포함한 무월경 진단 평가 |
-| [7457308](https://pubmed.ncbi.nlm.nih.gov/7457308/) | 1980 | 유형 미분류 | Am Fam Physician | 프로게스테론 단독 투여 후 소퇴성 출혈 여부를 진단 단서로 활용 |
-| [22283375](https://pubmed.ncbi.nlm.nih.gov/22283375/) | 2012 | 유형 미분류 | Gynecol Endocrinol | 시상하부 기능 이상에 따른 무배란·무월경의 신경내분비 조절 |
-| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Review | Climacteric | 폐경 후 질 출혈의 임상 관리 |
-| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Review | Semin Reprod Med | 자궁내 유착(Asherman 증후군)과 무월경 |
-| [36653588](https://pubmed.ncbi.nlm.nih.gov/36653588/) | 2023 | Review | Reprod Sci | 손상된 자궁내막의 복구·재생 방법 |
+| [3511705](https://pubmed.ncbi.nlm.nih.gov/3511705/) | 1986 | Review | Am J Obstet Gynecol | 에스트로겐 우세·프로게스테론 결핍이 병태생리의 핵심이며, 유방암 위험이 2~4배 증가한다고 기술 |
+| [31168213](https://pubmed.ncbi.nlm.nih.gov/31168213/) | 2018 | 환자-대조군 연구 | Acta Clin Croat | 황체기 에스트라디올/프로게스테론 비율과 섬유낭성 유방 질환의 관계를 환자 50명, 대조군 40명으로 평가 |
+| [41438397](https://pubmed.ncbi.nlm.nih.gov/41438397/) | 2025 | 단면 연구 | Int J Reprod Biomed | 섬유낭성 유방 질환과 PCOS 표현형의 연관성 분석 |
+| [28598826](https://pubmed.ncbi.nlm.nih.gov/28598826/) | 2017 | 이중맹검 위약대조 RCT | Breast Dis | 메트포르민의 섬유낭성 변화 개선 효과 평가 (프로게스테론 연구는 아님) |
+| [6481706](https://pubmed.ncbi.nlm.nih.gov/6481706/) | 1984 | Review | J Reprod Med | 에스트로겐·프로게스테론과 유방 질환의 관계를 종합 검토 |
+| [1936311](https://pubmed.ncbi.nlm.nih.gov/1936311/) | 1991 | Review | Fertil Steril | 과거 경구피임약이 양성 유방 질환을 대부분 예방했으나, 현재의 저용량 제제에서도 같은지는 불분명 |
+| [3902125](https://pubmed.ncbi.nlm.nih.gov/3902125/) | 1985 | Review | Breast Cancer Res Treat | 양성 유방 질환의 역학과 내분비학 |
+| [34537861](https://pubmed.ncbi.nlm.nih.gov/34537861/) | 2022 | Review | Virchows Arch | 유방 아포크린 병변의 병리학적 특징 |
+| [22103710](https://pubmed.ncbi.nlm.nih.gov/22103710/) | 2012 | 관찰 연구 | Gynecol Endocrinol | PCOS 표현형별 섬유낭성 유방 질환 비율과 호르몬 지표의 연관성 |
+| [7788004](https://pubmed.ncbi.nlm.nih.gov/7788004/) | 1995 | 관찰 연구 | Eur J Endocrinol | 섬유낭성 유방 질환 여성의 갑상선 호르몬 수치 평가 |
 
 ## 한국 시판 정보
 
-한국 허가증은 모두 7건이며 전부 단일 성분 제제입니다. 아래는 그중 5건입니다.
+허가 7건 중 주요 5건입니다. 허가 적응증 문서는 각 링크에서 확인할 수 있습니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
@@ -98,27 +93,25 @@ description: "Progesterone: 예측 신규 적응증 Breast fibrocystic disease (
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건이 조회되었으며, 확인된 항목은 모두 중등도(Moderate)입니다. 대표적으로 당뇨병 치료제가 많습니다.
-  - 당뇨병 치료제: 메트포르민, 피오글리타존, 아카보스, 알로글립틴, 카나글리플로진, 다파글리플로진, 엠파글리플로진, 글리메피리드, 레파글리니드, 세마글루타이드, 리라글루타이드, 둘라글루타이드, 인슐린 제제 등
-  - 기타: 아프레피탄트, 클래리스로마이신
-
-주요 경고와 금기는 이번에 수집한 자료에 없으므로 허가사항을 참조하세요.
+- **약물 상호작용**: 조회된 상호작용은 총 100건입니다. 이 중 확인된 항목은 모두 중등도(Moderate)이며, 주로 혈당강하제와 일부 약물입니다.
+  - 당뇨병 치료제: acarbose, metformin, pioglitazone, glimepiride, repaglinide, 인슐린 제제(aspart, degludec, detemir)
+  - 인크레틴·SGLT2 계열: semaglutide, liraglutide, dulaglutide, albiglutide, alogliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin
+  - 기타: aprepitant, clarithromycin, chlorpropamide
+- 경고 및 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-- 프로게스테론은 무월경의 진단적 프로게스틴 투여와 소퇴성 출혈 유도에 쓰이는 확립된 기전을 갖고 있고, 무월경 환자군을 대상으로 한 완료된 Phase 3 시험이 존재합니다.
-- 그러나 해당 시험들은 에스트로겐 평가가 중심이어서 프로게스테론 단독 효과를 입증하지 못하므로, 근거 수준은 잠정적입니다.
+호르몬 불균형이라는 기전적 가설은 타당해 보이지만, 임상시험이 없고 프로게스테론의 치료 효과를 보인 문헌도 없습니다. TxGNN 점수는 높지만 현재 근거만으로는 연구 질문 수준입니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(경고·금기·적응증) 원문을 확인해 안전성 검토를 완료하고, 기존 허가 적응증을 명확히 할 것
-- 작용 기전 데이터(DrugBank 등)를 보완할 것
-- 무월경 유형(속발성, 에스트로겐 충분 여부)별로 프로게스테론의 역할을 구분하는 근거를 확보할 것
-- 병용 당뇨병 치료제 등 상호작용 대상 환자에 대한 모니터링 계획을 수립할 것
+- 프로게스테론(경피·질내 등)의 유방 통증·낭종 개선 효과를 평가하는 무작위 대조 임상시험 설계 또는 근거 확보
+- 작용 기전(MOA) 데이터 보완
+- 허가사항의 경고·금기 정보 확인 및 정리
+- 유방 질환에서 호르몬 투여 시 유방암 위험을 포함한 안전성 평가 계획
 
-참고로 TxGNN이 함께 예측한 다른 후보 중 섬유낭성 유방질환, 양성 유방 이형성증은 임상시험이 없어 연구 질문 단계입니다. 신장 저형성, 둔성 관선증, 아포크린 선증은 근거 수준 L5로 보류가 적절합니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
