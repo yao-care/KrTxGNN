@@ -1,6 +1,6 @@
 {
   "total": 646,
-  "generated_at": "2026-11-04T04:29:42.319269",
+  "generated_at": "2026-11-04T19:14:26.225046",
   "drugs": [
     {
       "name": "Abatacept",
@@ -78,7 +78,7 @@
     {
       "name": "Acetylcysteine",
       "file": "acetylcysteine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Acetylcysteine",
@@ -577,7 +577,7 @@
     {
       "name": "Apixaban",
       "file": "apixaban.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "Apixaban",
@@ -2173,7 +2173,7 @@
     {
       "name": "Citric Acid",
       "file": "citric_acid.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "citric acid",
@@ -2386,7 +2386,7 @@
     {
       "name": "Clozapine",
       "file": "clozapine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "CLOZAPINE",
@@ -2449,7 +2449,7 @@
     {
       "name": "Conjugated Estrogens",
       "file": "conjugated_estrogens.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "Conjugated estrogens",
@@ -3071,7 +3071,7 @@
     {
       "name": "Diazepam",
       "file": "diazepam.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Diazepam",
@@ -3579,7 +3579,7 @@
     {
       "name": "Entecavir",
       "file": "entecavir.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "ENTECAVIR",
@@ -3862,7 +3862,7 @@
     {
       "name": "Everolimus",
       "file": "everolimus.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "Everolimus",
@@ -4525,7 +4525,7 @@
     {
       "name": "Glecaprevir",
       "file": "glecaprevir.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "GLECAPREVIR",
@@ -4768,7 +4768,7 @@
     {
       "name": "Hydrocortisone",
       "file": "hydrocortisone.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "HYDROCORTISONE",
@@ -4787,7 +4787,7 @@
     {
       "name": "Hydrocortisone Acetate",
       "file": "hydrocortisone_acetate.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "HYDROCORTISONE ACETATE",
@@ -5734,7 +5734,7 @@
     {
       "name": "Lenvatinib",
       "file": "lenvatinib.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 5,
       "predicted_indication": "",
       "inn": "Lenvatinib",
@@ -5815,7 +5815,7 @@
     {
       "name": "Levonorgestrel",
       "file": "levonorgestrel.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 5,
       "predicted_indication": "",
       "inn": "LEVONORGESTREL",
@@ -6590,7 +6590,7 @@
     {
       "name": "Modafinil",
       "file": "modafinil.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 1,
       "predicted_indication": "",
       "inn": "MODAFINIL",
@@ -8337,7 +8337,7 @@
     {
       "name": "Regorafenib",
       "file": "regorafenib.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "Regorafenib",
@@ -8879,7 +8879,7 @@
     {
       "name": "Sirolimus",
       "file": "sirolimus.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 6,
       "predicted_indication": "",
       "inn": "Sirolimus",
@@ -8948,7 +8948,7 @@
     {
       "name": "Sofosbuvir",
       "file": "sofosbuvir.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "SOFOSBUVIR",
@@ -8966,7 +8966,7 @@
     {
       "name": "Sorafenib",
       "file": "sorafenib.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 6,
       "predicted_indication": "",
       "inn": "sorafenib",
@@ -9916,7 +9916,7 @@
     {
       "name": "Trimebutine",
       "file": "trimebutine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 2,
       "predicted_indication": "",
       "inn": "TRIMEBUTINE",
@@ -10058,7 +10058,7 @@
     {
       "name": "Valsartan",
       "file": "valsartan.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 6,
       "predicted_indication": "",
       "inn": "VALSARTAN",
@@ -10074,7 +10074,7 @@
     {
       "name": "Vandetanib",
       "file": "vandetanib.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Vandetanib",
@@ -10287,7 +10287,7 @@
     {
       "name": "Zidovudine",
       "file": "zidovudine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
       "predicted_indication": "",
       "inn": "ZIDOVUDINE",
