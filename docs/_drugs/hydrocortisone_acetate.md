@@ -3,18 +3,18 @@ layout: default
 title: Hydrocortisone Acetate
 parent: 높은 근거 (L1-L2)
 nav_order: 403
-evidence_level: L1
+evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-31
-description: "Hydrocortisone Acetate: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상"
+last_modified_at: 2026-11-04
 monitor_inn: "HYDROCORTISONE ACETATE"
 predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucinosa", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "seborrheic keratosis"]
+description: "Hydrocortisone Acetate: 예측 신규 적응증 원형탈모증 (alopecia areata) (근거 수준 L2). 기존 적응증: 이 약은 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상에 사용합니다"
 ---
 
 # Hydrocortisone Acetate
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **9** 건
+근거 수준: **L2** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,50 +33,49 @@ predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucino
 
 </div>
 
-## Hydrocortisone Acetate: 습진·피부 염증에서 원형탈모증으로
+## Hydrocortisone Acetate: 원형탈모증 (alopecia areata)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Hydrocortisone acetate는 글루코코르티코이드 계열의 약물로, 한국에서는 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 치료에 사용되어 왔습니다.
-TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있다고 예측하며, 현재 **1건의 임상시험**과 **2편의 문헌**이 관련되어 있습니다. 다만 임상시험에서 hydrocortisone은 저역가 대조약으로 쓰였기 때문에 효능을 직접 입증한 근거는 아닙니다.
+Hydrocortisone Acetate는 항염증·면역억제 작용을 가진 글루코코르티코이드 계열의 약물로, 국내에서 외용제로 시판되고 있습니다. TxGNN 모델은 **원형탈모증(alopecia areata)**에 효과가 있을 수 있다고 예측했습니다. 이 방향을 다루는 자료는 **1건의 임상시험**과 **2편의 문헌**이며, 근거 수준은 L2입니다. 다만 임상시험에서 이 약은 저역가 대조약으로 쓰였기 때문에 효능이 입증된 것은 아닙니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 |
-| 예측 신규 적응증 | 원형탈모증 (Alopecia Areata) |
+| 기존 적응증 | 이 약은 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103331/EE |
+| 예측 신규 적응증 | 원형탈모증 (alopecia areata) |
 | TxGNN 예측 점수 | 0.9994 |
-| 근거 수준 | L1 (설계상 Phase 3 RCT 1건이나, 효능 입증은 아님. 아래 설명 참조) |
+| 근거 수준 | L2 |
 | 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 7건) |
 | 허가증 수 | 7건 (유효 6건) |
 | 권장 결정 | Hold |
 
-> **근거 수준 관련 참고:** 완료된 Phase 3 RCT가 1건 있으나 L1 기준(≥2건)에는 못 미치며, 이 시험은 hydrocortisone을 시험 대상이 아닌 비교 대조약으로 사용했습니다. 따라서 실질적인 근거 수준은 L1보다 낮게 보는 것이 타당하며, 데이터 파일상의 L1 표기는 시험 설계만 반영한 것입니다.
-
 ## 이 예측이 타당한 이유는?
 
-현재 이 보고서를 위해 수집된 데이터에는 상세한 작용 기전 정보가 없습니다. 알려진 정보에 따르면 hydrocortisone은 항염증 및 면역억제 작용을 가진 글루코코르티코이드이며, 한국에서는 외용 연고·크림 단일제로 허가되어 있습니다.
+현재 상세한 작용 기전 데이터는 확보되어 있지 않습니다. 알려진 약리 특성상 hydrocortisone은 글루코코르티코이드로서 항염증 및 면역억제 효과를 나타냅니다.
 
-원형탈모증은 모낭의 면역 특권이 무너지면서 T세포가 매개하는 자가면역 반응이 일어나는 질환입니다. 따라서 국소 염증을 억제하는 스테로이드는 기전상 적용 가능성이 있으며, 외용 및 병변 내 주사 코르티코스테로이드는 이 질환에서 확립된 치료 계열입니다.
+원형탈모증은 모낭의 면역 특권이 무너지면서 T세포가 매개하는 자가면역 반응이 일어나는 질환입니다. 국소 염증과 면역 반응을 억제하는 글루코코르티코이드는 기전상 적용 가능성이 있으며, 국소 또는 병변 내 주사 코르티코스테로이드는 이 질환에 쓰이는 치료군입니다.
 
-그러나 hydrocortisone은 저역가 스테로이드로, clobetasol 같은 고역가 제제보다 효과가 떨어지는 것으로 일반적으로 간주됩니다. 즉 기전의 타당성은 있으나 실제 효능은 제한적일 가능성이 높습니다.
+다만 hydrocortisone은 저역가 스테로이드입니다. 일반적으로 clobetasol 같은 고역가 제제보다 효과가 낮다고 알려져 있어, 이 예측의 실제 임상적 가치는 제한적일 수 있습니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | Phase 3 | 완료 | 41 | 소아 원형탈모증에서 clobetasol propionate 0.05% 크림과 hydrocortisone 1% 크림을 비교한 무작위 대조시험. hydrocortisone은 저역가 대조약이며, 제공된 자료만으로는 효능 결론을 확인할 수 없음 |
+| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | Phase 3 | 완료 | 41 | 소아 원형탈모증에서 clobetasol propionate 0.05% 크림과 hydrocortisone 1% 크림을 비교한 무작위 대조시험(2002-08~2003-08). hydrocortisone은 저역가 대조약이며, 표본이 작고 제공된 자료만으로는 효능 결론을 확인할 수 없습니다. |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [4755919](https://pubmed.ncbi.nlm.nih.gov/4755919/) | 1973 | 증례 보고 | Przeglad dermatologiczny | 중증 원형탈모증에서 hydrocortisone acetate 현탁액의 병변 내 피하 주사 치료 (초록 없음) |
-| [153470](https://pubmed.ncbi.nlm.nih.gov/153470/) | 1979 | Review | MMW, Munchener medizinische Wochenschrift | 피부질환 국소 치료 전반의 진보를 다룬 리뷰. 원형탈모증에 대한 직접적 근거는 제한적 |
+| [4755919](https://pubmed.ncbi.nlm.nih.gov/4755919/) | 1973 | 증례 시리즈 | Przeglad dermatologiczny | 중증 원형탈모증에서 hydrocortisone acetate 현탁액의 병변 내 피하 주사 치료를 보고했습니다. 초록이 없어 상세 결과는 확인할 수 없습니다. |
+| [153470](https://pubmed.ncbi.nlm.nih.gov/153470/) | 1979 | 리뷰 | MMW, Munchener medizinische Wochenschrift | 피부질환 국소 치료의 발전을 다룬 리뷰입니다. 새 국소 스테로이드 fluocortin butyl ester의 항염증 효과가 hydrocortisone acetate와 대등하다고 기술했으며, 원형탈모증에 대한 직접적 근거는 제한적입니다. |
 
 ## 한국 시판 정보
+
+유효 허가 6건 중 주요 5건입니다. 전체 허가는 7건이며 1건은 취소 상태입니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
@@ -86,27 +85,23 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 | 200600468 | 세린드연고 | 연고 | 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 |
 | 201602246 | 클리마일드연고 | 연고 | 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상 |
 
-이 외에 수출용 크림 제품(서울히드로코르티손아세테이트크림1%)과 더마스킨연고 등 총 7건의 허가가 유효합니다.
-
 ## 안전성 고려사항
 
-- **금기 질환 (지식그래프 기반 참고 정보, 허가사항 아님)**: 고혈압, 간질, 위궤양, 신장질환, 간질환, 담낭질환, 고혈당, 홍역, 단순포진 각막염, 뇌하수체 기능저하증 및 관련 성장호르몬 결핍 질환 등이 지식그래프상 금기로 연결되어 있습니다. 이는 주로 전신 투여 코르티코스테로이드의 특성을 반영한 것일 수 있으므로, 외용제에 그대로 적용되는지는 허가사항으로 확인해야 합니다.
-
-경고, 금기, 약물 상호작용에 대한 허가사항 기반 정보는 확인되지 않았으므로 허가사항을 참조하세요.
+안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-원형탈모증에 대한 유일한 Phase 3 시험은 hydrocortisone을 저역가 대조약으로 사용했고 효능을 입증하지 못했습니다. 기전상 가능성은 있으나 고역가 스테로이드보다 효과가 낮을 것으로 예상되어, 현재 근거만으로는 진행하기 어렵습니다. 또한 허가사항의 경고·금기 정보를 확인하지 못해 안전성 검토를 시작할 수 없습니다.
+- 원형탈모증을 직접 다룬 Phase 3 무작위 대조시험이 1건 있어 근거 수준은 L2입니다. 그러나 이 시험에서 hydrocortisone은 저역가 대조약이었고 표본(41명)도 작아 효능을 뒷받침하지 못합니다. 나머지 문헌은 오래된 증례 보고와 리뷰입니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(첨부문서)의 경고 및 금기 정보 확보
-- 상세한 작용 기전(MOA) 데이터 확보
-- NCT01453686의 결과 데이터를 확인하여 hydrocortisone 군의 실제 반응률 파악
-- 원형탈모증에서 hydrocortisone 단독 효능을 평가한 추가 임상 근거 (또는 고역가 스테로이드와의 비교 근거)
-- 두피 적용 시 외용제 제형·투여 경로 적합성 검토
+- NCT01453686의 결과 데이터 확인 (hydrocortisone 1% 군의 반응률)
+- 원형탈모증에서 hydrocortisone을 고역가 스테로이드 및 위약과 비교한 근거 보강
+- 상세 작용 기전 데이터 확보
+- 허가사항(경고·금기) 확인 및 안전성 검토
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

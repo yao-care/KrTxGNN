@@ -3,18 +3,18 @@ layout: default
 title: Regorafenib
 parent: 높은 근거 (L1-L2)
 nav_order: 648
-evidence_level: L1
+evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-03
-description: "Regorafenib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증에는 식약처 허가사항 문서 링크만 수록되어 있어 적응증 문구를 확인할 수 없음"
+last_modified_at: 2026-11-04
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
+description: "Regorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308932/EE"
 ---
 
 # Regorafenib
 {: .fs-9 }
 
-근거 수준: **L1** | 예측 적응증: **8** 건
+근거 수준: **L2** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,52 +33,51 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell
 
 </div>
 
-## Regorafenib: 대장암 등 기존 적응증에서 지방육종으로
+## Regorafenib: 지방육종 (liposarcoma)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Regorafenib은 다중 키나아제 억제제로, 한국에서 2건의 단일제 허가를 받아 시판 중인 항종양 약물입니다.
-TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 예측하며, 현재 **1건의 임상시험**과 **10편의 문헌**이 이 방향과 관련되어 있습니다.
-다만 지방육종 코호트를 직접 평가한 무작위 대조 연구들은 효능을 지지하지 않는 결과를 보고했습니다.
+Regorafenib은 혈관신생·종양 증식 신호 관련 키나제(VEGFR, PDGFR, FGFR, KIT, RET, RAF 등)를 억제하는 다중 키나제 억제제입니다.
+TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 예측합니다(예측 점수 0.9976).
+다만 임상시험 1건과 문헌 10편 중 무작위 대조 2상 시험들은 지방육종에서 뚜렷한 효과를 확인하지 못했으며, 근거 수준은 **L2**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에는 식약처 허가사항 문서 링크만 수록되어 있어 적응증 문구를 확인할 수 없음 |
-| 예측 신규 적응증 | 지방육종 (Liposarcoma) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308932/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402626/EE |
+| 예측 신규 적응증 | 지방육종 (liposarcoma) |
 | TxGNN 예측 점수 | 0.9976 |
-| 근거 수준 | 규칙상 L1 (RCT 존재), 단 효능 근거는 부정적이므로 해석에 주의 |
+| 근거 수준 | L2 |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
 | 허가증 수 | 2건 (유효 2건) |
-| 권장 결정 | Hold (보수적 재해석, 아래 결론 참조) |
-
-> 참고: 데이터상 자동 판정은 "Proceed with Guardrails"이나, 지방육종 코호트에서 효능이 확인되지 않은 점을 반영하여 본 보고서는 Hold를 권고합니다.
+| 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 약리 정보에 따르면 Regorafenib은 혈관신생 관련 키나아제(VEGFR1-3, TIE2), 기질 키나아제(PDGFR, FGFR), 종양 유발 키나아제(KIT, RET, RAF)를 억제하는 경구 다중 키나아제 억제제입니다. 이를 통해 종양 혈관신생과 증식 신호를 차단합니다.
+현재 상세한 작용 기전 데이터는 수집되어 있지 않습니다. 알려진 약리학 정보에 따르면 regorafenib은 VEGFR1-3, TIE2, PDGFR, FGFR, KIT, RET, RAF를 억제하는 경구 다중 키나제 억제제로, 종양 혈관신생과 증식 신호를 차단합니다.
 
-연조직 육종은 혈관신생과 키나아제 신호의 영향을 받으므로 기전상 적용 가능성은 있습니다. 그러나 연조직 육종 임상시험에서 얻은 효능 근거는 비지방세포성 아형에서 주로 확인되었고, 지방육종에서는 확인되지 않았습니다. 따라서 모델의 높은 예측 점수에도 불구하고 아형별 효능은 불확실합니다.
+이러한 기전은 연부조직육종(STS) 생물학에서 중요한 혈관신생 경로와 관련이 있어 지방육종에도 이론적으로 적용 가능합니다. 그러나 지방육종 자체에서의 효과는 임상 결과가 엇갈립니다. REGOSARC 시험은 비지방세포성 육종에서는 효능을 보였지만 지방육종에서는 보이지 않았고, SARC024의 지방육종 코호트도 같은 결론이었습니다. 따라서 하위 유형별 효능은 불확실합니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | 완료 | 131 | SARC024: 지방육종 등 선택된 육종 아형에서 경구 Regorafenib을 평가하는 포괄 프로토콜 (아형별 코호트) |
+| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | Phase 2 | 완료 | 131 | SARC024: 지방육종을 포함한 선별된 육종 하위 유형에서 경구 regorafenib을 평가한 포괄 프로토콜 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [32701199](https://pubmed.ncbi.nlm.nih.gov/32701199/) | 2020 | RCT | The Oncologist | SARC024 지방육종 코호트: Regorafenib의 상용 사용을 지지하지 않는 결과 |
-| [27751846](https://pubmed.ncbi.nlm.nih.gov/27751846/) | 2016 | RCT | Lancet Oncology | REGOSARC: 안트라사이클린 치료 후 진행된 연조직 육종에서 Regorafenib vs 위약 이중맹검 2상 |
-| [29902612](https://pubmed.ncbi.nlm.nih.gov/29902612/) | 2018 | RCT | Eur J Cancer | REGOSARC 갱신 분석: 평활근육종, 활막육종 등 비지방세포성 육종에서 효능, 지방육종에서는 효과 없음 |
-| [28295221](https://pubmed.ncbi.nlm.nih.gov/28295221/) | 2017 | RCT 사후 분석 | Cancer | 비지방세포성 육종에서 증상 및 독성 보정 생존 시간(Q-TWiST) 분석 |
-| [29931504](https://pubmed.ncbi.nlm.nih.gov/29931504/) | 2018 | Review | Targeted Oncology | 육종 치료에서 Regorafenib의 역할 확대 |
-| [40975452](https://pubmed.ncbi.nlm.nih.gov/40975452/) | 2025 | Review | Crit Rev Oncol Hematol | 진행성 연조직 육종 1차 치료 후 유지요법 검토 |
+| [32701199](https://pubmed.ncbi.nlm.nih.gov/32701199/) | 2020 | RCT | The Oncologist | 치료 불응성 지방육종에서 regorafenib 대 위약 2상 시험(SARC024). 일상적 사용을 지지하지 않는 결과 |
+| [27751846](https://pubmed.ncbi.nlm.nih.gov/27751846/) | 2016 | RCT | Lancet Oncology | REGOSARC: 안트라사이클린 치료 후 진행성 연부조직육종에서 regorafenib 2상 무작위 이중맹검 시험 |
+| [29902612](https://pubmed.ncbi.nlm.nih.gov/29902612/) | 2018 | RCT | Eur J Cancer | REGOSARC 갱신 분석: 비지방세포성 육종에서는 효능이 있었으나 지방육종에서는 없음 |
+| [28295221](https://pubmed.ncbi.nlm.nih.gov/28295221/) | 2017 | RCT 사후 분석 | Cancer | REGOSARC의 질 보정 무증상 진행·독성 시간(Q-TWiST) 분석 |
 | [25884155](https://pubmed.ncbi.nlm.nih.gov/25884155/) | 2015 | 연구 프로토콜 | BMC Cancer | REGOSARC 시험 설계 |
+| [29931504](https://pubmed.ncbi.nlm.nih.gov/29931504/) | 2018 | Review | Targeted Oncology | 육종 치료에서 regorafenib의 역할 증가 |
+| [40975452](https://pubmed.ncbi.nlm.nih.gov/40975452/) | 2025 | Review | Crit Rev Oncol Hematol | 진행성 연부조직육종 1차 치료 후 유지요법 |
+| [33290314](https://pubmed.ncbi.nlm.nih.gov/33290314/) | 2021 | 후향 연구 | Anti-Cancer Drugs | 다른 약물(anlotinib)의 지방육종 효능·안전성 |
 
 ## 한국 시판 정보
 
@@ -91,43 +90,32 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 표적치료제 (다중 키나아제 억제제) |
+| 세포독성 분류 | 표적치료제 (다중 키나제 억제제) |
 | 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
-| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요. 문헌상 간독성, 수족피부반응, 단백뇨, 고혈압 등이 보고됨 (CBC, 간기능, 소변검사, 혈압 확인 고려) |
+| 모니터링 항목 | 허가사항을 참조하세요(일반적으로 CBC, 간기능 등) |
 | 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건의 상호작용이 확인되었으며, 주요(Major) 등급 예시는 다음과 같습니다.
-  - 아세틸살리실산(Acetylsalicylic acid), 데페라시록스(Deferasirox), 이브리투모맙 티욱세탄(Ibritumomab tiuxetan), 토시투모맙(Tositumomab), 압식시맙(Abciximab), 알테플라제(Alteplase), 항트롬빈 III(Antithrombin III human), 아픽사반(Apixaban)
-  - 중등도(Moderate) 예시: 덱사메타손, 클래리트로마이신, 날트렉손, 로수바스타틴, 코비시스타트 등
-  - 출혈 위험과 관련될 수 있는 항응고제·항혈전제·혈전용해제와의 병용은 특히 주의가 필요합니다.
+- **약물 상호작용**: 이번에 조회된 상호작용은 총 100건이며, 그중 주요 항목은 다음과 같습니다.
+  - 중대(Major): Acetylsalicylic acid, Deferasirox, Ibritumomab tiuxetan, Tositumomab, Abciximab, Alteplase, Antithrombin III human, Apixaban
+  - 중등도(Moderate): Dexamethasone, Clarithromycin, Naltrexone, Rosuvastatin, Cobicistat 등
 
-경고 및 금기 사항은 허가사항을 참조하세요.
+그 외 경고·금기 등 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Hold**
+**결정: Proceed with Guardrails**
 
 **사유:**
-지방육종 코호트를 직접 평가한 무작위 대조 2상 시험(SARC024, REGOSARC)에서 Regorafenib은 효능을 입증하지 못했으며, 저자들도 상용 사용을 지지하지 않는다고 결론 내렸습니다. 기전적 타당성과 높은 모델 점수에도 불구하고 현재 근거는 신규 적응증 추진을 뒷받침하지 못합니다.
+지방육종에서 regorafenib을 평가한 무작위 위약 대조 2상 시험(PMID 32701199, PMID 27751846)이 있어 근거 수준은 L2이나, 3상 시험은 없고 지방육종 코호트에서는 일상적 사용을 지지하지 않는 결과가 보고되었습니다. 따라서 제한된 조건에서만 추가 검토가 적절합니다.
 
 **진행하려면 필요한 것:**
-- 식약처 허가사항(경고·금기·적응증) 확보 및 분석
-- 상세한 작용 기전 데이터 (DrugBank 등)
-- 병용요법 또는 특정 분자 표지자 기반 환자군 선별 근거 (단독요법 음성 결과를 극복할 전략)
-- 지방육종 아형(탈분화형 등)별 소규모 탐색 연구 또는 후향 분석
-
----
-
-### 참고: 기타 예측 적응증
-
-같은 약물에서 신장세포암 계열이 다음과 같이 예측되었습니다. 이 중 투명세포 신장암과 신장세포암 일반은 2상 근거가 있어 지방육종보다 연구 가치가 높을 수 있습니다.
-
-| 예측 적응증 | 예측 점수 | 근거 수준 | 비고 |
-|------|------|------|------|
-| 투명세포 신장암 | 0.9947 | L2 | 미치료 전이성 신장암 2상(PMID 22959186), Avelumab 병용 시험(NCT03475953, 상태 불명) |
+- 허가사항(경고·금기) 확인 및 안전성 검토
+- 상세한 작용 기전(MOA) 데이터 보완
+- 지방육종 하위 유형별(고분화/탈분화 등) 효능을 확인할 추가 연구 또는 병용요법 연구
+- 출혈 위험이 있는 병용약물(항응고제·항혈소판제 등)에 대한 모니터링 계획
 
 ## 면책 조항
 

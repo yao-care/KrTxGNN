@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Conjugated Estrogens
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 235
-evidence_level: L3
+evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
-description: "Conjugated Estrogens: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 수록)"
+last_modified_at: 2026-11-04
 monitor_inn: "Conjugated estrogens"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
+description: "Conjugated Estrogens: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710608/EE"
 ---
 
 # Conjugated Estrogens
 {: .fs-9 }
 
-근거 수준: **L3** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,30 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "an
 
 </div>
 
-## Conjugated estrogens: 폐경 관련 치료제에서 편두통으로
+## Conjugated Estrogens: 편두통 (migraine disorder)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Conjugated estrogens(결합형 에스트로겐)는 한국에서 단일 성분 정제(프레미나정)로 허가·시판 중인 에스트로겐 제제입니다. 허가 적응증의 구체적인 내용은 이번에 수집된 데이터에서 확인되지 않았습니다.
-TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다고 예측하지만, 현재 관련 임상시험은 **0건**이고 **5편의 문헌**(대부분 소규모 관찰 연구와 종설)만 있으며 결과도 일관되지 않습니다.
+Conjugated estrogens(결합형 에스트로겐)는 에스트로겐 호르몬 제제입니다. TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다고 예측하지만, 이 약을 편두통에 직접 시험한 임상시험이나 문헌은 확인되지 않았습니다. 근거 수준은 **L5**(모델 예측 단계)입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증에 적응증 본문이 아닌 문서 링크만 수록) |
-| 예측 신규 적응증 | 편두통 (Migraine disorder) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710608/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710607/EE |
+| 예측 신규 적응증 | 편두통 (migraine disorder) |
 | TxGNN 예측 점수 | 0.9977 |
-| 근거 수준 | L3 |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
 | 허가증 수 | 2건 (유효 2건) |
-| 권장 결정 | Proceed with Guardrails (연구 질문 단계) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Conjugated estrogens는 에스트로겐 호르몬 제제이며, 호르몬 변동과 관련된 증상에 사용되는 약물입니다.
+현재 상세한 작용 기전 데이터가 없습니다. 다만 편두통은 에스트로겐 농도의 변동과 밀접한 관련이 있는 것으로 알려져 있습니다. 월경 주기나 폐경 이행기에 에스트로겐이 급격히 떨어지면(에스트로겐 감소 가설) 발작이 유발될 수 있어, 에스트로겐 농도를 안정화하면 이런 시기의 발작이 줄어들 가능성이 있습니다.
 
-편두통은 에스트로겐 변동과 밀접한 관련이 있습니다. 특히 폐경 이행기처럼 에스트라디올 수치가 크게 변하는 시기에 발작이 유발될 수 있다는 "에스트로겐 withdrawal 가설"이 있으며, 에스트라디올 수치를 안정시키면 월경성·폐경 이행기 편두통 발작을 줄일 수 있다고 추정됩니다.
-
-다만 호르몬 대체요법(HRT)이 편두통을 개선시키기도, 악화시키기도, 변화 없이 두기도 하며, 이는 제형과 투여 경로(경구 vs 경피)에 따라 달라집니다. 경구 결합형 에스트로겐은 혈중 농도 변동이 커서 안정적인 경피 투여보다 불리할 수 있습니다. 또한 전조 편두통에서는 허혈성 뇌졸중 위험 때문에 에스트로겐 사용이 상대적으로 주의 대상입니다.
+그러나 호르몬 대체요법이 편두통을 호전시키기도 하고, 악화시키기도 하며, 변화가 없기도 하다는 보고가 있습니다. 제형과 투여 경로에 따라 결과가 다릅니다. 경구 결합형 에스트로겐은 혈중 농도가 변동하기 쉬워, 경피 투여처럼 농도가 안정적인 방식보다 불리할 수 있습니다. 또한 전조 증상이 있는 편두통에서는 허혈성 뇌졸중 위험 때문에 에스트로겐 사용에 주의가 필요합니다.
 
 ## 임상시험 근거
 
@@ -69,11 +66,11 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [29521155](https://pubmed.ncbi.nlm.nih.gov/29521155/) | 2018 | Review | Climacteric | 폐경 이행기의 에스트라디올 변동이 편두통의 주요 유발 요인임을 정리 |
-| [12390622](https://pubmed.ncbi.nlm.nih.gov/12390622/) | 2002 | Cohort | Headache | 3가지 경구 HRT 방식이 폐경 후 여성의 편두통 경과에 미치는 영향이 서로 다름 |
-| [11306204](https://pubmed.ncbi.nlm.nih.gov/11306204/) | 2001 | Cohort | Maturitas | 폐경 후 여성에서 HRT 중 일차성 두통의 경과 평가 |
-| [8309263](https://pubmed.ncbi.nlm.nih.gov/8309263/) | 1994 | Review | Mayo Clin Proc | 경피 vs 경구 에스트로겐 요법의 상대적 효과 비교 |
-| [14195735](https://pubmed.ncbi.nlm.nih.gov/14195735/) | 1964 | Case series | Medizinische Klinik | 결합형 에스트로겐을 이용한 갱년기 장애 치료 |
+| [29521155](https://pubmed.ncbi.nlm.nih.gov/29521155/) | 2018 | Review | Climacteric | 폐경 이행기의 호르몬 변동이 편두통의 주요 유발 요인 중 하나임을 정리한 리뷰 |
+| [12390622](https://pubmed.ncbi.nlm.nih.gov/12390622/) | 2002 | Cohort | Headache | 폐경 후 여성에서 경구 호르몬 요법 3가지 방식이 편두통 경과에 서로 다른 영향을 미치는지 평가 |
+| [11306204](https://pubmed.ncbi.nlm.nih.gov/11306204/) | 2001 | Cohort | Maturitas | 폐경 후 여성에서 호르몬 대체요법이 일차성 두통 경과에 미치는 영향 평가 |
+| [8309263](https://pubmed.ncbi.nlm.nih.gov/8309263/) | 1994 | Review | Mayo Clin Proc | 여러 임상 상황에서 경피 및 경구 에스트로겐 요법의 상대적 효과 비교 |
+| [14195735](https://pubmed.ncbi.nlm.nih.gov/14195735/) | 1964 | Case series | Medizinische Klinik | 결합형 에스트로겐을 이용한 갱년기 장애 치료(편두통 직접 연구 아님) |
 
 ## 한국 시판 정보
 
@@ -84,35 +81,28 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건의 상호작용이 확인되었으며, 대부분 중등도(Moderate)입니다. 주요 항목은 다음과 같습니다.
-  - 당뇨병 치료제: Acarbose, Albiglutide, Alogliptin, Canagliflozin, Dapagliflozin, Dulaglutide, Empagliflozin, Acetohexamide, Chlorpropamide
-  - 코르티코스테로이드: Hydrocortisone, Dexamethasone, Triamcinolone, Betamethasone, Budesonide
-  - 기타: Aprepitant, Clarithromycin, Clotrimazole, Calcitriol(외용), Chenodeoxycholic acid
-  - Cimetidine은 경미(Minor) 수준입니다.
-- **예측 적응증 관련 주의**: 전조 편두통에서는 허혈성 뇌졸중 위험이 우려됩니다. 에스트로겐은 정맥혈전색전증 위험도 높일 수 있으므로 혈전 위험이 있는 환자에서는 신중해야 합니다.
+- **약물 상호작용**: 총 100건이 조회되었으며, 대부분 중등도입니다. 주요 항목은 다음과 같습니다.
+  - 혈당강하제(아카보스, 아세토헥사미드, 클로르프로파미드, 알로글립틴, 카나글리플로진, 다파글리플로진, 엠파글리플로진, 알비글루타이드, 둘라글루타이드): 중등도
+  - 코르티코스테로이드(하이드로코르티손, 트리암시놀론, 덱사메타손, 베타메타손, 부데소나이드): 중등도
+  - 아프레피탄트, 클래리스로마이신, 클로트리마졸, 칼시트리올(국소), 케노데옥시콜산: 중등도
+  - 시메티딘: 경미
+- **예측 관련 주의**: 에스트로겐은 혈전 위험을 높일 수 있고, 전조 편두통에서는 허혈성 뇌졸중 위험이 우려됩니다.
 
-경고 및 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
+그 외 경고 및 금기 사항은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-편두통은 에스트로겐 변동과의 생물학적 연관성이 있고 관찰 연구와 종설이 있으나, 임상시험이 없고 결과가 개선·악화·무변화로 엇갈립니다. 전조 편두통의 뇌졸중 위험도 있어, 치료 적응증이 아닌 연구 질문 단계로 제한적으로 접근하는 것이 적절합니다.
+- 결합형 에스트로겐을 편두통에 직접 시험한 연구가 없어 근거 수준은 L5입니다. 기존 문헌은 호르몬 요법이 편두통을 호전·악화·불변시킬 수 있다고 보고하여 효과 방향이 불분명하며, 뇌졸중·혈전 위험도 고려해야 합니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(첨부문서)의 경고·금기·적응증 확인 (현재 수집된 데이터에 없음)
-- 작용 기전(MOA) 데이터 보강
-- 제형·투여 경로(경구 vs 경피)별 편두통 영향을 비교하는 전향적 연구 설계
-- 전조 유무에 따른 환자 선별 기준과 뇌졸중·혈전 위험 모니터링 계획
+- 결합형 에스트로겐의 편두통 직접 효과를 평가하는 임상 연구 (경구 vs 경피 비교 포함)
+- 전조 유무에 따른 위험·이익 분석과 뇌졸중·혈전 위험 평가
+- 작용 기전 데이터 보완
+- 허가사항의 경고 및 금기 확인
 
-## 참고: 기타 예측 적응증
-
-상위 10개 예측 중 편두통 관련 항목(전조성 편두통 감수성 등)을 제외한 나머지는 근거가 매우 약합니다.
-
-- **혈전 관련 질환** (항트롬빈 결핍 2형, 제5인자 과다, 헤파린 보조인자 2 결핍, 혈전성향증): 에스트로겐은 혈전 위험을 높이므로 치료 기회가 아니라 안전성 금기에 가깝습니다. 모두 Hold입니다.
-- **류마티스 관절염**: 동물 모델 연구 1건(결합형 에스트로겐/바제독시펜 복합체)만 있으며 L4, 연구 질문 단계입니다.
-- **뇌줄기 전조 편두통, 프린츠메탈 협심증, 혈색소병증**: 직접적인 근거가 없어 Hold입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

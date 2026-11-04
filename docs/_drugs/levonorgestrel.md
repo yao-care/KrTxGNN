@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Levonorgestrel
-parent: 중등도 근거 (L3-L4)
+parent: 높은 근거 (L1-L2)
 nav_order: 474
-evidence_level: L4
+evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-03
-description: "Levonorgestrel: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 피임"
+last_modified_at: 2026-11-04
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Levonorgestrel: 예측 신규 적응증 여드름 (acne (disease)) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200709866/EE"
 ---
 
 # Levonorgestrel
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **5** 건
+근거 수준: **L2** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,32 @@ predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant 
 
 </div>
 
-## Levonorgestrel: 피임에서 여드름으로
+## Levonorgestrel: 여드름 (acne (disease))
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Levonorgestrel은 프로게스틴 계열 호르몬제로, 원래 피임에 사용되었습니다.
-TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하지만, 현재 **임상시험은 0건**이고 관련 문헌 20편은 대부분 피임제 전반을 다룬 자료입니다. 근거는 제한적이며, 여드름 개선 효과는 에티닐에스트라디올 병용 제제에서 보고된 것으로 보입니다.
+Levonorgestrel은 합성 프로게스틴 계열 약물로, 한국에서 단일 성분 제제로 시판되고 있습니다. TxGNN 모델은 **여드름 (acne (disease))**에 효과가 있을 수 있다고 예측하며, 예측 점수는 0.9988입니다. 이 방향을 직접 다룬 임상시험 등록은 없고, **20편의 문헌**이 검토되었습니다. 이 중 에티닐에스트라디올과 levonorgestrel 복합 경구제를 중등도 여드름에 평가한 무작위 위약대조 시험 1건이 핵심 근거입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 피임 |
-| 예측 신규 적응증 | 여드름 (acne) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200709866/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702435/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802200/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801711/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200700537/EE;  |
+| 예측 신규 적응증 | 여드름 (acne (disease)) |
 | TxGNN 예측 점수 | 0.9988 |
-| 근거 수준 | L4 |
+| 근거 수준 | L2 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
 | 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Levonorgestrel은 단독 제제(정제, 자궁내시스템)와 에티닐에스트라디올 병용 경구피임제로 사용되는 프로게스틴이며, 피임에서의 효능이 확립되어 있습니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 levonorgestrel은 19-노르테스토스테론 유래 프로게스틴으로, 비교적 높은 안드로겐 활성을 가집니다(PMID 7825629). 이 점만 보면 여드름을 악화시킬 수 있어 기전상 직접적인 치료 근거로 보기 어렵습니다.
 
-다만 기전상 여드름과의 연관성은 약합니다. Levonorgestrel은 안드로겐 활성이 비교적 높은 프로게스틴이어서(PMID 7825629) 여드름을 오히려 악화시킬 수 있습니다. 여드름 개선은 주로 에티닐에스트라디올이 SHBG를 높여 유리 안드로겐을 줄이는 작용에서 비롯되는 것으로 보입니다. 한국에서 여드름 적응증을 가진 일부 병용제(에티닐에스트라디올 병용)도 이 효과를 에스트로겐 성분에 기인합니다.
+한편 여드름은 안드로겐이 피지선 활동에 관여하는 질환입니다(PMID 30088446). 에티닐에스트라디올과 병용한 복합 경구제는 유리 안드로겐을 낮춰 여드름을 개선할 수 있습니다. 에티닐에스트라디올 20 µg과 levonorgestrel 100 µg 복합제는 중등도 여드름에서 무작위 위약대조 시험으로 평가되었습니다(PMID 12196750). 국내에는 여드름 치료가 함께 허가된 levonorgestrel 함유 복합 제제도 있습니다.
 
-따라서 높은 예측 점수는 병용 피임제와의 라벨·계열 연관성에서 비롯되었을 가능성이 크며, Levonorgestrel 자체의 직접 효과를 뜻한다고 보기는 어렵습니다. 자궁내시스템과 임플란트 문헌에서는 여드름 개선이 보고되지 않았고, 오히려 프로게스틴 단독 피임법의 이상반응으로 흔히 언급됩니다.
+다만 이 효과는 복합제, 특히 에스트로겐 성분에 기인했을 가능성이 큽니다. 높은 예측 점수도 복합 피임제와의 연관성을 반영했을 가능성이 있습니다. levonorgestrel 단독의 효과는 입증되지 않았습니다. 자궁내 시스템과 피하 이식제 문헌에서는 여드름 개선이 보고되지 않았고, 오히려 프로게스틴 단독 제제에서는 여드름이 이상반응으로 흔히 언급됩니다.
 
 ## 임상시험 근거
 
@@ -69,16 +68,17 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [12196750](https://pubmed.ncbi.nlm.nih.gov/12196750/) | 2002 | 무작위 위약대조 시험(분류 대기) | J Am Acad Dermatol | 에티닐에스트라디올 20 µg + Levonorgestrel 100 µg 저용량 경구피임제의 중등도 여드름 치료 효능 평가 (병용제 연구) |
-| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Review | Drugs | 에티닐에스트라디올/클로르마디논 아세테이트가 에티닐에스트라디올/Levonorgestrel보다 경증~중등도 구진농포성 여드름에 더 효과적 |
-| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Review | Am J Clin Dermatol | 항안드로겐 프로게스틴 병용제의 여드름·다모증 등 피부 개선 효과 |
-| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Review | Am J Med | 19-탄소 계열 프로게스틴(Levonorgestrel 포함)의 안드로겐 활성 |
-| [30088446](https://pubmed.ncbi.nlm.nih.gov/30088446/) | 2018 | Review | Curr Drug Targets | 피지 생성에 관여하는 스테로이드의 분자 상호작용 |
-| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Review | Semin Reprod Med | Levonorgestrel 방출 자궁내시스템의 피임 효과와 월경량 감소 (여드름 언급 없음) |
-| [32909630](https://pubmed.ncbi.nlm.nih.gov/32909630/) | 2020 | Review | Cochrane Database Syst Rev | 자궁내막증식증에서 Levonorgestrel 자궁내시스템 평가 |
-| [14688179](https://pubmed.ncbi.nlm.nih.gov/14688179/) | 2004 | 연구(분류 대기) | Hum Reprod | 자궁내막증 증상에 대한 Levonorgestrel 자궁내 투여 효과 |
+| [12196750](https://pubmed.ncbi.nlm.nih.gov/12196750/) | 2002 | RCT | J Am Acad Dermatol | 에티닐에스트라디올 20 µg + levonorgestrel 100 µg 저용량 복합 경구제의 중등도 여드름 효과를 위약과 비교 |
+| [15025547](https://pubmed.ncbi.nlm.nih.gov/15025547/) | 2004 | Review | Drugs | 에티닐에스트라디올/클로르마디논 복합제가 에티닐에스트라디올/levonorgestrel보다 구진농포성 여드름에서 더 효과적 |
+| [21895044](https://pubmed.ncbi.nlm.nih.gov/21895044/) | 2011 | Review | Am J Clin Dermatol | 항안드로겐 프로게스틴 복합제의 여드름·다모증·지루 개선 효과 정리 |
+| [7825629](https://pubmed.ncbi.nlm.nih.gov/7825629/) | 1995 | Review | Am J Med | 피임제 프로게스틴의 안드로겐 활성 비교로, levonorgestrel 계열의 안드로겐성 확인 |
+| [30088446](https://pubmed.ncbi.nlm.nih.gov/30088446/) | 2018 | Review | Curr Drug Targets | 스테로이드가 피지 생성에 관여하는 분자 상호작용과 여드름과의 관련성 |
+| [11727177](https://pubmed.ncbi.nlm.nih.gov/11727177/) | 2001 | Review | Semin Reprod Med | levonorgestrel 방출 자궁내 시스템의 내막 작용 개관 |
+| [1324552](https://pubmed.ncbi.nlm.nih.gov/1324552/) | 1992 | 비교 문헌 | Acta Obstet Gynecol Scand Suppl | 노르게스티메이트의 낮은 안드로겐 활성을 다른 프로게스틴과 비교 |
 
 ## 한국 시판 정보
+
+단일 성분 허가 중 주요 5건입니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
@@ -88,43 +88,29 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 | 201109654 | 라니아정 | 필름코팅정 | 이 약은 피임, 이 약을 복용할수 있는 여성의 중등도의 여드름 치료에 사용합니다. |
 | 200009333 | 에이리스정 | 제피정 | 이 약은 피임, 이 약을 복용할수 있는 여성의 중등도의 여드름 치료에 사용합니다. |
 
-허가증 20건 중 위 5건은 허가 적응증이 본문으로 확인되는 제품입니다. 나머지는 적응증이 문서 링크로만 제공되어 있습니다. 여드름 적응증이 있는 제품은 모두 에티닐에스트라디올 병용 경구피임제로 추정되며, 이는 Levonorgestrel 단독 효과가 아닙니다.
+전체 허가는 20건이며, 이 중 유효 18건과 취소 2건이 확인됩니다. 위 목록은 일부이며, 이 자료는 부분 기록일 수 있습니다.
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 100건이 확인되었으며, 일부는 다음과 같은 중등도(Moderate) 상호작용입니다.
-  - 혈당강하제: Acarbose, Canagliflozin, Dapagliflozin, Ertugliflozin, Linagliptin, Nateglinide
-  - GLP-1 계열 약물: Exenatide, Liraglutide
-  - 인슐린 제제 다수
-  - 기타: Aprepitant, Clotrimazole, Glycerol phenylbutyrate, Linaclotide
-- **지식그래프 기반 금기 질환**(허가사항이 아닌 모델 지식그래프 기준): 고혈압, 간질, 불안장애, 포르피린증, 신장질환, 간질환, 담낭질환, 고혈당, 당뇨병, 갑상선기능저하증, 전신홍반루푸스, 천식, 혈액응고질환, 고중성지방혈증, 고칼슘혈증 등
-- **임신 중 사용**: 임신 연관 골다공증 예측과 관련하여 임신 중 사용은 금기로 알려져 있습니다.
+- **약물 상호작용**: 확인된 상호작용은 모두 중등도(Moderate)였습니다. 주요 항목은 다음과 같습니다.
+  - 혈당강하제: acarbose, canagliflozin, dapagliflozin, ertugliflozin, exenatide, liraglutide, linagliptin, nateglinide, 여러 인슐린 제제
+  - 기타: aprepitant, clotrimazole, glycerol phenylbutyrate, linaclotide
+  - 총 100건의 상호작용이 보고되었고, 위 항목은 그중 일부입니다.
 
-허가사항의 경고 및 금기 정보는 확보되지 않았으므로 허가사항을 직접 확인해야 합니다.
+경고와 금기 등 그 밖의 안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-임상시험이 없고, 여드름에 대한 긍정적 근거는 에티닐에스트라디올 병용제에서만 확인됩니다. Levonorgestrel은 안드로겐 활성이 있어 단독으로는 여드름을 악화시킬 수 있습니다. 근거 수준은 L4(기전 수준)이며 허가사항의 안전성 정보도 확보되지 않아 진행하기에는 이릅니다.
+- 근거 수준은 L2입니다. 에티닐에스트라디올과 levonorgestrel 복합제의 여드름 무작위 위약대조 시험이 있기 때문입니다.
+- 다만 이 효과는 에스트로겐 성분 덕분일 가능성이 큽니다. levonorgestrel 단독의 여드름 개선 근거는 없고, 안드로겐 활성 때문에 오히려 악화될 수 있습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(MFDS 첨부문서)의 경고·금기 정보 확보 (현재 차단 수준의 공백)
-- 상세한 작용 기전 데이터(DrugBank 등) 확보
-- 단독 Levonorgestrel과 병용제의 여드름 효과를 구분한 근거 검토
-- 필요 시 Levonorgestrel 단독 제제의 여드름 영향을 평가하는 임상 연구 설계
-
-### 참고: 기타 예측 적응증
-
-아래 5개 예측은 임상시험과 문헌이 모두 없는 L5(모델 예측만) 수준이며, 모두 Hold 판단입니다.
-
-| 순위 | 예측 적응증 | TxGNN 점수 | 비고 |
-|-----|-----------|-----------|------|
-| 2 | Worth 증후군 | 0.9961 | 기전상 연관성 없음 |
-| 4 | 상염색체 우성 신생혈관성 염증성 유리체망막병증 | 0.9939 | 초희귀 유전성 안질환, 기전상 연관성 불명 |
-| 5 | 유방 둔관 선증(blunt duct adenosis) | 0.9902 | 프로게스틴은 유방 조직 증식과 연관될 수 있어 반대 방향 효과 가능성 |
-| 6 | 유방 아포크린 선증(apocrine adenosis) | 0.9902 | 위와 동일 |
+- levonorgestrel 단독 투여의 여드름 효과를 직접 평가하는 임상시험 또는 연구
+- 상세한 작용 기전 데이터(MOA)
+- 허가사항 기반의 경고·금기 정보 확인
 
 ## 면책 조항
 

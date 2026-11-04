@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sorafenib
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 699
-evidence_level: L2
+evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
-description: "Sorafenib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 PDF 링크로만 제공되어 이번 데이터에서 확인할 수 없습니다"
+last_modified_at: 2026-11-04
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
+description: "Sorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800233/EE"
 ---
 
 # Sorafenib
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **6** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,50 +33,54 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 
 </div>
 
-## Sorafenib: 신세포암·간세포암 치료제에서 지방육종으로
+## Sorafenib: 지방육종 (liposarcoma)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Sorafenib은 다중 키나아제 억제제로, 한국에서 넥사바정(바이엘코리아)과 소라닙정(한미약품)으로 시판되고 있습니다. TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 예측하며, 현재 **1건의 임상시험**과 **8편의 문헌**이 이 방향을 간접적으로 지지합니다. 다만 이 근거는 대부분 연조직육종 전체를 대상으로 한 것이어서 지방육종에 특이적인 근거는 약합니다.
+Sorafenib은 RAF/MEK/ERK, VEGFR, PDGFR, KIT 등을 억제하는 다중 키나제 억제제로, 한국에서 시판 중입니다.
+TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 대상으로 한 연구는 확인되지 않아 근거 수준은 **L5**입니다.
+육종 전체를 다룬 연성조직육종 2상 시험과 전임상 연구가 간접적으로 참고될 뿐입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 허가증 PDF 링크로만 제공되어 이번 데이터에서 확인할 수 없습니다. |
-| 예측 신규 적응증 | 지방육종 (Liposarcoma) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800233/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007416/EE |
+| 예측 신규 적응증 | 지방육종 (liposarcoma) |
 | TxGNN 예측 점수 | 0.9982 |
-| 근거 수준 | L2 (연조직육종 대상 Phase 2 시험 있음, 지방육종 특이 근거는 제한적) |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
 | 허가증 수 | 2건 (유효 2건) |
-| 권장 결정 | Hold (연구 질문 단계) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 sorafenib은 RAF/MEK/ERK 신호전달과 VEGFR, PDGFR, KIT를 억제하는 다중 키나아제 억제제로, 혈관신생과 MAPK 신호를 차단해 종양 성장을 억제할 수 있습니다.
+Sorafenib은 RAF/MEK/ERK 신호전달과 VEGFR, PDGFR, KIT를 억제하는 다중 키나제 억제제입니다. 이 기전은 연성조직육종에서 혈관신생과 MAPK 신호를 억제할 가능성이 있습니다. 다만 현재 데이터에는 상세한 작용 기전 기록이 없어, 위 내용은 일반적으로 알려진 약리 지식에 근거합니다.
 
-연조직육종은 혈관신생과 MAPK 경로가 종양 성장에 관여할 수 있어 기전상 적용 가능성이 있습니다. 탈분화 지방육종 이종이식 모델 등 전임상 연구에서도 활성이 보고되었습니다.
+전임상 연구에서는 악성 말초신경초종 세포주와 탈분화 지방육종 세포주에서 성장 억제가 보고되었습니다. 그러나 이는 세포 수준의 결과이며, 지방육종 환자를 대상으로 sorafenib을 직접 평가한 시험은 없습니다.
 
-그러나 임상 근거는 육종 전체를 대상으로 한 Phase 2 시험에 한정됩니다. 이들 시험에서 지방육종은 소수 하위군이었고 효과는 제한적이었습니다. 따라서 지방육종에 특이적인 근거는 약합니다.
+임상 신호는 연성조직육종 전체를 대상으로 한 2상 시험에서만 나왔습니다. 지방육종은 이 시험에서 소수 하위군에 불과했고, 효과는 제한적이며 미미했습니다. 따라서 지방육종에 대한 근거는 약합니다.
 
 ## 임상시험 근거
 
+지방육종만을 대상으로 한 임상시험은 없습니다. 아래는 연성조직육종 전체를 대상으로 한 시험으로, 간접 근거일 뿐입니다.
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | Phase 2 | 완료 | 51 | 진행성 연조직육종에서 sorafenib 단독요법 단일군 시험. 지방육종 특이 시험이 아니며 조직형이 혼합되어 있음 |
+| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | Phase 2 | 완료 | 51 | 진행성 연성조직육종에서 sorafenib 단독 단일군 시험. 지방육종 특이적 결과가 아니며 조직형이 혼합됨 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [21751200](https://pubmed.ncbi.nlm.nih.gov/21751200/) | 2012 | Phase 2 시험 (SWOG S0505) | Cancer | 진행성 연조직육종에서 sorafenib 평가 |
-| [24554062](https://pubmed.ncbi.nlm.nih.gov/24554062/) | 2014 | Phase 1 시험 | Ann Surg Oncol | 국소 진행 사지 연조직육종에서 術前 방사선 + sorafenib 병용 |
-| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Review | Magyar Onkologia | 조직형에 따른 연조직육종 약물치료 |
-| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Review | Ann Oncol | 조직형 기반 및 비기반 연조직육종 치료 |
-| [18413802](https://pubmed.ncbi.nlm.nih.gov/18413802/) | 2008 | 전임상 | Mol Cancer Ther | 악성 말초신경초종양 및 탈분화 지방육종 세포주에서 성장과 MAPK 신호 억제 |
+| [21751200](https://pubmed.ncbi.nlm.nih.gov/21751200/) | 2012 | Phase 2 시험 (SWOG S0505) | Cancer | 진행성 연성조직육종에서 sorafenib 평가 |
+| [24554062](https://pubmed.ncbi.nlm.nih.gov/24554062/) | 2014 | Phase 1 시험 | Ann Surg Oncol | 사지 국소 진행 연성조직육종에서 수술 전 방사선 + sorafenib 병용 |
+| [22987955](https://pubmed.ncbi.nlm.nih.gov/22987955/) | 2012 | Review | Ann Oncol | 연성조직육종의 조직형별 치료 동향 |
+| [24712007](https://pubmed.ncbi.nlm.nih.gov/24712007/) | 2014 | Review | Magyar Onkologia | 조직형에 따른 연성조직육종 약물치료 |
+| [18413802](https://pubmed.ncbi.nlm.nih.gov/18413802/) | 2008 | 전임상 | Mol Cancer Ther | 악성 말초신경초종 및 탈분화 지방육종 세포주에서 성장 및 MAPK 신호 억제 |
 | [23416162](https://pubmed.ncbi.nlm.nih.gov/23416162/) | 2013 | 전임상 | Am J Pathol | 탈분화 지방육종 이종이식 모델과 PI3K 경로 억제 반응 |
-| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review (전임상 PDOX 모델) | Front Oncol | 육종 PDOX 모델을 이용한 palbociclib 병용요법 탐색 |
+| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review (전임상) | Front Oncol | 육종 PDOX 마우스 모델과 palbociclib 병용 전략 |
 
 ## 한국 시판 정보
 
@@ -89,42 +93,33 @@ Sorafenib은 다중 키나아제 억제제로, 한국에서 넥사바정(바이�
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 표적치료제 (다중 키나아제 억제제) |
-| 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요. |
-| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요. |
-| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요. 지식그래프상 혈소판감소증, 호중구감소증, 빈혈, 간부전과 연관된 금기 관계가 있어 CBC와 간기능 확인이 합리적입니다. |
-| 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요. |
+| 세포독성 분류 | 표적치료제 (다중 키나제 억제제) |
+| 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 모니터링 항목 | 허가사항의 경고 및 주의사항을 참조하세요 |
+| 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |
 
 ## 안전성 고려사항
 
-- **지식그래프 기반 금기 연관 질환** (허가사항 문구가 아닌 TxGNN 지식그래프의 약물-질환 금기 관계): 고혈압, 간부전, 혈소판감소증, 호중구감소증, 무과립구증, 혈액응고질환, 급성 관상동맥 증후군, 관상동맥질환, 심근경색, 심근허혈, 빈혈, 저인산혈증, 췌장염, 불안장애 등. 허가사항으로 확인된 금기가 아니므로 참고용으로만 보시기 바랍니다.
-- **약물 상호작용**: 총 509건이 확인되었습니다. 주요 항목은 다음과 같습니다.
+- **약물 상호작용**: 이번 조회에서 총 509건이 확인되었습니다. 주요 항목은 다음과 같습니다.
   - Major: Dolasetron
-  - Moderate: Famotidine, Loperamide, Dexamethasone, Clarithromycin, Levofloxacin, Palonosetron, Naltrexone 등
+  - Moderate: Famotidine, Loperamide, Dexamethasone, Bisacodyl, Cholic Acid, Clarithromycin, Picosulfuric acid, Levofloxacin, Palonosetron, Naltrexone, Lactulose 등
+  - Minor: Dapagliflozin, Naloxegol, Metronidazole
+
+허가사항상의 경고 및 금기는 이번 데이터에 포함되지 않았으므로 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 점수는 높지만, 임상 근거는 조직형이 혼합된 연조직육종 Phase 2 시험 1건뿐이며 그중 지방육종은 소수 하위군으로 효과가 제한적이었습니다. 허가사항 기반 안전성 정보도 확인되지 않아 현 단계에서는 연구 질문 수준입니다.
+지방육종을 직접 대상으로 한 임상시험이나 문헌이 없어 근거 수준은 L5입니다. 연성조직육종 전체 2상 시험에서도 지방육종 하위군의 효과는 제한적이고 미미했습니다.
 
 **진행하려면 필요한 것:**
-- 허가증 PDF에서 허가 적응증, 경고, 금기 확인 (필수)
-- DrugBank 등에서 상세한 작용 기전 데이터 확보
-- SWOG S0505 등 기존 시험의 지방육종 하위군 결과 재분석
-- 지방육종 특이적 임상 근거 확보. 예를 들어 탈분화 지방육종을 대상으로 한 소규모 탐색 시험이 필요합니다.
-- 고혈압, 심혈관 질환, 혈액학적 이상, 간기능 관련 안전성 모니터링 계획
+- 지방육종 환자를 대상으로 한 직접적인 임상 또는 전임상 근거
+- 연성조직육종 2상 시험에서 지방육종 하위군 결과의 별도 분석
+- 허가사항(경고, 금기)과 상세 작용 기전 데이터 확보
 
----
-
-**참고: 다른 예측 적응증**
-
-- **유방암(여성)**: 근거 수준 L2. Phase 1/2 병용요법 시험이 여러 건 완료되었으나 임상적 이득은 제한적이었고, 무작위 Phase 2 시험은 4명 등록으로 조기 종결되었습니다.
-- **신우암**: 근거 수준 L2. 요로상피암 Phase 2 시험이 있으나 소규모이며 일부 조기 종결되었습니다. 신세포암 허가가 그대로 적용되지 않습니다.
-- **피부섬유육종(DFSP)**: 근거 수준 L4. 증례 보고 1건과 PDGFR 억제제 관련 문헌이 있으며, imatinib 실패 후의 선택지로 고려할 수 있습니다.
-- **분류불능 신세포암**: 근거 수준 L4. 증례 보고 수준입니다.
-- **난소 점액성 지방육종, 외음부 육종, 소아 신세포암 등**: 예측만 있고 근거가 없어 Hold입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sofosbuvir
-parent: 높은 근거 (L1-L2)
+parent: 중등도 근거 (L3-L4)
 nav_order: 698
-evidence_level: L2
+evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-31
-description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L5). 기존 적응증: 한국 허가 적응증(C형 간염) — 허가 문서 링크만 확인되며 본문 텍스트는 확보되지 않음"
+last_modified_at: 2026-11-04
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
+description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201161/EE"
 ---
 
 # Sofosbuvir
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **8** 건
+근거 수준: **L3** | 예측 적응증: **8** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,63 +33,54 @@ predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infect
 
 </div>
 
-## Sofosbuvir: C형 간염에서 B형 간염 바이러스 감염으로
+## Sofosbuvir: B형 간염 바이러스 감염 (hepatitis B virus infection)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Sofosbuvir는 한국에서 C형 간염 바이러스(HCV) 치료제로 허가·시판 중인 뉴클레오타이드 유사체 약물입니다.
-TxGNN 모델은 **B형 간염 바이러스 감염(hepatitis B virus infection)**에 효과가 있을 수 있다고 예측했습니다(예측 점수 0.9977).
-다만 관련 임상시험 대부분은 HCV/HBV 동시감염 환자 대상이며, B형 간염에 대한 직접적인 항바이러스 효능이 아니라 HBV 재활성화 같은 안전성 신호를 다룹니다. 따라서 이 예측은 실제 효능 근거가 약한 **모델 예측 중심**입니다.
+Sofosbuvir는 C형 간염 바이러스(HCV)의 NS5B 중합효소를 억제하는 뉴클레오타이드 유사체 항바이러스제입니다.
+TxGNN 모델은 **B형 간염 바이러스 감염(hepatitis B virus infection)**에 효과가 있을 수 있다고 예측하지만, 직접 근거는 ledipasvir/sofosbuvir의 소규모 단일군 2상 시험 1건에 그치고 나머지 연구는 C형 간염 치료 중 B형 간염 재활성화를 다룬 것으로, 근거 수준은 **L3**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 한국 허가 적응증(C형 간염) — 허가 문서 링크만 확인되며 본문 텍스트는 확보되지 않음 |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201161/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200754/EE |
 | 예측 신규 적응증 | B형 간염 바이러스 감염 (hepatitis B virus infection) |
 | TxGNN 예측 점수 | 0.9977 |
-| 근거 수준 | L2 (이 예측 후보에 대한 평가 결과. 단, 아래 설명처럼 HBV 효능 근거는 간접적이므로 해석에 주의) |
+| 근거 수준 | L3 |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 4건) |
 | 허가증 수 | 4건 (유효 2건) |
-| 권장 결정 | Hold (연구 질문 단계) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 확보되지 않았습니다. 알려진 정보에 따르면 Sofosbuvir는 HCV의 NS5B RNA 의존성 RNA 중합효소를 억제하는 뉴클레오타이드 유사체이며, 단독 제제와 ledipasvir, velpatasvir 등과의 복합제로 HCV 치료에 사용됩니다.
+현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 sofosbuvir는 HCV의 RNA 의존성 RNA 중합효소(NS5B)를 억제하는 뉴클레오타이드 유사체입니다.
 
-그러나 HBV는 역전사효소를 통해 복제하는 DNA 바이러스여서, Sofosbuvir가 HBV에 직접 작용할 기전적 근거는 없습니다. 임상에서 관찰된 HBV 관련 소견은 HCV 치료 중 나타나는 HBV 재활성화, HBV-DNA 및 HBsAg 변화 같은 안전성 신호이며, 항HBV 효능이 입증된 것은 아닙니다.
-
-TxGNN의 높은 점수는 바이러스성 간염 질환 간의 네트워크 근접성을 반영했을 가능성이 크며, 실제 항바이러스 효과를 의미한다고 보기는 어렵습니다.
+HBV는 역전사 효소를 통해 복제하는 DNA 바이러스이므로, 기전상 직접적인 항바이러스 근거는 약합니다. 임상시험 대부분은 HCV/HBV 동시 감염 환자를 대상으로 하며, 여기서 확인된 HBV 관련 소견은 항HBV 효능이 아니라 HCV 치료 중 HBV 재활성화와 HBV-DNA/HBsAg 변화 같은 안전성 신호입니다. 다만 ledipasvir/sofosbuvir를 HBV 단독 감염자에게 투여한 2상 시험에서 HBsAg의 소폭 감소 가능성이 관찰되어 가설 수준의 탐색 여지는 있습니다. 높은 TxGNN 점수는 실제 항바이러스 효과보다 바이러스성 간염 간의 네트워크상 근접성을 반영했을 가능성이 큽니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT03312023](https://clinicaltrials.gov/study/NCT03312023) | Phase 2 | 완료 | 21 | HBV 감염자에서 ledipasvir/sofosbuvir 12주 투여, 소규모 단일군 시험 |
-| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2/3 | 완료 | 23 | HCV/HBV 동시감염자에서 DAA 치료 중 HBV 재활성화 평가(효능 아님) |
-| [NCT04997564](https://clinicaltrials.gov/study/NCT04997564) | Phase 4 | 불명 | 120 | SOF/VEL에 TAF 예방 투여 병용, HBV 재활성화 예방 목적 |
-| [NCT03186313](https://clinicaltrials.gov/study/NCT03186313) | Phase 3 | 완료 | 72 | 이집트 HCV 유전자형 4 환자 대상 복합제 비교, HBV와는 간접 관련 |
-| [NCT03261349](https://clinicaltrials.gov/study/NCT03261349) | Phase 2 | 불명 | 21 | HCV 연관 B세포 림프종에서 ledipasvir/sofosbuvir 예비 연구 |
-| [NCT02483156](https://clinicaltrials.gov/study/NCT02483156) | Phase 2/3 | 완료 | 80 | HCV 유전자형 4에서 sofosbuvir+ribavirin 비교, HBV와 간접 관련 |
-| [NCT03549312](https://clinicaltrials.gov/study/NCT03549312) | Phase 4 | 불명 | 25 | HIV-HCV 동시감염자 약제 전환 후 SOF/VEL 투여 파일럿 |
-
-HBV 단독 감염에서 직접 평가한 시험은 NCT03312023 하나뿐이며, 소규모·비통제 시험입니다.
+| [NCT03312023](https://clinicaltrials.gov/study/NCT03312023) | Phase 2 | 완료 | 21 | HBV 감염자에서 ledipasvir/sofosbuvir 12주 투여. 소규모 비대조 시험 |
+| [NCT02555943](https://clinicaltrials.gov/study/NCT02555943) | Phase 2/3 | 완료 | 23 | HCV/HBV 동시 감염자에서 항HCV 치료 중 HBV 재활성화 평가 |
+| [NCT04997564](https://clinicaltrials.gov/study/NCT04997564) | Phase 4 | 불명 | 120 | SOF/VEL에 TAF 예방 투여 병용. HBV 재활성화 예방 목적 |
+| [NCT03186313](https://clinicaltrials.gov/study/NCT03186313) | Phase 3 | 완료 | 72 | 이집트 HCV 유전자형 4 환자 대상 복합제 비교. HBV와는 간접 관련 |
+| [NCT03549312](https://clinicaltrials.gov/study/NCT03549312) | Phase 4 | 불명 | 25 | HIV-HCV 동시 감염자 전환 투여 시험. HBV와는 간접 관련 |
+| [NCT03261349](https://clinicaltrials.gov/study/NCT03261349) | Phase 2 | 불명 | 21 | HCV 연관 B세포 림프종에서 ledipasvir/sofosbuvir 평가 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [36045503](https://pubmed.ncbi.nlm.nih.gov/36045503/) | 2023 | Phase 2 공개 임상시험 | J Med Virol | HBV 단독 감염자에서 ledipasvir/sofosbuvir 12주 투여 후 HBsAg 및 HBV DNA 감소 평가 |
-| [42558970](https://pubmed.ncbi.nlm.nih.gov/42558970/) | 2026 | 임상 연구 | J Clin Transl Hepatol | HBV/HCV 동시감염자에서 SOF/VEL 및 TAF 선행 투여의 안전성·효능 평가 |
-| [35268497](https://pubmed.ncbi.nlm.nih.gov/35268497/) | 2022 | 코호트 | J Clin Med | HCV 동시감염자의 DAA 치료 중 HBV-DNA와 HBsAg 동태 차이 |
-| [42145438](https://pubmed.ncbi.nlm.nih.gov/42145438/) | 2026 | 비교효과 연구 | Bioinformation | B형·C형 간염 항바이러스 요법 비교(HBV는 tenofovir/entecavir 사용) |
-| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Review | Minerva Gastroenterol Dietol | B형·C형 간염 항바이러스제와 신기능에 미치는 영향 |
-| [26967675](https://pubmed.ncbi.nlm.nih.gov/26967675/) | 2016 | 문헌 고찰 | J Clin Virol | HCV DAA 치료 중 HBV 재활성화 문제 |
-| [33523503](https://pubmed.ncbi.nlm.nih.gov/33523503/) | 2021 | 전향적 관찰 연구 | J Viral Hepat | 암 환자에서 DAA 치료 중 HBV 재활성화 |
-| [31542053](https://pubmed.ncbi.nlm.nih.gov/31542053/) | 2019 | 증례 보고 | J Med Case Rep | sofosbuvir/velpatasvir 치료 중 HBsAg 면역회피 변이주에 의한 HBV 재활성화 |
-
-문헌의 핵심 메시지는 HBV 효능이 아니라 HCV 치료 중 HBV 재활성화 관리입니다.
+| [36045503](https://pubmed.ncbi.nlm.nih.gov/36045503/) | 2023 | Phase 2 공개 임상시험 | J Med Virol | HBV 단독 감염자에서 ledipasvir/sofosbuvir 12주 투여 후 HBsAg·HBV DNA 변화 평가 |
+| [42558970](https://pubmed.ncbi.nlm.nih.gov/42558970/) | 2026 | 임상 연구 | J Clin Transl Hepatol | HBV/HCV 동시 감염자에서 SOF/VEL 및 TAF 선행 투여의 안전성·효능 평가 |
+| [35268497](https://pubmed.ncbi.nlm.nih.gov/35268497/) | 2022 | 코호트 | J Clin Med | DAA 치료 중 HCV 동시 감염자의 HBV-DNA와 HBsAg 변화 양상 |
+| [33523503](https://pubmed.ncbi.nlm.nih.gov/33523503/) | 2021 | 전향적 관찰 연구 | J Viral Hepat | 암 환자에서 HCV 치료 중 HBV 재활성화 평가 |
+| [26967675](https://pubmed.ncbi.nlm.nih.gov/26967675/) | 2016 | 문헌 고찰 | J Clin Virol | DAA 치료 시 HBV 재활성화 문제 |
+| [31542053](https://pubmed.ncbi.nlm.nih.gov/31542053/) | 2019 | 증례 보고 | J Med Case Rep | sofosbuvir/velpatasvir 치료 중 HBV 재활성화 사례 |
+| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Review | Minerva Gastroenterol Dietol | B형·C형 간염 항바이러스제와 신기능 영향 |
 
 ## 한국 시판 정보
 
@@ -100,43 +91,29 @@ HBV 단독 감염에서 직접 평가한 시험은 NCT03312023 하나뿐이며, 
 | 202200754 | 엡클루사정 | 필름코팅정 | 허가 문서 링크만 확인됨(허가사항 참조) |
 | 201507122 | 하보니정 | 필름코팅정 | 허가 문서 링크만 확인됨(허가사항 참조) |
 
-4건 모두 길리어드사이언스코리아(유) 제품이며 단일 성분 기준 유효 허가입니다.
-
 ## 안전성 고려사항
 
-- **약물 상호작용**(총 8건 확인):
-  - 주요(Major): Apalutamide, Enzalutamide, Lorlatinib
-  - 중등도(Moderate): Fostamatinib, Warfarin, Dicoumarol, Encorafenib
-  - 경미(Minor): Cyclosporine
-- **HBV 관련 주의**: HCV 치료 중 HBV 재활성화가 보고되어 있어, HBV 동시감염 또는 과거 감염력이 있는 환자는 모니터링이 필요합니다. 일부 연구에서는 TAF 예방 투여를 병용했습니다.
+- **약물 상호작용**: 총 8건이 확인되었습니다.
+  - 주요(Major): apalutamide, enzalutamide, lorlatinib
+  - 중등도(Moderate): fostamatinib, warfarin, dicoumarol, encorafenib
+  - 경미(Minor): cyclosporine
+- **HBV 재활성화**: HCV 치료 중 HBV 재활성화 사례가 문헌에 보고되어 있어, HBV 동시 감염 또는 과거 감염 환자에서는 HBV-DNA와 HBsAg 모니터링이 필요합니다. TAF 예방 투여가 연구되고 있습니다.
 
-경고 및 금기 정보는 허가사항을 참조하세요.
+경고 및 금기 사항은 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-Sofosbuvir는 HBV에 대한 기전적 근거가 없고, 임상 근거도 대부분 HCV/HBV 동시감염에서의 HCV 치료와 HBV 재활성화 안전성에 관한 것입니다. HBV 단독 감염에서의 직접 시험은 소규모·비통제 Phase 2 한 건뿐이므로, 재창출 후보라기보다 안전성 관리 사안으로 보는 것이 타당합니다.
+HBV 단독 감염에 대한 직접 근거는 소규모 단일군 2상 시험 1건뿐이며, 나머지 연구는 HCV 치료 중 HBV 재활성화라는 안전성 문제를 다룹니다. 기전상으로도 항HBV 활성의 근거가 약해 현재는 연구 가설 수준에 머뭅니다.
 
 **진행하려면 필요한 것:**
-- HBV 단독 감염에서 HBsAg 및 HBV DNA 감소를 확인하는 대조군 포함 임상시험
-- 작용 기전 데이터 확보(HBV에 대한 비임상·기전 근거)
-- 한국 허가 문서에서 허가 적응증, 경고, 금기 추출
-- HCV/HBV 동시감염 환자의 재활성화 모니터링 및 TAF 등 예방 요법 지침 정리
+- HBV 단독 감염자 대상의 대조군이 있는 더 큰 규모 임상시험
+- sofosbuvir 자체의 항HBV 활성을 확인하는 전임상 및 기전 연구
+- 허가사항의 경고·금기 정보 확보
+- 상세한 작용 기전(MOA) 데이터 보완
 
-**참고: 다른 예측 적응증의 근거 수준**
-
-| 예측 적응증 | TxGNN 점수 | 근거 수준 | 비고 |
-|------------|-----------|----------|------|
-| E형 간염 바이러스 감염 | 0.9949 | L2 | 소규모 Phase 2(n=10)와 시험관 내 근거가 있으나 지속 바이러스 반응은 달성하지 못했고 내성 변이가 보고됨. 가장 기전적 타당성이 높은 후보 |
-| 만성 B형 간염 | 0.9946 | L2 | 위와 동일하게 동시감염 맥락의 안전성 근거 |
-| A형 간염 | 0.9948 | L4 | 시험관 내 연구만 있음 |
-| Kyasanur 삼림병 | 0.9945 | L4 | 효소 수준 생화학 연구만 있음 |
-| 옴스크 출혈열 | 0.9947 | L5 | 모델 예측만 있음 |
-| HIV 감염 | 0.9923 | L1 | HIV 치료 효능이 아니라 HIV/HCV 동시감염자에서의 HCV 치료 근거이므로 재창출이 아님 |
-
-이 표에서는 모델 점수나 근거 수준 수치보다 실제 근거의 성격이 더 중요합니다. 현재 데이터상 E형 간염이 가장 우선적으로 추가 검토할 만한 방향입니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

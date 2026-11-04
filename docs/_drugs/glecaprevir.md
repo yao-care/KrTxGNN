@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Glecaprevir
-parent: 중등도 근거 (L3-L4)
+parent: 모델 예측만 (L5)
 nav_order: 379
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
-description: "Glecaprevir: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L5). 기존 적응증: C형 간염 (허가증에는 적응증 본문 대신 허가 문서 링크만 기재되어 있음)"
+last_modified_at: 2026-11-04
 monitor_inn: "GLECAPREVIR"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Glecaprevir: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800200/EE"
 ---
 
 # Glecaprevir
 {: .fs-9 }
 
-근거 수준: **L4** | 예측 적응증: **10** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,60 +33,59 @@ predicted_indications: ["HIV infectious disease", "hepatitis B virus infection",
 
 </div>
 
-## Glecaprevir: C형 간염에서 HIV 감염으로 (모델 예측)
+## Glecaprevir: HIV 감염증 (HIV infectious disease)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Glecaprevir는 pibrentasvir와 복합제로 사용되는 HCV NS3/4A 프로테아제 억제제로, 한국에서 C형 간염 치료제로 허가되어 시판 중입니다.
-TxGNN 모델은 **HIV 감염(HIV infectious disease)**에 효과가 있을 수 있다고 예측하지만, 관련 임상시험 7건과 문헌 20편은 모두 **HIV 동반감염 환자에서의 C형 간염 치료**를 다룬 것으로, HIV 자체에 대한 효능 근거는 아닙니다.
+Glecaprevir는 C형간염 바이러스(HCV)의 NS3/4A 단백질분해효소를 억제하는 약물입니다. TxGNN 모델은 **HIV 감염증(HIV infectious disease)**에 효과가 있을 수 있다고 예측했습니다. 그러나 현재까지 HIV 감염 자체의 치료를 직접 평가한 임상시험이나 문헌은 없어 근거 수준은 **L5(모델 예측만 있음)**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | C형 간염 (허가증에는 적응증 본문 대신 허가 문서 링크만 기재되어 있음) |
-| 예측 신규 적응증 | HIV 감염 (HIV infectious disease) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800200/EE |
+| 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9987 |
-| 근거 수준 | L4 (HIV 자체에 대한 직접 근거 없음, 실질적으로는 모델 예측 수준) |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
 | 허가증 수 | 1건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 glecaprevir는 HCV의 NS3/4A 프로테아제를 억제하는 직접작용 항바이러스제(DAA)로, pibrentasvir(NS5A 억제제)와 복합제로 사용됩니다.
+현재 상세한 작용 기전 데이터가 수집되어 있지 않습니다. 알려진 정보에 따르면 glecaprevir는 HCV의 NS3/4A 단백질분해효소를 표적으로 하며, HIV에 대한 직접적인 항바이러스 활성은 확립되지 않았습니다. 따라서 이 예측의 기전적 근거는 약합니다. 높은 점수는 바이러스 단백질분해효소 간의 유사성 또는 모델 내 연관성에서 비롯되었을 가능성이 큽니다.
 
-HIV는 레트로바이러스로 역전사를 통해 복제하며, HCV NS3/4A와 같은 프로테아제 표적에 대한 직접적인 항HIV 활성은 확립되어 있지 않습니다. 높은 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 관련 질환 간에 모델이 학습한 유사성을 반영했을 수 있으며 생물학적 근거를 뜻하지는 않습니다.
-
-임상 자료는 HIV/HCV 동반감염 환자에서 HCV를 치료하는 것을 뒷받침합니다. 이는 이미 허가된 사용 범위이며, HIV 치료를 위한 재창출이 아닙니다. 따라서 이 예측은 기전상 타당성이 낮다고 판단됩니다.
+HIV와 관련된 임상 자료는 HIV와 HCV에 동시 감염된 환자에서 C형간염을 치료한 연구입니다. 이 연구들은 HIV 감염 자체를 치료 대상으로 하지 않으며, 평가 지표도 HCV 치료 반응입니다. 따라서 이 자료로 HIV 감염증에 대한 효과를 뒷받침할 수는 없습니다.
 
 ## 임상시험 근거
 
+HIV 동시 감염 환자를 포함하거나 관련된 시험이 있으나, 모두 HCV 치료를 평가합니다. HIV 치료 효과를 직접 평가한 시험은 없습니다.
+
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT02738138](https://clinicaltrials.gov/study/NCT02738138) | Phase 3 | 완료 | 153 | HCV/HIV-1 동반감염 성인에서 glecaprevir/pibrentasvir의 효능·안전성 (EXPEDITION-2). 평가변수는 HCV SVR |
-| [NCT03235349](https://clinicaltrials.gov/study/NCT03235349) | Phase 3 | 완료 | 160 | 대상성 간경변이 있는 아시아 성인 HCV 환자(HIV 동반감염 포함 가능). 표적은 HCV |
-| [NCT03222583](https://clinicaltrials.gov/study/NCT03222583) | Phase 3 | 완료 | 546 | 간경변 없는 아시아 성인 HCV 환자(HIV 동반감염 포함 가능). 항HIV 효능 근거 없음 |
-| [NCT02634008](https://clinicaltrials.gov/study/NCT02634008) | Phase 3 | 완료 | 83 | 최근 감염된 HCV(HIV 동반 여부 무관)에서 paritaprevir 기반 등 다른 요법 파일럿 |
-| [NCT03823911](https://clinicaltrials.gov/study/NCT03823911) | Phase 4 | 완료 | 87 | HIV/HCV 환자에서 HCV 완치 후 심혈관 위험 평가. HIV 치료가 아닌 HCV 완치 결과 평가 |
-| [NCT04042740](https://clinicaltrials.gov/study/NCT04042740) | Phase 2 | 완료 | 45 | 급성 HCV(HIV-1 동반 포함)에서 4주 glecaprevir/pibrentasvir 요법 (PURGE-C) |
-| [NCT07040319](https://clinicaltrials.gov/study/NCT07040319) | Phase 1/2 | 모집 중 | 30 | 임신 중 HCV 여성(HIV 동반 포함)에서 PK 및 안전성. HIV가 아닌 HCV 대상 |
+| [NCT02738138](https://clinicaltrials.gov/study/NCT02738138) | Phase 3 | 완료 | 153 | HCV·HIV-1 동시 감염 성인에서 glecaprevir/pibrentasvir의 효능과 안전성 평가(HCV 지속바이러스반응이 평가변수) |
+| [NCT03235349](https://clinicaltrials.gov/study/NCT03235349) | Phase 3 | 완료 | 160 | 대상성 간경변이 있는 아시아 성인 HCV 환자(HIV 동시 감염 포함 가능)에서 효능·안전성 평가 |
+| [NCT03222583](https://clinicaltrials.gov/study/NCT03222583) | Phase 3 | 완료 | 546 | 간경변이 없는 아시아 성인 HCV 환자(HIV 동시 감염 포함 가능)에서 위약 대조 평가 |
+| [NCT02634008](https://clinicaltrials.gov/study/NCT02634008) | Phase 3 | 완료 | 83 | 최근 HCV에 감염된 환자(HIV 동시 감염 포함 가능)를 대상으로 한 파일럿 연구 |
+| [NCT04042740](https://clinicaltrials.gov/study/NCT04042740) | Phase 2 | 완료 | 45 | 급성 C형간염(HIV-1 동시 감염 포함 가능)에서 4주 투여 효능 평가 |
+| [NCT03823911](https://clinicaltrials.gov/study/NCT03823911) | Phase 4 | 완료 | 87 | HIV·HCV 환자에서 HCV 완치 후 심혈관 위험 변화 평가 |
+| [NCT07040319](https://clinicaltrials.gov/study/NCT07040319) | Phase 1/2 | 모집 중 | 30 | 임신 중 HCV 여성(HIV 동시 감염 포함 가능)에서 약동학 및 안전성 평가 |
 
 ## 문헌 근거
 
+HIV 감염증 치료를 직접 다룬 문헌은 없습니다. 아래 문헌은 HIV·HCV 동시 감염 환자의 C형간염 치료 또는 약물 상호작용을 다룹니다.
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [37671831](https://pubmed.ncbi.nlm.nih.gov/37671831/) | 2023 | Cohort | J Antimicrob Chemother | 실제 진료 환경의 HIV/HCV 동반감염 환자에서 G/P의 SVR 반응 평가 |
-| [39697370](https://pubmed.ncbi.nlm.nih.gov/39697370/) | 2024 | 실사용 연구 | Clin Exp Hepatol | bictegravir/emtricitabine/TAF 투여 중인 HIV/HCV 환자에서 G/P의 효과·안전성 |
-| [31504702](https://pubmed.ncbi.nlm.nih.gov/31504702/) | 2020 | 약물상호작용 연구 | J Infect Dis | G/P와 HIV 항레트로바이러스제 병용 시 약물상호작용 |
-| [31284039](https://pubmed.ncbi.nlm.nih.gov/31284039/) | 2019 | 체계적 문헌고찰·메타분석 | Int J Antimicrob Agents | 13개 연구 3,082명에서 HCV 전체 SVR12 97.8% |
-| [41297677](https://pubmed.ncbi.nlm.nih.gov/41297677/) | 2026 | 단일군 시험 | J Hepatol | 급성 HCV 성인에서 8주 G/P의 효능·안전성 |
-| [30499343](https://pubmed.ncbi.nlm.nih.gov/30499343/) | 2019 | Review | Future Microbiol | 만성 HCV에서 G/P 개관 |
-| [29595065](https://pubmed.ncbi.nlm.nih.gov/29595065/) | 2018 | Review | Expert Opin Pharmacother | HCV 프로테아제 억제제 치료 개관 |
-| [31114957](https://pubmed.ncbi.nlm.nih.gov/31114957/) | 2019 | Review | Clin Pharmacokinet | HCV 치료제의 약동학·약력학 고려사항 |
-
-이 문헌들은 모두 HCV 치료 또는 HIV/HCV 동반감염 환자의 HCV 치료를 다루며, HIV 자체에 대한 항바이러스 효과를 보고한 문헌은 없습니다.
+| [37671831](https://pubmed.ncbi.nlm.nih.gov/37671831/) | 2023 | 코호트 | J Antimicrob Chemother | 임상시험 밖 실제 진료에서 HIV·HCV 동시 감염 환자의 glecaprevir/pibrentasvir 반응 평가 |
+| [39697370](https://pubmed.ncbi.nlm.nih.gov/39697370/) | 2024 | 실제 임상 연구 | Clin Exp Hepatol | bictegravir/emtricitabine/tenofovir alafenamide 복용 중인 HIV·HCV 환자에서 glecaprevir/pibrentasvir의 효과와 안전성 평가 |
+| [31504702](https://pubmed.ncbi.nlm.nih.gov/31504702/) | 2020 | 약물 상호작용 연구 | J Infect Dis | glecaprevir/pibrentasvir와 HIV 항레트로바이러스제 병용 시 약물 상호작용 평가 |
+| [31284039](https://pubmed.ncbi.nlm.nih.gov/31284039/) | 2019 | 체계적 문헌고찰·메타분석 | Int J Antimicrob Agents | 만성 HCV 감염에서 glecaprevir/pibrentasvir의 효능과 안전성을 13개 연구로 종합 |
+| [29595065](https://pubmed.ncbi.nlm.nih.gov/29595065/) | 2018 | 리뷰 | Expert Opin Pharmacother | HCV 단백질분해효소 억제제 치료 개관(HIV 동시 감염 언급) |
+| [30499343](https://pubmed.ncbi.nlm.nih.gov/30499343/) | 2019 | 리뷰 | Future Microbiol | glecaprevir/pibrentasvir 개관 |
+| [31114957](https://pubmed.ncbi.nlm.nih.gov/31114957/) | 2019 | 리뷰 | Clin Pharmacokinet | HCV 치료제의 약동학·약력학 고려사항 |
+| [41297677](https://pubmed.ncbi.nlm.nih.gov/41297677/) | 2026 | 단일군 시험 | J Hepatol | 급성 HCV 성인에서 8주 glecaprevir/pibrentasvir의 효능·안전성 평가 |
 
 ## 한국 시판 정보
 
@@ -96,28 +95,29 @@ HIV는 레트로바이러스로 역전사를 통해 복제하며, HCV NS3/4A와 
 
 ## 안전성 고려사항
 
-- **약물 상호작용**: 총 57건이 확인되었으며, 주요 항목은 다음과 같습니다.
-  - **Major**: rosuvastatin, simvastatin, edoxaban
-  - **Moderate**: dexamethasone, esomeprazole, omeprazole, apixaban, betrixaban, cobicistat, deferasirox, metreleptin, naldemedine, lusutrombopag, revefenacin, griseofulvin, troglitazone
-  - **Minor**: fidaxomicin, naloxegol, prucalopride, indacaterol
-- **참고**: HCV 직접작용 항바이러스제 투여 시 HBV 동반감염 환자에서 HBV 재활성화 위험이 알려져 있습니다. 이는 안전성 고려사항이며 치료 효과가 아닙니다.
+허가사항의 경고 및 금기 정보는 수집되지 않았으므로 허가사항을 참조하세요.
 
-경고 및 금기 사항은 허가사항을 참조하세요.
+- **약물 상호작용**: 총 57건이 확인되었습니다.
+  - **주요(Major)**: rosuvastatin, simvastatin, edoxaban
+  - **중등도(Moderate)**: dexamethasone, esomeprazole, omeprazole, apixaban, betrixaban, cobicistat, deferasirox 등
+  - **경미(Minor)**: fidaxomicin, naloxegol, prucalopride, indacaterol 등
+
+HIV 치료제와 병용할 때는 별도의 상호작용 검토가 필요합니다. 관련 연구로 PMID 31504702가 있습니다.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-HIV 관련 임상시험은 모두 HIV/HCV 동반감염 환자의 HCV 치료를 평가한 것으로, 이미 허가된 사용 범위입니다. HIV 자체에 대한 항바이러스 활성 근거는 없으며 기전상 연결고리도 불충분하므로, 높은 TxGNN 점수만으로 재창출을 진행하기는 어렵습니다.
+- HIV 감염증에 대한 근거는 모델 예측뿐이며, 근거 수준은 L5입니다. HIV 관련 임상시험과 문헌은 모두 HIV·HCV 동시 감염 환자의 C형간염 치료를 다룰 뿐, HIV 감염 자체의 치료를 평가하지 않았습니다.
+- glecaprevir의 표적은 HCV 단백질분해효소로, HIV에 대한 직접적인 기전 근거도 없습니다.
 
 **진행하려면 필요한 것:**
-- HIV 복제에 대한 glecaprevir의 in vitro 항바이러스 활성 자료
-- 상세한 작용 기전(MOA) 데이터 확보
-- 허가사항(경고·금기) 원문 확인 및 안전성 검토
-- 허가 적응증 본문 확인
+- HIV 단백질분해효소 등 HIV 표적에 대한 in vitro 항바이러스 활성 자료
+- 상세한 작용 기전(MOA) 데이터
+- 허가사항(경고, 금기)의 확인 및 안전성 검토
+- HIV 감염 자체를 대상으로 한 전임상 및 초기 임상 근거
 
-**참고 (다른 예측 적응증):** B형 간염, A형 간염, E형 간염, 동물 바이러스성 간염, 심ian/고양이 면역결핍 관련 질환, 옴스크 출혈열, 키야사누르 산림병, 희귀 신경발달장애 등 나머지 예측 적응증도 모두 Hold입니다. A형 간염에 연결된 임상시험은 실제로는 HCV 시험이며, 진드기 매개 플라비바이러스 질환은 NS3 프로테아제 보존성에 근거한 추측일 뿐 실증 근거가 없습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

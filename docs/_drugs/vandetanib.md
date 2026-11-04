@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vandetanib
-parent: 높은 근거 (L1-L2)
+parent: 중등도 근거 (L3-L4)
 nav_order: 778
-evidence_level: L2
+evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
-description: "Vandetanib: 예측 신규 적응증 신세포암 (Renal Cell Carcinoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인 불가 (허가사항 문서 링크만 제공됨)"
+last_modified_at: 2026-11-04
 monitor_inn: "Vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
+description: "Vandetanib: 예측 신규 적응증 신세포암 (renal cell carcinoma (disease)) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307454/EE"
 ---
 
 # Vandetanib
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **10** 건
+근거 수준: **L3** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,51 +33,53 @@ predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma 
 
 </div>
 
-## Vandetanib: 한국 허가 적응증에서 신세포암(Renal Cell Carcinoma)으로
+## Vandetanib: 신세포암 (renal cell carcinoma (disease))
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Vandetanib은 VEGFR-2, EGFR, RET 티로신 키나제를 억제하는 경구 항종양제로, 한국에서 단일제 형태(카프렐사정)로 허가되어 시판 중입니다. TxGNN 모델은 **신세포암(Renal Cell Carcinoma)**에 효과가 있을 수 있다고 예측하며, 현재 **4건의 임상시험**(대부분 소규모 또는 조기 종료된 2상)과 **5편의 문헌**(대부분 리뷰 및 전임상)이 이 방향을 부분적으로 지지합니다.
+Vandetanib은 VEGFR-2, EGFR, RET 티로신 키나제를 억제하는 경구 항종양 약물입니다. TxGNN 모델은 **신세포암 (renal cell carcinoma (disease))**에 효과가 있을 수 있다고 예측합니다. 직접 관련된 임상시험은 소규모 또는 조기 종료된 Phase 2 시험 3건이며, 간접적으로 관련된 시험 1건을 포함해 총 4건입니다. 문헌은 대부분 종설, 전임상 연구, 약물군 안전성 메타분석입니다. 근거 수준은 **L3**입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인 불가 (허가사항 문서 링크만 제공됨) |
-| 예측 신규 적응증 | 신세포암 (Renal Cell Carcinoma) |
+| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307454/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307453/EE |
+| 예측 신규 적응증 | 신세포암 (renal cell carcinoma (disease)) |
 | TxGNN 예측 점수 | 0.9992 |
-| 근거 수준 | L2 (3상 근거 없음, 완료된 2상 시험이 있으나 소규모·단일군 또는 간접적 모집단) |
+| 근거 수준 | L3 |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
 | 허가증 수 | 2건 (유효 2건) |
-| 권장 결정 | Hold (연구 질문 단계로 추가 근거 필요) |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 DrugBank 등에서 확보되지 않았습니다. 다만 이 보고서를 위해 수집된 자료에 따르면, Vandetanib은 VEGFR-2, EGFR, RET 티로신 키나제를 억제하는 다중 키나제 억제제입니다.
+Vandetanib은 VEGFR-2, EGFR, RET 티로신 키나제를 억제하는 다중 키나제 억제제입니다. 현재 상세한 작용 기전(MOA) 데이터베이스 항목은 확보되지 않았으며, 아래 설명은 이 보고서를 위해 정리한 데이터에 근거합니다.
 
-신세포암, 특히 투명세포 신세포암에서는 VHL 유전자 불활성화로 HIF가 안정화되고 VEGF가 과발현됩니다. 따라서 VEGFR-2 억제를 통한 혈관신생 차단은 기전상 타당한 접근이며, 이미 승인된 여러 신세포암 치료제(TKI)도 같은 경로를 표적으로 합니다.
+신세포암, 특히 투명세포형에서는 VHL 유전자가 비활성화되면서 HIF가 안정화되고 VEGF가 과발현됩니다. 따라서 VEGFR-2 억제를 통한 항혈관신생 작용은 기전상 타당한 접근입니다.
 
-다만 완료된 2상 시험은 규모가 작거나 특정 유전적 하위군(VHL병)에 한정되어 있고, 두 건은 매우 적은 환자 수로 조기 종료되었습니다. 기존 승인 TKI 대비 이점을 보여주는 3상 근거도 없습니다. 기존 적응증과 신규 적응증 간 유사성 평가는 아직 이루어지지 않았습니다.
+다만 직접 근거는 제한적입니다. 완료된 시험은 규모가 작거나 특정 유전적 하위군(VHL병)에 국한되어 있습니다. 투명세포 신세포암 시험과 HLRCC/SDH 관련 신장암 시험은 각각 3명, 7명만 등록된 채 조기 종료되었습니다. 이미 사용 중인 신세포암 표적치료제 대비 이점을 보여주는 Phase 3 근거도 없습니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT00566995](https://clinicaltrials.gov/study/NCT00566995) | Phase 2 | 완료 | 37 | VHL병 및 신장 종양 환자 대상 단일군 시험. VHL/VEGF 축을 직접 겨냥하나 희귀 유전 질환 집단이며 결과 수치는 제공되지 않음 |
-| [NCT01372813](https://clinicaltrials.gov/study/NCT01372813) | Phase 2 | 종료(조기 중단) | 3 | 진행성 투명세포 신세포암 대상. 3명만 등록되어 해석 가능한 효능 자료 없음 |
-| [NCT02495103](https://clinicaltrials.gov/study/NCT02495103) | Phase 1/2 | 종료(조기 중단) | 7 | HLRCC/SDH 관련 신장암 및 산발성 유두상 신세포암에서 Vandetanib + Metformin 병용. 7명 등록으로 효능 결론 불가 |
-| [NCT01191892](https://clinicaltrials.gov/study/NCT01191892) | Phase 2 | 완료 | 82 | 시스플라틴 부적합 진행성 요로상피암에서 Carboplatin/Gemcitabine ± Vandetanib 무작위 시험. 신우암을 포함할 수 있으나 일반 신세포암에는 간접적이며 결과는 제공되지 않음 |
+| [NCT00566995](https://clinicaltrials.gov/study/NCT00566995) | Phase 2 | 완료 | 37 | VHL병 환자의 신장 종양에서 vandetanib 평가. 단일군 시험이며 희귀 유전성 집단 대상 (가장 직접적인 근거) |
+| [NCT01372813](https://clinicaltrials.gov/study/NCT01372813) | Phase 2 | 조기 종료 | 3 | 진행성 투명세포 신세포암 대상. 3명만 등록되어 해석 가능한 효능 자료 없음 |
+| [NCT02495103](https://clinicaltrials.gov/study/NCT02495103) | Phase 1/2 | 조기 종료 | 7 | HLRCC·SDH 관련 신장암 및 산발성 유두상 신세포암에서 metformin 병용. 7명만 등록되어 효능 결론 불가 |
+| [NCT01191892](https://clinicaltrials.gov/study/NCT01191892) | Phase 2 | 완료 | 82 | 진행성 요로상피암에서 carboplatin/gemcitabine ± vandetanib 무작위 비교. 통상적인 신세포암이 아니어서 간접 근거 |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [40779213](https://pubmed.ncbi.nlm.nih.gov/40779213/) | 2025 | Review | Clin Exp Metastasis | 전이성 푸마르산 수화효소 결핍 신세포암의 대사·후성유전 표적 치료. 표준 치료가 없으며 여러 2상 시험이 표적치료 병용을 평가 중 |
-| [26677336](https://pubmed.ncbi.nlm.nih.gov/26677336/) | 2015 | Review | OncoTargets Ther | Nintedanib 중심의 항혈관신생제 개관. Vandetanib을 포함한 항혈관신생 TKI가 여러 암에서 승인되었음을 언급 |
-| [42107510](https://pubmed.ncbi.nlm.nih.gov/42107510/) | 2026 | Review | Pharmacol Res | RET 주도 갑상선암·폐암에서의 RET 억제제 개관. 신세포암 효능과는 직접 관련 없음 |
-| [24451769](https://pubmed.ncbi.nlm.nih.gov/24451769/) | 2012 | Review | ASCO Educ Book | 진행성 갑상선암의 전신 치료. Vandetanib이 수질 갑상선암에서 승인된 배경 설명 |
-| [31043488](https://pubmed.ncbi.nlm.nih.gov/31043488/) | 2019 | 전임상 | Mol Cancer Res | TFE3 Xp11.2 전좌 신세포암 마우스 모델. 새로운 치료 표적을 제시하나 Vandetanib 자체의 효과를 평가한 것은 아님 |
+| [40779213](https://pubmed.ncbi.nlm.nih.gov/40779213/) | 2025 | 종설 | Clin Exp Metastasis | 푸마르산 하이드라타제 결핍 신세포암의 표적치료 병용요법을 평가하는 Phase 2 시험들 정리 |
+| [31043488](https://pubmed.ncbi.nlm.nih.gov/31043488/) | 2019 | 전임상 | Mol Cancer Res | TFE3 전위 신세포암 마우스 모델에서 새로운 치료 표적 제시. vandetanib 직접 평가는 아님 |
+| [26677336](https://pubmed.ncbi.nlm.nih.gov/26677336/) | 2015 | 종설 | OncoTargets Ther | vandetanib 등 항혈관신생 약물의 고형암 치료 맥락 개관 |
+| [23981115](https://pubmed.ncbi.nlm.nih.gov/23981115/) | 2014 | 메타분석 | Br J Clin Pharmacol | 항혈관신생 TKI의 간독성 발생률 및 상대위험도 |
+| [22651902](https://pubmed.ncbi.nlm.nih.gov/22651902/) | 2012 | 메타분석 | Cancer Treat Rev | VEGFR TKI 치료 관련 사망 위험 |
+| [32105149](https://pubmed.ncbi.nlm.nih.gov/32105149/) | 2020 | 메타분석 | Expert Rev Clin Pharmacol | vandetanib을 포함한 VEGFR-TKI의 단백뇨 발생률 및 위험 |
+| [20346054](https://pubmed.ncbi.nlm.nih.gov/20346054/) | 2011 | 전임상 | BJU Int | 신세포암 이종이식 마우스에서 TKI 치료가 항체 cG250 축적에 미치는 영향 |
 
 ## 한국 시판 정보
 
@@ -86,47 +88,43 @@ Vandetanib은 VEGFR-2, EGFR, RET 티로신 키나제를 억제하는 경구 항�
 | 201307454 | 카프렐사정300밀리그램(반데타닙) | 필름 코팅정 (타원형) | 적응증 원문 미제공 (허가사항 문서 참조) |
 | 201307453 | 카프렐사정100밀리그램(반데타닙) | 필름 코팅정 (원형) | 적응증 원문 미제공 (허가사항 문서 참조) |
 
-두 제품 모두 (주)사노피-아벤티스코리아가 보유한 유효한 단일제 허가입니다.
-
 ## 세포독성
 
 | 항목 | 내용 |
 |------|------|
-| 세포독성 분류 | 표적치료제 (다중 티로신 키나제 억제제: VEGFR-2, EGFR, RET) |
+| 세포독성 분류 | 표적치료제 (다중 티로신 키나제 억제제) |
 | 골수억제 위험 | 허가사항의 경고 및 주의사항을 참조하세요 |
 | 구토 유발성 등급 | 허가사항의 경고 및 주의사항을 참조하세요 |
-| 모니터링 항목 | QT 간격 연장 위험(심전도, 전해질), 간기능, 단백뇨 (VEGFR TKI 계열 문헌 근거) |
+| 모니터링 항목 | QT 간격 연장 위험이 보고되어 심전도 모니터링 고려. 약물군 문헌상 간기능, 단백뇨 확인 필요 |
 | 취급 방호 | 허가사항의 경고 및 주의사항을 참조하세요 |
 
 ## 안전성 고려사항
 
-- **주요 경고**: 허가사항 기반 경고 정보는 확보되지 않았습니다. 다만 계열 효과 및 문헌에서 QT 간격 연장 위험, 간독성, 단백뇨, 치료 관련 사망 위험(VEGFR TKI 메타분석), 광독성이 보고되어 있어 주의가 필요합니다.
-- **약물 상호작용**: 총 100건이 확인되었으며, 이 중 주요(Major) 등급은 다음과 같습니다.
-  - Clarithromycin
-  - Levofloxacin
-  - Dolasetron
-  - Palonosetron
-  - Picosulfuric acid
-  - Polyethylene glycol (전해질 포함 3350)
-  - Sodium sulfate
+- **약물군 수준의 안전성 신호**: VEGFR TKI 계열에서는 간독성, 단백뇨, 치료 관련 사망 위험이 메타분석으로 보고되어 있습니다. 또한 QT 간격 연장 위험이 있습니다.
+- **약물 상호작용**: 총 100건이 확인되었으며, 이 중 20건의 상세 내용이 확인되었습니다. 주요(Major) 등급은 다음과 같습니다.
+  - 항생제: Clarithromycin, Levofloxacin
+  - 항구토제: Dolasetron, Palonosetron
+  - 장 세척·하제 계열: Picosulfuric acid, Polyethylene glycol (3350 with electrolytes), Sodium sulfate
+- **중등도(Moderate) 상호작용**: Famotidine, Metformin, Loperamide, Dexamethasone, Bisacodyl, Lactitol
+- **경미(Minor) 상호작용**: Ranitidine, Rabeprazole, Dexlansoprazole, Omeprazole, Lansoprazole, Naloxegol, Metronidazole
 
-  중등도(Moderate) 상호작용으로는 Famotidine, Metformin, Loperamide, Dexamethasone, Bisacodyl, Lactitol 등이 있습니다. QT 연장 약물 및 전해질 이상을 유발하는 약물과의 병용에 특히 유의해야 합니다.
-
-나머지 안전성 정보(금기 등)는 허가사항을 참조하세요.
+QT 간격 연장 위험이 있는 약물(항구토제, 일부 항생제 등)과의 병용은 특히 주의가 필요합니다. 허가사항의 경고 및 금기 정보는 이 보고서에 반영되지 않았으므로 허가사항을 직접 확인하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-신세포암에 대한 기전적 근거(VHL-HIF-VEGF 축)는 타당하지만, 완료된 2상 시험은 소규모 단일군(VHL병, n=37)이거나 간접적 모집단이고, 직접 관련된 두 건은 3명, 7명으로 조기 종료되었습니다. 3상 근거가 없고 기존 승인 TKI 대비 이점도 입증되지 않았으며, QT 연장 등 안전성 부담이 있어 현 단계에서는 연구 질문 수준으로 보는 것이 적절합니다. 신세포암 하위 유형 중 연관 예측(소아 신세포암, 신경모세포종 연관 신세포암, 혈관지방종, 가족성 자연기흉 등)은 임상·문헌 근거가 전혀 없어 보류가 적절합니다.
+- 근거 수준은 L3입니다. VHL병 환자의 신장 종양을 대상으로 한 완료된 Phase 2 시험(NCT00566995) 1건이 가장 직접적인 근거입니다.
+- 다른 신세포암 시험은 3명, 7명만 등록된 채 조기 종료되어 효능 결론을 낼 수 없습니다.
+- Phase 3 근거가 없고, 약물군 안전성 신호(QT 연장, 간독성, 단백뇨)가 있어 즉시 진행하기는 어렵습니다.
 
 **진행하려면 필요한 것:**
-- 허가사항(MFDS 첨부문서) 확보 및 분석: 경고, 금기, 허가 적응증 확인 (현재 차단 수준의 자료 공백)
-- DrugBank 등에서 작용 기전 데이터 보충
-- NCT00566995(VHL병 2상)의 결과 데이터 확인 및 반응률·무진행생존 평가
-- 기존 승인 신세포암 TKI와 비교한 효능·안전성 검토, 필요 시 적절한 설계의 추가 2상 시험
-- QT 연장, 간독성, 단백뇨에 대한 모니터링 계획 수립
+- NCT00566995의 결과(반응률, 무진행 생존기간, 안전성)를 확보하고 평가
+- 기존 신세포암 표적치료제 대비 이점을 검증하는 비교 시험 설계
+- 한국 허가사항(경고·금기 및 주의사항) 확인과 QT 간격 및 상호작용 관리 계획 수립
+- 상세 작용 기전 데이터(MOA) 보완
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
