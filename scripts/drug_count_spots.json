@@ -1,0 +1,6 @@
+[
+  [
+    "docs/index.md",
+    "(^description: \"TxGNN 약물재창출 보고서: 의약품안전나라\\(nedrug\\) 허가 의약품 )([\\d,]+)(개)"
+  ]
+]

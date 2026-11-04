@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 약물 재창출 예측 — 대한민국
+description: "TxGNN 약물재창출 보고서: 의약품안전나라(nedrug) 허가 의약품 673개에 대해 임상시험·문헌 근거에 따른 L1–L5 근거 수준을 제공합니다."
 nav_order: 1
 ---
 
@@ -18,7 +19,20 @@ nav_order: 1
 
 이 사이트는 [MFDS](https://www.mfds.go.kr/) 허가 정보(대한민국)에 수록된 의약품 **{{ site.data.drug_stats.total_drugs }}**개 품목의 보고서를 공개합니다.
 
-근거 수준별 보고서 수: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+데이터셋: [의약품안전나라(nedrug) 의약품 검색](https://nedrug.mfds.go.kr/searchDrug). 매주 월요일 자동으로 내려받아 대조합니다. 자세한 내용: [데이터 출처]({{ '/sources/' | relative_url }}).
+
+근거 수준별 보고서 수:
+
+| 근거 수준 | 보고서 수 | 비율 |
+|---|---|---|
+| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+
+이 사이트의 예측 약물–질환 쌍 94개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
 
 ### 이 사이트에서 근거 수준이 가장 높은 의약품
 
@@ -26,14 +40,14 @@ nav_order: 1
 |---|---|
 | [Bromfenac](/drugs/bromfenac/) | L1 |
 | [Busulfan](/drugs/busulfan/) | L1 |
-| [Lanadelumab](/drugs/lanadelumab/) | L1 |
-| [Rifabutin](/drugs/rifabutin/) | L1 |
-| [Tegafur](/drugs/tegafur/) | L1 |
 | [Cefprozil](/drugs/cefprozil/) | L1 |
-| [Hydrocortisone](/drugs/hydrocortisone/) | L1 |
-| [Hydrocortisone Acetate](/drugs/hydrocortisone-acetate/) | L1 |
 | [Clofarabine](/drugs/clofarabine/) | L1 |
 | [Doxorubicin](/drugs/doxorubicin/) | L1 |
+| [Ketorolac](/drugs/ketorolac/) | L1 |
+| [Dapsone](/drugs/dapsone/) | L1 |
+| [Acetylcysteine](/drugs/acetylcysteine/) | L2 |
+| [Desoximetasone](/drugs/desoximetasone/) | L2 |
+| [Diazepam](/drugs/diazepam/) | L2 |
 
 ### 30개 TxGNN 사이트 중 이 사이트에만 수록된 의약품
 
@@ -84,23 +98,11 @@ KrTxGNN은 [TxGNN](https://github.com/mims-harvard/TxGNN) 모델(딥러닝)을 �
 ## 면책 조항
 
 {: .important }
-본 프로젝트의 결과는 연구 참고용으로만 제공됩니다. 약물재창출 후보는 임상 검증을 거쳐야 적용할 수 있습니다.
-
-The results of this project are for research reference only and do not constitute medical advice. Drug repurposing candidates require clinical validation before application.
+본 프로젝트의 결과는 연구 참고용으로만 제공되며, 의료 조언을 구성하지 않습니다. 약물재창출 후보는 임상 검증을 거쳐야 적용할 수 있습니다.
 
 ---
 
 ## 개발사 소개
 
-본 플랫폼은 **藥提醒科技有限公司** (yao.care, 사업자등록번호 83620786, 12F, No. 220, Sec. 2,
-Taiwan Blvd., West Dist., Taichung City, Taiwan)가 개발하고 운영합니다.
-
-KrTxGNN은 이 회사의 "TxGNN 약물재창출" 제품군 중 대한민국 사이트입니다.
-동일한 시스템이 30개 국가 및 지역에 배포되어 있으며, 각각 `{CC}TxGNN`
-(JpTxGNN, UsTxGNN, DETxGNN 등)으로 명명되어 `{cc}txgnn.yao.care`에서 운영됩니다.
-제품 개요: <https://www.yao.care/medical/txgnn/>.
-
-TxGNN 모델 자체는 Harvard Medical School의 Zitnik Lab이 개발하여 *Nature Medicine*에
-발표했습니다. 본 플랫폼은 藥提醒科技有限公司가 해당 모델을 기반으로 구축한 운영 시스템으로,
-국가별 의약품 허가 데이터 통합, 지식 그래프에 이미 기록된 용도를 제외한 딥러닝 예측, PubMed / ClinicalTrials
-근거 등급화, SMART on FHIR 전자의무기록 연동을 포함합니다.
+본 플랫폼은 **藥提醒科技有限公司** (yao.care)가 개발하고 운영합니다. 회사 정보, TxGNN 모델의 배경,
+제품군 전체 사이트 목록은 <a href="{{ '/about/' | relative_url }}">소개</a> 페이지에서 확인할 수 있습니다.
