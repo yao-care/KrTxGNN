@@ -3,10 +3,10 @@
   "total_drugs": 673,
   "level_counts": {
     "L1": 7,
-    "L2": 26,
-    "L3": 22,
-    "L4": 40,
-    "L5": 551
+    "L2": 25,
+    "L3": 21,
+    "L4": 39,
+    "L5": 554
   },
   "all_drugs": [
     {
@@ -2580,7 +2580,7 @@
     {
       "name": "Modafinil",
       "slug": "modafinil",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 1
     },
     {
@@ -2796,7 +2796,7 @@
     {
       "name": "Omalizumab",
       "slug": "omalizumab",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -3474,7 +3474,7 @@
     {
       "name": "Sirolimus",
       "slug": "sirolimus",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 6
     },
     {

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Omalizumab
-parent: 높은 근거 (L1-L2)
+parent: 모델 예측만 (L5)
 nav_order: 563
-evidence_level: L2
+evidence_level: L5
 indication_count: 9
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 last_modified_at: 2026-11-04
-description: "Omalizumab: 예측 신규 적응증 기관지염 (bronchitis) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602975/EE"
+description: "Omalizumab: 예측 신규 적응증 기관지염 (bronchitis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602975/EE"
 ---
 
 # Omalizumab
 {: .fs-9 }
 
-근거 수준: **L2** | 예측 적응증: **9** 건
+근거 수준: **L5** | 예측 적응증: **9** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,8 +38,7 @@ description: "Omalizumab: 예측 신규 적응증 기관지염 (bronchitis) (근
 
 ## 한 문장 요약
 
-Omalizumab은 유리 IgE에 결합하는 항IgE 단클론항체입니다.
-TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 예측하며, 관련 **임상시험 2건**과 **문헌 7편**이 확인되었습니다. 이 중 호산구성 기관지염을 직접 다룬 무작위 이중맹검 위약대조 시험(NCT02049294)이 있어 근거 수준은 **L2**입니다. 다만 이 시험은 참여자가 11명뿐이어서 해석에 한계가 있습니다.
+Omalizumab은 유리 IgE에 결합하는 항IgE 단클론항체입니다. TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 연구한 근거는 확인되지 않았습니다. 이 방향과 관련된 자료는 임상시험 2건과 문헌 7편이지만, 기관지염에서 효능을 뒷받침하는 연구는 없어 근거 수준은 **L5**입니다.
 
 ## 빠른 개요
 
@@ -48,36 +47,38 @@ TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 �
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602975/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704778/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400492/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202503335/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401521/EE |
 | 예측 신규 적응증 | 기관지염 (bronchitis) |
 | TxGNN 예측 점수 | 1.0000 |
-| 근거 수준 | L2 |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 6건) |
 | 허가증 수 | 6건 (유효 5건) |
-| 권장 결정 | Proceed with Guardrails |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 알려진 정보에 따르면 Omalizumab은 유리 IgE에 결합해 혈중 유리 IgE를 낮추고, 비만세포와 호염기구의 FcεRI 매개 활성화를 줄입니다. 이 작용은 알레르기성 기도 염증과 관련이 있습니다.
+현재 상세한 작용 기전(MOA) 데이터는 없습니다. 알려진 정보로는 omalizumab이 유리 IgE에 결합해 혈중 IgE를 낮추고, 비만세포와 호염기구의 FcεRI 매개 활성화를 줄입니다. 이 작용은 알레르기성 기도 염증과 관련이 있어, IgE가 주도하는 기도 질환에서는 기전상 적용 가능성을 생각해 볼 수 있습니다.
 
-기관지염에 대한 근거는 대부분 천식이나 호산구성 염증이 있는 환자군에서 나왔습니다. 기관지염 일반에 대한 직접적 근거는 아닙니다. 따라서 이 연결은 간접적이며, IgE 또는 호산구 중심의 표현형(phenotype)을 가진 환자에게 적용될 때 타당성이 가장 큽니다.
+다만 이 연결은 간접적입니다. 기관지염에 관한 자료는 대부분 천식 환자군이나 기도질환 전반을 다룬 연구에서 나왔고, 기관지염 자체를 정의된 질환으로 평가한 연구는 아닙니다. 따라서 IgE가 병태를 주도하는 특정 표현형에서만 가설이 성립할 수 있으며, 높은 예측 점수만으로 효능을 뒷받침하기는 어렵습니다.
 
 ## 임상시험 근거
 
 | 시험 번호 | 단계 | 상태 | 참여자 수 | 주요 발견 |
 |---------|------|------|----------|---------|
-| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | Phase 2/3 | 완료 | 11 | 지속성 호산구성 기관지염에서 Omalizumab 추가 시 프레드니손 용량을 줄일 수 있는지 평가한 무작위 이중맹검 위약대조 시험. 표본이 작음 |
-| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | Phase 2 | 완료 | 382 | QGE031(항IgE 계열)의 용량 탐색 시험. 대상이 만성 자발성 두드러기여서 기관지염을 직접 뒷받침하지는 않음 |
+| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | Phase 2/3 | 완료 | 11 | 지속성 호산구성 기관지염 환자에서 omalizumab의 스테로이드 절감 효과를 보는 이중맹검 위약대조 시험입니다. 실제 보고된 대상은 지속적인 객담 호산구증가를 동반한 중증 천식 환자였고, omalizumab의 효과는 충분하지 않았을 가능성이 있습니다. 규모가 매우 작아 기관지염 근거로 쓰기 어렵습니다. |
+| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | Phase 2 | 완료 | 382 | 만성 자발성 두드러기 환자 대상 QGE031 용량탐색 시험입니다. 기관지염 대상이 아니어서 간접 근거일 뿐입니다. |
 
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
-| [21121874](https://pubmed.ncbi.nlm.nih.gov/21121874/) | 2011 | 안전성 분석(통합 시험 자료) | Curr Med Res Opin | 알레르기성 천식 소아에서 Omalizumab의 안전성과 내약성 평가 |
-| [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Review | Clin Rev Allergy Immunol | 중등도~중증 지속성 천식에서 Omalizumab의 효능과 허가 후 경험 정리 |
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Expert Opin Pharmacother | 흡연으로 인한 기도질환(만성 기관지염 포함)을 동반한 천식 환자의 치료 과제 |
-| [26466493](https://pubmed.ncbi.nlm.nih.gov/26466493/) | 2015 | Review | Masui | 기관지 천식 또는 만성 기관지염 환자의 수술 전 관리. Omalizumab을 중증 알레르기 환자용 선택지로 언급 |
-| [17663923](https://pubmed.ncbi.nlm.nih.gov/17663923/) | 2007 | Review | Allergol Immunopathol | 소아에서 단클론항체의 예방·치료 활용 개관 |
-| [31478531](https://pubmed.ncbi.nlm.nih.gov/31478531/) | 2019 | Case report | J Investig Allergol Clin Immunol | 기관지 온열성형술 후 발생한 플라스틱 기관지염 증례 |
+| [16222080](https://pubmed.ncbi.nlm.nih.gov/16222080/) | 2005 | Review | Clin Rev Allergy Immunol | 중등도~중증 지속성 천식에서 omalizumab의 효능과 허가 후 경험을 정리했습니다. 기관지염은 다루지 않습니다. |
+| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Expert Opin Pharmacother | 만성 기관지염 등 흡연 관련 기도질환을 동반한 천식 환자의 치료 과제를 논의했습니다. 이런 환자는 대부분의 임상시험에서 제외되어 약물 치료의 불확실성이 큽니다. |
+| [26466493](https://pubmed.ncbi.nlm.nih.gov/26466493/) | 2015 | Review | Masui | 기관지 천식 또는 만성 기관지염 환자의 수술 전 관리를 다룹니다. omalizumab은 치료 선택지로만 언급됩니다. |
+| [31478531](https://pubmed.ncbi.nlm.nih.gov/31478531/) | 2019 | Case report | J Investig Allergol Clin Immunol | 기관지 열성형술 후 발생한 플라스틱 기관지염 1례입니다. 효능 근거는 아닙니다. |
+| [21121874](https://pubmed.ncbi.nlm.nih.gov/21121874/) | 2011 | 안전성 분석 | Curr Med Res Opin | 알레르기성 천식 소아에서 omalizumab의 안전성과 내약성을 통합 분석했습니다. |
+| [17663923](https://pubmed.ncbi.nlm.nih.gov/17663923/) | 2007 | Review | Allergol Immunopathol | 소아에서 단클론항체의 예방·치료 활용을 개괄했습니다. 기관지염 특이 근거는 없습니다. |
 
 ## 한국 시판 정보
+
+유효한 허가증 5건 중 제품별 정보입니다. 허가 적응증 원문은 텍스트가 아닌 허가정보 링크로만 확인되며, 별도로 취소된 허가증이 1건 있습니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
@@ -90,25 +91,23 @@ TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 �
 ## 안전성 고려사항
 
 - **약물 상호작용**: 총 8건이 확인되었습니다.
-  - 중등도: Omacetaxine mepesuccinate
-  - 경미: 황산아연, 아세트산아연, 글루콘산아연, 염화아연, Echinacea, 비타민 E
-  - 표적 정보: Omalizumab은 면역글로불린 E(IgE) 중쇄(IGHE)를 표적으로 하는 항체입니다.
-
-그 밖의 경고 및 금기 사항은 허가사항을 참조하세요.
+  - 중등도: omacetaxine mepesuccinate
+  - 경미: 황산아연, 아세트산아연, 글루콘산아연, 염화아연, 에키네시아, 비타민 E
+  - 이 밖에 omalizumab이 IgE(IGHE)를 표적으로 하는 항체라는 약리학 정보가 있습니다.
+- 허가사항의 경고 및 금기는 이번에 정리된 자료에 없으므로 허가사항을 직접 참조하세요.
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-- 호산구성 기관지염에서 Omalizumab을 평가한 무작위 이중맹검 위약대조 시험이 완료되어 근거 수준은 L2입니다.
-- 다만 참여자가 11명뿐이고 나머지 근거는 대부분 천식 중심의 간접 근거이므로, 호산구성·IgE 매개 표현형에 한정한 제한적 탐색 연구로 진행하는 것이 적절합니다.
+기관지염에서 omalizumab의 효능을 직접 뒷받침하는 연구가 없습니다. 관련 시험은 소규모이고 대상이 천식 환자였으며, 효과가 충분하지 않았을 가능성도 있습니다. 문헌은 대부분 천식을 다룬 리뷰입니다. 예측 점수가 높아도 근거 수준은 L5이므로 현 단계에서는 보류를 권고합니다.
 
 **진행하려면 필요한 것:**
-- NCT02049294의 결과를 확인하고, 더 큰 규모의 후속 시험을 설계해야 합니다.
-- 대상 환자군(호산구성·IgE 고위험 표현형)을 명확히 정의해야 합니다.
-- 상세한 작용 기전 자료를 확보하고, 허가사항의 경고·금기 정보를 검토해야 합니다.
-- 병용 약물과의 상호작용(특히 Omacetaxine mepesuccinate)을 점검해야 합니다.
+- IgE 주도 표현형의 기관지염 환자를 정의하고, 대상 집단을 설정하는 근거 확보
+- 기관지염을 직접 평가하는 임상시험 또는 관찰 연구 자료
+- 상세한 작용 기전(MOA) 데이터와 기관지염 병태와의 기전적 연결 분석
+- 허가사항의 경고 및 금기 정보 확인
 
 ## 면책 조항
 
