@@ -1,6 +1,6 @@
 {
   "total": 646,
-  "generated_at": "2026-11-03T18:56:31.221189",
+  "generated_at": "2026-11-04T04:29:42.319269",
   "drugs": [
     {
       "name": "Abatacept",
@@ -8402,7 +8402,7 @@
     {
       "name": "Rifabutin",
       "file": "rifabutin.md",
-      "evidence_level": "L1",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Rifabutin",
