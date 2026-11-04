@@ -3,8 +3,8 @@
   "total_drugs": 673,
   "level_counts": {
     "L1": 7,
-    "L2": 25,
-    "L3": 23,
+    "L2": 26,
+    "L3": 22,
     "L4": 40,
     "L5": 551
   },
@@ -48,7 +48,7 @@
     {
       "name": "Acetylcysteine",
       "slug": "acetylcysteine",
-      "level": "L3",
+      "level": "L2",
       "indication_count": 10
     },
     {
