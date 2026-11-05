@@ -23,7 +23,7 @@ South Korea MFDS 승인 약물에 대한 TxGNN 모델 기반 약물 재창출 �
 | **총 예측 수** | 38,275,274 |
 | **고유 약물 수** | 1,166 |
 | **고유 적응증 수** | 17,041 |
-| **DDI 데이터** | 302,516 |
+| **DDI 데이터** | 160,235 |
 | **DFI 데이터** | 857 |
 | **DHI 데이터** | 35 |
 | **DDSI 데이터** | 8,359 |
@@ -219,7 +219,7 @@ PYTHONPATH=src python -m krtxgnn.predict.txgnn_model
 | **약물 데이터** | MFDS | - | South Korea |
 | **지식 그래프** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **약물 데이터베이스** | DrugBank | [DrugBank](https://go.drugbank.com/) | 약물 성분 매핑 |
-| **약물 상호작용** | DDInter 2.0 | [DDInter](https://ddinter2.scbdd.com/) | DDI 쌍 |
+| **약물 상호작용** | DDInter | [DDInter](https://ddinter2.scbdd.com/) | DDI 쌍 |
 | **약물 상호작용** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | 승인 약물 상호작용 |
 | **임상 시험** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | 임상 시험 등록 |
 | **임상 시험** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | 국제 임상 시험 플랫폼 |
