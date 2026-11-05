@@ -1,0 +1,58 @@
+{
+ "ranolazine": [
+  {
+   "sentence": "Ranolazine은 한국에서 허가된 단일 성분 서방정제로, 후기 나트륨 전류(late sodium current)를 억제하는 약물입니다.",
+   "cut": "한국에서 허가된 ",
+   "reason": "MFDS nedrug：라넥사서방정 3 張皆已취하（mfds_cancel_status.json），「한국에서 허가된」與事實矛盾；句中藥物劑型與作用機轉保留"
+  }
+ ],
+ "acipimox": [
+  {
+   "sentence": "DrugBank ID(DB09055)는 확인되었으나, TFDA(대만 식약처) 및 DrugBank API로부터 MOA 정보가 수집되지 않았습니다.",
+   "cut": "TFDA(대만 식약처) 및 ",
+   "reason": "TwTxGNN 模板殘留（本站不查 TFDA）；DrugBank、MOA 資料狀態保留"
+  }
+ ],
+ "ambroxol_hydrochloride": [
+  {
+   "sentence": "TxGNN 예측 결과가 없고, 대만 허가 이력·작용 기전·안전성 데이터가 모두 부재하여",
+   "cut": "대만 허가 이력·",
+   "reason": "TwTxGNN 模板殘留的台灣許可說法；預測與資料狀態保留"
+  }
+ ],
+ "amiloride_hydrochloride": [
+  {
+   "sentence": "작용 기전(MOA), 안전성 경고/금기, 대만 허가 이력 모두 미수집 상태로",
+   "cut": ", 대만 허가 이력",
+   "reason": "TwTxGNN 模板殘留的台灣許可說法；MOA、安全性資料狀態保留"
+  }
+ ],
+ "bacampicillin_hydrochloride": [
+  {
+   "sentence": "대만(한국) 시판 이력도 없어 재창출 분석을 진행하기 위한",
+   "cut": "대만(한국) 시판 이력도 없어 ",
+   "reason": "TwTxGNN 模板殘留，且與 MFDS 有效許可矛盾；預測狀態保留"
+  }
+ ],
+ "apraclonidine_hydrochloride": [
+  {
+   "sentence": "TxGNN 모델의 **예측 결과가 생성되지 않았으며**, 시판 허가 기록도 없어 **현 시점에서 재창출 후보 평가를 진행할 수 없습니다.**",
+   "cut": "시판 허가 기록도 없어 ",
+   "reason": "MFDS 有效許可存在，「시판 허가 기록도 없어」與事實矛盾；預測狀態保留"
+  }
+ ],
+ "amphotericin_b": [
+  {
+   "sentence": "`predicted_indications: []`이고 `original_indications: []`이며 한국 허가 없음(0건)인 상태입니다.",
+   "cut": "이며 한국 허가 없음(0건)",
+   "reason": "MFDS 有效許可存在，「한국 허가 없음(0건)」與事實矛盾；預測、原適應症資料狀態保留"
+  }
+ ],
+ "cycloserine": [
+  {
+   "sentence": "Cycloserine은 항결핵제로 사용되는 약물로, 한국에서 7건의 허가증이 유효한 상태로 시판되고 있습니다.",
+   "keep": true,
+   "reason": "張數與新事實不符（見概覽），但同句是藥物身分（항결핵제）；韓文子句刪掉會斷句，用戶決定前保留"
+  }
+ ]
+}
