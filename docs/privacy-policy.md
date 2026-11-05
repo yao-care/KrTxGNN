@@ -32,7 +32,7 @@ description: "KrTxGNN 개인정보 처리방침: 본 사이트는 정적 사이�
 | 서비스 | 용도 | 개인정보 처리방침 |
 |---------|---------|----------------|
 | GitHub Pages | 사이트 호스팅 | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
-| d3js.org | 차트 라이브러리 | 정적 자산 CDN |
+| cdn.jsdelivr.net | 차트 라이브러리 | 정적 자산 CDN |
 | giscus | 댓글(활성화된 페이지에 한함) | [giscus](https://giscus.app/) |
 
 이용자가 직접 SMART on FHIR 앱을 실행하면, 해당 앱은 이용자의 전자의무기록 시스템에 투약
