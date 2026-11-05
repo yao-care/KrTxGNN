@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 description: "Zidovudine: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800287/EE"
 ---
 
@@ -48,8 +48,8 @@ Zidovudine은 핵산유사체 역전사효소 억제제(NRTI) 계열 약물입�
 | 예측 신규 적응증 | 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
-| 허가증 수 | 5건 (유효 5건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

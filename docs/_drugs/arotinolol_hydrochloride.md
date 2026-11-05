@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -41,7 +41,7 @@ predicted_indications: []
 ## 한 문장 요약
 
 Arotinolol Hydrochloride는 베타차단·알파차단 계열 약물로 알려져 있으나, 현재 수신된 Evidence Pack에는 TxGNN 예측 적응증이 포함되어 있지 않습니다.
-한국 내 시판 기록도 없으며, 작용 기전(MOA)과 허가 경고·금기 데이터 모두 누락되어 있어 약물 재창출 가능성을 정식 평가하기 위한 추가 데이터 확보가 선행되어야 합니다.
+작용 기전(MOA)과 허가 경고·금기 데이터 모두 누락되어 있어 약물 재창출 가능성을 정식 평가하기 위한 추가 데이터 확보가 선행되어야 합니다.
 
 ---
 

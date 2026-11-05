@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 745
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Tolperisone: 예측 신규 적응증 라우브리-페치 증후군 (Laubry-Pezzi syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (중추 작용 근이완제로 알려져 있음)"
 monitor_inn: "Tolperisone"
 predicted_indications: ["Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "pulmonary valve disease", "orofacial clefting syndrome", "mitral valve disease", "heart disease", "disorder of fucoglycosan synthesis", "interventricular septum aneurysm"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **라우브리-페치 증후군(Laubry-Pezzi syndrome)**에 효�
 | 예측 신규 적응증 | 라우브리-페치 증후군 (Laubry-Pezzi syndrome) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
-| 허가증 수 | 3건 (유효 3건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 5건) |
+| 허가증 수 | 5건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -78,8 +78,6 @@ TxGNN 모델은 **라우브리-페치 증후군(Laubry-Pezzi syndrome)**에 효�
 | 199201038 | 토렌주(염산톨페리손)(수출용) | 주사제 (앰플) | 허가 적응증 원문은 PDF 링크로만 제공됨 |
 | 199801632 | 톨리손정(톨페리손염산염)(수출명: 제쏘틸정)(수출용) | 당의정 | 허가 적응증 원문은 PDF 링크로만 제공됨 |
 | 199400517 | 무스타진정(염산톨페리손)(수출용) | 당의정 | 허가 적응증 원문은 PDF 링크로만 제공됨 |
-
-3건 모두 수출용 단일제이며 유효 상태입니다.
 
 ## 안전성 고려사항
 

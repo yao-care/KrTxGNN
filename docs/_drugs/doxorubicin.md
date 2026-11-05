@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Doxorubicin: 예측 신규 적응증 유잉육종 (근거 수준 L1). 기존 적응증: 확인 불가 (허가 적응증 본문 없음, 허가 문서 링크만 제공됨)"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 | 예측 신규 적응증 | 유잉육종 |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L1 |
-| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 12건) |
-| 허가증 수 | 12건 (유효 12건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 12건 / 전체 14건) |
+| 허가증 수 | 14건 (유효 12건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
@@ -104,7 +104,7 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 | 199001007 | 에이디마이신주사액 | 액상 주사제 | 허가 문서 링크만 제공됨 (적응증 본문 없음) |
 | 199203366 | 독소루빈주사0.2% | 액상 바이알 | 허가 문서 링크만 제공됨 (적응증 본문 없음) |
 
-총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다. 위 표는 대표 5건만 나열한 것입니다.
+위 표는 대표 5건만 나열한 것입니다.
 
 ## 세포독성
 

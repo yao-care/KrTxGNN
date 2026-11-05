@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 57
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -42,7 +42,7 @@ Evidence Pack을 분석합니다. `predicted_indications`가 비어 있고 대�
 
 ## 한 문장 요약
 
-Amiloride Hydrochloride는 포타슘 보존성 이뇨제 계열 약물로, DrugBank 조회는 성공적으로 완료되었으나 이번 Evidence Pack에 TxGNN 예측 적응증 정보가 포함되지 않아 정식 재창출 평가를 진행할 수 없습니다. 대만 내 시판 허가 이력이 없으며, 작용 기전(MOA) 및 안전성 데이터 모두 미수집 상태입니다. 재평가를 위해서는 TFDA 仿單 수집 및 TxGNN 예측 재실행이 선행되어야 합니다.
+Amiloride Hydrochloride는 포타슘 보존성 이뇨제 계열 약물로, DrugBank 조회는 성공적으로 완료되었으나 이번 Evidence Pack에 TxGNN 예측 적응증 정보가 포함되지 않아 정식 재창출 평가를 진행할 수 없습니다. 작용 기전(MOA) 및 안전성 데이터 모두 미수집 상태입니다. 재평가를 위해서는 TFDA 仿單 수집 및 TxGNN 예측 재실행이 선행되어야 합니다.
 
 ---
 
@@ -97,14 +97,13 @@ Amiloride Hydrochloride는 포타슘 보존성 이뇨제 계열 약물로, DrugB
 **결정: Hold**
 
 **사유:**
-TxGNN 예측 적응증 데이터가 없어 재창출 타당성 평가 자체를 진행할 수 없습니다. 작용 기전(MOA), 안전성 경고/금기, 대만 허가 이력 모두 미수집 상태로, 최소 데이터 요건이 충족되지 않습니다.
+TxGNN 예측 적응증 데이터가 없어 재창출 타당성 평가 자체를 진행할 수 없습니다. 작용 기전(MOA), 안전성 경고/금기 모두 미수집 상태로, 최소 데이터 요건이 충족되지 않습니다.
 
 **진행하려면 필요한 것:**
 - **[Blocking]** TFDA 仿單 수집 — TFDA 공식 사이트에서 PDF 다운로드 후 경고/금기 파싱
 - **[High]** DrugBank API를 통한 MOA, 약리 분류, 독성 데이터 수집 (`drugbank_id` 확인 필요)
 - **[High]** TxGNN 모델 재실행 — `predicted_indications` 데이터 생성
 - **[Medium]** DDI 데이터베이스 재조회 — 현재 `not_found` 상태로 확인 필요
-- **[참고]** Amiloride는 국제적으로 고혈압·부종 적응증으로 허가된 약물이나, 대만 내 허가 이력이 없으므로 규제 경로 별도 검토 필요
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

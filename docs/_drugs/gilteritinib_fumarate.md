@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 374
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -39,7 +39,7 @@ predicted_indications: []
 ## 한 문장 요약
 
 Gilteritinib Fumarate는 DrugBank에 등록 기록이 확인된 약물이나, 이번 Evidence Pack에 작용 기전·기존 적응증·TxGNN 예측 결과가 포함되지 않아 재창출 평가를 완료할 수 없습니다.
-한국 시판 허가 이력이 없으며, 필수 데이터 수집 후 재평가가 필요합니다.
+필수 데이터 수집 후 재평가가 필요합니다.
 
 ---
 

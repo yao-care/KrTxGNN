@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 754
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: 예측 신규 적응증 Malignant cutaneous granular cell skin tumor (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302082/EE"
@@ -49,8 +49,8 @@ Trastuzumab은 HER2를 표적으로 하는 단클론항체로, 원래 HER2 양�
 | 예측 신규 적응증 | Malignant cutaneous granular cell skin tumor |
 | TxGNN 예측 점수 | 0.9948 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 8건) |
-| 허가증 수 | 8건 (유효 6건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 11건) |
+| 허가증 수 | 11건 (유효 8건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?
@@ -100,8 +100,6 @@ HER2 양성 종양의 상당수는 프로게스테론 수용체(PR)도 함께 �
 | 201400158 | 허쥬마주150mg | 동결건조분말 주사제 (바이알) | 허가 적응증 본문 확인 불가 (PDF 링크 형태로만 제공) |
 | 201707851 | 삼페넷주150밀리그램 | 동결건조분말 주사제 (바이알) | 허가 적응증 본문 확인 불가 (PDF 링크 형태로만 제공) |
 | 202302082 | 투젭타주150밀리그램 | 동결건조물 주사제 (바이알) | 허가 적응증 본문 확인 불가 (PDF 링크 형태로만 제공) |
-
-허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다.
 
 ## 세포독성
 

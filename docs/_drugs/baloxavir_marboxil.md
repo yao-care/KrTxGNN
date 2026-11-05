@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -40,7 +40,7 @@ predicted_indications: []
 
 ## 한 문장 요약
 
-Baloxavir Marboxil(DrugBank: DB13997)은 현재 한국 시판 기록이 없으며, Evidence Pack에는 기존 적응증 정보와 TxGNN 재창출 예측 결과가 모두 포함되어 있지 않습니다. 작용 기전(MOA), 안전성 경고, 허가 적응증 등 평가에 필수적인 핵심 데이터가 미확보된 상태로, 데이터 보완 후 재평가가 필요합니다.
+Baloxavir Marboxil(DrugBank: DB13997)은 Evidence Pack에는 기존 적응증 정보와 TxGNN 재창출 예측 결과가 모두 포함되어 있지 않습니다. 작용 기전(MOA), 안전성 경고, 허가 적응증 등 평가에 필수적인 핵심 데이터가 미확보된 상태로, 데이터 보완 후 재평가가 필요합니다.
 
 ---
 
@@ -48,7 +48,7 @@ Baloxavir Marboxil(DrugBank: DB13997)은 현재 한국 시판 기록이 없으�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 정보 없음 (한국 허가 기록 없음) |
+| 기존 적응증 | 정보 없음 |
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 미산출) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (예측 결과 없음, 평가 불가) |

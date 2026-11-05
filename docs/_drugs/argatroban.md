@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 83
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -48,12 +48,12 @@ Argatroban은 직접 트롬빈 억제제(Direct Thrombin Inhibitor) 계열의 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 (허가 이력 없음) |
+| 기존 적응증 | 데이터 없음 |
 | 예측 신규 적응증 | 예측 결과 없음 |
 | TxGNN 예측 점수 | — |
 | 근거 수준 | L5 (모델 예측 없음, 평가 불가) |
-| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
-| 허가증 수 | 2건 (유효 2건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
+| 허가증 수 | 3건 (유효 3건) |
 | 권장 결정 | Hold |
 
 ---

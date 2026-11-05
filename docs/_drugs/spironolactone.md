@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 702
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Spironolactone: 예측 신규 적응증 두피 단순 모발저하증 (Hypotrichosis Simplex of the Scalp) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문을 확인하지 못함)"
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 | 예측 신규 적응증 | 두피 단순 모발저하증 (Hypotrichosis Simplex of the Scalp) |
 | TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
-| 허가증 수 | 8건 (유효 8건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 11건) |
+| 허가증 수 | 11건 (유효 8건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -63,7 +63,7 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 
 ## 한국 시판 정보
 
-허가증은 모두 유효한 8건입니다. 허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했으므로 아래 표에서는 생략했습니다. 주요 5건은 다음과 같습니다.
+허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했으므로 아래 표에서는 생략했습니다. 주요 5건은 다음과 같습니다.
 
 | 허가번호 | 제품명 | 제형 | 제조사 |
 |---------|------|------|------|

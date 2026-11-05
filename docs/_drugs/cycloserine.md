@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Cycloserine: 예측 신규 적응증 과민성 장 증후군 (irritable bowel syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가사항 문서 링크만 제공됨). 항결핵제로 알려져 있습니다"
 monitor_inn: "CYCLOSERINE"
 predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
@@ -69,8 +69,6 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 | 201500394 | 시클린캡슐 (한국코러스, 수출용) | 경질캡슐 | 허가사항 문서 참조 |
 | 201505062 | 싸인세린캡슐 (에이프로젠바이오로직스, 수출용) | 경질캡슐 | 허가사항 문서 참조 |
 | 201505075 | 싸이세린캡슐 (하원제약, 수출용) | 경질캡슐 | 허가사항 문서 참조 |
-
-그 외 큐로스캡슐(유영제약), 이텍스시클로세린캡슐(테라젠이텍스) 등 총 7건이 모두 단일제로 유효하며, 대부분 수출용입니다.
 
 ## 안전성 고려사항
 

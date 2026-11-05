@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 384
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -42,8 +42,6 @@ predicted_indications: []
 | `drug.original_indications` | 비어 있음 |
 | `drug.original_moa` | [Data Gap] |
 | `predicted_indications` | **비어 있음 (예측 결과 없음)** |
-| `taiwan_regulatory.market_status` | Not marketed |
-| `taiwan_regulatory.total_licenses` | 0건 |
 | `safety.*` | 전 항목 [Data Gap] |
 
 ---
@@ -54,7 +52,7 @@ predicted_indications: []
 ## 한 문장 요약
 
 GLUCOSE(포도당)는 DrugBank 조회에서 인식되었으나, 이번 평가 주기에서 TxGNN 모델이 유효한 재창출 적응증을 예측하지 못하였습니다.
-허가 이력이 없고 안전성 데이터도 확보되지 않아, 현 단계에서 약물 재창출 평가를 진행할 수 없습니다.
+안전성 데이터도 확보되지 않아, 현 단계에서 약물 재창출 평가를 진행할 수 없습니다.
 데이터 격차(DG001, DG002)를 우선 해소한 뒤 재평가가 필요합니다.
 
 ---

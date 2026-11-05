@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 403
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 monitor_inn: "HYDROCORTISONE ACETATE"
 predicted_indications: ["alopecia areata", "telogen effluvium", "alopecia mucinosa", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "seborrheic keratosis"]
 description: "Hydrocortisone Acetate: 예측 신규 적응증 원형탈모증 (alopecia areata) (근거 수준 L2). 기존 적응증: 이 약은 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상에 사용합니다"
@@ -48,8 +48,8 @@ Hydrocortisone Acetate는 항염증·면역억제 작용을 가진 글루코코�
 | 예측 신규 적응증 | 원형탈모증 (alopecia areata) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L2 |
-| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 7건) |
-| 허가증 수 | 7건 (유효 6건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

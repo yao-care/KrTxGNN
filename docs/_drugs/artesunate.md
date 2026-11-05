@@ -5,7 +5,7 @@ layout: default
 title: Artesunate
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 91
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -42,8 +42,8 @@ evidence_level: N/A
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602737/EE |
-| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
-| 허가증 수 | 1건 (유효 1건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 2건) |
 
 ---
 

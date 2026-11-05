@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 764
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Triflusal: 예측 신규 적응증 인자 V 과다에 의한 자발성 혈전증 (factor 5 excess with spontaneous thrombosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 링크로만 제공되어 있어 이 보고서에서 확인하지 못했습니다. 허가사항을 참조하세요"
 monitor_inn: "TRIFLUSAL"
 predicted_indications: ["factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis"]
@@ -48,8 +48,8 @@ Triflusal은 항혈소판제로, 한국에서 단일 성분 캡슐제로 허가�
 | 예측 신규 적응증 | 인자 V 과다에 의한 자발성 혈전증 (factor 5 excess with spontaneous thrombosis) |
 | TxGNN 예측 점수 | 0.9960 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
-| 허가증 수 | 7건 (유효 7건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 9건) |
+| 허가증 수 | 9건 (유효 7건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -77,8 +77,6 @@ Triflusal은 항혈소판제로, 한국에서 단일 성분 캡슐제로 허가�
 | 199301193 | 명인디스그렌캡슐 300mg (명인제약) | 경질캡슐 | 허가사항 참조 |
 | 199901215 | 트리살캡슐 (환인제약) | 경질캡슐 | 허가사항 참조 |
 | 200402037 | 도리스캡슐 (오스틴제약) | 경질캡슐 | 허가사항 참조 |
-
-이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다.
 
 ## 안전성 고려사항
 

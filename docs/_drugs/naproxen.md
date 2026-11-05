@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Naproxen: 예측 신규 적응증 단지증-합지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염, 급성통풍, 월경곤란증, 활액낭염, 골격근장애…"
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
@@ -70,8 +70,6 @@ TxGNN 모델은 **단지증-합지증 증후군(brachydactyly-syndactyly syndrom
 | 4 | 단지증-법랑질형성부전 증후군 | 0.9906 | L5 |
 
 ## 한국 시판 정보
-
-20건의 허가증이 모두 유효하며(단일제 20건, 복합제 0건), 주요 허가 5건은 다음과 같습니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|

@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 67
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -42,7 +42,6 @@ Evidence Pack을 분석합니다. `predicted_indications`가 비어 있고, 기�
 
 ## 한 문장 요약
 
-Amorolfine Hydrochloride는 현재 한국에 허가 이력이 없는 약물입니다.
 TxGNN 파이프라인에서 DrugBank 조회는 1건 성공했으나, DrugBank ID·작용 기전·기존 적응증이 Evidence Pack에 기록되지 않아 예측이 생성되지 않았습니다.
 데이터 공백이 다수 존재하여 재창출 평가를 현 시점에서 수행할 수 없습니다.
 

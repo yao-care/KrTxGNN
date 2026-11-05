@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 128
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -40,7 +40,6 @@ predicted_indications: []
 | predicted_indications | **빈 배열** — 예측 미생성 |
 | original_indications | 빈 배열 |
 | original_moa | [Data Gap] |
-| taiwan_regulatory.licenses | 빈 배열 (미시판) |
 | safety | 전 항목 [Data Gap] |
 
 > 예측 후보가 없으므로 임상시험·문헌·시판정보·세포독성 섹션은 모두 생략됩니다.
@@ -52,7 +51,6 @@ predicted_indications: []
 
 ## 한 문장 요약
 
-Bazedoxifene Acetate는 DrugBank에서 약물로 확인되었으나, 현재 시판 허가 이력이 없는 약물입니다.
 TxGNN 파이프라인에서 신규 적응증 예측이 생성되지 않았으며,
 작용 기전·안전성 정보 등 핵심 데이터가 누락되어 본격적인 재창출 평가를 진행할 수 없습니다.
 

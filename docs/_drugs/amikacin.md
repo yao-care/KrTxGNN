@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Amikacin: 예측 신규 적응증 파라티푸스 (근거 수준 L4). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (아미노글리코시드계 항균제)"
 ---
 
@@ -75,7 +75,7 @@ Amikacin은 그람음성균 감염에 쓰이는 아미노글리코시드계 주�
 
 ## 한국 시판 정보
 
-한국에는 Amikacin 단일 성분 주사제 허가가 최소 20건 확인되며, 모두 단일 성분이고 유효 상태입니다. 목록은 일부일 수 있습니다. 제품명에 "수출용"이 붙은 허가가 다수 포함되어 있어, 국내 실제 유통 여부는 별도 확인이 필요합니다. 허가 적응증 본문은 첨부 문서 링크로만 제공되어 내용을 요약하지 못했습니다.
+목록은 일부일 수 있습니다. 제품명에 "수출용"이 붙은 허가가 다수 포함되어 있어, 국내 실제 유통 여부는 별도 확인이 필요합니다. 허가 적응증 본문은 첨부 문서 링크로만 제공되어 내용을 요약하지 못했습니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Pemetrexed: 예측 신규 적응증 흉막 선양종양 (pleural adenomatoid tumor) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201204635/EE"
 ---
 
@@ -68,7 +68,7 @@ Pemetrexed는 엽산 대사를 억제하는 항엽산제 계열의 세포독성 
 
 ## 한국 시판 정보
 
-이번 보고서를 위해 정리된 데이터에서 20건 모두 유효 상태이며 단일 성분 제제입니다. 이 중 수출용 허가도 포함되어 있습니다. 주요 5건은 아래와 같습니다.
+주요 5건은 아래와 같습니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|

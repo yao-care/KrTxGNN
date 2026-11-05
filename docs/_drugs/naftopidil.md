@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Naftopidil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 문서 링크만 제공됨)"
 monitor_inn: "NAFTOPIDIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -50,8 +50,8 @@ TxGNN 모델은 **Ambras형 선천성 전신 다모증(Ambras type hypertrichosi
 | 예측 신규 적응증 | Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 18건 / 전체 18건) |
-| 허가증 수 | 18건 (유효 18건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 18건) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -73,8 +73,6 @@ Ambras 증후군은 TRPS1 조절에 영향을 주는 염색체 재배열과 관�
 | 201800964 | 나스타정50밀리그램 | 흰색의 원형 정제 | (주)유유제약 |
 | 201705175 | 나프딜정75밀리그램 | 황백색~담황색의 원형 정제 | 주식회사제뉴원사이언스 |
 | 201705255 | 유로피딜정75밀리그램 | 황백색~담황색의 원형 정제 | (주)제뉴파마 |
-
-이 외에 75mg 제품을 중심으로 총 18건의 유효한 단일제 허가가 있으며, 취소된 허가는 없습니다. 이 중 2건은 수출용입니다.
 
 ## 안전성 고려사항
 

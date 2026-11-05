@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Etoposide: 예측 신규 적응증 폐의 고분화 태아형 선암 (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가사항 링크만 제공됨)"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 | 예측 신규 적응증 | 폐의 고분화 태아형 선암 |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 6건) |
-| 허가증 수 | 6건 (유효 6건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 6건 / 전체 8건) |
+| 허가증 수 | 8건 (유효 6건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -71,8 +71,6 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 | [33107372](https://pubmed.ncbi.nlm.nih.gov/33107372/) | 2020 | 증례보고/문헌고찰 | The Journal of International Medical Research | 고전적 이상성(biphasic) 폐모세포종 1례를 보고했습니다. 우상엽 절제 후 nedaplatin과 paclitaxel로 보조 항암요법을 시행했으며, 표준 치료 지침이 없다고 기술합니다. 제공된 초록에는 etoposide에 대한 언급이 없습니다. |
 
 ## 한국 시판 정보
-
-6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|

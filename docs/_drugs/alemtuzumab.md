@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 35
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -36,7 +36,6 @@ predicted_indications: []
 **Evidence Pack 분석:**
 - `predicted_indications`: 빈 배열 → TxGNN 예측 없음
 - `original_indications`: 빈 배열, MOA: [Data Gap]
-- `taiwan_regulatory`: 미시판, 0건
 - `safety`: 전체 [Data Gap]
 - Data Gap DG001 (Blocking): 허가사항 경고/금기 미수집
 - Data Gap DG002 (High): MOA 미수집

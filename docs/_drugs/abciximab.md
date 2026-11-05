@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -42,7 +42,7 @@ Evidence Pack을 분석한 결과, `predicted_indications`가 빈 배열이고 `
 
 ## 한 문장 요약
 
-Abciximab(DrugBank ID: DB00054)은 한국에 허가된 이력이 없는 약물로, 이번 Evidence Pack에는 기존 적응증 및 TxGNN 예측 적응증 데이터가 모두 포함되어 있지 않습니다. DrugBank 조회는 성공하였으나 작용 기전(MOA)을 포함한 핵심 정보가 수록되지 않았으며, 현재 상태에서는 재창출 가능성 평가를 완료할 수 없습니다.
+Abciximab(DrugBank ID: DB00054)은 이번 Evidence Pack에는 기존 적응증 및 TxGNN 예측 적응증 데이터가 모두 포함되어 있지 않습니다. DrugBank 조회는 성공하였으나 작용 기전(MOA)을 포함한 핵심 정보가 수록되지 않았으며, 현재 상태에서는 재창출 가능성 평가를 완료할 수 없습니다.
 
 ---
 
@@ -61,8 +61,6 @@ Abciximab(DrugBank ID: DB00054)은 한국에 허가된 이력이 없는 약물�
 ---
 
 ## 한국 시판 정보
-
-현재 한국에 Abciximab 성분으로 등록된 허가증이 없습니다.
 
 ---
 

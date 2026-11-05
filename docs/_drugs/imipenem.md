@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 description: "Imipenem: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703652/EE"
@@ -48,8 +48,8 @@ Imipenem은 세균 세포벽 합성을 억제하는 카바페넴계 항생제입
 | 예측 신규 적응증 | 미만성 피부경화증 (diffuse scleroderma) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
-| 허가증 수 | 1건 (유효 1건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 11건 / 전체 13건) |
+| 허가증 수 | 13건 (유효 11건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

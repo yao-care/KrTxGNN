@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 22
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -39,7 +39,7 @@ predicted_indications: []
 ## 한 문장 요약
 
 ACIPIMOX(DB09055)는 Evidence Pack에 기존 적응증 및 TxGNN 예측 결과가 포함되어 있지 않아 약물 재창출 평가를 진행할 수 없는 상태입니다.
-현재 한국(대만) 시판 이력도 없으며, 작용 기전·안전성 데이터 모두 수집되지 않아 **평가 자체가 Blocking 상태**입니다.
+작용 기전·안전성 데이터 모두 수집되지 않아 **평가 자체가 Blocking 상태**입니다.
 아래 섹션은 수집된 데이터 범위 내에서만 작성되었습니다.
 
 ---
@@ -60,7 +60,7 @@ ACIPIMOX(DB09055)는 Evidence Pack에 기존 적응증 및 TxGNN 예측 결과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터가 없습니다. DrugBank ID(DB09055)는 확인되었으나, TFDA(대만 식약처) 및 DrugBank API로부터 MOA 정보가 수집되지 않았습니다.
+현재 상세한 작용 기전(MOA) 데이터가 없습니다. DrugBank ID(DB09055)는 확인되었으나, DrugBank API로부터 MOA 정보가 수집되지 않았습니다.
 
 `predicted_indications` 배열이 비어 있어 TxGNN 모델이 이 약물에 대한 재창출 후보 적응증을 반환하지 않았습니다. 이는 지식 그래프 내 약물 노드 연결 부족, 또는 DrugBank 매핑 미완성으로 인한 것일 수 있습니다.
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Zaltoprofen"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Zaltoprofen: 예측 신규 적응증 편두통 (근거 수준 L5). 기존 적응증: 이번 데이터에는 허가 적응증 본문이 포함되어 있지 않고 허가 문서 링크만 있어 확인할 수 없습니다"
 ---
 
@@ -48,8 +48,8 @@ Zaltoprofen은 한국에서 단일성분 정제로 허가된 비스테로이드 
 | 예측 신규 적응증 | 편두통 |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 16건 / 전체 16건) |
-| 허가증 수 | 16건 (유효 16건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 16건) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
@@ -90,7 +90,7 @@ TxGNN 상위 예측 중 이번 데이터에서 의미 있는 내용은 다음과
 | 201602274 | 잘레톤정 | 흰색의 원형 필름코팅정 | 허가 문서 링크만 제공됨 |
 | 200702615 | 잘트론정 | 흰색의 원형 필름코팅정제 | 허가 문서 링크만 제공됨 |
 
-이 외에도 총 16건의 허가가 모두 유효한 단일성분 제품입니다. 위 표에는 주요 5건만 나열했습니다.
+위 표에는 주요 5건만 나열했습니다.
 
 ## 안전성 고려사항
 

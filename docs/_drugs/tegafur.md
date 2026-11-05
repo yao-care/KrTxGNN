@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tegafur"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 description: "Tegafur: 예측 신규 적응증 Cecum villous adenoma (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300393/EE"
 ---
 
@@ -49,8 +49,8 @@ Tegafur는 5-fluorouracil(5-FU)의 경구용 전구약물로, 한국에서 단�
 | 예측 신규 적응증 | Cecum villous adenoma |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 (완료된 Phase 3 RCT 다수) |
-| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 5건) |
-| 허가증 수 | 5건 (유효 5건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 5건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

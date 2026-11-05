@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 86
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -39,7 +39,7 @@ predicted_indications: []
 ## 한 문장 요약
 
 Aripiprazole Monohydrate에 대한 약물 재창출 평가가 요청되었으나, TxGNN 예측 적응증 및 기존 적응증 데이터가 모두 누락되어 있습니다.
-현재 한국 내 허가 이력이 없으며, 안전성 정보(경고·금기·약물 상호작용) 역시 확인되지 않습니다.
+안전성 정보(경고·금기·약물 상호작용) 역시 확인되지 않습니다.
 필수 데이터 확보 후 재평가가 필요합니다.
 
 ---

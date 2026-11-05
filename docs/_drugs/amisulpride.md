@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 62
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -38,7 +38,7 @@ predicted_indications: []
 
 ## 한 문장 요약
 
-Amisulpride(DrugBank ID: DB06288)는 현재 대만 미허가 약물로, 이번 Evidence Pack에 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다. 작용 기전(MOA)과 허가 경고문·금기사항 데이터도 모두 누락되어 있어, 재창출 가능성 평가를 진행하기 위한 최소 요건이 충족되지 않았습니다. 핵심 데이터 보완 후 재평가가 필요합니다.
+Amisulpride(DrugBank ID: DB06288)는 이번 Evidence Pack에 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다. 작용 기전(MOA)과 허가 경고문·금기사항 데이터도 모두 누락되어 있어, 재창출 가능성 평가를 진행하기 위한 최소 요건이 충족되지 않았습니다. 핵심 데이터 보완 후 재평가가 필요합니다.
 
 ## 빠른 개요
 

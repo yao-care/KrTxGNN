@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 377
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -41,8 +41,6 @@ predicted_indications: []
 | `drug.original_indications` | `[]` | 비어 있음 |
 | `drug.original_moa` | `[Data Gap]` | 누락 |
 | `predicted_indications` | `[]` | **예측 결과 없음** |
-| `taiwan_regulatory.market_status` | `Not marketed` | 미시판 |
-| `taiwan_regulatory.total_licenses` | `0` | |
 | `safety.*` | 전부 `[Data Gap]` | 누락 |
 | 데이터 갭 | DG001 (Blocking), DG002 (High) | |
 

@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 29
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -38,7 +38,7 @@ predicted_indications: []
 
 ## 한 문장 요약
 
-Agalsidase Beta(DB00103)는 현재 대만에 시판 허가 이력이 없으며, 이번 Evidence Pack에는 기존 적응증·작용 기전(MOA)·안전성 정보·TxGNN 예측 결과가 모두 누락되어 있습니다.
+Agalsidase Beta(DB00103)는 이번 Evidence Pack에는 기존 적응증·작용 기전(MOA)·안전성 정보·TxGNN 예측 결과가 모두 누락되어 있습니다.
 데이터 공백이 평가의 모든 핵심 항목에 걸쳐 있어, 이 상태로는 약물 재창출 후보로서의 타당성을 판단할 수 없습니다.
 데이터 보완 후 Evidence Pack을 재구성하고 평가를 다시 시작해야 합니다.
 
@@ -71,7 +71,6 @@ Agalsidase Beta(DB00103)는 현재 대만에 시판 허가 이력이 없으며, 
 - **[필수] 작용 기전(MOA) 수집** — DrugBank API의 `mechanism-of-action` 필드 조회 (DG002 해소)
 - **[필수] 기존 적응증 확인** — DrugBank `indication` 필드, PubMed, 또는 FDA 라벨을 통해 허가 적응증 확인
 - **[권고] 안전성 데이터 수집** — TFDA 또는 EMA 허가 정보에서 경고·금기 항목 파싱 (DG001 해소)
-- **[참고] 대만 허가 조회** — 현재 대만 시판 기록이 0건이므로, 글로벌 허가 현황(FDA·EMA)을 별도로 조회하여 규제 맥락 보완
 
 ---
 

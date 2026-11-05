@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 104
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -49,7 +49,7 @@ Atropine Sulfate는 무스카린 수용체 길항제(항콜린성 약물)로, �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (한국 허가 이력 없음) |
+| 기존 적응증 | 확인 불가 |
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 미생성) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (모델 예측 부재, 실제 연구 근거 없음) |

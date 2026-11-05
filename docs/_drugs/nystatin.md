@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: 예측 신규 적응증 안와 부위 질환 (disease of orbital region) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107502/EE"
@@ -50,8 +50,8 @@ TxGNN 모델은 **안와 부위 질환(disease of orbital region)**에 효과가
 | 예측 신규 적응증 | 안와 부위 질환 (disease of orbital region) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
-| 허가증 수 | 2건 (유효 2건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -38,7 +38,6 @@ predicted_indications: []
 
 ## 한 문장 요약
 
-Ropinirole Hydrochloride는 현재 한국에 허가 이력이 없는 약물입니다.
 이번 Evidence Pack에는 TxGNN 예측 적응증 데이터가 포함되어 있지 않으며,
 작용 기전 및 안전성 정보 역시 수집되지 않아 신규 적응증 평가를 진행할 수 없습니다.
 
@@ -48,7 +47,7 @@ Ropinirole Hydrochloride는 현재 한국에 허가 이력이 없는 약물입�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 (한국 허가 이력 없음) |
+| 기존 적응증 | 데이터 없음 |
 | 예측 신규 적응증 | 없음 (예측 데이터 미수집) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | 평가 불가 |
@@ -77,7 +76,7 @@ Ropinirole Hydrochloride는 현재 한국에 허가 이력이 없는 약물입�
 - TxGNN 예측 파이프라인 재실행 (`predicted_indications` 생성 필요)
 - DrugBank 조회 결과 Evidence Pack 반영 (조회 성공 기록이 있으나 MOA 미포함)
 - 원내 또는 해외 허가사항 확보 (작용 기전, 경고, 금기 포함)
-- 한국 MFDS 미허가 약물이므로, 해외(미국 FDA, EMA 등) 허가사항 기준으로 안전성 초평가 수행
+- 해외(미국 FDA, EMA 등) 허가사항 기준으로 안전성 초평가 수행
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

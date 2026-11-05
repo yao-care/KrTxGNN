@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 380
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -56,8 +56,8 @@ Glibenclamide는 설포닐우레아(Sulfonylurea) 계열의 경구 혈당강하�
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 미생성) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 (예측 결과 없음) |
-| 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 2건) |
-| 허가증 수 | 2건 (유효 2건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | **Hold** |
 
 ---
@@ -73,7 +73,7 @@ Glibenclamide는 설포닐우레아(Sulfonylurea) 계열의 경구 혈당강하�
 **결정: Hold**
 
 **사유:**
-이번 Evidence Pack에 TxGNN 예측 적응증 데이터(`predicted_indications`)가 포함되어 있지 않아 재창출 평가 자체를 진행할 수 없습니다. 대만 허가 이력도 없고 작용 기전·안전성 데이터도 누락된 상태로, 현재 근거로는 의사결정을 내리기 어렵습니다.
+이번 Evidence Pack에 TxGNN 예측 적응증 데이터(`predicted_indications`)가 포함되어 있지 않아 재창출 평가 자체를 진행할 수 없습니다. 작용 기전·안전성 데이터도 누락된 상태로, 현재 근거로는 의사결정을 내리기 어렵습니다.
 
 **진행하려면 필요한 것:**
 

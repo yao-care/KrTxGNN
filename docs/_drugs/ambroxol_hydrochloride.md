@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 54
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -38,7 +38,7 @@ predicted_indications: []
 
 ## 한 문장 요약
 
-AMBROXOL HYDROCHLORIDE는 대만 허가 이력이 없어 기존 적응증을 확인할 수 없습니다.
+AMBROXOL HYDROCHLORIDE는 기존 적응증을 확인할 수 없습니다.
 TxGNN 예측 파이프라인이 이 약물에 대한 신규 적응증을 생성하지 못했으며,
 작용 기전(MOA)·안전성·규제 데이터가 모두 수집되지 않아 현 단계에서는 평가를 진행할 수 없습니다.
 
@@ -48,7 +48,7 @@ TxGNN 예측 파이프라인이 이 약물에 대한 신규 적응증을 생성�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (대만 허가 이력 없음) |
+| 기존 적응증 | 확인 불가 |
 | 예측 신규 적응증 | 없음 (TxGNN 예측 미생성) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 이하 (예측조차 없음) |
@@ -79,14 +79,13 @@ TxGNN 모델이 이 약물에 대한 예측 결과를 생성하지 않았습니�
 **결정: Hold**
 
 **사유:**
-TxGNN 예측 결과가 없고, 대만 허가 이력·작용 기전·안전성 데이터가 모두 부재하여 재창출 가능성을 평가할 최소한의 근거조차 확보되지 않았습니다.
+TxGNN 예측 결과가 없고, 작용 기전·안전성 데이터가 모두 부재하여 재창출 가능성을 평가할 최소한의 근거조차 확보되지 않았습니다.
 
 **진행하려면 필요한 것:**
 
 - **[Blocking]** DrugBank ID 확인 — DrugBank API 재쿼리 후 `drugbank_id` 필드 보완
 - **[Blocking]** TxGNN KG 내 노드 존재 여부 확인 — `data/external/drugbank_vocab.csv` 대조
 - **[High]** 작용 기전(MOA) 수집 — DrugBank 약물 프로파일 파싱
-- **[High]** 대만 허가 현황 재확인 — TFDA 데이터베이스에서 "AMBROXOL" 성분명으로 재검색 (조회 시 `AMBROXOL`과 `AMBROXOL HYDROCHLORIDE` 두 형태 모두 시도)
 - DrugBank ID 확보 후 Evidence Pack을 v5로 재생성하여 재평가 진행
 ## 면책 조항
 

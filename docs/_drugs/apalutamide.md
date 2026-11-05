@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 77
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -42,7 +42,7 @@ Evidence Pack을 분석했습니다. `predicted_indications`가 비어 있고 �
 
 ## 한 문장 요약
 
-APALUTAMIDE(DrugBank ID: DB11901)는 현재 한국 미허가 약물로, 이번 Evidence Pack에는 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.
+APALUTAMIDE(DrugBank ID: DB11901)는 이번 Evidence Pack에는 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.
 작용 기전(MOA), 원래 적응증, 안전성 데이터 등 핵심 항목이 모두 수집되지 않아 재창출 분석을 진행할 수 없는 상태이며, 데이터 보완 후 재평가가 필요합니다.
 
 ---

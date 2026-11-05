@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 450
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Ketorolac: 예측 신규 적응증 두통 질환 (Headache Disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 원문(PDF 링크)으로만 확인되어 요약하지 못했습니다. 일반적으로 급성 통증의 단기 관리에 사용됩…"
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
@@ -96,7 +96,7 @@ RCT를 우선하고 이어서 체계적 문헌고찰과 가이드라인 순으�
 
 ## 한국 시판 정보
 
-한국에는 총 20건의 허가증이 있으며 모두 단일제이고 유효합니다. 주사제, 정제, 점안액이 있고 수출용 허가도 포함됩니다. 허가 적응증 본문은 허가증 PDF 링크로만 제공되어 표에 요약하지 못했으므로 원문을 확인해야 합니다. 아래는 주요 허가 5건입니다.
+주사제, 정제, 점안액이 있고 수출용 허가도 포함됩니다. 허가 적응증 본문은 허가증 PDF 링크로만 제공되어 표에 요약하지 못했으므로 원문을 확인해야 합니다. 아래는 주요 허가 5건입니다.
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|

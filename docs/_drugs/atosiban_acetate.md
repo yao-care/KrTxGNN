@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 100
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -51,8 +51,8 @@ TxGNN 모델은 이 약물에 대한 재창출 적응증을 예측하지 못했�
 
 | 항목 | 내용 |
 |------|------|
-| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 3건) |
-| 허가증 수 | 3건 (유효 3건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 3건 / 전체 4건) |
+| 허가증 수 | 4건 (유효 3건) |
 | TxGNN 예측 적응증 | 없음 |
 | 근거 수준 | 해당 없음 |
 | 권장 결정 | **Hold** |

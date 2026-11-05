@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 170
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Calcipotriol: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L3). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 제공되어 확인할 수 없음 (국소제 형태로 보아 건선 등 피부질환용으로 추정)"
 monitor_inn: "CALCIPOTRIOL"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -49,8 +49,8 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 | 예측 신규 적응증 | 지루각화증 (Seborrheic Keratosis) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L3 |
-| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
-| 허가증 수 | 8건 (유효 8건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 20건) |
+| 허가증 수 | 20건 (유효 10건) |
 | 권장 결정 | Hold (연구 질문 단계) |
 
 ## 이 예측이 타당한 이유는?
@@ -83,8 +83,6 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 | 200410004 | 다이보베트연고 (레오파마) | 연고제 | 허가증 링크로만 제공됨 |
 | 201502633 | 카리올연고 (동국제약) | 연고제 | 허가증 링크로만 제공됨 |
 | 201501753 | 칼시베타겔 (제뉴원사이언스) | 겔제 | 허가증 링크로만 제공됨 |
-
-이 외에 3건(칼시베타연고, 다이보넥스연고, 자미올겔)이 더 허가되어 있어 총 8건이 모두 유효한 단일제입니다.
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "DIPYRIDAMOLE"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 description: "Dipyridamole: 예측 신규 적응증 Sick sinus syndrome 2, autosomal dominant (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302190/EE"
 ---
 
@@ -50,8 +50,8 @@ TxGNN 모델은 **상염색체 우성 동기능부전증후군 2형 (sick sinus 
 | 예측 신규 적응증 | Sick sinus syndrome 2, autosomal dominant |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 5건) |
-| 허가증 수 | 5건 (유효 4건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 6건) |
+| 허가증 수 | 6건 (유효 4건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

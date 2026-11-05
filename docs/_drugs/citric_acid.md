@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 217
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 monitor_inn: "citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
 description: "Citric Acid: 예측 신규 적응증 위 질환 (stomach disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001923/EE"
@@ -48,8 +48,8 @@ Citric acid(구연산)는 산성화제·항응고 보조제 등으로 쓰이는 
 | 예측 신규 적응증 | 위 질환 (stomach disease) |
 | TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 9건) |
-| 허가증 수 | 9건 (유효 9건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

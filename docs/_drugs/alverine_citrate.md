@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 51
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -38,7 +38,7 @@ predicted_indications: []
 
 ## 한 문장 요약
 
-ALVERINE CITRATE는 현재 허가 이력이 없어 기존 적응증을 확인할 수 없습니다.
+ALVERINE CITRATE는 기존 적응증을 확인할 수 없습니다.
 이번 Evidence Pack에는 TxGNN 예측 적응증이 포함되어 있지 않아, 신규 재창출 가능성 평가를 진행할 수 없습니다.
 작용 기전, 안전성, 허가 데이터를 보완한 후 재평가가 필요합니다.
 
@@ -52,8 +52,8 @@ ALVERINE CITRATE는 현재 허가 이력이 없어 기존 적응증을 확인할
 | 예측 신규 적응증 | 없음 (TxGNN 예측 부재) |
 | TxGNN 예측 점수 | 해당 없음 |
 | 근거 수준 | L5 — 예측 없음, 실제 근거 없음 |
-| 한국 시판 현황 | 시판 중 (유효 허가 10건 / 전체 10건) |
-| 허가증 수 | 10건 (유효 10건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 10건) |
+| 허가증 수 | 최소 20건 |
 | 권장 결정 | **Hold** |
 
 ---

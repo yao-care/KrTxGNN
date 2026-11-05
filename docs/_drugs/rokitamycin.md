@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 665
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -41,7 +41,6 @@ Evidence Pack 핵심 파악:
 
 - **predicted_indications**: 빈 배열 → TxGNN 예측 결과 없음
 - **original_indications**: 빈 배열 → 기존 적응증 데이터 없음
-- **taiwan_regulatory**: 미상시, 0건
 - **safety**: 전체 [Data Gap]
 - **original_moa**: [Data Gap]
 
@@ -52,7 +51,7 @@ Evidence Pack 핵심 파악:
 
 ## 한 문장 요약
 
-Rokitamycin(DB13409)은 DrugBank에 등재된 약물이나, 현재 Evidence Pack에 기존 적응증과 TxGNN 예측 적응증이 모두 존재하지 않습니다. 한국 내 허가 이력이 없고 작용 기전·안전성 데이터도 미확보 상태로, 약물 재창출 가능성을 평가하기 위한 최소 데이터 요건이 충족되지 않았습니다.
+Rokitamycin(DB13409)은 DrugBank에 등재된 약물이나, 현재 Evidence Pack에 기존 적응증과 TxGNN 예측 적응증이 모두 존재하지 않습니다. 작용 기전·안전성 데이터도 미확보 상태로, 약물 재창출 가능성을 평가하기 위한 최소 데이터 요건이 충족되지 않았습니다.
 
 ---
 

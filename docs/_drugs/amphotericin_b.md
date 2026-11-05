@@ -5,7 +5,7 @@ layout: default
 title: Amphotericin B
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 70
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -33,13 +33,12 @@ evidence_level: N/A
 
 </div>
 
-Evidence Pack 분석 완료. `predicted_indications: []`이고 `original_indications: []`이며 한국 허가 없음(0건)인 상태입니다. 데이터 부족 케이스로 적용 가능한 섹션만 출력합니다.
+Evidence Pack 분석 완료. `predicted_indications: []`이고 `original_indications: []`인 상태입니다. 데이터 부족 케이스로 적용 가능한 섹션만 출력합니다.
 
 ---
 
 ## Amphotericin B
 {: .text-alpha }
-
 
 ## 빠른 개요
 

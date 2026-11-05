@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 101
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -61,8 +61,6 @@ Atovaquone(아토바쿠온)은 DrugBank ID DB01117로 등록된 항감염제입�
 ---
 
 ## 시판 정보
-
-현재 허가된 제품이 없습니다.
 
 ---
 

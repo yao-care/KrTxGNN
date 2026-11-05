@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 119
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -39,7 +39,7 @@ predicted_indications: []
 ## 한 문장 요약
 
 Bacampicillin Hydrochloride는 페니실린계 항생제 Ampicillin의 전구약물(prodrug)로, 세균 감염 치료에 사용되는 것으로 알려져 있습니다.
-그러나 이번 Evidence Pack에는 **TxGNN 예측 결과가 존재하지 않으며**, 대만(한국) 시판 이력도 없어 재창출 분석을 진행하기 위한 기본 데이터가 충족되지 않습니다.
+그러나 이번 Evidence Pack에는 **TxGNN 예측 결과가 존재하지 않으며**, 재창출 분석을 진행하기 위한 기본 데이터가 충족되지 않습니다.
 현재 확보된 근거로는 재창출 방향성을 평가할 수 없습니다.
 
 ---
@@ -52,8 +52,8 @@ Bacampicillin Hydrochloride는 페니실린계 항생제 Ampicillin의 전구약
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 없음) |
 | TxGNN 예측 점수 | 없음 |
 | 근거 수준 | L5 (모델 예측 없음, 실제 연구 미확인) |
-| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
-| 허가증 수 | 1건 (유효 1건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 2건) |
+| 허가증 수 | 2건 (유효 1건) |
 | 권장 결정 | Hold |
 
 ---
@@ -69,7 +69,7 @@ Bacampicillin Hydrochloride는 페니실린계 항생제 Ampicillin의 전구약
 **결정: Hold**
 
 **사유:**
-TxGNN 예측 적응증이 존재하지 않아 재창출 가능성을 평가할 수 없으며, 해당 약물은 시판 이력이 없어 규제 정보도 확보되어 있지 않습니다. 아래 데이터 확보 없이는 평가를 진행하기 어렵습니다.
+TxGNN 예측 적응증이 존재하지 않아 재창출 가능성을 평가할 수 없으며, 해당 약물은 규제 정보도 확보되어 있지 않습니다. 아래 데이터 확보 없이는 평가를 진행하기 어렵습니다.
 
 **진행하려면 필요한 것:**
 - **[필수]** TxGNN 파이프라인에서 Bacampicillin Hydrochloride의 DrugBank ID 매핑 확인 및 예측 재실행 (`drugbank_id`가 `null`이므로 KG 예측 미수행된 가능성 있음)

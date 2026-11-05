@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-05
 description: "Progesterone: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE"
 ---
 
@@ -48,8 +48,8 @@ Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황�
 | 예측 신규 적응증 | 유방 섬유낭성 질환 (breast fibrocystic disease) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L4 |
-| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 7건) |
-| 허가증 수 | 7건 (유효 7건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 7건 / 전체 8건) |
+| 허가증 수 | 8건 (유효 7건) |
 | 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?

@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 predicted_indications: []
 ---
 
@@ -50,8 +50,8 @@ Aluminium Chloride 的基本藥物資訊（原始適應證、作用機轉）均�
 | 예측 신규 적응증 | 無（TxGNN 未產生預測） |
 | TxGNN 예측 점수 | 無 |
 | 근거 수준 | L5（僅模型查詢，無實際研究） |
-| 한국 시판 현황 | 시판 중 (유효 허가 9건 / 전체 9건) |
-| 허가증 수 | 9건 (유효 9건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 16건 / 전체 16건) |
+| 허가증 수 | 16건 (유효 16건) |
 | 권장 결정 | Hold |
 
 ---

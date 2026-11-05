@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 644
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Ranolazine: 예측 신규 적응증 신성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiure… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 링크로만 제공되어 요약할 수 없음 (허가사항 참조)"
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
@@ -38,7 +38,7 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 
 ## 한 문장 요약
 
-Ranolazine은 한국에서 허가된 단일 성분 서방정제로, 후기 나트륨 전류(late sodium current)를 억제하는 약물입니다.
+Ranolazine은 단일 성분 서방정제로, 후기 나트륨 전류(late sodium current)를 억제하는 약물입니다.
 TxGNN 모델은 **신성 항이뇨호르몬 부적절 분비 증후군(Nephrogenic Syndrome of Inappropriate Antidiuresis, NSIAD)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험과 문헌은 각각 0건**으로 모델 예측만 존재하는 단계입니다.
 
 ## 빠른 개요
@@ -68,8 +68,6 @@ NSIAD는 바소프레신 V2 수용체(AVPR2)의 기능획득 돌연변이(R137C/
 | 202001782 | 라넥사서방정500밀리그램(라놀라진) | 서방성 필름코팅정 (밝은 주황색, 타원형, 500 표기) | 허가사항 참조 |
 | 202001784 | 라넥사서방정750밀리그램(라놀라진) | 서방성 필름코팅정 (연한 녹색, 타원형, 750 표기) | 허가사항 참조 |
 | 202001783 | 라넥사서방정375밀리그램(라놀라진) | 필름코팅정 (연한 파랑색, 타원형, 375 표기) | 허가사항 참조 |
-
-3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다.
 
 ## 안전성 고려사항
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 507
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Methocarbamol: 예측 신규 적응증 마미 증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 아닌 허가 문서 링크만 제공됨)"
 monitor_inn: "Methocarbamol"
 predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "panuveitis (disease)", "anaphylaxis", "iris disease", "uveitis", "ventricular tachycardia", "food-dependent exercise-induced anaphylaxis", "conjunctivitis", "obsolete bundle branch block"]
@@ -79,8 +79,6 @@ Methocarbamol은 중추 작용 골격근 이완제로, 한국에서 단일 성�
 | 199201853 | 비씨메토카르바몰주사 | 주사제(앰플) | 허가 문서 참조 |
 | 200302732 | 메다몰정250mg(수출용) | 정제 | 허가 문서 참조 |
 | 199202181 | 토박신주사액(메토카르바몰) | 주사제(앰플) | 허가 문서 참조 |
-
-총 20건이 모두 유효한 단일 성분 허가이며, 취소된 허가는 없습니다. 이 중 상당수는 수출용입니다.
 
 ## 안전성 고려사항
 

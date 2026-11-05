@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 103
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-05
 description: "Atropine: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 확인되어 구체적 내용을 요약할 수 없음 (주사제 및 점안제로 허가)"
 monitor_inn: "ATROPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
@@ -92,8 +92,6 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 | 202500932 | 드림피아점안액0.125%(1회용) | 점안제 | 허가사항 참조 |
 | 196400054 | 대원황산아트로핀주사액 | 앰플 주사액 | 허가사항 참조 |
 | 202502791 | 마이원점안액0.125%(1회용) | 점안제 | 허가사항 참조 |
-
-이 외에도 점안제(마이오텍트 0.05%·0.1%·0.125%, 마이오가드, 마이오캡, 알콘아트로핀 1%)와 주사제 등 총 14건이 유효 허가 상태입니다.
 
 ## 안전성 고려사항
 
