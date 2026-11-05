@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 497
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-06
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 description: "Mefenamic Acid: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908188/EE"
@@ -48,8 +48,8 @@ Mefenamic acid는 프로스타글란딘 합성을 억제하는 비스테로이�
 | 예측 신규 적응증 | 두통 질환 (headache disorder) |
 | TxGNN 예측 점수 | 0.9964 |
 | 근거 수준 | L2 (소규모·구형 이중맹검 RCT 중심, 제3상 확증 시험 없음) |
-| 한국 시판 현황 | 시판 중 (유효 허가 8건 / 전체 8건) |
-| 허가증 수 | 8건 (유효 8건) |
+| 한국 시판 현황 | 허가되었으나 미시판 (수출용 허가만 유효: 8건 / 전체 8건) |
+| 허가증 수 | 8건 (국내 0건 · 유효 0건 / 수출용 8건 · 유효 8건) |
 | 권장 결정 | Proceed with Guardrails |
 
 ## 이 예측이 타당한 이유는?

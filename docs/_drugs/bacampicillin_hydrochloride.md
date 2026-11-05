@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 119
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 predicted_indications: []
 ---
 
@@ -52,8 +52,8 @@ Bacampicillin Hydrochloride는 페니실린계 항생제 Ampicillin의 전구약
 | 예측 신규 적응증 | 없음 (TxGNN 예측 결과 없음) |
 | TxGNN 예측 점수 | 없음 |
 | 근거 수준 | L5 (모델 예측 없음, 실제 연구 미확인) |
-| 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 2건) |
-| 허가증 수 | 2건 (유효 1건) |
+| 한국 시판 현황 | 허가되었으나 미시판 (수출용 허가만 유효: 1건 / 전체 2건) |
+| 허가증 수 | 2건 (국내 0건 · 유효 0건 / 수출용 2건 · 유효 1건) |
 | 권장 결정 | Hold |
 
 ---
