@@ -32,8 +32,10 @@ description: "KrTxGNN 개인정보 처리방침: 본 사이트는 정적 사이�
 | 서비스 | 용도 | 개인정보 처리방침 |
 |---------|---------|----------------|
 | GitHub Pages | 사이트 호스팅 | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
-| cdn.jsdelivr.net | 차트 라이브러리 | 정적 자산 CDN |
-| giscus | 댓글(활성화된 페이지에 한함) | [giscus](https://giscus.app/) |
+| Google Analytics 4 (www.googletagmanager.com, google-analytics.com) | 방문 통계(조회한 페이지, 유입 경로)이며 분석 쿠키를 사용합니다. 검색어, 입력 양식 내용, URL 쿼리 문자열은 전송하지 않습니다. | [Google 개인정보처리방침](https://policies.google.com/privacy) |
+| cdn.jsdelivr.net | 스크립트 라이브러리: 모든 페이지의 d3 차트, SMART 페이지의 Fuse.js 이름 대조와 SMART on FHIR 클라이언트 | [jsDelivr 개인정보처리방침](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net) |
+| clinicaltrials.gov | SMART 페이지의 임상시험 조회: 이용자가 요청할 때만 약물명과 적응증명이 ClinicalTrials.gov API로 전송됩니다 | [NLM 웹 정책](https://www.nlm.nih.gov/web_policies.html) |
+| rxnav.nlm.nih.gov | SMART 앱: 전자의무기록에서 읽은 약물의 RxNorm 코드가 성분명 조회를 위해 미국 국립의학도서관(NLM) RxNav API로 전송됩니다(환자 식별 정보 없음) | [NLM 웹 정책](https://www.nlm.nih.gov/web_policies.html) |
 
 이용자가 직접 SMART on FHIR 앱을 실행하면, 해당 앱은 이용자의 전자의무기록 시스템에 투약
 데이터를 요청합니다. 그 데이터는 <strong>전적으로 이용자의 브라우저 내에서만 처리되며</strong>,
