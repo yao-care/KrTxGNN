@@ -136,9 +136,18 @@ class DrugEvidencePackGenerator:
             })
         valid = [x for x in lics if x["status"] == "valid"]
         partial = int(reg.get("total_matches") or 0) > len(recs)
+        ms = _market_status(valid, lics, partial)
+        # 2026-11-05（用戶決定）：有效許可全部是수출용（只供出口）品目時，國內沒有上市，狀態寫「허가되었으나 미시판（수출용 허가만）」，
+        # 張數列分開寫국내／수출용。只看得到部分紀錄（total_matches 較多）時無法判斷，不套用。
+        exp = [x for x in lics if "수출용" in str(x["product_name_zh"] or "")]
+        export = {}
+        if valid and not partial and all("수출용" in str(x["product_name_zh"] or "") for x in valid):
+            ms = "Approved, not marketed"
+            export = {"export_only": True, "export_total": len(exp), "export_valid": len(valid), "domestic_total": len(lics) - len(exp)}
         return {
             # 只存了部分許可證（total_matches 較多）且列出的都已註銷時，不能斷定全部註銷
-            "market_status": _market_status(valid, lics, partial),
+            "market_status": ms,
+            **export,
             # 2026-10-21：張數＝不重複許可證號（us 的紀錄是產品列，15 列只有 7 個核准號）；
             # total_matches 大於紀錄列數＝收集器只存了一部分，張數不可知（None），頁面不可寫「共 N 張」
             "total_licenses": len(lics) if not partial else f"≥{len(lics)}",  # 部分紀錄：寫「至少 N」（pm 2026-10-21 選 b）

@@ -225,7 +225,7 @@ def transform(site, f, cls, pmap):
         elif ms == "Cancelled only":
             want = ck.cancelled_text(site, lang, n)
         elif ms == "Not marketed":
-            want = ck.not_reg_text(site, lang)
+            want = ck.not_reg_text(site, lang, fc)
         if want and st[1] != want:
             body = set_cell(body, st[0], want)
         cr = ck.count_row(site, all_rows)

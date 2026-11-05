@@ -177,7 +177,7 @@ def sync_market_rows(site, dry=False):
             elif ms == "Cancelled only":
                 want = ck.cancelled_text(site, lang, n)
             elif ms == "Not marketed":
-                want = ck.not_reg_text(site, lang)
+                want = ck.not_reg_text(site, lang, fc)
             if want and st[1] != want:
                 ch.append((st[0], st[1], want))
         cr = ck.count_row(site, rows)
@@ -216,7 +216,7 @@ def drop_excluded_rows(site, dry=False):
         keep = []
         for l in lines:
             c = [x.strip() for x in l.strip().strip("|").split("|")] if l.startswith("|") else []
-            if c and norm(c[0]) in vet:
+            if c and (norm(c[0]) in vet or norm(re.sub(r"^MA\s*", "", c[0])) in vet):  # Dk 有些表寫「MA 28105835216」
                 out.append((pg.stem, f"許可證表 {c[0]}（獸用）", l.strip(), "（刪除）"))
                 continue
             keep.append(l)
