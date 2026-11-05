@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-05T04:52:27.600533",
+  "last_check": "2026-11-05T19:28:40.342159",
   "seen_trials": {
     "Abatacept": [
       "NCT07388563",
@@ -6348,6 +6348,9 @@
     ],
     "Tiotropium": [
       "NCT03842839"
+    ],
+    "Clozapine": [
+      "NCT05603104"
     ]
   }
 }
