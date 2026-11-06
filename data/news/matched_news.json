@@ -1,17 +1,69 @@
 {
-  "last_updated": "2026-11-06T13:55:49.577295+00:00",
-  "total_count": 60,
+  "last_updated": "2026-11-06T22:51:09.453715+00:00",
+  "total_count": 56,
   "matched_count": 0,
   "news": [
     {
-      "id": "0cf22116a101",
-      "title": "“겨드랑이 혹, 암 전이인 줄 알았는데”…45세女, 가슴 보형물서 샌 실리콘",
-      "published": "2026-11-06T11:05:00+00:00",
-      "summary": "“겨드랑이 혹, 암 전이인 줄 알았는데”…45세女, 가슴 보형물서 샌 실리콘&nbsp;&nbsp;코메디닷컴",
+      "id": "a47dece209ed",
+      "title": "[김연수의 식탁이야기(106)] 살찌면 대장 점막부터 달라진다,대장암 발생의 새 단서",
+      "published": "2026-11-06T21:41:19+00:00",
+      "summary": "[김연수의 식탁이야기(106)] 살찌면 대장 점막부터 달라진다,대장암 발생의 새 단서&nbsp;&nbsp;뉴스투데이“식탁에 두고 가족 먹였다면 당장 버려라”…암 유발하는 최악의 음식 [헬시타임]&nbsp;&nbsp;서울경제“대장암 위험 쑥 올린다”… 누구나 흔히 먹는 ‘3가지 음식’&nbsp;&nbsp;헬스조선대장암은 왜 젊은층에 더 치명적일까?&nbsp;&nbsp;헬스코리아뉴스",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE00R2JPMEpSbHdlTVU5eTVrT2MyWDh2TVJoOEUzUXlYVll1SDB5S19NRUNBVHBtTmZGcXZHTWc0cTAwUQ?oc=5"
+          "name": "뉴스투데이",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vMXdqNFlUNTZmRFNBQ21aZnRNcUt0LVNLbEhoU2g1VkpWcmo4dHVYbUwwMlNWRkswY1p4SW1KY0tnVEpVb0dLemdGdGZtNy1JaFJpZV9jV3FLYmhxdHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d7469e487adc",
+      "title": "“잘 자는 사람, 뇌 건강도 좋아”… 당뇨·심장질환자서 연관성 더 뚜렷",
+      "published": "2026-11-06T21:00:00+00:00",
+      "summary": "“잘 자는 사람, 뇌 건강도 좋아”… 당뇨·심장질환자서 연관성 더 뚜렷&nbsp;&nbsp;하이닥코골이·낮 졸림까지 살펴보니…수면 상태에 따라 인지검사 결과 달라&nbsp;&nbsp;시애틀코리안데일리캐나다 | SFU 연구진 \"잠 3시간 잤더니… 젊은 뇌와 노년 뇌 달라\"&nbsp;&nbsp;밴쿠버 중앙일보심혈관·대사질환 있어도 잘 자면 인지기능·뇌 건강 더 양호&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tQ3JrUzhVS1FFRXpqTUdsVmIyMDZLVzZ6LU51UnFTSmRsNXhLSnFLaFNrTGhjSTV6QjJNYzNxY2drUV9pR0dPc0hKb0FaMmEtMWZITDlFNzRWVmVvVmhtUDJXTmVOcWpXTmc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "58a02aeec41b",
+      "title": "GLP-1 계열 약물, 메트포르민 대비 당뇨병 전단계 정상화 가능성 53% 높아",
+      "published": "2026-11-06T20:49:00+00:00",
+      "summary": "GLP-1 계열 약물, 메트포르민 대비 당뇨병 전단계 정상화 가능성 53% 높아&nbsp;&nbsp;약사공론“비만치료제로 치매-중독-암도 예방? 가능성은 살짝 보인다”&nbsp;&nbsp;동아일보GLP-1 계열 약물, 메트포르민보다 당뇨병 진행 위험 31% 낮춰&nbsp;&nbsp;헬스조선당뇨 전단계 환자, GLP-1 복용했더니 메트포르민보다 당뇨 진행 위험 31% 낮아&nbsp;&nbsp;글로벌이코노믹80세 이상 만성콩팥병 환자도 SGLT2 억제제 치료 효과 확인&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PcEFiYTN5allocTFoWWM3VGJneWF4MV9RSjZrVkhSVVpOLWtXdHB3RmRTd212alFFcERMTi0tblBVRjRwSnp1Mk4yT3hidmxZWTRJajVYZ0FKQ3N3Slg2anhtRC1CQmxua1lxWg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b36bcb4a3257",
+      "title": "김밥에 믹스커피 먹으면 췌장암? 744만명 추적해보니 진짜 주범은 따로 있었다",
+      "published": "2026-11-06T20:00:00+00:00",
+      "summary": "김밥에 믹스커피 먹으면 췌장암? 744만명 추적해보니 진짜 주범은 따로 있었다&nbsp;&nbsp;세계일보연세암병원, ‘췌장암의 날’ 공개 강좌 外&nbsp;&nbsp;조선일보\"췌장암 유발한다\" 내과 전문의가 경고한 의외의 음식 3가지&nbsp;&nbsp;코메디닷컴[신동립 잡기노트]췌장, 왜 ‘갑자기’ 난리인가&nbsp;&nbsp;더리포트",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BejRxZ2RseFpUSm0zYW1CNmFnS2ViVFpvVXNIb1dBVHNrNWZvRUxXQ1VoQjMyQ2xHOXdGNTViUVZRMVhpMzFjODc0ekhWN0VNX3hzZjN6dDTSAVRBVV95cUxNeWhaUHliMGlDeGVJSGhZWEoyeWN3alVwaWZRR1JJS0tfVkF4aGRzdFYyLVN0bkFVc3B4TVUxdDlPS1EwX3JFMm9XRHVLdmZjTWJaS08?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "08178845c7fb",
+      "title": "17만 건 이상의 뎅기열 환자 발생, 재감염 위험 경고",
+      "published": "2026-11-06T08:51:46+00:00",
+      "summary": "17만 건 이상의 뎅기열 환자 발생, 재감염 위험 경고&nbsp;&nbsp;Laodong.vn뎅기열 상황은 점점 더 복잡해지고 있습니다. 발병 사례와 사망자 수를 줄이기 위해 다양한 해결책을 결합해야 합니다.&nbsp;&nbsp;Vietnam.vn풀뿌리 차원에서 질병 예방 및 통제를 강화합니다.&nbsp;&nbsp;Vietnam.vn뎅기열 환자가 증가하고 있으며, 많은 환자가 중증으로 발전하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 환자가 17만 명 이상 발생함에 따라 보건부는 새로운 치료 지침을 마련했습니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSE52UDd1V05tUkZTcHJMWk9uWWZ1ZlRwY0Y5cnZhbGM0RHpFQXJndlZoT2VZem1NRlFxMmtabWVlNFFnbW0zdnZ2X0xwZE1SNERaa2YtVVY5LWlYZG0xY0YxWHRMUk05TF9iYUZqbGI4Ukl4SkpzZzFibExoaWVOR1NoZ1BUVzdGcmk3VXNtS0t2OVp5cXR2aENhRnFJTlU?oc=5"
         }
       ],
       "matched_keywords": []
@@ -59,7 +111,7 @@
       "id": "8c01696b23d9",
       "title": "‘소금’만 바꿔도…심혈관·신장질환자 사망 매년 300만명 예방",
       "published": "2026-11-06T04:21:00+00:00",
-      "summary": "‘소금’만 바꿔도…심혈관·신장질환자 사망 매년 300만명 예방&nbsp;&nbsp;농민신문‘이 소금’으로 바꾸면…매년 300만 명 사망 예방 가능? [노화설계]&nbsp;&nbsp;동아일보칼륨 소금으로 바꾸면 연간 300만 명 사망 막는다…193개국 모델링 결과&nbsp;&nbsp;매일신문“바나나의 재발견”… 알고 먹으면 더 좋은 건강 효능 4가지&nbsp;&nbsp;하이닥“짠 음식 줄여도 그대로인 혈압”… 나트륨 씻어내는 ‘칼륨’ 먹어라&nbsp;&nbsp;헬스조선",
+      "summary": "‘소금’만 바꿔도…심혈관·신장질환자 사망 매년 300만명 예방&nbsp;&nbsp;농민신문‘이 소금’으로 바꾸면…매년 300만 명 사망 예방 가능? [노화설계]&nbsp;&nbsp;동아일보칼륨 소금으로 바꾸면 연간 300만 명 사망 막는다…193개국 모델링 결과&nbsp;&nbsp;매일신문“소금만 바꿨을 뿐인데”⋯심장병·뇌졸중 사망 연 300만명 막을 수 있다&nbsp;&nbsp;코메디닷컴“짠 음식 줄여도 그대로인 혈압”… 나트륨 씻어내는 ‘칼륨’ 먹어라&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "농민신문",
@@ -98,7 +150,7 @@
       "id": "7d50e46d8db7",
       "title": "치매와 관련된 '타우단백질' 이동 촉진하는 단백질 역할 규명",
       "published": "2026-11-06T01:51:10+00:00",
-      "summary": "치매와 관련된 '타우단백질' 이동 촉진하는 단백질 역할 규명&nbsp;&nbsp;코리아헬스로그‘치매 유발 단백질’ 확산시키는 물질 찾았다&nbsp;&nbsp;동아비즈니스리뷰‘알츠하이머병 단백질’ 응집·독성 줄일 방법 발견&nbsp;&nbsp;경향신문KAIST, 치매 독성 단백질 뭉침 억제…일부 기억 기능 개선 이뤄&nbsp;&nbsp;전자신문`65세 이전` 알츠하이머 발병이 더 위험한 이유…뇌에 `이것` 더 쌓였다[매일비타민]&nbsp;&nbsp;매일신문",
+      "summary": "치매와 관련된 '타우단백질' 이동 촉진하는 단백질 역할 규명&nbsp;&nbsp;코리아헬스로그치매 단백질의 해로운 뭉침 막는다…새 치료 원리 제시&nbsp;&nbsp;BRIC‘알츠하이머병 단백질’ 응집·독성 줄일 방법 발견&nbsp;&nbsp;경향신문KAIST, 치매 독성 단백질 뭉침 억제…일부 기억 기능 개선 이뤄&nbsp;&nbsp;전자신문‘치매 유발 단백질’ 확산시키는 물질 찾았다&nbsp;&nbsp;동아비즈니스리뷰",
       "sources": [
         {
           "name": "코리아헬스로그",
@@ -173,14 +225,27 @@
       "matched_keywords": []
     },
     {
-      "id": "3012e45f417f",
+      "id": "36b37eeeabe6",
+      "title": "소유 “365일 닭가슴살만 먹을 순 없잖아”…몸매 유지하는 의외의 비결 [그들의 건강美학] - 헤럴드경제 미주판",
+      "published": "2026-11-05T20:30:00+00:00",
+      "summary": "소유 “365일 닭가슴살만 먹을 순 없잖아”…몸매 유지하는 의외의 비결 [그들의 건강美학]&nbsp;&nbsp;헤럴드경제 미주판",
+      "sources": [
+        {
+          "name": "헤럴드경제 미주판",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vWVRrbndNbFhrMWdBem1nSDREZ3cxNTdieEtEWXktYUlONFRab2tjb1R1WVVnRUlMRGdfd3NCMjR2WGtlYUZRWkFDRFg3TjdHN0FIRUtoNU85MUpmeDZiUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a352f6f9cfdf",
       "title": "양치 안 하고 아침 물부터 마셨는데…입속 세균 삼켜도 괜찮을까",
       "published": "2026-11-05T20:00:00+00:00",
       "summary": "양치 안 하고 아침 물부터 마셨는데…입속 세균 삼켜도 괜찮을까&nbsp;&nbsp;세계일보",
       "sources": [
         {
           "name": "세계일보",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZlA4bXA3MEYwMmFfU1lZYlJnSTcxd0VXSlV0TXJDTS1kYm9yY3R6a2w2N0FxVndaZTl3VzA0NXp0WDV3VjJHeGN1UW5IVnluWHpONTg2Z0o?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZlA4bXA3MEYwMmFfU1lZYlJnSTcxd0VXSlV0TXJDTS1kYm9yY3R6a2w2N0FxVndaZTl3VzA0NXp0WDV3VjJHeGN1UW5IVnluWHpONTg2Z0rSAVRBVV95cUxOZkdxb3d0Tm1KMERUbmtqWUZPeUVQbE02ZElfZXdPOHZyMm5lbXNtSVlPckNoeFlBajFDZ19zdWNlZjJYZnZuMVFBdXpwT3AyZW5OWmM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -202,7 +267,7 @@
       "id": "5d961f28e433",
       "title": "“자면서 열량 소모”… 비만 치료 대가가 추천한 ‘수면 다이어트’",
       "published": "2026-11-05T15:30:00+00:00",
-      "summary": "“자면서 열량 소모”… 비만 치료 대가가 추천한 ‘수면 다이어트’&nbsp;&nbsp;헬스조선\"일주일 운동 쉬고 세 끼 먹었더니 체지방 뚝\"…의사가 권하는 반전 감량법&nbsp;&nbsp;뉴시스몸속 지방을 태우고 싶다면, 침실은 '이 온도'로 맞춰보세요&nbsp;&nbsp;픽데일리“잘 자면 살도 잘 빠진다는데⋯” 비만 치료에도 영향 미칠까?&nbsp;&nbsp;코메디닷컴침실 19도로 낮추면 잠자는 동안 ‘지방’ 탄다&nbsp;&nbsp;web.insight.co.kr",
+      "summary": "“자면서 열량 소모”… 비만 치료 대가가 추천한 ‘수면 다이어트’&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "헬스조선",
@@ -212,27 +277,14 @@
       "matched_keywords": []
     },
     {
-      "id": "9af0411c1459",
-      "title": "닥락, 뎅기열 환자 약 10,900명 기록",
-      "published": "2026-11-05T10:08:10+00:00",
-      "summary": "닥락, 뎅기열 환자 약 10,900명 기록&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXN0ZVdLRDZpTkpvQldiYTRPX2FLR0ZqbnluSFgzOFlhOWRVNmRqRXBtV2JNbEdjdVZyaU1yVEVjZ2RacGxXYWE3NngxVlVvaWxReDRyS3FPYWVibmxIR1pKMDR2bmdGTmE3Vk9JbGRkVFQwaFhfLUZuMHZ2amJ0YTdCdk52SkxZVG9CbFVxNmRUWktMRmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "32fd47d035f5",
+      "id": "5e8f4c5f1c3f",
       "title": "저녁 탄수화물이 유독 살로 가는 이유",
       "published": "2026-11-05T09:00:04+00:00",
       "summary": "저녁 탄수화물이 유독 살로 가는 이유&nbsp;&nbsp;조세일보야식, 뱃살만 문제 아니었다고?…20만명 분석서 ‘간 건강’ 경고 [건강을 부탁해]&nbsp;&nbsp;나우뉴스“살만 찌는 것 아녔다”… 야식이 간에 일으키는 치명적 문제&nbsp;&nbsp;헬스조선[근거에 기반한 시대건강 120] ④저녁 8시 이후에 먹으면 다 살로 갈까&nbsp;&nbsp;동행미디어 시대",
       "sources": [
         {
           "name": "조세일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QQ1BDd2lmUGJta3UzSE1xc0lmVk1FRVZVczRuX0pxOERYdXEtRkpkRVNERkYxTEk5UzRMeTA3ckRqa2pxSmxMTHgwRzYzQlJFQUk5VmJqUjlLdEppbjJBSHk2SzdtRk9hWGZLQW5XZGd0ajZo?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDbjA5VXY4QTFXY0pLQ1ppSlRSTC1nMHMxMXk5REV5WGdTZV81clMwUTVubzdGSURSVi1qcy1OMEo5UUtjci11QXg5SER6SFUzUmpDaUNreWQ2LUp0RXlR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -259,6 +311,19 @@
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11X2RXRTB1elRncDZkUnQ1dk51TFNsc1daQVNLUmY1ZmZnY1dyYW8tUW43RFBySW5XUGxTWUVfalluS010MXRSMzJvVDBNUU05b1BnZmM2MUFPbVpjdFlrT3QxNXpPUWJWMnc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e1349f0d0e73",
+      "title": "[과학 핫이슈]박쥐 고향은 아시아·북미 아닌 유럽?…면역·장수 비밀 좇을 '조상 지도' 나왔다",
+      "published": "2026-11-05T07:00:00+00:00",
+      "summary": "[과학 핫이슈]박쥐 고향은 아시아·북미 아닌 유럽?…면역·장수 비밀 좇을 '조상 지도' 나왔다&nbsp;&nbsp;전자신문",
+      "sources": [
+        {
+          "name": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Xa3UtTG1KWWZfb2JpaTZIN3o2b3VLeGlBT1RscXRwRXYtaC1XSF83NDRheWFHT1pjbkJDQ2RzWlF1RUUwZUJKOTA0TkRmUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -306,24 +371,11 @@
       "id": "16646e6c24b9",
       "title": "뱃살 속 내장지방, 왜 건강에 더 해로울까?",
       "published": "2026-11-05T04:00:00+00:00",
-      "summary": "뱃살 속 내장지방, 왜 건강에 더 해로울까?&nbsp;&nbsp;매경헬스[김길원의 헬스노트] 비만이 당뇨병 부르는 이유…지방 속 '염증 스위치' 찾았다&nbsp;&nbsp;연합뉴스뱃살, 그냥 쌓이는 게 아니었다…당뇨 키우는 악성 단백질 발견&nbsp;&nbsp;뉴스1비만·당뇨병 악화시키는 '염증·섬유화' 유발 인자 발견&nbsp;&nbsp;헬스미디어뉴스뱃살속 내장지방, 왜 당뇨병 위험 높일까…대사질환 악화 ‘염증 단백질’ 찾았다 [노화설계]&nbsp;&nbsp;동아일보",
+      "summary": "뱃살 속 내장지방, 왜 건강에 더 해로울까?&nbsp;&nbsp;매경헬스뱃살 속 내장지방, 왜 몸에 해로울까… 원인 단백질 ‘THBS1’ 규명&nbsp;&nbsp;BRIC[김길원의 헬스노트] 비만이 당뇨병 부르는 이유…지방 속 '염증 스위치' 찾았다&nbsp;&nbsp;연합뉴스뱃살, 그냥 쌓이는 게 아니었다…당뇨 키우는 악성 단백질 발견&nbsp;&nbsp;뉴스1분당서울대병원, 내장지방 염증·섬유화 관여 단백질 규명&nbsp;&nbsp;로이슈",
       "sources": [
         {
           "name": "매경헬스",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pWnlLdjZkX0piS2tZdVc5NW1wbV9lYS1CMlNFRTlscEV6RktpMHBaWmJMSGFqYWdfSkl6V2xKVHNudlRHaEtDU3JMMHE0QWVwNVpzOVZzcTdCWTZfVEJmMUwtT0NOZVU1MVFEbw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2a26fe627ac6",
-      "title": "기억력 깜빡하고 운동도 안 하면…인지기능 저하 위험 3.22배",
-      "published": "2026-11-05T03:02:00+00:00",
-      "summary": "기억력 깜빡하고 운동도 안 하면…인지기능 저하 위험 3.22배&nbsp;&nbsp;히트뉴스\"주당 활동시간 길면 파킨슨병 덜 진행...강도보다 시간\"&nbsp;&nbsp;YTN 사이언스커피잔 들땐 괜찮은데 쉴 때 떨리는 손…파킨슨병 초기신호&nbsp;&nbsp;매일경제운동 안 하면 뇌에서 벌어지는 충격적인 변화 7가지… 뇌과학이 밝힌 경고&nbsp;&nbsp;한국공공정책신문",
-      "sources": [
-        {
-          "name": "히트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1RTN6U3BaNEJMWFJaM2RyS1VYc3JQU1Q0U1lvRjU0RXZ1Szh1NXpPb1Q3ekdqVlkxVEFCSmRzUE40cnU5dnlrcGpQZ05wblVHUElNRmkxTUVYVUVfRnN1aV9rcHRYOWNzWmhn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -420,32 +472,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1e2c6be5ebc2",
-      "title": "지방간, 심부전 악화 연결고리···‘간-심장 축’ 주목해야",
-      "published": "2026-11-04T21:01:30+00:00",
-      "summary": "지방간, 심부전 악화 연결고리···‘간-심장 축’ 주목해야&nbsp;&nbsp;메디칼업저버",
-      "sources": [
-        {
-          "name": "메디칼업저버",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vTDE1NFpKbGY0YnEwNjFQaWRJSDZCVW0taDZ0Q3pEcTJickRCdlVubERfME1vVXFPRWdpRlYxWFNobzJISEtjVDFmMnJXR2V1M25BeklOOTVkV0h2Q0JRQi03NjAwdWdKVjhV?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3db58219476d",
-      "title": "찬 바람에 다리가 저리다면? 지금 챙길 혈액순환 습관 5가지",
-      "published": "2026-11-04T21:00:00+00:00",
-      "summary": "찬 바람에 다리가 저리다면? 지금 챙길 혈액순환 습관 5가지&nbsp;&nbsp;하이닥“오후만 되면 퉁퉁 붓는 다리”…의자에 앉아서 ‘이 동작’ 해보세요&nbsp;&nbsp;농민신문\"잘 맞던 바지가 꽉 끼네\"…살찐 줄 알았는데 '질환 신호'? - 머니투데이&nbsp;&nbsp;머니투데이",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pZTlxVGo5Ni1SNHRmRHQtVF9FMnl4WDM4cEV2TUNYLWJOVGNZQ1dTbnNxSWxHdjY4SW94d0tIZ1VwM25Qb1ViRlFxNjF5QVNjVUUzS2RMSUxMdVhlejVIU2VrVjFRUDhJcnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "30a8cb9a3c70",
       "title": "PRRS 감염 관련 유전자 연구용 돼지 폐 면역세포주 개발",
       "published": "2026-11-04T20:19:00+00:00",
@@ -511,19 +537,6 @@
       "matched_keywords": []
     },
     {
-      "id": "de351c0a1121",
-      "title": "“바다의 영양, 바로이푸드, 완도산 혼합 모듬해초로 건강한 식탁",
-      "published": "2026-11-04T04:51:45+00:00",
-      "summary": "“바다의 영양, 바로이푸드, 완도산 혼합 모듬해초로 건강한 식탁&nbsp;&nbsp;얼리어답터뉴스",
-      "sources": [
-        {
-          "name": "얼리어답터뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE85Tkl2UWNYcW9WUmNTSW5lSnRNRERsQzAtcFNfNmtnR2lzVExpQlhXdEM4YjQ0Sm0tX0FlN005TGwwY1F3ZHJkWmp3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f8156f253741",
       "title": "질병청, 대상포진 백신 건보 급여화 거론됐지만...현행 규정상 '비급여' 장벽",
       "published": "2026-11-04T04:19:04+00:00",
@@ -532,19 +545,6 @@
         {
           "name": "의학신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HNTFNb2ZqVG91YURubmFIakZOeUxjZVF1VnF0c2s5eTNXcDJzRWgzdEhieTNPMEdiYjRYLWRFSzNZOXFUNWViaHloVG90aXFweGtwRnV0MElQeFI3UlhFTURuUVVhbnFhOUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "994bde24ed6b",
-      "title": "SGLT-2 억제제, GLP-1 RA보다 당뇨병 환자 신장 보호 유리",
-      "published": "2026-11-04T03:25:00+00:00",
-      "summary": "SGLT-2 억제제, GLP-1 RA보다 당뇨병 환자 신장 보호 유리&nbsp;&nbsp;의약뉴스“비만치료제로 치매-중독-암도 예방? 가능성은 살짝 보인다”&nbsp;&nbsp;동아일보GLP-1 계열 약물, 메트포르민보다 당뇨병 진행 위험 31% 낮춰&nbsp;&nbsp;헬스조선당뇨 전단계 환자, GLP-1 복용했더니 메트포르민보다 당뇨 진행 위험 31% 낮아&nbsp;&nbsp;글로벌이코노믹당뇨 전단계서 쓴 GLP-1 비만치료제 통했다&nbsp;&nbsp;DongA Science",
-      "sources": [
-        {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tbUIwV1Q1RjJ1bnNaLTduUkp4X0NMSGxDMDFkNkY0ZkVpTWxkNml3MktwT2JCNFhWdnJ6SDlGU2xuSzE2T3k3dU1OLVVpeE1XLUJQUFh0cEg0a1BMQW5aWFExWGRCRUU?oc=5"
         }
       ],
       "matched_keywords": []
@@ -566,7 +566,7 @@
       "id": "0ab2da766a24",
       "title": "당뇨인·항암환자, 손발 저리고 화끈…‘신경병증성 통증’ 해결 열쇠 찾았다",
       "published": "2026-11-03T19:02:00+00:00",
-      "summary": "당뇨인·항암환자, 손발 저리고 화끈…‘신경병증성 통증’ 해결 열쇠 찾았다&nbsp;&nbsp;농민신문통증 왜 오래 가나 했더니…만성 통증 키우는 단백질 규명&nbsp;&nbsp;DongA Science“신경을 다쳤을 뿐인데 통증은 왜 오래갈까?”, 만성 통증 키우는 단백질 찾았다&nbsp;&nbsp;BRIC\"상처는 나았는데 왜 계속 아플까\"…만성 통증 키우는 단백질 찾았다 [헬스LAB]&nbsp;&nbsp;파이낸셜뉴스GIST, 만성 신경통 관여 단백질 규명…신규 치료 표적 제시&nbsp;&nbsp;베타뉴스",
+      "summary": "당뇨인·항암환자, 손발 저리고 화끈…‘신경병증성 통증’ 해결 열쇠 찾았다&nbsp;&nbsp;농민신문통증 왜 오래 가나 했더니…만성 통증 키우는 단백질 규명&nbsp;&nbsp;DongA Science\"상처는 나았는데 왜 계속 아플까\"…만성 통증 키우는 단백질 찾았다 [헬스LAB]&nbsp;&nbsp;파이낸셜뉴스촉각·온도·통증·가려움 조절하는 단일 단백질 발견…신약 개발 가능성&nbsp;&nbsp;메디컬투데이신경 손상 뒤 만성 통증 키우는 단백질 찾았다&nbsp;&nbsp;한국일보",
       "sources": [
         {
           "name": "농민신문",
@@ -589,40 +589,14 @@
       "matched_keywords": []
     },
     {
-      "id": "28a4ca1676a3",
-      "title": "계절 변화, 독감으로 인한 위험한 합병증 경고",
-      "published": "2026-11-03T04:00:00+00:00",
-      "summary": "계절 변화, 독감으로 인한 위험한 합병증 경고&nbsp;&nbsp;Laodong.vnCúm A gia tăng, bác sĩ cảnh báo dấu hiệu chuyển nặng dù hết sốt&nbsp;&nbsp;Vietnam.vn호흡기 질환이 증가하고 있으며, 많은 사례가 심각한 증상으로 이어지고 있습니다.&nbsp;&nbsp;Vietnam.vn의사들은 많은 노인들이 예상치 못한 원인으로 심각한 A형 독감에 걸리고 있다고 경고합니다.&nbsp;&nbsp;Vietnam.vn독감 A형 환자가 증가하고 있습니다. 방심하지 마세요!&nbsp;&nbsp;Vietnam.vn",
+      "id": "4462d53cad8a",
+      "title": "커피잔 들땐 괜찮은데 쉴 때 떨리는 손…파킨슨병 초기신호",
+      "published": "2026-11-03T07:15:55+00:00",
+      "summary": "커피잔 들땐 괜찮은데 쉴 때 떨리는 손…파킨슨병 초기신호&nbsp;&nbsp;매일경제\"주당 활동시간 길면 파킨슨병 덜 진행...강도보다 시간\"&nbsp;&nbsp;YTN 사이언스기억력 깜빡하고 운동도 안 하면…인지기능 저하 위험 3.22배&nbsp;&nbsp;히트뉴스운동 안 하면 뇌에서 벌어지는 충격적인 변화 7가지… 뇌과학이 밝힌 경고&nbsp;&nbsp;한국공공정책신문",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbzZxeVdjb2I2UFZLczhWOGZOOWI4eWtwN0JZcDNGVTN4YXJ6Zi15amY1WDJQaXYzOUxlM2V5b1NOMEtpY2ZpdXZIRjhvbFlGT2NvZUk5Ry14ZkFCS3hub3RHcTJGTkhBVXhuSmZINFdMUFM1elRMZXBJeGJ4TVZhRXZmM2dBLWRFTUV6VzRqMDQ5UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4a940f6f04a0",
-      "title": "청장년 1인가구, 심장질환 사망 위험 41%↑…이유는?[건강팩트체크]",
-      "published": "2026-11-02T22:30:00+00:00",
-      "summary": "청장년 1인가구, 심장질환 사망 위험 41%↑…이유는?[건강팩트체크]&nbsp;&nbsp;동아일보“1인 가구 시대에 울린 경고”… 혼자 사는 사람, 사망 위험 더 높았다&nbsp;&nbsp;하이닥혼자 사는 청년 많은데… 외로움·대사질환 탓 사망 위험 높다&nbsp;&nbsp;헬스조선1인 가구 사망 위험, 노년층보다 청·중년층서 더 크게 증가&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KaXdVdjBEMXNWNVpsU0phdU8xX0pRenM5VXJnUUYyX29fdUtyd2RBX182d1FKb242N2VpV0l1dWIxU1NjNkpFTFRTWkJOSjJIRWRQTE9DN1lBWDJaenJ2VURDU2dwSklmTlAyVUxhd9IBZkFVX3lxTE8ycUk3aTdkUkNkWTFlM2tSSFVMSnZOSXlua01aYnB5RE1sSm9XN3dyTHJQdVByc1lDeVliSUNnTENHcDRDbG1QUjdBOEpDTHpEVlJlaFFnblZxWVk1WjM2TWxlaFRqUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "782ff8fc7ba7",
-      "title": "[열린마당] 매일 아침 1시간 걷기와 근력 운동",
-      "published": "2026-11-02T17:00:00+00:00",
-      "summary": "[열린마당] 매일 아침 1시간 걷기와 근력 운동&nbsp;&nbsp;한라일보지금 건강을 위한 운동을 하고 있나요? | 뉴스룸 칼럼 | 피플&nbsp;&nbsp;서울아산병원 뉴스룸[근거에 기반한 시대건강 120]⑤매일 30분 운동 VS 주말에 몰아서 하기, 효과는&nbsp;&nbsp;동행미디어 시대[기고] 하루 30분 운동 지키는&nbsp;&nbsp;대전일보",
-      "sources": [
-        {
-          "name": "한라일보",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RUWszVjg0ajk4MVdWT2pCWTZSZ3cwOFp0LUp3NjY2cTJvaUNMZVdSREVRR2N4V1JJUWJKeUpkOUFTbnRiNVJxZGFxZ0dXLUo4Yml1ZUV6TFV1M1JkR0ZDSTlqd2RFUQ?oc=5"
+          "name": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nNUpMMVVyUjBqV1BJX0g0TlNOSy04eUlNeWNQUnVNd1dpVFVncnVxWVlXMHdvd1ZsSHluSHBUSWh6WGdHVWtsclljc3lMUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -649,19 +623,6 @@
         {
           "name": "코리아헬스로그",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uTjVhWFMwSWRHRWdRREFsblZ5dGgzQ0swR2dZazJaWDdLRTVRZnJ3enBkU25Sd0ZsQnB0bmU2Tk9TUWxOamUwQjRlNkEyaXdsMk5XMVZmRnpIcW1HdE9aMFlHamxqS2FLNUk0UWRNLVpZUdIBdkFVX3lxTE8zU0pSZG1jaEdFWF83NUJUQVlzZTI0eDJRcjc5WU5GejVfM0syQmdGVWkxN1VJeEFiX3JBTHY0ZEg5V1d2SnY5WVNqWVZVcGNud0JDVXh1eXJCV0Rva3A2VTEtUjJoVmhOajdGMm9KWnJqTnl2Wnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8ccbeaa48510",
-      "title": "잘라이, 유행병 억제 및 뎅기열 확산 방지 위해 화학 물질 살포",
-      "published": "2026-11-02T07:18:43+00:00",
-      "summary": "잘라이, 유행병 억제 및 뎅기열 확산 방지 위해 화학 물질 살포&nbsp;&nbsp;Laodong.vn뎅기열 상황은 점점 더 복잡해지고 있습니다. 발병 사례와 사망자 수를 줄이기 위해 다양한 해결책을 결합해야 합니다.&nbsp;&nbsp;Vietnam.vn풀뿌리 차원에서 질병 예방 및 통제를 강화합니다.&nbsp;&nbsp;Vietnam.vn뎅기열 환자가 증가하고 있으며, 많은 환자가 중증으로 발전하고 있습니다.&nbsp;&nbsp;Vietnam.vn뎅기열 환자가 17만 명 이상 발생함에 따라 보건부는 새로운 치료 지침을 마련했습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWUxNDVlazhMRTZlYnFrXzYxN0RvNXJyX20xY2o0aVpnSTA5Nk9fbzhtUHRPR29mbUlBSUFjQUFiOGZKNXFRTWNTVkdaN3NfblVVWjZ6QXM1MWVIUXQ1YWNCa0xXVVk2UmlRQkw1LXJJNEI4Y1d2c3ZwTzgxU0g3OS1pZGhaYnoxeXhUVUZSZkdxOWxwQ2xwVTh5V1FnZUkzUHdWeg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -735,7 +696,7 @@
       "id": "ebc080d9658f",
       "title": "'직장에서 쓰러지고 나서야 비타민 D가 부족하다는 걸 알았어요'",
       "published": "2026-10-31T09:09:16+00:00",
-      "summary": "'직장에서 쓰러지고 나서야 비타민 D가 부족하다는 걸 알았어요'&nbsp;&nbsp;BBC화순전남대병원 ‘햇빛의 두 얼굴’ 심포지엄 개최&nbsp;&nbsp;의학신문비타민 D와 노년층 치매 위험 사이의 놀라운 연관성?&nbsp;&nbsp;Vietnam.vn햇빛 아래 일하는 농어업인…전남서 자외선 노출 줄일 방안 논의&nbsp;&nbsp;간호사신문전라남도환경보건센터, 제2회 환경과 건강 심포지엄 성료&nbsp;&nbsp;헬스미디어뉴스",
+      "summary": "'직장에서 쓰러지고 나서야 비타민 D가 부족하다는 걸 알았어요'&nbsp;&nbsp;BBC화순전남대병원 ‘햇빛의 두 얼굴’ 심포지엄 개최&nbsp;&nbsp;의학신문비타민 D와 노년층 치매 위험 사이의 놀라운 연관성?&nbsp;&nbsp;Vietnam.vn전라남도환경보건센터, 제2회 환경과 건강 심포지엄 성료&nbsp;&nbsp;헬스미디어뉴스",
       "sources": [
         {
           "name": "BBC",
@@ -766,19 +727,6 @@
         {
           "name": "세계일보",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3MzNqWEVsRWVJaERLaXQ1UGZsd2hTRXhIc1k5aVpjSllrRjJRUnhFRWIxOGltMkE0ZUlYOWZXd3lfM3IzMDFrOUVVR2ZhUXcwUjBvekVUMmHSAVRBVV95cUxNWmo0NGtIT0Z6X2JWZlp1RXVBR2dOdGFSSVdUX3BsQWlJVFJPbF9YNlN0bDl0cjZpeFVycjYzNlRxeHZuWWtpemRnSTUxcEppUTJoc0U?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6cfc4e4382f9",
-      "title": "노벨상까지 받은 분자 연구, 왜 과학자들은 재앙을 걱정할까",
-      "published": "2026-10-30T15:30:00+00:00",
-      "summary": "노벨상까지 받은 분자 연구, 왜 과학자들은 재앙을 걱정할까&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVVE3YjRPV3ZVRk9QcHFhR091X3ZpT3ExZ1pUWERkVGxpNjc3bWpIZjBGTTl3Rm1PVHlrVkhIZ3NmLVhrc0VGbjh0dEtLbGcwREFCQmRWYTRTeERaNTdhQkY1cHFPdEU1TEJSWlNmMklKcFlZNFpBcURFU09JVUk2bjRyeHU?oc=5"
         }
       ],
       "matched_keywords": []
