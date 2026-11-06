@@ -46,7 +46,7 @@ def generate_capability_statement() -> dict:
         "status": "active",
         "date": datetime.now().strftime("%Y-%m-%d"),
         "publisher": "KrTxGNN Project",
-        "description": "韓國 MFDS 藥品老藥新用預測系統 FHIR API",
+        "description": "한국 MFDS 의약품 약물재창출 예측 시스템 FHIR API",
         "kind": "instance",
         "fhirVersion": "4.0.1",
         "format": ["json"],

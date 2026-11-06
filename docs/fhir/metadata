@@ -8,7 +8,7 @@
   "status": "active",
   "date": "2026-03-02",
   "publisher": "KrTxGNN Project",
-  "description": "韓國 MFDS 藥品老藥新用預測系統 FHIR API",
+  "description": "한국 MFDS 의약품 약물재창출 예측 시스템 FHIR API",
   "kind": "instance",
   "fhirVersion": "4.0.1",
   "format": [
