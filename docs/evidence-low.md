@@ -22,7 +22,7 @@ description: "KrTxGNN의 L5 후보: 모델 예측만 존재하며 아직 임상 
 
 ---
 
-{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | sort: "title" %}
+{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 ### L5 ({{ l5_drugs.size }}건)
 

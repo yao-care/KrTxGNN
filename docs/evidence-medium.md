@@ -23,8 +23,8 @@ description: "KrTxGNN의 L3-L4 약물재창출 후보로, 관찰 연구 또는 �
 
 ---
 
-{% assign l3_drugs = site.drugs | where: "evidence_level", "L3" | sort: "title" %}
-{% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | sort: "title" %}
+{% assign l3_drugs = site.drugs | where: "evidence_level", "L3" | where_exp: "d", "d.noindex != true" | sort: "title" %}
+{% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 ### L3 ({{ l3_drugs.size }}건)
 

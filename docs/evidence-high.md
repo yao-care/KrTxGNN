@@ -25,8 +25,8 @@ description: "KrTxGNN의 L1-L2 약물재창출 후보로, 임상시험 또는 �
 
 ---
 
-{% assign l1_drugs = site.drugs | where: "evidence_level", "L1" | sort: "title" %}
-{% assign l2_drugs = site.drugs | where: "evidence_level", "L2" | sort: "title" %}
+{% assign l1_drugs = site.drugs | where: "evidence_level", "L1" | where_exp: "d", "d.noindex != true" | sort: "title" %}
+{% assign l2_drugs = site.drugs | where: "evidence_level", "L2" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 ### L1 ({{ l1_drugs.size }}건)
 
