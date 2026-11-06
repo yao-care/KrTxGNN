@@ -439,7 +439,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "분류되지 않은 골수이형성증후군",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/arsenic-trioxide/"
     },
@@ -569,7 +569,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "질환",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/azosemide/"
     },
@@ -1169,7 +1169,7 @@
       "evidence_level": "L5",
       "indication_count": 5,
       "original_indication": "",
-      "predicted_indication": "CMM7",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/carfilzomib/"
     },
@@ -1469,7 +1469,7 @@
       "evidence_level": "L5",
       "indication_count": 7,
       "original_indication": "",
-      "predicted_indication": "외음부 역전모낭각화증",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/clobetasol-propionate/"
     },
@@ -2139,7 +2139,7 @@
       "evidence_level": "L1",
       "indication_count": 8,
       "original_indication": "",
-      "predicted_indication": "예측 질환",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/doxorubicin/"
     },
@@ -2729,7 +2729,7 @@
       "evidence_level": "L2",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "예측 적응증",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/fludarabine/"
     },
@@ -4819,7 +4819,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "심장 전도 질환",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pefloxacin/"
     },
@@ -5059,7 +5059,7 @@
       "evidence_level": "L5",
       "indication_count": 4,
       "original_indication": "",
-      "predicted_indication": "예측 적응증",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pitavastatin/"
     },
@@ -5379,7 +5379,7 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "",
-      "predicted_indication": "자궁인대 선암",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/ramucirumab/"
     },
@@ -5689,7 +5689,7 @@
       "evidence_level": "L5",
       "indication_count": 7,
       "original_indication": "",
-      "predicted_indication": "말단중간이형성증 Hunter-Thompson형",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/salsalate/"
     },
@@ -5729,7 +5729,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "두피 단순 저모발증",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sennosides/"
     },
@@ -5909,7 +5909,7 @@
       "evidence_level": "L5",
       "indication_count": 8,
       "original_indication": "",
-      "predicted_indication": "Brachydactyly-syndactyly syndrome",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/sulfasalazine/"
     },
@@ -6349,7 +6349,7 @@
       "evidence_level": "L5",
       "indication_count": 6,
       "original_indication": "",
-      "predicted_indication": "예측 적응증",
+      "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/trastuzumab/"
     },
