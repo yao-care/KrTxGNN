@@ -6,7 +6,7 @@ nav_order: 87
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Armodafinil: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 확인되지 않음 (허가증에는 문서 링크만 수록)"
+description: "Armodafinil: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L2). 기존 적응증: 허가 적응증 텍스트는 확인되지 않음 (허가증에는 문서 링크만 수록)"
 monitor_inn: "ARMODAFINIL"
 predicted_indications: ["insomnia (disease)"]
 ---

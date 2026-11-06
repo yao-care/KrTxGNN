@@ -6,7 +6,7 @@ nav_order: 748
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Topotecan: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L3). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
+description: "Topotecan: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 ---

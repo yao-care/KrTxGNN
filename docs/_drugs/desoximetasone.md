@@ -6,7 +6,7 @@ nav_order: 265
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Desoximetasone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L5). 기존 적응증: 피부 염증성 질환 (알레르기 반응, 습진, 건선 등"
+description: "Desoximetasone: 예측 신규 적응증 원형탈모증 (Alopecia Areata) (근거 수준 L2). 기존 적응증: 피부 염증성 질환 (알레르기 반응, 습진, 건선 등"
 monitor_inn: "DESOXIMETASONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "primary cutaneous B-cell lymphoma", "atrichia with papular lesions", "vulvar inverted follicular keratosis"]
 ---

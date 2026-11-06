@@ -6,7 +6,7 @@ nav_order: 266
 evidence_level: L4
 indication_count: 8
 last_modified_at: 2026-11-05
-description: "Desvenlafaxine: 예측 신규 적응증 강박장애 (Obsessive-Compulsive Disorder) (근거 수준 L5). 기존 적응증: 주요우울장애 (허가 적응증 원문은 제공되지 않아 허가 문서 링크만 확인됨)"
+description: "Desvenlafaxine: 예측 신규 적응증 강박장애 (Obsessive-Compulsive Disorder) (근거 수준 L4). 기존 적응증: 주요우울장애 (허가 적응증 원문은 제공되지 않아 허가 문서 링크만 확인됨)"
 monitor_inn: "DESVENLAFAXINE"
 predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---

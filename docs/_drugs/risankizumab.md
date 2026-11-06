@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Risankizumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 last_modified_at: 2026-10-31
-description: "Risankizumab: 예측 신규 적응증 피부염 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 자료에 없음)"
+description: "Risankizumab: 예측 신규 적응증 피부염 (근거 수준 L2). 기존 적응증: 확인 불가 (허가 적응증 본문이 자료에 없음)"
 ---
 
 # Risankizumab

@@ -6,7 +6,7 @@ nav_order: 243
 evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-11-05
-description: "Cyproterone Acetate: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 확인되지 않았습니다. 약리 정보상 안드로겐 의존성 질환(전립선암, 여드름…"
+description: "Cyproterone Acetate: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L4). 기존 적응증: 허가 적응증 원문은 확인되지 않았습니다. 약리 정보상 안드로겐 의존성 질환(전립선암, 여드름…"
 monitor_inn: "CYPROTERONE ACETATE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "amenorrhea (disease)", "breast fibrocystic disease", "thrombophilia"]
 ---

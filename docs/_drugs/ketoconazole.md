@@ -6,7 +6,7 @@ nav_order: 448
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-11-05
-description: "Ketoconazole: 예측 신규 적응증 여드름 (acne) (근거 수준 L5). 기존 적응증: 백선(체부백선, 완선, 족부백선), 피부칸디다증, 어루러기, 지루피부염 등 피부 진균증"
+description: "Ketoconazole: 예측 신규 적응증 여드름 (acne) (근거 수준 L4). 기존 적응증: 백선(체부백선, 완선, 족부백선), 피부칸디다증, 어루러기, 지루피부염 등 피부 진균증"
 monitor_inn: "KETOCONAZOLE"
 predicted_indications: ["acne (disease)"]
 ---
