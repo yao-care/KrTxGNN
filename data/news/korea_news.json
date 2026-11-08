@@ -1,10 +1,34 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-11-07T21:35:37.399497+00:00",
-  "total_fetched": 116,
-  "unique_count": 116,
-  "health_related_count": 53,
+  "fetched_at": "2026-11-08T05:09:05.618439+00:00",
+  "total_fetched": 113,
+  "unique_count": 113,
+  "health_related_count": 51,
   "news": [
+    {
+      "id": "80422ac7dfd2",
+      "title": "미국 연구진, \"자극형 단백질 분해\" 전략 제시…뉴런 생존 회복 - 바이오북미디어",
+      "published": "2026-11-08T03:00:00+00:00",
+      "summary": "미국 연구진, \"자극형 단백질 분해\" 전략 제시…뉴런 생존 회복&nbsp;&nbsp;바이오북미디어",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GSjBJNDJubU5BaWJ4UWd5YlJvRTBoUUZubXdDWGd6Skx2Q1hVTjMtQWxnbWMzN3FsTWtyRnhncmliZV9sQzQ4T1otUW9heW00UExZYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e118fcfb6390",
+      "title": "“나는 불안형, 전 남친은 회피형”…SNS 연애 진단에 빠진 사람들이 놓친 것 - 경향신문",
+      "published": "2026-11-08T00:40:00+00:00",
+      "summary": "“나는 불안형, 전 남친은 회피형”…SNS 연애 진단에 빠진 사람들이 놓친 것&nbsp;&nbsp;경향신문",
+      "sources": [
+        {
+          "name": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1obFdlcHFDQWFMM2psM2hVdHI1Zm1wSXNCSzZDS1NIX0xiZFZ0c2dBN0dyMFFLQldFbTAxUzJoaEpqZkcxamxLUlZfY2JjTXFvMkxQa0JZbHZEQdIBX0FVX3lxTFBOcEhQM0lodzd4d3FqRXJ2ZVlnRS05Q1hkMFhJOWJRUjlVMmlvdGlnS21PeWI3TTNrZGQtUmxoa0VhSVJLZjQtTHRzeW5WYjgyaFZnN20xV0Zyb3N6VWhR?oc=5"
+        }
+      ]
+    },
     {
       "id": "f4c566735661",
       "title": "[초록] PEDV와 다른 병원체의 혼합감염 역학적 특성 분석: 체계적 문헌고찰 및 메타분석 - 돼지와사람",
@@ -21,7 +45,7 @@
       "id": "831f9a8f3455",
       "title": "내시경 없이 암 찾는다?…암 조기검진의 진화 - DongA Science",
       "published": "2026-11-07T09:00:00+00:00",
-      "summary": "내시경 없이 암 찾는다?…암 조기검진의 진화&nbsp;&nbsp;DongA Science동네 병원 혈액검사로 췌장암까지 찾아낼까… 13종 암 진단 임상시험&nbsp;&nbsp;조선일보피 한 방울로 복부 암 6종 잡아낸다… 영국 가정의 진료실서 세계 첫 임상 시도&nbsp;&nbsp;글로벌이코노믹피검사로 암 더 일찍 찾을까…英 NHS, 2만명 대상 연구&nbsp;&nbsp;메디파나뉴스",
+      "summary": "내시경 없이 암 찾는다?…암 조기검진의 진화&nbsp;&nbsp;DongA Science동네 병원 혈액검사로 췌장암까지 찾아낼까… 13종 암 진단 임상시험&nbsp;&nbsp;조선일보피 한 방울로 복부 암 6종 잡아낸다… 영국 가정의 진료실서 세계 첫 임상 시도&nbsp;&nbsp;글로벌이코노믹피검사로 암 더 일찍 찾을까…英 NHS, 2만명 대상 연구&nbsp;&nbsp;메디파나뉴스영국, 1차의료서 암 조기 발견 혈액검사 임상시험 시작&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "DongA Science",
@@ -81,23 +105,11 @@
       "id": "5e0670167384",
       "title": "당뇨병 환자 발이 붓고 뜨거운데 안 아프다면…바로 진료 받아야 - 이데일리",
       "published": "2026-11-07T05:27:02+00:00",
-      "summary": "당뇨병 환자 발이 붓고 뜨거운데 안 아프다면…바로 진료 받아야&nbsp;&nbsp;이데일리혈당만 챙기다 발 건강 놓칠라…당뇨병 환자에게 필요한 습관&nbsp;&nbsp;약사공론'당뇨발' 위험, 흡연이 키운다는데...왜?&nbsp;&nbsp;이코노미스트당뇨환자 발이 붓고 뜨거운데 통증 없다면…'샤르코 족부병증' 의심&nbsp;&nbsp;보건신문당뇨병 환자, 발이 붓고 뜨거운데 통증 없다면 ‘샤르코 족부병증’ 주의&nbsp;&nbsp;백세시대",
+      "summary": "당뇨병 환자 발이 붓고 뜨거운데 안 아프다면…바로 진료 받아야&nbsp;&nbsp;이데일리'당뇨발' 위험, 흡연이 키운다는데...왜?&nbsp;&nbsp;이코노미스트혈당만 챙기다 발 건강 놓칠라…당뇨병 환자에게 필요한 습관&nbsp;&nbsp;약사공론당뇨환자 발이 붓고 뜨거운데 통증 없다면…'샤르코 족부병증' 의심&nbsp;&nbsp;보건신문",
       "sources": [
         {
           "name": "이데일리",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbW9mcERoOGpwT2NMOFl1SU9KVV9TT0hkUDJrRlpHbXUxbWJ3djdiUTY4OTlrQnV6bmd2YngxaFhQbDNvUzB0OWo4djByNTRQTFN6QjBkNTBTcW51c1liMnJGX3M2cW5jd2FtNDI0Nk1kSTFGek9rUVo2djRBSXhpRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c66783dba5f1",
-      "title": "'장관이 백신 불신' 미국 홍역 확진 35년만에 최고 - 이데일리",
-      "published": "2026-11-07T05:19:51+00:00",
-      "summary": "'장관이 백신 불신' 미국 홍역 확진 35년만에 최고&nbsp;&nbsp;이데일리Google 뉴스에서 헤드라인 및 의견 더보기",
-      "sources": [
-        {
-          "name": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcllVa3ZIaFhhVzFGT3ZjNG81T2ZXbU0wMkowNkJZTmhhMHkzd1lQYUVYeF9XRk9iUWtNbXhWcHgzSlk0OTczek8xRlI0SXBHTFVQSTNkOGRIUzVLaGZ5dU1SYjRFOVVncnB5R21vbDJyN3hRaTh6aVVfS0k1Q0ZELQ?oc=5"
         }
       ]
     },
@@ -138,18 +150,6 @@
       ]
     },
     {
-      "id": "90738c16a1b9",
-      "title": "“췌장 건강 해칠라”… 내과 전문의가 경고한 ‘김치’의 정체 - 헬스조선",
-      "published": "2026-11-07T01:00:00+00:00",
-      "summary": "“췌장 건강 해칠라”… 내과 전문의가 경고한 ‘김치’의 정체&nbsp;&nbsp;헬스조선김밥에 믹스커피 먹으면 췌장암? 744만명 추적해보니 진짜 주범은 따로 있었다&nbsp;&nbsp;세계일보\"췌장암 유발한다\" 내과 전문의가 경고한 의외의 음식 3가지&nbsp;&nbsp;코메디닷컴[신동립 잡기노트]췌장, 왜 ‘갑자기’ 난리인가&nbsp;&nbsp;더리포트초기 발견 어려운 췌장암…갑자기 생긴 당뇨도 위험 신호?&nbsp;&nbsp;매경헬스",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QNmpHQ2JVSGpaZ3BiVnAyRTE4MUU0Z0pIbTBHTVN1OGZ0YlQwemJXNTRvVDc5TUlXLUp0U1NqUmtNcFBxb0x2MHhCSV9jNFU5UEZoZDZSZFBtY1kwSUpaQlYzX3N1MjM4cmhkdWhJU3huOHplbWlIcEpSdDBPYW8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6b3f1861a1b7",
       "title": "\"암인데 당장 치료 안 해도 된다고?\"…남성 암 1위 전립선암의 두 얼굴 - 서플 뉴스",
       "published": "2026-11-07T00:30:00+00:00",
@@ -158,18 +158,6 @@
         {
           "name": "서플 뉴스",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GaW43NnZ0NndCOF8yTWxnVmlJNmdoYlVITmxSY1F5dmZnUHVKSElmdFVMZ0l3N3Q4bnloTXFjS1NfZTFsYjd3TWtIdUptZVhkbWhtY0IzemFBN3dh?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f99ecf85230b",
-      "title": "“그동안 설탕물 마셨네요”… 가정의학과 의사가 말리는 ‘아침 과일’ - 헬스조선",
-      "published": "2026-11-06T23:00:00+00:00",
-      "summary": "“그동안 설탕물 마셨네요”… 가정의학과 의사가 말리는 ‘아침 과일’&nbsp;&nbsp;헬스조선“의외로 당 덩어리일 수 있다”… 가정의학과 전문의가 경고한 '위험한 간식'&nbsp;&nbsp;위키트리건강 간식인 줄 알았는데…혈당 높이는 '말린 과일'&nbsp;&nbsp;센머니건강 챙기려 먹었는데…\"혈당 폭탄 맞는다\" 전문가 경고한 '이것'&nbsp;&nbsp;아시아경제“건강식인 줄 알았는데 혈당 급등”··· 영양사 경고한 ‘간식’ 한 가지&nbsp;&nbsp;밴쿠버 조선일보",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRnZfOEEyNEVWTU9SWHJVY2RrRk1idEVFaW9pU21yQm9OaHp5ZWF6NFo2TGdXTGQ5MnU3NElhZDdwZDZMbllyRExiS25XVnZjaUFXQjZ1SzNEVm9kRVoxRGpZbFpFV2JldlVfZ29ySV9OcEJCcWszRkVCMUpMY00?oc=5"
         }
       ]
     },
@@ -201,11 +189,23 @@
       "id": "58a02aeec41b",
       "title": "GLP-1 계열 약물, 메트포르민 대비 당뇨병 전단계 정상화 가능성 53% 높아 - 약사공론",
       "published": "2026-11-06T20:49:00+00:00",
-      "summary": "GLP-1 계열 약물, 메트포르민 대비 당뇨병 전단계 정상화 가능성 53% 높아&nbsp;&nbsp;약사공론“비만치료제로 치매-중독-암도 예방? 가능성은 살짝 보인다”&nbsp;&nbsp;동아일보GLP-1 계열 약물, 메트포르민보다 당뇨병 진행 위험 31% 낮춰&nbsp;&nbsp;헬스조선당뇨 전단계 환자, GLP-1 복용했더니 메트포르민보다 당뇨 진행 위험 31% 낮아&nbsp;&nbsp;글로벌이코노믹80세 이상 만성콩팥병 환자도 SGLT2 억제제 치료 효과 확인&nbsp;&nbsp;메디컬투데이",
+      "summary": "GLP-1 계열 약물, 메트포르민 대비 당뇨병 전단계 정상화 가능성 53% 높아&nbsp;&nbsp;약사공론“비만치료제로 치매-중독-암도 예방? 가능성은 살짝 보인다”&nbsp;&nbsp;동아일보GLP-1 계열 약물, 메트포르민보다 당뇨병 진행 위험 31% 낮춰&nbsp;&nbsp;헬스조선[표지로 읽는 과학]살 빼기 넘어 온몸으로…GLP-1의 무대 확장&nbsp;&nbsp;DongA Science비만치료제 GLP-1, 뇌 기능 보호 가능성 주목…인지기능 개선 효과는 불확실&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "약사공론",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PcEFiYTN5allocTFoWWM3VGJneWF4MV9RSjZrVkhSVVpOLWtXdHB3RmRTd212alFFcERMTi0tblBVRjRwSnp1Mk4yT3hidmxZWTRJajVYZ0FKQ3N3Slg2anhtRC1CQmxua1lxWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b36bcb4a3257",
+      "title": "김밥에 믹스커피 먹으면 췌장암? 744만명 추적해보니 진짜 주범은 따로 있었다 - 세계일보",
+      "published": "2026-11-06T20:00:00+00:00",
+      "summary": "김밥에 믹스커피 먹으면 췌장암? 744만명 추적해보니 진짜 주범은 따로 있었다&nbsp;&nbsp;세계일보\"췌장암 유발한다\" 내과 전문의가 경고한 의외의 음식 3가지&nbsp;&nbsp;코메디닷컴“췌장 건강 해칠라”… 내과 전문의가 경고한 ‘김치’의 정체&nbsp;&nbsp;헬스조선초기 발견 어려운 췌장암…갑자기 생긴 당뇨도 위험 신호?&nbsp;&nbsp;매경헬스[신동립 잡기노트]췌장, 왜 ‘갑자기’ 난리인가&nbsp;&nbsp;더리포트",
+      "sources": [
+        {
+          "name": "세계일보",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BejRxZ2RseFpUSm0zYW1CNmFnS2ViVFpvVXNIb1dBVHNrNWZvRUxXQ1VoQjMyQ2xHOXdGNTViUVZRMVhpMzFjODc0ekhWN0VNX3hzZjN6dDTSAVRBVV95cUxNeWhaUHliMGlDeGVJSGhZWEoyeWN3alVwaWZRR1JJS0tfVkF4aGRzdFYyLVN0bkFVc3B4TVUxdDlPS1EwX3JFMm9XRHVLdmZjTWJaS08?oc=5"
         }
       ]
     },
@@ -230,6 +230,18 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJYmNNNV8tRlZPTjJ3djkyTXpqTVNUeDBOT2V1NXlEYWE2dVFjbFp4azdEdDhHRmN4STNwWU14U0ZCcTVHOWkxU0FMeVoxNGllNEZ4STlES2d6YWc5MGZINGtvenRtVmRncnIw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "897788a4a578",
+      "title": "\"우주서 항암제 만든다\"… 美 바르다, 한 달 새 캡슐 3대 또 띄웠다 - 조선일보",
+      "published": "2026-11-06T08:00:00+00:00",
+      "summary": "\"우주서 항암제 만든다\"… 美 바르다, 한 달 새 캡슐 3대 또 띄웠다&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0RUd3pKdk8wOXFWbjV0R3ZNdzhZdzFoREp6VEI1ci1FNlJvcVVfblM4ZkVuVzRuOXJUWlZjbTZuZVAzSVp4OXhCNzBFNzB4LWpNdUFxUkN4Sm5lUEJrcVNMWjI2ZWFlX2Y0clJSRDlZb2dBM2VzS1R1bzVRY2NFajctcw?oc=5"
         }
       ]
     },
@@ -270,50 +282,26 @@
       ]
     },
     {
-      "id": "261930f90aaa",
-      "title": "노화세포 겨냥 나노입자, 면역항암 효과 높일까…생쥐서 가능성 확인 - https://www.newsinspace.kr/",
-      "published": "2026-11-06T01:53:15+00:00",
-      "summary": "노화세포 겨냥 나노입자, 면역항암 효과 높일까…생쥐서 가능성 확인&nbsp;&nbsp;https://www.newsinspace.kr/",
+      "id": "9c9af44a1b85",
+      "title": "[전문의 칼럼] “자꾸 깜빡하는 데, 혹시 치매일까?”... 단순 건망증과 치매 증상의 차이 - 이데일리",
+      "published": "2026-11-05T21:22:02+00:00",
+      "summary": "[전문의 칼럼] “자꾸 깜빡하는 데, 혹시 치매일까?”... 단순 건망증과 치매 증상의 차이&nbsp;&nbsp;이데일리[의료칼럼] 치매가 의심될 때&nbsp;&nbsp;대전일보건망증과 치매&nbsp;&nbsp;충청일보",
       "sources": [
         {
-          "name": "https://www.newsinspace.kr/",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2MDZCOV85aXVpbXRqenZXQ0pDNzVqSlMzUXBSb1dudEt5ZjJsblhfLVZQRmxfeWhVV3hyRklzb2w5bmUxcVJ2XzdXbTBUOUMyODJKYWtaazJ0MFJwek5CVjYxVDNUby1GYWN3?oc=5"
+          "name": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSHdOSl8zTnpFX1Y3UklSbE02Um8tcHdRUmdHcWNUTHJLWVozRE5aX1otRHJ0dURLTEJ0QzM0X0hHOUJPMlVBZFdDVURWb2ZCcEY2OTBRcmlGRGQ3cnFpNlJNNEU4RWliZVU4T0tHV09Dd1I2SmhoTG45LUJWY011Vg?oc=5"
         }
       ]
     },
     {
-      "id": "b65fd4cbac72",
-      "title": "탈장인 줄 알고 수술했더니⋯배꼽 피부 밑에서 나온 2cm '뱀 기생충' - 코메디닷컴",
-      "published": "2026-11-06T01:20:00+00:00",
-      "summary": "탈장인 줄 알고 수술했더니⋯배꼽 피부 밑에서 나온 2cm '뱀 기생충'&nbsp;&nbsp;코메디닷컴",
+      "id": "54adef6850a3",
+      "title": "조류독감 변이까지 ‘완벽 방어’하는 백신, AI가 개발 - 동아일보",
+      "published": "2026-11-05T19:30:00+00:00",
+      "summary": "조류독감 변이까지 ‘완벽 방어’하는 백신, AI가 개발&nbsp;&nbsp;동아일보",
       "sources": [
         {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9Kck1lRnJMYWljZzFnNGtyZDF4TDhRQ2pkTVpTcEtFUGNkWFEtMVBvVm95TTlTVDhyM2FEc2otajJMZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "50754b3dc524",
-      "title": "mRNA RSV 백신, 고령자 입원위험 80% 이상 낮춰 - 메디칼트리뷴",
-      "published": "2026-11-06T00:31:07+00:00",
-      "summary": "mRNA RSV 백신, 고령자 입원위험 80% 이상 낮춰&nbsp;&nbsp;메디칼트리뷴RSV는 영유아만 걸린다? '이런 성인'에겐 위협적…\"백신 접종 권장\" - 머니투데이&nbsp;&nbsp;머니투데이“손주 콧물에 폐렴 왔다”…독감 주사만 맞은 할머니 실수&nbsp;&nbsp;중앙일보\"감기인줄 알았는데 폐렴으로\"…평택시, 영유아·고령층 RSV 주의보&nbsp;&nbsp;뉴시스\"콧물·기침 있던 아기가 숨 쉴 때 갈비뼈 사이가 움푹 들어가면 병원 가세요\"&nbsp;&nbsp;한국일보",
-      "sources": [
-        {
-          "name": "메디칼트리뷴",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UYW5XLU5rRzVreUppSVBoR0EtUnFudGVub25HdzFyLUhTcW1OdTYzdlZRMTViNUF0NlB3cWhTR2xTVF9IY3JVYS12S21Wd3BadGhyV1cyazB5Z2JVM01nVnVWSGRGWWo0aWhfZnFfOVJFOXV0Wnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "093666d8e356",
-      "title": "[의료칼럼] 치매가 의심될 때 - 대전일보",
-      "published": "2026-11-05T22:00:00+00:00",
-      "summary": "[의료칼럼] 치매가 의심될 때&nbsp;&nbsp;대전일보[전문의 칼럼] “자꾸 깜빡하는 데, 혹시 치매일까?”... 단순 건망증과 치매 증상의 차이&nbsp;&nbsp;이데일리건망증과 치매&nbsp;&nbsp;충청일보",
-      "sources": [
-        {
-          "name": "대전일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpVk5EZjgwd1RURUxqREVXUXk1YXFxb0lrcWQ3UG1NaFJKbVdpYW85aGZ5eUp3UkYzbDJ2am5HZ2xFam9RYXhlY05Xdld0NkNjUzFYODZSVnFQbE5jLTR4Yy1OWHZJYUZGbm1zTzg2b9IBc0FVX3lxTE80bTUyYW95VVBPcHlEbm1UTktXQmxjOGNHU3ZZXzVXZ1dESVoxZFVOV0hDQVBwc09VUjJpLXdkQVNtQ2loSFdOVkpuSW1WTXhHNDZyMGlxZV93WHcyNnY1VC1jVnlhOFRZLVU4RlB4clktbVE?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92TDdzRGtFcjNhSDZ4V1p6eFFYT0ZMUHhyREF3aWw5VGFVTmJVTW9NWlVHODdHR0FQVlNIaDVOUjhxdFRFcFJacy14dmpOem1xY2JHRldXeWI0cUZTSWdacE9WN1F4a2d3cWJLRlY0ejd1ajQwVGfSAWZBVV95cUxQYWYwLVpKYm5GZ092VkRUMEpGbFJGZ21RcXFuMXJOZTdVQWE3TUE5eE04WHBRSnpwdDJJY2xsTFREQWxMbS1JcVo1dEwtemxobGxmcnlhcnpqWE9YZGdYS3JNS2NfU1E?oc=5"
         }
       ]
     },
@@ -321,7 +309,7 @@
       "id": "5d961f28e433",
       "title": "“자면서 열량 소모”… 비만 치료 대가가 추천한 ‘수면 다이어트’ - 헬스조선",
       "published": "2026-11-05T15:30:00+00:00",
-      "summary": "“자면서 열량 소모”… 비만 치료 대가가 추천한 ‘수면 다이어트’&nbsp;&nbsp;헬스조선Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "“자면서 열량 소모”… 비만 치료 대가가 추천한 ‘수면 다이어트’&nbsp;&nbsp;헬스조선\"일주일 운동 쉬고 세 끼 먹었더니 체지방 뚝\"…의사가 권하는 반전 감량법&nbsp;&nbsp;뉴시스몸속 지방을 태우고 싶다면, 침실은 '이 온도'로 맞춰보세요&nbsp;&nbsp;픽데일리침실 19도로 낮추면 잠자는 동안 ‘지방’ 탄다&nbsp;&nbsp;인사이트",
       "sources": [
         {
           "name": "헬스조선",
@@ -333,23 +321,11 @@
       "id": "03bdc59583c3",
       "title": "“살찌는 음식이 면역항암제 효과 높인다?”… 뜻밖의 원인은 ‘장내 세균’ - 하이닥",
       "published": "2026-11-05T08:00:00+00:00",
-      "summary": "“살찌는 음식이 면역항암제 효과 높인다?”… 뜻밖의 원인은 ‘장내 세균’&nbsp;&nbsp;하이닥몸을 돌보는 식사, 매일의 즐거움&nbsp;&nbsp;조선일보“살 찌우고 몸에 안 좋은 음식인데?”…의외로 암 치료 효과 높인다고?&nbsp;&nbsp;코메디닷컴암 환자, 심혈관질환 위험 낮추려면 지켜야 할 ‘식사 공식’&nbsp;&nbsp;헬스조선",
+      "summary": "“살찌는 음식이 면역항암제 효과 높인다?”… 뜻밖의 원인은 ‘장내 세균’&nbsp;&nbsp;하이닥몸을 돌보는 식사, 매일의 즐거움&nbsp;&nbsp;조선일보암 환자, 심혈관질환 위험 낮추려면 지켜야 할 ‘식사 공식’&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "하이닥",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11X2RXRTB1elRncDZkUnQ1dk51TFNsc1daQVNLUmY1ZmZnY1dyYW8tUW43RFBySW5XUGxTWUVfalluS010MXRSMzJvVDBNUU05b1BnZmM2MUFPbVpjdFlrT3QxNXpPUWJWMnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "63197bacc2c3",
-      "title": "“T세포 림프종 세부 분류, 치료 성적 좌우, 정밀 진단 중요성 커져” - 현대건강신문",
-      "published": "2026-11-05T07:18:00+00:00",
-      "summary": "“T세포 림프종 세부 분류, 치료 성적 좌우, 정밀 진단 중요성 커져”&nbsp;&nbsp;현대건강신문",
-      "sources": [
-        {
-          "name": "현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oSnQwSGFEdm5XUm1vR3NzQjgxd3ZSZWhLTTM5WGRUMWd6ZWpYcEUzTzl2Tnhkc3QwLVFjZEQ0VW9NRUNMaG4wMGQ4WnVna0ZMMzVHanc1UEc?oc=5"
         }
       ]
     },
@@ -390,6 +366,18 @@
       ]
     },
     {
+      "id": "1025d114e6da",
+      "title": "중성지방 수치 높으면 급성 췌장염 위험…검진 결과 꼭 확인해야 - 매경헬스",
+      "published": "2026-11-04T23:00:00+00:00",
+      "summary": "중성지방 수치 높으면 급성 췌장염 위험…검진 결과 꼭 확인해야&nbsp;&nbsp;매경헬스",
+      "sources": [
+        {
+          "name": "매경헬스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tX2VGTkNrblBENmZXSEpsZnBwXzkwelRJaUhsNG84XzVPMGM1TmFVYjlmQW03R0UtWTBpdkpIeEJmQmJTYTZvNjRmOG5uWTFiYXhwU3JkemRUNHVaNVFBaDM3d21RdTAyczVGRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a37f7a10e65b",
       "title": "[의사들이 매일 실천하는 건강습관 56편] 아침에 일어나면 머리가 아프다면…‘수면 부족’보다 먼저 확인해야 할 건강 신호 - 전국뉴스",
       "published": "2026-11-04T22:55:00+00:00",
@@ -410,6 +398,18 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZnQ1cTJxWENKTGszaG5BS1E1bFV0UnR3U18xOXpwb0tFNERqdEZPdXk4VWg1dDVKSGlaZzlwVjVIQ3dKYjhaN2R5c1dWZDdqcURiUi05V2lMTlJOaHdNck5wUVpFTXV6alRKQTJIV282X2Z4V3V5LUowVGtQQU9WR05aOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "157ac2645637",
+      "title": "질병청, RSV 백신 국가접종 검토 2년째...가격·수급 안정 대책은 '아직' - 의학신문",
+      "published": "2026-11-04T21:00:00+00:00",
+      "summary": "질병청, RSV 백신 국가접종 검토 2년째...가격·수급 안정 대책은 '아직'&nbsp;&nbsp;의학신문“손주 콧물에 폐렴 왔다”…독감 주사만 맞은 할머니 실수&nbsp;&nbsp;중앙일보GSK 설문조사: 만성 질환을 가진 성인의 79%가 RSV를 포함한 호흡기 바이러스에 감염될 때 일상생활에 차질을 겪는 것으로 나타났습니다.&nbsp;&nbsp;Vietnam.vn\"콧물·기침 있던 아기가 숨 쉴 때 갈비뼈 사이가 움푹 들어가면 병원 가세요\"&nbsp;&nbsp;한국일보RSV 백신, 75세 이상·고위험군 접종 중요성 부각&nbsp;&nbsp;메디칼업저버",
+      "sources": [
+        {
+          "name": "의학신문",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeTR4ZHNXd29fRHkzeWhmVm1RVWZ1akp6TUJ6d0RlREcwVFZicTRBWHNOU29Cbk8tdl9IcC1VbTljWTI1aWhRVFhNQnQ3blY3b2MzSVdYSFpiUXN5ekhIVUpTbE04OHVtY1E?oc=5"
         }
       ]
     },
@@ -438,10 +438,22 @@
       ]
     },
     {
+      "id": "297ded0665a0",
+      "title": "집 없는 사람이 집 찾는 시대 끝내야…1인 가구 800만 시대, ‘작고 부담 없는 집’으로 주택정책 바꿀 때 - https://www.sisaworld.kr/",
+      "published": "2026-11-04T11:00:14+00:00",
+      "summary": "집 없는 사람이 집 찾는 시대 끝내야…1인 가구 800만 시대, ‘작고 부담 없는 집’으로 주택정책 바꿀 때&nbsp;&nbsp;https://www.sisaworld.kr/1인 가구의 반전…더 아프고, 에너지도 더 쓴다?&nbsp;&nbsp;DongA Science“1인 가구 시대에 울린 경고”… 혼자 사는 사람, 사망 위험 더 높았다&nbsp;&nbsp;하이닥혼자 사는 청년 많은데… 외로움·대사질환 탓 사망 위험 높다&nbsp;&nbsp;헬스조선청장년 1인가구, 심장질환 사망 위험 41%↑…이유는?[건강팩트체크]&nbsp;&nbsp;동아일보",
+      "sources": [
+        {
+          "name": "https://www.sisaworld.kr/",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91UTc5WHViaXV4d0xIaUZBTkx3TDNFOEZUeXN3cE5lbjRxNjQ1RUZiQVkwOWJ4T01oNjhKZm4xUzhjcGpPTTgzQzFSSi1XYi11aUNlVTROVk1EZ182dEZLcEZ1UmRyU2NrMFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5694c836eb8a",
       "title": "“햄·소시지 줄이고 5분씩 걸으세요”… 유방암 막는 생활 습관 3가지 - 헬스조선",
       "published": "2026-11-04T07:30:00+00:00",
-      "summary": "“햄·소시지 줄이고 5분씩 걸으세요”… 유방암 막는 생활 습관 3가지&nbsp;&nbsp;헬스조선폐암은 소리 없이 진행되기 때문에 많은 사람들이 중요한 치료 기회를 놓칩니다.&nbsp;&nbsp;Vietnam.vn\"흡연이 유방암 위험 높인다\"... 유방암 위험 줄이는 생활 습관 4가지&nbsp;&nbsp;하이닥[지금, 명의] “엄마가 유방암이면 딸도 위험? 유전성 유방암, 두려워 말고 대비를”&nbsp;&nbsp;서울경제약 600명의 여성이 무료 유방암 검진을 받았습니다.&nbsp;&nbsp;Vietnam.vn",
+      "summary": "“햄·소시지 줄이고 5분씩 걸으세요”… 유방암 막는 생활 습관 3가지&nbsp;&nbsp;헬스조선폐암은 소리 없이 진행되기 때문에 많은 사람들이 중요한 치료 기회를 놓칩니다.&nbsp;&nbsp;Vietnam.vn\"흡연이 유방암 위험 높인다\"... 유방암 위험 줄이는 생활 습관 4가지&nbsp;&nbsp;하이닥약 600명의 여성이 무료 유방암 검진을 받았습니다.&nbsp;&nbsp;Vietnam.vn유방암은 질병 발생률과 사망률 모두에서 주요 원인입니다. 모성을 통해 위험을 줄이는 '새로운' 방법들을 소개합니다.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "헬스조선",
@@ -486,18 +498,6 @@
       ]
     },
     {
-      "id": "fac7ebce7202",
-      "title": "리툭시맙 투여받던 37세 여성, 급격한 치매 진행…사후 뇌 속에서 뜻밖의 바이러스 발견 - 헬스코리아뉴스",
-      "published": "2026-11-04T01:52:24+00:00",
-      "summary": "리툭시맙 투여받던 37세 여성, 급격한 치매 진행…사후 뇌 속에서 뜻밖의 바이러스 발견&nbsp;&nbsp;헬스코리아뉴스",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFaU9xWmVadDVOX1o2V3U0WlJBVEdMUW40Q1ZDYy1hbW90MDRTdWtfcnZPOG1GdGZremI5bzhDVUFBOVc5ZlFyN1BXNE80Q2JhS2U2WWFrT21MdTZ1MnVNQmptWUJJSnM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bf4b184d471f",
       "title": "\"정부 PBS 폐지 과정서 연구자 마음 상하지 않아야\" 화학연 원장의 당부 - 조선일보",
       "published": "2026-11-04T01:01:27+00:00",
@@ -513,7 +513,7 @@
       "id": "0ab2da766a24",
       "title": "당뇨인·항암환자, 손발 저리고 화끈…‘신경병증성 통증’ 해결 열쇠 찾았다 - 농민신문",
       "published": "2026-11-03T19:02:00+00:00",
-      "summary": "당뇨인·항암환자, 손발 저리고 화끈…‘신경병증성 통증’ 해결 열쇠 찾았다&nbsp;&nbsp;농민신문통증 왜 오래 가나 했더니…만성 통증 키우는 단백질 규명&nbsp;&nbsp;DongA Science\"상처는 나았는데 왜 계속 아플까\"…만성 통증 키우는 단백질 찾았다 [헬스LAB]&nbsp;&nbsp;파이낸셜뉴스촉각·온도·통증·가려움 조절하는 단일 단백질 발견…신약 개발 가능성&nbsp;&nbsp;메디컬투데이신경 손상 뒤 만성 통증 키우는 단백질 찾았다&nbsp;&nbsp;한국일보",
+      "summary": "당뇨인·항암환자, 손발 저리고 화끈…‘신경병증성 통증’ 해결 열쇠 찾았다&nbsp;&nbsp;농민신문통증 왜 오래 가나 했더니…만성 통증 키우는 단백질 규명&nbsp;&nbsp;DongA Science촉각·온도·통증·가려움 조절하는 단일 단백질 발견…신약 개발 가능성&nbsp;&nbsp;메디컬투데이신경 손상 뒤 만성 통증 키우는 단백질 찾았다&nbsp;&nbsp;한국일보GIST, 만성 통증 키우는 단백질 발견…치료 표적 제시&nbsp;&nbsp;파이낸셜뉴스",
       "sources": [
         {
           "name": "농민신문",
@@ -558,14 +558,26 @@
       ]
     },
     {
-      "id": "4a940f6f04a0",
-      "title": "청장년 1인가구, 심장질환 사망 위험 41%↑…이유는?[건강팩트체크] - 동아일보",
-      "published": "2026-11-02T22:30:00+00:00",
-      "summary": "청장년 1인가구, 심장질환 사망 위험 41%↑…이유는?[건강팩트체크]&nbsp;&nbsp;동아일보1인 가구의 반전…더 아프고, 에너지도 더 쓴다?&nbsp;&nbsp;DongA Science“1인 가구 시대에 울린 경고”… 혼자 사는 사람, 사망 위험 더 높았다&nbsp;&nbsp;하이닥혼자 사는 청년 많은데… 외로움·대사질환 탓 사망 위험 높다&nbsp;&nbsp;헬스조선",
+      "id": "be0dd7a41d8d",
+      "title": "고도근시 있는 2030, 망막박리 위험 높다… 놓치면 안 되는 전조증상은? ① - 하이닥",
+      "published": "2026-11-03T02:00:00+00:00",
+      "summary": "고도근시 있는 2030, 망막박리 위험 높다… 놓치면 안 되는 전조증상은? ①&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KaXdVdjBEMXNWNVpsU0phdU8xX0pRenM5VXJnUUYyX29fdUtyd2RBX182d1FKb242N2VpV0l1dWIxU1NjNkpFTFRTWkJOSjJIRWRQTE9DN1lBWDJaenJ2VURDU2dwSklmTlAyVUxhd9IBZkFVX3lxTE8ycUk3aTdkUkNkWTFlM2tSSFVMSnZOSXlua01aYnB5RE1sSm9XN3dyTHJQdVByc1lDeVliSUNnTENHcDRDbG1QUjdBOEpDTHpEVlJlaFFnblZxWVk1WjM2TWxlaFRqUQ?oc=5"
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkMDZSdVRLbGVSclZnZ3lUbTdXMHZhTy1Nb3djQmFxRVNLcUp6bnlOUTJtREN4UUVkWF83RXZRVElSQi1rUUpHUmw1VnJ2N3RqeW01UkNUVG9ndDY2aEtfeFVRRkZCN0Zsb3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ff64d33b9f41",
+      "title": "[열린마당] 매일 아침 1시간 걷기와 근력 운동 - 한라일보",
+      "published": "2026-11-02T17:00:00+00:00",
+      "summary": "[열린마당] 매일 아침 1시간 걷기와 근력 운동&nbsp;&nbsp;한라일보지금 건강을 위한 운동을 하고 있나요? | 뉴스룸 칼럼 | 피플&nbsp;&nbsp;서울아산병원 뉴스룸[근거에 기반한 시대건강 120]⑤매일 30분 운동 VS 주말에 몰아서 하기, 효과는&nbsp;&nbsp;동행미디어 시대[기고] 하루 30분 운동 지키는&nbsp;&nbsp;대전일보",
+      "sources": [
+        {
+          "name": "한라일보",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SNnNzNEFQaUtraGVNenpxX0lHWDM5VDVyVEdJYnRVb3dmRWwyc3hjb3hldTFCUlhNZi1WR1lsR01nVjk1OFA1ZVFqQk9wblRJaDkxMWN6S3NlVzc0RF9RenlyTHJsdUEwN0E?oc=5"
         }
       ]
     },
@@ -578,18 +590,6 @@
         {
           "name": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Qd3JoNE9PTVNOWFQ4R2lBeEJtZ2hXOFNaSEFObXpzV1p1V2NoNEhXV2RqRGdoaFBxcTItTjlqdUw3VWZiZlh3aFMyamxsZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ef686d28f05",
-      "title": "코로나19 백신, 국내 암 발생 추세에 변화 초래했을까 - 코리아헬스로그",
-      "published": "2026-11-02T08:00:00+00:00",
-      "summary": "코로나19 백신, 국내 암 발생 추세에 변화 초래했을까&nbsp;&nbsp;코리아헬스로그“코로나19 백신, 정말 암을 유발할까?”… 국내 연구팀, 3,600만 명 분석해 보니&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "코리아헬스로그",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uTjVhWFMwSWRHRWdRREFsblZ5dGgzQ0swR2dZazJaWDdLRTVRZnJ3enBkU25Sd0ZsQnB0bmU2Tk9TUWxOamUwQjRlNkEyaXdsMk5XMVZmRnpIcW1HdE9aMFlHamxqS2FLNUk0UWRNLVpZUdIBdkFVX3lxTE8zU0pSZG1jaEdFWF83NUJUQVlzZTI0eDJRcjc5WU5GejVfM0syQmdGVWkxN1VJeEFiX3JBTHY0ZEg5V1d2SnY5WVNqWVZVcGNud0JDVXh1eXJCV0Rva3A2VTEtUjJoVmhOajdGMm9KWnJqTnl2Wnc?oc=5"
         }
       ]
     },
@@ -614,30 +614,6 @@
         {
           "name": "사이언스타임즈",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdV82eW43MjZVMkNtUXp1TDh3cHBKZHAxOFJHUGlHRWZXNm9KMEpxZDRoS1M2X21UczAySmNDS1dLUllaX21od045UFdMTDlnMFBEM3FHR3FzckN5SG1VVUdrTmtwMU9oOERoUHJhWDdiTkF6UGxFQjI1Y1RiM01QRlluamhPTVpqOHNaOC0yYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "542d91d940ac",
-      "title": "독감 후 위독한 어린이, 의사는 부모가 절대 간과해서는 안 될 징후를 경고합니다 - Laodong.vn",
-      "published": "2026-11-01T09:31:50+00:00",
-      "summary": "독감 후 위독한 어린이, 의사는 부모가 절대 간과해서는 안 될 징후를 경고합니다&nbsp;&nbsp;Laodong.vn노인분들이 A형 인플루엔자에 감염될 경우 폐렴 합병증 발생 위험이 높다는 점에 유의하십시오.&nbsp;&nbsp;Vietnam.vnCúm A gia tăng, bác sĩ cảnh báo dấu hiệu chuyển nặng dù hết sốt&nbsp;&nbsp;Vietnam.vn독감 A형 환자가 증가하고 있습니다. 방심하지 마세요!&nbsp;&nbsp;Vietnam.vn환절기 동안 인플루엔자 A를 예방하고 통제하기 위한 사전 조치.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNVpCZEI4RG1XdnlYWExHUzQ1Rm9lSi15bHJKeU1UNklFZDEtVGpCMUhRYm9BTTByendPOGMxc3Y3LWExWjVjY0ladGxoMmRfcDQ5MGsxWm9OZ21NSVRPVEVWMjZpTnZmeVlMNXh0eUVLY1ltMXctWnVJNU90WW9qTVJMVlZtVWpsNEtqNHhMQko5a0FjdmtKV09UT1FVVk0tdFdTMEtvalZ5Y2w0TlVCdU96R2FHMnRwVTBZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7aceb2d66579",
-      "title": "자궁경부암만?…HPV 감염이 구인두암 위험도 높인다 - 매경헬스",
-      "published": "2026-11-01T07:00:00+00:00",
-      "summary": "자궁경부암만?…HPV 감염이 구인두암 위험도 높인다&nbsp;&nbsp;매경헬스목구멍 안에 생기는 구인두암⋯ HPV發 발암 급증&nbsp;&nbsp;국민일보",
-      "sources": [
-        {
-          "name": "매경헬스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16Rk9EMlNQWU9vZHJQVExTb3lBTTljLUxkODVtYmFqemlrZkIwLTJ4cjdLUVo1dDg4SHFtV1duVGU1aXRRTXJFNEpTMXdGSnVJSHRTdFVncmdUTDZpR3dfNHJPem9VNlZGLTZSdw?oc=5"
         }
       ]
     }
