@@ -1,19 +1,163 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-11-10T22:57:51.458910+00:00",
-  "total_fetched": 119,
+  "fetched_at": "2026-11-11T05:19:00.128721+00:00",
+  "total_fetched": 120,
   "unique_count": 118,
-  "health_related_count": 58,
+  "health_related_count": 59,
   "news": [
     {
-      "id": "f0ee96f0cd4e",
-      "title": "[인터뷰]티루캡, 전이성 유방암 후속 치료 공백에 새 대안 제시 - 메디코파마",
-      "published": "2026-11-10T22:30:00+00:00",
-      "summary": "[인터뷰]티루캡, 전이성 유방암 후속 치료 공백에 새 대안 제시&nbsp;&nbsp;메디코파마서양의 한 가족 구성원 세 명이 모두 암 진단을 받았습니다.&nbsp;&nbsp;Vietnam.vn“햄·소시지 줄이고 5분씩 걸으세요”… 유방암 막는 생활 습관 3가지&nbsp;&nbsp;헬스조선3년 동안 유방암 진단을 받은 세 여성(어머니와 두 딸)의 유전자 검사 결과는 놀라웠습니다.&nbsp;&nbsp;Vietnam.vnDKSH는 2026년 환자 건강의 날 행사를 개최합니다.&nbsp;&nbsp;Vietnam.vn",
+      "id": "7a35b59cc3f5",
+      "title": "찬바람 부는 초겨울 기침·숨참…사망 원인 3위 ‘COPD’ 주의보 - 서울경제TV",
+      "published": "2026-11-11T04:44:25+00:00",
+      "summary": "찬바람 부는 초겨울 기침·숨참…사망 원인 3위 ‘COPD’ 주의보&nbsp;&nbsp;서울경제TV\"한 번 '후~' 불면 폐 나이 나온다\"…올해부터 국가검진서 COPD 잡는다 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스COPD 치료 패러다임 변화…첫 악화부터 폐·심혈관 위험 관리&nbsp;&nbsp;약사공론[건강톡톡] 초겨울, 소리 없는 폐질환 ‘COPD’ 주의해야&nbsp;&nbsp;간호사신문초겨울 기침·가래, ‘만성폐쇄성질환’ 일수도&nbsp;&nbsp;뉴스토마토",
       "sources": [
         {
-          "name": "메디코파마",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hTEkzRHROTzJtT3pGTFNBbW4wdzZxOG9BNmFIU1ByRlB4YV9MZk9od0ZRZlRub1BFTF9zUWZjaEdSMGJ0YzczMkRPbVRiajVYMnBrcW1ndGpTTWZNeVQ0Yk9uT0w3Q0VpVzFqTGNJT0hCQQ?oc=5"
+          "name": "서울경제TV",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zWGFNTlhZb2RsNTYtNUZSdXBwQmdvbkdkOGIzdVpqV05pMlZWY2oyMFRBeTVaUFN4WXptR2xBSXZVRmNpbDNyODhWb0dNMVVRXzV4ODQwTV9OS1lTdVZaVF80TEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2ad4cf860ba5",
+      "title": "치매 위험 낮추는 '뇌 영양' 음식 5가지 - 하이뉴스",
+      "published": "2026-11-11T04:30:00+00:00",
+      "summary": "치매 위험 낮추는 '뇌 영양' 음식 5가지&nbsp;&nbsp;하이뉴스자꾸 깜빡깜빡하는 부모님… 뇌세포 건강과 혈액순환 함께 챙겨야&nbsp;&nbsp;동아일보“22만 명 식습관 분석했더니”… 치매 위험 18% 낮춘 ‘이 채소’&nbsp;&nbsp;헬스조선부모님이 갑자기 '이 음식' 찾는다면…치매 의심해야 하는 '뜻밖의 식습관'&nbsp;&nbsp;위키트리깜빡하는 일 잦아졌다면… '뇌 건강' 위해 챙길 영양소 5가지&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MNFFOVFpIX3lPcjhvQnptaFZ1Vmd2WHNDQV9yZ01oWWdpaGJQbGFkcHRYdVJ4VzFXTEJlY0x2RHdZektNT2paY2RKeGFkUUozQlpSTkZGZE90M0Zha3JseHowbFIyQUpSMzRXa204V2dQbERsR1hR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f75cd0524391",
+      "title": "“비스킷 대신 아몬드 한 줌”…포만감부터 체중 관리까지 살펴본 식재료 - 뉴스와",
+      "published": "2026-11-11T02:04:00+00:00",
+      "summary": "“비스킷 대신 아몬드 한 줌”…포만감부터 체중 관리까지 살펴본 식재료&nbsp;&nbsp;뉴스와\"먹었더니 혈당이 오히려 떨어졌다\"…의사가 추천한 혈당 관리 식품 6가지&nbsp;&nbsp;뉴시스혈당 잡고 비만 막으려면?…췌장 건강 지키는 음식 6가지 / “사지 마!” 외쳐도 손님 북적⋯남대문 ‘스카프 아저씨’ 인기 비결은? / 윤손하 “다이어트에도 좋아”⋯과자처럼 바삭하게 구워 먹는 ‘이 채소’는?&nbsp;&nbsp;코메디닷컴식전 30분, 과자 대신 아몬드 20g…혈당 연구가 살핀 간식 습관&nbsp;&nbsp;뉴스와매일 챙겨 먹는 아몬드…혈관 건강부터 피부까지 지킨다&nbsp;&nbsp;센머니",
+      "sources": [
+        {
+          "name": "뉴스와",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zVFJzaHRCV25wUkVfUVBqREswaHQ0VDFoWm1jMGZGLVhvOEJENXV2VkJnWlRfNzhSLWJsd3RpS3pXQjJSdjdaUnJ4UzROcUJrY3Z4dWJTZHRFSGk5YTAxejg1YTVUWTl5LWo4czdkck9Zc0puSm41NQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a3e034929169",
+      "title": "‘가장 착한’ 단백질은 두부, 최악은 체더치즈…케임브리지대 발표 - 한겨레",
+      "published": "2026-11-11T01:32:00+00:00",
+      "summary": "‘가장 착한’ 단백질은 두부, 최악은 체더치즈…케임브리지대 발표&nbsp;&nbsp;한겨레저지방 비건 식단, 지중해식보다 체중 감량 효과 높아…16주간 평균 6kg 감소&nbsp;&nbsp;메디컬투데이“닭 가슴살 지겨울 때 ‘이것’ 먹어요”… 양질의 단백질 함유한 식품 4&nbsp;&nbsp;헬스조선다이어트 성공하려면 동물성 대신 식물성 단백질…연구&nbsp;&nbsp;디지털투데이",
+      "sources": [
+        {
+          "name": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yS2JjcndNZWM2cExlNUlSZEx5NXFNUDQwc0J4ZjZIeXZwVDg1cVViT25kSGdMLTdRTTVUNVBMdzU5SjJDT0hGZTVXeHJEU0Rhc3JUUTBJQU5na3pwYUV4S29WY00zZ2stRmNGdjFQd0xUUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "efaa344f377e",
+      "title": "제약업계 ‘벤포벨알파정’ 출시·캄보디아 헤브론의료원에 전문의약품 기부 - 여성소비자신문",
+      "published": "2026-11-11T01:31:13+00:00",
+      "summary": "제약업계 ‘벤포벨알파정’ 출시·캄보디아 헤브론의료원에 전문의약품 기부&nbsp;&nbsp;여성소비자신문“중장년층 피로 관리 겨냥”…종근당, 고함량 ‘벤포벨알파정’ 출시&nbsp;&nbsp;동아일보종근당, 활성비타민 7종 함유 '벤포벨 알파정' 출시&nbsp;&nbsp;뉴스1종근당, 비타민 복합제 ‘벤포벨알파정’ 출시&nbsp;&nbsp;주간한국종근당, 벤포벨 최상위 제품 '벤포벨알파정' 출시&nbsp;&nbsp;뉴시스",
+      "sources": [
+        {
+          "name": "여성소비자신문",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UN2J2dDAzWjV1bkprcTNGTW1OdEpDUmxHekQ4SWppOFNqZG85Z29peUVlSU9HaVZsNmhrdFFSQmdmZVo4aUk1YXllVkRrTG9IcDg1SjhCMHV5RGhPeDBSNWlZVXlUUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3602c323ab38",
+      "title": "[소성민 박사의 여성비뇨의학] 유방암 치료 후 열심히 운동했는데… 밑이 묵직해지는 이유 - 스포츠월드",
+      "published": "2026-11-11T01:07:45+00:00",
+      "summary": "[소성민 박사의 여성비뇨의학] 유방암 치료 후 열심히 운동했는데… 밑이 묵직해지는 이유&nbsp;&nbsp;스포츠월드",
+      "sources": [
+        {
+          "name": "스포츠월드",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43NGdSWXFTd1BReEwxN3ZxN0RhUEVZR2Y5QkNzLXBTaWItSWp3VEluOW1scUl5V2FfOTBwaTl1MEM1TEp6blJENnl2Ni0xSDUzWjZnSnppOWVCVHBPYWJoNVZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bd0cd056ab79",
+      "title": "치매 연구의 새로운 단서, 왜 당장 치료법은 아닐까 - 얼리어답터뉴스",
+      "published": "2026-11-11T01:00:59+00:00",
+      "summary": "치매 연구의 새로운 단서, 왜 당장 치료법은 아닐까&nbsp;&nbsp;얼리어답터뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
+      "sources": [
+        {
+          "name": "얼리어답터뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZcUV3QjJtUHR6SFdKWVA4YWtaTUlLY1NybFFpN2Q2cDJsRk1kblNhMWxIOGlVYV91cnczNGRvbkpEM0NhWWZNSm9B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1194789d9f39",
+      "title": "\"미녹시딜보다 효과 좋아\"…빗질만으로 탈모 해결 빗 등장 - 지디넷코리아",
+      "published": "2026-11-11T00:42:05+00:00",
+      "summary": "\"미녹시딜보다 효과 좋아\"…빗질만으로 탈모 해결 빗 등장&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yc1ZxZkF1V25NUXhqdlZlT255WDF4YnlTQlBfTDFaajRxeXF2T0tadXBITnI4TGg1aDIteVpfWk50ZnhWbXVaVjNwMG00WGVMcWJSY1h3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a705a4018f31",
+      "title": "사하라 사막서 발견된 장밋빛 운석, 41억 년 전 화성의 물 흔적을 품고 있었다 - 사이언스타임즈",
+      "published": "2026-11-11T00:00:31+00:00",
+      "summary": "사하라 사막서 발견된 장밋빛 운석, 41억 년 전 화성의 물 흔적을 품고 있었다&nbsp;&nbsp;사이언스타임즈",
+      "sources": [
+        {
+          "name": "사이언스타임즈",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMWdVbXo5VENXZ0FNSy0ySXNlS3dxVmd2blloRkJ5OE9fVDktV0E3eEZYbDRmbF9oWHoySFBOR1R0UVZodkV6Y0tvV2tHakZrakhDUF9pWFNZZmZhUXRGR0RGT2lFVE5FaUs5X3hreDMzN2hLQ2FlOTdZNzdXcG05bllWSjJmamhtUG1BRFFGcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9f8df41966af",
+      "title": "입속 세균이 몸의 방어벽을 여는 방법 - 덴탈투데이",
+      "published": "2026-11-10T23:13:00+00:00",
+      "summary": "입속 세균이 몸의 방어벽을 여는 방법&nbsp;&nbsp;덴탈투데이",
+      "sources": [
+        {
+          "name": "덴탈투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aS0ozRi1wZldKZ0tHa3VYRmFwTnZvN1NZZ0ZFQlhTUmVUelBwWlRfZ2FVQl84MVRud0lHQWdiWVUwLUo1MWVEZEt6ZHRYU2QzMnl0SjdCVUs2emxJQXpqeEJ5Q2pONTFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "811ffda20dae",
+      "title": "한국 디지털·AI 경쟁력, 세계 10위 도약...전년 대비 8단계 상승 - AI타임스",
+      "published": "2026-11-10T23:05:00+00:00",
+      "summary": "한국 디지털·AI 경쟁력, 세계 10위 도약...전년 대비 8단계 상승&nbsp;&nbsp;AI타임스",
+      "sources": [
+        {
+          "name": "AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HYl9MOTZOS1UzNGItaVJOakpRSW1CTDcxaE8yRXJ3bUlvd2lVM3NjZjltQ1dwbm1yTlFZVWxjNjYxT1VKZGhhT01FSi1yZjFzeFEwS0VNeDVIUk1tcDI0Q2p0amJjSzhkMkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21c00e9e6730",
+      "title": "“난소암 위험 낮춘다?”… 연구로 알아본 난소 건강 지키는 식품 5가지 - 하이닥",
+      "published": "2026-11-10T23:00:00+00:00",
+      "summary": "“난소암 위험 낮춘다?”… 연구로 알아본 난소 건강 지키는 식품 5가지&nbsp;&nbsp;하이닥",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40Q3duRzZpSkU0S3Q1Sm1MZS1Fdkd2aElRcEJUQkJUMmxtdDg4V0ZVRENGWFNxaDh6THhzUkhvaVkwcTVZMjFoSl9OU3VmOEY5ajJ5NVIwSFpRSE15NjE5LUVYeDdvOC1HeGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a013307aab1a",
+      "title": "“진작 먹을걸 그랬어요”… 면역력 떨어지기 전, ‘비타민C 보고’ 파프리카 먹어요 - 헬스조선",
+      "published": "2026-11-10T22:00:00+00:00",
+      "summary": "“진작 먹을걸 그랬어요”… 면역력 떨어지기 전, ‘비타민C 보고’ 파프리카 먹어요&nbsp;&nbsp;헬스조선하루 귤 한두 개면 감기 예방?…건강 효과 많은 비타민C 섭취 요령&nbsp;&nbsp;코메디닷컴감기 예방에 좋은 음식 '베스트 7'···먹어야 하는 이유&nbsp;&nbsp;소셜타임스겨울철 국민 과일 감귤, 알고 먹으면 건강에 보약&nbsp;&nbsp;4차산업행정뉴스‘국민 비타민’ 감귤, 비타민C 함량이 사과의 20배라고?&nbsp;&nbsp;소년한국일보",
+      "sources": [
+        {
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fN0g3Q0pESmNVcFJvVFVpUUJRWU4zelR4WWFPWXRnUDRVRFdPY1oxM2pwbWtNd3pkNll5R1dvU19ZcUdqUDRVZFJCaVF3OHBKbkQ3OUZnZnpxQWZWWHJzTUZFTHBpTXFndHpFVzNHNTZfbGF1UTNfV3hiRkVlNm8?oc=5"
         }
       ]
     },
@@ -42,18 +186,6 @@
       ]
     },
     {
-      "id": "e90140b7ef01",
-      "title": "자꾸 깜빡깜빡하는 부모님… 뇌세포 건강과 혈액순환 함께 챙겨야 - 동아일보",
-      "published": "2026-11-10T19:30:00+00:00",
-      "summary": "자꾸 깜빡깜빡하는 부모님… 뇌세포 건강과 혈액순환 함께 챙겨야&nbsp;&nbsp;동아일보인지-기억력 포스파티딜세린 징코 70% 세일&nbsp;&nbsp;동아일보“22만 명 식습관 분석했더니”… 치매 위험 18% 낮춘 ‘이 채소’&nbsp;&nbsp;헬스조선“주 2회 생선, 인지기능 확 뛰었다” 치매 도망갈 생활습관&nbsp;&nbsp;애틀랜타 중앙일보깜빡하는 일 잦아졌다면… '뇌 건강' 위해 챙길 영양소 5가지&nbsp;&nbsp;하이닥",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnWHdMUFZ2c2lBTXRHdy1sc0lHMFhaSjVYaHRqYU5LZjFfd2FKRUJyRHlUTUtPeXE2LVVmQ3BLVmhIRzNVYUlaenVYVXdtU2RLb1FEVkY2amNuRDNHU2JWM0xONnlFTTFmYi1YcGFoNNIBZkFVX3lxTE1mUDhuOUctTzMzcnVKeVA0WVpzTzl5VDU0RHJrQko2V1BTU0hkTGJLbnNGSWFDOXhXU2JOUWV3aXhIZE54ZWZCd1RXWFZDdWZHVHZIcUtoYlFHRkw5VlY0MmdnTTJfQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b2d4db5d28de",
       "title": "저염식만으로 충분할까? 혈압 관리에 함께 챙기면 좋은 영양 성분 5가지 - 하이닥",
       "published": "2026-11-10T12:00:00+00:00",
@@ -69,23 +201,11 @@
       "id": "db1389581d9d",
       "title": "장정훈 대구가톨릭대 교수, 종양 속 미생물과 항암 면역 관계 밝혔다 - 경북일보",
       "published": "2026-11-10T10:26:26+00:00",
-      "summary": "장정훈 대구가톨릭대 교수, 종양 속 미생물과 항암 면역 관계 밝혔다&nbsp;&nbsp;경북일보\"암 조직 속 미생물이 항암치료 효과 좌우\" 대구가톨릭대 연구팀 작용 원리 규명&nbsp;&nbsp;매일신문대구가톨릭대 장정훈 교수 면역항암제 효과 조절하는 '종양 내 미생물' 기전 규명&nbsp;&nbsp;베리타스알파암 치료의 새로운 연구 방향.&nbsp;&nbsp;Vietnam.vn대구가톨릭대 장정훈 교수팀, 종양 내 미생물 양이 항암 면역반응 조절 기전 규명&nbsp;&nbsp;한국대학신문",
+      "summary": "장정훈 대구가톨릭대 교수, 종양 속 미생물과 항암 면역 관계 밝혔다&nbsp;&nbsp;경북일보\"암 조직 속 미생물이 항암치료 효과 좌우\" 대구가톨릭대 연구팀 작용 원리 규명&nbsp;&nbsp;매일신문대구가톨릭대 장정훈 교수 면역항암제 효과 조절하는 '종양 내 미생물' 기전 규명&nbsp;&nbsp;베리타스알파대구가톨릭대 장정훈 교수팀, 종양 내 미생물 양이 항암 면역반응 조절 기전 규명&nbsp;&nbsp;한국대학신문암 치료의 새로운 연구 방향.&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "경북일보",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWNXQ5UjdSSlNGUlNQYkVHd2JyQUU3bXlzWFNUMDQ1SGgybko3cUVERmZjdnE1N1o5ejA5TU5wUWtMdTBPcUh0WFNMc2NjMGlSTHZ2YkdfQnJJWFlQa01pUTQ5RFI5OVM4b2Fsa09BRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a041fe2791a",
-      "title": "입속 세균이 몸의 방어벽을 여는 방법 - 헬스코리아뉴스",
-      "published": "2026-11-10T10:09:37+00:00",
-      "summary": "입속 세균이 몸의 방어벽을 여는 방법&nbsp;&nbsp;헬스코리아뉴스",
-      "sources": [
-        {
-          "name": "헬스코리아뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nYWVEWnVCb3pGUjVvNFpUOEROa0VWZTFGd0VWTG9lLVpjMGZyc244WUhiQVlYQ3BsM2RvU3F6alBWQzFrZTZhOHlEdVdxY29XY3JxZC1TU2xfNnpOT3c0WEk0QnRqaVE?oc=5"
         }
       ]
     },
@@ -102,22 +222,10 @@
       ]
     },
     {
-      "id": "443012cb1870",
-      "title": "\"단순 복통인 줄 알았는데\"…식은땀·어지럼증 동반되면 '난소낭종 파열' 의심해야 - 녹색경제신문",
-      "published": "2026-11-10T09:40:24+00:00",
-      "summary": "\"단순 복통인 줄 알았는데\"…식은땀·어지럼증 동반되면 '난소낭종 파열' 의심해야&nbsp;&nbsp;녹색경제신문조기 발견 중요한 ‘난소 양성 종양’…폐경기 이후엔 더 세심히 관찰해야&nbsp;&nbsp;www.dt.co.kr[칼럼] 갑작스런 아랫배 통증, 난소낭종 파열일 수도&nbsp;&nbsp;뉴스더보이스헬스케어맹장염과 비슷한 복통…난소염전 가능성도 살펴야&nbsp;&nbsp;이데일리\"갑자기 아랫배가 너무 아파요\"…난소낭종 파열 '의심'&nbsp;&nbsp;국제뉴스",
-      "sources": [
-        {
-          "name": "녹색경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qWVM0cmVDb2lNc3U2b3d5a2Fma3dmNW1XSTFXYS1JU2ZrczQyMm9hdzFhNDF5THlsQjB4NENFT25yTk9uZ0V5MlhnYUVqVThkN1EwWEZ4c1l5MWhBUzl0dUhZeDFTbzAz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "57bf75859abe",
       "title": "감기인 줄 알았던 기침, 폐렴이 보내는 신호 - 전북도민일보",
       "published": "2026-11-10T09:00:00+00:00",
-      "summary": "감기인 줄 알았던 기침, 폐렴이 보내는 신호&nbsp;&nbsp;전북도민일보한국화이자제약, 노인건강대축제서 호흡기 감염 예방 캠페인 진행&nbsp;&nbsp;뉴스1폐렴, 2025년 국내 사망원인 3위…고령층·만성질환자 주의&nbsp;&nbsp;이데일리겨울철 폐렴·RSV 감염 주의···성인 예방접종 이력 확인해야&nbsp;&nbsp;경북신문[건강정보] 세계 폐렴의 날 “무엇보다 예방접종이 중요”&nbsp;&nbsp;의사신문",
+      "summary": "감기인 줄 알았던 기침, 폐렴이 보내는 신호&nbsp;&nbsp;전북도민일보\"부모님이 갑자기 밥을 안 드신다면?\"...기운 없는 줄 알았는데 '폐렴' [헬스톡]&nbsp;&nbsp;파이낸셜뉴스폐렴, 2025년 국내 사망원인 3위…고령층·만성질환자 주의&nbsp;&nbsp;이데일리한국화이자제약, 노인건강대축제서 호흡기 감염 예방 캠페인 진행&nbsp;&nbsp;뉴스1[칼럼] 누구에게나 발생할 수 있는 폐렴...‘세계 폐렴의 날‘&nbsp;&nbsp;메드월드뉴스",
       "sources": [
         {
           "name": "전북도민일보",
@@ -174,6 +282,18 @@
       ]
     },
     {
+      "id": "a73d430948c0",
+      "title": "일부 PFAS와 특정 유방암 위험 연관성…미 NIH “추가 연구 필요” - https://www.newsinspace.kr/",
+      "published": "2026-11-10T05:49:08+00:00",
+      "summary": "일부 PFAS와 특정 유방암 위험 연관성…미 NIH “추가 연구 필요”&nbsp;&nbsp;https://www.newsinspace.kr/",
+      "sources": [
+        {
+          "name": "https://www.newsinspace.kr/",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53QklMRnBxanp5V1hOUEhaUmNJMTlWczV5TWlscURSeUhmdVNMcHRvTUdwUFFDVUxtOWxwbllQcE1LT0tqVWhtSk9ISFMtXzhrS3FLYlU4bXZNVjhraFdJVUl2M25sTG5GT1Zn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8e6de6b379fe",
       "title": "\"양자기술 선도국 머지 않아\"… 100큐비트급 초전도 양자프로세서 개발 ‘속도’ - www.dt.co.kr",
       "published": "2026-11-10T05:17:50+00:00",
@@ -201,7 +321,7 @@
       "id": "468642aaec10",
       "title": "체중감량 효과 보인 신약 후보, 술도 줄였다⋯환자 42% 한 달간 과음 안 해 - 코메디닷컴",
       "published": "2026-11-10T03:31:00+00:00",
-      "summary": "체중감량 효과 보인 신약 후보, 술도 줄였다⋯환자 42% 한 달간 과음 안 해&nbsp;&nbsp;코메디닷컴술 많이 마시고 싶은 날, ‘칡 추출물’ 먹었더니… “과음하는 날 줄었다”&nbsp;&nbsp;하이닥알코올 중독자 폭음 줄이는 '칡'…갈망 억제 효과&nbsp;&nbsp;엔지오프레스칡 추출물, 알코올사용장애 환자의 폭음 줄이는 데 도움 가능성&nbsp;&nbsp;메디컬투데이[밴쿠버 조선일보]연말에 폭음 막는 의외의 방법··· ‘칡’을 먹어라 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보",
+      "summary": "체중감량 효과 보인 신약 후보, 술도 줄였다⋯환자 42% 한 달간 과음 안 해&nbsp;&nbsp;코메디닷컴술 많이 마시고 싶은 날, ‘칡 추출물’ 먹었더니… “과음하는 날 줄었다”&nbsp;&nbsp;하이닥알코올 중독자 폭음 줄이는 '칡'…갈망 억제 효과&nbsp;&nbsp;엔지오프레스[밴쿠버 조선일보]연말에 폭음 막는 의외의 방법··· ‘칡’을 먹어라 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -246,6 +366,18 @@
       ]
     },
     {
+      "id": "435f808f2a87",
+      "title": "무이재한방병원, 암재활 임상 세미나 성료… 환자별 재활 접근법 공유 - 보건신문",
+      "published": "2026-11-10T00:50:18+00:00",
+      "summary": "무이재한방병원, 암재활 임상 세미나 성료… 환자별 재활 접근법 공유&nbsp;&nbsp;보건신문",
+      "sources": [
+        {
+          "name": "보건신문",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GclU1MVRBQTNZT0p2Z1VidW5xS2tyeEJXRUNxX1B6Zm5UemxLZHZ2ejR5YnhOTTRXODhBN1VndjNkbnhNd21lc3F6VEhCZ2gyck9YTjFHVU9mQi0ycDhr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2a8cac13715f",
       "title": "검진센터에서 추천한 ‘치매 혈액검사’, 받을까? 말까? - 헬스조선",
       "published": "2026-11-10T00:30:00+00:00",
@@ -282,18 +414,6 @@
       ]
     },
     {
-      "id": "65198df6573b",
-      "title": "“美, 21세 이하 대장암 환자 80% 이미 3~4기”… 가장 흔한 증상은? - 하이닥",
-      "published": "2026-11-09T21:00:00+00:00",
-      "summary": "“美, 21세 이하 대장암 환자 80% 이미 3~4기”… 가장 흔한 증상은?&nbsp;&nbsp;하이닥‘젊은 대장암’ 환자가 진단 전 겪은 가장 흔한 증상… “복부·허리 통증”&nbsp;&nbsp;헬스조선[교수시평]‘아직 젊으니까’에 가려진 건강의 조건&nbsp;&nbsp;국민대학교멈춤이 아닌 과정: 청년 암 환자들이 말하는 진짜 이야기&nbsp;&nbsp;대학알리10대 대장암 환자 80%가 3~4기…몸이 보내는 네 가지 경고&nbsp;&nbsp;ABC뉴스",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMUZ0Yk12TXFuM1RBNU1vTVFpMzJ1aXJBQzNkcmhGeW1aYjUwODZIX19jam5NdHZadmFZYnB1YVhRQWpIanNMOE1kdGNHTE9DMC1sYVR1MTZOZU5lb1NmU0RhbnVaRF90d1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b9aef40c56c2",
       "title": "소세포폐암 치료 접근성 넓힌 임델트라…차별화된 강점은? - 의학신문",
       "published": "2026-11-09T21:00:00+00:00",
@@ -302,6 +422,18 @@
         {
           "name": "의학신문",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wTy1CQnh0LWhObFVIT3ZFQXRRekh4T0pWYnFGSENqdnl3bndLZWhQWXhxX1RUTVhVYU1zZmVacEFXS2VCaTNFZlBDQjc5MnVTYUFLMHVMV3FPemgwTllSMHlhRHFNcUFCMVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65198df6573b",
+      "title": "“美, 21세 이하 대장암 환자 80% 이미 3~4기”… 가장 흔한 증상은? - 하이닥",
+      "published": "2026-11-09T21:00:00+00:00",
+      "summary": "“美, 21세 이하 대장암 환자 80% 이미 3~4기”… 가장 흔한 증상은?&nbsp;&nbsp;하이닥‘젊은 대장암’ 환자가 진단 전 겪은 가장 흔한 증상… “복부·허리 통증”&nbsp;&nbsp;헬스조선[교수시평]‘아직 젊으니까’에 가려진 건강의 조건&nbsp;&nbsp;국민대학교멈춤이 아닌 과정: 청년 암 환자들이 말하는 진짜 이야기&nbsp;&nbsp;대학알리10대 대장암 환자 80%가 3~4기…몸이 보내는 네 가지 경고&nbsp;&nbsp;ABC뉴스",
+      "sources": [
+        {
+          "name": "하이닥",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGMUZ0Yk12TXFuM1RBNU1vTVFpMzJ1aXJBQzNkcmhGeW1aYjUwODZIX19jam5NdHZadmFZYnB1YVhRQWpIanNMOE1kdGNHTE9DMC1sYVR1MTZOZU5lb1NmU0RhbnVaRF90d1E?oc=5"
         }
       ]
     },
@@ -326,6 +458,18 @@
         {
           "name": "헬스조선",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qbzBSa1FWREl4cjhkelpRdVF0OEl0UFdQNmtJZHNZS3JJanFETk5XT01ZMi1QZkZRVnNnYi1fZ0tfck1jTm5KRjRrd1JJTExxU0x6d3FNQlM1ZERBS1R6S2M2eUx2NUozd0ZDWkVsbGtHSTB1NlZScDdheVpIMHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "805ba40cd234",
+      "title": "치매 선별검사선 차이 없었는데...허리둘레 클수록 ‘뇌 나이’ 많았다 - 디멘시아뉴스",
+      "published": "2026-11-09T11:40:29+00:00",
+      "summary": "치매 선별검사선 차이 없었는데...허리둘레 클수록 ‘뇌 나이’ 많았다&nbsp;&nbsp;디멘시아뉴스[이윤희 박사의 건강칼럼] 비만·고혈압, 치매 위험 높일 수 있다…예방 위한 건강 관리 중요&nbsp;&nbsp;아웃소싱타임스“비만 기간 길수록 기억력 떨어져”… 장기 비만, 인지기능 저하와 연관&nbsp;&nbsp;하이닥체중 많이 나갈수록 뇌도 빠르게 늙는다…고령층 특히 조심해야&nbsp;&nbsp;세계일보체중 많이 나갈수록 ‘기억력’ 빠르게 떨어진다&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "디멘시아뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hWm93VHRXeGpOZ1FGSkxXYzFwOHlVYW9JNmZFQ2hFN25ZLVVoT0R1Z1kyUnNCMldLWWR1UHR3NlRsRHoyUFByWFZTRFRZQmNWeTBCdk96U3dLUDJLNGpLUjFQeE11d0lMeHNYMEtnMDdNUQ?oc=5"
         }
       ]
     },
@@ -402,38 +546,14 @@
       ]
     },
     {
-      "id": "d8c02a5bd5b4",
-      "title": "모유수유 오래 할수록 아이 ADHD 증상 적었다…3만7643명 추적 연구 - 디지털투데이",
-      "published": "2026-11-09T02:17:40+00:00",
-      "summary": "모유수유 오래 할수록 아이 ADHD 증상 적었다…3만7643명 추적 연구&nbsp;&nbsp;디지털투데이",
+      "id": "d149efc7724d",
+      "title": "LDL 콜레스테롤 목표 달성에 ‘스타틴·에제티미브 복합요법’ 신속 - 메드월드뉴스",
+      "published": "2026-11-09T01:15:27+00:00",
+      "summary": "LDL 콜레스테롤 목표 달성에 ‘스타틴·에제티미브 복합요법’ 신속&nbsp;&nbsp;메드월드뉴스동맥경화성 심혈관질환 환자에 ‘이 약’ 추가했더니···‘나쁜 콜레스테롤’ 더 빨리 줄이는 데 효과&nbsp;&nbsp;경향신문심혈관질환, LDL 콜레스테롤 확 낮추는 '이 방법'&nbsp;&nbsp;뉴시스세브란스 김병극·이상협, 초기 병용요법 LDL 목표 달성률 분석&nbsp;&nbsp;메디포뉴스스타틴 단독·에제티미브 병용, 3년간 심혈관사건 발생률 차이 없어&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
-          "name": "디지털투데이",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DUHdINXRUMV8zenlUUVhTa1lyYmU1RW80X0NIWEd4dFROWDlVRDJRaXZDNTktb1pMVXhXNUc3d2R4NS11dVYxVk9iQlVFQTl6bjNVZzVpTXNLZWpld0UwMlNpdEo1aF95SmNrVlA2ZGoyQ0U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de2ac1fd000b",
-      "title": "“변비에 좋다는 음식 많지만…” 임상시험서 실제 변화 본 식품은 따로 있었다 - 뉴스와",
-      "published": "2026-11-09T02:10:00+00:00",
-      "summary": "“변비에 좋다는 음식 많지만…” 임상시험서 실제 변화 본 식품은 따로 있었다&nbsp;&nbsp;뉴스와",
-      "sources": [
-        {
-          "name": "뉴스와",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAydzVTWWl2a19DUFB4U29LNWpmRnFXSzFjVkVrUjZpSUdUQ2xFdTA1NVo4eFRXbnNWOGpPcWI3cm0zYkZkcFhTQzRLNXlZQ0llM3NzMEV2YmlUWm1LdTZ3TnNudDZNT1JwV3dvY1JlLWkyZERGX040YQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d82b791f3916",
-      "title": "스타틴·에제티미브 초기 병용, LDL 목표 달성률 2배 높였다 - 보건신문",
-      "published": "2026-11-09T01:37:19+00:00",
-      "summary": "스타틴·에제티미브 초기 병용, LDL 목표 달성률 2배 높였다&nbsp;&nbsp;보건신문동맥경화성 심혈관질환 환자에 ‘이 약’ 추가했더니···‘나쁜 콜레스테롤’ 더 빨리 줄이는 데 효과&nbsp;&nbsp;경향신문심혈관질환, LDL 콜레스테롤 확 낮추는 '이 방법'&nbsp;&nbsp;뉴시스세브란스 김병극·이상협, 초기 병용요법 LDL 목표 달성률 분석&nbsp;&nbsp;메디포뉴스스타틴 단독·에제티미브 병용, 3년간 심혈관사건 발생률 차이 없어&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "보건신문",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzRDMxQjVkUXlwaEdhNzE0Q1ljZTNnci0tbVJYTWN6aWM0NllGRGZjSjhFdG5JRmU5b1JLOGRXWERZdmxrM1FZTzdQczlxRy1rMlJqMzVMZU0wSm02ZURTVWd4WQ?oc=5"
+          "name": "메드월드뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RNXNJTTVFV1JGZE1kb3ZYNlVZMVBXWG92QXFOdHg1U1d2OGF4MXdYdUhtYl9YSEExRTE2akdLeldDY0pLMlI2eWw3VnBmbGFOVFNKUFBOcGFJV1hFU1JJLXBfY2p5Mm1LZHVDag?oc=5"
         }
       ]
     },
@@ -486,18 +606,6 @@
       ]
     },
     {
-      "id": "fba5f8d07d94",
-      "title": "[TV조선] 혈관 건강 지키는 관리 비법 - 조선일보",
-      "published": "2026-11-08T15:45:05+00:00",
-      "summary": "[TV조선] 혈관 건강 지키는 관리 비법&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUN5MXFkR1NyX2tlZkFpY0ZfVUIzZWo0UWMyODhJbk9jaUFJbzFQX0ZRN2xEMk9EQndvenVqRW1FTWtZSGh0RzQ0eEstX2ZmTGRaZ1k4azY0dlE1UEpQOHRrMEpfbm5xdkJQaUpMSVd2QWlBOUpiYXJMUlNBNnNkcWFFeFA3NHhCT2NmMjVoazQ3dGlt?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9cd4c6f8d9ff",
       "title": "간은 다시 자라는데, 심장은 왜? - 헬스코리아뉴스",
       "published": "2026-11-08T15:01:00+00:00",
@@ -530,42 +638,6 @@
         {
           "name": "지디넷코리아",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEYlpGYkZRcERnRUlpc0NYTG1RZjRIZl9pZ1BGSThRV3FJR0lVUzdZanhLd2tESUVzN0N6Q0pvX2tyWDR1YXBON083QVlzcXRneEg4b3p3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e118fcfb6390",
-      "title": "“나는 불안형, 전 남친은 회피형”…SNS 연애 진단에 빠진 사람들이 놓친 것 - 경향신문",
-      "published": "2026-11-08T00:40:00+00:00",
-      "summary": "“나는 불안형, 전 남친은 회피형”…SNS 연애 진단에 빠진 사람들이 놓친 것&nbsp;&nbsp;경향신문",
-      "sources": [
-        {
-          "name": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1obFdlcHFDQWFMM2psM2hVdHI1Zm1wSXNCSzZDS1NIX0xiZFZ0c2dBN0dyMFFLQldFbTAxUzJoaEpqZkcxamxLUlZfY2JjTXFvMkxQa0JZbHZEQdIBX0FVX3lxTFBOcEhQM0lodzd4d3FqRXJ2ZVlnRS05Q1hkMFhJOWJRUjlVMmlvdGlnS21PeWI3TTNrZGQtUmxoa0VhSVJLZjQtTHRzeW5WYjgyaFZnN20xV0Zyb3N6VWhR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "854a18d1ebd7",
-      "title": "“닭 가슴살 지겨울 때 ‘이것’ 먹어요”… 양질의 단백질 함유한 식품 4 - 헬스조선",
-      "published": "2026-11-07T21:00:00+00:00",
-      "summary": "“닭 가슴살 지겨울 때 ‘이것’ 먹어요”… 양질의 단백질 함유한 식품 4&nbsp;&nbsp;헬스조선다이어트 성공하려면 동물성 대신 식물성 단백질…연구&nbsp;&nbsp;디지털투데이",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUHpoUE9WUDJBVkMxcjVrVHdLV2V3ZkJEdHM2VGlLcHRTdkNyY05LRV9rM3FGSExxd3FwRzk5N25CWE5UZllLUC1idmdlZVhDbmdwYjNXVTFHaV9ENkRkUGpRaWp2c01pbTlXU0k5bi1hQUc5VnJlTjlaTjBjMlk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "31fe2a5c2d9b",
-      "title": "[포인트 건강칼럼] \"﻿뇌졸중, 나이를 가리지 않는다\"…﻿한의학에서 바라본 예방과 관리 - 포인트데일리",
-      "published": "2026-11-07T20:00:00+00:00",
-      "summary": "[포인트 건강칼럼] \"﻿뇌졸중, 나이를 가리지 않는다\"…﻿한의학에서 바라본 예방과 관리&nbsp;&nbsp;포인트데일리[건강한 삶] 기온 뚝 떨어지는 겨울, 뇌졸중 주의가 필요&nbsp;&nbsp;인천일보뇌졸중: 적극적인 예방과 적절한 치료 후 관리.&nbsp;&nbsp;Vietnam.vn완주소방서, 갑작스러운 추위에 심뇌혈관질환 주의 당부&nbsp;&nbsp;전북도민일보건협 동부, 뇌졸중 예방 위한 정기 건강검진 당부&nbsp;&nbsp;동대문신문",
-      "sources": [
-        {
-          "name": "포인트데일리",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUWRteUlwUXFka0RzaGFYdG5wa3d0RjA2ZzdDb3p0OGRXaFo3azNVSmRwS1JrbHVfZlo2ZnFZd1c2OWpjaW5OeEs2TDF3SlF1ZWJJM3VWSXF6SWhVXzF5c0pnd3ZOY1hkdXUtT3F2Tmo?oc=5"
         }
       ]
     },
@@ -618,18 +690,6 @@
       ]
     },
     {
-      "id": "b7e7b2dfcc62",
-      "title": "‘국민 비타민’ 감귤, 비타민C 함량이 사과의 20배라고? - 소년한국일보",
-      "published": "2026-11-04T23:56:08+00:00",
-      "summary": "‘국민 비타민’ 감귤, 비타민C 함량이 사과의 20배라고?&nbsp;&nbsp;소년한국일보하루 귤 한두 개면 감기 예방?…건강 효과 많은 비타민C 섭취 요령&nbsp;&nbsp;코메디닷컴감기 예방에 좋은 음식 '베스트 7'···먹어야 하는 이유&nbsp;&nbsp;소셜타임스겨울철 국민 과일 감귤, 알고 먹으면 건강에 보약&nbsp;&nbsp;4차산업행정뉴스",
-      "sources": [
-        {
-          "name": "소년한국일보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03WUtFLUNnNTdJOTNvZXpIbkZDM2RxSW1OLUkwQ09BV1Z1M2hvUk9tc1JpM0NpbGtvT0hZOVI2TGJ5eXplYzRIVXVyLUpPeFdNVlU0Zm5ycHR1cWs5Wmxjb1VIdVdCTU43aC1TetIBcEFVX3lxTFA0TjZKZFQwOF93REVnWkZCV0hVRlk5ZU5ZZ0tvZG5GT3JkOUFyYXRQdlVBSGdhNC04SW5YRWZZMVVXTnduUlo4MkIyMWp2b2lfeUJhVDFkMG5VOGZlSGt4cldtakN0d2ZHMzhXdC0yYU4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "afb347434ffe",
       "title": "\"난자 시계 되돌린다\"… 고령 난임 치료제 개발 경쟁 본격화 - 조선일보",
       "published": "2026-11-04T21:10:16+00:00",
@@ -642,18 +702,6 @@
       ]
     },
     {
-      "id": "41d2927a8a80",
-      "title": "PRRS 감염 관련 유전자 연구용 돼지 폐 면역세포주 개발 - 한돈뉴스",
-      "published": "2026-11-04T20:19:00+00:00",
-      "summary": "PRRS 감염 관련 유전자 연구용 돼지 폐 면역세포주 개발&nbsp;&nbsp;한돈뉴스",
-      "sources": [
-        {
-          "name": "한돈뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzZlJLNFVFMkhUVVlmeF83cTRDVzdUeVpvbHlDZ3I2RGxnbmpBaS1UNnYxQlhjYmRDakRtWXpHNGIxLU9UWnZQeGVoTWFaTmE2STZ0bWd0dHNxMlV4UTZrbmJnLWdXdDdZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0e599b42b217",
       "title": "수백억원에 팔리는 공룡 화석… 부자들, 과학 연구 위협 - 조선일보",
       "published": "2026-11-04T15:39:03+00:00",
@@ -662,42 +710,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdU5FcnBxWHV4S1dmdndsLUdqcWdqei0waHRlVWFCbjE2NmMyazdBSWI3YUQ2M1RHMlllNGJvOFlxejdMOWtzSVExanhENjlEU2VBUnlGWV9jM3ZMTnRvV0tndzduU3Q0dlRQVzNsd1p3WnVBd2dVUjdwZm56RmRNNWgydw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7daef0c50c10",
-      "title": "머리 빗기만 해도 탈모 치료…쥐 실험서 회복률 100% - DongA Science",
-      "published": "2026-11-04T07:26:00+00:00",
-      "summary": "머리 빗기만 해도 탈모 치료…쥐 실험서 회복률 100%&nbsp;&nbsp;DongA Science",
-      "sources": [
-        {
-          "name": "DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fUmhaRWc0c0VLS3hGdFdHdEwzX3VNalg5OFBMSjBPbXhxbGlYTkFnMWh3WDJrX0dHVFlDa1hnUnlRZmpEV3BwX3JUWjJEUUNHZWY1dA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1ff554f60bc7",
-      "title": "치매 확산 촉진 단백질 확인, 새 치료법 연구 단서 - 이투데이",
-      "published": "2026-11-04T03:00:00+00:00",
-      "summary": "치매 확산 촉진 단백질 확인, 새 치료법 연구 단서&nbsp;&nbsp;이투데이치매 독성 단백질의 응집 억제...치료제 개발 기대&nbsp;&nbsp;YTN 사이언스치매 연구, 새로운 단서 확인...타우 단백질이 주변 뇌세포로 퍼지는 것을 촉진하는 ‘FAM84B’ 역할 규명&nbsp;&nbsp;BRIC카롤린스카연구소 치오티스 연구팀, 조기 알츠하이머병 타우 축적 비교&nbsp;&nbsp;메디포뉴스치매 단백질 ‘뭉침의 경로’를 바꾼다…아연집게 단백질, 새 치료 전략 제시&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xN1JNRUYxUUR3bDVYR2dXazBFSEJydWwzM2ViNGRIWGltTVJlZ01ROTQyN3JTOXRYTlF3Z216bXUxWnFJSWFjZC1FaV9zbkxkeXZNNlc2Mi1vUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf4b184d471f",
-      "title": "\"정부 PBS 폐지 과정서 연구자 마음 상하지 않아야\" 화학연 원장의 당부 - 조선일보",
-      "published": "2026-11-04T01:01:27+00:00",
-      "summary": "\"정부 PBS 폐지 과정서 연구자 마음 상하지 않아야\" 화학연 원장의 당부&nbsp;&nbsp;조선일보",
-      "sources": [
-        {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaWtYY3ZCN1pBTE1fVTRMNHpfU092ZjUyY1R1dlZwdFFGZ05EQmhoajgyNGdDWnpDRGp4djhZdGJjTmFDeDRlckxOMWE2ODk0dk15WDBPS3ZaU0piVzRGUmMwWHQyekl0eF80S1hCLWM3Tm0tZkQ2dDJCOHNmVWs0M2JFUQ?oc=5"
         }
       ]
     }
