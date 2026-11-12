@@ -42,41 +42,56 @@
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "adenosine",
    "file": "adenosine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- 4건의 허가 문서에서 기존 적응증, 경고, 금기 본문 확인",
    "reason": "ambiguous",
    "added": "2026-11-12",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄",
+   "record_ids": [],
+   "resolved_on": "2026-11-12",
+   "resolution": "不用更正：「4건」是 adenosine 單方的 4 張許可（199701930、201308667、200707725、200603927，證據包 data-20261109-135306）；事實層 6 張另含 헤파멘드주（carnitine orotate 複方，有效）與 엘레멘시럽（複方，취하），句子講要查的仿單是這 4 張單方，沒有跟事實相反"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "codeine",
    "file": "codeine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "전체 7건 중 5건만 표시했습니다.",
    "reason": "ambiguous",
    "added": "2026-11-12",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261112-codeine-1"
+   ],
+   "resolved_on": "2026-11-12"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "glatiramer_acetate",
    "file": "glatiramer_acetate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- 한국 MFDS 시판 여부 재확인 (현재 허가 0건)",
    "reason": "zero-premise",
    "added": "2026-11-12",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261112-glatiramer_acetate-1"
+   ],
+   "resolved_on": "2026-11-12"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "ramipril",
    "file": "ramipril.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Ramipril은 ACE(안지오텐신 전환효소) 억제제로, 한국에서 단일제 허가 4건이 확인됩니다.",
    "reason": "ambiguous",
    "added": "2026-11-12",
-   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261112-ramipril-1"
+   ],
+   "resolved_on": "2026-11-12"
   }
  ]
 }
