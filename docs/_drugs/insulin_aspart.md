@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806023/EE"
 ---
 
@@ -76,7 +76,7 @@ description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (au
 | 200307983 | 노보믹스30플렉스펜주100단위/밀리리터 | 프리필드 펜 주사제 (백색 현탁액) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307983/EE) 참조 |
 | 200210111 | 노보래피드플렉스펜주100단위/밀리리터 | 프리필드 펜 주사제 (무색 투명) | [허가사항 문서](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210111/EE) 참조 |
 
-허가증은 총 6건이며, 위 표에는 주요 5건만 기재했습니다.
+허가증은 총 7건이며, 위 표에는 주요 5건만 기재했습니다.
 
 ## 안전성 고려사항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "TENOFOVIR ALAFENAMIDE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Tenofovir Alafenamide: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트가 데이터에 없습니다(허가증 링크만 확인됨). 참고로 약리 데이터에는 만성 B형 간염 바이러스(HBV…"
 ---
 
@@ -38,7 +38,7 @@ description: "Tenofovir Alafenamide: 예측 신규 적응증 고양이 후천성
 
 ## 한 문장 요약
 
-Tenofovir alafenamide는 한국에서 단일 성분 제제 3건이 허가된 뉴클레오타이드 역전사효소 억제제입니다. TxGNN 모델은 **고양이 후천성 면역결핍 증후군(Feline Acquired Immunodeficiency Syndrome)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험과 문헌은 **0건**입니다. 따라서 이 예측은 모델 점수와 기전적 추정에만 의존하는 단계입니다.
+Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이 허가된 뉴클레오타이드 역전사효소 억제제입니다. TxGNN 모델은 **고양이 후천성 면역결핍 증후군(Feline Acquired Immunodeficiency Syndrome)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험과 문헌은 **0건**입니다. 따라서 이 예측은 모델 점수와 기전적 추정에만 의존하는 단계입니다.
 
 ## 빠른 개요
 

@@ -37,6 +37,46 @@
     "눈의 건조감 완화"
    ],
    "note": "原適應症列的詞組多半只出現在其他藥的 FDA 許可證／仿單適應症，待人工對照仿單"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "adenosine",
+   "file": "adenosine.md",
+   "status": "open",
+   "claim": "- 4건의 허가 문서에서 기존 적응증, 경고, 금기 본문 확인",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "codeine",
+   "file": "codeine.md",
+   "status": "open",
+   "claim": "전체 7건 중 5건만 표시했습니다.",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "glatiramer_acetate",
+   "file": "glatiramer_acetate.md",
+   "status": "open",
+   "claim": "- 한국 MFDS 시판 여부 재확인 (현재 허가 0건)",
+   "reason": "zero-premise",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
+  },
+  {
+   "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
+   "drug": "ramipril",
+   "file": "ramipril.md",
+   "status": "open",
+   "claim": "Ramipril은 ACE(안지오텐신 전환효소) 억제제로, 한국에서 단일제 허가 4건이 확인됩니다.",
+   "reason": "ambiguous",
+   "added": "2026-11-12",
+   "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"
   }
  ]
 }

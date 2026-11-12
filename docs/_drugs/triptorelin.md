@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 768
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 monitor_inn: "Triptorelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
 description: "Triptorelin: 예측 신규 적응증 Hypertrichosis (disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109188/EE"
@@ -38,7 +38,7 @@ description: "Triptorelin: 예측 신규 적응증 Hypertrichosis (disease) (근
 
 ## 한 문장 요약
 
-Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내에서 4건의 허가증으로 시판 중입니다. TxGNN 모델은 **다모증(Hypertrichosis)**에 효과가 있을 수 있다고 예측하지만, 이를 직접 뒷받침하는 임상시험은 **0건**입니다. 문헌 **1편**은 다른 약물(사이클로스포린)이 유발한 다모증 증례로, Triptorelin의 치료 효과를 보여 주지 않습니다.
+Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내에서 6건의 허가증으로 시판 중입니다. TxGNN 모델은 **다모증(Hypertrichosis)**에 효과가 있을 수 있다고 예측하지만, 이를 직접 뒷받침하는 임상시험은 **0건**입니다. 문헌 **1편**은 다른 약물(사이클로스포린)이 유발한 다모증 증례로, Triptorelin의 치료 효과를 보여 주지 않습니다.
 
 ## 빠른 개요
 
@@ -77,7 +77,7 @@ Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내�
 | 199604920 | 데카펩틸주0.1밀리그램 | 프리필드 주사액 | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604920/EE) 참조 |
 | 201100197 | 동국트립토렐린아세트산염데포주사 (수출용) | 주사제 (바이알 및 앰플) | [허가 문서 링크](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100197/EE) 참조 |
 
-4건 모두 단일제이며 유효 상태입니다.
+6건 모두 단일제이며 유효 상태입니다.
 
 ## 안전성 고려사항
 

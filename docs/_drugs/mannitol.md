@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Mannitol: 예측 신규 적응증 신성 항이뇨 부적절 증후군 (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문 대신 식약처 문서 링크만 수록되어 있어 구체적인 적응증 문구는 확인되지 않음"
 ---
 
@@ -78,7 +78,7 @@ Mannitol은 한국에서 단일 성분 주사제와 흡입용 캡슐로 허가�
 | 197500054 | 중외20%만니톨주 | 주사액 | 적응증 본문 없음(식약처 문서 링크만 수록) |
 | 197100029 | 대한디-만니톨주사액(15%) | 주사액 | 적응증 본문 없음(식약처 문서 링크만 수록) |
 
-허가증은 총 8건이며, 위에는 5건만 나열했습니다.
+허가증은 총 10건이며, 위에는 5건만 나열했습니다.
 
 ## 안전성 고려사항
 
