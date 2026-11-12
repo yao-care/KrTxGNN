@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 538
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Naproxen: 예측 신규 적응증 단지증-합지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 건염, 급성통풍, 월경곤란증, 활액낭염, 골격근장애…"
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
@@ -63,6 +63,12 @@ TxGNN 모델은 **단지증-합지증 증후군(brachydactyly-syndactyly syndrom
 
 참고로 TxGNN이 예측한 다른 후보(순위 2~4)도 모두 희귀 선천성 발생 질환으로, 마찬가지로 근거가 없습니다.
 
+<!-- review:begin kr-lic-20261105-naproxen-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “20건의 허가증이 모두 유효하며(단일제 20건, 복합제 0건), 주요 허가 5건은 다음과 같습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-naproxen-1 -->
+
 | 순위 | 예측 질환 | TxGNN 점수 | 근거 수준 |
 |------|----------|-----------|---------|
 | 2 | 콜로보마성 소안구증-근위지단 이형성 증후군 | 0.9922 | L5 |
@@ -104,6 +110,19 @@ TxGNN 점수는 높지만 임상시험과 문헌이 전혀 없는 모델 예측(
 - 해당 희귀 질환과 naproxen 사이의 기전적 연결을 설명하는 전임상 또는 기전 연구
 - 관련 임상시험 및 문헌 근거 탐색 (현재 0건)
 - 대상 질환에 대한 투여 경로 적합성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “20건의 허가증이 모두 유효하며(단일제 20건, 복합제 0건), 주요 허가 5건은 다음과 같습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

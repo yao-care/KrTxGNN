@@ -1,0 +1,42 @@
+{
+ "_doc": "藥物頁待查清單（2026-11-12 建，比照 TwTxGNN docs/_data/drug_reviews_uncertain.json）。項目不刪：查清標 status: resolved（附 record_ids，指向 docs/_data/drug_reviews.json 的紀錄），查不出定論標 status: unresolvable（附 searched、unresolvable_reason）。",
+ "items": [
+  {
+   "source": "Original Indication 交叉驗證（scripts/check_original_indications.py）",
+   "drug": "etoricoxib",
+   "file": "etoricoxib.md",
+   "status": "open",
+   "claim": "류마티스 관절염, 골관절염, 만성 요통, 강직성 척추염, 급성 통증, 통풍 (약리학 자료 기준)",
+   "foreign_phrases": [
+    "류마티스 관절염",
+    "골관절염",
+    "강직성 척추염"
+   ],
+   "note": "原適應症列的詞組多半只出現在其他藥的 FDA 許可證／仿單適應症，待人工對照仿單"
+  },
+  {
+   "source": "Original Indication 交叉驗證（scripts/check_original_indications.py）",
+   "drug": "teriparatide",
+   "file": "teriparatide.md",
+   "status": "open",
+   "claim": "골다공증 (골절 고위험 환자)",
+   "foreign_phrases": [
+    "골다공증"
+   ],
+   "note": "原適應症列的詞組多半只出現在其他藥的 FDA 許可證／仿單適應症，待人工對照仿單"
+  },
+  {
+   "source": "Original Indication 交叉驗證（scripts/check_original_indications.py）",
+   "drug": "vitamin_a",
+   "file": "vitamin_a.md",
+   "status": "open",
+   "claim": "육체피로 및 체력 저하 시 비타민 A·D·E·B군·C 보급, 눈의 건조감 완화, 야맹증, 피부염·구내염 증상 완화 등",
+   "foreign_phrases": [
+    "체력 저하 시 비타민 a",
+    "c 보급",
+    "눈의 건조감 완화"
+   ],
+   "note": "原適應症列的詞組多半只出現在其他藥的 FDA 許可證／仿單適應症，待人工對照仿單"
+  }
+ ]
+}

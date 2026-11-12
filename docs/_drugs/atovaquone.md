@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 101
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -68,6 +68,12 @@ Atovaquone(아토바쿠온)은 DrugBank ID DB01117로 등록된 항감염제입�
 
 안전성 정보는 허가사항을 참조하세요.
 
+<!-- review:begin kr-lic-20261105-atovaquone-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “현재 허가된 제품이 없습니다.” 삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-atovaquone-1 -->
+
 ---
 
 ## 결론 및 다음 단계
@@ -82,6 +88,19 @@ TxGNN 예측 결과가 없으며 작용 기전·안전성 데이터가 모두 �
 - 작용 기전(MOA) 데이터 확보 — DrugBank API 조회 (DG002)
 - 원래 적응증(original_indications) 확인 — DrugBank 또는 허가사항 참조
 - 안전성 데이터 확보 — 허가사항 PDF 파싱 (DG001)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “현재 허가된 제품이 없습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

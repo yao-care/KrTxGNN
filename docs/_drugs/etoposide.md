@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Etoposide: 예측 신규 적응증 폐의 고분화 태아형 선암 (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가사항 링크만 제공됨)"
 ---
 
@@ -64,6 +64,12 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 
 현재 관련 임상시험 등록이 없습니다.
 
+<!-- review:begin kr-lic-20261105-etoposide-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 8건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-etoposide-1 -->
+
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
@@ -111,6 +117,19 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 - 상세 작용 기전(MOA) 데이터 보완
 
 **참고:** 같은 데이터에는 Ewing 육종과 횡문근육종 예측도 있습니다. 이 두 질환은 etoposide 포함 요법을 직접 평가한 시험과 문헌이 있어 별도로 평가할 가치가 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

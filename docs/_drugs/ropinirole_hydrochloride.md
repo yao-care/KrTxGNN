@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 669
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -40,6 +40,12 @@ predicted_indications: []
 
 이번 Evidence Pack에는 TxGNN 예측 적응증 데이터가 포함되어 있지 않으며,
 작용 기전 및 안전성 정보 역시 수집되지 않아 신규 적응증 평가를 진행할 수 없습니다.
+
+<!-- review:begin kr-lic-20261105-ropinirole_hydrochloride-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “Ropinirole Hydrochloride는 현재 한국에 허가 이력이 없는 약물입니다. / 이번 Evidence Pack에는 TxGNN 예측 적응증 데이터가 포함되어 있지 않으며,” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-ropinirole_hydrochloride-1 -->
 
 ---
 
@@ -77,6 +83,26 @@ predicted_indications: []
 - DrugBank 조회 결과 Evidence Pack 반영 (조회 성공 기록이 있으나 MOA 미포함)
 - 원내 또는 해외 허가사항 확보 (작용 기전, 경고, 금기 포함)
 - 해외(미국 FDA, EMA 등) 허가사항 기준으로 안전성 초평가 수행
+
+<!-- review:begin kr-lic-20261105-ropinirole_hydrochloride-2 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “한국 MFDS 미허가 약물이므로, 해외(미국 FDA, EMA 등) 허가사항 기준으로 안전성 초평가 수행” 삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-ropinirole_hydrochloride-2 -->
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “Ropinirole Hydrochloride는 현재 한국에 허가 이력이 없는 약물입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “한국 MFDS 미허가 약물이므로” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

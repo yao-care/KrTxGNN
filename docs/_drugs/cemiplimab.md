@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 200
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Cemiplimab"
 predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
 description: "Cemiplimab: 예측 신규 적응증 담낭 선편평상피암 (gallbladder adenosquamous carcinoma) (근거 수준 L5). 기존 적응증: 국내 허가 자료에 적응증 기재 없음"
@@ -93,6 +93,18 @@ TxGNN 예측 점수는 높지만(0.9999), 이 질환을 직접 연구한 임상�
 - 허가사항(경고·금기) 원문 확보 및 안전성 검토
 - 상세한 작용 기전(MOA) 데이터 보완
 - 국내 허가 취소 사유와 현재 공급 가능 여부 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-10-31 | 삭제: “어 시판 중입” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-12: 2026년 11월 보고서가 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Zaltoprofen"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Zaltoprofen: 예측 신규 적응증 편두통 (근거 수준 L5). 기존 적응증: 이번 데이터에는 허가 적응증 본문이 포함되어 있지 않고 허가 문서 링크만 있어 확인할 수 없습니다"
 ---
 
@@ -92,6 +92,12 @@ TxGNN 상위 예측 중 이번 데이터에서 의미 있는 내용은 다음과
 
 위 표에는 주요 5건만 나열했습니다.
 
+<!-- review:begin kr-lic-20261105-zaltoprofen-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “이 외에도 총 16건의 허가가 모두 유효한 단일성분 제품입니다. 위 표에는 주요 5건만 나열했습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-zaltoprofen-1 -->
+
 ## 안전성 고려사항
 
 안전성 정보는 허가사항을 참조하세요.
@@ -108,6 +114,19 @@ TxGNN 상위 예측 중 이번 데이터에서 의미 있는 내용은 다음과
 - DrugBank 등에서 작용 기전(MOA) 데이터 확보
 - 편두통에 대한 Zaltoprofen 임상시험 및 문헌 검색
 - 건염 등 근골격계 질환 예측에 대해서는 전용 임상시험 검색 후 별도 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “이 외에도 총 16건의 허가가 모두 유효한 단일성분 제품입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

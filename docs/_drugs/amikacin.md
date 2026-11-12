@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Amikacin: 예측 신규 적응증 파라티푸스 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (아미노글리코시드계 항균제)"
 ---
 
@@ -77,6 +77,12 @@ Amikacin은 그람음성균 감염에 쓰이는 아미노글리코시드계 주�
 
 목록은 일부일 수 있습니다. 제품명에 "수출용"이 붙은 허가가 다수 포함되어 있어, 국내 실제 유통 여부는 별도 확인이 필요합니다. 허가 적응증 본문은 첨부 문서 링크로만 제공되어 내용을 요약하지 못했습니다.
 
+<!-- review:begin kr-lic-20261105-amikacin-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “한국에는 Amikacin 단일 성분 주사제 허가가 최소 20건 확인되며, 모두 단일 성분이고 유효 상태입니다. 목록은 일부일 수 있습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-amikacin-1 -->
+
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
 | 201002333 | 제일제약아미카신황산염주500mg (수출용) | 앰플 주사제 | 허가 문서 링크 참조 |
@@ -107,6 +113,19 @@ Amikacin은 그람음성균 감염에 쓰이는 아미노글리코시드계 주�
 - 허가사항(경고·금기·적응증 본문) 확보 및 분석
 - 파라티푸스 환자에서 Amikacin의 임상 효능을 평가한 연구, 또는 표준 치료제 대비 이점을 보여주는 근거
 - 한국 시판 현황(취소 여부, 수출 전용 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “한국에는 Amikacin 단일 성분 주사제 허가가 최소 20건 확인되며, 모두 단일 성분이고 유효 상태입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

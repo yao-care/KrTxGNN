@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 745
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Tolperisone: 예측 신규 적응증 라우브리-페치 증후군 (Laubry-Pezzi syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (중추 작용 근이완제로 알려져 있음)"
 monitor_inn: "Tolperisone"
 predicted_indications: ["Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "pulmonary valve disease", "orofacial clefting syndrome", "mitral valve disease", "heart disease", "disorder of fucoglycosan synthesis", "interventricular septum aneurysm"]
@@ -71,6 +71,12 @@ TxGNN 모델은 **라우브리-페치 증후군(Laubry-Pezzi syndrome)**에 효�
 
 참고로 예측 순위 8위(심장 질환)와 9위(푸코글리칸 합성 장애)에서 검색된 문헌은 Tolperisone의 해당 적응증 효과를 평가한 연구가 아니었습니다. 다만 파킨슨병 모델에서 MMP-9 억제를 통해 운동 기능을 개선했다는 전임상 연구(PMID 38513594, 2024)가 있어, 신경퇴행성 질환 쪽 가능성은 별도로 탐색해 볼 수 있습니다.
 
+<!-- review:begin kr-lic-20261105-tolperisone-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “3건 모두 수출용 단일제이며 유효 상태입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 5건(유효 3건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-tolperisone-1 -->
+
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
@@ -95,6 +101,19 @@ TxGNN 예측 점수는 높지만 임상시험과 문헌 근거가 전혀 없고,
 - 작용 기전(MOA) 데이터 확보: DrugBank 등에서 조회
 - 예측 질환과의 기전적 연관성에 대한 전임상 또는 문헌 근거
 - 예측 질환군이 선천성 구조 이상에 치우쳐 있으므로, 신경계 질환(예: 파킨슨병 전임상 신호) 등 대체 적응증 후보 재검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “3건 모두 수출용 단일제이며 유효 상태입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

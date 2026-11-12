@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 633
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Propofol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L2). 기존 적응증: 전신마취 및 진정 (허가 적응증 원문은 이 보고서용으로 수집된 데이터에 텍스트로 포함되지 않아…"
 monitor_inn: "PROPOFOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -96,6 +96,12 @@ Propofol은 GABA-A 수용체의 양성 알로스테릭 조절제입니다. GABA 
 
 현재 허가된 용도는 편두통이 아니므로, 편두통 사용은 허가 외(off-label) 사용에 해당합니다.
 
+<!-- review:begin kr-lic-20261105-propofol-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “전체 19건이 모두 유효한 단일제 허가이며, 일부는 수출용입니다. 현재 허가된 용도는 편두통이 아니므로, 편두통 사용은 허가 외(off-label) 사용에 해당합니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 19건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-propofol-1 -->
+
 ## 안전성 고려사항
 
 - **금기 관련 지식그래프 신호**: 지식그래프에서 간질, 저혈압성 질환, 호흡부전, 두개내 동맥경화, 유전성 지질대사 장애, 가족성 고지혈증과 연관된 금기 관계가 확인되었습니다. 허가사항 문구가 아닌 모델 지식그래프 기반 정보이므로 허가사항과 대조가 필요합니다.
@@ -130,6 +136,18 @@ Propofol은 GABA-A 수용체의 양성 알로스테릭 조절제입니다. GABA 
 | 3 | 프린츠메탈 협심증 | 0.9923 | L5 | 마취 중 관상동맥 연축 유발 증례만 있어 치료 효과가 아닌 안전성 신호이며 Hold |
 | 4 | 신성 항이뇨호르몬 부적절 분비 증후군 | 0.9920 | L5 | 기전적 연결과 문헌이 없고 모델 예측만 있어 Hold |
 | 5 | 뚜렛 증후군 | 0.9903 | L4 | 심부뇌자극술 중 진정제로 쓴 연구뿐이며 틱 치료 효과 근거가 없어 Hold |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “전체 19건이 모두 유효한 단일제 허가이며, 일부는 수출용입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 67
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -44,6 +44,12 @@ Evidence Pack을 분석합니다. `predicted_indications`가 비어 있고, 기�
 
 TxGNN 파이프라인에서 DrugBank 조회는 1건 성공했으나, DrugBank ID·작용 기전·기존 적응증이 Evidence Pack에 기록되지 않아 예측이 생성되지 않았습니다.
 데이터 공백이 다수 존재하여 재창출 평가를 현 시점에서 수행할 수 없습니다.
+
+<!-- review:begin kr-lic-20261105-amorolfine_hydrochloride-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “Amorolfine Hydrochloride는 현재 한국에 허가 이력이 없는 약물입니다. / TxGNN 파이프라인에서 DrugBank 조회는 1건 성공했으나, DrugBank ID·작용 기전·기존 적응증이 Evidence Pack에 기록되지 않아 예측이 생성되지 않았습니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-amorolfine_hydrochloride-1 -->
 
 ---
 
@@ -92,6 +98,19 @@ TxGNN 예측이 생성되지 않았고, 약물의 핵심 기본 정보(DrugBank 
 - 작용 기전(MOA) 수집 → DrugBank API 또는 문헌 검색
 - 기존 적응증 확정 → TFDA·EMA·FDA 허가 데이터 조회
 - TxGNN 파이프라인 재실행 → 위 3개 항목 보완 후 재처리
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “Amorolfine Hydrochloride는 현재 한국에 허가 이력이 없는 약물입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

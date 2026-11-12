@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 702
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Spironolactone: 예측 신규 적응증 두피 단순 모발저하증 (Hypotrichosis Simplex of the Scalp) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문을 확인하지 못함)"
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
@@ -65,6 +65,12 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 
 허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했으므로 아래 표에서는 생략했습니다. 주요 5건은 다음과 같습니다.
 
+<!-- review:begin kr-lic-20261105-spironolactone-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “허가증은 모두 유효한 8건입니다. 허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했으므로 아래 표에서는 생략했습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 8건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-spironolactone-1 -->
+
 | 허가번호 | 제품명 | 제형 | 제조사 |
 |---------|------|------|------|
 | 199701668 | 스피락톤정50mg | 흰색 원형 정제 | 대원제약 |
@@ -98,6 +104,19 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 - 두피 단순 모발저하증과 관련된 전임상·임상 근거 탐색 (유전자 변이 아형별 기전 검토 포함)
 - 안드로겐성 탈모 등 기전적으로 더 타당한 인접 적응증과의 비교 검토
 - 신규 적응증에 필요한 투여 경로 적합성 평가 (현재 허가 제형은 모두 경구 정제)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “허가증은 모두 유효한 8건입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

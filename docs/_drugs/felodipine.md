@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 341
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Felodipine: 예측 신규 적응증 원인 불명확한 다인성 폐고혈압 (pulmonary hypertension with unclear multifactorial… (근거 수준 L5). 기존 적응증: 고혈압 (한국 허가 적응증 원문은 데이터에 텍스트로 포함되지 않아 허가사항 문서 확인 필요)"
 monitor_inn: "FELODIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -75,6 +75,12 @@ TxGNN 모델은 **원인이 불명확한 다인성 폐고혈압(pulmonary hypert
 
 아래는 주요 5건이며, 허가 적응증 원문은 각 식약처 허가사항 문서에서 확인해야 합니다.
 
+<!-- review:begin kr-lic-20261105-felodipine-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “한국에는 단일제 20건이 모두 유효 상태로 허가되어 있습니다(취소 0건, 복합제 0건). 이 중 일부는 수출용 허가입니다. 아래는 주요 5건이며, 허가 적응증 원문은 각 식약처 허가사항 문서에서 확인해야 합니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-felodipine-1 -->
+
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
 | 201308906 | 펠로딥정 | 필름코팅정 | [허가사항 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308906/EE) |
@@ -109,6 +115,19 @@ TxGNN 모델은 **원인이 불명확한 다인성 폐고혈압(pulmonary hypert
 **참고: 같은 약물의 다른 예측 적응증**
 - **폐질환·저산소증에 의한 폐고혈압**: 근거 수준 L4로, 전임상·기전 연구만 있어 Hold입니다.
 - **만성 폐성심**: 근거 수준 L3로, 소규모 혈역학 연구만 있어 추가 연구가 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “한국에는 단일제 20건이 모두 유효 상태로 허가되어 있습니다(취소 0건, 복합제 0건). 이 중 일부는 수출용 허가입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

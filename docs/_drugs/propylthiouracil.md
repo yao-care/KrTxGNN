@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 635
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Propylthiouracil: 예측 신규 적응증 갑상선호르몬 수용체 β 변이에 의한 갑상선호르몬 저항성 (Resistance to thyroid hormone due to… (근거 수준 L4). 기존 적응증: 항갑상선제(갑상선 기능 항진 관련). 허가 적응증 원문은 이번 자료에 수록되지 않아 허가사항 문서 확인이 필요합니다"
 monitor_inn: "PROPYLTHIOURACIL"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
@@ -87,6 +87,12 @@ RTH-β는 THRB 유전자 변이로 조직이 호르몬에 잘 반응하지 못�
 
 국내 유통 제품은 사실상 안티로이드정입니다.
 
+<!-- review:begin kr-lic-20261105-propylthiouracil-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “3건 모두 유효한 단일제 허가이며, 이 중 2건은 수출용입니다. 국내 유통 제품은 사실상 안티로이드정입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 3건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-propylthiouracil-1 -->
+
 ## 안전성 고려사항
 
 - **금기 관련 질환 (지식그래프 기반, 허가사항 원문 아님)**
@@ -111,6 +117,19 @@ RTH-β에 대한 PTU 근거는 동물 모델과 증례 수준이며 임상시험
 - 상세한 약물 작용 기전(MOA) 데이터 보강
 - RTH-β 환자에서 PTU의 이득과 위험을 평가한 임상 자료 (현재 없음)
 - 참고로, 같은 약물의 다른 예측 적응증인 **신생아 갑상선중독증**은 임신 중 산모의 그레이브스병 치료를 통해 간접적으로 지지되는 근거가 있습니다(L3, 종설·가이드라인·코호트). 다만 기존 적응증과 상당 부분 겹치고 PTU의 간독성 위험이 있어, 이 방향은 별도로 검토할 가치가 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “3건 모두 유효한 단일제 허가이며, 이 중 2건은 수출용입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

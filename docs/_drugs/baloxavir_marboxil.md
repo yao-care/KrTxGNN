@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 122
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -41,6 +41,12 @@ predicted_indications: []
 ## 한 문장 요약
 
 Baloxavir Marboxil(DrugBank: DB13997)은 Evidence Pack에는 기존 적응증 정보와 TxGNN 재창출 예측 결과가 모두 포함되어 있지 않습니다. 작용 기전(MOA), 안전성 경고, 허가 적응증 등 평가에 필수적인 핵심 데이터가 미확보된 상태로, 데이터 보완 후 재평가가 필요합니다.
+
+<!-- review:begin kr-lic-20261105-baloxavir_marboxil-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “Baloxavir Marboxil(DrugBank: DB13997)은 현재 한국 시판 기록이 없으며, Evidence Pack에는 기존 적응증 정보와 TxGNN 재창출 예측 결과가 모두 포함되어 있지 않습니다.” 삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 2건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-baloxavir_marboxil-1 -->
 
 ---
 
@@ -87,6 +93,19 @@ TxGNN 예측 적응증이 산출되지 않았고, 안전성·MOA 등 평가 필�
 - **[DG002 — High]** DrugBank API를 통한 MOA 데이터 확보 (DB13997)
 - 한국 또는 주요국(미국 FDA, 일본 PMDA, 유럽 EMA) 허가 적응증 수집으로 `original_indications` 보완
 - 위 데이터 확보 후 TxGNN 예측 파이프라인 재실행으로 `predicted_indications` 산출
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “현재 한국 시판 기록이 없으며” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

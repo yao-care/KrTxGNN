@@ -5,7 +5,7 @@ layout: default
 title: Alcaftadine
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 33
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -40,6 +40,12 @@ evidence_level: N/A
 - `original_indications: []`, `original_moa: "[Data Gap]"` → 기본 약물 정보 부재
 - `safety` 전체 [Data Gap]
 
+<!-- review:begin kr-lic-20261031-alcaftadine-1 -->
+
+> **검토 정정 (2026-10-31)**: 원래 문장: “`taiwan_regulatory.market_status: "Not marketed"` → 한국 미시판 / `safety` 전체 [Data Gap]” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261031-alcaftadine-1 -->
+
 예측 적응증이 없으므로 보고서 구조를 해당 상황에 맞게 조정하겠습니다.
 
 ---
@@ -56,6 +62,18 @@ evidence_level: N/A
 | 허가증 수 | 1건 (유효 1건) |
 
 ---
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-10-31 | 삭제: “`taiwan_regulatory.market_status: "Not marketed"` → 한국 미시판” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

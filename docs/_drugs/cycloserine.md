@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 241
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-12
 description: "Cycloserine: 예측 신규 적응증 과민성 장 증후군 (irritable bowel syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가사항 문서 링크만 제공됨). 항결핵제로 알려져 있습니다"
 monitor_inn: "CYCLOSERINE"
 predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
@@ -42,6 +42,12 @@ Cycloserine은 항결핵제로 사용되는 약물로, 한국에서 시판되고
 TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험은 0건**, **문헌도 0편**입니다.
 따라서 이 예측은 모델 예측 단계에 머물러 있습니다.
 
+<!-- review:begin kr-lic-20261105-cycloserine-2 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “Cycloserine은 항결핵제로 사용되는 약물로, 한국에서 7건의 허가증이 유효한 상태로 시판되고 있습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 7건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-cycloserine-2 -->
+
 ## 빠른 개요
 
 | 항목 | 내용 |
@@ -59,6 +65,12 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 이 보고서를 위해 수집된 데이터에는 상세한 작용 기전 정보가 없습니다. 일반적으로 알려진 바에 따르면, cycloserine은 D-알라닌 유사체로 세균의 alanine racemase와 D-alanine ligase를 억제하여 세포벽 합성을 방해합니다. 또한 NMDA 수용체 글리신 결합 부위의 부분 작용제로 작용합니다.
 
 과민성 장 증후군과의 연관성은 장내 미생물 조절이나 장관 NMDA 신호전달을 통한 가설 수준에 불과합니다. 제공된 데이터로는 이를 뒷받침할 수 없으며, 기존 적응증(결핵)과 신규 적응증 간의 유사성 분석도 아직 수행되지 않았습니다.
+
+<!-- review:begin kr-lic-20261105-cycloserine-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “그 외 큐로스캡슐(유영제약), 이텍스시클로세린캡슐(테라젠이텍스) 등 총 7건이 모두 단일제로 유효하며, 대부분 수출용입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 7건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-cycloserine-1 -->
 
 ## 한국 시판 정보
 
@@ -106,6 +118,20 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 | 7 | 비강 질환 | 0.9901 | L5 | 관련 없는 비강 병원체(리노스포리디움) 증례만 검색됨 |
 
 모든 예측 적응증이 Hold 판정입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “그 외 큐로스캡슐(유영제약), 이텍스시클로세린캡슐(테라젠이텍스) 등 총 7건이 모두 단일제로 유효하며, 대부분 수출용입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “7건의 허가증이 유효한 상태로” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

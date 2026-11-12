@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 384
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -55,6 +55,12 @@ GLUCOSE(포도당)는 DrugBank 조회에서 인식되었으나, 이번 평가 �
 안전성 데이터도 확보되지 않아, 현 단계에서 약물 재창출 평가를 진행할 수 없습니다.
 데이터 격차(DG001, DG002)를 우선 해소한 뒤 재평가가 필요합니다.
 
+<!-- review:begin kr-lic-20261105-glucose-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “허가 이력이 없고 안전성 데이터도 확보되지 않아, 현 단계에서 약물 재창출 평가를 진행할 수 없습니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-glucose-1 -->
+
 ---
 
 ## 빠른 개요
@@ -89,6 +95,19 @@ TxGNN 예측 적응증이 없고 허가 데이터 및 안전성 정보도 전무
 - **[DG002 — High]** 작용 기전(MOA) 확보: DrugBank API 재조회 또는 DrugBank 페이지 수동 확인
 - DrugBank ID 확인: DrugBank 조회(`query_log` id=2)에서 1건이 반환되었으나 `drugbank_id`가 기록되지 않음 — ID 값 저장 필요
 - 위 항목 확보 후 TxGNN 예측 파이프라인 재실행 및 Evidence Pack v5 재생성
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “허가 이력이 없고” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

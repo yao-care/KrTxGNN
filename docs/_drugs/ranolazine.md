@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 644
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Ranolazine: 예측 신규 적응증 신성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiure… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 링크로만 제공되어 요약할 수 없음 (허가사항 참조)"
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
@@ -41,6 +41,12 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 Ranolazine은 단일 성분 서방정제로, 후기 나트륨 전류(late sodium current)를 억제하는 약물입니다.
 TxGNN 모델은 **신성 항이뇨호르몬 부적절 분비 증후군(Nephrogenic Syndrome of Inappropriate Antidiuresis, NSIAD)**에 효과가 있을 수 있다고 예측하지만, 현재 이를 뒷받침하는 **임상시험과 문헌은 각각 0건**으로 모델 예측만 존재하는 단계입니다.
 
+<!-- review:begin kr-lic-20261105-ranolazine-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “Ranolazine은 한국에서 허가된 단일 성분 서방정제로, 후기 나트륨 전류(late sodium current)를 억제하는 약물입니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 0건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-ranolazine-1 -->
+
 ## 빠른 개요
 
 | 항목 | 내용 |
@@ -60,6 +66,12 @@ TxGNN 모델은 **신성 항이뇨호르몬 부적절 분비 증후군(Nephrogen
 NSIAD는 바소프레신 V2 수용체(AVPR2)의 기능획득 돌연변이(R137C/R137L)로 인해 cAMP 경로가 지속적으로 활성화되고, 집합관의 아쿠아포린-2(AQP2)를 통해 수분이 과도하게 재흡수되는 질환입니다. Ranolazine의 나트륨 채널 억제가 V2 수용체 신호전달이나 AQP2 이동과 연결된다고 알려진 기전적 경로는 없습니다.
 
 신세뇨관 이온 수송이나 cAMP 관련 조절을 통한 연관성은 추측 수준이며 전임상 검증이 필요합니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 생물학적 근거가 아니라 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 있습니다.
+
+<!-- review:begin kr-lic-20261105-ranolazine-2 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 0건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-ranolazine-2 -->
 
 ## 한국 시판 정보
 
@@ -92,6 +104,20 @@ NSIAD는 신장 질환과 수분·전해질 균형이 핵심인 질환이므로,
 - Ranolazine과 V2 수용체 신호전달/AQP2 이동 간의 연관성을 검증하는 전임상 연구
 - 신장 기능 저하 환자 및 QT 연장 위험에 대한 안전성 평가
 - 투여 경로 적합성 평가 (현재 미확인)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “한국에서 허가된” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

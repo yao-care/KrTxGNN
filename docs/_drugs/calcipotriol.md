@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 170
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Calcipotriol: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L3). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 제공되어 확인할 수 없음 (국소제 형태로 보아 건선 등 피부질환용으로 추정)"
 monitor_inn: "CALCIPOTRIOL"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -65,6 +65,12 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 
 현재 관련 임상시험 등록이 없습니다.
 
+<!-- review:begin kr-lic-20261105-calcipotriol-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “이 외에 3건(칼시베타연고, 다이보넥스연고, 자미올겔)이 더 허가되어 있어 총 8건이 모두 유효한 단일제입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 10건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-calcipotriol-1 -->
+
 ## 문헌 근거
 
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
@@ -110,6 +116,19 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 - 칼슘 대사 이상 환자 제외 기준 설정
 
 참고: 2~10위 예측(외음부 질환, 파제트병, 섬유낭성 유방질환 등)은 TxGNN 점수가 높지만 임상 근거가 없거나 간접적이어서 모두 Hold 수준입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “이 외에 3건(칼시베타연고, 다이보넥스연고, 자미올겔)이 더 허가되어 있어 총 8건이 모두 유효한 단일제입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

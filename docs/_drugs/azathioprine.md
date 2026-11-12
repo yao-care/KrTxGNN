@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 112
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Azathioprine: 예측 신규 적응증 콜로보마성 소안구증-근위지단 이형성증 증후군 (colobomatous microphthalmia-rhizomelic dysp… (근거 수준 L5). 기존 적응증: 허가증 본문은 링크로만 확인되어 구체적 문구를 확인하지 못했습니다. 일반적으로 알려진 면역 매개 질환 및 이식 관련 면역억제…"
 monitor_inn: "AZATHIOPRINE"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
@@ -39,6 +39,12 @@ predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndro
 ## 한 문장 요약
 
 Azathioprine은 퓨린 계열 항대사 면역억제제입니다. TxGNN 모델은 희귀 발생 이상 질환인 **콜로보마성 소안구증-근위지단 이형성증 증후군(colobomatous microphthalmia-rhizomelic dysplasia syndrome)**에 효과가 있을 것으로 예측했고 점수는 매우 높았습니다. 그러나 이를 지지하는 **임상시험은 0건, 문헌도 0편**이라 이 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다.
+
+<!-- review:begin kr-lic-20261031-azathioprine-1 -->
+
+> **검토 정정 (2026-10-31)**: 원래 문장: “Azathioprine은 퓨린 계열 항대사 면역억제제로, 한국에서는 시판되지 않습니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 13건(유효 11건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261031-azathioprine-1 -->
 
 ## 빠른 개요
 
@@ -100,6 +106,19 @@ Azathioprine은 퓨린 계열 항대사 면역억제제입니다. TxGNN 모델�
 - 상세한 약물 작용 기전(MOA) 데이터와 허가증 본문에 기재된 적응증, 경고, 금기 정보 확보
 
 **참고:** 같은 데이터에서 염증성 장질환(IBD)과 궤양성 대장염은 근거 수준 L1이며 "Proceed with Guardrails" 판정을 받았습니다. 다만 이는 이미 확립된 임상 사용에 가까워 신규 재창출 후보라기보다 근거가 충분한 기존 용도로 보아야 합니다. 이 두 질환을 우선 검토 대상으로 삼는 것이 합리적입니다. 이 경우 TPMT/NUDT15 유전자형 검사, 혈구 및 간효소 모니터링, 악성종양·감염 위험 관리가 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-10-31 | 삭제: “로, 한국에서는 시판되지 않습” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

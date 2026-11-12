@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 62
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -39,6 +39,12 @@ predicted_indications: []
 ## 한 문장 요약
 
 Amisulpride(DrugBank ID: DB06288)는 이번 Evidence Pack에 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다. 작용 기전(MOA)과 허가 경고문·금기사항 데이터도 모두 누락되어 있어, 재창출 가능성 평가를 진행하기 위한 최소 요건이 충족되지 않았습니다. 핵심 데이터 보완 후 재평가가 필요합니다.
+
+<!-- review:begin kr-lic-20261105-amisulpride-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “Amisulpride(DrugBank ID: DB06288)는 현재 대만 미허가 약물로, 이번 Evidence Pack에 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-amisulpride-1 -->
 
 ## 빠른 개요
 
@@ -79,6 +85,19 @@ TxGNN 예측 적응증이 존재하지 않으며, 작용 기전(MOA)·안전성 
 - DrugBank API를 통한 MOA 및 약물 카테고리 데이터 수집
 - 해당 의약품 허가 기관(TFDA 등) 자료를 통한 경고문·금기사항 확인
 - 원래 허가 적응증 데이터 수집
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “현재 대만 미허가 약물로” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

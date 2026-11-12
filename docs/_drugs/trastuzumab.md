@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 754
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab: 예측 신규 적응증 Malignant cutaneous granular cell skin tumor (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302082/EE"
@@ -60,6 +60,12 @@ Trastuzumab은 HER2를 표적으로 하는 단클론항체로, 원래 HER2 양�
 HER2 양성 종양의 상당수는 프로게스테론 수용체(PR)도 함께 양성(HR+/HER2+)입니다. 따라서 이 예측은 새로운 질환이라기보다 이미 승인된 적응증의 하위 집단에 해당합니다. 치료 효과는 PR 상태가 아니라 **HER2 상태**에 좌우됩니다.
 
 임상시험에는 내분비치료(fulvestrant, tamoxifen, letrozole)나 CDK4/6 억제제(palbociclib, abemaciclib)를 병용하는 HR+/HER2+ 질환 연구가 포함되어 있어, 이 하위 집단에서의 병용 전략이 활발히 연구되고 있음을 보여 줍니다.
+
+<!-- review:begin kr-lic-20261105-trastuzumab-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 8건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-trastuzumab-1 -->
 
 ## 임상시험 근거
 
@@ -141,6 +147,18 @@ Trastuzumab은 세포독성 화학요법제가 아닌 HER2 표적 단클론항�
 
 | 예측 적응증 | TxGNN 점수 | 근거 수준 | 권장 |
 |---|---|---|---|
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

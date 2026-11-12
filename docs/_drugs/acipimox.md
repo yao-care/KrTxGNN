@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 22
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -42,6 +42,12 @@ ACIPIMOX(DB09055)는 Evidence Pack에 기존 적응증 및 TxGNN 예측 결과�
 작용 기전·안전성 데이터 모두 수집되지 않아 **평가 자체가 Blocking 상태**입니다.
 아래 섹션은 수집된 데이터 범위 내에서만 작성되었습니다.
 
+<!-- review:begin kr-lic-20261105-acipimox-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “현재 한국(대만) 시판 이력도 없으며, 작용 기전·안전성 데이터 모두 수집되지 않아 **평가 자체가 Blocking 상태**입니다.” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-acipimox-1 -->
+
 ---
 
 ## 빠른 개요
@@ -61,6 +67,12 @@ ACIPIMOX(DB09055)는 Evidence Pack에 기존 적응증 및 TxGNN 예측 결과�
 ## 이 예측이 타당한 이유는?
 
 현재 상세한 작용 기전(MOA) 데이터가 없습니다. DrugBank ID(DB09055)는 확인되었으나, DrugBank API로부터 MOA 정보가 수집되지 않았습니다.
+
+<!-- review:begin kr-lic-20261105-acipimox-2 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “DrugBank ID(DB09055)는 확인되었으나, TFDA(대만 식약처) 및 DrugBank API로부터 MOA 정보가 수집되지 않았습니다.” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-acipimox-2 -->
 
 `predicted_indications` 배열이 비어 있어 TxGNN 모델이 이 약물에 대한 재창출 후보 적응증을 반환하지 않았습니다. 이는 지식 그래프 내 약물 노드 연결 부족, 또는 DrugBank 매핑 미완성으로 인한 것일 수 있습니다.
 
@@ -91,6 +103,20 @@ TxGNN 예측 결과가 없고 작용 기전·안전성 데이터 모두 미수�
 | Medium | PubMed 문헌 수동 검색 | ACIPIMOX + 적응증 키워드 조합으로 문헌 탐색 |
 
 > **참고**: ACIPIMOX가 지식 그래프에 정상 연결되어 있는지 `data/external/drugbank_vocab.csv`에서 DB09055 존재 여부를 먼저 확인하세요.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “현재 한국(대만) 시판 이력도 없으며” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “TFDA(대만 식약처) 및” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

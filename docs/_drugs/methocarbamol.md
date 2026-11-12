@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 507
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Methocarbamol: 예측 신규 적응증 마미 증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 아닌 허가 문서 링크만 제공됨)"
 monitor_inn: "Methocarbamol"
 predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "panuveitis (disease)", "anaphylaxis", "iris disease", "uveitis", "ventricular tachycardia", "food-dependent exercise-induced anaphylaxis", "conjunctivitis", "obsolete bundle branch block"]
@@ -72,6 +72,12 @@ Methocarbamol은 중추 작용 골격근 이완제로, 한국에서 단일 성�
 
 주요 허가 5건입니다. 허가 적응증은 본문 대신 허가 문서 링크만 제공되어 요약할 수 없습니다.
 
+<!-- review:begin kr-lic-20261105-methocarbamol-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “총 20건이 모두 유효한 단일 성분 허가이며, 취소된 허가는 없습니다. 이 중 상당수는 수출용입니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-methocarbamol-1 -->
+
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
 | 201307106 | 메노펜정(수출용) | 필름코팅정 | 허가 문서 참조 |
@@ -101,6 +107,19 @@ TxGNN 점수는 매우 높지만(0.9998), 임상시험과 직접 관련 문헌�
 - DrugBank 등에서 작용 기전(MOA) 데이터 확보
 - 마미 증후군 관련 증상(근경련, 통증) 완화 목적의 사용에 대한 전임상·임상 근거 탐색
 - 근거가 없다면 다른 상위 예측(예: 과민성 장 증후군)이나 증상 완화 목적의 보조 요법으로 방향 재검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “총 20건이 모두 유효한 단일 성분 허가이며, 취소된 허가는 없습니다. 이 중 상당수는 수출용입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

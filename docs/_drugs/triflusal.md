@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 764
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Triflusal: 예측 신규 적응증 인자 V 과다에 의한 자발성 혈전증 (factor 5 excess with spontaneous thrombosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 링크로만 제공되어 있어 이 보고서에서 확인하지 못했습니다. 허가사항을 참조하세요"
 monitor_inn: "TRIFLUSAL"
 predicted_indications: ["factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis"]
@@ -64,6 +64,12 @@ Triflusal은 항혈소판제로, 한국에서 단일 성분 캡슐제로 허가�
 
 상위 예측(인자 V 과다)에 대한 문헌은 없습니다. 참고로, 5위권 내 예측 질환 중 혈전성향증(thrombophilia, 4위)에 대해서는 다음 1편이 있으며, 이는 간접 근거입니다.
 
+<!-- review:begin kr-lic-20261105-triflusal-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 9건(유효 7건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-triflusal-1 -->
+
 | PMID | 연도 | 유형 | 저널 | 주요 발견 |
 |------|-----|------|------|---------|
 | [8200721](https://pubmed.ncbi.nlm.nih.gov/8200721/) | 1993 | 약력학 연구 | Int J Clin Pharmacol Res | 혈소판 과응집으로 혈전 위험이 있는 환자 15명에게 Triflusal 300 mg/일(5일), 600 mg/일(5일)을 투여하고 위약과 비교하여 혈소판 기능을 평가했습니다. 혈전성향증 환자나 임상 혈전 결과를 평가한 연구는 아닙니다. |
@@ -95,6 +101,19 @@ Triflusal은 항혈소판제로, 한국에서 단일 성분 캡슐제로 허가�
 - 인자 V 과다 및 관련 혈전성향 질환에서 Triflusal의 효과를 평가한 전임상 또는 임상 근거
 - 혈전성향증 환자 대상의 임상 결과 연구 (기존 약력학 연구는 간접 근거에 그침)
 - 항응고제와의 병용 가능성 등 약물 상호작용 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

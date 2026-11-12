@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 54
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -41,6 +41,12 @@ predicted_indications: []
 AMBROXOL HYDROCHLORIDE는 기존 적응증을 확인할 수 없습니다.
 TxGNN 예측 파이프라인이 이 약물에 대한 신규 적응증을 생성하지 못했으며,
 작용 기전(MOA)·안전성·규제 데이터가 모두 수집되지 않아 현 단계에서는 평가를 진행할 수 없습니다.
+
+<!-- review:begin kr-lic-20261105-ambroxol_hydrochloride-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “AMBROXOL HYDROCHLORIDE는 대만 허가 이력이 없어 기존 적응증을 확인할 수 없습니다.” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-ambroxol_hydrochloride-1 -->
 
 ---
 
@@ -81,12 +87,39 @@ TxGNN 모델이 이 약물에 대한 예측 결과를 생성하지 않았습니�
 **사유:**
 TxGNN 예측 결과가 없고, 작용 기전·안전성 데이터가 모두 부재하여 재창출 가능성을 평가할 최소한의 근거조차 확보되지 않았습니다.
 
+<!-- review:begin kr-lic-20261105-ambroxol_hydrochloride-2 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “TxGNN 예측 결과가 없고, 대만 허가 이력·작용 기전·안전성 데이터가 모두 부재하여 재창출 가능성을 평가할 최소한의 근거조차 확보되지 않았습니다.” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-ambroxol_hydrochloride-2 -->
+
 **진행하려면 필요한 것:**
 
 - **[Blocking]** DrugBank ID 확인 — DrugBank API 재쿼리 후 `drugbank_id` 필드 보완
 - **[Blocking]** TxGNN KG 내 노드 존재 여부 확인 — `data/external/drugbank_vocab.csv` 대조
 - **[High]** 작용 기전(MOA) 수집 — DrugBank 약물 프로파일 파싱
 - DrugBank ID 확보 후 Evidence Pack을 v5로 재생성하여 재평가 진행
+
+<!-- review:begin kr-lic-20261105-ambroxol_hydrochloride-3 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “**[High]** 대만 허가 현황 재확인 — TFDA 데이터베이스에서 "AMBROXOL" 성분명으로 재검색 (조회 시 `AMBROXOL`과 `AMBROXOL HYDROCHLORIDE` 두 형태 모두 시도) / DrugBank ID 확보 후 Evidence Pack을 v5로 재생성하여 재평가 진행” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-ambroxol_hydrochloride-3 -->
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “대만 허가 이력이 없어” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “대만 허가 이력·” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “**[High]** 대만 허가 현황 재확인 — TFDA 데이터베이스에서 "AMBROXOL" 성분명으로 재검색 (조회 시 `AMBROXOL`과 `AMBROXOL HYDROCHLORIDE` 두 형태 모두 시도)” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

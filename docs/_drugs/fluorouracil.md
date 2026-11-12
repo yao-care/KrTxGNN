@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Fluorouracil: 예측 신규 적응증 질의 포도상 배아형 횡문근육종 (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 적응증을 확인할 수 없음"
 ---
 
@@ -81,6 +81,12 @@ Fluorouracil은 항대사 계열 세포독성 항암제로, 한국에서 단일�
 
 허가 적응증은 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없습니다.
 
+<!-- review:begin kr-lic-20261105-fluorouracil-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “허가증 7건은 모두 단일제이며 유효 상태입니다. 허가 적응증은 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 8건(유효 7건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-fluorouracil-1 -->
+
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
 | 202402958 | 케이메디에프유주 500 mg | 주사제 (갈색 바이알) | 허가사항 문서 참조 |
@@ -124,6 +130,19 @@ Fluorouracil은 항대사 계열 세포독성 항암제로, 한국에서 단일�
 - 작용 기전(MOA) 데이터 보완
 - 소아 환자 대상 용량 및 안전성 검토
 - 증례 보고(PMID 42483493)의 요법 세부 내용 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “허가증 7건은 모두 단일제이며 유효 상태입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

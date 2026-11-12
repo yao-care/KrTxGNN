@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 57
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -43,6 +43,12 @@ Evidence Pack을 분석합니다. `predicted_indications`가 비어 있고 대�
 ## 한 문장 요약
 
 Amiloride Hydrochloride는 포타슘 보존성 이뇨제 계열 약물로, DrugBank 조회는 성공적으로 완료되었으나 이번 Evidence Pack에 TxGNN 예측 적응증 정보가 포함되지 않아 정식 재창출 평가를 진행할 수 없습니다. 작용 기전(MOA) 및 안전성 데이터 모두 미수집 상태입니다. 재평가를 위해서는 TFDA 仿單 수집 및 TxGNN 예측 재실행이 선행되어야 합니다.
+
+<!-- review:begin kr-lic-20261105-amiloride_hydrochloride-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “대만 내 시판 허가 이력이 없으며, 작용 기전(MOA) 및 안전성 데이터 모두 미수집 상태입니다.” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-amiloride_hydrochloride-1 -->
 
 ---
 
@@ -99,11 +105,38 @@ Amiloride Hydrochloride는 포타슘 보존성 이뇨제 계열 약물로, DrugB
 **사유:**
 TxGNN 예측 적응증 데이터가 없어 재창출 타당성 평가 자체를 진행할 수 없습니다. 작용 기전(MOA), 안전성 경고/금기 모두 미수집 상태로, 최소 데이터 요건이 충족되지 않습니다.
 
+<!-- review:begin kr-lic-20261105-amiloride_hydrochloride-2 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “작용 기전(MOA), 안전성 경고/금기, 대만 허가 이력 모두 미수집 상태로, 최소 데이터 요건이 충족되지 않습니다.” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-amiloride_hydrochloride-2 -->
+
 **진행하려면 필요한 것:**
 - **[Blocking]** TFDA 仿單 수집 — TFDA 공식 사이트에서 PDF 다운로드 후 경고/금기 파싱
 - **[High]** DrugBank API를 통한 MOA, 약리 분류, 독성 데이터 수집 (`drugbank_id` 확인 필요)
 - **[High]** TxGNN 모델 재실행 — `predicted_indications` 데이터 생성
 - **[Medium]** DDI 데이터베이스 재조회 — 현재 `not_found` 상태로 확인 필요
+
+<!-- review:begin kr-lic-20261105-amiloride_hydrochloride-3 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “**[Medium]** DDI 데이터베이스 재조회 — 현재 `not_found` 상태로 확인 필요 / **[참고]** Amiloride는 국제적으로 고혈압·부종 적응증으로 허가된 약물이나, 대만 내 허가 이력이 없으므로 규제 경로 별도 검토 필요” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-amiloride_hydrochloride-3 -->
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “대만 내 시판 허가 이력이 없으며” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “대만 허가 이력” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “**[참고]** Amiloride는 국제적으로 고혈압·부종 적응증으로 허가된 약물이나, 대만 내 허가 이력이 없으므로 규제 경로 별도 검토 필요” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

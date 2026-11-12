@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 105
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -42,6 +42,12 @@ Atropine Sulfate Hydrate는 항콜린성 약물 계열로 알려진 성분이나
 작용 기전(MOA)·경고·금기 등 핵심 데이터가 누락되어 있어 **현재 상태로는 약물 재창출 평가를 진행할 수 없습니다.**
 데이터 수집 완료 후 파이프라인 재실행이 선행되어야 합니다.
 
+<!-- review:begin kr-lic-20261105-atropine_sulfate_hydrate-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “한국 내 허가 이력이 전무하고, 작용 기전(MOA)·경고·금기 등 핵심 데이터가 누락되어 있어 **현재 상태로는 약물 재창출 평가를 진행할 수 없습니다.**” 삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 13건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-atropine_sulfate_hydrate-1 -->
+
 ---
 
 ## 빠른 개요
@@ -73,12 +79,32 @@ Atropine Sulfate Hydrate는 항콜린성 약물 계열로 알려진 성분이나
 **사유:**
 TxGNN 예측 결과가 없고, MOA·경고·금기 등 평가에 필수적인 데이터가 모두 누락되어 있어 재창출 가능성을 판단할 근거가 전혀 없습니다.
 
+<!-- review:begin kr-lic-20261105-atropine_sulfate_hydrate-2 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “TxGNN 예측 결과가 없고, 한국 내 허가 이력이 없으며, MOA·경고·금기 등 평가에 필수적인 데이터가 모두 누락되어 있어 재창출 가능성을 판단할 근거가 전혀 없습니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 13건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-atropine_sulfate_hydrate-2 -->
+
 **진행하려면 필요한 것:**
 
 - **[DG002 해소]** DrugBank API 재조회를 통해 `drugbank_id` 및 MOA 데이터 확보 (query_log에 성공 기록이 있으나 ID 미수집 — 원인 규명 필요)
 - **[DG001 해소]** 한국 MFDS 또는 해외 규제기관(FDA, EMA 등) 허가사항에서 경고·금기 데이터 수집
 - **TxGNN 파이프라인 재실행** — DrugBank ID 확보 후 예측 재실행하여 `predicted_indications` 생성
 - **기존 적응증 정의** — 허가사항 기반으로 `original_indications` 필드 보완 후 재평가 의뢰
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “한국 내 허가 이력이 전무하고” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “한국 내 허가 이력이 없으며” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

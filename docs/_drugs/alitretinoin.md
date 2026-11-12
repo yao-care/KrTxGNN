@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 40
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Alitretinoin: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가증에는 식약처 문서 링크만 수록). 참고: 해외에서는 중증 만성 수부 습진 및 카포시 육종…"
 monitor_inn: "Alitretinoin"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
@@ -60,6 +60,12 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 이론적으로는 RAR/RXR 신호가 생식 조직에도 관여하므로 간접적 연관을 가정해 볼 수 있습니다. 그러나 이는 추측일 뿐 이번 자료에서는 이를 뒷받침하는 임상시험이나 문헌이 확인되지 않았습니다. 또한 레티노이드는 기형 유발성이 있어 가임기 환자에게 중대한 안전성 문제가 됩니다.
 
+<!-- review:begin kr-lic-20261105-alitretinoin-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “전체 20건이 모두 단일 성분 제제이며 유효한 상태입니다(취소 0건).” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-alitretinoin-1 -->
+
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
@@ -92,6 +98,19 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 - 임신 예방 프로그램 등 기형 유발성에 대한 안전 관리 방안 수립
 
 **참고:** 같은 약물의 다른 예측 중 여드름(acne)은 문헌 2편(리뷰)이 있어 근거 수준 L4이며 "연구 과제(Research Question)"로 분류됩니다. 다만 이는 레티노이드 계열 일반 근거로, alitretinoin 자체에 대한 시험은 없습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “전체 20건이 모두 단일 성분 제제이며 유효한 상태입니다(취소 0건)” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 536
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Naftopidil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 대신 문서 링크만 제공됨)"
 monitor_inn: "NAFTOPIDIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
@@ -66,6 +66,12 @@ Ambras 증후군은 TRPS1 조절에 영향을 주는 염색체 재배열과 관�
 
 허가 적응증 본문은 이번 데이터에 포함되어 있지 않아 표에서는 제외했습니다. 주요 허가 5건은 다음과 같습니다.
 
+<!-- review:begin kr-lic-20261105-naftopidil-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “이 외에 75mg 제품을 중심으로 총 18건의 유효한 단일제 허가가 있으며, 취소된 허가는 없습니다. 이 중 2건은 수출용입니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-naftopidil-1 -->
+
 | 허가번호 | 제품명 | 제형 | 제조사 |
 |---------|------|------|-------|
 | 201102769 | 플리바스정50mg | 흰색의 원형 정제 | 동아에스티(주) |
@@ -91,6 +97,19 @@ Ambras 증후군은 TRPS1 조절에 영향을 주는 염색체 재배열과 관�
 - 알파-1 차단과 모낭 또는 TRPS1 경로의 연관성을 검토하는 기전 문헌 조사
 - 전임상 연구 등 최소한의 실험적 근거 확보
 - 순위가 낮은 다른 예측 질환까지 포함하여 근거가 더 있는 후보가 있는지 재검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “이 외에 75mg 제품을 중심으로 총 18건의 유효한 단일제 허가가 있으며, 취소된 허가는 없습니다. 이 중 2건은 수출용입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

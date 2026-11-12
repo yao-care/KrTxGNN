@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Doxorubicin: 예측 신규 적응증 유잉육종 (근거 수준 L1). 기존 적응증: 확인 불가 (허가 적응증 본문 없음, 허가 문서 링크만 제공됨)"
 ---
 
@@ -106,6 +106,12 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 위 표는 대표 5건만 나열한 것입니다.
 
+<!-- review:begin kr-lic-20261105-doxorubicin-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다. 위 표는 대표 5건만 나열한 것입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 12건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-doxorubicin-1 -->
+
 ## 세포독성
 
 | 항목 | 내용 |
@@ -155,6 +161,19 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 | 횡문근육종 | 0.9970 | L1 | Proceed with Guardrails |
 
 원발성 폐 림프종, 폐 모세포종, 단핵구성 백혈병 등은 해당 질환을 직접 대상으로 한 doxorubicin 시험이 제시되지 않아 근거 수준을 L5로 조정했습니다. 횡문근육종도 제시된 Phase 3 시험들이 주로 연부조직육종 전반을 다룬 것이어서, 이 질환을 직접 연구한 근거가 충분한지 추가 검토가 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

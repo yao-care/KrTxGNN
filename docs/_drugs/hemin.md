@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 399
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Hemin: 예측 신규 적응증 혈소판감소성 자반증 (Thrombocytopenic Purpura) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 구체적인 문구를 확인할 수 없음 (MFDS 허가 문서 참조)"
 monitor_inn: "Hemin"
 predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]
@@ -39,6 +39,12 @@ predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor 
 ## 한 문장 요약
 
 Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있습니다. TxGNN 모델(딥러닝)은 **혈소판감소성 자반증(thrombocytopenic purpura)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 **임상시험은 0건, 문헌도 0편**입니다. 이 예측은 TxGNN 모델(딥러닝)의 계산 결과로, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 뿐이며 실제 근거는 아직 없습니다.
+
+<!-- review:begin kr-lic-20261031-hemin-1 -->
+
+> **검토 정정 (2026-10-31)**: 원래 문장: “Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있으나 한국에서는 현재 시판되지 않습니다(허가 취소 여부는 출처에 정보가 없어 확인되지 않음).” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261031-hemin-1 -->
 
 ## 빠른 개요
 
@@ -90,6 +96,19 @@ Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있
 - 혈소판감소성 자반증과 Hemin의 연관성을 보여주는 전임상 또는 기전 연구
 - 혈전 및 응고 이상 위험을 고려한 안전성 평가
 - 관련 임상시험 또는 문헌이 확인될 경우 근거 수준 재평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-10-31 | 삭제: “으나 한국에서는 현재 시판되지 않 (허가 취소 여부는 출처에 정보가 없어 확인되지 않음)” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

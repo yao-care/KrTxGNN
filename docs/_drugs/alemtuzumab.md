@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 35
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 predicted_indications: []
 ---
 
@@ -39,6 +39,12 @@ predicted_indications: []
 - `safety`: 전체 [Data Gap]
 - Data Gap DG001 (Blocking): 허가사항 경고/금기 미수집
 - Data Gap DG002 (High): MOA 미수집
+
+<!-- review:begin kr-lic-20261105-alemtuzumab-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “`taiwan_regulatory`: 미시판, 0건 / `safety`: 전체 [Data Gap]” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-alemtuzumab-1 -->
 
 ---
 
@@ -85,6 +91,19 @@ TxGNN 예측 적응증이 없고, 작용 기전(MOA)과 안전성 정보가 모�
 - **[High]** 작용 기전(MOA) 데이터 보완 — DrugBank API를 통해 DB00087 조회
 - TxGNN 예측 파이프라인 재실행 및 `predicted_indications` 생성
 - 예측 결과 생성 후 임상시험·문헌 증거 수집 재개
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “`taiwan_regulatory`: 미시판, 0건” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

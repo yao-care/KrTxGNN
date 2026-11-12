@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (stomach disease) (근거 수준 L3). 기존 적응증: 이 약은 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질에 사용합니다"
 ---
 
@@ -108,6 +108,18 @@ TxGNN 모델은 **위 질환(stomach disease)**에 효과가 있을 수 있다�
 - 상세한 작용 기전(MOA) 데이터 확보
 - 구체적인 위 질환 하위 질환으로 범위를 좁힌 임상 근거 검토
 - 병용 약물(특히 Dolutegravir 등)에 대한 상호작용 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-10-31 | 삭제: “시판 (취소·미시판 여부)” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-12: 2026년 11월 보고서가 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

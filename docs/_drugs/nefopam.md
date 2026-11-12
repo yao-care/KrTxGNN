@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-12
 description: "Nefopam: 예측 신규 적응증 두개골 유합증 백내장 (craniostenosis cataract) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601070/EE"
 ---
 
@@ -63,6 +63,12 @@ TxGNN 모델은 **두개골 유합증 백내장(craniostenosis cataract)**에 �
 
 대부분 주사제(앰플)이며, 캡슐제도 1건 있습니다.
 
+<!-- review:begin kr-lic-20261105-nefopam-1 -->
+
+> **검토 정정 (2026-11-05)**: 원래 문장: “한국에서는 단일 성분 허가증 18건이 모두 유효합니다. 대부분 주사제(앰플)이며, 캡슐제도 1건 있습니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 16건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261105-nefopam-1 -->
+
 | 허가번호 | 제품명 | 제형 | 제조사 |
 |---------|------|------|------|
 | 201601070 | 명문네포팜염산염주 | 앰플 주사제 | 명문제약(주) |
@@ -89,6 +95,19 @@ TxGNN 모델은 **두개골 유합증 백내장(craniostenosis cataract)**에 �
 - 허가사항의 경고·금기·적응증 원문 확인
 - 이 질환 또는 수정체 혼탁에 대한 전임상·기전 연구 근거
 - 백내장 아형에서 동일 점수가 반복되는 원인 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-05 | 삭제: “한국에서는 단일 성분 허가증 18건이 모두 유효합니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
