@@ -112,7 +112,11 @@ def in_para(a, b):
                 x1, x2, y1, y2 = i1 - k1, i2 + k2, j1 - k1, j2 + k2
                 if x1 < 0 or y1 < 0 or x2 > len(ta) or y2 > len(tb) or y2 == y1 or x2 == x1:
                     continue  # replacement 不能空（錨點）；claim 也不能空（純插入的句子要多帶相鄰句才能定位，例 Za 補回句）
-                cands.append((k1 + k2, (a[sa[x1][0]:sa[x2 - 1][1]] if x2 > x1 else "", b[sb[y1][0]:sb[y2 - 1][1]])))
+                # claim 前後的分隔（空白或換行）要跟 replacement 前後的一樣，套用後才不會把兩行併成一行（例 My atropine：
+                # 整句刪掉時往後帶下一行當錨點，claim 前是空白、replacement 前是換行）；不一樣的候選排到後面
+                sep = lambda s, sp, i: s[sp[i - 1][1] if i > 0 else 0:sp[i][0] if i < len(sp) else len(s)]
+                bad = sep(a, sa, x1) != sep(b, sb, y1) or sep(a, sa, x2) != sep(b, sb, y2)
+                cands.append((k1 + k2 + (10 if bad else 0), (a[sa[x1][0]:sa[x2 - 1][1]] if x2 > x1 else "", b[sb[y1][0]:sb[y2 - 1][1]])))
         if not cands:
             continue  # 段落只剩這句又整句刪：由段落層級處理
         cands = [c for _, c in sorted(cands, key=lambda x: x[0])]
@@ -181,8 +185,11 @@ def snap_facts():
 
 
 def removed_text(claim, repl):
-    sm = difflib.SequenceMatcher(None, claim, repl, autojunk=False)
-    return " ".join(claim[i1:i2] for op, i1, i2, j1, j2 in sm.get_opcodes() if op in ("delete", "replace"))
+    """claim 裡被刪掉的字：以詞為單位比對（不分大小寫、不計標點），避免逐字比對把「dan p」「alaysia」這種半個詞當成刪除"""
+    wa, wb = claim.split(), repl.split()
+    key = lambda w: re.sub(r"[^\w]", "", w.lower())
+    sm = difflib.SequenceMatcher(None, [key(w) for w in wa], [key(w) for w in wb], autojunk=False)
+    return " ".join(" ".join(wa[i1:i2]) for op, i1, i2, j1, j2 in sm.get_opcodes() if op in ("delete", "replace"))
 
 
 def classify(rm):
@@ -287,9 +294,13 @@ def pick(cands, cur_body):
     return None
 
 
+restored = []  # finalize 跳過的已還原句（檔名, 原句）
+
+
 def finalize(by, current, regen, fixes, facts, existing_ids):
     """草稿 → 正式紀錄；回傳 (紀錄, 無法定位的草稿)"""
     out, lost = [], []
+    restored.clear()
     for fname, recs in sorted(by.items()):
         stem = fname[:-3]
         cur = current(fname)
@@ -308,12 +319,17 @@ def finalize(by, current, regen, fixes, facts, existing_ids):
                 else:
                     lost.append((fname, {"claim": c0, "replacement": r0}))
                     continue
+            if fname in getattr(C, "RESTORED", {}):
+                restored.append((fname, got[0]))  # 這頁的刪句是依錯配事實刪的、之後已修正事實（site.py RESTORED），不是錯誤，不轉紀錄
+                continue
             r = dict(r, claim=got[0], replacement=got[1], anchor=got[2], how=got[3])
             n += 1
             first, last = r["_meta"][0], r["_meta"][-1]
             rm = removed_text(r["claim"], r["replacement"])
             reason = manual_reason(fixes, stem, r["claim"])
-            kind = (C.reason_kind(reason) if reason and hasattr(C, "reason_kind") else None) or classify(rm)
+            # 刪掉的字太短（例 ES「no comercializado」→「comercializado」只刪 "no"）時改用整句分類
+            kind = (C.reason_kind(reason) if reason and hasattr(C, "reason_kind") else None) or \
+                classify(rm if len(rm.strip()) >= 8 else r["claim"])
             rec = {
                 "id": f"{C.CODE}-lic-{first['date'].replace('-', '')}-{stem}-{n}",
                 "drug": stem, "file": fname, "action": "correct",
@@ -387,6 +403,8 @@ def main(argv):
           f"無法定位 {len(lost)} 筆")
     for fn, r in lost[:30]:
         print(f"  ? {fn}：{r['claim'][:90]!r} → {r['replacement'][:60]!r}")
+    if restored:
+        print(f"已還原、不轉紀錄 {len(restored)} 筆（site.py RESTORED）：" + "；".join(f"{fn}「{c[:50]}」" for fn, c in restored))
     if "--write" in argv:
         write(recs)
         print(f"已寫入 {DATA.relative_to(ROOT)}")

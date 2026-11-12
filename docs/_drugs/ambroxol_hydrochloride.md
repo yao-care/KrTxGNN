@@ -115,7 +115,7 @@ TxGNN 예측 결과가 없고, 작용 기전·안전성 데이터가 모두 부�
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “대만 허가 이력이 없어” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
-| 2026-11-05 | 삭제: “대만 허가 이력·” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “대만 허가 이력·작용” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-05 | 삭제: “**[High]** 대만 허가 현황 재확인 — TFDA 데이터베이스에서 "AMBROXOL" 성분명으로 재검색 (조회 시 `AMBROXOL`과 `AMBROXOL HYDROCHLORIDE` 두 형태 모두 시도)” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->

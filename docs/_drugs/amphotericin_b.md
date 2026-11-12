@@ -64,7 +64,7 @@ Evidence Pack 분석 완료. `predicted_indications: []`이고 `original_indicat
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “이며 한국 허가 없음(0건)” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “[]`이며 한국 허가 없음(0건)인” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

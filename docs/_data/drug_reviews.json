@@ -384,7 +384,7 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "삭제: “대만 허가 이력·”",
+   "summary": "삭제: “대만 허가 이력·작용”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
   },
   {
@@ -564,7 +564,7 @@
     }
    ],
    "checked": "2026-11-05",
-   "summary": "삭제: “이며 한국 허가 없음(0건)”",
+   "summary": "삭제: “[]`이며 한국 허가 없음(0건)인”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
   },
   {
@@ -866,7 +866,7 @@
     }
    ],
    "checked": "2026-10-31",
-   "summary": "삭제: “로, 한국에서는 시판되지 않습”",
+   "summary": "삭제: “면역억제제로, 한국에서는 시판되지 않습니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）"
   },
   {
@@ -1107,7 +1107,7 @@
     }
    ],
    "checked": "2026-10-31",
-   "summary": "삭제: “어 시판 중입”",
+   "summary": "삭제: “허가되어 시판 중입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-11-12",
@@ -1372,7 +1372,7 @@
     }
    ],
    "checked": "2026-10-31",
-   "summary": "삭제: “으나 한국에서는 현재 시판되지 않 (허가 취소 여부는 출처에 정보가 없어 확인되지 않음)”",
+   "summary": "삭제: “있으나 한국에서는 현재 시판되지 않습니다(허가 취소 여부는 출처에 정보가 없어 확인되지 않음)”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）"
   },
   {
@@ -1412,7 +1412,7 @@
     }
    ],
    "checked": "2026-10-31",
-   "summary": "삭제: “시판 (취소·미시판 여부)”",
+   "summary": "삭제: “시판 상태(취소·미시판 여부)”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-11-12",

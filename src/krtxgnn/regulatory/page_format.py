@@ -183,7 +183,8 @@ def header_problems(text):
     st = header_state(text)
     if not best:
         want = parent_titles().get(NA)
-        if st["evidence_level"] == NA and want and st["parent"] != want:
+        # front matter 沒有 parent 的頁不掛在任何列表頁下（例：layout: drug 的 noindex 頁），不驗 parent
+        if st["evidence_level"] == NA and want and st["parent"] is not None and st["parent"] != want:
             return [f"parent={st['parent']}，N/A 頁應為 {want}（docs/known-uses.md 的 title）"]
         return []
     errs = []
