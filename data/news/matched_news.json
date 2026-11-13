@@ -1,17 +1,69 @@
 {
-  "last_updated": "2026-11-13T05:43:35.779121+00:00",
-  "total_count": 45,
+  "last_updated": "2026-11-13T14:11:22.152507+00:00",
+  "total_count": 36,
   "matched_count": 0,
   "news": [
     {
-      "id": "4de221b5cc69",
-      "title": "유영제약, 난임 치료제 '벰폴라' 펜 주사기 순응도 향상",
-      "published": "2026-11-13T04:57:51+00:00",
-      "summary": "유영제약, 난임 치료제 '벰폴라' 펜 주사기 순응도 향상&nbsp;&nbsp;팜뉴스",
+      "id": "e3df7799779b",
+      "title": "“대장암 예방하려면 ‘이 음식’ 많이 드세요”…대장암 예방에 좋은 식습관 6가지",
+      "published": "2026-11-13T13:05:00+00:00",
+      "summary": "“대장암 예방하려면 ‘이 음식’ 많이 드세요”…대장암 예방에 좋은 식습관 6가지&nbsp;&nbsp;코메디닷컴청년층 대장암 발병률 증가, 건강한 식습관과 조기 진단이 해법&nbsp;&nbsp;국민대학교젊어지는 대장암, 검진부터 수술 후 회복 관리까지 이어져야 [방선휘 원장 칼럼]&nbsp;&nbsp;미디어파인[김연수의 식탁이야기(106)] 살찌면 대장 점막부터 달라진다,대장암 발생의 새 단서&nbsp;&nbsp;뉴스투데이‘젊은 대장암’ 환자가 진단 전 겪은 가장 흔한 증상… “복부·허리 통증”&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "팜뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CYVlsdHF1WkRRY296V01vczNTMjZMREVaaG9UeUxCeUxOS2ZMamNaSFFOMUprT0NoYVZmYUtERlFOQXJJdC10T0VQbEtpaVBEazZSbVNnYTVIWHZfYllvUDFWTEY0U0laUUtudw?oc=5"
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96dHJzeVdQYW43cGFHTXRjNGtUS3ZnM2tpSG84WXdrTTNBWDFGQmlsWkE3WDFYRTMtR2h3clVjWVdCUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7976f550f0fc",
+      "title": "환절기 호흡기 감염 주의…폐렴 막으려면 백신부터",
+      "published": "2026-11-13T09:15:46+00:00",
+      "summary": "환절기 호흡기 감염 주의…폐렴 막으려면 백신부터&nbsp;&nbsp;한국경제국내 사망원인 3위 폐렴··· 위험 줄일 수 있는 방법은&nbsp;&nbsp;경향신문“감기겠지 넘겼다간”…고령층 목숨 앗는 ‘이 질환’&nbsp;&nbsp;동아일보\"몸살인가 봐\" 갑자기 기운 없고 식욕 '뚝'…방치하면 폐 망가진다 - 머니투데이&nbsp;&nbsp;머니투데이“단순 감기인 줄 알았다간”…사망원인 3위 폐렴의 경고 신호&nbsp;&nbsp;농민신문",
+      "sources": [
+        {
+          "name": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90OE5ZUXA4WndaRUZNT2M0OFVzaU5qU2xpd1FJZ19BME5QVm5xOS1Oc2JBcEFrTnhzU1ZuT2Zjenc5VXdhaktXeDNad1BYYXVTQzdoWXNmbmIzZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "106899b52421",
+      "title": "미국 연구진, 혈뇌장벽이 보호 단백질 92종 능동 운반 규명",
+      "published": "2026-11-13T07:04:00+00:00",
+      "summary": "미국 연구진, 혈뇌장벽이 보호 단백질 92종 능동 운반 규명&nbsp;&nbsp;바이오북미디어혈액에서 뇌로 이동하는 단백질 92종 확인…알츠하이머병 치료 새 가능성&nbsp;&nbsp;메디컬투데이검진센터에서 추천한 ‘치매 혈액검사’, 받을까? 말까?&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "바이오북미디어",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTGhUUmZlVlJ0YXlzZnFwbElFZ2hMNHNBTEh1Q3B2aDNJNDVEQm5UMDJXX3FEQnRvbFowMWhWMEFNZ2RXSDV3YkxvNlB1YnUtaU5ueQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ee974b51c46b",
+      "title": "전기 빗으로 빗은 생쥐, 한 달 만에 털이 거의 다 돌아왔습니다 - 캐어유 뉴스",
+      "published": "2026-11-13T07:00:00+00:00",
+      "summary": "전기 빗으로 빗은 생쥐, 한 달 만에 털이 거의 다 돌아왔습니다&nbsp;&nbsp;캐어유 뉴스탈모 치료 ‘전기 빗’ 나왔다…동물실험서 발모 효과 확인 [건강팩트체크]&nbsp;&nbsp;동아일보\"미녹시딜보다 효과 좋아\"…빗질만으로 탈모 해결 빗 등장&nbsp;&nbsp;지디넷코리아머리 빗었더니 탈모 부위 털이 다시 자랐다…중국 연구진, 전기 빗 개발&nbsp;&nbsp;ABC뉴스탈모를 겪고 있는 사람들에게 좋은 소식입니다.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "캐어유 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCNWQ1M2hKcE5sLWNJLVRhZjQtUUlFaTVuNVktMDBfNWx4TlBMOEc4NEg2U0VjeGFxNWdWd2hHdWc1S0x4MHJaQ0NFZHIwWW9nSW1keGYzLU9VLUttMW1oQ2FiYTI5aUFmbllfZHl3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5bd4ebce06ef",
+      "title": "심혈관·신장·대사 통합관리 시대, GLP-1제제 역할 확대되나",
+      "published": "2026-11-13T05:21:45+00:00",
+      "summary": "심혈관·신장·대사 통합관리 시대, GLP-1제제 역할 확대되나&nbsp;&nbsp;코리아헬스로그`위고비의 기적` 인슐린보다 암위험 38% 낮았다…단, 조건이 있다? [매일비타민]&nbsp;&nbsp;매일신문Ozempic 계열 약물, 심부전과 중독 넘어 노화까지 임상시험 중&nbsp;&nbsp;GeekNews[표지로 읽는 과학]살 빼기 넘어 온몸으로…GLP-1의 무대 확장&nbsp;&nbsp;DongA Science비만한 당뇨병 환자라면 SGLT-2 억제제보다 GLP-1 RA&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "코리아헬스로그",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rbk5CU01FOXdCYXJZYy00YTZfX0xyZGhuUjlEYUI1WWkzM01iNVc5Y0dDTTFod25hTTNOZkp6VU9kcnAzV0s5TlhKNEx2LW1sT2ExSldfSE52T0VWSjFJQ19VZHJlZ09lNkZaM1pTc0NMUdIBdkFVX3lxTE9xMTZwdVFGTk9ubEplMWVoT05WYVZtNlBycjRDcVdHU1dBZ2VoX1daenozeXZoTTY3MFQzc18zUm5wLUVvVEwyV1Q0cjZYNGZfVlJMYTVLdVdMLXlvTFlZMXhYZkZjd25uczNoS0NUZHlQbGg3MEE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -20,7 +72,7 @@
       "id": "58dd8af326c9",
       "title": "당뇨병콩팥병 환자 신장 섬유화 반영 ‘혈액 단백질’ 신호 발굴",
       "published": "2026-11-13T04:33:03+00:00",
-      "summary": "당뇨병콩팥병 환자 신장 섬유화 반영 ‘혈액 단백질’ 신호 발굴&nbsp;&nbsp;재활뉴스당뇨병콩팥병, 혈액 속 단백질서 신장 손상 예측 단서&nbsp;&nbsp;쿠키메디당뇨병콩팥병 신장 섬유화 반영하는 혈액 단백질 신호 발견&nbsp;&nbsp;메디칼트리뷴말기콩팥병 위험 8배 높았던 환자들…혈액 속 공통 신호 찾았다&nbsp;&nbsp;간호사신문당뇨콩팥병 신장 섬유화 반영 혈액 단백질 신호 발굴돼&nbsp;&nbsp;메디칼업저버",
+      "summary": "당뇨병콩팥병 환자 신장 섬유화 반영 ‘혈액 단백질’ 신호 발굴&nbsp;&nbsp;재활뉴스서울대병원·하버드대, 당뇨병콩팥병 신장 섬유화 혈액 신호 발굴 By EBN&nbsp;&nbsp;Investing.com 한국어당뇨병콩팥병, 혈액 속 단백질서 신장 손상 예측 단서&nbsp;&nbsp;쿠키뉴스말기콩팥병 위험 8배 높았던 환자들…혈액 속 공통 신호 찾았다&nbsp;&nbsp;간호사신문당뇨병콩팥병 신장 섬유화, 혈액 단백질로 평가&nbsp;&nbsp;메디칼트리뷴",
       "sources": [
         {
           "name": "재활뉴스",
@@ -30,14 +82,14 @@
       "matched_keywords": []
     },
     {
-      "id": "cb0cde850dce",
-      "title": "’학폭·왕따’ 사회적 패배 스트레스…“청소년 뇌에 더 민감 반응“",
-      "published": "2026-11-13T04:26:00+00:00",
-      "summary": "’학폭·왕따’ 사회적 패배 스트레스…“청소년 뇌에 더 민감 반응“&nbsp;&nbsp;연합뉴스TV사회적 스트레스, 청소년기 뇌가 더 민감하게 반응한다&nbsp;&nbsp;연합뉴스\"10대 뇌는 더 '예민'했다\"....반복된 괴롭힘, 청소년 뇌 편도체·해마 신호 26~28% 증가 [헬스체크]&nbsp;&nbsp;파이낸셜뉴스학교폭력·따돌림 겪은 청소년, 뇌 속 스트레스 반응도 달랐다&nbsp;&nbsp;현대건강신문“사회적 스트레스 반응, 청소년·성인기 뇌 신경계 작용 달라”&nbsp;&nbsp;라포르시안",
+      "id": "b94683bb59bf",
+      "title": "건국대 김양미 교수팀, 두 종류의 슈퍼박테리아 동시 공격하는 ‘듀얼 타겟’ 항생제 후보물질 개발",
+      "published": "2026-11-13T04:31:40+00:00",
+      "summary": "건국대 김양미 교수팀, 두 종류의 슈퍼박테리아 동시 공격하는 ‘듀얼 타겟’ 항생제 후보물질 개발&nbsp;&nbsp;뉴스와이어Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zLUxvR0xXazFZeGRaMGZEUHVqazdmdVNNWk81VFE1ZmNHcFBFa0Y3d3NFbFRYdGpBbWlyRFRfN2d4MlhCUF9zNTZERllCVUw0M2lPT1JGMXB2TVZIRV9sNTItZzNYSnc?oc=5"
+          "name": "뉴스와이어",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5WXdRdjRZSWtIV3B0X21zT29JZTVOYTFNUHVHaW9zYlAzMDZRSWpXcmE4QjIwTzdxV0Y4emdHY25hR3RPeEp2aWdocGpkYzgwOEt4dmJmUGdJcjZJdlRN?oc=5"
         }
       ],
       "matched_keywords": []
@@ -56,19 +108,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f26c95b9ec72",
-      "title": "\"고지방 식단, 장 줄기세포 변화로 종양 촉진\" - YTN 사이언스",
-      "published": "2026-11-13T02:05:40+00:00",
-      "summary": "\"고지방 식단, 장 줄기세포 변화로 종양 촉진\"&nbsp;&nbsp;YTN 사이언스[건강포커스] \"고지방 식단, 장 줄기세포에 흔적 남겨 종양 성장 촉진할 수도\"&nbsp;&nbsp;매일경제 마켓생쥐 실험서 드러난 고지방 식단의 장 줄기세포 기억 : 건강&nbsp;&nbsp;재경일보고지방 식단, 정상화해도 장 줄기세포에 흔적 남아 종양 촉진 : 최신논문&nbsp;&nbsp;의약일보고지방 식단, 장 줄기세포 흔적 남아…종양 촉진 : 기업·산업&nbsp;&nbsp;재경일보",
-      "sources": [
-        {
-          "name": "YTN 사이언스",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakZKdjlqNWNXWnlyZTU0YkFBTll2YUZoT0hEQW9pRXdhYUZpQWxrbm1xNWdEQllHZFo2Q09HSVJsR0F4c1ZHV25Ha2NzQVptUTBrbzFtQ1pWVmZ3SkZBeFJ3U1ZRUHNpN2VKR01jOHZVd2dGcENRclhmZGV0cXI2cG81OW51UWV3T2dBSw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "dcf55064de0d",
       "title": "근육량 적으면 알츠하이머형 치매 발생 위험 높다",
       "published": "2026-11-13T01:39:44+00:00",
@@ -77,32 +116,6 @@
         {
           "name": "의협신문",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KLVNRSE5WRTJ1SHpvMlljRnFrMTlOUHdkbExERF9rWlVZY2ljVXA5cUdteS01UmJWcV9Qa1R3clNpYmtpNHNOOU5DOXRIOTJjVW1CSzVnbktUZGg5X0lpU0pRUVp6a1hHWVBQVzFCMjhfUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "643cee8b74b7",
-      "title": "“콩 식품, 혈당 조절 및 당뇨병 위험 감소에 도움”",
-      "published": "2026-11-13T01:13:00+00:00",
-      "summary": "“콩 식품, 혈당 조절 및 당뇨병 위험 감소에 도움”&nbsp;&nbsp;현대건강신문“당뇨병 위험 11% 줄었다”… 6개월간 땅콩 먹으니 벌어진 일&nbsp;&nbsp;헬스조선‘세계 당뇨병의 날’ 맞아 주목받는 콩…“이소플라본 섭취 시 발병 위험 20% 감소”&nbsp;&nbsp;식품음료신문“밥 지을 때 ‘이 콩’ 한 줌 섞었더니?”…중년 혈당, 콜레스테롤에 변화가?&nbsp;&nbsp;코메디닷컴콩과 콩류가 신장 질환에 예상치 못한 효능을 나타낸다는 사실이 발견되었습니다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QcmVoYzcwX2RHMFNscmwxYXA1VmNpU2FJZ05KQVRvd2V6U1kzcHd5X1JiYVkyUTMzaDVBNl9sWGM3M2xhTW9pYUFRRTR1T1Y5ek5wd2hn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6b156e3dd5f2",
-      "title": "겨울철 감기인 줄 알았는데 폐렴…고령층 생명 위협",
-      "published": "2026-11-13T00:53:00+00:00",
-      "summary": "겨울철 감기인 줄 알았는데 폐렴…고령층 생명 위협&nbsp;&nbsp;현대건강신문국내 사망원인 3위 폐렴··· 위험 줄일 수 있는 방법은&nbsp;&nbsp;경향신문“감기겠지 넘겼다간”…고령층 목숨 앗는 ‘이 질환’&nbsp;&nbsp;동아일보\"몸살인가 봐\" 갑자기 기운 없고 식욕 '뚝'…방치하면 폐 망가진다 - 머니투데이&nbsp;&nbsp;머니투데이\"부모님이 갑자기 밥을 안 드신다면?\"...기운 없는 줄 알았는데 '폐렴' [헬스톡]&nbsp;&nbsp;파이낸셜뉴스",
-      "sources": [
-        {
-          "name": "현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xRDA4QTd1VktpRHRsaGtjTHRuWXd6MVBiTWFCSnlzSWpGVUQtc0tGZ3dZYmFESXBlbDU2NksyZVpvQUc5YUd1X1JTcUxJczQyQ2c5WERB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -124,7 +137,7 @@
       "id": "8afd00fb9e44",
       "title": "뇌세포 2550만개 분석…조현병·파킨슨병 치료 새 단서",
       "published": "2026-11-12T23:10:44+00:00",
-      "summary": "뇌세포 2550만개 분석…조현병·파킨슨병 치료 새 단서&nbsp;&nbsp;한국경제인간 게놈지도 다음은 ‘뇌 지도’…세계 55개 연구기관 뭉쳤다&nbsp;&nbsp;조선일보뇌 조직부터 세포 데이터까지 한눈에…美 연구진, ‘디지털 트윈’ 플랫폼 개발&nbsp;&nbsp;www.hdnews.co.kr인간 '뇌 기저핵' 지도 구축…파킨슨병 치료제 실마리&nbsp;&nbsp;DongA Science",
+      "summary": "뇌세포 2550만개 분석…조현병·파킨슨병 치료 새 단서&nbsp;&nbsp;한국경제인간 게놈지도 다음은 ‘뇌 지도’…세계 55개 연구기관 뭉쳤다&nbsp;&nbsp;조선일보노화에 따라 뇌 선조체의 세포 구역 경계 흐려진다&nbsp;&nbsp;메디컬투데이뇌질환 단서 찾을 2550만개 뇌세포 지도…움직임·습관의 ‘기저핵’ 들여다봤다&nbsp;&nbsp;데일리환경인간 뇌세포 800만 개 분석…뇌 심부 조직의 정밀 분자 지도 구축&nbsp;&nbsp;메디컬투데이",
       "sources": [
         {
           "name": "한국경제",
@@ -134,40 +147,27 @@
       "matched_keywords": []
     },
     {
-      "id": "0e07ccc3fc7b",
-      "title": "BMI 보완한 새 진단기준…비만 분류·사망위험 평가 개선 - DongA Science",
-      "published": "2026-11-12T22:31:00+00:00",
-      "summary": "BMI 보완한 새 진단기준…비만 분류·사망위험 평가 개선&nbsp;&nbsp;DongA Science비만 진단 기준 BMI에 허리둘레 반영했더니… 체지방 비만인 확 늘어&nbsp;&nbsp;동아일보건강 위험 신호 놓치는 ‘체질량지수’…비만 진단 새 방법 나올까&nbsp;&nbsp;한겨레\"키·몸무게만으론 못 가린다\" 200년 된 BMI, 비만 환자 최대 8.6%를 놓쳤다&nbsp;&nbsp;조선일보BMI로만 진단하면 8.6% 놓친다…`사망 위험` 더 잘 잡는 새 비만 기준 [매일비타민]&nbsp;&nbsp;매일신문",
+      "id": "c6ab66a28c60",
+      "title": "한국로슈진단, 자궁경부암 정기 검진·예방 중요성 알리는 인포그래픽 공개",
+      "published": "2026-11-12T20:05:00+00:00",
+      "summary": "한국로슈진단, 자궁경부암 정기 검진·예방 중요성 알리는 인포그래픽 공개&nbsp;&nbsp;미디어데일20대 자궁경부암 검진 수검률 40.8%…한국로슈진단, 예방 인포그래픽 공개&nbsp;&nbsp;안티에이징뉴스산부인과 검사 다 받을 필요 없다…나이·증상 따라 달라지는 검진&nbsp;&nbsp;뉴시스자궁경부암 검사, HPV 백신 맞았어도 정기적으로 받아야… 검진 주기 및 대상은? [임선민 원장 칼럼]&nbsp;&nbsp;미디어파인한국로슈진단, 자궁경부암 검진·예방 정보 담은 인포그래픽 공개&nbsp;&nbsp;팜뉴스",
       "sources": [
         {
-          "name": "DongA Science",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5peDQ3RTNQS0JQb0FSdE8tSUV6b2JTcDgxMFNlSjdtZVUzWTVZYkFQd3FOWU8xUWtLekh1OWduczA1NzdtcWJhQzBIdnNIeFFfRGNfRQ?oc=5"
+          "name": "미디어데일",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyMEVrUDNhSFpiMXp1SG10cWZiTUdaZDZpUXE5RFI1czRqUjRPOHAzQkc5Y2xNX0hnUzdPX1RPMkRndFVBak9pTDBTcHNlM0FYbF96dy1lcXZtdXZiMUwxdlRiVlJ5N05WOHNJ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "de2c1fb638f4",
-      "title": "“항응고제 먹어도 뇌졸중 발생했다면?”… 스타틴 처방군, 사망 위험 45% 낮아",
-      "published": "2026-11-12T22:00:00+00:00",
-      "summary": "“항응고제 먹어도 뇌졸중 발생했다면?”… 스타틴 처방군, 사망 위험 45% 낮아&nbsp;&nbsp;하이닥",
+      "id": "6c29d290bf20",
+      "title": "[건강포커스] \"고지방 식단, 장 줄기세포에 흔적 남겨 종양 성장 촉진할 수도\"",
+      "published": "2026-11-12T20:00:00+00:00",
+      "summary": "[건강포커스] \"고지방 식단, 장 줄기세포에 흔적 남겨 종양 성장 촉진할 수도\"&nbsp;&nbsp;연합뉴스Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wMlJOMllJMUNkTFlzYmxXLXcwSlVMOGUxSG42VV94TUdsVWZFdXU3MEJZVy10YVRGVXU4cTdHSnVPNjd1d2pkQWdfUDJXRC00bXVlTEs1X3I3NDQ5Zm00c1piTktFSlVob2c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0e7a301a802f",
-      "title": "코로나19 백신 접종 후 암 발생 증가 없었다",
-      "published": "2026-11-12T20:57:00+00:00",
-      "summary": "코로나19 백신 접종 후 암 발생 증가 없었다&nbsp;&nbsp;의약뉴스",
-      "sources": [
-        {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50TkVzazBPU2lMTUhEODkwRU14SG1aTEgzcy0wUmhkU2xlZ1F3VklUS1Q1T0xGcnk0NlBnRXNwb1JVdmR3NUNIQnl2cl9qN0RQVFdYRXlEMTluVmVCSXowcVBONU94dmM?oc=5"
+          "name": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01YUVURGFUQ1d1NzNVSGpweTA2d2MzUmY5TUJNSGV3akZrWXBwLWVrcGY5N0cwU3lGMFBoZzIxYmw3UzVFNVk3ejJmUFVCcWw0ZzhwRmQwdXE0OEXSAWBBVV95cUxNWkJuUEVBVkZrdVRBalZCNV9Qb2laOV9wbG9PRDJHXzI1SmRqdkYwa2Z2SU1CTnRYaHlBQUFWY1daMDU0c0MydXdkQTFqeHlwV2ZKbl9fd2JiWVpIQnNuYWo?oc=5"
         }
       ],
       "matched_keywords": []
@@ -202,7 +202,7 @@
       "id": "15091a717c05",
       "title": "“12kg 빠지고 기억상실까지” 황철순, ‘쯔쯔가무시’ 얼마나 위험하길래?",
       "published": "2026-11-12T08:15:00+00:00",
-      "summary": "“12kg 빠지고 기억상실까지” 황철순, ‘쯔쯔가무시’ 얼마나 위험하길래?&nbsp;&nbsp;코메디닷컴\"12㎏ 빠지고 기억상실\"…'징맨' 황철순, 쯔쯔가무시증 걸렸다 - 머니투데이&nbsp;&nbsp;머니투데이황철순, 쯔쯔가무시 이어 뇌수막염까지 \"나 은퇴시킬 음모\"&nbsp;&nbsp;뉴시스'징맨' 황철순, '살인 진드기' 감염 충격..\"기억상실·뇌수막염 입원…12kg 빠져\" [전문]&nbsp;&nbsp;Chosunbiz“기억상실에 골반 뼈조각 뗐다”…‘징맨’ 황철순, 뇌수막염 일으킨 ‘진드기’ 뭐길래 [라이프]&nbsp;&nbsp;서울신문",
+      "summary": "“12kg 빠지고 기억상실까지” 황철순, ‘쯔쯔가무시’ 얼마나 위험하길래?&nbsp;&nbsp;코메디닷컴\"12㎏ 빠지고 기억상실\"…'징맨' 황철순, 쯔쯔가무시증 걸렸다 - 머니투데이&nbsp;&nbsp;머니투데이'징맨' 황철순, '살인 진드기' 감염 충격..\"기억상실·뇌수막염 입원…12kg 빠져\" [전문]&nbsp;&nbsp;Chosunbiz“기억상실에 골반 뼈조각 뗐다”…‘징맨’ 황철순, 뇌수막염 일으킨 ‘진드기’ 뭐길래 [라이프]&nbsp;&nbsp;서울신문‘징맨’ 황철순, 쯔쯔가무시 감염…“기억상실·뇌수막염”&nbsp;&nbsp;헤럴드경제",
       "sources": [
         {
           "name": "코메디닷컴",
@@ -220,19 +220,6 @@
         {
           "name": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaXdtT3ppUzdNSi0tbGRWaWc5LUwxa0ZrU3dKaFQweGRRTWM0cDBGbTRiaGxpX2x6cFd5eW1QeFJWaVdmdDUyTlVwaXhSRkFDa1dGN0I1VE1qSGxFNjQtV0ZCVjlhT0E0a3dZMk0wQnh6UVM4VEgweV9pQlpTeUFPTk53RQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f42108a0c2e2",
-      "title": "한국로슈진단, 예방·조기진단 지원…20대 자궁경부암 검진율 불과 40.8%",
-      "published": "2026-11-12T05:37:49+00:00",
-      "summary": "한국로슈진단, 예방·조기진단 지원…20대 자궁경부암 검진율 불과 40.8%&nbsp;&nbsp;서울경제TV20대 자궁경부암 검진 수검률 40.8%…한국로슈진단, 예방 인포그래픽 공개&nbsp;&nbsp;안티에이징뉴스한국로슈진단, 20-30대 여성 대상 HPV DNA 검사 캠페인 2024년부터 진행&nbsp;&nbsp;스페셜타임스산부인과 검사 다 받을 필요 없다…나이·증상 따라 달라지는 검진&nbsp;&nbsp;뉴시스자궁경부암 검사, HPV 백신 맞았어도 정기적으로 받아야… 검진 주기 및 대상은? [임선민 원장 칼럼]&nbsp;&nbsp;미디어파인",
-      "sources": [
-        {
-          "name": "서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xMFZ5RjFNT1VLaF8ySjYyTmxSdFVfZWg1MjV2U0FJNnIwczV2VzhSYU1td0hhZTNXN1h0YlJNTUtXTHFMMGstUVZ5QjB1RkNaUmg5Z0JwMzdDYTBQNDQ3eGJjSTM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -264,14 +251,14 @@
       "matched_keywords": []
     },
     {
-      "id": "8e238191fe2a",
-      "title": "[칼럼] 감기인 줄 알았던 기침, 밤마다 반복된다면 천식 의심해야",
-      "published": "2026-11-12T00:46:49+00:00",
-      "summary": "[칼럼] 감기인 줄 알았던 기침, 밤마다 반복된다면 천식 의심해야&nbsp;&nbsp;메드월드뉴스\"큰 일교차에 유의\"…기침·가래 잦다면 '이것' 의심&nbsp;&nbsp;뉴시스\"밤 기침 얕보지 마세요\"...감기와 천식, 기침으로 구별할 수 있을까 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스치료도 예방도 비용 장벽…국회로 간 '노인 호흡권'&nbsp;&nbsp;메디파나뉴스[건강톡톡] 초겨울, 소리 없는 폐질환 ‘COPD’ 주의해야&nbsp;&nbsp;간호사신문",
+      "id": "f1191e3a975c",
+      "title": "\"밤 기침 얕보지 마세요\"...감기와 천식, 기침으로 구별할 수 있을까 [헬스톡]",
+      "published": "2026-11-12T00:17:24+00:00",
+      "summary": "\"밤 기침 얕보지 마세요\"...감기와 천식, 기침으로 구별할 수 있을까 [헬스톡]&nbsp;&nbsp;파이낸셜뉴스치료도 예방도 비용 장벽…국회로 간 '노인 호흡권'&nbsp;&nbsp;메디파나뉴스[건강톡톡] 초겨울, 소리 없는 폐질환 ‘COPD’ 주의해야&nbsp;&nbsp;간호사신문감기인 줄 알았던 마른기침, 밤·새벽에 심해지면 천식을 의심해봐야&nbsp;&nbsp;이데일리찬바람 불자 기침·가래에 숨참까지…오래 지속되면 COPD 의심&nbsp;&nbsp;안티에이징뉴스",
       "sources": [
         {
-          "name": "메드월드뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tUDlCUU9JVk9YZldtS09zdTBhWTlzVlBhNDlkQVVtQWFKYkZGTjhxdXd3QUhuVkY2V2I1dXc2M3FZQ2VfeUhtSG9nR3c2d3kyYndWVEl0bXlzRXdWcHRaT0tBWkM3WVF1MU9XZUdB?oc=5"
+          "name": "파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QVnZfRDFHZVhUSVhWNzJyUG5WRU14Rlphc09RSGJGMXp1elRnUEswN1QtQkxlelZwWG5vX0oxZHAtSkt3UktZOUhieXFVZ25pOV9NZ3Q0RUxrUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -306,7 +293,7 @@
       "id": "0a11434f5645",
       "title": "뼈 파괴 세포 억제 '단백질' 규명...골다공증 치료 단서",
       "published": "2026-11-11T18:49:00+00:00",
-      "summary": "뼈 파괴 세포 억제 '단백질' 규명...골다공증 치료 단서&nbsp;&nbsp;YTNGoogle 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "뼈 파괴 세포 억제 '단백질' 규명...골다공증 치료 단서&nbsp;&nbsp;YTN뼈 파괴를 막는 ‘분자 브레이크’ PHF2 발견, 골다공증 치료의 새로운 표적 제시&nbsp;&nbsp;BRIC폐경 후 뼈가 약해지는 이유…골다공증 막는 단백질 작용 원리 규명&nbsp;&nbsp;간호사신문",
       "sources": [
         {
           "name": "YTN",
@@ -316,40 +303,14 @@
       "matched_keywords": []
     },
     {
-      "id": "a87a21514b29",
-      "title": "“대장암 생긴다”… 가공식품 살 때, ‘트랜스지방’ 함량 꼭 따져라",
-      "published": "2026-11-11T17:30:00+00:00",
-      "summary": "“대장암 생긴다”… 가공식품 살 때, ‘트랜스지방’ 함량 꼭 따져라&nbsp;&nbsp;헬스조선“美, 21세 이하 대장암 환자 80% 이미 3~4기”… 가장 흔한 증상은?&nbsp;&nbsp;하이닥젊어지는 대장암, 검진부터 수술 후 회복 관리까지 이어져야 [방선휘 원장 칼럼]&nbsp;&nbsp;미디어파인청년층 대장암 발병률 증가, 건강한 식습관과 조기 진단이 해법&nbsp;&nbsp;국민대학교‘젊은 대장암’ 환자가 진단 전 겪은 가장 흔한 증상… “복부·허리 통증”&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vZl9nV1E1djluMU56Qi1Ta0ZQRzQ0bVVUaW9vRVZMOWJfMWJ5VW5VNlowYWFsOVh3NmxvQlZ2WXduZUdRcXJ4LTNoMjE2Nnc2V3J1YmUwVEl2dWUwcEYtN1Fvc2F4eGM1Tk1VS3E4QjdHRUJ1ck5CZmZRVjkzdnM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "46b50194b91d",
       "title": "감가독감, 추운 날씨보다 바이러스 감염이 원인…매년 독감 예방접종·충분한 휴식 중요",
       "published": "2026-11-11T15:04:52+00:00",
-      "summary": "감가독감, 추운 날씨보다 바이러스 감염이 원인…매년 독감 예방접종·충분한 휴식 중요&nbsp;&nbsp;뉴스비전e[11.11.보도설명자료] 인플루엔자 국가예방접종은 정상 진행중이며, 민간시장 백신공급도 지원하고 있습니다.&nbsp;&nbsp;대한민국 정책브리핑\"일반백신으론 고령층 한계\"…'차세대' 도입하나&nbsp;&nbsp;뉴시스독감 백신 공급 우려에…\"의료기관 82.7% 잔여 물량\"&nbsp;&nbsp;뉴스1\"한 번에 평생, 때에 따라 재접종\"..면역 주기 따라 달라&nbsp;&nbsp;파이낸셜뉴스",
+      "summary": "감가독감, 추운 날씨보다 바이러스 감염이 원인…매년 독감 예방접종·충분한 휴식 중요&nbsp;&nbsp;뉴스비전e[11.11.보도설명자료] 인플루엔자 국가예방접종은 정상 진행중이며, 민간시장 백신공급도 지원하고 있습니다.&nbsp;&nbsp;대한민국 정책브리핑\"일반백신으론 고령층 한계\"…'차세대' 도입하나&nbsp;&nbsp;뉴시스\"독감백신 여기도 없어요?\"...8개월 아기 데리고 발동동 - 머니투데이&nbsp;&nbsp;머니투데이\"한 번에 평생, 때에 따라 재접종\"..면역 주기 따라 달라&nbsp;&nbsp;파이낸셜뉴스",
       "sources": [
         {
           "name": "뉴스비전e",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VmlIZHdwd29xR1NDTjNBTzFjQk02b2EyR1VYakpiZ0J4Yks3bWlsTVV5QkRGalQ0VVZRSEE4NS1saE9KSVRSR1B3UUF3eUtnUGZxZ1I3QXlyaWVRVmk1bmR6aUhvQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0fbd0ec4268f",
-      "title": "탈모 치료 ‘전기 빗’ 나왔다…동물실험서 발모 효과 확인 [건강팩트체크]",
-      "published": "2026-11-11T08:09:00+00:00",
-      "summary": "탈모 치료 ‘전기 빗’ 나왔다…동물실험서 발모 효과 확인 [건강팩트체크]&nbsp;&nbsp;동아일보\"미녹시딜보다 효과 좋아\"…빗질만으로 탈모 해결 빗 등장&nbsp;&nbsp;지디넷코리아탈모를 겪고 있는 사람들에게 좋은 소식입니다.&nbsp;&nbsp;Vietnam.vn머리 빗었더니 탈모 부위 털이 다시 자랐다…중국 연구진, 전기 빗 개발&nbsp;&nbsp;ABC뉴스머리만 빗어도 탈모 모발 재생... 생체전자 빗 ‘디탱글’ 등장&nbsp;&nbsp;인사이트",
-      "sources": [
-        {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmMXhTWkx4anRWeGV4UnZadWF4UV90YW81ZWp3SWtqaUREeHhTdUtlbDE5dzJpeXI1R0hzVFRmNXczYldqV3ZKZ1ZWYlJKYXJYTzJVN3M4M0dRUG50R3RMdGpwOFBkUW9ZZlZoTXdDWdIBZkFVX3lxTE5FUUxST0tYS1g0X0hWZTdUWXczb0JQbERIQWxwU2FyRzJ4OXNSODY1SjRXNXR3MjZYRkpLUk9lc2kybnR6SlVJdDh0OUdJSjVSRXk5VDExMlZWcDgyTjczdEl2eko1QQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -420,27 +381,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2d1a54391861",
-      "title": "풍진 바이러스 감염시 '입구' 발견",
-      "published": "2026-11-10T21:00:00+00:00",
-      "summary": "풍진 바이러스 감염시 '입구' 발견&nbsp;&nbsp;의학신문",
+      "id": "e90140b7ef01",
+      "title": "자꾸 깜빡깜빡하는 부모님… 뇌세포 건강과 혈액순환 함께 챙겨야",
+      "published": "2026-11-10T19:30:00+00:00",
+      "summary": "자꾸 깜빡깜빡하는 부모님… 뇌세포 건강과 혈액순환 함께 챙겨야&nbsp;&nbsp;동아일보“55세 넘으면 이 검사 꼭 해라”…치매 명의, 독하게 끊은 음식&nbsp;&nbsp;미주중앙일보치매 위험 낮추는 '뇌 영양' 음식 5가지&nbsp;&nbsp;하이뉴스환갑 앞둔 의사가 공개한 치매 예방 위해 실제로 먹는 영양제 (영상)&nbsp;&nbsp;인사이트“22만 명 식습관 분석했더니”… 치매 위험 18% 낮춘 ‘이 채소’&nbsp;&nbsp;밴쿠버 조선일보",
       "sources": [
         {
-          "name": "의학신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GR21VSWw1RFpfbU13THRHNkp3WDBaNFQzeWY3aUFienR6ZFozV3dSb0NCMG11aWMyQU1RYldneU9TdHNpb0plQmVxODNPNW9nOVh1ZGJVYmhNUVRQQkh3b1RvQUN3UGdvc3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "db1389581d9d",
-      "title": "장정훈 대구가톨릭대 교수, 종양 속 미생물과 항암 면역 관계 밝혔다",
-      "published": "2026-11-10T10:26:26+00:00",
-      "summary": "장정훈 대구가톨릭대 교수, 종양 속 미생물과 항암 면역 관계 밝혔다&nbsp;&nbsp;경북일보\"암 조직 속 미생물이 항암치료 효과 좌우\" 대구가톨릭대 연구팀 작용 원리 규명&nbsp;&nbsp;매일신문대구가톨릭대 장정훈 교수 면역항암제 효과 조절하는 '종양 내 미생물' 기전 규명&nbsp;&nbsp;베리타스알파대구가톨릭대 장정훈 교수팀, 종양 내 미생물 양이 항암 면역반응 조절 기전 규명&nbsp;&nbsp;한국대학신문대구가톨릭대 장정훈 교수, 종양 속 미생물·면역항암제 치료 효과 연관성 밝혀&nbsp;&nbsp;경북신문",
-      "sources": [
-        {
-          "name": "경북일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWNXQ5UjdSSlNGUlNQYkVHd2JyQUU3bXlzWFNUMDQ1SGgybko3cUVERmZjdnE1N1o5ejA5TU5wUWtMdTBPcUh0WFNMc2NjMGlSTHZ2YkdfQnJJWFlQa01pUTQ5RFI5OVM4b2Fsa09BRQ?oc=5"
+          "name": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnWHdMUFZ2c2lBTXRHdy1sc0lHMFhaSjVYaHRqYU5LZjFfd2FKRUJyRHlUTUtPeXE2LVVmQ3BLVmhIRzNVYUlaenVYVXdtU2RLb1FEVkY2amNuRDNHU2JWM0xONnlFTTFmYi1YcGFoNNIBZkFVX3lxTE1mUDhuOUctTzMzcnVKeVA0WVpzTzl5VDU0RHJrQko2V1BTU0hkTGJLbnNGSWFDOXhXU2JOUWV3aXhIZE54ZWZCd1RXWFZDdWZHVHZIcUtoYlFHRkw5VlY0MmdnTTJfQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -454,45 +402,6 @@
         {
           "name": "한겨레",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSLWplaDVsQmRTcHY4b2hjZTR5NFpKaERROEZIV3RrZ29rZ1Q4MVFTYW9scHZZRTczaGVBLW9EQzNQRnVER3ZMMWI0dFZOYVJPMzJKRURETFU5NG1BWlBzSnNURXF0Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "456119a5081a",
-      "title": "“식이섬유 안 먹으면 장내세균이 내 장벽을 갉아먹는다?”…장 건강 지키는 식탁의 비밀",
-      "published": "2026-11-10T02:57:58+00:00",
-      "summary": "“식이섬유 안 먹으면 장내세균이 내 장벽을 갉아먹는다?”…장 건강 지키는 식탁의 비밀&nbsp;&nbsp;용인신문“식이섬유, 장 보호막 유지에 도움”&nbsp;&nbsp;VOA 한국어 홈페이지장내 세균, 식이섬유 부족하면 장벽 갉아먹는다?…새 연구의 경고&nbsp;&nbsp;레이디경향“돼지감자로 반찬 만들어 보세요”… 혈당뿐 아니라 ‘무릎 관절통’도 줄어들어요&nbsp;&nbsp;헬스조선",
-      "sources": [
-        {
-          "name": "용인신문",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rS3dlODhad0RNSEpWdWtFM056OFdnTTF0bURDQm9qWEFKYzBvWTNodnpoNmlmSGlqc05tSzhDZmtOLVBvbzBfUjFYenlTaUxDOWkzYlJOY1hGbldwcXJLM2JGTlY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "20c27b35f042",
-      "title": "[건강 이야기] 젊은 나이에도 찾아오는 초로기 치매",
-      "published": "2026-11-09T10:29:59+00:00",
-      "summary": "[건강 이야기] 젊은 나이에도 찾아오는 초로기 치매&nbsp;&nbsp;제민일보",
-      "sources": [
-        {
-          "name": "제민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKTzUtZnYxQy1pSmZIMVo0a3NlWmI4VkVITXZkS094clJZRmpXSHB2ck5uY3JNUlRyVElrSzVpTkg3UHZySV90dEh0YUk4UVVVVHdETmlZOFNrWWd2Vkk2SC1VZ1NabDQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f4747a4e4a29",
-      "title": "삼성서울병원 조양현 교수 좌심실보조장치(LVAD) 삽입 후에도 부정맥 관리 중요...웨어러블 모니터링 검증 중 - MEDI:GATE NEWS",
-      "published": "2026-11-09T08:00:00+00:00",
-      "summary": "삼성서울병원 조양현 교수 좌심실보조장치(LVAD) 삽입 후에도 부정맥 관리 중요...웨어러블 모니터링 검증 중&nbsp;&nbsp;MEDI:GATE NEWS",
-      "sources": [
-        {
-          "name": "MEDI:GATE NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1V3NhaEFXMmRfTWszS1g4NVRGcHRTU0FNa0pTT3lXZUVVSGJuaEdJU1RUM1NxbE9PWmpGMC1NYWEtR3FqYmRSUnRtajY0bEFUdGIwYg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -550,40 +459,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b9d89e87afa4",
-      "title": "“치매 독성 단백질, 뭉치기 전 막고 이미 생긴 덩어리도 무력화”... KAIST, 알츠하이머 새 치료 원리 규명",
-      "published": "2026-11-07T08:46:00+00:00",
-      "summary": "“치매 독성 단백질, 뭉치기 전 막고 이미 생긴 덩어리도 무력화”... KAIST, 알츠하이머 새 치료 원리 규명&nbsp;&nbsp;특허뉴스치매에 걸리지 않는 '슈퍼 에이저'의 유전자 비밀&nbsp;&nbsp;DongA Science기억력은 멀쩡해도… ‘치매 단백질’ 쌓인다&nbsp;&nbsp;동아비즈니스리뷰검진센터에서 추천한 ‘치매 혈액검사’, 받을까? 말까?&nbsp;&nbsp;헬스조선카롤린스카연구소 치오티스 연구팀, 조기 알츠하이머병 타우 축적 비교&nbsp;&nbsp;메디포뉴스",
-      "sources": [
-        {
-          "name": "특허뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40SmNHZ05WdXhPSDZSSlIteVh4cFc0eGpYSUlXcjlMWTJHWjA4MVRQeHd5alZHQnRSN1RnUzMwNGVad0pTZVFucg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d1193a903537",
       "title": "'장관이 백신 불신' 미국 홍역 확진 35년만에 최고",
       "published": "2026-11-07T05:19:51+00:00",
-      "summary": "'장관이 백신 불신' 미국 홍역 확진 35년만에 최고&nbsp;&nbsp;마켓인'방역 선진국' 미국의 대굴욕…비상사태 수준 [지금이뉴스]&nbsp;&nbsp;YTN美, 홍역 퇴치 26년 만에 다시 풍토병으로…청정국 지위 잃을 듯&nbsp;&nbsp;연합뉴스올해만 5000명 넘게 걸리더니 “35년 만에 최악”…미국 덮친 ‘이 전염병’ 뭐길래&nbsp;&nbsp;서울경제미국은 홍역, 쿠바엔 뎅기열… 북중미 감염병 기승, 트럼프 탓?&nbsp;&nbsp;한국일보",
+      "summary": "'장관이 백신 불신' 미국 홍역 확진 35년만에 최고&nbsp;&nbsp;마켓인美, 홍역 퇴치 26년 만에 다시 풍토병으로…청정국 지위 잃을 듯&nbsp;&nbsp;연합뉴스올해만 5000명 넘게 걸리더니 “35년 만에 최악”…미국 덮친 ‘이 전염병’ 뭐길래&nbsp;&nbsp;서울경제미국은 홍역, 쿠바엔 뎅기열… 북중미 감염병 기승, 트럼프 탓?&nbsp;&nbsp;한국일보거의 2,000명의 아기를 받아냈다. 홍역 유행으로 백신에 대한 생각이 바뀌었다&nbsp;&nbsp;Mezha.net",
       "sources": [
         {
           "name": "마켓인",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBbE5fSmZRZVhabTF2bTd5c3g5emxuenNoMGZsUWotVlFFYUZPVlpzQjQwX3ZvdHVOMHZpQXZZTUxtN21hV05UVlZ4cXV3MDFFazBZTGwxeTlFeGlHMmtzekRnLTFtLVNjTVU4RlVDYnVQbzQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "58a02aeec41b",
-      "title": "GLP-1 계열 약물, 메트포르민 대비 당뇨병 전단계 정상화 가능성 53% 높아",
-      "published": "2026-11-06T20:49:00+00:00",
-      "summary": "GLP-1 계열 약물, 메트포르민 대비 당뇨병 전단계 정상화 가능성 53% 높아&nbsp;&nbsp;약사공론`위고비의 기적` 인슐린보다 암위험 38% 낮았다…단, 조건이 있다? [매일비타민]&nbsp;&nbsp;매일신문[세상 돋보기] GLP-1 주사기와 가짜 ‘건강지능’의 비극&nbsp;&nbsp;지역연합신문위고비 같은 비만치료제는 어떻게 식욕을 억제할까…뇌 속 단서 찾았다&nbsp;&nbsp;간호사신문Ozempic 계열 약물, 심부전과 중독 넘어 노화까지 임상시험 중&nbsp;&nbsp;GeekNews",
-      "sources": [
-        {
-          "name": "약사공론",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PcEFiYTN5allocTFoWWM3VGJneWF4MV9RSjZrVkhSVVpOLWtXdHB3RmRTd212alFFcERMTi0tblBVRjRwSnp1Mk4yT3hidmxZWTRJajVYZ0FKQ3N3Slg2anhtRC1CQmxua1lxWg?oc=5"
         }
       ],
       "matched_keywords": []
