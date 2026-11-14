@@ -8,6 +8,11 @@ description: "KrTxGNN의 L5 후보: 모델 예측만 존재하며 아직 임상 
 
 # 모델 예측만 (L5)
 
+<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
+{% assign pd_m = site.data.drug_stats.level_counts.L5 %}
+이 페이지에는 이 사이트에서 보고서를 공개한 의약품 **{{ site.data.drug_stats.total_drugs }}**개 중 **{{ pd_m }}**개({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%)가 실려 있습니다. 수준 정의: [방법론]({{ '/methodology/' | relative_url }}).
+<!-- page-data:end -->
+
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 모델 예측만 있고 아직 사람 대상 근거가 없는 후보
 </p>
