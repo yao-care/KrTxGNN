@@ -6,7 +6,7 @@ nav_order: 522
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Mitiglinide: 예측 신규 적응증 오프시스모디스플라시아 (Opsismodysplasia) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 정보가 문서 링크로만 제공되어 구체적 내용을 확인하지 못했습니다)"
+description: "Mitiglinide: 예측 신규 적응증 오프시스모디스플라시아 (Opsismodysplasia) (근거 수준 L5). 기존 적응증: 이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1…"
 monitor_inn: "mitiglinide"
 predicted_indications: ["opsismodysplasia"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 희귀 골격 이형성증인 **오프시스모디스플라시�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 정보가 문서 링크로만 제공되어 구체적 내용을 확인하지 못했습니다) |
+| 기존 적응증 | 이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 단독요법 2. 병용요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600049/EE)) |
 | 예측 신규 적응증 | 오프시스모디스플라시아 (Opsismodysplasia) |
 | TxGNN 예측 점수 | 0.9904 |
 | 근거 수준 | L5 |

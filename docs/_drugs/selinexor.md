@@ -6,7 +6,7 @@ nav_order: 687
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Selinexor: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트 대신 문서 링크만 제공됨)"
+description: "Selinexor: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 1. 이전에 한 가지 이상의 치료를 받은 다발골수종 성인 환자의 치료에 보르테조밉 및 덱사메타손과의…"
 monitor_inn: "SELINEXOR"
 predicted_indications: ["drug-induced osteoporosis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **약물 유발 골다공증(drug-induced osteoporosis)**에 효
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 텍스트 대신 문서 링크만 제공됨) |
+| 기존 적응증 | 1. 이전에 한 가지 이상의 치료를 받은 다발골수종 성인 환자의 치료에 보르테조밉 및 덱사메타손과의 병용요법 2. 이전에 네 가지의 치료 요법에서 적어도 두 가지 프로테아좀 억제제, 적어도 두 가지 면역조절 이미드 치료제 그리고 적어도 한 가지의 anti-CD38 항체 치료를 받은… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105598/EE)) |
 | 예측 신규 적응증 | 약물 유발 골다공증 (drug-induced osteoporosis) |
 | TxGNN 예측 점수 | 0.9922 |
 | 근거 수준 | L5 |

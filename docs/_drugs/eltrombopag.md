@@ -6,7 +6,7 @@ nav_order: 303
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Eltrombopag: 예측 신규 적응증 HIV 감염 질환 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가 문서 링크만 수록되어 있어 확인 불가 (허가사항 참조)"
+description: "Eltrombopag: 예측 신규 적응증 HIV 감염 질환 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 1. 코르티코스테로이드 또는 면역글로불린 또는 비장절제술에 충분한 반응을 보이지 않은 만성 면역성(특발성)…"
 monitor_inn: "eltrombopag"
 predicted_indications: ["HIV infectious disease"]
 ---
@@ -44,7 +44,7 @@ Eltrombopag은 트롬보포이에틴 수용체(TPO-R) 작용제로, 한국에서
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 대신 허가 문서 링크만 수록되어 있어 확인 불가 (허가사항 참조) |
+| 기존 적응증 | 1. 코르티코스테로이드 또는 면역글로불린 또는 비장절제술에 충분한 반응을 보이지 않은 만성 면역성(특발성) 혈소판 감소증 환자에서의 저혈소판증 치료. 이 약은 출혈의 위험이 증가하는 임상적 상태의 저혈소판증을 갖는 환자에서만 사용한다. 혈소판 수를 정상화시키기 위한 목적으로 사용하지… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300820/EE)) |
 | 예측 신규 적응증 | HIV 감염 질환 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L5 (모델 예측 중심. 아래 설명 참조) |

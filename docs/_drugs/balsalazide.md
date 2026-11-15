@@ -6,7 +6,7 @@ nav_order: 123
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Balsalazide: 예측 신규 적응증 통풍 (Gout) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조)"
+description: "Balsalazide: 예측 신규 적응증 통풍 (Gout) (근거 수준 L5). 기존 적응증: 경증~중등증의 활동기 궤양성대장염의 치료 및 관해의 유지"
 monitor_inn: "balsalazide"
 predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular dystrophy", "ankylosing spondylitis", "rheumatoid arthritis", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "anus disease"]
 ---
@@ -44,7 +44,7 @@ Balsalazide는 대장 내 세균에 의해 메살라민(5-ASA)으로 전환되�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 경증~중등증의 활동기 궤양성대장염의 치료 및 관해의 유지 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500130/EE)) |
 | 예측 신규 적응증 | 통풍 (Gout) |
 | TxGNN 예측 점수 | 0.9975 |
 | 근거 수준 | L5 |

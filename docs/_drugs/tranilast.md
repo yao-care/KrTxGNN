@@ -6,7 +6,7 @@ nav_order: 753
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Tranilast: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문 없이 링크만 있음)"
+description: "Tranilast: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L5). 기존 적응증: 1) 기관지천식 예방 2) 알레르기성 비염, 아토피성 피부염 3) 켈로이드.비후성반흔"
 monitor_inn: "Tranilast"
 predicted_indications: ["seborrheic keratosis", "seborrheic dermatitis", "polyp of vocal cord", "polyp of middle ear", "polyp of frontal sinus", "polyp of external auditory canal", "epulis", "fibroepithelial polyp", "polyp of ureter", "polyp of vulva"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **지루각화증(seborrheic keratosis)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증에 적응증 본문 없이 링크만 있음) |
+| 기존 적응증 | 1) 기관지천식 예방 2) 알레르기성 비염, 아토피성 피부염 3) 켈로이드.비후성반흔 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600315/EE)) |
 | 예측 신규 적응증 | 지루각화증 (Seborrheic Keratosis) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

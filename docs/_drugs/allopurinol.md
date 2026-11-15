@@ -6,7 +6,7 @@ nav_order: 42
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Allopurinol: 예측 신규 적응증 간성 포르피린증 (Hepatic Porphyria) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없음"
+description: "Allopurinol: 예측 신규 적응증 간성 포르피린증 (Hepatic Porphyria) (근거 수준 L5). 기존 적응증: (정제) 통풍, 고뇨산혈증, 요산신장병증"
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
 ---
@@ -44,7 +44,7 @@ Allopurinol은 잔틴 산화효소 억제제로, 한국에서 자이로릭정 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없음 |
+| 기존 적응증 | (정제) 통풍, 고뇨산혈증, 요산신장병증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197000050/EE)) |
 | 예측 신규 적응증 | 간성 포르피린증 (Hepatic Porphyria) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 (전임상·기전 수준) |

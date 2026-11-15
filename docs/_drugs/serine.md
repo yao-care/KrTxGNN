@@ -6,7 +6,7 @@ nav_order: 690
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-11-05
-description: "Serine: 예측 신규 적응증 가족성 내장 근병증 (Familial Visceral Myopathy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 문서 링크만 확보되어 적응증 본문 미확인)"
+description: "Serine: 예측 신규 적응증 가족성 내장 근병증 (Familial Visceral Myopathy) (근거 수준 L5). 기존 적응증: 철 결핍성 빈혈의 예방 및 치료"
 monitor_inn: "Serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **가족성 내장 근병증(Familial Visceral Myopathy)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 문서 링크만 확보되어 적응증 본문 미확인) |
+| 기존 적응증 | 철 결핍성 빈혈의 예방 및 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607037/EE)) |
 | 예측 신규 적응증 | 가족성 내장 근병증 (Familial Visceral Myopathy) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

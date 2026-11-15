@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-10-31
-description: "Ezetimibe: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없습니다"
+description: "Ezetimibe: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (근거 수준 L5). 기존 적응증: 원발성 고콜레스테롤혈증 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형) 및 혼합형 고지혈증 환자의…"
 ---
 
 # Ezetimibe
@@ -46,7 +46,7 @@ TxGNN 모델은 **콜레스테롤 에스테르 전달 단백질 결핍증(choles
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 구체적인 적응증 텍스트를 확인할 수 없습니다 |
+| 기존 적응증 | 원발성 고콜레스테롤혈증 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형) 및 혼합형 고지혈증 환자의 상승된 총 콜레스테롤 (total-C), LDL-콜레스테롤(LDL-C), 아포B단백(Apo B) 및 트리글리세라이드(TG)를 감소시키고, HDL-콜레스테롤(HDL-C)을 증가시키기… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601721/EE)) |
 | 예측 신규 적응증 | 콜레스테롤 에스테르 전달 단백질 결핍증 |
 | TxGNN 예측 점수 | 0.9909 |
 | 근거 수준 | L5 |

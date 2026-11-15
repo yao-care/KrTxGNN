@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
-description: "Trastuzumab: 예측 신규 적응증 Malignant cutaneous granular cell skin tumor (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Trastuzumab: 예측 신규 적응증 Malignant cutaneous granular cell skin tumor (근거 수준 L5). 기존 적응증: ◯ 유방암 ∎ 전이성 유방암 HER2(Human Epidermal growth factor Receptor…"
 ---
 
 # Trastuzumab
@@ -45,7 +45,7 @@ Trastuzumab은 HER2를 표적으로 하는 단클론항체로, 원래 HER2 양�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302082/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302083/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707851/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400158/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400159/EE);  |
+| 기존 적응증 | ◯ 유방암 ∎ 전이성 유방암 HER2(Human Epidermal growth factor Receptor 2 protein) 양성 전이성 유방암환자 치료에 다음과 같이 투여한다. 1. 전이성 질환에 대해 1회 또는 그 이상의 화학요법 치료를 받은 적이 있는 환자에게는 단독투여 2… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707851/EE)) |
 | 예측 신규 적응증 | Malignant cutaneous granular cell skin tumor |
 | TxGNN 예측 점수 | 0.9948 |
 | 근거 수준 | L5 |

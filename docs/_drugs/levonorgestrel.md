@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-04
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
-description: "Levonorgestrel: 예측 신규 적응증 여드름 (acne (disease)) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Levonorgestrel: 예측 신규 적응증 여드름 (acne (disease)) (근거 수준 L2). 기존 적응증: 무방비한 성교 또는 피임방법의 실패로 인한 경우, 성교 후 72시간 이내에 즉시 사용하는 긴급피임제"
 ---
 
 # Levonorgestrel
@@ -44,7 +44,7 @@ Levonorgestrel은 합성 프로게스틴 계열 약물로, 한국에서 단일 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200709866/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702435/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802200/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801711/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200700537/EE);  |
+| 기존 적응증 | 무방비한 성교 또는 피임방법의 실패로 인한 경우, 성교 후 72시간 이내에 즉시 사용하는 긴급피임제 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200709866/EE)) |
 | 예측 신규 적응증 | 여드름 (acne (disease)) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L2 |

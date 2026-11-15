@@ -6,7 +6,7 @@ nav_order: 304
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Elvitegravir: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) (근거 수준 L4). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 문구를 확인할 수 없음 (HIV-1 인테그라제 억제제로 알…"
+description: "Elvitegravir: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) (근거 수준 L4). 기존 적응증: 항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 6개월…"
 monitor_inn: "elvitegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **원숭이 면역결핍 바이러스 감염(simian immunodefici
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 문구를 확인할 수 없음 (HIV-1 인테그라제 억제제로 알려져 있음) |
+| 기존 적응증 | 항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 6개월 이상의 안정된 바이러스 수치 억제 효과를 보이며(HIV-1 RNA < 50 copies/mL), 이 약의 개별 성분에 대한 알려진 내성 관련 치환이 없는 성인, 청소년(만 12세… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605531/EE)) |
 | 예측 신규 적응증 | 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L4 (전임상 및 기전 연구) |

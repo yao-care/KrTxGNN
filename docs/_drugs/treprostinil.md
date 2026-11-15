@@ -6,7 +6,7 @@ nav_order: 759
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Treprostinil: 예측 신규 적응증 폐동정맥 기형 (Pulmonary Arteriovenous Malformation) (근거 수준 L5). 기존 적응증: 폐동맥 고혈압(PAH). 허가증에는 원문 링크만 연결되어 있어 구체적 문구는 허가사항 원문에서 확인해야 합니다"
+description: "Treprostinil: 예측 신규 적응증 폐동정맥 기형 (Pulmonary Arteriovenous Malformation) (근거 수준 L5). 기존 적응증: NYHA 분류 단계 Ⅱ-Ⅳ에 해당하는 폐동맥고혈압 환자의 운동능력 및 증상개선"
 monitor_inn: "TREPROSTINIL"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
 ---
@@ -44,7 +44,7 @@ Treprostinil은 프로스타사이클린 유사체로, 원래 폐동맥 고혈�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 폐동맥 고혈압(PAH). 허가증에는 원문 링크만 연결되어 있어 구체적 문구는 허가사항 원문에서 확인해야 합니다. |
+| 기존 적응증 | NYHA 분류 단계 Ⅱ-Ⅳ에 해당하는 폐동맥고혈압 환자의 운동능력 및 증상개선 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001269/EE)) |
 | 예측 신규 적응증 | 폐동정맥 기형 (Pulmonary Arteriovenous Malformation) |
 | TxGNN 예측 점수 | 0.9970 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-31
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
-description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: - 신이식에서의 거부반응의 억제 - 간이식에서의 거부반응의 억제 - 골수이식: 골수이식 후에 따르는…"
 ---
 
 # Tacrolimus
@@ -46,7 +46,7 @@ description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic de
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500213/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400102/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500517/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500518/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901683/EE);  |
+| 기존 적응증 | - 신이식에서의 거부반응의 억제 - 간이식에서의 거부반응의 억제 - 골수이식: 골수이식 후에 따르는 조직이식 거부반응과 이식편대숙주질환(graft versus-host disease) 방지 - 만성류마티스관절염 (항류마티스제(DMARD)로 충분한 효과를 얻을 수 없는 경우에한함) -… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500213/EE)) |
 | 예측 신규 적응증 | 지루피부염 (seborrheic dermatitis) |
 | TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L2 (완료된 3상 1건, 4상 1건. 3상이 1건뿐이라 L1 기준 미충족) |

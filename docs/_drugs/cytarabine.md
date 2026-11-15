@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "CYTARABINE"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
 last_modified_at: 2026-11-05
-description: "Cytarabine: 예측 신규 적응증 원발성 폐 림프종 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 원문이 링크로만 제공됨)"
+description: "Cytarabine: 예측 신규 적응증 원발성 폐 림프종 (근거 수준 L5). 기존 적응증: 급성골수성백혈병, 급성림프성백혈병, 만성골수성백혈병(모세포 단계), 적백혈병, 수막성백혈병, 소아의…"
 ---
 
 # Cytarabine
@@ -46,7 +46,7 @@ TxGNN 모델은 **원발성 폐 림프종(Primary Pulmonary Lymphoma)**에 효�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 원문이 링크로만 제공됨) |
+| 기존 적응증 | 급성골수성백혈병, 급성림프성백혈병, 만성골수성백혈병(모세포 단계), 적백혈병, 수막성백혈병, 소아의 비호지킨 림프종 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200110136/EE)) |
 | 예측 신규 적응증 | 원발성 폐 림프종 |
 | TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 (이 질환을 직접 연구한 시험·문헌 없음) |

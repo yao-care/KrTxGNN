@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-05
 monitor_inn: "CEFTAZIDIME"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "epiglottitis", "blood group incompatibility", "Peptostreptococcus infectious disease"]
-description: "Ceftazidime: 예측 신규 적응증 고아밀라제혈증 (hyperamylasemia) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Ceftazidime: 예측 신규 적응증 고아밀라제혈증 (hyperamylasemia) (근거 수준 L5). 기존 적응증: ○ 유효균종 메치실린감수성 황색포도구균, 메치실린감수성 표피포도구균, 소구균, 스트렙토콕쿠스…"
 ---
 
 # Ceftazidime
@@ -45,7 +45,7 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202147/EE) |
+| 기존 적응증 | ○ 유효균종 메치실린감수성 황색포도구균, 메치실린감수성 표피포도구균, 소구균, 스트렙토콕쿠스 피오게네스(그룹 A- 베타 용혈성), 스트렙토콕쿠스 아갈락티에(그룹B), 스트렙토콕쿠스 비리단스, 연쇄구균(장내구균 제외), 폐렴 연쇄구균, 슈도모나스(녹농균 등), 클레브시엘라(폐렴간균… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202147/EE)) |
 | 예측 신규 적응증 | 고아밀라제혈증 (hyperamylasemia) |
 | TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 257
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Defibrotide: 예측 신규 적응증 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문을 확인할 수 없음 (허가 문서 링크만 제공됨)"
+description: "Defibrotide: 예측 신규 적응증 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: 조혈모세포 이식 후 중증 간정맥폐쇄병의 치료"
 monitor_inn: "DEFIBROTIDE"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "thrombotic thrombocytopenic purpura", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor V deficiency", "fetal and neonatal alloimmune thrombocytopenia", "thrombocytopenic purpura"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 최상위 예측으로 **가성 폰 빌레브란트병(pseudo-vo
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문을 확인할 수 없음 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 조혈모세포 이식 후 중증 간정맥폐쇄병의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600952/EE)) |
 | 예측 신규 적응증 | 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |

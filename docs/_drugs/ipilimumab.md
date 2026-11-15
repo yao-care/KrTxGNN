@@ -6,7 +6,7 @@ nav_order: 434
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Ipilimumab: 예측 신규 적응증 코로이데레미아 (Choroideremia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가 문서 링크로만 제공되어 요약하지 못했습니다. 항종양 면역치료제로 사용됩니다"
+description: "Ipilimumab: 예측 신규 적응증 코로이데레미아 (Choroideremia) (근거 수준 L5). 기존 적응증: 1. 수술이 불가능하거나 전이성인 흑색종 치료의 단독요법 또는 니볼루맙과의 병용요법 2. 이전 치료경험이…"
 monitor_inn: "IPILIMUMAB"
 predicted_indications: ["choroideremia"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **코로이데레미아(Choroideremia)**에 효과가 있을 수
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 허가 문서 링크로만 제공되어 요약하지 못했습니다. 항종양 면역치료제로 사용됩니다. |
+| 기존 적응증 | 1. 수술이 불가능하거나 전이성인 흑색종 치료의 단독요법 또는 니볼루맙과의 병용요법 2. 이전 치료경험이 없는 중간 혹은 고위험 진행성 신세포암 치료로 니볼루맙과의 병용요법 3. 플루오로피리미딘, 옥살리플라틴 및 이리노테칸 치료 후 재발한, 고빈도-현미부수체 불안정성… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405769/EE)) |
 | 예측 신규 적응증 | 코로이데레미아 (Choroideremia) |
 | TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |

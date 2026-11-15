@@ -6,7 +6,7 @@ nav_order: 59
 evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-11-05
-description: "Aminophylline: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에는 문서 링크만 수록)"
+description: "Aminophylline: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 1. 다음 질환의 기도폐쇄성장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 천식기관지염…"
 monitor_inn: "AMINOPHYLLINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "Prinzmetal angina", "pulmonary hypertension", "sciatic neuropathy", "hyperthyroidism", "kyphoscoliotic heart disease"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가증에는 문서 링크만 수록) |
+| 기존 적응증 | 1. 다음 질환의 기도폐쇄성장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 천식기관지염, 폐기종, 만성기관지염 2. 울혈심부전 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001785/EE)) |
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L4 (전임상·기전 수준의 근거) |

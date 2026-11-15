@@ -6,7 +6,7 @@ nav_order: 221
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-31
-description: "Clevudine: 예측 신규 적응증 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 만성 B형 간염 (허가증에는 적응증 본문 없이 문서 링크만 등록되어 있어, 임상시험·문헌 자료를 근거로 기재)"
+description: "Clevudine: 예측 신규 적응증 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 활동성 바이러스의 복제가 확인되고, 혈청 아미노전이효소(ALT또는 AST)의 상승이 확인된 만성B형간염…"
 monitor_inn: "CLEVUDINE"
 predicted_indications: ["chronic hepatitis C virus infection", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C vir
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 만성 B형 간염 (허가증에는 적응증 본문 없이 문서 링크만 등록되어 있어, 임상시험·문헌 자료를 근거로 기재) |
+| 기존 적응증 | 활동성 바이러스의 복제가 확인되고, 혈청 아미노전이효소(ALT또는 AST)의 상승이 확인된 만성B형간염 바이러스감염증 환자(HBeAg 양성 및 HBeAg 음성)의 바이러스 증식 억제 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607938/EE)) |
 | 예측 신규 적응증 | 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 529
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Morphine: 예측 신규 적응증 근막통증증후군 (Myofascial Pain Syndrome) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적 내용을 확인할 수 없음"
+description: "Morphine: 예측 신규 적응증 근막통증증후군 (Myofascial Pain Syndrome) (근거 수준 L4). 기존 적응증: 1. 비교적 심한 급성 또는 심한 만성 통증(예 : 말기 질환)의 완화 2. 수술 전 진정을 위한…"
 monitor_inn: "morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 여러 질환 중 **근막통증증후군(Myofascial Pain Syndro
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적 내용을 확인할 수 없음 |
+| 기존 적응증 | 1. 비교적 심한 급성 또는 심한 만성 통증(예 : 말기 질환)의 완화 2. 수술 전 진정을 위한 마취보조제 3. 분만 시 통증 완화 4. 급성 폐부종 환자에 대한 심혈관계 효과 및 불안 완화(단, 화학적 호흡기 자극원에 의해 유발된 폐부종 치료에는 사용하지 않는다.) 5… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200712832/EE)) |
 | 예측 신규 적응증 (1순위) | 근막통증증후군 (Myofascial Pain Syndrome) |
 | TxGNN 예측 점수 | 0.9975 |
 | 근거 수준 (1순위) | L4 |

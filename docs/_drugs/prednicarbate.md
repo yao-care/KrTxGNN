@@ -6,7 +6,7 @@ nav_order: 623
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-31
-description: "Prednicarbate: 예측 신규 적응증 외음부 역전성 모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 기재되어 있지 않아 확인할 수 없음 (허가 문서 링크만 제공됨)"
+description: "Prednicarbate: 예측 신규 적응증 외음부 역전성 모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 다음의 코르티코이드 반응성 피부질환: 습진·피부염군(아토피피부염, 지루피부염, 접촉성알레르기…"
 monitor_inn: "PREDNICARBATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **외음부 역전성 모낭각화증(vulvar inverted follicular
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 기재되어 있지 않아 확인할 수 없음 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 다음의 코르티코이드 반응성 피부질환: 습진·피부염군(아토피피부염, 지루피부염, 접촉성알레르기 피부염,유사건선, 편평태선, 가려움발진 포함), 건선 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201406045/EE)) |
 | 예측 신규 적응증 | 외음부 역전성 모낭각화증 (Vulvar inverted follicular keratosis) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ESOMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-05
-description: "Esomeprazole: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Esomeprazole: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: 비스테로이드성 소염진통제(나프록센 등)와 관련한 위궤양 및/또는 십이지장궤양의 발생 위험이 있으면서 저용량…"
 ---
 
 # Esomeprazole
@@ -45,7 +45,7 @@ TxGNN 모델은 **십이지장 폐쇄(duodenal obstruction)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410324/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403894/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403728/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403085/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606894/EE);  |
+| 기존 적응증 | 비스테로이드성 소염진통제(나프록센 등)와 관련한 위궤양 및/또는 십이지장궤양의 발생 위험이 있으면서 저용량 나프록센 또는 다른 비스테로이드성 소염진통제에 의해 충분하지 않은 환자에서의 골관절염, 류마티스성 관절염, 강직성척추염의 증상 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403894/EE)) |
 | 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
 | TxGNN 예측 점수 | 0.9945 |
 | 근거 수준 | L5 |

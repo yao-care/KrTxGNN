@@ -6,7 +6,7 @@ nav_order: 159
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Bromazepam: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조)"
+description: "Bromazepam: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L5). 기존 적응증: 1. 신경증에서의 불안·긴장·우울 2. 정신신체장애에서의 불안·긴장·우울"
 monitor_inn: "BROMAZEPAM"
 predicted_indications: ["migraine disorder"]
 ---
@@ -44,7 +44,7 @@ Bromazepam은 벤조디아제핀 계열 약물로, 한국에서 단일제로 허
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 1. 신경증에서의 불안·긴장·우울 2. 정신신체장애에서의 불안·긴장·우울 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308540/EE)) |
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
 | TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |

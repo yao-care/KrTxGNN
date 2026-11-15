@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
 last_modified_at: 2026-10-31
-description: "Pitavastatin: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 문서 링크만 있고 적응증 본문이 없음)"
+description: "Pitavastatin: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (근거 수준 L5). 기존 적응증: 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형, Fredrickson type lla) 및 혼합형…"
 ---
 
 # Pitavastatin
@@ -44,7 +44,7 @@ Pitavastatin은 한국에서 다수의 허가증이 확인되는 스타틴 계�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 정보에 문서 링크만 있고 적응증 본문이 없음) |
+| 기존 적응증 | 원발성 고콜레스테롤혈증(이형접합 가족형 및 비가족형, Fredrickson type lla) 및 혼합형 이상지질혈증 환자 (Fredrickson type llb)의 상승된 총 콜레스테롤, LDL-콜레스테롤, 아포-B 단백 및 트리글리세라이드치를 감소시키고 HDL-콜레스테롤을 증가시키는… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500067/EE)) |
 | 예측 신규 적응증 | 콜레스테롤 에스테르 전달 단백질 결핍증 |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

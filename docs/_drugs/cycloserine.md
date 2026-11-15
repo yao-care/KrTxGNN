@@ -6,7 +6,7 @@ nav_order: 241
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-11-12
-description: "Cycloserine: 예측 신규 적응증 과민성 장 증후군 (irritable bowel syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가사항 문서 링크만 제공됨). 항결핵제로 알려져 있습니다"
+description: "Cycloserine: 예측 신규 적응증 과민성 장 증후군 (irritable bowel syndrome) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 ○ 적응증 결핵"
 monitor_inn: "CYCLOSERINE"
 predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
 ---
@@ -52,7 +52,7 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가사항 문서 링크만 제공됨). 항결핵제로 알려져 있습니다. |
+| 기존 적응증 | ○ 유효균종 결핵균 ○ 적응증 결핵 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196400099/EE)) |
 | 예측 신규 적응증 | 과민성 장 증후군 (irritable bowel syndrome) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

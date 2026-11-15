@@ -6,7 +6,7 @@ nav_order: 510
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Methylene Blue: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 정보가 문서 링크로만 제공됨)"
+description: "Methylene Blue: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 약물에 의한 메트헤모글로빈혈증"
 monitor_inn: "METHYLENE BLUE"
 predicted_indications: ["bronchitis"]
 ---
@@ -44,7 +44,7 @@ Methylene blue(메틸렌블루)는 국내에서 주사제(프로베블루주 0.5
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가 정보가 문서 링크로만 제공됨) |
+| 기존 적응증 | 약물에 의한 메트헤모글로빈혈증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708376/EE)) |
 | 예측 신규 적응증 | 기관지염 (Bronchitis) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

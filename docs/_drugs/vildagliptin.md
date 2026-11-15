@@ -6,7 +6,7 @@ nav_order: 784
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Vildagliptin: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 제2형 당뇨병 (허가 문서는 링크로만 제공되어 본문 확인 불가, 약리 데이터의 임상 용도 기준)"
+description: "Vildagliptin: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 이 약은 빌다글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상사키기 위해…"
 monitor_inn: "VILDAGLIPTIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 ---
@@ -44,7 +44,7 @@ Vildagliptin은 DPP-4 억제제로, 원래 제2형 당뇨병 치료에 사용되
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 제2형 당뇨병 (허가 문서는 링크로만 제공되어 본문 확인 불가, 약리 데이터의 임상 용도 기준) |
+| 기존 적응증 | 이 약은 빌다글립틴과 메트포르민의 병용투여가 적합한 제2형 당뇨병 환자의 혈당조절을 향상사키기 위해 식사요법 및 운동용법의 보조제로 투여한다. ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302280/EE)) |
 | 예측 신규 적응증 | 고전형 강직인간증후군 (Classic Stiff Person Syndrome) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |

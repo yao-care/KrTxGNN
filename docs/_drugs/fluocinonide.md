@@ -6,7 +6,7 @@ nav_order: 356
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-11-05
-description: "Fluocinonide: 예측 신규 적응증 알로페시아 뮤시노사 (Alopecia Mucinosa) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트는 데이터에 포함되지 않았습니다(허가증 문서 링크만 제공됨)"
+description: "Fluocinonide: 예측 신규 적응증 알로페시아 뮤시노사 (Alopecia Mucinosa) (근거 수준 L5). 기존 적응증: 1. 알레르기피부염, 접촉피부염, 만성단순태선(신경피부염), 아토피피부염, 원판상홍반성루푸스…"
 monitor_inn: "FLUOCINONIDE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **알로페시아 뮤시노사(Alopecia Mucinosa)**에 효과가
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문 텍스트는 데이터에 포함되지 않았습니다(허가증 문서 링크만 제공됨). |
+| 기존 적응증 | 1. 알레르기피부염, 접촉피부염, 만성단순태선(신경피부염), 아토피피부염, 원판상홍반성루푸스, 지루피부염,건선, 벌레물린데, 방사선피부염, 양진 2. 원형탈모증의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800865/EE)) |
 | 예측 신규 적응증 | 알로페시아 뮤시노사 (Alopecia Mucinosa) |
 | TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 |

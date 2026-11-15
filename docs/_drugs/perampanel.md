@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
 last_modified_at: 2026-10-31
-description: "Perampanel: 예측 신규 적응증 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Perampanel: 예측 신규 적응증 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) (근거 수준 L5). 기존 적응증: 1. 단독요법 - 부분발작: 뇌전증 환자의 이차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(만…"
 ---
 
 # Perampanel
@@ -44,7 +44,7 @@ Perampanel은 AMPA 수용체를 길항하는 항경련제 계열의 약물입니
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504770/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300747/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201453/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201450/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201600/EE);  |
+| 기존 적응증 | 1. 단독요법 - 부분발작: 뇌전증 환자의 이차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(만 4세 이상) 2. 부가요법 - 부분발작: 뇌전증 환자의 이차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(만 4세 이상) - 일차성 전신 강직-간대발작: 특발성 전신성… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504770/EE)) |
 | 예측 신규 적응증 | 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) |
 | TxGNN 예측 점수 | 0.9979 |
 | 근거 수준 | L5 |

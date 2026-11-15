@@ -6,7 +6,7 @@ nav_order: 223
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-31
-description: "Clobetasol Propionate: 예측 신규 적응증 외음부 역전모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 확인할 수 없음 (공개 자료상 피부 염증·가려움증: 알레르기 반응, 습진, 건선)"
+description: "Clobetasol Propionate: 예측 신규 적응증 외음부 역전모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: (연고제)(크림제) 습진ㆍ피부염군(진행성 지장각피증, 만성단순태선, 광피부염을 포함)…"
 monitor_inn: "CLOBETASOL PROPIONATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
 ---
@@ -48,7 +48,7 @@ TxGNN 모델은 가장 높은 점수 순으로 **외부 발진(Exanthem)**을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 확인할 수 없음 (공개 자료상 피부 염증·가려움증: 알레르기 반응, 습진, 건선) |
+| 기존 적응증 | (연고제)(크림제) 습진ㆍ피부염군(진행성 지장각피증, 만성단순태선, 광피부염을 포함), 양진군(구진두드러기를 포함), 손ㆍ발바닥농포증, 건선 (액제) 주로 두부의 피부질환(습진ㆍ피부염군, 건선) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800872/EE)) |
 | 예측 신규 적응증 (1순위) | 외음부 역전모낭각화증 (Vulvar inverted follicular keratosis) |
 | TxGNN 예측 점수 | 0.9946 |
 | 근거 수준 | L5 (1순위) / 외진(3순위)은 L2 |

@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-06
 monitor_inn: "SALSALATE"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia"]
-description: "Salsalate: 예측 신규 적응증 말단중간이형성증 Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Salsalate: 예측 신규 적응증 말단중간이형성증 Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) (근거 수준 L5). 기존 적응증: 1. 주효능 효과 류마티양 관절염, 골관절염(퇴행성 관절질환) 2. 다음 질환에도 사용할 수 있다…"
 ---
 
 # Salsalate
@@ -44,7 +44,7 @@ Salsalate는 비아세틸화 살리실산염 계열 약물로, 한국에서 단�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710658/EE) |
+| 기존 적응증 | 1. 주효능 효과 류마티양 관절염, 골관절염(퇴행성 관절질환) 2. 다음 질환에도 사용할 수 있다. 류마트열, 결합직염, 견관절주위염, 증후성 신경통, 요통, 두통, 치통, 월경통, 감기로 인한 발열 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710658/EE)) |
 | 예측 신규 적응증 | 말단중간이형성증 Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 583
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Pegteograstim: 예측 신규 적응증 심실중격 동맥류 (Interventricular septum aneurysm) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 정보 없음 (허가증에는 문서 링크만 기재)"
+description: "Pegteograstim: 예측 신규 적응증 심실중격 동맥류 (Interventricular septum aneurysm) (근거 수준 L5). 기존 적응증: 고형암 및 악성 림프종에 대한 세포독성 화학요법을 투여 받는 환자의 중증 호중구감소증 기간 감소"
 monitor_inn: "PEGTEOGRASTIM"
 predicted_indications: ["interventricular septum aneurysm", "heart disease", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 22", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "partial deletion of the long arm of chromosome 7"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **심실중격 동맥류(interventricular septum aneurysm)**에 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 정보 없음 (허가증에는 문서 링크만 기재) |
+| 기존 적응증 | 고형암 및 악성 림프종에 대한 세포독성 화학요법을 투여 받는 환자의 중증 호중구감소증 기간 감소 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403786/EE)) |
 | 예측 신규 적응증 | 심실중격 동맥류 (Interventricular septum aneurysm) |
 | TxGNN 예측 점수 | 0.9938 |
 | 근거 수준 | L5 |

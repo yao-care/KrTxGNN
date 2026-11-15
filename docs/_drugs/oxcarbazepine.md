@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "OXCARBAZEPINE"
 predicted_indications: ["restless legs syndrome"]
 last_modified_at: 2026-10-31
-description: "Oxcarbazepine: 예측 신규 적응증 하지불안 증후군 (restless legs syndrome) (근거 수준 L4). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Oxcarbazepine: 예측 신규 적응증 하지불안 증후군 (restless legs syndrome) (근거 수준 L4). 기존 적응증: 뇌전증 1. 부분발작(이차적인 전신발작을 수반하는 경우 포함) 2. 전신 강직간대발작"
 ---
 
 # Oxcarbazepine
@@ -45,7 +45,7 @@ TxGNN 모델은 **하지불안 증후군(restless legs syndrome)**에 효과가 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008778/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008777/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309501/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403783/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008776/EE);  |
+| 기존 적응증 | 뇌전증 1. 부분발작(이차적인 전신발작을 수반하는 경우 포함) 2. 전신 강직간대발작 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008778/EE)) |
 | 예측 신규 적응증 | 하지불안 증후군 (restless legs syndrome) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L4 |

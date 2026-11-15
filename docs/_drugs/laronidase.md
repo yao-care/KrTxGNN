@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-03
 monitor_inn: "LARONIDASE"
 predicted_indications: ["Sanfilippo syndrome"]
-description: "Laronidase: 예측 신규 적응증 Sanfilippo syndrome (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Laronidase: 예측 신규 적응증 Sanfilippo syndrome (근거 수준 L5). 기존 적응증: 뮤코다당체침착증Ⅰ(MucopolysaccharidosisⅠ, MPSⅠ) 형태의 헐러(Hurler) 및…"
 ---
 
 # Laronidase
@@ -45,7 +45,7 @@ Laronidase는 재조합 인간 알파-L-이두로니다제(alpha-L-iduronidase) 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210159/EE) |
+| 기존 적응증 | 뮤코다당체침착증Ⅰ(MucopolysaccharidosisⅠ, MPSⅠ) 형태의 헐러(Hurler) 및 헐러-쉬에(Hurler- Scheie)환자와 중등도 이상의 증상을 가진 쉬에환자에게 쓰인다. 경미한 증상을 가진 쉬에환자에 대한 위험성이나 이득에 대해서는 알려진 바 없다. 이 약은… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210159/EE)) |
 | 예측 신규 적응증 | Sanfilippo syndrome |
 | TxGNN 예측 점수 | 0.9922 |
 | 근거 수준 | L5 (전임상·기전 수준 근거만 존재) |

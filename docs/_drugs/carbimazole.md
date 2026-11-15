@@ -6,7 +6,7 @@ nav_order: 182
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Carbimazole: 예측 신규 적응증 갑상선호르몬 수용체 β 변이에 의한 갑상선호르몬 저항성 (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 허가 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없음 (항갑상선제)"
+description: "Carbimazole: 예측 신규 적응증 갑상선호르몬 수용체 β 변이에 의한 갑상선호르몬 저항성 (근거 수준 L5). 기존 적응증: 갑상샘 기능 감소를 필요로 하는 다음의 상태: 1. 갑상샘 기능 항진증 2. 갑상샘 기능 항진증에서의…"
 monitor_inn: "CARBIMAZOLE"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 ---
@@ -44,7 +44,7 @@ Carbimazole은 메티마졸(methimazole)의 전구약물로, 한국에서 항갑
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 아닌 허가 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없음 (항갑상선제) |
+| 기존 적응증 | 갑상샘 기능 감소를 필요로 하는 다음의 상태: 1. 갑상샘 기능 항진증 2. 갑상샘 기능 항진증에서의 갑상샘 절제술 전처치 3. 방사성 요오드 요법의 전처치 및 병용요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401519/EE)) |
 | 예측 신규 적응증 | 갑상선호르몬 수용체 베타 변이에 의한 갑상선호르몬 불응증 (Resistance to thyroid hormone, RTH-beta) |
 | TxGNN 예측 점수 | 0.9971 |
 | 근거 수준 | L5 |

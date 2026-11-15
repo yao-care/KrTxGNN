@@ -6,7 +6,7 @@ nav_order: 25
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Adapalene: 예측 신규 적응증 혈장 아연 상승 (zinc, elevated plasma) (근거 수준 L5). 기존 적응증: 여드름(심상성 좌창) (허가증에는 적응증 본문 대신 문서 링크만 수록되어 있어, 약물의 일반적 용도를 기준으로 기재)"
+description: "Adapalene: 예측 신규 적응증 혈장 아연 상승 (zinc, elevated plasma) (근거 수준 L5). 기존 적응증: 12세 이상의 면포, 구진, 농포가 나타나는 여드름의 국소치료"
 monitor_inn: "ADAPALENE"
 predicted_indications: ["zinc, elevated plasma"]
 ---
@@ -44,7 +44,7 @@ Adapalene은 국소 도포용 3세대 레티노이드로, 원래 여드름(심�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 여드름(심상성 좌창) (허가증에는 적응증 본문 대신 문서 링크만 수록되어 있어, 약물의 일반적 용도를 기준으로 기재) |
+| 기존 적응증 | 12세 이상의 면포, 구진, 농포가 나타나는 여드름의 국소치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706875/EE)) |
 | 예측 신규 적응증 | 혈장 아연 상승 (zinc, elevated plasma) |
 | TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L5 |

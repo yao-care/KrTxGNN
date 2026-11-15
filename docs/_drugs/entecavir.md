@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-04
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
-description: "Entecavir: 예측 신규 적응증 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Entecavir: 예측 신규 적응증 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 활동성 바이러스의 복제가 확인되고, 혈청 아미노전이효소(ALT 또는 AST)의 지속적 상승 또는…"
 ---
 
 # Entecavir
@@ -46,7 +46,7 @@ TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C vir
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404379/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501535/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403512/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206904/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405425/EE);  |
+| 기존 적응증 | 활동성 바이러스의 복제가 확인되고, 혈청 아미노전이효소(ALT 또는 AST)의 지속적 상승 또는 조직학적으로 활동성 질환이 확인된 성인(16세 이상)의 만성 B형 간염바이러스 감염의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404379/EE)) |
 | 예측 신규 적응증 | 만성 C형 간염 바이러스 감염 (chronic hepatitis C virus infection) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

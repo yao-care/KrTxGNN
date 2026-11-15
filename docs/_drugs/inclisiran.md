@@ -6,7 +6,7 @@ nav_order: 420
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Inclisiran: 예측 신규 적응증 칼륨 결핍증 (potassium deficiency disease) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않음 (허가사항 문서 링크만 확인됨)"
+description: "Inclisiran: 예측 신규 적응증 칼륨 결핍증 (potassium deficiency disease) (근거 수준 L5). 기존 적응증: 원발성 고콜레스테롤혈증 (이형접합 가족형 및 비 가족형) 또는 혼합형 이상지질혈증을 가진 성인…"
 monitor_inn: "Inclisiran"
 predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **칼륨 결핍증(potassium deficiency disease)**에 효과가 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 제공되지 않음 (허가사항 문서 링크만 확인됨) |
+| 기존 적응증 | 원발성 고콜레스테롤혈증 (이형접합 가족형 및 비 가족형) 또는 혼합형 이상지질혈증을 가진 성인 환자에서식이요법에 대한 보조요법으로 투여 - 최대 내약 용량의 스타틴으로 충분히 LDL-콜레스테롤(LDL-C)이 조절되지 않는 환자에서 스타틴 또는 스타틴과 다른 지질 저하요법과 병용 투여… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401494/EE)) |
 | 예측 신규 적응증 | 칼륨 결핍증 (potassium deficiency disease) |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 |

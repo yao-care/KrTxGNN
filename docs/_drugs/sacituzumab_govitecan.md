@@ -6,7 +6,7 @@ nav_order: 678
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-31
-description: "Sacituzumab Govitecan: 예측 신규 적응증 약인성 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 텍스트로 포함되어 있지 않고 식약처 허가 문서 링크만 제공됨 (허가사항 참조)"
+description: "Sacituzumab Govitecan: 예측 신규 적응증 약인성 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 이전에 두 번 이상의 전신치료를 받은 적이 있고, 그 중 적어도 한 번은 전이성 질환에서 치료를 받은…"
 monitor_inn: "Sacituzumab govitecan"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **약인성 골다공증(drug-induced osteoporosis)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 데이터에 텍스트로 포함되어 있지 않고 식약처 허가 문서 링크만 제공됨 (허가사항 참조) |
+| 기존 적응증 | 이전에 두 번 이상의 전신치료를 받은 적이 있고, 그 중 적어도 한 번은 전이성 질환에서 치료를 받은, 절제 불가능한 국소진행성 또는 전이성 삼중음성유방암 (mTNBC) 성인 환자의 치료 절제 불가능한 또는 전이성인 호르몬수용체 (HR) 양성 및 인간 표피성장인자수용체2 (HER2)… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301485/EE)) |
 | 예측 신규 적응증 | 약인성 골다공증 (drug-induced osteoporosis) |
 | TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 |

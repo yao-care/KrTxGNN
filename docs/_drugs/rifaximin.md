@@ -6,7 +6,7 @@ nav_order: 654
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-31
-description: "Rifaximin: 예측 신규 적응증 구강 칸디다증 (Oral candidiasis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
+description: "Rifaximin: 예측 신규 적응증 구강 칸디다증 (Oral candidiasis) (근거 수준 L5). 기존 적응증: 1. 그람양성균 및 그람음성균에 의한 급성장내감염에 의한 설사 증후군 2. 장내세균총의 이상으로 인한…"
 monitor_inn: "RIFAXIMIN"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **구강 칸디다증(oral candidiasis)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 1. 그람양성균 및 그람음성균에 의한 급성장내감염에 의한 설사 증후군 2. 장내세균총의 이상으로 인한 설사(여름철 설사, 여행자 설사, 소장결장염) 3. 위장관 수술전후 장내 감염의 예방 4. 고암모니아혈증 치료의 보조요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706207/EE)) |
 | 예측 신규 적응증 | 구강 칸디다증 (Oral candidiasis) |
 | TxGNN 예측 점수 | 0.9975 |
 | 근거 수준 | L5 |

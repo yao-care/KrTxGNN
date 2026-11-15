@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
 last_modified_at: 2026-10-31
-description: "Fluvastatin: 예측 신규 적응증 HIV 감염증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
+description: "Fluvastatin: 예측 신규 적응증 HIV 감염증 (근거 수준 L5). 기존 적응증: 1. 다음의 심장혈관 질환에 대한 위험성감소 1) 식이요법에 적절히 반응하지 않는 원발성 고콜레스테롤혈증과…"
 ---
 
 # Fluvastatin
@@ -44,7 +44,7 @@ Fluvastatin은 HMG-CoA 환원효소를 억제하는 스타틴 계열 약물로, 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 링크로만 제공되어 구체적인 내용을 확인할 수 없음 |
+| 기존 적응증 | 1. 다음의 심장혈관 질환에 대한 위험성감소 1) 식이요법에 적절히 반응하지 않는 원발성 고콜레스테롤혈증과 관상동맥질환을 나타내는 성인 환자에 대 한 관상동맥경화증의 진행 지연 2) 관상동맥질환 성인 환자의 경피적 관상동맥 삽관술 후 심장사고(coronary events)의 재발… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108760/EE)) |
 | 예측 신규 적응증 | HIV 감염증 |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |

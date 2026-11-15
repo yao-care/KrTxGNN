@@ -6,7 +6,7 @@ nav_order: 735
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Thymol: 예측 신규 적응증 심실중격 동맥류 (interventricular septum aneurysm) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
+description: "Thymol: 예측 신규 적응증 심실중격 동맥류 (interventricular septum aneurysm) (근거 수준 L5). 기존 적응증: 소포형성, 치은염, 구순의 빙상홍반을 포함하는 구강점막과 구순의 통증성 염증, 치과교정장치에 의한…"
 monitor_inn: "Thymol"
 predicted_indications: ["interventricular septum aneurysm", "pulmonary valve disease", "Laubry-Pezzi syndrome", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 22", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **심실중격 동맥류(interventricular septum aneurysm)**에 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 |
+| 기존 적응증 | 소포형성, 치은염, 구순의 빙상홍반을 포함하는 구강점막과 구순의 통증성 염증, 치과교정장치에 의한 통증,과민반응, 점막자극의 완화, 유치, 지치의 맹충과 관련된 통증과 불쾌감의 예방, 치과교정 처치와 관련된 통증과 불쾌감의 완화 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701096/EE)) |
 | 예측 신규 적응증 | 심실중격 동맥류 (interventricular septum aneurysm) |
 | TxGNN 예측 점수 | 0.9925 |
 | 근거 수준 | L5 |

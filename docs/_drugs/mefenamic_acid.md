@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-06
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
-description: "Mefenamic Acid: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Mefenamic Acid: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L2). 기존 적응증: 1. 다음 질환에 사용할 수 있다. . . 두통, 치통, 요통, 골관절염(퇴행성 관절질환),외상후 수술후…"
 ---
 
 # Mefenamic Acid
@@ -44,7 +44,7 @@ Mefenamic acid는 프로스타글란딘 합성을 억제하는 비스테로이�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908188/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199100581/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199903201/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507851/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507854/EE);  |
+| 기존 적응증 | 1. 다음 질환에 사용할 수 있다. . . 두통, 치통, 요통, 골관절염(퇴행성 관절질환),외상후 수술후 분만후 염증 및 동통, 부비동염에 수반하는 동통, 월경통 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908188/EE)) |
 | 예측 신규 적응증 | 두통 질환 (headache disorder) |
 | TxGNN 예측 점수 | 0.9964 |
 | 근거 수준 | L2 (소규모·구형 이중맹검 RCT 중심, 제3상 확증 시험 없음) |

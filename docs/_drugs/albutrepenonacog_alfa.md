@@ -6,7 +6,7 @@ nav_order: 32
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-31
-description: "Albutrepenonacog Alfa: 예측 신규 적응증 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 식약처 첨부문서 링크만 등록되어 있음)"
+description: "Albutrepenonacog Alfa: 예측 신규 적응증 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: B형 혈우병 (혈액응고 제 9인자의 선천성 결핍) 환자에서 - 출혈의 억제 및 예방 - 수술 전· 후…"
 monitor_inn: "ALBUTREPENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **가성 폰 빌레브란트병(pseudo-von Willebrand disease)**
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가증에는 식약처 첨부문서 링크만 등록되어 있음) |
+| 기존 적응증 | B형 혈우병 (혈액응고 제 9인자의 선천성 결핍) 환자에서 - 출혈의 억제 및 예방 - 수술 전· 후 관리(외과적 수술 시 출혈억제 및 예방) - 출혈의 빈도 감소 및 예방을 위한 일상적 예방요법 이 약은 혈우병 B환자의 면역관용유도에 사용하지 않는다. ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001556/EE)) |
 | 예측 신규 적응증 | 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |

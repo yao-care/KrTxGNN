@@ -6,7 +6,7 @@ nav_order: 202
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Cerliponase Alfa: 예측 신규 적응증 Scheie 증후군 (Scheie syndrome, MPS I 완화형) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 링크로만 제공되어 구체적 내용을 확인할 수 없습니다 (허가 문서 참조)"
+description: "Cerliponase Alfa: 예측 신규 적응증 Scheie 증후군 (Scheie syndrome, MPS I 완화형) (근거 수준 L5). 기존 적응증: 트리펩티딜 펩티다제 1 (TPP1) 결핍으로도 알려진 2형 신경세포 세로이드 라이포푸신증(CLN2) 의 치료"
 monitor_inn: "Cerliponase alfa"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "cholesteryl ester storage disease", "Gaucher disease", "familial encephalopathy with neuroserpin inclusion bodies", "Wolman disease with hypolipoproteinemia and acanthocytosis", "proximal myopathy with extrapyramidal signs", "autosomal ichthyosis syndrome with fatal disease course"]
 ---
@@ -44,7 +44,7 @@ Cerliponase alfa는 재조합 인간 TPP1(tripeptidyl peptidase 1) 효소를 뇌
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 링크로만 제공되어 구체적 내용을 확인할 수 없습니다 (허가 문서 참조) |
+| 기존 적응증 | 트리펩티딜 펩티다제 1 (TPP1) 결핍으로도 알려진 2형 신경세포 세로이드 라이포푸신증(CLN2) 의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202006239/EE)) |
 | 예측 신규 적응증 | Scheie 증후군 (Scheie syndrome, MPS I 완화형) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

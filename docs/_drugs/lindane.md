@@ -6,7 +6,7 @@ nav_order: 477
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Lindane: 예측 신규 적응증 경부 신경모세포종 (Cervical Neuroblastoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 기재되어 있지 않고 문서 링크만 제공되어 확인할 수 없음 (일반적으로 옴·이 등 외부 기생충 감염에…"
+description: "Lindane: 예측 신규 적응증 경부 신경모세포종 (Cervical Neuroblastoma) (근거 수준 L5). 기존 적응증: (겔제) 머리이, 사면발이, 옴과 같은 동물성 기생충 감염증 (액제) 머리이, 사면발이 (로오숀제) 옴"
 monitor_inn: "Lindane"
 predicted_indications: ["cervical neuroblastoma", "benign neoplasm of tongue", "epiglottis neoplasm", "odontogenic cyst", "pre-malignant neoplasm", "benign neoplasm of hypopharynx", "schwannoma of jugular foramen", "cystic neoplasm", "benign neoplasm of buccal mucosa", "inner ear neoplasm"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **경부 신경모세포종(Cervical Neuroblastoma)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 본문이 기재되어 있지 않고 문서 링크만 제공되어 확인할 수 없음 (일반적으로 옴·이 등 외부 기생충 감염에 사용) |
+| 기존 적응증 | (겔제) 머리이, 사면발이, 옴과 같은 동물성 기생충 감염증 (액제) 머리이, 사면발이 (로오숀제) 옴 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201235/EE)) |
 | 예측 신규 적응증 | 경부 신경모세포종 (Cervical Neuroblastoma) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |

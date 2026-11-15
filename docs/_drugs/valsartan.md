@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-04
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
-description: "Valsartan: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Valsartan: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 암로디핀 또는 발사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압"
 ---
 
 # Valsartan
@@ -46,7 +46,7 @@ TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404025/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001707/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602312/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002136/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805550/EE);  |
+| 기존 적응증 | 암로디핀 또는 발사르탄 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404025/EE)) |
 | 예측 신규 적응증 | 악성 고혈압성 신장질환 (malignant hypertensive renal disease) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

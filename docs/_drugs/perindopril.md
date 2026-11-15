@@ -6,7 +6,7 @@ nav_order: 593
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-31
-description: "Perindopril: 예측 신규 적응증 악성 고혈압성 신장질환 (Malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 원문이 이번 데이터에 수록되지 않음)"
+description: "Perindopril: 예측 신규 적응증 악성 고혈압성 신장질환 (Malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 1. 고혈압 2. 울혈심부전 : 비칼륨보전이뇨제 및 디기탈리스 투여시의 보조치료제 3. 안정형 관상동맥…"
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **악성 고혈압성 신장질환(Malignant hypertensive renal 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 원문이 이번 데이터에 수록되지 않음) |
+| 기존 적응증 | 1. 고혈압 2. 울혈심부전 : 비칼륨보전이뇨제 및 디기탈리스 투여시의 보조치료제 3. 안정형 관상동맥 질환 : 심근경색 및/또는 혈관 재생술의 병력이 있는 안정형 관상동맥질환 환자에서 심혈관 질환으로 인한 사망 또는 비치명적 심근경색에 대한 위험성 감소 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710635/EE)) |
 | 예측 신규 적응증 | 악성 고혈압성 신장질환 (Malignant hypertensive renal disease) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 (임상시험 없음, 직접 관련 문헌 없음, 모델 예측과 기전적 추론 위주) |

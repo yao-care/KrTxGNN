@@ -6,7 +6,7 @@ nav_order: 591
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Peppermint Oil: 예측 신규 적응증 나병 (Leprosy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 대신 문서 링크만 수록됨)"
+description: "Peppermint Oil: 예측 신규 적응증 나병 (Leprosy) (근거 수준 L5). 기존 적응증: ○ 과민성대장증후군의 다음 증상 완화 : 복통, 경미한 위장관 경련, 복부팽만감"
 monitor_inn: "Peppermint oil"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **나병(leprosy)**에 효과가 있을 수 있다고 예측했�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 정보에 적응증 본문 대신 문서 링크만 수록됨) |
+| 기존 적응증 | ○ 과민성대장증후군의 다음 증상 완화 : 복통, 경미한 위장관 경련, 복부팽만감 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501572/EE)) |
 | 예측 신규 적응증 | 나병 (Leprosy) |
 | TxGNN 예측 점수 | 0.9980 |
 | 근거 수준 | L5 |

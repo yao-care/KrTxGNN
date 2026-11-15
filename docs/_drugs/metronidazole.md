@@ -6,7 +6,7 @@ nav_order: 513
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-11-05
-description: "Metronidazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 혐기성 세균 및 원충 감염 (일반적 용도. 한국 허가 적응증 본문은 허가사항 PDF 링크로만 확인되어 별도 확인 필요)"
+description: "Metronidazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 1. 유효균종 : 질트리콤나스, 이질아메바, 혐기성균 2. 적응증 : 1) 트리코모나스 증 : 트리코모나스…"
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
 ---
@@ -44,7 +44,7 @@ Metronidazole은 혐기성 세균과 원충 감염 치료에 널리 쓰이는 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 혐기성 세균 및 원충 감염 (일반적 용도. 한국 허가 적응증 본문은 허가사항 PDF 링크로만 확인되어 별도 확인 필요) |
+| 기존 적응증 | 1. 유효균종 : 질트리콤나스, 이질아메바, 혐기성균 2. 적응증 : 1) 트리코모나스 증 : 트리코모나스 전립선 정관염, 요도염, 질염, 자궁내막염, 자궁경관염, 자궁경부미란 및 지알디아증, 빈센트씨 완상구립염 2) 아메바증 : 급성장아메바, 아메바성 간종양, 급성 아메바성이질 3)… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402170/EE)) |
 | 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (모델 예측만 있음) |

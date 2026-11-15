@@ -6,7 +6,7 @@ nav_order: 622
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Prasugrel: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 텍스트로 제공되지 않아 확인할 수 없음 (허가사항 문서 링크만 존재)"
+description: "Prasugrel: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 관상동맥중재술(percutaneous coronary intervention PCI)을 실시하였거나 실시할…"
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 ---
@@ -44,7 +44,7 @@ Prasugrel은 한국에서 에피언트정(5mg, 10mg)으로 허가·시판 중인
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 데이터에 텍스트로 제공되지 않아 확인할 수 없음 (허가사항 문서 링크만 존재) |
+| 기존 적응증 | 관상동맥중재술(percutaneous coronary intervention PCI)을 실시하였거나 실시할 다음의 급성관상동맥증후군 환자에서 스텐트 혈전증을 포함한 혈전성 심혈관 사건(심혈관 질환으로 인한 사망, 치명적이지 않은심근경색 또는 치명적이지 않은 뇌졸중)의 발생율 감소 -… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004754/EE)) |
 | 예측 신규 적응증 | 폐고혈압 (Pulmonary Hypertension) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |

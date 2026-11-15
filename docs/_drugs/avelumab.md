@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Avelumab"
 predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 last_modified_at: 2026-10-31
-description: "Avelumab: 예측 신규 적응증 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Avelumab: 예측 신규 적응증 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor) (근거 수준 L5). 기존 적응증: 1. 성인에서의 전이성 메르켈세포암 치료로 단독요법 2. 백금기반 화학요법치료에 질병이 진행되지 않은 국소…"
 ---
 
 # Avelumab
@@ -44,7 +44,7 @@ Avelumab은 PD-L1을 표적으로 하는 항체 의약품입니다. TxGNN 모델
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901720/EE) |
+| 기존 적응증 | 1. 성인에서의 전이성 메르켈세포암 치료로 단독요법 2. 백금기반 화학요법치료에 질병이 진행되지 않은 국소 진행성 또는 전이성 요로상피세포암 성인 환자에서의 1차 단독유지요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901720/EE)) |
 | 예측 신규 적응증 | 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

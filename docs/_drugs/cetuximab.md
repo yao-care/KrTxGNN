@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["ductal or ductular proliferation", "bronchial adenomas/carcinoids childhood", "non-seminomatous lesion", "chondroid hamartoma", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "epiglottis neoplasm", "cystic neoplasm", "pre-malignant neoplasm"]
 last_modified_at: 2026-10-31
-description: "Cetuximab: 예측 신규 적응증 관 또는 세관 증식 (근거 수준 L5). 기존 적응증: 한국 허가증에는 적응증 본문 없이 링크만 있어 확인되지 않음. 약리학 자료상 임상 용도는 EGFR 발현 전이성 대장직장암과…"
+description: "Cetuximab: 예측 신규 적응증 관 또는 세관 증식 (근거 수준 L5). 기존 적응증: 1. RAS 정상형(wild-type)인 전이성 직결장암 환자 - Irinotecan 기반의…"
 ---
 
 # Cetuximab
@@ -44,7 +44,7 @@ Cetuximab은 항EGFR(상피성장인자수용체) 단클론항체로, 약리학 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 한국 허가증에는 적응증 본문 없이 링크만 있어 확인되지 않음. 약리학 자료상 임상 용도는 EGFR 발현 전이성 대장직장암과 두경부 편평세포암 |
+| 기존 적응증 | 1. RAS 정상형(wild-type)인 전이성 직결장암 환자 - Irinotecan 기반의 항암화학요법과의 병용요법 - FOLFOX와 병용하는 일차요법 - Irinotecan에 내약성이 없으며, Oxaliplatin과 Irinotecan을 포함한 요법에 실패한 환자에의 단독요법 2… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200901952/EE)) |
 | 예측 신규 적응증 | 관 또는 세관 증식 |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

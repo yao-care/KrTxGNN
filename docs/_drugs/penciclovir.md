@@ -6,7 +6,7 @@ nav_order: 588
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-05
-description: "Penciclovir: 예측 신규 적응증 파스시올라증 (Fascioliasis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 단순포진 등 헤르페스바이러스 감염에 사…"
+description: "Penciclovir: 예측 신규 적응증 파스시올라증 (Fascioliasis) (근거 수준 L5). 기존 적응증: 단순포진 바이러스 감염증(입술포진)"
 monitor_inn: "Penciclovir"
 predicted_indications: ["fascioliasis"]
 ---
@@ -44,7 +44,7 @@ Penciclovir는 헤르페스바이러스 감염 치료에 사용되는 뉴클레�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 문서 링크로만 제공되어 구체적 내용을 확인할 수 없음 (일반적으로 단순포진 등 헤르페스바이러스 감염에 사용) |
+| 기존 적응증 | 단순포진 바이러스 감염증(입술포진) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908697/EE)) |
 | 예측 신규 적응증 | 파스시올라증 (Fascioliasis) |
 | TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |

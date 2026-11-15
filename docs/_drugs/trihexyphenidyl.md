@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Trihexyphenidyl"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 last_modified_at: 2026-11-03
-description: "Trihexyphenidyl: 예측 신규 적응증 주의력결핍 과잉행동장애 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 본문 대신 링크만 기재됨)"
+description: "Trihexyphenidyl: 예측 신규 적응증 주의력결핍 과잉행동장애 (근거 수준 L5). 기존 적응증: 1. 특발성 파킨슨증 2. 기타의 파킨슨증(뇌염후, 동맥경화성) 3. 항정신병약 투여에 의한 파킨슨증…"
 ---
 
 # Trihexyphenidyl
@@ -45,7 +45,7 @@ TxGNN 모델은 **주의력결핍 과잉행동장애(ADHD)**에 효과가 있을
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 항목에 본문 대신 링크만 기재됨) |
+| 기존 적응증 | 1. 특발성 파킨슨증 2. 기타의 파킨슨증(뇌염후, 동맥경화성) 3. 항정신병약 투여에 의한 파킨슨증, 운동장애(지발성은 제외), 정좌불능증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301084/EE)) |
 | 예측 신규 적응증 | 주의력결핍 과잉행동장애 |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

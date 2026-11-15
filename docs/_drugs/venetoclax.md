@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
-description: "Venetoclax: 예측 신규 적응증 Hodgkins lymphoma (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Venetoclax: 예측 신규 적응증 Hodgkins lymphoma (근거 수준 L5). 기존 적응증: 만성 림프구성 백혈병 이전에 치료받은 적이 없는 만성 림프구성 백혈병 성인 환자에서 오비누투주맙과의 병용…"
 ---
 
 # Venetoclax
@@ -46,7 +46,7 @@ TxGNN 모델은 **전배중심 CLL/SLL(pregerminal center CLL/SLL, IGHV 비돌�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903543/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903542/EE) |
+| 기존 적응증 | 만성 림프구성 백혈병 이전에 치료받은 적이 없는 만성 림프구성 백혈병 성인 환자에서 오비누투주맙과의 병용 요법 이전에 적어도 하나의 치료를 받은 만성 림프구성 백혈병 성인 환자에서 리툭시맙과의 병용 요법 화학면역요법 및 B 세포 수용체 경로 저해제에 재발 또는 불응인 만성 림프구성… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE)) |
 | 예측 신규 적응증 | Hodgkins lymphoma |
 | TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L5 |

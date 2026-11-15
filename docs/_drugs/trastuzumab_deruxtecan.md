@@ -6,7 +6,7 @@ nav_order: 755
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Trastuzumab Deruxtecan: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨)"
+description: "Trastuzumab Deruxtecan: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 1. 절제 불가능한 또는 전이성 유방암 1) 절제 불가능한 또는 전이성 HER2 양성(IHC3+ 또는…"
 monitor_inn: "TRASTUZUMAB DERUXTECAN"
 predicted_indications: ["drug-induced osteoporosis"]
 ---
@@ -44,7 +44,7 @@ Trastuzumab deruxtecan은 HER2를 표적으로 하는 항체-약물 접합체(AD
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 1. 절제 불가능한 또는 전이성 유방암 1) 절제 불가능한 또는 전이성 HER2 양성(IHC3+ 또는 ISH+) 유방암 환자에서의 1차 치료로서 퍼투주맙과 의 병용요법 2) 이전에 한 가지 이상의 항 HER2 기반의 요법을 투여 받은 절제 불가능한 또는 전이성 HER2 양성(IHC3+… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203608/EE)) |
 | 예측 신규 적응증 | 약물 유발 골다공증 (drug-induced osteoporosis) |
 | TxGNN 예측 점수 | 0.9931 |
 | 근거 수준 | L5 |

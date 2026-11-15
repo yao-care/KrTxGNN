@@ -6,7 +6,7 @@ nav_order: 515
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Miglitol: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 2형 당뇨병 (허가 적응증 원문은 링크로만 제공되어 세부 문구는 확인하지 못함)"
+description: "Miglitol: 예측 신규 적응증 고전형 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 식이요법만으로는 충분히 조절되지 않거나 혹은 식이요법과 설폰닐우레아의 병용요법으로 치료가 되지 않은 인슐린…"
 monitor_inn: "MIGLITOL"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
 ---
@@ -44,7 +44,7 @@ Miglitol은 장관 알파-글루코시다제 억제제로, 한국에서 당뇨�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 2형 당뇨병 (허가 적응증 원문은 링크로만 제공되어 세부 문구는 확인하지 못함) |
+| 기존 적응증 | 식이요법만으로는 충분히 조절되지 않거나 혹은 식이요법과 설폰닐우레아의 병용요법으로 치료가 되지 않은 인슐린 비의존성 당뇨병 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501983/EE)) |
 | 예측 신규 적응증 | 고전형 강직인간증후군 (Classic Stiff Person Syndrome) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 (모델 예측만 있음) |

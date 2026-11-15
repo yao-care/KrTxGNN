@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "ALTEPLASE"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 last_modified_at: 2026-10-31
-description: "Alteplase: 예측 신규 적응증 헤파린 보조인자 2 결핍 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Alteplase: 예측 신규 적응증 헤파린 보조인자 2 결핍 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: 다음의 혈전용해 : 1. 급성심근경색증 2. 급성폐색전증 3. 급성허혈뇌졸중(증상 발현 후 4.5 시간…"
 ---
 
 # Alteplase
@@ -45,7 +45,7 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍(heparin cofactor 2 deficiency)
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504213/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806573/EE) |
+| 기존 적응증 | 다음의 혈전용해 : 1. 급성심근경색증 2. 급성폐색전증 3. 급성허혈뇌졸중(증상 발현 후 4.5 시간 이내에 적절한 영상기법(예, 두개골 CT 또는 출혈을 민감하게 진 단할 수 있는 다른 진단 영상방법)으로 두개 내 출혈이 없음을 확인 후 가능한 신속하게 투여한다. 치료 효 과는… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504213/EE)) |
 | 예측 신규 적응증 | 헤파린 보조인자 2 결핍 (heparin cofactor 2 deficiency) |
 | TxGNN 예측 점수 | 0.9972 |
 | 근거 수준 | L5 |

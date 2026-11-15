@@ -6,7 +6,7 @@ nav_order: 151
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Bismuth Subsalicylate: 예측 신규 적응증 파라티푸스열 (paratyphoid fever) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 허가증 문서 링크로만 제공되어 확인할 수 없습니다. 일반적으로 설사 등 위장관 증상에 사용되는 약입니다"
+description: "Bismuth Subsalicylate: 예측 신규 적응증 파라티푸스열 (paratyphoid fever) (근거 수준 L5). 기존 적응증: - 여행자 설사 및 설사의 완화 - 과식 및 과음으로 인한 복부 불편감 완화 : 속쓰림, 소화불량…"
 monitor_inn: "Bismuth subsalicylate"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "salmonellosis", "typhoid fever", "conjunctivitis", "relapsing fever", "acute contagious conjunctivitis", "gingivitis", "punctate epithelial keratoconjunctivitis", "otitis externa"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **파라티푸스열(paratyphoid fever)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트는 허가증 문서 링크로만 제공되어 확인할 수 없습니다. 일반적으로 설사 등 위장관 증상에 사용되는 약입니다. |
+| 기존 적응증 | - 여행자 설사 및 설사의 완화 - 과식 및 과음으로 인한 복부 불편감 완화 : 속쓰림, 소화불량, 오심(구역), 가스, 트림, 복부팽만감 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600587/EE)) |
 | 예측 신규 적응증 | 파라티푸스열 (paratyphoid fever) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

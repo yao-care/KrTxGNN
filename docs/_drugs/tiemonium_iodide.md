@@ -6,7 +6,7 @@ nav_order: 737
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-06
-description: "Tiemonium Iodide: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 대신 문서 링크만 등록되어 있음)"
+description: "Tiemonium Iodide: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 1. 다음 질환에서의 경련 및 운동장애에 수반되는 동통의 완화 : 위ㆍ십이지장궤양, 위염, 대장염…"
 monitor_inn: "TIEMONIUM IODIDE"
 predicted_indications: ["insomnia (disease)"]
 ---
@@ -44,7 +44,7 @@ Tiemonium iodide(요오드화티에모늄)는 4차 암모늄 계열의 항무스
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 정보에 적응증 본문 대신 문서 링크만 등록되어 있음) |
+| 기존 적응증 | 1. 다음 질환에서의 경련 및 운동장애에 수반되는 동통의 완화 : 위ㆍ십이지장궤양, 위염, 대장염, 담낭ㆍ담도질환 2. 소화관 검사시 전처치 : 내시경검사, X선 검사 3. 비뇨기계 검사처치시 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711329/EE)) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 0.9944 |
 | 근거 수준 | L5 |

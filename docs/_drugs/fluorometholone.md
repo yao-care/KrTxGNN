@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Fluorometholone"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy"]
 last_modified_at: 2026-10-31
-description: "Fluorometholone: 예측 신규 적응증 감염 후 혈관염 (postinfectious vasculitis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Fluorometholone: 예측 신규 적응증 감염 후 혈관염 (postinfectious vasculitis) (근거 수준 L5). 기존 적응증: 외안부 및 전안부의 염증성 질환(안검염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염…"
 ---
 
 # Fluorometholone
@@ -45,7 +45,7 @@ TxGNN 모델은 **감염 후 혈관염(postinfectious vasculitis)**에 효과가
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707502/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100630/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207413/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306498/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901070/EE);  |
+| 기존 적응증 | 외안부 및 전안부의 염증성 질환(안검염, 결막염, 각막염, 공막염, 상공막염, 홍채염, 홍채모양체염, 포도막염, 수술후 염증 등) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707502/EE)) |
 | 예측 신규 적응증 | 감염 후 혈관염 (postinfectious vasculitis) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |

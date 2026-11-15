@@ -6,7 +6,7 @@ nav_order: 444
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-05
-description: "Itraconazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 수록되어 있어 확인 불가 (아졸계 항진균제)"
+description: "Itraconazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 1. 칸디다성 질염 2. 어루러기 3. 피부사상균에 의한 체부백선, 고부백선(완선), 수부백선, 족부백선…"
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **폐포자충증(Pneumocystosis)**에 효과가 있을 수 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 수록되어 있어 확인 불가 (아졸계 항진균제) |
+| 기존 적응증 | 1. 칸디다성 질염 2. 어루러기 3. 피부사상균에 의한 체부백선, 고부백선(완선), 수부백선, 족부백선 4. 구강칸디다증 5. 진균성각막염 6. 손ㆍ발톱진균증 7. 다음과 같은 전신진균감염증 : 아스페르길루스증, 칸디다증, 크립토콕쿠스증(크립토콕쿠스 수막염 포함)… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402364/EE)) |
 | 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 0.9934 |
 | 근거 수준 | L5 (모델 예측 중심, 직접적인 임상 연구 없음) |

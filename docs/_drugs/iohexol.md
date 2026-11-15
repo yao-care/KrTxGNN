@@ -6,7 +6,7 @@ nav_order: 431
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Iohexol: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (비이온성 요오드 조영제, 영상 진단용)"
+description: "Iohexol: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 1. 혈관조영 2. 정맥요로조영(IVP) 3. CT 조영증강 4. 체강조영 : 관절조영, 소화관조영 5…"
 monitor_inn: "Iohexol"
 predicted_indications: ["insomnia (disease)", "anxiety"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (비이온성 요오드 조영제, 영상 진단용) |
+| 기존 적응증 | 1. 혈관조영 2. 정맥요로조영(IVP) 3. CT 조영증강 4. 체강조영 : 관절조영, 소화관조영 5. 조영증강 유방촬영술(Contrast-Enhanced Mammography): 알려지거나 의심스러운 유방병변이 있는 환자 중 ᆞ유방촬영술(mammography)(초음파검사 실시… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200606357/EE)) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 |

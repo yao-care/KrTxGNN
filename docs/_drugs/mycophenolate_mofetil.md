@@ -6,7 +6,7 @@ nav_order: 532
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Mycophenolate Mofetil: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L2). 기존 적응증: 이식 장기 거부반응 예방 (허가 적응증 원문은 허가증 링크로만 제공되어 문헌 기술을 참고함)"
+description: "Mycophenolate Mofetil: 예측 신규 적응증 HIV 감염 (HIV infectious disease) (근거 수준 L2). 기존 적응증: 동종 신장, 심장, 간장 이식환자에 대한 급성 장기 거부반응 방지 이 약은 신장, 심장 또는 간장 이식에서…"
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **HIV 감염(HIV infectious disease)**에 효과가 있을 수 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이식 장기 거부반응 예방 (허가 적응증 원문은 허가증 링크로만 제공되어 문헌 기술을 참고함) |
+| 기존 적응증 | 동종 신장, 심장, 간장 이식환자에 대한 급성 장기 거부반응 방지 이 약은 신장, 심장 또는 간장 이식에서 시클로스포린 및 코르티코스테로이드와 병용 투여해야 한다. ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200606303/EE)) |
 | 예측 신규 적응증 | HIV 감염 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L2 (완료된 Phase 2 무작위 임상시험 1건 및 RCT 문헌 1편, 다만 효과는 제한적) |

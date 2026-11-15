@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome"]
 last_modified_at: 2026-11-12
-description: "Fluorouracil: 예측 신규 적응증 질의 포도상 배아형 횡문근육종 (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 적응증을 확인할 수 없음"
+description: "Fluorouracil: 예측 신규 적응증 질의 포도상 배아형 횡문근육종 (근거 수준 L5). 기존 적응증: 다음과 같은 질환의 자각적 및 타각적 증상의 완화 1. 암종: 결장암, 직장암, 유방암, 위암, 간암…"
 ---
 
 # Fluorouracil
@@ -44,7 +44,7 @@ Fluorouracil은 항대사 계열 세포독성 항암제로, 한국에서 단일�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 적응증을 확인할 수 없음 |
+| 기존 적응증 | 다음과 같은 질환의 자각적 및 타각적 증상의 완화 1. 암종: 결장암, 직장암, 유방암, 위암, 간암, 췌장암, 난소암, 자궁암 2. 다음 질환에 대해서는 다른 항종양제 또는 방사선요법과 병용: 식도암, 폐암, 악암, 설암 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402958/EE)) |
 | 예측 신규 적응증 | 질확 배아형(botryoid) 횡문근육종 (최상위 예측), 횡문근육종 등 |
 | TxGNN 예측 점수 | 0.9975 (최상위 예측 기준) |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 371
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Gefitinib: 예측 신규 적응증 치은 섬유종증 (Fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 허가증에 적응증 텍스트가 아닌 허가사항 문서 링크만 수록되어 있어 이 보고서에서 확인하지 못했습니다. 문헌상 gefitini…"
+description: "Gefitinib: 예측 신규 적응증 치은 섬유종증 (Fibromatosis, gingival) (근거 수준 L5). 기존 적응증: EGFR TK 활성 변이가 있는 국소 진행성 또는 전이성 비소세포폐암의 치료"
 monitor_inn: "GEFITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
 ---
@@ -44,7 +44,7 @@ Gefitinib은 EGFR 티로신 키나제 억제제로, 한국에서 EGFR 변이 양
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 텍스트가 아닌 허가사항 문서 링크만 수록되어 있어 이 보고서에서 확인하지 못했습니다. 문헌상 gefitinib은 EGFR 변이 양성 비소세포폐암에 사용됩니다. |
+| 기존 적응증 | EGFR TK 활성 변이가 있는 국소 진행성 또는 전이성 비소세포폐암의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502377/EE)) |
 | 예측 신규 적응증 | 치은 섬유종증 (Fibromatosis, gingival) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |

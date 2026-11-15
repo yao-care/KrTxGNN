@@ -6,7 +6,7 @@ nav_order: 26
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-11-12
-description: "Adefovir Dipivoxil: 예측 신규 적응증 만성 C형 간염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: 만성 B형 간염 (한국 허가 문서는 링크로만 제공되어 본문은 확인하지 못했으며…"
+description: "Adefovir Dipivoxil: 예측 신규 적응증 만성 C형 간염 (chronic hepatitis C virus infection) (근거 수준 L5). 기존 적응증: (정제) 활동성 바이러스 복제가 확인되고, 혈청 아미노전달효소(ALT 또는 AST) 가 지속적으로…"
 monitor_inn: "ADEFOVIR DIPIVOXIL"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **만성 C형 간염(chronic hepatitis C virus infection)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 만성 B형 간염 (한국 허가 문서는 링크로만 제공되어 본문은 확인하지 못했으며, 이 항목은 문헌과 임상시험 정보를 근거로 기재) |
+| 기존 적응증 | (정제) 활동성 바이러스 복제가 확인되고, 혈청 아미노전달효소(ALT 또는 AST) 가 지속적으로 상승되거나 조직학적으로 활동성 질환이 확인된 만성 B형 간염 바이러스 감염증 환자의 치료 (조직학적, 바이러스학적, 생화학적, 혈청학적 반응을 근거로 대상성 간기능을 나타내는 HBeAg+… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003206/EE)) |
 | 예측 신규 적응증 | 만성 C형 간염 (chronic hepatitis C virus infection) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 (모델 예측만 있고 직접 근거 없음) |

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "SUCRALFATE"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-05
-description: "Sucralfate: 예측 신규 적응증 십이지장 폐쇄 (Duodenal Obstruction) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공됨)"
+description: "Sucralfate: 예측 신규 적응증 십이지장 폐쇄 (Duodenal Obstruction) (근거 수준 L5). 기존 적응증: 1. 주효능 효과 . 위산과다, 위 십이지장궤양, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의…"
 ---
 
 # Sucralfate
@@ -45,7 +45,7 @@ TxGNN 모델은 **십이지장 폐쇄(Duodenal Obstruction)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공됨) |
+| 기존 적응증 | 1. 주효능 효과 . 위산과다, 위 십이지장궤양, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의 개선 : 급성위염, 만성위염의 급성악화기 2. 다음 질환에도 사용할 수 있다. 역류성식도염 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102428/EE)) |
 | 예측 신규 적응증 | 십이지장 폐쇄 (Duodenal Obstruction) |
 | TxGNN 예측 점수 | 0.9930 |
 | 근거 수준 | L5 |

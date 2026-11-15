@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Tobramycin"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 last_modified_at: 2026-10-31
-description: "Tobramycin: 예측 신규 적응증 노출성 각막염 (근거 수준 L5). 기존 적응증: 허가 문서 링크만 있고 적응증 본문은 확인되지 않음 (제형은 점안액·주사제)"
+description: "Tobramycin: 예측 신규 적응증 노출성 각막염 (근거 수준 L5). 기존 적응증: ○ 유효균종 포도구균(황색포도구균, 표피포도구균, 페니실린 내성균 포함), 연쇄구균(일부 그룹…"
 ---
 
 # Tobramycin
@@ -46,7 +46,7 @@ TxGNN 모델은 **노출성 각막염(Exposure keratitis)**에 효과가 있을 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 있고 적응증 본문은 확인되지 않음 (제형은 점안액·주사제) |
+| 기존 적응증 | ○ 유효균종 포도구균(황색포도구균, 표피포도구균, 페니실린 내성균 포함), 연쇄구균(일부 그룹 A-베타용혈성 연쇄구균, 비용혈성 연쇄구균, 폐렴구균 포함), 녹농균, 대장균, 폐렴간균, 엔테로박터 에로제니스, 프로테우스 미라빌리스, 프로테우스 불가리스, 모르가넬라 모르가니… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803990/EE)) |
 | 예측 신규 적응증 | 노출성 각막염 |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 (이 질환을 직접 연구한 시험·문헌 없음) |

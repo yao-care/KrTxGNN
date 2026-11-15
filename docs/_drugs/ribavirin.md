@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "eosinophilic angiocentric fibrosis"]
 last_modified_at: 2026-10-31
-description: "Ribavirin: 예측 신규 적응증 만성 B형 간염 (근거 수준 L2). 기존 적응증: 확인 불가 (허가 적응증 텍스트 없이 원문 링크만 제공됨)"
+description: "Ribavirin: 예측 신규 적응증 만성 B형 간염 (근거 수준 L2). 기존 적응증: (캡슐제)(시럽제) 만성 C형 간염에서 인터페론 알파-2b 또는 페그인터페론 알파-2a,-2b 주사와…"
 ---
 
 # Ribavirin
@@ -46,7 +46,7 @@ TxGNN 모델은 **만성 B형 간염(chronic hepatitis B virus infection)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 텍스트 없이 원문 링크만 제공됨) |
+| 기존 적응증 | (캡슐제)(시럽제) 만성 C형 간염에서 인터페론 알파-2b 또는 페그인터페론 알파-2a,-2b 주사와 병용투여 (흡입제) 유아 및 소아의 Respiratory Syncytial Virus(RSV)에 기인한 하부 호흡기도의 감염증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703103/EE)) |
 | 예측 신규 적응증 | 만성 B형 간염 |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L2 (B형 간염을 직접 다룬 완료된 Phase 3 시험 1건, Phase 2/3 파일럿 1건) |

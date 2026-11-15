@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 last_modified_at: 2026-11-03
-description: "Danazol: 예측 신규 적응증 무월경 (amenorrhea (disease)) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Danazol: 예측 신규 적응증 무월경 (amenorrhea (disease)) (근거 수준 L5). 기존 적응증: 1. 자궁내막증 및 자궁내막증에 의한 불임증 : 임상학적으로 효과적인 최소 유효량을 결정하는 추가시험이…"
 ---
 
 # Danazol
@@ -44,7 +44,7 @@ Danazol은 항성선자극 작용을 가진 합성 안드로겐 유도체입니�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401028/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401033/EE) |
+| 기존 적응증 | 1. 자궁내막증 및 자궁내막증에 의한 불임증 : 임상학적으로 효과적인 최소 유효량을 결정하는 추가시험이 완료될 때까지 호르몬 조절로 가능한 자궁내막증 치료와 다음 환자에게만 투여된다. 1) 다른 약물 요법으로 치료가 안 되는 환자 2) 다른 효과적인 약물에 금기인 환자 3) 다른… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401028/EE)) |
 | 예측 신규 적응증 | 무월경 (amenorrhea (disease)) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |

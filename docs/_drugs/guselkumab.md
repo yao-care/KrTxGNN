@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Guselkumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 last_modified_at: 2026-10-31
-description: "Guselkumab: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Guselkumab: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 1. 판상 건선 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료 2…"
 ---
 
 # Guselkumab
@@ -45,7 +45,7 @@ TxGNN 모델은 **약물 유발 골다공증(drug-induced osteoporosis)**에 효
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202104066/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801604/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502173/EE) |
+| 기존 적응증 | 1. 판상 건선 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 성인 판상 건선의 치료 2. 손발바닥 농포증 보편적인 치료에 반응이 불충분한 중등도에서 중증의 성인 손발바닥 농포증의 치료 3. 건선성 관절염 이전에 DMARDs(disease-modifying… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202104066/EE)) |
 | 예측 신규 적응증 | 약물 유발 골다공증 (drug-induced osteoporosis) |
 | TxGNN 예측 점수 | 0.9984 |
 | 근거 수준 | L5 |

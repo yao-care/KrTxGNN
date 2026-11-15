@@ -6,7 +6,7 @@ nav_order: 743
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Tofisopam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 본문이 아닌 식약처 허가정보 링크로만 제공됨)"
+description: "Tofisopam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 다음 질환에 의한 두통, 두중감, 권태감, 심계항진, 발한 등의 자율신경 증상 : 자율신경불균형…"
 monitor_inn: "TOFISOPAM"
 predicted_indications: ["insomnia (disease)"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 본문이 아닌 식약처 허가정보 링크로만 제공됨) |
+| 기존 적응증 | 다음 질환에 의한 두통, 두중감, 권태감, 심계항진, 발한 등의 자율신경 증상 : 자율신경불균형, 두부·경부 손상, 갱년기장애·난소기능상실 증상 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199502666/EE)) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 0.9916 |
 | 근거 수준 | L5 |

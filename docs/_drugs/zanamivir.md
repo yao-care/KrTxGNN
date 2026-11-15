@@ -6,7 +6,7 @@ nav_order: 789
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Zanamivir: 예측 신규 적응증 신우신염 (Pyelonephritis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 기재). 신경아미니다제 억제제로서 인플루엔자 치료제로 알려져 있음"
+description: "Zanamivir: 예측 신규 적응증 신우신염 (Pyelonephritis) (근거 수준 L5). 기존 적응증: 1. 성인 및 7세 이상 소아에서 인플루엔자 A 및 인플루엔자 B 바이러스 감염증의 치료(인플루엔자 감염의…"
 monitor_inn: "zanamivir"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **신우신염(Pyelonephritis)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 기재). 신경아미니다제 억제제로서 인플루엔자 치료제로 알려져 있음 |
+| 기존 적응증 | 1. 성인 및 7세 이상 소아에서 인플루엔자 A 및 인플루엔자 B 바이러스 감염증의 치료(인플루엔자 감염의 초기증상 발현 48시간 이내에 투여를 시작해야 한다.) 2. 성인 및 7세 이상 소아에서 인플루엔자 A 및 인플루엔자 B 바이러스 감염증의 예방(인플루엔자 바이러스 감염증에 대한… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008732/EE)) |
 | 예측 신규 적응증 | 신우신염 (Pyelonephritis) |
 | TxGNN 예측 점수 | 0.9984 |
 | 근거 수준 | L5 |

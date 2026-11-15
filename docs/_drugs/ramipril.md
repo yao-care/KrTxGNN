@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Ramipril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 last_modified_at: 2026-11-05
-description: "Ramipril: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 데이터에 포함되지 않음)"
+description: "Ramipril: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (근거 수준 L5). 기존 적응증: 1. 고혈압 2. 심근경색 후 심부전 3. 심혈관 질환(심근경색,불안정형 협심증, 다혈관성…"
 ---
 
 # Ramipril
@@ -52,7 +52,7 @@ TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압**에 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문이 데이터에 포함되지 않음) |
+| 기존 적응증 | 1. 고혈압 2. 심근경색 후 심부전 3. 심혈관 질환(심근경색,불안정형 협심증, 다혈관성 관상동맥회로이식술 또는 다혈관성 경피적 관상동맥 성형술의 과거 병력), 뇌졸증 또는 말초혈관성 질환의 임상적 증거를 가지고 있는 55세 이상의 환자에서 심근경색,뇌졸증, 심혈관 질환으로 인한… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502436/EE)) |
 | 예측 신규 적응증 | 폐질환 및/또는 저산소증에 의한 폐고혈압 |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 (쥐 전임상 연구 1편이 해당 질환을 직접 다룸) |

@@ -6,7 +6,7 @@ nav_order: 661
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-31
-description: "Rivaroxaban: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (항응고제로 사용)"
+description: "Rivaroxaban: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 1. 비판막성 심방세동 환자에서 뇌졸중 및 전신 색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의…"
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
 ---
@@ -44,7 +44,7 @@ Rivaroxaban은 경구용 Xa 인자 억제 항응고제로, 한국에서 20건의
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 구체적 문구를 확인할 수 없음 (항응고제로 사용) |
+| 기존 적응증 | 1. 비판막성 심방세동 환자에서 뇌졸중 및 전신 색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의 치료 3. 심재성 정맥혈전증 및 폐색전증의 재발 위험 감소 4. 하지의 주요 정형외과 수술(슬관절 또는 고관절 치환술)을 받은 성인 환자의 정맥혈전색전증 예방 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103494/EE)) |
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
 | TxGNN 예측 점수 | 0.9957 |
 | 근거 수준 | L5 |

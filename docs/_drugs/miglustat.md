@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Miglustat"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
 last_modified_at: 2026-10-31
-description: "Miglustat: 예측 신규 적응증 치명적 경과의 상염색체 어린선 증후군 (근거 수준 L5). 기존 적응증: 허가 문서가 링크로만 제공되어 적응증 본문을 확인할 수 없습니다. 약리 데이터베이스에는 고셰병 치료에 사용된다고 기재되어 있…"
+description: "Miglustat: 예측 신규 적응증 치명적 경과의 상염색체 어린선 증후군 (근거 수준 L5). 기존 적응증: • 효소대체요법에 적합하지 않은 경증~중등도의 제1형 고셔병 질환의 치료 • C형, 니만-피크 질환을 가진…"
 ---
 
 # Miglustat
@@ -44,7 +44,7 @@ Miglustat은 한국에서 자베스카캡슐100밀리그램(한국얀센)으로 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서가 링크로만 제공되어 적응증 본문을 확인할 수 없습니다. 약리 데이터베이스에는 고셰병 치료에 사용된다고 기재되어 있으나, 허가 문구로 확인된 내용은 아닙니다. |
+| 기존 적응증 | • 효소대체요법에 적합하지 않은 경증~중등도의 제1형 고셔병 질환의 치료 • C형, 니만-피크 질환을 가진 환자의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200902328/EE)) |
 | 예측 신규 적응증 | 치명적 경과의 상염색체 어린선 증후군 |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 (모델 예측만 있음) |

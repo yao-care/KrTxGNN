@@ -6,7 +6,7 @@ nav_order: 441
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Isosorbide Mononitrate: 예측 신규 적응증 다모증 (Hypertrichosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다. 허가증에는 문서 링크만 있습니다"
+description: "Isosorbide Mononitrate: 예측 신규 적응증 다모증 (Hypertrichosis) (근거 수준 L5). 기존 적응증: 1. 관동맥심질환(협심증, 심근경색 등) 2. 울혈성심부전의 보조요법(강심배당체 또는 이뇨제와 병용)"
 monitor_inn: "Isosorbide mononitrate"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
 ---
@@ -44,7 +44,7 @@ Isosorbide mononitrate는 일산화질소(NO) 공여체 계열의 혈관확장�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다. 허가증에는 문서 링크만 있습니다. |
+| 기존 적응증 | 1. 관동맥심질환(협심증, 심근경색 등) 2. 울혈성심부전의 보조요법(강심배당체 또는 이뇨제와 병용) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198601383/EE)) |
 | 예측 신규 적응증 | 다모증 (Hypertrichosis) |
 | TxGNN 예측 점수 | 1.0000 (전체 순위 265위) |
 | 근거 수준 | L5 |

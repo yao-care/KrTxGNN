@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "almotriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 last_modified_at: 2026-10-31
-description: "Almotriptan: 예측 신규 적응증 위축성 벌레 모양 피부증 (atrophoderma vermiculata) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Almotriptan: 예측 신규 적응증 위축성 벌레 모양 피부증 (atrophoderma vermiculata) (근거 수준 L5). 기존 적응증: • 성인: 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료. • 15세 이상의 청소년: 전조증상을…"
 ---
 
 # Almotriptan
@@ -45,7 +45,7 @@ TxGNN 모델은 **위축성 벌레 모양 피부증(atrophoderma vermiculata)**�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802188/EE) |
+| 기존 적응증 | • 성인: 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료. • 15세 이상의 청소년: 전조증상을 수반하거나 수반하지 않고, 치료없이 4시간 이상 지속되는 편두통의 통증 급성치료. 단, 편두통 관련 증상(눈부심, 소리공포증, 구역)에 대한 이 약의 유효성은 확립되지 않았다. ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802188/EE)) |
 | 예측 신규 적응증 | 위축성 벌레 모양 피부증 (atrophoderma vermiculata) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 437
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Isavuconazonium: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않아 확인할 수 없음 (허가사항 PDF 링크만 제공됨)"
+description: "Isavuconazonium: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 1. 만 18세 이상 성인에서의 침습성 아스페르길루스증 치료 2. 만 18세 이상 성인에서의 암포테리신 B…"
 monitor_inn: "isavuconazonium"
 predicted_indications: ["pneumocystosis", "mycetoma"]
 ---
@@ -44,7 +44,7 @@ Isavuconazonium은 한국에서 크레셈바(캡슐·주사제)로 시판 중인
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 제공되지 않아 확인할 수 없음 (허가사항 PDF 링크만 제공됨) |
+| 기존 적응증 | 1. 만 18세 이상 성인에서의 침습성 아스페르길루스증 치료 2. 만 18세 이상 성인에서의 암포테리신 B 투여가 적합하지 않은 침습성 털곰팡이증 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000447/EE)) |
 | 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 0.9956 |
 | 근거 수준 | L5 |

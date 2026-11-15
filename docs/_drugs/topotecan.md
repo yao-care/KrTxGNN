@@ -6,7 +6,7 @@ nav_order: 748
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Topotecan: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
+description: "Topotecan: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L5). 기존 적응증: 1. 표준화학요법에 실패한 전이성 난소암 2. 1차 화학요법에 실패한 재발성 소세포폐암 3. 수술요법 또는…"
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 1. 표준화학요법에 실패한 전이성 난소암 2. 1차 화학요법에 실패한 재발성 소세포폐암 3. 수술요법 또는 방사선 요법으로 치료되지 않는 Ⅳ-B기, 재발성, 지속성 자궁경부암 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108697/EE)) |
 | 예측 신규 적응증 | 여성 유방암 (female breast carcinoma) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

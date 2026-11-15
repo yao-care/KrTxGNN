@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-04
 monitor_inn: "GLECAPREVIR"
 predicted_indications: ["HIV infectious disease", "hepatitis B virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-description: "Glecaprevir: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Glecaprevir: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 만성 C형 간염 바이러스(hepatitis C virus; HCV) 유전자형 1, 2, 3, 4, 5…"
 ---
 
 # Glecaprevir
@@ -44,7 +44,7 @@ Glecaprevir는 C형간염 바이러스(HCV)의 NS3/4A 단백질분해효소를 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800200/EE) |
+| 기존 적응증 | 만성 C형 간염 바이러스(hepatitis C virus; HCV) 유전자형 1, 2, 3, 4, 5, 또는 6 형에 감염된 성인 및 만 12세 이상 청소년 환자의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800200/EE)) |
 | 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 |

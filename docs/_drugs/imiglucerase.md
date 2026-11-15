@@ -6,7 +6,7 @@ nav_order: 417
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Imiglucerase: 예측 신규 적응증 헐러 증후군 (Hurler syndrome, MPS I) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 허가증 문서 링크로만 제공되어 구체적인 문구를 확인할 수 없음(고셰병 효소대체요법으로 사용)"
+description: "Imiglucerase: 예측 신규 적응증 헐러 증후군 (Hurler syndrome, MPS I) (근거 수준 L5). 기존 적응증: 다음의 적응증 중 한가지 이상의 증상을 나타내는 타입 I 고셔병으로 확진된 환자에서 장기간 효소…"
 monitor_inn: "Imiglucerase"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **헐러 증후군(Hurler syndrome)**에 효과가 있을 수 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 허가증 문서 링크로만 제공되어 구체적인 문구를 확인할 수 없음(고셰병 효소대체요법으로 사용) |
+| 기존 적응증 | 다음의 적응증 중 한가지 이상의 증상을 나타내는 타입 I 고셔병으로 확진된 환자에서 장기간 효소 대체요법으로 사용한다. * 철결핍 이외의 원인으로 인한 빈혈 * 혈소판 감소 * 비타민 D결핍 이외의 원인으로 인한 골질환 * 간비대증 또는 비장비대증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207109/EE)) |
 | 예측 신규 적응증 | 헐러 증후군 (Hurler syndrome, MPS I) |
 | TxGNN 예측 점수 | 0.9952 |
 | 근거 수준 | L5 |

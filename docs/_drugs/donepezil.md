@@ -6,7 +6,7 @@ nav_order: 287
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-31
-description: "Donepezil: 예측 신규 적응증 심인성 운동장애 (Psychogenic Movement Disorders) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트 미확인 (허가증은 PDF 링크로만 제공됨. 일반적으로 알츠하이머형 치매 치료제로 알려져 있음)"
+description: "Donepezil: 예측 신규 적응증 심인성 운동장애 (Psychogenic Movement Disorders) (근거 수준 L5). 기존 적응증: 알츠하이머형 치매증상의 치료"
 monitor_inn: "DONEPEZIL"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **심인성 운동장애(Psychogenic Movement Disorders)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트 미확인 (허가증은 PDF 링크로만 제공됨. 일반적으로 알츠하이머형 치매 치료제로 알려져 있음) |
+| 기존 적응증 | 알츠하이머형 치매증상의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405368/EE)) |
 | 예측 신규 적응증 | 심인성 운동장애 (Psychogenic Movement Disorders) |
 | TxGNN 예측 점수 | 0.9923 |
 | 근거 수준 | L5 |

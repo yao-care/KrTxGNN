@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "NORFLOXACIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 last_modified_at: 2026-11-06
-description: "Norfloxacin: 예측 신규 적응증 고아밀라아제혈증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨)"
+description: "Norfloxacin: 예측 신규 적응증 고아밀라아제혈증 (근거 수준 L5). 기존 적응증: ○ 유효균종 포도구균, 연쇄구균, 장내구균, 폐렴구균, 임균, 대장균, 시트로박터, 살모넬라(티푸스균…"
 ---
 
 # Norfloxacin
@@ -44,7 +44,7 @@ Norfloxacin은 플루오로퀴놀론 계열 항균제로, 한국에서 단일 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | ○ 유효균종 포도구균, 연쇄구균, 장내구균, 폐렴구균, 임균, 대장균, 시트로박터, 살모넬라(티푸스균, 파라티푸스균 제외), 시겔라, 클레브시엘라, 엔테로박터, 세라티아, 프로테우스, 모르가넬라 모르가니, 콜레라균, 장염비브리오, 녹농균, 헤모필루스 인플루엔자, 캄필로박터 ○ 적응증… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701631/EE)) |
 | 예측 신규 적응증 | 고아밀라아제혈증 |
 | TxGNN 예측 점수 | 0.9970 |
 | 근거 수준 | L5 |

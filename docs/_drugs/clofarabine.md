@@ -6,7 +6,7 @@ nav_order: 225
 evidence_level: L1
 indication_count: 8
 last_modified_at: 2026-10-31
-description: "Clofarabine: 예측 신규 적응증 골수성 백혈병 (Myeloid Leukemia) (근거 수준 L1). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요)"
+description: "Clofarabine: 예측 신규 적응증 골수성 백혈병 (Myeloid Leukemia) (근거 수준 L1). 기존 적응증: 이전에 실시된 두 가지 이상의 타 치료법에 반응하지 않거나 재발한 경우로서 지속적인 관해를 유도할…"
 monitor_inn: "CLOFARABINE"
 predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **골수성 백혈병(Myeloid Leukemia)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요) |
+| 기존 적응증 | 이전에 실시된 두 가지 이상의 타 치료법에 반응하지 않거나 재발한 경우로서 지속적인 관해를 유도할 다른치료법이 없는 소아 환자의 급성 림프구성 백혈병의 치료 처음 진단 당시 21세 이하인 환자들을 대상으로 안전성, 유효성이 평가되었다. 이는 완전 관해 유도에 근거한 것으로, 생존율… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102595/EE)) |
 | 예측 신규 적응증 | 골수성 백혈병 (Myeloid Leukemia) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L1 (완료된 Phase 3 RCT 2건: NCT02085408, NCT00317642) |

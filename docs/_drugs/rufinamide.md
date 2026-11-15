@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 monitor_inn: "RUFINAMIDE"
 predicted_indications: ["perioral myoclonia with absences"]
-description: "Rufinamide: 예측 신규 적응증 Perioral myoclonia with absences (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Rufinamide: 예측 신규 적응증 Perioral myoclonia with absences (근거 수준 L5). 기존 적응증: 이 약은 1세 이상의 환자에서 레녹스-가스토 증후군과 관련된 발작 치료 시 부가요법으로 사용된다."
 ---
 
 # Rufinamide
@@ -44,7 +44,7 @@ Rufinamide는 한국에서 항전간제로 허가·시판 중인 단일 성분 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905916/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905915/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905917/EE) |
+| 기존 적응증 | 이 약은 1세 이상의 환자에서 레녹스-가스토 증후군과 관련된 발작 치료 시 부가요법으로 사용된다. ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905916/EE)) |
 | 예측 신규 적응증 | Perioral myoclonia with absences |
 | TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L5 |

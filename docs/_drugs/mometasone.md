@@ -6,7 +6,7 @@ nav_order: 528
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-05
-description: "Mometasone: 예측 신규 적응증 원발성 피부 T세포 림프종 (Primary Cutaneous T-cell Lymphoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 제공되지 않았습니다(허가사항 문서 링크만 확인됨). 참고로 약리 자료에는 비강 내 사용 시 천식…"
+description: "Mometasone: 예측 신규 적응증 원발성 피부 T세포 림프종 (Primary Cutaneous T-cell Lymphoma) (근거 수준 L5). 기존 적응증: 1. 성인 및 2세 이상의 소아 : 계절 알레르기비염 및 연중비염. 중등도 ∼ 중증의 계절 알레르기 비염의…"
 monitor_inn: "mometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **원발성 피부 T세포 림프종(Primary Cutaneous T-cell Ly
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 제공되지 않았습니다(허가사항 문서 링크만 확인됨). 참고로 약리 자료에는 비강 내 사용 시 천식, 알레르기 비염, 비용종(코폴립)에, 국소 도포 시 알레르기성 피부 질환에 사용되는 것으로 기재되어 있습니다. |
+| 기존 적응증 | 1. 성인 및 2세 이상의 소아 : 계절 알레르기비염 및 연중비염. 중등도 ∼ 중증의 계절 알레르기 비염의 증상이 있었던 환자에서 예방요 법은 화분기 시작 예정일(알러젠 노출예정일)의 2 ∼ 4주 전에 시작할 수 있다. 2. 18세 이상의 성인 : 비용종 3. 성인 및 12세 이상의… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904800/EE)) |
 | 예측 신규 적응증 | 원발성 피부 T세포 림프종 (Primary Cutaneous T-cell Lymphoma) |
 | TxGNN 예측 점수 | 0.9936 |
 | 근거 수준 | L5 (기전적 타당성만 있으며, 이 약물에 특이적인 연구는 없음) |

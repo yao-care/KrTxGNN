@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
 last_modified_at: 2026-11-12
-description: "Amikacin: 예측 신규 적응증 파라티푸스 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (아미노글리코시드계 항균제)"
+description: "Amikacin: 예측 신규 적응증 파라티푸스 (근거 수준 L5). 기존 적응증: ○ 유효균종 겐타마이신내성 녹농균, 프로테우스, 세라티아, 대장균, 클레브시엘라, 엔테로박터, 시트로박터…"
 ---
 
 # Amikacin
@@ -44,7 +44,7 @@ Amikacin은 그람음성균 감염에 쓰이는 아미노글리코시드계 주�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (아미노글리코시드계 항균제) |
+| 기존 적응증 | ○ 유효균종 겐타마이신내성 녹농균, 프로테우스, 세라티아, 대장균, 클레브시엘라, 엔테로박터, 시트로박터, 프로비덴시 아, 아시네토박터, 포도구균 ○ 적응증 - 패혈증, 기관지확장증(감염 시), 폐렴, 폐농양 - 중추신경계감염증(수막염 등) - 골 및 관절감염증 - 화상 및 수술 후… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002333/EE)) |
 | 예측 신규 적응증 | 파라티푸스 |
 | TxGNN 예측 점수 | 0.9982 |
 | 근거 수준 | L5 |

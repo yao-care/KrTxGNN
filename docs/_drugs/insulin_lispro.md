@@ -6,7 +6,7 @@ nav_order: 428
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-11-03
-description: "Insulin Lispro: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 당뇨병 혈당 조절 (허가 적응증 원문은 링크 형태로만 제공되어 상세 문구 확인 불가)"
+description: "Insulin Lispro: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 인슐린 요법이 요구되는 당뇨병"
 monitor_inn: "INSULIN LISPRO"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 당뇨병 혈당 조절 (허가 적응증 원문은 링크 형태로만 제공되어 상세 문구 확인 불가) |
+| 기존 적응증 | 인슐린 요법이 요구되는 당뇨병 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209624/EE)) |
 | 예측 신규 적응증 | 자가면역성 난소염 (autoimmune oophoritis) |
 | TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 |

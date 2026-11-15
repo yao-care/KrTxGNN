@@ -6,7 +6,7 @@ nav_order: 452
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Lacosamide: 예측 신규 적응증 조증 양극성장애 (manic bipolar affective disorder) (근거 수준 L5). 기존 적응증: 항전간제(간질 발작 치료). 허가 적응증 본문은 링크 형태로만 확인되어 문구를 인용하지 못했습니다"
+description: "Lacosamide: 예측 신규 적응증 조증 양극성장애 (manic bipolar affective disorder) (근거 수준 L5). 기존 적응증: 16세 이상의 뇌전증 환자에서 2차성 전신발작을 동반하거나 동반하지 않는 부분발작 치료의 부가요법"
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **조증 양극성장애(manic bipolar affective disorder)**에 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 항전간제(간질 발작 치료). 허가 적응증 본문은 링크 형태로만 확인되어 문구를 인용하지 못했습니다 |
+| 기존 적응증 | 16세 이상의 뇌전증 환자에서 2차성 전신발작을 동반하거나 동반하지 않는 부분발작 치료의 부가요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605711/EE)) |
 | 예측 신규 적응증 | 조증 양극성장애 (manic bipolar affective disorder) |
 | TxGNN 예측 점수 | 0.9996 (전체 순위 1,349위) |
 | 근거 수준 | L5 (관찰 연구 수준) |

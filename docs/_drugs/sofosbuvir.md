@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-04
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
-description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L3). 기존 적응증: 간경변이 없거나 대상성 간경변(Child-Pugh A)이 있는 만성 C형 간염 바이러스(Hepatitis…"
 ---
 
 # Sofosbuvir
@@ -45,7 +45,7 @@ TxGNN 모델은 **B형 간염 바이러스 감염(hepatitis B virus infection)**
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201161/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200754/EE) |
+| 기존 적응증 | 간경변이 없거나 대상성 간경변(Child-Pugh A)이 있는 만성 C형 간염 바이러스(Hepatitis C virus, HCV) 감염 성인 환자 중 - NS5A 억제제가 포함된 HCV 요법으로 치료경험이 있는 유전자형 1, 2, 3, 4, 5 또는 6 형 만성 HCV 감염환자의… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201161/EE)) |
 | 예측 신규 적응증 | B형 간염 바이러스 감염 (hepatitis B virus infection) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L3 |

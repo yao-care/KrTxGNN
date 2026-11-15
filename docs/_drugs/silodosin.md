@@ -6,7 +6,7 @@ nav_order: 691
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-11-05
-description: "Silodosin: 예측 신규 적응증 Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 링크 형태로만 제공되어 확인할 수 없습니다. 이 약은 양성 전립선 비대증 치료제로 알려져 있습니다"
+description: "Silodosin: 예측 신규 적응증 Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 전립선 비대증에 수반하는 배뇨장애"
 monitor_inn: "SILODOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 ---
@@ -44,7 +44,7 @@ Silodosin은 선택적 알파-1A 아드레날린 수용체 길항제로, 한국�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 링크 형태로만 제공되어 확인할 수 없습니다. 이 약은 양성 전립선 비대증 치료제로 알려져 있습니다. |
+| 기존 적응증 | 전립선 비대증에 수반하는 배뇨장애 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502717/EE)) |
 | 예측 신규 적응증 | Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

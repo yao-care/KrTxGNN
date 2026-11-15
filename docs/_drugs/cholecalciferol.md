@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "CHOLECALCIFEROL"
 predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "renal osteodystrophy", "renal tubular acidosis"]
 last_modified_at: 2026-10-31
-description: "Cholecalciferol: 예측 신규 적응증 말단중간이형성증, Campailla Martinelli형 (근거 수준 L5). 기존 적응증: 이 보고서의 데이터에는 허가 적응증 본문이 없고 허가 문서 링크만 있어 확인할 수 없습니다"
+description: "Cholecalciferol: 예측 신규 적응증 말단중간이형성증, Campailla Martinelli형 (근거 수준 L5). 기존 적응증: 1. 비타민 D가 결핍된 고령자 및 청소년에서의 비타민D 결핍의 예방과 치료 2. 비타민 D가 결핍된…"
 ---
 
 # Cholecalciferol
@@ -44,7 +44,7 @@ description: "Cholecalciferol: 예측 신규 적응증 말단중간이형성증,
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 보고서의 데이터에는 허가 적응증 본문이 없고 허가 문서 링크만 있어 확인할 수 없습니다 |
+| 기존 적응증 | 1. 비타민 D가 결핍된 고령자 및 청소년에서의 비타민D 결핍의 예방과 치료 2. 비타민 D가 결핍된 성인에서의 비타민D 결핍의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400968/EE)) |
 | 예측 신규 적응증 | 말단중간이형성증, Campailla Martinelli형 |
 | TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 |

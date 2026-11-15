@@ -6,7 +6,7 @@ nav_order: 472
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-05
-description: "Levodopa: 예측 신규 적응증 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 데이터에 포함되어 있지 않습니다(허가증 링크만 확인됨). 약물 특성상 파킨슨병 치료제로 알려져 있습니다"
+description: "Levodopa: 예측 신규 적응증 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) (근거 수준 L5). 기존 적응증: 레보도파/도파탈탄산효소(Dopadecarboxylase ; DDC) 억제제 표준치료제로 개선되지 않는…"
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 데이터에 포함되어 있지 않습니다(허가증 링크만 확인됨). 약물 특성상 파킨슨병 치료제로 알려져 있습니다. |
+| 기존 적응증 | 레보도파/도파탈탄산효소(Dopadecarboxylase ; DDC) 억제제 표준치료제로 개선되지 않는 파킨슨씨병 환자의 운동 동요 증상(end-of-dose motor fluctuations)의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506801/EE)) |
 | 예측 신규 적응증 | 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) |
 | TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |

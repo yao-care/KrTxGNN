@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "LAMIVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 last_modified_at: 2026-11-05
-description: "Lamivudine: 예측 신규 적응증 시미안 면역결핍 바이러스 감염 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크 형태로만 제공되어 내용 확인 불가)"
+description: "Lamivudine: 예측 신규 적응증 시미안 면역결핍 바이러스 감염 (근거 수준 L5). 기존 적응증: 만성 활동성 B형 간염 바이러스 감염증 환자(혈중 HBV-DNA 양성환자에 한함)의 바이러스 증식억제…"
 ---
 
 # Lamivudine
@@ -45,7 +45,7 @@ TxGNN 모델은 **시미안 면역결핍 바이러스 감염(Simian Immunodefici
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문이 링크 형태로만 제공되어 내용 확인 불가) |
+| 기존 적응증 | 만성 활동성 B형 간염 바이러스 감염증 환자(혈중 HBV-DNA 양성환자에 한함)의 바이러스 증식억제. 만성B형 간염 치료를 처음으로 시작하는 경우 : 라미부딘 투여 환자에서 내성 발현율이 높으므로, 내성에 대한 더 높은 유전적 장벽(genetic barrier)이 있는 다른… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001033/EE)) |
 | 예측 신규 적응증 | 시미안 면역결핍 바이러스 감염 |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 |

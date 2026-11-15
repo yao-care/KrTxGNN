@@ -6,7 +6,7 @@ nav_order: 493
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Magnesium Lactate: 예측 신규 적응증 무통성 전신 비만세포증 (Smouldering systemic mastocytosis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 없이 외부 문서 링크만 제공됨)"
+description: "Magnesium Lactate: 예측 신규 적응증 무통성 전신 비만세포증 (Smouldering systemic mastocytosis) (근거 수준 L5). 기존 적응증: ○ 마그네슘 결핍으로 인한 근육 경련 ○ 불안에 의한 경련 증상"
 monitor_inn: "MAGNESIUM LACTATE"
 predicted_indications: ["Smouldering systemic mastocytosis", "systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "bacterial arthritis", "peptic esophagitis", "ankylosing spondylitis", "gout", "gastrin secretion abnormality", "rheumatoid vasculitis", "inflammatory spondylopathy"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **무통성 전신 비만세포증(Smouldering Systemic Mastocyt
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 정보에 적응증 본문 없이 외부 문서 링크만 제공됨) |
+| 기존 적응증 | ○ 마그네슘 결핍으로 인한 근육 경련 ○ 불안에 의한 경련 증상 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403927/EE)) |
 | 예측 신규 적응증 | 무통성 전신 비만세포증 (Smouldering systemic mastocytosis) |
 | TxGNN 예측 점수 | 0.9978 |
 | 근거 수준 | L5 |

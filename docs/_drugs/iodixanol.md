@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Iodixanol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
 last_modified_at: 2026-10-31
-description: "Iodixanol: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 텍스트로 포함되어 있지 않음 (허가증에는 첨부문서 링크만 있음)"
+description: "Iodixanol: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 1. 성인에 있어서 다음의 조영술에 X선 조영제로 투여한다. 심혈관조영, 뇌혈관조영(종래의 조영술)…"
 ---
 
 # Iodixanol
@@ -45,7 +45,7 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 데이터에 텍스트로 포함되어 있지 않음 (허가증에는 첨부문서 링크만 있음) |
+| 기존 적응증 | 1. 성인에 있어서 다음의 조영술에 X선 조영제로 투여한다. 심혈관조영, 뇌혈관조영(종래의 조영술), 말초동맥조영(종래의 조영술), 복부혈관조영(동맥 DSA), 정맥요로 조영(IVP), 정맥조영, CT 조영증강, 척수조영(요추, 흉추, 경추), 관절조영, 자궁난관조영, 소화관조영 2… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806675/EE)) |
 | 예측 신규 적응증 | 골관절염 |
 | TxGNN 예측 점수 | 0.9907 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 last_modified_at: 2026-10-31
-description: "Pertuzumab: 예측 신규 적응증 외배엽간엽종 (ectomesenchymoma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Pertuzumab: 예측 신규 적응증 외배엽간엽종 (ectomesenchymoma) (근거 수준 L5). 기존 적응증: ○ 전이성 유방암 - 전이성 질환에 대해 항-HER2 치료 또는 화학요법 치료를 받은 적이 없는, HER2…"
 ---
 
 # Pertuzumab
@@ -45,7 +45,7 @@ TxGNN 모델은 **외배엽간엽종(ectomesenchymoma)**에 효과가 있을 수
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106366/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307522/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106365/EE) |
+| 기존 적응증 | ○ 전이성 유방암 - 전이성 질환에 대해 항-HER2 치료 또는 화학요법 치료를 받은 적이 없는, HER2 양성 환자로서 전이성 또는 절제 불가능한 국소 재발성 유방암 환자에게 도세탁셀과 병용투여 ○ 조기 유방암 - 국소진행성, 염증성 또는 초기 단계(지름 2㎝ 초과)인 HER2 양성… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106366/EE)) |
 | 예측 신규 적응증 | 외배엽간엽종 (ectomesenchymoma) |
 | TxGNN 예측 점수 | 0.9971 |
 | 근거 수준 | L5 |

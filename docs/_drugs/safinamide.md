@@ -6,7 +6,7 @@ nav_order: 679
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Safinamide: 예측 신규 적응증 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 기재됨)"
+description: "Safinamide: 예측 신규 적응증 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) (근거 수준 L5). 기존 적응증: 운동 동요 증상(end of dose motor fluctuations)이 있는 특발성 파킨슨병 환자에서…"
 monitor_inn: "safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 기재됨) |
+| 기존 적응증 | 운동 동요 증상(end of dose motor fluctuations)이 있는 특발성 파킨슨병 환자에서 레보도파 함유 제제의보조요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004635/EE)) |
 | 예측 신규 적응증 | 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) |
 | TxGNN 예측 점수 | 0.9963 |
 | 근거 수준 | L5 |

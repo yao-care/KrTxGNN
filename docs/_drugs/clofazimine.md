@@ -6,7 +6,7 @@ nav_order: 226
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-11-03
-description: "Clofazimine: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 문서 링크 형태로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조 필요)"
+description: "Clofazimine: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 1. 한센병 1) 나병종나병과 중간나병 2) 답손에 내성이 있는 나병종나병과 중간나병 3) 나병결절홍반과…"
 monitor_inn: "CLOFAZIMINE"
 predicted_indications: ["pneumocystosis", "malaria", "gastrin secretion abnormality"]
 ---
@@ -44,7 +44,7 @@ Clofazimine은 리미노페나진(riminophenazine) 계열 항마이코박테리�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 문서 링크 형태로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조 필요) |
+| 기존 적응증 | 1. 한센병 1) 나병종나병과 중간나병 2) 답손에 내성이 있는 나병종나병과 중간나병 3) 나병결절홍반과 같은 나병반응 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706794/EE)) |
 | 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 (모델 예측 중심, 직접적인 연구 없음) |

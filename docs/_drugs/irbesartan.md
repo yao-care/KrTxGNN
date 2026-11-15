@@ -6,7 +6,7 @@ nav_order: 436
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Irbesartan: 예측 신규 적응증 악성 고혈압성 신질환 (Malignant Hypertensive Renal Disease) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인 불가 (허가 문서 링크만 확인됨)"
+description: "Irbesartan: 예측 신규 적응증 악성 고혈압성 신질환 (Malignant Hypertensive Renal Disease) (근거 수준 L5). 기존 적응증: 본태고혈압 1. 단일요법으로 혈압이 적절히 조절되지 않는 환자 2. 중등도 또는 중증 고혈압(stage…"
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **악성 고혈압성 신질환(Malignant Hypertensive Renal Dis
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 텍스트로 제공되지 않아 확인 불가 (허가 문서 링크만 확인됨) |
+| 기존 적응증 | 본태고혈압 1. 단일요법으로 혈압이 적절히 조절되지 않는 환자 2. 중등도 또는 중증 고혈압(stage 2) 환자와 같이 치료 목표 혈압에 도달하기 위해 복합제 투여가 필요한 경우의 초기요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307384/EE)) |
 | 예측 신규 적응증 | 악성 고혈압성 신질환 (Malignant Hypertensive Renal Disease) |
 | TxGNN 예측 점수 | 0.9931 |
 | 근거 수준 | L5 |

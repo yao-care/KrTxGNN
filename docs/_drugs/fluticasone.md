@@ -6,7 +6,7 @@ nav_order: 362
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-11-05
-description: "Fluticasone: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증은 MFDS 허가사항 문서 링크로만 제공되어 본문이 없음)"
+description: "Fluticasone: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: 1. 기관지 천식 1) 성인 : 다음 경우에 있어서의 천식의 예방적 치료 (1) 경증 천식(PEF 80%…"
 monitor_inn: "fluticasone"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증은 MFDS 허가사항 문서 링크로만 제공되어 본문이 없음) |
+| 기존 적응증 | 1. 기관지 천식 1) 성인 : 다음 경우에 있어서의 천식의 예방적 치료 (1) 경증 천식(PEF 80% 초과) 일상생활 속에서 간헐적으로 기관지확장제 투여가 필요한 환자 (2) 중등도 천식(PEF 60∼80%) 정기적인 천식치료를 필요로 하는 경우 현행 예방적 치료나 기관지확장제… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307778/EE)) |
 | 예측 신규 적응증 | 편두통 (migraine disorder) |
 | TxGNN 예측 점수 | 0.9920 |
 | 근거 수준 | L5 |

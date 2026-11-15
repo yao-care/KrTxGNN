@@ -46,7 +46,7 @@ TxGNN 모델은 **마미증후군(Cauda Equina Syndrome)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 점안제 제품(안구 충혈 완화, 안구건조 증상 완화 등). 허가 적응증 원문은 링크 형태로만 확인되어 상세 문구는 허가사항 참조 필요 |
+| 기존 적응증 | 자극에 의한 눈의 충혈 및 건조상태의 일시적 경감 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201101880/EE)) |
 | 예측 신규 적응증 | 마미증후군 (Cauda Equina Syndrome) |
 | TxGNN 예측 점수 | 0.9960 |
 | 근거 수준 | L5 |

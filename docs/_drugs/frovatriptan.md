@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "frovatriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 last_modified_at: 2026-10-31
-description: "Frovatriptan: 예측 신규 적응증 위축피부증 벌레모양 (atrophoderma vermiculata) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Frovatriptan: 예측 신규 적응증 위축피부증 벌레모양 (atrophoderma vermiculata) (근거 수준 L5). 기존 적응증: 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료"
 ---
 
 # Frovatriptan
@@ -46,7 +46,7 @@ TxGNN 모델은 **위축피부증 벌레모양(atrophoderma vermiculata)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200903830/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501584/EE) |
+| 기존 적응증 | 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200903830/EE)) |
 | 예측 신규 적응증 | 위축피부증 벌레모양 (atrophoderma vermiculata) |
 | TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L5 |

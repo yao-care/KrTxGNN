@@ -6,7 +6,7 @@ nav_order: 161
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Bromocriptine: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증… (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
+description: "Bromocriptine: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증… (근거 수준 L5). 기존 적응증: ○ 유즙 분비의 예방 및 억제 ○ 고프로락틴혈증에 기인하는 남성, 여성의 성선기능저하증 및 유루증 ○…"
 monitor_inn: "Bromocriptine"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "syndromic myopia"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **선천성 당화 장애(fucosylation 결함형)**를 1순위 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | ○ 유즙 분비의 예방 및 억제 ○ 고프로락틴혈증에 기인하는 남성, 여성의 성선기능저하증 및 유루증 ○ 불임증 ○ 월경불순의 여러 증상(특히, 유방에 나타나는 증상), 월경 직전의 두통, 기분변화 및 부종 등과 같은 증상의 완화 ○ 말단 비대증 환자 치료 시 수술 또는 방사선 요법과… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410070/EE)) |
 | 예측 신규 적응증 | 선천성 당화 장애, fucosylation 결함형 (congenital disorder of glycosylation with defective fucosylation) |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 |

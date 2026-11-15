@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Melphalan"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 last_modified_at: 2026-10-31
-description: "Melphalan: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: 허가 문구를 확인할 수 없음 (허가 정보가 문서 링크로만 제공됨)"
+description: "Melphalan: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: 1. 다발성골수종 2. 난소선암 3. 진행성유방암 4. 진성적혈구증가증 (주사제) 다발성골수종"
 ---
 
 # Melphalan
@@ -46,7 +46,7 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문구를 확인할 수 없음 (허가 정보가 문서 링크로만 제공됨) |
+| 기존 적응증 | 1. 다발성골수종 2. 난소선암 3. 진행성유방암 4. 진성적혈구증가증 (주사제) 다발성골수종 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307781/EE)) |
 | 예측 신규 적응증 | 직장 점액성 선암 |
 | TxGNN 예측 점수 | 0.9938 |
 | 근거 수준 | L5 |

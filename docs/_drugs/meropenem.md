@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
-description: "Meropenem: 예측 신규 적응증 세균성 관절염 (bacterial arthritis) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Meropenem: 예측 신규 적응증 세균성 관절염 (bacterial arthritis) (근거 수준 L3). 기존 적응증: 1. 유효균종 포도구균속, 연쇄구균속, 장구균, 모락셀라 카타랄리스, 대장균, 시트로박터속, 클렙시엘라속…"
 ---
 
 # Meropenem
@@ -44,7 +44,7 @@ Meropenem은 세균의 세포벽 합성을 억제하는 카바페넴계 광범�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906950/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200808539/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199600576/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200909379/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301692/EE);  |
+| 기존 적응증 | 1. 유효균종 포도구균속, 연쇄구균속, 장구균, 모락셀라 카타랄리스, 대장균, 시트로박터속, 클렙시엘라속, 엔테로박터속, 세라티아속, 프로테우스속, 슈도모나스속, 인플루엔자균, 박테로이데스속, 수막염균 2. 적응증 - 패혈증 - 표재성 화농성질환, 림프절염, 항문주위농양 - 외과… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906950/EE)) |
 | 예측 신규 적응증 | 세균성 관절염 (bacterial arthritis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L3 (관찰 연구와 증례 보고 수준) |

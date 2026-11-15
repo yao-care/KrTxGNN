@@ -6,7 +6,7 @@ nav_order: 745
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-12
-description: "Tolperisone: 예측 신규 적응증 라우브리-페치 증후군 (Laubry-Pezzi syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (중추 작용 근이완제로 알려져 있음)"
+description: "Tolperisone: 예측 신규 적응증 라우브리-페치 증후군 (Laubry-Pezzi syndrome) (근거 수준 L5). 기존 적응증: 1. 근골격계 질환에 수반하는 동통성 근육연축 : 요통, 관절질환, 외상 등 2. 신경계 질환에 의한…"
 monitor_inn: "Tolperisone"
 predicted_indications: ["Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "pulmonary valve disease", "orofacial clefting syndrome", "mitral valve disease", "heart disease", "disorder of fucoglycosan synthesis", "interventricular septum aneurysm"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **라우브리-페치 증후군(Laubry-Pezzi syndrome)**에 효�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (중추 작용 근이완제로 알려져 있음) |
+| 기존 적응증 | 1. 근골격계 질환에 수반하는 동통성 근육연축 : 요통, 관절질환, 외상 등 2. 신경계 질환에 의한 근육연축 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201038/EE)) |
 | 예측 신규 적응증 | 라우브리-페치 증후군 (Laubry-Pezzi syndrome) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

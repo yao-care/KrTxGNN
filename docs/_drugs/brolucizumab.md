@@ -46,7 +46,7 @@ TxGNN 모델은 **핵 DNA 이상에 의한 미토콘드리아 산화적 인산�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004402/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202005466/EE) |
+| 기존 적응증 | 신생혈관성 (습성) 연령관련 황반변성의 치료 당뇨병성 황반부종의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004402/EE)) |
 | 예측 신규 적응증 | 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
 | TxGNN 예측 점수 | 0.9967 |
 | 근거 수준 | L5 |

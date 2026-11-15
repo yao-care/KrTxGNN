@@ -6,7 +6,7 @@ nav_order: 103
 evidence_level: L4
 indication_count: 2
 last_modified_at: 2026-11-12
-description: "Atropine: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 확인되어 구체적 내용을 요약할 수 없음 (주사제 및 점안제로 허가)"
+description: "Atropine: 예측 신규 적응증 편두통 (Migraine Disorder) (근거 수준 L4). 기존 적응증: 유기인계 신경작용제 중독의 치료"
 monitor_inn: "ATROPINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 확인되어 구체적 내용을 요약할 수 없음 (주사제 및 점안제로 허가) |
+| 기존 적응증 | 유기인계 신경작용제 중독의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100655/EE)) |
 | 예측 신규 적응증 | 편두통 (Migraine Disorder) |
 | TxGNN 예측 점수 | 0.9956 |
 | 근거 수준 | L4 |

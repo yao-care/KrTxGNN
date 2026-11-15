@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
 last_modified_at: 2026-10-31
-description: "Anastrozole: 예측 신규 적응증 신경모세포종 (neuroblastoma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Anastrozole: 예측 신규 적응증 신경모세포종 (neuroblastoma) (근거 수준 L5). 기존 적응증: 1. 폐경기 이후 여성의 진행성 유방암의 치료(이 요법 이전의 타목시펜 치료시 임상반응을 나타내지 않는…"
 ---
 
 # Anastrozole
@@ -44,7 +44,7 @@ Anastrozole은 방향화효소(아로마타아제) 억제제 계열의 약물입
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200808866/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806188/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200009025/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805384/EE) |
+| 기존 적응증 | 1. 폐경기 이후 여성의 진행성 유방암의 치료(이 요법 이전의 타목시펜 치료시 임상반응을 나타내지 않는 에스트로겐 수용체 음성인 환자에서, 이 약의 유효성은 입증되지 않았다.) 2. 호르몬 수용체 양성인 폐경기 이후 여성의 조기 유방암의 보조 치료 조기 유방암의 보조 요법으로 2 ∼… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200808866/EE)) |
 | 예측 신규 적응증 | 신경모세포종 (neuroblastoma) |
 | TxGNN 예측 점수 | 0.9953 |
 | 근거 수준 | L5 |

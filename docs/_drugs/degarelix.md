@@ -6,7 +6,7 @@ nav_order: 258
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Degarelix: 예측 신규 적응증 다모증 (hypertrichosis) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 본문 대신 허가 문서 링크만 확인되어, 구체적인 기존 적응증 문구는 이 보고서의 데이터로 확인되지 않음"
+description: "Degarelix: 예측 신규 적응증 다모증 (hypertrichosis) (근거 수준 L5). 기존 적응증: 호르몬 의존성 진행성 전립선 암"
 monitor_inn: "DEGARELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "allergic urticaria", "cold urticaria", "familial male-limited precocious puberty", "centra precocious puberty 1", "familial isolated trichomegaly"]
 ---
@@ -44,7 +44,7 @@ Degarelix는 GnRH 수용체 길항제로, 한국에서 퍼마곤주라는 제품
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에는 적응증 본문 대신 허가 문서 링크만 확인되어, 구체적인 기존 적응증 문구는 이 보고서의 데이터로 확인되지 않음 |
+| 기존 적응증 | 호르몬 의존성 진행성 전립선 암 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306956/EE)) |
 | 예측 신규 적응증 | 다모증 (hypertrichosis) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

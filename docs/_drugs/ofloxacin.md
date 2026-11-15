@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "OFLOXACIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-10-31
-description: "Ofloxacin: 예측 신규 적응증 다발성 과점성 증후군 (근거 수준 L5). 기존 적응증: 허가 문서가 링크로만 제공되어 적응증 본문을 확인할 수 없음 (항균제로 분류)"
+description: "Ofloxacin: 예측 신규 적응증 다발성 과점성 증후군 (근거 수준 L5). 기존 적응증: 본제 감수성의 포도구균속, 연쇄상구균속, 폐렴구균, 장구균속, 소구균속, 모락셀라속, 간균속…"
 ---
 
 # Ofloxacin
@@ -44,7 +44,7 @@ Ofloxacin은 플루오로퀴놀론계 항균제로, 한국에서 점안액·안�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서가 링크로만 제공되어 적응증 본문을 확인할 수 없음 (항균제로 분류) |
+| 기존 적응증 | 본제 감수성의 포도구균속, 연쇄상구균속, 폐렴구균, 장구균속, 소구균속, 모락셀라속, 간균속, 클렙시엘라속, 세라치아속, 프로테우스속, 모르가넬라 모르가니, 프로비덴시아속, 혈호균속[인플루엔자균, 헤모필루스애집티우스 (Koch-Weeks bacillus)], 슈도모나스속, 녹농균… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203288/EE)) |
 | 예측 신규 적응증 | 다발성 과점성 증후군 |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |

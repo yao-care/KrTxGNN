@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 last_modified_at: 2026-10-31
-description: "Glimepiride: 예측 신규 적응증 고전형 전신 경직 증후군 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 자료에 없음)"
+description: "Glimepiride: 예측 신규 적응증 고전형 전신 경직 증후군 (근거 수준 L5). 기존 적응증: 이 약은 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1…"
 ---
 
 # Glimepiride
@@ -45,7 +45,7 @@ TxGNN 모델은 **고전형 전신 경직 증후군(Classic Stiff Person Syndrom
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문이 자료에 없음) |
+| 기존 적응증 | 이 약은 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이 약은 단독요법으로 투여한다. 2. 이 약은 다음의 경우 병용요법으로 투여한다. 1) 경구용 혈당강하제로 혈당조절이 적절하게 이루어지지 않는 경우, 인슐린과 병용투여 2)… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000415/EE)) |
 | 예측 신규 적응증 | 고전형 전신 경직 증후군 |
 | TxGNN 예측 점수 | 0.9975 |
 | 근거 수준 | L5 |

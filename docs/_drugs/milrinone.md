@@ -6,7 +6,7 @@ nav_order: 517
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Milrinone: 예측 신규 적응증 탈모 (alopecia) (근거 수준 L5). 기존 적응증: 울혈성 심부전 (약리학 데이터 기준. 한국 허가증은 원문 링크만 확인되어 적응증 문구는 확인하지 못함)"
+description: "Milrinone: 예측 신규 적응증 탈모 (alopecia) (근거 수준 L5). 기존 적응증: ○ 성인 : 1. 다른 약물(경구용 디기탈리스류 강심제, 이뇨제, 혈관이완제)에 반응하지 않는 중증의…"
 monitor_inn: "MILRINONE"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **탈모(alopecia)**에 효과가 있을 수 있다고 예측하
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 울혈성 심부전 (약리학 데이터 기준. 한국 허가증은 원문 링크만 확인되어 적응증 문구는 확인하지 못함) |
+| 기존 적응증 | ○ 성인 : 1. 다른 약물(경구용 디기탈리스류 강심제, 이뇨제, 혈관이완제)에 반응하지 않는 중증의 울혈심부전의 단 기 치료 2. 심장수술 후 저심박출량을 포함한 급성 심부전 ○ 13세 미만 소아: 1. 다른 약물(경구용 디기탈리스류 강심제, 이뇨제, 혈관이완제)에 반응하지 않는… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200603898/EE)) |
 | 예측 신규 적응증 | 탈모 (alopecia) |
 | TxGNN 예측 점수 | 0.9991 (전체 순위 2,499위) |
 | 근거 수준 | L5 |

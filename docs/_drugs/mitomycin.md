@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "mitomycin"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "mixed ductal-endocrine carcinoma of pancreas", "undifferentiated pancreatic carcinoma", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
-description: "Mitomycin: 예측 신규 적응증 고형 가유두상 췌장암 (solid pseudopapillary carcinoma of pancreas) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Mitomycin: 예측 신규 적응증 고형 가유두상 췌장암 (solid pseudopapillary carcinoma of pancreas) (근거 수준 L5). 기존 적응증: 다음 질환의 자각적 및 타각적 증상의 완화 : 만성림프성백혈병, 만성골수성백혈병, 위암, 장암ㆍ직장암…"
 ---
 
 # Mitomycin
@@ -46,7 +46,7 @@ TxGNN 모델은 **고형 가유두상 췌장암(solid pseudopapillary carcinoma 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201621/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701737/EE) |
+| 기존 적응증 | 다음 질환의 자각적 및 타각적 증상의 완화 : 만성림프성백혈병, 만성골수성백혈병, 위암, 장암ㆍ직장암, 폐암, 췌장암, 간암, 자궁경부암, 유방암, 두경부종양, 방광종양 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201621/EE)) |
 | 예측 신규 적응증 | 고형 가유두상 췌장암 (solid pseudopapillary carcinoma of pancreas) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |

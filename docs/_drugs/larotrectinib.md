@@ -6,7 +6,7 @@ nav_order: 461
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-11-03
-description: "Larotrectinib: 예측 신규 적응증 다발성 내분비 종양 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요)"
+description: "Larotrectinib: 예측 신규 적응증 다발성 내분비 종양 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 이 약은 알려진 획득 내성 돌연변이 없이 NTRK 유전자 융합을 보유한 다음 성인 및 소아 환자의 치료에…"
 monitor_inn: "Larotrectinib"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
 ---
@@ -44,7 +44,7 @@ Larotrectinib은 선택적 TRK 억제제로, 한국에서 비트락비(Vitrakvi)
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요) |
+| 기존 적응증 | 이 약은 알려진 획득 내성 돌연변이 없이 NTRK 유전자 융합을 보유한 다음 성인 및 소아 환자의 치료에 사용한다. • 국소진행성, 전이성 또는 수술적 절제 시 중증 이환의 가능성이 높으며 기존 치료제(혹은 치료 요법) 이후진행되었거나 현재 이용 가능한 적합한 치료제가 없는 고형암 이… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003383/EE)) |
 | 예측 신규 적응증 | 다발성 내분비 종양 (Multiple Endocrine Neoplasia) |
 | TxGNN 예측 점수 | 0.9924 |
 | 근거 수준 | L5 |

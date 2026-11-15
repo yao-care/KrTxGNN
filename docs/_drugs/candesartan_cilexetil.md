@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "CANDESARTAN CILEXETIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 last_modified_at: 2026-10-31
-description: "Candesartan Cilexetil: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Candesartan Cilexetil: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 칸데사르탄실렉세틸 또는 에스암로디핀(암로디핀) 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압"
 ---
 
 # Candesartan Cilexetil
@@ -45,7 +45,7 @@ TxGNN 모델은 **악성 고혈압성 신질환(malignant hypertensive renal dis
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501847/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000970/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704761/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200398/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803503/EE);  |
+| 기존 적응증 | 칸데사르탄실렉세틸 또는 에스암로디핀(암로디핀) 단독요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501847/EE)) |
 | 예측 신규 적응증 | 악성 고혈압성 신질환 (malignant hypertensive renal disease) |
 | TxGNN 예측 점수 | 0.9968 |
 | 근거 수준 | L5 |

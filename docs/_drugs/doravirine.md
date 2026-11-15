@@ -6,7 +6,7 @@ nav_order: 288
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Doravirine: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L5). 기존 적응증: HIV-1 감염 (허가 적응증 원문은 허가증 PDF 링크로만 제공되어 상세 문구는 확인되지 않음)"
+description: "Doravirine: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L5). 기존 적응증: 이전 항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 6개월…"
 monitor_inn: "DORAVIRINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **원숭이 면역결핍 바이러스 감염(Simian Immunodefici
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | HIV-1 감염 (허가 적응증 원문은 허가증 PDF 링크로만 제공되어 상세 문구는 확인되지 않음) |
+| 기존 적응증 | 이전 항레트로바이러스 치료 경험이 없거나, 기존 항레트로바이러스 치료 요법에 치료 실패 없이 적어도 6개월 이상 안정된 바이러스 수치 억제 효과를 보이며(HIV-1 RNA < 50 copies/mL) 도라비린에 대한 알려진 내성 관련 치환이 없는 성인 환자들의 HIV-1 감염 치료를… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908060/EE)) |
 | 예측 신규 적응증 | 원숭이 면역결핍 바이러스 감염 (Simian Immunodeficiency Virus Infection) |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 (직접적인 연구 없이 기전적 추정만 존재) |

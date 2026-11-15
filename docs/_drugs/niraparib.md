@@ -6,7 +6,7 @@ nav_order: 546
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Niraparib: 예측 신규 적응증 후두개 종양 (Epiglottis Neoplasm) (근거 수준 L5). 기존 적응증: 난소암 (재발성 백금계 감수성 난소암 유지요법). 허가증 데이터에는 적응증 본문이 아닌 허가사항 원문 링크만 있어…"
+description: "Niraparib: 예측 신규 적응증 후두개 종양 (Epiglottis Neoplasm) (근거 수준 L5). 기존 적응증: BRCA 변이 전이성 거세 저항성 전립선암 진단 후 항암화학요법 치료경험이 없는 성인 환자의 프레드니솔론과…"
 monitor_inn: "niraparib"
 predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "inner ear neoplasm", "pre-malignant neoplasm", "schwannoma of jugular foramen"]
 ---
@@ -44,7 +44,7 @@ predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neopla
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 난소암 (재발성 백금계 감수성 난소암 유지요법). 허가증 데이터에는 적응증 본문이 아닌 허가사항 원문 링크만 있어, 이 보고서에 수집된 문헌 정보를 근거로 기재했습니다. |
+| 기존 적응증 | BRCA 변이 전이성 거세 저항성 전립선암 진단 후 항암화학요법 치료경험이 없는 성인 환자의 프레드니솔론과 병용 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302816/EE)) |
 | 예측 신규 적응증 | 후두개 종양 (Epiglottis Neoplasm) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (모델 예측만 존재) |

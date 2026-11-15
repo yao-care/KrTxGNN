@@ -6,7 +6,7 @@ nav_order: 298
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Eculizumab: 예측 신규 적응증 주기성 조혈 (cyclic hematopoiesis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 식약처 첨부문서 링크만 있음)"
+description: "Eculizumab: 예측 신규 적응증 주기성 조혈 (cyclic hematopoiesis) (근거 수준 L5). 기존 적응증: 1) 발작성 야간 혈색소뇨증(PNH : Paroxysmal Nocturnal Hemoglobinuria)…"
 monitor_inn: "Eculizumab"
 predicted_indications: ["cyclic hematopoiesis", "autosomal recessive severe congenital neutropenia due to JAGN1 deficiency", "X-linked severe congenital neutropenia", "congenital neutropenia-myelofibrosis-nephromegaly syndrome", "adult idiopathic neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "autosomal recessive severe congenital neutropenia due to CSF3R deficiency", "severe congenital neutropenia", "primary release disorder of platelets"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **주기성 조혈(cyclic hematopoiesis, 주기성 호중구감�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가증에는 식약처 첨부문서 링크만 있음) |
+| 기존 적응증 | 1) 발작성 야간 혈색소뇨증(PNH : Paroxysmal Nocturnal Hemoglobinuria) 용혈을 감소시키기 위한 발작성 야간 혈색소뇨증(PNH : Paroxysmal Nocturnal Hemoglobinuria) 환자의 치료. 수혈 이력과 관계없이, 높은 질병 활성을… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201000790/EE)) |
 | 예측 신규 적응증 | 주기성 조혈 (cyclic hematopoiesis) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

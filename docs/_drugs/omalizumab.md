@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 last_modified_at: 2026-11-04
-description: "Omalizumab: 예측 신규 적응증 기관지염 (bronchitis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Omalizumab: 예측 신규 적응증 기관지염 (bronchitis) (근거 수준 L5). 기존 적응증: 1. 알레르기성 천식 (Allergic Asthma) ○ 성인 및 청소년 (12세 이상) 다음 증상을…"
 ---
 
 # Omalizumab
@@ -44,7 +44,7 @@ Omalizumab은 유리 IgE에 결합하는 항IgE 단클론항체입니다. TxGNN 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602975/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704778/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400492/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202503335/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401521/EE) |
+| 기존 적응증 | 1. 알레르기성 천식 (Allergic Asthma) ○ 성인 및 청소년 (12세 이상) 다음 증상을 동반하는 성인 및 청소년(12세 이상) 알레르기성 천식 환자에 있어서 천식 조절을 개선하기 위 한 추가 요법제. 1. 통년성 대기 알러젠에 대하여 시험관 내(in vitro) 반응… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201602975/EE)) |
 | 예측 신규 적응증 | 기관지염 (bronchitis) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |

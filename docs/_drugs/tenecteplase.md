@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-05
 monitor_inn: "TENECTEPLASE"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
-description: "Tenecteplase: 예측 신규 적응증 Congenital coronary artery anomaly (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Tenecteplase: 예측 신규 적응증 Congenital coronary artery anomaly (근거 수준 L5). 기존 적응증: 성인 급성 허혈성 뇌졸중 (증상 발현 후 4.5 시간 이내에 적절한 영상기법(예, 두개골 CT 또는 출혈을…"
 ---
 
 # Tenecteplase
@@ -45,7 +45,7 @@ Tenecteplase는 섬유소 특이적 조직 플라스미노겐 활성화제로, �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502617/EE) |
+| 기존 적응증 | 성인 급성 허혈성 뇌졸중 (증상 발현 후 4.5 시간 이내에 적절한 영상기법(예, 두개골 CT 또는 출혈을 민감하게 진단할 수 있는 다른 진단 영상방법)으로 두개 내 출혈이 없음을 확인 후 가능한 신속하게 투여한다. 치료효과는 시간-의존적이므로, 치료가 신속할수록 호전 가능성이… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502617/EE)) |
 | 예측 신규 적응증 | Congenital coronary artery anomaly |
 | TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 |

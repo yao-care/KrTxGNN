@@ -6,7 +6,7 @@ nav_order: 242
 evidence_level: L4
 indication_count: 7
 last_modified_at: 2026-10-31
-description: "Cyclosporine: 예측 신규 적응증 만성 육아종성 질환, 상염색체 열성 (근거 수준 L4). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없습니다 (이식 면역억제 및 안과용…"
+description: "Cyclosporine: 예측 신규 적응증 만성 육아종성 질환, 상염색체 열성 (근거 수준 L4). 기존 적응증: 1. 장기이식 1) 신장, 간장, 심장 및 폐복합, 폐 및 췌장의 이인자형 장기이식 거부 반응 예방 2)…"
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **만성 육아종성 질환, 상염색체 열성(Chronic Granul
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어 구체적 문구를 확인할 수 없습니다 (이식 면역억제 및 안과용 점안제 제형이 시판 중) |
+| 기존 적응증 | 1. 장기이식 1) 신장, 간장, 심장 및 폐복합, 폐 및 췌장의 이인자형 장기이식 거부 반응 예방 2) 다른 면역억제제를 투여중인 환자의 장기이식 거부 반응 치료 2. 골수이식 1) 조직이식 거부반응 예방 2) 이식편-숙주반응질환(GVHD)의 예방 및 치료 3. 건선 다른 요법이… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107512/EE)) |
 | 예측 신규 적응증 | 만성 육아종성 질환, 상염색체 열성 (Chronic Granulomatous Disease) |
 | TxGNN 예측 점수 | 0.9968 |
 | 근거 수준 | L4 |

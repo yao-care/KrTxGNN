@@ -6,7 +6,7 @@ nav_order: 658
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Risdiplam: 예측 신규 적응증 여드름 (acne) (근거 수준 L5). 기존 적응증: 척수성 근위축증(SMA). 허가 적응증 원문은 허가 문서 링크로만 제공되어 세부 문구는 확인하지 못했습니다"
+description: "Risdiplam: 예측 신규 적응증 여드름 (acne) (근거 수준 L5). 기존 적응증: 5q 척수성 근위축증의 치료"
 monitor_inn: "Risdiplam"
 predicted_indications: ["acne (disease)"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 척수성 근위축증(SMA). 허가 적응증 원문은 허가 문서 링크로만 제공되어 세부 문구는 확인하지 못했습니다. |
+| 기존 적응증 | 5q 척수성 근위축증의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007490/EE)) |
 | 예측 신규 적응증 | 여드름 (acne) |
 | TxGNN 예측 점수 | 0.9945 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-31
 monitor_inn: "rimegepant"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-description: "Rimegepant: 예측 신규 적응증 Atrophoderma vermiculata (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Rimegepant: 예측 신규 적응증 Atrophoderma vermiculata (근거 수준 L5). 기존 적응증: 1. 성인에서의 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료 2. 성인에서의 삽화성 편두통의 예방"
 ---
 
 # Rimegepant
@@ -45,7 +45,7 @@ Rimegepant는 CGRP 수용체 길항제로, 원래 성인의 편두통 치료에 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500678/EE) |
+| 기존 적응증 | 1. 성인에서의 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료 2. 성인에서의 삽화성 편두통의 예방 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500678/EE)) |
 | 예측 신규 적응증 | Atrophoderma vermiculata |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 (아형 특이적 연구는 없고 편두통 전반에 대한 체계적 문헌고찰·메타분석이 있음) |

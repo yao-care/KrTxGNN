@@ -6,7 +6,7 @@ nav_order: 162
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-06
-description: "Bromperidol: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 원문 없이 허가문서 링크만 수록됨)"
+description: "Bromperidol: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: (경구 : 정제) 정신분열증 (주사제) 급성 정신분열증"
 monitor_inn: "BROMPERIDOL"
 predicted_indications: ["insomnia (disease)"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증에 적응증 원문 없이 허가문서 링크만 수록됨) |
+| 기존 적응증 | (경구 : 정제) 정신분열증 (주사제) 급성 정신분열증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198800802/EE)) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L5 (모델 예측만 있음) |

@@ -6,7 +6,7 @@ nav_order: 250
 evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Dapsone: 예측 신규 적응증 주폐포자충증 (Pneumocystosis) (근거 수준 L1). 기존 적응증: 확인 불가 (허가 적응증 텍스트가 문서 링크로만 제공됨)"
+description: "Dapsone: 예측 신규 적응증 주폐포자충증 (Pneumocystosis) (근거 수준 L1). 기존 적응증: 1. 한센병 2. 포진피부염"
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **주폐포자충증(Pneumocystosis)**에 효과가 있을 수 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 텍스트가 문서 링크로만 제공됨) |
+| 기존 적응증 | 1. 한센병 2. 포진피부염 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198300470/EE)) |
 | 예측 신규 적응증 | 주폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L1 (완료된 Phase 3 RCT 4건) |

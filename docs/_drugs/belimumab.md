@@ -6,7 +6,7 @@ nav_order: 132
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-31
-description: "Belimumab: 예측 신규 적응증 원발성 혈소판 방출장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 제공되어 구체적 적응증 문구를 확인할 수 없음"
+description: "Belimumab: 예측 신규 적응증 원발성 혈소판 방출장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 1. 표준요법으로 치료 중인 자가 항체 양성인 활동성 전신홍반루푸스 성인 및 소아(만 5세 이상) 환자의…"
 monitor_inn: "BELIMUMAB"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **원발성 혈소판 방출장애(primary release disorder of p
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 제공되어 구체적 적응증 문구를 확인할 수 없음 |
+| 기존 적응증 | 1. 표준요법으로 치료 중인 자가 항체 양성인 활동성 전신홍반루푸스 성인 및 소아(만 5세 이상) 환자의 치료 2. 표준요법으로 치료 중인 활동성 루푸스 신장염 성인 환자의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307773/EE)) |
 | 예측 신규 적응증 | 원발성 혈소판 방출장애 (primary release disorder of platelets) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |

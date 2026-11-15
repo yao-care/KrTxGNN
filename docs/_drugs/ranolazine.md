@@ -6,7 +6,7 @@ nav_order: 644
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-12
-description: "Ranolazine: 예측 신규 적응증 신성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiure… (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 링크로만 제공되어 요약할 수 없음 (허가사항 참조)"
+description: "Ranolazine: 예측 신규 적응증 신성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiure… (근거 수준 L5). 기존 적응증: 1차 협심증 치료제(예: 베타 차단제 및/또는 칼슘 길항제)로 적절히 조절되지 않거나 내약성이 없는…"
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 ---
@@ -51,7 +51,7 @@ TxGNN 모델은 **신성 항이뇨호르몬 부적절 분비 증후군(Nephrogen
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 허가증 링크로만 제공되어 요약할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 1차 협심증 치료제(예: 베타 차단제 및/또는 칼슘 길항제)로 적절히 조절되지 않거나 내약성이 없는 안정형협심증 환자의 증상적 치료를 위한 병용요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001782/EE)) |
 | 예측 신규 적응증 | 신성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
 | TxGNN 예측 점수 | 0.9965 |
 | 근거 수준 | L5 |

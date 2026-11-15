@@ -6,7 +6,7 @@ nav_order: 307
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-11-12
-description: "Empagliflozin: 예측 신규 적응증 전형적 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되지 않았고, 허가증 링크만 확인됩니다. 제품명과 복합제 구성(메트포르민…"
+description: "Empagliflozin: 예측 신규 적응증 전형적 강직인간증후군 (Classic Stiff Person Syndrome) (근거 수준 L5). 기존 적응증: 이 약은 성인 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다…"
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **전형적 강직인간증후군(Classic Stiff Person Syndrome)
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 이번 데이터에 포함되지 않았고, 허가증 링크만 확인됩니다. 제품명과 복합제 구성(메트포르민, 리나글립틴)으로 볼 때 당뇨병 치료제로 판단됩니다. |
+| 기존 적응증 | 이 약은 성인 제 2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1. 이 약은 단독요법으로 투여한다. 2. 이 약은 다음의 경우 병용요법으로 투여한다. - 이전 당뇨병 약물치료를 받은 경험이 없으며 단독요법으로 충분한 혈당 조절이 어려운 경우… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102113/EE)) |
 | 예측 신규 적응증 | 전형적 강직인간증후군 (Classic Stiff Person Syndrome) |
 | TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |

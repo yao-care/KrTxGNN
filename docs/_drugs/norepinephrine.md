@@ -6,7 +6,7 @@ nav_order: 553
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Norepinephrine: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L4). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 확인 불가 (허가사항 참조)"
+description: "Norepinephrine: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L4). 기존 적응증: 1. 각종 질환에 따르는 급성 저혈압 또는 쇽의 보조치료(심근경색에 의한 쇽, 패혈증으로 인한 쇽…"
 monitor_inn: "norepinephrine"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 확인 불가 (허가사항 참조) |
+| 기존 적응증 | 1. 각종 질환에 따르는 급성 저혈압 또는 쇽의 보조치료(심근경색에 의한 쇽, 패혈증으로 인한 쇽, 아나필락시성 쇽, 순환 혈액량 저하에 따르는 급성 저혈압 또는 쇽, 전신마취시 의 급성 저혈압 등) 2. 심정지의 보조치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200708895/EE)) |
 | 예측 신규 적응증 | 폐쇄성 폐질환 (Obstructive Lung Disease) |
 | TxGNN 예측 점수 | 0.9984 |
 | 근거 수준 | L4 (기전 연구 수준, 직접적인 임상 근거 없음) |

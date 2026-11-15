@@ -6,7 +6,7 @@ nav_order: 508
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-31
-description: "Methotrexate: 예측 신규 적응증 폐모세포종 (Pulmonary Blastoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확보되지 않았고, 허가증별 원문 링크만 확인됩니다"
+description: "Methotrexate: 예측 신규 적응증 폐모세포종 (Pulmonary Blastoma) (근거 수준 L5). 기존 적응증: (정제) 1. 백혈병 2. 융모질환(융모암, 파괴포상기태, 포상기태)의 자각적, 타각적 증상의 완화 3…"
 monitor_inn: "METHOTREXATE"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
@@ -44,7 +44,7 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확보되지 않았고, 허가증별 원문 링크만 확인됩니다. |
+| 기존 적응증 | (정제) 1. 백혈병 2. 융모질환(융모암, 파괴포상기태, 포상기태)의 자각적, 타각적 증상의 완화 3. 류마티스관절염 4. 다른 약물로 효과가 없는 중증의 불응성 건선 (주사제) 1. 다음과 같은 암상태의 광범위한 처치 1) 급성백혈병, 비호지킨림프종, 육종(연부육종, 골육종) 2)… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199101496/EE)) |
 | 예측 신규 적응증 | 폐모세포종 (Pulmonary Blastoma) |
 | TxGNN 예측 점수 | 0.9945 |
 | 근거 수준 | L5 (모델 예측만 있음) |

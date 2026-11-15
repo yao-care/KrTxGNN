@@ -6,7 +6,7 @@ nav_order: 170
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-11-12
-description: "Calcipotriol: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L3). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 제공되어 확인할 수 없음 (국소제 형태로 보아 건선 등 피부질환용으로 추정)"
+description: "Calcipotriol: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L3). 기존 적응증: 판상형 건선의 국소치료"
 monitor_inn: "CALCIPOTRIOL"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 제공되어 확인할 수 없음 (국소제 형태로 보아 건선 등 피부질환용으로 추정) |
+| 기존 적응증 | 판상형 건선의 국소치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502637/EE)) |
 | 예측 신규 적응증 | 지루각화증 (Seborrheic Keratosis) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L3 |

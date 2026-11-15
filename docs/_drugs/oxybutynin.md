@@ -6,7 +6,7 @@ nav_order: 570
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Oxybutynin: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 텍스트가 없음)"
+description: "Oxybutynin: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L5). 기존 적응증: 비억제성 반사신경성 방광에 기인한 불안정한 방광상태의 빈뇨, 절박뇨, 요실금"
 monitor_inn: "OXYBUTYNIN"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 텍스트가 없음) |
+| 기존 적응증 | 비억제성 반사신경성 방광에 기인한 불안정한 방광상태의 빈뇨, 절박뇨, 요실금 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200902710/EE)) |
 | 예측 신규 적응증 | 하지불안증후군 (Restless Legs Syndrome) |
 | TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L5 |

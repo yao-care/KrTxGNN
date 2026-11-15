@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Zaltoprofen"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
 last_modified_at: 2026-11-12
-description: "Zaltoprofen: 예측 신규 적응증 편두통 (근거 수준 L5). 기존 적응증: 이번 데이터에는 허가 적응증 본문이 포함되어 있지 않고 허가 문서 링크만 있어 확인할 수 없습니다"
+description: "Zaltoprofen: 예측 신규 적응증 편두통 (근거 수준 L5). 기존 적응증: 1. 다음 질환 및 증상의 소염·진통 : 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염…"
 ---
 
 # Zaltoprofen
@@ -44,7 +44,7 @@ Zaltoprofen은 한국에서 단일성분 정제로 허가된 비스테로이드 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이번 데이터에는 허가 적응증 본문이 포함되어 있지 않고 허가 문서 링크만 있어 확인할 수 없습니다 |
+| 기존 적응증 | 1. 다음 질환 및 증상의 소염·진통 : 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염, 경견완증후군 2. 수술후, 외상후 및 발치 후의 소염·진통 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902799/EE)) |
 | 예측 신규 적응증 | 편두통 |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |

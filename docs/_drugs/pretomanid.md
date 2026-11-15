@@ -6,7 +6,7 @@ nav_order: 627
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Pretomanid: 예측 신규 적응증 칸디다증 (Candidiasis) (근거 수준 L5). 기존 적응증: 허가증 원문 링크만 제공되어 구체적 문구 확인 불가 (문헌상 BPaL 요법의 광범위 약제내성·치료 불내성/비반응 다제내성 폐…"
+description: "Pretomanid: 예측 신규 적응증 칸디다증 (Candidiasis) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 (Mycobacterium tuberculosis) ○ 적응증 다음의 치료에 대한…"
 monitor_inn: "Pretomanid"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **칸디다증(Candidiasis)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증 원문 링크만 제공되어 구체적 문구 확인 불가 (문헌상 BPaL 요법의 광범위 약제내성·치료 불내성/비반응 다제내성 폐결핵) |
+| 기존 적응증 | ○ 유효균종 결핵균 (Mycobacterium tuberculosis) ○ 적응증 다음의 치료에 대한 베다퀼린과 리네졸리드와의 병용요법 ­ 이소니아지드, 리팜피신, 플루오로퀴놀론, 2차 주사용 항균 약물에 내성이 있는 결핵균에 의한 성인의 폐결핵 ­ 표준 요법에 불내약성 또는… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106953/EE)) |
 | 예측 신규 적응증 | 칸디다증 (Candidiasis) |
 | TxGNN 예측 점수 | 0.9969 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "NIZATIDINE"
 predicted_indications: ["duodenal obstruction", "multiple endocrine neoplasia"]
 last_modified_at: 2026-10-31
-description: "Nizatidine: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Nizatidine: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: 1. 활동성 위ㆍ십이지장 궤양 치료 및 십이지장 궤양 재발방지 2. 내시경상으로 진단된 미란성 및 궤양성…"
 ---
 
 # Nizatidine
@@ -44,7 +44,7 @@ Nizatidine은 위산 분비를 억제하는 H2 수용체 길항제 계열의 약
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403769/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600879/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404671/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403124/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400450/EE);  |
+| 기존 적응증 | 1. 활동성 위ㆍ십이지장 궤양 치료 및 십이지장 궤양 재발방지 2. 내시경상으로 진단된 미란성 및 궤양성 식도염, 위식도 역류질환(GERD)에 기인한 가슴쓰림(heartburn) 증상의 치료 3. 다음 질환의 위점막병변(미란, 출혈, 발적, 부종)의 개선: 급성위염, 만성위염의 급성… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403769/EE)) |
 | 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |

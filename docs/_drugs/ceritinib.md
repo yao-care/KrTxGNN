@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "CERITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
 last_modified_at: 2026-10-31
-description: "Ceritinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Ceritinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 역형성 림프종 인산화효소 (ALK) 양성 국소 진행성 또는 전이성 비소세포폐암의 치료"
 ---
 
 # Ceritinib
@@ -45,7 +45,7 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500142/EE) |
+| 기존 적응증 | 역형성 림프종 인산화효소 (ALK) 양성 국소 진행성 또는 전이성 비소세포폐암의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500142/EE)) |
 | 예측 신규 적응증 | 치은 섬유종증 (fibromatosis, gingival) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |

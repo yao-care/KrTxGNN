@@ -6,7 +6,7 @@ nav_order: 81
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Aprepitant: 예측 신규 적응증 신장성 항이뇨 부적절 증후군 (nephrogenic syndrome of inappropriate antidiuresis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트 없음 (허가증 링크만 확인됨)"
+description: "Aprepitant: 예측 신규 적응증 신장성 항이뇨 부적절 증후군 (nephrogenic syndrome of inappropriate antidiuresis) (근거 수준 L5). 기존 적응증: 1. 항암 화학요법에 의한 구역과 구토 (CINV) 의 예방 다른 항구토제와 병용하여 다음과 같은 경우에…"
 monitor_inn: "Aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **신장성 항이뇨 부적절 증후군(nephrogenic syndrome o
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트 없음 (허가증 링크만 확인됨) |
+| 기존 적응증 | 1. 항암 화학요법에 의한 구역과 구토 (CINV) 의 예방 다른 항구토제와 병용하여 다음과 같은 경우에 투여한다. - 심한 구토유발성 항암화학요법 (HEC, Highly Emetogenic Chemotherapy) (예, 고용량의 시스플라틴) 의 초기 및 반복 치료에 의한 급성 및… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200038/EE)) |
 | 예측 신규 적응증 | 신장성 항이뇨 부적절 증후군 (nephrogenic syndrome of inappropriate antidiuresis) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

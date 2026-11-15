@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "INSULIN GLULISINE"
 predicted_indications: ["thiamine-responsive dysfunction syndrome", "opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "autoimmune oophoritis", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 last_modified_at: 2026-10-31
-description: "Insulin Glulisine: 예측 신규 적응증 티아민 반응성 기능장애 증후군 (thiamine-responsive dysfunction syndrome) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Insulin Glulisine: 예측 신규 적응증 티아민 반응성 기능장애 증후군 (thiamine-responsive dysfunction syndrome) (근거 수준 L5). 기존 적응증: 만 4세 이상의 어린이와 청소년 및 성인에서의 당뇨병"
 ---
 
 # Insulin Glulisine
@@ -45,7 +45,7 @@ TxGNN 모델은 **티아민 반응성 기능장애 증후군(thiamine-responsive
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511127/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511129/EE) |
+| 기존 적응증 | 만 4세 이상의 어린이와 청소년 및 성인에서의 당뇨병 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200511127/EE)) |
 | 예측 신규 적응증 | 티아민 반응성 기능장애 증후군 (thiamine-responsive dysfunction syndrome) |
 | TxGNN 예측 점수 | 0.9947 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Papaverine"
 predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "venous thromboembolism", "fibrocartilaginous embolism", "vascular insufficiency disorder", "angiodysplasia", "Raynaud disease", "Monckeberg arteriosclerosis"]
 last_modified_at: 2026-11-05
-description: "Papaverine: 예측 신규 적응증 허혈성 질환 (근거 수준 L4). 기존 적응증: 확인 불가 (허가 문서 링크만 있고 적응증 본문이 없음)"
+description: "Papaverine: 예측 신규 적응증 허혈성 질환 (근거 수준 L4). 기존 적응증: (경구 : 정제) 1. 다음 질환에서의 내장평활근의 경련 : 위염, 담석증 2. 말초순환장애, 급성…"
 ---
 
 # Papaverine
@@ -45,7 +45,7 @@ TxGNN 모델은 **허혈성 질환**에 효과가 있을 수 있다고 예측합
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 문서 링크만 있고 적응증 본문이 없음) |
+| 기존 적응증 | (경구 : 정제) 1. 다음 질환에서의 내장평활근의 경련 : 위염, 담석증 2. 말초순환장애, 급성 동맥색전 (주사제) 1. 다음 질환에서의 내장평활근의 경련 : 위염, 담석증 2. 말초순환장애, 급성 동맥색전, 급성 폐색전 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400154/EE)) |
 | 예측 신규 적응증 | 허혈성 질환 |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L4 (진단·생리학 연구, 증례, 전임상 연구 수준이며 치료 효과를 입증한 시험은 없음) |

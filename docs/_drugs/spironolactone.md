@@ -6,7 +6,7 @@ nav_order: 702
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-11-12
-description: "Spironolactone: 예측 신규 적응증 두피 단순 모발저하증 (Hypotrichosis Simplex of the Scalp) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문을 확인하지 못함)"
+description: "Spironolactone: 예측 신규 적응증 두피 단순 모발저하증 (Hypotrichosis Simplex of the Scalp) (근거 수준 L5). 기존 적응증: 고혈압(본태성, 신성 등), 원발성알도스테론증, 저칼륨혈증, 심성부종(울혈성 심부전), 신성부종…"
 monitor_inn: "SPIRONOLACTONE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 PDF 링크로만 제공되어 본문을 확인하지 못함) |
+| 기존 적응증 | 고혈압(본태성, 신성 등), 원발성알도스테론증, 저칼륨혈증, 심성부종(울혈성 심부전), 신성부종, 간성부종,특발성부종 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701668/EE)) |
 | 예측 신규 적응증 | 두피 단순 모발저하증 (Hypotrichosis Simplex of the Scalp) |
 | TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L5 |

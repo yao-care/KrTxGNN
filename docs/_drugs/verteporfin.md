@@ -6,7 +6,7 @@ nav_order: 783
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Verteporfin: 예측 신규 적응증 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (Mitochondrial oxidative phosphorylati… (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 확인 불가 (식약처 허가사항 참조)"
+description: "Verteporfin: 예측 신규 적응증 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (Mitochondrial oxidative phosphorylati… (근거 수준 L5). 기존 적응증: 다음 환자의 광역학요법(Photodynamic Therapy) 1. 연령 관련…"
 monitor_inn: "VERTEPORFIN"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **핵 DNA 이상에 의한 미토콘드리아 산화적 인산�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 확인 불가 (식약처 허가사항 참조) |
+| 기존 적응증 | 다음 환자의 광역학요법(Photodynamic Therapy) 1. 연령 관련 황반변성(age-related macular degeneration)에 의한 주로 전형적이거나 또는 잠재적 타입의황반하 맥락막 신생혈관(subfoveal choroidal… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307797/EE)) |
 | 예측 신규 적응증 | 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애 (Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
 | TxGNN 예측 점수 | 0.9949 |
 | 근거 수준 | L5 |

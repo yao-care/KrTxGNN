@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Delamanid"
 predicted_indications: ["allergic urticaria"]
 last_modified_at: 2026-10-31
-description: "Delamanid: 예측 신규 적응증 알레르기성 두드러기 (allergic urticaria) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Delamanid: 예측 신규 적응증 알레르기성 두드러기 (allergic urticaria) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 (Mycobacterium tuberculosis) ○ 적응증 18세 이상 성인, 체중…"
 ---
 
 # Delamanid
@@ -45,7 +45,7 @@ TxGNN 모델은 **알레르기성 두드러기(allergic urticaria)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405029/EE) |
+| 기존 적응증 | ○ 유효균종 결핵균 (Mycobacterium tuberculosis) ○ 적응증 18세 이상 성인, 체중 30kg 이상의 소아 및 청소년에서의 다제내성 폐결핵에 대한 병용요법 다제내성 폐결핵이란 환자로부터 분리한 균주가 이소니아지드와 리팜피신에 대해 생체 외 내성을 갖는 것으 로… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201405029/EE)) |
 | 예측 신규 적응증 | 알레르기성 두드러기 (allergic urticaria) |
 | TxGNN 예측 점수 | 0.9956 |
 | 근거 수준 | L5 |

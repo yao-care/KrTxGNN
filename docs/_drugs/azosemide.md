@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "AZOSEMIDE"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria"]
 last_modified_at: 2026-10-31
-description: "Azosemide: 예측 신규 적응증 특발성 구리 관련 간경변 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 본문 대신 링크만 있음)"
+description: "Azosemide: 예측 신규 적응증 특발성 구리 관련 간경변 (근거 수준 L5). 기존 적응증: 심성부종(울혈성심부전), 신성부종, 간성부종"
 ---
 
 # Azosemide
@@ -45,7 +45,7 @@ TxGNN 모델은 **특발성 구리 관련 간경변(idiopathic copper-associated
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 항목에 본문 대신 링크만 있음) |
+| 기존 적응증 | 심성부종(울혈성심부전), 신성부종, 간성부종 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199001306/EE)) |
 | 예측 신규 적응증 | 특발성 구리 관련 간경변 |
 | TxGNN 예측 점수 | 0.9941 |
 | 근거 수준 | L5 |

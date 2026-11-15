@@ -6,7 +6,7 @@ nav_order: 89
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Arsenic Trioxide: 예측 신규 적응증 분류되지 않은 골수이형성증후군 (Unclassified Myelodysplastic Syndrome) (근거 수준 L5). 기존 적응증: 허가증 원문 링크만 제공되어 확인 불가"
+description: "Arsenic Trioxide: 예측 신규 적응증 분류되지 않은 골수이형성증후군 (Unclassified Myelodysplastic Syndrome) (근거 수준 L5). 기존 적응증: 성인 불응성 또는 재발성 급성전골수구성백혈병 환자의 관해유도 및 공고요법 염색체검사[t(15;17)전좌]…"
 monitor_inn: "ARSENIC TRIOXIDE"
 predicted_indications: ["unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "partial deletion of the long arm of chromosome 5", "myelodysplastic syndrome", "Ewing sarcoma", "dermatofibrosarcoma protuberans", "liposarcoma", "ovarian myxoid liposarcoma"]
 ---
@@ -46,7 +46,7 @@ Arsenic trioxide(삼산화비소)는 국내에서 주사제로 허가된 항종�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증 원문 링크만 제공되어 확인 불가 |
+| 기존 적응증 | 성인 불응성 또는 재발성 급성전골수구성백혈병 환자의 관해유도 및 공고요법 염색체검사[t(15;17)전좌] 및/또는 유전자검사[Pro-Myelocytic Leukaemia/Retinoic-Acid -Receptor- alpha (PML/RAR-alpha)유전자]에 의해… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203561/EE)) |
 | 예측 신규 적응증 | 분류되지 않은 골수이형성증후군 (Unclassified Myelodysplastic Syndrome) |
 | TxGNN 예측 점수 | 0.9993 (전체 순위 1,863위) |
 | 근거 수준 | L5 (분류되지 않은 MDS). 참고: 골수이형성증후군 전체는 L2 |

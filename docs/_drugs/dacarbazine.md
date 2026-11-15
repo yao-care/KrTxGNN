@@ -6,7 +6,7 @@ nav_order: 246
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Dacarbazine: 예측 신규 적응증 상부 기도·소화관 종양 (Upper Aerodigestive Tract Neoplasm) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 허가사항 문서 링크만 있고 적응증 본문이 없음)"
+description: "Dacarbazine: 예측 신규 적응증 상부 기도·소화관 종양 (Upper Aerodigestive Tract Neoplasm) (근거 수준 L5). 기존 적응증: 악성흑색종, 호지킨병, 평활근육종을 포함한 연조직육종"
 monitor_inn: "DACARBAZINE"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **상부 기도·소화관 종양(Upper Aerodigestive Tract Neop
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증에 허가사항 문서 링크만 있고 적응증 본문이 없음) |
+| 기존 적응증 | 악성흑색종, 호지킨병, 평활근육종을 포함한 연조직육종 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199601509/EE)) |
 | 예측 신규 적응증 | 상부 기도·소화관 종양 (Upper Aerodigestive Tract Neoplasm) |
 | TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L5 |

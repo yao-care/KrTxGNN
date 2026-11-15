@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-31
 monitor_inn: "SULFASALAZINE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
-description: "Sulfasalazine: 예측 신규 적응증 Brachydactyly-syndactyly syndrome (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Sulfasalazine: 예측 신규 적응증 Brachydactyly-syndactyly syndrome (근거 수준 L5). 기존 적응증: 1. 비스테로이드소염제로 반응하지 않는 류마티스관절염 2. 궤양성대장염"
 ---
 
 # Sulfasalazine
@@ -46,7 +46,7 @@ Sulfasalazine은 한국에서 장용정 형태로 허가·시판 중인 단일 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803482/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806926/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403301/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201209552/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110251/EE) |
+| 기존 적응증 | 1. 비스테로이드소염제로 반응하지 않는 류마티스관절염 2. 궤양성대장염 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803482/EE)) |
 | 예측 신규 적응증 | Brachydactyly-syndactyly syndrome |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 (전임상·기전 연구만 있음) |

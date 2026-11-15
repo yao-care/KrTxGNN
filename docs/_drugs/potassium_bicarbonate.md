@@ -6,7 +6,7 @@ nav_order: 616
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-06
-description: "Potassium Bicarbonate: 예측 신규 적응증 위십이지장염 (Gastroduodenitis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트를 확인할 수 없음 (허가증에는 문서 링크만 기재되어 있음)"
+description: "Potassium Bicarbonate: 예측 신규 적응증 위십이지장염 (Gastroduodenitis) (근거 수준 L5). 기존 적응증: 1. 다음과 같은 저칼륨혈증 환자의 치료 - 대사성 알칼리혈증을 동반하거나 동반하지 않은 환자 -…"
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **위십이지장염(Gastroduodenitis)**에 효과가 있을 수
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트를 확인할 수 없음 (허가증에는 문서 링크만 기재되어 있음) |
+| 기존 적응증 | 1. 다음과 같은 저칼륨혈증 환자의 치료 - 대사성 알칼리혈증을 동반하거나 동반하지 않은 환자 - 디기탈리스 중독 환자 - 저칼륨혈증성 가족성 주기성 마비 환자 만약, 저칼륨혈증이 이뇨제 치료에 의해 유발된다면 저칼륨혈증을 유발하지 않으면서 이뇨제의 효과가 나 타날 수 있도록 이뇨제의… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102475/EE)) |
 | 예측 신규 적응증 | 위십이지장염 (Gastroduodenitis) |
 | TxGNN 예측 점수 | 0.9972 |
 | 근거 수준 | L5 |

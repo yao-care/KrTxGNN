@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "RANIBIZUMAB"
 predicted_indications: ["immature cataract", "tetanic cataract", "mature cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
 last_modified_at: 2026-10-31
-description: "Ranibizumab: 예측 신규 적응증 미성숙 백내장 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되지 않았습니다(허가 문서 링크만 확인됨)"
+description: "Ranibizumab: 예측 신규 적응증 미성숙 백내장 (근거 수준 L5). 기존 적응증: 1. 신생혈관성 (습성) 연령관련 황반변성의 치료 2. 당뇨병성 황반부종에 의한 시력 손상의 치료 3…"
 ---
 
 # Ranibizumab
@@ -45,7 +45,7 @@ TxGNN 모델은 **미성숙 백내장(Immature Cataract)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 이번 데이터에 포함되지 않았습니다(허가 문서 링크만 확인됨). |
+| 기존 적응증 | 1. 신생혈관성 (습성) 연령관련 황반변성의 치료 2. 당뇨병성 황반부종에 의한 시력 손상의 치료 3. 증식성 당뇨망막병증의 치료 4. 망막정맥폐쇄성 황반부종에 의한 시력 손상의 치료 5. 맥락막 신생혈관 형성에 따른 시력 손상의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203870/EE)) |
 | 예측 신규 적응증 | 미성숙 백내장 |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

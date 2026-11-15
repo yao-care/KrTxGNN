@@ -6,7 +6,7 @@ nav_order: 116
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Azithromycin: 예측 신규 적응증 고아밀라제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증 원문 링크만 제공됨)"
+description: "Azithromycin: 예측 신규 적응증 고아밀라제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: ○ 유효균종 황색포도구균, 폐렴연쇄구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타-용혈성), 기타연쇄구균…"
 monitor_inn: "AZITHROMYCIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증 원문 링크만 제공됨) |
+| 기존 적응증 | ○ 유효균종 황색포도구균, 폐렴연쇄구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타-용혈성), 기타연쇄구균, 인플루엔자균, 파라인플루엔자균, 카타르구균, 박테로이드 프라질리스, 대장균, 백일해균, 파라백일해균, 보렐리아 부르그도르페리, 연성하감균, 임균, 클라미디아 트라코마티스… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200903777/EE)) |
 | 예측 신규 적응증 | 고아밀라제혈증 (Hyperamylasemia) |
 | TxGNN 예측 점수 | 0.9981 |
 | 근거 수준 | L5 |

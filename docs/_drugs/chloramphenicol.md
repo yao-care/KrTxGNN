@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "CHLORAMPHENICOL"
 predicted_indications: ["diffuse scleroderma", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-10-31
-description: "Chloramphenicol: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Chloramphenicol: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: 1. 심한 부종과 표재성 충혈을 수반하는 알레르기성 또는 감염에 의한 각막염 및 결막염 2. 공막염…"
 ---
 
 # Chloramphenicol
@@ -46,7 +46,7 @@ TxGNN 모델은 **미만성 피부경화증(diffuse scleroderma)**에 효과가 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501443/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301046/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001531/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403384/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202903/EE) |
+| 기존 적응증 | 1. 심한 부종과 표재성 충혈을 수반하는 알레르기성 또는 감염에 의한 각막염 및 결막염 2. 공막염, 상공막염 3. 홍채염, 홍채모양체염 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501443/EE)) |
 | 예측 신규 적응증 | 미만성 피부경화증 (diffuse scleroderma) |
 | TxGNN 예측 점수 | 0.9965 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 483
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Lorazepam: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 있음). 불안 관련 적응증은 지식 그래프 금기 정보에서 간접 확인"
+description: "Lorazepam: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 1. 신경증에서의 불안·긴장·우울 2. 정신신체장애(자율신경실조증, 심장신경증)에서의 불안·긴장·우울 3…"
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
 ---
@@ -46,7 +46,7 @@ Lorazepam은 GABA-A 수용체에 작용하는 벤조디아제핀 계열 약물�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가증에는 문서 링크만 있음). 불안 관련 적응증은 지식 그래프 금기 정보에서 간접 확인 |
+| 기존 적응증 | 1. 신경증에서의 불안·긴장·우울 2. 정신신체장애(자율신경실조증, 심장신경증)에서의 불안·긴장·우울 3. 마취전 투약 이 약은 일상적 스트레스와 연관된 불안 또는 긴장의 경우 이 약의 치료가 필요하지 않으며, 임상학적으로 증 상이 심각하거나 환자의 행동에 심한 장애가 있을 경우에만… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501816/EE)) |
 | 예측 신규 적응증 | 삼차신경 신생물 (trigeminal nerve neoplasm) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 (모델 예측만 있음) |

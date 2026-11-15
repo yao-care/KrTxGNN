@@ -6,7 +6,7 @@ nav_order: 175
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Canakinumab: 예측 신규 적응증 간 경색 (Hepatic Infarction) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조)"
+description: "Canakinumab: 예측 신규 적응증 간 경색 (Hepatic Infarction) (근거 수준 L5). 기존 적응증: 1. 소아 (만 2세 이상) 및 성인에서의 크리오피린 관련 주기적 증후군…"
 monitor_inn: "CANAKINUMAB"
 predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **간 경색(hepatic infarction)**에 효과가 있을 수 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 1. 소아 (만 2세 이상) 및 성인에서의 크리오피린 관련 주기적 증후군 (Cryopyrin-Associated PeriodicSyndroms, CAPS)의 치료 •가족성 한냉 자가염증성 증후군 (Familial Cold Autoinflammatory Syndrom, FCAS)/… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803269/EE)) |
 | 예측 신규 적응증 | 간 경색 (Hepatic Infarction) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |

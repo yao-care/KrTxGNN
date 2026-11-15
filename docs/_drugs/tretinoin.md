@@ -6,7 +6,7 @@ nav_order: 760
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-11-05
-description: "Tretinoin: 예측 신규 적응증 류마티스 결절증 (rheumatoid nodulosis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않았습니다 (허가증에 PDF 링크만 있음)"
+description: "Tretinoin: 예측 신규 적응증 류마티스 결절증 (rheumatoid nodulosis) (근거 수준 L5). 기존 적응증: 심상성 여드름(보통 여드름) 및 광노화(미세주름, 과색소 침착)완화"
 monitor_inn: "TRETINOIN"
 predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 ---
@@ -44,7 +44,7 @@ Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 확인되지 않았습니다 (허가증에 PDF 링크만 있음) |
+| 기존 적응증 | 심상성 여드름(보통 여드름) 및 광노화(미세주름, 과색소 침착)완화 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201604596/EE)) |
 | 예측 신규 적응증 | 류마티스 결절증 (rheumatoid nodulosis) |
 | TxGNN 예측 점수 | 0.9984 |
 | 근거 수준 | L5 |

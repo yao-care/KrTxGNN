@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Bedaquiline"
 predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "esophageal candidiasis"]
 last_modified_at: 2026-10-31
-description: "Bedaquiline: 예측 신규 적응증 외음질 칸디다증 (vulvovaginal candidiasis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Bedaquiline: 예측 신규 적응증 외음질 칸디다증 (vulvovaginal candidiasis) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 (Mycobacterium tuberculosis) ○ 적응증 성인(만 18세 이상)…"
 ---
 
 # Bedaquiline
@@ -44,7 +44,7 @@ Bedaquiline은 한국에서 단일 성분 제제로 허가된 약물입니다. T
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401310/EE) |
+| 기존 적응증 | ○ 유효균종 결핵균 (Mycobacterium tuberculosis) ○ 적응증 성인(만 18세 이상) 및 청소년(만 12세 이상 18세 미만으로 체중 30kg 이상)의 다제내성 폐결핵에 대한 병용요법 다제내성 폐결핵이란 환자로부터 분리한 균주가 이소니아지드와 리팜피신에 대해 생체… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401310/EE)) |
 | 예측 신규 적응증 | 외음질 칸디다증 (vulvovaginal candidiasis) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |

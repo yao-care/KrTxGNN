@@ -6,7 +6,7 @@ nav_order: 245
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-11-05
-description: "Dabigatran Etexilate: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 한국 허가증에는 허가 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어…"
+description: "Dabigatran Etexilate: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 1. 비판막성 심방세동 환자에서 뇌졸중 및 전신색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의…"
 monitor_inn: "DABIGATRAN ETEXILATE"
 predicted_indications: ["sclerosing cholangitis", "obsolete familial combined hyperlipidemia", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "primary release disorder of platelets"]
 ---
@@ -44,7 +44,7 @@ Dabigatran etexilate는 직접 트롬빈 억제제 계열의 경구 항응고제
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 한국 허가증에는 허가 적응증 원문 대신 허가사항 문서 링크만 수록되어 있어, 이번 자료로는 구체적인 적응증 문구를 확인할 수 없습니다 |
+| 기존 적응증 | 1. 비판막성 심방세동 환자에서 뇌졸중 및 전신색전증의 위험 감소 2. 심재성 정맥혈전증 및 폐색전증의 치료 3. 심재성 정맥혈전증 및 폐색전증의 재발 위험 감소 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804541/EE)) |
 | 예측 신규 적응증 | 경화성 담관염 (Sclerosing Cholangitis) |
 | TxGNN 예측 점수 | 0.9982 |
 | 근거 수준 | L5 |

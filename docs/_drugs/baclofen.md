@@ -6,7 +6,7 @@ nav_order: 121
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Baclofen: 예측 신규 적응증 주의력결핍 과잉행동장애 (Attention Deficit-Hyperactivity Disorder) (근거 수준 L5). 기존 적응증: 근육 경직(spasticity). 허가 문서는 링크로만 확인되었고, 적응증은 문헌의 설명을 따랐습니다"
+description: "Baclofen: 예측 신규 적응증 주의력결핍 과잉행동장애 (Attention Deficit-Hyperactivity Disorder) (근거 수준 L5). 기존 적응증: 1. 다발성 경화증, 척추소뇌변성증으로 인한 골격근의 경직 2. 척수질환(염증성, 퇴행성, 외상성…"
 monitor_inn: "BACLOFEN"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **주의력결핍 과잉행동장애(ADHD)**에 효과가 있을
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 근육 경직(spasticity). 허가 문서는 링크로만 확인되었고, 적응증은 문헌의 설명을 따랐습니다. |
+| 기존 적응증 | 1. 다발성 경화증, 척추소뇌변성증으로 인한 골격근의 경직 2. 척수질환(염증성, 퇴행성, 외상성, 신생성, 원인불명 등)으로 인한 경직(예 : 경직성 척수마비, 근위축성 축색경화증, 척수공동증, 횡단성척수염, 외상성하지마비, 척수의 압박증, 기타의 척수병 등) 3. 대뇌 원인으로… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501456/EE)) |
 | 예측 신규 적응증 | 주의력결핍 과잉행동장애 (Attention Deficit-Hyperactivity Disorder) |
 | TxGNN 예측 점수 | 0.9932 |
 | 근거 수준 | L5 (모델 예측만 있고 직접적인 임상 연구 없음) |

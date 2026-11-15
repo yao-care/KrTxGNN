@@ -6,7 +6,7 @@ nav_order: 558
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Ocrelizumab: 예측 신규 적응증 HER2 양성 유방암 (HER2 positive breast carcinoma) (근거 수준 L5). 기존 적응증: 다발성 경화증 (허가 적응증 텍스트는 링크로만 제공되어 문헌 기준으로 판단)"
+description: "Ocrelizumab: 예측 신규 적응증 HER2 양성 유방암 (HER2 positive breast carcinoma) (근거 수준 L5). 기존 적응증: 1. 임상적 독립증후군, 재발 완화형 다발성 경화증 및 활성 이차 진행형 다발성 경화증을 포함한 성인의…"
 monitor_inn: "OCRELIZUMAB"
 predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **HER2 양성 유방암(HER2 positive breast carcinoma)**에 효
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 다발성 경화증 (허가 적응증 텍스트는 링크로만 제공되어 문헌 기준으로 판단) |
+| 기존 적응증 | 1. 임상적 독립증후군, 재발 완화형 다발성 경화증 및 활성 이차 진행형 다발성 경화증을 포함한 성인의 재발형 다발성 경화증(RMS, relapsing forms of multiple sclerosis)의 치료 2. 성인의 일차 진행형 다발성 경화증(PPMS, primary… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401165/EE)) |
 | 예측 신규 적응증 | HER2 양성 유방암 (HER2 positive breast carcinoma) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |

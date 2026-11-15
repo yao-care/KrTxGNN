@@ -6,7 +6,7 @@ nav_order: 714
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-11-13
-description: "Tadalafil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 미확보 (허가증에는 PDF 링크만 포함되어 있어 확인 불가)"
+description: "Tadalafil: 예측 신규 적응증 Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 1. 발기부전 (erectile dysfunction)의 치료 이 약이 효과적이려면, 성적자극(sexual…"
 monitor_inn: "TADALAFIL"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **Ambras형 선천성 전신 다모증(Ambras type hypertrichosi
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 미확보 (허가증에는 PDF 링크만 포함되어 있어 확인 불가) |
+| 기존 적응증 | 1. 발기부전 (erectile dysfunction)의 치료 이 약이 효과적이려면, 성적자극(sexual stimulation)을 필요로 한다. 이 약은 여성에 의한 사용을 그 적응증 으로 하지 않는다. 2. 양성 전립선 비대증 양성 전립선 비대증의 징후 및 증상의 치료 3… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201703977/EE)) |
 | 예측 신규 적응증 | Ambras형 선천성 전신 다모증 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

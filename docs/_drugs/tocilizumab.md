@@ -6,7 +6,7 @@ nav_order: 741
 evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Tocilizumab: 예측 신규 적응증 강직성 척추염 (Ankylosing Spondylitis) (근거 수준 L3). 기존 적응증: 류마티스 관절염 등 (문헌 기준, 한국 허가 적응증 원문은 허가사항 링크로만 제공되어 확인 필요)"
+description: "Tocilizumab: 예측 신규 적응증 강직성 척추염 (Ankylosing Spondylitis) (근거 수준 L3). 기존 적응증: 1. 류마티스 관절염 - 메토트렉세이트(MTX)를 포함한 이전에 한 가지 이상의 DMARDs에 대한 반응이…"
 monitor_inn: "TOCILIZUMAB"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **강직성 척추염(Ankylosing Spondylitis)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 류마티스 관절염 등 (문헌 기준, 한국 허가 적응증 원문은 허가사항 링크로만 제공되어 확인 필요) |
+| 기존 적응증 | 1. 류마티스 관절염 - 메토트렉세이트(MTX)를 포함한 이전에 한 가지 이상의 DMARDs에 대한 반응이 충분하지 않거나 내약성이 없는 중등도 내지 중증의 활동성 류마티스 관절염의 치료 - 메토트렉세이트와의 병용투여 시 관절손상 진행속도의 감소(X-선 측정결과)와 신체 기능의 향상 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500309/EE)) |
 | 예측 신규 적응증 | 강직성 척추염 (Ankylosing Spondylitis) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L3 (완료된 Phase 3 RCT 없음. 조기 종료된 RCT와 체계적 문헌고찰 존재) |

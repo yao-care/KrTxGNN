@@ -6,7 +6,7 @@ nav_order: 326
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Etizolam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L4). 기존 적응증: 확인 불가 (허가 적응증 본문이 아닌 허가 문서 링크만 확보됨)"
+description: "Etizolam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L4). 기존 적응증: 1. 신경증에서의 불안·긴장·우울·신경쇠약증 2. 우울증에 수반하는 불안·긴장 3. 정신신체장애(고혈압…"
 monitor_inn: "ETIZOLAM"
 predicted_indications: ["insomnia (disease)"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **불면증(insomnia)**에 효과가 있을 수 있다고 예측
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문이 아닌 허가 문서 링크만 확보됨) |
+| 기존 적응증 | 1. 신경증에서의 불안·긴장·우울·신경쇠약증 2. 우울증에 수반하는 불안·긴장 3. 정신신체장애(고혈압, 위·십이지장궤양)에서의 불안·긴장·우울 4. 다음 질환에서의 불안·긴장·우울 및 근긴장 : 경추증, 요통, 근수축성 두통 5. 다음 질환에 의한 수면장애 : 신경증, 우울증… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199002729/EE)) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L4 (전임상 연구 및 기전 추정 수준. 완료된 RCT 없음) |

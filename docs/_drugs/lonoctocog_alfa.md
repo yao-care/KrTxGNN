@@ -6,7 +6,7 @@ nav_order: 482
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-31
-description: "Lonoctocog Alfa: 예측 신규 적응증 가성 폰빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가증에 첨부 문서 링크만 등록됨). 제품 특성상 혈액응고인자 VIII 제제입니다"
+description: "Lonoctocog Alfa: 예측 신규 적응증 가성 폰빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: A형 혈우병 (혈액응고 제 8인자의 선천성 결핍) 성인 및 소아 환자에서의 - 출혈 억제 및 예방 - 출혈…"
 monitor_inn: "LONOCTOCOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome"]
 ---
@@ -44,7 +44,7 @@ Lonoctocog alfa는 B 도메인이 제거된 단일 사슬 재조합 혈액응고
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가증에 첨부 문서 링크만 등록됨). 제품 특성상 혈액응고인자 VIII 제제입니다. |
+| 기존 적응증 | A형 혈우병 (혈액응고 제 8인자의 선천성 결핍) 성인 및 소아 환자에서의 - 출혈 억제 및 예방 - 출혈 예방 또는 빈도 감소를 위한 일상적인 예방요법 - 수술 전후 예방 (외과적 예방) 이 약은 본 빌레브란트 환자의 치료에는 사용되지 않는다. ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000311/EE)) |
 | 예측 신규 적응증 | 가성 폰빌레브란트병 (pseudo-von Willebrand disease) |
 | TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L5 |

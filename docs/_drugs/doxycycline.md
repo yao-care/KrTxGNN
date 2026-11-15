@@ -6,7 +6,7 @@ nav_order: 293
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-12
-description: "Doxycycline: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 허가증별 적응증 원문은 문서 링크로만 확인되어 구체적 내용을 확인하지 못했습니다(항생제로 세균 감염 치료에 사용)"
+description: "Doxycycline: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: ○ 유효균종 리케차, 폐렴미코플라스마, 앵무병클라미디아, 재귀열균, 육아종피막성구균, 트라코마 클라미디아…"
 monitor_inn: "doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
 ---
@@ -44,7 +44,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증별 적응증 원문은 문서 링크로만 확인되어 구체적 내용을 확인하지 못했습니다(항생제로 세균 감염 치료에 사용) |
+| 기존 적응증 | ○ 유효균종 리케차, 폐렴미코플라스마, 앵무병클라미디아, 재귀열균, 육아종피막성구균, 트라코마 클라미디아, 연성하감균, 콜레라균, 페스트균, 박테로이드, 브루셀라, 대장균, 엔터로박터, 인플루엔자균, 클레브시엘라, 연쇄구균,폐렴연쇄구균, 황색포도구균, 임균, 매독균, 리스테리아… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202687/EE)) |
 | 예측 신규 적응증 | 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) |
 | TxGNN 예측 점수 | 0.9994 (모델 순위 509위) |
 | 근거 수준 | L5 |
