@@ -6,7 +6,7 @@ nav_order: 335
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-31
-description: "Exemestane: 예측 신규 적응증 항트롬빈 결핍증 2형 (antithrombin deficiency type 2) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가증 원문 링크만 제공됨)"
+description: "Exemestane: 예측 신규 적응증 항트롬빈 결핍증 2형 (antithrombin deficiency type 2) (근거 수준 L5). 기존 적응증: 항에스트로겐 치료에도 질병이 진전된 자연적 또는 인공적으로 폐경이 된 여성의 진행성 유방암…"
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
 ---
@@ -44,7 +44,7 @@ Exemestane은 스테로이드성 비가역적 아로마타제 억제제로, 한�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가증 원문 링크만 제공됨) |
+| 기존 적응증 | 항에스트로겐 치료에도 질병이 진전된 자연적 또는 인공적으로 폐경이 된 여성의 진행성 유방암. 에스트로겐수용체 음성을 보이는 환자에 대해서는 유효성이 입증되지 않았다. 에스트로겐 수용체 양성인 폐경기 이후 여성의 조기 유방암의 보조 치료. 총 5년간의 보조 호르몬 치료기간중… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801867/EE)) |
 | 예측 신규 적응증 | 항트롬빈 결핍증 2형 (antithrombin deficiency type 2) |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 |

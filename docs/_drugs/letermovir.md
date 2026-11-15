@@ -6,7 +6,7 @@ nav_order: 469
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Letermovir: 예측 신규 적응증 외음질 칸디다증 (vulvovaginal candidiasis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조)"
+description: "Letermovir: 예측 신규 적응증 외음질 칸디다증 (vulvovaginal candidiasis) (근거 수준 L5). 기존 적응증: 1. 조혈모세포이식(HSCT) 수여자의 거대세포바이러스(CMV) 예방 동종조혈모세포이식(HSCT)을 받은…"
 monitor_inn: "LETERMOVIR"
 predicted_indications: ["vulvovaginal candidiasis"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **외음질 칸디다증(vulvovaginal candidiasis)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적 문구를 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 1. 조혈모세포이식(HSCT) 수여자의 거대세포바이러스(CMV) 예방 동종조혈모세포이식(HSCT)을 받은 성인 및 소아 거대세포바이러스(CMV)-혈청 양성[R+] 환자에서 거대세포바이러스(CMV) 감염 및 질환의 예방 2. 신장이식 수여자의 거대세포바이러스(CMV) 예방… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805301/EE)) |
 | 예측 신규 적응증 | 외음질 칸디다증 (vulvovaginal candidiasis) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |

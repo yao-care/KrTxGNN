@@ -6,7 +6,7 @@ nav_order: 632
 evidence_level: L3
 indication_count: 4
 last_modified_at: 2026-10-31
-description: "Propacetamol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 확인되어 구체적인 내용은 허가사항을 참조해야 합니다"
+description: "Propacetamol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 통증이나 고열로 인하여 신속하게 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 1. 외과 수술 후…"
 monitor_inn: "Propacetamol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "headache disorder"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 확인되어 구체적인 내용은 허가사항을 참조해야 합니다 |
+| 기존 적응증 | 통증이나 고열로 인하여 신속하게 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 1. 외과 수술 후 통증 2. 발열의 단기간 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500674/EE)) |
 | 예측 신규 적응증 | 편두통 (Migraine disorder) |
 | TxGNN 예측 점수 | 0.9968 |
 | 근거 수준 | L3 |

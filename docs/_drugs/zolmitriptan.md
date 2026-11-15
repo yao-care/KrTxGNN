@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-31
 monitor_inn: "ZOLMITRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-description: "Zolmitriptan: 예측 신규 적응증 Atrophoderma vermiculata (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Zolmitriptan: 예측 신규 적응증 Atrophoderma vermiculata (근거 수준 L5). 기존 적응증: (정제) 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료"
 ---
 
 # Zolmitriptan
@@ -44,7 +44,7 @@ Zolmitriptan은 선택적 5-HT1B/1D 수용체 작용제(트립탄 계열)로, �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907046/EE) |
+| 기존 적응증 | (정제) 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907046/EE)) |
 | 예측 신규 적응증 | Atrophoderma vermiculata |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 (전임상·기전 및 리뷰 수준의 근거만 있음) |

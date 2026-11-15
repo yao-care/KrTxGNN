@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-05
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
-description: "Imipenem: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Imipenem: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: ○ 유효균종 포도구균, 연쇄구균, 대장균, 시트로박터, 클레브시엘라, 엔테로박터, 세라티 아, 푸로테우스…"
 ---
 
 # Imipenem
@@ -44,7 +44,7 @@ Imipenem은 세균 세포벽 합성을 억제하는 카바페넴계 항생제입
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703652/EE) |
+| 기존 적응증 | ○ 유효균종 포도구균, 연쇄구균, 대장균, 시트로박터, 클레브시엘라, 엔테로박터, 세라티 아, 푸로테우스, 슈도 모나스, 인 플루엔자균, 아시네토박터, 박테로이드, 펩토구균, 펩토연쇄구균 ○ 적응증 - 기관지염, 기관지확장증(감염 시), 만성호흡기질환의 2차 감염, 폐렴, 폐농양… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703652/EE)) |
 | 예측 신규 적응증 | 미만성 피부경화증 (diffuse scleroderma) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

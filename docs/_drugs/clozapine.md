@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-04
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-description: "Clozapine: 예측 신규 적응증 조증 양극성 정동장애 (manic bipolar affective disorder) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Clozapine: 예측 신규 적응증 조증 양극성 정동장애 (manic bipolar affective disorder) (근거 수준 L2). 기존 적응증: 1. 약제내성 조현병 환자 또는 심한 추체외로계 이상반응(특히, 지연이상운동)을 일으키는 조현병 환자의…"
 ---
 
 # Clozapine
@@ -44,7 +44,7 @@ Clozapine은 도파민, 세로토닌, 무스카린, 아드레날린, 히스타�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804185/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307798/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804474/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309789/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307799/EE);  |
+| 기존 적응증 | 1. 약제내성 조현병 환자 또는 심한 추체외로계 이상반응(특히, 지연이상운동)을 일으키는 조현병 환자의 치료 2. 병력과 최근 임상 상태로 미루어 보아, 자살 행동 위험이 있는 조현병 또는 분열정동장애 환자의 자살 행동 위험 감소 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804185/EE)) |
 | 예측 신규 적응증 | 조증 양극성 정동장애 (manic bipolar affective disorder) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L2 |

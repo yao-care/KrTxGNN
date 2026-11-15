@@ -6,7 +6,7 @@ nav_order: 450
 evidence_level: L1
 indication_count: 3
 last_modified_at: 2026-11-12
-description: "Ketorolac: 예측 신규 적응증 두통 질환 (Headache Disorder) (근거 수준 L1). 기존 적응증: 허가 적응증 본문은 허가증 원문(PDF 링크)으로만 확인되어 요약하지 못했습니다. 일반적으로 급성 통증의 단기 관리에 사용됩…"
+description: "Ketorolac: 예측 신규 적응증 두통 질환 (Headache Disorder) (근거 수준 L1). 기존 적응증: 1. 중등도 및 중증의 급성통증(수술후 통증 포함)에 대한 단기요법 2. 2세 이상의 소아 마약성 진통제가…"
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]
 ---
@@ -44,7 +44,7 @@ predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigemin
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 허가증 원문(PDF 링크)으로만 확인되어 요약하지 못했습니다. 일반적으로 급성 통증의 단기 관리에 사용됩니다. |
+| 기존 적응증 | 1. 중등도 및 중증의 급성통증(수술후 통증 포함)에 대한 단기요법 2. 2세 이상의 소아 마약성 진통제가 금기인 중증의 수술 후 통증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907963/EE)) |
 | 예측 신규 적응증 | 두통 질환 (Headache Disorder) |
 | TxGNN 예측 점수 | 0.9943 |
 | 근거 수준 | L1 (아래 유의사항 참조) |

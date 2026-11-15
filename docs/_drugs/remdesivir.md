@@ -6,7 +6,7 @@ nav_order: 649
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-31
-description: "Remdesivir: 예측 신규 적응증 다중 내분비 종양증 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가 문서 링크만 제공됨)"
+description: "Remdesivir: 예측 신규 적응증 다중 내분비 종양증 (Multiple Endocrine Neoplasia) (근거 수준 L5). 기존 적응증: 1) PCR 검사 등을 통해 확진된, 다음 중 어느 하나 이상에 해당하는 입원한 성인 및 소아(생후 28일…"
 monitor_inn: "Remdesivir"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **다중 내분비 종양증(Multiple Endocrine Neoplasia)**에 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가 문서 링크만 제공됨). |
+| 기존 적응증 | 1) PCR 검사 등을 통해 확진된, 다음 중 어느 하나 이상에 해당하는 입원한 성인 및 소아(생후 28일 이상이고체중 3 kg 이상) 코로나바이러스감염증-19 환자의 치료: ‧ 폐렴 ‧ 실내공기(room air)에서 산소포화도(SpO2) 94% 이하인 환자 ‧ 보조산소 치료가 필요한… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202005381/EE)) |
 | 예측 신규 적응증 | 다중 내분비 종양증 (Multiple Endocrine Neoplasia) |
 | TxGNN 예측 점수 | 0.9950 |
 | 근거 수준 | L5 |

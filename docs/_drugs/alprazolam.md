@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-description: "Alprazolam: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L4). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Alprazolam: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L4). 기존 적응증: 1. 불안장애의 치료 및 불안증상의 단기완화 2. 우울증에 수반하는 불안 3…"
 ---
 
 # Alprazolam
@@ -44,7 +44,7 @@ Alprazolam은 벤조디아제핀계 약물로, 불안·공황 증상 치료에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309193/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604965/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198702209/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500559/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198802986/EE);  |
+| 기존 적응증 | 1. 불안장애의 치료 및 불안증상의 단기완화 2. 우울증에 수반하는 불안 3. 정신신체장애(위·십이지장궤양, 과민성대장증후군, 자율신경실조증)에서의 불안·긴장·우울·수면장애 4. 공황장애 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309193/EE)) |
 | 예측 신규 적응증 | 불면증 (insomnia (disease)) |
 | TxGNN 예측 점수 | 0.9981 |
 | 근거 수준 | L4 (기전적 타당성만 있고 직접적 임상 근거 없음) |

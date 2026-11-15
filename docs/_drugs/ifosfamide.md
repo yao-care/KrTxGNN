@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Ifosfamide"
 predicted_indications: ["unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 last_modified_at: 2026-10-31
-description: "Ifosfamide: 예측 신규 적응증 미분류 골수이형성증후군 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트 없이 허가사항 링크만 확인됨)"
+description: "Ifosfamide: 예측 신규 적응증 미분류 골수이형성증후군 (근거 수준 L5). 기존 적응증: 기관지암, 소세포기관지암, 난소암, 유방암, 고환종, 췌장암, 악성림프종, 골육종, 연조직 육종(평활근종…"
 ---
 
 # Ifosfamide
@@ -44,7 +44,7 @@ Ifosfamide는 한국에서 부광약품의 주사제(홀록산주)로 허가된 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 텍스트 없이 허가사항 링크만 확인됨) |
+| 기존 적응증 | 기관지암, 소세포기관지암, 난소암, 유방암, 고환종, 췌장암, 악성림프종, 골육종, 연조직 육종(평활근종, 횡문근종, 연골육종), 자궁경부암, 두경부암, 유잉육종 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804588/EE)) |
 | 예측 신규 적응증 | 미분류 골수이형성증후군 |
 | TxGNN 예측 점수 | 0.9971 |
 | 근거 수준 | L5 |

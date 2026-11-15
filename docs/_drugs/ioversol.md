@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Ioversol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
 last_modified_at: 2026-11-05
-description: "Ioversol: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨)"
+description: "Ioversol: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 성인 : 뇌동맥조영, 말초동맥조영, 내장ㆍ신장동맥 및 대동맥조영, 관상동맥조영 및 좌심실조영, CT…"
 ---
 
 # Ioversol
@@ -45,7 +45,7 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 성인 : 뇌동맥조영, 말초동맥조영, 내장ㆍ신장동맥 및 대동맥조영, 관상동맥조영 및 좌심실조영, CT 조영증강 (두부, 체부), 정맥요로조영(IVP) 소아 (1세 이상) : 심혈관조영술, CT 조영 증강 (두부, 체부), 정맥요로조영(IVP) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109916/EE)) |
 | 예측 신규 적응증 | 골관절염 |
 | TxGNN 예측 점수 | 0.9963 |
 | 근거 수준 | L5 |

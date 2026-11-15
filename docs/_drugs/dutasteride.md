@@ -6,7 +6,7 @@ nav_order: 296
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Dutasteride: 예측 신규 적응증 Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 텍스트가 확인되지 않아 기재할 수 없음 (허가 문서 링크만 확인됨)"
+description: "Dutasteride: 예측 신규 적응증 Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 중등도~중증의 양성 전립선 비대증 증상의 치료"
 monitor_inn: "DUTASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
 ---
@@ -44,7 +44,7 @@ Dutasteride는 5-알파 환원효소 억제제로, 한국에서 단일제 및 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 텍스트가 확인되지 않아 기재할 수 없음 (허가 문서 링크만 확인됨) |
+| 기존 적응증 | 중등도~중증의 양성 전립선 비대증 증상의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500183/EE)) |
 | 예측 신규 적응증 | Ambras형 범발성 선천성 다모증 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |

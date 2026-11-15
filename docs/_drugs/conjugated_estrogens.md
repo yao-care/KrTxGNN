@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-04
 monitor_inn: "Conjugated estrogens"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
-description: "Conjugated Estrogens: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Conjugated Estrogens: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: (경구 : 정제) 1. 성선기능저하증, 난소적출, 난소기능부전으로 인한 저에스트로겐증 2. 위축성 질염…"
 ---
 
 # Conjugated Estrogens
@@ -44,7 +44,7 @@ Conjugated estrogens(결합형 에스트로겐)는 에스트로겐 호르몬 제
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710608/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710607/EE) |
+| 기존 적응증 | (경구 : 정제) 1. 성선기능저하증, 난소적출, 난소기능부전으로 인한 저에스트로겐증 2. 위축성 질염, 외음위축증 3. 갱년기장애 4. 기능성 자궁출혈 5. 골다공증 6. 폐경 후의 유방암(경감용) 7. 수술불능의 진행성 전립선암(경감용) (주사제) 1. 호르몬 불균형에 의한 기능적… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710608/EE)) |
 | 예측 신규 적응증 | 편두통 (migraine disorder) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 |

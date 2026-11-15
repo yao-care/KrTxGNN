@@ -6,7 +6,7 @@ nav_order: 333
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-31
-description: "Evocalcet: 예측 신규 적응증 고인산혈증 (Hyperphosphatemia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용은 확인되지 않음 (일반적으로 만성 신장병 환자의 이차성 부갑상선기능항진…"
+description: "Evocalcet: 예측 신규 적응증 고인산혈증 (Hyperphosphatemia) (근거 수준 L5). 기존 적응증: 투석을 받고 있는 만성신부전 환자와 관련된 이차성 부갑상선 기능 항진증의 치료"
 monitor_inn: "EVOCALCET"
 predicted_indications: ["hyperphosphatemia (disease)", "tumoral calcinosis, hyperphosphatemic, familial", "familial hyperphosphatemic tumoral calcinosis/hyperphosphatemic hyperostosis syndrome", "pancreatitis", "hereditary hypercarotenemia and vitamin A deficiency", "primary hyperoxaluria", "familial apolipoprotein C-II deficiency", "C1 inhibitor deficiency"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **고인산혈증(hyperphosphatemia)**에 효과가 있을 수 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용은 확인되지 않음 (일반적으로 만성 신장병 환자의 이차성 부갑상선기능항진증) |
+| 기존 적응증 | 투석을 받고 있는 만성신부전 환자와 관련된 이차성 부갑상선 기능 항진증의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303149/EE)) |
 | 예측 신규 적응증 | 고인산혈증 (Hyperphosphatemia) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 (전임상 및 기전 연구 수준) |

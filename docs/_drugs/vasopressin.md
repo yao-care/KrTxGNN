@@ -6,7 +6,7 @@ nav_order: 780
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Vasopressin: 예측 신규 적응증 선천성 프로트롬빈 결핍증 (Congenital Prothrombin Deficiency) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문 확인 필요)"
+description: "Vasopressin: 예측 신규 적응증 선천성 프로트롬빈 결핍증 (Congenital Prothrombin Deficiency) (근거 수준 L5). 기존 적응증: 뇌하수체성 요붕증, 뇌하수체성 또는 신성 요붕증의 감별진단, 장내가스제거(복부팽만감, 담낭 촬영의 전처리…"
 monitor_inn: "VASOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(Congenital Prothrombin Def
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문 확인 필요) |
+| 기존 적응증 | 뇌하수체성 요붕증, 뇌하수체성 또는 신성 요붕증의 감별진단, 장내가스제거(복부팽만감, 담낭 촬영의 전처리, 신우 촬영의 전처리), 식도정맥류출혈의 긴급 처치 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401223/EE)) |
 | 예측 신규 적응증 | 선천성 프로트롬빈 결핍증 (Congenital Prothrombin Deficiency) |
 | TxGNN 예측 점수 | 0.9963 |
 | 근거 수준 | L5 (모델 예측 중심, 직접 근거 없음) |

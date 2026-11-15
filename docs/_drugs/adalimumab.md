@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "ADALIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
 last_modified_at: 2026-11-05
-description: "Adalimumab: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Adalimumab: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: 성인 1. 류마티스 관절염 메토트렉세이트를 포함한 DMARDs(disease-modifying…"
 ---
 
 # Adalimumab
@@ -46,7 +46,7 @@ TxGNN 모델은 **꼬리뼈 과가동성 (hypermobility of coccyx)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402438/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106947/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303340/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303341/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600554/EE);  |
+| 기존 적응증 | 성인 1. 류마티스 관절염 메토트렉세이트를 포함한 DMARDs(disease-modifying anti-rheumatic drugs)에 대한 반응이 적절하지 않은 성인의 중등도에서 중증의 활동성 류마티스 관절염의 치료 이전에 메토트렉세이트로 치료받지 않은 성인의 중증의 활동성 및… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402438/EE)) |
 | 예측 신규 적응증 | 꼬리뼈 과가동성 (hypermobility of coccyx) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 |

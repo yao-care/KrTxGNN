@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
 last_modified_at: 2026-11-04
-description: "Sirolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Sirolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: 1. 13세 이상 신장이식 환자에서의 장기 거부반응 예방. ○ 면역학적 위험이 낮거나 중등도인 환자:…"
 ---
 
 # Sirolimus
@@ -44,7 +44,7 @@ Sirolimus는 mTOR 억제제 계열의 약물입니다. TxGNN 모델은 **지방�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803186/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904571/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202000918/EE) |
+| 기존 적응증 | 1. 13세 이상 신장이식 환자에서의 장기 거부반응 예방. ○ 면역학적 위험이 낮거나 중등도인 환자: 초기에는 사이클로스포린 및 코르티코스테로이드제와의 병용요 법이 권장되며, 이식 후 2~4개월 이내에 사이클로스포린의 투여를 철회한다. ○ 면역학적 위험이 높은 환자: 이식 후 첫 1년… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803186/EE)) |
 | 예측 신규 적응증 | 지방육종 (liposarcoma) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |

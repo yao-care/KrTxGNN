@@ -6,7 +6,7 @@ nav_order: 576
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Palivizumab: 예측 신규 적응증 설소 양성 종양 (benign neoplasm of tongue) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번 데이터에 포함되지 않았습니다(허가사항 문서 링크만 확인됨). 허가사항을 직접 확인해야 합니다"
+description: "Palivizumab: 예측 신규 적응증 설소 양성 종양 (benign neoplasm of tongue) (근거 수준 L5). 기존 적응증: RSV질환에 대한 위험이 높은 소아에서 RSV(Respiratory Syncytial Virus)로 인해…"
 monitor_inn: "Palivizumab"
 predicted_indications: ["benign neoplasm of tongue", "epiglottis neoplasm", "cervical neuroblastoma", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "tumor of testis and paratestis", "cystic neoplasm", "schwannoma of jugular foramen", "mesenchymoma", "thyroglossal duct cyst"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **설소 양성 종양(benign neoplasm of tongue)**에 효과가
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 이번 데이터에 포함되지 않았습니다(허가사항 문서 링크만 확인됨). 허가사항을 직접 확인해야 합니다. |
+| 기존 적응증 | RSV질환에 대한 위험이 높은 소아에서 RSV(Respiratory Syncytial Virus)로 인해 입원이 필요한 심각한 하기도 질환의 예방 - 재태 기간 35주 이하로 태어나고 RSV 계절 시작시점에 생후 6개월 이하인 소아 - 최근 6개월 이내에… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201605448/EE)) |
 | 예측 신규 적응증 | 설소 양성 종양 (benign neoplasm of tongue) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |

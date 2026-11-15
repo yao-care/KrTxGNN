@@ -6,7 +6,7 @@ nav_order: 569
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-06
-description: "Oxiracetam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트를 확인할 수 없음 (허가증에 PDF 링크만 있음)"
+description: "Oxiracetam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 다음 질환으로 인한 증상(기억력·주의력·집중력 감소, 지남력장애, 언어·행동장애, 정서불안, 의욕결핍)의…"
 monitor_inn: "OXIRACETAM"
 predicted_indications: ["insomnia (disease)"]
 ---
@@ -44,7 +44,7 @@ Oxiracetam은 라세탐(racetam) 계열 약물로, 한국에서 수출용 단일
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트를 확인할 수 없음 (허가증에 PDF 링크만 있음) |
+| 기존 적응증 | 다음 질환으로 인한 증상(기억력·주의력·집중력 감소, 지남력장애, 언어·행동장애, 정서불안, 의욕결핍)의 개선 : 알쯔하이머형 치매, 다발경색성 치매, 뇌기능부전으로 인한 기질성 뇌증후군 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502486/EE)) |
 | 예측 신규 적응증 | 불면증 (Insomnia) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |

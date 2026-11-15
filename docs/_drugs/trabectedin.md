@@ -6,7 +6,7 @@ nav_order: 749
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Trabectedin: 예측 신규 적응증 여성 유방암 (Female Breast Carcinoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
+description: "Trabectedin: 예측 신규 적응증 여성 유방암 (Female Breast Carcinoma) (근거 수준 L5). 기존 적응증: 안트라사이클린 및 이포스파마이드 치료요법에 실패했거나, 이들 약제 투여가 부적합한, 진행된 연조직 육종"
 monitor_inn: "TRABECTEDIN"
 predicted_indications: ["female breast carcinoma"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 안트라사이클린 및 이포스파마이드 치료요법에 실패했거나, 이들 약제 투여가 부적합한, 진행된 연조직 육종 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804451/EE)) |
 | 예측 신규 적응증 | 여성 유방암 (Female Breast Carcinoma) |
 | TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L5 |

@@ -523,3 +523,10 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 所以每週排程、license_rebuild_run、sync_notes_to_docs 之後張數會跟著事實層更新；gate 第 21 項擋「再跑一次會變」。
 判斷不了的句子（說「全部有效／全部單方」而事實不符、沒有限定詞而有效數≠總數、建立在 0 張前提上）不改，`--list` 列出，2026-11-12 已用 `--uncertain` 加進待查清單（source：正文許可證張數程式改寫判斷不了的句子），要改請寫查核紀錄。
 2026-11-12 待查清單裡程式判斷不了的 4 句已逐句對照事實層與證據包：codeine（「전체 7건」實為單方 7 張、全部 11 張）、glatiramer_acetate（「現在 0 張」→有效 1 張）、ramipril（單方 4→7 張、另有 felodipine 複方 2 張）以 `kr-lic-20261112-*` 改寫；adenosine 的「4건」是 adenosine 單方 4 張，不用改，標 resolved。事實層的 single_total 把複方也算進去（codeine、ramipril），單方／複方字樣照證據包成分判斷。
+
+## 기존 적응증（原適應症）的 MFDS 原文（2026-11-15）
+
+MFDS 의약품안전나라 허가 자료的效能·效果（EE_DOC）欄位是 PDF 下載網址，產線照抄，頁面「기존 적응증」只有網址或 AI 寫的「確認不到原文」，搜尋索引 original 也是網址。
+- `scripts/build_mfds_indications.py`：證據包本藥單方許可證的 EE PDF 轉出的文字（母目錄 `.claude/kr_mfds_ee_20261023.py` 的快取，nedrug 擋雲端主機，要在本機下載）→ `docs/_data/mfds_original_indications.json`（每筆附許可證號與 PDF 網址；不改寫原文，只合併 PDF 折行）。2026-11-15 由 Release data-20261112-162414 的證據包產生，620 個藥有原文。
+- `scripts/link_mfds_pdfs.py`（apply_drug_reviews.py 結尾自動跑，gate 第 22 項）：有原文資料、而該列只有連結或寫「確認不到原文」的，改成原文摘要（160 字內）＋PDF 連結，description 同步；本來就有原文的列不動。2026-11-15 改了 523 頁（519 列＋description）。
+- search-index original：569 個原本空白的藥填入原文（300 字內）；母目錄 rebuild_search_index.py 會沿用既有 original。仍有 42 個藥取不到原文（32 個 PDF 不在快取、其餘證據包沒有網址），維持空白、SMART 顯示「—」。

@@ -6,7 +6,7 @@ nav_order: 394
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Granisetron: 예측 신규 적응증 조증 양극성 정동장애 (manic bipolar affective disorder) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 텍스트가 문서 링크로만 제공됨)"
+description: "Granisetron: 예측 신규 적응증 조증 양극성 정동장애 (manic bipolar affective disorder) (근거 수준 L5). 기존 적응증: (주사제) 성인 - 화학요법, 방사선요법으로 인한 구역 및 구토 - 수술 후 구역 및 구토 소아(2세…"
 monitor_inn: "GRANISETRON"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **조증 양극성 정동장애(manic bipolar affective disorder
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 텍스트가 문서 링크로만 제공됨) |
+| 기존 적응증 | (주사제) 성인 - 화학요법, 방사선요법으로 인한 구역 및 구토 - 수술 후 구역 및 구토 소아(2세 이상) - 화학요법으로 인한 구역 및 구토 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201109302/EE)) |
 | 예측 신규 적응증 | 조증 양극성 정동장애 (manic bipolar affective disorder) |
 | TxGNN 예측 점수 | 0.9962 |
 | 근거 수준 | L5 |

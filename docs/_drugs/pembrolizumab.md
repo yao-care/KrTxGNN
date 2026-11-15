@@ -6,7 +6,7 @@ nav_order: 585
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Pembrolizumab: 예측 신규 적응증 치은 섬유종증 (Gingival Fibromatosis) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 원문이 링크로만 제공되어 본문 확인이 불가합니다. 약리학 자료상 흑색종, 비소세포폐암…"
+description: "Pembrolizumab: 예측 신규 적응증 치은 섬유종증 (Gingival Fibromatosis) (근거 수준 L5). 기존 적응증: 흑색종 1. 수술이 불가능하거나 전이성인 흑색종 환자의 치료 2. 완전 절제술을 받은 IIB기, IIC기…"
 monitor_inn: "PEMBROLIZUMAB"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **치은 섬유종증(Gingival Fibromatosis)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에는 적응증 원문이 링크로만 제공되어 본문 확인이 불가합니다. 약리학 자료상 흑색종, 비소세포폐암, 두경부암 등 다수 항암 적응증이 있습니다. |
+| 기존 적응증 | 흑색종 1. 수술이 불가능하거나 전이성인 흑색종 환자의 치료 2. 완전 절제술을 받은 IIB기, IIC기 또는 III기 흑색종 환자의 수술 후 보조요법(adjuvant) 치료 비소세포폐암 1. EGFR 또는 ALK 변이가 없는 전이성 비편평 비소세포폐암 환자에서의 1차 치료로서… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501487/EE)) |
 | 예측 신규 적응증 | 치은 섬유종증 (Gingival Fibromatosis) |
 | TxGNN 예측 점수 | 0.9940 |
 | 근거 수준 | L5 (모델 예측만 있음) |

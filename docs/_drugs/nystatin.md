@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-05
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
-description: "Nystatin: 예측 신규 적응증 안와 부위 질환 (disease of orbital region) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Nystatin: 예측 신규 적응증 안와 부위 질환 (disease of orbital region) (근거 수준 L5). 기존 적응증: (시럽제) ○ 유효균종 니스타틴에 감수성인 칸디다 ○ 적응증 소화관칸디다증, 구강칸디다증"
 ---
 
 # Nystatin
@@ -46,7 +46,7 @@ TxGNN 모델은 **안와 부위 질환(disease of orbital region)**에 효과가
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107502/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501317/EE) |
+| 기존 적응증 | (시럽제) ○ 유효균종 니스타틴에 감수성인 칸디다 ○ 적응증 소화관칸디다증, 구강칸디다증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107502/EE)) |
 | 예측 신규 적응증 | 안와 부위 질환 (disease of orbital region) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-04
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
-description: "Sorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Sorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: - 이전의 cytokine 치료에 실패 경험이 있거나, 이러한 치료 요법이 적절치 않은 진행성 신장세포암…"
 ---
 
 # Sorafenib
@@ -46,7 +46,7 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800233/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007416/EE) |
+| 기존 적응증 | - 이전의 cytokine 치료에 실패 경험이 있거나, 이러한 치료 요법이 적절치 않은 진행성 신장세포암 - 간세포성 암 - 방사성 요오드에 불응한, 국소 재발성 또는 전이성의 진행성 분화 갑상선 암 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200800233/EE)) |
 | 예측 신규 적응증 | 지방육종 (liposarcoma) |
 | TxGNN 예측 점수 | 0.9982 |
 | 근거 수준 | L5 |

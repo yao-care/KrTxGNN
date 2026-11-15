@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "LANSOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-10-31
-description: "Lansoprazole: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Lansoprazole: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: 1. 활동성 십이지장궤양의 단기치료 2. 활동성 양성 위궤양의 단기치료 3. 십이지장궤양 재발방지를 위한…"
 ---
 
 # Lansoprazole
@@ -45,7 +45,7 @@ TxGNN 모델은 **십이지장 폐쇄(duodenal obstruction)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401591/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201208079/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501764/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110631/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402541/EE);  |
+| 기존 적응증 | 1. 활동성 십이지장궤양의 단기치료 2. 활동성 양성 위궤양의 단기치료 3. 십이지장궤양 재발방지를 위한 Helicobacter pylori의 박멸 4. 십이지장궤양의 치료후 유지요법 5. 비스테로이드성 소염진통제 유발성 위궤양의 치료 6. 비스테로이드성 소염진통제 유발성 위궤양의… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200401591/EE)) |
 | 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
 | TxGNN 예측 점수 | 0.9968 |
 | 근거 수준 | L5 |

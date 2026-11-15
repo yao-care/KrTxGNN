@@ -6,7 +6,7 @@ nav_order: 321
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Estriol: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L3). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가증 문서 링크만 제공됨)"
+description: "Estriol: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L3). 기존 적응증: 1. 소독제 또는 항생물질로 국소 또는 전신치료후 데데를라인균총의 정상화 2. 폐경기후의 질 세균총의…"
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가증 문서 링크만 제공됨) |
+| 기존 적응증 | 1. 소독제 또는 항생물질로 국소 또는 전신치료후 데데를라인균총의 정상화 2. 폐경기후의 질 세균총의 정상화 (예로서 에스트로겐 대용제 사용할 때 병용요법제로 사용) 3. 가드네렐라균 또는 칸디다 알비칸스에 의한 질염 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604597/EE)) |
 | 예측 신규 적응증 | 무월경 (Amenorrhea) |
 | TxGNN 예측 점수 | 0.9918 |
 | 근거 수준 | L3 (소규모 임상·관찰 연구와 리뷰 수준, Phase 3 RCT 없음) |

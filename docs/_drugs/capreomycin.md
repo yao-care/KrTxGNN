@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Capreomycin"
 predicted_indications: ["gout", "rheumatoid arthritis", "osteoarthritis", "sclerosing cholangitis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "meningococcal infection", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type"]
 last_modified_at: 2026-11-06
-description: "Capreomycin: 예측 신규 적응증 통풍 (gout) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Capreomycin: 예측 신규 적응증 통풍 (gout) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 ○ 적응증 1차 선택약(이소니아지드, 리팜피신, 에탐부톨, 아미노살리실산 및…"
 ---
 
 # Capreomycin
@@ -45,7 +45,7 @@ TxGNN 모델은 **통풍(gout)**에 효과가 있을 수 있다고 예측했지�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104025/EE) |
+| 기존 적응증 | ○ 유효균종 결핵균 ○ 적응증 1차 선택약(이소니아지드, 리팜피신, 에탐부톨, 아미노살리실산 및 스트렙토마이신)이 무효하거나 독성 혹 은 내성균의 출현으로 인해 사용할 수 없는 경우, 결핵균에 의한 폐감염에 다른 항결핵제와 병용투여 한다. ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104025/EE)) |
 | 예측 신규 적응증 | 통풍 (gout) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |

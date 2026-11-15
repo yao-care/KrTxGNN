@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Sulindac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "pseudoachondroplasia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome", "hypermobility of coccyx"]
 last_modified_at: 2026-10-31
-description: "Sulindac: 예측 신규 적응증 말단중간이형성증 헌터-톰슨형 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문 없이 허가 문서 링크만 제공됨)"
+description: "Sulindac: 예측 신규 적응증 말단중간이형성증 헌터-톰슨형 (근거 수준 L5). 기존 적응증: 1. 주효능 효과 골관절염(퇴행성 관절질환), 류마티양 관절염 2. 다음 질환에도 사용할 수 있다. 강직성…"
 ---
 
 # Sulindac
@@ -45,7 +45,7 @@ TxGNN 모델은 **말단중간이형성증 헌터-톰슨형(acromesomelic dyspla
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문 없이 허가 문서 링크만 제공됨) |
+| 기존 적응증 | 1. 주효능 효과 골관절염(퇴행성 관절질환), 류마티양 관절염 2. 다음 질환에도 사용할 수 있다. 강직성 척추염, 급성통풍성 관절염, 관절주위염(건염, 점액낭염, 건초염) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197900123/EE)) |
 | 예측 신규 적응증 | 말단중간이형성증 헌터-톰슨형 |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

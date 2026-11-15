@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "INSULIN DEGLUDEC"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome"]
 last_modified_at: 2026-11-05
-description: "Insulin Degludec: 예측 신규 적응증 자가면역 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Insulin Degludec: 예측 신규 적응증 자가면역 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 만 2세 이상의 소아와 청소년 및 성인에서의 당뇨병 치료"
 ---
 
 # Insulin Degludec
@@ -47,7 +47,7 @@ TxGNN 모델은 **자가면역 난소염(autoimmune oophoritis)**에 효과가 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401271/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401272/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905977/EE) |
+| 기존 적응증 | 만 2세 이상의 소아와 청소년 및 성인에서의 당뇨병 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201401271/EE)) |
 | 예측 신규 적응증 | 자가면역 난소염 (autoimmune oophoritis) |
 | TxGNN 예측 점수 | 0.9923 |
 | 근거 수준 | L5 |

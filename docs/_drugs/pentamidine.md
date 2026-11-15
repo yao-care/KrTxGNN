@@ -6,7 +6,7 @@ nav_order: 589
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Pentamidine: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
+description: "Pentamidine: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 1. 후천성면역결핍증(AIDS) 환자에서의 뉴우모시스티스 카리니 감염의 1차 치료 2. 후천성면역결핍증환자…"
 monitor_inn: "pentamidine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "exposure keratitis", "non-human animal disease", "congenital analbuminemia"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjun
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 1. 후천성면역결핍증(AIDS) 환자에서의 뉴우모시스티스 카리니 감염의 1차 치료 2. 후천성면역결핍증환자 이외의 뉴우모시스티스 카리니 감염의 2차 치료 3. 리슈마니아증(장기와 피부)의 2차 치료(리슈마니아 에치오피카에는 1차 치료제로 사용할 수 있음) 4. 트리파노소마병의 2차… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200009199/EE)) |
 | 예측 신규 적응증 | 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) |
 | TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L5 |

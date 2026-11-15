@@ -6,7 +6,7 @@ nav_order: 637
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-06
-description: "Proxyphylline: 예측 신규 적응증 심장 질환 (heart disease) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적인 내용을 확인하지 못했습니다)"
+description: "Proxyphylline: 예측 신규 적응증 심장 질환 (heart disease) (근거 수준 L5). 기존 적응증: 1. 뇌혈관 및 말초순환장애 2. 와상(염좌, 골절, 타박, 좌상 등), 수술 후의 연부 종창으로 인한…"
 monitor_inn: "Proxyphylline"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "disorder of fucoglycosan synthesis", "Jeune syndrome situs inversus", "interventricular septum aneurysm"]
 ---
@@ -44,7 +44,7 @@ Proxyphylline은 테오필린 유사 크산틴 계열 약물로, 한국에서는
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적인 내용을 확인하지 못했습니다) |
+| 기존 적응증 | 1. 뇌혈관 및 말초순환장애 2. 와상(염좌, 골절, 타박, 좌상 등), 수술 후의 연부 종창으로 인한 염증의 완화 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103166/EE)) |
 | 예측 신규 적응증 | 심장 질환 (heart disease) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (전임상 연구만 존재) |

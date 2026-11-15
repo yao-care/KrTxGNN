@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 monitor_inn: "IVOSIDENIB"
 predicted_indications: ["bulbar polio"]
-description: "Ivosidenib: 예측 신규 적응증 Bulbar polio (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Ivosidenib: 예측 신규 적응증 Bulbar polio (근거 수준 L5). 기존 적응증: 1. IDH1 변이 양성인 급성 골수성 백혈병을 새롭게 진단받은, 만 75세 이상 또는 집중유도 화학요법에…"
 ---
 
 # Ivosidenib
@@ -46,7 +46,7 @@ TxGNN 모델은 첫 번째 예측으로 **구마비 소아마비(bulbar polio)**
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401253/EE) |
+| 기존 적응증 | 1. IDH1 변이 양성인 급성 골수성 백혈병을 새롭게 진단받은, 만 75세 이상 또는 집중유도 화학요법에 적합하지 않는 동반질환이 있는 성인 환자에서의 아자시티딘과 병용요법 2. IDH1 변이 양성인 이전 치료 경험이 있는 국소 진행성 또는 전이성 담관암 성인 환자에서의 단독요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401253/EE)) |
 | 예측 신규 적응증 | Bulbar polio |
 | TxGNN 예측 점수 | 0.9931 |
 | 근거 수준 | L5 (모델 예측만 있음) |

@@ -6,7 +6,7 @@ nav_order: 688
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Selpercatinib: 예측 신규 적응증 폐동맥 고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨)"
+description: "Selpercatinib: 예측 신규 적응증 폐동맥 고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 1. 국소 진행성 또는 전이성 RET(REarranged during Transfection) 융합-양성…"
 monitor_inn: "SELPERCATINIB"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **폐동맥 고혈압(Pulmonary Hypertension)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 확인 불가 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 1. 국소 진행성 또는 전이성 RET(REarranged during Transfection) 융합-양성 비소세포폐암 이 약은 RET 유전자 융합이 있는 국소 진행성 또는 전이성 비소세포폐암(NSCLC) 성인 환자의 치료에 사용된 다. 2. 전신요법을 요하는 진행성 또는 전이성… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201000/EE)) |
 | 예측 신규 적응증 | 폐동맥 고혈압 (Pulmonary Hypertension) |
 | TxGNN 예측 점수 | 0.9918 |
 | 근거 수준 | L5 |

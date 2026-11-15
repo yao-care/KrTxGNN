@@ -6,7 +6,7 @@ nav_order: 353
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-11-03
-description: "Fludarabine: 예측 신규 적응증 형질세포 골수종 (Plasma Cell Myeloma) (근거 수준 L2). 기존 적응증: 허가 적응증 문구가 링크 형태로만 확인되어 구체적인 내용은 허가사항 참조 필요"
+description: "Fludarabine: 예측 신규 적응증 형질세포 골수종 (Plasma Cell Myeloma) (근거 수준 L2). 기존 적응증: 이 약은 골수 보유가 충분한 환자로서 B-세포 만성 임파구성 백혈병의 일차적인 치료나 이차적인…"
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **형질세포 골수종(다발골수종, Plasma Cell Myeloma)**
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 문구가 링크 형태로만 확인되어 구체적인 내용은 허가사항 참조 필요 |
+| 기존 적응증 | 이 약은 골수 보유가 충분한 환자로서 B-세포 만성 임파구성 백혈병의 일차적인 치료나 이차적인 치료법으로사용된다. 일차적인 치료법으로 사용시에는 다음과 같은 경우에 한한다. 진전된 질병, 즉 Rai stage Ⅲ/Ⅳ(Binet stage C) 환자나 다음과 같은 증상을 나타내는 Rai… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801541/EE)) |
 | 예측 신규 적응증 | 형질세포 골수종 (Plasma Cell Myeloma) |
 | TxGNN 예측 점수 | 0.9982 |
 | 근거 수준 | L2 (조건부 해석, 아래 참조) |

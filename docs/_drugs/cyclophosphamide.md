@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-05
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-description: "Cyclophosphamide: 예측 신규 적응증 척추 이상 및 가변적 내분비·T세포 기능장애 (vertebral anomalies and variable endocrine and T-cell dysfunction) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Cyclophosphamide: 예측 신규 적응증 척추 이상 및 가변적 내분비·T세포 기능장애 (vertebral anomalies and variable endocrine and T-cell dysfunction) (근거 수준 L5). 기존 적응증: 1. 악성림프종 2. 다발성골수종 3. 백혈병 4. 신경모세포종 5. 난소암 6. 망막아종 7. 유방암"
 ---
 
 # Cyclophosphamide
@@ -45,7 +45,7 @@ TxGNN 모델은 **척추 이상 및 가변적 내분비·T세포 기능장애(ve
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906639/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906637/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504135/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197600065/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906638/EE) |
+| 기존 적응증 | 1. 악성림프종 2. 다발성골수종 3. 백혈병 4. 신경모세포종 5. 난소암 6. 망막아종 7. 유방암 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906639/EE)) |
 | 예측 신규 적응증 | 척추 이상 및 가변적 내분비·T세포 기능장애 (vertebral anomalies and variable endocrine and T-cell dysfunction) |
 | TxGNN 예측 점수 | 0.9938 |
 | 근거 수준 | L5 |

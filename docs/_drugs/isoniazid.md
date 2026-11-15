@@ -6,7 +6,7 @@ nav_order: 439
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-05
-description: "Isoniazid: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L5). 기존 적응증: 결핵 (허가증 원문은 링크 형태로만 제공되어 세부 문구는 확인되지 않음)"
+description: "Isoniazid: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 ○ 적응증 폐결핵 및 기타 결핵증의 치료 및 예방"
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **결막염(Conjunctivitis)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 결핵 (허가증 원문은 링크 형태로만 제공되어 세부 문구는 확인되지 않음) |
+| 기존 적응증 | ○ 유효균종 결핵균 ○ 적응증 폐결핵 및 기타 결핵증의 치료 및 예방 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700049/EE)) |
 | 예측 신규 적응증 | 결막염 (Conjunctivitis) |
 | TxGNN 예측 점수 | 0.9936 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-description: "Risperidone: 예측 신규 적응증 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Risperidone: 예측 신규 적응증 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) (근거 수준 L5). 기존 적응증: 1. 조현병 2. 중등도에서 중증인 알츠하이머형 치매 환자의 초조, 공격성 또는 정신병 증상의…"
 ---
 
 # Risperidone
@@ -46,7 +46,7 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701456/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707618/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202102658/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502344/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701458/EE);  |
+| 기존 적응증 | 1. 조현병 2. 중등도에서 중증인 알츠하이머형 치매 환자의 초조, 공격성 또는 정신병 증상의 단기치료(6주까지) 3. 양극성장애과 관련된 조증삽화의 치료를 위한 기분안정제의 부가요법 4. 파괴적 행동 (공격성, 충동성 및 자해적 행동)이 두드러지는 정신지체 또는 평균 이하의 지적… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701456/EE)) |
 | 예측 신규 적응증 | 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 (모델 예측만 있음) |

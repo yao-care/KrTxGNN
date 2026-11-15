@@ -6,7 +6,7 @@ nav_order: 785
 evidence_level: L2
 indication_count: 8
 last_modified_at: 2026-11-05
-description: "Vinorelbine: 예측 신규 적응증 Ewing 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조 필요)"
+description: "Vinorelbine: 예측 신규 적응증 Ewing 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: 비소세포폐암, 진행성 유방암"
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
 ---
@@ -44,7 +44,7 @@ Vinorelbine은 빈카 알칼로이드 계열의 항암제로, 한국에서는 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 문서 링크로만 제공되어 확인할 수 없음 (허가사항 참조 필요) |
+| 기존 적응증 | 비소세포폐암, 진행성 유방암 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504132/EE)) |
 | 예측 신규 적응증 | Ewing 육종 (Ewing sarcoma) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L2 |

@@ -6,7 +6,7 @@ nav_order: 348
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Fimasartan: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (pulmonary hypertension owing to lung disease… (근거 수준 L5). 기존 적응증: 고혈압 (허가 적응증 원문은 허가증 링크로만 제공되어 세부 문구는 확인되지 않음)"
+description: "Fimasartan: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (pulmonary hypertension owing to lung disease… (근거 수준 L5). 기존 적응증: 피마사르탄칼륨과 암로디핀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압"
 monitor_inn: "fimasartan"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압(pulmo
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 고혈압 (허가 적응증 원문은 허가증 링크로만 제공되어 세부 문구는 확인되지 않음) |
+| 기존 적응증 | 피마사르탄칼륨과 암로디핀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201263/EE)) |
 | 예측 신규 적응증 | 폐질환 및/또는 저산소증에 의한 폐고혈압 (pulmonary hypertension owing to lung disease and/or hypoxia) |
 | TxGNN 예측 점수 | 0.9920 |
 | 근거 수준 | L5 (전임상·간접 근거만 존재) |

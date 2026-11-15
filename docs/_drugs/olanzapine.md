@@ -6,7 +6,7 @@ nav_order: 560
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Olanzapine: 예측 신규 적응증 영아 양성 발작성 사경 (Benign paroxysmal torticollis of infancy) (근거 수준 L5). 기존 적응증: 확인 불가 (허가증에 적응증 본문이 아닌 허가 문서 링크만 수록됨)"
+description: "Olanzapine: 예측 신규 적응증 영아 양성 발작성 사경 (Benign paroxysmal torticollis of infancy) (근거 수준 L5). 기존 적응증: 1. 조현병 2. 양극성장애 - 양극성장애 1형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로…"
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
@@ -44,7 +44,7 @@ Olanzapine은 한국에서 단일 성분제로 20건이 허가된 비정형 항�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가증에 적응증 본문이 아닌 허가 문서 링크만 수록됨) |
+| 기존 적응증 | 1. 조현병 2. 양극성장애 - 양극성장애 1형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로 조증삽화에 반응을 보인 환자들에 있어서 양극성 장애의 재발방지 - 양극성장애 1형과 관련된 우울삽화의 급성 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507969/EE)) |
 | 예측 신규 적응증 (1순위) | 영아 양성 발작성 사경 (Benign paroxysmal torticollis of infancy) |
 | TxGNN 예측 점수 (1순위) | 0.9954 |
 | 근거 수준 (1순위) | L5 |

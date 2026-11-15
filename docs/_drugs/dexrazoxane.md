@@ -6,7 +6,7 @@ nav_order: 274
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Dexrazoxane: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 대신 문서 링크만 수록됨)"
+description: "Dexrazoxane: 예측 신규 적응증 경화성 담관염 (Sclerosing Cholangitis) (근거 수준 L5). 기존 적응증: 2 2 독소루비신 또는 에피루비신의 이전 누적 투여량이 각각 300 mg/m 또는 540 mg/m 인 성인…"
 monitor_inn: "Dexrazoxane"
 predicted_indications: ["sclerosing cholangitis", "bronchitis", "paratyphoid fever", "conjunctivitis", "epiglottitis", "peritonitis", "laryngitis", "urinary tract infection (disease)", "pyelonephritis", "cystitis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **경화성 담관염(Sclerosing Cholangitis)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 정보에 적응증 본문 대신 문서 링크만 수록됨) |
+| 기존 적응증 | 2 2 독소루비신 또는 에피루비신의 이전 누적 투여량이 각각 300 mg/m 또는 540 mg/m 인 성인 진행성유방암 환자에서 추가적인 안트라사이클린 치료가 필요한 경우 독소루비신이나 에피루비신으로 인한 심장독성방지 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704949/EE)) |
 | 예측 신규 적응증 | 경화성 담관염 (Sclerosing Cholangitis) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 373
 evidence_level: L4
 indication_count: 9
 last_modified_at: 2026-11-06
-description: "Gemfibrozil: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L4). 기존 적응증: 허가 적응증 원문이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
+description: "Gemfibrozil: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L4). 기존 적응증: 1. 원발성고지혈증 : 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(Ⅱb형), 중증의…"
 monitor_inn: "Gemfibrozil"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 ---
@@ -44,7 +44,7 @@ Gemfibrozil은 PPAR-alpha 작용제 계열의 지질 저하제로, 한국에서 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 1. 원발성고지혈증 : 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(Ⅱb형), 중증의 고트리글리세라이드혈증(Ⅳ,Ⅴ형) 2. 고지혈증에 의한 관동맥심질환의 발병 위험성 감소 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200203211/EE)) |
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L4 (전임상·기전 연구 수준) |

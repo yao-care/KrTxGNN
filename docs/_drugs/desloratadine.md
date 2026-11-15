@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 last_modified_at: 2026-10-31
-description: "Desloratadine: 예측 신규 적응증 비강 질환 (nasal cavity disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Desloratadine: 예측 신규 적응증 비강 질환 (nasal cavity disease) (근거 수준 L5). 기존 적응증: 다음 질환의 증상 완화 1. 알레르기성 비염 2. 만성 특발성 두드러기"
 ---
 
 # Desloratadine
@@ -45,7 +45,7 @@ TxGNN 모델은 **비강 질환(nasal cavity disease)**에 효과가 있을 수 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008952/EE) |
+| 기존 적응증 | 다음 질환의 증상 완화 1. 알레르기성 비염 2. 만성 특발성 두드러기 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008952/EE)) |
 | 예측 신규 적응증 | 비강 질환 (nasal cavity disease) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L5 |

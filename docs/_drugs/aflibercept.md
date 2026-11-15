@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
-description: "Aflibercept: 예측 신규 적응증 내사시 (esotropia) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Aflibercept: 예측 신규 적응증 내사시 (esotropia) (근거 수준 L5). 기존 적응증: 1. 신생혈관성 (습성) 연령 관련 황반변성의 치료 2. 망막정맥폐쇄성 황반부종에 의한 시력 손상의…"
 ---
 
 # Aflibercept
@@ -46,7 +46,7 @@ TxGNN 모델은 **내사시(Esotropia)**에 효과가 있을 수 있다고 예�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500560/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306324/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400753/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400392/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502500/EE);  |
+| 기존 적응증 | 1. 신생혈관성 (습성) 연령 관련 황반변성의 치료 2. 망막정맥폐쇄성 황반부종에 의한 시력 손상의 치료(망막중심정맥폐쇄 또는 망막분지정맥폐쇄) 3. 당뇨병성 황반부종에 의한 시력 손상의 치료 4. 병적근시로 인한 맥락막 신생혈관 형성에 따른 시력 손상의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500560/EE)) |
 | 예측 신규 적응증 | 내사시 (esotropia) |
 | TxGNN 예측 점수 | 0.9938 |
 | 근거 수준 | L5 |

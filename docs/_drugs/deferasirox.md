@@ -6,7 +6,7 @@ nav_order: 256
 evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-11-05
-description: "Deferasirox: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 확인할 수 없음 (철 킬레이트제로 분류)"
+description: "Deferasirox: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 수혈의존성 헤모시데린침착증의 치료"
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
 ---
@@ -44,7 +44,7 @@ Deferasirox는 철 킬레이트제로, 한국에서 만성 철 과다 상태 치
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 확인할 수 없음 (철 킬레이트제로 분류) |
+| 기존 적응증 | 수혈의존성 헤모시데린침착증의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201607130/EE)) |
 | 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9940 |
 | 근거 수준 | L4 |

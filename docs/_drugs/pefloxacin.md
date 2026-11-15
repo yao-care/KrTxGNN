@@ -6,7 +6,7 @@ nav_order: 580
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-06
-description: "Pefloxacin: 예측 신규 적응증 심장 전도 질환 (heart conduction disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않음 (허가사항 PDF 링크만 제공됨)"
+description: "Pefloxacin: 예측 신규 적응증 심장 전도 질환 (heart conduction disease) (근거 수준 L5). 기존 적응증: ○ 유효균종 대장균, 클레브시엘라, 엔테로박터, 세라티아, 프로테우스 미라빌리스, 프로테우스 인돌양성균…"
 monitor_inn: "pefloxacin"
 predicted_indications: ["heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum", "pericardium disease", "myocardial rupture", "carcinoid heart disease", "heart aneurysm", "cardiac anomalies-heterotaxy syndrome", "cor biloculare"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **심장 전도 질환(heart conduction disease)**에 효과가 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 데이터에 포함되어 있지 않음 (허가사항 PDF 링크만 제공됨) |
+| 기존 적응증 | ○ 유효균종 대장균, 클레브시엘라, 엔테로박터, 세라티아, 프로테우스 미라빌리스, 프로테우스 인돌양성균, 시트로박터, 살모넬라, 시겔라, 헤모필루스, 포도구균, 임균, 연쇄구균, 폐렴연쇄구균, 슈도모나스, 아시네토박터, 클로스 트리듐(웰치균), 마이코플라스마, 클라미디아 트라코마티스… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202246/EE)) |
 | 예측 신규 적응증 | 심장 전도 질환 (heart conduction disease) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |

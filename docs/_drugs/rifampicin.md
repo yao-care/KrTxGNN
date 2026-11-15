@@ -6,7 +6,7 @@ nav_order: 653
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Rifampicin: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L3). 기존 적응증: 허가 적응증 원문은 허가증 문서 링크로만 제공되어 확인하지 못했습니다. 일반적으로 알려진 항결핵제 용도를 기준으로 서술했습니다"
+description: "Rifampicin: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L3). 기존 적응증: 성인 및 8세 이상 소아의 결핵 치료"
 monitor_inn: "RIFAMPICIN"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
 ---
@@ -44,7 +44,7 @@ Rifampicin은 항결핵 항생제로, 국내에서는 단일 성분 경구제(�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 허가증 문서 링크로만 제공되어 확인하지 못했습니다. 일반적으로 알려진 항결핵제 용도를 기준으로 서술했습니다. |
+| 기존 적응증 | 성인 및 8세 이상 소아의 결핵 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206793/EE)) |
 | 예측 신규 적응증 | 결막염 (Conjunctivitis) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L3 (소규모 임상 연구, 관찰 연구, 감수성 조사 수준) |

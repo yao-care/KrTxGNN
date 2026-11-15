@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Hyaluronidase"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
 last_modified_at: 2026-10-31
-description: "Hyaluronidase: 예측 신규 적응증 내사시 (esotropia) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Hyaluronidase: 예측 신규 적응증 내사시 (esotropia) (근거 수준 L5). 기존 적응증: ○ 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 ○ 조직 내에 과다하게 존재하는 체액 및…"
 ---
 
 # Hyaluronidase
@@ -44,7 +44,7 @@ Hyaluronidase는 히알루론산을 분해하는 효소 약물로, 한국에서 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201201593/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307398/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807902/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704419/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807155/EE);  |
+| 기존 적응증 | ○ 피하주사나 근육주사, 국소마취제 및 피하주입 시 침투력 증가 ○ 조직 내에 과다하게 존재하는 체액 및 혈액의 재흡수 촉진 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201201593/EE)) |
 | 예측 신규 적응증 | 내사시 (esotropia) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |

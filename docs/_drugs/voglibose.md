@@ -6,7 +6,7 @@ nav_order: 787
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-11-05
-description: "Voglibose: 예측 신규 적응증 두피 단순 저모발증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 당뇨병 식후 고혈당 조절 (허가증 본문은 링크로만 확인되어 일반적으로 알려진 적응증 기준)"
+description: "Voglibose: 예측 신규 적응증 두피 단순 저모발증 (hypotrichosis simplex of the scalp) (근거 수준 L5). 기존 적응증: 당뇨병의 식후 고혈당개선(단, 식사요법, 운동요법을 행하고 있는 환자에서 충분한 효과를 얻을 수 없는…"
 monitor_inn: "VOGLIBOSE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
 ---
@@ -44,7 +44,7 @@ Voglibose는 알파-글루코시다아제 억제제로, 장에서 탄수화물 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 당뇨병 식후 고혈당 조절 (허가증 본문은 링크로만 확인되어 일반적으로 알려진 적응증 기준) |
+| 기존 적응증 | 당뇨병의 식후 고혈당개선(단, 식사요법, 운동요법을 행하고 있는 환자에서 충분한 효과를 얻을 수 없는 경우, 또는 식사요법, 운동요법에 추가하여 경구혈당강하제 또는 인슐린 제제를 사용하고 있는 환자에서 충분한 효과를 얻을 수 없는 경우에 한함.) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507617/EE)) |
 | 예측 신규 적응증 | 두피 단순 저모발증 (hypotrichosis simplex of the scalp) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 (모델 예측만 있음) |

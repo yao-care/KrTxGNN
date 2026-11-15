@@ -6,7 +6,7 @@ nav_order: 642
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Ramucirumab: 예측 신규 적응증 자궁인대 선암 (uterine ligament adenocarcinoma) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문을 확인하지 못함)"
+description: "Ramucirumab: 예측 신규 적응증 자궁인대 선암 (uterine ligament adenocarcinoma) (근거 수준 L5). 기존 적응증: 1. 위암 플루오로피리미딘 또는 백금을 포함한 항암화학요법 도중이나 이후에 질병이 진행된 진행성 또는…"
 monitor_inn: "Ramucirumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "cervical adenosquamous carcinoma, glassy cell variant", "uterine ligament endometrioid adenocarcinoma", "uterine ligament clear cell adenocarcinoma", "uterine ligament mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **자궁인대 선암(uterine ligament adenocarcinoma)**에 효�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 본문을 확인하지 못함) |
+| 기존 적응증 | 1. 위암 플루오로피리미딘 또는 백금을 포함한 항암화학요법 도중이나 이후에 질병이 진행된 진행성 또는 전이성의 위 또는 위식도 접합부 선암 환자에게 단독요법 또는 파클리탁셀과 병용요법으로 사용 2. 비소세포폐암 1) 엘로티닙과 병용하여 EGFR (Epidermal Growth… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502274/EE)) |
 | 예측 신규 적응증 | 자궁인대 선암 (uterine ligament adenocarcinoma) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

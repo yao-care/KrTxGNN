@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Cefuroxime"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
 last_modified_at: 2026-11-03
-description: "Cefuroxime: 예측 신규 적응증 다클론성 과점성 증후군 (polyclonal hyperviscosity syndrome) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Cefuroxime: 예측 신규 적응증 다클론성 과점성 증후군 (polyclonal hyperviscosity syndrome) (근거 수준 L5). 기존 적응증: ○ 유효균종 1) 호기성 그람양성균 황색포도구균(페니실린내성균포함, 메치실린 감수성 균주)…"
 ---
 
 # Cefuroxime
@@ -44,7 +44,7 @@ Cefuroxime은 세균 세포벽 합성을 억제하는 2세대 세팔로스포린
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201607370/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700175/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307089/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004046/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001792/EE);  |
+| 기존 적응증 | ○ 유효균종 1) 호기성 그람양성균 황색포도구균(페니실린내성균포함, 메치실린 감수성 균주), 화농성연쇄구균, 베타용혈성 연쇄구균, 스트렙토 콕쿠스 아갈락티에(그룹B), 코아귤라제 음성 포도구균(Coagulase negative staphylococcus)(메치실린 감 수성 균주)… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201607370/EE)) |
 | 예측 신규 적응증 | 다클론성 과점성 증후군 (polyclonal hyperviscosity syndrome) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 (모델 예측만 있음) |

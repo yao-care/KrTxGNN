@@ -6,7 +6,7 @@ nav_order: 609
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Polatuzumab Vedotin: 예측 신규 적응증 HER2 양성 유방암 (HER2 positive breast carcinoma) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 대신 문서 링크만 수록됨)"
+description: "Polatuzumab Vedotin: 예측 신규 적응증 HER2 양성 유방암 (HER2 positive breast carcinoma) (근거 수준 L5). 기존 적응증: • 이전에 치료받은 적이 없는 미만성 거대 B세포 림프종(DLBCL) 성인 환자에서 리툭시맙…"
 monitor_inn: "POLATUZUMAB VEDOTIN"
 predicted_indications: ["HER2 positive breast carcinoma"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **HER2 양성 유방암(HER2 positive breast carcinoma)**에 효
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 정보에 적응증 본문 대신 문서 링크만 수록됨) |
+| 기존 적응증 | • 이전에 치료받은 적이 없는 미만성 거대 B세포 림프종(DLBCL) 성인 환자에서 리툭시맙, 시클로포스파미드, 독소루비신 및 프레드니손/프레드니솔론(R-CHP)과 병용투여 • 조혈모세포이식이 적합하지 않고 한 가지 이상의 이전 치료에 실패한 재발성 또는 불응성 미만성 거대 B세포… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007363/EE)) |
 | 예측 신규 적응증 | HER2 양성 유방암 (HER2 positive breast carcinoma) |
 | TxGNN 예측 점수 | 0.9934 |
 | 근거 수준 | L5 |

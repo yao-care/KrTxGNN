@@ -6,7 +6,7 @@ nav_order: 487
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Lurbinectedin: 예측 신규 적응증 다발성 내분비 종양 (multiple endocrine neoplasia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 텍스트는 확인되지 않았고 허가 문서 링크만 확인됨 (허가사항 참조)"
+description: "Lurbinectedin: 예측 신규 적응증 다발성 내분비 종양 (multiple endocrine neoplasia) (근거 수준 L5). 기존 적응증: 1) 1차 백금기반 화학요법에 실패한 전이성 소세포폐암 이 약의 효능효과는 반응율과 반응기간에 근거했으며…"
 monitor_inn: "Lurbinectedin"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "cytomegalovirus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "Mills syndrome"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **다발성 내분비 종양(multiple endocrine neoplasia)**에 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 텍스트는 확인되지 않았고 허가 문서 링크만 확인됨 (허가사항 참조) |
+| 기존 적응증 | 1) 1차 백금기반 화학요법에 실패한 전이성 소세포폐암 이 약의 효능효과는 반응율과 반응기간에 근거했으며 생존기간을 입증한 자료는 없다. 2) 아테졸리주맙, 카보플라틴 및 에토포시드로 구성된 1차 유도치료 후 질병이 진행되지 않은 확장병기 소세포폐암 성인 환자의 유지치료로서… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203642/EE)) |
 | 예측 신규 적응증 | 다발성 내분비 종양 (multiple endocrine neoplasia) |
 | TxGNN 예측 점수 | 0.9944 |
 | 근거 수준 | L5 |

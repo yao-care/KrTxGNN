@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Durvalumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
 last_modified_at: 2026-10-31
-description: "Durvalumab: 예측 신규 적응증 자궁인대 선암종 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 문서 링크만 제공되고 적응증 본문이 없음)"
+description: "Durvalumab: 예측 신규 적응증 자궁인대 선암종 (근거 수준 L5). 기존 적응증: 비소세포폐암 - 알려진 EGFR 변이 또는 ALK 전위가 없는 절제가능한(종양이 4 cm 이상 및/또는…"
 ---
 
 # Durvalumab
@@ -45,7 +45,7 @@ TxGNN 모델은 **자궁인대 선암종(uterine ligament adenocarcinoma)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 문서 링크만 제공되고 적응증 본문이 없음) |
+| 기존 적응증 | 비소세포폐암 - 알려진 EGFR 변이 또는 ALK 전위가 없는 절제가능한(종양이 4 cm 이상 및/또는 림프절 양성) 비소세포폐 암 성인 환자의 치료로서 수술전 보조요법으로 백금 기반 화학요법과의 병용 요법 및 연이어 수술 후 이 약 의 단독 요법 - 백금 기반 동시적… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804918/EE)) |
 | 예측 신규 적응증 | 자궁인대 선암종 |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

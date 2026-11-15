@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "LENALIDOMIDE"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 last_modified_at: 2026-11-05
-description: "Lenalidomide: 예측 신규 적응증 골수성 백혈병 (myeloid leukemia) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Lenalidomide: 예측 신규 적응증 골수성 백혈병 (myeloid leukemia) (근거 수준 L2). 기존 적응증: 1. 다발골수종 1) 이전의 한 가지 이상 치료를 받은 환자의 치료에 덱사메타손과 병용요법 2) 새롭게…"
 ---
 
 # Lenalidomide
@@ -45,7 +45,7 @@ TxGNN 모델은 **골수성 백혈병(myeloid leukemia)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706896/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706892/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900220/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706898/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802378/EE);  |
+| 기존 적응증 | 1. 다발골수종 1) 이전의 한 가지 이상 치료를 받은 환자의 치료에 덱사메타손과 병용요법 2) 새롭게 진단된 이식이 불가능한 환자의 치료에 덱사메타손과의 병용요법, 또는 멜팔란 및 프레드니솔론과의 병용요법 3) 새롭게 진단된 환자의 치료에 보르테조밉 및 덱사메타손과 병용요법 4)… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706896/EE)) |
 | 예측 신규 적응증 | 골수성 백혈병 (myeloid leukemia) |
 | TxGNN 예측 점수 | 0.9949 |
 | 근거 수준 | L2 |

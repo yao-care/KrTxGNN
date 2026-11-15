@@ -6,7 +6,7 @@ nav_order: 389
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-05
-description: "Glycine: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 텍스트 대신 식약처 문서 링크만 수록됨)"
+description: "Glycine: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 급ㆍ만성 간장애에 의한 뇌증의 개선, 간장애 환자의 아미노산 보급"
 monitor_inn: "GLYCINE"
 predicted_indications: ["nasal cavity disease"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **비강 질환(Nasal Cavity Disease)**에 효과가 있을 수 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 항목에 텍스트 대신 식약처 문서 링크만 수록됨) |
+| 기존 적응증 | 급ㆍ만성 간장애에 의한 뇌증의 개선, 간장애 환자의 아미노산 보급 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198700589/EE)) |
 | 예측 신규 적응증 | 비강 질환 (Nasal Cavity Disease) |
 | TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L5 |

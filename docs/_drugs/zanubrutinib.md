@@ -6,7 +6,7 @@ nav_order: 790
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-31
-description: "Zanubrutinib: 예측 신규 적응증 골수성 백혈병 (Myeloid leukemia) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 허가증 링크로만 제공되어 구체적 내용을 확인할 수 없음 (B세포 악성 종양 계열로 추정)"
+description: "Zanubrutinib: 예측 신규 적응증 골수성 백혈병 (Myeloid leukemia) (근거 수준 L5). 기존 적응증: 외투세포 림프종(MCL) 이전에 한 가지 이상의 치료를 받은 적이 있는 외투세포 림프종(MCL) 성인…"
 monitor_inn: "ZANUBRUTINIB"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **골수성 백혈병(myeloid leukemia)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 허가증 링크로만 제공되어 구체적 내용을 확인할 수 없음 (B세포 악성 종양 계열로 추정) |
+| 기존 적응증 | 외투세포 림프종(MCL) 이전에 한 가지 이상의 치료를 받은 적이 있는 외투세포 림프종(MCL) 성인 환자에서의 단독요법 발덴스트롬 마크로글로불린혈증(WM) 이전에 한 가지 이상의 치료를 받은 적이 있거나, 또는 화학면역요법이 부적합한 이전에 치료 받은 적이 없는발덴스트롬… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200854/EE)) |
 | 예측 신규 적응증 | 골수성 백혈병 (Myeloid leukemia) |
 | TxGNN 예측 점수 | 0.9965 |
 | 근거 수준 | L5 (직접 근거가 부족하여 기전 수준의 간접 근거만 존재) |

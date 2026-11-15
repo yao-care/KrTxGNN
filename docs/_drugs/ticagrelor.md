@@ -6,7 +6,7 @@ nav_order: 736
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-11-05
-description: "Ticagrelor: 예측 신규 적응증 두개내 동맥경화증 (Intracranial Arteriosclerosis) (근거 수준 L5). 기존 적응증: 급성 관상동맥증후군, 심근경색 병력 환자의 혈전 예방 등 (허가증은 PDF 링크만 확인되어 본문 대조는 못 했습니다)"
+description: "Ticagrelor: 예측 신규 적응증 두개내 동맥경화증 (Intracranial Arteriosclerosis) (근거 수준 L5). 기존 적응증: 1. 다음의 성인 환자에서 아스피린과 병용하여, 혈전성 심혈관 사건 (심혈관 이상으로 인한 사망…"
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **두개내 동맥경화증(Intracranial Arteriosclerosis)**에 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 급성 관상동맥증후군, 심근경색 병력 환자의 혈전 예방 등 (허가증은 PDF 링크만 확인되어 본문 대조는 못 했습니다) |
+| 기존 적응증 | 1. 다음의 성인 환자에서 아스피린과 병용하여, 혈전성 심혈관 사건 (심혈관 이상으로 인한 사망, 심근경색,뇌졸중)의 발생률 감소 - 급성관상동맥증후군 - 심근경색의 병력(최소 1년 이상 이전에 발생)이 있는 혈전성 심혈관 사건의 발생 위험이 높은 환자 2. 다음의 혈전성 심혈관… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801019/EE)) |
 | 예측 신규 적응증 | 두개내 동맥경화증 (Intracranial Arteriosclerosis) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 (완료된 RCT가 없고, 관찰 연구와 진행 중인 Phase 3 시험만 있음) |

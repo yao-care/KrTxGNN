@@ -6,7 +6,7 @@ nav_order: 211
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Ciclesonide: 예측 신규 적응증 아토피 습진 (Atopic Eczema) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조 필요)"
+description: "Ciclesonide: 예측 신규 적응증 아토피 습진 (Atopic Eczema) (근거 수준 L5). 기존 적응증: 기관지 천식의 예방적 치료"
 monitor_inn: "CICLESONIDE"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **아토피 습진(Atopic Eczema)**에 효과가 있을 수 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조 필요) |
+| 기존 적응증 | 기관지 천식의 예방적 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200704588/EE)) |
 | 예측 신규 적응증 | 아토피 습진 (Atopic Eczema) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |

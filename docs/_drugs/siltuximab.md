@@ -6,7 +6,7 @@ nav_order: 692
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-31
-description: "Siltuximab: 예측 신규 적응증 골외 비만세포종 (extracutaneous mastocytoma) (근거 수준 L5). 기존 적응증: 특발성(HIV·HHV-8 음성) 다중심성 캐슬만병 (한국 허가증의 적응증 원문은 문서 링크로만 확인되어 본문 확인 필요)"
+description: "Siltuximab: 예측 신규 적응증 골외 비만세포종 (extracutaneous mastocytoma) (근거 수준 L5). 기존 적응증: 인체면역결핍바이러스 (HIV) 음성 및 제8형 인체헤르페스바이러스 (HHV-8) 음성인 다발성 캐슬만병…"
 monitor_inn: "Siltuximab"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **골외 비만세포종(extracutaneous mastocytoma)**에 효과
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 특발성(HIV·HHV-8 음성) 다중심성 캐슬만병 (한국 허가증의 적응증 원문은 문서 링크로만 확인되어 본문 확인 필요) |
+| 기존 적응증 | 인체면역결핍바이러스 (HIV) 음성 및 제8형 인체헤르페스바이러스 (HHV-8) 음성인 다발성 캐슬만병 환자의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201508041/EE)) |
 | 예측 신규 적응증 | 골외 비만세포종 (extracutaneous mastocytoma) |
 | TxGNN 예측 점수 | 0.9964 |
 | 근거 수준 | L5 |

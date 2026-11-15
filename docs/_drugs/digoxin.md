@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "DIGOXIN"
 predicted_indications: ["duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
 last_modified_at: 2026-10-31
-description: "Digoxin: 예측 신규 적응증 십이지장 폐쇄 (근거 수준 L5). 기존 적응증: 허가 적응증 문구 확인 불가 (한국 허가 문서 링크만 확인됨)"
+description: "Digoxin: 예측 신규 적응증 십이지장 폐쇄 (근거 수준 L5). 기존 적응증: 1. 울혈성심부전(폐부종, 심장천식 등 포함) : 판막질환, 고혈압, 허혈성심질환(심근경색, 협심증 등)…"
 ---
 
 # Digoxin
@@ -44,7 +44,7 @@ description: "Digoxin: 예측 신규 적응증 십이지장 폐쇄 (근거 수�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 문구 확인 불가 (한국 허가 문서 링크만 확인됨) |
+| 기존 적응증 | 1. 울혈성심부전(폐부종, 심장천식 등 포함) : 판막질환, 고혈압, 허혈성심질환(심근경색, 협심증 등), 선천성심질환, 폐성심(폐혈전, 색전증, 폐기종, 폐섬유증)에 의한 것. 2. 심방세동·조동에 의한 빈맥, 발작성심방성빈맥 3. 기타 심질환(심막염, 심근질환 등)… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199200648/EE)) |
 | 예측 신규 적응증 | 십이지장 폐쇄 |
 | TxGNN 예측 점수 | 0.9970 |
 | 근거 수준 | L5 |

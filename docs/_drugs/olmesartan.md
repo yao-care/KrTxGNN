@@ -6,7 +6,7 @@ nav_order: 562
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Olmesartan: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 허가증에는 적응증 원문 대신 허가문서 링크만 수록되어 있어 구체적인 문구를 확인할 수 없습니다. 제품 구성상 고혈압 치료제(…"
+description: "Olmesartan: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 암로디핀과 올메사르탄메독소밀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
 ---
@@ -44,7 +44,7 @@ Olmesartan은 안지오텐신 II 수용체 차단제(ARB)로, 한국에서는 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에는 적응증 원문 대신 허가문서 링크만 수록되어 있어 구체적인 문구를 확인할 수 없습니다. 제품 구성상 고혈압 치료제(단독 및 복합제)로 판단됩니다. |
+| 기존 적응증 | 암로디핀과 올메사르탄메독소밀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805262/EE)) |
 | 예측 신규 적응증 | 프린츠메탈 협심증 (Prinzmetal angina) |
 | TxGNN 예측 점수 | 0.9984 |
 | 근거 수준 | L5 (모델 예측만 있음) |

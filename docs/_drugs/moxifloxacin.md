@@ -6,7 +6,7 @@ nav_order: 530
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Moxifloxacin: 예측 신규 적응증 폴리클로날 과점성 증후군 (Polyclonal Hyperviscosity Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가증에 문서 링크만 수록). 플루오로퀴놀론계 항균제로 사용"
+description: "Moxifloxacin: 예측 신규 적응증 폴리클로날 과점성 증후군 (Polyclonal Hyperviscosity Syndrome) (근거 수준 L5). 기존 적응증: 다음의 감수성 균종에 의한 세균성 결막염, 검판선염, 각막염(각막궤양포함)의 치료, 안과수술전후의…"
 monitor_inn: "MOXIFLOXACIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **폴리클로날 과점성 증후군(Polyclonal Hyperviscosity 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가증에 문서 링크만 수록). 플루오로퀴놀론계 항균제로 사용 |
+| 기존 적응증 | 다음의 감수성 균종에 의한 세균성 결막염, 검판선염, 각막염(각막궤양포함)의 치료, 안과수술전후의 무균화요법 : 포도구균속, 연쇄상구균속, 폐렴구균, 장구균속, 마이크로코카스속, 모라셀라속,코리네박테리움속, 시트로박터속, 클렙시엘라속, 엔테로박터속, 세라치아속, 프로테우스속, 몰가네라… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202003650/EE)) |
 | 예측 신규 적응증 | 폴리클로날 과점성 증후군 (Polyclonal Hyperviscosity Syndrome) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "cefpodoxime"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
 last_modified_at: 2026-10-31
-description: "Cefpodoxime: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 첨부 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조)"
+description: "Cefpodoxime: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: ○ 유효균종 포도상구균, 연쇄구균, 폐렴연쇄구균, 모락셀라 카타랄리스, 대장균, 시트로박터, 클레브시엘라…"
 ---
 
 # Cefpodoxime
@@ -44,7 +44,7 @@ Cefpodoxime(세프포독심 프록세틸)은 경구용 3세대 세페임계 항�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 첨부 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | ○ 유효균종 포도상구균, 연쇄구균, 폐렴연쇄구균, 모락셀라 카타랄리스, 대장균, 시트로박터, 클레브시엘라, 엔테로박 터, 프로테우스(프로테우스 미라빌리스, 프로테우스 불가리스, 프로비덴시아 레트게리, 프로비덴시아 인콘스 탄스), 인플루엔자균 ○ 적응증 - 종기, 종기증, 옹종… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307576/EE)) |
 | 예측 신규 적응증 | 골관절염 |
 | TxGNN 예측 점수 | 0.9925 |
 | 근거 수준 | L5 |

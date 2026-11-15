@@ -6,7 +6,7 @@ nav_order: 711
 evidence_level: L2
 indication_count: 5
 last_modified_at: 2026-11-03
-description: "Sunitinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L2). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 PDF 참조)"
+description: "Sunitinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L2). 기존 적응증: 1. 저항성 및 불내약성으로 인해 메실산 이매티닙 요법에 실패한 위장관 기저종양 2. 진행성 신세포암 3…"
 monitor_inn: "sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 PDF 참조) |
+| 기존 적응증 | 1. 저항성 및 불내약성으로 인해 메실산 이매티닙 요법에 실패한 위장관 기저종양 2. 진행성 신세포암 3. 신장절제술을 받은 재발성 신세포암 고위험군 성인 환자에서 수술 후 보조요법 - 고위험군 정의는 다음과 같다. ․ 종양병기 T3, N0 또는 NX, M0, Fuhrman’s… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200606180/EE)) |
 | 예측 신규 적응증 | 지방육종 (Liposarcoma) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L2 |

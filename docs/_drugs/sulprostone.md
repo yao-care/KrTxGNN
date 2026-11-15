@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Sulprostone"
 predicted_indications: ["immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetic retinopathy"]
 last_modified_at: 2026-11-05
-description: "Sulprostone: 예측 신규 적응증 미성숙 백내장 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 본문 없이 링크만 기재됨)"
+description: "Sulprostone: 예측 신규 적응증 미성숙 백내장 (근거 수준 L5). 기존 적응증: 1. 치료목적의 유산유도 및 태아의 자궁내 사망시 분만유도 2. 출산 후 이완성 자궁출혈"
 ---
 
 # Sulprostone
@@ -45,7 +45,7 @@ TxGNN 모델은 **미성숙 백내장(immature cataract)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 항목에 본문 없이 링크만 기재됨) |
+| 기존 적응증 | 1. 치료목적의 유산유도 및 태아의 자궁내 사망시 분만유도 2. 출산 후 이완성 자궁출혈 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200360/EE)) |
 | 예측 신규 적응증 | 미성숙 백내장 |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |

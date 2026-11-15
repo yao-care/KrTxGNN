@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Etodolac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 last_modified_at: 2026-10-31
-description: "Etodolac: 예측 신규 적응증 말단중간이형성증 Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문 없음, 허가 문서 링크만 확인됨)"
+description: "Etodolac: 예측 신규 적응증 말단중간이형성증 Hunter-Thompson형 (근거 수준 L5). 기존 적응증: 1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염…"
 ---
 
 # Etodolac
@@ -45,7 +45,7 @@ TxGNN 모델은 **말단중간이형성증 Hunter-Thompson형(acromesomelic dysp
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문 없음, 허가 문서 링크만 확인됨) |
+| 기존 적응증 | 1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, . . 수술후 외상후 발치후 동통 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199002184/EE)) |
 | 예측 신규 적응증 | 말단중간이형성증 Hunter-Thompson형 |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

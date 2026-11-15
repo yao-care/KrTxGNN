@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-31
 monitor_inn: "Susoctocog alfa"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor XIII deficiency", "adenosine deaminase deficiency"]
-description: "Susoctocog Alfa: 예측 신규 적응증 Primary release disorder of platelets (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Susoctocog Alfa: 예측 신규 적응증 Primary release disorder of platelets (근거 수준 L5). 기존 적응증: 성인 후천성 혈우병 A 환자의 출혈 치료 이 약은 본 빌레브란트 환자의 치료에는 사용하지 않는다."
 ---
 
 # Susoctocog Alfa
@@ -45,7 +45,7 @@ Susoctocog alfa는 B-도메인 결손 재조합 돼지 서열 혈액응고 VIII�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300956/EE) |
+| 기존 적응증 | 성인 후천성 혈우병 A 환자의 출혈 치료 이 약은 본 빌레브란트 환자의 치료에는 사용하지 않는다. ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300956/EE)) |
 | 예측 신규 적응증 | Primary release disorder of platelets |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |

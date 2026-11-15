@@ -6,7 +6,7 @@ nav_order: 136
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Benzbromarone: 예측 신규 적응증 신성 저요산혈증 (Hypouricemia, renal) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적 내용을 확인할 수 없음"
+description: "Benzbromarone: 예측 신규 적응증 신성 저요산혈증 (Hypouricemia, renal) (근거 수준 L5). 기존 적응증: 다음의 경우에 있어서 고요산혈증의 개선 1. 통풍 2. 고요산혈증을 수반한 고혈압증"
 monitor_inn: "BENZBROMARONE"
 predicted_indications: ["hypouricemia, renal"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **신성 저요산혈증(Hypouricemia, renal)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적 내용을 확인할 수 없음 |
+| 기존 적응증 | 다음의 경우에 있어서 고요산혈증의 개선 1. 통풍 2. 고요산혈증을 수반한 고혈압증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500892/EE)) |
 | 예측 신규 적응증 | 신성 저요산혈증 (Hypouricemia, renal) |
 | TxGNN 예측 점수 | 0.9907 |
 | 근거 수준 | L5 |

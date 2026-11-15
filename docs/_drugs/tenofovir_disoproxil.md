@@ -6,7 +6,7 @@ nav_order: 726
 evidence_level: L4
 indication_count: 4
 last_modified_at: 2026-10-31
-description: "Tenofovir Disoproxil: 예측 신규 적응증 원숭이면역결핍바이러스 감염 (Simian immunodeficiency virus infection) (근거 수준 L4). 기존 적응증: 허가 적응증 원문이 데이터에 포함되어 있지 않아 확인 불가 (허가증 PDF 링크만 제공됨)"
+description: "Tenofovir Disoproxil: 예측 신규 적응증 원숭이면역결핍바이러스 감염 (Simian immunodeficiency virus infection) (근거 수준 L4). 기존 적응증: 1. HIV-1 감염 성인 및 12세 이상의 소아에서 HIV-1감염의 치료를 위해 다른…"
 monitor_inn: "TENOFOVIR DISOPROXIL"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **원숭이면역결핍바이러스 감염(Simian immunodeficien
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 데이터에 포함되어 있지 않아 확인 불가 (허가증 PDF 링크만 제공됨) |
+| 기존 적응증 | 1. HIV-1 감염 성인 및 12세 이상의 소아에서 HIV-1감염의 치료를 위해 다른 항레트로바이러스제제와 병용투여한다. 이 약은 테노포비르 함유 복합제제와 함께 복용하지 않는다. 2. 만성B형간염 성인 및 12세 이상 소아의 만성B형간염을 치료한다. (만성B형간염 치료를 위해 이… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708448/EE)) |
 | 예측 신규 적응증 | 원숭이면역결핍바이러스 감염 (Simian immunodeficiency virus infection) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L4 (전임상 연구 중심) |

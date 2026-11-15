@@ -6,7 +6,7 @@ nav_order: 757
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Travoprost: 예측 신규 적응증 내장 칼시필락시스 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: 녹내장 및 고안압증 (허가 적응증 원문은 허가증 링크로만 제공되어 일반적인 허가 용도로 기재)"
+description: "Travoprost: 예측 신규 적응증 내장 칼시필락시스 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: 개방각 녹내장 환자 및 국소 베타 차단제 혹은 프로스타글란딘 유도체에 불충분하게 반응하는 고안압증 환자의…"
 monitor_inn: "Travoprost"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "idiopathic spontaneous coronary artery dissection", "lymphangiectasis", "hemangioendothelioma"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 녹내장 및 고안압증 (허가 적응증 원문은 허가증 링크로만 제공되어 일반적인 허가 용도로 기재) |
+| 기존 적응증 | 개방각 녹내장 환자 및 국소 베타 차단제 혹은 프로스타글란딘 유도체에 불충분하게 반응하는 고안압증 환자의 안압감소 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200702090/EE)) |
 | 예측 신규 적응증 | 내장 칼시필락시스 (visceral calciphylaxis) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 416
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Imatinib: 예측 신규 적응증 심장 섬유육종 (heart fibrosarcoma) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 확인되지 않음 (허가증에 문서 링크만 수록)"
+description: "Imatinib: 예측 신규 적응증 심장 섬유육종 (heart fibrosarcoma) (근거 수준 L5). 기존 적응증: 1. 만성골수성백혈병(Chronic Myeloid Leukemia; CML) - 필라델피아 염색체 양성인…"
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **심장 섬유육종(heart fibrosarcoma)**에 효과가 있을 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트는 확인되지 않음 (허가증에 문서 링크만 수록) |
+| 기존 적응증 | 1. 만성골수성백혈병(Chronic Myeloid Leukemia; CML) - 필라델피아 염색체 양성인 만성기, 가속기, 급성기 만성 골수성백혈병 성인 및 소아 환자에서의 이 약의 효과는 만성골수성백혈병 성인 환자에서의 경우 전반적인 혈액학적, 세포유 전학적 반응, 무진행… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307123/EE)) |
 | 예측 신규 적응증 | 심장 섬유육종 (heart fibrosarcoma) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |

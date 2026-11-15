@@ -6,7 +6,7 @@ nav_order: 484
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Lorlatinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: ALK 양성 비소세포폐암 (허가 문서 링크만 제공되어 상세 문구는 확인되지 않음)"
+description: "Lorlatinib: 예측 신규 적응증 치은 섬유종증 (fibromatosis, gingival) (근거 수준 L5). 기존 적응증: 역형성 림프종 인산화효소(ALK)-양성 전이성 비소세포폐암(NSCLC) 성인 환자의 치료"
 monitor_inn: "LORLATINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | ALK 양성 비소세포폐암 (허가 문서 링크만 제공되어 상세 문구는 확인되지 않음) |
+| 기존 적응증 | 역형성 림프종 인산화효소(ALK)-양성 전이성 비소세포폐암(NSCLC) 성인 환자의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202105597/EE)) |
 | 예측 신규 적응증 | 치은 섬유종증 (fibromatosis, gingival) |
 | TxGNN 예측 점수 | 0.9981 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 763
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Trifarotene: 예측 신규 적응증 혈장 아연 상승 (zinc, elevated plasma) (근거 수준 L5). 기존 적응증: 여드름 (허가증에는 적응증 본문 대신 문서 링크만 기재되어 있어, 약물 정보와 약리 자료를 근거로 기재)"
+description: "Trifarotene: 예측 신규 적응증 혈장 아연 상승 (zinc, elevated plasma) (근거 수준 L5). 기존 적응증: 만 9세 이상에서 면포, 구진, 농포가 나타나는 중등도 여드름의 국소치료(얼굴 또는 몸통)"
 monitor_inn: "Trifarotene"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **혈장 아연 상승(zinc, elevated plasma)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 여드름 (허가증에는 적응증 본문 대신 문서 링크만 기재되어 있어, 약물 정보와 약리 자료를 근거로 기재) |
+| 기존 적응증 | 만 9세 이상에서 면포, 구진, 농포가 나타나는 중등도 여드름의 국소치료(얼굴 또는 몸통) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103414/EE)) |
 | 예측 신규 적응증 | 혈장 아연 상승 (zinc, elevated plasma) |
 | TxGNN 예측 점수 | 0.9940 |
 | 근거 수준 | L5 |

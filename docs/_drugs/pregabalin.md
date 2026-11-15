@@ -6,7 +6,7 @@ nav_order: 626
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-31
-description: "Pregabalin: 예측 신규 적응증 건염 (Tendinitis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문은 링크로만 제공됨 (일반적으로 신경병증성 통증 등, 허가사항 확인 필요)"
+description: "Pregabalin: 예측 신규 적응증 건염 (Tendinitis) (근거 수준 L5). 기존 적응증: 1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 간질 성인에서 이차적 전신증상을 동반하거나 동반하지…"
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **건염(Tendinitis)**에 효과가 있을 수 있다고 예측�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 링크로만 제공됨 (일반적으로 신경병증성 통증 등, 허가사항 확인 필요) |
+| 기존 적응증 | 1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 간질 성인에서 이차적 전신증상을 동반하거나 동반하지 않은 부분발작의 보조제 3. 섬유근육통의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603622/EE)) |
 | 예측 신규 적응증 | 건염 (Tendinitis) |
 | TxGNN 예측 점수 | 0.9971 |
 | 근거 수준 | L5 (모델 예측 중심, 건염에 대한 직접 연구 없음) |

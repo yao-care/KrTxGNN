@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Doripenem"
 predicted_indications: ["primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis"]
 last_modified_at: 2026-11-05
-description: "Doripenem: 예측 신규 적응증 원발성 문맥 혈전증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가 정보에는 문서 링크만 있음)"
+description: "Doripenem: 예측 신규 적응증 원발성 문맥 혈전증 (근거 수준 L5). 기존 적응증: 이 약 도리페넴에 감수성이 있는 포도구균속, 연쇄구균속, 폐렴구균, 장구균속(엔테로콕쿠스 파이키움 제외)…"
 ---
 
 # Doripenem
@@ -46,7 +46,7 @@ TxGNN 모델은 **원발성 문맥 혈전증(primitive portal vein thrombosis)**
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가 정보에는 문서 링크만 있음) |
+| 기존 적응증 | 이 약 도리페넴에 감수성이 있는 포도구균속, 연쇄구균속, 폐렴구균, 장구균속(엔테로콕쿠스 파이키움 제외), 모락셀라(브란하멜라) 카타랄리스, 대장균, 시트로박터속, 클레브시엘라속, 엔테로박터속, 세라티아속,프로테우스속, 모르가넬라 모르가니, 프로비덴시아속, 인플루엔자균, 녹농균… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701862/EE)) |
 | 예측 신규 적응증 | 원발성 문맥 혈전증 |
 | TxGNN 예측 점수 | 0.9900 |
 | 근거 수준 | L5 |

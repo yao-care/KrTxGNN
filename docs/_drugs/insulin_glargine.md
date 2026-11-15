@@ -6,7 +6,7 @@ nav_order: 426
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Insulin Glargine: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 문구를 확인할 수 없음 (인슐린 제제로서 당뇨병 치료제)"
+description: "Insulin Glargine: 예측 신규 적응증 자가면역성 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 2세 이상의 어린이와 청소년 및 성인에서의 인슐린 요법을 필요로 하는 당뇨병"
 monitor_inn: "INSULIN GLARGINE"
 predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문 대신 허가사항 문서 링크만 제공되어 구체적인 문구를 확인할 수 없음 (인슐린 제제로서 당뇨병 치료제) |
+| 기존 적응증 | 2세 이상의 어린이와 청소년 및 성인에서의 인슐린 요법을 필요로 하는 당뇨병 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507921/EE)) |
 | 예측 신규 적응증 | 자가면역성 난소염 (autoimmune oophoritis) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |

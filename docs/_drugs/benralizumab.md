@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
 last_modified_at: 2026-10-31
-description: "Benralizumab: 예측 신규 적응증 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Benralizumab: 예측 신규 적응증 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) (근거 수준 L5). 기존 적응증: 1. 천식 성인에서 기존 치료에 적절하게 조절되지 않는 중증 호산구성 천식 치료의 추가 유지 요법 2…"
 ---
 
 # Benralizumab
@@ -45,7 +45,7 @@ TxGNN 모델은 **면역 파괴에 의한 혈소판감소증(thrombocytopenia du
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903766/EE) |
+| 기존 적응증 | 1. 천식 성인에서 기존 치료에 적절하게 조절되지 않는 중증 호산구성 천식 치료의 추가 유지 요법 2. 다발혈관염을 동반한 호산구육아종증 성인에서 다발혈관염을 동반한 호산구육아종증 (EGPA)의 추가 유지 요법 3. 과다 호산구 증후군 성인에서 과다 호산구 증후군(HES)의 추가 유지… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903766/EE)) |
 | 예측 신규 적응증 | 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) |
 | TxGNN 예측 점수 | 0.9934 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 526
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-31
-description: "Mogamulizumab: 예측 신규 적응증 전립선 요도 요로상피암 (Prostatic urethra urothelial carcinoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 없음 (허가 문서 링크만 확인됨)"
+description: "Mogamulizumab: 예측 신규 적응증 전립선 요도 요로상피암 (Prostatic urethra urothelial carcinoma) (근거 수준 L5). 기존 적응증: 이전에 한 가지 이상의 전신요법을 받은 경험이 있는 균상식육종 또는 시자리증후군 성인 환자의 치료"
 monitor_inn: "MOGAMULIZUMAB"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **전립선 요도 요로상피암(prostatic urethra urothelial 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 없음 (허가 문서 링크만 확인됨) |
+| 기존 적응증 | 이전에 한 가지 이상의 전신요법을 받은 경험이 있는 균상식육종 또는 시자리증후군 성인 환자의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203641/EE)) |
 | 예측 신규 적응증 | 전립선 요도 요로상피암 (Prostatic urethra urothelial carcinoma) |
 | TxGNN 예측 점수 | 0.9944 |
 | 근거 수준 | L5 |

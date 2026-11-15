@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
 last_modified_at: 2026-11-12
-description: "Etoposide: 예측 신규 적응증 폐의 고분화 태아형 선암 (근거 수준 L5). 기존 적응증: 허가 적응증 본문 확인 불가 (허가사항 링크만 제공됨)"
+description: "Etoposide: 예측 신규 적응증 폐의 고분화 태아형 선암 (근거 수준 L5). 기존 적응증: 소세포폐암, 악성림프종, 급성백혈병, 고환종양, 방광암, 융모성질환"
 ---
 
 # Etoposide
@@ -46,7 +46,7 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 확인 불가 (허가사항 링크만 제공됨) |
+| 기존 적응증 | 소세포폐암, 악성림프종, 급성백혈병, 고환종양, 방광암, 융모성질환 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003586/EE)) |
 | 예측 신규 적응증 | 폐의 고분화 태아형 선암 |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 219
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Clarithromycin: 예측 신규 적응증 다클론성 과점도 증후군 (Polyclonal Hyperviscosity Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 이번에 확보된 데이터에 포함되어 있지 않습니다(허가사항 링크만 확인됨)"
+description: "Clarithromycin: 예측 신규 적응증 다클론성 과점도 증후군 (Polyclonal Hyperviscosity Syndrome) (근거 수준 L5). 기존 적응증: ○ 유효균종 황색포도구균, 폐렴연쇄구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타용혈성), 리스테리아…"
 monitor_inn: "CLARITHROMYCIN"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **다클론성 과점도 증후군(Polyclonal Hyperviscosity Syn
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 이번에 확보된 데이터에 포함되어 있지 않습니다(허가사항 링크만 확인됨). |
+| 기존 적응증 | ○ 유효균종 황색포도구균, 폐렴연쇄구균, 스트렙토콕쿠스 피오게네스(그룹 A-베타용혈성), 리스테리아 모노사이토제니 스, 스트렙토콕쿠스 아갈락티에(그룹 B), 스트렙토콕쿠스 비리단스, 인플루엔자균, 파라인플루엔자균, 모락 셀라 카타랄리스, 레기오넬라 뉴모필라, 보르데텔라 백일해… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906074/EE)) |
 | 예측 신규 적응증 | 다클론성 과점도 증후군 (Polyclonal Hyperviscosity Syndrome) |
 | TxGNN 예측 점수 | 0.9935 |
 | 근거 수준 | L5 |

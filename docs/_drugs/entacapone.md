@@ -6,7 +6,7 @@ nav_order: 310
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Entacapone: 예측 신규 적응증 PLA2G6 관련 신경변성 (PLA2G6-associated neurodegeneration) (근거 수준 L5). 기존 적응증: 파킨슨병에서 levodopa/carbidopa 보조 요법 (한국 허가 문서 링크만 제공되어 허가 본문은 확인하지 못했으며…"
+description: "Entacapone: 예측 신규 적응증 PLA2G6 관련 신경변성 (PLA2G6-associated neurodegeneration) (근거 수준 L5). 기존 적응증: 레보도파/도파탈탄산효소(Dopadecarboxylase ; DDC) 억제제 표준치료제로 개선되지 않는…"
 monitor_inn: "ENTACAPONE"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **PLA2G6 관련 신경변성(PLA2G6-associated neurodegeneration
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 파킨슨병에서 levodopa/carbidopa 보조 요법 (한국 허가 문서 링크만 제공되어 허가 본문은 확인하지 못했으며, 위 내용은 약물 분류에 근거함) |
+| 기존 적응증 | 레보도파/도파탈탄산효소(Dopadecarboxylase ; DDC) 억제제 표준치료제로 개선되지 않는 파킨슨씨병 환자의 운동 동요 증상(end-of-dose motor fluctuations)의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200410072/EE)) |
 | 예측 신규 적응증 | PLA2G6 관련 신경변성 (PLA2G6-associated neurodegeneration) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 |

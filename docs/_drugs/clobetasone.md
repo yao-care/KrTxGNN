@@ -6,7 +6,7 @@ nav_order: 224
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-06
-description: "Clobetasone: 예측 신규 적응증 원발성 피부 T세포 림프종 (primary cutaneous T-cell lymphoma) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았으며, 허가 문서 링크만 확인됨"
+description: "Clobetasone: 예측 신규 적응증 원발성 피부 T세포 림프종 (primary cutaneous T-cell lymphoma) (근거 수준 L5). 기존 적응증: 다음 질환을 포함하는 모든 형태의 피부염 및 습진 : 아토피피부염, 광피부염, 자극성 및…"
 monitor_inn: "Clobetasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "Sezary syndrome", "primary cutaneous B-cell lymphoma", "granulomatous slack skin disease", "Crohn's colitis", "adrenocortical insufficiency", "primary cutaneous T-cell non-Hodgkin lymphoma", "nephrotic syndrome", "cystic teratoma", "spinal cord dermoid cyst"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **원발성 피부 T세포 림프종(primary cutaneous T-cell ly
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았으며, 허가 문서 링크만 확인됨 |
+| 기존 적응증 | 다음 질환을 포함하는 모든 형태의 피부염 및 습진 : 아토피피부염, 광피부염, 자극성 및 알레르기피부염(기저귀발진을 포함), 지루피부염 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200201126/EE)) |
 | 예측 신규 적응증 | 원발성 피부 T세포 림프종 (primary cutaneous T-cell lymphoma) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

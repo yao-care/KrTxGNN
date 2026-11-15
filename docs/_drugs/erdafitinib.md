@@ -6,7 +6,7 @@ nav_order: 316
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-31
-description: "Erdafitinib: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트는 확인되지 않았습니다(허가증 링크만 제공됨). 허가사항 참조 필요"
+description: "Erdafitinib: 예측 신규 적응증 폐고혈압 (Pulmonary Hypertension) (근거 수준 L5). 기존 적응증: 이전에 최소 한 가지 이상의 PD-1 또는 PD-L1 억제제를 포함한 전신 요법 치료 중 또는 치료 후에…"
 monitor_inn: "Erdafitinib"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
 ---
@@ -44,7 +44,7 @@ Erdafitinib은 FGFR(섬유아세포성장인자 수용체) 1~4를 억제하는 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문 텍스트는 확인되지 않았습니다(허가증 링크만 제공됨). 허가사항 참조 필요 |
+| 기존 적응증 | 이전에 최소 한 가지 이상의 PD-1 또는 PD-L1 억제제를 포함한 전신 요법 치료 중 또는 치료 후에 질병이 진행된 FGFR3 유전자 변이가 있는 수술적으로 절제 불가능한 국소 진행성 또는 전이성 요로상피암 성인 환자의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204247/EE)) |
 | 예측 신규 적응증 | 폐고혈압 (Pulmonary Hypertension) |
 | TxGNN 예측 점수 | 0.9938 |
 | 근거 수준 | L5 |

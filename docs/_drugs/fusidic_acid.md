@@ -6,7 +6,7 @@ nav_order: 368
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Fusidic Acid: 예측 신규 적응증 노출성 각막염 (Exposure Keratitis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트 없음 (허가 문서 링크만 제공됨)"
+description: "Fusidic Acid: 예측 신규 적응증 노출성 각막염 (Exposure Keratitis) (근거 수준 L5). 기존 적응증: (시럽제) ○ 유효균종 포도구균 ○ 적응증 - 골수염, 창상감염, 부스럼, 옹종 등 피부감염증 - 패혈증…"
 monitor_inn: "FUSIDIC ACID"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **노출성 각막염(Exposure Keratitis)**에 효과가 있을 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트 없음 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | (시럽제) ○ 유효균종 포도구균 ○ 적응증 - 골수염, 창상감염, 부스럼, 옹종 등 피부감염증 - 패혈증, 낭포성섬유종 - 심내막염 - 기관지 폐렴 (크림제)(겔제) ○ 유효균종 포도구균, 연쇄구균, 코리네박테륨, 클로스트리듐 ○ 적응증 - 농피증(농가진, 감염성습진양피부염… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301071/EE)) |
 | 예측 신규 적응증 | 노출성 각막염 (Exposure Keratitis) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

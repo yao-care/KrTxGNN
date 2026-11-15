@@ -6,7 +6,7 @@ nav_order: 168
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Cabozantinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 신세포암 (허가증에는 원문 링크만 수록되어 있어, 허가 적응증 문구는 허가증 원문 확인이 필요합니다)"
+description: "Cabozantinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 1) 신장세포암의 치료 (1) 이전에 VEGF(Vascular endothelial growth…"
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 신세포암 (허가증에는 원문 링크만 수록되어 있어, 허가 적응증 문구는 허가증 원문 확인이 필요합니다) |
+| 기존 적응증 | 1) 신장세포암의 치료 (1) 이전에 VEGF(Vascular endothelial growth factor) 표적요법으로 치료 받은 적이 있는 진행성 신장세 포암 환자에서의 단독요법 (2) 진행성 신장세포암 환자에서의 1차 치료로서 니볼루맙과의 병용요법 2) 간세포암의 치료 :… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707241/EE)) |
 | 예측 신규 적응증 | 지방육종 (Liposarcoma) |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 (완료된 RCT 없음, 지방육종 특이 자료 희소) |

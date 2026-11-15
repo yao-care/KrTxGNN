@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 last_modified_at: 2026-10-31
-description: "Levetiracetam: 예측 신규 적응증 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Levetiracetam: 예측 신규 적응증 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) (근거 수준 L5). 기존 적응증: 1. 단독요법 : 처음 뇌전증으로 진단된 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(12세…"
 ---
 
 # Levetiracetam
@@ -45,7 +45,7 @@ TxGNN 모델은 **베타-케토티올라제 결핍증(beta-ketothiolase deficien
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805181/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301649/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908013/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201208482/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207471/EE);  |
+| 기존 적응증 | 1. 단독요법 : 처음 뇌전증으로 진단된 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(12세 이상) 2. 부가요법 : 기존 1차 뇌전증치료제 투여로 적절하게 조절이 되지 않는 2차성 전신발작을 동반하거나 동반하지 않는 부분발작의 치료(12세 이상) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805181/EE)) |
 | 예측 신규 적응증 | 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |

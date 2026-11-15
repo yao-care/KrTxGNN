@@ -6,7 +6,7 @@ nav_order: 548
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Nitrofurantoin: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조)"
+description: "Nitrofurantoin: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: ○유효균종 이 약에 감수성이 있는 대장균, 장내구균속, 황색포도상구균, 클레브시엘라속, 엔테로박터속…"
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
 ---
@@ -44,7 +44,7 @@ Nitrofurantoin은 항균제로, 한국에서 단일제 캡슐로 허가되어 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | ○유효균종 이 약에 감수성이 있는 대장균, 장내구균속, 황색포도상구균, 클레브시엘라속, 엔테로박터속 ○적응증 급성방광염을 포함한 단순 요로감염의 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801271/EE)) |
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |

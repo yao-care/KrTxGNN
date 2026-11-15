@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-04
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
-description: "Everolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Everolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: 신장 및 심장 이식 경도 내지 중등도의 면역학적 위험을 가진 동종 신장 또는 심장 이식을 받은 성인…"
 ---
 
 # Everolimus
@@ -44,7 +44,7 @@ Everolimus는 mTOR 억제제로, 한국에서 단일성분 정제로 시판되�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804620/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004977/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202002237/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201904234/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004979/EE);  |
+| 기존 적응증 | 신장 및 심장 이식 경도 내지 중등도의 면역학적 위험을 가진 동종 신장 또는 심장 이식을 받은 성인 환자에서 이식 후 장기 이 식 거부 반응의 예방. 신장 및 심장 이식에서 사용 시 이 약은 마이크로에멀젼 제형의 사이클로스포린 및 코르 티코스테로이드와 병용하여 투여한다. 간이식 간… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804620/EE)) |
 | 예측 신규 적응증 | 지방육종 (liposarcoma) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L3 |

@@ -6,7 +6,7 @@ nav_order: 125
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Baricitinib: 예측 신규 적응증 콜로보마성 소안구증-근위지단 이형성 증후군 (colobomatous microphthalmia-rhizomelic dyspl… (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음"
+description: "Baricitinib: 예측 신규 적응증 콜로보마성 소안구증-근위지단 이형성 증후군 (colobomatous microphthalmia-rhizomelic dyspl… (근거 수준 L5). 기존 적응증: 다음의 환자에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 이 약을 사용하여야한다…"
 monitor_inn: "BARICITINIB"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 ---
@@ -44,7 +44,7 @@ Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으로 시판 중�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 |
+| 기존 적응증 | 다음의 환자에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 이 약을 사용하여야한다. (3. 원형 탈모증은 제외) -다음­ 가. 65세 이상 환자 나. 심혈관계 고위험군 환자 다. 악성 종양 위험이 있는 환자 1. 류마티스 관절염 하나 이상의… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708281/EE)) |
 | 예측 신규 적응증 | 콜로보마성 소안구증-근위지단 이형성 증후군 (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |

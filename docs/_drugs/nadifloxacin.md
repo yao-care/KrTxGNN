@@ -6,7 +6,7 @@ nav_order: 534
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Nadifloxacin: 예측 신규 적응증 말라리아 (Malaria) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 기재되지 않아 확인할 수 없음 (허가 문서 링크만 제공됨)"
+description: "Nadifloxacin: 예측 신규 적응증 말라리아 (Malaria) (근거 수준 L5). 기존 적응증: - 유효균종 : 프로피오니박테리움 아크네(Propionibacterium acnes),스타필로코커스…"
 monitor_inn: "Nadifloxacin"
 predicted_indications: ["malaria"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **말라리아(malaria)**에 효과가 있을 수 있다고 예�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 기재되지 않아 확인할 수 없음 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | - 유효균종 : 프로피오니박테리움 아크네(Propionibacterium acnes),스타필로코커스 에피더미디스 (Staphylococcus epidermidis) - 적응증 : 경증-중등도의 구진과 농포가 있는 심상성 좌창(여드름)의 국소 적 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302179/EE)) |
 | 예측 신규 적응증 | 말라리아 (Malaria) |
 | TxGNN 예측 점수 | 0.9916 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 465
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Leflunomide: 예측 신규 적응증 단지증-합지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가증 링크만 제공됨)"
+description: "Leflunomide: 예측 신규 적응증 단지증-합지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 1. 성인에 대하여 아래와 같이 류마티스 관절염 치료에 사용된다. ● 류마티스 관절염의 징후 및 증상 완화…"
 monitor_inn: "LEFLUNOMIDE"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
@@ -44,7 +44,7 @@ Leflunomide는 한국에서 단일제 정제로 19건이 허가·시판 중인 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 데이터에 포함되어 있지 않아 확인할 수 없음 (허가증 링크만 제공됨) |
+| 기존 적응증 | 1. 성인에 대하여 아래와 같이 류마티스 관절염 치료에 사용된다. ● 류마티스 관절염의 징후 및 증상 완화 ● 엑스선(X-ray) 촬영 소견상 관절공간의 감소 및 침식증과 같은 구조적 손상을 억제 ● 류마티스 관절염으로 인하여 저하된 신체기능의 개선 2. 활동성 건선성 관절염의 증상… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710887/EE)) |
 | 예측 신규 적응증 | 단지증-합지증 증후군 (brachydactyly-syndactyly syndrome) |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 102
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Atracurium Besylate: 예측 신규 적응증 자간전증 (Preeclampsia) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 아닌 허가 문서 링크만 등재되어 있어 구체적 문구를 확인할 수 없음 (신경근 차단제로서 마취 시 근이…"
+description: "Atracurium Besylate: 예측 신규 적응증 자간전증 (Preeclampsia) (근거 수준 L5). 기존 적응증: 1.마취시 근이완 2.기관내 삽관시 근이완 유지 3.기계적 조절호흡 용이 4.수술시 근이완"
 monitor_inn: "Atracurium besylate"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **자간전증(preeclampsia)**에 효과가 있을 수 있다고
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 본문이 아닌 허가 문서 링크만 등재되어 있어 구체적 문구를 확인할 수 없음 (신경근 차단제로서 마취 시 근이완 용도로 알려져 있음) |
+| 기존 적응증 | 1.마취시 근이완 2.기관내 삽관시 근이완 유지 3.기계적 조절호흡 용이 4.수술시 근이완 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703106/EE)) |
 | 예측 신규 적응증 | 자간전증 (Preeclampsia) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "TULOBUTEROL"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 last_modified_at: 2026-11-03
-description: "Tulobuterol: 예측 신규 적응증 호흡기 기형 (respiratory malformation) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Tulobuterol: 예측 신규 적응증 호흡기 기형 (respiratory malformation) (근거 수준 L5). 기존 적응증: 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지 천식, 급성 기관지염, 만성…"
 ---
 
 # Tulobuterol
@@ -45,7 +45,7 @@ TxGNN 모델은 **호흡기 기형(respiratory malformation)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310337/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003161/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003180/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003158/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003174/EE);  |
+| 기존 적응증 | 다음 질환의 기도폐쇄성 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지 천식, 급성 기관지염, 만성 기관지염, 폐기종 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201310337/EE)) |
 | 예측 신규 적응증 | 호흡기 기형 (respiratory malformation) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

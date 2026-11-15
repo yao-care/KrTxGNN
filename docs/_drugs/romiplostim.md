@@ -6,7 +6,7 @@ nav_order: 666
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Romiplostim: 예측 신규 적응증 혈소판 방출 장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가 정보는 링크로만 제공됨). 약리 자료상 만성 특발성 혈소판감소성 자반증(ITP)"
+description: "Romiplostim: 예측 신규 적응증 혈소판 방출 장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 1. 코르티코스테로이드 또는 면역글로불린 또는 비장절제술에 충분한 반응을 보이지 않은 만성 면역성(특발성)…"
 monitor_inn: "ROMIPLOSTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **혈소판 방출 장애(primary release disorder of platelets)
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가 정보는 링크로만 제공됨). 약리 자료상 만성 특발성 혈소판감소성 자반증(ITP) |
+| 기존 적응증 | 1. 코르티코스테로이드 또는 면역글로불린 또는 비장절제술에 충분한 반응을 보이지 않은 만성 면역성(특발성) 혈소판 감소성 자반증 환자에서의 저혈소판증 치료. 이 약은 출혈의 위험이 증가하는 임상적 상태의 저혈소판증을 갖는 환자에서만 사용한다. 혈소판 수를 정상화시키기 위한 목적으로… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201103637/EE)) |
 | 예측 신규 적응증 | 혈소판 방출 장애 (primary release disorder of platelets) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |

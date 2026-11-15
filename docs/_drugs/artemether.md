@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "ARTEMETHER"
 predicted_indications: ["acquired angioedema", "angioedema", "hereditary angioedema", "nephrogenic syndrome of inappropriate antidiuresis", "acute contagious conjunctivitis", "scleroderma (disease)", "conjunctivitis", "renin-angiotensin-aldosterone system-blocker-induced angioedema"]
 last_modified_at: 2026-11-06
-description: "Artemether: 예측 신규 적응증 후천성 혈관부종 (acquired angioedema) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Artemether: 예측 신규 적응증 후천성 혈관부종 (acquired angioedema) (근거 수준 L5). 기존 적응증: 급성의 단순 말라리아 감염 치료"
 ---
 
 # Artemether
@@ -45,7 +45,7 @@ TxGNN 모델은 **후천성 혈관부종(acquired angioedema)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401012/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401013/EE) |
+| 기존 적응증 | 급성의 단순 말라리아 감염 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401012/EE)) |
 | 예측 신규 적응증 | 후천성 혈관부종 (acquired angioedema) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |

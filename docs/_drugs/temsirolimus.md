@@ -6,7 +6,7 @@ nav_order: 723
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Temsirolimus: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 허가증에 적응증 본문이 아닌 문서 링크만 등록되어 있어 이번 데이터에서는 확인할 수 없음"
+description: "Temsirolimus: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L5). 기존 적응증: 진행성 신세포암"
 monitor_inn: "TEMSIROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "vulva sarcoma"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 본문이 아닌 문서 링크만 등록되어 있어 이번 데이터에서는 확인할 수 없음 |
+| 기존 적응증 | 진행성 신세포암 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200810634/EE)) |
 | 예측 신규 적응증 | 지방육종 (Liposarcoma) |
 | TxGNN 예측 점수 | 0.9954 |
 | 근거 수준 | L5 (완료된 Phase 3 RCT나 지방육종 전용 시험이 없어 사실상 모델 예측과 간접 근거 수준) |

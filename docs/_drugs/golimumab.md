@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "GOLIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
 last_modified_at: 2026-10-31
-description: "Golimumab: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Golimumab: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: 1. 류마티스 관절염 이 약은 메토트렉세이트와 병용하여 다음과 같은 적응증에 투여한다. 1)…"
 ---
 
 # Golimumab
@@ -46,7 +46,7 @@ TxGNN 모델은 **꼬리뼈 과가동성(hypermobility of coccyx)**에 효과가
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308672/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206473/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500861/EE) |
+| 기존 적응증 | 1. 류마티스 관절염 이 약은 메토트렉세이트와 병용하여 다음과 같은 적응증에 투여한다. 1) 메토트렉세이트를 포함한 질환완화약제(DMARD) 치료에 불충분한 반응을 보인 성인 환자에서 중등도에 서 중증의 활성 류마티스 관절염의 치료 2) 기존에 메토트렉세이트로 치료받은 적이 없는 성인… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308672/EE)) |
 | 예측 신규 적응증 | 꼬리뼈 과가동성 (hypermobility of coccyx) |
 | TxGNN 예측 점수 | 0.9967 |
 | 근거 수준 | L5 |

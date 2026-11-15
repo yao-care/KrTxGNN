@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Alpelisib"
 predicted_indications: ["pulmonary hypertension"]
 last_modified_at: 2026-10-31
-description: "Alpelisib: 예측 신규 적응증 폐고혈압 (pulmonary hypertension) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Alpelisib: 예측 신규 적응증 폐고혈압 (pulmonary hypertension) (근거 수준 L5). 기존 적응증: 호르몬 수용체(HR) 양성, 사람 상피세포성장인자수용체 2 (HER2) 음성 및 PIK3CA 변이가 양성인…"
 ---
 
 # Alpelisib
@@ -45,7 +45,7 @@ TxGNN 모델은 **폐고혈압(pulmonary hypertension)**에 효과가 있을 수
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103823/EE) |
+| 기존 적응증 | 호르몬 수용체(HR) 양성, 사람 상피세포성장인자수용체 2 (HER2) 음성 및 PIK3CA 변이가 양성인 폐경 후여성 및 남성의 진행성 또는 전이성 유방암에 내분비요법 후 질환이 진행된 경우 풀베스트란트와 병용투여 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202103823/EE)) |
 | 예측 신규 적응증 | 폐고혈압 (pulmonary hypertension) |
 | TxGNN 예측 점수 | 0.9903 |
 | 근거 수준 | L5 |

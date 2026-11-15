@@ -6,7 +6,7 @@ nav_order: 524
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Mizolastine: 예측 신규 적응증 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (항히스타민제로 분류)"
+description: "Mizolastine: 예측 신규 적응증 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) (근거 수준 L5). 기존 적응증: 계절알레르기비결막염(고초열), 연중알레르기비결막염, 두드러기 증상의 완화"
 monitor_inn: "MIZOLASTINE"
 predicted_indications: ["acute intermittent porphyria", "psychogenic movement disorders", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "benign shuddering attacks", "extrapyramidal and movement disease", "primary orthostatic tremor", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "carbamoyl phosphate synthetase I deficiency disease"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **급성 간헐성 포르피린증(Acute Intermittent Porphyria)
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크로만 제공되어 구체적인 내용을 확인할 수 없음 (항히스타민제로 분류) |
+| 기존 적응증 | 계절알레르기비결막염(고초열), 연중알레르기비결막염, 두드러기 증상의 완화 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001929/EE)) |
 | 예측 신규 적응증 | 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 |

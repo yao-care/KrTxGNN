@@ -6,7 +6,7 @@ nav_order: 701
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-05
-description: "Soybean Oil: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 문서 링크로만 제공됨)"
+description: "Soybean Oil: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 비경구 영양요법을 필요로 하는 환자(경구 혹은 위장관 영양공급이 불가능, 불충분 또는 제한되는…"
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문이 문서 링크로만 제공됨) |
+| 기존 적응증 | 비경구 영양요법을 필요로 하는 환자(경구 혹은 위장관 영양공급이 불가능, 불충분 또는 제한되는 경우)에게에너지와 필수지방산 및 오메가-3 지방산의 공급 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202106173/EE)) |
 | 예측 신규 적응증 | 무월경 (Amenorrhea) |
 | TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "tiotropium"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 last_modified_at: 2026-10-31
-description: "Tiotropium: 예측 신규 적응증 호흡기 기형 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문 없이 허가문서 링크만 제공됨)"
+description: "Tiotropium: 예측 신규 적응증 호흡기 기형 (근거 수준 L5). 기존 적응증: 기관지확장제로서 성인의 만성폐쇄성폐질환의 증상 완화를 위한 유지요법제"
 ---
 
 # Tiotropium
@@ -46,7 +46,7 @@ TxGNN 모델은 **호흡기 기형(Respiratory Malformation)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문 없이 허가문서 링크만 제공됨) |
+| 기존 적응증 | 기관지확장제로서 성인의 만성폐쇄성폐질환의 증상 완화를 위한 유지요법제 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506154/EE)) |
 | 예측 신규 적응증 | 호흡기 기형 |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

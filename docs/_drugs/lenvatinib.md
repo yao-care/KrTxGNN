@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-04
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-description: "Lenvatinib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Lenvatinib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: 1. 방사성 요오드에 불응한, 국소 재발성 또는 전이성의 진행성 분화 갑상선암 2. 절제불가능한 간세포성암…"
 ---
 
 # Lenvatinib
@@ -45,7 +45,7 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507059/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507057/EE) |
+| 기존 적응증 | 1. 방사성 요오드에 불응한, 국소 재발성 또는 전이성의 진행성 분화 갑상선암 2. 절제불가능한 간세포성암 환자의 1차 치료 3. 이전에 전신 치료를 받은 경험이 있고 질병이 진행하였으며, 수술적 치료 또는 방사선 치료가 부적합한,MSI-H (microsatellite… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507059/EE)) |
 | 예측 신규 적응증 | 지방육종 (liposarcoma) |
 | TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L3 |

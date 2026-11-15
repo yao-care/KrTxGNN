@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
 last_modified_at: 2026-10-31
-description: "Atezolizumab: 예측 신규 적응증 자궁인대 선암 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음"
+description: "Atezolizumab: 예측 신규 적응증 자궁인대 선암 (근거 수준 L5). 기존 적응증: 초기 병기 비소세포폐암 PD-L1 발현 비율이 종양세포(TC)의 50% 이상인 병기 II-IIIA…"
 ---
 
 # Atezolizumab
@@ -44,7 +44,7 @@ Atezolizumab은 PD-L1을 표적으로 하는 항체 의약품으로, 한국에�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 링크로만 제공되어 구체적 내용을 확인할 수 없음 |
+| 기존 적응증 | 초기 병기 비소세포폐암 PD-L1 발현 비율이 종양세포(TC)의 50% 이상인 병기 II-IIIA 비소세포폐암 환자에 대해 절제 및 백금 기 반 화학요법 후에 수술 후 보조요법(adjuvant) 전이성 비소세포폐암 1. 백금 기반 화학요법제 치료 중 또는 치료 이후에 질병이 진행된… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201700266/EE)) |
 | 예측 신규 적응증 | 자궁인대 선암 |
 | TxGNN 예측 점수 | 0.9993 |
 | 근거 수준 | L5 |

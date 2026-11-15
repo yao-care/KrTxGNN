@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
 last_modified_at: 2026-11-03
-description: "Fluoxetine: 예측 신규 적응증 편집성 인격장애 (paranoid personality disorder) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Fluoxetine: 예측 신규 적응증 편집성 인격장애 (paranoid personality disorder) (근거 수준 L5). 기존 적응증: 1. 우울증 이 약의 효과는 DSM-Ⅲ 범주의 우울증과 매우 유사한 것으로 진단 받은 우울증 외래환자의…"
 ---
 
 # Fluoxetine
@@ -46,7 +46,7 @@ TxGNN 모델은 **편집성 인격장애(Paranoid Personality Disorder)**에 효
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907013/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500735/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805198/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801099/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200700022/EE);  |
+| 기존 적응증 | 1. 우울증 이 약의 효과는 DSM-Ⅲ 범주의 우울증과 매우 유사한 것으로 진단 받은 우울증 외래환자의 치료시 5-6주 이내에 나타났다. 우울증은 보통 일상 기능을 방해하는 정도로 현저한 지속적인 우울상태 또는 불쾌감(최소한 2주간 거의 매일)을 말하며 최소한 다음 8가지 증상 중… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201907013/EE)) |
 | 예측 신규 적응증 | 편집성 인격장애 (paranoid personality disorder) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 (이 질환을 직접 연구한 임상시험·문헌 없음) |

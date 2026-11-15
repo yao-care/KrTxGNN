@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Risankizumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 last_modified_at: 2026-10-31
-description: "Risankizumab: 예측 신규 적응증 피부염 (근거 수준 L2). 기존 적응증: 확인 불가 (허가 적응증 본문이 자료에 없음)"
+description: "Risankizumab: 예측 신규 적응증 피부염 (근거 수준 L2). 기존 적응증: 1. 판상 건선 광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 중등도에서 중증의…"
 ---
 
 # Risankizumab
@@ -45,7 +45,7 @@ TxGNN 모델은 **피부염(dermatitis)**에 효과가 있을 수 있다고 예�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문이 자료에 없음) |
+| 기존 적응증 | 1. 판상 건선 광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 중등도에서 중증의 성인(18세 이상) 판상 건선의 치료 2. 건선성 관절염 이전에 DMARDs(disease-modifying anti-rheumatic drug)에 대한 반응이 적절하지 않거나 내약성이 없… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908205/EE)) |
 | 예측 신규 적응증 | 피부염 |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L2 (아토피피부염 2상 무작위배정 시험 1건, 단 효능 신호는 제한적) |

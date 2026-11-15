@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 last_modified_at: 2026-11-03
-description: "Medroxyprogesterone Acetate: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Medroxyprogesterone Acetate: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L3). 기존 적응증: 1. 속발성 무월경 2. 유섬유종 또는 자궁암과 같은 기관의 병리가 없는 상태에서 호르몬의 불균형에…"
 ---
 
 # Medroxyprogesterone Acetate
@@ -44,7 +44,7 @@ Medroxyprogesterone acetate는 합성 프로게스틴 계열의 호르몬제입�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803107/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200409932/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200409933/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203279/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803108/EE) |
+| 기존 적응증 | 1. 속발성 무월경 2. 유섬유종 또는 자궁암과 같은 기관의 병리가 없는 상태에서 호르몬의 불균형에 기인하는 기능성 자궁출혈 3. 경증 또는 중등도 자궁내막증 4. 자궁적출술을 받지 않은 폐경기 여성에 대한 에스트로겐 투여시 병용요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803107/EE)) |
 | 예측 신규 적응증 | 유방 섬유낭성 질환 (breast fibrocystic disease) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L3 |

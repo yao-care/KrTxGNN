@@ -6,7 +6,7 @@ nav_order: 543
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-31
-description: "Nicergoline: 예측 신규 적응증 1순위: 다모증 (Hypertrichosis) / 근거 기준 가장 유망: 편두통 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보가 문서 링크로만 제공됨)"
+description: "Nicergoline: 예측 신규 적응증 1순위: 다모증 (Hypertrichosis) / 근거 기준 가장 유망: 편두통 (근거 수준 L5). 기존 적응증: * 5, 10 mg - 뇌경색 후유증에 수반되는 만성뇌순환장애에 의한 의욕저하의 개선 - 노인 동맥경화성…"
 monitor_inn: "NICERGOLINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "benign prostatic hyperplasia (disease)", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델의 최상위 예측은 **다모증(Hypertrichosis)**이지만 이�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 정보가 문서 링크로만 제공됨) |
+| 기존 적응증 | * 5, 10 mg - 뇌경색 후유증에 수반되는 만성뇌순환장애에 의한 의욕저하의 개선 - 노인 동맥경화성 두통 - 고혈압의 보조요법 * 30 mg 일차성 퇴행성 혈관치매 및 복합성치매와 관련된 다음 치매증후군의 일차적 치료 : 기억력 손상, 집중력장 애, 판단력장애, 적극성 부족 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400422/EE)) |
 | 예측 신규 적응증 | 1순위: 다모증 (Hypertrichosis) / 근거 기준 가장 유망: 편두통 (Migraine disorder, 8순위) |
 | TxGNN 예측 점수 | 1순위 다모증 0.9957 / 편두통 0.9912 |
 | 근거 수준 | 다모증 L5 / 편두통 L4 |

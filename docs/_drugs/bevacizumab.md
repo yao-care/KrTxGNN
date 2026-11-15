@@ -6,7 +6,7 @@ nav_order: 144
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Bevacizumab: 예측 신규 적응증 후두개 종양 (Epiglottis Neoplasm) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 제공되어 본문은 확인하지 못했습니다. 허가 원문 확인이 필요합니다"
+description: "Bevacizumab: 예측 신규 적응증 후두개 종양 (Epiglottis Neoplasm) (근거 수준 L5). 기존 적응증: 1) 전이성 직결장암 - 플루오로피리미딘계 약물을 기본으로 하는 화학요법과 병용하여 전이성 직결장암 치료…"
 monitor_inn: "Bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **후두개 종양(Epiglottis Neoplasm)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 제공되어 본문은 확인하지 못했습니다. 허가 원문 확인이 필요합니다. |
+| 기존 적응증 | 1) 전이성 직결장암 - 플루오로피리미딘계 약물을 기본으로 하는 화학요법과 병용하여 전이성 직결장암 치료. 1차 요법에서 이 약 이 포함된 항암 요법을 투여한 후 진행된 전이성 직결장암 환자에게 2차 요법제로 이 약을 투여하고자 할 경 우는 플루오로피리미딘-이리노테칸 또는… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203696/EE)) |
 | 예측 신규 적응증 | 후두개 종양 (Epiglottis Neoplasm) |
 | TxGNN 예측 점수 | 0.9990 (전체 순위 2,682위) |
 | 근거 수준 | L5 (모델 예측만 있음) |

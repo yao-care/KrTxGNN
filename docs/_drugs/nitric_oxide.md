@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "NITRIC OXIDE"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with connective tissue disease"]
 last_modified_at: 2026-10-31
-description: "Nitric Oxide: 예측 신규 적응증 치아·치주 구성요소를 동반한 기형 증후군 (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되어 적응증 본문은 확인되지 않음"
+description: "Nitric Oxide: 예측 신규 적응증 치아·치주 구성요소를 동반한 기형 증후군 (근거 수준 L5). 기존 적응증: 이 약은 폐 혈관확장제로써 재태기간 34주를 초과하여 출생한 신생아가 임상적 소견이나 심장 초음파상…"
 ---
 
 # Nitric Oxide
@@ -44,7 +44,7 @@ description: "Nitric Oxide: 예측 신규 적응증 치아·치주 구성요소�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되어 적응증 본문은 확인되지 않음 |
+| 기존 적응증 | 이 약은 폐 혈관확장제로써 재태기간 34주를 초과하여 출생한 신생아가 임상적 소견이나 심장 초음파상 폐고혈압을 동반하는 저산소혈증 호흡기능부전증상을 보이는 경우, 인공호흡기에 의한 호흡유지와 다른 적절한약물 치료를 병행하면서 이 약을 적용하여 산소흡입량을 개선시킴으로써… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401363/EE)) |
 | 예측 신규 적응증 | 치아·치주 구성요소를 동반한 기형 증후군 |
 | TxGNN 예측 점수 | 0.9957 |
 | 근거 수준 | L5 |

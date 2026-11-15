@@ -6,7 +6,7 @@ nav_order: 617
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Potassium Chloride: 예측 신규 적응증 신세뇨관 산증 (Renal Tubular Acidosis) (근거 수준 L4). 기존 적응증: 허가증에 적응증 원문이 없고 링크만 제공되어 확인할 수 없음 (일반적으로 칼륨 결핍 및 저칼륨혈증 보충)"
+description: "Potassium Chloride: 예측 신규 적응증 신세뇨관 산증 (Renal Tubular Acidosis) (근거 수준 L4). 기존 적응증: 다음 환자의 지속적 혈액여과 및 혈액투석여과 시 체액대용액으로 사용 및 지속적 혈액투석 및 혈액투석여과시…"
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
 ---
@@ -44,7 +44,7 @@ predicted_indications: ["renal tubular acidosis"]
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 없고 링크만 제공되어 확인할 수 없음 (일반적으로 칼륨 결핍 및 저칼륨혈증 보충) |
+| 기존 적응증 | 다음 환자의 지속적 혈액여과 및 혈액투석여과 시 체액대용액으로 사용 및 지속적 혈액투석 및 혈액투석여과시 투석액으로 사용한다. - 급성 신부전 환자에서 지속적 신대체요법이 필요한 경우 - 여과 또는 투석으로 제거 가능한 수용성 독소로 인한 급성 중독 환자에서 지속적 신대체요법이 필요한… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201103797/EE)) |
 | 예측 신규 적응증 | 신세뇨관 산증 (Renal Tubular Acidosis) |
 | TxGNN 예측 점수 | 0.9987 |
 | 근거 수준 | L4 (증례 보고, 종설, 기전 근거 위주) |

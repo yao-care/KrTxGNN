@@ -6,7 +6,7 @@ nav_order: 539
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-11-03
-description: "Natalizumab: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 허가 적응증 문구가 텍스트가 아닌 허가증 링크로만 확인되어 구체적인 적응증을 기재할 수 없음"
+description: "Natalizumab: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 다음의 환자군에서 고활성인 재발 이장성 다발성 경화증(RRMS)의 단독 질병완화요법 ● 인터페론 베타…"
 monitor_inn: "NATALIZUMAB"
 predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis"]
 ---
@@ -44,7 +44,7 @@ Natalizumab은 알파-4 인테그린을 차단하는 단클론항체로, 한국�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 문구가 텍스트가 아닌 허가증 링크로만 확인되어 구체적인 적응증을 기재할 수 없음 |
+| 기존 적응증 | 다음의 환자군에서 고활성인 재발 이장성 다발성 경화증(RRMS)의 단독 질병완화요법 ● 인터페론 베타 치료에도 불구하고 높은 질병 활성을 나타내는 만 18세 이상 성인 환자 : 이들 환자는 인터페론 베타의 완전하고 적절한 치료과정(일반적으로 최소한 1년 이상의 치료)에서 실패한환자를… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201209483/EE)) |
 | 예측 신규 적응증 | 기관지염 (Bronchitis) |
 | TxGNN 예측 점수 | 0.9946 |
 | 근거 수준 | L5 |

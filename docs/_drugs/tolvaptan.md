@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-31
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-description: "Tolvaptan: 예측 신규 적응증 Renal-hepatic-pancreatic dysplasia (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Tolvaptan: 예측 신규 적응증 Renal-hepatic-pancreatic dysplasia (근거 수준 L5). 기존 적응증: 1. 심부전, 항이뇨호르몬 분비 이상 증후군(SIADH) 환자 등에서 임상적으로 유의한…"
 ---
 
 # Tolvaptan
@@ -44,7 +44,7 @@ Tolvaptan은 선택적 바소프레신 V2 수용체 길항제로, 한국에서 4
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203115/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203114/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004774/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202617/EE) |
+| 기존 적응증 | 1. 심부전, 항이뇨호르몬 분비 이상 증후군(SIADH) 환자 등에서 임상적으로 유의한 고혈량성(hypervolemic) 또는 정상혈량성(euvolemic)인 저나트륨혈증 [혈청 중 나트륨 농도가 125mEq/L 미만의 저나트륨혈증, 또는증상이 있으며 수분제한에 의한 보정을 할 수… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203115/EE)) |
 | 예측 신규 적응증 | Renal-hepatic-pancreatic dysplasia |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 (ADPKD 전체 계열 기준의 직접 근거이며, PKD3에는 외삽) |

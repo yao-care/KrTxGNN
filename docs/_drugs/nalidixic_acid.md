@@ -6,7 +6,7 @@ nav_order: 537
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-11-06
-description: "Nalidixic Acid: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L5). 기존 적응증: 허가 적응증이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음"
+description: "Nalidixic Acid: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L5). 기존 적응증: 1. 유효균종 1) 대장균, 이질균, 장염비브리오균 2) 감성 프로테우스속, 폐염간균…"
 monitor_inn: "NALIDIXIC ACID"
 predicted_indications: ["conjunctivitis", "sclerosing cholangitis", "rheumatoid arthritis", "infectious otitis media"]
 ---
@@ -44,7 +44,7 @@ Nalidixic acid(날리딕스산)는 1세대 퀴놀론계 항균제로, 한국에�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증이 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없음 |
+| 기존 적응증 | 1. 유효균종 1) 대장균, 이질균, 장염비브리오균 2) 감성 프로테우스속, 폐염간균, 살모넬라균속(파라티프스 A균, 티프스균, 파라티프스 B균 제외), 콜레브시 엘라, 엔테로박테르속, 균종(명칭변경) : 그람음성균, 간균 2. 적응증 1) 주 효능효과 신우신염, 신우염, 방광염… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402887/EE)) |
 | 예측 신규 적응증 | 결막염 (Conjunctivitis) |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 |

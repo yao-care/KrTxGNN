@@ -6,7 +6,7 @@ nav_order: 185
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Carfilzomib: 예측 신규 적응증 CMM7 (피부 악성 흑색종 아형으로 추정되나 명칭이 모호함) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 링크로만 제공되어 확인 불가 (허가사항 참조 필요)"
+description: "Carfilzomib: 예측 신규 적응증 CMM7 (피부 악성 흑색종 아형으로 추정되나 명칭이 모호함) (근거 수준 L5). 기존 적응증: 이전에 한 가지 이상의 치료를 받은 다발성골수종 환자의 치료를 위한 다음 약물과의 병용요법: •…"
 monitor_inn: "CARFILZOMIB"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
 ---
@@ -44,7 +44,7 @@ Carfilzomib은 비가역적 프로테아좀 억제제로, 한국에서 키프롤
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 링크로만 제공되어 확인 불가 (허가사항 참조 필요) |
+| 기존 적응증 | 이전에 한 가지 이상의 치료를 받은 다발성골수종 환자의 치료를 위한 다음 약물과의 병용요법: • 레날리도마이드 및 덱사메타손 또는 • 덱사메타손 또는 • 다라투무맙 및 덱사메타손 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201701541/EE)) |
 | 예측 신규 적응증 | CMM7 (피부 악성 흑색종 아형으로 추정되나 명칭이 모호함) |
 | TxGNN 예측 점수 | 0.9937 |
 | 근거 수준 | L5 (CMM7 기준) |

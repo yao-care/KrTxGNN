@@ -6,7 +6,7 @@ nav_order: 160
 evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Bromfenac: 예측 신규 적응증 안질환 (Eye Disease) (근거 수준 L1). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가사항 문서 링크만 확보됨)"
+description: "Bromfenac: 예측 신규 적응증 안질환 (Eye Disease) (근거 수준 L1). 기존 적응증: 외안부 및 전안부의 염증성 질환의 대증치료(안검염, 결막염, 공막염(상공막염을 포함), 수술후 염증)"
 monitor_inn: "bromfenac"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **안질환(Eye Disease)**에 효과가 있을 수 있다고 예
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가사항 문서 링크만 확보됨) |
+| 기존 적응증 | 외안부 및 전안부의 염증성 질환의 대증치료(안검염, 결막염, 공막염(상공막염을 포함), 수술후 염증) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600427/EE)) |
 | 예측 신규 적응증 | 안질환 (Eye Disease) |
 | TxGNN 예측 점수 | 0.9980 |
 | 근거 수준 | L1 |

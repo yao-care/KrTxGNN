@@ -6,7 +6,7 @@ nav_order: 499
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-31
-description: "Meloxicam: 예측 신규 적응증 말단중간이형성증, Hunter-Thompson형 (acromesomelic dysplasia… (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 이번 데이터에 포함되어 있지 않아 확인할 수 없음 (허가 문서 링크만 제공됨)"
+description: "Meloxicam: 예측 신규 적응증 말단중간이형성증, Hunter-Thompson형 (acromesomelic dysplasia… (근거 수준 L5). 기존 적응증: 1. 통증과 운동실조를 수반하는 골관절염(퇴행관절염)의 급성악화시 단기간의 증상치료 2. 류마티스관절염의…"
 monitor_inn: "MELOXICAM"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **말단중간이형성증, Hunter-Thompson형(acromesomelic dys
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 이번 데이터에 포함되어 있지 않아 확인할 수 없음 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 1. 통증과 운동실조를 수반하는 골관절염(퇴행관절염)의 급성악화시 단기간의 증상치료 2. 류마티스관절염의 증상치료 3. 강직척추염의 증상치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402675/EE)) |
 | 예측 신규 적응증 | 말단중간이형성증, Hunter-Thompson형 (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

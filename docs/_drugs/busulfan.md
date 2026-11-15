@@ -6,7 +6,7 @@ nav_order: 165
 evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Busulfan: 예측 신규 적응증 골수이형성증후군 (Myelodysplastic Syndrome) (근거 수준 L1). 기존 적응증: 확인 불가 (허가 적응증 정보가 문서 링크로만 제공되어 본문을 확인하지 못함)"
+description: "Busulfan: 예측 신규 적응증 골수이형성증후군 (Myelodysplastic Syndrome) (근거 수준 L1). 기존 적응증: 다음 질환에 대하여 시클로포스파미드 와 병용하여 조혈모세포 이식시 전처치요법으로 사용한다 : 급성 백혈병…"
 monitor_inn: "BUSULFAN"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "feline acquired immunodeficiency syndrome"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **골수이형성증후군(Myelodysplastic Syndrome, MDS)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 정보가 문서 링크로만 제공되어 본문을 확인하지 못함) |
+| 기존 적응증 | 다음 질환에 대하여 시클로포스파미드 와 병용하여 조혈모세포 이식시 전처치요법으로 사용한다 : 급성 백혈병, 만성 골수성 백혈병, 림프종, 골수 이형성증후군 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200908906/EE)) |
 | 예측 신규 적응증 | 골수이형성증후군 (Myelodysplastic Syndrome) |
 | TxGNN 예측 점수 | 0.9962 |
 | 근거 수준 | L1 (완료된 Phase 3 RCT 2건 이상: NCT00822393, NCT00005866) |

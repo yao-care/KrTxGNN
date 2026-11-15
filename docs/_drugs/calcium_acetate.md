@@ -6,7 +6,7 @@ nav_order: 172
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Calcium Acetate: 예측 신규 적응증 칼슘-알칼리 증후군 (calcium-alkali syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문 데이터 없음 (허가증 문서 링크만 확인됨)"
+description: "Calcium Acetate: 예측 신규 적응증 칼슘-알칼리 증후군 (calcium-alkali syndrome) (근거 수준 L5). 기존 적응증: 말기 신부전환자의 고인산혈증"
 monitor_inn: "CALCIUM ACETATE"
 predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **칼슘-알칼리 증후군(calcium-alkali syndrome)**에 효�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문 데이터 없음 (허가증 문서 링크만 확인됨) |
+| 기존 적응증 | 말기 신부전환자의 고인산혈증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800503/EE)) |
 | 예측 신규 적응증 | 칼슘-알칼리 증후군 (calcium-alkali syndrome) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |

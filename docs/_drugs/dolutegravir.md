@@ -6,7 +6,7 @@ nav_order: 285
 evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-11-05
-description: "Dolutegravir: 예측 신규 적응증 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L4). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 문구를 확인할 수 없습니다(HIV 감염 치료제로 알려져 있음)"
+description: "Dolutegravir: 예측 신규 적응증 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L4). 기존 적응증: 다른 항레트로바이러스제와 병용하여 성인 및 만12세 이상의 청소년에서 인체면역결핍바이러스(HIV-1) 감염…"
 monitor_inn: "dolutegravir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **원숭이 면역결핍바이러스 감염(simian immunodeficie
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적인 문구를 확인할 수 없습니다(HIV 감염 치료제로 알려져 있음) |
+| 기존 적응증 | 다른 항레트로바이러스제와 병용하여 성인 및 만12세 이상의 청소년에서 인체면역결핍바이러스(HIV-1) 감염 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404050/EE)) |
 | 예측 신규 적응증 | 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) |
 | TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L4 (전임상·기전 연구) |

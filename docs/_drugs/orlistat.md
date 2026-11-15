@@ -6,7 +6,7 @@ nav_order: 566
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Orlistat: 예측 신규 적응증 비타민 과잉증 (Hypervitaminosis) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 아닌 링크만 수록되어 있어 구체적 문구를 확인할 수 없음 (허가사항 참조)"
+description: "Orlistat: 예측 신규 적응증 비타민 과잉증 (Hypervitaminosis) (근거 수준 L5). 기존 적응증: 체질량지수(BMI) 30 kg/m² 이상 또는 다른 위험인자(예, 고혈압, 당뇨, 이상지질혈증)가 있는…"
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **비타민 과잉증(Hypervitaminosis)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 아닌 링크만 수록되어 있어 구체적 문구를 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 체질량지수(BMI) 30 kg/m² 이상 또는 다른 위험인자(예, 고혈압, 당뇨, 이상지질혈증)가 있는 27 kg/m² 이상의 비만환자에 있어 저칼로리 식이와 함께 체중감소 또는 체중유지를 포함한 비만치료 또는 체중 재증가의위험감소 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202008845/EE)) |
 | 예측 신규 적응증 | 비타민 과잉증 (Hypervitaminosis) |
 | TxGNN 예측 점수 | 0.9942 |
 | 근거 수준 | L5 |

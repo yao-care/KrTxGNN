@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "isosorbide dinitrate"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "arterial thoracic outlet syndrome"]
 last_modified_at: 2026-11-06
-description: "Isosorbide Dinitrate: 예측 신규 적응증 탈모증 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공되어 구체적 내용을 알 수 없음)"
+description: "Isosorbide Dinitrate: 예측 신규 적응증 탈모증 (근거 수준 L5). 기존 적응증: (경구 : 정제, 서방형 정제·캅셀제) 1. 협심증, 심근경색, 관경화증(만성허혈성심질환…"
 ---
 
 # Isosorbide Dinitrate
@@ -44,7 +44,7 @@ Isosorbide dinitrate는 산화질소(NO)를 방출하는 혈관확장제로, 한
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문이 링크로만 제공되어 구체적 내용을 알 수 없음) |
+| 기존 적응증 | (경구 : 정제, 서방형 정제·캅셀제) 1. 협심증, 심근경색, 관경화증(만성허혈성심질환, 무증후성허혈성심질환, 동맥경화성심질환) 2. 울혈성심부전의 보조요법(강심배당체 또는 이뇨제와 병용) (주사제) 1. 급성심부전(급성심근경색에 의한 좌심부전 포함) 2. 중증 또는 불안정형협심증… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199800770/EE)) |
 | 예측 신규 적응증 | 탈모증 |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 (모델 예측만 있음) |

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
 last_modified_at: 2026-11-05
-description: "Capecitabine: 예측 신규 적응증 위 선암 및 위 근위부 용종증 (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가문서 링크만 제공됨)"
+description: "Capecitabine: 예측 신규 적응증 위 선암 및 위 근위부 용종증 (근거 수준 L5). 기존 적응증: ○ 결장 직장암 · - 전이성 결장직장암의 1차요법 · - stage III(Dukes'C)의 결장암의…"
 ---
 
 # Capecitabine
@@ -45,7 +45,7 @@ TxGNN 모델은 **위 선암 및 위 근위부 용종증(gastric adenocarcinoma 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문이 확인되지 않음 (허가문서 링크만 제공됨) |
+| 기존 적응증 | ○ 결장 직장암 · - 전이성 결장직장암의 1차요법 · - stage III(Dukes'C)의 결장암의 수술 후 보조요법(adjuvant treatment) ㆍstage III(Dukes'C)의 결장암 환자에서 원발 종양을 수술로 완전히 절제(complete resection)하고… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201200727/EE)) |
 | 예측 신규 적응증 | 위 선암 및 위 근위부 용종증 |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 68
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-11-05
-description: "Amoxicillin: 예측 신규 적응증 고아밀라아제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크 형태로만 확인되어 구체적 내용을 기재할 수 없음 (항생제로서 세균 감염 치료)"
+description: "Amoxicillin: 예측 신규 적응증 고아밀라아제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 1. 유효균종 황색포도구균, 표피포도구균, 부생포도구균, 화농성연쇄구균, 폐렴연쇄구균, 헤모필루스…"
 monitor_inn: "AMOXICILLIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **고아밀라아제혈증(Hyperamylasemia)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크 형태로만 확인되어 구체적 내용을 기재할 수 없음 (항생제로서 세균 감염 치료) |
+| 기존 적응증 | 1. 유효균종 황색포도구균, 표피포도구균, 부생포도구균, 화농성연쇄구균, 폐렴연쇄구균, 헤모필루스 인플루엔자, 대장균 *, 클레브시엘라속*, 프로테우스 미라빌리스*, 임균*, 박테로이드속(박테로이디즈 프라질리스 포함), 모락 셀라 카타라리스 (암피실린 및 아목시실린에 내성이 있는 :… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200801301/EE)) |
 | 예측 신규 적응증 | 고아밀라아제혈증 (Hyperamylasemia) |
 | TxGNN 예측 점수 | 0.9963 |
 | 근거 수준 | L5 |

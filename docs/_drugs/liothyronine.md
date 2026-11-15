@@ -6,7 +6,7 @@ nav_order: 478
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Liothyronine: 예측 신규 적응증 신장 저형성/무형성 (renal hypodysplasia/aplasia) (근거 수준 L5). 기존 적응증: 이번 보고서용으로 정리된 데이터에는 허가 적응증 본문이 없습니다(허가증 PDF 링크만 확인됨). 허가사항 확인이 필요합니다"
+description: "Liothyronine: 예측 신규 적응증 신장 저형성/무형성 (renal hypodysplasia/aplasia) (근거 수준 L5). 기존 적응증: 갑상선기능저하증(원발성 및 뇌하수체성), 점액부종, 크레틴병, 단순성 갑상선종, 결절성 갑상선종, 만성…"
 monitor_inn: "Liothyronine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
 ---
@@ -44,7 +44,7 @@ Liothyronine은 합성 삼요오드티로닌(T3) 제제로, 한국에서 갑상�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이번 보고서용으로 정리된 데이터에는 허가 적응증 본문이 없습니다(허가증 PDF 링크만 확인됨). 허가사항 확인이 필요합니다. |
+| 기존 적응증 | 갑상선기능저하증(원발성 및 뇌하수체성), 점액부종, 크레틴병, 단순성 갑상선종, 결절성 갑상선종, 만성 갑상선염 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503196/EE)) |
 | 예측 신규 적응증 | 신장 저형성/무형성 (renal hypodysplasia/aplasia) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

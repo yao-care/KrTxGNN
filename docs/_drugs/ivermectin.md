@@ -6,7 +6,7 @@ nav_order: 445
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Ivermectin: 예측 신규 적응증 외음질 칸디다증 (vulvovaginal candidiasis) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요)"
+description: "Ivermectin: 예측 신규 적응증 외음질 칸디다증 (vulvovaginal candidiasis) (근거 수준 L5). 기존 적응증: 1. 분선충에 의한 장관계의 분선충증(즉, 비전염성)의 치료 2. 회선사상충에 의한 회선사상충증의…"
 monitor_inn: "Ivermectin"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "congenital candidiasis", "candida glabrata", "neonatal candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **외음질 칸디다증(vulvovaginal candidiasis)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되며 적응증 본문은 확인되지 않음 (허가사항 참조 필요) |
+| 기존 적응증 | 1. 분선충에 의한 장관계의 분선충증(즉, 비전염성)의 치료 2. 회선사상충에 의한 회선사상충증의 치료(회선사상충 성충 치료에는 효과없음.) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500039/EE)) |
 | 예측 신규 적응증 | 외음질 칸디다증 (vulvovaginal candidiasis) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

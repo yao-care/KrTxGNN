@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-05
 monitor_inn: "GALCANEZUMAB"
 predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-description: "Galcanezumab: 예측 신규 적응증 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Galcanezumab: 예측 신규 적응증 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: 성인에서의 편두통의 예방"
 ---
 
 # Galcanezumab
@@ -45,7 +45,7 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍증(heparin cofactor 2 deficien
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906307/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906308/EE) |
+| 기존 적응증 | 성인에서의 편두통의 예방 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906307/EE)) |
 | 예측 신규 적응증 | 헤파린 보조인자 2 결핍증 (heparin cofactor 2 deficiency) |
 | TxGNN 예측 점수 | 0.9950 |
 | 근거 수준 | L5 |

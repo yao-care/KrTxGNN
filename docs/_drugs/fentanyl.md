@@ -6,7 +6,7 @@ nav_order: 343
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Fentanyl: 예측 신규 적응증 신원성 항이뇨 부적절 증후군 (Nephrogenic Syndrome of Inappropriate Antidiuresis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가증에는 문서 링크만 수록)"
+description: "Fentanyl: 예측 신규 적응증 신원성 항이뇨 부적절 증후군 (Nephrogenic Syndrome of Inappropriate Antidiuresis) (근거 수준 L5). 기존 적응증: (서방성 경피 흡수제) 장시간 지속적인 마약성 진통제 투여를 필요로 하는 만성 통증의 완화"
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 ---
@@ -44,7 +44,7 @@ Fentanyl은 강력한 아편유사제 진통제로, 한국에서 패취, 주사,
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가증에는 문서 링크만 수록) |
+| 기존 적응증 | (서방성 경피 흡수제) 장시간 지속적인 마약성 진통제 투여를 필요로 하는 만성 통증의 완화 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202100399/EE)) |
 | 예측 신규 적응증 | 신원성 항이뇨 부적절 증후군 (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
 | TxGNN 예측 점수 | 0.9946 |
 | 근거 수준 | L5 |

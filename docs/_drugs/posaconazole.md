@@ -6,7 +6,7 @@ nav_order: 615
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Posaconazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 허가 적응증 원문이 링크 형태로만 제공되어 구체적인 적응증 텍스트는 확인할 수 없음 (허가사항 참조)"
+description: "Posaconazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 1. 다음 진균 감염증의 치료 1) 암포테리신B 또는 이트라코나졸에 불응성이거나 이들 치료제에 불내성인…"
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **폐포자충증(Pneumocystosis)**에 효과가 있을 수 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크 형태로만 제공되어 구체적인 적응증 텍스트는 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 1. 다음 진균 감염증의 치료 1) 암포테리신B 또는 이트라코나졸에 불응성이거나 이들 치료제에 불내성인 침습성 아스페르길루스증 환자 의 치료 2) 구강인두칸디다증: 질환이 중증이거나 면역기능이 저하된, 국소요법의 효과가 적을 것으로 예측되는 환자 의 치료 * 불응성은 해당 항진균제를… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711475/EE)) |
 | 예측 신규 적응증 | 폐포자충증 (Pneumocystosis) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 (전임상·기전 수준의 간접 근거만 있음. 모델 예측 외 직접 연구는 없음) |

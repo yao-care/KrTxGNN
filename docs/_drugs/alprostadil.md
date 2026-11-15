@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-05
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
-description: "Alprostadil: 예측 신규 적응증 대동맥 기형 (aortic malformation) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Alprostadil: 예측 신규 적응증 대동맥 기형 (aortic malformation) (근거 수준 L5). 기존 적응증: 1. 만성동맥폐색증(버거씨병, 폐색성동맥경화증)에 있어서 사지궤양, 안정시 통증의 개선 2. 다음 질환에…"
 ---
 
 # Alprostadil
@@ -45,7 +45,7 @@ TxGNN 모델은 **대동맥 기형(aortic malformation)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199802243/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200908752/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705481/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705483/EE) |
+| 기존 적응증 | 1. 만성동맥폐색증(버거씨병, 폐색성동맥경화증)에 있어서 사지궤양, 안정시 통증의 개선 2. 다음 질환에 있어서 피부궤양의 개선 : 진행성전신성경화증, 전신성홍반성낭창 3. 진동병에 있어서 말초혈행장해에 수반하는 자각증상의 개선 및 말초순환, 신경, 운동기능장해의 회복 4. 동맥관… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199802243/EE)) |
 | 예측 신규 적응증 | 대동맥 기형 (aortic malformation) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

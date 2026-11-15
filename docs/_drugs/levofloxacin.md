@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-03
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
-description: "Levofloxacin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Levofloxacin: 예측 신규 적응증 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) (근거 수준 L5). 기존 적응증: ○ 유효균종 황색포도구균, 표피포도구균, 화농연쇄구균, 폐렴연쇄구균, 헤모필루스 인플루엔자, 헤모필루스…"
 ---
 
 # Levofloxacin
@@ -44,7 +44,7 @@ Levofloxacin은 광범위 플루오로퀴놀론계 항균제입니다. TxGNN 모
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705151/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306830/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404008/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201003822/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200905257/EE);  |
+| 기존 적응증 | ○ 유효균종 황색포도구균, 표피포도구균, 화농연쇄구균, 폐렴연쇄구균, 헤모필루스 인플루엔자, 헤모필루스 파라인플루엔자, 폐렴 막대균, 모락셀라 카타랄리스, 클라미디아 뉴모니아, 레지오넬라 뉴모니아, 엔테로콕쿠스 피칼리스, 엔테로박터 클로아카이, 대장균, 프로테우스 미라빌리스, 녹농균… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705151/EE)) |
 | 예측 신규 적응증 | 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

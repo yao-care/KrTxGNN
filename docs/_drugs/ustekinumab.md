@@ -6,7 +6,7 @@ nav_order: 775
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Ustekinumab: 예측 신규 적응증 피부염 (Dermatitis) (근거 수준 L2). 기존 적응증: 허가 적응증 원문이 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (MFDS 허가 문서 참조)"
+description: "Ustekinumab: 예측 신규 적응증 피부염 (Dermatitis) (근거 수준 L2). 기존 적응증: 성인 1. 판상 건선 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 판상 건선질환을 가지고…"
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 ---
@@ -44,7 +44,7 @@ Ustekinumab은 IL-12/IL-23의 공통 p40 소단위를 차단하는 단클론항�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문이 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (MFDS 허가 문서 참조) |
+| 기존 적응증 | 성인 1. 판상 건선 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 판상 건선질환을 가지고 있는 18세 이상의 성인 환자의 치료 2. 건선성 관절염 이전에 DMARDs 치료에 대한 반응이 적절하지 않은 성인의 활동성 건선성 관절염의 치료 TNF-α 저해제 투여 경험이… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401434/EE)) |
 | 예측 신규 적응증 | 피부염 (Dermatitis) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L2 (완료된 Phase 2 무작위 시험이 있으나 효능이 불충분하여 보수적으로 해석) |

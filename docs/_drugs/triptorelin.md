@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Triptorelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
-description: "Triptorelin: 예측 신규 적응증 Hypertrichosis (disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Triptorelin: 예측 신규 적응증 Hypertrichosis (disease) (근거 수준 L5). 기존 적응증: 1. 혈청 중 성스테로이드치 저하를 필요로 하는 호르몬의존성 전립선암 2. 인공수정을 위한 배란촉진 3…"
 ---
 
 # Triptorelin
@@ -44,7 +44,7 @@ Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109188/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604919/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199604920/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201100197/EE) |
+| 기존 적응증 | 1. 혈청 중 성스테로이드치 저하를 필요로 하는 호르몬의존성 전립선암 2. 인공수정을 위한 배란촉진 3. 자궁내막증 4. 수술 전 자궁근종 등 5. 중추성 성 조숙증(9세 이하 여아 및 10세 이하 남아) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109188/EE)) |
 | 예측 신규 적응증 | Hypertrichosis (disease) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 (모델 예측 수준) |

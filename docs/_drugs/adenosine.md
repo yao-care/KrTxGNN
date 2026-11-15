@@ -6,7 +6,7 @@ nav_order: 27
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-11-05
-description: "Adenosine: 예측 신규 적응증 각차단 (obsolete bundle branch block) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 제공되어 본문 확인 불가 (한국 허가증 참조 필요)"
+description: "Adenosine: 예측 신규 적응증 각차단 (obsolete bundle branch block) (근거 수준 L5). 기존 적응증: (주사제) 2, 4, 8 mL 1. Wolff-Parkinson-White(WPW) 증후군을 포함한…"
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **각차단(Bundle Branch Block, 현재는 폐기된 용어로 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 제공되어 본문 확인 불가 (한국 허가증 참조 필요) |
+| 기존 적응증 | (주사제) 2, 4, 8 mL 1. Wolff-Parkinson-White(WPW) 증후군을 포함한 발작심실상성빈맥의 정상적인 동율동으로의 신속 한 전환 2. 심전도로 진단되지 않은 복합형 심실상성빈맥의 진단보조 (주사제) 10, 30 mL 심근 신티그래피시, 운동이 불가능하거나… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701930/EE)) |
 | 예측 신규 적응증 | 각차단 (obsolete bundle branch block) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 (모델 예측만 있음) |

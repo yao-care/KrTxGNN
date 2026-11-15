@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
 last_modified_at: 2026-11-12
-description: "Doxorubicin: 예측 신규 적응증 유잉육종 (근거 수준 L1). 기존 적응증: 확인 불가 (허가 적응증 본문 없음, 허가 문서 링크만 제공됨)"
+description: "Doxorubicin: 예측 신규 적응증 유잉육종 (근거 수준 L1). 기존 적응증: 악성 림프종(림프육종, 호지킨병 및 비호지킨병), 소화기암(위암, 간암, 직장암, 담낭 및 담관암…"
 ---
 
 # Doxorubicin
@@ -46,7 +46,7 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문 없음, 허가 문서 링크만 제공됨) |
+| 기존 적응증 | 악성 림프종(림프육종, 호지킨병 및 비호지킨병), 소화기암(위암, 간암, 직장암, 담낭 및 담관암, 결장암, 췌장암), 급성골수성백혈병, 연조직골육종, 유방암, 난소암, 폐암, 기관지암, 방광암, 윌름즈종양 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201595/EE)) |
 | 예측 신규 적응증 | 유잉육종 |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L1 |

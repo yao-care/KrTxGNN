@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Procyclidine"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "transaldolase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "fructose-1,6-bisphosphatase deficiency"]
 last_modified_at: 2026-11-05
-description: "Procyclidine: 예측 신규 적응증 라스무센 아급성 뇌염 (근거 수준 L5). 기존 적응증: 허가 적응증 본문을 확인할 수 없음 (허가 문서 링크만 제공됨)"
+description: "Procyclidine: 예측 신규 적응증 라스무센 아급성 뇌염 (근거 수준 L5). 기존 적응증: 1. 뇌염후·동맥경화성·특발성 파킨슨병 : 진전, 강직, 피로, 무력증, 나태 등 2…"
 ---
 
 # Procyclidine
@@ -45,7 +45,7 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문을 확인할 수 없음 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 1. 뇌염후·동맥경화성·특발성 파킨슨병 : 진전, 강직, 피로, 무력증, 나태 등 2. 항정신병약(페노티아진, 레세르핀 등)으로 인한 추체외로증상 : 근긴장이상, 운동이상, 정좌불능 등 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210742/EE)) |
 | 예측 신규 적응증 | 라스무센 아급성 뇌염 |
 | TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 315
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-11-05
-description: "Epinephrine: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L5). 기존 적응증: 허가증에 적응증 원문이 포함되어 있지 않아 확인 불가 (허가사항 PDF 링크만 제공됨)"
+description: "Epinephrine: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L5). 기존 적응증: 다음에 의한 중증 급성 알레르기 반응(아나필락시스)의 응급처치 - 곤충 침에 쏘이거나 또는 물림 -…"
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에 적응증 원문이 포함되어 있지 않아 확인 불가 (허가사항 PDF 링크만 제공됨) |
+| 기존 적응증 | 다음에 의한 중증 급성 알레르기 반응(아나필락시스)의 응급처치 - 곤충 침에 쏘이거나 또는 물림 - 음식물, 약물, 기타 항원 - 특발성 또는 운동-유도 아나필락시스 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708377/EE)) |
 | 예측 신규 적응증 | 폐쇄성 폐질환 (Obstructive Lung Disease) |
 | TxGNN 예측 점수 | 0.9971 |
 | 근거 수준 | L5 (완료된 Phase 3 임상시험 4건 있음. 단, 아래 참고) |

@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-04
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
-description: "Regorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Regorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L2). 기존 적응증: 1. 이전에 플루오로피리미딘 계열 약물을 기본으로 하는 항암 화학 요법과 항 VEGF 치료제, 항 EGFR…"
 ---
 
 # Regorafenib
@@ -46,7 +46,7 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308932/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402626/EE) |
+| 기존 적응증 | 1. 이전에 플루오로피리미딘 계열 약물을 기본으로 하는 항암 화학 요법과 항 VEGF 치료제, 항 EGFR 치료제 (RAS 정상형 (wild type)의 경우)로 치료를 받은 적이 있는 전이성 직장결장암 환자의 치료 2. 이전에 이매티닙과 수니티닙으로 치료 받은 적이 있는 전이성 또는… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308932/EE)) |
 | 예측 신규 적응증 | 지방육종 (liposarcoma) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L2 |

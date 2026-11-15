@@ -6,7 +6,7 @@ nav_order: 521
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Misoprostol: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가증 문서 링크만 제공됨)"
+description: "Misoprostol: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 위.십이지장궤양, 비스테로이드성 소염진통제 투여로 인한 위.십이지장염 및 위.십이지장궤양의 예방과치료"
 monitor_inn: "MISOPROSTOL"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
 ---
@@ -44,7 +44,7 @@ Misoprostol은 프로스타글란딘 E1(PGE1) 유사체로, 한국에서 단일�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가증 문서 링크만 제공됨) |
+| 기존 적응증 | 위.십이지장궤양, 비스테로이드성 소염진통제 투여로 인한 위.십이지장염 및 위.십이지장궤양의 예방과치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199903836/EE)) |
 | 예측 신규 적응증 | 무월경 (Amenorrhea) |
 | TxGNN 예측 점수 | 0.9964 |
 | 근거 수준 | L5 (임상시험 없음, 기전적 연관성만 존재) |

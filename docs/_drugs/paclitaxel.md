@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 last_modified_at: 2026-11-05
-description: "Paclitaxel: 예측 신규 적응증 부수막 배아성 횡문근육종 (parameningeal embryonal rhabdomyosarcoma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Paclitaxel: 예측 신규 적응증 부수막 배아성 횡문근육종 (parameningeal embryonal rhabdomyosarcoma) (근거 수준 L5). 기존 적응증: 1. 난소암 1) 다른 화학요법제와 병용하여 1차 요법제로 사용 2) 표준 요법에 실패한 전이성 난소암의…"
 ---
 
 # Paclitaxel
@@ -45,7 +45,7 @@ TxGNN 모델은 **부수막 배아성 횡문근육종(parameningeal embryonal rh
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308579/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200803520/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103890/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801795/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301835/EE);  |
+| 기존 적응증 | 1. 난소암 1) 다른 화학요법제와 병용하여 1차 요법제로 사용 2) 표준 요법에 실패한 전이성 난소암의 치료에 2차 요법제로 사용 2. 유방암 1) 표준요법에 실패한 전이성 유방암의 치료에 2차 요법제로 사용 2) 결절 양성 유방암의 보조치료:표준 독소루비신 함유 병용 화학요법후… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308579/EE)) |
 | 예측 신규 적응증 | 부수막 배아성 횡문근육종 (parameningeal embryonal rhabdomyosarcoma) |
 | TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L5 |

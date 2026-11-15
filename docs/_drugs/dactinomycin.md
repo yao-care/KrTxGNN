@@ -6,7 +6,7 @@ nav_order: 247
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-31
-description: "Dactinomycin: 예측 신규 적응증 재발-완화형 다발성 경화증 (Relapsing-Remitting Multiple Sclerosis) (근거 수준 L5). 기존 적응증: 허가 문서 링크만 확인되어 구체적인 적응증 문구는 확인되지 않음 (허가사항 참조)"
+description: "Dactinomycin: 예측 신규 적응증 재발-완화형 다발성 경화증 (Relapsing-Remitting Multiple Sclerosis) (근거 수준 L5). 기존 적응증: 윌름즈종양, 융모상피종, 파괴성포상기태, 횡문근육종, 고환종양, 유잉육종, 포도상육종(방사선 요법과 병용시…"
 monitor_inn: "DACTINOMYCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **재발-완화형 다발성 경화증(Relapsing-Remitting Multi
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 확인되어 구체적인 적응증 문구는 확인되지 않음 (허가사항 참조) |
+| 기존 적응증 | 윌름즈종양, 융모상피종, 파괴성포상기태, 횡문근육종, 고환종양, 유잉육종, 포도상육종(방사선 요법과 병용시 좋은 효과를 나타낼 수 있다.) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201598/EE)) |
 | 예측 신규 적응증 | 재발-완화형 다발성 경화증 (Relapsing-Remitting Multiple Sclerosis) |
 | TxGNN 예측 점수 | 0.9958 |
 | 근거 수준 | L5 (모델 예측만 있음) |

@@ -6,7 +6,7 @@ nav_order: 565
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-31
-description: "Omidenepag Isopropyl: 예측 신규 적응증 췌장염 (Pancreatitis) (근거 수준 L5). 기존 적응증: 녹내장 및 고안압증 (허가 문서 링크만 제공되어 있어 허가 정보와 약물 분류에 근거해 기재)"
+description: "Omidenepag Isopropyl: 예측 신규 적응증 췌장염 (Pancreatitis) (근거 수준 L5). 기존 적응증: 다음의 질환의 안압하강 : 개방각 녹내장, 고안압증"
 monitor_inn: "Omidenepag isopropyl"
 predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **췌장염(Pancreatitis)**에 효과가 있을 수 있다고 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 녹내장 및 고안압증 (허가 문서 링크만 제공되어 있어 허가 정보와 약물 분류에 근거해 기재) |
+| 기존 적응증 | 다음의 질환의 안압하강 : 개방각 녹내장, 고안압증 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908209/EE)) |
 | 예측 신규 적응증 | 췌장염 (Pancreatitis) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 |

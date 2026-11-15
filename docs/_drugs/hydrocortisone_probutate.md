@@ -6,7 +6,7 @@ nav_order: 404
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Hydrocortisone Probutate: 예측 신규 적응증 홍채 질환 (Iris Disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가 문서 링크만 확보됨). 피부 외용 크림제로 허가됨"
+description: "Hydrocortisone Probutate: 예측 신규 적응증 홍채 질환 (Iris Disease) (근거 수준 L5). 기존 적응증: 습진ㆍ피부염군(진행성 지장각피증, 여성안면흑피증, 만성단순태선, 방사선피부염, 광피부염을 포함)…"
 monitor_inn: "HYDROCORTISONE PROBUTATE"
 predicted_indications: ["iris disease"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **홍채 질환(Iris Disease)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가 문서 링크만 확보됨). 피부 외용 크림제로 허가됨 |
+| 기존 적응증 | 습진ㆍ피부염군(진행성 지장각피증, 여성안면흑피증, 만성단순태선, 방사선피부염, 광피부염을 포함), 건선,손ㆍ발바닥농포증, 양진군(구진두드러기를 포함), 벌레물린데, 편평홍색태선, 만성원판상홍반성루푸스 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500104/EE)) |
 | 예측 신규 적응증 | 홍채 질환 (Iris Disease) |
 | TxGNN 예측 점수 | 0.9913 |
 | 근거 수준 | L5 |

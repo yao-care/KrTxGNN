@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-31
 monitor_inn: "DIFLUPREDNATE"
 predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
-description: "Difluprednate: 예측 신규 적응증 LH 결핍을 동반한 가족성 부신 저형성증 (familial adrenal hypoplasia with absent pituitary luteinizing hormone) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Difluprednate: 예측 신규 적응증 LH 결핍을 동반한 가족성 부신 저형성증 (familial adrenal hypoplasia with absent pituitary luteinizing hormone) (근거 수준 L5). 기존 적응증: 습진ㆍ피부염군(진행성 지장각피증, 지루피부염, 방사선피부염, 광피부염, 아토피피부염을 포함), 벌레물린데…"
 ---
 
 # Difluprednate
@@ -44,7 +44,7 @@ Difluprednate는 합성 부신피질호르몬(글루코코르티코이드 수용
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501565/EE) |
+| 기존 적응증 | 습진ㆍ피부염군(진행성 지장각피증, 지루피부염, 방사선피부염, 광피부염, 아토피피부염을 포함), 벌레물린데, 건선, 손ㆍ발바닥농포증, 장미색비강진, 약진, 중독진, 만성원판상홍반성루푸스, 홍반증, 특발성색소성자반 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199501565/EE)) |
 | 예측 신규 적응증 | LH 결핍을 동반한 가족성 부신 저형성증 (familial adrenal hypoplasia with absent pituitary luteinizing hormone) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |

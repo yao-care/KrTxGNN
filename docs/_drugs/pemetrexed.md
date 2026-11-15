@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 last_modified_at: 2026-11-12
-description: "Pemetrexed: 예측 신규 적응증 흉막 선양종양 (pleural adenomatoid tumor) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Pemetrexed: 예측 신규 적응증 흉막 선양종양 (pleural adenomatoid tumor) (근거 수준 L5). 기존 적응증: - 화학 요법을 받은 적이 없는 수술 불가능한 악성 흉막 중피종 환자에게 시스플라틴과 병용하여 사용 -…"
 ---
 
 # Pemetrexed
@@ -44,7 +44,7 @@ Pemetrexed는 엽산 대사를 억제하는 항엽산제 계열의 세포독성 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201204635/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301225/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800591/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501028/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505185/EE);  |
+| 기존 적응증 | - 화학 요법을 받은 적이 없는 수술 불가능한 악성 흉막 중피종 환자에게 시스플라틴과 병용하여 사용 - 편평상피세포 조직을 갖는 경우를 제외한 국소 진행성 혹은 전이성 비소세포폐암 환자에게 일차치료제로서 시스플라틴과 병용하여 사용 - 이전 화학요법 실시 후, 편평상피세포 조직을 갖는… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201204635/EE)) |
 | 예측 신규 적응증 | 흉막 선양종양 (pleural adenomatoid tumor) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 306
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Emicizumab: 예측 신규 적응증 가성 폰빌레브란트병 (pseudo-von Willebrand disease) — 1순위 예측 (근거 수준 L5). 기존 적응증: 허가증에는 적응증 원문 대신 허가 문서 링크만 기재되어 있어 구체적인 적응증 문구를 확인할 수 없습니다 (혈우병 A 예방요법…"
+description: "Emicizumab: 예측 신규 적응증 가성 폰빌레브란트병 (pseudo-von Willebrand disease) — 1순위 예측 (근거 수준 L5). 기존 적응증: (성인 및 소아) 1. 혈액응고 제VIII인자에 대한 억제인자를 보유한 A형 혈우병(선천성 혈액응고…"
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 여러 출혈성 질환에 효과가 있을 것으로 예측했�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가증에는 적응증 원문 대신 허가 문서 링크만 기재되어 있어 구체적인 적응증 문구를 확인할 수 없습니다 (혈우병 A 예방요법으로 알려져 있음) |
+| 기존 적응증 | (성인 및 소아) 1. 혈액응고 제VIII인자에 대한 억제인자를 보유한 A형 혈우병(선천성 혈액응고 제VIII인자 결핍)환자에서의출혈 빈도 감소 또는 예방을 위한 일상적인 예방요법(routine prophylaxis) 2. 혈액응고 제VIII인자에 대한 억제인자를 보유하지 않은 중증… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900224/EE)) |
 | 예측 신규 적응증 | 가성 폰빌레브란트병 (pseudo-von Willebrand disease) — 1순위 예측 |
 | TxGNN 예측 점수 | 0.9999 (1순위 기준) |
 | 근거 수준 | 1순위: L5 / 근거가 가장 풍부한 후보(후천성 응고인자 결핍증): L2 |

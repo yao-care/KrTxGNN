@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "PROPYLENE GLYCOL"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract"]
 last_modified_at: 2026-11-05
-description: "Propylene Glycol: 예측 신규 적응증 기관지염 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 항목에 문서 링크만 있고 본문이 없음)"
+description: "Propylene Glycol: 예측 신규 적응증 기관지염 (근거 수준 L5). 기존 적응증: 눈의 건조로 인한 자극감과 작열감(화끈거림)의 일시적 완화"
 ---
 
 # Propylene Glycol
@@ -45,7 +45,7 @@ TxGNN 모델은 **기관지염(bronchitis)**에 효과가 있을 수 있다고 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 항목에 문서 링크만 있고 본문이 없음) |
+| 기존 적응증 | 눈의 건조로 인한 자극감과 작열감(화끈거림)의 일시적 완화 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202001451/EE)) |
 | 예측 신규 적응증 | 기관지염 |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |

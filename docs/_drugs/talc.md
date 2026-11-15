@@ -6,7 +6,7 @@ nav_order: 715
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Talc: 예측 신규 적응증 혈전성 질환 (thrombotic disease) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 확인 불가 (허가 문서 링크만 제공됨)"
+description: "Talc: 예측 신규 적응증 혈전성 질환 (thrombotic disease) (근거 수준 L5). 기존 적응증: 악성 흉막삼출의 재발방지"
 monitor_inn: "Talc"
 predicted_indications: ["thrombotic disease", "exostosis", "rheumatoid arthritis", "bronchitis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "vein disease", "fibromyalgia", "myositis fibrosa"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **혈전성 질환(thrombotic disease)**에 효과가 있을 수
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문 확인 불가 (허가 문서 링크만 제공됨) |
+| 기존 적응증 | 악성 흉막삼출의 재발방지 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507727/EE)) |
 | 예측 신규 적응증 | 혈전성 질환 (thrombotic disease) |
 | TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L5 (전임상·기전 수준이며, 치료 효과를 지지하는 근거는 없음) |

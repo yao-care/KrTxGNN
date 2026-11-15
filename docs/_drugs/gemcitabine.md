@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
 last_modified_at: 2026-10-31
-description: "Gemcitabine: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증 본문이 링크로만 제공되어 내용 미확인)"
+description: "Gemcitabine: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: ○비소세포폐암 - 시스플라틴과병용하여국소진행성또는전이성비소세포폐암의1차치료 -…"
 ---
 
 # Gemcitabine
@@ -45,7 +45,7 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증 본문이 링크로만 제공되어 내용 미확인) |
+| 기존 적응증 | ○비소세포폐암 - 시스플라틴과병용하여국소진행성또는전이성비소세포폐암의1차치료 - 단독투여하여국소진행성또는전이성비소세포폐암의고식적치료 ○췌장암 - 국소진행성또는전이성췌장암의1차치료(first‐linetreatment) ○방광암 - 방광암(BladderCancer) ○유방암 - 임상적으로… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506534/EE)) |
 | 예측 신규 적응증 | 직장 점액성 선암 |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 |

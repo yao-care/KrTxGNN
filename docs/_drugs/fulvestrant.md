@@ -6,7 +6,7 @@ nav_order: 367
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Fulvestrant: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않음 (허가 문서 링크만 제공됨). 임상시험 정보상 호르몬 수용체 양성(HR+) 진행성 유방암으…"
+description: "Fulvestrant: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: 단독요법 호르몬 수용체(HR)-양성, 및 사람상피세포성장인자수용체2(HER2)-음성, 폐경기 이후 여성의…"
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **HIV 감염증(HIV infectious disease)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않음 (허가 문서 링크만 제공됨). 임상시험 정보상 호르몬 수용체 양성(HR+) 진행성 유방암으로 확인됨 |
+| 기존 적응증 | 단독요법 호르몬 수용체(HR)-양성, 및 사람상피세포성장인자수용체2(HER2)-음성, 폐경기 이후 여성의 진행성 또는전이성 유방암 병용요법 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체2(HER2)-음성, 내분비요법 후 진행한 여성의 진행성 또는 전이성 유방암에 팔보시클립과… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402798/EE)) |
 | 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |

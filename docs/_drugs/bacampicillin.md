@@ -6,7 +6,7 @@ nav_order: 118
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-06
-description: "Bacampicillin: 예측 신규 적응증 후두개염 (Epiglottitis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (항생제로서의 세균 감염증 치료로 추정)"
+description: "Bacampicillin: 예측 신규 적응증 후두개염 (Epiglottitis) (근거 수준 L5). 기존 적응증: 황색포도구균, 표피포도구균, 화농연쇄구균, 장구균, 폐렴구균, 대장균, 프로테우스·미라빌리스…"
 monitor_inn: "Bacampicillin"
 predicted_indications: ["epiglottitis", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "abdominal cystic lymphangioma", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "disease of retroperitoneum", "disease of uterine broad ligament", "urethral disease", "disease of peritoneum"]
 ---
@@ -44,7 +44,7 @@ Bacampicillin은 암피실린의 전구약물(prodrug)인 아미노페니실린�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트는 문서 링크로만 제공되어 구체적인 질환명을 확인할 수 없음 (항생제로서의 세균 감염증 치료로 추정) |
+| 기존 적응증 | 황색포도구균, 표피포도구균, 화농연쇄구균, 장구균, 폐렴구균, 대장균, 프로테우스·미라빌리스, 인플루엔자균, 임균 중 암피실린 감성균에 대한 하기감염증 1) 편도염, 인후두염, 기관지염, 폐렴, 부비강염, 중이염 2) 성홍열 3) 절·절종증·양, 모낭염, 농가진, 농피증, 피하농양… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100105/EE)) |
 | 예측 신규 적응증 | 후두개염 (Epiglottitis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

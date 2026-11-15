@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
 last_modified_at: 2026-10-31
-description: "Ambrisentan: 예측 신규 적응증 폐동정맥 기형 (pulmonary arteriovenous malformation (disease)) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Ambrisentan: 예측 신규 적응증 폐동정맥 기형 (pulmonary arteriovenous malformation (disease)) (근거 수준 L5). 기존 적응증: WHO 기능분류 II, III 단계에 해당하는 폐동맥 고혈압 (WHO Group 1) 환자에서 운동능력개선…"
 ---
 
 # Ambrisentan
@@ -45,7 +45,7 @@ TxGNN 모델은 **폐동정맥 기형(pulmonary arteriovenous malformation (dise
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200902796/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200902797/EE) |
+| 기존 적응증 | WHO 기능분류 II, III 단계에 해당하는 폐동맥 고혈압 (WHO Group 1) 환자에서 운동능력개선 및 임상적 악화의 지연 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200902796/EE)) |
 | 예측 신규 적응증 | 폐동정맥 기형 (pulmonary arteriovenous malformation (disease)) |
 | TxGNN 예측 점수 | 0.9941 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "DIPYRIDAMOLE"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
 last_modified_at: 2026-11-05
-description: "Dipyridamole: 예측 신규 적응증 Sick sinus syndrome 2, autosomal dominant (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Dipyridamole: 예측 신규 적응증 Sick sinus syndrome 2, autosomal dominant (근거 수준 L5). 기존 적응증: 1. 협심증, 간경화증(만성허혈성심질환, 무증후성허혈성심질환, 동맥경화성심질환), 심근경색(급성기 제…"
 ---
 
 # Dipyridamole
@@ -46,7 +46,7 @@ TxGNN 모델은 **상염색체 우성 동기능부전증후군 2형 (sick sinus 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302190/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600889/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403295/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201702432/EE) |
+| 기존 적응증 | 1. 협심증, 간경화증(만성허혈성심질환, 무증후성허혈성심질환, 동맥경화성심질환), 심근경색(급성기 제 외),울혈성 심부전 2. 심장판막치환술후의 혈전.색전 예방을 위한 항응고제의 보조요법 3. 다음 질환에 의한 요단백감소 : 스테로이드저항성신증후군 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200302190/EE)) |
 | 예측 신규 적응증 | Sick sinus syndrome 2, autosomal dominant |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |

@@ -6,7 +6,7 @@ nav_order: 167
 evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-31
-description: "Cabotegravir: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트를 확인할 수 없음 (허가사항 원문 링크만 제공됨)"
+description: "Cabotegravir: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L5). 기존 적응증: 바이러스학적으로 억제되어 있고 (HIV-1 RNA <50 copies/mL), 치료 실패 이력이 없으며…"
 monitor_inn: "CABOTEGRAVIR"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
 ---
@@ -44,7 +44,7 @@ Cabotegravir는 HIV 인테그레이스 가닥 전이 억제제(INSTI)로, 국내
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트를 확인할 수 없음 (허가사항 원문 링크만 제공됨) |
+| 기존 적응증 | 바이러스학적으로 억제되어 있고 (HIV-1 RNA <50 copies/mL), 치료 실패 이력이 없으며 카보테그라비르또는 릴피비린에 알려진 또는 의심되는 내성이 없는 성인 환자에서 HIV-1 감염 치료를 위한 릴피비린 주사와의 병용요법 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200534/EE)) |
 | 예측 신규 적응증 | 류마티스 관절염 (Rheumatoid Arthritis) |
 | TxGNN 예측 점수 | 0.9945 |
 | 근거 수준 | L5 |

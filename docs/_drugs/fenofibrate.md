@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "FENOFIBRATE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-10-31
-description: "Fenofibrate: 예측 신규 적응증 콜레스테롤 에스터 전이 단백질 결핍증 (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 내용을 확인할 수 없음"
+description: "Fenofibrate: 예측 신규 적응증 콜레스테롤 에스터 전이 단백질 결핍증 (근거 수준 L5). 기존 적응증: 원발성 고지혈증 : 고콜레스테롤혈증(IIa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(IIb형…"
 ---
 
 # Fenofibrate
@@ -44,7 +44,7 @@ Fenofibrate는 한국에서 단일 성분 및 피타바스타틴과의 복합제
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 내용을 확인할 수 없음 |
+| 기존 적응증 | 원발성 고지혈증 : 고콜레스테롤혈증(IIa형), 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(IIb형, Ⅲ형), 고트리글리세라이드혈증 (IV형) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201902160/EE)) |
 | 예측 신규 적응증 | 콜레스테롤 에스터 전이 단백질 결핍증 |
 | TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 |

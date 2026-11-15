@@ -6,7 +6,7 @@ nav_order: 412
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Idebenone: 예측 신규 적응증 간성 포르피린증 (Hepatic Porphyria) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조)"
+description: "Idebenone: 예측 신규 적응증 간성 포르피린증 (Hepatic Porphyria) (근거 수준 L5). 기존 적응증: 청소년 및 성인의 레베르시신경병증(Leber’s Hereditary Optic Neuropathy…"
 monitor_inn: "Idebenone"
 predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "immune-mediated necrotizing myopathy", "osteogenesis imperfecta-retinopathy-seizures-intellectual disability syndrome", "antisynthetase syndrome", "focal myositis"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **간성 포르피린증(Hepatic Porphyria)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 링크 형태로만 제공되어 구체적인 내용을 확인할 수 없음 (허가사항 참조) |
+| 기존 적응증 | 청소년 및 성인의 레베르시신경병증(Leber’s Hereditary Optic Neuropathy, LHON)으로 인한 시각장애 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906395/EE)) |
 | 예측 신규 적응증 | 간성 포르피린증 (Hepatic Porphyria) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

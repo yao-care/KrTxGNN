@@ -6,7 +6,7 @@ nav_order: 567
 evidence_level: L2
 indication_count: 4
 last_modified_at: 2026-10-31
-description: "Oxaliplatin: 예측 신규 적응증 악성 흉막 중피종 (Malignant Pleural Mesothelioma) (근거 수준 L2). 기존 적응증: 허가 적응증 원문은 이번 데이터에 텍스트로 포함되지 않았습니다(허가증 링크만 확인됨)"
+description: "Oxaliplatin: 예측 신규 적응증 악성 흉막 중피종 (Malignant Pleural Mesothelioma) (근거 수준 L2). 기존 적응증: 1. 전이성 결장, 직장암에 1차 치료제로써 5-fluorouracil과 folinic acid…"
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 ---
@@ -44,7 +44,7 @@ Oxaliplatin은 백금 계열 항암제로, 한국에서 주로 대장암 등 소
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문은 이번 데이터에 텍스트로 포함되지 않았습니다(허가증 링크만 확인됨) |
+| 기존 적응증 | 1. 전이성 결장, 직장암에 1차 치료제로써 5-fluorouracil과 folinic acid (leucovorin)와 병용 투여한다. 2. 원발 종양을 수술로 완전히 절제(complete resection)한 stage III (Duke's C)의 결장암에… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600006/EE)) |
 | 예측 신규 적응증 | 악성 흉막 중피종 (Malignant Pleural Mesothelioma) |
 | TxGNN 예측 점수 | 0.9968 |
 | 근거 수준 | L2 (완료된 Phase 2 시험이 있으나 단일군·소규모이며 무작위 대조시험은 아님) |

@@ -6,7 +6,7 @@ nav_order: 776
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-11-05
-description: "Valproic Acid: 예측 신규 적응증 삼차신경 신생물 (Trigeminal Nerve Neoplasm) (근거 수준 L5). 기존 적응증: 허가 적응증 텍스트가 허가증 원문 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (뇌전증 치료제로 널리 사용)"
+description: "Valproic Acid: 예측 신규 적응증 삼차신경 신생물 (Trigeminal Nerve Neoplasm) (근거 수준 L5). 기존 적응증: 뇌전증[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작]과 뇌전증에 뒤따르는…"
 monitor_inn: "VALPROIC ACID"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
@@ -44,7 +44,7 @@ Valproic acid(발프로산)는 한국에서 연질캡슐 제제로 허가되어 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 텍스트가 허가증 원문 링크 형태로만 제공되어 구체적 내용을 확인할 수 없음 (뇌전증 치료제로 널리 사용) |
+| 기존 적응증 | 뇌전증[결신발작(소발작), 부분발작(초점발작), 정신운동성발작 및 혼합발작]과 뇌전증에 뒤따르는 성격·행동장애의 예방과 치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402359/EE)) |
 | 예측 신규 적응증 | 삼차신경 신생물 (Trigeminal Nerve Neoplasm) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

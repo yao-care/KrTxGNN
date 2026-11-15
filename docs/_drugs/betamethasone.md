@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "BETAMETHASONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-description: "Betamethasone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L4). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Betamethasone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L4). 기존 적응증: - 급성 두드러기, 알레르기성 비염, 약진 - 아토피성 피부염, 습진, 접촉성 피부염의 급성기 및 급성악화기"
 ---
 
 # Betamethasone

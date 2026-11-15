@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 last_modified_at: 2026-11-03
-description: "Methylprednisolone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Methylprednisolone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L5). 기존 적응증: 1. 내분비 장애 : 원발성 및 속발성 부신피질 기능부전증(히드로코르티손이나 코르티손이 1차 선택…"
 ---
 
 # Methylprednisolone
@@ -44,7 +44,7 @@ Methylprednisolone은 글루코코르티코이드 계열의 항염증 약물로,
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804425/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200403914/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207586/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601595/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300111/EE);  |
+| 기존 적응증 | 1. 내분비 장애 : 원발성 및 속발성 부신피질 기능부전증(히드로코르티손이나 코르티손이 1차 선택 약물이며,필요한 경우 광질코르티코이드와 병용해서 합성 코르티코이드를 사용할 수도 있고, 특히 영아기에는 광질코르티코이드를 병용하는 것이 중요함), 선천성 부신이상 증식, 암에 수반된… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804425/EE)) |
 | 예측 신규 적응증 | 점액성 탈모증 (alopecia mucinosa) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

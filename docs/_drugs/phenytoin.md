@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "PHENYTOIN"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 last_modified_at: 2026-10-31
-description: "Phenytoin: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Phenytoin: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: (경구 : 정제, 캅셀제) 1. 간질 : 강직간대발작(대발작), 부분발작(초점발작), 정신운동성발작 2…"
 ---
 
 # Phenytoin
@@ -45,7 +45,7 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201106874/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500605/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100305/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197500285/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197000104/EE);  |
+| 기존 적응증 | (경구 : 정제, 캅셀제) 1. 간질 : 강직간대발작(대발작), 부분발작(초점발작), 정신운동성발작 2. 디기탈리스중독으로 인한 부정맥(심실성 부정맥) (주사제) 1. 간질중첩상태 2. 경구투여가 불가능한 경우(특히 의식장애, 수술중·수술후) 3. 디기탈리스 중독으로 인한… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201106874/EE)) |
 | 예측 신규 적응증 | 삼차신경 신생물 (trigeminal nerve neoplasm) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

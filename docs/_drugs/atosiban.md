@@ -6,7 +6,7 @@ nav_order: 99
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Atosiban: 예측 신규 적응증 원발성 유전성 녹내장 (primary hereditary glaucoma) (근거 수준 L5). 기존 적응증: 조기진통 시 분만 지연(tocolysis). 허가증에는 적응증 본문 대신 허가 문서 링크만 제공되어 있어…"
+description: "Atosiban: 예측 신규 적응증 원발성 유전성 녹내장 (primary hereditary glaucoma) (근거 수준 L5). 기존 적응증: 다음 경우에 해당하는 임부의 조산방지 - 최소 30초간 유지되는 주기적인 자궁수축이 30분당 4회 이상의…"
 monitor_inn: "Atosiban"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "congenital hypotrichosis milia", "alopecia", "hypotrichosis simplex of the scalp", "vascular disease", "diffuse alopecia areata", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "visceral calciphylaxis"]
 ---
@@ -46,7 +46,7 @@ TxGNN 모델은 **원발성 유전성 녹내장(primary hereditary glaucoma)**�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 조기진통 시 분만 지연(tocolysis). 허가증에는 적응증 본문 대신 허가 문서 링크만 제공되어 있어, 약리학 자료상의 임상 용도를 기준으로 기재했습니다. |
+| 기존 적응증 | 다음 경우에 해당하는 임부의 조산방지 - 최소 30초간 유지되는 주기적인 자궁수축이 30분당 4회 이상의 빈도로발생한 경우 - 1-3㎝가량 경부가 확장되어 있고 (초산인 경우에는 0-3㎝), 50% 이상의 소실을 보이는 경우 - 18세 이상 - 임신주수 24-33주 - 태아의 심박이… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506826/EE)) |
 | 예측 신규 적응증 | 원발성 유전성 녹내장 (primary hereditary glaucoma) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

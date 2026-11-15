@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
 last_modified_at: 2026-11-03
-description: "Hydroxyurea: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Hydroxyurea: 예측 신규 적응증 여성 유방암 (female breast carcinoma) (근거 수준 L5). 기존 적응증: *흑색증,내성이 있는 만성,골수성 백혈병,재발성,전이성 또는 수술이 불가능한 난소암. *방사선 요법과…"
 ---
 
 # Hydroxyurea
@@ -45,7 +45,7 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501440/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199301690/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607038/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501759/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606000/EE) |
+| 기존 적응증 | *흑색증,내성이 있는 만성,골수성 백혈병,재발성,전이성 또는 수술이 불가능한 난소암. *방사선 요법과 병행하여 입술을 제외한 두부 및 경부의 유표피암의 국소치료. ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501440/EE)) |
 | 예측 신규 적응증 | 여성 유방암 (female breast carcinoma) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L5 |

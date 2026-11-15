@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
 last_modified_at: 2026-11-03
-description: "Haloperidol: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증 (congenital disorder of glycosylation with defective fucosylation) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Haloperidol: 예측 신규 적응증 푸코실화 결함을 동반한 선천성 당화 이상증 (congenital disorder of glycosylation with defective fucosylation) (근거 수준 L5). 기존 적응증: 정신분열증(조현병), 제1형 양극성 장애와 관련된 조증삽화, 정신병적 장애의 증상, 투렛증후군(Gilles…"
 ---
 
 # Haloperidol
@@ -44,7 +44,7 @@ Haloperidol은 도파민 D2 수용체를 차단하는 약물로, 한국에서 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500618/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500715/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198400475/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198301325/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198200323/EE);  |
+| 기존 적응증 | 정신분열증(조현병), 제1형 양극성 장애와 관련된 조증삽화, 정신병적 장애의 증상, 투렛증후군(Gilles de laTourette's syndrome) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500618/EE)) |
 | 예측 신규 적응증 | 푸코실화 결함을 동반한 선천성 당화 이상증 (congenital disorder of glycosylation with defective fucosylation) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |

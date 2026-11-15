@@ -6,7 +6,7 @@ nav_order: 419
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-31
-description: "Imiquimod: 예측 신규 적응증 전암성 신생물 (pre-malignant neoplasm) (근거 수준 L5). 기존 적응증: 허가 적응증 원문 텍스트가 확보되지 않음 (식약처 허가정보 링크만 확인됨)"
+description: "Imiquimod: 예측 신규 적응증 전암성 신생물 (pre-malignant neoplasm) (근거 수준 L5). 기존 적응증: 1. 성인의 외부 생식기, 항문주위 사마귀/첨형 콘딜로마의 치료 2. 성인에 있어서 얼굴 또는 두피의…"
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **전암성 신생물(pre-malignant neoplasm)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 원문 텍스트가 확보되지 않음 (식약처 허가정보 링크만 확인됨) |
+| 기존 적응증 | 1. 성인의 외부 생식기, 항문주위 사마귀/첨형 콘딜로마의 치료 2. 성인에 있어서 얼굴 또는 두피의 일광성 각화증의 치료 3. 수술이 적절하지 않다고 판단되는 성인의 표재성 기저 세포암의 일차치료 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200710217/EE)) |
 | 예측 신규 적응증 | 전암성 신생물 (pre-malignant neoplasm) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 (아래 참고) |

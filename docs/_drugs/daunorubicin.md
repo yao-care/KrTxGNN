@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Daunorubicin"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
 last_modified_at: 2026-11-05
-description: "Daunorubicin: 예측 신규 적응증 호지킨 림프종 (근거 수준 L5). 기존 적응증: 허가 적응증 본문을 확인할 수 없음 (허가증에는 식약처 문서 링크만 수록)"
+description: "Daunorubicin: 예측 신규 적응증 호지킨 림프종 (근거 수준 L5). 기존 적응증: 급성 백혈병(만성 골수성 백혈병의 급성 전환 포함)"
 ---
 
 # Daunorubicin
@@ -45,7 +45,7 @@ TxGNN 모델은 **호지킨 림프종(Hodgkin's lymphoma)**에 효과가 있을 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문을 확인할 수 없음 (허가증에는 식약처 문서 링크만 수록) |
+| 기존 적응증 | 급성 백혈병(만성 골수성 백혈병의 급성 전환 포함) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400632/EE)) |
 | 예측 신규 적응증 | 호지킨 림프종 |
 | TxGNN 예측 점수 | 0.9981 |
 | 근거 수준 | L5 |

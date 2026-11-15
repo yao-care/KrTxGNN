@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "AMPICILLIN"
 predicted_indications: ["chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 last_modified_at: 2026-10-31
-description: "Ampicillin: 예측 신규 적응증 만성 비부비동염 (근거 수준 L4). 기존 적응증: 허가 문서 링크만 제공되어 적응증 문구 확인 불가 (항균제)"
+description: "Ampicillin: 예측 신규 적응증 만성 비부비동염 (근거 수준 L4). 기존 적응증: ○ 유효균종 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 폐렴연쇄구균, 프로테우스(특히, 프로테우스…"
 ---
 
 # Ampicillin
@@ -46,7 +46,7 @@ TxGNN 모델은 **만성 비부비동염(chronic rhinosinusitis)**에 효과가 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 문서 링크만 제공되어 적응증 문구 확인 불가 (항균제) |
+| 기존 적응증 | ○ 유효균종 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 폐렴연쇄구균, 프로테우스(특히, 프로테우스 미라빌리스),인플루엔자균, 장티푸스균, 장내구균, 시겔라, 대장균, 포도구균, 임균 ○ 적응증 - 부스럼, 옹종, 연조직염, 농가진, 농피증, 단독 - 편도염, 인후두염, 부비동염… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607738/EE)) |
 | 예측 신규 적응증 | 만성 비부비동염 |
 | TxGNN 예측 점수 | 0.9934 |
 | 근거 수준 | L4 |

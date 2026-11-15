@@ -6,7 +6,7 @@ nav_order: 271
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-05
-description: "Dexketoprofen: 예측 신규 적응증 건염 (Tendinitis) (근거 수준 L5). 기존 적응증: 허가 적응증 본문은 확인되지 않았습니다(허가증 원문 링크만 확인됨). 허가사항을 참조하세요"
+description: "Dexketoprofen: 예측 신규 적응증 건염 (Tendinitis) (근거 수준 L5). 기존 적응증: 수술 후 통증, 급성 요통 완화"
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **건염(Tendinitis)**에 효과가 있을 수 있다고 예측�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문은 확인되지 않았습니다(허가증 원문 링크만 확인됨). 허가사항을 참조하세요. |
+| 기존 적응증 | 수술 후 통증, 급성 요통 완화 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706794/EE)) |
 | 예측 신규 적응증 | 건염 (Tendinitis) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 (직접 근거 없음, 간접 근거만 존재) |

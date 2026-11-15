@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Tenoxicam"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "trigeminal autonomic cephalalgia", "alopecia"]
 last_modified_at: 2026-11-06
-description: "Tenoxicam: 예측 신규 적응증 합지증·단지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 이 보고서용으로 수집된 데이터에 허가 적응증 본문이 없고 허가증 링크만 있어 확인할 수 없음"
+description: "Tenoxicam: 예측 신규 적응증 합지증·단지증 증후군 (brachydactyly-syndactyly syndrome) (근거 수준 L5). 기존 적응증: 1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염…"
 ---
 
 # Tenoxicam
@@ -44,7 +44,7 @@ Tenoxicam은 COX 억제 계열의 비스테로이드 소염진통제(NSAID)입�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 보고서용으로 수집된 데이터에 허가 적응증 본문이 없고 허가증 링크만 있어 확인할 수 없음 |
+| 기존 적응증 | 1. 다음 질환에 사용할 수 있다. 류마티양 관절염, 골관절염(퇴행성 관절질환), 강직성 척추염, 견관절주위염, 고관절주위염, 경견완증후군, 요통, 급성통풍, . 수술후 외상후 염증 및 동통, 건염, 활액낭염 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199100422/EE)) |
 | 예측 신규 적응증 | 합지증·단지증 증후군 (brachydactyly-syndactyly syndrome) |
 | TxGNN 예측 점수 | 0.9980 |
 | 근거 수준 | L5 |

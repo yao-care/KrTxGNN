@@ -6,7 +6,7 @@ nav_order: 233
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-31
-description: "Colchicine: 예측 신규 적응증 열대열 말라리아 (Plasmodium falciparum malaria) (근거 수준 L5). 기존 적응증: 허가 적응증 본문을 확인할 수 없음 (MFDS 허가문서 링크만 제공됨)"
+description: "Colchicine: 예측 신규 적응증 열대열 말라리아 (Plasmodium falciparum malaria) (근거 수준 L5). 기존 적응증: 급성통풍 발작의 치료 및 예방"
 monitor_inn: "COLCHICINE"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
 ---
@@ -47,7 +47,7 @@ TxGNN 모델은 상위 예측으로 **열대열 말라리아(Plasmodium falcipar
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 적응증 본문을 확인할 수 없음 (MFDS 허가문서 링크만 제공됨) |
+| 기존 적응증 | 급성통풍 발작의 치료 및 예방 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198801219/EE)) |
 | 예측 신규 적응증 | 열대열 말라리아 (Plasmodium falciparum malaria) |
 | TxGNN 예측 점수 | 0.9960 |
 | 근거 수준 | L5 |

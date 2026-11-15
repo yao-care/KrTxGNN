@@ -6,7 +6,7 @@ nav_order: 619
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-11-06
-description: "Potassium Nitrate: 예측 신규 적응증 수막구균 감염 (Meningococcal infection) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공됨)"
+description: "Potassium Nitrate: 예측 신규 적응증 수막구균 감염 (Meningococcal infection) (근거 수준 L5). 기존 적응증: 치아 과민증상의 완화, 잇몸질환 및 충치 예방"
 monitor_inn: "POTASSIUM NITRATE"
 predicted_indications: ["meningococcal infection", "sclerosing cholangitis"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **수막구균 감염(Meningococcal infection)**에 효과가 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공됨) |
+| 기존 적응증 | 치아 과민증상의 완화, 잇몸질환 및 충치 예방 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200906534/EE)) |
 | 예측 신규 적응증 | 수막구균 감염 (Meningococcal infection) |
 | TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 |

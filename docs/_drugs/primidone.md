@@ -6,7 +6,7 @@ nav_order: 628
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-31
-description: "Primidone: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 확인 불가 (허가 정보에 적응증 본문 없이 문서 링크만 제공됨)"
+description: "Primidone: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 간질 : 강직간대발작(대발작), 정신운동성발작, 부분발작(초점발작)"
 monitor_inn: "PRIMIDONE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
@@ -45,7 +45,7 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 정보에 적응증 본문 없이 문서 링크만 제공됨) |
+| 기존 적응증 | 간질 : 강직간대발작(대발작), 정신운동성발작, 부분발작(초점발작) ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198000160/EE)) |
 | 예측 신규 적응증 | 삼차신경 신생물 (trigeminal nerve neoplasm) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

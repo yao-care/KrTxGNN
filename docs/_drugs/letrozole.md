@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "LETROZOLE"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 last_modified_at: 2026-10-31
-description: "Letrozole: 예측 신규 적응증 유두암 (nipple carcinoma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Letrozole: 예측 신규 적응증 유두암 (nipple carcinoma) (근거 수준 L5). 기존 적응증: 1. 에스트로겐 또는 프로게스테론 수용체 양성이거나 또는 수용체 상태가 알려지지 않은 폐경후 여성의…"
 ---
 
 # Letrozole
@@ -46,7 +46,7 @@ TxGNN 모델은 **유두암(nipple carcinoma)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500168/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402459/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108765/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202403042/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500998/EE);  |
+| 기존 적응증 | 1. 에스트로겐 또는 프로게스테론 수용체 양성이거나 또는 수용체 상태가 알려지지 않은 폐경후 여성의 국소적으로 진전된 또는 전이성 유방암에서 1차 치료 2. 항에스트로겐 요법후 재발된 자연적 또는 인공적으로 폐경이 된 여성의 진전된 유방암 3. 에스트로겐 또는 프로게스테론 수용체… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500168/EE)) |
 | 예측 신규 적응증 | 유두암 (nipple carcinoma) |
 | TxGNN 예측 점수 | 0.9976 |
 | 근거 수준 | L5 |

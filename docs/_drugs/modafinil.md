@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-04
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-description: "Modafinil: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Modafinil: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L5). 기존 적응증: 성인에 있어서, 기면증과 관련한 과다졸음"
 ---
 
 # Modafinil
@@ -46,7 +46,7 @@ TxGNN 모델은 **불면증(insomnia)**에 효과가 있을 수 있다고 예측
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200234/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201104024/EE) |
+| 기존 적응증 | 성인에 있어서, 기면증과 관련한 과다졸음 ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200234/EE)) |
 | 예측 신규 적응증 | 불면증 (insomnia (disease)) |
 | TxGNN 예측 점수 | 0.9985 |
 | 근거 수준 | L5 |

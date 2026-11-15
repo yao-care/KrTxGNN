@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "CABERGOLINE"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 last_modified_at: 2026-10-31
-description: "Cabergoline: 예측 신규 적응증 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+description: "Cabergoline: 예측 신규 적응증 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) (근거 수준 L5). 기존 적응증: 1. 유즙 분비의 예방 및 억제 이 약은 이미 생산된 젖 분비와 출산직후의 생리적인 젖 분비 억제에…"
 ---
 
 # Cabergoline
@@ -46,7 +46,7 @@ TxGNN 모델은 **조로증-저신장-색소성 모반 증후군(progeria-short 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800320/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500627/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500628/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309603/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800318/EE);  |
+| 기존 적응증 | 1. 유즙 분비의 예방 및 억제 이 약은 이미 생산된 젖 분비와 출산직후의 생리적인 젖 분비 억제에 사용된다. 1) 출산 후 산모가 모유수유를 원하지 않거나 산모 또는 신생아와 관련된 의료상의 이유로 모유수유를 할 수 없는 경우 2) 사산 또는 유산 후 2. 고프로락틴혈증의 치료… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800320/EE)) |
 | 예측 신규 적응증 | 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) |
 | TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |

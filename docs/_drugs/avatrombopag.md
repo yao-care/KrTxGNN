@@ -6,7 +6,7 @@ nav_order: 106
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-31
-description: "Avatrombopag: 예측 신규 적응증 거대혈소판감소증, 승모판 폐쇄부전 동반 (근거 수준 L5). 기존 적응증: 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 내용을 확인하지 못함)"
+description: "Avatrombopag: 예측 신규 적응증 거대혈소판감소증, 승모판 폐쇄부전 동반 (근거 수준 L5). 기존 적응증: 1. 시술 예정인 성인 만성 간질환 환자에서 혈소판감소증 치료(5. 일반적 주의 및 13. 전문가를 위한…"
 monitor_inn: "Avatrombopag"
 predicted_indications: ["marcothrombocytopenia with mitral valve insufficiency", "hereditary thrombocytopenia with normal platelets", "transient neonatal thrombocytopenia", "dense granule disease", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "monomelic amyotrophy"]
 ---
@@ -44,7 +44,7 @@ Avatrombopag은 트롬보포이에틴 수용체(c-Mpl) 작용제로, 한국에�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 확인 불가 (허가 적응증이 문서 링크로만 제공되어 구체적 내용을 확인하지 못함) |
+| 기존 적응증 | 1. 시술 예정인 성인 만성 간질환 환자에서 혈소판감소증 치료(5. 일반적 주의 및 13. 전문가를 위한 정보 3) 임상시험정보 참조) 2. 이전 치료(예. 코르티코스테로이드 또는 면역글로불린 또는 비장 절제술)에 불충분한 치료 반응을 보인 성인 만성 면역 혈소판감소증 환자에서… ([MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402776/EE)) |
 | 예측 신규 적응증 | 거대혈소판감소증, 승모판 폐쇄부전 동반 (marcothrombocytopenia with mitral valve insufficiency) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |
