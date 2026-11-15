@@ -6,7 +6,7 @@
   <link rel="canonical" href="https://krtxgnn.yao.care/smart/standalone.html">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>KrTxGNN SMART App - Standalone Test Mode</title>
+  <title>KrTxGNN SMART App - 독립 테스트 모드</title>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-W7ZNBYKJHJ"></script>
   <script>
     window.TXGNN_ANALYTICS = Object.assign({"measurementId": "G-W7ZNBYKJHJ", "contentGroup": "KrTxGNN", "language": "ko", "citationHosts": ["mfds.go.kr"], "linkerDomains": ["yao.care", "www.yao.care", "krtxgnn.yao.care", "www.ods.yao.care", "app.ods.yao.care"], "pageType": "smart", "pagePath": "/smart/standalone.html"}, { pageTitle: document.title });
@@ -561,75 +561,75 @@
 <body>
   <header class="header">
     <h1>KrTxGNN SMART App</h1>
-    <p>Drug Repurposing Candidate Search</p>
-    <span class="mode-badge">Standalone test mode</span>
+    <p>약물 재창출 후보 검색</p>
+    <span class="mode-badge">독립 테스트 모드</span>
   </header>
 
   <main class="content">
     <div class="info-card">
-      <h3>Standalone test mode</h3>
+      <h3>독립 테스트 모드</h3>
       <p>
-        This page lets you enter <strong>drug names</strong> manually to test KrTxGNN drug repurposing predictions
-        without connecting to an EHR. Enter drug names in English (e.g. Famotidine, Docetaxel, Paclitaxel).
+        이 페이지에서는 전자의무기록(EHR)에 연결하지 않고 <strong>약품명</strong>을 직접 입력해 KrTxGNN의 약물 재창출 예측을
+        시험해 볼 수 있습니다. 약품명은 영어(국제일반명)로 입력하세요(예: Bromfenac, Busulfan, Cefprozil).
       </p>
       <p style="margin-top: 8px; color: #856404;">
-        <strong>Note:</strong> enter a drug name, not a disease name, e.g. "Famotidine" rather than "diabetes".
-        Click an example button below for a quick test.
+        <strong>참고:</strong> 질병명이 아니라 약품명을 입력하세요. 예: "diabetes"가 아니라 "Bromfenac".
+        아래 예시 버튼을 누르면 바로 시험해 볼 수 있습니다.
       </p>
     </div>
 
     <section class="section">
-      <h2 class="section-title">Enter drug names</h2>
+      <h2 class="section-title">약품명 입력</h2>
 
       <div class="input-group">
-        <input type="text" id="drug-input" placeholder="Enter a drug name, e.g. Famotidine, Docetaxel..." autocomplete="off">
-        <button class="btn btn-primary" id="add-btn">Add</button>
+        <input type="text" id="drug-input" placeholder="약품명 입력, 예: Bromfenac, Busulfan..." autocomplete="off">
+        <button class="btn btn-primary" id="add-btn">추가</button>
       </div>
 
       <div class="drug-tags" id="drug-tags">
-        <span style="color: #999; font-size: 14px;">No drugs added yet</span>
+        <span style="color: #999; font-size: 14px;">추가된 약품이 없습니다</span>
       </div>
 
       <div style="display: flex; gap: 12px;">
-        <button class="btn btn-primary" id="query-btn">Search repurposing candidates</button>
-        <button class="btn btn-secondary" id="clear-btn">Clear all</button>
+        <button class="btn btn-primary" id="query-btn">재창출 후보 검색</button>
+        <button class="btn btn-secondary" id="clear-btn">모두 지우기</button>
       </div>
 
       <div class="sample-drugs">
-        <p>Examples of L1 high-evidence drugs (click to add):</p>
+        <p>이 사이트에서 근거 수준이 가장 높은 의약품 예시(클릭하여 추가):</p>
         <div class="sample-list">
-          <button class="sample-btn" data-drug="Famotidine">Famotidine</button>
-          <button class="sample-btn" data-drug="Docetaxel">Docetaxel</button>
-          <button class="sample-btn" data-drug="Paclitaxel">Paclitaxel</button>
-          <button class="sample-btn" data-drug="Remdesivir">Remdesivir</button>
-          <button class="sample-btn" data-drug="Vitamin E">Vitamin E</button>
-          <button class="sample-btn" data-drug="Isosorbide dinitrate">Isosorbide dinitrate</button>
-          <button class="sample-btn" data-drug="Dronedarone">Dronedarone</button>
-          <button class="sample-btn" data-drug="Nepafenac">Nepafenac</button>
+          <button class="sample-btn" data-drug="Bromfenac">Bromfenac (L1)</button>
+          <button class="sample-btn" data-drug="Busulfan">Busulfan (L1)</button>
+          <button class="sample-btn" data-drug="Cefprozil">Cefprozil (L1)</button>
+          <button class="sample-btn" data-drug="Clofarabine">Clofarabine (L1)</button>
+          <button class="sample-btn" data-drug="Doxorubicin">Doxorubicin (L1)</button>
+          <button class="sample-btn" data-drug="Ketorolac">Ketorolac (L1)</button>
+          <button class="sample-btn" data-drug="Dapsone">Dapsone (L1)</button>
+          <button class="sample-btn" data-drug="Acetylcysteine">Acetylcysteine (L2)</button>
         </div>
       </div>
     </section>
 
     <section class="ddi-section" id="ddi-section" style="display: none;">
-      <h2 class="section-title">⚠️ Drug interaction alerts</h2>
+      <h2 class="section-title">⚠️ 약물 상호작용 경고</h2>
       <div id="ddi-results"></div>
     </section>
 
     <section class="section">
-      <h2 class="section-title">Results</h2>
+      <h2 class="section-title">결과</h2>
       <div id="results">
         <div class="empty-state">
-          <p>Add drugs and click the "Search" button</p>
+          <p>약품을 추가한 뒤 "재창출 후보 검색"을 누르세요</p>
         </div>
       </div>
     </section>
 
     <div class="disclaimer">
-      <strong>Disclaimer</strong>
-      This content is for research reference only and is not a substitute for professional medical advice. All drug repurposing predictions require clinical validation before use.
-      If you have health concerns, please consult a qualified healthcare professional.
+      <strong>면책 고지</strong>
+      이 내용은 연구 참고용이며 전문적인 의학적 조언을 대신하지 않습니다. 모든 약물 재창출 예측은 사용 전에 임상 검증이 필요합니다.
+      건강 문제가 있으면 자격을 갖춘 의료 전문가와 상담하세요.
       <br><br>
-      <a href="/privacy-policy/" style="color: #856404;">Privacy policy</a>
+      <a href="/privacy-policy/" style="color: #856404;">개인정보 처리방침</a>
     </div>
   </main>
 
@@ -673,7 +673,7 @@
       // Load search index
       async function init() {
         try {
-          resultsDiv.innerHTML = '<div class="loading">Loading drug database...</div>';
+          resultsDiv.innerHTML = '<div class="loading">약품 데이터베이스를 불러오는 중...</div>';
 
           const response = await fetch(CONFIG.searchIndexUrl);
           if (!response.ok) throw new Error('Failed to load search index');
@@ -696,18 +696,18 @@
             // Auto-query
             await queryRepurposing();
           } else {
-            resultsDiv.innerHTML = '<div class="empty-state"><p>Add drugs and click the "Search" button</p></div>';
+            resultsDiv.innerHTML = '<div class="empty-state"><p>약품을 추가한 뒤 "재창출 후보 검색"을 누르세요</p></div>';
           }
         } catch (error) {
           console.error('Init error:', error);
-          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>Failed to load the drug database</p></div>';
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>약품 데이터베이스를 불러오지 못했습니다</p></div>';
         }
       }
 
       // Render drug tags
       function renderTags() {
         if (selectedDrugs.length === 0) {
-          drugTags.innerHTML = '<span style="color: #999; font-size: 14px;">No drugs added yet</span>';
+          drugTags.innerHTML = '<span style="color: #999; font-size: 14px;">추가된 약품이 없습니다</span>';
           return;
         }
 
@@ -743,17 +743,17 @@
       // Query repurposing candidates
       async function queryRepurposing() {
         if (selectedDrugs.length === 0) {
-          resultsDiv.innerHTML = '<div class="empty-state"><p>Please add at least one drug</p></div>';
+          resultsDiv.innerHTML = '<div class="empty-state"><p>약품을 하나 이상 추가하세요</p></div>';
           document.getElementById('ddi-section').style.display = 'none';
           return;
         }
 
         if (!drugMapper) {
-          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>The drug database has not loaded yet</p></div>';
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>약품 데이터베이스를 아직 불러오지 못했습니다</p></div>';
           return;
         }
 
-        resultsDiv.innerHTML = '<div class="loading">Searching...</div>';
+        resultsDiv.innerHTML = '<div class="loading">검색 중...</div>';
 
         // Check DDI
         const ddiSection = document.getElementById('ddi-section');
@@ -765,7 +765,7 @@
             ddiResults.innerHTML = KrTxGNN.DDIChecker.formatAlertsHTML(ddiAlerts);
           } else {
             ddiSection.style.display = 'block';
-            ddiResults.innerHTML = '<div class="ddi-no-alerts">✓ No known drug interaction alerts</div>';
+            ddiResults.innerHTML = '<div class="ddi-no-alerts">✓ 알려진 약물 상호작용 경고가 없습니다</div>';
           }
         } else {
           ddiSection.style.display = 'none';
@@ -786,13 +786,13 @@
                     <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">${escapeHtml(match.name)}</a>
                     <span class="level-badge level-${match.level}">${match.level}</span>
                   </h3>
-                  <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank" class="view-full">View full report →</a>
+                  <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank" class="view-full">전체 보고서 보기 →</a>
                 </div>
                 <div class="result-original">
-                  <strong>Original indication:</strong>${escapeHtml(match.original) || '—'}
+                  <strong>기존 적응증:</strong>${escapeHtml(match.original) || '—'}
                 </div>
                 <div>
-                  <strong>Predicted new indications (repurposing candidates):</strong>
+                  <strong>예측된 신규 적응증(재창출 후보):</strong>
                   <div class="indication-list">
             `;
 
@@ -806,7 +806,7 @@
                       <span class="ind-name">${escapeHtml(ind.name)}</span>
                       <span class="ind-score">${ind.score}%</span>
                       <button class="trials-btn" onclick="loadClinicalTrials('${escapeHtml(match.name)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
-                        🔬 Clinical trials
+                        🔬 임상시험
                       </button>
                     </div>
                     <div class="trials-container" id="${trialsContainerId}"></div>
@@ -817,13 +817,13 @@
               if (indications.length > 10) {
                 html += `
                   <div class="more-link">
-                    ...and ${indications.length - 10} more predicted indications
-                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">View all</a>
+                    ...외 예측 적응증 ${indications.length - 10}개
+                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">모두 보기</a>
                   </div>
                 `;
               }
             } else {
-              html += '<p style="color: #666; padding: 8px 0;">No predicted new indications</p>';
+              html += '<p style="color: #666; padding: 8px 0;">예측된 신규 적응증이 없습니다</p>';
             }
 
             html += '</div></div></div>';
@@ -835,10 +835,10 @@
                   <h3>${escapeHtml(drugName)}</h3>
                 </div>
                 <p class="no-match">
-                  "${escapeHtml(drugName)}" was not found in the KrTxGNN database.
+                  "${escapeHtml(drugName)}"을(를) KrTxGNN 데이터베이스에서 찾지 못했습니다.
                   <br><span style="font-style: normal; color: #666;">
-                    Check that this is a drug name (not a disease), or try the generic name.
-                    The database covers medicines approved in South Korea.
+                    질병명이 아닌 약품명인지 확인하거나 일반명(성분명)으로 다시 시도하세요.
+                    데이터베이스에는 대한민국에서 허가된 의약품이 수록되어 있습니다.
                   </span>
                 </p>
               </div>
@@ -846,7 +846,7 @@
           }
         }
 
-        resultsDiv.innerHTML = html || '<div class="empty-state"><p>No results</p></div>';
+        resultsDiv.innerHTML = html || '<div class="empty-state"><p>결과 없음</p></div>';
       }
 
       function escapeHtml(text) {
@@ -914,18 +914,18 @@
         const container = document.getElementById(containerId);
         if (!container) return;
 
-        container.innerHTML = '<span class="trials-loading">Searching clinical trials...</span>';
+        container.innerHTML = '<span class="trials-loading">임상시험 검색 중...</span>';
 
         const result = await searchClinicalTrials(drugName, indicationName);
 
         if (result.totalCount === 0) {
-          container.innerHTML = '<span class="trials-none">No related clinical trials</span>';
+          container.innerHTML = '<span class="trials-none">관련 임상시험이 없습니다</span>';
           return;
         }
 
         let html = `
           <div class="trials-summary">
-            <strong>${result.totalCount}</strong> related clinical trials found
+            <strong>${result.totalCount}</strong> 건의 관련 임상시험을 찾았습니다
           </div>
           <div class="trials-list">
         `;
@@ -946,7 +946,7 @@
           const searchUrl = `https://clinicaltrials.gov/search?cond=${encodeURIComponent(indicationName)}&intr=${encodeURIComponent(drugName)}`;
           html += `
             <a href="${searchUrl}" target="_blank" class="trials-more">
-              View all ${result.totalCount} clinical trials →
+              임상시험 ${result.totalCount}건 모두 보기 →
             </a>
           `;
         }
@@ -974,14 +974,14 @@
        */
       function formatTrialStatus(status) {
         const statusMap = {
-          'RECRUITING': 'Recruiting',
-          'ACTIVE_NOT_RECRUITING': 'Active, not recruiting',
-          'COMPLETED': 'Completed',
-          'TERMINATED': 'Terminated',
-          'NOT_YET_RECRUITING': 'Not yet recruiting',
-          'SUSPENDED': 'Suspended',
-          'WITHDRAWN': 'Withdrawn',
-          'ENROLLING_BY_INVITATION': 'Enrolling by invitation'
+          'RECRUITING': '모집 중',
+          'ACTIVE_NOT_RECRUITING': '진행 중(모집 종료)',
+          'COMPLETED': '완료',
+          'TERMINATED': '조기 종료',
+          'NOT_YET_RECRUITING': '모집 전',
+          'SUSPENDED': '일시 중단',
+          'WITHDRAWN': '철회',
+          'ENROLLING_BY_INVITATION': '초청 등록'
         };
         return statusMap[status] || status;
       }
@@ -1004,7 +1004,7 @@
       clearBtn.addEventListener('click', () => {
         selectedDrugs = [];
         renderTags();
-        resultsDiv.innerHTML = '<div class="empty-state"><p>Add drugs and click the "Search" button</p></div>';
+        resultsDiv.innerHTML = '<div class="empty-state"><p>약품을 추가한 뒤 "재창출 후보 검색"을 누르세요</p></div>';
       });
 
       // Sample drug buttons
