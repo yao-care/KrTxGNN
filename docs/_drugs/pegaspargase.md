@@ -45,7 +45,7 @@ TxGNN 모델은 **전핵심 중심 이전 만성 림프구성 백혈병/소림�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101033/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202101033/EE) |
 | 예측 신규 적응증 | 전핵심 중심 이전 만성 림프구성 백혈병/소림프구성 림프종 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

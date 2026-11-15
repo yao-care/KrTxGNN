@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Phentolamine"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "blue toe syndrome", "angiodysplasia of stomach", "hemangioendothelioma", "atheroembolism of kidney", "idiopathic spontaneous coronary artery dissection"]
 last_modified_at: 2026-10-31
-description: "Phentolamine: 예측 신규 적응증 내장 석회화 방어 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200196/EE"
+description: "Phentolamine: 예측 신규 적응증 내장 석회화 방어 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Phentolamine
@@ -45,7 +45,7 @@ TxGNN 모델은 **내장 석회화 방어(visceral calciphylaxis)**에 효과가
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200196/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200196/EE) |
 | 예측 신규 적응증 | 내장 석회화 방어 (visceral calciphylaxis) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

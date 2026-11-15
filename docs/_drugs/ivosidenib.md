@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-10-31
 monitor_inn: "IVOSIDENIB"
 predicted_indications: ["bulbar polio"]
-description: "Ivosidenib: 예측 신규 적응증 Bulbar polio (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401253/EE"
+description: "Ivosidenib: 예측 신규 적응증 Bulbar polio (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Ivosidenib
@@ -46,7 +46,7 @@ TxGNN 모델은 첫 번째 예측으로 **구마비 소아마비(bulbar polio)**
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401253/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202401253/EE) |
 | 예측 신규 적응증 | Bulbar polio |
 | TxGNN 예측 점수 | 0.9931 |
 | 근거 수준 | L5 (모델 예측만 있음) |

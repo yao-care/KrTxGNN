@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
 last_modified_at: 2026-10-31
-description: "Thiopental: 예측 신규 적응증 Trichotillomania (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308471/EE"
+description: "Thiopental: 예측 신규 적응증 Trichotillomania (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Thiopental
@@ -44,7 +44,7 @@ Thiopental(치오펜탈)은 한국에서 주사용 분말 제제(펜토탈소디
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308471/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109981/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198601870/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308471/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200109981/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198601870/EE) |
 | 예측 신규 적응증 | Trichotillomania |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L5 |

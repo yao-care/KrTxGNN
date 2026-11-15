@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "cefprozil"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
 last_modified_at: 2026-10-31
-description: "Cefprozil: 예측 신규 적응증 요로감염 (urinary tract infection (disease)) (근거 수준 L1). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404706/EE"
+description: "Cefprozil: 예측 신규 적응증 요로감염 (urinary tract infection (disease)) (근거 수준 L1). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Cefprozil
@@ -45,7 +45,7 @@ TxGNN 모델은 **요로감염(urinary tract infection (disease))**에 효과가
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404706/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402305/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400642/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707994/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402965/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404706/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402305/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400642/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707994/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402965/EE);  |
 | 예측 신규 적응증 | 요로감염 (urinary tract infection (disease)) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L1 |

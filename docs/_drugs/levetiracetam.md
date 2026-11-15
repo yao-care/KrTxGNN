@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
 last_modified_at: 2026-10-31
-description: "Levetiracetam: 예측 신규 적응증 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805181/EE"
+description: "Levetiracetam: 예측 신규 적응증 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Levetiracetam
@@ -45,7 +45,7 @@ TxGNN 모델은 **베타-케토티올라제 결핍증(beta-ketothiolase deficien
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805181/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301649/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908013/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201208482/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207471/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805181/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301649/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201908013/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201208482/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201207471/EE);  |
 | 예측 신규 적응증 | 베타-케토티올라제 결핍증 (beta-ketothiolase deficiency) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |

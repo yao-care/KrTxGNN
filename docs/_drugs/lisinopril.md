@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 last_modified_at: 2026-10-31
-description: "Lisinopril: 예측 신규 적응증 저산소증 및/또는 폐질환에 의한 폐고혈압 (pulmonary hypertension owing to lung disease and/or hypoxia) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199002095/EE"
+description: "Lisinopril: 예측 신규 적응증 저산소증 및/또는 폐질환에 의한 폐고혈압 (pulmonary hypertension owing to lung disease and/or hypoxia) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Lisinopril
@@ -45,7 +45,7 @@ TxGNN 모델은 **저산소증 및/또는 폐질환에 의한 폐고혈압(pulmo
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199002095/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199002095/EE) |
 | 예측 신규 적응증 | 저산소증 및/또는 폐질환에 의한 폐고혈압 (pulmonary hypertension owing to lung disease and/or hypoxia) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |

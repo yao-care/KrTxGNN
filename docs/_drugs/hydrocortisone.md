@@ -45,7 +45,7 @@ TxGNN 모델은 **원형 탈모증(alopecia areata)**에 효과가 있을 수 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 약은 습진ㆍ피부염군, 피부가려움, 벌레물린데에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300823/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308923/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500300/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701116/EE; https://nedrug.mfds.go.k |
+| 기존 적응증 | 이 약은 습진ㆍ피부염군, 피부가려움, 벌레물린데에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300823/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308923/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500300/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701116/EE); https://nedrug.mfds.go.k |
 | 예측 신규 적응증 | 원형 탈모증 (alopecia areata) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L2 |

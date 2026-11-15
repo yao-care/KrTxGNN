@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
 last_modified_at: 2026-11-12
-description: "Nefopam: 예측 신규 적응증 두개골 유합증 백내장 (craniostenosis cataract) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601070/EE"
+description: "Nefopam: 예측 신규 적응증 두개골 유합증 백내장 (craniostenosis cataract) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Nefopam
@@ -45,7 +45,7 @@ TxGNN 모델은 **두개골 유합증 백내장(craniostenosis cataract)**에 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601070/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707840/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704469/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601358/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606703/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601070/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707840/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201704469/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201601358/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606703/EE);  |
 | 예측 신규 적응증 | 두개골 유합증 백내장 (craniostenosis cataract) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
 last_modified_at: 2026-11-05
-description: "Docetaxel: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001267/EE"
+description: "Docetaxel: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Docetaxel
@@ -45,7 +45,7 @@ TxGNN 모델은 **유잉 육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001267/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200907781/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004765/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502916/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110777/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001267/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200907781/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004765/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201502916/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110777/EE);  |
 | 예측 신규 적응증 | 유잉 육종 (Ewing sarcoma) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L2 |

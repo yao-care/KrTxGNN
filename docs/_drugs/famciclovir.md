@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "FAMCICLOVIR"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 last_modified_at: 2026-10-31
-description: "Famciclovir: 예측 신규 적응증 사후 감염성 신경통 (post-infectious neuralgia) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306322/EE"
+description: "Famciclovir: 예측 신규 적응증 사후 감염성 신경통 (post-infectious neuralgia) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Famciclovir
@@ -45,7 +45,7 @@ TxGNN 모델은 **사후 감염성 신경통(post-infectious neuralgia)**에 효
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306322/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403232/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200268/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600500/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500714/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306322/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403232/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200268/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200600500/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500714/EE);  |
 | 예측 신규 적응증 | 사후 감염성 신경통 (post-infectious neuralgia) |
 | TxGNN 예측 점수 | 0.9975 |
 | 근거 수준 | L5 |

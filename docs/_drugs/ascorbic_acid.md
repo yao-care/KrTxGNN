@@ -46,7 +46,7 @@ TxGNN 모델은 **비증후군성 식도 기형(non-syndromic esophageal malform
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 약은 치주치료 후 치은염, 경·중등도 치주염의 보조치료에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107088/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196900028/EE; 이 약은 육체피로, 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시, 노년기의 비타민 E, B1, B2, B6, C의 보급과 말초혈행장애 및 갱년기 시 어깨·목결림, 수족저림·수족냉증(손발이 차가움), 신경통, 근육통, 관절통 |
+| 기존 적응증 | 이 약은 치주치료 후 치은염, 경·중등도 치주염의 보조치료에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107088/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196900028/EE); 이 약은 육체피로, 임신·수유기, 병중·병후(병을 앓는 동안이나 회복 후)의 체력저하 시, 노년기의 비타민 E, B1, B2, B6, C의 보급과 말초혈행장애 및 갱년기 시 어깨·목결림, 수족저림·수족냉증(손발이 차가움), 신경통, 근육통, 관절통 |
 | 예측 신규 적응증 | 비증후군성 식도 기형 (non-syndromic esophageal malformation) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |

@@ -42,7 +42,7 @@ evidence_level: N/A
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 약은 혈관성 뇌질환 후유증, 기억력 장해, 집중력 장해 등의 정신 신경쇠약에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007983/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200553/EE |
+| 기존 적응증 | 이 약은 혈관성 뇌질환 후유증, 기억력 장해, 집중력 장해 등의 정신 신경쇠약에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202007983/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200553/EE) |
 | 한국 시판 현황 | 허가되었으나 미시판 (수출용 허가만 유효: 3건 / 전체 3건) |
 | 허가증 수 | 3건 (국내 0건 · 유효 0건 / 수출용 3건 · 유효 3건) |
 

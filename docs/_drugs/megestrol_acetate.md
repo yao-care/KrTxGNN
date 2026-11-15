@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "Megestrol acetate"
 predicted_indications: ["hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "malignant dysgerminomatous germ cell tumor of ovary"]
 last_modified_at: 2026-11-05
-description: "Megestrol Acetate: 예측 신규 적응증 유전성 유방암·난소암 증후군 (hereditary breast ovarian cancer syndrome) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202081/EE"
+description: "Megestrol Acetate: 예측 신규 적응증 유전성 유방암·난소암 증후군 (hereditary breast ovarian cancer syndrome) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Megestrol Acetate
@@ -46,7 +46,7 @@ TxGNN 모델은 **유전성 유방암·난소암 증후군(hereditary breast ova
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202081/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706640/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807473/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802700/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200709257/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201202081/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706640/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200807473/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200802700/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200709257/EE);  |
 | 예측 신규 적응증 | 유전성 유방암·난소암 증후군 (hereditary breast ovarian cancer syndrome) |
 | TxGNN 예측 점수 | 0.9989 |
 | 근거 수준 | L5 |

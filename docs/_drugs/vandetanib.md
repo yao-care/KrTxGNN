@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-04
 monitor_inn: "Vandetanib"
 predicted_indications: ["renal cell carcinoma (disease)", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal pelvis carcinoma", "clear cell renal carcinoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax"]
-description: "Vandetanib: 예측 신규 적응증 신세포암 (renal cell carcinoma (disease)) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307454/EE"
+description: "Vandetanib: 예측 신규 적응증 신세포암 (renal cell carcinoma (disease)) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Vandetanib
@@ -44,7 +44,7 @@ Vandetanib은 VEGFR-2, EGFR, RET 티로신 키나제를 억제하는 경구 항�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307454/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307453/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307454/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307453/EE) |
 | 예측 신규 적응증 | 신세포암 (renal cell carcinoma (disease)) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L3 |

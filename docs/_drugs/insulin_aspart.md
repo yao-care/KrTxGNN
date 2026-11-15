@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 last_modified_at: 2026-11-12
-description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806023/EE"
+description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Insulin Aspart
@@ -44,7 +44,7 @@ description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (au
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806023/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802922/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802919/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307983/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210111/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200806023/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802922/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802919/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307983/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200210111/EE);  |
 | 예측 신규 적응증 | 자가면역 난소염 (autoimmune oophoritis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L5 |

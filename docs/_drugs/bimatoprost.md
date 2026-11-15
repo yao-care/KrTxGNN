@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
 last_modified_at: 2026-10-31
-description: "Bimatoprost: 예측 신규 적응증 치아 및/또는 치주 구성 요소를 가진 기형 증후군 (malformation syndrome with odontal and/or periodontal component) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805356/EE"
+description: "Bimatoprost: 예측 신규 적응증 치아 및/또는 치주 구성 요소를 가진 기형 증후군 (malformation syndrome with odontal and/or periodontal component) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Bimatoprost
@@ -45,7 +45,7 @@ TxGNN 모델은 **치아 및/또는 치주 구성 요소를 가진 기형 증후
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805356/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007673/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200805356/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007673/EE) |
 | 예측 신규 적응증 | 치아 및/또는 치주 구성 요소를 가진 기형 증후군 (malformation syndrome with odontal and/or periodontal component) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

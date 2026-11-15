@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-05
 monitor_inn: "citric acid"
 predicted_indications: ["stomach disease", "pharyngitis", "acute laryngopharyngitis", "postgastrectomy syndrome", "nasal cavity disease", "papillary conjunctivitis", "blepharoconjunctivitis", "rhinitis"]
-description: "Citric Acid: 예측 신규 적응증 위 질환 (stomach disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001923/EE"
+description: "Citric Acid: 예측 신규 적응증 위 질환 (stomach disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Citric Acid
@@ -44,7 +44,7 @@ Citric acid(구연산)는 산성화제·항응고 보조제 등으로 쓰이는 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001923/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708092/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206101/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108434/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110121/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200001923/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201708092/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201206101/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200108434/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201110121/EE);  |
 | 예측 신규 적응증 | 위 질환 (stomach disease) |
 | TxGNN 예측 점수 | 0.9974 |
 | 근거 수준 | L5 |

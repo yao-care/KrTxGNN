@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 last_modified_at: 2026-10-31
-description: "Carvedilol: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905581/EE"
+description: "Carvedilol: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Carvedilol
@@ -44,7 +44,7 @@ Carvedilol은 알파-1/베타 차단 작용을 가진 약물입니다. TxGNN 모
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905581/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701226/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805248/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100858/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201200186/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201905581/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701226/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201805248/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200100858/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201200186/EE);  |
 | 예측 신규 적응증 | 악성 고혈압성 신질환 (malignant hypertensive renal disease) |
 | TxGNN 예측 점수 | 0.9955 |
 | 근거 수준 | L5 |

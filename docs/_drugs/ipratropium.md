@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "ipratropium"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
 last_modified_at: 2026-11-05
-description: "Ipratropium: 예측 신규 적응증 비강 질환 (nasal cavity disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803475/EE"
+description: "Ipratropium: 예측 신규 적응증 비강 질환 (nasal cavity disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Ipratropium
@@ -44,7 +44,7 @@ Ipratropium은 무스카린 수용체를 차단하는 항콜린성 약물로, �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803475/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199304302/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199803475/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199304302/EE) |
 | 예측 신규 적응증 | 비강 질환 (nasal cavity disease) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |

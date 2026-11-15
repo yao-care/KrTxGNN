@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-10-31
-description: "Omeprazole: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301653/EE"
+description: "Omeprazole: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Omeprazole
@@ -44,7 +44,7 @@ Omeprazole은 위산 분비를 억제하는 양성자펌프 억제제 계열 약
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301653/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202074/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504046/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199302187/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504045/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301653/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199202074/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504046/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199302187/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504045/EE);  |
 | 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
 | TxGNN 예측 점수 | 0.9964 |
 | 근거 수준 | L5 |

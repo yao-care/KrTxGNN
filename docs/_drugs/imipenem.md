@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-05
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
-description: "Imipenem: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703652/EE"
+description: "Imipenem: 예측 신규 적응증 미만성 피부경화증 (diffuse scleroderma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Imipenem
@@ -44,7 +44,7 @@ Imipenem은 세균 세포벽 합성을 억제하는 카바페넴계 항생제입
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703652/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200703652/EE) |
 | 예측 신규 적응증 | 미만성 피부경화증 (diffuse scleroderma) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

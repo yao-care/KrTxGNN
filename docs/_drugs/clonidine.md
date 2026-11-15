@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
 last_modified_at: 2026-10-31
-description: "Clonidine: 예측 신규 적응증 안면지생식기 증후군 (faciodigitogenital syndrome) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201302802/EE"
+description: "Clonidine: 예측 신규 적응증 안면지생식기 증후군 (faciodigitogenital syndrome) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Clonidine
@@ -45,7 +45,7 @@ TxGNN 모델은 **안면지생식기 증후군(faciodigitogenital syndrome)**에
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201302802/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201302802/EE) |
 | 예측 신규 적응증 | 안면지생식기 증후군 (faciodigitogenital syndrome) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |

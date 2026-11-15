@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-04
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
-description: "Apixaban: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400817/EE"
+description: "Apixaban: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Apixaban
@@ -44,7 +44,7 @@ Apixaban은 경구 인자 Xa 억제 항응고제 계열의 약물입니다. TxGN
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400817/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801005/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800474/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801643/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801644/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400817/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801005/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800474/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801643/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201801644/EE);  |
 | 예측 신규 적응증 | 편두통 (migraine disorder) |
 | TxGNN 예측 점수 | 0.9902 |
 | 근거 수준 | L5 |

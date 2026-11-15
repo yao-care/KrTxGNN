@@ -42,7 +42,7 @@ evidence_level: N/A
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 약은 습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물린데, 두드러기에 사용합니다.; 이 약은 습진, 피부염, 가려움, 두드러기, 땀띠, 벌레물린데에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204538/EE; 이 약은 피부가려움에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701274/EE |
+| 기존 적응증 | 이 약은 습진, 피부염, 땀띠, 옻 등에 의한 피부염, 가려움, 벌레물린데, 두드러기에 사용합니다.; 이 약은 습진, 피부염, 가려움, 두드러기, 땀띠, 벌레물린데에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204538/EE); 이 약은 피부가려움에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701274/EE) |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 |
 

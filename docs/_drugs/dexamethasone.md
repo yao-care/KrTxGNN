@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 last_modified_at: 2026-11-03
-description: "Dexamethasone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196300064/EE"
+description: "Dexamethasone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Dexamethasone
@@ -46,7 +46,7 @@ TxGNN 모델은 **점액성 탈모증(alopecia mucinosa)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196300064/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200559/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201111067/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199602981/EE; 이 약은 습진·피부염군(진행성 지장각피증, 만성단순태선, 일광피부염 포함), 양진군(구진두드러기 포함), 벌 |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/196300064/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200559/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201111067/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199602981/EE); 이 약은 습진·피부염군(진행성 지장각피증, 만성단순태선, 일광피부염 포함), 양진군(구진두드러기 포함), 벌 |
 | 예측 신규 적응증 | 점액성 탈모증 (alopecia mucinosa) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

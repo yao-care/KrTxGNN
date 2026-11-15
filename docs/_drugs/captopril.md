@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 last_modified_at: 2026-11-05
-description: "Captopril: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198600630/EE"
+description: "Captopril: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Captopril
@@ -44,7 +44,7 @@ Captopril은 안지오텐신 전환효소(ACE)를 억제하는 약물입니다. 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198600630/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500320/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804337/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199703532/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504524/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198600630/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500320/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200804337/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199703532/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201504524/EE);  |
 | 예측 신규 적응증 | 악성 고혈압성 신질환 (malignant hypertensive renal disease) |
 | TxGNN 예측 점수 | 0.9928 |
 | 근거 수준 | L5 |

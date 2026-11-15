@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-05
 monitor_inn: "TENECTEPLASE"
 predicted_indications: ["congenital coronary artery anomaly", "coronary stenosis", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
-description: "Tenecteplase: 예측 신규 적응증 Congenital coronary artery anomaly (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502617/EE"
+description: "Tenecteplase: 예측 신규 적응증 Congenital coronary artery anomaly (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Tenecteplase
@@ -45,7 +45,7 @@ Tenecteplase는 섬유소 특이적 조직 플라스미노겐 활성화제로, �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502617/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502617/EE) |
 | 예측 신규 적응증 | Congenital coronary artery anomaly |
 | TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 |

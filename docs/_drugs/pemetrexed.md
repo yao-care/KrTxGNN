@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
 last_modified_at: 2026-11-12
-description: "Pemetrexed: 예측 신규 적응증 흉막 선양종양 (pleural adenomatoid tumor) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201204635/EE"
+description: "Pemetrexed: 예측 신규 적응증 흉막 선양종양 (pleural adenomatoid tumor) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Pemetrexed
@@ -44,7 +44,7 @@ Pemetrexed는 엽산 대사를 억제하는 항엽산제 계열의 세포독성 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201204635/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301225/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800591/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501028/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505185/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201204635/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301225/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800591/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201501028/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201505185/EE);  |
 | 예측 신규 적응증 | 흉막 선양종양 (pleural adenomatoid tumor) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

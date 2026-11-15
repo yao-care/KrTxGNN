@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "ALTEPLASE"
 predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 last_modified_at: 2026-10-31
-description: "Alteplase: 예측 신규 적응증 헤파린 보조인자 2 결핍 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504213/EE"
+description: "Alteplase: 예측 신규 적응증 헤파린 보조인자 2 결핍 (heparin cofactor 2 deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Alteplase
@@ -45,7 +45,7 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍(heparin cofactor 2 deficiency)
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504213/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806573/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199504213/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199806573/EE) |
 | 예측 신규 적응증 | 헤파린 보조인자 2 결핍 (heparin cofactor 2 deficiency) |
 | TxGNN 예측 점수 | 0.9972 |
 | 근거 수준 | L5 |

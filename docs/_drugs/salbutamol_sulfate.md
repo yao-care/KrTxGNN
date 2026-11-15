@@ -44,7 +44,7 @@ Evidence Pack을 분석했습니다. 해당 약물은 예측 적응증, 허가 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900576/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607690/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209634/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199906869/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907319/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900576/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200607690/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209634/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199906869/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199907319/EE) |
 | 한국 시판 현황 | 시판 중 (유효 허가 5건 / 전체 6건) |
 | 허가증 수 | 6건 (유효 5건) |
 

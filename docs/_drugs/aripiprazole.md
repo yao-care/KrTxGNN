@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-03
 monitor_inn: "ARIPIPRAZOLE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
-description: "Aripiprazole: 예측 신규 적응증 Gaze palsy, familial horizontal, with progressive scoliosis (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202888/EE"
+description: "Aripiprazole: 예측 신규 적응증 Gaze palsy, familial horizontal, with progressive scoliosis (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Aripiprazole
@@ -44,7 +44,7 @@ Aripiprazole은 D2/5-HT1A 부분 작용제이자 5-HT2A 길항제로, 한국에�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202888/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204039/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107807/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500429/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603078/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200202888/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204039/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202107807/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500429/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201603078/EE);  |
 | 예측 신규 적응증 | Gaze palsy, familial horizontal, with progressive scoliosis |
 | TxGNN 예측 점수 | 0.9960 |
 | 근거 수준 | L5 (완료된 Phase 3 RCT 다수) |

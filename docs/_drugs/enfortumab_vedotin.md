@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Enfortumab vedotin"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
 last_modified_at: 2026-10-31
-description: "Enfortumab Vedotin: 예측 신규 적응증 나병 (leprosy) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300822/EE"
+description: "Enfortumab Vedotin: 예측 신규 적응증 나병 (leprosy) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Enfortumab Vedotin
@@ -48,7 +48,7 @@ TxGNN 모델은 **나병(leprosy)**에 효과가 있을 수 있다고 예측하�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300822/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300823/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300822/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300823/EE) |
 | 예측 신규 적응증 | 나병 (leprosy) |
 | TxGNN 예측 점수 | 0.9953 |
 | 근거 수준 | L5 |

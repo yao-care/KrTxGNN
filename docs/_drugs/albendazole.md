@@ -45,7 +45,7 @@ Albendazole은 회충, 요충, 십이지장충, 편충, 구충, 분선충 감염
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 약은 회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002981/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199502401/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403206/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900053/ |
+| 기존 적응증 | 이 약은 회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002981/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199502401/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403206/EE); https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198900053/ |
 | 예측 신규 적응증 | Coenurosis |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 (완료된 Phase 2 시험 1건; 무작위·대조 설계 여부는 시험 기록 확인 필요) |
