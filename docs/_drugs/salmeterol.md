@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
 last_modified_at: 2026-11-03
-description: "Salmeterol: 예측 신규 적응증 호흡기 기형 (respiratory malformation) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400305/EE"
+description: "Salmeterol: 예측 신규 적응증 호흡기 기형 (respiratory malformation) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Salmeterol
@@ -46,7 +46,7 @@ TxGNN 모델은 **호흡기 기형(respiratory malformation)**에 효과가 있�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400305/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400307/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900814/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400306/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900815/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400305/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400307/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900814/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400306/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201900815/EE);  |
 | 예측 신규 적응증 | 호흡기 기형 (respiratory malformation) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L5 |

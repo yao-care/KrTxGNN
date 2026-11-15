@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-05
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-description: "Tamoxifen: 예측 신규 적응증 유방 파제트병 (mammary Paget disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403106/EE"
+description: "Tamoxifen: 예측 신규 적응증 유방 파제트병 (mammary Paget disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Tamoxifen
@@ -44,7 +44,7 @@ Tamoxifen은 에스트로겐 수용체(ER)를 차단하는 항에스트로겐제
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403106/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199302443/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402432/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904114/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203344/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199403106/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199302443/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200402432/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904114/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199203344/EE);  |
 | 예측 신규 적응증 | 유방 파제트병 (mammary Paget disease) |
 | TxGNN 예측 점수 | 0.9969 |
 | 근거 수준 | L5 (기전적 타당성과 증례 수준의 간접 근거) |

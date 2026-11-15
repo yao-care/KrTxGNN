@@ -46,7 +46,7 @@ TxGNN 모델은 **점상 상피성 각결막염(punctate epithelial keratoconjun
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 약은 재발성 구순포진의 초기 치료에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801312/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701432/EE; 이 약은 단순포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진(물집)과 구순포진(물집) 포함)에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201002/EE; https://nedrug.mfds.go.k |
+| 기존 적응증 | 이 약은 재발성 구순포진의 초기 치료에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199801312/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199701432/EE); 이 약은 단순포진(물집) 바이러스 감염증(초기 및 재발성 생식기 포진(물집)과 구순포진(물집) 포함)에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199201002/EE); https://nedrug.mfds.go.k |
 | 예측 신규 적응증 | 점상 상피성 각결막염 (punctate epithelial keratoconjunctivitis) |
 | TxGNN 예측 점수 | 0.9967 |
 | 근거 수준 | L5 |

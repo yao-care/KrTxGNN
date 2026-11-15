@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-03
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
-description: "Pimecrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209697/EE"
+description: "Pimecrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Pimecrolimus
@@ -45,7 +45,7 @@ TxGNN 모델은 **지루피부염(Seborrheic Dermatitis)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209697/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200209697/EE) |
 | 예측 신규 적응증 | 지루피부염 (seborrheic dermatitis) |
 | TxGNN 예측 점수 | 0.9973 |
 | 근거 수준 | L2 |

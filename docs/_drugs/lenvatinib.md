@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-04
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-description: "Lenvatinib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507059/EE"
+description: "Lenvatinib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Lenvatinib
@@ -45,7 +45,7 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507059/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507057/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507059/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201507057/EE) |
 | 예측 신규 적응증 | 지방육종 (liposarcoma) |
 | TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L3 |

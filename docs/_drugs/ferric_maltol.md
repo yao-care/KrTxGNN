@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "FERRIC MALTOL"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
-description: "Ferric Maltol: 예측 신규 적응증 Vitamin B12- and folate-independent constitutional megaloblastic anemia (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502868/EE"
+description: "Ferric Maltol: 예측 신규 적응증 Vitamin B12- and folate-independent constitutional megaloblastic anemia (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Ferric Maltol
@@ -44,7 +44,7 @@ Ferric Maltol(제이철말톨)은 경구 철분 보충제로, 한국에서는 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502868/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202502868/EE) |
 | 예측 신규 적응증 | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "antidepressant type abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-11-05
-description: "Diazepam: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501812/EE"
+description: "Diazepam: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Diazepam
@@ -46,7 +46,7 @@ TxGNN 모델은 **불면증(insomnia (disease))**에 효과가 있을 수 있다
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501812/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501813/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197900546/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197700525/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197700535/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501812/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198501813/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197900546/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197700525/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197700535/EE);  |
 | 예측 신규 적응증 | 불면증 (insomnia (disease)) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L2 |

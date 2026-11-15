@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "CALCIFEDIOL"
 predicted_indications: ["renal tubular acidosis"]
 last_modified_at: 2026-11-06
-description: "Calcifediol: 예측 신규 적응증 신세뇨관 산증 (renal tubular acidosis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE"
+description: "Calcifediol: 예측 신규 적응증 신세뇨관 산증 (renal tubular acidosis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Calcifediol
@@ -45,7 +45,7 @@ TxGNN 모델은 **신세뇨관 산증(renal tubular acidosis)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301717/EE) |
 | 예측 신규 적응증 | 신세뇨관 산증 (renal tubular acidosis) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |

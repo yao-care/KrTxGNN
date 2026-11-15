@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-04
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-description: "Clozapine: 예측 신규 적응증 조증 양극성 정동장애 (manic bipolar affective disorder) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804185/EE"
+description: "Clozapine: 예측 신규 적응증 조증 양극성 정동장애 (manic bipolar affective disorder) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Clozapine
@@ -44,7 +44,7 @@ Clozapine은 도파민, 세로토닌, 무스카린, 아드레날린, 히스타�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804185/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307798/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804474/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309789/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307799/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804185/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307798/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804474/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309789/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200307799/EE);  |
 | 예측 신규 적응증 | 조증 양극성 정동장애 (manic bipolar affective disorder) |
 | TxGNN 예측 점수 | 0.9995 |
 | 근거 수준 | L2 |

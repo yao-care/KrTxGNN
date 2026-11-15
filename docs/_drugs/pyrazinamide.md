@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-05
 monitor_inn: "PYRAZINAMIDE"
 predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
-description: "Pyrazinamide: 예측 신규 적응증 감염성 중이염 (infectious otitis media) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800131/EE"
+description: "Pyrazinamide: 예측 신규 적응증 감염성 중이염 (infectious otitis media) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Pyrazinamide
@@ -46,7 +46,7 @@ TxGNN 모델은 **감염성 중이염(Infectious Otitis Media)**에 효과가 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800131/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800132/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199402351/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199402370/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800131/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800132/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199402351/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199402370/EE) |
 | 예측 신규 적응증 | 감염성 중이염 (infectious otitis media) |
 | TxGNN 예측 점수 | 0.9996 |
 | 근거 수준 | L5 |

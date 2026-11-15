@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-04
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
-description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201161/EE"
+description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Sofosbuvir
@@ -45,7 +45,7 @@ TxGNN 모델은 **B형 간염 바이러스 감염(hepatitis B virus infection)**
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201161/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200754/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202201161/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202200754/EE) |
 | 예측 신규 적응증 | B형 간염 바이러스 감염 (hepatitis B virus infection) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L3 |

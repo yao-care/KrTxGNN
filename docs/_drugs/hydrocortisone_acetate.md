@@ -44,7 +44,7 @@ Hydrocortisone Acetate는 항염증·면역억제 작용을 가진 글루코코�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 약은 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103331/EE |
+| 기존 적응증 | 이 약은 습진, 땀띠, 피부 가려움, 알레르기 피부질환, 화상, 동상에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200103331/EE) |
 | 예측 신규 적응증 | 원형탈모증 (alopecia areata) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L2 |

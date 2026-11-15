@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "ABATACEPT"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 last_modified_at: 2026-10-31
-description: "Abatacept: 예측 신규 적응증 강직성 척추염 (ankylosing spondylitis) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307568/EE"
+description: "Abatacept: 예측 신규 적응증 강직성 척추염 (ankylosing spondylitis) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Abatacept
@@ -45,7 +45,7 @@ TxGNN 모델은 **강직성 척추염(ankylosing spondylitis)**에 효과가 있
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307568/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002332/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201307568/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201002332/EE) |
 | 예측 신규 적응증 | 강직성 척추염 (ankylosing spondylitis) |
 | TxGNN 예측 점수 | 0.9991 |
 | 근거 수준 | L3 |

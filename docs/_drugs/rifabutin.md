@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-03
 monitor_inn: "Rifabutin"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
-description: "Rifabutin: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400200/EE"
+description: "Rifabutin: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Rifabutin
@@ -45,7 +45,7 @@ TxGNN 모델은 **HIV 감염증(HIV infectious disease)**에 효과가 있을 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400200/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400200/EE) |
 | 예측 신규 적응증 | HIV 감염증 (HIV infectious disease) |
 | TxGNN 예측 점수 | 0.9988 |
 | 근거 수준 | L5 |

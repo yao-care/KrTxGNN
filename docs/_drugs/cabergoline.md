@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "CABERGOLINE"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 last_modified_at: 2026-10-31
-description: "Cabergoline: 예측 신규 적응증 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800320/EE"
+description: "Cabergoline: 예측 신규 적응증 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Cabergoline
@@ -46,7 +46,7 @@ TxGNN 모델은 **조로증-저신장-색소성 모반 증후군(progeria-short 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800320/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500627/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500628/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309603/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800318/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800320/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500627/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500628/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201309603/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800318/EE);  |
 | 예측 신규 적응증 | 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) |
 | TxGNN 예측 점수 | 0.9906 |
 | 근거 수준 | L5 |

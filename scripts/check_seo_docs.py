@@ -33,6 +33,7 @@
 
   21. 正文許可證張數（「허가 N건」這類敘述）＝依 snapshots/kr_licenses.json.gz 事實層程式改寫的結果
       （scripts/rewrite_license_counts.py、src/krtxgnn/regulatory/count_prose.py；再跑一次不會變）（2026-11-12）。
+  22. 藥物頁「기존 적응증」列與 description 沒有裸露的 MFDS PDF 網址（scripts/link_mfds_pdfs.py；再跑一次不會變）（2026-11-15）。
 2026-11-12 起本站有自己的查核機制（核心流程比照 TwTxGNN，用戶決定 30 站各自建立）：第 17–20 項對應 Tw 的
 查核紀錄、許可證、頁首等級、撤回預測檢查（第 21 項：正文許可證張數，對應 Tw gate 第 6 項的張數檢查），規則在本站 src/krtxgnn/regulatory/ 與 scripts/apply_drug_reviews.py。
 
@@ -790,6 +791,8 @@ if _left:
                   "（重產 search-index／FHIR／scripts/drug_list.json，撤回名單見 src/krtxgnn/regulatory/withdrawn.py）")
 from rewrite_license_counts import check_errors as _count_errors  # noqa: E402
 errors += _count_errors()  # 21) 正文許可證張數＝程式改寫結果
+from link_mfds_pdfs import check_errors as _mfds_errors  # noqa: E402
+errors += _mfds_errors()  # 22) 「기존 적응증」沒有裸露的 MFDS PDF 網址
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

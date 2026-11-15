@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 last_modified_at: 2026-11-05
-description: "Progesterone: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE"
+description: "Progesterone: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L4). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Progesterone
@@ -44,7 +44,7 @@ Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711790/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600485/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706721/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202008202/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200705309/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200711790/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600485/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200706721/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202008202/EE);  |
 | 예측 신규 적응증 | 유방 섬유낭성 질환 (breast fibrocystic disease) |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L4 |

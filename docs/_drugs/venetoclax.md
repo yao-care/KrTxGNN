@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-03
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
-description: "Venetoclax: 예측 신규 적응증 Hodgkins lymphoma (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE"
+description: "Venetoclax: 예측 신규 적응증 Hodgkins lymphoma (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Venetoclax
@@ -46,7 +46,7 @@ TxGNN 모델은 **전배중심 CLL/SLL(pregerminal center CLL/SLL, IGHV 비돌�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903543/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903542/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903544/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903543/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903542/EE) |
 | 예측 신규 적응증 | Hodgkins lymphoma |
 | TxGNN 예측 점수 | 0.9951 |
 | 근거 수준 | L5 |

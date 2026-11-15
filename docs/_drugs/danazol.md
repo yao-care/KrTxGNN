@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 last_modified_at: 2026-11-03
-description: "Danazol: 예측 신규 적응증 무월경 (amenorrhea (disease)) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401028/EE"
+description: "Danazol: 예측 신규 적응증 무월경 (amenorrhea (disease)) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Danazol
@@ -44,7 +44,7 @@ Danazol은 항성선자극 작용을 가진 합성 안드로겐 유도체입니�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401028/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401033/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401028/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198401033/EE) |
 | 예측 신규 적응증 | 무월경 (amenorrhea (disease)) |
 | TxGNN 예측 점수 | 1.0000 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-10-31
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-description: "Tolvaptan: 예측 신규 적응증 Renal-hepatic-pancreatic dysplasia (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203115/EE"
+description: "Tolvaptan: 예측 신규 적응증 Renal-hepatic-pancreatic dysplasia (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Tolvaptan
@@ -44,7 +44,7 @@ Tolvaptan은 선택적 바소프레신 V2 수용체 길항제로, 한국에서 4
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203115/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203114/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004774/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202617/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203115/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202203114/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202004774/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202202617/EE) |
 | 예측 신규 적응증 | Renal-hepatic-pancreatic dysplasia |
 | TxGNN 예측 점수 | 0.9998 |
 | 근거 수준 | L5 (ADPKD 전체 계열 기준의 직접 근거이며, PKD3에는 외삽) |

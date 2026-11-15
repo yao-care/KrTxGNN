@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-06
 monitor_inn: "POLYVINYL ALCOHOL"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
-description: "Polyvinyl Alcohol: 예측 신규 적응증 선천성 어린선증양 홍색피부증 (congenital ichthyosiform erythroderma) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503557/EE"
+description: "Polyvinyl Alcohol: 예측 신규 적응증 선천성 어린선증양 홍색피부증 (congenital ichthyosiform erythroderma) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Polyvinyl Alcohol
@@ -45,7 +45,7 @@ TxGNN 모델은 **선천성 어린선증양 홍색피부증(Congenital Ichthyosi
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503557/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200908143/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201101693/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500494/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004679/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201503557/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200908143/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201101693/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199500494/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201004679/EE);  |
 | 예측 신규 적응증 | 선천성 어린선증양 홍색피부증 (congenital ichthyosiform erythroderma) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L5 |

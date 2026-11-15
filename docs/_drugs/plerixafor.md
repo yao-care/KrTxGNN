@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 last_modified_at: 2026-10-31
-description: "Plerixafor: 예측 신규 적응증 CMM7 (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201000845/EE"
+description: "Plerixafor: 예측 신규 적응증 CMM7 (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Plerixafor
@@ -46,7 +46,7 @@ TxGNN 모델은 **CMM7(CMM7)**에 효과가 있을 수 있다고 예측했지만
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201000845/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303176/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201000845/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202303176/EE) |
 | 예측 신규 적응증 | CMM7 (CMM7) |
 | TxGNN 예측 점수 | 0.9934 |
 | 근거 수준 | L5 |

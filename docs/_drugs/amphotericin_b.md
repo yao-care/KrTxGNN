@@ -50,7 +50,7 @@ Evidence Pack 분석 완료. `predicted_indications: []`이고 `original_indicat
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199704225/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500709/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308660/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199304444/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199704225/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202500709/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308660/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199304444/EE) |
 | 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
 | 허가증 수 | 4건 (유효 4건) |
 

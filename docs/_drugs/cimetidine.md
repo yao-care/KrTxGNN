@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "CIMETIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
 last_modified_at: 2026-10-31
-description: "Cimetidine: 예측 신규 적응증 소화성 궤양 천공 (peptic ulcer perforation) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200521/EE"
+description: "Cimetidine: 예측 신규 적응증 소화성 궤양 천공 (peptic ulcer perforation) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Cimetidine
@@ -45,7 +45,7 @@ TxGNN 모델은 **소화성 궤양 천공(peptic ulcer perforation)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200521/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800307/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200503802/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800165/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501464/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200200521/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800307/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200503802/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197800165/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501464/EE);  |
 | 예측 신규 적응증 | 소화성 궤양 천공 (peptic ulcer perforation) |
 | TxGNN 예측 점수 | 0.9977 |
 | 근거 수준 | L5 |

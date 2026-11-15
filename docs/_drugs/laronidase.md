@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-03
 monitor_inn: "LARONIDASE"
 predicted_indications: ["Sanfilippo syndrome"]
-description: "Laronidase: 예측 신규 적응증 Sanfilippo syndrome (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210159/EE"
+description: "Laronidase: 예측 신규 적응증 Sanfilippo syndrome (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Laronidase
@@ -45,7 +45,7 @@ Laronidase는 재조합 인간 알파-L-이두로니다제(alpha-L-iduronidase) 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210159/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201210159/EE) |
 | 예측 신규 적응증 | Sanfilippo syndrome |
 | TxGNN 예측 점수 | 0.9922 |
 | 근거 수준 | L5 (전임상·기전 수준 근거만 존재) |

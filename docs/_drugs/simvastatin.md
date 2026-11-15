@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-31
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-description: "Simvastatin: 예측 신규 적응증 Brain stem infarction (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301131/EE"
+description: "Simvastatin: 예측 신규 적응증 Brain stem infarction (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Simvastatin
@@ -45,7 +45,7 @@ Simvastatin은 HMG-CoA 환원효소를 억제하는 스타틴 계열 약물로, 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301131/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308855/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800820/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707670/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300551/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301131/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200308855/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201800820/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201707670/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300551/EE);  |
 | 예측 신규 적응증 | Brain stem infarction |
 | TxGNN 예측 점수 | 0.9941 |
 | 근거 수준 | L5 |

@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
 last_modified_at: 2026-11-03
-description: "Chlorambucil: 예측 신규 적응증 ALK-positive large B-cell lymphoma (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007562/EE"
+description: "Chlorambucil: 예측 신규 적응증 ALK-positive large B-cell lymphoma (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Chlorambucil
@@ -44,7 +44,7 @@ Chlorambucil은 DNA를 알킬화하는 질소 머스터드 계열 항암제입�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007562/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008737/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201007562/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200008737/EE) |
 | 예측 신규 적응증 | ALK-positive large B-cell lymphoma |
 | TxGNN 예측 점수 | 0.9961 |
 | 근거 수준 | L5 |

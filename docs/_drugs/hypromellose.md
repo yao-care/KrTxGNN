@@ -42,7 +42,7 @@ evidence_level: N/A
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 이 약은 눈물 분비 부족 및 점액부족에 의한 눈의 건조에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903256/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903257/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204637/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903255/EE; https://nedrug.mfds. |
+| 기존 적응증 | 이 약은 눈물 분비 부족 및 점액부족에 의한 눈의 건조에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903256/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903257/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204637/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201903255/EE); https://nedrug.mfds. |
 | 한국 시판 현황 | 시판 중 (유효 허가 20건 / 전체 20건) |
 | 허가증 수 | 20건 (유효 20건) |
 

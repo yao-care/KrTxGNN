@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Dasatinib"
 predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival", "dermatofibrosarcoma protuberans", "ovarian myxoid liposarcoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung"]
 last_modified_at: 2026-10-31
-description: "Dasatinib: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606317/EE"
+description: "Dasatinib: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Dasatinib
@@ -45,7 +45,7 @@ TxGNN 모델은 **유잉 육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606317/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701087/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102229/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600609/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600611/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606317/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200701087/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201102229/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600609/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202600611/EE);  |
 | 예측 신규 적응증 | 유잉 육종 (Ewing sarcoma) |
 | TxGNN 예측 점수 | 0.9990 |
 | 근거 수준 | L3 |

@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
-description: "Meropenem: 예측 신규 적응증 세균성 관절염 (bacterial arthritis) (근거 수준 L3). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906950/EE"
+description: "Meropenem: 예측 신규 적응증 세균성 관절염 (bacterial arthritis) (근거 수준 L3). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Meropenem
@@ -44,7 +44,7 @@ Meropenem은 세균의 세포벽 합성을 억제하는 카바페넴계 광범�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906950/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200808539/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199600576/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200909379/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301692/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906950/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200808539/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199600576/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200909379/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202301692/EE);  |
 | 예측 신규 적응증 | 세균성 관절염 (bacterial arthritis) |
 | TxGNN 예측 점수 | 0.9992 |
 | 근거 수준 | L3 (관찰 연구와 증례 보고 수준) |

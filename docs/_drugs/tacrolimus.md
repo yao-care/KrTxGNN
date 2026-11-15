@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-31
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
-description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500213/EE"
+description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Tacrolimus
@@ -46,7 +46,7 @@ description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic de
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500213/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400102/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500517/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500518/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901683/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200500213/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200400102/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500517/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201500518/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201901683/EE);  |
 | 예측 신규 적응증 | 지루피부염 (seborrheic dermatitis) |
 | TxGNN 예측 점수 | 0.9926 |
 | 근거 수준 | L2 (완료된 3상 1건, 4상 1건. 3상이 1건뿐이라 L1 기준 미충족) |

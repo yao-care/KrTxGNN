@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Iopromide"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
 last_modified_at: 2026-10-31
-description: "Iopromide: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400622/EE"
+description: "Iopromide: 예측 신규 적응증 골관절염 (osteoarthritis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Iopromide
@@ -44,7 +44,7 @@ Iopromide는 요오드화 비이온성 방사선 조영제로, 한국에서 주�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400622/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802934/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804420/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804419/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400621/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400622/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201802934/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804420/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201804419/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400621/EE) |
 | 예측 신규 적응증 | 골관절염 (osteoarthritis) |
 | TxGNN 예측 점수 | 0.9953 |
 | 근거 수준 | L5 |

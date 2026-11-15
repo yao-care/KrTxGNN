@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
 last_modified_at: 2026-11-05
-description: "Magnesium Carbonate: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501043/EE"
+description: "Magnesium Carbonate: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Magnesium Carbonate
@@ -44,7 +44,7 @@ Magnesium Carbonate(탄산마그네슘)는 산을 중화하는 제산제 계열 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501043/EE; 이 약은 위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감에 사용합니다.; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204430/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202501043/EE); 이 약은 위산과다, 속쓰림, 위부불쾌감, 위부팽만감, 체함, 구역, 구토, 위통, 신트림, 소화불량, 식욕감퇴(식욕부진), 과식, 소화촉진, 소화불량으로 인한 위부팽만감에 사용합니다.; [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202204430/EE) |
 | 예측 신규 적응증 | 위십이지장염 (gastroduodenitis) |
 | TxGNN 예측 점수 | 0.9994 |
 | 근거 수준 | L5 |

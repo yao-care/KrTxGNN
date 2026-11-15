@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "PHENYTOIN"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 last_modified_at: 2026-10-31
-description: "Phenytoin: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201106874/EE"
+description: "Phenytoin: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Phenytoin
@@ -45,7 +45,7 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201106874/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500605/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100305/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197500285/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197000104/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201106874/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198500605/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100305/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197500285/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/197000104/EE);  |
 | 예측 신규 적응증 | 삼차신경 신생물 (trigeminal nerve neoplasm) |
 | TxGNN 예측 점수 | 0.9999 |
 | 근거 수준 | L5 |

@@ -42,7 +42,7 @@ evidence_level: N/A
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402995/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308077/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200102261/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402996/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402995/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201308077/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200102261/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201402996/EE) |
 | 한국 시판 현황 | 허가되었으나 미시판 (수출용 허가만 유효: 4건 / 전체 12건) |
 | 허가증 수 | 12건 (국내 5건 · 유효 0건 / 수출용 7건 · 유효 4건) |
 

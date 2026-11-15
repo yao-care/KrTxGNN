@@ -397,6 +397,11 @@ def run(check=False, only=None, touch_date=False):
         _spec.loader.exec_module(_rlc)
         _cc, _ = _rlc.run(only=only, touch_date=touch_date)
         changed += [f for f in _cc if f not in changed]
+        # 2026-11-15：「기존 적응증」的 MFDS PDF 網址改成連結文字（scripts/link_mfds_pdfs.py；只改呈現）
+        _spec = _ilu.spec_from_file_location("link_mfds_pdfs", Path(__file__).resolve().parent / "link_mfds_pdfs.py")
+        _lmp = _ilu.module_from_spec(_spec)
+        _spec.loader.exec_module(_lmp)
+        changed += [f for f in _lmp.run(only=only) if f not in changed]
     return problems, changed
 
 

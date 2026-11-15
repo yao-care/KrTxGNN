@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "NIZATIDINE"
 predicted_indications: ["duodenal obstruction", "multiple endocrine neoplasia"]
 last_modified_at: 2026-10-31
-description: "Nizatidine: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403769/EE"
+description: "Nizatidine: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Nizatidine
@@ -44,7 +44,7 @@ Nizatidine은 위산 분비를 억제하는 H2 수용체 길항제 계열의 약
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403769/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600879/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404671/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403124/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400450/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403769/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201600879/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200404671/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201403124/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400450/EE);  |
 | 예측 신규 적응증 | 십이지장 폐쇄 (duodenal obstruction) |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 |

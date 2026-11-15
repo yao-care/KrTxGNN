@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Tegafur"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
 last_modified_at: 2026-11-05
-description: "Tegafur: 예측 신규 적응증 Cecum villous adenoma (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300393/EE"
+description: "Tegafur: 예측 신규 적응증 Cecum villous adenoma (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Tegafur
@@ -45,7 +45,7 @@ Tegafur는 5-fluorouracil(5-FU)의 경구용 전구약물로, 한국에서 단�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300393/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706903/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700694/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706904/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200612254/EE |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200300393/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706903/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199700694/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201706904/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200612254/EE) |
 | 예측 신규 적응증 | Cecum villous adenoma |
 | TxGNN 예측 점수 | 0.9986 |
 | 근거 수준 | L5 (완료된 Phase 3 RCT 다수) |

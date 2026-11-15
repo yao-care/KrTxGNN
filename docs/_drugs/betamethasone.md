@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-03
 monitor_inn: "BETAMETHASONE"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
-description: "Betamethasone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L4). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301576/EE"
+description: "Betamethasone: 예측 신규 적응증 점액성 탈모증 (alopecia mucinosa) (근거 수준 L4). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Betamethasone
@@ -44,7 +44,7 @@ Betamethasone은 한국에서 시판 중인 글루코코르티코이드 계열 �
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301576/EE; 이 약은 2차 감염된 알레르기성 또는 염증성 피부질환 (습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선(마른비늘증)), 1도 화상에 사용합니다.; 이 약은 2차 감염된 알레르기성 또는 염증성 피부질환 (습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선)과 1도 화상에 사용합니다.; htt |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301576/EE); 이 약은 2차 감염된 알레르기성 또는 염증성 피부질환 (습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선(마른비늘증)), 1도 화상에 사용합니다.; 이 약은 2차 감염된 알레르기성 또는 염증성 피부질환 (습진, 접촉피부염, 지루피부염, 아토피피부염, 광피부염, 만성단순태선, 간찰진(피부스침증), 박탈피부염, 가려움, 건선)과 1도 화상에 사용합니다.; htt |
 | 예측 신규 적응증 | 점액성 탈모증 (alopecia mucinosa) |
 | TxGNN 예측 점수 | 0.9997 |
 | 근거 수준 | L4 |

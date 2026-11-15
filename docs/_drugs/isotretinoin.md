@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
 last_modified_at: 2026-10-31
-description: "Isotretinoin: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306920/EE"
+description: "Isotretinoin: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Isotretinoin
@@ -45,7 +45,7 @@ TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal 
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306920/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200904074/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404635/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400049/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906262/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201306920/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200904074/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404635/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400049/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906262/EE);  |
 | 예측 신규 적응증 | 악성 고혈압성 신장질환 (malignant hypertensive renal disease) |
 | TxGNN 예측 점수 | 0.9901 |
 | 근거 수준 | L5 |

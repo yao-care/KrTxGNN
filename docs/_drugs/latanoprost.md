@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 last_modified_at: 2026-11-05
-description: "Latanoprost: 예측 신규 적응증 내장 칼시필락시스 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803532/EE"
+description: "Latanoprost: 예측 신규 적응증 내장 칼시필락시스 (visceral calciphylaxis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Latanoprost
@@ -45,7 +45,7 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803532/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501988/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502576/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402442/EE; https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202403034/EE;  |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201803532/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200501988/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200502576/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202402442/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202403034/EE);  |
 | 예측 신규 적응증 | 내장 칼시필락시스 (visceral calciphylaxis) |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 |
