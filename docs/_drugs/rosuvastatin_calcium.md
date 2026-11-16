@@ -8,8 +8,8 @@ indication_count: 6
 drugbank_id: DB01098
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
-last_modified_at: 2026-11-16
-description: "Rosuvastatin Calcium: 예측 신규 적응증 콜레스테롤 에스터 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+last_modified_at: 2026-11-17
+description: "Rosuvastatin Calcium: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Rosuvastatin Calcium
@@ -34,19 +34,20 @@ description: "Rosuvastatin Calcium: 예측 신규 적응증 콜레스테롤 에�
 
 </div>
 
-## Rosuvastatin Calcium: 콜레스테롤 에스터 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency)
+## Rosuvastatin Calcium: 콜레스테롤 에스테르 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Rosuvastatin calcium은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을 낮추는 스타틴 계열 약물입니다. TxGNN 모델은 **콜레스테롤 에스터 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency)**에 효과가 있을 수 있다고 예측하며, 예측 점수는 0.9954입니다. 다만 이 질환을 직접 다룬 임상시험과 문헌은 현재 확인되지 않아, 모델 예측 외의 근거는 없습니다.
+로수바스타틴칼슘은 HMG-CoA 환원효소를 억제하는 스타틴계 약물입니다.
+TxGNN 모델은 **콜레스테롤 에스테르 전달 단백질 결핍증(cholesterol-ester transfer protein deficiency)**에 효과가 있을 수 있다고 예측했습니다. 그러나 이 질환을 직접 다룬 **임상시험과 문헌은 0건**이어서 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001006/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001026/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506830/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906578/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400102/EE);  |
-| 예측 신규 적응증 | 콜레스테롤 에스터 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency) |
+| 예측 신규 적응증 | 콜레스테롤 에스테르 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency) |
 | TxGNN 예측 점수 | 0.9954 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
@@ -55,9 +56,9 @@ Rosuvastatin calcium은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 rosuvastatin은 HMG-CoA 환원효소 억제제로, 간의 콜레스테롤 합성을 줄이고 LDL 수용체 발현을 높여 LDL 콜레스테롤을 낮춥니다.
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 로수바스타틴은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을 낮추는 스타틴계 약물이므로, 지질 대사와 관련된 질환이라는 점에서 모델이 연관성을 찾았을 가능성이 있습니다.
 
-예측된 질환과 이 약물은 모두 지단백 대사와 관련이 있어, 모델이 두 대상을 연결한 것은 이해할 수 있습니다. 그러나 스타틴은 CETP 경로에 작용하지 않습니다. 이 질환에 대해 치료 목적의 임상적 근거는 아직 확립되어 있지 않으므로, 현재로서는 가설 수준의 연결로 보아야 합니다.
+그러나 이 질환은 CETP 활성이 낮고 HDL 콜레스테롤이 높아지는 유전 질환입니다. 일반적으로 LDL을 낮추는 치료가 필요한 상태가 아니어서, 로수바스타틴을 이 질환에 쓸 직접적인 기전상 근거는 확인되지 않습니다. 이 예측은 지질 대사라는 넓은 범주의 연관성에 기댄 것으로, 해석에 주의가 필요합니다.
 
 ## 임상시험 근거
 
@@ -69,7 +70,7 @@ Rosuvastatin calcium은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을
 
 ## 한국 시판 정보
 
-아래는 단일 성분 제품 중 일부이며, 허가 목록 전체가 아닐 수 있습니다.
+단일 성분 제제 중 주요 허가 5건입니다. 허가 목록은 일부만 포함되었을 수 있습니다.
 
 | 허가번호 | 제품명 | 제형 | 제조사 |
 |---------|------|------|--------|
@@ -88,12 +89,13 @@ Rosuvastatin calcium은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을
 **결정: Hold**
 
 **사유:**
-예측 점수는 높지만 이 질환을 직접 다룬 임상시험이나 문헌이 없습니다. 스타틴은 CETP 경로에 작용하지 않으므로 치료 근거도 확립되어 있지 않습니다.
+모델 예측 점수는 높지만 이 질환을 직접 다룬 임상시험과 문헌이 없어 근거 수준이 L5입니다. 이 질환은 HDL 상승이 특징이어서 LDL 저하 약물의 직접적인 치료 근거도 확인되지 않습니다.
 
 **진행하려면 필요한 것:**
-- 이 질환에 대한 직접적인 임상 또는 전임상 근거
-- 상세한 약물 작용 기전(MOA) 데이터
-- 허가사항의 경고, 금기 등 안전성 정보 확인
+- 상세한 약물 작용 기전(MOA) 데이터 확보
+- CETP 결핍증에서 스타틴의 치료 필요성과 기전상 타당성에 대한 검토
+- 이 질환을 직접 대상으로 한 전임상, 증례 또는 임상 연구 근거
+- 허가사항(경고·금기) 확인을 통한 안전성 검토
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

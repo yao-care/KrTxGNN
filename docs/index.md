@@ -32,7 +32,7 @@ nav_order: 1
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-이 사이트의 예측 약물–질환 쌍 238개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
+이 사이트의 예측 약물–질환 쌍 186개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
 
 ### 이 사이트에서 근거 수준이 가장 높은 의약품
 
@@ -43,22 +43,19 @@ nav_order: 1
 | [Cefprozil](/drugs/cefprozil/) | L1 |
 | [Clofarabine](/drugs/clofarabine/) | L1 |
 | [Doxorubicin](/drugs/doxorubicin/) | L1 |
-| [Atorvastatin Calcium Trihydrate](/drugs/atorvastatin-calcium-trihydrate/) | L1 |
 | [Ketorolac](/drugs/ketorolac/) | L1 |
 | [Dapsone](/drugs/dapsone/) | L1 |
 | [Acetylcysteine](/drugs/acetylcysteine/) | L2 |
 | [Desoximetasone](/drugs/desoximetasone/) | L2 |
+| [Diazepam](/drugs/diazepam/) | L2 |
 
 ### 30개 TxGNN 사이트 중 이 사이트에만 수록된 의약품
 
 | 의약품 | 근거 수준 |
 |---|---|
-| [Atorvastatin Calcium Trihydrate](/drugs/atorvastatin-calcium-trihydrate/) | L1 |
 | [Ropinirole Hydrochloride](/drugs/ropinirole-hydrochloride/) | L3 |
-| [Atorvastatin Calcium](/drugs/atorvastatin-calcium/) | L3 |
 | [Propacetamol](/drugs/propacetamol/) | L3 |
 | [Ropivacaine Hydrochloride](/drugs/ropivacaine-hydrochloride/) | L3 |
-| [Amiodarone Hydrochloride](/drugs/amiodarone-hydrochloride/) | L4 |
 | [Pranlukast](/drugs/pranlukast/) | L4 |
 | [Alfuzosin Hydrochloride](/drugs/alfuzosin-hydrochloride/) | L5 |
 | [Alpha-Tocopherol](/drugs/alpha-tocopherol/) | L5 |
@@ -68,6 +65,9 @@ nav_order: 1
 | [Pegteograstim](/drugs/pegteograstim/) | L5 |
 | [Proxyphylline](/drugs/proxyphylline/) | L5 |
 | [Ruxolitinib Phosphate](/drugs/ruxolitinib-phosphate/) | L5 |
+| [Talniflumate](/drugs/talniflumate/) | L5 |
+| [Amlodipine Maleate](/drugs/amlodipine-maleate/) | L5 |
+| [Cyclofenil](/drugs/cyclofenil/) | L5 |
 
 <!-- local-home:end -->
 

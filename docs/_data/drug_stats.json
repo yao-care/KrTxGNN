@@ -2,9 +2,9 @@
   "generated": "2026-11-16",
   "total_drugs": 698,
   "level_counts": {
-    "L1": 8,
-    "L2": 25,
-    "L3": 24,
+    "L1": 7,
+    "L2": 27,
+    "L3": 23,
     "L4": 40,
     "L5": 574
   },
@@ -396,13 +396,13 @@
     {
       "name": "Atorvastatin Calcium",
       "slug": "atorvastatin_calcium",
-      "level": "L3",
+      "level": "L2",
       "indication_count": 4
     },
     {
       "name": "Atorvastatin Calcium Trihydrate",
       "slug": "atorvastatin_calcium_trihydrate",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 4
     },
     {

@@ -8,8 +8,8 @@ indication_count: 5
 drugbank_id: DB00594
 monitor_inn: "Amiloride"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-16
-description: "Amiloride Hydrochloride: 예측 신규 적응증 Malignant hypertensive renal disease (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+last_modified_at: 2026-11-17
+description: "Amiloride Hydrochloride: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Amiloride Hydrochloride
@@ -34,20 +34,20 @@ description: "Amiloride Hydrochloride: 예측 신규 적응증 Malignant hyperte
 
 </div>
 
-## Amiloride Hydrochloride: Malignant hypertensive renal disease
+## Amiloride Hydrochloride: 악성 고혈압성 신질환 (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Amiloride(염산아미로라이드)는 원위 세뇨관의 상피나트륨채널(ENaC)을 차단하는 칼륨보존 이뇨제입니다.
-다만 이 질환을 직접 연구한 임상시험과 문헌은 없고, 관련 문헌은 광범위한 리뷰 **1편**뿐입니다.
+아미로라이드 염산염은 원위세뇨관의 상피성 나트륨 채널(ENaC)을 차단하는 칼륨보존 이뇨제입니다.
+TxGNN 모델은 **악성 고혈압성 신질환 (malignant hypertensive renal disease)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 **임상시험은 0건, 문헌도 0편**이어서 모델 예측 단계에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100103/EE) |
-| 예측 신규 적응증 | Malignant hypertensive renal disease |
+| 예측 신규 적응증 | 악성 고혈압성 신질환 (malignant hypertensive renal disease) |
 | TxGNN 예측 점수 | 0.9982 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
@@ -56,11 +56,11 @@ Amiloride(염산아미로라이드)는 원위 세뇨관의 상피나트륨채널
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 보고서용으로 수집된 데이터에는 상세한 작용 기전 자료가 없습니다. 알려진 약리 지식에 따르면 amiloride는 원위 세뇨관의 ENaC을 막아 나트륨 재흡수를 줄이고 혈압을 낮춥니다. 원발성 알도스테론증이나 Liddle 증후군 같은 무기질코르티코이드형 고혈압에 쓰이는 기전입니다.
+현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 정보에 따르면 아미로라이드는 원위세뇨관의 ENaC를 차단해 나트륨 재흡수를 줄이는 칼륨보존 이뇨제이며, 혈압을 낮추는 효과도 있습니다. 따라서 혈압과 체액량 조절이라는 측면에서 기전상 적용 가능성을 생각해 볼 수 있습니다.
 
-신혈관성 고혈압은 신동맥 협착으로 레닌-안지오텐신-알도스테론계가 활성화되고 이차성 알도스테론 과잉이 생깁니다. 따라서 ENaC 차단이 기전상 그럴듯하다고 볼 수 있습니다.
+그러나 이 연결고리는 일반적인 약리 특성에서 추정한 것입니다. 이 질환에 대한 임상시험이나 문헌은 확인되지 않았고, 매우 높은 예측 점수(0.9982)도 모델 계산 결과일 뿐 임상적 근거가 아닙니다.
 
-그러나 악성 신혈관성 고혈압은 주로 신동맥 협착과 허혈이 원인이며, 핵심 치료는 혈관 재개통과 RAAS 차단입니다. Amiloride는 기껏해야 보조 요법에 해당합니다. 연결된 문헌도 이 질환 자체를 다룬 연구가 아니라 무기질코르티코이드 고혈압 전반에 대한 리뷰입니다.
+안전성 측면의 우려도 큽니다. 악성 고혈압성 신질환은 급성이며 위험도가 높은 상태입니다. 신기능 저하가 동반되는 환자에게 칼륨보존 약물을 쓰면 고칼륨혈증 위험이 커질 수 있어, 이 적응증에서는 특히 신중한 검토가 필요합니다.
 
 ## 임상시험 근거
 
@@ -68,15 +68,13 @@ Amiloride(염산아미로라이드)는 원위 세뇨관의 상피나트륨채널
 
 ## 문헌 근거
 
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [12929904](https://pubmed.ncbi.nlm.nih.gov/12929904/) | 2003 | Review | J Hypertens Suppl | 무기질코르티코이드 고혈압의 진단적 접근. 저칼륨혈증, 낮은 혈장 레닌 활성, 원발성 알도스테론증이 주요 내용이며, 악성 신혈관성 고혈압을 직접 다루지 않음 |
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
 | 허가번호 | 제품명 | 제형 | 허가 적응증 |
 |---------|------|------|-----------|
-| 198100103 | 아미로정(염산아미로라이드) | 미황색의 원형정제 | 적응증 텍스트는 기록되어 있지 않고, 허가사항 PDF 링크만 제공됨 |
+| 198100103 | 아미로정(염산아미로라이드) | 미황색의 원형정제 | [허가사항 문서 참조](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100103/EE) |
 
 ## 안전성 고려사항
 
@@ -87,13 +85,13 @@ Amiloride(염산아미로라이드)는 원위 세뇨관의 상피나트륨채널
 **결정: Hold**
 
 **사유:**
-이 질환을 직접 연구한 임상시험이나 문헌이 없어 근거 수준은 L5입니다. 예측 점수는 높지만 질환 특이적 근거가 뒷받침하지 않습니다. 악성 신혈관성 고혈압은 재개통과 RAAS 차단이 중심이어서 amiloride의 역할도 제한적일 수 있습니다.
+이 질환을 직접 연구한 임상시험과 문헌이 없어 근거 수준이 L5(모델 예측만 있음)입니다. 또한 급성·고위험 상태에서 신기능 저하와 고칼륨혈증 위험이 있는 칼륨보존 이뇨제를 쓰는 것이므로, 현 단계에서 진행하기는 어렵습니다.
 
 **진행하려면 필요한 것:**
-- 신혈관성 고혈압에서 amiloride의 혈압 강하 효과를 평가한 직접 연구 (전임상 또는 임상)
-- 상세한 작용 기전 데이터 확보
-- 허가사항 전문(경고, 금기, 상호작용) 확인. 특히 신기능 저하 환자의 고칼륨혈증 위험을 평가해야 합니다.
-- 기존 표준 치료(재개통, RAAS 차단제)에 대한 보조 요법으로서의 위치 정립
+- 악성 고혈압성 신질환에서 아미로라이드의 효과를 직접 평가한 전임상 또는 임상 근거
+- 허가사항(경고, 금기)의 확보 및 분석, 특히 신기능 저하와 고칼륨혈증 관련 항목
+- 상세 작용 기전 데이터 확보
+- 신기능 저하 환자의 혈청 칼륨 모니터링을 포함한 안전성 관리 계획
 
 <!-- review:begin log -->
 

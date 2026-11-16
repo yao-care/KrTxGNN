@@ -8,8 +8,8 @@ indication_count: 3
 drugbank_id: DB08806
 monitor_inn: "Roxatidine acetate"
 predicted_indications: ["peptic ulcer perforation", "gastroduodenitis", "duodenal obstruction"]
-last_modified_at: 2026-11-16
-description: "Roxatidine Acetate Hydrochloride: 예측 신규 적응증 Peptic ulcer perforation (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
+last_modified_at: 2026-11-17
+description: "Roxatidine Acetate Hydrochloride: 예측 신규 적응증 소화성 궤양 천공 (peptic ulcer perforation) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Roxatidine Acetate Hydrochloride
@@ -34,60 +34,50 @@ description: "Roxatidine Acetate Hydrochloride: 예측 신규 적응증 Peptic u
 
 </div>
 
-## Roxatidine Acetate Hydrochloride: Peptic ulcer perforation
+## Roxatidine Acetate Hydrochloride: 소화성 궤양 천공 (peptic ulcer perforation)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Roxatidine acetate hydrochloride는 경구 투여 후 활성 대사체인 roxatidine으로 전환되는 H2 수용체 길항제 계열 약물입니다.
+록사티딘 아세테이트 염산염은 위산 분비를 억제하는 H2 수용체 길항제 계열 약물입니다. TxGNN 모델은 **소화성 궤양 천공(peptic ulcer perforation)**에 효과가 있을 수 있다고 예측했습니다. 그러나 이 방향을 직접 지지하는 **임상시험은 0건, 문헌도 0편**이어서 모델 예측 단계에 머물러 있습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
 | 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200809389/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202302536/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202300452/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200301683/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/202400970/EE);  |
-| 예측 신규 적응증 | Peptic ulcer perforation |
+| 예측 신규 적응증 | 소화성 궤양 천공 (peptic ulcer perforation) |
 | TxGNN 예측 점수 | 0.9955 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 11건 / 전체 11건) |
 | 허가증 수 | 11건 (유효 11건) |
-| 권장 결정 | Proceed with Guardrails |
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 데이터베이스에 수록되어 있지 않습니다. 다만 수집된 문헌에 따르면 roxatidine acetate는 장, 혈장, 간의 에스테르 분해효소에 의해 활성 대사체 roxatidine으로 빠르게 전환되는 전구약물이며, roxatidine은 위벽세포의 H2 수용체를 경쟁적으로 차단하여 기저 및 자극성 위산 분비를 억제합니다. 위산 분비가 줄어들면 궤양 치유가 촉진됩니다.
+현재 상세한 작용 기전 데이터는 확보되지 않았습니다. 다만 이 약은 H2 수용체 길항제로 알려진 계열에 속하며, 위산과 펩신 분비를 줄여 소화성 궤양 질환과 관련된 병태에 작용할 수 있습니다.
 
-일부 보고에서는 세포보호 작용도 언급됩니다(PMID 2906796). 소화성 궤양은 공격 인자(위산, 펩신 등)가 방어 인자를 압도할 때 발생하므로 위산 억제는 기전상 타당한 접근입니다.
+그러나 궤양 천공은 급성 외과적 합병증입니다. 산 억제는 보조적 또는 예방적 역할에 그칠 가능성이 높습니다. 이 예측을 직접 뒷받침하는 기전 연구나 임상 연구는 확인되지 않았습니다. 0.9955라는 높은 점수는 모델이 산출한 값일 뿐 독립적인 근거가 아니므로, 실제 효능을 보여주는 지표로 해석해서는 안 됩니다.
 
-이번 평가에서는 기존 적응증 정보가 확인되지 않아, 이 예측은 진정한 재창출이라기보다 이미 확립된 용도에 가까울 가능성이 있습니다.
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
 
 ## 문헌 근거
 
-등록된 임상시험은 없으며, 아래는 가장 관련성 높은 문헌입니다.
-
-| PMID | 연도 | 유형 | 저널 | 주요 발견 |
-|------|-----|------|------|---------|
-| [1674231](https://pubmed.ncbi.nlm.nih.gov/1674231/) | 1991 | RCT | Clin Ther | 치유된 소화성 궤양 환자 725명 대상, 취침 전 75 mg 12개월 유지요법을 위약 대조 이중맹검 2건으로 평가 |
-| [1717223](https://pubmed.ncbi.nlm.nih.gov/1717223/) | 1991 | Review | Drugs | 약력학·약동학 특성 및 소화성 궤양 치료 잠재력 고찰 |
-| [2906456](https://pubmed.ncbi.nlm.nih.gov/2906456/) | 1988 | Review | Scand J Gastroenterol Suppl | 150 mg 취침 전 1회 투여가 야간 산 분비 억제에 효과적이며 서방 특성으로 지속적 억제 |
-| [2184124](https://pubmed.ncbi.nlm.nih.gov/2184124/) | 1990 | Review | Gastroenterol Clin North Am | 신규 H2 차단제는 안전하고 효과적이나 임상적으로 새로운 특성은 없음 |
-| [2905237](https://pubmed.ncbi.nlm.nih.gov/2905237/) | 1988 | Review | Drugs | 프로스타글란딘, H2 수용체 길항제와 소화성 궤양의 관계 |
-| [8097411](https://pubmed.ncbi.nlm.nih.gov/8097411/) | 1993 | Review | Baillieres Clin Gastroenterol | 위산 분비 조절 및 억제의 약리학 |
-| [2906472](https://pubmed.ncbi.nlm.nih.gov/2906472/) | 1988 | Review | Scand J Gastroenterol Suppl | 약물 상호작용 측면에서 cimetidine, ranitidine과 비교 |
-| [26883979](https://pubmed.ncbi.nlm.nih.gov/26883979/) | 2016 | 전임상(동물) | Life Sci | 래트 이부프로펜 유발 위궤양에서 여러 H2 차단제의 위 보호 효과 |
-| [2906796](https://pubmed.ncbi.nlm.nih.gov/2906796/) | 1988 | 전임상(약리) | Arch Int Pharmacodyn Ther | roxatidine의 세포보호 작용 |
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200809389 | 가스트릭캡슐37.5밀리그램 | 경질캡슐제 | 허가 적응증 텍스트 미기재 |
-| 202302536 | 록사겐서방정75밀리그램 | 서방성 필름코팅정 | 허가 적응증 텍스트 미기재 |
-| 202300452 | 가스트릭서방정 | 서방성 필름코팅정 | 허가 적응증 텍스트 미기재 |
-| 200301683 | 록사렉스서방캡슐75mg | 경질캡슐제 | 허가 적응증 텍스트 미기재 |
-| 202400970 | 가스트릭서방정37.5밀리그램 | 서방성 필름코팅정 | 허가 적응증 텍스트 미기재 |
+허가증은 총 11건이며 모두 단일 성분 제제로 유효합니다. 주요 허가 5건은 다음과 같습니다.
 
-단일 성분 허가증 11건이 모두 유효하며, 위 표는 그중 5건입니다.
+| 허가번호 | 제품명 | 제형 | 제조사 |
+|---------|------|------|------|
+| 200809389 | 가스트릭캡슐37.5밀리그램 | 경질캡슐제 | 대화제약(주) |
+| 202302536 | 록사겐서방정75밀리그램 | 서방성 필름코팅정 | 신풍제약(주) |
+| 202300452 | 가스트릭서방정 | 서방성 필름코팅정 | 대화제약(주) |
+| 200301683 | 록사렉스서방캡슐75mg | 경질캡슐제 | (주)팜젠사이언스 |
+| 202400970 | 가스트릭서방정37.5밀리그램 | 서방성 필름코팅정 | 대화제약(주) |
 
 ## 안전성 고려사항
 
@@ -95,16 +85,17 @@ Roxatidine acetate hydrochloride는 경구 투여 후 활성 대사체인 roxati
 
 ## 결론 및 다음 단계
 
-**결정: Proceed with Guardrails**
+**결정: Hold**
 
 **사유:**
-활동성 소화성 궤양을 직접 다룬 무작위 대조 연구(PMID 1674231)가 있고 기전도 명확하여 근거 수준은 L1입니다. 다만 등록된 임상시험이 없고, 해당 연구의 단계와 설계가 제공된 자료로는 검증되지 않았습니다.
+- 예측 질환을 직접 다룬 임상시험과 문헌이 없어 근거 수준이 L5(모델 예측만 있음)입니다.
+- 천공은 급성 외과적 합병증이어서, 위산 억제제가 치료 효과를 낼 수 있는 기전적 근거도 불충분합니다.
 
 **진행하려면 필요한 것:**
-- 국내 허가 라벨에서 승인된 적응증 확인
-- 허가사항의 경고, 금기 및 신기능 저하 환자 용량 조정 확인
-- 상세 작용 기전 데이터 보완
-- 핵심 RCT의 단계와 설계 검증 및 등록 임상시험 확인
+- 소화성 궤양 천공에서 H2 수용체 길항제의 역할(수술 후 보조요법, 재천공 예방 등)을 다룬 임상 연구 및 문헌 검토
+- 상세한 작용 기전 자료 확보
+- 허가사항(첨부문서)의 경고, 금기, 상호작용 정보 확인과 안전성 선별
+- 적용 가능한 투여 경로 검토. 천공 환자에게는 경구 제형보다 주사제가 필요할 수 있습니다.
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
