@@ -1,0 +1,32 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "abacavir-sulfate-feline-acquired-immunodeficiency-syndrome",
+  "meta": {
+    "profile": [
+      "https://krtxgnn.yao.care/fhir/StructureDefinition/KrTxGNNClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/abacavir-sulfate"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "feline acquired immunodeficiency syndrome"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN deep learning model"
+    }
+  ]
+}

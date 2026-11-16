@@ -1,0 +1,32 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "anhydrous-caffeine-glossodynia",
+  "meta": {
+    "profile": [
+      "https://krtxgnn.yao.care/fhir/StructureDefinition/KrTxGNNClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/anhydrous-caffeine"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "glossodynia"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN deep learning model"
+    }
+  ]
+}

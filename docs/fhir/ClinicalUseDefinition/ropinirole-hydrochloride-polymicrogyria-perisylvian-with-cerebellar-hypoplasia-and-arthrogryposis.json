@@ -1,0 +1,32 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "ropinirole-hydrochloride-polymicrogyria-perisylvian-with-cerebellar-hypoplasia-and-arthrogryposis",
+  "meta": {
+    "profile": [
+      "https://krtxgnn.yao.care/fhir/StructureDefinition/KrTxGNNClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/ropinirole-hydrochloride"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L3"
+    },
+    {
+      "url": "https://krtxgnn.yao.care/fhir/StructureDefinition/prediction-source",
+      "valueString": "TxGNN deep learning model"
+    }
+  ]
+}
