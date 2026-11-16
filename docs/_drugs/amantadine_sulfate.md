@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Amantadine Sulfate
 parent: 모델 예측만 (L5)
 nav_order: 52
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 4
+drugbank_id: DB00915
+monitor_inn: "Amantadine"
+predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
+last_modified_at: 2026-11-16
+description: "Amantadine Sulfate: 예측 신규 적응증 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Amantadine Sulfate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **0** 건
+근거 수준: **L5** | 예측 적응증: **4** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,71 +34,68 @@ predicted_indications: []
 
 </div>
 
-## AMANTADINE SULFATE: 약물 재창출 평가 보류
+## Amantadine Sulfate: 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-AMANTADINE SULFATE는 이번 Evidence Pack에는 TxGNN 예측 적응증 데이터가 포함되지 않아 정상적인 약물 재창출 평가를 진행할 수 없습니다. 예측 파이프라인이 완료되지 않았으며, 작용 기전(MOA)·안전성·기존 적응증 데이터가 모두 누락된 상태입니다. 평가를 재개하려면 DrugBank 데이터 추출 및 예측 파이프라인 재실행이 선행되어야 합니다.
-
-<!-- review:begin kr-lic-20261105-amantadine_sulfate-1 -->
-
-> **검토 정정 (2026-11-05)**: 원래 문장: “AMANTADINE SULFATE는 현재 한국 내 허가 기록이 없는 약물로, 이번 Evidence Pack에는 TxGNN 예측 적응증 데이터가 포함되지 않아 정상적인 약물 재창출 평가를 진행할 수 없습니다.” 삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 2건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
-
-<!-- review:end kr-lic-20261105-amantadine_sulfate-1 -->
-
----
+아만타딘황산염(Amantadine Sulfate)은 한국에서 단일 성분 제제로 허가되어 시판 중인 약물입니다.
+TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)**에 효과가 있을 수 있다고 예측합니다.
+다만 이 질환을 직접 다룬 임상시험과 문헌은 **0건**이어서, 현재는 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 정보 없음 |
-| 예측 신규 적응증 | 없음 (예측 결과 미생성) |
-| TxGNN 예측 점수 | 해당 없음 |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/200510972/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198701132/EE) |
+| 예측 신규 적응증 | 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) |
+| TxGNN 예측 점수 | 0.9948 |
 | 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 2건 / 전체 3건) |
 | 허가증 수 | 3건 (유효 2건) |
 | 권장 결정 | Hold |
 
----
-
 ## 이 예측이 타당한 이유는?
 
-현재 Evidence Pack에 `predicted_indications` 데이터가 없어 기전 관련성 분석을 수행할 수 없습니다.
+현재 상세한 작용 기전 데이터가 없어 기전에 근거한 분석에는 한계가 있습니다.
 
-DrugBank 쿼리(query_log ID #2)는 1건의 결과를 반환하는 데 성공했으나, 해당 내용이 Evidence Pack에 반영되지 않았습니다. `drugbank_id`도 확인되지 않은 상태입니다. MOA 및 DrugBank 기본 정보를 확보한 뒤 분석을 재개해야 합니다.
+다만 아만타딘이 NMDA 수용체 길항 작용을 가진다는 점에서 가설을 세워 볼 수 있습니다. 이 작용은 면역 매개성 뇌염과 간질성 뇌병증에서 글루타메이트 매개 흥분독성을 줄일 수 있다는 추론입니다. 그러나 이 가설을 뒷받침하는 임상시험이나 문헌은 이번에 수집된 자료에 없습니다.
 
-<!-- review:begin kr-lic-20261105-amantadine_sulfate-2 -->
+따라서 이 예측은 모델 점수에만 근거한 탐색적 가설이며, 기존 약물과 이 질환의 연관성도 아직 검토되지 않았습니다.
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “현재 AMANTADINE SULFATE의 한국 허가 기록이 없습니다 (총 0건).” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 2건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+## 임상시험 근거
 
-<!-- review:end kr-lic-20261105-amantadine_sulfate-2 -->
+현재 관련 임상시험 등록이 없습니다.
 
----
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
 
 ## 한국 시판 정보
 
----
+| 허가번호 | 제품명 | 제형 | 상태 |
+|---------|------|------|------|
+| 200510972 | 피케이멜즈인퓨전주(아만타딘황산염) | 수액용 주사제 | 유효 |
+| 198701132 | 피케이멜즈정(아만타딘황산염) | 필름코팅 정제 | 유효 |
+| 200704626 | 아만타정(아만타딘황산염) | 필름코팅 정제 | 취소 |
 
 ## 안전성 고려사항
 
 안전성 정보는 허가사항을 참조하세요.
-
----
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-예측 적응증 데이터가 없고, 작용 기전·안전성·기존 적응증 정보가 모두 누락되어 있어 약물 재창출 평가를 진행할 수 없는 상태입니다.
+라스무센 아급성 뇌염을 직접 다룬 임상시험과 문헌이 없고, 근거 수준은 L5(모델 예측만 있음)입니다. 작용 기전 및 안전성 데이터도 확보되지 않아 현재로서는 진행을 권고하기 어렵습니다.
 
 **진행하려면 필요한 것:**
-- DrugBank API에서 MOA·DrugBank ID·기본 약물 정보 추출 (쿼리 성공 확인됨, 데이터 파싱 필요)
-- TxGNN 예측 파이프라인 재실행하여 `predicted_indications` 확보
-- 기존 적응증(`original_indications`) 보충 — DrugBank 또는 해당 허가 기관 허가사항 참조
-- 허가 기관 허가사항 PDF 다운로드 및 주요 경고·금기 추출 (DG001, Blocking 수준 데이터 갭 해소)
+- 허가사항(첨부문서)의 경고 및 금기 정보 확보
+- 아만타딘의 작용 기전 데이터 확보
+- 라스무센 아급성 뇌염에서의 아만타딘 관련 전임상 연구, 증례 보고, 임상시험 탐색
+- NMDA 수용체 길항을 통한 가설을 검증할 수 있는 기전 연구
+- 주사제와 경구제 중 어떤 제형이 적합한지에 대한 투여 경로 검토
 
 <!-- review:begin log -->
 
@@ -107,8 +105,8 @@ DrugBank 쿼리(query_log ID #2)는 1건의 결과를 반환하는 데 성공했
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “현재 한국 내 허가 기록이 없는 약물로” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
-| 2026-11-05 | 삭제: “현재 AMANTADINE SULFATE의 한국 허가 기록이 없습니다 (총 0건)” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “현재 한국 내 허가 기록이 없는 약물로” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “현재 AMANTADINE SULFATE의 한국 허가 기록이 없습니다 (총 0건)” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

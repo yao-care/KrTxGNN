@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Glatiramer Acetate
 parent: 모델 예측만 (L5)
 nav_order: 378
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-31
-predicted_indications: []
+indication_count: 1
+drugbank_id: DB05259
+monitor_inn: "Glatiramer"
+predicted_indications: ["hemoglobinopathy"]
+last_modified_at: 2026-11-16
+description: "Glatiramer Acetate: 예측 신규 적응증 혈색소병증 (hemoglobinopathy) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Glatiramer Acetate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **0** 건
+근거 수준: **L5** | 예측 적응증: **1** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,30 +34,50 @@ predicted_indications: []
 
 </div>
 
-Evidence Pack을 분석합니다. `predicted_indications`가 완전히 비어 있고, 기존 적응증·MOA·안전성 데이터도 모두 부재한 상태입니다. 데이터 갭을 정직하게 반영한 보고서를 생성합니다.
-
----
-
-## Glatiramer Acetate: 재창출 평가 보류 — 예측 적응증 데이터 없음
+## Glatiramer Acetate: 혈색소병증 (hemoglobinopathy)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Glatiramer Acetate는 이번 Evidence Pack에서 기존 적응증 및 TxGNN 예측 신규 적응증 데이터가 모두 부재하여 정식 재창출 평가를 진행할 수 없습니다.
-DrugBank 조회는 성공(결과 1건)하였으나, 예측 적응증 목록(`predicted_indications`)이 비어 있어 어떠한 후보 적응증도 도출되지 않았습니다.
-데이터 갭(DG001, DG002) 해소 후 재평가가 필요합니다.
+Glatiramer acetate는 4가지 아미노산으로 이루어진 무작위 중합체 형태의 면역조절제입니다.
+TxGNN 모델은 **혈색소병증(hemoglobinopathy)**에 효과가 있을 수 있다고 예측했지만, 이 질환을 직접 연구한 임상시험은 **0건**, 문헌은 **1편**(간접 관련)뿐입니다.
+현재로서는 모델 예측 단계에 머물러 있어 실제 근거는 매우 제한적입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 |
-| 예측 신규 적응증 | 데이터 없음 |
-| TxGNN 예측 점수 | 해당 없음 |
-| 근거 수준 | 평가 불가 (예측 결과 없음) |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201404988/EE) |
+| 예측 신규 적응증 | 혈색소병증 (hemoglobinopathy) |
+| TxGNN 예측 점수 | 0.9903 |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
 | 허가증 수 | 1건 (유효 1건) |
-| 권장 결정 | **Hold** |
+| 권장 결정 | Hold |
+
+## 이 예측이 타당한 이유는?
+
+이번 보고서를 위해 수집한 데이터에는 상세한 작용 기전 정보가 없습니다. 일반적으로 알려진 바에 따르면 glatiramer acetate는 T세포 반응을 Th2/조절 T세포 표현형 쪽으로 전환시키고, 미엘린 염기성 단백질의 미끼(decoy)로 작용하는 면역조절제입니다.
+
+혈색소병증(겸상적혈구병, 지중해빈혈 등)은 헤모글로빈의 구조나 합성에 이상이 생기는 유전성 질환입니다. 따라서 면역조절제와의 연결고리는 염증이나 면역 조절 이상을 통한 간접 경로 정도로만 추정할 수 있고, 현재 확인된 기전적 연관성은 없습니다. 0.9903이라는 높은 예측 점수도 모델 출력일 뿐 임상적 근거로 해석해서는 안 됩니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [28372806](https://pubmed.ncbi.nlm.nih.gov/28372806/) | 2017 | Review (분류 기준) | Revue neurologique | 다발성 경화증 환자가 natalizumab 중단 후 여러 면역 질환을 겪은 사례입니다. 환자의 과거력에 베타 지중해빈혈이 있었을 뿐, 혈색소병증에 대한 치료 효과를 다룬 연구는 아닙니다. |
+
+이 문헌은 혈색소병증에 대한 glatiramer acetate의 효과를 직접 평가하지 않았으므로 지지 근거로 보기 어렵습니다.
+
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 제조사 |
+|---------|------|------|------|
+| 201404988 | 코팍손프리필드주40mg/1ml(글라티라머아세트산염) | 프리필드시린지 주사제 (무색~미황색 투명 액) | (주)한독테바 |
 
 ## 안전성 고려사항
 
@@ -67,23 +88,13 @@ DrugBank 조회는 성공(결과 1건)하였으나, 예측 적응증 목록(`pre
 **결정: Hold**
 
 **사유:**
-`predicted_indications` 목록이 비어 있어 재창출 후보 자체가 존재하지 않으며, 기존 적응증·MOA·경고/금기 등 핵심 약물 정보도 모두 누락되어 있어 안전성·기전 분석이 불가능한 상태입니다.
+예측 점수는 높지만 혈색소병증을 직접 연구한 임상시험이나 문헌이 없어 근거 수준이 L5에 머뭅니다. 기전적 연관성도 확인되지 않았고, 안전성 정보도 확보되지 않았습니다.
 
 **진행하려면 필요한 것:**
-- **[최우선]** TxGNN 예측 파이프라인 재실행 → `predicted_indications` 목록 확보
-- **[Blocking — DG001]** TFDA/MFDS 허가사항 PDF 다운로드 및 파싱 → 경고·금기 데이터 보완
-- **[High — DG002]** DrugBank API 조회 결과를 `drug.original_moa` 및 `drug.original_indications`에 반영 (DrugBank 쿼리 성공(1건) 확인됨 — 파싱 단계 점검 필요)
-- 한국 MFDS 시판 여부 재확인 (현재 유효 허가 1건: 코팍손프리필드주40mg/1ml)
-
-<!-- review:begin kr-lic-20261112-glatiramer_acetate-1 -->
-
-> **검토 정정 (2026-11-12)**: 원래 문장: “(현재 허가 0건)” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-09 데이터) 기준으로 수정했습니다: 유효 허가 1건(코팍손프리필드주40mg/1ml). 최신 수치는 빠른 개요에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
-
-<!-- review:end kr-lic-20261112-glatiramer_acetate-1 -->
-
----
-
-> **⚠️ 면책 고지:** 본 보고서는 연구 참고 목적으로만 작성되었으며, 의료 조언을 구성하지 않습니다. 재창출 후보는 임상 검증 후에만 적용될 수 있습니다.
+- 작용 기전(MOA) 데이터 확보와 혈색소병증 병태생리와의 기전적 연결 분석
+- 혈색소병증을 직접 대상으로 한 전임상 또는 임상 연구 근거
+- 식약처 허가사항(경고, 금기 등)을 확인하고 안전성을 검토
+- 혈색소병증 환자군에서의 면역조절 접근이 타당한지 전문가 검토
 
 <!-- review:begin log -->
 
@@ -93,7 +104,7 @@ DrugBank 조회는 성공(결과 1건)하였으나, 예측 적응증 목록(`pre
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-12 | 허가 건수: 0건 → 유효 1건 | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-12 | 허가 건수: 0건 → 유효 1건 | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

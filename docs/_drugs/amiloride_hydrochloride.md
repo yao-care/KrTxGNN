@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Amiloride Hydrochloride
 parent: 모델 예측만 (L5)
 nav_order: 57
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 5
+drugbank_id: DB00594
+monitor_inn: "Amiloride"
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
+last_modified_at: 2026-11-16
+description: "Amiloride Hydrochloride: 예측 신규 적응증 Malignant hypertensive renal disease (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Amiloride Hydrochloride
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **0** 건
+근거 수준: **L5** | 예측 적응증: **5** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,95 +34,66 @@ predicted_indications: []
 
 </div>
 
-Evidence Pack을 분석합니다. `predicted_indications`가 비어 있고 대부분 데이터가 미수집 상태임을 확인했습니다. 표준 보고서 형식을 최대한 준수하되, 실제 데이터에 맞게 조정하여 작성합니다.
-
----
-
-## Amiloride Hydrochloride: 예측 적응증 데이터 없음 — 재평가 필요
+## Amiloride Hydrochloride: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Amiloride Hydrochloride는 포타슘 보존성 이뇨제 계열 약물로, DrugBank 조회는 성공적으로 완료되었으나 이번 Evidence Pack에 TxGNN 예측 적응증 정보가 포함되지 않아 정식 재창출 평가를 진행할 수 없습니다. 작용 기전(MOA) 및 안전성 데이터 모두 미수집 상태입니다. 재평가를 위해서는 TFDA 仿單 수집 및 TxGNN 예측 재실행이 선행되어야 합니다.
-
-<!-- review:begin kr-lic-20261105-amiloride_hydrochloride-1 -->
-
-> **검토 정정 (2026-11-05)**: 원래 문장: “대만 내 시판 허가 이력이 없으며, 작용 기전(MOA) 및 안전성 데이터 모두 미수집 상태입니다.” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
-
-<!-- review:end kr-lic-20261105-amiloride_hydrochloride-1 -->
-
----
+Amiloride(염산아미로라이드)는 원위 세뇨관의 상피나트륨채널(ENaC)을 차단하는 칼륨보존 이뇨제입니다.
+다만 이 질환을 직접 연구한 임상시험과 문헌은 없고, 관련 문헌은 광범위한 리뷰 **1편**뿐입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 데이터 없음 |
-| 예측 신규 적응증 | 예측 데이터 없음 |
-| TxGNN 예측 점수 | 해당 없음 |
-| 근거 수준 | L5 (모델 예측 없음, 실제 연구 데이터 미수집) |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/198100103/EE) |
+| 예측 신규 적응증 | Malignant hypertensive renal disease |
+| TxGNN 예측 점수 | 0.9982 |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 1건 / 전체 1건) |
 | 허가증 수 | 1건 (유효 1건) |
-| 권장 결정 | **Hold** |
-
----
+| 권장 결정 | Hold |
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. DrugBank 조회는 성공적으로 완료되었으나(쿼리 로그 #2, 결과 1건), Evidence Pack에 MOA 정보가 포함되지 않았습니다.
+현재 이 보고서용으로 수집된 데이터에는 상세한 작용 기전 자료가 없습니다. 알려진 약리 지식에 따르면 amiloride는 원위 세뇨관의 ENaC을 막아 나트륨 재흡수를 줄이고 혈압을 낮춥니다. 원발성 알도스테론증이나 Liddle 증후군 같은 무기질코르티코이드형 고혈압에 쓰이는 기전입니다.
 
-예측 적응증이 존재하지 않아 기존 적응증과 신규 적응증 간의 기전 관련성 분석을 진행할 수 없습니다. 기전 분석을 수행하려면 DrugBank API에서 직접 MOA 및 약리 분류 데이터를 수집해야 합니다.
+신혈관성 고혈압은 신동맥 협착으로 레닌-안지오텐신-알도스테론계가 활성화되고 이차성 알도스테론 과잉이 생깁니다. 따라서 ENaC 차단이 기전상 그럴듯하다고 볼 수 있습니다.
 
----
+그러나 악성 신혈관성 고혈압은 주로 신동맥 협착과 허혈이 원인이며, 핵심 치료는 혈관 재개통과 RAAS 차단입니다. Amiloride는 기껏해야 보조 요법에 해당합니다. 연결된 문헌도 이 질환 자체를 다룬 연구가 아니라 무기질코르티코이드 고혈압 전반에 대한 리뷰입니다.
 
 ## 임상시험 근거
 
 현재 관련 임상시험 등록이 없습니다.
 
-*(예측 적응증 데이터가 확보되면 해당 적응증 기준으로 재조회 필요)*
-
----
-
 ## 문헌 근거
 
-현재 관련 문헌이 없습니다.
+| PMID | 연도 | 유형 | 저널 | 주요 발견 |
+|------|-----|------|------|---------|
+| [12929904](https://pubmed.ncbi.nlm.nih.gov/12929904/) | 2003 | Review | J Hypertens Suppl | 무기질코르티코이드 고혈압의 진단적 접근. 저칼륨혈증, 낮은 혈장 레닌 활성, 원발성 알도스테론증이 주요 내용이며, 악성 신혈관성 고혈압을 직접 다루지 않음 |
 
-*(예측 적응증 데이터가 확보되면 해당 적응증 기준으로 재조회 필요)*
+## 한국 시판 정보
 
----
+| 허가번호 | 제품명 | 제형 | 허가 적응증 |
+|---------|------|------|-----------|
+| 198100103 | 아미로정(염산아미로라이드) | 미황색의 원형정제 | 적응증 텍스트는 기록되어 있지 않고, 허가사항 PDF 링크만 제공됨 |
 
 ## 안전성 고려사항
 
 안전성 정보는 허가사항을 참조하세요.
-
-*(TFDA 仿單 PDF 미수집 상태 — Data Gap DG001: Blocking 수준. DDI 조회 결과 없음)*
-
----
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 예측 적응증 데이터가 없어 재창출 타당성 평가 자체를 진행할 수 없습니다. 작용 기전(MOA), 안전성 경고/금기 모두 미수집 상태로, 최소 데이터 요건이 충족되지 않습니다.
-
-<!-- review:begin kr-lic-20261105-amiloride_hydrochloride-2 -->
-
-> **검토 정정 (2026-11-05)**: 원래 문장: “작용 기전(MOA), 안전성 경고/금기, 대만 허가 이력 모두 미수집 상태로, 최소 데이터 요건이 충족되지 않습니다.” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
-
-<!-- review:end kr-lic-20261105-amiloride_hydrochloride-2 -->
+이 질환을 직접 연구한 임상시험이나 문헌이 없어 근거 수준은 L5입니다. 예측 점수는 높지만 질환 특이적 근거가 뒷받침하지 않습니다. 악성 신혈관성 고혈압은 재개통과 RAAS 차단이 중심이어서 amiloride의 역할도 제한적일 수 있습니다.
 
 **진행하려면 필요한 것:**
-- **[Blocking]** TFDA 仿單 수집 — TFDA 공식 사이트에서 PDF 다운로드 후 경고/금기 파싱
-- **[High]** DrugBank API를 통한 MOA, 약리 분류, 독성 데이터 수집 (`drugbank_id` 확인 필요)
-- **[High]** TxGNN 모델 재실행 — `predicted_indications` 데이터 생성
-- **[Medium]** DDI 데이터베이스 재조회 — 현재 `not_found` 상태로 확인 필요
-
-<!-- review:begin kr-lic-20261105-amiloride_hydrochloride-3 -->
-
-> **검토 정정 (2026-11-05)**: 원래 문장: “**[Medium]** DDI 데이터베이스 재조회 — 현재 `not_found` 상태로 확인 필요 / **[참고]** Amiloride는 국제적으로 고혈압·부종 적응증으로 허가된 약물이나, 대만 내 허가 이력이 없으므로 규제 경로 별도 검토 필요” 삭제: 대만 TFDA에 관한 템플릿 잔여 문구로, 이 한국 페이지와 관련이 없습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
-
-<!-- review:end kr-lic-20261105-amiloride_hydrochloride-3 -->
+- 신혈관성 고혈압에서 amiloride의 혈압 강하 효과를 평가한 직접 연구 (전임상 또는 임상)
+- 상세한 작용 기전 데이터 확보
+- 허가사항 전문(경고, 금기, 상호작용) 확인. 특히 신기능 저하 환자의 고칼륨혈증 위험을 평가해야 합니다.
+- 기존 표준 치료(재개통, RAAS 차단제)에 대한 보조 요법으로서의 위치 정립
 
 <!-- review:begin log -->
 
@@ -131,9 +103,9 @@ TxGNN 예측 적응증 데이터가 없어 재창출 타당성 평가 자체를 
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “대만 내 시판 허가 이력이 없으며” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
-| 2026-11-05 | 삭제: “대만 허가 이력” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
-| 2026-11-05 | 삭제: “**[참고]** Amiloride는 국제적으로 고혈압·부종 적응증으로 허가된 약물이나, 대만 내 허가 이력이 없으므로 규제 경로 별도 검토 필요” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “대만 내 시판 허가 이력이 없으며” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “대만 허가 이력” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-05 | 삭제: “**[참고]** Amiloride는 국제적으로 고혈압·부종 적응증으로 허가된 약물이나, 대만 내 허가 이력이 없으므로 규제 경로 별도 검토 필요” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

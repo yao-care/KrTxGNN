@@ -194,6 +194,7 @@
       "sources": [
         "AuTxGNN",
         "CaTxGNN",
+        "FITxGNN",
         "HkTxGNN",
         "SgTxGNN",
         "ZaTxGNN"
@@ -416,6 +417,7 @@
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -475,6 +477,7 @@
         "AuTxGNN",
         "CaTxGNN",
         "HkTxGNN",
+        "SETxGNN",
         "SgTxGNN",
         "UkTxGNN"
       ]
@@ -745,6 +748,7 @@
     "db06697": {
       "page": "artemether",
       "sources": [
+        "SETxGNN",
         "ZaTxGNN"
       ]
     },
@@ -1117,6 +1121,7 @@
       "sources": [
         "AuTxGNN",
         "CaTxGNN",
+        "FITxGNN",
         "HkTxGNN"
       ]
     },

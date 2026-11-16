@@ -222,7 +222,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “한국 허가 이력이 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-alfuzosin_hydrochloride-1",
@@ -242,7 +245,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “한국 내 허가 이력이 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-alfuzosin_hydrochloride-2",
@@ -263,7 +269,10 @@
    "checked": "2026-11-05",
    "summary": "삭제: “현재 한국 내 허가된 제품이 없습니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "TxGNN 모델이 이 약물에 대한 신규 적응증 예측을 제공하지 않았으므로, 기존 적응증과 신규 적응증 간 연관성 분석 역시 현 단계에서는 수행할 수 없습니다."
+   "anchor": "TxGNN 모델이 이 약물에 대한 신규 적응증 예측을 제공하지 않았으므로, 기존 적응증과 신규 적응증 간 연관성 분석 역시 현 단계에서는 수행할 수 없습니다.",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-alitretinoin-1",
@@ -304,7 +313,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “현재 허가 이력이 없어”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-amantadine_sulfate-1",
@@ -324,7 +336,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “현재 한국 내 허가 기록이 없는 약물로”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-amantadine_sulfate-2",
@@ -345,7 +360,10 @@
    "checked": "2026-11-05",
    "summary": "삭제: “현재 AMANTADINE SULFATE의 한국 허가 기록이 없습니다 (총 0건)”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "DrugBank 쿼리(query_log ID #2)는 1건의 결과를 반환하는 데 성공했으나, 해당 내용이 Evidence Pack에 반영되지 않았습니다. `drugbank_id`도 확인되지 않은 상태입니다. MOA 및 DrugBank 기본 정보를 확보한 뒤 분석을 재개해야 합니다."
+   "anchor": "DrugBank 쿼리(query_log ID #2)는 1건의 결과를 반환하는 데 성공했으나, 해당 내용이 Evidence Pack에 반영되지 않았습니다. `drugbank_id`도 확인되지 않은 상태입니다. MOA 및 DrugBank 기본 정보를 확보한 뒤 분석을 재개해야 합니다.",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-ambroxol_hydrochloride-1",
@@ -365,7 +383,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “대만 허가 이력이 없어”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-ambroxol_hydrochloride-2",
@@ -385,7 +406,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “대만 허가 이력·작용”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-ambroxol_hydrochloride-3",
@@ -405,7 +429,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “**[High]** 대만 허가 현황 재확인 — TFDA 데이터베이스에서 \"AMBROXOL\" 성분명으로 재검색 (조회 시 `AMBROXOL`과 `AMBROXOL HYDROCHLORIDE` 두 형태 모두 시도)”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-amikacin-1",
@@ -445,7 +472,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “대만 내 시판 허가 이력이 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-amiloride_hydrochloride-2",
@@ -465,7 +495,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “대만 허가 이력”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-amiloride_hydrochloride-3",
@@ -485,7 +518,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “**[참고]** Amiloride는 국제적으로 고혈압·부종 적응증으로 허가된 약물이나, 대만 내 허가 이력이 없으므로 규제 경로 별도 검토 필요”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-amiodarone_hydrochloride-1",
@@ -505,7 +541,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “한국 내 허가 이력도 없어”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-amisulpride-1",
@@ -585,7 +624,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “현재 한국에 허가 이력이 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-apalutamide-1",
@@ -1293,7 +1335,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “한국 시판 허가 이력이 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-glibenclamide-1",
@@ -1722,7 +1767,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “Ropinirole Hydrochloride는 현재 한국에 허가 이력이 없는 약물입니다”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-ropinirole_hydrochloride-2",
@@ -1742,7 +1790,10 @@
    ],
    "checked": "2026-11-05",
    "summary": "삭제: “한국 MFDS 미허가 약물이므로”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261031-ruxolitinib_phosphate-1",
@@ -1762,7 +1813,10 @@
    ],
    "checked": "2026-10-31",
    "summary": "삭제: “한국에서 현재 **미시판 상태**로 허가 내역이 없고”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261105-spironolactone-1",
@@ -1945,7 +1999,10 @@
     }
    ],
    "checked": "2026-11-12",
-   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）"
+   "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-11-16",
+   "resolved_note": "2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음"
   },
   {
    "id": "kr-lic-20261112-ramipril-1",
