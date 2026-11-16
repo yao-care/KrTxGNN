@@ -1,7 +1,20 @@
 {
-  "total": 646,
-  "generated_at": "2026-11-16T04:23:13.191260",
+  "total": 671,
+  "generated_at": "2026-11-16T21:31:17.752239",
   "drugs": [
+    {
+      "name": "Abacavir Sulfate",
+      "file": "abacavir_sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "",
+      "inn": "Abacavir",
+      "predicted_indications": [
+        "feline acquired immunodeficiency syndrome",
+        "simian immunodeficiency virus infection",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
+    },
     {
       "name": "Abatacept",
       "file": "abatacept.md",
@@ -254,6 +267,37 @@
       ]
     },
     {
+      "name": "Alfentanil Hydrochloride",
+      "file": "alfentanil_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Alfentanil",
+      "predicted_indications": [
+        "nephrogenic syndrome of inappropriate antidiuresis"
+      ]
+    },
+    {
+      "name": "Alfuzosin Hydrochloride",
+      "file": "alfuzosin_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Alfuzosin",
+      "predicted_indications": [
+        "Ambras type hypertrichosis universalis congenita",
+        "hypertrichosis (disease)",
+        "malformation syndrome with odontal and/or periodontal component",
+        "syndrome with a Dandy-Walker malformation as major feature",
+        "isolated genetic hair shaft abnormality",
+        "familial isolated trichomegaly",
+        "allergic urticaria",
+        "persistent fetal circulation syndrome",
+        "hypotrichosis simplex of the scalp",
+        "congenital hypotrichosis milia"
+      ]
+    },
+    {
       "name": "Alirocumab",
       "file": "alirocumab.md",
       "evidence_level": "L5",
@@ -355,6 +399,26 @@
       ]
     },
     {
+      "name": "Alpha-Tocopherol",
+      "file": "alpha-tocopherol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "alpha-Tocopherol acetate",
+      "predicted_indications": [
+        "drug-induced osteoporosis",
+        "diabetic cataract",
+        "mature cataract",
+        "diabetes mellitus type 2 associated cataract",
+        "tetanic cataract",
+        "immature cataract",
+        "craniostenosis cataract",
+        "cortical cataract",
+        "nuclear senile cataract",
+        "diabetic retinopathy"
+      ]
+    },
+    {
       "name": "Alpha-Tocopherol Acetate",
       "file": "alpha-tocopherol_acetate.md",
       "evidence_level": "L5",
@@ -422,6 +486,39 @@
       ]
     },
     {
+      "name": "Alverine Citrate",
+      "file": "alverine_citrate.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Alverine",
+      "predicted_indications": [
+        "dysthymic disorder",
+        "neurotic disorder",
+        "anxiety disorder",
+        "migraine disorder",
+        "neurotic depression",
+        "melancholia",
+        "benign paroxysmal torticollis of infancy",
+        "agoraphobia",
+        "congenital isolated adrenocorticotropic hormone deficiency (disease)"
+      ]
+    },
+    {
+      "name": "Amantadine Sulfate",
+      "file": "amantadine_sulfate.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Amantadine",
+      "predicted_indications": [
+        "Rasmussen subacute encephalitis",
+        "transaldolase deficiency",
+        "myelitis",
+        "PLA2G6-associated neurodegeneration"
+      ]
+    },
+    {
       "name": "Ambrisentan",
       "file": "ambrisentan.md",
       "evidence_level": "L5",
@@ -434,6 +531,20 @@
         "hypotrichosis simplex of the scalp",
         "hypertrichosis (disease)",
         "syndrome with a Dandy-Walker malformation as major feature"
+      ]
+    },
+    {
+      "name": "Ambroxol Hydrochloride",
+      "file": "ambroxol_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Ambroxol",
+      "predicted_indications": [
+        "nasal cavity disease",
+        "vulvovaginal candidiasis",
+        "faucial diphtheria",
+        "cervical disc degenerative disorder"
       ]
     },
     {
@@ -454,6 +565,21 @@
         "hyperamylasemia",
         "polyclonal hyperviscosity syndrome",
         "meningococcemia"
+      ]
+    },
+    {
+      "name": "Amiloride Hydrochloride",
+      "file": "amiloride_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": "",
+      "inn": "Amiloride",
+      "predicted_indications": [
+        "malignant hypertensive renal disease",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "Braddock syndrome",
+        "chronic pulmonary heart disease"
       ]
     },
     {
@@ -484,6 +610,63 @@
         "sciatic neuropathy",
         "hyperthyroidism",
         "kyphoscoliotic heart disease"
+      ]
+    },
+    {
+      "name": "Amiodarone Hydrochloride",
+      "file": "amiodarone_hydrochloride.md",
+      "evidence_level": "L4",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Amiodarone",
+      "predicted_indications": [
+        "catecholaminergic polymorphic ventricular tachycardia",
+        "incessant infant ventricular tachycardia",
+        "obsolete bundle branch block",
+        "rheumatoid arthritis",
+        "brachydactyly-syndactyly syndrome",
+        "heparin cofactor 2 deficiency",
+        "trichotillomania",
+        "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+        "gout"
+      ]
+    },
+    {
+      "name": "Amlodipine Besylate",
+      "file": "amlodipine_besylate.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Amlodipine",
+      "predicted_indications": [
+        "brain stem infarction",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "malignant hypertensive renal disease",
+        "cerebral artery occlusion",
+        "Braddock syndrome",
+        "MRI defined brain infarct",
+        "ABri amyloidosis",
+        "intracerebral hemorrhage"
+      ]
+    },
+    {
+      "name": "Amlodipine Maleate",
+      "file": "amlodipine_maleate.md",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "predicted_indication": "",
+      "inn": "Amlodipine",
+      "predicted_indications": [
+        "brain stem infarction",
+        "pulmonary hypertension with unclear multifactorial mechanism",
+        "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "malignant hypertensive renal disease",
+        "cerebral artery occlusion",
+        "Braddock syndrome",
+        "MRI defined brain infarct",
+        "ABri amyloidosis",
+        "intracerebral hemorrhage"
       ]
     },
     {
@@ -560,6 +743,18 @@
       ]
     },
     {
+      "name": "Anagrelide Hydrochloride",
+      "file": "anagrelide_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "",
+      "inn": "Anagrelide",
+      "predicted_indications": [
+        "reactive thrombocytosis",
+        "inverse Klippel-Trenaunay syndrome"
+      ]
+    },
+    {
       "name": "Anastrozole",
       "file": "anastrozole.md",
       "evidence_level": "L5",
@@ -572,6 +767,23 @@
         "ganglioneuroblastoma (disease)",
         "retroperitoneal neoplasm",
         "monocytic leukemia"
+      ]
+    },
+    {
+      "name": "Anhydrous Caffeine",
+      "file": "anhydrous_caffeine.md",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "predicted_indication": "",
+      "inn": "Caffeine",
+      "predicted_indications": [
+        "nasal cavity disease",
+        "thrombotic disease",
+        "papillary conjunctivitis",
+        "glossodynia",
+        "coccygodynia",
+        "trigeminal autonomic cephalalgia",
+        "vein disease"
       ]
     },
     {
@@ -603,6 +815,21 @@
         "syndrome with a Dandy-Walker malformation as major feature",
         "subarachnoid hemorrhage (disease)",
         "isolated genetic hair shaft abnormality"
+      ]
+    },
+    {
+      "name": "Arformoterol Tartrate",
+      "file": "arformoterol_tartrate.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": "",
+      "inn": "Arformoterol",
+      "predicted_indications": [
+        "hyperlucent lung",
+        "respiratory malformation",
+        "tracheal stenosis",
+        "Rienhoff syndrome",
+        "tracheal calcification"
       ]
     },
     {
@@ -684,6 +911,20 @@
       ]
     },
     {
+      "name": "Articaine Hydrochloride",
+      "file": "articaine_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Articaine",
+      "predicted_indications": [
+        "gout",
+        "exostosis",
+        "allergic asthma",
+        "intrinsic asthma"
+      ]
+    },
+    {
       "name": "Ascorbic Acid",
       "file": "ascorbic_acid.md",
       "evidence_level": "L5",
@@ -731,6 +972,54 @@
         "uterine ligament serous adenocarcinoma",
         "signet ring cell variant cervical mucinous adenocarcinoma",
         "intestinal variant cervical mucinous adenocarcinoma"
+      ]
+    },
+    {
+      "name": "Atomoxetine Hydrochloride",
+      "file": "atomoxetine_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Atomoxetine",
+      "predicted_indications": [
+        "specific developmental disorder",
+        "faciodigitogenital syndrome",
+        "chondromyxoid fibroma",
+        "trichotillomania",
+        "restless legs syndrome",
+        "manic bipolar affective disorder",
+        "Tourette syndrome",
+        "transient tic disorder",
+        "cerebellar ataxia",
+        "autosomal dominant cerebellar ataxia"
+      ]
+    },
+    {
+      "name": "Atorvastatin Calcium",
+      "file": "atorvastatin_calcium.md",
+      "evidence_level": "L2",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Atorvastatin",
+      "predicted_indications": [
+        "HIV infectious disease",
+        "brain stem infarction",
+        "cholesterol-ester transfer protein deficiency",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      ]
+    },
+    {
+      "name": "Atorvastatin Calcium Trihydrate",
+      "file": "atorvastatin_calcium_trihydrate.md",
+      "evidence_level": "L2",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Atorvastatin",
+      "predicted_indications": [
+        "HIV infectious disease",
+        "brain stem infarction",
+        "cholesterol-ester transfer protein deficiency",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
       ]
     },
     {
@@ -4484,6 +4773,17 @@
       ]
     },
     {
+      "name": "Gilteritinib Fumarate",
+      "file": "gilteritinib_fumarate.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Gilteritinib",
+      "predicted_indications": [
+        "bulbar polio"
+      ]
+    },
+    {
       "name": "Ginseng",
       "file": "ginseng.md",
       "evidence_level": "L5",
@@ -4520,6 +4820,17 @@
         "glycogen storage disease due to hepatic glycogen synthase deficiency",
         "chronic hepatitis B virus infection",
         "disorder of phenylalanine metabolism"
+      ]
+    },
+    {
+      "name": "Glatiramer Acetate",
+      "file": "glatiramer_acetate.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "",
+      "inn": "Glatiramer",
+      "predicted_indications": [
+        "hemoglobinopathy"
       ]
     },
     {
@@ -8631,6 +8942,69 @@
       ]
     },
     {
+      "name": "Ropinirole Hydrochloride",
+      "file": "ropinirole_hydrochloride.md",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Ropinirole",
+      "predicted_indications": [
+        "attention deficit-hyperactivity disorder",
+        "faciodigitogenital syndrome",
+        "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
+        "retinal dystrophy with or without extraocular anomalies",
+        "schizophrenia",
+        "myopia X-linked",
+        "congenital disorder of glycosylation with defective fucosylation",
+        "atypical glycine encephalopathy",
+        "myopia 26, X-linked, female-limited",
+        "Charcot-Marie-Tooth disease, demyelinating, type 1G"
+      ]
+    },
+    {
+      "name": "Ropivacaine Hydrochloride",
+      "file": "ropivacaine_hydrochloride.md",
+      "evidence_level": "L3",
+      "indication_count": 4,
+      "predicted_indication": "",
+      "inn": "Ropivacaine",
+      "predicted_indications": [
+        "migraine disorder",
+        "migraine with brainstem aura",
+        "nephrogenic syndrome of inappropriate antidiuresis",
+        "dysthymic disorder"
+      ]
+    },
+    {
+      "name": "Rosuvastatin Calcium",
+      "file": "rosuvastatin_calcium.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": "",
+      "inn": "Rosuvastatin",
+      "predicted_indications": [
+        "cholesterol-ester transfer protein deficiency",
+        "brain stem infarction",
+        "HIV infectious disease",
+        "hypoalphalipoproteinemia",
+        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+        "ABri amyloidosis"
+      ]
+    },
+    {
+      "name": "Roxatidine Acetate Hydrochloride",
+      "file": "roxatidine_acetate_hydrochloride.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "",
+      "inn": "Roxatidine acetate",
+      "predicted_indications": [
+        "peptic ulcer perforation",
+        "gastroduodenitis",
+        "duodenal obstruction"
+      ]
+    },
+    {
       "name": "Roxithromycin",
       "file": "roxithromycin.md",
       "evidence_level": "L5",
@@ -8657,6 +9031,26 @@
       "inn": "RUFINAMIDE",
       "predicted_indications": [
         "perioral myoclonia with absences"
+      ]
+    },
+    {
+      "name": "Ruxolitinib Phosphate",
+      "file": "ruxolitinib_phosphate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "",
+      "inn": "Ruxolitinib",
+      "predicted_indications": [
+        "uterine corpus perivascular epithelioid cell tumor",
+        "benign PEComa",
+        "lymphangiomyoma",
+        "lymphangioleiomyomatosis",
+        "liposarcoma",
+        "familial rhabdoid tumor",
+        "lung PEComa",
+        "ovarian myxoid liposarcoma",
+        "acquired hemophagocytic lymphohistiocytosis associated with malignant disease",
+        "hemophagocytic syndrome associated with an infection"
       ]
     },
     {
