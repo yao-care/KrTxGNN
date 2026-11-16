@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 약물 재창출 예측 — 대한민국
-description: "TxGNN 약물재창출 보고서: 의약품안전나라(nedrug) 허가 의약품 673개에 대해 임상시험·문헌 근거에 따른 L1–L5 근거 수준을 제공합니다."
+description: "TxGNN 약물재창출 보고서: 의약품안전나라(nedrug) 허가 의약품 698개에 대해 임상시험·문헌 근거에 따른 L1–L5 근거 수준을 제공합니다."
 nav_order: 1
 ---
 
@@ -32,7 +32,7 @@ nav_order: 1
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-이 사이트의 예측 약물–질환 쌍 94개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
+이 사이트의 예측 약물–질환 쌍 238개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
 
 ### 이 사이트에서 근거 수준이 가장 높은 의약품
 
@@ -43,31 +43,31 @@ nav_order: 1
 | [Cefprozil](/drugs/cefprozil/) | L1 |
 | [Clofarabine](/drugs/clofarabine/) | L1 |
 | [Doxorubicin](/drugs/doxorubicin/) | L1 |
+| [Atorvastatin Calcium Trihydrate](/drugs/atorvastatin-calcium-trihydrate/) | L1 |
 | [Ketorolac](/drugs/ketorolac/) | L1 |
 | [Dapsone](/drugs/dapsone/) | L1 |
 | [Acetylcysteine](/drugs/acetylcysteine/) | L2 |
 | [Desoximetasone](/drugs/desoximetasone/) | L2 |
-| [Diazepam](/drugs/diazepam/) | L2 |
 
 ### 30개 TxGNN 사이트 중 이 사이트에만 수록된 의약품
 
 | 의약품 | 근거 수준 |
 |---|---|
+| [Atorvastatin Calcium Trihydrate](/drugs/atorvastatin-calcium-trihydrate/) | L1 |
+| [Ropinirole Hydrochloride](/drugs/ropinirole-hydrochloride/) | L3 |
+| [Atorvastatin Calcium](/drugs/atorvastatin-calcium/) | L3 |
 | [Propacetamol](/drugs/propacetamol/) | L3 |
+| [Ropivacaine Hydrochloride](/drugs/ropivacaine-hydrochloride/) | L3 |
+| [Amiodarone Hydrochloride](/drugs/amiodarone-hydrochloride/) | L4 |
 | [Pranlukast](/drugs/pranlukast/) | L4 |
+| [Alfuzosin Hydrochloride](/drugs/alfuzosin-hydrochloride/) | L5 |
+| [Alpha-Tocopherol](/drugs/alpha-tocopherol/) | L5 |
+| [Atomoxetine Hydrochloride](/drugs/atomoxetine-hydrochloride/) | L5 |
 | [Cefamandole Nafate](/drugs/cefamandole-nafate/) | L5 |
 | [Magnesium Lactate](/drugs/magnesium-lactate/) | L5 |
 | [Pegteograstim](/drugs/pegteograstim/) | L5 |
 | [Proxyphylline](/drugs/proxyphylline/) | L5 |
-| [Talniflumate](/drugs/talniflumate/) | L5 |
-| [Cyclofenil](/drugs/cyclofenil/) | L5 |
-| [Polmacoxib](/drugs/polmacoxib/) | L5 |
-| [Anagliptin](/drugs/anagliptin/) | L5 |
-| [Clevudine](/drugs/clevudine/) | L5 |
-| [Ethyl Loflazepate](/drugs/ethyl-loflazepate/) | L5 |
-| [Hydrocortisone Probutate](/drugs/hydrocortisone-probutate/) | L5 |
-| [Oxiracetam](/drugs/oxiracetam/) | L5 |
-| [Tiemonium Iodide](/drugs/tiemonium-iodide/) | L5 |
+| [Ruxolitinib Phosphate](/drugs/ruxolitinib-phosphate/) | L5 |
 
 <!-- local-home:end -->
 

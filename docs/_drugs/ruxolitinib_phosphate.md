@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Ruxolitinib Phosphate
 parent: 모델 예측만 (L5)
 nav_order: 677
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+indication_count: 10
+drugbank_id: DB08877
+monitor_inn: "Ruxolitinib"
+predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
+last_modified_at: 2026-11-16
+description: "Ruxolitinib Phosphate: 예측 신규 적응증 자궁체부 혈관주위 상피양 세포 종양 (uterine corpus perivascular epithelioid cell tumor) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Ruxolitinib Phosphate
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **0** 건
+근거 수준: **L5** | 예측 적응증: **10** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +34,68 @@ predicted_indications: []
 
 </div>
 
-Evidence Pack을 분석했습니다. `predicted_indications`가 비어 있고 핵심 데이터가 대부분 누락된 특수 케이스입니다. 아래에 가용 데이터 기반 보고서를 작성합니다.
-
----
-
-## Ruxolitinib Phosphate: 예측 적응증 없음 — 데이터 보강 후 재평가 필요
+## Ruxolitinib Phosphate: 자궁체부 혈관주위 상피양 세포 종양 (uterine corpus perivascular epithelioid cell tumor)
 {: .text-alpha }
 
 ## 한 문장 요약
 
-Ruxolitinib Phosphate는 이번 Evidence Pack에 기존 적응증 정보가 포함되어 있지 않으며, TxGNN 모델의 신규 적응증 예측 결과도 없습니다. 작용 기전(MOA)과 안전성 데이터가 모두 확보되지 않아 재창출 타당성 평가가 불가능한 상태입니다.
-
-<!-- review:begin kr-lic-20261031-ruxolitinib_phosphate-1 -->
-
-> **검토 정정 (2026-10-31)**: 원래 문장: “한국에서 현재 **미시판 상태**로 허가 내역이 없고, 작용 기전(MOA)과 안전성 데이터가 모두 확보되지 않아 재창출 타당성 평가가 불가능한 상태입니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 4건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
-
-<!-- review:end kr-lic-20261031-ruxolitinib_phosphate-1 -->
+Ruxolitinib phosphate는 JAK1/2를 억제하는 약물로, 국내에 시판 중입니다.
+TxGNN 모델은 **자궁체부 혈관주위 상피양 세포 종양(uterine corpus perivascular epithelioid cell tumor)**에 효과가 있을 수 있다고 예측하며, 예측 점수는 0.9973입니다.
+그러나 이 질환을 직접 다룬 **임상시험과 문헌은 모두 0건**이어서 모델 예측만 있는 단계입니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 정보 없음 |
-| 예측 신규 적응증 | 예측 결과 없음 |
-| TxGNN 예측 점수 | 해당 없음 |
-| 근거 수준 | 해당 없음 (예측 결과 미포함) |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301663/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301664/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201301665/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201606813/EE) |
+| 예측 신규 적응증 | 자궁체부 혈관주위 상피양 세포 종양 (uterine corpus perivascular epithelioid cell tumor) |
+| TxGNN 예측 점수 | 0.9973 |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 4건 / 전체 4건) |
 | 허가증 수 | 4건 (유효 4건) |
-| 권장 결정 | **Hold** |
+| 권장 결정 | Hold |
 
-## 누락 데이터 현황
+## 이 예측이 타당한 이유는?
 
-이번 Evidence Pack에는 재창출 평가에 필수적인 핵심 데이터가 다음과 같이 누락되어 있습니다:
+현재 상세한 작용 기전 데이터는 수집되지 않았습니다. 알려진 범위에서 ruxolitinib은 JAK1/2를 억제하여 JAK-STAT 신호전달을 차단하는 약물입니다.
 
-| ID | 항목 | 심각도 | 영향 | 보완 방법 |
-|----|------|--------|------|----------|
-| DG001 | 허가 경고 / 금기 사항 | 차단 (Blocking) | 안전성 초평가 불가 | 허가 기관 공식 사이트에서 의약품 설명서 PDF 다운로드 후 파싱 |
-| DG002 | 작용 기전 (MOA) | 높음 (High) | 기전 연관성 분석 불가 | DrugBank API 조회 |
+반면 혈관주위 상피양 세포 종양(PEComa)은 주로 TSC1/TSC2 소실에 따른 mTOR 경로 활성화로 발생합니다. 이 질환이 JAK-STAT 신호에 의존한다는 근거는 확인되지 않았고, ruxolitinib과의 직접적인 기전 연결도 정립되어 있지 않습니다. 따라서 이 예측을 뒷받침하려면 JAK-STAT와 mTOR 신호 간 상호작용(crosstalk)이라는 추정에 의존해야 합니다. 현 단계에서는 가설 수준이며 전임상 검증이 선행되어야 합니다.
 
-> **참고:** `query_log`에 따르면 DrugBank 조회는 **성공**(result\_count: 1)하였으나, `drugbank_id` 필드에 값이 입력되지 않았습니다. DrugBank ID 추출 및 기재가 필요합니다.
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 한국 시판 정보
+
+| 허가번호 | 제품명 | 제형 | 제조사 |
+|---------|------|------|--------|
+| 201301663 | 자카비정20밀리그램 | 흰색 내지 미색의 장방형 정제 | 한국노바티스(주) |
+| 201301664 | 자카비정15밀리그램 | 흰색 내지 미색의 타원형 정제 | 한국노바티스(주) |
+| 201301665 | 자카비정5밀리그램 | 흰색 내지 미색의 원형 정제 | 한국노바티스(주) |
+| 201606813 | 자카비정10밀리그램 | 흰색 내지 미색의 원형 정제 | 한국노바티스(주) |
+
+허가 적응증의 상세 내용은 각 허가증의 허가사항 문서를 참조하세요.
+
+## 안전성 고려사항
+
+안전성 정보는 허가사항을 참조하세요.
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 예측 적응증 데이터가 없어 재창출 후보로서의 잠재력을 평가할 수 없으며, 작용 기전·안전성 경고·금기 등 핵심 데이터가 모두 누락되어 있습니다.
+이 질환을 직접 연구한 임상시험이나 문헌이 없고 모델 예측만 있습니다(근거 수준 L5). 질환의 주된 기전(mTOR 경로)과 ruxolitinib의 표적(JAK-STAT) 사이에 확립된 연결도 없습니다.
 
 **진행하려면 필요한 것:**
-- TxGNN 파이프라인 재실행 후 `predicted_indications` 결과 추가
-- DrugBank 조회 결과(성공 확인됨)에서 `drugbank_id` 및 MOA 데이터 추출
-- 허가 기관 의약품 설명서 파싱을 통한 경고/금기 항목 수집
-- 기존 적응증(`original_indications`) 데이터 보완
+- 약물 작용 기전(MOA) 데이터 보완
+- 허가사항(경고·금기) 문서 확보 및 분석
+- PEComa에서 JAK-STAT 의존성 및 mTOR 경로와의 상호작용을 확인하는 전임상 근거
+- 해당 질환 대상 문헌·임상시험의 재검색 및 확인
 
 <!-- review:begin log -->
 
@@ -94,7 +105,7 @@ TxGNN 예측 적응증 데이터가 없어 재창출 후보로서의 잠재력�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-10-31 | 삭제: “한국에서 현재 **미시판 상태**로 허가 내역이 없고” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-10-31 | 삭제: “한국에서 현재 **미시판 상태**로 허가 내역이 없고” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

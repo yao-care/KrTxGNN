@@ -1,14 +1,20 @@
 {
-  "generated": "2026-11-04",
-  "total_drugs": 673,
+  "generated": "2026-11-16",
+  "total_drugs": 698,
   "level_counts": {
-    "L1": 7,
+    "L1": 8,
     "L2": 25,
-    "L3": 21,
-    "L4": 39,
-    "L5": 554
+    "L3": 24,
+    "L4": 40,
+    "L5": 574
   },
   "all_drugs": [
+    {
+      "name": "Abacavir Sulfate",
+      "slug": "abacavir_sulfate",
+      "level": "L5",
+      "indication_count": 3
+    },
     {
       "name": "Abatacept",
       "slug": "abatacept",
@@ -118,6 +124,18 @@
       "indication_count": 3
     },
     {
+      "name": "Alfentanil Hydrochloride",
+      "slug": "alfentanil_hydrochloride",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
+      "name": "Alfuzosin Hydrochloride",
+      "slug": "alfuzosin_hydrochloride",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Alirocumab",
       "slug": "alirocumab",
       "level": "L5",
@@ -154,6 +172,12 @@
       "indication_count": 1
     },
     {
+      "name": "Alpha-Tocopherol",
+      "slug": "alpha-tocopherol",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
       "name": "Alpha-Tocopherol Acetate",
       "slug": "alpha-tocopherol_acetate",
       "level": "L5",
@@ -178,16 +202,40 @@
       "indication_count": 6
     },
     {
+      "name": "Alverine Citrate",
+      "slug": "alverine_citrate",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Amantadine Sulfate",
+      "slug": "amantadine_sulfate",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
       "name": "Ambrisentan",
       "slug": "ambrisentan",
       "level": "L5",
       "indication_count": 5
     },
     {
+      "name": "Ambroxol Hydrochloride",
+      "slug": "ambroxol_hydrochloride",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
       "name": "Amikacin",
       "slug": "amikacin",
       "level": "L5",
       "indication_count": 10
+    },
+    {
+      "name": "Amiloride Hydrochloride",
+      "slug": "amiloride_hydrochloride",
+      "level": "L5",
+      "indication_count": 5
     },
     {
       "name": "Aminocaproic Acid",
@@ -199,6 +247,24 @@
       "name": "Aminophylline",
       "slug": "aminophylline",
       "level": "L4",
+      "indication_count": 9
+    },
+    {
+      "name": "Amiodarone Hydrochloride",
+      "slug": "amiodarone_hydrochloride",
+      "level": "L4",
+      "indication_count": 9
+    },
+    {
+      "name": "Amlodipine Besylate",
+      "slug": "amlodipine_besylate",
+      "level": "L5",
+      "indication_count": 9
+    },
+    {
+      "name": "Amlodipine Maleate",
+      "slug": "amlodipine_maleate",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -226,10 +292,22 @@
       "indication_count": 8
     },
     {
+      "name": "Anagrelide Hydrochloride",
+      "slug": "anagrelide_hydrochloride",
+      "level": "L5",
+      "indication_count": 2
+    },
+    {
       "name": "Anastrozole",
       "slug": "anastrozole",
       "level": "L5",
       "indication_count": 5
+    },
+    {
+      "name": "Anhydrous Caffeine",
+      "slug": "anhydrous_caffeine",
+      "level": "L5",
+      "indication_count": 7
     },
     {
       "name": "Apixaban",
@@ -248,6 +326,12 @@
       "slug": "aprepitant",
       "level": "L5",
       "indication_count": 10
+    },
+    {
+      "name": "Arformoterol Tartrate",
+      "slug": "arformoterol_tartrate",
+      "level": "L5",
+      "indication_count": 5
     },
     {
       "name": "Arginine",
@@ -280,6 +364,12 @@
       "indication_count": 8
     },
     {
+      "name": "Articaine Hydrochloride",
+      "slug": "articaine_hydrochloride",
+      "level": "L5",
+      "indication_count": 4
+    },
+    {
       "name": "Ascorbic Acid",
       "slug": "ascorbic_acid",
       "level": "L5",
@@ -296,6 +386,24 @@
       "slug": "atezolizumab",
       "level": "L5",
       "indication_count": 6
+    },
+    {
+      "name": "Atomoxetine Hydrochloride",
+      "slug": "atomoxetine_hydrochloride",
+      "level": "L5",
+      "indication_count": 10
+    },
+    {
+      "name": "Atorvastatin Calcium",
+      "slug": "atorvastatin_calcium",
+      "level": "L3",
+      "indication_count": 4
+    },
+    {
+      "name": "Atorvastatin Calcium Trihydrate",
+      "slug": "atorvastatin_calcium_trihydrate",
+      "level": "L1",
+      "indication_count": 4
     },
     {
       "name": "Atosiban",
@@ -1768,6 +1876,12 @@
       "indication_count": 9
     },
     {
+      "name": "Gilteritinib Fumarate",
+      "slug": "gilteritinib_fumarate",
+      "level": "L5",
+      "indication_count": 1
+    },
+    {
       "name": "Ginseng",
       "slug": "ginseng",
       "level": "L5",
@@ -1778,6 +1892,12 @@
       "slug": "givosiran",
       "level": "L5",
       "indication_count": 9
+    },
+    {
+      "name": "Glatiramer Acetate",
+      "slug": "glatiramer_acetate",
+      "level": "L5",
+      "indication_count": 1
     },
     {
       "name": "Glecaprevir",
@@ -3376,6 +3496,30 @@
       "indication_count": 10
     },
     {
+      "name": "Ropinirole Hydrochloride",
+      "slug": "ropinirole_hydrochloride",
+      "level": "L3",
+      "indication_count": 10
+    },
+    {
+      "name": "Ropivacaine Hydrochloride",
+      "slug": "ropivacaine_hydrochloride",
+      "level": "L3",
+      "indication_count": 4
+    },
+    {
+      "name": "Rosuvastatin Calcium",
+      "slug": "rosuvastatin_calcium",
+      "level": "L5",
+      "indication_count": 6
+    },
+    {
+      "name": "Roxatidine Acetate Hydrochloride",
+      "slug": "roxatidine_acetate_hydrochloride",
+      "level": "L5",
+      "indication_count": 3
+    },
+    {
       "name": "Roxithromycin",
       "slug": "roxithromycin",
       "level": "L5",
@@ -3386,6 +3530,12 @@
       "slug": "rufinamide",
       "level": "L5",
       "indication_count": 1
+    },
+    {
+      "name": "Ruxolitinib Phosphate",
+      "slug": "ruxolitinib_phosphate",
+      "level": "L5",
+      "indication_count": 10
     },
     {
       "name": "Sacituzumab Govitecan",

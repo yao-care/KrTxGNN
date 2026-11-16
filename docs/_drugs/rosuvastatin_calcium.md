@@ -1,20 +1,21 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Rosuvastatin Calcium
 parent: 모델 예측만 (L5)
 nav_order: 671
 evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-10-31
-predicted_indications: []
+indication_count: 6
+drugbank_id: DB01098
+monitor_inn: "Rosuvastatin"
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
+last_modified_at: 2026-11-16
+description: "Rosuvastatin Calcium: 예측 신규 적응증 콜레스테롤 에스터 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
 # Rosuvastatin Calcium
 {: .fs-9 }
 
-근거 수준: **L5** | 예측 적응증: **0** 건
+근거 수준: **L5** | 예측 적응증: **6** 건
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,52 +34,66 @@ predicted_indications: []
 
 </div>
 
-## Rosuvastatin Calcium: 예측 적응증 없음 — 데이터 부족으로 평가 불가
+## Rosuvastatin Calcium: 콜레스테롤 에스터 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
-
----
 
 ## 한 문장 요약
 
-Rosuvastatin Calcium은 HMG-CoA 환원효소 억제제(스타틴) 계열 약물로, 고콜레스테롤혈증 및 심혈관 질환 예방에 널리 사용됩니다.
-현재 Evidence Pack에 TxGNN 예측 적응증 데이터가 존재하지 않아 재창출 후보 평가를 진행할 수 없으며,
-규제 데이터베이스 매칭 오류(DG001 · DG002)로 인해 허가 정보·MOA·안전성 데이터가 모두 누락된 상태입니다.
-
----
+Rosuvastatin calcium은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을 낮추는 스타틴 계열 약물입니다. TxGNN 모델은 **콜레스테롤 에스터 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency)**에 효과가 있을 수 있다고 예측하며, 예측 점수는 0.9954입니다. 다만 이 질환을 직접 다룬 임상시험과 문헌은 현재 확인되지 않아, 모델 예측 외의 근거는 없습니다.
 
 ## 빠른 개요
 
 | 항목 | 내용 |
 |------|------|
-| 기존 적응증 | 허가 데이터 미수집 (매칭 실패) |
-| 예측 신규 적응증 | 예측 없음 |
-| TxGNN 예측 점수 | N/A |
-| 근거 수준 | 평가 불가 (예측 결과 없음) |
+| 기존 적응증 | [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001006/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201001026/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201506830/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201906578/EE); [MFDS 허가사항 PDF](https://nedrug.mfds.go.kr/pbp/cmn/pdfDownload/201400102/EE);  |
+| 예측 신규 적응증 | 콜레스테롤 에스터 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency) |
+| TxGNN 예측 점수 | 0.9954 |
+| 근거 수준 | L5 |
 | 한국 시판 현황 | 시판 중 (유효 허가 최소 20건) |
 | 허가증 수 | 최소 20건 |
-| 권장 결정 | **Hold** |
+| 권장 결정 | Hold |
 
----
+## 이 예측이 타당한 이유는?
+
+현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 rosuvastatin은 HMG-CoA 환원효소 억제제로, 간의 콜레스테롤 합성을 줄이고 LDL 수용체 발현을 높여 LDL 콜레스테롤을 낮춥니다.
+
+예측된 질환과 이 약물은 모두 지단백 대사와 관련이 있어, 모델이 두 대상을 연결한 것은 이해할 수 있습니다. 그러나 스타틴은 CETP 경로에 작용하지 않습니다. 이 질환에 대해 치료 목적의 임상적 근거는 아직 확립되어 있지 않으므로, 현재로서는 가설 수준의 연결로 보아야 합니다.
+
+## 임상시험 근거
+
+현재 관련 임상시험 등록이 없습니다.
+
+## 문헌 근거
+
+현재 관련 문헌이 없습니다.
+
+## 한국 시판 정보
+
+아래는 단일 성분 제품 중 일부이며, 허가 목록 전체가 아닐 수 있습니다.
+
+| 허가번호 | 제품명 | 제형 | 제조사 |
+|---------|------|------|--------|
+| 201001006 | 로비탄정20밀리그램 | 분홍색의 원형 필름코팅정제 | 삼일제약(주) |
+| 201001026 | 로바스타정10밀리그램 | 분홍색의 볼록한 원형 필름코팅정 | 한국유나이티드제약(주) |
+| 201506830 | 리포스토정10밀리그램 | 분홍색의 원형 필름코팅정제 | 고려제약(주) |
+| 201400102 | 모노로바정10밀리그램 | 분홍색의 원형 필름코팅정 | (주)유한양행 |
+| 201000988 | 크레스논정10밀리그램 | 분홍색의 원형 필름코팅정 | 동아에스티(주) |
 
 ## 안전성 고려사항
 
 안전성 정보는 허가사항을 참조하세요.
-
----
 
 ## 결론 및 다음 단계
 
 **결정: Hold**
 
 **사유:**
-TxGNN 예측 적응증이 전혀 없고, 허가 데이터·MOA·안전성 정보가 모두 누락되어 있어 현재 상태에서는 재창출 가능성 평가 자체가 불가능합니다.
+예측 점수는 높지만 이 질환을 직접 다룬 임상시험이나 문헌이 없습니다. 스타틴은 CETP 경로에 작용하지 않으므로 치료 근거도 확립되어 있지 않습니다.
 
 **진행하려면 필요한 것:**
-
-- **[DG001 · Blocking]** MFDS/TFDA 데이터베이스에서 "Rosuvastatin Calcium" 매칭 재시도 — 약물명 변형(예: Rosuvastatin, 로수바스타틴 등) 또는 성분명 정규화 후 재검색 필요
-- **[DG002 · High]** DrugBank API를 통한 DrugBank ID 및 MOA 데이터 수집 — 쿼리 로그상 `result_status: success`이나 `drugbank_id`가 null로 반환된 원인 확인 필요
-- TxGNN 예측 파이프라인 재실행 및 `repurposing_candidates` 산출 여부 확인
-- 위 데이터 갭 해소 후 Evidence Pack v5 재생성 및 평가 재개
+- 이 질환에 대한 직접적인 임상 또는 전임상 근거
+- 상세한 약물 작용 기전(MOA) 데이터
+- 허가사항의 경고, 금기 등 안전성 정보 확인
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
