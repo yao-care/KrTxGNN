@@ -1,105 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/rocuronium-bromide/
 sitemap: false
-layout: default
-title: Rocuronium Bromide
-parent: 모델 예측만 (L5)
-nav_order: 664
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-12
-predicted_indications: []
+search_exclude: true
+nav_exclude: true
 ---
-
-# Rocuronium Bromide
-{: .fs-9 }
-
-근거 수준: **L5** | 예측 적응증: **0** 건
-{: .fs-6 .fw-300 }
-
----
-
-## 목차
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## 약사 평가 보고서
-
-</div>
-
-## Rocuronium Bromide: 재창출 평가 — 데이터 보완 필요
-{: .text-alpha }
-
-## 한 문장 요약
-
-Rocuronium Bromide는 신경근 차단제(Non-depolarizing Neuromuscular Blocking Agent)로, 전신마취 시 기관내삽관 및 수술 중 근이완 목적으로 전 세계적으로 사용되는 약물입니다.
-이번 Evidence Pack에는 TxGNN 예측 적응증 데이터가 포함되어 있지 않아 재창출 후보 평가를 완료할 수 없으며, 핵심 데이터 수집 후 재평가가 필요합니다.
-현재 임상시험 근거, 문헌 근거, 한국 허가 정보 모두 미확보 상태입니다.
-
-<!-- review:begin kr-lic-20261031-rocuronium_bromide-1 -->
-
-> **검토 정정 (2026-10-31)**: 원래 문장: “> ⚠️ **데이터 무결성 경고**: Rocuronium Bromide는 전 세계 주요국에서 허가된 마취보조제입니다. 한국 시판 현황이 "Not marketed(미시판)"로 기재된 것은 MFDS 데이터 수집 미완료에 의한 오류일 가능성이 높습니다.” 삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 11건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
-
-<!-- review:end kr-lic-20261031-rocuronium_bromide-1 -->
-
----
-
-## 빠른 개요
-
-| 항목 | 내용 |
-|------|------|
-| 기존 적응증 | 미확보 (한국 허가 데이터 수집 필요) |
-| 예측 신규 적응증 | TxGNN 예측 미실행 |
-| TxGNN 예측 점수 | 해당 없음 |
-| 근거 수준 | L5 (모델 예측 데이터 없음) |
-| 한국 시판 현황 | 시판 중 (유효 허가 11건 / 전체 11건) |
-| 허가증 수 | 11건 (유효 11건) |
-| 권장 결정 | Hold |
-
----
-
-## 안전성 고려사항
-
-안전성 정보는 허가사항을 참조하세요.
-
----
-
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-TxGNN 예측 적응증 데이터가 존재하지 않고, 작용 기전(MOA), 한국 규제 허가 현황, 안전성 경고·금기 데이터가 모두 누락되어 재창출 가능성에 대한 의미 있는 평가를 수행할 수 없습니다.
-
-**진행하려면 필요한 것:**
-- **[필수 - Blocking]** TxGNN 모델에 Rocuronium Bromide를 입력하여 예측 적응증 및 점수 생성
-- **[필수 - Blocking]** MFDS(식품의약품안전처) 허가 데이터 재수집 — 국내 시판 여부 및 허가 적응증 확인
-- **[높음]** DrugBank API를 통한 DrugBank ID 매핑 및 MOA 데이터 수집 (현재 `drugbank` 쿼리는 성공했으나 ID가 미매핑 상태)
-- **[높음]** MFDS 허가사항(경고·금기) PDF 파싱을 통한 안전성 데이터 확보
-- **[참고]** Rocuronium Bromide의 약리학적 특성상 재창출 후보군은 중추신경계 또는 면역·염증 관련 적응증일 가능성이 있으나, 이는 TxGNN 예측 후 검토 요망
-
-<!-- review:begin log -->
-
-## 검토 기록
-
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
-
-| 검토일 | 항목 | 처리 | 근거 |
-|------|------|------|------|
-| 2026-10-31 | 삭제: “> ⚠️ **데이터 무결성 경고**: Rocuronium Bromide는 전 세계 주요국에서 허가된 마취보조제입니다. 한국 시판 현황이 "Not marketed(미시판)"로 기재된 것은 MFDS 데이터 수집 미완료에 의한 오류일 가능성이 높습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
-
-<!-- review:end log -->
-
-## 면책 조항
-
-본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
-임상 적용 전에 임상적 검증이 필요합니다.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/rocuronium/">
+<meta http-equiv="refresh" content="0; url=/drugs/rocuronium/">
+<script>location="/drugs/rocuronium/"</script>
+<a href="/drugs/rocuronium/">/drugs/rocuronium/</a>
+</html>

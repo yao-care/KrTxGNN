@@ -1,98 +1,16 @@
 ---
-noindex: true
+layout: id_redirect
+permalink: /drugs/atropine-sulfate/
 sitemap: false
-layout: default
-title: Atropine Sulfate
-parent: 모델 예측만 (L5)
-nav_order: 104
-evidence_level: L5
-indication_count: 0
-last_modified_at: 2026-11-05
-predicted_indications: []
+search_exclude: true
+nav_exclude: true
 ---
-
-# Atropine Sulfate
-{: .fs-9 }
-
-근거 수준: **L5** | 예측 적응증: **0** 건
-{: .fs-6 .fw-300 }
-
----
-
-## 목차
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## 약사 평가 보고서
-
-</div>
-
-## ATROPINE SULFATE: TxGNN 예측 적응증 없음 — 약물 재창출 평가 보류
-{: .text-alpha }
-
----
-
-## 한 문장 요약
-
-Atropine Sulfate는 무스카린 수용체 길항제(항콜린성 약물)로, 서맥·유기인산 중독 해독·수술 전 처치 등에 사용되어 온 약물입니다.
-이번 Evidence Pack에는 **TxGNN 예측 적응증이 생성되지 않았으며**, 한국 허가 이력 및 안전성 데이터 또한 수집되지 않아 정식 약물 재창출 평가를 진행할 수 없습니다.
-
----
-
-## 빠른 개요
-
-| 항목 | 내용 |
-|------|------|
-| 기존 적응증 | 확인 불가 |
-| 예측 신규 적응증 | 없음 (TxGNN 예측 결과 미생성) |
-| TxGNN 예측 점수 | 해당 없음 |
-| 근거 수준 | L5 (모델 예측 부재, 실제 연구 근거 없음) |
-| 한국 시판 현황 | 시판 중 (유효 허가 13건 / 전체 14건) |
-| 허가증 수 | 14건 (유효 13건) |
-| 권장 결정 | Hold |
-
----
-
-## 데이터 현황
-
-이번 Evidence Pack에는 약물 재창출 평가의 핵심 데이터 두 가지가 누락되어 있습니다.
-
-첫째, **DrugBank ID가 확인되지 않았습니다.** DrugBank 조회는 성공(result_count: 1)으로 기록되었으나 `drugbank_id` 필드가 비어 있습니다. TxGNN 예측 파이프라인은 DrugBank ID를 기반으로 지식 그래프 탐색을 수행하므로, ID 매핑 실패 시 예측 후보가 생성되지 않습니다.
-
-둘째, **작용 기전(MOA) 데이터가 수집되지 않았습니다.** Atropine Sulfate는 무스카린성 아세틸콜린 수용체의 경쟁적 길항제로 알려진 약물이지만, 기전 기반 적용 가능성 분석을 위한 구조화된 MOA 데이터가 없습니다.
-
-한국 허가 데이터 부재(미출시)와 맞물려, 현재 상태로는 약물 재창출 후보 타당성을 평가할 근거가 충분하지 않습니다.
-
----
-
-## 안전성 고려사항
-
-안전성 정보는 허가사항을 참조하세요.
-
----
-
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-TxGNN 예측 적응증이 생성되지 않았고, 한국 허가 데이터 및 안전성 정보 모두 확인되지 않아 약물 재창출 평가를 진행할 수 없습니다.
-
-**진행하려면 필요한 것:**
-- DrugBank ID 확보 및 매핑 재시도 (`DB` 식별자 확인 후 TxGNN 예측 파이프라인 재실행)
-- DrugBank API에서 MOA, 약물 분류, 독성 데이터 조회
-- 한국 식약처(MFDS) 허가 데이터베이스에서 ATROPINE SULFATE 허가 현황 확인
-- 허가사항 PDF 다운로드 및 파싱을 통해 경고·금기 정보 수집 (Data Gap DG001 해소)
-## 면책 조항
-
-본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
-임상 적용 전에 임상적 검증이 필요합니다.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/atropine/">
+<meta http-equiv="refresh" content="0; url=/drugs/atropine/">
+<script>location="/drugs/atropine/"</script>
+<a href="/drugs/atropine/">/drugs/atropine/</a>
+</html>
