@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 약물 재창출 예측 — 대한민국
-description: "TxGNN 약물재창출 보고서: 의약품안전나라(nedrug) 허가 의약품 698개에 대해 임상시험·문헌 근거에 따른 L1–L5 근거 수준을 제공합니다."
+description: "TxGNN 약물재창출 보고서: 의약품안전나라(nedrug) 허가 의약품 697개에 대해 임상시험·문헌 근거에 따른 L1–L5 근거 수준을 제공합니다."
 nav_order: 1
 ---
 

@@ -541,4 +541,4 @@ nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취�
   排程把它們列成「主管機關現行清單確認已不列」、不算查不到；preprocess 只加 `mfds_not_listed`（第一次發現日），狀態不動，又出現就取消。原本有效、卻不在下載檔的品目不推定。
 - 頁面不用改（3 張原本就以註銷呈現）；正文張數（count_prose）不受影響。
 - 同日另修：21 個公開頁（benzonatate、doxofylline、molsidomine、talc 等）front matter 補 drugbank_id（取自證據包），FHIR MedicationKnowledge／ClinicalUseDefinition 從 ec848139 前一版找回（預測跟頁面 predicted_indications 相同），再由 sync_fhir_levels 對齊（MK 673→694、CUD 3,898→4,015）。
-  alpha-tocopherol_acetate 跟 alpha-tocopherol 是同一個 DrugBank ID（DB14003）的兩個公開頁，FHIR 只能對到一頁，沒處理（待決定是否轉址）。
+  alpha-tocopherol_acetate 跟 alpha-tocopherol 是同一個 DrugBank ID（DB14003）的兩個公開頁，FHIR 只能對到一頁；2026-11-17 用戶決定 alpha-tocopherol_acetate 改成轉址到 alpha-tocopherol（照 11-16 重複頁轉址的格式，layout: id_redirect；該頁沒有查核紀錄），公開藥物頁 698→697，drug_stats、drugs.json、search-index、llms、README、首頁數字照重產，hreflang.json 拿掉該頁一組（他站的 hreflang 表仍列本站這個網址，要等各站重產）。

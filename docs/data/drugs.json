@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-16",
-  "total_count": 698,
+  "generated": "2026-11-17",
+  "total_count": 697,
   "source": "KrTxGNN",
   "drugs": [
     {
@@ -282,16 +282,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/alpha-tocopherol/"
-    },
-    {
-      "slug": "alpha-tocopherol-acetate",
-      "name": "Alpha-Tocopherol Acetate",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha-tocopherol-acetate/"
     },
     {
       "slug": "alprazolam",

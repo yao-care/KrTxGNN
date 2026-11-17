@@ -1,107 +1,16 @@
 ---
-layout: default
-title: Alpha-Tocopherol Acetate
-parent: 모델 예측만 (L5)
-nav_order: 46
-evidence_level: L5
-indication_count: 10
-monitor_inn: "alpha-Tocopherol acetate"
-predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "immature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
-last_modified_at: 2026-10-31
-description: "Alpha-Tocopherol Acetate: 예측 신규 적응증 약물 유발 골다공증 (근거 수준 L5). 기존 적응증: 노년기의 비타민 E 보급, 말초혈행장애 및 갱년기 시 어깨·목결림, 수족저림, 수족냉증 증상의 완화…"
+layout: id_redirect
+permalink: /drugs/alpha-tocopherol-acetate/
+sitemap: false
+search_exclude: true
+nav_exclude: true
 ---
-
-# Alpha-Tocopherol Acetate
-{: .fs-9 }
-
-근거 수준: **L5** | 예측 적응증: **10** 건
-{: .fs-6 .fw-300 }
-
----
-
-## 목차
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-<div id="pharmacist" markdown="1">
-
-## 약사 평가 보고서
-
-</div>
-
-## Alpha-Tocopherol acetate: 비타민 E 보급 및 말초혈행장애에서 약물 유발 골다공증으로
-{: .text-alpha }
-
-## 한 문장 요약
-
-Alpha-Tocopherol acetate(비타민 E 아세트산 에스테르)는 한국에서 노년기 비타민 E 보급, 말초혈행장애 및 갱년기 증상 완화, 마그네슘 결핍으로 인한 근육경련 등에 사용되는 성분입니다.
-TxGNN 모델은 **약물 유발 골다공증(drug-induced osteoporosis)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험이나 문헌은 확인되지 않았습니다.
-따라서 현재는 모델 예측만 있는 단계(L5)입니다.
-
-## 빠른 개요
-
-| 항목 | 내용 |
-|------|------|
-| 기존 적응증 | 노년기의 비타민 E 보급, 말초혈행장애 및 갱년기 시 어깨·목결림, 수족저림, 수족냉증 증상의 완화, 마그네슘결핍으로 인한 근육경련 |
-| 예측 신규 적응증 | 약물 유발 골다공증 |
-| TxGNN 예측 점수 | 0.9999 |
-| 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 최소 16건) |
-| 허가증 수 | 최소 20건 |
-| 권장 결정 | Hold |
-
-## 이 예측이 타당한 이유는?
-
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 비타민 E는 지용성 항산화제로 알려져 있으며, 산화 스트레스를 줄여 뼈 재형성(bone remodeling)에 영향을 줄 수 있다는 가설이 제기되어 왔습니다.
-
-다만 이 가설은 이번에 정리된 데이터로 뒷받침되지 않습니다. 약물 유발 골다공증(예: 글루코코르티코이드 유발)과 비타민 E의 연결 고리를 보여주는 임상시험이나 문헌이 없으므로, 높은 예측 점수는 TxGNN 모델(딥러닝)이 산출한 값이며 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니라고 보는 것이 안전합니다.
-
-참고로 같은 약물에 대해 백내장 계열 질환(예측 순위 2~9위)과 당뇨병성 망막병증(10위)도 예측되었습니다. 이 중 당뇨병성 망막병증은 동물 연구 2편이 있으나 사람 대상 근거는 없습니다. 이들은 모두 항산화 기전이라는 공통 가설에 기반합니다.
-
-## 임상시험 근거
-
-현재 관련 임상시험 등록이 없습니다.
-
-## 문헌 근거
-
-현재 관련 문헌이 없습니다.
-
-## 한국 시판 정보
-
-주요 허가 5건입니다. 전체 목록은 일부일 수 있습니다.
-
-| 허가번호 | 제품명 | 제형 | 허가 적응증 |
-|---------|------|------|-----------|
-| 200001186 | 이엠지연질캡슐 | 연질캡슐 | 노년기의 비타민 E의 보급과 말초혈행장애 및 갱년기 시 어깨, 목결림, 수족저림, 수족냉증(손발이 차가움) 증상의 완화와 마그... |
-| 201700641 | 비나플러스연질캡슐 | 연질캡슐 | 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력 저하 시, 노년기의 비타민 E, B1, B6의 보급과 말초혈행장애 및 갱년기의 어깨ㆍ... |
-| 200201092 | 신신미니핫플라스타 | 첩부제(플라스타) | 타박, 염좌, 근육통, 관절통, 요통, 견통, 신경통, 류마티스통의 질환 및 증상의 소염, 진통에 사용합니다. |
-| 201803085 | 맥스원플러스연질캡슐 | 연질캡슐 | 육체피로, 임신ㆍ수유기, 병중ㆍ병후의 체력 저하 시, 노년기의 비타민 E, B1의 보급과 말초혈행장애 및 갱년기의 어깨ㆍ목결림... |
-| 202400653 | 차엠지연질캡슐 | 연질캡슐 | 육체피로, 임신 및 수유기, 병을 앓는 동안이나 회복 후의 체력저하 시, 노년기의 비타민 E, B1, B2, B6의 보급에 사용합니다. ... |
-
-## 안전성 고려사항
-
-안전성 정보는 허가사항을 참조하세요.
-
-## 결론 및 다음 단계
-
-**결정: Hold**
-
-**사유:**
-약물 유발 골다공증을 직접 다룬 임상시험이나 문헌이 없고, 높은 TxGNN 점수 외에는 뒷받침하는 근거가 없습니다. 작용 기전 데이터와 허가사항의 안전성 정보도 확보되지 않아 현 단계에서 진행하기 어렵습니다.
-
-**진행하려면 필요한 것:**
-- 약물 유발 골다공증(예: 글루코코르티코이드 유발)에서 비타민 E의 효과를 평가한 전임상 및 임상 문헌 조사
-- 작용 기전(MOA) 데이터 확보
-- 허가사항의 경고·금기 정보 확인(안전성 검토)
-- 대안 후보 검토: 당뇨병성 망막병증은 동물 연구가 있어 연구 질문으로 우선 탐색할 가치가 있음
-## 면책 조항
-
-본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
-임상 적용 전에 임상적 검증이 필요합니다.
-
----
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/alpha-tocopherol/">
+<meta http-equiv="refresh" content="0; url=/drugs/alpha-tocopherol/">
+<script>location="/drugs/alpha-tocopherol/"</script>
+<a href="/drugs/alpha-tocopherol/">/drugs/alpha-tocopherol/</a>
+</html>

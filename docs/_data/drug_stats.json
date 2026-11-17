@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-16",
-  "total_drugs": 698,
+  "generated": "2026-11-17",
+  "total_drugs": 697,
   "level_counts": {
     "L1": 7,
     "L2": 27,
     "L3": 23,
     "L4": 40,
-    "L5": 574
+    "L5": 573
   },
   "all_drugs": [
     {
@@ -174,12 +174,6 @@
     {
       "name": "Alpha-Tocopherol",
       "slug": "alpha-tocopherol",
-      "level": "L5",
-      "indication_count": 10
-    },
-    {
-      "name": "Alpha-Tocopherol Acetate",
-      "slug": "alpha-tocopherol_acetate",
       "level": "L5",
       "indication_count": 10
     },
