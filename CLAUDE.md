@@ -530,3 +530,13 @@ MFDS 의약품안전나라 허가 자료的效能·效果（EE_DOC）欄位是 P
 - `scripts/build_mfds_indications.py`：證據包本藥單方許可證的 EE PDF 轉出的文字（母目錄 `.claude/kr_mfds_ee_20261023.py` 的快取，nedrug 擋雲端主機，要在本機下載）→ `docs/_data/mfds_original_indications.json`（每筆附許可證號與 PDF 網址；不改寫原文，只合併 PDF 折行）。2026-11-15 由 Release data-20261112-162414 的證據包產生，620 個藥有原文。
 - `scripts/link_mfds_pdfs.py`（apply_drug_reviews.py 結尾自動跑，gate 第 22 項）：有原文資料、而該列只有連結或寫「確認不到原文」的，改成原文摘要（160 字內）＋PDF 連結，description 同步；本來就有原文的列不動。2026-11-15 改了 523 頁（519 列＋description）。
 - search-index original：569 個原本空白的藥填入原文（300 字內）；母目錄 rebuild_search_index.py 會沿用既有 original。仍有 42 個藥取不到原文（32 個 PDF 不在快取、其餘證據包沒有網址），維持空白、SMART 顯示「—」。
+
+## 新資料查不到的許可證（2026-11-17）
+
+11-16 每週排程「新資料查不到」3 張（200607418 Preparation H Maximum Strength Cream、200800968 나라돌주500、201310113 보령필로카르핀정），證據包原本就記為註銷。
+nedrug 雲端連不到（connection reset），改用 Release data-20261116-160402 裡 11-16 排程的下載檔（95,254 筆）與 2026-03 的 ItemPermitDetail.xlsx（44,072 筆、有취소일자）對照：
+nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취소일자在最近約 3 年內的（ItemPermitDetail 裡 2023-06～10 註銷的 1,102 筆 0 筆在下載檔、2023-11 的 124 筆 90 筆在、2023-12 以後全部在）。
+3 張的취소일자是 2023-11-08（취하）、2023-11-03（취하）、2023-11-13（유효기간만료），是滑出下載窗口，不是新的狀態變化；沒有「其實還有效」的號，也沒有判斷不了的號。
+- `scripts/license_adapter.py`：fetch() 把下載檔的品目記成 CURRENT（少於 50,000 筆不判定），並收證據包裡原本就是註銷的品目；`confirmed_absent()` 只對「不在下載檔、證據包原本就註銷」的品目回真，
+  排程把它們列成「主管機關現行清單確認已不列」、不算查不到；preprocess 只加 `mfds_not_listed`（第一次發現日），狀態不動，又出現就取消。原本有效、卻不在下載檔的品目不推定。
+- 頁面不用改（3 張原本就以註銷呈現）；正文張數（count_prose）不受影響。
