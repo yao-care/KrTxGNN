@@ -1,6 +1,6 @@
 {
-  "total": 671,
-  "generated_at": "2026-11-17T06:07:31.342762",
+  "total": 670,
+  "generated_at": "2026-11-17T20:21:27.095929",
   "drugs": [
     {
       "name": "Abacavir Sulfate",
@@ -401,26 +401,6 @@
     {
       "name": "Alpha-Tocopherol",
       "file": "alpha-tocopherol.md",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "predicted_indication": "",
-      "inn": "alpha-Tocopherol acetate",
-      "predicted_indications": [
-        "drug-induced osteoporosis",
-        "diabetic cataract",
-        "mature cataract",
-        "diabetes mellitus type 2 associated cataract",
-        "tetanic cataract",
-        "immature cataract",
-        "craniostenosis cataract",
-        "cortical cataract",
-        "nuclear senile cataract",
-        "diabetic retinopathy"
-      ]
-    },
-    {
-      "name": "Alpha-Tocopherol Acetate",
-      "file": "alpha-tocopherol_acetate.md",
       "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "",
