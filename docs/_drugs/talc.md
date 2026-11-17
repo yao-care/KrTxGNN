@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 715
 evidence_level: L5
 indication_count: 10
+drugbank_id: DB09511
 last_modified_at: 2026-11-16
 description: "Talc: 예측 신규 적응증 혈전성 질환 (thrombotic disease) (근거 수준 L5). 기존 적응증: 악성 흉막삼출의 재발방지"
 monitor_inn: "Talc"

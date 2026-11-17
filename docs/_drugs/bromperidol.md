@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 162
 evidence_level: L5
 indication_count: 1
+drugbank_id: DB12401
 last_modified_at: 2026-11-06
 description: "Bromperidol: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: (경구 : 정제) 정신분열증 (주사제) 급성 정신분열증"
 monitor_inn: "BROMPERIDOL"

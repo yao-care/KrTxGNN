@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 764
 evidence_level: L5
 indication_count: 5
+drugbank_id: DB08814
 last_modified_at: 2026-11-12
 description: "Triflusal: 예측 신규 적응증 인자 V 과다에 의한 자발성 혈전증 (factor 5 excess with spontaneous thrombosis) (근거 수준 L5). 기존 적응증: 혈전증에 의한 합병증을 포함한 동맥혈전색전질환 재발방지(2차 예방) 및 혈소판 응집억제 - 불안정…"
 monitor_inn: "TRIFLUSAL"

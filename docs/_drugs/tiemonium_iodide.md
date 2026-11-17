@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 737
 evidence_level: L5
 indication_count: 1
+drugbank_id: DB13666
 last_modified_at: 2026-11-06
 description: "Tiemonium Iodide: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 1. 다음 질환에서의 경련 및 운동장애에 수반되는 동통의 완화 : 위ㆍ십이지장궤양, 위염, 대장염…"
 monitor_inn: "TIEMONIUM IODIDE"

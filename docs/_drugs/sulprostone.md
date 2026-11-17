@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 710
 evidence_level: L5
 indication_count: 10
+drugbank_id: DB12708
 monitor_inn: "Sulprostone"
 predicted_indications: ["immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetic retinopathy"]
 last_modified_at: 2026-11-05

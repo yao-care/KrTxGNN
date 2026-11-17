@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 291
 evidence_level: L5
 indication_count: 10
+drugbank_id: DB09273
 last_modified_at: 2026-10-31
 description: "Doxofylline: 예측 신규 적응증 염색체 이상을 동반한 피에르 로뱅 증후군 (Pierre Robin syndrome associated with a chrom… (근거 수준 L5). 기존 적응증: 기관지 천식, 만성폐쇄성기관지염"
 monitor_inn: "DOXOFYLLINE"

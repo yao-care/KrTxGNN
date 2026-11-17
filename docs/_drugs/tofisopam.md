@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 743
 evidence_level: L5
 indication_count: 1
+drugbank_id: DB08811
 last_modified_at: 2026-10-31
 description: "Tofisopam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 다음 질환에 의한 두통, 두중감, 권태감, 심계항진, 발한 등의 자율신경 증상 : 자율신경불균형…"
 monitor_inn: "TOFISOPAM"

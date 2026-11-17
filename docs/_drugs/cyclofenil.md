@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 239
 evidence_level: L5
 indication_count: 9
+drugbank_id: DB13472
 last_modified_at: 2026-11-06
 description: "Cyclofenil: 예측 신규 적응증 프린츠메탈 협심증 (Prinzmetal angina) (근거 수준 L5). 기존 적응증: 1. 갱년기장애 2. 제 1도 무월경, 무배란성 월경, 희발월경의 배란 유발"
 monitor_inn: "Cyclofenil"

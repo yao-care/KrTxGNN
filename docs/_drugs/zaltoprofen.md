@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 788
 evidence_level: L5
 indication_count: 8
+drugbank_id: DB06737
 monitor_inn: "Zaltoprofen"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
 last_modified_at: 2026-11-12

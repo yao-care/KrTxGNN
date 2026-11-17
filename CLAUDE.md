@@ -540,3 +540,5 @@ nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취�
 - `scripts/license_adapter.py`：fetch() 把下載檔的品目記成 CURRENT（少於 50,000 筆不判定），並收證據包裡原本就是註銷的品目；`confirmed_absent()` 只對「不在下載檔、證據包原本就註銷」的品目回真，
   排程把它們列成「主管機關現行清單確認已不列」、不算查不到；preprocess 只加 `mfds_not_listed`（第一次發現日），狀態不動，又出現就取消。原本有效、卻不在下載檔的品目不推定。
 - 頁面不用改（3 張原本就以註銷呈現）；正文張數（count_prose）不受影響。
+- 同日另修：21 個公開頁（benzonatate、doxofylline、molsidomine、talc 等）front matter 補 drugbank_id（取自證據包），FHIR MedicationKnowledge／ClinicalUseDefinition 從 ec848139 前一版找回（預測跟頁面 predicted_indications 相同），再由 sync_fhir_levels 對齊（MK 673→694、CUD 3,898→4,015）。
+  alpha-tocopherol_acetate 跟 alpha-tocopherol 是同一個 DrugBank ID（DB14003）的兩個公開頁，FHIR 只能對到一頁，沒處理（待決定是否轉址）。

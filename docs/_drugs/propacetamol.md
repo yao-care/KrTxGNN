@@ -5,6 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 632
 evidence_level: L3
 indication_count: 4
+drugbank_id: DB09288
 last_modified_at: 2026-10-31
 description: "Propacetamol: 예측 신규 적응증 편두통 (Migraine disorder) (근거 수준 L3). 기존 적응증: 통증이나 고열로 인하여 신속하게 투여할 필요가 있거나 다른 경로로 투여할 수 없는 경우 1. 외과 수술 후…"
 monitor_inn: "Propacetamol"

@@ -5,6 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 527
 evidence_level: L5
 indication_count: 10
+drugbank_id: DB09282
 monitor_inn: "Molsidomine"
 predicted_indications: ["alopecia", "vascular disease", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "idiopathic spontaneous coronary artery dissection", "venous thoracic outlet syndrome", "visceral calciphylaxis", "neurogenic thoracic outlet syndrome", "hemangioendothelioma", "congenital hypotrichosis milia"]
 last_modified_at: 2026-10-31
