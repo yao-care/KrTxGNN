@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-17",
-  "total_drugs": 697,
+  "generated": "2026-11-19",
+  "total_drugs": 695,
   "level_counts": {
     "L1": 7,
-    "L2": 27,
+    "L2": 26,
     "L3": 23,
     "L4": 40,
-    "L5": 573
+    "L5": 572
   },
   "all_drugs": [
     {
@@ -256,12 +256,6 @@
       "indication_count": 9
     },
     {
-      "name": "Amlodipine Maleate",
-      "slug": "amlodipine_maleate",
-      "level": "L5",
-      "indication_count": 9
-    },
-    {
       "name": "Amorolfine",
       "slug": "amorolfine",
       "level": "L5",
@@ -386,12 +380,6 @@
       "slug": "atomoxetine_hydrochloride",
       "level": "L5",
       "indication_count": 10
-    },
-    {
-      "name": "Atorvastatin Calcium",
-      "slug": "atorvastatin_calcium",
-      "level": "L2",
-      "indication_count": 4
     },
     {
       "name": "Atorvastatin Calcium Trihydrate",

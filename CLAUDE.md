@@ -542,3 +542,9 @@ nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취�
 - 頁面不用改（3 張原本就以註銷呈現）；正文張數（count_prose）不受影響。
 - 同日另修：21 個公開頁（benzonatate、doxofylline、molsidomine、talc 等）front matter 補 drugbank_id（取自證據包），FHIR MedicationKnowledge／ClinicalUseDefinition 從 ec848139 前一版找回（預測跟頁面 predicted_indications 相同），再由 sync_fhir_levels 對齊（MK 673→694、CUD 3,898→4,015）。
   alpha-tocopherol_acetate 跟 alpha-tocopherol 是同一個 DrugBank ID（DB14003）的兩個公開頁，FHIR 只能對到一頁；2026-11-17 用戶決定 alpha-tocopherol_acetate 改成轉址到 alpha-tocopherol（照 11-16 重複頁轉址的格式，layout: id_redirect；該頁沒有查核紀錄），公開藥物頁 698→697，drug_stats、drugs.json、search-index、llms、README、首頁數字照重產，hreflang.json 拿掉該頁一組（他站的 hreflang 表仍列本站這個網址，要等各站重產）。
+
+## 同一 DrugBank ID 的重複公開頁改轉址（2026-11-19）
+
+用戶 2026-11-19 決定（照 ARTxGNN 同日做法）：公開藥物頁同一 DrugBank ID、預測相同的，留一頁、另一頁改轉址（layout: id_redirect、permalink 不變、sitemap: false、search_exclude、nav_exclude）。
+2 組（鹽類寫法，預測、等級、許可證號完全相同，都沒有查核紀錄）：amlodipine_maleate→amlodipine_besylate（字數平手，留常用鹽類）、atorvastatin_calcium→atorvastatin_calcium_trihydrate（字數較多）。
+公開藥物頁 697→695；被轉址頁自己的 MK 由 sync_fhir_levels 當重複刪（MK 694→692、CUD 4015→4002）；衍生檔、hreflang 照重產。

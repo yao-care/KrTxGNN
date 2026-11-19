@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-17",
-  "total_count": 697,
+  "generated": "2026-11-19",
+  "total_count": 695,
   "source": "KrTxGNN",
   "drugs": [
     {
@@ -414,16 +414,6 @@
       "url": "/drugs/amlodipine-besylate/"
     },
     {
-      "slug": "amlodipine-maleate",
-      "name": "Amlodipine Maleate",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/amlodipine-maleate/"
-    },
-    {
       "slug": "amorolfine",
       "name": "Amorolfine",
       "evidence_level": "L5",
@@ -632,16 +622,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/atomoxetine-hydrochloride/"
-    },
-    {
-      "slug": "atorvastatin-calcium",
-      "name": "Atorvastatin Calcium",
-      "evidence_level": "L2",
-      "indication_count": 4,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/atorvastatin-calcium/"
     },
     {
       "slug": "atorvastatin-calcium-trihydrate",

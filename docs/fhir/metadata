@@ -6,9 +6,9 @@
   "name": "KrTxGNNFHIRServer",
   "title": "KrTxGNN FHIR Server - 한국 의약품 약물재창출",
   "status": "active",
-  "date": "2026-11-17",
+  "date": "2026-11-19",
   "publisher": "KrTxGNN Project",
-  "description": "한국 MFDS 의약품 약물재창출 예측 시스템 FHIR API. Contains 694 drugs and 4015 predicted indications.",
+  "description": "한국 MFDS 의약품 약물재창출 예측 시스템 FHIR API. Contains 692 drugs and 4002 predicted indications.",
   "kind": "instance",
   "fhirVersion": "4.0.1",
   "format": [
@@ -43,15 +43,15 @@
       "extension": [
         {
           "url": "MedicationKnowledge",
-          "valueInteger": 694
+          "valueInteger": 692
         },
         {
           "url": "ClinicalUseDefinition",
-          "valueInteger": 4015
+          "valueInteger": 4002
         },
         {
           "url": "countedAt",
-          "valueDate": "2026-11-17"
+          "valueDate": "2026-11-19"
         }
       ]
     }

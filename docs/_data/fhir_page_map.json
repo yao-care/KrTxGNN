@@ -78,7 +78,6 @@
       "sources": [
         "ARTxGNN",
         "AuTxGNN",
-        "COTxGNN",
         "CaTxGNN",
         "DkTxGNN",
         "HkTxGNN",

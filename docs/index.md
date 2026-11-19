@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 약물 재창출 예측 — 대한민국
-description: "TxGNN 약물재창출 보고서: 의약품안전나라(nedrug) 허가 의약품 697개에 대해 임상시험·문헌 근거에 따른 L1–L5 근거 수준을 제공합니다."
+description: "TxGNN 약물재창출 보고서: 의약품안전나라(nedrug) 허가 의약품 695개에 대해 임상시험·문헌 근거에 따른 L1–L5 근거 수준을 제공합니다."
 nav_order: 1
 ---
 
@@ -32,7 +32,7 @@ nav_order: 1
 | L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
 {% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
 
-이 사이트의 예측 약물–질환 쌍 186개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
+이 사이트의 예측 약물–질환 쌍 177개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
 
 ### 이 사이트에서 근거 수준이 가장 높은 의약품
 
@@ -66,8 +66,8 @@ nav_order: 1
 | [Proxyphylline](/drugs/proxyphylline/) | L5 |
 | [Ruxolitinib Phosphate](/drugs/ruxolitinib-phosphate/) | L5 |
 | [Talniflumate](/drugs/talniflumate/) | L5 |
-| [Amlodipine Maleate](/drugs/amlodipine-maleate/) | L5 |
 | [Cyclofenil](/drugs/cyclofenil/) | L5 |
+| [Polmacoxib](/drugs/polmacoxib/) | L5 |
 
 <!-- local-home:end -->
 
