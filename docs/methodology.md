@@ -14,6 +14,23 @@ AI 예측에서 근거 등급화까지 — 모든 후보는 등급 판정의 근
 
 ---
 
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## 대한민국: 이 사이트에 적용된 방법
+
+국내 데이터: [의약품안전나라(nedrug) 의약품 검색](https://nedrug.mfds.go.kr/searchDrug). 국내 데이터는 식품의약품안전처 의약품안전나라(nedrug)의 의약품 허가 자료입니다. 취소·취하된 품목은 정상 품목으로 세지 않습니다.
+
+| 수준 | 보고서 | …정상 국내 품목 있음 |
+|---|---|---|
+| L1 | {{ site.data.local_facts.by_level.L1.n }} | {{ site.data.local_facts.by_level.L1.current }} |
+| L2 | {{ site.data.local_facts.by_level.L2.n }} | {{ site.data.local_facts.by_level.L2.current }} |
+| L3 | {{ site.data.local_facts.by_level.L3.n }} | {{ site.data.local_facts.by_level.L3.current }} |
+| L4 | {{ site.data.local_facts.by_level.L4.n }} | {{ site.data.local_facts.by_level.L4.current }} |
+| L5 | {{ site.data.local_facts.by_level.L5.n }} | {{ site.data.local_facts.by_level.L5.current }} |
+
+검토 기록은 의약품 페이지 **{{ site.data.local_facts.reviews.public_pages_with_records }}**개에 **{{ site.data.local_facts.reviews.records }}**건이 있으며, 정정은 허가 정보만 바꾸고 모델 예측은 바꾸지 않습니다.
+
+<!-- local-facts:end -->
+
 ## 전체 파이프라인
 
 <p class="key-answer" data-question="KrTxGNN은 어떻게 예측을 생성합니까?">

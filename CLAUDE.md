@@ -548,3 +548,8 @@ nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취�
 用戶 2026-11-19 決定（照 ARTxGNN 同日做法）：公開藥物頁同一 DrugBank ID、預測相同的，留一頁、另一頁改轉址（layout: id_redirect、permalink 不變、sitemap: false、search_exclude、nav_exclude）。
 2 組（鹽類寫法，預測、等級、許可證號完全相同，都沒有查核紀錄）：amlodipine_maleate→amlodipine_besylate（字數平手，留常用鹽類）、atorvastatin_calcium→atorvastatin_calcium_trihydrate（字數較多）。
 公開藥物頁 697→695；被轉址頁自己的 MK 由 sync_fhir_levels 當重複刪（MK 694→692、CUD 4015→4002）；衍生檔、hreflang 照重產。
+
+## 說明頁與證據等級頁的在地資料（2026-11-19）
+
+用戶 2026-11-19 決定的第一批改版（母目錄 `.claude/gen_local_pages_20261119.py` 產生，不逐站手改）：說明頁（about／guide／sources／downloads／methodology，自有結構站只有證據等級頁與隱私頁）加本站資料區塊（`<!-- local-facts -->`）、證據等級頁的事實段與藥名表（`<!-- tier-facts -->`、`<!-- tier-table -->`）、隱私頁的適用法律／權利／著作權與資料來源段（`<!-- privacy-law -->`）；en／es／de 樣板站的共用長段落縮成一段（`<!-- local-condensed -->`）。
+資料檔 `docs/_data/local_facts.json`、`docs/_data/evidence_tier_facts.json` 由 `scripts/local_facts.py`（＝母目錄 `.claude/local_facts_lib.py`）依藥物頁、許可證快照、查核紀錄、FHIR 算；`apply_drug_reviews.py`、許可證快照程式結尾會自動 `--write`，`check_seo_docs.py` 跑 `--check` 擋過期。跨站欄位（cross：本站獨有預測、30 站中位數）與頁面區塊只由母目錄產生器更新；藥物頁改等級、noindex 或預測後要在母目錄重跑。

@@ -14,25 +14,25 @@ description: "KrTxGNN의 데이터 출처: MFDS 의약품안전나라(nedrug) �
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## 대한민국: 이 사이트의 데이터
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## 대한민국: 국내 데이터의 범위
 
-이 사이트는 [MFDS](https://www.mfds.go.kr/) 허가 정보(대한민국)에 수록된 의약품 **{{ site.data.drug_stats.total_drugs }}**개 품목의 보고서를 공개합니다.
+국내 데이터: [의약품안전나라(nedrug) 의약품 검색](https://nedrug.mfds.go.kr/searchDrug). 국내 데이터는 식품의약품안전처 의약품안전나라(nedrug)의 의약품 허가 자료입니다. 취소·취하된 품목은 정상 품목으로 세지 않습니다.
 
-근거 수준별 보고서 수:
+| 항목 | 값 |
+|---|---|
+| 국내 데이터에 있는 의약품 | {{ site.data.local_facts.licence.drugs_with_data }} |
+| …정상 품목이 1건 이상 | {{ site.data.local_facts.licence.drugs_with_current }} |
+| …품목은 있으나 정상 품목 없음 | {{ site.data.local_facts.licence.drugs_none_current }} |
+| 국내 데이터에 없는 의약품 | {{ site.data.local_facts.licence.drugs_without_data }} |
+| 국내 품목 수(의약품 허가 품목) | {{ site.data.local_facts.licence.items_total }} |
+| …그중 정상 | {{ site.data.local_facts.licence.items_current }} |
 
-| 근거 수준 | 보고서 수 | 비율 |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.no_current.size > 0 %}이 데이터에 의약품 허가 품목은 있으나 정상 품목이 없는 의약품: {% for r in site.data.local_facts.no_current %}[{{ r.t }}]({{ r.u | relative_url }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% if site.data.local_facts.no_current_more > 0 %}, 외 {{ site.data.local_facts.no_current_more }}개{% endif %}{% endif %}
 
-이 사이트의 예측 약물–질환 쌍 186개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
+{% if site.data.local_facts.recent_licence_reviews.size > 0 %}국내 허가 정보의 최근 정정: {% for r in site.data.local_facts.recent_licence_reviews %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## 출처 개요
 

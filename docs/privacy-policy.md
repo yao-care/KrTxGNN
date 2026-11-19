@@ -46,11 +46,32 @@ description: "KrTxGNN 개인정보 처리방침: 계정과 입력 양식이 없�
 
 ---
 
-## 정보주체의 권리
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## 적용 법률
 
-본 사이트에는 계정이 없으며, 자체 서버에 개인 기록을 저장하지 않습니다(자체 서버가 없습니다). 이용 통계는
-Google Analytics 4가 수집하며, 브라우저 설정에서 해당 쿠키를 차단하거나 삭제할 수 있습니다.
-본 방침에 대한 문의는 service@yao.care 로 연락하십시오.
+한국 이용자에게는 [「개인정보 보호법」](https://www.law.go.kr/LSW/lsInfoP.do?lsId=011357)이 적용되며 [개인정보보호위원회](https://www.pipc.go.kr/)가 소관합니다. 이 사이트는 이름·이메일·진료 기록을 수집하지 않으며, 관련 개인정보는 Google Analytics 4가 분석 쿠키로 수집하는 이용 통계뿐이고 Google이 국외에서 처리합니다.
+
+## 이용자의 권리와 행사 방법
+
+- 개인정보 열람 요구(제35조).
+- 정정·삭제 요구(제36조).
+- 처리정지 요구(제37조) — 분석 쿠키를 차단하면 수집도 중단됩니다.
+- 개인정보보호위원회 또는 개인정보침해 신고센터에 신고·상담.
+
+요청·문의: service@yao.care. 사이트에 계정이 없으므로 Google Analytics가 보유한 데이터는 방문 날짜와 페이지 등 충분한 정보를 알려 주셔야 처리할 수 있습니다. 분석 쿠키는 브라우저에서 언제든 차단하거나 삭제할 수 있습니다.
+
+## 저작권과 데이터 출처
+
+사이트 본문은 [「저작권법」](https://www.law.go.kr/법령/저작권법)으로 보호됩니다. 사이트 코드는 [GitHub 저장소](https://github.com/yao-care/KrTxGNN)에 MIT 라이선스로 공개되어 있으며, 보고서 본문의 저작권은 藥提醒科技有限公司 (yao.care)에 있습니다.
+
+이 사이트가 사용하는 데이터 출처와 이용 조건:
+
+- **TxGNN** 예측 데이터(Harvard Dataverse): CC0 1.0 퍼블릭 도메인 기증. 인용 시 Huang et al., *Nature Medicine* 2024를 밝혀 주십시오.
+- **ClinicalTrials.gov**·**PubMed**: 미국 국립의학도서관. [ClinicalTrials.gov 이용 조건](https://clinicaltrials.gov/about-site/terms-conditions)과 [NCBI 정책](https://www.ncbi.nlm.nih.gov/home/about/policies/)을 참고하십시오(일부 PubMed 초록은 출판사 저작권이 남아 있습니다).
+- **DrugBank** 식별자와 데이터: [DrugBank](https://go.drugbank.com/) 라이선스 조건(비상업적 이용)에 따릅니다.
+- **국내 데이터셋**: [의약품안전나라(nedrug) 의약품 검색](https://nedrug.mfds.go.kr/searchDrug), 식품의약품안전처이(가) 공개한 자료로, 재사용에는 공개 기관의 이용 조건이 적용되며 이 사이트가 추가 권리를 부여하지 않습니다.
+
+<!-- privacy-law:end -->
 
 ---
 

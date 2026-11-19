@@ -1,0 +1,511 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 695,
+ "level_counts": {
+  "L1": 7,
+  "L2": 26,
+  "L3": 23,
+  "L4": 40,
+  "L5": 572
+ },
+ "level_na": 27,
+ "public_pages": 695,
+ "licence_snapshot": "kr_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 497,
+  "drugs_with_current": 494,
+  "drugs_none_current": 3,
+  "drugs_without_data": 198,
+  "drugs_partial": 0,
+  "items_total": 2334,
+  "items_current": 2089
+ },
+ "reviews": {
+  "records": 97,
+  "pages": 76,
+  "public_pages_with_records": 48,
+  "by_action": {
+   "correct": 97
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 692,
+  "clinical_use_definition": 4002
+ },
+ "top_licensed": [
+  {
+   "t": "Lamotrigine",
+   "u": "/drugs/lamotrigine/",
+   "l": "L5",
+   "lt": 20,
+   "lv": 20,
+   "r": 0,
+   "i": "삼차신경 종양"
+  },
+  {
+   "t": "Ribavirin",
+   "u": "/drugs/ribavirin/",
+   "l": "L2",
+   "lt": 20,
+   "lv": 20,
+   "r": 0,
+   "i": "chronic hepatitis B virus infection"
+  },
+  {
+   "t": "Leflunomide",
+   "u": "/drugs/leflunomide/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 0,
+   "i": "단지증-합지증 증후군"
+  },
+  {
+   "t": "Levothyroxine",
+   "u": "/drugs/levothyroxine/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 0,
+   "i": "renal hypodysplasia/aplasia"
+  },
+  {
+   "t": "Pemetrexed",
+   "u": "/drugs/pemetrexed/",
+   "l": "L5",
+   "lt": 20,
+   "lv": 19,
+   "r": 1,
+   "i": "흉막 선양종양"
+  },
+  {
+   "t": "Perampanel",
+   "u": "/drugs/perampanel/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 0,
+   "i": "베타-케토티올라제 결핍증"
+  },
+  {
+   "t": "Propofol",
+   "u": "/drugs/propofol/",
+   "l": "L2",
+   "lt": 20,
+   "lv": 19,
+   "r": 1,
+   "i": "migraine disorder"
+  },
+  {
+   "t": "Bromfenac",
+   "u": "/drugs/bromfenac/",
+   "l": "L1",
+   "lt": 17,
+   "lv": 17,
+   "r": 0,
+   "i": "eye disease"
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Cemiplimab",
+   "u": "/drugs/cemiplimab/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 1,
+   "i": "담낭 선편평상피암"
+  },
+  {
+   "t": "Lindane",
+   "u": "/drugs/lindane/",
+   "l": "L5",
+   "lt": 2,
+   "lv": 0,
+   "r": 0,
+   "i": "cervical neuroblastoma"
+  },
+  {
+   "t": "Ranolazine",
+   "u": "/drugs/ranolazine/",
+   "l": "L5",
+   "lt": 3,
+   "lv": 0,
+   "r": 2,
+   "i": "nephrogenic syndrome of inappropriate antidiuresis"
+  }
+ ],
+ "no_current_more": 0,
+ "most_reviewed": [
+  {
+   "t": "Ambroxol Hydrochloride",
+   "u": "/drugs/ambroxol-hydrochloride/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 20,
+   "r": 3,
+   "i": "비강 질환"
+  },
+  {
+   "t": "Amiloride Hydrochloride",
+   "u": "/drugs/amiloride-hydrochloride/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 1,
+   "r": 3,
+   "i": "악성 고혈압성 신질환"
+  },
+  {
+   "t": "Alfuzosin Hydrochloride",
+   "u": "/drugs/alfuzosin-hydrochloride/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 16,
+   "r": 2,
+   "i": "암브라스형 범발성 선천성 다모증"
+  },
+  {
+   "t": "Amantadine Sulfate",
+   "u": "/drugs/amantadine-sulfate/",
+   "l": "L5",
+   "lt": 3,
+   "lv": 2,
+   "r": 2,
+   "i": "라스무센 아급성 뇌염"
+  },
+  {
+   "t": "Cycloserine",
+   "u": "/drugs/cycloserine/",
+   "l": "L5",
+   "lt": 7,
+   "lv": 6,
+   "r": 2,
+   "i": "과민성 장 증후군"
+  },
+  {
+   "t": "Ranolazine",
+   "u": "/drugs/ranolazine/",
+   "l": "L5",
+   "lt": 3,
+   "lv": 0,
+   "r": 2,
+   "i": "nephrogenic syndrome of inappropriate antidiuresis"
+  }
+ ],
+ "example": {
+  "t": "Bromfenac",
+  "u": "/drugs/bromfenac/",
+  "l": "L1",
+  "lt": 17,
+  "lv": 17,
+  "r": 0,
+  "i": "eye disease"
+ },
+ "recent_reviews": [
+  {
+   "t": "Ramipril",
+   "u": "/drugs/ramipril/",
+   "s": "단일제 허가: 4건 → 7건(유효 3건), 복합제 2건",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Glatiramer Acetate",
+   "u": "/drugs/glatiramer-acetate/",
+   "s": "허가 건수: 0건 → 유효 1건",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Codeine",
+   "u": "/drugs/codeine/",
+   "s": "허가 건수: “전체 7건” → 단일제 7건, 전체 11건",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zaltoprofen",
+   "u": "/drugs/zaltoprofen/",
+   "s": "삭제: “이 외에도 총 16건의 허가가 모두 유효한 단일성분 제품입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Triflusal",
+   "u": "/drugs/triflusal/",
+   "s": "삭제: “이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Trastuzumab",
+   "u": "/drugs/trastuzumab/",
+   "s": "삭제: “허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Tolperisone",
+   "u": "/drugs/tolperisone/",
+   "s": "삭제: “3건 모두 수출용 단일제이며 유효 상태입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Temozolomide",
+   "u": "/drugs/temozolomide/",
+   "s": "삭제: “9건 모두 유효한 단일성분 제제입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Talniflumate",
+   "u": "/drugs/talniflumate/",
+   "s": "삭제: “20건의 허가가 모두 유효한 단일제이며”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Spironolactone",
+   "u": "/drugs/spironolactone/",
+   "s": "삭제: “허가증은 모두 유효한 8건입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Ropinirole Hydrochloride",
+   "u": "/drugs/ropinirole-hydrochloride/",
+   "s": "삭제: “한국 MFDS 미허가 약물이므로”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Ranolazine",
+   "u": "/drugs/ranolazine/",
+   "s": "삭제: “3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Propylthiouracil",
+   "u": "/drugs/propylthiouracil/",
+   "s": "삭제: “3건 모두 유효한 단일제 허가이며, 이 중 2건은 수출용입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Propofol",
+   "u": "/drugs/propofol/",
+   "s": "삭제: “전체 19건이 모두 유효한 단일제 허가이며, 일부는 수출용입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Pemetrexed",
+   "u": "/drugs/pemetrexed/",
+   "s": "삭제: “이번 보고서를 위해 정리된 데이터에서 20건 모두 유효 상태이며 단일 성분 제제입니다. 이 중 수출용 허가도 포함되어 있습니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Nefopam",
+   "u": "/drugs/nefopam/",
+   "s": "삭제: “한국에서는 단일 성분 허가증 18건이 모두 유효합니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Naproxen",
+   "u": "/drugs/naproxen/",
+   "s": "삭제: “20건의 허가증이 모두 유효하며(단일제 20건, 복합제 0건), 주요 허가 5건은 다음과 같습니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Naftopidil",
+   "u": "/drugs/naftopidil/",
+   "s": "삭제: “이 외에 75mg 제품을 중심으로 총 18건의 유효한 단일제 허가가 있으며, 취소된 허가는 없습니다. 이 중 2건은 수출용입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Mupirocin",
+   "u": "/drugs/mupirocin/",
+   "s": "삭제: “한국에는 단일 성분 제제 15건이 유효 허가 상태입니다(취소 0건)”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Methoxy Polyethylene Glycol-Epoetin Beta",
+   "u": "/drugs/methoxy-polyethylene-glycol-epoetin-beta/",
+   "s": "삭제: “위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Methocarbamol",
+   "u": "/drugs/methocarbamol/",
+   "s": "삭제: “총 20건이 모두 유효한 단일 성분 허가이며, 취소된 허가는 없습니다. 이 중 상당수는 수출용입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Ketorolac",
+   "u": "/drugs/ketorolac/",
+   "s": "삭제: “한국에는 총 20건의 허가증이 있으며 모두 단일제이고 유효합니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Gilteritinib Fumarate",
+   "u": "/drugs/gilteritinib-fumarate/",
+   "s": "삭제: “한국 시판 허가 이력이 없으며”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Fluorouracil",
+   "u": "/drugs/fluorouracil/",
+   "s": "삭제: “허가증 7건은 모두 단일제이며 유효 상태입니다”",
+   "d": "2026-11-05"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Ramipril",
+   "u": "/drugs/ramipril/",
+   "s": "단일제 허가: 4건 → 7건(유효 3건), 복합제 2건",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Glatiramer Acetate",
+   "u": "/drugs/glatiramer-acetate/",
+   "s": "허가 건수: 0건 → 유효 1건",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Codeine",
+   "u": "/drugs/codeine/",
+   "s": "허가 건수: “전체 7건” → 단일제 7건, 전체 11건",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Zaltoprofen",
+   "u": "/drugs/zaltoprofen/",
+   "s": "삭제: “이 외에도 총 16건의 허가가 모두 유효한 단일성분 제품입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Triflusal",
+   "u": "/drugs/triflusal/",
+   "s": "삭제: “이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Trastuzumab",
+   "u": "/drugs/trastuzumab/",
+   "s": "삭제: “허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Tolperisone",
+   "u": "/drugs/tolperisone/",
+   "s": "삭제: “3건 모두 수출용 단일제이며 유효 상태입니다”",
+   "d": "2026-11-05"
+  },
+  {
+   "t": "Temozolomide",
+   "u": "/drugs/temozolomide/",
+   "s": "삭제: “9건 모두 유효한 단일성분 제제입니다”",
+   "d": "2026-11-05"
+  }
+ ],
+ "files": {
+  "search_index": 695,
+  "drugs_json": 695
+ },
+ "by_level": {
+  "L1": {
+   "n": 7,
+   "current": 7
+  },
+  "L2": {
+   "n": 26,
+   "current": 26
+  },
+  "L3": {
+   "n": 23,
+   "current": 23
+  },
+  "L4": {
+   "n": 40,
+   "current": 40
+  },
+  "L5": {
+   "n": 572,
+   "current": 569
+  }
+ },
+ "cross": {
+  "unique_pairs": 109,
+  "unique_examples": [
+   {
+    "t": "Propacetamol",
+    "u": "/drugs/propacetamol/",
+    "i": "migraine disorder"
+   },
+   {
+    "t": "Pranlukast",
+    "u": "/drugs/pranlukast/",
+    "i": "bronchitis"
+   },
+   {
+    "t": "Alpha-Tocopherol",
+    "u": "/drugs/alpha-tocopherol/",
+    "i": "약물 유발 골다공증"
+   },
+   {
+    "t": "Anagliptin",
+    "u": "/drugs/anagliptin/",
+    "i": "opsismodysplasia"
+   },
+   {
+    "t": "Arformoterol Tartrate",
+    "u": "/drugs/arformoterol-tartrate/",
+    "i": "과투명 폐"
+   },
+   {
+    "t": "Cefamandole Nafate",
+    "u": "/drugs/cefamandole-nafate/",
+    "i": "혈색소병증"
+   },
+   {
+    "t": "Clevudine",
+    "u": "/drugs/clevudine/",
+    "i": "만성 C형 간염 바이러스 감염"
+   },
+   {
+    "t": "Cyclofenil",
+    "u": "/drugs/cyclofenil/",
+    "i": "프린츠메탈 협심증"
+   },
+   {
+    "t": "Ethyl Loflazepate",
+    "u": "/drugs/ethyl-loflazepate/",
+    "i": "insomnia (disease)"
+   },
+   {
+    "t": "Ginseng",
+    "u": "/drugs/ginseng/",
+    "i": "tetanic cataract"
+   },
+   {
+    "t": "Hydrocortisone Probutate",
+    "u": "/drugs/hydrocortisone-probutate/",
+    "i": "iris disease"
+   },
+   {
+    "t": "Magnesium Lactate",
+    "u": "/drugs/magnesium-lactate/",
+    "i": "무통성 전신 비만세포증"
+   },
+   {
+    "t": "Oxiracetam",
+    "u": "/drugs/oxiracetam/",
+    "i": "insomnia (disease)"
+   },
+   {
+    "t": "Pegteograstim",
+    "u": "/drugs/pegteograstim/",
+    "i": "interventricular septum aneurysm"
+   },
+   {
+    "t": "Polmacoxib",
+    "u": "/drugs/polmacoxib/",
+    "i": "acromesomelic dysplasia, Hunter-Thompson type"
+   },
+   {
+    "t": "Proxyphylline",
+    "u": "/drugs/proxyphylline/",
+    "i": "심장 질환"
+   }
+  ]
+ }
+}

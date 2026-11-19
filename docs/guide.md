@@ -14,27 +14,21 @@ description: "KrTxGNN 사용 안내: 의약품 검색 방법, 근거 등급 읽�
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## 대한민국: 이 사이트의 데이터
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## 대한민국: 이 사이트의 실제 예
 
-이 사이트는 [MFDS](https://www.mfds.go.kr/) 허가 정보(대한민국)에 수록된 의약품 **{{ site.data.drug_stats.total_drugs }}**개 품목의 보고서를 공개합니다.
+이 사이트의 보고서는 근거 수준, 국내 시장 데이터, 검토 기록의 순서로 확인합니다.
 
-데이터셋: [의약품안전나라(nedrug) 의약품 검색](https://nedrug.mfds.go.kr/searchDrug). 매주 월요일 자동으로 내려받아 대조합니다. 자세한 내용: [데이터 출처]({{ '/sources/' | relative_url }}).
+{% assign gx = site.data.local_facts.example %}
+{% if gx %}[{{ gx.t }}]({{ gx.u | relative_url }})을 열면 머리글에 근거 수준 **{{ gx.l }}**이 표시되고, 주요 예측 신규 적응증은 **{{ gx.i }}**이며, 국내 데이터에는 의약품 허가 품목 **{{ gx.lt }}**건 중 **{{ gx.lv }}**건이 정상이고, 페이지의 검토 기록은 **{{ gx.r }}**건입니다.{% endif %}
 
-근거 수준별 보고서 수:
+{% if site.data.local_facts.most_reviewed.size > 0 %}검토 기록이 가장 많은 의약품: {% for r in site.data.local_facts.most_reviewed %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.r }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| 근거 수준 | 보고서 수 | 비율 |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}검토 기록의 최근 정정: {% for r in site.data.local_facts.recent_reviews limit: 8 offset: 8 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-이 사이트의 예측 약물–질환 쌍 186개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
+같은 의약품에 대해 다른 TxGNN 사이트에 없는 예측의 예: [Ethyl Loflazepate]({{ '/drugs/ethyl-loflazepate/' | relative_url }}) → insomnia (disease), [Ginseng]({{ '/drugs/ginseng/' | relative_url }}) → tetanic cataract, [Hydrocortisone Probutate]({{ '/drugs/hydrocortisone-probutate/' | relative_url }}) → iris disease, [Magnesium Lactate]({{ '/drugs/magnesium-lactate/' | relative_url }}) → 무통성 전신 비만세포증, [Oxiracetam]({{ '/drugs/oxiracetam/' | relative_url }}) → insomnia (disease), [Pegteograstim]({{ '/drugs/pegteograstim/' | relative_url }}) → interventricular septum aneurysm.
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## 의약품 검색하기
 

@@ -14,27 +14,25 @@ description: "KrTxGNN 공개 데이터 다운로드: FHIR 리소스, 예측 결�
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## 대한민국: 이 사이트의 데이터
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## 대한민국: 현재 파일 내용
 
-이 사이트는 [MFDS](https://www.mfds.go.kr/) 허가 정보(대한민국)에 수록된 의약품 **{{ site.data.drug_stats.total_drugs }}**개 품목의 보고서를 공개합니다.
+| 파일 | 현재 내용 |
+|---|---|
+| `/data/search-index.json` | 의약품 {{ site.data.local_facts.files.search_index }}개와 예측 적응증 |
+| `/data/drugs.json` | 의약품 {{ site.data.local_facts.files.drugs_json }}개와 근거 수준·기존 적응증 |
+| `/fhir/MedicationKnowledge/` | MedicationKnowledge 리소스 {{ site.data.local_facts.fhir.medication_knowledge }}개(의약품당 1개) |
+| `/fhir/ClinicalUseDefinition/` | ClinicalUseDefinition 리소스 {{ site.data.local_facts.fhir.clinical_use_definition }}개(예측 적응증당 1개) |
 
-데이터셋: [의약품안전나라(nedrug) 의약품 검색](https://nedrug.mfds.go.kr/searchDrug). 매주 월요일 자동으로 내려받아 대조합니다. 자세한 내용: [데이터 출처]({{ '/sources/' | relative_url }}).
+국내 데이터셋 재사용: [의약품안전나라(nedrug) 의약품 검색](https://nedrug.mfds.go.kr/searchDrug), 식품의약품안전처이(가) 공개한 자료로, 재사용에는 공개 기관의 이용 조건이 적용되며 이 사이트가 추가 권리를 부여하지 않습니다.
 
-근거 수준별 보고서 수:
+{% if site.data.local_facts.top_licensed.size > 0 %}정상 의약품 허가 품목이 가장 많은 의약품: {% for r in site.data.local_facts.top_licensed limit: 5 offset: 3 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.lv }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| 근거 수준 | 보고서 수 | 비율 |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}검토 기록의 최근 정정: {% for r in site.data.local_facts.recent_reviews limit: 8 offset: 16 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-이 사이트의 예측 약물–질환 쌍 186개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
+같은 의약품에 대해 다른 TxGNN 사이트에 없는 예측의 예: [Polmacoxib]({{ '/drugs/polmacoxib/' | relative_url }}) → acromesomelic dysplasia, Hunter-Thompson type, [Proxyphylline]({{ '/drugs/proxyphylline/' | relative_url }}) → 심장 질환.
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## FHIR 리소스
 

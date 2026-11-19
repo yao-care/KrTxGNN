@@ -14,27 +14,31 @@ AI로 약물재창출 근거 검증을 가속화합니다 — 예측부터 근�
 
 ---
 
-<!-- site-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-## 대한민국: 이 사이트의 데이터
+<!-- local-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+## 대한민국: 숫자로 보는 이 사이트의 데이터
 
-이 사이트는 [MFDS](https://www.mfds.go.kr/) 허가 정보(대한민국)에 수록된 의약품 **{{ site.data.drug_stats.total_drugs }}**개 품목의 보고서를 공개합니다.
+국내 데이터: [의약품안전나라(nedrug) 의약품 검색](https://nedrug.mfds.go.kr/searchDrug). 국내 데이터는 식품의약품안전처 의약품안전나라(nedrug)의 의약품 허가 자료입니다. 취소·취하된 품목은 정상 품목으로 세지 않습니다.
 
-데이터셋: [의약품안전나라(nedrug) 의약품 검색](https://nedrug.mfds.go.kr/searchDrug). 매주 월요일 자동으로 내려받아 대조합니다. 자세한 내용: [데이터 출처]({{ '/sources/' | relative_url }}).
+| 항목 | 값 |
+|---|---|
+| 보고서가 공개된 의약품 | {{ site.data.local_facts.drugs_total }} |
+| 국내 데이터에 있는 의약품 | {{ site.data.local_facts.licence.drugs_with_data }} |
+| …정상 품목이 1건 이상 | {{ site.data.local_facts.licence.drugs_with_current }} |
+| …품목은 있으나 정상 품목 없음 | {{ site.data.local_facts.licence.drugs_none_current }} |
+| 국내 데이터에 없는 의약품 | {{ site.data.local_facts.licence.drugs_without_data }} |
+| 국내 품목 수(의약품 허가 품목) | {{ site.data.local_facts.licence.items_total }} |
+| …그중 정상 | {{ site.data.local_facts.licence.items_current }} |
+| 검토 기록 항목 | {{ site.data.local_facts.reviews.records }} |
+| 검토 기록이 있는 의약품 페이지 | {{ site.data.local_facts.reviews.public_pages_with_records }} |
+| 다른 TxGNN 사이트에 없는 예측 약물–질환 쌍 | {{ site.data.local_facts.cross.unique_pairs }} |
 
-근거 수준별 보고서 수:
+{% if site.data.local_facts.top_licensed.size > 0 %}정상 의약품 허가 품목이 가장 많은 의약품: {% for r in site.data.local_facts.top_licensed %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.lv }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
 
-| 근거 수준 | 보고서 수 | 비율 |
-|---|---|---|
-| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
-{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+{% if site.data.local_facts.recent_reviews.size > 0 %}검토 기록의 최근 정정: {% for r in site.data.local_facts.recent_reviews limit: 8 %}[{{ r.t }}]({{ r.u | relative_url }}) ({{ r.d }}): {{ r.s }}{% unless forloop.last %}; {% endunless %}{% endfor %}{% endif %}
 
-이 사이트의 예측 약물–질환 쌍 186개는 30개 TxGNN 사이트 중 다른 사이트에는 없습니다.
+같은 의약품에 대해 다른 TxGNN 사이트에 없는 예측의 예: [Propacetamol]({{ '/drugs/propacetamol/' | relative_url }}) → migraine disorder, [Pranlukast]({{ '/drugs/pranlukast/' | relative_url }}) → bronchitis, [Alpha-Tocopherol]({{ '/drugs/alpha-tocopherol/' | relative_url }}) → 약물 유발 골다공증, [Anagliptin]({{ '/drugs/anagliptin/' | relative_url }}) → opsismodysplasia, [Arformoterol Tartrate]({{ '/drugs/arformoterol-tartrate/' | relative_url }}) → 과투명 폐, [Cefamandole Nafate]({{ '/drugs/cefamandole-nafate/' | relative_url }}) → 혈색소병증, [Clevudine]({{ '/drugs/clevudine/' | relative_url }}) → 만성 C형 간염 바이러스 감염, [Cyclofenil]({{ '/drugs/cyclofenil/' | relative_url }}) → 프린츠메탈 협심증.
 
-<!-- site-data:end -->
+<!-- local-facts:end -->
 
 ## 배경
 

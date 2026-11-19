@@ -3,15 +3,27 @@ layout: default
 title: 모델 예측만 (L5)
 nav_order: 23
 permalink: /evidence-low/
-description: "KrTxGNN의 L5 후보: 모델 예측만 존재하며 아직 임상 또는 문헌 근거가 없습니다."
+description: "이 사이트(대한민국)의 근거 수준 L5 의약품 572개(예: Acetylsalicylic Acid, Alfacalcidol, Allantoin). 의약품별 주요 예측 적응증, 의약품 허가 품목 수, 검토 기록을 보여 줍니다."
 ---
 
 # 모델 예측만 (L5)
 
-<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
-{% assign pd_m = site.data.drug_stats.level_counts.L5 %}
-이 페이지에는 이 사이트에서 보고서를 공개한 의약품 **{{ site.data.drug_stats.total_drugs }}**개 중 **{{ pd_m }}**개({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%)가 실려 있습니다. 수준 정의: [방법론]({{ '/methodology/' | relative_url }}).
-<!-- page-data:end -->
+<!-- tier-facts:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+{% assign ev_share = site.data.evidence_tier_facts.low.count | times: 100.0 | divided_by: site.data.drug_stats.total_drugs %}
+이 페이지에는 이 사이트에서 보고서를 공개한 의약품 **{{ site.data.drug_stats.total_drugs }}**개 중 **{{ site.data.evidence_tier_facts.low.count }}**개({{ site.data.evidence_tier_facts.low.count | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%)가 실려 있습니다: L5 **{{ site.data.evidence_tier_facts.low.by_level.L5 }}**.
+30개 TxGNN 사이트의 L5 비율 중앙값: {{ site.data.evidence_tier_facts.low.cross.median_share }}%. {% if ev_share > site.data.evidence_tier_facts.low.cross.median_share %}이 사이트는 중앙값보다 높습니다.{% elsif ev_share < site.data.evidence_tier_facts.low.cross.median_share %}이 사이트는 중앙값보다 낮습니다.{% else %}이 사이트는 중앙값과 같습니다.{% endif %}
+
+{% if site.data.evidence_tier_facts.low.count > 0 %}
+국내 데이터(의약품 허가 품목)에서 이 중 **{{ site.data.evidence_tier_facts.low.with_current }}**개는 정상 품목이 1건 이상 있고, **{{ site.data.evidence_tier_facts.low.none_current }}**개는 품목은 있으나 정상 품목이 없으며, **{{ site.data.evidence_tier_facts.low.without_data }}**개는 국내 데이터에 없습니다. **{{ site.data.evidence_tier_facts.low.with_reviews }}**개는 검토 기록에 항목이 있습니다(의약품 페이지의 허가 정보 정정). **{{ site.data.evidence_tier_facts.low.cross.unique_drugs }}**개는 같은 의약품에 대해 다른 TxGNN 사이트에 없는 예측 적응증이 있습니다.
+{% if site.data.evidence_tier_facts.low.none_current_list.size > 0 %}
+
+품목은 있으나 정상 품목이 없는 의약품: {% for r in site.data.evidence_tier_facts.low.none_current_list %}[{{ r.t }}]({{ r.u | relative_url }}){% unless forloop.last %}, {% endunless %}{% endfor %}.{% endif %}
+
+정상 국내 품목이 있는 의약품을 먼저 표시합니다.
+{% endif %}
+
+모든 수준의 정의: [방법론]({{ '/methodology/' | relative_url }}).
+<!-- tier-facts:end -->
 
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 모델 예측만 있고 아직 사람 대상 근거가 없는 후보
@@ -29,12 +41,16 @@ description: "KrTxGNN의 L5 후보: 모델 예측만 존재하며 아직 임상 
 
 {% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
-### L5 ({{ l5_drugs.size }}건)
+### L5 ({{ site.data.evidence_tier_facts.low.by_level.L5 }}건)
 
-| 의약품 | 적응증 수 | 링크 |
-|---------|---------|------|
-{% for drug in l5_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [보고서 보기]({{ drug.url | relative_url }}) |
-{% endfor %}
+<!-- tier-table:start L5（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改）-->
+
+| 의약품 | 수준 | 주요 예측 신규 적응증 | 의약품 허가 품목: 정상 / 전체 | 검토 기록 | 이 사이트에만 |
+|---|---|---|---|---|---|
+{% for r in site.data.evidence_tier_facts.low.rows %}{% if r.l == "L5" %}| [{{ r.t | replace: '|', '/' }}]({{ r.u | relative_url }}) | {{ r.l }} | {{ r.i | replace: '|', '/' }} | {% if r.lt %}{{ r.lv }} / {{ r.lt }}{% else %}—{% endif %} | {{ r.r }}{% if r.rs and r.rs != '' %}: {{ r.rs | replace: '|', '/' }}{% endif %} | {% if r.x and r.x > 0 %}예 ({{ r.x }}){% else %}—{% endif %} |
+{% endif %}{% endfor %}
+
+<!-- tier-table:end -->
 
 ---
 
