@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 609
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Polatuzumab Vedotin: 예측 신규 적응증 HER2 양성 유방암 (HER2 positive breast carcinoma) (근거 수준 L5). 기존 적응증: • 이전에 치료받은 적이 없는 미만성 거대 B세포 림프종(DLBCL) 성인 환자에서 리툭시맙…"
 monitor_inn: "POLATUZUMAB VEDOTIN"
 predicted_indications: ["HER2 positive breast carcinoma"]

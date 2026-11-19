@@ -6,7 +6,7 @@ nav_order: 583
 evidence_level: L5
 indication_count: 10
 drugbank_id: DB15290
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Pegteograstim: 예측 신규 적응증 심실중격 동맥류 (Interventricular septum aneurysm) (근거 수준 L5). 기존 적응증: 고형암 및 악성 림프종에 대한 세포독성 화학요법을 투여 받는 환자의 중증 호중구감소증 기간 감소"
 monitor_inn: "PEGTEOGRASTIM"
 predicted_indications: ["interventricular septum aneurysm", "heart disease", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "Pierre Robin syndrome associated with a chromosomal anomaly", "partial deletion of the long arm of chromosome 22", "genetic syndromic Pierre Robin syndrome", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "partial deletion of the long arm of chromosome 7"]

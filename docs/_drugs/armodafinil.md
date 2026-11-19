@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 87
 evidence_level: L2
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Armodafinil: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L2). 기존 적응증: 성인에 있어서, 기면증과 관련한 과다졸음"
 monitor_inn: "ARMODAFINIL"
 predicted_indications: ["insomnia (disease)"]

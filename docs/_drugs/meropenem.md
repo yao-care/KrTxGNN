@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 504
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 monitor_inn: "meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "Ureaplasma urethritis", "gonococcal urethritis"]
 description: "Meropenem: 예측 신규 적응증 세균성 관절염 (bacterial arthritis) (근거 수준 L3). 기존 적응증: 1. 유효균종 포도구균속, 연쇄구균속, 장구균, 모락셀라 카타랄리스, 대장균, 시트로박터속, 클렙시엘라속…"

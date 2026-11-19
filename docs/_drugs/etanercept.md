@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ETANERCEPT"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Etanercept: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: 1. 성인 1) 류마티스 관절염 - 메토트렉세이트를 포함한 DMARDs(Disease-Modifying…"
 ---
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 528
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Mometasone: 예측 신규 적응증 원발성 피부 T세포 림프종 (Primary Cutaneous T-cell Lymphoma) (근거 수준 L5). 기존 적응증: 1. 성인 및 2세 이상의 소아 : 계절 알레르기비염 및 연중비염. 중등도 ∼ 중증의 계절 알레르기 비염의…"
 monitor_inn: "mometasone"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 154
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Brentuximab Vedotin: 예측 신규 적응증 여포성 림프종 (Follicular Lymphoma) (근거 수준 L3). 기존 적응증: 1. 이전에 치료받은 적이 없는 3기 또는 4기 호지킨 림프종 환자에서 화학요법제(독소루비신, 빈블라스틴…"
 monitor_inn: "BRENTUXIMAB VEDOTIN"
 predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lymphoblastic/lymphocytic leukemia", "B-cell neoplasm", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "Richter syndrome", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]

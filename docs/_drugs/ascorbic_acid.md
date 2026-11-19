@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 93
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 monitor_inn: "ASCORBIC ACID"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "disease by subcellular system affected"]
 description: "Ascorbic Acid: 예측 신규 적응증 비증후군성 식도 기형 (non-syndromic esophageal malformation) (근거 수준 L5). 기존 적응증: 이 약은 치주치료 후 치은염, 경·중등도 치주염의 보조치료에 사용합니다"

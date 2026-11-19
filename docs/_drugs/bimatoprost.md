@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Bimatoprost: 예측 신규 적응증 치아 및/또는 치주 구성 요소를 가진 기형 증후군 (malformation syndrome with odontal and/or periodontal component) (근거 수준 L5). 기존 적응증: 국소베타차단제 또는 프로스타글란딘유도체에 불충분하게 반응하는 개방각 녹내장환자ㆍ고안압환자에서의안압감소"
 ---
 

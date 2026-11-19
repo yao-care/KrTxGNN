@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 235
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-15
 monitor_inn: "Conjugated estrogens"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
 description: "Conjugated Estrogens: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: (경구 : 정제) 1. 성선기능저하증, 난소적출, 난소기능부전으로 인한 저에스트로겐증 2. 위축성 질염…"

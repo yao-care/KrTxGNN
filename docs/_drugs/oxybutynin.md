@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 570
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Oxybutynin: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L5). 기존 적응증: 비억제성 반사신경성 방광에 기인한 불안정한 방광상태의 빈뇨, 절박뇨, 요실금"
 monitor_inn: "OXYBUTYNIN"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]

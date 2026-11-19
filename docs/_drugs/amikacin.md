@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Amikacin"
 predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "meningococcemia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 description: "Amikacin: 예측 신규 적응증 파라티푸스 (근거 수준 L5). 기존 적응증: ○ 유효균종 겐타마이신내성 녹농균, 프로테우스, 세라티아, 대장균, 클레브시엘라, 엔테로박터, 시트로박터…"
 ---
 

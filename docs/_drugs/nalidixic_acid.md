@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-15
 description: "Nalidixic Acid: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L5). 기존 적응증: 1. 유효균종 1) 대장균, 이질균, 장염비브리오균 2) 감성 프로테우스속, 폐염간균…"
 monitor_inn: "NALIDIXIC ACID"
 predicted_indications: ["conjunctivitis", "sclerosing cholangitis", "rheumatoid arthritis", "infectious otitis media"]

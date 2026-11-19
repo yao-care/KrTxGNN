@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Iodixanol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Iodixanol: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 1. 성인에 있어서 다음의 조영술에 X선 조영제로 투여한다. 심혈관조영, 뇌혈관조영(종래의 조영술)…"
 ---
 

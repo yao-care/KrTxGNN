@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Avelumab"
 predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Avelumab: 예측 신규 적응증 인간 헤르페스바이러스 8형 관련 종양 (human herpesvirus 8-related tumor) (근거 수준 L5). 기존 적응증: 1. 성인에서의 전이성 메르켈세포암 치료로 단독요법 2. 백금기반 화학요법치료에 질병이 진행되지 않은 국소…"
 ---
 

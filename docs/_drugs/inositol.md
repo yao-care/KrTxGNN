@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "INOSITOL"
 predicted_indications: ["early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "hepatic porphyria", "congestive heart failure", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Inositol: 예측 신규 적응증 조기발병 가족성 비간경변성 문맥압항진증 (근거 수준 L5). 기존 적응증: 1. 다음 증상의 완화 : 신경통, 근육통, 관절통(요통, 견통 등), 수족저림, 변비, 눈의 피로 2…"
 ---
 

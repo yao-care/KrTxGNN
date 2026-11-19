@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 450
 evidence_level: L1
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 description: "Ketorolac: 예측 신규 적응증 두통 질환 (Headache Disorder) (근거 수준 L1). 기존 적응증: 1. 중등도 및 중증의 급성통증(수술후 통증 포함)에 대한 단기요법 2. 2세 이상의 소아 마약성 진통제가…"
 monitor_inn: "ketorolac"
 predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigeminal autonomic cephalalgia"]

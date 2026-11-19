@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "Cilastatin"
 predicted_indications: ["staphylococcus aureus infection", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "sinusitis", "paranasal sinus neoplasm (disease)", "paratyphoid fever", "diffuse scleroderma", "salmonellosis"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Cilastatin: 예측 신규 적응증 황색포도알균 감염 (근거 수준 L3). 기존 적응증: ○ 유효균종 포도구균, 연쇄구균, 대장균, 시트로박터, 클레브시엘라, 엔테로박터, 세라티아, 푸로테우스…"
 ---
 

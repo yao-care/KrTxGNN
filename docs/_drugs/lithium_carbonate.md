@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 481
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Lithium Carbonate: 예측 신규 적응증 가성무형성증 (Pseudoachondroplasia) (근거 수준 L5). 기존 적응증: 조증·조울증의 치료 및 예방적 유지치료"
 monitor_inn: "LITHIUM CARBONATE"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]

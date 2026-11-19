@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Peppermint Oil: 예측 신규 적응증 나병 (Leprosy) (근거 수준 L5). 기존 적응증: ○ 과민성대장증후군의 다음 증상 완화 : 복통, 경미한 위장관 경련, 복부팽만감"
 monitor_inn: "Peppermint oil"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 589
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Pentamidine: 예측 신규 적응증 점상 상피성 각결막염 (Punctate Epithelial Keratoconjunctivitis) (근거 수준 L5). 기존 적응증: 1. 후천성면역결핍증(AIDS) 환자에서의 뉴우모시스티스 카리니 감염의 1차 치료 2. 후천성면역결핍증환자…"
 monitor_inn: "pentamidine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "neurotrophic keratopathy", "exposure keratitis", "non-human animal disease", "congenital analbuminemia"]

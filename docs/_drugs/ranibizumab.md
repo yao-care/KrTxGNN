@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "RANIBIZUMAB"
 predicted_indications: ["immature cataract", "tetanic cataract", "mature cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Ranibizumab: 예측 신규 적응증 미성숙 백내장 (근거 수준 L5). 기존 적응증: 1. 신생혈관성 (습성) 연령관련 황반변성의 치료 2. 당뇨병성 황반부종에 의한 시력 손상의 치료 3…"
 ---
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 monitor_inn: "Aflibercept"
 predicted_indications: ["esotropia"]
 description: "Aflibercept: 예측 신규 적응증 내사시 (esotropia) (근거 수준 L5). 기존 적응증: 1. 신생혈관성 (습성) 연령 관련 황반변성의 치료 2. 망막정맥폐쇄성 황반부종에 의한 시력 손상의…"

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 768
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 monitor_inn: "Triptorelin"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "allergic urticaria", "familial male-limited precocious puberty", "familial isolated trichomegaly", "aromatase excess syndrome"]
 description: "Triptorelin: 예측 신규 적응증 Hypertrichosis (disease) (근거 수준 L5). 기존 적응증: 1. 혈청 중 성스테로이드치 저하를 필요로 하는 호르몬의존성 전립선암 2. 인공수정을 위한 배란촉진 3…"

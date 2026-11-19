@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 31
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 monitor_inn: "ALBENDAZOLE"
 predicted_indications: ["coenurosis"]
 description: "Albendazole: 예측 신규 적응증 Coenurosis (근거 수준 L5). 기존 적응증: 이 약은 회충, 요충, 십이지장충, 편충, 아메리카 구충, 분선충의 감염 및 이들 혼합감염의 치료에 사용합니다"

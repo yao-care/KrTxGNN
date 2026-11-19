@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 78
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-15
 monitor_inn: "Apixaban"
 predicted_indications: ["migraine disorder"]
 description: "Apixaban: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: 1. 고관절 또는 슬관절 치환술을 받은 성인 환자에서 정맥혈전색전증의 예방 2. 비판막성 심방세동 환자에서…"

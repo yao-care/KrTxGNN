@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 701
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Soybean Oil: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 비경구 영양요법을 필요로 하는 환자(경구 혹은 위장관 영양공급이 불가능, 불충분 또는 제한되는…"
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]

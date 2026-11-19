@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 497
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-15
 monitor_inn: "MEFENAMIC ACID"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 description: "Mefenamic Acid: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L2). 기존 적응증: 1. 다음 질환에 사용할 수 있다. . . 두통, 치통, 요통, 골관절염(퇴행성 관절질환),외상후 수술후…"

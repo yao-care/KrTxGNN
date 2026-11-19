@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 373
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-15
 description: "Gemfibrozil: 예측 신규 적응증 류마티스 관절염 (Rheumatoid Arthritis) (근거 수준 L4). 기존 적응증: 1. 원발성고지혈증 : 고콜레스테롤혈증과 고트리글리세라이드혈증의 복합형(Ⅱb형), 중증의…"
 monitor_inn: "Gemfibrozil"
 predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]

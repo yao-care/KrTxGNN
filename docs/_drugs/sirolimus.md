@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Sirolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lung PEComa", "vulva sarcoma"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-15
 description: "Sirolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: 1. 13세 이상 신장이식 환자에서의 장기 거부반응 예방. ○ 면역학적 위험이 낮거나 중등도인 환자:…"
 ---
 

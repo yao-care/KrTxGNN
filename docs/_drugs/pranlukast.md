@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 621
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Pranlukast: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L4). 기존 적응증: 1. 기관지 천식 2. 알레르기성 비염"
 monitor_inn: "pranlukast"
 predicted_indications: ["bronchitis"]

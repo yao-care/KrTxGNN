@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desonide"
 predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Desonide: 예측 신규 적응증 성대 용종 (근거 수준 L5). 기존 적응증: 코르티코스테로이드제에 반응하는 피부질환의 가려움 및 염증의 경감"
 ---
 

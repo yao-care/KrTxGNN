@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 679
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Safinamide: 예측 신규 적응증 라스무센 아급성 뇌염 (Rasmussen subacute encephalitis) (근거 수준 L5). 기존 적응증: 운동 동요 증상(end of dose motor fluctuations)이 있는 특발성 파킨슨병 환자에서…"
 monitor_inn: "safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]

@@ -6,7 +6,7 @@ nav_order: 291
 evidence_level: L5
 indication_count: 10
 drugbank_id: DB09273
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Doxofylline: 예측 신규 적응증 염색체 이상을 동반한 피에르 로뱅 증후군 (Pierre Robin syndrome associated with a chrom… (근거 수준 L5). 기존 적응증: 기관지 천식, 만성폐쇄성기관지염"
 monitor_inn: "DOXOFYLLINE"
 predicted_indications: ["Pierre Robin syndrome associated with a chromosomal anomaly", "Laubry-Pezzi syndrome", "Jeune syndrome situs inversus", "genetic syndromic Pierre Robin syndrome", "orofacial clefting syndrome", "partial deletion of the long arm of chromosome 7", "disorder of fucoglycosan synthesis", "partial deletion of the long arm of chromosome 22", "heart disease", "pulmonary valve disease"]

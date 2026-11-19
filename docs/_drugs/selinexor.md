@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 687
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Selinexor: 예측 신규 적응증 약물 유발 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 1. 이전에 한 가지 이상의 치료를 받은 다발골수종 성인 환자의 치료에 보르테조밉 및 덱사메타손과의…"
 monitor_inn: "SELINEXOR"
 predicted_indications: ["drug-induced osteoporosis"]

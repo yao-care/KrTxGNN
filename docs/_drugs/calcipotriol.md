@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 170
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 description: "Calcipotriol: 예측 신규 적응증 지루각화증 (Seborrheic Keratosis) (근거 수준 L3). 기존 적응증: 판상형 건선의 국소치료"
 monitor_inn: "CALCIPOTRIOL"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]

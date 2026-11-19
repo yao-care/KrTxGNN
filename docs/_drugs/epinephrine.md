@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 315
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Epinephrine: 예측 신규 적응증 폐쇄성 폐질환 (Obstructive Lung Disease) (근거 수준 L5). 기존 적응증: 다음에 의한 중증 급성 알레르기 반응(아나필락시스)의 응급처치 - 곤충 침에 쏘이거나 또는 물림 -…"
 monitor_inn: "EPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]

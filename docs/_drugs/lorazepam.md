@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 483
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Lorazepam: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 1. 신경증에서의 불안·긴장·우울 2. 정신신체장애(자율신경실조증, 심장신경증)에서의 불안·긴장·우울 3…"
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]

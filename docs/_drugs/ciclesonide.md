@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 211
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Ciclesonide: 예측 신규 적응증 아토피 습진 (Atopic Eczema) (근거 수준 L5). 기존 적응증: 기관지 천식의 예방적 치료"
 monitor_inn: "CICLESONIDE"
 predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]

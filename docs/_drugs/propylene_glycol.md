@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROPYLENE GLYCOL"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "cortical cataract", "nuclear senile cataract", "senile cataract", "diabetic cataract", "craniostenosis cataract", "tetanic cataract", "mature cataract"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Propylene Glycol: 예측 신규 적응증 기관지염 (근거 수준 L5). 기존 적응증: 눈의 건조로 인한 자극감과 작열감(화끈거림)의 일시적 완화"
 ---
 

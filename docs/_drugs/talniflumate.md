@@ -6,7 +6,7 @@ nav_order: 716
 evidence_level: L5
 indication_count: 10
 drugbank_id: DB09295
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 description: "Talniflumate: 예측 신규 적응증 두통 질환 (headache disorder) (근거 수준 L5). 기존 적응증: 류마티스관절염, 골관절염(퇴행관절염)"
 monitor_inn: "Talniflumate"
 predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "hypotrichosis simplex of the scalp", "migraine disorder", "congenital hypotrichosis milia", "migraine with brainstem aura", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "alopecia"]

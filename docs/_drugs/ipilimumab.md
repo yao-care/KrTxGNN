@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 434
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Ipilimumab: 예측 신규 적응증 코로이데레미아 (Choroideremia) (근거 수준 L5). 기존 적응증: 1. 수술이 불가능하거나 전이성인 흑색종 치료의 단독요법 또는 니볼루맙과의 병용요법 2. 이전 치료경험이…"
 monitor_inn: "IPILIMUMAB"
 predicted_indications: ["choroideremia"]

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 478
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Liothyronine: 예측 신규 적응증 신장 저형성/무형성 (renal hypodysplasia/aplasia) (근거 수준 L5). 기존 적응증: 갑상선기능저하증(원발성 및 뇌하수체성), 점액부종, 크레틴병, 단순성 갑상선종, 결절성 갑상선종, 만성…"
 monitor_inn: "Liothyronine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]

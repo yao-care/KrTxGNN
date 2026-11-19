@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CAPTOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Captopril: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 1. 고혈압, 2. 울혈성심부전 : 이뇨제 및 디기탈리스 투여시의 보조치료제 3. 당뇨병성 신증 :…"
 ---
 

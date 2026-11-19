@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ILAPRAZOLE"
 predicted_indications: ["gastroduodenitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Ilaprazole: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: 1. 십이지장궤양의 단기치료 2. 위궤양의 단기치료 3. 미란성식도염의 단기치료"
 ---
 

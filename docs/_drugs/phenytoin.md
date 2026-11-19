@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PHENYTOIN"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Phenytoin: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: (경구 : 정제, 캅셀제) 1. 간질 : 강직간대발작(대발작), 부분발작(초점발작), 정신운동성발작 2…"
 ---
 

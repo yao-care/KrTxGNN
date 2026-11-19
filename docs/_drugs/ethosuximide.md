@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 324
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Ethosuximide: 예측 신규 적응증 신인성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiur… (근거 수준 L5). 기존 적응증: 결신발작(소발작)"
 monitor_inn: "ETHOSUXIMIDE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]

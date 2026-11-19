@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ioversol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Ioversol: 예측 신규 적응증 골관절염 (근거 수준 L5). 기존 적응증: 성인 : 뇌동맥조영, 말초동맥조영, 내장ㆍ신장동맥 및 대동맥조영, 관상동맥조영 및 좌심실조영, CT…"
 ---
 

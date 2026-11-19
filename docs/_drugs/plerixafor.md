@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Plerixafor: 예측 신규 적응증 CMM7 (근거 수준 L5). 기존 적응증: 성인 (만18세 이상) : G-CSF와 병용하여, 비호지킨림프종 또는 다발골수종 성인 환자의…"
 ---
 

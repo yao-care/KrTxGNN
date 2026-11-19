@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 242
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Cyclosporine: 예측 신규 적응증 만성 육아종성 질환, 상염색체 열성 (근거 수준 L4). 기존 적응증: 1. 장기이식 1) 신장, 간장, 심장 및 폐복합, 폐 및 췌장의 이인자형 장기이식 거부 반응 예방 2)…"
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]

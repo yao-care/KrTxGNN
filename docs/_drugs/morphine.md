@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 529
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Morphine: 예측 신규 적응증 근막통증증후군 (Myofascial Pain Syndrome) (근거 수준 L4). 기존 적응증: 1. 비교적 심한 급성 또는 심한 만성 통증(예 : 말기 질환)의 완화 2. 수술 전 진정을 위한…"
 monitor_inn: "morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]

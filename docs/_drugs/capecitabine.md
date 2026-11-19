@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Capecitabine: 예측 신규 적응증 위 선암 및 위 근위부 용종증 (근거 수준 L5). 기존 적응증: ○ 결장 직장암 · - 전이성 결장직장암의 1차요법 · - stage III(Dukes'C)의 결장암의…"
 ---
 

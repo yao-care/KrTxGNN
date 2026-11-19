@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 566
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Orlistat: 예측 신규 적응증 비타민 과잉증 (Hypervitaminosis) (근거 수준 L5). 기존 적응증: 체질량지수(BMI) 30 kg/m² 이상 또는 다른 위험인자(예, 고혈압, 당뇨, 이상지질혈증)가 있는…"
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]

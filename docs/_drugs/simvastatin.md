@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 693
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin: 예측 신규 적응증 Brain stem infarction (근거 수준 L5). 기존 적응증: 1. 다음의 심장혈관 질환에 대한 위험성감소 관상동맥 심장 질환, 당뇨, 말초혈관질환, 뇌졸중 또는 기타…"

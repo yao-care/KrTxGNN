@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "luteoma of pregnancy", "ovarian dysfunction"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Estradiol Valerate: 예측 신규 적응증 취약 X 증후군 여성 보인자의 증상형 (symptomatic form of fragile X syndrome in female carrier) (근거 수준 L5). 기존 적응증: (정제) * 1 mg갱년기 증상경감을 위한 호르몬대체요법 * 2 mg ○…"
 ---
 

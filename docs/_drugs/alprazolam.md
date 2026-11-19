@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 47
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 monitor_inn: "ALPRAZOLAM"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
 description: "Alprazolam: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L4). 기존 적응증: 1. 불안장애의 치료 및 불안증상의 단기완화 2. 우울증에 수반하는 불안 3…"

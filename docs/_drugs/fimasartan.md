@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 348
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Fimasartan: 예측 신규 적응증 폐질환 및/또는 저산소증에 의한 폐고혈압 (pulmonary hypertension owing to lung disease… (근거 수준 L5). 기존 적응증: 피마사르탄칼륨과 암로디핀의 복합요법으로 혈압이 적절하게 조절되지 않는 본태성 고혈압"
 monitor_inn: "fimasartan"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease"]

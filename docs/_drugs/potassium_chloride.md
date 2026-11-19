@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 617
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Potassium Chloride: 예측 신규 적응증 신세뇨관 산증 (Renal Tubular Acidosis) (근거 수준 L4). 기존 적응증: 다음 환자의 지속적 혈액여과 및 혈액투석여과 시 체액대용액으로 사용 및 지속적 혈액투석 및 혈액투석여과시…"
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]

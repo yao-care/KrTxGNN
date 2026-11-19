@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 468
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-15
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
 description: "Lenvatinib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: 1. 방사성 요오드에 불응한, 국소 재발성 또는 전이성의 진행성 분화 갑상선암 2. 절제불가능한 간세포성암…"

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "ZIDOVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Zidovudine: 예측 신규 적응증 원숭이 면역결핍 바이러스 감염 (simian immunodeficiency virus infection) (근거 수준 L4). 기존 적응증: 후천성 면역부전 증후군(AIDS), 중증의 AIDS관련 증후군(T4 림파구수 300/mm3이하에서 피부점막…"
 ---
 

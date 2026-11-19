@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Risankizumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Risankizumab: 예측 신규 적응증 피부염 (근거 수준 L2). 기존 적응증: 1. 판상 건선 광선요법 또는 전신치료요법(생물학적 요법 포함)을 필요로 하는 중등도에서 중증의…"
 ---
 

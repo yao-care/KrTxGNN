@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 240
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 monitor_inn: "CYCLOPHOSPHAMIDE"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 description: "Cyclophosphamide: 예측 신규 적응증 척추 이상 및 가변적 내분비·T세포 기능장애 (vertebral anomalies and variable endocrine and T-cell dysfunction) (근거 수준 L5). 기존 적응증: 1. 악성림프종 2. 다발성골수종 3. 백혈병 4. 신경모세포종 5. 난소암 6. 망막아종 7. 유방암"

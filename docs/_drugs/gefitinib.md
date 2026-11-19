@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 371
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Gefitinib: 예측 신규 적응증 치은 섬유종증 (Fibromatosis, gingival) (근거 수준 L5). 기존 적응증: EGFR TK 활성 변이가 있는 국소 진행성 또는 전이성 비소세포폐암의 치료"
 monitor_inn: "GEFITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]

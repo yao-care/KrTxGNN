@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "Docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Docetaxel: 예측 신규 적응증 유잉 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: １. 유방암 ○ 국소적으로 진행된 또는 전이성 유방암 1) 독소루비신과 병용하여 국소적으로 진행된 또는…"
 ---
 

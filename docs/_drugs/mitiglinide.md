@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 522
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Mitiglinide: 예측 신규 적응증 오프시스모디스플라시아 (Opsismodysplasia) (근거 수준 L5). 기존 적응증: 이 약은 제2형 당뇨병 환자의 혈당조절을 향상시키기 위해 식사요법 및 운동요법의 보조제로 투여한다. 1…"
 monitor_inn: "mitiglinide"
 predicted_indications: ["opsismodysplasia"]

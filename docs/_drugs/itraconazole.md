@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 444
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Itraconazole: 예측 신규 적응증 폐포자충증 (Pneumocystosis) (근거 수준 L5). 기존 적응증: 1. 칸디다성 질염 2. 어루러기 3. 피부사상균에 의한 체부백선, 고부백선(완선), 수부백선, 족부백선…"
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]

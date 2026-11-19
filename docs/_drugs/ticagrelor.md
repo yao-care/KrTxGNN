@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 736
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Ticagrelor: 예측 신규 적응증 두개내 동맥경화증 (Intracranial Arteriosclerosis) (근거 수준 L5). 기존 적응증: 1. 다음의 성인 환자에서 아스피린과 병용하여, 혈전성 심혈관 사건 (심혈관 이상으로 인한 사망…"
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]

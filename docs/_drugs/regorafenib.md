@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 648
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-15
 monitor_inn: "Regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
 description: "Regorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L2). 기존 적응증: 1. 이전에 플루오로피리미딘 계열 약물을 기본으로 하는 항암 화학 요법과 항 VEGF 치료제, 항 EGFR…"

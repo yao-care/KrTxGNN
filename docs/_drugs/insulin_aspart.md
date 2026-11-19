@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (autoimmune oophoritis) (근거 수준 L5). 기존 적응증: 인슐린 요법이 요구되는 당뇨병"
 ---
 

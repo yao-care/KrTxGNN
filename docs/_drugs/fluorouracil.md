@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 description: "Fluorouracil: 예측 신규 적응증 질의 포도상 배아형 횡문근육종 (근거 수준 L5). 기존 적응증: 다음과 같은 질환의 자각적 및 타각적 증상의 완화 1. 암종: 결장암, 직장암, 유방암, 위암, 간암…"
 ---
 

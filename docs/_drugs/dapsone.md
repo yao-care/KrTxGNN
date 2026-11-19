@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 250
 evidence_level: L1
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Dapsone: 예측 신규 적응증 주폐포자충증 (Pneumocystosis) (근거 수준 L1). 기존 적응증: 1. 한센병 2. 포진피부염"
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]

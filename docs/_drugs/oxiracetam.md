@@ -6,7 +6,7 @@ nav_order: 569
 evidence_level: L5
 indication_count: 1
 drugbank_id: DB13601
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-15
 description: "Oxiracetam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 다음 질환으로 인한 증상(기억력·주의력·집중력 감소, 지남력장애, 언어·행동장애, 정서불안, 의욕결핍)의…"
 monitor_inn: "OXIRACETAM"
 predicted_indications: ["insomnia (disease)"]

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 301
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Elafibranor: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L5). 기존 적응증: 원발성 담즙성 담관염(PBC) 성인 환자의 치료 - 우르소데옥시콜산(UDCA)에 반응이 불충분한 환자에서…"
 monitor_inn: "elafibranor"
 predicted_indications: ["amenorrhea (disease)"]

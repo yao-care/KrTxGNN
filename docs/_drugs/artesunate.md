@@ -5,7 +5,7 @@ layout: default
 title: Artesunate
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 91
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

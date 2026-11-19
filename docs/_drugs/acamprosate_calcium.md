@@ -5,7 +5,7 @@ layout: default
 title: Acamprosate Calcium
 parent: 기존 용도만 (신규 예측 없음)
 nav_order: 15
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A

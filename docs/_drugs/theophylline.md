@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "THEOPHYLLINE"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Theophylline: 예측 신규 적응증 혈전성 질환 (근거 수준 L5). 기존 적응증: 다음 질환의 기도폐쇄 장애에 의한 호흡곤란 등 여러 증상의 완화 : 기관지천식, 천식기관지염"
 ---
 

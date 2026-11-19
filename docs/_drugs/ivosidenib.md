@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 446
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 monitor_inn: "IVOSIDENIB"
 predicted_indications: ["bulbar polio"]
 description: "Ivosidenib: 예측 신규 적응증 Bulbar polio (근거 수준 L5). 기존 적응증: 1. IDH1 변이 양성인 급성 골수성 백혈병을 새롭게 진단받은, 만 75세 이상 또는 집중유도 화학요법에…"

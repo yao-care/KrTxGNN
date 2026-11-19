@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 690
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Serine: 예측 신규 적응증 가족성 내장 근병증 (Familial Visceral Myopathy) (근거 수준 L5). 기존 적응증: 철 결핍성 빈혈의 예방 및 치료"
 monitor_inn: "Serine"
 predicted_indications: ["familial visceral myopathy", "intestinal obstruction", "myopathic intestinal pseudoobstruction", "unclassified intestinal pseudoobstruction", "neuronal intestinal dysplasia, type B", "intestinal pseudoobstruction, neuronal, chronic idiopathic, X-linked", "exercise-induced malignant hyperthermia", "aqueous misdirection"]

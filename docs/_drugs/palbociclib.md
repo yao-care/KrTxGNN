@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 574
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Palbociclib: 예측 신규 적응증 갑상선기능항진증 (Hyperthyroidism) (근거 수준 L5). 기존 적응증: 이 약은 호르몬 수용체(HR)-양성 및 사람상피세포성장인자수용체2(HER2)-음성인 진행성 또는 전이성…"
 monitor_inn: "Palbociclib"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]

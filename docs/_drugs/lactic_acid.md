@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Lactic Acid: 예측 신규 적응증 비정형 대동맥 협착증 (atypical coarctation of aorta) (근거 수준 L5). 기존 적응증: ○ 급성 신부전환자의 연속 혈액여과 및 혈액투석여과 시 체액대용액으로 사용 ○ 급성 신부전환자의 연속…"
 monitor_inn: "Lactic acid"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "non-syndromic esophageal malformation", "amenorrhea (disease)", "dry eye syndrome"]

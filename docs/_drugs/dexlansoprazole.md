@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Dexlansoprazole: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: 1. 미란성 식도염의 치료 2. 미란성 식도염의 치료 후 유지 3. 증후성 비미란성 위식도…"
 ---
 

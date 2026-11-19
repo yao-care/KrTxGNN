@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 654
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Rifaximin: 예측 신규 적응증 구강 칸디다증 (Oral candidiasis) (근거 수준 L5). 기존 적응증: 1. 그람양성균 및 그람음성균에 의한 급성장내감염에 의한 설사 증후군 2. 장내세균총의 이상으로 인한…"
 monitor_inn: "RIFAXIMIN"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]

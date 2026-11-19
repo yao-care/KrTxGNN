@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 704
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 description: "Streptomycin: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L4). 기존 적응증: 각막이식을 위한 각막의 보존(4℃에서 14일간 보존)"
 monitor_inn: "Streptomycin"
 predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]

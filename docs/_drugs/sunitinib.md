@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 711
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 description: "Sunitinib: 예측 신규 적응증 지방육종 (Liposarcoma) (근거 수준 L2). 기존 적응증: 1. 저항성 및 불내약성으로 인해 메실산 이매티닙 요법에 실패한 위장관 기저종양 2. 진행성 신세포암 3…"
 monitor_inn: "sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]

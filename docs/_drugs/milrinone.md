@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Milrinone: 예측 신규 적응증 탈모 (alopecia) (근거 수준 L5). 기존 적응증: ○ 성인 : 1. 다른 약물(경구용 디기탈리스류 강심제, 이뇨제, 혈관이완제)에 반응하지 않는 중증의…"
 monitor_inn: "MILRINONE"
 predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]

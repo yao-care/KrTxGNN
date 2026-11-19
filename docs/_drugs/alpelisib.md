@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Alpelisib"
 predicted_indications: ["pulmonary hypertension"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Alpelisib: 예측 신규 적응증 폐고혈압 (pulmonary hypertension) (근거 수준 L5). 기존 적응증: 호르몬 수용체(HR) 양성, 사람 상피세포성장인자수용체 2 (HER2) 음성 및 PIK3CA 변이가 양성인…"
 ---
 

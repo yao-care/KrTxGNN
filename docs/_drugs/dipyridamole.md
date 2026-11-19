@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "DIPYRIDAMOLE"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "lateral sinus thrombosis", "cavernous sinus thrombosis"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Dipyridamole: 예측 신규 적응증 Sick sinus syndrome 2, autosomal dominant (근거 수준 L5). 기존 적응증: 1. 협심증, 간경화증(만성허혈성심질환, 무증후성허혈성심질환, 동맥경화성심질환), 심근경색(급성기 제…"
 ---
 

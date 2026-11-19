@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
 description: "Alprostadil: 예측 신규 적응증 대동맥 기형 (aortic malformation) (근거 수준 L5). 기존 적응증: 1. 만성동맥폐색증(버거씨병, 폐색성동맥경화증)에 있어서 사지궤양, 안정시 통증의 개선 2. 다음 질환에…"

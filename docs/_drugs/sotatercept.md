@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 700
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Sotatercept: 예측 신규 적응증 급성 림프모구성 백혈병 (acute lymphoblastic leukemia) (근거 수준 L5). 기존 적응증: 다른 폐동맥고혈압 치료와 병용하여 WHO 기능분류 II-III 단계에 해당하는 성인 (18세 이상)…"
 monitor_inn: "Sotatercept"
 predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]

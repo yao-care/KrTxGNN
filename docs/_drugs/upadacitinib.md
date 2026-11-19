@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 772
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Upadacitinib: 예측 신규 적응증 콜로보마성 소안구증-근위부 단축형 이형성 증후군 (colobomatous microphthalmia-rhizomelic dy… (근거 수준 L5). 기존 적응증: 다음의 환자에서는 기존 치료제에 적절히 반응하지 않거나 내약성이 없는 경우에 한하여 이 약을 사용하여야한다…"
 monitor_inn: "upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]

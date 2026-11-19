@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 436
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Irbesartan: 예측 신규 적응증 악성 고혈압성 신질환 (Malignant Hypertensive Renal Disease) (근거 수준 L5). 기존 적응증: 본태고혈압 1. 단일요법으로 혈압이 적절히 조절되지 않는 환자 2. 중등도 또는 중증 고혈압(stage…"
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]

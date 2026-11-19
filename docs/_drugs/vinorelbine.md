@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 785
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Vinorelbine: 예측 신규 적응증 Ewing 육종 (Ewing sarcoma) (근거 수준 L2). 기존 적응증: 비소세포폐암, 진행성 유방암"
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "pulmonary sulcus neoplasm", "lung germ cell tumor", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]

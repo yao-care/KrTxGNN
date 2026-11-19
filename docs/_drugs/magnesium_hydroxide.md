@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MAGNESIUM HYDROXIDE"
 predicted_indications: ["stomach disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 description: "Magnesium Hydroxide: 예측 신규 적응증 위 질환 (stomach disease) (근거 수준 L3). 기존 적응증: 이 약은 식욕부진(식욕감퇴), 복부팽만, 장내 이상발효, 치질에 사용합니다"
 ---
 

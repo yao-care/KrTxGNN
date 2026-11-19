@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 795
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Zonisamide: 예측 신규 적응증 투렛 증후군 (Tourette syndrome) (근거 수준 L5). 기존 적응증: 부분발작 및 전신발작의 다음 발작형 : 1. 부분발작 1) 단순부분발작[잭슨형 포함, 자율신경발작…"
 monitor_inn: "Zonisamide"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]

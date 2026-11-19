@@ -4,6 +4,7 @@ permalink: /drugs/alpha-tocopherol-acetate/
 sitemap: false
 search_exclude: true
 nav_exclude: true
+last_modified_at: 2026-11-17
 ---
 <!DOCTYPE html>
 <html lang="en">

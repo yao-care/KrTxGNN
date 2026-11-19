@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB09282
 monitor_inn: "Molsidomine"
 predicted_indications: ["alopecia", "vascular disease", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "idiopathic spontaneous coronary artery dissection", "venous thoracic outlet syndrome", "visceral calciphylaxis", "neurogenic thoracic outlet syndrome", "hemangioendothelioma", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Molsidomine: 예측 신규 적응증 탈모 (근거 수준 L5). 기존 적응증: 협심증의 예방 및 유지요법(단, 급성협심증 발작시 응급처치 제외)"
 ---
 

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 741
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Tocilizumab: 예측 신규 적응증 강직성 척추염 (Ankylosing Spondylitis) (근거 수준 L3). 기존 적응증: 1. 류마티스 관절염 - 메토트렉세이트(MTX)를 포함한 이전에 한 가지 이상의 DMARDs에 대한 반응이…"
 monitor_inn: "TOCILIZUMAB"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]

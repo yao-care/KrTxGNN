@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 232
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Codeine: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: (정제) 1. 19세 이상 성인 1) 기관지염, 폐렴, 인두염, 후두염, 기관지천식, 기타 호흡기 질환에…"
 monitor_inn: "codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]

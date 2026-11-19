@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 331
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Etravirine: 예측 신규 적응증 원숭이 면역결핍바이러스 감염 (Simian Immunodeficiency Virus Infection) (근거 수준 L5). 기존 적응증: 항레트로바이러스제 치료 경험이 있는, 비뉴클레오사이드 역전사효소 저해제(NNRTI) 및 다른…"
 monitor_inn: "ETRAVIRINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor", "obsolete familial combined hyperlipidemia"]

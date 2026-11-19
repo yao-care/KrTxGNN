@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Albutrepenonacog Alfa: 예측 신규 적응증 가성 폰 빌레브란트병 (pseudo-von Willebrand disease) (근거 수준 L5). 기존 적응증: B형 혈우병 (혈액응고 제 9인자의 선천성 결핍) 환자에서 - 출혈의 억제 및 예방 - 수술 전· 후…"
 monitor_inn: "ALBUTREPENONACOG ALFA"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia"]

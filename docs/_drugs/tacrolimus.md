@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 713
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 monitor_inn: "tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: - 신이식에서의 거부반응의 억제 - 간이식에서의 거부반응의 억제 - 골수이식: 골수이식 후에 따르는…"

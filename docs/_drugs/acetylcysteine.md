@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Acetylcysteine"
 predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-15
 description: "Acetylcysteine: 예측 신규 적응증 혈전성 질환 (thrombotic disease) (근거 수준 L2). 기존 적응증: 이 약은 급ㆍ만성기관지염, 기관지천식, 후두염, 부비동염, 낭성섬유증 질환에서의 객담배출곤란에 사용합니다"
 ---
 

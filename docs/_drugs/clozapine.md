@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 231
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-15
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 description: "Clozapine: 예측 신규 적응증 조증 양극성 정동장애 (manic bipolar affective disorder) (근거 수준 L2). 기존 적응증: 1. 약제내성 조현병 환자 또는 심한 추체외로계 이상반응(특히, 지연이상운동)을 일으키는 조현병 환자의…"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Isotretinoin: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 다른 치료법으로 잘 치료되지 않는 중증의 결절성-낭포성 여드름(좌창), 특히 체간 병변이 관련된 낭포성…"
 ---
 

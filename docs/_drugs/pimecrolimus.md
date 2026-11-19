@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 602
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
 description: "Pimecrolimus: 예측 신규 적응증 지루피부염 (seborrheic dermatitis) (근거 수준 L2). 기존 적응증: 다음 환자의 경증 ∼ 중등도 아토피 피부염의 2차치료제로서 단기 치료 또는 간헐적 장기치료 - 면역기능이…"

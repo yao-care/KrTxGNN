@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 769
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Tropicamide: 예측 신규 적응증 마미 증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 안과의 진단용 산동 및 조절마비"
 monitor_inn: "TROPICAMIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]

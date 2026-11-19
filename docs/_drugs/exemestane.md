@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 335
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Exemestane: 예측 신규 적응증 항트롬빈 결핍증 2형 (antithrombin deficiency type 2) (근거 수준 L5). 기존 적응증: 항에스트로겐 치료에도 질병이 진전된 자연적 또는 인공적으로 폐경이 된 여성의 진행성 유방암…"
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]

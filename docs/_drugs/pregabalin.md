@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 626
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Pregabalin: 예측 신규 적응증 건염 (Tendinitis) (근거 수준 L5). 기존 적응증: 1. 성인에서 말초와 중추 신경병증성 통증의 치료 2. 간질 성인에서 이차적 전신증상을 동반하거나 동반하지…"
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]

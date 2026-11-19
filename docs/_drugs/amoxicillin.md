@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Amoxicillin: 예측 신규 적응증 고아밀라아제혈증 (Hyperamylasemia) (근거 수준 L5). 기존 적응증: 1. 유효균종 황색포도구균, 표피포도구균, 부생포도구균, 화농성연쇄구균, 폐렴연쇄구균, 헤모필루스…"
 monitor_inn: "AMOXICILLIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 431
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Iohexol: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L5). 기존 적응증: 1. 혈관조영 2. 정맥요로조영(IVP) 3. CT 조영증강 4. 체강조영 : 관절조영, 소화관조영 5…"
 monitor_inn: "Iohexol"
 predicted_indications: ["insomnia (disease)", "anxiety"]

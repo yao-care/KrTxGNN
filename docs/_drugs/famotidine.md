@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FAMOTIDINE"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Famotidine: 예측 신규 적응증 십이지장 폐색 (duodenal obstruction) (근거 수준 L5). 기존 적응증: (경구) 1. 주효능 효과 . 위 십이지장궤양, 문합부궤양, 상부소화관출혈(소화성궤양, 급성스트레스궤양…"
 ---
 

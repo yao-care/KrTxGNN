@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 description: "Salmeterol: 예측 신규 적응증 호흡기 기형 (respiratory malformation) (근거 수준 L5). 기존 적응증: 기관지 확장제와 흡입용 코르티코스테로이드의 병용투여가 적절하다고 판단된 천식의 치료"
 ---
 

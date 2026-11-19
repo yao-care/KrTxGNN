@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 121
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Baclofen: 예측 신규 적응증 주의력결핍 과잉행동장애 (Attention Deficit-Hyperactivity Disorder) (근거 수준 L5). 기존 적응증: 1. 다발성 경화증, 척추소뇌변성증으로 인한 골격근의 경직 2. 척수질환(염증성, 퇴행성, 외상성…"
 monitor_inn: "BACLOFEN"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]

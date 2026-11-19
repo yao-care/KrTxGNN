@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 618
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Potassium Iodide: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L4). 기존 적응증: 노인성 백내장 초기증상으로서의 렌즈혼탁"
 monitor_inn: "POTASSIUM IODIDE"
 predicted_indications: ["nasal cavity disease"]

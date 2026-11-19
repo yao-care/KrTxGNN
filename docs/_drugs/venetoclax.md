@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 782
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax: 예측 신규 적응증 Hodgkins lymphoma (근거 수준 L5). 기존 적응증: 만성 림프구성 백혈병 이전에 치료받은 적이 없는 만성 림프구성 백혈병 성인 환자에서 오비누투주맙과의 병용…"

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ginseng"
 predicted_indications: ["drug-induced osteoporosis", "acne (disease)", "severe nonproliferative diabetic retinopathy", "hemorrhagic disease of newborn", "nuclear senile cataract", "cortical cataract", "diabetic retinopathy", "amenorrhea (disease)", "tetanic cataract", "diabetes mellitus type 2 associated cataract"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Ginseng: 예측 신규 적응증 약물유발 골다공증 (근거 수준 L5). 기존 적응증: 병후 체력저하, 피로권태, 식욕감퇴(식욕부진), 도한(盜汗, 야간에 자 는 동안 땀이 나지만 느끼지 못하고…"
 ---
 

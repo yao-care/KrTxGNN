@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 717
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen: 예측 신규 적응증 유방 파제트병 (mammary Paget disease) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"

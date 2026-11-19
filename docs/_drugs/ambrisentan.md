@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "AMBRISENTAN"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Ambrisentan: 예측 신규 적응증 폐동정맥 기형 (pulmonary arteriovenous malformation (disease)) (근거 수준 L5). 기존 적응증: WHO 기능분류 II, III 단계에 해당하는 폐동맥 고혈압 (WHO Group 1) 환자에서 운동능력개선…"
 ---
 

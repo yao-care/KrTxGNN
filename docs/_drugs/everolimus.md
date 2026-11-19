@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 332
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-15
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
 description: "Everolimus: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L3). 기존 적응증: 신장 및 심장 이식 경도 내지 중등도의 면역학적 위험을 가진 동종 신장 또는 심장 이식을 받은 성인…"

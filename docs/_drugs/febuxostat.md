@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 339
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Febuxostat: 예측 신규 적응증 신성 저요산혈증 (Hypouricemia, renal) (근거 수준 L4). 기존 적응증: 통풍환자에서의 만성적 고요산혈증의 치료"
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]

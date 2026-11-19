@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Thiopental"
 predicted_indications: ["trichotillomania", "Prinzmetal angina", "migraine disorder", "Tourette syndrome", "migraine with brainstem aura", "obsolete bundle branch block", "substance abuse/dependence", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Thiopental: 예측 신규 적응증 Trichotillomania (근거 수준 L5). 기존 적응증: 전신마취, 국소마취제 및 흡입마취제와의 병용, 정신신경과에서의 전격요법(電擊療法)시의 마취, 국소마취제…"
 ---
 

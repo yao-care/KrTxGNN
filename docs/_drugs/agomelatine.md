@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Agomelatine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "Keppen-Lubinsky syndrome"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Agomelatine: 예측 신규 적응증 영아 양성 발작성 사경 (근거 수준 L5). 기존 적응증: 주요 우울증, 범불안장애"
 ---
 

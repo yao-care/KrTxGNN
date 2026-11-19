@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Finasteride: 예측 신규 적응증 Ambras형 전신 선천성 다모증 (Ambras type hypertrichosis universalis congenita) (근거 수준 L5). 기존 적응증: 성인남성(만 18 ∼ 41세)의 남성형 탈모증(안드로겐 탈모증)의 치료"
 monitor_inn: "FINASTERIDE"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]

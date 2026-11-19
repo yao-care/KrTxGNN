@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 326
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Etizolam: 예측 신규 적응증 불면증 (Insomnia) (근거 수준 L4). 기존 적응증: 1. 신경증에서의 불안·긴장·우울·신경쇠약증 2. 우울증에 수반하는 불안·긴장 3. 정신신체장애(고혈압…"
 monitor_inn: "ETIZOLAM"
 predicted_indications: ["insomnia (disease)"]

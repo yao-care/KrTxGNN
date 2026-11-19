@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 333
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Evocalcet: 예측 신규 적응증 고인산혈증 (Hyperphosphatemia) (근거 수준 L5). 기존 적응증: 투석을 받고 있는 만성신부전 환자와 관련된 이차성 부갑상선 기능 항진증의 치료"
 monitor_inn: "EVOCALCET"
 predicted_indications: ["hyperphosphatemia (disease)", "tumoral calcinosis, hyperphosphatemic, familial", "familial hyperphosphatemic tumoral calcinosis/hyperphosphatemic hyperostosis syndrome", "pancreatitis", "hereditary hypercarotenemia and vitamin A deficiency", "primary hyperoxaluria", "familial apolipoprotein C-II deficiency", "C1 inhibitor deficiency"]

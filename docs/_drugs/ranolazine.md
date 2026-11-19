@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 644
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 description: "Ranolazine: 예측 신규 적응증 신성 항이뇨호르몬 부적절 분비 증후군 (Nephrogenic Syndrome of Inappropriate Antidiure… (근거 수준 L5). 기존 적응증: 1차 협심증 치료제(예: 베타 차단제 및/또는 칼슘 길항제)로 적절히 조절되지 않거나 내약성이 없는…"
 monitor_inn: "RANOLAZINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]

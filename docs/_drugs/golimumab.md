@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "GOLIMUMAB"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Golimumab: 예측 신규 적응증 꼬리뼈 과가동성 (hypermobility of coccyx) (근거 수준 L5). 기존 적응증: 1. 류마티스 관절염 이 약은 메토트렉세이트와 병용하여 다음과 같은 적응증에 투여한다. 1)…"
 ---
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 389
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Glycine: 예측 신규 적응증 비강 질환 (Nasal Cavity Disease) (근거 수준 L5). 기존 적응증: 급ㆍ만성 간장애에 의한 뇌증의 개선, 간장애 환자의 아미노산 보급"
 monitor_inn: "GLYCINE"
 predicted_indications: ["nasal cavity disease"]

@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 698
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-15
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 description: "Sofosbuvir: 예측 신규 적응증 B형 간염 바이러스 감염 (hepatitis B virus infection) (근거 수준 L3). 기존 적응증: 간경변이 없거나 대상성 간경변(Child-Pugh A)이 있는 만성 C형 간염 바이러스(Hepatitis…"

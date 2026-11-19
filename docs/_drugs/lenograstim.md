@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 467
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Lenograstim: 예측 신규 적응증 혈소판 분비 장애 (primary release disorder of platelets) (근거 수준 L5). 기존 적응증: 1-1. 고형암에 대해 항암화학요법을 받고 있는 환자의 호중구감소증 1-2. 혈액종양에 대해 항암화학요법을…"
 monitor_inn: "LENOGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy"]

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 419
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Imiquimod: 예측 신규 적응증 전암성 신생물 (pre-malignant neoplasm) (근거 수준 L5). 기존 적응증: 1. 성인의 외부 생식기, 항문주위 사마귀/첨형 콘딜로마의 치료 2. 성인에 있어서 얼굴 또는 두피의…"
 monitor_inn: "Imiquimod"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]

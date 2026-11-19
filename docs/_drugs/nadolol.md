@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "NADOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Nadolol: 예측 신규 적응증 악성 고혈압성 신장질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 고혈압, 협심증, 빈맥성부정맥, 편두통의 예방, 갑상선중독증(갑상선기능항진증의 완화 및 갑상선 수술전…"
 ---
 

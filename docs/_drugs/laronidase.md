@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 monitor_inn: "LARONIDASE"
 predicted_indications: ["Sanfilippo syndrome"]
 description: "Laronidase: 예측 신규 적응증 Sanfilippo syndrome (근거 수준 L5). 기존 적응증: 뮤코다당체침착증Ⅰ(MucopolysaccharidosisⅠ, MPSⅠ) 형태의 헐러(Hurler) 및…"

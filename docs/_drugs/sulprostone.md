@@ -8,7 +8,7 @@ indication_count: 10
 drugbank_id: DB12708
 monitor_inn: "Sulprostone"
 predicted_indications: ["immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "mature cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetic retinopathy"]
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Sulprostone: 예측 신규 적응증 미성숙 백내장 (근거 수준 L5). 기존 적응증: 1. 치료목적의 유산유도 및 태아의 자궁내 사망시 분만유도 2. 출산 후 이완성 자궁출혈"
 ---
 

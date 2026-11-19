@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CABERGOLINE"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Cabergoline: 예측 신규 적응증 조로증-저신장-색소성 모반 증후군 (progeria-short stature-pigmented nevi syndrome) (근거 수준 L5). 기존 적응증: 1. 유즙 분비의 예방 및 억제 이 약은 이미 생산된 젖 분비와 출산직후의 생리적인 젖 분비 억제에…"
 ---
 

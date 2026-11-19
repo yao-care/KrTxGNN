@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Bedaquiline"
 predicted_indications: ["vulvovaginal candidiasis", "fascioliasis", "urea cycle disorder", "esophageal candidiasis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Bedaquiline: 예측 신규 적응증 외음질 칸디다증 (vulvovaginal candidiasis) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 (Mycobacterium tuberculosis) ○ 적응증 성인(만 18세 이상)…"
 ---
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 354
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Fludrocortisone: 예측 신규 적응증 원발성 피부 T세포 림프종 (primary cutaneous T-cell lymphoma) (근거 수준 L5). 기존 적응증: 애디슨 질환에 있어서 원발성ㆍ속발성 부신피질부전증 및 염손실성 부신성기증후군의 치료를 위한 부분적대체요법"
 monitor_inn: "fludrocortisone"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "cystic teratoma", "spinal cord dermoid cyst", "dermoid cyst of ovary", "disease of orbital part of eye adnexa", "eye disease", "disease of orbital region", "exostosis"]

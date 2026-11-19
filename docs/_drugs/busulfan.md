@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 165
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-15
 description: "Busulfan: 예측 신규 적응증 골수이형성증후군 (Myelodysplastic Syndrome) (근거 수준 L1). 기존 적응증: 다음 질환에 대하여 시클로포스파미드 와 병용하여 조혈모세포 이식시 전처치요법으로 사용한다 : 급성 백혈병…"
 monitor_inn: "BUSULFAN"
 predicted_indications: ["myelodysplastic syndrome", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "seborrheic keratosis", "feline acquired immunodeficiency syndrome"]

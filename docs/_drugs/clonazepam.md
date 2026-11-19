@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 228
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Clonazepam: 예측 신규 적응증 하지불안증후군 (Restless Legs Syndrome) (근거 수준 L3). 기존 적응증: 1. 뇌전증 및 부분발작(초점발작) 2. 원발성 및 2차적으로 전신화된 강직간대발작(대발작) 3. 유·소아…"
 monitor_inn: "CLONAZEPAM"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]

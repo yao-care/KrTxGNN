@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 502
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Mepolizumab: 예측 신규 적응증 면역 파괴에 의한 혈소판감소증 (thrombocytopenia due to immune destruction) (근거 수준 L5). 기존 적응증: 성인에서 기존 치료에 적절하게 조절되지 않는 다음의 중증 호산구성 천식 치료의 추가 유지 요법 - 치료…"
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]

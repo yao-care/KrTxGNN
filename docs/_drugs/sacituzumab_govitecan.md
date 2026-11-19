@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 678
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-15
 description: "Sacituzumab Govitecan: 예측 신규 적응증 약인성 골다공증 (drug-induced osteoporosis) (근거 수준 L5). 기존 적응증: 이전에 두 번 이상의 전신치료를 받은 적이 있고, 그 중 적어도 한 번은 전이성 질환에서 치료를 받은…"
 monitor_inn: "Sacituzumab govitecan"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]

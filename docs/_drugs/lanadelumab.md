@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 457
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-15
 monitor_inn: "Lanadelumab"
 predicted_indications: ["serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
 description: "Lanadelumab: 예측 신규 적응증 Serpinopathy with toxic serpin polymerization (근거 수준 L5). 기존 적응증: 성인 및 청소년(12세 이상)에서 유전성 혈관부종 발작의 일상적인 예방"

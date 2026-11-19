@@ -8,7 +8,7 @@ indication_count: 8
 drugbank_id: DB06737
 monitor_inn: "Zaltoprofen"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "myositis fibrosa"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 description: "Zaltoprofen: 예측 신규 적응증 편두통 (근거 수준 L5). 기존 적응증: 1. 다음 질환 및 증상의 소염·진통 : 만성 류마티스관절염, 골관절염(퇴행관절염), 요통, 견관절주위염…"
 ---
 
