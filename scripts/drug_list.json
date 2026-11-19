@@ -1,6 +1,6 @@
 {
-  "total": 670,
-  "generated_at": "2026-11-19T05:34:41.248904",
+  "total": 668,
+  "generated_at": "2026-11-19T19:51:39.027745",
   "drugs": [
     {
       "name": "Abacavir Sulfate",
@@ -631,25 +631,6 @@
       ]
     },
     {
-      "name": "Amlodipine Maleate",
-      "file": "amlodipine_maleate.md",
-      "evidence_level": "L5",
-      "indication_count": 9,
-      "predicted_indication": "",
-      "inn": "Amlodipine",
-      "predicted_indications": [
-        "brain stem infarction",
-        "pulmonary hypertension with unclear multifactorial mechanism",
-        "pulmonary hypertension owing to lung disease and/or hypoxia",
-        "malignant hypertensive renal disease",
-        "cerebral artery occlusion",
-        "Braddock syndrome",
-        "MRI defined brain infarct",
-        "ABri amyloidosis",
-        "intracerebral hemorrhage"
-      ]
-    },
-    {
       "name": "Amorolfine",
       "file": "amorolfine.md",
       "evidence_level": "L5",
@@ -972,20 +953,6 @@
         "transient tic disorder",
         "cerebellar ataxia",
         "autosomal dominant cerebellar ataxia"
-      ]
-    },
-    {
-      "name": "Atorvastatin Calcium",
-      "file": "atorvastatin_calcium.md",
-      "evidence_level": "L2",
-      "indication_count": 4,
-      "predicted_indication": "",
-      "inn": "Atorvastatin",
-      "predicted_indications": [
-        "HIV infectious disease",
-        "brain stem infarction",
-        "cholesterol-ester transfer protein deficiency",
-        "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
       ]
     },
     {
