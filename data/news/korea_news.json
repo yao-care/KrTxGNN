@@ -1,10 +1,58 @@
 {
   "source": "korea_news",
-  "fetched_at": "2026-11-20T15:03:03.400801+00:00",
-  "total_fetched": 112,
-  "unique_count": 110,
-  "health_related_count": 67,
+  "fetched_at": "2026-11-20T23:46:16.583800+00:00",
+  "total_fetched": 113,
+  "unique_count": 111,
+  "health_related_count": 63,
   "news": [
+    {
+      "id": "3bd416272927",
+      "title": "“20년전 성접촉 때문이라고?” 50대남 편도암 급증 비밀 - 미주중앙일보",
+      "published": "2026-11-20T21:00:00+00:00",
+      "summary": "“20년전 성접촉 때문이라고?” 50대남 편도암 급증 비밀&nbsp;&nbsp;미주중앙일보",
+      "sources": [
+        {
+          "name": "미주중앙일보",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZWW9KTmZaWXRBeUI2RVdqbk1BVndfTGg4Rzh2STBQZDNtV0Y3UUVHbjZWdEVlSzg2Q3dQVDVCR1BLVnY2aUtxLVhrbHFDY25XOXV6Z1lNY0VXbHJVSDBtZ3dn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "668544c02d7e",
+      "title": "한 번에 걷기보다 '틈틈이' 걸어야 혈당 잡는다 - 약사공론",
+      "published": "2026-11-20T20:50:00+00:00",
+      "summary": "한 번에 걷기보다 '틈틈이' 걸어야 혈당 잡는다&nbsp;&nbsp;약사공론5000보 몰아 걸었는데…‘5분씩’ 걷기가 혈당에 더 좋아&nbsp;&nbsp;한겨레소파 대신 15분 걷기, 정말 혈당 스파이크 잡을 수 있을까?&nbsp;&nbsp;국제뉴스운동 오랜만에 시작한다면?…걷기 운동 언제가 가장 좋을까&nbsp;&nbsp;라디오코리아혈당 관리, 한 번에 오래 걷기보다 짧게 여러 번 걷기가 더 효과적&nbsp;&nbsp;메디컬투데이",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LVFVZSThMb1pORDNBOERhZVFoa21iZXNaRkdSQXo5cWhoRlNQOEZzbGI4YUI3bDE1N0tQcllSeWc1MzByaEF3ZUd6YXRzT0pGNFFRVTNrYTJ4M3lab3J0TEdZV2N3TW81REl5aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe044d5cc508",
+      "title": "독감 백신, 너무 일찍 맞으면 효과 떨어질까…65세 이상 매달 6~11% 감소 - 약사공론",
+      "published": "2026-11-20T20:48:00+00:00",
+      "summary": "독감 백신, 너무 일찍 맞으면 효과 떨어질까…65세 이상 매달 6~11% 감소&nbsp;&nbsp;약사공론[해피라이프]독감 예방접종 언제 맞을까…치료제 올바른 복용법은&nbsp;&nbsp;이데일리[약손+] 예방접종, 바로 알고 맞나요? ⑨나이, 건강에 따른 예방접종&nbsp;&nbsp;대구MBC독감부터 RSV까지…겨울철 챙겨야 할 예방주사는?&nbsp;&nbsp;비즈워치[카드뉴스] 어린이 독감 접종은 14세까지 무료... 9세 미만 처음 접종이면 2번 맞아야&nbsp;&nbsp;베이비뉴스",
+      "sources": [
+        {
+          "name": "약사공론",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XazVLMm45Z1J2S19HT1RHU2ZlTnBFdmZpUG1vd3EyV05mcW1Mbm40WUl3MHgtTS1FQzhxTTE2RlpmeWoyU1I3OTNoTEZuMkxrU2hpc2JrZVlIWWR5OFRwMmQyQVpZbElaVER2Mw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42484310df34",
+      "title": "[밴쿠버 조선일보]심혈관질환으로 입원 신세 안 지려면··· 남자는 ‘뱃살’, 여자는 ‘하체’ 관리를 | 밴쿠버 뉴스 - 밴쿠버 조선일보",
+      "published": "2026-11-20T17:56:00+00:00",
+      "summary": "[밴쿠버 조선일보]심혈관질환으로 입원 신세 안 지려면··· 남자는 ‘뱃살’, 여자는 ‘하체’ 관리를 | 밴쿠버 뉴스&nbsp;&nbsp;밴쿠버 조선일보",
+      "sources": [
+        {
+          "name": "밴쿠버 조선일보",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDSTRkRXhHbUlKNGJSTk00MmlNR3paNVloaWRuazRZTHdXX0pOZ1BSTi12WkYzTE9pS3kzc3FnQk4yV1RUX3YyMFNWNlBkck15ZEpNUWxOMnNkUDZrTjVfWGQ4akZYdXlnaHFDa3VsaGFHVUZLdDhXcXdoRGJWRGc?oc=5"
+        }
+      ]
+    },
     {
       "id": "fc1b47aa7bdb",
       "title": "진료 전 가족력 정리…질환명과 진단 나이부터 확인 - 비건뉴스",
@@ -54,30 +102,6 @@
       ]
     },
     {
-      "id": "d5afcbbc865e",
-      "title": "매일 가당음료 마셨더니, 위암 위험 2.45배... \"제로 음료는 괜찮을까?\" - 하이닥",
-      "published": "2026-11-20T11:00:00+00:00",
-      "summary": "매일 가당음료 마셨더니, 위암 위험 2.45배... \"제로 음료는 괜찮을까?\"&nbsp;&nbsp;하이닥“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’&nbsp;&nbsp;헬스조선“매일 무심코 반복했는데”…췌장암 위험 높인다는 ‘이 습관’, 뭐길래?&nbsp;&nbsp;서울경제“췌장이 비명 지릅니다”··· 당장 멈춰야 하는 ‘최악의 습관’ 3가지&nbsp;&nbsp;밴쿠버 조선일보한국인들 엄청 즐겨먹는데…의사가 말한 혈당 올린다는 뜻밖의 음식 '1위'는?&nbsp;&nbsp;위키트리",
-      "sources": [
-        {
-          "name": "하이닥",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05RGtEMGdfNFdhOW82dVdoV2VQUnZ0dTREZVJnVjF0dThZcVp4eVJQZm4xcUNvU21ycW9JUVRqX05NV3h5ejE5RUNWRWdtSWhEd0FRZE92VVVnOEthNXROdFRxYTRoREpULUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "050f84437acb",
-      "title": "[카드뉴스] 어린이 독감 접종은 14세까지 무료... 9세 미만 처음 접종이면 2번 맞아야 - 베이비뉴스",
-      "published": "2026-11-20T10:14:23+00:00",
-      "summary": "[카드뉴스] 어린이 독감 접종은 14세까지 무료... 9세 미만 처음 접종이면 2번 맞아야&nbsp;&nbsp;베이비뉴스[해피라이프]독감 예방접종 언제 맞을까…치료제 올바른 복용법은&nbsp;&nbsp;이데일리독감·코로나 백신 함께 맞으면 이상반응 늘까…동시접종의 안전성과 기준&nbsp;&nbsp;바이오타임즈[약손+] 예방접종, 바로 알고 맞나요? ⑨나이, 건강에 따른 예방접종&nbsp;&nbsp;대구MBC독감부터 RSV까지…겨울철 챙겨야 할 예방주사는?&nbsp;&nbsp;비즈워치",
-      "sources": [
-        {
-          "name": "베이비뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwZy1xWFA2bWNHQXp3QUlBV2N3VDFKTEVHTEQ4RTQ5ZGVPbTdCVGtDWHFtWklMZms1WXA3RW1mdlUtMzZLQnA3NXM3OFBRU1p4TXpJS2xnZXgyVHZKZl93eUk5anBLekh0YVg4Zg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4375cbd38a8b",
       "title": "\"만성 통증, 뇌에서 답 찾을까?\"… 통증 관련 유전자, 뇌 신경회로와 밀접 - 하이닥",
       "published": "2026-11-20T10:00:00+00:00",
@@ -105,7 +129,7 @@
       "id": "410974031e2a",
       "title": "파킨슨병 ‘공간별 뇌세포 변화’ 규명 - BRIC",
       "published": "2026-11-20T09:43:53+00:00",
-      "summary": "파킨슨병 ‘공간별 뇌세포 변화’ 규명&nbsp;&nbsp;BRIC파킨슨병으로 사라지는 뇌 신경세포, 줄기세포로 만든다&nbsp;&nbsp;BRIC치매 쥐 뇌에 줄기세포 이식하자 운동능력 되찾았다&nbsp;&nbsp;파이낸셜뉴스숭실대 의생명시스템학부 김준일 교수팀, 파킨슨병 ‘공간별 뇌세포 변화’ 규명&nbsp;&nbsp;아시아투데이숭실대 “뇌 속 지도까지 그렸다”… 파킨슨병 정복 향한 5년 집념의 결실&nbsp;&nbsp;스마트경제",
+      "summary": "파킨슨병 ‘공간별 뇌세포 변화’ 규명&nbsp;&nbsp;BRIC치매 쥐 뇌에 줄기세포 이식하자 운동능력 되찾았다&nbsp;&nbsp;파이낸셜뉴스숭실대-서울대병원 공동연구팀 파킨슨병 뇌세포 변화 공간 위치 따라 다르다 규명.. '동아시아인 첫 고해상도 공간 전사체 지도 국제학술지 게재'&nbsp;&nbsp;베리타스알파파킨슨병으로 사라지는 뇌 신경세포, 줄기세포로 만든다&nbsp;&nbsp;브레인미디어숭실대 “뇌 속 지도까지 그렸다”… 파킨슨병 정복 향한 5년 집념의 결실&nbsp;&nbsp;스마트경제",
       "sources": [
         {
           "name": "BRIC",
@@ -114,14 +138,14 @@
       ]
     },
     {
-      "id": "49a2bc00d84e",
-      "title": "‘살찐 고양이도 위고비 맞는다’…5마리 중 4마리 체중 ‘뚝’ [개묘한 연구] - 헤럴드경제",
-      "published": "2026-11-20T09:10:00+00:00",
-      "summary": "‘살찐 고양이도 위고비 맞는다’…5마리 중 4마리 체중 ‘뚝’ [개묘한 연구]&nbsp;&nbsp;헤럴드경제",
+      "id": "2d57473963e9",
+      "title": "[단독] ‘3년 차' 2027 THE 학제 간 과학 연구 순위.. 성대 세계24위 '2년 연속 최고' 연대 경희대 톱3 - 베리타스알파",
+      "published": "2026-11-20T09:35:00+00:00",
+      "summary": "[단독] ‘3년 차' 2027 THE 학제 간 과학 연구 순위.. 성대 세계24위 '2년 연속 최고' 연대 경희대 톱3&nbsp;&nbsp;베리타스알파",
       "sources": [
         {
-          "name": "헤럴드경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5N1JjTkk5WXZZLXNzVFFISFpwc3dtSUR1QkFLZG0taFYtWUFUd245cXlkVV9EaU00WXdXQ0Fnb3VfaGVJY0pBX3d5c2NrMUhHMzhjRFJR?oc=5"
+          "name": "베리타스알파",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ULVdieXRXaHVmb0x3c3RjUFUzbnhzVFJqLWJ1R3BzTF9PLS16bmoxV2N0SmxWTEo0YnFUQjVRelQ2aDljVzd5UGtPOWVEcWJVUzBySTdHZVJUTExaZG5RREIxMWdVZ0c2a3F0RQ?oc=5"
         }
       ]
     },
@@ -162,14 +186,26 @@
       ]
     },
     {
-      "id": "851ca101f4d4",
-      "title": "채혈 면역검사 심전도검사 등 진단과 처방에 기초 자료 제공...임상병리사 오현진 씨가 오늘도 검사실로 향하는 이유 - 시빅뉴스",
-      "published": "2026-11-20T06:00:41+00:00",
-      "summary": "채혈 면역검사 심전도검사 등 진단과 처방에 기초 자료 제공...임상병리사 오현진 씨가 오늘도 검사실로 향하는 이유&nbsp;&nbsp;시빅뉴스",
+      "id": "f82a4985daae",
+      "title": "붉은 행성서 높이 209m 거대 절벽 발견…고대 빙하 흔적? [여기는 화성] - 지디넷코리아",
+      "published": "2026-11-20T07:35:46+00:00",
+      "summary": "붉은 행성서 높이 209m 거대 절벽 발견…고대 빙하 흔적? [여기는 화성]&nbsp;&nbsp;지디넷코리아",
       "sources": [
         {
-          "name": "시빅뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14US0xQ0RUZ3lMOEhYSFhyZE82NFpwM2hyYjFBV2JqVURfT3g2dVN1Wk1qQnJlaWFvcGdYZjNEV2JJcWZUUFd1NnFmbS1xWmNqZFc5emdqcjJkQWV3MTBnYnFVZTdhNGplMVRJ?oc=5"
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GREcybWRBWVZIR3QyQ0d0R0JkaUQwNEE1N2lCaVEzT25jMlZpcTVLWTlSYlEzSG1pcVBrSlJXdUFCNFoyajMtOVV3YUhGVnlBUUFWVEFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c29035b1834c",
+      "title": "“기찻길 옆에 살면, 아이 많이 낳는다?”⋯웬걸 ‘이 병’ 걸릴 위험 쑥↑ - 코메디닷컴",
+      "published": "2026-11-20T06:01:00+00:00",
+      "summary": "“기찻길 옆에 살면, 아이 많이 낳는다?”⋯웬걸 ‘이 병’ 걸릴 위험 쑥↑&nbsp;&nbsp;코메디닷컴",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4MThLZ2MySFp0TjNiWVBHMnJJbFRYeE5hUWNaUjQtMnZOWHBzM1lSM3VwbERNaFkzbE1Kak5TaHk3Zw?oc=5"
         }
       ]
     },
@@ -246,14 +282,14 @@
       ]
     },
     {
-      "id": "63206988fe20",
-      "title": "환절기마다 반복되는 아이 감기, 증상 경과 살피는 생활관리와 맞춤형 진료 필요 - 메디컬투데이",
-      "published": "2026-11-20T02:10:05+00:00",
-      "summary": "환절기마다 반복되는 아이 감기, 증상 경과 살피는 생활관리와 맞춤형 진료 필요&nbsp;&nbsp;메디컬투데이",
+      "id": "f02d88ae2aa9",
+      "title": "어린이와 성인의 RSV, 인플루엔자, 폐렴 및 기타 호흡기 질환을 예방합니다. - Vietnam.vn",
+      "published": "2026-11-20T01:59:24+00:00",
+      "summary": "어린이와 성인의 RSV, 인플루엔자, 폐렴 및 기타 호흡기 질환을 예방합니다.&nbsp;&nbsp;Vietnam.vn글로벌 제약사 독무대 된 'RSV' 시장…GSK·모더나·화이자 韓서 각축&nbsp;&nbsp;뉴스웍스콧물·기침으로 시작해 폐렴으로 악화… 고령층 위협하는 ‘RSV’&nbsp;&nbsp;세계일보\"영아 RSV 예방, 출생 전부터 준비해야…임신부 접종 중요\"&nbsp;&nbsp;데일리팜\"내일 아니라 오늘\"…칠레 RSV 예방 전략 설계자가 한국에 건넨 말&nbsp;&nbsp;청년의사",
       "sources": [
         {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82bVZFZjU4bGl2bkw2V1JOcnFhY3NTb2U0b2t5TU1SNmpJY1RTamVpZEN0MTY3bjRmbnl3d1JHdk5rVm5xVFRfQ1pLUWRDTFJqQWh5dXVQcmFtT3Fod2xXRVpZdzZxYkVMMjU2Yw?oc=5"
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1g3YnRmbnFHdk11RE92Q3l4MXFZSm94NkJXY0d2c1lKTjhzb3A4ZkJYc2hxUVhManJ4Ui1TZXpobGVGZTRHbHRJLVhuUTR2WWVOODgzSEJub3dqVGlPdGdjeDFjX28xVGVPYl9iS0hTbHc0R3pNeXpRbmxZVjRMMXVDV3ZHVl93VXBKQ215ZHdZYWFG?oc=5"
         }
       ]
     },
@@ -270,18 +306,6 @@
       ]
     },
     {
-      "id": "268a79b70d3b",
-      "title": "“아무리 많이 걸어도 운동은 따로 더 해야” 88세 김영옥의 ‘운동 철칙’ - 헬스조선",
-      "published": "2026-11-20T00:51:26+00:00",
-      "summary": "“아무리 많이 걸어도 운동은 따로 더 해야” 88세 김영옥의 ‘운동 철칙’&nbsp;&nbsp;헬스조선\"근육이 연금보다 무섭다\" 40대 이후 절대 잃지 말아야 할 '생존 근육' 3가지의 비밀&nbsp;&nbsp;한국공공정책신문‘노년 근육’ 크기보다 꺼내 쓰는 ‘속도’ 중요&nbsp;&nbsp;충청리뷰[정책안전리포트]60대 건강관리, 식후 걷기와 악력·하체 근력에 주목&nbsp;&nbsp;스포츠 피플 타임즈근력보다 먼저 늙는 ‘근파워’…스포츠의학자 홍정기, 25일 북콘서트&nbsp;&nbsp;시사저널",
-      "sources": [
-        {
-          "name": "헬스조선",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83bG1NWlpwLUxxaFlsZXQwdHgxTTEyQkxJY2JLS0hvNldaUTl1MlRFd2pObXk5djc1OGFhNFRsMjhnVHY1WjZCby1IZmcyZVdCUDI1Mkl2OEVxa29JWmZWRVFZYW5sOG1tVkprc3hJWXkySnVlNUJmRDIzNDRuOHM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "599f94ee19e8",
       "title": "피로·관절통인 줄 알았는데, 주요 장기 위협하는 루푸스 - 시사저널",
       "published": "2026-11-20T00:49:01+00:00",
@@ -290,30 +314,6 @@
         {
           "name": "시사저널",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QM2ZyQzdEN09meVJwOTdfM1VjOEhPWVIwQ3FRYUwxSnpMUXdyUVR4U256OWxRMlluUEt4a2JTdFNIUjVabkRFSnppbTNyWl9udEotZldIdEE1dk9mQ2hvS0I2Nmd5Q2VPTHNnUFVUd9IBc0FVX3lxTE9fd0NoVGsxSEdnVklpaFM2VHRJVXdPZnhZQzNYcjNQbEtmckVORnNNcnF5MEhkakNadGdPS1NfN3ZaSHpLb0N0VHlNTFJWS1I4eURFSFBrN1E3RURwX3hCazVkV01xeTVfdjc3TThGcHhXMzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c464ed66aa39",
-      "title": "Gaplinc 유전자 조절이 생쥐 내독소성 쇼크 저항성과 연관 - 미디어파인",
-      "published": "2026-11-20T00:45:28+00:00",
-      "summary": "Gaplinc 유전자 조절이 생쥐 내독소성 쇼크 저항성과 연관&nbsp;&nbsp;미디어파인",
-      "sources": [
-        {
-          "name": "미디어파인",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9scmFONXZVaExzRDZJcGw2M1JkaEoweEhKQ25VWEtMYlFYbGlpR05IUE1INjU5NmNJUnNDd1dHZWZuWGRnNUpSYXlFQ0RFeW9SbXVKUlFKNUZPbUtBSW5acU5LZU55VU94cC0xYjl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cdf3f8adf1b3",
-      "title": "한 번에 45분 걷기보다 5분씩 나눠 걷기, 혈당 조절에 유리 - 현대건강신문",
-      "published": "2026-11-20T00:06:00+00:00",
-      "summary": "한 번에 45분 걷기보다 5분씩 나눠 걷기, 혈당 조절에 유리&nbsp;&nbsp;현대건강신문5000보 몰아 걸었는데…‘5분씩’ 걷기가 혈당에 더 좋아&nbsp;&nbsp;한겨레소파 대신 15분 걷기, 정말 혈당 스파이크 잡을 수 있을까?&nbsp;&nbsp;국제뉴스운동 오랜만에 시작한다면?…걷기 운동 언제가 가장 좋을까&nbsp;&nbsp;라디오코리아혈당 관리, 한 번에 오래 걷기보다 짧게 여러 번 걷기가 더 효과적&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "현대건강신문",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GR1psbjUxS0ZvR0VQczRNQl9LZFdMdzFlYV9NVkxrVnBrYXptUFlXTVpxcm9uQmF2dVctTUhfUkE2N1VkWW1aYkoyQ3Y4OW9PRk0xYi1n?oc=5"
         }
       ]
     },
@@ -330,14 +330,14 @@
       ]
     },
     {
-      "id": "d719fc9dd8b5",
-      "title": "대기오염 심하고 녹지 부족한 지역, 허혈성 심장질환 위험 높아 - 메디컬투데이",
-      "published": "2026-11-20T00:01:35+00:00",
-      "summary": "대기오염 심하고 녹지 부족한 지역, 허혈성 심장질환 위험 높아&nbsp;&nbsp;메디컬투데이",
+      "id": "f7d30883e705",
+      "title": "바닷속 규산의 비밀, 오쏘규산이 주목받는 이유…규소와 콜라겐·뼈·피부 건강 연구 - 진주인터넷뉴스",
+      "published": "2026-11-20T00:00:05+00:00",
+      "summary": "바닷속 규산의 비밀, 오쏘규산이 주목받는 이유…규소와 콜라겐·뼈·피부 건강 연구&nbsp;&nbsp;진주인터넷뉴스",
       "sources": [
         {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KSG4wUGNla3NjdjduS2RtT1NsdVRzVXRPV2M2R1F0RjhORXc3dU9XS3hBNzlwdE1pSGFqMW9sRHNIZDFiQnFxRGFoUDJsd0tjRmM0amxCX0pjSHBfWEdIQk9pTGk3OWhXRkROdg?oc=5"
+          "name": "진주인터넷뉴스",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02bWwzRm5POFNjcG5VOUw0UzhnSUt0czU2bE1EQnlxY3dfM1lsdFM3eVo2bFYwT0F0ODFaWXg0R3AxTGFXVkhjQnhFUVF2MEJnU2dDdWpLanM4SzlLbHNISnlUaGZwSFdPTGVtdHo5X0ktdw?oc=5"
         }
       ]
     },
@@ -354,50 +354,14 @@
       ]
     },
     {
-      "id": "870ca21a05f0",
-      "title": "당뇨병 치료제 메트포르민, 희귀 유전질환 '윌슨병' 치료 가능성 확인 - 메디컬투데이",
-      "published": "2026-11-19T23:58:44+00:00",
-      "summary": "당뇨병 치료제 메트포르민, 희귀 유전질환 '윌슨병' 치료 가능성 확인&nbsp;&nbsp;메디컬투데이",
+      "id": "782c93ba5468",
+      "title": "美, AI 주도 일차의료 성과 보상체계 도입 검토 - 데일리메디",
+      "published": "2026-11-19T22:05:50+00:00",
+      "summary": "美, AI 주도 일차의료 성과 보상체계 도입 검토&nbsp;&nbsp;데일리메디",
       "sources": [
         {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUdWh4NU02QVJhelg0bVJCdkNqMUV1MzJPNkphaXd2RVF3U280TWVWNkRobkVGMmhhcGN1S3B1ZDh4ZEdlMTRVVkd2NllDSTVLcmdEbm5KTEZRTlpScGVUNURxSWpkcU90clJnNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0dd29333a797",
-      "title": "리슈만편모충증 재발·약물내성 유발하는 유전자 6개 발견 - 메디컬투데이",
-      "published": "2026-11-19T23:55:02+00:00",
-      "summary": "리슈만편모충증 재발·약물내성 유발하는 유전자 6개 발견&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pLWlxU0oyZnZjTERnY19SRXA2dXFFNFM3cGoteUxPMzRsaDd5Y3lXNWVMb2p1UGU2T3Q4bldjLTItbmk2eFJXUWhjcThRZlRPVnhESUZic2xZRTRXSk1NQXp2dmwtVnVoSWJqUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8231c996caef",
-      "title": "난소암 세포가 종양억제유전자 비활성화하는 새로운 기전 규명 - 메디컬투데이",
-      "published": "2026-11-19T23:51:47+00:00",
-      "summary": "난소암 세포가 종양억제유전자 비활성화하는 새로운 기전 규명&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mc0lzQTJDcnFTQ0tuR0hKTE9TZ01ULTdEOUl2X0ZIcGxYd19hWEhUeHFLd21QYWhlM0R1YkJuNG1UaTg4OUFDMXFDdzBQa1dabEtCZFExOW1uTVZ6N0xLc2FIS21rY2RRN1RRVw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac4b46b2e2a8",
-      "title": "간섬유화 악화시키는 면역세포 작용 규명…초기 치료 가능성 확인 - 메디컬투데이",
-      "published": "2026-11-19T23:34:19+00:00",
-      "summary": "간섬유화 악화시키는 면역세포 작용 규명…초기 치료 가능성 확인&nbsp;&nbsp;메디컬투데이",
-      "sources": [
-        {
-          "name": "메디컬투데이",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tRE1VcmVxZEo3RmYzYS1kbEJHRDZOMFpyX0tybnVEdlowUVZIY3pwMjZmb2F3b2VOTFNyZEx0NEhGSHpHNzJDSmZkV1B2SXJIZ1VCdGU1S2FLcTl6YlN6SUZQVC13U2x5YVZ4Qg?oc=5"
+          "name": "데일리메디",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIdVAzbEM3dVNZSFk3bEtMN3BOcmdxWkJMOHV4WUZ0cmVadk9ETU92SERRTXhWa2UyNE5saHZlNjAtNzNtaHFubGNoU1ZfUDRva0lYc3VOU2FqY09xZnNKcFdvN0pvaDNyQmJURGFNN3d6UQ?oc=5"
         }
       ]
     },
@@ -426,14 +390,14 @@
       ]
     },
     {
-      "id": "d2b2b9bd0da9",
-      "title": "“웅장한 교향곡처럼… 뇌 과학도 함께 연구할 때 시너지 나온다” - 동아일보",
+      "id": "4afa642bc560",
+      "title": "“웅장한 교향곡처럼… 뇌 과학도 함께 연구할 때 시너지 나온다” - 동아비즈니스리뷰",
       "published": "2026-11-19T19:30:00+00:00",
-      "summary": "“웅장한 교향곡처럼… 뇌 과학도 함께 연구할 때 시너지 나온다”&nbsp;&nbsp;동아일보",
+      "summary": "“웅장한 교향곡처럼… 뇌 과학도 함께 연구할 때 시너지 나온다”&nbsp;&nbsp;동아비즈니스리뷰",
       "sources": [
         {
-          "name": "동아일보",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MZDRKUDItSjlrMlE5RktBS3NOeGk2a2w0a1BvYkIxQTFRM05TSXVGaU1aSkpxV1FFLXdjTFJ1Rm92SjBuTXptUlp3TlBPejNtcTJwRy02M2ZBaVhjV1poaDdGczJ6QlYzcDlocXFNY9IBZkFVX3lxTE5EMHpTUXlPOUxvaDVEQ1EteG1IVFk2N1JjVHhTTzVRakxVaGNTNHBoOTVrMlF2N1l3X1BHcWMwY3kxLTJsQlFGdGc4RVF1MHpBTGpsbnE2LWhuYnExVldWd3VZN1ZvQQ?oc=5"
+          "name": "동아비즈니스리뷰",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ta0phQjBEVVJIcjR2VXRHWmEwT0RfZ2lfN1Z4dzF4clFUS0ZsREFSdVBwZ0xxcWQ3amxUN2E0S3BLcWJOc21iUWg1ZlNRQjhBUllmSnY4ZUhkWGg0OUE?oc=5"
         }
       ]
     },
@@ -450,14 +414,26 @@
       ]
     },
     {
-      "id": "f7d30883e705",
-      "title": "바닷속 규산의 비밀, 오쏘규산이 주목받는 이유…규소와 콜라겐·뼈·피부 건강 연구 - 진주인터넷뉴스",
-      "published": "2026-11-19T18:00:05+00:00",
-      "summary": "바닷속 규산의 비밀, 오쏘규산이 주목받는 이유…규소와 콜라겐·뼈·피부 건강 연구&nbsp;&nbsp;진주인터넷뉴스",
+      "id": "7f99e9651f06",
+      "title": "“설탕 안 들었어도 혈당 수직 상승”… 의사가 경고한 ‘혈당 폭탄 재료’ - 헬스조선",
+      "published": "2026-11-19T15:01:00+00:00",
+      "summary": "“설탕 안 들었어도 혈당 수직 상승”… 의사가 경고한 ‘혈당 폭탄 재료’&nbsp;&nbsp;헬스조선“매일 무심코 반복했는데”…췌장암 위험 높인다는 ‘이 습관’, 뭐길래?&nbsp;&nbsp;서울경제“각설탕 9개 수준”… 의사도 놀랐다는 ‘혈당 치솟는 음료’&nbsp;&nbsp;헬스조선“췌장이 비명 지릅니다”··· 당장 멈춰야 하는 ‘최악의 습관’ 3가지&nbsp;&nbsp;밴쿠버 조선일보매일 가당음료 마셨더니, 위암 위험 2.45배... \"제로 음료는 괜찮을까?\"&nbsp;&nbsp;하이닥",
       "sources": [
         {
-          "name": "진주인터넷뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02bWwzRm5POFNjcG5VOUw0UzhnSUt0czU2bE1EQnlxY3dfM1lsdFM3eVo2bFYwT0F0ODFaWXg0R3AxTGFXVkhjQnhFUVF2MEJnU2dDdWpLanM4SzlLbHNISnlUaGZwSFdPTGVtdHo5X0ktdw?oc=5"
+          "name": "헬스조선",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPZlIzR0xmLWtRTEFBV0xuQjlvdG5sUGVRM3RrTW1FQXg4Si0zYjlhVHF4OVlId2VKZ1J0dF93TFY4TGgxcUR5N3h5OTJLdk9MUVAwbEJ2Rk5WM2taNTdZQ0ViSld5dHI2cFF0Z2lfV0VzRThGRGlTcC1nWnZwSlk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1939589bdc9b",
+      "title": "“여성 85, 남성은 90”… 의사가 40대부터 중요하다고 강조한 ‘이 수치’ - 코메디닷컴",
+      "published": "2026-11-19T13:08:29+00:00",
+      "summary": "“여성 85, 남성은 90”… 의사가 40대부터 중요하다고 강조한 ‘이 수치’&nbsp;&nbsp;코메디닷컴“젊을 때 찐 살, 암 위험 높인다?”...체중뿐 아니라 ‘이것’ 살펴야&nbsp;&nbsp;하이닥\"내장지방이 염증 공장\"…뱃살 쌓일수록 염증도 쌓인다&nbsp;&nbsp;뉴시스2030의 불룩한 뱃살… 젊은 암으로 이어진다&nbsp;&nbsp;조선일보마른 비만이 더 무섭다! 4050 혈관과 장기를 공격하는 내장지방의 두 얼굴&nbsp;&nbsp;한국공공정책신문",
+      "sources": [
+        {
+          "name": "코메디닷컴",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1VVXhFRk9udFdKc1BoX3Y4T21vYU94VnBwMjUzcWx4dlJSZTZJZzd2UTU2THU4QktoN2UwT0ZkTkZtdw?oc=5"
         }
       ]
     },
@@ -470,6 +446,18 @@
         {
           "name": "DongA Science",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Da1VQNUNvTGZld0VMNlZ0c2h2X1k2dEZFekx1Y0EwaHVrS2VCSGlDSDJqOGc4cHY2SXZwbHhCaXRGd0h3blBIckx6TlpheUhNVW51ZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62bd5afe9e73",
+      "title": "LG AI연구원, 엑사원·피지컬 AI 전문가 임원 발탁…인재 확보전 대응 - 지디넷코리아",
+      "published": "2026-11-19T08:21:28+00:00",
+      "summary": "LG AI연구원, 엑사원·피지컬 AI 전문가 임원 발탁…인재 확보전 대응&nbsp;&nbsp;지디넷코리아",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbnZvNDFDV2lDd3FHMWItdk5td1d6YzJXYXRFeVdwWFItLW9SeC1OYTB0T18tdFVURGNvLXdoU1RSZWt5dVM0SENjcDBDTmFKNE96Rzl3?oc=5"
         }
       ]
     },
@@ -498,18 +486,6 @@
       ]
     },
     {
-      "id": "1b3da6177ceb",
-      "title": "“빗질만 해도 머리카락이 자란다?”…28일 만에 탈모 해결한 ‘전기 빗’, 어떻게 생겼나 - 코메디닷컴",
-      "published": "2026-11-19T07:01:00+00:00",
-      "summary": "“빗질만 해도 머리카락이 자란다?”…28일 만에 탈모 해결한 ‘전기 빗’, 어떻게 생겼나&nbsp;&nbsp;코메디닷컴\"전자 빗으로 빗었더니\" 탈모약 9배 깊숙이… 미녹시딜보다 효과 컸다&nbsp;&nbsp;조선일보“빗질만 했는데 머리카락이 새로 자라”…탈모 잡는 ‘전자 빗’ 나왔다&nbsp;&nbsp;매일경제＂28일 만에 빼곡하게 다시 자랐다＂…탈모약 앞선 ＇이것＇&nbsp;&nbsp;한국경제TV중국이 탈모를 촉진하는 전기빗을 발명했다.&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "코메디닷컴",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4yZ1dXVU5Gel81NHdoR1VhUDVjZHYzMXFPWERKUW4xMFUxNVdaOGtiUkFzUGpxYk9yWkQ0b255alhwUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2e6750cf4ef6",
       "title": "조기 폐경, 노년기 치매 진단 빨라질 가능성…혈액서 뇌 노화 신호 포착 - 바이오타임즈",
       "published": "2026-11-19T06:53:44+00:00",
@@ -534,26 +510,26 @@
       ]
     },
     {
-      "id": "75b6a07c811f",
-      "title": "자는동안 귀에 `이것` 틀었더니 뇌 청소 `싸악`…치매·불면증 도움될까 [매일비타민] - 매일신문",
-      "published": "2026-11-19T02:03:37+00:00",
-      "summary": "자는동안 귀에 `이것` 틀었더니 뇌 청소 `싸악`…치매·불면증 도움될까 [매일비타민]&nbsp;&nbsp;매일신문",
+      "id": "3826785ed7d1",
+      "title": "날씨 추워졌다고 아무거나 드시면 안 돼요! 대장암 예방하는 식습관과 웃귀박 루틴 - 유스연합",
+      "published": "2026-11-19T02:53:56+00:00",
+      "summary": "날씨 추워졌다고 아무거나 드시면 안 돼요! 대장암 예방하는 식습관과 웃귀박 루틴&nbsp;&nbsp;유스연합Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "매일신문",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JcldKMS1keHB4VW5OM3pTM01VdkhPaDV5SjhWRFd2R3hkM081WURZbE8tdFF6OW41RkZ3NjhZYjlvMVotdk9ON2FPTHhkc1ZoVGliRGVUQk50ZjJtc3ZtQnp3?oc=5"
+          "name": "유스연합",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XUVRSMlhLeWU4S25vS0JLMVNYSmlLMUg4azNYdjFRdXdRQ25acUR3cXgtNktKVmZOQTBkRVdaWThTeGZ1cG92ZUhsR1FpTXRwRmFz?oc=5"
         }
       ]
     },
     {
-      "id": "b3c6d9051647",
-      "title": "당뇨병콩팥병, 손상된 신장 혈관 회복하는 나노치료 기술 개발 - e-의료정보",
-      "published": "2026-11-19T00:35:27+00:00",
-      "summary": "당뇨병콩팥병, 손상된 신장 혈관 회복하는 나노치료 기술 개발&nbsp;&nbsp;e-의료정보손상된 신장 혈관 겨냥한 나노입자…당뇨병콩팥병 동물실험서 효과 확인&nbsp;&nbsp;이데일리콩팥 혈관 보호 신호 되살리자…당뇨 생쥐 단백뇨 줄었다&nbsp;&nbsp;간호사신문신장에서 혈관 석회화 억제하는 단백질 발견…만성콩팥병 치료 새 표적 기대&nbsp;&nbsp;메디컬투데이서울대병원, 적혈구 세포막·지질 나노입자 결합해 생체모방형 나노입자 개발&nbsp;&nbsp;라포르시안",
+      "id": "da6c7d33faf4",
+      "title": "서울대병원, 적혈구 세포막·지질 나노입자 결합해 생체모방형 나노입자 개발 - 라포르시안",
+      "published": "2026-11-19T02:00:00+00:00",
+      "summary": "서울대병원, 적혈구 세포막·지질 나노입자 결합해 생체모방형 나노입자 개발&nbsp;&nbsp;라포르시안Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
-          "name": "e-의료정보",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90T2h2bUd6b3VCVGZJZERtUEJiUUYzYkNZRGU1UTZWSWVrT254d281MW5lYW9zM1djZFZrRk1kNU9OMUdkcUdEUVhBV3VtTkY0LVpfeHZEdDV1djhJVTQ2N1dCMmNZaElFSl84TdIBb0FVX3lxTE9fY1gwNlJVdG42SzhyaVRGby01SlFSdXNENkxDcmtuNjR0TXZYQXNVYWt3b3VoSU9rTTFoTHpibksxTldMYkxMQndKSmhpS05JNWJkU3RpQVJKWVpHR3plcnQxNk8yUUhCT3J5N3lrRQ?oc=5"
+          "name": "라포르시안",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mYmM5OXZMSjhwTWRFeEFYbXdRU2NhVm5ZSWMtV2NhUVZLajRZdGRWMEt0aU1idjIzSVlNUW1wOTZLQno3VEZjYmdsVEhPbEQ3OHdLZlNlLU8zb2sya25aS2loZGNjcDdMbFlrMw?oc=5"
         }
       ]
     },
@@ -561,7 +537,7 @@
       "id": "cead16b0cd02",
       "title": "[건강 칼럼] 겨울철 감기, COPD·기관지확장증·폐섬유화증 환자에게 더욱 위험해 - 이데일리",
       "published": "2026-11-18T21:26:02+00:00",
-      "summary": "[건강 칼럼] 겨울철 감기, COPD·기관지확장증·폐섬유화증 환자에게 더욱 위험해&nbsp;&nbsp;이데일리감기로 오인 쉬운 ‘만성 폐쇄성 폐질환’…겨울철 급성악화 ‘경고등’&nbsp;&nbsp;에너지경제신문비탈길 오를 때 유독 숨차고 기침·가래 늘었다면 '이 병'도 의심을&nbsp;&nbsp;한국일보놓치기 쉬운 COPD⋯조기 진단·환자 맞춤 치료 전략 필수&nbsp;&nbsp;이투데이미세먼지에 찬 공기까지… 예방 가장 중요 [9988 프로젝트]&nbsp;&nbsp;대전일보",
+      "summary": "[건강 칼럼] 겨울철 감기, COPD·기관지확장증·폐섬유화증 환자에게 더욱 위험해&nbsp;&nbsp;이데일리Google 뉴스에서 헤드라인 및 의견 더보기",
       "sources": [
         {
           "name": "이데일리",
@@ -606,18 +582,6 @@
       ]
     },
     {
-      "id": "18c64b3a027e",
-      "title": "대한노인정신의학회, 19-20일 ‘2026 국제학술대회(KAGP-IC 2026)’ 개최 - 재활뉴스",
-      "published": "2026-11-17T20:30:00+00:00",
-      "summary": "대한노인정신의학회, 19-20일 ‘2026 국제학술대회(KAGP-IC 2026)’ 개최&nbsp;&nbsp;재활뉴스『노인정신의학』 4판 출간…임상 평가부터 디지털 치료·지역사회 정책까지&nbsp;&nbsp;메디포뉴스대한노인정신의학회 ‘KAGP-IC 2026’ 개막...뇌·정신·기술 결합으로 초고령사회 해법 모색&nbsp;&nbsp;헬스미디어뉴스한·독 정신의학 전문가, KAGP-IC 2026서 노년기 우울·불안 관리 디지털 치료기술 논의&nbsp;&nbsp;바이오타임즈",
-      "sources": [
-        {
-          "name": "재활뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WandUUXVLeHRJYk9EWDltOFRuNkNyeXdPVGIxVnZ6Qm5hbFRlSUdZYUFFOG5qZ0JvdlFleGUxeDd3QzVLOGFiRkdEVXgxa1M2ZG9DTU1DX1dTMEl2RjgwRUo5SEg5SkJuYzV3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "df3bbef66b27",
       "title": "[한치화의 건강&생활] 자궁경부암 상식 - 한라일보",
       "published": "2026-11-17T17:00:00+00:00",
@@ -626,6 +590,18 @@
         {
           "name": "한라일보",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBbGQyRW1CMTh6ZWlOQ2V4NVFRUlhfTDNzdW1hQTZoczBVUElpdlRtZmo3OWZ5ZXE3X0NGVFlGeG5PNXZvSXh3Z3RGS05mMUF5NFVYeEpWc0pxcWZ3dDNWVkcyNVlNbUdz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0acb55b5e9bf",
+      "title": "2형당뇨병 조기치료부터 심혈관 보호까지 'GIP/GLP-1이중작용제' 터제파타이드 전방위 혜택 - 메디칼업저버",
+      "published": "2026-11-17T08:00:00+00:00",
+      "summary": "2형당뇨병 조기치료부터 심혈관 보호까지 'GIP/GLP-1이중작용제' 터제파타이드 전방위 혜택&nbsp;&nbsp;메디칼업저버마운자로, 심혈관 건강에도 도움이 되나요?&nbsp;&nbsp;닥터나우위고비ㆍ마운자로 투약 중 약제 전환, 상호 교체가 유리&nbsp;&nbsp;의약뉴스",
+      "sources": [
+        {
+          "name": "메디칼업저버",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SMnI4Ukx6a2ljX3JWSFk5V3REM0YzUlUtNkFNeEtPT1FHelJkb2ZWcHdDZnVmdnM1X3JPYWxteE5IeW5qbUp2MzREV18yN0FVQThLaEh3V1lkcXYzNDNnUUhfTElUNEstUDVV?oc=5"
         }
       ]
     },
@@ -645,7 +621,7 @@
       "id": "78ab3f257f3b",
       "title": "숨찬 게 나이 탓? 찬바람 불면 더 위험한 ‘만성폐쇄성폐질환’ - 전국도민일보",
       "published": "2026-11-17T02:19:22+00:00",
-      "summary": "숨찬 게 나이 탓? 찬바람 불면 더 위험한 ‘만성폐쇄성폐질환’&nbsp;&nbsp;전국도민일보Google 뉴스에서 헤드라인 및 의견 더보기",
+      "summary": "숨찬 게 나이 탓? 찬바람 불면 더 위험한 ‘만성폐쇄성폐질환’&nbsp;&nbsp;전국도민일보감기로 오인 쉬운 ‘만성 폐쇄성 폐질환’…겨울철 급성악화 ‘경고등’&nbsp;&nbsp;에너지경제신문비탈길 오를 때 유독 숨차고 기침·가래 늘었다면 '이 병'도 의심을&nbsp;&nbsp;한국일보놓치기 쉬운 COPD⋯조기 진단·환자 맞춤 치료 전략 필수&nbsp;&nbsp;이투데이찬 바람에 쌕쌕거리면 '일지'를 쓰세요…병원 갈 신호도 있습니다 [건강꿀팁]&nbsp;&nbsp;위키트리",
       "sources": [
         {
           "name": "전국도민일보",
@@ -662,18 +638,6 @@
         {
           "name": "한국일보",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrM2t2LXZyQVdWV3JoVlM3Z190OTcyMVVXNXZWbDg4NERwZk9DMElZRHAxOWpJaE9HaTdaZWVnU3Y2dFpaaTNaaXF6Y01VV2VZR2pGTjRJY2NqcVhuS0Zrck1TYUNYNjJRendULVp30gFzQVVfeXFMUDFJOWxwVHlmZUJlemNwLUswcFNXZTg2aUs5U0MtbFBJbmRwWUUzNWRtWDItVURLN3pKLWNVcmU1NVJHUFlmSHJzQ1FFT2lDNWNucnEzZTBwT3JVdFpwanpxM2dvVUR6SVpscHdYMjlFUlNfOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "425383a1a0cd",
-      "title": "[인터뷰] 인천성모병원 신아영 교수 \"폐렴 예방, 독감.폐렴구균 예방접종 중요\" - 미디어인천신문",
-      "published": "2026-11-17T01:16:09+00:00",
-      "summary": "[인터뷰] 인천성모병원 신아영 교수 \"폐렴 예방, 독감.폐렴구균 예방접종 중요\"&nbsp;&nbsp;미디어인천신문“감기인 줄 알았는데” 어르신 사망 원인 2위 ‘이 병’일 수도?&nbsp;&nbsp;코메디닷컴\"다 나은 줄 알았는데…\" 독감 후 더 심해진 기침, 폐렴 신호였다 - 머니투데이&nbsp;&nbsp;머니투데이독감 뒤 다시 열 난다면, 폐렴 의심해야..다른 증상은&nbsp;&nbsp;글로벌경제신문고열 없이 식욕·기력부터 떨어지는 고령자 폐렴, 왜 위험한가&nbsp;&nbsp;이데일리",
-      "sources": [
-        {
-          "name": "미디어인천신문",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbGM4T05TQmtzNVJjdHNNQ05nRXV1R21pNjdQeFNqVGlraWNobmZuSFdYaU0yT0ZUWXR1RDNta25pNUZiY2g4RGtaajM5M0YxMmMweEIxREIzdzVvLWJkQ0ZtN3l4N0RRUVE?oc=5"
         }
       ]
     },
@@ -726,6 +690,18 @@
       ]
     },
     {
+      "id": "cc1b06ea857d",
+      "title": "[따뜻한 진료실] 심장마비, 갑작스럽지만 대비할 수 있습니다 - 경북일보",
+      "published": "2026-11-16T08:00:04+00:00",
+      "summary": "[따뜻한 진료실] 심장마비, 갑작스럽지만 대비할 수 있습니다&nbsp;&nbsp;경북일보가슴 아플 때 직접 운전해 병원 가면 안 되는 이유&nbsp;&nbsp;파이낸셜뉴스“심장혈관 깨끗하대요” 안심했는데 가슴 통증 계속된다면&nbsp;&nbsp;한국일보운동 때 흉통, 휴식 후 호전돼도 협심증 신호일 수 있어&nbsp;&nbsp;이데일리심장마비, 생사 가르는 ‘골든타임’… 신속 대응이 생명 살린다&nbsp;&nbsp;미주한국일보",
+      "sources": [
+        {
+          "name": "경북일보",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jWVZRY1A2R3cyOHZHa1hZeGpqaGJRaUh5ZG45aXc5cjlibF9VVFFjWmctWUxock9zRE1UWGNBUmtyUU9INS1tc3hHdjBnTWpJeGJzX3VNN3BtLXJxNXdJVFlBNW55MGFUbmtzWGZxaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2d84c76bc975",
       "title": "근육량 감소, 치매 유발 직접적 영향 - 의학신문",
       "published": "2026-11-16T07:10:57+00:00",
@@ -750,34 +726,10 @@
       ]
     },
     {
-      "id": "a7f42686d64a",
-      "title": "위고비ㆍ마운자로 투약 중 약제 전환, 상호 교체가 유리 - 의약뉴스",
-      "published": "2026-11-16T03:18:57+00:00",
-      "summary": "위고비ㆍ마운자로 투약 중 약제 전환, 상호 교체가 유리&nbsp;&nbsp;의약뉴스2형당뇨병 조기치료부터 심혈관 보호까지 'GIP/GLP-1이중작용제' 터제파타이드 전방위 혜택&nbsp;&nbsp;메디칼업저버마운자로, 심혈관 건강에도 도움이 되나요?&nbsp;&nbsp;닥터나우",
-      "sources": [
-        {
-          "name": "의약뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BYXA0cm0wV3BTSUxhWF9SaXhyakRtdFRuSGZEc3VWVF8wdS12M0FrcEdPTkdyUW9xNzJNaHJtX1dVdWc1a3VnbzRMV3ZIaGU1b1pHZjc3VHVhT2VCZ0ZfaHptaUVmUGRW?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "01214a081250",
-      "title": "포스텍·서강대, 값싼 흑연으로 '12분 급속충전·10년 수명' 차세대 배터리 개발 - 전자신문",
-      "published": "2026-11-15T23:36:24+00:00",
-      "summary": "포스텍·서강대, 값싼 흑연으로 '12분 급속충전·10년 수명' 차세대 배터리 개발&nbsp;&nbsp;전자신문",
-      "sources": [
-        {
-          "name": "전자신문",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52YjBaVDVkYnhZUVM4RF9EenhERnFHM1lnQUhhOTFJb3FzMzAzX2xRVmY4YUdIME1UaU82bG83MU85NlhFTWh3bThmYTV0dw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0142d4ec55cf",
       "title": "사회적 스트레스, 청소년기 뇌가 더 민감하게 반응한다 - 사이언스타임즈",
       "published": "2026-11-15T22:00:11+00:00",
-      "summary": "사회적 스트레스, 청소년기 뇌가 더 민감하게 반응한다&nbsp;&nbsp;사이언스타임즈사회적 스트레스, 청소년기가 더 ‘위험’…스트레스↑·사회성↓&nbsp;&nbsp;www.dt.co.kr청소년 뇌, 사회적 스트레스에 더 민감... 정신 건강 위협 증가&nbsp;&nbsp;공감신문",
+      "summary": "사회적 스트레스, 청소년기 뇌가 더 민감하게 반응한다&nbsp;&nbsp;사이언스타임즈청소년 뇌, 사회적 스트레스에 더 민감... 정신 건강 위협 증가&nbsp;&nbsp;공감신문",
       "sources": [
         {
           "name": "사이언스타임즈",
@@ -798,14 +750,14 @@
       ]
     },
     {
-      "id": "e2e0b32b4736",
-      "title": "셰익스피어 통찰도, 플레밍의 발견도 ‘여기’서 시작됐다 - 조선일보",
-      "published": "2026-11-13T15:30:00+00:00",
-      "summary": "셰익스피어 통찰도, 플레밍의 발견도 ‘여기’서 시작됐다&nbsp;&nbsp;조선일보",
+      "id": "c342975e1eea",
+      "title": "미열 있는 어르신 식사 잘 못하고 숨차한다면 폐렴인지 진료를 - 한국일보",
+      "published": "2026-11-15T02:30:00+00:00",
+      "summary": "미열 있는 어르신 식사 잘 못하고 숨차한다면 폐렴인지 진료를&nbsp;&nbsp;한국일보“감기인 줄 알았는데” 어르신 사망 원인 2위 ‘이 병’일 수도?&nbsp;&nbsp;코메디닷컴\"다 나은 줄 알았는데…\" 독감 후 더 심해진 기침, 폐렴 신호였다 - 머니투데이&nbsp;&nbsp;머니투데이독감 뒤 다시 열 난다면, 폐렴 의심해야..다른 증상은&nbsp;&nbsp;글로벌경제신문고열 없이 식욕·기력부터 떨어지는 고령자 폐렴, 왜 위험한가&nbsp;&nbsp;이데일리",
       "sources": [
         {
-          "name": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUC1GQ3FaQ3RDR2VXRTRfZGZHMzFTbTVDOFVDYmV2YzJGZ093bVlBTzY4bFZrY2tWWFZXb3RyUk1BRTRhUzZ2a0J6SjhvWDNyeXo4cFRKVzd5R1ZOUTB6V3lqSTczNW9VeXFNREk5UE5YTFRsVWZXNFZBTi01QmE1M3NZNVo?oc=5"
+          "name": "한국일보",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFa0stNXc2a3IySTRWRDlXTGY2MDhIRERQMkppb242bTJQTTZvUm5iNGFrVnNIUUx1Q0ZxMGFDajhtekVFVDdEVDRQU3YtSGlEVWpYOVo3eTdKX3l0UXNkR2dYWVF3OFVsQlVUdkVB0gFzQVVfeXFMTWZHVEU5ZFdCRjNoakVEcjRweHNGM2hTbWdFSFllRHhqTy1jclozVDFzZUlYbmI0MGVHTFY3R3hMQ2NlQVVvYmdBeVd1SE9weWpwRzM5ckFUREx1Zk5GekFKQnhmUnJIdnNWNHkyLWdBeGFSSQ?oc=5"
         }
       ]
     }
