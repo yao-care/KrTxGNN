@@ -55,7 +55,7 @@ TxGNN 모델은 **베타-케토티올라제 결핍증(beta-ketothiolase deficien
 
 ## 이 예측이 타당한 이유는?
 
-미국 FDA가 승인한 Brivaracetam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “BRIVIACT가 항경련 활성을 나타내는 정확한 기전은 알려져 있지 않다. 브리바라세탐은 뇌의 시냅스 소포 단백질 2A(SV2A)에 대해 높고 선택적인 친화성을 나타내며, 이것이 항경련 효과에 기여할 수 있다.” 영어 원문: "The precise mechanism by which BRIVIACT exerts its anticonvulsant activity is not known. Brivaracetam displays a high and selective affinity for synaptic vesicle protein 2A (SV2A) in the brain, which may contribute to the anticonvulsant effect." ([DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c), 버전 2026-11-05; 확인일 2026-11-19). 알려진 정보에 따르면 brivaracetam은 SV2A를 조절하는 항경련제 계열에 속하지만, 이 보고서용으로 수집한 데이터에서는 기전 정보를 확인할 수 없습니다.
+미국 FDA가 승인한 Brivaracetam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “BRIVIACT가 항경련 활성을 나타내는 정확한 기전은 알려져 있지 않다. 브리바라세탐은 뇌의 시냅스 소포 단백질 2A(SV2A)에 대해 높고 선택적인 친화성을 나타내며, 이것이 항경련 효과에 기여할 수 있다.” 영어 원문: "The precise mechanism by which BRIVIACT exerts its anticonvulsant activity is not known. Brivaracetam displays a high and selective affinity for synaptic vesicle protein 2A (SV2A) in the brain, which may contribute to the anticonvulsant effect." ([DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c), 버전 2026-11-05; 확인일 2026-11-19). 작용 기전은 출처와 함께 위에 인용되어 있습니다 ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c)).
 
 베타-케토티올라제 결핍증은 케톤체 및 이소류신 대사에 관여하는 유전성 대사 질환입니다. SV2A 조절과의 뚜렷한 기전적 연결고리는 확인되지 않으며, 높은 예측 점수는 모델 구조에서 비롯된 인공적 결과일 가능성이 큽니다. 기존 약물과의 유사성 분석 역시 아직 수행되지 않았습니다.
 
@@ -109,6 +109,7 @@ TxGNN 모델은 **베타-케토티올라제 결핍증(beta-ketothiolase deficien
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c) |
+| 2026-11-20 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c) |
 
 <!-- review:end log -->
 

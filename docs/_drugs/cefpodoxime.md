@@ -56,7 +56,7 @@ Cefpodoxime(세프포독심 프록세틸)은 경구용 3세대 세페임계 항�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Cefpodoxime의 작용 기전(비공식 번역): “세균 페니실린 결합 단백질 억제제”. 영어 원문: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL1672 (cefpodoxime): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 cefpodoxime은 세균 세포벽 합성을 억제하는 경구 세팔로스포린계 항생제로 알려져 있습니다. 그러나 이 보고서를 위해 수집된 데이터에는 기전 정보가 확인되지 않았습니다.
+ChEMBL(EMBL-EBI)에 등록된 Cefpodoxime의 작용 기전(비공식 번역): “세균 페니실린 결합 단백질 억제제”. 영어 원문: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL1672 (cefpodoxime): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 cefpodoxime은 세균 세포벽 합성을 억제하는 경구 세팔로스포린계 항생제로 알려져 있습니다. 작용 기전은 출처와 함께 위에 인용되어 있습니다 ([ChEMBL](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672)).
 
 골관절염은 연골 퇴행, 기계적 스트레스, 저강도 염증이 원인인 비감염성 퇴행성 관절 질환입니다. 항균 작용과 이 질환의 병태생리 사이에서 신뢰할 만한 기전적 연결고리는 확인되지 않았습니다. 예측 점수는 TxGNN 모델(딥러닝)에서 나온 값이며, 모델이 학습한 관련 질환 간의 유사성을 반영할 수 있지만 생물학적 근거는 아닙니다. 항염 효과 같은 가설은 입증되지 않은 추측입니다.
 
@@ -105,6 +105,7 @@ ChEMBL(EMBL-EBI)에 등록된 Cefpodoxime의 작용 기전(비공식 번역): �
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1672 (cefpodoxime): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672) |
+| 2026-11-20 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1672 (cefpodoxime): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672) |
 
 <!-- review:end log -->
 

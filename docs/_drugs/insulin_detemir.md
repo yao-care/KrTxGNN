@@ -56,7 +56,7 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-미국 FDA가 승인한 Insulin Detemir 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “LEVEMIR를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.” 영어 원문: "The primary activity of insulin, including LEVEMIR, is regulation of glucose metabolism. Insulins and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c), 버전 2024-10-09; 확인일 2026-11-19). Insulin detemir는 인슐린 수용체에 작용하는 인슐린 유사체로 알려져 있으나, 이 보고서에 사용된 데이터에는 기전 정보가 포함되어 있지 않습니다.
+미국 FDA가 승인한 Insulin Detemir 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “LEVEMIR를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.” 영어 원문: "The primary activity of insulin, including LEVEMIR, is regulation of glucose metabolism. Insulins and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c), 버전 2024-10-09; 확인일 2026-11-19). 작용 기전은 출처와 함께 위에 인용되어 있습니다 ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c)).
 
 이 약과 자가면역성 난소염 사이에는 뚜렷한 기전적 연결이 확인되지 않습니다. 예측 점수는 자가면역성 내분비 질환 간의 네트워크 연관성을 반영한 계산상의 결과일 가능성이 있습니다. 인슐린 수용체 작용이 난소의 자가면역을 치료한다는 근거는 알려져 있지 않습니다.
 
@@ -104,6 +104,7 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c) |
+| 2026-11-20 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c) |
 
 <!-- review:end log -->
 

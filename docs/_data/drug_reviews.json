@@ -2029,9 +2029,9 @@
    "drug": "abacavir_sulfate",
    "file": "abacavir_sulfate.md",
    "action": "mechanism",
-   "claim": "이 보고서를 위해 수집한 데이터에는 상세한 작용 기전 자료가 없습니다.",
-   "replacement": "미국 FDA가 승인한 abacavir and lamivudine(Abacavir Sulfate 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아바카비르 및 라미부딘은 HIV-1에 대한 활성을 가진 항레트로바이러스제이다.” 영어 원문: \"Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1.\" ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), 버전 2026-09-18; 확인일 2026-11-19).",
-   "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+   "claim": "이 보고서를 위해 수집한 데이터에는 상세한 작용 기전 자료가 없습니다. 위 기전은 NRTI 계열의 일반적인 약리 지식에 따른 설명입니다.",
+   "replacement": "위 기전은 NRTI 계열의 일반적인 약리 지식에 따른 설명입니다. 미국 FDA가 승인한 abacavir and lamivudine(Abacavir Sulfate 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아바카비르 및 라미부딘은 HIV-1에 대한 활성을 가진 항레트로바이러스제이다.” 영어 원문: \"Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1.\" ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), 버전 2026-09-18; 확인일 2026-11-19).",
+   "summary": "\"이 보고서를 위해 수집한 데이터에는 상세한 작용 기전 자료가 없습니다. 위 기전은 NRTI 계열의 일반적인 약리 지식에 따른 설명입니다\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -2048,8 +2048,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "kr-moa-20261119-abacavir_sulfate-1",
+     "drug": "abacavir_sulfate",
+     "file": "abacavir_sulfate.md",
+     "action": "mechanism",
+     "claim": "이 보고서를 위해 수집한 데이터에는 상세한 작용 기전 자료가 없습니다.",
+     "replacement": "미국 FDA가 승인한 abacavir and lamivudine(Abacavir Sulfate 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아바카비르 및 라미부딘은 HIV-1에 대한 활성을 가진 항레트로바이러스제이다.” 영어 원문: \"Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1.\" ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), 버전 2026-09-18; 확인일 2026-11-19).",
+     "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c",
+       "accessed": "2026-11-19",
+       "excerpt": "Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1.",
+       "label_version": "2026-09-18",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "d12e80eb-906c-4932-bb03-b4060ba1d31c",
+       "translation": "아바카비르 및 라미부딘은 HIV-1에 대한 활성을 가진 항레트로바이러스제이다.",
+       "translation_lang": "ko",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "kr-moa-20261119-abatacept-1",
@@ -13217,9 +13248,9 @@
    "drug": "teriparatide",
    "file": "teriparatide.md",
    "action": "mechanism",
-   "claim": "다만 허가 정보에 기재된 상세 작용 기전은 이번 데이터에 없습니다.",
-   "replacement": "미국 FDA가 승인한 Teriparatide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “내인성 84-아미노산 부갑상선호르몬(PTH)은 뼈와 신장에서 칼슘 및 인산 대사를 조절하는 주된 조절인자이다. PTH의 생리학적 작용에는 뼈 대사의 조절, 칼슘 및 인산의 신세뇨관 재흡수, 그리고 장관 칼슘 흡수가 포함된다. […] PTH와 테리파라타이드의 생물학적 작용은 특이적인 고친화성 세포 표면 수용체에 대한 결합을 통해 매개된다.” 영어 원문: \"Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors.\" ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), 버전 2026-08-31; 확인일 2026-11-19).",
-   "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+   "claim": "다만 허가 정보에 기재된 상세 작용 기전은 이번 데이터에 없습니다. 위 내용은 수용체 표적 정보에 근거한 것입니다.",
+   "replacement": "위 내용은 수용체 표적 정보에 근거한 것입니다. 미국 FDA가 승인한 Teriparatide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “내인성 84-아미노산 부갑상선호르몬(PTH)은 뼈와 신장에서 칼슘 및 인산 대사를 조절하는 주된 조절인자이다. PTH의 생리학적 작용에는 뼈 대사의 조절, 칼슘 및 인산의 신세뇨관 재흡수, 그리고 장관 칼슘 흡수가 포함된다. […] PTH와 테리파라타이드의 생물학적 작용은 특이적인 고친화성 세포 표면 수용체에 대한 결합을 통해 매개된다.” 영어 원문: \"Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors.\" ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), 버전 2026-08-31; 확인일 2026-11-19).",
+   "summary": "\"다만 허가 정보에 기재된 상세 작용 기전은 이번 데이터에 없습니다. 위 내용은 수용체 표적 정보에 근거한 것입니다\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -13236,8 +13267,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "kr-moa-20261119-teriparatide-1",
+     "drug": "teriparatide",
+     "file": "teriparatide.md",
+     "action": "mechanism",
+     "claim": "다만 허가 정보에 기재된 상세 작용 기전은 이번 데이터에 없습니다.",
+     "replacement": "미국 FDA가 승인한 Teriparatide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “내인성 84-아미노산 부갑상선호르몬(PTH)은 뼈와 신장에서 칼슘 및 인산 대사를 조절하는 주된 조절인자이다. PTH의 생리학적 작용에는 뼈 대사의 조절, 칼슘 및 인산의 신세뇨관 재흡수, 그리고 장관 칼슘 흡수가 포함된다. […] PTH와 테리파라타이드의 생물학적 작용은 특이적인 고친화성 세포 표면 수용체에 대한 결합을 통해 매개된다.” 영어 원문: \"Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors.\" ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), 버전 2026-08-31; 확인일 2026-11-19).",
+     "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c",
+       "accessed": "2026-11-19",
+       "excerpt": "Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors.",
+       "label_version": "2026-08-31",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "2d0c89a2-3849-adf6-007d-aeca21cf417c",
+       "translation": "내인성 84-아미노산 부갑상선호르몬(PTH)은 뼈와 신장에서 칼슘 및 인산 대사를 조절하는 주된 조절인자이다. PTH의 생리학적 작용에는 뼈 대사의 조절, 칼슘 및 인산의 신세뇨관 재흡수, 그리고 장관 칼슘 흡수가 포함된다. […] PTH와 테리파라타이드의 생물학적 작용은 특이적인 고친화성 세포 표면 수용체에 대한 결합을 통해 매개된다.",
+       "translation_lang": "ko",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "kr-moa-20261119-terlipressin-1",
@@ -14112,6 +14174,350 @@
    ],
    "checked": "2026-11-19",
    "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+  },
+  {
+   "id": "kr-moa-20261120-brivaracetam-2",
+   "drug": "brivaracetam",
+   "file": "brivaracetam.md",
+   "action": "mechanism",
+   "claim": "알려진 정보에 따르면 brivaracetam은 SV2A를 조절하는 항경련제 계열에 속하지만, 이 보고서용으로 수집한 데이터에서는 기전 정보를 확인할 수 없습니다.",
+   "replacement": "작용 기전은 출처와 함께 위에 인용되어 있습니다 ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c)).",
+   "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c",
+     "accessed": "2026-11-20",
+     "excerpt": "The precise mechanism by which BRIVIACT exerts its anticonvulsant activity is not known. Brivaracetam displays a high and selective affinity for synaptic vesicle protein 2A (SV2A) in the brain, which may contribute to the anticonvulsant effect.",
+     "label_version": "2026-11-05",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "3cf2f439-0e97-443e-8e33-25ecef616f6c",
+     "translation": "BRIVIACT가 항경련 활성을 나타내는 정확한 기전은 알려져 있지 않다. 브리바라세탐은 뇌의 시냅스 소포 단백질 2A(SV2A)에 대해 높고 선택적인 친화성을 나타내며, 이것이 항경련 효과에 기여할 수 있다.",
+     "translation_lang": "ko",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "kr-moa-20261120-brivaracetam-2",
+     "drug": "brivaracetam",
+     "file": "brivaracetam.md",
+     "action": "mechanism",
+     "claim": "알려진 정보에 따르면 brivaracetam은 SV2A를 조절하는 항경련제 계열에 속하지만, 이 보고서용으로 수집한 데이터에서는 기전 정보를 확인할 수 없습니다.",
+     "replacement": "미국 FDA가 승인한 Brivaracetam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “BRIVIACT가 항경련 활성을 나타내는 정확한 기전은 알려져 있지 않다. 브리바라세탐은 뇌의 시냅스 소포 단백질 2A(SV2A)에 대해 높고 선택적인 친화성을 나타내며, 이것이 항경련 효과에 기여할 수 있다.” 영어 원문: \"The precise mechanism by which BRIVIACT exerts its anticonvulsant activity is not known. Brivaracetam displays a high and selective affinity for synaptic vesicle protein 2A (SV2A) in the brain, which may contribute to the anticonvulsant effect.\" ([DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c), 버전 2026-11-05; 확인일 2026-11-20).",
+     "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Briviact (brivaracetam) prescribing information, UCB, Inc.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cf2f439-0e97-443e-8e33-25ecef616f6c",
+       "accessed": "2026-11-20",
+       "excerpt": "The precise mechanism by which BRIVIACT exerts its anticonvulsant activity is not known. Brivaracetam displays a high and selective affinity for synaptic vesicle protein 2A (SV2A) in the brain, which may contribute to the anticonvulsant effect.",
+       "label_version": "2026-11-05",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "3cf2f439-0e97-443e-8e33-25ecef616f6c",
+       "translation": "BRIVIACT가 항경련 활성을 나타내는 정확한 기전은 알려져 있지 않다. 브리바라세탐은 뇌의 시냅스 소포 단백질 2A(SV2A)에 대해 높고 선택적인 친화성을 나타내며, 이것이 항경련 효과에 기여할 수 있다.",
+       "translation_lang": "ko",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
+  },
+  {
+   "id": "kr-moa-20261120-cefpodoxime-2",
+   "drug": "cefpodoxime",
+   "file": "cefpodoxime.md",
+   "action": "mechanism",
+   "claim": "그러나 이 보고서를 위해 수집된 데이터에는 기전 정보가 확인되지 않았습니다.",
+   "replacement": "작용 기전은 출처와 함께 위에 인용되어 있습니다 ([ChEMBL](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672)).",
+   "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "ChEMBL CHEMBL1672 (cefpodoxime): drug mechanism",
+     "url": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672",
+     "accessed": "2026-11-20",
+     "excerpt": "Bacterial penicillin-binding protein inhibitor",
+     "via": "ChEMBL web services (https://www.ebi.ac.uk/chembl/api/data/docs), CC BY-SA 3.0",
+     "chembl_id": "CHEMBL1672",
+     "translation": "세균 페니실린 결합 단백질 억제제",
+     "translation_lang": "ko",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "kr-moa-20261120-cefpodoxime-2",
+     "drug": "cefpodoxime",
+     "file": "cefpodoxime.md",
+     "action": "mechanism",
+     "claim": "그러나 이 보고서를 위해 수집된 데이터에는 기전 정보가 확인되지 않았습니다.",
+     "replacement": "ChEMBL(EMBL-EBI)에 등록된 Cefpodoxime의 작용 기전(비공식 번역): “세균 페니실린 결합 단백질 억제제”. 영어 원문: \"Bacterial penicillin-binding protein inhibitor\" ([ChEMBL CHEMBL1672 (cefpodoxime): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672), CC BY-SA 3.0; 확인일 2026-11-20).",
+     "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "ChEMBL CHEMBL1672 (cefpodoxime): drug mechanism",
+       "url": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1672",
+       "accessed": "2026-11-20",
+       "excerpt": "Bacterial penicillin-binding protein inhibitor",
+       "via": "ChEMBL web services (https://www.ebi.ac.uk/chembl/api/data/docs), CC BY-SA 3.0",
+       "chembl_id": "CHEMBL1672",
+       "translation": "세균 페니실린 결합 단백질 억제제",
+       "translation_lang": "ko",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
+  },
+  {
+   "id": "kr-moa-20261120-fremanezumab-2",
+   "drug": "fremanezumab",
+   "file": "fremanezumab.md",
+   "action": "mechanism",
+   "claim": "Fremanezumab은 CGRP(칼시토닌 유전자 관련 펩타이드) 신호를 표적으로 하는 항체 계열 약물로 알려져 있으나, 이번에 수집된 데이터에서는 기전 정보를 확인할 수 없었습니다.",
+   "replacement": "작용 기전은 출처와 함께 위에 인용되어 있습니다 ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b)).",
+   "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Ajovy (fremanezumab-vfrm) prescribing information, Teva Pharmaceuticals USA, Inc.",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b",
+     "accessed": "2026-11-20",
+     "excerpt": "Fremanezumab-vfrm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor.",
+     "label_version": "2026-06-05",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "98e344ea-5916-4947-b6f2-4a76ccc04b6b",
+     "translation": "프레마네주맙-vfrm은 칼시토닌 유전자 관련 펩티드 (CGRP) 리간드에 결합하여 CGRP가 수용체에 결합하는 것을 차단하는 인간화 단일클론항체이다.",
+     "translation_lang": "ko",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "kr-moa-20261120-fremanezumab-2",
+     "drug": "fremanezumab",
+     "file": "fremanezumab.md",
+     "action": "mechanism",
+     "claim": "Fremanezumab은 CGRP(칼시토닌 유전자 관련 펩타이드) 신호를 표적으로 하는 항체 계열 약물로 알려져 있으나, 이번에 수집된 데이터에서는 기전 정보를 확인할 수 없었습니다.",
+     "replacement": "미국 FDA가 승인한 Fremanezumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “프레마네주맙-vfrm은 칼시토닌 유전자 관련 펩티드 (CGRP) 리간드에 결합하여 CGRP가 수용체에 결합하는 것을 차단하는 인간화 단일클론항체이다.” 영어 원문: \"Fremanezumab-vfrm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor.\" ([DailyMed: Ajovy (fremanezumab-vfrm) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b), 버전 2026-06-05; 확인일 2026-11-20).",
+     "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Ajovy (fremanezumab-vfrm) prescribing information, Teva Pharmaceuticals USA, Inc.",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b",
+       "accessed": "2026-11-20",
+       "excerpt": "Fremanezumab-vfrm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor.",
+       "label_version": "2026-06-05",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "98e344ea-5916-4947-b6f2-4a76ccc04b6b",
+       "translation": "프레마네주맙-vfrm은 칼시토닌 유전자 관련 펩티드 (CGRP) 리간드에 결합하여 CGRP가 수용체에 결합하는 것을 차단하는 인간화 단일클론항체이다.",
+       "translation_lang": "ko",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
+  },
+  {
+   "id": "kr-moa-20261120-insulin_degludec-2",
+   "drug": "insulin_degludec",
+   "file": "insulin_degludec.md",
+   "action": "mechanism",
+   "claim": "인슐린 데글루덱은 장기 지속형 기저 인슐린 제제로 알려져 있으나, 이번 보고서용으로 수집된 데이터에서는 기전 정보를 확인할 수 없었습니다.",
+   "replacement": "작용 기전은 출처와 함께 위에 인용되어 있습니다 ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17)).",
+   "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17",
+     "accessed": "2026-11-20",
+     "excerpt": "The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.",
+     "label_version": "2024-02-22",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17",
+     "translation": "TRESIBA를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.",
+     "translation_lang": "ko",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "kr-moa-20261120-insulin_degludec-2",
+     "drug": "insulin_degludec",
+     "file": "insulin_degludec.md",
+     "action": "mechanism",
+     "claim": "인슐린 데글루덱은 장기 지속형 기저 인슐린 제제로 알려져 있으나, 이번 보고서용으로 수집된 데이터에서는 기전 정보를 확인할 수 없었습니다.",
+     "replacement": "미국 FDA가 승인한 Insulin Degludec 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “TRESIBA를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.” 영어 원문: \"The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.\" ([DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17), 버전 2024-02-22; 확인일 2026-11-20).",
+     "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17",
+       "accessed": "2026-11-20",
+       "excerpt": "The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.",
+       "label_version": "2024-02-22",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17",
+       "translation": "TRESIBA를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.",
+       "translation_lang": "ko",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
+  },
+  {
+   "id": "kr-moa-20261120-insulin_detemir-2",
+   "drug": "insulin_detemir",
+   "file": "insulin_detemir.md",
+   "action": "mechanism",
+   "claim": "Insulin detemir는 인슐린 수용체에 작용하는 인슐린 유사체로 알려져 있으나, 이 보고서에 사용된 데이터에는 기전 정보가 포함되어 있지 않습니다.",
+   "replacement": "작용 기전은 출처와 함께 위에 인용되어 있습니다 ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c)).",
+   "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c",
+     "accessed": "2026-11-20",
+     "excerpt": "The primary activity of insulin, including LEVEMIR, is regulation of glucose metabolism. Insulins and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.",
+     "label_version": "2024-10-09",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "82192527-99aa-4b53-8ce9-9173668d309c",
+     "translation": "LEVEMIR를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.",
+     "translation_lang": "ko",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "kr-moa-20261120-insulin_detemir-2",
+     "drug": "insulin_detemir",
+     "file": "insulin_detemir.md",
+     "action": "mechanism",
+     "claim": "Insulin detemir는 인슐린 수용체에 작용하는 인슐린 유사체로 알려져 있으나, 이 보고서에 사용된 데이터에는 기전 정보가 포함되어 있지 않습니다.",
+     "replacement": "미국 FDA가 승인한 Insulin Detemir 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “LEVEMIR를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.” 영어 원문: \"The primary activity of insulin, including LEVEMIR, is regulation of glucose metabolism. Insulins and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.\" ([DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c), 버전 2024-10-09; 확인일 2026-11-20).",
+     "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Levemir (insulin detemir) prescribing information, A-S Medication Solutions",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82192527-99aa-4b53-8ce9-9173668d309c",
+       "accessed": "2026-11-20",
+       "excerpt": "The primary activity of insulin, including LEVEMIR, is regulation of glucose metabolism. Insulins and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.",
+       "label_version": "2024-10-09",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "82192527-99aa-4b53-8ce9-9173668d309c",
+       "translation": "LEVEMIR를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.",
+       "translation_lang": "ko",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
+  },
+  {
+   "id": "kr-moa-20261120-riluzole-2",
+   "drug": "riluzole",
+   "file": "riluzole.md",
+   "action": "mechanism",
+   "claim": "Riluzole은 일반적으로 글루탐산 신호를 조절하는 약물로 알려져 있으나, 이 보고서에 사용된 데이터에서는 기전이 확인되지 않았습니다.",
+   "replacement": "작용 기전은 출처와 함께 위에 인용되어 있습니다 ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857)).",
+   "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+   "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+   "sources": [
+    {
+     "title": "DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857",
+     "accessed": "2026-11-20",
+     "excerpt": "The mechanism by which riluzole exerts its therapeutic effects in patients with ALS is unknown.",
+     "label_version": "2026-07-27",
+     "section": "12.1 Mechanism of Action",
+     "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+     "set_id": "75d68f19-4208-109e-e053-2991aa0ac857",
+     "translation": "ALS 환자에서 릴루졸이 치료 효과를 나타내는 기전은 알려져 있지 않다.",
+     "translation_lang": "ko",
+     "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+    }
+   ],
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "kr-moa-20261120-riluzole-2",
+     "drug": "riluzole",
+     "file": "riluzole.md",
+     "action": "mechanism",
+     "claim": "Riluzole은 일반적으로 글루탐산 신호를 조절하는 약물로 알려져 있으나, 이 보고서에 사용된 데이터에서는 기전이 확인되지 않았습니다.",
+     "replacement": "미국 FDA가 승인한 Riluzole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “ALS 환자에서 릴루졸이 치료 효과를 나타내는 기전은 알려져 있지 않다.” 영어 원문: \"The mechanism by which riluzole exerts its therapeutic effects in patients with ALS is unknown.\" ([DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857), 버전 2026-07-27; 확인일 2026-11-20).",
+     "summary": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857",
+       "accessed": "2026-11-20",
+       "excerpt": "The mechanism by which riluzole exerts its therapeutic effects in patients with ALS is unknown.",
+       "label_version": "2026-07-27",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "75d68f19-4208-109e-e053-2991aa0ac857",
+       "translation": "ALS 환자에서 릴루졸이 치료 효과를 나타내는 기전은 알려져 있지 않다.",
+       "translation_lang": "ko",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
   }
  ]
 }

@@ -59,7 +59,7 @@ TxGNN 모델은 **자가면역 난소염(autoimmune oophoritis)**에 효과가 �
 
 ## 이 예측이 타당한 이유는?
 
-미국 FDA가 승인한 Insulin Degludec 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “TRESIBA를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.” 영어 원문: "The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17), 버전 2024-02-22; 확인일 2026-11-19). 인슐린 데글루덱은 장기 지속형 기저 인슐린 제제로 알려져 있으나, 이번 보고서용으로 수집된 데이터에서는 기전 정보를 확인할 수 없었습니다.
+미국 FDA가 승인한 Insulin Degludec 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “TRESIBA를 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.” 영어 원문: "The primary activity of insulin, including TRESIBA, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17), 버전 2024-02-22; 확인일 2026-11-19). 작용 기전은 출처와 함께 위에 인용되어 있습니다 ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17)).
 
 높은 예측 점수(0.9923)는 컴퓨터 모델의 계산 결과입니다. 제1형 당뇨병과 관련된 자가면역·내분비 질환군(예: 자가면역 다발성 내분비 증후군)이 서로 연결되어 있어 점수가 높게 나왔을 가능성이 있습니다. 그러나 인슐린이 난소의 자가면역 반응을 직접 치료한다고 볼 만한 기전은 알려져 있지 않습니다.
 
@@ -113,6 +113,7 @@ TxGNN 모델은 **자가면역 난소염(autoimmune oophoritis)**에 효과가 �
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17) |
+| 2026-11-20 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [DailyMed: Tresiba (insulin degludec) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8ccd2f4-6ba9-4839-87f8-4742dc9b1c17) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 모델은 **양측 시상구 두정-후두 다소뇌회증(bilateral paras
 
 ## 이 예측이 타당한 이유는?
 
-미국 FDA가 승인한 Riluzole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “ALS 환자에서 릴루졸이 치료 효과를 나타내는 기전은 알려져 있지 않다.” 영어 원문: "The mechanism by which riluzole exerts its therapeutic effects in patients with ALS is unknown." ([DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857), 버전 2026-07-27; 확인일 2026-11-19). Riluzole은 일반적으로 글루탐산 신호를 조절하는 약물로 알려져 있으나, 이 보고서에 사용된 데이터에서는 기전이 확인되지 않았습니다.
+미국 FDA가 승인한 Riluzole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “ALS 환자에서 릴루졸이 치료 효과를 나타내는 기전은 알려져 있지 않다.” 영어 원문: "The mechanism by which riluzole exerts its therapeutic effects in patients with ALS is unknown." ([DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857), 버전 2026-07-27; 확인일 2026-11-19). 작용 기전은 출처와 함께 위에 인용되어 있습니다 ([DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857)).
 
 이 예측은 TxGNN 점수(0.9999)에만 근거합니다. 신경세포 이동 이상으로 생기는 피질 기형인 다소뇌회증과 글루탐산 조절 사이의 연결은 현재로서는 추측 단계입니다. 임상시험과 문헌 근거가 없어 기전상 타당성을 판단하기 어렵습니다.
 
@@ -104,6 +104,7 @@ TxGNN 모델은 **양측 시상구 두정-후두 다소뇌회증(bilateral paras
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857) |
+| 2026-11-20 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857) |
 
 <!-- review:end log -->
 
