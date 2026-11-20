@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 560
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Olanzapine: 예측 신규 적응증 영아 양성 발작성 사경 (Benign paroxysmal torticollis of infancy) (근거 수준 L5). 기존 적응증: 1. 조현병 2. 양극성장애 - 양극성장애 1형과 관련된 조증 및 혼재삽화의 치료 - 올란자핀 투여로…"
 monitor_inn: "OLANZAPINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]

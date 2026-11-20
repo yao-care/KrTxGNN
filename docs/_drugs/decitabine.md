@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 255
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Decitabine: 예측 신규 적응증 소아 불응성 혈구감소증 (Refractory Cytopenia of Childhood) (근거 수준 L5). 기존 적응증: 1. 다음과 같은 골수형성이상증후군의 치료 이전 치료 경험 여부에 상관없이, 원발성 또는 속발성…"
 monitor_inn: "DECITABINE"
 predicted_indications: ["refractory cytopenia of childhood"]

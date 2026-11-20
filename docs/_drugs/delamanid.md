@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Delamanid"
 predicted_indications: ["allergic urticaria"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Delamanid: 예측 신규 적응증 알레르기성 두드러기 (allergic urticaria) (근거 수준 L5). 기존 적응증: ○ 유효균종 결핵균 (Mycobacterium tuberculosis) ○ 적응증 18세 이상 성인, 체중…"
 ---
 

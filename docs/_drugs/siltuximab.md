@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 692
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Siltuximab: 예측 신규 적응증 골외 비만세포종 (extracutaneous mastocytoma) (근거 수준 L5). 기존 적응증: 인체면역결핍바이러스 (HIV) 음성 및 제8형 인체헤르페스바이러스 (HHV-8) 음성인 다발성 캐슬만병…"
 monitor_inn: "Siltuximab"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]

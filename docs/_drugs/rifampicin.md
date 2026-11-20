@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 653
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Rifampicin: 예측 신규 적응증 결막염 (Conjunctivitis) (근거 수준 L3). 기존 적응증: 성인 및 8세 이상 소아의 결핵 치료"
 monitor_inn: "RIFAMPICIN"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]

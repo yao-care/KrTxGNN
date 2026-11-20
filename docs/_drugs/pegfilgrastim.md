@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 582
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Pegfilgrastim: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: 악성 종양에 대한 세포독성 화학요법을 투여 받는 환자의 발열성 호중구감소증의 발생과 호중구감소증의 기간…"
 monitor_inn: "PEGFILGRASTIM"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]

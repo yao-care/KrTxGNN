@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 662
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Rivastigmine: 예측 신규 적응증 녹내장 (Glaucoma) (근거 수준 L5). 기존 적응증: 경도 내지 중등도의 알츠하이머형 치매 또는 파킨슨병과 관련된 치매의 대증적 치료 중증 알츠하이머형 치매의…"
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]

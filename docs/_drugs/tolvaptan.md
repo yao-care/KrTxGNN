@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 746
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan: 예측 신규 적응증 Renal-hepatic-pancreatic dysplasia (근거 수준 L5). 기존 적응증: 1. 심부전, 항이뇨호르몬 분비 이상 증후군(SIADH) 환자 등에서 임상적으로 유의한…"

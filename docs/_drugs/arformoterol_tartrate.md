@@ -8,7 +8,7 @@ indication_count: 5
 drugbank_id: DB01274
 monitor_inn: "Arformoterol"
 predicted_indications: ["hyperlucent lung", "respiratory malformation", "tracheal stenosis", "Rienhoff syndrome", "tracheal calcification"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Arformoterol Tartrate: 예측 신규 적응증 과투명 폐 (hyperlucent lung) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 

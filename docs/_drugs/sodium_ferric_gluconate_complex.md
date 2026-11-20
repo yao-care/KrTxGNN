@@ -6,7 +6,7 @@ nav_order: 696
 evidence_level: L5
 indication_count: 6
 drugbank_id: DB09517
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 monitor_inn: "SODIUM FERRIC GLUCONATE COMPLEX"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "anaphylaxis", "bronchitis", "food-dependent exercise-induced anaphylaxis", "diabetic cataract"]
 description: "Sodium Ferric Gluconate Complex: 예측 신규 적응증 중증 비증식성 당뇨망막병증 (severe nonproliferative diabetic retinopathy) (근거 수준 L5). 기존 적응증: 이 약은 철 결핍성 빈혈에 사용합니다"

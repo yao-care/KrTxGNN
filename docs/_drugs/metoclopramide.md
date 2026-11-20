@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Metoclopramide: 예측 신규 적응증 위십이지장염 (gastroduodenitis) (근거 수준 L5). 기존 적응증: (성인) ㆍ 항암화학요법 후 지연된 구역ㆍ구토 예방 ㆍ 방사선요법 유발 구역ㆍ구토 예방 ㆍ 구역ㆍ구토의…"
 ---
 

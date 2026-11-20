@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 256
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Deferasirox: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 수혈의존성 헤모시데린침착증의 치료"
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]

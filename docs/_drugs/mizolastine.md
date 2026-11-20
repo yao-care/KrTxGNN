@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 524
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Mizolastine: 예측 신규 적응증 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) (근거 수준 L5). 기존 적응증: 계절알레르기비결막염(고초열), 연중알레르기비결막염, 두드러기 증상의 완화"
 monitor_inn: "MIZOLASTINE"
 predicted_indications: ["acute intermittent porphyria", "psychogenic movement disorders", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "benign shuddering attacks", "extrapyramidal and movement disease", "primary orthostatic tremor", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "carbamoyl phosphate synthetase I deficiency disease"]

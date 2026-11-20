@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 417
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Imiglucerase: 예측 신규 적응증 헐러 증후군 (Hurler syndrome, MPS I) (근거 수준 L5). 기존 적응증: 다음의 적응증 중 한가지 이상의 증상을 나타내는 타입 I 고셔병으로 확진된 환자에서 장기간 효소…"
 monitor_inn: "Imiglucerase"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]

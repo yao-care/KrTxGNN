@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 628
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Primidone: 예측 신규 적응증 삼차신경 신생물 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 간질 : 강직간대발작(대발작), 정신운동성발작, 부분발작(초점발작)"
 monitor_inn: "PRIMIDONE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]

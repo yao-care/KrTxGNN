@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CALCIFEDIOL"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Calcifediol: 예측 신규 적응증 신세뇨관 산증 (renal tubular acidosis) (근거 수준 L5). 기존 적응증: 신장 투석 환자에 있어서 만성 신부전증과 관련된 다음 증상의 개선 : 저칼슘혈증, 대사성 골질환"
 ---
 

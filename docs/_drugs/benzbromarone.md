@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 136
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Benzbromarone: 예측 신규 적응증 신성 저요산혈증 (Hypouricemia, renal) (근거 수준 L5). 기존 적응증: 다음의 경우에 있어서 고요산혈증의 개선 1. 통풍 2. 고요산혈증을 수반한 고혈압증"
 monitor_inn: "BENZBROMARONE"
 predicted_indications: ["hypouricemia, renal"]

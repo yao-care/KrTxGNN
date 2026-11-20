@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Paclitaxel: 예측 신규 적응증 부수막 배아성 횡문근육종 (parameningeal embryonal rhabdomyosarcoma) (근거 수준 L5). 기존 적응증: 1. 난소암 1) 다른 화학요법제와 병용하여 1차 요법제로 사용 2) 표준 요법에 실패한 전이성 난소암의…"
 ---
 

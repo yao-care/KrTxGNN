@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Megestrol acetate"
 predicted_indications: ["hereditary breast ovarian cancer syndrome", "borderline epithelial tumor of ovary", "uterine carcinosarcoma", "placenta cancer", "ovarian clear cell adenocarcinoma", "ovarian cancer", "malignant dysgerminomatous germ cell tumor of ovary"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Megestrol Acetate: 예측 신규 적응증 유전성 유방암·난소암 증후군 (hereditary breast ovarian cancer syndrome) (근거 수준 L5). 기존 적응증: 암 또는 AIDS 환자의 식욕부진, 악액질 또는 원인불명의 현저한 체중감소의 치료"
 ---
 

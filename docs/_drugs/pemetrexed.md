@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Pemetrexed: 예측 신규 적응증 흉막 선양종양 (pleural adenomatoid tumor) (근거 수준 L5). 기존 적응증: - 화학 요법을 받은 적이 없는 수술 불가능한 악성 흉막 중피종 환자에게 시스플라틴과 병용하여 사용 -…"
 ---
 

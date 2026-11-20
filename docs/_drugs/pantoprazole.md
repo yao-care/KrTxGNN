@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "pantoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Pantoprazole: 예측 신규 적응증 십이지장 폐색 (duodenal obstruction) (근거 수준 L5). 기존 적응증: - 비미란성 위식도 역류질환의 치료 - 역류성 식도염의 재발방지를 위한 장기유지요법"
 ---
 

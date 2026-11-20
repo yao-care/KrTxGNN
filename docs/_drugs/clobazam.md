@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Clobazam"
 predicted_indications: ["perioral myoclonia with absences", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Clobazam: 예측 신규 적응증 구순주위 근간대발작 동반 absence (근거 수준 L5). 기존 적응증: 1. 불안, 긴장 2. 다음 경우에서의 불안, 긴장: 정신신체장애, 자율신경장애, 수면장애, 기질성 장애…"
 ---
 

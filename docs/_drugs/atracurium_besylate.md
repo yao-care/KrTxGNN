@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 102
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Atracurium Besylate: 예측 신규 적응증 자간전증 (Preeclampsia) (근거 수준 L5). 기존 적응증: 1.마취시 근이완 2.기관내 삽관시 근이완 유지 3.기계적 조절호흡 용이 4.수술시 근이완"
 monitor_inn: "Atracurium besylate"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]

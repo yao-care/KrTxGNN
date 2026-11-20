@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "almotriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Almotriptan: 예측 신규 적응증 위축성 벌레 모양 피부증 (atrophoderma vermiculata) (근거 수준 L5). 기존 적응증: • 성인: 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료. • 15세 이상의 청소년: 전조증상을…"
 ---
 

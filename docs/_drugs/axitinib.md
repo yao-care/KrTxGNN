@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Axitinib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L4). 기존 적응증: 1. 진행성 신세포암의 1차 요법 이 약은 펨브롤리주맙과 병용하여 진행성 신세포암의 1차 치료에 사용 2…"
 ---
 

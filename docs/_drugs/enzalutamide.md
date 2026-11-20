@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "ENZALUTAMIDE"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Enzalutamide: 예측 신규 적응증 전립선 평활근종 (prostate leiomyoma) (근거 수준 L5). 기존 적응증: 1. 무증상 또는 경미한 증상의 전이성 거세저항성 전립선암 환자의 치료 2. 이전에 도세탁셀로 치료받았던…"
 ---
 

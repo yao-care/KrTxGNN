@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Chlorambucil: 예측 신규 적응증 ALK-positive large B-cell lymphoma (근거 수준 L5). 기존 적응증: 1. 호지킨병 2. 특이형의 비호지킨림프종 3. 만성림프모구백혈병 4. Waldenstrom´s…"
 ---
 

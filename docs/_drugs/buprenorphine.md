@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 164
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Buprenorphine: 예측 신규 적응증 급성 간헐성 포르피린증 (Acute Intermittent Porphyria) (근거 수준 L4). 기존 적응증: 비마약성진통제에 반응하지 않는 중등도 및 중증의 만성 통증완화. 이 약은 급성 통증의 치료에는 적절하지않다."
 monitor_inn: "BUPRENORPHINE"
 predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]

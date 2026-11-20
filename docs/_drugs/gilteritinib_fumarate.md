@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB12141
 monitor_inn: "Gilteritinib"
 predicted_indications: ["bulbar polio"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Gilteritinib Fumarate: 예측 신규 적응증 구마비성 소아마비 (bulbar polio) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 

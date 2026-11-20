@@ -5,7 +5,7 @@ parent: 높은 근거 (L1-L2)
 nav_order: 775
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Ustekinumab: 예측 신규 적응증 피부염 (Dermatitis) (근거 수준 L2). 기존 적응증: 성인 1. 판상 건선 광선 요법 또는 전신치료요법을 필요로 하는 중등도에서 중증의 판상 건선질환을 가지고…"
 monitor_inn: "USTEKINUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Carbamazepine: 예측 신규 적응증 삼차신경 신생물 (근거 수준 L5). 기존 적응증: 1. 간질 : 정신운동발작, 간질성격 및 간질에 수반하는 정신장애, 간질의 경련발작…"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "AMPICILLIN"
 predicted_indications: ["chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Ampicillin: 예측 신규 적응증 만성 비부비동염 (근거 수준 L4). 기존 적응증: ○ 유효균종 스트렙토콕쿠스 피오게네스(그룹A-베타용혈성), 폐렴연쇄구균, 프로테우스(특히, 프로테우스…"
 ---
 

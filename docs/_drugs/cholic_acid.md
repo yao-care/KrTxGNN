@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 210
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Cholic Acid: 예측 신규 적응증 HIV 감염증 (HIV infectious disease) (근거 수준 L4). 기존 적응증: 성인의 중등증 ~ 중증의 돌출되거나 과도한 턱밑 지방의 개선"
 monitor_inn: "Cholic Acid"
 predicted_indications: ["HIV infectious disease", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "biotin metabolic disease", "vitamin deficiency disorder", "hereditary hemochromatosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hemosiderosis", "disorder of phenylalanine metabolism", "bone Paget disease"]

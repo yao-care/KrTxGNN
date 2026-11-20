@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 510
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Methylene Blue: 예측 신규 적응증 기관지염 (Bronchitis) (근거 수준 L5). 기존 적응증: 약물에 의한 메트헤모글로빈혈증"
 monitor_inn: "METHYLENE BLUE"
 predicted_indications: ["bronchitis"]

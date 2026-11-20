@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 571
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Oxymetholone: 예측 신규 적응증 지루성 피부염 (Seborrheic Dermatitis) (근거 수준 L5). 기존 적응증: 재생불량성 빈혈, 골수섬유증에 의한 골수의 소모상태"
 monitor_inn: "OXYMETHOLONE"
 predicted_indications: ["seborrheic dermatitis"]

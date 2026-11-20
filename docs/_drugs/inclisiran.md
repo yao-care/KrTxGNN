@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 420
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Inclisiran: 예측 신규 적응증 칼륨 결핍증 (potassium deficiency disease) (근거 수준 L5). 기존 적응증: 원발성 고콜레스테롤혈증 (이형접합 가족형 및 비 가족형) 또는 혼합형 이상지질혈증을 가진 성인…"
 monitor_inn: "Inclisiran"
 predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]

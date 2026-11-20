@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 749
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Trabectedin: 예측 신규 적응증 여성 유방암 (Female Breast Carcinoma) (근거 수준 L5). 기존 적응증: 안트라사이클린 및 이포스파마이드 치료요법에 실패했거나, 이들 약제 투여가 부적합한, 진행된 연조직 육종"
 monitor_inn: "TRABECTEDIN"
 predicted_indications: ["female breast carcinoma"]

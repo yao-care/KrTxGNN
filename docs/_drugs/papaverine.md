@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Papaverine"
 predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "venous thromboembolism", "fibrocartilaginous embolism", "vascular insufficiency disorder", "angiodysplasia", "Raynaud disease", "Monckeberg arteriosclerosis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Papaverine: 예측 신규 적응증 허혈성 질환 (근거 수준 L4). 기존 적응증: (경구 : 정제) 1. 다음 질환에서의 내장평활근의 경련 : 위염, 담석증 2. 말초순환장애, 급성…"
 ---
 

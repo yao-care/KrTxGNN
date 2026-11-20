@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Fusidic Acid: 예측 신규 적응증 노출성 각막염 (Exposure Keratitis) (근거 수준 L5). 기존 적응증: (시럽제) ○ 유효균종 포도구균 ○ 적응증 - 골수염, 창상감염, 부스럼, 옹종 등 피부감염증 - 패혈증…"
 monitor_inn: "FUSIDIC ACID"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]

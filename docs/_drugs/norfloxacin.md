@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "NORFLOXACIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "punctate epithelial keratoconjunctivitis", "premalignant hematological system disease", "diffuse scleroderma", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Norfloxacin: 예측 신규 적응증 고아밀라아제혈증 (근거 수준 L5). 기존 적응증: ○ 유효균종 포도구균, 연쇄구균, 장내구균, 폐렴구균, 임균, 대장균, 시트로박터, 살모넬라(티푸스균…"
 ---
 

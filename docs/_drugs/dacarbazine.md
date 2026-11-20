@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 246
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Dacarbazine: 예측 신규 적응증 상부 기도·소화관 종양 (Upper Aerodigestive Tract Neoplasm) (근거 수준 L5). 기존 적응증: 악성흑색종, 호지킨병, 평활근육종을 포함한 연조직육종"
 monitor_inn: "DACARBAZINE"
 predicted_indications: ["upper aerodigestive tract neoplasm"]

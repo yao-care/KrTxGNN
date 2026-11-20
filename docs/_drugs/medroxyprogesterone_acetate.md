@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 6
 monitor_inn: "Medroxyprogesterone acetate"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Medroxyprogesterone Acetate: 예측 신규 적응증 유방 섬유낭성 질환 (breast fibrocystic disease) (근거 수준 L3). 기존 적응증: 1. 속발성 무월경 2. 유섬유종 또는 자궁암과 같은 기관의 병리가 없는 상태에서 호르몬의 불균형에…"
 ---
 

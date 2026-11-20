@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 469
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Letermovir: 예측 신규 적응증 외음질 칸디다증 (vulvovaginal candidiasis) (근거 수준 L5). 기존 적응증: 1. 조혈모세포이식(HSCT) 수여자의 거대세포바이러스(CMV) 예방 동종조혈모세포이식(HSCT)을 받은…"
 monitor_inn: "LETERMOVIR"
 predicted_indications: ["vulvovaginal candidiasis"]

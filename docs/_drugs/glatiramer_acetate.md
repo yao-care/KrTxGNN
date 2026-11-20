@@ -8,7 +8,7 @@ indication_count: 1
 drugbank_id: DB05259
 monitor_inn: "Glatiramer"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Glatiramer Acetate: 예측 신규 적응증 혈색소병증 (hemoglobinopathy) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 

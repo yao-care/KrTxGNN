@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SUCRALFATE"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Sucralfate: 예측 신규 적응증 십이지장 폐쇄 (Duodenal Obstruction) (근거 수준 L5). 기존 적응증: 1. 주효능 효과 . 위산과다, 위 십이지장궤양, 다음 질환의 위점막 병변(미란, 출혈, 발적, 부종)의…"
 ---
 

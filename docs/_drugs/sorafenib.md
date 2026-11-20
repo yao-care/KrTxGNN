@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 699
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib: 예측 신규 적응증 지방육종 (liposarcoma) (근거 수준 L5). 기존 적응증: - 이전의 cytokine 치료에 실패 경험이 있거나, 이러한 치료 요법이 적절치 않은 진행성 신장세포암…"

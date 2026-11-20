@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 247
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Dactinomycin: 예측 신규 적응증 재발-완화형 다발성 경화증 (Relapsing-Remitting Multiple Sclerosis) (근거 수준 L5). 기존 적응증: 윌름즈종양, 융모상피종, 파괴성포상기태, 횡문근육종, 고환종양, 유잉육종, 포도상육종(방사선 요법과 병용시…"
 monitor_inn: "DACTINOMYCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]

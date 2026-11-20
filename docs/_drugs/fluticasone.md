@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 362
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Fluticasone: 예측 신규 적응증 편두통 (migraine disorder) (근거 수준 L5). 기존 적응증: 1. 기관지 천식 1) 성인 : 다음 경우에 있어서의 천식의 예방적 치료 (1) 경증 천식(PEF 80%…"
 monitor_inn: "fluticasone"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]

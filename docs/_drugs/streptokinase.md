@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Streptokinase"
 predicted_indications: ["Prinzmetal angina", "hemoglobinopathy", "peripheral vascular disease", "peripheral arterial disease", "partial deletion of the short arm of chromosome 16"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Streptokinase: 예측 신규 적응증 프린츠메탈 협심증 (근거 수준 L5). 기존 적응증: 1. 급성심근경색 2. 급성기저정맥혈전증, 급성폐색전증, 급성동맥폐색증"
 ---
 

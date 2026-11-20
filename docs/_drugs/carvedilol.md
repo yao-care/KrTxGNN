@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Carvedilol: 예측 신규 적응증 악성 고혈압성 신질환 (malignant hypertensive renal disease) (근거 수준 L5). 기존 적응증: 1. 본태고혈압 2. 만성 안정협심증 3. 울혈심부전 이뇨제, 디기탈리스 제제, ACE억제제, 기타…"
 ---
 

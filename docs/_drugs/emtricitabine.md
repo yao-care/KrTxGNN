@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 308
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Emtricitabine: 예측 신규 적응증 고양이 후천성 면역결핍증후군 (feline acquired immunodeficiency syndrome) (근거 수준 L5). 기존 적응증: 1. HIV-1 감염 치료 성인과 만 12세 이상이고 체중이 35kg 이상인 청소년 환자에서 HIV-1…"
 monitor_inn: "EMTRICITABINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]

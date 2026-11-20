@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB00381
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Amlodipine Besylate: 예측 신규 적응증 뇌간 경색 (brain stem infarction) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Gemcitabine: 예측 신규 적응증 직장 점액성 선암 (근거 수준 L5). 기존 적응증: ○비소세포폐암 - 시스플라틴과병용하여국소진행성또는전이성비소세포폐암의1차치료 -…"
 ---
 

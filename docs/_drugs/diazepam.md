@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "antidepressant type abuse", "hallucinogen abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Diazepam: 예측 신규 적응증 불면증 (insomnia (disease)) (근거 수준 L2). 기존 적응증: 1. 신경증에서의 불안·긴장 2. 정신신체장애(소화기 질환, 순환기 질환, 자율신경실조증…"
 ---
 

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 616
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Potassium Bicarbonate: 예측 신규 적응증 위십이지장염 (Gastroduodenitis) (근거 수준 L5). 기존 적응증: 1. 다음과 같은 저칼륨혈증 환자의 치료 - 대사성 알칼리혈증을 동반하거나 동반하지 않은 환자 -…"
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]

@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 659
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: 예측 신규 적응증 가족성 수평 시선마비 및 진행성 척추측만증 (gaze palsy, familial horizontal, with progressive scoliosis) (근거 수준 L5). 기존 적응증: 1. 조현병 2. 중등도에서 중증인 알츠하이머형 치매 환자의 초조, 공격성 또는 정신병 증상의…"

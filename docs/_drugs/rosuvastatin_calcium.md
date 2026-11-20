@@ -8,7 +8,7 @@ indication_count: 6
 drugbank_id: DB01098
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Rosuvastatin Calcium: 예측 신규 적응증 콜레스테롤 에스테르 전달 단백질 결핍증 (cholesterol-ester transfer protein deficiency) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 

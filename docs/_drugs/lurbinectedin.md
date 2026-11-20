@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 487
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Lurbinectedin: 예측 신규 적응증 다발성 내분비 종양 (multiple endocrine neoplasia) (근거 수준 L5). 기존 적응증: 1) 1차 백금기반 화학요법에 실패한 전이성 소세포폐암 이 약의 효능효과는 반응율과 반응기간에 근거했으며…"
 monitor_inn: "Lurbinectedin"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "cytomegalovirus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "Mills syndrome"]

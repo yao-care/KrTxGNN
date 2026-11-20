@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 456
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Lamotrigine: 예측 신규 적응증 삼차신경 종양 (trigeminal nerve neoplasm) (근거 수준 L5). 기존 적응증: 1. 간질(뇌전증) 1) 단독요법 및 부가요법 : 부분발작 및 전신 강직간대발작 2) 부가요법 :…"
 monitor_inn: "LAMOTRIGINE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]

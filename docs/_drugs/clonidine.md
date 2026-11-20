@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clonidine"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "Tourette syndrome", "obesity disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "migraine disorder", "manic bipolar affective disorder"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Clonidine: 예측 신규 적응증 안면지생식기 증후군 (faciodigitogenital syndrome) (근거 수준 L5). 기존 적응증: 6 ~ 17 세 소아 및 청소년의 주의력결핍과잉행동장애 (ADHD) 치료 진단은 DSM-IV 기준 또는…"
 ---
 

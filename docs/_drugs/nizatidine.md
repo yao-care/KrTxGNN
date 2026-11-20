@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "NIZATIDINE"
 predicted_indications: ["duodenal obstruction", "multiple endocrine neoplasia"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Nizatidine: 예측 신규 적응증 십이지장 폐쇄 (duodenal obstruction) (근거 수준 L5). 기존 적응증: 1. 활동성 위ㆍ십이지장 궤양 치료 및 십이지장 궤양 재발방지 2. 내시경상으로 진단된 미란성 및 궤양성…"
 ---
 

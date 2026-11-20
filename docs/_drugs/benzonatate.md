@@ -6,7 +6,7 @@ nav_order: 137
 evidence_level: L5
 indication_count: 2
 drugbank_id: DB00868
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Benzonatate: 예측 신규 적응증 마미증후군 (Cauda Equina Syndrome) (근거 수준 L5). 기존 적응증: 허가 적응증 본문이 확인되지 않음 (허가증에는 문서 링크만 등록되어 있으며, 진해제로 알려져 있음)"
 monitor_inn: "BENZONATATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]

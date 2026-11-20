@@ -8,7 +8,7 @@ indication_count: 3
 drugbank_id: DB01048
 monitor_inn: "Abacavir"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Abacavir Sulfate: 예측 신규 적응증 고양이 후천성 면역결핍 증후군 (feline acquired immunodeficiency syndrome) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 

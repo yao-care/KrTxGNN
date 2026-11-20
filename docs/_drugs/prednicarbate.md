@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 623
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Prednicarbate: 예측 신규 적응증 외음부 역전성 모낭각화증 (Vulvar inverted follicular keratosis) (근거 수준 L5). 기존 적응증: 다음의 코르티코이드 반응성 피부질환: 습진·피부염군(아토피피부염, 지루피부염, 접촉성알레르기…"
 monitor_inn: "PREDNICARBATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "lichen planus pemphigoides", "2-hydroxyethyl methacrylate sensitization", "primary cutaneous B-cell lymphoma"]

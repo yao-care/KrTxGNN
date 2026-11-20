@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 790
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Zanubrutinib: 예측 신규 적응증 골수성 백혈병 (Myeloid leukemia) (근거 수준 L5). 기존 적응증: 외투세포 림프종(MCL) 이전에 한 가지 이상의 치료를 받은 적이 있는 외투세포 림프종(MCL) 성인…"
 monitor_inn: "ZANUBRUTINIB"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]

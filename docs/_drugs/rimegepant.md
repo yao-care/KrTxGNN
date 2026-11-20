@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 656
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 monitor_inn: "rimegepant"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 description: "Rimegepant: 예측 신규 적응증 Atrophoderma vermiculata (근거 수준 L5). 기존 적응증: 1. 성인에서의 전조증상을 수반하거나 수반하지 않는 편두통의 급성치료 2. 성인에서의 삽화성 편두통의 예방"

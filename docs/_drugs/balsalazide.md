@@ -5,7 +5,7 @@ parent: 모델 예측만 (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Balsalazide: 예측 신규 적응증 통풍 (Gout) (근거 수준 L5). 기존 적응증: 경증~중등증의 활동기 궤양성대장염의 치료 및 관해의 유지"
 monitor_inn: "balsalazide"
 predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular dystrophy", "ankylosing spondylitis", "rheumatoid arthritis", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "anus disease"]

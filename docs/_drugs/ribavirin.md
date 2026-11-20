@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related mesenteritis", "eosinophilic angiocentric fibrosis"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Ribavirin: 예측 신규 적응증 만성 B형 간염 (근거 수준 L2). 기존 적응증: (캡슐제)(시럽제) 만성 C형 간염에서 인터페론 알파-2b 또는 페그인터페론 알파-2a,-2b 주사와…"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Anastrozole: 예측 신규 적응증 신경모세포종 (neuroblastoma) (근거 수준 L5). 기존 적응증: 1. 폐경기 이후 여성의 진행성 유방암의 치료(이 요법 이전의 타목시펜 치료시 임상반응을 나타내지 않는…"
 ---
 

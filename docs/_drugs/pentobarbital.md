@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Pentobarbital"
 predicted_indications: ["obesity disorder", "manic bipolar affective disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "major affective disorder", "frontorhiny", "monogenic obesity", "trichotillomania"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Pentobarbital: 예측 신규 적응증 비만 (obesity disorder) (근거 수준 L5). 기존 적응증: 1. 마취전 투약, 전신마취의 도입 2. 불안, 긴장상태의 진정, 불면증 3. 경련상태의 억제"
 ---
 

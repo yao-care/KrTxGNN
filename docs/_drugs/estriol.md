@@ -5,7 +5,7 @@ parent: 중등도 근거 (L3-L4)
 nav_order: 321
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Estriol: 예측 신규 적응증 무월경 (Amenorrhea) (근거 수준 L3). 기존 적응증: 1. 소독제 또는 항생물질로 국소 또는 전신치료후 데데를라인균총의 정상화 2. 폐경기후의 질 세균총의…"
 monitor_inn: "ESTRIOL"
 predicted_indications: ["amenorrhea (disease)"]

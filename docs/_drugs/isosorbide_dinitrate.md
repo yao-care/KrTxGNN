@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "isosorbide dinitrate"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "arterial thoracic outlet syndrome"]
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-20
 description: "Isosorbide Dinitrate: 예측 신규 적응증 탈모증 (근거 수준 L5). 기존 적응증: (경구 : 정제, 서방형 정제·캅셀제) 1. 협심증, 심근경색, 관경화증(만성허혈성심질환…"
 ---
 
