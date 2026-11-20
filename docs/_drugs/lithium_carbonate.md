@@ -56,7 +56,7 @@ TxGNN 모델은 **가성무형성증(Pseudoachondroplasia)**에 효과가 있을
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 리튬은 GSK-3β를 억제하고 Wnt/β-catenin 신호전달을 조절하는 것으로 알려져 있으며, 이론적으로는 연골세포 생물학에 영향을 줄 수 있습니다.
+미국 FDA가 승인한 Lithium Carbonate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “기분 안정제로서 lithium의 작용기전은 알려져 있지 않다.” 영어 원문: "The mechanism of action of lithium as a mood stabilizing agent is unknown." ([DailyMed: Lithium Carbonate Lithium Carbonate (lithium carbonate) prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ca2b977-b94c-4232-9b7e-835db97c9544), 버전 2022-11-03; 확인일 2026-11-19). 일반적으로 리튬은 GSK-3β를 억제하고 Wnt/β-catenin 신호전달을 조절하는 것으로 알려져 있으며, 이론적으로는 연골세포 생물학에 영향을 줄 수 있습니다.
 
 가성무형성증은 COMP 유전자 변이로 소포체 스트레스와 연골세포 사멸이 일어나는 질환입니다. 리튬과 이 질환을 직접 연결하는 경로는 이번 데이터에서 확인되지 않았습니다. 따라서 높은 TxGNN 점수는 계산 모델의 예측일 뿐, 기전상 타당성이 검증된 것은 아닙니다.
 
@@ -108,6 +108,19 @@ TxGNN 모델은 **가성무형성증(Pseudoachondroplasia)**에 효과가 있을
 - 상세한 약물 작용 기전(MOA) 데이터 보완
 - 가성무형성증 등 예측 질환에 대한 리튬 관련 전임상·기전 연구 문헌 조사
 - 골격 질환 환자에서의 리튬 안전성(신기능, 갑상선, 심장 전도, 기형 유발성) 평가 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lithium Carbonate Lithium Carbonate (lithium carbonate) prescribing information, Alembic Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ca2b977-b94c-4232-9b7e-835db97c9544) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

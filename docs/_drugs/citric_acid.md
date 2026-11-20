@@ -54,7 +54,7 @@ Citric acid(구연산)는 산성화제·항응고 보조제 등으로 쓰이는 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 구연산은 산성화제로 알려져 있으며, 검색된 문헌 중 가장 관련 있는 것은 구연산을 시험식으로 사용해 위 내 pH를 낮추고 ¹³C-요소 호기검사(Helicobacter pylori 검출)의 정확도를 높이려는 연구입니다(PMID 31505905, 30970440). 이는 진단 보조 용도이며, 위 질환 자체에 대한 치료 효과를 보여주는 것은 아닙니다.
+미국 FDA가 승인한 sodium picosulfate, magnesium oxide, and anhydrous citric acid(Citric Acid 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “산화마그네슘과 시트르산은 용액 중에서 반응하여 구연산마그네슘을 생성하며, 이는 위장관 내에 수분이 보유되도록 하는 삼투성 제제이다.” 영어 원문: "Magnesium oxide and citric acid react to create magnesium citrate in solution, which is an osmotic agent that causes water to be retained within the gastrointestinal tract." ([DailyMed: Clenpiq (sodium picosulfate, magnesium oxide, and anhydrous citric acid) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e95fff66-4ec0-4001-a727-33e66a5ec7d5), 버전 2026-04-15; 확인일 2026-11-19). 구연산은 산성화제로 알려져 있으며, 검색된 문헌 중 가장 관련 있는 것은 구연산을 시험식으로 사용해 위 내 pH를 낮추고 ¹³C-요소 호기검사(Helicobacter pylori 검출)의 정확도를 높이려는 연구입니다(PMID 31505905, 30970440). 이는 진단 보조 용도이며, 위 질환 자체에 대한 치료 효과를 보여주는 것은 아닙니다.
 
 그 외 문헌(소화성 궤양 식이, H. pylori 대사, 위암의 cuproptosis, 동물의 코발라민 결핍 등)은 구연산을 부수적으로 언급하거나 주제가 다릅니다. 따라서 높은 예측 점수에도 불구하고 기전상 타당성은 뒷받침되지 않습니다.
 
@@ -107,6 +107,18 @@ Citric acid(구연산)는 산성화제·항응고 보조제 등으로 쓰이는 
 - 작용 기전(MOA) 데이터 확보
 - 허가사항(첨부문서)의 경고·금기 정보 확인
 - 수산화알루미늄 및 퀴놀론계 항생제와의 상호작용 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Clenpiq (sodium picosulfate, magnesium oxide, and anhydrous citric acid) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e95fff66-4ec0-4001-a727-33e66a5ec7d5) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

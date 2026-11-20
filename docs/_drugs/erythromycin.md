@@ -55,7 +55,7 @@ TxGNN 모델은 **점상 상피성 각결막염(punctate epithelial keratoconjun
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 erythromycin은 항균 및 항염 작용을 가진 마크로라이드계 항생제이며, 세균 50S 리보솜 소단위를 억제하는 것으로 알려져 있습니다. 안과에서는 국소 erythromycin이 안구 표면 감염과 안검염 관련 질환에 사용됩니다.
+미국 FDA가 승인한 Erythromycin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “에리스로마이신은 감수성 미생물의 50S 리보솜 소단위에 결합하여 단백질 합성을 억제함으로써 작용한다. 핵산 합성에는 영향을 미치지 않는다.” 영어 원문: "Erythromycin acts by inhibition of protein synthesis by binding 50S ribosomal subunits of susceptible organisms. It does not affect nucleic acid synthesis." ([DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd), 버전 2018-12-04; 확인일 2026-11-19). 알려진 정보에 따르면 erythromycin은 항균 및 항염 작용을 가진 마크로라이드계 항생제이며, 세균 50S 리보솜 소단위를 억제하는 것으로 알려져 있습니다. 안과에서는 국소 erythromycin이 안구 표면 감염과 안검염 관련 질환에 사용됩니다.
 
 점상 상피성 각결막염은 안검염에 이차적으로 생기는 경우가 있어, 마크로라이드의 항균·항염 작용이 기전상 도움이 될 가능성이 있습니다. 다만 연결된 문헌은 소아 만성 안검각결막염의 진단과 치료를 다룬 리뷰 1편뿐이며, 이 질환 자체에 대한 직접적인 입증은 아닙니다. 매우 높은 TxGNN 점수는 어디까지나 모델 예측입니다.
 
@@ -107,6 +107,18 @@ TxGNN 모델은 **점상 상피성 각결막염(punctate epithelial keratoconjun
 | 3 | 노출성 각막염 | 0.9950 | L5 | 연결된 문헌이 대부분 무관 (Hold) |
 | 4 | 성병성 림프육아종 (LGV) | 0.9905 | L4 | 클라미디아 감염에 대한 마크로라이드의 활성과 역사적 사용을 다룬 리뷰 다수. 1차 치료는 doxycycline이며 erythromycin은 대체 요법 (추가 연구 과제) |
 | 5 | 괴사성 궤양성 치은염 | 0.9900 | L5 | 1950~80년대 오래된 보고뿐 (Hold) |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

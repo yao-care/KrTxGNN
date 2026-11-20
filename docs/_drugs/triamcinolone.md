@@ -55,7 +55,7 @@ TxGNN 모델은 **알로페시아 뮤시노사(Alopecia Mucinosa, 모낭 점액�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Triamcinolone은 항염 및 면역억제 작용이 강한 코르티코스테로이드이며, 한국에서 구내염·설염 등의 염증 완화에 허가된 단일 성분 제제가 다수 있습니다.
+미국 FDA가 승인한 Triamcinolone 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “연구에 따르면 triamcinolone acetonide 60 mg ~ 100 mg을 단회 근육주사한 후 24 ~ 48시간 이내에 부신 억제가 나타나며, 이후 점차 정상으로 회복되어 보통 30 ~ 40일 후 정상화된다. 이 결과는 이 약으로 달성되는 치료 작용의 지속 기간이 긴 것과 밀접한 상관관계가 있다.” 영어 원문: "Studies indicate that following a single intramuscular dose of 60 mg to 100 mg of triamcinolone acetonide, adrenal suppression occurs within 24 to 48 hours and then gradually returns to normal, usually in 30 to 40 days. This finding correlates closely with the extended duration of therapeutic action achieved with the drug." ([DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad), 버전 2026-01-05; 확인일 2026-11-19). 알려진 정보에 따르면 Triamcinolone은 항염 및 면역억제 작용이 강한 코르티코스테로이드이며, 한국에서 구내염·설염 등의 염증 완화에 허가된 단일 성분 제제가 다수 있습니다.
 
 알로페시아 뮤시노사는 모낭 주위 염증 세포 침윤과 점액 침착이 특징입니다. 따라서 국소 도포 또는 병변 내 코르티코스테로이드는 국소 병변에 흔히 고려되는 접근으로, 생물학적으로 그럴듯합니다.
 
@@ -102,6 +102,19 @@ TxGNN 모델은 **알로페시아 뮤시노사(Alopecia Mucinosa, 모낭 점액�
 - 허가사항(경고·금기) 확보 및 분석
 - 작용 기전(MOA) 데이터 보완
 - 투여 경로(국소/병변 내)와 국내 허가 제형의 적합성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

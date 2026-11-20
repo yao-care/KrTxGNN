@@ -55,7 +55,7 @@ TxGNN 모델은 **라우브리-페치 증후군(Laubry-Pezzi syndrome)**에 효�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ropeginterferon alfa-2b는 장기지속형 페길화 인터페론으로, 면역조절 및 항증식 활성을 가집니다. 이 약은 골수증식성 질환 영역에서 사용되는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Ropeginterferon Alfa-2B 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “인터페론 알파는 제1형 인터페론 계열에 속하며, 제1형 인터페론은 골수에서 인터페론 알파 수용체(IFNAR)라고 불리는 막관통 수용체에 결합함으로써 진성 적혈구증가증 및 본태성 혈소판증가증에서 세포 효과를 나타낸다. IFNAR에 대한 결합은 키나제, 특히 야누스 키나제 1(JAK1) 및 티로신 키나제 2(TYK2)와 전사 활성인자(STAT) 단백질의 활성화를 통해 하위 신호전달 연쇄반응을 개시한다.” 영어 원문: "Interferon alfa belongs to the class of type I interferons, which exhibit their cellular effects in polycythemia vera and essential thrombocythemia in the bone marrow by binding to a transmembrane receptor termed interferon alfa receptor (IFNAR). Binding to IFNAR initiates a downstream signaling cascade through the activation of kinases, in particular Janus kinase 1 (JAK1) and tyrosine kinase 2 (TYK2) and activator of transcription (STAT) proteins." ([DailyMed: Besremi (ropeginterferon alfa-2b) prescribing information, PharmaEssentia USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9583405d-53a0-49dc-88eb-5e6384ebabcb), 버전 2026-08-25; 확인일 2026-11-19). 알려진 정보에 따르면 Ropeginterferon alfa-2b는 장기지속형 페길화 인터페론으로, 면역조절 및 항증식 활성을 가집니다. 이 약은 골수증식성 질환 영역에서 사용되는 것으로 알려져 있습니다.
 
 라우브리-페치 증후군은 심실중격결손과 대동맥판 탈출/역류를 동반하는 선천성 심장 결손으로, 구조적 기형입니다. 인터페론의 면역조절·항증식 작용으로는 이러한 구조적 결손을 교정할 타당한 기전이 확인되지 않습니다.
 
@@ -101,6 +101,19 @@ TxGNN 모델은 **라우브리-페치 증후군(Laubry-Pezzi syndrome)**에 효�
 - DrugBank 등에서 작용 기전(MOA) 데이터 확보
 - 신규 적응증에 대한 기전적 타당성 근거 또는 전임상 연구
 - 관련 임상시험 및 문헌 근거 확보 (현재 없음)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Besremi (ropeginterferon alfa-2b) prescribing information, PharmaEssentia USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9583405d-53a0-49dc-88eb-5e6384ebabcb) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 ceftazidime은 세균 세포벽 합성을 억제하는 세팔로스포린계 항생제입니다.
+미국 FDA가 승인한 Ceftazidime 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “세프타지딤은 세균 세포벽 합성을 억제함으로써 작용하는 살균제이다. 세프타지딤은 그람음성 및 그람양성 세균의 일부 베타-락타마제(페니실리나제 및 세팔로스포리나제 모두)가 존재하는 상황에서도 활성을 가진다.” 영어 원문: "Ceftazidime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Ceftazidime has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: ceftazidime prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=112c5457-8d71-49f5-b531-9761d7d38c93), 버전 2026-08-03; 확인일 2026-11-19). 알려진 정보에 따르면 ceftazidime은 세균 세포벽 합성을 억제하는 세팔로스포린계 항생제입니다.
 
 고아밀라제혈증은 감염 질환이 아니라 혈중 아밀라제 수치가 올라간 검사 소견입니다. 항균 작용으로 이를 치료할 수 있다는 기전적 연결고리는 확인되지 않았습니다. 높은 예측 점수는 모델 내부의 연관성에서 나온 것으로, 임상적·문헌적 뒷받침이 없습니다.
 
@@ -92,6 +92,18 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 - 고아밀라제혈증과 ceftazidime의 연관성을 직접 다룬 임상 또는 전임상 연구
 - 상세한 작용 기전(MOA) 데이터
 - 허가사항의 경고·금기 정보 확보 (한국 허가 문서 PDF 확인)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ceftazidime prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=112c5457-8d71-49f5-b531-9761d7d38c93) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

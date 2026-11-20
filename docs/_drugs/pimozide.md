@@ -55,7 +55,7 @@ TxGNN 모델은 **발모광(Trichotillomania)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Pimozide는 디페닐부틸피페리딘계 항정신병약으로 D2 도파민 수용체를 차단합니다. 문헌에서는 칼슘 채널 차단 작용도 언급됩니다. 한국 허가 적응증은 이번 데이터에서 확인되지 않았습니다.
+미국 FDA가 승인한 Pimozide 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “약력학적 작용 피모지드 정은 경구 활성 항정신병 약물로, 다른 항정신병약과 마찬가지로 중추신경계 뉴런의 도파민 수용체를 차단하는 능력을 갖는다. 정확한 작용 방식은 확립되지 않았으나, 투렛장애에서 피모지드가 운동 틱과 음성 틱을 억제하는 능력은 도파민 차단 활성에 기인하는 것으로 생각된다.” 영어 원문: "Pharmacodynamic Actions Pimozide tablets, are an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system. Although its exact mode of action has not been established, the ability of pimozide to suppress motor and phonic tics in Tourette’s Disorder is thought to be a function of its dopaminergic blocking activity." ([DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280), 버전 2026-08-12; 확인일 2026-11-19). 알려진 정보에 따르면 Pimozide는 디페닐부틸피페리딘계 항정신병약으로 D2 도파민 수용체를 차단합니다. 문헌에서는 칼슘 채널 차단 작용도 언급됩니다. 한국 허가 적응증은 이번 데이터에서 확인되지 않았습니다.
 
 발모광은 반복적이고 충동적인 행동이 특징이며, 도파민 신호 이상이 이런 강박·습관성 행동에 관여하는 것으로 알려져 있습니다. 발모광은 틱 장애(투렛 증후군), 강박장애와 임상 양상 및 치료 반응이 일부 겹칩니다. Pimozide는 틱 장애에서 확립된 치료제입니다.
 
@@ -132,6 +132,19 @@ TxGNN 모델은 **발모광(Trichotillomania)**에 효과가 있을 수 있다�
 - 조증(양극성): L3, 오래된 소규모 연구 위주이며 현대 항정신병약 대비 안전성 우위가 없어 활용성이 제한됩니다.
 - 주요 정동장애, 불면증, 주의력결핍 과잉행동장애(ADHD), 광장공포증 등: 직접 근거가 없거나 간접 근거뿐이어서 보류(Hold)가 권고됩니다.
 - 안면수지생식기 증후군, Malan 과성장 증후군, 영아 양성 발작성 사경: 모델 예측만 있어 보류(Hold)가 권고됩니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

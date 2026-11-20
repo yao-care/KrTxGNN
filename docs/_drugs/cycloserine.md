@@ -62,7 +62,7 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서를 위해 수집된 데이터에는 상세한 작용 기전 정보가 없습니다. 일반적으로 알려진 바에 따르면, cycloserine은 D-알라닌 유사체로 세균의 alanine racemase와 D-alanine ligase를 억제하여 세포벽 합성을 방해합니다. 또한 NMDA 수용체 글리신 결합 부위의 부분 작용제로 작용합니다.
+미국 FDA가 승인한 Cycloserine 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “사이클로세린의 항균 활성은 그람양성균 및 그람음성균의 감수성 균주에서 세포벽 합성을 억제함으로써 나타난다.” 영어 원문: "The antibacterial activity of Cycloserine results from inhibition of cell-wall synthesis in susceptible strains of gram-positive and gram-negative bacteria." ([DailyMed: cycloserine prescribing information, Dr. Reddys Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e7e2665-7a3d-3f54-9f92-5fe845f02ef9), 버전 2024-07-30; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면, cycloserine은 D-알라닌 유사체로 세균의 alanine racemase와 D-alanine ligase를 억제하여 세포벽 합성을 방해합니다. 또한 NMDA 수용체 글리신 결합 부위의 부분 작용제로 작용합니다.
 
 과민성 장 증후군과의 연관성은 장내 미생물 조절이나 장관 NMDA 신호전달을 통한 가설 수준에 불과합니다. 제공된 데이터로는 이를 뒷받침할 수 없으며, 기존 적응증(결핵)과 신규 적응증 간의 유사성 분석도 아직 수행되지 않았습니다.
 
@@ -123,12 +123,13 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “그 외 큐로스캡슐(유영제약), 이텍스시클로세린캡슐(테라젠이텍스) 등 총 7건이 모두 단일제로 유효하며, 대부분 수출용입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-05 | 삭제: “7건의 허가증이 유효한 상태로” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: cycloserine prescribing information, Dr. Reddys Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8e7e2665-7a3d-3f54-9f92-5fe845f02ef9) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Dabigatran etexilate는 직접 트롬빈 억제제 계열의 경구 항응고제
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 dabigatran etexilate는 활성 대사체인 dabigatran으로 전환되어 트롬빈을 직접 억제하는 경구 항응고제입니다.
+미국 FDA가 승인한 Dabigatran Etexilate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “다비가트란 및 그 아실 글루쿠로나이드는 경쟁적 직접 트롬빈 억제제이다. 트롬빈(세린 프로테아제)은 응고 연쇄반응 중 피브리노겐이 피브린으로 전환되도록 하므로, 트롬빈의 억제는 혈전의 생성을 방지한다.” 영어 원문: "Dabigatran and its acyl glucuronides are competitive, direct thrombin inhibitors. Because thrombin (serine protease) enables the conversion of fibrinogen into fibrin during the coagulation cascade, its inhibition prevents the development of a thrombus." ([DailyMed: Dabigatran (dabigatran etexilate) prescribing information, AvPAK](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39ac558a-b375-f3c1-e063-6394a90aa901), 버전 2026-11-02; 확인일 2026-11-19). 알려진 정보에 따르면 dabigatran etexilate는 활성 대사체인 dabigatran으로 전환되어 트롬빈을 직접 억제하는 경구 항응고제입니다.
 
 경화성 담관염과의 연관성은 간접적이며 추측 수준입니다. 트롬빈/PAR 신호 전달이 간 섬유화와 염증에 관여한다는 점에서 이론적 연결 고리가 있을 수 있습니다. 그러나 이를 뒷받침하는 직접 연구는 확인되지 않았습니다.
 
@@ -99,6 +99,19 @@ TxGNN 점수가 매우 높더라도 이는 계산상의 예측일 뿐, 실제 �
 - 본 약물을 직접 평가하는 임상시험 또는 관찰 연구 자료
 
 > 참고: 순위 2~5위 예측(가족성 복합 고지질혈증, 저알파지단백혈증, 동형접합 가족성 고콜레스테롤혈증, 혈소판 방출 장애)도 모두 근거 수준 L5 또는 L4이며 Hold 상태입니다. 특히 혈소판 방출 장애는 출혈성 결함이어서 항응고제가 오히려 악화시킬 우려가 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Dabigatran (dabigatran etexilate) prescribing information, AvPAK](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39ac558a-b375-f3c1-e063-6394a90aa901) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

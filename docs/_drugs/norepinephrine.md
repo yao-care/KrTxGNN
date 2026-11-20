@@ -55,7 +55,7 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 norepinephrine은 알파 및 베타 아드레날린 수용체에 작용하는 카테콜아민입니다. 전신 투여 시에는 알파-1 매개 혈관수축과 심장 자극 효과를 내는 승압제로 사용됩니다.
+미국 FDA가 승인한 Norepinephrine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “노르에피네프린은 말초 혈관수축제(알파-아드레날린성 작용)이며, 심장의 수축력 증강 자극제 및 관상동맥 확장제(베타-아드레날린성 작용)이다.” 영어 원문: "Norepinephrine is a peripheral vasoconstrictor (alpha-adrenergic action) and an inotropic stimulator of the heart and dilator of coronary arteries (beta-adrenergic action)." ([DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396), 버전 2026-10-27; 확인일 2026-11-19). 알려진 정보에 따르면 norepinephrine은 알파 및 베타 아드레날린 수용체에 작용하는 카테콜아민입니다. 전신 투여 시에는 알파-1 매개 혈관수축과 심장 자극 효과를 내는 승압제로 사용됩니다.
 
 기도 긴장도, 기도 신경 분포, 천식·COPD의 신경면역 조절에는 아드레날린 신호가 관여한다고 보고되어 있습니다. 다만 이 연결은 간접적입니다. norepinephrine은 기관지확장제가 아니며, 승압 용량에서는 베타-2 작용이 제한적입니다. 또한 COPD와 저산소혈증 환자에서는 교감신경 긴장 증가와 빈맥성 부정맥 위험이 우려됩니다. 높은 TxGNN 점수는 임상 근거가 아니라 네트워크 기반 예측을 반영합니다.
 
@@ -119,6 +119,19 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 - 투여 경로 적합성 검토 (현재 주사제만 있고, 폐질환 치료에 적합한 경로인지 불명확)
 
 **참고:** 같은 약물의 다른 예측 적응증인 호흡기 기형(Respiratory malformation, 0.9984)과 Rienhoff 증후군(0.9983)도 근거 수준 L5로 모두 Hold입니다. 임상시험이 없고 문헌은 치료 효과와 무관하거나(호흡기 기형은 약물 노출 위험 연구 위주, Rienhoff 증후군은 문헌 없음), 기전적 연결도 확인되지 않습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 생물학적 근거가 아니라 모델이 학습한 관련 질환 간 유사성을 반영할 수 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Norepinephrine Bitartrate In Dextrose (norepinephrine bitartrate) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be3c6f4f-54fc-4cb3-a299-8a022515d396) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

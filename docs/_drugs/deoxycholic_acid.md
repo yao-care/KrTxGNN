@@ -57,7 +57,7 @@ TxGNN 모델은 **상염색체 우성 가족성 혈뇨-망막 세동맥 사행-�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보로는 데옥시콜산은 이차 담즙산이며, 지방세포에 대해 세포 용해(계면활성) 작용을 나타내고 담즙산 신호전달에도 관여합니다. 이 때문에 국소 지방 감소 목적의 주사제로 쓰입니다.
+미국 FDA가 승인한 Deoxycholic Acid 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “KYBELLA는 세포용해성 약물로서, 턱밑 지방과 관련된 중등도 내지 중증의 볼록함 또는 충만감이 있는 환자에서 턱밑 지방에 주사하면 세포막을 물리적으로 파괴하여 용해를 일으킨다.” 영어 원문: "KYBELLA is a cytolytic drug, which when injected into submental fat - in patients with moderate to severe convexity or fullness associated with submental fat - physically destroys the cell membrane causing lysis." ([DailyMed: Kybella (deoxycholic acid) prescribing information, Kythera Biopharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553), 버전 2026-09-11; 확인일 2026-11-19). 알려진 정보로는 데옥시콜산은 이차 담즙산이며, 지방세포에 대해 세포 용해(계면활성) 작용을 나타내고 담즙산 신호전달에도 관여합니다. 이 때문에 국소 지방 감소 목적의 주사제로 쓰입니다.
 
 예측된 질환은 COL4A1 유전자와 관련된 희귀 혈관 기저막 질환입니다. 데옥시콜산의 약리 작용과 이 질환의 병태 사이에서 데이터상 확인되는 기전적 연결고리는 없습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 관련 질환들 사이에서 모델이 학습한 유사성을 반영했을 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -107,6 +107,19 @@ TxGNN 점수는 매우 높지만 임상시험과 문헌이 전혀 없고, 약물
 - COL4A1 관련 혈관 기저막 질환과의 기전적 연결 가능성에 대한 전임상 근거
 - 투여 경로 적합성 검토: 현재 허가 제형은 주사제뿐이며, 예측 질환에 필요한 투여 경로는 확인되지 않았습니다.
 - **대안 후보 검토**: 당뇨병성 신증은 담즙산 대사 변화를 다룬 전임상·코호트 연구 4편(2021~2024)이 있어 L4 수준의 "연구 질문" 단계입니다. 다만 이 연구들은 데옥시콜산 자체를 치료제로 투여한 것이 아니며, 데옥시콜산은 세포독성·염증 유발 성격의 이차 담즙산이라 신장에서의 효과 방향도 불확실합니다. 뇌 소혈관병 1형은 1순위와 마찬가지로 근거가 없어 Hold입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Kybella (deoxycholic acid) prescribing information, Kythera Biopharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 전임상 연구에서 axitinib은 점액양 지방육종(myxoid liposarcoma) 세포주 및 모델에서 항혈관신생 및 항종양 활성을 보였으며, 이는 VEGFR/PDGFR 억제 기전과 부합합니다.
+미국 FDA가 승인한 Axitinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “악시티닙은 치료적 혈장 농도에서 혈관내피성장인자 수용체(VEGFR)-1, VEGFR-2 및 VEGFR-3를 포함한 수용체 티로신 키나아제를 저해하는 것으로 나타났다. 이들 수용체는 병적 혈관신생, 종양 성장 및 암 진행에 관여한다.” 영어 원문: "Axitinib has been shown to inhibit receptor tyrosine kinases including vascular endothelial growth factor receptors (VEGFR)-1, VEGFR-2, and VEGFR-3 at therapeutic plasma concentrations. These receptors are implicated in pathologic angiogenesis, tumor growth, and cancer progression." ([DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338), 버전 2026-03-12; 확인일 2026-11-19). 다만 전임상 연구에서 axitinib은 점액양 지방육종(myxoid liposarcoma) 세포주 및 모델에서 항혈관신생 및 항종양 활성을 보였으며, 이는 VEGFR/PDGFR 억제 기전과 부합합니다.
 
 지방육종은 연부조직육종의 한 종류로, 혈관신생을 표적으로 하는 치료가 항종양 활성을 보였다는 점에서 기전상 적용 가능성이 있습니다. 그러나 근거는 전임상 수준에 그치며 임상적 적용 가능성은 입증되지 않았습니다.
 
@@ -103,6 +103,19 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 - 상세한 약물 작용 기전 데이터
 - 허가사항(경고, 금기) 확인을 통한 안전성 검토
 - 강한 CYP3A4 억제제·유도제 병용 시 상호작용 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

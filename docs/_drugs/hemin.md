@@ -60,7 +60,7 @@ Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Hemin은 헴 보충 요법제로, 포르피린증에서 헴 산화효소-1(HO-1)을 유도하고 간의 ALAS1 발현을 낮추는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Hemin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “헴은 간 및/또는 골수에서의 포르피린 합성을 제한하는 작용을 한다. 이 작용은 포르피린/헴 생합성 경로의 속도를 제한하는 효소인 δ-아미노레불린산 합성효소의 억제에 기인하는 것으로 보인다.” 영어 원문: "Heme acts to limit the hepatic and/or marrow synthesis of porphyrin. This action is likely due to the inhibition of δ-aminolevulinic acid synthetase, the enzyme which limits the rate of the porphyrin/heme biosynthetic pathway." ([DailyMed: Panhematin (hemin) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9984267a-4d57-4444-9bb5-16bca7dea691), 버전 2026-02-26; 확인일 2026-11-19). 다만 Hemin은 헴 보충 요법제로, 포르피린증에서 헴 산화효소-1(HO-1)을 유도하고 간의 ALAS1 발현을 낮추는 것으로 알려져 있습니다.
 
 이 기전과 혈소판감소성 자반증(면역성 또는 혈전성) 사이에 확립된 연관성은 없습니다. TxGNN 모델(딥러닝)의 높은 점수(0.9979)는 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으나, 생물학적 근거나 기전상 타당성, 임상적 효과를 의미하지 않습니다.
 
@@ -101,11 +101,12 @@ Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-10-31 | 삭제: “있으나 한국에서는 현재 시판되지 않습니다(허가 취소 여부는 출처에 정보가 없어 확인되지 않음)” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Panhematin (hemin) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9984267a-4d57-4444-9bb5-16bca7dea691) |
 
 <!-- review:end log -->
 

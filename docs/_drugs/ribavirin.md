@@ -56,7 +56,7 @@ TxGNN 모델은 **만성 B형 간염(chronic hepatitis B virus infection)**에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터가 없습니다. 일반적으로 알려진 바로는 리바비린은 구아노신 유사 뉴클레오시드로, IMPDH 억제와 GTP 풀 감소, 면역조절 작용을 통해 광범위한 항바이러스 활성을 보입니다.
+미국 FDA가 승인한 Ribavirin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “리바비린은 항바이러스제이다. […] 임상에서 리바비린이 항바이러스 효능에 기여하는 기전은 완전히 밝혀지지 않았다. 리바비린은 조직 배양에서 많은 RNA 바이러스에 대해 직접적인 항바이러스 활성을 나타낸다. 리바비린은 여러 RNA 바이러스의 유전체에서 돌연변이 빈도를 증가시키며, 리바비린 삼인산은 생화학 반응에서 HCV 중합효소를 억제한다.” 영어 원문: "Ribavirin is an antiviral drug. […] The mechanism by which ribavirin contributes to its antiviral efficacy in the clinic is not fully understood. Ribavirin has direct antiviral activity in tissue culture against many RNA viruses. Ribavirin increases the mutation frequency in the genomes of several RNA viruses and ribavirin triphosphate inhibits HCV polymerase in a biochemical reaction." ([DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c), 버전 2024-02-06; 확인일 2026-11-19). 일반적으로 알려진 바로는 리바비린은 구아노신 유사 뉴클레오시드로, IMPDH 억제와 GTP 풀 감소, 면역조절 작용을 통해 광범위한 항바이러스 활성을 보입니다.
 
 이 기전은 바이러스성 간염이라는 공통점 때문에 B형 간염에도 적용 가능성이 있습니다. 그러나 리바비린 단독으로는 B형 간염 바이러스(HBV)에 대한 활성이 약합니다. 페그인터페론과 병용할 때 면역조절 효과를 더할 수 있다는 가설이 있으나, 이를 뒷받침하는 근거는 제한적입니다.
 
@@ -131,6 +131,19 @@ B형 간염을 직접 다룬 완료 시험은 Phase 3 1건과 Phase 2/3 파일�
 - NCT03759782 등 진행 중이거나 상태 불명인 시험의 최신 결과 확인
 - 현행 HBV 표준 치료(엔테카비르, 테노포비르) 대비 리바비린의 임상적 위치 평가
 - 한국 시판 여부(취소 여부 포함) 및 수출용 허가 비중 재확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

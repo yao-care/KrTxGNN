@@ -55,7 +55,7 @@ TxGNN 모델은 **약물 유발 골다공증(drug-induced osteoporosis)**에 효
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Guselkumab은 IL-23 신호 경로를 억제하는 단클론항체로 알려져 있으며, IL-23/IL-17 축은 뼈 재형성과 이론적으로 연관될 수 있습니다.
+미국 FDA가 승인한 Guselkumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “구셀쿠맙은 인터루킨 23(IL-23)의 p19 소단위에 선택적으로 결합하여 IL-23 수용체와의 상호작용을 억제하는 인간 단클론 IgG1λ 항체이다. IL-23은 정상적인 염증 및 면역 반응에 관여하는 자연 발생 사이토카인이다.” 영어 원문: "Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses." ([DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56), 버전 2026-10-20; 확인일 2026-11-19). Guselkumab은 IL-23 신호 경로를 억제하는 단클론항체로 알려져 있으며, IL-23/IL-17 축은 뼈 재형성과 이론적으로 연관될 수 있습니다.
 
 그러나 글루코코르티코이드 등 약물로 인한 골소실에 guselkumab이 효과가 있다는 직접 근거는 제공된 데이터에 없습니다. 이 예측은 현 단계에서 모델 점수에만 의존합니다.
 
@@ -90,6 +90,19 @@ TxGNN 모델은 **약물 유발 골다공증(drug-induced osteoporosis)**에 효
 - 상세한 작용 기전(MOA) 데이터 확보
 - 한국 시판 상태(허가 유지 여부) 확인
 - 골 관련 평가변수를 포함한 임상 연구 설계 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

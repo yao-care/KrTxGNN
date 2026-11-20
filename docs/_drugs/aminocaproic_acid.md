@@ -55,7 +55,7 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 aminocaproic acid는 라이신 유사체인 항섬유소용해제로, 플라스미노겐 활성화와 플라스민 활성을 억제하는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Aminocaproic Acid 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “아미노카프로산의 섬유소용해 억제 효과는 주로 플라스미노겐 활성화인자의 억제를 통해, 그리고 그보다 적은 정도로 항플라스민 활성을 통해 나타나는 것으로 보인다.” 영어 원문: "The fibrinolysis-inhibitory effects of aminocaproic acid appear to be exerted principally via inhibition of plasminogen activators and to a lesser degree through antiplasmin activity." ([DailyMed: aminocaproic acid prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e5ebfcb-c3a2-1fcf-e063-6394a90a356a), 버전 2026-11-09; 확인일 2026-11-19). 일반적으로 aminocaproic acid는 라이신 유사체인 항섬유소용해제로, 플라스미노겐 활성화와 플라스민 활성을 억제하는 것으로 알려져 있습니다.
 
 이 성질로부터 두 가지 가설을 세울 수 있습니다. 첫째, 섬유소용해와 관련된 유리체·망막 출혈을 줄일 가능성이 있습니다. 둘째, 플라스민이 매개하는 세포외기질 재형성과 혈관 투과성을 조절할 가능성이 있습니다. 다만 이는 입증되지 않은 가설입니다.
 
@@ -93,6 +93,19 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 - 당뇨망막병증에서의 항섬유소용해제 관련 전임상 및 문헌 조사
 - 점안 투여 시 전신 노출과 망막 도달 가능성에 대한 투여 경로 적합성 평가
 - 당뇨망막병증 환자의 혈전·허혈 위험에 대한 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: aminocaproic acid prescribing information, Kesin Pharma Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5e5ebfcb-c3a2-1fcf-e063-6394a90a356a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

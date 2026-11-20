@@ -56,7 +56,7 @@ TxGNN 모델은 최상위 예측으로 **가성 폰 빌레브란트병(pseudo-vo
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Defibrotide는 항혈전·섬유소 용해 촉진 작용과 혈관내피 보호 작용을 가진 약물로 분류됩니다.
+미국 FDA가 승인한 Defibrotide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “데피브로타이드나트륨의 작용기전은 완전히 밝혀지지 않았다. 시험관 내에서 데피브로타이드나트륨은 피브린 혈전을 가수분해하는 플라스민의 효소 활성을 증가시킨다. 내피세포(EC)에 대한 데피브로타이드나트륨의 약리학적 효과를 평가한 연구는 주로 인간 미세혈관 내피세포주에서 수행되었다.” 영어 원문: "The mechanism of action of defibrotide sodium has not been fully elucidated. In vitro, defibrotide sodium enhances the enzymatic activity of plasmin to hydrolyze fibrin clots. Studies evaluating the pharmacological effects of defibrotide sodium on endothelial cells (ECs) were conducted primarily in the human microvascular endothelial cell line." ([DailyMed: Defitelio (defibrotide sodium) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c3db989-d7ad-41ed-9ebf-698dcf6c24ec), 버전 2025-07-01; 확인일 2026-11-19). 알려진 정보에 따르면 Defibrotide는 항혈전·섬유소 용해 촉진 작용과 혈관내피 보호 작용을 가진 약물로 분류됩니다.
 
 그러나 1순위 예측인 가성 폰 빌레브란트병은 GP1BA 기능획득 변이로 생기는 혈소판형 출혈성 질환이며, Defibrotide와의 기전적 연관성은 확인되지 않습니다. 오히려 항혈전·섬유소 용해 촉진 작용이 출혈 위험을 악화시킬 가능성이 있습니다.
 
@@ -115,6 +115,19 @@ TxGNN 모델은 최상위 예측으로 **가성 폰 빌레브란트병(pseudo-vo
 - TTP/이식 관련 TMA 중심의 후속 평가: 체계적 문헌고찰, ADAMTS13 결핍형과 이식 관련 TMA를 구분한 분석, 전향적 연구 설계 검토
 - 출혈성 질환 적응증에 대한 안전성 평가 (항혈전 작용에 따른 출혈 위험 분석)
 - 항혈전·항혈소판제 병용 시 출혈 위험을 포함한 약물 상호작용 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Defitelio (defibrotide sodium) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2c3db989-d7ad-41ed-9ebf-698dcf6c24ec) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **원발성 폐 림프종(Primary Pulmonary Lymphoma)**에 효�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 시타라빈은 S기 DNA 합성을 억제하는 피리미딘 핵산 유사체 항대사제입니다. 공격적 림프종 치료에서 고용량 시타라빈 요법, 이식 전처치, 구제요법 등에 쓰이는 약물이므로, 림프계 악성종양에는 기전상 적용 가능할 수 있습니다.
+미국 FDA가 승인한 Cytarabine 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “작용 기전이 완전히 이해되지는 않았으나, 시타라빈은 DNA 중합효소의 억제를 통해 작용하는 것으로 보인다. 또한 시타라빈이 DNA 및 RNA 모두에 제한적이지만 유의하게 혼입된다는 것도 보고되었다.” 영어 원문: "Although the mechanism of action is not completely understood, it appears that cytarabine acts through the inhibition of DNA polymerase. A limited, but significant, incorporation of cytarabine into both DNA and RNA has also been reported." ([DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd), 버전 2026-10-19; 확인일 2026-11-19). 알려진 정보에 따르면 시타라빈은 S기 DNA 합성을 억제하는 피리미딘 핵산 유사체 항대사제입니다. 공격적 림프종 치료에서 고용량 시타라빈 요법, 이식 전처치, 구제요법 등에 쓰이는 약물이므로, 림프계 악성종양에는 기전상 적용 가능할 수 있습니다.
 
 다만 이 연결은 간접적입니다. 수집된 문헌은 중추신경계 림프종, CD30 양성 림프종, 이식 상황을 다룰 뿐 원발성 폐 림프종 자체를 다루지 않습니다. 따라서 이 예측은 기전적 개연성에 TxGNN 점수를 더한 가설 수준으로 보아야 합니다.
 
@@ -122,6 +122,19 @@ TxGNN 모델은 **원발성 폐 림프종(Primary Pulmonary Lymphoma)**에 효�
 - 상세 작용 기전 데이터 보완
 - 원발성 폐 림프종(예: 폐 MALT 림프종, 원발성 폐 미만성 거대 B세포 림프종)에서 시타라빈 단독 또는 병용 요법을 직접 다룬 문헌과 시험 검색
 - 해당 질환에서 시타라빈이 표준 치료의 일부로 쓰이는지, 용량과 투여 경로는 어떠한지 임상 전문가 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

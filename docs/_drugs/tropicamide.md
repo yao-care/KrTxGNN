@@ -55,7 +55,7 @@ TxGNN 모델은 **마미 증후군(Cauda Equina Syndrome)**에 효과가 있을 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이 보고서용으로 수집된 자료에 없습니다. 약리 자료에 따르면 Tropicamide는 무스카린 수용체(M2, M3, M4, M5)에 작용하는 길항제이며, 특히 M4 선택성이 높은 것으로 알려져 있습니다. 안과에서는 산동과 조절마비 목적으로 점안 투여합니다.
+미국 FDA가 승인한 Tropicamide 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “이 항콜린 제제는 콜린성 자극에 대한 홍채 조임근과 섬모체근의 반응을 차단하여 동공을 확장시킨다(산동). 고농도 제제(1%)는 조절 마비도 일으킨다.” 영어 원문: "This anticholinergic preparation blocks the responses of the sphincter muscle of the iris and the ciliary muscle to cholinergic stimulation, dilating the pupil (mydriasis). The stronger preparation (1%) also paralyzes accommodation." ([DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d), 버전 2023-02-15; 확인일 2026-11-19). 약리 자료에 따르면 Tropicamide는 무스카린 수용체(M2, M3, M4, M5)에 작용하는 길항제이며, 특히 M4 선택성이 높은 것으로 알려져 있습니다. 안과에서는 산동과 조절마비 목적으로 점안 투여합니다.
 
 TxGNN 예측은 항콜린제 계열의 공통된 약물군 연관성에서 비롯된 것으로 보입니다. 마미 증후군에서는 신경인성 방광 기능장애가 흔한 후유증이므로, 항무스카린 계열이 방광 증상 완화와 연결되었을 가능성이 있습니다.
 
@@ -106,6 +106,19 @@ TxGNN 예측은 항콜린제 계열의 공통된 약물군 연관성에서 비�
 - 신경인성 방광 등 증상 중심 적응증에 대한 전임상·문헌 근거 탐색
 - 전신 투여를 위한 새로운 제형, 약동학, 안전성 평가 가능성 검토
 - 기존 항무스카린제 대비 이점이 있는지 비교 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

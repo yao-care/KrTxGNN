@@ -55,7 +55,7 @@ TxGNN 모델은 **소화성 궤양 천공(peptic ulcer perforation)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Cimetidine은 위산 분비를 줄이는 H2 수용체 길항제 계열 약물로, 위산 억제가 궤양 재발 예방에 도움이 될 수 있다는 점에서 소화성 궤양과 기전상 관련이 있습니다.
+미국 FDA가 승인한 Cimetidine 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “시메티딘 정제는 벽세포의 히스타민 H 2 수용체에서 히스타민의 작용을 경쟁적으로 억제하므로 히스타민 H 2 -수용체 길항제이다. 시메티딘은 항콜린제가 아니다. 연구에 따르면 시메티딘 정제는 주간 및 야간의 기저 위산 분비를 모두 억제하는 것으로 나타났다.” 영어 원문: "Cimetidine tablets competitively inhibits the action of histamine at the histamine H 2 receptors of the parietal cells and thus is a histamine H 2 -receptor antagonist. Cimetidine is not an anticholinergic agent. Studies have shown that cimetidine tablets inhibit both daytime and nocturnal basal gastric acid secretion." ([DailyMed: cimetidine prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c0a509-026f-44e0-9975-a94a8de51d43), 버전 2026-07-15; 확인일 2026-11-19). 알려진 정보에 따르면 Cimetidine은 위산 분비를 줄이는 H2 수용체 길항제 계열 약물로, 위산 억제가 궤양 재발 예방에 도움이 될 수 있다는 점에서 소화성 궤양과 기전상 관련이 있습니다.
 
 그러나 궤양 천공은 응급 수술이 필요한 합병증이며, Cimetidine이 천공 자체를 치료하는 약물이라는 근거는 없습니다. 검색된 문헌의 상당수는 Cimetidine 투여 중 또는 중단 후 천공이 발생한 증례(PMID 3967139, 6743974, 922364)로, 효능보다는 안전성 측면의 신호에 가깝습니다. 점막 보호나 지속 치료에 관한 논문은 간접적인 근거에 그칩니다.
 
@@ -109,6 +109,19 @@ TxGNN 모델은 **소화성 궤양 천공(peptic ulcer perforation)**에 효과�
 - 허가사항의 경고·금기 정보 확보 (현재 누락)
 - 상세한 약물 작용 기전(MOA) 데이터
 - 한국 시판 상태(취하 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: cimetidine prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=06c0a509-026f-44e0-9975-a94a8de51d43) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

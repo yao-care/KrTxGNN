@@ -57,7 +57,7 @@ TxGNN 모델은 **후두염(Laryngitis)**을 포함한 여러 감염·염증성 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Sodium fluoride는 F-18 표지 PET 골 영상 진단제와 치아 관련 제품으로 허가되어 있으며, 두 용도 모두 전신 항균·항염 효과를 목적으로 하지 않습니다.
+미국 FDA가 승인한 Sodium Fluoride 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “Clinpro 5000에서 전달되는 불소는 건전한 치아의 탈회를 억제하고 탈회된 치아의 재광화(즉, 복구)를 촉진한다. 칫솔질하는 동안 불소는 치아와 치태에 흡수된다.” 영어 원문: "Fluoride delivered from Clinpro 5000 inhibits the demineralization of sound teeth and enhances the remineralization (i.e., repair) of demineralized teeth. During tooth brushing, fluoride is taken up by teeth and dental plaque." ([DailyMed: Clinpro 5000 (sodium fluoride) prescribing information, Solventum US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a20d3cf0-2e1f-4191-971e-9e47936b4580), 버전 2024-08-01; 확인일 2026-11-19). Sodium fluoride는 F-18 표지 PET 골 영상 진단제와 치아 관련 제품으로 허가되어 있으며, 두 용도 모두 전신 항균·항염 효과를 목적으로 하지 않습니다.
 
 후두개염의 주요 원인균(Hib, 연쇄구균 등)에 대해 임상적으로 의미 있는 용량에서 항균 활성이 있다는 근거는 없습니다. 요로감염에 대해서도 fluoride의 시험관 내 정균 효과가 고농도에서만 관찰될 뿐, 임상적 유용성이나 안전역은 확인되지 않았습니다. 상위 예측 중 Ureaplasma 요도염과 임균성 요도염이 같은 점수(0.9990)인 것은 약물 고유의 생물학 때문이 아니라, 점수가 TxGNN 모델(딥러닝)에서 나온 것이며 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있고 생물학적 근거는 아니라는 점을 시사합니다.
 
@@ -112,6 +112,19 @@ TxGNN 모델은 **후두염(Laryngitis)**을 포함한 여러 감염·염증성 
 - 대상 감염 병원체에 대한 전임상 항균 활성 및 안전역 근거
 - 투여 경로 적합성 평가 (현재 허가 제형은 PET 진단용 주사제와 치아용 겔뿐임)
 - 신규 적응증을 지지하는 임상시험 또는 의미 있는 문헌 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Clinpro 5000 (sodium fluoride) prescribing information, Solventum US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a20d3cf0-2e1f-4191-971e-9e47936b4580) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

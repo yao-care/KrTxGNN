@@ -56,7 +56,7 @@ TxGNN 모델은 **저알파지단백혈증(Hypoalphalipoproteinemia)**에 효과
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 알려진 정보에 따르면 Prucalopride는 선택적 5-HT4 수용체 작용제로서 소화관 운동을 촉진합니다.
+미국 FDA가 승인한 Prucalopride 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “선택적 세로토닌 4형(5-HT 4 ) 수용체 작용제인 프루칼로프라이드는 결장 연동운동(고진폭 전파성 수축[HAPCs])을 자극하여 장 운동성을 증가시키는 위장관(GI) 운동촉진제이다. 프루칼로프라이드는 in vitro에서 5-HT 4 수용체 친화도를 150배 이상 초과하는 농도에서도 5-HT 2A, 5-HT 2B, 5-HT 3, 모틸린 또는 CCK-A 수용체를 매개로 한 효과를 나타내지 않았다.” 영어 원문: "Prucalopride, a selective serotonin type 4 (5-HT 4 ) receptor agonist, is a gastrointestinal (GI) prokinetic agent that stimulates colonic peristalsis (high-amplitude propagating contractions [HAPCs]), which increases bowel motility. Prucalopride was devoid of effects mediated via 5-HT 2A, 5-HT 2B, 5-HT 3, motilin or CCK-A receptors in vitro at concentrations exceeding 5-HT 4 receptor affinity by 150-fold or greater." ([DailyMed: Motegrity (prucalopride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bca1e4c6-4b2b-4876-8ab3-654629c4ff1b), 버전 2025-07-17; 확인일 2026-11-19). 다만 알려진 정보에 따르면 Prucalopride는 선택적 5-HT4 수용체 작용제로서 소화관 운동을 촉진합니다.
 
 저알파지단백혈증은 HDL 콜레스테롤이 낮은 지질대사 이상입니다. 5-HT4 작용과 HDL 대사 또는 지단백 조절 사이에 알려진 연관성은 없습니다. 따라서 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 뿐, 생물학적 근거는 아니며 임상적·문헌적 뒷받침도 없습니다.
 
@@ -95,6 +95,19 @@ TxGNN 모델은 **저알파지단백혈증(Hypoalphalipoproteinemia)**에 효과
 - 상세한 작용 기전(MOA) 데이터 확보
 - 지질대사와 5-HT4 경로의 연관성을 뒷받침하는 전임상 또는 기전 연구
 - 대안으로, 아밀로이드증 동반 위장관 운동장애에 대한 증상 완화 가설을 별도 연구 질문으로 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Motegrity (prucalopride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bca1e4c6-4b2b-4876-8ab3-654629c4ff1b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

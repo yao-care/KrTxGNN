@@ -56,7 +56,7 @@ TxGNN 모델은 **위십이지장염(Gastroduodenitis)**에 효과가 있을 수
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 탄산수소칼륨은 알칼리화제이자 칼륨 공급원입니다. 중탄산 이온이 위산의 수소 이온을 완충하여 이산화탄소와 물로 바꾸므로, 제산제와 같은 원리로 작용할 수 있습니다.
+미국 FDA가 승인한 Potassium Bicarbonate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “탄산수소나트륨 정맥 투여 요법은 혈장 중탄산염을 증가시키고, 과도한 수소 이온 농도를 완충하며, 혈액 pH를 상승시킨다.” 영어 원문: "Intravenous sodium bicarbonate therapy increases plasma bicarbonate, buffers excess hydrogen ion concentration, raises blood pH." ([DailyMed: sodium bicarbonate prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50c858a-00c8-4cb2-ad73-8797f19e656d), 버전 2026-08-14; 확인일 2026-11-19). 알려진 정보에 따르면 탄산수소칼륨은 알칼리화제이자 칼륨 공급원입니다. 중탄산 이온이 위산의 수소 이온을 완충하여 이산화탄소와 물로 바꾸므로, 제산제와 같은 원리로 작용할 수 있습니다.
 
 따라서 위산과 관련된 위·십이지장 점막 자극 증상을 완화하는 증상 조절 목적의 근거는 어느 정도 설명할 수 있습니다. 다만 이는 기전에 기반한 추정일 뿐입니다. 헬리코박터 파일로리 연관 염증이나 NSAID 유발 염증 같은 위십이지장염 자체를 개선한다는 근거는 제공된 데이터에 없습니다. 0.9972이라는 TxGNN 점수도 계산상의 예측값입니다.
 
@@ -93,6 +93,19 @@ TxGNN 모델은 **위십이지장염(Gastroduodenitis)**에 효과가 있을 수
 - 위십이지장염에 대한 임상시험 및 문헌 탐색
 - 신기능 저하 환자와 고칼륨혈증 위험 병용약물에 대한 안전성 관리 계획 수립
 - 투여 경로와 제형(발포정) 적합성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: sodium bicarbonate prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50c858a-00c8-4cb2-ad73-8797f19e656d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

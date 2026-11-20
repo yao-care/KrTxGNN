@@ -54,7 +54,7 @@ Fluorescein(플루오레세인나트륨)은 주사용 진단 형광 색소로, �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Fluorescein은 진단용 형광 색소이며, 혈관확장 작용이나 항경련(anti-vasospastic) 작용은 알려져 있지 않습니다.
+미국 FDA가 승인한 Fluorescein 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “플루오레세인나트륨은 465~490 nm 파장 사이의 전자기 복사 및 빛에 반응하여 형광을 발한다. 즉, 520~530 nm 파장의 빛을 방출한다. 따라서 이 탄화수소는 청색광에 의해 여기되어 황록색으로 보이는 빛을 방출한다.” 영어 원문: "Fluorescein sodium responds to electromagnetic radiation and light between the wavelengths of 465 to 490 nm and fluoresces, i.e., emits light at wavelengths of 520 to 530 nm. Thus, the hydrocarbon is excited by blue light and emits light that appears yellowish green." ([DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0), 버전 2026-02-26; 확인일 2026-11-19). Fluorescein은 진단용 형광 색소이며, 혈관확장 작용이나 항경련(anti-vasospastic) 작용은 알려져 있지 않습니다.
 
 Prinzmetal 협심증은 관상동맥 경련으로 생기는 질환입니다. 기존 용도(진단용 색소)와의 약리학적 연관성은 확인되지 않았습니다. 따라서 높은 TxGNN 점수(0.9981)는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영할 뿐, 생물학적 근거나 기전상 타당성을 뒷받침하지 않습니다.
 
@@ -91,6 +91,19 @@ Prinzmetal 협심증에 대한 임상시험과 문헌이 없고, 기전상 근�
 - Fluorescein과 관상동맥 경련 사이의 기전적 연관성을 보여주는 전임상 근거
 - 투여 경로 적합성 평가 (현재 주사제만 허가되어 있음)
 - 이 예측을 지지하는 임상시험 또는 치료 효과를 다룬 문헌
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

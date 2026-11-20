@@ -56,7 +56,7 @@ TxGNN 모델은 **약인성 골다공증(drug-induced osteoporosis)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Sacituzumab govitecan은 Trop-2 표적 항체에 토포이소머라제 I 억제제인 SN-38을 연결한 ADC이며, 세포독성 약물을 종양 세포에 전달하는 방식으로 작동합니다.
+미국 FDA가 승인한 Sacituzumab Govitecan 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “사시투주맙 고비테칸-hziy는 Trop-2를 표적으로 하는 항체-약물 접합체이다. 사시투주맙은 Trop-2를 인식하는 인간화 항체이다. 저분자 화합물인 SN-38은 토포이소머라제 I 억제제로, 링커에 의해 항체에 공유 결합되어 있다.” 영어 원문: "Sacituzumab govitecan-hziy is a Trop-2-directed antibody-drug conjugate. Sacituzumab is a humanized antibody that recognizes Trop-2. The small molecule, SN-38, is a topoisomerase I inhibitor, which is covalently attached to the antibody by a linker." ([DailyMed: Trodelvy (sacituzumab govitecan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57a597d2-03f0-472e-b148-016d7169169d), 버전 2026-06-24; 확인일 2026-11-19). 알려진 정보에 따르면, Sacituzumab govitecan은 Trop-2 표적 항체에 토포이소머라제 I 억제제인 SN-38을 연결한 ADC이며, 세포독성 약물을 종양 세포에 전달하는 방식으로 작동합니다.
 
 이 기전과 뼈 대사 사이에서 뚜렷한 연결고리는 확인되지 않습니다. 오히려 세포독성 항암화학요법은 골 소실과 관련되는 경우가 더 흔하며, 골다공증을 치료한다는 근거는 없습니다. TxGNN 점수(0.9978)는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 학습한 관련 질환 간 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며, 이를 뒷받침하는 임상 또는 문헌 근거도 없습니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델은 **약인성 골다공증(drug-induced osteoporosis)**에 효과�
 - 골 대사와의 기전적 연관성을 뒷받침하는 전임상 근거
 - 비종양성 질환에서의 이익-위험 평가 (골수억제, 호중구감소증 등 독성 대비)
 - 투여 경로 적합성 검토 (현재 정맥 투여 주사제만 확인됨)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Trodelvy (sacituzumab govitecan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57a597d2-03f0-472e-b148-016d7169169d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

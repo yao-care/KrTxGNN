@@ -56,7 +56,7 @@ Clofazimine은 리미노페나진(riminophenazine) 계열 항마이코박테리�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Clofazimine은 리미노페나진 계열 항마이코박테리아제로 알려져 있으며, 결핵 및 한센병 치료 요법에 사용됩니다. 그러나 폐포자충증의 원인균인 *Pneumocystis jirovecii*는 세균이 아니라 진균이며, clofazimine이 이 병원체에 활성이 있다는 근거는 확인되지 않았습니다.
+미국 FDA가 승인한 Clofazimine 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “LAMPRENE은 항마이코박테리아 약물이다. […] 클로파지민은 Mycobacterium leprae(한센균)에 대해 느린 살균 효과를 나타낸다. 클로파지민은 마이코박테리아의 증식을 억제하며 마이코박테리아 DNA에 우선적으로 결합한다. 클로파지민은 또한 나성 결절성 홍반 반응의 치료에 있어 항염증 작용을 나타낸다.” 영어 원문: "LAMPRENE is an anti-mycobacterial drug. […] Clofazimine exerts a slow bactericidal effect on Mycobacterium leprae (Hansen’s bacillus). Clofazimine inhibits mycobacterial growth and binds preferentially to mycobacterial DNA. Clofazimine also exerts anti-inflammatory properties in treating erythema nodosum leprosum reactions." ([DailyMed: Lamprene (clofazimine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07448f-f888-4747-80ab-570c1b621250), 버전 2026-08-17; 확인일 2026-11-19). Clofazimine은 리미노페나진 계열 항마이코박테리아제로 알려져 있으며, 결핵 및 한센병 치료 요법에 사용됩니다. 그러나 폐포자충증의 원인균인 *Pneumocystis jirovecii*는 세균이 아니라 진균이며, clofazimine이 이 병원체에 활성이 있다는 근거는 확인되지 않았습니다.
 
 TxGNN 점수(0.9990)는 네트워크 기반 예측일 뿐입니다. 연결된 문헌은 AIDS 환자에서의 *Mycobacterium avium* complex(MAC) 예방 연구와, *M. kansasii* 감염에 폐포자충 폐렴이 동반된 증례입니다. 즉, 이 연관성은 HIV/AIDS 환자에서 기회감염이 함께 나타나는 현상을 반영한 것이며, 항폐포자충 효능을 보여주는 것은 아닙니다. 따라서 기전상 연결고리는 확립되지 않았습니다.
 
@@ -111,6 +111,18 @@ TxGNN 점수(0.9990)는 네트워크 기반 예측일 뿐입니다. 연결된 �
 |------|---------|-----------|------|------|
 | 2 | 말라리아 (Malaria) | 0.9960 | 임상시험 없음. clofazimine 유사체의 항플라스모디움 활성에 대한 시험관 연구 1편([29026393](https://pubmed.ncbi.nlm.nih.gov/29026393/))이 있으나, 나머지 문헌은 대부분 내성 결핵·한센병 관련으로 말라리아 효능 근거가 아님 | Hold |
 | 3 | 가스트린 분비 이상 | 0.9957 | 임상시험 및 문헌 없음. 모델 예측만 존재 | Hold |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lamprene (clofazimine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e07448f-f888-4747-80ab-570c1b621250) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

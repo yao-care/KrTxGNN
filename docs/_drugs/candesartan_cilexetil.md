@@ -55,7 +55,7 @@ TxGNN 모델은 **악성 고혈압성 신질환(malignant hypertensive renal dis
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서를 위해 수집된 데이터에는 상세한 작용 기전(MOA) 정보가 없습니다. 다만 candesartan은 안지오텐신 II 1형 수용체 차단제로 알려져 있으며, 레닌-안지오텐신계(RAS)를 차단해 혈압을 낮추는 계열에 속합니다.
+미국 FDA가 승인한 Candesartan Cilexetil 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “안지오텐신 II는 안지오텐신 전환효소(ACE, 키니나제 II)에 의해 촉매되는 반응으로 안지오텐신 I로부터 생성된다. 안지오텐신 II는 레닌-안지오텐신계의 주요 승압 물질로, 혈관 수축, 알도스테론의 합성 및 분비 자극, 심장 자극, 나트륨의 신장 재흡수 등의 효과를 나타낸다. […] 칸데사르탄은 혈관 평활근 및 부신 등 여러 조직에서 안지오텐신 II가 AT 1 수용체에 결합하는 것을 선택적으로 차단함으로써 안지오텐신 II의 혈관 수축 효과 및 알도스테론 분비 효과를 차단한다.” 영어 원문: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: Atacand (candesartan cilexetil) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94a59260-d2b6-464a-b5b9-bbc599e57e10), 버전 2025-12-22; 확인일 2026-11-19). 다만 candesartan은 안지오텐신 II 1형 수용체 차단제로 알려져 있으며, 레닌-안지오텐신계(RAS)를 차단해 혈압을 낮추는 계열에 속합니다.
 
 악성 고혈압은 매우 심한 혈압 상승과 RAS 활성화를 특징으로 하므로, RAS 차단이 기전상 적용될 가능성은 있습니다. 그러나 이는 간접적인 추론일 뿐이며, 이 질환에 대한 직접적인 연구는 확인되지 않았습니다.
 
@@ -92,6 +92,19 @@ TxGNN 모델은 **악성 고혈압성 신질환(malignant hypertensive renal dis
 - 상세한 작용 기전(MOA) 데이터
 - 허가사항(경고, 금기) 원문 확보 및 안전성 검토
 - 급성기 이후 유지 요법 등 적용 가능한 임상 상황에 대한 정의
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Atacand (candesartan cilexetil) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94a59260-d2b6-464a-b5b9-bbc599e57e10) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

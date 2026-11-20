@@ -56,7 +56,7 @@ TxGNN 모델은 **아토피 피부염(Atopic Eczema)**에 효과가 있을 수 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 약물의 상세한 작용 기전 데이터는 없습니다. 다만 일반적인 약물군 지식에 따르면, beclomethasone dipropionate는 활성 대사체인 beclomethasone-17-monopropionate로 가수분해되는 프로드러그입니다. 이 대사체는 글루코코르티코이드 수용체에 결합하여 NF-κB와 AP-1을 통해 염증성 사이토카인 전사를 억제하고, 호산구·T세포·비만세포의 활성을 줄입니다.
+미국 FDA가 승인한 Beclomethasone Dipropionate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “베클로메타손 디프로피오네이트는 활성 대사체인 베클로메타손-17-모노프로피오네이트로 광범위하게 전환되는 전구약물이다. 베클로메타손 디프로피오네이트가 비염 증상에 영향을 미치는 정확한 기전은 알려져 있지 않다.” 영어 원문: "Beclomethasone dipropionate is a prodrug that is extensively converted to the active metabolite, beclomethasone-17-monopropionate. The precise mechanism through which beclomethasone dipropionate affects rhinitis symptoms is unknown." ([DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5), 버전 2020-02-29; 확인일 2026-11-19). 다만 일반적인 약물군 지식에 따르면, beclomethasone dipropionate는 활성 대사체인 beclomethasone-17-monopropionate로 가수분해되는 프로드러그입니다. 이 대사체는 글루코코르티코이드 수용체에 결합하여 NF-κB와 AP-1을 통해 염증성 사이토카인 전사를 억제하고, 호산구·T세포·비만세포의 활성을 줄입니다.
 
 이러한 경로는 아토피 피부염의 Th2 편향 염증과 겹칩니다. 또한 국소 코르티코스테로이드는 이 질환의 확립된 치료제여서 TxGNN 예측은 생물학적으로 그럴듯합니다. 다만 이 연결은 약물 고유 자료가 아닌 약물군의 일반 약리에 근거합니다.
 
@@ -113,6 +113,19 @@ TxGNN 점수는 높고 기전상 타당하지만, 등록된 임상시험이 없�
 - 아토피 피부염에 대한 직접적인 임상 근거(RCT 등) 확보
 - 투여 경로 적합성 검토: 현재 한국 허가 제형은 흡입제와 경구 정제뿐이며 피부 적용 제형은 없음
 - 소아 성장 및 부신 억제 등 전신 안전성 평가 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

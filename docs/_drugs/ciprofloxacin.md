@@ -56,7 +56,7 @@ TxGNN 모델은 **미만성 피부경화증(Diffuse Scleroderma)**에 효과가 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 시프로플록사신은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 살균성 플루오로퀴놀론계 항균제입니다. 이 기전만으로는 자가면역성 결합조직질환인 피부경화증을 직접 설명하기 어렵습니다.
+미국 FDA가 승인한 Ciprofloxacin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “시프로플록사신은 플루오로퀴놀론계 항균제에 속한다. […] 시프로플록사신의 살균 작용은 세균의 DNA 복제, 전사, 복구 및 재조합에 필요한 효소인 토포이소머라제 II(DNA 자이라제) 및 토포이소머라제 IV(둘 다 제II형 토포이소머라제)의 억제로 인해 나타난다.” 영어 원문: "Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV (both Type II topoisomerases), which are required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07), 버전 2025-11-04; 확인일 2026-11-19). 알려진 정보에 따르면 시프로플록사신은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 살균성 플루오로퀴놀론계 항균제입니다. 이 기전만으로는 자가면역성 결합조직질환인 피부경화증을 직접 설명하기 어렵습니다.
 
 그래도 두 가지 간접적 연결고리가 있습니다.
 
@@ -114,6 +114,19 @@ TxGNN 점수(0.9987)는 매우 높지만, 이를 뒷받침할 임상 데이터�
 - 상세한 약물 작용 기전(MOA) 데이터 확보 및 항섬유화 기전의 전임상 근거 보강
 - 허가사항의 경고·금기 정보 확보 (현재 확인되지 않아 안전성 사전 검토를 진행할 수 없음)
 - 건·신경 독성 위험을 고려한 피부경화증 환자 대상 안전성 평가 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

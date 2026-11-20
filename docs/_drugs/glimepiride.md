@@ -55,7 +55,7 @@ TxGNN 모델은 **고전형 전신 경직 증후군(Classic Stiff Person Syndrom
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 glimepiride는 췌장 베타세포의 KATP 채널을 차단해 인슐린 분비를 촉진하는 설포닐우레아 계열로 알려져 있으나, 이번 자료에서는 확인되지 않았습니다.
+미국 FDA가 승인한 Glimepiride 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “글리메피리드는 주로 췌장 베타세포로부터 인슐린 분비를 자극하여 혈당을 낮춘다. 설포닐우레아는 췌장 베타세포 형질막의 설포닐우레아 수용체에 결합하여 ATP 민감성 칼륨 통로를 닫히게 하고, 이를 통해 인슐린 분비를 자극한다.” 영어 원문: "Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells. Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin." ([DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa), 버전 2024-08-20; 확인일 2026-11-19). 일반적으로 glimepiride는 췌장 베타세포의 KATP 채널을 차단해 인슐린 분비를 촉진하는 설포닐우레아 계열로 알려져 있으나, 이번 자료에서는 확인되지 않았습니다.
 
 전신 경직 증후군은 자가면역 질환으로, 항 GAD65 항체와 관련이 있으며 제1형 당뇨병과 자주 동반됩니다. 따라서 이번 예측은 당뇨병 및 GAD 관련 유전자와의 네트워크상 근접성을 반영했을 가능성이 높습니다. 치료 기전에 근거한 것으로 보기는 어렵습니다.
 
@@ -102,6 +102,19 @@ TxGNN 모델은 **고전형 전신 경직 증후군(Classic Stiff Person Syndrom
 - 작용 기전(MOA) 데이터 보강
 - 전신 경직 증후군과 glimepiride를 연결하는 전임상 또는 임상 근거 탐색
 - 근거 확보 전까지는 추가 투자 없이 보류
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

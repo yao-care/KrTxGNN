@@ -55,7 +55,7 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Primidone은 항경련제이며 체내에서 phenobarbital과 PEMA로 대사됩니다. 따라서 경련성 질환에서의 효능을 바탕으로 한 신경계 약물로 분류할 수 있습니다.
+미국 FDA가 승인한 Primidone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “MYSOLINE은 실험동물에서 전기 또는 화학 충격에 의한 발작 역치를 상승시키거나 발작 양상을 변화시킨다. 프리미돈의 항뇌전증 작용기전은 알려져 있지 않다. 프리미돈 자체는 항경련 활성을 가지며, 그 두 대사체인 페노바르비탈 및 페닐에틸말론아미드(PEMA)도 마찬가지로 항경련 활성을 가진다.” 영어 원문: "MYSOLINE raises electro- or chemoshock seizure thresholds or alters seizure patterns in experimental animals. The mechanism(s) of primidone’s antiepileptic action is not known. Primidone per se has anticonvulsant activity as do its two metabolites, phenobarbital and phenylethylmalonamide (PEMA)." ([DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46), 버전 2026-09-10; 확인일 2026-11-19). 알려진 정보에 따르면 Primidone은 항경련제이며 체내에서 phenobarbital과 PEMA로 대사됩니다. 따라서 경련성 질환에서의 효능을 바탕으로 한 신경계 약물로 분류할 수 있습니다.
 
 그러나 삼차신경 신생물과의 기전적 연관성은 뚜렷하지 않습니다. Primidone에는 알려진 항종양 활성이 없습니다. 매우 높은 예측 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다.
 
@@ -101,6 +101,19 @@ TxGNN 모델은 **삼차신경 신생물(trigeminal nerve neoplasm)**에 효과�
 - 삼차신경 신생물과 Primidone을 연결하는 전임상 또는 기전 근거
 - 참고로, 같은 예측 목록의 **삼차신경통(trigeminal neuralgia)**은 나트륨 채널 조절이라는 기전적 타당성이 있어 별도의 연구 과제로 검토할 수 있습니다. 다만 현재 확보된 문헌은 carbamazepine 중심이며 Primidone 고유의 효능 데이터는 없습니다.
 - 경련성 질환 계열(반사성 간질 등) 예측들은 항경련 기전상 개연성이 있으나, 인체 근거는 사례 보고와 동물 연구 수준에 그칩니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

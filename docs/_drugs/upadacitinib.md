@@ -56,7 +56,7 @@ TxGNN 모델은 **콜로보마성 소안구증-근위부 단축형 이형성 증
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 upadacitinib은 선택적 JAK1 억제제로 면역조절 약물입니다. 그러나 JAK-STAT 신호전달이 이 증후군의 병태생리와 연결된다는 자료는 이번에 수집된 데이터에 없습니다.
+미국 FDA가 승인한 Upadacitinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Upadacitinib은 야누스 키나아제(JAK) 억제제이다. JAK는 세포막에서 사이토카인 또는 성장인자-수용체 상호작용으로 발생하는 신호를 전달하여 조혈 및 면역세포 기능의 세포 과정에 영향을 미치는 세포 내 효소이다.” 영어 원문: "Upadacitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function." ([DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095), 버전 2026-06-30; 확인일 2026-11-19). 알려진 정보에 따르면 upadacitinib은 선택적 JAK1 억제제로 면역조절 약물입니다. 그러나 JAK-STAT 신호전달이 이 증후군의 병태생리와 연결된다는 자료는 이번에 수집된 데이터에 없습니다.
 
 이 증후군은 눈 콜로보마, 소안구증, 근위부 사지 단축을 동반하는 극히 드문 선천성 발달 이상입니다. 면역억제 기반의 JAK 억제가 구조적 발달 결함을 교정할 가능성은 낮아 보입니다.
 
@@ -94,6 +94,19 @@ TxGNN 점수 0.9961은 TxGNN 모델(딥러닝)이 산출한 예측일 뿐입니�
 ## 참고: 두 번째 예측 질환
 
 두 번째 예측 질환인 **합지증-단지증 증후군(brachydactyly-syndactyly syndrome)**(TxGNN 점수 0.9958)도 임상시험 0건, 문헌 0편으로 근거 수준은 L5이고 권장 결정은 Hold입니다. 이 질환은 선천성 골격 기형이므로 면역조절제의 기전적 근거가 약하며, 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있고 생물학적 근거는 아닙니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

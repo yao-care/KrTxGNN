@@ -54,7 +54,7 @@ Dantrolene은 국내에서 단일 성분 캡슐제로 허가된 약물입니다.
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 dantrolene은 문헌상 골격근 소포체의 리아노딘 수용체 1(RyR1)에 작용하여 칼슘 방출을 억제하는 약물로 알려져 있으며, 악성 고열증 치료에 사용됩니다.
+미국 FDA가 승인한 Dantrolene 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “분리된 신경-근육 표본에서 단트롤렌은 신경근 접합부 너머의 부위에서 근육의 수축 반응에 영향을 미쳐 이완을 일으키는 것으로 나타났다. 골격근에서 단트롤렌은 아마도 근소포체로부터의 Ca ++ 방출을 방해함으로써 흥분-수축 연관을 해리시킨다.” 영어 원문: "In isolated nerve-muscle preparation, dantrolene has been shown to produce relaxation by affecting the contractile response of the muscle at a site beyond the myoneural junction. In skeletal muscle, dantrolene dissociates the excitation-contraction coupling, probably by interfering with the release of Ca ++ from the sarcoplasmic reticulum." ([DailyMed: Ryanodex Dantrolene Sodium (dantrolene sodium) prescribing information, Eagle Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698), 버전 2024-10-30; 확인일 2026-11-19). 다만 dantrolene은 문헌상 골격근 소포체의 리아노딘 수용체 1(RyR1)에 작용하여 칼슘 방출을 억제하는 약물로 알려져 있으며, 악성 고열증 치료에 사용됩니다.
 
 다중미세코어병은 RYR1(또는 SEPN1) 변이와 연관될 수 있어, RyR1 관련 경로를 통한 연결 가능성은 있습니다. 그러나 이는 가설 수준이며, 이 예측을 뒷받침하는 것은 모델 점수뿐입니다. 이 질환에서 dantrolene의 효과를 확인한 임상시험이나 문헌은 확인되지 않았습니다.
 
@@ -90,6 +90,19 @@ Dantrolene은 국내에서 단일 성분 캡슐제로 허가된 약물입니다.
 - 상세한 작용 기전 데이터 확보
 - 허가사항의 경고·금기 정보 확인 (간 질환, 근육 질환 등 안전성 검토 포함)
 - 한국 시판 상태(허가 유지 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ryanodex Dantrolene Sodium (dantrolene sodium) prescribing information, Eagle Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ Benzatropine은 항콜린제로, 한국에서 4건의 단일제 허가를 받아
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 benzatropine은 무스카린 수용체 길항 작용을 하는 항콜린제이며, 도파민 재흡수도 억제합니다. 파킨슨증과 약물 유발 추체외로 증상에 사용됩니다.
+미국 FDA가 승인한 Benzatropine 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “벤즈트로핀 메실산염은 항콜린 작용과 항히스타민 작용을 모두 가지고 있으나, 파킨슨증 치료에서 치료적으로 유의한 것으로 확립된 것은 전자뿐이다. 적출한 기니피그 회장에서 이 약물의 항콜린 활성은 아트로핀과 거의 같으나, 마취하지 않은 고양이에게 경구 투여한 경우에는 아트로핀 활성의 약 절반에 불과하다.” 영어 원문: "Benztropine mesylate possesses both anticholinergic and antihistaminic effects, although only the former have been established as therapeutically significant in the management of parkinsonism. In the isolated guinea pig ileum, the anticholinergic activity of this drug is about equal to that of atropine; however, when administered orally to unanesthetized cats, it is only about half as active as atropine." ([DailyMed: benztropine mesylate prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01688e6f-7b22-41bf-9a85-1c88d90f99b6), 버전 2026-11-11; 확인일 2026-11-19). 알려진 정보에 따르면 benzatropine은 무스카린 수용체 길항 작용을 하는 항콜린제이며, 도파민 재흡수도 억제합니다. 파킨슨증과 약물 유발 추체외로 증상에 사용됩니다.
 
 PLA2G6 연관 신경변성에는 영아기 신경축삭 이영양증과 PLA2G6 관련 근긴장이상-파킨슨증이 포함됩니다. 이 질환은 근긴장이상과 파킨슨양 증상으로 나타날 수 있습니다. 따라서 운동 증상을 완화하는 대증 치료로 쓰일 수 있다는 가설은 그럴듯하지만, 검증되지는 않았습니다.
 
@@ -95,6 +95,19 @@ PLA2G6 연관 신경변성에 대한 임상시험과 문헌이 없고 TxGNN 점�
 - PLA2G6 연관 신경변성에서 항콜린제 사용에 관한 문헌과 임상시험 탐색
 - 근긴장이상-파킨슨증 환자군에서의 증상 완화 가능성을 검증하는 소규모 탐색 연구 설계
 - 소아 환자와 병용약물을 고려한 안전성 평가 계획(항콜린 부담, 상호작용 포함)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: benztropine mesylate prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01688e6f-7b22-41bf-9a85-1c88d90f99b6) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

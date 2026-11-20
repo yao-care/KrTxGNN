@@ -54,7 +54,7 @@ Silodosin은 선택적 알파-1A 아드레날린 수용체 길항제로, 한국�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Silodosin은 알파-1A 수용체를 선택적으로 차단하여 전립선과 방광 경부의 평활근을 이완시키는 약물입니다.
+미국 FDA가 승인한 Silodosin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “실로도신은 인간의 전립선, 방광 기저부, 방광경부, 전립선 피막 및 전립선 요도에 위치하는 시냅스후 알파-1 아드레날린 수용체의 선택적 길항제이다. 이러한 알파-1 아드레날린 수용체의 차단은 이들 조직의 평활근을 이완시켜 요류를 개선하고 BPH 증상을 감소시킬 수 있다.” 영어 원문: "Silodosin is a selective antagonist of post-synaptic alpha-1 adrenoreceptors, which are located in the human prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra. Blockade of these alpha-1 adrenoreceptors can cause smooth muscle in these tissues to relax, resulting in an improvement in urine flow and a reduction in BPH symptoms." ([DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7), 버전 2026-10-30; 확인일 2026-11-19). 알려진 정보에 따르면 Silodosin은 알파-1A 수용체를 선택적으로 차단하여 전립선과 방광 경부의 평활근을 이완시키는 약물입니다.
 
 Ambras 증후군은 모낭 발달에 영향을 주는 유전적·염색질 구조 변화(예: TRPS1 인근 구조 변이)와 관련된 희귀 선천성 다모증입니다. 알파-1A 차단과는 직접적인 기전 연결이 확인되지 않습니다.
 
@@ -100,6 +100,19 @@ Ambras 증후군은 모낭 발달에 영향을 주는 유전적·염색질 구�
 - 알파-1A 차단과 모낭 또는 다모증 사이의 기전적 연관성을 보여주는 전임상 근거
 - 효과 방향(치료 vs 악화) 검증
 - 현재 예측된 질환들이 대부분 유전적 구조 결함인 만큼, 다른 후보 적응증에 대한 재탐색
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

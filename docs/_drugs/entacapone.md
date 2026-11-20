@@ -56,7 +56,7 @@ TxGNN 모델은 **PLA2G6 관련 신경변성(PLA2G6-associated neurodegeneration
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 entacapone은 COMT(카테콜-O-메틸전이효소) 억제제로, levodopa의 말초 분해를 줄여 반감기를 늘리는 보조제입니다. 이 약은 단독 질환 치료제가 아니라 도파민 보충 요법을 보조하는 증상 완화 약물입니다.
+미국 FDA가 승인한 Entacapone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “엔타카폰은 COMT의 선택적이고 가역적인 억제제이다. 포유류에서 COMT는 여러 장기에 분포하며, 간과 신장에서 활성이 가장 높다. COMT는 또한 심장, 폐, 평활근 및 골격근, 장관, 생식기관, 여러 분비샘, 지방조직, 피부, 혈액세포 및 신경조직, 특히 신경교세포에도 존재한다.” 영어 원문: "Entacapone is a selective and reversible inhibitor of COMT. In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells, and neuronal tissues, especially in glial cells." ([DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd), 버전 2026-02-16; 확인일 2026-11-19). 알려진 정보에 따르면 entacapone은 COMT(카테콜-O-메틸전이효소) 억제제로, levodopa의 말초 분해를 줄여 반감기를 늘리는 보조제입니다. 이 약은 단독 질환 치료제가 아니라 도파민 보충 요법을 보조하는 증상 완화 약물입니다.
 
 PLA2G6 관련 신경변성(PLAN)에는 근긴장이상-파킨슨증 표현형이 포함되어 도파민계 관여가 있으므로, levodopa 보조제가 증상 완화에 도움이 될 가능성은 이론적으로 있습니다. 그러나 이 질환의 근본 기전은 인지질 대사와 미토콘드리아/막 기능 이상이며, entacapone은 이를 해결하지 못합니다. 이를 뒷받침하는 시험이나 문헌도 없습니다.
 
@@ -114,6 +114,19 @@ PLA2G6 관련 신경변성에 대해서는 임상시험과 문헌이 없고 TxGN
 - PLAN 환자에서 도파민 반응성에 대한 증례나 관찰 연구 문헌 조사
 - 유전적 아형 구분을 전제로 한 적응증 확장 질문으로 재설정(예: 청소년 파킨슨증)
 - 상위 예측 중 파킨슨증 표현형 질환(청소년 파킨슨증, Lewy소체 치매, PSP-CBS)을 별도 연구 질문으로 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

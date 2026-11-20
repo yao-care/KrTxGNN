@@ -55,7 +55,7 @@ TxGNN 모델은 **외피 외 비만세포종(extracutaneous mastocytoma)**에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Pirfenidone은 항섬유화·항염증 작용을 가진 약물로, TGF-β와 TNF-α 신호를 조절하는 것으로 알려져 있습니다. 다만 이번 데이터만으로는 이 기전이 비만세포종에 적용된다는 근거를 확인할 수 없습니다.
+미국 FDA가 승인한 Pirfenidone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “IPF 치료에서 피르페니돈의 작용기전은 확립되지 않았다.” 영어 원문: "The mechanism of action of pirfenidone in the treatment of IPF has not been established." ([DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e), 버전 2025-12-05; 확인일 2026-11-19). 알려진 정보에 따르면 Pirfenidone은 항섬유화·항염증 작용을 가진 약물로, TGF-β와 TNF-α 신호를 조절하는 것으로 알려져 있습니다. 다만 이번 데이터만으로는 이 기전이 비만세포종에 적용된다는 근거를 확인할 수 없습니다.
 
 골외 비만세포종과의 직접적인 기전 연결은 데이터로 뒷받침되지 않습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -117,6 +117,19 @@ TxGNN 모델은 **외피 외 비만세포종(extracutaneous mastocytoma)**에 �
 - 비만세포 및 비만세포종과 Pirfenidone의 관련성을 다루는 전임상·임상 문헌 탐색
 - 섬유모세포성 종양 계열 예측에서 확인된 육종 및 피부섬유종 관련 안전성 신호 검토
 - 예측 순위 전반에서 기전적 근거와 안전성 측면이 더 유리한 후보 질환 재검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

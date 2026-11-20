@@ -55,7 +55,7 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 이번 보고서용 자료에 없습니다. 다만 문헌에 알려진 약리 정보에 따르면, trabectedin은 DNA minor groove에 결합해 DNA 부가체를 형성하고 전사 연계 뉴클레오티드 절제 복구(TC-NER)를 방해하는 해양 유래 세포독성 약물입니다. 또한 종양 관련 대식세포(TAM)를 줄여 종양 미세환경을 조절합니다. 이 내용은 제공된 허가 자료가 아니라 약물의 일반적 약리 지식에 근거합니다.
+미국 FDA가 승인한 Trabectedin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Trabectedin은 DNA 부홈(minor groove)의 구아닌 잔기에 결합하여 부가물을 형성하고 DNA 나선을 주홈(major groove) 쪽으로 구부러지게 하는 알킬화 약물이다. 부가물 형성은 일련의 연쇄적 사건을 촉발하여 일부 전사인자를 포함한 DNA 결합 단백질 및 DNA 복구 경로의 후속 활성에 영향을 미칠 수 있으며, 그 결과 세포 주기의 교란과 궁극적인 세포 사멸을 초래한다.” 영어 원문: "Trabectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death." ([DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea), 버전 2026-06-29; 확인일 2026-11-19). 다만 문헌에 알려진 약리 정보에 따르면, trabectedin은 DNA minor groove에 결합해 DNA 부가체를 형성하고 전사 연계 뉴클레오티드 절제 복구(TC-NER)를 방해하는 해양 유래 세포독성 약물입니다. 또한 종양 관련 대식세포(TAM)를 줄여 종양 미세환경을 조절합니다. 이 내용은 제공된 허가 자료가 아니라 약물의 일반적 약리 지식에 근거합니다.
 
 이런 기전은 유방암, 특히 BRCA1/2 결핍이나 상동재조합 결함이 있는 종양에서 민감도가 높을 수 있다는 점과 연결됩니다. 전임상 연구(PMID 39777457)에서는 삼중음성 유방암(TNBC)에서 IL-12와 병용 시 항종양 효과가 강화될 수 있음이 시사되었습니다.
 
@@ -119,6 +119,19 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 - 유방암 Phase 2 연구(PMID 25239225, 24692579, 27266804)의 결과 상세 검토 및 BRCA 변이·HR 결핍 환자군 등 반응 예측 집단 정의
 - 유방암 대상 효능 임상시험(특히 Phase 3 RCT) 존재 여부 추가 확인
 - 고위험 약물 상호작용(clarithromycin 등)과 골수억제·간독성에 대한 모니터링 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Evdi (trabectedin) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c1d50f5c-4202-27f3-4798-a9708114ddea) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

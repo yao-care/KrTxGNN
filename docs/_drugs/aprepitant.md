@@ -55,7 +55,7 @@ TxGNN 모델은 **신장성 항이뇨 부적절 증후군(nephrogenic syndrome o
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 Aprepitant는 NK1(substance P) 수용체 길항제입니다. substance P/NK1 신호가 바소프레신 관련 경로를 통해 수분 균형에 관여할 가능성은 있으나, 가설 수준입니다.
+미국 FDA가 승인한 Aprepitant 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아프레피탄트는 사람 substance P/뉴로키닌 1(NK 1 ) 수용체의 선택적 고친화도 길항제이다. 아프레피탄트는 세로토닌(5-HT 3 ), 도파민 및 코르티코스테로이드 수용체에 대한 친화도가 거의 또는 전혀 없다. 동물 모델에서 아프레피탄트는 중추 작용을 통해 시스플라틴과 같은 세포독성 화학요법제에 의해 유발되는 구토를 억제하는 것으로 나타났다.” 영어 원문: "Aprepitant is a selective high-affinity antagonist of human substance P/neurokinin 1 (NK 1 ) receptors. Aprepitant has little or no affinity for serotonin (5-HT 3 ), dopamine, and corticosteroid receptors. Aprepitant has been shown in animal models to inhibit emesis induced by cytotoxic chemotherapeutic agents, such as cisplatin, via central actions." ([DailyMed: Cinvanti (aprepitant) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c218d3a-a508-4abc-9ed8-a6e8e191d1b4), 버전 2026-04-01; 확인일 2026-11-19). 알려진 정보에 따르면 Aprepitant는 NK1(substance P) 수용체 길항제입니다. substance P/NK1 신호가 바소프레신 관련 경로를 통해 수분 균형에 관여할 가능성은 있으나, 가설 수준입니다.
 
 신장성 항이뇨 부적절 증후군(nephrogenic SIAD)은 바소프레신 V2 수용체(AVPR2)의 활성화 돌연변이로 발생합니다. 이는 중추 NK1 차단 효과보다 하류에서 일어나는 변화이므로, 기전상 연결고리는 약합니다. 높은 TxGNN 점수는 계산상 예측일 뿐입니다.
 
@@ -99,6 +99,19 @@ TxGNN 모델은 **신장성 항이뇨 부적절 증후군(nephrogenic syndrome o
 - 상세한 작용 기전 데이터(MOA) 확보
 - substance P/NK1과 바소프레신 경로의 연관성을 보여주는 전임상 또는 기전 연구
 - 참고: 예측 목록 중 지주막하출혈은 기전상 가장 개연성이 있으나, 이 역시 현재 근거는 없으며 우선 검토 대상으로 고려할 수 있음
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cinvanti (aprepitant) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c218d3a-a508-4abc-9ed8-a6e8e191d1b4) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

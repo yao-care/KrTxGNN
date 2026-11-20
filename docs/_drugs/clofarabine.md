@@ -57,7 +57,7 @@ TxGNN 모델은 **골수성 백혈병(Myeloid Leukemia)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 정리된 자료에 없습니다. 다만 알려진 약리학 정보에 따르면 Clofarabine은 2세대 퓨린 뉴클레오사이드 유사체입니다. 활성 대사체(삼인산체)가 리보뉴클레오타이드 환원효소와 DNA 중합효소를 억제하고 미토콘드리아 기능을 교란하여, 빠르게 증식하는 백혈병 세포의 사멸을 유도합니다. 이는 보고서 작성 시 공급된 데이터가 아닌 일반 약리 지식에 근거한 설명입니다.
+미국 FDA가 승인한 Clofarabine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “클로파라빈은 세포 내에서 deoxycytidine kinase에 의해 5’-일인산 대사체로 대사된 후, 일인산 및 이인산 인산화효소에 의해 활성 5’-삼인산 대사체로 순차적으로 대사된다. 클로파라빈은 활성화 인산화효소인 deoxycytidine kinase에 대해 천연 기질인 데옥시시티딘과 같거나 그 이상의 친화성을 가진다.” 영어 원문: "Clofarabine is sequentially metabolized intracellularly to the 5’-monophosphate metabolite by deoxycytidine kinase and mono- and di-phospho-kinases to the active 5’-triphosphate metabolite. Clofarabine has affinity for the activating phosphorylating enzyme, deoxycytidine kinase, equal to or greater than that of the natural substrate, deoxycytidine." ([DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873), 버전 2026-08-24; 확인일 2026-11-19). 다만 알려진 약리학 정보에 따르면 Clofarabine은 2세대 퓨린 뉴클레오사이드 유사체입니다. 활성 대사체(삼인산체)가 리보뉴클레오타이드 환원효소와 DNA 중합효소를 억제하고 미토콘드리아 기능을 교란하여, 빠르게 증식하는 백혈병 세포의 사멸을 유도합니다. 이는 보고서 작성 시 공급된 데이터가 아닌 일반 약리 지식에 근거한 설명입니다.
 
 이러한 기전은 림프모구성 백혈병뿐 아니라 증식이 활발한 골수성 모세포에도 적용될 수 있어, 급성 골수성 백혈병(AML)으로의 확장은 기전상 일관됩니다. 실제로 성인 재발·불응성 AML에서 단독 또는 병용요법으로 활발히 연구되어 왔습니다.
 
@@ -150,6 +150,19 @@ TxGNN 모델은 **골수성 백혈병(Myeloid Leukemia)**에 효과가 있을 �
 | 신경절신경모세포종, 후복막 신생물, 척추 이상 및 T세포 기능장애 질환, CLL/SLL 하위 유형 2종 | L5 | Hold |
 
 급성 림프모구성 백혈병은 해외에서 소아 재발·불응성 환자에 이미 승인된 적응증이며, 이를 뒷받침하는 Phase 2 시험이 다수 있으나 Phase 3 RCT는 확인되지 않았습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: clofarabine prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26b2de66-6518-49ab-820e-492454cbc873) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **면역 파괴에 의한 혈소판감소증(thrombocytopenia du
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 이번 보고서를 위해 수집한 자료에 따르면, benralizumab은 IL-5 수용체 알파 subunit(IL5RA)에 결합하는 항체로, 항체 의존성 세포독성(ADCC)을 통해 호산구와 호염기구를 제거하는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Benralizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “벤라리주맙은 인간 인터루킨-5 수용체의 알파 소단위(IL-5Rα)에 11 pM의 해리 상수로 직접 결합하는 인간화 비푸코실화 단일클론항체(IgG1, kappa)이다. IL-5 수용체는 호산구 및 호염기구의 표면에 발현된다.” 영어 원문: "Benralizumab is a humanized afucosylated, monoclonal antibody (IgG1, kappa) that directly binds to the alpha subunit of the human interleukin-5 receptor (IL-5Rα) with a dissociation constant of 11 pM. The IL-5 receptor is expressed on the surface of eosinophils and basophils." ([DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784), 버전 2026-05-13; 확인일 2026-11-19). 이번 보고서를 위해 수집한 자료에 따르면, benralizumab은 IL-5 수용체 알파 subunit(IL5RA)에 결합하는 항체로, 항체 의존성 세포독성(ADCC)을 통해 호산구와 호염기구를 제거하는 것으로 알려져 있습니다.
 
 그러나 호산구 감소와 혈소판 면역 파괴 사이의 직접적인 연결고리는 제공된 자료에서 확인되지 않습니다. 따라서 이 예측은 기전적으로 뒷받침되었다기보다 모델 점수에 근거한 가설 단계로 보아야 합니다.
 
@@ -83,6 +83,19 @@ TxGNN 모델은 **면역 파괴에 의한 혈소판감소증(thrombocytopenia du
 - 해당 질환을 직접 다룬 임상시험 또는 문헌 확보
 - 허가사항 기반의 경고·금기 등 안전성 정보 확보
 - 상세한 작용 기전(MOA) 데이터 보완
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Fasenra (benralizumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da6aca1a-19ed-44a4-abb7-696c7d58b784) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

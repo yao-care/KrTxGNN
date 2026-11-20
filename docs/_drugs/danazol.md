@@ -54,7 +54,7 @@ Danazol은 항성선자극 작용을 가진 합성 안드로겐 유도체입니�
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 보고서용으로 수집된 데이터에는 상세한 작용 기전 정보가 없습니다. 다만 문헌에 따르면 danazol은 뇌하수체-난소 축을 억제합니다. 이로 인해 LH/FSH 분비가 줄고 난소 스테로이드 생성이 감소하며, 자궁내막이 위축됩니다.
+미국 FDA가 승인한 Danazol 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “다나졸은 뇌하수체-난소 축을 억제한다.” 영어 원문: "Danazol suppresses the pituitary-ovarian axis." ([DailyMed: danazol prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55ad6325-16f6-4f0c-a1dc-734847052d0b), 버전 2024-10-10; 확인일 2026-11-19). 다만 문헌에 따르면 danazol은 뇌하수체-난소 축을 억제합니다. 이로 인해 LH/FSH 분비가 줄고 난소 스테로이드 생성이 감소하며, 자궁내막이 위축됩니다.
 
 이런 변화는 치료적 무월경으로 이어질 수 있는 확립된 약리 효과입니다. 월경 억제가 필요한 상황에서 danazol이 쓰이는 이유도 여기에 있습니다. 최근 코호트 연구에서도 월경 억제를 원하는 성소수자에게 danazol이 사용되어 무월경이 유도되었습니다.
 
@@ -105,6 +105,18 @@ Danazol은 항성선자극 작용을 가진 합성 안드로겐 유도체입니�
 - 허가사항(경고·금기) 확인과 안전성 검토
 - 안드로겐성 부작용, 간기능, 지질, 혈전 위험의 모니터링 및 피임 계획
 - 병용약물(특히 cisapride, 당뇨병 치료제) 상호작용 관리 방안
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: danazol prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55ad6325-16f6-4f0c-a1dc-734847052d0b) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

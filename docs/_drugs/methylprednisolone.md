@@ -56,7 +56,7 @@ Methylprednisolone은 글루코코르티코이드 계열의 항염증 약물로,
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Methylprednisolone은 글루코코르티코이드 계열로 알려져 있어, 염증 반응을 억제하는 작용이 기대됩니다.
+미국 FDA가 승인한 Methylprednisolone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “염류 저류 특성도 갖는 천연 글루코코르티코이드(히드로코르티손 및 코르티손)는 부신피질 기능부전 상태에서 대체 요법으로 사용된다. 이들의 합성 유사체는 주로 여러 장기계 질환에서 강력한 항염 효과를 위해 사용된다.” 영어 원문: "Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems." ([DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4), 버전 2026-07-01; 확인일 2026-11-19). 다만 Methylprednisolone은 글루코코르티코이드 계열로 알려져 있어, 염증 반응을 억제하는 작용이 기대됩니다.
 
 점액성 탈모증(모낭 점액증)은 모낭에 점액(mucin)이 침착되고 림프구 침윤이 동반되는 질환입니다. 항염증 작용이 있는 글루코코르티코이드가 이 염증성 침윤에 작용할 가능성은 이론적으로 있습니다.
 
@@ -104,6 +104,18 @@ Methylprednisolone은 글루코코르티코이드 계열의 항염증 약물로,
 - 상세한 작용 기전 데이터
 - 허가사항(경고·금기)의 확인과 안전성 검토
 - 병용약물(혈당강하제, Clarithromycin, Bupropion 등)에 대한 상호작용 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

@@ -54,7 +54,7 @@ Fluvastatin은 HMG-CoA 환원효소를 억제하는 스타틴 계열 약물로, 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 fluvastatin은 HMG-CoA 환원효소 억제제(스타틴)로, 콜레스테롤 합성을 줄이는 약물입니다.
+미국 FDA가 승인한 Fluvastatin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “플루바스타틴은 HMG-CoA 환원효소의 경쟁적 억제제이며, 이 효소는 3-히드록시-3-메틸글루타릴-조효소 A (HMG-CoA)를 콜레스테롤의 전구체인 메발론산으로 전환하는 속도 제한 효소이다.” 영어 원문: "Fluvastatin is a competitive inhibitor of HMG-CoA reductase, the rate limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) to mevalonate, a precursor of cholesterol." ([DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310), 버전 2024-01-31; 확인일 2026-11-19). 알려진 정보에 따르면 fluvastatin은 HMG-CoA 환원효소 억제제(스타틴)로, 콜레스테롤 합성을 줄이는 약물입니다.
 
 HIV와의 연결 고리는 두 가지로 생각할 수 있습니다. 첫째, 항레트로바이러스 치료로 생기는 이상지질혈증 관리입니다. Fluvastatin은 주로 CYP2C9로 대사되어 CYP3A4를 많이 거치는 다른 스타틴보다 단백분해효소 억제제와의 상호작용이 적은 편입니다. 둘째, 스타틴의 항염증·면역조절 작용이 만성 면역 활성화를 줄일 가능성이 있고, 쥐 모델에서 HIV 연관 신병증의 족세포 손상을 막은 전임상 결과도 있습니다.
 
@@ -106,6 +106,19 @@ HIV 감염증을 직접 연구한 임상시험이나 문헌이 없습니다. 제
 - HIV 감염 자체(바이러스 부하, 면역활성화 등)를 평가변수로 하는 임상시험 설계 또는 근거 확보
 - 항레트로바이러스제와의 상호작용 평가
 - 시판 현황(취소 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

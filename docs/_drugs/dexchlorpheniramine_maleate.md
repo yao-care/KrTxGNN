@@ -55,7 +55,7 @@ TxGNN 모델은 **급성 간헐성 포르피린증(Acute Intermittent Porphyria)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Dexchlorpheniramine은 일반적으로 히스타민 H1 수용체 길항제로 알려져 있으며, 이는 알레르기성 비염 증상 완화의 근거가 됩니다.
+미국 FDA가 승인한 Dexchlorpheniramine Maleate 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “덱스클로르페니라민 말레산염은 항콜린성(건조) 및 진정 부작용이 있는 항히스타민제이다. 항히스타민제는 효과기 세포의 세포 수용체 부위에 대해 히스타민과 경쟁하는 것으로 보인다.” 영어 원문: "Dexchlorpheniramine maleate is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells." ([DailyMed: Corphena (dexchlorpheniramine maleate) prescribing information, BluCrest Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4694616b-4ef4-28a4-e063-6394a90ac5f6), 버전 2026-10-15; 확인일 2026-11-19). 다만 Dexchlorpheniramine은 일반적으로 히스타민 H1 수용체 길항제로 알려져 있으며, 이는 알레르기성 비염 증상 완화의 근거가 됩니다.
 
 급성 간헐성 포르피린증은 포르포빌리노겐 탈아미노효소 결핍으로 ALA/PBG가 축적되는 질환입니다. 이번에 확인된 자료에서는 H1 길항작용과 헴 생합성 또는 이 질환의 병태생리 사이의 연결고리를 찾을 수 없었습니다. 신경·내장 증상 조절이나 비만세포·염증 신호 조절 같은 가설은 가능하지만 어디까지나 추측입니다.
 
@@ -87,6 +87,19 @@ TxGNN 모델은 **급성 간헐성 포르피린증(Acute Intermittent Porphyria)
 - H1 길항작용과 AIP 병태생리 간의 기전적 연관성 검토
 - 급성 간헐성 포르피린증 환자에서의 포르피린증 유발 위험 등 안전성 검증
 - 관련 임상시험 및 문헌에 대한 추가 조사
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Corphena (dexchlorpheniramine maleate) prescribing information, BluCrest Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4694616b-4ef4-28a4-e063-6394a90ac5f6) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

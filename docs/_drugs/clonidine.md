@@ -55,7 +55,7 @@ TxGNN 모델은 **안면지생식기 증후군(faciodigitogenital syndrome)**에
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Clonidine은 알파-2 아드레날린 작용을 통해 중추 교감신경 출력을 낮추는 약물로 알려져 있습니다.
+미국 FDA가 승인한 Clonidine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “클로니딘은 뇌간의 알파-아드레날린 수용체를 자극한다. 이 작용으로 중추신경계로부터의 교감신경 유출이 감소하고, 말초 저항, 신혈관 저항, 심박수 및 혈압이 감소한다.” 영어 원문: "Clonidine stimulates alpha-adrenoreceptors in the brain stem. This action results in reduced sympathetic outflow from the central nervous system and in decreases in peripheral resistance, renal vascular resistance, heart rate, and blood pressure." ([DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd), 버전 2026-08-12; 확인일 2026-11-19). Clonidine은 알파-2 아드레날린 작용을 통해 중추 교감신경 출력을 낮추는 약물로 알려져 있습니다.
 
 그러나 안면지생식기 증후군은 드문 유전성 발달 질환이며, 알파-2 아드레날린 작용이 이 질환과 연결된다는 기전적 근거는 확인되지 않았습니다. 예측 점수는 매우 높지만 이는 모델 기반 예측일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다.
 
@@ -82,6 +82,19 @@ TxGNN 모델은 **안면지생식기 증후군(faciodigitogenital syndrome)**에
 - 안면지생식기 증후군과 알파-2 아드레날린 경로 사이의 기전적 연관성 검토
 - 이 질환에 대한 전임상 또는 임상 근거 확보
 - 허가사항의 경고·금기 정보 확보 및 작용 기전 데이터 보완
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Qlonilik (clonidine hydrochloride) prescribing information, CMP Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=826de1dc-378e-4c90-86d1-e33f7a4248cd) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

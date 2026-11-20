@@ -56,7 +56,7 @@ TxGNN 모델은 **혈소판 방출 장애(primary release disorder of platelets)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 약리 자료에 따르면 Romiplostim은 TPO 수용체(c-Mpl)에 작용하는 펩타이드 작용제로, 거핵구의 증식을 자극해 혈소판 생성을 늘립니다. ITP에서는 자가항체로 인한 혈소판 파괴와 생성 억제가 문제이므로, 혈소판 생성을 촉진하는 방식이 효과를 냅니다.
+미국 FDA가 승인한 Romiplostim 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Nplate는 내인성 TPO와 유사한 기전인 TPO 수용체에의 결합 및 활성화를 통해 혈소판 생성을 증가시킨다.” 영어 원문: "Nplate increases platelet production through binding and activation of the TPO receptor, a mechanism analogous to endogenous TPO." ([DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037), 버전 2026-06-23; 확인일 2026-11-19). 다만 약리 자료에 따르면 Romiplostim은 TPO 수용체(c-Mpl)에 작용하는 펩타이드 작용제로, 거핵구의 증식을 자극해 혈소판 생성을 늘립니다. ITP에서는 자가항체로 인한 혈소판 파괴와 생성 억제가 문제이므로, 혈소판 생성을 촉진하는 방식이 효과를 냅니다.
 
 반면 혈소판 방출 장애는 혈소판 수는 대체로 정상이고 분비 기능이 손상된 질환입니다. 혈소판 수를 늘려도 근본적인 분비 결함이 교정될 가능성은 낮아, 기전상 연결고리가 약합니다. 확인된 문헌 1편(PMID 25682608)도 승인된 적응증인 ITP에서 자가항체가 전혈소판 형성을 억제한다는 내용이어서, 이 예측을 직접 뒷받침하지 않습니다. TxGNN 점수는 매우 높지만 직접적인 임상 근거는 없습니다.
 
@@ -94,6 +94,19 @@ TxGNN 점수는 매우 높지만 임상시험과 직접 근거 문헌이 없고,
 - 작용 기전(MOA) 데이터 보완
 - 혈소판 방출 장애에서 혈소판 수 증가의 임상적 이점을 뒷받침하는 전임상 또는 임상 근거
 - 참고: 같은 약물의 다른 예측 후보 중 신생아 동종면역 혈소판감소증(FNAIT)은 L4 수준이며 후속 연구 질문 대상입니다. 구성성 혈소판감소증에 의한 출혈성 질환도 기전상 상대적으로 타당하므로, 우선순위 재검토 시 함께 고려할 수 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nplate (romiplostim) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c45f9a58-37c1-4f76-8e36-97d38c577037) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

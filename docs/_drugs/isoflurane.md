@@ -56,7 +56,7 @@ TxGNN 모델은 **프린츠메탈 협심증(Prinzmetal angina)**에 효과가 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Isoflurane은 휘발성 흡입 마취제이며, 관상동맥 확장 작용이 있는 것으로 알려져 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Isoflurane의 작용 기전(비공식 번역): “글리신 수용체(alpha-1/beta) 양성 조절제; GABA-A 수용체; 음이온 채널 양성 알로스테릭 조절제; 칼륨 채널 하위계열 K 구성원 10 개방제; 칼륨 채널 하위계열 K 구성원 18 개방제” 영어 원문: "Glycine receptor (alpha-1/beta) positive modulator; GABA-A receptor; anion channel positive allosteric modulator; Potassium channel subfamily K member 10 opener; Potassium channel subfamily K member 18 opener" ([ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Isoflurane은 휘발성 흡입 마취제이며, 관상동맥 확장 작용이 있는 것으로 알려져 있습니다.
 
 휘발성 마취제가 혈관 평활근의 칼슘 유입을 억제하여 관상동맥 연축을 줄일 가능성이 있다는 추정이 있습니다. 다만 이는 검증되지 않은 가설이며, Isoflurane이 혈관 연축성 협심증 치료와 연결된 근거는 확인되지 않았습니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델은 **프린츠메탈 협심증(Prinzmetal angina)**에 효과가 �
 **참고: 다른 예측 적응증**
 
 이번 데이터에는 다른 예측 적응증도 포함되어 있습니다. 순위 7위인 **편두통(migraine disorder, 점수 0.9906)**은 근거 수준 L4로, 흡입 마취제가 피질 확산성 억제(CSD)를 억제한다는 전임상 연구(PMID 8665587)와 난치성 편두통 지속상태에 대한 전신마취 증례보고 2건(PMID 26323741, 26363696)이 있습니다. 다만 임상시험은 없고 증거는 전임상과 증례에 한정되어 있어, 연구 과제 수준의 후보로 보는 것이 적절합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1256 (isoflurane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1256) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

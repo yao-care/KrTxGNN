@@ -54,7 +54,7 @@ Cetuximab은 항EGFR(상피성장인자수용체) 단클론항체로, 약리학 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 약리학 자료에 따르면 Cetuximab은 EGFR(유전자명 EGFR)에 결합하는 단클론항체입니다. EGFR 신호가 과도하게 활성화된 종양에서 이를 차단해 증식을 억제하는 것이 기본 원리입니다.
+미국 FDA가 승인한 Cetuximab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “표피성장인자수용체(EGFR, HER1, c-ErbB-1)는 EGFR, HER2, HER3 및 HER4를 포함하는 제I형 수용체 티로신 키나제 아과(subfamily)에 속하는 막관통 당단백질이다. EGFR은 피부 및 모낭을 포함한 많은 정상 상피 조직에서 항시적으로 발현된다. […] 세툭시맙은 정상 세포 및 종양 세포 모두의 EGFR에 특이적으로 결합하며, 표피성장인자(EGF) 및 형질전환성장인자-알파와 같은 기타 리간드의 결합을 경쟁적으로 억제한다.” 영어 원문: "The epidermal growth factor receptor (EGFR, HER1, c-ErbB-1) is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases including EGFR, HER2, HER3, and HER4. The EGFR is constitutively expressed in many normal epithelial tissues, including the skin and hair follicle. […] Cetuximab binds specifically to the EGFR on both normal and tumor cells, and competitively inhibits the binding of epidermal growth factor (EGF) and other ligands, such as transforming growth factor-alpha." ([DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9), 버전 2026-04-16; 확인일 2026-11-19). 약리학 자료에 따르면 Cetuximab은 EGFR(유전자명 EGFR)에 결합하는 단클론항체입니다. EGFR 신호가 과도하게 활성화된 종양에서 이를 차단해 증식을 억제하는 것이 기본 원리입니다.
 
 예측된 "관 또는 세관 증식"은 특정 질환이 아니라 조직학적으로 모호한 용어입니다. 검색된 문헌은 주로 췌장관선암(PDAC)에서 EGFR과 KRAS 신호를 다룹니다. 그러나 KRAS 변이가 있는 췌장 종양은 Cetuximab에 내성을 보일 것으로 예상되므로, 기전상 연결은 추측에 가깝습니다. 현재로서는 모델 예측 외에 이를 확인해 줄 근거가 없습니다.
 
@@ -121,6 +121,19 @@ Cetuximab은 항EGFR(상피성장인자수용체) 단클론항체로, 약리학 
 - 한국 허가증의 적응증 본문, 경고·금기 정보(식약처 허가사항 원문 확보)
 - 작용 기전(MOA) 데이터 보완
 - 같은 점수대의 다른 예측(예: 낭성 신생물, 전암성 신생물)에 관련 시험과 문헌이 더 많은지 별도 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

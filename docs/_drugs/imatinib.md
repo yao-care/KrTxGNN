@@ -58,7 +58,7 @@ TxGNN 모델은 **심장 섬유육종(heart fibrosarcoma)**에 효과가 있을 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Imatinib은 PDGFR, KIT, ABL 키나제를 억제하는 단일제 티로신 키나제 억제제입니다. 이 기전은 해당 키나제에 의존하는 종양에서 효능을 기대하게 합니다.
+미국 FDA가 승인한 Imatinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이매티닙 메실산염은 단백질-티로신 키나아제 억제제로서, CML에서 필라델피아 염색체 이상에 의해 생성되는 구성적 비정상 티로신 키나아제인 BCR-ABL 티로신 키나아제를 억제한다. 이매티닙은 BCR-ABL 양성 세포주뿐만 아니라 필라델피아 염색체 양성 만성 골수성 백혈병 환자에게서 채취한 신선한 백혈병 세포에서도 증식을 억제하고 세포자멸사를 유도한다.” 영어 원문: "Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML. Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia." ([DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b), 버전 2026-07-13; 확인일 2026-11-19). 알려진 정보에 따르면, Imatinib은 PDGFR, KIT, ABL 키나제를 억제하는 단일제 티로신 키나제 억제제입니다. 이 기전은 해당 키나제에 의존하는 종양에서 효능을 기대하게 합니다.
 
 섬유육종 계열 종양 중 COL1A1-PDGFB 융합을 가진 종양(DFSP 등)은 PDGFB/PDGFR 신호에 의존할 수 있어 기전상 그럴듯합니다. 다만 심장 특이적 데이터는 없으며, 확인된 문헌 1편은 imatinib의 새로운 적응증에 대한 일반 논평으로 "견고한 근거는 아니다"라는 취지입니다.
 
@@ -115,6 +115,19 @@ TxGNN 모델은 **심장 섬유육종(heart fibrosarcoma)**에 효과가 있을 
 - MFDS 허가사항의 적응증·경고·금기 확인 (안전성 선별 전 필수)
 - 작용 기전(MOA) 데이터 보강
 - 참고: 같은 모델 예측 중 **섬유모세포성 신생물(피부섬유육종 중심)**은 가이드라인과 다수 문헌이 있어 L3, "Proceed with Guardrails" 수준으로, 우선 검토 후보가 될 수 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

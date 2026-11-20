@@ -56,7 +56,7 @@ TxGNN 모델은 **자간전증(preeclampsia)**에 효과가 있을 수 있다고
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Atracurium은 신경근접합부의 니코틴성 아세틸콜린 수용체를 길항하는 비탈분극성 신경근 차단제이며, 호프만 소거(Hofmann elimination)로 분해됩니다.
+미국 FDA가 승인한 Atracurium Besylate 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “아트라쿠리움 베실산염은 비탈분극성 골격근 이완제이다. 비탈분극성 제제는 운동종판의 콜린성 수용체 부위에 경쟁적으로 결합하여 신경전달물질인 아세틸콜린의 작용을 길항한다.” 영어 원문: "Atracurium besylate is a nondepolarizing skeletal muscle relaxant. Nondepolarizing agents antagonize the neurotransmitter action of acetylcholine by binding competitively with cholinergic receptor sites on the motor end-plate." ([DailyMed: atracurium besylate prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efe90ee2-fe9e-421f-9e54-2961085d3b12), 버전 2024-12-04; 확인일 2026-11-19). 알려진 정보에 따르면 Atracurium은 신경근접합부의 니코틴성 아세틸콜린 수용체를 길항하는 비탈분극성 신경근 차단제이며, 호프만 소거(Hofmann elimination)로 분해됩니다.
 
 자간전증의 병태생리는 태반 기능 이상, 혈관내피 손상, 고혈압이 핵심이며, 신경근 차단과의 직접적인 기전적 연관성은 확립되어 있지 않습니다. 자간전증의 경련 예방에는 Atracurium이 아닌 황산마그네슘이 사용됩니다. 임신부에서 Atracurium은 마취 상황에 한정되어 사용됩니다.
 
@@ -88,6 +88,19 @@ TxGNN 모델은 **자간전증(preeclampsia)**에 효과가 있을 수 있다고
 - 기존 적응증과의 유사성 및 투여 경로 적합성 평가
 
 참고로, 같은 약물의 다른 예측 질환(뇌척수신경근 증후군인 마미증후군, 안검경련, 편두통, 과민성 대장 증후군 등)도 모두 근거 수준 L5로 임상시험·문헌이 없습니다. 특히 안검경련과 편두통은 TxGNN 모델(딥러닝)이 보툴리눔 독소 관련 질환 사이에서 학습한 유사성이 점수를 높였을 가능성이 있으나, 이는 생물학적 근거가 아니며 Atracurium은 작용 부위와 지속 시간이 달라 실현 가능성이 낮습니다. 혈전성 질환은 기전적 연관성이 확인되지 않았고, "obsolete neurogenic bladder"는 폐기된 온톨로지 용어여서 현행 용어로 재매핑이 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: atracurium besylate prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efe90ee2-fe9e-421f-9e54-2961085d3b12) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

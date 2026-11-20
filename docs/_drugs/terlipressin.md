@@ -56,7 +56,7 @@ Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Terlipressin은 V1 수용체를 선호하는 바소프레신 유사체로, 전신 혈관수축 작용을 합니다. 간경변 환자의 간신증후군과 문맥압 항진 관련 합병증에 쓰이는 약물입니다.
+미국 FDA가 승인한 Terlipressin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “테를리프레신은 바소프레신 V 2 수용체에 비해 바소프레신 V 1 수용체에 대해 2배의 선택성을 갖는 합성 바소프레신 유사체이다. 테를리프레신은 라이신-바소프레신의 전구약물로 작용할 뿐만 아니라 그 자체로도 약리학적 활성을 갖는다.” 영어 원문: "Terlipressin is a synthetic vasopressin analogue with twice the selectivity for vasopressin V 1 receptors versus V 2 receptors. Terlipressin acts as both a prodrug for lysine-vasopressin, as well as having pharmacologic activity on its own." ([DailyMed: Terlivaz (terlipressin) prescribing information, Keenova Hospital Products Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a35b86c-f451-4fac-8499-43019e4da354), 버전 2026-10-23; 확인일 2026-11-19). 알려진 정보에 따르면 Terlipressin은 V1 수용체를 선호하는 바소프레신 유사체로, 전신 혈관수축 작용을 합니다. 간경변 환자의 간신증후군과 문맥압 항진 관련 합병증에 쓰이는 약물입니다.
 
 폐고혈압의 경우, 일부 소규모 연구에서 Terlipressin이 전신 혈관은 수축시키면서 폐혈관 저항은 낮추거나 유지하는 차별적 효과를 보였습니다. 간경변 환자에서 폐동맥압이 개선되었다는 보고(PMID 22893473, 21733953)와 신생아 지속성 폐고혈압에서 구조 요법으로 사용한 증례(PMID 32999121)가 있습니다. 다만 근거는 대부분 생리학적 관찰이고 간경변 환경에 치우쳐 있습니다.
 
@@ -81,7 +81,6 @@ Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입�
 | [19624374](https://pubmed.ncbi.nlm.nih.gov/19624374/) | 2009 | 증례 보고 | Paediatric Anaesthesia | 선천성 횡격막 탈장의 중증 폐고혈압에서 Terlipressin의 역할 |
 | [30971593](https://pubmed.ncbi.nlm.nih.gov/30971593/) | 2019 | 임상 연구 | Annals of Cardiac Anaesthesia | 폐고혈압 환자의 심장수술에서 밀리논 유발 저혈압에 Terlipressin과 노르에피네프린 비교 |
 | [34179513](https://pubmed.ncbi.nlm.nih.gov/34179513/) | 2021 | 체계적 문헌고찰 프로토콜 | BMJ Paediatrics Open | 미숙아에서 바소프레신·Terlipressin의 효능과 안전성 검토 계획 |
-
 
 ## 한국 시판 정보
 
@@ -110,6 +109,19 @@ Terlipressin은 한국에서 주사제로 시판 중인 혈관수축 약물입�
 - 상세한 약물 작용 기전(MOA) 데이터 보완
 - 폐고혈압에 대한 전향적 임상시험 설계 및 허혈성 사건·호흡부전 위험 평가
 - 폐고혈압 외 후보(녹내장 등)는 기전적 근거가 확보되기 전까지 우선순위에서 제외
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Terlivaz (terlipressin) prescribing information, Keenova Hospital Products Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a35b86c-f451-4fac-8499-43019e4da354) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **시미안 면역결핍 바이러스 감염(Simian Immunodefici
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 lamivudine은 핵산유사체 역전사효소 억제제(NRTI) 계열입니다. 이 계열은 HIV-1과 B형 간염 바이러스(HBV)의 역전사효소(중합효소)를 표적으로 합니다.
+미국 FDA가 승인한 Lamivudine 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “라미부딘은 항레트로바이러스제이다. […] 라미부딘은 합성 뉴클레오시드 유사체이다. 세포 내에서 라미부딘은 인산화되어 활성 5′-삼인산 대사체인 라미부딘 삼인산(3TC-TP)이 된다. 3TC-TP의 주된 작용 방식은 뉴클레오티드 유사체가 삽입된 후 DNA 사슬 종결을 통해 HIV-1 역전사효소(RT)를 억제하는 것이다.” 영어 원문: "Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8), 버전 2024-08-15; 확인일 2026-11-19). 알려진 정보에 따르면 lamivudine은 핵산유사체 역전사효소 억제제(NRTI) 계열입니다. 이 계열은 HIV-1과 B형 간염 바이러스(HBV)의 역전사효소(중합효소)를 표적으로 합니다.
 
 SIV는 HIV와 가까운 렌티바이러스로 역전사효소가 유사하므로, 기전상 활성은 충분히 가능합니다. 마카크 원숭이 연구에서 lamivudine이 포함된 병용요법이 SIV를 억제했고, HIV-1에서 보이는 내성 변이(M184V)가 SIV 역전사효소에서도 나타났습니다.
 
@@ -107,6 +107,19 @@ SIV 감염은 사람의 적응증이 아닌 동물 모델이며, 이 질환을 �
 - DrugBank 등에서 작용 기전(MOA) 데이터 확보
 - SIV를 사람 적응증이 아닌 전임상 모델로 보고, 실제 사람 대상 후보 적응증(예: HIV-1 관련)을 별도로 평가
 - 이 예측이 사람 대상 재창출 가설로 적합한지 재검토 (현재로서는 연구용 모델 근거로만 해석 가능)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

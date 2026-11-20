@@ -55,7 +55,7 @@ TxGNN 모델은 **골수성 백혈병(myeloid leukemia)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Mercaptopurine은 퓨린 항대사제입니다. 대사체인 티오구아닌 뉴클레오타이드가 DNA와 RNA에 삽입되고 퓨린 신생합성을 억제하므로, 빠르게 분열하는 골수성 아세포에 세포독성을 보일 수 있습니다.
+미국 FDA가 승인한 Mercaptopurine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “머캅토퓨린은 세포 내 수송 및 활성화를 거쳐 티오구아닌 뉴클레오티드(TGN)를 포함한 대사체를 형성하는 퓨린 유사체이다. TGN이 DNA 또는 RNA에 혼입되면 세포 주기 정지 및 세포 사멸이 초래된다.” 영어 원문: "Mercaptopurine is a purine analog that undergoes intracellular transport and activation to form metabolites including thioguanine nucleotides (TGNs). Incorporation of TGNs into DNA or RNA results in cell-cycle arrest and cell death." ([DailyMed: mercaptopurine prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a366cf3-91f0-4aa4-8f34-a7a27cad8f15), 버전 2026-07-22; 확인일 2026-11-19). 알려진 정보에 따르면 Mercaptopurine은 퓨린 항대사제입니다. 대사체인 티오구아닌 뉴클레오타이드가 DNA와 RNA에 삽입되고 퓨린 신생합성을 억제하므로, 빠르게 분열하는 골수성 아세포에 세포독성을 보일 수 있습니다.
 
 문헌상 Mercaptopurine은 급성 림프모구성 백혈병(ALL) 유지요법에 쓰입니다. 경구 6-MP와 메토트렉세이트 유지요법은 이식이 어려운 급성 골수성 백혈병(AML) 환자에서도 탐색되었습니다. 이 때문에 백혈병 계열 질환으로의 확장은 기전상 설명 가능합니다.
 
@@ -130,6 +130,19 @@ Mercaptopurine이 명시된 시험을 우선 나열했으며, 나머지는 약�
 - NCT06199557, NCT05506332 결과 확인 및 Mercaptopurine 단독 기여를 분리할 수 있는 비교 시험 근거 확보
 - 이식 비적격 AML 유지요법 관찰 연구의 효능 결과 정밀 검토
 - 골수억제 및 NUDT15/TPMT 검사를 포함한 안전성 모니터링 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: mercaptopurine prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a366cf3-91f0-4aa4-8f34-a7a27cad8f15) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

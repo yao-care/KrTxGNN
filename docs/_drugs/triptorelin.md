@@ -54,7 +54,7 @@ Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Triptorelin은 GnRH 작용제입니다. 지속 투여하면 뇌하수체 GnRH 수용체가 둔감화되어 LH/FSH와 성호르몬 분비가 억제됩니다.
+미국 FDA가 승인한 Triptorelin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “트립토렐린은 생식샘자극호르몬방출호르몬(GnRH)의 합성 데카펩타이드 작용제 유사체이다. 비교 시험관 내 연구에서 트립토렐린은 배양된 분산 랫드 뇌하수체 세포 단층으로부터의 황체형성호르몬 방출 자극에 있어 천연 GnRH보다 100배 더 활성이 높았으며, 뇌하수체 수용체 부위로부터 125 I-GnRH를 치환하는 데 있어 천연 GnRH보다 20배 더 활성이 높았다.” 영어 원문: "Triptorelin is a synthetic decapeptide agonist analog of gonadotropin releasing hormone (GnRH). Comparative in vitro studies showed that triptorelin was 100-fold more active than native GnRH in stimulating luteinizing hormone release from monolayers of dispersed rat pituitary cells in culture and 20-fold more active than native GnRH in displacing 125 I-GnRH from pituitary receptor sites." ([DailyMed: Trelstar (triptorelin pamoate) prescribing information, Verity Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b84d62-a369-a4b7-5c41-dd1f553a18f3), 버전 2026-06-30; 확인일 2026-11-19). 알려진 정보에 따르면 Triptorelin은 GnRH 작용제입니다. 지속 투여하면 뇌하수체 GnRH 수용체가 둔감화되어 LH/FSH와 성호르몬 분비가 억제됩니다.
 
 이 안드로겐 억제가 모발 성장에 영향을 줄 가능성은 이론적으로 생각해 볼 수 있습니다. 그러나 이는 추정일 뿐이며, 이 연결을 지지하는 임상 자료는 없습니다. 유일한 문헌은 테스토스테론 차단제(Triptorelin 포함)를 쓰던 트랜스젠더 여성에서 사이클로스포린이 다모증을 일으킨 사례입니다. 이 사례는 다모증이 다른 약물의 부작용으로 나타났음을 보여 줄 뿐, Triptorelin이 다모증을 치료한다는 근거가 아닙니다. 매우 높은 TxGNN 점수는 TxGNN 모델(딥러닝)에서 나온 값이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니고, 임상 근거로 뒷받침되지 않습니다.
 
@@ -90,7 +90,6 @@ Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내�
 
 ## 참고: 다른 예측 적응증
 
-
 - 완료된 Phase 3 시험이 NCT01278290, NCT04736602, NCT00564850, NCT00909844, NCT01467882, NCT05029622 등 6건입니다.
 - 3개월 제형과 6개월 제형의 효능이 확인되었습니다.
 - 다만 이는 이미 확립된 기존 용도에 가까워 엄밀한 의미의 재창출이 아닙니다.
@@ -110,6 +109,19 @@ Triptorelin은 GnRH(성선자극호르몬 분비호르몬) 작용제로, 국내�
 - 상세한 작용 기전 데이터 (MOA)
 - 안드로겐 억제와 다모증의 관련성을 보여 주는 전임상 또는 임상 근거
 - 근거가 충분한 성조숙증 등 다른 예측 적응증을 우선 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Trelstar (triptorelin pamoate) prescribing information, Verity Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b84d62-a369-a4b7-5c41-dd1f553a18f3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

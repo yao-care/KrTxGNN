@@ -55,7 +55,7 @@ TxGNN 모델은 **외음질 칸디다증(vulvovaginal candidiasis)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바에 따르면 ivermectin은 무척추동물의 글루탐산 의존성 염화물 채널에 작용하는 항기생충제입니다.
+미국 FDA가 승인한 Ivermectin 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “인간 간 마이크로솜 및 재조합 CYP450 효소를 이용한 시험관 내 연구에서 ivermectin은 주로 CYP3A4에 의해 대사되는 것으로 나타났다.” 영어 원문: "In vitro studies using human liver microsomes and recombinant CYP450 enzymes have shown that ivermectin is primarily metabolized by CYP3A4." ([DailyMed: Stromectol (ivermectin) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd), 버전 2024-09-20; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면 ivermectin은 무척추동물의 글루탐산 의존성 염화물 채널에 작용하는 항기생충제입니다.
 
 진균에는 이 채널이 없어 Candida에 대한 약리학적 연결고리가 확인되지 않습니다. 높은 예측 점수는 실제 약효보다는 항진균제와의 네트워크 근접성을 반영했을 가능성이 큽니다. 따라서 기전상 타당하다고 보기 어렵습니다.
 
@@ -107,6 +107,19 @@ TxGNN 모델은 **외음질 칸디다증(vulvovaginal candidiasis)**에 효과�
 - Candida에 대한 in vitro 항진균 활성 및 도달 가능 농도 검증
 - 외음질 칸디다증에 대한 전임상 또는 임상 근거 확보
 - 상호작용 병용약(특히 warfarin, clarithromycin 등) 관련 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Stromectol (ivermectin) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

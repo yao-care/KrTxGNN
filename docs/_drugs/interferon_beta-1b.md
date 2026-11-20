@@ -55,7 +55,7 @@ TxGNN 모델은 **모발세포 백혈병(hairy cell leukemia)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 이 때문에 Interferon beta-1b와 모발세포 백혈병 사이의 기전적 연결은 직접 분석하지 못했습니다.
+미국 FDA가 승인한 Interferon Beta-1B 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “다발성 경화증 환자에서 BETASERON(인터페론 베타-1b)의 작용기전은 알려져 있지 않다.” 영어 원문: "The mechanism of action of BETASERON (interferon beta-1b) in patients with multiple sclerosis is unknown." ([DailyMed: Betaseron (interferon beta-1b) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5), 버전 2026-03-03; 확인일 2026-11-19). 이 때문에 Interferon beta-1b와 모발세포 백혈병 사이의 기전적 연결은 직접 분석하지 못했습니다.
 
 다만 배경 지식으로는, 같은 인터페론 계열인 interferon alpha가 모발세포 백혈병의 오래된 치료제로 알려져 있습니다. 인터페론 계열이 가진 면역조절 및 항증식 작용이 이 예측의 근거가 될 수는 있습니다. 하지만 이는 계열 수준의 추정일 뿐입니다. Interferon beta-1b 자체에 대한 근거는 이번 자료에 없으므로 사용 전에 반드시 검증해야 합니다.
 
@@ -97,6 +97,19 @@ TxGNN 모델은 **모발세포 백혈병(hairy cell leukemia)**에 효과가 있
 - 모발세포 백혈병에서 interferon beta-1b 자체를 평가한 임상시험 및 문헌 조사. interferon alpha 근거를 beta-1b에 그대로 적용할 수 있는지 검증 필요
 - 허가 문서(PDF)에서 허가 적응증, 경고, 금기 정보 확인
 - 투여 경로와 제형의 적합성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Betaseron (interferon beta-1b) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -54,7 +54,7 @@ Bedaquiline은 한국에서 단일 성분 제제로 허가된 약물입니다. T
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 바에 따르면 bedaquiline의 표적은 마이코박테리아의 ATP 합성효소 소단위 c이며, 이는 검증된 항진균 표적이 아닙니다.
+미국 FDA가 승인한 Bedaquiline 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “베다퀼린은 디아릴퀴놀린계 항마이코박테리아 약물이다. […] SIRTURO는 디아릴퀴놀린계 항마이코박테리아 약물로, M. tuberculosis의 에너지 생성에 필수적인 효소인 마이코박테리아 ATP(아데노신 5'-삼인산) 합성효소의 소단위 c에 결합하여 이 효소를 억제한다.” 영어 원문: "Bedaquiline is a diarylquinoline antimycobacterial drug. […] SIRTURO is a diarylquinoline antimycobacterial drug that inhibits mycobacterial ATP (adenosine 5'- triphosphate) synthase, by binding to subunit c of the enzyme that is essential for the generation of energy in M. tuberculosis." ([DailyMed: Sirturo (bedaquiline fumarate) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1534c9ae-4948-4cf4-9f66-222a99db6d0e), 버전 2025-10-17; 확인일 2026-11-19). 알려진 바에 따르면 bedaquiline의 표적은 마이코박테리아의 ATP 합성효소 소단위 c이며, 이는 검증된 항진균 표적이 아닙니다.
 
 따라서 외음질 칸디다증에 적용할 수 있는 기전상 근거는 확립되어 있지 않습니다. 높은 예측 점수는 모델 내부의 연관 패턴에 따른 결과일 가능성이 크며, 임상적·문헌적 뒷받침은 없습니다.
 
@@ -90,6 +90,19 @@ Bedaquiline은 한국에서 단일 성분 제제로 허가된 약물입니다. T
 - 상세한 약물 작용 기전 데이터 (MOA)
 - 허가사항의 경고·금기 정보 확보
 - 주요 상호작용 약물에 대한 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sirturo (bedaquiline fumarate) prescribing information, Janssen Products, LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1534c9ae-4948-4cf4-9f66-222a99db6d0e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

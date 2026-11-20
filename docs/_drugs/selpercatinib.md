@@ -55,7 +55,7 @@ TxGNN 모델은 **폐동맥 고혈압(Pulmonary Hypertension)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Selpercatinib은 선택적 RET 키나아제 억제제이며, RET 융합 양성 폐암이나 수질성 갑상선암 같은 RET 변이 종양에 사용됩니다. 이번 데이터에서 확인되는 문헌도 이 영역에 집중되어 있습니다.
+미국 FDA가 승인한 Selpercatinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “셀퍼카티닙은 키나제 억제제이다. 셀퍼카티닙은 0.92 nM에서 67.8 nM 범위의 IC 50 값으로 야생형 RET 및 여러 돌연변이 RET 아이소폼과 VEGFR1 및 VEGFR3를 억제하였다. 다른 효소 분석에서 셀퍼카티닙은 임상적으로 도달 가능한 수준이지만 더 높은 농도에서 FGFR 1, 2 및 3도 억제하였다.” 영어 원문: "Selpercatinib is a kinase inhibitor. Selpercatinib inhibited wild-type RET and multiple mutated RET isoforms as well as VEGFR1 and VEGFR3 with IC 50 values ranging from 0.92 nM to 67.8 nM. In other enzyme assays, selpercatinib also inhibited FGFR 1, 2, and 3 at higher concentrations that were still clinically achievable." ([DailyMed: Retevmo (selpercatinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fa848ba-a59c-4144-9f52-64d090f4d828), 버전 2026-09-11; 확인일 2026-11-19). 알려진 정보에 따르면 Selpercatinib은 선택적 RET 키나아제 억제제이며, RET 융합 양성 폐암이나 수질성 갑상선암 같은 RET 변이 종양에 사용됩니다. 이번 데이터에서 확인되는 문헌도 이 영역에 집중되어 있습니다.
 
 RET 억제와 폐혈관 리모델링 사이의 직접적인 기전적 연결고리는 이번 데이터에서 확인되지 않습니다. 폐동맥 평활근 세포의 증식 신호와 관련된 키나아제 경로를 가정해 볼 수는 있으나, 이는 추측일 뿐 근거로 뒷받침되지 않습니다.
 
@@ -115,6 +115,19 @@ RET 억제와 폐혈관 리모델링 사이의 직접적인 기전적 연결고�
 - 혈압 상승 이상반응에 대한 안전성 평가
 
 **참고 (다른 예측 적응증):** 편두통(Migraine Disorder, 0.9917)과 뇌간 전조 편두통(Migraine with Brainstem Aura, 0.9905)도 임상시험과 문헌이 모두 없는 L5 단계이며, Hold로 평가되었습니다. 특히 뇌간 전조 편두통은 상위 편두통 노드와의 근접성이 점수에 반영되었을 가능성이 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Retevmo (selpercatinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fa848ba-a59c-4144-9f52-64d090f4d828) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

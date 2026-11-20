@@ -56,7 +56,7 @@ TxGNN 모델은 **말단중간형 이형성증, Hunter-Thompson형(acromesomelic
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 Ketoprofen은 COX-1/COX-2를 억제하여 프로스타글란딘 합성을 줄이는 소염진통제로 알려져 있으며, 한국 허가 적응증도 이 소염·진통 작용에 기반합니다.
+미국 FDA가 승인한 Ketoprofen 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “항염 모델에서 케토프로펜은 프로스타글란딘 및 류코트리엔 합성에 대한 억제 효과, 항브라디키닌 활성, 그리고 리소좀 막 안정화 작용을 갖는 것으로 나타났다. 그러나 그 작용 방식은 다른 비스테로이드성 소염진통제와 마찬가지로 완전히 밝혀지지 않았다.” 영어 원문: "In anti-inflammatory models ketoprofen has been shown to have inhibitory effects on prostaglandin and leukotriene synthesis, to have antibradykinin activity, as well as to have lysosomal membrane-stabilizing action. However, its mode of action, like that of other non-steroidal anti-inflammatory drugs, is not fully understood." ([DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d), 버전 2026-01-07; 확인일 2026-11-19). 일반적으로 Ketoprofen은 COX-1/COX-2를 억제하여 프로스타글란딘 합성을 줄이는 소염진통제로 알려져 있으며, 한국 허가 적응증도 이 소염·진통 작용에 기반합니다.
 
 예측된 질환은 CDMP1/GDF5 기능상실로 생기는 희귀 골격 이형성증으로, 뼈 성장 신호 이상이 본질입니다. COX 억제가 이 발달 결함을 교정할 기전적 근거는 확인되지 않습니다. 기껏해야 근골격계 통증에 대한 대증적 진통 효과를 기대할 수 있는 정도입니다. 높은 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -102,6 +102,19 @@ TxGNN 모델은 **말단중간형 이형성증, Hunter-Thompson형(acromesomelic
 - 예측 질환에 대한 전임상·임상 연구 또는 문헌 근거
 - 허가사항(경고·금기) 확인 및 안전성 검토
 - 현실적인 목표 설정: 질병 조절이 아닌 대증적 통증 완화(예: 이차성 관절 통증)로 가설을 한정하고, 이 경우 제형·투여 경로 적합성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

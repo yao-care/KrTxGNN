@@ -57,7 +57,7 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Prednisolone은 광범위한 항염 및 면역억제 작용을 가진 글루코코르티코이드이며, 염증성 피부질환에서의 사용이 허가되어 있어 기전상 원형탈모증에도 적용 가능할 수 있습니다.
+미국 FDA가 승인한 Prednisolone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “프레드니솔론은 주로 글루코코르티코이드 특성을 갖는 합성 부신피질 스테로이드 약물이다. 이러한 특성 중 일부는 내인성 글루코코르티코스테로이드의 생리적 작용을 재현하지만, 다른 일부는 부신 호르몬의 정상적인 기능을 반드시 반영하지는 않으며, 이 약물을 대량의 치료 용량으로 투여한 후에만 나타난다.” 영어 원문: "Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug." ([DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1), 버전 2025-06-03; 확인일 2026-11-19). 알려진 정보에 따르면 Prednisolone은 광범위한 항염 및 면역억제 작용을 가진 글루코코르티코이드이며, 염증성 피부질환에서의 사용이 허가되어 있어 기전상 원형탈모증에도 적용 가능할 수 있습니다.
 
 원형탈모증은 T세포가 매개하는 자가면역 질환으로, 모낭의 면역 특권이 붕괴되어 발생합니다. Prednisolone은 T세포 활성화와 염증성 사이토카인을 억제하므로 이 병리 기전을 직접 겨냥합니다. 문헌에서도 경구 pulse 스테로이드가 TNF-α 수치를 변화시켜 작용할 가능성이 제시되었습니다(PMID 30294905).
 
@@ -126,6 +126,19 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 | 10 | 특발성 스테로이드 감수성 신증후군 | L1 | Proceed with Guardrails | 이미 표준 치료인 적응증으로, 대부분의 검색 문헌은 스테로이드 저항성 질환 대상 |
 
 그 외 순위 5~9의 예측 질환은 근거가 없어 Hold로 판단되었습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

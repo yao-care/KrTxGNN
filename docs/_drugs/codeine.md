@@ -56,7 +56,7 @@ Codeine(코데인)은 오피오이드 계열 약물로, 한국에서 인산코�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 codeine은 mu-오피오이드 수용체 작용을 통해 진해 및 경도 진통 효과를 나타내는 약물입니다. 그러나 이것은 증상 완화에 해당하며, 비강 질환 자체를 치료하는 기전은 확인되지 않았습니다.
+미국 FDA가 승인한 Codeine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “코데인 황산염은 뮤-오피오이드 수용체에 비교적 선택적인 오피오이드 작용제이나, 모르핀보다 훨씬 약한 친화력을 갖는다. 코데인의 진통 특성은 모르핀으로의 전환에서 비롯되는 것으로 추정되어 왔으나, 정확한 진통 작용 기전은 아직 알려져 있지 않다.” 영어 원문: "Codeine sulfate is an opioid agonist relatively selective for the mu-opioid receptor, but with a much weaker affinity than morphine. The analgesic properties of codeine have been speculated to come from its conversion to morphine, although the exact mechanism of analgesic action remains unknown." ([DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293), 버전 2026-01-16; 확인일 2026-11-19). 알려진 정보에 따르면 codeine은 mu-오피오이드 수용체 작용을 통해 진해 및 경도 진통 효과를 나타내는 약물입니다. 그러나 이것은 증상 완화에 해당하며, 비강 질환 자체를 치료하는 기전은 확인되지 않았습니다.
 
 이번 데이터에서 비강 질환과 연결되는 유일한 문헌은 오피오이드(코데인과 아편 혼합물)가 포함된 이물 주위에 비석(rhinolith)이 형성된 증례입니다. 이는 치료 효과가 아니라 우발적·이상 사례에 가깝습니다. 따라서 TxGNN의 매우 높은 점수(0.9993)는 임상적·기전적 근거로 뒷받침되지 않습니다.
 
@@ -125,11 +125,12 @@ Codeine(코데인)은 오피오이드 계열 약물로, 한국에서 인산코�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-12 | 허가 건수: “전체 7건” → 단일제 7건, 전체 11건 | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: codeine sulfate prescribing information, Lannett Company, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5819bdf7-300e-45b8-8f3a-447b53656293) |
 
 <!-- review:end log -->
 

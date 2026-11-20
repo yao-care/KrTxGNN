@@ -55,7 +55,7 @@ TxGNN 모델은 **주의력결핍 과잉행동장애(ADHD)**에 효과가 있을
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 trihexyphenidyl은 M1 수용체 선호성의 중추 항콜린제로 알려져 있으며, 선조체의 콜린성-도파민성 균형을 조절한다는 점이 ADHD와의 가능한 연결고리로 거론됩니다.
+미국 FDA가 승인한 Trihexyphenidyl 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “트리헥시페니딜염산염은 치환 피페리딘 염인 3-(1-piperidyl)- 1-phenylcyclohexyl-1-propanol hydrochloride로, 부교감신경계에 직접적인 억제 효과를 나타낸다. 또한 평활근에 이완 효과를 가지며, 이는 근육 조직 자체에 직접적으로, 그리고 부교감신경계에 대한 억제 효과를 통해 간접적으로 발휘된다.” 영어 원문: "Trihexyphenidyl Hydrochloride is the substituted piperidine salt, 3-(1-piperidyl)- 1-phenylcyclohexyl-1-propanol hydrochloride, which exerts a direct inhibitory effect upon the parasympathetic nervous system. It also has a relaxing effect on smooth musculature; exerted both directly upon the muscle tissue itself and indirectly through an inhibitory effect upon the parasympathetic nervous system." ([DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af), 버전 2026-07-23; 확인일 2026-11-19). 일반적으로 trihexyphenidyl은 M1 수용체 선호성의 중추 항콜린제로 알려져 있으며, 선조체의 콜린성-도파민성 균형을 조절한다는 점이 ADHD와의 가능한 연결고리로 거론됩니다.
 
 그러나 이 연결은 가설 수준입니다. 검색된 유일한 문헌(PMID 21506147)은 근긴장이상을 동반한 일차성 틱 장애의 임상 사례군으로, ADHD 치료 근거가 아닙니다. 또한 항콜린제는 주의력과 기억력을 떨어뜨릴 수 있어 ADHD에서의 이득을 기전상 기대하기 어렵습니다. 매우 높은 예측 점수는 계산상의 예측일 뿐입니다.
 
@@ -116,6 +116,18 @@ ADHD를 직접 연구한 임상시험이나 문헌이 없고, 예측은 모델 �
 | 8 | 안외 이상 동반 또는 비동반 망막 이영양증 | 0.9954 | 증례 1건(PMID 7826714)은 비타민 E 결핍 사례로 직접 관련 없음 |
 | 9 | 척수염 | 0.9954 | 근거 없음 |
 | 10 | 샤르코-마리-투스병 1G형 | 0.9954 | 근거 없음 |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

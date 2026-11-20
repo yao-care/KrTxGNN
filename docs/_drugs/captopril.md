@@ -54,7 +54,7 @@ Captopril은 안지오텐신 전환효소(ACE)를 억제하는 약물입니다. 
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서용으로 수집한 데이터에는 상세한 작용 기전 정보가 없습니다. Captopril은 ACE 억제제로 알려져 있으며, ACE를 억제하면 안지오텐신 II 생성이 줄어 혈관 수축과 혈압 상승이 완화됩니다.
+미국 FDA가 승인한 Captopril 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “캅토프릴 정의 작용기전은 아직 완전히 규명되지 않았다. 고혈압 및 심부전에서의 유익한 효과는 주로 레닌-안지오텐신-알도스테론계의 억제에 기인하는 것으로 보인다.” 영어 원문: "The mechanism of action of captopril tablets have not yet been fully elucidated. Its beneficial effects in hypertension and heart failure appear to result primarily from suppression of the renin-angiotensin-aldosterone system." ([DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017), 버전 2026-11-11; 확인일 2026-11-19). Captopril은 ACE 억제제로 알려져 있으며, ACE를 억제하면 안지오텐신 II 생성이 줄어 혈관 수축과 혈압 상승이 완화됩니다.
 
 악성 고혈압과 그에 따른 신장 손상은 레닌-안지오텐신계(RAS)의 과활성과 관련이 깊습니다. 그래서 RAS를 차단하는 ACE 억제제가 기전상 적용될 가능성이 있습니다.
 
@@ -104,6 +104,19 @@ Captopril은 안지오텐신 전환효소(ACE)를 억제하는 약물입니다. 
 - 허가사항의 경고·금기 정보 확보 (현재 확인되지 않음)
 - 작용 기전(MOA) 상세 데이터 보완
 - 신기능 저하 환자에서의 안전성 및 모니터링 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

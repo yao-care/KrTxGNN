@@ -54,7 +54,7 @@ Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 tretinoin은 레티노이드 계열 약물로, 레티노산 수용체(RAR) 신호를 통해 세포 분화와 면역 반응에 관여할 수 있습니다.
+미국 FDA가 승인한 Tretinoin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “트레티노인은 배양 및 생체 내에서 APL 세포의 세포분화와 증식 감소를 유도한다. APL 환자에서 트레티노인 치료는 백혈병 클론에서 유래한 원시 전골수구의 초기 성숙을 일으키며, 이어서 완전관해(CR)에 도달한 환자에서는 골수와 말초혈액이 정상적인 다클론성 조혈세포로 재증식된다.” 영어 원문: "Tretinoin induces cytodifferentiation and decreased proliferation of APL cells in culture and in vivo. In APL patients, tretinoin treatment produces an initial maturation of the primitive promyelocytes derived from the leukemic clone, followed by a repopulation of the bone marrow and peripheral blood by normal, polyclonal hematopoietic cells in patients achieving complete remission (CR)." ([DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9), 버전 2026-08-20; 확인일 2026-11-19). 알려진 정보에 따르면 tretinoin은 레티노이드 계열 약물로, 레티노산 수용체(RAR) 신호를 통해 세포 분화와 면역 반응에 관여할 수 있습니다.
 
 이를 근거로 T세포 분화와 염증성 사이토카인에 영향을 주어 류마티스 질환에 작용할 가능성을 생각해 볼 수 있습니다. 다만 이는 이론적 추정일 뿐이며, 류마티스 결절증에 대한 직접적인 근거는 없습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 따라서 높은 점수만으로 효능이 입증되지는 않습니다.
 
@@ -117,6 +117,19 @@ TxGNN 예측 점수는 높지만(0.9984) 임상시험과 직접 관련 문헌이
 - 류마티스 결절증 및 관련 관절 질환에서 레티노이드의 효능을 다룬 전임상·임상 문헌 검색
 - 투여 경로 적합성 검토 (현재 허가 제형은 외용제와 경구 캡슐이며, 예측 질환에 적합한 경로는 미확인)
 - 소아 관절염 계열은 최기형성 및 골격 독성에 대한 별도 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: tretinoin prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c4ae9d9-c2a0-4995-a27a-e3f0f0284db9) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

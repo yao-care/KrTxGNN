@@ -54,7 +54,7 @@ Tamoxifen은 에스트로겐 수용체(ER)를 차단하는 항에스트로겐제
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이 보고서용으로 수집된 자료에 없습니다. 알려진 정보에 따르면 Tamoxifen은 선택적 에스트로겐 수용체 조절제(SERM)로, 유방 조직에서 ER 신호를 경쟁적으로 차단합니다. ER 양성 유방암에서 효능이 확립되어 있어, ER 양성 병변에는 기전상 적용 가능할 수 있습니다.
+미국 FDA가 승인한 Tamoxifen 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Tamoxifen은 에스트로겐 작용제/길항제이다. Tamoxifen은 에스트로겐 수용체 결합에 대해 에스트로겐과 경쟁하며, 이로 인해 유방 조직에서 에스트로겐 수용체 신호전달 의존성 성장이 감소할 수 있다. Tamoxifen은 마우스에 이종이식된 사람 유방암 세포주에 대해 항종양 활성을 나타내었다.” 영어 원문: "Tamoxifen is an estrogen agonist/antagonist. Tamoxifen competes with estrogen for binding to the estrogen receptor, which can result in a decrease in estrogen receptor signaling-dependent growth in breast tissue. Tamoxifen has demonstrated antitumor activity against human breast cancer cell lines xenografted in mice." ([DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02), 버전 2021-11-29; 확인일 2026-11-19). 알려진 정보에 따르면 Tamoxifen은 선택적 에스트로겐 수용체 조절제(SERM)로, 유방 조직에서 ER 신호를 경쟁적으로 차단합니다. ER 양성 유방암에서 효능이 확립되어 있어, ER 양성 병변에는 기전상 적용 가능할 수 있습니다.
 
 유방 파제트병은 대개 기저의 상피내암(DCIS)이나 침윤성 유방암과 동반되며, 이 종양 중 상당수가 호르몬 수용체 양성입니다. 따라서 ER 차단이라는 기전이 타당할 수 있습니다. 문헌에는 Tamoxifen에 반응한 증례도 있습니다. 광범위한 유두 파제트병에서 Tamoxifen 반응이 보고되었고, 호르몬 수용체 양성 전이성 유방외 파제트병 1례에서도 효과가 보고되었습니다.
 
@@ -131,6 +131,19 @@ Tamoxifen은 일반적인 세포독성 화학요법제가 아니라 내분비 �
 - ER/HER2 상태별 반응성 데이터
 - 허가사항의 경고·금기(혈전, 자궁내막암 위험 등)와 약물 상호작용(CYP2D6 관련 포함) 확인
 - 작용 기전 상세 데이터
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

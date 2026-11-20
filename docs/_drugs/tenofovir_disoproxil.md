@@ -56,7 +56,7 @@ TxGNN 모델은 **원숭이면역결핍바이러스 감염(Simian immunodeficien
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, tenofovir disoproxil은 뉴클레오티드 역전사효소 억제제 계열입니다. 세포 내에서 tenofovir diphosphate로 전환된 후 레트로바이러스의 역전사효소를 억제하고 바이러스 DNA 사슬 신장을 종결시킵니다.
+미국 FDA가 승인한 Tenofovir Disoproxil 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “테노포비르 디소프록실 푸마르산염은 항바이러스제이다. […] 테노포비르 디소프록실 푸마르산염은 아데노신 일인산의 비고리형 뉴클레오시드 포스포네이트 디에스테르 유사체이다. 테노포비르 디소프록실 푸마르산염은 테노포비르로 전환되기 위해 먼저 디에스테르 가수분해가 필요하며, 이후 세포 효소에 의한 인산화를 거쳐 필수 사슬 종결자인 테노포비르 이인산(TFV-DP)을 형성한다.” 영어 원문: "Tenofovir disoproxil fumarate is an antiviral drug. […] Tenofovir disoproxil fumarate is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate. Tenofovir disoproxil fumarate requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate (TFV-DP), an obligate chain terminator." ([DailyMed: Viread (tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33fd6418-fbdc-42ca-a50d-ce2a476a5418), 버전 2025-02-18; 확인일 2026-11-19). 알려진 정보에 따르면, tenofovir disoproxil은 뉴클레오티드 역전사효소 억제제 계열입니다. 세포 내에서 tenofovir diphosphate로 전환된 후 레트로바이러스의 역전사효소를 억제하고 바이러스 DNA 사슬 신장을 종결시킵니다.
 
 SIV와 SHIV는 HIV와 매우 가까운 렌티바이러스로, 동일한 효소를 사용합니다. 따라서 기전상 직접적인 연관성이 있습니다. 문헌 대부분은 마카크 원숭이를 이용한 노출 전 예방요법(PrEP) 및 항레트로바이러스 치료 연구로, HIV의 전임상 모델에 해당합니다.
 
@@ -117,6 +117,19 @@ SIV와 SHIV는 HIV와 매우 가까운 렌티바이러스로, 동일한 효소�
 - 고양이 후천성면역결핍증(feline AIDS): 문헌 1편(수의학 전임상)뿐이며 인체 적응증이 아니어서 Hold입니다.
 - 운동실조 보행·언어 소실을 동반한 신경발달장애: 예측 점수(0.9995)만 있고 임상시험과 문헌이 없으며 기전적 연관성도 보이지 않아 Hold입니다.
 - 폐기된 가족성 복합 고지혈증: 질환 용어가 폐기(obsolete)된 것으로 표시되어 예측 신뢰도가 낮고 근거가 없어 Hold입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Viread (tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33fd6418-fbdc-42ca-a50d-ce2a476a5418) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

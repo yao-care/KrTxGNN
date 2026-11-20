@@ -56,7 +56,7 @@ TxGNN 모델은 **식도 정맥류 출혈(esophageal varices with bleeding)**에
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 hydroxocobalamin은 비타민 B12의 한 형태로, 메티오닌 합성효소와 메틸말로닐-CoA 뮤타제 경로의 보조인자로 작용합니다. 다만 이 기전이 문맥압 항진, 정맥류 벽 긴장도, 지혈과 연결된다는 근거는 확인되지 않았습니다.
+미국 FDA가 승인한 Hydroxocobalamin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “시안화물은 극도로 독성이 강한 독극물이다. 신속하고 적절한 치료가 이루어지지 않으면, 고용량의 시안화물에 노출될 경우 시토크롬 산화효소 억제로 인한 세포 호흡 정지로 수 분 내에 사망에 이를 수 있다. […] 각 히드록소코발라민 분자는 3가 코발트 이온에 연결된 히드록소 리간드를 시안화물 이온으로 치환함으로써 시안화물 이온 1개와 결합하여 시아노코발라민을 형성하며, 이는 이후 소변으로 배설된다.” 영어 원문: "Cyanide is an extremely toxic poison. In the absence of rapid and adequate treatment, exposure to a high dose of cyanide can result in death within minutes due to the inhibition of cytochrome oxidase resulting in arrest of cellular respiration. […] Each hydroxocobalamin molecule can bind one cyanide ion by substituting it for the hydroxo ligand linked to the trivalent cobalt ion, to form cyanocobalamin, which is then excreted in the urine." ([DailyMed: Cyanokit (hydroxocobalamin) prescribing information, BTG INTERNATIONAL INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d56fcc8d-bd64-46ab-b0c0-2124bd745a6b), 버전 2023-04-27; 확인일 2026-11-19). 알려진 정보에 따르면 hydroxocobalamin은 비타민 B12의 한 형태로, 메티오닌 합성효소와 메틸말로닐-CoA 뮤타제 경로의 보조인자로 작용합니다. 다만 이 기전이 문맥압 항진, 정맥류 벽 긴장도, 지혈과 연결된다는 근거는 확인되지 않았습니다.
 
 이론적으로는 hydroxocobalamin이 一酸化窒素(nitric oxide)를 제거하는 성질이 있어 내장 혈관 확장에 영향을 줄 가능성이 있습니다. 그러나 이는 추측일 뿐이며, 이번에 정리된 데이터에서는 이를 뒷받침하는 근거가 없습니다. 따라서 이번 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 실제 치료 신호라기보다 모델이 관련 질환 간에 학습한 유사성을 반영한 결과일 수 있고 생물학적 근거는 아닙니다.
 
@@ -104,6 +104,19 @@ TxGNN 예측 점수(0.9923) 외에는 임상시험, 문헌, 작용 기전 등 �
 - hydroxocobalamin(질소산화물 제거 작용)과 문맥압 항진 사이의 생물학적 연관성에 대한 전임상 또는 문헌 근거 탐색
 - 출혈 유무에 따른 두 질환 예측이 구분되는지 모델 결과 재검증
 - 고혈압 금기 연결의 임상적 의미 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cyanokit (hydroxocobalamin) prescribing information, BTG INTERNATIONAL INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d56fcc8d-bd64-46ab-b0c0-2124bd745a6b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

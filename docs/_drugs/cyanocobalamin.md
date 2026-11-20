@@ -55,7 +55,7 @@ TxGNN 모델은 **비오틴 대사 질환(Biotin Metabolic Disease)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 cyanocobalamin은 수용성 비타민 B12 제제로, 단일 성분 제제와 복합 영양 제제 형태로 널리 쓰이고 있습니다.
+미국 FDA가 승인한 Cyanocobalamin 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “임상약리학 비타민 B12는 성장, 세포 증식, 조혈, 그리고 핵단백질 및 미엘린 합성에 필수적이다.” 영어 원문: "CLINICAL PHAMRACOLOGY Vitamin B12 is essential to growth, cell reproduction, hematopoiesis, and nucleoprotein and myelin synthesis." ([DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d), 버전 2025-12-08; 확인일 2026-11-19). 알려진 정보에 따르면 cyanocobalamin은 수용성 비타민 B12 제제로, 단일 성분 제제와 복합 영양 제제 형태로 널리 쓰이고 있습니다.
 
 다만 B12 의존 효소(methylmalonyl-CoA mutase, methionine synthase)는 비오틴 의존 카르복실화 효소(propionyl-CoA carboxylase 등)와 프로피온산·원탄소 대사 경로에서 인접해 있습니다. 이 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 간에 학습한 유사성을 반영했을 가능성이 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -102,6 +102,19 @@ TxGNN 모델은 **비오틴 대사 질환(Biotin Metabolic Disease)**에 효과�
 - 허가사항(경고·금기) 확인: 현재 허가 문서 내용이 확보되지 않아 안전성 검토가 불가능함
 - 허가 적응증 원문 확인: 다수 허가증의 적응증이 링크로만 제공되어 내용 확인이 필요함
 - 투여 경로 적합성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **감염 후 혈관염(postinfectious vasculitis)**에 효과가
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 약리 정보상 Fluorometholone은 글루코코르티코이드 수용체(NR3C1)에 결합하는 합성 스테로이드이며, 항염증 작용을 가집니다.
+미국 FDA가 승인한 Fluorometholone 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “코르티코스테로이드는 다양한 유발 인자에 대한 염증 반응을 억제하며, 아마도 치유를 지연시키거나 늦출 것이다. 코르티코스테로이드는 염증과 관련된 부종, 피브린 침착, 모세혈관 확장, 백혈구 이동, 모세혈관 증식, 섬유모세포 증식, 콜라겐 침착 및 흉터 형성을 억제한다. […] 스테로이드 반응자로 확인된 환자를 대상으로 한 임상시험에서 플루오로메톨론은 덱사메타손인산염보다 안압 상승을 일으키기까지의 평균 시간이 유의하게 더 길었으나, 소수의 환자에서는 1주 이내에 유의한 안압 상승이 나타났다.” 영어 원문: "Corticosteroids inhibit the inflammatory response to a variety of inciting agents and probably delay or slow healing. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation. […] In clinical studies of documented steroid-responders, fluorometholone demonstrated a significantly longer average time to produce a rise in intraocular pressure than dexamethasone phosphate; however, in a small percentage of individuals, a significant rise in intraocular pressure occurred within one week." ([DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01), 버전 2026-08-12; 확인일 2026-11-19). 다만 약리 정보상 Fluorometholone은 글루코코르티코이드 수용체(NR3C1)에 결합하는 합성 스테로이드이며, 항염증 작용을 가집니다.
 
 글루코코르티코이드는 면역 매개 혈관염을 억제할 수 있으나, 보통 전신 투여가 필요합니다. Fluorometholone은 전신 노출이 제한적인 국소 안과용 제제이므로 전신성 혈관염과의 기전적 연결은 약합니다. 임상 근거 없이 모델 예측만 있는 상태입니다.
 
@@ -88,6 +88,19 @@ TxGNN 모델은 **감염 후 혈관염(postinfectious vasculitis)**에 효과가
 - 감염 후 혈관염에서 글루코코르티코이드의 효과를 직접 평가한 임상 또는 전임상 근거
 - 투여 경로 적합성 평가(국소 안과용 vs 전신 투여)
 - 허가사항(경고·금기) 및 상세 작용 기전 데이터 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Fluorometholone Ophthalmic Suspension (fluorometholone) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e7988a3b-e432-4d42-a8d2-63ca017e6a01) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,10 +55,9 @@ TxGNN 모델은 **말단중간이형성증, Hunter-Thompson형(acromesomelic dys
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Meloxicam은 COX-2 선호적 NSAID로, 프로스타글란딘 매개 염증과 통증을 줄이는 약물입니다.
+미국 FDA가 승인한 Meloxicam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “멜록시캄은 진통, 항염 및 해열 특성을 갖는다. Zybic™의 작용 기전은 다른 NSAID와 마찬가지로 완전히 밝혀지지 않았으나, 사이클로옥시게나제(COX-1 및 COX-2)의 억제를 포함한다.” 영어 원문: "Meloxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Zybic™, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec), 버전 2026-09-25; 확인일 2026-11-19). 알려진 정보에 따르면 Meloxicam은 COX-2 선호적 NSAID로, 프로스타글란딘 매개 염증과 통증을 줄이는 약물입니다.
 
 헌터-톰슨형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로 골격 발달이 저해되는 희귀 유전질환입니다. Meloxicam은 GDF5/BMP 신호전달이나 연골 형성과 알려진 연관성이 없습니다. 따라서 높은 예측 점수는 TxGNN 모델(딥러닝)에서 나온 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
-
 
 ## 임상시험 근거
 
@@ -106,6 +105,19 @@ TxGNN 모델은 **말단중간이형성증, Hunter-Thompson형(acromesomelic dys
 - DrugBank 등에서 Meloxicam의 작용 기전(MOA) 데이터 확보
 - 생물학적으로 타당한 6위(척추관절병증)와 8위(연소성 특발성 관절염) 후보에 대해 NSAID 계열 근거(임상시험, 체계적 문헌고찰)를 별도로 수집하여 재평가
 - 골격 이형성증 계열 예측(1~5위, 10위)은 네트워크 근접성 인공물 가능성이 크므로 우선순위에서 제외 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

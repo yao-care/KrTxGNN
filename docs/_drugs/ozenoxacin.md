@@ -55,7 +55,7 @@ TxGNN 모델은 **말라리아(Malaria)**에 효과가 있을 수 있다고 예�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 DrugBank에 확인되지 않았습니다. 일반적으로 ozenoxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 비불소화 퀴놀론 계열 국소 항균제로 알려져 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Ozenoxacin의 작용 기전(비공식 번역): “DNA 자이레이스 억제제; 토포이소머라제 IV 억제제; DNA 토포이소머라제 IV 억제제” 영어 원문: "DNA gyrase inhibitor; Topoisomerase IV inhibitor; DNA topoisomerase IV inhibitor" ([ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 ozenoxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 비불소화 퀴놀론 계열 국소 항균제로 알려져 있습니다.
 
 말라리아 원충(Plasmodium)에는 아피코플라스트(apicoplast)에 위치한 DNA gyrase가 있어, 다른 퀴놀론 계열처럼 이론적인 연결고리는 존재합니다.
 
@@ -91,6 +91,19 @@ TxGNN이 예측한 다른 후보도 모두 L5이며 Hold 판정입니다. 이 �
 - Plasmodium에 대한 시험관 내 활성 및 약동학(전신 노출) 데이터
 - 투여 경로 적합성 평가 (현재 국소 크림제만 허가)
 - 리슈마니아증 등 피부 관련 질환에 대한 전임상 연구 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

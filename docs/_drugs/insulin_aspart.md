@@ -54,7 +54,7 @@ description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (au
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 인슐린 아스파트는 인슐린 계열 약물이며 자가면역 난소염에 대해 알려진 직접적인 기전 연결고리는 확인되지 않았습니다.
+미국 FDA가 승인한 Insulin Aspart 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “NOVOLOG MIX 70/30을 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린과 그 유사체는 특히 골격근 및 지방에 의한 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.” 영어 원문: "The primary activity of insulin, including NOVOLOG MIX 70/30 is the regulation of glucose metabolism. Insulin and its analog lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85), 버전 2026-05-18; 확인일 2026-11-19). 인슐린 아스파트는 인슐린 계열 약물이며 자가면역 난소염에 대해 알려진 직접적인 기전 연결고리는 확인되지 않았습니다.
 
 이 예측은 자가면역 및 내분비 질환과의 연관성에서 비롯된 것으로 보이며, 인슐린이 난소의 자가면역 염증 과정에 작용한다는 근거는 없습니다. 따라서 기전상 타당성은 현재 뒷받침되지 않습니다.
 
@@ -94,6 +94,19 @@ description: "Insulin Aspart: 예측 신규 적응증 자가면역 난소염 (au
 - 작용 기전(MOA) 데이터 보완
 - 인슐린과 난소 자가면역 병리 사이의 기전적 연관성을 검토하는 전임상 또는 관찰 연구
 - 자가면역 난소염을 직접 다룬 임상시험 및 문헌 탐색
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Novolog Mix 70/30 (insulin aspart) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66da64f7-ca50-47d2-95fa-de37005eef85) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **미성숙 백내장(Immature Cataract)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 ranibizumab은 VEGF-A를 차단하는 항체 절편으로, 안과 영역의 비정상 혈관신생과 혈관 누출을 줄이는 데 사용됩니다.
+미국 FDA가 승인한 Ranibizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “라니비주맙 제품은 생물학적 활성을 갖는 절단형 분자인 VEGF110을 포함한 VEGF-A 활성형의 수용체 결합 부위에 결합한다. VEGF-A는 안구 혈관신생 및 혈관 폐쇄 모델에서 신생혈관 형성과 누출을 유발하는 것으로 확인되었으며, 신생혈관성 AMD, mCNV, DR, DME 및 RVO 후 황반부종의 병태생리에 기여하는 것으로 생각된다.” 영어 원문: "Ranibizumab products bind to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF110. VEGF-A has been shown to cause neovascularization and leakage in models of ocular angiogenesis and vascular occlusion and is thought to contribute to pathophysiology of neovascular AMD, mCNV, DR, DME and macular edema following RVO." ([DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a), 버전 2026-11-05; 확인일 2026-11-19). 알려진 정보에 따르면 ranibizumab은 VEGF-A를 차단하는 항체 절편으로, 안과 영역의 비정상 혈관신생과 혈관 누출을 줄이는 데 사용됩니다.
 
 그러나 백내장은 수정체 혼탁이 본질이며, 노화에 따른 산화 변화나 결정체(crystallin) 응집, 칼슘 대사 이상 등이 주된 원인입니다. VEGF 차단이 이 과정에 관여한다는 근거는 확립되어 있지 않습니다. 오히려 백내장은 유리체강내 주사 후 발생할 수 있는 이상반응으로 보고되는 경우가 더 많습니다.
 
@@ -113,6 +113,19 @@ TxGNN 모델은 **미성숙 백내장(Immature Cataract)**에 효과가 있을 �
 - DrugBank 등에서 작용 기전 데이터 보완
 - 백내장 치료 가능성을 뒷받침하는 전임상 연구 또는 기전 연구
 - 이 질환을 직접 대상으로 한 임상시험 또는 문헌 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nufymco (ranibizumab-leyk) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=05ed75bc-ae21-480b-9be4-cbc51689dd8a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

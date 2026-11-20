@@ -60,7 +60,7 @@ Azathioprine은 퓨린 계열 항대사 면역억제제입니다. TxGNN 모델�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Azathioprine은 일반적으로 6-mercaptopurine으로 전환되어 퓨린 합성과 림프구 증식을 억제하는 면역억제제로 알려져 있으며, 이는 면역 매개 염증 질환에서 효과를 내는 기전입니다.
+ChEMBL(EMBL-EBI)에 등록된 Azathioprine의 작용 기전(비공식 번역): “아미도포스포리보실전달효소 억제제; DNA 억제제” 영어 원문: "Amidophosphoribosyltransferase inhibitor; DNA inhibitor" ([ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542), CC BY-SA 3.0; 확인일 2026-11-19). Azathioprine은 일반적으로 6-mercaptopurine으로 전환되어 퓨린 합성과 림프구 증식을 억제하는 면역억제제로 알려져 있으며, 이는 면역 매개 염증 질환에서 효과를 내는 기전입니다.
 
 이번 예측 질환은 안구와 골격의 발생 이상을 보이는 희귀 증후군입니다. 면역억제나 항대사 작용이 구조적 발달 장애를 교정할 근거는 확인되지 않았습니다. 기존 적응증과의 연관성도, 기전상 적용 가능한 이유도 찾을 수 없습니다. 따라서 매우 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다.
 
@@ -111,11 +111,12 @@ Azathioprine은 퓨린 계열 항대사 면역억제제입니다. TxGNN 모델�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-10-31 | 삭제: “면역억제제로, 한국에서는 시판되지 않습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
 
 <!-- review:end log -->
 

@@ -57,7 +57,7 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없어 기전에 근거한 분석에는 한계가 있습니다.
+미국 FDA가 승인한 Amantadine Sulfate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “파킨슨병 환자의 이상운동증 치료에서, 또는 '오프(off)' 삽화를 경험하는 파킨슨병 환자에서 레보도파/카르비도파의 보조요법으로서 아만타딘이 효능을 나타내는 기전은 알려져 있지 않다. 아만타딘은 NMDA 수용체의 약한 비경쟁적 길항제이다.” 영어 원문: "The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson's disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson's disease experiencing 'off' episodes is unknown. Amantadine is a weak uncompetitive antagonist of the NMDA receptor." ([DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28), 버전 2026-10-05; 확인일 2026-11-19).
 
 다만 아만타딘이 NMDA 수용체 길항 작용을 가진다는 점에서 가설을 세워 볼 수 있습니다. 이 작용은 면역 매개성 뇌염과 간질성 뇌병증에서 글루타메이트 매개 흥분독성을 줄일 수 있다는 추론입니다. 그러나 이 가설을 뒷받침하는 임상시험이나 문헌은 이번에 수집된 자료에 없습니다.
 
@@ -101,12 +101,13 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “현재 한국 내 허가 기록이 없는 약물로” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-05 | 삭제: “현재 AMANTADINE SULFATE의 한국 허가 기록이 없습니다 (총 0건)” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28) |
 
 <!-- review:end log -->
 

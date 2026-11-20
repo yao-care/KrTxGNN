@@ -56,7 +56,7 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Lorlatinib은 뇌 투과성이 있는 3세대 ALK/ROS1 티로신 키나제 억제제이며, ALK 양성 비소세포폐암에서 효능이 입증되어 있습니다.
+미국 FDA가 승인한 Lorlatinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “로라티닙은 ALK 및 ROS1뿐만 아니라 TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2 및 ACK에 대해 시험관 내 활성을 갖는 키나제 억제제이다. 로라티닙은 크리조티닙 및 기타 ALK 억제제 투여 중 질병 진행 시점에 종양에서 검출된 일부 변이를 포함하여 ALK 효소의 여러 변이형에 대해 시험관 내 활성을 나타냈다.” 영어 원문: "Lorlatinib is a kinase inhibitor with in vitro activity against ALK and ROS1 as well as TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2, and ACK. Lorlatinib demonstrated in vitro activity against multiple mutant forms of the ALK enzyme, including some mutations detected in tumors at the time of disease progression on crizotinib and other ALK inhibitors." ([DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d), 버전 2026-06-26; 확인일 2026-11-19). 알려진 정보에 따르면 Lorlatinib은 뇌 투과성이 있는 3세대 ALK/ROS1 티로신 키나제 억제제이며, ALK 양성 비소세포폐암에서 효능이 입증되어 있습니다.
 
 그러나 치은 섬유종증은 ALK나 ROS1 신호 전달에 의해 유발되는 질환으로 알려져 있지 않습니다. 기존 적응증과 신규 적응증 사이에서 확인된 기전적 연결고리는 없습니다. 높은 TxGNN 점수(0.9981)는 TxGNN 모델(딥러닝)이 산출한 값으로, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아니며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다.
 
@@ -91,6 +91,19 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 - 치은 섬유종증의 병태생리와 ALK/ROS1 경로의 연관성에 대한 전임상 근거
 - 이 질환에 대한 문헌 및 임상시험 재검색
 - 더 근거가 있는 후보(예: ALK 의존 종양) 우선 검토 고려
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lorbrena (lorlatinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2b34d62d-e02a-4af3-bc0d-1571dd4ee76d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

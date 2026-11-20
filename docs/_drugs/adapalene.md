@@ -54,7 +54,7 @@ Adapalene은 국소 도포용 3세대 레티노이드로, 원래 여드름(심�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Adapalene은 RAR-beta/gamma에 선택적으로 결합하는 국소용 레티노이드이며, 여드름 치료에 쓰입니다.
+미국 FDA가 승인한 Adapalene 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아다팔렌은 특정 레티노산 핵수용체에 결합하지만 세포질 수용체 단백질에는 결합하지 않는다. 생화학적 및 약리학적 프로파일 연구에서 아다팔렌은 세포 분화, 각질화 및 염증 과정의 조절제인 것으로 입증되었다.” 영어 원문: "Adapalene binds to specific retinoic acid nuclear receptors but does not bind to cytosolic receptor protein. Biochemical and pharmacological profile studies have demonstrated that adapalene is a modulator of cellular differentiation, keratinization, and inflammatory processes." ([DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec), 버전 2023-12-27; 확인일 2026-11-19). 알려진 정보에 따르면 Adapalene은 RAR-beta/gamma에 선택적으로 결합하는 국소용 레티노이드이며, 여드름 치료에 쓰입니다.
 
 레티노이드와 아연 항상성 사이에는 비타민 A-아연 상호작용, 아연 의존성 금속단백분해효소 및 레티놀 결합 단백질에 대한 영향 등 느슨한 생물학적 연관만 있습니다. Adapalene이 혈장 아연을 낮추는 직접적인 경로는 확립된 바 없습니다.
 
@@ -91,6 +91,19 @@ Adapalene은 국소 도포용 3세대 레티노이드로, 원래 여드름(심�
 - DrugBank 등에서 상세 작용 기전 데이터 확보
 - 레티노이드와 아연 대사의 연결을 보여주는 전임상 또는 관찰 연구 근거
 - 국소 도포 시 전신 노출 수준과 투여 경로 적합성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

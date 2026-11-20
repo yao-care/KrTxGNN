@@ -55,7 +55,7 @@ TxGNN 모델은 **급성 림프모구성 백혈병(acute lymphoblastic leukemia)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Sotatercept는 TGF-beta 슈퍼패밀리에 속하는 액티빈과 성장분화인자(GDF)를 포획(trap)하는 액티빈 수용체 IIA-Fc 융합 단백질입니다. 이 경로는 조혈 조절과 관련이 있다고 알려져 있습니다.
+미국 FDA가 승인한 Sotatercept 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “재조합 액티빈 수용체 IIA형-Fc(ActRIIA-Fc) 융합 단백질인 소타터셉트-csrk는 액티빈 A 및 기타 TGF- β 상과 리간드에 결합하는 액티빈 신호전달 억제제이다. 그 결과, 소타터셉트-csrk는 증식 촉진(ActRIIA/Smad2/3 매개) 신호전달과 증식 억제(BMPRII/Smad1/5/8 매개) 신호전달 간의 균형을 개선하여 혈관 증식을 조절한다.” 영어 원문: "Sotatercept-csrk, a recombinant activin receptor type IIA-Fc (ActRIIA-Fc) fusion protein, is an activin signaling inhibitor that binds to activin A and other TGF- β superfamily ligands. As a result, sotatercept-csrk improves the balance between the pro-proliferative (ActRIIA/Smad2/3-mediated) and anti-proliferative (BMPRII/Smad1/5/8-mediated) signaling to modulate vascular proliferation." ([DailyMed: Winrevair (sotatercept-csrk) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7), 버전 2026-09-21; 확인일 2026-11-19). 알려진 정보에 따르면 Sotatercept는 TGF-beta 슈퍼패밀리에 속하는 액티빈과 성장분화인자(GDF)를 포획(trap)하는 액티빈 수용체 IIA-Fc 융합 단백질입니다. 이 경로는 조혈 조절과 관련이 있다고 알려져 있습니다.
 
 다만 이 경로가 급성 림프모구성 백혈병과 직접 연결된다는 기전적 근거는 현재 데이터로 확인되지 않습니다. 기존 적응증과의 연관성도 평가할 수 없어, 이 예측은 계산 모델의 출력에 머물러 있으며 검증이 필요합니다.
 
@@ -95,6 +95,19 @@ TxGNN이 예측한 다른 후보도 모두 임상시험·문헌 근거가 없는
 - 관련 임상시험 및 문헌 탐색 (현재 없음)
 - 허가사항(첨부문서)의 경고, 금기, 약물 상호작용 정보 확보 및 안전성 검토
 - 기존 허가 적응증 본문 확인 (현재 문서 링크만 확인됨)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Winrevair (sotatercept-csrk) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

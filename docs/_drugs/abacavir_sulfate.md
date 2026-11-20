@@ -57,7 +57,7 @@ TxGNN 모델은 **고양이 후천성 면역결핍 증후군(feline acquired imm
 
 ## 이 예측이 타당한 이유는?
 
-Abacavir는 세포 내에서 carbovir triphosphate로 전환된 뒤 바이러스 DNA 사슬 신장을 종결시키는 NRTI입니다. 이 보고서를 위해 수집한 데이터에는 상세한 작용 기전 자료가 없습니다. 위 기전은 NRTI 계열의 일반적인 약리 지식에 따른 설명입니다.
+Abacavir는 세포 내에서 carbovir triphosphate로 전환된 뒤 바이러스 DNA 사슬 신장을 종결시키는 NRTI입니다. 미국 FDA가 승인한 abacavir and lamivudine(Abacavir Sulfate 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아바카비르 및 라미부딘은 HIV-1에 대한 활성을 가진 항레트로바이러스제이다.” 영어 원문: "Abacavir and lamivudine is an antiretroviral agent with activity against HIV-1." ([DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c), 버전 2026-09-18; 확인일 2026-11-19). 위 기전은 NRTI 계열의 일반적인 약리 지식에 따른 설명입니다.
 
 고양이 면역결핍 바이러스(FIV)는 렌티바이러스로, 증식에 역전사효소를 사용합니다. 따라서 역전사효소를 표적으로 하는 abacavir가 작용할 수 있다는 기전상의 개연성은 있습니다. FIV 감염은 사람 HIV 감염의 동물 모델로도 활용되며, HIV에 활성이 있는 여러 역전사효소 억제제가 FIV에도 활성을 보인다고 알려져 있습니다.
 
@@ -98,6 +98,19 @@ Abacavir는 세포 내에서 carbovir triphosphate로 전환된 뒤 바이러스
 - 상세한 약물 작용 기전(MOA) 데이터 보완
 - 고양이에서의 약동학 및 안전성 자료 (수의학적 적용을 고려하는 경우)
 - 투여 경로와 제형의 적합성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: abacavir and lamivudine prescribing information, Laurus Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12e80eb-906c-4932-bb03-b4060ba1d31c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

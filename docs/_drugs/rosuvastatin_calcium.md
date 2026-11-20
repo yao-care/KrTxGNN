@@ -56,7 +56,7 @@ TxGNN 모델은 **콜레스테롤 에스테르 전달 단백질 결핍증(choles
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 로수바스타틴은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을 낮추는 스타틴계 약물이므로, 지질 대사와 관련된 질환이라는 점에서 모델이 연관성을 찾았을 가능성이 있습니다.
+미국 FDA가 승인한 Rosuvastatin Calcium 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “CRESTOR는 콜레스테롤의 전구체인 메발론산으로 3‑하이드록시‑3‑메틸글루타릴 조효소 A를 전환하는 속도 제한 효소인 HMG‑CoA 환원효소의 억제제이다.” 영어 원문: "CRESTOR is an inhibitor of HMG‑CoA reductase, the rate-limiting enzyme that converts 3‑hydroxy‑3‑methylglutaryl coenzyme A to mevalonate, a precursor of cholesterol." ([DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee), 버전 2026-09-23; 확인일 2026-11-19). 알려진 정보에 따르면 로수바스타틴은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을 낮추는 스타틴계 약물이므로, 지질 대사와 관련된 질환이라는 점에서 모델이 연관성을 찾았을 가능성이 있습니다.
 
 그러나 이 질환은 CETP 활성이 낮고 HDL 콜레스테롤이 높아지는 유전 질환입니다. 일반적으로 LDL을 낮추는 치료가 필요한 상태가 아니어서, 로수바스타틴을 이 질환에 쓸 직접적인 기전상 근거는 확인되지 않습니다. 이 예측은 지질 대사라는 넓은 범주의 연관성에 기댄 것으로, 해석에 주의가 필요합니다.
 
@@ -96,6 +96,19 @@ TxGNN 모델은 **콜레스테롤 에스테르 전달 단백질 결핍증(choles
 - CETP 결핍증에서 스타틴의 치료 필요성과 기전상 타당성에 대한 검토
 - 이 질환을 직접 대상으로 한 전임상, 증례 또는 임상 연구 근거
 - 허가사항(경고·금기) 확인을 통한 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

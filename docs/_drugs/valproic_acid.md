@@ -54,7 +54,7 @@ Valproic acid(발프로산)는 한국에서 연질캡슐 제제로 허가되어 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 valproic acid는 광범위 항경련제이며, 일부 연구에서는 HDAC 억제를 통한 항증식 효과도 이론적으로 거론됩니다. 그러나 삼차신경 종양에 대한 직접 자료는 없습니다.
+미국 FDA가 승인한 Valproic Acid 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “발프로산은 위장관에서 발프로에이트 이온으로 해리된다. 발프로에이트가 항뇌전증 효과를 나타내는 기전은 확립되지 않았다. 뇌전증에서의 활성은 뇌 내 감마-아미노부티르산(GABA) 농도의 증가와 관련이 있는 것으로 제시되었다.” 영어 원문: "Valproic acid dissociates to the valproate ion in the gastrointestinal tract. The mechanisms by which valproate exerts its antiepileptic effects have not been established. It has been suggested that its activity in epilepsy is related to increased brain concentrations of gamma-aminobutyric acid (GABA)." ([DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f), 버전 2025-05-23; 확인일 2026-11-19). 알려진 정보에 따르면 valproic acid는 광범위 항경련제이며, 일부 연구에서는 HDAC 억제를 통한 항증식 효과도 이론적으로 거론됩니다. 그러나 삼차신경 종양에 대한 직접 자료는 없습니다.
 
 이번에 수집된 자료를 분석한 결과, 이 예측의 높은 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 **모델 기반 신호**일 가능성이 큽니다. 생물학적 근거를 의미하지는 않습니다. 기존 적응증과 신규 적응증 사이에 신뢰할 만한 기전적 연결고리는 확인되지 않았습니다.
 
@@ -111,6 +111,19 @@ Valproic acid(발프로산)는 한국에서 연질캡슐 제제로 허가되어 
 - 삼차신경 종양에 대한 전임상 또는 기전 연구 (HDAC 억제 등) 탐색
 - 근거가 더 나은 대안 적응증(놀람 뇌전증 L3, 삼차신경통 L4 등)의 우선 평가 검토
 - 허가 적응증의 구체적 내용 확인 (현재 원문 링크만 제공됨)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

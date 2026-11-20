@@ -54,7 +54,7 @@ Filgrastim은 G-CSF(과립구 집락자극인자) 유사체로, 호중구 계열
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Filgrastim은 G-CSF 수용체를 통해 골수 호중구 전구세포의 증식과 분화를 촉진하는 단일 성분 제제입니다.
+미국 FDA가 승인한 Filgrastim 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “집락자극인자는 특정 세포 표면 수용체에 결합하여 증식, 분화 결정 및 일부 최종 세포의 기능적 활성화를 자극함으로써 조혈세포에 작용하는 당단백질이다. 내인성 G-CSF는 단핵구, 섬유모세포 및 내피세포에서 생성되는 계통 특이적 집락자극인자이다.” 영어 원문: "Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors and stimulating proliferation‚ differentiation commitment‚ and some end-cell functional activation. Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells." ([DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7), 버전 2026-11-10; 확인일 2026-11-19). 알려진 정보에 따르면 Filgrastim은 G-CSF 수용체를 통해 골수 호중구 전구세포의 증식과 분화를 촉진하는 단일 성분 제제입니다.
 
 그러나 혈소판 방출 장애는 혈소판 과립 방출 또는 기능의 결함으로 생기는 질환입니다. Filgrastim이 혈소판 기능에 영향을 준다는 확립된 근거는 없습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 계산한 예측일 뿐이며, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있지만 생물학적 근거는 아닙니다. 기존 적응증과 신규 적응증 사이의 기전적 연관성은 현재 뒷받침되지 않습니다.
 
@@ -98,6 +98,19 @@ Filgrastim은 G-CSF(과립구 집락자극인자) 유사체로, 호중구 계열
 - 한국 허가사항(경고, 금기, 적응증) 확인을 위한 허가증 PDF 분석
 - 혈소판 기능과 G-CSF 신호 전달의 연관성을 보여주는 전임상 또는 기전 연구
 - 상위 예측 질환에 대한 체계적 문헌 검색 및 임상시험 탐색
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Releuko (filgrastim) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74e1ec6e-1630-4654-895c-2bd355f939e7) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

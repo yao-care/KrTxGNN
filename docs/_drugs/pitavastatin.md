@@ -54,7 +54,7 @@ Pitavastatin은 한국에서 다수의 허가증이 확인되는 스타틴 계�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 Pitavastatin은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을 낮추는 스타틴으로 알려져 있습니다. 이 예측은 지질 대사 경로 수준에서만 연결됩니다.
+미국 FDA가 승인한 Pitavastatin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “피타바스타틴은 콜레스테롤 생합성 경로의 속도 제한 단계인 HMG-CoA에서 메발론산으로의 전환을 촉매하는 효소인 3-하이드록시-3-메틸글루타릴-조효소 A(HMG-CoA) 환원효소의 억제제이다. 그 결과, LDL 수용체의 발현과 그에 따른 혈액에서 간으로의 LDL 흡수가 촉진되고, 이어서 혈장 TC가 감소한다.” 영어 원문: "Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases." ([DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2), 버전 2026-03-31; 확인일 2026-11-19). 일반적으로 Pitavastatin은 HMG-CoA 환원효소를 억제해 LDL 콜레스테롤을 낮추는 스타틴으로 알려져 있습니다. 이 예측은 지질 대사 경로 수준에서만 연결됩니다.
 
 그러나 CETP 결핍증은 HDL 콜레스테롤이 크게 높아지는 유전 질환입니다. 많은 경우 양성이거나 오히려 동맥경화를 억제하는 지질 표현형이어서, 스타틴 치료가 필요한 질환으로 인정되지 않습니다. 0.9998이라는 높은 점수는 실제 치료 필요성보다 지질 경로상 네트워크 근접성을 반영한 것으로 보입니다. 따라서 기전상 타당성은 낮고 임상적 의미도 불분명합니다.
 
@@ -112,6 +112,19 @@ CETP 결핍증은 임상시험과 문헌이 모두 없고 모델 예측만 있�
 - CETP 결핍증에서 스타틴의 임상적 필요성을 뒷받침하는 연구 (현재는 없음)
 - 시판 상태와 취소 여부 확인
 - 근거가 있는 HIV 환자 심혈관 예방 적응증은 별도 평가로 진행 (항레트로바이러스제와의 약물 상호작용, 당뇨 위험, 근육 관련 이상반응 모니터링 포함)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

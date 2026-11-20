@@ -55,7 +55,7 @@ TxGNN 모델은 **부수막 배아성 횡문근육종(parameningeal embryonal rh
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Paclitaxel은 일반적으로 미세소관을 안정화하여 세포분열을 억제하는 항종양제로 알려져 있어, 빠르게 분열하는 종양세포에 이론적으로 작용할 수 있습니다.
+미국 FDA가 승인한 Paclitaxel 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “주사용 현탁액용 파클리탁셀 단백질 결합 입자(알부민 결합)는 미세소관 억제제로서, 튜불린 이량체로부터 미세소관의 조립을 촉진하고 탈중합을 방지함으로써 미세소관을 안정화시킨다. 이러한 안정성은 필수적인 간기 및 유사분열 세포 기능에 필수적인 미세소관 망의 정상적인 동적 재구성을 억제한다.” 영어 원문: "Paclitaxel protein-bound particles for injectable suspension (albumin-bound) is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions." ([DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c), 버전 2025-09-17; 확인일 2026-11-19). Paclitaxel은 일반적으로 미세소관을 안정화하여 세포분열을 억제하는 항종양제로 알려져 있어, 빠르게 분열하는 종양세포에 이론적으로 작용할 수 있습니다.
 
 다만 횡문근육종의 표준 치료는 vincristine, actinomycin D, cyclophosphamide 기반의 병용 화학요법이며, paclitaxel은 확립된 역할이 없습니다. 항유사분열 기전에 근거한 연결고리는 현재로서는 이론적 추정에 그칩니다.
 
@@ -92,6 +92,19 @@ TxGNN 모델은 **부수막 배아성 횡문근육종(parameningeal embryonal rh
 - 작용 기전(MOA) 데이터 보완
 - 허가사항의 경고·금기 정보 확인
 - 소아 및 해당 질환 환자군에 대한 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

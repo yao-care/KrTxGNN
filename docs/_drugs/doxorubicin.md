@@ -56,7 +56,7 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 Doxorubicin은 topoisomerase II 억제 및 DNA 삽입(intercalation)을 통해 작용하는 안트라사이클린 계열 세포독성 항암제입니다.
+미국 FDA가 승인한 Doxorubicin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “악성 세포에 대한 독소루비신염산염의 세포독성 효과 및 여러 장기에 대한 독성 효과는 독소루비신의 뉴클레오티드 염기 삽입(intercalation) 및 세포막 지질 결합 활성과 관련된 것으로 생각된다. 삽입은 뉴클레오티드 복제와 DNA 및 RNA 중합효소의 작용을 억제한다.” 영어 원문: "The cytotoxic effect of doxorubicin hydrochloride on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin. Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases." ([DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd), 버전 2026-11-12; 확인일 2026-11-19). 알려진 정보에 따르면 Doxorubicin은 topoisomerase II 억제 및 DNA 삽입(intercalation)을 통해 작용하는 안트라사이클린 계열 세포독성 항암제입니다.
 
 유잉육종에서는 VDC/IE, VAC/VAI 등 다제 병용 화학요법의 핵심 약물로 쓰입니다. 이 종양이 화학요법에 민감하다는 점과도 일치합니다. 따라서 높은 TxGNN 점수는 임상 현실과 부합하며, 새로운 발견이라기보다 확립된 표준 치료 사용을 재확인한 결과로 보는 것이 적절합니다.
 
@@ -166,11 +166,12 @@ TxGNN 모델은 **유잉육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
 
 <!-- review:end log -->
 

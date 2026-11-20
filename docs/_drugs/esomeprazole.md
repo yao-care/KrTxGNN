@@ -55,7 +55,7 @@ TxGNN 모델은 **십이지장 폐쇄(duodenal obstruction)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 esomeprazole은 위산 분비를 줄이는 계열의 약물이며, 산 관련 상부 위장관 질환에서 사용됩니다.
+미국 FDA가 승인한 Esomeprazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “에스오메프라졸은 치환 벤즈이미다졸계에 속하는 항분비 화합물로, 위 벽세포의 분비 표면에 있는 H+/K+ ATPase 효소계를 특이적으로 억제하여 위산 분비를 억제한다. 에스오메프라졸은 벽세포의 산성 구획에서 양성자화되고 전환되어 활성 억제제인 비키랄성 설펜아미드를 형성한다.” 영어 원문: "Esomeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell. Esomeprazole is protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide." ([DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96), 버전 2025-12-19; 확인일 2026-11-19). 알려진 정보에 따르면 esomeprazole은 위산 분비를 줄이는 계열의 약물이며, 산 관련 상부 위장관 질환에서 사용됩니다.
 
 다만 십이지장 폐쇄는 종양, 협착, 윤상 췌장 등 기계적 원인으로 생기는 경우가 많아, 위산 억제만으로 치료되기 어렵습니다. 궤양과 연관된 협착처럼 이차적인 소화성 합병증에서만 보조적 도움이 될 가능성이 있습니다. 따라서 뚜렷한 기전적 연결고리는 확인되지 않으며, 높은 모델 점수는 어디까지나 예측값일 뿐입니다.
 
@@ -89,6 +89,19 @@ TxGNN 모델은 **십이지장 폐쇄(duodenal obstruction)**에 효과가 있�
 - 상세한 작용 기전(MOA) 데이터
 - 허가사항(경고·금기)의 확인 및 정리
 - 적용 가능한 투여 경로(주사/경구)에 대한 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

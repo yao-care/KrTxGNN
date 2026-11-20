@@ -56,7 +56,7 @@ predicted_indications: ["headache disorder", "rosacea conjunctivitis", "trigemin
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 약리학에 따르면 케토롤락은 비선택적 COX-1/COX-2 억제제입니다. 프로스타글란딘 합성을 억제해 통증과 염증을 줄입니다.
+미국 FDA가 승인한 Ketorolac 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “케토롤락 트로메타민은 동물 모델에서 진통 활성을 나타내는 비스테로이드성 소염진통제(NSAID)이다. 케토롤락의 작용기전은 다른 NSAID와 마찬가지로 완전히 밝혀지지 않았으나, 프로스타글란딘 합성효소 억제와 관련이 있을 수 있다.” 영어 원문: "Ketorolac tromethamine is a nonsteroidal anti-inflammatory drug (NSAID) that exhibits analgesic activity in animal models. The mechanism of action of ketorolac, like that of other NSAIDs, is not completely understood but may be related to prostaglandin synthetase inhibition." ([DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f), 버전 2026-11-13; 확인일 2026-11-19). 알려진 약리학에 따르면 케토롤락은 비선택적 COX-1/COX-2 억제제입니다. 프로스타글란딘 합성을 억제해 통증과 염증을 줄입니다.
 
 편두통과 긴장성 두통의 통증에는 말초·중추 감작과 신경인성 염증이 관여합니다. 따라서 프로스타글란딘 합성을 억제하는 진통제는 급성 두통 치료에 기전상 직접 연결됩니다. TxGNN의 높은 예측 점수(0.994)도 이러한 임상 근거와 일치합니다.
 
@@ -143,11 +143,12 @@ RCT를 우선하고 이어서 체계적 문헌고찰과 가이드라인 순으�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “한국에는 총 20건의 허가증이 있으며 모두 단일제이고 유효합니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Toronova Ii Suik (ketorolac tromethamine) prescribing information, Advanced Rx of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49dd153c-10e8-505b-e063-6394a90a595f) |
 
 <!-- review:end log -->
 

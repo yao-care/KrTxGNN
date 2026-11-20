@@ -55,7 +55,7 @@ TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 약리 정보에 따르면 atenolol은 베타-1 선택적 차단제로, 심박수와 심박출량을 줄이고 레닌 분비를 억제하여 혈압을 낮춥니다. 이는 고혈압성 신장질환과 생물학적으로 연관될 수 있습니다.
+미국 FDA가 승인한 Atenolol 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “TENORMIN은 막 안정화 활성이나 내인성 교감신경유사(부분 효능제) 활성이 없는 베타 1 -선택적(심장선택적) 베타-아드레날린 수용체 차단제이다. 그러나 이러한 선택적 효과는 절대적이지 않으며, 고용량에서 TENORMIN은 주로 기관지 및 혈관 근육에 위치하는 베타 2 -아드레날린 수용체를 억제한다.” 영어 원문: "TENORMIN is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities. This preferential effect is not absolute, however, and at higher doses, TENORMIN inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature." ([DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a), 버전 2025-09-18; 확인일 2026-11-19). 알려진 약리 정보에 따르면 atenolol은 베타-1 선택적 차단제로, 심박수와 심박출량을 줄이고 레닌 분비를 억제하여 혈압을 낮춥니다. 이는 고혈압성 신장질환과 생물학적으로 연관될 수 있습니다.
 
 그러나 악성 고혈압은 정맥 투여로 빠르게 용량을 조절하는 약물로 관리하는 고혈압 응급 상황입니다. 경구 atenolol은 일반적인 선택지가 아닙니다. 현재 지지 근거는 TxGNN 점수뿐입니다.
 
@@ -102,6 +102,19 @@ TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal 
 - **폐질환·저산소증에 의한 폐고혈압, 원인 불명의 다인성 폐고혈압**: 직접 연구가 없습니다. 쥐 저산소 실험 결과는 서로 상충하며(PMID 8590992, 6212672), 베타차단이 우심실 기능을 해칠 위험이 있습니다.
 - **Braddock 증후군**: 근거가 없고 기전적 연관성도 확인되지 않았습니다.
 - **만성 폐성심**: 직접 연구가 없고 고혈압 일반 문헌이 대부분입니다. 근거 수준은 L5입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

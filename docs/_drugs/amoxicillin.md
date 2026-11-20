@@ -55,7 +55,7 @@ TxGNN 모델은 **고아밀라아제혈증(Hyperamylasemia)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Amoxicillin은 세균 세포벽 합성을 억제하는 베타락탐계 항생제이며, 단독제 외에 클라불란산 또는 설박탐과의 복합 제형으로도 허가되어 있습니다.
+미국 FDA가 승인한 Amoxicillin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “아목시실린은 항균제이다. […] 아목시실린은 활발한 증식 단계에 있는 감수성 세균에 대한 살균 작용이 페니실린과 유사하다. 아목시실린은 세포벽 생합성을 저해하여 세균을 사멸시킨다.” 영어 원문: "Amoxicillin is an antibacterial drug. […] Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77), 버전 2026-11-13; 확인일 2026-11-19). 알려진 정보에 따르면, Amoxicillin은 세균 세포벽 합성을 억제하는 베타락탐계 항생제이며, 단독제 외에 클라불란산 또는 설박탐과의 복합 제형으로도 허가되어 있습니다.
 
 그러나 고아밀라제혈증은 아밀라제 수치가 상승하는 상태로, 항균 작용과 직접적인 연관이 확인되지 않습니다. Amoxicillin이 아밀라제 조절에 작용한다는 알려진 기전은 없으며, 이 예측은 TxGNN 모델(딥러닝)의 점수로서 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있을 뿐, 생물학적 근거는 아닙니다.
 
@@ -95,6 +95,19 @@ TxGNN 모델은 **고아밀라아제혈증(Hyperamylasemia)**에 효과가 있�
 - 상세 작용 기전(MOA) 데이터 보완
 - 고아밀라아제혈증과 Amoxicillin의 연관성을 뒷받침하는 전임상 또는 임상 근거
 - 다른 후보(예: 패혈성 페스트)는 항균제로서의 타당성이 있어 별도 연구 질문으로 검토할 수 있으나, 베타락탐의 한계로 우선순위는 낮음
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

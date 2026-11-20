@@ -55,7 +55,7 @@ TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터가 없습니다. 따라서 Isotretinoin의 기전을 근거로 한 직접적인 연관성 분석은 할 수 없습니다.
+미국 FDA가 승인한 Isotretinoin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “전신 항생제를 포함한 기존 치료에 반응하지 않는, 직경 5 mm 이상의 다발성 염증성 결절을 가진 12세 이상의 비임신 환자에서 중증 난치성 결절성 여드름 치료 시 Zenatane의 정확한 작용기전은 알려져 있지 않다. 레티노이드인 이소트레티노인은 피지선 기능과 각질화를 억제한다.” 영어 원문: "The exact mechanism of action of Zenatane in the treatment of severe recalcitrant nodular acne in nonpregnant patients 12 years of age and older with multiple inflammatory nodules with a diameter of 5 mm or greater who are unresponsive to conventional therapy, including systemic antibiotics is unknown. Isotretinoin, a retinoid, inhibits sebaceous gland function and keratinization." ([DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee), 버전 2026-09-20; 확인일 2026-11-19). 따라서 Isotretinoin의 기전을 근거로 한 직접적인 연관성 분석은 할 수 없습니다.
 
 레티노이드는 신장 손상 전임상 모델에서 단백뇨 감소 및 항섬유화 효과가 연구된 바 있습니다. 다만 이는 간접적인 정보이며, Isotretinoin이나 악성 고혈압성 신장병증에 특정된 것은 아닙니다.
 
@@ -103,6 +103,19 @@ TxGNN 모델은 **악성 고혈압성 신장질환(malignant hypertensive renal 
 - 작용 기전(MOA) 데이터 보완
 - 악성 고혈압성 신장질환에 대한 전임상 또는 임상 연구 근거 확인
 - 중증 신장질환 환자에서의 안전성 평가 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Zenatane (isotretinoin) prescribing information, Dr. Reddy's Laboratories Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=27b3cf26-f22e-5b70-1c24-009933b7c6ee) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

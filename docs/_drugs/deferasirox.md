@@ -54,7 +54,7 @@ Deferasirox는 철 킬레이트제로, 한국에서 만성 철 과다 상태 치
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 deferasirox는 철 킬레이트제로, 체내 과잉 철을 결합해 배출시키는 약물입니다.
+미국 FDA가 승인한 Deferasirox 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Exjade(데페라시록스)는 철(Fe 3+ 형태)에 선택적인 경구 활성 킬레이트제이다. 이는 철과 2:1 비율로 높은 친화성으로 결합하는 세자리 리간드이다. 데페라시록스는 아연 및 구리에 대한 친화성이 매우 낮지만, 데페라시록스 투여 후 이들 미량 금속의 혈청 농도가 다양한 정도로 감소한다.” 영어 원문: "Exjade (deferasirox) is an orally active chelator that is selective for iron (as Fe 3+ ). It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio. Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox." ([DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85), 버전 2026-01-28; 확인일 2026-11-19). 알려진 정보에 따르면 deferasirox는 철 킬레이트제로, 체내 과잉 철을 결합해 배출시키는 약물입니다.
 
 HIV-1 복제는 세포 내 철 상태의 영향을 받는 것으로 알려져 있습니다. 2021년 전임상 연구(PMID 34550543)에 따르면 엔도리소좀 내 철은 HIV-1 Tat 단백질의 올리고머화와 β-catenin 발현에 영향을 주어 HIV-1 LTR 전사 활성화를 억제합니다. 철 가용성을 조절하는 약물이 HIV 병태에 관여할 가능성은 있으나, 간접적인 기전적 추정에 불과합니다.
 
@@ -113,6 +113,19 @@ HIV에 대한 임상시험이 없고, 지지 근거는 간접적인 전임상 �
 **참고: 다른 예측 적응증**
 - 만성 C형 간염: 근거 수준 L4, 간접 근거뿐이며 Hold
 - 보행 실조·언어 상실을 동반한 신경발달장애, 이전 분류 체계의 가족성 복합 고지혈증, 융기성 피부섬유육종: 모두 L5(모델 예측만 존재), Hold
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

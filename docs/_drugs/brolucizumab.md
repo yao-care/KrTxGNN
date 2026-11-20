@@ -58,7 +58,7 @@ TxGNN 모델은 **핵 DNA 이상에 의한 미토콘드리아 산화적 인산�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 brolucizumab은 VEGF-A를 표적으로 하는 항체 절편이며, 안구 내 투여용으로 허가된 단일 성분 제제입니다.
+미국 FDA가 승인한 Brolucizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “브롤루시주맙은 인간 VEGF 억제제이다. 브롤루시주맙은 VEGF-A의 세 가지 주요 동형(예: VEGF 110, VEGF 121 및 VEGF 165)에 결합하여 수용체 VEGFR-1 및 VEGFR-2와의 상호작용을 차단한다. VEGF-A를 억제함으로써 브롤루시주맙은 내피세포 증식, 신생혈관 형성 및 혈관 투과성을 억제한다.” 영어 원문: "Brolucizumab is a human VEGF inhibitor. Brolucizumab binds to the three major isoforms of VEGF-A (e.g., VEGF 110, VEGF 121, and VEGF 165 ), thereby preventing interaction with receptors VEGFR-1 and VEGFR-2. By inhibiting VEGF-A, brolucizumab suppresses endothelial cell proliferation, neovascularization, and vascular permeability." ([DailyMed: Beovu (brolucizumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d1dc1fa-a2d3-46ed-9e9a-c1a036590d3d), 버전 2026-10-26; 확인일 2026-11-19). 알려진 정보에 따르면 brolucizumab은 VEGF-A를 표적으로 하는 항체 절편이며, 안구 내 투여용으로 허가된 단일 성분 제제입니다.
 
 핵 DNA 이상에 의한 미토콘드리아 산화적 인산화 장애는 호흡사슬의 조립 또는 기능 결손이 원인이며, VEGF 신호와는 직접적인 관련이 없습니다. 따라서 **현재까지 확립된 기전적 연결고리는 없습니다.** 0.9967이라는 높은 점수는 TxGNN 모델(딥러닝)에서 나온 값으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있으며 생물학적 근거가 아닙니다.
 
@@ -89,6 +89,19 @@ TxGNN 모델은 **핵 DNA 이상에 의한 미토콘드리아 산화적 인산�
 - 미토콘드리아 질환과 VEGF 경로의 연관성을 보여주는 전임상 또는 기전 연구
 - 투여 경로 적합성 평가(안구 내 투여 제제의 전신 적용 가능성)
 - 관련 임상시험 및 문헌 근거 재검색
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Beovu (brolucizumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5d1dc1fa-a2d3-46ed-9e9a-c1a036590d3d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

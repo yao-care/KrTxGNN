@@ -55,7 +55,7 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바에 따르면 gemcitabine은 뉴클레오시드 유사체 계열 항대사제로, DNA 합성과 리보뉴클레오티드 환원효소를 억제합니다. 이 세포독성 기전은 소화관 선암에서도 이론적으로 가능성이 있습니다.
+미국 FDA가 승인한 Gemcitabine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “젬시타빈은 DNA 합성 중인 세포를 사멸시키고 G1/S기 경계를 통한 세포의 진행을 차단한다. 젬시타빈은 뉴클레오시드 키나아제에 의해 이인산(dFdCDP) 및 삼인산(dFdCTP) 뉴클레오시드로 대사된다.” 영어 원문: "Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides." ([DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84), 버전 2026-07-27; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면 gemcitabine은 뉴클레오시드 유사체 계열 항대사제로, DNA 합성과 리보뉴클레오티드 환원효소를 억제합니다. 이 세포독성 기전은 소화관 선암에서도 이론적으로 가능성이 있습니다.
 
 다만 이번 데이터에서 예측을 뒷받침하는 것은 TxGNN 점수뿐입니다. 직장 점액성 선암과 관련된 임상시험이나 문헌은 확인되지 않았고, 기존 적응증과의 유사성 분석도 완료되지 않았습니다. 따라서 이 예측은 가설 단계로 보아야 합니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 - DrugBank에서 작용 기전(MOA) 확보
 - 직장 및 대장 점액성 선암에 대한 gemcitabine 임상시험 및 문헌 조사
 - 참고: 같은 예측 목록의 자궁내막 혼합 선암은 후향 연구와 Phase II 시험 등 관련 근거가 있어(L3) 우선 검토 후보가 될 수 있으나, 질환 자체를 직접 다룬 연구는 아니므로 추가 확인이 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

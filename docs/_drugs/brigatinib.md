@@ -54,7 +54,7 @@ Brigatinib(한국 제품명 알룬브릭)은 ALK 양성 비소세포폐암 치�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 brigatinib은 ALK, ROS1, EGFR 등을 억제하는 키나아제 억제제로 ALK 양성 비소세포폐암에서 효능이 입증되어 있습니다. 다만 이 정보는 이번에 정리한 데이터의 기전 항목이 아니라 분석 단계의 해석입니다.
+미국 FDA가 승인한 Brigatinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “브리가티닙은 티로신 키나제 억제제(TKI)로, 임상적으로 도달 가능한 농도에서 ALK, ROS1, 인슐린 유사 성장인자-1 수용체(IGF-1R), FLT-3를 포함한 여러 키나제와 EGFR 결실 및 점돌연변이에 대해 시험관 내 활성을 나타낸다. 브리가티닙은 시험관 내 및 생체 내 분석에서 ALK의 자가인산화 및 ALK 매개 하위 신호전달 단백질인 STAT3, AKT, ERK1/2, S6의 인산화를 억제하였다.” 영어 원문: "Brigatinib is a tyrosine kinase inhibitor (TKI) with in vitro activity at clinically achievable concentrations against multiple kinases including ALK, ROS1, insulin-like growth factor-1 receptor (IGF-1R), and FLT-3 as well as EGFR deletion and point mutations. Brigatinib inhibited autophosphorylation of ALK and ALK-mediated phosphorylation of the downstream signaling proteins STAT3, AKT, ERK1/2, and S6 in in vitro and in vivo assays." ([DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db), 버전 2026-01-12; 확인일 2026-11-19). 알려진 정보에 따르면 brigatinib은 ALK, ROS1, EGFR 등을 억제하는 키나아제 억제제로 ALK 양성 비소세포폐암에서 효능이 입증되어 있습니다. 다만 이 정보는 이번에 정리한 데이터의 기전 항목이 아니라 분석 단계의 해석입니다.
 
 ALK 등 키나아제 억제와 치은 섬유종증 사이에 확립된 연관성은 확인되지 않았습니다. 따라서 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 간에 학습한 유사성을 반영했을 수 있으나 생물학적 근거는 아닙니다. 기전상 타당성은 현재 입증되지 않았습니다.
 
@@ -111,6 +111,19 @@ ALK 등 키나아제 억제와 치은 섬유종증 사이에 확립된 연관성
 - DrugBank 등에서 작용 기전(MOA) 데이터 확보
 - 치은 섬유종증과 키나아제 신호전달 경로의 연관성에 대한 전임상 근거 탐색
 - 후보 목록 내 다른 예측 질환, 특히 NF2 관련 신경초종증처럼 근거가 상대적으로 있는 방향의 별도 평가 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Alunbrig (brigatinib) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fe9ff20-d402-41f3-bc1e-7002ea7007db) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

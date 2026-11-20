@@ -55,7 +55,7 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, insulin glargine은 단일 성분 지속형 인슐린 제제이며, 당뇨병에서의 혈당 조절 효능이 확립되어 있습니다.
+미국 FDA가 승인한 Insulin Glargine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “인슐린 글라진 제품을 포함한 인슐린의 주된 작용은 포도당 대사의 조절이다. 인슐린 및 그 유사체는 특히 골격근과 지방에서 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.” 영어 원문: "The primary activity of insulin, including insulin glargine products, is regulation of glucose metabolism. Insulin and its analogs lower blood glucose by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Langlara (insulin glargine-aldy) prescribing information, Lanexa Biologics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5328761e-59d3-ca7a-e063-6394a90ae810), 버전 2026-10-15; 확인일 2026-11-19). 알려진 정보에 따르면, insulin glargine은 단일 성분 지속형 인슐린 제제이며, 당뇨병에서의 혈당 조절 효능이 확립되어 있습니다.
 
 다만 자가면역성 난소염에 대한 직접적인 치료 기전은 확인되지 않습니다. 가능한 설명은 자가면역성 다내분비 증후군이 자가면역성 당뇨병과 함께 나타나는 경우가 많다는 점입니다. 이는 동반 질환과의 연관성일 뿐, 난소의 자가면역 과정에 대한 치료 효과가 아닙니다. Insulin glargine이 난소염에 면역조절 작용을 한다는 근거는 없습니다.
 
@@ -109,6 +109,19 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 - **췌장 무형성(pancreatic agenesis, 점수 0.9943)**: 인슐린 결핍성 당뇨병에 대한 인슐린 보충은 생리학적으로 타당하고 표준 지지요법입니다. 다만 검색된 문헌 4편은 모두 간접 근거(제2형 당뇨병 인슐린 치료, 이차성 당뇨병, 당뇨 고양이, MODY5 증례)이며, 이는 재창출이 아니라 결핍 호르몬의 보충입니다. 근거 수준 L4, 연구 질문(Research Question) 단계입니다.
 - **약물 유발 국소 지방이영양증 등 국소 지방이영양증 계열(순위 7~10)**: 인슐린 주사 자체가 주사 부위 지방이영양증의 알려진 원인이므로 치료 후보가 아니라 안전성 문제입니다.
 - **경직인간증후군, 티아민 반응성 기능장애 증후군**: 동반된 당뇨병 관리에만 해당하며, 신경학적 병리나 SLC19A2 수송체 결함에는 효과가 기대되지 않습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Langlara (insulin glargine-aldy) prescribing information, Lanexa Biologics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5328761e-59d3-ca7a-e063-6394a90ae810) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -57,7 +57,7 @@ TxGNN 모델은 **과투명 폐(hyperlucent lung)**에 효과가 있을 수 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반 약리학 지식에 따르면 arformoterol은 formoterol의 (R,R)-거울상이성질체로, 기관지 평활근을 이완시키는 장기 지속형 베타2 작용제입니다.
+미국 FDA가 승인한 Arformoterol Tartrate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “포르모테롤의 (R,R)-거울상이성질체인 아포모테롤은 선택적 지속성 베타 2 -아드레날린 수용체 작용제(베타 2 -작용제)로서, 라세미 포르모테롤((S,S)- 및 (R,R)-거울상이성질체를 모두 포함)보다 2배 더 강력한 효력을 갖는다. (S,S)-거울상이성질체는 베타 2 -작용제로서 (R,R)-거울상이성질체보다 효력이 약 1,000배 약하다.” 영어 원문: "Arformoterol, the (R,R)-enantiomer of formoterol, is a selective long-acting beta 2 -adrenergic receptor agonist (beta 2 -agonist) that has two-fold greater potency than racemic formoterol (which contains both the (S,S) and (R,R)-enantiomers). The (S,S)-enantiomer is about 1,000-fold less potent as a beta 2 -agonist than the (R,R)-enantiomer." ([DailyMed: Arformoterol Tartrate Inhalation Solution (arformoterol tartrate) prescribing information, Aucta Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c0d81db-fbf5-405f-9311-d3d78992d9a3), 버전 2025-02-11; 확인일 2026-11-19). 일반 약리학 지식에 따르면 arformoterol은 formoterol의 (R,R)-거울상이성질체로, 기관지 평활근을 이완시키는 장기 지속형 베타2 작용제입니다.
 
 과투명 폐는 Swyer-James-MacLeod 증후군이나 폐기종성 변화처럼 폐 일부의 투과성이 증가해 보이는 영상 소견입니다. 흔히 폐쇄성 기도 질환을 동반하므로, 기관지 확장제가 동반된 기도 폐쇄 증상을 완화할 가능성은 있습니다.
 
@@ -97,6 +97,19 @@ TxGNN 모델은 **과투명 폐(hyperlucent lung)**에 효과가 있을 수 있�
 - 과투명 폐 환자에서 베타2 작용제의 효과를 평가한 임상시험 또는 문헌 탐색
 - 과투명 폐의 원인 질환(예: Swyer-James-MacLeod 증후군, 폐기종)별 적용 대상 정의와 안전성 검토
 - 국내 판매용 허가 여부 및 제형·투여 경로 적합성 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Arformoterol Tartrate Inhalation Solution (arformoterol tartrate) prescribing information, Aucta Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c0d81db-fbf5-405f-9311-d3d78992d9a3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -54,7 +54,7 @@ Leflunomide는 한국에서 단일제 정제로 19건이 허가·시판 중인 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 정보에 따르면 leflunomide는 활성 대사체(teriflunomide)를 통해 DHODH(dihydroorotate dehydrogenase)를 억제하고, 이로써 피리미딘 합성을 차단해 활발히 증식하는 면역세포의 활동을 억제합니다.
+미국 FDA가 승인한 Leflunomide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “레플루노미드는 디하이드로오로테이트 탈수소효소(de novo 피리미딘 합성에 관여하는 미토콘드리아 효소)를 억제하고 항증식 활성을 갖는 이속사졸계 면역조절제이다. 여러 in vivo 및 in vitro 실험 모델에서 항염 효과가 입증되었다.” 영어 원문: "Leflunomide is an isoxazole immunomodulatory agent that inhibits dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine synthesis) and has antiproliferative activity. Several in vivo and in vitro experimental models have demonstrated an anti-inflammatory effect." ([DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52), 버전 2025-06-04; 확인일 2026-11-19). 일반적으로 알려진 정보에 따르면 leflunomide는 활성 대사체(teriflunomide)를 통해 DHODH(dihydroorotate dehydrogenase)를 억제하고, 이로써 피리미딘 합성을 차단해 활발히 증식하는 면역세포의 활동을 억제합니다.
 
 신규 적응증과의 연결고리는 약합니다. DHODH 관련 생물학이 Miller 증후군 같은 사지 기형 질환에서 알려져 있지만, 이는 DHODH **결핍**에 의한 질환이며 DHODH **억제**가 이점을 준다는 근거가 아닙니다. 따라서 이 예측 점수는 TxGNN 모델(딥러닝)이 산출한 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -108,6 +108,19 @@ Leflunomide는 한국에서 단일제 정제로 19건이 허가·시판 중인 �
 ---
 
 *참고: 동일 약물의 2순위 예측(colobomatous microphthalmia-rhizomelic dysplasia syndrome, 점수 0.9993)도 임상시험·문헌 근거가 없는 L5 수준이며, 마찬가지로 Hold로 평가되었습니다.*
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Arava (leflunomide) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320f63f2-fac3-4aee-aff8-85724e00ef52) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Ioversol은 요오드화 수용성 조영제로, 영상 진단에 쓰이는 약물이며 관절염에 대한 약리학적 항염증 또는 관절 보호 기전은 알려져 있지 않습니다.
+미국 FDA가 승인한 Ioversol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이오버솔을 혈관 내 주사하면 조영제가 흐르는 경로에 있는 혈관이 조영되어, 유의한 혈액희석이 일어날 때까지 내부 구조를 방사선학적으로 시각화할 수 있다. 이오버솔은 신속 정맥 주사 후 30~60초 이내에 신실질에서 시각화될 수 있다.” 영어 원문: "Intravascular injection of ioversol opacifies those vessels in the path of the flow of the contrast medium, permitting radiographic visualization of the internal structures until significant hemodilution occurs. Ioversol may be visualized in the renal parenchyma within 30 to 60 seconds following rapid intravenous injection." ([DailyMed: Optiray 320 (ioversol) prescribing information, Liebel-Flarsheim Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6cb6ca5f-b249-49b0-a9eb-8aa583da7c74), 버전 2025-12-29; 확인일 2026-11-19). Ioversol은 요오드화 수용성 조영제로, 영상 진단에 쓰이는 약물이며 관절염에 대한 약리학적 항염증 또는 관절 보호 기전은 알려져 있지 않습니다.
 
 연결된 문헌(PMID 38102013, LipioJoint-1)은 무릎 골관절염에서 요오드화 유성 에멀전(Lipiodol 계열)을 이용한 무릎동맥 색전술을 평가했습니다. 치료 효과는 동맥 색전 자체에서 나온 것이며 Ioversol에서 나온 것이 아닙니다. 따라서 두 약물의 연관성은 시술 중 영상 또는 조영제 사용이라는 간접적 수준에 그칩니다.
 
@@ -103,6 +103,19 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 - DrugBank 등에서 작용 기전 데이터 확보
 - Ioversol 자체를 골관절염에 적용한 전임상 또는 임상 근거 확인
 - 한국 시판 상태(취소 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Optiray 320 (ioversol) prescribing information, Liebel-Flarsheim Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6cb6ca5f-b249-49b0-a9eb-8aa583da7c74) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

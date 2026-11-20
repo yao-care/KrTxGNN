@@ -55,7 +55,7 @@ TxGNN 모델은 **전핵심 중심 이전 만성 림프구성 백혈병/소림�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 pegaspargase는 혈중 아스파라긴을 고갈시켜 아스파라긴 의존성이 높은 림프계 종양 세포의 성장을 억제하는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Pegaspargase 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “L-아스파라기나제는 아미노산인 L-아스파라긴을 아스파르트산과 암모니아로 전환시키는 반응을 촉매하는 효소이다. ONCASPAR의 약리학적 효과는 혈장 아스파라긴 고갈로 인한 백혈병 세포의 사멸에 기인하는 것으로 생각된다.” 영어 원문: "L-asparaginase is an enzyme that catalyzes the conversion of the amino acid L-asparagine into aspartic acid and ammonia. The pharmacological effect of ONCASPAR is thought to be based on the killing of leukemic cells due to depletion of plasma asparagine." ([DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce), 버전 2024-10-07; 확인일 2026-11-19). 일반적으로 pegaspargase는 혈중 아스파라긴을 고갈시켜 아스파라긴 의존성이 높은 림프계 종양 세포의 성장을 억제하는 것으로 알려져 있습니다.
 
 그러나 만성 림프구성 백혈병/소림프구성 림프종(CLL/SLL)에서 아스파라긴 고갈이 확립된 취약점이라는 근거는 없습니다. 따라서 이 예측의 기전적 연결은 추측 수준입니다. 같은 점수(0.9995)를 가진 유사한 CLL/SLL 항목이 함께 예측된 점으로 보아, 모델이 유사 노드를 중복 취급했을 가능성도 있습니다.
 
@@ -105,6 +105,19 @@ TxGNN 모델은 **전핵심 중심 이전 만성 림프구성 백혈병/소림�
 - 상세한 약물 작용 기전(MOA) 데이터
 - 허가사항(경고, 금기)의 확보 및 검토
 - 한국 시판 상태의 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Oncaspar (pegaspargase) prescribing information, Servier Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac7b6a6f-6ddb-48c6-8088-d8a8e3fea6ce) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

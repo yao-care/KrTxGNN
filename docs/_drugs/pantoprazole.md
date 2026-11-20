@@ -55,7 +55,7 @@ TxGNN 모델은 **십이지장 폐색(duodenal obstruction)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 pantoprazole은 위산 분비를 줄이는 약물로 알려져 있으나, 이번 자료에서는 이를 뒷받침하는 기전 정보가 확인되지 않았습니다.
+미국 FDA가 승인한 Pantoprazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “판토프라졸은 위벽세포의 분비 표면에 있는 (H +, K + )-ATPase 효소계에 공유 결합하여 위산 생성의 최종 단계를 억제하는 PPI이다. 이 작용으로 자극의 종류와 관계없이 기저 위산 분비와 자극된 위산 분비가 모두 억제된다.” 영어 원문: "Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. This effect leads to inhibition of both basal and stimulated gastric acid secretion irrespective of the stimulus." ([DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b), 버전 2026-11-06; 확인일 2026-11-19). 일반적으로 pantoprazole은 위산 분비를 줄이는 약물로 알려져 있으나, 이번 자료에서는 이를 뒷받침하는 기전 정보가 확인되지 않았습니다.
 
 십이지장 폐색은 협착, 종괴, 외부 압박 등 기계적 원인이 대부분입니다. 위산 억제는 동반된 궤양성 질환이나 증상을 완화할 수는 있어도 폐색 자체를 치료하기는 어렵습니다. 따라서 명확한 기전적 연결고리는 확인되지 않습니다. 높은 예측 점수는 치료적 근거보다는 십이지장 궤양 등 인접 질환과의 연관성을 반영한 것으로 보입니다.
 
@@ -96,6 +96,19 @@ TxGNN 모델은 **십이지장 폐색(duodenal obstruction)**에 효과가 있�
 - 허가사항(경고, 금기, 적응증)의 확인
 - 십이지장 폐색 또는 관련 증상에서 pantoprazole의 효과를 직접 평가한 연구
 - 병용 약물(특히 Major 등급 상호작용)에 대한 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Protonix I.V. (pantoprazole sodium) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3cde88e6-28f2-4cbe-8c3f-770b05cc0e1b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

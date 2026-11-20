@@ -55,7 +55,7 @@ TxGNN 모델은 **면역 파괴에 의한 혈소판감소증(thrombocytopenia du
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 mepolizumab은 IL-5를 차단하여 호酸球(호산구)를 감소시키는 항체로 알려져 있으며, 이 분석에서는 호산구 매개 면역 이상이 있는 경우에 한해 연관성을 고려할 수 있습니다.
+미국 FDA가 승인한 Mepolizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “메폴리주맙은 IL-5 길항제(IgG1 kappa)이다. IL-5는 호산구의 성장 및 분화, 동원, 활성화 및 생존을 담당하는 주요 사이토카인이다. 메폴리주맙은 100 pM의 해리 상수로 IL-5에 결합하여, 호산구 세포 표면에 발현되는 IL-5 수용체 복합체의 알파 사슬에 IL-5가 결합하는 것을 차단함으로써 IL-5의 생물학적 활성을 억제한다.” 영어 원문: "Mepolizumab is an IL-5 antagonist (IgG1 kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Mepolizumab binds to IL-5 with a dissociation constant of 100 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface." ([DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea), 버전 2025-08-06; 확인일 2026-11-19). 다만 mepolizumab은 IL-5를 차단하여 호酸球(호산구)를 감소시키는 항체로 알려져 있으며, 이 분석에서는 호산구 매개 면역 이상이 있는 경우에 한해 연관성을 고려할 수 있습니다.
 
 신규 적응증과의 연관성은 제한적입니다. 면역성 혈소판감소증이 호산구증가증과 동반되는 경우에만 기전상 가능성이 있습니다. 반면 호산구가 없는 원발성 면역성 혈소판감소증에서 IL-5 차단이 효과가 있다는 근거는 없습니다.
 
@@ -94,6 +94,19 @@ TxGNN 모델은 **면역 파괴에 의한 혈소판감소증(thrombocytopenia du
 - 작용 기전 데이터 보완
 - 호산구증가증이 동반된 면역성 혈소판감소증 하위군에 대한 추가 문헌 조사 및 전임상/임상 근거
 - 호산구 비의존성 혈소판감소증에 대한 기전적 타당성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nucala (mepolizumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fefb887c-e4ac-431e-8893-e9d1a5a63fea) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

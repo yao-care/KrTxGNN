@@ -55,7 +55,7 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 
 ## 이 예측이 타당한 이유는?
 
-현재 허가사항 기반의 상세한 작용 기전 데이터는 본 보고서용 자료에 포함되어 있지 않습니다. 다만 알려진 정보에 따르면 Ketoconazole은 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하는 아졸계 항진균제입니다. 고용량에서는 사람의 스테로이드 합성 효소(CYP17A1, CYP11A1)도 억제하여 안드로겐 합성을 낮출 수 있습니다.
+미국 FDA가 승인한 Ketoconazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “케토코나졸은 진균 세포막에서 라노스테롤을 에르고스테롤로 전환하는 데 관여하는 사이토크롬 P-450 의존성 효소인 라노스테롤 14α-탈메틸화효소를 억제함으로써 진균 세포막의 핵심 구성성분인 에르고스테롤의 합성을 차단한다. 그 결과 세포막 내에 메틸화된 스테롤 전구체가 축적되고 에르고스테롤이 고갈되어 진균 세포막의 구조와 기능이 약화된다.” 영어 원문: "Ketoconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371), 버전 2025-11-18; 확인일 2026-11-19). 다만 알려진 정보에 따르면 Ketoconazole은 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하는 아졸계 항진균제입니다. 고용량에서는 사람의 스테로이드 합성 효소(CYP17A1, CYP11A1)도 억제하여 안드로겐 합성을 낮출 수 있습니다.
 
 국소 투여 시에는 Malassezia(Pityrosporum) 집락을 줄여 모낭 염증을 완화할 수 있으며, 이것이 여드름 또는 여드름 유사 발진에 기여할 가능성이 있습니다. 또한 피지가 많은 부위에 생기는 지루피부염에 이미 사용되고 있다는 점도 간접적인 타당성을 더합니다. 실험실 연구에서는 Ketoconazole이 여드름의 원인균인 *P. acnes*의 성장과 리파제 활성을 억제한다고 보고되었습니다.
 
@@ -114,6 +114,19 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 - 허가사항(경고·금기) 확보 및 안전성 검토
 - 작용 기전 데이터 보완 (DrugBank 등)
 - 국소 제형으로 한정할지 여부 결정 (전신 투여는 간독성·부신 억제·상호작용 위험으로 부적합 가능성이 큼)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

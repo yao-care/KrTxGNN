@@ -54,7 +54,7 @@ Perampanel은 AMPA 수용체를 길항하는 항경련제 계열의 약물입니
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Perampanel은 AMPA 수용체 길항 계열의 항경련제로 알려져 있습니다.
+미국 FDA가 승인한 Perampanel 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “페람파넬은 시냅스후 뉴런에 있는 이온통로형 α-아미노-3-하이드록시-5-메틸-4-이속사졸프로피온산(AMPA) 글루타메이트 수용체의 비경쟁적 길항제이다. 글루타메이트는 중추신경계의 주요 흥분성 신경전달물질이며, 뉴런의 과흥분으로 인해 발생하는 여러 신경학적 질환에 관여한다.” 영어 원문: "Perampanel is a non-competitive antagonist of the ionotropic α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) glutamate receptor on post-synaptic neurons. Glutamate is the primary excitatory neurotransmitter in the central nervous system and is implicated in a number of neurological disorders caused by neuronal over excitation." ([DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122), 버전 2022-12-28; 확인일 2026-11-19). 다만 Perampanel은 AMPA 수용체 길항 계열의 항경련제로 알려져 있습니다.
 
 베타-케토티올라제 결핍증은 케톤체와 이소류신 대사에 관여하는 대사 질환입니다. AMPA 길항 작용과의 뚜렷한 기전적 연결 고리는 확인되지 않으며, 대사 위기 시 나타날 수 있는 발작 증상 정도가 접점일 수 있습니다. 따라서 이 예측은 모델의 인공적 산물(artifact)일 가능성이 높습니다.
 
@@ -96,6 +96,19 @@ Perampanel은 AMPA 수용체를 길항하는 항경련제 계열의 약물입니
 - 허가사항(MFDS 첨부문서)의 경고 및 금기 정보 확인
 - 베타-케토티올라제 결핍증과 AMPA 경로의 연관성을 보여주는 전임상 또는 기전 연구
 - 이 질환 환자를 대상으로 한 임상 또는 관찰 연구 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Fycompa (perampanel) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71cf3309-e182-473c-8b0b-280cabd0e122) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **비증후군성 식도 기형(non-syndromic esophageal malform
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Ascorbic acid는 항산화 작용과 콜라겐 합성 보조 작용으로 알려진 비타민입니다.
+미국 FDA가 승인한 Ascorbic Acid 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “괴혈병(비타민 C의 심한 결핍으로 인한 질환)의 증상 및 징후 치료에 대한 아스코르브산의 정확한 작용기전은 알려져 있지 않으나, 괴혈병 환자에게 아스코르브산을 투여하면 체내 아스코르브산 저장량이 회복되는 것으로 생각된다.” 영어 원문: "The exact mechanism of action of ascorbic acid for the treatment of symptoms and signs of scurvy (a disorder caused by severe deficiency in vitamin C) is unknown; however, administration of ascorbic acid in patients with scurvy is thought to restore the body pool of ascorbic acid." ([DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6), 버전 2026-09-03; 확인일 2026-11-19). Ascorbic acid는 항산화 작용과 콜라겐 합성 보조 작용으로 알려진 비타민입니다.
 
 그러나 비증후군성 식도 기형은 태생기 발달 과정에서 생기는 구조적 결손입니다. 비타민 C 보충으로 교정된다고 볼 만한 기전상의 연결고리는 현재 확인되지 않습니다. 높은 예측 점수는 모델의 예측 결과일 뿐이며, 이를 뒷받침하는 임상적·기전적 근거는 없습니다.
 
@@ -104,6 +104,18 @@ Paclitaxel, Cisplatin, Doxorubicin, Ethinylestradiol, Pseudoephedrine, Ephedrine
 - 작용 기전(MOA) 데이터 확보 및 이 질환과의 기전적 연결 가능성 검토
 - 이 질환을 직접 다룬 전임상 또는 임상 연구 근거
 - 허가사항(주요 경고·금기)의 확인과 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

@@ -55,7 +55,7 @@ TxGNN 모델은 **경화성 담관염(Sclerosing Cholangitis)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Dexrazoxane은 철 킬레이트 작용과 topoisomerase II 촉매 억제 작용을 가진 약물로 알려져 있으며, 철 의존적 산화 스트레스를 줄이는 것으로 이해됩니다.
+미국 FDA가 승인한 Dexrazoxane 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “덱스라족산이 세포보호 활성을 나타내는 기전은 완전히 밝혀지지 않았다. 덱스라족산은 세포막을 투과하는 EDTA의 고리형 유도체이다. 실험실 연구 결과에 따르면 덱스라족산은 세포 내에서 고리가 열린 킬레이트제로 전환되며, 이것이 안트라사이클린 유발 심근병증의 원인 중 일부로 생각되는 철 매개 자유라디칼 생성을 방해하는 것으로 시사된다.” 영어 원문: "The mechanism by which dexrazoxane exerts its cytoprotective activity is not fully understood. Dexrazoxane is a cyclic derivative of EDTA that penetrates cell membranes. Results of laboratory studies suggest that dexrazoxane is converted intracellularly to a ring-opened chelating agent that interferes with iron-mediated free radical generation thought to be responsible, in part, for anthracycline-induced cardiomyopathy." ([DailyMed: dexrazoxane prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7c01089-85f5-40aa-b679-f53a425b4d68), 버전 2025-07-31; 확인일 2026-11-19). 다만 Dexrazoxane은 철 킬레이트 작용과 topoisomerase II 촉매 억제 작용을 가진 약물로 알려져 있으며, 철 의존적 산화 스트레스를 줄이는 것으로 이해됩니다.
 
 이 작용이 담즙정체성 또는 섬유화성 간 손상과 이어질 가능성은 이론적으로 생각해 볼 수 있습니다. 그러나 이는 추측일 뿐이며, 이번 데이터로는 뒷받침되지 않습니다. 기존 적응증과 신규 적응증 사이의 연관성도 아직 평가되지 않았습니다.
 
@@ -96,6 +96,19 @@ TxGNN 모델(딥러닝)의 점수가 매우 높더라도 이는 모델이 관련
 
 - **방광염(Cystitis, 10위)**: 유일하게 L4(전임상·기전 수준)로 평가되었습니다. 페롭토시스가 사이클로포스파미드 유발 출혈성 방광염과 간질성 방광염에 관여한다는 전임상 문헌이 있습니다. 다만 Dexrazoxane을 직접 검증한 연구는 확인되지 않았고, 화학요법 유발 또는 페롭토시스 관련 방광 손상에 한정된 가설 단계입니다. 감염성 방광염에는 해당하지 않습니다.
 - **기관지염, 파라티푸스, 결막염, 후두개염, 복막염, 후두염, 요로감염, 신우신염**: 모두 L5이며 Hold입니다. Dexrazoxane에 항균 작용이 없고 골수억제·면역억제 특성이 있어 감염성 질환과는 기전상 맞지 않으며, TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성이 반영된 결과일 가능성이 높습니다. 복막염에서 검색된 문헌 2편은 치료 효과를 뒷받침하지 않으며 키워드가 우연히 일치한 것으로 보입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: dexrazoxane prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7c01089-85f5-40aa-b679-f53a425b4d68) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

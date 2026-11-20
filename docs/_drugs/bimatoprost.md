@@ -55,7 +55,7 @@ TxGNN 모델은 **치아 및/또는 치주 구성 요소를 가진 기형 증후
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Bimatoprost는 프로스타마이드(prostaglandin F2α 유사체) 계열의 약물입니다.
+미국 FDA가 승인한 Bimatoprost 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “프로스타글란딘 유사체인 비마토프로스트는 안압 강하 활성을 가진 프로스타글란딘의 합성 구조 유사체이다. 비마토프로스트는 섬유주(전통적 경로) 및 포도막공막 경로(비전통적 경로) 모두를 통한 방수 유출을 증가시킴으로써 인체에서 IOP를 낮추는 것으로 여겨진다.” 영어 원문: "Bimatoprost, a prostaglandin analog, is a synthetic structural analog of prostaglandin with ocular hypotensive activity. Bimatoprost is believed to lower IOP in humans by increasing outflow of aqueous humor through both the trabecular meshwork (conventional) and uveoscleral routes (unconventional)." ([DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341), 버전 2024-10-16; 확인일 2026-11-19). 알려진 정보에 따르면 Bimatoprost는 프로스타마이드(prostaglandin F2α 유사체) 계열의 약물입니다.
 
 이 계열의 작용은 치아·치주 구성 요소를 가진 발달 기형과 알려진 기전적 연관성이 없습니다. 이번 점수는 모델 예측일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다. 따라서 현 단계에서 기전상 타당하다고 보기 어렵습니다.
 
@@ -84,6 +84,19 @@ TxGNN 모델은 **치아 및/또는 치주 구성 요소를 가진 기형 증후
 - Bimatoprost의 상세 작용 기전 데이터와 해당 질환 병태생리와의 연관성 분석
 - 한국 허가사항(경고 및 금기)의 확인
 - 한국 시판 상태(유효/취소) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

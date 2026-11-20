@@ -55,7 +55,7 @@ TxGNN 모델은 **경부 신경모세포종(Cervical Neuroblastoma)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 이번 보고서용으로 수집된 자료에 없습니다. 알려진 정보에 따르면 Lindane은 GABA-A 수용체(염소 이온 채널) 길항제로, 국소 외용 살충제로 사용되어 왔습니다.
+ChEMBL(EMBL-EBI)에 등록된 Lindane의 작용 기전(비공식 번역): “GABA-A 수용체 음성 알로스테릭 조절제” 영어 원문: "GABA-A receptor negative allosteric modulator" ([ChEMBL CHEMBL15891 (lindane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL15891), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Lindane은 GABA-A 수용체(염소 이온 채널) 길항제로, 국소 외용 살충제로 사용되어 왔습니다.
 
 이 기전과 신경모세포종 등 종양 사이에서 확립된 연관성은 없습니다. 예측 점수(0.9991)는 TxGNN 모델(딥러닝)에서 나온 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으며 생물학적 근거는 아닙니다. 오히려 Lindane의 신경독성(경련)과 발암 가능성 분류는 종양 치료 목적의 사용에 불리합니다.
 
@@ -90,6 +90,19 @@ TxGNN 모델은 **경부 신경모세포종(Cervical Neuroblastoma)**에 효과�
 - DrugBank 등에서 작용 기전(MOA) 데이터 보완
 - 신경모세포종 등 예측 질환에 대한 전임상 또는 기전 연구 근거
 - 신경독성 및 전신 노출 위험에 대한 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL15891 (lindane): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL15891) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

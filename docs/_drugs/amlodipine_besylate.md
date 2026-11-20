@@ -55,7 +55,7 @@ Amlodipine Besylate는 칼슘 채널 차단제 계열의 약물로, 국내에서
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Amlodipine은 혈관 평활근의 칼슘 유입을 차단하는 칼슘 채널 차단제입니다. 이 혈압 강하 작용은 뇌졸중 2차 예방에 기여할 가능성이 있습니다.
+미국 FDA가 승인한 Amlodipine Besylate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “암로디핀은 디히드로피리딘계 칼슘 길항제(칼슘 이온 길항제 또는 서통로 차단제)로서, 혈관 평활근 및 심근으로의 칼슘 이온의 막횡단 유입을 억제한다. 실험 자료에 따르면 암로디핀은 디히드로피리딘 결합 부위와 비디히드로피리딘 결합 부위 모두에 결합하는 것으로 시사된다.” 영어 원문: "Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites." ([DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487), 버전 2026-09-28; 확인일 2026-11-19). 알려진 정보에 따르면 Amlodipine은 혈관 평활근의 칼슘 유입을 차단하는 칼슘 채널 차단제입니다. 이 혈압 강하 작용은 뇌졸중 2차 예방에 기여할 가능성이 있습니다.
 
 그러나 이번에 수집된 자료에는 뇌간 경색에서 Amlodipine을 검증한 연구가 없습니다. 예측 점수가 높은 것은 다른 뇌혈관 질환과의 연관성이 반영된 결과로 보이며, 뇌간 경색에 특화된 기전적 근거는 확인되지 않았습니다. 따라서 이 예측은 가설 수준으로 보아야 합니다.
 
@@ -95,6 +95,19 @@ Amlodipine Besylate는 칼슘 채널 차단제 계열의 약물로, 국내에서
 - 상세한 약물 작용 기전(MOA) 데이터
 - 허가사항(경고, 금기)의 안전성 정보 확인
 - 뇌졸중 환경에서의 혈압 목표와 저혈압 위험을 검토하는 안전성 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

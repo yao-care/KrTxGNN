@@ -54,7 +54,7 @@ Atezolizumab은 PD-L1을 표적으로 하는 항체 의약품으로, 한국에�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Atezolizumab은 PD-L1을 차단하는 항체입니다. PD-1/PD-L1 경로에 의한 T세포 억제를 풀어 항종양 면역 반응을 되살리는 방식으로 작용할 수 있습니다.
+미국 FDA가 승인한 Atezolizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “PD L1은 종양 세포 및/또는 종양 침윤 면역세포에서 발현될 수 있으며, 종양 미세환경에서 항종양 면역반응의 억제에 기여할 수 있다. PD L1이 T세포 및 항원제시세포에 존재하는 PD 1 및 B7.1 수용체에 결합하면 세포독성 T세포 활성, T세포 증식 및 사이토카인 생성이 억제된다. […] 아테졸리주맙은 PD L1에 결합하여 PD 1 및 B7.1 수용체 모두와의 상호작용을 차단하는 단클론항체이다.” 영어 원문: "PD L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD L1 to the PD 1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production. […] Atezolizumab is a monoclonal antibody that binds to PD L1 and blocks its interactions with both PD 1 and B7.1 receptors." ([DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee), 버전 2026-10-13; 확인일 2026-11-19). 알려진 정보에 따르면 Atezolizumab은 PD-L1을 차단하는 항체입니다. PD-1/PD-L1 경로에 의한 T세포 억제를 풀어 항종양 면역 반응을 되살리는 방식으로 작용할 수 있습니다.
 
 자궁인대 선암에 이 기전이 적용될 가능성은 있습니다. 부인과 선암에서 PD-L1 차단이 항종양 T세포 활성을 회복시킬 수 있다는 가설이 근거입니다. 다만 이 질환은 희귀한 부위 특이적 질환이어서, 다른 부인과 암에서 얻은 결과를 적용하는 것은 추정에 불과하며 검증되지 않았습니다.
 
@@ -112,6 +112,19 @@ Atezolizumab은 PD-L1을 표적으로 하는 항체 의약품으로, 한국에�
 - DrugBank 등에서 작용 기전(MOA) 데이터 보완
 - 자궁인대 선암에 대한 임상시험 및 문헌 추가 검색
 - 인접 질환 자료의 참고. 같은 데이터에서 자궁경부 관련 예측(endocervical carcinoma)에는 Atezolizumab 임상시험 2건(Phase 2 병용 시험 1건, Phase 1 시험 1건)이 있습니다. 이는 이 질환의 직접 근거가 아니라 연구 가설을 세울 때의 참고 자료입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

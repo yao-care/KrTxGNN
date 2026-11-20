@@ -55,7 +55,7 @@ TxGNN 모델은 **위십이지장염(gastroduodenitis)**에 효과가 있을 수
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Dexlansoprazole은 PPI 계열 약물로, 위산 분비를 억제하는 것이 일반적인 약리 특성입니다.
+미국 FDA가 승인한 Dexlansoprazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “덱스란소프라졸은 위 벽세포의 분비 표면에서 (H +, K + )-ATPase를 특이적으로 억제함으로써 위산 분비를 억제하는 항분비 화합물 계열인 치환 벤즈이미다졸에 속한다. 이 효소는 벽세포 내의 산(양성자) 펌프로 간주되므로, 덱스란소프라졸은 산 생성의 최종 단계를 차단한다는 점에서 위 양성자 펌프 억제제로 특징지어졌다.” 영어 원문: "Dexlansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase at the secretory surface of the gastric parietal cell. Because this enzyme is regarded as the acid (proton) pump within the parietal cell, dexlansoprazole has been characterized as a gastric proton-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Dexlansoprazole Delayed Release (dexlansoprazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55c550b4-eb8b-4e69-9c09-fa5125a52e65), 버전 2026-11-04; 확인일 2026-11-19). 다만 Dexlansoprazole은 PPI 계열 약물로, 위산 분비를 억제하는 것이 일반적인 약리 특성입니다.
 
 위와 십이지장의 염증은 위산과 관련될 수 있으므로, 위산 억제가 증상 완화에 도움이 될 가능성은 기전상 있습니다. 그러나 이 예측을 뒷받침하는 임상시험이나 문헌이 연결되어 있지 않으며, 현재 근거는 TxGNN 모델 점수뿐입니다. 약물과 질환 간 유사성 분석도 아직 완료되지 않았습니다.
 
@@ -89,6 +89,19 @@ TxGNN 모델은 **위십이지장염(gastroduodenitis)**에 효과가 있을 수
 - 상세한 약물 작용 기전(MOA) 데이터 확보
 - 위십이지장염에 대한 임상시험 또는 문헌 근거 탐색
 - 기존 적응증과 예측 질환 간 유사성 분석 및 투여 경로 적합성 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Dexlansoprazole Delayed Release (dexlansoprazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=55c550b4-eb8b-4e69-9c09-fa5125a52e65) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

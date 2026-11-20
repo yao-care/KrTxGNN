@@ -55,7 +55,7 @@ TxGNN 모델은 **헐러 증후군(Hurler syndrome)**에 효과가 있을 수 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Imiglucerase는 고셰병에서 글루코실세라마이드의 축적을 줄이는 재조합 글루코세레브로시다제입니다.
+미국 FDA가 승인한 Imiglucerase 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “고셔병은 β-글루코세레브로시다제 활성의 결핍을 특징으로 하며, 이로 인해 간, 비장 및 골수를 포함한 여러 조직에 글루코세레브로시드가 축적된다. 이미글루세라제의 만노스 당은 대식세포를 포함한 세포에 대한 결합 및 세포 내 흡수를 매개한다.” 영어 원문: "Gaucher disease is characterized by a deficiency of β-glucocerebrosidase activity, which results in accumulation of glucocerebroside in various tissues including liver, spleen, and bone marrow. The mannose sugars on imiglucerase mediate binding to and internalization by cells including macrophages." ([DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38), 버전 2026-08-27; 확인일 2026-11-19). 알려진 정보에 따르면 Imiglucerase는 고셰병에서 글루코실세라마이드의 축적을 줄이는 재조합 글루코세레브로시다제입니다.
 
 헐러 증후군(MPS I)은 알파-L-이두로니다제 결핍으로 글리코사미노글리칸이 축적되는 질환입니다. 효소와 기질이 모두 달라 Imiglucerase가 직접 작용할 기전적 근거는 없습니다. 두 질환의 유일한 연결고리는 "리소좀 축적질환에 대한 효소대체요법"이라는 일반 개념입니다.
 
@@ -99,6 +99,19 @@ Imiglucerase와 헐러 증후군 사이에는 효소·기질 측면에서 직접
 - 헐러 증후군 기질(글리코사미노글리칸)에 대한 imiglucerase의 활성 여부를 확인하는 전임상 연구
 - 한국 허가 적응증 및 경고·금기 정보 확인(허가증 원문 확보)
 - 참고: 헐러 증후군에는 알파-L-이두로니다제 대체 효소(laronidase 등)가 이미 표적 치료제로 존재하므로, 이와 비교한 재창출 필요성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cerezyme (imiglucerase) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df60f030-866b-4374-a31f-8ae3f6b45c38) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

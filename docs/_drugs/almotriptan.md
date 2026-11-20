@@ -55,7 +55,7 @@ TxGNN 모델은 **위축성 벌레 모양 피부증(atrophoderma vermiculata)**�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 almotriptan은 5-HT1B/1D 수용체 작용제 계열이며, 이 기전은 위축성 벌레 모양 피부증의 발병 과정과 연결된 근거가 없습니다.
+미국 FDA가 승인한 Almotriptan 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “알모트립탄은 5-HT 1D, 5-HT 1B 및 5-HT 1F 수용체에 높은 친화도로 결합한다. 알모트립탄은 5-HT 1A 및 5-HT 7 수용체에 약한 친화도를 가지나, 5-HT 2, 5-HT 3, 5-HT 4, 5-HT 6; 알파 또는 베타 아드레날린; 아데노신(A 1, A 2 ); 안지오텐신(AT 1, AT 2 ); 도파민(D 1, D 2 ); 엔도텔린(ET A, ET B ); 또는 타키키닌(NK 1, NK 2, NK 3 ) 결합 부위에는 유의한 친화도나 약리 활성이 없다.” 영어 원문: "Almotriptan binds with high affinity to 5-HT 1D, 5-HT 1B, and 5-HT 1F receptors. Almotriptan has weak affinity for 5-HT 1A and 5-HT 7 receptors, but has no significant affinity or pharmacological activity at 5-HT 2, 5-HT 3, 5-HT 4, 5-HT 6; alpha or beta adrenergic; adenosine (A 1, A 2 ); angiotensin (AT 1, AT 2 ); dopamine (D 1, D 2 ); endothelin (ET A, ET B ); or tachykinin (NK 1, NK 2, NK 3 ) binding sites." ([DailyMed: almotriptan prescribing information, Ajanta Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa380c4-c885-4743-85bf-88819ae68645), 버전 2025-12-31; 확인일 2026-11-19). 알려진 정보에 따르면 almotriptan은 5-HT1B/1D 수용체 작용제 계열이며, 이 기전은 위축성 벌레 모양 피부증의 발병 과정과 연결된 근거가 없습니다.
 
 위축성 벌레 모양 피부증은 뺨 등에 나타나는 드문 모낭 위축성 피부질환입니다. 세로토닌 수용체 작용과의 기전적 연관성은 확립되어 있지 않습니다. 따라서 높은 예측 점수는 계산상의 예측일 뿐이며, 임상시험이나 문헌 근거로 뒷받침되지 않습니다.
 
@@ -85,6 +85,19 @@ TxGNN 모델은 **위축성 벌레 모양 피부증(atrophoderma vermiculata)**�
 - 상세한 약물 작용 기전(MOA) 데이터
 - 허가사항(경고 및 금기) 확보와 안전성 검토
 - 허가 적응증 정보 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: almotriptan prescribing information, Ajanta Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa380c4-c885-4743-85bf-88819ae68645) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

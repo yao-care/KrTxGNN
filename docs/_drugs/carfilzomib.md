@@ -64,7 +64,7 @@ Carfilzomib은 비가역적 프로테아좀 억제제로, 한국에서 키프롤
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 carfilzomib은 비가역적 프로테아좀 억제제로, 단백질 분해 경로를 차단해 종양세포에 단백질 독성 스트레스와 세포사멸(apoptosis)을 유도합니다. 이 기전이 흑색종에도 적용될 가능성이 이론적으로 제기됩니다.
+미국 FDA가 승인한 Carfilzomib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “카르필조밉은 테트라펩티드 에폭시케톤 프로테아좀 억제제로, 26S 프로테아좀 내의 단백질 분해 핵심 입자인 20S 프로테아좀의 N-말단 트레오닌 함유 활성 부위에 비가역적으로 결합한다. 카르필조밉은 시험관 내에서 고형 종양 세포 및 혈액 종양 세포에 대해 항증식 활성 및 세포자멸사 촉진 활성을 나타냈다.” 영어 원문: "Carfilzomib is a tetrapeptide epoxyketone proteasome inhibitor that irreversibly binds to the N-terminal threonine-containing active sites of the 20S proteasome, the proteolytic core particle within the 26S proteasome. Carfilzomib had antiproliferative and proapoptotic activities in vitro in solid and hematologic tumor cells." ([DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6), 버전 2025-06-18; 확인일 2026-11-19). 알려진 정보에 따르면 carfilzomib은 비가역적 프로테아좀 억제제로, 단백질 분해 경로를 차단해 종양세포에 단백질 독성 스트레스와 세포사멸(apoptosis)을 유도합니다. 이 기전이 흑색종에도 적용될 가능성이 이론적으로 제기됩니다.
 
 전임상 연구(PMID 33671902)에서는 carfilzomib과 bortezomib 병용이 B16-F1 마우스 흑색종 세포에서 세포사멸을 증가시켰고, caspase 3, 8, 9, 12 활성화가 관찰되었습니다. 이는 흑색종의 프로테아좀 의존성을 시사하지만, 인간 흑색종 모델이나 임상 데이터는 없습니다.
 
@@ -127,6 +127,19 @@ Carfilzomib은 비가역적 프로테아좀 억제제로, 한국에서 키프롤
 - 기존 흑색종 표준치료(면역항암제 등)와 비교한 필요성 및 병용 가능성 검토
 - 중추신경계 투과 여부 등 약동학 데이터 확인 (연수막 질환 고려 시)
 - 주요 약물 상호작용 항목에 대한 임상적 의미 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

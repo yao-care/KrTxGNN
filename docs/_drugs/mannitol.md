@@ -54,7 +54,7 @@ Mannitol은 한국에서 단일 성분 주사제와 흡입용 캡슐로 허가�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Mannitol은 삼투성 이뇨제로, 신장에서 물과 용질 배설을 늘리는 약물입니다.
+미국 FDA가 승인한 Mannitol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “만니톨은 정맥 투여 시 주로 세포외 공간에 국한되는 비교적 작은 분자 크기의 용질로서 삼투성 이뇨 효과를 나타낸다. 만니톨은 사구체 여과액의 삼투질 농도를 높여 세뇨관의 수분 재흡수를 저해하고 나트륨 및 염화물의 배설을 증가시킨다.” 영어 원문: "Mannitol, when administered intravenously, exerts its osmotic diuretic effect as a solute of relatively small molecular size being largely confined to the extracellular space. Mannitol hinders tubular reabsorption of water and enhances excretion of sodium and chloride by elevating the osmolarity of the glomerular filtrate." ([DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc), 버전 2025-08-26; 확인일 2026-11-19). 알려진 정보에 따르면 Mannitol은 삼투성 이뇨제로, 신장에서 물과 용질 배설을 늘리는 약물입니다.
 
 신성 항이뇨 부적절 증후군은 물 재흡수가 과도해 저나트륨혈증이 생기는 질환입니다. 삼투성 이뇨가 이론상 수분 배설을 돕는다고 볼 여지는 있습니다. 그러나 Mannitol은 혈관 내 용적을 늘리고 용질을 함께 배설시키므로, 이 질환에서 이득이 제한적일 것으로 예상됩니다. 연결된 문헌도 저나트륨혈증 평가 시 흔한 함정을 다룬 일반 리뷰일 뿐 Mannitol 사용을 뒷받침하지 않습니다. 높은 TxGNN 점수는 임상 근거 없는 네트워크 기반 예측입니다.
 
@@ -115,6 +115,19 @@ Mannitol은 한국에서 단일 성분 주사제와 흡입용 캡슐로 허가�
 | 9 | 중심핵 근병증 | 0.9969 | L5 | 임상시험과 문헌 없음 |
 
 위 질환들은 모두 이 질환 자체를 직접 연구한 시험이나 문헌이 없어 L5로 정리했으며, 모두 Hold를 권장합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

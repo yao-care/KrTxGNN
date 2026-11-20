@@ -54,7 +54,7 @@ Acarbose는 알파-글루코시다제 억제제로, 한국에서 혈당 조절(�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Acarbose는 장에서 탄수화물 소화·흡수를 늦춰 식후 혈당 상승을 완화하는 알파-글루코시다제 억제제입니다.
+미국 FDA가 승인한 Acarbose 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “설포닐우레아와 달리, Acarbose Tablets는 인슐린 분비를 증가시키지 않는다. 아카르보스의 항고혈당 작용은 췌장 알파-아밀라아제 및 막결합 장 알파-글루코시드 가수분해효소의 경쟁적·가역적 저해에 의한 것이다.” 영어 원문: "In contrast to sulfonylureas, Acarbose Tablets do not enhance insulin secretion. The antihyperglycemic action of acarbose results from a competitive, reversible inhibition of pancreatic alpha-amylase and membrane-bound intestinal alpha-glucoside hydrolase enzymes." ([DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a), 버전 2026-08-11; 확인일 2026-11-19). 알려진 정보에 따르면 Acarbose는 장에서 탄수화물 소화·흡수를 늦춰 식후 혈당 상승을 완화하는 알파-글루코시다제 억제제입니다.
 
 반면 강직인간증후군은 항-GAD65 항체 등과 관련된 자가면역성 질환으로, GABA 신경전달 이상이 핵심입니다. 두 질환 사이에 뚜렷한 기전적 연결고리는 확인되지 않습니다. 유일하게 생각해 볼 수 있는 접점은 자가면역성 당뇨병이 흔히 동반된다는 점인데, 이는 Acarbose의 치료적 역할을 뒷받침하지 않습니다.
 
@@ -100,6 +100,19 @@ TxGNN 점수는 매우 높지만(0.9965) 임상시험과 문헌이 전혀 없고
 - 허가사항(MFDS 첨부문서)의 경고·금기·적응증 문구 확보
 - 강직인간증후군 관련 전임상 또는 임상 문헌 탐색
 - 다른 상위 예측(예: 당뇨 관련 표현형 질환)에 대한 별도 타당성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

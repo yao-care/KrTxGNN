@@ -55,7 +55,7 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 일반적으로 hydroquinone은 티로시naze(tyrosinase)를 억제하여 멜라닌 합성을 줄이는 것으로 알려져 있으며, 이 때문에 색소 침착 질환에 사용됩니다.
+미국 FDA가 승인한 Hydroquinone 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “히드로퀴논을 국소 적용하면 티로신이 3,4-디히드록시페닐알라닌(도파)으로 효소적으로 산화되는 것을 억제하고(Denton, C. et al., 1952)1 기타 멜라닌세포 대사 과정을 억제함으로써(Jimbow, K. et al., 1974)2 피부의 가역적인 탈색소가 일어난다. 햇빛이나 자외선에 노출되면 탈색된 부위에 재색소침착이 일어난다(Parrish, L.A. et al., 1978)3.” 영어 원문: "Topical application of hydroquinone produces a reversible depigmentation of the skin by inhibition of the enzymatic oxidation of tyrosine to 3,4-dihydroxyphenylalanine (dopa) (Denton, C. et al., 1952)1 and suppression of other melanocyte metabolic processes (Jimbow, K. et al., 1974)2. Exposure to sunlight or ultraviolet light will cause repigmentation of bleached areas (Parrish, L.A. et al., 1978)3." ([DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b), 버전 2026-07-10; 확인일 2026-11-19). 다만 일반적으로 hydroquinone은 티로시naze(tyrosinase)를 억제하여 멜라닌 합성을 줄이는 것으로 알려져 있으며, 이 때문에 색소 침착 질환에 사용됩니다.
 
 지루각화증은 갈색~검은색을 띠는 경우가 많아 색소를 옅게 하는 효과는 기대할 수 있습니다. 그러나 지루각화증은 색소 질환만이 아니라 표피가 증식하는 양성 병변이므로, 탈색이 병변 자체를 치료하지는 못합니다. 따라서 기전상의 연관성은 제한적이며, 높은 TxGNN 점수는 계산상의 예측일 뿐 직접적인 임상 자료로 뒷받침되지 않습니다.
 
@@ -99,6 +99,19 @@ TxGNN 모델은 **지루각화증(Seborrheic Keratosis)**에 효과가 있을 �
 - 투여 경로 적합성(외용 크림) 평가
 
 *참고: 2~4순위 예측(외음부 역모낭각화증, 발진, 태선 질환)도 모두 근거가 간접적이거나 없어 Hold 판정입니다.*
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

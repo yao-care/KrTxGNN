@@ -54,7 +54,7 @@ Fentanyl은 강력한 아편유사제 진통제로, 한국에서 패취, 주사,
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 fentanyl은 mu-아편유사제 수용체 작용제로 알려져 있으며, 아편유사제는 바소프레신 분비와 신장의 수분 처리에 영향을 줄 수 있습니다.
+미국 FDA가 승인한 Fentanyl 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “펜타닐시트르산염 주사액은 오피오이드 효능제로, 치료적 가치가 있는 주된 작용은 진통 및 진정이다.” 영어 원문: "Fentanyl Citrate Injection is an opioid agonist, whose principal actions of therapeutic value are analgesia and sedation." ([DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11), 버전 2026-10-23; 확인일 2026-11-19). 일반적으로 fentanyl은 mu-아편유사제 수용체 작용제로 알려져 있으며, 아편유사제는 바소프레신 분비와 신장의 수분 처리에 영향을 줄 수 있습니다.
 
 그러나 신성 항이뇨 부적절 증후군은 신장의 바소프레신 V2 수용체(AVPR2) 기능획득 돌연변이로 발생하며, 순환 바소프레신과 무관하게 작용합니다. 따라서 fentanyl과의 약리학적 연결고리가 뚜렷하지 않습니다. 오히려 아편유사제는 SIADH 유사 효과와 관련되어 있어 상태를 악화시킬 가능성도 있습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -92,6 +92,19 @@ TxGNN 점수는 높지만 임상시험과 문헌 근거가 전혀 없고(L5), �
 - AVPR2 경로 및 아편유사제-바소프레신 상호작용에 대한 전임상·기전 근거
 - 임상시험 및 문헌 근거 확보 (현재 없음)
 - 뚜렛 증후군 등 다른 예측 질환도 동일하게 근거 보강 필요
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

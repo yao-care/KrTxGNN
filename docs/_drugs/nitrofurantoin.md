@@ -54,7 +54,7 @@ Nitrofurantoin은 항균제로, 한국에서 단일제 캡슐로 허가되어 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보로는 nitrofurantoin은 항균제이며, 니트로푸란 대사체가 세균의 DNA와 리보솜 단백질을 손상시켜 작용합니다.
+미국 FDA가 승인한 Nitrofurantoin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “니트로푸란토인은 항균제이다. […] 니트로푸란토인은 세균의 플라보단백질을 포함한 광범위한 효소에 의해 반응성 중간체로 환원되며, 이 중간체는 DNA 및 단백질과 같은 거대분자에 손상을 입힌다.” 영어 원문: "Nitrofurantoin is an antibacterial drug. […] Nitrofurantoin is reduced by a wide range of enzymes including bacterial flavoproteins to reactive intermediates which are damaging to macromolecules such as DNA and proteins." ([DailyMed: nitrofurantoin prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd99ba40-edff-47c3-9ee4-7e5b7774e5b5), 버전 2026-01-22; 확인일 2026-11-19). 알려진 정보로는 nitrofurantoin은 항균제이며, 니트로푸란 대사체가 세균의 DNA와 리보솜 단백질을 손상시켜 작용합니다.
 
 이 기전과 류마티스 관절염의 병태생리(자가면역성 관절 염증) 사이에는 설득력 있는 치료적 연관성이 확인되지 않습니다. 수집된 문헌도 치료 효과가 아니라 해악을 다룹니다. 약물 유발 폐섬유화, 메토트렉세이트와의 병용 시 비가역적 폐섬유화 사례, 항생제 사용과 RA 악화의 연관성 등입니다. 따라서 높은 점수는 임상 근거로 뒷받침되지 않습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 간에 학습한 유사성(예: 폐섬유화)을 반영했을 수 있지만 생물학적 근거는 아닙니다.
 
@@ -107,6 +107,19 @@ Nitrofurantoin은 항균제로, 한국에서 단일제 캡슐로 허가되어 �
 
 **참고: 다른 예측 적응증**
 순위 2~10위(상염색체 우성 가족성 혈뇨-망막 세동맥 사행-구축 증후군, 뇌 소혈관질환 1형, 당뇨병성 신증, 경화성 담관염, 통풍, 메트헤모글로빈혈증 등)도 모두 L5~L4 수준이며 권장 결정은 Hold입니다. 특히 메트헤모글로빈혈증은 치료가 아니라 nitrofurantoin이 유발하는 이상반응으로 확인되어, 재창출 대상이 아닌 안전성 경고 신호로 해석해야 합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: nitrofurantoin prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd99ba40-edff-47c3-9ee4-7e5b7774e5b5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

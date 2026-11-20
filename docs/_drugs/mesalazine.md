@@ -55,7 +55,7 @@ TxGNN 모델은 **선천성 저모발증 동반 연소성 황반 이영양증(co
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Mesalazine은 장관 염증 치료에 쓰이는 5-아미노살리실산 계열 약물이며, COX/LOX 억제, PPAR-gamma 활성화, NF-kB 조절 등 항염증 작용이 보고되어 있습니다.
+미국 FDA가 승인한 Mesalazine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “메살라민의 작용 기전은 완전히 밝혀지지 않았으나, 결장 상피세포에 국소 항염 효과를 나타내는 것으로 보인다. 궤양성 대장염 환자에서는 사이클로옥시게나제 경로와 리폭시게나제 경로 모두를 통한 아라키돈산 대사체의 점막 생성이 증가되어 있으며, 메살라민은 결장에서 사이클로옥시게나제를 차단하고 프로스타글란딘 생성을 억제함으로써 염증을 감소시킬 가능성이 있다.” 영어 원문: "The mechanism of action of mesalamine is not fully understood, but it appears to have a topical anti-inflammatory effect on the colonic epithelial cells. Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon." ([DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7), 버전 2026-10-26; 확인일 2026-11-19). 알려진 정보에 따르면 Mesalazine은 장관 염증 치료에 쓰이는 5-아미노살리실산 계열 약물이며, COX/LOX 억제, PPAR-gamma 활성화, NF-kB 조절 등 항염증 작용이 보고되어 있습니다.
 
 그러나 이 질환은 CDH3 유전자 이상과 관련된 희귀 유전성 질환으로, Mesalazine의 항염증 작용과의 기전적 연결고리는 제공된 데이터에서 확인되지 않습니다. 예측 점수는 매우 높지만 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -88,6 +88,19 @@ TxGNN 모델은 **선천성 저모발증 동반 연소성 황반 이영양증(co
 - MFDS 허가사항(경고·금기·적응증 텍스트) 확보 및 분석
 - CDH3 관련 질환과 Mesalazine 사이의 기전적 연관성에 대한 전임상 근거
 - 우선순위 재검토: 근거가 상대적으로 많은 류마티스 관절염 등 다른 예측 후보 평가 고려
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

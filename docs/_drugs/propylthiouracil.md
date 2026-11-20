@@ -56,7 +56,7 @@ TxGNN 모델은 **갑상선호르몬 수용체 β 변이에 의한 갑상선호�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터는 이번 자료에 없습니다. 알려진 정보에 따르면 PTU는 갑상선 과산화효소(thyroid peroxidase)를 억제해 갑상선호르몬 합성을 줄이고, 말초에서 T4가 T3로 전환되는 것도 억제합니다.
+미국 FDA가 승인한 Propylthiouracil 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “프로필티오우라실은 갑상선 호르몬의 합성을 억제하므로 갑상선기능항진증 치료에 효과적이다. 이 약물은 갑상선에 저장되어 있거나 혈중에 순환하고 있는 기존의 티록신 및 트리요오드티로닌을 불활성화하지 않으며, 경구 또는 주사로 투여된 갑상선 호르몬의 효과를 방해하지도 않는다.” 영어 원문: "Propylthiouracil inhibits the synthesis of thyroid hormones and thus is effective in the treatment of hyperthyroidism. The drug does not inactivate existing thyroxine and triiodothyronine that are stored in the thyroid or circulating in the blood, nor does it interfere with the effectiveness of thyroid hormones given by mouth or by injection." ([DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa), 버전 2026-08-27; 확인일 2026-11-19). 알려진 정보에 따르면 PTU는 갑상선 과산화효소(thyroid peroxidase)를 억제해 갑상선호르몬 합성을 줄이고, 말초에서 T4가 T3로 전환되는 것도 억제합니다.
 
 RTH-β는 THRB 유전자 변이로 조직이 호르몬에 잘 반응하지 못하는 질환입니다. 이를 보상하려고 TSH가 높아지면서 T4와 T3 수치가 상승합니다. 호르몬 생성을 줄이는 PTU는 기전상 생각해 볼 수 있습니다. 하지만 이 접근은 일반적으로 **부적절한 것으로 간주됩니다**. TSH를 더 올려 갑상선종을 악화시킬 수 있고, 이미 저항성이 있는 조직에 갑상선기능저하를 유발할 수 있기 때문입니다.
 
@@ -122,11 +122,12 @@ RTH-β에 대한 PTU 근거는 동물 모델과 증례 수준이며 임상시험
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “3건 모두 유효한 단일제 허가이며, 이 중 2건은 수출용입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Methylene blue(메틸렌블루)는 국내에서 주사제(프로베블루주 0.5
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 이론적으로 methylene blue는 일산화질소 합성효소와 구아닐산 고리화효소를 억제하는 것으로 알려져 있어 기도 염증과 평활근 긴장도에 영향을 줄 가능성이 있습니다. 다만 이는 추측 수준입니다.
+미국 FDA가 승인한 Methylene Blue 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “메틸렌블루는 metHb가 헤모글로빈으로 전환되는 비효소적 산화환원 반응을 촉진하는 수용성 티아진 염료이다. 생체 내에서 메틸렌블루는 먼저 NADPH 환원효소를 통해 류코메틸렌블루(LMB)로 전환된다. 이후 metHb의 3가 철(ferric iron)을 정상 헤모글로빈의 2가 철(ferrous) 상태로 환원시키는 것은 LMB 분자이다.” 영어 원문: "Methylene blue is a water soluble thiazine dye that promotes a non-enyzmatic redox conversion of metHb to hemoglobin. In situ, methylene blue is first converted to leucomethylene blue (LMB) via NADPH reductase. It is the LMB molecule which then reduces the ferric iron of metHb to the ferrous state of normal hemoglobin." ([DailyMed: Provayblue (methylene blue) prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232), 버전 2025-05-28; 확인일 2026-11-19). 이론적으로 methylene blue는 일산화질소 합성효소와 구아닐산 고리화효소를 억제하는 것으로 알려져 있어 기도 염증과 평활근 긴장도에 영향을 줄 가능성이 있습니다. 다만 이는 추측 수준입니다.
 
 검색된 문헌에서 methylene blue는 기관지 내시경 검사의 진단용 염색제로만 등장합니다. 기관지염 치료 효과를 시사하는 자료는 없습니다. 이 예측(점수 0.9997)은 치료 근거보다는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 크며, 생물학적 근거는 아닙니다.
 
@@ -111,6 +111,19 @@ TxGNN 점수는 매우 높지만(0.9997) 임상시험이 없고, 검색된 문�
 - 기관지염에 대한 전임상 또는 임상 근거 확보 (기도 염증·평활근 모델 등)
 - 투여 경로 적합성 검토 (현재 국내 제형은 주사제만 있음)
 - 참고: 메트헤모글로빈혈증 관련 예측은 기전적 타당성이 높아 별도 검토할 가치가 있습니다. 다만 알파형(M-헤모글로빈 변이)은 반응이 불량할 수 있고, 환원효소 결핍형은 이미 표준 진료에서 다뤄지고 있어 재창출 가치는 제한적입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Provayblue (methylene blue) prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4f6848e5-35ed-4046-b13c-3032b5ba3232) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

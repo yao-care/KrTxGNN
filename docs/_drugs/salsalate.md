@@ -54,7 +54,7 @@ Salsalate는 비아세틸화 살리실산염 계열 약물로, 한국에서 단�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이 보고서용으로 수집된 자료에 없습니다. 일반적으로 알려진 바에 따르면 Salsalate는 비아세틸화 살리실산염으로, NF-κB 억제, AMPK 활성화, 약한 COX 억제 작용을 가집니다.
+미국 FDA가 승인한 Salsalate 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “살리실산(살살레이트의 주요 대사체)은 시험관 내에서 프로스타글란딘 합성의 약한 억제제이지만, 살살레이트는 생체 내에서 프로스타글란딘 합성을 선택적으로 억제하는 것으로 보이며 1, 아스피린 2 및 인도메타신 3과 동등한 항염증 활성을 나타낸다. 아스피린과 달리 살살레이트는 혈소판 응집을 억제하지 않는다 4.” 영어 원문: "Although salicylic acid (the primary metabolite of salsalate) is a weak inhibitor of prostaglandin synthesis in vitro, salsalate appears to selectively inhibit prostaglandin synthesis in vivo 1, providing anti-inflammatory activity equivalent to aspirin 2 and indomethacin 3. Unlike aspirin, salsalate does not inhibit platelet aggregation 4." ([DailyMed: salsalate prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=213f0930-4a4a-4894-90b9-70c12daaa093), 버전 2024-10-30; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면 Salsalate는 비아세틸화 살리실산염으로, NF-κB 억제, AMPK 활성화, 약한 COX 억제 작용을 가집니다.
 
 Hunter-Thompson형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로 생기는 희귀 골격 질환입니다. Salsalate의 작용이 GDF5/BMP 신호 회복으로 이어질 만한 기전적 경로는 없습니다.
 
@@ -99,6 +99,19 @@ Hunter-Thompson형 말단중간이형성증은 CDMP1/GDF5 기능상실 변이로
 **진행하려면 필요한 것:**
 - 허가사항 PDF에서 적응증, 경고, 금기 정보 확보
 - DrugBank 등에서 상세 작용 기전(MOA) 데이터 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: salsalate prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=213f0930-4a4a-4894-90b9-70c12daaa093) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

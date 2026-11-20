@@ -56,7 +56,7 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Mafenide는 국소 도포용 설폰아마이드계 항균제이며 탄산탈수효소 억제 활성이 있습니다. 주로 화상 창상 감염에 사용됩니다.
+미국 FDA가 승인한 Mafenide 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “SULFAMYLON 크림을 국소 도포하면 2도 및 3도 화상의 무혈관 조직에 존재하는 세균 수가 현저히 감소한다. SULFAMYLON 크림 도포 후 세균 증식의 감소는 심재성 부분층 화상의 자연 치유를 가능하게 하여, 화상 창상이 부분층에서 전층으로 전환되는 것을 예방한다고도 보고되었다.” 영어 원문: "SULFAMYLON Cream, applied topically produces a marked reduction in the bacterial population present in the avascular tissues of second- and third-degree burns. Reduction in bacterial growth after application of SULFAMYLON Cream has also been reported to permit spontaneous healing of deep partial-thickness burns, and thus prevent conversion of burn wounds from partial-thickness to full-thickness." ([DailyMed: Sulfamylon (mafenide acetate) prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=008eaa23-8f19-4e39-85ff-540c1c834a9e), 버전 2023-07-03; 확인일 2026-11-19). 알려진 정보에 따르면 Mafenide는 국소 도포용 설폰아마이드계 항균제이며 탄산탈수효소 억제 활성이 있습니다. 주로 화상 창상 감염에 사용됩니다.
 
 과민성 장 증후군은 기능성 장 질환으로, 국소 항균제가 작용할 수 있는 뚜렷한 기전적 연결고리가 확인되지 않습니다. TxGNN 모델(딥러닝)의 점수는 높지만, 이 점수는 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -93,6 +93,19 @@ TxGNN 모델은 **과민성 장 증후군(irritable bowel syndrome)**에 효과�
 - 과민성 장 증후군과의 기전적 연관성을 뒷받침하는 전임상 또는 문헌 근거
 - 투여 경로 적합성 검토 (현재 국소 크림제만 있으며, 장 질환에 적용 가능한 제형 없음)
 - 대안으로 여드름 등 기전상 더 타당한 후보를 우선 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sulfamylon (mafenide acetate) prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=008eaa23-8f19-4e39-85ff-540c1c834a9e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

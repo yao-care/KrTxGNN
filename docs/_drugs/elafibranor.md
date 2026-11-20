@@ -54,7 +54,7 @@ Elafibranor(제품명: 아이커보정 80밀리그램)는 한국에서 허가를
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 허가·DrugBank 자료에 없습니다. 다만 약리학 자료에 따르면 elafibranor는 PPARα(PPARA)와 PPARβ/δ(PPARD)를 표적으로 하는 합성 유기 화합물이며, 간에서 주 활성 대사체인 GFT-1007로 전환됩니다. 개발 초기에는 비알코올성 지방간염(NASH)을 목표로 했으나 3상 중간 분석에서 위약 대비 이점이 없어 2020년 중반 개발이 중단되었습니다. 이후 원발성 담즙성 담관염(PBC) 치료제로 재배치되어 2024년 6월 FDA, 2024년 9월 EMA 승인을 받았습니다.
+미국 FDA가 승인한 Elafibranor 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “엘라피브라노르와 그 주요 활성 대사체인 GFT1007은 퍼옥시좀 증식인자 활성화 수용체(PPAR) 작용제로서, 둘 다 시험관 내에서 PPAR-alpha, PPAR-gamma 및 PPAR-delta를 활성화한다. 그러나 PBC 환자에서 엘라피브라노르가 치료 효과를 나타내는 기전은 잘 알려져 있지 않다.” 영어 원문: "Elafibranor and its main active metabolite GFT1007 are peroxisome proliferator-activated receptor (PPAR) agonists, both of which activate PPAR-alpha, PPAR-gamma, and PPAR-delta in vitro. However, the mechanism by which elafibranor exerts its therapeutic effects in patients with PBC is not well understood." ([DailyMed: Iqirvo (elafibranor) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d78aa14f-6ec1-4b1d-a4ae-e48658137a25), 버전 2026-08-11; 확인일 2026-11-19). 다만 약리학 자료에 따르면 elafibranor는 PPARα(PPARA)와 PPARβ/δ(PPARD)를 표적으로 하는 합성 유기 화합물이며, 간에서 주 활성 대사체인 GFT-1007로 전환됩니다. 개발 초기에는 비알코올성 지방간염(NASH)을 목표로 했으나 3상 중간 분석에서 위약 대비 이점이 없어 2020년 중반 개발이 중단되었습니다. 이후 원발성 담즙성 담관염(PBC) 치료제로 재배치되어 2024년 6월 FDA, 2024년 9월 EMA 승인을 받았습니다.
 
 PPAR 신호는 지질·포도당 대사와 염증에 관여하며, 난소 스테로이드 생성이나 과립막세포 기능에도 영향을 줄 가능성이 있습니다. 무월경은 시상하부, 뇌하수체, 난소(예: 다낭성 난소 증후군), 자궁 등 다양한 원인으로 발생합니다. 그러나 PPARα/δ 이중 작용이 월경 기능 회복으로 이어진다는 구체적 기전은 이번 자료에서 확인되지 않았습니다. 따라서 이 연관성은 가설 수준이며, 높은 TxGNN 점수도 모델 예측일 뿐 임상·문헌 근거로 확인된 것이 아닙니다.
 
@@ -83,6 +83,19 @@ PPAR 신호는 지질·포도당 대사와 염증에 관여하며, 난소 스테
 - PPARα/δ 작용과 무월경(시상하부·난소 기능 등)의 연관성에 대한 기전·전임상 근거 조사
 - 무월경 관련 임상시험 및 문헌 검색
 - 투여 경로 적합성 및 기존 적응증과의 유사성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Iqirvo (elafibranor) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d78aa14f-6ec1-4b1d-a4ae-e48658137a25) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

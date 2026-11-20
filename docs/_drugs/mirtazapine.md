@@ -56,7 +56,7 @@ Mirtazapine은 한국에서 항우울제로 허가되어 시판 중인 단일성
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 mirtazapine은 알파-2 아드레날린 수용체 길항 작용과 5-HT2/5-HT3, H1 수용체 길항 작용을 가진 약물입니다.
+미국 FDA가 승인한 Mirtazapine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “미르타자핀의 주요 우울장애 치료 작용기전은 명확하지 않다. 그러나 그 효능은 중추 시냅스전 α 2 -아드레날린성 억제성 자가수용체 및 이종수용체에 대한 길항제로서의 작용과 중추 노르아드레날린성 및 세로토닌성 활성의 증강을 통해 매개될 수 있다.” 영어 원문: "The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear. However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α 2 -adrenergic inhibitory autoreceptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity." ([DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887), 버전 2025-08-06; 확인일 2026-11-19). 알려진 정보에 따르면 mirtazapine은 알파-2 아드레날린 수용체 길항 작용과 5-HT2/5-HT3, H1 수용체 길항 작용을 가진 약물입니다.
 
 Ohdo 증후군(KAT6B 관련 변이 포함)은 지적장애와 안검열 축소를 특징으로 하는 희귀 유전질환으로, 염색질 조절과 발달 경로 이상이 원인입니다. Mirtazapine의 수용체 약리와 이 질환의 병태 사이에서 기전상 타당한 연결고리를 확인할 수 없습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 생물학적 근거라기보다 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 높습니다.
 
@@ -100,6 +100,19 @@ Ohdo 증후군(KAT6B 관련 변이 포함)은 지적장애와 안검열 축소�
 - 상세한 약물 작용 기전(MOA) 데이터 확보
 - Ohdo 증후군 및 관련 질환과 mirtazapine의 기전적 연결고리에 대한 전임상 또는 문헌 근거
 - 소아 대상 사용 시 위험-이익 평가 및 안전성 모니터링 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

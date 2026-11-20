@@ -58,7 +58,7 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(Congenital Prothrombin Def
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 vasopressin과 유사체인 desmopressin(DDAVP)은 V2 수용체를 통해 혈장 factor VIII과 von Willebrand factor 수치를 높이는 것으로 알려져 있습니다. 이는 일부 출혈성 질환에서 타당한 기전입니다.
+미국 FDA가 승인한 Vasopressin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “바소프레신은 Gq/11-포스포리파제 C-포스파티딜이노시톨 삼인산 경로와 연결된 혈관 평활근의 V 1 수용체에 결합하여 세포 내 칼슘을 방출시킴으로써 혈관 수축을 일으킨다. 또한 바소프레신은 아데닐 시클라제와 연결된 V 2 수용체를 자극하여 항이뇨를 촉진한다.” 영어 원문: "Vasopressin causes vasoconstriction by binding to V 1 receptors on vascular smooth muscle coupled to the Gq/11-phospholipase C-phosphatidyl-inositol-triphosphate pathway, resulting in the release of intracellular calcium. In addition, vasopressin stimulates antidiuresis via stimulation of V 2 receptors which are coupled to adenyl cyclase." ([DailyMed: Vasostrict (vasopressin) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1147beb-743e-4c62-8927-91192447f8b8), 버전 2026-04-21; 확인일 2026-11-19). 일반적으로 vasopressin과 유사체인 desmopressin(DDAVP)은 V2 수용체를 통해 혈장 factor VIII과 von Willebrand factor 수치를 높이는 것으로 알려져 있습니다. 이는 일부 출혈성 질환에서 타당한 기전입니다.
 
 그러나 이 기전은 프로트롬빈(factor II)을 직접 증가시키지 않습니다. 따라서 매우 높은 TxGNN 점수(0.9963)는 계산상 예측일 뿐, 프로트롬빈 결핍증에 대한 직접적인 기전으로 뒷받침되지 않습니다. 검색된 문헌도 factor VIII/factor V 결핍증과 후천성 혈우병 A를 다루고 있어 간접적, 계열 수준의 관련성만 지지합니다. 또한 DDAVP 보고는 vasopressin이 아닌 desmopressin에 관한 것입니다.
 
@@ -110,6 +110,19 @@ TxGNN 모델은 **선천성 프로트롬빈 결핍증(Congenital Prothrombin Def
 ## 참고: 두 번째 예측 적응증 (약인성 골다공증)
 
 두 번째 예측인 **약인성 골다공증(Drug-induced Osteoporosis)**은 TxGNN 점수 0.9962이지만, 제공된 임상시험과 문헌이 모두 없어 근거 수준은 L5이며 권장 결정은 Hold입니다. Vasopressin 수용체가 골세포에서 보고되었고 저나트륨혈증과 골 손실의 연관성도 제기되었으나, 이는 이번에 평가되지 않은 가설 수준입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Vasostrict (vasopressin) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1147beb-743e-4c62-8927-91192447f8b8) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

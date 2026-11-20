@@ -55,7 +55,7 @@ TxGNN 모델은 **폴리클로날 과점성 증후군(Polyclonal Hyperviscosity 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Moxifloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 플루오로퀴놀론계 항균제입니다.
+미국 FDA가 승인한 Moxifloxacin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “목시플록사신 정제는 플루오로퀴놀론계 항균제에 속한다. […] 목시플록사신의 살균 작용은 세균의 DNA 복제, 전사, 복구 및 재조합에 필요한 토포이소머라제 II(DNA 자이레이스) 및 토포이소머라제 IV의 억제에 기인한다.” 영어 원문: "Moxifloxacin Tablet is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5), 버전 2026-11-06; 확인일 2026-11-19). 알려진 정보에 따르면 Moxifloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 플루오로퀴놀론계 항균제입니다.
 
 그러나 이 기전은 혈청 점도나 다클론성 감마글로불린혈증과 연결되지 않습니다. 기존 적응증(세균 감염)과 예측 질환 사이에 기전상 타당한 연관성을 찾기 어렵습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며, 임상적·문헌적 뒷받침도 없습니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델은 **폴리클로날 과점성 증후군(Polyclonal Hyperviscosity 
 - 허가사항(경고·금기·적응증) 원문 확보 및 분석
 - 작용 기전 데이터 보완
 - 예측 질환과의 생물학적 연관성에 대한 가설 및 전임상 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -54,7 +54,7 @@ Conjugated estrogens(결합형 에스트로겐)는 에스트로겐 호르몬 제
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 편두통은 에스트로겐 농도의 변동과 밀접한 관련이 있는 것으로 알려져 있습니다. 월경 주기나 폐경 이행기에 에스트로겐이 급격히 떨어지면(에스트로겐 감소 가설) 발작이 유발될 수 있어, 에스트로겐 농도를 안정화하면 이런 시기의 발작이 줄어들 가능성이 있습니다.
+미국 FDA가 승인한 Conjugated Estrogens 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “내인성 에스트로겐은 여성 생식계 및 이차 성징의 발달과 유지를 주로 담당한다. 순환 에스트로겐은 대사적 상호전환의 동적 평형 상태로 존재하지만, 에스트라디올은 인체의 주요 세포내 에스트로겐이며 수용체 수준에서 그 대사체인 에스트론 및 에스트리올보다 상당히 더 강력하다. […] 따라서 에스트론 및 황산 포합형인 에스트론 황산염은 폐경 후 여성에서 가장 풍부한 순환 에스트로겐이다.” 영어 원문: "Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics. Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level. […] Thus, estrone and the sulfate-conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women." ([DailyMed: Premarin Vaginal (conjugated estrogens) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96609623-528e-4aba-cabe-7254aed816d5), 버전 2025-05-30; 확인일 2026-11-19). 다만 편두통은 에스트로겐 농도의 변동과 밀접한 관련이 있는 것으로 알려져 있습니다. 월경 주기나 폐경 이행기에 에스트로겐이 급격히 떨어지면(에스트로겐 감소 가설) 발작이 유발될 수 있어, 에스트로겐 농도를 안정화하면 이런 시기의 발작이 줄어들 가능성이 있습니다.
 
 그러나 호르몬 대체요법이 편두통을 호전시키기도 하고, 악화시키기도 하며, 변화가 없기도 하다는 보고가 있습니다. 제형과 투여 경로에 따라 결과가 다릅니다. 경구 결합형 에스트로겐은 혈중 농도가 변동하기 쉬워, 경피 투여처럼 농도가 안정적인 방식보다 불리할 수 있습니다. 또한 전조 증상이 있는 편두통에서는 허혈성 뇌졸중 위험 때문에 에스트로겐 사용에 주의가 필요합니다.
 
@@ -102,6 +102,18 @@ Conjugated estrogens(결합형 에스트로겐)는 에스트로겐 호르몬 제
 - 전조 유무에 따른 위험·이익 분석과 뇌졸중·혈전 위험 평가
 - 작용 기전 데이터 보완
 - 허가사항의 경고 및 금기 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Premarin Vaginal (conjugated estrogens) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96609623-528e-4aba-cabe-7254aed816d5) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

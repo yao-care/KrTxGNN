@@ -56,7 +56,7 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 melphalan은 이중 기능성 질소 머스타드 계열의 알킬화제로, DNA 가닥 간 교차결합을 형성해 증식하는 세포를 억제하는 것으로 알려져 있습니다. 이 기전은 선암 세포에도 이론적으로 작용할 수 있습니다.
+미국 FDA가 승인한 Melphalan 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Melphalan은 bischloroethylamine 계열의 알킬화제이다. 그 결과, 이 약물의 세포독성은 아마도 구아닌의 N 7 위치에 결합함으로써 일어나는 DNA와의 가닥 간 교차결합의 정도와 관련이 있는 것으로 보인다.” 영어 원문: "Melphalan is an alkylating agent of the bischloroethylamine type. As a result, its cytotoxicity appears to be related to the extent of its interstrand cross-linking with DNA, probably by binding at the N 7 position of guanine." ([DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c), 버전 2026-09-15; 확인일 2026-11-19). 일반적으로 melphalan은 이중 기능성 질소 머스타드 계열의 알킬화제로, DNA 가닥 간 교차결합을 형성해 증식하는 세포를 억제하는 것으로 알려져 있습니다. 이 기전은 선암 세포에도 이론적으로 작용할 수 있습니다.
 
 그러나 이 연관성은 검증되지 않았습니다. 직장 점액성 선암과 melphalan을 직접 연결하는 시험이나 문헌이 제공되지 않았고, 근거는 TxGNN 점수(0.9938)뿐입니다. 또한 점액성 조직형은 일반적으로 화학요법에 대한 반응이 떨어지는 경향이 있어, 세포독성이라는 일반적 근거만으로는 기대 효과가 강하다고 보기 어렵습니다.
 
@@ -109,6 +109,19 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 - 직장·결장 점액성 선암에 대한 전임상 또는 임상 근거 탐색
 - 점액성 조직형의 화학요법 저항성을 고려한 기존 표준요법 대비 이점 검토
 - 투여 경로(주사/경구) 적합성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Evomela (melphalan) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69f55869-dc11-408e-8fc7-47634269a52c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

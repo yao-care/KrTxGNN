@@ -54,7 +54,7 @@ Rivastigmine은 콜린에스테라제 억제제 계열 약물로, 한국에서 �
 
 ## 이 예측이 타당한 이유는?
 
-Rivastigmine은 아세틸콜린에스테라제와 부티릴콜린에스테라제를 억제하는 콜린에스테라제 억제제입니다. 다만 현재 데이터에는 상세한 작용 기전(MOA) 정보가 없어, 아래 설명은 약물 계열의 일반적 특성에 근거한 추론입니다.
+Rivastigmine은 아세틸콜린에스테라제와 부티릴콜린에스테라제를 억제하는 콜린에스테라제 억제제입니다. 미국 FDA가 승인한 Rivastigmine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “리바스티그민의 정확한 작용기전은 알려져 있지 않으나, 콜린성 기능을 증강시킴으로써 치료 효과를 나타내는 것으로 생각된다. 이는 콜린에스테라제에 의한 아세틸콜린의 가수분해를 가역적으로 억제하여 아세틸콜린의 농도를 증가시킴으로써 이루어진다.” 영어 원문: "Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase." ([DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d), 버전 2025-11-11; 확인일 2026-11-19).
 
 눈에서 콜린 작용이 강화되면 섬유주(trabecular meshwork)와 섬모체근 수축을 통해 방수 배출이 늘어날 수 있습니다. 이는 pilocarpine 같은 부교감신경 작용제가 안압을 낮추는 방식과 유사합니다. 토끼에서 rivastigmine을 점안했을 때 안압이 감소했다는 연구가 있어 생물학적 개연성을 뒷받침합니다. 2024년 콜린 작용제와 안압 감소에 관한 계통 유전학·분자 수준 리뷰도 간접적인 근거를 제공합니다.
 
@@ -105,6 +105,19 @@ Rivastigmine은 아세틸콜린에스테라제와 부티릴콜린에스테라제
 - 사람 대상 임상시험 설계 가능성 검토
 - 기존 허가 적응증의 구체적 내용 확인 (허가 문서 파싱)
 - 서맥·방실차단 등 심혈관계 위험과 항콜린제 병용 등 약물 상호작용에 대한 고려
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

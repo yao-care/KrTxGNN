@@ -55,7 +55,7 @@ TxGNN 모델은 **약물 유발 골다공증(drug-induced osteoporosis)**에 효
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 이번 보고서에 포함되어 있지 않습니다. 일반적으로 Selinexor는 핵 외 수송 단백질 XPO1(CRM1)을 선택적으로 억제하는 약물로 알려져 있으며, 국내에서는 단일제로 허가되어 있습니다. 다만 이 기전 설명은 수집된 데이터로 확인된 내용이 아닙니다.
+미국 FDA가 승인한 Selinexor 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “비임상 연구에서 셀리넥서는 엑스포틴 1(XPO1)을 차단함으로써 종양 억제 단백질(TSP), 성장 조절인자 및 종양 유발 단백질의 mRNA의 핵 외 수송을 가역적으로 억제한다. 셀리넥서에 의한 XPO1 억제는 핵 내 TSP 축적과 c-myc 및 cyclin D1 등 여러 종양 단백질의 감소, 세포 주기 정지 및 암세포의 아폽토시스를 초래한다.” 영어 원문: "In nonclinical studies, selinexor reversibly inhibits nuclear export of tumor suppressor proteins (TSPs), growth regulators, and mRNAs of oncogenic proteins by blocking exportin 1 (XPO1). XPO1 inhibition by selinexor leads to accumulation of TSPs in the nucleus and reductions in several oncoproteins, such as c-myc and cyclin D1, cell cycle arrest, and apoptosis of cancer cells." ([DailyMed: Xpovio (selinexor) prescribing information, Karyopharm Therapeutics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6dd2682-75a6-4863-90a8-a3197f6f78a8), 버전 2026-05-12; 확인일 2026-11-19). 일반적으로 Selinexor는 핵 외 수송 단백질 XPO1(CRM1)을 선택적으로 억제하는 약물로 알려져 있으며, 국내에서는 단일제로 허가되어 있습니다. 다만 이 기전 설명은 수집된 데이터로 확인된 내용이 아닙니다.
 
 골 대사와의 연결고리는 입증되지 않았습니다. 가설로는 XPO1 억제가 파골세포·골芽세포 활동을 조절하는 신호 단백질과 전사인자의 핵 내 잔류를 변화시킬 가능성을 생각해 볼 수 있으나, 이는 검증되지 않은 추정입니다.
 
@@ -103,6 +103,19 @@ TxGNN 모델은 **약물 유발 골다공증(drug-induced osteoporosis)**에 효
 - 약물 유발 골다공증과 관련된 전임상·임상 문헌 및 임상시험 탐색
 - 덱사메타손 병용에 따른 교란 요인 평가
 - 투여 경로 적합성 및 기존 적응증과의 유사성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xpovio (selinexor) prescribing information, Karyopharm Therapeutics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6dd2682-75a6-4863-90a8-a3197f6f78a8) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

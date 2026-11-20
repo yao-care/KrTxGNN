@@ -54,7 +54,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 독시사이클린은 광범위 항균 활성을 가진 테트라사이클린계 항생제입니다. 클라미디아 결막염의 표준 치료 약물로 쓰이며, 이는 신규 적응증과의 연결고리가 됩니다.
+미국 FDA가 승인한 Doxycycline 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “독시사이클린은 30S 리보솜 소단위에 결합하여 세균의 단백질 합성을 억제한다. 독시사이클린은 광범위한 그람양성균 및 그람음성균에 대해 정균 활성을 나타낸다.” 영어 원문: "Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit. Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria." ([DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8), 버전 2026-07-09; 확인일 2026-11-19). 알려진 정보에 따르면 독시사이클린은 광범위 항균 활성을 가진 테트라사이클린계 항생제입니다. 클라미디아 결막염의 표준 치료 약물로 쓰이며, 이는 신규 적응증과의 연결고리가 됩니다.
 
 문헌에 보고된 증례에서는 클라미디아 여포성 결막염을 경구 테트라사이클린 또는 독시사이클린으로 치료해 여포는 소실되었지만, 이후 양안에 점상 상피성 각막염이 재발했습니다. 즉 항생제는 근본 감염을 치료할 뿐, 점상 상피 병변 자체를 치료한다는 근거는 아닙니다. 이 연결은 간접적입니다.
 
@@ -117,11 +117,12 @@ TxGNN 점수는 매우 높지만 임상시험이 없고, 문헌은 1992년 증�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “총 20건의 허가증이 모두 유효하며, 그중 수출용 허가도 포함됩니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 모델은 **원숭이 면역결핍 바이러스 감염(Simian Immunodefici
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Doravirine은 HIV-1에 대해 허가된 NNRTI 계열 약물로, 바이러스 역전사효소의 비경쟁적 결합 부위에 작용하여 바이러스 복제를 억제합니다.
+미국 FDA가 승인한 Doravirine 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “도라비린은 항레트로바이러스 약물이다. […] 도라비린은 HIV-1의 피리디논계 비뉴클레오시드 역전사효소 억제제로서, HIV-1 역전사효소(RT)를 비경쟁적으로 억제하여 HIV-1 복제를 억제한다. 생화학적 분석에서 재조합 야생형 HIV-1 RT의 RNA 의존성 DNA 중합에 대한 도라비린의 50% 억제 농도(IC 50 )는 12.2±2.0 nM(n=3)이었다.” 영어 원문: "Doravirine is an antiretroviral drug. […] Doravirine is a pyridinone non-nucleoside reverse transcriptase inhibitor of HIV-1 and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT). The inhibitory concentration at 50% (IC 50 ) of doravirine for RNA-dependent DNA polymerization of recombinant wild-type HIV-1 RT in a biochemical assay was 12.2±2.0 nM (n=3)." ([DailyMed: Pifeltro (doravirine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff06e5cc-f47a-4779-816b-0e5b13e88a25), 버전 2026-07-09; 확인일 2026-11-19). 알려진 정보에 따르면 Doravirine은 HIV-1에 대해 허가된 NNRTI 계열 약물로, 바이러스 역전사효소의 비경쟁적 결합 부위에 작용하여 바이러스 복제를 억제합니다.
 
 SIV는 HIV와 가까운 렌티바이러스 계열이어서 기전상 연관성은 있습니다. 그러나 NNRTI는 일반적으로 HIV-1에는 활성이 있지만 HIV-2에는 효과가 없습니다. 많은 SIV 균주도 역전사효소의 NNRTI 결합 부위 구조 차이 때문에 본래 내성을 보입니다. 따라서 SIV에 대한 활성은 불확실하며 균주에 따라 달라질 수 있습니다.
 
@@ -99,6 +99,19 @@ SIV 감염에 대한 임상시험이 없고 문헌도 직접적인 관련성이 
 - 인체 대상 적응증으로서의 타당성 검토
 
 *참고: 이 보고서는 예측 1순위 적응증을 기준으로 작성했습니다. 2순위(고양이 후천성 면역결핍 증후군)는 수의학 적응증이며 NNRTI의 활성이 낮아 근거가 없고, 3순위(희귀 신경발달장애)는 기전적 연관성이 확인되지 않아 두 가지 모두 Hold가 적절합니다.*
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Pifeltro (doravirine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff06e5cc-f47a-4779-816b-0e5b13e88a25) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -54,7 +54,7 @@ Cefuroxime은 세균 세포벽 합성을 억제하는 2세대 세팔로스포린
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보로는 Cefuroxime이 세균 세포벽 합성을 억제하는 2세대 세팔로스포린이며, 효과는 세균 감염에 대한 항균 작용에 국한됩니다.
+미국 FDA가 승인한 Cefuroxime 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “세푸록심은 세균 세포벽 합성을 억제하여 작용하는 살균제이다. 세푸록심은 그람음성균 및 그람양성균의 일부 베타-락타마제(페니실리나제 및 세팔로스포리나제 모두) 존재 하에서도 활성을 나타낸다.” 영어 원문: "Cefuroxime is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Cefuroxime has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria." ([DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c), 버전 2025-03-27; 확인일 2026-11-19). 알려진 정보로는 Cefuroxime이 세균 세포벽 합성을 억제하는 2세대 세팔로스포린이며, 효과는 세균 감염에 대한 항균 작용에 국한됩니다.
 
 반면 과점성 증후군은 혈청 면역글로불린이 과다해 혈액 점도가 올라가는 혈액·면역학적 질환입니다. 세포벽 합성 억제제가 이 병태를 개선할 만한 기전은 확인되지 않습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며, 이를 뒷받침하는 임상 또는 문헌 근거도 없습니다.
 
@@ -103,6 +103,19 @@ Cefuroxime은 세균 세포벽 합성을 억제하는 2세대 세팔로스포린
 - 상세한 작용 기전(MOA) 데이터 확보
 
 다만 이는 세균 감염이라는 약물의 기존 사용 범위와 가까운 질환이어서 새로운 재창출 신호로 보기 어렵습니다. 첫 번째 예측인 다클론성 과점성 증후군과는 별개로 평가해야 합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: cefuroxime sodium prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a145288-733a-4966-b7ae-dc96eb103d8c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

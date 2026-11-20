@@ -56,7 +56,7 @@ TxGNN 모델은 **만성 C형 간염 바이러스 감염(chronic hepatitis C vir
 
 ## 이 예측이 타당한 이유는?
 
-현재 수집된 자료에는 상세한 작용 기전(MOA) 데이터가 없습니다. 알려진 정보에 따르면 entecavir는 구아노신 뉴클레오시드 유사체로, HBV 중합효소를 억제합니다.
+미국 FDA가 승인한 Entecavir 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “엔테카비르는 B형 간염 바이러스에 대한 항바이러스 약물이다. […] HBV 역전사효소(rt)에 대한 활성을 갖는 데옥시구아노신 뉴클레오시드 유사체인 엔테카비르는 효율적으로 인산화되어 활성형인 삼인산염 형태가 되며, 이 형태의 세포 내 반감기는 15시간이다. 엔테카비르 삼인산염은 천연 기질인 데옥시구아노신 삼인산과 경쟁함으로써 HBV 역전사효소의 세 가지 활성, 즉 염기 프라이밍, 전유전체 전령 RNA로부터 음성 가닥의 역전사, 그리고 HBV DNA 양성 가닥의 합성을 모두 기능적으로 억제한다.” 영어 원문: "Entecavir is an antiviral drug against hepatitis B virus. […] Entecavir, a deoxyguanosine nucleoside analogue with activity against HBV reverse transcriptase (rt), is efficiently phosphorylated to the active triphosphate form, which has an intracellular half-life of 15 hours. By competing with the natural substrate deoxyguanosine triphosphate, entecavir triphosphate functionally inhibits all three activities of the HBV reverse transcriptase: base priming, reverse transcription of the negative strand from the pregenomic messenger RNA, and synthesis of the positive strand of HBV DNA." ([DailyMed: Baraclude (entecavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046e61c9-9298-4b2e-b76e-b26b81fecd20), 버전 2019-11-06; 확인일 2026-11-19). 알려진 정보에 따르면 entecavir는 구아노신 뉴클레오시드 유사체로, HBV 중합효소를 억제합니다.
 
 HCV는 NS5B 중합효소로 복제하는 RNA 바이러스입니다. Entecavir는 이 효소에 직접적인 항바이러스 활성이 없어, C형 간염 자체를 치료할 기전적 근거는 약합니다.
 
@@ -117,6 +117,18 @@ HCV는 NS5B 중합효소로 복제하는 RNA 바이러스입니다. Entecavir는
 - 상세한 작용 기전(MOA) 데이터 확보
 - 허가사항의 경고·금기 정보 확인
 - 공동감염 환자의 HBV 재활성화 예방은 C형 간염 치료와 별개의 질문으로, 필요하면 따로 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Baraclude (entecavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046e61c9-9298-4b2e-b76e-b26b81fecd20) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

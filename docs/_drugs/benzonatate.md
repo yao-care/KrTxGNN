@@ -57,7 +57,7 @@ TxGNN 모델은 **마미증후군(Cauda Equina Syndrome)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Benzonatate는 테트라카인·프로카인과 구조적으로 유사한 국소마취 계열 진해제로, 호흡기의 신전 수용체를 마취하여 기침 반사를 줄입니다.
+미국 FDA가 승인한 Benzonatate 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “벤조나테이트는 호흡기 통로, 폐 및 흉막에 위치한 신장 수용체를 마취시켜 그 활성을 약화시킴으로써 말초적으로 작용하며, 이를 통해 기침 반사를 그 발생원에서 감소시킨다. 이 약은 15~20분 이내에 작용하기 시작하며 그 효과는 3~8시간 동안 지속된다.” 영어 원문: "Benzonatate acts peripherally by anesthetizing the stretch receptors located in the respiratory passages, lungs, and pleura by dampening their activity and thereby reducing the cough reflex at its source. It begins to act within 15 to 20 minutes and its effect lasts for 3 to 8 hours." ([DailyMed: Benzonatate 100 Mg (benzonatate) prescribing information, TIME CAP LABORATORIES, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5adfd324-b6d6-f624-e063-6294a90ab26e), 버전 2026-09-07; 확인일 2026-11-19). 알려진 정보에 따르면 Benzonatate는 테트라카인·프로카인과 구조적으로 유사한 국소마취 계열 진해제로, 호흡기의 신전 수용체를 마취하여 기침 반사를 줄입니다.
 
 가능성 있는 연결 고리는 나트륨 채널 차단이 신경병증성 통증이나 감각 신호 전달에 영향을 줄 수 있다는 점입니다. 그러나 이는 검증되지 않은 가설입니다. 마미증후군은 신경근 압박이 원인이며 감압 수술이 필요한 응급 질환입니다. Benzonatate가 이 압박 병태를 치료할 수 있다는 근거는 없습니다.
 
@@ -89,6 +89,19 @@ TxGNN 모델은 **마미증후군(Cauda Equina Syndrome)**에 효과가 있을 �
 - 상세한 작용 기전(MOA) 데이터 확보 (DrugBank 조회)
 - 신경인성 방광 예측의 경우 폐기된 질환 용어를 현재 용어로 재매핑한 뒤 재평가
 - 전임상 또는 관찰 연구 등 최소한의 지지 근거 탐색 및 투여 경로 적합성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Benzonatate 100 Mg (benzonatate) prescribing information, TIME CAP LABORATORIES, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5adfd324-b6d6-f624-e063-6294a90ab26e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

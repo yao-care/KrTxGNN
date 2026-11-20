@@ -56,7 +56,7 @@ TxGNN 모델은 **골외 비만세포종(extracutaneous mastocytoma)**에 효과
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 Siltuximab은 IL-6를 중화하는 항체로 알려져 있고, 캐슬만병은 IL-6 과다 생성이 주된 원인인 림프증식성 질환입니다.
+미국 FDA가 승인한 Siltuximab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “실툭시맙은 인간 IL-6에 결합하여 IL-6가 가용성 및 막 결합형 IL-6 수용체 모두에 결합하는 것을 방지한다. IL-6는 면역글로불린 분비 유도와 같은 다양한 정상 생리적 과정에 관여하는 것으로 밝혀졌다.” 영어 원문: "Siltuximab binds human IL-6 and prevents the binding of IL-6 to both soluble and membrane-bound IL-6 receptors. IL-6 has been shown to be involved in diverse normal physiologic processes such as induction of immunoglobulin secretion." ([DailyMed: Sylvant (siltuximab) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d663642-f52e-49c0-a023-2da083fdfc0b), 버전 2024-08-27; 확인일 2026-11-19). 다만 Siltuximab은 IL-6를 중화하는 항체로 알려져 있고, 캐슬만병은 IL-6 과다 생성이 주된 원인인 림프증식성 질환입니다.
 
 그러나 이 보고서에 정리된 데이터에는 IL-6 신호전달이 비만세포종의 발병 기전과 연결된다는 근거가 없습니다. 기존 적응증과 예측 적응증 사이의 연관성도 아직 평가되지 않았습니다. 따라서 이 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으며 생물학적 근거는 아닙니다. 기전적 타당성이 확인된 것은 아닙니다.
 
@@ -115,6 +115,19 @@ TAFRO 증후군은 특발성 MCD의 아형으로, IL-6와 VEGF가 관여하는 �
 - 상세 작용 기전(MOA) 데이터 보완
 
 **별도 권고:** 같은 약물의 TAFRO 증후군 후보는 Proceed with Guardrails 수준입니다. 이 경우 특발성 MCD 합의 지침에 맞춰 코르티코스테로이드 등과 단계적으로 병용하고, 반응을 면밀히 모니터링하는 조건으로 별도 평가를 권장합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sylvant (siltuximab) prescribing information, Recordati Rare Diseases, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d663642-f52e-49c0-a023-2da083fdfc0b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

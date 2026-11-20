@@ -54,7 +54,7 @@ Nadolol은 비선택적 베타아드레날린 차단제 계열의 약물입니�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 nadolol은 베타 수용체를 차단하여 심박수와 혈압을 낮추는 약물입니다. 이 혈압 강하 작용과 레닌-안지오텐신 축 억제를 통해 고혈압성 신장 손상을 줄일 가능성이 이론적으로 제기됩니다.
+미국 FDA가 승인한 Nadolol 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “나돌롤은 비선택적 베타-아드레날린 수용체 차단제이다. 임상약리 연구에서 안정 시 및 운동 시 심박수 및 심박출량 감소, 안정 시 및 운동 시 수축기 및 이완기 혈압 감소, 이소프로테레놀 유발 빈맥의 억제, 반사성 기립성 빈맥의 감소를 나타냄으로써 베타 차단 활성이 입증되었다.” 영어 원문: "Nadolol is a nonselective beta-adrenergic receptor blocking agent. Clinical pharmacology studies have demonstrated beta-blocking activity by showing reduction in heart rate and cardiac output at rest and on exercise, reduction of systolic and diastolic blood pressure at rest and on exercise, inhibition of isoproterenol-induced tachycardia, and reduction of reflex orthostatic tachycardia." ([DailyMed: nadolol prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f11553f1-18ec-41b0-a7ad-1c9f21ef2c9f), 버전 2026-09-07; 확인일 2026-11-19). 알려진 정보에 따르면 nadolol은 베타 수용체를 차단하여 심박수와 혈압을 낮추는 약물입니다. 이 혈압 강하 작용과 레닌-안지오텐신 축 억제를 통해 고혈압성 신장 손상을 줄일 가능성이 이론적으로 제기됩니다.
 
 다만 이 예측은 근거가 독립적이지 않습니다. 같은 계열의 신혈관성 질환 항목과 거의 같은 점수(약 0.9959)를 보여, 서로 밀접하게 관련된 질환 분류에서 비롯된 신호일 가능성이 큽니다. 또한 nadolol은 신장으로 배설되므로 신장 기능이 저하된 환자에게는 용량 조절이 필요하며, 이는 추가적인 안전성 고려 사항입니다.
 
@@ -84,6 +84,19 @@ Nadolol은 비선택적 베타아드레날린 차단제 계열의 약물입니�
 - 허가사항(경고, 금기)의 확보 및 분석
 - 상세한 작용 기전(MOA) 데이터
 - 신장 기능 저하 환자에 대한 용량 및 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: nadolol prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f11553f1-18ec-41b0-a7ad-1c9f21ef2c9f) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

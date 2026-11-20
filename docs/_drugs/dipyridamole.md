@@ -56,7 +56,7 @@ TxGNN 모델은 **상염색체 우성 동기능부전증후군 2형 (sick sinus 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 dipyridamole은 혈소판 응집 억제와 아데노신 작용 증강 효과를 가진 약물입니다.
+미국 FDA가 승인한 Dipyridamole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “디피리다몰은 시험관 내 및 생체 내에서 혈소판, 내피세포 및 적혈구로의 아데노신 흡수를 억제하며, 이 억제는 치료 농도(0.5~1.9 mcg/mL)에서 용량 의존적으로 나타난다. 이러한 억제는 아데노신의 국소 농도를 증가시키며, 아데노신은 혈소판 A 2 -수용체에 작용하여 혈소판 아데닐산 고리화효소를 자극하고 혈소판 내 고리형-3',5'-아데노신 일인산(cAMP) 농도를 증가시킨다.” 영어 원문: "Dipyridamole inhibits the uptake of adenosine into platelets, endothelial cells and erythrocytes in vitro and in vivo; the inhibition occurs in a dose-dependent manner at therapeutic concentrations (0.5 to 1.9 mcg/mL). This inhibition results in an increase in local concentrations of adenosine which acts on the platelet A 2 -receptor thereby stimulating platelet adenylate cyclase and increasing platelet cyclic-3',5'-adenosine monophosphate (cAMP) levels." ([DailyMed: dipyridamole prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5), 버전 2026-04-29; 확인일 2026-11-19). 알려진 정보에 따르면 dipyridamole은 혈소판 응집 억제와 아데노신 작용 증강 효과를 가진 약물입니다.
 
 예측된 질환은 HCN4 유전자와 관련된 희귀 유전성 이온통로 질환입니다. 아데노신 작용 증강이 이론적으로는 동결절 기능에 영향을 줄 수 있습니다. 그러나 그 영향이 치료에 도움이 되는 방향인지는 불분명하고, 오히려 불리할 가능성도 있습니다. 현재 확인된 데이터에서는 기전상 뚜렷한 연결고리를 찾을 수 없습니다. 높은 예측 점수는 계산 모델의 결과일 뿐이며, 이를 뒷받침하는 임상 또는 문헌 자료는 없습니다.
 
@@ -98,6 +98,18 @@ TxGNN 모델은 **상염색체 우성 동기능부전증후군 2형 (sick sinus 
 - 상세한 약물 작용 기전(MOA) 데이터 확보
 - 동결절 기능에 미치는 영향에 대한 전임상 또는 기전 연구
 - 이 질환에서 dipyridamole의 효과를 직접 다룬 연구 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: dipyridamole prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

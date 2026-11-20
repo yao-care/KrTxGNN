@@ -56,7 +56,7 @@ TxGNN 모델은 **조증 양극성 정동장애(manic bipolar affective disorder
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 granisetron은 선택적 5-HT3 수용체 길항제이며, 단일 성분 제제로 8건이 유효하게 허가되어 있습니다.
+미국 FDA가 승인한 Granisetron 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “그라니세트론은 선택적 5-하이드록시트립타민 3(5-HT 3 ) 수용체 길항제로서, 5-HT 1, 5-HT 1A, 5-HT 1B/C, 5-HT 2를 포함한 다른 세로토닌 수용체, 알파 1-, 알파 2- 또는 베타-아드레날린 수용체, 도파민-D 2, 또는 히스타민-H 1, 벤조디아제핀, 피크로톡신 또는 오피오이드 수용체에 대해서는 친화도가 거의 또는 전혀 없다. 5-HT 3 형 세로토닌 수용체는 말초에서는 미주신경 말단에, 중추에서는 최후구역의 화학수용체 방아쇠 영역에 위치한다.” 영어 원문: "Granisetron is a selective 5-hydroxytryptamine 3 (5-HT 3 ) receptor antagonist with little or no affinity for other serotonin receptors, including 5-HT 1, 5-HT 1A, 5-HT 1B/C, 5-HT 2; for alpha 1-, alpha 2-, or beta-adrenoreceptors; for dopamine-D 2; or for histamine-H 1; benzodiazepine; picrotoxin or opioid receptors. Serotonin receptors of the 5-HT 3 type are located peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema." ([DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56), 버전 2026-04-30; 확인일 2026-11-19). 알려진 정보에 따르면 granisetron은 선택적 5-HT3 수용체 길항제이며, 단일 성분 제제로 8건이 유효하게 허가되어 있습니다.
 
 조증에는 세로토닌과 도파민 조절 이상이 관여하는 것으로 알려져 있습니다. 5-HT3 길항 작용이 중뇌변연계 회로의 도파민 분비를 조절할 수 있다는 추측이 있어, 기전상 접근 가능성은 있습니다.
 
@@ -121,6 +121,19 @@ TxGNN은 아래 질환도 예측했으나, 모두 임상시험과 문헌 근거�
 - 조증 및 5-HT3 길항제에 대한 전임상·임상 문헌 검색
 - QT 연장 위험과 정신과 약물(항정신병약, 삼환계 항우울제 등) 병용 시 안전성 평가
 - 투여 경로 적합성 검토 (현재 미확인)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

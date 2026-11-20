@@ -56,7 +56,7 @@ TxGNN 모델은 **유전성 유방암·난소암 증후군(hereditary breast ova
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 megestrol acetate는 프로게스테론 수용체에 작용하는 프로게스틴 계열 약물로 알려져 있습니다.
+미국 FDA가 승인한 Megestrol Acetate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “여러 연구자들이 메게스트롤아세테이트의 식욕 증진 특성과 악액질에서의 사용 가능성에 대해 보고하였다. 메게스트롤아세테이트가 식욕부진 및 악액질에서 효과를 나타내는 정확한 기전은 현재 알려져 있지 않다.” 영어 원문: "Several investigators have reported on the appetite enhancing property of megestrol acetate and its possible use in cachexia. The precise mechanism by which megestrol acetate produces effects in anorexia and cachexia is unknown at the present time." ([DailyMed: megestrol acetate prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc921d5-e423-4379-a345-151e87d13651), 버전 2026-04-14; 확인일 2026-11-19). 일반적으로 megestrol acetate는 프로게스테론 수용체에 작용하는 프로게스틴 계열 약물로 알려져 있습니다.
 
 그러나 유전성 유방암·난소암 증후군은 BRCA1/2 변이에 따른 **암 소인 증후군**입니다. 호르몬 표적이 뚜렷한 특정 종양 유형이 아니므로, 프로게스틴 치료와의 기전적 연결고리는 약합니다. 높은 예측 점수를 뒷받침할 임상적·문헌적 근거도 확인되지 않았습니다. 따라서 이 예측은 가설 수준으로 보는 것이 적절합니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델은 **유전성 유방암·난소암 증후군(hereditary breast ova
 - 작용 기전(MOA) 데이터 보완
 - 허가사항의 경고·금기 정보 확보 및 안전성 검토
 - 당뇨병 치료제 병용 환자에 대한 상호작용 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: megestrol acetate prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc921d5-e423-4379-a345-151e87d13651) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

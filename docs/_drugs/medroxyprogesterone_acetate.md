@@ -54,7 +54,7 @@ Medroxyprogesterone acetate는 합성 프로게스틴 계열의 호르몬제입�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 섬유낭성 유방 질환은 에스트로겐 우세와 프로게스테론 결핍으로 결합조직과 상피가 과증식하는 것이 병태생리의 핵심으로 알려져 있습니다. 프로게스틴은 이러한 에스트로겐 주도의 유방 상피 증식을 상쇄할 수 있어, 기전상 적용 가능성이 있습니다.
+미국 FDA가 승인한 Medroxyprogesterone Acetate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Depo-Provera CI(메드록시프로게스테론아세테이트[MPA])는 성선자극호르몬의 분비를 억제하여 주로 난포 성숙 및 배란을 방지하고 자궁경부 점액을 두껍게 한다. 이러한 작용이 피임 효과에 기여한다.” 영어 원문: "Depo-Provera CI (medroxyprogesterone acetate [MPA]) inhibits the secretion of gonadotropins which primarily prevents follicular maturation and ovulation and causes thickening of cervical mucus. These actions contribute to its contraceptive effect." ([DailyMed: Depo-Provera (medroxyprogesterone acetate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049), 버전 2026-08-25; 확인일 2026-11-19). 다만 섬유낭성 유방 질환은 에스트로겐 우세와 프로게스테론 결핍으로 결합조직과 상피가 과증식하는 것이 병태생리의 핵심으로 알려져 있습니다. 프로게스틴은 이러한 에스트로겐 주도의 유방 상피 증식을 상쇄할 수 있어, 기전상 적용 가능성이 있습니다.
 
 직접적인 임상 근거는 1983년 중증 섬유낭성 유방 질환에 대한 치료 시험과 1988년 청소년 대상 보고, 두 건의 오래된 소규모 연구뿐입니다. 반면 폐경 후 호르몬 요법 연구에서는 프로게스틴 병용이 유방 밀도와 상피 증식을 높일 수 있다는 상반된 신호가 있어, 유방 조직에 대한 안전성 우려가 있습니다.
 
@@ -108,6 +108,18 @@ Medroxyprogesterone acetate는 합성 프로게스틴 계열의 호르몬제입�
 - 현대적 설계의 대조 임상시험 근거
 - 작용 기전(MOA) 데이터 보충
 - 허가사항의 경고·금기 정보 확인 및 유방 안전성 평가 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Depo-Provera (medroxyprogesterone acetate) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

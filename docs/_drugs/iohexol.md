@@ -56,10 +56,9 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Iohexol은 비이온성 요오드 조영제로, 약리학적으로 불활성이며 체내에서 대사되지 않고 신장을 통해 변하지 않은 형태로 배설됩니다.
+미국 FDA가 승인한 Iohexol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이오헥솔의 요오드 원자는 이오헥솔의 농도에 정비례하여 X선을 감쇠시킨다. 농도는 시간에 따라 변하므로, 이오헥솔은 시간 의존적 영상 대조를 제공하여 신체 구조의 시각화에 도움이 될 수 있다.” 영어 원문: "The iodine atoms in iohexol provide attenuation of X-rays in direct proportion to the concentration of iohexol. Since concentration changes over time, iohexol provides time-dependent image contrast which may assist in visualizing body structures." ([DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f), 버전 2026-04-28; 확인일 2026-11-19). 알려진 정보에 따르면 Iohexol은 비이온성 요오드 조영제로, 약리학적으로 불활성이며 체내에서 대사되지 않고 신장을 통해 변하지 않은 형태로 배설됩니다.
 
 수면 조절 경로(GABA, 오렉신, 멜라토닌 계통)에 대한 알려진 활성이 없어, 기존 용도(영상 진단)와 불면증 사이에 타당한 기전적 연관성을 찾기 어렵습니다. 높은 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질병 간에 학습한 유사성을 반영했을 수 있을 뿐 생물학적 근거는 아닙니다.
-
 
 ## 한국 시판 정보
 
@@ -97,6 +96,19 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 - 허가 적응증 및 경고·금기 등 허가사항 원문 확보
 - 불면증에 대한 전임상 또는 임상 근거 (현재는 없음)
 - 점수가 TxGNN 모델(딥러닝)이 관련 질병 간에 학습한 유사성을 반영한 것인지 확인하는 추가 검증
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

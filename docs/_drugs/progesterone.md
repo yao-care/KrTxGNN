@@ -54,7 +54,7 @@ Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Progesterone은 여성 호르몬계에 속하는 황체호르몬 제제입니다.
+미국 FDA가 승인한 Progesterone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “프로게스테론은 난소, 태반 및 부신에서 분비되는 천연 스테로이드이다. 적절한 에스트로겐이 존재하는 경우, 프로게스테론은 증식기 자궁내막을 분비기 자궁내막으로 전환시킨다.” 영어 원문: "Progesterone is a naturally occurring steroid that is secreted by the ovary, placenta, and adrenal gland. In the presence of adequate estrogen, progesterone transforms a proliferative endometrium into a secretory endometrium." ([DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1), 버전 2026-10-05; 확인일 2026-11-19). 알려진 정보에 따르면 Progesterone은 여성 호르몬계에 속하는 황체호르몬 제제입니다.
 
 섬유낭성 변화는 월경 주기에 따른 에스트로겐·프로게스테론 변화에 반응해 유방 조직이 과증식하는 호르몬 반응성 질환입니다. 1986년 종설은 에스트로겐 우세와 프로게스테론 결핍이 결합조직 과증식을 일으키는 것으로 설명합니다. 2018년 연구도 황체기 에스트라디올/프로게스테론 비율과 이 질환의 발생을 연관 지어 분석했습니다.
 
@@ -111,6 +111,18 @@ Progesterone은 한국에서 단일 성분 제제로 허가·시판 중인 황�
 - 작용 기전(MOA) 데이터 보완
 - 허가사항의 경고·금기 정보 확인 및 정리
 - 유방 질환에서 호르몬 투여 시 유방암 위험을 포함한 안전성 평가 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Progesterone Vaginal Insert (progesterone) prescribing information, XIROMED, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=473ab609-5b9e-3cb8-68d5-4a459a2ea6c1) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

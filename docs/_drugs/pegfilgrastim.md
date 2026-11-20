@@ -55,7 +55,7 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(severe nonproliferative
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Pegfilgrastim은 호중구 생성을 촉진하는 장기 지속형 G-CSF이며, 조혈 전구세포와 내피 전구세포를 동원하는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Pegfilgrastim 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “페그필그라스팀 제품은 특정 세포 표면 수용체에 결합하여 조혈세포에 작용하는 집락자극인자로서, 이를 통해 증식, 분화, 분화 결정(commitment) 및 최종 세포의 기능적 활성화를 자극한다.” 영어 원문: "Pegfilgrastim products are colony-stimulating factor that acts on hematopoietic cells by binding to specific cell surface receptors, thereby stimulating proliferation, differentiation, commitment, and end cell functional activation." ([DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83), 버전 2026-10-29; 확인일 2026-11-19). 알려진 정보에 따르면 Pegfilgrastim은 호중구 생성을 촉진하는 장기 지속형 G-CSF이며, 조혈 전구세포와 내피 전구세포를 동원하는 것으로 알려져 있습니다.
 
 이 특성에서 망막 혈관 회복과의 연관성을 가설로 세울 수 있습니다. 그러나 이번 데이터에서는 이를 뒷받침하는 근거가 없습니다. 반대로 G-CSF가 유발하는 염증과 신생혈관 형성이 망막 병변을 악화시킬 수도 있어 효과의 방향 자체가 불확실합니다. 따라서 이 연관성은 추측 단계이며 전임상 및 기전 연구를 통한 검증이 필요합니다.
 
@@ -91,6 +91,19 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(severe nonproliferative
 - 당뇨망막병증 모델에서 G-CSF의 효과와 병적 신생혈관 형성 위험을 평가하는 전임상·기전 연구
 - 관련 임상시험 및 문헌 재검색
 - 투여 경로 적합성 평가 (이번 데이터에서는 미확인)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Armlupeg (pegfilgrastim-unne) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c48fe1a7-63d7-4dce-bb53-a913cb0ade83) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

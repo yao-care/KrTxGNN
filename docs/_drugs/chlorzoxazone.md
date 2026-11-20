@@ -55,7 +55,7 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Chlorzoxazone은 근골격계 통증과 근육 경련에 쓰이는 중추성 근이완제이며, 칼슘 의존성 칼륨 채널(SK/IK)을 활성화한다고 보고되어 있습니다.
+미국 FDA가 승인한 Chlorzoxazone 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “동물 실험 및 인체 연구에서 얻은 자료에 따르면, 클로르족사존은 주로 척수 및 뇌의 피질하 영역 수준에서 작용하며, 이곳에서 다양한 병인에 의한 골격근 연축의 발생 및 유지에 관여하는 다연접 반사궁을 억제한다. 그 임상적 결과는 골격근 연축의 감소와 함께 통증 완화 및 해당 근육의 운동성 증가이다.” 영어 원문: "Data available from animal experiments as well as human study indicate that chlorzoxazone acts primarily at the level of the spinal cord and subcortical areas of the brain where it inhibits multisynaptic reflex arcs involved in producing and maintaining skeletal muscle spasm of varied etiology. The clinical result is a reduction of the skeletal muscle spasm with relief of pain and increased mobility of the involved muscles." ([DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb), 버전 2026-10-05; 확인일 2026-11-19). 알려진 정보에 따르면 Chlorzoxazone은 근골격계 통증과 근육 경련에 쓰이는 중추성 근이완제이며, 칼슘 의존성 칼륨 채널(SK/IK)을 활성화한다고 보고되어 있습니다.
 
 편두통과 이어지는 유일한 연결고리는 이 이온 채널 조절 가능성입니다. 편두통의 일부 유전형(예: CACNA1A 변이)은 채널 이상과 관련되며, 마우스 모델 연구(PMID 23115190)에서 칼슘 의존성 칼륨 채널 활성화제가 CaV2.1 채널 이상으로 인한 운동실조를 완화했습니다. 다만 이는 운동실조 모델이며 편두통 자체에 대한 근거는 아닙니다.
 
@@ -107,6 +107,19 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 - 작용 기전(MOA) 데이터 보강, 특히 칼륨 채널 조절과 편두통 병태생리의 연결 검증
 - 편두통 또는 긴장형 두통에 대한 전임상·관찰 연구 및 소규모 탐색 임상시험
 - 참고: 순위 9의 류마티스 관절염(근이완제를 통증·경련 보조요법으로 사용하는 가능성, L4)은 질병 조절 효과는 없고 오래된 보고 위주이지만, 별도 후속 연구 질문으로 검토할 수 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: chlorzoxazone prescribing information, Solubiomix](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c3d40a90-6df8-4b44-bc61-d7655c52bacb) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

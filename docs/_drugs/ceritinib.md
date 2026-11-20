@@ -55,7 +55,7 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 ceritinib은 ALK, IGF-1R, ROS1을 표적으로 하는 키나아제 억제제입니다.
+미국 FDA가 승인한 Ceritinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “세리티닙은 키나제 억제제이다. 임상적으로 유의한 농도에서 생화학적 또는 세포 분석을 통해 확인된 세리티닙의 억제 표적에는 ALK, 인슐린 유사 성장인자 1 수용체(IGF-1R), 인슐린 수용체(InsR) 및 ROS1이 포함된다.” 영어 원문: "Ceritinib is a kinase inhibitor. Targets of ceritinib inhibition identified in either biochemical or cellular assays at clinically relevant concentrations include ALK, insulin-like growth factor 1 receptor (IGF-1R), insulin receptor (InsR), and ROS1." ([DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e), 버전 2026-10-28; 확인일 2026-11-19). 알려진 정보에 따르면 ceritinib은 ALK, IGF-1R, ROS1을 표적으로 하는 키나아제 억제제입니다.
 
 그러나 이러한 표적 억제와 치은 섬유종증의 발병 기전 사이에서 확인된 연관성은 없습니다. 높은 예측 점수는 계산 모델의 결과일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌이 없어 기전상 타당성을 주장하기 어렵습니다.
 
@@ -103,6 +103,19 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 - 전임상 연구 등 이 질환을 직접 다루는 근거
 - 한국 허가사항(경고, 금기, 적응증)의 확보 및 검토
 - 상세한 약물 작용 기전(MOA) 데이터
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

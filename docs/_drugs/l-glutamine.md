@@ -57,7 +57,7 @@ TxGNN 모델은 **약물유발 골다공증(drug-induced osteoporosis)**을 최�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 L-Glutamine은 소화기 증상과 식욕감퇴 관련 적응증으로 허가된 아미노산 단일제입니다.
+미국 FDA가 승인한 L-Glutamine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아미노산인 L-글루타민이 겸상적혈구병(SCD)을 치료하는 작용기전은 완전히 밝혀지지 않았다. 산화 스트레스 현상은 SCD의 병태생리에 관여한다. 겸상 적혈구(RBC)는 정상 RBC보다 산화 손상에 더 취약하며, 이는 SCD와 관련된 만성 용혈 및 혈관폐색 사건에 기여할 수 있다.” 영어 원문: "The mechanism of action of the amino acid L-glutamine in treating sickle cell disease (SCD) is not fully understood. Oxidative stress phenomena are involved in the pathophysiology of SCD. Sickle red blood cells (RBCs) are more susceptible to oxidative damage than normal RBCs, which may contribute to the chronic hemolysis and vaso-occlusive events associated with SCD." ([DailyMed: l-glutamine prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d99b233-992f-4adb-aaab-ef0021a3807f), 버전 2026-06-10; 확인일 2026-11-19). 알려진 정보에 따르면 L-Glutamine은 소화기 증상과 식욕감퇴 관련 적응증으로 허가된 아미노산 단일제입니다.
 
 **1위 약물유발 골다공증**의 경우, 이 약과 뼈 대사를 연결할 기전이 확인되지 않았습니다. 0.9998이라는 높은 점수는 계산상의 예측일 뿐입니다.
 
@@ -119,6 +119,19 @@ TxGNN 모델은 **약물유발 골다공증(drug-induced osteoporosis)**을 최�
 - 피부염에 대한 소규모 탐색적 임상시험 설계 (접촉피부염 또는 항암치료 관련 피부 반응 등)
 - 경구 투여 시 피부 조직 도달 및 투여 경로 적합성 검토
 - 기전 연구와 별도로, 간접 임상 근거(복합 보충제 연구)에서 글루타민 단독 효과를 분리해 검증
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: l-glutamine prescribing information, Camber Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4d99b233-992f-4adb-aaab-ef0021a3807f) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

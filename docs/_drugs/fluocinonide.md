@@ -56,7 +56,7 @@ TxGNN 모델은 **알로페시아 뮤시노사(Alopecia Mucinosa)**에 효과가
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Fluocinonide는 고효능 국소 코르티코스테로이드로 항염증 및 면역억제 효과를 가집니다. 이 효과가 알로페시아 뮤시노사의 모낭 주위 염증성 침윤을 줄일 가능성은 있으나, TxGNN 점수에만 근거한 추정입니다.
+미국 FDA가 승인한 Fluocinonide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “코르티코스테로이드는 세포 신호전달, 면역 기능, 염증 및 단백질 조절에 관여하나, 코르티코스테로이드 반응성 피부질환에서 Fluocinonide Cream USP, 0.1%의 정확한 작용기전은 알려져 있지 않다.” 영어 원문: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of Fluocinonide Cream USP, 0.1% in corticosteroid responsive dermatoses is unknown." ([DailyMed: Fluocinol Pak (fluocinonide) prescribing information, PureTek Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9c88a41-3ff8-78f7-e053-2995a90adb8f), 버전 2023-01-11; 확인일 2026-11-19). 알려진 정보에 따르면, Fluocinonide는 고효능 국소 코르티코스테로이드로 항염증 및 면역억제 효과를 가집니다. 이 효과가 알로페시아 뮤시노사의 모낭 주위 염증성 침윤을 줄일 가능성은 있으나, TxGNN 점수에만 근거한 추정입니다.
 
 참고로 같은 모델이 예측한 다른 탈모 질환 중 원형탈모증은 모낭에 대한 자가면역 공격이 특징이며, 국소 코르티코스테로이드는 이 질환에서 확립된 치료 계열이므로 기전상 타당성이 상대적으로 높습니다. 다만 이는 약물 계열 수준의 간접 근거이며, Fluocinonide 자체를 검증한 자료는 아닙니다.
 
@@ -111,6 +111,19 @@ TxGNN 모델은 **알로페시아 뮤시노사(Alopecia Mucinosa)**에 효과가
 - 알로페시아 뮤시노사에서 Fluocinonide를 직접 평가한 임상·문헌 근거 탐색
 - 별도의 연구 과제로 검토할 수 있는 원형탈모증(3순위, L4)에 대해 Fluocinonide 직접 투여 근거 확인
 - 국소 제형의 모발 부위 적용 가능성(투여 경로 적합성) 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Fluocinol Pak (fluocinonide) prescribing information, PureTek Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9c88a41-3ff8-78f7-e053-2995a90adb8f) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

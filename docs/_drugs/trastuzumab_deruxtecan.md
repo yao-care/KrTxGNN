@@ -54,7 +54,7 @@ Trastuzumab deruxtecan은 HER2를 표적으로 하는 항체-약물 접합체(AD
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서를 위해 정리된 데이터에는 상세한 작용 기전 정보가 없습니다. 일반적으로 알려진 바에 따르면, trastuzumab deruxtecan은 HER2 표적 항체에 topoisomerase I 억제 payload(deruxtecan, exatecan 유도체)를 결합한 ADC입니다. 다만 이는 제공된 자료가 아닌 일반 지식에 근거한 설명입니다.
+미국 FDA가 승인한 Trastuzumab Deruxtecan 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Fam-트라스투주맙 데룩스테칸-nxki는 HER2를 표적으로 하는 항체-약물 접합체이다. 항체는 인간화 항-HER2 IgG1이다. 저분자 물질인 DXd는 절단 가능한 링커에 의해 항체에 부착된 토포이소머라제 I 억제제이다.” 영어 원문: "Fam-trastuzumab deruxtecan-nxki is a HER2-directed antibody-drug conjugate. The antibody is a humanized anti-HER2 IgG1. The small molecule, DXd, is a topoisomerase I inhibitor attached to the antibody by a cleavable linker." ([DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6), 버전 2026-05-15; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면, trastuzumab deruxtecan은 HER2 표적 항체에 topoisomerase I 억제 payload(deruxtecan, exatecan 유도체)를 결합한 ADC입니다. 다만 이는 제공된 자료가 아닌 일반 지식에 근거한 설명입니다.
 
 HER2 표적화 또는 topoisomerase I 억제가 약물 유발 골다공증의 예방·치료와 연결되는 생물학적 경로는 확인되지 않습니다. 기존 적응증(종양)과 신규 적응증(골대사 질환) 사이에도 기전상 뚜렷한 연관성을 제시하기 어렵습니다. 오히려 세포독성 payload는 골 회전율에 부정적 영향을 줄 가능성이 있어, 근거 없이 치료 역할을 기대하기는 어렵습니다. TxGNN 점수(0.9931)는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며 어떤 시험이나 문헌으로도 뒷받침되지 않습니다.
 
@@ -100,6 +100,19 @@ HER2 표적화 또는 topoisomerase I 억제가 약물 유발 골다공증의 �
 - HER2 또는 topoisomerase I 억제와 골대사 사이의 기전적 연결 가능성에 대한 전임상 근거
 - 약물 유발 골다공증 관련 임상시험 또는 문헌 근거 탐색
 - 투여 경로 호환성 및 기존 약물과의 유사성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

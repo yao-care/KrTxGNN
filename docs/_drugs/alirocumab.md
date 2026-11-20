@@ -56,7 +56,7 @@ TxGNN 모델은 **X-연관 어린선(스테로이드 설파타아제 결핍 없�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이번 보고서용으로 수집된 자료에 없습니다. 다만 약리 정보에 따르면 Alirocumab은 PCSK9(proprotein convertase subtilisin/kexin type 9)에 결합하는 항체입니다. PCSK9를 억제하면 LDL 수용체 재순환이 늘어 혈중 LDL-C가 감소합니다. 미국 FDA는 2015년 7월 이형접합 가족성 고콜레스테롤혈증과 임상적 죽상경화성 심혈관질환 환자에게 이 약을 승인했습니다.
+미국 FDA가 승인한 Alirocumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “알리로쿠맙은 프로단백질 전환효소 서브틸리신/켁신 9형(PCSK9)에 결합하는 인간 단클론항체이다. PCSK9은 간세포 표면의 저밀도지단백(LDL) 수용체(LDLR)에 결합하여 간 내에서 LDLR 분해를 촉진한다.” 영어 원문: "Alirocumab is a human monoclonal antibody that binds to proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein (LDL) receptors (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver." ([DailyMed: Praluent (alirocumab) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7bcfbac2-e8ac-4569-8edc-bcde3b1fd172), 버전 2026-07-16; 확인일 2026-11-19). 다만 약리 정보에 따르면 Alirocumab은 PCSK9(proprotein convertase subtilisin/kexin type 9)에 결합하는 항체입니다. PCSK9를 억제하면 LDL 수용체 재순환이 늘어 혈중 LDL-C가 감소합니다. 미국 FDA는 2015년 7월 이형접합 가족성 고콜레스테롤혈증과 임상적 죽상경화성 심혈관질환 환자에게 이 약을 승인했습니다.
 
 X-연관 어린선은 스테로이드 설파타아제와 콜레스테롤 황산염 축적과 연관된 피부 질환입니다. PCSK9 억제 및 LDL-C 저하와 직접 이어지는 기전적 연결 고리는 확인되지 않았습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다.
 
@@ -104,6 +104,19 @@ X-연관 어린선에 대한 임상시험과 문헌이 전혀 없고(근거 수�
 - **콜레스테롤 이화과정 질환(cholesterol catabolic process disease, 점수 0.9936, L4)**: 가족성 고콜레스테롤혈증 등 이미 승인된 적응증과 겹치는 범주입니다. 검색된 문헌 19편은 주로 PCSK9 치료제 리뷰와 안전성 분석(47,296 환자-년 관찰 포함)이며, 새로운 재창출이라기보다 기존 용도의 재발견에 가깝습니다.
 
 나머지 상위 예측(비타민·보조인자 대사 장애, 46,XY 성분화 장애, 반점 골간 이형성증, 중성지질 저장병, 3-하이드록시아실-CoA 탈수소효소 결핍증, 경직성 하지마비-시신경위축-신경병증)은 기전적 연결과 임상 근거가 모두 없어 Hold가 적절합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Praluent (alirocumab) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7bcfbac2-e8ac-4569-8edc-bcde3b1fd172) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

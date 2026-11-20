@@ -56,7 +56,7 @@ TxGNN 모델은 **유두암(nipple carcinoma)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 letrozole은 방향족화효소 억제제 계열로 알려져 있으며, 이 계열은 에스트로겐 의존성 유방 질환에서 사용됩니다.
+미국 FDA가 승인한 Letrozole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “일부 유방암의 성장은 에스트로겐에 의해 촉진되거나 유지된다. 호르몬 반응성으로 생각되는(즉, 에스트로겐 수용체 및/또는 프로게스테론 수용체 양성이거나 수용체 상태가 알려지지 않은) 유방암의 치료에는 에스트로겐 수치를 감소시키거나(난소절제술, 부신절제술, 뇌하수체절제술) 에스트로겐 효과를 억제하기 위한(항에스트로겐제 및 프로게스틴제) 다양한 시도가 포함되어 왔다. […] 레트로졸은 아로마타제 효소계의 비스테로이드성 경쟁적 억제제로, 안드로겐이 에스트로겐으로 전환되는 것을 억제한다.” 영어 원문: "The growth of some cancers of the breast is stimulated or maintained by estrogens. Treatment of breast cancer thought to be hormonally responsive (i.e., estrogen and/or progesterone receptor positive or receptor unknown) has included a variety of efforts to decrease estrogen levels (ovariectomy, adrenalectomy, hypophysectomy) or inhibit estrogen effects (antiestrogens and progestational agents). […] Letrozole is a nonsteroidal competitive inhibitor of the aromatase enzyme system; it inhibits the conversion of androgens to estrogens." ([DailyMed: Femara (letrozole) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406), 버전 2026-06-11; 확인일 2026-11-19). 다만 letrozole은 방향족화효소 억제제 계열로 알려져 있으며, 이 계열은 에스트로겐 의존성 유방 질환에서 사용됩니다.
 
 유두암은 유방암의 하위 유형이므로, 종양이 호르몬 수용체 양성이라면 방향족화효소 억제가 기전상 적용 가능할 수 있습니다. 그러나 이를 뒷받침하는 질환 특이적 근거는 아직 없으며, 수용체 상태에 따라 적합성이 달라질 수 있습니다.
 
@@ -116,6 +116,19 @@ TxGNN 모델은 **유두암(nipple carcinoma)**에 효과가 있을 수 있다�
 - 상세한 작용 기전(MOA) 데이터
 - 호르몬 수용체 양성 유두암에서 letrozole의 효과를 평가한 임상 또는 관찰 연구
 - 한국 시판 및 허가 취소 현황 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Femara (letrozole) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

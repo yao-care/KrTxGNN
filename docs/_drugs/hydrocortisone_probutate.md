@@ -57,7 +57,7 @@ TxGNN 모델은 **홍채 질환(Iris Disease)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Hydrocortisone Probutate는 hydrocortisone 17-부티레이트 21-프로피오네이트 계열의 국소 코르티코스테로이드 에스테르로, 글루코코르티코이드 수용체를 활성화하여 항염증 및 면역억제 효과를 나타낼 것으로 추정됩니다.
+ChEMBL(EMBL-EBI)에 등록된 Hydrocortisone Probutate의 작용 기전(비공식 번역): “글루코코르티코이드 수용체 작용제” 영어 원문: "Glucocorticoid receptor agonist" ([ChEMBL CHEMBL1200953 (hydrocortisone probutate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200953), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Hydrocortisone Probutate는 hydrocortisone 17-부티레이트 21-프로피오네이트 계열의 국소 코르티코스테로이드 에스테르로, 글루코코르티코이드 수용체를 활성화하여 항염증 및 면역억제 효과를 나타낼 것으로 추정됩니다.
 
 코르티코스테로이드 계열은 홍채염, 홍채섬모체염(전방 포도막염)과 같은 염증성 홍채 질환에 일반적으로 사용되는 약물군입니다. 이것이 TxGNN의 높은 예측 점수(0.9913)를 설명할 수 있는 한 가지 이유로 보입니다.
 
@@ -89,6 +89,19 @@ TxGNN 모델은 **홍채 질환(Iris Disease)**에 효과가 있을 수 있다�
 - 안구 투과성 및 안구 안전성(안압 상승, 백내장, 감염 위험) 전임상·문헌 근거
 - 안과용 제형 또는 투여 경로의 실현 가능성 평가
 - 염증성 홍채 질환(홍채염, 전방 포도막염)에서 국소 코르티코스테로이드의 기존 근거 검토 및 임상 관련성 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1200953 (hydrocortisone probutate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200953) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

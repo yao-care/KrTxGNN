@@ -57,7 +57,7 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Epinephrine은 비선택적 아드레날린 작용제입니다. 베타-2 수용체 활성화로 기관지 평활근이 이완되어 기관지 확장이 일어나고, 알파-1 수용체 활성화로 혈관 수축을 통해 점막 부종이 줄어듭니다.
+미국 FDA가 승인한 Epinephrine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “에피네프린은 알파 및 베타 아드레날린 수용체 모두에 작용한다. 에피네프린은 알파 아드레날린 수용체에 대한 작용을 통해 아나필락시스 중에 발생하는 혈관 확장 및 혈관 투과성 증가를 감소시키는데, 이러한 혈관 확장 및 혈관 투과성 증가는 혈관 내 체액량 손실과 저혈압을 초래할 수 있다.” 영어 원문: "Epinephrine acts on both alpha and beta-adrenergic receptors. Through its action on alpha-adrenergic receptors, epinephrine lessens the vasodilation and increased vascular permeability that occurs during anaphylaxis, which can lead to loss of intravascular fluid volume and hypotension." ([DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf), 버전 2026-09-18; 확인일 2026-11-19). 알려진 정보에 따르면 Epinephrine은 비선택적 아드레날린 작용제입니다. 베타-2 수용체 활성화로 기관지 평활근이 이완되어 기관지 확장이 일어나고, 알파-1 수용체 활성화로 혈관 수축을 통해 점막 부종이 줄어듭니다.
 
 이러한 기전은 천식과 같은 가역적 기도 폐쇄에 직접적인 근거가 됩니다. 미국에서는 흡입형 Epinephrine(Primatene Mist, E004 HFA-MDI)이 천식용 OTC 제품으로 이미 판매되고 있습니다. 세기관지염에 대한 근거는 상대적으로 약하고 결과도 일관되지 않습니다.
 
@@ -139,6 +139,19 @@ TxGNN 모델은 **폐쇄성 폐질환(Obstructive Lung Disease)**에 효과가 �
 - **음식 의존성 운동 유발 아나필락시스**: 아나필락시스의 1차 응급 치료제라는 점에서 기전 연관성이 강하나, 해당 아형에 대한 임상시험은 없고 문헌은 리뷰와 증례 중심입니다.
 - **Rienhoff 증후군**: 임상시험과 문헌이 없고 기전적 근거도 불분명하여 모델 예측만 존재합니다.
 - **호흡기 기형**: 유일한 시험(NCT05006235)은 신생아 일과성 빈호흡 대상 Phase 1이라 구조적 기형과는 간접적으로만 관련되며, 검색된 문헌 대부분도 관련성이 낮습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Auvi-Q (epinephrine) prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5f40988b-8365-4f7b-84d1-b88e053725cf) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

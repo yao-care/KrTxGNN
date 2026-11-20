@@ -55,7 +55,7 @@ Trastuzumab은 HER2를 표적으로 하는 단클론항체로, 원래 HER2 양�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Trastuzumab은 HER2 수용체에 결합하는 단클론항체이며, HER2 양성 유방암에서 효능이 입증되어 있습니다.
+미국 FDA가 승인한 Trastuzumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “HER2(또는 c-erbB2) 원종양유전자는 185 kDa의 막관통 수용체 단백질을 암호화하며, 이 단백질은 구조적으로 표피성장인자 수용체와 관련이 있다. 트라스투주맙 제제는 시험관 내 분석과 동물 모두에서 HER2를 과발현하는 인간 종양 세포의 증식을 억제하는 것으로 나타났다.” 영어 원문: "The HER2 (or c-erbB2) proto-oncogene encodes a transmembrane receptor protein of 185 kDa, which is structurally related to the epidermal growth factor receptor. Trastuzumab products have been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumor cells that overexpress HER2." ([DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c), 버전 2026-06-26; 확인일 2026-11-19). 알려진 정보에 따르면 Trastuzumab은 HER2 수용체에 결합하는 단클론항체이며, HER2 양성 유방암에서 효능이 입증되어 있습니다.
 
 HER2 양성 종양의 상당수는 프로게스테론 수용체(PR)도 함께 양성(HR+/HER2+)입니다. 따라서 이 예측은 새로운 질환이라기보다 이미 승인된 적응증의 하위 집단에 해당합니다. 치료 효과는 PR 상태가 아니라 **HER2 상태**에 좌우됩니다.
 
@@ -152,11 +152,12 @@ Trastuzumab은 세포독성 화학요법제가 아닌 HER2 표적 단클론항�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
 
 <!-- review:end log -->
 

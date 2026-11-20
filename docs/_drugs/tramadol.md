@@ -56,7 +56,7 @@ TxGNN 모델은 **Hunter-Thompson형 말단중간부 이형성증(acromesomelic 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바에 따르면 tramadol은 mu-오피오이드 수용체 작용제이자 세로토닌·노르에피네프린 재흡수 억제제로, 통증 조절에 사용됩니다.
+미국 FDA가 승인한 Tramadol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “트라마돌염산염 서방형 캡슐은 오피오이드 작용제이자 노르에피네프린 및 세로토닌 재흡수 억제제인 트라마돌을 함유한다. 작용 기전이 완전히 밝혀지지는 않았으나, 동물 시험 결과에 따르면 적어도 두 가지 상호보완적인 기전, 즉 모약물 및 M1 대사체의 뮤-오피오이드 수용체에 대한 결합과 노르에피네프린 및 세로토닌 재흡수의 약한 억제가 적용되는 것으로 보인다.” 영어 원문: "Tramadol Hydrochloride Extended-Release Capsules contain tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin. Although its mode of action is not completely understood, from animal tests, at least two complementary mechanisms appear applicable: binding of parent and M1 metabolite to mu-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin." ([DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9), 버전 2026-01-23; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면 tramadol은 mu-오피오이드 수용체 작용제이자 세로토닌·노르에피네프린 재흡수 억제제로, 통증 조절에 사용됩니다.
 
 Hunter-Thompson형 말단중간부 이형성증은 CDMP1/GDF5 유전자 변이로 뼈 성장에 이상이 생기는 유전성 골격 질환입니다. Tramadol은 뼈 발달 경로에 작용하지 않으므로 질환 자체를 개선할 기전상 근거는 확인되지 않습니다. 증상으로서의 통증을 완화할 수는 있어도, 그 이상의 가능성을 뒷받침하는 자료는 없습니다.
 
@@ -97,6 +97,19 @@ Hunter-Thompson형 말단중간부 이형성증은 CDMP1/GDF5 유전자 변이�
 - 작용 기전 데이터 보강 (DrugBank 조회)
 - 예측 질환에 대한 전임상 또는 임상 근거 탐색
 - 증상 완화 목적의 사용을 검토할 경우, 대상 질환별 통증 관리 필요성과 소아 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

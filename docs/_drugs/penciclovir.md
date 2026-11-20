@@ -54,7 +54,7 @@ Penciclovir는 헤르페스바이러스 감염 치료에 사용되는 뉴클레�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이 보고서에 수집된 자료에 없습니다. 일반적으로 알려진 바에 따르면, Penciclovir는 구아노신 뉴클레오시드 유사체로서 바이러스 티미딘 키나아제에 의해 인산화된 뒤 헤르페스바이러스 DNA 중합효소를 억제합니다.
+미국 FDA가 승인한 Penciclovir 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “펜시클로비르는 알파 헤르페스바이러스에 활성을 갖는 항바이러스제이다. […] 펜시클로비르는 단순포진바이러스 1형(HSV-1) 및 2형(HSV-2)에 대해 억제 활성을 갖는다. HSV-1 또는 HSV-2에 감염된 세포에서 바이러스 티미딘 키나아제가 펜시클로비르를 일인산 형태로 인산화하고, 이는 다시 세포 키나아제에 의해 활성형인 펜시클로비르 삼인산으로 전환된다.” 영어 원문: "Penciclovir is an antiviral agent active against alpha herpes viruses. […] Penciclovir has inhibitory activity against herpes simplex virus types 1 (HSV-1) and 2 (HSV-2). In cells infected with HSV-1 or HSV-2, the viral thymidine kinase phosphorylates penciclovir to a monophosphate form that, in turn, is converted by cellular kinases to the active form penciclovir triphosphate." ([DailyMed: Denavir (penciclovir) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=61229829-55a0-4d6f-a423-4b48a2b4d8e5), 버전 2018-11-26; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면, Penciclovir는 구아노신 뉴클레오시드 유사체로서 바이러스 티미딘 키나아제에 의해 인산화된 뒤 헤르페스바이러스 DNA 중합효소를 억제합니다.
 
 파스시올라증은 흡충류(trematode) 기생충 감염으로, 바이러스 티미딘 키나아제 활성화 경로도, Penciclovir가 작용하는 DNA 중합효소 표적도 없습니다. 따라서 기존 적응증과 예측 신규 적응증 사이에서 타당한 기전적 연결고리는 확인되지 않습니다. 높은 TxGNN 점수는 네트워크상 유사성에 근거한 계산적 예측일 뿐입니다.
 
@@ -83,6 +83,19 @@ Penciclovir는 헤르페스바이러스 감염 치료에 사용되는 뉴클레�
 - 파스시올라증에 대한 항기생충 활성을 확인하는 in vitro/전임상 근거
 - 외용제 특성을 고려한 투여 경로 적합성 평가
 - 더 타당한 예측 후보가 있는지 재검토 (예: 중피종 계열은 HSV-TK 자살유전자 요법 맥락에서 별도 검토 가능)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Denavir (penciclovir) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=61229829-55a0-4d6f-a423-4b48a2b4d8e5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

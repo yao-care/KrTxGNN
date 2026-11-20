@@ -55,7 +55,7 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Denosumab은 RANKL(RANK 리간드)을 중화하는 단클론항체입니다. RANKL은 파골세포의 형성과 활성에 관여하므로, 뼈 흡수를 억제하는 약물로 사용됩니다.
+미국 FDA가 승인한 Denosumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “데노수맙 제품은 골흡수를 담당하는 세포인 파골세포의 형성, 기능 및 생존에 필수적인 막관통 또는 가용성 단백질인 RANKL에 결합한다. 데노수맙 제품은 RANKL이 파골세포 및 그 전구세포 표면의 수용체인 RANK를 활성화하는 것을 저해한다.” 영어 원문: "Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption. Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors." ([DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd), 버전 2026-11-04; 확인일 2026-11-19). 알려진 정보에 따르면 Denosumab은 RANKL(RANK 리간드)을 중화하는 단클론항체입니다. RANKL은 파골세포의 형성과 활성에 관여하므로, 뼈 흡수를 억제하는 약물로 사용됩니다.
 
 신규 적응증과의 연관성은 가설 단계입니다. RANKL/RANK/OPG 신호가 당뇨병 환자의 혈관 석회화, 염증, 미세혈관 기능 이상에 영향을 줄 가능성이 제기될 수 있습니다. 그러나 RANKL 억제가 망막 신생혈관, 혈관 누출, 망막병증 진행에 영향을 준다는 직접적인 증거는 없습니다. 기존 적응증과 신규 적응증 사이의 기전적 유사성 평가도 아직 이루어지지 않았습니다.
 
@@ -107,6 +107,19 @@ TxGNN 점수는 매우 높지만(0.9963), 중증 비증식성 당뇨망막병증
 - RANKL 억제와 망막 신생혈관·혈관 누출·망막병증 진행 사이의 전임상 기전 근거
 - 당뇨망막병증 결과를 직접 평가하는 관찰연구 또는 임상시험
 - 주사제(전신 투여)의 망막 질환 적용 타당성 및 투여 경로 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

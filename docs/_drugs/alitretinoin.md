@@ -56,7 +56,7 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 약리 정보상 alitretinoin(9-cis-레티노산)은 레티노산 수용체(RARα, RARβ, RARγ)와 레티노이드 X 수용체(RXRα, RXRγ)에 작용하는 리간드입니다.
+미국 FDA가 승인한 Alitretinoin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “알리트레티노인(9-시스-레티노산)은 자연적으로 존재하는 내인성 레티노이드로서, 알려진 모든 세포 내 레티노이드 수용체 아형(RARα, RARβ, RARγ, RXRα, RXRβ 및 RXRγ)에 결합하여 이를 활성화한다. 일단 활성화되면 이 수용체들은 정상 세포와 종양 세포 모두에서 세포 분화 및 증식 과정을 조절하는 유전자의 발현을 조절하는 전사인자로 기능한다.” 영어 원문: "Alitretinoin (9-cis-retinoic acid) is a naturally occurring endogenous retinoid that binds to and activates all known intracellular retinoid receptor subtypes (RARα, RARβ, RARγ, RXRα, RXRβ and RXRγ). Once activated these receptors function as transcription factors that regulate the expression of genes that control the process of cellular differentiation and proliferation in both normal and neoplastic cells." ([DailyMed: Panretin (alitretinoin) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49c16717-7d86-4257-80c9-baa1417e5555), 버전 2025-11-25; 확인일 2026-11-19). 다만 약리 정보상 alitretinoin(9-cis-레티노산)은 레티노산 수용체(RARα, RARβ, RARγ)와 레티노이드 X 수용체(RXRα, RXRγ)에 작용하는 리간드입니다.
 
 이론적으로는 RAR/RXR 신호가 생식 조직에도 관여하므로 간접적 연관을 가정해 볼 수 있습니다. 그러나 이는 추측일 뿐 이번 자료에서는 이를 뒷받침하는 임상시험이나 문헌이 확인되지 않았습니다. 또한 레티노이드는 기형 유발성이 있어 가임기 환자에게 중대한 안전성 문제가 됩니다.
 
@@ -103,11 +103,12 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “전체 20건이 모두 단일 성분 제제이며 유효한 상태입니다(취소 0건)” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Panretin (alitretinoin) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49c16717-7d86-4257-80c9-baa1417e5555) |
 
 <!-- review:end log -->
 

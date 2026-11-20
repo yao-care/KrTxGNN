@@ -54,7 +54,7 @@ description: "Nitric Oxide: 예측 신규 적응증 치아·치주 구성요소�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 이번 평가에서 확인된 허가 정보는 흡입용 가스제 2건뿐이며, 허가 적응증 본문도 확인되지 않아 기존 적응증과 신규 적응증의 연관성을 설명할 근거가 부족합니다.
+미국 FDA가 승인한 Nitric Oxide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “산화질소는 세포질 구아닐산 고리화효소의 헴 부분에 결합하여 구아닐산 고리화효소를 활성화하고 세포내 고리형 구아노신 3',5'-일인산 농도를 증가시킴으로써 혈관 평활근을 이완시키며, 이는 혈관 확장으로 이어진다. 흡입 시 산화질소는 폐혈관을 선택적으로 확장시키며, 헤모글로빈에 의한 효율적인 제거로 인해 전신 혈관에는 최소한의 영향을 미친다.” 영어 원문: "Nitric oxide relaxes vascular smooth muscle by binding to the heme moiety of cytosolic guanylate cyclase, activating guanylate cyclase and increasing intracellular levels of cyclic guanosine 3',5'-monophosphate, which then leads to vasodilation. When inhaled, nitric oxide selectively dilates the pulmonary vasculature, and because of efficient scavenging by hemoglobin, has minimal effect on the systemic vasculature." ([DailyMed: Inomax (nitric oxide) prescribing information, INO Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=762b51be-1893-4cd1-9511-e645fc420d3a), 버전 2025-12-12; 확인일 2026-11-19). 이번 평가에서 확인된 허가 정보는 흡입용 가스제 2건뿐이며, 허가 적응증 본문도 확인되지 않아 기존 적응증과 신규 적응증의 연관성을 설명할 근거가 부족합니다.
 
 검색된 문헌은 치주염의 생물학(치은 섬유아세포의 염증, 산화 스트레스, 파골세포 생성, 천연물 추출물)과 구강 미생물의 아질산염 대사를 다룹니다. 이 중 산화질소를 치아·치주 구성요소를 동반한 기형 증후군의 치료제로 검증한 연구는 없습니다. 따라서 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 뿐 생물학적 근거는 아니며, 임상적 뒷받침은 확인되지 않습니다.
 
@@ -108,6 +108,19 @@ description: "Nitric Oxide: 예측 신규 적응증 치아·치주 구성요소�
 - 상세 작용 기전 데이터 확보 및 이 질환과의 기전적 연결 분석
 - 이 질환에서 산화질소를 직접 평가한 전임상 또는 임상 연구
 - 참고: 같은 약물의 다른 예측 중 폐동맥 기형은 관찰 연구 수준의 근거(L3)가 있으므로 별도 평가가 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Inomax (nitric oxide) prescribing information, INO Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=762b51be-1893-4cd1-9511-e645fc420d3a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

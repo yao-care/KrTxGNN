@@ -54,7 +54,7 @@ Isosorbide mononitrate는 일산화질소(NO) 공여체 계열의 혈관확장�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Isosorbide mononitrate는 NO 공여체로서 cGMP 경로를 통해 혈관을 확장합니다. 다만 이 내용은 데이터 수집 과정에서 확보된 공식 MOA가 아니라 일반적인 약리학적 설명입니다.
+미국 FDA가 승인한 Isosorbide Mononitrate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이소소르비드 일질산염 서방정은 이소소르비드 이질산염의 주요 활성 대사체인 ISMN의 경구용 서방형 제제이며, 이질산염의 임상적 활성의 대부분은 일질산염에 기인한다. ISMN 및 일반적으로 모든 유기 질산염의 주된 약리학적 작용은 혈관 평활근의 이완으로, 말초 동맥과 정맥, 특히 정맥의 확장을 일으킨다.” 영어 원문: "Isosorbide mononitrate extended-release tablet are an oral extended-release formulation of ISMN, the major active metabolite of isosorbide dinitrate; most of the clinical activity of the dinitrate is attributable to the mononitrate. The principal pharmacological action of ISMN and all organic nitrates in general is relaxation of vascular smooth muscle, producing dilatation of peripheral arteries and veins, especially the latter." ([DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158), 버전 2026-11-10; 확인일 2026-11-19). 알려진 정보에 따르면 Isosorbide mononitrate는 NO 공여체로서 cGMP 경로를 통해 혈관을 확장합니다. 다만 이 내용은 데이터 수집 과정에서 확보된 공식 MOA가 아니라 일반적인 약리학적 설명입니다.
 
 다모증과의 기전적 연관성은 **신뢰할 만한 수준으로 확인되지 않았습니다**. minoxidil 같은 혈관확장제가 다모증을 유발하는 것으로 알려져 있어 혈관확장과 털 성장 사이에 관련이 있을 수는 있습니다. 그러나 이는 치료 효과가 아니라 **이상반응 가능성**에 가깝습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며, 임상 또는 문헌 근거가 뒷받침하지 않습니다.
 
@@ -99,6 +99,19 @@ Isosorbide mononitrate는 일산화질소(NO) 공여체 계열의 혈관확장�
 - MFDS 허가사항(경고·금기·적응증)을 내려받아 확인 (현재 안전성 선별을 진행할 수 없는 차단 수준의 데이터 공백)
 - DrugBank에서 작용 기전(MOA) 데이터 확보
 - 모발 질환 예측은 중단하거나 후순위로 두고, 기전적 타당성이 상대적으로 높은 폐동맥 고혈압을 별도 연구 질문으로 검토 (PAH 환자 대상 문헌고찰, 내성·저혈압 문제 평가 포함)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

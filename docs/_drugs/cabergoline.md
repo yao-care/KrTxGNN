@@ -56,7 +56,7 @@ TxGNN 모델은 **조로증-저신장-색소성 모반 증후군(progeria-short 
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서를 위해 정리한 데이터에는 Cabergoline의 상세한 작용 기전 정보가 없습니다. 도파민 D2 수용체 작용 계열이라는 점만 알려져 있습니다.
+미국 FDA가 승인한 Cabergoline 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “카베르골린은 D2 수용체에 대해 높은 친화도를 가진 맥각 유도체이자 도파민 수용체 작용제이다. 시험관 내 연구 결과, 카베르골린은 랫드 뇌하수체 젖분비세포에 의한 프로락틴 분비에 직접적인 억제 효과를 나타내는 것으로 확인되었다.” 영어 원문: "Cabergoline is an ergot derivative and dopamine receptor agonist with a high affinity for D2 receptors. Results of in vitro studies demonstrate that cabergoline exerts a direct inhibitory effect on the secretion of prolactin by rat pituitary lactotrophs." ([DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb), 버전 2026-06-30; 확인일 2026-11-19). 도파민 D2 수용체 작용 계열이라는 점만 알려져 있습니다.
 
 이 약의 도파민 D2 수용체 작용과 조로증-저신장-색소성 모반 증후군을 잇는 기전적 근거는 제공된 데이터에서 확인되지 않습니다. 높은 예측 점수(0.9906)는 모델 계산 결과일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다. 기존 적응증과의 질환 유사성도 평가되지 않았습니다. 현재로서는 가설 수준이라고 보는 것이 안전합니다.
 
@@ -101,6 +101,19 @@ TxGNN 모델은 **조로증-저신장-색소성 모반 증후군(progeria-short 
 - 해당 질환 관련 전임상 연구, 증례 보고, 임상시험을 탐색합니다.
 - 허가사항의 경고·금기를 확인하고 안전성 검토를 진행합니다.
 - 해당 질환 환자군에서의 투여 경로와 용량 적합성을 평가합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

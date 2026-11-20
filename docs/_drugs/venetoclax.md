@@ -56,7 +56,7 @@ TxGNN 모델은 **전배중심 CLL/SLL(pregerminal center CLL/SLL, IGHV 비돌�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 문헌에 따르면 venetoclax는 세포 사멸(미토콘드리아 세포자멸) 경로를 조절하는 BCL-2 단백질을 선택적으로 억제하는 경구 약물이며, CLL에서 특히 높은 반응률을 보입니다.
+미국 FDA가 승인한 Venetoclax 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “베네토클락스는 항세포자멸사 단백질인 BCL-2의 선택적이고 경구 생체이용 가능한 저분자 억제제이다. BCL-2의 과발현은 CLL 및 AML 세포에서 확인되었으며, 이들 세포에서 BCL-2는 종양 세포 생존을 매개하고 화학요법제에 대한 내성과 관련이 있는 것으로 나타났다.” 영어 원문: "Venetoclax is a selective and orally bioavailable small-molecule inhibitor of BCL-2, an anti-apoptotic protein. Overexpression of BCL-2 has been demonstrated in CLL and AML cells where it mediates tumor cell survival and has been associated with resistance to chemotherapeutics." ([DailyMed: Venclexta (venetoclax) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018), 버전 2026-05-20; 확인일 2026-11-19). 문헌에 따르면 venetoclax는 세포 사멸(미토콘드리아 세포자멸) 경로를 조절하는 BCL-2 단백질을 선택적으로 억제하는 경구 약물이며, CLL에서 특히 높은 반응률을 보입니다.
 
 예측된 질환은 CLL/SLL 중 IGHV 유전자가 돌연변이되지 않은(U-CLL) 아형입니다. 이 아형은 배중심 이전 기원이며 예후가 불량한 것으로 알려져 있습니다. CLL/SLL은 BCL-2 의존성이 높은 질환이므로, 하위 아형에서도 효과가 있을 가능성은 이론적으로 타당합니다.
 
@@ -129,6 +129,18 @@ TxGNN 모델은 **전배중심 CLL/SLL(pregerminal center CLL/SLL, IGHV 비돌�
 | 여포성 림프종 | L2 | Proceed with Guardrails | 단독요법의 효과는 제한적이고, 병용요법 Phase 2 근거가 있습니다. |
 | 호지킨 림프종, 전이성 종양 | L3 | Research Question | 직접 근거가 없고 다른 질환 시험이 넓은 분류로 매칭된 결과입니다. |
 | Ewing 육종, 악성 나선선종, t(8;21) AML, CLL/SLL 돌연변이 아형 | L4–L5 | Hold | 임상 근거가 없거나 간접적입니다. |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Venclexta (venetoclax) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

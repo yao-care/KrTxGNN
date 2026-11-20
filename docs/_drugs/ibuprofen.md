@@ -56,7 +56,7 @@ TxGNN 모델은 **말단중간형 이형성증, Hunter-Thompson형(acromesomelic
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 Ibuprofen은 COX-1/COX-2를 비선택적으로 억제해 프로스타글란딘 합성을 줄이는 NSAID이며, 소염·진통·해열 효과로 통증과 염증성 질환에 쓰입니다.
+미국 FDA가 승인한 Ibuprofen 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이부프로펜은 진통, 항염증 및 해열 특성을 가진다. CALDOLOR의 작용기전은 다른 NSAID와 마찬가지로 완전히 밝혀지지 않았으나, 시클로옥시게나제(COX-1 및 COX-2)의 억제가 관여한다.” 영어 원문: "Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of CALDOLOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684), 버전 2026-01-29; 확인일 2026-11-19). 알려진 정보에 따르면 Ibuprofen은 COX-1/COX-2를 비선택적으로 억제해 프로스타글란딘 합성을 줄이는 NSAID이며, 소염·진통·해열 효과로 통증과 염증성 질환에 쓰입니다.
 
 반면 이 질환은 CDMP1/GDF5 유전자의 기능 상실 변이로 BMP 신호와 연골 형성이 손상되는 희귀 유전성 골격 이형성증입니다. Ibuprofen은 GDF5/BMP 경로에 작용하지 않으므로, 질환 자체를 변화시킬 만한 기전적 연결고리는 확인되지 않습니다.
 
@@ -96,6 +96,19 @@ TxGNN 점수(0.9974)는 높지만 임상시험과 문헌이 전혀 없고, COX �
 - 허가사항(경고·금기) 확보: 현재 누락되어 안전성 선별 단계로 진행할 수 없음 (MFDS 허가사항 PDF 다운로드 및 분석)
 - 이 질환에서 Ibuprofen의 효과를 시사하는 전임상·임상 근거 확보 (현재 없음)
 - 필요하다면 증상 완화(통증 관리)로 목표를 한정한 별도의 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

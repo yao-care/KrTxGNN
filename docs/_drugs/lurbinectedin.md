@@ -55,7 +55,7 @@ TxGNN 모델은 **다발성 내분비 종양(multiple endocrine neoplasia)**에 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 정보에 따르면, Lurbinectedin은 DNA minor groove에 결합하여 발암성 전사를 억제하는 항종양제이며, 재발성 소세포폐암(신경내분비 악성종양)에 승인된 약물입니다. 이 설명은 제공된 데이터가 아니라 일반 지식에 근거한 것입니다.
+미국 FDA가 승인한 Lurbinectedin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Lurbinectedin은 DNA의 부구(minor groove)에 있는 구아닌 잔기에 결합하여 부가물을 형성하고, 그 결과 DNA 나선이 주구(major groove) 쪽으로 휘어지게 하는 알킬화 약물이다. 부가물 형성은 일부 전사 인자를 포함한 DNA 결합 단백질의 후속 활성 및 DNA 복구 경로에 영향을 미칠 수 있는 일련의 연쇄 반응을 유발하여, 세포 주기의 교란 및 궁극적인 세포 사멸을 초래한다.” 영어 원문: "Lurbinectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death." ([DailyMed: Zepzelca (lurbinectedin) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=632bb50c-3bcb-4c85-9056-fc33410550ae), 버전 2026-09-30; 확인일 2026-11-19). 일반적으로 알려진 정보에 따르면, Lurbinectedin은 DNA minor groove에 결합하여 발암성 전사를 억제하는 항종양제이며, 재발성 소세포폐암(신경내분비 악성종양)에 승인된 약물입니다. 이 설명은 제공된 데이터가 아니라 일반 지식에 근거한 것입니다.
 
 신경내분비 종양이라는 공통점 때문에 다발성 내분비 종양(MEN)과의 이론적 연관성은 생각해 볼 수 있습니다. 그러나 MEN은 MEN1, RET 등 유전자 변이에 의한 유전성 종양 증후군이며, 이번 예측 점수는 TxGNN 모델(딥러닝)이 산출한 것으로 관련 질환 간에 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니며, 임상적·문헌적 뒷받침도 없습니다.
 
@@ -103,6 +103,19 @@ TxGNN 모델은 **다발성 내분비 종양(multiple endocrine neoplasia)**에 
 - MEN(MEN1, RET 관련 신경내분비 종양)에 대한 전임상 또는 임상 근거 탐색
 - 세포독성 약물로서의 골수억제·간독성 위험 대비 이익 평가
 - 주요 병용약물(Aprepitant, Dexamethasone 등)과의 상호작용 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Zepzelca (lurbinectedin) prescribing information, Jazz Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=632bb50c-3bcb-4c85-9056-fc33410550ae) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

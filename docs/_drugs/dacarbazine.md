@@ -56,7 +56,7 @@ TxGNN 모델은 **상부 기도·소화관 종양(Upper Aerodigestive Tract Neop
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Dacarbazine은 간에서 대사 활성화되는 전구약물(prodrug)로, 활성 메틸화 물질(MTIC)이 DNA를 메틸화하여 빠르게 분열하는 세포에 독성을 나타내는 알킬화제입니다.
+ChEMBL(EMBL-EBI)에 등록된 Dacarbazine의 작용 기전(비공식 번역): “DNA 억제제” 영어 원문: "DNA inhibitor" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Dacarbazine은 간에서 대사 활성화되는 전구약물(prodrug)로, 활성 메틸화 물질(MTIC)이 DNA를 메틸화하여 빠르게 분열하는 세포에 독성을 나타내는 알킬화제입니다.
 
 이런 일반적인 세포독성 효과는 상부 기도·소화관의 편평상피성 또는 점막 종양에도 이론상 적용될 수 있습니다. 그러나 이를 직접 뒷받침하는 근거는 없습니다. 높은 TxGNN 점수는 컴퓨터 예측일 뿐입니다.
 
@@ -125,6 +125,19 @@ TxGNN 모델은 **상부 기도·소화관 종양(Upper Aerodigestive Tract Neop
 - 상부 기도·소화관 종양에 대한 Dacarbazine 단독 또는 병용요법의 직접 근거(임상시험, 후향 연구) 탐색
 - 현재 표준치료 대비 Dacarbazine의 기대 이점 평가
 - 간·신장 기능 이상과 혈액학적 이상이 있는 환자에 대한 안전성 모니터링 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 대두유는 비경구 영양 유화액 등에서 지질과 열량, 필수지방산, 식물성 스테롤을 공급하는 성분입니다.
+미국 FDA가 승인한 Soybean Oil 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “정맥 투여된 Nutrilipid 20%는 생물학적으로 이용 가능한 칼로리 및 필수 지방산 공급원을 제공한다. 지방산은 에너지 생성을 위한 중요한 기질로 작용한다. 지방산 대사로부터 유래하는 에너지 생성의 가장 일반적인 작용 기전은 베타 산화이다.” 영어 원문: "Nutrilipid 20% administered intravenously provides biologically utilizable source of calories and essential fatty acids. Fatty acids serve as an important substrate for energy production. The most common mechanism of action for energy production derived from fatty acid metabolism is beta oxidation." ([DailyMed: Nutrilipid I.V. Fat Emulsion (soybean oil) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=193290b1-a0a1-4054-a22a-de5c9e7a8b73), 버전 2026-07-10; 확인일 2026-11-19). 알려진 정보에 따르면 대두유는 비경구 영양 유화액 등에서 지질과 열량, 필수지방산, 식물성 스테롤을 공급하는 성분입니다.
 
 가능한 가설은 두 가지입니다. 첫째, 에너지 부족이나 기능성 시상하부 무월경처럼 영양·에너지 결핍이 원인인 경우 지질 보충이 도움이 될 수 있습니다. 둘째, 식물성 스테롤의 에스트로겐 유사 작용이 시상하부-뇌하수체-난소 축에 영향을 줄 가능성도 있습니다.
 
@@ -84,6 +84,19 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 - 무월경 관련 임상시험 및 문헌 탐색 (특히 에너지 결핍성 무월경 대상)
 - 무월경의 세부 병인별로 기전 가설 검증
 - 투여 경로 적합성 평가: 현재 제품은 정맥 수액 제제이므로, 무월경 치료에 적합한지 검토 필요
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nutrilipid I.V. Fat Emulsion (soybean oil) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=193290b1-a0a1-4054-a22a-de5c9e7a8b73) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

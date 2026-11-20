@@ -54,7 +54,7 @@ Methocarbamol은 중추 작용 골격근 이완제로, 한국에서 단일 성�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Methocarbamol은 중추 작용 골격근 이완제로 알려져 있으나 정확한 기전은 충분히 규명되지 않았습니다. 근육 경련이나 요통과 관련된 증상 완화에는 쓰일 수 있습니다.
+미국 FDA가 승인한 Methocarbamol 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “인간에서 methocarbamol의 작용기전은 확립되지 않았으나, 전반적인 CNS 억제에 기인할 수 있다. 이 약물은 횡문근의 수축 기전, 운동 종판 또는 신경 섬유에 대해 직접적인 작용을 나타내지 않는다.” 영어 원문: "The mechanism of action of methocarbamol in humans has not been established, but may be due to general CNS depression. It has no direct action on the contractile mechanism of striated muscle, the motor end plate or the nerve fiber." ([DailyMed: Methocarbamol Tablets, Usp, 500 Mg (methocarbamol) prescribing information, Marlex Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2e38ac9-1cf3-14ca-e053-2a95a90a8522), 버전 2026-11-06; 확인일 2026-11-19). Methocarbamol은 중추 작용 골격근 이완제로 알려져 있으나 정확한 기전은 충분히 규명되지 않았습니다. 근육 경련이나 요통과 관련된 증상 완화에는 쓰일 수 있습니다.
 
 그러나 마미 증후군은 신경 압박으로 인한 응급 질환으로, 치료의 핵심은 수술적 감압입니다. Methocarbamol이 이 질환의 경과를 바꿀 수 있다고 볼 만한 근거는 없으며, 연관성은 모델 점수에 의존한 추정에 그칩니다.
 
@@ -112,11 +112,12 @@ TxGNN 점수는 매우 높지만(0.9998), 임상시험과 직접 관련 문헌�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “총 20건이 모두 유효한 단일 성분 허가이며, 취소된 허가는 없습니다. 이 중 상당수는 수출용입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Methocarbamol Tablets, Usp, 500 Mg (methocarbamol) prescribing information, Marlex Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2e38ac9-1cf3-14ca-e053-2a95a90a8522) |
 
 <!-- review:end log -->
 

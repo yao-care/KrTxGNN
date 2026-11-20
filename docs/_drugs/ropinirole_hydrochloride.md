@@ -57,7 +57,7 @@ TxGNN 모델은 **주의력결핍 과잉행동장애 (attention deficit-hyperact
 
 ## 이 예측이 타당한 이유는?
 
-이번 보고서를 위해 수집한 데이터에는 상세한 작용 기전 정보가 없습니다. 다만 Ropinirole은 비맥각계 D2/D3 도파민 수용체 작용제로 알려져 있습니다. ADHD는 도파민 신호 조절 이상과 관련된 질환으로 알려져 있어, 도파민 작용제가 증상에 영향을 줄 수 있다는 기전상 가설이 가능합니다.
+미국 FDA가 승인한 Ropinirole Hydrochloride 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “로피니롤은 비맥각계 도파민 작용제이다. 파킨슨병 치료제로서 로피니롤의 정확한 작용기전은 알려져 있지 않으나, 뇌의 미상핵-피각 내 도파민 D 2 수용체를 자극하는 능력과 관련이 있는 것으로 생각된다.” 영어 원문: "Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain." ([DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da), 버전 2026-11-06; 확인일 2026-11-19). 다만 Ropinirole은 비맥각계 D2/D3 도파민 수용체 작용제로 알려져 있습니다. ADHD는 도파민 신호 조절 이상과 관련된 질환으로 알려져 있어, 도파민 작용제가 증상에 영향을 줄 수 있다는 기전상 가설이 가능합니다.
 
 또한 ADHD와 하지불안 증후군(RLS)은 임상적으로 함께 나타나는 경우가 많습니다. 두 질환이 도파민 및 철 대사 경로를 공유할 가능성이 문헌에서 논의되어 왔습니다(PMID 16218085). 이를 바탕으로 두 질환에 공통으로 쓸 수 있는 약물 치료가 검토되고 있습니다.
 
@@ -117,12 +117,13 @@ ADHD에 대한 직접 근거는 증례 보고 1건뿐이며, 2026년 무작위 �
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “Ropinirole Hydrochloride는 현재 한국에 허가 이력이 없는 약물입니다” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-05 | 삭제: “한국 MFDS 미허가 약물이므로” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN 모델은 **감염성 중이염(Infectious Otitis Media)**에 효과가 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Pyrazinamide는 결핵균(*Mycobacterium tuberculosis*)에 활성을 가진 살균성 항마이코박테리아제이며, 병용 항결핵 요법의 구성 성분으로 사용됩니다.
+ChEMBL(EMBL-EBI)에 등록된 Pyrazinamide의 작용 기전(비공식 번역): “지방산 합성효소 억제제; 70S 리보솜 억제제” 영어 원문: "Fatty acid synthase inhibitor; 70S ribosome inhibitor" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Pyrazinamide는 결핵균(*Mycobacterium tuberculosis*)에 활성을 가진 살균성 항마이코박테리아제이며, 병용 항결핵 요법의 구성 성분으로 사용됩니다.
 
 따라서 이 예측은 **결핵성 중이염**이라는 드문 아형에 한해서만 기전상 의미가 있습니다. 일반적인 세균성·바이러스성 중이염 병원체에는 활성이 없어, 높은 TxGNN 점수는 임상적·문헌적 뒷받침이 없는 모델 예측일 뿐입니다.
 
@@ -107,6 +107,19 @@ TxGNN 모델은 **감염성 중이염(Infectious Otitis Media)**에 효과가 �
 - 결핵성 중이염과 일반 중이염을 구분한 질환 정의 및 대상 집단 설정
 - 직접적인 임상 근거(관찰 연구 또는 임상시험) 확보
 - 중이 국소 투여 등 투여 경로 적합성 검토 (현재 한국 허가 제형은 경구 정제뿐)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

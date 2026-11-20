@@ -54,7 +54,7 @@ TxGNN 모델은 **비타민 D 결핍(obsolete vitamin D deficiency)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 calcitriol은 비타민 D의 활성 형태이므로, 비타민 D 결핍이라는 질환과 기전상 연결될 가능성은 있습니다.
+미국 FDA가 승인한 Calcitriol 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “칼시트리올의 내인성 합성 및 이화작용과 이러한 과정에 영향을 미치는 생리적 조절 기전은 칼시트리올의 혈청 농도를 조절하는 데 결정적인 역할을 한다. 생리적 1일 생성량은 일반적으로 0.5~1.0 mcg이며, 골 합성이 증가하는 시기(예: 성장기 또는 임신)에는 다소 더 높다.” 영어 원문: "Endogenous synthesis and catabolism of calcitriol, as well as physiological control mechanisms affecting these processes, play a critical role regulating the serum level of calcitriol. Physiological daily production is normally 0.5 to 1.0 mcg and is somewhat higher during periods of increased bone synthesis (eg, growth or pregnancy)." ([DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e), 버전 2026-10-15; 확인일 2026-11-19). 알려진 정보에 따르면 calcitriol은 비타민 D의 활성 형태이므로, 비타민 D 결핍이라는 질환과 기전상 연결될 가능성은 있습니다.
 
 다만 이 예측에는 한계가 큽니다.
 - 예측된 질환명이 **폐기된(obsolete) 용어**로 분류되어 있습니다.
@@ -103,6 +103,19 @@ TxGNN 모델은 **비타민 D 결핍(obsolete vitamin D deficiency)**에 효과�
 - 현행 질환 분류 기준에 맞는 적응증 재정의와 calcitriol의 임상적 필요성(cholecalciferol 등 대비) 검토
 
 **참고:** 이번 데이터에 포함된 다른 예측 중 **유전성 저인산혈증 구루병**(TxGNN 점수 0.9928)은 근거가 가장 충실합니다. calcitriol 단독요법의 Early Phase 1 시험(NCT03748966, 16명, 완료)과 고용량·저용량 활성 비타민 D 병용 Phase 4 시험(NCT03820518, 100명, 상태 불명)이 있고, 근거 수준은 L2, 권장 결정은 Proceed with Guardrails입니다. 우선 검토할 후보로는 비타민 D 결핍보다 이 적응증이 더 적합합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: calcitriol prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45f78bbe-4bbc-404d-a061-ead3db50908e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **골수성 백혈병(myeloid leukemia)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Zanubrutinib은 선택성이 높은 차세대 BTK 억제제이며, BTK 신호전달은 B세포 악성 종양(CLL/SLL, 발덴스트롬 마크로글로불린혈증 등)과 밀접하게 관련됩니다.
+미국 FDA가 승인한 Zanubrutinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “자누브루티닙은 브루톤 티로신 키나제(BTK)의 저분자 억제제이다. 자누브루티닙은 BTK 활성 부위의 시스테인 잔기와 공유 결합을 형성하여 BTK 활성을 억제한다. BTK는 B세포 항원 수용체(BCR) 및 사이토카인 수용체 경로의 신호전달 분자이다.” 영어 원문: "Zanubrutinib is a small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity. BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways." ([DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902), 버전 2026-09-04; 확인일 2026-11-19). 알려진 정보에 따르면 Zanubrutinib은 선택성이 높은 차세대 BTK 억제제이며, BTK 신호전달은 B세포 악성 종양(CLL/SLL, 발덴스트롬 마크로글로불린혈증 등)과 밀접하게 관련됩니다.
 
 TxGNN 모델(딥러닝)의 높은 점수는 CLL 같은 림프구성 백혈병에서의 확립된 활성과 '백혈병'이라는 관련 질환 간에 모델이 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다. BTK는 B세포 질환의 핵심 표적이지만 골수성 백혈병에서의 의존성은 확립되지 않았습니다. 일부 전임상 연구에서 AML 모세포에 BTK가 발현된다고 보고되었으나, 이번에 수집된 데이터로는 뒷받침되지 않습니다. 따라서 기전상 타당성은 제한적입니다.
 
@@ -119,6 +119,19 @@ TxGNN 모델(딥러닝)의 높은 점수는 CLL 같은 림프구성 백혈병에
 - AML 등 골수성 질환에서 BTK 의존성을 보여주는 전임상 근거 검토
 - 골수성 백혈병 환자를 대상으로 한 임상시험 근거 탐색 (현재 관련 시험은 병용 파트너로 언급된 1상 시험 1건뿐)
 - 주요 약물 상호작용(CYP3A 관련 약물 등)에 대한 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

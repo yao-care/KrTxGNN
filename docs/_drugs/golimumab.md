@@ -56,7 +56,7 @@ TxGNN 모델은 **꼬리뼈 과가동성(hypermobility of coccyx)**에 효과가
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 golimumab은 TNF-α를 억제하는 항체 계열 약물로, 염증성 질환 치료에 사용되는 계열입니다.
+미국 FDA가 승인한 Golimumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “골리무맙은 인간 TNFα의 가용성 및 막관통 생물활성 형태 모두에 결합하는 인간 단일클론항체이다. 이러한 상호작용은 TNFα가 그 수용체에 결합하는 것을 방지하여 TNFα(사이토카인 단백질)의 생물학적 활성을 억제한다.” 영어 원문: "Golimumab is a human monoclonal antibody that binds to both the soluble and transmembrane bioactive forms of human TNFα. This interaction prevents the binding of TNFα to its receptors, thereby inhibiting the biological activity of TNFα (a cytokine protein)." ([DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00), 버전 2026-11-02; 확인일 2026-11-19). 알려진 정보에 따르면 golimumab은 TNF-α를 억제하는 항체 계열 약물로, 염증성 질환 치료에 사용되는 계열입니다.
 
 그러나 꼬리뼈 과가동성은 주로 기계적 또는 외상성 원인으로 생기는 상태이며, TNF가 주도하는 염증성 질환이 아닙니다. 이 예측과 약물 기전 사이에서 확인된 연결 고리는 없습니다. 높은 점수는 임상시험이나 문헌의 뒷받침이 없는 모델 예측일 뿐입니다.
 
@@ -97,6 +97,19 @@ TxGNN 모델은 **꼬리뼈 과가동성(hypermobility of coccyx)**에 효과가
 - 이 질환을 직접 다룬 임상시험 또는 문헌
 - 허가사항(경고, 금기)의 확인 및 정리
 - 상세한 작용 기전(MOA) 데이터 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

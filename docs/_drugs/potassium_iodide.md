@@ -54,7 +54,7 @@ Potassium iodide(요오드화칼륨)는 한국에서 정제와 점안액 형태�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, 요오드화칼륨은 오래전부터 일부 진균·유사진균 감염(스포로트리쿰증, 접합균증, 수의학 영역의 피티움증 등)에 사용되어 왔습니다. 추정되는 작용은 특정 분자 표적이 아니라 비특이적 항미생물 작용과 면역조절 효과(숙주의 염증·육아종 반응 강화, 직접적인 항진균 작용 가능성)입니다.
+미국 FDA가 승인한 Potassium Iodide 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “요오드화칼륨은 기도 분비물을 증가시켜 점액의 점도를 감소시킴으로써 거담제로 작용하는 것으로 생각된다.” 영어 원문: "Potassium iodide is thought to act as an expectorant by increasing respiratory tract secretions and thereby decreasing the viscosity of mucus." ([DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850), 버전 2026-08-25; 확인일 2026-11-19). 알려진 정보에 따르면, 요오드화칼륨은 오래전부터 일부 진균·유사진균 감염(스포로트리쿰증, 접합균증, 수의학 영역의 피티움증 등)에 사용되어 왔습니다. 추정되는 작용은 특정 분자 표적이 아니라 비특이적 항미생물 작용과 면역조절 효과(숙주의 염증·육아종 반응 강화, 직접적인 항진균 작용 가능성)입니다.
 
 이번에 확인된 문헌은 양의 비안면부 피티움증, 말의 아스페르길루스성 비염, 말의 *Pseudallescheria boydii* 비강 감염, 사람의 비안면부 접합균증 등 **비강의 진균성(감염성) 질환**에 집중되어 있습니다. 따라서 예측의 타당성은 비강 질환 전반이 아니라 **진균성 비강 감염**으로 한정해서 해석해야 합니다.
 
@@ -107,6 +107,19 @@ TxGNN 점수(0.9995)는 컴퓨터 예측값이며 임상적 근거를 대체하�
 - 사람 대상 비강 진균 감염에서의 임상 근거(관찰 연구, 체계적 문헌고찰 등) 추가 조사
 - 투여 경로 적합성 검토 (현재 허가 제형은 정제와 점안액이며, 비강 적응증에 맞는 경로는 확인되지 않음)
 - 차순위 예측인 급성 후두인두염은 TxGNN 점수(0.9995)만 있고 임상시험·문헌이 없어 L5 수준이므로 별도 근거 확보 전까지 보류
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Potassium Iodide (Saturated) (potassium iodide) prescribing information, Emerald Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0bdf305f-ed4a-49d1-8901-edaed8d67850) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

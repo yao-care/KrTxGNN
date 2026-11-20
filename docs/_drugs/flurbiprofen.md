@@ -56,7 +56,7 @@ TxGNN 모델은 **말단중간이형성증 Hunter-Thompson형(acromesomelic dysp
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 Flurbiprofen은 COX-1/COX-2를 억제해 프로스타글란딘 생성을 줄이는 NSAID로 알려져 있습니다. 이 작용은 관절·근육의 염증성 통증을 완화하는 한국 허가 적응증과 일치합니다.
+미국 FDA가 승인한 Flurbiprofen 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “플루르비프로펜은 진통, 항염 및 해열 작용을 가진다. 플루르비프로펜의 작용기전은 다른 NSAID와 마찬가지로 완전히 규명되지 않았으나, 시클로옥시게나제 (COX-1 및 COX-2)의 억제가 관여한다.” 영어 원문: "Flurbiprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of flurbiprofen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763), 버전 2026-10-05; 확인일 2026-11-19). 일반적으로 Flurbiprofen은 COX-1/COX-2를 억제해 프로스타글란딘 생성을 줄이는 NSAID로 알려져 있습니다. 이 작용은 관절·근육의 염증성 통증을 완화하는 한국 허가 적응증과 일치합니다.
 
 반면 말단중간이형성증 Hunter-Thompson형은 CDMP1/GDF5 경로의 유전적 결함으로 생기는 골격 이형성증입니다. COX 억제가 이 근본 결함을 바로잡을 것으로 기대하기 어렵습니다. 따라서 그럴듯한 기전적 연결고리는 확인되지 않았습니다.
 
@@ -110,6 +110,19 @@ TxGNN 모델(딥러닝)의 높은 점수는 모델이 관련 질환 사이에서
 - 허가사항의 경고·금기 정보 확보
 - 이 질환에서 기대하는 목표가 근본 치료인지 증상(통증) 완화인지 구분하고, 후자라면 기존 NSAID 사용 근거를 별도로 검토
 - 다만 이는 NSAID 계열의 기존 사용에 가까워 새로운 재창출 신호로 보기 어렵고, 별도 평가가 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

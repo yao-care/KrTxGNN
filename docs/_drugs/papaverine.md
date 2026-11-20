@@ -55,7 +55,7 @@ TxGNN 모델은 **허혈성 질환**에 효과가 있을 수 있다고 예측합
 
 ## 이 예측이 타당한 이유는?
 
-Papaverine은 비선택적 포스포디에스터라제(PDE) 억제제입니다. 혈관 평활근 안의 cAMP와 cGMP를 높여 혈관을 확장시킵니다. 허혈은 혈류 공급이 부족한 상태이므로, 혈관확장제가 도움이 될 수 있다는 생물학적 근거는 있습니다. 현재 상세한 작용 기전 데이터베이스 정보는 없으며, 위 설명은 이번 평가에서 정리한 기전 분석에 근거합니다.
+Papaverine은 비선택적 포스포디에스터라제(PDE) 억제제입니다. 혈관 평활근 안의 cAMP와 cGMP를 높여 혈관을 확장시킵니다. 허혈은 혈류 공급이 부족한 상태이므로, 혈관확장제가 도움이 될 수 있다는 생물학적 근거는 있습니다. 미국 FDA가 승인한 Papaverine 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “파파베린염산염은 근육 자체에 직접 작용하는 것으로 보인다. 이러한 이완은 혈관계와 기관지 근육, 그리고 위장관, 담도 및 요로에서 관찰된다. 파파베린의 주된 작용은 심장근과 평활근에 나타난다.” 영어 원문: "Papaverine Hydrochloride apparently acts directly on the muscle itself. This relaxation is noted in the vascular system and bronchial musculature and in the gastrointestinal, biliary and urinary tracts. The main actions of papaverine are exerted on cardiac and smooth muscle." ([DailyMed: papaverine hydrochloride prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e), 버전 2026-07-27; 확인일 2026-11-19).
 
 실제로 관상동맥 내 papaverine은 관상동맥 혈류 예비능을 측정할 때 충혈(hyperemia)을 유도하는 데 쓰입니다. 또 혈관연축과 장간막 허혈에도 사용 사례가 있습니다. 그러나 이는 진단이나 시술 보조 용도입니다. 허혈 질환 자체를 개선하는 치료로 확립된 것은 아닙니다. 치료 이득을 보여 주는 무작위 대조시험(RCT)도 확인되지 않았습니다.
 
@@ -104,6 +104,19 @@ Papaverine은 비선택적 포스포디에스터라제(PDE) 억제제입니다. 
 - 약물의 작용 기전에 대한 공식 자료 보완
 - 허혈의 구체적 하위 질환(관상동맥, 장간막, 뇌혈관 등)을 정해 치료 효과를 평가하는 임상시험 또는 대조 연구 설계
 - 병용 약물 상호작용, 특히 주요 등급 항목에 대한 위험 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: papaverine hydrochloride prescribing information, American Regent, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e5e2ce4-7a57-4c61-a826-64c8d11d038e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

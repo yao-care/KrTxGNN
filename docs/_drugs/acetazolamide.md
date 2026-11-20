@@ -54,7 +54,7 @@ Acetazolamide는 한국에서 주사제와 정제로 허가·시판 중인 탄�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 acetazolamide는 탄산탈수효소를 억제하여 산-염기 균형과 이온 이동에 영향을 주는 것으로 알려져 있습니다. 이 때문에 근육의 이온 조절에 영향을 줄 가능성을 이론적으로 생각해 볼 수 있습니다.
+미국 FDA가 승인한 Acetazolamide 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “아세타졸아미드는 강력한 탄산탈수효소 억제제로서, 체액 분비의 조절(예: 일부 유형의 녹내장), 특정 경련성 질환의 치료(예: 뇌전증), 그리고 비정상적인 체액 저류의 경우(예: 심장성 부종) 이뇨 촉진에 효과적이다. 아세타졸아미드는 수은계 이뇨제가 아니다.” 영어 원문: "Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema). Acetazolamide is not a mercurial diuretic." ([DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b), 버전 2026-11-10; 확인일 2026-11-19). 일반적으로 acetazolamide는 탄산탈수효소를 억제하여 산-염기 균형과 이온 이동에 영향을 주는 것으로 알려져 있습니다. 이 때문에 근육의 이온 조절에 영향을 줄 가능성을 이론적으로 생각해 볼 수 있습니다.
 
 그러나 악성 고열증은 주로 리아노딘 수용체(ryanodine receptor)와 칼슘 조절 이상으로 발생합니다. 이번에 정리된 데이터에서는 탄산탈수효소 억제가 이 질환과 연결된다는 근거를 찾을 수 없었습니다. 따라서 이 예측은 TxGNN 모델(딥러닝)이 산출한 점수일 뿐이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있고 생물학적 근거는 아니므로, 검증된 기전적 연결고리가 아닙니다.
 
@@ -88,6 +88,19 @@ Acetazolamide는 한국에서 주사제와 정제로 허가·시판 중인 탄�
 - 작용 기전(MOA) 데이터 보강 (예: DrugBank 조회)
 - 악성 고열증과의 기전적 연결을 검증하는 전임상 연구 또는 문헌 검토
 - 상위 후보 중 심근병증 계열은 간접적인 심부전 이뇨 근거만 있으므로, 우선순위를 재검토하고 장폐색 계열은 안전 신호 때문에 진행하지 않을 것을 권장
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

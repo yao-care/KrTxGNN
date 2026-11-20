@@ -55,7 +55,7 @@ TxGNN 모델은 **갑상선기능항진증(Hyperthyroidism)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Palbociclib은 CDK4/6(사이클린 의존성 키나제 4/6)을 억제하는 세포주기 조절 약물이며, 유방암에서 효능이 입증되어 있습니다.
+미국 FDA가 승인한 Palbociclib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “팔보시클립은 사이클린 의존성 키나아제(CDK) 4 및 6의 억제제이다. 사이클린 D1 및 CDK4/6은 세포 증식을 유도하는 신호전달 경로의 하류에 위치한다. 시험관 내에서 팔보시클립은 세포가 세포주기의 G1기에서 S기로 진행하는 것을 차단함으로써 에스트로겐 수용체(ER) 양성 유방암 세포주의 세포 증식을 감소시켰다.” 영어 원문: "Palbociclib is an inhibitor of cyclin-dependent kinases (CDK) 4 and 6. Cyclin D1 and CDK4/6 are downstream of signaling pathways which lead to cellular proliferation. In vitro, palbociclib reduced cellular proliferation of estrogen receptor (ER)-positive breast cancer cell lines by blocking progression of the cell from G1 into S phase of the cell cycle." ([DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792), 버전 2026-07-06; 확인일 2026-11-19). 알려진 정보에 따르면 Palbociclib은 CDK4/6(사이클린 의존성 키나제 4/6)을 억제하는 세포주기 조절 약물이며, 유방암에서 효능이 입증되어 있습니다.
 
 다만 이번에 정리한 자료에서는 CDK4/6 억제와 갑상선 호르몬 과잉 사이의 기전적 연결고리를 확인하지 못했습니다. 0.9944라는 높은 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있으며 생물학적 근거를 의미하지는 않습니다. 갑상선기능항진증은 호르몬 과잉 분비를 조절해야 하는 질환이어서, 세포 증식을 억제하는 항종양 기전과는 치료 논리가 다릅니다. 따라서 이 예측은 현재로서는 타당성을 설명하기 어렵습니다.
 
@@ -113,6 +113,19 @@ TxGNN 모델은 **갑상선기능항진증(Hyperthyroidism)**에 효과가 있�
 - 허가사항(경고·금기) 원문 확인 및 안전성 검토
 - 상세한 작용 기전 데이터 확보
 - 참고: 같은 약물의 다른 예측 중 류마티스 관절염(전임상 및 증례 보고, L4)과 골수성 백혈병(Phase 1/2 임상시험 진행, L3)은 근거가 상대적으로 더 있어, 우선 검토 대상으로 고려할 수 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

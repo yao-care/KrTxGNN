@@ -54,7 +54,7 @@ Ifosfamide는 한국에서 부광약품의 주사제(홀록산주)로 허가된 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ifosfamide는 간에서 활성화되는 DNA 알킬화 전구약물로, 세포독성 항암제 계열입니다.
+미국 FDA가 승인한 Ifosfamide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이포스파미드는 세포독성 활성을 나타내기 위해 간 시토크롬 P450 동종효소에 의한 대사 활성화가 필요한 전구약물이다. 활성화는 고리 탄소 원자의 수산화에 의해 일어나며, 이를 통해 불안정한 중간체인 4-히드록시이포스파미드와 그 고리가 열린 알도 호변이성체가 형성되고, 이것이 분해되어 세포독성 및 요로독성 화합물인 아크롤레인과 알킬화제인 이소포스포라미드 머스타드가 생성된다.” 영어 원문: "Ifosfamide is a prodrug that requires metabolic activation by hepatic cytochrome P450 isoenzymes to exert its cytotoxic activity. Activation occurs by hydroxylation at the ring carbon atom forming the unstable intermediate 4-hydroxyifosfamide and its ring-opened aldo tautomer, which decomposes to yield the cytotoxic and urotoxic compound acrolein and an alkylating isophosphoramide mustard." ([DailyMed: Ifex (ifosfamide) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7241707-7538-4d1a-91e7-3a25a91e0b9a), 버전 2026-10-07; 확인일 2026-11-19). 알려진 정보에 따르면 Ifosfamide는 간에서 활성화되는 DNA 알킬화 전구약물로, 세포독성 항암제 계열입니다.
 
 이 계열은 육종 등 고형암에서 활성이 확립되어 있습니다. 반면 골수이형성증후군은 골수 기능 부전 질환이며, 알킬화제는 골수억제를 일으키고 치료 관련 골수이형성증(특히 5번 염색체 장완 결손 형태)과 연관되어 있습니다. 따라서 이 예측은 기전상 뒷받침되기 어렵고, 점수가 높은 이유는 치료 효과가 아니라 이상반응 연관성을 반영했을 가능성이 있습니다.
 
@@ -111,6 +111,19 @@ Ifosfamide는 한국에서 부광약품의 주사제(홀록산주)로 허가된 
 - 치료 관련 골수이형성증 위험에 대한 안전성 평가
 
 **참고:** 같은 예측 목록의 횡문근육종(rhabdomyosarcoma)은 Ifosfamide 병용요법의 임상시험과 문헌이 상대적으로 많습니다. 다만 Phase 3 시험은 주로 성인 연부조직육종을 대상으로 한 것이라, 횡문근육종 자체를 직접 입증한 근거는 제한적입니다. 이 후보는 별도로 검토하는 것이 좋습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ifex (ifosfamide) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b7241707-7538-4d1a-91e7-3a25a91e0b9a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

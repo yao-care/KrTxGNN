@@ -54,7 +54,7 @@ Cabotegravir는 HIV 인테그레이스 가닥 전이 억제제(INSTI)로, 국내
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Cabotegravir는 HIV 인테그레이스 가닥 전이 억제제(INSTI) 계열로 알려져 있으며, 바이러스 DNA가 숙주 유전체에 삽입되는 과정을 차단하는 방식으로 작용합니다.
+미국 FDA가 승인한 Cabotegravir 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “카보테그라비르는 HIV-1 항레트로바이러스 약물이다. […] 카보테그라비르는 인테그라제 활성 부위에 결합하여 HIV 복제 주기에 필수적인 레트로바이러스 디옥시리보핵산(DNA) 통합의 가닥 전이 단계를 차단함으로써 HIV 인테그라제를 억제한다. 정제된 재조합 HIV-1 인테그라제를 이용한 가닥 전이 분석에서 카보테그라비르의 평균 50% 억제 농도(IC 50) 값은 3.0 nM이었다.” 영어 원문: "Cabotegravir is an HIV-1 antiretroviral drug. […] Cabotegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral deoxyribonucleic acid (DNA) integration that is essential for the HIV replication cycle. The mean 50% inhibitory concentration (IC 50 ) value of cabotegravir in a strand transfer assay using purified recombinant HIV-1 integrase was 3.0 nM." ([DailyMed: Vocabria (cabotegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66d450fb-cca4-476c-b0c7-c0730e3e4cf3), 버전 2025-04-11; 확인일 2026-11-19). 다만 Cabotegravir는 HIV 인테그레이스 가닥 전이 억제제(INSTI) 계열로 알려져 있으며, 바이러스 DNA가 숙주 유전체에 삽입되는 과정을 차단하는 방식으로 작용합니다.
 
 이 기전은 자가면역성 관절 염증과 직접적인 연관성이 확립되어 있지 않습니다. 따라서 류마티스 관절염에 대한 기전적 연결고리는 현재 평가할 수 없으며, 가능한 가설을 먼저 세우고 전임상 단계에서 검증해야 합니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 학습한 관련 질환 간 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -92,6 +92,19 @@ Cabotegravir는 HIV 인테그레이스 가닥 전이 억제제(INSTI)로, 국내
 - 류마티스 관절염과의 기전적 연결 가설 수립 및 전임상 검증
 - 관련 임상시험 및 문헌 탐색
 - 투여 경로(현재 주사제만 시판) 적합성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Vocabria (cabotegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66d450fb-cca4-476c-b0c7-c0730e3e4cf3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

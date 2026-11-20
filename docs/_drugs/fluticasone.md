@@ -55,7 +55,7 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 fluticasone은 흡입 또는 비강 투여하는 국소 글루코코르티코이드로, 항염증 작용을 나타냅니다. 한국에서는 단일제(fluticasone propionate, fluticasone furoate)와 복합제 계열 제품으로 허가되어 있습니다.
+미국 FDA가 승인한 Fluticasone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “플루티카손프로피오네이트는 항염증 활성을 가진 합성 삼불화 코르티코스테로이드이다. 플루티카손프로피오네이트는 시험관 내에서 인간 글루코코르티코이드 수용체에 대해 덱사메타손의 18배, 베클로메타손디프로피오네이트의 활성 대사체인 베클로메타손-17-모노프로피오네이트(BMP)의 거의 2배, 부데소니드의 3배 이상에 해당하는 결합 친화도를 나타내는 것으로 확인되었다.” 영어 원문: "Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity. Fluticasone propionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is 18 times that of dexamethasone, almost twice that of beclomethasone-17-monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide." ([DailyMed: Xhance (fluticasone propionate) prescribing information, Paratek Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44fcea33-8cfa-3a5c-e063-6394a90aafb2), 버전 2026-10-23; 확인일 2026-11-19). 알려진 정보에 따르면 fluticasone은 흡입 또는 비강 투여하는 국소 글루코코르티코이드로, 항염증 작용을 나타냅니다. 한국에서는 단일제(fluticasone propionate, fluticasone furoate)와 복합제 계열 제품으로 허가되어 있습니다.
 
 편두통에는 신경인성 염증이 관여하는 것으로 알려져 있어, 항염증 약물이 이론적으로 연결될 수는 있습니다. 그러나 이는 추측 수준이며, 이 보고서의 데이터에서 직접 뒷받침되지 않습니다.
 
@@ -109,6 +109,19 @@ TxGNN 점수는 높지만 임상시험이 없고, 유일한 문헌은 효능이 
 - DrugBank 등에서 상세한 작용 기전(MOA) 데이터 확보
 - 편두통에 대한 전임상 또는 관찰 연구 등 직접 근거 탐색
 - 편두통 치료에 적합한 투여 경로와 전신 노출 수준 검토 (현재 투여 경로 호환성 평가 미완료)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xhance (fluticasone propionate) prescribing information, Paratek Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44fcea33-8cfa-3a5c-e063-6394a90aafb2) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

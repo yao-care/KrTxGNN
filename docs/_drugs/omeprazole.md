@@ -54,7 +54,7 @@ Omeprazole은 위산 분비를 억제하는 양성자펌프 억제제 계열 약
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 omeprazole은 위산 분비를 줄이는 약물로 알려져 있습니다.
+미국 FDA가 승인한 Omeprazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “오메프라졸은 위 벽세포 분비면의 H + /K + ATPase 효소계를 특이적으로 억제하여 위산 분비를 억제하는 위산 분비 억제 화합물인 치환 벤즈이미다졸계에 속한다. 이 효소계는 위 점막 내 산(양성자) 펌프로 간주되므로, 오메프라졸은 산 생성의 최종 단계를 차단한다는 점에서 위산 펌프 억제제로 특징지어져 왔다.” 영어 원문: "Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H + /K + ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179), 버전 2024-03-19; 확인일 2026-11-19). 일반적으로 omeprazole은 위산 분비를 줄이는 약물로 알려져 있습니다.
 
 십이지장 폐쇄는 대개 소화성 궤양의 흉터·협착, 크론병, 악성 종양 등으로 생기는 기계적 질환입니다. 궤양 치유와 염증성 부종 감소를 통해 궤양 관련 협착에는 간접적으로 도움이 될 수 있습니다. 그러나 이미 섬유화되었거나 구조적으로 굳어진 폐쇄는 해소하지 못하며, 이 경우 내시경 확장술이나 수술이 필요합니다.
 
@@ -108,6 +108,19 @@ Omeprazole은 위산 분비를 억제하는 양성자펌프 억제제 계열 약
 - 십이지장 폐쇄 환자를 직접 대상으로 한 임상 또는 관찰 연구 근거
 - 궤양 관련 협착과 기타 원인(크론병, 악성 종양)을 구분한 대상군 정의
 - 허가사항의 경고·금기 정보 확보 및 작용 기전 자료 보완
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

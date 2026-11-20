@@ -55,7 +55,7 @@ TxGNN 모델은 **폐포자충증(Pneumocystosis)**에 효과가 있을 수 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 허가사항 기준의 상세한 작용 기전 데이터가 없습니다. 일반적으로 posaconazole은 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하여 ergosterol 합성을 차단하는 트리아졸계 항진균제입니다. 혈액암 환자 등 고위험군에서 곰팡이에 활성이 있는 예방 요법으로 사용되어 침습성 칸디다증과 아스페르길루스증을 크게 줄인 것으로 보고되어 있습니다.
+미국 FDA가 승인한 Posaconazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “포사코나졸은 아졸계 항진균제이다. […] 포사코나졸은 진균 세포막에서 라노스테롤을 에르고스테롤로 전환시키는 시토크롬 P-450 의존성 효소인 라노스테롤 14α-탈메틸효소를 억제함으로써 진균 세포막의 핵심 구성성분인 에르고스테롤의 합성을 차단한다. 그 결과 세포막 내에 메틸화된 스테롤 전구체가 축적되고 에르고스테롤이 고갈되어 진균 세포막의 구조와 기능이 약화된다.” 영어 원문: "Posaconazole is an azole antifungal agent. […] Posaconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane." ([DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84), 버전 2026-02-13; 확인일 2026-11-19). 일반적으로 posaconazole은 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하여 ergosterol 합성을 차단하는 트리아졸계 항진균제입니다. 혈액암 환자 등 고위험군에서 곰팡이에 활성이 있는 예방 요법으로 사용되어 침습성 칸디다증과 아스페르길루스증을 크게 줄인 것으로 보고되어 있습니다.
 
 그러나 이 기전은 폐포자충증에는 잘 맞지 않습니다. *Pneumocystis jirovecii*는 세포막에 ergosterol이 거의 없고 cholesterol 등 다른 스테롤을 사용하기 때문에, 기존 아졸계의 작용 방식으로는 효과를 기대하기 어렵습니다. TxGNN의 높은 점수는 다른 항진균제 및 진균성 폐 감염과의 네트워크 근접성을 반영한 것일 가능성이 크며, 실제 기전적 적합성을 의미한다고 보기 어렵습니다.
 
@@ -117,6 +117,19 @@ Posaconazole은 폐 상피 내벽액(ELF)으로 이행되는 것으로 보고되
 - posaconazole을 직접 평가한 폐포자충증 임상시험 또는 증례 연구 탐색
 - 기존 표준 치료(예: TMP-SMX)와 비교했을 때 posaconazole을 사용할 임상적 타당성 검토
 - 다수의 주요 약물 상호작용을 고려한 병용약 관리 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

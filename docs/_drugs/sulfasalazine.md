@@ -71,7 +71,7 @@ Sulfasalazine은 한국에서 장용정 형태로 허가·시판 중인 단일 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 sulfasalazine은 항염증·면역조절 작용을 가진 약물로, NF-κB 억제와 xCT(SLC7A11) 시스템 억제가 제안되어 있습니다.
+미국 FDA가 승인한 Sulfasalazine 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “설파살라진(SSZ) 또는 그 대사체인 5-아미노살리실산(5-ASA) 및 설파피리딘(SP)의 작용 방식은 동물 및 시험관 내 모델에서 관찰된 항염증 및/또는 면역조절 특성, 결합 조직에 대한 친화성, 및/또는 동물을 대상으로 한 자동방사선 촬영 연구에서 입증된 바와 같이 장액, 간 및 장벽에서 도달하는 비교적 높은 농도와 관련이 있을 수 있다. 궤양성 대장염에서 SSZ, SP 및 5-ASA의 직장 투여를 이용한 임상 연구 결과, 주된 치료 작용은 5-ASA 부분에 있을 수 있는 것으로 나타났다.” 영어 원문: "The mode of action of sulfasalazine (SSZ) or its metabolites, 5-aminosalicylic acid (5-ASA) and sulfapyridine (SP), may be related to the anti-inflammatory and/or immunomodulatory properties that have been observed in animal and in vitro models, to its affinity for connective tissue, and/or to the relatively high concentration it reaches in serous fluids, the liver and intestinal walls, as demonstrated in autoradiographic studies in animals. In ulcerative colitis, clinical studies utilizing rectal administration of SSZ, SP and 5-ASA have indicated that the major therapeutic action may reside in the 5-ASA moiety." ([DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1), 버전 2026-10-27; 확인일 2026-11-19). 알려진 정보에 따르면 sulfasalazine은 항염증·면역조절 작용을 가진 약물로, NF-κB 억제와 xCT(SLC7A11) 시스템 억제가 제안되어 있습니다.
 
 골관절염은 염증과 연골 분해가 병태에 관여하는 질환이어서 기전상 접근 가능성이 있습니다. 전임상 연구에서 sulfasalazine은 다음과 같은 효과를 보였습니다.
 - 사이토카인으로 자극한 연골에서 프로테오글리칸·콜라겐 방출을 차단하고 금속단백분해효소를 하향 조절 (PMID 19690126)
@@ -151,6 +151,19 @@ Sulfasalazine은 한국에서 장용정 형태로 허가·시판 중인 단일 �
 - 골관절염에 대한 사람 대상 임상 근거 검색 및 평가(체계적 문헌고찰, 임상시험 등록 확인)
 - 척추관절병증 "감수성" 항목을 강직성 척추염·반응성 관절염·건선관절염 등 임상 질환으로 매핑하고, 가이드라인 수준 근거를 별도 검증
 - 제형(경구 장용정) 측면에서 골관절염 국소 치료 적합성 검토(히알루론산 결합 관절강 내 제형은 전임상 단계)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **다모증(Hypertrichosis)**에 효과가 있을 수 있다고 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 lanreotide는 소마토스타틴 수용체(SSTR2/SSTR5)에 작용하는 장기 지속형 소마토스타틴 유사체로, 성장호르몬(GH)과 IGF-1 등 여러 호르몬의 분비를 억제합니다.
+미국 FDA가 승인한 Lanreotide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “SOMATULINE DEPOT의 활성 성분인 lanreotide는 천연 somatostatin의 옥타펩티드 유사체이다. lanreotide의 작용기전은 천연 somatostatin의 작용기전과 유사한 것으로 여겨진다.” 영어 원문: "Lanreotide, the active component of SOMATULINE DEPOT is an octapeptide analog of natural somatostatin. The mechanism of action of lanreotide is believed to be similar to that of natural somatostatin." ([DailyMed: Somatuline Depot (lanreotide acetate) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e4a41fd-a753-4362-87ee-8cc56ed3660d), 버전 2024-10-11; 확인일 2026-11-19). 알려진 정보에 따르면 lanreotide는 소마토스타틴 수용체(SSTR2/SSTR5)에 작용하는 장기 지속형 소마토스타틴 유사체로, 성장호르몬(GH)과 IGF-1 등 여러 호르몬의 분비를 억제합니다.
 
 그러나 이 기전과 모낭 생물학 또는 다모증을 연결하는 근거는 이번 데이터에서 확인되지 않습니다. 다모증은 일부 약물의 부작용으로 나타나거나 내분비 질환에 동반되기도 하므로, 두 관계는 추측에 가깝고 치료 효과와 반대 방향일 가능성도 배제할 수 없습니다. 일반적으로 다모증은 제모 또는 원인 질환 치료로 관리되며, lanreotide를 사용할 치료적 근거는 확립되어 있지 않습니다.
 
@@ -107,6 +107,19 @@ TxGNN 점수(0.9997, 전체 순위 1,095위)는 TxGNN 모델(딥러닝)이 산�
 - 소마토스타틴 수용체 신호와 모낭 생물학·다모증 사이의 기전 근거 검토
 - 관련 전임상 연구, 임상시험, 문헌 탐색
 - 투여 경로 적합성 평가 (현재 제형은 서방형 주사 프리필드 시린지)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Somatuline Depot (lanreotide acetate) prescribing information, Ipsen Biopharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e4a41fd-a753-4362-87ee-8cc56ed3660d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

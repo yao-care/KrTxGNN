@@ -55,7 +55,7 @@ TxGNN 모델은 **비오틴 대사 질환(Biotin Metabolic Disease)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 폴산은 엽산 대사(one-carbon metabolism)에서 보조인자로 작용하는 수용성 B 비타민이며, 폴산 결핍증 및 관련 빈혈에서 효능이 입증되어 있습니다.
+미국 FDA가 승인한 Folic Acid 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “엽산은 거대적아구성 골수에 작용하여 정적아구성 골수를 생성한다. 사람에서는 핵단백질 합성과 정상적인 적혈구 생성의 유지를 위해 외인성 엽산 공급원이 필요하다. 엽산은 테트라히드로엽산의 전구체이며, 테트라히드로엽산은 핵산의 퓨린 및 티미딜산 생합성에서 전이포르밀화 반응의 보조인자로 관여한다.” 영어 원문: "Folic acid acts on megaloblastic bone marrow to produce a normoblastic marrow. In man, an exogenous source of folate is required for nucleoprotein synthesis and the maintenance of normal erythropoiesis. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids." ([DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1), 버전 2026-10-05; 확인일 2026-11-19). 알려진 정보에 따르면 폴산은 엽산 대사(one-carbon metabolism)에서 보조인자로 작용하는 수용성 B 비타민이며, 폴산 결핍증 및 관련 빈혈에서 효능이 입증되어 있습니다.
 
 폴산(B9)과 비오틴(B7)은 모두 수용성 B 비타민으로, 엽산 회로와 비오틴 의존성 카르복실화 효소가 아미노산, 지방산, 핵산 대사라는 공통 대사 네트워크에서 만납니다. TxGNN의 매우 높은 점수는 이러한 네트워크상의 근접성을 반영한 것으로 보입니다.
 
@@ -109,6 +109,19 @@ TxGNN 점수는 매우 높지만 이는 비타민 대사 네트워크상의 근�
 - 폴산이 비오티니다제 또는 홀로카르복실라제 합성효소 결핍에 미치는 영향을 보여주는 전임상 또는 기전 연구
 - 허가사항(경고, 금기)의 확인 및 분석
 - 기존 표준 치료(비오틴) 대비 폴산의 추가 가치에 대한 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Quiofic (folic acid) prescribing information, Solubiomix, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b868b314-591d-458b-be82-2bcd0b73cce1) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

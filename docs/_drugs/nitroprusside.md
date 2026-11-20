@@ -55,7 +55,7 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 nitroprusside는 일산화질소(NO) 공여체로, 가용성 구아닐산 고리화효소를 활성화해 cGMP를 높이고 혈관을 확장시킵니다.
+미국 FDA가 승인한 Nitroprusside 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “니트로프루시드나트륨은 옥시헤모글로빈과 상호작용하여 메트헤모글로빈, 시안화물 및 산화질소(NO)를 생성한다. 이후 NO는 혈관 평활근에서 구아닐산 고리화효소와 반응하여 cGMP를 생성하며, cGMP는 세포내 칼슘 농도를 감소시켜 혈관 평활근의 이완과 그에 따른 말초 동맥 및 정맥의 확장을 초래한다.” 영어 원문: "Sodium nitroprusside interacts with oxyhemoglobin to produce methemoglobin, cyanide, and nitric oxide (NO). NO then reacts with guanylate cyclase in vascular smooth muscle to produce cGMP that reduces intracellular calcium concentrations resulting in relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins." ([DailyMed: Nipride Rtu (sodium nitroprusside) prescribing information, EXELA PHARMA SCIENCES, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5acf0836-93ff-4064-b888-3f560e8a558d), 버전 2018-07-20; 확인일 2026-11-19). 알려진 정보에 따르면 nitroprusside는 일산화질소(NO) 공여체로, 가용성 구아닐산 고리화효소를 활성화해 cGMP를 높이고 혈관을 확장시킵니다.
 
 NO와 CGRP 신호전달은 모두 편두통 병태생리와 관련이 있습니다. 그러나 NO 공여체는 편두통 유사 발작을 **유발**하는 것으로 알려져 있습니다. 실제로 이번 문헌 중 다수가 nitroprusside를 편두통 동물 모델의 유발 물질로 사용했습니다. 따라서 이 연관성은 치료 근거라기보다 경로 관련성 신호 또는 유발 모델에 가깝습니다. 높은 TxGNN 점수는 NO/cGMP 생물학에서의 네트워크 근접성을 반영했을 가능성이 큽니다.
 
@@ -112,6 +112,19 @@ NO와 CGRP 신호전달은 모두 편두통 병태생리와 관련이 있습니�
 - 상세한 약물 작용 기전(MOA) 데이터 보완
 - 편두통에서 치료 효과를 시사하는 인체 데이터 (현재는 유발 모델 근거만 있음)
 - 신규 적응증 우선순위를 폐고혈압으로 재검토하고, 흡입 투여 등 투여 경로 타당성과 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nipride Rtu (sodium nitroprusside) prescribing information, EXELA PHARMA SCIENCES, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5acf0836-93ff-4064-b888-3f560e8a558d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Travoprost는 프로스타글란딘 F2-알파 유사체로 FP 수용체를 활성화하며, 안구 조직에서 혈관 확장 작용을 보입니다. 안압 하강은 포도막공막 유출 증가로 일어나는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Travoprost 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “프로스타글란딘 유사체인 트라보프로스트 유리산은 선택적 FP 프로스타노이드 수용체 작용제로, 포도막공막 유출을 증가시킴으로써 IOP를 낮추는 것으로 여겨진다. 정확한 작용 기전은 현재 알려져 있지 않다.” 영어 원문: "Travoprost free acid, a prostaglandin analog is a selective FP prostanoid receptor agonist, which is believed to reduce IOP by increasing uveoscleral outflow. The exact mechanism of action is unknown at this time." ([DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5), 버전 2026-09-28; 확인일 2026-11-19). 알려진 정보에 따르면 Travoprost는 프로스타글란딘 F2-알파 유사체로 FP 수용체를 활성화하며, 안구 조직에서 혈관 확장 작용을 보입니다. 안압 하강은 포도막공막 유출 증가로 일어나는 것으로 알려져 있습니다.
 
 칼시필락시스(석회화 요독성 세동맥병증)와의 연결은 TxGNN 모델(딥러닝)의 계산적 예측일 뿐이며, 이 점수는 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 전신 혈관 석회화는 안구 국소 투여 약물과 기전상 거리가 멀고, 전임상·임상·문헌 근거가 없습니다. 따라서 이 예측은 현재로서는 가설 수준입니다.
 
@@ -127,6 +127,19 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 - 칼시필락시스에서 FP 수용체 신호와 혈관 석회화 간 기전 연관성을 검증하는 전임상 연구
 - 전신 노출이 필요한 질환에서 국소 안약 제형의 투여 경로 적합성 평가
 - 상위 예측 질환 전반에 대한 체계적 문헌 검색 재수행
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Desoximetasone은 글루코코르티코이드 수용체(NR3C1)에 작용하는 강력한 국소 코르티코스테로이드로, 항염증 및 면역억제 활성을 가집니다.
+미국 FDA가 승인한 Desoximetasone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “코르티코스테로이드는 세포 신호전달, 면역 기능, 염증 및 단백질 조절에 관여하지만, 건선에서의 정확한 작용기전은 알려져 있지 않다.” 영어 원문: "Corticosteroids play a role in cellular signaling, immune function, inflammation and protein regulation; however, the precise mechanism of action in psoriasis is unknown." ([DailyMed: Topicort (desoximetasone) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e417856a-b760-4626-bc34-8e4bc62c026c), 버전 2025-07-02; 확인일 2026-11-19). 알려진 정보에 따르면 Desoximetasone은 글루코코르티코이드 수용체(NR3C1)에 작용하는 강력한 국소 코르티코스테로이드로, 항염증 및 면역억제 활성을 가집니다.
 
 원형탈모증은 T세포가 매개하는 자가면역 질환으로, 모낭이 면역학적 공격을 받아 발생합니다. 기존 적응증인 피부 염증성 질환과 마찬가지로 면역·염증 반응이 병태의 핵심이므로, 국소 코르티코스테로이드가 이미 확립된 치료 옵션으로 쓰이는 원형탈모증에 기전상 적용 가능합니다. 모델의 매우 높은 예측 점수도 이러한 해석과 일치합니다.
 
@@ -101,6 +101,19 @@ TxGNN 모델은 **원형탈모증(Alopecia Areata)**에 효과가 있을 수 있
 
 **참고: 기타 예측 질환**
 2~10순위 예측(알로페시아 뮤시노사, 휴지기 탈모, 모낭염성 탈모 등)은 직접 근거가 없거나 기전적 연관성이 약해 모두 보류(Hold)를 권장합니다. 특히 원발성 피부 B세포 림프종은 악성 종양이므로 종양학적 관리가 필요하며, 외음부 피부는 스테로이드 이상반응에 취약합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Topicort (desoximetasone) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e417856a-b760-4626-bc34-8e4bc62c026c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

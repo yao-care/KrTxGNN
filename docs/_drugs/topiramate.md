@@ -55,7 +55,7 @@ TxGNN 모델은 **삼차신경 종양(Trigeminal Nerve Neoplasm)**에 효과가 
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서용으로 수집한 데이터에는 상세한 작용 기전 정보가 없습니다. 알려진 항경련 기전은 전압 의존성 나트륨 채널 차단, GABA-A 매개 억제 강화, AMPA/카이닌산 수용체 길항, 약한 탄산탈수효소 억제입니다.
+미국 FDA가 승인한 Topiramate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Topiramate가 항경련 효과 및 편두통 예방 효과를 나타내는 정확한 기전은 알려져 있지 않다. 그러나 비임상 연구에서 topiramate의 뇌전증 및 편두통 예방 치료 효능에 기여할 수 있는 네 가지 특성이 밝혀졌다.” 영어 원문: "The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine." ([DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e), 버전 2026-10-05; 확인일 2026-11-19). 알려진 항경련 기전은 전압 의존성 나트륨 채널 차단, GABA-A 매개 억제 강화, AMPA/카이닌산 수용체 길항, 약한 탄산탈수효소 억제입니다.
 
 이 기전들은 종양 생물학과 직접 연결되는 근거가 없습니다. 삼차신경 종양에서 항종양 효과가 있다고 볼 만한 기전적 연결고리는 확인되지 않았습니다. 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있으며 생물학적 근거는 아닙니다. 종양을 억제해서가 아니라, 신경병증성 통증이나 발작 같은 증상 조절에서 간접적인 이득이 있을 수는 있습니다. 다만 그 가능성도 이번 데이터로는 검증되지 않았습니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델(딥러닝)의 점수는 매우 높지만(0.9970), 임상시험과 �
 - 허가사항의 경고·금기, 허가 적응증 본문 확보 (MFDS 허가 문서 PDF 확인)
 - 상세 작용 기전(MOA) 데이터 보완 및 종양과의 기전적 연관성 검토
 - 같은 약물의 다른 예측 중 뇌전증 관련 반사성 발작류(시각성 뇌전증, 청각 유발 발작 등)는 문헌 근거가 있어(L4) 우선 검토 대상으로 비교 가능
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

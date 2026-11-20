@@ -55,7 +55,7 @@ TxGNN 모델은 **만성 C형 간염(chronic hepatitis C virus infection)**에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 이 보고서용 자료에 없습니다. 알려진 정보에 따르면 아데포비어는 세포 안에서 활성형인 아데포비어 이인산으로 바뀌어 B형 간염 바이러스(HBV)의 DNA 중합효소(역전사효소)를 억제하고 바이러스 DNA 사슬 합성을 중단시킵니다.
+미국 FDA가 승인한 Adefovir Dipivoxil 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “아데포비어는 항바이러스제이다. […] 아데포비어는 아데노신 일인산의 비고리형 뉴클레오티드 유사체로서, 세포 키나아제에 의해 활성 대사체인 아데포비어 이인산으로 인산화된다. 아데포비어 이인산은 천연 기질인 데옥시아데노신 삼인산과 경쟁하고, 바이러스 DNA에 삽입된 후 DNA 사슬 종결을 일으킴으로써 HBV DNA 중합효소(역전사효소)를 억제한다.” 영어 원문: "Adefovir is an antiviral drug. […] Adefovir is an acyclic nucleotide analog of adenosine monophosphate which is phosphorylated to the active metabolite adefovir diphosphate by cellular kinases. Adefovir diphosphate inhibits HBV DNA polymerase (reverse transcriptase) by competing with the natural substrate deoxyadenosine triphosphate and by causing DNA chain termination after its incorporation into viral DNA." ([DailyMed: adefovir dipivoxil prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=08e07fae-3191-b6a3-c894-d3a8cc53923f), 버전 2025-07-22; 확인일 2026-11-19). 알려진 정보에 따르면 아데포비어는 세포 안에서 활성형인 아데포비어 이인산으로 바뀌어 B형 간염 바이러스(HBV)의 DNA 중합효소(역전사효소)를 억제하고 바이러스 DNA 사슬 합성을 중단시킵니다.
 
 그러나 C형 간염 바이러스(HCV)는 DNA 중간체 없이 RNA 의존성 RNA 중합효소로 복제하는 RNA 바이러스입니다. 따라서 아데포비어가 HCV에 활성을 가질 기전적 근거는 확인되지 않습니다. 예측 점수가 매우 높은 것은 TxGNN 모델(딥러닝)이 B형 간염과 C형 간염 같은 관련 질환 사이에서 학습한 유사성을 반영한 결과일 수 있으며, 생물학적 근거를 뜻하지는 않습니다. C형 간염은 현재 직접작용항바이러스제(DAA)가 표준 치료입니다.
 
@@ -122,11 +122,12 @@ C형 간염에 대한 임상시험이 없고 문헌도 모두 B형 간염 중심
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “전체 9건이 모두 단일제로 유효하며, 이 중 주요 5건만 표시했습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: adefovir dipivoxil prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=08e07fae-3191-b6a3-c894-d3a8cc53923f) |
 
 <!-- review:end log -->
 

@@ -57,7 +57,7 @@ TxGNN 모델은 **형질세포 골수종(다발골수종, Plasma Cell Myeloma)**
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 fludarabine은 DNA 합성을 억제하는 퓨린 뉴클레오시드 유사체로, 림프구계 세포에 세포독성을 나타냅니다. 같은 B세포 계열 종양이라는 점에서 다발골수종에도 적용될 여지가 있습니다.
+미국 FDA가 승인한 Fludarabine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “플루다라빈인산염은 활성형인 2-fluoro-ara-ATP로 빠르게 전환되며, 이는 DNA 중합효소 알파, 리보뉴클레오티드 환원효소 및 DNA 프라이마제의 억제를 통해 DNA 합성을 억제하는 것으로 보인다.” 영어 원문: "Fludarabine phosphate is rapidly converted to active 2-fluoro-ara-ATP, which appears to inhibit DNA synthesis through inhibition of DNA polymerase alpha, ribonucleotide reductase and DNA primase." ([DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951), 버전 2026-09-20; 확인일 2026-11-19). 알려진 정보에 따르면 fludarabine은 DNA 합성을 억제하는 퓨린 뉴클레오시드 유사체로, 림프구계 세포에 세포독성을 나타냅니다. 같은 B세포 계열 종양이라는 점에서 다발골수종에도 적용될 여지가 있습니다.
 
 실제 임상에서 fludarabine은 다발골수종의 단독 치료제가 아니라, cyclophosphamide와 함께하는 림프구 제거 요법(CAR-T 치료 전)이나 저강도 전처치(동종 조혈모세포이식 전)에 주로 쓰입니다. 전임상 연구에서는 골수종 세포주에 대한 항종양 활동이 보고되었으나(PMID 17976186, 다른 예측 질환 항목에서 확인), 골수종에서의 효과에 대해서는 논란이 있습니다.
 
@@ -146,6 +146,18 @@ Fludarabine은 다발골수종에서 동종이식 전처치와 CAR-T 림프구 �
 | 골수이형성증후군 | 0.9975 | L2 | 이식 전처치 기반 요법으로 근거 풍부(무작위 Phase 3 비교 포함), 단독 치료 근거는 아님 |
 | 분류되지 않은 골수이형성증후군 | 0.9969 | L5 | 단일 Phase 2 연구(treosulfan/fludarabine)만 존재 |
 | 갑상선기능항진증 외 5개 질환(유전성 희귀질환, 당뇨병성 신증 등) | 99.68~0.9982 | L5 | 기전적 연관성이 확인되지 않아 보류(Hold). 모델 예측만 존재 |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

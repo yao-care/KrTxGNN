@@ -56,7 +56,7 @@ TxGNN 모델은 **혈전성 질환(thrombotic disease)**에 효과가 있을 수
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 따라서 기전 기반으로 혈전성 질환 적용 가능성을 뒷받침할 수 없습니다.
+미국 FDA가 승인한 Talc 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “흉막강 내에 주입된 탈크는 염증 반응을 일으키는 것으로 여겨진다. 이 반응은 장측 흉막과 벽측 흉막의 유착을 촉진하여 흉막 내 공기 또는 체액의 재축적을 방지한다.” 영어 원문: "Talc instilled into the pleural cavity is thought to result in an inflammatory reaction. This reaction promotes adherence of the visceral and parietal pleura to prevent reaccumulation of pleural air or fluid." ([DailyMed: Steritalc 2G (talc) prescribing information, Novatech SA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c94e51d9-beef-4b06-e053-2a95a90a754a), 버전 2025-06-25; 확인일 2026-11-19). 따라서 기전 기반으로 혈전성 질환 적용 가능성을 뒷받침할 수 없습니다.
 
 검토된 문헌은 오히려 반대 방향을 가리킵니다. 불법 정맥주사 약물 남용에서 유입된 talc은 폐색전, 육아종증, 혈관혈전성 폐고혈압, 망막·뇌 미세색전을 일으킨 것으로 보고되었습니다. 즉 높은 TxGNN 점수는 치료 효과가 아니라 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 **유사성**을 반영했을 가능성이 크며, 생물학적 근거를 뜻하지 않습니다.
 
@@ -109,6 +109,19 @@ TxGNN 모델은 **혈전성 질환(thrombotic disease)**에 효과가 있을 수
 - 혈전 유발 위험에 대한 별도 안전성 평가
 
 참고로 2~10위 예측(외골종, 류마티스 관절염, 기관지염, 헤파린 보조인자 2 결핍증, 인자 V 과다 혈전증, 항트롬빈 결핍증 2형, 정맥 질환, 섬유근육통, 섬유성 근염)도 모두 Hold이며, 이 중 다수는 임상시험·문헌이 전혀 없거나 talc이 원인으로 보고된 부작용 문헌만 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Steritalc 2G (talc) prescribing information, Novatech SA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c94e51d9-beef-4b06-e053-2a95a90a754a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

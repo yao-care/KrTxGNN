@@ -56,7 +56,7 @@ TxGNN 모델은 **강박장애(Obsessive-Compulsive Disorder)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Desvenlafaxine은 SNRI 계열 항우울제이며, 주요우울장애에서의 효능이 입증되어 있어 세로토닌계 기전을 공유하는 강박장애에도 적용 가능할 수 있습니다.
+미국 FDA가 승인한 Desvenlafaxine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “데스벤라팍신의 항우울 작용의 정확한 기전은 알려져 있지 않으나, 세로토닌 및 노르에피네프린의 재흡수를 억제함으로써 중추신경계에서 이들의 작용을 증강시키는 것과 관련된 것으로 생각된다. 비임상 연구에서 데스벤라팍신은 강력하고 선택적인 SNRI인 것으로 나타났다.” 영어 원문: "The exact mechanism of the antidepressant action of desvenlafaxine is unknown, but is thought to be related to the potentiation of serotonin and norepinephrine in the central nervous system, through inhibition of their reuptake. Non-clinical studies have shown that desvenlafaxine is a potent and selective SNRI." ([DailyMed: Pristiq Extended-Release (desvenlafaxine succinate) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f43610c-f290-46ea-d186-4f998ed99fce), 버전 2026-04-28; 확인일 2026-11-19). 알려진 정보에 따르면 Desvenlafaxine은 SNRI 계열 항우울제이며, 주요우울장애에서의 효능이 입증되어 있어 세로토닌계 기전을 공유하는 강박장애에도 적용 가능할 수 있습니다.
 
 강박장애의 표준 약물치료는 SSRI와 clomipramine 같은 세로토닌 계열 약물입니다. 따라서 세로토닌 재흡수 억제라는 기전은 그럴듯한 연결고리입니다. 다만 강박장애에서 SNRI의 근거는 SSRI보다 제한적이고 일관성이 떨어집니다.
 
@@ -112,6 +112,19 @@ Desvenlafaxine 자체의 강박장애 데이터는 확인되지 않았습니다.
 이번 보고서는 TxGNN 점수 최상위인 강박장애를 기준으로 작성했습니다. 데이터에는 근거가 더 탄탄한 후보가 있습니다.
 
 - 성격장애군(조현성·조현형·편집성·연극성), Ohdo 증후군, 영아기 양성 발작성 사경은 모델 예측만 있고 근거가 없습니다. 광장공포증도 직접 근거는 없으나 SSRI/SNRI 치료 틀 안에서 기전적 개연성은 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Pristiq Extended-Release (desvenlafaxine succinate) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f43610c-f290-46ea-d186-4f998ed99fce) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

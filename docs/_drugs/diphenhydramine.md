@@ -55,7 +55,7 @@ TxGNN 모델은 **주사비 결막염(Rosacea Conjunctivitis)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Diphenhydramine은 1세대 H1 수용체 길항제이며 항콜린 작용도 일부 가지고 있습니다. 한국에서는 경구제(불면증)와 외용제(가려움, 피부염, 두드러기 등)로 허가되어 있습니다.
+미국 FDA가 승인한 Diphenhydramine 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “디펜히드라민염산염은 항콜린성(건조) 및 진정 부작용을 갖는 항히스타민제이다. 항히스타민제는 효과기 세포의 세포 수용체 부위에 대해 히스타민과 경쟁하는 것으로 보인다. 주사제 형태의 디펜히드라민염산염은 작용 발현이 빠르다.” 영어 원문: "Diphenhydramine hydrochloride is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. Diphenhydramine hydrochloride in the injectable form has a rapid onset of action." ([DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4), 버전 2026-10-28; 확인일 2026-11-19). 알려진 정보에 따르면 Diphenhydramine은 1세대 H1 수용체 길항제이며 항콜린 작용도 일부 가지고 있습니다. 한국에서는 경구제(불면증)와 외용제(가려움, 피부염, 두드러기 등)로 허가되어 있습니다.
 
 주사비 결막염과의 연관 가능성은 히스타민으로 인한 눈 가려움, 충혈, 혈관 투과성 증가를 줄이는 효과에 있습니다. 다만 안구 주사비는 주로 마이봄샘 기능 장애, 눈물막 불안정, Demodex 또는 미생물 집락, 선천면역 활성화와 기질금속단백분해효소(MMP)가 관여하는 염증이 원인입니다. 따라서 히스타민 차단이 해결할 수 있는 부분은 증상의 일부에 그칩니다.
 
@@ -93,6 +93,19 @@ TxGNN 예측 점수는 높지만 관련 임상시험과 문헌이 전혀 없는 
 - 안구 주사비에서 항히스타민제의 효과와 항콜린성 안구건조 악화 위험을 다룬 문헌 검토
 - 안구 적용에 적합한 제형(점안제 등)의 가능성 평가 (현재 한국 허가 제형은 경구, 피부 외용, 주사제로 안과용 제형은 없음)
 - 전임상 또는 소규모 탐색 임상 근거 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **위 선암 및 위 근위부 용종증(gastric adenocarcinoma 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Capecitabine은 단일 성분 항암제로 한국에서 허가·유통되고 있으며, 이 보고서에 사용된 데이터만으로는 기전상 위 선암에 적용될 수 있는 이유를 구체적으로 설명할 수 없습니다.
+미국 FDA가 승인한 Capecitabine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “카페시타빈은 생체 내에서 플루오로우라실로 대사된다. 정상 세포와 종양 세포 모두 플루오로우라실을 5-플루오로-2'-디옥시우리딘 일인산(FdUMP) 및 5-플루오로우리딘 삼인산(FUTP)으로 대사한다. 이들 대사체는 두 가지 서로 다른 기전에 의해 세포 손상을 일으킨다.” 영어 원문: "Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms." ([DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5), 버전 2026-02-05; 확인일 2026-11-19). Capecitabine은 단일 성분 항암제로 한국에서 허가·유통되고 있으며, 이 보고서에 사용된 데이터만으로는 기전상 위 선암에 적용될 수 있는 이유를 구체적으로 설명할 수 없습니다.
 
 이번 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 생물학적 근거가 아니라 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있습니다. 기존 허가 적응증의 내용이 확인되지 않았으므로, 기존 적응증과 예측 질환 사이의 연관성도 평가할 수 없습니다.
 
@@ -103,6 +103,19 @@ Capecitabine은 항종양약(fluoropyrimidine 계열)입니다. 다만 이번 �
 - DrugBank 등에서 작용 기전(MOA) 데이터 확보
 - 위 선암 및 위 근위부 용종증을 직접 다룬 임상시험과 문헌 탐색
 - 기존 허가 적응증과 예측 질환의 관계 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

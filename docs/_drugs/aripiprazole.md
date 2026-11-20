@@ -54,7 +54,7 @@ Aripiprazole은 D2/5-HT1A 부분 작용제이자 5-HT2A 길항제로, 한국에�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이 보고서용 데이터에 포함되어 있지 않습니다. 알려진 약리 정보에 따르면 aripiprazole은 D2/5-HT1A 부분 작용제이자 5-HT2A 길항제입니다. 도파민과 세로토닌 신호 조절은 항우울제 보조 효과와 양극성 장애에서의 기분 안정화에 대한 타당한 근거가 됩니다.
+미국 FDA가 승인한 Aripiprazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “조현병 및 제1형 양극성 장애의 치료에서 아리피프라졸의 작용기전은 알려져 있지 않다. 아리피프라졸의 효능은 도파민 D 2 및 세로토닌 5-HT 1A 수용체에서의 부분 작용제 활성과 5-HT 2A 수용체에서의 길항제 활성의 조합을 통해 매개될 수 있다.” 영어 원문: "The mechanism of action of aripiprazole in the treatment of schizophrenia and bipolar I disorder is unknown. The efficacy of aripiprazole could be mediated through a combination of partial agonist activity at dopamine D 2 and serotonin 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors." ([DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be), 버전 2025-04-04; 확인일 2026-11-19). 알려진 약리 정보에 따르면 aripiprazole은 D2/5-HT1A 부분 작용제이자 5-HT2A 길항제입니다. 도파민과 세로토닌 신호 조절은 항우울제 보조 효과와 양극성 장애에서의 기분 안정화에 대한 타당한 근거가 됩니다.
 
 근거는 항우울제에 불충분하게 반응한 주요 우울장애에 대한 보조요법에서 가장 강합니다. 위약 대조 Phase 3 시험이 여러 건 완료되었고, 대규모 비교 효과 시험(VAST-D)과 다수의 메타분석이 있습니다.
 
@@ -127,6 +127,19 @@ Aripiprazole은 D2/5-HT1A 부분 작용제이자 5-HT2A 길항제로, 한국에�
 - 허가 적응증에 우울증 보조요법이 이미 포함되는지 확인하여 진정한 재창출 여부 판정
 - 대사·심혈관 위험, 호중구감소증, 기립저혈압 등 지식그래프 금기 질환에 대한 모니터링 계획 수립
 - Bupropion 등 주요 상호작용 약물의 병용 관리 지침 마련
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Abilify Asimtufii (aripiprazole) prescribing information, Otsuka America Pharmaceutical, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

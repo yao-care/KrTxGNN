@@ -57,7 +57,7 @@ TxGNN 모델은 **배아형 횡문근육종(parameningeal embryonal rhabdomyosar
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이 보고서에 정리된 자료에 없습니다. 일반적으로 알려진 바에 따르면 Cladribine(2-chloro-2'-deoxyadenosine)은 아데노신 탈아미노효소에 분해되지 않는 퓨린 뉴클레오시드 유사체입니다. 데옥시시티딘 키나아제 활성이 5'-뉴클레오티드분해효소보다 높은 세포 안에서 삼인산 형태로 축적되어 DNA 가닥 손상과 세포자멸사를 일으킵니다. 이 작용은 림프구 계열 세포에서 잘 확립되어 있습니다.
+미국 FDA가 승인한 Cladribine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “다발성 경화증 환자에서 클라드리빈이 치료 효과를 나타내는 기전은 완전히 규명되지 않았으나, DNA 합성 장애를 통한 B 및 T 림프구에 대한 세포독성 효과로 림프구가 고갈되는 것과 관련이 있는 것으로 생각된다.” 영어 원문: "The mechanism by which cladribine exerts its therapeutic effects in patients with multiple sclerosis has not been fully elucidated but is thought to involve cytotoxic effects on B and T lymphocytes through impairment of DNA synthesis, resulting in depletion of lymphocytes." ([DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144), 버전 2026-05-27; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면 Cladribine(2-chloro-2'-deoxyadenosine)은 아데노신 탈아미노효소에 분해되지 않는 퓨린 뉴클레오시드 유사체입니다. 데옥시시티딘 키나아제 활성이 5'-뉴클레오티드분해효소보다 높은 세포 안에서 삼인산 형태로 축적되어 DNA 가닥 손상과 세포자멸사를 일으킵니다. 이 작용은 림프구 계열 세포에서 잘 확립되어 있습니다.
 
 그러나 횡문근육종이라는 고형 종양에서 이 기전이 작동한다는 근거는 현재 자료에 없습니다. 뉴클레오시드 유사체의 세포독성이 고형 종양에도 적용될 수 있다는 가설은 추측 단계입니다. 높은 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있으며 생물학적 근거는 아닙니다.
 
@@ -106,6 +106,19 @@ Cladribine은 퓨린 유사체 계열의 세포독성 항대사제로 판단됩�
 - 횡문근육종 세포주 및 동물 모델에서의 전임상 효능 근거
 - 소아·청소년 횡문근육종에서 Cladribine 사용에 관한 문헌 및 임상시험 조사
 - 골수억제, 신장애, 신경독성 등 안전성 위험에 대한 평가 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

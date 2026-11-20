@@ -54,7 +54,7 @@ Rivaroxaban은 경구용 Xa 인자 억제 항응고제로, 한국에서 20건의
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 rivaroxaban은 Xa 인자를 억제하는 항응고제입니다. 이번 데이터에서는 허가 적응증 문구도 확인되지 않아, 기존 적응증과 신규 적응증 사이의 연관성은 제한적으로만 평가할 수 있습니다.
+미국 FDA가 승인한 Rivaroxaban 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “XARELTO는 FXa의 선택적 억제제이다. 활성을 위해 보조인자(예: 항트롬빈 III)를 필요로 하지 않는다. 리바록사반은 유리 FXa 및 프로트롬비나제 활성을 억제한다. 리바록사반은 혈소판 응집에 직접적인 영향을 미치지 않으나, 트롬빈에 의해 유도되는 혈소판 응집을 간접적으로 억제한다.” 영어 원문: "XARELTO is a selective inhibitor of FXa. It does not require a cofactor (such as Anti-thrombin III) for activity. Rivaroxaban inhibits free FXa and prothrombinase activity. Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610), 버전 2026-09-10; 확인일 2026-11-19). 알려진 정보에 따르면 rivaroxaban은 Xa 인자를 억제하는 항응고제입니다. 이번 데이터에서는 허가 적응증 문구도 확인되지 않아, 기존 적응증과 신규 적응증 사이의 연관성은 제한적으로만 평가할 수 있습니다.
 
 기전상 연결 가능성은 다음과 같습니다. 류마티스 관절염은 만성 염증과 응고계 활성화가 동반되며, 자가면역질환에서 트롬빈 생성이 증가한다는 문헌(트롬빈 생성 검사 리뷰)이 확인되었습니다. 또한 Xa 인자·트롬빈 신호가 염증 경로에 영향을 줄 수 있다는 가설이 있습니다.
 
@@ -114,6 +114,19 @@ TxGNN 점수는 매우 높지만 임상시험이 없고 문헌도 치료 효과�
 - **통풍(Gout)**, 점수 0.9951: 임상시험이 없고, 문헌은 CYP 상호작용 in vitro 연구와 정맥류 사례 보고뿐이어서 효능 근거가 없습니다(L5, Hold).
 - **HIV 감염**, 점수 0.9917: HIV 자체에 대한 치료 근거는 없습니다. 근거는 ritonavir·cobicistat 병용 시 CYP3A4/P-gp 억제로 rivaroxaban 노출과 출혈 위험이 증가한다는 안전성·상호작용 관련 자료입니다. 재창출 효능 신호가 아니라 상호작용 안전성 연구 과제입니다(L4, Research Question).
 - **합지증-단지증 증후군(Brachydactyly-syndactyly syndrome)**, 점수 0.9910: 임상시험과 문헌이 모두 없고 타당한 기전도 확인되지 않았습니다(L5, Hold).
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이번 데이터에 포함되어 있지 않습니다. 다만 temsirolimus는 mTOR 억제제로 알려져 있으며, 이 기전에 근거하면 PI3K/AKT/mTOR 경로가 활성화된 종양에서 효과를 기대할 수 있습니다.
+미국 FDA가 승인한 Temsirolimus 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Temsirolimus는 mTOR(mammalian target of rapamycin) 억제제이다. Temsirolimus는 세포 내 단백질(FKBP-12)에 결합하며, 이 단백질-약물 복합체는 세포 분열을 조절하는 mTOR의 활성을 억제한다. mTOR 활성의 억제는 투여된 종양 세포에서 G1 성장 정지를 초래하였다.” 영어 원문: "Temsirolimus is an inhibitor of mTOR (mammalian target of rapamycin). Temsirolimus binds to an intracellular protein (FKBP-12), and the protein-drug complex inhibits the activity of mTOR that controls cell division. Inhibition of mTOR activity resulted in a G1 growth arrest in treated tumor cells." ([DailyMed: temsirolimus prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c207bed-10e3-46f0-ad2c-69d5e5c97736), 버전 2020-03-30; 확인일 2026-11-19). 다만 temsirolimus는 mTOR 억제제로 알려져 있으며, 이 기전에 근거하면 PI3K/AKT/mTOR 경로가 활성화된 종양에서 효과를 기대할 수 있습니다.
 
 연종 육종(soft tissue sarcoma)에서는 이 경로가 자주 활성화되는 것으로 알려져 있습니다. 분화형 및 탈분화형 지방육종은 MDM2/CDK4 증폭과 함께 mTOR 신호 의존성을 보이는 것으로 보고되어 있어, mTOR 억제의 기전적 근거가 될 수 있습니다.
 
@@ -111,6 +111,19 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 - DrugBank 등에서 작용 기전(MOA) 데이터 보충
 - 성인 지방육종(특히 분화형/탈분화형)에서 temsirolimus 단독 또는 병용의 효능을 평가한 임상·전임상 근거 탐색
 - 지식그래프상 금기 질환(간·신장 질환, 당뇨병, 간질성 폐질환 등)에 대한 환자 선별 및 모니터링 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: temsirolimus prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1c207bed-10e3-46f0-ad2c-69d5e5c97736) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

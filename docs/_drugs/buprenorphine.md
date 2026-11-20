@@ -55,7 +55,7 @@ TxGNN 모델은 **급성 간헐성 포르피린증(Acute Intermittent Porphyria)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Buprenorphine은 단일 성분 오피오이드 진통제로, 부분 mu-오피오이드 작용제이자 kappa-오피오이드 길항제로 알려져 있습니다.
+미국 FDA가 승인한 Buprenorphine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “SUBLOCADE 주사제는 부프레노르핀을 함유한다. 부프레노르핀은 뮤-오피오이드 수용체의 부분 작용제이며 카파-오피오이드 수용체의 길항제이다.” 영어 원문: "SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor." ([DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95), 버전 2026-07-27; 확인일 2026-11-19). 알려진 정보에 따르면 Buprenorphine은 단일 성분 오피오이드 진통제로, 부분 mu-오피오이드 작용제이자 kappa-오피오이드 길항제로 알려져 있습니다.
 
 급성 간헐성 포르피린증은 헤모글로빈 합성 경로의 포르포빌리노겐 탈아미노효소 결핍으로 생기는 질환입니다. Buprenorphine과의 직접적인 기전적 연결은 확인되지 않습니다. 급성 발작 시의 신경내장성 통증 완화에 활용될 가능성은 생각해 볼 수 있으나, 이를 뒷받침하는 시험 근거는 없습니다.
 
@@ -114,6 +114,18 @@ TxGNN 모델은 **급성 간헐성 포르피린증(Acute Intermittent Porphyria)
 | 4 | 수면 중 지속적 극서파 | 0.9905 | L5 | 시험·문헌 없음. 기전적 근거 불충분 |
 | 5 | 추체외로 및 운동 질환 | 0.9903 | L5 | 시험·문헌 없음 |
 | 6 | 양성 전율 발작 | 0.9903 | L5 | 시험·문헌 없음. 자연 소실되는 소아 질환으로 위험 대비 이득이 불리 |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

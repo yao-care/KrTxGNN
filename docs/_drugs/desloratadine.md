@@ -55,7 +55,7 @@ TxGNN 모델은 **비강 질환(nasal cavity disease)**에 효과가 있을 수 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 desloratadine은 H1 수용체 차단 계열 약물로 알려져 있으며, 히스타민이 관여하는 비강 증상에 기전상 적용 가능할 수 있습니다.
+미국 FDA가 승인한 Desloratadine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “데스로라타딘은 선택적 H1 수용체 히스타민 길항 활성을 가진 지속형 삼환계 히스타민 길항제이다. 수용체 결합 자료에 따르면 2-3 ng/mL(7 nanomolar) 농도에서 데스로라타딘은 인간 히스타민 H1 수용체와 유의한 상호작용을 나타낸다.” 영어 원문: "Desloratadine is a long-acting tricyclic histamine antagonist with selective H1-receptor histamine antagonist activity. Receptor binding data indicates that at a concentration of 2-3 ng/mL (7 nanomolar), desloratadine shows significant interaction with the human histamine H1-receptor." ([DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f), 버전 2025-10-23; 확인일 2026-11-19). 일반적으로 desloratadine은 H1 수용체 차단 계열 약물로 알려져 있으며, 히스타민이 관여하는 비강 증상에 기전상 적용 가능할 수 있습니다.
 
 다만 이 예측의 높은 점수는 이미 알려진 알레르기 관련 용도와의 중복을 반영했을 가능성이 있어, 새로운 재창출 기회로 보기는 어렵습니다. 또한 "비강 질환"은 범위가 넓고 구체적이지 않은 분류입니다.
 
@@ -93,6 +93,19 @@ TxGNN 모델은 **비강 질환(nasal cavity disease)**에 효과가 있을 수 
 - 허가사항(경고, 금기, 적응증)의 확보 및 검토
 - 작용 기전(MOA) 데이터 보완
 - 구체적인 비강 질환 하위 유형을 정의하고, 사람 대상 임상 근거를 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

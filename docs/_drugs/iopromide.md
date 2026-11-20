@@ -54,7 +54,7 @@ Iopromide는 요오드화 비이온성 방사선 조영제로, 한국에서 주�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Iopromide는 요오드화 비이온성 방사선 조영제로, 항염증 작용이나 연골 보호 작용이 알려져 있지 않습니다. 관절 조영술에 쓰일 수 있으나 이는 진단 목적이며 치료 효과가 아닙니다.
+미국 FDA가 승인한 Iopromide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이오프로마이드의 혈관 내 주사는 조영제가 존재하는 혈관을 불투명하게 하여, 광자 감쇠를 통해 내부 구조의 방사선학적 시각화를 가능하게 한다. 신체 영상 촬영에서 요오드화 조영제는 혈관에서 혈관외 공간으로 확산된다.” 영어 원문: "Intravascular injection of iopromide opacifies those vessels where the contrast agent is present, permitting radiographic visualization of the internal structures through attenuation of photons. In imaging of the body, iodinated contrast agents diffuse from the vessels into the extravascular space." ([DailyMed: Ultravist (iopromide) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df917c3a-59a2-4ed1-8470-8a5394c73325), 버전 2026-03-02; 확인일 2026-11-19). Iopromide는 요오드화 비이온성 방사선 조영제로, 항염증 작용이나 연골 보호 작용이 알려져 있지 않습니다. 관절 조영술에 쓰일 수 있으나 이는 진단 목적이며 치료 효과가 아닙니다.
 
 TxGNN 점수(0.9953)는 TxGNN 모델(딥러닝)에서 나온 값이며, 관련 질환 간에 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 기전적 연결고리는 확인되지 않았으며, 이를 뒷받침하는 임상시험이나 문헌도 없습니다.
 
@@ -93,6 +93,19 @@ TxGNN 점수(0.9953)는 TxGNN 모델(딥러닝)에서 나온 값이며, 관련 �
 - 작용 기전(MOA) 데이터 확보 (DrugBank 조회)
 - 골관절염과 Iopromide의 연관성을 보여주는 전임상 또는 임상 연구
 - 치료 목적의 투여 경로 및 용량 타당성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ultravist (iopromide) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=df917c3a-59a2-4ed1-8470-8a5394c73325) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

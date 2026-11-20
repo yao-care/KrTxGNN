@@ -55,7 +55,7 @@ TxGNN 모델은 **신세뇨관 산증(renal tubular acidosis)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 calcifediol은 비타민 D 계열 약물로, 체내에서 활성형 비타민 D로 전환되는 전구 물질입니다.
+미국 FDA가 승인한 Calcifediol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “칼시페디올(25-히드록시비타민 D 3)은 비타민 D 3의 활성형인 칼시트리올(1,25-디히드록시비타민 D 3)의 전구호르몬이다. 칼시페디올은 주로 신장에서 1-알파 수산화효소라고도 불리는 사이토크롬 P450 27B1(CYP27B1)에 의해 칼시트리올로 전환된다.” 영어 원문: "Calcifediol (25-hydroxyvitamin D 3 ) is a prohormone of the active form of vitamin D 3, calcitriol (1,25‑dihydroxyvitamin D 3 ). Calcifediol is converted to calcitriol by cytochrome P450 27B1 (CYP27B1), also called 1-alpha hydroxylase, primarily in the kidney." ([DailyMed: Rayaldee (calcifediol) prescribing information, OPKO Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a95effd-32a5-46b6-a30e-7f4f9bf8cc77), 버전 2024-01-19; 확인일 2026-11-19). 알려진 정보에 따르면 calcifediol은 비타민 D 계열 약물로, 체내에서 활성형 비타민 D로 전환되는 전구 물질입니다.
 
 신세뇨관 산증에서는 만성 산증, 고칼슘뇨증, 비타민 D 활성화 장애로 인해 구루병이나 골연화증 같은 이차성 대사성 골질환이 생길 수 있습니다. 비타민 D 대사체가 이러한 뼈 합병증 관리에 도움이 될 가능성이 있다는 것이 기전상의 연결 고리입니다.
 
@@ -89,6 +89,18 @@ TxGNN 모델은 **신세뇨관 산증(renal tubular acidosis)**에 효과가 있
 - 작용 기전(MOA) 데이터 보완
 - 허가사항의 경고 및 금기 정보 확보
 - 고칼슘혈증, 신석회화증, 신결석 등 칼슘 대사 관련 위험에 대한 안전성 평가 (산증 환자 대상)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Rayaldee (calcifediol) prescribing information, OPKO Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6a95effd-32a5-46b6-a30e-7f4f9bf8cc77) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

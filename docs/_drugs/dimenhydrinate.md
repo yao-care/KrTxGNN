@@ -55,7 +55,7 @@ TxGNN 모델은 **알레르기성 두드러기(Allergic Urticaria)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 dimenhydrinate는 diphenhydramine과 8-chlorotheophylline의 염이며, 이 중 diphenhydramine은 1세대 H1 수용체 길항제입니다. 멀미 증상 완화에 쓰이는 약물이며, H1 차단은 두드러기의 가려움과 팽진 같은 히스타민 매개 증상을 줄일 수 있는 기전입니다.
+미국 FDA가 승인한 Dimenhydrinate 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “디멘히드리네이트의 정확한 작용 양식은 알려져 있지 않으나, 과자극된 미로 기능에 대해 억제 작용을 나타낸다.” 영어 원문: "While the precise mode of action of dimenhydrinate is not known, it has a depressant action on hyperstimulated labyrinthine function." ([DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c), 버전 2025-01-15; 확인일 2026-11-19). 알려진 정보에 따르면 dimenhydrinate는 diphenhydramine과 8-chlorotheophylline의 염이며, 이 중 diphenhydramine은 1세대 H1 수용체 길항제입니다. 멀미 증상 완화에 쓰이는 약물이며, H1 차단은 두드러기의 가려움과 팽진 같은 히스타민 매개 증상을 줄일 수 있는 기전입니다.
 
 다만 이 연관성은 간접적입니다. 유효 성분(diphenhydramine)의 약리에 근거한 추론이며, dimenhydrinate 자체의 두드러기 임상 자료는 없습니다. 0.9974이라는 높은 TxGNN 점수는 컴퓨터 예측일 뿐 임상 근거가 아닙니다.
 
@@ -102,6 +102,19 @@ TxGNN은 두 번째 예측으로 **한랭 두드러기(Cold Urticaria)**(점수 
 - 상세한 작용 기전(MOA) 데이터 확보
 - 두드러기 환자 대상 dimenhydrinate 또는 diphenhydramine의 임상 문헌 검토, 2세대 항히스타민제와의 비교 자료
 - 진정·항콜린 부작용과 상호작용(특히 칼륨 제제)을 고려한 위험·이득 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: dimenhydrinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc71539e-1a33-4709-8a24-c2894e8dbc1c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

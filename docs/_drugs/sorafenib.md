@@ -56,7 +56,7 @@ TxGNN 모델은 **지방육종(liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 이 예측이 타당한 이유는?
 
-Sorafenib은 RAF/MEK/ERK 신호전달과 VEGFR, PDGFR, KIT를 억제하는 다중 키나제 억제제입니다. 이 기전은 연성조직육종에서 혈관신생과 MAPK 신호를 억제할 가능성이 있습니다. 다만 현재 데이터에는 상세한 작용 기전 기록이 없어, 위 내용은 일반적으로 알려진 약리 지식에 근거합니다.
+Sorafenib은 RAF/MEK/ERK 신호전달과 VEGFR, PDGFR, KIT를 억제하는 다중 키나제 억제제입니다. 이 기전은 연성조직육종에서 혈관신생과 MAPK 신호를 억제할 가능성이 있습니다. 미국 FDA가 승인한 Sorafenib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Sorafenib은 in vitro에서 종양 세포 증식을 감소시키는 키나아제 억제제이다. Sorafenib은 여러 세포 내 키나아제(c-CRAF, BRAF 및 변이 BRAF)와 세포 표면 키나아제(KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3 및 PDGFR-ß)를 억제하는 것으로 나타났다.” 영어 원문: "Sorafenib is a kinase inhibitor that decreases tumor cell proliferation in vitro. Sorafenib was shown to inhibit multiple intracellular (c-CRAF, BRAF and mutant BRAF) and cell surface kinases (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3, and PDGFR-ß)." ([DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0), 버전 2023-08-28; 확인일 2026-11-19).
 
 전임상 연구에서는 악성 말초신경초종 세포주와 탈분화 지방육종 세포주에서 성장 억제가 보고되었습니다. 그러나 이는 세포 수준의 결과이며, 지방육종 환자를 대상으로 sorafenib을 직접 평가한 시험은 없습니다.
 
@@ -119,6 +119,18 @@ Sorafenib은 RAF/MEK/ERK 신호전달과 VEGFR, PDGFR, KIT를 억제하는 다�
 - 지방육종 환자를 대상으로 한 직접적인 임상 또는 전임상 근거
 - 연성조직육종 2상 시험에서 지방육종 하위군 결과의 별도 분석
 - 허가사항(경고, 금기)과 상세 작용 기전 데이터 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

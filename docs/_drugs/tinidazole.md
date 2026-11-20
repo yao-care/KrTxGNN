@@ -56,7 +56,7 @@ TxGNN 모델은 **폐경 후 위축성 질염(postmenopausal atrophic vaginitis)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Tinidazole은 혐기성균과 질편모충(*Trichomonas vaginalis*)에 활성이 있는 5-니트로이미다졸계 약물입니다.
+미국 FDA가 승인한 Tinidazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “티니다졸은 항원충제이자 항균제이다.. […] 티니다졸은 항원충제이자 항균제이다. 티니다졸의 니트로기는 트리코모나스(Trichomonas)의 세포 추출물에 의해 환원된다. 이 환원의 결과로 생성된 유리 니트로 라디칼이 항원충 활성의 원인일 수 있다.” 영어 원문: "Tinidazole is an antiprotozoal, antibacterial agent.. […] Tinidazole is an antiprotozoal, antibacterial agent. The nitro- group of tinidazole is reduced by cell extracts of Trichomonas. The free nitro radical generated as a result of this reduction may be responsible for the antiprotozoal activity." ([DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7), 버전 2026-08-18; 확인일 2026-11-19). 알려진 정보에 따르면 Tinidazole은 혐기성균과 질편모충(*Trichomonas vaginalis*)에 활성이 있는 5-니트로이미다졸계 약물입니다.
 
 위축성 질염은 감염이 아니라 에스트로겐 결핍이 원인이므로, 직접적인 기전 연관성은 확립되어 있지 않습니다. 높은 예측 점수는 치료적 근거라기보다 질 감염 질환과의 네트워크상 근접성을 반영했을 가능성이 큽니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델은 **폐경 후 위축성 질염(postmenopausal atrophic vaginitis)
 - 위축성 질염에서 Tinidazole의 이점을 뒷받침하는 전임상 또는 임상 근거
 - 에스트로겐 요법 등 기존 표준치료 대비 필요성 검토
 - 예측 순위 하위 후보(외음부 궤양 등 감염 연관 질환)에 대한 별도 평가 고려
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

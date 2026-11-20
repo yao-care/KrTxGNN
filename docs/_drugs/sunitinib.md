@@ -57,7 +57,7 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서를 위해 수집된 데이터에는 상세한 작용 기전(MOA) 정보가 없습니다. 다만 일반적으로 알려진 바와 같이 sunitinib은 VEGFR, PDGFR, KIT 등 수용체 티로신 키나제를 억제합니다. 이 경로들은 일부 연부조직육종의 혈관신생과 종양 증식에 관여하므로, 기전상 적용 가능성은 있습니다.
+미국 FDA가 승인한 Sunitinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “수니티닙은 여러 수용체 티로신 키나제(RTK)를 억제하는 저분자 화합물로, 이 중 일부는 종양 성장, 병적 혈관신생 및 암의 전이성 진행에 관여한다.” 영어 원문: "Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer." ([DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c), 버전 2026-02-20; 확인일 2026-11-19). 다만 일반적으로 알려진 바와 같이 sunitinib은 VEGFR, PDGFR, KIT 등 수용체 티로신 키나제를 억제합니다. 이 경로들은 일부 연부조직육종의 혈관신생과 종양 증식에 관여하므로, 기전상 적용 가능성은 있습니다.
 
 그러나 지방육종에서의 임상 활성은 크지 않은 것으로 보이며, 대부분 혼합 비-GIST 육종 코호트 안에서 보고되었습니다. 지방육종은 아형이 다양하고 아형별로 치료 반응이 달라, 이 예측을 확정적 근거로 보기는 어렵습니다.
 
@@ -130,6 +130,18 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 | 7 | 소아 신세포암 | L4 | 증례 보고(TFE3 양성 완전 관해 1례) 중심 |
 | 9 | 신세포암 | L1 | 이미 허가된 적응증과 중복될 가능성이 높아 신규 재창출 발견으로 보기 어려움 |
 | 2, 4, 8, 10 | 난소 점액양 지방육종, 신경모세포종 연관 신세포암, 혈관지방종, 심장 섬유육종 | L4~L5 | 직접 근거 없음 (Hold) |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

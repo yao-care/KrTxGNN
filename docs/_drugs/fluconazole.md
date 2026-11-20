@@ -56,7 +56,7 @@ TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjun
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 fluconazole은 트리아졸 계열 항진균제로, 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제해 에르고스테롤 합성을 차단합니다.
+미국 FDA가 승인한 Fluconazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “플루코나졸은 진균의 시토크롬 P450 의존성 효소인 라노스테롤 14-α-탈메틸효소의 고도로 선택적인 억제제이다. 이 효소는 라노스테롤을 에르고스테롤로 전환하는 기능을 한다. 그에 따른 정상 스테롤의 소실은 진균 내 14-α-메틸 스테롤의 축적과 상관관계가 있으며, 플루코나졸의 정진균 활성의 원인일 수 있다.” 영어 원문: "Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent enzyme lanosterol 14-α-demethylase. This enzyme functions to convert lanosterol to ergosterol. The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole." ([DailyMed: Diflucan (fluconazole) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f694c617-3383-416c-91b6-b94fda371204), 버전 2026-04-02; 확인일 2026-11-19). 알려진 정보에 따르면 fluconazole은 트리아졸 계열 항진균제로, 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제해 에르고스테롤 합성을 차단합니다.
 
 점상 상피성 각결막염은 대개 바이러스(예: 아데노바이러스), 안구건조, 약물 독성 등 비진균성 원인과 관련됩니다. 이런 경우 항진균제를 쓸 기전적 근거가 뚜렷하지 않습니다. 진균성 원인이나 이차 감염 성분이 있다면 연결 고리가 될 수 있지만, 이는 추정에 불과합니다.
 
@@ -97,6 +97,19 @@ TxGNN 모델은 **점상 상피성 각결막염(Punctate Epithelial Keratoconjun
 - 허가사항의 경고·금기 및 허가 적응증 확인
 - 안과 투여 경로(국소 점안 등) 적합성 평가. 현재 한국 허가 제형은 경구 캡슐과 정제뿐입니다.
 - 관련 임상시험이나 전임상 연구 근거 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Diflucan (fluconazole) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f694c617-3383-416c-91b6-b94fda371204) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **고양이 후천성 면역결핍증후군(feline acquired immu
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, emtricitabine은 NRTI 계열 약물로 세포 내에서 인산화되어 역전사효소를 억제(사슬 종결)하는 것으로 알려져 있으며, 한국에서는 복합제(트루바다정, 데스코비정)의 성분으로 허가되어 있습니다.
+미국 FDA가 승인한 Emtricitabine 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “엠트리시타빈은 항레트로바이러스제이다. […] 시티딘의 합성 뉴클레오시드 유사체인 FTC는 세포 효소에 의해 인산화되어 엠트리시타빈 5'-삼인산(FTC-TP)을 형성하며, 이는 천연 기질인 데옥시시티딘 5'-삼인산과 경쟁하고 새로 생성되는 바이러스 DNA에 삽입되어 사슬 종결을 일으킴으로써 HIV-1 역전사효소(RT)의 활성을 억제한다. FTC-TP는 포유류 DNA 중합효소 α, β, ε 및 미토콘드리아 DNA 중합효소 γ의 약한 억제제이다.” 영어 원문: "Emtricitabine is an antiretroviral drug. […] FTC, a synthetic nucleoside analog of cytidine, is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate (FTC-TP), which inhibits the activity of the HIV-1 reverse transcriptase (RT) by competing with the natural substrate deoxycytidine 5'-triphosphate and by being incorporated into nascent viral DNA resulting in chain termination. FTC-TP is a weak inhibitor of mammalian DNA polymerases α, β, ε, and mitochondrial DNA polymerase γ." ([DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f), 버전 2026-11-06; 확인일 2026-11-19). 알려진 정보에 따르면, emtricitabine은 NRTI 계열 약물로 세포 내에서 인산화되어 역전사효소를 억제(사슬 종결)하는 것으로 알려져 있으며, 한국에서는 복합제(트루바다정, 데스코비정)의 성분으로 허가되어 있습니다.
 
 고양이 면역결핍바이러스(FIV)는 HIV와 같은 렌티바이러스이며, 역전사효소 구조가 유사합니다. 따라서 NRTI 계열 약물의 활성은 생물학적으로 가능성이 있습니다. 다만 이는 NRTI 계열 일반 지식에 기반한 추론입니다.
 
@@ -106,6 +106,19 @@ TxGNN 모델은 **고양이 후천성 면역결핍증후군(feline acquired immu
 - 상세 작용 기전(MOA) 데이터 확보
 - PMID 37112803의 전문 확인을 통한 emtricitabine의 기여도 및 결과 검증
 - 사람 대상 재창출 후보로 검토하려면 인체 질환 대상의 새로운 적응증 후보 재선별
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Emtriva (emtricitabine) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d6599395-3944-44f9-97f2-e0424c6b6a1f) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

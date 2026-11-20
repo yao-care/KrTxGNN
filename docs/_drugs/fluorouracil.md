@@ -54,7 +54,7 @@ Fluorouracil은 항대사 계열 세포독성 항암제로, 한국에서 단일�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Fluorouracil은 티미딜산 합성효소를 억제하는 피리미딘 항대사제로, 빠르게 분열하는 세포의 DNA/RNA 합성을 방해합니다. 이런 세포독성 기전은 빠르게 증식하는 소아 육종에서도 이론상 가능합니다.
+미국 FDA가 승인한 Fluorouracil 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “플루오로우라실은 데옥시리보핵산(DNA)의 합성을 방해하고 그보다 적은 정도로 리보핵산(RNA)의 형성을 억제하는 뉴클레오시드 대사 억제제이며, 이러한 작용은 빠르게 증식하는 세포에 영향을 미쳐 세포 사멸을 초래할 수 있다. 플루오로우라실은 세 가지 주요 활성 대사체인 5-플루오로-2′-데옥시우리딘-5′-일인산(FdUMP), 5-플루오로우리딘-5′삼인산(FUTP) 및 5-플루오로-2′-데옥시우리딘-5′-삼인산(FdUTP)으로 전환된다.” 영어 원문: "Fluorouracil is a nucleoside metabolic inhibitor that interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA); these affect rapidly growing cells and may lead to cell death. Fluorouracil is converted to three main active metabolites: 5-fluoro-2′-deoxyuridine-5′-monophosphate (FdUMP), 5-fluorouridine-5′triphosphate (FUTP) and 5-fluoro-2′-deoxyuridine-5′-triphosphate (FdUTP)." ([DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b), 버전 2026-10-23; 확인일 2026-11-19). 알려진 정보에 따르면 Fluorouracil은 티미딜산 합성효소를 억제하는 피리미딘 항대사제로, 빠르게 분열하는 세포의 DNA/RNA 합성을 방해합니다. 이런 세포독성 기전은 빠르게 증식하는 소아 육종에서도 이론상 가능합니다.
 
 다만 표준 횡문근육종 요법(예: VAC)은 fluorouracil에 의존하지 않습니다. 높은 예측 점수는 임상 활성보다는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영했을 가능성이 있으며, 생물학적 근거는 아닙니다. 담도 암 등 소화기 암에서의 사용 이력이 담도 횡문근육종 예측에 영향을 주었을 수도 있습니다.
 
@@ -135,11 +135,12 @@ Fluorouracil은 항대사 계열 세포독성 항암제로, 한국에서 단일�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “허가증 7건은 모두 단일제이며 유효 상태입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 이번 평가에서 확인된 문헌에 따르면 Topotecan은 topoisomerase I 억제제로, 증식 중인 세포에 DNA 손상을 일으켜 항종양 효과를 냅니다.
+미국 FDA가 승인한 Topotecan 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “토포이소머라제 I은 가역적인 단일가닥 절단을 유도함으로써 DNA의 비틀림 응력을 완화한다. 토포테칸은 토포이소머라제 I-DNA 복합체에 결합하여 이러한 단일가닥 절단의 재결합을 방지한다. 토포테칸의 세포독성은 DNA 합성 중 복제 효소가 토포테칸, 토포이소머라제 I 및 DNA로 형성된 삼원 복합체와 상호작용할 때 생성되는 이중가닥 DNA 손상에 기인하는 것으로 생각된다.” 영어 원문: "Topoisomerase I relieves torsional strain in DNA by inducing reversible single-strand breaks. Topotecan binds to the topoisomerase I-DNA complex and prevents re-ligation of these single-strand breaks. The cytotoxicity of topotecan is thought to be due to double-strand DNA damage produced during DNA synthesis, when replication enzymes interact with the ternary complex formed by topotecan, topoisomerase I, and DNA." ([DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579), 버전 2023-09-18; 확인일 2026-11-19). 다만 이번 평가에서 확인된 문헌에 따르면 Topotecan은 topoisomerase I 억제제로, 증식 중인 세포에 DNA 손상을 일으켜 항종양 효과를 냅니다.
 
 전임상 연구에서는 MYC 구동 암(유방암 세포주 포함)에서 topoisomerase 1 억제가 합성 치사를 유도할 수 있다고 보고되었습니다(PMID 37987734). 이는 기전상 유방암 적용 가능성을 뒷받침합니다.
 
@@ -122,6 +122,19 @@ TxGNN 모델은 **여성 유방암(female breast carcinoma)**에 효과가 있�
 - 작용 기전 데이터 (DrugBank 등) 보완
 - 유방암에서 Topotecan 단독 또는 표준 병용 요법의 전향적 임상 근거 (특히 뇌전이, BRCA 또는 MYC 구동 아형 등 선별 집단)
 - 우선순위 재검토: 난소암 계열 신규 적응증 후보와 비교
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

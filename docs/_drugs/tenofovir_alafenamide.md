@@ -56,7 +56,7 @@ Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이 허가된 뉴
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 tenofovir alafenamide는 tenofovir의 프로드럭으로, 활성 대사체(tenofovir diphosphate)가 역전사효소를 억제하는 뉴클레오타이드 유사체입니다. 이 약은 HIV 및 HBV 감염 치료에 사용됩니다.
+미국 FDA가 승인한 Tenofovir Alafenamide 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “테노포비르 알라페나미드는 B형 간염 바이러스에 대한 항바이러스제이다. […] 테노포비르 알라페나미드는 테노포비르(2'-데옥시아데노신 일인산 유사체)의 포스포아미데이트 전구약물이다. 지용성 세포 투과성 화합물인 테노포비르 알라페나미드는 수동 확산 및 간 흡수 수송체인 OATP1B1과 OATP1B3에 의해 일차 간세포 내로 들어간다.” 영어 원문: "Tenofovir alafenamide is an antiviral drug against the hepatitis B virus. […] Tenofovir alafenamide is a phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog). Tenofovir alafenamide as a lipophilic cell-permeant compound enters primary hepatocytes by passive diffusion and by the hepatic uptake transporters OATP1B1 and OATP1B3." ([DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2), 버전 2025-07-14; 확인일 2026-11-19). 알려진 정보에 따르면 tenofovir alafenamide는 tenofovir의 프로드럭으로, 활성 대사체(tenofovir diphosphate)가 역전사효소를 억제하는 뉴클레오타이드 유사체입니다. 이 약은 HIV 및 HBV 감염 치료에 사용됩니다.
 
 고양이 면역결핍 바이러스(FIV)는 HIV와 유사한 렌티바이러스로, 복제에 역전사효소를 이용합니다. 그래서 기전상 효과 가능성은 있습니다. 다만 이 데이터에는 FIV에 대한 임상시험이나 문헌이 없습니다.
 
@@ -86,6 +86,19 @@ TxGNN의 높은 점수는 HIV 관련 질환 노드와의 유사성을 반영했�
 - 상세한 약물 작용 기전(MOA) 데이터 보완
 - FIV에 대한 전임상 또는 수의학 연구 근거 탐색
 - 사람 대상 약물의 동물(고양이) 적용 가능성에 대한 별도의 수의학적·규제적 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

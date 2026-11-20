@@ -54,7 +54,7 @@ Lidocaine은 나트륨 채널 차단 작용을 가진 국소마취제로, 한국
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서를 위해 수집한 데이터에는 상세한 작용 기전 정보가 없습니다. 일반적으로 알려진 Lidocaine의 작용은 감각신경의 나트륨 채널 차단입니다. 이에 따라 눈 표면의 통증이나 자극 증상을 일시적으로 줄이는 효과를 기대해 볼 수 있습니다.
+미국 FDA가 승인한 Lidocaine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “리도카인염산염은 이완기 동안 심실의 전기 자극 역치를 증가시켜 항부정맥 효과를 나타낸다. 통상적인 치료 용량에서 리도카인염산염은 심근 수축력, 전신 동맥압 또는 절대 불응기에 변화를 일으키지 않는다.” 영어 원문: "Lidocaine hydrochloride exerts an antiarrhythmic effect by increasing the electrical stimulation threshold of the ventricle during diastole. In usual therapeutic doses, lidocaine hydrochloride produces no change in myocardial contractility, in systemic arterial pressure, or in absolute refractory period." ([DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0), 버전 2026-02-20; 확인일 2026-11-19). 일반적으로 알려진 Lidocaine의 작용은 감각신경의 나트륨 채널 차단입니다. 이에 따라 눈 표면의 통증이나 자극 증상을 일시적으로 줄이는 효과를 기대해 볼 수 있습니다.
 
 다만 이는 증상 완화 관점의 추정일 뿐, 각결막염의 원인을 치료한다는 근거는 아닙니다. 또한 국소마취제는 각막 상피의 회복을 방해할 수 있어 안전성 우려가 있습니다. 모델 점수가 매우 높더라도 이는 계산상의 예측이며, 이를 뒷받침하는 임상 자료는 현재 없습니다.
 
@@ -102,6 +102,19 @@ Lidocaine은 나트륨 채널 차단 작용을 가진 국소마취제로, 한국
 - 허가사항의 경고·금기 정보 확보
 - 안과용 제형 및 투여 경로의 적합성 검토
 - 각막 상피 치유에 미치는 영향에 대한 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

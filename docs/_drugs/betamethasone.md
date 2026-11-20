@@ -54,7 +54,7 @@ Betamethasone은 한국에서 시판 중인 글루코코르티코이드 계열 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 수집된 데이터에는 상세한 작용 기전(MOA) 정보가 없습니다. 다만 betamethasone은 강력한 항염증 작용을 가진 코르티코스테로이드 계열로 알려져 있습니다. 모낭 주위 염증이 병태의 일부인 질환에서는 염증 완화를 기대할 수 있습니다.
+미국 FDA가 승인한 Betamethasone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “코르티코스테로이드는 세포 신호전달, 면역 기능, 염증 및 단백질 조절에 관여하나, 건선에서 SERNIVO Spray의 정확한 작용기전은 알려져 있지 않다.” 영어 원문: "Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of SERNIVO Spray in psoriasis is unknown." ([DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66), 버전 2026-04-22; 확인일 2026-11-19). 다만 betamethasone은 강력한 항염증 작용을 가진 코르티코스테로이드 계열로 알려져 있습니다. 모낭 주위 염증이 병태의 일부인 질환에서는 염증 완화를 기대할 수 있습니다.
 
 점액성 탈모증(모낭 점액증)은 모낭 주위 염증과 점액 침착을 특징으로 합니다. 이 점에서 코르티코스테로이드가 염증을 줄일 가능성이 있습니다. 그러나 이 질환은 드물고 이질적이어서 특발성 형태와 림프종 연관 형태가 있습니다. 병형에 따라 치료 반응이 다를 수 있습니다.
 
@@ -104,6 +104,18 @@ Betamethasone은 한국에서 시판 중인 글루코코르티코이드 계열 �
 - 병형(특발성 대 림프종 연관)에 따른 치료 반응 자료
 - 허가사항 기반 경고·금기 정보
 - 상세한 작용 기전(MOA) 데이터
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

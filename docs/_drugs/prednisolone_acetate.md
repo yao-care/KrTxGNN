@@ -55,7 +55,7 @@ TxGNN 모델은 **만성 여포성 결막염(chronic follicular conjunctivitis)*
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 prednisolone acetate는 항염증 작용이 넓은 국소 글루코코르티코이드 계열이며, 한국에서 점안액 제형이 다수 허가되어 있습니다. 따라서 결막의 염증성 질환에서 이득이 있을 가능성은 기전상 그럴듯합니다.
+미국 FDA가 승인한 Prednisolone Acetate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “프레드니솔론은 주로 글루코코르티코이드 특성을 갖는 합성 부신피질 스테로이드 약물이다. 이러한 특성 중 일부는 내인성 글루코코르티코스테로이드의 생리적 작용을 재현하지만, 다른 일부는 부신 호르몬의 정상적인 기능을 반드시 반영하지는 않으며, 이 약물을 대량의 치료 용량으로 투여한 후에만 나타난다.” 영어 원문: "Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug." ([DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1), 버전 2025-06-03; 확인일 2026-11-19). 알려진 정보에 따르면 prednisolone acetate는 항염증 작용이 넓은 국소 글루코코르티코이드 계열이며, 한국에서 점안액 제형이 다수 허가되어 있습니다. 따라서 결막의 염증성 질환에서 이득이 있을 가능성은 기전상 그럴듯합니다.
 
 다만 여포성 결막염은 감염성 또는 독성 원인인 경우가 많습니다. 이 경우 코르티코스테로이드가 부적절하거나 해로울 수 있습니다. 또한 지식 그래프에는 이 약과 결막염, 눈 감염성 질환, 단순포진 각막염 사이에 금기 관계가 기록되어 있어 주의가 필요합니다.
 
@@ -111,6 +111,19 @@ TxGNN 모델은 **만성 여포성 결막염(chronic follicular conjunctivitis)*
 - 대상 질환의 원인(감염성·알레르기성) 구분 및 스테로이드 적합 환자군 정의
 - 봄철 결막염의 경우 단기 투여 프로토콜 설계와 안압 상승·백내장 위험 관리 계획
 - 대상 질환을 직접 평가하는 임상 연구 근거 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

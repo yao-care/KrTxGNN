@@ -55,7 +55,7 @@ TxGNN 모델은 **원숭이 면역결핍바이러스 감염(simian immunodeficie
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, dolutegravir는 HIV-1 인테그라제 가닥 전달 억제제(INSTI) 계열 약물로, 바이러스 DNA가 숙주 유전체에 삽입되는 과정을 차단합니다.
+미국 FDA가 승인한 Dolutegravir 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “돌루테그라비르는 HIV-1 항레트로바이러스제이다. […] 돌루테그라비르는 인테그라아제 활성 부위에 결합하여 HIV 복제 주기에 필수적인 레트로바이러스 DNA 통합의 가닥 전달 단계를 차단함으로써 HIV 인테그라아제를 억제한다. 정제된 HIV-1 인테그라아제와 전처리된 기질 DNA를 사용한 가닥 전달 생화학적 분석에서 IC 50 값은 2.7 nM 및 12.6 nM이었다.” 영어 원문: "Dolutegravir is an HIV-1 antiretroviral agent. […] Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral DNA integration which is essential for the HIV replication cycle. Strand transfer biochemical assays using purified HIV-1 integrase and pre-processed substrate DNA resulted in IC 50 values of 2.7 nM and 12.6 nM." ([DailyMed: Tivicay (dolutegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63df5af3-b8ac-4e76-9830-2dbb340af922), 버전 2026-08-25; 확인일 2026-11-19). 알려진 정보에 따르면, dolutegravir는 HIV-1 인테그라제 가닥 전달 억제제(INSTI) 계열 약물로, 바이러스 DNA가 숙주 유전체에 삽입되는 과정을 차단합니다.
 
 SIV 인테그라제는 HIV-1 인테그라제와 구조적으로 매우 유사하며, HIV/SIV intasome 구조 연구에서도 INSTI 결합 방식이 보존되어 있음이 확인되었습니다. 또한 붉은털원숭이 연구에서 dolutegravir가 SIV에 대해 활성을 보였고, 단독요법 시 내성 변이 패턴이 선택되는 것도 관찰되었습니다.
 
@@ -113,6 +113,19 @@ SIV 감염은 사람의 새로운 질환이 아니라 HIV의 동물 모델이며
 
 - **고양이 후천성 면역결핍 증후군(feline AIDS, 점수 0.9985)**: 문헌은 병용 항레트로바이러스 요법(dolutegravir 포함)을 FIV 감염 고양이에 적용한 수의학 연구 1편뿐이며, dolutegravir 단독 기여도는 불분명합니다. 수의학적 적응증이어서 인체 재창출 관련성이 낮으며 근거 수준은 L4, 권장 결정은 Hold입니다.
 - **운동실조 보행·언어 소실·피질 백질 감소를 동반한 신경발달장애(점수 0.9980)**: 임상시험과 문헌이 모두 없고, 인테그라제 억제와의 기전적 연관성도 확인되지 않았습니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 학습한 관련 질환 간 유사성을 반영한 것일 수 있으며 생물학적 근거는 아닙니다. 근거 수준은 L5, 권장 결정은 Hold이며, 표적·경로 검증 전에는 고려하지 않는 것이 좋습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tivicay (dolutegravir sodium) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63df5af3-b8ac-4e76-9830-2dbb340af922) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

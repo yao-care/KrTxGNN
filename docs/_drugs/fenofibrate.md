@@ -54,7 +54,7 @@ Fenofibrate는 한국에서 단일 성분 및 피타바스타틴과의 복합제
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 수집된 문헌에 따르면 fenofibrate는 PPARα 작용제로서 HDL 콜레스테롤을 높이고 중성지방과 LDL 콜레스테롤을 낮추며, 인지질 전이 단백질(PLTP) 유전자 발현을 유도합니다. PLTP 유도가 CETP 활성 부족을 일부 보완할 가능성이 이론적으로 제기됩니다.
+미국 FDA가 승인한 Fenofibrate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Antara의 활성 부분은 페노피브르산이다. 동물과 인간 모두에서 페노피브르산의 약리학적 효과는 페노피브레이트의 경구 투여를 통해 연구되었다. 임상에서 관찰되는 페노피브르산의 지질 조절 효과는 형질전환 마우스를 이용한 생체 내 연구와 인간 간세포 배양을 이용한 시험관 내 연구에서 PPAR 알파 수용체의 활성화로 설명되었다.” 영어 원문: "The active moiety of Antara is fenofibric acid. The pharmacological effects of fenofibric acid in both animals and humans have been studied through oral administration of fenofibrate. The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of PPAR alpha receptor." ([DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce), 버전 2025-10-01; 확인일 2026-11-19). 다만 수집된 문헌에 따르면 fenofibrate는 PPARα 작용제로서 HDL 콜레스테롤을 높이고 중성지방과 LDL 콜레스테롤을 낮추며, 인지질 전이 단백질(PLTP) 유전자 발현을 유도합니다. PLTP 유도가 CETP 활성 부족을 일부 보완할 가능성이 이론적으로 제기됩니다.
 
 그러나 약리학적 근거는 약합니다. CETP 결핍증은 HDL-C가 크게 상승하는 희귀 유전 질환으로, 흔히 양성 경과를 보이거나 장수와 연관되기도 하여 지질을 추가로 조절해야 할 임상적 필요가 분명하지 않습니다. 높은 예측 점수(0.9961)는 검증된 치료 기회보다는 지질 대사 유전자와 PPARα/CETP 경로 사이의 네트워크 근접성을 반영했을 가능성이 큽니다.
 
@@ -103,6 +103,19 @@ Fenofibrate는 한국에서 단일 성분 및 피타바스타틴과의 복합제
 - 상세한 작용 기전 데이터 (DrugBank 조회)
 - 허가사항(경고·금기·적응증)의 원문 확보 및 분석 (MFDS 허가 문서)
 - 전체 허가증 목록과 시판 상태(취소 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

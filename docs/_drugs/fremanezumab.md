@@ -55,7 +55,7 @@ TxGNN 모델은 **위축성 벌레먹은 모양 피부위축증(atrophoderma ver
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Fremanezumab은 CGRP(칼시토닌 유전자 관련 펩타이드) 신호를 표적으로 하는 항체 계열 약물로 알려져 있으나, 이번에 수집된 데이터에서는 기전 정보를 확인할 수 없었습니다.
+미국 FDA가 승인한 Fremanezumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “프레마네주맙-vfrm은 칼시토닌 유전자 관련 펩티드 (CGRP) 리간드에 결합하여 CGRP가 수용체에 결합하는 것을 차단하는 인간화 단일클론항체이다.” 영어 원문: "Fremanezumab-vfrm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor." ([DailyMed: Ajovy (fremanezumab-vfrm) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b), 버전 2026-06-05; 확인일 2026-11-19). Fremanezumab은 CGRP(칼시토닌 유전자 관련 펩타이드) 신호를 표적으로 하는 항체 계열 약물로 알려져 있으나, 이번에 수집된 데이터에서는 기전 정보를 확인할 수 없었습니다.
 
 위축성 벌레먹은 모양 피부위축증은 모낭 주위에 위축성 변화가 나타나는 희귀 피부질환이며, CGRP 신호와의 연관성은 확립되어 있지 않습니다. 제공된 데이터에서는 두 질환 사이의 기전적 연결고리를 뒷받침하는 근거를 찾을 수 없습니다.
 
@@ -84,6 +84,19 @@ TxGNN 점수(0.9904)는 모델의 예측값일 뿐이며, 네트워크상의 통
 - 작용 기전(MOA) 데이터 확보
 - CGRP와 모낭·진피 위축 관련 체계적 문헌 검토
 - 위축성 벌레먹은 모양 피부위축증을 직접 다룬 전임상 또는 임상 연구 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ajovy (fremanezumab-vfrm) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e344ea-5916-4947-b6f2-4a76ccc04b6b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **위십이지장염(gastroduodenitis)**에 효과가 있을 수
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 데이터에 없습니다. 다만 수집된 문헌에 따르면 metoclopramide는 도파민 D2 길항, 5-HT4 작용, 콜린성 전달 강화를 통해 위-십이지장 협응과 위 배출을 개선하는 위장관 운동 촉진제로 알려져 있습니다.
+미국 FDA가 승인한 Metoclopramide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “메토클로프라미드는 위, 담즙 또는 췌장 분비를 자극하지 않으면서 상부 위장관의 운동성을 자극한다. 위식도 역류 및 급성 및 재발성 당뇨병성 위마비의 치료에서 메토클로프라미드의 정확한 작용 기전은 완전히 확립되지 않았다.” 영어 원문: "Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary, or pancreatic secretions. The exact mechanism of action of metoclopramide in the treatment of gastroesophageal reflux and acute and recurrent diabetic gastroparesis has not been fully established." ([DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397), 버전 2026-02-09; 확인일 2026-11-19). 다만 수집된 문헌에 따르면 metoclopramide는 도파민 D2 길항, 5-HT4 작용, 콜린성 전달 강화를 통해 위-십이지장 협응과 위 배출을 개선하는 위장관 운동 촉진제로 알려져 있습니다.
 
 위십이지장염에는 운동 장애와 오심·구토가 동반될 수 있어, 이러한 증상 완화 측면에서 기전상 연관성을 생각해 볼 수 있습니다. 다만 이는 항염증 효과가 아니라 증상 완화 목적의 가설입니다.
 
@@ -106,6 +106,19 @@ TxGNN 모델은 **위십이지장염(gastroduodenitis)**에 효과가 있을 수
 - 허가사항(경고·금기) 확보 및 안전성 검토
 - 상세한 작용 기전(MOA) 데이터 보충
 - 한국 허가 적응증 텍스트 및 시판 상태 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

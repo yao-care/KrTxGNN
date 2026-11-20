@@ -56,7 +56,7 @@ TxGNN 모델은 **외음질 칸디다증(vulvovaginal candidiasis)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-Letermovir는 CMV의 터미나제 복합체(pUL56/pUL51/pUL89)를 억제하는 CMV 특이적 항바이러스제입니다. 상세한 작용 기전 데이터는 현재 이 보고서에 포함되어 있지 않아, 위 설명은 알려진 약리 정보에 근거합니다.
+Letermovir는 CMV의 터미나제 복합체(pUL56/pUL51/pUL89)를 억제하는 CMV 특이적 항바이러스제입니다. 미국 FDA가 승인한 Letermovir 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “PREVYMIS는 CMV에 대한 항바이러스제이다. […] Letermovir는 바이러스 DNA의 처리 및 패키징에 필요한 CMV DNA terminase 복합체(pUL51, pUL56 및 pUL89)를 억제한다. 생화학적 특성 분석 및 전자현미경 검사 결과, letermovir는 적절한 단위 길이 유전체의 생성에 영향을 미치고 비리온 성숙을 방해하는 것으로 입증되었다.” 영어 원문: "PREVYMIS is an antiviral drug against CMV. […] Letermovir inhibits the CMV DNA terminase complex (pUL51, pUL56, and pUL89) which is required for viral DNA processing and packaging. Biochemical characterization and electron microscopy demonstrated that letermovir affects the production of proper unit length genomes and interferes with virion maturation." ([DailyMed: Prevymis (letermovir) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b49df80-be4f-47e0-a0b7-123f3e69395b), 버전 2026-01-14; 확인일 2026-11-19).
 
 외음질 칸디다증은 *Candida* 종(주로 *C. albicans*)이 일으키는 진균 감염입니다. 진균에는 CMV 터미나제와 상동인 구조가 없어, Letermovir가 직접 항진균 작용을 할 만한 기전은 확인되지 않습니다.
 
@@ -93,6 +93,19 @@ Letermovir는 CMV의 터미나제 복합체(pUL56/pUL51/pUL89)를 억제하는 C
 - 상세한 작용 기전(MOA) 데이터
 - 경로 적합성(투여 경로) 및 기존 적응증과의 유사성 평가
 - 위 데이터가 확보되기 전에는 추가 임상 개발 투자를 보류할 것을 권고
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Prevymis (letermovir) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1b49df80-be4f-47e0-a0b7-123f3e69395b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

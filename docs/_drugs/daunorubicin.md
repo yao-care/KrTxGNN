@@ -57,7 +57,7 @@ TxGNN 모델은 **호지킨 림프종(Hodgkin's lymphoma)**에 효과가 있을 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 daunorubicin은 DNA에 삽입(intercalation)되고 topoisomerase II를 억제하는 안트라사이클린으로 알려져 있습니다. 이 기전은 호지킨 림프종의 표준 요법인 ABVD에 포함된 doxorubicin과 같은 계열의 것입니다.
+미국 FDA가 승인한 Daunorubicin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “다우노루비신은 제안된 여러 작용기전을 통해 항유사분열 및 세포독성 활성을 나타낸다. 다우노루비신은 염기쌍 사이에 삽입되어 DNA와 복합체를 형성한다. 다우노루비신은 DNA-topoisomerase II 복합체를 안정화하여 topoisomerase II가 촉매하는 결찰-재결찰 반응 중 재결찰 단계를 저해함으로써 topoisomerase II 활성을 억제한다.” 영어 원문: "Daunorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action. Daunorubicin forms complexes with DNA by intercalation between base pairs. It inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes." ([DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f), 버전 2025-05-21; 확인일 2026-11-19). 일반적으로 daunorubicin은 DNA에 삽입(intercalation)되고 topoisomerase II를 억제하는 안트라사이클린으로 알려져 있습니다. 이 기전은 호지킨 림프종의 표준 요법인 ABVD에 포함된 doxorubicin과 같은 계열의 것입니다.
 
 따라서 기전상 호지킨 림프종에 적용될 가능성은 있습니다. 그러나 이는 계열 수준의 추론입니다. 제공된 임상시험과 문헌에서 daunorubicin 자체의 호지킨 림프종 효능은 확인되지 않았습니다.
 
@@ -125,6 +125,19 @@ TxGNN 모델은 **호지킨 림프종(Hodgkin's lymphoma)**에 효과가 있을 
 - 호지킨 림프종에서 daunorubicin을 직접 평가한 임상시험 또는 문헌 탐색
 - NCT00002471의 대상 집단과 daunorubicin 포함 여부 확인
 - 한국 시판 및 허가 유지 여부 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: daunorubicin hydrochloride prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ff6b9bd4-8a9f-400f-a0b9-70e25fa8a28f) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

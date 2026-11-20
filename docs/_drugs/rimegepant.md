@@ -55,7 +55,7 @@ Rimegepant는 CGRP 수용체 길항제로, 원래 성인의 편두통 치료에 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이번 자료에 포함되어 있지 않습니다. 다만 문헌에 따르면 rimegepant는 CGRP(칼시토닌 유전자 관련 펩타이드) 수용체 길항제로, 조짐 유무와 관계없는 편두통의 급성 치료와 일화성 편두통의 예방 치료에 승인된 약물입니다.
+미국 FDA가 승인한 Rimegepant 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “리메지판트는 칼시토닌 유전자 관련 펩티드 수용체 길항제이다.” 영어 원문: "Rimegepant is a calcitonin gene-related peptide receptor antagonist." ([DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d), 버전 2026-06-04; 확인일 2026-11-19). 다만 문헌에 따르면 rimegepant는 CGRP(칼시토닌 유전자 관련 펩타이드) 수용체 길항제로, 조짐 유무와 관계없는 편두통의 급성 치료와 일화성 편두통의 예방 치료에 승인된 약물입니다.
 
 뇌줄기 조짐을 동반한 편두통은 편두통의 한 아형으로, 삼차신경혈관계와 CGRP가 매개하는 병태생리를 공유합니다. 따라서 기전상 연관성은 강하다고 볼 수 있습니다.
 
@@ -114,6 +114,19 @@ Rimegepant는 CGRP 수용체 길항제로, 원래 성인의 편두통 치료에 
 - 뇌줄기 조짐 편두통 환자를 대상으로 한 아형별 효과 근거
 - 조짐 아형에서의 혈관 안전성 평가
 - 주요 병용약(CYP3A4 관련 약물 등)에 대한 상호작용 관리 방안
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nurtec Odt (rimegepant sulfate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ef08e09-1098-35cc-e053-2a95a90a3e1d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

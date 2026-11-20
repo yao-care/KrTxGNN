@@ -56,7 +56,7 @@ TxGNN 모델은 **불면증(insomnia (disease))**에 효과가 있을 수 있다
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이번 보고서용 자료에 없습니다. 다만 문헌에 따르면 diazepam은 GABA-A 수용체의 벤조디아제핀 결합 부위에 작용하는 양성 알로스테릭 조절제로, 억제성 신경전달을 강화해 진정·수면 유도 효과를 냅니다.
+미국 FDA가 승인한 Diazepam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “허가된 적응증에 대한 디아제팜의 작용기전은 GABA A 수용체의 벤조디아제핀 결합 부위에 결합함으로써 억제성 신경전달물질인 감마 아미노부티르산(GABA)의 작용을 증강시키는 것과 관련된 것으로 생각된다.” 영어 원문: "The mechanism of action of diazepam for the listed indications is thought to involve potentiation of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter, resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6), 버전 2026-10-06; 확인일 2026-11-19). 다만 문헌에 따르면 diazepam은 GABA-A 수용체의 벤조디아제핀 결합 부위에 작용하는 양성 알로스테릭 조절제로, 억제성 신경전달을 강화해 진정·수면 유도 효과를 냅니다.
 
 이는 수면 유도에 잘 알려진 기전이며, 벤조디아제핀계 약물은 단기 불면증에 임상적으로 사용되어 왔습니다. 따라서 이번 예측은 전혀 새로운 재창출이라기보다 기존 임상 사용에 가까운 방향입니다.
 
@@ -107,6 +107,18 @@ TxGNN 모델은 **불면증(insomnia (disease))**에 효과가 있을 수 있다
 - 작용 기전(MOA) 데이터 보완
 - 위약 대조 임상시험 등 직접 근거 확보
 - 단기 사용 원칙, 노인 대상 주의, 의존성 및 병용약물(특히 아편계) 모니터링 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Valium (diazepam) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=260e2041-2bb3-482f-850e-b5d47a7bdbe6) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

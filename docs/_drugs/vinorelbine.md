@@ -54,7 +54,7 @@ Vinorelbine은 빈카 알칼로이드 계열의 항암제로, 한국에서는 �
 
 ## 이 예측이 타당한 이유는?
 
-데이터베이스에 등록된 상세 작용 기전 자료는 없습니다. 다만 vinorelbine은 튜불린에 결합하여 미세소관 조립을 방해하고, 유사분열 정지와 세포자멸사를 일으키는 빈카 알칼로이드 계열 약물로 알려져 있습니다. 이 기전은 빠르게 분열하는 종양 세포 전반에 적용될 수 있습니다.
+미국 FDA가 승인한 Vinorelbine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Vinorelbine은 미세소관 조립을 방해하는 빈카 알칼로이드이다. Vinorelbine의 항종양 활성은 주로 튜불린과의 상호작용을 통해 중기(metaphase)에서 유사분열을 억제하는 데 기인하는 것으로 생각된다. Vinorelbine은 또한 다음을 방해할 수 있다: 1) 아미노산, cyclic AMP 및 글루타티온 대사, 2) 칼모듈린 의존성 Ca++-수송 ATPase 활성, 3) 세포 호흡, 4) 핵산 및 지질 생합성.” 영어 원문: "Vinorelbine is a vinca alkaloid that interferes with microtubule assembly. The antitumor activity of vinorelbine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinorelbine may also interfere with: 1) amino acid, cyclic AMP and glutathione metabolism, 2) calmodulin-dependent Ca++-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis." ([DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397), 버전 2024-08-16; 확인일 2026-11-19). 다만 vinorelbine은 튜불린에 결합하여 미세소관 조립을 방해하고, 유사분열 정지와 세포자멸사를 일으키는 빈카 알칼로이드 계열 약물로 알려져 있습니다. 이 기전은 빠르게 분열하는 종양 세포 전반에 적용될 수 있습니다.
 
 Ewing 육종은 재발률이 높은 악성 골종양으로, 특히 다발성 전이 질환에서 재발이 많습니다. 저용량 지속(메트로노믹) cyclophosphamide와 vinorelbine을 병용하면 재발·불응성 소아 육종에서 활성을 보인다는 보고가 있습니다. 전임상 연구에서는 미세소관 방해 약물과 PLK1 억제제 사이의 상승 효과도 관찰되었습니다. 또한 2026년 문헌은 vinorelbine과 저용량 cyclophosphamide를 국제 INTER-EWING-1 임상시험의 유지요법 후보로 검토한 근거를 다룹니다.
 
@@ -115,6 +115,19 @@ Ewing 육종은 TxGNN 예측 후보 중 소아 육종에서의 Phase 2 근거(vi
 - 상세 작용 기전(MOA) 데이터 보완
 - Ewing 육종 환자를 대상으로 한 vinorelbine 병용요법의 결과 확인 (NCT00180947 결과, INTER-EWING-1 시험 진행 상황 모니터링)
 - 소아 대상 용량, 골수억제 모니터링 및 약물 상호작용(특히 CYP3A4 관련 병용약) 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

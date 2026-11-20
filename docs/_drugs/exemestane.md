@@ -54,7 +54,7 @@ Exemestane은 스테로이드성 비가역적 아로마타제 억제제로, 한�
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 약의 상세 작용 기전 데이터는 데이터베이스에 없습니다. 다만 일반적으로 알려진 바에 따르면 Exemestane은 에스트로겐 합성 효소인 아로마타제를 비가역적으로 억제하여 체내 에스트로겐 수치를 낮추는 약물입니다.
+미국 FDA가 승인한 Exemestane 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “유방암 세포의 성장은 에스트로겐 의존적일 수 있다. 아로마타제는 폐경 전 및 폐경 후 여성 모두에서 안드로겐을 에스트로겐으로 전환하는 주요 효소이다. […] 엑스메스탄은 비가역적인 스테로이드성 아로마타제 불활성화제로, 천연 기질인 안드로스텐디온과 구조적으로 유사하다.” 영어 원문: "Breast cancer cell growth may be estrogen-dependent. Aromatase is the principal enzyme that converts androgens to estrogens both in pre- and postmenopausal women. […] Exemestane is an irreversible, steroidal aromatase inactivator, structurally related to the natural substrate androstenedione." ([DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3), 버전 2025-12-24; 확인일 2026-11-19). 다만 일반적으로 알려진 바에 따르면 Exemestane은 에스트로겐 합성 효소인 아로마타제를 비가역적으로 억제하여 체내 에스트로겐 수치를 낮추는 약물입니다.
 
 항트롬빈 결핍증 2형은 SERPINC1 유전자 결함으로 항트롬빈 단백질의 기능이 떨어지는 유전성 질환입니다. 에스트로겐 조절이 응고 인자에 전반적인 영향을 줄 수는 있으나, 유전적 항트롬빈 결함을 치료할 기전적 근거로 보기는 어렵습니다. 따라서 **뚜렷한 기전적 연결고리는 확인되지 않았으며**, 높은 점수(0.9983)는 계산상의 예측일 뿐입니다.
 
@@ -116,6 +116,19 @@ Exemestane은 스테로이드성 비가역적 아로마타제 억제제로, 한�
 - DrugBank 등에서 상세 작용 기전(MOA) 확보
 - 항트롬빈 결핍증 및 혈전 관련 질환에 대한 전임상·기전 연구 또는 문헌의 별도 검색
 - 순위가 높은 예측들이 서로 상관된 묶음인지 검증하고, 임상적으로 의미 있는 후보를 재선별
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Aromasin (exemestane) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cf066b7a-032a-416c-8d40-15ba581423e3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

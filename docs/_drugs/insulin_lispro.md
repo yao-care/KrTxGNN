@@ -56,7 +56,7 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Insulin lispro는 인슐린 수용체에 작용해 혈당을 낮추는 속효성 인슐린 유사체이며, 당뇨병에서의 효능이 확립되어 있습니다.
+미국 FDA가 승인한 Insulin Lispro 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “포도당 대사의 조절은 인슐린 리스프로 제품을 포함한 인슐린 및 인슐린 유사체의 주된 작용이다. 인슐린은 골격근과 지방에서 말초 포도당 흡수를 촉진하고 간의 포도당 생성을 억제함으로써 혈당을 낮춘다.” 영어 원문: "Regulation of glucose metabolism is the primary activity of insulins and insulin analogs, including insulin lispro products. Insulins lower blood glucose by stimulating peripheral glucose uptake by skeletal muscle and fat, and by inhibiting hepatic glucose production." ([DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0), 버전 2026-09-03; 확인일 2026-11-19). 알려진 정보에 따르면, Insulin lispro는 인슐린 수용체에 작용해 혈당을 낮추는 속효성 인슐린 유사체이며, 당뇨병에서의 효능이 확립되어 있습니다.
 
 자가면역성 난소염은 면역 매개성 난소 질환으로, 제1형 당뇨병이 포함된 자가면역 다내분비 증후군과 함께 나타나는 경우가 많습니다. 높은 TxGNN 점수는 이러한 자가면역·내분비 연관성에 따른 네트워크상의 근접성을 반영한 것으로 보입니다. 치료 기전이 확인된 것은 아닙니다.
 
@@ -117,6 +117,18 @@ TxGNN 모델은 **자가면역성 난소염(autoimmune oophoritis)**에 효과�
 | 7 | 췌장 무형성증 | 0.9909 | L5 | 인슐린 보충은 표준 치료이나 인슐린 계열의 기존 용도이며, 확보된 문헌 1편(2형 당뇨병 인슐린 치료 리뷰, 2002)은 간접적으로만 관련됩니다. |
 | 8 | 원심성 지방이영양증 | 0.9904 | L5 | 인슐린 치료와의 연관성이 확립되지 않았습니다. |
 | 9 | 압박 유발 국소 지방위축증 | 0.9903 | L5 | 인슐린 주사 부위 지방위축과의 연관성으로 인한 모델상의 착시일 가능성이 있습니다. |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Admelog (insulin lispro) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12ec9e3f-e2ac-43a1-b334-8b6538cf2bb0) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

@@ -56,7 +56,7 @@ TxGNN 모델은 **편집성 인격장애(Paranoid Personality Disorder)**에 효
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 Fluoxetine은 세로토닌 재흡수를 억제하는 약물(SSRI)로 알려져 있습니다. 세로토닌 조절이 충동성, 불안, 동반 우울 증상에 영향을 줄 가능성은 있습니다.
+미국 FDA가 승인한 Fluoxetine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “PROZAC의 정확한 작용기전은 알려져 있지 않으나, CNS 신경세포의 세로토닌 재흡수 억제와 관련이 있는 것으로 추정된다.” 영어 원문: "Although the exact mechanism of PROZAC is unknown, it is presumed to be linked to its inhibition of CNS neuronal uptake of serotonin." ([DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299), 버전 2026-01-08; 확인일 2026-11-19). 일반적으로 Fluoxetine은 세로토닌 재흡수를 억제하는 약물(SSRI)로 알려져 있습니다. 세로토닌 조절이 충동성, 불안, 동반 우울 증상에 영향을 줄 가능성은 있습니다.
 
 그러나 편집성 인격장애 같은 A군(Cluster A) 인격장애의 핵심 증상이 SSRI의 확립된 치료 표적이라는 근거는 이번 데이터에서 확인되지 않습니다. 수집된 문헌은 대부분 경계성 인격장애, 동반 우울증, 기타 질환을 다루고 있습니다. A군 인격장애 약물치료 리뷰(PMID 29955451)도 Fluoxetine의 편집성 인격장애 효능을 입증하지는 않습니다.
 
@@ -109,6 +109,19 @@ TxGNN 예측 점수는 매우 높지만, 편집성 인격장애에서 Fluoxetine
 - 허가사항 PDF에서 기존 적응증, 경고, 금기 정보 확보 (현재 안전성 검토를 진행할 수 없는 상태)
 - 작용 기전(MOA) 데이터 확보 (DrugBank 조회 등)
 - 편집성 인격장애에서 Fluoxetine을 평가한 임상 연구 또는 체계적 문헌고찰 탐색
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Prozac (fluoxetine hydrochloride) prescribing information, Dista Products Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

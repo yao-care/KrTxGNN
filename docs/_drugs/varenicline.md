@@ -56,7 +56,7 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 이번 자료에는 없습니다. 다만 일반적으로 varenicline은 α4β2 니코틴성 아세틸콜린 수용체의 부분 작용제이며 α7 수용체에서는 완전 작용제로 알려져 있습니다. 니코틴성 콜린 신호가 삼차신경혈관 경로와 중추 통증 처리에 영향을 줄 가능성은 이론적으로 가능합니다.
+미국 FDA가 승인한 Varenicline 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Varenicline은 α4β2 신경세포 니코틴성 아세틸콜린 수용체에 높은 친화도와 선택성으로 결합한다. 금연에 대한 CHANTIX의 효능은 니코틴 수용체의 α4β2 아형에서의 varenicline 활성에 기인하는 것으로 여겨지며, varenicline은 이 수용체에 결합하여 작용제 활성을 나타내는 동시에 니코틴이 이 수용체에 결합하는 것을 막는다.” 영어 원문: "Varenicline binds with high affinity and selectivity at α4β2 neuronal nicotinic acetylcholine receptors. The efficacy of CHANTIX in smoking cessation is believed to be the result of varenicline's activity at α4β2 sub-type of the nicotinic receptor where its binding produces agonist activity, while simultaneously preventing nicotine binding to these receptors." ([DailyMed: Chantix (varenicline tartrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0ff4f27-5185-4881-a749-c6b7a0ca5696), 버전 2026-01-23; 확인일 2026-11-19). 다만 일반적으로 varenicline은 α4β2 니코틴성 아세틸콜린 수용체의 부분 작용제이며 α7 수용체에서는 완전 작용제로 알려져 있습니다. 니코틴성 콜린 신호가 삼차신경혈관 경로와 중추 통증 처리에 영향을 줄 가능성은 이론적으로 가능합니다.
 
 그러나 varenicline이 편두통에 효과가 있다는 직접 근거는 없습니다. 오히려 두통은 varenicline의 흔한 이상반응으로 보고되어 있어 이득 가능성에 불리한 정보입니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 산출한 계산상 예측이며, 관련 질환 간에 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -98,6 +98,19 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 - 편두통에서의 전임상 또는 기전 연구 근거
 - 두통 이상반응 위험과 이득의 비교 평가
 - 정신과 질환 및 심혈관 질환 환자에 대한 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Chantix (varenicline tartrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0ff4f27-5185-4881-a749-c6b7a0ca5696) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

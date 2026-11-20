@@ -55,7 +55,7 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍(heparin cofactor 2 deficiency)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Alteplase는 혈전을 용해하는 약물로, 급성 혈전성 사건 치료에 쓰입니다.
+미국 FDA가 승인한 Alteplase 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “알테플라제는 피브린 존재 시 증강되는 플라스미노겐의 플라스민 전환 특성을 갖는 효소(세린 프로테아제)이다. 피브린이 없는 경우에는 플라스미노겐을 제한적으로만 전환시킨다. 알테플라제는 혈전 내 피브린에 결합하여 포획된 플라스미노겐을 플라스민으로 전환시키며, 이로써 국소 섬유소용해를 개시한다.” 영어 원문: "Alteplase is an enzyme (serine protease) that has the property of fibrin-enhanced conversion of plasminogen to plasmin. It produces limited conversion of plasminogen in the absence of fibrin. Alteplase binds to fibrin in a thrombus and converts the entrapped plasminogen to plasmin, thereby initiating local fibrinolysis." ([DailyMed: Cathflo Activase (alteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9), 버전 2026-01-20; 확인일 2026-11-19). 알려진 정보에 따르면 Alteplase는 혈전을 용해하는 약물로, 급성 혈전성 사건 치료에 쓰입니다.
 
 헤파린 보조인자 2 결핍은 유전성 혈전 소인(thrombophilia)의 하나입니다. 환자에게 급성 혈전증이 생기면 이론상 Alteplase로 혈전을 녹일 수 있습니다.
 
@@ -94,6 +94,19 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍(heparin cofactor 2 deficiency)
 - 헤파린 보조인자 2 결핍 환자에서 Alteplase를 사용한 임상 근거 확보
 - 상세한 약물 작용 기전(MOA) 데이터
 - 허가사항(경고·금기) 확인 및 출혈 위험 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cathflo Activase (alteplase) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91ecdef2-95ff-42dd-a31c-c8a09cab3ad9) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

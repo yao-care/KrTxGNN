@@ -56,7 +56,7 @@ TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Fam
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Darolutamide는 비스테로이드성 안드로겐 수용체 길항제이며, 전립선암 치료 영역에서 사용되는 약물입니다.
+미국 FDA가 승인한 Darolutamide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “다로루타마이드는 안드로겐 수용체(AR) 억제제이다. 다로루타마이드는 안드로겐 결합, AR 핵 내 이동 및 AR 매개 전사를 경쟁적으로 억제한다. 주요 대사체인 케토다로루타마이드는 시험관 내에서 다로루타마이드와 유사한 활성을 나타냈다.” 영어 원문: "Darolutamide is an androgen receptor (AR) inhibitor. Darolutamide competitively inhibits androgen binding, AR nuclear translocation, and AR-mediated transcription. A major metabolite, ketodarolutamide, exhibited similar in vitro activity to darolutamide." ([DailyMed: Nubeqa (darolutamide) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a7cb212-56e4-4b9d-a73d-bfee7fe4735e), 버전 2026-09-28; 확인일 2026-11-19). 알려진 정보에 따르면 Darolutamide는 비스테로이드성 안드로겐 수용체 길항제이며, 전립선암 치료 영역에서 사용되는 약물입니다.
 
 반면 동형접합 가족성 고콜레스테롤혈증은 LDL 수용체 경로의 결함으로 발생하는 유전성 질환입니다. 안드로겐 수용체 차단과 이 질환의 병태생리 사이에서 타당한 기전적 연결고리는 확인되지 않았습니다.
 
@@ -111,6 +111,18 @@ TxGNN 모델은 **동형접합 가족성 고콜레스테롤혈증(Homozygous Fam
 |-----|-----------|------|---------|------|
 | 2 | 다발성 내분비 종양 (Multiple Endocrine Neoplasia) | 0.9906 | L5 | 연결된 임상시험 2건은 전립선암 대상이며 MEN과 직접 관련 없음 |
 | 3 | HIV 감염 | 0.9904 | L5 | 항바이러스 기전 없음 |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nubeqa (darolutamide) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a7cb212-56e4-4b9d-a73d-bfee7fe4735e) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

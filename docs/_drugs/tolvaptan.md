@@ -54,7 +54,7 @@ Tolvaptan은 선택적 바소프레신 V2 수용체 길항제로, 한국에서 4
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 문헌에 따르면 Tolvaptan은 선택적 바소프레신 V2 수용체 길항제입니다. 다낭신질환에서는 cAMP 신호가 높아져 낭종액 분비와 낭종 세포 증식이 촉진되는데, V2 수용체를 차단하면 신장 집합관 세포의 cAMP가 감소하여 낭종 성장과 eGFR 저하가 늦춰집니다.
+미국 FDA가 승인한 Tolvaptan 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “톨밥탄은 선택적 바소프레신 V 2 -수용체 길항제로, V 2 -수용체에 대한 친화도가 천연 아르기닌 바소프레신(AVP)의 1.8배이다. V 2 -수용체에 대한 톨밥탄의 친화도는 V 1a -수용체에 대한 친화도의 29배이다.” 영어 원문: "Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor." ([DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4), 버전 2026-09-30; 확인일 2026-11-19). 다만 문헌에 따르면 Tolvaptan은 선택적 바소프레신 V2 수용체 길항제입니다. 다낭신질환에서는 cAMP 신호가 높아져 낭종액 분비와 낭종 세포 증식이 촉진되는데, V2 수용체를 차단하면 신장 집합관 세포의 cAMP가 감소하여 낭종 성장과 eGFR 저하가 늦춰집니다.
 
 PKD3(GANAB 관련 형태)는 ADPKD와 동일한 낭종 형성 경로를 공유합니다. 따라서 기전상 적용 가능성이 있습니다.
 
@@ -116,6 +116,19 @@ ADPKD에서 Tolvaptan의 효능을 입증한 Phase 3 RCT 2건(TEMPO 3:4, REPRISE
 **참고: 기타 예측 적응증**
 - 신장-간-췌장 이형성증, 핵거대 간질성 신염, 흉곽 기형 등 나머지 예측은 근거 수준이 L4~L5로, 임상시험이 없거나 간접 근거뿐이어서 현재 보류(Hold) 권고입니다.
 - 주베르 증후군(신장 결손 동반)은 섬모병증으로서 cAMP 신호 이상이 PKD와 공통되나, 직접 근거가 없어 전임상 연구가 우선 필요한 연구 과제 수준입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

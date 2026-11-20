@@ -21,11 +21,12 @@
   "items_current": 2089
  },
  "reviews": {
-  "records": 97,
-  "pages": 76,
-  "public_pages_with_records": 48,
+  "records": 534,
+  "pages": 485,
+  "public_pages_with_records": 457,
   "by_action": {
-   "correct": 97
+   "correct": 97,
+   "mechanism": 437
   }
  },
  "fhir": {
@@ -39,7 +40,7 @@
    "l": "L5",
    "lt": 20,
    "lv": 20,
-   "r": 0,
+   "r": 1,
    "i": "삼차신경 종양"
   },
   {
@@ -48,7 +49,7 @@
    "l": "L2",
    "lt": 20,
    "lv": 20,
-   "r": 0,
+   "r": 1,
    "i": "chronic hepatitis B virus infection"
   },
   {
@@ -57,7 +58,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 0,
+   "r": 1,
    "i": "단지증-합지증 증후군"
   },
   {
@@ -66,7 +67,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 0,
+   "r": 1,
    "i": "renal hypodysplasia/aplasia"
   },
   {
@@ -75,7 +76,7 @@
    "l": "L5",
    "lt": 20,
    "lv": 19,
-   "r": 1,
+   "r": 2,
    "i": "흉막 선양종양"
   },
   {
@@ -84,7 +85,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 0,
+   "r": 1,
    "i": "베타-케토티올라제 결핍증"
   },
   {
@@ -122,7 +123,7 @@
    "l": "L5",
    "lt": 2,
    "lv": 0,
-   "r": 0,
+   "r": 1,
    "i": "cervical neuroblastoma"
   },
   {
@@ -131,12 +132,21 @@
    "l": "L5",
    "lt": 3,
    "lv": 0,
-   "r": 2,
+   "r": 3,
    "i": "nephrogenic syndrome of inappropriate antidiuresis"
   }
  ],
  "no_current_more": 0,
  "most_reviewed": [
+  {
+   "t": "Amantadine Sulfate",
+   "u": "/drugs/amantadine-sulfate/",
+   "l": "L5",
+   "lt": 3,
+   "lv": 2,
+   "r": 3,
+   "i": "라스무센 아급성 뇌염"
+  },
   {
    "t": "Ambroxol Hydrochloride",
    "u": "/drugs/ambroxol-hydrochloride/",
@@ -156,30 +166,12 @@
    "i": "악성 고혈압성 신질환"
   },
   {
-   "t": "Alfuzosin Hydrochloride",
-   "u": "/drugs/alfuzosin-hydrochloride/",
-   "l": "L5",
-   "lt": 19,
-   "lv": 16,
-   "r": 2,
-   "i": "암브라스형 범발성 선천성 다모증"
-  },
-  {
-   "t": "Amantadine Sulfate",
-   "u": "/drugs/amantadine-sulfate/",
-   "l": "L5",
-   "lt": 3,
-   "lv": 2,
-   "r": 2,
-   "i": "라스무센 아급성 뇌염"
-  },
-  {
    "t": "Cycloserine",
    "u": "/drugs/cycloserine/",
    "l": "L5",
    "lt": 7,
    "lv": 6,
-   "r": 2,
+   "r": 3,
    "i": "과민성 장 증후군"
   },
   {
@@ -188,8 +180,17 @@
    "l": "L5",
    "lt": 3,
    "lv": 0,
-   "r": 2,
+   "r": 3,
    "i": "nephrogenic syndrome of inappropriate antidiuresis"
+  },
+  {
+   "t": "Ropinirole Hydrochloride",
+   "u": "/drugs/ropinirole-hydrochloride/",
+   "l": "L3",
+   "lt": 0,
+   "lv": 20,
+   "r": 3,
+   "i": "주의력결핍 과잉행동장애"
   }
  ],
  "example": {

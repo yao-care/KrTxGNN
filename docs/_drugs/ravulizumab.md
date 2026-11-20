@@ -56,7 +56,7 @@ TxGNN 모델은 **G6PC3 결핍에 의한 상염색체 열성 중증 선천성 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ravulizumab은 C5 보체를 억제하는 장기 지속형 약물로, 보체 매개 질환에서 말단 보체 경로를 차단합니다.
+미국 FDA가 승인한 Ravulizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “라불리주맙-cwvz는 보체 단백질 C5에 높은 친화도로 특이적으로 결합하여 C5가 C5a(전염증성 아나필라톡신) 및 C5b(막공격복합체[MAC 또는 C5b-9]의 개시 소단위)로 절단되는 것을 억제함으로써 MAC 형성을 방지하는 말단 보체 억제제이다. ULTOMIRIS는 PNH 환자에서 말단 보체 매개 혈관내 용혈을, aHUS 환자에서 보체 매개 혈전성 미세혈관병증(TMA)을 억제한다.” 영어 원문: "Ravulizumab-cwvz is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a (the proinflammatory anaphylatoxin) and C5b (the initiating subunit of the membrane attack complex [MAC or C5b-9]) thus preventing MAC formation. ULTOMIRIS inhibits terminal complement-mediated intravascular hemolysis in patients with PNH and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS." ([DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791), 버전 2026-10-29; 확인일 2026-11-19). 알려진 정보에 따르면 Ravulizumab은 C5 보체를 억제하는 장기 지속형 약물로, 보체 매개 질환에서 말단 보체 경로를 차단합니다.
 
 반면 G6PC3 결핍은 호중구의 포도당 대사 장애와 소포체 스트레스에 의한 세포사멸이 원인입니다. 보체 C5 억제와의 병태생리학적 연결고리는 확립되어 있지 않습니다. 높은 TxGNN 점수(0.9996)는 TxGNN 모델(딥러닝)이 산출한 값으로, 생물학적 근거가 아니라 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있으며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다.
 
@@ -88,6 +88,19 @@ G6PC3 결핍 호중구감소증에 대한 예측은 모델 점수(0.9996)에만 
 - G6PC3 결핍과 보체 활성화의 연관성을 보여주는 전임상 또는 기전 연구
 - 예측 질환별 임상시험·문헌 검색 보강 (현재 0건)
 - 투여 경로 적합성 평가 (현재 미확인)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

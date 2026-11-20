@@ -57,7 +57,7 @@ TxGNN 모델은 **카테콜아민성 다형성 심실빈맥 (catecholaminergic p
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 amiodarone은 칼륨·나트륨·칼슘 채널을 모두 차단하고 베타 교감신경을 비경쟁적으로 차단합니다. 따라서 교감신경 자극으로 유발되는 심실 부정맥에 이론적으로 작용할 수 있습니다.
+미국 FDA가 승인한 Amiodarone Hydrochloride 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아미오다론은 Class III 항부정맥제로 간주되지만, Vaughan Williams 분류의 네 가지 class 모두의 전기생리학적 특성을 가지고 있다. Class I 약물과 마찬가지로 아미오다론은 빠른 조율 빈도에서 나트륨 통로를 차단하며, Class II 약물과 마찬가지로 아미오다론은 비경쟁적 항교감신경 작용을 나타낸다.” 영어 원문: "Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action." ([DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3), 버전 2025-11-05; 확인일 2026-11-19). 알려진 정보에 따르면 amiodarone은 칼륨·나트륨·칼슘 채널을 모두 차단하고 베타 교감신경을 비경쟁적으로 차단합니다. 따라서 교감신경 자극으로 유발되는 심실 부정맥에 이론적으로 작용할 수 있습니다.
 
 다만 카테콜아민성 다형성 심실빈맥은 RYR2 또는 CASQ2 유전자와 관련된 칼슘 방출 이상으로 발생합니다. Amiodarone은 이 원인 경로를 직접 겨냥하지 않습니다. 확인된 문헌에서도 amiodarone은 주로 난치성 부정맥에 쓰인 구제 약물로 언급될 뿐, 대조 연구에서 이점이 입증된 근거는 없습니다. 표준 치료는 베타 차단제, flecainide, 교감신경 차단술 또는 삽입형 제세동기(ICD)입니다.
 
@@ -109,11 +109,12 @@ TxGNN 모델은 **카테콜아민성 다형성 심실빈맥 (catecholaminergic p
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “한국 내 허가 이력도 없어” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
 
 <!-- review:end log -->
 

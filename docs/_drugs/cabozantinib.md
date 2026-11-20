@@ -55,7 +55,7 @@ TxGNN 모델은 **지방육종(Liposarcoma)**에 효과가 있을 수 있다고 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 DrugBank에서 확인되지 않았습니다. 이번 평가에서 정리된 분석에 따르면 Cabozantinib은 VEGFR2, MET, AXL을 억제합니다. 이 경로들은 혈관신생과 종양 진행에 관여하며, 연부조직육종에서도 역할이 있는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Cabozantinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “시험관 내 생화학적 및/또는 세포 분석에서 카보잔티닙은 MET, VEGFR-1, -2 및 -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3 및 TIE-2의 티로신 키나제 활성을 억제하는 것으로 나타났다. 이들 수용체 티로신 키나제는 정상적인 세포 기능뿐만 아니라 종양 발생, 전이, 종양 혈관신생, 약물 내성 및 종양 미세환경 유지와 같은 병리학적 과정에도 관여한다.” 영어 원문: "In vitro biochemical and/or cellular assays have shown that cabozantinib inhibits the tyrosine kinase activity of MET, VEGFR-1, -2 and -3, AXL, RET, ROS1, TYRO3, MER, KIT, TRKB, FLT-3, and TIE-2. These receptor tyrosine kinases are involved in both normal cellular function and pathologic processes such as oncogenesis, metastasis, tumor angiogenesis, drug resistance, and maintenance of the tumor microenvironment." ([DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5), 버전 2025-10-19; 확인일 2026-11-19). 이번 평가에서 정리된 분석에 따르면 Cabozantinib은 VEGFR2, MET, AXL을 억제합니다. 이 경로들은 혈관신생과 종양 진행에 관여하며, 연부조직육종에서도 역할이 있는 것으로 알려져 있습니다.
 
 신세포암은 혈관신생 의존성이 높은 종양이어서 VEGFR 억제가 효과를 보입니다. 연부조직육종도 혈관신생과 수용체 티로신 키나제 신호가 종양 진행에 기여하므로, 기전상 적용 가능성은 있습니다.
 
@@ -119,6 +119,19 @@ TxGNN 점수는 매우 높지만, 지방육종에 특이적인 근거는 혼합 
 - NCT05836571의 지방육종 하위군 결과 확인
 - 지방육종 단독 또는 Cabozantinib 단일요법 임상 자료 확보
 - 주요 상호작용 약물 병용 및 방사선 병용 시 안전성 모니터링 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cabometyx (cabozantinib) prescribing information, Exelixis, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3850cce2-6137-42e5-a792-d318c4a4b3b5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

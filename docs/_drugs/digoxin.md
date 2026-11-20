@@ -54,7 +54,7 @@ description: "Digoxin: 예측 신규 적응증 십이지장 폐쇄 (근거 수�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 디곡신은 Na+/K+-ATPase를 억제하여 심근 수축력을 높이고 미주신경 작용을 나타내는 강심배당체로 알려져 있습니다. 다만 이는 이번에 정리된 데이터로 확인된 내용이 아니며, 이 작용이 기계적 십이지장 폐쇄의 완화와 연결된다는 근거는 어디에도 없습니다.
+미국 FDA가 승인한 Digoxin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “디곡신의 모든 작용은 Na-K ATPase에 대한 효과를 통해 매개된다. '나트륨 펌프'라고 불리는 이 효소는 나트륨 이온을 세포 밖으로, 칼륨 이온을 세포 안으로 이동시킴으로써 전신에 걸쳐 세포 내 환경을 유지하는 역할을 한다.” 영어 원문: "All of digoxin’s actions are mediated through its effects on Na-K ATPase. This enzyme, the “sodium pump,” is responsible for maintaining the intracellular milieu throughout the body by moving sodium ions out of and potassium ions into cells." ([DailyMed: Lanoxin (digoxin) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ec84cac-6ecc-43dc-8006-6ccc029e2707), 버전 2025-10-17; 확인일 2026-11-19). 일반적으로 디곡신은 Na+/K+-ATPase를 억제하여 심근 수축력을 높이고 미주신경 작용을 나타내는 강심배당체로 알려져 있습니다. 다만 이는 이번에 정리된 데이터로 확인된 내용이 아니며, 이 작용이 기계적 십이지장 폐쇄의 완화와 연결된다는 근거는 어디에도 없습니다.
 
 오히려 디곡신은 오심, 구토, 식욕부진 같은 위장관 이상반응을 일으킬 수 있어 증상을 악화시킬 가능성이 있습니다. 0.997이라는 높은 예측 점수는 모델 계산값일 뿐, 이를 뒷받침하는 임상시험이나 문헌이 없습니다.
 
@@ -91,6 +91,19 @@ description: "Digoxin: 예측 신규 적응증 십이지장 폐쇄 (근거 수�
 - 디곡신의 작용 기전 데이터 확보 및 십이지장 폐쇄와의 기전 연결 분석
 - 십이지장 폐쇄를 직접 다룬 전임상·임상 연구 탐색
 - 시판 현황(취소 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lanoxin (digoxin) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ec84cac-6ecc-43dc-8006-6ccc029e2707) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

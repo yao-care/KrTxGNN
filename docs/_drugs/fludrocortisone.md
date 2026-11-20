@@ -56,7 +56,7 @@ TxGNN 모델은 **원발성 피부 T세포 림프종(primary cutaneous T-cell ly
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 fludrocortisone은 미네랄로코르티코이드 작용이 주되고 일부 글루코코르티코이드 작용도 가진 코르티코스테로이드입니다. 일반적으로 부신 기능부전 등에서 미네랄로코르티코이드 효과를 목적으로 사용됩니다.
+미국 FDA가 승인한 Fludrocortisone 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “코르티코스테로이드는 적어도 부분적으로는 단백질의 합성 속도를 조절함으로써 작용하는 것으로 생각된다. 코르티코스테로이드에 의해 특정 단백질의 합성이 유도되는 것으로 알려진 사례가 다수 있으나, 호르몬의 초기 작용과 최종 대사 효과 사이의 연관성은 완전히 규명되지 않았다. […] 플루드로코르티손아세테이트의 생리적 작용은 히드로코르티손의 작용과 유사하다.” 영어 원문: "Corticosteroids are thought to act at least in part, by controlling the rate of synthesis of proteins. Although there are a number of instances in which the synthesis of specific proteins is known to be induced by corticosteroids, the links between the initial actions of the hormones and the final metabolic effects have not been completely elucidated. […] The physiologic action of fludrocortisone acetate is similar to that of hydrocortisone." ([DailyMed: fludrocortisone acetate prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=933e28ef-05e8-419e-a786-21eab67f33a2), 버전 2026-06-24; 확인일 2026-11-19). 알려진 정보에 따르면 fludrocortisone은 미네랄로코르티코이드 작용이 주되고 일부 글루코코르티코이드 작용도 가진 코르티코스테로이드입니다. 일반적으로 부신 기능부전 등에서 미네랄로코르티코이드 효과를 목적으로 사용됩니다.
 
 글루코코르티코이드는 림프구를 억제하는 효과가 있어 림프종 치료에 일부 활용됩니다. 그러나 fludrocortisone 자체가 피부 T세포 림프종에 의미 있는 활성을 보인다는 근거는 없습니다. 이번 예측과 기존 적응증 사이의 연관성은 **추측 수준**입니다.
 
@@ -99,6 +99,19 @@ TxGNN 모델은 **원발성 피부 T세포 림프종(primary cutaneous T-cell ly
 - 피부 T세포 림프종과 fludrocortisone의 연관성에 대한 전임상 또는 문헌 근거 탐색
 - 장기적으로 미네랄로코르티코이드 부작용(고혈압, 저칼륨혈증, 체액 저류)에 대한 안전성 평가
 - 대안으로, 상대적으로 문헌이 있는 망막 변성 등 좁게 정의된 안과 적응증을 별도 연구 질문으로 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: fludrocortisone acetate prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=933e28ef-05e8-419e-a786-21eab67f33a2) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

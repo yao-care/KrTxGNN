@@ -54,7 +54,7 @@ Isavuconazonium은 한국에서 크레셈바(캡슐·주사제)로 시판 중인
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Isavuconazonium은 isavuconazole의 전구약물인 광범위 트리아졸계 항진균제로, 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하여 ergosterol 합성을 차단합니다.
+미국 FDA가 승인한 Isavuconazonium 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “이사부코나조늄 황산염은 아졸계 항진균제인 이사부코나졸의 전구약물이다. […] 이사부코나조늄 황산염은 아졸계 항진균 약물인 이사부코나졸의 전구약물이다. 이사부코나졸은 사이토크롬 P-450 의존성 효소인 라노스테롤 14-알파-탈메틸화효소를 억제함으로써 진균 세포막의 핵심 구성성분인 에르고스테롤의 합성을 억제한다.” 영어 원문: "Isavuconazonium sulfate is the prodrug of isavuconazole, an azole antifungal. […] Isavuconazonium sulfate is the prodrug of isavuconazole, an azole antifungal drug. Isavuconazole inhibits the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14-alpha-demethylase." ([DailyMed: Cresemba (isavuconazonium sulfate) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7f73b8-586a-4df0-935f-fecd4696c16c), 버전 2025-04-25; 확인일 2026-11-19). 알려진 정보에 따르면 Isavuconazonium은 isavuconazole의 전구약물인 광범위 트리아졸계 항진균제로, 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하여 ergosterol 합성을 차단합니다.
 
 다만 이 기전은 폐포자충증에는 잘 맞지 않습니다. *Pneumocystis jirovecii*는 세포막에 ergosterol이 거의 없고 콜레스테롤 등 다른 스테롤을 사용하므로, 아졸계 약물이 효과적이라고 보기 어렵습니다. 0.9956라는 높은 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있으며 생물학적 근거는 아닙니다. 1차 치료제인 trimethoprim-sulfamethoxazole이 이미 확립되어 있다는 점도 고려해야 합니다.
 
@@ -103,6 +103,19 @@ Isavuconazonium은 한국에서 크레셈바(캡슐·주사제)로 시판 중인
 - 균종: *Madurella mycetomatis* 등 원인균에 대한 in vitro 감수성 자료와 초기 임상 자료
 - 균종 연구 시 진균성과 방선균성 균종을 구분하는 대상 선정 전략
 - 주요 상호작용 약물(Clarithromycin, Eliglustat, Cisapride) 병용에 대한 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cresemba (isavuconazonium sulfate) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7f73b8-586a-4df0-935f-fecd4696c16c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

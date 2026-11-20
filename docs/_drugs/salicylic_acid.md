@@ -56,7 +56,7 @@ TxGNN 모델은 **유두결막염(Papillary Conjunctivitis)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 살리실산은 각질용해 작용을 하는 외용 성분이며, COX 억제와 NF-κB 조절 등 항염 작용이 제안되어 있습니다. 다만 공개된 생리활성 데이터로는 이 기전을 확인하지 못했습니다.
+미국 FDA가 승인한 Salicylic Acid 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “사마귀 치료에서 살리실산의 정확한 작용 방식은 알려져 있지 않으나, 그 활성은 각질용해 작용과 관련된 것으로 보이며, 이 작용으로 사마귀 바이러스에 감염된 표피 세포가 기계적으로 제거된다.” 영어 원문: "Although the exact mode of action for salicylic acid in the treatment of warts is unknown, its activity appears to be associated with its keratolytic action, which results in mechanical removal of epidermal cells infected with wart viruses." ([DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b), 버전 2025-10-15; 확인일 2026-11-19). 알려진 정보에 따르면 살리실산은 각질용해 작용을 하는 외용 성분이며, COX 억제와 NF-κB 조절 등 항염 작용이 제안되어 있습니다. 다만 공개된 생리활성 데이터로는 이 기전을 확인하지 못했습니다.
 
 항염 작용은 알레르기성 또는 염증성 안구 표면 질환과 이론적으로 연관될 수 있습니다. 그러나 각질용해 외용제는 안구 사용을 전제로 설계되지 않았으며, 자극과 각막 손상 우려가 있습니다. 기존 적응증(여드름, 티눈, 사마귀)과 유두결막염의 병태 생리도 직접적인 연관성이 약합니다.
 
@@ -93,6 +93,19 @@ TxGNN 모델은 **유두결막염(Papillary Conjunctivitis)**에 효과가 있�
 - 상세한 작용 기전(MOA) 데이터 확보
 - 유두결막염 관련 전임상 또는 문헌 근거 탐색
 - 안구 적용 가능한 제형 및 투여 경로의 적합성 검토와 안구 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 daptomycin은 그람양성균의 세포막에 작용하는 항생제로 알려져 있으며, 한국에서는 주사제로 시판되고 있습니다.
+미국 FDA가 승인한 Daptomycin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “답토마이신은 항균제이다. […] 답토마이신은 세균 세포막에 결합하여 막전위의 급속한 탈분극을 일으킨다. 이러한 막전위 소실은 DNA, RNA 및 단백질 합성의 억제를 일으키며, 그 결과 세균 세포가 사멸한다.” 영어 원문: "Daptomycin is an antibacterial drug. […] Daptomycin binds to bacterial cell membranes and causes a rapid depolarization of membrane potential. This loss of membrane potential causes inhibition of DNA, RNA, and protein synthesis, which results in bacterial cell death." ([DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8), 버전 2022-01-25; 확인일 2026-11-19). 일반적으로 daptomycin은 그람양성균의 세포막에 작용하는 항생제로 알려져 있으며, 한국에서는 주사제로 시판되고 있습니다.
 
 TxGNN 모델(딥러닝)의 높은 점수는 모델이 '관절염'과 '관절 감염'처럼 관련된 질환 사이에서 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거는 아닙니다. 검색된 문헌은 인공관절 감염, 화농성 관절염, 골·관절 감염에서 daptomycin을 사용한 경험으로, 퇴행성 골관절염에 대한 질환 조절 효과를 보여주지 않습니다. 따라서 이것은 진정한 의미의 약물 재창출이라고 보기 어렵습니다.
 
@@ -119,6 +119,19 @@ TxGNN 모델(딥러닝)의 높은 점수는 모델이 '관절염'과 '관절 감
 **참고 (다른 예측 질환):**
 - 류마티스 관절염: 전임상 근거(L4)만 있으며, 연구 질문(Research Question) 수준입니다.
 - 골관절염 감수성, 통풍, 가성연골무형성증 등 나머지 예측은 근거가 없거나 부작용 신호만 있어 보류(Hold)를 권장합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

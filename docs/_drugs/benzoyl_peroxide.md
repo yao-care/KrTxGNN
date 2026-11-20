@@ -55,7 +55,7 @@ TxGNN 모델은 **외음부 역전성 모낭각화증(vulvar inverted follicular
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Benzoyl Peroxide는 각질용해, 항균(C. acnes 대상), 항염 작용을 가진 여드름 치료제이며, 이는 모낭 각화 병변과 일부 연관될 수 있습니다.
+미국 FDA가 승인한 Benzoyl Peroxide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “벤조일 퍼옥사이드는 살균 및 각질용해 효과를 가진 산화제이나, 주사(rosacea) 치료에서의 정확한 작용기전은 알려져 있지 않다.” 영어 원문: "Benzoyl peroxide is an oxidizing agent with bactericidal and keratolytic effects but the precise mechanism of action in the treatment of rosacea is unknown." ([DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c), 버전 2025-08-11; 확인일 2026-11-19). 알려진 정보에 따르면, Benzoyl Peroxide는 각질용해, 항균(C. acnes 대상), 항염 작용을 가진 여드름 치료제이며, 이는 모낭 각화 병변과 일부 연관될 수 있습니다.
 
 다만 역전성 모낭각화증은 양성 종양 유사 병변이어서, 약리학적 근거는 약하고 뒷받침하는 자료도 없습니다. 0.9992에 이르는 높은 점수는 모델의 예측일 뿐, 실제 효능을 의미하지 않습니다.
 
@@ -115,6 +115,19 @@ TxGNN 모델은 **외음부 역전성 모낭각화증(vulvar inverted follicular
 - 외음부 역전성 모낭각화증 관련 임상·병리 문헌 조사 및 증례 수준 근거 확보
 - 외음부 점막·피부 부위 적용 시 자극 및 접촉 감작 위험 평가
 - 여드름성 켈로이드는 별도의 연구 질문으로 두고, 직접 근거(Benzoyl Peroxide와 이 질환을 다룬 문헌)를 추가로 탐색
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

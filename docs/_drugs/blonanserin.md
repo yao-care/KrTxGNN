@@ -56,7 +56,7 @@ TxGNN 모델은 **망막 이영양증(retinal dystrophy with or without extraocu
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 약리학 데이터에 따르면 blonanserin은 도파민 D2 수용체(DRD2)와 세로토닌 5-HT2A 수용체(HTR2A)에 작용하는 약물이며, 일본에서 조현병 치료제로 승인되어 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Blonanserin의 작용 기전(비공식 번역): “세로토닌 2a(5-HT2a) 수용체 길항제; 도파민 D2 수용체 길항제; 도파민 D3 수용체 길항제” 영어 원문: "Serotonin 2a (5-HT2a) receptor antagonist; Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist" ([ChEMBL CHEMBL178803 (blonanserin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL178803), CC BY-SA 3.0; 확인일 2026-11-19). 약리학 데이터에 따르면 blonanserin은 도파민 D2 수용체(DRD2)와 세로토닌 5-HT2A 수용체(HTR2A)에 작용하는 약물이며, 일본에서 조현병 치료제로 승인되어 있습니다.
 
 그러나 기존 적응증(조현병)과 예측 적응증(유전성 망막 이영양증) 사이에서 확립된 기전적 연결고리는 없습니다. 유전성 망막 이영양증은 주로 광수용체 또는 망막색소상피 기능에 관여하는 단일 유전자 결함으로 발생하며, 수용체 길항제가 질병 경과를 바꿀 것이라는 근거는 없습니다.
 
@@ -92,6 +92,19 @@ TxGNN 점수(0.9998)는 TxGNN 모델(딥러닝)이 산출한 값으로, 관련 �
 - 한국 허가사항(경고·금기·적응증) 원문 확인 및 분석
 - 망막 이영양증과 도파민/세로토닌 신호 사이의 기전적 연관성에 대한 전임상 근거
 - 관련 임상시험 및 문헌 근거 확보 전까지 추가 개발 보류
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL178803 (blonanserin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL178803) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

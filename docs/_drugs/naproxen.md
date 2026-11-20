@@ -55,7 +55,7 @@ TxGNN 모델은 **단지증-합지증 증후군(brachydactyly-syndactyly syndrom
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 naproxen은 COX-1/COX-2를 비선택적으로 억제하는 소염진통제로, 염증과 통증을 줄이는 데 사용됩니다.
+미국 FDA가 승인한 Naproxen 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “나프록센은 진통, 항염증 및 해열 작용을 가진다. NAPRELAN의 작용기전은 다른 NSAID와 마찬가지로 완전히 밝혀지지 않았으나, 사이클로옥시게나제(COX-1 및 COX-2)의 억제가 관여한다.” 영어 원문: "Naproxen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of NAPRELAN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893), 버전 2026-01-08; 확인일 2026-11-19). 일반적으로 naproxen은 COX-1/COX-2를 비선택적으로 억제하는 소염진통제로, 염증과 통증을 줄이는 데 사용됩니다.
 
 단지증-합지증 증후군은 발생 단계의 유전적 원인으로 생기는 선천성 사지 기형입니다. 소염·진통 작용만으로는 이러한 발생학적 결함을 교정할 가능성이 낮으며, 기존 적응증과 신규 적응증 사이에서 뚜렷한 기전적 연관성은 확인되지 않습니다.
 
@@ -115,11 +115,12 @@ TxGNN 점수는 높지만 임상시험과 문헌이 전혀 없는 모델 예측(
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “20건의 허가증이 모두 유효하며(단일제 20건, 복합제 0건), 주요 허가 5건은 다음과 같습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893) |
 
 <!-- review:end log -->
 

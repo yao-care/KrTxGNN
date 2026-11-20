@@ -54,7 +54,7 @@ Ritonavir는 HIV-1 단백분해효소 억제제로 알려진 약물이며, 한�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 일반적으로 ritonavir는 HIV-1 단백분해효소 억제제로 알려져 있으며, 고양이 면역결핍 바이러스(FIV)도 구조적으로 관련된 단백분해효소를 가지고 있어 기전상 연관성을 생각해 볼 수 있습니다.
+미국 FDA가 승인한 Ritonavir 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “리토나비르는 항레트로바이러스제이다. […] 리토나비르는 HIV-1 프로테아제의 펩티드 모방 억제제이다. HIV 프로테아제가 억제되면 이 효소가 Gag-Pol 다단백질 전구체를 처리할 수 없게 되어 감염성이 없는 미성숙 HIV 입자가 생성된다.” 영어 원문: "Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles." ([DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3), 버전 2026-07-23; 확인일 2026-11-19). 다만 일반적으로 ritonavir는 HIV-1 단백분해효소 억제제로 알려져 있으며, 고양이 면역결핍 바이러스(FIV)도 구조적으로 관련된 단백분해효소를 가지고 있어 기전상 연관성을 생각해 볼 수 있습니다.
 
 그러나 FIV 단백분해효소는 HIV-1과 기질 특이성 및 억제제 감수성이 다르며, HIV 단백분해효소 억제제에 대한 FIV의 감수성 저하가 보고된 바 있습니다. 0.9992의 TxGNN 점수는 모델 예측일 뿐 실제 연구로 뒷받침되지 않습니다. 또한 이 질환은 동물(수의학) 적응증입니다.
 
@@ -96,6 +96,19 @@ Ritonavir는 HIV-1 단백분해효소 억제제로 알려진 약물이며, 한�
 - 작용 기전(MOA) 데이터 보충: DrugBank 조회
 - FIV 단백분해효소에 대한 ritonavir의 시험관/동물 효능 자료
 - 인체 재창출이 목적이라면 인체 질환 중심의 후보 재선정 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바에 따르면 Carboplatin은 백금계 약물로, DNA에 결합해 가교를 형성하고 빠르게 증식하는 암세포의 분열을 억제합니다. 이론상 선암 세포에도 작용할 수 있습니다.
+미국 FDA가 승인한 Carboplatin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “카보플라틴은 DNA에 결합하여 DNA 가교를 형성하는 백금 기반 약물이다. 이러한 가교는 DNA 복제 및 전사를 억제하고 세포 사멸로 이어지는 세포독성 과정을 유발한다.” 영어 원문: "Carboplatin is a platinum-based drug that binds to DNA and forms DNA cross-links. These crosslinks inhibit DNA replication and transcription and trigger cytotoxic processes that lead to cell death." ([DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b), 버전 2026-11-09; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면 Carboplatin은 백금계 약물로, DNA에 결합해 가교를 형성하고 빠르게 증식하는 암세포의 분열을 억제합니다. 이론상 선암 세포에도 작용할 수 있습니다.
 
 그러나 이 예측을 뒷받침하는 것은 TxGNN의 높은 예측 점수뿐입니다. 직장 점액성 선암에서 Carboplatin을 평가한 시험이나 문헌은 확인되지 않았습니다. 점액성 조직형은 일반적으로 항암제 감수성이 낮다고 알려져 있어, 기전만으로 효과를 단정하기 어렵습니다.
 
@@ -111,6 +111,19 @@ TxGNN 모델은 **직장 점액성 선암(rectum mucinous adenocarcinoma)**에 �
 - DrugBank 등에서 작용 기전 데이터 확보
 - 직장 및 대장 점액성 선암에서 Carboplatin 효능을 직접 평가한 시험이나 문헌 탐색
 - 같은 데이터에서 Carboplatin의 다른 예측 적응증(성인 생식세포종양, 자궁내막 혼합 선암 등)은 임상시험이 더 많으므로 별도 평가 권장
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

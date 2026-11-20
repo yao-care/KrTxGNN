@@ -55,7 +55,7 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Levodopa는 도파민 전구체로서 뇌 내에서 도파민으로 전환되어 도파민 결핍을 보충하며, 말초 탈카르복실화 억제제(카르비도파, 벤세라지드)나 COMT 억제제(엔타카폰)와 복합되어 사용됩니다.
+미국 FDA가 승인한 Levodopa 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “도파민의 대사 전구체인 레보도파는 혈액-뇌 장벽을 통과하며, 뇌에서 도파민으로 전환되는 것으로 추정된다. 이것이 레보도파가 파킨슨병의 증상을 완화하는 기전으로 생각된다.” 영어 원문: "Levodopa, the metabolic precursor of dopamine, crosses the blood-brain barrier and presumably is converted to dopamine in the brain. This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson's disease." ([DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb), 버전 2026-07-20; 확인일 2026-11-19). 알려진 정보에 따르면 Levodopa는 도파민 전구체로서 뇌 내에서 도파민으로 전환되어 도파민 결핍을 보충하며, 말초 탈카르복실화 억제제(카르비도파, 벤세라지드)나 COMT 억제제(엔타카폰)와 복합되어 사용됩니다.
 
 라스무센 뇌염은 T세포 매개 신경 손상, 난치성 국소 발작, 진행성 편측 대뇌 위축을 특징으로 하는 희귀 만성 염증성 뇌질환입니다. 도파민 보충이 이 면역 매개 병리를 직접 설명할 기전적 근거는 확인되지 않습니다. 도파민계의 신경염증 조절이나 운동 증상 완화를 통한 간접적 연관을 가정할 수는 있으나 추측에 불과하며, 이번 데이터만으로는 검증할 수 없습니다. 높은 TxGNN 점수 외에 이 예측을 뒷받침하는 자료가 없습니다.
 
@@ -90,6 +90,19 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 - DrugBank에서 작용 기전(MOA) 데이터 확보
 - 라스무센 뇌염과 도파민계 경로의 연관성을 다룬 전임상·문헌 근거 탐색
 - 관련 임상시험 등록 여부 재확인 및 투여 경로 적합성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

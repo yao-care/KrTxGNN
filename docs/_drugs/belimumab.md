@@ -55,7 +55,7 @@ TxGNN 모델은 **원발성 혈소판 방출장애(primary release disorder of p
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이 보고서용으로 수집된 자료에 없습니다. 일반적으로 알려진 바에 따르면 Belimumab은 BLyS(BAFF)를 억제해 B세포 생존과 자가항체 생성을 줄이는 약물입니다.
+미국 FDA가 승인한 Belimumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “BENLYSTA는 BLyS 특이적 억제제로, B세포 생존 인자인 가용성 BLyS가 B세포 상의 수용체에 결합하는 것을 차단한다. BENLYSTA는 B세포에 직접 결합하지 않지만, BLyS에 결합함으로써 자가반응성 B세포를 포함한 B세포의 생존을 억제하고, B세포가 면역글로불린을 생성하는 형질세포로 분화하는 것을 감소시킨다.” 영어 원문: "BENLYSTA is a BLyS-specific inhibitor that blocks the binding of soluble BLyS, a B-cell survival factor, to its receptors on B cells. BENLYSTA does not bind B cells directly, but by binding BLyS, BENLYSTA inhibits the survival of B cells, including autoreactive B cells, and reduces the differentiation of B cells into immunoglobulin-producing plasma cells." ([DailyMed: Benlysta (belimumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2fa3c528-1777-4628-8a55-a69dae2381a3), 버전 2026-10-30; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면 Belimumab은 BLyS(BAFF)를 억제해 B세포 생존과 자가항체 생성을 줄이는 약물입니다.
 
 원발성 혈소판 방출장애는 B세포가 주도하는 자가면역 질환이 아니라 유전적인 혈소판 기능 결함입니다. 따라서 BLyS 억제와의 기전상 연관성은 뚜렷하지 않습니다. 0.9996라는 높은 점수는 모델 예측일 뿐이며, 이를 뒷받침하는 시험이나 문헌은 없습니다.
 
@@ -103,6 +103,19 @@ TxGNN 모델은 **원발성 혈소판 방출장애(primary release disorder of p
 - 상세한 작용 기전(MOA) 데이터 확보
 - 항체 매개 질환(예: 태아·신생아 동종면역 혈소판감소증)에 대한 전임상 연구와 태반 통과 및 태아 안전성 평가
 - 관련 임상시험 및 문헌 재검색
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Benlysta (belimumab) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2fa3c528-1777-4628-8a55-a69dae2381a3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **주기성 조혈(cyclic hematopoiesis, 주기성 호중구감�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 eculizumab은 보체 C5를 억제하여 말단 보체 경로를 차단하는 항체 의약품입니다. 이 기전은 보체 과활성화가 병태의 핵심인 질환에서 효과를 기대할 수 있습니다.
+미국 FDA가 승인한 Eculizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “SOLIRIS의 유효성분인 에쿨리주맙은 보체 단백질 C5에 높은 친화도로 특이적으로 결합하는 단클론항체로서, 이를 통해 C5가 C5a 및 C5b로 절단되는 것을 억제하고 말단 보체 복합체 C5b-9의 생성을 방지한다. SOLIRIS는 PNH 환자에서 말단 보체 매개 혈관 내 용혈을, aHUS 환자에서 보체 매개 혈전미세혈관병증(TMA)을 억제한다.” 영어 원문: "Eculizumab, the active ingredient in SOLIRIS, is a monoclonal antibody that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9. SOLIRIS inhibits terminal complement-mediated intravascular hemolysis in PNH patients and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS." ([DailyMed: Soliris (eculizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ebcd67fa-b4d1-4a22-b33d-ee8bf6b9c722), 버전 2026-07-08; 확인일 2026-11-19). 알려진 정보에 따르면 eculizumab은 보체 C5를 억제하여 말단 보체 경로를 차단하는 항체 의약품입니다. 이 기전은 보체 과활성화가 병태의 핵심인 질환에서 효과를 기대할 수 있습니다.
 
 그러나 주기성 호중구감소증은 주로 *ELANE* 변이로 발생하며, 보체 매개 질환이 아닙니다. 따라서 C5 억제를 적용할 근거가 뚜렷하지 않습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐, 생물학적 근거는 아니며 기전상의 연결고리가 확인된 것도 아닙니다.
 
@@ -90,6 +90,19 @@ TxGNN 모델은 **주기성 조혈(cyclic hematopoiesis, 주기성 호중구감�
 - 주기성 호중구감소증에서 보체 C5 억제의 기전적 연관성을 보여주는 전임상 또는 문헌 근거
 - 호중구감소 환자에서의 감염 위험 평가와 안전성 모니터링 계획
 - 예측 순위 1위 외 다른 후보 질환에 대해서도 직접 근거 탐색
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Soliris (eculizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ebcd67fa-b4d1-4a22-b33d-ee8bf6b9c722) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

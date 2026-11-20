@@ -55,10 +55,9 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 risdiplam은 SMN2 exon 7 포함을 촉진하는 스플라이싱 조절제로, SMA에서 SMN 단백질 발현을 늘리는 약물입니다.
+미국 FDA가 승인한 Risdiplam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “리스디플람은 SMN 단백질 결핍을 초래하는 5q 염색체 돌연변이로 인한 척수성 근위축증(SMA) 환자를 치료하기 위해 고안된 생존 운동뉴런 2(SMN2) 스플라이싱 조절제이다. 시험관 내 분석과 SMA 형질전환 동물 모델 연구에서 리스디플람은 SMN2 전령 리보핵산(mRNA) 전사체의 엑손 7 포함과 뇌 내 전장 SMN 단백질 생성을 증가시키는 것으로 나타났다.” 영어 원문: "Risdiplam is a survival of motor neuron 2 (SMN2) splicing modifier designed to treat patients with spinal muscular atrophy (SMA) caused by mutations in chromosome 5q that lead to SMN protein deficiency. Using in vitro assays and studies in transgenic animal models of SMA, risdiplam was shown to increase exon 7 inclusion in SMN2 messenger ribonucleic acid (mRNA) transcripts and production of full-length SMN protein in the brain." ([DailyMed: Evrysdi (risdiplam) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eceb9a99-7191-4be5-87c3-0102707cf98e), 버전 2026-11-02; 확인일 2026-11-19). 알려진 정보에 따르면 risdiplam은 SMN2 exon 7 포함을 촉진하는 스플라이싱 조절제로, SMA에서 SMN 단백질 발현을 늘리는 약물입니다.
 
 SMA는 신경근 질환이고 여드름은 피지선·모낭의 염증성 피부질환이어서 두 질환 사이에 뚜렷한 기전적 연결고리가 확인되지 않습니다. 이번 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 모델이 학습한 관련 질환 간 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. 이를 뒷받침하는 임상시험이나 문헌이 없어 기전적 타당성을 검증할 수 없습니다.
-
 
 ## 한국 시판 정보
 
@@ -89,6 +88,19 @@ SMA는 신경근 질환이고 여드름은 피지선·모낭의 염증성 피부
 - DrugBank 등에서 작용 기전(MOA) 데이터 확보 후 여드름 병태생리와의 연관성 분석
 - 전임상 또는 기전 연구, 관련 문헌 및 임상시험 근거 확보
 - 투여 경로(경구) 적합성 검토. 여드름은 통상 국소 치료가 중심이므로 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Evrysdi (risdiplam) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eceb9a99-7191-4be5-87c3-0102707cf98e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

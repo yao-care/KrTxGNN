@@ -55,7 +55,7 @@ TxGNN 모델은 **HIV 감염증(HIV infectious disease)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-본 보고서를 위해 수집된 데이터에는 상세한 작용 기전 기술이 없습니다. 다만 약리학 데이터상 콜산은 담즙산 수용체인 **GPBAR1(TGR5)**과 **파르네소이드 X 수용체(FXR)**의 리간드입니다. 이 수용체들은 담즙산·지질 대사를 조절하며, 임상적으로는 선천성 담즙산 합성 장애(단일 효소 결함, 제셀weger 스펙트럼 등 퍼옥시좀 질환)의 보충 요법에 쓰입니다.
+미국 FDA가 승인한 Cholic Acid 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “콜산은 간에서 콜레스테롤로부터 합성되는 일차 담즙산이다. 생합성 경로의 SED로 인한 담즙산 합성 장애 및 젤웨거 스펙트럼 장애를 포함한 PD에서는 일차 담즙산의 결핍으로 인해 중간체 담즙산의 조절되지 않는 축적과 담즙정체가 발생한다.” 영어 원문: "Cholic acid is a primary bile acid synthesized from cholesterol in the liver. In bile acid synthesis disorders due to SEDs in the biosynthetic pathway, and in PDs including Zellweger spectrum disorders, deficiency of primary bile acids leads to unregulated accumulation of intermediate bile acids and cholestasis." ([DailyMed: Cholbam (cholic acid) prescribing information, Mirum Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c6e4c9d-b85e-493f-9420-ab2fd0ff3723), 버전 2026-01-26; 확인일 2026-11-19). 다만 약리학 데이터상 콜산은 담즙산 수용체인 **GPBAR1(TGR5)**과 **파르네소이드 X 수용체(FXR)**의 리간드입니다. 이 수용체들은 담즙산·지질 대사를 조절하며, 임상적으로는 선천성 담즙산 합성 장애(단일 효소 결함, 제셀weger 스펙트럼 등 퍼옥시좀 질환)의 보충 요법에 쓰입니다.
 
 HIV 감염증과의 연결 고리는 약합니다. 1993년 연구에서 콜산나트륨은 시험관 내에서 HIV-1 역전사효소 활성을 억제하고 살정 작용을 보였습니다. 이는 질 삽입형 피임 스펀지(Protectaid) 맥락의 결과이며, 치료제로서 전신 투여한 근거는 아닙니다. 반면 2006년 연구에서는 콜산 유도체가 HIV-1 복제와 합포체(syncytia) 형성을 오히려 **유도**했습니다. 2010년 연구는 단백분해효소 억제제를 복용하는 HIV 환자의 혈장 담즙산 농도를 측정한 것으로, 약물 효과 검증이 아니라 연관성 관찰입니다.
 
@@ -107,6 +107,19 @@ HIV 감염증에 대한 임상시험이 없고, 문헌은 오래된 시험관·�
 - 작용 기전 데이터 보완 (FXR/GPBAR1 신호가 HIV 복제에 미치는 영향)
 - 근거 수준이 더 높은 다른 후보(예: 담즙산 합성·접합 장애와 연관된 지용성 비타민 결핍)와의 우선순위 비교. 단, 이는 기존 적응증의 부수 효과에 가까워 신규 재창출로 보기 어렵습니다.
 - 임상 검토 전 단계로서 HIV 환자 대상 안전성(항레트로바이러스제와의 상호작용 포함) 평가 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cholbam (cholic acid) prescribing information, Mirum Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c6e4c9d-b85e-493f-9420-ab2fd0ff3723) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

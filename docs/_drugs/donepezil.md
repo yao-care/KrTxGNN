@@ -56,7 +56,7 @@ TxGNN 모델은 **심인성 운동장애(Psychogenic Movement Disorders)**에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 donepezil은 아세틸콜린에스테라제를 억제하여 뇌 내 콜린성 신호를 강화하는 약물입니다. 콜린성 신호는 기저핵 등 운동 조절 회로와 관련이 있어 운동 질환에 대한 접근 자체는 생각해 볼 수 있습니다.
+미국 FDA가 승인한 Donepezil 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “알츠하이머병의 인지 징후 및 증상의 발병기전에 관한 현재의 이론은 그 중 일부를 콜린성 신경전달의 결핍에 기인한 것으로 본다. 도네페질염산염은 콜린성 기능을 증강시킴으로써 치료 효과를 나타내는 것으로 추정된다.” 영어 원문: "Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer’s disease attribute some of them to a deficiency of cholinergic neurotransmission. Donepezil hydrochloride is postulated to exert its therapeutic effect by enhancing cholinergic function." ([DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975), 버전 2021-12-30; 확인일 2026-11-19). 알려진 정보에 따르면 donepezil은 아세틸콜린에스테라제를 억제하여 뇌 내 콜린성 신호를 강화하는 약물입니다. 콜린성 신호는 기저핵 등 운동 조절 회로와 관련이 있어 운동 질환에 대한 접근 자체는 생각해 볼 수 있습니다.
 
 그러나 심인성 운동장애는 기능성(functional) 기원의 질환이어서, 콜린성 기전이 직접 관여한다는 근거는 뚜렷하지 않습니다. 이번 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있으며 생물학적 근거를 뜻하지는 않습니다.
 
@@ -101,6 +101,19 @@ TxGNN 모델은 **심인성 운동장애(Psychogenic Movement Disorders)**에 �
 - DrugBank에서 작용 기전(MOA) 데이터 보완
 - 심인성 운동장애에 대한 문헌 및 임상시험 재검색
 - 같은 예측 목록 중 근거가 더 있는 만성 틱 장애(근거 수준 L4, 소규모 소아 연구와 증례 보고 및 전임상 데이터)나 설-안면-협부 이상운동증(L4, Cochrane 체계적 문헌고찰 포함)을 우선 후보로 검토. 단, 두 경우 모두 대조군이 있는 근거는 부족하며 donepezil에 특이적인 효능이 확립되지 않았습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **마미총 종양(Cauda Equina Neoplasm)**에 효과가 있을 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 일반적으로 알려진 정보에 따르면 Temozolomide는 DNA를 메틸화(특히 O6-구아닌)하여 종양 세포에 세포독성 손상과 세포자멸사를 일으키는 경구 알킬화제입니다. 효과는 MGMT 발현이 낮거나 MGMT 프로모터가 메틸화된 경우에 크게 좌우됩니다.
+미국 FDA가 승인한 Temozolomide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Temozolomide는 직접적인 활성은 없으나 생리적 pH에서 빠른 비효소적 전환을 거쳐 반응성 화합물인 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide(MTIC)로 변환된다. MTIC의 세포독성은 주로 DNA 알킬화, 특히 구아닌의 O 6 및 N 7 위치에서의 알킬화에 기인하는 것으로 생각되며, 이는 DNA 이중가닥 절단을 일으켜 세포예정사(programmed cell death)를 초래한다.” 영어 원문: "Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death." ([DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56), 버전 2026-02-20; 확인일 2026-11-19). 일반적으로 알려진 정보에 따르면 Temozolomide는 DNA를 메틸화(특히 O6-구아닌)하여 종양 세포에 세포독성 손상과 세포자멸사를 일으키는 경구 알킬화제입니다. 효과는 MGMT 발현이 낮거나 MGMT 프로모터가 메틸화된 경우에 크게 좌우됩니다.
 
 마미총 종양은 대부분 점액유두상 상의세포종(myxopapillary ependymoma)이며, 그 밖의 상의세포·신경교 종양도 있습니다. Temozolomide는 혈액뇌장벽을 통과하고 교모세포종 같은 중추신경계 악성 종양에서 이미 사용되고 있어, 생물학적으로 그럴듯한 근거가 됩니다.
 
@@ -131,11 +131,12 @@ TxGNN 모델은 **마미총 종양(Cauda Equina Neoplasm)**에 효과가 있을 
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “9건 모두 유효한 단일성분 제제입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
 
 <!-- review:end log -->
 

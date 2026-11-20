@@ -55,7 +55,7 @@ TxGNN 모델은 **급성 요산 신병증(Acute Urate Nephropathy)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 lactulose는 장내에서 작용하는 비흡수성 이당류입니다. 삼투성 완하제로 작용하며, 장내 암모니아를 포획하는 효과도 있습니다. 변비에서의 효능은 확립되어 있습니다.
+미국 FDA가 승인한 Lactulose 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “락툴로오스는 혈중 암모니아 농도를 감소시키고 문맥전신성 뇌병증의 정도를 줄인다. 이러한 작용은 다음과 같은 결과인 것으로 여겨진다: 결장에서 락툴로오스가 세균에 의해 분해되어 결장 내용물이 산성화된다.” 영어 원문: "Lactulose causes a decrease in blood ammonia concentration and reduces the degree of portalsystemic encephalopathy. These actions are considered to be results of the following: Bacterial degradation of lactulose in the colon acidifies the colonic contents." ([DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5), 버전 2024-12-18; 확인일 2026-11-19). 알려진 정보에 따르면 lactulose는 장내에서 작용하는 비흡수성 이당류입니다. 삼투성 완하제로 작용하며, 장내 암모니아를 포획하는 효과도 있습니다. 변비에서의 효능은 확립되어 있습니다.
 
 그러나 이 작용들을 급성 요산 신병증과 연결할 근거는 현재 자료에 없습니다. 이 질환은 요산이 신세뇨관에 침착되어 생기는 급성 신손상입니다. 장내 작용이 중심인 lactulose와의 연관성은 추측 단계이며, 뒷받침하는 기전 연구도 확인되지 않았습니다. 높은 예측 점수는 모델이 계산한 값일 뿐, 약리학적 타당성을 입증하지는 않습니다.
 
@@ -98,6 +98,19 @@ TxGNN 모델은 **급성 요산 신병증(Acute Urate Nephropathy)**에 효과�
 - 작용 기전(MOA) 데이터 확보와 요산 대사·신장 손상 간 기전 가설 검증
 - 전임상 또는 관찰 연구 수준의 직접 근거
 - 참고: 같은 예측 목록에서 **폐쇄성 황달(Obstructive Jaundice)**은 근거 수준 L3입니다. 장내 내독소 감소와 수술 후 신기능 보호에 관한 실험·소규모 임상 문헌이 있어, 우선 검토할 연구 질문 후보로 고려할 수 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

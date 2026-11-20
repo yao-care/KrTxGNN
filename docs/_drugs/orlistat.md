@@ -55,7 +55,7 @@ TxGNN 모델은 **비타민 과잉증(Hypervitaminosis)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Orlistat은 위장관 및 췌장 리파제 억제제로, 식이 지방 흡수를 약 30% 줄입니다. 지용성 비타민(A, D, E, K)은 식이 지방과 함께 흡수되므로, 이론적으로는 이들 비타민의 흡수도 감소합니다. 이것이 지용성 비타민 과잉을 줄일 수 있다는 가설의 근거입니다.
+미국 FDA가 승인한 Orlistat 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “올리스타트는 위장관 리파아제의 가역적 억제제이다. 올리스타트는 위 및 췌장 리파아제의 활성 세린 잔기 부위와 공유 결합을 형성함으로써 위 및 소장 내강에서 치료 활성을 나타낸다.” 영어 원문: "Orlistat is a reversible inhibitor of gastrointestinal lipases. It exerts its therapeutic activity in the lumen of the stomach and small intestine by forming a covalent bond with the active serine residue site of gastric and pancreatic lipases." ([DailyMed: Xenical (orlistat) prescribing information, H2-Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e), 버전 2026-09-30; 확인일 2026-11-19). 알려진 정보에 따르면 Orlistat은 위장관 및 췌장 리파제 억제제로, 식이 지방 흡수를 약 30% 줄입니다. 지용성 비타민(A, D, E, K)은 식이 지방과 함께 흡수되므로, 이론적으로는 이들 비타민의 흡수도 감소합니다. 이것이 지용성 비타민 과잉을 줄일 수 있다는 가설의 근거입니다.
 
 다만 이 가설은 Orlistat의 이미 알려진 효과와 방향이 반대입니다. Orlistat은 오히려 지용성 비타민 결핍 위험이 있어 종합비타민 보충이 권고됩니다. 높은 TxGNN 점수(0.9942)는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 간에 학습한 유사성을 반영할 뿐 생물학적 근거가 아니며 임상 근거로 뒷받침되지 않습니다.
 
@@ -96,6 +96,19 @@ TxGNN 모델은 **비타민 과잉증(Hypervitaminosis)**에 효과가 있을 �
 - 작용 기전(MOA) 데이터 보완: DrugBank 조회
 - 지용성 비타민 과잉 환자에서의 효과와 다른 비타민 결핍 위험을 평가하는 전임상 또는 소규모 탐색 연구 근거
 - 기존 치료 대비 Orlistat의 이점을 입증할 비교 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xenical (orlistat) prescribing information, H2-Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6240792b-9224-2d10-e053-2a91aa0a2c3e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

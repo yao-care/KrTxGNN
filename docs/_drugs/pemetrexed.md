@@ -54,7 +54,7 @@ Pemetrexed는 엽산 대사를 억제하는 항엽산제 계열의 세포독성 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 pemetrexed는 엽산 의존적 핵산 합성 경로를 방해하는 항엽산제입니다. 따라서 빠르게 분열하는 악성 세포에 작용하는 세포독성 약물로 분류됩니다.
+미국 FDA가 승인한 Pemetrexed 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “페메트렉시드는 세포 복제에 필수적인 엽산 의존성 대사 과정을 교란하는 엽산 유사체 대사 억제제이다. 시험관 내 연구에서 페메트렉시드는 티미딘 및 퓨린 뉴클레오타이드의 de novo 생합성에 관여하는 엽산 의존성 효소인 티미딜산 합성효소(TS), 디하이드로엽산 환원효소(DHFR) 및 글리신아미드 리보뉴클레오타이드 포르밀전이효소(GARFT)를 억제하는 것으로 나타났다.” 영어 원문: "Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides." ([DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0), 버전 2026-06-18; 확인일 2026-11-19). 알려진 정보에 따르면 pemetrexed는 엽산 의존적 핵산 합성 경로를 방해하는 항엽산제입니다. 따라서 빠르게 분열하는 악성 세포에 작용하는 세포독성 약물로 분류됩니다.
 
 예측 점수가 높은 것은 중피(mesothelium) 유래 질환과의 유사성에 기반한 것으로 보입니다. 선양종양은 대체로 중피세포에서 기원하는 양성 병변입니다. 증식이 느린 양성 병변에 세포독성 항암제를 쓰는 것은 임상적으로 정당화하기 어렵습니다. 기전상 적용 가능성은 가설 수준에 머뭅니다.
 
@@ -124,11 +124,12 @@ Pemetrexed는 엽산 대사를 억제하는 항엽산제 계열의 세포독성 
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “이번 보고서를 위해 정리된 데이터에서 20건 모두 유효 상태이며 단일 성분 제제입니다. 이 중 수출용 허가도 포함되어 있습니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0) |
 
 <!-- review:end log -->
 

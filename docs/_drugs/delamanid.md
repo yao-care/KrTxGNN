@@ -55,7 +55,7 @@ TxGNN 모델은 **알레르기성 두드러기(allergic urticaria)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Delamanid는 항마이코박테리아 계열 약물로 알려져 있으며, 항히스타민 작용이나 비만세포 관련 활성은 알려져 있지 않습니다.
+ChEMBL(EMBL-EBI)에 등록된 Delamanid의 작용 기전(비공식 번역): “Mycobacterium tuberculosis H37Rv 억제제” 영어 원문: "Mycobacterium tuberculosis H37Rv inhibitor" ([ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650), CC BY-SA 3.0; 확인일 2026-11-19). Delamanid는 항마이코박테리아 계열 약물로 알려져 있으며, 항히스타민 작용이나 비만세포 관련 활성은 알려져 있지 않습니다.
 
 따라서 알레르기성 두드러기와의 기전상 연결고리를 찾기 어렵습니다. 이 예측은 모델 점수에 근거한 것이며, 기전적·임상적 뒷받침은 확인되지 않았습니다.
 
@@ -90,6 +90,19 @@ TxGNN 모델은 **알레르기성 두드러기(allergic urticaria)**에 효과�
 - 작용 기전(MOA) 데이터 확보 및 알레르기성 두드러기와의 기전적 연관성 검토
 - 알레르기성 두드러기를 직접 다룬 전임상 또는 임상 연구
 - 허가사항(경고·금기) 확인을 통한 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL218650 (delamanid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL218650) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

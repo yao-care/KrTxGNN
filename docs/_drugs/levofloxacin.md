@@ -54,7 +54,7 @@ Levofloxacin은 광범위 플루오로퀴놀론계 항균제입니다. TxGNN 모
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보로 Levofloxacin은 광범위 항균 활성을 가진 플루오로퀴놀론계 약물이며, 안과용 플루오로퀴놀론은 세균성 결막염에 사용됩니다. 한국에는 점안액 제형의 허가도 있습니다.
+미국 FDA가 승인한 Levofloxacin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “레보플록사신은 플루오로퀴놀론계 항균제에 속한다. […] 레보플록사신은 퀴놀론계 항균제인 라세미체 오플록사신의 L-이성질체이다. 오플록사신의 항균 활성은 주로 L-이성질체에 있다. 레보플록사신 및 기타 플루오로퀴놀론계 항균제의 작용 기전은 DNA 복제, 전사, 복구 및 재조합에 필요한 효소인 세균의 토포이소머라제 IV 및 DNA 자이라제(둘 다 제II형 토포이소머라제임)의 억제를 포함한다.” 영어 원문: "Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination." ([DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5), 버전 2026-11-05; 확인일 2026-11-19). 알려진 정보로 Levofloxacin은 광범위 항균 활성을 가진 플루오로퀴놀론계 약물이며, 안과용 플루오로퀴놀론은 세균성 결막염에 사용됩니다. 한국에는 점안액 제형의 허가도 있습니다.
 
 그러나 점상 상피성 각결막염은 바이러스(아데노바이러스) 또는 미포자충에 의한 경우가 많고, 플루오로퀴놀론은 이들 병원체에 대한 확립된 활성이 없습니다. 연결된 유일한 문헌도 미포자충 각결막염 집단 발생 보고로, Levofloxacin의 이득을 보여주지 않습니다. 높은 예측 점수는 모델의 예측일 뿐 임상적 근거가 아닙니다.
 
@@ -98,6 +98,18 @@ Levofloxacin은 광범위 플루오로퀴놀론계 항균제입니다. TxGNN 모
 - 허가사항 기반의 경고·금기 정보 확보
 - 상세 작용 기전(MOA) 자료
 - 원인 병원체(세균, 바이러스, 미포자충)별 적용 가능성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

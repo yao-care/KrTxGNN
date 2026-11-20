@@ -55,7 +55,7 @@ TxGNN 모델은 **원발성 유전성 녹내장(Primary hereditary glaucoma)**�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Chlorthalidone은 티아지드 유사 이뇨제로 알려져 있으며, 신장에서 나트륨과 수분 재흡수를 줄여 혈압과 체액량을 낮춥니다.
+미국 FDA가 승인한 Chlorthalidone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “클로르탈리돈은 항고혈압 활성을 갖는 장시간 작용형 경구 이뇨제이다. 클로르탈리돈과 벤조티아디아진(티아지드)계 이뇨제의 이뇨 효과는 유사한 기전에서 비롯되는 것으로 보이며, 클로르탈리돈과 티아지드계 약물의 최대 효과도 유사한 것으로 보인다.” 영어 원문: "Chlorthalidone is a long-acting oral diuretic with antihypertensive activity. The diuretic effects of chlorthalidone and the benzothiadiazine (thiazide) diuretics appear to arise from similar mechanisms and the maximal effect of chlorthalidone and the thiazides appear to be similar." ([DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15), 버전 2026-06-25; 확인일 2026-11-19). Chlorthalidone은 티아지드 유사 이뇨제로 알려져 있으며, 신장에서 나트륨과 수분 재흡수를 줄여 혈압과 체액량을 낮춥니다.
 
 녹내장과의 연관성은 안압 조절에 관여하는 방수 역학이나 이온·체액 수송을 통한 간접 영향 정도로만 추정할 수 있습니다. 이는 가설 수준이며, 티아지드 유사 이뇨제는 확립된 녹내장 치료제가 아닙니다. 점수가 높더라도 이는 모델 예측일 뿐, 실제 근거로 이어지지 않았습니다.
 
@@ -101,6 +101,19 @@ TxGNN 모델은 **원발성 유전성 녹내장(Primary hereditary glaucoma)**�
 - DrugBank 등에서 작용 기전(MOA) 데이터 확보
 - 안압 및 방수 역학에 대한 전임상·기전 연구 검토 문헌 조사
 - 근거가 상대적으로 나은 만성 폐성심 등 다른 예측 적응증을 우선 검토할지 판단
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Thalitone (chlorthalidone) prescribing information, Casper Pharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc5a0299-115b-4e60-bb3f-c75a95c51c15) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -62,7 +62,7 @@ TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압**에 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Ramipril은 ACE 억제제로 알려져 있으며, 안지오텐신 II를 줄여 혈관 수축과 혈관 재형성을 완화할 수 있습니다. 이 점이 폐혈관에도 적용될 수 있다는 것이 예측의 기전적 배경입니다.
+미국 FDA가 승인한 Ramipril 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “라미프릴 및 라미프릴라트는 사람과 동물에서 ACE를 억제한다. 안지오텐신 전환효소는 안지오텐신 I이 혈관수축 물질인 안지오텐신 II로 전환되는 반응을 촉매하는 펩티딜 디펩티다제이다. 안지오텐신 II는 또한 부신피질에서 알도스테론 분비를 자극한다.” 영어 원문: "Ramipril and ramiprilat inhibit ACE in human subjects and animals. Angiotensin converting enzyme is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59), 버전 2026-11-11; 확인일 2026-11-19). 다만 Ramipril은 ACE 억제제로 알려져 있으며, 안지오텐신 II를 줄여 혈관 수축과 혈관 재형성을 완화할 수 있습니다. 이 점이 폐혈관에도 적용될 수 있다는 것이 예측의 기전적 배경입니다.
 
 직접적인 뒷받침은 1996년 쥐 연구(PMID 9200213)입니다. 3주간 저산소 환경에 둔 쥐에게 Ramipril을 투여하자 폐혈관 관류압이 낮아져, ACE 억제가 만성 저산소가 폐혈관에 미치는 영향을 줄이는 것으로 보고되었습니다. 그러나 이는 동물 연구이고 사람 대상 시험은 없습니다. ACE 억제제는 저산소성 폐고혈압의 확립된 치료제도 아닙니다. 심장, 신장, 뇌 모델을 다룬 나머지 문헌은 간접 근거에 그칩니다.
 
@@ -115,11 +115,12 @@ TxGNN 모델은 **폐질환 및/또는 저산소증에 의한 폐고혈압**에 
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-12 | 단일제 허가: 4건 → 7건(유효 3건), 복합제 2건 | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ramipril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=245d3580-77c6-4c0f-b324-c8514b792c59) |
 
 <!-- review:end log -->
 

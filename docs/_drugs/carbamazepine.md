@@ -56,7 +56,7 @@ TxGNN 모델은 **삼차신경 신생물**에 효과가 있을 수 있다고 예
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 정보에 따르면 carbamazepine은 나트륨 채널 차단제이며, 삼차신경통의 1차 치료제로 확립되어 있습니다.
+미국 FDA가 승인한 Carbamazepine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Tegretol은 전기적 및 화학적으로 유발된 발작이 있는 랫드와 마우스에서 항경련 특성을 나타냈다. 이 약은 다시냅스 반응을 감소시키고 강직 후 증강을 차단함으로써 작용하는 것으로 보인다. […] Tegretol의 주요 대사체인 카르바마제핀-10,11-에폭사이드는 여러 생체 내 동물 발작 모델에서 입증된 바와 같이 항경련 활성을 가진다.” 영어 원문: "Tegretol has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures. It appears to act by reducing polysynaptic responses and blocking the post-tetanic potentiation. […] The principal metabolite of Tegretol, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures." ([DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053), 버전 2026-08-20; 확인일 2026-11-19). 일반적으로 알려진 정보에 따르면 carbamazepine은 나트륨 채널 차단제이며, 삼차신경통의 1차 치료제로 확립되어 있습니다.
 
 삼차신경 주변의 종양(신경초종, 수막종, 유피낭종, 지방종, 정맥 혈관종 등)은 이차성 삼차신경통을 일으킬 수 있습니다. 이 경우 carbamazepine이 통증 증상을 완화할 수 있습니다. 그러나 종양 자체의 성장 억제, 조절, 퇴축에 작용한다는 근거는 없습니다.
 
@@ -121,6 +121,19 @@ TxGNN 모델은 **삼차신경 신생물**에 효과가 있을 수 있다고 예
 ---
 
 *참고: 같은 약물에 대한 다른 예측(베타-케토티올라제 결핍증, Rett 증후군 선천성 변이형)은 임상시험과 문헌이 모두 없는 모델 예측뿐(L5)이며, 기전적 연관성도 확인되지 않아 보류가 적절합니다.*
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **브라키닥틸리-합지증 증후군(brachydactyly-syndactyl
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 indomethacin은 COX를 억제해 프로스타글란딘 매개 염증과 통증을 줄이는 NSAID 계열 약물입니다.
+미국 FDA가 승인한 Indomethacin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “인도메타신은 진통, 항염 및 해열 작용을 갖는다. INDOCIN의 작용기전은 다른 NSAID와 마찬가지로 완전히 밝혀지지 않았으나, 사이클로옥시게나제(COX-1 및 COX-2) 억제가 관여한다.” 영어 원문: "Indomethacin has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of INDOCIN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da), 버전 2024-12-16; 확인일 2026-11-19). 알려진 정보에 따르면 indomethacin은 COX를 억제해 프로스타글란딘 매개 염증과 통증을 줄이는 NSAID 계열 약물입니다.
 
 반면 브라키닥틸리-합지증 증후군은 손가락·발가락의 구조적 기형을 보이는 희귀 발달성 골격 질환으로, 유전적·구조적 병리가 원인입니다. COX 억제에 의한 소염 작용이 이 병리와 관련된다는 근거는 제공된 데이터에 없습니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델은 **브라키닥틸리-합지증 증후군(brachydactyly-syndactyl
 - 상세한 약물 작용 기전(MOA) 데이터 보완
 - 허가사항의 경고 및 금기 정보 확보와 안전성 검토
 - 이 질환을 직접 다룬 임상 또는 문헌 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

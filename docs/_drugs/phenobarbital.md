@@ -54,7 +54,7 @@ Phenobarbital은 국내에 단일성분 제제(정제 및 주사제) 7건이 허
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 phenobarbital은 GABA-A 수용체의 양성 알로스테릭 조절제이자 항경련제로 알려져 있으나, 항종양 활성은 알려져 있지 않습니다.
+미국 FDA가 승인한 Phenobarbital 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “신생아 발작 치료에 대한 페노바르비탈의 정확한 작용기전은 완전히 밝혀지지 않았으나, GABA A 수용체에 대한 작용을 통한 시냅스 억제의 증강이 관여하는 것으로 생각된다.” 영어 원문: "The precise mechanism of action for phenobarbital for the treatment of neonatal seizures is not fully understood, but it is thought to involve potentiation of synaptic inhibition through an action on the GABA A receptor." ([DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a), 버전 2026-10-23; 확인일 2026-11-19). 일반적으로 phenobarbital은 GABA-A 수용체의 양성 알로스테릭 조절제이자 항경련제로 알려져 있으나, 항종양 활성은 알려져 있지 않습니다.
 
 기존 용도와 예측 질환 사이에도 신뢰할 만한 기전적 연결고리가 없습니다. 연결된 유일한 문헌은 Sturge-Weber 증후군 증례 보고(14례)로, 삼차신경 종양이 아닌 신경피부 혈관 기형 질환을 다룹니다. 여기서 phenobarbital은 발작 조절 목적으로 쓰였을 가능성이 높습니다. 높은 점수(0.9996)는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 크며, 생물학적 근거나 실제 치료 관련성을 뜻하지는 않습니다. 설사 효과가 있더라도 동반된 발작의 증상 조절에 그칠 뿐, 질병 자체를 변화시키지는 않을 것입니다.
 
@@ -103,6 +103,19 @@ Phenobarbital은 국내에 단일성분 제제(정제 및 주사제) 7건이 허
 - 상세 작용 기전(MOA) 데이터 확보
 - 삼차신경 신생물 또는 삼차신경통에서 phenobarbital을 직접 평가한 연구 탐색
 - 삼차신경통을 우선 후보로 재검토할 경우 carbamazepine 등 기존 표준 치료 대비 이점과 병용 시 상호작용 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

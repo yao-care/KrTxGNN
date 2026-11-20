@@ -54,7 +54,7 @@ Reslizumab은 항 IL-5 단일클론항체로, 한국에서는 '싱케어주'라�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이 보고서에 정리된 자료에 없습니다. 알려진 정보에 따르면 reslizumab은 인터루킨-5(IL-5)를 표적으로 하는 단일클론항체로, 호산구의 생존과 활성화 신호를 차단하여 호산구 수를 줄입니다.
+미국 FDA가 승인한 Reslizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “레슬리주맙은 인터루킨-5 길항제(IgG4, kappa)이다. IL-5는 호산구의 성장 및 분화, 동원, 활성화 및 생존을 담당하는 주요 사이토카인이다. 레슬리주맙은 81 pM의 해리상수로 IL-5에 결합하여, 호산구 표면에 발현된 IL-5 수용체 복합체의 알파 사슬에 IL-5가 결합하는 것을 차단함으로써 IL-5의 생물학적 활성을 억제한다.” 영어 원문: "Reslizumab is an interleukin-5 antagonist (IgG4, kappa). IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils. Reslizumab binds to IL-5 with a dissociation constant of 81 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil surface." ([DailyMed: Cinqair (reslizumab) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33), 버전 2020-02-29; 확인일 2026-11-19). 알려진 정보에 따르면 reslizumab은 인터루킨-5(IL-5)를 표적으로 하는 단일클론항체로, 호산구의 생존과 활성화 신호를 차단하여 호산구 수를 줄입니다.
 
 반면 면역성 혈소판감소증(ITP 등)은 주로 자가항체, Fc 감마 수용체를 통한 식세포 작용, T세포 조절 이상으로 발생합니다. IL-5 차단과 혈소판 파괴를 직접 연결하는 확립된 기전은 없습니다. 일부 자가면역 사례에서 Th2/호산구성 염증이 관여할 가능성이 있다는 추정 정도가 가능하며, 이는 어디까지나 가설입니다. 높은 TxGNN 점수(0.9953)는 계산상의 예측일 뿐입니다.
 
@@ -96,6 +96,19 @@ Reslizumab은 항 IL-5 단일클론항체로, 한국에서는 '싱케어주'라�
 - DrugBank 등에서 상세 작용 기전(MOA) 확보
 - 항 IL-5 치료와 면역성 혈소판감소증(또는 혈소판 기능 장애)의 연관성을 다룬 전임상·관찰 연구 문헌 탐색
 - 호산구 증가가 동반된 자가면역성 혈소판감소증 하위군 등 가설 검증을 위한 소규모 탐색 연구 설계 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cinqair (reslizumab) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=053b9158-2a5b-48b9-bf47-5fa78a35ec33) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

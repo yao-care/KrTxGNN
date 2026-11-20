@@ -54,7 +54,7 @@ Anastrozole은 방향화효소(아로마타아제) 억제제 계열의 약물입
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Anastrozole은 방향화효소 억제제로 알려져 있으나, 이 보고서를 위해 수집된 데이터에서는 신경모세포종과 연결되는 기전을 확인할 수 없었습니다.
+미국 FDA가 승인한 Anastrozole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “많은 유방암의 성장은 에스트로겐에 의해 자극되거나 유지된다. 폐경 후 여성에서 에스트로겐은 주로 부신 안드로겐(주로 안드로스텐디온 및 테스토스테론)을 에스트론 및 에스트라디올로 전환하는 아로마타아제 효소의 작용으로부터 유래한다. […] 아나스트로졸은 선택적 비스테로이드성 아로마타아제 억제제이다.” 영어 원문: "The growth of many cancers of the breast is stimulated or maintained by estrogens. In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol. […] Anastrozole is a selective non-steroidal aromatase inhibitor." ([DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de), 버전 2026-03-02; 확인일 2026-11-19). Anastrozole은 방향화효소 억제제로 알려져 있으나, 이 보고서를 위해 수집된 데이터에서는 신경모세포종과 연결되는 기전을 확인할 수 없었습니다.
 
 신경모세포종은 대표적인 에스트로겐 의존성 종양이 아니며, 방향화효소 의존 기전이 있다는 근거도 제시된 데이터에서 확인되지 않습니다. 0.9953이라는 높은 점수는 네트워크 기반 예측 결과일 뿐, 실제 생물학적 타당성을 입증하지는 않습니다. 이 예측은 인공적인 결과일 가능성이 높습니다.
 
@@ -93,6 +93,19 @@ Anastrozole은 호르몬 치료제로, 기존 세포독성 항암제와는 성�
 - 허가사항(경고, 금기)의 확보 및 분석
 - 상세한 작용 기전(MOA) 데이터
 - 소아 환자 대상 안전성 및 내분비 영향 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

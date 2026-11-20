@@ -55,7 +55,7 @@ TxGNN 모델은 **유잉 육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 수집된 문헌에 따르면 Dasatinib은 SRC 계열 키나제와 c-KIT, PDGFR을 억제하는 경구 다중 표적 억제제입니다.
+미국 FDA가 승인한 Dasatinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “다사티닙은 나노몰 농도에서 다음 키나아제를 억제한다: BCR-ABL, SRC 계열(SRC, LCK, YES, FYN), c-KIT, EPHA2 및 PDGFRβ. 모델링 연구에 근거할 때, 다사티닙은 ABL 키나아제의 여러 구조형태에 결합하는 것으로 예측된다.” 영어 원문: "Dasatinib, at nanomolar concentrations, inhibits the following kinases: BCR-ABL, SRC family (SRC, LCK, YES, FYN), c-KIT, EPHA2, and PDGFRβ. Based on modeling studies, dasatinib is predicted to bind to multiple conformations of the ABL kinase." ([DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df), 버전 2026-10-16; 확인일 2026-11-19). 다만 수집된 문헌에 따르면 Dasatinib은 SRC 계열 키나제와 c-KIT, PDGFR을 억제하는 경구 다중 표적 억제제입니다.
 
 유잉 육종에서는 SRC 및 FAK-Src 신호가 침윤, 이동, 침습위족(invadopodia) 형성을 촉진하는 것으로 보고되었습니다. 유잉 육종 세포주에서 Dasatinib이 증식 및 이동을 억제했다는 전임상 결과가 이 기전적 연결을 뒷받침합니다.
 
@@ -122,6 +122,19 @@ TxGNN 모델은 **유잉 육종(Ewing sarcoma)**에 효과가 있을 수 있다�
 - 허가사항 기반 경고·금기 정보 확보
 - 작용 기전(MOA) 상세 데이터 보완
 - 한국 허가 적응증 텍스트 확인 및 시판 현황 검증
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sprycel (dasatinib) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4764f37b-c9e6-4ede-bcc2-8a03b7c521df) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

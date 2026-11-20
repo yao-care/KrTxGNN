@@ -56,7 +56,7 @@ TxGNN 모델은 **콜레스테롤 에스테르 전달 단백질 결핍증(choles
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 데이터베이스에 없습니다. 일반적으로 알려진 바에 따르면, Ezetimibe는 NPC1L1 매개 장내 콜레스테롤 흡수를 억제하여 LDL 콜레스테롤을 낮춥니다.
+미국 FDA가 승인한 Ezetimibe 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “에제티미브는 소장에서의 콜레스테롤 흡수를 억제하여 혈중 콜레스테롤을 감소시킨다. 에제티미브의 분자 표적은 콜레스테롤 및 식물스테롤의 장내 흡수에 관여하는 스테롤 수송체인 Niemann-Pick C1-Like 1 (NPC1L1)인 것으로 밝혀졌다.” 영어 원문: "Ezetimibe reduces blood cholesterol by inhibiting the absorption of cholesterol by the small intestine. The molecular target of ezetimibe has been shown to be the sterol transporter, Niemann-Pick C1-Like 1 (NPC1L1), which is involved in the intestinal uptake of cholesterol and phytosterols." ([DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9), 버전 2026-10-08; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면, Ezetimibe는 NPC1L1 매개 장내 콜레스테롤 흡수를 억제하여 LDL 콜레스테롤을 낮춥니다.
 
 CETP 결핍증은 HDL 콜레스테롤이 높고 지단백 대사가 변하는 유전적 상태로, 그 자체로 치료가 필요한 질환이 아닙니다. 0.9909라는 높은 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 크며, 생물학적 근거나 실제 치료 관계를 의미한다고 보기 어렵습니다.
 
@@ -109,6 +109,19 @@ CETP 결핍증은 그 자체로 치료 대상이 아닌 유전적 상태이며, 
 - 상세한 작용 기전(MOA) 데이터 확보
 - CETP 결핍증 환자 중 이상지질혈증 또는 심혈관 위험이 높은 집단에서 Ezetimibe 사용을 직접 평가한 연구 탐색
 - 예측 대상 질환을 치료 필요 질환으로 볼 수 있는지에 대한 임상적 재검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

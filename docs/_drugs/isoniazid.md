@@ -55,7 +55,7 @@ TxGNN 모델은 **결막염(Conjunctivitis)**에 효과가 있을 수 있다고 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적인 약리학 지식에 따르면 isoniazid는 결핵균에 특이적으로 작용하는 항결핵제입니다. KatG에 의해 활성화된 뒤 InhA를 억제하여 미코liq산(mycolic acid) 합성을 차단합니다.
+미국 FDA가 승인한 Isoniazid 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이소니아지드는 세균 세포벽의 필수 구성 성분인 미콜산의 합성을 억제한다. 치료 농도에서 이소니아지드는 활발히 증식하는 세포 내 및 세포 외 결핵균(Mycobacterium tuberculosis)에 대해 살균 작용을 나타낸다.” 영어 원문: "Isoniazid inhibits the synthesis of mycoloic acids, an essential component of the bacterial cell wall. At therapeutic levels isoniazid is bactericidal against actively growing intracellular and extracellular Mycobacterium tuberculosis organisms." ([DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b), 버전 2026-09-04; 확인일 2026-11-19). 일반적인 약리학 지식에 따르면 isoniazid는 결핵균에 특이적으로 작용하는 항결핵제입니다. KatG에 의해 활성화된 뒤 InhA를 억제하여 미코liq산(mycolic acid) 합성을 차단합니다.
 
 결막염과의 연관성은 결핵 관련 질환에 한정됩니다. 결핵균 항원에 대한 과민반응인 플릭텐성 각결막염(phlyctenular keratoconjunctivitis)이나 드문 원발성 결막 결핵에서는 기저의 결핵균 감염을 치료·예방하는 방식으로 효과를 낼 수 있습니다. 방광 내 BCG 면역요법 후 발생한 반응성 관절염 및 결막염에도 항미코박테리아 작용을 통해 사용된 사례가 있습니다.
 
@@ -110,6 +110,19 @@ TxGNN 점수는 높지만 임상시험이 없고, 문헌은 결핵 관련 결막
 - 결핵성(플릭텐성) 각결막염 등 범위를 좁힌 적응증 설정 및 현대 연구 근거 확인
 - 안과 국소 투여 등 투여 경로 적합성 검토 (현재 한국 허가 제형은 모두 경구제)
 - 안구 질환 환자에 대한 전신 안전성(간독성, 말초신경병증) 및 약물 상호작용 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: isoniazid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6dab7b7b-a3a9-47ef-b423-134bc6970d8b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

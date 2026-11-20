@@ -55,7 +55,7 @@ TxGNN 모델은 **간 경색(hepatic infarction)**에 효과가 있을 수 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 Canakinumab은 IL-1β를 중화하는 항체로 알려져 있어, 이론상 허혈과 관련된 염증 반응을 조절할 가능성은 있습니다.
+미국 FDA가 승인한 Canakinumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “카나키누맙은 IgG1/κ 동종형의 인간 항-인간 IL-1β 단일클론항체이다. 카나키누맙은 인간 IL-1β에 결합하여 IL-1 수용체와의 상호작용을 차단함으로써 그 활성을 중화하지만, IL-1α 또는 IL-1 수용체 길항제(IL-1ra)에는 결합하지 않는다.” 영어 원문: "Canakinumab is a human monoclonal anti-human IL-1β antibody of the IgG1/κ isotype. Canakinumab binds to human IL-1β and neutralizes its activity by blocking its interaction with IL-1 receptors, but it does not bind IL-1α or IL-1 receptor antagonist (IL-1ra)." ([DailyMed: Ilaris (canakinumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d271f3b-e4f9-4d80-8dcf-28d49123f80e), 버전 2026-06-08; 확인일 2026-11-19). 다만 Canakinumab은 IL-1β를 중화하는 항체로 알려져 있어, 이론상 허혈과 관련된 염증 반응을 조절할 가능성은 있습니다.
 
 그러나 간 경색에 대해 IL-1β 차단이 효과가 있다는 직접적인 근거나 데이터는 없습니다. 기존 적응증인 자가염증 질환과 간 경색은 병태생리가 크게 달라, 기전상 연관성도 약합니다. 이 예측 점수는 TxGNN 모델(딥러닝)의 출력이며, 관련 질환 간에 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -101,6 +101,19 @@ FMF는 colchicine 불응성 또는 불내성 환자로 제한하고 감염을 �
 - 간 경색 관련 증례 보고나 관찰 연구 등 임상 근거
 - 상세한 작용 기전 데이터와 허가사항(경고·금기) 확인
 - 근거가 있는 FMF 등 다른 예측 적응증을 우선 검토할지 판단
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ilaris (canakinumab) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7d271f3b-e4f9-4d80-8dcf-28d49123f80e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

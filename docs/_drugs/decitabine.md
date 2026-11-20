@@ -55,7 +55,7 @@ TxGNN 모델은 **소아 불응성 혈구감소증(Refractory Cytopenia of Child
 
 ## 이 예측이 타당한 이유는?
 
-이번 보고서를 위해 수집된 데이터에는 Decitabine의 상세한 작용 기전 정보가 없습니다. 알려진 약리학에 따르면 Decitabine은 DNA 메틸기전이효소를 억제하는 저메틸화제이며, 이미 MDS 치료에 쓰이고 있습니다. 아래 기전 설명은 제공된 원자료가 아니라 이 일반 지식에 근거한 추론입니다.
+미국 FDA가 승인한 Decitabine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “데시타빈은 인산화된 후 DNA에 직접 삽입되고 DNA methyltransferase를 억제하여 DNA의 저메틸화와 세포 분화 또는 세포자멸사를 유발함으로써 항종양 효과를 나타내는 것으로 여겨진다. 데시타빈은 시험관 내에서 DNA 메틸화를 억제하며, 이는 DNA 합성을 크게 억제하지 않는 농도에서 달성된다.” 영어 원문: "Decitabine is believed to exert its antineoplastic effects after phosphorylation and direct incorporation into DNA and inhibition of DNA methyltransferase, causing hypomethylation of DNA and cellular differentiation or apoptosis. Decitabine inhibits DNA methylation in vitro, which is achieved at concentrations that do not cause major suppression of DNA synthesis." ([DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5), 버전 2026-11-03; 확인일 2026-11-19). 알려진 약리학에 따르면 Decitabine은 DNA 메틸기전이효소를 억제하는 저메틸화제이며, 이미 MDS 치료에 쓰이고 있습니다. 아래 기전 설명은 제공된 원자료가 아니라 이 일반 지식에 근거한 추론입니다.
 
 소아 불응성 혈구감소증(RCC)은 소아 MDS에서 가장 흔한 아형입니다. 비정상적인 DNA 메틸화와 클론성 조혈, 비효율적 조혈이라는 질환 생물학이 성인 MDS와 겹치므로, 기전상 적용 가능성이 있습니다. 다만 소아 환자의 약동학, 안전성, 장기 영향은 별도 검증이 필요합니다.
 
@@ -110,6 +110,19 @@ TxGNN 점수는 높지만 등록된 임상시험이 없고, 문헌도 소규모 
 - 소아 RCC에서 Decitabine의 효능과 안전성을 평가하는 전향적 연구 설계 검토
 - 소아 환자 대상 용량, 골수억제 모니터링 계획 수립
 - 기존 허가 적응증의 정확한 문구 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: decitabine prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5975fa81-1e29-4d56-e063-6394a90a9cd5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

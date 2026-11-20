@@ -54,7 +54,7 @@ Rufinamide는 한국에서 항전간제로 허가·시판 중인 단일 성분 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바에 따르면, Rufinamide는 전압 의존성 나트륨 채널의 비활성 상태를 연장하는 항전간제로 알려져 있습니다. 이는 데이터 수집 결과가 아니라 일반 지식에 근거한 설명입니다.
+미국 FDA가 승인한 Rufinamide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “루피나미드가 항뇌전증 효과를 나타내는 정확한 기전은 알려져 있지 않다. 시험관 내 연구 결과에 따르면 루피나미드의 주요 작용 기전은 나트륨 채널 활성의 조절, 특히 채널의 불활성 상태 연장인 것으로 시사된다.” 영어 원문: "The precise mechanism(s) by which rufinamide exerts its antiepileptic effect is unknown. The results of in vitro studies suggest that the principal mechanism of action of rufinamide is modulation of the activity of sodium channels and, in particular, prolongation of the inactive state of the channel." ([DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d), 버전 2022-12-15; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면, Rufinamide는 전압 의존성 나트륨 채널의 비활성 상태를 연장하는 항전간제로 알려져 있습니다. 이는 데이터 수집 결과가 아니라 일반 지식에 근거한 설명입니다.
 
 FIRES는 치료가 어려운 뇌전증성 뇌병증으로, 신경염증이 주요 원인으로 거론됩니다. 나트륨 채널 차단은 발작의 일부에만 도움이 될 가능성이 있어, 기전상 연관성은 부분적입니다.
 
@@ -99,6 +99,19 @@ TxGNN 예측 점수는 높지만 이를 뒷받침하는 임상시험과 문헌�
 - 허가사항(경고, 금기, 허가 적응증)을 내려받아 확인하고 안전성 검토 진행
 - 간 기능 및 백혈구 수치와 관련된 안전성 모니터링 계획 수립
 - 병용 약물(특히 코르티코스테로이드)과의 상호작용 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Banzel (rufinamide) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a3fa925-1abd-458a-bd57-4ae780a1ef2d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

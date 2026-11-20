@@ -56,7 +56,7 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Risperidone은 D2/5-HT2A 길항 작용을 가진 항정신병약으로 알려져 있습니다.
+미국 FDA가 승인한 Risperidone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “조현병에서 리스페리돈의 작용기전은 명확하지 않다. 조현병에서 이 약물의 치료 활성은 도파민 2형(D 2 ) 및 세로토닌 2형(5HT 2 ) 수용체 길항작용의 조합을 통해 매개될 수 있다.” 영어 원문: "The mechanism of action of risperidone in schizophrenia is unclear. The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2 ) receptor antagonism." ([DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0), 버전 2026-10-23; 확인일 2026-11-19). Risperidone은 D2/5-HT2A 길항 작용을 가진 항정신병약으로 알려져 있습니다.
 
 예측된 질환은 ROBO3 관련 희귀 유전질환으로, 축삭 유도와 뇌간 발달의 이상이 원인입니다. Risperidone의 수용체 길항 작용과 이 병리 사이에서는 개연성 있는 기전적 연결고리를 찾지 못했습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거가 아니므로 약리학적·임상적 타당성을 입증하지 않습니다.
 
@@ -110,6 +110,19 @@ TxGNN 모델은 **가족성 수평 시선마비 및 진행성 척추측만증(ga
 - 허가사항 PDF에서 경고·금기·적응증 본문 확보 (현재 안전성 1차 검토의 차단 요소)
 - 상세한 작용 기전(MOA) 데이터 확보
 - 이 질환과 risperidone을 연결하는 전임상·기전 연구 또는 증례 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Risperdal (risperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

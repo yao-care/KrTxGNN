@@ -56,7 +56,7 @@ TxGNN 모델은 **칼륨 결핍증(potassium deficiency disease)**에 효과가 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Inclisiran은 간세포의 PCSK9 mRNA를 억제하여 LDL 콜레스테롤을 낮추는 siRNA 약물입니다.
+미국 FDA가 승인한 Inclisiran 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “인클리시란은 간세포에 의한 흡수를 촉진하기 위해 센스 가닥에 삼지형 N-아세틸갈락토사민(GalNAc)이 접합된 이중가닥 소간섭 리보핵산(siRNA)이다. 간세포에서 인클리시란은 RNA 간섭 기전을 이용하여 PCSK9에 대한 mRNA의 촉매적 분해를 유도한다.” 영어 원문: "Inclisiran is a double-stranded small interfering ribonucleic acid (siRNA), conjugated on the sense strand with triantennary N-Acetylgalactosamine (GalNAc) to facilitate uptake by hepatocytes. In hepatocytes, inclisiran utilizes the RNA interference mechanism and directs catalytic breakdown of mRNA for PCSK9." ([DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44), 버전 2026-08-19; 확인일 2026-11-19). 알려진 정보에 따르면 Inclisiran은 간세포의 PCSK9 mRNA를 억제하여 LDL 콜레스테롤을 낮추는 siRNA 약물입니다.
 
 이 작용은 칼륨 항상성과 직접적인 관련이 없습니다. 기전상 연결고리를 찾기 어려우며, 높은 TxGNN 점수는 모델 예측일 뿐 임상시험이나 문헌으로 뒷받침되지 않습니다.
 
@@ -84,6 +84,19 @@ TxGNN 모델은 **칼륨 결핍증(potassium deficiency disease)**에 효과가 
 - 약물 상호작용 정보 확인
 
 *참고: 순위 2~10위 예측(식도 질환, 편두통, 대동맥 기형, 레이노병 등)도 모두 직접적인 근거가 없어 Hold로 평가되었습니다. 8위 대동맥 기형에 연결된 Phase 3 시험 2건은 소아 가족성 고콜레스테롤혈증 시험으로 보이며, 해당 적응증의 직접 근거가 아닙니다.*
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

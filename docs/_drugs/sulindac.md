@@ -55,7 +55,7 @@ TxGNN 모델은 **말단중간이형성증 헌터-톰슨형(acromesomelic dyspla
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 Sulindac은 COX-1/COX-2를 억제하는 NSAID로 알려져 있으며, 활성 대사체인 sulfide는 Wnt/β-catenin 신호 등 COX와 무관한 작용도 보고되어 있습니다. 다만 이는 이번 데이터에서 확인된 내용이 아니라 일반적인 약리학 지식입니다.
+ChEMBL(EMBL-EBI)에 등록된 Sulindac의 작용 기전(비공식 번역): “사이클로옥시게나제 억제제” 영어 원문: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL15770 (sulindac): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL15770), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 Sulindac은 COX-1/COX-2를 억제하는 NSAID로 알려져 있으며, 활성 대사체인 sulfide는 Wnt/β-catenin 신호 등 COX와 무관한 작용도 보고되어 있습니다. 다만 이는 이번 데이터에서 확인된 내용이 아니라 일반적인 약리학 지식입니다.
 
 이 질환은 BMP 신호 경로에 속한 GDF5 유전자의 기능 상실 변이로 생기는 골격 이형성증입니다. Sulindac의 약리와 GDF5 결핍을 이어 주는 경로는 현재 데이터로 뒷받침되지 않습니다. 높은 TxGNN 점수는 희귀 골격질환 노드 간의 네트워크 근접성을 반영한 결과일 가능성이 큽니다. 약리학적 타당성을 의미하는 것은 아닙니다.
 
@@ -101,6 +101,19 @@ TxGNN 점수는 매우 높지만 이를 뒷받침하는 임상시험과 문헌�
 - GDF5/BMP 경로와 Sulindac 사이의 연관성에 대한 전임상 근거 탐색
 - 해당 질환 대상 임상시험 및 문헌 조사
 - 시판 상태(취소 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL15770 (sulindac): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL15770) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

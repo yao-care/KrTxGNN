@@ -54,7 +54,7 @@ Prasugrel은 한국에서 에피언트정(5mg, 10mg)으로 허가·시판 중인
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Prasugrel은 P2Y12 수용체 길항제로 혈소판 응집을 억제하는 항혈소판제입니다.
+미국 FDA가 승인한 Prasugrel 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “프라수그렐은 활성 대사체가 혈소판의 P2Y 12 계열 ADP 수용체에 비가역적으로 결합함으로써 혈소판 활성화 및 응집을 억제하는 억제제이다.” 영어 원문: "Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets." ([DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e), 버전 2022-09-07; 확인일 2026-11-19). 알려진 정보에 따르면 Prasugrel은 P2Y12 수용체 길항제로 혈소판 응집을 억제하는 항혈소판제입니다.
 
 혈소판 활성화와 폐혈관 내 국소 혈전 형성은 폐혈관 리모델링에 기여할 수 있어, 기전상 그럴듯한 연관성은 있습니다. 다만 이는 입증되지 않은 가설입니다. TxGNN 점수는 매우 높지만 이를 뒷받침하는 임상시험은 없습니다.
 
@@ -102,6 +102,19 @@ Prasugrel은 한국에서 에피언트정(5mg, 10mg)으로 허가·시판 중인
 - 작용 기전(MOA) 데이터 보충
 - 폐고혈압에서 혈소판 P2Y12 억제의 효과를 보는 전임상 또는 탐색적 임상 근거
 - 우선순위 재검토: 편두통(L3, 연구 질문 단계)과 전조가 있는 편두통은 레트로스펙티브 연구와 소규모 오픈라벨 연구(ticagrelor)가 있어 폐고혈압보다 근거가 앞섭니다. 다만 직접적인 prasugrel 무작위 시험 근거는 제한적이며, 관련 시험(NCT07629635)은 PFO 치료를 평가하는 진행 중 3상 시험(참여자 32명)으로 prasugrel 자체를 검증하는 것은 아닙니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

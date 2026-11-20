@@ -56,7 +56,7 @@ TxGNN 모델은 **호흡기 기형(Respiratory Malformation)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 일반적으로 알려진 바로는 tiotropium은 기관지 평활근의 M3 무스카린 수용체를 차단해 기관지를 확장시키는 LAMA 계열 약물입니다. 이 점에서 기도 폐쇄가 동반된 질환에서 증상 완화를 기대해 볼 수 있습니다.
+미국 FDA가 승인한 Tiotropium 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Tiotropium은 장시간 작용 항무스카린제로, 흔히 항콜린제로 불린다. 이 약은 무스카린 수용체 아형인 M 1부터 M 5까지에 대해 유사한 친화도를 가진다. 기도에서는 평활근의 M 3 -수용체를 억제함으로써 약리학적 효과를 나타내어 기관지 확장을 일으킨다.” 영어 원문: "Tiotropium is a long-acting, antimuscarinic agent, which is often referred to as an anticholinergic. It has similar affinity to the subtypes of muscarinic receptors, M 1 to M 5. In the airways, it exhibits pharmacological effects through inhibition of M 3 -receptors at the smooth muscle leading to bronchodilation." ([DailyMed: Spiriva Handihaler (tiotropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=820839ef-e53d-47e8-a3b9-d911ff92e6a9), 버전 2025-11-10; 확인일 2026-11-19). 일반적으로 알려진 바로는 tiotropium은 기관지 평활근의 M3 무스카린 수용체를 차단해 기관지를 확장시키는 LAMA 계열 약물입니다. 이 점에서 기도 폐쇄가 동반된 질환에서 증상 완화를 기대해 볼 수 있습니다.
 
 다만 이는 간접적인 추정입니다. 호흡기 기형은 구조적 이상이며, 기관지 확장이 기형 자체에 도움이 된다는 근거는 없습니다. 0.9995라는 높은 TxGNN 점수는 모델의 계산 결과일 뿐 임상적 근거가 아닙니다. 연결된 시험과 문헌은 낭포성 섬유증이나 COPD 같은 폐쇄성 기도질환을 다루며, 선천성 호흡기 기형을 다룬 연구는 아닙니다.
 
@@ -113,6 +113,19 @@ TxGNN 모델은 **호흡기 기형(Respiratory Malformation)**에 효과가 있�
 - 호흡기 기형 환자를 대상으로 한 직접적인 임상 또는 관찰 연구 근거 확인
 - 호흡기 기형 중 기도 반응성이 동반된 하위군이 있는지 정의하고 기관지 확장제 반응성 평가
 - 한국 시판 현황(취소 여부 포함) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Spiriva Handihaler (tiotropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=820839ef-e53d-47e8-a3b9-d911ff92e6a9) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

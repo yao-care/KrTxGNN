@@ -55,7 +55,7 @@ TxGNN 모델은 **여드름(acne)**에 효과가 있을 수 있다고 예측하�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, 산화아연은 외용 피부 보호제와 아연 보충제로 사용되고 있으며, 아연 이온의 항염 작용이 여드름 염증과 관련될 수 있습니다.
+미국 FDA가 승인한 miconazole nitrate, zinc oxide, white petrolatum(Zinc Oxide 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “기저귀 피부염의 보조 치료에서 백색 바셀린 및 산화아연의 작용기전은 알려져 있지 않다.” 영어 원문: "The mechanism of action of white petrolatum and zinc oxide for the adjunctive treatment of diaper dermatitis is unknown." ([DailyMed: Vusion (miconazole nitrate, zinc oxide, white petrolatum) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b44b452d-3630-4cb5-8ed1-1f8edac4690c), 버전 2018-08-15; 확인일 2026-11-19). 알려진 정보에 따르면, 산화아연은 외용 피부 보호제와 아연 보충제로 사용되고 있으며, 아연 이온의 항염 작용이 여드름 염증과 관련될 수 있습니다.
 
 아연 이온은 가벼운 항염 효과가 있고 피지 관련 염증을 줄일 수 있습니다. 또한 산화아연 입자는 활성산소종 생성과 세포막 손상을 통해 여드름균(*Cutibacterium acnes*)에 대한 항균 활성을 보입니다. 국소 및 경구 여드름 치료 요법에 아연이 사용되기도 하여 생물학적 개연성은 있습니다.
 
@@ -102,6 +102,19 @@ TxGNN 점수는 매우 높지만(0.9986), 임상시험 등록이 없고 문헌�
 - 상세한 작용 기전(MOA) 데이터 확보
 - 여드름에 대한 산화아연 외용제의 직접적인 임상 근거 (무작위 대조시험 등) 검토
 - 수출용 허가 제품이 많으므로 국내 사용 가능한 제형·경로 적합성 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Vusion (miconazole nitrate, zinc oxide, white petrolatum) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b44b452d-3630-4cb5-8ed1-1f8edac4690c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

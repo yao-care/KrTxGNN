@@ -54,7 +54,7 @@ Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으로 시판 중�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 Baricitinib은 일반적으로 JAK1/JAK2 억제제로 알려져 있으며, 염증성 JAK-STAT 신호 전달을 차단하는 약물입니다.
+미국 FDA가 승인한 Baricitinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “바리시티닙은 야누스 키나아제(JAK) 저해제이다. JAK는 세포막에서 사이토카인 또는 성장인자-수용체 상호작용으로 발생하는 신호를 전달하여 조혈 및 면역세포 기능의 세포 과정에 영향을 미치는 세포내 효소이다.” 영어 원문: "Baricitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function." ([DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf), 버전 2026-10-09; 확인일 2026-11-19). 다만 Baricitinib은 일반적으로 JAK1/JAK2 억제제로 알려져 있으며, 염증성 JAK-STAT 신호 전달을 차단하는 약물입니다.
 
 예측된 신규 적응증은 안구와 사지 뼈의 발생 이상을 특징으로 하는 희귀 발달 증후군입니다. 이 질환과 JAK-STAT 신호 전달 사이에서 이번에 확인된 자료만으로는 타당한 기전적 연결고리를 찾을 수 없습니다. 이런 증후군은 보통 발생 과정이나 유전적 원인으로 생기므로, 염증 경로를 억제한다고 교정될 것으로 기대하기 어렵습니다.
 
@@ -93,6 +93,19 @@ Baricitinib은 한국에서 올루미언트정(1mg, 2mg, 4mg)으로 시판 중�
 - 상세한 약물 작용 기전(MOA) 데이터 확보
 - 예측 질환의 병태생리와 JAK-STAT 경로 간 연관성에 대한 전임상·기전 연구 근거
 - 관련 임상시험 및 문헌 탐색 (현재 등록 건 없음)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

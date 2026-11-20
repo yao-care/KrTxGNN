@@ -54,7 +54,7 @@ Ofloxacin은 플루오로퀴놀론계 항균제로, 한국에서 점안액·안�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 Ofloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 항균제로 알려져 있습니다.
+미국 FDA가 승인한 Ofloxacin 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “오플록사신은 세균 토포이소머라제인 DNA 자이레이스를 억제함으로써 항균 활성을 나타낸다. DNA 자이레이스는 DNA 위상을 조절하고 DNA 복제, 복구, 불활성화 및 전사를 돕는 필수 효소이다.” 영어 원문: "Ofloxacin exerts its antibacterial activity by inhibiting DNA gyrase, a bacterial topoisomerase. DNA gyrase is an essential enzyme which controls DNA topology and assists in DNA replication, repair, deactivation, and transcription." ([DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de), 버전 2026-10-23; 확인일 2026-11-19). 일반적으로 Ofloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 항균제로 알려져 있습니다.
 
 다발성 과점성 증후군은 면역글로불린 과다로 혈액 점도가 높아지는 상태로, 세균 증식과 관련된 질환이 아닙니다. 따라서 항균 기전과 이 질환 사이에서 설득력 있는 연결고리를 찾기 어렵습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 산출한 계산상의 예측일 뿐이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. 이를 지지하는 임상시험이나 문헌은 없습니다.
 
@@ -108,6 +108,19 @@ Ofloxacin은 플루오로퀴놀론계 항균제로, 한국에서 점안액·안�
 - 한국 허가사항(적응증, 경고, 금기) 본문의 확보와 분석
 - 이 질환을 직접 다룬 전임상 또는 임상 근거
 - 참고로 같은 데이터에서 예측된 다른 후보인 **패혈성 페스트(septicemic plague)**는 시험관 내 감수성 연구와 동물 실험이 있어 L4로 평가되었습니다. 우선순위를 높여 별도로 검토할 가치가 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ofloxacin Otic (ofloxacin) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42366170-e536-46a1-9735-d76e5820a9de) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

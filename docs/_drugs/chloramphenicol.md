@@ -56,7 +56,7 @@ TxGNN 모델은 **미만성 피부경화증(diffuse scleroderma)**에 효과가 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 chloramphenicol은 세균의 단백질 합성을 억제하는 항균제로 알려져 있으나, 이 보고서에 정리된 자료에서는 확인되지 않았습니다.
+미국 FDA가 승인한 Chloramphenicol 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 및 “Microbiology” 항목에 따르면(비공식 번역): “클로람페니콜은 원래 Streptomyces venezuelae에서 분리된 광범위 항생제이다. 이 약물은 활성화된 아미노산이 가용성 RNA로부터 리보솜으로 전달되는 과정을 방해함으로써 세균의 단백질 합성을 억제한다.” 영어 원문: "Chloramphenicol is a broad-spectrum antibiotic originally isolated from Streptomyces venezuelae. It inhibits bacterial protein synthesis by interfering with the transfer of activated amino acids from soluble RNA to ribosomes." ([DailyMed: chloramphenicol sodium succinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3), 버전 2024-10-10; 확인일 2026-11-19). 일반적으로 chloramphenicol은 세균의 단백질 합성을 억제하는 항균제로 알려져 있으나, 이 보고서에 정리된 자료에서는 확인되지 않았습니다.
 
 검색된 문헌 4편(1996~2006년)은 피부경화증 섬유아세포에서의 콜라겐 유전자 조절(α1(I) 프로콜라겐 프로모터, Smad3/Sp1/p300, TGF-β 신호)을 다룹니다. 이 연구들은 chloramphenicol을 시험하지 않았습니다. 미토콘드리아 단백질 합성 억제가 섬유아세포 활동에 영향을 줄 수 있다는 추정은 가능하지만 이를 뒷받침하는 자료는 없는 가설 단계입니다.
 
@@ -101,6 +101,19 @@ TxGNN 모델은 **미만성 피부경화증(diffuse scleroderma)**에 효과가 
 - 섬유아세포 모델 등 전임상 연구를 통한 효과 확인
 - 허가 문서의 경고·금기 사항 확보 및 골수 독성 위험-이익 평가
 - 한국 허가 제품이 모두 점안액(수출용)이므로, 전신 투여가 필요한 경우 투여 경로 적합성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: chloramphenicol sodium succinate prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=aed29594-211d-49ef-813f-131975a8d0e3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -57,7 +57,7 @@ TxGNN 모델은 **중증 비증식성 당뇨망막병증(Severe Nonproliferative
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, 이 약은 철분 보충제로서 철 결핍성 빈혈의 치료와 예방에 허가되어 있습니다.
+미국 FDA가 승인한 Sodium Ferric Gluconate Complex 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Ferrlecit은 체내 철 함량을 보충하는 데 사용된다. 철은 산소 운반을 유지하기 위한 정상적인 헤모글로빈 합성에 필수적이다. 또한 철은 대사 및 다양한 효소 과정에 필요하다.” 영어 원문: "Ferrlecit is used to replete the body content of iron. Iron is critical for normal hemoglobin synthesis to maintain oxygen transport. Additionally, iron is necessary for metabolism and various enzymatic processes." ([DailyMed: Ferrlecit (sodium ferric gluconate complex) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b25b34ab-9cf1-4a2b-bdf2-5eaf66625999), 버전 2025-10-07; 확인일 2026-11-19). 알려진 정보에 따르면, 이 약은 철분 보충제로서 철 결핍성 빈혈의 치료와 예방에 허가되어 있습니다.
 
 그러나 철분 보충이 당뇨망막병증에서 치료 역할을 한다고 알려진 바는 없습니다. 오히려 과량의 철은 이론적으로 망막에 산화 스트레스를 더할 수 있습니다. 기존 적응증과 예측 적응증 사이에 확립된 기전적 연결고리가 없으므로, 이 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영할 뿐 생물학적 근거는 아니며, 높은 예측 점수에도 불구하고 이 예측은 신뢰하기 어렵습니다.
 
@@ -104,6 +104,19 @@ TxGNN 점수는 매우 높지만 임상시험과 문헌이 전혀 없고 기전�
 - **아나필락시스, 식이 의존성 운동 유발 아나필락시스**: 문헌은 이 약의 이상반응(아나필락시스 유사 반응)을 다룬 것으로, 치료 대상이 아닙니다. 이 약으로 아나필락시스를 치료하는 것은 근거가 없으며 원칙적으로 부적절합니다.
 - **기관지염**: 등록된 2건의 4상 시험(NCT00224055, NCT00224042)은 만성 신장질환 환자의 철 결핍 치료 시험으로, 기관지염의 효능을 평가하지 않았습니다.
 - 위 모든 예측 적응증에 대한 권장 결정은 Hold입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ferrlecit (sodium ferric gluconate complex) prescribing information, sanofi-aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b25b34ab-9cf1-4a2b-bdf2-5eaf66625999) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

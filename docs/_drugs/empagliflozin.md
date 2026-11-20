@@ -57,7 +57,7 @@ TxGNN 모델은 **전형적 강직인간증후군(Classic Stiff Person Syndrome)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 empagliflozin은 SGLT2 억제제로, 신장에서 포도당 재흡수를 막아 소변 포도당 배설을 늘리고 혈당을 낮춥니다.
+미국 FDA가 승인한 Empagliflozin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “엠파글리플로진은 사구체 여과액으로부터 포도당을 순환계로 재흡수하는 데 관여하는 주된 수송체인 SGLT2의 억제제이다. 엠파글리플로진은 SGLT2를 억제함으로써 여과된 포도당의 신장 재흡수를 감소시키고 포도당의 신장 역치를 낮추어 요중 포도당 배설을 증가시킨다.” 영어 원문: "Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation. By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion." ([DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565), 버전 2026-11-10; 확인일 2026-11-19). 알려진 정보에 따르면 empagliflozin은 SGLT2 억제제로, 신장에서 포도당 재흡수를 막아 소변 포도당 배설을 늘리고 혈당을 낮춥니다.
 
 강직인간증후군은 GABA 신경전달과 글루탐산 탈탄산효소(GAD65)가 관여하는 자가면역성 신경질환입니다. 제1형 당뇨병 등 다른 자가면역질환과 자주 동반됩니다. 이번 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. SGLT2 억제가 이 질환의 병태생리에 직접 작용한다는 경로는 확립되어 있지 않습니다.
 
@@ -115,11 +115,12 @@ TxGNN 모델은 **전형적 강직인간증후군(Classic Stiff Person Syndrome)
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “20건이 모두 유효한 허가입니다. 이 중 주요 5건입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565) |
 
 <!-- review:end log -->
 

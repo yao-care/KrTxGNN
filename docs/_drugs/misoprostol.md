@@ -54,7 +54,7 @@ Misoprostol은 프로스타글란딘 E1(PGE1) 유사체로, 한국에서 단일�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Misoprostol은 프로스타글란딘 E1 유사체로, 자궁경부 숙화와 자궁 수축을 유도합니다. 이론적으로는 무월경이 조기 임신이나 잔류 임신 조직 때문일 때 자궁 내용물 배출이나 월경성 출혈 회복에 도움이 될 수 있습니다.
+미국 FDA가 승인한 diclofenac sodium and misoprostol(Misoprostol 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “미소프로스톨 미소프로스톨은 위산 분비 억제 및 점막 보호 특성을 지닌 합성 PGE1 유사체이다. 미소프로스톨은 중탄산염 및 점액 생성을 증가시킬 수 있으나, 이는 위산 분비 억제 작용도 나타내는 200 mcg 이상의 용량에서 확인되었다.” 영어 원문: "Misoprostol Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties. Misoprostol can increase bicarbonate and mucus production, but it has been shown at doses 200 mcg and above that are also antisecretory." ([DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3), 버전 2026-08-31; 확인일 2026-11-19). 알려진 정보에 따르면 Misoprostol은 프로스타글란딘 E1 유사체로, 자궁경부 숙화와 자궁 수축을 유도합니다. 이론적으로는 무월경이 조기 임신이나 잔류 임신 조직 때문일 때 자궁 내용물 배출이나 월경성 출혈 회복에 도움이 될 수 있습니다.
 
 다만 검색된 문헌은 저용량 mifepristone과 misoprostol 병용 임신 중절, 계류유산 관리 등에 관한 것이며, 무월경 자체를 치료한 연구가 아닙니다. 여기서 무월경은 임신 등 다른 원인의 증상일 뿐이므로 연관성은 간접적입니다. 시상하부, 뇌하수체, 난소, 구조적 원인에 의한 원발성·속발성 무월경에 효과가 있다는 근거도 없습니다. 높은 TxGNN 점수는 임신·자궁 출혈 관련 네트워크 맥락의 영향일 가능성이 크며, 임상 데이터로 뒷받침되지 않습니다.
 
@@ -109,6 +109,19 @@ Misoprostol은 프로스타글란딘 E1(PGE1) 유사체로, 한국에서 단일�
 - 상세한 작용 기전(MOA) 데이터 (DrugBank 조회)
 - 비임신성 원인(시상하부·뇌하수체·난소·구조적)의 무월경에서 misoprostol 효과를 평가한 임상 또는 전임상 연구
 - 임신 가능 연령 여성에 대한 자궁수축·최기형성 위험 평가와 안전성 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: diclofenac sodium and misoprostol prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7701e8c-4e16-4165-8b83-de2c08d5ded3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

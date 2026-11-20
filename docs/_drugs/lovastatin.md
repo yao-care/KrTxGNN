@@ -55,7 +55,7 @@ TxGNN 모델은 **콜레스테롤 에스테르 전달 단백질 결핍증(choles
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 lovastatin은 HMG-CoA 환원효소를 억제하여 간의 콜레스테롤 합성을 줄이고 LDL 콜레스테롤을 낮추는 약물로 알려져 있습니다. 다만 이 내용은 이번에 정리된 자료에서 확인된 것이 아니므로 허가사항과 대조가 필요합니다.
+미국 FDA가 승인한 Lovastatin 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “로바스타틴의 LDL 저하 효과의 기전은 VLDL-C 농도의 감소와 LDL 수용체의 유도를 모두 포함할 수 있으며, 이로 인해 LDL-C의 생성 감소 및/또는 이화 증가가 초래된다. 로바스타틴 투여 중에는 아포지단백 B도 감소한다. 로바스타틴은 HMG-CoA가 메발론산으로 전환되는 것을 촉매하는 효소인 HMG-CoA 환원효소의 특이적 억제제이다.” 영어 원문: "The mechanism of the LDL-lowering effect of lovastatin may involve both reduction of VLDL-C concentration, and induction of the LDL receptor, leading to reduced production and/or increased catabolism of LDL-C. Apolipoprotein B also falls during treatment with lovastatin. Lovastatin is a specific inhibitor of HMG-CoA reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate." ([DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34), 버전 2026-11-13; 확인일 2026-11-19). 일반적으로 lovastatin은 HMG-CoA 환원효소를 억제하여 간의 콜레스테롤 합성을 줄이고 LDL 콜레스테롤을 낮추는 약물로 알려져 있습니다. 다만 이 내용은 이번에 정리된 자료에서 확인된 것이 아니므로 허가사항과 대조가 필요합니다.
 
 CETP 결핍증은 HDL 콜레스테롤 상승과 지단백 대사 변화를 특징으로 하는 유전적 상태입니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있습니다. 생물학적 근거는 아닙니다.
 
@@ -102,6 +102,19 @@ CETP 결핍증은 HDL 콜레스테롤 상승과 지단백 대사 변화를 특�
 - CETP 결핍증에서 치료가 필요한 임상적 시나리오가 있는지 검토
 - 해당 질환 또는 관련 지질 표현형에서 lovastatin을 직접 평가한 연구 탐색
 - 한국 시판·취하 상태 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: lovastatin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac86821f-d741-4ab1-bd03-ce8797dd4f34) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

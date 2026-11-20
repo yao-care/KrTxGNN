@@ -55,7 +55,7 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 DrugBank 자료에 없습니다. 다만 이번 평가에서 정리된 기전 분석에 따르면, safinamide는 가역적 MAO-B 억제제이며 전압 의존성 나트륨 채널 차단과 글루탐산 방출 억제 작용도 가지는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Safinamide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “PD에서 XADAGO가 치료 효과를 나타내는 정확한 기전은 알려져 있지 않다. XADAGO는 모노아민 산화효소 B(MAO-B)의 억제제이다. MAO-B 활성의 억제는 도파민의 이화작용을 차단함으로써 뇌에서 도파민 농도의 증가와 그에 따른 도파민성 활성의 증가를 초래하는 것으로 생각된다.” 영어 원문: "The precise mechanism by which XADAGO exerts its therapeutic effects in PD is unknown. XADAGO is an inhibitor of monoamine oxidase B (MAO-B). Inhibition of MAO-B activity, by blocking the catabolism of dopamine, is thought to result in an increase in dopamine levels and a subsequent increase in dopaminergic activity in the brain." ([DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2), 버전 2026-10-05; 확인일 2026-11-19). 다만 이번 평가에서 정리된 기전 분석에 따르면, safinamide는 가역적 MAO-B 억제제이며 전압 의존성 나트륨 채널 차단과 글루탐산 방출 억제 작용도 가지는 것으로 알려져 있습니다.
 
 라스무센 뇌염은 T세포 매개 신경염증으로 만성 국소 발작과 진행성 편측 대뇌 위축이 나타나는 질환입니다. 글루탐산 과다와 흥분독성이 병태에 기여할 수 있어, safinamide의 나트륨 채널 및 글루탐산 조절 작용이 항경련 또는 신경보호 측면에서 이론적 근거가 될 수 있습니다.
 
@@ -97,6 +97,19 @@ TxGNN 모델은 **라스무센 아급성 뇌염(Rasmussen subacute encephalitis)
 - 라스무센 뇌염, 척수염, PLA2G6 관련 신경변성에 대한 임상시험 및 문헌 추가 검색
 - 경구 투여 외 필요한 투여 경로 및 제형 적합성 평가
 - 병용 가능성이 높은 약물(인슐린, 혈당강하제, bupropion 등)에 대한 상호작용 관리 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

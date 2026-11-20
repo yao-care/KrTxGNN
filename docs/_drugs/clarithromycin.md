@@ -55,7 +55,7 @@ TxGNN 모델은 **다클론성 과점도 증후군(Polyclonal Hyperviscosity Syn
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Clarithromycin은 마크로라이드계 항생제이며, 항균 작용 외에 면역조절 및 항염증 작용이 보고되어 있습니다.
+미국 FDA가 승인한 Clarithromycin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “클라리스로마이신은 마크로라이드계 항균제이다. […] 클라리스로마이신은 감수성 세균의 50S 리보솜 소단위에 결합하여 단백질 합성을 억제함으로써 항균 작용을 나타낸다.” 영어 원문: "Clarithromycin is a macrolide antimicrobial drug. […] Clarithromycin exerts its antibacterial action by binding to the 50S ribosomal subunit of susceptible bacteria resulting in inhibition of protein synthesis." ([DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460), 버전 2026-11-12; 확인일 2026-11-19). 알려진 정보에 따르면 Clarithromycin은 마크로라이드계 항생제이며, 항균 작용 외에 면역조절 및 항염증 작용이 보고되어 있습니다.
 
 다만 다클론성 과점도 증후군은 다클론성 면역글로불린 증가로 혈액 점도가 높아지는 상태입니다. Clarithromycin과의 기전적 연결은 이번 데이터에서 확인되지 않으며, 추정 수준에 머뭅니다. 높은 TxGNN 점수 외에 이를 뒷받침하는 근거가 없습니다.
 
@@ -103,6 +103,19 @@ TxGNN 모델은 **다클론성 과점도 증후군(Polyclonal Hyperviscosity Syn
 - 다클론성 과점도 증후군 관련 문헌 및 임상시험 탐색
 - 근거가 상대적으로 나은 후보(점상 상피성 각결막염, L4)에 대한 전문 검토로 우선순위 재평가
 - QT 연장 및 CYP3A4 관련 상호작용 등 심장·약물 상호작용 위험 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

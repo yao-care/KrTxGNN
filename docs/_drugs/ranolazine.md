@@ -61,7 +61,7 @@ TxGNN 모델은 **신성 항이뇨호르몬 부적절 분비 증후군(Nephrogen
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이번 보고서에 수집된 자료에 없습니다. 알려진 정보에 따르면 Ranolazine은 후기 나트륨 전류(INa-late) 억제제이며, hERG 전류와 지방산 산화에도 부분적인 영향을 미칩니다.
+미국 FDA가 승인한 Ranolazine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “라놀라진의 항협심증 효과의 작용기전은 밝혀지지 않았다. 라놀라진은 심박수 또는 혈압의 감소에 의존하지 않는 항허혈 및 항협심증 효과를 나타낸다. 라놀라진은 최대 운동 시 심근 일의 척도인 심박수-혈압 곱(rate-pressure product)에 영향을 미치지 않는다.” 영어 원문: "The mechanism of action of ranolazine's antianginal effects has not been determined. Ranolazine has anti-ischemic and antianginal effects that do not depend upon reductions in heart rate or blood pressure. It does not affect the rate-pressure product, a measure of myocardial work, at maximal exercise." ([DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e), 버전 2025-01-29; 확인일 2026-11-19). 알려진 정보에 따르면 Ranolazine은 후기 나트륨 전류(INa-late) 억제제이며, hERG 전류와 지방산 산화에도 부분적인 영향을 미칩니다.
 
 NSIAD는 바소프레신 V2 수용체(AVPR2)의 기능획득 돌연변이(R137C/R137L)로 인해 cAMP 경로가 지속적으로 활성화되고, 집합관의 아쿠아포린-2(AQP2)를 통해 수분이 과도하게 재흡수되는 질환입니다. Ranolazine의 나트륨 채널 억제가 V2 수용체 신호전달이나 AQP2 이동과 연결된다고 알려진 기전적 경로는 없습니다.
 
@@ -109,12 +109,13 @@ NSIAD는 신장 질환과 수분·전해질 균형이 핵심인 질환이므로,
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “한국에서 허가된” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-05 | 삭제: “3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Aspruzyo Sprinkle (ranolazine) prescribing information, SUN PHARMACEUTICAL INDUSTRIES, INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd9f81e4-50da-4551-aed5-559d304df42e) |
 
 <!-- review:end log -->
 

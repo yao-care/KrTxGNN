@@ -54,7 +54,7 @@ Metronidazole은 혐기성 세균과 원충 감염 치료에 널리 쓰이는 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 metronidazole은 혐기성 세균과 원충 내부에서 니트로기가 환원되어 활성화되고, 이 활성 대사체가 DNA를 손상시키는 방식으로 작용합니다.
+미국 FDA가 승인한 Metronidazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “니트로이미다졸계 약물인 메트로니다졸은 혐기성 환경에서 대부분의 편성 혐기성균에 대해 항균 효과를 나타낸다. 메트로니다졸은 수동 확산에 의해 미생물 내로 들어가 감수성 혐기성 세균의 세포질에서 활성화되면 환원되는데, 이 과정에는 페레독신과 같은 세포 내 전자 전달 공여체와 메트로니다졸의 니트로기로의 전자 전달이 포함되며, 그 결과 수명이 짧은 니트로소 자유 라디칼이 형성된다.” 영어 원문: "Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes. Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical." ([DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255), 버전 2026-11-02; 확인일 2026-11-19). 일반적으로 metronidazole은 혐기성 세균과 원충 내부에서 니트로기가 환원되어 활성화되고, 이 활성 대사체가 DNA를 손상시키는 방식으로 작용합니다.
 
 이 기전은 폐포자충증에는 맞지 않습니다. Pneumocystis는 진균이어서 metronidazole이 의존하는 니트로환원효소 활성화 경로가 없습니다. 표준 치료제는 trimethoprim-sulfamethoxazole입니다. 따라서 0.9999라는 높은 예측 점수는 TxGNN 모델(딥러닝)이 산출한 값이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 기전상 타당성은 낮다고 판단합니다.
 
@@ -110,6 +110,19 @@ Metronidazole은 혐기성 세균과 원충 감염 치료에 널리 쓰이는 �
 - 작용 기전 데이터 확보와 Pneumocystis에 대한 in vitro 활성 등 전임상 근거
 - 허가사항 PDF 파싱을 통한 경고·금기·적응증 본문 확인 (현재 안전성 심사 불가)
 - 이 데이터셋의 다른 예측 중 재검토 가치가 있는 후보: **모세포(cap) 폴립증**은 증례 보고와 항염증 기전 가설이 있어 가장 생물학적으로 그럴듯하며, 근거 수준은 L4(Research Question)입니다. 다만 희귀질환이고 대조 시험 자료는 없습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

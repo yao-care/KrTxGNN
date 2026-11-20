@@ -54,7 +54,7 @@ Zolmitriptan은 선택적 5-HT1B/1D 수용체 작용제(트립탄 계열)로, �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이번 보고서용 자료에 없습니다. 다만 문헌에 따르면 zolmitriptan은 5-HT1B/1D 수용체 작용제이며, 말초뿐 아니라 중추에서도 삼차신경혈관 활성화를 억제하는 것으로 보고되었습니다(전임상 연구, PMID 9399012).
+미국 FDA가 승인한 Zolmitriptan 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Zolmitriptan은 사람 재조합 5-HT 1D 및 5-HT 1B 수용체에 높은 친화도로 결합하며, 5-HT 1A 수용체에는 중등도의 친화도를 가진다. N-desmethyl 대사체 또한 5-HT 1B/1D에 높은 친화도를, 5-HT 1A 수용체에 중등도의 친화도를 가진다.” 영어 원문: "Zolmitriptan binds with high affinity to human recombinant 5-HT 1D and 5-HT 1B receptors, and moderate affinity for 5-HT 1A receptors. The N-desmethyl metabolite also has high affinity for 5-HT 1B/1D and moderate affinity for 5-HT 1A receptors." ([DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4), 버전 2026-01-29; 확인일 2026-11-19). 다만 문헌에 따르면 zolmitriptan은 5-HT1B/1D 수용체 작용제이며, 말초뿐 아니라 중추에서도 삼차신경혈관 활성화를 억제하는 것으로 보고되었습니다(전임상 연구, PMID 9399012).
 
 뇌간 조짐 편두통은 조짐을 동반하는 편두통의 하위 유형으로, 삼차신경혈관계 활성화, CGRP 방출 등 병태생리를 공유합니다. 이 점에서 생물학적 개연성은 있습니다.
 
@@ -115,6 +115,19 @@ Zolmitriptan은 선택적 5-HT1B/1D 수용체 작용제(트립탄 계열)로, �
 - 필요 시 소규모 탐색 연구 설계
 
 **참고:** 같은 약물에 대해 예측된 다른 적응증(위축성 벌레먹은 모양 피부위축증, 눈썹 홍반성 모공각화증)은 TxGNN 점수 외에 임상시험, 문헌, 기전적 근거가 전혀 없어 추가 검토 없이 보류가 적절합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Zolmiptriptan (zolmitriptan) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a734b368-6008-441c-ab44-5634e46be9a4) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

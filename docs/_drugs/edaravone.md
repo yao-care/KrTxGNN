@@ -55,7 +55,7 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍증(heparin cofactor 2 deficien
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Edaravone은 활성산소를 제거하여 산화 스트레스와 혈관내피 손상을 줄이는 약물이며, ALS와 급성 허혈성 뇌졸중에서 사용됩니다.
+미국 FDA가 승인한 Edaravone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “에다라본 주사제가 ALS 환자에서 치료 효과를 나타내는 기전은 알려져 있지 않다.” 영어 원문: "The mechanism by which edaravone injection exert its therapeutic effect in patients with ALS is unknown." ([DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749), 버전 2025-10-07; 확인일 2026-11-19). 알려진 정보에 따르면, Edaravone은 활성산소를 제거하여 산화 스트레스와 혈관내피 손상을 줄이는 약물이며, ALS와 급성 허혈성 뇌졸중에서 사용됩니다.
 
 헤파린 보조인자 2 결핍증은 더마탄 황산과 헤파린에 의한 트롬빈 억제가 약해져 생기는 유전성 혈전 소인입니다. Edaravone은 이 경로에 작용하지 않습니다. 굳이 연결한다면 혈관내피의 산화 손상 감소나 혈전 관련 신경 보호 효과 같은 간접적 가설 정도입니다.
 
@@ -94,6 +94,19 @@ Edaravone의 항산화·항염증 작용이 산화 스트레스에 의한 내피
 - 상세한 약물 작용 기전(MOA) 데이터 확보
 - 헤파린 보조인자 2 결핍증과 Edaravone의 연관성을 검증할 전임상 또는 기전 연구
 - 투여 경로 적합성 평가 (현재 미확인)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: edaravone prescribing information, Piramal Critical Care Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19862ae9-d6e1-70e6-e063-6394a90ae749) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

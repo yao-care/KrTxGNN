@@ -54,7 +54,7 @@ Ustekinumab은 IL-12/IL-23의 공통 p40 소단위를 차단하는 단클론항�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 DrugBank에 없습니다. 알려진 정보에 따르면 ustekinumab은 인간 IL-12/IL-23 길항 단클론항체로, 두 사이토카인이 공유하는 p40 소단위를 차단해 Th1·Th17 경로를 억제합니다.
+미국 FDA가 승인한 Ustekinumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “우스테키누맙 제제는 IL-12 및 IL-23 사이토카인이 공통으로 사용하는 p40 단백질 소단위에 특이적으로 결합하는 인간 IgG1κ 단클론항체이다. IL-12 및 IL-23은 자연살해세포 활성화 및 CD4+ T세포 분화와 활성화 등 염증 및 면역 반응에 관여하는 자연 발생 사이토카인이다.” 영어 원문: "Ustekinumab products are human IgG1κ monoclonal antibodies that bind with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines. IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation." ([DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7), 버전 2026-11-11; 확인일 2026-11-19). 알려진 정보에 따르면 ustekinumab은 인간 IL-12/IL-23 길항 단클론항체로, 두 사이토카인이 공유하는 p40 소단위를 차단해 Th1·Th17 경로를 억제합니다.
 
 아토피피부염은 Th2 축이 중심이지만, 만성 병변, 아시아인 환자, 소아 환자에서는 Th22와 Th17/Th1 활성도 일부 관여합니다. 접촉피부염과 홍피증성 건선도 Th1/Th17이 부분적으로 관여합니다. 따라서 기전상 적용 가능성은 있으나 근거는 약한 편입니다.
 
@@ -119,6 +119,19 @@ Ustekinumab은 IL-12/IL-23의 공통 p40 소단위를 차단하는 단클론항�
 - 상세한 작용 기전(MOA) 데이터 보완 (DrugBank 조회)
 - 아토피피부염 Phase 2 결과의 재분석, 그리고 Th17/Th22 우세 하위집단(만성 병변, 아시아인, 소아)에 대한 표적 임상시험 설계 검토
 - 접촉피부염 등 하위 유형별로 근거를 구분하여 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

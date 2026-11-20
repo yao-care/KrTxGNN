@@ -55,7 +55,7 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Iodixanol은 요오드 기반의 비이온성 등삼투압 조영제이며, 질환을 변화시키는 약리 작용은 알려져 있지 않습니다.
+미국 FDA가 승인한 Iodixanol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이오딕사놀의 혈관 내 주사는 조영제가 흐르는 경로에 있는 혈관을 불투명하게 하여 내부 구조를 시각화할 수 있게 한다. 신체 영상 촬영에서 요오드화 조영제는 혈관에서 혈관외 공간으로 확산된다.” 영어 원문: "Intravascular injection of iodixanol opacifies vessels in the path of flow of the contrast agent, permitting visualization of internal structures. In imaging of the body, iodinated contrast agents diffuse from the vascular into the extravascular space." ([DailyMed: Visipaque (iodixanol) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d964c13-88ad-43be-88d4-a3a7ea4d5b5e), 버전 2026-10-16; 확인일 2026-11-19). 알려진 정보에 따르면 Iodixanol은 요오드 기반의 비이온성 등삼투압 조영제이며, 질환을 변화시키는 약리 작용은 알려져 있지 않습니다.
 
 검색된 문헌에서 Iodixanol은 치료제가 아니라 영상 탐침으로 쓰였습니다. 연골의 CT 조영, 연골-연골하골 경계의 용질 이동 모델링 등이 그 예입니다. 이는 연골 기능을 평가하는 진단적 유용성을 보여줄 뿐, 골관절염 치료 효과를 뒷받침하지 않습니다. 0.9907이라는 높은 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있으며 생물학적 근거는 아닙니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델은 **골관절염(osteoarthritis)**에 효과가 있을 수 있다�
 - 골관절염에서 Iodixanol의 치료 효과를 검증하는 전임상 또는 임상 연구
 - 작용 기전 데이터 확보
 - 허가 적응증 본문과 경고·금기 정보 확보 (허가사항 첨부문서 확인)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Visipaque (iodixanol) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d964c13-88ad-43be-88d4-a3a7ea4d5b5e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **재발-완화형 다발성 경화증(Relapsing-Remitting Multi
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 보고서를 위해 수집한 자료에는 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바에 따르면 Dactinomycin은 DNA 삽입(intercalation)을 통해 전사를 억제하는 세포독성 항종양제입니다. 빠르게 분열하는 종양세포를 겨냥하는 약이며, 골수억제와 간독성 같은 전신 독성이 뚜렷합니다.
+미국 FDA가 승인한 Dactinomycin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “닥티노마이신은 DNA에 결합하여 RNA 합성을 억제하는 세포독성 악티노마이신이다. 닥티노마이신의 세포독성 활성은 여러 인간 암의 동물 모델에서 입증되었다.” 영어 원문: "Dactinomycin is a cytotoxic actinomycin that binds DNA and inhibits RNA synthesis. The cytotoxic activity of dactinomycin has been demonstrated in animal models of different human cancers." ([DailyMed: dactinomycin prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5da55538-2602-4704-a9da-603c9f7ff7dc), 버전 2024-06-18; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면 Dactinomycin은 DNA 삽입(intercalation)을 통해 전사를 억제하는 세포독성 항종양제입니다. 빠르게 분열하는 종양세포를 겨냥하는 약이며, 골수억제와 간독성 같은 전신 독성이 뚜렷합니다.
 
 다발성 경화증은 면역 매개 중추신경계 탈수초 질환입니다. 이 약의 기존 적응증인 종양 치료와는 질환 특성이 크게 다릅니다. 현재 자료에서는 두 질환을 잇는 기전적 연결고리를 뒷받침할 근거가 없습니다. 0.9958이라는 높은 예측 점수는 TxGNN 모델(딥러닝)이 산출한 값으로, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. 임상시험과 문헌 근거가 전혀 없으므로 약리학적 타당성을 별도로 검증해야 합니다.
 
@@ -111,6 +111,19 @@ TxGNN 모델은 **재발-완화형 다발성 경화증(Relapsing-Remitting Multi
 - 상세한 작용 기전(MOA) 데이터를 확보하고, 다발성 경화증과의 기전적 연결 가능성을 검토
 - 다발성 경화증 관련 전임상 연구와 문헌 검색을 보강
 - 같은 모델이 예측한 횡문근육종 계열 질환처럼 기전적 타당성이 높은 후보를 우선 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: dactinomycin prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5da55538-2602-4704-a9da-603c9f7ff7dc) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

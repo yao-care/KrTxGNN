@@ -55,7 +55,7 @@ TxGNN 모델은 **골수이형성증후군(Myelodysplastic Syndrome, MDS)**에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 busulfan은 DNA를 교차결합시키는 이관능성 알킬화제이며, 고용량에서는 골수를 제거(myeloablation)하는 효과가 있습니다.
+미국 FDA가 승인한 Busulfan 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “부설판은 두 개의 불안정한 메탄설포네이트기가 4탄소 알킬 사슬의 양 말단에 결합된 이작용성 알킬화제이다. 수성 매질에서 부설판은 가수분해되어 메탄설포네이트기를 방출한다.” 영어 원문: "Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups." ([DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203), 버전 2026-07-29; 확인일 2026-11-19). 알려진 정보에 따르면 busulfan은 DNA를 교차결합시키는 이관능성 알킬화제이며, 고용량에서는 골수를 제거(myeloablation)하는 효과가 있습니다.
 
 MDS는 조혈모세포의 클론성 질환이며, 동종 조혈모세포이식이 유일하게 완치를 기대할 수 있는 치료입니다. Busulfan은 fludarabine, clofarabine, cyclophosphamide 등과 함께 전처치 요법의 중심 약물로 쓰입니다. 악성 클론을 제거하고 공여 줄기세포가 자랄 골수 공간을 만드는 역할입니다.
 
@@ -150,6 +150,19 @@ MDS 이식 전처치에서 busulfan의 사용을 지지하는 Phase 3 시험이 
 | 7 | HIV 감염 | 0.9944 | L3 | Research Question |
 
 순위 5번(재생불량성 빈혈 유형)의 L1 판정은 광범위한 이식 집단을 대상으로 한 Phase 3 시험에 근거하므로, 해당 질환에 대한 직접 근거로 보기는 어렵습니다. 순위 8~10번은 기전적 근거가 없는 모델 예측일 뿐입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

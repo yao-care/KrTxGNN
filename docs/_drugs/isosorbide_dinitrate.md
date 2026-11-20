@@ -54,7 +54,7 @@ Isosorbide dinitrate는 산화질소(NO)를 방출하는 혈관확장제로, 한
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Isosorbide dinitrate는 NO 공여체이자 혈관확장제입니다. NO는 혈관 평활근을 이완시켜 혈류를 늘립니다.
+미국 FDA가 승인한 hydralazine hydrochloride and isosorbide dinitrate(Isosorbide Dinitrate 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “이소소르비드 디니트레이트는 동맥과 정맥 모두에 작용하는 혈관확장제이다.” 영어 원문: "Isosorbide dinitrate is a vasodilator affecting both arteries and veins." ([DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00), 버전 2025-11-30; 확인일 2026-11-19). 알려진 정보에 따르면 Isosorbide dinitrate는 NO 공여체이자 혈관확장제입니다. NO는 혈관 평활근을 이완시켜 혈류를 늘립니다.
 
 탈모증과의 연결고리는 가설 수준입니다. 혈관확장으로 두피 미세순환이 개선되면 모발 성장에 도움이 될 수 있다는 것으로, 미녹시딜의 혈관확장 가설과 비슷합니다. 이를 직접 뒷받침하는 임상 또는 문헌 근거는 제공되지 않았습니다. 높은 점수는 TxGNN 모델(딥러닝)이 산출한 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있습니다. 이는 생물학적 근거가 아닙니다.
 
@@ -99,6 +99,19 @@ Isosorbide dinitrate는 산화질소(NO)를 방출하는 혈관확장제로, 한
 - 탈모증에서 두피 국소 적용 또는 NO 공여체의 효과를 보는 전임상 및 초기 임상 근거 확보
 - 두피 적용 시 전신 흡수와 저혈압 위험에 대한 안전성 평가
 - 참고: 같은 약물의 다른 예측 질환 중 폐고혈압(문헌 다수)과 혈관 질환(당뇨병성 족부궤양 3상 시험 NCT02789033, 완료)은 탈모증보다 근거가 많아 우선 검토할 가치가 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

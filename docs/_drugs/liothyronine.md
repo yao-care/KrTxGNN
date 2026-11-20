@@ -54,7 +54,7 @@ Liothyronine은 합성 삼요오드티로닌(T3) 제제로, 한국에서 갑상�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Liothyronine은 활성형 갑상선호르몬(T3)의 단일 성분 제제이며, 갑상선호르몬 신호는 전반적인 장기 발생에 관여하는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Liothyronine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “갑상선 호르몬은 DNA 전사 및 단백질 합성의 조절을 통해 생리적 작용을 나타낸다. Triiodothyronine(T3) 및 L-thyroxine(T4)은 세포핵 내로 확산되어 DNA에 부착된 갑상선 수용체 단백질에 결합한다.” 영어 원문: "Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA." ([DailyMed: Cytomel (liothyronine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51452b31-ff68-4e0c-b982-c15502ebf1d3), 버전 2026-05-18; 확인일 2026-11-19). 알려진 정보에 따르면 Liothyronine은 활성형 갑상선호르몬(T3)의 단일 성분 제제이며, 갑상선호르몬 신호는 전반적인 장기 발생에 관여하는 것으로 알려져 있습니다.
 
 그러나 출생 후 투여하는 liothyronine이 선천성 신장 기형을 되돌릴 수 있는 확립된 기전은 없습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영할 수 있는 값일 뿐 생물학적 근거는 아니며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다.
 
@@ -103,6 +103,19 @@ Liothyronine은 합성 삼요오드티로닌(T3) 제제로, 한국에서 갑상�
 - 신장 발생 이상과 갑상선호르몬 신호의 연관성을 보여주는 전임상 또는 임상 근거
 - 신장 질환 예측을 대신해 인체 근거가 있는 후보 질환(예: 결절성 갑상선종의 TSH 억제요법)을 재검토하는 방안
 - 투여 경로 적합성 평가(현재 미평가 상태)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cytomel (liothyronine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51452b31-ff68-4e0c-b982-c15502ebf1d3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

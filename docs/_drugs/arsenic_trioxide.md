@@ -71,7 +71,7 @@ Arsenic trioxide(삼산화비소)는 국내에서 주사제로 허가된 항종�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 수집된 문헌에 따르면 삼산화비소는 세포자멸사(apoptosis) 유도, 세포 분화 유도, 항증식 및 항혈관신생 작용을 나타내며, 급성 전골수성백혈병(APL)에서 PML-RARA 융합 단백질 분해를 통해 효과를 보이는 약물로 알려져 있습니다.
+미국 FDA가 승인한 Arsenic Trioxide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “TRISENOX의 작용기전은 완전히 밝혀지지 않았다. 삼산화비소는 in vitro에서 NB4 사람 전골수구성 백혈병 세포에 세포자멸사의 특징적인 형태학적 변화 및 DNA 단편화를 유발한다. 삼산화비소는 또한 융합 단백질인 전골수구성 백혈병(PML)-레티노산 수용체(RAR)-알파의 손상 또는 분해를 유발한다.” 영어 원문: "The mechanism of action of TRISENOX is not completely understood. Arsenic trioxide causes morphological changes and DNA fragmentation characteristic of apoptosis in NB4 human promyelocytic leukemia cells in vitro. Arsenic trioxide also causes damage or degradation of the fusion protein promyelocytic leukemia (PML)-retinoic acid receptor (RAR)-alpha." ([DailyMed: Trisenox (arsenic trioxide) prescribing information, Cephalon, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=101fc347-d0ad-4aee-8b06-9feb187fd741), 버전 2022-06-30; 확인일 2026-11-19). 다만 수집된 문헌에 따르면 삼산화비소는 세포자멸사(apoptosis) 유도, 세포 분화 유도, 항증식 및 항혈관신생 작용을 나타내며, 급성 전골수성백혈병(APL)에서 PML-RARA 융합 단백질 분해를 통해 효과를 보이는 약물로 알려져 있습니다.
 
 MDS 세포에서는 NF-κB/FLIP 조절, BCL2 계열 유전자 조절, 산화 스트레스를 통한 세포자멸사가 보고되었습니다. 또한 TP53 재활성화 가능성이 제기되어 현재 임상시험이 계획되어 있습니다. 같은 골수성 혈액암 계열이라는 점에서 기전상 MDS에 적용될 수 있는 근거가 있습니다.
 
@@ -158,6 +158,19 @@ MDS 세포에서는 NF-κB/FLIP 조절, BCL2 계열 유전자 조절, 산화 스
 - QT 간격, 전해질, 분화증후군, 간·신기능 모니터링 계획 수립
 - 진행 중인 시험(NCT06670222, NCT06778187, NCT07737769) 결과 추적
 - 재생불량성 빈혈과 유잉 육종은 별도의 연구 질문으로 후속 검토. 다만 재생불량성 빈혈 소규모 연구에서 반응이 일관되지 않았고(PMID 29075064는 전원 무반응으로 조기 종료, PMID 23044093은 5명 전원 반응), 유잉 육종은 전임상 근거가 중심입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Trisenox (arsenic trioxide) prescribing information, Cephalon, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=101fc347-d0ad-4aee-8b06-9feb187fd741) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

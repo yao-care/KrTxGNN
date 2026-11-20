@@ -54,7 +54,7 @@ Degarelix는 GnRH 수용체 길항제로, 한국에서 퍼마곤주라는 제품
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 Degarelix는 GnRH 수용체 길항제로, LH/FSH 분비를 억제하여 테스토스테론과 하위 안드로겐을 낮춥니다.
+미국 FDA가 승인한 Degarelix 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “데가렐릭스는 GnRH 수용체 길항제이다. 이는 뇌하수체 GnRH 수용체에 가역적으로 결합하여 생식샘자극호르몬의 분비를 감소시키고, 그 결과 테스토스테론의 분비를 감소시킨다.” 영어 원문: "Degarelix is a GnRH receptor antagonist. It binds reversibly to the pituitary GnRH receptors, thereby reducing the release of gonadotropins and consequently testosterone." ([DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b), 버전 2024-01-30; 확인일 2026-11-19). 알려진 정보에 따르면 Degarelix는 GnRH 수용체 길항제로, LH/FSH 분비를 억제하여 테스토스테론과 하위 안드로겐을 낮춥니다.
 
 다만 다모증은 일반적으로 안드로겐 의존성이 아니어서(안드로겐 의존성인 다모증 hirsutism과는 구별됨) 기전상 연관성은 약합니다. 0.9999라는 높은 점수는 TxGNN 모델(딥러닝)이 산출한 것으로, 모델이 학습한 관련 질환 간 유사성을 반영할 뿐 생물학적 근거는 아닙니다. 이를 뒷받침하는 임상시험이나 문헌은 없습니다.
 
@@ -92,6 +92,19 @@ Degarelix는 GnRH 수용체 길항제로, 한국에서 퍼마곤주라는 제품
 - 상세한 작용 기전(MOA) 데이터 확보
 - 다모증과 안드로겐 억제 사이의 병태생리적 연관성에 대한 전임상 또는 문헌 근거
 - 기전상 가장 타당한 중추성 성조숙증은 별도 연구 질문으로 검토(소아 안전성·제형 적합성 포함)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Firmagon (degarelix) prescribing information, Ferring Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ab11dd8a-0fd9-4013-89ab-e114557c7e4b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

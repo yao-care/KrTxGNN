@@ -55,7 +55,7 @@ TxGNN 모델은 **십이지장 폐쇄(Duodenal Obstruction)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 데이터베이스에 없습니다. 알려진 정보에 따르면 Sucralfate는 국소 작용 점막 보호제입니다. 산성 환경에서 중합되어 끈적한 보호막을 형성하고, 궤양 부위에 결합하며, 담즙산과 펩신을 흡착합니다. 국소 프로스타글란딘 분비와 점막 방어를 자극할 가능성도 있습니다. 이러한 작용은 십이지장 궤양에서 확립된 효과를 설명합니다.
+미국 FDA가 승인한 Sucralfate 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “수크랄페이트가 십이지장 궤양의 치유를 촉진하는 기전은 아직 완전히 규명되지 않았으나, 전신 작용이 아닌 국소 작용을 통해 효과를 나타내는 것으로 알려져 있다. 다음 관찰 결과 또한 관련이 있는 것으로 보인다: 1.” 영어 원문: "Although the mechanism of sucralfate's ability to accelerate healing of duodenal ulcers remains to be fully defined, it is known that it exerts its effect through a local, rather than systemic, action. The following observations also appear pertinent: 1." ([DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9), 버전 2026-01-06; 확인일 2026-11-19). 알려진 정보에 따르면 Sucralfate는 국소 작용 점막 보호제입니다. 산성 환경에서 중합되어 끈적한 보호막을 형성하고, 궤양 부위에 결합하며, 담즙산과 펩신을 흡착합니다. 국소 프로스타글란딘 분비와 점막 방어를 자극할 가능성도 있습니다. 이러한 작용은 십이지장 궤양에서 확립된 효과를 설명합니다.
 
 십이지장 궤양은 흉터나 부종으로 폐쇄를 일으킬 수 있습니다. 그러나 폐쇄는 기계적 결과이므로, 점막 보호제가 고정된 협착이나 종괴를 풀어줄 것으로 기대하기는 어렵습니다. 기껏해야 원인이 되는 소화성 궤양 질환을 치료하는 데 도움이 될 수 있습니다.
 
@@ -106,6 +106,19 @@ TxGNN 모델(딥러닝)의 높은 점수(0.9930)는 모델이 학습한 Sucralfa
 - 십이지장 폐쇄 환자를 직접 대상으로 한 임상 또는 전임상 근거
 - 위 배출 지연 및 위석 형성 위험에 대한 안전성 평가
 - 신기능 저하 환자에 대한 사용 지침 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Crizotinib은 ALK, ROS1, MET 수용체 티로신 키나제를 억제하는 약물이며, ALK 또는 ROS1 변이가 있는 비소세포폐암에서 효능이 확인되어 있습니다.
+미국 FDA가 승인한 Crizotinib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “크리조티닙은 ALK, 간세포성장인자수용체(HGFR, c-Met), ROS1(c-ros) 및 Recepteur d'Origine Nantais(RON)를 포함한 수용체 티로신 키나아제의 억제제이다. 전좌는 ALK 유전자에 영향을 미쳐 종양원성 융합 단백질의 발현을 초래할 수 있다.” 영어 원문: "Crizotinib is an inhibitor of receptor tyrosine kinases including ALK, Hepatocyte Growth Factor Receptor (HGFR, c-Met), ROS1 (c-ros), and Recepteur d'Origine Nantais (RON). Translocations can affect the ALK gene resulting in the expression of oncogenic fusion proteins." ([DailyMed: Xalkori (crizotinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a51b0de-47d6-455e-a94c-d2c737b04ff7), 버전 2026-10-29; 확인일 2026-11-19). 알려진 정보에 따르면 Crizotinib은 ALK, ROS1, MET 수용체 티로신 키나제를 억제하는 약물이며, ALK 또는 ROS1 변이가 있는 비소세포폐암에서 효능이 확인되어 있습니다.
 
 그러나 치은 섬유종증과 ALK/ROS1/MET 억제 사이에 타당한 기전적 연결고리는 현재 데이터로 확인되지 않습니다. 예측 점수는 높지만(0.9981) 뒷받침하는 임상시험이나 문헌이 없어, 기전상 적용 가능하다고 판단하기 어렵습니다.
 
@@ -113,6 +113,19 @@ TxGNN 모델은 **치은 섬유종증(fibromatosis, gingival)**에 효과가 있
 - 치은 섬유종증과 ALK/ROS1/MET 경로의 연관성을 보여주는 전임상 또는 기전 연구 근거
 - 간독성·심장독성 위험을 고려한 위험-편익 평가 (섬유종증은 양성 질환이므로 특히 중요)
 - 예측 순위 2위 이하의 후보는 대부분 근거 수준이 L5이거나 기존 적응증과 중복되므로, 우선순위 재검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xalkori (crizotinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a51b0de-47d6-455e-a94c-d2c737b04ff7) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

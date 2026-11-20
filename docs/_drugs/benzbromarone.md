@@ -56,7 +56,7 @@ TxGNN 모델은 **신성 저요산혈증(Hypouricemia, renal)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 약리학적으로 benzbromarone은 신장 요산 재흡수 수송체인 URAT1(SLC22A12)을 억제하여 혈중 요산을 낮추는 약물로 알려져 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Benzbromarone의 작용 기전(비공식 번역): “용질 운반체 계열 22 구성원 12 억제제” 영어 원문: "Solute carrier family 22 member 12 inhibitor" ([ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590), CC BY-SA 3.0; 확인일 2026-11-19). 다만 약리학적으로 benzbromarone은 신장 요산 재흡수 수송체인 URAT1(SLC22A12)을 억제하여 혈중 요산을 낮추는 약물로 알려져 있습니다.
 
 신성 저요산혈증은 URAT1(SLC22A12) 또는 GLUT9(SLC2A9)의 기능 소실 변이로 신장의 요산 배설이 이미 과도하게 증가해 혈중 요산이 낮은 상태입니다. Benzbromarone의 작용 방향은 이 병태와 같은 방향이므로 치료가 아니라 **악화시킬 가능성**이 있습니다.
 
@@ -108,6 +108,19 @@ Benzbromarone은 요산 배설을 늘려 혈중 요산을 낮추는 약이므로
 - DrugBank 등에서 상세 작용 기전 데이터 확인
 - 약효 방향 불일치(요산 저하 약물 vs. 저요산혈증)에 대한 약리학적 재검토 — 근거가 없다면 이 예측은 폐기하는 것이 타당함
 - 간독성 및 급성 신손상 위험에 대한 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -55,7 +55,7 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터가 없습니다. 다만 Spironolactone은 일반적으로 미네랄코르티코이드 수용체 길항제로 알려져 있으며, 항안드로겐 작용(안드로겐 수용체 차단 및 안드로겐 합성 감소)도 가지고 있습니다. 이 항안드로겐 작용 때문에 안드로겐성 탈모와 여성형 탈모에서 허가 외(off-label)로 사용되기도 합니다.
+미국 FDA가 승인한 Spironolactone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Spironolactone과 그 활성 대사체는 알도스테론의 특이적 약리학적 길항제로, 주로 원위 곡세관의 알도스테론 의존성 나트륨-칼륨 교환 부위에서 수용체에 경쟁적으로 결합함으로써 작용한다. Spironolactone은 나트륨과 수분의 배설량을 증가시키는 반면 칼륨은 체내에 보유되게 한다.” 영어 원문: "Spironolactone and its active metabolites are specific pharmacologic antagonists of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained." ([DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc), 버전 2025-11-28; 확인일 2026-11-19). 다만 Spironolactone은 일반적으로 미네랄코르티코이드 수용체 길항제로 알려져 있으며, 항안드로겐 작용(안드로겐 수용체 차단 및 안드로겐 합성 감소)도 가지고 있습니다. 이 항안드로겐 작용 때문에 안드로겐성 탈모와 여성형 탈모에서 허가 외(off-label)로 사용되기도 합니다.
 
 그러나 두피 단순 모발저하증은 CDSN, APCDD1, RPL21 등의 유전자 변이와 연관된 희귀 유전성 탈모질환으로, 안드로겐이 주된 원인이 아닙니다. 따라서 기전상 연결고리는 간접적이고 추측에 가깝습니다. 높은 TxGNN 점수는 탈모 관련 표현형과의 네트워크 근접성을 반영한 계산상의 예측일 가능성이 크며, 실제 연구로 확인된 것은 아닙니다.
 
@@ -109,11 +109,12 @@ TxGNN 모델은 **두피 단순 모발저하증(hypotrichosis simplex of the sca
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “허가증은 모두 유효한 8건입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->
 

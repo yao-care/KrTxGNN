@@ -54,7 +54,7 @@ Budesonide는 한국에서 비강 분무제와 흡입제 형태로 허가된 글
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 budesonide는 강력한 글루코코르티코이드로, Th2 사이토카인과 호산구·비만세포 활성을 억제하는 광범위한 항염증·면역억제 작용을 가집니다. 이 약은 한국에서 비염, 천식·COPD 등 점막 염증 질환에 사용됩니다.
+미국 FDA가 승인한 Budesonide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “부데소니드는 강력한 글루코코르티코이드 활성과 약한 미네랄코르티코이드 활성을 나타내는 항염증 코르티코스테로이드이다. 표준 시험관 내 모델 및 동물 모델에서 부데소니드는 코르티솔에 비해 글루코코르티코이드 수용체에 대한 친화성이 약 200배 높고, 국소 항염증 효력이 1000배 높다(랫드 크로톤유 귀 부종 분석).” 영어 원문: "Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity. In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay)." ([DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da), 버전 2026-06-10; 확인일 2026-11-19). 알려진 정보에 따르면 budesonide는 강력한 글루코코르티코이드로, Th2 사이토카인과 호산구·비만세포 활성을 억제하는 광범위한 항염증·면역억제 작용을 가집니다. 이 약은 한국에서 비염, 천식·COPD 등 점막 염증 질환에 사용됩니다.
 
 아토피 피부염도 Th2 중심의 알레르기성 염증 질환이므로, 기전상으로는 적용 가능성이 있습니다. 다만 국소 코르티코스테로이드는 이미 이 질환의 표준 치료로 확립되어 있고, budesonide 고유의 임상 근거는 없습니다. 높은 TxGNN 점수는 모델 예측일 뿐 임상적 검증이 아닙니다.
 
@@ -116,6 +116,19 @@ Budesonide는 한국에서 비강 분무제와 흡입제 형태로 허가된 글
 - **기관지염 (점수 0.9981, 근거 수준 L2, 연구 질문 단계)**: 기관지염 관련 임상시험 10건이 검색되었으나 다수가 연관성이 낮습니다. 의미 있는 시험은 budesonide/formoterol의 이식 후 세기관지염(Phase 2, 각 32명) 등이며, 소규모·비통제 설계, 복합제, 질환 실체가 서로 다르다는 한계가 있습니다. 호산구성 기관지염에서 흡입 budesonide의 효과를 보고한 문헌(PMID 10780759)이 있으나, COPD 메타분석에서는 폐렴 위험 등 안전성 문제가 제기되었습니다. 아토피 피부염보다 근거가 강하므로 적응증을 정밀하게 정의한 후속 평가를 권장합니다.
 - **비강·부비동 폴립 관련 예측 (중이 용종, 전두동 용종)**: 만성 부비동염 비용종 연구에서 간접적 근거만 있으며 해당 부위에 특이적인 자료는 없습니다.
 - **성대 용종, 상피종(epulis), 섬유상피성 용종, 자궁 용종, 외이도 용종**: 모델 예측만 있고 지지 근거가 없습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

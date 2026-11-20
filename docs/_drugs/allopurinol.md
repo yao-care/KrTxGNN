@@ -54,7 +54,7 @@ Allopurinol은 잔틴 산화효소 억제제로, 한국에서 자이로릭정 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바에 따르면 allopurinol은 잔틴 산화효소를 억제하여 퓨린 대사와 요산 생성을 줄이는 약물입니다. 다만 이 정보는 이번에 수집된 데이터에 포함되어 있지 않아 보조적인 참고로만 제시합니다.
+미국 FDA가 승인한 Allopurinol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “알로푸리놀은 천연 퓨린 염기인 하이포잔틴의 구조 유사체이다. 알로푸리놀과 그 대사체인 옥시푸리놀은 하이포잔틴을 잔틴으로, 잔틴을 사람에서 퓨린 대사의 최종 산물인 요산으로 전환시키는 효소인 잔틴 산화효소를 저해한다.” 영어 원문: "Allopurinol is a structural analogue of the natural purine base, hypoxanthine. Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans." ([DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449), 버전 2022-02-18; 확인일 2026-11-19). 일반적으로 알려진 바에 따르면 allopurinol은 잔틴 산화효소를 억제하여 퓨린 대사와 요산 생성을 줄이는 약물입니다. 다만 이 정보는 이번에 수집된 데이터에 포함되어 있지 않아 보조적인 참고로만 제시합니다.
 
 간성 포르피린증과의 연관성은 간접적이고 가설 수준입니다. 2019년 논문은 헴 생합성의 속도조절 효소인 5-아미노레불린산 합성효소(ALAS1)를 대사적으로 표적화하는 가설을 제시했고, 1992년 쥐 연구는 약물이 간 헴 대사에 미치는 영향을 다루었습니다. 오래된 문헌에서 allopurinol이 간 헴 산화효소와 헴 합성에 영향을 줄 수 있다고 보고되었지만, 사람에서 포르피린증 발작이나 포르피린 전구체(ALA/PBG) 수치를 평가한 자료는 없습니다.
 
@@ -105,6 +105,19 @@ Allopurinol은 잔틴 산화효소 억제제로, 한국에서 자이로릭정 �
 - 사람 대상 데이터(ALA/PBG 수치 등) 확보 여부 확인
 
 **참고:** 2위 이하의 예측 질환(간문맥경화증, 특발성 구리 연관 간경변, 간폐증후군, 면역매개 괴사성 근병증 등)은 모두 근거 수준 L5로 임상시험과 직접 관련 문헌이 없으며, 일부는 allopurinol의 과민반응·호산구증가 위험과 상충할 수 있어 Hold로 판단됩니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

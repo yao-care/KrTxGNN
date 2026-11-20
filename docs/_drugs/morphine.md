@@ -56,7 +56,7 @@ TxGNN 모델은 여러 질환 중 **근막통증증후군(Myofascial Pain Syndro
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 morphine은 μ-오피오이드 수용체 작용제로서 중추 및 말초 통증 전달을 억제하는 진통제입니다. 이러한 진통 작용 때문에 근골격계 통증에도 이론적으로 적용 가능할 수 있습니다.
+미국 FDA가 승인한 Morphine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “모르핀은 완전 오피오이드 작용제로서 뮤-오피오이드 수용체에 비교적 선택적이나, 고용량에서는 다른 오피오이드 수용체에도 결합할 수 있다. 모르핀의 주된 치료 작용은 진통이다. 모든 완전 오피오이드 작용제와 마찬가지로, 모르핀의 진통 작용에는 천장 효과가 없다.” 영어 원문: "Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses. The principal therapeutic action of morphine is analgesia. Like all full opioid agonists, there is no ceiling effect for analgesia with morphine." ([DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698), 버전 2026-08-14; 확인일 2026-11-19). 알려진 정보에 따르면 morphine은 μ-오피오이드 수용체 작용제로서 중추 및 말초 통증 전달을 억제하는 진통제입니다. 이러한 진통 작용 때문에 근골격계 통증에도 이론적으로 적용 가능할 수 있습니다.
 
 그러나 **근막통증증후군**에서는 오피오이드를 지지하는 임상시험이 없습니다. 검색된 문헌도 측두하악관절 장애, 척추수술 후 통증증후군, 개흉술 후 진통 등 간접적인 내용이 대부분입니다. 만성 근골격계 통증에 장기간 오피오이드를 쓰면 위험이 크므로, 구조화된 스트레칭 운동과 trigger point 치료가 우선 권장됩니다.
 
@@ -125,6 +125,19 @@ TxGNN 모델은 여러 질환 중 **근막통증증후군(Myofascial Pain Syndro
 - 불응성 하지불안증후군 환자를 대상으로 한 morphine의 무작위 대조 시험 근거 또는 설계
 - 투여 경로 적합성 검토(경구, 주사, 척수강 내)
 - 의존성, 호흡억제, 증강 현상에 대한 위험 관리 계획과 전문의 감독 체계
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **Ambras형 선천성 전신 다모증(Ambras type hypertrichosi
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Tadalafil은 PDE5 억제제로, cGMP 경로를 통해 혈관을 확장시키는 약물입니다. 다만 이 정보는 데이터 수집 항목이 아니라 일반적인 약리학 지식에 근거한 것입니다.
+미국 FDA가 승인한 Tadalafil 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “성적 자극 시 음경 발기는 음경 동맥 및 음경해면체 평활근의 이완으로 인한 음경 혈류 증가에 의해 일어난다. 이 반응은 신경 말단 및 내피세포로부터의 산화질소(NO) 방출에 의해 매개되며, 이는 평활근 세포에서 cGMP의 합성을 자극한다. […] 타다라필은 PDE5를 억제한다.” 영어 원문: "Penile erection during sexual stimulation is caused by increased penile blood flow resulting from the relaxation of penile arteries and corpus cavernosal smooth muscle. This response is mediated by the release of nitric oxide (NO) from nerve terminals and endothelial cells, which stimulates the synthesis of cGMP in smooth muscle cells. […] Tadalafil inhibits PDE5." ([DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895), 버전 2026-06-03; 확인일 2026-11-19). 알려진 정보에 따르면 Tadalafil은 PDE5 억제제로, cGMP 경로를 통해 혈관을 확장시키는 약물입니다. 다만 이 정보는 데이터 수집 항목이 아니라 일반적인 약리학 지식에 근거한 것입니다.
 
 Ambras형 선천성 전신 다모증은 TRPS1 조절에 영향을 주는 유전체 재배열로 발생하는 선천성 모발 성장 질환입니다. PDE5 억제가 이 질환과 연결된다는 그럴듯한 기전은 확립되어 있지 않습니다. 높은 점수는 다모증 관련 네트워크 이웃(예: minoxidil 유사 혈관확장제 연관성)을 반영했을 가능성이 크며, PDE5 특이적 기전을 반영한 것으로 보기 어렵습니다.
 
@@ -95,6 +95,19 @@ Ambras형 선천성 전신 다모증에 대한 임상시험과 문헌이 없고,
 - Ambras형 다모증에서 PDE5/cGMP 경로의 관련성을 보여주는 전임상·기전 연구
 - 다모증 계열 예측이 혈관확장제 부작용 연관성에 기인한 것인지 검증
 - 대안 후보(예: kyphoscoliotic heart disease)에 대한 별도의 문헌 검색 및 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **Ambras형 전신 선천성 다모증(Ambras type hypertrichosi
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Finasteride는 제2형 5-알파 환원효소를 억제해 DHT를 낮추며, 안드로겐성 탈모 치료에 확립되어 있고 다모증(hirsutism)에는 오프라벨로 사용됩니다. 이 기전은 모낭에 작용하는 약물이라는 점에서 모발 관련 질환과 느슨하게 연결됩니다.
+미국 FDA가 승인한 Finasteride 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “전립선의 발달과 비대는 강력한 안드로겐인 5α-디히드로테스토스테론(DHT)에 의존한다. 제2형 5α-환원효소는 전립선, 간 및 피부에서 테스토스테론을 DHT로 대사한다. […] 피나스테리드는 제2형 5α-환원효소의 경쟁적이고 특이적인 억제제로서, 이 효소와 서서히 안정한 효소 복합체를 형성한다.” 영어 원문: "The development and enlargement of the prostate gland is dependent on the potent androgen, 5α-dihydrotestosterone (DHT). Type II 5α-reductase metabolizes testosterone to DHT in the prostate gland, liver and skin. […] Finasteride is a competitive and specific inhibitor of Type II 5α-reductase with which it slowly forms a stable enzyme complex." ([DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b), 버전 2026-03-18; 확인일 2026-11-19). 알려진 정보에 따르면 Finasteride는 제2형 5-알파 환원효소를 억제해 DHT를 낮추며, 안드로겐성 탈모 치료에 확립되어 있고 다모증(hirsutism)에는 오프라벨로 사용됩니다. 이 기전은 모낭에 작용하는 약물이라는 점에서 모발 관련 질환과 느슨하게 연결됩니다.
 
 그러나 1순위인 Ambras 증후군은 TRPS1 조절에 영향을 주는 유전체 재배열과 관련된 선천성 질환으로, 안드로겐에 의해 유발되는 질환이 아닙니다. 따라서 기전상 근거가 약하며, 매우 높은 예측 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 있을 뿐, 생물학적 근거는 아닙니다.
 
@@ -111,6 +111,19 @@ TxGNN 모델은 **Ambras형 전신 선천성 다모증(Ambras type hypertrichosi
 - 다모증(hypertrichosis)에서 finasteride의 효과를 직접 평가한 임상 또는 전임상 연구 탐색
 - 안드로겐 의존성 다모증(hirsutism)과 안드로겐 비의존성 다모증(hypertrichosis)을 구분한 재평가
 - 간 질환·담낭 질환 금기 및 상호작용 위험 등급에 대한 검증
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Proscar (finasteride) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f988153-fc74-4ca4-b29a-111f750c4a4b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **십이지장 폐색(duodenal obstruction)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보로는 famotidine은 H2 수용체 길항제로 위산 분비를 줄이는 약물이며, 이 때문에 위·십이지장 궤양 관련 질환과 연관되어 예측 점수가 높게 나온 것으로 보입니다.
+미국 FDA가 승인한 Famotidine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “파모티딘은 히스타민-2 (H2) 수용체의 경쟁적 억제제이다. 파모티딘의 임상적으로 중요한 주된 약리 작용은 위액 분비의 억제이다. 파모티딘에 의해 위액 분비의 산 농도와 분비량이 모두 억제되며, 펩신 분비의 변화는 분비량에 비례한다.” 영어 원문: "Famotidine is a competitive inhibitor of histamine-2 (H2) receptors. The primary clinically important pharmacologic activity of famotidine is inhibition of gastric secretion. Both the acid concentration and volume of gastric secretion are suppressed by famotidine, while changes in pepsin secretion are proportional to volume output." ([DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def), 버전 2024-06-01; 확인일 2026-11-19). 알려진 정보로는 famotidine은 H2 수용체 길항제로 위산 분비를 줄이는 약물이며, 이 때문에 위·십이지장 궤양 관련 질환과 연관되어 예측 점수가 높게 나온 것으로 보입니다.
 
 그러나 십이지장 폐색은 대개 구조적·기계적 원인(궤양 흉터, 크론병, 종양 등)으로 생기며, 산 억제만으로 폐색 자체가 해결된다는 근거는 없습니다. 검색된 문헌은 famotidine을 이 질환에 평가한 것이 아니라, 문합부 궤양과 십이지장 크론병의 수술 사례입니다. 따라서 뚜렷한 기전적 연결 고리는 확인되지 않았습니다.
 
@@ -101,6 +101,19 @@ TxGNN 모델은 **십이지장 폐색(duodenal obstruction)**에 효과가 있�
 - 십이지장 폐색에서 famotidine을 평가한 임상 또는 전임상 연구 확인
 - 한국 허가 문서(PDF)에서 경고·금기 및 적응증 텍스트 확보
 - 시판 상태(취소 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

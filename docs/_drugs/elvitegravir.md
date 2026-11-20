@@ -56,7 +56,7 @@ TxGNN 모델은 **원숭이 면역결핍 바이러스 감염(simian immunodefici
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, elvitegravir는 HIV-1 인테그라제 가닥 전이 억제제(INSTI)로 분류됩니다. 바이러스 DNA가 숙주 유전체에 삽입되는 과정을 차단하여 HIV 복제를 억제하는 것으로 알려져 있습니다.
+미국 FDA가 승인한 elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate(Elvitegravir 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “STRIBILD는 항레트로바이러스 약물인 엘비테그라비르(CYP3A 억제제인 코비시스타트로 부스팅), 엠트리시타빈 및 TDF의 고정용량 복합제이다.” 영어 원문: "STRIBILD is a fixed-dose combination of antiretroviral drugs elvitegravir (boosted by the CYP3A inhibitor cobicistat), emtricitabine, and TDF." ([DailyMed: Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74ae2a93-b267-444c-8f0f-a2a6522260ee), 버전 2025-02-04; 확인일 2026-11-19). 알려진 정보에 따르면, elvitegravir는 HIV-1 인테그라제 가닥 전이 억제제(INSTI)로 분류됩니다. 바이러스 DNA가 숙주 유전체에 삽입되는 과정을 차단하여 HIV 복제를 억제하는 것으로 알려져 있습니다.
 
 SIV와 HIV-1은 서로 매우 유사한 인테그라제 효소를 가지고 있어, INSTI가 SIV에도 활성을 보일 가능성은 기전상 타당합니다. 시험관 내 감수성 및 내성 프로파일 연구(SIVmac239, 원숭이 친화성 HIV), 인간화 마우스 모델, 그리고 tenofovir alafenamide/elvitegravir 국소 삽입제를 이용한 마카크 노출 후 예방 연구가 이 연결고리를 뒷받침합니다.
 
@@ -105,6 +105,19 @@ SIV와 HIV-1은 서로 매우 유사한 인테그라제 효소를 가지고 있�
 - DrugBank 등에서 작용 기전 데이터 확보
 - 이 예측을 인체 적응증이 아닌 HIV 연구 모델 활용 과제로 재정의할지 검토
 - 인체 적응증으로의 확장을 고려한다면 TAF/elvitegravir 국소 삽입제 등 HIV 예방 전략의 인체 임상 근거 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Stribild (elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74ae2a93-b267-444c-8f0f-a2a6522260ee) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

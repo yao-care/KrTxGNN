@@ -54,7 +54,7 @@ Hyaluronidase는 히알루론산을 분해하는 효소 약물로, 한국에서 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Hyaluronidase는 조직 내 히알루론산을 분해해 다른 약물의 확산과 흡수를 높이는 데 쓰이는 효소로 알려져 있습니다.
+미국 FDA가 승인한 Hyaluronidase 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “히알루로니다제는 분산제로서, 결합조직의 세포간 기질 및 제대와 유리체액 등 특정 특수 조직에 존재하는 다당류인 히알루론산을 가수분해함으로써 결합조직의 투과성을 변화시킨다. 히알루론산은 A형 및 C형 용혈성 연쇄상구균의 협막에도 존재한다.” 영어 원문: "Hyaluronidase is a dispersion agent, which modifies the permeability of connective tissue through the hydrolysis of hyaluronic acid, a polysaccharide found in the intercellular ground substance of connective tissue, and of certain specialized tissues, such as the umbilical cord and vitreous humor. Hyaluronic acid is also present in the capsules of type A and C hemolytic streptococci." ([DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658), 버전 2024-11-11; 확인일 2026-11-19). Hyaluronidase는 조직 내 히알루론산을 분해해 다른 약물의 확산과 흡수를 높이는 데 쓰이는 효소로 알려져 있습니다.
 
 내사시와의 직접적인 기전적 연결고리는 확인되지 않습니다. 유일한 문헌(PMID 16934027)은 국소마취하 백내장 수술 후 지속되는 복시와 사시를 보고한 것으로, hyaluronidase가 마취 보조제로 쓰였을 가능성이 있습니다. 이는 치료 효과가 아니라 이상반응 또는 연관 신호에 가깝습니다. 따라서 높은 예측 점수는 임상 근거로 뒷받침되지 않습니다.
 
@@ -97,6 +97,19 @@ Hyaluronidase는 히알루론산을 분해하는 효소 약물로, 한국에서 
 - 작용 기전(MOA) 데이터 확보
 - 허가사항(경고·금기·적응증) 원문 확인
 - 마취 보조제 사용 후 사시 발생과의 연관성(안전성 신호) 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Hylenex Recombinant (hyaluronidase) prescribing information, Antares Pharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3023cc56-ed4b-4e87-b3a1-81b20943f658) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

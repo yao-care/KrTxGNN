@@ -55,7 +55,7 @@ TxGNN 모델은 **척추 이상 및 가변적 내분비·T세포 기능장애(ve
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Cyclophosphamide는 알킬화 항종양제이자 면역억제제로 알려져 있습니다. 이 질환과 연결되는 뚜렷한 기전적 근거는 확인되지 않았습니다.
+미국 FDA가 승인한 Cyclophosphamide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “작용기전은 완전히 규명되지 않았다. 그러나 종양 세포 DNA의 교차결합이 관여할 수 있다. 사이클로포스파미드의 활성 알킬화 대사체는 감수성이 있고 빠르게 증식하는 악성 세포의 성장을 방해한다.” 영어 원문: "The mechanism of action has not been fully characterized. However, cross-linking of tumor cell DNA may be involved. The active alkylating metabolites of cyclophosphamide interfere with the growth of susceptible rapidly proliferating malignant cells." ([DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e), 버전 2026-08-26; 확인일 2026-11-19). Cyclophosphamide는 알킬화 항종양제이자 면역억제제로 알려져 있습니다. 이 질환과 연결되는 뚜렷한 기전적 근거는 확인되지 않았습니다.
 
 이 질환은 척추 기형과 내분비 이상, T세포 기능 이상을 보이는 드문 선천성 증후군입니다. T세포 기능이 이미 저하된 환자에게 세포독성·면역억제 약물을 쓰면 오히려 해로울 수 있습니다. 높은 예측 점수는 계산상의 결과일 뿐이며, 임상적·기전적 타당성을 뒷받침하는 자료는 아닙니다.
 
@@ -114,6 +114,18 @@ TxGNN 모델은 **척추 이상 및 가변적 내분비·T세포 기능장애(ve
 - 이 질환의 병태생리(T세포 기능장애)와 면역억제 작용의 상충 여부에 대한 검토
 - 질환을 직접 다룬 증례 보고나 임상 근거
 - 허가사항(경고·금기)의 확인과 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Frindovyx (cyclophosphamide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ad8ea65-4c98-487a-9c8d-df778765ec5e) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

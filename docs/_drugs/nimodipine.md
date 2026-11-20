@@ -54,7 +54,7 @@ Nimodipine은 디히드로피리딘계 L형 칼슘채널 차단제로, 한국에
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Nimodipine은 뇌혈관에 선택성이 높은 디히드로피리딘계 L형 칼슘채널 차단제입니다.
+미국 FDA가 승인한 Nimodipine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “니모디핀은 디하이드로피리딘계 칼슘 채널 차단제이다. 평활근 세포의 수축 과정은 칼슘 이온에 의존하며, 칼슘 이온은 탈분극 동안 느린 이온성 막횡단 전류의 형태로 이들 세포 내로 유입된다.” 영어 원문: "Nimodipine is a dihydropyridine calcium channel blocker. The contractile processes of smooth muscle cells are dependent upon calcium ions, which enter these cells during depolarization as slow ionic transmembrane currents." ([DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10), 버전 2024-08-30; 확인일 2026-11-19). 알려진 정보에 따르면 Nimodipine은 뇌혈관에 선택성이 높은 디히드로피리딘계 L형 칼슘채널 차단제입니다.
 
 반면 동형접합 가족성 고콜레스테롤혈증은 LDL 수용체 경로(LDLR, APOB, PCSK9, LDLRAP1)의 기능 이상으로 발생합니다. 칼슘채널 차단과 LDL 수용체 기능 사이에 확립된 연결고리는 없습니다.
 
@@ -94,6 +94,19 @@ TxGNN 점수는 매우 높지만(0.9929) 임상시험과 문헌이 전혀 없는
 - 동형접합 가족성 고콜레스테롤혈증 환자에서의 저혈압 등 안전성 평가 계획
 
 **참고:** 두 번째 예측 질환인 신장성 항이뇨호르몬 부적절 분비 증후군(NSIAD, 점수 0.9905)도 임상시험과 문헌이 없는 L5 단계입니다. 이 질환은 V2 수용체(AVPR2) 기능획득 변이로 발생하며, Nimodipine이 이를 억제한다는 기전은 확인되지 않아 같은 Hold 판단이 적용됩니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nymalize (nimodipine) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e660fa26-b5c4-4d6d-8887-9e22b6666a10) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

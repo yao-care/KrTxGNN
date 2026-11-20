@@ -53,7 +53,7 @@ Salbutamol은 베타-2 작용제 계열의 약물로, 한국에서는 정제와 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 이 보고서에 정리된 자료로는 Salbutamol이 베타-2 아드레날린 작용제라는 점만 확인됩니다. 이 약은 기관지 평활근을 이완시키는 기관지 확장제로 알려져 있으며, 한국에서는 흡입제와 정제로 허가되어 있습니다.
+미국 FDA가 승인한 Salbutamol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “알부테롤 황산염은 베타 2 -아드레날린 작용제이다. 알부테롤 황산염의 약리학적 효과는 기도 평활근의 베타 2 -아드레날린 수용체 활성화에 기인한다. 베타 2 -아드레날린 수용체의 활성화는 아데닐시클라제의 활성화 및 세포 내 고리형 3', 5’-아데노신 일인산(cyclic AMP) 농도의 증가로 이어진다.” 영어 원문: "Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5’-adenosine monophosphate (cyclic AMP)." ([DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d), 버전 2024-12-20; 확인일 2026-11-19). 이 보고서에 정리된 자료로는 Salbutamol이 베타-2 아드레날린 작용제라는 점만 확인됩니다. 이 약은 기관지 평활근을 이완시키는 기관지 확장제로 알려져 있으며, 한국에서는 흡입제와 정제로 허가되어 있습니다.
 
 결막염에 적용할 수 있다는 근거는 이론적 추정 단계입니다. 베타-2 작용제가 결막의 비만세포에서 매개물질 방출을 줄일 가능성은 있습니다. 그러나 이 가설을 직접 검증한 임상시험이나 문헌은 이번에 수집된 자료에 없습니다.
 
@@ -101,6 +101,19 @@ Salbutamol은 베타-2 작용제 계열의 약물로, 한국에서는 정제와 
 - 약물 상호작용(100건)과 심혈관·저칼륨혈증 위험 검토
 
 **참고:** 이번 자료에는 같은 약물에 대한 다른 예측 적응증도 포함되어 있습니다. 아나필락시스는 Phase 3 시험이 24명 등록 후 조기 종료되어 근거 수준이 L3에 머뭅니다. 이는 별도 평가가 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

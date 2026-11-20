@@ -55,7 +55,7 @@ TxGNN 모델은 **자궁인대 선암종(uterine ligament adenocarcinoma)**에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 이번 데이터에서 확인되는 것은 durvalumab이 PD-L1을 표적으로 하는 항체 의약품이라는 점뿐입니다. 한국 허가 적응증 본문도 확인되지 않아, 기존 적응증과 신규 적응증의 연관성은 근거를 들어 설명할 수 없습니다.
+미국 FDA가 승인한 Durvalumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “예정세포사 리간드-1(PD-L1)의 발현은 염증 신호(예: IFN-gamma)에 의해 유도될 수 있으며, 종양 미세환경에서 종양 세포와 종양 관련 면역 세포 모두에 발현될 수 있다. PD-L1은 PD-1 및 CD80(B7.1)과의 상호작용을 통해 T세포 기능과 활성화를 차단한다. […] 더발루맙은 PD-L1에 결합하여 PD-L1과 PD-1 및 CD80(B7.1)의 상호작용을 차단하는 인간 면역글로불린 G1 카파(IgG1κ) 단클론항체이다.” 영어 원문: "Expression of programmed cell death ligand-1 (PD-L1) can be induced by inflammatory signals (e.g., IFN-gamma) and can be expressed on both tumor cells and tumor-associated immune cells in the tumor microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). […] Durvalumab is a human immunoglobulin G1 kappa (IgG1κ) monoclonal antibody that binds to PD-L1 and blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1)." ([DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3), 버전 2026-08-31; 확인일 2026-11-19). 이번 데이터에서 확인되는 것은 durvalumab이 PD-L1을 표적으로 하는 항체 의약품이라는 점뿐입니다. 한국 허가 적응증 본문도 확인되지 않아, 기존 적응증과 신규 적응증의 연관성은 근거를 들어 설명할 수 없습니다.
 
 가능한 추정은 부인과 선암에서 PD-L1 차단이 도움이 될 수 있다는 정도입니다. 하지만 자궁인대 선암종이라는 드문 부위에 대해서는 이를 뒷받침하는 데이터가 없습니다. 이 예측의 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다.
 
@@ -108,6 +108,19 @@ TxGNN 모델은 **자궁인대 선암종(uterine ligament adenocarcinoma)**에 �
 - 작용 기전(MOA) 데이터 확보 (DrugBank 등)
 - 자궁인대 선암종을 직접 다룬 임상시험 또는 문헌 탐색. 없다면 증례나 전임상 수준의 근거부터 확인
 - 부인과 선암 전반에서 PD-L1 차단이 타당한지 검토. 이 질환이 매우 드문 만큼 자궁경부 선암 등 인접 질환의 근거를 우선 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

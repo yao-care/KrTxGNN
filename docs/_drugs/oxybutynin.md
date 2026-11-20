@@ -56,7 +56,7 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Oxybutynin은 M1/M3 수용체에 선택성을 보이는 항무스카린제이며 평활근에 직접적인 진경 작용도 가집니다.
+미국 FDA가 승인한 Oxybutynin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “옥시부티닌은 방광 평활근을 이완시킨다. 옥시부티닌염산염은 평활근에 직접적인 진경 효과를 나타내며 평활근에 대한 아세틸콜린의 무스카린성 작용을 억제한다. 골격근 신경근 접합부 또는 자율신경절에서는 차단 효과(항니코틴성 효과)가 나타나지 않는다.” 영어 원문: "Oxybutynin relaxes bladder smooth muscle. Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects)." ([DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67), 버전 2026-11-11; 확인일 2026-11-19). 알려진 정보에 따르면, Oxybutynin은 M1/M3 수용체에 선택성을 보이는 항무스카린제이며 평활근에 직접적인 진경 작용도 가집니다.
 
 그러나 하지불안증후군은 일반적으로 도파민 기능 이상과 철 대사 이상에 연관된 질환입니다. 항무스카린 작용이 이 경로와 연결된다는 근거는 현재 데이터에서 확인되지 않습니다. 오히려 항콜린제는 진정이나 수면 방해를 일으켜 증상을 악화시킬 수 있어, 이 예측은 생물학적으로 직관적이지 않습니다.
 
@@ -101,6 +101,19 @@ TxGNN 점수는 매우 높지만, 기존 적응증과 신규 적응증 사이의
 - 항무스카린 작용과 하지불안증후군을 연결하는 기전 근거 또는 전임상 연구
 - 관련 임상시험 및 문헌 검색 재수행
 - 참고: 같은 약물의 예측 순위 2위(위십이지장염)와 3위(소화성 궤양)도 현재 L5/L4 수준이며 보류 상태입니다. 3위의 경우 역류성 식도염 유발 보고(1990)가 상부 위장관 사용에 대한 안전성 신호로 확인되었습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

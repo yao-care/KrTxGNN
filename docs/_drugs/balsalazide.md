@@ -54,7 +54,7 @@ Balsalazide는 대장 내 세균에 의해 메살라민(5-ASA)으로 전환되�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 Balsalazide는 대장 세균의 azoreductase에 의해 메살라민(5-ASA)과 비활성 운반체로 분해되는 프로드럭으로 알려져 있습니다. 메살라민은 COX/리폭시게나제 경로 억제, NF-κB 조절, 활성 라디칼 제거 등의 항염증 작용을 가집니다. 이론적으로는 통풍 발작의 염증 반응과 연결될 수 있습니다.
+미국 FDA가 승인한 Balsalazide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “발살라지드 이나트륨은 손상되지 않은 상태로 결장에 전달되며, 결장에서 세균의 아조 환원에 의해 절단되어 분자 중 치료적 활성 부분인 메살라민과 4-아미노벤조일-β-알라닌 운반체 부분을 등몰량으로 방출한다. 발살라지드 이나트륨이 절단될 때 방출되는 운반체 부분은 극히 소량만 흡수되며 대체로 불활성이다.” 영어 원문: "Balsalazide disodium is delivered intact to the colon where it is cleaved by bacterial azoreduction to release equimolar quantities of mesalamine, which is the therapeutically active portion of the molecule, and the 4-aminobenzoyl-β-alanine carrier moiety. The carrier moiety released when balsalazide disodium is cleaved is only minimally absorbed and is largely inert." ([DailyMed: balsalazide disodium prescribing information, Zydus Pharmaceuticals (USA) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed73067-e2ca-4184-a93a-5a2141bb4898), 버전 2026-11-03; 확인일 2026-11-19). 다만 Balsalazide는 대장 세균의 azoreductase에 의해 메살라민(5-ASA)과 비활성 운반체로 분해되는 프로드럭으로 알려져 있습니다. 메살라민은 COX/리폭시게나제 경로 억제, NF-κB 조절, 활성 라디칼 제거 등의 항염증 작용을 가집니다. 이론적으로는 통풍 발작의 염증 반응과 연결될 수 있습니다.
 
 그러나 이 연결고리는 **추측 수준**입니다. 이 약은 주로 대장에서 국소적으로 작용하고 전신 노출이 낮습니다. 요산 저하 작용이나 NLRP3 인플라마좀 관련 기전도 확립되어 있지 않습니다. 따라서 이 예측은 TxGNN 모델의 결과에만 근거합니다.
 
@@ -98,6 +98,19 @@ Balsalazide는 대장 내 세균에 의해 메살라민(5-ASA)으로 전환되�
 - 통풍 관련 전임상 연구 또는 문헌 검토를 통한 기전적 근거 확인
 - 상대적으로 기전적 개연성이 있는 후보(강직성 척추염 등 장-관절 축 질환)를 우선 검토하되, 설파피리딘 성분이 없다는 한계를 고려
 - 신장 질환 환자와 NSAID 병용 시의 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: balsalazide disodium prescribing information, Zydus Pharmaceuticals (USA) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed73067-e2ca-4184-a93a-5a2141bb4898) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

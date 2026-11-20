@@ -56,7 +56,7 @@ TxGNN 모델은 **만성 비부비동염(chronic rhinosinusitis)**에 효과가 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 ampicillin은 세균 세포벽 합성을 억제하는 베타락탐계 항생제입니다. 만성 비부비동염의 급성 악화에는 황색포도알균, 인플루엔자균, 폐렴사슬알균 같은 세균이 관여한다고 알려져 있습니다. 따라서 감수성 균주에 대한 항균 작용이 이론상 도움이 될 수 있습니다.
+미국 FDA가 승인한 Ampicillin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “암피실린은 활발한 증식 단계에 있는 감수성 세균에 대한 살균 작용에 있어 페니실린과 유사하다. 암피실린은 세포벽 생합성을 억제함으로써 작용하며, 이는 세균의 사멸로 이어진다.” 영어 원문: "Ampicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria." ([DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1), 버전 2026-07-27; 확인일 2026-11-19). 일반적으로 ampicillin은 세균 세포벽 합성을 억제하는 베타락탐계 항생제입니다. 만성 비부비동염의 급성 악화에는 황색포도알균, 인플루엔자균, 폐렴사슬알균 같은 세균이 관여한다고 알려져 있습니다. 따라서 감수성 균주에 대한 항균 작용이 이론상 도움이 될 수 있습니다.
 
 다만 만성 비부비동염은 본질적으로 염증성 질환입니다. 한 연구에서는 황색포도알균 집락화가 증상 중증도와 관련이 없었습니다. 항생제의 역할은 아직 입증되지 않았습니다. 또한 베타락타마제 생성 균주가 있으면 ampicillin 단독 요법의 효과는 제한될 수 있습니다.
 
@@ -116,6 +116,19 @@ TxGNN 모델은 **만성 비부비동염(chronic rhinosinusitis)**에 효과가 
 - 신장 질환, 혈액 질환 등 지식그래프상 금기 관계에 해당하는 환자군에 대한 안전성 검토
 
 참고로 같은 약물의 다른 예측 후보(만성 사골동염, 치은염, 세균성 관절염 등)도 같은 방식으로 간접 근거만 확인되었습니다. 부비동 신생물은 근거 없이 모델 예측만 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

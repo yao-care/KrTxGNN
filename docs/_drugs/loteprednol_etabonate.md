@@ -54,7 +54,7 @@ Loteprednol etabonate는 국소 스테로이드(코르티코스테로이드) 점
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 loteprednol etabonate는 안구 표면에서 항염 작용을 하는 국소 코르티코스테로이드입니다.
+미국 FDA가 승인한 Loteprednol Etabonate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Loteprednol etabonate는 코르티코스테로이드이다. 코르티코스테로이드는 다양한 유발 인자에 대한 염증 반응을 억제하는 것으로 나타났다. 코르티코스테로이드는 염증과 관련된 부종, 피브린 침착, 모세혈관 확장, 백혈구 이동, 모세혈관 증식, 섬유모세포 증식, 콜라겐 침착 및 반흔 형성을 억제한다.” 영어 원문: "Loteprednol etabonate is a corticosteroid. Corticosteroids have been shown to inhibit the inflammatory response to a variety of inciting agents. They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation." ([DailyMed: Lotemax Sm (loteprednol etabonate) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f9477b5-699f-4d3b-b9a6-0cc238266237), 버전 2026-03-31; 확인일 2026-11-19). 알려진 정보에 따르면 loteprednol etabonate는 안구 표면에서 항염 작용을 하는 국소 코르티코스테로이드입니다.
 
 다만 결막 여포증은 대개 양성이며 염증성이 아닌 림프구 반응인 경우가 많아, 스테로이드가 도움이 될 근거는 약합니다. 0.9969라는 높은 점수는 계산상의 예측일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌은 제공되지 않았습니다.
 
@@ -96,6 +96,19 @@ Loteprednol etabonate는 국소 스테로이드(코르티코스테로이드) 점
 - 허가 적응증 본문과 경고·금기 정보 확보 (허가 문서 파싱)
 - 지식그래프상 금기 질환(녹내장, 고안압증, 안구 감염 등)을 고려한 대상 환자 선별 기준
 - 시판 상태(취소 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lotemax Sm (loteprednol etabonate) prescribing information, Bausch & Lomb Incorporated](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6f9477b5-699f-4d3b-b9a6-0cc238266237) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -54,7 +54,7 @@ Apixaban은 경구 인자 Xa 억제 항응고제 계열의 약물입니다. TxGN
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Apixaban은 혈액응고 인자 Xa를 억제하는 항응고제 계열로 알려져 있으나, 인자 Xa 억제와 편두통 예방을 연결하는 확립된 기전은 없습니다.
+미국 FDA가 승인한 Apixaban 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아픽사반은 FXa의 선택적 저해제이다. 아픽사반은 항혈전 활성을 위해 안티트롬빈 III를 필요로 하지 않는다. 아픽사반은 유리 FXa 및 혈전 결합 FXa와 프로트롬비나아제 활성을 저해한다. 아픽사반은 혈소판 응집에 직접적인 영향은 없으나, 트롬빈에 의해 유도되는 혈소판 응집을 간접적으로 억제한다.” 영어 원문: "Apixaban is a selective inhibitor of FXa. It does not require antithrombin III for antithrombotic activity. Apixaban inhibits free and clot-bound FXa, and prothrombinase activity. Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin." ([DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25), 버전 2026-09-24; 확인일 2026-11-19). Apixaban은 혈액응고 인자 Xa를 억제하는 항응고제 계열로 알려져 있으나, 인자 Xa 억제와 편두통 예방을 연결하는 확립된 기전은 없습니다.
 
 가설로는 전조 편두통에 혈전색전증 또는 역설색전(난원공 개존, 항인지질항체 등)이 관여할 가능성이 제기됩니다. 그러나 이는 추측 수준입니다. 관련 증례 보고도 서로 상반됩니다. 한 건은 apixaban 시작 후 악화를, 다른 한 건은 와파린에서는 호전되었으나 apixaban에서는 호전되지 않았음을 보고했습니다.
 
@@ -105,6 +105,18 @@ Apixaban은 경구 인자 Xa 억제 항응고제 계열의 약물입니다. TxGN
 - 인자 Xa 억제와 편두통을 연결하는 기전 근거 확보
 - 허가사항의 경고 및 금기 정보 확인
 - 편두통, 특히 전조 편두통 환자 대상 전향적 연구 근거 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Eliquis (apixaban) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41a133ef-e461-48ad-8221-b735bdd0ec25) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

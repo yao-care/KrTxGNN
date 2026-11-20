@@ -55,7 +55,7 @@ TxGNN 모델은 **신인성 항이뇨호르몬 부적절 분비 증후군(Nephro
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 약물의 상세한 작용 기전 데이터가 없습니다. 일반적으로 알려진 바로 ethosuximide는 T형 칼슘 채널을 차단하여 결신발작을 억제하는 항경련제입니다.
+미국 FDA가 승인한 Ethosuximide 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “에토숙시미드는 결신(소발작) 발작에서 흔히 나타나는 의식 소실과 관련된 초당 3회의 발작성 극서파 활동을 억제한다. 간질양 발작의 빈도는 감소하는데, 이는 운동피질의 억제 및 경련 자극에 대한 중추신경계 역치의 상승에 의한 것으로 보인다.” 영어 원문: "Ethosuximide suppresses the paroxysmal three cycle per second spike and wave activity associated with lapses of consciousness which is common in absence (petit mal) seizures. The frequency of epileptiform attacks is reduced, apparently by depression of the motor cortex and elevation of the threshold of the central nervous system to convulsive stimuli." ([DailyMed: Zarontin (ethosuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e008f33-70a1-4bc6-b3a0-d45214418ab6), 버전 2026-05-25; 확인일 2026-11-19). 일반적으로 알려진 바로 ethosuximide는 T형 칼슘 채널을 차단하여 결신발작을 억제하는 항경련제입니다.
 
 NSIAD는 V2 수용체 유전자(AVPR2)의 기능 획득 돌연변이 등으로 수용체가 지속적으로 활성화되어 발생하는 질환입니다. 현재 확인된 자료에서는 T형 칼슘 채널 차단과 바소프레신 V2 수용체 신호 또는 신장의 수분 조절을 연결하는 확립된 경로가 없습니다.
 
@@ -90,6 +90,19 @@ TxGNN 점수는 매우 높지만 지지하는 임상시험과 문헌이 없고 �
 - AVPR2/GNAS 신호 경로와의 연관성을 검증하는 전임상 연구 설계
 - NSIAD 관련 임상시험 및 문헌 재검색
 - 신장 질환 관련 지식그래프 금기 신호에 대한 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Zarontin (ethosuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e008f33-70a1-4bc6-b3a0-d45214418ab6) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

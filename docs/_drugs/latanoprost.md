@@ -55,7 +55,7 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 latanoprost는 눈에 국소 투여하는 FP 수용체 작용제로, 눈에서 혈관 확장 작용을 나타냅니다. 모델은 이 혈관 관련 특성을 근거로 혈관 질환과 연관지었을 가능성이 있습니다.
+미국 FDA가 승인한 Latanoprost 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “라타노프로스트는 방수 유출을 증가시킴으로써 안압(IOP)을 낮추는 것으로 여겨지는 프로스타글란딘 F 2α 유사체이다. 동물 및 사람을 대상으로 한 연구에 따르면 주된 작용기전은 포도막공막 유출의 증가이다.” 영어 원문: "Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow." ([DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded), 버전 2025-12-18; 확인일 2026-11-19). 알려진 정보에 따르면 latanoprost는 눈에 국소 투여하는 FP 수용체 작용제로, 눈에서 혈관 확장 작용을 나타냅니다. 모델은 이 혈관 관련 특성을 근거로 혈관 질환과 연관지었을 가능성이 있습니다.
 
 그러나 명확한 기전적 연결고리는 확립되어 있지 않습니다. 칼시필락시스는 주로 신부전 환자에서 혈관 석회화, 소혈관 혈전, 조직 허혈이 나타나는 질환입니다. 점안 투여 시 전신 노출이 낮아 관련 효과를 기대하기 어렵습니다. 이 예측은 어떤 임상시험이나 문헌으로도 뒷받침되지 않습니다.
 
@@ -89,6 +89,19 @@ TxGNN 모델은 **내장 칼시필락시스(visceral calciphylaxis)**에 효과�
 - 상세한 약물 작용 기전(MOA) 데이터
 - 허가사항(경고 및 금기) 확인
 - 전신 투여 시 노출 및 안전성 평가 (현재 점안제 제형만 있음)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

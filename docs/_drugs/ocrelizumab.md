@@ -55,7 +55,7 @@ TxGNN 모델은 **HER2 양성 유방암(HER2 positive breast carcinoma)**에 효
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ocrelizumab은 CD20을 발현하는 B세포를 선택적으로 제거하는 인간화 단클론항체이며, 다발성 경화증 치료에 사용됩니다.
+미국 FDA가 승인한 Ocrelizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “오크렐리주맙이 다발성 경화증에서 치료 효과를 나타내는 정확한 기전은 알려져 있지 않으나, 전B 림프구 및 성숙 B 림프구에 존재하는 세포 표면 항원인 CD20에 대한 결합이 관여하는 것으로 추정된다. B 림프구의 세포 표면에 결합한 후, 오크렐리주맙은 항체 의존성 세포 용해 및 보체 매개 용해를 초래한다.” 영어 원문: "The precise mechanism by which ocrelizumab exerts its therapeutic effects in multiple sclerosis is unknown, but is presumed to involve binding to CD20, a cell surface antigen present on pre-B and mature B lymphocytes. Following cell surface binding to B lymphocytes, ocrelizumab results in antibody-dependent cellular cytolysis and complement-mediated lysis." ([DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d), 버전 2026-05-14; 확인일 2026-11-19). 알려진 정보에 따르면 Ocrelizumab은 CD20을 발현하는 B세포를 선택적으로 제거하는 인간화 단클론항체이며, 다발성 경화증 치료에 사용됩니다.
 
 HER2 기반 종양 생물학과 CD20 표적 B세포 제거 사이에 직접적인 기전적 연관성은 확인되지 않습니다. 0.9989라는 매우 높은 점수는 모델 예측일 뿐이며, 임상시험이나 문헌으로 뒷받침되지 않습니다.
 
@@ -120,6 +120,19 @@ TxGNN 점수는 매우 높지만 임상시험과 직접 관련 문헌이 없고 
 - HER2 양성 유방암에서 CD20 B세포 표적 가능성을 뒷받침하는 전임상·기전 연구 탐색
 - 유방암과 직접 관련된 문헌 및 임상시험 재검색 (현재 문헌은 약물명 기반으로 수집된 것으로 보임)
 - 유방암 하위 유형 간 점수가 거의 같은 현상이 모델 아티팩트인지 검증
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Ocrevus (ocrelizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9da42362-3bb5-4b83-b4bb-b59fd4e55f0d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -54,7 +54,7 @@ Omalizumab은 유리 IgE에 결합하는 항IgE 단클론항체입니다. TxGNN 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터는 없습니다. 알려진 정보로는 omalizumab이 유리 IgE에 결합해 혈중 IgE를 낮추고, 비만세포와 호염기구의 FcεRI 매개 활성화를 줄입니다. 이 작용은 알레르기성 기도 염증과 관련이 있어, IgE가 주도하는 기도 질환에서는 기전상 적용 가능성을 생각해 볼 수 있습니다.
+미국 FDA가 승인한 Omalizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “천식, 비용종을 동반한 만성 비부비동염 및 IgE 매개 식품 알레르기 오말리주맙 제제는 비만세포, 호염기구 및 수지상세포 표면의 고친화성 IgE 수용체(FcεRI)에 대한 IgE의 결합을 억제하여, 이들 세포에서 FcεRI의 하향조절을 초래한다. 알레르기성 천식 환자에서 오말리주맙 제제 투여는 혈액 및 조직 호산구 감소와 IL-4, IL-5 및 IL-13을 포함한 염증 매개체의 감소로 입증되는 바와 같이 IgE 매개 염증을 억제한다.” 영어 원문: "Asthma, Chronic Rhinosinusitis with Nasal Polyps, and IgE-Mediated Food Allergy Omalizumab products inhibit the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells, basophils, and dendritic cells, resulting in FcεRI down-regulation on these cells. In allergic asthmatics, treatment with omalizumab products inhibit IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13." ([DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84), 버전 2026-10-06; 확인일 2026-11-19). 알려진 정보로는 omalizumab이 유리 IgE에 결합해 혈중 IgE를 낮추고, 비만세포와 호염기구의 FcεRI 매개 활성화를 줄입니다. 이 작용은 알레르기성 기도 염증과 관련이 있어, IgE가 주도하는 기도 질환에서는 기전상 적용 가능성을 생각해 볼 수 있습니다.
 
 다만 이 연결은 간접적입니다. 기관지염에 관한 자료는 대부분 천식 환자군이나 기도질환 전반을 다룬 연구에서 나왔고, 기관지염 자체를 정의된 질환으로 평가한 연구는 아닙니다. 따라서 IgE가 병태를 주도하는 특정 표현형에서만 가설이 성립할 수 있으며, 높은 예측 점수만으로 효능을 뒷받침하기는 어렵습니다.
 
@@ -108,6 +108,18 @@ Omalizumab은 유리 IgE에 결합하는 항IgE 단클론항체입니다. TxGNN 
 - 기관지염을 직접 평가하는 임상시험 또는 관찰 연구 자료
 - 상세한 작용 기전(MOA) 데이터와 기관지염 병태와의 기전적 연결 분석
 - 허가사항의 경고 및 금기 정보 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

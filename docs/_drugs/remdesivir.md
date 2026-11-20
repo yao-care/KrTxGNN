@@ -56,7 +56,7 @@ TxGNN 모델은 **다중 내분비 종양증(Multiple Endocrine Neoplasia)**에 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, Remdesivir는 바이러스 RNA 의존성 RNA 중합효소(RdRp)를 억제하는 뉴클레오티드 유사체 전구약물입니다.
+미국 FDA가 승인한 Remdesivir 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “렘데시비르는 중증급성호흡기증후군 코로나바이러스 2(SARS-CoV-2)에 대해 활성을 갖는 항바이러스제이다. […] 렘데시비르는 바이러스 복제에 필수적인 SARS-CoV-2 RNA 의존성 RNA 중합효소(RdRp)의 억제제이다. 렘데시비르는 세포 내로 분포되는 아데노신 뉴클레오티드 전구약물로, 세포 내에서 세포 유형에 따라 카르복시에스테라제 1 및/또는 카텝신 A에 의해 뉴클레오시드 일인산 중간체로 대사된다.” 영어 원문: "Remdesivir is an antiviral drug with activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). […] Remdesivir is an inhibitor of the SARS-CoV-2 RNA-dependent RNA polymerase (RdRp), which is essential for viral replication. Remdesivir is an adenosine nucleotide prodrug that distributes into cells where it is metabolized to a nucleoside monophosphate intermediate by carboxyesterase 1 and/or cathepsin A, depending upon the cell type." ([DailyMed: Veklury (remdesivir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0978fa8-53ff-4ca2-82a7-567fd3e958ca), 버전 2026-07-29; 확인일 2026-11-19). 알려진 정보에 따르면, Remdesivir는 바이러스 RNA 의존성 RNA 중합효소(RdRp)를 억제하는 뉴클레오티드 유사체 전구약물입니다.
 
 다중 내분비 종양증은 MEN1, RET 변이 등으로 발생하는 유전성 종양 증후군입니다. 항바이러스 기전은 이 질환의 병태생리와 연결되는 고리가 없으며, 높은 예측 점수는 계산상의 결과일 뿐 생물학적 타당성이 뒷받침되지 않습니다.
 
@@ -104,6 +104,19 @@ TxGNN 모델은 **다중 내분비 종양증(Multiple Endocrine Neoplasia)**에 
 - 상세한 약물 작용 기전(MOA) 데이터
 - 다중 내분비 종양증과 관련된 전임상 또는 기전 연구 근거
 - 추후 검토 대상으로는 HIV 감염증 및 CMV 감염이 있으나, 현재까지 직접적인 효능 근거는 없습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Veklury (remdesivir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0978fa8-53ff-4ca2-82a7-567fd3e958ca) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

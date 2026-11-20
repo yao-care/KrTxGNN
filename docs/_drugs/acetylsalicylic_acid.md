@@ -54,7 +54,7 @@ Acetylsalicylic acid(아스피린)는 국내에서 여러 제조사가 허가받
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서를 위해 수집한 데이터에는 상세한 작용 기전 정보가 없습니다. 일반적으로 아스피린은 COX를 억제해 프로스타노이드 합성을 줄이고, 혈소판 응집을 억제하며 소염·진통 작용을 나타내는 약물로 알려져 있습니다.
+미국 FDA가 승인한 aspirin and extended - release dipyridamole(Acetylsalicylic Acid 함유 복합제) 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아스피린 아스피린은 혈소판 사이클로옥시게나아제를 비가역적으로 저해함으로써 혈소판 응집을 억제하며, 이에 따라 혈소판 응집 및 혈관수축의 강력한 유도물질인 트롬복산 A 2의 생성을 억제한다.” 영어 원문: "Aspirin Aspirin inhibits platelet aggregation by irreversible inhibition of platelet cyclooxygenase and thus inhibits the generation of thromboxane A 2, a powerful inducer of platelet aggregation and vasoconstriction." ([DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1), 버전 2026-08-19; 확인일 2026-11-19). 일반적으로 아스피린은 COX를 억제해 프로스타노이드 합성을 줄이고, 혈소판 응집을 억제하며 소염·진통 작용을 나타내는 약물로 알려져 있습니다.
 
 벌레먹은 모양 위축피부증은 모낭 주변 피부가 위축되는 드문 피부질환입니다. 혈소판이나 COX 경로와의 뚜렷한 기전적 연관성은 확인되지 않았습니다. 모낭 염증을 매개로 한 소염 작용이 이론적으로 거론될 수는 있으나 추측 수준입니다. 현재로서는 모델 점수 외에 이 예측을 뒷받침할 근거가 없습니다.
 
@@ -96,6 +96,19 @@ Acetylsalicylic acid(아스피린)는 국내에서 여러 제조사가 허가받
 - 이 질환 환자를 대상으로 한 증례 보고, 관찰 연구 등 직접 근거
 - 상세한 작용 기전 데이터와 허가사항의 경고·금기 정보 확보
 - 근거가 축적되면 소규모 탐색 임상시험을 설계하되, 출혈 위험과 약물 상호작용 관리 계획을 포함
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

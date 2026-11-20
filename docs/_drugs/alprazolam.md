@@ -54,7 +54,7 @@ Alprazolam은 벤조디아제핀계 약물로, 불안·공황 증상 치료에 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 alprazolam은 벤조디아제핀계 항불안제이며, GABA-A 수용체를 통한 억제성 신경전달을 강화해 진정·최면·항불안 작용을 냅니다. 이 계열 효과는 불면증, 특히 불안이 동반된 불면증에 기전상 적용 가능할 수 있습니다. TxGNN의 높은 점수도 이러한 계열 효과와 일치합니다.
+미국 FDA가 승인한 Alprazolam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “알프라졸람은 1,4 벤조디아제핀이다. 알프라졸람은 뇌의 감마-아미노부티르산-A(GABA A ) 수용체의 벤조디아제핀 부위에 결합하여 공황장애 치료 효과를 나타내며, GABA 매개 시냅스 억제를 증강시킨다.” 영어 원문: "Alprazolam is a 1,4 benzodiazepine. Alprazolam exerts its effect for the treatment of panic disorder through binding to the benzodiazepine site of gamma‑aminobutyric acid-A (GABA A ) receptors in the brain and enhances GABA-mediated synaptic inhibition." ([DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3), 버전 2025-02-11; 확인일 2026-11-19). 알려진 정보에 따르면 alprazolam은 벤조디아제핀계 항불안제이며, GABA-A 수용체를 통한 억제성 신경전달을 강화해 진정·최면·항불안 작용을 냅니다. 이 계열 효과는 불면증, 특히 불안이 동반된 불면증에 기전상 적용 가능할 수 있습니다. TxGNN의 높은 점수도 이러한 계열 효과와 일치합니다.
 
 다만 수집된 문헌은 공황장애 총설, 약동학, 벤조디아제핀 사용 현황과 경제적 부담, 공존질환 및 다른 약물(zolpidem) 중단 연구 등 대부분 간접적인 내용입니다. 알프라졸람이 불면증에 효과가 있다는 점을 직접 보여 주는 자료는 없습니다. 장기 최면제 사용은 내성, 의존, 낙상, 인지기능 저하 위험 때문에 제한되며, 고령자에서 특히 그렇습니다.
 
@@ -109,13 +109,25 @@ Alprazolam은 벤조디아제핀계 약물로, 불안·공황 증상 치료에 �
 **사유:**
 알프라졸람의 불면증 효능을 직접 입증한 임상시험이 없고, 문헌도 대부분 간접 근거입니다. 모델 점수가 매우 높고 GABA-A 기전상 타당성은 있지만, 의존·내성·낙상 위험 등 안전성 부담이 큽니다. 현재 근거만으로는 진행을 권고하기 어렵습니다.
 
-
 **진행하려면 필요한 것:**
 - 알프라졸람의 불면증에 대한 무작위 대조 임상시험이나 체계적 문헌고찰 등 직접 근거
 - 상세한 작용 기전(MOA) 데이터
 - 허가사항(경고, 금기)의 확인과 분석
 - 단기 사용 기준, 감량 계획, 고령자·수면무호흡·물질 사용력 환자의 위험 평가 등 안전성 관리 계획
 - zolpidem 등 기존 불면증 치료제 대비 비교 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

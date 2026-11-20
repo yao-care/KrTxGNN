@@ -55,7 +55,7 @@ TxGNN 모델은 **신성 저요산혈증(Hypouricemia, renal)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 febuxostat은 비퓨린계 선택적 잔틴 산화효소 억제제로, 요산 생성을 줄여 혈중 요산을 낮춥니다.
+미국 FDA가 승인한 Febuxostat 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “잔틴 산화효소 억제제인 ULORIC은 혈청 요산을 감소시킴으로써 치료 효과를 나타낸다. ULORIC은 치료 농도에서 퓨린 및 피리미딘의 합성과 대사에 관여하는 다른 효소들은 억제하지 않을 것으로 예상된다.” 영어 원문: "ULORIC, a xanthine oxidase inhibitor, achieves its therapeutic effect by decreasing serum uric acid. ULORIC is not expected to inhibit other enzymes involved in purine and pyrimidine synthesis and metabolism at therapeutic concentrations." ([DailyMed: Uloric (febuxostat) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54de10ef-fe5f-4930-b91d-6bbb04c664bd), 버전 2025-12-24; 확인일 2026-11-19). 알려진 정보에 따르면 febuxostat은 비퓨린계 선택적 잔틴 산화효소 억제제로, 요산 생성을 줄여 혈중 요산을 낮춥니다.
 
 신성 저요산혈증은 URAT1, GLUT9 등 신장 요산 재흡수 기능 이상으로 혈중 요산이 이미 낮은 상태입니다. 요산을 더 낮추는 것은 치료 목적에 맞지 않고 오히려 해로울 수 있습니다.
 
@@ -112,6 +112,19 @@ TxGNN 모델은 **신성 저요산혈증(Hypouricemia, renal)**에 효과가 있
 ### 참고: 다른 예측 적응증
 
 TxGNN의 하위 예측(HPRT 부분 결핍, Lesch-Nyhan 증후군)은 요산 과생성에 따른 고요산혈증 관리라는 기전적 연관성이 더 뚜렷합니다. 다만 증례 보고 수준이고 소아 안전성 자료가 제한적이며, 신경·행동 증상에는 효과가 없다는 한계가 있습니다. 별도 연구 질문으로 검토할 가치가 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Uloric (febuxostat) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54de10ef-fe5f-4930-b91d-6bbb04c664bd) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

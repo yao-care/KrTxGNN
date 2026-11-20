@@ -57,7 +57,7 @@ TxGNN 모델은 **십이지장궤양(Duodenal Ulcer)**에 효과가 있을 수 �
 
 ## 이 예측이 타당한 이유는?
 
-Teriparatide는 PTH1 수용체(PTH1R)와 PTH2 수용체(PTH2R)에 결합하는 펩타이드입니다. 간헐적으로 투여하면 골형성을 촉진하는 것으로 알려져 있습니다. 다만 허가 정보에 기재된 상세 작용 기전은 이번 데이터에 없습니다. 위 내용은 수용체 표적 정보에 근거한 것입니다.
+Teriparatide는 PTH1 수용체(PTH1R)와 PTH2 수용체(PTH2R)에 결합하는 펩타이드입니다. 간헐적으로 투여하면 골형성을 촉진하는 것으로 알려져 있습니다. 미국 FDA가 승인한 Teriparatide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “내인성 84-아미노산 부갑상선호르몬(PTH)은 뼈와 신장에서 칼슘 및 인산 대사를 조절하는 주된 조절인자이다. PTH의 생리학적 작용에는 뼈 대사의 조절, 칼슘 및 인산의 신세뇨관 재흡수, 그리고 장관 칼슘 흡수가 포함된다. […] PTH와 테리파라타이드의 생물학적 작용은 특이적인 고친화성 세포 표면 수용체에 대한 결합을 통해 매개된다.” 영어 원문: "Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors." ([DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c), 버전 2026-08-31; 확인일 2026-11-19). 위 내용은 수용체 표적 정보에 근거한 것입니다.
 
 십이지장궤양은 소화관 점막 손상 질환입니다. 골형성 촉진이라는 teriparatide의 기전과 궤양 치유 사이에서 타당한 연결 고리는 현재 데이터에서 확인되지 않습니다. 0.9986이라는 높은 점수는 TxGNN 모델(딥러닝)이 산출한 값이며, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 임상적 또는 기전적 검증을 거치지 않았으므로 이 예측은 가설 수준으로 보아야 합니다.
 
@@ -99,6 +99,18 @@ Teriparatide는 PTH1 수용체(PTH1R)와 PTH2 수용체(PTH2R)에 결합하는 �
 - 십이지장궤양과 PTH 신호전달 사이의 기전적 연관성을 보여주는 전임상 또는 기전 연구
 - 허가사항(경고, 금기)의 확인과 상세 작용 기전 데이터 보완
 - 고칼슘혈증 및 디곡신 병용 위험 등 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

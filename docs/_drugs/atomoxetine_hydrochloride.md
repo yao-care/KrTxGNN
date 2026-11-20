@@ -55,7 +55,7 @@ description: "Atomoxetine Hydrochloride: 예측 신규 적응증 특정 발달�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 약리 특성으로 보면, 아토목세틴은 노르에피네프린 재흡수를 억제하여 전전두엽의 노르에피네프린 신호를 높입니다. 이 작용은 주의력과 실행 기능을 뒷받침할 가능성이 있어, 신경발달 관련 질환에 적용될 수 있다는 가설의 근거가 됩니다.
+미국 FDA가 승인한 Atomoxetine Hydrochloride 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “STRATTERA가 ADHD에서 치료 효과를 나타내는 정확한 기전은 알려져 있지 않으나, 생체 외 흡수 및 신경전달물질 고갈 연구에서 확인된 바와 같이 시냅스전 노르에피네프린 수송체의 선택적 억제와 관련이 있는 것으로 생각된다.” 영어 원문: "The precise mechanism by which STRATTERA produces its therapeutic effects in ADHD is unknown, but is thought to be related to selective inhibition of the pre-synaptic norepinephrine transporter, as determined in ex vivo uptake and neurotransmitter depletion studies." ([DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb), 버전 2026-06-30; 확인일 2026-11-19). 알려진 약리 특성으로 보면, 아토목세틴은 노르에피네프린 재흡수를 억제하여 전전두엽의 노르에피네프린 신호를 높입니다. 이 작용은 주의력과 실행 기능을 뒷받침할 가능성이 있어, 신경발달 관련 질환에 적용될 수 있다는 가설의 근거가 됩니다.
 
 다만 연결 고리는 간접적입니다. 수집된 문헌은 주로 ADHD(자폐 동반 ADHD, 학습장애 동반 ADHD 포함)를 다루며, 학습·언어 등 특정 발달장애를 독립된 질환으로 다룬 연구는 확인되지 않았습니다. 따라서 이 예측은 ADHD와의 동반 이환을 매개로 추정한 가설 수준입니다.
 
@@ -106,6 +106,19 @@ description: "Atomoxetine Hydrochloride: 예측 신규 적응증 특정 발달�
 - ADHD 동반 여부와 무관한 효과를 구분할 수 있는 연구 설계
 - 상세한 작용 기전 자료
 - 허가사항 기반의 경고·금기 정보 확보와 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Strattera (atomoxetine hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=309de576-c318-404a-bc15-660c2b1876fb) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

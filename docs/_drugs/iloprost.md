@@ -55,7 +55,7 @@ TxGNN 모델은 **단순 두피 박모증(hypotrichosis simplex of the scalp)**�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Iloprost는 프로스타사이클린 유사체로 혈관확장과 혈소판 응집 억제 작용을 가집니다. 이로 인해 두피 미세순환에 영향을 줄 가능성은 생각해 볼 수 있으나, 이는 어디까지나 추정입니다.
+미국 FDA가 승인한 Iloprost 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “일로프로스트는 프로스타사이클린 PGI 2의 합성 유사체이다. 일로프로스트는 혈관확장제이며 혈소판 응집을 억제한다.” 영어 원문: "Iloprost is a synthetic analog of prostacyclin PGI 2. Iloprost is a vasodilator and inhibits platelet aggregation." ([DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4), 버전 2026-08-13; 확인일 2026-11-19). 알려진 정보에 따르면 Iloprost는 프로스타사이클린 유사체로 혈관확장과 혈소판 응집 억제 작용을 가집니다. 이로 인해 두피 미세순환에 영향을 줄 가능성은 생각해 볼 수 있으나, 이는 어디까지나 추정입니다.
 
 이번에 정리된 자료에서는 이 예측을 뒷받침하는 기전적 연결 고리가 확인되지 않았습니다. TxGNN 점수는 매우 높지만 임상시험과 문헌이 모두 없어, 임상적 검증이 없는 모델 예측 단계입니다.
 
@@ -85,6 +85,19 @@ TxGNN 모델은 **단순 두피 박모증(hypotrichosis simplex of the scalp)**�
 - 상세한 약물 작용 기전(MOA) 데이터
 - 두피 박모증에 대한 전임상 또는 임상 연구 근거
 - 시판 상태(유효/취소) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Aurlumyn (iloprost) prescribing information, BTG International Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34036fc0-6832-d066-e063-6394a90a18a4) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

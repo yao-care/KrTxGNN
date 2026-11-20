@@ -56,7 +56,7 @@ Armodafinil은 각성 촉진제인 modafinil의 R-이성질체로, 한국에서 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반 약리학에 따르면 armodafinil은 도파민 수송체 억제를 중심으로 히스타민, 오렉신, 글루탐산/GABA 신호에도 영향을 주어 각성을 촉진하는 것으로 알려져 있습니다. 이 설명은 이번 보고서용 데이터가 아니라 일반 지식에 근거합니다.
+미국 FDA가 승인한 Armodafinil 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아모다피닐이 각성을 촉진하는 기전은 알려져 있지 않다. 아모다피닐(R-모다피닐)은 동물 및 in vitro 연구에서 시험된 범위 내에서 모다피닐(R- 및 S-모다피닐의 혼합물)과 유사한 약리학적 특성을 가진다.” 영어 원문: "The mechanism(s) through which armodafinil promotes wakefulness is unknown. Armodafinil (R-modafinil) has pharmacological properties similar to those of modafinil (a mixture of R- and S-modafinil), to the extent tested in animal and in vitro studies." ([DailyMed: Nuvigil (armodafinil) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dd49302-f757-d945-e063-6294a90afcba), 버전 2026-09-24; 확인일 2026-11-19). 일반 약리학에 따르면 armodafinil은 도파민 수송체 억제를 중심으로 히스타민, 오렉신, 글루탐산/GABA 신호에도 영향을 주어 각성을 촉진하는 것으로 알려져 있습니다. 이 설명은 이번 보고서용 데이터가 아니라 일반 지식에 근거합니다.
 
 기전상 각성 촉진제가 불면증 자체를 치료한다는 것은 직관에 반합니다. 다만 간접적인 연관성은 가능합니다. 불면증에 동반되는 주간 졸림과 피로를 개선할 수 있고, 특히 수면호흡장애, 교대근무 수면장애, 암 관련 피로가 불면증과 함께 나타나는 경우에 해당합니다.
 
@@ -106,6 +106,19 @@ TxGNN 점수(0.9989)는 계산상의 예측이며, 불면증에 대한 실제 �
 - NCT01091974, NCT01011218, NCT02552303의 결과 데이터 확보 및 armodafinil 기여도 분석
 - 주간 졸림·피로 동반 불면증 등 특정 하위집단으로 범위를 좁힌 가설 설정
 - 정신과적 동반질환 및 고혈압 환자에 대한 안전성 검토 계획
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Nuvigil (armodafinil) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dd49302-f757-d945-e063-6294a90afcba) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

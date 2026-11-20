@@ -55,7 +55,7 @@ TxGNN 모델은 **구순주위 근간대발작 동반 absence(perioral myoclonia
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 Clobazam은 GABA-A 수용체를 매개로 한 억제 작용을 강화하는 1,5-벤조디아제핀계 항경련제입니다.
+미국 FDA가 승인한 Clobazam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “1,5-벤조디아제핀인 클로바잠의 정확한 작용 기전은 완전히 이해되지 않았으나, GABA A 수용체의 벤조디아제핀 결합 부위에 결합함으로써 GABA성 신경전달이 증강되는 것과 관련이 있는 것으로 생각된다.” 영어 원문: "The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully understood but is thought to involve potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA A receptor." ([DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c), 버전 2026-10-16; 확인일 2026-11-19). 알려진 정보에 따르면 Clobazam은 GABA-A 수용체를 매개로 한 억제 작용을 강화하는 1,5-벤조디아제핀계 항경련제입니다.
 
 구순주위 근간대발작 동반 absence는 absence 발작과 입 주위의 근간대 경련이 나타나는 전신 유전성 간질 증후군입니다. GABA 계열 항경련 기전이 생물학적으로 적용 가능할 수 있습니다.
 
@@ -102,6 +102,18 @@ TxGNN 모델은 **구순주위 근간대발작 동반 absence(perioral myoclonia
 |-----|---------|-----------|------|
 | 2 | 하지불안 증후군(restless legs syndrome) | 0.9930 | 클로나제팜 등 벤조디아제핀이 주로 수면 유지 개선 목적으로 비공식 사용된 바 있어 계열 수준의 근거는 있으나, 1차 치료제와는 기전이 다르고 진정·내성·의존성 부담이 있습니다. |
 | 3 | 시신경 저형성 동반 다소뇌회증(polymicrogyria with optic nerve hypoplasia) | 0.9909 | 발작 증상 조절에 한정된 효과만 기대되며, 기저 기형이나 시신경 저형성에는 효과가 없을 것으로 보입니다. |
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Onfi (clobazam) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de03bd69-2dca-459c-93b4-541fd3e9571c) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

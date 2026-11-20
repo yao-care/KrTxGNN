@@ -56,7 +56,7 @@ TxGNN 모델은 **CMM7(CMM7)**에 효과가 있을 수 있다고 예측했지만
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 약리학 데이터에 따르면 plerixafor는 CXCR4와 ACKR3를 표적으로 하며, CXCR4–CXCL12 결합을 방해하는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Plerixafor 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “플레릭사포르는 CXCR4 케모카인 수용체의 억제제이며, 그 동족 리간드인 기질세포 유래 인자-1α(SDF-1α)의 결합을 차단한다. SDF-1α와 CXCR4는 인간 조혈모세포(HSC)의 골수 구획으로의 이동(trafficking) 및 귀소(homing)에 관여하는 것으로 알려져 있다.” 영어 원문: "Plerixafor is an inhibitor of the CXCR4 chemokine receptor and blocks binding of its cognate ligand, stromal cell-derived factor-1α (SDF-1α). SDF-1α and CXCR4 are recognized to play a role in the trafficking and homing of human hematopoietic stem cells (HSCs) to the marrow compartment." ([DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003), 버전 2025-09-22; 확인일 2026-11-19). 다만 약리학 데이터에 따르면 plerixafor는 CXCR4와 ACKR3를 표적으로 하며, CXCR4–CXCL12 결합을 방해하는 것으로 알려져 있습니다.
 
 'CMM7'은 흑색종 관련 항목일 가능성이 언급되나, 정의된 질환으로 연결되지 않았습니다. 검색된 임상시험과 문헌이 없어 모델 예측 외에 기전적 연결고리를 확립할 수 없습니다. 추가 검토 전에 질환의 정체부터 명확히 해야 합니다.
 
@@ -92,6 +92,19 @@ CMM7은 질환 정의가 모호하고, 이를 뒷받침하는 임상시험이나
 - CMM7이 가리키는 질환의 명확한 정의 및 식별
 - 해당 질환에 대한 전임상 또는 임상 연구 근거
 - 허가사항(경고, 금기) 확인 및 작용 기전 데이터 보완
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Mozobil (plerixafor) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed08d2b-5051-46b2-aa37-1d6275bf9003) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

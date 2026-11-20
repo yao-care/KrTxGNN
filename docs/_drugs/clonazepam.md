@@ -58,7 +58,7 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 약물 계열 정보에 따르면, clonazepam은 GABA-A 수용체의 양성 알로스테릭 조절을 통해 억제성 신경전달을 강화하는 벤조디아제핀입니다. 이는 계열 약리에서 추론한 것이며, 이번 데이터로 직접 확인된 것은 아닙니다.
+미국 FDA가 승인한 Clonazepam 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “클로나제팜이 항경련 및 항공황 효과를 나타내는 정확한 기전은 알려져 있지 않으나, 중추신경계의 주요 억제성 신경전달물질인 감마 아미노부티르산(GABA)의 활성을 증강시키는 능력과 관련이 있는 것으로 여겨진다.” 영어 원문: "The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system." ([DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1), 버전 2025-12-01; 확인일 2026-11-19). 알려진 약물 계열 정보에 따르면, clonazepam은 GABA-A 수용체의 양성 알로스테릭 조절을 통해 억제성 신경전달을 강화하는 벤조디아제핀입니다. 이는 계열 약리에서 추론한 것이며, 이번 데이터로 직접 확인된 것은 아닙니다.
 
 이 작용은 감각-운동 각성을 낮추고 수면 분절을 줄일 수 있습니다. 하지불안증후군과 주기성 사지운동에서는 수면 방해가 핵심 증상이므로 기전상 연결 가능성이 있습니다. 다만 이는 도파민 경로나 철분 결핍 같은 근본 병태생리가 아니라 증상 완화에 작용하는 것입니다.
 
@@ -115,6 +115,19 @@ TxGNN 모델은 **하지불안증후군(Restless Legs Syndrome)**에 효과가 �
 - 상세한 약물 작용 기전(MOA) 데이터 보완
 - 알파-2-델타 리간드 및 도파민 작용제 대비 비교 근거 검토
 - 고령자 등 위험 집단에 대한 안전성 및 의존성 모니터링 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

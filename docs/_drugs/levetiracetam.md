@@ -55,7 +55,7 @@ TxGNN 모델은 **베타-케토티올라제 결핍증(beta-ketothiolase deficien
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 이번 보고서용으로 수집된 자료에 없습니다. 일반적으로 알려진 바로는 levetiracetam은 SV2A에 결합하여 신경 전달물질 방출을 조절하는 약물입니다.
+미국 FDA가 승인한 Levetiracetam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “레베티라세탐이 항뇌전증 효과를 나타내는 정확한 기전은 알려져 있지 않다. 랫드 뇌 조직에서 레베티라세탐에 대한 포화성 및 입체선택적 신경세포 결합 부위가 보고되었다. 실험 자료에 따르면 이 결합 부위는 소포 세포외유출의 조절에 관여하는 것으로 생각되는 시냅스 소포 단백질 SV2A이다.” 영어 원문: "The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown. A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam. Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis." ([DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e), 버전 2026-11-11; 확인일 2026-11-19). 일반적으로 알려진 바로는 levetiracetam은 SV2A에 결합하여 신경 전달물질 방출을 조절하는 약물입니다.
 
 베타-케토티올라제 결핍증은 케톤체 및 이소류신 대사 경로의 선천성 대사 질환입니다. Levetiracetam의 SV2A 기전과 이 대사 경로 사이에는 뚜렷한 연결 고리가 확인되지 않습니다.
 
@@ -92,6 +92,19 @@ TxGNN 모델은 **베타-케토티올라제 결핍증(beta-ketothiolase deficien
 - 작용 기전(MOA) 데이터 보완 및 대사 경로와의 기전적 연관성 분석
 - 베타-케토티올라제 결핍증 관련 전임상 연구 또는 문헌 검토
 - 허가사항(경고·금기)의 확인 및 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

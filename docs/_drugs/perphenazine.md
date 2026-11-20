@@ -55,7 +55,7 @@ TxGNN 모델은 **망막 이영양증(retinal dystrophy with or without extraocu
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 perphenazine은 도파민 D2 수용체를 차단하는 페노티아진계 항정신병약입니다. 그러나 이 기전과 유전성 망막 이영양증을 연결할 수 있는 근거는 확인되지 않았습니다.
+미국 FDA가 승인한 Perphenazine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “퍼페나진은 중추신경계의 모든 수준, 특히 시상하부에 작용한다. 그러나 치료 효과의 작용 부위 및 기전은 알려져 있지 않다.” 영어 원문: "Perphenazine has actions at all levels of the central nervous system, particularly the hypothalamus. However, the site and mechanism of action of therapeutic effect are not known." ([DailyMed: perphenazine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e87e78e-d39c-44fc-95a0-70cdb2a91941), 버전 2026-11-11; 확인일 2026-11-19). 알려진 정보에 따르면 perphenazine은 도파민 D2 수용체를 차단하는 페노티아진계 항정신병약입니다. 그러나 이 기전과 유전성 망막 이영양증을 연결할 수 있는 근거는 확인되지 않았습니다.
 
 수집된 문헌에서 망막과 관련된 내용은 thioridazine(다른 페노티아진계 약물)에 의한 색소성 망막병증 사례뿐입니다. 이는 치료 효과가 아니라 **계열 약물의 망막 독성 신호**에 해당합니다. 따라서 높은 예측 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영했을 가능성이 있으며, 생물학적 근거를 의미하지는 않습니다.
 
@@ -104,6 +104,18 @@ TxGNN 모델은 **망막 이영양증(retinal dystrophy with or without extraocu
 - 허가정보 PDF에서 적응증, 경고, 금기 확인
 - 작용 기전 데이터 확보 (DrugBank 등)
 - 망막 이영양증에 대한 전임상 또는 기전 연구와 망막 독성 위험 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: perphenazine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e87e78e-d39c-44fc-95a0-70cdb2a91941) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

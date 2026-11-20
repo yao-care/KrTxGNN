@@ -54,7 +54,7 @@ Levothyroxine은 한국에서 19건의 단일제 허가증이 확인된 갑상�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 levothyroxine은 갑상선호르몬 수용체를 통해 대사와 발달을 조절하며, 갑상선호르몬은 태아 장기 형성에도 전반적인 역할을 합니다.
+미국 FDA가 승인한 Levothyroxine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “갑상선 호르몬은 DNA 전사 및 단백질 합성의 조절을 통해 생리적 작용을 나타낸다. Triiodothyronine(T3) 및 L-thyroxine(T4)은 세포핵 내로 확산되어 DNA에 부착된 갑상선 수용체 단백질에 결합한다.” 영어 원문: "Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA." ([DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174), 버전 2026-11-06; 확인일 2026-11-19). 일반적으로 levothyroxine은 갑상선호르몬 수용체를 통해 대사와 발달을 조절하며, 갑상선호르몬은 태아 장기 형성에도 전반적인 역할을 합니다.
 
 그러나 신장 저형성/무형성증은 주로 PAX2, HNF1B, RET 등 발달 유전자의 변이로 생기는 구조적 선천 기형입니다. 갑상선호르몬을 보충해도 형성이 잘못되었거나 없는 신장 조직을 되돌리기는 어렵습니다. 따라서 확립된 기전적 연결은 없으며, 높은 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 수 있고 생물학적 근거는 아닙니다.
 
@@ -94,6 +94,19 @@ Levothyroxine은 한국에서 19건의 단일제 허가증이 확인된 갑상�
 - 허가사항 문서에서 적응증, 경고, 금기 확인
 - 신장 발달과 갑상선호르몬의 관련성을 다룬 전임상 또는 임상 문헌 확인
 - 시판 현황(취소 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

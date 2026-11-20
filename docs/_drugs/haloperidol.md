@@ -54,7 +54,7 @@ Haloperidol은 도파민 D2 수용체를 차단하는 약물로, 한국에서 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 이번 데이터에서 확인되는 것은 Haloperidol이 도파민 D2 수용체 길항제라는 점뿐입니다.
+미국 FDA가 승인한 Haloperidol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “성인 조현병 치료에 있어 할로페리돌데카노에이트의 작용기전은 명확하지 않다. 그러나 조현병에서의 효과는 중추 도파민 2형 수용체에서 길항제로 작용하는 활성을 통해 매개될 수 있다.” 영어 원문: "The mechanism of action of haloperidol decanoate for the treatment of schizophrenia in adults is unclear. However, its effect in schizophrenia could be mediated through its activity as an antagonist at central dopamine type 2 receptors." ([DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c), 버전 2026-11-03; 확인일 2026-11-19). 이번 데이터에서 확인되는 것은 Haloperidol이 도파민 D2 수용체 길항제라는 점뿐입니다.
 
 D2 차단과 푸코실화 경로를 잇는 기전적 연결 고리는 확인되지 않았습니다. 이 질환에 대한 임상시험이나 문헌도 없습니다. 따라서 높은 예측 점수는 모델 출력일 뿐이며, 기전이나 임상 근거로 확인된 것이 아닙니다.
 
@@ -88,6 +88,19 @@ D2 차단과 푸코실화 경로를 잇는 기전적 연결 고리는 확인되�
 - 작용 기전 데이터 확보
 - D2 차단과 푸코실화 결함 질환을 잇는 기전 또는 전임상 근거
 - 이 질환 환자를 대상으로 한 연구 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

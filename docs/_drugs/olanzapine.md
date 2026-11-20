@@ -57,7 +57,7 @@ Olanzapine은 한국에서 단일 성분제로 20건이 허가된 비정형 항�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Olanzapine은 도파민 D2 및 세로토닌 5-HT2A/5-HT2C 수용체를 차단하는 비정형 항정신병 약물입니다. 이 수용체 차단 작용이 불안 회로에 영향을 줄 수 있어, 기전상 불안 관련 질환에도 적용 가능할 수 있습니다.
+미국 FDA가 승인한 Olanzapine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “기재된 적응증에서 올란자핀의 작용기전은 명확하지 않다. 그러나 조현병에서 올란자핀의 효능은 도파민 및 세로토닌 제2형(5HT 2 ) 길항 작용의 조합을 통해 매개될 수 있다.” 영어 원문: "The mechanism of action of olanzapine, in the listed indications, is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT 2 ) antagonism." ([DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c), 버전 2026-10-26; 확인일 2026-11-19). 알려진 정보에 따르면 Olanzapine은 도파민 D2 및 세로토닌 5-HT2A/5-HT2C 수용체를 차단하는 비정형 항정신병 약물입니다. 이 수용체 차단 작용이 불안 회로에 영향을 줄 수 있어, 기전상 불안 관련 질환에도 적용 가능할 수 있습니다.
 
 **광장공포증(2순위):** 공황장애는 광장공포증과 함께 나타나는 경우가 많습니다. SSRI에 반응하지 않는 공황장애 환자에게 Olanzapine을 추가하는 방식이 소규모 연구에서 검토되었습니다. 다만 광장공포증 자체를 대상으로 한 연구는 없고, 근거는 모두 공황장애에 관한 것입니다. 또한 대사 이상과 진정 작용 같은 부작용이 있고 1차 치료 옵션(SSRI, SNRI, 인지행동치료)이 이미 있어 사용에 제약이 있습니다.
 
@@ -119,6 +119,19 @@ Olanzapine은 한국에서 단일 성분제로 20건이 허가된 비정형 항�
 - 광장공포증 또는 공황장애에서 Olanzapine 증강 요법의 무작위 대조 시험 및 임상시험 등록 근거
 - 대사 및 진정 관련 부작용을 고려한 위험·이익 평가와 1차 치료(SSRI, SNRI, 인지행동치료)와의 비교
 - 기분부전장애에 대해서는 해당 질환에 특화된 근거
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

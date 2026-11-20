@@ -55,7 +55,7 @@ TxGNN 모델은 **십이지장 폐쇄(duodenal obstruction)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-이 보고서를 위해 정리된 데이터에는 상세한 작용 기전 자료가 없습니다. 일반적으로 lansoprazole은 위산 분비를 줄이는 약물로 알려져 있으며, 이 점이 소화성 궤양 질환 관리와 연결됩니다.
+미국 FDA가 승인한 Lansoprazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “란소프라졸은 위 벽세포의 분비 표면에서 (H +, K + )-ATPase 효소계를 특이적으로 억제하여 위산 분비를 억제하는 항분비 화합물 계열인 치환 벤즈이미다졸에 속한다. 이 효소계는 벽세포 내의 산(양성자) 펌프로 간주되므로, 란소프라졸은 산 생성의 마지막 단계를 차단한다는 점에서 위산 펌프 억제제로 규정되어 왔다.” 영어 원문: "Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84), 버전 2025-07-08; 확인일 2026-11-19). 일반적으로 lansoprazole은 위산 분비를 줄이는 약물로 알려져 있으며, 이 점이 소화성 궤양 질환 관리와 연결됩니다.
 
 그러나 십이지장 폐쇄는 협착, 윤상 췌장, 악성 종양, 궤양 후 흉터 등 구조적·기계적 원인으로 생기는 경우가 많아 내시경 또는 수술적 치료가 필요합니다. 산 억제가 궤양 같은 기저 원인을 관리하는 데 도움이 될 수는 있어도, 폐쇄 자체를 치료한다고 보기는 어렵습니다. 따라서 명확한 기전적 연결고리는 확인되지 않았습니다.
 
@@ -94,6 +94,19 @@ TxGNN 모델은 **십이지장 폐쇄(duodenal obstruction)**에 효과가 있�
 - 상세한 작용 기전(MOA) 데이터
 - 허가사항(경고·금기) 확인 및 안전성 검토
 - 한국 시판 현황의 정확한 확인 (허가 취소 여부 등)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

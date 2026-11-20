@@ -56,7 +56,7 @@ TxGNN 모델은 **노출성 각막염(Exposure keratitis)**에 효과가 있을 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Tobramycin은 그람음성균과 포도상구균에 활성이 있는 아미노글리코사이드 항생제이며, 점안제 형태로 세균성 각막염 등 안구 감염에 쓰입니다. 국내에는 점안액 허가증이 많습니다.
+미국 FDA가 승인한 Tobramycin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “토브라마이신은 아미노글리코사이드계 항균제이다. […] 토브라마이신은 Streptomyces tenebrarius가 생산하는 아미노글리코사이드계 항균제이다. 이 약은 주로 단백질 합성을 교란하여 세포막 투과성의 변화, 세포 외피의 점진적 파괴, 그리고 궁극적인 세포 사멸을 초래함으로써 작용한다.” 영어 원문: "Tobramycin is an aminoglycoside antibacterial. […] Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius. It acts primarily by disrupting protein synthesis leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death." ([DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a), 버전 2026-04-15; 확인일 2026-11-19). 알려진 정보에 따르면 Tobramycin은 그람음성균과 포도상구균에 활성이 있는 아미노글리코사이드 항생제이며, 점안제 형태로 세균성 각막염 등 안구 감염에 쓰입니다. 국내에는 점안액 허가증이 많습니다.
 
 노출성 각막염은 눈꺼풀이 제대로 닫히지 않아 각막 표면이 마르면서 손상되는 질환입니다. 감염은 이차적으로 생기는 문제입니다. 따라서 Tobramycin이 도움이 된다면 이차 세균 감염의 예방이나 치료에 한정될 것입니다. 건조 손상 자체를 치료하는 기전은 아닙니다.
 
@@ -116,6 +116,19 @@ TxGNN 모델은 **노출성 각막염(Exposure keratitis)**에 효과가 있을 
 - 손상된 각막 상피에 대한 Tobramycin 점안제의 안전성 평가
 - 국내 허가 문서(허가사항)에서 적응증, 경고, 금기 확인
 - 작용 기전 데이터 보완
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Tobi Podhaler (tobramycin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4b5bb1f-e158-4ac1-9c35-e98a416c743a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

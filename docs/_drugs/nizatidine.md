@@ -54,7 +54,7 @@ Nizatidine은 위산 분비를 억제하는 H2 수용체 길항제 계열의 약
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 nizatidine은 H2 수용체 길항제 계열로, 위산 분비를 줄이는 방식으로 작용합니다.
+미국 FDA가 승인한 Nizatidine 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “니자티딘은 히스타민 H 2 -수용체, 특히 위 벽세포의 H 2 -수용체에서 히스타민의 경쟁적, 가역적 억제제이다. 위산 분비 억제 작용 위산 분비에 대한 효과 니자티딘은 최대 12시간 동안 야간 위산 분비를 유의하게 억제하였다.” 영어 원문: "Nizatidine is a competitive, reversible inhibitor of histamine at the histamine H 2 -receptors, particularly those in the gastric parietal cells. Antisecretory Activity Effects on Acid Secretion Nizatidine significantly inhibited nocturnal gastric acid secretion for up to 12 hours." ([DailyMed: nizatidine prescribing information, Epic Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9957997-8b85-48a0-9bb3-b878cb223236), 버전 2025-01-02; 확인일 2026-11-19). 알려진 정보에 따르면 nizatidine은 H2 수용체 길항제 계열로, 위산 분비를 줄이는 방식으로 작용합니다.
 
 다만 십이지장 폐쇄는 주로 궤양 흉터 등으로 생기는 기계적 문제이므로 산 억제만으로 직접 호전되기는 어렵습니다. 기저에 궤양이나 염증 요소가 있는 경우에 한해 보조적 도움이 될 가능성이 있는 정도입니다.
 
@@ -90,6 +90,19 @@ Nizatidine은 위산 분비를 억제하는 H2 수용체 길항제 계열의 약
 - 상세한 약물 작용 기전(MOA) 데이터
 - 허가사항(경고·금기) 확인 및 안전성 검토
 - 한국 시판 상태(취소 여부) 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: nizatidine prescribing information, Epic Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9957997-8b85-48a0-9bb3-b878cb223236) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

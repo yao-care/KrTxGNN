@@ -54,7 +54,7 @@ Chlorambucil은 DNA를 알킬화하는 질소 머스터드 계열 항암제입�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Chlorambucil은 DNA 알킬화를 통해 림프구성 악성종양 세포를 손상시키는 오래된 세포독성 약물입니다.
+미국 FDA가 승인한 Chlorambucil 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “클로람부실은 방향족 질소 머스타드 유도체로서 알킬화제이다. 클로람부실은 DNA 복제를 방해하고, 세포질 내 p53의 축적과 그에 따른 세포자멸사 촉진인자인 Bax의 활성화를 통해 세포자멸사를 유도한다.” 영어 원문: "Chlorambucil, an aromatic nitrogen mustard derivative, is an alkylating agent. Chlorambucil interferes with DNA replication and induces cellular apoptosis via the accumulation of cytosolic p53 and subsequent activation of Bax, an apoptosis promoter." ([DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213), 버전 2025-01-08; 확인일 2026-11-19). 알려진 정보에 따르면 Chlorambucil은 DNA 알킬화를 통해 림프구성 악성종양 세포를 손상시키는 오래된 세포독성 약물입니다.
 
 예측된 질환은 면역글로불린 중쇄 가변부위 유전자가 변이되지 않은 유형의 만성 림프구성 백혈병/소림프구성 림프종입니다. 림프구성 악성종양은 알킬화제에 민감한 편이어서 기전상 적용 가능성은 있습니다.
 
@@ -107,6 +107,19 @@ Chlorambucil은 DNA를 알킬화하는 질소 머스터드 계열 항암제입�
 - 허가사항(경고, 금기, 적응증 텍스트) 확보
 - 작용 기전(MOA) 데이터 보완
 - 현재 표준 치료(표적치료제) 대비 허약 환자군에서의 위치 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Leukeran (chlorambucil) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

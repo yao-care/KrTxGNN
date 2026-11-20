@@ -56,7 +56,7 @@ TxGNN 모델은 **전립선 평활근종(prostate leiomyoma)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 enzalutamide는 안드로겐 수용체(AR) 신호를 억제하는 계열의 약물로 알려져 있습니다. 전립선 기질 조직에서 AR 신호가 어떤 역할을 할 수 있다는 가설이 가능합니다.
+미국 FDA가 승인한 Enzalutamide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “엔잘루타마이드는 안드로겐 수용체 신호전달 경로의 여러 단계에 작용하는 안드로겐 수용체 억제제이다. 엔잘루타마이드는 안드로겐 수용체에 대한 안드로겐 결합을 경쟁적으로 억제하고, 그 결과 안드로겐 수용체의 핵 내 이동 및 DNA와의 상호작용을 억제하는 것으로 나타났다.” 영어 원문: "Enzalutamide is an androgen receptor inhibitor that acts on different steps in the androgen receptor signaling pathway. Enzalutamide has been shown to competitively inhibit androgen binding to androgen receptors; and consequently, inhibits nuclear translocation of androgen receptors and their interaction with DNA." ([DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf), 버전 2026-07-28; 확인일 2026-11-19). 다만 enzalutamide는 안드로겐 수용체(AR) 신호를 억제하는 계열의 약물로 알려져 있습니다. 전립선 기질 조직에서 AR 신호가 어떤 역할을 할 수 있다는 가설이 가능합니다.
 
 전립선 평활근종은 전립선의 양성 중간엽 종양입니다. AR 억제와의 연결은 어디까지나 추측 수준이며, 이 예측은 전립선암과의 근접성 때문에 높은 점수를 받았을 가능성이 큽니다. 이를 지지하는 임상시험이나 문헌은 확인되지 않았습니다.
 
@@ -100,6 +100,19 @@ TxGNN 모델은 **전립선 평활근종(prostate leiomyoma)**에 효과가 있�
 - 작용 기전(MOA) 상세 데이터 보완
 - 허가사항(경고·금기) 확인 및 안전성 검토
 - 질환의 희귀성을 고려한 임상 근거 확보 가능성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

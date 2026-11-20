@@ -55,7 +55,7 @@ TxGNN 모델은 **헤파린 보조인자 2 결핍증(heparin cofactor 2 deficien
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 galcanezumab은 CGRP 리간드를 중화하는 단클론항체이며, 편두통 예방과 군발두통에서 효능이 입증되어 있습니다.
+미국 FDA가 승인한 Galcanezumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “갈카네주맙-gnlm은 칼시토닌 유전자 관련 펩티드(CGRP) 리간드에 결합하여 이 리간드의 수용체 결합을 차단하는 인간화 단일클론항체이다.” 영어 원문: "Galcanezumab-gnlm is a humanized monoclonal antibody that binds to calcitonin gene-related peptide (CGRP) ligand and blocks its binding to the receptor." ([DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0), 버전 2026-06-05; 확인일 2026-11-19). 알려진 정보에 따르면 galcanezumab은 CGRP 리간드를 중화하는 단클론항체이며, 편두통 예방과 군발두통에서 효능이 입증되어 있습니다.
 
 헤파린 보조인자 2 결핍증은 트롬빈 억제를 담당하는 세르핀(serpin) 기능이 유전적으로 떨어지는 질환입니다. CGRP 중화와 더마탄 황산 의존적 트롬빈 억제 사이에서 타당한 기전적 연결고리는 확인되지 않았습니다. 따라서 높은 점수(0.9950)는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있으나 생물학적 근거는 아니며, 현 시점에서 기전상 적용 가능성을 뒷받침하기 어렵습니다.
 
@@ -88,6 +88,19 @@ TxGNN 점수는 높지만(0.9950) 임상시험과 문헌이 전혀 없고, CGRP 
 - 상세한 작용 기전(MOA) 데이터 확보
 - 예측 질환과의 기전적 연관성을 뒷받침하는 전임상 또는 문헌 근거
 - 혈전성 질환 환자에서의 혈관 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Emgality (galcanezumab-gnlm) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33a147be-233a-40e8-a55e-e40936e28db0) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

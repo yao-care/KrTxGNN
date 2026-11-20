@@ -55,7 +55,7 @@ TxGNN 모델은 **췌장염(Pancreatitis)**에 효과가 있을 수 있다고 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전(MOA) 데이터가 이 보고서용으로 수집된 자료에 없습니다. 알려진 정보에 따르면 Omidenepag isopropyl은 omidenepag의 프로드럭이며, 선택적 EP2 수용체 작용제로서 녹내장과 고안압증 치료에 쓰입니다.
+미국 FDA가 승인한 Omidenepag Isopropyl 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “오미데네파그는 안압(IOP)을 감소시키는 비교적 선택적인 EP2 수용체 작용제이다. 정확한 작용기전은 현재 알려져 있지 않다. 상승된 안압은 녹내장성 시야 손실의 주요 위험인자이다.” 영어 원문: "Omidenepag is a relatively selective EP2 receptor agonist which decreases intraocular pressure (IOP). The exact mechanism of action is unknown at this time. Elevated IOP represents a major risk factor for glaucomatous field loss." ([DailyMed: Omlonti (omidenepag isopropyl) prescribing information, Ocuvex Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4258e437-7e92-4b09-baf1-01cb158cfc05), 버전 2025-04-21; 확인일 2026-11-19). 알려진 정보에 따르면 Omidenepag isopropyl은 omidenepag의 프로드럭이며, 선택적 EP2 수용체 작용제로서 녹내장과 고안압증 치료에 쓰입니다.
 
 EP2 신호전달은 염증 반응에 관여하는 것으로 알려져 있으나, 이것이 췌장 질환과 연결된다는 근거는 확인되지 않았습니다. 또한 점안 투여는 전신 노출이 매우 낮아, 췌장염에서 임상적 효과를 기대하기 어렵습니다. 따라서 이 예측은 계산 모델의 출력일 뿐이며, 기전상 타당성은 현재 뒷받침되지 않습니다.
 
@@ -86,6 +86,19 @@ EP2 신호전달은 염증 반응에 관여하는 것으로 알려져 있으나,
 - EP2 신호전달과 췌장염을 잇는 전임상 또는 기전 연구
 - 투여 경로 적합성 검토 (점안제 외 전신 제형 부재)
 - 임상시험 또는 문헌 근거 탐색
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Omlonti (omidenepag isopropyl) prescribing information, Ocuvex Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4258e437-7e92-4b09-baf1-01cb158cfc05) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

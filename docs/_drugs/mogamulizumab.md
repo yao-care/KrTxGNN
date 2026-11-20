@@ -55,7 +55,7 @@ TxGNN 모델은 **전립선 요도 요로상피암(prostatic urethra urothelial 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Mogamulizumab은 CCR4를 표적으로 하는 단일클론항체이며, CCR4를 발현하는 세포(조절 T세포, Treg 포함)를 제거하는 것으로 알려져 있습니다. 이를 바탕으로 Treg 제거가 항종양 면역을 높여 요로상피암에서도 이론적으로 작용할 수 있다는 가설이 가능합니다.
+미국 FDA가 승인한 Mogamulizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “모가물리주맙-kpkc는 탈푸코실화된 인간화 IgG1 kappa 단일클론항체로, 림프구의 여러 장기로의 이동에 관여하는 CC 케모카인에 대한 G 단백질 연결 수용체인 CCR4에 결합한다. 비임상 시험관내 연구에서 모가물리주맙-kpkc의 결합은 세포를 항체 의존성 세포 매개 세포독성(ADCC)의 표적으로 만들어 표적 세포의 고갈을 초래하는 것으로 나타났다.” 영어 원문: "Mogamulizumab-kpkc is a defucosylated, humanized IgG1 kappa monoclonal antibody that binds to CCR4, a G protein-coupled receptor for CC chemokines that is involved in the trafficking of lymphocytes to various organs. Non-clinical in vitro studies demonstrate mogamulizumab-kpkc binding targets a cell for antibody-dependent cellular cytotoxicity (ADCC) resulting in depletion of the target cells." ([DailyMed: Poteligeo (mogamulizumab-kpkc) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53960ab-42a1-40d1-9c7d-eb013fe7f18f), 버전 2026-03-02; 확인일 2026-11-19). 알려진 정보에 따르면 Mogamulizumab은 CCR4를 표적으로 하는 단일클론항체이며, CCR4를 발현하는 세포(조절 T세포, Treg 포함)를 제거하는 것으로 알려져 있습니다. 이를 바탕으로 Treg 제거가 항종양 면역을 높여 요로상피암에서도 이론적으로 작용할 수 있다는 가설이 가능합니다.
 
 다만 이는 가설 수준입니다. 이를 뒷받침하는 임상시험이나 문헌이 없고, 높은 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다. 기존 적응증과의 유사성 평가도 아직 이루어지지 않았습니다.
 
@@ -105,6 +105,19 @@ TxGNN 모델은 **전립선 요도 요로상피암(prostatic urethra urothelial 
 - 요로상피암에서의 CCR4 발현 및 Treg 침윤에 관한 전임상·문헌 근거 조사
 - 관련 임상시험 등록 현황 재검색
 - 기존 적응증과 예측 적응증 간 유사성 평가 및 투여 경로 적합성 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Poteligeo (mogamulizumab-kpkc) prescribing information, Kyowa Kirin, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e53960ab-42a1-40d1-9c7d-eb013fe7f18f) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

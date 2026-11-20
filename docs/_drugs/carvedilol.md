@@ -54,7 +54,7 @@ Carvedilol은 알파-1/베타 차단 작용을 가진 약물입니다. TxGNN 모
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 보고서를 위해 수집된 데이터에는 상세한 작용 기전 정보가 없습니다. 알려진 약리 특성상 carvedilol은 알파-1 및 베타 수용체를 함께 차단하므로, 이론적으로는 혈압을 낮추어 고혈압에 의한 신장 손상을 줄일 가능성이 있습니다.
+미국 FDA가 승인한 Carvedilol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “COREG는 라세미 혼합물로, 비선택적 β-아드레날린 수용체 차단 활성은 S(-) 거울상이성질체에 존재하고, α1-아드레날린 차단 활성은 R(+) 및 S(-) 거울상이성질체 모두에 동등한 역가로 존재한다. COREG는 내인성 교감신경 유사 활성이 없다.” 영어 원문: "COREG is a racemic mixture in which nonselective β-adrenoreceptor blocking activity is present in the S(-) enantiomer and α1-adrenergic blocking activity is present in both R(+) and S(-) enantiomers at equal potency. COREG has no intrinsic sympathomimetic activity." ([DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39), 버전 2026-07-31; 확인일 2026-11-19). 알려진 약리 특성상 carvedilol은 알파-1 및 베타 수용체를 함께 차단하므로, 이론적으로는 혈압을 낮추어 고혈압에 의한 신장 손상을 줄일 가능성이 있습니다.
 
 다만 이는 이론적 추정일 뿐입니다. 이 예측을 지지하는 임상시험이나 문헌이 제공되지 않았습니다. 악성 고혈압은 임상적 응급 상황이며, 보통 용량 조절이 쉬운 정맥 주사제로 관리합니다. 따라서 경구 베타 차단제가 이 상황에 적합한지는 불확실합니다.
 
@@ -100,6 +100,19 @@ Carvedilol은 알파-1/베타 차단 작용을 가진 약물입니다. TxGNN 모
 - 상세한 작용 기전(MOA) 데이터
 - 허가사항(경고·금기) 원문 확인 및 안전성 검토
 - 악성 고혈압 상황에서의 투여 경로·용량 적합성에 대한 전문가 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

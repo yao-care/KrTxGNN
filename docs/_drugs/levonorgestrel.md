@@ -54,7 +54,7 @@ Levonorgestrel은 합성 프로게스틴 계열 약물로, 한국에서 단일 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 levonorgestrel은 19-노르테스토스테론 유래 프로게스틴으로, 비교적 높은 안드로겐 활성을 가집니다(PMID 7825629). 이 점만 보면 여드름을 악화시킬 수 있어 기전상 직접적인 치료 근거로 보기 어렵습니다.
+미국 FDA가 승인한 Levonorgestrel 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “지속적으로 방출되는 LNG가 Skyla의 피임 효과에 기여하는 국소 기전은 확정적으로 입증되지 않았다. Skyla 및 유사한 LNG IUS 시제품에 대한 연구에서 임신을 방지하는 여러 기전이 제시되었다: 자궁경부 점액을 비후시켜 정자가 자궁으로 통과하는 것을 방지, 정자의 수정능 획득 또는 생존 억제, 그리고 자궁내막의 변화.” 영어 원문: "The local mechanism by which continuously released LNG contributes to the contraceptive effectiveness of Skyla has not been conclusively demonstrated. Studies of Skyla and similar LNG IUS prototypes have suggested several mechanisms that prevent pregnancy: thickening of cervical mucus preventing passage of sperm into the uterus, inhibition of sperm capacitation or survival, and alteration of the endometrium." ([DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309), 버전 2026-03-04; 확인일 2026-11-19). 알려진 정보에 따르면 levonorgestrel은 19-노르테스토스테론 유래 프로게스틴으로, 비교적 높은 안드로겐 활성을 가집니다(PMID 7825629). 이 점만 보면 여드름을 악화시킬 수 있어 기전상 직접적인 치료 근거로 보기 어렵습니다.
 
 한편 여드름은 안드로겐이 피지선 활동에 관여하는 질환입니다(PMID 30088446). 에티닐에스트라디올과 병용한 복합 경구제는 유리 안드로겐을 낮춰 여드름을 개선할 수 있습니다. 에티닐에스트라디올 20 µg과 levonorgestrel 100 µg 복합제는 중등도 여드름에서 무작위 위약대조 시험으로 평가되었습니다(PMID 12196750). 국내에는 여드름 치료가 함께 허가된 levonorgestrel 함유 복합 제제도 있습니다.
 
@@ -111,6 +111,18 @@ Levonorgestrel은 합성 프로게스틴 계열 약물로, 한국에서 단일 �
 - levonorgestrel 단독 투여의 여드름 효과를 직접 평가하는 임상시험 또는 연구
 - 상세한 작용 기전 데이터(MOA)
 - 허가사항 기반의 경고·금기 정보 확인
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Skyla (levonorgestrel) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f44ff35-e052-49cd-a1c2-0bfd87d49309) |
+
+<!-- review:end log -->
 
 ## 면책 조항
 

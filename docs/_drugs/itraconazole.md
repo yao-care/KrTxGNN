@@ -55,7 +55,7 @@ TxGNN 모델은 **폐포자충증(Pneumocystosis)**에 효과가 있을 수 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 데이터베이스에 없습니다. 일반적으로 itraconazole은 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하여 에르고스테롤 합성을 차단하는 아졸계 항진균제로 알려져 있습니다.
+미국 FDA가 승인한 Itraconazole 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “시험관 내 연구에서 itraconazole은 진균 세포막의 필수 구성 성분인 ergosterol의 cytochrome P450 의존성 합성을 억제하는 것으로 입증되었다.” 영어 원문: "In vitro studies have demonstrated that itraconazole inhibits the cytochrome P450-dependent synthesis of ergosterol, which is a vital component of fungal cell membranes." ([DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0), 버전 2026-07-13; 확인일 2026-11-19). 일반적으로 itraconazole은 진균의 lanosterol 14-alpha-demethylase(CYP51)를 억제하여 에르고스테롤 합성을 차단하는 아졸계 항진균제로 알려져 있습니다.
 
 그러나 이 기전은 폐포자충증에는 잘 맞지 않습니다. *Pneumocystis jirovecii*는 세포막의 주요 스테롤이 에르고스테롤이 아닌 콜레스테롤이어서 아졸계 약물의 활성이 제한적일 것으로 예상됩니다. 높은 TxGNN 점수는 히스토플라스마증, 아스페르길루스증 등 다른 항진균 적응증과의 네트워크 근접성을 반영했을 가능성이 크며, 폐포자충증에 대한 검증된 기전을 뜻하지는 않습니다.
 
@@ -121,6 +121,19 @@ TxGNN 모델은 **폐포자충증(Pneumocystosis)**에 효과가 있을 수 있�
 - *Pneumocystis*에 대한 itraconazole의 전임상(in vitro/in vivo) 활성 근거
 - 표준 치료 불응·불내성 환자 등 특정 집단에 대한 타당성 검토
 - 이후 소규모 탐색적 임상 연구 설계 여부 판단
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

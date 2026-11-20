@@ -56,7 +56,7 @@ TxGNN 모델은 **혈우병 여성 보인자의 증상형(symptomatic form of he
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 이번 보고서용으로 수집된 자료에 없습니다. 다만 약물 상호작용 조회 결과에 따르면 Evolocumab은 PCSK9를 표적으로 하는 항체입니다. PCSK9를 억제하면 LDL 수용체 재순환이 늘어나 혈중 LDL-C가 낮아집니다.
+미국 FDA가 승인한 Evolocumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “에볼로쿠맙은 인간 프로단백질 전환효소 서브틸리신/켁신 9형(PCSK9)을 표적으로 하는 인간 단일클론 IgG2 항체이다. PCSK9는 간세포 표면의 저밀도 지단백 수용체(LDLR)에 결합하여 간 내에서 LDLR의 분해를 촉진한다.” 영어 원문: "Evolocumab is a human monoclonal IgG2 directed against human proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein receptor (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver." ([DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e), 버전 2026-10-12; 확인일 2026-11-19). 다만 약물 상호작용 조회 결과에 따르면 Evolocumab은 PCSK9를 표적으로 하는 항체입니다. PCSK9를 억제하면 LDL 수용체 재순환이 늘어나 혈중 LDL-C가 낮아집니다.
 
 반면 혈우병 보인자의 증상은 X 연관 응고인자(VIII/IX) 결핍으로 생기는 출혈 문제입니다. 지질 대사 경로와 응고 경로 사이에서 알려진 기전적 연결고리는 없습니다. 따라서 높은 TxGNN 점수는 생물학적 근거가 있는 예측이라기보다 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 결과로 보는 것이 합리적입니다.
 
@@ -89,6 +89,19 @@ TxGNN 모델은 **혈우병 여성 보인자의 증상형(symptomatic form of he
 - 허가사항(경고·금기·적응증 본문) 수집 및 안전성 검토
 - 예측 적응증과 관련된 전임상 또는 임상 근거 탐색
 - 지질 대사 질환(예: 가족성 아포단백 C-II 결핍증)처럼 기전적 연관성이 상대적으로 높은 후보를 우선 재평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Repatha (evolocumab) prescribing information, Amgen USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cd61e902-166d-4aa6-9f3c-a18c1008d07e) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

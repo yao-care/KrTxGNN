@@ -56,7 +56,7 @@ TxGNN 모델은 **말단중간이형성증 Hunter-Thompson형(acromesomelic dysp
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 일반적으로 celecoxib은 COX-2를 선택적으로 억제해 프로스타글란딘 생성을 줄이는 소염진통제로 알려져 있으나, 이번 데이터에서는 확인되지 않았습니다.
+미국 FDA가 승인한 Celecoxib 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “셀레콕시브는 진통, 항염증 및 해열 특성을 가진다. 셀레콕시브의 작용기전은 주로 COX-2 억제를 통한 프로스타글란딘 합성 억제에 기인하는 것으로 여겨진다. 셀레콕시브는 시험관 내에서 프로스타글란딘 합성의 강력한 억제제이다.” 영어 원문: "Celecoxib has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2. Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro." ([DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d), 버전 2025-07-31; 확인일 2026-11-19). 일반적으로 celecoxib은 COX-2를 선택적으로 억제해 프로스타글란딘 생성을 줄이는 소염진통제로 알려져 있으나, 이번 데이터에서는 확인되지 않았습니다.
 
 이 질환은 CDMP1/GDF5 기능 소실 변이로 생기는 희귀 골격 이형성증이며, 연골 형성 과정의 BMP 신호에 영향을 줍니다. COX-2/프로스타글란딘 억제에서 이러한 유전적 성장인자 결함의 교정으로 이어지는 기전적 경로는 제공된 데이터로 뒷받침되지 않습니다.
 
@@ -96,6 +96,19 @@ TxGNN 모델은 **말단중간이형성증 Hunter-Thompson형(acromesomelic dysp
 - 작용 기전(MOA) 데이터 확보 (DrugBank 조회)
 - 이 질환(GDF5/BMP 경로 관련)에 대한 전임상·기전 연구 문헌 검토
 - 다른 상위 예측 중 근거 가능성이 있는 후보(꼬리뼈 과가동성, 류마티스 결절증)는 별도 문헌 조사 후 재평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

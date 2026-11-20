@@ -54,7 +54,7 @@ Theophylline은 한국에서 건조시럽 단일제로 허가된 약물입니다
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 일반적으로 theophylline은 비선택적 포스포디에스터라제(PDE) 억제제이자 아데노신 수용체 길항제로 알려져 있습니다.
+미국 FDA가 승인한 Theophylline 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Theophylline은 가역적 기도 폐쇄가 있는 환자의 기도에서 두 가지 뚜렷한 작용을 한다: 평활근 이완(즉, 기관지 확장)과 자극에 대한 기도 반응의 억제(즉, 비기관지확장성 예방 효과).” 영어 원문: "Theophylline has two distinct actions in the airways of patients with reversible obstruction: smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., non-bronchodilator prophylactic effects)." ([DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410), 버전 2024-07-08; 확인일 2026-11-19). 다만 일반적으로 theophylline은 비선택적 포스포디에스터라제(PDE) 억제제이자 아데노신 수용체 길항제로 알려져 있습니다.
 
 PDE 억제는 혈소판 내 cAMP를 높여 혈소판 응집을 약하게 억제할 수 있습니다. 반면 아데노신 길항 작용은 아데노신의 항혈소판 효과를 상쇄합니다. 따라서 실제 항혈전 효과가 어떨지는 불분명하며, 높은 예측 점수를 뒷받침하는 임상 데이터도 없습니다.
 
@@ -106,6 +106,19 @@ PDE 억제는 혈소판 내 cAMP를 높여 혈소판 응집을 약하게 억제�
 - 시판 상태(취소 여부) 확인
 
 **참고:** 같은 약물의 다른 예측 중에서는 기관(trachea) 질환과 비강 질환 쪽이 상대적으로 더 많은 간접 근거를 가지지만, 이 역시 사람 대상의 직접 근거는 부족해 추가 검증이 필요합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

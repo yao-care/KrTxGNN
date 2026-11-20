@@ -57,7 +57,7 @@ TxGNN 모델은 **HIV 감염증(HIV infectious disease)**에 대한 효과 가�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 atorvastatin은 스타틴 계열 약물로 LDL 콜레스테롤을 낮춥니다. 또한 단핵구/대식세포 활성화 감소, 전신 면역 활성화 완화, 혈관내피 기능 개선 같은 다면 발현(pleiotropic) 항염증 효과가 보고되어 있습니다.
+미국 FDA가 승인한 Atorvastatin Calcium Trihydrate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “LIPITOR는 스테롤(콜레스테롤 포함)의 전구체인 메발론산으로 3-하이드록시-3-메틸글루타릴-조효소 A를 전환시키는 속도제한 효소인 HMG-CoA 환원효소의 선택적·경쟁적 저해제이다. 동물 모델에서 LIPITOR는 간에서 HMG-CoA 환원효소 및 콜레스테롤 합성을 저해하고, 세포 표면의 간 LDL 수용체 수를 증가시켜 LDL의 흡수 및 이화를 증진시킴으로써 혈장 콜레스테롤 및 지단백 수치를 낮춘다. LIPITOR는 또한 LDL 생성 및 LDL 입자 수를 감소시킨다.” 영어 원문: "LIPITOR is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol. In animal models, LIPITOR lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; LIPITOR also reduces LDL production and the number of LDL particles." ([DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65), 버전 2024-04-15; 확인일 2026-11-19). 알려진 정보에 따르면 atorvastatin은 스타틴 계열 약물로 LDL 콜레스테롤을 낮춥니다. 또한 단핵구/대식세포 활성화 감소, 전신 면역 활성화 완화, 혈관내피 기능 개선 같은 다면 발현(pleiotropic) 항염증 효과가 보고되어 있습니다.
 
 HIV 감염인은 항레트로바이러스 치료 후에도 만성 염증과 면역 활성화가 지속되고, 심혈관 위험이 높습니다. 특히 단백분해효소 억제제(PI) 사용 시 이상지질혈증이 흔합니다. 따라서 atorvastatin은 HIV 바이러스를 직접 억제하기보다 이러한 동반 문제를 줄이는 **보조 치료제**로서 타당성이 있습니다.
 
@@ -126,6 +126,19 @@ HIV 감염인에서 atorvastatin 보조요법을 직접 평가한 완료된 Phas
 - 임상 평가변수를 항바이러스 효과가 아닌 염증·면역 활성화 및 심혈관 위험 감소로 설정
 - 대규모 확증 시험 결과 확인 (예: NCT03037372의 상태 확인 및 결과 확보)
 - 부스팅 PI·에파비렌즈 병용 시 용량 조절 및 근병증 모니터링 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

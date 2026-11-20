@@ -54,7 +54,7 @@ Rifampicin은 항결핵 항생제로, 국내에서는 단일 성분 경구제(�
 
 ## 이 예측이 타당한 이유는?
 
-현재 허가사항에서 확인된 상세한 작용 기전 데이터는 없습니다. 알려진 정보에 따르면 rifampicin은 세균의 RNA 중합효소를 억제하는 광범위 항생제입니다. 그람양성균, Chlamydia 등 결막 병원체에 활성이 있어 세균성 결막염에 기전상 적용 가능할 수 있습니다.
+미국 FDA가 승인한 Rifampicin 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “리팜핀은 감수성 결핵균(Mycobacterium tuberculosis)에서 DNA 의존성 RNA 중합효소 활성을 억제한다. 구체적으로, 세균의 RNA 중합효소와 상호작용하지만 포유류의 효소는 억제하지 않는다.” 영어 원문: "Rifampin inhibits DNA-dependent RNA polymerase activity in susceptible Mycobacterium tuberculosis organisms. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme." ([DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5), 버전 2026-05-05; 확인일 2026-11-19). 알려진 정보에 따르면 rifampicin은 세균의 RNA 중합효소를 억제하는 광범위 항생제입니다. 그람양성균, Chlamydia 등 결막 병원체에 활성이 있어 세균성 결막염에 기전상 적용 가능할 수 있습니다.
 
 문헌에서도 이 연관성을 일부 확인할 수 있습니다. 1975년 튀니지 트라코마 대조 시험에서는 1% rifampicin 안연고를 사용했습니다. 1977년 런던 개방 시험에서는 Chlamydia 안감염 환자에게 1% 안연고를 투여했고, 3주 치료로는 불충분했습니다. 6~7주 치료에서는 임상적·미생물학적 치료율이 약 90%였습니다.
 
@@ -116,6 +116,19 @@ Rifampicin은 항결핵 항생제로, 국내에서는 단일 성분 경구제(�
 - 현재 병원체 분포와 내성 양상(특히 Chlamydia, 포도알균)을 반영한 감수성 데이터
 - 안과용 제형(안연고·점안액)의 개발 가능성 및 안구 독성 평가
 - 기존 표준 치료와 비교하는 현대적 무작위 대조 시험 설계
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

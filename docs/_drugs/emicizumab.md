@@ -57,7 +57,7 @@ TxGNN 모델은 여러 출혈성 질환에 효과가 있을 것으로 예측했�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 emicizumab은 활성 제IX인자(FIXa)와 제X인자(FX)를 연결하여 FVIIIa의 보조인자 기능을 대체하는 이중특이성 항체입니다. 이 구조는 FVIII와 다르기 때문에 항-FVIII 항체(억제인자)의 영향을 받지 않는 것으로 알려져 있습니다.
+미국 FDA가 승인한 Emicizumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “HEMLIBRA는 활성화 제IX인자와 제X인자를 연결하여 효과적인 지혈에 필요한, 결핍된 활성화 제VIII인자의 기능을 회복시킨다.” 영어 원문: "HEMLIBRA bridges activated factor IX and factor X to restore the function of missing activated factor VIII that is needed for effective hemostasis." ([DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071), 버전 2025-07-11; 확인일 2026-11-19). 알려진 정보에 따르면 emicizumab은 활성 제IX인자(FIXa)와 제X인자(FX)를 연결하여 FVIIIa의 보조인자 기능을 대체하는 이중특이성 항체입니다. 이 구조는 FVIII와 다르기 때문에 항-FVIII 항체(억제인자)의 영향을 받지 않는 것으로 알려져 있습니다.
 
 후천성 혈우병 A는 FVIII에 대한 자가항체가 내인성 FVIII를 중화하여 발생합니다. emicizumab은 FVIII를 우회하므로 기전상 직접적이고 강한 연관성이 있습니다. 이는 기존 적응증(FVIII 억제인자를 가진 혈우병 A에서의 예방요법)과 같은 병태생리적 논리를 공유합니다.
 
@@ -125,6 +125,19 @@ TxGNN 모델은 여러 출혈성 질환에 효과가 있을 것으로 예측했�
 - 혈전 위험 관리 계획(특히 aPCC 병용 금지·제한), 응고 검사 간섭 대응 및 혈우병 전문 진료 하의 사용 체계 수립
 - 후천성 응고인자 결핍증이라는 넓은 질환명 중 근거는 후천성 혈우병 A에만 해당한다는 점을 명확히 하여 적응증 범위 설정
 - Glanzmann 혈소판무력증은 emicizumab 자체에 대한 전임상·증례 근거 축적 필요
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Hemlibra (emicizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2483adba-fab6-4d1b-96c5-c195577ed071) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

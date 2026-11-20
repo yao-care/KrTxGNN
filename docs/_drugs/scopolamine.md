@@ -55,7 +55,7 @@ TxGNN 모델은 **마미 증후군(Cauda Equina Syndrome)**에 효과가 있을 
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 scopolamine은 비선택적 무스카린 수용체 길항제로 알려져 있으며, 이를 바탕으로 한 이론적 연결고리만 검토할 수 있습니다.
+미국 FDA가 승인한 Scopolamine 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “벨라돈나 알칼로이드인 스코폴라민은 항콜린제이다. 스코폴라민은 i) 부교감신경계의 신경절후 무스카린 수용체 부위에서 경쟁적 억제제로 작용하고, ii) 아세틸콜린에 반응하지만 콜린성 신경 지배가 없는 평활근에 작용한다.” 영어 원문: "Scopolamine, a belladonna alkaloid, is an anticholinergic. Scopolamine acts: i) as a competitive inhibitor at postganglionic muscarinic receptor sites of the parasympathetic nervous system, and ii) on smooth muscles that respond to acetylcholine but lack cholinergic innervation." ([DailyMed: Transderm Scop (scopolamine) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b877a694-a1d0-4280-937a-a06820b12a88), 버전 2025-06-10; 확인일 2026-11-19). 다만 scopolamine은 비선택적 무스카린 수용체 길항제로 알려져 있으며, 이를 바탕으로 한 이론적 연결고리만 검토할 수 있습니다.
 
 마미 증후군은 신경 압박으로 신경인성 방광 기능장애를 일으킵니다. 무스카린 길항제는 방광 배뇨근의 과활동을 줄일 수 있어 증상 완화 측면에서 이론상 연결이 가능합니다.
 
@@ -107,6 +107,19 @@ TxGNN 모델은 **마미 증후군(Cauda Equina Syndrome)**에 효과가 있을 
 - 신경인성 방광 관련 용어의 온톨로지 매핑 재검토 및 해당 적응증에 대한 문헌·임상시험 조사
 - 투여 경로 적합성 평가 (현재 경피 패취 제형만 허가)
 - 마미 증후군에서의 요폐 악화 위험에 대한 전임상·기전 근거 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Transderm Scop (scopolamine) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b877a694-a1d0-4280-937a-a06820b12a88) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

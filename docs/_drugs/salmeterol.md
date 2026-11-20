@@ -56,7 +56,7 @@ TxGNN 모델은 **호흡기 기형(respiratory malformation)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 일반적으로 salmeterol은 β2 수용체 활성화로 세포 내 cAMP를 높여 기관지 평활근을 이완시키고, 섬모 운동과 점액섬모 청소를 촉진할 가능성이 있습니다. 이 때문에 일부 기도 질환에서 기도 청소에 도움이 될 수 있다는 가설이 가능합니다.
+미국 FDA가 승인한 Salmeterol 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “살메테롤은 선택적 LABA이다. 시험관 내 연구에서 살메테롤은 알부테롤보다 베타 2 -아드레날린 수용체에 대해 최소 50배 더 선택적인 것으로 나타났다. 베타 2 -아드레날린 수용체는 기관지 평활근의 주된 아드레날린 수용체이고 베타 1 -아드레날린 수용체는 심장의 주된 수용체이지만, 인간의 심장에도 베타 2 -아드레날린 수용체가 존재하며 이는 전체 베타-아드레날린 수용체의 10% ~ 50%를 차지한다.” 영어 원문: "Salmeterol is a selective LABA. In vitro studies show salmeterol to be at least 50 times more selective for beta 2 -adrenoceptors than albuterol. Although beta 2 -adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta 1 -adrenoceptors are the predominant receptors in the heart, there are also beta 2 -adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors." ([DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4), 버전 2022-10-10; 확인일 2026-11-19). 일반적으로 salmeterol은 β2 수용체 활성화로 세포 내 cAMP를 높여 기관지 평활근을 이완시키고, 섬모 운동과 점액섬모 청소를 촉진할 가능성이 있습니다. 이 때문에 일부 기도 질환에서 기도 청소에 도움이 될 수 있다는 가설이 가능합니다.
 
 다만 "호흡기 기형"은 매우 넓은 범주이며, 제시된 근거는 선천성 구조 이상을 다루지 않습니다. 매우 높은 예측 점수는 질환 특이적 근거보다 이 약의 일반적인 호흡기 약리를 반영했을 가능성이 큽니다.
 
@@ -110,6 +110,19 @@ TxGNN 모델은 **호흡기 기형(respiratory malformation)**에 효과가 있�
 - 작용 기전(MOA) 데이터 보완
 - 허가 적응증 텍스트와 경고·금기 등 허가사항 안전성 정보 확보
 - 병용 약물(특히 강력한 CYP3A4 억제제)과 심혈관계 영향에 대한 안전성 모니터링 계획 수립
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

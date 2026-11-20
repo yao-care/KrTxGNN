@@ -56,7 +56,7 @@ TxGNN 모델은 **유전성 망막이영양증(retinal dystrophy with or without
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Paliperidone은 도파민 D2 및 세로토닌 5-HT2A 수용체를 차단하는 비정형 항정신병약이며, 증상 조절 약물입니다.
+미국 FDA가 승인한 Paliperidone 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “팔리페리돈은 리스페리돈의 주요 활성 대사체이다. 조현병에서 팔리페리돈의 작용기전은 명확하지 않다. 그러나 조현병에서 이 약물의 치료 효과는 중추 도파민 제2형(D 2 ) 및 세로토닌 제2형(5HT 2A ) 수용체 길항 작용의 조합을 통해 매개될 수 있다.” 영어 원문: "Paliperidone is the major active metabolite of risperidone. The mechanism of action of paliperidone in schizophrenia is unclear. However, the drug's therapeutic effect in schizophrenia could be mediated through a combination of central dopamine Type 2 (D 2 ) and serotonin Type 2 (5HT 2A ) receptor antagonism." ([DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916), 버전 2025-01-31; 확인일 2026-11-19). 알려진 정보에 따르면 Paliperidone은 도파민 D2 및 세로토닌 5-HT2A 수용체를 차단하는 비정형 항정신병약이며, 증상 조절 약물입니다.
 
 이 약의 수용체 약리와 유전성 망막 변성 사이에서 알려진 기전적 연결고리는 없습니다. 예측 점수는 매우 높지만 TxGNN 모델(딥러닝)이 산출한 값일 뿐, 이를 뒷받침하는 임상 또는 전임상 자료가 제공되지 않았습니다. 높은 점수는 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 크며, 생물학적 근거는 아닙니다. 실제로 상위 예측에는 근시 관련 질환이 여러 개 포함되어 있어, 서로 유사한 질환들이 점수를 함께 끌어올렸을 수 있습니다.
 
@@ -109,6 +109,19 @@ TxGNN 모델은 **유전성 망막이영양증(retinal dystrophy with or without
 - 망막이영양증과의 기전적 연관성을 뒷받침하는 전임상 또는 문헌 근거 (현재 없음)
 - 유전성 망막 질환 및 근시 계열 예측 간 TxGNN 모델이 학습한 질환 유사성의 영향 점검 (독립 근거 여부 확인)
 - 안구 질환 적응증 시 경로 적합성 검토 (현재 경구 서방정만 존재)
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Invega (paliperidone) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b8e5b26-b9e4-4704-921b-3c3c0d159916) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

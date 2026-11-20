@@ -55,7 +55,7 @@ TxGNN 모델은 **외배엽간엽종(ectomesenchymoma)**에 효과가 있을 수
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 다만 약리 정보상 pertuzumab은 HER2(ERBB2) 수용체를 표적으로 하는 항체입니다.
+미국 FDA가 승인한 Pertuzumab 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “퍼투주맙은 인간 표피성장인자수용체 2 단백질(HER2)의 세포외 이량체화 도메인(Subdomain II)을 표적으로 하며, 이를 통해 HER2가 EGFR, HER3 및 HER4를 포함한 다른 HER 계열 구성원과 리간드 의존적으로 이종이량체를 형성하는 것을 차단한다. 그 결과, 퍼투주맙은 두 가지 주요 신호전달 경로인 미토겐 활성화 단백질(MAP) 키나아제 및 포스포이노시티드 3-키나아제(PI3K)를 통한 리간드 유발 세포내 신호전달을 억제한다.” 영어 원문: "Pertuzumab targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2) and, thereby, blocks ligand-dependent heterodimerization of HER2 with other HER family members, including EGFR, HER3, and HER4. As a result, pertuzumab inhibits ligand-initiated intracellular signaling through two major signal pathways, mitogen-activated protein (MAP) kinase, and phosphoinositide 3-kinase (PI3K)." ([DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff), 버전 2026-04-30; 확인일 2026-11-19). 다만 약리 정보상 pertuzumab은 HER2(ERBB2) 수용체를 표적으로 하는 항체입니다.
 
 외배엽간엽종은 신경외배엽성 성분과 간엽성 성분이 섞인 희귀 종양입니다. 이 종양이 HER2 신호에 의존한다는 근거는 확립되어 있지 않습니다. 따라서 기전상의 연결고리는 현재 뒷받침되지 않으며, 이 예측은 모델 점수에만 근거합니다.
 
@@ -94,6 +94,19 @@ TxGNN 모델은 **외배엽간엽종(ectomesenchymoma)**에 효과가 있을 수
 - 외배엽간엽종에서 HER2 발현 여부를 확인하는 전임상 또는 병리 연구
 - 상세한 작용 기전(MOA) 데이터 보완
 - 허가사항의 경고 및 금기 정보 확보와 안전성 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

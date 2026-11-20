@@ -55,7 +55,7 @@ TxGNN 모델은 **강직성 척추염(ankylosing spondylitis)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. Abatacept는 T세포 공동자극 신호를 차단하는 약물로 알려져 있습니다. 이 기전은 면역 매개 염증성 관절 질환 전반에서 이론적으로 타당하며, 척추관절염에서도 기전상 가능성이 있습니다.
+미국 FDA가 승인한 Abatacept 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “아바타셉트는 선택적 공동자극 조절제로서, CD80 및 CD86에 결합하여 CD28과의 상호작용을 차단함으로써 T세포(T 림프구) 활성화를 억제한다. 이 상호작용은 T 림프구의 완전한 활성화에 필요한 공동자극 신호를 제공한다.” 영어 원문: "Abatacept, a selective costimulation modulator, inhibits T-cell (T lymphocyte) activation by binding to CD80 and CD86, thereby blocking interaction with CD28. This interaction provides a costimulatory signal necessary for full activation of T lymphocytes." ([DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb), 버전 2025-11-13; 확인일 2026-11-19). Abatacept는 T세포 공동자극 신호를 차단하는 약물로 알려져 있습니다. 이 기전은 면역 매개 염증성 관절 질환 전반에서 이론적으로 타당하며, 척추관절염에서도 기전상 가능성이 있습니다.
 
 그러나 임상 자료는 기전적 가능성과 다른 방향을 가리킵니다.
 - TNF 억제제에 반응하지 않던 축성 척추관절병증 환자에서 abatacept의 효능이 없었다는 연구가 있습니다.
@@ -118,6 +118,19 @@ TxGNN 모델은 **강직성 척추염(ankylosing spondylitis)**에 효과가 있
 - 이 질환에서 효능을 시사하는 무작위 대조 임상 근거
 - 상세한 작용 기전(MOA) 자료
 - 허가사항 기반의 경고·금기 정보 확보
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

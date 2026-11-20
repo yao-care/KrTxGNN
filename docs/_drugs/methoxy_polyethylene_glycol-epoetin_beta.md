@@ -55,7 +55,7 @@ TxGNN 모델은 **일차 혈소판 방출 장애(primary release disorder of pla
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 이 약은 에리스로포이에틴 수용체에 작용하는 지속형 ESA이며, 만성 신장병 빈혈에서의 효능이 확립되어 있습니다.
+미국 FDA가 승인한 Methoxy Polyethylene Glycol-Epoetin Beta 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Mircera는 erythropoietin과 대조적으로 생체 내에서 더 큰 활성과 함께 증가된 반감기를 갖는 erythropoietin 수용체 활성화제이다. 적혈구 발달의 주요 성장 인자인 erythropoietin은 신장에서 생성되며 저산소증에 반응하여 혈류로 방출된다.” 영어 원문: "Mircera is an erythropoietin receptor activator with greater activity in vivo as well as increased half-life, in contrast to erythropoietin. A primary growth factor for erythroid development, erythropoietin is produced in the kidney and released into the bloodstream in response to hypoxia." ([DailyMed: Mircera (methoxy polyethylene glycol-epoetin beta) prescribing information, Vifor (International) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=22c56f2a-f73c-60e7-e054-00144ff88e88), 버전 2026-08-14; 확인일 2026-11-19). 알려진 정보에 따르면 이 약은 에리스로포이에틴 수용체에 작용하는 지속형 ESA이며, 만성 신장병 빈혈에서의 효능이 확립되어 있습니다.
 
 그러나 ESA의 작용이 혈소판 과립 방출 결함을 교정한다고 볼 만한 기전적 근거는 확인되지 않습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)이 관련 질환 간에 학습한 유사성을 반영한 것일 수 있으며, 생물학적 근거를 의미하지는 않습니다.
 
@@ -114,11 +114,12 @@ TxGNN 모델은 **일차 혈소판 방출 장애(primary release disorder of pla
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Mircera (methoxy polyethylene glycol-epoetin beta) prescribing information, Vifor (International) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=22c56f2a-f73c-60e7-e054-00144ff88e88) |
 
 <!-- review:end log -->
 

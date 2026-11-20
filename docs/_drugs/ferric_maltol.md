@@ -54,7 +54,7 @@ Ferric Maltol(제이철말톨)은 경구 철분 보충제로, 한국에서는 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Ferric Maltol은 경구 철분 대체 요법제로, 장에서 흡수되는 형태로 철분을 공급합니다.
+미국 FDA가 승인한 Ferric Maltol 처방 정보(Prescribing Information)의 “Clinical Pharmacology” 항목에 따르면(비공식 번역): “ACCRUFER는 장벽을 통한 흡수 및 트랜스페린과 페리틴으로의 전달을 위해 철을 공급한다.” 영어 원문: "ACCRUFER delivers iron for uptake across the intestinal wall and transfer to transferrin and ferritin." ([DailyMed: Accrufer (ferric maltol) prescribing information, Shield TX (UK) Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=367ac157-2d25-4f34-99ce-b126e0f03851), 버전 2026-01-02; 확인일 2026-11-19). 알려진 정보에 따르면 Ferric Maltol은 경구 철분 대체 요법제로, 장에서 흡수되는 형태로 철분을 공급합니다.
 
 플러머-빈슨 증후군은 철결핍성 빈혈, 연하곤란, 식도 막(esophageal web)을 특징으로 합니다. 철분을 보충하면 근본 원인인 철결핍을 교정할 수 있어 기전상 적용 가능성이 있습니다. 다만 철분 보충이 식도 막을 직접 치료하지는 못하며, 결핍이 해소되면서 증상이 완화될 가능성이 있는 정도입니다.
 
@@ -92,6 +92,19 @@ TxGNN 점수는 매우 높지만 이를 검증한 임상시험이나 문헌이 �
 - 플러머-빈슨 증후군에서 철분 보충의 효과를 다룬 기존 문헌 및 임상시험 조사
 - 투여 경로 적합성 및 기존 적응증과의 유사성 평가
 - IRIDA 증후군은 소규모 코호트에서 안전성과 철 반응 지표 중심의 탐색 연구 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Accrufer (ferric maltol) prescribing information, Shield TX (UK) Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=367ac157-2d25-4f34-99ce-b126e0f03851) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

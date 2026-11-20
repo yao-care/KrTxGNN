@@ -55,7 +55,7 @@ TxGNN 모델은 **변이형 협심증(Prinzmetal angina)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 없습니다. 다만 Telmisartan은 AT1 수용체 차단제이면서 PPAR-gamma를 부분적으로 활성화하는 것으로 알려져 있습니다. 이 두 작용이 혈관 내피 기능을 개선하고 혈관 연축을 줄일 가능성이 있어, 변이형 협심증의 병태(관상동맥 연축)와 이론상 연결됩니다.
+미국 FDA가 승인한 Telmisartan 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Angiotensin II는 안지오텐신 전환효소(ACE, kininase II)가 촉매하는 반응에서 angiotensin I로부터 생성된다. Angiotensin II는 레닌-안지오텐신계의 주요 승압 물질로, 그 작용에는 혈관수축, 알도스테론의 합성 및 분비 자극, 심장 자극, 나트륨의 신장 재흡수가 포함된다. […] Telmisartan은 혈관 평활근 및 부신 등 여러 조직에서 angiotensin II가 AT 1 수용체에 결합하는 것을 선택적으로 차단함으로써 angiotensin II의 혈관수축 및 알도스테론 분비 작용을 차단한다.” 영어 원문: "Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the reninangiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Telmisartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland." ([DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10), 버전 2026-11-02; 확인일 2026-11-19). 다만 Telmisartan은 AT1 수용체 차단제이면서 PPAR-gamma를 부분적으로 활성화하는 것으로 알려져 있습니다. 이 두 작용이 혈관 내피 기능을 개선하고 혈관 연축을 줄일 가능성이 있어, 변이형 협심증의 병태(관상동맥 연축)와 이론상 연결됩니다.
 
 그러나 이는 가설 수준의 설명입니다. 이 질환과 Telmisartan을 직접 연구한 임상시험이나 문헌이 확인되지 않았습니다. 기존 적응증과 신규 적응증의 유사성도 아직 평가되지 않았습니다. 높은 TxGNN 점수만으로 효능을 기대하기는 어렵습니다.
 
@@ -97,6 +97,19 @@ TxGNN 모델은 **변이형 협심증(Prinzmetal angina)**에 효과가 있을 �
 - 작용 기전(MOA) 데이터 보강 (예: DrugBank)
 - 식약처 허가사항(적응증, 경고, 금기)의 내용 확인
 - 동일 약물의 다른 예측 질환(예: 뇌내출혈)은 별도 평가 필요
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: telmisartan prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=56a72ddf-c2a2-45ce-91b1-1fcfbff52c10) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

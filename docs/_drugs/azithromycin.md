@@ -56,7 +56,7 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Azithromycin은 마크로라이드계 항생제로, 세균 감염 치료에 사용되는 약물입니다.
+미국 FDA가 승인한 Azithromycin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “아지트로마이신은 마크로라이드계 항균제이다. […] 아지트로마이신은 감수성 미생물의 50S 리보솜 소단위의 23S rRNA에 결합하여 세균의 단백질 합성을 억제하고 50S 리보솜 소단위의 조립을 저해함으로써 작용한다.” 영어 원문: "Azithromycin is a macrolide antibacterial drug. […] Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit." ([DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a), 버전 2026-09-09; 확인일 2026-11-19). 알려진 정보에 따르면 Azithromycin은 마크로라이드계 항생제로, 세균 감염 치료에 사용되는 약물입니다.
 
 고아밀라제혈증은 혈중 아밀라제 수치가 높아진 검사 소견으로, 췌장염, 신부전, 침샘 질환 등 다양한 원인에서 나타납니다. 이 소견 자체를 표적으로 하는 항균 또는 면역조절 기전은 뚜렷하지 않으며, 이번 데이터에서도 두 질환을 연결할 기전적 근거는 확인되지 않았습니다. 따라서 이 예측 점수(0.9981)는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -105,6 +105,19 @@ TxGNN 모델은 **고아밀라제혈증(hyperamylasemia)**에 효과가 있을 �
 - DrugBank 등에서 작용 기전(MOA) 데이터 확보
 - 고아밀라제혈증과 azithromycin 사이의 생물학적 연결에 대한 가설 정립 및 문헌 검색
 - 대안 검토: 근거가 상대적으로 있는 단클론 감마글로불린병증(전임상 근거, L4) 또는 겸상적혈구병의 폐 합병증(철회된 시험만 존재, L4)을 연구 질문 후보로 고려할 수 있으나, 이 역시 임상 근거는 없는 상태입니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

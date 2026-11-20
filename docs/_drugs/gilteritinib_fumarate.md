@@ -55,7 +55,7 @@ Gilteritinib Fumarate는 FLT3/AXL 티로신 키나제 억제제 계열의 항종
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Gilteritinib은 FLT3/AXL 티로신 키나제를 억제하는 항종양제입니다. 이 기전과 폴리오바이러스 감염 사이에 확립된 연결 고리는 확인되지 않습니다.
+미국 FDA가 승인한 Gilteritinib Fumarate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “길테리티닙은 FMS 유사 티로신 키나아제 3(FLT3)을 포함한 여러 수용체 티로신 키나아제를 억제하는 저분자 화합물이다. 길테리티닙은 FLT3-ITD, 티로신 키나아제 도메인 돌연변이(TKD) FLT3-D835Y 및 FLT3-ITD-D835Y를 포함하여 FLT3를 외인성으로 발현하는 세포에서 FLT3 수용체 신호전달 및 증식을 억제하는 능력을 나타냈으며, FLT3-ITD를 발현하는 백혈병 세포에서 세포자멸사를 유도하였다.” 영어 원문: "Gilteritinib is a small molecule that inhibits multiple receptor tyrosine kinases, including FMS-like tyrosine kinase 3 (FLT3). Gilteritinib demonstrated the ability to inhibit FLT3 receptor signaling and proliferation in cells exogenously expressing FLT3 including FLT3-ITD, tyrosine kinase domain mutations (TKD) FLT3-D835Y and FLT3-ITD-D835Y, and it induced apoptosis in leukemic cells expressing FLT3-ITD." ([DailyMed: Xospata (gilteritinib) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5ff59aa-9c0d-49a8-9053-1f179b482383), 버전 2026-10-01; 확인일 2026-11-19). 알려진 정보에 따르면 Gilteritinib은 FLT3/AXL 티로신 키나제를 억제하는 항종양제입니다. 이 기전과 폴리오바이러스 감염 사이에 확립된 연결 고리는 확인되지 않습니다.
 
 구마비성 소아마비는 폴리오바이러스가 뇌간 운동신경세포를 침범하는 감염성 질환입니다. FLT3/AXL 억제가 항바이러스 활성이나 운동신경세포 보호로 이어진다는 근거는 없습니다. 다만 AXL이 일부 바이러스의 세포 진입과 면역 조절 경로에 관여한다고 알려져 있어 추측성 연결은 가능하지만, 폴리오바이러스에 대해서는 뒷받침되지 않습니다.
 
@@ -106,11 +106,12 @@ TxGNN 점수(0.9910)는 계산상의 예측값일 뿐 임상적으로 검증되�
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “한국 시판 허가 이력이 없으며” | 보고서가 다시 생성되어 이 문장이 없음(2026-11-16: 2026년 11월 16일 보고서가 새 예측(DrugBank ID로 찾은 TxGNN 예측)으로 다시 생성되어 이 문장이 더 이상 없음; 원래: 정정) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xospata (gilteritinib) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5ff59aa-9c0d-49a8-9053-1f179b482383) |
 
 <!-- review:end log -->
 

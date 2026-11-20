@@ -56,7 +56,7 @@ TxGNN 모델은 **구강 칸디다증(oral candidiasis)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Rifaximin은 장에서 거의 흡수되지 않는 항균제이며, 항진균 활성은 알려져 있지 않습니다.
+미국 FDA가 승인한 Rifaximin 처방 정보(Prescribing Information)의 “Mechanism of Action” 및 “Microbiology” 항목에 따르면(비공식 번역): “리팍시민은 항균제이다. […] 리팍시민은 리팜핀의 반합성 유도체로, 세균의 DNA 의존성 RNA 중합효소의 베타 소단위에 결합하여 전사 단계 중 하나를 차단함으로써 작용한다. 이로 인해 세균의 단백질 합성이 억제되고, 결과적으로 세균의 증식이 억제된다.” 영어 원문: "Rifaximin is an antibacterial drug. […] Rifaximin is a semi-synthetic derivative of rifampin and acts by binding to the beta-subunit of bacterial DNA-dependent RNA polymerase blocking one of the steps in transcription. This results in inhibition of bacterial protein synthesis and consequently inhibits the growth of bacteria." ([DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b), 버전 2025-08-27; 확인일 2026-11-19). 알려진 정보에 따르면 Rifaximin은 장에서 거의 흡수되지 않는 항균제이며, 항진균 활성은 알려져 있지 않습니다.
 
 기존 적응증(장관 관련 감염 및 관련 질환)과 구강 칸디다증 사이에는 직접적인 기전 연관성이 확인되지 않습니다. 오히려 유일한 문헌(PMID 34180023)은 Rifaximin 사용이 동종 조혈모세포이식 환자에서 미카펀진 내성 Candida 감염을 **조장**했다고 보고합니다. 장내 미생물총 교란이 진균 과증식을 촉진했을 가능성이 있습니다.
 
@@ -101,6 +101,19 @@ TxGNN 모델은 **구강 칸디다증(oral candidiasis)**에 효과가 있을 �
 - Rifaximin 사용과 진균 감염 위험의 연관성에 대한 추가 안전성 검토
 
 **참고:** 같이 예측된 다른 질환(연결 순위 2~6위: 구순 연결부 누공, 하악 방사선골괴사, 작열구 증후군, 구강 백색부종, 칸디다증)도 모두 Hold입니다. 이들 중 임상 근거가 있는 것은 없으며, 칸디다증 관련 문헌 2편은 이점이 아닌 위험 연관성만 시사합니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Xifaxan (rifaximin) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7afafa63-3236-4212-9589-045db6b01c0b) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

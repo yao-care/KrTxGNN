@@ -70,7 +70,7 @@ TxGNN 모델은 가장 높은 점수 순으로 **외부 발진(Exanthem)**을 �
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면, clobetasol propionate는 글루코코르티코이드 수용체(NR3C1)에 작용하는 합성 코르티코스테로이드이며, 피부 염증과 가려움증 치료에 쓰입니다. 이 수용체 매개 항염·면역억제 작용은 염증성 피부 질환 전반에 적용될 수 있습니다.
+미국 FDA가 승인한 Clobetasol Propionate 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “다른 국소 코르티코스테로이드와 마찬가지로 클로베타솔 프로피오네이트는 항염증, 진양(가려움 완화) 및 혈관수축 특성을 갖는다. 국소 스테로이드의 항염증 작용 기전은 일반적으로 명확하지 않다.” 영어 원문: "Like other topical corticosteroids, clobetasol propionate has anti-inflammatory, antipruritic, and vasoconstrictive properties. The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear." ([DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069), 버전 2026-11-10; 확인일 2026-11-19). 알려진 정보에 따르면, clobetasol propionate는 글루코코르티코이드 수용체(NR3C1)에 작용하는 합성 코르티코스테로이드이며, 피부 염증과 가려움증 치료에 쓰입니다. 이 수용체 매개 항염·면역억제 작용은 염증성 피부 질환 전반에 적용될 수 있습니다.
 
 **1순위(외음부 역전모낭각화증):** 항염 및 항증식 작용으로 양성 염증성·과각화성 병변에 이론적으로 적용될 수 있습니다. 그러나 이 병변은 보통 절제로 치료하는 양성 병변이어서 코르티코스테로이드 치료의 근거가 약하고, 이를 뒷받침하는 자료도 없습니다.
 
@@ -152,6 +152,19 @@ TxGNN 모델은 가장 높은 점수 순으로 **외부 발진(Exanthem)**을 �
 - 4순위(여드름켈로이드)에 대한 대조군이 있는 추가 연구 검토
 - 제형·투여 경로와 대상 병변의 적합성 평가 (현재 경로 호환성 미확인)
 - 신생아·소아 등 취약 인구집단에 대한 별도 안전성 평가
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Clobetasol Propionate (Emollient) (clobetasol propionate) prescribing information, The J. Molner Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26ccb1d8-c466-e238-e063-6394a90a0069) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

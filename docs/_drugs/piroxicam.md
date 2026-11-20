@@ -56,7 +56,7 @@ TxGNN 모델은 **안구결손 소안구증-근위부 사지 이형성 증후군
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터는 확인되지 않았습니다. 일반적으로 piroxicam은 COX-1/COX-2를 억제해 프로스타글란딘 합성을 줄이고, 이를 통해 염증과 통증을 완화하는 NSAID로 알려져 있습니다.
+미국 FDA가 승인한 Piroxicam 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “피록시캄은 진통, 항염 및 해열 특성을 갖는다. 피록시캄 캡슐의 작용기전은 다른 NSAID와 마찬가지로 완전히 밝혀지지 않았으나, 시클로옥시게나제(COX-1 및 COX-2)의 억제가 관여한다.” 영어 원문: "Piroxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Piroxicam Capsules, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)." ([DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4), 버전 2026-09-29; 확인일 2026-11-19). 일반적으로 piroxicam은 COX-1/COX-2를 억제해 프로스타글란딘 합성을 줄이고, 이를 통해 염증과 통증을 완화하는 NSAID로 알려져 있습니다.
 
 그러나 예측된 질환은 유전적 원인의 희귀 발달성 골격·안구 질환입니다. 프로스타글란딘 합성 억제가 이 질환의 병인에 관여한다는 근거는 찾을 수 없습니다. 기존 적응증(염증성·퇴행성 근골격계 통증)과의 연관성도 뚜렷하지 않습니다.
 
@@ -103,6 +103,19 @@ TxGNN 점수는 매우 높지만 임상시험과 문헌이 전혀 없고, COX �
 - 해당 질환에서 COX/프로스타글란딘 경로가 관여하는지에 대한 전임상 또는 기전 연구
 
 **참고: 다른 후보 질환.** 같은 예측 목록의 10위 후보인 **소아특발성관절염(JIA)**은 기존 근골격계 염증 적응증과 기전상 일관됩니다. 이 질환에는 piroxicam과 naproxen을 비교한 소규모 임상 연구, 소아 약동학 연구, NSAID 체계적 문헌고찰·네트워크 메타분석 등 문헌 11편이 있습니다. 다만 3상 RCT는 확인되지 않았고 메타분석은 NSAID 계열 전체를 다룹니다. 소아 위장관·신장 독성도 신중히 고려해야 합니다. 이 후보는 별도의 연구 질문으로 평가할 가치가 있습니다.
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: piroxicam prescribing information, Sportpharm LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41425352-2a59-43ef-bccc-f8cc69e72be4) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.

@@ -56,7 +56,7 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 이 보고서용으로 수집한 정보에 따르면, etoposide는 topoisomerase II 억제 기전을 가진 항종양제로 폐 악성종양(예: 소세포폐암)에서 활성이 알려져 있습니다. 이 때문에 폐에 생기는 증식성 종양에도 기전상 적용 가능성이 있습니다.
+미국 FDA가 승인한 Etoposide 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “에토포시드는 DNA-topoisomerase II와의 상호작용 또는 자유 라디칼의 형성을 통해 DNA 가닥 절단을 유도하며, 이는 주로 세포주기의 G2기에서의 세포주기 정지 및 세포 사멸로 이어진다.” 영어 원문: "Etoposide causes the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals, leading to cell cycle arrest, primarily at the G2 stage of the cell cycle, and cell death." ([DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059), 버전 2026-10-07; 확인일 2026-11-19). 이 보고서용으로 수집한 정보에 따르면, etoposide는 topoisomerase II 억제 기전을 가진 항종양제로 폐 악성종양(예: 소세포폐암)에서 활성이 알려져 있습니다. 이 때문에 폐에 생기는 증식성 종양에도 기전상 적용 가능성이 있습니다.
 
 그러나 예측 점수가 높은 것은 지식 네트워크 기반 예측일 뿐입니다. 연결된 문헌은 고분화 태아형 선암을 구성 요소로 포함하는 폐모세포종 증례보고 한 편뿐이며, 이 질환 자체에서 etoposide의 효과를 보여주는 자료는 없습니다.
 
@@ -122,11 +122,12 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 
 ## 검토 기록
 
-이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-05 | 삭제: “6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 모델은 **저산소증 및/또는 폐질환에 의한 폐고혈압(pulmo
 
 ## 이 예측이 타당한 이유는?
 
-현재 상세한 작용 기전 데이터가 없습니다. 알려진 정보에 따르면 Lisinopril은 ACE 억제제 계열 약물이며, 레닌-안지오텐신계(RAS)는 폐혈관 수축과 혈관 리모델링에 관여하는 것으로 알려져 있어 기전상 이 질환에 적용 가능할 수 있습니다.
+미국 FDA가 승인한 Lisinopril 처방 정보(Prescribing Information)의 “Mechanism of Action” 항목에 따르면(비공식 번역): “Lisinopril은 인간 대상자 및 동물에서 안지오텐신 전환 효소(ACE)를 억제한다. ACE는 angiotensin I이 혈관수축 물질인 angiotensin II로 전환되는 것을 촉매하는 펩티딜 디펩티다아제이다. Angiotensin II는 또한 부신피질에 의한 aldosterone 분비를 자극한다.” 영어 원문: "Lisinopril inhibits angiotensin-converting enzyme (ACE) in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex." ([DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c), 버전 2025-12-16; 확인일 2026-11-19). 알려진 정보에 따르면 Lisinopril은 ACE 억제제 계열 약물이며, 레닌-안지오텐신계(RAS)는 폐혈관 수축과 혈관 리모델링에 관여하는 것으로 알려져 있어 기전상 이 질환에 적용 가능할 수 있습니다.
 
 다만 검색된 문헌은 골격근, 미숙아 망막병증, 췌장 섬유화, 어류 생리, 스타틴 효과 등 대부분 이 질환과 직접 관련이 없습니다. 저산소증이나 폐질환에 의한 폐고혈압에서 Lisinopril을 직접 평가한 임상 연구는 확인되지 않았습니다. 따라서 근거는 간접적입니다.
 
@@ -98,6 +98,19 @@ TxGNN 모델은 **저산소증 및/또는 폐질환에 의한 폐고혈압(pulmo
 - 저산소증/폐질환 관련 폐고혈압에서 Lisinopril을 직접 평가한 임상 연구 또는 임상시험
 - 상세한 작용 기전(MOA) 데이터
 - 허가사항(경고·금기 등) 확보 및 안전성 검토, 특히 저산소 환경에서 ACE 억제제 투여 후 일시적 폐동맥압 상승 보고(PMID 8016291) 검토
+
+<!-- review:begin log -->
+
+## 검토 기록
+
+아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+
+| 검토일 | 항목 | 처리 | 근거 |
+|------|------|------|------|
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c) |
+
+<!-- review:end log -->
+
 ## 면책 조항
 
 본 콘텐츠는 연구 목적으로만 제공되며 의학적 조언을 구성하지 않습니다.
