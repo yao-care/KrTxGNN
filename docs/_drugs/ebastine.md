@@ -57,7 +57,7 @@ TxGNN 모델은 **관상동맥질환(Coronary Artery Disease)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Ebastine의 작용 기전(비공식 번역): “히스타민 H1 수용체 역작용제” 영어 원문: "Histamine H1 receptor inverse agonist" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Ebastine은 제2세대 H1 수용체 길항제이며, 한국에서 단일 성분 제제로 다수 허가되어 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Ebastine의 작용 기전(비공식 번역): “히스타민 H1 수용체 역작용제”. 영어 원문: "Histamine H1 receptor inverse agonist" ([ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Ebastine은 제2세대 H1 수용체 길항제이며, 한국에서 단일 성분 제제로 다수 허가되어 있습니다.
 
 가능한 가설은 히스타민과 비만세포 활성이 관상동맥 경련과 죽상경화성 염증에 관여하므로, H1 차단이 관련될 수 있다는 것입니다. 심근허혈에서도 히스타민 매개 관상동맥 수축과 허혈-재관류 시 비만세포 유발 염증에 영향을 줄 가능성이 거론됩니다. 다만 이는 **검증되지 않은 가설**이며, 이번에 정리된 데이터로는 뒷받침되지 않습니다.
 
@@ -103,7 +103,7 @@ ChEMBL(EMBL-EBI)에 등록된 Ebastine의 작용 기전(비공식 번역): “�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660) |
 
 <!-- review:end log -->
 

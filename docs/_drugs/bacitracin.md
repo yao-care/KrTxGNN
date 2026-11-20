@@ -55,7 +55,7 @@ TxGNN 모델은 **점상 상피성 각결막염(punctate epithelial keratoconjun
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Bacitracin의 작용 기전(비공식 번역): “C55-이소프레닐 피로인산 저해제” 영어 원문: "C55-isoprenyl pyrophosphate inhibitor" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Bacitracin은 그람 양성균에 활성을 보이는 국소 폴리펩타이드 항생제이며, 경미한 상처와 화상의 감염을 방지하는 데 쓰이고 있습니다. 안과용 제형도 존재합니다.
+ChEMBL(EMBL-EBI)에 등록된 Bacitracin의 작용 기전(비공식 번역): “C55-이소프레닐 피로인산 저해제”. 영어 원문: "C55-isoprenyl pyrophosphate inhibitor" ([ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Bacitracin은 그람 양성균에 활성을 보이는 국소 폴리펩타이드 항생제이며, 경미한 상처와 화상의 감염을 방지하는 데 쓰이고 있습니다. 안과용 제형도 존재합니다.
 
 다만 점상 상피성 각결막염은 바이러스성이거나 독성·염증성인 경우가 많아, 직접적인 항균 기전과의 연관성은 약합니다. 각막 상피 손상 부위에서 2차 세균 감염을 예방하는 용도는 이론상 가능하지만 이를 뒷받침하는 자료가 없습니다. 1.0000의 높은 점수는 계산에 의한 예측일 뿐입니다.
 
@@ -104,7 +104,7 @@ ChEMBL(EMBL-EBI)에 등록된 Bacitracin의 작용 기전(비공식 번역): “
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1200558 (bacitracin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200558) |
 
 <!-- review:end log -->
 

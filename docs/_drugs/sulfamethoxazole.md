@@ -56,7 +56,7 @@ TxGNN 모델은 **급성 전염성 결막염(Acute Contagious Conjunctivitis)**�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Sulfamethoxazole의 작용 기전(비공식 번역): “세균 디히드로프테로산 합성효소 억제제” 영어 원문: "Bacterial dihydropteroate synthase inhibitor" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; 확인일 2026-11-19). 다만 Sulfamethoxazole은 설폰아마이드계 항균제로, 세균의 디하이드로프테로에이트 합성효소(dihydropteroate synthase)를 억제해 엽산 합성을 차단하는 것으로 알려져 있습니다. 이 기전은 급성 전염성 결막염의 가장 흔한 원인인 세균성 결막염, 특히 소아 환자에 적용될 수 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Sulfamethoxazole의 작용 기전(비공식 번역): “세균 디히드로프테로산 합성효소 억제제”. 영어 원문: "Bacterial dihydropteroate synthase inhibitor" ([ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443), CC BY-SA 3.0; 확인일 2026-11-19). 다만 Sulfamethoxazole은 설폰아마이드계 항균제로, 세균의 디하이드로프테로에이트 합성효소(dihydropteroate synthase)를 억제해 엽산 합성을 차단하는 것으로 알려져 있습니다. 이 기전은 급성 전염성 결막염의 가장 흔한 원인인 세균성 결막염, 특히 소아 환자에 적용될 수 있습니다.
 
 다만 이 예측은 새로운 적응증이라기보다 이미 허가된 결막염(유행성 안염) 적응증과 크게 겹칩니다. 또한 전염성 결막염 중 바이러스성 결막염은 항균제로 치료되지 않으므로, 원인 병원체에 따라 효과가 달라질 수 있습니다.
 
@@ -112,7 +112,7 @@ ChEMBL(EMBL-EBI)에 등록된 Sulfamethoxazole의 작용 기전(비공식 번역
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL443 (sulfamethoxazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL443) |
 
 <!-- review:end log -->
 

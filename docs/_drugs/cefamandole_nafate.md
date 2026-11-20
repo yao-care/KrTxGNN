@@ -57,7 +57,7 @@ TxGNN 모델은 **혈색소병증(hemoglobinopathy)**에 효과가 있을 수 �
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Cefamandole Nafate의 작용 기전(비공식 번역): “세균 페니실린 결합 단백질 억제제” 영어 원문: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL1618 (cefamandole nafate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1618), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Cefamandole nafate는 세균 세포벽 합성을 억제하는 2세대 세팔로스포린계 항생제입니다.
+ChEMBL(EMBL-EBI)에 등록된 Cefamandole Nafate의 작용 기전(비공식 번역): “세균 페니실린 결합 단백질 억제제”. 영어 원문: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL1618 (cefamandole nafate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1618), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Cefamandole nafate는 세균 세포벽 합성을 억제하는 2세대 세팔로스포린계 항생제입니다.
 
 혈색소병증은 글로빈 사슬의 결함으로 발생하는 질환입니다. 항생제가 글로빈 유전자 발현, 적혈구 생성, 철 대사에 영향을 준다는 알려진 근거는 없습니다. 따라서 기전상 연결고리는 확립되어 있지 않습니다.
 
@@ -97,7 +97,7 @@ TxGNN 모델(딥러닝)의 점수(0.9965)는 모델이 관련 질환 사이에�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1618 (cefamandole nafate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1618) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1618 (cefamandole nafate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1618) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ Tegafur는 5-fluorouracil(5-FU)의 경구용 전구약물로, 한국에서 단�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Tegafur의 작용 기전(비공식 번역): “RNA 억제제; 티미딜산 합성효소 억제제; DNA 억제제” 영어 원문: "RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor" ([ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Tegafur는 간 CYP2A6에 의해 5-FU로 전환되는 경구 전구약물입니다. 활성 대사체는 티미딜산 합성효소를 억제하고 RNA/DNA에 삽입되어 세포독성을 나타냅니다.
+ChEMBL(EMBL-EBI)에 등록된 Tegafur의 작용 기전(비공식 번역): “RNA 억제제; 티미딜산 합성효소 억제제; DNA 억제제”. 영어 원문: "RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor" ([ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Tegafur는 간 CYP2A6에 의해 5-FU로 전환되는 경구 전구약물입니다. 활성 대사체는 티미딜산 합성효소를 억제하고 RNA/DNA에 삽입되어 세포독성을 나타냅니다.
 
 UFT 제제에서는 uracil이 디하이드로피리미딘 탈수소효소(DPD)를 경쟁적으로 억제하여 5-FU 노출을 높입니다. 이는 대장암에서 확립된 플루오로피리미딘 기전이므로, 예측과의 기전적 연결은 직접적이며 높은 TxGNN 점수와도 부합합니다.
 
@@ -144,7 +144,7 @@ UFT 기반 요법의 대규모 완료 Phase 3 RCT가 여러 건 있어 결장·�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883) |
 
 <!-- review:end log -->
 

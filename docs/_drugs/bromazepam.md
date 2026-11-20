@@ -54,7 +54,7 @@ Bromazepam은 벤조디아제핀 계열 약물로, 한국에서 단일제로 허
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Bromazepam의 작용 기전(비공식 번역): “GABA 수용체 알파-2 소단위 양성 알로스테릭 조절제” 영어 원문: "GABA receptor alpha-2 subunit positive allosteric modulator" ([ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Bromazepam은 벤조디아제핀 계열 약물로 GABA-A 수용체의 양성 알로스테릭 조절제로 작용합니다. 이는 약물 계열에서 추정한 것이며, 확인된 기전 데이터는 아닙니다.
+ChEMBL(EMBL-EBI)에 등록된 Bromazepam의 작용 기전(비공식 번역): “GABA 수용체 알파-2 소단위 양성 알로스테릭 조절제”. 영어 원문: "GABA receptor alpha-2 subunit positive allosteric modulator" ([ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Bromazepam은 벤조디아제핀 계열 약물로 GABA-A 수용체의 양성 알로스테릭 조절제로 작용합니다. 이는 약물 계열에서 추정한 것이며, 확인된 기전 데이터는 아닙니다.
 
 GABA 신경전달이 강화되면 이론상 피질 과흥분과 삼차신경혈관계 활성화를 완화할 수 있습니다. 또한 근이완·항불안 작용이 긴장형 두통 증상이나 불안과 관련된 유발 요인에 도움이 될 가능성이 있습니다.
 
@@ -94,7 +94,7 @@ GABA 신경전달이 강화되면 이론상 피질 과흥분과 삼차신경혈�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062) |
 
 <!-- review:end log -->
 

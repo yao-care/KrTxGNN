@@ -55,7 +55,7 @@ TxGNN 모델은 **편두통(migraine disorder)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Flunitrazepam의 작용 기전(비공식 번역): “GABA-A 수용체; 음이온 채널 양성 알로스테릭 조절제” 영어 원문: "GABA-A receptor; anion channel positive allosteric modulator" ([ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280), CC BY-SA 3.0; 확인일 2026-11-19). 다만 약리학 자료에 따르면 flunitrazepam은 GABA-A 수용체의 α1, α2, α3, α5 소단위에 작용합니다. GABA 신경 억제를 강화하면 신경 흥분성이 낮아지므로, 편두통에도 간접적으로 관련될 가능성은 이론적으로 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Flunitrazepam의 작용 기전(비공식 번역): “GABA-A 수용체; 음이온 채널 양성 알로스테릭 조절제”. 영어 원문: "GABA-A receptor; anion channel positive allosteric modulator" ([ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280), CC BY-SA 3.0; 확인일 2026-11-19). 다만 약리학 자료에 따르면 flunitrazepam은 GABA-A 수용체의 α1, α2, α3, α5 소단위에 작용합니다. GABA 신경 억제를 강화하면 신경 흥분성이 낮아지므로, 편두통에도 간접적으로 관련될 가능성은 이론적으로 있습니다.
 
 그러나 이는 가능성 있는 추정일 뿐 입증된 것이 아닙니다. 편두통과 flunitrazepam을 연결하는 임상시험이나 문헌이 없고, 벤조디아제핀은 표준 편두통 치료제도 아닙니다. 이 예측은 TxGNN 점수에만 근거합니다.
 
@@ -102,7 +102,7 @@ ChEMBL(EMBL-EBI)에 등록된 Flunitrazepam의 작용 기전(비공식 번역): 
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280) |
 
 <!-- review:end log -->
 

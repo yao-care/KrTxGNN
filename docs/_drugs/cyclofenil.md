@@ -57,7 +57,7 @@ TxGNN 모델은 **프린츠메탈 협심증(Prinzmetal angina)**에 효과가 �
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Cyclofenil의 작용 기전(비공식 번역): “에스트로겐 수용체 조절제” 영어 원문: "Estrogen receptor modulator" ([ChEMBL CHEMBL141305 (cyclofenil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL141305), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Cyclofenil은 SERM 계열 약물로, 에스트로겐 수용체를 조절하여 배란 유도와 폐경 증상 완화에 쓰입니다.
+ChEMBL(EMBL-EBI)에 등록된 Cyclofenil의 작용 기전(비공식 번역): “에스트로겐 수용체 조절제”. 영어 원문: "Estrogen receptor modulator" ([ChEMBL CHEMBL141305 (cyclofenil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL141305), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Cyclofenil은 SERM 계열 약물로, 에스트로겐 수용체를 조절하여 배란 유도와 폐경 증상 완화에 쓰입니다.
 
 프린츠메탈 협심증(혈관경련성 협심증)과의 연결 고리는 확립되어 있지 않습니다. 에스트로겐이 혈관 내피 기능과 혈관 긴장도에 영향을 줄 수 있다는 가설은 가능하나, 이는 추측일 뿐 이번에 수집된 데이터로는 뒷받침되지 않습니다. 따라서 0.9997이라는 높은 점수는 TxGNN 모델(딥러닝)의 계산 예측으로만 해석해야 하며, 이 점수는 모델이 관련 질환 간에 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -97,7 +97,7 @@ ChEMBL(EMBL-EBI)에 등록된 Cyclofenil의 작용 기전(비공식 번역): “
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL141305 (cyclofenil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL141305) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL141305 (cyclofenil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL141305) |
 
 <!-- review:end log -->
 

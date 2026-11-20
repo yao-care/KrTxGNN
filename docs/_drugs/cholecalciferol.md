@@ -54,7 +54,7 @@ description: "Cholecalciferol: 예측 신규 적응증 말단중간이형성증,
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Cholecalciferol의 작용 기전(비공식 번역): “비타민 D 수용체 작용제” 영어 원문: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 콜레칼시페롤은 체내에서 활성형 비타민 D로 전환되어 칼슘·인 대사와 뼈 무기질화를 돕는 전구 호르몬으로 알려져 있습니다. 다만 이 내용은 이 보고서의 데이터로 확인된 것이 아닙니다.
+ChEMBL(EMBL-EBI)에 등록된 Cholecalciferol의 작용 기전(비공식 번역): “비타민 D 수용체 작용제”. 영어 원문: "Vitamin D receptor agonist" ([ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 콜레칼시페롤은 체내에서 활성형 비타민 D로 전환되어 칼슘·인 대사와 뼈 무기질화를 돕는 전구 호르몬으로 알려져 있습니다. 다만 이 내용은 이 보고서의 데이터로 확인된 것이 아닙니다.
 
 이 예측은 TxGNN 모델(딥러닝)의 점수(0.9978)에서 나온 것이며, 관련된 질환들 사이에서 모델이 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아닙니다.
 
@@ -108,7 +108,7 @@ TxGNN 점수는 높지만 이 질환을 직접 다룬 임상시험과 문헌이 
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1042 (cholecalciferol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1042) |
 
 <!-- review:end log -->
 

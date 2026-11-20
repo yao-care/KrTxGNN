@@ -55,7 +55,7 @@ TxGNN 모델은 **짧은손가락증-합지증 증후군(brachydactyly-syndactyl
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Dexibuprofen의 작용 기전(비공식 번역): “사이클로옥시게나제 억제제” 영어 원문: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL175 (dexibuprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL175), CC BY-SA 3.0; 확인일 2026-11-19). Dexibuprofen은 COX 억제 계열의 소염진통제(NSAID)로 알려져 있으며, 통증·염증·발열 치료에 사용됩니다.
+ChEMBL(EMBL-EBI)에 등록된 Dexibuprofen의 작용 기전(비공식 번역): “사이클로옥시게나제 억제제”. 영어 원문: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL175 (dexibuprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL175), CC BY-SA 3.0; 확인일 2026-11-19). Dexibuprofen은 COX 억제 계열의 소염진통제(NSAID)로 알려져 있으며, 통증·염증·발열 치료에 사용됩니다.
 
 합지증·단지증 증후군은 유전적 원인의 선천성 사지 기형입니다. 항염증 기전이 발생 과정의 근본 병리를 바꿀 것으로 기대하기 어려워, 기전상 연결고리를 찾지 못했습니다. 높은 예측 점수는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영했을 수 있으나 생물학적 근거는 아니며, 이를 뒷받침하는 임상시험이나 문헌은 없습니다.
 
@@ -96,7 +96,7 @@ ChEMBL(EMBL-EBI)에 등록된 Dexibuprofen의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL175 (dexibuprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL175) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL175 (dexibuprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL175) |
 
 <!-- review:end log -->
 

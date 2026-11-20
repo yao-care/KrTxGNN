@@ -56,7 +56,7 @@ TxGNN 모델은 **불면증(Insomnia)**에 효과가 있을 수 있다고 예측
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Bromperidol의 작용 기전(비공식 번역): “도파민 D2 수용체 길항제” 영어 원문: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL28218 (bromperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL28218), CC BY-SA 3.0; 확인일 2026-11-19). 아래 내용은 약물 계열에 대한 일반 지식에 근거한 추론이며, 이번에 정리한 데이터에서 확인된 사실은 아닙니다. Bromperidol은 부티로페논계 항정신병약으로, 주로 도파민 D2 수용체 길항제로 작용하는 것으로 알려져 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Bromperidol의 작용 기전(비공식 번역): “도파민 D2 수용체 길항제”. 영어 원문: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL28218 (bromperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL28218), CC BY-SA 3.0; 확인일 2026-11-19). 아래 내용은 약물 계열에 대한 일반 지식에 근거한 추론이며, 이번에 정리한 데이터에서 확인된 사실은 아닙니다. Bromperidol은 부티로페논계 항정신병약으로, 주로 도파민 D2 수용체 길항제로 작용하는 것으로 알려져 있습니다.
 
 불면증과의 연결 가능성으로는 D2 길항 작용, 그리고 항히스타민성 또는 세로토닌/아드레날린계 작용이 진정 효과를 낼 수 있다는 점을 생각해 볼 수 있습니다. 그러나 부티로페논계 약물은 일반적으로 진정 작용이 약합니다. 또한 도파민 차단으로 인한 정좌불능(akathisia)과 기타 추체외로 증상은 오히려 수면을 악화시킬 수 있습니다.
 
@@ -93,7 +93,7 @@ TxGNN 점수가 매우 높지만(0.9985) 모델 예측일 뿐이며, 기전이�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL28218 (bromperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL28218) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL28218 (bromperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL28218) |
 
 <!-- review:end log -->
 

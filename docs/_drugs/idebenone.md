@@ -56,7 +56,7 @@ TxGNN 모델은 **간성 포르피린증(Hepatic Porphyria)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Idebenone의 작용 기전(비공식 번역): “항산화제 및 미토콘드리아 전자 전달체” 영어 원문: "Antioxidant and mitochondrial electron carrier" ([ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Idebenone은 합성 단쇄 CoQ10 유사체로, 미토콘드리아 호흡 사슬에서 전자 전달체 및 항산화제로 작용합니다.
+ChEMBL(EMBL-EBI)에 등록된 Idebenone의 작용 기전(비공식 번역): “항산화제 및 미토콘드리아 전자 전달체”. 영어 원문: "Antioxidant and mitochondrial electron carrier" ([ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Idebenone은 합성 단쇄 CoQ10 유사체로, 미토콘드리아 호흡 사슬에서 전자 전달체 및 항산화제로 작용합니다.
 
 간세포의 산화 스트레스를 줄일 수 있다는 점에서 간 질환에 대한 가설적 연결고리는 생각해 볼 수 있습니다. 그러나 이 작용이 헴(heme) 생합성 결함과 연결된다는 근거는 현재 데이터에 없습니다. 따라서 이 예측은 TxGNN 모델(딥러닝)이 산출한 점수이며, 모델이 관련 질환 사이에서 학습한 유사성을 반영할 수 있을 뿐 생물학적 근거는 아니고, 기전적으로 검증되지 않았습니다.
 
@@ -97,7 +97,7 @@ ChEMBL(EMBL-EBI)에 등록된 Idebenone의 작용 기전(비공식 번역): “�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL252556 (idebenone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL252556) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Pancrelipase는 리파아제, 프로테아제, 아밀라아제로 구성된 췌�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Pancrelipase의 작용 기전(비공식 번역): “지방산 가수분해 효소; 전분 가수분해 효소; 폴리펩타이드 가수분해 효소” 영어 원문: "Fatty acids hydrolytic enzyme; Starch hydrolytic enzyme; Polypeptides hydrolytic enzyme" ([ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Pancrelipase는 장관 내에서 작용하는 흡수되지 않는 췌장 소화효소 혼합제(리파아제, 프로테아제, 아밀라아제)이며, 소화불량 및 췌외분비 기능 보조에 사용됩니다.
+ChEMBL(EMBL-EBI)에 등록된 Pancrelipase의 작용 기전(비공식 번역): “지방산 가수분해 효소; 전분 가수분해 효소; 폴리펩타이드 가수분해 효소”. 영어 원문: "Fatty acids hydrolytic enzyme; Starch hydrolytic enzyme; Polypeptides hydrolytic enzyme" ([ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Pancrelipase는 장관 내에서 작용하는 흡수되지 않는 췌장 소화효소 혼합제(리파아제, 프로테아제, 아밀라아제)이며, 소화불량 및 췌외분비 기능 보조에 사용됩니다.
 
 반면 예측된 질환은 세포 내 미토콘드리아 기능 이상으로, 두 영역 사이에서 타당한 기전적 연결고리는 확인되지 않았습니다. 높은 점수(0.9999)는 TxGNN 모델(딥러닝)에서 나온 것으로, 모델이 학습한 관련 질환 간 유사성을 반영할 수 있으며 생물학적 근거를 반영한 것으로 보기는 어렵습니다.
 
@@ -102,7 +102,7 @@ ChEMBL(EMBL-EBI)에 등록된 Pancrelipase의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074) |
 
 <!-- review:end log -->
 

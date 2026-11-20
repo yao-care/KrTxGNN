@@ -55,7 +55,7 @@ TxGNN 모델은 **지루성 피부염(Seborrheic Dermatitis)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Oxymetholone의 작용 기전(비공식 번역): “안드로겐 수용체 작용제” 영어 원문: "Androgen Receptor agonist" ([ChEMBL CHEMBL1200585 (oxymetholone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200585), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Oxymetholone은 안드로겐 수용체에 작용하는 경구용 동화-안드로겐 스테로이드이며, 적혈구 생성 부전에 의한 빈혈 치료에 사용됩니다.
+ChEMBL(EMBL-EBI)에 등록된 Oxymetholone의 작용 기전(비공식 번역): “안드로겐 수용체 작용제”. 영어 원문: "Androgen Receptor agonist" ([ChEMBL CHEMBL1200585 (oxymetholone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200585), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Oxymetholone은 안드로겐 수용체에 작용하는 경구용 동화-안드로겐 스테로이드이며, 적혈구 생성 부전에 의한 빈혈 치료에 사용됩니다.
 
 안드로겐이 피지선 활동을 조절하고, 지루성 피부염이 피지 및 Malassezia 관련 염증과 연관된다는 점에서 연결 고리를 추정해 볼 수는 있습니다. 그러나 이는 검증되지 않은 가설입니다. 오히려 안드로겐은 일반적으로 피지 분비를 늘리므로, 이 논리대로라면 증상 악화 가능성을 시사합니다.
 
@@ -98,7 +98,7 @@ ChEMBL(EMBL-EBI)에 등록된 Oxymetholone의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1200585 (oxymetholone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200585) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1200585 (oxymetholone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200585) |
 
 <!-- review:end log -->
 

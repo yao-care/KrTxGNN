@@ -56,7 +56,7 @@ TxGNN 모델은 **상부 기도·소화관 종양(Upper Aerodigestive Tract Neop
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Dacarbazine의 작용 기전(비공식 번역): “DNA 억제제” 영어 원문: "DNA inhibitor" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Dacarbazine은 간에서 대사 활성화되는 전구약물(prodrug)로, 활성 메틸화 물질(MTIC)이 DNA를 메틸화하여 빠르게 분열하는 세포에 독성을 나타내는 알킬화제입니다.
+ChEMBL(EMBL-EBI)에 등록된 Dacarbazine의 작용 기전(비공식 번역): “DNA 억제제”. 영어 원문: "DNA inhibitor" ([ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Dacarbazine은 간에서 대사 활성화되는 전구약물(prodrug)로, 활성 메틸화 물질(MTIC)이 DNA를 메틸화하여 빠르게 분열하는 세포에 독성을 나타내는 알킬화제입니다.
 
 이런 일반적인 세포독성 효과는 상부 기도·소화관의 편평상피성 또는 점막 종양에도 이론상 적용될 수 있습니다. 그러나 이를 직접 뒷받침하는 근거는 없습니다. 높은 TxGNN 점수는 컴퓨터 예측일 뿐입니다.
 
@@ -134,7 +134,7 @@ ChEMBL(EMBL-EBI)에 등록된 Dacarbazine의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL476 (dacarbazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 모델은 **혈소판 분비 장애(primary release disorder of platelets)
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Lenograstim의 작용 기전(비공식 번역): “과립구 집락 자극 인자 수용체 효능제” 영어 원문: "Granulocyte colony stimulating factor receptor agonist" ([ChEMBL CHEMBL2109128 (lenograstim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109128), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Lenograstim은 재조합 인간 G-CSF로, 호중구 전구세포의 증식과 분화를 촉진하여 과립구 계열에 작용합니다.
+ChEMBL(EMBL-EBI)에 등록된 Lenograstim의 작용 기전(비공식 번역): “과립구 집락 자극 인자 수용체 효능제”. 영어 원문: "Granulocyte colony stimulating factor receptor agonist" ([ChEMBL CHEMBL2109128 (lenograstim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109128), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Lenograstim은 재조합 인간 G-CSF로, 호중구 전구세포의 증식과 분화를 촉진하여 과립구 계열에 작용합니다.
 
 반면 혈소판 방출 장애는 혈소판 과립 내용물이나 방출 경로의 내재적 기능 결함입니다. G-CSF 수용체 신호전달과의 기전적 연관성은 확립되어 있지 않습니다. 따라서 높은 TxGNN 점수(0.9991)는 TxGNN 모델(딥러닝)이 관련 질환 사이에서 학습한 유사성을 반영한 것일 뿐, 생물학적 근거가 아니며 기전적·임상적 근거로 뒷받침되지 않습니다.
 
@@ -105,7 +105,7 @@ TxGNN이 함께 제시한 다른 예측들도 같은 한계를 보입니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL2109128 (lenograstim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109128) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL2109128 (lenograstim): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2109128) |
 
 <!-- review:end log -->
 

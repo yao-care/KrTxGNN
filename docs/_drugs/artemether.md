@@ -55,7 +55,7 @@ TxGNN 모델은 **후천성 혈관부종(acquired angioedema)**에 효과가 있
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Artemether의 작용 기전(비공식 번역): “페리프로토포르피린 IX 억제제” 영어 원문: "Ferriprotoporphyrin IX inhibitor" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; 확인일 2026-11-19). 이번 평가에 사용한 데이터에서는 Artemether와 후천성 혈관부종 사이의 뚜렷한 기전적 연결고리를 확인하지 못했습니다.
+ChEMBL(EMBL-EBI)에 등록된 Artemether의 작용 기전(비공식 번역): “페리프로토포르피린 IX 억제제”. 영어 원문: "Ferriprotoporphyrin IX inhibitor" ([ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534), CC BY-SA 3.0; 확인일 2026-11-19). 이번 평가에 사용한 데이터에서는 Artemether와 후천성 혈관부종 사이의 뚜렷한 기전적 연결고리를 확인하지 못했습니다.
 
 혈관부종은 브래디키닌 또는 보체 경로와 관련되어 있으나, 이는 Artemether의 알려진 표적이 아닙니다. 0.9990이라는 높은 예측 점수는 네트워크 기반의 계산 결과일 뿐이며, 이를 뒷받침하는 임상시험이나 문헌이 없습니다. 따라서 이 예측은 가설 단계로 보아야 합니다.
 
@@ -97,7 +97,7 @@ ChEMBL(EMBL-EBI)에 등록된 Artemether의 작용 기전(비공식 번역): “
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL566534 (artemether): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL566534) |
 
 <!-- review:end log -->
 

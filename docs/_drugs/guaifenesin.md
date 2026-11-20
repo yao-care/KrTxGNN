@@ -55,7 +55,7 @@ TxGNN 모델은 **비강 질환(Nasal Cavity Disease)**에 효과가 있을 수 
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Guaifenesin의 작용 기전(비공식 번역): “알려지지 않음” 영어 원문: "Unknown" ([ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Guaifenesin은 기도 점액을 묽게 하고 배출을 돕는 거담제입니다. 단일 성분 제제로 8건이 허가되어 있으며, 일부는 콧물·코막힘·재채기를 포함한 감기 증상 완화에 사용됩니다.
+ChEMBL(EMBL-EBI)에 등록된 Guaifenesin의 작용 기전(비공식 번역): “알려지지 않음”. 영어 원문: "Unknown" ([ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Guaifenesin은 기도 점액을 묽게 하고 배출을 돕는 거담제입니다. 단일 성분 제제로 8건이 허가되어 있으며, 일부는 콧물·코막힘·재채기를 포함한 감기 증상 완화에 사용됩니다.
 
 비강 질환은 상기도 점액 문제와 관련이 있어, 점액 청소 기능 개선을 통해 기전상 적용 가능할 수 있습니다. 다만 이는 가능성 수준의 추정이며, 이 데이터에서는 기전이 검증되지 않았습니다. TxGNN 점수가 매우 높더라도 이는 계산상의 예측일 뿐 임상적 근거를 대체하지 않습니다.
 
@@ -108,7 +108,7 @@ TxGNN 점수는 매우 높지만 비강 질환에 대한 임상시험이 없고,
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL980 (guaifenesin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL980) |
 
 <!-- review:end log -->
 

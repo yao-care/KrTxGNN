@@ -55,7 +55,7 @@ TxGNN 모델은 **설소 양성 종양(benign neoplasm of tongue)**에 효과가
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Palivizumab의 작용 기전(비공식 번역): “융합 당단백질 F0 억제제” 영어 원문: "Fusion glycoprotein F0 inhibitor" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Palivizumab은 RSV F 단백질에 결합해 바이러스를 중화하는 단일클론항체입니다.
+ChEMBL(EMBL-EBI)에 등록된 Palivizumab의 작용 기전(비공식 번역): “융합 당단백질 F0 억제제”. 영어 원문: "Fusion glycoprotein F0 inhibitor" ([ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Palivizumab은 RSV F 단백질에 결합해 바이러스를 중화하는 단일클론항체입니다.
 
 설소 양성 종양에는 RSV와 관련된 병리나 F 단백질 표적이 알려져 있지 않습니다. 따라서 이 약이 효과를 내려면 아직 확인되지 않은 비표적(off-target) 기전이 필요합니다. 높은 TxGNN 점수(0.9994)는 계산상의 예측일 뿐이며, 기전상 타당성을 입증하지 못합니다.
 
@@ -96,7 +96,7 @@ ChEMBL(EMBL-EBI)에 등록된 Palivizumab의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1201586 (palivizumab): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201586) |
 
 <!-- review:end log -->
 

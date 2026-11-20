@@ -58,7 +58,7 @@ TxGNN 모델은 **원발성 문맥 혈전증(primitive portal vein thrombosis)**
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Doripenem의 작용 기전(비공식 번역): “세균 페니실린 결합 단백질 억제제” 영어 원문: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL491571 (doripenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL491571), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 Doripenem은 세균 세포벽 합성을 억제하는 카바페넴계 항생제로 알려져 있으며, 이 설명은 이번에 정리된 데이터가 아닌 일반 약리 지식에 따른 것입니다.
+ChEMBL(EMBL-EBI)에 등록된 Doripenem의 작용 기전(비공식 번역): “세균 페니실린 결합 단백질 억제제”. 영어 원문: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL491571 (doripenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL491571), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 Doripenem은 세균 세포벽 합성을 억제하는 카바페넴계 항생제로 알려져 있으며, 이 설명은 이번에 정리된 데이터가 아닌 일반 약리 지식에 따른 것입니다.
 
 문맥 혈전증은 혈액 응고·혈류와 관련된 질환으로, 항균 기전과 직접적인 연결고리가 확인되지 않습니다. 굳이 연결한다면 문맥염(pylephlebitis)이나 복강 내 패혈증 같은 감염성 유발 요인을 치료하는 간접적 경로뿐이며, 이는 원발성 문맥 혈전증 자체의 치료를 뒷받침하지 못합니다.
 
@@ -102,7 +102,7 @@ ChEMBL(EMBL-EBI)에 등록된 Doripenem의 작용 기전(비공식 번역): “�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL491571 (doripenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL491571) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL491571 (doripenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL491571) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 모델은 **노출성 각막염(Exposure Keratitis)**에 효과가 있을 
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Fusidic Acid의 작용 기전(비공식 번역): “신장인자 G 억제제” 영어 원문: "Elongation factor G inhibitor" ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Fusidic acid는 세균의 신장인자 G(elongation factor G)를 억제하는 항생제로, 포도상구균 등 그람양성균에 주로 활성을 보입니다.
+ChEMBL(EMBL-EBI)에 등록된 Fusidic Acid의 작용 기전(비공식 번역): “신장인자 G 억제제”. 영어 원문: "Elongation factor G inhibitor" ([ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Fusidic acid는 세균의 신장인자 G(elongation factor G)를 억제하는 항생제로, 포도상구균 등 그람양성균에 주로 활성을 보입니다.
 
 노출성 각막염은 눈꺼풀이 완전히 닫히지 않아 각막 표면이 손상되는 질환입니다. 손상된 각막에 이차 세균 감염이 생길 수 있으므로, 이론적으로는 항균제가 표적이 될 수 있습니다.
 
@@ -116,7 +116,7 @@ ChEMBL(EMBL-EBI)에 등록된 Fusidic Acid의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975) |
 
 <!-- review:end log -->
 

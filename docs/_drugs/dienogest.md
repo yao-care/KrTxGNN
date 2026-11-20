@@ -55,7 +55,7 @@ TxGNN 모델은 **무월경(amenorrhea)**에 효과가 있을 수 있다고 예�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Dienogest의 작용 기전(비공식 번역): “알려지지 않음” 영어 원문: "Unknown" ([ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Dienogest는 19-노르테스토스테론 유래 프로게스틴으로, 자궁내막에 강한 프로게스토겐 및 항증식 작용을 나타냅니다. 배란을 부분적으로 억제하고 자궁내막 위축을 유도합니다.
+ChEMBL(EMBL-EBI)에 등록된 Dienogest의 작용 기전(비공식 번역): “알려지지 않음”. 영어 원문: "Unknown" ([ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Dienogest는 19-노르테스토스테론 유래 프로게스틴으로, 자궁내막에 강한 프로게스토겐 및 항증식 작용을 나타냅니다. 배란을 부분적으로 억제하고 자궁내막 위축을 유도합니다.
 
 무월경은 Dienogest 사용 시 흔히 나타나는 약리학적 효과입니다(예: 자궁내막증 치료 중). 따라서 약물과 월경 변화 사이의 생물학적 연관성은 있습니다. 그러나 무월경은 치료 대상이라기보다 **예상되는 작용 또는 이상반응**에 가깝습니다. 에스트로겐 결핍으로 인한 이차성 무월경에 프로게스틴을 단독으로 쓰는 것은 근거가 없으며, 저에스트로겐 상태를 악화시킬 수도 있습니다. 높은 예측 점수는 치료 효과보다 약물과 월경 변화의 연관성을 반영했을 가능성이 큽니다.
 
@@ -120,7 +120,7 @@ ChEMBL(EMBL-EBI)에 등록된 Dienogest의 작용 기전(비공식 번역): “�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1201864 (dienogest): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201864) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 모델은 **건염(Tendinitis)**에 효과가 있을 수 있다고 예측�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Dexketoprofen의 작용 기전(비공식 번역): “사이클로옥시게나제 억제제” 영어 원문: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 덱스케토프로펜은 COX-1/COX-2를 억제하는 NSAID입니다. 프로스타글란딘 매개 염증과 통증을 줄이므로 힘줄 염증(건염)의 증상 완화에도 적용될 가능성이 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Dexketoprofen의 작용 기전(비공식 번역): “사이클로옥시게나제 억제제”. 영어 원문: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 덱스케토프로펜은 COX-1/COX-2를 억제하는 NSAID입니다. 프로스타글란딘 매개 염증과 통증을 줄이므로 힘줄 염증(건염)의 증상 완화에도 적용될 가능성이 있습니다.
 
 다만 근거는 간접적입니다. 확인된 문헌은 응급실에서 비외상성 근골격계 통증 환자를 대상으로 정맥 투여 덱스케토프로펜과 파라세타몰을 비교한 연구 1건뿐이며, 건염 환자만을 대상으로 한 연구가 아닙니다. 따라서 TxGNN의 높은 점수는 계산상의 예측으로 보는 것이 안전합니다.
 
@@ -103,7 +103,7 @@ ChEMBL(EMBL-EBI)에 등록된 Dexketoprofen의 작용 기전(비공식 번역): 
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435) |
 
 <!-- review:end log -->
 

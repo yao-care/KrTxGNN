@@ -58,7 +58,7 @@ TxGNN 모델은 **이소트레티노인 유사 증후군(isotretinoin-like syndr
 
 ## 이 예측이 타당한 이유는?
 
-현재 이 예측을 설명할 만한 기전적 연결고리는 확인되지 않습니다. ChEMBL(EMBL-EBI)에 등록된 Carbetocin의 작용 기전(비공식 번역): “옥시토신 수용체 작용제” 영어 원문: "Oxytocin receptor agonist" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 carbetocin은 자궁 평활근의 옥시토신 수용체(OXTR)에 작용하는 작용제(agonist)이며, 자궁 수축을 유도해 산후출혈을 예방합니다.
+현재 이 예측을 설명할 만한 기전적 연결고리는 확인되지 않습니다. ChEMBL(EMBL-EBI)에 등록된 Carbetocin의 작용 기전(비공식 번역): “옥시토신 수용체 작용제”. 영어 원문: "Oxytocin receptor agonist" ([ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 carbetocin은 자궁 평활근의 옥시토신 수용체(OXTR)에 작용하는 작용제(agonist)이며, 자궁 수축을 유도해 산후출혈을 예방합니다.
 
 이소트레티노인 유사 증후군(레티노산 배아병증)은 발달 과정에서 레티노이드 신호가 교란되어 생기는 기형 증후군입니다. 옥시토신 수용체 작용과 이 질환 사이에 이어지는 경로는 보이지 않으며, 선천성 기형 증후군은 자궁수축제의 일반적인 치료 표적도 아닙니다.
 
@@ -98,7 +98,7 @@ TxGNN 모델은 **이소트레티노인 유사 증후군(isotretinoin-like syndr
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL3301668 (carbetocin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3301668) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 모델은 **파라티푸스열(paratyphoid fever)**에 효과가 있을 �
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Bismuth Subsalicylate의 작용 기전(비공식 번역): “사이클로옥시게나제 억제제” 영어 원문: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL1120 (bismuth subsalicylate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1120), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 bismuth subsalicylate는 장관 내에서 세균에 결합해 사멸시키고 장 분비를 줄이는 것으로 알려져 있습니다. 이 때문에 장내 그람음성 병원체인 살모넬라에도 이론상 작용할 수 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Bismuth Subsalicylate의 작용 기전(비공식 번역): “사이클로옥시게나제 억제제”. 영어 원문: "Cyclooxygenase inhibitor" ([ChEMBL CHEMBL1120 (bismuth subsalicylate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1120), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 bismuth subsalicylate는 장관 내에서 세균에 결합해 사멸시키고 장 분비를 줄이는 것으로 알려져 있습니다. 이 때문에 장내 그람음성 병원체인 살모넬라에도 이론상 작용할 수 있습니다.
 
 그러나 파라티푸스열은 장관 내에만 머무는 감염이 아니라 전신으로 퍼지는 침습성 감염(장열)입니다. 이 약은 비스무트의 전신 흡수가 거의 없어서, 장관 내 효과가 전신 감염 치료로 이어지기 어렵습니다. 따라서 이번 예측은 TxGNN 점수에만 의존하고 있으며, 기전상 연관성은 "그럴듯하나 제한적"인 수준입니다.
 
@@ -100,7 +100,7 @@ ChEMBL(EMBL-EBI)에 등록된 Bismuth Subsalicylate의 작용 기전(비공식 �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1120 (bismuth subsalicylate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1120) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1120 (bismuth subsalicylate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1120) |
 
 <!-- review:end log -->
 

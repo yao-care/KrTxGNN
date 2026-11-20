@@ -55,7 +55,7 @@ TxGNN 모델은 **옵시스모이형성증(Opsismodysplasia)**에 효과가 있�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Anagliptin의 작용 기전(비공식 번역): “디펩티딜 펩티다아제 IV 저해제” 영어 원문: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL1929396 (anagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1929396), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Anagliptin은 DPP-4(dipeptidyl peptidase 4)를 표적으로 하는 억제제이며, 인크레틴 분해를 억제하는 방식으로 제2형 당뇨병에서 사용됩니다. 일본에서 승인되어 있고, 한국에는 단일제와 메트포르민 복합제가 허가되어 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Anagliptin의 작용 기전(비공식 번역): “디펩티딜 펩티다아제 IV 저해제”. 영어 원문: "Dipeptidyl peptidase IV inhibitor" ([ChEMBL CHEMBL1929396 (anagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1929396), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Anagliptin은 DPP-4(dipeptidyl peptidase 4)를 표적으로 하는 억제제이며, 인크레틴 분해를 억제하는 방식으로 제2형 당뇨병에서 사용됩니다. 일본에서 승인되어 있고, 한국에는 단일제와 메트포르민 복합제가 허가되어 있습니다.
 
 옵시스모이형성증은 INPPL1(SHIP2) 기능 소실 변이로 발생하는 희귀 골격이형성증으로, PI3K/AKT 신호전달과 뼈 성장에 영향을 줍니다. DPP-4 억제와 INPPL1 기능, 골격 발달을 잇는 알려진 경로는 없습니다. 따라서 기전상 연관성은 확립되지 않았으며, 높은 TxGNN 점수(0.994)는 계산상의 예측일 뿐입니다.
 
@@ -108,7 +108,7 @@ ChEMBL(EMBL-EBI)에 등록된 Anagliptin의 작용 기전(비공식 번역): “
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1929396 (anagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1929396) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1929396 (anagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1929396) |
 
 <!-- review:end log -->
 

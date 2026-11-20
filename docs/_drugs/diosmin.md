@@ -55,7 +55,7 @@ TxGNN 모델은 **무월경(Amenorrhea)**에 효과가 있을 수 있다고 예�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Diosmin의 작용 기전(비공식 번역): “알려지지 않음” 영어 원문: "Unknown" ([ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 Diosmin은 정맥 긴장도를 높이고 모세혈관 투과성을 줄이며 항염증 작용을 나타내는 정맥활성 플라보노이드로 알려져 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Diosmin의 작용 기전(비공식 번역): “알려지지 않음”. 영어 원문: "Unknown" ([ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 Diosmin은 정맥 긴장도를 높이고 모세혈관 투과성을 줄이며 항염증 작용을 나타내는 정맥활성 플라보노이드로 알려져 있습니다.
 
 그러나 이러한 작용은 무월경의 원인, 즉 시상하부-뇌하수체-난소 축 이상, 다낭성 난소 증후군(PCOS), 자궁 또는 유출로 구조 이상과 확립된 연관성이 없습니다. 이번에 정리한 데이터에서는 기전상의 연결고리를 확인할 수 없습니다.
 
@@ -97,7 +97,7 @@ TxGNN 점수(0.9942)는 계산상의 예측일 뿐이며, 임상시험이나 문
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884) |
 
 <!-- review:end log -->
 

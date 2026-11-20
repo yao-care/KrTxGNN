@@ -54,7 +54,7 @@ Pentobarbital은 한국에서 주사용 앰플제(엔토발주100밀리그램)�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Pentobarbital의 작용 기전(비공식 번역): “GABA-A 수용체; 음이온 채널 양성 알로스테릭 조절제” 영어 원문: "GABA-A receptor; anion channel positive allosteric modulator" ([ChEMBL CHEMBL448 (pentobarbital): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL448), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 Pentobarbital은 GABA-A 수용체를 통해 중추신경을 억제하는 바르비투르산계 약물로 알려져 있으나, 이는 이번 데이터에 포함된 정보가 아니며 비만 치료와의 연결고리도 확인되지 않았습니다.
+ChEMBL(EMBL-EBI)에 등록된 Pentobarbital의 작용 기전(비공식 번역): “GABA-A 수용체; 음이온 채널 양성 알로스테릭 조절제”. 영어 원문: "GABA-A receptor; anion channel positive allosteric modulator" ([ChEMBL CHEMBL448 (pentobarbital): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL448), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 Pentobarbital은 GABA-A 수용체를 통해 중추신경을 억제하는 바르비투르산계 약물로 알려져 있으나, 이는 이번 데이터에 포함된 정보가 아니며 비만 치료와의 연결고리도 확인되지 않았습니다.
 
 검토된 문헌에서 Pentobarbital은 주로 비만 쥐·토끼·생쥐 실험에서 마취 또는 수면 유도 목적으로 사용되었을 뿐, 비만 치료제로 평가된 것이 아닙니다. 시상하부 지방 조절, 인슐린 동태, 렙틴 유사 펩타이드, 당뇨병성 심장 기능 등을 다룬 연구들도 Pentobarbital의 비만 치료 효과와는 관련이 없습니다.
 
@@ -125,7 +125,7 @@ ChEMBL(EMBL-EBI)에 등록된 Pentobarbital의 작용 기전(비공식 번역): 
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL448 (pentobarbital): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL448) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL448 (pentobarbital): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL448) |
 
 <!-- review:end log -->
 

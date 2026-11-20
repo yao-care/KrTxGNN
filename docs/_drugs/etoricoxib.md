@@ -55,7 +55,7 @@ TxGNN 모델은 **편두통(Migraine Disorder)**에 효과가 있을 수 있다�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Etoricoxib의 작용 기전(비공식 번역): “사이클로옥시게나제-2 억제제” 영어 원문: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; 확인일 2026-11-19). 다만 약리학 자료에 따르면 Etoricoxib은 COX-2(PTGS2)를 표적으로 하는 선택적 억제제입니다. COX-2 억제는 프로스타글란딘 E2(PGE2) 합성을 줄여 염증과 통증을 완화합니다.
+ChEMBL(EMBL-EBI)에 등록된 Etoricoxib의 작용 기전(비공식 번역): “사이클로옥시게나제-2 억제제”. 영어 원문: "Cyclooxygenase-2 inhibitor" ([ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146), CC BY-SA 3.0; 확인일 2026-11-19). 다만 약리학 자료에 따르면 Etoricoxib은 COX-2(PTGS2)를 표적으로 하는 선택적 억제제입니다. COX-2 억제는 프로스타글란딘 E2(PGE2) 합성을 줄여 염증과 통증을 완화합니다.
 
 편두통은 프로스타글란딘 및 신경인성 염증과 관련된 통증 질환이어서, COX-2 억제가 기전상 적용될 가능성이 있습니다. 다만 현재 제공된 문헌은 Etoricoxib의 편두통 효능을 직접 다룬 연구가 아니므로, 이 연관성은 가설 수준입니다.
 
@@ -130,7 +130,7 @@ ChEMBL(EMBL-EBI)에 등록된 Etoricoxib의 작용 기전(비공식 번역): “
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL416146 (etoricoxib): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL416146) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ TxGNN 모델은 **두피 단순 저모발증(hypotrichosis simplex of the scalp)
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Minoxidil의 작용 기전(비공식 번역): “Sulfonylurea 수용체 2, Kir6.2 개방제” 영어 원문: "Sulfonylurea receptor 2, Kir6.2 opener" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Minoxidil은 활성 대사체인 minoxidil sulfate를 통해 ATP 민감성 칼륨 채널을 열고, 성장기(anagen)를 연장하며, 모낭 혈관 확장과 VEGF 발현을 촉진하는 것으로 알려져 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Minoxidil의 작용 기전(비공식 번역): “Sulfonylurea 수용체 2, Kir6.2 개방제”. 영어 원문: "Sulfonylurea receptor 2, Kir6.2 opener" ([ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Minoxidil은 활성 대사체인 minoxidil sulfate를 통해 ATP 민감성 칼륨 채널을 열고, 성장기(anagen)를 연장하며, 모낭 혈관 확장과 VEGF 발현을 촉진하는 것으로 알려져 있습니다.
 
 두피 단순 저모발증은 CDSN 유전자 변이와 관련된 드문 상염색체 우성 유전 질환으로, 비흉터성 모발 가늘어짐을 보입니다. 모낭 성장을 자극하는 기전은 이 질환에도 적용될 수 있습니다. 그러나 이는 가설적 연결이며, 확립된 치료법이 아직 없는 질환이라는 점도 문헌에서 언급됩니다.
 
@@ -115,7 +115,7 @@ ChEMBL(EMBL-EBI)에 등록된 Minoxidil의 작용 기전(비공식 번역): “S
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
 
 <!-- review:end log -->
 

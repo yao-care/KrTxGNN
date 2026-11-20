@@ -54,7 +54,7 @@ Streptokinase는 플라스미노겐을 활성화해 혈전을 녹이는 혈전�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Streptokinase의 작용 기전(비공식 번역): “플라스미노겐 활성화제” 영어 원문: "Plasminogen activator" ([ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147), CC BY-SA 3.0; 확인일 2026-11-19). 검토된 문헌에 따르면 streptokinase는 플라스미노겐을 플라스민으로 전환하고, 플라스민이 혈전의 피브린을 분해합니다. 그래서 심근경색, 말초동맥 폐색, 폐색전증 같은 혈전성 질환에 쓰여 왔습니다.
+ChEMBL(EMBL-EBI)에 등록된 Streptokinase의 작용 기전(비공식 번역): “플라스미노겐 활성화제”. 영어 원문: "Plasminogen activator" ([ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147), CC BY-SA 3.0; 확인일 2026-11-19). 검토된 문헌에 따르면 streptokinase는 플라스미노겐을 플라스민으로 전환하고, 플라스민이 혈전의 피브린을 분해합니다. 그래서 심근경색, 말초동맥 폐색, 폐색전증 같은 혈전성 질환에 쓰여 왔습니다.
 
 프린츠메탈 협심증과의 연결고리는 혈전입니다. 불안정 허혈 증후군에서 관상동맥 내 혈전이 관찰된 바 있고, 변이형 협심증 환자에게 심근경색이 생겨 streptokinase로 치료한 증례도 보고되었습니다. 다만 이 질환의 본질은 관상동맥 연축(vasospasm)이며, 표준 치료는 칼슘채널차단제와 질산염 같은 혈관확장제입니다. 혈전용해는 합병증인 심근경색에만 관련될 뿐 기저 질환에는 작용하지 않습니다. 높은 예측 점수는 이 약이 심근경색에 쓰여 온 이력을 반영한 것일 가능성이 큽니다.
 
@@ -114,7 +114,7 @@ ChEMBL(EMBL-EBI)에 등록된 Streptokinase의 작용 기전(비공식 번역): 
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL2108147 (streptokinase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108147) |
 
 <!-- review:end log -->
 

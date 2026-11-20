@@ -56,7 +56,7 @@ TxGNN 모델은 **원인이 불분명한 다요인성 폐고혈압(pulmonary hyp
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Cilazapril의 작용 기전(비공식 번역): “안지오텐신 전환효소 억제제” 영어 원문: "Angiotensin-converting enzyme inhibitor" ([ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 알려진 ACE 억제제의 약리에 따르면, cilazapril은 안지오텐신 II의 생성을 줄여 혈관 수축과 혈관 리모델링을 완화할 수 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Cilazapril의 작용 기전(비공식 번역): “안지오텐신 전환효소 억제제”. 영어 원문: "Angiotensin-converting enzyme inhibitor" ([ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 알려진 ACE 억제제의 약리에 따르면, cilazapril은 안지오텐신 II의 생성을 줄여 혈관 수축과 혈관 리모델링을 완화할 수 있습니다.
 
 폐동맥에서도 이러한 혈관 긴장도와 구조 변화가 병태에 관여할 수 있어, 기전상 폐고혈압에 적용될 가능성은 있습니다. 그러나 이는 일반적인 약리 원리에 근거한 추정일 뿐이며, 이 질환을 직접 다룬 연구로 확인된 바는 없습니다.
 
@@ -97,7 +97,7 @@ TxGNN 점수는 높지만 이 질환을 직접 다룬 임상시험이나 문헌�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL515606 (cilazapril): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL515606) |
 
 <!-- review:end log -->
 

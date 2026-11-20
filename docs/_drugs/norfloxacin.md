@@ -54,7 +54,7 @@ Norfloxacin은 플루오로퀴놀론 계열 항균제로, 한국에서 단일 �
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Norfloxacin의 작용 기전(비공식 번역): “토포이소머라제 IV 억제제; 세균 DNA 자이레이스 억제제” 영어 원문: "Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 norfloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 항균제로 알려져 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Norfloxacin의 작용 기전(비공식 번역): “토포이소머라제 IV 억제제; 세균 DNA 자이레이스 억제제”. 영어 원문: "Topoisomerase IV inhibitor; Bacterial DNA gyrase inhibitor" ([ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 norfloxacin은 세균의 DNA gyrase와 topoisomerase IV를 억제하는 항균제로 알려져 있습니다.
 
 고아밀라제혈증은 췌장, 침샘, 신장 등 여러 원인으로 나타나는 검사실 소견이며, 감염 자체를 적응증으로 하는 질환이 아닙니다. 항균제의 작용 기전과 이 질환 사이에서 뚜렷한 연결고리는 확인되지 않습니다. 높은 TxGNN 점수는 TxGNN 모델(딥러닝)에서 나온 예측일 뿐이며, 관련 질환 사이에서 모델이 학습한 유사성을 반영할 수 있으나 생물학적 근거는 아닙니다. 이를 지지하는 데이터는 없습니다.
 
@@ -112,7 +112,7 @@ ChEMBL(EMBL-EBI)에 등록된 Norfloxacin의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL9 (norfloxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL9) |
 
 <!-- review:end log -->
 

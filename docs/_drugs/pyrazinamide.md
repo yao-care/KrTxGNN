@@ -56,7 +56,7 @@ TxGNN 모델은 **감염성 중이염(Infectious Otitis Media)**에 효과가 �
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Pyrazinamide의 작용 기전(비공식 번역): “지방산 합성효소 억제제; 70S 리보솜 억제제” 영어 원문: "Fatty acid synthase inhibitor; 70S ribosome inhibitor" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Pyrazinamide는 결핵균(*Mycobacterium tuberculosis*)에 활성을 가진 살균성 항마이코박테리아제이며, 병용 항결핵 요법의 구성 성분으로 사용됩니다.
+ChEMBL(EMBL-EBI)에 등록된 Pyrazinamide의 작용 기전(비공식 번역): “지방산 합성효소 억제제; 70S 리보솜 억제제”. 영어 원문: "Fatty acid synthase inhibitor; 70S ribosome inhibitor" ([ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면, Pyrazinamide는 결핵균(*Mycobacterium tuberculosis*)에 활성을 가진 살균성 항마이코박테리아제이며, 병용 항결핵 요법의 구성 성분으로 사용됩니다.
 
 따라서 이 예측은 **결핵성 중이염**이라는 드문 아형에 한해서만 기전상 의미가 있습니다. 일반적인 세균성·바이러스성 중이염 병원체에는 활성이 없어, 높은 TxGNN 점수는 임상적·문헌적 뒷받침이 없는 모델 예측일 뿐입니다.
 
@@ -116,7 +116,7 @@ ChEMBL(EMBL-EBI)에 등록된 Pyrazinamide의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL614 (pyrazinamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL614) |
 
 <!-- review:end log -->
 

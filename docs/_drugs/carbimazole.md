@@ -54,7 +54,7 @@ Carbimazole은 메티마졸(methimazole)의 전구약물로, 한국에서 항갑
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Carbimazole의 작용 기전(비공식 번역): “갑상선 과산화효소 억제제” 영어 원문: "Thyroid peroxidase inhibitor" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Carbimazole은 메티마졸의 전구약물로, 갑상선 과산화효소(thyroid peroxidase)를 억제하여 갑상선호르몬 합성을 줄입니다. 따라서 호르몬 과잉 상태인 갑상선기능항진증에서 효능이 기대됩니다.
+ChEMBL(EMBL-EBI)에 등록된 Carbimazole의 작용 기전(비공식 번역): “갑상선 과산화효소 억제제”. 영어 원문: "Thyroid peroxidase inhibitor" ([ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Carbimazole은 메티마졸의 전구약물로, 갑상선 과산화효소(thyroid peroxidase)를 억제하여 갑상선호르몬 합성을 줄입니다. 따라서 호르몬 과잉 상태인 갑상선기능항진증에서 효능이 기대됩니다.
 
 갑상선호르몬 불응증(RTH-beta)은 TR-beta 변이 때문에 조직이 갑상선호르몬에 잘 반응하지 않아 TSH와 T3/T4가 모두 높아지는 질환입니다. 호르몬 합성을 억제하면 이론상 T4 수치는 낮아질 수 있습니다.
 
@@ -105,7 +105,7 @@ ChEMBL(EMBL-EBI)에 등록된 Carbimazole의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL508102 (carbimazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL508102) |
 
 <!-- review:end log -->
 

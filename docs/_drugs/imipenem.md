@@ -54,7 +54,7 @@ Imipenem은 세균 세포벽 합성을 억제하는 카바페넴계 항생제입
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Imipenem의 작용 기전(비공식 번역): “세균 페니실린 결합 단백질 억제제” 영어 원문: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 Imipenem은 세균의 페니실린 결합 단백질(PBP)을 억제해 세포벽 합성을 막고 균을 죽이는 광범위 항생제입니다.
+ChEMBL(EMBL-EBI)에 등록된 Imipenem의 작용 기전(비공식 번역): “세균 페니실린 결합 단백질 억제제”. 영어 원문: "Bacterial penicillin-binding protein inhibitor" ([ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708), CC BY-SA 3.0; 확인일 2026-11-19). 일반적으로 Imipenem은 세균의 페니실린 결합 단백질(PBP)을 억제해 세포벽 합성을 막고 균을 죽이는 광범위 항생제입니다.
 
 미만성 피부경화증은 자가면역 기전과 섬유화가 핵심인 질환입니다. 항균 작용으로 이 질환을 설명할 만한 기전적 연결고리는 확인되지 않았습니다. 예측 점수가 높더라도 이는 모델 내부의 연관성에서 나온 값일 뿐, 이를 지지하는 임상시험이나 문헌이 없습니다. 따라서 현 단계에서 이 예측은 가설 수준으로만 볼 수 있습니다.
 
@@ -103,7 +103,7 @@ ChEMBL(EMBL-EBI)에 등록된 Imipenem의 작용 기전(비공식 번역): “�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
 
 <!-- review:end log -->
 

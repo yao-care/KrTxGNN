@@ -56,7 +56,7 @@ TxGNN 모델은 **신장성 항이뇨호르몬 부적절 분비 증후군(Nephro
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Domperidone의 작용 기전(비공식 번역): “도파민 D2 수용체 길항제” 영어 원문: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; 확인일 2026-11-19). 약리학 데이터에 따르면 Domperidone은 도파민 D2 수용체(DRD2)와 D3 수용체(DRD3)를 표적으로 하는 말초 도파민 길항제이며, 소화불량, 속쓰림, 상복부 통증, 오심, 구토 관리에 사용됩니다.
+ChEMBL(EMBL-EBI)에 등록된 Domperidone의 작용 기전(비공식 번역): “도파민 D2 수용체 길항제”. 영어 원문: "Dopamine D2 receptor antagonist" ([ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916), CC BY-SA 3.0; 확인일 2026-11-19). 약리학 데이터에 따르면 Domperidone은 도파민 D2 수용체(DRD2)와 D3 수용체(DRD3)를 표적으로 하는 말초 도파민 길항제이며, 소화불량, 속쓰림, 상복부 통증, 오심, 구토 관리에 사용됩니다.
 
 NSIAD는 바소프레신 V2 수용체(AVPR2)의 기능 획득 돌연변이로 인해 바소프레신이 억제된 상태에서도 신장이 물을 과도하게 재흡수하는 질환입니다. 도파민 신호가 신장의 수분 처리나 V2 수용체 하위 신호에 영향을 주는 경로가 있다면 연관성을 설명할 수 있으나, 이는 추정일 뿐 이번 자료로 뒷받침되지 않습니다.
 
@@ -102,7 +102,7 @@ TxGNN 점수는 매우 높지만 임상시험과 문헌이 전혀 없고(L5), �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
 
 <!-- review:end log -->
 

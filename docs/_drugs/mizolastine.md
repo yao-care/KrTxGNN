@@ -56,7 +56,7 @@ TxGNN 모델은 **급성 간헐성 포르피린증(Acute Intermittent Porphyria)
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Mizolastine의 작용 기전(비공식 번역): “Histamine H1 수용체 길항제” 영어 원문: "Histamine H1 receptor antagonist" ([ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Mizolastine은 H1 수용체(HRH1)를 표적으로 하는 2세대 항히스타민제이며, 알레르기 질환 치료제로 세계 여러 나라에서 사용됩니다. 미국에서는 승인되지 않았습니다.
+ChEMBL(EMBL-EBI)에 등록된 Mizolastine의 작용 기전(비공식 번역): “Histamine H1 수용체 길항제”. 영어 원문: "Histamine H1 receptor antagonist" ([ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Mizolastine은 H1 수용체(HRH1)를 표적으로 하는 2세대 항히스타민제이며, 알레르기 질환 치료제로 세계 여러 나라에서 사용됩니다. 미국에서는 승인되지 않았습니다.
 
 급성 간헐성 포르피린증은 헤me 생합성 경로의 포르포빌리노겐 탈아미노효소 결핍으로 생기는 대사 질환입니다. H1 수용체 차단과 이 경로 사이에 확립된 기전적 연결고리는 확인되지 않습니다. 항히스타민제는 일반적으로 이 질환의 관리에 사용되지 않으며, 포르피린증 환자에서 Mizolastine의 안전성(포르피린 생성 유발 가능성)도 평가된 적이 없습니다.
 
@@ -95,7 +95,7 @@ ChEMBL(EMBL-EBI)에 등록된 Mizolastine의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL94454 (mizolastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL94454) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Lonoctocog alfa는 B 도메인이 제거된 단일 사슬 재조합 혈액응고
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Lonoctocog Alfa의 작용 기전(비공식 번역): “혈액응고인자 VIII 외인성 단백질” 영어 원문: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Lonoctocog alfa는 재조합 단일 사슬 혈액응고인자 VIII로, 응고 경로에서 인자 IXa의 보조인자로 작용하여 인자 X 활성화를 돕습니다.
+ChEMBL(EMBL-EBI)에 등록된 Lonoctocog Alfa의 작용 기전(비공식 번역): “혈액응고인자 VIII 외인성 단백질”. 영어 원문: "Coagulation factor VIII exogenous protein" ([ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 Lonoctocog alfa는 재조합 단일 사슬 혈액응고인자 VIII로, 응고 경로에서 인자 IXa의 보조인자로 작용하여 인자 X 활성화를 돕습니다.
 
 가성 폰빌레브란트병(혈소판형 VWD)은 혈소판 GPIbα의 기능 획득 결함으로 폰빌레브란트인자(VWF)와의 결합이 과도해지고, 고분자량 VWF 다량체가 소실되어 출혈 경향이 나타나는 질환입니다. 이 경우 인자 VIII 수치는 VWF 감소에 따라 이차적으로 경도 저하될 뿐이며, 인자 VIII 보충은 근본 결함인 혈소판 GPIbα 이상을 교정하지 못합니다.
 
@@ -95,7 +95,7 @@ ChEMBL(EMBL-EBI)에 등록된 Lonoctocog Alfa의 작용 기전(비공식 번역)
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL4594603 (lonoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL4594603) |
 
 <!-- review:end log -->
 

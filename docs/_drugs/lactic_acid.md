@@ -56,7 +56,7 @@ TxGNN 모델은 **비정형 대동맥 협착증(atypical coarctation of aorta)**
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Lactic Acid의 작용 기전(비공식 번역): “pH 저하제” 영어 원문: "pH lowering agent" ([ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559), CC BY-SA 3.0; 확인일 2026-11-19). 젖산은 체내에서 생성되는 내인성 대사산물이며, 한국에서는 헤모졸비제로액이라는 액상제제의 성분으로 허가되어 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Lactic Acid의 작용 기전(비공식 번역): “pH 저하제”. 영어 원문: "pH lowering agent" ([ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559), CC BY-SA 3.0; 확인일 2026-11-19). 젖산은 체내에서 생성되는 내인성 대사산물이며, 한국에서는 헤모졸비제로액이라는 액상제제의 성분으로 허가되어 있습니다.
 
 비정형 대동맥 협착증은 선천성 구조 이상입니다. 저분자 대사산물이 이런 구조적 결함을 교정한다고 보기는 어렵습니다. 이번 예측 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 모델이 학습한 관련 질환 간 유사성을 반영했을 수 있을 뿐 생물학적 근거는 아닙니다. 기전상 연결고리도 확인되지 않았습니다.
 
@@ -123,7 +123,7 @@ TxGNN 점수는 0.9959로 높지만 임상시험과 직접 관련 문헌이 없�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559) |
 
 <!-- review:end log -->
 

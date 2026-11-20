@@ -55,7 +55,7 @@ TxGNN 모델은 **무월경(amenorrhea)**에 효과가 있을 수 있다고 예�
 
 ## 이 예측이 타당한 이유는?
 
-ChEMBL(EMBL-EBI)에 등록된 Desogestrel의 작용 기전(비공식 번역): “프로게스테론 수용체 작용제” 영어 원문: "Progesterone receptor agonist" ([ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 desogestrel은 성선자극호르몬 분비를 억제하고 주기 조절 작용을 하는 프로제스틴입니다. 시상하부성 소발현·무월경에서는 외인성 성호르몬을 보충하고 골밀도를 보호하는 목적으로 에티닐에스트라디올과의 복합제가 사용되므로, 생물학적으로는 그럴듯한 연결이 있습니다.
+ChEMBL(EMBL-EBI)에 등록된 Desogestrel의 작용 기전(비공식 번역): “프로게스테론 수용체 작용제”. 영어 원문: "Progesterone receptor agonist" ([ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533), CC BY-SA 3.0; 확인일 2026-11-19). 알려진 정보에 따르면 desogestrel은 성선자극호르몬 분비를 억제하고 주기 조절 작용을 하는 프로제스틴입니다. 시상하부성 소발현·무월경에서는 외인성 성호르몬을 보충하고 골밀도를 보호하는 목적으로 에티닐에스트라디올과의 복합제가 사용되므로, 생물학적으로는 그럴듯한 연결이 있습니다.
 
 다만 이 연결은 desogestrel 단독이 아니라 복합 경구피임제에 대한 근거에 기반합니다. 피임과 무월경 치료는 모두 호르몬 주기 조절이라는 공통 축이 있으나, desogestrel 단독 요법이 무월경에 효과적이라는 직접적 증거는 이번 자료에 없습니다.
 
@@ -120,7 +120,7 @@ ChEMBL(EMBL-EBI)에 등록된 Desogestrel의 작용 기전(비공식 번역): �
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533) |
+| 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 (2026-11-20 수정, 이전 판은 기록에 보존) | [ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533) |
 
 <!-- review:end log -->
 
