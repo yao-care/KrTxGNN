@@ -446,7 +446,7 @@
     "l": "L3",
     "i": "staphylococcus aureus infection",
     "lt": 13,
-    "lv": 11,
+    "lv": 10,
     "r": 0,
     "rs": "",
     "x": 0
@@ -2321,17 +2321,6 @@
     "x": 0
    },
    {
-    "t": "Ascorbic Acid",
-    "u": "/drugs/ascorbic-acid/",
-    "l": "L5",
-    "i": "비증후군성 식도 기형",
-    "lt": 0,
-    "lv": 19,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
     "t": "Calcitriol",
     "u": "/drugs/calcitriol/",
     "l": "L5",
@@ -2413,17 +2402,6 @@
     "u": "/drugs/fenofibrate/",
     "l": "L5",
     "i": "cholesterol-ester transfer protein deficiency",
-    "lt": 0,
-    "lv": 19,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
-    "t": "Fentanyl",
-    "u": "/drugs/fentanyl/",
-    "l": "L5",
-    "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 0,
     "lv": 19,
     "r": 1,
@@ -2640,6 +2618,17 @@
     "x": 0
    },
    {
+    "t": "Ascorbic Acid",
+    "u": "/drugs/ascorbic-acid/",
+    "l": "L5",
+    "i": "비증후군성 식도 기형",
+    "lt": 0,
+    "lv": 18,
+    "r": 1,
+    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "x": 0
+   },
+   {
     "t": "Cholecalciferol",
     "u": "/drugs/cholecalciferol/",
     "l": "L5",
@@ -2681,6 +2670,17 @@
     "lv": 18,
     "r": 1,
     "rs": "삭제: “한국에는 단일제 20건이 모두 유효 상태로 허가되어 있습니다(취소 0건, 복합제 0건). 이 중 일부는 수출용 허가입니다”",
+    "x": 0
+   },
+   {
+    "t": "Fentanyl",
+    "u": "/drugs/fentanyl/",
+    "l": "L5",
+    "i": "nephrogenic syndrome of inappropriate antidiuresis",
+    "lt": 0,
+    "lv": 18,
+    "r": 1,
+    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
     "x": 0
    },
    {
@@ -3212,17 +3212,6 @@
     "x": 0
    },
    {
-    "t": "Imipenem",
-    "u": "/drugs/imipenem/",
-    "l": "L5",
-    "i": "미만성 피부경화증",
-    "lt": 13,
-    "lv": 11,
-    "r": 1,
-    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
-    "x": 0
-   },
-   {
     "t": "Magnesium Lactate",
     "u": "/drugs/magnesium-lactate/",
     "l": "L5",
@@ -3289,17 +3278,6 @@
     "x": 0
    },
    {
-    "t": "Alverine Citrate",
-    "u": "/drugs/alverine-citrate/",
-    "l": "L5",
-    "i": "기분부전장애",
-    "lt": 0,
-    "lv": 10,
-    "r": 1,
-    "rs": "삭제: “현재 허가 이력이 없어”",
-    "x": 0
-   },
-   {
     "t": "Bacitracin",
     "u": "/drugs/bacitracin/",
     "l": "L5",
@@ -3344,6 +3322,17 @@
     "x": 0
    },
    {
+    "t": "Imipenem",
+    "u": "/drugs/imipenem/",
+    "l": "L5",
+    "i": "미만성 피부경화증",
+    "lt": 13,
+    "lv": 10,
+    "r": 1,
+    "rs": "“작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체",
+    "x": 0
+   },
+   {
     "t": "Mannitol",
     "u": "/drugs/mannitol/",
     "l": "L5",
@@ -3374,6 +3363,17 @@
     "lv": 9,
     "r": 2,
     "rs": "삭제: “전체 9건이 모두 단일제로 유효하며, 이 중 주요 5건만 표시했습니다”",
+    "x": 0
+   },
+   {
+    "t": "Alverine Citrate",
+    "u": "/drugs/alverine-citrate/",
+    "l": "L5",
+    "i": "기분부전장애",
+    "lt": 0,
+    "lv": 9,
+    "r": 1,
+    "rs": "삭제: “현재 허가 이력이 없어”",
     "x": 0
    },
    {

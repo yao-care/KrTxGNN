@@ -8,7 +8,7 @@ indication_count: 9
 drugbank_id: DB01616
 monitor_inn: "Alverine"
 predicted_indications: ["dysthymic disorder", "neurotic disorder", "anxiety disorder", "migraine disorder", "neurotic depression", "melancholia", "benign paroxysmal torticollis of infancy", "agoraphobia", "congenital isolated adrenocorticotropic hormone deficiency (disease)"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-23
 description: "Alverine Citrate: 예측 신규 적응증 기분부전장애 (dysthymic disorder) (근거 수준 L5). 기존 적응증: MFDS 허가사항(PDF) 참조"
 ---
 
@@ -51,7 +51,7 @@ TxGNN 모델은 **기분부전장애(dysthymic disorder)**에 효과가 있을 �
 | 예측 신규 적응증 | 기분부전장애 (dysthymic disorder) |
 | TxGNN 예측 점수 | 0.9983 |
 | 근거 수준 | L5 |
-| 한국 시판 현황 | 시판 중 (유효 허가 최소 10건) |
+| 한국 시판 현황 | 시판 중 (유효 허가 최소 9건) |
 | 허가증 수 | 최소 20건 |
 | 권장 결정 | Hold |
 
