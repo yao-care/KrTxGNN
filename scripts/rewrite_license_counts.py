@@ -32,7 +32,7 @@ DRUGS = ROOT / "docs" / "_drugs"
 DATA = ROOT / "docs" / "_data" / "drug_reviews.json"
 UNCERTAIN = ROOT / "docs" / "_data" / "drug_reviews_uncertain.json"
 SOURCE = "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）"
-REVIEW_NEEDED = ("ambiguous", "premise", "zero-premise")
+REVIEW_NEEDED = ("ambiguous", "premise", "zero-premise", "single-undeterminable")  # single-undeterminable：單方／複方張數句，本站事實層判斷不了（2026-11-24）
 
 
 def _facts():
@@ -94,8 +94,11 @@ def add_uncertain(skipped):
             continue
         doc["items"].append({"source": SOURCE, "drug": drug, "file": f"{drug}.md", "status": "open", "claim": s,
                              "reason": why, "added": _dt.date.today().isoformat(),
-                             "note": "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、"
-                                     "沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄"})
+                             "note": ("句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方"
+                                      "判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+                                      if why == "single-undeterminable" else
+                                      "正文許可證張數跟快照事實層可能不一致，但句型判斷不了要怎麼改（說「全部有效／全部單方」而事實不符、"
+                                      "沒有限定詞而有效數≠總數、或建立在 0 張前提上），程式沒改；要改請寫查核紀錄")})
         have.add((drug, s))
         n += 1
     UNCERTAIN.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

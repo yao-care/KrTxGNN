@@ -131,7 +131,9 @@ class DrugEvidencePackGenerator:
                 "dosage_form": r.get("dosage_form", r.get("劑型", "")),
                 "manufacturer": r.get("license_holder") or r.get("製造廠") or r.get("申請商") or r.get("holder") or r.get("company", ""),
                 "approved_indication_text": r.get("indication", r.get("適應症", "")),
-                "kind": r.get("kind") or ("single" if len(ings) <= 1 else "combo"),
+                # 2026-11-24（用戶決定）：本站證據包的成分欄只記比對到的那個成分（例 아모크라주「AMOXICILLIN SODIUM」實為 amoxicillin＋clavulanate），
+                # 單方／複方判斷不了，標 undetermined，不硬算（事實層不給 single_total／valid_single，正文張數改寫遇到單方句不改、列待查）
+                "kind": r.get("kind") or "undetermined",
                 "status": status,
             })
         valid = [x for x in lics if x["status"] == "valid"]
@@ -153,8 +155,11 @@ class DrugEvidencePackGenerator:
             "total_licenses": len(lics) if not partial else f"≥{len(lics)}",  # 部分紀錄：寫「至少 N」（pm 2026-10-21 選 b）
             "partial_list": partial,
             "licenses_listed": len(lics),
-            "valid_single": sum(1 for x in valid if x["kind"] == "single"),
-            "valid_combo": sum(1 for x in valid if x["kind"] == "combo"),
+            **({"valid_single": sum(1 for x in valid if x["kind"] == "single"),
+                "valid_combo": sum(1 for x in valid if x["kind"] == "combo")}
+               if all(x["kind"] in ("single", "combo") for x in lics) else
+               {"kind_undeterminable": True,
+                "kind_note": "成分欄只記比對到的成分，單方／複方不可判定；不要寫單方或複方張數。"}),
             "cancelled": sum(1 for x in lics if x["status"] == "cancelled"),
             "not_marketed": sum(1 for x in lics if x["status"] == "not_marketed"),
             "licenses": lics,

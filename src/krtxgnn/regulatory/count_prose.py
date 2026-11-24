@@ -73,10 +73,17 @@ def _readings(role, f, sent, explicit=False):
     return {t, v}, t if t == v else None
 
 
+def _undet(f):
+    """單方／複方不可判定（2026-11-24）：本站證據包成分欄只記比對到的成分，事實層不給 single_total／valid_single（標 single_undeterminable）"""
+    return bool(f.get("single_undeterminable")) or f.get("single_total") is None
+
+
 def _premise_ok(sent, f):
     if re.search(r"모두[^.]{0,12}유효|유효합니다|유효 상태", sent) and f.get("valid") != f.get("total"):
         return False
     if re.search(r"모두[^.]{0,12}단일|단일[^.]{0,12}모두", sent):
+        if _undet(f):
+            return False
         if "유효" in sent and f.get("valid_single") != f.get("valid"):
             return False
         if "유효" not in sent and f.get("single_total") != f.get("total"):
@@ -103,6 +110,8 @@ def rewrite_sentence(sent, f, market=False):
         if role == "display":
             continue
         old = int(m.group(1).replace(",", ""))
+        if role in ("single", "combo") and _undet(f):
+            return sent, "single-undeterminable"
         ok, v = _readings(role, f, sent, explicit)
         if old in ok:
             continue
