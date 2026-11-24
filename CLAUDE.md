@@ -614,3 +614,9 @@ nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취�
   證據包模式（apply_drug_reviews.py 結尾、每週排程 sync_tables）會補；`license_adapter.PAGE_NOTE` 放行補的段落標題行。
 - gate 第 18 項（`src/krtxgnn/regulatory/licenses.py` 第 5 條）：公開頁快照有程式表列、卻整頁沒有市場段落就擋。
 - 2026-11-24 全量量測 2 頁、補 2 頁：agomelatine（2 張，1 張취하）、paclitaxel（16 張，2 張취소）；正文「아고틴정 단일 성분 제제」「국내 단일 성분 제품」對照證據包成分成立，沒有新紀錄。checker 全量前後都是 0；gate exit 0。
+
+## 事實層單方／複方：不可判定（2026-11-24）
+
+用戶 2026-11-24 決定：事實層依各站成分欄正確切分；本站證據包的成分欄只記比對到的那個成分（例 아모크라주「AMOXICILLIN SODIUM」實為 amoxicillin＋clavulanate），判斷不了就不硬算。
+reviewer/drug_evidence_pack.py 的 kind 改成 undetermined、不給 valid_single／valid_combo（標 kind_undeterminable）；母目錄 dump_license_facts 不給 single_total／valid_single、另標 single_undeterminable（1405 藥全部）。
+`src/krtxgnn/regulatory/count_prose.py` 遇到單方／複方張數或「모두 단일」句不改，理由 single-undeterminable（`scripts/rewrite_license_counts.py --uncertain` 列進待查清單：2026-11-24 新增 41 句）；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄。程式表本來就不列單方／複方。證據包 785 個重算（data-overlay）。
