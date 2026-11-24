@@ -3,8 +3,9 @@
 
 gate（scripts/check_seo_docs.py）要在沒有 data/ 的環境也能驗證頁面上的號碼屬於本藥、狀態列與張數列跟事實一致
 （有程式許可證表的站另驗程式表），所以把驗證要用的部分存成快照放進 git。
-內容（鍵＝藥物頁檔名去 .md）：facts（事實層那一筆）、own（本藥擁有的許可證號）、rows／total（有程式表的站：程式算出的表格列與總數）；
+內容（鍵＝藥物頁檔名去 .md）：facts（事實層那一筆）、own（本藥擁有的許可證號）、rows／nrows／partial（2026-11-24 起：程式許可證表最多 20 列、全部可列的列數、證據包只收部分紀錄）；
 meta：產生日、Release tag、規則所在檔案。
+寫完快照後：依證據包重排程式許可證表（scripts/sync_license_tables.py），再跑 scripts/rewrite_license_counts.py（--no-rewrite 不跑）。
 什麼時候跑：證據包或事實層變了之後（每週許可證排程、依成分重建都會自動跑，並把 snapshots/ 跟 docs/ 一起 commit）。
 用法（repo 根目錄，先還原 data/ 並在工作目錄跑 dump_license_facts）：
   python3 scripts/build_license_snapshot.py --ws <工作目錄> [--release-tag data-YYYYMMDD-HHMMSS]
@@ -31,7 +32,7 @@ def _slt():
     s = importlib.util.spec_from_file_location(f"{C.SITE}_slt", SLT)
     m = importlib.util.module_from_spec(s)
     s.loader.exec_module(m)
-    return m if hasattr(m, "rows_of") else None
+    return m if hasattr(m, "program_rows") else None
 
 
 def bundle_for(stem):
@@ -60,8 +61,9 @@ def build(ws, tag=""):
         fc = fs.get(key) or fs.get(page.stem) or fs.get(page.stem.replace("-", "_"))
         e = {"bundle": key, "facts": fc, "own": C.own_ids(tf)}
         if S is not None:
-            r, total = S.rows_of(tf, fc)
-            e["rows"], e["total"] = r[:20], total
+            # 2026-11-24：程式許可證表（scripts/sync_license_tables.py）最多可列的 20 列、全部可列的列數、證據包是否只收部分紀錄；
+            # gate 比頁面程式表的前 N 列（狀態欄除外），sync_license_tables.py --from-snapshot 依這些列重排
+            e["rows"], e["nrows"], e["partial"] = S.program_rows(b, S.pins_for(page.stem))
         drugs[page.stem] = e
     meta = {"built": dt.date.today().isoformat(), "release_tag": tag, "pages": len(drugs),
             "rule": "事實層：tools/txgnn/.claude/dump_license_facts_20261021.py；號碼：src/krtxgnn/regulatory/site.py own_ids"}
@@ -89,11 +91,16 @@ if __name__ == "__main__":
     _dl_p = _lf_os.path.join(_dl_root, "tools", "txgnn", ".claude", "drug_meta_description.py")
     _lf_ax.register(lambda: "--check" in _lf_sys.argv or not _lf_os.path.exists(_dl_p) or _lf_chk(_lf_sp.run([_lf_sys.executable, _dl_p, "--apply", "--root", _dl_root]), "drug_meta_description.py --apply"))
     a = sys.argv[1:]
-    ws = a[a.index("--ws") + 1]
+    ws = a[a.index("--ws") + 1] if "--ws" in a else str(ROOT.parent)  # 沒給 --ws：母目錄（本 repo 的上一層，排程的 BASE）
     tag = a[a.index("--release-tag") + 1] if "--release-tag" in a else ""
     if not re.fullmatch(r"(data-[\w-]+)?", tag):
         sys.exit("--release-tag 要是 data-… 的 tag")
     build(ws, tag)
+    # 2026-11-24：快照換了事實，先依證據包重排市場段落的程式許可證表（scripts/sync_license_tables.py；只改程式區塊），
+    # 再改寫正文張數（順序不能反：正文張數改寫跳過程式區塊，表要先是新的）
+    _S = _slt()
+    if _S is not None and "--no-rewrite" not in a:  # --no-rewrite（license_rebuild_run 轉紀錄前）：頁面都不動
+        print(f"程式許可證表：重排 {len(_S.run())} 頁")
     # 2026-11-12：快照換了事實，正文許可證張數跟著改寫（每週排程是先套紀錄再建快照，所以這裡用新快照再跑一次）
     if "--no-rewrite" not in a:  # license_rebuild_run 轉紀錄前建快照時不改寫正文（不然改寫會被當成刪改轉成紀錄）
         import subprocess

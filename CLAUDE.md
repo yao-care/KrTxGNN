@@ -578,3 +578,18 @@ nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취�
 例：cemiplimab「기존 적응증: 국내 허가 자료에 적응증 기재 없음」→「식약처 허가: 1건 (유효 0건)」；2026-11-19 改了 1 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site KrTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 市場段落許可證表改由程式產生（2026-11-24）
+
+用戶 2026-11-24 決定（各站同日；本站只做表 A，正文張數 B 是 2026-11-12 起就有的 rewrite_license_counts.py）：每週許可證排程只改得到概覽表狀態列／張數列，報告（AI）寫的自由格式許可證表（多數「| 허가번호 | 제품명 | 제형 | 허가 적응증 |」，沒有狀態欄）跟著 MFDS 資料過期；改成程式依證據包產生、每週自動同步。
+- `scripts/sync_license_tables.py`：「## 한국 시판 정보」段落的第一張表換成程式表「| 허가번호 | 제품명 | 성상 | 업체명 | 허가사항 | 상태 |」（欄位照 MFDS 原文、韓文不翻譯；허가사항＝證據包 indication 的 nedrug pdfDownload 連結，沒有就「—」）；前後 `<!-- licenses:begin -->`／`<!-- licenses:end -->`。
+  狀態跟事實層同一套判斷（reviewer `_local_regulatory`）：有效「유효」，註銷寫 MFDS 취소/취하 原文（취하、유효기간만료、행정(취소)…；沒有原文、因有效期限已過算註銷的寫유효기간만료）。單方／複方不列（證據包 ingredients 只記比對到的成分，判斷不了）。
+  選列：換表當時原表依序列的허가번호（`config/license_table_pins.json`，726 頁 2,450 個號）在前，其餘有效在前、再依號碼；列數＝原表列數（最多 20），所以正文「주요 허가 5건」「5건만 표시」之類說法照樣成立。原表號碼不在現行證據包的 9 頁各 1 個（allantoin、camphor、cefoperazone、crotamiton、epinephrine、esomeprazole、hydrocortisone_acetate、tocopherol、vitamin_a；部分紀錄頁、證據包換過紀錄），由程式排序的下一列補上。
+  表下說明句：「위 표는 허가 M건 중 N건입니다.」；證據包只收部分紀錄（事實層 partial）時「위 표는 허가 최소 M건 중 N건입니다.」（同概覽表「최소 M건」），列完全部收錄紀錄時「이 자료에는 허가의 일부(최소 M건)만 수록되어 있습니다.」；沒有紀錄時 NONE_LINE。表下原本只講表上筆數、跟說明句重複的整行句子（CAPTION_RX，kallidinogenase、latanoprost 2 頁）換表時拿掉；句中另有事實的不動。
+- 快照 `snapshots/kr_licenses.json.gz` 另存 rows（前 20 列）／nrows／partial；gate 第 18 項（`site.program_block_problems`）擋「段落有表卻不是程式區塊」「程式表（狀態欄除外）≠快照重算」「說明句不對」，狀態欄由 checker row_status_conflicts 驗。
+- 誰會跑：`build_license_snapshot.py` 寫完快照後依證據包重排（`--no-rewrite` 不跑），再跑 rewrite_license_counts.py（順序不能反）；`apply_drug_reviews.py`（非 --check）結尾 `--from-snapshot` 重排（不需要 data/）再跑 B；每週排程 `license_adapter.py` 的 `sync_tables`＋`PAGE_NOTE`；`sync_notes_to_docs.py` 整頁重寫時 `carry_block` 移植舊區塊、寫完再重排。`build_license_snapshot.py` 沒給 `--ws` 時用 repo 上一層（母目錄）。
+- 2026-11-24 套用（資料 data-20261123-155715）：730 頁換成程式表（公開頁 691 頁原有 AI 表、2 頁段落沒有表補上；連 noindex 共 730 頁；沒有市場段落的 2 頁不動），last_modified_at 改 2026-11-24。沒有查核紀錄錨在舊表上（superseded 0 筆）。
+  查核紀錄更正文字裡的舊表筆數／寫死張數同 id 重發 9 筆（doxorubicin、zaltoprofen、doxycycline、felodipine、pemetrexed、talniflumate、temozolomide 的 11-05 紀錄，codeine、ramipril 的 11-12 紀錄；改成不寫數字的寫法、更正的事實保留，前版存 history）。
+  正文寫「全部單方」而品目名其實含複方的 3 頁以 `kr-lic-20261124-{ritonavir,lansoprazole,fimasartan}-1` 更正；camphor（品目名看不出成分）與寬偵測找到的 3 句（fluticasone、tretinoin、paliperidone，有保留語或子集、count_prose 不改）列待查。
+  另寫的寬偵測（正文張數跟事實層不符）改前 40 句、改後 38 句：部分紀錄頁 18 句（不可驗證）、子集／수출용／「이 외에 N건」＝總數−表列數之類一致的 15 句、待查 4 句、count_prose 原有的 premise／ambiguous 2 句。checker 全量前後 0；gate exit 0。
+- 母目錄 `.claude/license_labels/KrTxGNN.json` 只有「유효」；程式表會寫的註銷字樣（취하、유효기간만료、행정(취소)、폐업）要由母目錄加進 labels（cancelled，preferred 취하），本站沒改母目錄。

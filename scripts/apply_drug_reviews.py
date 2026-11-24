@@ -416,6 +416,14 @@ def run(check=False, only=None, touch_date=False):
             if not check:
                 path.write_text(touch(new) if touch_date else new, encoding="utf-8")
     if not check:
+        # 2026-11-24：市場段落的程式許可證表依快照重排（scripts/sync_license_tables.py --from-snapshot；不需要 data/，
+        # 只動 <!-- licenses:begin/end --> 區塊）；要在正文張數改寫之前（改寫跳過程式區塊）
+        import importlib.util as _ilu
+        _spec = _ilu.spec_from_file_location("sync_license_tables", Path(__file__).resolve().parent / "sync_license_tables.py")
+        _slt = _ilu.module_from_spec(_spec)
+        _spec.loader.exec_module(_slt)
+        changed += [f + ".md" for f in _slt.run(only={x[:-3] for x in only} if only else None, from_snapshot=True)
+                    if f + ".md" not in changed]
         # 2026-11-12：正文許可證張數依快照事實層改寫（scripts/rewrite_license_counts.py；全頁，不只有紀錄的頁）
         import importlib.util as _ilu
         _spec = _ilu.spec_from_file_location("rewrite_license_counts", Path(__file__).resolve().parent / "rewrite_license_counts.py")

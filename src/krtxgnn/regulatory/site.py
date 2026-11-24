@@ -3,7 +3,8 @@
 同目錄 page_format／licenses／withdrawn 與 scripts/apply_drug_reviews.py、build_license_snapshot.py、reviews_from_edits.py、
 check_original_indications.py 都讀這裡；核心流程比照 TwTxGNN 與 UsTxGNN，只有這份是本站自己的寫法。
 本站的市場資料是식품의약품안전처（MFDS）의약품안전나라（nedrug）허가 자료（9 碼品目基準코드），頁面文字用韓文。
-本站沒有程式產生的許可證表（市場段落的表是報告寫的），所以沒有程式區塊標記。
+2026-11-24 起（用戶決定）：市場段落「한국 시판 정보」的許可證表改由 scripts/sync_license_tables.py 依證據包產生（程式區塊
+<!-- licenses:begin --> … <!-- licenses:end -->）；gate 依快照驗程式區塊（program_block_problems）。
 """
 import re
 
@@ -79,7 +80,10 @@ REGEN_COMMITS = ["119fa760", "435b2dab", "d3987ba3", "0d077738", "be98e10f", "a8
 SOURCES = [{"title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보", "url": "https://nedrug.mfds.go.kr/searchDrug"}]
 # 韓文句子以「다.」「요.」等結尾、後面接韓文字，句號加空白就斷句（小數點後沒有空白，不會被斷開）
 SENT = re.compile(r"(?<=[.!?])\s+(?=\S)|\n")
-PROGRAM_LINES = []
+# 程式許可證表的說明句與沒有紀錄時的一句（scripts/sync_license_tables.py；轉紀錄與驗證時不當成正文）
+PROGRAM_LINES = [re.compile(r"^위 표는 허가 (최소 )?\d+건 중 \d+건입니다\.$"),
+                 re.compile(r"^이 자료에는 허가의 일부\(최소 \d+건\)만 수록되어 있습니다\.$"),
+                 re.compile(r"^식품의약품안전처 의약품안전나라\(nedrug\) 허가 자료\(이 보고서에 쓴 자료\)에는 이 약 성분의 허가가 없습니다\.$")]
 CLASSIFY = [
     ("tw", re.compile(r"대만|TFDA|Taiwan", re.I)),
     ("cancel", re.compile(r"취소|취하|말소|미시판|시판되지 않|시판하지 않|(?:허가|시판)(?:된|받은)? ?이력[^.]{0,4}없|허가되지 않|허가가 없|유효한 허가[^.]{0,6}없")),
@@ -126,3 +130,60 @@ def note_for(kind, date, fc):
 ORIG_LABELS = ["기존 적응증"]
 ORIG_NONE_RE = re.compile(r"^\s*(정보 없음|없음|미기재|확인되지 않|N/A)")
 ORIG_SPLIT_RE = re.compile(r"[;,/()·]+|\s및\s|\s또는\s")
+
+
+# ---------- 程式許可證表（2026-11-24；scripts/sync_license_tables.py） ----------
+PROGRAM_SCRIPT = "sync_license_tables.py"
+_SLT = None
+
+
+def _slt():
+    global _SLT
+    if _SLT is None:
+        import importlib.util
+        from pathlib import Path
+        f = Path(__file__).resolve().parents[3] / "scripts" / PROGRAM_SCRIPT
+        s = importlib.util.spec_from_file_location("kr_sync_license_tables", f)
+        _SLT = importlib.util.module_from_spec(s)
+        s.loader.exec_module(_SLT)
+    return _SLT
+
+
+def _nostatus(row):
+    """程式表一列去掉最後一欄（상태）：狀態另由 checker row_status_conflicts 驗；其他欄要跟快照一樣"""
+    return row.strip().strip("|").rsplit("|", 1)[0].strip()
+
+
+def program_block_problems(sec, e):
+    """市場段落（標題下一行到段落結尾）的程式區塊＝快照重算的結果：標記成對；表頭＝程式表頭；狀態欄以外逐列＝快照 rows 的前 N 列；
+    表下說明句＝依 nrows／partial 重算；沒有紀錄時只有 NONE_LINE；段落裡沒有程式區塊以外的表格。"""
+    if "rows" not in e:
+        return []
+    s = _slt()
+    has_b, has_e = s.BEGIN in sec, s.END in sec
+    if has_b != has_e or sec.count(s.BEGIN) > 1:
+        return ["市場段落的程式區塊標記不成對或不只一組"]
+    if not has_b:
+        return ["市場段落沒有程式許可證表（跑 python3 scripts/sync_license_tables.py）"]
+    i, j = sec.index(s.BEGIN), sec.index(s.END)
+    blk = [x for x in sec[i + 1:j] if x.strip()]
+    tb = [x for x in blk if x.startswith("|")]
+    rest = [x.strip() for x in blk if not x.startswith("|")]
+    errs = []
+    if not e["rows"]:
+        if tb or rest != [s.NONE_LINE]:
+            errs.append("快照沒有任何許可證，程式區塊應只有「" + s.NONE_LINE + "」")
+    elif not tb or tb[0].strip() != s.HEAD[0]:
+        errs.append("程式區塊的表頭不是程式表頭")
+    else:
+        n = len(tb) - 2
+        if n < 1 or [_nostatus(x) for x in tb[2:]] != [_nostatus(x) for x in e["rows"][:n]]:
+            errs.append("程式表跟快照重算的結果不同（程式表被手改或資料已更新：跑 python3 scripts/sync_license_tables.py）")
+        else:
+            want = [x for x in s.block_for(e["rows"], n, bool(e.get("partial")), e.get("nrows")) if x.strip() and not x.startswith("|")]
+            if rest != want:
+                errs.append(f"程式區塊表格下方的程式文字應為「{' '.join(want)}」")
+    outside = [k for k, x in enumerate(sec) if x.startswith("|") and not (i < k < j)]
+    if outside:
+        errs.append(f"市場段落有程式區塊以外的表格：{sec[outside[0]][:40]}")
+    return errs

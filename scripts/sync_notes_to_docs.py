@@ -401,6 +401,11 @@ indication_count: {indication_count}
     # 2026-11-12 本站查核機制：notes 是查核前的文字，寫完的頁一律重套 docs/_data/drug_reviews.json
     # （被蓋回的錯句依紀錄再更正、查核框與查核紀錄表補回；說明見 scripts/apply_drug_reviews.py）
     if synced_names:
+        # 2026-11-24：市場段落的許可證表依證據包重排成程式表（新頁、或舊頁沒有程式區塊時；scripts/sync_license_tables.py）
+        import sys as _sys3
+        _sys3.path.insert(0, str(Path(__file__).resolve().parent))
+        import sync_license_tables as _slt2
+        print(f"程式許可證表：{len(_slt2.run(set(synced_names)))} 頁")
         import apply_drug_reviews as _adr
         _probs, _chg = _adr.run(only={f"{n}.md" for n in synced_names})
         print(f"查核紀錄重套：{len(_chg)} 頁、問題 {len(_probs)} 項")

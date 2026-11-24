@@ -145,3 +145,20 @@ def update(rec, new):
         return False  # 原本空白（reviewer 視為有效）、現在仍正常：意義不變，不算變動
     rec["status"], rec["license_status"] = new, cls
     return True
+
+
+# 2026-11-24（用戶決定）：「한국 시판 정보」的許可證表改由 scripts/sync_license_tables.py 依證據包產生（程式區塊 <!-- licenses:begin/end -->）。
+# 每週排程（license_refresh_20261029.py 的 sync_tables 掛鉤）全站重排：狀態變了，狀態欄、排序與「위 표는 허가 M건 중 N건입니다.」都跟著變；
+# 只重排程式區塊，表以外的正文不動（正文張數由 build_license_snapshot.py／apply_drug_reviews.py 結尾的 rewrite_license_counts.py 依快照改寫）。
+# PAGE_NOTE：表格列以外、程式寫的行（說明句、區塊標記、沒有任何허가時的一句），3b 自我檢查放行。
+PAGE_NOTE = (r"^(위 표는 허가 (최소 )?\d+건 중 \d+건입니다\.|이 자료에는 허가의 일부\(최소 \d+건\)만 수록되어 있습니다\.|"
+             r"<!-- licenses:(begin|end) -->|"
+             r"식품의약품안전처 의약품안전나라\(nedrug\) 허가 자료\(이 보고서에 쓴 자료\)에는 이 약 성분의 허가가 없습니다\.)$")
+
+
+def sync_tables(site_dir, bundles=None):
+    import importlib.util
+    s = importlib.util.spec_from_file_location("kr_slt", Path(site_dir) / "scripts/sync_license_tables.py")
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return [(pg, "許可證表", "", "依證據包重排") for pg in m.run()]
