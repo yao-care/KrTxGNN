@@ -38,9 +38,15 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 ## 한 문장 요약
 
-Tenofovir disoproxil은 뉴클레오티드 역전사효소 억제제로, 한국에서 20건의 단일제 허가증이 유효한 시판 약물입니다.
+Tenofovir disoproxil은 뉴클레오티드 역전사효소 억제제로, 한국에서 허가되어 시판 중인 약물입니다(허가 건수와 상태는 빠른 개요 참조).
 TxGNN 모델은 **원숭이면역결핍바이러스 감염(Simian immunodeficiency virus infection)**에 효과가 있을 수 있다고 예측하지만, 이를 뒷받침하는 근거는 **임상시험 0건**과 **비임상(영장류 동물) 중심의 문헌 18편**입니다.
 다만 이는 인체 대상 신규 적응증이 아니라 HIV 연구용 동물 모델에서의 효과를 재확인한 것에 가깝습니다.
+
+<!-- review:begin kr-lic-20261124c-tenofovir_disoproxil-1 -->
+
+> **검토 정정 (2026-11-24)**: 원래 문장: “Tenofovir disoproxil은 뉴클레오티드 역전사효소 억제제로, 한국에서 20건의 단일제 허가증이 유효한 시판 약물입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 사이트 자료의 성분란에는 일치한 성분만 기록되어 허가 품목별 단일 성분·복합 성분 여부를 확인할 수 없으므로, 단일·복합 표기를 빼고 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261124c-tenofovir_disoproxil-1 -->
 
 ## 빠른 개요
 
@@ -128,11 +134,12 @@ SIV와 SHIV는 HIV와 매우 가까운 렌티바이러스로, 동일한 효소�
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Viread (tenofovir disoproxil fumarate) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=33fd6418-fbdc-42ca-a50d-ce2a476a5418) |
+| 2026-11-24 | 단일·복합 표기: “Tenofovir disoproxil은 뉴클레오티드 역전사효소 억제제로,…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

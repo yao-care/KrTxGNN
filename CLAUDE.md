@@ -620,3 +620,12 @@ nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취�
 用戶 2026-11-24 決定：事實層依各站成分欄正確切分；本站證據包的成分欄只記比對到的那個成分（例 아모크라주「AMOXICILLIN SODIUM」實為 amoxicillin＋clavulanate），判斷不了就不硬算。
 reviewer/drug_evidence_pack.py 的 kind 改成 undetermined、不給 valid_single／valid_combo（標 kind_undeterminable）；母目錄 dump_license_facts 不給 single_total／valid_single、另標 single_undeterminable（1405 藥全部）。
 `src/krtxgnn/regulatory/count_prose.py` 遇到單方／複方張數或「모두 단일」句不改，理由 single-undeterminable（`scripts/rewrite_license_counts.py --uncertain` 列進待查清單：2026-11-24 新增 41 句）；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄。程式表本來就不列單方／複方。證據包 785 個重算（data-overlay）。
+
+## 第四輪：無法查證的單方／複方說法（2026-11-24）
+
+用戶 2026-11-24 第四輪決定：待查清單 2026-11-24 新增的 41 句 single-undeterminable（正文寫單方／複方張數或「모두 단일」，證據包成分欄只記比對到的成分、無法查證）寫 correct 紀錄，拿掉單方／複方說法、張數改指向빠른 개요與程式表（不寫數字）；待辦只拿掉錯的前提、建議不動；其他文字不動。
+- 41 句以 `kr-lic-20261124c-<藥>-N` 更正，待查項目標 resolved（附 record_ids）。另寫一支更寬、獨立的偵測全量掃公開頁正文的 단일／복합／단독제 字樣（排除查核框、程式表）：370 句（305 頁）；逐句分類後，同類（單方／複方張數或全稱：「N건 단일」「두 제품 모두 … 단일제」「모두 단일 성분」「단일 성분 제품 중 주요 5건」等）另 146 句同樣更正（合計新紀錄 185 筆、175 頁），第二輪更正文字本身寫「모두 … 단일 성분」的 `kr-lic-20261124b-morphine-1`、`-polmacoxib-1` 同 id 重發（前版存 history）。
+  改寫只拿掉單方／複方字樣與寫死的張數／全部有效說法，廠商、수출용、劑型、點名品目照留；表上顯示筆數（「주요 5건」，＝程式表列數）照留；ampicillin 待辦只拿掉「(현재 확인된 단일 성분 제품은 모두 수출용)」前提。
+- 不改、保留：不帶張數或全稱的存在說法（「한국에서 단일 성분 제제로 허가되어 있습니다」等）155 句、點名品目的複方說法與文獻／藥理句 27 句、ginseng「모두 한약 복합 처방 제품」與 lansoprazole 紀錄（點名複方）2 句。
+- 查證參考：`data/raw/ItemPermitDetail.xlsx`（MFDS 2026-03 全量，44,072 品目）有完整的「주성분명」，可依品目判斷單方／複方（例 chlorzoxazone、glycine、dimenhydrinate 證據包 20 張依주성분명全是複方，artemether 2 張都是 artemether＋lumefantrine）；各筆 finding 附這份對照數字。事實層要不要改用它判斷單方／複方，待母目錄決定。
+- 驗證：`rewrite_license_counts.py --check` 0、`--list` 沒有 single-undeterminable；apply --check 0；checker 全量前後 0；gate exit 0；寬偵測同類句改後剩 0（只剩上面保留的 2 句）。

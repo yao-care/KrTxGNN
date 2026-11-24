@@ -38,7 +38,13 @@ description: "Tenofovir Alafenamide: 예측 신규 적응증 고양이 후천성
 
 ## 한 문장 요약
 
-Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이 허가된 뉴클레오타이드 역전사효소 억제제입니다. TxGNN 모델은 **고양이 후천성 면역결핍 증후군(Feline Acquired Immunodeficiency Syndrome)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험과 문헌은 **0건**입니다. 따라서 이 예측은 모델 점수와 기전적 추정에만 의존하는 단계입니다.
+Tenofovir alafenamide는 한국에서 허가된 뉴클레오타이드 역전사효소 억제제입니다(허가 건수와 상태는 빠른 개요 참조). TxGNN 모델은 **고양이 후천성 면역결핍 증후군(Feline Acquired Immunodeficiency Syndrome)**에 효과가 있을 수 있다고 예측하지만, 이 질환을 직접 다룬 임상시험과 문헌은 **0건**입니다. 따라서 이 예측은 모델 점수와 기전적 추정에만 의존하는 단계입니다.
+
+<!-- review:begin kr-lic-20261124c-tenofovir_alafenamide-1 -->
+
+> **검토 정정 (2026-11-24)**: 원래 문장: “Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이 허가된 뉴클레오타이드 역전사효소 억제제입니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 사이트 자료의 성분란에는 일치한 성분만 기록되어 허가 품목별 단일 성분·복합 성분 여부를 확인할 수 없으므로, 단일·복합 표기를 빼고 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261124c-tenofovir_alafenamide-1 -->
 
 ## 빠른 개요
 
@@ -97,11 +103,12 @@ TxGNN의 높은 점수는 HIV 관련 질환 노드와의 유사성을 반영했�
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2) |
+| 2026-11-24 | 단일·복합 표기: “Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

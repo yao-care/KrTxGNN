@@ -1391,411 +1391,616 @@
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "alprostadil",
    "file": "alprostadil.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Alprostadil은 프로스타글란딘 E1(PGE1) 계열의 혈관확장제로, 한국에서 단일 성분 제제 4건이 허가되어 있습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-alprostadil-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "anastrozole",
    "file": "anastrozole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "4건 모두 단일 성분 제제이며 유효 상태로 기록되어 있습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-anastrozole-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "benzatropine",
    "file": "benzatropine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Benzatropine은 항콜린제로, 한국에서 4건의 단일제 허가를 받아 시판 중입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-benzatropine-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "capecitabine",
    "file": "capecitabine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Capecitabine은 한국에서 단일 성분 제제 7건으로 허가된 항암제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-capecitabine-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "capreomycin",
    "file": "capreomycin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "허가증은 1건이며 단일 성분 제제로 유효 상태입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-capreomycin-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "captopril",
    "file": "captopril.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "유효 허가는 12건이며 모두 단일 성분 제제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-captopril-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "carbamazepine",
    "file": "carbamazepine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "13건 모두 단일 성분 제제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-carbamazepine-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "cemiplimab",
    "file": "cemiplimab.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "- 허가 1건은 단일 성분 제제이며 현재 취소 상태입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-cemiplimab-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "clobazam",
    "file": "clobazam.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Clobazam은 1,5-벤조디아제핀 계열의 항경련제로, 한국에서 단일성분 제품 4건의 허가증이 확인됩니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-clobazam-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "cyclophosphamide",
    "file": "cyclophosphamide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "5건 모두 단일 성분 제제이며 유효 상태입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-cyclophosphamide-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "cytarabine",
    "file": "cytarabine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "5건 모두 단일 성분 제제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-cytarabine-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "daunorubicin",
    "file": "daunorubicin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "허가증 3건은 모두 단일 성분이며 유효 상태입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-daunorubicin-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "deoxycholic_acid",
    "file": "deoxycholic_acid.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "전체 8건 중 주요 5건만 표시했으며, 8건 모두 유효한 단일 성분 허가입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-deoxycholic_acid-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "desonide",
    "file": "desonide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "전체 허가는 16건이며, 모두 단일 성분 제제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-desonide-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "etanercept",
    "file": "etanercept.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "8건 모두 단일 성분 제제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-etanercept-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "etodolac",
    "file": "etodolac.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "아래 10건은 모두 단일 성분 제제이며 상태는 유효입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-etodolac-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "filgrastim",
    "file": "filgrastim.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "8건 모두 단일 성분 제제로 유효합니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-filgrastim-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "granisetron",
    "file": "granisetron.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "알려진 정보에 따르면 granisetron은 선택적 5-HT3 수용체 길항제이며, 단일 성분 제제로 8건이 유효하게 허가되어 있습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-granisetron-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "haloperidol",
    "file": "haloperidol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Haloperidol은 도파민 D2 수용체를 차단하는 약물로, 한국에서 단일 성분제 12건이 허가되어 있습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-haloperidol-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "haloperidol",
    "file": "haloperidol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "12건 모두 단일 성분제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-haloperidol-2"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "insulin_detemir",
    "file": "insulin_detemir.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Insulin detemir는 지속형 기저 인슐린 유사체로, 한국에서 단일 성분 허가증 1건이 확인됩니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-insulin_detemir-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "iodixanol",
    "file": "iodixanol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "6건 모두 단일 성분 제제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-iodixanol-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "levothyroxine",
    "file": "levothyroxine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Levothyroxine은 한국에서 19건의 단일제 허가증이 확인된 갑상선호르몬 제제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-levothyroxine-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "levothyroxine",
    "file": "levothyroxine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "허가 19건은 모두 단일제이며 유효 상태입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-levothyroxine-2"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "lithium_carbonate",
    "file": "lithium_carbonate.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "탄산리튬(Lithium Carbonate)은 한국에서 4건의 단일제 허가를 받아 시판 중인 약물이지만, 이번 데이터에는 허가 적응증의 본문 내용이 포함되어 있지 않습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-lithium_carbonate-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "lovastatin",
    "file": "lovastatin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "3건 모두 단일 성분 제제이며 유효 상태입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-lovastatin-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "nitrous_oxide",
    "file": "nitrous_oxide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "위 표는 주요 5건이며, 전체 15건이 모두 단일제로 유효합니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-nitrous_oxide-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "palbociclib",
    "file": "palbociclib.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "한국에는 단일 성분 제품 12건이 유효 허가 상태입니다(취소 0건).",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-palbociclib-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "phenobarbital",
    "file": "phenobarbital.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "전체 허가는 7건(모두 단일성분)이며, 위에는 주요 5건만 나열했습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-phenobarbital-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "pirfenidone",
    "file": "pirfenidone.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Pirfenidone은 한국에서 단일제로 9건이 허가되어 시판 중인 항섬유화 약물입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-pirfenidone-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "polyvinyl_alcohol",
    "file": "polyvinyl_alcohol.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "허가증은 총 6건이며 모두 단일제, 유효 상태입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-polyvinyl_alcohol-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "procyclidine",
    "file": "procyclidine.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Procyclidine은 중추 작용 무스카린 길항제(항콜린제)로, 한국에서 단일 성분 제제 3건이 허가되어 있습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-procyclidine-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "riluzole",
    "file": "riluzole.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Riluzole은 글루탐산 신호를 조절하는 약물로, 국내에서 단일 성분 제제 3건이 허가되어 있습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-riluzole-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "risankizumab",
    "file": "risankizumab.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Risankizumab은 IL-23 p19 소단위체를 표적으로 하는 인간화 IgG 단일클론항체로, 한국에서 단일 성분 제제 5건이 허가되어 있습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-risankizumab-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "roxatidine_acetate_hydrochloride",
    "file": "roxatidine_acetate_hydrochloride.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "허가증은 총 11건이며 모두 단일 성분 제제로 유효합니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-roxatidine_acetate_hydrochloride-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "sulindac",
    "file": "sulindac.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Sulindac은 비스테로이드성 소염진통제(NSAID)로, 국내에는 단일 성분 허가 1건이 등록되어 있습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-sulindac-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "temozolomide",
    "file": "temozolomide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Temozolomide는 한국에서 단일성분 제제로 9건의 허가증이 있는 경구 알킬화제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-temozolomide-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "tenofovir_alafenamide",
    "file": "tenofovir_alafenamide.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이 허가된 뉴클레오타이드 역전사효소 억제제입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-tenofovir_alafenamide-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "tolvaptan",
    "file": "tolvaptan.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Tolvaptan은 선택적 바소프레신 V2 수용체 길항제로, 한국에서 4건의 단일제 허가를 받아 시판 중입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-tolvaptan-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "trihexyphenidyl",
    "file": "trihexyphenidyl.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "Trihexyphenidyl은 중추 무스카린 계열 항콜린제로, 한국에는 단일제 허가증 2건이 있습니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-trihexyphenidyl-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   },
   {
    "source": "正文許可證張數程式改寫判斷不了的句子（scripts/rewrite_license_counts.py）",
    "drug": "triptorelin",
    "file": "triptorelin.md",
-   "status": "open",
+   "status": "resolved",
    "claim": "6건 모두 단일제이며 유효 상태입니다.",
    "reason": "single-undeterminable",
    "added": "2026-11-24",
-   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄"
+   "note": "句子寫了單方／複方張數或「全部單方」，但本站證據包的成分欄只記比對到的那個成分，事實層的單方／複方判斷不了（2026-11-24 起不給 single_total），程式沒改；要改請依 nedrug 品目的全部成分逐張確認後寫查核紀錄",
+   "record_ids": [
+    "kr-lic-20261124c-triptorelin-1"
+   ],
+   "resolved_on": "2026-11-24",
+   "resolution": "單方／複方張數或全稱無法查證（證據包成分欄只記比對到的成分）；以 correct 紀錄拿掉單方／複方說法、張數改指向빠른 개요與程式表（2026-11-24 第四輪用戶決定）"
   }
  ]
 }

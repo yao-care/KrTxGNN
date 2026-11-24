@@ -21,11 +21,11 @@
   "items_current": 2087
  },
  "reviews": {
-  "records": 579,
-  "pages": 495,
-  "public_pages_with_records": 467,
+  "records": 764,
+  "pages": 542,
+  "public_pages_with_records": 514,
   "by_action": {
-   "correct": 136,
+   "correct": 321,
    "mechanism": 443
   }
  },
@@ -49,7 +49,7 @@
    "l": "L2",
    "lt": 20,
    "lv": 20,
-   "r": 1,
+   "r": 3,
    "i": "chronic hepatitis B virus infection"
   },
   {
@@ -58,7 +58,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 1,
+   "r": 2,
    "i": "단지증-합지증 증후군"
   },
   {
@@ -67,7 +67,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 1,
+   "r": 3,
    "i": "renal hypodysplasia/aplasia"
   },
   {
@@ -85,7 +85,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 1,
+   "r": 2,
    "i": "베타-케토티올라제 결핍증"
   },
   {
@@ -103,7 +103,7 @@
    "l": "L1",
    "lt": 17,
    "lv": 17,
-   "r": 0,
+   "r": 1,
    "i": "eye disease"
   }
  ],
@@ -114,7 +114,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "담낭 선편평상피암"
   },
   {
@@ -139,6 +139,33 @@
  "no_current_more": 0,
  "most_reviewed": [
   {
+   "t": "Ambroxol Hydrochloride",
+   "u": "/drugs/ambroxol-hydrochloride/",
+   "l": "L5",
+   "lt": 0,
+   "lv": 20,
+   "r": 4,
+   "i": "비강 질환"
+  },
+  {
+   "t": "Daunorubicin",
+   "u": "/drugs/daunorubicin/",
+   "l": "L5",
+   "lt": 4,
+   "lv": 4,
+   "r": 4,
+   "i": "Hodgkins lymphoma"
+  },
+  {
+   "t": "Alfuzosin Hydrochloride",
+   "u": "/drugs/alfuzosin-hydrochloride/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 16,
+   "r": 3,
+   "i": "암브라스형 범발성 선천성 다모증"
+  },
+  {
    "t": "Amantadine Sulfate",
    "u": "/drugs/amantadine-sulfate/",
    "l": "L5",
@@ -146,15 +173,6 @@
    "lv": 2,
    "r": 3,
    "i": "라스무센 아급성 뇌염"
-  },
-  {
-   "t": "Ambroxol Hydrochloride",
-   "u": "/drugs/ambroxol-hydrochloride/",
-   "l": "L5",
-   "lt": 0,
-   "lv": 20,
-   "r": 3,
-   "i": "비강 질환"
   },
   {
    "t": "Amiloride Hydrochloride",
@@ -173,24 +191,6 @@
    "lv": 11,
    "r": 3,
    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
-  },
-  {
-   "t": "Cycloserine",
-   "u": "/drugs/cycloserine/",
-   "l": "L5",
-   "lt": 7,
-   "lv": 6,
-   "r": 3,
-   "i": "과민성 장 증후군"
-  },
-  {
-   "t": "Ranolazine",
-   "u": "/drugs/ranolazine/",
-   "l": "L5",
-   "lt": 3,
-   "lv": 0,
-   "r": 3,
-   "i": "nephrogenic syndrome of inappropriate antidiuresis"
   }
  ],
  "example": {
@@ -199,202 +199,202 @@
   "l": "L1",
   "lt": 17,
   "lv": 17,
-  "r": 0,
+  "r": 1,
   "i": "eye disease"
  },
  "recent_reviews": [
   {
-   "t": "Tretinoin",
-   "u": "/drugs/tretinoin/",
-   "s": "허가 건수: “Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허가된 레티노이드…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Zolmitriptan",
+   "u": "/drugs/zolmitriptan/",
+   "s": "단일·복합 표기: “제조사는 에스케이케미칼(주)이며, 현재 유효한 단일제 1건입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Sucralfate",
-   "u": "/drugs/sucralfate/",
-   "s": "허가 건수: “허가 건수는 단일 성분 1건이며, 제조사는 (주)인트로바이오파마입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Zidovudine",
+   "u": "/drugs/zidovudine/",
+   "s": "단일·복합 표기: “5건 모두 유효한 단일 성분 허가이며 수출용 제품입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Sodium Fluoride",
-   "u": "/drugs/sodium-fluoride/",
-   "s": "허가 제형: “(현재 허가 제형은 PET 진단용 주사제와 치아용 겔뿐임)” → 자료 기준으로 수정",
+   "t": "Venetoclax",
+   "u": "/drugs/venetoclax/",
+   "s": "단일·복합 표기: “Venetoclax는 BCL-2를 선택적으로 억제하는 경구 항종양제로, …” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Scopolamine",
-   "u": "/drugs/scopolamine/",
-   "s": "허가 제형: “(현재 경피 패취 제형만 허가)” → 자료 기준으로 수정",
+   "t": "Valsartan",
+   "u": "/drugs/valsartan/",
+   "s": "단일·복합 표기: “아래는 단일 성분 제품 중 주요 허가입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Rifampicin",
-   "u": "/drugs/rifampicin/",
-   "s": "허가 건수: “14건 중 일부는 수출용 허가입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Triptorelin",
+   "u": "/drugs/triptorelin/",
+   "s": "단일·복합 표기: “6건 모두 단일제이며 유효 상태입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Prednisolone Acetate",
-   "u": "/drugs/prednisolone-acetate/",
-   "s": "허가 건수: “허가 16건 중 주요 5건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Trimebutine",
+   "u": "/drugs/trimebutine/",
+   "s": "단일·복합 표기: “한국에서 단일 성분 제제로 허가된 유효 허가증은 20건입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Potassium Iodide",
-   "u": "/drugs/potassium-iodide/",
-   "s": "허가 건수: “이 외에 클리드점안액, 클리원점안액, 유니렌점안액, 비트렌점안액 등 4건이 더 허가되어…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Trihexyphenidyl",
+   "u": "/drugs/trihexyphenidyl/",
+   "s": "단일·복합 표기: “Trihexyphenidyl은 중추 무스카린 계열 항콜린제로, 한국에는 …” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Polmacoxib",
-   "u": "/drugs/polmacoxib/",
-   "s": "허가 건수: “전체 10건 중 주요 5건만 나열했으며, 10건 모두 단일 성분 제제로 유효 상태입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Tolvaptan",
+   "u": "/drugs/tolvaptan/",
+   "s": "단일·복합 표기: “Tolvaptan은 선택적 바소프레신 V2 수용체 길항제로, 한국에서 4…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Paliperidone",
-   "u": "/drugs/paliperidone/",
-   "s": "허가 건수: “이 외에 인베가서방정9밀리그램(허가번호 202000409)이 있어 총 6건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Tofisopam",
+   "u": "/drugs/tofisopam/",
+   "s": "단일·복합 표기: “Tofisopam은 한국에서 단일제 4개 허가증으로 시판 중인 2,3-벤…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Morphine",
-   "u": "/drugs/morphine/",
-   "s": "허가 건수: “전체 18건이 모두 단일제이며 유효 상태입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Tinidazole",
+   "u": "/drugs/tinidazole/",
+   "s": "단일·복합 표기: “Tinidazole은 5-니트로이미다졸계 항원충·항균제로, 한국에서 단일…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Mometasone",
-   "u": "/drugs/mometasone/",
-   "s": "허가 제형: “또한 한국 허가 제형은 모두 비강분무제입니다. 피부 질환에 쓰는 국소 제형과는 …” → 자료 기준으로 수정",
+   "t": "Ticagrelor",
+   "u": "/drugs/ticagrelor/",
+   "s": "단일·복합 표기: “전체 20건은 모두 단일제이며 60 mg과 90 mg 필름코팅정입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Methionine",
-   "u": "/drugs/methionine/",
-   "s": "단일제·복합제 구분: “총 6건의 허가증이 있으며(모두 단일 성분), 이 중 5건을 나열합니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Thiocolchicoside",
+   "u": "/drugs/thiocolchicoside/",
+   "s": "단일·복합 표기: “두 제품 모두 단일제이며 현재 유효한 수출용 허가입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Lenalidomide",
-   "u": "/drugs/lenalidomide/",
-   "s": "허가 건수: “한국에서 lenalidomide 단일 성분 유효 허가 12건이 확인되며,” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Tenoxicam",
+   "u": "/drugs/tenoxicam/",
+   "s": "단일·복합 표기: “두 허가 모두 단일 성분 제품이며 수출용으로 표기되어 있습니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Isosorbide Dinitrate",
-   "u": "/drugs/isosorbide-dinitrate/",
-   "s": "허가 제형: “한국에는 코오롱제약의 서방캡슐(수출용) 1건이 허가되어 있습니다.” → 자료 기준으로 수정",
+   "t": "Tenofovir Disoproxil",
+   "u": "/drugs/tenofovir-disoproxil/",
+   "s": "단일·복합 표기: “Tenofovir disoproxil은 뉴클레오티드 역전사효소 억제제로,…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Ioversol",
-   "u": "/drugs/ioversol/",
-   "s": "허가 건수: “허가증은 총 7건이며, 위에는 5건만 나열했습니다. 나머지 2건은 수출용 제품인 레이버…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Tenofovir Alafenamide",
+   "u": "/drugs/tenofovir-alafenamide/",
+   "s": "단일·복합 표기: “Tenofovir alafenamide는 한국에서 단일 성분 제제 8건이…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Hydrocortisone Acetate",
-   "u": "/drugs/hydrocortisone-acetate/",
-   "s": "허가 건수: “유효 허가 6건 중 주요 5건입니다. 전체 허가는 7건이며 1건은 취소 상태입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Temozolomide",
+   "u": "/drugs/temozolomide/",
+   "s": "단일·복합 표기: “Temozolomide는 한국에서 단일성분 제제로 9건의 허가증이 있는 …” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Fusidic Acid",
-   "u": "/drugs/fusidic-acid/",
-   "s": "허가 제형: “(현재 한국 허가 제형은 시럽제뿐임)” → 자료 기준으로 수정",
+   "t": "Tamoxifen",
+   "u": "/drugs/tamoxifen/",
+   "s": "단일·복합 표기: “한국에는 총 11건의 단일제 허가증이 유효하며, 이 중 4건은 수출용입니…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Fluticasone",
-   "u": "/drugs/fluticasone/",
-   "s": "허가 건수: “이 외에 트렐리지엘립타, 렐바엘립타, 플루티폼 등을 포함해 총 13건의 유효 허가가 있…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Tadalafil",
+   "u": "/drugs/tadalafil/",
+   "s": "단일·복합 표기: “Tadalafil은 PDE5 억제제로, 한국에서 20건의 단일제 허가증이…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Etoricoxib",
-   "u": "/drugs/etoricoxib/",
-   "s": "허가 건수: “위 5건 외에 6건의 단일제 허가가 더 있습니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Sunitinib",
+   "u": "/drugs/sunitinib/",
+   "s": "단일·복합 표기: “세 제품 모두 한국화이자제약(주)의 단일제이며 유효한 허가 상태입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Esomeprazole",
-   "u": "/drugs/esomeprazole/",
-   "s": "허가 건수: “전체 허가증은 8건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Sulprostone",
+   "u": "/drugs/sulprostone/",
+   "s": "단일·복합 표기: “- 허가 유형: 단일 성분 제제, 유효 상태” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Epinephrine",
-   "u": "/drugs/epinephrine/",
-   "s": "허가 제형: “한국 허가 제품은 모두 주사제이므로” → 자료 기준으로 수정",
+   "t": "Sulindac",
+   "u": "/drugs/sulindac/",
+   "s": "단일·복합 표기: “Sulindac은 비스테로이드성 소염진통제(NSAID)로, 국내에는 단일…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Entacapone",
-   "u": "/drugs/entacapone/",
-   "s": "허가 건수: “이 밖에 스타레보 50/12.5/200, 75/18.75/200, 125/31.25/2…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Sotatercept",
+   "u": "/drugs/sotatercept/",
+   "s": "단일·복합 표기: “4건 모두 한국엠에스디(주)의 단일제이며 유효 상태입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Ebastine",
-   "u": "/drugs/ebastine/",
-   "s": "단일제·복합제 구분: “이 외에 4건(수출용 제품 포함)의 허가가 더 있으며, 총 9건이 모두 유효한 단일 성…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Simvastatin",
+   "u": "/drugs/simvastatin/",
+   "s": "단일·복합 표기: “위 표는 전체 20건 중 5건만 표시한 것이며, 모두 단일 성분 제제로 …” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Desogestrel",
-   "u": "/drugs/desogestrel/",
-   "s": "허가 건수: “허가증은 총 8건이며, 위에는 주요 5건만 나열했습니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Rufinamide",
+   "u": "/drugs/rufinamide/",
+   "s": "단일·복합 표기: “3건 모두 (주)한독의 단일 성분 제품이며 유효한 허가 상태입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Tretinoin",
-   "u": "/drugs/tretinoin/",
-   "s": "허가 건수: “Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허가된 레티노이드…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Zolmitriptan",
+   "u": "/drugs/zolmitriptan/",
+   "s": "단일·복합 표기: “제조사는 에스케이케미칼(주)이며, 현재 유효한 단일제 1건입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Sucralfate",
-   "u": "/drugs/sucralfate/",
-   "s": "허가 건수: “허가 건수는 단일 성분 1건이며, 제조사는 (주)인트로바이오파마입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Zidovudine",
+   "u": "/drugs/zidovudine/",
+   "s": "단일·복합 표기: “5건 모두 유효한 단일 성분 허가이며 수출용 제품입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Sodium Fluoride",
-   "u": "/drugs/sodium-fluoride/",
-   "s": "허가 제형: “(현재 허가 제형은 PET 진단용 주사제와 치아용 겔뿐임)” → 자료 기준으로 수정",
+   "t": "Venetoclax",
+   "u": "/drugs/venetoclax/",
+   "s": "단일·복합 표기: “Venetoclax는 BCL-2를 선택적으로 억제하는 경구 항종양제로, …” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Scopolamine",
-   "u": "/drugs/scopolamine/",
-   "s": "허가 제형: “(현재 경피 패취 제형만 허가)” → 자료 기준으로 수정",
+   "t": "Valsartan",
+   "u": "/drugs/valsartan/",
+   "s": "단일·복합 표기: “아래는 단일 성분 제품 중 주요 허가입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Rifampicin",
-   "u": "/drugs/rifampicin/",
-   "s": "허가 건수: “14건 중 일부는 수출용 허가입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Triptorelin",
+   "u": "/drugs/triptorelin/",
+   "s": "단일·복합 표기: “6건 모두 단일제이며 유효 상태입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Prednisolone Acetate",
-   "u": "/drugs/prednisolone-acetate/",
-   "s": "허가 건수: “허가 16건 중 주요 5건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Trimebutine",
+   "u": "/drugs/trimebutine/",
+   "s": "단일·복합 표기: “한국에서 단일 성분 제제로 허가된 유효 허가증은 20건입니다.” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Potassium Iodide",
-   "u": "/drugs/potassium-iodide/",
-   "s": "허가 건수: “이 외에 클리드점안액, 클리원점안액, 유니렌점안액, 비트렌점안액 등 4건이 더 허가되어…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Trihexyphenidyl",
+   "u": "/drugs/trihexyphenidyl/",
+   "s": "단일·복합 표기: “Trihexyphenidyl은 중추 무스카린 계열 항콜린제로, 한국에는 …” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   },
   {
-   "t": "Polmacoxib",
-   "u": "/drugs/polmacoxib/",
-   "s": "허가 건수: “전체 10건 중 주요 5건만 나열했으며, 10건 모두 단일 성분 제제로 유효 상태입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "t": "Tolvaptan",
+   "u": "/drugs/tolvaptan/",
+   "s": "단일·복합 표기: “Tolvaptan은 선택적 바소프레신 V2 수용체 길항제로, 한국에서 4…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표)",
    "d": "2026-11-24"
   }
  ],

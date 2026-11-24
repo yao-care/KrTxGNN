@@ -38,8 +38,14 @@ predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia",
 
 ## 한 문장 요약
 
-Clarithromycin은 마크로라이드 계열 항생제로, 한국에서 단일제로 20건의 허가증이 유효하게 시판되고 있습니다.
+Clarithromycin은 마크로라이드 계열 항생제로, 한국에서 허가되어 시판되고 있습니다(허가 건수와 상태는 빠른 개요 참조).
 TxGNN 모델은 **다클론성 과점도 증후군(Polyclonal Hyperviscosity Syndrome)**에 효과가 있을 수 있다고 예측하지만, 이를 지지하는 **임상시험은 0건, 문헌도 0편**으로 모델 예측만 존재합니다.
+
+<!-- review:begin kr-lic-20261124c-clarithromycin-1 -->
+
+> **검토 정정 (2026-11-24)**: 원래 문장: “Clarithromycin은 마크로라이드 계열 항생제로, 한국에서 단일제로 20건의 허가증이 유효하게 시판되고 있습니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 사이트 자료의 성분란에는 일치한 성분만 기록되어 허가 품목별 단일 성분·복합 성분 여부를 확인할 수 없으므로, 단일·복합 표기를 빼고 건수는 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261124c-clarithromycin-1 -->
 
 ## 빠른 개요
 
@@ -114,11 +120,12 @@ TxGNN 모델은 **다클론성 과점도 증후군(Polyclonal Hyperviscosity Syn
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
+| 2026-11-24 | 단일·복합 표기: “Clarithromycin은 마크로라이드 계열 항생제로, 한국에서 단일제…” → 확인할 수 없는 단일·복합 표기와 건수 삭제(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 
