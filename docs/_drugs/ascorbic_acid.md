@@ -70,7 +70,13 @@ TxGNN 모델은 **비증후군성 식도 기형(non-syndromic esophageal malform
 
 ## 한국 시판 정보
 
-국내에는 단일 성분 제제 20건이 허가되어 있으며, 이 중 19건이 유효합니다. 아래는 주요 허가 5건입니다.
+국내 허가 건수와 상태(유효·취소)는 빠른 개요와 아래 표에 있습니다. 아래는 주요 허가 5건입니다.
+
+<!-- review:begin kr-lic-20261124b-ascorbic_acid-1 -->
+
+> **검토 정정 (2026-11-24)**: 원래 문장: “국내에는 단일 성분 제제 20건이 허가되어 있으며, 이 중 19건이 유효합니다.” 식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+
+<!-- review:end kr-lic-20261124b-ascorbic_acid-1 -->
 
 <!-- licenses:begin -->
 
@@ -115,11 +121,12 @@ Paclitaxel, Cisplatin, Doxorubicin, Ethinylestradiol, Pseudoephedrine, Ephedrine
 
 ## 검토 기록
 
-아래는 이 페이지의 검토 기록입니다. 작용 기전 자료가 없다는 문장을 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다. 모델 예측, 근거 수준, 결론은 다시 쓰지 않았습니다.
+이 페이지의 검토 기록입니다. 식품의약품안전처 의약품안전나라(nedrug) 허가 자료와 대조했습니다. 정정은 기본적인 사실 진술에 한정되며, 모델 예측·근거 수준·결론은 고쳐 쓰지 않았습니다. 작용 기전 자료가 없다는 문장은 인용한 공식 처방 정보의 발췌문(비공식 번역 포함)으로 교체했습니다.
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+| 2026-11-24 | 허가 건수: “국내에는 단일 성분 제제 20건이 허가되어 있으며, 이 중 19건이 유효합니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표) | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

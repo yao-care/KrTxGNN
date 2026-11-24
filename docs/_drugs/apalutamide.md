@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 77
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -47,7 +47,7 @@ APALUTAMIDE(DrugBank ID: DB11901)는 이번 Evidence Pack에는 TxGNN 예측 적
 
 <!-- review:begin kr-lic-20261105-apalutamide-1 -->
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “APALUTAMIDE(DrugBank ID: DB11901)는 현재 한국 미허가 약물로, 이번 Evidence Pack에는 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.” 삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “APALUTAMIDE(DrugBank ID: DB11901)는 현재 한국 미허가 약물로, 이번 Evidence Pack에는 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.” 삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261105-apalutamide-1 -->
 
@@ -98,7 +98,7 @@ TxGNN 예측 적응증 목록(`predicted_indications`)이 비어 있어 재창�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “현재 한국 미허가 약물로” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 삭제: “현재 한국 미허가 약물로” | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 

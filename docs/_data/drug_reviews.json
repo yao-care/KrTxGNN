@@ -9,7 +9,7 @@
    "action": "correct",
    "claim": "- 한국 허가사항(경고, 금기) 확인 — 현재 미시판이므로 원산지국 허가사항(ReoPro 미국/유럽 SmPC) 대체 적용 검토 (DG001, Blocking)",
    "replacement": "- 한국 허가사항(경고, 금기) 확인 (DG001, Blocking)",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -18,9 +18,33 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "삭제: “— 현재 미시판이므로 원산지국 허가사항(ReoPro 미국/유럽 SmPC) 대체 적용 검토”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+   "history": [
+    {
+     "id": "kr-lic-20261031-abciximab-1",
+     "drug": "abciximab",
+     "file": "abciximab.md",
+     "action": "correct",
+     "claim": "- 한국 허가사항(경고, 금기) 확인 — 현재 미시판이므로 원산지국 허가사항(ReoPro 미국/유럽 SmPC) 대체 적용 검토 (DG001, Blocking)",
+     "replacement": "- 한국 허가사항(경고, 금기) 확인 (DG001, Blocking)",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "삭제: “— 현재 미시판이므로 원산지국 허가사항(ReoPro 미국/유럽 SmPC) 대체 적용 검토”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-abciximab-2",
@@ -29,7 +53,7 @@
    "action": "correct",
    "claim": "Abciximab(DrugBank ID: DB00054)은 한국에 허가된 이력이 없는 약물로, 이번 Evidence Pack에는 기존 적응증 및 TxGNN 예측 적응증 데이터가 모두 포함되어 있지 않습니다.",
    "replacement": "Abciximab(DrugBank ID: DB00054)은 이번 Evidence Pack에는 기존 적응증 및 TxGNN 예측 적응증 데이터가 모두 포함되어 있지 않습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -38,9 +62,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “한국에 허가된 이력이 없는 약물로”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-abciximab-2",
+     "drug": "abciximab",
+     "file": "abciximab.md",
+     "action": "correct",
+     "claim": "Abciximab(DrugBank ID: DB00054)은 한국에 허가된 이력이 없는 약물로, 이번 Evidence Pack에는 기존 적응증 및 TxGNN 예측 적응증 데이터가 모두 포함되어 있지 않습니다.",
+     "replacement": "Abciximab(DrugBank ID: DB00054)은 이번 Evidence Pack에는 기존 적응증 및 TxGNN 예측 적응증 데이터가 모두 포함되어 있지 않습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “한국에 허가된 이력이 없는 약물로”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-abciximab-3",
@@ -49,7 +97,7 @@
    "action": "correct",
    "claim": "현재 한국에 Abciximab 성분으로 등록된 허가증이 없습니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -58,10 +106,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “현재 한국에 Abciximab 성분으로 등록된 허가증이 없습니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "안전성 정보는 허가사항을 참조하세요."
+   "anchor": "안전성 정보는 허가사항을 참조하세요.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-abciximab-3",
+     "drug": "abciximab",
+     "file": "abciximab.md",
+     "action": "correct",
+     "claim": "현재 한국에 Abciximab 성분으로 등록된 허가증이 없습니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “현재 한국에 Abciximab 성분으로 등록된 허가증이 없습니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "안전성 정보는 허가사항을 참조하세요.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-acipimox-1",
@@ -110,7 +183,7 @@
    "action": "correct",
    "claim": "전체 9건이 모두 단일제로 유효하며, 이 중 주요 5건만 표시했습니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 12건(유효 9건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -119,10 +192,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “전체 9건이 모두 단일제로 유효하며, 이 중 주요 5건만 표시했습니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "위 문헌은 어느 것도 C형 간염에서의 아데포비어 효과를 평가하지 않았습니다."
+   "anchor": "위 문헌은 어느 것도 C형 간염에서의 아데포비어 효과를 평가하지 않았습니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-adefovir_dipivoxil-1",
+     "drug": "adefovir_dipivoxil",
+     "file": "adefovir_dipivoxil.md",
+     "action": "correct",
+     "claim": "전체 9건이 모두 단일제로 유효하며, 이 중 주요 5건만 표시했습니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 12건(유효 9건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “전체 9건이 모두 단일제로 유효하며, 이 중 주요 5건만 표시했습니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "위 문헌은 어느 것도 C형 간염에서의 아데포비어 효과를 평가하지 않았습니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-agalsidase_beta-1",
@@ -593,7 +691,7 @@
    "action": "correct",
    "claim": "`predicted_indications: []`이고 `original_indications: []`이며 한국 허가 없음(0건)인 상태입니다.",
    "replacement": "`predicted_indications: []`이고 `original_indications: []`인 상태입니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 4건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "MFDS 有效許可存在，「한국 허가 없음(0건)」與事實矛盾；預測、原適應症資料狀態保留",
    "sources": [
     {
@@ -602,9 +700,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “[]`이며 한국 허가 없음(0건)인”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-amphotericin_b-1",
+     "drug": "amphotericin_b",
+     "file": "amphotericin_b.md",
+     "action": "correct",
+     "claim": "`predicted_indications: []`이고 `original_indications: []`이며 한국 허가 없음(0건)인 상태입니다.",
+     "replacement": "`predicted_indications: []`이고 `original_indications: []`인 상태입니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 4건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "MFDS 有效許可存在，「한국 허가 없음(0건)」與事實矛盾；預測、原適應症資料狀態保留",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “[]`이며 한국 허가 없음(0건)인”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-anhydrous_caffeine-1",
@@ -636,7 +758,7 @@
    "action": "correct",
    "claim": "APALUTAMIDE(DrugBank ID: DB11901)는 현재 한국 미허가 약물로, 이번 Evidence Pack에는 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.",
    "replacement": "APALUTAMIDE(DrugBank ID: DB11901)는 이번 Evidence Pack에는 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.",
-   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
@@ -645,9 +767,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “현재 한국 미허가 약물로”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-apalutamide-1",
+     "drug": "apalutamide",
+     "file": "apalutamide.md",
+     "action": "correct",
+     "claim": "APALUTAMIDE(DrugBank ID: DB11901)는 현재 한국 미허가 약물로, 이번 Evidence Pack에는 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.",
+     "replacement": "APALUTAMIDE(DrugBank ID: DB11901)는 이번 Evidence Pack에는 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.",
+     "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “현재 한국 미허가 약물로”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-apraclonidine_hydrochloride-1",
@@ -676,7 +822,7 @@
    "action": "correct",
    "claim": "TxGNN 모델의 **예측 결과가 생성되지 않았으며**, 시판 허가 기록도 없어 **현 시점에서 재창출 후보 평가를 진행할 수 없습니다.**",
    "replacement": "TxGNN 모델의 **예측 결과가 생성되지 않았으며**, **현 시점에서 재창출 후보 평가를 진행할 수 없습니다.**",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "MFDS 有效許可存在，「시판 허가 기록도 없어」與事實矛盾；預測狀態保留",
    "sources": [
     {
@@ -685,9 +831,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “시판 허가 기록도 없어”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-apraclonidine_hydrochloride-2",
+     "drug": "apraclonidine_hydrochloride",
+     "file": "apraclonidine_hydrochloride.md",
+     "action": "correct",
+     "claim": "TxGNN 모델의 **예측 결과가 생성되지 않았으며**, 시판 허가 기록도 없어 **현 시점에서 재창출 후보 평가를 진행할 수 없습니다.**",
+     "replacement": "TxGNN 모델의 **예측 결과가 생성되지 않았으며**, **현 시점에서 재창출 후보 평가를 진행할 수 없습니다.**",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "MFDS 有效許可存在，「시판 허가 기록도 없어」與事實矛盾；預測狀態保留",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “시판 허가 기록도 없어”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-apraclonidine_hydrochloride-3",
@@ -696,7 +866,7 @@
    "action": "correct",
    "claim": "시판 허가 기록도 없어 현지 규제 맥락 역시 확인이 불가능합니다.",
    "replacement": "현지 규제 맥락 역시 확인이 불가능합니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "MFDS 有效許可存在，「시판 허가 기록도 없어」與事實矛盾；預測狀態保留",
    "sources": [
     {
@@ -705,9 +875,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “시판 허가 기록도 없어”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-apraclonidine_hydrochloride-3",
+     "drug": "apraclonidine_hydrochloride",
+     "file": "apraclonidine_hydrochloride.md",
+     "action": "correct",
+     "claim": "시판 허가 기록도 없어 현지 규제 맥락 역시 확인이 불가능합니다.",
+     "replacement": "현지 규제 맥락 역시 확인이 불가능합니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "MFDS 有效許可存在，「시판 허가 기록도 없어」與事實矛盾；預測狀態保留",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “시판 허가 기록도 없어”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-aripiprazole_monohydrate-1",
@@ -736,7 +930,7 @@
    "action": "correct",
    "claim": "한국 내 시판 기록도 없으며, 작용 기전(MOA)과 허가 경고·금기 데이터 모두 누락되어 있어 약물 재창출 가능성을 정식 평가하기 위한 추가 데이터 확보가 선행되어야 합니다.",
    "replacement": "작용 기전(MOA)과 허가 경고·금기 데이터 모두 누락되어 있어 약물 재창출 가능성을 정식 평가하기 위한 추가 데이터 확보가 선행되어야 합니다.",
-   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 4건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
@@ -745,9 +939,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “한국 내 시판 기록도 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-arotinolol_hydrochloride-1",
+     "drug": "arotinolol_hydrochloride",
+     "file": "arotinolol_hydrochloride.md",
+     "action": "correct",
+     "claim": "한국 내 시판 기록도 없으며, 작용 기전(MOA)과 허가 경고·금기 데이터 모두 누락되어 있어 약물 재창출 가능성을 정식 평가하기 위한 추가 데이터 확보가 선행되어야 합니다.",
+     "replacement": "작용 기전(MOA)과 허가 경고·금기 데이터 모두 누락되어 있어 약물 재창출 가능성을 정식 평가하기 위한 추가 데이터 확보가 선행되어야 합니다.",
+     "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 4건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “한국 내 시판 기록도 없으며”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261031-atosiban_acetate-1",
@@ -756,7 +974,7 @@
    "action": "correct",
    "claim": "ATOSIBAN ACETATE는 현재 한국 허가 이력이 없으며 시판되지 않는 약물입니다.\nTxGNN 모델은 이 약물에 대한 재창출 적응증을 예측하지 못했고,",
    "replacement": "TxGNN 모델은 이 약물에 대한 재창출 적응증을 예측하지 못했고,",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 3건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -765,9 +983,33 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "삭제: “ATOSIBAN ACETATE는 현재 한국 허가 이력이 없으며 시판되지 않는 약물입니다”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+   "history": [
+    {
+     "id": "kr-lic-20261031-atosiban_acetate-1",
+     "drug": "atosiban_acetate",
+     "file": "atosiban_acetate.md",
+     "action": "correct",
+     "claim": "ATOSIBAN ACETATE는 현재 한국 허가 이력이 없으며 시판되지 않는 약물입니다.\nTxGNN 모델은 이 약물에 대한 재창출 적응증을 예측하지 못했고,",
+     "replacement": "TxGNN 모델은 이 약물에 대한 재창출 적응증을 예측하지 못했고,",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 3건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "삭제: “ATOSIBAN ACETATE는 현재 한국 허가 이력이 없으며 시판되지 않는 약물입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-atovaquone-1",
@@ -776,7 +1018,7 @@
    "action": "correct",
    "claim": "현재 허가된 제품이 없습니다.",
    "replacement": "",
-   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
@@ -785,10 +1027,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “현재 허가된 제품이 없습니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "안전성 정보는 허가사항을 참조하세요."
+   "anchor": "안전성 정보는 허가사항을 참조하세요.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-atovaquone-1",
+     "drug": "atovaquone",
+     "file": "atovaquone.md",
+     "action": "correct",
+     "claim": "현재 허가된 제품이 없습니다.",
+     "replacement": "",
+     "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “현재 허가된 제품이 없습니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "안전성 정보는 허가사항을 참조하세요.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-atropine-1",
@@ -797,7 +1064,7 @@
    "action": "correct",
    "claim": "이 외에도 점안제(마이오텍트 0.05%·0.1%·0.125%, 마이오가드, 마이오캡, 알콘아트로핀 1%)와 주사제 등 총 14건이 유효 허가 상태입니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 13건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -806,10 +1073,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “이 외에도 점안제(마이오텍트 0.05%·0.1%·0.125%, 마이오가드, 마이오캡, 알콘아트로핀 1%)와 주사제 등 총 14건이 유효 허가 상태입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "위 문헌 중 atropine을 편두통 치료제로 직접 평가한 연구는 없습니다."
+   "anchor": "위 문헌 중 atropine을 편두통 치료제로 직접 평가한 연구는 없습니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-atropine-1",
+     "drug": "atropine",
+     "file": "atropine.md",
+     "action": "correct",
+     "claim": "이 외에도 점안제(마이오텍트 0.05%·0.1%·0.125%, 마이오가드, 마이오캡, 알콘아트로핀 1%)와 주사제 등 총 14건이 유효 허가 상태입니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 13건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “이 외에도 점안제(마이오텍트 0.05%·0.1%·0.125%, 마이오가드, 마이오캡, 알콘아트로핀 1%)와 주사제 등 총 14건이 유효 허가 상태입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "위 문헌 중 atropine을 편두통 치료제로 직접 평가한 연구는 없습니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-atropine_sulfate_hydrate-1",
@@ -818,7 +1110,7 @@
    "action": "correct",
    "claim": "한국 내 허가 이력이 전무하고, 작용 기전(MOA)·경고·금기 등 핵심 데이터가 누락되어 있어 **현재 상태로는 약물 재창출 평가를 진행할 수 없습니다.**",
    "replacement": "작용 기전(MOA)·경고·금기 등 핵심 데이터가 누락되어 있어 **현재 상태로는 약물 재창출 평가를 진행할 수 없습니다.**",
-   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 13건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
@@ -827,9 +1119,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “한국 내 허가 이력이 전무하고”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-atropine_sulfate_hydrate-1",
+     "drug": "atropine_sulfate_hydrate",
+     "file": "atropine_sulfate_hydrate.md",
+     "action": "correct",
+     "claim": "한국 내 허가 이력이 전무하고, 작용 기전(MOA)·경고·금기 등 핵심 데이터가 누락되어 있어 **현재 상태로는 약물 재창출 평가를 진행할 수 없습니다.**",
+     "replacement": "작용 기전(MOA)·경고·금기 등 핵심 데이터가 누락되어 있어 **현재 상태로는 약물 재창출 평가를 진행할 수 없습니다.**",
+     "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 13건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “한국 내 허가 이력이 전무하고”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-atropine_sulfate_hydrate-2",
@@ -838,7 +1154,7 @@
    "action": "correct",
    "claim": "TxGNN 예측 결과가 없고, 한국 내 허가 이력이 없으며, MOA·경고·금기 등 평가에 필수적인 데이터가 모두 누락되어 있어 재창출 가능성을 판단할 근거가 전혀 없습니다.",
    "replacement": "TxGNN 예측 결과가 없고, MOA·경고·금기 등 평가에 필수적인 데이터가 모두 누락되어 있어 재창출 가능성을 판단할 근거가 전혀 없습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 13건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -847,9 +1163,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “한국 내 허가 이력이 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-atropine_sulfate_hydrate-2",
+     "drug": "atropine_sulfate_hydrate",
+     "file": "atropine_sulfate_hydrate.md",
+     "action": "correct",
+     "claim": "TxGNN 예측 결과가 없고, 한국 내 허가 이력이 없으며, MOA·경고·금기 등 평가에 필수적인 데이터가 모두 누락되어 있어 재창출 가능성을 판단할 근거가 전혀 없습니다.",
+     "replacement": "TxGNN 예측 결과가 없고, MOA·경고·금기 등 평가에 필수적인 데이터가 모두 누락되어 있어 재창출 가능성을 판단할 근거가 전혀 없습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 13건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “한국 내 허가 이력이 없으며”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261031-axicabtagene_ciloleucel-1",
@@ -858,7 +1198,7 @@
    "action": "correct",
    "claim": "Axicabtagene ciloleucel(DB13915)은 현재 한국에 시판되지 않은 약물입니다.\n이번 Evidence Pack에는 **TxGNN 예측 적응증이 없으며**, 작용 기전·안전성 데이터도 모두 누락되어 있어 표준 약물 재창출 평가를 수행할 수 없습니다.",
    "replacement": "이번 Evidence Pack에는 **TxGNN 예측 적응증이 없으며**, 작용 기전·안전성 데이터도 모두 누락되어 있어 표준 약물 재창출 평가를 수행할 수 없습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -867,9 +1207,33 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "삭제: “Axicabtagene ciloleucel(DB13915)은 현재 한국에 시판되지 않은 약물입니다”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+   "history": [
+    {
+     "id": "kr-lic-20261031-axicabtagene_ciloleucel-1",
+     "drug": "axicabtagene_ciloleucel",
+     "file": "axicabtagene_ciloleucel.md",
+     "action": "correct",
+     "claim": "Axicabtagene ciloleucel(DB13915)은 현재 한국에 시판되지 않은 약물입니다.\n이번 Evidence Pack에는 **TxGNN 예측 적응증이 없으며**, 작용 기전·안전성 데이터도 모두 누락되어 있어 표준 약물 재창출 평가를 수행할 수 없습니다.",
+     "replacement": "이번 Evidence Pack에는 **TxGNN 예측 적응증이 없으며**, 작용 기전·안전성 데이터도 모두 누락되어 있어 표준 약물 재창출 평가를 수행할 수 없습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "삭제: “Axicabtagene ciloleucel(DB13915)은 현재 한국에 시판되지 않은 약물입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-azacitidine-1",
@@ -878,7 +1242,7 @@
    "action": "correct",
    "claim": "Azacitidine(DrugBank ID: DB00928)은 현재 한국 내 허가 이력이 없으며, 이번 Evidence Pack에는 기존 적응증과 TxGNN 예측 적응증이 포함되어 있지 않습니다.",
    "replacement": "Azacitidine(DrugBank ID: DB00928)은 이번 Evidence Pack에는 기존 적응증과 TxGNN 예측 적응증이 포함되어 있지 않습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 6건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -887,9 +1251,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “현재 한국 내 허가 이력이 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-azacitidine-1",
+     "drug": "azacitidine",
+     "file": "azacitidine.md",
+     "action": "correct",
+     "claim": "Azacitidine(DrugBank ID: DB00928)은 현재 한국 내 허가 이력이 없으며, 이번 Evidence Pack에는 기존 적응증과 TxGNN 예측 적응증이 포함되어 있지 않습니다.",
+     "replacement": "Azacitidine(DrugBank ID: DB00928)은 이번 Evidence Pack에는 기존 적응증과 TxGNN 예측 적응증이 포함되어 있지 않습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 6건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “현재 한국 내 허가 이력이 없으며”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261031-azathioprine-1",
@@ -898,7 +1286,7 @@
    "action": "correct",
    "claim": "Azathioprine은 퓨린 계열 항대사 면역억제제로, 한국에서는 시판되지 않습니다.",
    "replacement": "Azathioprine은 퓨린 계열 항대사 면역억제제입니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 13건(유효 11건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -907,9 +1295,33 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "삭제: “면역억제제로, 한국에서는 시판되지 않습니다”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+   "history": [
+    {
+     "id": "kr-lic-20261031-azathioprine-1",
+     "drug": "azathioprine",
+     "file": "azathioprine.md",
+     "action": "correct",
+     "claim": "Azathioprine은 퓨린 계열 항대사 면역억제제로, 한국에서는 시판되지 않습니다.",
+     "replacement": "Azathioprine은 퓨린 계열 항대사 면역억제제입니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 13건(유효 11건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "삭제: “면역억제제로, 한국에서는 시판되지 않습니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-azelaic_acid-1",
@@ -918,7 +1330,7 @@
    "action": "correct",
    "claim": "Azelaic Acid(아젤라산, DB00548)는 한국 내 허가 이력이 없으며, 이번 Evidence Pack에는 원래 적응증 정보가 포함되어 있지 않습니다.",
    "replacement": "Azelaic Acid(아젤라산, DB00548)는 이번 Evidence Pack에는 원래 적응증 정보가 포함되어 있지 않습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -927,9 +1339,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “한국 내 허가 이력이 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-azelaic_acid-1",
+     "drug": "azelaic_acid",
+     "file": "azelaic_acid.md",
+     "action": "correct",
+     "claim": "Azelaic Acid(아젤라산, DB00548)는 한국 내 허가 이력이 없으며, 이번 Evidence Pack에는 원래 적응증 정보가 포함되어 있지 않습니다.",
+     "replacement": "Azelaic Acid(아젤라산, DB00548)는 이번 Evidence Pack에는 원래 적응증 정보가 포함되어 있지 않습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “한국 내 허가 이력이 없으며”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-azelastine_hydrochloride-1",
@@ -998,7 +1434,7 @@
    "action": "correct",
    "claim": "AZELNIDIPINE(DB09230)은 현재 한국 미허가 약물로, 이번 평가에 필요한 기초 데이터가 수집되지 않았습니다.",
    "replacement": "AZELNIDIPINE(DB09230)은 이번 평가에 필요한 기초 데이터가 수집되지 않았습니다.",
-   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 10건(유효 10건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
@@ -1007,9 +1443,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “현재 한국 미허가 약물로”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-azelnidipine-2",
+     "drug": "azelnidipine",
+     "file": "azelnidipine.md",
+     "action": "correct",
+     "claim": "AZELNIDIPINE(DB09230)은 현재 한국 미허가 약물로, 이번 평가에 필요한 기초 데이터가 수집되지 않았습니다.",
+     "replacement": "AZELNIDIPINE(DB09230)은 이번 평가에 필요한 기초 데이터가 수집되지 않았습니다.",
+     "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 10건(유효 10건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “현재 한국 미허가 약물로”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-azelnidipine-3",
@@ -1018,7 +1478,7 @@
    "action": "correct",
    "claim": "한국 식약처(MFDS) 허가 이력이 없고 DrugBank 외 추가 입력 데이터도 없는 상태로, 예측 파이프라인이 실행되었더라도 입력 품질의 한계로 결과 신뢰도를 보장하기 어렵습니다.",
    "replacement": "DrugBank 외 추가 입력 데이터도 없는 상태로, 예측 파이프라인이 실행되었더라도 입력 품질의 한계로 결과 신뢰도를 보장하기 어렵습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 10건(유효 10건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -1027,9 +1487,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “한국 식약처(MFDS) 허가 이력이 없고”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-azelnidipine-3",
+     "drug": "azelnidipine",
+     "file": "azelnidipine.md",
+     "action": "correct",
+     "claim": "한국 식약처(MFDS) 허가 이력이 없고 DrugBank 외 추가 입력 데이터도 없는 상태로, 예측 파이프라인이 실행되었더라도 입력 품질의 한계로 결과 신뢰도를 보장하기 어렵습니다.",
+     "replacement": "DrugBank 외 추가 입력 데이터도 없는 상태로, 예측 파이프라인이 실행되었더라도 입력 품질의 한계로 결과 신뢰도를 보장하기 어렵습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 10건(유효 10건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “한국 식약처(MFDS) 허가 이력이 없고”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-bacampicillin_hydrochloride-1",
@@ -1058,7 +1542,7 @@
    "action": "correct",
    "claim": "TxGNN 예측 적응증이 존재하지 않아 재창출 가능성을 평가할 수 없으며, 해당 약물은 시판 이력이 없어 규제 정보도 확보되어 있지 않습니다.",
    "replacement": "TxGNN 예측 적응증이 존재하지 않아 재창출 가능성을 평가할 수 없으며, 해당 약물은 규제 정보도 확보되어 있지 않습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 2건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -1067,9 +1551,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “시판 이력이 없어”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-bacampicillin_hydrochloride-2",
+     "drug": "bacampicillin_hydrochloride",
+     "file": "bacampicillin_hydrochloride.md",
+     "action": "correct",
+     "claim": "TxGNN 예측 적응증이 존재하지 않아 재창출 가능성을 평가할 수 없으며, 해당 약물은 시판 이력이 없어 규제 정보도 확보되어 있지 않습니다.",
+     "replacement": "TxGNN 예측 적응증이 존재하지 않아 재창출 가능성을 평가할 수 없으며, 해당 약물은 규제 정보도 확보되어 있지 않습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 2건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “시판 이력이 없어”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-baloxavir_marboxil-1",
@@ -1078,7 +1586,7 @@
    "action": "correct",
    "claim": "Baloxavir Marboxil(DrugBank: DB13997)은 현재 한국 시판 기록이 없으며, Evidence Pack에는 기존 적응증 정보와 TxGNN 재창출 예측 결과가 모두 포함되어 있지 않습니다.",
    "replacement": "Baloxavir Marboxil(DrugBank: DB13997)은 Evidence Pack에는 기존 적응증 정보와 TxGNN 재창출 예측 결과가 모두 포함되어 있지 않습니다.",
-   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 2건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
    "sources": [
     {
@@ -1087,9 +1595,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “현재 한국 시판 기록이 없으며”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-baloxavir_marboxil-1",
+     "drug": "baloxavir_marboxil",
+     "file": "baloxavir_marboxil.md",
+     "action": "correct",
+     "claim": "Baloxavir Marboxil(DrugBank: DB13997)은 현재 한국 시판 기록이 없으며, Evidence Pack에는 기존 적응증 정보와 TxGNN 재창출 예측 결과가 모두 포함되어 있지 않습니다.",
+     "replacement": "Baloxavir Marboxil(DrugBank: DB13997)은 Evidence Pack에는 기존 적응증 정보와 TxGNN 재창출 예측 결과가 모두 포함되어 있지 않습니다.",
+     "note": "삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 2건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：generic）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “현재 한국 시판 기록이 없으며”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-bazedoxifene_acetate-1",
@@ -1118,7 +1650,7 @@
    "action": "correct",
    "claim": "이 외에 3건(칼시베타연고, 다이보넥스연고, 자미올겔)이 더 허가되어 있어 총 8건이 모두 유효한 단일제입니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 10건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1127,10 +1659,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “이 외에 3건(칼시베타연고, 다이보넥스연고, 자미올겔)이 더 허가되어 있어 총 8건이 모두 유효한 단일제입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "현재 관련 임상시험 등록이 없습니다."
+   "anchor": "현재 관련 임상시험 등록이 없습니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-calcipotriol-1",
+     "drug": "calcipotriol",
+     "file": "calcipotriol.md",
+     "action": "correct",
+     "claim": "이 외에 3건(칼시베타연고, 다이보넥스연고, 자미올겔)이 더 허가되어 있어 총 8건이 모두 유효한 단일제입니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 10건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “이 외에 3건(칼시베타연고, 다이보넥스연고, 자미올겔)이 더 허가되어 있어 총 8건이 모두 유효한 단일제입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "현재 관련 임상시험 등록이 없습니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261031-cemiplimab-1",
@@ -1162,7 +1719,7 @@
    "action": "correct",
    "claim": "그 외 큐로스캡슐(유영제약), 이텍스시클로세린캡슐(테라젠이텍스) 등 총 7건이 모두 단일제로 유효하며, 대부분 수출용입니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 7건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1171,10 +1728,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “그 외 큐로스캡슐(유영제약), 이텍스시클로세린캡슐(테라젠이텍스) 등 총 7건이 모두 단일제로 유효하며, 대부분 수출용입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "과민성 장 증후군과의 연관성은 장내 미생물 조절이나 장관 NMDA 신호전달을 통한 가설 수준에 불과합니다. 제공된 데이터로는 이를 뒷받침할 수 없으며, 기존 적응증(결핵)과 신규 적응증 간의 유사성 분석도 아직 수행되지 않았습니다."
+   "anchor": "과민성 장 증후군과의 연관성은 장내 미생물 조절이나 장관 NMDA 신호전달을 통한 가설 수준에 불과합니다. 제공된 데이터로는 이를 뒷받침할 수 없으며, 기존 적응증(결핵)과 신규 적응증 간의 유사성 분석도 아직 수행되지 않았습니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-cycloserine-1",
+     "drug": "cycloserine",
+     "file": "cycloserine.md",
+     "action": "correct",
+     "claim": "그 외 큐로스캡슐(유영제약), 이텍스시클로세린캡슐(테라젠이텍스) 등 총 7건이 모두 단일제로 유효하며, 대부분 수출용입니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 7건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “그 외 큐로스캡슐(유영제약), 이텍스시클로세린캡슐(테라젠이텍스) 등 총 7건이 모두 단일제로 유효하며, 대부분 수출용입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "과민성 장 증후군과의 연관성은 장내 미생물 조절이나 장관 NMDA 신호전달을 통한 가설 수준에 불과합니다. 제공된 데이터로는 이를 뒷받침할 수 없으며, 기존 적응증(결핵)과 신규 적응증 간의 유사성 분석도 아직 수행되지 않았습니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-cycloserine-2",
@@ -1183,7 +1765,7 @@
    "action": "correct",
    "claim": "Cycloserine은 항결핵제로 사용되는 약물로, 한국에서 7건의 허가증이 유효한 상태로 시판되고 있습니다.",
    "replacement": "Cycloserine은 항결핵제로 사용되는 약물로, 한국에서 시판되고 있습니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 7건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "用戶決定（2026-11-05）：人工拆句，只刪錯的張數（事實：유효 6건／전체 7건），保留藥物身分（항결핵제）與「한국에서 시판」（國內有有效許可）",
    "sources": [
     {
@@ -1192,9 +1774,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “7건의 허가증이 유효한 상태로”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5bce24ee（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5bce24ee（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-cycloserine-2",
+     "drug": "cycloserine",
+     "file": "cycloserine.md",
+     "action": "correct",
+     "claim": "Cycloserine은 항결핵제로 사용되는 약물로, 한국에서 7건의 허가증이 유효한 상태로 시판되고 있습니다.",
+     "replacement": "Cycloserine은 항결핵제로 사용되는 약물로, 한국에서 시판되고 있습니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 7건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "用戶決定（2026-11-05）：人工拆句，只刪錯的張數（事實：유효 6건／전체 7건），保留藥物身分（항결핵제）與「한국에서 시판」（國內有有效許可）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “7건의 허가증이 유효한 상태로”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：5bce24ee（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-doxorubicin-1",
@@ -1203,7 +1809,7 @@
    "action": "correct",
    "claim": "총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다. 위 표는 대표 5건만 나열한 것입니다.",
    "replacement": "대표 허가는 위 표와 같습니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 12건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1237,6 +1843,28 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：只講舊表列數的說明句改成不寫數字的寫法（程式表選列沿用原表，列數由表下程式說明句維護）"
+    },
+    {
+     "id": "kr-lic-20261105-doxorubicin-1",
+     "drug": "doxorubicin",
+     "file": "doxorubicin.md",
+     "action": "correct",
+     "claim": "총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다. 위 표는 대표 5건만 나열한 것입니다.",
+     "replacement": "대표 허가는 위 표와 같습니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 14건(유효 12건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-24",
+     "summary": "삭제: “총 12건이 모두 단일성분이며 유효 상태입니다. 이 중 수출용 허가도 여럿 포함되어 있습니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
     }
    ]
   },
@@ -1311,7 +1939,7 @@
    "action": "correct",
    "claim": "6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 8건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1320,10 +1948,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "현재 관련 임상시험 등록이 없습니다."
+   "anchor": "현재 관련 임상시험 등록이 없습니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-etoposide-1",
+     "drug": "etoposide",
+     "file": "etoposide.md",
+     "action": "correct",
+     "claim": "6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 8건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "현재 관련 임상시험 등록이 없습니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-felodipine-1",
@@ -1376,7 +2029,7 @@
    "action": "correct",
    "claim": "허가증 7건은 모두 단일제이며 유효 상태입니다. 허가 적응증은 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없습니다.",
    "replacement": "허가 적응증은 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없습니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 8건(유효 7건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1385,9 +2038,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “허가증 7건은 모두 단일제이며 유효 상태입니다”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-fluorouracil-1",
+     "drug": "fluorouracil",
+     "file": "fluorouracil.md",
+     "action": "correct",
+     "claim": "허가증 7건은 모두 단일제이며 유효 상태입니다. 허가 적응증은 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없습니다.",
+     "replacement": "허가 적응증은 문서 링크로만 제공되어 구체적인 내용을 확인할 수 없습니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 8건(유효 7건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “허가증 7건은 모두 단일제이며 유효 상태입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-gilteritinib_fumarate-1",
@@ -1439,7 +2116,7 @@
    "action": "correct",
    "claim": "Glipizide(DrugBank ID: DB01067)는 현재 한국 미시판 약물로, 본 Evidence Pack에 기존 적응증·TxGNN 예측 적응증·안전성 정보가 모두 포함되어 있지 않습니다.",
    "replacement": "Glipizide(DrugBank ID: DB01067)는 본 Evidence Pack에 기존 적응증·TxGNN 예측 적응증·안전성 정보가 모두 포함되어 있지 않습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -1448,9 +2125,33 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "삭제: “현재 한국 미시판 약물로”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+   "history": [
+    {
+     "id": "kr-lic-20261031-glipizide-1",
+     "drug": "glipizide",
+     "file": "glipizide.md",
+     "action": "correct",
+     "claim": "Glipizide(DrugBank ID: DB01067)는 현재 한국 미시판 약물로, 본 Evidence Pack에 기존 적응증·TxGNN 예측 적응증·안전성 정보가 모두 포함되어 있지 않습니다.",
+     "replacement": "Glipizide(DrugBank ID: DB01067)는 본 Evidence Pack에 기존 적응증·TxGNN 예측 적응증·안전성 정보가 모두 포함되어 있지 않습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "삭제: “현재 한국 미시판 약물로”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-glucose-1",
@@ -1479,7 +2180,7 @@
    "action": "correct",
    "claim": "Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있으나 한국에서는 현재 시판되지 않습니다(허가 취소 여부는 출처에 정보가 없어 확인되지 않음).",
    "replacement": "Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -1488,9 +2189,33 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "삭제: “있으나 한국에서는 현재 시판되지 않습니다(허가 취소 여부는 출처에 정보가 없어 확인되지 않음)”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+   "history": [
+    {
+     "id": "kr-lic-20261031-hemin-1",
+     "drug": "hemin",
+     "file": "hemin.md",
+     "action": "correct",
+     "claim": "Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있으나 한국에서는 현재 시판되지 않습니다(허가 취소 여부는 출처에 정보가 없어 확인되지 않음).",
+     "replacement": "Hemin은 헴(heme) 보충 요법제로, 주사제(놀모상주)로 알려져 있습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "삭제: “있으나 한국에서는 현재 시판되지 않습니다(허가 취소 여부는 출처에 정보가 없어 확인되지 않음)”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-ketorolac-1",
@@ -1563,7 +2288,7 @@
    "action": "correct",
    "claim": "위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 9건(유효 8건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1572,10 +2297,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "같은 예측 목록의 다른 질환들도 모두 L5이며 Hold로 평가되었습니다."
+   "anchor": "같은 예측 목록의 다른 질환들도 모두 L5이며 Hold로 평가되었습니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-methoxy_polyethylene_glycol-epoetin_beta-1",
+     "drug": "methoxy_polyethylene_glycol-epoetin_beta",
+     "file": "methoxy_polyethylene_glycol-epoetin_beta.md",
+     "action": "correct",
+     "claim": "위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 9건(유효 8건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "같은 예측 목록의 다른 질환들도 모두 L5이며 Hold로 평가되었습니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-mupirocin-1",
@@ -1646,7 +2396,7 @@
    "action": "correct",
    "claim": "한국에서는 단일 성분 허가증 18건이 모두 유효합니다. 대부분 주사제(앰플)이며, 캡슐제도 1건 있습니다.",
    "replacement": "대부분 주사제(앰플)이며, 캡슐제도 1건 있습니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 16건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1655,9 +2405,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “한국에서는 단일 성분 허가증 18건이 모두 유효합니다”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-nefopam-1",
+     "drug": "nefopam",
+     "file": "nefopam.md",
+     "action": "correct",
+     "claim": "한국에서는 단일 성분 허가증 18건이 모두 유효합니다. 대부분 주사제(앰플)이며, 캡슐제도 1건 있습니다.",
+     "replacement": "대부분 주사제(앰플)이며, 캡슐제도 1건 있습니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 16건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “한국에서는 단일 성분 허가증 18건이 모두 유효합니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-pemetrexed-1",
@@ -1666,7 +2440,7 @@
    "action": "correct",
    "claim": "이번 보고서를 위해 정리된 데이터에서 20건 모두 유효 상태이며 단일 성분 제제입니다. 이 중 수출용 허가도 포함되어 있습니다. 주요 5건은 아래와 같습니다.",
    "replacement": "주요 허가는 아래와 같습니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 19건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1700,6 +2474,28 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：同上"
+    },
+    {
+     "id": "kr-lic-20261105-pemetrexed-1",
+     "drug": "pemetrexed",
+     "file": "pemetrexed.md",
+     "action": "correct",
+     "claim": "이번 보고서를 위해 정리된 데이터에서 20건 모두 유효 상태이며 단일 성분 제제입니다. 이 중 수출용 허가도 포함되어 있습니다. 주요 5건은 아래와 같습니다.",
+     "replacement": "주요 허가는 아래와 같습니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 19건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-24",
+     "summary": "삭제: “이번 보고서를 위해 정리된 데이터에서 20건 모두 유효 상태이며 단일 성분 제제입니다. 이 중 수출용 허가도 포함되어 있습니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
     }
    ]
   },
@@ -1710,7 +2506,7 @@
    "action": "correct",
    "claim": "전체 19건이 모두 유효한 단일제 허가이며, 일부는 수출용입니다. 현재 허가된 용도는 편두통이 아니므로, 편두통 사용은 허가 외(off-label) 사용에 해당합니다.",
    "replacement": "현재 허가된 용도는 편두통이 아니므로, 편두통 사용은 허가 외(off-label) 사용에 해당합니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 19건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1719,9 +2515,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “전체 19건이 모두 유효한 단일제 허가이며, 일부는 수출용입니다”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-propofol-1",
+     "drug": "propofol",
+     "file": "propofol.md",
+     "action": "correct",
+     "claim": "전체 19건이 모두 유효한 단일제 허가이며, 일부는 수출용입니다. 현재 허가된 용도는 편두통이 아니므로, 편두통 사용은 허가 외(off-label) 사용에 해당합니다.",
+     "replacement": "현재 허가된 용도는 편두통이 아니므로, 편두통 사용은 허가 외(off-label) 사용에 해당합니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 20건(유효 19건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “전체 19건이 모두 유효한 단일제 허가이며, 일부는 수출용입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-propylthiouracil-1",
@@ -1730,7 +2550,7 @@
    "action": "correct",
    "claim": "3건 모두 유효한 단일제 허가이며, 이 중 2건은 수출용입니다. 국내 유통 제품은 사실상 안티로이드정입니다.",
    "replacement": "국내 유통 제품은 사실상 안티로이드정입니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 3건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1739,9 +2559,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “3건 모두 유효한 단일제 허가이며, 이 중 2건은 수출용입니다”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-propylthiouracil-1",
+     "drug": "propylthiouracil",
+     "file": "propylthiouracil.md",
+     "action": "correct",
+     "claim": "3건 모두 유효한 단일제 허가이며, 이 중 2건은 수출용입니다. 국내 유통 제품은 사실상 안티로이드정입니다.",
+     "replacement": "국내 유통 제품은 사실상 안티로이드정입니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 3건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “3건 모두 유효한 단일제 허가이며, 이 중 2건은 수출용입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-ranolazine-1",
@@ -1750,7 +2594,7 @@
    "action": "correct",
    "claim": "Ranolazine은 한국에서 허가된 단일 성분 서방정제로, 후기 나트륨 전류(late sodium current)를 억제하는 약물입니다.",
    "replacement": "Ranolazine은 단일 성분 서방정제로, 후기 나트륨 전류(late sodium current)를 억제하는 약물입니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 0건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "MFDS nedrug：라넥사서방정 3 張皆已취하（mfds_cancel_status.json），「한국에서 허가된」與事實矛盾；句中藥物劑型與作用機轉保留",
    "sources": [
     {
@@ -1759,9 +2603,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “한국에서 허가된”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-ranolazine-1",
+     "drug": "ranolazine",
+     "file": "ranolazine.md",
+     "action": "correct",
+     "claim": "Ranolazine은 한국에서 허가된 단일 성분 서방정제로, 후기 나트륨 전류(late sodium current)를 억제하는 약물입니다.",
+     "replacement": "Ranolazine은 단일 성분 서방정제로, 후기 나트륨 전류(late sodium current)를 억제하는 약물입니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 0건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "MFDS nedrug：라넥사서방정 3 張皆已취하（mfds_cancel_status.json），「한국에서 허가된」與事實矛盾；句中藥物劑型與作用機轉保留",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “한국에서 허가된”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-ranolazine-2",
@@ -1770,7 +2638,7 @@
    "action": "correct",
    "claim": "3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 0건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1779,10 +2647,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "신세뇨관 이온 수송이나 cAMP 관련 조절을 통한 연관성은 추측 수준이며 전임상 검증이 필요합니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 생물학적 근거가 아니라 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 있습니다."
+   "anchor": "신세뇨관 이온 수송이나 cAMP 관련 조절을 통한 연관성은 추측 수준이며 전임상 검증이 필요합니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 생물학적 근거가 아니라 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 있습니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-ranolazine-2",
+     "drug": "ranolazine",
+     "file": "ranolazine.md",
+     "action": "correct",
+     "claim": "3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 3건(유효 0건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "신세뇨관 이온 수송이나 cAMP 관련 조절을 통한 연관성은 추측 수준이며 전임상 검증이 필요합니다. 이 점수는 TxGNN 모델(딥러닝)에서 나온 것이며, 생물학적 근거가 아니라 모델이 관련 질환 사이에서 학습한 유사성을 반영했을 가능성이 있습니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261031-rocuronium_bromide-1",
@@ -1791,7 +2684,7 @@
    "action": "correct",
    "claim": "> ⚠️ **데이터 무결성 경고**: Rocuronium Bromide는 전 세계 주요국에서 허가된 마취보조제입니다. 한국 시판 현황이 \"Not marketed(미시판)\"로 기재된 것은 MFDS 데이터 수집 미완료에 의한 오류일 가능성이 높습니다.",
    "replacement": "",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 11건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -1800,10 +2693,35 @@
      "accessed": "2026-10-31"
     }
    ],
-   "checked": "2026-10-31",
+   "checked": "2026-11-24",
    "summary": "삭제: “> ⚠️ **데이터 무결성 경고**: Rocuronium Bromide는 전 세계 주요국에서 허가된 마취보조제입니다. 한국 시판 현황이 \"Not marketed(미시판)\"로 기재된 것은 MFDS 데이터 수집 미완료에 의한 오류일 가능성이 높습니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
-   "anchor": "Rocuronium Bromide는 신경근 차단제(Non-depolarizing Neuromuscular Blocking Agent)로, 전신마취 시 기관내삽관 및 수술 중 근이완 목적으로 전 세계적으로 사용되는 약물입니다.\n이번 Evidence Pack에는 TxGNN 예측 적응증 데이터가 포함되어 있지 않아 재창출 후보 평가를 완료할 수 없으며, 핵심 데이터 수집 후 재평가가 필요합니다.\n현재 임상시험 근거, 문헌 근거, 한국 허가 정보 모두 미확보 상태입니다."
+   "anchor": "Rocuronium Bromide는 신경근 차단제(Non-depolarizing Neuromuscular Blocking Agent)로, 전신마취 시 기관내삽관 및 수술 중 근이완 목적으로 전 세계적으로 사용되는 약물입니다.\n이번 Evidence Pack에는 TxGNN 예측 적응증 데이터가 포함되어 있지 않아 재창출 후보 평가를 완료할 수 없으며, 핵심 데이터 수집 후 재평가가 필요합니다.\n현재 임상시험 근거, 문헌 근거, 한국 허가 정보 모두 미확보 상태입니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261031-rocuronium_bromide-1",
+     "drug": "rocuronium_bromide",
+     "file": "rocuronium_bromide.md",
+     "action": "correct",
+     "claim": "> ⚠️ **데이터 무결성 경고**: Rocuronium Bromide는 전 세계 주요국에서 허가된 마취보조제입니다. 한국 시판 현황이 \"Not marketed(미시판)\"로 기재된 것은 MFDS 데이터 수집 미완료에 의한 오류일 가능성이 높습니다.",
+     "replacement": "",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-10-31 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 11건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-10-31"
+      }
+     ],
+     "checked": "2026-10-31",
+     "summary": "삭제: “> ⚠️ **데이터 무결성 경고**: Rocuronium Bromide는 전 세계 주요국에서 허가된 마취보조제입니다. 한국 시판 현황이 \"Not marketed(미시판)\"로 기재된 것은 MFDS 데이터 수집 미완료에 의한 오류일 가능성이 높습니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：d6384d19（2026-10-31）",
+     "anchor": "Rocuronium Bromide는 신경근 차단제(Non-depolarizing Neuromuscular Blocking Agent)로, 전신마취 시 기관내삽관 및 수술 중 근이완 목적으로 전 세계적으로 사용되는 약물입니다.\n이번 Evidence Pack에는 TxGNN 예측 적응증 데이터가 포함되어 있지 않아 재창출 후보 평가를 완료할 수 없으며, 핵심 데이터 수집 후 재평가가 필요합니다.\n현재 임상시험 근거, 문헌 근거, 한국 허가 정보 모두 미확보 상태입니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-rokitamycin-1",
@@ -1832,7 +2750,7 @@
    "action": "correct",
    "claim": "한국 내 허가 이력이 없고 작용 기전·안전성 데이터도 미확보 상태로, 약물 재창출 가능성을 평가하기 위한 최소 데이터 요건이 충족되지 않았습니다.",
    "replacement": "작용 기전·안전성 데이터도 미확보 상태로, 약물 재창출 가능성을 평가하기 위한 최소 데이터 요건이 충족되지 않았습니다.",
-   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
    "sources": [
     {
@@ -1841,9 +2759,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “한국 내 허가 이력이 없고”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-rokitamycin-2",
+     "drug": "rokitamycin",
+     "file": "rokitamycin.md",
+     "action": "correct",
+     "claim": "한국 내 허가 이력이 없고 작용 기전·안전성 데이터도 미확보 상태로, 약물 재창출 가능성을 평가하기 위한 최소 데이터 요건이 충족되지 않았습니다.",
+     "replacement": "작용 기전·안전성 데이터도 미확보 상태로, 약물 재창출 가능성을 평가하기 위한 최소 데이터 요건이 충족되지 않았습니다.",
+     "note": "삭제: 허가가 취소되었거나 허가·시판되지 않는다고 했으나, 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 1건(유효 1건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：cancel）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “한국 내 허가 이력이 없고”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-ropinirole_hydrochloride-1",
@@ -1921,7 +2863,7 @@
    "action": "correct",
    "claim": "허가증은 모두 유효한 8건입니다. 허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했으므로 아래 표에서는 생략했습니다.",
    "replacement": "허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했으므로 아래 표에서는 생략했습니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 8건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -1930,9 +2872,33 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “허가증은 모두 유효한 8건입니다”",
-   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）"
+   "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+   "history": [
+    {
+     "id": "kr-lic-20261105-spironolactone-1",
+     "drug": "spironolactone",
+     "file": "spironolactone.md",
+     "action": "correct",
+     "claim": "허가증은 모두 유효한 8건입니다. 허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했으므로 아래 표에서는 생략했습니다.",
+     "replacement": "허가 적응증은 PDF 링크로만 제공되어 본문을 확인하지 못했으므로 아래 표에서는 생략했습니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 8건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “허가증은 모두 유효한 8건입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-talniflumate-1",
@@ -1985,7 +2951,7 @@
    "action": "correct",
    "claim": "허가증은 모두 9건이며, 위 표에는 주요 5건만 나열했습니다. 9건 모두 유효한 단일성분 제제입니다.",
    "replacement": "허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 9건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -2019,6 +2985,28 @@
      "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：「허가증은 모두 9건」寫死的總數（現事實層 11 建、有效 9 建）與舊表列數改成不寫數字的寫法"
+    },
+    {
+     "id": "kr-lic-20261105-temozolomide-1",
+     "drug": "temozolomide",
+     "file": "temozolomide.md",
+     "action": "correct",
+     "claim": "허가증은 모두 9건이며, 위 표에는 주요 5건만 나열했습니다. 9건 모두 유효한 단일성분 제제입니다.",
+     "replacement": "허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 9건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-24",
+     "summary": "삭제: “9건 모두 유효한 단일성분 제제입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
     }
    ]
   },
@@ -2029,7 +3017,7 @@
    "action": "correct",
    "claim": "3건 모두 수출용 단일제이며 유효 상태입니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 5건(유효 3건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -2038,10 +3026,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “3건 모두 수출용 단일제이며 유효 상태입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "참고로 예측 순위 8위(심장 질환)와 9위(푸코글리칸 합성 장애)에서 검색된 문헌은 Tolperisone의 해당 적응증 효과를 평가한 연구가 아니었습니다. 다만 파킨슨병 모델에서 MMP-9 억제를 통해 운동 기능을 개선했다는 전임상 연구(PMID 38513594, 2024)가 있어, 신경퇴행성 질환 쪽 가능성은 별도로 탐색해 볼 수 있습니다."
+   "anchor": "참고로 예측 순위 8위(심장 질환)와 9위(푸코글리칸 합성 장애)에서 검색된 문헌은 Tolperisone의 해당 적응증 효과를 평가한 연구가 아니었습니다. 다만 파킨슨병 모델에서 MMP-9 억제를 통해 운동 기능을 개선했다는 전임상 연구(PMID 38513594, 2024)가 있어, 신경퇴행성 질환 쪽 가능성은 별도로 탐색해 볼 수 있습니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-tolperisone-1",
+     "drug": "tolperisone",
+     "file": "tolperisone.md",
+     "action": "correct",
+     "claim": "3건 모두 수출용 단일제이며 유효 상태입니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 5건(유효 3건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “3건 모두 수출용 단일제이며 유효 상태입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "참고로 예측 순위 8위(심장 질환)와 9위(푸코글리칸 합성 장애)에서 검색된 문헌은 Tolperisone의 해당 적응증 효과를 평가한 연구가 아니었습니다. 다만 파킨슨병 모델에서 MMP-9 억제를 통해 운동 기능을 개선했다는 전임상 연구(PMID 38513594, 2024)가 있어, 신경퇴행성 질환 쪽 가능성은 별도로 탐색해 볼 수 있습니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-trastuzumab-1",
@@ -2050,7 +3063,7 @@
    "action": "correct",
    "claim": "허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 8건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -2059,10 +3072,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "임상시험에는 내분비치료(fulvestrant, tamoxifen, letrozole)나 CDK4/6 억제제(palbociclib, abemaciclib)를 병용하는 HR+/HER2+ 질환 연구가 포함되어 있어, 이 하위 집단에서의 병용 전략이 활발히 연구되고 있음을 보여 줍니다."
+   "anchor": "임상시험에는 내분비치료(fulvestrant, tamoxifen, letrozole)나 CDK4/6 억제제(palbociclib, abemaciclib)를 병용하는 HR+/HER2+ 질환 연구가 포함되어 있어, 이 하위 집단에서의 병용 전략이 활발히 연구되고 있음을 보여 줍니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-trastuzumab-1",
+     "drug": "trastuzumab",
+     "file": "trastuzumab.md",
+     "action": "correct",
+     "claim": "허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 11건(유효 8건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “허가증은 총 8건(전부 단일제, 유효)이며, 위 표는 그중 주요 5건입니다. 나머지는 허쥬마주440mg, 삼페넷주440밀리그램, 투젭타주440밀리그램입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "임상시험에는 내분비치료(fulvestrant, tamoxifen, letrozole)나 CDK4/6 억제제(palbociclib, abemaciclib)를 병용하는 HR+/HER2+ 질환 연구가 포함되어 있어, 이 하위 집단에서의 병용 전략이 활발히 연구되고 있음을 보여 줍니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-triflusal-1",
@@ -2071,7 +3109,7 @@
    "action": "correct",
    "claim": "이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다.",
    "replacement": "",
-   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 9건(유효 7건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+   "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
    "sources": [
     {
@@ -2080,10 +3118,35 @@
      "accessed": "2026-11-05"
     }
    ],
-   "checked": "2026-11-05",
+   "checked": "2026-11-24",
    "summary": "삭제: “이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다”",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
-   "anchor": "상위 예측(인자 V 과다)에 대한 문헌은 없습니다. 참고로, 5위권 내 예측 질환 중 혈전성향증(thrombophilia, 4위)에 대해서는 다음 1편이 있으며, 이는 간접 근거입니다."
+   "anchor": "상위 예측(인자 V 과다)에 대한 문헌은 없습니다. 참고로, 5위권 내 예측 질환 중 혈전성향증(thrombophilia, 4위)에 대해서는 다음 1편이 있으며, 이는 간접 근거입니다.",
+   "history": [
+    {
+     "id": "kr-lic-20261105-triflusal-1",
+     "drug": "triflusal",
+     "file": "triflusal.md",
+     "action": "correct",
+     "claim": "이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다.",
+     "replacement": "",
+     "note": "삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 9건(유효 7건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "finding": "依成分重建許可證後，正文跟新事實矛盾的子句由刪句工具刪除（分類：count）",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-05"
+      }
+     ],
+     "checked": "2026-11-05",
+     "summary": "삭제: “이 외에 티그린캡슐(하나제약), 명인디스그렌캡슐 150mg(명인제약)이 허가되어 있어 총 7건이 모두 유효한 단일 성분 제제입니다”",
+     "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：8144daef（2026-11-05）",
+     "anchor": "상위 예측(인자 V 과다)에 대한 문헌은 없습니다. 참고로, 5위권 내 예측 질환 중 혈전성향증(thrombophilia, 4위)에 대해서는 다음 1편이 있으며, 이는 간접 근거입니다.",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
+    }
+   ]
   },
   {
    "id": "kr-lic-20261105-zaltoprofen-1",
@@ -2137,7 +3200,7 @@
    "claim": "전체 7건 중 5건만 표시했습니다. 나머지는 일성코데인정(수출용)과 하나인산코데인정입니다.",
    "replacement": "위 표 외의 단일제는 일성코데인정(수출용)과 하나인산코데인정이며, 이 밖에 복합제(마이폴캡슐)와 취하된 허가도 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
    "summary": "허가 건수: “전체 7건” → 단일제·복합제·취하 허가 구분(건수는 빠른 개요와 위 표)",
-   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-09 데이터) 기준으로 수정했습니다: 허가 11건 중 단일제 7건, 복합제 1건(마이폴캡슐), 취하 3건. 최신 수치는 빠른 개요에 있습니다.",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-09 데이터) 기준으로 수정했습니다: 허가에는 단일제 외에 복합제(마이폴캡슐)와 취하된 허가도 있습니다. 최신 수치는 빠른 개요에 있습니다.",
    "finding": "正文「전체 7건」其實是可待因單方 7 張；事實層總數 11（有效 8＝單方 7＋複方 마이폴캡슐 1、취하 3），證據包 tfda.records 逐張核對（data-20261109-135306）；count_prose 判斷不了，人工改寫",
    "sources": [
     {
@@ -2170,6 +3233,28 @@
      "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：寫死的單方／總數張數與「5건만 표시」改成不寫數字的寫法；更正的事實（另 2 個單方品名、複方마이폴캡슐、취하 허가）保留"
+    },
+    {
+     "id": "kr-lic-20261112-codeine-1",
+     "drug": "codeine",
+     "file": "codeine.md",
+     "action": "correct",
+     "claim": "전체 7건 중 5건만 표시했습니다. 나머지는 일성코데인정(수출용)과 하나인산코데인정입니다.",
+     "replacement": "위 표 외의 단일제는 일성코데인정(수출용)과 하나인산코데인정이며, 이 밖에 복합제(마이폴캡슐)와 취하된 허가도 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+     "summary": "허가 건수: “전체 7건” → 단일제·복합제·취하 허가 구분(건수는 빠른 개요와 위 표)",
+     "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-09 데이터) 기준으로 수정했습니다: 허가 11건 중 단일제 7건, 복합제 1건(마이폴캡슐), 취하 3건. 최신 수치는 빠른 개요에 있습니다.",
+     "finding": "正文「전체 7건」其實是可待因單方 7 張；事實層總數 11（有效 8＝單方 7＋複方 마이폴캡슐 1、취하 3），證據包 tfda.records 逐張核對（data-20261109-135306）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-24",
+     "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
     }
    ]
   },
@@ -2204,7 +3289,7 @@
    "claim": "한국에서 단일제 허가 4건이 확인됩니다.",
    "replacement": "한국에서 라미프릴 단일제 허가와 펠로디핀 복합제(트리아핀정) 허가가 확인됩니다. 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
    "summary": "허가 건수: “단일제 허가 4건” → 라미프릴 단일제와 펠로디핀 복합제(트리아핀정) 구분(건수는 빠른 개요와 표)",
-   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-09 데이터) 기준으로 수정했습니다: 라미프릴 단일제 7건(유효 3건, 취하·유효기간만료 4건)과 펠로디핀 복합제 2건(트리아핀정, 유효), 전체 9건 중 유효 5건. 최신 수치는 빠른 개요에 있습니다.",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-09 데이터) 기준으로 수정했습니다: 라미프릴 단일제(유효 허가와 취하·유효기간만료 허가)와 펠로디핀 복합제(트리아핀정, 유효)가 있습니다. 최신 수치는 빠른 개요에 있습니다.",
    "finding": "正文寫單方 4 張；證據包單方 7 張（有效 3、취하／유효기간만료 4）＋felodipine 複方 트리아핀정 2 張（有效），事實層總數 9、有效 5（data-20261109-135306）；count_prose 判斷不了，人工改寫",
    "sources": [
     {
@@ -2237,6 +3322,28 @@
      "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
      "retired": "2026-11-24",
      "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定：寫死的單方／複方張數改成不寫數字的寫法（本站證據包成分欄只記比對到的成分，單方／複方張數程式算不出）；更正的事實（另有펠로디핀複方트리아핀정）保留"
+    },
+    {
+     "id": "kr-lic-20261112-ramipril-1",
+     "drug": "ramipril",
+     "file": "ramipril.md",
+     "action": "correct",
+     "claim": "한국에서 단일제 허가 4건이 확인됩니다.",
+     "replacement": "한국에서 라미프릴 단일제 허가와 펠로디핀 복합제(트리아핀정) 허가가 확인됩니다. 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.",
+     "summary": "허가 건수: “단일제 허가 4건” → 라미프릴 단일제와 펠로디핀 복합제(트리아핀정) 구분(건수는 빠른 개요와 표)",
+     "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-09 데이터) 기준으로 수정했습니다: 라미프릴 단일제 7건(유효 3건, 취하·유효기간만료 4건)과 펠로디핀 복합제 2건(트리아핀정, 유효), 전체 9건 중 유효 5건. 최신 수치는 빠른 개요에 있습니다.",
+     "finding": "正文寫單方 4 張；證據包單方 7 張（有效 3、취하／유효기간만료 4）＋felodipine 複方 트리아핀정 2 張（有效），事實層總數 9、有效 5（data-20261109-135306）；count_prose 判斷不了，人工改寫",
+     "sources": [
+      {
+       "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+       "url": "https://nedrug.mfds.go.kr/searchDrug",
+       "accessed": "2026-11-09"
+      }
+     ],
+     "checked": "2026-11-24",
+     "method": "2026-11-12 人工查核（程式改寫判斷不了的正文張數，逐句對照事實層與證據包原始資料）",
+     "retired": "2026-11-24",
+     "reason": "程式許可證表／正文張數改由程式維護，2026-11-24 用戶決定（說明文字不再寫死張數）"
     }
    ]
   },
@@ -14794,6 +15901,726 @@
    ],
    "checked": "2026-11-24",
    "method": "2026-11-24 人工查核（用戶決定：正文「全部單方」而證據包品目名其實含複方的，逐句對照後寫 correct 紀錄）"
+  },
+  {
+   "id": "kr-lic-20261124b-fluticasone-1",
+   "drug": "fluticasone",
+   "file": "fluticasone.md",
+   "action": "correct",
+   "claim": "이 외에 트렐리지엘립타, 렐바엘립타, 플루티폼 등을 포함해 총 13건의 유효 허가가 있습니다.",
+   "replacement": "이 외에 트렐리지엘립타, 렐바엘립타, 플루티폼 등의 유효 허가가 더 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "허가 건수: “이 외에 트렐리지엘립타, 렐바엘립타, 플루티폼 등을 포함해 총 13건의 유효 허가가 있…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "正文「총 13건의 유효 허가」；證據包 14 張全部有效（不是部分紀錄），13 跟事實層不符（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-tretinoin-1",
+   "drug": "tretinoin",
+   "file": "tretinoin.md",
+   "action": "correct",
+   "claim": "Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허가된 레티노이드 계열 약물입니다.",
+   "replacement": "Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등으로 허가된 레티노이드 계열 약물입니다(허가 건수와 상태는 빠른 개요 참조).",
+   "summary": "허가 건수: “Tretinoin은 한국에서 크림, 겔, 외용액, 연질캡슐 등 7건이 허가된 레티노이드…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "正文「7건이 허가」；證據包 14 張（有效 9：外用與軟膠囊，另有 멜라논크림、퓨어겔 複方；취하 5 張 크림），7 跟總數、有效數都不符；劑型列舉成立（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-paliperidone-1",
+   "drug": "paliperidone",
+   "file": "paliperidone.md",
+   "action": "correct",
+   "claim": "이 외에 인베가서방정9밀리그램(허가번호 202000409)이 있어 총 6건입니다.",
+   "replacement": "경구 서방정으로는 이 외에 인베가서방정9밀리그램(허가번호 202000409)이 있으며, 인베가서스티나주사·인베가트린자주사·인베가하피에라주사 등 주사제 허가도 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "허가 건수: “이 외에 인베가서방정9밀리그램(허가번호 202000409)이 있어 총 6건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "正文「총 6건」只算經口서방정（팔리스펜 3＋인베가 3）；證據包 13 張全部有效，另有 7 張 팔리페리돈팔미테이트 注射劑（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-camphor-1",
+   "drug": "camphor",
+   "file": "camphor.md",
+   "action": "correct",
+   "claim": "총 16건이 모두 단일제로 유효하며, 위 표는 허가 적응증 텍스트가 확인되는 주요 허가를 나열했습니다. 나머지 허가(수출용 포함)는 모두 첩부제 또는 카타플라스마제입니다.",
+   "replacement": "위 표는 주요 허가 일부입니다. 허가에는 에어신신파스(L-멘톨), 신신파스(살리실산메틸) 등 다른 유효성분이 함께 표시된 복합제도 있으며, 제형은 첩부제·카타플라스마제가 많지만 에어로솔제(에어신신파스)와 외용액제(신신물파스에스)도 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "단일제·복합제 구분: “총 16건이 모두 단일제로 유효하며, 위 표는 허가 적응증 텍스트가 확인되는 주요 허가…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 약의 허가에는 다른 유효성분이 함께 들어 있는 복합제도 있으며, 허가 건수는 자료와 맞지 않아 빠른 개요와 표를 가리키도록 고쳤습니다.",
+   "finding": "證據包只收部分紀錄（20 筆，至少 20 張），「총 16건」少於已收紀錄；已收紀錄中 196700061 에어신신파스（L-MENTHOL）、197200167 유니파스、197400233 신신파스、198400250 제일쿨파프、198700387 사니크린、198800991 신신물파스에스（METHYL SALICYLATE）等成分欄是別的成分＝複方，「모두 단일제」不成立；198800991 신신물파스에스是外用液、196700061 是噴霧，「나머지 … 모두 첩부제 또는 카타플라스마제」不成立（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-aminocaproic_acid-1",
+   "drug": "aminocaproic_acid",
+   "file": "aminocaproic_acid.md",
+   "action": "correct",
+   "claim": "전체 18건이 모두 단일 성분 제제이며 유효 상태입니다.",
+   "replacement": "허가에는 설파메톡사졸 등 다른 유효성분이 함께 표시된 점안제(아이케어점안액, 옵트클린점안액)도 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "단일제·복합제 구분: “전체 18건이 모두 단일 성분 제제이며 유효 상태입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 약의 허가에는 다른 유효성분이 함께 들어 있는 복합제도 있으며, 허가 건수는 자료와 맞지 않아 빠른 개요와 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 40 張），「전체 18건」少於已收紀錄；200612120 아이케어점안액、201101771 옵트클린점안액成分欄是 SULFAMETHOXAZOLE＝複方，「모두 단일 성분」不成立（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-aminophylline-1",
+   "drug": "aminophylline",
+   "file": "aminophylline.md",
+   "action": "correct",
+   "claim": "위 외에 소아용아스콘틴서방정, 아미필린주(수출용)가 있어 총 7건이 유효 상태입니다.",
+   "replacement": "위 외에 소아용아스콘틴서방정, 아미필린주(수출용)와 복합제 아스토신에스정(수출용)도 유효 허가입니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "허가 건수: “위 외에 소아용아스콘틴서방정, 아미필린주(수출용)가 있어 총 7건이 유효 상태입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "證據包 9 張：有效 8（含複方 199902416 아스토신에스정），취하 1；正文「총 7건이 유효」漏了複方（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-amoxicillin-1",
+   "drug": "amoxicillin",
+   "file": "amoxicillin.md",
+   "action": "correct",
+   "claim": "이 외에도 총 12건의 유효 허가가 있으며, 모두 단일 성분 허가로 분류되어 있습니다.",
+   "replacement": "이 외에도 유효 허가가 더 있으며, 아목시실린·클라불란산 복합 주사제(아모크라주, 아목크라주)와 아목시실린·설박탐 복합 주사제(썰타목스주) 등 복합제도 포함됩니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "단일제·복합제 구분: “이 외에도 총 12건의 유효 허가가 있으며, 모두 단일 성분 허가로 분류되어 있습니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 약의 허가에는 다른 유효성분이 함께 들어 있는 복합제도 있으며, 허가 건수는 자료와 맞지 않아 빠른 개요와 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 452 張），「총 12건」少於已收紀錄；已收紀錄有 아모크라주（아목시실린나트륨-클라불란산칼륨）、썰타목스주（아목시실린나트륨ㆍ설박탐나트륨）等複方，「모두 단일 성분」不成立（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-arginine-1",
+   "drug": "arginine",
+   "file": "arginine.md",
+   "action": "correct",
+   "claim": "총 19건의 허가 중 주요 5건을 기재합니다.",
+   "replacement": "주요 허가를 기재합니다(허가 건수와 상태는 빠른 개요 참조).",
+   "summary": "허가 건수: “총 19건의 허가 중 주요 5건을 기재합니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 31 張），「총 19건」少於已收紀錄（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-ascorbic_acid-1",
+   "drug": "ascorbic_acid",
+   "file": "ascorbic_acid.md",
+   "action": "correct",
+   "claim": "국내에는 단일 성분 제제 20건이 허가되어 있으며, 이 중 19건이 유효합니다.",
+   "replacement": "국내 허가 건수와 상태(유효·취소)는 빠른 개요와 아래 표에 있습니다.",
+   "summary": "허가 건수: “국내에는 단일 성분 제제 20건이 허가되어 있으며, 이 중 19건이 유효합니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 86 張）；已收紀錄有 2 張註銷（202107571 웰먼트실버정 유효기간만료等），「20건 중 19건 유효」跟已收紀錄矛盾（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-citric_acid-1",
+   "drug": "citric_acid",
+   "file": "citric_acid.md",
+   "action": "correct",
+   "claim": "허가는 총 9건이며 모두 유효한 단일 성분 제제입니다.",
+   "replacement": "허가에는 헤파토스시럽, 알코덱스액, 리소톤과립 등 다른 유효성분이 함께 표시된 복합제도 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "단일제·복합제 구분: “허가는 총 9건이며 모두 유효한 단일 성분 제제입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 약의 허가에는 다른 유효성분이 함께 들어 있는 복합제도 있으며, 허가 건수는 자료와 맞지 않아 빠른 개요와 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 46 張），「총 9건」少於已收紀錄；199302537 헤파토스시럽（L-ARGININE）、199401848 알코덱스액（BETAINE）、200503318 리소톤과립（POTASSIUM CITRATE）等成分欄是別的成分＝複方（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-ebastine-1",
+   "drug": "ebastine",
+   "file": "ebastine.md",
+   "action": "correct",
+   "claim": "이 외에 4건(수출용 제품 포함)의 허가가 더 있으며, 총 9건이 모두 유효한 단일 성분 허가입니다.",
+   "replacement": "이 외에도 단일 성분 허가(수출용 제품 포함)가 더 있으며, 에바스틴·슈도에페드린 복합 서방캡슐(리노에스티나서방캡슐 등)도 허가되어 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "단일제·복합제 구분: “이 외에 4건(수출용 제품 포함)의 허가가 더 있으며, 총 9건이 모두 유효한 단일 성…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 약의 허가에는 다른 유효성분이 함께 들어 있는 복합제도 있으며, 허가 건수는 자료와 맞지 않아 빠른 개요와 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 29 張）；已收紀錄中 9 張 에바스틴 單方，另 11 張 리노에스티나서방캡슐等（成分欄 PSEUDOEPHEDRINE＝複方），「총 9건」把複方漏掉（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-entacapone-1",
+   "drug": "entacapone",
+   "file": "entacapone.md",
+   "action": "correct",
+   "claim": "이 밖에 스타레보 50/12.5/200, 75/18.75/200, 125/31.25/200 용량 제품이 있어 총 8건이 유효합니다.",
+   "replacement": "이 밖에 스타레보 50/12.5/200, 75/18.75/200, 125/31.25/200 용량 제품과 레보도파·카르비도파·엔타카폰 복합제(트리레보정, 트리도파정)도 유효 허가입니다. 허가 건수는 빠른 개요와 위 표에 있습니다.",
+   "summary": "허가 건수: “이 밖에 스타레보 50/12.5/200, 75/18.75/200, 125/31.25/2…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 25 張），全部有效；「총 8건」少於已收紀錄，漏了 트리레보정、트리도파정（成分欄 LEVODOPA）12 張（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-esomeprazole-1",
+   "drug": "esomeprazole",
+   "file": "esomeprazole.md",
+   "action": "correct",
+   "claim": "전체 허가증은 8건입니다.",
+   "replacement": "전체 허가 건수는 빠른 개요에 있습니다.",
+   "summary": "허가 건수: “전체 허가증은 8건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 304 張），「전체 8건」少於已收紀錄（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-hydrocortisone_acetate-1",
+   "drug": "hydrocortisone_acetate",
+   "file": "hydrocortisone_acetate.md",
+   "action": "correct",
+   "claim": "유효 허가 6건 중 주요 5건입니다. 전체 허가는 7건이며 1건은 취소 상태입니다.",
+   "replacement": "주요 허가는 아래와 같습니다. 허가 건수와 상태는 빠른 개요와 아래 표에 있습니다.",
+   "summary": "허가 건수: “유효 허가 6건 중 주요 5건입니다. 전체 허가는 7건이며 1건은 취소 상태입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 30 張，已收的全部有效），「유효 6건」「전체 7건」都少於已收紀錄（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-lenalidomide-1",
+   "drug": "lenalidomide",
+   "file": "lenalidomide.md",
+   "action": "correct",
+   "claim": "한국에서 lenalidomide 단일 성분 유효 허가 12건이 확인되며,",
+   "replacement": "한국에서 lenalidomide 단일 성분 유효 허가가 확인되며(허가 건수는 빠른 개요 참조),",
+   "summary": "허가 건수: “한국에서 lenalidomide 단일 성분 유효 허가 12건이 확인되며,” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 27 張），已收 20 張都是 lenalidomide 單方且有效，「12건」少於已收紀錄（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-methionine-1",
+   "drug": "methionine",
+   "file": "methionine.md",
+   "action": "correct",
+   "claim": "총 6건의 허가증이 있으며(모두 단일 성분), 이 중 5건을 나열합니다.",
+   "replacement": "허가에는 아미노산 수액(바이타솔주, 헤파타민주 등) 같은 복합제도 있으며, 아래에는 그중 일부를 나열합니다(허가 건수와 상태는 빠른 개요 참조).",
+   "summary": "단일제·복합제 구분: “총 6건의 허가증이 있으며(모두 단일 성분), 이 중 5건을 나열합니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 이 약의 허가에는 다른 유효성분이 함께 들어 있는 복합제도 있으며, 허가 건수는 자료와 맞지 않아 빠른 개요와 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 227 張），「총 6건」少於已收紀錄；197700052 바이타솔주、198500116 헤파타민주等成分欄 L-ISOLEUCINE 的胺基酸輸液＝複方，「모두 단일 성분」不成立（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-mometasone-1",
+   "drug": "mometasone",
+   "file": "mometasone.md",
+   "action": "correct",
+   "claim": "그 외 5건(총 10건)도 모두 유효한 허가이며 비강분무제입니다.",
+   "replacement": "그 외에도 유효한 비강분무제 허가가 있으며, 에로콤크림 등 크림제 허가도 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "허가 제형: “그 외 5건(총 10건)도 모두 유효한 허가이며 비강분무제입니다.” → 자료 기준으로 수정",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 제형에 대한 설명이 자료와 맞지 않아 자료에 있는 제형으로 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 115 張），「총 10건」少於已收紀錄；已收紀錄有 200008955 에로콤크림等 9 張크림，「모두 … 비강분무제」不成立（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-mometasone-2",
+   "drug": "mometasone",
+   "file": "mometasone.md",
+   "action": "correct",
+   "claim": "또한 한국 허가 제형은 모두 **비강분무제**입니다. 피부 질환에 쓰는 국소 제형과는 투여 경로가 달라 적용 가능성은 별도 검토가 필요합니다",
+   "replacement": "또한 한국 허가 제형에는 비강분무제 외에 피부에 바르는 크림제(에로콤크림 등)도 있습니다",
+   "summary": "허가 제형: “또한 한국 허가 제형은 모두 **비강분무제**입니다. 피부 질환에 쓰는 국소 제형과는 …” → 자료 기준으로 수정",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 제형에 대한 설명이 자료와 맞지 않아 자료에 있는 제형으로 고쳤습니다.",
+   "finding": "已收紀錄有 200008955 에로콤크림、200201124 더모타손엠엘이크림等皮膚用크림，「한국 허가 제형은 모두 비강분무제」不成立；後一句「與皮膚用局部劑型給藥途徑不同」建立在這個錯誤前提上，一併拿掉（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-morphine-1",
+   "drug": "morphine",
+   "file": "morphine.md",
+   "action": "correct",
+   "claim": "전체 18건이 모두 단일제이며 유효 상태입니다.",
+   "replacement": "이 자료에 수록된 허가는 모두 모르핀 단일 성분 제제이며, 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "허가 건수: “전체 18건이 모두 단일제이며 유효 상태입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 23 張，已收的全部是 morphine 單方且有效），「전체 18건」少於已收紀錄（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-potassium_iodide-1",
+   "drug": "potassium_iodide",
+   "file": "potassium_iodide.md",
+   "action": "correct",
+   "claim": "이 외에 클리드점안액, 클리원점안액, 유니렌점안액, 비트렌점안액 등 4건이 더 허가되어 있어 총 9건이 모두 유효합니다.",
+   "replacement": "이 외에 클리드점안액, 클리원점안액, 유니렌점안액, 비트렌점안액 등도 유효 허가이며, 요오드화칼륨이 들어간 비타민·미네랄 복합제(진셀몬큐텐정, 센티렉스어드밴스정 등) 허가도 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "허가 건수: “이 외에 클리드점안액, 클리원점안액, 유니렌점안액, 비트렌점안액 등 4건이 더 허가되어…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 44 張），「총 9건」少於已收紀錄；另 11 張是成分欄為別的成分的維生素／礦物質複方（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-prednisolone_acetate-1",
+   "drug": "prednisolone_acetate",
+   "file": "prednisolone_acetate.md",
+   "action": "correct",
+   "claim": "허가 16건 중 주요 5건입니다.",
+   "replacement": "주요 허가는 아래와 같습니다(허가 건수와 상태는 빠른 개요 참조).",
+   "summary": "허가 건수: “허가 16건 중 주요 5건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 25 張），「허가 16건」少於已收紀錄（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-rifampicin-1",
+   "drug": "rifampicin",
+   "file": "rifampicin.md",
+   "action": "correct",
+   "claim": "14건 중 일부는 수출용 허가입니다.",
+   "replacement": "허가 중 일부는 수출용 허가입니다.",
+   "summary": "허가 건수: “14건 중 일부는 수출용 허가입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "證據包 16 張（有效 13、취하 3），「14건」跟總數、有效數都不符；「모두 경구 캡슐·정제」成立（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-azathioprine-1",
+   "drug": "azathioprine",
+   "file": "azathioprine.md",
+   "action": "correct",
+   "claim": "총 11건 중 주요 허가 5건입니다.",
+   "replacement": "주요 허가는 아래와 같습니다(허가 건수와 상태는 빠른 개요 참조).",
+   "summary": "허가 건수: “총 11건 중 주요 허가 5건입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "證據包 13 張（有效 11、註銷 2）；「총 11건」是有效數當成總數（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-desogestrel-1",
+   "drug": "desogestrel",
+   "file": "desogestrel.md",
+   "action": "correct",
+   "claim": "허가증은 총 8건이며, 위에는 주요 5건만 나열했습니다.",
+   "replacement": "위에는 주요 허가 일부만 나열했습니다(허가 건수와 상태는 빠른 개요 참조).",
+   "summary": "허가 건수: “허가증은 총 8건이며, 위에는 주요 5건만 나열했습니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "證據包 12 張（有效 8、註銷 4）；「허가증은 총 8건」是有效數當成總數（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-ioversol-1",
+   "drug": "ioversol",
+   "file": "ioversol.md",
+   "action": "correct",
+   "claim": "허가증은 총 7건이며, 위에는 5건만 나열했습니다. 나머지 2건은 수출용 제품인 레이버솔주350(201400649)과 레이버솔주320(201400648)입니다.",
+   "replacement": "위에는 허가 일부만 나열했습니다. 표에 없는 허가 중 레이버솔주350(201400649)과 레이버솔주320(201400648)은 수출용 제품이고, 옵티슈어320주(201309137)는 취하된 허가입니다. 허가 건수와 상태는 빠른 개요에 있습니다.",
+   "summary": "허가 건수: “허가증은 총 7건이며, 위에는 5건만 나열했습니다. 나머지 2건은 수출용 제품인 레이버…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "證據包 8 張（有效 7、201309137 옵티슈어320주 취하）；「총 7건」是有效數當成總數，「나머지 2건」漏了取下的那張（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-polmacoxib-1",
+   "drug": "polmacoxib",
+   "file": "polmacoxib.md",
+   "action": "correct",
+   "claim": "전체 10건 중 주요 5건만 나열했으며, 10건 모두 단일 성분 제제로 유효 상태입니다.",
+   "replacement": "위에는 주요 허가 일부만 나열했으며, 허가는 모두 폴마콕시브 단일 성분 제제입니다(유효·취소 건수는 빠른 개요 참조).",
+   "summary": "허가 건수: “전체 10건 중 주요 5건만 나열했으며, 10건 모두 단일 성분 제제로 유효 상태입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "證據包 11 張（有效 10、202202345 폴렉스캡슐2밀리그램 註銷），「전체 10건」是有效數當成總數；全部是 polmacoxib 單方，成立（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-etoricoxib-1",
+   "drug": "etoricoxib",
+   "file": "etoricoxib.md",
+   "action": "correct",
+   "claim": "위 5건 외에 6건의 단일제 허가가 더 있습니다.",
+   "replacement": "위 표 외에도 단일제 허가가 더 있습니다(유효·취소 건수는 빠른 개요 참조).",
+   "summary": "허가 건수: “위 5건 외에 6건의 단일제 허가가 더 있습니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "證據包 12 張（有效 6、註銷 6），表列 5 張，表外 7 張，「6건 더」不符（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-daunorubicin-1",
+   "drug": "daunorubicin",
+   "file": "daunorubicin.md",
+   "action": "correct",
+   "claim": "시판 현황은 취소 여부 정보가 없어 확인할 수 없습니다.",
+   "replacement": "허가 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "허가 상태: “시판 현황은 취소 여부 정보가 없어 확인할 수 없습니다.” → 자료 기준으로 수정",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 상태(유효·취소)는 자료에 있으며 빠른 개요와 표에 표시됩니다.",
+   "finding": "證據包 4 張的狀態都有（全部有效），「취소 여부 정보가 없다」跟資料不符（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-adenosine-1",
+   "drug": "adenosine",
+   "file": "adenosine.md",
+   "action": "correct",
+   "claim": "Adenosine은 국내에서 주사제로 4건이 허가되어 시판 중인 약물입니다.",
+   "replacement": "Adenosine은 국내에서 주사제로 허가되어 시판 중인 약물입니다(복합제를 포함한 허가 건수와 상태는 빠른 개요 참조).",
+   "summary": "허가 건수: “Adenosine은 국내에서 주사제로 4건이 허가되어 시판 중인 약물입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "證據包 6 張：adenosine 單方注射劑 4 張（有效）＋複方 201203090 헤파멘드주（注射劑，有效）＋複方 200502461 엘레멘시럽（취하）；「주사제로 4건」漏了有效的複方注射劑（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-isosorbide_dinitrate-1",
+   "drug": "isosorbide_dinitrate",
+   "file": "isosorbide_dinitrate.md",
+   "action": "correct",
+   "claim": "한국에는 코오롱제약의 서방캡슐(수출용) 1건이 허가되어 있습니다.",
+   "replacement": "한국에는 코오롱제약의 서방캡슐(수출용)과 주사제(앤지비드주, 수출용)가 허가되어 있습니다.",
+   "summary": "허가 제형: “한국에는 코오롱제약의 서방캡슐(수출용) 1건이 허가되어 있습니다.” → 자료 기준으로 수정",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 제형에 대한 설명이 자료와 맞지 않아 자료에 있는 제형으로 고쳤습니다.",
+   "finding": "證據包 2 張都有效：199800770 앤지비드서방캡슐120밀리그램（수출용）、199500452 앤지비드주（수출용，注射劑，코오롱제약）；「서방캡슐 1건」漏了注射劑（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-azithromycin-1",
+   "drug": "azithromycin",
+   "file": "azithromycin.md",
+   "action": "correct",
+   "claim": "Azithromycin은 마크로라이드계 항생제로, 한국에서 단일제 3건이 허가되어 시판 중입니다(허가증 원문은 링크로만 제공되어 구체적 적응증 문구는 확인되지 않았습니다).",
+   "replacement": "Azithromycin은 마크로라이드계 항생제로, 한국에서 단일제로 허가되어 시판 중입니다(허가 건수는 빠른 개요 참조. 허가증 원문은 링크로만 제공되어 구체적 적응증 문구는 확인되지 않았습니다).",
+   "summary": "허가 건수: “Azithromycin은 마크로라이드계 항생제로, 한국에서 단일제 3건이 허가되어 시판…” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 25 張，已收的全部是 azithromycin 單方且有效），「단일제 3건」少於已收紀錄（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-sucralfate-1",
+   "drug": "sucralfate",
+   "file": "sucralfate.md",
+   "action": "correct",
+   "claim": "허가 건수는 단일 성분 1건이며, 제조사는 (주)인트로바이오파마입니다.",
+   "replacement": "단일 성분 허가로는 위 표의 아루사민정((주)인트로바이오파마) 외에 수출용 현탁액(수크라메드현탁액, 슈메드현탁액 등)이 있습니다. 허가 건수와 상태는 빠른 개요와 위 표에 있습니다.",
+   "summary": "허가 건수: “허가 건수는 단일 성분 1건이며, 제조사는 (주)인트로바이오파마입니다.” → 자료 기준으로 수정(건수는 빠른 개요와 표)",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 건수가 자료와 맞지 않아, 건수를 쓰지 않고 빠른 개요와 「한국 시판 정보」의 표를 가리키도록 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆、至少 123 張）；sucralfate 單方除了 202102428 아루사민정（인트로바이오파마，註銷），還有 200403522 수크라메드현탁액、201207619 슈메드현탁액、201508400 수카현탁액、202003352 슈크랄현탁액（수출용，有效）（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-fusidic_acid-1",
+   "drug": "fusidic_acid",
+   "file": "fusidic_acid.md",
+   "action": "correct",
+   "claim": "(현재 한국 허가 제형은 시럽제뿐임)",
+   "replacement": "(현재 한국 허가 제형은 시럽제, 겔제, 크림제이며 안과용 제형은 없음)",
+   "summary": "허가 제형: “(현재 한국 허가 제형은 시럽제뿐임)” → 자료 기준으로 수정",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 제형에 대한 설명이 자료와 맞지 않아 자료에 있는 제형으로 고쳤습니다.",
+   "finding": "證據包 4 張全部有效：푸딘시럽（수출용）、후시딘겔、노스카딘겔、후시딘히드로크림；待辦條目的前提「시럽제뿐」不成立，只改前提（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-scopolamine-1",
+   "drug": "scopolamine",
+   "file": "scopolamine.md",
+   "action": "correct",
+   "claim": "(현재 경피 패취 제형만 허가)",
+   "replacement": "(현재 허가에는 경피 패취(키미테패취) 외에 정제·내용액 등 경구 복합제도 있음)",
+   "summary": "허가 제형: “(현재 경피 패취 제형만 허가)” → 자료 기준으로 수정",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 제형에 대한 설명이 자료와 맞지 않아 자료에 있는 제형으로 고쳤습니다.",
+   "finding": "部分紀錄頁（已收 20 筆）；除 198501415 키미테패취外，메카인정、토스롱액、키미테정等 19 張口服複方（成分欄 MECLIZINE／DIMENHYDRINATE 等）；待辦條目的前提「경피 패취만」不成立，只改前提（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-epinephrine-1",
+   "drug": "epinephrine",
+   "file": "epinephrine.md",
+   "action": "correct",
+   "claim": "한국 허가 제품은 모두 주사제이므로",
+   "replacement": "한국 허가 제품은 대부분 주사제(그 밖에 외용액 보스민액)이므로",
+   "summary": "허가 제형: “한국 허가 제품은 모두 주사제이므로” → 자료 기준으로 수정",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 제형에 대한 설명이 자료와 맞지 않아 자료에 있는 제형으로 고쳤습니다.",
+   "finding": "已收紀錄有 197200086 보스민액（外用液，有效），「모두 주사제」不成立（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
+  },
+  {
+   "id": "kr-lic-20261124b-sodium_fluoride-1",
+   "drug": "sodium_fluoride",
+   "file": "sodium_fluoride.md",
+   "action": "correct",
+   "claim": "(현재 허가 제형은 PET 진단용 주사제와 치아용 겔뿐임)",
+   "replacement": "(현재 허가 제형은 주사제(PET 진단용 등), 치아용 겔, 껌정(수출용)임)",
+   "summary": "허가 제형: “(현재 허가 제형은 PET 진단용 주사제와 치아용 겔뿐임)” → 자료 기준으로 수정",
+   "note": "식품의약품안전처 의약품안전나라(nedrug) 허가 자료(2026-11-23 데이터) 기준으로 수정했습니다: 허가 제형에 대한 설명이 자료와 맞지 않아 자료에 있는 제형으로 고쳤습니다.",
+   "finding": "證據包 15 張：注射劑（PET 診斷用與 아다벤주、멀티포텐9주、멜엔서프주等微量元素注射劑）、牙用凝膠、구청껌정（수출용）；待辦條目的前提「…뿐」不成立，只改前提（證據包 Release data-20261123-155715 tfda.records 逐張核對）",
+   "sources": [
+    {
+     "title": "식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보",
+     "url": "https://nedrug.mfds.go.kr/searchDrug",
+     "accessed": "2026-11-24"
+    }
+   ],
+   "checked": "2026-11-24",
+   "method": "2026-11-24 第二輪人工查核（用戶決定：待查清單與寬偵測列出的舊錯句，逐句對照證據包與快照事實層後寫 correct 紀錄；更正文字不寫死張數）"
   }
  ]
 }

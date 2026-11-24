@@ -593,3 +593,16 @@ nedrug 엑셀다운로드 收全部정상品目，취소/취하品目只收취�
   正文寫「全部單方」而品目名其實含複方的 3 頁以 `kr-lic-20261124-{ritonavir,lansoprazole,fimasartan}-1` 更正；camphor（品目名看不出成分）與寬偵測找到的 3 句（fluticasone、tretinoin、paliperidone，有保留語或子集、count_prose 不改）列待查。
   另寫的寬偵測（正文張數跟事實層不符）改前 40 句、改後 38 句：部分紀錄頁 18 句（不可驗證）、子集／수출용／「이 외에 N건」＝總數−表列數之類一致的 15 句、待查 4 句、count_prose 原有的 premise／ambiguous 2 句。checker 全量前後 0；gate exit 0。
 - 母目錄 `.claude/license_labels/KrTxGNN.json` 只有「유효」；程式表會寫的註銷字樣（취하、유효기간만료、행정(취소)、폐업）要由母目錄加進 labels（cancelled，preferred 취하），本站沒改母目錄。
+
+## 第二輪：舊錯句逐句寫查核紀錄、劑型說法、說明樣板不寫張數（2026-11-24）
+
+用戶 2026-11-24 第二輪決定（各站同日）：第一輪列進待查與寬偵測找到、跟 MFDS 資料（證據包 data-20261123-155715、快照事實層）相反的正文句子逐句寫 correct 紀錄；更正文字不寫死張數（指向빠른 개요與程式表）。
+- 36 筆 `kr-lic-20261124b-*`（35 頁）：待查 4 句（fluticasone「총 13건」實為 14 張；tretinoin「7건」實為 14 張（有效 9）；paliperidone「총 6건」只算서방정、另有 7 張注射劑；camphor「총 16건 모두 단일제」與已收紀錄矛盾、已收紀錄有 L-멘톨／살리실산메틸複方與外用液、噴霧）；
+  部分紀錄頁（事實層 partial）正文寫的總數或有效數少於已收紀錄、或「모두 단일」而已收紀錄成分欄是別的成分（＝複方）的 19 句（aminocaproic_acid、amoxicillin、arginine、ascorbic_acid、citric_acid、ebastine、entacapone、esomeprazole、hydrocortisone_acetate、lenalidomide、methionine、mometasone、morphine、potassium_iodide、prednisolone_acetate、azithromycin、sucralfate 等）；
+  完整頁把有效數寫成「총／전체／허가증은 총」的 4 句（azathioprine、desogestrel、ioversol、polmacoxib）與張數不符的 aminophylline、etoricoxib、rifampicin、adenosine（漏了複方注射劑）、daunorubicin（「취소 여부 정보가 없어」）；
+  劑型全稱說法 6 句（mometasone「모두 비강분무제」實有크림、isosorbide_dinitrate 漏了注射劑、epinephrine「모두 주사제」實有보스민액；fusidic_acid、scopolamine、sodium_fluoride 的待辦條目只改前提）。
+- 判定成立、不改：count_prose 判斷不了的 adenosine（4 張單方的待辦，11-12 已 resolved）、alfuzosin_hydrochloride（19／16／3、全部單方，與事實層一致，待查清單加一筆 resolved）；ribavirin、tamoxifen、voglibose、bicalutamide、busulfan、sulfasalazine 的수출용張數、daunorubicin／zidovudine 的單方子集、劑型「…뿐／모두」說法 20 多句（deoxycholic_acid、isoniazid、spironolactone、bacitracin、desonide 等，逐句對照證據包全部品項成立）。
+  部分紀錄頁上數字不小於已收紀錄、或劑型跟已收紀錄一致的（guaifenesin「단일 성분 8건」、fluconazole「경구 캡슐과 정제뿐」、rivastigmine「모두 경피 패취」、meloxicam 等）無法用資料證明錯，不改。
+- `site.py` 的 `_fig`（reviews_from_edits 寫紀錄說明時用）改成不寫數字；說明裡寫死「이 약의 허가는 N건(유효 M건)」的 44 筆與 codeine、ramipril 的 11-12 紀錄同 id 重發（前版存 history）。
+- 寬偵測（正文「N건」跟事實層任一讀法都不符；部分紀錄頁只算少於已收紀錄的）改前 29 句、改後 8 句（都是수출용子集或候選數、已逐句確認）；checker 全量前後 0；gate exit 0。
+  沒有市場段落的公開頁 2 頁（agomelatine、paclitaxel）照第一輪不補段落。

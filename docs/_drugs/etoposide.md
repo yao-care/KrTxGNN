@@ -66,7 +66,7 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 
 <!-- review:begin kr-lic-20261105-etoposide-1 -->
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 8건(유효 6건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261105-etoposide-1 -->
 
@@ -132,7 +132,7 @@ TxGNN 모델은 **폐의 고분화 태아형 선암(well-differentiated fetal ad
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 삭제: “6건의 허가증이 모두 단일성분 제제이며 유효 상태입니다. 아래는 그중 5건입니다” | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059) |
 
 <!-- review:end log -->

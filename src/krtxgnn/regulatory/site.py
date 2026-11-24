@@ -108,9 +108,10 @@ def reason_kind(reason):
 
 
 def _fig(fc):
-    if not fc or fc.get("total") is None:
+    # 2026-11-24 用戶決定：查核紀錄說明不寫死張數（張數每週隨 MFDS 資料變，只指向概覽表與程式許可證表）
+    if not fc:
         return ""
-    return (f" 이 약의 허가는 {fc['total']}건(유효 {fc.get('valid') or 0}건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다.")
+    return " 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다."
 
 
 def note_for(kind, date, fc):

@@ -67,7 +67,7 @@ TxGNN 모델은 **일차 혈소판 방출 장애(primary release disorder of pla
 
 <!-- review:begin kr-lic-20261105-methoxy_polyethylene_glycol-epoetin_beta-1 -->
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 9건(유효 8건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다.” 삭제: 허가 건수나 상태가 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261105-methoxy_polyethylene_glycol-epoetin_beta-1 -->
 
@@ -124,7 +124,7 @@ TxGNN 모델은 **일차 혈소판 방출 장애(primary release disorder of pla
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 삭제: “위 5건 외에 360μg/0.6mL, 30μg/0.3mL, 250μg/0.3mL, 150μg/0.3mL 규격이 있어 총 9건이며, 모두 (주)한국로슈의 단일제로 유효 상태입니다” | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 | 2026-11-19 | “작용 기전 데이터가 없습니다” 문장을 미국 처방 정보 발췌문으로 교체 | 작용 기전 자료가 없다는 문장을 출처가 있는 발췌문으로 교체 | [DailyMed: Mircera (methoxy polyethylene glycol-epoetin beta) prescribing information, Vifor (International) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=22c56f2a-f73c-60e7-e054-00144ff88e88) |
 
 <!-- review:end log -->

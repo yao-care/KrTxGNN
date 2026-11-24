@@ -7,7 +7,7 @@ parent: 모델 예측만 (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 0
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 predicted_indications: []
 ---
 
@@ -45,7 +45,7 @@ Arotinolol Hydrochloride는 베타차단·알파차단 계열 약물로 알려�
 
 <!-- review:begin kr-lic-20261105-arotinolol_hydrochloride-1 -->
 
-> **검토 정정 (2026-11-05)**: 원래 문장: “한국 내 시판 기록도 없으며, 작용 기전(MOA)과 허가 경고·금기 데이터 모두 누락되어 있어 약물 재창출 가능성을 정식 평가하기 위한 추가 데이터 확보가 선행되어야 합니다.” 삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 이 약의 허가는 4건(유효 4건)이며, 현재 수치는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
+> **검토 정정 (2026-11-24)**: 원래 문장: “한국 내 시판 기록도 없으며, 작용 기전(MOA)과 허가 경고·금기 데이터 모두 누락되어 있어 약물 재창출 가능성을 정식 평가하기 위한 추가 데이터 확보가 선행되어야 합니다.” 삭제: 성분 기준으로 다시 맞춘 2026-11-05 기준 식품의약품안전처(nedrug) 허가 자료와 맞지 않습니다. 현재 허가 건수와 상태는 빠른 개요와 「한국 시판 정보」의 표에 있습니다. 근거: [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug).
 
 <!-- review:end kr-lic-20261105-arotinolol_hydrochloride-1 -->
 
@@ -92,7 +92,7 @@ TxGNN 예측 결과(`predicted_indications`)가 없고, 기존 허가 적응증�
 
 | 검토일 | 항목 | 처리 | 근거 |
 |------|------|------|------|
-| 2026-11-05 | 삭제: “한국 내 시판 기록도 없으며” | 정정 | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
+| 2026-11-24 | 삭제: “한국 내 시판 기록도 없으며” | 정정 (2026-11-24 수정, 이전 판은 기록에 보존) | [식품의약품안전처 의약품안전나라(nedrug) 의약품 허가 정보](https://nedrug.mfds.go.kr/searchDrug) |
 
 <!-- review:end log -->
 
